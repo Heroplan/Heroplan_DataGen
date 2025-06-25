@@ -1,0 +1,4 @@
+2025-06-21 01:16:07,927 - INFO - ===== 开始执行批量合并任务（稳定模式） =====
+2025-06-21 01:16:07,927 - INFO - 正在加载主数据文件 [CN]: heroes_data_cn.js
+2025-06-21 01:16:07,933 - ERROR - 错误: 解析 heroes_data_cn.js 的JSON内容失败 - Expecting ',' delimiter: line 12 column 10 (char 239)
+2025-06-21 01:16:07,933 - ERROR - 任务中止，因为主文件 heroes_data_cn.js 加载失败。
