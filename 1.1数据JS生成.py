@@ -39,7 +39,7 @@ typo_corrections = {
 }
 tolerant_typo_corrections = {normalize_for_generic_lookup(k): v for k, v in typo_corrections.items()}
 
-# --- 配置 (无变化) ---
+# --- 配置 (*** 已修改 ***) ---
 HEROES_DATA_DIR = '../heroplan_data/data/heroes'
 DICTIONARY_DIR = 'dictionaries'
 HEROES_DATA_EXTRA_FILE = 'heroes_data_extra.js'
@@ -47,25 +47,24 @@ OUTPUT_JS_FILE_CN = 'heroes_data_cn.js'
 OUTPUT_JS_FILE_TC = 'heroes_data_tc.js'
 OUTPUT_JS_FILE_EN = 'heroes_data_en.js'
 
+# *** 修改点: 新增 'types' 字典配置, 并确保 'skill_types' 存在 ***
 SIMPLE_DICT_CONFIG = {
     'hero_names': 'heroes_name_dict',
-    'skill_types': 'skill_types_dict',
+    'types': 'types_dict',                  # 新增: 用于翻译 'types' 字段
+    'skill_types': 'skill_types_dict',      # 用于翻译 'skill_types' 字段
     'skillname': 'skill_name_dict',
     'heroes_name_fancy': 'heroes_name_fancy_dict',
     'aether_powers': 'aether_power_dict',
 }
 BASE_DICT_FILE_STEM = 'base_values_dict'
 
-# --- 全局变量 (修改) ---
+# --- 全局变量 (无变化) ---
 LANGUAGES = ['cn', 'tc', 'en']
 translations = {}
 hero_map_processed = {}
 hero_keys_sorted = []
 heroes_extra_lookup = {}
-# (重大修改) 为不同语言定义独立的 appearance_map
-# 中文映射表：将 "toon" 翻译为 "卡通"
 appearance_map_zh = {"costume": "C1", "costume1": "C1", "costume2": "C2", "costume3": "C3", "toon": "卡通", "glass": "玻璃"}
-# 英文映射表：保留 "Toon" 的原始英文形式，或使用通用代码
 appearance_map_en = {"costume": "C1", "costume1": "C1", "costume2": "C2", "costume3": "C3", "toon": "Toon", "glass": "Glass"}
 
 
@@ -83,7 +82,7 @@ def clean_string_for_output(text):
     return text.replace('[', '').replace(']', '')
 
 def load_all_dictionaries(dictionary_base_dir):
-    """(无变化) 统一加载函数，使其动态支持 LANGUAGES 列表中的所有语言"""
+    """(无变化)"""
     global hero_map_processed, hero_keys_sorted
     print("正在加载所有字典...")
 
@@ -142,7 +141,7 @@ def load_all_dictionaries(dictionary_base_dir):
 
 
 def translate_name(name_en):
-    """(重大修改) 重构函数以使用独立的 appearance_map 并正确构建所有语言的名称"""
+    """(无变化)"""
     if not isinstance(name_en, str):
         return {lang: str(name_en) for lang in LANGUAGES}
         
@@ -161,22 +160,17 @@ def translate_name(name_en):
 
         final_names = {}
         for lang in LANGUAGES:
-            # 步骤 1: 获取翻译后的基础名称
             if lang == 'en':
-                # 对于英文，基础名称就是英雄的英文名
                 base_name_trans = cleaned_english_name
-            else:  # 'cn', 'tc'
-                # 对于中文，格式为 "中文名 (英文名)"
+            else:
                 cn_base = clean_string_for_output(found_hero_base_translations.get(lang, ''))
                 base_name_trans = f"{cn_base} ({cleaned_english_name})".strip() if cn_base else cleaned_english_name
 
-            # 步骤 2: 获取翻译后的后缀
             translated_suffix = ""
             if suffix:
                 current_map = appearance_map_en if lang == 'en' else appearance_map_zh
                 translated_suffix = current_map.get(suffix.lower(), suffix)
 
-            # 步骤 3: 组合基础名称和后缀
             if translated_suffix:
                 final_names[lang] = f"{base_name_trans} {translated_suffix}".strip()
             else:
@@ -184,13 +178,12 @@ def translate_name(name_en):
         
         return final_names
         
-    # 如果没找到，所有语言都返回清理后的原始英文名
     cleaned_full_name = clean_string_for_output(original_name_no_accents_full)
     return {lang: cleaned_full_name for lang in LANGUAGES}
 
 
 def translate_single_value(value, dict_key):
-    """(无变化) 使其返回包含所有语言翻译的字典"""
+    """(无变化)"""
     if not isinstance(value, str):
         return {lang: value for lang in LANGUAGES}
         
@@ -209,24 +202,26 @@ def correct_and_translate_skill(skill_name_raw):
     corrected_skill_name = tolerant_typo_corrections.get(normalized_for_typo_lookup, skill_name_raw)
     return translate_single_value(corrected_skill_name, 'skillname')
 
-def translate_list_of_skills(skill_list):
-    """(无变化)"""
-    if not isinstance(skill_list, list):
-        return {lang: skill_list for lang in LANGUAGES}
+def translate_list(items_list, dict_key):
+    """(已修改) 通用列表翻译函数，取代原有的 translate_list_of_skills。"""
+    if not isinstance(items_list, list):
+        return {lang: items_list for lang in LANGUAGES}
         
-    translated_skills = {lang: [] for lang in LANGUAGES}
+    translated_items = {lang: [] for lang in LANGUAGES}
     
-    for s in skill_list:
-        if isinstance(s, str):
-            normalized_s = normalize_for_generic_lookup(s)
+    for item in items_list:
+        if isinstance(item, str):
+            normalized_item = normalize_for_generic_lookup(item)
             for lang in LANGUAGES:
-                skill_map_tolerant = translations.get('skill_types_tolerant', {}).get(lang, {})
-                translated_skills[lang].append(skill_map_tolerant.get(normalized_s, s))
+                # 使用传入的 dict_key 查找对应的宽容匹配字典
+                tolerant_map = translations.get(f"{dict_key}_tolerant", {}).get(lang, {})
+                translated_items[lang].append(tolerant_map.get(normalized_item, item))
         else:
+            # 处理非字符串项，例如数字
             for lang in LANGUAGES:
-                translated_skills[lang].append(s)
+                translated_items[lang].append(item)
                 
-    return translated_skills
+    return translated_items
 
 def flatten_list(nested_list):
     """(无变化)"""
@@ -245,16 +240,19 @@ def load_heroes_data_extra():
     if not os.path.exists(HEROES_DATA_EXTRA_FILE): return
     try:
         with open(HEROES_DATA_EXTRA_FILE, 'r', encoding='utf-8') as f:
-            match = re.search(r'const heroes_data_extra = (\[.*?\]);', f.read(), re.DOTALL)
+            js_content = f.read()
+            match = re.search(r'=\s*(\[[\s\S]*?\])\s*;', js_content)
         if match:
-            for entry in json.loads(match.group(1)):
+            json_str = match.group(1)
+            json_str = re.sub(r',\s*([\]}])', r'\1', json_str)
+            for entry in json.loads(json_str):
                 if name_raw := entry.get('name'):
                     heroes_extra_lookup[normalize_for_hero_name(name_raw)] = entry
     except Exception as e: print(f"错误: 解析 '{HEROES_DATA_EXTRA_FILE}' 时出错: {e}")
 
 
 def generate_js_data_with_translation(heroes_base_dir, output_path_cn, output_path_tc, output_path_en):
-    """(无变化) 更新数据打包逻辑以使用新的多语言翻译结构"""
+    """(已修改) 更新数据打包逻辑，以正确使用 `types` 和 `skill_types` 的翻译字典。"""
     all_hero_data = {lang: [] for lang in LANGUAGES}
     missing_extra = []
     original_index_counter = 0
@@ -282,8 +280,16 @@ def generate_js_data_with_translation(heroes_base_dir, output_path_cn, output_pa
                     speed_trans = translate_single_value(speed, 'base_values')
                     skill_raw = hero_data.get('skill') or ('Rending Dagger' if hero_name_raw == 'Aurum' else None)
                     skill_trans = correct_and_translate_skill(skill_raw)
-                    types_trans = translate_list_of_skills(flatten_list(hero_data.get('types', [])))
                     source_trans = translate_single_value(hero_data.get('source'), 'source_values')
+                    
+                    # --- *** 修改点 1 开始 *** ---
+                    # `types` 始终来自 yml 文件, 使用 'types' 字典翻译
+                    types_trans = translate_list(flatten_list(hero_data.get('types', [])), 'types')
+                    
+                    # `skill_types` 是一个独立字段，来自 extra data (JS文件), 使用 'skill_types' 字典翻译
+                    skill_types_source = extra.get('skill_types', []) # 如果不存在则默认为空列表
+                    skill_types_trans = translate_list(skill_types_source, 'skill_types')
+                    # --- *** 修改点 1 结束 *** ---
                     
                     # --- 数据打包 ---
                     common_data = {'Release date': extra.get('Release date', ''), 'star': star, 'power': hero_data.get('power'), 'attack': hero_data.get('attack'), 'defense': hero_data.get('defense'), 'health': hero_data.get('health'), 'effects': flatten_list(hero_data.get('effects', [])), 'passives': flatten_list(hero_data.get('passives', [])), 'family': hero_data.get('family'), 'image': hero_data.get('image'), 'costume_id': 0, 'originalIndex': original_index_counter}
@@ -297,7 +303,8 @@ def generate_js_data_with_translation(heroes_base_dir, output_path_cn, output_pa
                             'class': class_trans[lang],
                             'speed': speed_trans[lang],
                             'skill': skill_trans[lang],
-                            'types': types_trans[lang],
+                            'types': types_trans[lang],                   # 使用 types_trans
+                            'skill_types': skill_types_trans[lang],       # 使用 skill_types_trans
                             'source': source_trans[lang],
                             **common_data
                         }
@@ -322,7 +329,13 @@ def generate_js_data_with_translation(heroes_base_dir, output_path_cn, output_pa
                             class_trans_c = translate_single_value(costume_data.get('class'), 'base_values')
                             costume_skill_raw = costume_data.get('skill')
                             skill_trans_c = correct_and_translate_skill(costume_skill_raw)
-                            types_trans_c = translate_list_of_skills(flatten_list(costume_data.get('types', [])))
+                            
+                            # --- *** 修改点 2 开始 *** ---
+                            # 对时装执行相同的逻辑
+                            types_trans_c = translate_list(flatten_list(costume_data.get('types', [])), 'types')
+                            skill_types_source_c = extra_c.get('skill_types', [])
+                            skill_types_trans_c = translate_list(skill_types_source_c, 'skill_types')
+                            # --- *** 修改点 2 结束 *** ---
                             
                             # --- 时装数据打包 ---
                             common_data_c = {'Release date': extra_c.get('Release date', ''), 'star': star, 'power': costume_data.get('power'), 'attack': costume_data.get('attack'), 'defense': costume_data.get('defense'), 'health': costume_data.get('health'), 'effects': flatten_list(costume_data.get('effects', [])), 'passives': flatten_list(costume_data.get('passives', [])), 'family': hero_data.get('family'), 'image': costume_data.get('image'), 'costume_id': costume_id, 'originalIndex': original_index_counter}
@@ -336,7 +349,8 @@ def generate_js_data_with_translation(heroes_base_dir, output_path_cn, output_pa
                                     'class': class_trans_c[lang],
                                     'speed': speed_trans[lang],
                                     'skill': skill_trans_c[lang],
-                                    'types': types_trans_c[lang],
+                                    'types': types_trans_c[lang],               # 使用 types_trans_c
+                                    'skill_types': skill_types_trans_c[lang],   # 使用 skill_types_trans_c
                                     'source': source_trans[lang],
                                     **common_data_c
                                 }

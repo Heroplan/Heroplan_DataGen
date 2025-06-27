@@ -11,6 +11,9 @@ window.allHeroes =
         "types": [
             "攻击所有目标"
         ],
+        "skill_types": [
+            "全体攻击 (打5)"
+        ],
         "source": "S1-经典",
         "Release date": "2017-01-01",
         "star": 1,
@@ -38,6 +41,9 @@ window.allHeroes =
         "types": [
             "攻击单个目标"
         ],
+        "skill_types": [
+            "狙击手"
+        ],
         "source": "S1-经典",
         "Release date": "2017-01-01",
         "star": 1,
@@ -63,6 +69,9 @@ window.allHeroes =
         "speed": "中等",
         "skill": "防御战术",
         "types": [
+            "防御增益"
+        ],
+        "skill_types": [
             "防御增益"
         ],
         "source": "S1-经典",
@@ -92,6 +101,9 @@ window.allHeroes =
         "types": [
             "攻击所有目标"
         ],
+        "skill_types": [
+            "全体攻击 (打5)"
+        ],
         "source": "S1-经典",
         "Release date": "2017-01-01",
         "star": 2,
@@ -117,6 +129,9 @@ window.allHeroes =
         "speed": "中等",
         "skill": "攻击动员",
         "types": [
+            "攻击增益"
+        ],
+        "skill_types": [
             "攻击增益"
         ],
         "source": "S1-经典",
@@ -147,6 +162,12 @@ window.allHeroes =
             "全体持续治疗",
             "复活者",
             "自我替换状态异常"
+        ],
+        "skill_types": [
+            "持续治疗",
+            "复活",
+            "反制小兵",
+            "状态效果转换"
         ],
         "source": "高塔-魔法",
         "Release date": "2025-04-17",
@@ -183,6 +204,10 @@ window.allHeroes =
         "types": [
             "攻击所有目标"
         ],
+        "skill_types": [
+            "全体攻击 (打5)",
+            "对自身或友军负面效果"
+        ],
         "source": "月活动-春谷",
         "Release date": "2020-04-06",
         "star": 3,
@@ -214,6 +239,13 @@ window.allHeroes =
             "特殊技能防御增益",
             "净化 (3个目标)"
         ],
+        "skill_types": [
+            "防御增益",
+            "净化",
+            "持续伤害",
+            "召唤小兵",
+            "法力削减或格挡"
+        ],
         "source": "盟约召唤",
         "Release date": "2022-08-25",
         "star": 3,
@@ -229,7 +261,7 @@ window.allHeroes =
         ],
         "passives": [
             "特殊技能伤害减免：该角色有 10% 的几率将受到的特殊技能直接伤害降至 1 点。",
-            "特殊技能附加状态效果：当该角色施放其特殊技能时，会给一个随机敌人施加猎人印记。目标在 150 回合内受到 3 点伤害。如果目标已有此效果，则持续时间刷新，伤害增加 150 点，总伤害最高可达 1500 点。"
+            "特殊技能附加状态效果：当该角色施放其特殊技能时，会给一个随机敌人施加猎人印记。目标在 3 回合内受到 150 点伤害。如果目标已有此效果，则持续时间刷新，伤害增加 150 点，总伤害最高可达 1500 点。"
         ],
         "family": "plainshunter",
         "image": "https://i.imgur.com/yP9tWF8.jpg",
@@ -247,6 +279,10 @@ window.allHeroes =
         "types": [
             "全体治疗",
             "召唤者"
+        ],
+        "skill_types": [
+            "治疗",
+            "召唤小兵"
         ],
         "source": "月活动-冬日",
         "Release date": "2020-12-01",
@@ -277,6 +313,10 @@ window.allHeroes =
             "攻击单个目标",
             "3个目标减益免疫"
         ],
+        "skill_types": [
+            "提供免疫",
+            "狙击手"
+        ],
         "source": "S2-亚特兰蒂斯",
         "Release date": "2019-08-01",
         "star": 3,
@@ -305,6 +345,10 @@ window.allHeroes =
         "types": [
             "攻击单个目标",
             "自我治疗"
+        ],
+        "skill_types": [
+            "特殊治疗",
+            "狙击手"
         ],
         "source": "S1-经典",
         "Release date": "2017-01-01",
@@ -336,6 +380,11 @@ window.allHeroes =
             "自我状态异常免疫",
             "自我攻击增益"
         ],
+        "skill_types": [
+            "攻击增益",
+            "提供免疫",
+            "狙击手"
+        ],
         "source": "S1-经典",
         "Release date": "2021-01-18",
         "star": 3,
@@ -365,6 +414,11 @@ window.allHeroes =
         "types": [
             "攻击单个目标",
             "自我治疗"
+        ],
+        "skill_types": [
+            "特殊治疗",
+            "狙击手",
+            "额外伤害"
         ],
         "source": "S1-经典",
         "Release date": "2024-04-08",
@@ -399,6 +453,11 @@ window.allHeroes =
             "无视防御",
             "自我治疗"
         ],
+        "skill_types": [
+            "绕过",
+            "特殊治疗",
+            "狙击手"
+        ],
         "source": "S1-经典",
         "Release date": "2025-06-18",
         "star": 3,
@@ -430,6 +489,10 @@ window.allHeroes =
         "types": [
             "全体治疗"
         ],
+        "skill_types": [
+            "防御增益",
+            "治疗"
+        ],
         "source": "挑战节-守护者",
         "Release date": "2021-12-15",
         "star": 3,
@@ -458,6 +521,10 @@ window.allHeroes =
         "types": [
             "友方伤害分担",
             "全体防御增益"
+        ],
+        "skill_types": [
+            "防御增益",
+            "伤害分摊"
         ],
         "source": "S1-经典",
         "Release date": "2017-01-01",
@@ -488,6 +555,10 @@ window.allHeroes =
             "敌方伤害分担",
             "全体防御降低"
         ],
+        "skill_types": [
+            "伤害分摊",
+            "防御减益"
+        ],
         "source": "S1-经典",
         "Release date": "2020-01-01",
         "star": 3,
@@ -516,6 +587,10 @@ window.allHeroes =
         "types": [
             "友方伤害分担",
             "全体防御增益"
+        ],
+        "skill_types": [
+            "防御增益",
+            "伤害分摊"
         ],
         "source": "S1-经典",
         "Release date": "2024-09-08",
@@ -548,6 +623,10 @@ window.allHeroes =
             "全体治疗",
             "全体净化"
         ],
+        "skill_types": [
+            "净化",
+            "治疗"
+        ],
         "source": "S4-蛮荒地界",
         "Release date": "2021-03-25",
         "star": 3,
@@ -579,6 +658,10 @@ window.allHeroes =
             "持续治疗",
             "净化者"
         ],
+        "skill_types": [
+            "净化",
+            "持续治疗"
+        ],
         "source": "S4-蛮荒地界",
         "Release date": "2023-12-07",
         "star": 3,
@@ -609,6 +692,10 @@ window.allHeroes =
         "types": [
             "攻击单个目标",
             "增益免疫"
+        ],
+        "skill_types": [
+            "增益格挡者",
+            "狙击手"
         ],
         "source": "S5-沙丘",
         "Release date": "2022-04-21",
@@ -642,6 +729,10 @@ window.allHeroes =
         "types": [
             "攻击单个目标",
             "增益免疫"
+        ],
+        "skill_types": [
+            "增益格挡者",
+            "狙击手"
         ],
         "source": "S5-沙丘",
         "Release date": "2025-03-17",
@@ -678,6 +769,11 @@ window.allHeroes =
             "攻击单个目标",
             "叠加"
         ],
+        "skill_types": [
+            "攻击增益",
+            "狙击手",
+            "叠加"
+        ],
         "source": "S3-瓦尔哈拉",
         "Release date": "2020-05-28",
         "star": 3,
@@ -707,6 +803,11 @@ window.allHeroes =
             "驱散者",
             "攻击所有目标",
             "增益免疫"
+        ],
+        "skill_types": [
+            "全体攻击 (打5)",
+            "增益格挡者",
+            "驱散"
         ],
         "source": "月活动-卡勒瓦拉",
         "Release date": "2022-06-20",
@@ -739,6 +840,9 @@ window.allHeroes =
         "types": [
             "攻击3个目标"
         ],
+        "skill_types": [
+            "范围攻击 (打3)"
+        ],
         "source": "S1-经典",
         "Release date": "2017-01-01",
         "star": 3,
@@ -767,6 +871,10 @@ window.allHeroes =
             "攻击3个目标",
             "3个目标持续伤害"
         ],
+        "skill_types": [
+            "范围攻击 (打3)",
+            "持续伤害"
+        ],
         "source": "S1-经典",
         "Release date": "2020-05-18",
         "star": 3,
@@ -794,6 +902,10 @@ window.allHeroes =
         "skill": "卡通梦幻突袭",
         "types": [
             "攻击3个目标"
+        ],
+        "skill_types": [
+            "范围攻击 (打3)",
+            "额外伤害"
         ],
         "source": "S1-经典",
         "Release date": "2024-06-28",
@@ -826,6 +938,10 @@ window.allHeroes =
             "攻击3个目标",
             "元素防御降低"
         ],
+        "skill_types": [
+            "范围攻击 (打3)",
+            "防御减益"
+        ],
         "source": "S3-瓦尔哈拉",
         "Release date": "2020-02-27",
         "star": 3,
@@ -854,6 +970,10 @@ window.allHeroes =
         "types": [
             "攻击3个目标",
             "元素防御降低"
+        ],
+        "skill_types": [
+            "范围攻击 (打3)",
+            "防御减益"
         ],
         "source": "S3-瓦尔哈拉",
         "Release date": "2023-04-10",
@@ -885,6 +1005,11 @@ window.allHeroes =
             "攻击单个目标",
             "自我持续治疗"
         ],
+        "skill_types": [
+            "持续治疗",
+            "反制小兵",
+            "狙击手"
+        ],
         "source": "联盟-火枪手",
         "Release date": "2023-03-08",
         "star": 3,
@@ -915,6 +1040,11 @@ window.allHeroes =
         "skill": "信仰之力",
         "types": [
             "攻击单个目标"
+        ],
+        "skill_types": [
+            "狙击手",
+            "额外伤害",
+            "伤害减免"
         ],
         "source": "挑战-石像鬼",
         "Release date": "2022-05-12",
@@ -949,6 +1079,13 @@ window.allHeroes =
             "小天鹅之舞 (4个目标)",
             "4个目标闪避增益",
             "4个目标状态效果免疫"
+        ],
+        "skill_types": [
+            "连锁与随机攻击",
+            "舞者",
+            "闪避",
+            "持续治疗",
+            "提供免疫"
         ],
         "source": "至日召唤",
         "Release date": "2024-01-25",
@@ -988,6 +1125,10 @@ window.allHeroes =
             "攻击所有目标",
             "全体防御降低"
         ],
+        "skill_types": [
+            "全体攻击 (打5)",
+            "防御减益"
+        ],
         "source": "S1-经典",
         "Release date": "2017-01-01",
         "star": 3,
@@ -1017,6 +1158,10 @@ window.allHeroes =
             "攻击所有目标",
             "全体攻击增益"
         ],
+        "skill_types": [
+            "全体攻击 (打5)",
+            "攻击增益"
+        ],
         "source": "S1-经典",
         "Release date": "2021-01-18",
         "star": 3,
@@ -1045,6 +1190,11 @@ window.allHeroes =
         "types": [
             "攻击所有目标",
             "全体防御降低"
+        ],
+        "skill_types": [
+            "全体攻击 (打5)",
+            "防御减益",
+            "额外伤害"
         ],
         "source": "S1-经典",
         "Release date": "2024-07-16",
@@ -1078,6 +1228,10 @@ window.allHeroes =
             "攻击单个目标",
             "单体防御降低"
         ],
+        "skill_types": [
+            "防御减益",
+            "狙击手"
+        ],
         "source": "S1-经典",
         "Release date": "2017-01-01",
         "star": 3,
@@ -1107,6 +1261,10 @@ window.allHeroes =
             "攻击单个目标",
             "自我攻击增益"
         ],
+        "skill_types": [
+            "攻击增益",
+            "狙击手"
+        ],
         "source": "S1-经典",
         "Release date": "2021-01-18",
         "star": 3,
@@ -1135,6 +1293,11 @@ window.allHeroes =
         "types": [
             "攻击单个目标",
             "单体防御降低"
+        ],
+        "skill_types": [
+            "防御减益",
+            "额外伤害",
+            "狙击手"
         ],
         "source": "S1-经典",
         "Release date": "2023-12-25",
@@ -1168,6 +1331,11 @@ window.allHeroes =
             "蓄力",
             "治疗者",
             "元素防御增益"
+        ],
+        "skill_types": [
+            "防御增益",
+            "治疗",
+            "反制小兵"
         ],
         "source": "高塔-冥河",
         "Release date": "2022-09-21",
@@ -1209,6 +1377,10 @@ window.allHeroes =
         "types": [
             "攻击单个目标"
         ],
+        "skill_types": [
+            "狙击手",
+            "额外伤害"
+        ],
         "source": "挑战节-海盗",
         "Release date": "2017-01-01",
         "star": 3,
@@ -1237,6 +1409,11 @@ window.allHeroes =
         "types": [
             "攻击3个目标",
             "召唤者"
+        ],
+        "skill_types": [
+            "范围攻击 (打3)",
+            "驱散",
+            "召唤小兵"
         ],
         "source": "三国召唤",
         "Release date": "2022-03-14T12:00:00",
@@ -1268,6 +1445,10 @@ window.allHeroes =
             "攻击所有目标",
             "元素防御增益"
         ],
+        "skill_types": [
+            "全体攻击 (打5)",
+            "防御增益"
+        ],
         "source": "S2-亚特兰蒂斯",
         "Release date": "2019-08-01",
         "star": 4,
@@ -1297,6 +1478,10 @@ window.allHeroes =
             "攻击所有目标",
             "元素持续伤害"
         ],
+        "skill_types": [
+            "全体攻击 (打5)",
+            "持续伤害"
+        ],
         "source": "S2-亚特兰蒂斯",
         "Release date": "2023-03-06",
         "star": 4,
@@ -1325,6 +1510,10 @@ window.allHeroes =
         "types": [
             "嘲讽",
             "攻击所有目标"
+        ],
+        "skill_types": [
+            "全体攻击 (打5)",
+            "嘲讽"
         ],
         "source": "S6-S7-秘闻",
         "Release date": "2023-09-27",
@@ -1363,6 +1552,10 @@ window.allHeroes =
         "types": [
             "嘲讽",
             "攻击所有目标"
+        ],
+        "skill_types": [
+            "全体攻击 (打5)",
+            "嘲讽"
         ],
         "source": "S6-S7-秘闻",
         "Release date": "2023-09-27",
@@ -1403,6 +1596,10 @@ window.allHeroes =
             "全体治疗",
             "反击"
         ],
+        "skill_types": [
+            "反击",
+            "治疗"
+        ],
         "source": "S5-沙丘",
         "Release date": "2022-04-21",
         "star": 4,
@@ -1435,6 +1632,12 @@ window.allHeroes =
         "types": [
             "全体治疗",
             "反击"
+        ],
+        "skill_types": [
+            "治疗",
+            "反击",
+            "生命强化",
+            "净化"
         ],
         "source": "S5-沙丘",
         "Release date": "2024-06-24",
@@ -1471,6 +1674,11 @@ window.allHeroes =
             "攻击3个目标",
             "防御降低"
         ],
+        "skill_types": [
+            "范围攻击 (打3)",
+            "防御减益",
+            "防御增益"
+        ],
         "source": "盟约召唤",
         "Release date": "2024-04-25",
         "star": 4,
@@ -1505,6 +1713,9 @@ window.allHeroes =
         "types": [
             "3个目标反击"
         ],
+        "skill_types": [
+            "反击"
+        ],
         "source": "S1-经典",
         "Release date": "2017-01-01",
         "star": 4,
@@ -1531,6 +1742,9 @@ window.allHeroes =
         "skill": "壮力还击",
         "types": [
             "全体反击"
+        ],
+        "skill_types": [
+            "反击"
         ],
         "source": "S1-经典",
         "Release date": "2020-05-18",
@@ -1559,6 +1773,9 @@ window.allHeroes =
         "types": [
             "全体反击"
         ],
+        "skill_types": [
+            "反击"
+        ],
         "source": "S1-经典",
         "Release date": "2023-11-27",
         "star": 4,
@@ -1585,6 +1802,9 @@ window.allHeroes =
         "skill": "卡通反击",
         "types": [
             "3个目标反击"
+        ],
+        "skill_types": [
+            "反击"
         ],
         "source": "S1-经典",
         "Release date": "2024-09-08",
@@ -1617,6 +1837,11 @@ window.allHeroes =
             "攻击单个目标",
             "连锁攻击"
         ],
+        "skill_types": [
+            "连锁与随机攻击",
+            "反制小兵",
+            "狙击手"
+        ],
         "source": "挑战节-仙境",
         "Release date": "2019-02-01",
         "star": 4,
@@ -1646,6 +1871,13 @@ window.allHeroes =
         "types": [
             "霜降守卫 (3个目标)",
             "3个目标攻击增益"
+        ],
+        "skill_types": [
+            "攻击增益",
+            "伤害减免",
+            "持续伤害",
+            "反制小兵",
+            "攻击减益"
         ],
         "source": "S6-S7-秘闻",
         "Release date": "2025-05-16",
@@ -1682,6 +1914,11 @@ window.allHeroes =
             "全体驱散",
             "治疗者"
         ],
+        "skill_types": [
+            "驱散",
+            "持续治疗",
+            "反制小兵"
+        ],
         "source": "挑战-众神狂欢节",
         "Release date": "2023-07-13",
         "star": 4,
@@ -1715,6 +1952,11 @@ window.allHeroes =
             "攻击所有目标",
             "防御降低"
         ],
+        "skill_types": [
+            "全体攻击 (打5)",
+            "防御减益",
+            "额外伤害"
+        ],
         "source": "月活动-莫洛维亚",
         "Release date": "2020-10-26",
         "star": 4,
@@ -1746,6 +1988,13 @@ window.allHeroes =
         "types": [
             "攻击所有目标",
             "叠加者"
+        ],
+        "skill_types": [
+            "全体攻击 (打5)",
+            "持续伤害",
+            "额外伤害",
+            "法力削减或格挡",
+            "叠加"
         ],
         "source": "月活动-莫洛维亚",
         "Release date": "2021-10-04",
@@ -1780,6 +2029,12 @@ window.allHeroes =
             "攻击单个目标",
             "改变棋盘"
         ],
+        "skill_types": [
+            "改变面板",
+            "法力生成增益",
+            "法力削减或格挡",
+            "狙击手"
+        ],
         "source": "挑战节-吟游诗人",
         "Release date": "2022-12-01",
         "star": 4,
@@ -1810,6 +2065,11 @@ window.allHeroes =
         "types": [
             "攻击所有目标",
             "持剑守卫超级小兵"
+        ],
+        "skill_types": [
+            "召唤巨型小兵",
+            "全体攻击 (打5)",
+            "持续伤害"
         ],
         "source": "哥布林召唤",
         "Release date": "2024-04-15",
@@ -1844,6 +2104,10 @@ window.allHeroes =
             "攻击3个目标",
             "3个目标防御降低"
         ],
+        "skill_types": [
+            "范围攻击 (打3)",
+            "防御减益"
+        ],
         "source": "S1-经典",
         "Release date": "2017-01-01",
         "star": 4,
@@ -1873,6 +2137,10 @@ window.allHeroes =
             "攻击3个目标",
             "3个目标攻击增益"
         ],
+        "skill_types": [
+            "范围攻击 (打3)",
+            "攻击增益"
+        ],
         "source": "S1-经典",
         "Release date": "2021-01-18",
         "star": 4,
@@ -1900,6 +2168,10 @@ window.allHeroes =
         "skill": "邮件粉碎者",
         "types": [
             "攻击3个目标"
+        ],
+        "skill_types": [
+            "范围攻击 (打3)",
+            "攻击增益"
         ],
         "source": "S1-经典",
         "Release date": "2023-06-12",
@@ -1929,6 +2201,11 @@ window.allHeroes =
         "types": [
             "攻击3个目标",
             "3个目标防御降低"
+        ],
+        "skill_types": [
+            "范围攻击 (打3)",
+            "防御减益",
+            "额外伤害"
         ],
         "source": "S1-经典",
         "Release date": "2023-12-25",
@@ -1961,6 +2238,11 @@ window.allHeroes =
         "types": [
             "攻击3个目标",
             "3个目标防御降低"
+        ],
+        "skill_types": [
+            "范围攻击 (打3)",
+            "绕过",
+            "防御减益"
         ],
         "source": "S1-经典",
         "Release date": "2024-12-24",
@@ -1995,6 +2277,12 @@ window.allHeroes =
             "持续治疗",
             "净化者"
         ],
+        "skill_types": [
+            "伤害减免",
+            "持续治疗",
+            "净化",
+            "提供免疫"
+        ],
         "source": "挑战-重返圣堂",
         "Release date": "2024-05-16",
         "star": 4,
@@ -2027,6 +2315,12 @@ window.allHeroes =
             "攻击所有目标",
             "改变棋盘"
         ],
+        "skill_types": [
+            "全体攻击 (打5)",
+            "改变面板",
+            "攻击减益",
+            "攻击增益"
+        ],
         "source": "S3-瓦尔哈拉",
         "Release date": "2020-05-28",
         "star": 4,
@@ -2056,6 +2350,11 @@ window.allHeroes =
             "治疗者",
             "攻击增益",
             "防御增益"
+        ],
+        "skill_types": [
+            "攻击增益",
+            "防御增益",
+            "治疗"
         ],
         "source": "S1-经典",
         "Release date": "2017-01-01",
@@ -2088,6 +2387,11 @@ window.allHeroes =
             "攻击降低",
             "防御降低"
         ],
+        "skill_types": [
+            "攻击减益",
+            "防御减益",
+            "治疗"
+        ],
         "source": "S1-经典",
         "Release date": "2020-05-18",
         "star": 4,
@@ -2119,6 +2423,11 @@ window.allHeroes =
             "攻击降低",
             "防御增益"
         ],
+        "skill_types": [
+            "防御增益",
+            "攻击减益",
+            "生命强化"
+        ],
         "source": "S1-经典",
         "Release date": "2022-10-31",
         "star": 4,
@@ -2149,6 +2458,11 @@ window.allHeroes =
             "治疗者",
             "攻击增益",
             "防御增益"
+        ],
+        "skill_types": [
+            "攻击增益",
+            "防御增益",
+            "治疗"
         ],
         "source": "S1-经典",
         "Release date": "2024-02-12",
@@ -2185,6 +2499,12 @@ window.allHeroes =
             "冰雪盟友反射状态异常",
             "冰雪盟友反射叠加效果"
         ],
+        "skill_types": [
+            "攻击增益",
+            "防御增益",
+            "治疗",
+            "反射"
+        ],
         "source": "S1-经典",
         "Release date": "2025-03-11",
         "star": 4,
@@ -2220,6 +2540,13 @@ window.allHeroes =
             "全体反射叠加效果",
             "叠加"
         ],
+        "skill_types": [
+            "防御增益",
+            "持续伤害",
+            "反射",
+            "叠加",
+            "攻击增益"
+        ],
         "source": "月活动-卡勒瓦拉",
         "Release date": "2023-05-06",
         "star": 4,
@@ -2233,7 +2560,7 @@ window.allHeroes =
             "叠加（最多 10 层）：施法者对所克制元素的攻击力提高 +20%。"
         ],
         "passives": [
-            "特殊技能附带持续伤害：当该角色施放其特殊技能时，会给一个随机敌人施加猎人印记。目标在 150 回合内受到 3 点伤害。如果目标已有此效果，则持续时间刷新，伤害增加 150 点，总伤害最高可达 1500 点。",
+            "特殊技能附带持续伤害：当该角色施放其特殊技能时，会给一个随机敌人施加猎人印记。目标在 3 回合内受到 150 点伤害。如果目标已有此效果，则持续时间刷新，伤害增加 150 点，总伤害最高可达 1500 点。",
             "猎人之毅：当该角色施放其特殊技能时，获得 +20% 的攻击力，持续 3 回合。此效果可与其他改变攻击力的效果并存。"
         ],
         "family": "junglehunter",
@@ -2251,6 +2578,11 @@ window.allHeroes =
         "skill": "海之枷锁",
         "types": [
             "攻击1/3/所有目标"
+        ],
+        "skill_types": [
+            "范围攻击 (打3)",
+            "全体攻击 (打5)",
+            "狙击手"
         ],
         "source": "超级元素人",
         "Release date": "2023-09-11",
@@ -2288,6 +2620,11 @@ window.allHeroes =
             "攻击3个目标",
             "叠加"
         ],
+        "skill_types": [
+            "范围攻击 (打3)",
+            "攻击增益",
+            "叠加"
+        ],
         "source": "S3-瓦尔哈拉",
         "Release date": "2020-02-27",
         "star": 4,
@@ -2316,6 +2653,12 @@ window.allHeroes =
         "types": [
             "攻击单个目标",
             "法力削减者"
+        ],
+        "skill_types": [
+            "额外伤害",
+            "法力削减或格挡",
+            "狙击手",
+            "绕过"
         ],
         "source": "高塔-猫头鹰",
         "Release date": "2023-12-19",
@@ -2347,6 +2690,12 @@ window.allHeroes =
         "types": [
             "攻击单个目标",
             "防御降低"
+        ],
+        "skill_types": [
+            "反制小兵",
+            "狙击手",
+            "防御减益",
+            "法力提升"
         ],
         "source": "高塔-忍者",
         "Release date": "2024-09-24",
@@ -2387,6 +2736,10 @@ window.allHeroes =
             "强化治疗3个目标",
             "3个目标元素防御增益"
         ],
+        "skill_types": [
+            "防御增益",
+            "生命强化"
+        ],
         "source": "挑战节-恶棍",
         "Release date": "2021-02-11",
         "star": 4,
@@ -2416,6 +2769,12 @@ window.allHeroes =
             "蓄力者",
             "攻击所有目标",
             "无视防御"
+        ],
+        "skill_types": [
+            "狙击手",
+            "范围攻击 (打3)",
+            "全体攻击 (打5)",
+            "绕过"
         ],
         "source": "高塔-忍者",
         "Release date": "2020-10-13",
@@ -2453,6 +2812,10 @@ window.allHeroes =
             "攻击单个目标",
             "全体驱散"
         ],
+        "skill_types": [
+            "驱散",
+            "狙击手"
+        ],
         "source": "S1-经典",
         "Release date": "2017-01-01",
         "star": 4,
@@ -2481,6 +2844,10 @@ window.allHeroes =
         "types": [
             "攻击单个目标",
             "全体净化"
+        ],
+        "skill_types": [
+            "净化",
+            "狙击手"
         ],
         "source": "S1-经典",
         "Release date": "2020-01-01",
@@ -2511,6 +2878,10 @@ window.allHeroes =
             "攻击单个目标",
             "全体增益免疫"
         ],
+        "skill_types": [
+            "增益格挡者",
+            "狙击手"
+        ],
         "source": "S1-经典",
         "Release date": "2023-11-27",
         "star": 4,
@@ -2539,6 +2910,11 @@ window.allHeroes =
         "types": [
             "攻击单个目标",
             "单体驱散"
+        ],
+        "skill_types": [
+            "狙击手",
+            "额外伤害",
+            "驱散"
         ],
         "source": "S1-经典",
         "Release date": "2024-07-16",
@@ -2572,6 +2948,10 @@ window.allHeroes =
             "攻击单个目标",
             "治疗增益"
         ],
+        "skill_types": [
+            "特殊治疗",
+            "狙击手"
+        ],
         "source": "S2-亚特兰蒂斯",
         "Release date": "2019-08-01",
         "star": 4,
@@ -2599,6 +2979,10 @@ window.allHeroes =
         "skill": "赫拉克勒斯之掷",
         "types": [
             "攻击3个目标",
+            "攻击增益"
+        ],
+        "skill_types": [
+            "范围攻击 (打3)",
             "攻击增益"
         ],
         "source": "S2-亚特兰蒂斯",
@@ -2630,6 +3014,12 @@ window.allHeroes =
             "攻击单个目标",
             "单体持续伤害",
             "偷取治疗"
+        ],
+        "skill_types": [
+            "持续伤害",
+            "特殊治疗",
+            "治疗削减",
+            "狙击手"
         ],
         "source": "月活动-莫洛维亚",
         "Release date": "2018-10-01",
@@ -2663,6 +3053,11 @@ window.allHeroes =
             "攻击单个目标",
             "召唤者"
         ],
+        "skill_types": [
+            "驱散",
+            "召唤小兵",
+            "狙击手"
+        ],
         "source": "三国召唤",
         "Release date": "2022-03-14T12:00:00",
         "star": 4,
@@ -2692,6 +3087,10 @@ window.allHeroes =
         "types": [
             "攻击2个目标",
             "防御下降"
+        ],
+        "skill_types": [
+            "防御减益",
+            "狙击手"
         ],
         "source": "S4-蛮荒地界",
         "Release date": "2021-03-25",
@@ -2723,6 +3122,10 @@ window.allHeroes =
         "types": [
             "攻击2个目标",
             "防御下降"
+        ],
+        "skill_types": [
+            "防御减益",
+            "狙击手"
         ],
         "source": "S4-蛮荒地界",
         "Release date": "2024-01-04",
@@ -2756,6 +3159,12 @@ window.allHeroes =
             "召唤3个恶魔",
             "3个目标防御降低"
         ],
+        "skill_types": [
+            "范围攻击 (打3)",
+            "防御减益",
+            "持续伤害",
+            "召唤恶魔"
+        ],
         "source": "盟约召唤",
         "Release date": "2022-09-18",
         "star": 5,
@@ -2771,7 +3180,7 @@ window.allHeroes =
         ],
         "passives": [
             "特殊技能伤害减免：该角色有 10% 的几率将受到的特殊技能直接伤害降至 1 点。",
-            "特殊技能附带持续伤害：当该角色施放其特殊技能时，会给一个随机敌人施加猎人印记。目标在 150 回合内受到 3 点伤害。如果目标已有此效果，则持续时间刷新，伤害增加 150 点，总伤害最高可达 1500 点。"
+            "特殊技能附带持续伤害：当该角色施放其特殊技能时，会给一个随机敌人施加猎人印记。目标在 3 回合内受到 150 点伤害。如果目标已有此效果，则持续时间刷新，伤害增加 150 点，总伤害最高可达 1500 点。"
         ],
         "family": "plainshunter",
         "image": "https://i.imgur.com/2lTPgSd.jpg",
@@ -2790,6 +3199,12 @@ window.allHeroes =
             "友方伤害分担",
             "全体防御增益",
             "全体受到伤害时治疗"
+        ],
+        "skill_types": [
+            "防御增益",
+            "伤害分摊",
+            "特殊治疗",
+            "持续治疗"
         ],
         "source": "月英",
         "Release date": "2018-10-01T00:00:00",
@@ -2822,6 +3237,12 @@ window.allHeroes =
             "全体伤害分担",
             "全体防御增益",
             "全体持续治疗"
+        ],
+        "skill_types": [
+            "防御增益",
+            "伤害分摊",
+            "持续治疗",
+            "净化"
         ],
         "source": "月英",
         "Release date": "2023-01-23",
@@ -2857,6 +3278,11 @@ window.allHeroes =
             "全体治疗",
             "全体法力生成降低"
         ],
+        "skill_types": [
+            "净化",
+            "治疗",
+            "法力削减或格挡"
+        ],
         "source": "月活动-卡勒瓦拉",
         "Release date": "2022-06-20",
         "star": 5,
@@ -2890,6 +3316,11 @@ window.allHeroes =
             "全体治疗",
             "全体法力生成降低"
         ],
+        "skill_types": [
+            "净化",
+            "治疗",
+            "法力削减或格挡"
+        ],
         "source": "月活动-卡勒瓦拉",
         "Release date": "2023-08-07",
         "star": 5,
@@ -2922,6 +3353,12 @@ window.allHeroes =
             "攻击单个目标",
             "法力生成降低"
         ],
+        "skill_types": [
+            "法力削减或格挡",
+            "狙击手",
+            "攻击增益",
+            "防御增益"
+        ],
         "source": "月英",
         "Release date": "2018-05-01T00:00:00",
         "star": 5,
@@ -2952,6 +3389,13 @@ window.allHeroes =
             "攻击3个目标",
             "3个目标法力削减",
             "3个目标法力生成降低"
+        ],
+        "skill_types": [
+            "范围攻击 (打3)",
+            "法力削减或格挡",
+            "攻击增益",
+            "防御增益",
+            "净化"
         ],
         "source": "月英",
         "Release date": "2021-12-23",
@@ -2985,6 +3429,13 @@ window.allHeroes =
         "types": [
             "全体治疗",
             "改变棋盘"
+        ],
+        "skill_types": [
+            "改变面板",
+            "攻击增益",
+            "攻击减益",
+            "治疗",
+            "特殊治疗"
         ],
         "source": "月英",
         "Release date": "2021-09-01",
@@ -3020,6 +3471,10 @@ window.allHeroes =
             "攻击单个目标",
             "单体攻击降低"
         ],
+        "skill_types": [
+            "攻击减益",
+            "狙击手"
+        ],
         "source": "挑战节-仙境",
         "Release date": "2019-02-01",
         "star": 5,
@@ -3050,6 +3505,12 @@ window.allHeroes =
             "攻击所有目标",
             "全体治疗降低",
             "召唤所有恶魔"
+        ],
+        "skill_types": [
+            "全体攻击 (打5)",
+            "召唤恶魔",
+            "治疗削减",
+            "持续伤害"
         ],
         "source": "高塔-冥河",
         "Release date": "2023-07-19",
@@ -3096,6 +3557,14 @@ window.allHeroes =
             "焰暴守卫",
             "法力生成增益"
         ],
+        "skill_types": [
+            "持续伤害",
+            "反制恶魔",
+            "反制小兵",
+            "法力生成增益",
+            "伤害减免",
+            "防御减益"
+        ],
         "source": "S6-S7-秘闻",
         "Release date": "2024-12-28",
         "star": 5,
@@ -3133,6 +3602,10 @@ window.allHeroes =
             "全体反击",
             "冰元素反击时获得法力"
         ],
+        "skill_types": [
+            "反击",
+            "法力提升"
+        ],
         "source": "超级元素人",
         "Release date": "2023-01-30",
         "star": 5,
@@ -3169,6 +3642,12 @@ window.allHeroes =
             "连锁",
             "单体持续伤害"
         ],
+        "skill_types": [
+            "连锁与随机攻击",
+            "持续伤害",
+            "狙击手",
+            "法力生成增益"
+        ],
         "source": "月英",
         "Release date": "2023-09-01",
         "star": 5,
@@ -3204,6 +3683,11 @@ window.allHeroes =
             "全体法力生成增益",
             "全体净化"
         ],
+        "skill_types": [
+            "净化",
+            "治疗",
+            "法力生成增益"
+        ],
         "source": "S2-亚特兰蒂斯",
         "Release date": "2019-02-01",
         "star": 5,
@@ -3235,6 +3719,11 @@ window.allHeroes =
             "全体法力持续恢复",
             "全体净化"
         ],
+        "skill_types": [
+            "净化",
+            "生命强化",
+            "法力提升"
+        ],
         "source": "S2-亚特兰蒂斯",
         "Release date": "2021-11-15",
         "star": 5,
@@ -3265,6 +3754,11 @@ window.allHeroes =
             "驱散者",
             "最大生命值降低",
             "全体持续伤害"
+        ],
+        "skill_types": [
+            "驱散",
+            "最大生命削减",
+            "持续伤害"
         ],
         "source": "联盟-骑士冲击",
         "Release date": "2024-04-10",
@@ -3300,7 +3794,14 @@ window.allHeroes =
             "全体法力削减",
             "延迟法力提升"
         ],
-        "source": "S4-荒野",
+        "skill_types": [
+            "全体攻击 (打5)",
+            "防御减益",
+            "法力提升",
+            "法力削减或格挡",
+            "反制小兵"
+        ],
+        "source": "荒野召唤",
         "Release date": "2025-02-21",
         "star": 5,
         "power": 1165,
@@ -3334,6 +3835,13 @@ window.allHeroes =
             "攻击3个目标",
             "3个目标防御降低"
         ],
+        "skill_types": [
+            "范围攻击 (打3)",
+            "防御减益",
+            "额外伤害",
+            "攻击增益",
+            "防御增益"
+        ],
         "source": "月英",
         "Release date": "2017-07-01T00:00:00",
         "star": 5,
@@ -3365,6 +3873,13 @@ window.allHeroes =
             "攻击3个目标",
             "3个目标防御降低",
             "全体元素防御降低"
+        ],
+        "skill_types": [
+            "范围攻击 (打3)",
+            "防御减益",
+            "驱散",
+            "攻击增益",
+            "防御增益"
         ],
         "source": "月英",
         "Release date": "2021-12-23",
@@ -3398,6 +3913,12 @@ window.allHeroes =
         "types": [
             "持续伤害",
             "法力偷取"
+        ],
+        "skill_types": [
+            "攻击减益",
+            "持续伤害",
+            "法力提升",
+            "法力削减或格挡"
         ],
         "source": "S6-S7-秘闻",
         "Release date": "2023-11-22",
@@ -3436,6 +3957,12 @@ window.allHeroes =
         "types": [
             "持续伤害",
             "法力偷取"
+        ],
+        "skill_types": [
+            "攻击减益",
+            "持续伤害",
+            "法力提升",
+            "法力削减或格挡"
         ],
         "source": "S6-S7-秘闻",
         "Release date": "2024-11-21",
@@ -3476,6 +4003,10 @@ window.allHeroes =
             "蓄力",
             "攻击3个目标",
             "3个目标致盲"
+        ],
+        "skill_types": [
+            "范围攻击 (打3)",
+            "攻击减益"
         ],
         "source": "高塔-忍者",
         "Release date": "2023-05-31",
@@ -3518,6 +4049,12 @@ window.allHeroes =
             "单体持续伤害",
             "全体恶魔免疫"
         ],
+        "skill_types": [
+            "持续伤害",
+            "反制恶魔",
+            "提供免疫",
+            "狙击手"
+        ],
         "source": "月英",
         "Release date": "2022-12-01",
         "star": 5,
@@ -3550,6 +4087,10 @@ window.allHeroes =
         "types": [
             "3个目标反击"
         ],
+        "skill_types": [
+            "伤害减免",
+            "反击"
+        ],
         "source": "S5-沙丘",
         "Release date": "2022-07-07",
         "star": 5,
@@ -3581,6 +4122,12 @@ window.allHeroes =
         "skill": "神圣反射",
         "types": [
             "3个目标反击"
+        ],
+        "skill_types": [
+            "反击",
+            "伤害减免",
+            "生命强化",
+            "净化"
         ],
         "source": "S5-沙丘",
         "Release date": "2024-12-10",
@@ -3619,6 +4166,12 @@ window.allHeroes =
             "小兵创伤",
             "全体法力生成增益"
         ],
+        "skill_types": [
+            "全体攻击 (打5)",
+            "特殊治疗",
+            "最大生命削减",
+            "法力生成增益"
+        ],
         "source": "挑战节-吟游诗人",
         "Release date": "2025-01-16",
         "star": 5,
@@ -3655,6 +4208,11 @@ window.allHeroes =
             "单体防御降低",
             "单体攻击降低"
         ],
+        "skill_types": [
+            "全体攻击 (打5)",
+            "攻击减益",
+            "防御减益"
+        ],
         "source": "挑战节-星落",
         "Release date": "2021-06-10",
         "star": 5,
@@ -3685,6 +4243,11 @@ window.allHeroes =
             "攻击单个目标",
             "单体防御降低",
             "单体转移型莽夫乱拳"
+        ],
+        "skill_types": [
+            "防御减益",
+            "精神错乱攻击&治疗",
+            "狙击手"
         ],
         "source": "联盟-超能萌宠",
         "Release date": "2022-11-03",
@@ -3720,6 +4283,11 @@ window.allHeroes =
             "狂乱",
             "自我石肤"
         ],
+        "skill_types": [
+            "范围攻击 (打3)",
+            "伤害减免",
+            "对自身或友军负面效果"
+        ],
         "source": "神秘-暗影",
         "Release date": "2025-03-06",
         "star": 5,
@@ -3749,6 +4317,11 @@ window.allHeroes =
         "types": [
             "持盾守卫超级小兵",
             "全体沉睡"
+        ],
+        "skill_types": [
+            "召唤巨型小兵",
+            "沉睡",
+            "净化"
         ],
         "source": "哥布林召唤",
         "Release date": "2024-05-13",
@@ -3786,6 +4359,14 @@ window.allHeroes =
             "全体强化治疗",
             "全体最大生命值降低",
             "全体特殊技能防御降低"
+        ],
+        "skill_types": [
+            "防御增益",
+            "防御减益",
+            "生命强化",
+            "最大生命削减",
+            "叠加",
+            "法力削减或格挡"
         ],
         "source": "高塔-魔法",
         "Release date": "2023-05-03",
@@ -3825,6 +4406,12 @@ window.allHeroes =
             "召唤者",
             "防御增益"
         ],
+        "skill_types": [
+            "全体攻击 (打5)",
+            "防御增益",
+            "驱散",
+            "召唤小兵"
+        ],
         "source": "三国召唤",
         "Release date": "2022-07-18",
         "star": 5,
@@ -3855,6 +4442,12 @@ window.allHeroes =
         "types": [
             "攻击所有目标",
             "召唤者",
+            "防御增益"
+        ],
+        "skill_types": [
+            "全体攻击 (打5)",
+            "召唤小兵",
+            "驱散",
             "防御增益"
         ],
         "source": "三国召唤",
@@ -3895,6 +4488,14 @@ window.allHeroes =
             "自我法力生成增益叠加",
             "自我持续治疗叠加"
         ],
+        "skill_types": [
+            "绕过",
+            "特殊治疗",
+            "狙击手",
+            "叠加",
+            "法力生成增益",
+            "持续治疗"
+        ],
         "source": "挑战节-杀手",
         "Release date": "2021-08-05",
         "star": 5,
@@ -3927,6 +4528,10 @@ window.allHeroes =
         "types": [
             "召唤所有",
             "石肤小兵"
+        ],
+        "skill_types": [
+            "召唤小兵",
+            "伤害减免"
         ],
         "source": "挑战-众神狂欢节",
         "Release date": "2023-07-13",
@@ -3962,6 +4567,11 @@ window.allHeroes =
             "3个目标净化免疫",
             "防御降低"
         ],
+        "skill_types": [
+            "范围攻击 (打3)",
+            "净化格挡者",
+            "防御减益"
+        ],
         "source": "挑战节-吟游诗人",
         "Release date": "2023-06-15",
         "star": 5,
@@ -3993,6 +4603,15 @@ window.allHeroes =
         "types": [
             "攻击所有目标",
             "全体持续伤害"
+        ],
+        "skill_types": [
+            "全体攻击 (打5)",
+            "攻击减益",
+            "防御减益",
+            "持续伤害",
+            "特殊治疗",
+            "法力削减或格挡",
+            "狙击手"
         ],
         "source": "S6-S7-秘闻",
         "Release date": "2023-07-05",
@@ -4032,6 +4651,15 @@ window.allHeroes =
         "types": [
             "攻击所有目标",
             "全体持续伤害"
+        ],
+        "skill_types": [
+            "狙击手",
+            "全体攻击 (打5)",
+            "攻击减益",
+            "防御减益",
+            "法力削减或格挡",
+            "持续伤害",
+            "特殊治疗"
         ],
         "source": "S6-S7-秘闻",
         "Release date": "2025-03-03",
@@ -4073,6 +4701,11 @@ window.allHeroes =
             "攻击所有目标",
             "全体状态效果格挡"
         ],
+        "skill_types": [
+            "全体攻击 (打5)",
+            "防御增益",
+            "状态效果格挡"
+        ],
         "source": "三国召唤",
         "Release date": "2023-12-04",
         "star": 5,
@@ -4107,6 +4740,11 @@ window.allHeroes =
             "3个目标持续伤害",
             "3个目标沉默者"
         ],
+        "skill_types": [
+            "范围攻击 (打3)",
+            "持续伤害",
+            "沉默"
+        ],
         "source": "月活动-莫洛维亚",
         "Release date": "2024-09-23",
         "star": 5,
@@ -4128,6 +4766,52 @@ window.allHeroes =
         "originalIndex": 127
     },
     {
+        "name": "切米斯特 (Chimister)",
+        "fancy_name": "实验室飞蛾",
+        "AetherPower": "状态异常免疫",
+        "color": "蓝色",
+        "class": "巫师",
+        "speed": "飞速",
+        "skill": "突变混合剂",
+        "types": [
+            "持续伤害",
+            "驱散者",
+            "持续治疗"
+        ],
+        "skill_types": [
+            "持续伤害",
+            "额外伤害",
+            "驱散",
+            "持续治疗",
+            "生命强化",
+            "闪避",
+            "反制小兵"
+        ],
+        "source": "联盟-飞蛾",
+        "Release date": "2025-06-25",
+        "star": 5,
+        "power": 1214,
+        "attack": 1306,
+        "defense": 1184,
+        "health": 2148,
+        "effects": [
+            "若任一敌人身中剧毒状态异常：",
+            "* 所有敌人在 5 回合内受到 985 点剧毒伤害。若目标拥有生命加成、小兵或巨大体型小兵，则伤害增加。（若目标拥有生命加成，则剧毒伤害增加 +100%。目标拥有的每个小兵或巨大体型小兵会使剧毒伤害增加 +33%。伤害增幅最大为 +199%。）",
+            "* 驱散所有敌人的增益。",
+            "* 所有盟友在 5 回合内获得 1300 点生命加成。提高的生命值可以超过最大生命值。",
+            "否则：",
+            "* 所有敌人在 5 回合内受到 790 点剧毒伤害。若目标拥有生命加成、小兵或巨大体型小兵，则伤害增加。（若目标拥有生命加成，则剧毒伤害增加 +100%。目标拥有的每个小兵或巨大体型小兵会使剧毒伤害增加 +33%。伤害增幅最大为 +199%。）",
+            "* 驱散所有敌人的增益。"
+        ],
+        "passives": [
+            "闪避特殊技能伤害：该角色有 15% 的几率闪避造成伤害的特殊技能。"
+        ],
+        "family": "moth",
+        "image": "https://imgur.com/9sIQqfU.jpg",
+        "costume_id": 0,
+        "originalIndex": 128
+    },
+    {
         "name": "齐特拉伽达 (Chitrangada)",
         "fancy_name": "曼尼普尔武士公主",
         "AetherPower": "闪避",
@@ -4140,6 +4824,11 @@ window.allHeroes =
             "治疗恩惠",
             "复活者",
             "全体净化1个状态异常"
+        ],
+        "skill_types": [
+            "净化",
+            "治疗",
+            "复活"
         ],
         "source": "至日召唤",
         "Release date": "2025-06-16",
@@ -4163,7 +4852,7 @@ window.allHeroes =
         "family": "mahayoddha",
         "image": "https://imgur.com/4vCPlzL.jpg",
         "costume_id": 0,
-        "originalIndex": 128
+        "originalIndex": 129
     },
     {
         "name": "席亚拉 (Ciara)",
@@ -4176,6 +4865,11 @@ window.allHeroes =
         "types": [
             "攻击所有目标",
             "长枪守卫超级小兵"
+        ],
+        "skill_types": [
+            "全体攻击 (打5)",
+            "召唤巨型小兵",
+            "驱散"
         ],
         "source": "哥布林召唤",
         "Release date": "2025-05-27",
@@ -4196,7 +4890,7 @@ window.allHeroes =
         "family": "garrisonguard",
         "image": "https://imgur.com/TSKPS9R.jpg",
         "costume_id": 0,
-        "originalIndex": 129
+        "originalIndex": 130
     },
     {
         "name": "肉桂 (Cinnamon)",
@@ -4210,6 +4904,11 @@ window.allHeroes =
             "攻击所有目标",
             "全体持续伤害",
             "全体元素防御降低"
+        ],
+        "skill_types": [
+            "全体攻击 (打5)",
+            "防御减益",
+            "持续伤害"
         ],
         "source": "联盟-超能萌宠",
         "Release date": "2023-02-23",
@@ -4230,7 +4929,7 @@ window.allHeroes =
         "family": "pets",
         "image": "https://i.imgur.com/RDVpqBy.jpg",
         "costume_id": 0,
-        "originalIndex": 130
+        "originalIndex": 131
     },
     {
         "name": "克拉格 (Claeg)",
@@ -4243,6 +4942,11 @@ window.allHeroes =
         "types": [
             "全体治疗",
             "全体净化"
+        ],
+        "skill_types": [
+            "治疗",
+            "净化",
+            "防御增益"
         ],
         "source": "月英",
         "Release date": "2025-04-01",
@@ -4263,7 +4967,7 @@ window.allHeroes =
         "family": 2025,
         "image": "https://imgur.com/O5qyXg7.jpg",
         "costume_id": 0,
-        "originalIndex": 131
+        "originalIndex": 132
     },
     {
         "name": "钴蓝 (Cobalt)",
@@ -4277,6 +4981,12 @@ window.allHeroes =
             "蓄力",
             "攻击 (1/3/所有) 目标",
             "无视防御几率"
+        ],
+        "skill_types": [
+            "范围攻击 (打3)",
+            "全体攻击 (打5)",
+            "绕过",
+            "狙击手"
         ],
         "source": "高塔-忍者",
         "Release date": "2020-10-13",
@@ -4300,7 +5010,7 @@ window.allHeroes =
         "family": "ninja",
         "image": "https://i.imgur.com/23jWlvs.jpg",
         "costume_id": 0,
-        "originalIndex": 132
+        "originalIndex": 133
     },
     {
         "name": "宇宙讲者 (Cosmicspeaker)",
@@ -4314,6 +5024,13 @@ window.allHeroes =
             "攻击所有目标",
             "全体驱散",
             "全体净化"
+        ],
+        "skill_types": [
+            "全体攻击 (打5)",
+            "净化",
+            "驱散",
+            "绕过",
+            "伤害分摊"
         ],
         "source": "星体召唤",
         "Release date": "2024-10-14",
@@ -4335,7 +5052,7 @@ window.allHeroes =
         "family": "astralelves",
         "image": "https://i.imgur.com/X5hiGNw.jpg",
         "costume_id": 0,
-        "originalIndex": 133
+        "originalIndex": 134
     },
     {
         "name": "克里斯托里斯 (Crystalis)",
@@ -4350,6 +5067,12 @@ window.allHeroes =
             "全体增益持续时间缩短",
             "全体持续伤害",
             "全体攻击降低"
+        ],
+        "skill_types": [
+            "全体攻击 (打5)",
+            "攻击减益",
+            "持续伤害",
+            "效果持续重置"
         ],
         "source": "挑战节-恶棍",
         "Release date": "2021-02-11",
@@ -4367,7 +5090,7 @@ window.allHeroes =
         "family": "villains",
         "image": "https://i.imgur.com/fA7IHzy.jpg",
         "costume_id": 0,
-        "originalIndex": 134
+        "originalIndex": 135
     },
     {
         "name": "戴维·韦威 (Davey Wavey)",
@@ -4382,6 +5105,13 @@ window.allHeroes =
             "防御增益",
             "法力生成增益"
         ],
+        "skill_types": [
+            "生命强化",
+            "防御增益",
+            "法力生成增益",
+            "持续治疗",
+            "持续伤害"
+        ],
         "source": "月活动-海滩派对",
         "Release date": "2024-06-03",
         "star": 5,
@@ -4395,13 +5125,13 @@ window.allHeroes =
             "所有盟友获得 +20% 法力生成，持续 4 回合（只影响通过消除英雄格或由防御队伍在其回合结束时获得的法力）。"
         ],
         "passives": [
-            "特殊技能附带持续伤害：当该角色施放其特殊技能时，所有敌人会在 238 回合内受到 2 点水系伤害。",
+            "特殊技能附带持续伤害：当该角色施放其特殊技能时，所有敌人会在 2 回合内受到 238 点水系伤害。",
             "抵抗水系伤害：该角色天生对水系伤害有抵抗能力。"
         ],
         "family": "beachparty",
         "image": "https://i.imgur.com/CndsCrE.jpg",
         "costume_id": 0,
-        "originalIndex": 135
+        "originalIndex": 136
     },
     {
         "name": "埃斯米 (Esme)",
@@ -4415,6 +5145,12 @@ window.allHeroes =
             "摧毁所有恶魔",
             "全体强化治疗",
             "恶魔免疫"
+        ],
+        "skill_types": [
+            "反制恶魔",
+            "治疗",
+            "提供免疫",
+            "生命强化"
         ],
         "source": "联盟-骑士冲击",
         "Release date": "2021-10-13",
@@ -4432,7 +5168,7 @@ window.allHeroes =
         "family": "wolf",
         "image": "https://i.imgur.com/nObQye7.jpg",
         "costume_id": 0,
-        "originalIndex": 136
+        "originalIndex": 137
     },
     {
         "name": "艾克塞拉 (Exeera)",
@@ -4444,6 +5180,10 @@ window.allHeroes =
         "skill": "极度痛苦",
         "types": [
             "全体持续伤害"
+        ],
+        "skill_types": [
+            "持续伤害",
+            "额外伤害"
         ],
         "source": "S4-蛮荒地界",
         "Release date": "2021-12-30",
@@ -4462,7 +5202,7 @@ window.allHeroes =
         "family": "underwild",
         "image": "https://i.imgur.com/UnO1gz8.jpg",
         "costume_id": 0,
-        "originalIndex": 137
+        "originalIndex": 138
     },
     {
         "name": "艾克塞拉 (Exeera) C1",
@@ -4474,6 +5214,11 @@ window.allHeroes =
         "skill": "深渊苦痛",
         "types": [
             "全体持续伤害"
+        ],
+        "skill_types": [
+            "持续伤害",
+            "额外伤害",
+            "攻击增益"
         ],
         "source": "S4-蛮荒地界",
         "Release date": "2024-09-26",
@@ -4493,7 +5238,7 @@ window.allHeroes =
         "family": "underwild",
         "image": "https://i.imgur.com/4y90uTW.jpg",
         "costume_id": 1,
-        "originalIndex": 138
+        "originalIndex": 139
     },
     {
         "name": "经验拟态兽 (Experience Mimic) Ice",
@@ -4507,6 +5252,15 @@ window.allHeroes =
             "摧毁单个目标的小兵",
             "攻击单个目标",
             "宝箱怪"
+        ],
+        "skill_types": [
+            "特殊治疗",
+            "反制小兵",
+            "狙击手",
+            "法力提升",
+            "提供免疫",
+            "鬼魂形态与隐藏",
+            "绕过"
         ],
         "source": "额外抽奖-秘密召唤",
         "Release date": "2025-05-03",
@@ -4533,7 +5287,7 @@ window.allHeroes =
         "family": "mimic",
         "image": "https://imgur.com/KXbsyqZ.jpg",
         "costume_id": 0,
-        "originalIndex": 139
+        "originalIndex": 140
     },
     {
         "name": "芬里厄 (Fenrir)",
@@ -4547,6 +5301,12 @@ window.allHeroes =
             "攻击单个目标",
             "击杀时获得法力",
             "自我治疗"
+        ],
+        "skill_types": [
+            "法力提升",
+            "狙击手",
+            "额外伤害",
+            "特殊治疗"
         ],
         "source": "S3-瓦尔哈拉",
         "Release date": "2020-02-27",
@@ -4565,7 +5325,7 @@ window.allHeroes =
         "family": "niflheim",
         "image": "https://i.imgur.com/jTbJkeI.jpg",
         "costume_id": 0,
-        "originalIndex": 140
+        "originalIndex": 141
     },
     {
         "name": "芬里厄 (Fenrir) C1",
@@ -4579,6 +5339,12 @@ window.allHeroes =
             "攻击单个目标",
             "自我治疗",
             "自我法力提升"
+        ],
+        "skill_types": [
+            "特殊治疗",
+            "法力提升",
+            "狙击手",
+            "额外伤害"
         ],
         "source": "S3-瓦尔哈拉",
         "Release date": "2023-04-10",
@@ -4597,7 +5363,7 @@ window.allHeroes =
         "family": "niflheim",
         "image": "https://i.imgur.com/ZPobGZa.jpg",
         "costume_id": 1,
-        "originalIndex": 141
+        "originalIndex": 142
     },
     {
         "name": "费格斯 (Fergus)",
@@ -4611,6 +5377,11 @@ window.allHeroes =
             "法力削减者",
             "全体法力生成降低",
             "持剑守卫超级小兵"
+        ],
+        "skill_types": [
+            "法力削减或格挡",
+            "召唤巨型小兵",
+            "持续伤害"
         ],
         "source": "哥布林召唤",
         "Release date": "2024-12-09",
@@ -4633,7 +5404,7 @@ window.allHeroes =
         "family": "garrisonguard",
         "image": "https://i.imgur.com/kA2zCy1.jpg",
         "costume_id": 0,
-        "originalIndex": 142
+        "originalIndex": 143
     },
     {
         "name": "芬利 (Finley)",
@@ -4647,6 +5418,11 @@ window.allHeroes =
             "攻击单个目标",
             "连锁攻击",
             "防御降低"
+        ],
+        "skill_types": [
+            "连锁与随机攻击",
+            "防御减益",
+            "狙击手"
         ],
         "source": "挑战节-海盗",
         "Release date": "2017-01-01",
@@ -4664,7 +5440,7 @@ window.allHeroes =
         "family": "corellia",
         "image": "https://i.imgur.com/RIPu5ha.jpg",
         "costume_id": 0,
-        "originalIndex": 143
+        "originalIndex": 144
     },
     {
         "name": "芬利 (Finley) C1",
@@ -4679,6 +5455,12 @@ window.allHeroes =
             "弹射",
             "防御降低"
         ],
+        "skill_types": [
+            "连锁与随机攻击",
+            "防御减益",
+            "狙击手",
+            "持续伤害"
+        ],
         "source": "挑战节-海盗",
         "Release date": "2022-04-14",
         "star": 5,
@@ -4692,12 +5474,12 @@ window.allHeroes =
             "所有命中的目标获得 -56% 防御，持续 3 回合。"
         ],
         "passives": [
-            "特殊技能附带剧毒：当该角色施放其特殊技能时，所有敌人会在 528 回合内受到 4 点剧毒伤害。"
+            "特殊技能附带剧毒：当该角色施放其特殊技能时，所有敌人会在 4 回合内受到 528 点剧毒伤害。"
         ],
         "family": "corellia",
         "image": "https://i.imgur.com/8HdzNsi.jpg",
         "costume_id": 1,
-        "originalIndex": 144
+        "originalIndex": 145
     },
     {
         "name": "费尔明·理查德 (Firmin Richard)",
@@ -4711,6 +5493,12 @@ window.allHeroes =
             "攻击所有目标",
             "全体攻击增益叠加",
             "全体防御增益叠加"
+        ],
+        "skill_types": [
+            "全体攻击 (打5)",
+            "叠加",
+            "攻击增益",
+            "防御增益"
         ],
         "source": "至日召唤",
         "Release date": "2023-11-30",
@@ -4731,7 +5519,7 @@ window.allHeroes =
         "family": "opera",
         "image": "https://i.imgur.com/I63hfD5.jpg",
         "costume_id": 0,
-        "originalIndex": 145
+        "originalIndex": 146
     },
     {
         "name": "丝弦 (Fizzcoil)",
@@ -4745,6 +5533,11 @@ window.allHeroes =
             "攻击所有目标",
             "全体衰退",
             "全体法力生成降低"
+        ],
+        "skill_types": [
+            "属性修改",
+            "全体攻击 (打5)",
+            "法力削减或格挡"
         ],
         "source": "哥布林召唤",
         "Release date": "2023-11-13",
@@ -4766,7 +5559,7 @@ window.allHeroes =
         "family": "goblin",
         "image": "https://i.imgur.com/VpPwqgQ.jpg",
         "costume_id": 0,
-        "originalIndex": 146
+        "originalIndex": 147
     },
     {
         "name": "福尔图娜 (Fortuna)",
@@ -4781,6 +5574,13 @@ window.allHeroes =
             "攻击所有目标",
             "召唤所有恶魔",
             "攻击降低恶魔"
+        ],
+        "skill_types": [
+            "全体攻击 (打5)",
+            "攻击减益",
+            "驱散",
+            "召唤恶魔",
+            "持续伤害"
         ],
         "source": "挑战-众神狂欢节",
         "Release date": "2022-11-22",
@@ -4802,7 +5602,7 @@ window.allHeroes =
         "family": "maskedgod",
         "image": "https://i.imgur.com/gvXOhuM.jpg",
         "costume_id": 0,
-        "originalIndex": 147
+        "originalIndex": 148
     },
     {
         "name": "弗里达 (Frida)",
@@ -4816,6 +5616,12 @@ window.allHeroes =
             "攻击3个目标",
             "3个目标元素防御降低",
             "驱散3个目标"
+        ],
+        "skill_types": [
+            "范围攻击 (打3)",
+            "防御减益",
+            "驱散",
+            "防御增益"
         ],
         "source": "月英",
         "Release date": "2019-03-01",
@@ -4836,7 +5642,7 @@ window.allHeroes =
         "family": 2019,
         "image": "https://i.imgur.com/vGjHyB4.jpg",
         "costume_id": 0,
-        "originalIndex": 148
+        "originalIndex": 149
     },
     {
         "name": "弗洛斯 (Frosth)",
@@ -4850,6 +5656,11 @@ window.allHeroes =
             "召唤所有",
             "全体小兵生命提升",
             "全体小兵攻击提升"
+        ],
+        "skill_types": [
+            "法力提升",
+            "小兵强化",
+            "召唤小兵"
         ],
         "source": "月英",
         "Release date": "2021-04-01",
@@ -4870,7 +5681,7 @@ window.allHeroes =
         "family": 2021,
         "image": "https://i.imgur.com/ux7vLKs.jpg",
         "costume_id": 0,
-        "originalIndex": 149
+        "originalIndex": 150
     },
     {
         "name": "冰嗅 (Frostsnout)",
@@ -4884,6 +5695,11 @@ window.allHeroes =
             "攻击3个目标",
             "减少3个目标状态异常持续时间",
             "3个目标暴击几率增益"
+        ],
+        "skill_types": [
+            "范围攻击 (打3)",
+            "效果持续重置",
+            "攻击增益"
         ],
         "source": "哥布林召唤",
         "Release date": "2025-01-17",
@@ -4904,7 +5720,7 @@ window.allHeroes =
         "family": "garrisonguard",
         "image": "https://i.imgur.com/T8J02Mj.jpg",
         "costume_id": 0,
-        "originalIndex": 150
+        "originalIndex": 151
     },
     {
         "name": "盖拉德 (Gaillard)",
@@ -4917,6 +5733,12 @@ window.allHeroes =
         "types": [
             "攻击单个目标",
             "全体恶魔免疫"
+        ],
+        "skill_types": [
+            "反制恶魔",
+            "提供免疫",
+            "狙击手",
+            "伤害减免"
         ],
         "source": "挑战-石像鬼",
         "Release date": "2021-11-24",
@@ -4936,7 +5758,7 @@ window.allHeroes =
         "family": "gargoyle",
         "image": "https://i.imgur.com/ts2Grgv.jpg",
         "costume_id": 0,
-        "originalIndex": 151
+        "originalIndex": 152
     },
     {
         "name": "涯拉克 (Ghealach)",
@@ -4950,6 +5772,12 @@ window.allHeroes =
             "攻击3个目标",
             "召唤3个恶魔",
             "偷取3个目标法力"
+        ],
+        "skill_types": [
+            "范围攻击 (打3)",
+            "召唤恶魔",
+            "法力提升",
+            "法力削减或格挡"
         ],
         "source": "盟约召唤",
         "Release date": "2023-09-21",
@@ -4974,7 +5802,7 @@ window.allHeroes =
         "family": "construct",
         "image": "https://i.imgur.com/KrLttV5.jpg",
         "costume_id": 0,
-        "originalIndex": 152
+        "originalIndex": 153
     },
     {
         "name": "格拉迪乌斯 (Gladius)",
@@ -4987,6 +5815,12 @@ window.allHeroes =
         "types": [
             "攻击单个目标",
             "闪避时叠加"
+        ],
+        "skill_types": [
+            "绕过",
+            "额外伤害",
+            "狙击手",
+            "叠加"
         ],
         "source": "月英",
         "Release date": "2024-02-01",
@@ -5008,7 +5842,7 @@ window.allHeroes =
         "family": 2024,
         "image": "https://i.imgur.com/oxh0XPo.jpg",
         "costume_id": 0,
-        "originalIndex": 153
+        "originalIndex": 154
     },
     {
         "name": "格伦达 (Glenda)",
@@ -5021,6 +5855,12 @@ window.allHeroes =
         "types": [
             "攻击3个目标",
             "全体净化"
+        ],
+        "skill_types": [
+            "范围攻击 (打3)",
+            "攻击增益",
+            "净化",
+            "召唤小兵"
         ],
         "source": "月英",
         "Release date": "2020-11-01",
@@ -5041,7 +5881,7 @@ window.allHeroes =
         "family": 2020,
         "image": "https://i.imgur.com/25WLFwN.jpg",
         "costume_id": 0,
-        "originalIndex": 154
+        "originalIndex": 155
     },
     {
         "name": "寒铁 (Grimsteel)",
@@ -5054,6 +5894,11 @@ window.allHeroes =
         "types": [
             "治疗者",
             "成长",
+            "法力生成增益"
+        ],
+        "skill_types": [
+            "属性修改",
+            "治疗",
             "法力生成增益"
         ],
         "source": "哥布林召唤",
@@ -5076,7 +5921,7 @@ window.allHeroes =
         "family": "goblin",
         "image": "https://i.imgur.com/rkoJ3ZR.jpg",
         "costume_id": 0,
-        "originalIndex": 155
+        "originalIndex": 156
     },
     {
         "name": "河马守护者 (Guardian Hippo)",
@@ -5089,6 +5934,10 @@ window.allHeroes =
         "types": [
             "盟友释放特殊技能时攻击全体",
             "全体法力生成增益"
+        ],
+        "skill_types": [
+            "全体攻击 (打5)",
+            "法力生成增益"
         ],
         "source": "挑战节-守护者",
         "Release date": "2023-01-26",
@@ -5105,7 +5954,7 @@ window.allHeroes =
         "family": "guardiansteltoc",
         "image": "https://i.imgur.com/VXhh6s9.jpg",
         "costume_id": 0,
-        "originalIndex": 156
+        "originalIndex": 157
     },
     {
         "name": "赫特费雷斯 (Hetepheres)",
@@ -5119,6 +5968,11 @@ window.allHeroes =
             "全体治疗",
             "全体元素防御增益",
             "全体致盲"
+        ],
+        "skill_types": [
+            "防御增益",
+            "攻击减益",
+            "治疗"
         ],
         "source": "S5-沙丘",
         "Release date": "2023-02-16",
@@ -5140,7 +5994,7 @@ window.allHeroes =
         "family": "sun",
         "image": "https://i.imgur.com/wdaa6Lv.jpg",
         "costume_id": 0,
-        "originalIndex": 157
+        "originalIndex": 158
     },
     {
         "name": "赫特费雷斯 (Hetepheres) C1",
@@ -5154,6 +6008,12 @@ window.allHeroes =
             "全体治疗",
             "全体元素防御增益",
             "全体致盲"
+        ],
+        "skill_types": [
+            "治疗",
+            "防御增益",
+            "攻击减益",
+            "全体攻击 (打5)"
         ],
         "source": "S5-沙丘",
         "Release date": "2024-03-04",
@@ -5177,7 +6037,7 @@ window.allHeroes =
         "family": "sun",
         "image": "https://i.imgur.com/zPZlLVD.jpg",
         "costume_id": 1,
-        "originalIndex": 158
+        "originalIndex": 159
     },
     {
         "name": "希莫洛斯 (Himeros)",
@@ -5190,6 +6050,11 @@ window.allHeroes =
         "types": [
             "单体驱散",
             "攻击单个目标"
+        ],
+        "skill_types": [
+            "攻击增益",
+            "驱散",
+            "狙击手"
         ],
         "source": "月活动-恋爱季节",
         "Release date": "2023-02-14",
@@ -5209,7 +6074,7 @@ window.allHeroes =
         "family": "cupid",
         "image": "https://i.imgur.com/BKwCrac.jpg",
         "costume_id": 0,
-        "originalIndex": 159
+        "originalIndex": 160
     },
     {
         "name": "赫格内 (Hogne)",
@@ -5223,6 +6088,16 @@ window.allHeroes =
             "霜降打击 (3个目标)",
             "3个目标最大生命值降低",
             "3个目标治疗降低"
+        ],
+        "skill_types": [
+            "狙击手",
+            "最大生命削减",
+            "治疗削减",
+            "额外伤害",
+            "绕过",
+            "持续伤害",
+            "攻击减益",
+            "反制小兵"
         ],
         "source": "S6-S7-秘闻",
         "Release date": "2025-04-14",
@@ -5245,7 +6120,7 @@ window.allHeroes =
         "family": "myrkheim",
         "image": "https://imgur.com/adOyVFt.jpg",
         "costume_id": 0,
-        "originalIndex": 160
+        "originalIndex": 161
     },
     {
         "name": "赫罗斯加 (Hrothgar)",
@@ -5260,6 +6135,13 @@ window.allHeroes =
             "全体法力削减",
             "全体法力生成降低",
             "单体增益之源"
+        ],
+        "skill_types": [
+            "全体攻击 (打5)",
+            "法力削减或格挡",
+            "绕过",
+            "攻击增益",
+            "防御增益"
         ],
         "source": "黑色星期五召唤",
         "Release date": "2024-11-25",
@@ -5285,7 +6167,7 @@ window.allHeroes =
         "family": "beowulf",
         "image": "https://i.imgur.com/RbbKSQ5.jpg",
         "costume_id": 0,
-        "originalIndex": 161
+        "originalIndex": 162
     },
     {
         "name": "希丝特莉亚 (Hysteria)",
@@ -5299,6 +6181,10 @@ window.allHeroes =
             "嘲讽",
             "全体狂乱",
             "自我狂乱"
+        ],
+        "skill_types": [
+            "嘲讽",
+            "对自身或友军负面效果"
         ],
         "source": "神秘-暗影",
         "Release date": "2025-06-10",
@@ -5316,7 +6202,7 @@ window.allHeroes =
         "family": "cultist",
         "image": "https://imgur.com/GBS05PK.jpg",
         "costume_id": 0,
-        "originalIndex": 162
+        "originalIndex": 163
     },
     {
         "name": "艾莉丝 (Iris)",
@@ -5329,6 +6215,12 @@ window.allHeroes =
         "types": [
             "攻击3个目标",
             "驱散3个目标"
+        ],
+        "skill_types": [
+            "范围攻击 (打3)",
+            "驱散",
+            "额外伤害",
+            "攻击增益"
         ],
         "source": "月英",
         "Release date": "2022-02-01",
@@ -5350,7 +6242,7 @@ window.allHeroes =
         "family": 2022,
         "image": "https://i.imgur.com/2NdyTvR.jpg",
         "costume_id": 0,
-        "originalIndex": 163
+        "originalIndex": 164
     },
     {
         "name": "伊萨莉亚 (Isarnia)",
@@ -5363,6 +6255,10 @@ window.allHeroes =
         "types": [
             "攻击所有目标",
             "全体防御降低"
+        ],
+        "skill_types": [
+            "全体攻击 (打5)",
+            "防御减益"
         ],
         "source": "S1-经典",
         "Release date": "2017-01-01",
@@ -5379,7 +6275,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/IqOKah3.jpg",
         "costume_id": 0,
-        "originalIndex": 164
+        "originalIndex": 165
     },
     {
         "name": "伊萨莉亚 (Isarnia) C1",
@@ -5392,6 +6288,10 @@ window.allHeroes =
         "types": [
             "攻击所有目标",
             "全体防御降低"
+        ],
+        "skill_types": [
+            "全体攻击 (打5)",
+            "防御减益"
         ],
         "source": "S1-经典",
         "Release date": "2020-01-01",
@@ -5408,7 +6308,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/j8POeJ4.jpg",
         "costume_id": 1,
-        "originalIndex": 165
+        "originalIndex": 166
     },
     {
         "name": "伊萨莉亚 (Isarnia) C2",
@@ -5421,6 +6321,11 @@ window.allHeroes =
         "types": [
             "攻击所有目标",
             "全体攻击降低"
+        ],
+        "skill_types": [
+            "全体攻击 (打5)",
+            "攻击减益",
+            "额外伤害"
         ],
         "source": "S1-经典",
         "Release date": "2022-09-05",
@@ -5438,7 +6343,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/wccczud.jpg",
         "costume_id": 2,
-        "originalIndex": 166
+        "originalIndex": 167
     },
     {
         "name": "伊萨莉亚 (Isarnia) 卡通",
@@ -5451,6 +6356,11 @@ window.allHeroes =
         "types": [
             "攻击所有目标",
             "全体防御降低"
+        ],
+        "skill_types": [
+            "全体攻击 (打5)",
+            "防御减益",
+            "额外伤害"
         ],
         "source": "S1-经典",
         "Release date": "2024-05-06",
@@ -5470,7 +6380,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/mFs5DrO.jpg",
         "costume_id": 3,
-        "originalIndex": 167
+        "originalIndex": 168
     },
     {
         "name": "伊萨莉亚 (Isarnia) 玻璃",
@@ -5484,6 +6394,11 @@ window.allHeroes =
             "攻击所有目标",
             "无视防御",
             "全体防御降低"
+        ],
+        "skill_types": [
+            "全体攻击 (打5)",
+            "绕过",
+            "防御减益"
         ],
         "source": "S1-经典",
         "Release date": "2025-06-18",
@@ -5503,7 +6418,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://imgur.com/mpefymk.jpg",
         "costume_id": 4,
-        "originalIndex": 168
+        "originalIndex": 169
     },
     {
         "name": "艾辛 (Ixinn)",
@@ -5518,6 +6433,14 @@ window.allHeroes =
             "连锁攻击",
             "增伤减益",
             "衰退"
+        ],
+        "skill_types": [
+            "狙击手",
+            "连锁与随机攻击",
+            "额外伤害",
+            "属性修改",
+            "反制小兵",
+            "绕过"
         ],
         "source": "星体召唤",
         "Release date": "2025-03-27",
@@ -5540,7 +6463,7 @@ window.allHeroes =
         "family": "astraldwarfs",
         "image": "https://imgur.com/KNQdOYr.jpg",
         "costume_id": 0,
-        "originalIndex": 169
+        "originalIndex": 170
     },
     {
         "name": "珠尔特 (Jolt)",
@@ -5555,6 +6478,12 @@ window.allHeroes =
             "连锁攻击",
             "全体致盲",
             "元素攻击增益"
+        ],
+        "skill_types": [
+            "攻击增益",
+            "连锁与随机攻击",
+            "攻击减益",
+            "狙击手"
         ],
         "source": "超级元素人",
         "Release date": "2024-01-29",
@@ -5579,7 +6508,7 @@ window.allHeroes =
         "family": "superelemental",
         "image": "https://i.imgur.com/RzzDstN.jpg",
         "costume_id": 0,
-        "originalIndex": 170
+        "originalIndex": 171
     },
     {
         "name": "乔利恩 (Jolyon)",
@@ -5594,7 +6523,13 @@ window.allHeroes =
             "召唤者",
             "小兵状态异常免疫"
         ],
-        "source": "S4-荒野",
+        "skill_types": [
+            "闪避",
+            "提供免疫",
+            "召唤小兵",
+            "反制小兵"
+        ],
+        "source": "荒野召唤",
         "Release date": "2025-05-20",
         "star": 5,
         "power": 1182,
@@ -5614,7 +6549,7 @@ window.allHeroes =
         "family": "woodlandfaun",
         "image": "https://imgur.com/61PB1e9.jpg",
         "costume_id": 0,
-        "originalIndex": 171
+        "originalIndex": 172
     },
     {
         "name": "卡比洛斯 (Kabeiroi)",
@@ -5629,6 +6564,11 @@ window.allHeroes =
             "单体失心治疗",
             "额外攻击3个目标",
             "命中时失心治疗"
+        ],
+        "skill_types": [
+            "连锁与随机攻击",
+            "精神错乱攻击&治疗",
+            "狙击手"
         ],
         "source": "月活动-恋爱季节",
         "Release date": "2024-01-08",
@@ -5650,7 +6590,7 @@ window.allHeroes =
         "family": "cupid",
         "image": "https://i.imgur.com/cMqbo5o.jpg",
         "costume_id": 0,
-        "originalIndex": 172
+        "originalIndex": 173
     },
     {
         "name": "凯特尔 (Kettle)",
@@ -5662,6 +6602,13 @@ window.allHeroes =
         "skill": "诡异菜品",
         "types": [
             "赌徒"
+        ],
+        "skill_types": [
+            "属性修改",
+            "全体攻击 (打5)",
+            "持续伤害",
+            "治疗",
+            "对自身或友军负面效果"
         ],
         "source": "哥布林召唤",
         "Release date": "2023-09-18",
@@ -5689,7 +6636,7 @@ window.allHeroes =
         "family": "goblin",
         "image": "https://i.imgur.com/tT0NNbo.jpg",
         "costume_id": 0,
-        "originalIndex": 173
+        "originalIndex": 174
     },
     {
         "name": "亚瑟王 (King Arthur)",
@@ -5704,6 +6651,12 @@ window.allHeroes =
             "单体攻击降低",
             "单体元素防御降低",
             "自我特殊技能防御增益"
+        ],
+        "skill_types": [
+            "防御增益",
+            "攻击减益",
+            "防御减益",
+            "狙击手"
         ],
         "source": "挑战节-阿瓦隆",
         "Release date": "2017-01-01",
@@ -5722,7 +6675,7 @@ window.allHeroes =
         "family": "avalon",
         "image": "https://i.imgur.com/2lBnZH9.jpg",
         "costume_id": 0,
-        "originalIndex": 174
+        "originalIndex": 175
     },
     {
         "name": "克拉恩 (Klaern)",
@@ -5735,6 +6688,12 @@ window.allHeroes =
         "types": [
             "攻击所有目标",
             "全体持续伤害"
+        ],
+        "skill_types": [
+            "全体攻击 (打5)",
+            "持续伤害",
+            "特殊治疗",
+            "防御增益"
         ],
         "source": "月英",
         "Release date": "2022-07-01",
@@ -5755,7 +6714,7 @@ window.allHeroes =
         "family": 2022,
         "image": "https://i.imgur.com/zoE3F2A.jpg",
         "costume_id": 0,
-        "originalIndex": 175
+        "originalIndex": 176
     },
     {
         "name": "克朗普斯 (Krampus)",
@@ -5770,6 +6729,12 @@ window.allHeroes =
             "嘲讽",
             "自我防御增益",
             "全体攻击增益"
+        ],
+        "skill_types": [
+            "攻击增益",
+            "防御增益",
+            "召唤小兵",
+            "嘲讽"
         ],
         "source": "月活动-冬日",
         "Release date": "2020-12-01",
@@ -5788,7 +6753,7 @@ window.allHeroes =
         "family": "christmas",
         "image": "https://i.imgur.com/9L71cZ8.jpg",
         "costume_id": 0,
-        "originalIndex": 176
+        "originalIndex": 177
     },
     {
         "name": "克朗普斯 (Krampus) C1",
@@ -5803,6 +6768,12 @@ window.allHeroes =
             "嘲讽",
             "自我防御增益",
             "全体攻击增益"
+        ],
+        "skill_types": [
+            "攻击增益",
+            "防御增益",
+            "召唤小兵",
+            "嘲讽"
         ],
         "source": "月活动-冬日",
         "Release date": "2021-12-01",
@@ -5821,7 +6792,7 @@ window.allHeroes =
         "family": "christmas",
         "image": "https://i.imgur.com/fkiwdOj.jpg",
         "costume_id": 1,
-        "originalIndex": 177
+        "originalIndex": 178
     },
     {
         "name": "洛基领主 (Lord Loki)",
@@ -5834,6 +6805,9 @@ window.allHeroes =
         "types": [
             "复制特殊技能",
             "攻击单个目标"
+        ],
+        "skill_types": [
+            "狙击手"
         ],
         "source": "S3-瓦尔哈拉",
         "Release date": "2020-12-24",
@@ -5852,7 +6826,7 @@ window.allHeroes =
         "family": "jotunheim",
         "image": "https://i.imgur.com/eGy2uqe.jpg",
         "costume_id": 0,
-        "originalIndex": 178
+        "originalIndex": 179
     },
     {
         "name": "洛基领主 (Lord Loki) C1",
@@ -5865,6 +6839,10 @@ window.allHeroes =
         "types": [
             "复制特殊技能",
             "攻击单个目标"
+        ],
+        "skill_types": [
+            "增益窃取者",
+            "狙击手"
         ],
         "source": "S3-瓦尔哈拉",
         "Release date": "2023-05-08",
@@ -5884,7 +6862,7 @@ window.allHeroes =
         "family": "jotunheim",
         "image": "https://i.imgur.com/aEGEu4Y.jpg",
         "costume_id": 1,
-        "originalIndex": 179
+        "originalIndex": 180
     },
     {
         "name": "莱莎诺 (Lysanor)",
@@ -5898,6 +6876,12 @@ window.allHeroes =
             "复活者",
             "全体攻击增益",
             "全体持续治疗"
+        ],
+        "skill_types": [
+            "攻击增益",
+            "生命强化",
+            "复活",
+            "持续治疗"
         ],
         "source": "联盟-骑士冲击",
         "Release date": "2023-10-18",
@@ -5918,7 +6902,7 @@ window.allHeroes =
         "family": "stag",
         "image": "https://i.imgur.com/Er9WfxT.jpg",
         "costume_id": 0,
-        "originalIndex": 180
+        "originalIndex": 181
     },
     {
         "name": "玛吉斯汀 (Magistine)",
@@ -5931,6 +6915,13 @@ window.allHeroes =
         "types": [
             "攻击所有目标",
             "吞噬粘物"
+        ],
+        "skill_types": [
+            "全体攻击 (打5)",
+            "持续伤害",
+            "反制小兵",
+            "驱散",
+            "属性修改"
         ],
         "source": "超级元素人",
         "Release date": "2025-04-25",
@@ -5952,7 +6943,7 @@ window.allHeroes =
         "family": "slime",
         "image": "https://imgur.com/7ut41LY.jpg",
         "costume_id": 0,
-        "originalIndex": 181
+        "originalIndex": 182
     },
     {
         "name": "马格尼 (Magni)",
@@ -5965,6 +6956,10 @@ window.allHeroes =
         "types": [
             "攻击单个目标",
             "3个目标防御增益"
+        ],
+        "skill_types": [
+            "防御增益",
+            "狙击手"
         ],
         "source": "S1-经典",
         "Release date": "2017-01-01",
@@ -5981,7 +6976,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/JpMZ0xh.jpg",
         "costume_id": 0,
-        "originalIndex": 182
+        "originalIndex": 183
     },
     {
         "name": "马格尼 (Magni) C1",
@@ -5994,6 +6989,10 @@ window.allHeroes =
         "types": [
             "攻击单个目标",
             "3个目标防御降低"
+        ],
+        "skill_types": [
+            "防御减益",
+            "狙击手"
         ],
         "source": "S1-经典",
         "Release date": "2020-05-18",
@@ -6010,7 +7009,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/A0jPrh9.jpg",
         "costume_id": 1,
-        "originalIndex": 183
+        "originalIndex": 184
     },
     {
         "name": "马格尼 (Magni) C2",
@@ -6023,6 +7022,10 @@ window.allHeroes =
         "types": [
             "攻击3个目标",
             "3个目标防御降低"
+        ],
+        "skill_types": [
+            "范围攻击 (打3)",
+            "防御减益"
         ],
         "source": "S1-经典",
         "Release date": "2022-10-31",
@@ -6039,7 +7042,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/npmSFHz.jpg",
         "costume_id": 2,
-        "originalIndex": 184
+        "originalIndex": 185
     },
     {
         "name": "马格尼 (Magni) 卡通",
@@ -6052,6 +7055,11 @@ window.allHeroes =
         "types": [
             "攻击单个目标",
             "3个目标防御增益"
+        ],
+        "skill_types": [
+            "防御增益",
+            "额外伤害",
+            "狙击手"
         ],
         "source": "S1-经典",
         "Release date": "2024-01-22",
@@ -6071,7 +7079,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/bakqHYB.jpg",
         "costume_id": 3,
-        "originalIndex": 185
+        "originalIndex": 186
     },
     {
         "name": "马格尼 (Magni) 玻璃",
@@ -6085,6 +7093,11 @@ window.allHeroes =
             "攻击单个目标",
             "无视防御",
             "3个目标防御增益"
+        ],
+        "skill_types": [
+            "防御增益",
+            "绕过",
+            "狙击手"
         ],
         "source": "S1-经典",
         "Release date": "2025-03-11",
@@ -6104,7 +7117,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/EJome7K.jpg",
         "costume_id": 4,
-        "originalIndex": 186
+        "originalIndex": 187
     },
     {
         "name": "马莉奥尔 (Mariol)",
@@ -6118,6 +7131,11 @@ window.allHeroes =
             "全体治疗",
             "月出守卫",
             "全体净化"
+        ],
+        "skill_types": [
+            "生命强化",
+            "伤害减免",
+            "净化"
         ],
         "source": "高塔-猫头鹰",
         "Release date": "2024-03-13",
@@ -6137,7 +7155,7 @@ window.allHeroes =
         "family": "owl",
         "image": "https://i.imgur.com/NhlQa4M.jpg",
         "costume_id": 0,
-        "originalIndex": 187
+        "originalIndex": 188
     },
     {
         "name": "天兔大师 (Master Lepus)",
@@ -6150,6 +7168,10 @@ window.allHeroes =
         "types": [
             "攻击3个目标",
             "自我防御降低"
+        ],
+        "skill_types": [
+            "范围攻击 (打3)",
+            "对自身或友军负面效果"
         ],
         "source": "月活动-春谷",
         "Release date": "2017-01-01",
@@ -6166,7 +7188,7 @@ window.allHeroes =
         "family": "springvale",
         "image": "https://i.imgur.com/Ti2FM1v.jpg",
         "costume_id": 0,
-        "originalIndex": 188
+        "originalIndex": 189
     },
     {
         "name": "天兔大师 (Master Lepus) C1",
@@ -6179,6 +7201,10 @@ window.allHeroes =
         "types": [
             "攻击所有目标",
             "自我法力生成降低"
+        ],
+        "skill_types": [
+            "全体攻击 (打5)",
+            "对自身或友军负面效果"
         ],
         "source": "月活动-春谷",
         "Release date": "2022-03-21",
@@ -6195,7 +7221,7 @@ window.allHeroes =
         "family": "springvale",
         "image": "https://i.imgur.com/aLTsGWG.jpg",
         "costume_id": 1,
-        "originalIndex": 189
+        "originalIndex": 190
     },
     {
         "name": "马特雷拉 (Matrera)",
@@ -6208,6 +7234,12 @@ window.allHeroes =
         "types": [
             "攻击单个目标",
             "3个目标攻击降低"
+        ],
+        "skill_types": [
+            "攻击减益",
+            "狙击手",
+            "范围攻击 (打3)",
+            "伤害减免"
         ],
         "source": "挑战-石像鬼",
         "Release date": "2022-12-29",
@@ -6227,7 +7259,7 @@ window.allHeroes =
         "family": "gargoyle",
         "image": "https://i.imgur.com/5yPwJb7.jpg",
         "costume_id": 0,
-        "originalIndex": 190
+        "originalIndex": 191
     },
     {
         "name": "梅内 (Mene)",
@@ -6241,6 +7273,12 @@ window.allHeroes =
             "攻击3个目标",
             "3个目标持续伤害",
             "3个目标增益免疫"
+        ],
+        "skill_types": [
+            "范围攻击 (打3)",
+            "持续伤害",
+            "增益格挡者",
+            "攻击增益"
         ],
         "source": "月英",
         "Release date": "2024-11-01",
@@ -6262,7 +7300,7 @@ window.allHeroes =
         "family": 2024,
         "image": "https://i.imgur.com/yERCkFp.jpg",
         "costume_id": 0,
-        "originalIndex": 191
+        "originalIndex": 192
     },
     {
         "name": "米琪 (Miki)",
@@ -6275,6 +7313,11 @@ window.allHeroes =
         "types": [
             "泰坦攻击增益",
             "3个目标沉默者"
+        ],
+        "skill_types": [
+            "攻击增益",
+            "法力生成增益",
+            "沉默"
         ],
         "source": "月英",
         "Release date": "2019-08-01",
@@ -6294,7 +7337,7 @@ window.allHeroes =
         "family": 2019,
         "image": "https://i.imgur.com/FM0GgVz.jpg",
         "costume_id": 0,
-        "originalIndex": 192
+        "originalIndex": 193
     },
     {
         "name": "米莱狄·德·温特 (Milady de Winter)",
@@ -6309,6 +7352,11 @@ window.allHeroes =
             "自我持续治疗",
             "全体反射增益",
             "全体反射状态异常"
+        ],
+        "skill_types": [
+            "全体攻击 (打5)",
+            "持续治疗",
+            "反射"
         ],
         "source": "联盟-火枪手",
         "Release date": "2023-03-08",
@@ -6329,7 +7377,7 @@ window.allHeroes =
         "family": "musketeer",
         "image": "https://i.imgur.com/NEdggUL.jpg",
         "costume_id": 0,
-        "originalIndex": 193
+        "originalIndex": 194
     },
     {
         "name": "米莱娜 (Milena)",
@@ -6345,6 +7393,13 @@ window.allHeroes =
             "全体净化",
             "攻击所有目标",
             "全体驱散"
+        ],
+        "skill_types": [
+            "全体攻击 (打5)",
+            "净化",
+            "驱散",
+            "治疗",
+            "法力提升"
         ],
         "source": "高塔-魔法",
         "Release date": "2021-09-15",
@@ -6368,7 +7423,7 @@ window.allHeroes =
         "family": "magic",
         "image": "https://i.imgur.com/30AXxJs.jpg",
         "costume_id": 0,
-        "originalIndex": 194
+        "originalIndex": 195
     },
     {
         "name": "米莱娜 (Milena) C1",
@@ -6384,6 +7439,13 @@ window.allHeroes =
             "全体净化",
             "攻击所有目标",
             "全体驱散"
+        ],
+        "skill_types": [
+            "全体攻击 (打5)",
+            "净化",
+            "驱散",
+            "治疗",
+            "法力提升"
         ],
         "source": "高塔-魔法",
         "Release date": "2025-04-17",
@@ -6408,7 +7470,7 @@ window.allHeroes =
         "family": "magic",
         "image": "https://imgur.com/hwGD9H1.jpg",
         "costume_id": 1,
-        "originalIndex": 195
+        "originalIndex": 196
     },
     {
         "name": "米丽安与午夜 (Miriam & Midnight)",
@@ -6423,6 +7485,12 @@ window.allHeroes =
             "治疗小兵",
             "净化小兵",
             "3个目标攻击增益"
+        ],
+        "skill_types": [
+            "攻击增益",
+            "净化",
+            "持续治疗",
+            "召唤小兵"
         ],
         "source": "月活动-莫洛维亚",
         "Release date": "2022-10-03",
@@ -6442,7 +7510,7 @@ window.allHeroes =
         "family": "morlovia",
         "image": "https://i.imgur.com/eyJkRvq.jpg",
         "costume_id": 0,
-        "originalIndex": 196
+        "originalIndex": 197
     },
     {
         "name": "米桑德拉 (Misandra)",
@@ -6456,6 +7524,11 @@ window.allHeroes =
             "攻击单个目标",
             "可能的额外攻击",
             "全体法力提升"
+        ],
+        "skill_types": [
+            "连锁与随机攻击",
+            "法力提升",
+            "狙击手"
         ],
         "source": "S2-亚特兰蒂斯",
         "Release date": "2019-08-01",
@@ -6473,7 +7546,7 @@ window.allHeroes =
         "family": "lagoon",
         "image": "https://i.imgur.com/YC2DFg3.jpg",
         "costume_id": 0,
-        "originalIndex": 197
+        "originalIndex": 198
     },
     {
         "name": "米桑德拉 (Misandra) C1",
@@ -6487,6 +7560,11 @@ window.allHeroes =
             "攻击单个目标",
             "可能的额外攻击",
             "莽夫乱拳"
+        ],
+        "skill_types": [
+            "连锁与随机攻击",
+            "精神错乱攻击&治疗",
+            "狙击手"
         ],
         "source": "S2-亚特兰蒂斯",
         "Release date": "2023-01-09",
@@ -6504,7 +7582,7 @@ window.allHeroes =
         "family": "lagoon",
         "image": "https://i.imgur.com/ZELxM85.jpg",
         "costume_id": 1,
-        "originalIndex": 198
+        "originalIndex": 199
     },
     {
         "name": "艾瑟尔小姐 (Miss Ethel)",
@@ -6517,6 +7595,11 @@ window.allHeroes =
         "types": [
             "攻击2个目标",
             "连锁攻击"
+        ],
+        "skill_types": [
+            "狙击手",
+            "连锁与随机攻击",
+            "对自身或友军负面效果"
         ],
         "source": "月活动-春谷",
         "Release date": "2024-03-18",
@@ -6534,7 +7617,7 @@ window.allHeroes =
         "family": "springvale",
         "image": "https://i.imgur.com/B15IDKf.jpg",
         "costume_id": 0,
-        "originalIndex": 199
+        "originalIndex": 200
     },
     {
         "name": "米斯特拉 (Mistra)",
@@ -6547,6 +7630,11 @@ window.allHeroes =
         "types": [
             "攻击所有目标",
             "治疗者"
+        ],
+        "skill_types": [
+            "全体攻击 (打5)",
+            "额外伤害",
+            "特殊治疗"
         ],
         "source": "神话召唤",
         "Release date": "2024-05-03",
@@ -6570,7 +7658,7 @@ window.allHeroes =
         "family": "champions",
         "image": "https://i.imgur.com/NaHaaPY.jpg",
         "costume_id": 0,
-        "originalIndex": 200
+        "originalIndex": 201
     },
     {
         "name": "蜜丝缇 (Misty)",
@@ -6584,6 +7672,12 @@ window.allHeroes =
             "全体强化治疗",
             "全体最大生命值降低",
             "攻击所有目标"
+        ],
+        "skill_types": [
+            "全体攻击 (打5)",
+            "生命强化",
+            "最大生命削减",
+            "持续伤害"
         ],
         "source": "月活动-海滩派对",
         "Release date": "2023-06-12",
@@ -6599,12 +7693,12 @@ window.allHeroes =
         ],
         "passives": [
             "抵抗水系伤害：该角色天生对水系伤害有抵抗能力。",
-            "特殊技能附带持续伤害：当该角色施放其特殊技能时，所有敌人会在 210 回合内受到 2 点水系伤害。"
+            "特殊技能附带持续伤害：当该角色施放其特殊技能时，所有敌人会在 2 回合内受到 210 点水系伤害。"
         ],
         "family": "beachparty",
         "image": "https://i.imgur.com/qRuu0M1.jpg",
         "costume_id": 0,
-        "originalIndex": 201
+        "originalIndex": 202
     },
     {
         "name": "莫德瑞丝 (Modthryth)",
@@ -6618,6 +7712,13 @@ window.allHeroes =
             "3个目标反击",
             "全体攻击叠加",
             "单体增益之源"
+        ],
+        "skill_types": [
+            "反击",
+            "法力削减或格挡",
+            "攻击增益",
+            "法力生成增益",
+            "叠加"
         ],
         "source": "挑战-贝奥武夫",
         "Release date": "2025-02-13",
@@ -6643,7 +7744,7 @@ window.allHeroes =
         "family": "beowulf",
         "image": "https://i.imgur.com/oiGz5nc.jpg",
         "costume_id": 0,
-        "originalIndex": 202
+        "originalIndex": 203
     },
     {
         "name": "月医 (Mooncure)",
@@ -6658,6 +7759,14 @@ window.allHeroes =
             "敌方释放特殊技能时全体获得法力",
             "全体治疗偷取",
             "全体攻击降低"
+        ],
+        "skill_types": [
+            "治疗",
+            "法力提升",
+            "特殊治疗",
+            "攻击减益",
+            "治疗削减",
+            "伤害分摊"
         ],
         "source": "星体召唤",
         "Release date": "2024-08-19",
@@ -6679,7 +7788,7 @@ window.allHeroes =
         "family": "astralelves",
         "image": "https://i.imgur.com/K8e9yy9.jpg",
         "costume_id": 0,
-        "originalIndex": 203
+        "originalIndex": 204
     },
     {
         "name": "莫雷尔 (Morel)",
@@ -6692,6 +7801,10 @@ window.allHeroes =
         "types": [
             "攻击所有目标",
             "全体防御降低"
+        ],
+        "skill_types": [
+            "全体攻击 (打5)",
+            "防御减益"
         ],
         "source": "S4-蛮荒地界",
         "Release date": "2021-06-17",
@@ -6710,7 +7823,7 @@ window.allHeroes =
         "family": "underwild",
         "image": "https://i.imgur.com/BbpdvD9.jpg",
         "costume_id": 0,
-        "originalIndex": 204
+        "originalIndex": 205
     },
     {
         "name": "莫雷尔 (Morel) C1",
@@ -6724,6 +7837,13 @@ window.allHeroes =
             "攻击所有目标",
             "全体防御降低",
             "全体持续治疗"
+        ],
+        "skill_types": [
+            "全体攻击 (打5)",
+            "防御减益",
+            "持续治疗",
+            "额外伤害",
+            "攻击增益"
         ],
         "source": "S4-蛮荒地界",
         "Release date": "2023-07-20",
@@ -6744,7 +7864,7 @@ window.allHeroes =
         "family": "underwild",
         "image": "https://i.imgur.com/MAsmJsS.jpg",
         "costume_id": 1,
-        "originalIndex": 205
+        "originalIndex": 206
     },
     {
         "name": "潘吉先生 (Mr. Pengi)",
@@ -6759,6 +7879,11 @@ window.allHeroes =
             "随机攻击",
             "持续伤害",
             "召唤3个小兵"
+        ],
+        "skill_types": [
+            "连锁与随机攻击",
+            "狙击手",
+            "召唤小兵"
         ],
         "source": "月活动-冬日",
         "Release date": "2021-12-01",
@@ -6777,7 +7902,7 @@ window.allHeroes =
         "family": "christmas",
         "image": "https://i.imgur.com/BbxUIy4.jpg",
         "costume_id": 0,
-        "originalIndex": 206
+        "originalIndex": 207
     },
     {
         "name": "潘吉先生 (Mr. Pengi) C1",
@@ -6792,6 +7917,12 @@ window.allHeroes =
             "随机攻击",
             "持续伤害",
             "召唤3个小兵"
+        ],
+        "skill_types": [
+            "狙击手",
+            "连锁与随机攻击",
+            "持续伤害",
+            "召唤小兵"
         ],
         "source": "月活动-冬日",
         "Release date": "2024-12-01",
@@ -6810,7 +7941,7 @@ window.allHeroes =
         "family": "christmas",
         "image": "https://i.imgur.com/kNrkptI.jpg",
         "costume_id": 1,
-        "originalIndex": 207
+        "originalIndex": 208
     },
     {
         "name": "诺第卡 (Nautica)",
@@ -6825,6 +7956,13 @@ window.allHeroes =
             "3个目标法力提升",
             "2个目标法力生成增益",
             "3个目标暴击增益"
+        ],
+        "skill_types": [
+            "攻击增益",
+            "治疗",
+            "法力生成增益",
+            "法力提升",
+            "生命强化"
         ],
         "source": "盟约召唤",
         "Release date": "2024-02-08",
@@ -6848,7 +7986,7 @@ window.allHeroes =
         "family": "construct",
         "image": "https://i.imgur.com/iuMlpaP.jpg",
         "costume_id": 0,
-        "originalIndex": 208
+        "originalIndex": 209
     },
     {
         "name": "九头兽 (Nine-Headed Beast)",
@@ -6864,6 +8002,12 @@ window.allHeroes =
             "全体重置状态异常",
             "全体攻击增益",
             "全体攻击降低"
+        ],
+        "skill_types": [
+            "攻击增益",
+            "连锁与随机攻击",
+            "攻击减益",
+            "效果持续重置"
         ],
         "source": "三国召唤",
         "Release date": "2023-06-19",
@@ -6886,7 +8030,7 @@ window.allHeroes =
         "family": "journey",
         "image": "https://i.imgur.com/8Uj8Jmv.jpg",
         "costume_id": 0,
-        "originalIndex": 209
+        "originalIndex": 210
     },
     {
         "name": "尼洛拉 (Nylora)",
@@ -6900,6 +8044,10 @@ window.allHeroes =
             "单体元素交换",
             "攻击单个目标",
             "单体元素防御降低"
+        ],
+        "skill_types": [
+            "狙击手",
+            "防御减益"
         ],
         "source": "超级元素人",
         "Release date": "2024-06-17",
@@ -6923,7 +8071,7 @@ window.allHeroes =
         "family": "superelemental",
         "image": "https://i.imgur.com/NBQDloj.jpg",
         "costume_id": 0,
-        "originalIndex": 210
+        "originalIndex": 211
     },
     {
         "name": "奥黛特 (Odette)",
@@ -6940,6 +8088,13 @@ window.allHeroes =
             "舞蹈期间闪避增益",
             "舞蹈期间几率攻击单个目标",
             "舞蹈期间状态效果免疫"
+        ],
+        "skill_types": [
+            "连锁与随机攻击",
+            "舞者",
+            "闪避",
+            "持续治疗",
+            "提供免疫"
         ],
         "source": "至日召唤",
         "Release date": "2023-06-20",
@@ -6965,7 +8120,7 @@ window.allHeroes =
         "family": "opera",
         "image": "https://i.imgur.com/ATDUydH.jpg",
         "costume_id": 0,
-        "originalIndex": 211
+        "originalIndex": 212
     },
     {
         "name": "鬼若丸 (Oniwakamaru)",
@@ -6979,6 +8134,11 @@ window.allHeroes =
             "自我强化治疗",
             "嘲讽",
             "单体反击"
+        ],
+        "skill_types": [
+            "反击",
+            "生命强化",
+            "嘲讽"
         ],
         "source": "高塔-忍者",
         "Release date": "2023-01-11",
@@ -7006,7 +8166,7 @@ window.allHeroes =
         "family": "ninja",
         "image": "https://i.imgur.com/TgO9p2o.jpg",
         "costume_id": 0,
-        "originalIndex": 212
+        "originalIndex": 213
     },
     {
         "name": "奥德索 (Otso)",
@@ -7020,6 +8180,12 @@ window.allHeroes =
             "攻击所有目标",
             "自我持续治疗",
             "全体特殊技能标记"
+        ],
+        "skill_types": [
+            "全体攻击 (打5)",
+            "持续治疗",
+            "叠加",
+            "额外伤害"
         ],
         "source": "月活动-卡勒瓦拉",
         "Release date": "2024-07-22",
@@ -7039,7 +8205,7 @@ window.allHeroes =
         "family": "kalevala",
         "image": "https://i.imgur.com/lO11H6h.jpg",
         "costume_id": 0,
-        "originalIndex": 213
+        "originalIndex": 214
     },
     {
         "name": "帕瑟帕特奥 (Passepartout)",
@@ -7053,6 +8219,12 @@ window.allHeroes =
             "全体治疗",
             "全体持续治疗",
             "全体防御增益"
+        ],
+        "skill_types": [
+            "防御增益",
+            "持续治疗",
+            "治疗",
+            "特殊治疗"
         ],
         "source": "S4-蛮荒地界",
         "Release date": "2021-12-02",
@@ -7072,7 +8244,7 @@ window.allHeroes =
         "family": "underwild",
         "image": "https://i.imgur.com/6D1hJ1P.jpg",
         "costume_id": 0,
-        "originalIndex": 214
+        "originalIndex": 215
     },
     {
         "name": "帕瑟帕特奥 (Passepartout) C1",
@@ -7086,6 +8258,13 @@ window.allHeroes =
             "全体治疗",
             "全体持续治疗",
             "全体防御增益"
+        ],
+        "skill_types": [
+            "防御增益",
+            "持续治疗",
+            "治疗",
+            "生命强化",
+            "特殊治疗"
         ],
         "source": "S4-蛮荒地界",
         "Release date": "2023-10-12",
@@ -7106,7 +8285,7 @@ window.allHeroes =
         "family": "underwild",
         "image": "https://i.imgur.com/mcEOLvZ.jpg",
         "costume_id": 1,
-        "originalIndex": 215
+        "originalIndex": 216
     },
     {
         "name": "佩普布勒 (Pepperbleu)",
@@ -7120,10 +8299,19 @@ window.allHeroes =
             "安全驱散1个目标",
             "召唤1个暮光幼蛾超级恶魔"
         ],
+        "skill_types": [
+            "狙击手",
+            "驱散",
+            "召唤恶魔",
+            "增益格挡者",
+            "持续伤害",
+            "闪避",
+            "反制小兵"
+        ],
         "source": "联盟-飞蛾",
         "Release date": "2025-02-20",
         "star": 5,
-        "power": 1175,
+        "power": 1185,
         "attack": 1229,
         "defense": 1225,
         "health": 2055,
@@ -7140,7 +8328,7 @@ window.allHeroes =
         "family": "moth",
         "image": "https://i.imgur.com/zllnmP0.jpg",
         "costume_id": 0,
-        "originalIndex": 216
+        "originalIndex": 217
     },
     {
         "name": "柏休斯 (Perseus)",
@@ -7154,6 +8342,12 @@ window.allHeroes =
             "攻击单个目标",
             "单体治疗降低",
             "3个目标元素防御增益"
+        ],
+        "skill_types": [
+            "防御增益",
+            "治疗削减",
+            "法力生成增益",
+            "狙击手"
         ],
         "source": "月英",
         "Release date": "2017-12-01T00:00:00",
@@ -7172,7 +8366,7 @@ window.allHeroes =
         "family": 2017,
         "image": "https://i.imgur.com/AMhR92j.jpg",
         "costume_id": 0,
-        "originalIndex": 217
+        "originalIndex": 218
     },
     {
         "name": "柏休斯 (Perseus) C1",
@@ -7186,6 +8380,13 @@ window.allHeroes =
             "攻击3个目标",
             "3个目标治疗降低",
             "3个目标元素防御降低"
+        ],
+        "skill_types": [
+            "范围攻击 (打3)",
+            "防御减益",
+            "治疗削减",
+            "法力生成增益",
+            "驱散"
         ],
         "source": "月英",
         "Release date": "2022-11-28T11:00:00",
@@ -7206,7 +8407,7 @@ window.allHeroes =
         "family": 2017,
         "image": "https://i.imgur.com/nzVNwio.jpg",
         "costume_id": 1,
-        "originalIndex": 218
+        "originalIndex": 219
     },
     {
         "name": "金曲 (Pophit)",
@@ -7220,6 +8421,12 @@ window.allHeroes =
             "防御降低",
             "攻击3个目标",
             "2个目标软肤"
+        ],
+        "skill_types": [
+            "范围攻击 (打3)",
+            "伤害减免",
+            "提供免疫",
+            "防御减益"
         ],
         "source": "挑战-重返圣堂",
         "Release date": "2024-02-27",
@@ -7239,7 +8446,7 @@ window.allHeroes =
         "family": "gargoyle",
         "image": "https://i.imgur.com/Q0YpIYH.jpg",
         "costume_id": 0,
-        "originalIndex": 219
+        "originalIndex": 220
     },
     {
         "name": "波尔多斯 (Porthos)",
@@ -7253,6 +8460,14 @@ window.allHeroes =
             "攻击所有目标",
             "改变棋盘",
             "自我持续治疗"
+        ],
+        "skill_types": [
+            "全体攻击 (打5)",
+            "改变面板",
+            "攻击减益",
+            "攻击增益",
+            "额外伤害",
+            "持续治疗"
         ],
         "source": "联盟-火枪手",
         "Release date": "2022-12-14",
@@ -7273,7 +8488,7 @@ window.allHeroes =
         "family": "musketeer",
         "image": "https://i.imgur.com/BwYaSTj.jpg",
         "costume_id": 0,
-        "originalIndex": 220
+        "originalIndex": 221
     },
     {
         "name": "夸里 (Quari)",
@@ -7287,6 +8502,13 @@ window.allHeroes =
             "攻击3个目标",
             "3个目标持续伤害",
             "全体成长"
+        ],
+        "skill_types": [
+            "范围攻击 (打3)",
+            "持续伤害",
+            "特殊治疗",
+            "生命强化",
+            "属性修改"
         ],
         "source": "星体召唤",
         "Release date": "2024-12-22",
@@ -7308,7 +8530,7 @@ window.allHeroes =
         "family": "astraldwarfs",
         "image": "https://i.imgur.com/eBrPD5E.jpg",
         "costume_id": 0,
-        "originalIndex": 221
+        "originalIndex": 222
     },
     {
         "name": "奎恩 (Quinn)",
@@ -7325,6 +8547,13 @@ window.allHeroes =
             "暗元素法力生成降低",
             "神圣元素防御降低",
             "自然元素攻击降低"
+        ],
+        "skill_types": [
+            "增益格挡者",
+            "攻击减益",
+            "防御减益",
+            "生命强化",
+            "法力削减或格挡"
         ],
         "source": "超级元素人",
         "Release date": "2023-09-11",
@@ -7351,7 +8580,7 @@ window.allHeroes =
         "family": "superelemental",
         "image": "https://i.imgur.com/deN3GU2.jpg",
         "costume_id": 0,
-        "originalIndex": 222
+        "originalIndex": 223
     },
     {
         "name": "昆汀 (Quintin)",
@@ -7363,6 +8592,11 @@ window.allHeroes =
         "skill": "痛苦回响",
         "types": [
             "攻击单个目标"
+        ],
+        "skill_types": [
+            "持续伤害",
+            "狙击手",
+            "伤害分摊"
         ],
         "source": "联盟-骑士冲击",
         "Release date": "2022-01-05",
@@ -7379,7 +8613,7 @@ window.allHeroes =
         "family": "raven",
         "image": "https://i.imgur.com/8ISALDU.jpg",
         "costume_id": 0,
-        "originalIndex": 223
+        "originalIndex": 224
     },
     {
         "name": "拉菲尔 (Raffaele)",
@@ -7393,6 +8627,12 @@ window.allHeroes =
             "治疗者",
             "全体持续治疗",
             "全体净化"
+        ],
+        "skill_types": [
+            "净化",
+            "持续治疗",
+            "治疗",
+            "防御增益"
         ],
         "source": "月英",
         "Release date": "2020-06-01",
@@ -7413,7 +8653,7 @@ window.allHeroes =
         "family": 2020,
         "image": "https://i.imgur.com/O0p11HF.jpg",
         "costume_id": 0,
-        "originalIndex": 224
+        "originalIndex": 225
     },
     {
         "name": "里安 (Rian)",
@@ -7428,6 +8668,15 @@ window.allHeroes =
             "攻击所有目标",
             "自我法力生成增益叠加",
             "自我持续治疗叠加"
+        ],
+        "skill_types": [
+            "全体攻击 (打5)",
+            "净化",
+            "特殊治疗",
+            "叠加",
+            "额外伤害",
+            "法力生成增益",
+            "持续治疗"
         ],
         "source": "挑战节-杀手",
         "Release date": "2021-08-05",
@@ -7449,7 +8698,7 @@ window.allHeroes =
         "family": "slayer",
         "image": "https://i.imgur.com/pgR8NJw.jpg",
         "costume_id": 0,
-        "originalIndex": 225
+        "originalIndex": 226
     },
     {
         "name": "理查德 (Richard)",
@@ -7462,6 +8711,10 @@ window.allHeroes =
         "types": [
             "攻击3个目标",
             "3个目标攻击降低"
+        ],
+        "skill_types": [
+            "范围攻击 (打3)",
+            "攻击减益"
         ],
         "source": "S1-经典",
         "Release date": "2017-01-01",
@@ -7478,7 +8731,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/G5NAe4a.jpg",
         "costume_id": 0,
-        "originalIndex": 226
+        "originalIndex": 227
     },
     {
         "name": "理查德 (Richard) C1",
@@ -7491,6 +8744,10 @@ window.allHeroes =
         "types": [
             "攻击3个目标",
             "3个目标攻击降低"
+        ],
+        "skill_types": [
+            "范围攻击 (打3)",
+            "攻击减益"
         ],
         "source": "S1-经典",
         "Release date": "2020-01-01",
@@ -7507,7 +8764,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/WKQthMP.jpg",
         "costume_id": 1,
-        "originalIndex": 227
+        "originalIndex": 228
     },
     {
         "name": "理查德 (Richard) C2",
@@ -7520,6 +8777,11 @@ window.allHeroes =
         "types": [
             "攻击3个目标",
             "3个目标攻击降低"
+        ],
+        "skill_types": [
+            "范围攻击 (打3)",
+            "攻击减益",
+            "叠加"
         ],
         "source": "S1-经典",
         "Release date": "2023-09-04",
@@ -7536,7 +8798,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/7TMtgd4.jpg",
         "costume_id": 2,
-        "originalIndex": 228
+        "originalIndex": 229
     },
     {
         "name": "理查德 (Richard) 卡通",
@@ -7549,6 +8811,11 @@ window.allHeroes =
         "types": [
             "攻击3个目标",
             "3个目标攻击降低"
+        ],
+        "skill_types": [
+            "范围攻击 (打3)",
+            "攻击减益",
+            "额外伤害"
         ],
         "source": "S1-经典",
         "Release date": "2023-10-30",
@@ -7568,7 +8835,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/2rEfoQ7.jpg",
         "costume_id": 3,
-        "originalIndex": 229
+        "originalIndex": 230
     },
     {
         "name": "理查德 (Richard) 玻璃",
@@ -7582,6 +8849,11 @@ window.allHeroes =
             "攻击3个目标",
             "无视防御",
             "3个目标攻击降低"
+        ],
+        "skill_types": [
+            "范围攻击 (打3)",
+            "绕过",
+            "攻击减益"
         ],
         "source": "S1-经典",
         "Release date": "2024-12-24",
@@ -7601,7 +8873,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/zd4avma.jpg",
         "costume_id": 4,
-        "originalIndex": 230
+        "originalIndex": 231
     },
     {
         "name": "龙佩尔斯迪尔钦 (Rumpelstiltskin)",
@@ -7613,6 +8885,14 @@ window.allHeroes =
         "skill": "骗术",
         "types": [
             "赌徒"
+        ],
+        "skill_types": [
+            "全体攻击 (打5)",
+            "攻击增益",
+            "净化",
+            "防御减益",
+            "持续伤害",
+            "治疗"
         ],
         "source": "挑战节-肃煞森林",
         "Release date": "2017-01-01",
@@ -7637,7 +8917,7 @@ window.allHeroes =
         "family": "grimforest",
         "image": "https://i.imgur.com/v7aCbsm.jpg",
         "costume_id": 0,
-        "originalIndex": 231
+        "originalIndex": 232
     },
     {
         "name": "龙佩尔斯迪尔钦 (Rumpelstiltskin) C1",
@@ -7653,6 +8933,14 @@ window.allHeroes =
             "全体生命值加成",
             "全体法力生成降低",
             "全体增益免疫"
+        ],
+        "skill_types": [
+            "增益格挡者",
+            "持续伤害",
+            "生命强化",
+            "提供免疫",
+            "法力削减或格挡",
+            "最大生命削减"
         ],
         "source": "挑战节-肃煞森林",
         "Release date": "2022-06-16",
@@ -7677,7 +8965,7 @@ window.allHeroes =
         "family": "grimforest",
         "image": "https://i.imgur.com/G2za8YY.jpg",
         "costume_id": 1,
-        "originalIndex": 232
+        "originalIndex": 233
     },
     {
         "name": "鲁苏拉 (Russula)",
@@ -7690,6 +8978,13 @@ window.allHeroes =
         "types": [
             "攻击单个目标",
             "躲藏"
+        ],
+        "skill_types": [
+            "全体攻击 (打5)",
+            "伤害减免",
+            "伤害减免",
+            "鬼魂形态与隐藏",
+            "狙击手"
         ],
         "source": "S4-蛮荒地界",
         "Release date": "2021-05-20",
@@ -7710,7 +9005,7 @@ window.allHeroes =
         "family": "underwild",
         "image": "https://i.imgur.com/MqnrIZ3.jpg",
         "costume_id": 0,
-        "originalIndex": 233
+        "originalIndex": 234
     },
     {
         "name": "鲁苏拉 (Russula) C1",
@@ -7723,6 +9018,15 @@ window.allHeroes =
         "types": [
             "攻击单个目标",
             "躲藏"
+        ],
+        "skill_types": [
+            "全体攻击 (打5)",
+            "Damage Reducers)",
+            "伤害减免",
+            "鬼魂形态与隐藏",
+            "狙击手",
+            "额外伤害",
+            "攻击增益"
         ],
         "source": "S4-蛮荒地界",
         "Release date": "2024-01-04",
@@ -7744,7 +9048,7 @@ window.allHeroes =
         "family": "underwild",
         "image": "https://i.imgur.com/KzLvPms.jpg",
         "costume_id": 1,
-        "originalIndex": 234
+        "originalIndex": 235
     },
     {
         "name": "紫貂 (Sable)",
@@ -7760,6 +9064,15 @@ window.allHeroes =
             "复活单个目标",
             "全体持续治疗",
             "全体净化"
+        ],
+        "skill_types": [
+            "净化",
+            "复活",
+            "持续治疗",
+            "驱散",
+            "叠加",
+            "鬼魂形态与隐藏",
+            "治疗削减"
         ],
         "source": "盟约召唤",
         "Release date": "2025-02-02",
@@ -7782,7 +9095,7 @@ window.allHeroes =
         "family": "fox",
         "image": "https://i.imgur.com/rZTJzw7.jpg",
         "costume_id": 0,
-        "originalIndex": 235
+        "originalIndex": 236
     },
     {
         "name": "开悟 (Satori)",
@@ -7794,6 +9107,12 @@ window.allHeroes =
         "skill": "千手如来掌",
         "types": [
             "攻击所有目标"
+        ],
+        "skill_types": [
+            "全体攻击 (打5)",
+            "伤害减免",
+            "额外伤害",
+            "驱散"
         ],
         "source": "神话召唤",
         "Release date": "2023-11-29",
@@ -7815,7 +9134,7 @@ window.allHeroes =
         "family": "champions",
         "image": "https://i.imgur.com/pKtN1Ok.jpg",
         "costume_id": 0,
-        "originalIndex": 236
+        "originalIndex": 237
     },
     {
         "name": "泽野 (Sawano)",
@@ -7829,6 +9148,12 @@ window.allHeroes =
             "全体治疗",
             "敌方释放特殊技能时全体治疗",
             "净化 (1/3/5个目标)"
+        ],
+        "skill_types": [
+            "治疗",
+            "净化",
+            "特殊治疗",
+            "反制小兵"
         ],
         "source": "高塔-忍者",
         "Release date": "2024-11-19",
@@ -7857,7 +9182,7 @@ window.allHeroes =
         "family": "ninja",
         "image": "https://i.imgur.com/iP6Lloh.jpg",
         "costume_id": 0,
-        "originalIndex": 237
+        "originalIndex": 238
     },
     {
         "name": "西格恩 (Sigyn)",
@@ -7871,6 +9196,12 @@ window.allHeroes =
             "攻击2个目标",
             "2个目标法力削减",
             "召唤2个恶魔"
+        ],
+        "skill_types": [
+            "狙击手",
+            "法力削减或格挡",
+            "召唤恶魔",
+            "持续伤害"
         ],
         "source": "盟约召唤",
         "Release date": "2024-08-13",
@@ -7887,12 +9218,12 @@ window.allHeroes =
         ],
         "passives": [
             "特殊技能伤害减免：该角色有 10% 的几率将受到的特殊技能直接伤害降至 1 点。",
-            "特殊技能附带持续伤害：当该角色施放其特殊技能时，会给一个随机敌人施加猎人印记。目标在 150 回合内受到 3 点伤害。如果目标已有此效果，则持续时间刷新，伤害增加 150 点，总伤害最高可达 1500 点。"
+            "特殊技能附带持续伤害：当该角色施放其特殊技能时，会给一个随机敌人施加猎人印记。目标在 3 回合内受到 150 点伤害。如果目标已有此效果，则持续时间刷新，伤害增加 150 点，总伤害最高可达 1500 点。"
         ],
         "family": "plainshunter",
         "image": "https://i.imgur.com/JtNxfb8.jpg",
         "costume_id": 0,
-        "originalIndex": 238
+        "originalIndex": 239
     },
     {
         "name": "西尼 (Sini)",
@@ -7905,6 +9236,14 @@ window.allHeroes =
         "types": [
             "攻击所有目标",
             "改变棋盘"
+        ],
+        "skill_types": [
+            "全体攻击 (打5)",
+            "改变面板",
+            "攻击减益",
+            "攻击增益",
+            "额外伤害",
+            "闪避"
         ],
         "source": "月英",
         "Release date": "2024-07-01",
@@ -7926,7 +9265,7 @@ window.allHeroes =
         "family": 2024,
         "image": "https://i.imgur.com/IV4i4UQ.jpg",
         "costume_id": 0,
-        "originalIndex": 239
+        "originalIndex": 240
     },
     {
         "name": "希奥弗拉 (Siofra)",
@@ -7941,6 +9280,12 @@ window.allHeroes =
             "无视防御",
             "3个目标攻击降低",
             "治疗降低"
+        ],
+        "skill_types": [
+            "范围攻击 (打3)",
+            "绕过",
+            "攻击减益",
+            "治疗削减"
         ],
         "source": "联盟-骑士冲击",
         "Release date": "2024-06-05",
@@ -7961,7 +9306,7 @@ window.allHeroes =
         "family": "stag",
         "image": "https://i.imgur.com/kkNu861.jpg",
         "costume_id": 0,
-        "originalIndex": 240
+        "originalIndex": 241
     },
     {
         "name": "斯嘉蒂 (Skadi)",
@@ -7975,6 +9320,13 @@ window.allHeroes =
             "攻击所有目标",
             "持续伤害叠加",
             "法力生成降低叠加"
+        ],
+        "skill_types": [
+            "全体攻击 (打5)",
+            "持续伤害",
+            "额外伤害",
+            "法力削减或格挡",
+            "叠加"
         ],
         "source": "S3-瓦尔哈拉",
         "Release date": "2020-06-25",
@@ -7993,7 +9345,7 @@ window.allHeroes =
         "family": "jotunheim",
         "image": "https://i.imgur.com/MzjdnYC.jpg",
         "costume_id": 0,
-        "originalIndex": 241
+        "originalIndex": 242
     },
     {
         "name": "斯嘉蒂 (Skadi) C1",
@@ -8007,6 +9359,13 @@ window.allHeroes =
             "攻击3个目标",
             "持续伤害叠加",
             "法力生成降低叠加"
+        ],
+        "skill_types": [
+            "范围攻击 (打3)",
+            "持续伤害",
+            "额外伤害",
+            "法力削减或格挡",
+            "叠加"
         ],
         "source": "S3-瓦尔哈拉",
         "Release date": "2022-07-04",
@@ -8025,7 +9384,7 @@ window.allHeroes =
         "family": "jotunheim",
         "image": "https://i.imgur.com/SWH0vbH.jpg",
         "costume_id": 1,
-        "originalIndex": 242
+        "originalIndex": 243
     },
     {
         "name": "斯卡恩 (Skarn)",
@@ -8039,6 +9398,13 @@ window.allHeroes =
             "攻击所有目标",
             "全体防御降低",
             "全体持续伤害"
+        ],
+        "skill_types": [
+            "防御减益",
+            "持续伤害",
+            "反制小兵",
+            "全体攻击 (打5)",
+            "法力削减或格挡"
         ],
         "source": "盟约召唤",
         "Release date": "2024-08-09",
@@ -8061,7 +9427,7 @@ window.allHeroes =
         "family": "construct",
         "image": "https://i.imgur.com/jl8sclm.jpg",
         "costume_id": 0,
-        "originalIndex": 243
+        "originalIndex": 244
     },
     {
         "name": "史莱姆戈 (Slimgo)",
@@ -8075,6 +9441,11 @@ window.allHeroes =
             "攻击所有目标",
             "全体持续伤害",
             "全体法力生成降低"
+        ],
+        "skill_types": [
+            "全体攻击 (打5)",
+            "持续伤害",
+            "法力削减或格挡"
         ],
         "source": "超级元素人",
         "Release date": "2024-10-30",
@@ -8095,7 +9466,7 @@ window.allHeroes =
         "family": "slime",
         "image": "https://i.imgur.com/TOPTa45.jpg",
         "costume_id": 0,
-        "originalIndex": 244
+        "originalIndex": 245
     },
     {
         "name": "白雪公主 (Snow White)",
@@ -8109,6 +9480,13 @@ window.allHeroes =
             "驱散者",
             "净化者",
             "攻击所有目标"
+        ],
+        "skill_types": [
+            "全体攻击 (打5)",
+            "净化",
+            "驱散",
+            "对自身或友军负面效果",
+            "额外伤害"
         ],
         "source": "挑战节-肃煞森林",
         "Release date": "2019-12-01",
@@ -8125,7 +9503,7 @@ window.allHeroes =
         "family": "grimforest",
         "image": "https://i.imgur.com/EVw3AO1.jpg",
         "costume_id": 0,
-        "originalIndex": 245
+        "originalIndex": 246
     },
     {
         "name": "白雪公主 (Snow White) C1",
@@ -8139,6 +9517,13 @@ window.allHeroes =
             "全体驱散",
             "全体净化",
             "攻击所有目标"
+        ],
+        "skill_types": [
+            "全体攻击 (打5)",
+            "净化",
+            "驱散",
+            "对自身或友军负面效果",
+            "额外伤害"
         ],
         "source": "挑战节-肃煞森林",
         "Release date": "2021-12-15",
@@ -8156,7 +9541,7 @@ window.allHeroes =
         "family": "grimforest",
         "image": "https://i.imgur.com/ko9NEXz.jpg",
         "costume_id": 1,
-        "originalIndex": 246
+        "originalIndex": 247
     },
     {
         "name": "索贝克 (Sobek)",
@@ -8169,6 +9554,10 @@ window.allHeroes =
         "types": [
             "攻击所有目标",
             "无视防御"
+        ],
+        "skill_types": [
+            "全体攻击 (打5)",
+            "绕过"
         ],
         "source": "S5-沙丘",
         "Release date": "2022-04-21",
@@ -8189,7 +9578,7 @@ window.allHeroes =
         "family": "sun",
         "image": "https://i.imgur.com/3Y3v4bs.jpg",
         "costume_id": 0,
-        "originalIndex": 247
+        "originalIndex": 248
     },
     {
         "name": "索贝克 (Sobek) C1",
@@ -8203,6 +9592,10 @@ window.allHeroes =
             "攻击所有目标",
             "无视防御",
             "全体持续伤害"
+        ],
+        "skill_types": [
+            "全体攻击 (打5)",
+            "绕过"
         ],
         "source": "S5-沙丘",
         "Release date": "2024-07-13",
@@ -8226,7 +9619,7 @@ window.allHeroes =
         "family": "sun",
         "image": "https://i.imgur.com/E4kLEt9.jpg",
         "costume_id": 1,
-        "originalIndex": 248
+        "originalIndex": 249
     },
     {
         "name": "宋江 (Song Jiang)",
@@ -8242,6 +9635,12 @@ window.allHeroes =
             "伤害治疗3个目标",
             "3个目标沉默",
             "3个目标防御降低"
+        ],
+        "skill_types": [
+            "范围攻击 (打3)",
+            "防御减益",
+            "特殊治疗",
+            "沉默"
         ],
         "source": "三国召唤",
         "Release date": "2025-05-22",
@@ -8268,7 +9667,7 @@ window.allHeroes =
         "family": "outlaws",
         "image": "https://imgur.com/ASg7ZAz.jpg",
         "costume_id": 0,
-        "originalIndex": 249
+        "originalIndex": 250
     },
     {
         "name": "娑柔 (Sorrow)",
@@ -8281,6 +9680,13 @@ window.allHeroes =
         "types": [
             "召唤3个小兵",
             "小兵攻击增益"
+        ],
+        "skill_types": [
+            "攻击增益",
+            "持续伤害",
+            "召唤小兵",
+            "净化",
+            "全体攻击 (打5)"
         ],
         "source": "盟约召唤",
         "Release date": "2023-05-06",
@@ -8296,12 +9702,12 @@ window.allHeroes =
         ],
         "passives": [
             "猎手感知：当该角色施放其特殊技能时，会将自身最新的可净化状态异常转移给目标。如果其特殊技能无法选择敌方目标，则会随机转移至一名敌人。若此角色没有可净化的状态异常，则恢复自身 8% 的生命。",
-            "特殊技能附带持续伤害：当该角色施放其特殊技能时，会给一个随机敌人施加猎人印记。目标在 150 回合内受到 3 点伤害。如果目标已有此效果，则持续时间刷新，伤害增加 150 点，总伤害最高可达 1500 点。"
+            "特殊技能附带持续伤害：当该角色施放其特殊技能时，会给一个随机敌人施加猎人印记。目标在 3 回合内受到 150 点伤害。如果目标已有此效果，则持续时间刷新，伤害增加 150 点，总伤害最高可达 1500 点。"
         ],
         "family": "abysshunter",
         "image": "https://i.imgur.com/h1FVbFE.jpg",
         "costume_id": 0,
-        "originalIndex": 250
+        "originalIndex": 251
     },
     {
         "name": "星游者 (Starwalker)",
@@ -8314,6 +9720,13 @@ window.allHeroes =
         "types": [
             "攻击所有目标",
             "防御降低"
+        ],
+        "skill_types": [
+            "全体攻击 (打5)",
+            "防御减益",
+            "额外伤害",
+            "绕过",
+            "伤害分摊"
         ],
         "source": "黑色星期五召唤",
         "Release date": "2023-11-21",
@@ -8335,7 +9748,7 @@ window.allHeroes =
         "family": "astralelves",
         "image": "https://i.imgur.com/GZxuVqX.jpg",
         "costume_id": 0,
-        "originalIndex": 251
+        "originalIndex": 252
     },
     {
         "name": "铃奈 (Suzuna)",
@@ -8349,6 +9762,12 @@ window.allHeroes =
             "净化 (3个目标)",
             "3个目标反射状态异常",
             "3个目标持续治疗"
+        ],
+        "skill_types": [
+            "净化",
+            "反制恶魔",
+            "持续治疗",
+            "反射"
         ],
         "source": "月英",
         "Release date": "2023-05-01",
@@ -8370,7 +9789,7 @@ window.allHeroes =
         "family": 2023,
         "image": "https://i.imgur.com/Mep7TSo.jpg",
         "costume_id": 0,
-        "originalIndex": 252
+        "originalIndex": 253
     },
     {
         "name": "提尔莫因 (Tealmoine)",
@@ -8384,6 +9803,13 @@ window.allHeroes =
             "偷取1个增益",
             "单体沉睡",
             "全体治疗"
+        ],
+        "skill_types": [
+            "增益窃取者",
+            "沉睡",
+            "治疗",
+            "闪避",
+            "反制小兵"
         ],
         "source": "联盟-飞蛾",
         "Release date": "2025-03-20",
@@ -8403,7 +9829,7 @@ window.allHeroes =
         "family": "moth",
         "image": "https://i.imgur.com/OpdhCZP.jpg",
         "costume_id": 0,
-        "originalIndex": 253
+        "originalIndex": 254
     },
     {
         "name": "忒提丝 (Tethys)",
@@ -8417,6 +9843,11 @@ window.allHeroes =
             "攻击3个目标",
             "3个目标持续伤害",
             "攻击增益"
+        ],
+        "skill_types": [
+            "范围攻击 (打3)",
+            "攻击增益",
+            "持续伤害"
         ],
         "source": "S2-亚特兰蒂斯",
         "Release date": "2022-05-30",
@@ -8435,7 +9866,7 @@ window.allHeroes =
         "family": "atlantis",
         "image": "https://i.imgur.com/LPmQIgT.jpg",
         "costume_id": 0,
-        "originalIndex": 254
+        "originalIndex": 255
     },
     {
         "name": "塔拉萨 (Thalassa)",
@@ -8449,6 +9880,11 @@ window.allHeroes =
             "全体治疗",
             "状态异常重置",
             "状态异常免疫"
+        ],
+        "skill_types": [
+            "效果持续重置",
+            "生命强化",
+            "提供免疫"
         ],
         "source": "S6-S7-秘闻",
         "Release date": "2023-06-07",
@@ -8476,7 +9912,7 @@ window.allHeroes =
         "family": "defendersofatlantis",
         "image": "https://i.imgur.com/aKuc2pB.jpg",
         "costume_id": 0,
-        "originalIndex": 255
+        "originalIndex": 256
     },
     {
         "name": "塔拉萨 (Thalassa) C1",
@@ -8490,6 +9926,11 @@ window.allHeroes =
             "全体治疗",
             "状态异常重置",
             "状态异常免疫"
+        ],
+        "skill_types": [
+            "生命强化",
+            "提供免疫",
+            "效果持续重置"
         ],
         "source": "S6-S7-秘闻",
         "Release date": "2024-08-24",
@@ -8517,7 +9958,7 @@ window.allHeroes =
         "family": "defendersofatlantis",
         "image": "https://i.imgur.com/EE7MEpv.jpg",
         "costume_id": 1,
-        "originalIndex": 256
+        "originalIndex": 257
     },
     {
         "name": "塔纳托斯 (Thanatos)",
@@ -8531,6 +9972,12 @@ window.allHeroes =
             "蓄力",
             "全体治疗",
             "全体法力生成增益"
+        ],
+        "skill_types": [
+            "治疗",
+            "法力生成增益",
+            "法力提升",
+            "反制小兵"
         ],
         "source": "高塔-冥河",
         "Release date": "2023-02-08",
@@ -8559,7 +10006,7 @@ window.allHeroes =
         "family": "styx",
         "image": "https://i.imgur.com/WM6GD2A.jpg",
         "costume_id": 0,
-        "originalIndex": 257
+        "originalIndex": 258
     },
     {
         "name": "西奥博尔德 (Theobald)",
@@ -8574,6 +10021,12 @@ window.allHeroes =
             "全体元素反射",
             "全体元素反击",
             "全体攻击增益"
+        ],
+        "skill_types": [
+            "攻击增益",
+            "反射",
+            "狙击手",
+            "全体攻击 (打5)"
         ],
         "source": "挑战节-星落",
         "Release date": "2021-06-10",
@@ -8591,7 +10044,7 @@ window.allHeroes =
         "family": "starfall",
         "image": "https://i.imgur.com/z0VwSFd.jpg",
         "costume_id": 0,
-        "originalIndex": 258
+        "originalIndex": 259
     },
     {
         "name": "索恩 (Thorne)",
@@ -8603,6 +10056,9 @@ window.allHeroes =
         "skill": "寒冰终结者",
         "types": [
             "攻击3个目标"
+        ],
+        "skill_types": [
+            "范围攻击 (打3)"
         ],
         "source": "S1-经典",
         "Release date": "2017-01-01",
@@ -8618,7 +10074,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/9CT7f6V.jpg",
         "costume_id": 0,
-        "originalIndex": 259
+        "originalIndex": 260
     },
     {
         "name": "索恩 (Thorne) C1",
@@ -8631,6 +10087,10 @@ window.allHeroes =
         "types": [
             "攻击单个目标",
             "自我法力生成增益"
+        ],
+        "skill_types": [
+            "法力生成增益",
+            "狙击手"
         ],
         "source": "S1-经典",
         "Release date": "2021-01-18",
@@ -8647,7 +10107,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/YX5GVdv.jpg",
         "costume_id": 1,
-        "originalIndex": 260
+        "originalIndex": 261
     },
     {
         "name": "索恩 (Thorne) C2",
@@ -8661,6 +10121,11 @@ window.allHeroes =
             "攻击3个目标",
             "法力削减者",
             "自我法力持续恢复"
+        ],
+        "skill_types": [
+            "范围攻击 (打3)",
+            "法力提升",
+            "法力削减或格挡"
         ],
         "source": "S1-经典",
         "Release date": "2023-07-10",
@@ -8678,7 +10143,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/IEUFL8t.jpg",
         "costume_id": 2,
-        "originalIndex": 261
+        "originalIndex": 262
     },
     {
         "name": "索恩 (Thorne) 卡通",
@@ -8690,6 +10155,10 @@ window.allHeroes =
         "skill": "卡通终结者",
         "types": [
             "攻击3个目标"
+        ],
+        "skill_types": [
+            "范围攻击 (打3)",
+            "额外伤害"
         ],
         "source": "S1-经典",
         "Release date": "2024-09-08",
@@ -8708,7 +10177,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/bBInxqX.jpg",
         "costume_id": 3,
-        "originalIndex": 262
+        "originalIndex": 263
     },
     {
         "name": "蒂米乌斯 (Timius)",
@@ -8722,6 +10191,14 @@ window.allHeroes =
             "驱散3个目标",
             "攻击3个目标",
             "3个目标增益免疫"
+        ],
+        "skill_types": [
+            "范围攻击 (打3)",
+            "增益格挡者",
+            "驱散",
+            "额外伤害",
+            "狙击手",
+            "绕过"
         ],
         "source": "高塔-猫头鹰",
         "Release date": "2023-12-20",
@@ -8741,7 +10218,7 @@ window.allHeroes =
         "family": "owl",
         "image": "https://i.imgur.com/qe2xgVo.jpg",
         "costume_id": 0,
-        "originalIndex": 263
+        "originalIndex": 264
     },
     {
         "name": "金丝儿 (Tinsel)",
@@ -8756,6 +10233,12 @@ window.allHeroes =
             "召唤所有",
             "3个目标防御降低",
             "3个目标致盲"
+        ],
+        "skill_types": [
+            "范围攻击 (打3)",
+            "攻击减益",
+            "防御减益",
+            "召唤小兵"
         ],
         "source": "月活动-冬日",
         "Release date": "2022-12-01",
@@ -8774,7 +10257,7 @@ window.allHeroes =
         "family": "christmas",
         "image": "https://i.imgur.com/huD8kmB.jpg",
         "costume_id": 0,
-        "originalIndex": 264
+        "originalIndex": 265
     },
     {
         "name": "特烈末 (Tremor)",
@@ -8789,6 +10272,13 @@ window.allHeroes =
             "攻击所有目标",
             "单体叠加"
         ],
+        "skill_types": [
+            "全体攻击 (打5)",
+            "治疗",
+            "叠加",
+            "攻击增益",
+            "持续伤害"
+        ],
         "source": "月活动-卡勒瓦拉",
         "Release date": "2023-07-27",
         "star": 5,
@@ -8802,13 +10292,13 @@ window.allHeroes =
             "叠加（最多 10 层）：施法者对所克制元素的攻击力提高 +15%。"
         ],
         "passives": [
-            "特殊技能附带持续伤害：当该角色施放其特殊技能时，会给一个随机敌人施加猎人印记。目标在 150 回合内受到 3 点伤害。如果目标已有此效果，则持续时间刷新，伤害增加 150 点，总伤害最高可达 1500 点。",
+            "特殊技能附带持续伤害：当该角色施放其特殊技能时，会给一个随机敌人施加猎人印记。目标在 3 回合内受到 150 点伤害。如果目标已有此效果，则持续时间刷新，伤害增加 150 点，总伤害最高可达 1500 点。",
             "猎人之毅：当该角色施放其特殊技能时，获得 +20% 的攻击力，持续 3 回合。此效果可与其他改变攻击力的效果并存。"
         ],
         "family": "junglehunter",
         "image": "https://i.imgur.com/zlwhqDy.jpg",
         "costume_id": 0,
-        "originalIndex": 265
+        "originalIndex": 266
     },
     {
         "name": "尤留思 (Ulius)",
@@ -8823,6 +10313,13 @@ window.allHeroes =
             "召唤所有小兵",
             "召唤所有恶魔",
             "法力生成降低恶魔"
+        ],
+        "skill_types": [
+            "召唤恶魔",
+            "法力生成增益",
+            "法力削减或格挡",
+            "召唤小兵",
+            "叠加"
         ],
         "source": "高塔-魔法",
         "Release date": "2023-08-23",
@@ -8848,7 +10345,7 @@ window.allHeroes =
         "family": "magic",
         "image": "https://i.imgur.com/rdw7YpR.jpg",
         "costume_id": 0,
-        "originalIndex": 266
+        "originalIndex": 267
     },
     {
         "name": "维拉 (Vela)",
@@ -8862,6 +10359,13 @@ window.allHeroes =
             "攻击所有目标",
             "全体持续伤害",
             "全体攻击降低"
+        ],
+        "skill_types": [
+            "全体攻击 (打5)",
+            "攻击增益",
+            "攻击减益",
+            "持续伤害",
+            "额外伤害"
         ],
         "source": "月英",
         "Release date": "2020-01-01",
@@ -8883,7 +10387,7 @@ window.allHeroes =
         "family": 2020,
         "image": "https://i.imgur.com/mUzztO6.jpg",
         "costume_id": 0,
-        "originalIndex": 267
+        "originalIndex": 268
     },
     {
         "name": "维里蒂 (Verity)",
@@ -8898,7 +10402,13 @@ window.allHeroes =
             "强化防御降低",
             "延迟法力生成降低"
         ],
-        "source": "S4-荒野",
+        "skill_types": [
+            "范围攻击 (打3)",
+            "防御减益",
+            "法力削减或格挡",
+            "反制小兵"
+        ],
+        "source": "荒野召唤",
         "Release date": "2024-08-31",
         "star": 5,
         "power": 1137,
@@ -8917,7 +10427,7 @@ window.allHeroes =
         "family": "woodlandfaun",
         "image": "https://i.imgur.com/bRVjhkX.jpg",
         "costume_id": 0,
-        "originalIndex": 268
+        "originalIndex": 269
     },
     {
         "name": "文森特 (Vincent)",
@@ -8931,6 +10441,13 @@ window.allHeroes =
             "元素防御降低",
             "攻击所有目标",
             "全体持续伤害"
+        ],
+        "skill_types": [
+            "防御减益",
+            "全体攻击 (打5)",
+            "持续伤害",
+            "伤害减免",
+            "提供免疫"
         ],
         "source": "挑战-重返圣堂",
         "Release date": "2024-10-17",
@@ -8953,7 +10470,7 @@ window.allHeroes =
         "family": "gargoyle",
         "image": "https://i.imgur.com/L8aULPy.jpg",
         "costume_id": 0,
-        "originalIndex": 269
+        "originalIndex": 270
     },
     {
         "name": "水贯 (Waterpipe)",
@@ -8969,6 +10486,13 @@ window.allHeroes =
             "小兵命中时特殊技能防御降低",
             "小兵命中时增益免疫"
         ],
+        "skill_types": [
+            "增益格挡者",
+            "防御减益",
+            "持续伤害",
+            "法力削减或格挡",
+            "召唤小兵"
+        ],
         "source": "盟约召唤",
         "Release date": "2022-11-12",
         "star": 5,
@@ -8983,13 +10507,13 @@ window.allHeroes =
             "* 目标对新的增益状态效果免疫，持续 2 回合。"
         ],
         "passives": [
-            "特殊技能附带持续伤害：当该角色施放其特殊技能时，会给一个随机敌人施加猎人印记。目标在 150 回合内受到 3 点伤害。如果目标已有此效果，则持续时间刷新，伤害增加 150 点，总伤害最高可达 1500 点。",
+            "特殊技能附带持续伤害：当该角色施放其特殊技能时，会给一个随机敌人施加猎人印记。目标在 3 回合内受到 150 点伤害。如果目标已有此效果，则持续时间刷新，伤害增加 150 点，总伤害最高可达 1500 点。",
             "特殊技能伤害减免：该角色有 10% 的几率将受到的特殊技能直接伤害降至 1 点。"
         ],
         "family": "plainshunter",
         "image": "https://i.imgur.com/pzkFRII.jpg",
         "costume_id": 0,
-        "originalIndex": 270
+        "originalIndex": 271
     },
     {
         "name": "白牙 (Whitefang)",
@@ -9003,6 +10527,11 @@ window.allHeroes =
             "驱散单个目标",
             "攻击单个目标",
             "单体扩散型持续伤害"
+        ],
+        "skill_types": [
+            "驱散",
+            "狙击手",
+            "持续伤害"
         ],
         "source": "丰收召唤",
         "Release date": "2024-08-20",
@@ -9022,7 +10551,7 @@ window.allHeroes =
         "family": "fox",
         "image": "https://i.imgur.com/r0k8YaN.jpg",
         "costume_id": 0,
-        "originalIndex": 271
+        "originalIndex": 272
     },
     {
         "name": "扎帕 (Zappa)",
@@ -9036,6 +10565,11 @@ window.allHeroes =
             "攻击单个目标",
             "召唤者 (单体)",
             "单体扩散型持续伤害"
+        ],
+        "skill_types": [
+            "持续伤害",
+            "召唤小兵",
+            "狙击手"
         ],
         "source": "月活动-冬日",
         "Release date": "2023-12-01",
@@ -9053,7 +10587,7 @@ window.allHeroes =
         "family": "christmas",
         "image": "https://i.imgur.com/kOZsEFw.jpg",
         "costume_id": 0,
-        "originalIndex": 272
+        "originalIndex": 273
     },
     {
         "name": "曾迦 (Zengar)",
@@ -9068,6 +10602,11 @@ window.allHeroes =
             "伤害3个目标",
             "单体持续伤害",
             "3个目标持续伤害"
+        ],
+        "skill_types": [
+            "持续伤害",
+            "狙击手",
+            "范围攻击 (打3)"
         ],
         "source": "超级元素人",
         "Release date": "2023-01-30",
@@ -9092,7 +10631,7 @@ window.allHeroes =
         "family": "superelemental",
         "image": "https://i.imgur.com/DQY3Orp.jpg",
         "costume_id": 0,
-        "originalIndex": 273
+        "originalIndex": 274
     },
     {
         "name": "锆英 (Zircon)",
@@ -9107,6 +10646,12 @@ window.allHeroes =
             "全体生命值加成",
             "全体防御增益",
             "全体驱散免疫"
+        ],
+        "skill_types": [
+            "防御增益",
+            "生命强化",
+            "提供免疫",
+            "持续治疗"
         ],
         "source": "高塔-忍者",
         "Release date": "2021-11-10",
@@ -9134,7 +10679,7 @@ window.allHeroes =
         "family": "ninja",
         "image": "https://i.imgur.com/3XPQv8U.jpg",
         "costume_id": 0,
-        "originalIndex": 274
+        "originalIndex": 275
     },
     {
         "name": "奥伊芙 (Aife)",
@@ -9146,6 +10691,9 @@ window.allHeroes =
         "skill": "劈砍攻击",
         "types": [
             "攻击单个目标"
+        ],
+        "skill_types": [
+            "狙击手"
         ],
         "source": "S1-经典",
         "Release date": "2017-01-01",
@@ -9161,7 +10709,7 @@ window.allHeroes =
         "family": null,
         "image": "https://i.imgur.com/gTPieC1.jpg",
         "costume_id": 0,
-        "originalIndex": 275
+        "originalIndex": 276
     },
     {
         "name": "德里克 (Derric)",
@@ -9173,6 +10721,9 @@ window.allHeroes =
         "skill": "掷斧",
         "types": [
             "攻击单个目标"
+        ],
+        "skill_types": [
+            "狙击手"
         ],
         "source": "S1-经典",
         "Release date": "2017-01-01",
@@ -9188,7 +10739,7 @@ window.allHeroes =
         "family": null,
         "image": "https://i.imgur.com/qLk060b.jpg",
         "costume_id": 0,
-        "originalIndex": 276
+        "originalIndex": 277
     },
     {
         "name": "布洛根 (Brogan)",
@@ -9200,6 +10751,9 @@ window.allHeroes =
         "skill": "应风披靡",
         "types": [
             "攻击3个目标"
+        ],
+        "skill_types": [
+            "范围攻击 (打3)"
         ],
         "source": "S1-经典",
         "Release date": "2017-01-01",
@@ -9215,7 +10769,7 @@ window.allHeroes =
         "family": null,
         "image": "https://i.imgur.com/wLaZQ4W.jpg",
         "costume_id": 0,
-        "originalIndex": 277
+        "originalIndex": 278
     },
     {
         "name": "詹内 (Jenneh)",
@@ -9227,6 +10781,9 @@ window.allHeroes =
         "skill": "藤鞭之痕",
         "types": [
             "攻击单个目标"
+        ],
+        "skill_types": [
+            "狙击手"
         ],
         "source": "S1-经典",
         "Release date": "2017-01-01",
@@ -9242,7 +10799,7 @@ window.allHeroes =
         "family": null,
         "image": "https://i.imgur.com/reFxsXr.jpg",
         "costume_id": 0,
-        "originalIndex": 278
+        "originalIndex": 279
     },
     {
         "name": "刺头 (Needler)",
@@ -9254,6 +10811,9 @@ window.allHeroes =
         "skill": "集中火力",
         "types": [
             "攻击单个目标"
+        ],
+        "skill_types": [
+            "狙击手"
         ],
         "source": "S1-经典",
         "Release date": "2017-01-01",
@@ -9269,7 +10829,7 @@ window.allHeroes =
         "family": null,
         "image": "https://i.imgur.com/KlbXSTV.jpg",
         "costume_id": 0,
-        "originalIndex": 279
+        "originalIndex": 280
     },
     {
         "name": "阿莱西亚 (Alessia)",
@@ -9282,6 +10842,10 @@ window.allHeroes =
         "types": [
             "攻击所有目标",
             "最大生命值降低"
+        ],
+        "skill_types": [
+            "范围攻击 (打3)",
+            "最大生命削减"
         ],
         "source": "挑战-众神狂欢节",
         "Release date": "2023-07-13",
@@ -9300,7 +10864,7 @@ window.allHeroes =
         "family": "maskedgod",
         "image": "https://i.imgur.com/d2IW4aE.jpg",
         "costume_id": 0,
-        "originalIndex": 280
+        "originalIndex": 281
     },
     {
         "name": "贝丽丝 (Belith)",
@@ -9313,6 +10877,10 @@ window.allHeroes =
         "types": [
             "全体治疗",
             "全体驱散"
+        ],
+        "skill_types": [
+            "驱散",
+            "治疗"
         ],
         "source": "S1-经典",
         "Release date": "2017-01-01",
@@ -9329,7 +10897,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/aLWFiS9.jpg",
         "costume_id": 0,
-        "originalIndex": 281
+        "originalIndex": 282
     },
     {
         "name": "贝丽丝 (Belith) C1",
@@ -9342,6 +10910,10 @@ window.allHeroes =
         "types": [
             "全体持续治疗",
             "全体驱散免疫增益"
+        ],
+        "skill_types": [
+            "持续治疗",
+            "提供免疫"
         ],
         "source": "S1-经典",
         "Release date": "2020-05-18",
@@ -9358,7 +10930,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/MHO518e.jpg",
         "costume_id": 1,
-        "originalIndex": 282
+        "originalIndex": 283
     },
     {
         "name": "贝丽丝 (Belith) 卡通",
@@ -9372,6 +10944,11 @@ window.allHeroes =
             "全体治疗",
             "全体防御增益",
             "全体驱散"
+        ],
+        "skill_types": [
+            "驱散",
+            "治疗",
+            "防御增益"
         ],
         "source": "S1-经典",
         "Release date": "2024-04-08",
@@ -9391,7 +10968,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/d6OTmVG.jpg",
         "costume_id": 2,
-        "originalIndex": 283
+        "originalIndex": 284
     },
     {
         "name": "贝丽丝 (Belith) 玻璃",
@@ -9405,6 +10982,11 @@ window.allHeroes =
             "全体治疗",
             "全体元素反射",
             "驱散者"
+        ],
+        "skill_types": [
+            "治疗",
+            "反射",
+            "驱散"
         ],
         "source": "S1-经典",
         "Release date": "2025-04-23",
@@ -9424,7 +11006,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://imgur.com/Y4Gu3iU.jpg",
         "costume_id": 3,
-        "originalIndex": 284
+        "originalIndex": 285
     },
     {
         "name": "博尔登 (Berden)",
@@ -9437,6 +11019,10 @@ window.allHeroes =
         "types": [
             "攻击单个目标",
             "单体攻击降低"
+        ],
+        "skill_types": [
+            "攻击减益",
+            "狙击手"
         ],
         "source": "S1-经典",
         "Release date": "2017-01-01",
@@ -9453,7 +11039,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/VjExjHL.jpg",
         "costume_id": 0,
-        "originalIndex": 285
+        "originalIndex": 286
     },
     {
         "name": "博尔登 (Berden) C1",
@@ -9466,6 +11052,10 @@ window.allHeroes =
         "types": [
             "攻击单个目标",
             "单体防御降低"
+        ],
+        "skill_types": [
+            "防御减益",
+            "狙击手"
         ],
         "source": "S1-经典",
         "Release date": "2020-05-18",
@@ -9482,7 +11072,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/H6Orhln.jpg",
         "costume_id": 1,
-        "originalIndex": 286
+        "originalIndex": 287
     },
     {
         "name": "博尔登 (Berden) 卡通",
@@ -9495,6 +11085,11 @@ window.allHeroes =
         "types": [
             "攻击单个目标",
             "单体攻击降低"
+        ],
+        "skill_types": [
+            "攻击减益",
+            "狙击手",
+            "额外伤害"
         ],
         "source": "S1-经典",
         "Release date": "2024-05-06",
@@ -9514,7 +11109,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/JqQwQQo.jpg",
         "costume_id": 2,
-        "originalIndex": 287
+        "originalIndex": 288
     },
     {
         "name": "博尔登 (Berden) 玻璃",
@@ -9528,6 +11123,11 @@ window.allHeroes =
             "攻击单个目标",
             "无视防御",
             "单体攻击降低"
+        ],
+        "skill_types": [
+            "绕过",
+            "攻击减益",
+            "狙击手"
         ],
         "source": "S1-经典",
         "Release date": "2025-05-10",
@@ -9547,7 +11147,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://imgur.com/lvzA5b8.jpg",
         "costume_id": 3,
-        "originalIndex": 288
+        "originalIndex": 289
     },
     {
         "name": "布里恩妮 (Brienne)",
@@ -9558,6 +11158,9 @@ window.allHeroes =
         "speed": "中等",
         "skill": "狂战士之怒",
         "types": [
+            "攻击增益"
+        ],
+        "skill_types": [
             "攻击增益"
         ],
         "source": "S1-经典",
@@ -9574,7 +11177,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/sdXIZmv.jpg",
         "costume_id": 0,
-        "originalIndex": 289
+        "originalIndex": 290
     },
     {
         "name": "布里恩妮 (Brienne) C1",
@@ -9586,6 +11189,9 @@ window.allHeroes =
         "skill": "丛林之怒",
         "types": [
             "防御降低"
+        ],
+        "skill_types": [
+            "防御减益"
         ],
         "source": "S1-经典",
         "Release date": "2020-01-01",
@@ -9601,7 +11207,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/ig1RoGx.jpg",
         "costume_id": 1,
-        "originalIndex": 290
+        "originalIndex": 291
     },
     {
         "name": "布里恩妮 (Brienne) 卡通",
@@ -9612,6 +11218,9 @@ window.allHeroes =
         "speed": "中等",
         "skill": "卡通之怒",
         "types": [
+            "攻击增益"
+        ],
+        "skill_types": [
             "攻击增益"
         ],
         "source": "S1-经典",
@@ -9630,7 +11239,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/0PzrzM8.jpg",
         "costume_id": 2,
-        "originalIndex": 291
+        "originalIndex": 292
     },
     {
         "name": "布里恩妮 (Brienne) 玻璃",
@@ -9644,6 +11253,10 @@ window.allHeroes =
             "攻击增益",
             "自然盟友反射状态异常",
             "自然盟友反射叠加效果"
+        ],
+        "skill_types": [
+            "攻击增益",
+            "反射"
         ],
         "source": "S1-经典",
         "Release date": "2025-03-11",
@@ -9662,7 +11275,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/Z7YMKIU.jpg",
         "costume_id": 3,
-        "originalIndex": 292
+        "originalIndex": 293
     },
     {
         "name": "拜伍尔夫 (By-Ulf)",
@@ -9676,6 +11289,12 @@ window.allHeroes =
             "攻击增益",
             "防御增益",
             "持续治疗"
+        ],
+        "skill_types": [
+            "攻击增益",
+            "防御增益",
+            "持续治疗",
+            "对自身或友军负面效果"
         ],
         "source": "S3-瓦尔哈拉",
         "Release date": "2020-02-27",
@@ -9698,7 +11317,7 @@ window.allHeroes =
         "family": "niflheim",
         "image": "https://i.imgur.com/TVINRSf.jpg",
         "costume_id": 0,
-        "originalIndex": 293
+        "originalIndex": 294
     },
     {
         "name": "卡沃 (Carver)",
@@ -9711,6 +11330,10 @@ window.allHeroes =
         "types": [
             "攻击所有目标",
             "全体法力削减"
+        ],
+        "skill_types": [
+            "全体攻击 (打5)",
+            "法力削减或格挡"
         ],
         "source": "S1-经典",
         "Release date": "2017-01-01",
@@ -9727,7 +11350,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/DfWafQ3.jpg",
         "costume_id": 0,
-        "originalIndex": 294
+        "originalIndex": 295
     },
     {
         "name": "卡沃 (Carver) C1",
@@ -9740,6 +11363,10 @@ window.allHeroes =
         "types": [
             "攻击所有目标",
             "全体法力生成降低"
+        ],
+        "skill_types": [
+            "全体攻击 (打5)",
+            "法力削减或格挡"
         ],
         "source": "S1-经典",
         "Release date": "2020-05-18",
@@ -9756,7 +11383,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/xs9Nn7b.jpg",
         "costume_id": 1,
-        "originalIndex": 295
+        "originalIndex": 296
     },
     {
         "name": "卡沃 (Carver) 卡通",
@@ -9769,6 +11396,11 @@ window.allHeroes =
         "types": [
             "攻击所有目标",
             "全体法力削减"
+        ],
+        "skill_types": [
+            "全体攻击 (打5)",
+            "法力削减或格挡",
+            "额外伤害"
         ],
         "source": "S1-经典",
         "Release date": "2024-06-28",
@@ -9788,7 +11420,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/rbDQHbY.jpg",
         "costume_id": 2,
-        "originalIndex": 296
+        "originalIndex": 297
     },
     {
         "name": "奇雷斯 (Chires)",
@@ -9801,6 +11433,11 @@ window.allHeroes =
         "types": [
             "强化治疗3个目标",
             "3个目标成长"
+        ],
+        "skill_types": [
+            "生命强化",
+            "属性修改",
+            "反制恶魔"
         ],
         "source": "星体召唤",
         "Release date": "2025-06-04",
@@ -9821,7 +11458,7 @@ window.allHeroes =
         "family": "astraldwarfs",
         "image": "https://imgur.com/AIJJV87.jpg",
         "costume_id": 0,
-        "originalIndex": 297
+        "originalIndex": 298
     },
     {
         "name": "多尔根 (Dolgoon)",
@@ -9837,6 +11474,12 @@ window.allHeroes =
             "伤害分担减益",
             "防御降低",
             "蓄力"
+        ],
+        "skill_types": [
+            "防御增益",
+            "伤害分摊",
+            "防御减益",
+            "法力削减或格挡"
         ],
         "source": "高塔-魔法",
         "Release date": "2021-09-15",
@@ -9860,7 +11503,7 @@ window.allHeroes =
         "family": "magic",
         "image": "https://i.imgur.com/vRYNJwU.jpg",
         "costume_id": 0,
-        "originalIndex": 298
+        "originalIndex": 299
     },
     {
         "name": "法伊兹 (Faiez)",
@@ -9874,6 +11517,11 @@ window.allHeroes =
             "生命值加成",
             "状态异常免疫",
             "防御增益"
+        ],
+        "skill_types": [
+            "防御增益",
+            "生命强化",
+            "提供免疫"
         ],
         "source": "S5-沙丘",
         "Release date": "2022-04-21",
@@ -9895,7 +11543,7 @@ window.allHeroes =
         "family": "sun",
         "image": "https://i.imgur.com/vZiyZG9.jpg",
         "costume_id": 0,
-        "originalIndex": 299
+        "originalIndex": 300
     },
     {
         "name": "法伊兹 (Faiez) C1",
@@ -9906,6 +11554,12 @@ window.allHeroes =
         "speed": "慢",
         "skill": "丰富矿物",
         "types": [],
+        "skill_types": [
+            "生命强化",
+            "提供免疫",
+            "防御增益",
+            "净化"
+        ],
         "source": "S5-沙丘",
         "Release date": "2024-09-07",
         "star": 3,
@@ -9928,7 +11582,7 @@ window.allHeroes =
         "family": "sun",
         "image": "https://i.imgur.com/TFnsKJy.jpg",
         "costume_id": 1,
-        "originalIndex": 300
+        "originalIndex": 301
     },
     {
         "name": "费瑟里诺 (Featherino)",
@@ -9940,6 +11594,11 @@ window.allHeroes =
         "skill": "万能猫头鹰",
         "types": [
             "攻击3个目标"
+        ],
+        "skill_types": [
+            "范围攻击 (打3)",
+            "额外伤害",
+            "绕过"
         ],
         "source": "高塔-猫头鹰",
         "Release date": "2023-12-20",
@@ -9957,7 +11616,7 @@ window.allHeroes =
         "family": "owl",
         "image": "https://i.imgur.com/zCCCscJ.jpg",
         "costume_id": 0,
-        "originalIndex": 301
+        "originalIndex": 302
     },
     {
         "name": "菲安娜 (Fianna)",
@@ -9970,6 +11629,11 @@ window.allHeroes =
         "types": [
             "攻击3个目标",
             "召唤3个恶魔"
+        ],
+        "skill_types": [
+            "范围攻击 (打3)",
+            "持续伤害",
+            "召唤恶魔"
         ],
         "source": "盟约召唤",
         "Release date": "2022-11-12",
@@ -9984,13 +11648,13 @@ window.allHeroes =
             "刺骨陷阱恶魔会吸收治疗，当吸收的治疗量达到其所有者最大生命值的 35% 时，它便会消失。"
         ],
         "passives": [
-            "特殊技能附加状态效果：当该角色施放其特殊技能时，会给一个随机敌人施加猎人印记。目标在 150 回合内受到 3 点伤害。如果目标已有此效果，则持续时间刷新，伤害增加 150 点，总伤害最高可达 1500 点。",
+            "特殊技能附加状态效果：当该角色施放其特殊技能时，会给一个随机敌人施加猎人印记。目标在 3 回合内受到 150 点伤害。如果目标已有此效果，则持续时间刷新，伤害增加 150 点，总伤害最高可达 1500 点。",
             "特殊技能伤害减免：该角色有 10% 的几率将受到的特殊技能直接伤害降至 1 点。"
         ],
         "family": "plainshunter",
         "image": "https://i.imgur.com/QukLnei.jpg",
         "costume_id": 0,
-        "originalIndex": 302
+        "originalIndex": 303
     },
     {
         "name": "塔克修士 (Friar Tuck)",
@@ -10003,6 +11667,10 @@ window.allHeroes =
         "types": [
             "治疗3个目标",
             "3个目标法力生成增益"
+        ],
+        "skill_types": [
+            "治疗",
+            "法力生成增益"
         ],
         "source": "S1-经典",
         "Release date": "2017-01-01",
@@ -10019,7 +11687,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/nprqffe.jpg",
         "costume_id": 0,
-        "originalIndex": 303
+        "originalIndex": 304
     },
     {
         "name": "塔克修士 (Friar Tuck) C1",
@@ -10032,6 +11700,10 @@ window.allHeroes =
         "types": [
             "治疗者",
             "3个目标法力生成增益"
+        ],
+        "skill_types": [
+            "治疗",
+            "法力生成增益"
         ],
         "source": "S1-经典",
         "Release date": "2020-05-18",
@@ -10048,7 +11720,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/ia9GSNJ.jpg",
         "costume_id": 1,
-        "originalIndex": 304
+        "originalIndex": 305
     },
     {
         "name": "塔克修士 (Friar Tuck) 卡通",
@@ -10061,6 +11733,10 @@ window.allHeroes =
         "types": [
             "治疗3个目标",
             "3个目标法力生成增益"
+        ],
+        "skill_types": [
+            "治疗",
+            "法力生成增益"
         ],
         "source": "S1-经典",
         "Release date": "2024-05-31",
@@ -10079,7 +11755,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/yE4ht6i.jpg",
         "costume_id": 2,
-        "originalIndex": 305
+        "originalIndex": 306
     },
     {
         "name": "塔克修士 (Friar Tuck) 玻璃",
@@ -10093,6 +11769,11 @@ window.allHeroes =
             "治疗3个目标",
             "3个目标法力生成增益",
             "自然盟友减益反射"
+        ],
+        "skill_types": [
+            "治疗",
+            "法力生成增益",
+            "反射"
         ],
         "source": "S1-经典",
         "Release date": "2025-06-18",
@@ -10112,7 +11793,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://imgur.com/lcz3509.jpg",
         "costume_id": 3,
-        "originalIndex": 306
+        "originalIndex": 307
     },
     {
         "name": "寅将军 (General Yin)",
@@ -10125,6 +11806,11 @@ window.allHeroes =
         "types": [
             "驱散者",
             "攻击所有目标"
+        ],
+        "skill_types": [
+            "全体攻击 (打5)",
+            "驱散",
+            "额外伤害"
         ],
         "source": "三国召唤",
         "Release date": "2023-02-27",
@@ -10142,7 +11828,7 @@ window.allHeroes =
         "family": "journey",
         "image": "https://i.imgur.com/hCb3jKN.jpg",
         "costume_id": 0,
-        "originalIndex": 307
+        "originalIndex": 308
     },
     {
         "name": "诺莫尔 (Gnomer)",
@@ -10155,6 +11841,10 @@ window.allHeroes =
         "types": [
             "攻击单个目标",
             "单体持续伤害"
+        ],
+        "skill_types": [
+            "持续伤害",
+            "狙击手"
         ],
         "source": "挑战节-肃煞森林",
         "Release date": "2021-12-15",
@@ -10171,7 +11861,7 @@ window.allHeroes =
         "family": "grimforest",
         "image": "https://i.imgur.com/VMip5iv.jpg",
         "costume_id": 0,
-        "originalIndex": 308
+        "originalIndex": 309
     },
     {
         "name": "小黏糊 (Goopy)",
@@ -10184,6 +11874,11 @@ window.allHeroes =
         "types": [
             "攻击所有目标",
             "法力生成降低"
+        ],
+        "skill_types": [
+            "全体攻击 (打5)",
+            "法力削减或格挡",
+            "额外伤害"
         ],
         "source": "月活动-莫洛维亚",
         "Release date": "2022-10-03",
@@ -10203,7 +11898,7 @@ window.allHeroes =
         "family": "morlovia",
         "image": "https://i.imgur.com/WJOazL8.jpg",
         "costume_id": 0,
-        "originalIndex": 309
+        "originalIndex": 310
     },
     {
         "name": "格兰普斯 (Gramps)",
@@ -10216,6 +11911,10 @@ window.allHeroes =
         "types": [
             "复活",
             "法力再生"
+        ],
+        "skill_types": [
+            "复活",
+            "法力提升"
         ],
         "source": "S4-蛮荒地界",
         "Release date": "2021-03-25",
@@ -10234,7 +11933,7 @@ window.allHeroes =
         "family": "underwild",
         "image": "https://i.imgur.com/QGwMonb.jpg",
         "costume_id": 0,
-        "originalIndex": 310
+        "originalIndex": 311
     },
     {
         "name": "格兰普斯 (Gramps) C1",
@@ -10247,6 +11946,10 @@ window.allHeroes =
         "types": [
             "复活者",
             "持续治疗"
+        ],
+        "skill_types": [
+            "持续治疗",
+            "复活"
         ],
         "source": "S4-蛮荒地界",
         "Release date": "2023-11-09",
@@ -10265,7 +11968,7 @@ window.allHeroes =
         "family": "underwild",
         "image": "https://i.imgur.com/8hGBh7z.jpg",
         "costume_id": 1,
-        "originalIndex": 311
+        "originalIndex": 312
     },
     {
         "name": "格里弗 (Grevle)",
@@ -10278,6 +11981,11 @@ window.allHeroes =
         "types": [
             "生命值加成",
             "攻击增益"
+        ],
+        "skill_types": [
+            "攻击增益",
+            "治疗",
+            "生命强化"
         ],
         "source": "S3-瓦尔哈拉",
         "Release date": "2020-05-28",
@@ -10294,7 +12002,7 @@ window.allHeroes =
         "family": "alfheim",
         "image": "https://i.imgur.com/7vQQwXx.jpg",
         "costume_id": 0,
-        "originalIndex": 312
+        "originalIndex": 313
     },
     {
         "name": "阿骏 (Hisan)",
@@ -10309,6 +12017,12 @@ window.allHeroes =
             "单体持续伤害",
             "治疗降低",
             "自我净化"
+        ],
+        "skill_types": [
+            "净化",
+            "持续伤害",
+            "治疗削减",
+            "狙击手"
         ],
         "source": "月活动-飞沙帝国",
         "Release date": "2017-01-01",
@@ -10327,7 +12041,7 @@ window.allHeroes =
         "family": "sand",
         "image": "https://i.imgur.com/YmBbafl.jpg",
         "costume_id": 0,
-        "originalIndex": 313
+        "originalIndex": 314
     },
     {
         "name": "伊师塔克 (Isshtak)",
@@ -10339,6 +12053,9 @@ window.allHeroes =
         "skill": "锤击突袭",
         "types": [
             "攻击3个目标"
+        ],
+        "skill_types": [
+            "范围攻击 (打3)"
         ],
         "source": "S1-经典",
         "Release date": "2017-01-01",
@@ -10354,7 +12071,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/Sq218ZB.jpg",
         "costume_id": 0,
-        "originalIndex": 314
+        "originalIndex": 315
     },
     {
         "name": "伊师塔克 (Isshtak) C1",
@@ -10367,6 +12084,10 @@ window.allHeroes =
         "types": [
             "攻击3个目标",
             "3个目标防御降低"
+        ],
+        "skill_types": [
+            "范围攻击 (打3)",
+            "防御减益"
         ],
         "source": "S1-经典",
         "Release date": "2020-05-18",
@@ -10383,7 +12104,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/aTgE0vq.jpg",
         "costume_id": 1,
-        "originalIndex": 315
+        "originalIndex": 316
     },
     {
         "name": "伊师塔克 (Isshtak) 卡通",
@@ -10395,6 +12116,10 @@ window.allHeroes =
         "skill": "卡通突袭",
         "types": [
             "攻击3个目标"
+        ],
+        "skill_types": [
+            "范围攻击 (打3)",
+            "额外伤害"
         ],
         "source": "S1-经典",
         "Release date": "2024-07-16",
@@ -10413,7 +12138,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/DoAEWX7.jpg",
         "costume_id": 2,
-        "originalIndex": 316
+        "originalIndex": 317
     },
     {
         "name": "荆 (Jing)",
@@ -10426,6 +12151,11 @@ window.allHeroes =
         "types": [
             "攻击单个目标",
             "召唤者"
+        ],
+        "skill_types": [
+            "反击",
+            "召唤小兵",
+            "狙击手"
         ],
         "source": "三国召唤",
         "Release date": "2022-03-14T12:00:00",
@@ -10443,7 +12173,7 @@ window.allHeroes =
         "family": "kingdom",
         "image": "https://i.imgur.com/ElDAaic.jpg",
         "costume_id": 0,
-        "originalIndex": 317
+        "originalIndex": 318
     },
     {
         "name": "内修斯 (Mnesseus)",
@@ -10456,6 +12186,10 @@ window.allHeroes =
         "types": [
             "攻击单个目标",
             "驱散者"
+        ],
+        "skill_types": [
+            "驱散",
+            "狙击手"
         ],
         "source": "S2-亚特兰蒂斯",
         "Release date": "2019-08-01",
@@ -10472,7 +12206,7 @@ window.allHeroes =
         "family": "atlantis",
         "image": "https://i.imgur.com/psLsMhk.jpg",
         "costume_id": 0,
-        "originalIndex": 318
+        "originalIndex": 319
     },
     {
         "name": "内修斯 (Mnesseus) C1",
@@ -10485,6 +12219,10 @@ window.allHeroes =
         "types": [
             "攻击单个目标",
             "全体净化"
+        ],
+        "skill_types": [
+            "净化",
+            "狙击手"
         ],
         "source": "S2-亚特兰蒂斯",
         "Release date": "2022-05-02",
@@ -10501,7 +12239,7 @@ window.allHeroes =
         "family": "atlantis",
         "image": "https://i.imgur.com/vAbeKFm.jpg",
         "costume_id": 1,
-        "originalIndex": 319
+        "originalIndex": 320
     },
     {
         "name": "麻吉 (Muggy)",
@@ -10513,6 +12251,9 @@ window.allHeroes =
         "skill": "彪悍兄弟",
         "types": [
             "僵尸增益"
+        ],
+        "skill_types": [
+            "复活"
         ],
         "source": "S2-亚特兰蒂斯",
         "Release date": "2019-08-01",
@@ -10533,7 +12274,7 @@ window.allHeroes =
         "family": "lagoon",
         "image": "https://i.imgur.com/oEhD3JD.jpg",
         "costume_id": 0,
-        "originalIndex": 320
+        "originalIndex": 321
     },
     {
         "name": "诺里尔 (Noril)",
@@ -10546,6 +12287,15 @@ window.allHeroes =
         "types": [
             "攻击单个目标",
             "叠加"
+        ],
+        "skill_types": [
+            "连锁与随机攻击",
+            "额外伤害",
+            "特殊治疗",
+            "叠加",
+            "狙击手",
+            "法力生成增益",
+            "持续治疗"
         ],
         "source": "挑战节-杀手",
         "Release date": "2021-08-05",
@@ -10566,7 +12316,7 @@ window.allHeroes =
         "family": "slayer",
         "image": "https://i.imgur.com/sPxC3Un.jpg",
         "costume_id": 0,
-        "originalIndex": 321
+        "originalIndex": 322
     },
     {
         "name": "洛茜娅 (Roxia)",
@@ -10579,6 +12329,15 @@ window.allHeroes =
         "types": [
             "攻击单个目标",
             "法力生成"
+        ],
+        "skill_types": [
+            "攻击增益",
+            "绕过",
+            "持续伤害",
+            "狙击手",
+            "叠加",
+            "法力削减或格挡",
+            "法力提升"
         ],
         "source": "高塔-魔法",
         "Release date": "2023-05-03",
@@ -10603,7 +12362,7 @@ window.allHeroes =
         "family": "magic",
         "image": "https://i.imgur.com/M3v3YrZ.jpg",
         "costume_id": 0,
-        "originalIndex": 322
+        "originalIndex": 323
     },
     {
         "name": "灌木熊 (Shrubbear)",
@@ -10614,6 +12373,10 @@ window.allHeroes =
         "speed": "慢",
         "skill": "伪装树叶",
         "types": [
+            "嘲讽"
+        ],
+        "skill_types": [
+            "防御增益",
             "嘲讽"
         ],
         "source": "挑战节-仙境",
@@ -10632,7 +12395,7 @@ window.allHeroes =
         "family": "wonderland",
         "image": "https://i.imgur.com/KcnE5Ah.jpg",
         "costume_id": 0,
-        "originalIndex": 323
+        "originalIndex": 324
     },
     {
         "name": "哈克 (Whacker)",
@@ -10645,6 +12408,10 @@ window.allHeroes =
         "types": [
             "攻击单个目标",
             "攻击降低"
+        ],
+        "skill_types": [
+            "攻击减益",
+            "狙击手"
         ],
         "source": "挑战节-星落",
         "Release date": "2021-06-10",
@@ -10661,7 +12428,7 @@ window.allHeroes =
         "family": "starfall",
         "image": "https://i.imgur.com/JVkZWPm.jpg",
         "costume_id": 0,
-        "originalIndex": 324
+        "originalIndex": 325
     },
     {
         "name": "威廉 (William)",
@@ -10675,6 +12442,11 @@ window.allHeroes =
             "攻击3个目标",
             "防御增益",
             "暴击几率增益"
+        ],
+        "skill_types": [
+            "范围攻击 (打3)",
+            "防御增益",
+            "攻击增益"
         ],
         "source": "哥布林召唤",
         "Release date": "2024-04-15",
@@ -10695,7 +12467,7 @@ window.allHeroes =
         "family": "garrisonguard",
         "image": "https://i.imgur.com/A9SHPn4.jpg",
         "costume_id": 0,
-        "originalIndex": 325
+        "originalIndex": 326
     },
     {
         "name": "尤娜 (Yona)",
@@ -10711,6 +12483,12 @@ window.allHeroes =
             "防御增益",
             "最大生命值降低",
             "防御降低"
+        ],
+        "skill_types": [
+            "防御增益",
+            "防御减益",
+            "生命强化",
+            "最大生命削减"
         ],
         "source": "联盟-骑士冲击",
         "Release date": "2024-01-10",
@@ -10734,7 +12512,7 @@ window.allHeroes =
         "family": "stag",
         "image": "https://i.imgur.com/uP5TQtw.jpg",
         "costume_id": 0,
-        "originalIndex": 326
+        "originalIndex": 327
     },
     {
         "name": "扎丽尔 (Zarel)",
@@ -10748,6 +12526,11 @@ window.allHeroes =
             "攻击所有目标",
             "攻击降低",
             "阻止净化"
+        ],
+        "skill_types": [
+            "全体攻击 (打5)",
+            "净化格挡者",
+            "攻击减益"
         ],
         "source": "挑战节-吟游诗人",
         "Release date": "2022-12-01",
@@ -10767,7 +12550,7 @@ window.allHeroes =
         "family": "bard",
         "image": "https://i.imgur.com/UoxW1c2.jpg",
         "costume_id": 0,
-        "originalIndex": 327
+        "originalIndex": 328
     },
     {
         "name": "查罗拉 (Zarola)",
@@ -10779,6 +12562,10 @@ window.allHeroes =
         "skill": "惩戒之击",
         "types": [
             "攻击3个目标"
+        ],
+        "skill_types": [
+            "范围攻击 (打3)",
+            "额外伤害"
         ],
         "source": "月活动-恋爱季节",
         "Release date": "2023-02-14",
@@ -10797,7 +12584,7 @@ window.allHeroes =
         "family": "cupid",
         "image": "https://i.imgur.com/07KHMD9.jpg",
         "costume_id": 0,
-        "originalIndex": 328
+        "originalIndex": 329
     },
     {
         "name": "阿尔翡 (Alfie)",
@@ -10810,6 +12597,12 @@ window.allHeroes =
         "types": [
             "攻击所有目标",
             "元素"
+        ],
+        "skill_types": [
+            "全体攻击 (打5)",
+            "攻击减益",
+            "防御减益",
+            "法力削减或格挡"
         ],
         "source": "超级元素人",
         "Release date": "2023-08-14",
@@ -10835,7 +12628,7 @@ window.allHeroes =
         "family": "superelemental",
         "image": "https://i.imgur.com/JaXIe0C.jpg",
         "costume_id": 0,
-        "originalIndex": 329
+        "originalIndex": 330
     },
     {
         "name": "阿穆尔 (Almur)",
@@ -10849,6 +12642,11 @@ window.allHeroes =
             "攻击3个目标",
             "最大生命值降低",
             "元素防御降低"
+        ],
+        "skill_types": [
+            "范围攻击 (打3)",
+            "防御减益",
+            "最大生命削减"
         ],
         "source": "S3-瓦尔哈拉",
         "Release date": "2020-05-28",
@@ -10866,7 +12664,7 @@ window.allHeroes =
         "family": "svartalfheim",
         "image": "https://i.imgur.com/zT4IQhV.jpg",
         "costume_id": 0,
-        "originalIndex": 330
+        "originalIndex": 331
     },
     {
         "name": "阿穆尔 (Almur) C1",
@@ -10880,6 +12678,11 @@ window.allHeroes =
             "攻击单个目标",
             "法力削减",
             "元素防御降低"
+        ],
+        "skill_types": [
+            "防御减益",
+            "法力削减或格挡",
+            "狙击手"
         ],
         "source": "S3-瓦尔哈拉",
         "Release date": "2023-03-13",
@@ -10897,7 +12700,7 @@ window.allHeroes =
         "family": "svartalfheim",
         "image": "https://i.imgur.com/G55eXUT.jpg",
         "costume_id": 1,
-        "originalIndex": 331
+        "originalIndex": 332
     },
     {
         "name": "安东 (Anton)",
@@ -10913,6 +12716,14 @@ window.allHeroes =
             "复活",
             "全体持续治疗",
             "蓄力"
+        ],
+        "skill_types": [
+            "全体攻击 (打5)",
+            "持续伤害",
+            "持续治疗",
+            "对自身或友军负面效果",
+            "复活",
+            "治疗"
         ],
         "source": "高塔-魔法",
         "Release date": "2021-09-15",
@@ -10936,7 +12747,7 @@ window.allHeroes =
         "family": "magic",
         "image": "https://i.imgur.com/P0bT6Vn.jpg",
         "costume_id": 0,
-        "originalIndex": 332
+        "originalIndex": 333
     },
     {
         "name": "布隆特斯 (Brontes)",
@@ -10948,6 +12759,12 @@ window.allHeroes =
         "skill": "大蒜丰收",
         "types": [
             "蓄力"
+        ],
+        "skill_types": [
+            "治疗",
+            "法力生成增益",
+            "法力提升",
+            "反制小兵"
         ],
         "source": "高塔-冥河",
         "Release date": "2022-09-21",
@@ -10976,7 +12793,7 @@ window.allHeroes =
         "family": "styx",
         "image": "https://i.imgur.com/73sHBAH.jpg",
         "costume_id": 0,
-        "originalIndex": 333
+        "originalIndex": 334
     },
     {
         "name": "布琳希尔德 (Brynhild)",
@@ -10989,6 +12806,12 @@ window.allHeroes =
         "types": [
             "治疗者",
             "驱散免疫",
+            "法力生成增益"
+        ],
+        "skill_types": [
+            "防御增益",
+            "治疗",
+            "提供免疫",
             "法力生成增益"
         ],
         "source": "S3-瓦尔哈拉",
@@ -11008,7 +12831,7 @@ window.allHeroes =
         "family": "midgard",
         "image": "https://i.imgur.com/igNkAbf.jpg",
         "costume_id": 0,
-        "originalIndex": 334
+        "originalIndex": 335
     },
     {
         "name": "巴迪 (Buddy)",
@@ -11023,6 +12846,12 @@ window.allHeroes =
             "召唤者",
             "攻击降低者",
             "防御降低者"
+        ],
+        "skill_types": [
+            "范围攻击 (打3)",
+            "攻击减益",
+            "防御减益",
+            "召唤小兵"
         ],
         "source": "月活动-冬日",
         "Release date": "2017-01-01",
@@ -11041,7 +12870,7 @@ window.allHeroes =
         "family": "christmas",
         "image": "https://i.imgur.com/fZWbFxH.jpg",
         "costume_id": 0,
-        "originalIndex": 335
+        "originalIndex": 336
     },
     {
         "name": "凯德蒙 (Caedmon)",
@@ -11054,6 +12883,10 @@ window.allHeroes =
         "types": [
             "攻击单个目标",
             "驱散者"
+        ],
+        "skill_types": [
+            "驱散",
+            "狙击手"
         ],
         "source": "S1-经典",
         "Release date": "2017-01-01",
@@ -11070,7 +12903,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/jv6lywZ.jpg",
         "costume_id": 0,
-        "originalIndex": 336
+        "originalIndex": 337
     },
     {
         "name": "凯德蒙 (Caedmon) C1",
@@ -11083,6 +12916,10 @@ window.allHeroes =
         "types": [
             "攻击单个目标",
             "全体净化"
+        ],
+        "skill_types": [
+            "净化",
+            "狙击手"
         ],
         "source": "S1-经典",
         "Release date": "2020-05-18",
@@ -11099,7 +12936,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/zrZ4p5y.jpg",
         "costume_id": 1,
-        "originalIndex": 337
+        "originalIndex": 338
     },
     {
         "name": "凯德蒙 (Caedmon) C2",
@@ -11112,6 +12949,11 @@ window.allHeroes =
         "types": [
             "攻击3个目标",
             "驱散3个目标的增益"
+        ],
+        "skill_types": [
+            "范围攻击 (打3)",
+            "增益格挡者",
+            "驱散"
         ],
         "source": "S1-经典",
         "Release date": "2022-12-26",
@@ -11129,7 +12971,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/0FiXuyI.jpg",
         "costume_id": 2,
-        "originalIndex": 338
+        "originalIndex": 339
     },
     {
         "name": "凯德蒙 (Caedmon) 卡通",
@@ -11142,6 +12984,11 @@ window.allHeroes =
         "types": [
             "攻击单个目标",
             "驱散者"
+        ],
+        "skill_types": [
+            "驱散",
+            "额外伤害",
+            "狙击手"
         ],
         "source": "S1-经典",
         "Release date": "2024-01-22",
@@ -11161,7 +13008,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/DR6bDUS.jpg",
         "costume_id": 3,
-        "originalIndex": 339
+        "originalIndex": 340
     },
     {
         "name": "凯德蒙 (Caedmon) 玻璃",
@@ -11175,6 +13022,12 @@ window.allHeroes =
             "攻击单个目标",
             "全体攻击降低",
             "全体驱散"
+        ],
+        "skill_types": [
+            "绕过",
+            "攻击减益",
+            "驱散",
+            "狙击手"
         ],
         "source": "S1-经典",
         "Release date": "2025-01-14",
@@ -11195,7 +13048,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/evExc3q.jpg",
         "costume_id": 4,
-        "originalIndex": 340
+        "originalIndex": 341
     },
     {
         "name": "弗朗茨 (Franz)",
@@ -11209,6 +13062,11 @@ window.allHeroes =
             "攻击所有目标",
             "全体伤害增加减益",
             "全体增益免疫状态异常"
+        ],
+        "skill_types": [
+            "全体攻击 (打5)",
+            "增益格挡者",
+            "额外伤害"
         ],
         "source": "联盟-骑士冲击",
         "Release date": "2022-01-05",
@@ -11226,7 +13084,7 @@ window.allHeroes =
         "family": "raven",
         "image": "https://i.imgur.com/Qe02pzU.jpg",
         "costume_id": 0,
-        "originalIndex": 341
+        "originalIndex": 342
     },
     {
         "name": "嘉德利亚斯 (Gadeirus)",
@@ -11240,6 +13098,11 @@ window.allHeroes =
             "攻击3个目标",
             "3个目标攻击增益",
             "3个目标持续治疗"
+        ],
+        "skill_types": [
+            "范围攻击 (打3)",
+            "攻击增益",
+            "持续治疗"
         ],
         "source": "S2-亚特兰蒂斯",
         "Release date": "2019-08-01",
@@ -11257,7 +13120,7 @@ window.allHeroes =
         "family": "atlantis",
         "image": "https://i.imgur.com/dGtM0Hw.jpg",
         "costume_id": 0,
-        "originalIndex": 342
+        "originalIndex": 343
     },
     {
         "name": "嘉德利亚斯 (Gadeirus) C1",
@@ -11271,6 +13134,12 @@ window.allHeroes =
             "攻击所有目标",
             "攻击增益",
             "强化持续治疗"
+        ],
+        "skill_types": [
+            "全体攻击 (打5)",
+            "攻击增益",
+            "生命强化",
+            "持续治疗"
         ],
         "source": "S2-亚特兰蒂斯",
         "Release date": "2022-05-02",
@@ -11288,7 +13157,7 @@ window.allHeroes =
         "family": "atlantis",
         "image": "https://i.imgur.com/MAOY5JJ.jpg",
         "costume_id": 1,
-        "originalIndex": 343
+        "originalIndex": 344
     },
     {
         "name": "戈布勒 (Gobbler)",
@@ -11301,6 +13170,11 @@ window.allHeroes =
         "types": [
             "摧毁所有小兵",
             "攻击所有目标"
+        ],
+        "skill_types": [
+            "全体攻击 (打5)",
+            "特殊治疗",
+            "反制小兵"
         ],
         "source": "S2-亚特兰蒂斯",
         "Release date": "2019-08-01",
@@ -11318,7 +13192,7 @@ window.allHeroes =
         "family": "lagoon",
         "image": "https://i.imgur.com/Sc5af8g.jpg",
         "costume_id": 0,
-        "originalIndex": 344
+        "originalIndex": 345
     },
     {
         "name": "戈布勒 (Gobbler) C1",
@@ -11332,6 +13206,11 @@ window.allHeroes =
             "偷取1个小兵",
             "攻击单个目标",
             "单体扩散型持续伤害"
+        ],
+        "skill_types": [
+            "持续伤害",
+            "反制小兵",
+            "狙击手"
         ],
         "source": "S2-亚特兰蒂斯",
         "Release date": "2023-04-03",
@@ -11349,7 +13228,7 @@ window.allHeroes =
         "family": "lagoon",
         "image": "https://i.imgur.com/ZFJ0073.jpg",
         "costume_id": 1,
-        "originalIndex": 345
+        "originalIndex": 346
     },
     {
         "name": "韩塞尔 (Hansel)",
@@ -11362,6 +13241,11 @@ window.allHeroes =
         "types": [
             "攻击单个目标",
             "莽夫乱拳"
+        ],
+        "skill_types": [
+            "防御增益",
+            "法力削减或格挡",
+            "狙击手"
         ],
         "source": "挑战节-肃煞森林",
         "Release date": "2017-01-01",
@@ -11379,7 +13263,7 @@ window.allHeroes =
         "family": "grimforest",
         "image": "https://i.imgur.com/SkK8Ieu.jpg",
         "costume_id": 0,
-        "originalIndex": 346
+        "originalIndex": 347
     },
     {
         "name": "韩塞尔 (Hansel) C1",
@@ -11392,6 +13276,11 @@ window.allHeroes =
         "types": [
             "攻击单个目标",
             "莽夫乱拳"
+        ],
+        "skill_types": [
+            "防御增益",
+            "法力削减或格挡",
+            "狙击手"
         ],
         "source": "挑战节-肃煞森林",
         "Release date": "2023-08-10",
@@ -11409,7 +13298,7 @@ window.allHeroes =
         "family": "grimforest",
         "image": "https://i.imgur.com/ZWQ8poJ.jpg",
         "costume_id": 1,
-        "originalIndex": 347
+        "originalIndex": 348
     },
     {
         "name": "杰克·奥黑尔 (Jack O'Hare)",
@@ -11421,6 +13310,10 @@ window.allHeroes =
         "skill": "莽夫斩",
         "types": [
             "攻击所有目标"
+        ],
+        "skill_types": [
+            "全体攻击 (打5)",
+            "对自身或友军负面效果"
         ],
         "source": "月活动-春谷",
         "Release date": "2018-03-01",
@@ -11437,7 +13330,7 @@ window.allHeroes =
         "family": "springvale",
         "image": "https://i.imgur.com/KJoqPtw.jpg",
         "costume_id": 0,
-        "originalIndex": 348
+        "originalIndex": 349
     },
     {
         "name": "杰克·奥黑尔 (Jack O'Hare) C1",
@@ -11450,6 +13343,11 @@ window.allHeroes =
         "types": [
             "攻击所有目标",
             "连锁"
+        ],
+        "skill_types": [
+            "连锁与随机攻击",
+            "对自身或友军负面效果",
+            "狙击手"
         ],
         "source": "月活动-春谷",
         "Release date": "2022-03-21",
@@ -11467,7 +13365,7 @@ window.allHeroes =
         "family": "springvale",
         "image": "https://i.imgur.com/mwBA0kR.jpg",
         "costume_id": 1,
-        "originalIndex": 349
+        "originalIndex": 350
     },
     {
         "name": "卡勒 (Kal) o",
@@ -11480,6 +13378,10 @@ window.allHeroes =
         "types": [
             "攻击所有目标",
             "施放陨落"
+        ],
+        "skill_types": [
+            "全体攻击 (打5)",
+            "伤害减免"
         ],
         "source": "挑战-石像鬼",
         "Release date": "2022-05-12",
@@ -11500,7 +13402,7 @@ window.allHeroes =
         "family": "gargoyle",
         "image": "https://i.imgur.com/g4p72ea.jpg",
         "costume_id": 0,
-        "originalIndex": 350
+        "originalIndex": 351
     },
     {
         "name": "喀什雷克 (Kashhrek)",
@@ -11513,6 +13415,10 @@ window.allHeroes =
         "types": [
             "治疗3个目标",
             "3个目标元素防御增益"
+        ],
+        "skill_types": [
+            "防御增益",
+            "治疗"
         ],
         "source": "S1-经典",
         "Release date": "2017-01-01",
@@ -11529,7 +13435,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/f38vwx3.jpg",
         "costume_id": 0,
-        "originalIndex": 351
+        "originalIndex": 352
     },
     {
         "name": "喀什雷克 (Kashhrek) C1",
@@ -11542,6 +13448,11 @@ window.allHeroes =
         "types": [
             "3个目标生命值加成",
             "元素防御增益"
+        ],
+        "skill_types": [
+            "防御增益",
+            "治疗",
+            "生命强化"
         ],
         "source": "S1-经典",
         "Release date": "2020-05-18",
@@ -11558,7 +13469,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/5DjkhS8.jpg",
         "costume_id": 1,
-        "originalIndex": 352
+        "originalIndex": 353
     },
     {
         "name": "喀什雷克 (Kashhrek) C2",
@@ -11571,6 +13482,10 @@ window.allHeroes =
         "types": [
             "3个目标持续治疗",
             "3个目标特殊技能防御增益"
+        ],
+        "skill_types": [
+            "防御增益",
+            "持续治疗"
         ],
         "source": "S1-经典",
         "Release date": "2023-11-27",
@@ -11587,7 +13502,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/54DNXMH.jpg",
         "costume_id": 2,
-        "originalIndex": 353
+        "originalIndex": 354
     },
     {
         "name": "喀什雷克 (Kashhrek) 卡通",
@@ -11600,6 +13515,10 @@ window.allHeroes =
         "types": [
             "治疗3个目标",
             "3个目标元素防御增益"
+        ],
+        "skill_types": [
+            "防御增益",
+            "治疗"
         ],
         "source": "S1-经典",
         "Release date": "2024-05-31",
@@ -11618,7 +13537,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/B48yiIW.jpg",
         "costume_id": 3,
-        "originalIndex": 354
+        "originalIndex": 355
     },
     {
         "name": "喀什雷克 (Kashhrek) 玻璃",
@@ -11632,6 +13551,11 @@ window.allHeroes =
             "治疗3个目标",
             "自然盟友减益反射",
             "3个目标元素防御增益"
+        ],
+        "skill_types": [
+            "防御增益",
+            "治疗",
+            "反射"
         ],
         "source": "S1-经典",
         "Release date": "2025-06-18",
@@ -11651,7 +13575,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://imgur.com/WEPgm0c.jpg",
         "costume_id": 4,
-        "originalIndex": 355
+        "originalIndex": 356
     },
     {
         "name": "星纱 (Lionstring)",
@@ -11664,6 +13588,14 @@ window.allHeroes =
         "types": [
             "攻击3个目标",
             "闪避"
+        ],
+        "skill_types": [
+            "范围攻击 (打3)",
+            "特殊治疗",
+            "闪避",
+            "绕过",
+            "治疗削减",
+            "伤害分摊"
         ],
         "source": "星体召唤",
         "Release date": "2024-03-07",
@@ -11685,7 +13617,7 @@ window.allHeroes =
         "family": "astralelves",
         "image": "https://i.imgur.com/M9HK4qH.jpg",
         "costume_id": 0,
-        "originalIndex": 356
+        "originalIndex": 357
     },
     {
         "name": "小约翰 (Little John)",
@@ -11698,6 +13630,10 @@ window.allHeroes =
         "types": [
             "攻击所有目标",
             "全体法力生成降低"
+        ],
+        "skill_types": [
+            "全体攻击 (打5)",
+            "法力削减或格挡"
         ],
         "source": "S1-经典",
         "Release date": "2017-01-01",
@@ -11714,7 +13650,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/nRRdXVw.jpg",
         "costume_id": 0,
-        "originalIndex": 357
+        "originalIndex": 358
     },
     {
         "name": "小约翰 (Little John) C1",
@@ -11727,6 +13663,11 @@ window.allHeroes =
         "types": [
             "攻击所有目标",
             "3个目标闪避增益"
+        ],
+        "skill_types": [
+            "全体攻击 (打5)",
+            "闪避",
+            "法力提升"
         ],
         "source": "S1-经典",
         "Release date": "2020-05-18",
@@ -11743,7 +13684,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/OZPuj5P.jpg",
         "costume_id": 1,
-        "originalIndex": 358
+        "originalIndex": 359
     },
     {
         "name": "小约翰 (Little John) C2",
@@ -11756,6 +13697,10 @@ window.allHeroes =
         "types": [
             "攻击所有目标",
             "全体法力生成增益"
+        ],
+        "skill_types": [
+            "全体攻击 (打5)",
+            "法力生成增益"
         ],
         "source": "S1-经典",
         "Release date": "2023-10-30",
@@ -11772,7 +13717,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/pBSZGi6.jpg",
         "costume_id": 2,
-        "originalIndex": 359
+        "originalIndex": 360
     },
     {
         "name": "小约翰 (Little John) 卡通",
@@ -11785,6 +13730,11 @@ window.allHeroes =
         "types": [
             "攻击所有目标",
             "法力生成降低"
+        ],
+        "skill_types": [
+            "全体攻击 (打5)",
+            "法力削减或格挡",
+            "额外伤害"
         ],
         "source": "S1-经典",
         "Release date": "2024-05-06",
@@ -11804,7 +13754,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/8mWGMUp.jpg",
         "costume_id": 3,
-        "originalIndex": 360
+        "originalIndex": 361
     },
     {
         "name": "小约翰 (Little John) 玻璃",
@@ -11818,6 +13768,11 @@ window.allHeroes =
             "攻击所有目标",
             "无视防御",
             "全体法力生成降低"
+        ],
+        "skill_types": [
+            "全体攻击 (打5)",
+            "绕过",
+            "法力削减或格挡"
         ],
         "source": "S1-经典",
         "Release date": "2025-05-10",
@@ -11837,7 +13792,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://imgur.com/8scCOJR.jpg",
         "costume_id": 4,
-        "originalIndex": 361
+        "originalIndex": 362
     },
     {
         "name": "马塞尔 (Marcel)",
@@ -11851,6 +13806,12 @@ window.allHeroes =
             "攻击3个目标",
             "攻击增益",
             "防御降低"
+        ],
+        "skill_types": [
+            "范围攻击 (打3)",
+            "攻击增益",
+            "防御减益",
+            "状态效果转换"
         ],
         "source": "挑战节-星落",
         "Release date": "2021-06-10",
@@ -11868,7 +13829,7 @@ window.allHeroes =
         "family": "starfall",
         "image": "https://i.imgur.com/LwCxkKS.jpg",
         "costume_id": 0,
-        "originalIndex": 362
+        "originalIndex": 363
     },
     {
         "name": "米兰朵 (Melendor)",
@@ -11881,6 +13842,10 @@ window.allHeroes =
         "types": [
             "治疗者",
             "驱散者"
+        ],
+        "skill_types": [
+            "驱散",
+            "治疗"
         ],
         "source": "S1-经典",
         "Release date": "2017-01-01",
@@ -11897,7 +13862,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/3rwM4W7.jpg",
         "costume_id": 0,
-        "originalIndex": 363
+        "originalIndex": 364
     },
     {
         "name": "米兰朵 (Melendor) C1",
@@ -11911,6 +13876,11 @@ window.allHeroes =
             "持续治疗",
             "防御增益",
             "驱散者"
+        ],
+        "skill_types": [
+            "防御增益",
+            "驱散",
+            "持续治疗"
         ],
         "source": "S1-经典",
         "Release date": "2020-01-01",
@@ -11928,7 +13898,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/5gxdGVM.jpg",
         "costume_id": 1,
-        "originalIndex": 364
+        "originalIndex": 365
     },
     {
         "name": "米兰朵 (Melendor) C2",
@@ -11942,6 +13912,11 @@ window.allHeroes =
             "治疗者",
             "攻击增益",
             "驱散者"
+        ],
+        "skill_types": [
+            "攻击增益",
+            "驱散",
+            "持续治疗"
         ],
         "source": "S1-经典",
         "Release date": "2023-10-30",
@@ -11959,7 +13934,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/XVqcInX.jpg",
         "costume_id": 2,
-        "originalIndex": 365
+        "originalIndex": 366
     },
     {
         "name": "米兰朵 (Melendor) 卡通",
@@ -11973,6 +13948,11 @@ window.allHeroes =
             "治疗者",
             "防御增益",
             "驱散者"
+        ],
+        "skill_types": [
+            "防御增益",
+            "驱散",
+            "治疗"
         ],
         "source": "S1-经典",
         "Release date": "2024-01-22",
@@ -11992,7 +13972,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/3swBEW4.jpg",
         "costume_id": 3,
-        "originalIndex": 366
+        "originalIndex": 367
     },
     {
         "name": "米兰朵 (Melendor) 玻璃",
@@ -12007,6 +13987,11 @@ window.allHeroes =
             "自然盟友反射状态异常",
             "自然盟友反射叠加效果",
             "驱散者"
+        ],
+        "skill_types": [
+            "驱散",
+            "治疗",
+            "反射"
         ],
         "source": "S1-经典",
         "Release date": "2025-03-11",
@@ -12026,7 +14011,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/5Bt1nJk.jpg",
         "costume_id": 4,
-        "originalIndex": 367
+        "originalIndex": 368
     },
     {
         "name": "蔑里基 (Mielikki)",
@@ -12039,6 +14024,11 @@ window.allHeroes =
         "types": [
             "召唤者",
             "攻击降低"
+        ],
+        "skill_types": [
+            "攻击减益",
+            "法力生成增益",
+            "召唤小兵"
         ],
         "source": "月活动-卡勒瓦拉",
         "Release date": "2022-06-20",
@@ -12058,7 +14048,7 @@ window.allHeroes =
         "family": "kalevala",
         "image": "https://i.imgur.com/tts9FVU.jpg",
         "costume_id": 0,
-        "originalIndex": 368
+        "originalIndex": 369
     },
     {
         "name": "蔑里基 (Mielikki) C1",
@@ -12071,6 +14061,11 @@ window.allHeroes =
         "types": [
             "召唤者",
             "攻击降低"
+        ],
+        "skill_types": [
+            "攻击减益",
+            "法力生成增益",
+            "召唤小兵"
         ],
         "source": "月活动-卡勒瓦拉",
         "Release date": "2023-08-07",
@@ -12088,7 +14083,7 @@ window.allHeroes =
         "family": "kalevala",
         "image": "https://i.imgur.com/vXd3s3q.jpg",
         "costume_id": 1,
-        "originalIndex": 369
+        "originalIndex": 370
     },
     {
         "name": "木果 (Mulgog)",
@@ -12102,6 +14097,13 @@ window.allHeroes =
             "攻击3个目标",
             "法力削减",
             "全体持续伤害"
+        ],
+        "skill_types": [
+            "范围攻击 (打3)",
+            "持续伤害",
+            "特殊治疗",
+            "法力削减或格挡",
+            "狙击手"
         ],
         "source": "S6-S7-秘闻",
         "Release date": "2023-06-07",
@@ -12128,7 +14130,7 @@ window.allHeroes =
         "family": "nightmaresofatlantis",
         "image": "https://i.imgur.com/b7HL0wq.jpg",
         "costume_id": 0,
-        "originalIndex": 370
+        "originalIndex": 371
     },
     {
         "name": "木果 (Mulgog) C1",
@@ -12142,6 +14144,13 @@ window.allHeroes =
             "攻击3个目标",
             "法力削减",
             "全体持续伤害"
+        ],
+        "skill_types": [
+            "狙击手",
+            "范围攻击 (打3)",
+            "法力削减或格挡",
+            "持续伤害",
+            "特殊治疗"
         ],
         "source": "S6-S7-秘闻",
         "Release date": "2025-03-31",
@@ -12169,7 +14178,7 @@ window.allHeroes =
         "family": "nightmaresofatlantis",
         "image": "https://imgur.com/X5IVjtR.jpg",
         "costume_id": 1,
-        "originalIndex": 371
+        "originalIndex": 372
     },
     {
         "name": "米尔特 (Myrtle)",
@@ -12184,7 +14193,13 @@ window.allHeroes =
             "强化防御异常",
             "延迟扩散持续伤害"
         ],
-        "source": "S4-荒野",
+        "skill_types": [
+            "范围攻击 (打3)",
+            "防御减益",
+            "持续伤害",
+            "反制小兵"
+        ],
+        "source": "荒野召唤",
         "Release date": "2025-02-21",
         "star": 4,
         "power": 727,
@@ -12203,7 +14218,7 @@ window.allHeroes =
         "family": "woodlandfaun",
         "image": "https://i.imgur.com/KEvkubZ.jpg",
         "costume_id": 0,
-        "originalIndex": 372
+        "originalIndex": 373
     },
     {
         "name": "僵骨 (Numbskull)",
@@ -12216,6 +14231,12 @@ window.allHeroes =
         "types": [
             "攻击所有目标",
             "召唤者"
+        ],
+        "skill_types": [
+            "全体攻击 (打5)",
+            "召唤小兵",
+            "持续伤害",
+            "净化"
         ],
         "source": "盟约召唤",
         "Release date": "2023-05-06",
@@ -12230,13 +14251,13 @@ window.allHeroes =
             "亡灵小兵因受到伤害而阵亡时，将对所有敌人造成 85 点伤害。"
         ],
         "passives": [
-            "特殊技能附带持续伤害：当该角色施放其特殊技能时，会给一个随机敌人施加猎人印记。目标在 150 回合内受到 3 点伤害。如果目标已有此效果，则持续时间刷新，伤害增加 150 点，总伤害最高可达 1500 点。",
+            "特殊技能附带持续伤害：当该角色施放其特殊技能时，会给一个随机敌人施加猎人印记。目标在 3 回合内受到 150 点伤害。如果目标已有此效果，则持续时间刷新，伤害增加 150 点，总伤害最高可达 1500 点。",
             "猎手感知：当该角色施放其特殊技能时，会将自身最新的可净化状态异常转移给目标。如果其特殊技能无法选择敌方目标，则会随机转移至一名敌人。若此角色没有可净化的状态异常，则恢复自身 8% 的生命。"
         ],
         "family": "abysshunter",
         "image": "https://i.imgur.com/Y43vWHy.jpg",
         "costume_id": 0,
-        "originalIndex": 373
+        "originalIndex": 374
     },
     {
         "name": "奥拉 (Orla)",
@@ -12250,6 +14271,15 @@ window.allHeroes =
             "攻击单个目标",
             "法力生成降低",
             "叠加"
+        ],
+        "skill_types": [
+            "特殊治疗",
+            "法力削减或格挡",
+            "狙击手",
+            "叠加",
+            "额外伤害",
+            "法力生成增益",
+            "持续治疗"
         ],
         "source": "挑战节-杀手",
         "Release date": "2021-08-05",
@@ -12271,7 +14301,7 @@ window.allHeroes =
         "family": "slayer",
         "image": "https://i.imgur.com/YWXxtDj.jpg",
         "costume_id": 0,
-        "originalIndex": 374
+        "originalIndex": 375
     },
     {
         "name": "皮特斯 (Peters)",
@@ -12284,6 +14314,10 @@ window.allHeroes =
         "types": [
             "攻击单个目标",
             "沉默"
+        ],
+        "skill_types": [
+            "沉默",
+            "狙击手"
         ],
         "source": "挑战节-海盗",
         "Release date": "2017-01-01",
@@ -12300,7 +14334,7 @@ window.allHeroes =
         "family": "corellia",
         "image": "https://i.imgur.com/aPVBzpo.jpg",
         "costume_id": 0,
-        "originalIndex": 375
+        "originalIndex": 376
     },
     {
         "name": "皮特斯 (Peters) C1",
@@ -12314,6 +14348,11 @@ window.allHeroes =
             "攻击单个目标",
             "沉默",
             "防御降低"
+        ],
+        "skill_types": [
+            "防御减益",
+            "沉默",
+            "狙击手"
         ],
         "source": "挑战节-海盗",
         "Release date": "2023-12-28",
@@ -12331,7 +14370,7 @@ window.allHeroes =
         "family": "corellia",
         "image": "https://i.imgur.com/caAHKaT.jpg",
         "costume_id": 1,
-        "originalIndex": 376
+        "originalIndex": 377
     },
     {
         "name": "托勒密 (Ptolemy)",
@@ -12344,6 +14383,11 @@ window.allHeroes =
         "types": [
             "全体治疗",
             "3个目标状态异常免疫"
+        ],
+        "skill_types": [
+            "治疗",
+            "提供免疫",
+            "特殊治疗"
         ],
         "source": "S5-沙丘",
         "Release date": "2022-04-21",
@@ -12364,7 +14408,7 @@ window.allHeroes =
         "family": "sun",
         "image": "https://i.imgur.com/3gaWwFG.jpg",
         "costume_id": 0,
-        "originalIndex": 377
+        "originalIndex": 378
     },
     {
         "name": "托勒密 (Ptolemy) C1",
@@ -12377,6 +14421,13 @@ window.allHeroes =
         "types": [
             "全体治疗",
             "3个目标状态异常免疫"
+        ],
+        "skill_types": [
+            "治疗",
+            "提供免疫",
+            "特殊治疗",
+            "生命强化",
+            "净化"
         ],
         "source": "S5-沙丘",
         "Release date": "2024-10-05",
@@ -12399,7 +14450,7 @@ window.allHeroes =
         "family": "sun",
         "image": "https://i.imgur.com/xEySNN6.jpg",
         "costume_id": 1,
-        "originalIndex": 378
+        "originalIndex": 379
     },
     {
         "name": "劳利 (Raleigh)",
@@ -12412,6 +14463,11 @@ window.allHeroes =
         "types": [
             "生命值加成",
             "攻击增益",
+            "法力生成增益"
+        ],
+        "skill_types": [
+            "攻击增益",
+            "生命强化",
             "法力生成增益"
         ],
         "source": "联盟-骑士冲击",
@@ -12432,7 +14488,7 @@ window.allHeroes =
         "family": "stag",
         "image": "https://i.imgur.com/SZsJBr2.jpg",
         "costume_id": 0,
-        "originalIndex": 379
+        "originalIndex": 380
     },
     {
         "name": "柱子骨骼 (Skittleskull)",
@@ -12445,6 +14501,10 @@ window.allHeroes =
         "types": [
             "攻击所有目标",
             "全体攻击降低"
+        ],
+        "skill_types": [
+            "全体攻击 (打5)",
+            "攻击减益"
         ],
         "source": "S1-经典",
         "Release date": "2017-01-01",
@@ -12461,7 +14521,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/6Oucdm4.jpg",
         "costume_id": 0,
-        "originalIndex": 380
+        "originalIndex": 381
     },
     {
         "name": "柱子骨骼 (Skittleskull) C1",
@@ -12474,6 +14534,10 @@ window.allHeroes =
         "types": [
             "攻击所有目标",
             "全体攻击降低"
+        ],
+        "skill_types": [
+            "全体攻击 (打5)",
+            "攻击减益"
         ],
         "source": "S1-经典",
         "Release date": "2020-01-01",
@@ -12490,7 +14554,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/9DvgVYg.jpg",
         "costume_id": 1,
-        "originalIndex": 381
+        "originalIndex": 382
     },
     {
         "name": "柱子骨骼 (Skittleskull) C2",
@@ -12503,6 +14567,10 @@ window.allHeroes =
         "types": [
             "攻击所有目标",
             "全体防御降低"
+        ],
+        "skill_types": [
+            "全体攻击 (打5)",
+            "防御减益"
         ],
         "source": "S1-经典",
         "Release date": "2023-04-17",
@@ -12519,7 +14587,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/EIvqBU6.jpg",
         "costume_id": 2,
-        "originalIndex": 382
+        "originalIndex": 383
     },
     {
         "name": "柱子骨骼 (Skittleskull) 卡通",
@@ -12532,6 +14600,11 @@ window.allHeroes =
         "types": [
             "攻击所有目标",
             "全体攻击降低"
+        ],
+        "skill_types": [
+            "全体攻击 (打5)",
+            "攻击减益",
+            "额外伤害"
         ],
         "source": "S1-经典",
         "Release date": "2024-03-11",
@@ -12551,7 +14624,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/DQzJaMV.jpg",
         "costume_id": 3,
-        "originalIndex": 383
+        "originalIndex": 384
     },
     {
         "name": "柱子骨骼 (Skittleskull) 玻璃",
@@ -12565,6 +14638,11 @@ window.allHeroes =
             "攻击所有目标",
             "无视防御",
             "全体攻击降低"
+        ],
+        "skill_types": [
+            "全体攻击 (打5)",
+            "绕过",
+            "攻击减益"
         ],
         "source": "S1-经典",
         "Release date": "2025-04-08",
@@ -12584,7 +14662,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://imgur.com/qCkUNrw.jpg",
         "costume_id": 4,
-        "originalIndex": 384
+        "originalIndex": 385
     },
     {
         "name": "特图克 (Tettukh)",
@@ -12598,6 +14676,11 @@ window.allHeroes =
             "攻击单个目标",
             "沉默",
             "单体持续伤害"
+        ],
+        "skill_types": [
+            "持续伤害",
+            "沉默",
+            "狙击手"
         ],
         "source": "S4-蛮荒地界",
         "Release date": "2021-03-25",
@@ -12617,7 +14700,7 @@ window.allHeroes =
         "family": "underwild",
         "image": "https://i.imgur.com/OZiH56V.jpg",
         "costume_id": 0,
-        "originalIndex": 385
+        "originalIndex": 386
     },
     {
         "name": "特图克 (Tettukh) C1",
@@ -12631,6 +14714,11 @@ window.allHeroes =
             "攻击单个目标",
             "沉默",
             "单体持续伤害"
+        ],
+        "skill_types": [
+            "持续伤害",
+            "沉默",
+            "狙击手"
         ],
         "source": "S4-蛮荒地界",
         "Release date": "2023-12-07",
@@ -12650,7 +14738,7 @@ window.allHeroes =
         "family": "underwild",
         "image": "https://i.imgur.com/Upmqcxi.jpg",
         "costume_id": 1,
-        "originalIndex": 386
+        "originalIndex": 387
     },
     {
         "name": "维利尔斯 (Villiers)",
@@ -12664,6 +14752,13 @@ window.allHeroes =
             "攻击3个目标",
             "召唤3个恶魔",
             "自我持续治疗"
+        ],
+        "skill_types": [
+            "范围攻击 (打3)",
+            "增益窃取者",
+            "召唤恶魔",
+            "持续伤害",
+            "持续治疗"
         ],
         "source": "联盟-火枪手",
         "Release date": "2022-12-14",
@@ -12685,7 +14780,7 @@ window.allHeroes =
         "family": "musketeer",
         "image": "https://i.imgur.com/bq60wfg.jpg",
         "costume_id": 0,
-        "originalIndex": 387
+        "originalIndex": 388
     },
     {
         "name": "雷恩 (Wren)",
@@ -12698,6 +14793,11 @@ window.allHeroes =
         "types": [
             "攻击单个目标",
             "弹射"
+        ],
+        "skill_types": [
+            "连锁与随机攻击",
+            "攻击减益",
+            "狙击手"
         ],
         "source": "联盟-骑士冲击",
         "Release date": "2021-10-13",
@@ -12715,7 +14815,7 @@ window.allHeroes =
         "family": "raven",
         "image": "https://i.imgur.com/YasIqZv.jpg",
         "costume_id": 0,
-        "originalIndex": 388
+        "originalIndex": 389
     },
     {
         "name": "雅赫摩斯 (Ahmose)",
@@ -12729,6 +14829,10 @@ window.allHeroes =
             "攻击所有目标",
             "全体元素反射",
             "全体元素反击"
+        ],
+        "skill_types": [
+            "全体攻击 (打5)",
+            "反射"
         ],
         "source": "S5-沙丘",
         "Release date": "2022-11-24",
@@ -12749,7 +14853,7 @@ window.allHeroes =
         "family": "moon",
         "image": "https://i.imgur.com/4zzp1TD.jpg",
         "costume_id": 0,
-        "originalIndex": 389
+        "originalIndex": 390
     },
     {
         "name": "雅赫摩斯 (Ahmose) C1",
@@ -12763,6 +14867,10 @@ window.allHeroes =
             "攻击所有目标",
             "全体元素反射",
             "全体元素反击"
+        ],
+        "skill_types": [
+            "全体攻击 (打5)",
+            "反射"
         ],
         "source": "S5-沙丘",
         "Release date": "2024-03-04",
@@ -12785,7 +14893,7 @@ window.allHeroes =
         "family": "moon",
         "image": "https://i.imgur.com/hOov8Aa.jpg",
         "costume_id": 1,
-        "originalIndex": 390
+        "originalIndex": 391
     },
     {
         "name": "阿尔贝里希 (Alberich)",
@@ -12799,6 +14907,13 @@ window.allHeroes =
             "复活者",
             "持续治疗",
             "法力持续恢复"
+        ],
+        "skill_types": [
+            "攻击增益",
+            "法力提升",
+            "防御增益",
+            "复活",
+            "持续治疗"
         ],
         "source": "月英",
         "Release date": "2017-10-01T00:00:00",
@@ -12817,7 +14932,7 @@ window.allHeroes =
         "family": 2017,
         "image": "https://i.imgur.com/0IebpZg.jpg",
         "costume_id": 0,
-        "originalIndex": 391
+        "originalIndex": 392
     },
     {
         "name": "阿尔贝里希 (Alberich) C1",
@@ -12831,6 +14946,14 @@ window.allHeroes =
             "复活者",
             "持续治疗",
             "法力持续恢复"
+        ],
+        "skill_types": [
+            "持续治疗",
+            "法力生成增益",
+            "复活",
+            "净化",
+            "攻击增益",
+            "防御增益"
         ],
         "source": "月英",
         "Release date": "2021-10-20",
@@ -12851,7 +14974,7 @@ window.allHeroes =
         "family": 2017,
         "image": "https://i.imgur.com/qgThGvZ.jpg",
         "costume_id": 1,
-        "originalIndex": 392
+        "originalIndex": 393
     },
     {
         "name": "阿奇巴尔德 (Archibald)",
@@ -12866,6 +14989,13 @@ window.allHeroes =
             "无视小兵",
             "元素防御降低",
             "持剑守卫超级小兵"
+        ],
+        "skill_types": [
+            "全体攻击 (打5)",
+            "反制小兵",
+            "防御减益",
+            "召唤巨型小兵",
+            "持续伤害"
         ],
         "source": "哥布林召唤",
         "Release date": "2025-03-14",
@@ -12888,7 +15018,7 @@ window.allHeroes =
         "family": "garrisonguard",
         "image": "https://i.imgur.com/zBBsCSR.jpg",
         "costume_id": 0,
-        "originalIndex": 393
+        "originalIndex": 394
     },
     {
         "name": "亚奇 (Archie)",
@@ -12902,6 +15032,11 @@ window.allHeroes =
             "攻击所有目标",
             "增益免疫状态异常",
             "自我致盲"
+        ],
+        "skill_types": [
+            "全体攻击 (打5)",
+            "增益格挡者",
+            "对自身或友军负面效果"
         ],
         "source": "月活动-春谷",
         "Release date": "2023-03-27",
@@ -12919,7 +15054,7 @@ window.allHeroes =
         "family": "springvale",
         "image": "https://i.imgur.com/LIKBIhe.jpg",
         "costume_id": 0,
-        "originalIndex": 394
+        "originalIndex": 395
     },
     {
         "name": "亚奇 (Archie) C1",
@@ -12933,6 +15068,11 @@ window.allHeroes =
             "攻击所有目标",
             "增益免疫状态异常",
             "自我致盲"
+        ],
+        "skill_types": [
+            "全体攻击 (打5)",
+            "增益格挡者",
+            "对自身或友军负面效果"
         ],
         "source": "月活动-春谷",
         "Release date": "2024-03-18",
@@ -12950,7 +15090,7 @@ window.allHeroes =
         "family": "springvale",
         "image": "https://i.imgur.com/NhdULEq.jpg",
         "costume_id": 1,
-        "originalIndex": 395
+        "originalIndex": 396
     },
     {
         "name": "阿尔科 (Arco)",
@@ -12964,6 +15104,12 @@ window.allHeroes =
             "全体恶魔替换",
             "召唤所有小兵",
             "每个小兵提升生命值"
+        ],
+        "skill_types": [
+            "反制恶魔",
+            "生命强化",
+            "召唤小兵",
+            "伤害减免"
         ],
         "source": "挑战-石像鬼",
         "Release date": "2022-05-12",
@@ -12983,7 +15129,7 @@ window.allHeroes =
         "family": "gargoyle",
         "image": "https://i.imgur.com/nhYRyEk.jpg",
         "costume_id": 0,
-        "originalIndex": 396
+        "originalIndex": 397
     },
     {
         "name": "阿曼德·孟夏曼 (Armand Moncharmin)",
@@ -12996,6 +15142,11 @@ window.allHeroes =
         "types": [
             "攻击所有目标",
             "保镖超级小兵"
+        ],
+        "skill_types": [
+            "全体攻击 (打5)",
+            "召唤巨型小兵",
+            "沉睡"
         ],
         "source": "至日召唤",
         "Release date": "2024-08-22",
@@ -13016,7 +15167,7 @@ window.allHeroes =
         "family": "opera",
         "image": "https://i.imgur.com/PHXp8yu.jpg",
         "costume_id": 0,
-        "originalIndex": 397
+        "originalIndex": 398
     },
     {
         "name": "阿多斯 (Athos)",
@@ -13030,6 +15181,13 @@ window.allHeroes =
             "攻击单个目标",
             "摧毁单个目标的小兵",
             "无视防御"
+        ],
+        "skill_types": [
+            "绕过",
+            "法力提升",
+            "反制小兵",
+            "狙击手",
+            "持续治疗"
         ],
         "source": "联盟-火枪手",
         "Release date": "2022-12-14",
@@ -13051,7 +15209,7 @@ window.allHeroes =
         "family": "musketeer",
         "image": "https://i.imgur.com/HvsiBgn.jpg",
         "costume_id": 0,
-        "originalIndex": 398
+        "originalIndex": 399
     },
     {
         "name": "阿多莫斯 (Atomos)",
@@ -13064,6 +15222,11 @@ window.allHeroes =
         "types": [
             "攻击所有目标",
             "自我复活"
+        ],
+        "skill_types": [
+            "全体攻击 (打5)",
+            "复活",
+            "额外伤害"
         ],
         "source": "S2-亚特兰蒂斯",
         "Release date": "2019-02-01",
@@ -13081,7 +15244,7 @@ window.allHeroes =
         "family": "atlantis",
         "image": "https://i.imgur.com/DAUb4SR.jpg",
         "costume_id": 0,
-        "originalIndex": 399
+        "originalIndex": 400
     },
     {
         "name": "阿多莫斯 (Atomos) C1",
@@ -13094,6 +15257,11 @@ window.allHeroes =
         "types": [
             "攻击所有目标",
             "自我复活"
+        ],
+        "skill_types": [
+            "全体攻击 (打5)",
+            "复活",
+            "额外伤害"
         ],
         "source": "S2-亚特兰蒂斯",
         "Release date": "2023-04-03",
@@ -13111,7 +15279,7 @@ window.allHeroes =
         "family": "atlantis",
         "image": "https://i.imgur.com/Mrpkkq0.jpg",
         "costume_id": 1,
-        "originalIndex": 400
+        "originalIndex": 401
     },
     {
         "name": "阿特伍德 (Atwood)",
@@ -13127,6 +15295,12 @@ window.allHeroes =
             "3个目标狂乱",
             "全体异常状态伤害免疫",
             "自我狂乱"
+        ],
+        "skill_types": [
+            "驱散",
+            "范围攻击 (打3)",
+            "提供免疫",
+            "对自身或友军负面效果"
         ],
         "source": "额外抽奖-秘密召唤",
         "Release date": "2024-04-11",
@@ -13147,7 +15321,7 @@ window.allHeroes =
         "family": "investigator",
         "image": "https://i.imgur.com/Cwe6431.jpg",
         "costume_id": 0,
-        "originalIndex": 401
+        "originalIndex": 402
     },
     {
         "name": "奥古斯都 (Augustus)",
@@ -13162,6 +15336,13 @@ window.allHeroes =
             "生命值加成",
             "召唤者",
             "防御增益"
+        ],
+        "skill_types": [
+            "防御增益",
+            "净化",
+            "生命强化",
+            "召唤小兵",
+            "特殊治疗"
         ],
         "source": "月活动-冬日",
         "Release date": "2022-12-01",
@@ -13181,7 +15362,7 @@ window.allHeroes =
         "family": "christmas",
         "image": "https://i.imgur.com/AEEIfML.jpg",
         "costume_id": 0,
-        "originalIndex": 402
+        "originalIndex": 403
     },
     {
         "name": "巴尔巴 (Balbar)",
@@ -13194,6 +15375,13 @@ window.allHeroes =
         "types": [
             "攻击单个目标",
             "沉睡"
+        ],
+        "skill_types": [
+            "额外伤害",
+            "法力削减或格挡",
+            "沉睡",
+            "狙击手",
+            "特殊治疗"
         ],
         "source": "月英",
         "Release date": "2021-11-01",
@@ -13217,7 +15405,7 @@ window.allHeroes =
         "family": 2021,
         "image": "https://i.imgur.com/lTYrovf.jpg",
         "costume_id": 0,
-        "originalIndex": 403
+        "originalIndex": 404
     },
     {
         "name": "贝蒂拉 (Bertila)",
@@ -13231,6 +15419,11 @@ window.allHeroes =
             "攻击所有目标",
             "全体移除攻击降低效果",
             "全体移除防御降低效果"
+        ],
+        "skill_types": [
+            "全体攻击 (打5)",
+            "净化",
+            "召唤小兵"
         ],
         "source": "月英",
         "Release date": "2021-01-01",
@@ -13248,7 +15441,7 @@ window.allHeroes =
         "family": 2021,
         "image": "https://i.imgur.com/VlS3IND.jpg",
         "costume_id": 0,
-        "originalIndex": 404
+        "originalIndex": 405
     },
     {
         "name": "博与朗特 (Bo & Runt)",
@@ -13261,6 +15454,13 @@ window.allHeroes =
         "types": [
             "攻击单个目标",
             "召唤者 (单体)"
+        ],
+        "skill_types": [
+            "额外伤害",
+            "攻击增益",
+            "狙击手",
+            "召唤小兵",
+            "法力提升"
         ],
         "source": "月英",
         "Release date": "2024-05-01",
@@ -13283,7 +15483,7 @@ window.allHeroes =
         "family": 2024,
         "image": "https://i.imgur.com/6gRA2M6.jpg",
         "costume_id": 0,
-        "originalIndex": 405
+        "originalIndex": 406
     },
     {
         "name": "邦佐 (Bonzo)",
@@ -13298,6 +15498,12 @@ window.allHeroes =
             "攻击所有目标",
             "无视小兵",
             "无视防御增益"
+        ],
+        "skill_types": [
+            "重排队伍",
+            "全体攻击 (打5)",
+            "反制小兵",
+            "绕过"
         ],
         "source": "挑战节-吟游诗人",
         "Release date": "2024-11-14",
@@ -13321,7 +15527,7 @@ window.allHeroes =
         "family": "bard",
         "image": "https://i.imgur.com/jSnGpgr.jpg",
         "costume_id": 0,
-        "originalIndex": 406
+        "originalIndex": 407
     },
     {
         "name": "哼哼和尖牙 (Boom & Fang)",
@@ -13333,6 +15539,10 @@ window.allHeroes =
         "skill": "野猪召唤",
         "types": [
             "白野猪超级小兵"
+        ],
+        "skill_types": [
+            "反击",
+            "召唤巨型小兵"
         ],
         "source": "哥布林召唤",
         "Release date": "2023-10-16",
@@ -13353,7 +15563,7 @@ window.allHeroes =
         "family": "goblin",
         "image": "https://i.imgur.com/IpQKX8C.jpg",
         "costume_id": 0,
-        "originalIndex": 407
+        "originalIndex": 408
     },
     {
         "name": "布兰博 (Bramble)",
@@ -13367,7 +15577,13 @@ window.allHeroes =
             "全体治疗",
             "安全净化"
         ],
-        "source": "S4-荒野",
+        "skill_types": [
+            "治疗",
+            "法力提升",
+            "净化",
+            "反制小兵"
+        ],
+        "source": "荒野召唤",
         "Release date": "2025-01-22",
         "star": 5,
         "power": 1157,
@@ -13386,7 +15602,7 @@ window.allHeroes =
         "family": "woodlandfaun",
         "image": "https://i.imgur.com/BA1yyNs.jpg",
         "costume_id": 0,
-        "originalIndex": 408
+        "originalIndex": 409
     },
     {
         "name": "知贺雄 (Chikao)",
@@ -13401,6 +15617,12 @@ window.allHeroes =
             "驱散2个目标",
             "攻击2个目标",
             "2个目标沉睡"
+        ],
+        "skill_types": [
+            "沉睡",
+            "驱散",
+            "狙击手",
+            "反制小兵"
         ],
         "source": "高塔-忍者",
         "Release date": "2024-08-27",
@@ -13429,7 +15651,7 @@ window.allHeroes =
         "family": "ninja",
         "image": "https://i.imgur.com/g0WuoGF.jpg",
         "costume_id": 0,
-        "originalIndex": 409
+        "originalIndex": 410
     },
     {
         "name": "克洛丽丝 (Chloris)",
@@ -13442,6 +15664,11 @@ window.allHeroes =
         "types": [
             "全体生命值加成",
             "全体持续治疗"
+        ],
+        "skill_types": [
+            "生命强化",
+            "持续治疗",
+            "攻击增益"
         ],
         "source": "月英",
         "Release date": "2024-09-01",
@@ -13463,7 +15690,7 @@ window.allHeroes =
         "family": 2024,
         "image": "https://i.imgur.com/3NHTm5Y.jpg",
         "costume_id": 0,
-        "originalIndex": 410
+        "originalIndex": 411
     },
     {
         "name": "西尼希雅 (Cinisia)",
@@ -13477,6 +15704,12 @@ window.allHeroes =
             "攻击所有目标",
             "治疗降低",
             "持续伤害"
+        ],
+        "skill_types": [
+            "全体攻击 (打5)",
+            "持续伤害",
+            "治疗削减",
+            "法力生成增益"
         ],
         "source": "月英",
         "Release date": "2023-07-01",
@@ -13498,7 +15731,7 @@ window.allHeroes =
         "family": 2023,
         "image": "https://i.imgur.com/L1RhKDe.jpg",
         "costume_id": 0,
-        "originalIndex": 411
+        "originalIndex": 412
     },
     {
         "name": "康伽拉赫 (Congalach)",
@@ -13511,6 +15744,11 @@ window.allHeroes =
         "types": [
             "随机攻击5个目标",
             "攻击降低叠加"
+        ],
+        "skill_types": [
+            "连锁与随机攻击",
+            "攻击减益",
+            "叠加"
         ],
         "source": "S4-蛮荒地界",
         "Release date": "2022-01-27",
@@ -13529,7 +15767,7 @@ window.allHeroes =
         "family": "underwild",
         "image": "https://i.imgur.com/FKztylV.jpg",
         "costume_id": 0,
-        "originalIndex": 412
+        "originalIndex": 413
     },
     {
         "name": "康伽拉赫 (Congalach) C1",
@@ -13542,6 +15780,11 @@ window.allHeroes =
         "types": [
             "随机攻击5个目标",
             "攻击降低叠加"
+        ],
+        "skill_types": [
+            "连锁与随机攻击",
+            "攻击减益",
+            "叠加"
         ],
         "source": "S4-蛮荒地界",
         "Release date": "2024-08-01",
@@ -13561,7 +15804,7 @@ window.allHeroes =
         "family": "underwild",
         "image": "https://i.imgur.com/llQVrNB.jpg",
         "costume_id": 1,
-        "originalIndex": 413
+        "originalIndex": 414
     },
     {
         "name": "克拉姆 (Craum)",
@@ -13573,6 +15816,10 @@ window.allHeroes =
         "skill": "元素召唤",
         "types": [
             "治疗者",
+            "持续伤害"
+        ],
+        "skill_types": [
+            "生命强化",
             "持续伤害"
         ],
         "source": "超级元素人",
@@ -13600,7 +15847,7 @@ window.allHeroes =
         "family": "superelemental",
         "image": "https://i.imgur.com/GyN20JL.jpg",
         "costume_id": 0,
-        "originalIndex": 414
+        "originalIndex": 415
     },
     {
         "name": "克里斯托巴尔 (Cristobal)",
@@ -13614,6 +15861,12 @@ window.allHeroes =
             "攻击单个目标",
             "攻击所有目标",
             "蓄力"
+        ],
+        "skill_types": [
+            "全体攻击 (打5)",
+            "额外伤害",
+            "狙击手",
+            "法力削减或格挡"
         ],
         "source": "高塔-魔法",
         "Release date": "2021-09-15",
@@ -13637,7 +15890,7 @@ window.allHeroes =
         "family": "magic",
         "image": "https://i.imgur.com/H1Awz0g.jpg",
         "costume_id": 0,
-        "originalIndex": 415
+        "originalIndex": 416
     },
     {
         "name": "达格 (Dagr)",
@@ -13651,6 +15904,14 @@ window.allHeroes =
             "攻击所有目标",
             "无视小兵",
             "全体持续伤害"
+        ],
+        "skill_types": [
+            "持续伤害",
+            "额外伤害",
+            "反制小兵",
+            "狙击手",
+            "绕过",
+            "防御减益"
         ],
         "source": "S6-S7-秘闻",
         "Release date": "2025-01-26",
@@ -13675,7 +15936,7 @@ window.allHeroes =
         "family": "nidavellir",
         "image": "https://i.imgur.com/BDzoVb0.jpg",
         "costume_id": 0,
-        "originalIndex": 416
+        "originalIndex": 417
     },
     {
         "name": "达洛加 (Daroga)",
@@ -13689,6 +15950,12 @@ window.allHeroes =
             "攻击单个目标",
             "扩散型持续伤害",
             "攻击增益叠加"
+        ],
+        "skill_types": [
+            "狙击手",
+            "持续伤害",
+            "叠加",
+            "攻击增益"
         ],
         "source": "至日召唤",
         "Release date": "2024-03-21",
@@ -13709,7 +15976,7 @@ window.allHeroes =
         "family": "opera",
         "image": "https://i.imgur.com/Kmtj8Eb.jpg",
         "costume_id": 0,
-        "originalIndex": 417
+        "originalIndex": 418
     },
     {
         "name": "德斯蒙德 (Desmond)",
@@ -13723,6 +15990,11 @@ window.allHeroes =
             "攻击2个目标",
             "为3个目标提升生命值",
             "沉默者"
+        ],
+        "skill_types": [
+            "生命强化",
+            "沉默",
+            "狙击手"
         ],
         "source": "超级元素人",
         "Release date": "2024-01-01",
@@ -13747,7 +16019,7 @@ window.allHeroes =
         "family": "superelemental",
         "image": "https://i.imgur.com/oyCoXcq.jpg",
         "costume_id": 0,
-        "originalIndex": 418
+        "originalIndex": 419
     },
     {
         "name": "多戈洛姆 (Dodgrom)",
@@ -13761,6 +16033,11 @@ window.allHeroes =
             "嘲讽",
             "反击",
             "伤害减免者"
+        ],
+        "skill_types": [
+            "反击",
+            "伤害减免",
+            "嘲讽"
         ],
         "source": "月活动-恋爱季节",
         "Release date": "2025-02-14",
@@ -13780,7 +16057,7 @@ window.allHeroes =
         "family": "cupid",
         "image": "https://i.imgur.com/7l2ITkQ.jpg",
         "costume_id": 0,
-        "originalIndex": 419
+        "originalIndex": 420
     },
     {
         "name": "艾格齐乌 (Ecgtheow)",
@@ -13793,6 +16070,11 @@ window.allHeroes =
         "types": [
             "攻击所有目标",
             "全体法力削减"
+        ],
+        "skill_types": [
+            "全体攻击 (打5)",
+            "法力削减或格挡",
+            "绕过"
         ],
         "source": "挑战-贝奥武夫",
         "Release date": "2025-03-13",
@@ -13813,7 +16095,7 @@ window.allHeroes =
         "family": "beowulf",
         "image": "https://i.imgur.com/P9xj0rz.jpg",
         "costume_id": 0,
-        "originalIndex": 420
+        "originalIndex": 421
     },
     {
         "name": "艾德文 (Edwin)",
@@ -13827,6 +16109,11 @@ window.allHeroes =
             "攻击所有目标",
             "无视防御",
             "治疗降低"
+        ],
+        "skill_types": [
+            "全体攻击 (打5)",
+            "绕过",
+            "净化格挡者"
         ],
         "source": "月活动-莫洛维亚",
         "Release date": "2023-09-25",
@@ -13846,7 +16133,7 @@ window.allHeroes =
         "family": "morlovia",
         "image": "https://i.imgur.com/NshfXdy.jpg",
         "costume_id": 0,
-        "originalIndex": 421
+        "originalIndex": 422
     },
     {
         "name": "埃奥拉与毛毛 (Eiora & Fluffy)",
@@ -13860,6 +16147,11 @@ window.allHeroes =
             "摧毁单个目标的小兵",
             "攻击单个目标",
             "降低小兵所有者的最大生命值"
+        ],
+        "skill_types": [
+            "最大生命削减",
+            "反制小兵",
+            "狙击手"
         ],
         "source": "挑战节-星落",
         "Release date": "2021-06-10",
@@ -13877,7 +16169,7 @@ window.allHeroes =
         "family": "starfall",
         "image": "https://i.imgur.com/ISxaSzG.jpg",
         "costume_id": 0,
-        "originalIndex": 422
+        "originalIndex": 423
     },
     {
         "name": "埃卡奈特 (Ekanite)",
@@ -13891,6 +16183,11 @@ window.allHeroes =
             "伤害所有目标",
             "召唤者",
             "反击"
+        ],
+        "skill_types": [
+            "全体攻击 (打5)",
+            "反击",
+            "召唤小兵"
         ],
         "source": "高塔-忍者",
         "Release date": "2023-01-11",
@@ -13918,7 +16215,7 @@ window.allHeroes =
         "family": "ninja",
         "image": "https://i.imgur.com/YQskc4O.jpg",
         "costume_id": 0,
-        "originalIndex": 423
+        "originalIndex": 424
     },
     {
         "name": "埃纳达哈 (El Naddaha)",
@@ -13931,6 +16228,10 @@ window.allHeroes =
         "types": [
             "攻击3个目标",
             "增益免疫"
+        ],
+        "skill_types": [
+            "范围攻击 (打3)",
+            "增益格挡者"
         ],
         "source": "S5-沙丘",
         "Release date": "2022-04-21",
@@ -13951,7 +16252,7 @@ window.allHeroes =
         "family": "moon",
         "image": "https://i.imgur.com/IdGJmNB.jpg",
         "costume_id": 0,
-        "originalIndex": 424
+        "originalIndex": 425
     },
     {
         "name": "埃纳达哈 (El Naddaha) C1",
@@ -13964,6 +16265,11 @@ window.allHeroes =
         "types": [
             "攻击3个目标",
             "增益免疫"
+        ],
+        "skill_types": [
+            "范围攻击 (打3)",
+            "增益格挡者",
+            "驱散"
         ],
         "source": "S5-沙丘",
         "Release date": "2025-01-20",
@@ -13986,7 +16292,7 @@ window.allHeroes =
         "family": "moon",
         "image": "https://i.imgur.com/okhmn3A.jpg",
         "costume_id": 1,
-        "originalIndex": 425
+        "originalIndex": 426
     },
     {
         "name": "埃尔卡能 (Elkanen)",
@@ -13999,6 +16305,10 @@ window.allHeroes =
         "types": [
             "攻击3个目标",
             "自我治疗"
+        ],
+        "skill_types": [
+            "范围攻击 (打3)",
+            "特殊治疗"
         ],
         "source": "S1-经典",
         "Release date": "2017-01-01",
@@ -14015,7 +16325,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/gkqoNuc.jpg",
         "costume_id": 0,
-        "originalIndex": 426
+        "originalIndex": 427
     },
     {
         "name": "埃尔卡能 (Elkanen) C1",
@@ -14028,6 +16338,11 @@ window.allHeroes =
         "types": [
             "攻击3个目标",
             "治疗偷取"
+        ],
+        "skill_types": [
+            "范围攻击 (打3)",
+            "特殊治疗",
+            "治疗削减"
         ],
         "source": "S1-经典",
         "Release date": "2020-05-18",
@@ -14044,7 +16359,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/r8h2KIN.jpg",
         "costume_id": 1,
-        "originalIndex": 427
+        "originalIndex": 428
     },
     {
         "name": "埃尔卡能 (Elkanen) C2",
@@ -14057,6 +16372,10 @@ window.allHeroes =
         "types": [
             "攻击所有目标",
             "治疗降低"
+        ],
+        "skill_types": [
+            "全体攻击 (打5)",
+            "治疗削减"
         ],
         "source": "S1-经典",
         "Release date": "2022-09-05",
@@ -14073,7 +16392,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/45ULmYn.jpg",
         "costume_id": 2,
-        "originalIndex": 428
+        "originalIndex": 429
     },
     {
         "name": "埃尔卡能 (Elkanen) 卡通",
@@ -14086,6 +16405,11 @@ window.allHeroes =
         "types": [
             "攻击3个目标",
             "自我治疗"
+        ],
+        "skill_types": [
+            "范围攻击 (打3)",
+            "额外伤害",
+            "特殊治疗"
         ],
         "source": "S1-经典",
         "Release date": "2023-11-27",
@@ -14105,7 +16429,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/6SvyBu6.jpg",
         "costume_id": 3,
-        "originalIndex": 429
+        "originalIndex": 430
     },
     {
         "name": "埃尔卡能 (Elkanen) 玻璃",
@@ -14118,6 +16442,11 @@ window.allHeroes =
         "types": [
             "攻击3个目标",
             "自我治疗"
+        ],
+        "skill_types": [
+            "范围攻击 (打3)",
+            "绕过",
+            "特殊治疗"
         ],
         "source": "S1-经典",
         "Release date": "2025-01-14",
@@ -14137,7 +16466,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/5zN8JJz.jpg",
         "costume_id": 4,
-        "originalIndex": 430
+        "originalIndex": 431
     },
     {
         "name": "埃拉德 (Elradir)",
@@ -14150,6 +16479,12 @@ window.allHeroes =
         "types": [
             "攻击3个目标",
             "自我反射状态异常"
+        ],
+        "skill_types": [
+            "范围攻击 (打3)",
+            "全体攻击 (打5)",
+            "法力提升",
+            "反射"
         ],
         "source": "月英",
         "Release date": "2021-06-01",
@@ -14170,7 +16505,7 @@ window.allHeroes =
         "family": 2021,
         "image": "https://i.imgur.com/WDClMpO.jpg",
         "costume_id": 0,
-        "originalIndex": 431
+        "originalIndex": 432
     },
     {
         "name": "艾莉莎 (Elyssa)",
@@ -14185,6 +16520,13 @@ window.allHeroes =
             "替换3个目标的状态异常",
             "3个目标减益抵抗",
             "抵抗时3个目标法力提升"
+        ],
+        "skill_types": [
+            "治疗",
+            "提供免疫",
+            "反制小兵",
+            "法力提升",
+            "状态效果转换"
         ],
         "source": "高塔-魔法",
         "Release date": "2025-04-17",
@@ -14208,7 +16550,7 @@ window.allHeroes =
         "family": "magiccarpet",
         "image": "https://imgur.com/125Oojg.jpg",
         "costume_id": 0,
-        "originalIndex": 432
+        "originalIndex": 433
     },
     {
         "name": "恩尼格莫 (Enigmo)",
@@ -14223,6 +16565,12 @@ window.allHeroes =
             "攻击所有目标",
             "记忆召唤所有小兵",
             "记忆召唤所有恶魔"
+        ],
+        "skill_types": [
+            "全体攻击 (打5)",
+            "治疗",
+            "召唤小兵",
+            "召唤恶魔"
         ],
         "source": "黑色星期五召唤",
         "Release date": "2022-11-22",
@@ -14243,7 +16591,7 @@ window.allHeroes =
         "family": "mystery",
         "image": "https://i.imgur.com/S6ta64j.jpg",
         "costume_id": 0,
-        "originalIndex": 433
+        "originalIndex": 434
     },
     {
         "name": "伊夫林 (Evelyn)",
@@ -14257,6 +16605,12 @@ window.allHeroes =
             "攻击3个目标",
             "元素防御降低",
             "驱散者"
+        ],
+        "skill_types": [
+            "范围攻击 (打3)",
+            "防御减益",
+            "驱散",
+            "持续治疗"
         ],
         "source": "月英",
         "Release date": "2018-12-01T00:00:00",
@@ -14275,7 +16629,7 @@ window.allHeroes =
         "family": 2018,
         "image": "https://i.imgur.com/YnTLDcR.jpg",
         "costume_id": 0,
-        "originalIndex": 434
+        "originalIndex": 435
     },
     {
         "name": "伊夫林 (Evelyn) C1",
@@ -14289,6 +16643,13 @@ window.allHeroes =
             "攻击3个目标",
             "元素防御降低",
             "驱散者"
+        ],
+        "skill_types": [
+            "范围攻击 (打3)",
+            "防御减益",
+            "驱散",
+            "持续治疗",
+            "净化"
         ],
         "source": "月英",
         "Release date": "2023-10-02",
@@ -14309,7 +16670,7 @@ window.allHeroes =
         "family": 2018,
         "image": "https://i.imgur.com/93B4oB9.jpg",
         "costume_id": 1,
-        "originalIndex": 435
+        "originalIndex": 436
     },
     {
         "name": "经验拟态兽 (Experience Mimic) Nature",
@@ -14323,6 +16684,15 @@ window.allHeroes =
             "摧毁单个目标的小兵",
             "攻击单个目标",
             "宝箱怪"
+        ],
+        "skill_types": [
+            "特殊治疗",
+            "反制小兵",
+            "狙击手",
+            "法力提升",
+            "提供免疫",
+            "鬼魂形态与隐藏",
+            "绕过"
         ],
         "source": "额外抽奖-秘密召唤",
         "Release date": "2025-05-15",
@@ -14349,7 +16719,7 @@ window.allHeroes =
         "family": "mimic",
         "image": "https://imgur.com/5HAwmjg.jpg",
         "costume_id": 0,
-        "originalIndex": 436
+        "originalIndex": 437
     },
     {
         "name": "法夫纳 (Fafnir)",
@@ -14363,6 +16733,15 @@ window.allHeroes =
             "霜降打击 (3个目标)",
             "3个目标承受伤害增加",
             "3个目标反射增益"
+        ],
+        "skill_types": [
+            "范围攻击 (打3)",
+            "持续伤害",
+            "额外伤害",
+            "攻击减益",
+            "反射",
+            "绕过",
+            "反制小兵"
         ],
         "source": "S6-S7-秘闻",
         "Release date": "2025-06-13",
@@ -14385,7 +16764,7 @@ window.allHeroes =
         "family": "myrkheim",
         "image": "https://imgur.com/4ndmZBW.jpg",
         "costume_id": 0,
-        "originalIndex": 437
+        "originalIndex": 438
     },
     {
         "name": "菲布路斯 (Februus)",
@@ -14400,6 +16779,12 @@ window.allHeroes =
             "全体净化",
             "全体持续治疗",
             "全体持续伤害"
+        ],
+        "skill_types": [
+            "净化",
+            "持续伤害",
+            "反制恶魔",
+            "持续治疗"
         ],
         "source": "挑战-众神狂欢节",
         "Release date": "2023-11-02",
@@ -14421,7 +16806,7 @@ window.allHeroes =
         "family": "maskedgod",
         "image": "https://i.imgur.com/uBNXICu.jpg",
         "costume_id": 0,
-        "originalIndex": 438
+        "originalIndex": 439
     },
     {
         "name": "费洛斯 (Ferrus)",
@@ -14435,6 +16820,13 @@ window.allHeroes =
             "攻击3个目标",
             "持续伤害",
             "元素防御降低"
+        ],
+        "skill_types": [
+            "范围攻击 (打3)",
+            "防御减益",
+            "持续伤害",
+            "法力削减或格挡",
+            "反制小兵"
         ],
         "source": "盟约召唤",
         "Release date": "2023-06-28",
@@ -14457,7 +16849,7 @@ window.allHeroes =
         "family": "construct",
         "image": "https://i.imgur.com/cdOOWSr.jpg",
         "costume_id": 0,
-        "originalIndex": 439
+        "originalIndex": 440
     },
     {
         "name": "狐斯利 (Foxley)",
@@ -14471,6 +16863,11 @@ window.allHeroes =
             "攻击3个目标",
             "3个目标持续性伤害",
             "3个目标延迟麻痹"
+        ],
+        "skill_types": [
+            "持续伤害",
+            "范围攻击 (打3)",
+            "沉睡"
         ],
         "source": "盟约召唤",
         "Release date": "2025-04-14T11:00:00",
@@ -14490,7 +16887,7 @@ window.allHeroes =
         "family": "fox",
         "image": "https://imgur.com/WizK6Nb.jpg",
         "costume_id": 0,
-        "originalIndex": 440
+        "originalIndex": 441
     },
     {
         "name": "弗朗辛 (Francine)",
@@ -14503,6 +16900,11 @@ window.allHeroes =
         "types": [
             "攻击3个目标",
             "净化者"
+        ],
+        "skill_types": [
+            "范围攻击 (打3)",
+            "净化",
+            "额外伤害"
         ],
         "source": "月活动-莫洛维亚",
         "Release date": "2020-10-26",
@@ -14522,7 +16924,7 @@ window.allHeroes =
         "family": "morlovia",
         "image": "https://i.imgur.com/jBtXWpz.jpg",
         "costume_id": 0,
-        "originalIndex": 441
+        "originalIndex": 442
     },
     {
         "name": "弗朗辛 (Francine) C1",
@@ -14535,6 +16937,11 @@ window.allHeroes =
         "types": [
             "攻击3个目标",
             "净化者"
+        ],
+        "skill_types": [
+            "范围攻击 (打3)",
+            "净化",
+            "防御减益"
         ],
         "source": "月活动-莫洛维亚",
         "Release date": "2021-10-04",
@@ -14554,7 +16961,7 @@ window.allHeroes =
         "family": "morlovia",
         "image": "https://i.imgur.com/ObnUcTT.jpg",
         "costume_id": 1,
-        "originalIndex": 442
+        "originalIndex": 443
     },
     {
         "name": "弗丽嘉 (Frigg)",
@@ -14567,6 +16974,11 @@ window.allHeroes =
         "types": [
             "攻击所有目标",
             "防御降低"
+        ],
+        "skill_types": [
+            "全体攻击 (打5)",
+            "防御减益",
+            "额外伤害"
         ],
         "source": "S3-瓦尔哈拉",
         "Release date": "2020-08-27",
@@ -14584,7 +16996,7 @@ window.allHeroes =
         "family": "alfheim",
         "image": "https://i.imgur.com/UMxFVGq.jpg",
         "costume_id": 0,
-        "originalIndex": 443
+        "originalIndex": 444
     },
     {
         "name": "弗丽嘉 (Frigg) C1",
@@ -14597,6 +17009,11 @@ window.allHeroes =
         "types": [
             "攻击所有目标",
             "防御降低"
+        ],
+        "skill_types": [
+            "全体攻击 (打5)",
+            "额外伤害",
+            "防御减益"
         ],
         "source": "S3-瓦尔哈拉",
         "Release date": "2023-01-16",
@@ -14614,7 +17031,7 @@ window.allHeroes =
         "family": "alfheim",
         "image": "https://i.imgur.com/G0IAEBg.jpg",
         "costume_id": 1,
-        "originalIndex": 444
+        "originalIndex": 445
     },
     {
         "name": "青蛙王子 (Frog Prince)",
@@ -14628,6 +17045,13 @@ window.allHeroes =
             "攻击所有目标",
             "持续伤害",
             "法力生成降低"
+        ],
+        "skill_types": [
+            "全体攻击 (打5)",
+            "伤害分摊",
+            "持续伤害",
+            "法力提升",
+            "法力削减或格挡"
         ],
         "source": "挑战节-肃煞森林",
         "Release date": "2023-08-10",
@@ -14646,7 +17070,7 @@ window.allHeroes =
         "family": "grimforest",
         "image": "https://i.imgur.com/b7feuiD.jpg",
         "costume_id": 0,
-        "originalIndex": 445
+        "originalIndex": 446
     },
     {
         "name": "伏榕德 (Frond)",
@@ -14658,6 +17082,12 @@ window.allHeroes =
         "skill": "古林之怒",
         "types": [
             "攻击3个目标"
+        ],
+        "skill_types": [
+            "范围攻击 (打3)",
+            "额外伤害",
+            "攻击增益",
+            "全体攻击 (打5)"
         ],
         "source": "盟约召唤",
         "Release date": "2023-10-28",
@@ -14680,7 +17110,7 @@ window.allHeroes =
         "family": "construct",
         "image": "https://i.imgur.com/ThTeBHZ.jpg",
         "costume_id": 0,
-        "originalIndex": 446
+        "originalIndex": 447
     },
     {
         "name": "香菇斯丁 (Fungustine)",
@@ -14695,6 +17125,12 @@ window.allHeroes =
             "粘性表面",
             "防御增益",
             "增益驱散免疫"
+        ],
+        "skill_types": [
+            "增益窃取者",
+            "防御增益",
+            "生命强化",
+            "提供免疫"
         ],
         "source": "至日召唤",
         "Release date": "2024-06-18",
@@ -14717,7 +17153,7 @@ window.allHeroes =
         "family": "slime",
         "image": "https://i.imgur.com/RTB91u9.jpg",
         "costume_id": 0,
-        "originalIndex": 447
+        "originalIndex": 448
     },
     {
         "name": "加拉帕戈 (Galapago)",
@@ -14731,6 +17167,13 @@ window.allHeroes =
             "摧毁所有小兵",
             "攻击所有目标",
             "全体防御增益"
+        ],
+        "skill_types": [
+            "全体攻击 (打5)",
+            "防御增益",
+            "反制小兵",
+            "叠加",
+            "持续治疗"
         ],
         "source": "S6-S7-秘闻",
         "Release date": "2023-06-07",
@@ -14760,7 +17203,7 @@ window.allHeroes =
         "family": "defendersofatlantis",
         "image": "https://i.imgur.com/pxAZGoS.jpg",
         "costume_id": 0,
-        "originalIndex": 448
+        "originalIndex": 449
     },
     {
         "name": "加拉帕戈 (Galapago) C1",
@@ -14774,6 +17217,13 @@ window.allHeroes =
             "摧毁小兵",
             "攻击所有目标",
             "防御增益者"
+        ],
+        "skill_types": [
+            "反制小兵",
+            "全体攻击 (打5)",
+            "防御增益",
+            "持续治疗",
+            "叠加"
         ],
         "source": "S6-S7-秘闻",
         "Release date": "2024-07-27",
@@ -14803,7 +17253,7 @@ window.allHeroes =
         "family": "defendersofatlantis",
         "image": "https://i.imgur.com/hvltSu6.jpg",
         "costume_id": 1,
-        "originalIndex": 449
+        "originalIndex": 450
     },
     {
         "name": "卡加莫 (Garjammal)",
@@ -14816,6 +17266,10 @@ window.allHeroes =
         "types": [
             "攻击单个目标",
             "自我持续治疗"
+        ],
+        "skill_types": [
+            "持续治疗",
+            "狙击手"
         ],
         "source": "S4-蛮荒地界",
         "Release date": "2021-04-22",
@@ -14834,7 +17288,7 @@ window.allHeroes =
         "family": "underwild",
         "image": "https://i.imgur.com/kz19bRj.jpg",
         "costume_id": 0,
-        "originalIndex": 450
+        "originalIndex": 451
     },
     {
         "name": "卡加莫 (Garjammal) C1",
@@ -14847,6 +17301,12 @@ window.allHeroes =
         "types": [
             "攻击单个目标",
             "自我持续治疗"
+        ],
+        "skill_types": [
+            "持续治疗",
+            "狙击手",
+            "攻击增益",
+            "额外伤害"
         ],
         "source": "S4-蛮荒地界",
         "Release date": "2023-06-22",
@@ -14866,7 +17326,7 @@ window.allHeroes =
         "family": "underwild",
         "image": "https://i.imgur.com/U99nNNm.jpg",
         "costume_id": 1,
-        "originalIndex": 451
+        "originalIndex": 452
     },
     {
         "name": "加滕 (Garten)",
@@ -14881,6 +17341,13 @@ window.allHeroes =
             "最大生命值降低",
             "4个目标软肤",
             "治疗降低免疫"
+        ],
+        "skill_types": [
+            "净化",
+            "伤害减免",
+            "生命强化",
+            "提供免疫",
+            "最大生命削减"
         ],
         "source": "挑战-重返圣堂",
         "Release date": "2024-02-27",
@@ -14901,7 +17368,7 @@ window.allHeroes =
         "family": "gargoyle",
         "image": "https://i.imgur.com/8K8mMLw.jpg",
         "costume_id": 0,
-        "originalIndex": 452
+        "originalIndex": 453
     },
     {
         "name": "杰勒 (Gelert)",
@@ -14915,6 +17382,13 @@ window.allHeroes =
             "法力偷取",
             "攻击单个目标",
             "法力生成增益"
+        ],
+        "skill_types": [
+            "法力生成增益",
+            "法力提升",
+            "法力削减或格挡",
+            "狙击手",
+            "额外伤害"
         ],
         "source": "S6-S7-秘闻",
         "Release date": "2023-08-30",
@@ -14944,7 +17418,7 @@ window.allHeroes =
         "family": "defendersofatlantis",
         "image": "https://i.imgur.com/WjoVn5I.jpg",
         "costume_id": 0,
-        "originalIndex": 453
+        "originalIndex": 454
     },
     {
         "name": "金姬 (Ginger)",
@@ -14958,6 +17432,11 @@ window.allHeroes =
             "召唤者",
             "协助攻击单个目标",
             "全体特殊技能伤害增益"
+        ],
+        "skill_types": [
+            "攻击增益",
+            "连锁与随机攻击",
+            "召唤小兵"
         ],
         "source": "月活动-冬日",
         "Release date": "2023-12-01",
@@ -14975,7 +17454,7 @@ window.allHeroes =
         "family": "christmas",
         "image": "https://i.imgur.com/U9fsiDu.jpg",
         "costume_id": 0,
-        "originalIndex": 454
+        "originalIndex": 455
     },
     {
         "name": "古利安 (Goorian)",
@@ -14989,6 +17468,11 @@ window.allHeroes =
             "攻击所有目标",
             "全体防御降低",
             "自我史莱姆复活"
+        ],
+        "skill_types": [
+            "全体攻击 (打5)",
+            "防御减益",
+            "复活"
         ],
         "source": "超级元素人",
         "Release date": "2025-03-17",
@@ -15015,7 +17499,7 @@ window.allHeroes =
         "family": "slime",
         "image": "https://i.imgur.com/e1nrPfv.jpg",
         "costume_id": 0,
-        "originalIndex": 455
+        "originalIndex": 456
     },
     {
         "name": "格蕾丝 (Grace)",
@@ -15029,6 +17513,13 @@ window.allHeroes =
             "攻击3个目标",
             "3个目标嘲讽格挡",
             "3个目标特殊技能防御降低"
+        ],
+        "skill_types": [
+            "范围攻击 (打3)",
+            "防御减益",
+            "反制恶魔",
+            "提供免疫",
+            "嘲讽"
         ],
         "source": "月英",
         "Release date": "2022-09-01",
@@ -15050,7 +17541,7 @@ window.allHeroes =
         "family": 2022,
         "image": "https://i.imgur.com/GvwTLSo.jpg",
         "costume_id": 0,
-        "originalIndex": 456
+        "originalIndex": 457
     },
     {
         "name": "绿骑士 (Green Knight)",
@@ -15064,6 +17555,11 @@ window.allHeroes =
             "防御降低",
             "攻击所有目标",
             "自我复活"
+        ],
+        "skill_types": [
+            "全体攻击 (打5)",
+            "防御减益",
+            "复活"
         ],
         "source": "挑战节-阿瓦隆",
         "Release date": "2023-04-20",
@@ -15081,7 +17577,7 @@ window.allHeroes =
         "family": "avalon",
         "image": "https://i.imgur.com/4LKxVef.jpg",
         "costume_id": 0,
-        "originalIndex": 457
+        "originalIndex": 458
     },
     {
         "name": "格雷戈里恩 (Gregorion)",
@@ -15094,6 +17590,11 @@ window.allHeroes =
         "types": [
             "攻击单个目标",
             "暴击命中增益"
+        ],
+        "skill_types": [
+            "攻击增益",
+            "狙击手",
+            "防御增益"
         ],
         "source": "月英",
         "Release date": "2018-07-01T00:00:00",
@@ -15111,7 +17612,7 @@ window.allHeroes =
         "family": 2018,
         "image": "https://i.imgur.com/Vz5Hvbn.jpg",
         "costume_id": 0,
-        "originalIndex": 458
+        "originalIndex": 459
     },
     {
         "name": "格雷戈里恩 (Gregorion) C1",
@@ -15124,6 +17625,12 @@ window.allHeroes =
         "types": [
             "攻击单个目标",
             "暴击命中增益"
+        ],
+        "skill_types": [
+            "攻击增益",
+            "狙击手",
+            "防御增益",
+            "驱散"
         ],
         "source": "月英",
         "Release date": "2024-03-08",
@@ -15143,7 +17650,7 @@ window.allHeroes =
         "family": 2018,
         "image": "https://i.imgur.com/ONemvil.jpg",
         "costume_id": 1,
-        "originalIndex": 459
+        "originalIndex": 460
     },
     {
         "name": "格伦德尔 (Grendel)",
@@ -15158,6 +17665,12 @@ window.allHeroes =
             "攻击3个目标",
             "3个目标持续伤害",
             "自我持续治疗"
+        ],
+        "skill_types": [
+            "范围攻击 (打3)",
+            "持续伤害",
+            "持续治疗",
+            "防御减益"
         ],
         "source": "挑战-贝奥武夫",
         "Release date": "2025-02-13",
@@ -15180,7 +17693,7 @@ window.allHeroes =
         "family": "beowulf",
         "image": "https://i.imgur.com/ijEHGWi.jpg",
         "costume_id": 0,
-        "originalIndex": 460
+        "originalIndex": 461
     },
     {
         "name": "格罗沃特 (Grovevert)",
@@ -15193,6 +17706,14 @@ window.allHeroes =
         "types": [
             "延迟自我法力提升",
             "青苔幼蛾超级恶魔"
+        ],
+        "skill_types": [
+            "召唤恶魔",
+            "法力削减或格挡",
+            "法力提升",
+            "持续伤害",
+            "闪避",
+            "反制小兵"
         ],
         "source": "联盟-飞蛾",
         "Release date": "2025-01-23",
@@ -15213,7 +17734,7 @@ window.allHeroes =
         "family": "moth",
         "image": "https://i.imgur.com/0Q3pYS0.jpg",
         "costume_id": 0,
-        "originalIndex": 461
+        "originalIndex": 462
     },
     {
         "name": "关羽 (Guan Yu)",
@@ -15227,6 +17748,11 @@ window.allHeroes =
             "攻击3个目标",
             "无视小兵",
             "防御降低"
+        ],
+        "skill_types": [
+            "范围攻击 (打3)",
+            "防御减益",
+            "反制小兵"
         ],
         "source": "三国召唤",
         "Release date": "2022-03-14T12:00:00",
@@ -15244,7 +17770,7 @@ window.allHeroes =
         "family": "kingdom",
         "image": "https://i.imgur.com/nDiRoqi.jpg",
         "costume_id": 0,
-        "originalIndex": 462
+        "originalIndex": 463
     },
     {
         "name": "关羽 (Guan Yu) C1",
@@ -15258,6 +17784,11 @@ window.allHeroes =
             "攻击3个目标",
             "无视小兵",
             "防御降低"
+        ],
+        "skill_types": [
+            "范围攻击 (打3)",
+            "防御减益",
+            "反制小兵"
         ],
         "source": "三国召唤",
         "Release date": "2024-10-01",
@@ -15280,7 +17811,7 @@ window.allHeroes =
         "family": "kingdom",
         "image": "https://i.imgur.com/GP4J8r3.jpg",
         "costume_id": 1,
-        "originalIndex": 463
+        "originalIndex": 464
     },
     {
         "name": "变色龙守护者 (Guardian Chameleon)",
@@ -15295,6 +17826,12 @@ window.allHeroes =
             "攻击增益",
             "暴击增益",
             "元素转换"
+        ],
+        "skill_types": [
+            "攻击增益",
+            "驱散",
+            "净化",
+            "状态效果格挡"
         ],
         "source": "挑战节-守护者",
         "Release date": "2020-01-08",
@@ -15313,7 +17850,7 @@ window.allHeroes =
         "family": "guardiansteltoc",
         "image": "https://i.imgur.com/Q04Vvnt.jpg",
         "costume_id": 0,
-        "originalIndex": 464
+        "originalIndex": 465
     },
     {
         "name": "锤牙 (Hammertusk)",
@@ -15326,6 +17863,11 @@ window.allHeroes =
         "types": [
             "攻击3个目标",
             "受到伤害增加"
+        ],
+        "skill_types": [
+            "范围攻击 (打3)",
+            "持续伤害",
+            "额外伤害"
         ],
         "source": "盟约召唤",
         "Release date": "2022-11-12",
@@ -15340,12 +17882,12 @@ window.allHeroes =
         ],
         "passives": [
             "特殊技能伤害减免：该角色有 10% 的几率将受到的特殊技能直接伤害降至 1 点。",
-            "特殊技能附带持续伤害：当该角色施放其特殊技能时，会给一个随机敌人施加猎人印记。目标在 150 回合内受到 3 点伤害。如果目标已有此效果，则持续时间刷新，伤害增加 150 点，总伤害最高可达 1500 点。"
+            "特殊技能附带持续伤害：当该角色施放其特殊技能时，会给一个随机敌人施加猎人印记。目标在 3 回合内受到 150 点伤害。如果目标已有此效果，则持续时间刷新，伤害增加 150 点，总伤害最高可达 1500 点。"
         ],
         "family": "plainshunter",
         "image": "https://i.imgur.com/pL7PYXM.jpg",
         "costume_id": 0,
-        "originalIndex": 465
+        "originalIndex": 466
     },
     {
         "name": "运输石 (Haulstone)",
@@ -15361,6 +17903,14 @@ window.allHeroes =
             "法力生成增益",
             "治疗者",
             "反击"
+        ],
+        "skill_types": [
+            "攻击增益",
+            "防御增益",
+            "反击",
+            "持续治疗",
+            "法力生成增益",
+            "生命强化"
         ],
         "source": "盟约召唤",
         "Release date": "2023-06-28",
@@ -15381,7 +17931,7 @@ window.allHeroes =
         "family": "construct",
         "image": "https://i.imgur.com/nDQGLk9.jpg",
         "costume_id": 0,
-        "originalIndex": 466
+        "originalIndex": 467
     },
     {
         "name": "海姆达 (Heimdall)",
@@ -15395,6 +17945,11 @@ window.allHeroes =
             "生命值加成",
             "复活者",
             "攻击增益"
+        ],
+        "skill_types": [
+            "攻击增益",
+            "生命强化",
+            "复活"
         ],
         "source": "S3-瓦尔哈拉",
         "Release date": "2020-02-27",
@@ -15412,7 +17967,7 @@ window.allHeroes =
         "family": "asgard",
         "image": "https://i.imgur.com/bjKzbra.jpg",
         "costume_id": 0,
-        "originalIndex": 467
+        "originalIndex": 468
     },
     {
         "name": "海姆达 (Heimdall) C1",
@@ -15426,6 +17981,12 @@ window.allHeroes =
             "复活",
             "攻击增益",
             "再生"
+        ],
+        "skill_types": [
+            "攻击增益",
+            "生命强化",
+            "复活",
+            "持续治疗"
         ],
         "source": "S3-瓦尔哈拉",
         "Release date": "2022-10-24",
@@ -15443,7 +18004,7 @@ window.allHeroes =
         "family": "asgard",
         "image": "https://i.imgur.com/YoTKnv0.jpg",
         "costume_id": 1,
-        "originalIndex": 468
+        "originalIndex": 469
     },
     {
         "name": "霍格火 (Horghall)",
@@ -15456,6 +18017,10 @@ window.allHeroes =
         "types": [
             "攻击所有目标",
             "全体攻击降低"
+        ],
+        "skill_types": [
+            "全体攻击 (打5)",
+            "攻击减益"
         ],
         "source": "S1-经典",
         "Release date": "2017-01-01",
@@ -15472,7 +18037,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/6787feX.jpg",
         "costume_id": 0,
-        "originalIndex": 469
+        "originalIndex": 470
     },
     {
         "name": "霍格火 (Horghall) C1",
@@ -15485,6 +18050,10 @@ window.allHeroes =
         "types": [
             "攻击所有目标",
             "全体攻击降低"
+        ],
+        "skill_types": [
+            "全体攻击 (打5)",
+            "攻击减益"
         ],
         "source": "S1-经典",
         "Release date": "2020-01-01",
@@ -15501,7 +18070,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/AffGFoZ.jpg",
         "costume_id": 1,
-        "originalIndex": 470
+        "originalIndex": 471
     },
     {
         "name": "霍格火 (Horghall) C2",
@@ -15516,6 +18085,12 @@ window.allHeroes =
             "全体攻击降低",
             "全体防御降低",
             "全体持续伤害"
+        ],
+        "skill_types": [
+            "全体攻击 (打5)",
+            "攻击减益",
+            "防御减益",
+            "持续伤害"
         ],
         "source": "S1-经典",
         "Release date": "2022-10-31",
@@ -15534,7 +18109,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/IfQ1lHo.jpg",
         "costume_id": 2,
-        "originalIndex": 471
+        "originalIndex": 472
     },
     {
         "name": "霍格火 (Horghall) 卡通",
@@ -15547,6 +18122,11 @@ window.allHeroes =
         "types": [
             "攻击所有目标",
             "攻击降低"
+        ],
+        "skill_types": [
+            "全体攻击 (打5)",
+            "攻击减益",
+            "额外伤害"
         ],
         "source": "S1-经典",
         "Release date": "2024-07-16",
@@ -15566,7 +18146,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/VkOyyRt.jpg",
         "costume_id": 3,
-        "originalIndex": 472
+        "originalIndex": 473
     },
     {
         "name": "亨伯特 (Humbert)",
@@ -15580,6 +18160,12 @@ window.allHeroes =
             "攻击所有目标",
             "全体生命值加成",
             "防御增益"
+        ],
+        "skill_types": [
+            "全体攻击 (打5)",
+            "特殊治疗",
+            "防御增益",
+            "生命强化"
         ],
         "source": "联盟-骑士冲击",
         "Release date": "2024-06-05",
@@ -15599,7 +18185,7 @@ window.allHeroes =
         "family": "bear",
         "image": "https://i.imgur.com/wk8es22.jpg",
         "costume_id": 0,
-        "originalIndex": 473
+        "originalIndex": 474
     },
     {
         "name": "伊古·杜尔索 (Iku-Turso)",
@@ -15613,6 +18199,12 @@ window.allHeroes =
             "攻击3个目标",
             "3个目标持续伤害",
             "治疗偷取"
+        ],
+        "skill_types": [
+            "范围攻击 (打3)",
+            "持续伤害",
+            "特殊治疗",
+            "治疗削减"
         ],
         "source": "月活动-卡勒瓦拉",
         "Release date": "2022-06-20",
@@ -15632,7 +18224,7 @@ window.allHeroes =
         "family": "kalevala",
         "image": "https://i.imgur.com/wOeJMxg.jpg",
         "costume_id": 0,
-        "originalIndex": 474
+        "originalIndex": 475
     },
     {
         "name": "伊藤 (Ito)",
@@ -15646,6 +18238,15 @@ window.allHeroes =
             "攻击 (1/3/5) 个目标",
             "全体生命值加成",
             "法力生成降低"
+        ],
+        "skill_types": [
+            "狙击手",
+            "范围攻击 (打3)",
+            "全体攻击 (打5)",
+            "特殊治疗",
+            "法力削减或格挡",
+            "生命强化",
+            "反制小兵"
         ],
         "source": "高塔-忍者",
         "Release date": "2024-12-05",
@@ -15675,7 +18276,7 @@ window.allHeroes =
         "family": "ninja",
         "image": "https://i.imgur.com/TBhE7C4.jpg",
         "costume_id": 0,
-        "originalIndex": 475
+        "originalIndex": 476
     },
     {
         "name": "碧玉 (Jade)",
@@ -15690,6 +18291,11 @@ window.allHeroes =
             "攻击所有目标",
             "法力削减",
             "闪避增益"
+        ],
+        "skill_types": [
+            "闪避",
+            "法力削减或格挡",
+            "全体攻击 (打5)"
         ],
         "source": "高塔-忍者",
         "Release date": "2020-10-13",
@@ -15716,7 +18322,7 @@ window.allHeroes =
         "family": "ninja",
         "image": "https://i.imgur.com/tVOg6Mz.jpg",
         "costume_id": 0,
-        "originalIndex": 476
+        "originalIndex": 477
     },
     {
         "name": "卡迪雷恩 (Kadilen)",
@@ -15729,6 +18335,10 @@ window.allHeroes =
         "types": [
             "攻击所有目标",
             "特殊技能防御增益"
+        ],
+        "skill_types": [
+            "全体攻击 (打5)",
+            "防御增益"
         ],
         "source": "S1-经典",
         "Release date": "2017-01-01",
@@ -15745,7 +18355,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/Gjh3PRB.jpg",
         "costume_id": 0,
-        "originalIndex": 477
+        "originalIndex": 478
     },
     {
         "name": "卡迪雷恩 (Kadilen) C1",
@@ -15758,6 +18368,11 @@ window.allHeroes =
         "types": [
             "攻击所有目标",
             "小兵闪避增益"
+        ],
+        "skill_types": [
+            "全体攻击 (打5)",
+            "闪避",
+            "召唤小兵"
         ],
         "source": "S1-经典",
         "Release date": "2020-05-18",
@@ -15775,7 +18390,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/N7LZ2EP.jpg",
         "costume_id": 1,
-        "originalIndex": 478
+        "originalIndex": 479
     },
     {
         "name": "卡迪雷恩 (Kadilen) C2",
@@ -15788,6 +18403,11 @@ window.allHeroes =
         "types": [
             "攻击所有目标",
             "小兵闪避增益"
+        ],
+        "skill_types": [
+            "闪避",
+            "召唤小兵",
+            "全体攻击 (打5)"
         ],
         "source": "S1-经典",
         "Release date": "2023-04-17",
@@ -15805,7 +18425,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/hEckaC5.jpg",
         "costume_id": 2,
-        "originalIndex": 479
+        "originalIndex": 480
     },
     {
         "name": "卡迪雷恩 (Kadilen) 卡通",
@@ -15818,6 +18438,11 @@ window.allHeroes =
         "types": [
             "攻击所有目标",
             "特殊技能防御增益"
+        ],
+        "skill_types": [
+            "全体攻击 (打5)",
+            "防御增益",
+            "额外伤害"
         ],
         "source": "S1-经典",
         "Release date": "2024-10-06",
@@ -15837,7 +18462,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/I1ETLXX.jpg",
         "costume_id": 3,
-        "originalIndex": 480
+        "originalIndex": 481
     },
     {
         "name": "凯 (Kai)",
@@ -15852,6 +18477,13 @@ window.allHeroes =
             "召唤1个恶魔",
             "单体治疗降低",
             "单体驱散"
+        ],
+        "skill_types": [
+            "驱散",
+            "持续伤害",
+            "召唤恶魔",
+            "狙击手",
+            "治疗削减"
         ],
         "source": "盟约召唤",
         "Release date": "2022-10-15",
@@ -15868,13 +18500,13 @@ window.allHeroes =
             "每回合结束时驱散目标身上的增益效果，持续 3 回合。"
         ],
         "passives": [
-            "特殊技能附带持续伤害：当该角色施放其特殊技能时，会给一个随机敌人施加猎人印记。目标在 150 回合内受到 3 点伤害。如果目标已有此效果，则持续时间刷新，伤害增加 150 点，总伤害最高可达 1500 点。",
+            "特殊技能附带持续伤害：当该角色施放其特殊技能时，会给一个随机敌人施加猎人印记。目标在 3 回合内受到 150 点伤害。如果目标已有此效果，则持续时间刷新，伤害增加 150 点，总伤害最高可达 1500 点。",
             "特殊技能伤害减免：该角色有 10% 的几率将受到的特殊技能直接伤害降至 1 点。"
         ],
         "family": "plainshunter",
         "image": "https://i.imgur.com/D9rMcBZ.jpg",
         "costume_id": 0,
-        "originalIndex": 481
+        "originalIndex": 482
     },
     {
         "name": "金士顿 (Kingston)",
@@ -15887,6 +18519,11 @@ window.allHeroes =
         "types": [
             "攻击单个目标",
             "攻击降低"
+        ],
+        "skill_types": [
+            "攻击减益",
+            "法力生成增益",
+            "狙击手"
         ],
         "source": "月英",
         "Release date": "2019-10-01",
@@ -15906,7 +18543,7 @@ window.allHeroes =
         "family": 2019,
         "image": "https://i.imgur.com/rlpoKXr.jpg",
         "costume_id": 0,
-        "originalIndex": 482
+        "originalIndex": 483
     },
     {
         "name": "柯利亚 (Kolya)",
@@ -15920,6 +18557,13 @@ window.allHeroes =
             "驱散最新增益",
             "攻击所有目标",
             "持盾守卫超级小兵"
+        ],
+        "skill_types": [
+            "驱散",
+            "全体攻击 (打5)",
+            "额外伤害",
+            "召唤巨型小兵",
+            "净化"
         ],
         "source": "哥布林召唤",
         "Release date": "2024-11-24",
@@ -15942,7 +18586,7 @@ window.allHeroes =
         "family": "garrisonguard",
         "image": "https://i.imgur.com/joEtnuS.jpg",
         "costume_id": 0,
-        "originalIndex": 483
+        "originalIndex": 484
     },
     {
         "name": "洛克小姐 (Lady Locke)",
@@ -15955,6 +18599,10 @@ window.allHeroes =
         "types": [
             "3个目标持续伤害",
             "全体净化"
+        ],
+        "skill_types": [
+            "净化",
+            "持续伤害"
         ],
         "source": "挑战节-海盗",
         "Release date": "2017-09-01",
@@ -15971,7 +18619,7 @@ window.allHeroes =
         "family": "corellia",
         "image": "https://i.imgur.com/rSEO0Xi.jpg",
         "costume_id": 0,
-        "originalIndex": 484
+        "originalIndex": 485
     },
     {
         "name": "洛克小姐 (Lady Locke) C1",
@@ -15986,6 +18634,11 @@ window.allHeroes =
             "3个目标持续伤害",
             "全体净化"
         ],
+        "skill_types": [
+            "范围攻击 (打3)",
+            "净化",
+            "持续伤害"
+        ],
         "source": "挑战节-海盗",
         "Release date": "2023-12-28",
         "star": 5,
@@ -15999,12 +18652,12 @@ window.allHeroes =
             "净化所有盟友的状态异常。"
         ],
         "passives": [
-            "特殊技能附带剧毒：当该角色施放其特殊技能时，所有敌人会在 540 回合内受到 4 点剧毒伤害。"
+            "特殊技能附带剧毒：当该角色施放其特殊技能时，所有敌人会在 4 回合内受到 540 点剧毒伤害。"
         ],
         "family": "corellia",
         "image": "https://i.imgur.com/mpM0YIf.jpg",
         "costume_id": 1,
-        "originalIndex": 485
+        "originalIndex": 486
     },
     {
         "name": "圣湖女神 (Lady of the Lake)",
@@ -16018,6 +18671,11 @@ window.allHeroes =
             "治疗者",
             "召唤者",
             "法力削减"
+        ],
+        "skill_types": [
+            "治疗",
+            "法力削减或格挡",
+            "召唤小兵"
         ],
         "source": "挑战节-阿瓦隆",
         "Release date": "2017-01-01",
@@ -16035,7 +18693,7 @@ window.allHeroes =
         "family": "avalon",
         "image": "https://i.imgur.com/hlRFlMx.jpg",
         "costume_id": 0,
-        "originalIndex": 486
+        "originalIndex": 487
     },
     {
         "name": "圣湖女神 (Lady of the Lake) C1",
@@ -16048,6 +18706,11 @@ window.allHeroes =
         "types": [
             "生命值加成",
             "召唤者"
+        ],
+        "skill_types": [
+            "生命强化",
+            "法力削减或格挡",
+            "召唤小兵"
         ],
         "source": "挑战节-阿瓦隆",
         "Release date": "2021-12-15",
@@ -16066,7 +18729,7 @@ window.allHeroes =
         "family": "avalon",
         "image": "https://i.imgur.com/T9XV0yp.jpg",
         "costume_id": 1,
-        "originalIndex": 487
+        "originalIndex": 488
     },
     {
         "name": "丽德里娅 (Leadria)",
@@ -16078,6 +18741,11 @@ window.allHeroes =
         "skill": "春日英灵",
         "types": [
             "召唤者"
+        ],
+        "skill_types": [
+            "攻击增益",
+            "生命强化",
+            "召唤小兵"
         ],
         "source": "月英",
         "Release date": "2023-12-01",
@@ -16099,7 +18767,7 @@ window.allHeroes =
         "family": 2023,
         "image": "https://i.imgur.com/YdTKSoW.jpg",
         "costume_id": 0,
-        "originalIndex": 488
+        "originalIndex": 489
     },
     {
         "name": "叶拂 (Leafwhisk)",
@@ -16112,6 +18780,11 @@ window.allHeroes =
         "types": [
             "成长防御",
             "超级小兵"
+        ],
+        "skill_types": [
+            "属性修改",
+            "提供免疫",
+            "召唤巨型小兵"
         ],
         "source": "哥布林召唤",
         "Release date": "2023-12-11",
@@ -16133,7 +18806,7 @@ window.allHeroes =
         "family": "goblin",
         "image": "https://i.imgur.com/Y6zioBg.jpg",
         "costume_id": 0,
-        "originalIndex": 489
+        "originalIndex": 490
     },
     {
         "name": "雷奥妮 (Leonie)",
@@ -16146,6 +18819,12 @@ window.allHeroes =
         "types": [
             "攻击3个目标",
             "3个目标持续伤害"
+        ],
+        "skill_types": [
+            "范围攻击 (打3)",
+            "持续伤害",
+            "防御减益",
+            "复活"
         ],
         "source": "生日召唤",
         "Release date": "2025-03-17",
@@ -16172,7 +18851,7 @@ window.allHeroes =
         "family": "wildcat",
         "image": "https://i.imgur.com/nW3onBB.jpg",
         "costume_id": 0,
-        "originalIndex": 490
+        "originalIndex": 491
     },
     {
         "name": "丽阿娜 (Lianna)",
@@ -16184,6 +18863,9 @@ window.allHeroes =
         "skill": "完美一击",
         "types": [
             "攻击单个目标"
+        ],
+        "skill_types": [
+            "狙击手"
         ],
         "source": "S1-经典",
         "Release date": "2017-01-01",
@@ -16199,7 +18881,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/uJj6MQb.jpg",
         "costume_id": 0,
-        "originalIndex": 491
+        "originalIndex": 492
     },
     {
         "name": "丽阿娜 (Lianna) C1",
@@ -16212,6 +18894,10 @@ window.allHeroes =
         "types": [
             "攻击单个目标",
             "法力生成降低"
+        ],
+        "skill_types": [
+            "法力削减或格挡",
+            "狙击手"
         ],
         "source": "S1-经典",
         "Release date": "2020-01-01",
@@ -16228,7 +18914,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/ieaiSor.jpg",
         "costume_id": 1,
-        "originalIndex": 492
+        "originalIndex": 493
     },
     {
         "name": "丽阿娜 (Lianna) C2",
@@ -16241,6 +18927,10 @@ window.allHeroes =
         "types": [
             "攻击单个目标",
             "沉默者"
+        ],
+        "skill_types": [
+            "沉默",
+            "狙击手"
         ],
         "source": "S1-经典",
         "Release date": "2023-04-17",
@@ -16257,7 +18947,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/UwDUNi0.jpg",
         "costume_id": 2,
-        "originalIndex": 493
+        "originalIndex": 494
     },
     {
         "name": "丽阿娜 (Lianna) 卡通",
@@ -16269,6 +18959,10 @@ window.allHeroes =
         "skill": "卡通射击",
         "types": [
             "攻击单个目标"
+        ],
+        "skill_types": [
+            "额外伤害",
+            "狙击手"
         ],
         "source": "S1-经典",
         "Release date": "2024-02-12",
@@ -16287,7 +18981,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/yEECSzl.jpg",
         "costume_id": 3,
-        "originalIndex": 494
+        "originalIndex": 495
     },
     {
         "name": "丽阿娜 (Lianna) 玻璃",
@@ -16300,6 +18994,10 @@ window.allHeroes =
         "types": [
             "攻击单个目标",
             "无视防御"
+        ],
+        "skill_types": [
+            "绕过",
+            "狙击手"
         ],
         "source": "S1-经典",
         "Release date": "2025-05-10",
@@ -16318,7 +19016,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://imgur.com/Ad7sIug.jpg",
         "costume_id": 4,
-        "originalIndex": 495
+        "originalIndex": 496
     },
     {
         "name": "莱姆博尔 (Limeboire)",
@@ -16333,6 +19031,14 @@ window.allHeroes =
             "全体深度睡眠",
             "偷取1个增益",
             "自我法力提升"
+        ],
+        "skill_types": [
+            "全体攻击 (打5)",
+            "增益窃取者",
+            "沉睡",
+            "法力提升",
+            "闪避",
+            "反制小兵"
         ],
         "source": "联盟-飞蛾",
         "Release date": "2025-06-02",
@@ -16353,7 +19059,7 @@ window.allHeroes =
         "family": "moth",
         "image": "https://imgur.com/OeIVrwK.jpg",
         "costume_id": 0,
-        "originalIndex": 496
+        "originalIndex": 497
     },
     {
         "name": "刘备 (Liu Bei)",
@@ -16367,6 +19073,11 @@ window.allHeroes =
             "攻击3个目标",
             "召唤者",
             "小兵反击"
+        ],
+        "skill_types": [
+            "范围攻击 (打3)",
+            "反击",
+            "召唤小兵"
         ],
         "source": "三国召唤",
         "Release date": "2022-05-23T12:00:00",
@@ -16384,7 +19095,7 @@ window.allHeroes =
         "family": "kingdom",
         "image": "https://i.imgur.com/Uq8cKe7.jpg",
         "costume_id": 0,
-        "originalIndex": 497
+        "originalIndex": 498
     },
     {
         "name": "刘备 (Liu Bei) C1",
@@ -16398,6 +19109,11 @@ window.allHeroes =
             "攻击3个目标",
             "召唤者",
             "小兵反击"
+        ],
+        "skill_types": [
+            "范围攻击 (打3)",
+            "召唤小兵",
+            "反击"
         ],
         "source": "三国召唤",
         "Release date": "2025-01-29",
@@ -16420,7 +19136,7 @@ window.allHeroes =
         "family": "kingdom",
         "image": "https://i.imgur.com/rjnMev7.jpg",
         "costume_id": 1,
-        "originalIndex": 498
+        "originalIndex": 499
     },
     {
         "name": "鲁海德 (Lughaidh)",
@@ -16435,6 +19151,14 @@ window.allHeroes =
             "幽灵形态",
             "幽灵形态下4个目标防御增益",
             "幽灵形态下4个目标强化持续治疗"
+        ],
+        "skill_types": [
+            "防御增益",
+            "鬼魂形态与隐藏",
+            "持续治疗",
+            "叠加",
+            "净化",
+            "生命强化"
         ],
         "source": "S4-蛮荒地界",
         "Release date": "2021-11-04",
@@ -16457,7 +19181,7 @@ window.allHeroes =
         "family": "underwild",
         "image": "https://i.imgur.com/RFjr7Fi.jpg",
         "costume_id": 0,
-        "originalIndex": 499
+        "originalIndex": 500
     },
     {
         "name": "鲁海德 (Lughaidh) C1",
@@ -16472,6 +19196,13 @@ window.allHeroes =
             "幽灵形态",
             "幽灵形态下4个目标防御增益",
             "幽灵形态下4个目标强化持续治疗"
+        ],
+        "skill_types": [
+            "防御增益",
+            "鬼魂形态与隐藏",
+            "持续治疗",
+            "净化",
+            "生命强化"
         ],
         "source": "S4-蛮荒地界",
         "Release date": "2024-08-29",
@@ -16494,7 +19225,7 @@ window.allHeroes =
         "family": "underwild",
         "image": "https://i.imgur.com/EAwYCZr.jpg",
         "costume_id": 1,
-        "originalIndex": 500
+        "originalIndex": 501
     },
     {
         "name": "玛阿特 (Ma'at)",
@@ -16507,6 +19238,11 @@ window.allHeroes =
         "types": [
             "攻击所有目标",
             "防御降低"
+        ],
+        "skill_types": [
+            "全体攻击 (打5)",
+            "攻击减益",
+            "防御减益"
         ],
         "source": "S5-沙丘",
         "Release date": "2022-09-29",
@@ -16528,7 +19264,7 @@ window.allHeroes =
         "family": "sun",
         "image": "https://i.imgur.com/Lc6n5Vz.jpg",
         "costume_id": 0,
-        "originalIndex": 501
+        "originalIndex": 502
     },
     {
         "name": "玛阿特 (Ma'at) C1",
@@ -16541,6 +19277,11 @@ window.allHeroes =
         "types": [
             "攻击所有目标",
             "防御降低"
+        ],
+        "skill_types": [
+            "全体攻击 (打5)",
+            "攻击减益",
+            "防御减益"
         ],
         "source": "S5-沙丘",
         "Release date": "2024-02-05",
@@ -16564,7 +19305,7 @@ window.allHeroes =
         "family": "sun",
         "image": "https://i.imgur.com/mjmiIt0.jpg",
         "costume_id": 1,
-        "originalIndex": 502
+        "originalIndex": 503
     },
     {
         "name": "麦戈文 (Maegwyn)",
@@ -16578,6 +19319,11 @@ window.allHeroes =
             "全体治疗",
             "强化持续治疗",
             "全体伤害减免"
+        ],
+        "skill_types": [
+            "治疗",
+            "生命强化",
+            "伤害减免"
         ],
         "source": "星体召唤",
         "Release date": "2025-01-06",
@@ -16599,7 +19345,7 @@ window.allHeroes =
         "family": "astraldwarfs",
         "image": "https://i.imgur.com/ZHoR1Fc.jpg",
         "costume_id": 0,
-        "originalIndex": 503
+        "originalIndex": 504
     },
     {
         "name": "玛格丽特 (Margaret)",
@@ -16612,6 +19358,11 @@ window.allHeroes =
         "types": [
             "攻击3个目标",
             "闪避增益"
+        ],
+        "skill_types": [
+            "范围攻击 (打3)",
+            "闪避",
+            "法力提升"
         ],
         "source": "月英",
         "Release date": "2019-05-01",
@@ -16631,7 +19382,7 @@ window.allHeroes =
         "family": 2019,
         "image": "https://i.imgur.com/3T1uKuW.jpg",
         "costume_id": 0,
-        "originalIndex": 504
+        "originalIndex": 505
     },
     {
         "name": "麦克思 (Max)",
@@ -16644,6 +19395,11 @@ window.allHeroes =
         "types": [
             "全体治疗",
             "召唤者"
+        ],
+        "skill_types": [
+            "伤害减免",
+            "治疗",
+            "召唤小兵"
         ],
         "source": "联盟-超能萌宠",
         "Release date": "2022-11-03",
@@ -16664,7 +19420,7 @@ window.allHeroes =
         "family": "pets",
         "image": "https://i.imgur.com/V0qUVNH.jpg",
         "costume_id": 0,
-        "originalIndex": 505
+        "originalIndex": 506
     },
     {
         "name": "马佐加 (Mazoga)",
@@ -16677,6 +19433,12 @@ window.allHeroes =
         "types": [
             "攻击3个目标",
             "防御降低"
+        ],
+        "skill_types": [
+            "范围攻击 (打3)",
+            "防御减益",
+            "额外伤害",
+            "持续伤害"
         ],
         "source": "月活动-海滩派对",
         "Release date": "2024-06-03",
@@ -16692,12 +19454,12 @@ window.allHeroes =
         ],
         "passives": [
             "抵抗水系伤害：该角色天生对水系伤害有抵抗能力。",
-            "特殊技能附带持续伤害：当该角色施放其特殊技能时，所有敌人会在 254 回合内受到 2 点水系伤害。"
+            "特殊技能附带持续伤害：当该角色施放其特殊技能时，所有敌人会在 2 回合内受到 254 点水系伤害。"
         ],
         "family": "beachparty",
         "image": "https://i.imgur.com/1FUEzbL.jpg",
         "costume_id": 0,
-        "originalIndex": 506
+        "originalIndex": 507
     },
     {
         "name": "米纳 (Mena)",
@@ -16710,6 +19472,13 @@ window.allHeroes =
         "types": [
             "攻击3个目标",
             "绒毛齐射"
+        ],
+        "skill_types": [
+            "连锁与随机攻击",
+            "法力削减或格挡",
+            "伤害减免",
+            "提供免疫",
+            "范围攻击 (打3)"
         ],
         "source": "挑战-重返圣堂",
         "Release date": "2024-05-16",
@@ -16730,7 +19499,7 @@ window.allHeroes =
         "family": "gargoyle",
         "image": "https://i.imgur.com/y4ORfSh.jpg",
         "costume_id": 0,
-        "originalIndex": 507
+        "originalIndex": 508
     },
     {
         "name": "布雾者 (Mistweaver)",
@@ -16743,6 +19512,13 @@ window.allHeroes =
         "types": [
             "攻击3个目标",
             "治疗免疫"
+        ],
+        "skill_types": [
+            "范围攻击 (打3)",
+            "攻击增益",
+            "治疗削减",
+            "叠加",
+            "持续伤害"
         ],
         "source": "盟约召唤",
         "Release date": "2023-03-03",
@@ -16757,13 +19533,13 @@ window.allHeroes =
             "叠加（最多 10 层）：施法者对所克制元素的攻击力提高 +15%。"
         ],
         "passives": [
-            "特殊技能附带持续伤害：当该角色施放其特殊技能时，会给一个随机敌人施加猎人印记。目标在 150 回合内受到 3 点伤害。如果目标已有此效果，则持续时间刷新，伤害增加 150 点，总伤害最高可达 1500 点。",
+            "特殊技能附带持续伤害：当该角色施放其特殊技能时，会给一个随机敌人施加猎人印记。目标在 3 回合内受到 150 点伤害。如果目标已有此效果，则持续时间刷新，伤害增加 150 点，总伤害最高可达 1500 点。",
             "猎人之毅：当该角色施放其特殊技能时，获得 +20% 的攻击力，持续 3 回合。此效果可与其他改变攻击力的效果并存。"
         ],
         "family": "junglehunter",
         "image": "https://i.imgur.com/F4ide5S.jpg",
         "costume_id": 0,
-        "originalIndex": 508
+        "originalIndex": 509
     },
     {
         "name": "月之花 (Moonflower)",
@@ -16776,6 +19552,11 @@ window.allHeroes =
         "types": [
             "攻击所有目标",
             "法力生成增益"
+        ],
+        "skill_types": [
+            "全体攻击 (打5)",
+            "法力生成增益",
+            "伤害分摊"
         ],
         "source": "星体召唤",
         "Release date": "2024-03-07",
@@ -16795,7 +19576,7 @@ window.allHeroes =
         "family": "astralelves",
         "image": "https://i.imgur.com/0xgP0mx.jpg",
         "costume_id": 0,
-        "originalIndex": 509
+        "originalIndex": 510
     },
     {
         "name": "摩根勒菲 (Morgan Le Fay)",
@@ -16807,6 +19588,10 @@ window.allHeroes =
         "skill": "火力吞噬者",
         "types": [
             "生命吸取"
+        ],
+        "skill_types": [
+            "防御增益",
+            "持续伤害"
         ],
         "source": "挑战节-阿瓦隆",
         "Release date": "2017-01-01",
@@ -16823,7 +19608,7 @@ window.allHeroes =
         "family": "avalon",
         "image": "https://i.imgur.com/JIPoRD4.jpg",
         "costume_id": 0,
-        "originalIndex": 510
+        "originalIndex": 511
     },
     {
         "name": "北方之母 (Mother North)",
@@ -16837,6 +19622,11 @@ window.allHeroes =
             "治疗者",
             "复活者",
             "召唤者"
+        ],
+        "skill_types": [
+            "治疗",
+            "召唤小兵",
+            "复活"
         ],
         "source": "月活动-冬日",
         "Release date": "2017-01-01",
@@ -16854,7 +19644,7 @@ window.allHeroes =
         "family": "christmas",
         "image": "https://i.imgur.com/463IXXp.jpg",
         "costume_id": 0,
-        "originalIndex": 511
+        "originalIndex": 512
     },
     {
         "name": "北方之母 (Mother North) C1",
@@ -16868,6 +19658,11 @@ window.allHeroes =
             "复活者",
             "召唤者",
             "全体持续治疗"
+        ],
+        "skill_types": [
+            "持续治疗",
+            "召唤小兵",
+            "复活"
         ],
         "source": "月活动-冬日",
         "Release date": "2021-12-01",
@@ -16885,7 +19680,7 @@ window.allHeroes =
         "family": "christmas",
         "image": "https://i.imgur.com/0QsTiw8.jpg",
         "costume_id": 1,
-        "originalIndex": 512
+        "originalIndex": 513
     },
     {
         "name": "马克特司 (Mucktus)",
@@ -16899,6 +19694,12 @@ window.allHeroes =
             "攻击所有目标",
             "召唤所有史莱姆恶魔",
             "偷取增益恶魔"
+        ],
+        "skill_types": [
+            "全体攻击 (打5)",
+            "增益窃取者",
+            "召唤恶魔",
+            "持续伤害"
         ],
         "source": "超级元素人",
         "Release date": "2024-10-02",
@@ -16920,7 +19721,7 @@ window.allHeroes =
         "family": "slime",
         "image": "https://i.imgur.com/eKwzh2k.jpg",
         "costume_id": 0,
-        "originalIndex": 513
+        "originalIndex": 514
     },
     {
         "name": "妙印尼 (Myoin-ni)",
@@ -16934,6 +19735,11 @@ window.allHeroes =
             "治疗者",
             "法力生成增益",
             "防御增益"
+        ],
+        "skill_types": [
+            "防御增益",
+            "生命强化",
+            "法力生成增益"
         ],
         "source": "高塔-忍者",
         "Release date": "2023-04-05",
@@ -16961,7 +19767,7 @@ window.allHeroes =
         "family": "ninja",
         "image": "https://i.imgur.com/tXk6QNw.jpg",
         "costume_id": 0,
-        "originalIndex": 514
+        "originalIndex": 515
     },
     {
         "name": "米斯蒂亚 (Mystia)",
@@ -16976,6 +19782,11 @@ window.allHeroes =
             "全体防御降低",
             "全体元素反射",
             "全体元素反击"
+        ],
+        "skill_types": [
+            "伤害分摊",
+            "防御减益",
+            "反射"
         ],
         "source": "月英",
         "Release date": "2025-02-01",
@@ -16997,7 +19808,7 @@ window.allHeroes =
         "family": 2025,
         "image": "https://i.imgur.com/igntudt.jpg",
         "costume_id": 0,
-        "originalIndex": 515
+        "originalIndex": 516
     },
     {
         "name": "诺古 (Nogu)",
@@ -17011,6 +19822,10 @@ window.allHeroes =
             "攻击3个目标",
             "持续伤害",
             "生命值加成转换"
+        ],
+        "skill_types": [
+            "范围攻击 (打3)",
+            "最大生命削减"
         ],
         "source": "神话召唤",
         "Release date": "2024-02-09",
@@ -17032,7 +19847,7 @@ window.allHeroes =
         "family": "champions",
         "image": "https://i.imgur.com/CtidFGk.jpg",
         "costume_id": 0,
-        "originalIndex": 516
+        "originalIndex": 517
     },
     {
         "name": "奥特 (Ott)",
@@ -17046,6 +19861,14 @@ window.allHeroes =
             "全体生命值加成",
             "焰暴守卫",
             "增益驱散免疫"
+        ],
+        "skill_types": [
+            "生命强化",
+            "提供免疫",
+            "反制小兵",
+            "伤害减免",
+            "持续伤害",
+            "防御减益"
         ],
         "source": "S6-S7-秘闻",
         "Release date": "2024-12-03",
@@ -17069,7 +19892,7 @@ window.allHeroes =
         "family": "nidavellir",
         "image": "https://i.imgur.com/XIyQFXu.jpg",
         "costume_id": 0,
-        "originalIndex": 517
+        "originalIndex": 518
     },
     {
         "name": "珀涅罗珀 (Penelope)",
@@ -17084,6 +19907,12 @@ window.allHeroes =
             "治疗者",
             "闪避增益",
             "狂乱"
+        ],
+        "skill_types": [
+            "全体攻击 (打5)",
+            "特殊治疗",
+            "闪避",
+            "对自身或友军负面效果"
         ],
         "source": "神秘-暗影",
         "Release date": "2025-02-06",
@@ -17102,7 +19931,7 @@ window.allHeroes =
         "family": "investigator",
         "image": "https://i.imgur.com/mxewGNK.jpg",
         "costume_id": 0,
-        "originalIndex": 518
+        "originalIndex": 519
     },
     {
         "name": "裴雷格林 (Peregrine)",
@@ -17117,7 +19946,13 @@ window.allHeroes =
             "3个目标强化闪避",
             "3个目标延迟攻击增益"
         ],
-        "source": "S4-荒野",
+        "skill_types": [
+            "范围攻击 (打3)",
+            "闪避",
+            "攻击增益",
+            "反制小兵"
+        ],
+        "source": "荒野召唤",
         "Release date": "2024-08-31",
         "star": 5,
         "power": 1137,
@@ -17136,7 +19971,7 @@ window.allHeroes =
         "family": "woodlandfaun",
         "image": "https://i.imgur.com/1bOrH83.jpg",
         "costume_id": 0,
-        "originalIndex": 519
+        "originalIndex": 520
     },
     {
         "name": "珮绿朵 (Peridot)",
@@ -17150,6 +19985,13 @@ window.allHeroes =
             "攻击",
             "持续伤害",
             "命中降低"
+        ],
+        "skill_types": [
+            "范围攻击 (打3)",
+            "全体攻击 (打5)",
+            "攻击减益",
+            "持续伤害",
+            "狙击手"
         ],
         "source": "高塔-忍者",
         "Release date": "2022-02-02",
@@ -17177,7 +20019,7 @@ window.allHeroes =
         "family": "ninja",
         "image": "https://i.imgur.com/E1kxfPE.jpg",
         "costume_id": 0,
-        "originalIndex": 520
+        "originalIndex": 521
     },
     {
         "name": "斐利亚·福格 (Phileas Fogg)",
@@ -17191,6 +20033,11 @@ window.allHeroes =
             "攻击单个目标",
             "元素减益",
             "过于强大"
+        ],
+        "skill_types": [
+            "防御减益",
+            "驱散",
+            "狙击手"
         ],
         "source": "S4-蛮荒地界",
         "Release date": "2021-03-25",
@@ -17210,7 +20057,7 @@ window.allHeroes =
         "family": "underwild",
         "image": "https://i.imgur.com/L3xRyB9.jpg",
         "costume_id": 0,
-        "originalIndex": 521
+        "originalIndex": 522
     },
     {
         "name": "斐利亚·福格 (Phileas Fogg) C1",
@@ -17224,6 +20071,13 @@ window.allHeroes =
             "驱散者",
             "攻击单个目标",
             "元素减益"
+        ],
+        "skill_types": [
+            "防御减益",
+            "驱散",
+            "狙击手",
+            "额外伤害",
+            "攻击增益"
         ],
         "source": "S4-蛮荒地界",
         "Release date": "2023-05-25",
@@ -17244,7 +20098,7 @@ window.allHeroes =
         "family": "underwild",
         "image": "https://i.imgur.com/xWb34BS.jpg",
         "costume_id": 1,
-        "originalIndex": 522
+        "originalIndex": 523
     },
     {
         "name": "皮普 (Pip)",
@@ -17258,6 +20112,12 @@ window.allHeroes =
             "攻击单个目标",
             "随机攻击2个目标",
             "持续伤害"
+        ],
+        "skill_types": [
+            "连锁与随机攻击",
+            "持续伤害",
+            "狙击手",
+            "额外伤害"
         ],
         "source": "哥布林召唤",
         "Release date": "2024-09-01",
@@ -17279,7 +20139,7 @@ window.allHeroes =
         "family": "garrisonguard",
         "image": "https://i.imgur.com/ExQF65A.jpg",
         "costume_id": 0,
-        "originalIndex": 523
+        "originalIndex": 524
     },
     {
         "name": "齐格弗里德王子 (Prince Siegfried)",
@@ -17295,6 +20155,12 @@ window.allHeroes =
             "反击",
             "伤害减免者",
             "状态效果免疫"
+        ],
+        "skill_types": [
+            "反击",
+            "伤害减免",
+            "舞者",
+            "复活"
         ],
         "source": "至日召唤",
         "Release date": "2024-01-25",
@@ -17319,7 +20185,7 @@ window.allHeroes =
         "family": "opera",
         "image": "https://i.imgur.com/WwCBlh0.jpg",
         "costume_id": 0,
-        "originalIndex": 524
+        "originalIndex": 525
     },
     {
         "name": "青龙 (Qinglong)",
@@ -17333,6 +20199,12 @@ window.allHeroes =
             "攻击所有目标",
             "偷取1个增益",
             "攻击增益"
+        ],
+        "skill_types": [
+            "全体攻击 (打5)",
+            "增益窃取者",
+            "攻击增益",
+            "反制小兵"
         ],
         "source": "月活动-农历生肖",
         "Release date": "2024-02-08",
@@ -17352,7 +20224,7 @@ window.allHeroes =
         "family": "lunaryear",
         "image": "https://i.imgur.com/PjBP5aw.jpg",
         "costume_id": 0,
-        "originalIndex": 525
+        "originalIndex": 526
     },
     {
         "name": "安娜王后 (Queen Anne)",
@@ -17367,6 +20239,12 @@ window.allHeroes =
             "自我持续治疗",
             "全体防御增益",
             "全体法力生成增益"
+        ],
+        "skill_types": [
+            "防御增益",
+            "持续治疗",
+            "法力生成增益",
+            "嘲讽"
         ],
         "source": "联盟-火枪手",
         "Release date": "2022-12-14",
@@ -17387,7 +20265,7 @@ window.allHeroes =
         "family": "musketeer",
         "image": "https://i.imgur.com/BoTIbhq.jpg",
         "costume_id": 0,
-        "originalIndex": 526
+        "originalIndex": 527
     },
     {
         "name": "奎奈尔 (Quenell)",
@@ -17401,6 +20279,11 @@ window.allHeroes =
             "攻击3个目标",
             "自我力量提升",
             "自我持续治疗"
+        ],
+        "skill_types": [
+            "范围攻击 (打3)",
+            "攻击增益",
+            "持续治疗"
         ],
         "source": "联盟-骑士冲击",
         "Release date": "2021-10-13",
@@ -17418,7 +20301,7 @@ window.allHeroes =
         "family": "wolf",
         "image": "https://i.imgur.com/iWwRJlT.jpg",
         "costume_id": 0,
-        "originalIndex": 527
+        "originalIndex": 528
     },
     {
         "name": "奎奈尔 (Quenell) C1",
@@ -17432,6 +20315,11 @@ window.allHeroes =
             "攻击3个目标",
             "自我力量提升",
             "自我持续治疗"
+        ],
+        "skill_types": [
+            "范围攻击 (打3)",
+            "攻击增益",
+            "持续治疗"
         ],
         "source": "联盟-骑士冲击",
         "Release date": "2024-12-17",
@@ -17453,7 +20341,7 @@ window.allHeroes =
         "family": "wolf",
         "image": "https://i.imgur.com/vtZxZ4o.jpg",
         "costume_id": 1,
-        "originalIndex": 528
+        "originalIndex": 529
     },
     {
         "name": "拉塔托斯克 (Ratatoskr)",
@@ -17466,6 +20354,12 @@ window.allHeroes =
         "types": [
             "治疗者",
             "改变棋盘"
+        ],
+        "skill_types": [
+            "改变面板",
+            "攻击减益",
+            "攻击增益",
+            "治疗"
         ],
         "source": "S3-瓦尔哈拉",
         "Release date": "2020-02-27",
@@ -17482,7 +20376,7 @@ window.allHeroes =
         "family": "alfheim",
         "image": "https://i.imgur.com/IwBPUx4.jpg",
         "costume_id": 0,
-        "originalIndex": 529
+        "originalIndex": 530
     },
     {
         "name": "拉塔托斯克 (Ratatoskr) C1",
@@ -17495,6 +20389,12 @@ window.allHeroes =
         "types": [
             "治疗者",
             "改变棋盘"
+        ],
+        "skill_types": [
+            "改变面板",
+            "攻击减益",
+            "攻击增益",
+            "持续治疗"
         ],
         "source": "S3-瓦尔哈拉",
         "Release date": "2023-09-25",
@@ -17511,7 +20411,7 @@ window.allHeroes =
         "family": "alfheim",
         "image": "https://i.imgur.com/AZRDhg4.jpg",
         "costume_id": 1,
-        "originalIndex": 530
+        "originalIndex": 531
     },
     {
         "name": "雷利乌斯 (Relius)",
@@ -17525,6 +20425,11 @@ window.allHeroes =
             "治疗者",
             "复活者",
             "降低受到的特殊技能伤害"
+        ],
+        "skill_types": [
+            "伤害减免",
+            "治疗",
+            "复活"
         ],
         "source": "高塔-猫头鹰",
         "Release date": "2023-12-20",
@@ -17544,7 +20449,7 @@ window.allHeroes =
         "family": "owl",
         "image": "https://i.imgur.com/6ngbYLA.jpg",
         "costume_id": 0,
-        "originalIndex": 531
+        "originalIndex": 532
     },
     {
         "name": "莱茵辉光 (Rhineglow)",
@@ -17558,6 +20463,12 @@ window.allHeroes =
             "嘲讽",
             "全体持续治疗",
             "储存伤害"
+        ],
+        "skill_types": [
+            "持续治疗",
+            "嘲讽",
+            "生命强化",
+            "全体攻击 (打5)"
         ],
         "source": "盟约召唤",
         "Release date": "2024-06-06",
@@ -17580,7 +20491,7 @@ window.allHeroes =
         "family": "construct",
         "image": "https://i.imgur.com/SQkVr8H.jpg",
         "costume_id": 0,
-        "originalIndex": 532
+        "originalIndex": 533
     },
     {
         "name": "罗兹 (Roz)",
@@ -17592,6 +20503,11 @@ window.allHeroes =
         "skill": "元素灌注之箭",
         "types": [
             "攻击 (1/3/所有) 目标"
+        ],
+        "skill_types": [
+            "范围攻击 (打3)",
+            "全体攻击 (打5)",
+            "狙击手"
         ],
         "source": "超级元素人",
         "Release date": "2022-12-05",
@@ -17615,7 +20531,7 @@ window.allHeroes =
         "family": "superelemental",
         "image": "https://i.imgur.com/5xvOFq1.jpg",
         "costume_id": 0,
-        "originalIndex": 533
+        "originalIndex": 534
     },
     {
         "name": "萨迪 (Sadie)",
@@ -17631,6 +20547,13 @@ window.allHeroes =
             "单体特殊技能防御降低",
             "单体阻止净化",
             "单体最大生命值降低"
+        ],
+        "skill_types": [
+            "狙击手",
+            "沉默",
+            "防御减益",
+            "净化格挡者",
+            "对自身或友军负面效果"
         ],
         "source": "月活动-春谷",
         "Release date": "2025-03-31",
@@ -17650,7 +20573,7 @@ window.allHeroes =
         "family": "springvale",
         "image": "https://imgur.com/p0UA9id.jpg",
         "costume_id": 0,
-        "originalIndex": 534
+        "originalIndex": 535
     },
     {
         "name": "沙悟净 (Sha Wujing)",
@@ -17664,6 +20587,11 @@ window.allHeroes =
             "攻击单个目标",
             "治疗者",
             "闪避增益"
+        ],
+        "skill_types": [
+            "闪避",
+            "特殊治疗",
+            "狙击手"
         ],
         "source": "三国召唤",
         "Release date": "2023-08-14",
@@ -17684,7 +20612,7 @@ window.allHeroes =
         "family": "journey",
         "image": "https://i.imgur.com/zNMCJKX.jpg",
         "costume_id": 0,
-        "originalIndex": 535
+        "originalIndex": 536
     },
     {
         "name": "西尔瓦丽亚 (Silvaria)",
@@ -17698,6 +20626,11 @@ window.allHeroes =
             "防御降低",
             "攻击单个目标",
             "召唤者"
+        ],
+        "skill_types": [
+            "防御减益",
+            "召唤小兵",
+            "狙击手"
         ],
         "source": "月英",
         "Release date": "2022-04-01",
@@ -17719,7 +20652,7 @@ window.allHeroes =
         "family": 2022,
         "image": "https://i.imgur.com/bmUsK1J.jpg",
         "costume_id": 0,
-        "originalIndex": 536
+        "originalIndex": 537
     },
     {
         "name": "巧舌妇 (Smarttongue)",
@@ -17733,6 +20666,11 @@ window.allHeroes =
             "衰退攻击降低",
             "最大生命值降低",
             "防御降低"
+        ],
+        "skill_types": [
+            "属性修改",
+            "防御减益",
+            "最大生命削减"
         ],
         "source": "哥布林召唤",
         "Release date": "2023-09-18",
@@ -17754,7 +20692,7 @@ window.allHeroes =
         "family": "goblin",
         "image": "https://i.imgur.com/reMeS9l.jpg",
         "costume_id": 0,
-        "originalIndex": 537
+        "originalIndex": 538
     },
     {
         "name": "雪球 (Snowball)",
@@ -17768,6 +20706,12 @@ window.allHeroes =
             "攻击3个目标",
             "召唤3个恶魔",
             "增伤恶魔"
+        ],
+        "skill_types": [
+            "范围攻击 (打3)",
+            "额外伤害",
+            "召唤恶魔",
+            "持续伤害"
         ],
         "source": "联盟-超能萌宠",
         "Release date": "2023-05-18",
@@ -17789,7 +20733,7 @@ window.allHeroes =
         "family": "pets",
         "image": "https://i.imgur.com/kEMlZAo.jpg",
         "costume_id": 0,
-        "originalIndex": 538
+        "originalIndex": 539
     },
     {
         "name": "斯帕托依 (Spartoi)",
@@ -17802,6 +20746,11 @@ window.allHeroes =
         "types": [
             "攻击所有目标",
             "召唤所有恶魔"
+        ],
+        "skill_types": [
+            "全体攻击 (打5)",
+            "召唤恶魔",
+            "持续伤害"
         ],
         "source": "S6-S7-秘闻",
         "Release date": "2024-02-01",
@@ -17830,7 +20779,7 @@ window.allHeroes =
         "family": "nightmaresofatlantis",
         "image": "https://i.imgur.com/OJh8GR8.jpg",
         "costume_id": 0,
-        "originalIndex": 539
+        "originalIndex": 540
     },
     {
         "name": "斯帕托依 (Spartoi) C1",
@@ -17843,6 +20792,11 @@ window.allHeroes =
         "types": [
             "攻击所有目标",
             "召唤所有恶魔"
+        ],
+        "skill_types": [
+            "全体攻击 (打5)",
+            "召唤恶魔",
+            "持续伤害"
         ],
         "source": "S6-S7-秘闻",
         "Release date": "2025-02-03",
@@ -17872,7 +20826,7 @@ window.allHeroes =
         "family": "nightmaresofatlantis",
         "image": "https://i.imgur.com/uRq8uoY.jpg",
         "costume_id": 1,
-        "originalIndex": 540
+        "originalIndex": 541
     },
     {
         "name": "斯皮夫 (Spiff)",
@@ -17886,6 +20840,11 @@ window.allHeroes =
             "持续无视防御",
             "攻击单个目标",
             "持续闪避"
+        ],
+        "skill_types": [
+            "绕过",
+            "狙击手",
+            "闪避"
         ],
         "source": "盟约召唤",
         "Release date": "2024-11-18",
@@ -17905,7 +20864,7 @@ window.allHeroes =
         "family": "fox",
         "image": "https://i.imgur.com/XnfQKGA.jpg",
         "costume_id": 0,
-        "originalIndex": 541
+        "originalIndex": 542
     },
     {
         "name": "斯特因堂 (Staintongue)",
@@ -17919,6 +20878,12 @@ window.allHeroes =
             "攻击3个目标",
             "致盲",
             "持续伤害"
+        ],
+        "skill_types": [
+            "范围攻击 (打3)",
+            "攻击减益",
+            "持续伤害",
+            "净化"
         ],
         "source": "盟约召唤",
         "Release date": "2023-02-09",
@@ -17939,7 +20904,7 @@ window.allHeroes =
         "family": "abysshunter",
         "image": "https://i.imgur.com/obJIXMO.jpg",
         "costume_id": 0,
-        "originalIndex": 542
+        "originalIndex": 543
     },
     {
         "name": "星瞳 (Starlass)",
@@ -17952,6 +20917,12 @@ window.allHeroes =
         "types": [
             "攻击3个目标",
             "莽夫乱拳"
+        ],
+        "skill_types": [
+            "法力削减或格挡",
+            "绕过",
+            "范围攻击 (打3)",
+            "伤害分摊"
         ],
         "source": "星体召唤",
         "Release date": "2024-06-12",
@@ -17972,7 +20943,7 @@ window.allHeroes =
         "family": "astralelves",
         "image": "https://i.imgur.com/VtRf87E.jpg",
         "costume_id": 0,
-        "originalIndex": 543
+        "originalIndex": 544
     },
     {
         "name": "苏涅 (Sune)",
@@ -17986,6 +20957,13 @@ window.allHeroes =
             "攻击单个目标",
             "驱散3个目标",
             "3个目标法力削减"
+        ],
+        "skill_types": [
+            "驱散",
+            "额外伤害",
+            "狙击手",
+            "范围攻击 (打3)",
+            "法力削减或格挡"
         ],
         "source": "盟约召唤",
         "Release date": "2024-07-21",
@@ -18003,12 +20981,12 @@ window.allHeroes =
         ],
         "passives": [
             "特殊技能伤害减免：该角色有 10% 的几率将受到的特殊技能直接伤害降至 1 点。",
-            "特殊技能附带持续伤害：当该角色施放其特殊技能时，会给一个随机敌人施加猎人印记。目标在 150 回合内受到 3 点伤害。如果目标已有此效果，则持续时间刷新，伤害增加 150 点，总伤害最高可达 1500 点。"
+            "特殊技能附带持续伤害：当该角色施放其特殊技能时，会给一个随机敌人施加猎人印记。目标在 3 回合内受到 150 点伤害。如果目标已有此效果，则持续时间刷新，伤害增加 150 点，总伤害最高可达 1500 点。"
         ],
         "family": "plainshunter",
         "image": "https://i.imgur.com/Uw6kgXB.jpg",
         "costume_id": 0,
-        "originalIndex": 544
+        "originalIndex": 545
     },
     {
         "name": "为朝 (Tametomo)",
@@ -18020,6 +20998,11 @@ window.allHeroes =
         "skill": "分裂射击",
         "types": [
             "攻击3个目标"
+        ],
+        "skill_types": [
+            "范围攻击 (打3)",
+            "额外伤害",
+            "狙击手"
         ],
         "source": "高塔-忍者",
         "Release date": "2023-07-26",
@@ -18050,7 +21033,7 @@ window.allHeroes =
         "family": "ninja",
         "image": "https://i.imgur.com/QuMcU9O.jpg",
         "costume_id": 0,
-        "originalIndex": 545
+        "originalIndex": 546
     },
     {
         "name": "塔拉克 (Tarlak)",
@@ -18062,6 +21045,10 @@ window.allHeroes =
         "skill": "兵将神威",
         "types": [
             "泰坦攻击增益",
+            "持续治疗"
+        ],
+        "skill_types": [
+            "攻击增益",
             "持续治疗"
         ],
         "source": "S2-亚特兰蒂斯",
@@ -18079,7 +21066,7 @@ window.allHeroes =
         "family": "lagoon",
         "image": "https://i.imgur.com/VmIENFl.jpg",
         "costume_id": 0,
-        "originalIndex": 546
+        "originalIndex": 547
     },
     {
         "name": "塔拉克 (Tarlak) C1",
@@ -18092,6 +21079,10 @@ window.allHeroes =
         "types": [
             "生命值加成",
             "泰坦攻击增益"
+        ],
+        "skill_types": [
+            "攻击增益",
+            "生命强化"
         ],
         "source": "S2-亚特兰蒂斯",
         "Release date": "2022-12-12",
@@ -18108,7 +21099,7 @@ window.allHeroes =
         "family": "lagoon",
         "image": "https://i.imgur.com/UPOaKMz.jpg",
         "costume_id": 1,
-        "originalIndex": 547
+        "originalIndex": 548
     },
     {
         "name": "泰迪 (Teddy)",
@@ -18122,6 +21113,13 @@ window.allHeroes =
             "攻击所有目标",
             "沉睡",
             "全体持续治疗"
+        ],
+        "skill_types": [
+            "额外伤害",
+            "持续治疗",
+            "法力削减或格挡",
+            "沉睡",
+            "全体攻击 (打5)"
         ],
         "source": "联盟-骑士冲击",
         "Release date": "2023-10-18",
@@ -18144,7 +21142,7 @@ window.allHeroes =
         "family": "bear",
         "image": "https://i.imgur.com/Aaf3CZX.jpg",
         "costume_id": 0,
-        "originalIndex": 548
+        "originalIndex": 549
     },
     {
         "name": "特鲁利亚 (Telluria)",
@@ -18159,6 +21157,13 @@ window.allHeroes =
             "召唤者",
             "持续治疗",
             "法力生成降低"
+        ],
+        "skill_types": [
+            "全体攻击 (打5)",
+            "攻击增益",
+            "持续治疗",
+            "法力削减或格挡",
+            "召唤小兵"
         ],
         "source": "月英",
         "Release date": "2020-03-01",
@@ -18180,7 +21185,7 @@ window.allHeroes =
         "family": 2020,
         "image": "https://i.imgur.com/xKwfgME.jpg",
         "costume_id": 0,
-        "originalIndex": 549
+        "originalIndex": 550
     },
     {
         "name": "特罗纽斯 (Telonius)",
@@ -18196,6 +21201,14 @@ window.allHeroes =
             "全体持续伤害",
             "治疗3个目标",
             "3个目标异常状态伤害免疫"
+        ],
+        "skill_types": [
+            "持续伤害",
+            "额外伤害",
+            "治疗",
+            "提供免疫",
+            "叠加",
+            "法力削减或格挡"
         ],
         "source": "高塔-魔法",
         "Release date": "2023-05-03",
@@ -18220,7 +21233,7 @@ window.allHeroes =
         "family": "magic",
         "image": "https://i.imgur.com/WMPKV4S.jpg",
         "costume_id": 0,
-        "originalIndex": 550
+        "originalIndex": 551
     },
     {
         "name": "疯帽子 (The Hatter)",
@@ -18233,6 +21246,10 @@ window.allHeroes =
         "types": [
             "攻击3个目标",
             "增益偷取者"
+        ],
+        "skill_types": [
+            "范围攻击 (打3)",
+            "增益窃取者"
         ],
         "source": "挑战节-仙境",
         "Release date": "2019-02-01",
@@ -18249,7 +21266,7 @@ window.allHeroes =
         "family": "wonderland",
         "image": "https://i.imgur.com/Fs3u4wr.jpg",
         "costume_id": 0,
-        "originalIndex": 551
+        "originalIndex": 552
     },
     {
         "name": "疯帽子 (The Hatter) C1",
@@ -18263,6 +21280,11 @@ window.allHeroes =
             "攻击3个目标",
             "增益偷取者",
             "小兵"
+        ],
+        "skill_types": [
+            "范围攻击 (打3)",
+            "增益窃取者",
+            "召唤小兵"
         ],
         "source": "挑战节-仙境",
         "Release date": "2024-04-18",
@@ -18282,7 +21304,7 @@ window.allHeroes =
         "family": "wonderland",
         "image": "https://i.imgur.com/SDtr1yp.jpg",
         "costume_id": 1,
-        "originalIndex": 552
+        "originalIndex": 553
     },
     {
         "name": "狄奥多西 (Theodosius)",
@@ -18298,6 +21320,12 @@ window.allHeroes =
             "减少3个目标增益持续时间",
             "防御增益",
             "防御降低"
+        ],
+        "skill_types": [
+            "全体攻击 (打5)",
+            "防御增益",
+            "防御减益",
+            "效果持续重置"
         ],
         "source": "哥布林召唤",
         "Release date": "2024-07-07",
@@ -18321,7 +21349,7 @@ window.allHeroes =
         "family": "garrisonguard",
         "image": "https://i.imgur.com/tr0BEoG.jpg",
         "costume_id": 0,
-        "originalIndex": 553
+        "originalIndex": 554
     },
     {
         "name": "托克斯坎德拉 (Toxicandra)",
@@ -18335,6 +21363,11 @@ window.allHeroes =
             "全体治疗",
             "全体法力持续恢复",
             "全体净化"
+        ],
+        "skill_types": [
+            "净化",
+            "治疗",
+            "法力提升"
         ],
         "source": "挑战节-恶棍",
         "Release date": "2021-02-11",
@@ -18352,7 +21385,7 @@ window.allHeroes =
         "family": "villains",
         "image": "https://i.imgur.com/m5DCDHL.jpg",
         "costume_id": 0,
-        "originalIndex": 554
+        "originalIndex": 555
     },
     {
         "name": "托克斯坎德拉 (Toxicandra) C1",
@@ -18366,6 +21399,12 @@ window.allHeroes =
             "全体强化治疗",
             "全体法力持续恢复",
             "全体净化"
+        ],
+        "skill_types": [
+            "净化",
+            "持续伤害",
+            "生命强化",
+            "法力提升"
         ],
         "source": "挑战节-恶棍",
         "Release date": "2025-06-15",
@@ -18385,7 +21424,7 @@ window.allHeroes =
         "family": "villains",
         "image": "https://imgur.com/6ZuZX5t.jpg",
         "costume_id": 1,
-        "originalIndex": 555
+        "originalIndex": 556
     },
     {
         "name": "万奈摩宁 (Vainamoinen)",
@@ -18398,6 +21437,10 @@ window.allHeroes =
         "types": [
             "攻击3个目标",
             "命中降低"
+        ],
+        "skill_types": [
+            "范围攻击 (打3)",
+            "攻击减益"
         ],
         "source": "月活动-卡勒瓦拉",
         "Release date": "2022-06-20",
@@ -18416,7 +21459,7 @@ window.allHeroes =
         "family": "kalevala",
         "image": "https://i.imgur.com/gY0vQZu.jpg",
         "costume_id": 0,
-        "originalIndex": 556
+        "originalIndex": 557
     },
     {
         "name": "万奈摩宁 (Vainamoinen) C1",
@@ -18429,6 +21472,10 @@ window.allHeroes =
         "types": [
             "攻击3个目标",
             "命中降低"
+        ],
+        "skill_types": [
+            "范围攻击 (打3)",
+            "攻击减益"
         ],
         "source": "月活动-卡勒瓦拉",
         "Release date": "2024-07-22",
@@ -18447,7 +21494,7 @@ window.allHeroes =
         "family": "kalevala",
         "image": "https://i.imgur.com/eTqe3pF.jpg",
         "costume_id": 1,
-        "originalIndex": 557
+        "originalIndex": 558
     },
     {
         "name": "韦鲁斯 (Verus)",
@@ -18461,6 +21508,11 @@ window.allHeroes =
             "攻击所有目标",
             "持续伤害",
             "致盲"
+        ],
+        "skill_types": [
+            "全体攻击 (打5)",
+            "持续伤害",
+            "攻击减益"
         ],
         "source": "高塔-猫头鹰",
         "Release date": "2024-03-13",
@@ -18480,7 +21532,7 @@ window.allHeroes =
         "family": "owl",
         "image": "https://i.imgur.com/Klnv0Ue.jpg",
         "costume_id": 0,
-        "originalIndex": 558
+        "originalIndex": 559
     },
     {
         "name": "维赛勒斯 (Viselus)",
@@ -18494,6 +21546,12 @@ window.allHeroes =
             "摧毁3个目标的小兵",
             "攻击3个目标",
             "3个目标持续伤害"
+        ],
+        "skill_types": [
+            "范围攻击 (打3)",
+            "持续伤害",
+            "反制小兵",
+            "闪避"
         ],
         "source": "月英",
         "Release date": "2023-02-01",
@@ -18515,7 +21573,7 @@ window.allHeroes =
         "family": 2023,
         "image": "https://i.imgur.com/SWrRjRX.jpg",
         "costume_id": 0,
-        "originalIndex": 559
+        "originalIndex": 560
     },
     {
         "name": "威妮弗蕾德 (Winifred)",
@@ -18530,6 +21588,12 @@ window.allHeroes =
             "连锁",
             "命中时攻击降低",
             "命中时增益免疫"
+        ],
+        "skill_types": [
+            "增益格挡者",
+            "连锁与随机攻击",
+            "攻击减益",
+            "狙击手"
         ],
         "source": "挑战节-吟游诗人",
         "Release date": "2022-08-11",
@@ -18550,7 +21614,7 @@ window.allHeroes =
         "family": "bard",
         "image": "https://i.imgur.com/keg45a3.jpg",
         "costume_id": 0,
-        "originalIndex": 560
+        "originalIndex": 561
     },
     {
         "name": "赞德瑞拉 (Xandrella)",
@@ -18564,6 +21628,12 @@ window.allHeroes =
             "攻击单个目标",
             "攻击冰雪系目标",
             "改变棋盘"
+        ],
+        "skill_types": [
+            "改变面板",
+            "法力削减或格挡",
+            "狙击手",
+            "连锁与随机攻击"
         ],
         "source": "超级元素人",
         "Release date": "2022-12-05",
@@ -18587,7 +21657,7 @@ window.allHeroes =
         "family": "superelemental",
         "image": "https://i.imgur.com/KaW9HIP.jpg",
         "costume_id": 0,
-        "originalIndex": 561
+        "originalIndex": 562
     },
     {
         "name": "夏玛拉 (Xiamara)",
@@ -18601,6 +21671,11 @@ window.allHeroes =
             "攻击所有目标",
             "力量提升",
             "法力腐蚀"
+        ],
+        "skill_types": [
+            "全体攻击 (打5)",
+            "攻击增益",
+            "法力腐败"
         ],
         "source": "联盟-骑士冲击",
         "Release date": "2023-10-18",
@@ -18620,7 +21695,7 @@ window.allHeroes =
         "family": "stag",
         "image": "https://i.imgur.com/En0uUcx.jpg",
         "costume_id": 0,
-        "originalIndex": 562
+        "originalIndex": 563
     },
     {
         "name": "小青 (Xiaoqing)",
@@ -18634,6 +21709,12 @@ window.allHeroes =
             "全体治疗",
             "全体移除1个状态异常",
             "全体减益反射几率"
+        ],
+        "skill_types": [
+            "净化",
+            "治疗",
+            "反射",
+            "反制小兵"
         ],
         "source": "月活动-农历生肖",
         "Release date": "2025-01-27",
@@ -18653,7 +21734,7 @@ window.allHeroes =
         "family": "lunaryear",
         "image": "https://i.imgur.com/XmTf3zL.jpg",
         "costume_id": 0,
-        "originalIndex": 563
+        "originalIndex": 564
     },
     {
         "name": "尤纳恩 (Yunan)",
@@ -18668,6 +21749,12 @@ window.allHeroes =
             "全体持续伤害",
             "治疗降低",
             "全体净化"
+        ],
+        "skill_types": [
+            "全体攻击 (打5)",
+            "净化",
+            "持续伤害",
+            "治疗削减"
         ],
         "source": "月活动-飞沙帝国",
         "Release date": "2017-01-01",
@@ -18686,7 +21773,7 @@ window.allHeroes =
         "family": "sand",
         "image": "https://i.imgur.com/jUayUm6.jpg",
         "costume_id": 0,
-        "originalIndex": 564
+        "originalIndex": 565
     },
     {
         "name": "尤纳恩 (Yunan) C1",
@@ -18701,6 +21788,12 @@ window.allHeroes =
             "全体持续伤害",
             "全体法力生成增益",
             "全体净化"
+        ],
+        "skill_types": [
+            "全体攻击 (打5)",
+            "净化",
+            "持续伤害",
+            "法力生成增益"
         ],
         "source": "月活动-飞沙帝国",
         "Release date": "2021-06-21",
@@ -18719,7 +21812,7 @@ window.allHeroes =
         "family": "sand",
         "image": "https://i.imgur.com/vpqf6zq.jpg",
         "costume_id": 1,
-        "originalIndex": 565
+        "originalIndex": 566
     },
     {
         "name": "扎维尼亚 (Zavinia)",
@@ -18733,6 +21826,12 @@ window.allHeroes =
             "攻击单个目标",
             "随机攻击",
             "狂乱"
+        ],
+        "skill_types": [
+            "连锁与随机攻击",
+            "额外伤害",
+            "狙击手",
+            "对自身或友军负面效果"
         ],
         "source": "额外抽奖-秘密召唤",
         "Release date": "2024-06-30",
@@ -18753,7 +21852,7 @@ window.allHeroes =
         "family": "investigator",
         "image": "https://i.imgur.com/F1mKhpD.jpg",
         "costume_id": 0,
-        "originalIndex": 566
+        "originalIndex": 567
     },
     {
         "name": "西林 (Zeline)",
@@ -18767,6 +21866,13 @@ window.allHeroes =
             "攻击所有目标",
             "攻击降低",
             "驱散者"
+        ],
+        "skill_types": [
+            "全体攻击 (打5)",
+            "攻击减益",
+            "驱散",
+            "额外伤害",
+            "法力生成增益"
         ],
         "source": "月英",
         "Release date": "2018-02-01T00:00:00",
@@ -18786,7 +21892,7 @@ window.allHeroes =
         "family": 2018,
         "image": "https://i.imgur.com/lrpsqzO.jpg",
         "costume_id": 0,
-        "originalIndex": 567
+        "originalIndex": 568
     },
     {
         "name": "西林 (Zeline) C1",
@@ -18800,6 +21906,14 @@ window.allHeroes =
             "驱散者",
             "攻击所有目标",
             "攻击降低"
+        ],
+        "skill_types": [
+            "全体攻击 (打5)",
+            "攻击减益",
+            "驱散",
+            "额外伤害",
+            "净化",
+            "法力生成增益"
         ],
         "source": "月英",
         "Release date": "2023-12-19",
@@ -18821,7 +21935,7 @@ window.allHeroes =
         "family": 2018,
         "image": "https://i.imgur.com/QJNIkdZ.jpg",
         "costume_id": 1,
-        "originalIndex": 568
+        "originalIndex": 569
     },
     {
         "name": "佐卡 (Zocc)",
@@ -18834,6 +21948,11 @@ window.allHeroes =
         "types": [
             "攻击单个目标",
             "莽夫乱拳"
+        ],
+        "skill_types": [
+            "精神错乱攻击&治疗",
+            "狙击手",
+            "法力提升"
         ],
         "source": "月英",
         "Release date": "2020-08-01",
@@ -18854,7 +21973,7 @@ window.allHeroes =
         "family": 2020,
         "image": "https://i.imgur.com/XA1fhlp.jpg",
         "costume_id": 0,
-        "originalIndex": 569
+        "originalIndex": 570
     },
     {
         "name": "祖妮 (Zuni)",
@@ -18869,6 +21988,12 @@ window.allHeroes =
             "攻击所有目标",
             "攻击降低",
             "防御降低"
+        ],
+        "skill_types": [
+            "攻击减益",
+            "防御减益",
+            "狙击手",
+            "全体攻击 (打5)"
         ],
         "source": "超级元素人",
         "Release date": "2023-08-14",
@@ -18893,7 +22018,7 @@ window.allHeroes =
         "family": "superelemental",
         "image": "https://i.imgur.com/cAdigcK.jpg",
         "costume_id": 0,
-        "originalIndex": 570
+        "originalIndex": 571
     },
     {
         "name": "弗莱彻 (Fletcher)",
@@ -18905,6 +22030,9 @@ window.allHeroes =
         "skill": "芒刺在背",
         "types": [
             "攻击单个目标"
+        ],
+        "skill_types": [
+            "狙击手"
         ],
         "source": "S1-经典",
         "Release date": "2017-01-01",
@@ -18920,7 +22048,7 @@ window.allHeroes =
         "family": null,
         "image": "https://i.imgur.com/Xe6KTRG.jpg",
         "costume_id": 0,
-        "originalIndex": 571
+        "originalIndex": 572
     },
     {
         "name": "夜影 (Nightshade)",
@@ -18932,6 +22060,9 @@ window.allHeroes =
         "skill": "集中火力",
         "types": [
             "攻击单个目标"
+        ],
+        "skill_types": [
+            "狙击手"
         ],
         "source": "S1-经典",
         "Release date": "2017-01-01",
@@ -18947,7 +22078,7 @@ window.allHeroes =
         "family": null,
         "image": "https://i.imgur.com/TChsKw7.jpg",
         "costume_id": 0,
-        "originalIndex": 572
+        "originalIndex": 573
     },
     {
         "name": "朱利叶斯 (Julius)",
@@ -18959,6 +22090,9 @@ window.allHeroes =
         "skill": "集中火力",
         "types": [
             "攻击单个目标"
+        ],
+        "skill_types": [
+            "狙击手"
         ],
         "source": "S1-经典",
         "Release date": "2017-01-01",
@@ -18974,7 +22108,7 @@ window.allHeroes =
         "family": null,
         "image": "https://i.imgur.com/J6kO15m.jpg",
         "costume_id": 0,
-        "originalIndex": 573
+        "originalIndex": 574
     },
     {
         "name": "蕾拉 (Layla)",
@@ -18986,6 +22120,9 @@ window.allHeroes =
         "skill": "毒之刃",
         "types": [
             "单体持续伤害"
+        ],
+        "skill_types": [
+            "持续伤害"
         ],
         "source": "S1-经典",
         "Release date": "2017-01-01",
@@ -19001,7 +22138,7 @@ window.allHeroes =
         "family": null,
         "image": "https://i.imgur.com/bWdwLhP.jpg",
         "costume_id": 0,
-        "originalIndex": 574
+        "originalIndex": 575
     },
     {
         "name": "希利苏斯 (Silthus)",
@@ -19012,6 +22149,9 @@ window.allHeroes =
         "speed": "中等",
         "skill": "攻击动员",
         "types": [
+            "攻击增益"
+        ],
+        "skill_types": [
             "攻击增益"
         ],
         "source": "S1-经典",
@@ -19028,7 +22168,7 @@ window.allHeroes =
         "family": null,
         "image": "https://i.imgur.com/toVI2j1.jpg",
         "costume_id": 0,
-        "originalIndex": 575
+        "originalIndex": 576
     },
     {
         "name": "阿德琳 (Aderyn)",
@@ -19041,6 +22181,10 @@ window.allHeroes =
         "types": [
             "全体治疗",
             "治疗降低"
+        ],
+        "skill_types": [
+            "治疗",
+            "治疗削减"
         ],
         "source": "联盟-骑士冲击",
         "Release date": "2021-10-13",
@@ -19057,7 +22201,7 @@ window.allHeroes =
         "family": "raven",
         "image": "https://i.imgur.com/7kv6ZGx.jpg",
         "costume_id": 0,
-        "originalIndex": 576
+        "originalIndex": 577
     },
     {
         "name": "安文德尔 (An-Windr)",
@@ -19068,6 +22212,9 @@ window.allHeroes =
         "speed": "慢",
         "skill": "部落狂怒",
         "types": [
+            "攻击增益"
+        ],
+        "skill_types": [
             "攻击增益"
         ],
         "source": "S3-瓦尔哈拉",
@@ -19084,7 +22231,7 @@ window.allHeroes =
         "family": "niflheim",
         "image": "https://i.imgur.com/MSmQZNX.jpg",
         "costume_id": 0,
-        "originalIndex": 577
+        "originalIndex": 578
     },
     {
         "name": "阿奎拉 (Aqeela)",
@@ -19097,6 +22244,12 @@ window.allHeroes =
         "types": [
             "攻击3个目标",
             "3个目标闪避增益"
+        ],
+        "skill_types": [
+            "范围攻击 (打3)",
+            "防御增益",
+            "闪避",
+            "叠加"
         ],
         "source": "S5-沙丘",
         "Release date": "2022-04-21",
@@ -19117,7 +22270,7 @@ window.allHeroes =
         "family": "moon",
         "image": "https://i.imgur.com/N5k1s9j.jpg",
         "costume_id": 0,
-        "originalIndex": 578
+        "originalIndex": 579
     },
     {
         "name": "阿奎拉 (Aqeela) C1",
@@ -19130,6 +22283,12 @@ window.allHeroes =
         "types": [
             "攻击3个目标",
             "3个目标闪避增益"
+        ],
+        "skill_types": [
+            "范围攻击 (打3)",
+            "闪避",
+            "叠加",
+            "防御增益"
         ],
         "source": "S5-沙丘",
         "Release date": "2024-08-10",
@@ -19152,7 +22311,7 @@ window.allHeroes =
         "family": "moon",
         "image": "https://i.imgur.com/kbKyRq1.jpg",
         "costume_id": 1,
-        "originalIndex": 579
+        "originalIndex": 580
     },
     {
         "name": "巴特萨 (Balthazar)",
@@ -19164,6 +22323,9 @@ window.allHeroes =
         "skill": "电光震颤",
         "types": [
             "攻击单个目标"
+        ],
+        "skill_types": [
+            "狙击手"
         ],
         "source": "S1-经典",
         "Release date": "2017-01-01",
@@ -19179,7 +22341,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/OSefjqG.jpg",
         "costume_id": 0,
-        "originalIndex": 580
+        "originalIndex": 581
     },
     {
         "name": "巴特萨 (Balthazar) C1",
@@ -19192,6 +22354,10 @@ window.allHeroes =
         "types": [
             "攻击单个目标",
             "单体持续伤害"
+        ],
+        "skill_types": [
+            "持续伤害",
+            "狙击手"
         ],
         "source": "S1-经典",
         "Release date": "2020-05-18",
@@ -19208,7 +22374,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/PBzwskK.jpg",
         "costume_id": 1,
-        "originalIndex": 581
+        "originalIndex": 582
     },
     {
         "name": "巴特萨 (Balthazar) 卡通",
@@ -19220,6 +22386,10 @@ window.allHeroes =
         "skill": "卡通电击",
         "types": [
             "攻击单个目标"
+        ],
+        "skill_types": [
+            "额外伤害",
+            "狙击手"
         ],
         "source": "S1-经典",
         "Release date": "2024-01-22",
@@ -19238,7 +22408,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/TVzeF5e.jpg",
         "costume_id": 2,
-        "originalIndex": 582
+        "originalIndex": 583
     },
     {
         "name": "巴特萨 (Balthazar) 玻璃",
@@ -19251,6 +22421,10 @@ window.allHeroes =
         "types": [
             "攻击单个目标",
             "无视防御"
+        ],
+        "skill_types": [
+            "绕过",
+            "狙击手"
         ],
         "source": "S1-经典",
         "Release date": "2025-03-11",
@@ -19269,7 +22443,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/GyPOLEn.jpg",
         "costume_id": 3,
-        "originalIndex": 583
+        "originalIndex": 584
     },
     {
         "name": "贝第 (Betty)",
@@ -19282,6 +22456,11 @@ window.allHeroes =
         "types": [
             "攻击3个目标",
             "2个目标软肤"
+        ],
+        "skill_types": [
+            "范围攻击 (打3)",
+            "伤害减免",
+            "提供免疫"
         ],
         "source": "挑战-重返圣堂",
         "Release date": "2024-05-16",
@@ -19300,7 +22479,7 @@ window.allHeroes =
         "family": "gargoyle",
         "image": "https://i.imgur.com/Ni9fM9U.jpg",
         "costume_id": 0,
-        "originalIndex": 584
+        "originalIndex": 585
     },
     {
         "name": "比约恩 (Bjorn)",
@@ -19313,6 +22492,11 @@ window.allHeroes =
         "types": [
             "攻击单个目标",
             "弹射攻击"
+        ],
+        "skill_types": [
+            "连锁与随机攻击",
+            "额外伤害",
+            "狙击手"
         ],
         "source": "S3-瓦尔哈拉",
         "Release date": "2020-02-27",
@@ -19329,7 +22513,7 @@ window.allHeroes =
         "family": "midgard",
         "image": "https://i.imgur.com/vOaNkHC.jpg",
         "costume_id": 0,
-        "originalIndex": 585
+        "originalIndex": 586
     },
     {
         "name": "比约恩 (Bjorn) C1",
@@ -19343,6 +22527,11 @@ window.allHeroes =
             "攻击单个目标",
             "弹射",
             "法力生成降低"
+        ],
+        "skill_types": [
+            "连锁与随机攻击",
+            "法力削减或格挡",
+            "狙击手"
         ],
         "source": "S3-瓦尔哈拉",
         "Release date": "2022-07-04",
@@ -19360,7 +22549,7 @@ window.allHeroes =
         "family": "midgard",
         "image": "https://i.imgur.com/KuvURzu.jpg",
         "costume_id": 1,
-        "originalIndex": 586
+        "originalIndex": 587
     },
     {
         "name": "布达廷 (Budatin)",
@@ -19372,6 +22561,12 @@ window.allHeroes =
         "skill": "永恒信条",
         "types": [
             "改变棋盘"
+        ],
+        "skill_types": [
+            "改变面板",
+            "法力生成增益",
+            "法力削减或格挡",
+            "伤害减免"
         ],
         "source": "挑战-石像鬼",
         "Release date": "2022-05-12",
@@ -19389,7 +22584,7 @@ window.allHeroes =
         "family": "gargoyle",
         "image": "https://i.imgur.com/NFVk9Gf.jpg",
         "costume_id": 0,
-        "originalIndex": 587
+        "originalIndex": 588
     },
     {
         "name": "提灯 (Chochin)",
@@ -19402,6 +22597,10 @@ window.allHeroes =
         "types": [
             "攻击3个目标",
             "法力生成降低"
+        ],
+        "skill_types": [
+            "范围攻击 (打3)",
+            "法力削减或格挡"
         ],
         "source": "S2-亚特兰蒂斯",
         "Release date": "2019-08-01",
@@ -19418,7 +22617,7 @@ window.allHeroes =
         "family": "sakura",
         "image": "https://i.imgur.com/L668UQC.jpg",
         "costume_id": 0,
-        "originalIndex": 588
+        "originalIndex": 589
     },
     {
         "name": "艾德 (Edd)",
@@ -19430,6 +22629,10 @@ window.allHeroes =
         "skill": "狂暴猛冲",
         "types": [
             "攻击单个目标"
+        ],
+        "skill_types": [
+            "增益格挡者",
+            "狙击手"
         ],
         "source": "挑战节-恶棍",
         "Release date": "2021-02-11",
@@ -19446,7 +22649,7 @@ window.allHeroes =
         "family": "villains",
         "image": "https://i.imgur.com/OuUgvKY.jpg",
         "costume_id": 0,
-        "originalIndex": 589
+        "originalIndex": 590
     },
     {
         "name": "鳃拉 (Gill-Ra)",
@@ -19460,6 +22663,11 @@ window.allHeroes =
             "防御降低",
             "攻击降低",
             "净化者"
+        ],
+        "skill_types": [
+            "净化",
+            "攻击减益",
+            "防御减益"
         ],
         "source": "S2-亚特兰蒂斯",
         "Release date": "2019-08-01",
@@ -19477,7 +22685,7 @@ window.allHeroes =
         "family": "lagoon",
         "image": "https://i.imgur.com/5yoZu18.jpg",
         "costume_id": 0,
-        "originalIndex": 590
+        "originalIndex": 591
     },
     {
         "name": "鳃拉 (Gill-Ra) C1",
@@ -19491,6 +22699,11 @@ window.allHeroes =
             "防御增益",
             "攻击增益",
             "驱散者"
+        ],
+        "skill_types": [
+            "攻击增益",
+            "防御增益",
+            "驱散"
         ],
         "source": "S2-亚特兰蒂斯",
         "Release date": "2023-04-03",
@@ -19508,7 +22721,7 @@ window.allHeroes =
         "family": "lagoon",
         "image": "https://i.imgur.com/bezss9U.jpg",
         "costume_id": 1,
-        "originalIndex": 591
+        "originalIndex": 592
     },
     {
         "name": "格留 (Greel)",
@@ -19520,6 +22733,13 @@ window.allHeroes =
         "skill": "割人手短",
         "types": [
             "攻击所有目标"
+        ],
+        "skill_types": [
+            "法力提升",
+            "全体攻击 (打5)",
+            "额外伤害",
+            "净化",
+            "持续伤害"
         ],
         "source": "盟约召唤",
         "Release date": "2023-02-09",
@@ -19535,12 +22755,12 @@ window.allHeroes =
         ],
         "passives": [
             "猎手感知：当该角色施放其特殊技能时，有 100% 的几率将自身最新的状态异常转移给目标。如果其特殊技能无法选择敌方目标，则会随机转移至一名敌人。若此角色没有状态异常，则恢复自身 12% 的生命。",
-            "特殊技能附带持续伤害：当该角色施放其特殊技能时，会给一个随机敌人施加猎人印记。目标在 150 回合内受到 3 点伤害。如果目标已有此效果，则持续时间刷新，伤害增加 150 点，总伤害最高可达 1500 点。"
+            "特殊技能附带持续伤害：当该角色施放其特殊技能时，会给一个随机敌人施加猎人印记。目标在 3 回合内受到 150 点伤害。如果目标已有此效果，则持续时间刷新，伤害增加 150 点，总伤害最高可达 1500 点。"
         ],
         "family": "abysshunter",
         "image": "https://i.imgur.com/GbQldWm.jpg",
         "costume_id": 0,
-        "originalIndex": 592
+        "originalIndex": 593
     },
     {
         "name": "蝙蝠守护者 (Guardian Bat)",
@@ -19552,6 +22772,10 @@ window.allHeroes =
         "skill": "无情撕咬",
         "types": [
             "攻击3个目标"
+        ],
+        "skill_types": [
+            "范围攻击 (打3)",
+            "额外伤害"
         ],
         "source": "挑战节-守护者",
         "Release date": "2020-01-08",
@@ -19568,7 +22792,7 @@ window.allHeroes =
         "family": "guardiansteltoc",
         "image": "https://i.imgur.com/yMD2ogt.jpg",
         "costume_id": 0,
-        "originalIndex": 593
+        "originalIndex": 594
     },
     {
         "name": "杰克 (Jack)",
@@ -19581,6 +22805,10 @@ window.allHeroes =
         "types": [
             "攻击单个目标",
             "炸弹"
+        ],
+        "skill_types": [
+            "狙击手",
+            "范围攻击 (打3)"
         ],
         "source": "月活动-莫洛维亚",
         "Release date": "2020-10-26",
@@ -19599,7 +22827,7 @@ window.allHeroes =
         "family": "morlovia",
         "image": "https://i.imgur.com/1pbBKiM.jpg",
         "costume_id": 0,
-        "originalIndex": 594
+        "originalIndex": 595
     },
     {
         "name": "梅芙 (Maeve)",
@@ -19613,6 +22841,14 @@ window.allHeroes =
             "攻击3个目标",
             "防御降低",
             "叠加"
+        ],
+        "skill_types": [
+            "范围攻击 (打3)",
+            "防御减益",
+            "特殊治疗",
+            "叠加",
+            "法力生成增益",
+            "持续治疗"
         ],
         "source": "挑战节-杀手",
         "Release date": "2021-08-05",
@@ -19633,7 +22869,7 @@ window.allHeroes =
         "family": "slayer",
         "image": "https://i.imgur.com/vEp3yLs.jpg",
         "costume_id": 0,
-        "originalIndex": 595
+        "originalIndex": 596
     },
     {
         "name": "摩根奈特 (Morganite)",
@@ -19646,6 +22882,10 @@ window.allHeroes =
         "types": [
             "持续伤害",
             "致盲"
+        ],
+        "skill_types": [
+            "攻击减益",
+            "持续伤害"
         ],
         "source": "高塔-忍者",
         "Release date": "2023-07-26",
@@ -19670,7 +22910,7 @@ window.allHeroes =
         "family": "ninja",
         "image": "https://i.imgur.com/lHtD195.jpg",
         "costume_id": 0,
-        "originalIndex": 596
+        "originalIndex": 597
     },
     {
         "name": "毛里斯 (Morris)",
@@ -19685,6 +22925,13 @@ window.allHeroes =
             "挖洞者",
             "攻击单个目标",
             "单体法力获取冻结"
+        ],
+        "skill_types": [
+            "净化",
+            "鬼魂形态与隐藏",
+            "法力削减或格挡",
+            "叠加",
+            "连锁与随机攻击"
         ],
         "source": "S4-蛮荒地界",
         "Release date": "2021-03-25",
@@ -19707,7 +22954,7 @@ window.allHeroes =
         "family": "underwild",
         "image": "https://i.imgur.com/RXYQ548.jpg",
         "costume_id": 0,
-        "originalIndex": 597
+        "originalIndex": 598
     },
     {
         "name": "毛里斯 (Morris) C1",
@@ -19722,6 +22969,13 @@ window.allHeroes =
             "挖洞者",
             "攻击单个目标",
             "法力获取冻结"
+        ],
+        "skill_types": [
+            "叠加",
+            "鬼魂形态与隐藏",
+            "法力削减或格挡",
+            "净化",
+            "连锁与随机攻击"
         ],
         "source": "S4-蛮荒地界",
         "Release date": "2024-05-23",
@@ -19744,7 +22998,7 @@ window.allHeroes =
         "family": "underwild",
         "image": "https://i.imgur.com/CrJaSuf.jpg",
         "costume_id": 1,
-        "originalIndex": 598
+        "originalIndex": 599
     },
     {
         "name": "奥伯伦 (Oberon)",
@@ -19757,6 +23011,10 @@ window.allHeroes =
         "types": [
             "攻击所有目标",
             "全体持续伤害"
+        ],
+        "skill_types": [
+            "全体攻击 (打5)",
+            "持续伤害"
         ],
         "source": "S1-经典",
         "Release date": "2017-01-01",
@@ -19773,7 +23031,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/FkvOQpS.jpg",
         "costume_id": 0,
-        "originalIndex": 599
+        "originalIndex": 600
     },
     {
         "name": "奥伯伦 (Oberon) C1",
@@ -19785,6 +23043,9 @@ window.allHeroes =
         "skill": "剧毒诡计",
         "types": [
             "全体持续伤害"
+        ],
+        "skill_types": [
+            "持续伤害"
         ],
         "source": "S1-经典",
         "Release date": "2021-01-18",
@@ -19800,7 +23061,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/4wjqw3M.jpg",
         "costume_id": 1,
-        "originalIndex": 600
+        "originalIndex": 601
     },
     {
         "name": "奥伯伦 (Oberon) 卡通",
@@ -19813,6 +23074,11 @@ window.allHeroes =
         "types": [
             "攻击所有目标",
             "全体持续伤害"
+        ],
+        "skill_types": [
+            "全体攻击 (打5)",
+            "持续伤害",
+            "额外伤害"
         ],
         "source": "S1-经典",
         "Release date": "2024-08-11",
@@ -19832,7 +23098,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/z96lxl3.jpg",
         "costume_id": 2,
-        "originalIndex": 601
+        "originalIndex": 602
     },
     {
         "name": "帕拉 (Para)",
@@ -19845,6 +23111,10 @@ window.allHeroes =
         "types": [
             "全体恢复",
             "攻击降低"
+        ],
+        "skill_types": [
+            "攻击减益",
+            "治疗"
         ],
         "source": "月活动-卡勒瓦拉",
         "Release date": "2022-06-20",
@@ -19863,7 +23133,7 @@ window.allHeroes =
         "family": "kalevala",
         "image": "https://i.imgur.com/n5BGh1Y.jpg",
         "costume_id": 0,
-        "originalIndex": 602
+        "originalIndex": 603
     },
     {
         "name": "普利斯卡 (Prisca)",
@@ -19876,6 +23146,10 @@ window.allHeroes =
         "types": [
             "攻击单个目标",
             "自我治疗"
+        ],
+        "skill_types": [
+            "特殊治疗",
+            "狙击手"
         ],
         "source": "S1-经典",
         "Release date": "2017-01-01",
@@ -19892,7 +23166,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/IoRPZNA.jpg",
         "costume_id": 0,
-        "originalIndex": 603
+        "originalIndex": 604
     },
     {
         "name": "普利斯卡 (Prisca) C1",
@@ -19905,6 +23179,10 @@ window.allHeroes =
         "types": [
             "攻击3个目标",
             "自我治疗"
+        ],
+        "skill_types": [
+            "范围攻击 (打3)",
+            "特殊治疗"
         ],
         "source": "S1-经典",
         "Release date": "2020-05-18",
@@ -19921,7 +23199,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/q3Ddqi6.jpg",
         "costume_id": 1,
-        "originalIndex": 604
+        "originalIndex": 605
     },
     {
         "name": "普利斯卡 (Prisca) 卡通",
@@ -19934,6 +23212,11 @@ window.allHeroes =
         "types": [
             "攻击单个目标",
             "自我治疗"
+        ],
+        "skill_types": [
+            "额外伤害",
+            "特殊治疗",
+            "狙击手"
         ],
         "source": "S1-经典",
         "Release date": "2024-02-12",
@@ -19953,7 +23236,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/6mcArhg.jpg",
         "costume_id": 2,
-        "originalIndex": 605
+        "originalIndex": 606
     },
     {
         "name": "普利斯卡 (Prisca) 玻璃",
@@ -19967,6 +23250,11 @@ window.allHeroes =
             "攻击单个目标",
             "无视防御",
             "自我治疗"
+        ],
+        "skill_types": [
+            "绕过",
+            "特殊治疗",
+            "狙击手"
         ],
         "source": "S1-经典",
         "Release date": "2025-04-08",
@@ -19986,7 +23274,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://imgur.com/SdXnKqi.jpg",
         "costume_id": 3,
-        "originalIndex": 606
+        "originalIndex": 607
     },
     {
         "name": "雷恩菲尔德 (Renfeld)",
@@ -19999,6 +23287,10 @@ window.allHeroes =
         "types": [
             "攻击单个目标",
             "自我治疗"
+        ],
+        "skill_types": [
+            "特殊治疗",
+            "狙击手"
         ],
         "source": "S1-经典",
         "Release date": "2017-01-01",
@@ -20015,7 +23307,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/6HwABCg.jpg",
         "costume_id": 0,
-        "originalIndex": 607
+        "originalIndex": 608
     },
     {
         "name": "雷恩菲尔德 (Renfeld) C1",
@@ -20028,6 +23320,11 @@ window.allHeroes =
         "types": [
             "攻击单个目标",
             "偷取3个目标法力"
+        ],
+        "skill_types": [
+            "法力提升",
+            "法力削减或格挡",
+            "狙击手"
         ],
         "source": "S1-经典",
         "Release date": "2020-05-18",
@@ -20044,7 +23341,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/7QkxYAf.jpg",
         "costume_id": 1,
-        "originalIndex": 608
+        "originalIndex": 609
     },
     {
         "name": "雷恩菲尔德 (Renfeld) 卡通",
@@ -20057,6 +23354,11 @@ window.allHeroes =
         "types": [
             "攻击单个目标",
             "自我治疗"
+        ],
+        "skill_types": [
+            "狙击手",
+            "特殊治疗",
+            "额外伤害"
         ],
         "source": "S1-经典",
         "Release date": "2024-09-08",
@@ -20076,7 +23378,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/D4cVPMi.jpg",
         "costume_id": 2,
-        "originalIndex": 609
+        "originalIndex": 610
     },
     {
         "name": "树威尔 (Treevil)",
@@ -20091,6 +23393,12 @@ window.allHeroes =
             "攻击降低",
             "防御降低",
             "法力生成降低"
+        ],
+        "skill_types": [
+            "全体攻击 (打5)",
+            "攻击减益",
+            "防御减益",
+            "法力削减或格挡"
         ],
         "source": "挑战节-阿瓦隆",
         "Release date": "2021-12-15",
@@ -20109,7 +23417,7 @@ window.allHeroes =
         "family": "avalon",
         "image": "https://i.imgur.com/8ZDDLNG.jpg",
         "costume_id": 0,
-        "originalIndex": 610
+        "originalIndex": 611
     },
     {
         "name": "泰伦 (Tyrum)",
@@ -20122,6 +23430,10 @@ window.allHeroes =
         "types": [
             "攻击单个目标",
             "全体驱散"
+        ],
+        "skill_types": [
+            "驱散",
+            "狙击手"
         ],
         "source": "S1-经典",
         "Release date": "2020-02-27",
@@ -20138,7 +23450,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/HKuMtXT.jpg",
         "costume_id": 0,
-        "originalIndex": 611
+        "originalIndex": 612
     },
     {
         "name": "泰伦 (Tyrum) C1",
@@ -20151,6 +23463,10 @@ window.allHeroes =
         "types": [
             "攻击单个目标",
             "全体净化"
+        ],
+        "skill_types": [
+            "净化",
+            "狙击手"
         ],
         "source": "S1-经典",
         "Release date": "2020-01-01",
@@ -20167,7 +23483,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/Rir8owz.jpg",
         "costume_id": 1,
-        "originalIndex": 612
+        "originalIndex": 613
     },
     {
         "name": "泰伦 (Tyrum) 卡通",
@@ -20180,6 +23496,11 @@ window.allHeroes =
         "types": [
             "攻击单个目标",
             "全体驱散"
+        ],
+        "skill_types": [
+            "驱散",
+            "狙击手",
+            "额外伤害"
         ],
         "source": "S1-经典",
         "Release date": "2024-10-06",
@@ -20199,7 +23520,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/MBq6uJ0.jpg",
         "costume_id": 2,
-        "originalIndex": 613
+        "originalIndex": 614
     },
     {
         "name": "昂伏斯 (Unferth)",
@@ -20212,6 +23533,11 @@ window.allHeroes =
         "types": [
             "攻击单个目标",
             "单体状态异常之源"
+        ],
+        "skill_types": [
+            "狙击手",
+            "额外伤害",
+            "防御减益"
         ],
         "source": "挑战-贝奥武夫",
         "Release date": "2025-02-13",
@@ -20234,7 +23560,7 @@ window.allHeroes =
         "family": "beowulf",
         "image": "https://i.imgur.com/EwK86qB.jpg",
         "costume_id": 0,
-        "originalIndex": 614
+        "originalIndex": 615
     },
     {
         "name": "弗拉德 (Vlad)",
@@ -20247,6 +23573,11 @@ window.allHeroes =
         "types": [
             "单体持续伤害",
             "治疗偷取"
+        ],
+        "skill_types": [
+            "持续伤害",
+            "特殊治疗",
+            "治疗削减"
         ],
         "source": "月活动-莫洛维亚",
         "Release date": "2018-10-01",
@@ -20265,7 +23596,7 @@ window.allHeroes =
         "family": "morlovia",
         "image": "https://i.imgur.com/BKgxWVA.jpg",
         "costume_id": 0,
-        "originalIndex": 615
+        "originalIndex": 616
     },
     {
         "name": "爱赫特波 (Ahhotep)",
@@ -20277,6 +23608,10 @@ window.allHeroes =
         "skill": "干尸劈砍",
         "types": [
             "攻击3个目标"
+        ],
+        "skill_types": [
+            "范围攻击 (打3)",
+            "法力提升"
         ],
         "source": "S5-沙丘",
         "Release date": "2022-04-21",
@@ -20297,7 +23632,7 @@ window.allHeroes =
         "family": "moon",
         "image": "https://i.imgur.com/MLXGUOi.jpg",
         "costume_id": 0,
-        "originalIndex": 616
+        "originalIndex": 617
     },
     {
         "name": "爱赫特波 (Ahhotep) C1",
@@ -20309,6 +23644,10 @@ window.allHeroes =
         "skill": "木乃伊猛击",
         "types": [
             "攻击3个目标"
+        ],
+        "skill_types": [
+            "范围攻击 (打3)",
+            "法力提升"
         ],
         "source": "S5-沙丘",
         "Release date": "2024-07-13",
@@ -20331,7 +23670,7 @@ window.allHeroes =
         "family": "moon",
         "image": "https://i.imgur.com/ph6Gczr.jpg",
         "costume_id": 1,
-        "originalIndex": 617
+        "originalIndex": 618
     },
     {
         "name": "雨女 (Ameonna)",
@@ -20344,6 +23683,11 @@ window.allHeroes =
         "types": [
             "自我完全移除",
             "幽灵形态"
+        ],
+        "skill_types": [
+            "攻击增益",
+            "净化",
+            "鬼魂形态与隐藏"
         ],
         "source": "S2-亚特兰蒂斯",
         "Release date": "2019-08-01",
@@ -20361,7 +23705,7 @@ window.allHeroes =
         "family": "sakura",
         "image": "https://i.imgur.com/VkDdipF.jpg",
         "costume_id": 0,
-        "originalIndex": 618
+        "originalIndex": 619
     },
     {
         "name": "雨女 (Ameonna) C1",
@@ -20376,6 +23720,13 @@ window.allHeroes =
             "幽灵形态",
             "幽灵形态下全体防御增益",
             "幽灵形态下全体持续治疗"
+        ],
+        "skill_types": [
+            "防御增益",
+            "鬼魂形态与隐藏",
+            "持续治疗",
+            "叠加",
+            "净化"
         ],
         "source": "S2-亚特兰蒂斯",
         "Release date": "2022-05-02",
@@ -20394,7 +23745,7 @@ window.allHeroes =
         "family": "sakura",
         "image": "https://i.imgur.com/VZyVFDJ.jpg",
         "costume_id": 1,
-        "originalIndex": 619
+        "originalIndex": 620
     },
     {
         "name": "紫晶 (Ametrine)",
@@ -20408,6 +23759,12 @@ window.allHeroes =
             "蓄力者",
             "攻击所有目标",
             "驱散者"
+        ],
+        "skill_types": [
+            "范围攻击 (打3)",
+            "全体攻击 (打5)",
+            "驱散",
+            "狙击手"
         ],
         "source": "高塔-忍者",
         "Release date": "2020-10-13",
@@ -20431,7 +23788,7 @@ window.allHeroes =
         "family": "ninja",
         "image": "https://i.imgur.com/6AFRaiq.jpg",
         "costume_id": 0,
-        "originalIndex": 620
+        "originalIndex": 621
     },
     {
         "name": "安娜·贝尔 (Ana-Belle)",
@@ -20445,6 +23802,13 @@ window.allHeroes =
             "驱散者",
             "净化者",
             "治疗者"
+        ],
+        "skill_types": [
+            "净化",
+            "驱散",
+            "治疗",
+            "特殊治疗",
+            "对自身或友军负面效果"
         ],
         "source": "月活动-莫洛维亚",
         "Release date": "2022-10-03",
@@ -20464,7 +23828,7 @@ window.allHeroes =
         "family": "morlovia",
         "image": "https://i.imgur.com/FvJxtPO.jpg",
         "costume_id": 0,
-        "originalIndex": 621
+        "originalIndex": 622
     },
     {
         "name": "阿尔吉斯 (Arges)",
@@ -20476,6 +23840,11 @@ window.allHeroes =
         "skill": "混合魔药",
         "types": [
             "蓄力"
+        ],
+        "skill_types": [
+            "范围攻击 (打3)",
+            "攻击增益",
+            "防御减益"
         ],
         "source": "高塔-冥河",
         "Release date": "2022-09-21",
@@ -20504,7 +23873,7 @@ window.allHeroes =
         "family": "styx",
         "image": "https://i.imgur.com/yK7UFvQ.jpg",
         "costume_id": 0,
-        "originalIndex": 622
+        "originalIndex": 623
     },
     {
         "name": "炸弹魔 (Boomer)",
@@ -20516,6 +23885,10 @@ window.allHeroes =
         "skill": "葬身鱼腹",
         "types": [
             "攻击所有目标"
+        ],
+        "skill_types": [
+            "全体攻击 (打5)",
+            "防御增益"
         ],
         "source": "挑战节-海盗",
         "Release date": "2017-01-01",
@@ -20532,7 +23905,7 @@ window.allHeroes =
         "family": "corellia",
         "image": "https://i.imgur.com/BLKBB2F.jpg",
         "costume_id": 0,
-        "originalIndex": 623
+        "originalIndex": 624
     },
     {
         "name": "柴郡猫 (Cheshire Cat)",
@@ -20545,6 +23918,11 @@ window.allHeroes =
         "types": [
             "重新部署",
             "全体持续伤害"
+        ],
+        "skill_types": [
+            "防御减益",
+            "持续伤害",
+            "重排队伍"
         ],
         "source": "挑战节-仙境",
         "Release date": "2017-01-01",
@@ -20562,7 +23940,7 @@ window.allHeroes =
         "family": "wonderland",
         "image": "https://i.imgur.com/Js5mqAr.jpg",
         "costume_id": 0,
-        "originalIndex": 624
+        "originalIndex": 625
     },
     {
         "name": "柴郡猫 (Cheshire Cat) C1",
@@ -20575,6 +23953,11 @@ window.allHeroes =
         "types": [
             "重新部署",
             "全体持续伤害"
+        ],
+        "skill_types": [
+            "防御减益",
+            "持续伤害",
+            "重排队伍"
         ],
         "source": "挑战节-仙境",
         "Release date": "2023-10-05",
@@ -20592,7 +23975,7 @@ window.allHeroes =
         "family": "wonderland",
         "image": "https://i.imgur.com/ImaCQvI.jpg",
         "costume_id": 1,
-        "originalIndex": 625
+        "originalIndex": 626
     },
     {
         "name": "小蛋糕 (Cupcake)",
@@ -20606,6 +23989,10 @@ window.allHeroes =
             "偷取1个小兵",
             "攻击单个目标",
             "小兵格挡负面效果"
+        ],
+        "skill_types": [
+            "反制小兵",
+            "狙击手"
         ],
         "source": "联盟-超能萌宠",
         "Release date": "2022-11-03",
@@ -20626,7 +24013,7 @@ window.allHeroes =
         "family": "pets",
         "image": "https://i.imgur.com/p15TPST.jpg",
         "costume_id": 0,
-        "originalIndex": 626
+        "originalIndex": 627
     },
     {
         "name": "塞普里恩 (Cyprian)",
@@ -20638,6 +24025,9 @@ window.allHeroes =
         "skill": "完美回刺",
         "types": [
             "3个目标反击"
+        ],
+        "skill_types": [
+            "反击"
         ],
         "source": "S1-经典",
         "Release date": "2017-01-01",
@@ -20653,7 +24043,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/wpGUug5.jpg",
         "costume_id": 0,
-        "originalIndex": 627
+        "originalIndex": 628
     },
     {
         "name": "塞普里恩 (Cyprian) C1",
@@ -20665,6 +24055,9 @@ window.allHeroes =
         "skill": "致命反击",
         "types": [
             "全体反击"
+        ],
+        "skill_types": [
+            "反击"
         ],
         "source": "S1-经典",
         "Release date": "2021-01-18",
@@ -20680,7 +24073,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/sJK7XXq.jpg",
         "costume_id": 1,
-        "originalIndex": 628
+        "originalIndex": 629
     },
     {
         "name": "塞普里恩 (Cyprian) C2",
@@ -20694,6 +24087,11 @@ window.allHeroes =
             "3个目标反击",
             "反击时获得法力",
             "3个目标伤害减免"
+        ],
+        "skill_types": [
+            "反击",
+            "伤害减免",
+            "法力提升"
         ],
         "source": "S1-经典",
         "Release date": "2023-04-17",
@@ -20711,7 +24109,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/oDvjeQX.jpg",
         "costume_id": 2,
-        "originalIndex": 629
+        "originalIndex": 630
     },
     {
         "name": "塞普里恩 (Cyprian) 卡通",
@@ -20723,6 +24121,9 @@ window.allHeroes =
         "skill": "卡通梦幻反击",
         "types": [
             "3个目标反击"
+        ],
+        "skill_types": [
+            "反击"
         ],
         "source": "S1-经典",
         "Release date": "2024-04-08",
@@ -20740,7 +24141,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/NlALPlg.jpg",
         "costume_id": 3,
-        "originalIndex": 630
+        "originalIndex": 631
     },
     {
         "name": "塞普里恩 (Cyprian) 玻璃",
@@ -20753,6 +24154,9 @@ window.allHeroes =
         "types": [
             "3个目标反击",
             "全体元素异常反射"
+        ],
+        "skill_types": [
+            "反击"
         ],
         "source": "S1-经典",
         "Release date": "2025-04-23",
@@ -20771,7 +24175,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://imgur.com/NcRhwAX.jpg",
         "costume_id": 4,
-        "originalIndex": 631
+        "originalIndex": 632
     },
     {
         "name": "迪基 (Dizzy)",
@@ -20786,6 +24190,11 @@ window.allHeroes =
             "召唤3个小兵",
             "3个目标元素反射",
             "3个目标元素反击"
+        ],
+        "skill_types": [
+            "范围攻击 (打3)",
+            "召唤小兵",
+            "反射"
         ],
         "source": "月活动-冬日",
         "Release date": "2023-12-01",
@@ -20803,7 +24212,7 @@ window.allHeroes =
         "family": "christmas",
         "image": "https://i.imgur.com/84anXmA.jpg",
         "costume_id": 0,
-        "originalIndex": 632
+        "originalIndex": 633
     },
     {
         "name": "芙拉 (Fura)",
@@ -20817,6 +24226,11 @@ window.allHeroes =
             "攻击所有目标",
             "最大生命值降低",
             "治疗降低"
+        ],
+        "skill_types": [
+            "全体攻击 (打5)",
+            "治疗削减",
+            "最大生命削减"
         ],
         "source": "S3-瓦尔哈拉",
         "Release date": "2020-05-28",
@@ -20834,7 +24248,7 @@ window.allHeroes =
         "family": "svartalfheim",
         "image": "https://i.imgur.com/RvN7nUK.jpg",
         "costume_id": 0,
-        "originalIndex": 633
+        "originalIndex": 634
     },
     {
         "name": "芙拉 (Fura) C1",
@@ -20846,6 +24260,11 @@ window.allHeroes =
         "skill": "夜昙粉尘",
         "types": [
             "攻击3个目标"
+        ],
+        "skill_types": [
+            "范围攻击 (打3)",
+            "治疗削减",
+            "法力削减或格挡"
         ],
         "source": "S3-瓦尔哈拉",
         "Release date": "2023-01-16",
@@ -20863,7 +24282,7 @@ window.allHeroes =
         "family": "svartalfheim",
         "image": "https://i.imgur.com/ibwrmzt.jpg",
         "costume_id": 1,
-        "originalIndex": 634
+        "originalIndex": 635
     },
     {
         "name": "贾法尔 (Gafar)",
@@ -20878,6 +24297,12 @@ window.allHeroes =
             "单体持续伤害",
             "治疗降低",
             "自我净化"
+        ],
+        "skill_types": [
+            "净化",
+            "持续伤害",
+            "治疗削减",
+            "狙击手"
         ],
         "source": "月活动-飞沙帝国",
         "Release date": "2017-01-01",
@@ -20896,7 +24321,7 @@ window.allHeroes =
         "family": "sand",
         "image": "https://i.imgur.com/xyMaVfi.jpg",
         "costume_id": 0,
-        "originalIndex": 635
+        "originalIndex": 636
     },
     {
         "name": "黑风怪 (Heifeng Guai)",
@@ -20909,6 +24334,11 @@ window.allHeroes =
         "types": [
             "攻击单个目标",
             "防御下降"
+        ],
+        "skill_types": [
+            "防御减益",
+            "效果持续重置",
+            "狙击手"
         ],
         "source": "三国召唤",
         "Release date": "2023-02-27",
@@ -20926,7 +24356,7 @@ window.allHeroes =
         "family": "journey",
         "image": "https://i.imgur.com/cY9fvY1.jpg",
         "costume_id": 0,
-        "originalIndex": 636
+        "originalIndex": 637
     },
     {
         "name": "因戈尔夫 (Ingolf)",
@@ -20939,6 +24369,12 @@ window.allHeroes =
         "types": [
             "攻击3个目标",
             "3个目标持续伤害"
+        ],
+        "skill_types": [
+            "全体攻击 (打5)",
+            "持续伤害",
+            "法力削减或格挡",
+            "效果持续重置"
         ],
         "source": "挑战节-恶棍",
         "Release date": "2021-02-11",
@@ -20956,7 +24392,7 @@ window.allHeroes =
         "family": "villains",
         "image": "https://i.imgur.com/EjtbILF.jpg",
         "costume_id": 0,
-        "originalIndex": 637
+        "originalIndex": 638
     },
     {
         "name": "贾巴尔 (Jabbar)",
@@ -20971,6 +24407,12 @@ window.allHeroes =
             "3个目标持续伤害",
             "治疗降低",
             "自我净化"
+        ],
+        "skill_types": [
+            "范围攻击 (打3)",
+            "净化",
+            "持续伤害",
+            "治疗削减"
         ],
         "source": "月活动-飞沙帝国",
         "Release date": "2017-01-01",
@@ -20989,7 +24431,7 @@ window.allHeroes =
         "family": "sand",
         "image": "https://i.imgur.com/3RqMEeN.jpg",
         "costume_id": 0,
-        "originalIndex": 638
+        "originalIndex": 639
     },
     {
         "name": "朱利安尼 (Juliani)",
@@ -21002,6 +24444,12 @@ window.allHeroes =
         "types": [
             "攻击3个目标",
             "3个目标持续伤害"
+        ],
+        "skill_types": [
+            "范围攻击 (打3)",
+            "持续伤害",
+            "额外伤害",
+            "特殊治疗"
         ],
         "source": "高塔-猫头鹰",
         "Release date": "2024-02-14",
@@ -21021,7 +24469,7 @@ window.allHeroes =
         "family": "owl",
         "image": "https://i.imgur.com/UhbZaxw.jpg",
         "costume_id": 0,
-        "originalIndex": 639
+        "originalIndex": 640
     },
     {
         "name": "凯蒂 (Kitty)",
@@ -21035,6 +24483,12 @@ window.allHeroes =
             "全体强化治疗",
             "全体反射状态异常",
             "自我防御增益"
+        ],
+        "skill_types": [
+            "防御增益",
+            "生命强化",
+            "反射",
+            "持续治疗"
         ],
         "source": "联盟-火枪手",
         "Release date": "2023-03-08",
@@ -21054,7 +24508,7 @@ window.allHeroes =
         "family": "musketeer",
         "image": "https://i.imgur.com/2nOJ3dV.jpg",
         "costume_id": 0,
-        "originalIndex": 640
+        "originalIndex": 641
     },
     {
         "name": "科达 (Koda)",
@@ -21067,6 +24521,10 @@ window.allHeroes =
         "types": [
             "攻击单个目标",
             "防御降低"
+        ],
+        "skill_types": [
+            "防御减益",
+            "狙击手"
         ],
         "source": "联盟-骑士冲击",
         "Release date": "2023-10-18",
@@ -21086,7 +24544,7 @@ window.allHeroes =
         "family": "bear",
         "image": "https://i.imgur.com/QTVEQjn.jpg",
         "costume_id": 0,
-        "originalIndex": 641
+        "originalIndex": 642
     },
     {
         "name": "莱克茜 (Lexi)",
@@ -21101,6 +24559,11 @@ window.allHeroes =
             "3名敌方伤害分担",
             "元素防御增益",
             "元素防御降低"
+        ],
+        "skill_types": [
+            "防御增益",
+            "伤害分摊",
+            "防御减益"
         ],
         "source": "超级元素人",
         "Release date": "2023-11-06",
@@ -21125,7 +24588,7 @@ window.allHeroes =
         "family": "superelemental",
         "image": "https://i.imgur.com/Jtfysu9.jpg",
         "costume_id": 0,
-        "originalIndex": 642
+        "originalIndex": 643
     },
     {
         "name": "梅朵 (Meadow)",
@@ -21139,6 +24602,10 @@ window.allHeroes =
             "攻击单个目标",
             "单体持续伤害"
         ],
+        "skill_types": [
+            "持续伤害",
+            "狙击手"
+        ],
         "source": "盟约召唤",
         "Release date": "2022-10-15",
         "star": 4,
@@ -21151,13 +24618,13 @@ window.allHeroes =
             "目标在 3 回合内受到共计 402 点剧毒伤害，一开始伤害较低，之后每个回合会逐渐增加。"
         ],
         "passives": [
-            "特殊技能附加状态效果：当该角色施放其特殊技能时，会给一个随机敌人施加猎人印记。目标在 150 回合内受到 3 点伤害。如果目标已有此效果，则持续时间刷新，伤害增加 150 点，总伤害最高可达 1500 点。",
+            "特殊技能附加状态效果：当该角色施放其特殊技能时，会给一个随机敌人施加猎人印记。目标在 3 回合内受到 150 点伤害。如果目标已有此效果，则持续时间刷新，伤害增加 150 点，总伤害最高可达 1500 点。",
             "特殊技能伤害减免：该角色有 10% 的几率将受到的特殊技能直接伤害降至 1 点。"
         ],
         "family": "plainshunter",
         "image": "https://i.imgur.com/rm17UZ5.jpg",
         "costume_id": 0,
-        "originalIndex": 643
+        "originalIndex": 644
     },
     {
         "name": "梅林 (Merlin)",
@@ -21170,6 +24637,11 @@ window.allHeroes =
         "types": [
             "攻击单个目标",
             "莽夫乱拳"
+        ],
+        "skill_types": [
+            "精神错乱攻击&治疗",
+            "狙击手",
+            "额外伤害"
         ],
         "source": "挑战节-阿瓦隆",
         "Release date": "2017-01-01",
@@ -21187,7 +24659,7 @@ window.allHeroes =
         "family": "avalon",
         "image": "https://i.imgur.com/z8mBTci.jpg",
         "costume_id": 0,
-        "originalIndex": 644
+        "originalIndex": 645
     },
     {
         "name": "梅林 (Merlin) C1",
@@ -21200,6 +24672,11 @@ window.allHeroes =
         "types": [
             "攻击3个目标",
             "莽夫乱拳"
+        ],
+        "skill_types": [
+            "范围攻击 (打3)",
+            "精神错乱攻击&治疗",
+            "额外伤害"
         ],
         "source": "挑战节-阿瓦隆",
         "Release date": "2023-04-20",
@@ -21217,7 +24694,7 @@ window.allHeroes =
         "family": "avalon",
         "image": "https://i.imgur.com/VwvFKmH.jpg",
         "costume_id": 1,
-        "originalIndex": 645
+        "originalIndex": 646
     },
     {
         "name": "普罗透斯 (Proteus)",
@@ -21230,6 +24707,10 @@ window.allHeroes =
         "types": [
             "3个目标持续伤害",
             "法力获取冻结"
+        ],
+        "skill_types": [
+            "持续伤害",
+            "法力削减或格挡"
         ],
         "source": "S2-亚特兰蒂斯",
         "Release date": "2019-08-01",
@@ -21246,7 +24727,7 @@ window.allHeroes =
         "family": "atlantis",
         "image": "https://i.imgur.com/m2PmJmo.jpg",
         "costume_id": 0,
-        "originalIndex": 646
+        "originalIndex": 647
     },
     {
         "name": "普罗透斯 (Proteus) C1",
@@ -21259,6 +24740,10 @@ window.allHeroes =
         "types": [
             "全体持续伤害",
             "全体法力降低"
+        ],
+        "skill_types": [
+            "持续伤害",
+            "法力削减或格挡"
         ],
         "source": "S2-亚特兰蒂斯",
         "Release date": "2023-04-03",
@@ -21275,7 +24760,7 @@ window.allHeroes =
         "family": "atlantis",
         "image": "https://i.imgur.com/5sfSAJC.jpg",
         "costume_id": 1,
-        "originalIndex": 647
+        "originalIndex": 648
     },
     {
         "name": "里加 (Rigard)",
@@ -21288,6 +24773,10 @@ window.allHeroes =
         "types": [
             "全体治疗",
             "净化者"
+        ],
+        "skill_types": [
+            "净化",
+            "治疗"
         ],
         "source": "S1-经典",
         "Release date": "2017-01-01",
@@ -21304,7 +24793,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/epzxGwy.jpg",
         "costume_id": 0,
-        "originalIndex": 648
+        "originalIndex": 649
     },
     {
         "name": "里加 (Rigard) C1",
@@ -21318,6 +24807,11 @@ window.allHeroes =
             "全体持续治疗",
             "全体攻击增益",
             "净化者"
+        ],
+        "skill_types": [
+            "攻击增益",
+            "净化",
+            "持续治疗"
         ],
         "source": "S1-经典",
         "Release date": "2020-01-01",
@@ -21335,7 +24829,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/9nzkBMP.jpg",
         "costume_id": 1,
-        "originalIndex": 649
+        "originalIndex": 650
     },
     {
         "name": "里加 (Rigard) C2",
@@ -21349,6 +24843,11 @@ window.allHeroes =
             "全体生命值加成",
             "全体防御增益",
             "净化者"
+        ],
+        "skill_types": [
+            "防御增益",
+            "净化",
+            "生命强化"
         ],
         "source": "S1-经典",
         "Release date": "2023-04-17",
@@ -21366,7 +24865,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/0dWPfN4.jpg",
         "costume_id": 2,
-        "originalIndex": 650
+        "originalIndex": 651
     },
     {
         "name": "里加 (Rigard) 卡通",
@@ -21380,6 +24879,11 @@ window.allHeroes =
             "全体治疗",
             "全体防御增益",
             "净化者"
+        ],
+        "skill_types": [
+            "净化",
+            "治疗",
+            "防御增益"
         ],
         "source": "S1-经典",
         "Release date": "2024-06-28",
@@ -21399,7 +24903,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/rCKWMnx.jpg",
         "costume_id": 3,
-        "originalIndex": 651
+        "originalIndex": 652
     },
     {
         "name": "萨拜娜 (Sabina)",
@@ -21412,6 +24916,10 @@ window.allHeroes =
         "types": [
             "治疗者",
             "驱散者"
+        ],
+        "skill_types": [
+            "驱散",
+            "治疗"
         ],
         "source": "S1-经典",
         "Release date": "2017-01-01",
@@ -21428,7 +24936,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/G6mmZNN.jpg",
         "costume_id": 0,
-        "originalIndex": 652
+        "originalIndex": 653
     },
     {
         "name": "萨拜娜 (Sabina) C1",
@@ -21442,6 +24950,11 @@ window.allHeroes =
             "全体持续治疗",
             "全体增益免疫",
             "全体驱散"
+        ],
+        "skill_types": [
+            "增益格挡者",
+            "驱散",
+            "持续治疗"
         ],
         "source": "S1-经典",
         "Release date": "2021-01-18",
@@ -21459,7 +24972,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/flsZEGB.jpg",
         "costume_id": 1,
-        "originalIndex": 653
+        "originalIndex": 654
     },
     {
         "name": "萨拜娜 (Sabina) C2",
@@ -21473,6 +24986,11 @@ window.allHeroes =
             "全体持续治疗",
             "全体状态异常免疫",
             "净化者"
+        ],
+        "skill_types": [
+            "净化",
+            "持续治疗",
+            "提供免疫"
         ],
         "source": "S1-经典",
         "Release date": "2023-11-27",
@@ -21490,7 +25008,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/EBmu86N.jpg",
         "costume_id": 2,
-        "originalIndex": 654
+        "originalIndex": 655
     },
     {
         "name": "萨拜娜 (Sabina) 卡通",
@@ -21504,6 +25022,11 @@ window.allHeroes =
             "全体治疗",
             "全体防御增益",
             "驱散者"
+        ],
+        "skill_types": [
+            "防御增益",
+            "驱散",
+            "治疗"
         ],
         "source": "S1-经典",
         "Release date": "2024-10-06",
@@ -21523,7 +25046,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/8kaUg4T.jpg",
         "costume_id": 3,
-        "originalIndex": 655
+        "originalIndex": 656
     },
     {
         "name": "谢尔盖 (Sergei)",
@@ -21537,6 +25060,11 @@ window.allHeroes =
             "元素防御降低",
             "普通攻击增益",
             "蓄力"
+        ],
+        "skill_types": [
+            "攻击增益",
+            "防御减益",
+            "全体攻击 (打5)"
         ],
         "source": "高塔-魔法",
         "Release date": "2021-09-15",
@@ -21558,7 +25086,7 @@ window.allHeroes =
         "family": "magic",
         "image": "https://i.imgur.com/2gnuaoM.jpg",
         "costume_id": 0,
-        "originalIndex": 656
+        "originalIndex": 657
     },
     {
         "name": "沙凯 (Shar'Khai)",
@@ -21571,6 +25099,9 @@ window.allHeroes =
         "types": [
             "泰坦攻击增益",
             "暴击增益"
+        ],
+        "skill_types": [
+            "攻击增益"
         ],
         "source": "S6-S7-秘闻",
         "Release date": "2023-06-07",
@@ -21597,7 +25128,7 @@ window.allHeroes =
         "family": "nightmaresofatlantis",
         "image": "https://i.imgur.com/pCqXNHO.jpg",
         "costume_id": 0,
-        "originalIndex": 657
+        "originalIndex": 658
     },
     {
         "name": "沙凯 (Shar'Khai) C1",
@@ -21610,6 +25141,9 @@ window.allHeroes =
         "types": [
             "泰坦攻击增益",
             "暴击增益"
+        ],
+        "skill_types": [
+            "攻击增益"
         ],
         "source": "S6-S7-秘闻",
         "Release date": "2025-02-03",
@@ -21637,7 +25171,7 @@ window.allHeroes =
         "family": "nightmaresofatlantis",
         "image": "https://i.imgur.com/ER0xDRX.jpg",
         "costume_id": 1,
-        "originalIndex": 658
+        "originalIndex": 659
     },
     {
         "name": "肖戈 (Shoggo)",
@@ -21652,6 +25186,11 @@ window.allHeroes =
             "狂乱",
             "增益免疫",
             "自我狂乱"
+        ],
+        "skill_types": [
+            "增益格挡者",
+            "全体攻击 (打5)",
+            "对自身或友军负面效果"
         ],
         "source": "神秘-暗影",
         "Release date": "2025-01-09",
@@ -21669,7 +25208,7 @@ window.allHeroes =
         "family": "cultist",
         "image": "https://i.imgur.com/tl6HZEf.jpg",
         "costume_id": 0,
-        "originalIndex": 659
+        "originalIndex": 660
     },
     {
         "name": "希罗布雷 (Shyombre)",
@@ -21682,6 +25221,13 @@ window.allHeroes =
         "types": [
             "攻击2个目标",
             "2个目标持续伤害"
+        ],
+        "skill_types": [
+            "狙击手",
+            "持续伤害",
+            "额外伤害",
+            "闪避",
+            "反制小兵"
         ],
         "source": "联盟-飞蛾",
         "Release date": "2025-01-23",
@@ -21700,7 +25246,7 @@ window.allHeroes =
         "family": "moth",
         "image": "https://i.imgur.com/Gn8sJfi.jpg",
         "costume_id": 0,
-        "originalIndex": 660
+        "originalIndex": 661
     },
     {
         "name": "斯通克里夫 (Stonecleave)",
@@ -21712,6 +25258,13 @@ window.allHeroes =
         "skill": "恐怖幽灵",
         "types": [
             "幽灵形态"
+        ],
+        "skill_types": [
+            "连锁与随机攻击",
+            "净化",
+            "鬼魂形态与隐藏",
+            "叠加",
+            "全体攻击 (打5)"
         ],
         "source": "S3-瓦尔哈拉",
         "Release date": "2020-02-27",
@@ -21731,7 +25284,7 @@ window.allHeroes =
         "family": "helheim",
         "image": "https://i.imgur.com/7VLylDF.jpg",
         "costume_id": 0,
-        "originalIndex": 661
+        "originalIndex": 662
     },
     {
         "name": "迪波特斯 (Tiburtus)",
@@ -21744,6 +25297,10 @@ window.allHeroes =
         "types": [
             "攻击3个目标",
             "3个目标防御降低"
+        ],
+        "skill_types": [
+            "范围攻击 (打3)",
+            "防御减益"
         ],
         "source": "S1-经典",
         "Release date": "2017-01-01",
@@ -21760,7 +25317,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/XQUgnc6.jpg",
         "costume_id": 0,
-        "originalIndex": 662
+        "originalIndex": 663
     },
     {
         "name": "迪波特斯 (Tiburtus) C1",
@@ -21773,6 +25330,10 @@ window.allHeroes =
         "types": [
             "攻击所有目标",
             "全体防御降低"
+        ],
+        "skill_types": [
+            "全体攻击 (打5)",
+            "防御减益"
         ],
         "source": "S1-经典",
         "Release date": "2020-01-01",
@@ -21789,7 +25350,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/IyFUCM0.jpg",
         "costume_id": 1,
-        "originalIndex": 663
+        "originalIndex": 664
     },
     {
         "name": "迪波特斯 (Tiburtus) C2",
@@ -21802,6 +25363,10 @@ window.allHeroes =
         "types": [
             "攻击3个目标",
             "3个目标最大生命值降低"
+        ],
+        "skill_types": [
+            "范围攻击 (打3)",
+            "最大生命削减"
         ],
         "source": "S1-经典",
         "Release date": "2023-10-30",
@@ -21818,7 +25383,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/Yc1tBJ1.jpg",
         "costume_id": 2,
-        "originalIndex": 664
+        "originalIndex": 665
     },
     {
         "name": "迪波特斯 (Tiburtus) 卡通",
@@ -21831,6 +25396,11 @@ window.allHeroes =
         "types": [
             "攻击3个目标",
             "防御降低"
+        ],
+        "skill_types": [
+            "范围攻击 (打3)",
+            "防御减益",
+            "额外伤害"
         ],
         "source": "S1-经典",
         "Release date": "2024-08-11",
@@ -21850,7 +25420,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/XlVXDYe.jpg",
         "costume_id": 3,
-        "originalIndex": 665
+        "originalIndex": 666
     },
     {
         "name": "酸火 (Acidfire)",
@@ -21865,6 +25435,11 @@ window.allHeroes =
             "衰退攻击",
             "衰退防御",
             "3个目标反射增益"
+        ],
+        "skill_types": [
+            "属性修改",
+            "反射",
+            "范围攻击 (打3)"
         ],
         "source": "哥布林召唤",
         "Release date": "2023-12-11",
@@ -21886,7 +25461,7 @@ window.allHeroes =
         "family": "goblin",
         "image": "https://i.imgur.com/KXpETJ0.jpg",
         "costume_id": 0,
-        "originalIndex": 666
+        "originalIndex": 667
     },
     {
         "name": "阿珂妮亚 (Aconia)",
@@ -21899,6 +25474,10 @@ window.allHeroes =
         "types": [
             "召唤1个恶魔",
             "元素恶魔召唤者"
+        ],
+        "skill_types": [
+            "持续伤害",
+            "召唤恶魔"
         ],
         "source": "超级元素人",
         "Release date": "2023-05-22",
@@ -21922,7 +25501,7 @@ window.allHeroes =
         "family": "superelemental",
         "image": "https://i.imgur.com/VT78aoB.jpg",
         "costume_id": 0,
-        "originalIndex": 667
+        "originalIndex": 668
     },
     {
         "name": "艾龙 (Aeron)",
@@ -21936,6 +25515,13 @@ window.allHeroes =
             "全体持续治疗",
             "3个目标状态异常免疫",
             "净化 (3个目标)"
+        ],
+        "skill_types": [
+            "净化",
+            "持续治疗",
+            "提供免疫",
+            "攻击增益",
+            "防御增益"
         ],
         "source": "月英",
         "Release date": "2018-04-01T00:00:00",
@@ -21954,7 +25540,7 @@ window.allHeroes =
         "family": 2018,
         "image": "https://i.imgur.com/9AxepJ9.jpg",
         "costume_id": 0,
-        "originalIndex": 668
+        "originalIndex": 669
     },
     {
         "name": "艾龙 (Aeron) C1",
@@ -21967,6 +25553,12 @@ window.allHeroes =
         "types": [
             "全体治疗",
             "移除3个目标的状态异常"
+        ],
+        "skill_types": [
+            "净化",
+            "治疗",
+            "攻击增益",
+            "防御增益"
         ],
         "source": "月英",
         "Release date": "2023-01-23",
@@ -21986,7 +25578,7 @@ window.allHeroes =
         "family": 2018,
         "image": "https://i.imgur.com/WvBRV3O.jpg",
         "costume_id": 1,
-        "originalIndex": 669
+        "originalIndex": 670
     },
     {
         "name": "阿格拉菲纳 (Agrafena)",
@@ -22004,6 +25596,14 @@ window.allHeroes =
             "全体攻击增益",
             "全体防御增益",
             "全体持续治疗"
+        ],
+        "skill_types": [
+            "攻击增益",
+            "防御增益",
+            "攻击减益",
+            "防御减益",
+            "持续伤害",
+            "持续治疗"
         ],
         "source": "高塔-魔法",
         "Release date": "2021-09-15",
@@ -22029,7 +25629,7 @@ window.allHeroes =
         "family": "magic",
         "image": "https://i.imgur.com/19jbbwr.jpg",
         "costume_id": 0,
-        "originalIndex": 670
+        "originalIndex": 671
     },
     {
         "name": "阿格拉菲纳 (Agrafena) C1",
@@ -22047,6 +25647,14 @@ window.allHeroes =
             "全体攻击增益",
             "全体防御增益",
             "全体强化持续治疗"
+        ],
+        "skill_types": [
+            "攻击增益",
+            "防御增益",
+            "攻击减益",
+            "防御减益",
+            "持续伤害",
+            "生命强化"
         ],
         "source": "高塔-魔法",
         "Release date": "2025-05-29",
@@ -22073,7 +25681,7 @@ window.allHeroes =
         "family": "magic",
         "image": "https://imgur.com/QIlXtnC.jpg",
         "costume_id": 1,
-        "originalIndex": 671
+        "originalIndex": 672
     },
     {
         "name": "阿基利乌斯 (Akilius)",
@@ -22087,6 +25695,12 @@ window.allHeroes =
             "偷取1个小兵",
             "攻击单个目标",
             "3个目标致盲"
+        ],
+        "skill_types": [
+            "攻击减益",
+            "反制小兵",
+            "狙击手",
+            "防御增益"
         ],
         "source": "月英",
         "Release date": "2025-06-01",
@@ -22108,7 +25722,7 @@ window.allHeroes =
         "family": 2025,
         "image": "https://imgur.com/jq0Lgzp.jpg",
         "costume_id": 0,
-        "originalIndex": 672
+        "originalIndex": 673
     },
     {
         "name": "阿尔弗莱克 (Alfrike)",
@@ -22122,6 +25736,11 @@ window.allHeroes =
             "攻击5个目标",
             "最大生命值降低",
             "莽夫乱拳"
+        ],
+        "skill_types": [
+            "连锁与随机攻击",
+            "最大生命削减",
+            "精神错乱攻击&治疗"
         ],
         "source": "S3-瓦尔哈拉",
         "Release date": "2020-04-23",
@@ -22140,7 +25759,7 @@ window.allHeroes =
         "family": "svartalfheim",
         "image": "https://i.imgur.com/O54lA6V.jpg",
         "costume_id": 0,
-        "originalIndex": 673
+        "originalIndex": 674
     },
     {
         "name": "阿尔弗莱克 (Alfrike) C1",
@@ -22154,6 +25773,11 @@ window.allHeroes =
             "攻击5个目标",
             "最大生命值降低",
             "莽夫乱拳"
+        ],
+        "skill_types": [
+            "连锁与随机攻击",
+            "最大生命削减",
+            "精神错乱攻击&治疗"
         ],
         "source": "S3-瓦尔哈拉",
         "Release date": "2023-07-03",
@@ -22172,7 +25796,7 @@ window.allHeroes =
         "family": "svartalfheim",
         "image": "https://i.imgur.com/2AJeAry.jpg",
         "costume_id": 1,
-        "originalIndex": 674
+        "originalIndex": 675
     },
     {
         "name": "紫石 (Amethyst)",
@@ -22185,6 +25809,11 @@ window.allHeroes =
         "types": [
             "攻击所有目标",
             "召唤所有恶魔"
+        ],
+        "skill_types": [
+            "召唤恶魔",
+            "全体攻击 (打5)",
+            "持续伤害"
         ],
         "source": "高塔-忍者",
         "Release date": "2023-01-11",
@@ -22212,7 +25841,7 @@ window.allHeroes =
         "family": "ninja",
         "image": "https://i.imgur.com/OBE1Glz.jpg",
         "costume_id": 0,
-        "originalIndex": 675
+        "originalIndex": 676
     },
     {
         "name": "安诺舒卡 (Anoushka)",
@@ -22226,6 +25855,12 @@ window.allHeroes =
             "全体治疗",
             "增益偷取者",
             "沉睡"
+        ],
+        "skill_types": [
+            "增益窃取者",
+            "治疗",
+            "沉睡",
+            "攻击增益"
         ],
         "source": "月英",
         "Release date": "2024-03-01",
@@ -22250,7 +25885,7 @@ window.allHeroes =
         "family": 2024,
         "image": "https://i.imgur.com/mDRIe3A.jpg",
         "costume_id": 0,
-        "originalIndex": 676
+        "originalIndex": 677
     },
     {
         "name": "阿努比斯 (Anubis)",
@@ -22264,6 +25899,11 @@ window.allHeroes =
             "贪婪",
             "全体持续伤害",
             "防御降低"
+        ],
+        "skill_types": [
+            "增益格挡者",
+            "防御减益",
+            "持续伤害"
         ],
         "source": "S5-沙丘",
         "Release date": "2023-03-16",
@@ -22285,7 +25925,7 @@ window.allHeroes =
         "family": "moon",
         "image": "https://i.imgur.com/QQQGz6W.jpg",
         "costume_id": 0,
-        "originalIndex": 677
+        "originalIndex": 678
     },
     {
         "name": "阿努比斯 (Anubis) C1",
@@ -22299,6 +25939,11 @@ window.allHeroes =
             "贪婪",
             "全体持续伤害",
             "防御降低"
+        ],
+        "skill_types": [
+            "增益格挡者",
+            "防御减益",
+            "持续伤害"
         ],
         "source": "S5-沙丘",
         "Release date": "2024-02-05",
@@ -22322,7 +25967,7 @@ window.allHeroes =
         "family": "moon",
         "image": "https://i.imgur.com/8BGU68M.jpg",
         "costume_id": 1,
-        "originalIndex": 678
+        "originalIndex": 679
     },
     {
         "name": "阿拉密斯 (Aramis)",
@@ -22337,6 +25982,12 @@ window.allHeroes =
             "状态异常免疫",
             "伤害治疗",
             "防御增益"
+        ],
+        "skill_types": [
+            "范围攻击 (打3)",
+            "生命强化",
+            "提供免疫",
+            "特殊治疗"
         ],
         "source": "联盟-火枪手",
         "Release date": "2022-12-14",
@@ -22357,7 +26008,7 @@ window.allHeroes =
         "family": "musketeer",
         "image": "https://i.imgur.com/7DRTWTb.jpg",
         "costume_id": 0,
-        "originalIndex": 679
+        "originalIndex": 680
     },
     {
         "name": "阿法尼亚斯 (Arfanias)",
@@ -22370,6 +26021,12 @@ window.allHeroes =
         "types": [
             "攻击单个目标",
             "闪避"
+        ],
+        "skill_types": [
+            "闪避",
+            "狙击手",
+            "额外伤害",
+            "防御增益"
         ],
         "source": "月英",
         "Release date": "2022-06-01",
@@ -22391,7 +26048,7 @@ window.allHeroes =
         "family": 2022,
         "image": "https://i.imgur.com/VIzTbRE.jpg",
         "costume_id": 0,
-        "originalIndex": 680
+        "originalIndex": 681
     },
     {
         "name": "阿斯科特尔 (Asketel)",
@@ -22405,6 +26062,11 @@ window.allHeroes =
             "攻击3个目标",
             "3个目标狂乱",
             "自我狂乱"
+        ],
+        "skill_types": [
+            "范围攻击 (打3)",
+            "净化格挡者",
+            "对自身或友军负面效果"
         ],
         "source": "神秘-暗影",
         "Release date": "2025-05-13",
@@ -22422,7 +26084,7 @@ window.allHeroes =
         "family": "cultist",
         "image": "https://imgur.com/l1cl4kl.jpg",
         "costume_id": 0,
-        "originalIndex": 681
+        "originalIndex": 682
     },
     {
         "name": "巴斯泰托 (Bastet)",
@@ -22435,6 +26097,12 @@ window.allHeroes =
         "types": [
             "攻击所有目标",
             "闪避增益"
+        ],
+        "skill_types": [
+            "全体攻击 (打5)",
+            "防御增益",
+            "闪避",
+            "叠加"
         ],
         "source": "S5-沙丘",
         "Release date": "2022-08-04",
@@ -22455,7 +26123,7 @@ window.allHeroes =
         "family": "moon",
         "image": "https://i.imgur.com/4N9tjf5.jpg",
         "costume_id": 0,
-        "originalIndex": 682
+        "originalIndex": 683
     },
     {
         "name": "巴斯泰托 (Bastet) C1",
@@ -22468,6 +26136,12 @@ window.allHeroes =
         "types": [
             "攻击所有目标",
             "闪避增益"
+        ],
+        "skill_types": [
+            "全体攻击 (打5)",
+            "闪避",
+            "防御增益",
+            "叠加"
         ],
         "source": "S5-沙丘",
         "Release date": "2024-08-10",
@@ -22490,7 +26164,7 @@ window.allHeroes =
         "family": "moon",
         "image": "https://i.imgur.com/21HSfR4.jpg",
         "costume_id": 1,
-        "originalIndex": 683
+        "originalIndex": 684
     },
     {
         "name": "贝琪 (Becky)",
@@ -22503,6 +26177,14 @@ window.allHeroes =
         "types": [
             "攻击单个目标",
             "法力增长"
+        ],
+        "skill_types": [
+            "全体攻击 (打5)",
+            "法力提升",
+            "法力削减或格挡",
+            "狙击手",
+            "叠加",
+            "治疗"
         ],
         "source": "高塔-魔法",
         "Release date": "2023-06-28",
@@ -22527,7 +26209,7 @@ window.allHeroes =
         "family": "magic",
         "image": "https://i.imgur.com/xqlrby4.jpg",
         "costume_id": 0,
-        "originalIndex": 684
+        "originalIndex": 685
     },
     {
         "name": "贝拉多娜 (Belladonna)",
@@ -22541,6 +26223,12 @@ window.allHeroes =
             "全体治疗",
             "攻击增益",
             "驱散免疫"
+        ],
+        "skill_types": [
+            "攻击增益",
+            "治疗",
+            "提供免疫",
+            "特殊治疗"
         ],
         "source": "挑战节-吟游诗人",
         "Release date": "2023-03-23",
@@ -22561,7 +26249,7 @@ window.allHeroes =
         "family": "bard",
         "image": "https://i.imgur.com/sGuDCiH.jpg",
         "costume_id": 0,
-        "originalIndex": 685
+        "originalIndex": 686
     },
     {
         "name": "贝拉 (Bera)",
@@ -22575,6 +26263,11 @@ window.allHeroes =
             "召唤者",
             "抵抗小兵",
             "单体持续伤害"
+        ],
+        "skill_types": [
+            "持续伤害",
+            "反制小兵",
+            "召唤小兵"
         ],
         "source": "S3-瓦尔哈拉",
         "Release date": "2020-09-24",
@@ -22593,7 +26286,7 @@ window.allHeroes =
         "family": "vanaheim",
         "image": "https://i.imgur.com/NBFcAXz.jpg",
         "costume_id": 0,
-        "originalIndex": 686
+        "originalIndex": 687
     },
     {
         "name": "贝拉 (Bera) C1",
@@ -22607,6 +26300,11 @@ window.allHeroes =
             "召唤者",
             "抵抗小兵",
             "单体持续伤害"
+        ],
+        "skill_types": [
+            "持续伤害",
+            "反制小兵",
+            "召唤小兵"
         ],
         "source": "S3-瓦尔哈拉",
         "Release date": "2023-06-05",
@@ -22625,7 +26323,7 @@ window.allHeroes =
         "family": "vanaheim",
         "image": "https://i.imgur.com/jUs21jO.jpg",
         "costume_id": 1,
-        "originalIndex": 687
+        "originalIndex": 688
     },
     {
         "name": "狼老大 (Boss Wolf)",
@@ -22639,6 +26337,11 @@ window.allHeroes =
             "法力生成增益",
             "法力生成降低",
             "反击"
+        ],
+        "skill_types": [
+            "反击",
+            "法力生成增益",
+            "法力削减或格挡"
         ],
         "source": "挑战节-肃煞森林",
         "Release date": "2018-06-01",
@@ -22656,7 +26359,7 @@ window.allHeroes =
         "family": "grimforest",
         "image": "https://i.imgur.com/iVvmOFs.jpg",
         "costume_id": 0,
-        "originalIndex": 688
+        "originalIndex": 689
     },
     {
         "name": "卡尔塔 (Carta)",
@@ -22670,6 +26373,12 @@ window.allHeroes =
             "全体治疗",
             "移除状态异常",
             "全体法力生成增益"
+        ],
+        "skill_types": [
+            "净化",
+            "治疗",
+            "法力生成增益",
+            "生命强化"
         ],
         "source": "盟约召唤",
         "Release date": "2024-04-25",
@@ -22692,7 +26401,7 @@ window.allHeroes =
         "family": "construct",
         "image": "https://i.imgur.com/uiGjBrD.jpg",
         "costume_id": 0,
-        "originalIndex": 689
+        "originalIndex": 690
     },
     {
         "name": "塞西莉亚 (Cecilia)",
@@ -22705,6 +26414,11 @@ window.allHeroes =
         "types": [
             "攻击所有目标",
             "全体闪避"
+        ],
+        "skill_types": [
+            "全体攻击 (打5)",
+            "闪避",
+            "生命强化"
         ],
         "source": "联盟-骑士冲击",
         "Release date": "2024-04-10",
@@ -22723,7 +26437,7 @@ window.allHeroes =
         "family": "stag",
         "image": "https://i.imgur.com/FjOt9jJ.jpg",
         "costume_id": 0,
-        "originalIndex": 690
+        "originalIndex": 691
     },
     {
         "name": "塞妮乌丝 (Cennius)",
@@ -22736,6 +26450,12 @@ window.allHeroes =
         "types": [
             "攻击单个目标",
             "连锁攻击"
+        ],
+        "skill_types": [
+            "连锁与随机攻击",
+            "额外伤害",
+            "狙击手",
+            "绕过"
         ],
         "source": "高塔-猫头鹰",
         "Release date": "2024-07-02",
@@ -22756,7 +26476,7 @@ window.allHeroes =
         "family": "owl",
         "image": "https://i.imgur.com/FJtndTk.jpg",
         "costume_id": 0,
-        "originalIndex": 691
+        "originalIndex": 692
     },
     {
         "name": "查科斯兹洛特 (Chakkoszrot)",
@@ -22770,6 +26490,12 @@ window.allHeroes =
             "攻击所有目标",
             "法力生成降低",
             "增益免疫状态异常"
+        ],
+        "skill_types": [
+            "全体攻击 (打5)",
+            "增益格挡者",
+            "特殊治疗",
+            "法力削减或格挡"
         ],
         "source": "月英",
         "Release date": "2021-08-01",
@@ -22791,7 +26517,7 @@ window.allHeroes =
         "family": 2021,
         "image": "https://i.imgur.com/tvzGcka.jpg",
         "costume_id": 0,
-        "originalIndex": 692
+        "originalIndex": 693
     },
     {
         "name": "卡戎 (Charon)",
@@ -22805,6 +26531,11 @@ window.allHeroes =
             "蓄力",
             "全体生命值加成",
             "复活者",
+            "持续治疗"
+        ],
+        "skill_types": [
+            "生命强化",
+            "复活",
             "持续治疗"
         ],
         "source": "高塔-冥河",
@@ -22833,7 +26564,7 @@ window.allHeroes =
         "family": "styx",
         "image": "https://i.imgur.com/eSyywNh.jpg",
         "costume_id": 0,
-        "originalIndex": 693
+        "originalIndex": 694
     },
     {
         "name": "克拉里萨 (Clarissa)",
@@ -22846,6 +26577,12 @@ window.allHeroes =
         "types": [
             "攻击3个目标",
             "3个目标持续伤害"
+        ],
+        "skill_types": [
+            "范围攻击 (打3)",
+            "持续伤害",
+            "额外伤害",
+            "防御增益"
         ],
         "source": "月英",
         "Release date": "2020-05-01",
@@ -22866,7 +26603,7 @@ window.allHeroes =
         "family": 2020,
         "image": "https://i.imgur.com/YBAuibe.jpg",
         "costume_id": 0,
-        "originalIndex": 694
+        "originalIndex": 695
     },
     {
         "name": "暗黑领主 (Dark Lord)",
@@ -22881,6 +26618,12 @@ window.allHeroes =
             "减少3个目标增益持续时间",
             "3个目标持续伤害",
             "3个目标法力生成降低"
+        ],
+        "skill_types": [
+            "持续伤害",
+            "法力削减或格挡",
+            "狙击手",
+            "效果持续重置"
         ],
         "source": "挑战节-恶棍",
         "Release date": "2021-02-11",
@@ -22898,7 +26641,7 @@ window.allHeroes =
         "family": "villains",
         "image": "https://i.imgur.com/ja50n6G.jpg",
         "costume_id": 0,
-        "originalIndex": 695
+        "originalIndex": 696
     },
     {
         "name": "暗黑领主 (Dark Lord) C1",
@@ -22913,6 +26656,12 @@ window.allHeroes =
             "减少3个目标增益持续时间",
             "3个目标持续伤害",
             "3个目标法力生成降低"
+        ],
+        "skill_types": [
+            "持续伤害",
+            "效果持续重置",
+            "法力削减或格挡",
+            "狙击手"
         ],
         "source": "挑战节-恶棍",
         "Release date": "2024-11-14",
@@ -22932,7 +26681,7 @@ window.allHeroes =
         "family": "villains",
         "image": "https://i.imgur.com/Mz4axni.jpg",
         "costume_id": 1,
-        "originalIndex": 696
+        "originalIndex": 697
     },
     {
         "name": "黑比特 (Darkbeat)",
@@ -22947,6 +26696,12 @@ window.allHeroes =
             "减少2回合状态异常持续时间",
             "减少2回合增益持续时间",
             "全体增益驱散免疫"
+        ],
+        "skill_types": [
+            "复活抑制",
+            "效果持续重置",
+            "全体攻击 (打5)",
+            "提供免疫"
         ],
         "source": "挑战节-吟游诗人",
         "Release date": "2025-04-09",
@@ -22967,7 +26722,7 @@ window.allHeroes =
         "family": "bard",
         "image": "https://imgur.com/ypDGkpC.jpg",
         "costume_id": 0,
-        "originalIndex": 697
+        "originalIndex": 698
     },
     {
         "name": "暗羽 (Darkfeather)",
@@ -22981,6 +26736,11 @@ window.allHeroes =
             "治疗者",
             "攻击增益",
             "防御增益"
+        ],
+        "skill_types": [
+            "属性修改",
+            "连锁与随机攻击",
+            "治疗"
         ],
         "source": "哥布林召唤",
         "Release date": "2023-09-18",
@@ -23002,7 +26762,7 @@ window.allHeroes =
         "family": "goblin",
         "image": "https://i.imgur.com/9UklXhJ.jpg",
         "costume_id": 0,
-        "originalIndex": 698
+        "originalIndex": 699
     },
     {
         "name": "亡灵布特 (Deadboot)",
@@ -23016,6 +26776,12 @@ window.allHeroes =
             "增益偷取者",
             "攻击单个目标",
             "防御降低"
+        ],
+        "skill_types": [
+            "属性修改",
+            "增益窃取者",
+            "狙击手",
+            "额外伤害"
         ],
         "source": "哥布林召唤",
         "Release date": "2023-09-18",
@@ -23038,7 +26804,7 @@ window.allHeroes =
         "family": "goblin",
         "image": "https://i.imgur.com/6DFOAwr.jpg",
         "costume_id": 0,
-        "originalIndex": 699
+        "originalIndex": 700
     },
     {
         "name": "新月 (Demilune)",
@@ -23052,6 +26818,13 @@ window.allHeroes =
             "攻击3个目标",
             "偷取3个增益",
             "成长"
+        ],
+        "skill_types": [
+            "狙击手",
+            "范围攻击 (打3)",
+            "增益窃取者",
+            "攻击增益",
+            "伤害分摊"
         ],
         "source": "星体召唤",
         "Release date": "2024-05-20",
@@ -23073,7 +26846,7 @@ window.allHeroes =
         "family": "astralelves",
         "image": "https://i.imgur.com/h0XJ3CG.jpg",
         "costume_id": 0,
-        "originalIndex": 700
+        "originalIndex": 701
     },
     {
         "name": "貂蝉 (Diaochan)",
@@ -23086,6 +26859,11 @@ window.allHeroes =
         "types": [
             "全体治疗",
             "召唤者"
+        ],
+        "skill_types": [
+            "增益窃取者",
+            "召唤小兵",
+            "治疗"
         ],
         "source": "三国召唤",
         "Release date": "2022-03-14T12:00:00",
@@ -23103,7 +26881,7 @@ window.allHeroes =
         "family": "kingdom",
         "image": "https://i.imgur.com/PBEksgr.jpg",
         "costume_id": 0,
-        "originalIndex": 701
+        "originalIndex": 702
     },
     {
         "name": "貂蝉 (Diaochan) C1",
@@ -23116,6 +26894,11 @@ window.allHeroes =
         "types": [
             "治疗者",
             "召唤者"
+        ],
+        "skill_types": [
+            "增益窃取者",
+            "治疗",
+            "召唤小兵"
         ],
         "source": "三国召唤",
         "Release date": "2024-05-28",
@@ -23138,7 +26921,7 @@ window.allHeroes =
         "family": "kingdom",
         "image": "https://i.imgur.com/ZWN9v1V.jpg",
         "costume_id": 1,
-        "originalIndex": 702
+        "originalIndex": 703
     },
     {
         "name": "多米西亚 (Domitia)",
@@ -23152,6 +26935,11 @@ window.allHeroes =
             "攻击单个目标",
             "3个目标元素防御增益",
             "驱散3个目标"
+        ],
+        "skill_types": [
+            "防御增益",
+            "驱散",
+            "狙击手"
         ],
         "source": "S1-经典",
         "Release date": "2017-01-01",
@@ -23169,7 +26957,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/t244Fcr.jpg",
         "costume_id": 0,
-        "originalIndex": 703
+        "originalIndex": 704
     },
     {
         "name": "多米西亚 (Domitia) C1",
@@ -23183,6 +26971,11 @@ window.allHeroes =
             "攻击单个目标",
             "3个目标持续伤害",
             "净化 (3个目标)"
+        ],
+        "skill_types": [
+            "净化",
+            "持续伤害",
+            "狙击手"
         ],
         "source": "S1-经典",
         "Release date": "2020-05-18",
@@ -23200,7 +26993,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/mpRxFeU.jpg",
         "costume_id": 1,
-        "originalIndex": 704
+        "originalIndex": 705
     },
     {
         "name": "多米西亚 (Domitia) C2",
@@ -23213,6 +27006,11 @@ window.allHeroes =
         "types": [
             "攻击3个目标",
             "3个目标元素防御降低"
+        ],
+        "skill_types": [
+            "范围攻击 (打3)",
+            "防御减益",
+            "额外伤害"
         ],
         "source": "S1-经典",
         "Release date": "2022-10-31",
@@ -23230,7 +27028,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/36NtLB6.jpg",
         "costume_id": 2,
-        "originalIndex": 705
+        "originalIndex": 706
     },
     {
         "name": "多米西亚 (Domitia) 卡通",
@@ -23244,6 +27042,12 @@ window.allHeroes =
             "攻击单个目标",
             "3个目标元素防御增益",
             "驱散者"
+        ],
+        "skill_types": [
+            "狙击手",
+            "防御增益",
+            "额外伤害",
+            "驱散"
         ],
         "source": "S1-经典",
         "Release date": "2024-03-11",
@@ -23264,7 +27068,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/q7quKlm.jpg",
         "costume_id": 3,
-        "originalIndex": 706
+        "originalIndex": 707
     },
     {
         "name": "多米西亚 (Domitia) 玻璃",
@@ -23279,6 +27083,12 @@ window.allHeroes =
             "无视防御",
             "3个目标元素防御增益",
             "驱散3个目标"
+        ],
+        "skill_types": [
+            "防御增益",
+            "绕过",
+            "驱散",
+            "狙击手"
         ],
         "source": "S1-经典",
         "Release date": "2025-04-23",
@@ -23299,7 +27109,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://imgur.com/gwMXUDN.jpg",
         "costume_id": 4,
-        "originalIndex": 707
+        "originalIndex": 708
     },
     {
         "name": "莫罗博士 (Dr. Moreau)",
@@ -23312,6 +27122,10 @@ window.allHeroes =
         "types": [
             "攻击3个目标",
             "命中降低"
+        ],
+        "skill_types": [
+            "范围攻击 (打3)",
+            "攻击减益"
         ],
         "source": "S4-蛮荒地界",
         "Release date": "2021-03-25",
@@ -23330,7 +27144,7 @@ window.allHeroes =
         "family": "underwild",
         "image": "https://i.imgur.com/fpP6oo2.jpg",
         "costume_id": 0,
-        "originalIndex": 708
+        "originalIndex": 709
     },
     {
         "name": "莫罗博士 (Dr. Moreau) C1",
@@ -23343,6 +27157,10 @@ window.allHeroes =
         "types": [
             "攻击3个目标",
             "命中降低"
+        ],
+        "skill_types": [
+            "范围攻击 (打3)",
+            "攻击减益"
         ],
         "source": "S4-蛮荒地界",
         "Release date": "2023-04-27",
@@ -23362,7 +27180,7 @@ window.allHeroes =
         "family": "underwild",
         "image": "https://i.imgur.com/WWxEz6I.jpg",
         "costume_id": 1,
-        "originalIndex": 709
+        "originalIndex": 710
     },
     {
         "name": "恐惧之星 (Dreadstar)",
@@ -23376,6 +27194,14 @@ window.allHeroes =
             "攻击所有目标",
             "法力生成降低",
             "治疗降低"
+        ],
+        "skill_types": [
+            "全体攻击 (打5)",
+            "防御减益",
+            "额外伤害",
+            "治疗削减",
+            "法力削减或格挡",
+            "伤害分摊"
         ],
         "source": "星体召唤",
         "Release date": "2024-03-07",
@@ -23397,7 +27223,7 @@ window.allHeroes =
         "family": "astralelves",
         "image": "https://i.imgur.com/XzGqN00.jpg",
         "costume_id": 0,
-        "originalIndex": 710
+        "originalIndex": 711
     },
     {
         "name": "杜班 (Dubhan)",
@@ -23411,6 +27237,12 @@ window.allHeroes =
             "攻击单个目标",
             "连锁",
             "持续伤害"
+        ],
+        "skill_types": [
+            "连锁与随机攻击",
+            "持续伤害",
+            "特殊治疗",
+            "狙击手"
         ],
         "source": "盟约召唤",
         "Release date": "2024-05-23",
@@ -23426,12 +27258,12 @@ window.allHeroes =
         ],
         "passives": [
             "特殊技能伤害减免：该角色有 10% 的几率将受到的特殊技能直接伤害降至 1 点。",
-            "特殊技能附带持续伤害：当该角色施放其特殊技能时，会给一个随机敌人施加猎人印记。目标在 150 回合内受到 3 点伤害。如果目标已有此效果，则持续时间刷新，伤害增加 150 点，总伤害最高可达 1500 点。"
+            "特殊技能附带持续伤害：当该角色施放其特殊技能时，会给一个随机敌人施加猎人印记。目标在 3 回合内受到 150 点伤害。如果目标已有此效果，则持续时间刷新，伤害增加 150 点，总伤害最高可达 1500 点。"
         ],
         "family": "plainshunter",
         "image": "https://i.imgur.com/erlDPi2.jpg",
         "costume_id": 0,
-        "originalIndex": 711
+        "originalIndex": 712
     },
     {
         "name": "杜拉富勒 (Dularfulr)",
@@ -23445,6 +27277,11 @@ window.allHeroes =
             "治疗者",
             "焰暴守卫",
             "状态异常免疫"
+        ],
+        "skill_types": [
+            "治疗",
+            "伤害减免",
+            "提供免疫"
         ],
         "source": "S6-S7-秘闻",
         "Release date": "2024-12-03",
@@ -23468,7 +27305,7 @@ window.allHeroes =
         "family": "nidavellir",
         "image": "https://i.imgur.com/mO16Dj6.jpg",
         "costume_id": 0,
-        "originalIndex": 712
+        "originalIndex": 713
     },
     {
         "name": "厄洛斯 (Eros)",
@@ -23481,6 +27318,10 @@ window.allHeroes =
         "types": [
             "攻击单个目标",
             "受到伤害增加"
+        ],
+        "skill_types": [
+            "额外伤害",
+            "狙击手"
         ],
         "source": "月活动-恋爱季节",
         "Release date": "2024-01-08",
@@ -23499,7 +27340,7 @@ window.allHeroes =
         "family": "cupid",
         "image": "https://i.imgur.com/5JDsRr2.jpg",
         "costume_id": 0,
-        "originalIndex": 713
+        "originalIndex": 714
     },
     {
         "name": "经验拟态兽 (Experience Mimic) Dark",
@@ -23513,6 +27354,15 @@ window.allHeroes =
             "摧毁单个目标的小兵",
             "攻击单个目标",
             "宝箱怪"
+        ],
+        "skill_types": [
+            "特殊治疗",
+            "法力提升",
+            "反制小兵",
+            "狙击手",
+            "提供免疫",
+            "鬼魂形态与隐藏",
+            "绕过"
         ],
         "source": "额外抽奖-秘密召唤",
         "Release date": "2025-06-06",
@@ -23539,7 +27389,7 @@ window.allHeroes =
         "family": "mimic",
         "image": "https://imgur.com/HBoOGrf.jpg",
         "costume_id": 0,
-        "originalIndex": 714
+        "originalIndex": 715
     },
     {
         "name": "法拉 (Farrah)",
@@ -23553,6 +27403,11 @@ window.allHeroes =
             "攻击单个目标",
             "随机攻击",
             "元素防御降低"
+        ],
+        "skill_types": [
+            "连锁与随机攻击",
+            "防御减益",
+            "狙击手"
         ],
         "source": "超级元素人",
         "Release date": "2023-11-06",
@@ -23576,7 +27431,7 @@ window.allHeroes =
         "family": "superelemental",
         "image": "https://i.imgur.com/ciEXCLt.jpg",
         "costume_id": 0,
-        "originalIndex": 715
+        "originalIndex": 716
     },
     {
         "name": "弗蕾亚 (Freya)",
@@ -23589,6 +27444,11 @@ window.allHeroes =
         "types": [
             "召唤者",
             "防御增益者"
+        ],
+        "skill_types": [
+            "防御增益",
+            "小兵强化",
+            "召唤小兵"
         ],
         "source": "S3-瓦尔哈拉",
         "Release date": "2020-02-27",
@@ -23606,7 +27466,7 @@ window.allHeroes =
         "family": "vanaheim",
         "image": "https://i.imgur.com/4iJaoi6.jpg",
         "costume_id": 0,
-        "originalIndex": 716
+        "originalIndex": 717
     },
     {
         "name": "弗蕾亚 (Freya) C1",
@@ -23619,6 +27479,11 @@ window.allHeroes =
         "types": [
             "召唤者",
             "闪避增益"
+        ],
+        "skill_types": [
+            "闪避",
+            "小兵强化",
+            "召唤小兵"
         ],
         "source": "S3-瓦尔哈拉",
         "Release date": "2022-08-01",
@@ -23636,7 +27501,7 @@ window.allHeroes =
         "family": "vanaheim",
         "image": "https://i.imgur.com/Ye3Esdg.jpg",
         "costume_id": 1,
-        "originalIndex": 717
+        "originalIndex": 718
     },
     {
         "name": "加斯蒂尔 (Gastille)",
@@ -23649,6 +27514,10 @@ window.allHeroes =
         "types": [
             "攻击增益",
             "全体伤害增加减益"
+        ],
+        "skill_types": [
+            "攻击增益",
+            "额外伤害"
         ],
         "source": "超级元素人",
         "Release date": "2024-03-25",
@@ -23671,7 +27540,7 @@ window.allHeroes =
         "family": "superelemental",
         "image": "https://i.imgur.com/Hq9OxQ2.jpg",
         "costume_id": 0,
-        "originalIndex": 718
+        "originalIndex": 719
     },
     {
         "name": "贡戈斯 (Gongoth)",
@@ -23685,6 +27554,11 @@ window.allHeroes =
             "攻击3个目标",
             "3个目标衰退",
             "3个目标增伤"
+        ],
+        "skill_types": [
+            "范围攻击 (打3)",
+            "额外伤害",
+            "属性修改"
         ],
         "source": "星体召唤",
         "Release date": "2025-05-07",
@@ -23706,7 +27580,7 @@ window.allHeroes =
         "family": "astraldwarfs",
         "image": "https://imgur.com/qkGDpyg.jpg",
         "costume_id": 0,
-        "originalIndex": 719
+        "originalIndex": 720
     },
     {
         "name": "古尔德隆 (Gooldron)",
@@ -23721,6 +27595,12 @@ window.allHeroes =
             "召唤3个史莱姆恶魔",
             "偷取增益恶魔",
             "偷取成长效果恶魔"
+        ],
+        "skill_types": [
+            "范围攻击 (打3)",
+            "召唤恶魔",
+            "增益窃取者",
+            "持续伤害"
         ],
         "source": "超级元素人",
         "Release date": "2024-11-27",
@@ -23742,7 +27622,7 @@ window.allHeroes =
         "family": "slime",
         "image": "https://i.imgur.com/pQjaPYL.jpg",
         "costume_id": 0,
-        "originalIndex": 720
+        "originalIndex": 721
     },
     {
         "name": "血齿 (Goretooth)",
@@ -23756,6 +27636,11 @@ window.allHeroes =
             "攻击单个目标",
             "防御降低",
             "法力获取冻结"
+        ],
+        "skill_types": [
+            "防御减益",
+            "法力削减或格挡",
+            "狙击手"
         ],
         "source": "盟约召唤",
         "Release date": "2022-12-24",
@@ -23771,12 +27656,12 @@ window.allHeroes =
         ],
         "passives": [
             "猎手感知：当该角色施放其特殊技能时，会将自身最新的可净化状态异常转移给目标。如果其特殊技能无法选择敌方目标，则会随机转移至一名敌人。若此角色没有状态异常，则恢复自身 3% 的生命。",
-            "特殊技能附带持续伤害：当该角色施放其特殊技能时，会给一个随机敌人施加猎人印记。目标在 150 回合内受到 3 点伤害。如果目标已有此效果，则持续时间刷新，伤害增加 150 点，总伤害最高可达 1500 点。"
+            "特殊技能附带持续伤害：当该角色施放其特殊技能时，会给一个随机敌人施加猎人印记。目标在 3 回合内受到 150 点伤害。如果目标已有此效果，则持续时间刷新，伤害增加 150 点，总伤害最高可达 1500 点。"
         ],
         "family": "abysshunter",
         "image": "https://i.imgur.com/gtuGK1d.jpg",
         "costume_id": 0,
-        "originalIndex": 721
+        "originalIndex": 722
     },
     {
         "name": "戈塞克 (Goseck)",
@@ -23788,6 +27673,11 @@ window.allHeroes =
         "skill": "复仇打击",
         "types": [
             "攻击所有目标"
+        ],
+        "skill_types": [
+            "全体攻击 (打5)",
+            "额外伤害",
+            "伤害减免"
         ],
         "source": "挑战-石像鬼",
         "Release date": "2022-05-12",
@@ -23806,7 +27696,7 @@ window.allHeroes =
         "family": "gargoyle",
         "image": "https://i.imgur.com/OKV9H3h.jpg",
         "costume_id": 0,
-        "originalIndex": 722
+        "originalIndex": 723
     },
     {
         "name": "葛瑞菲斯 (Griffex)",
@@ -23819,6 +27709,10 @@ window.allHeroes =
         "types": [
             "法力削减者",
             "法力增长"
+        ],
+        "skill_types": [
+            "法力提升",
+            "法力削减或格挡"
         ],
         "source": "超级元素人",
         "Release date": "2023-05-22",
@@ -23841,7 +27735,7 @@ window.allHeroes =
         "family": "superelemental",
         "image": "https://i.imgur.com/uvhkpHJ.jpg",
         "costume_id": 0,
-        "originalIndex": 723
+        "originalIndex": 724
     },
     {
         "name": "格林布尔 (Grimble)",
@@ -23854,6 +27748,12 @@ window.allHeroes =
         "types": [
             "摧毁所有小兵",
             "攻击所有目标"
+        ],
+        "skill_types": [
+            "全体攻击 (打5)",
+            "攻击增益",
+            "法力提升",
+            "反制小兵"
         ],
         "source": "月英",
         "Release date": "2019-12-01",
@@ -23874,7 +27774,7 @@ window.allHeroes =
         "family": 2019,
         "image": "https://i.imgur.com/1sMnXH3.jpg",
         "costume_id": 0,
-        "originalIndex": 724
+        "originalIndex": 725
     },
     {
         "name": "黑豹守护者 (Guardian Panther)",
@@ -23888,6 +27788,11 @@ window.allHeroes =
             "攻击3个目标",
             "驱散者",
             "元素防御降低"
+        ],
+        "skill_types": [
+            "范围攻击 (打3)",
+            "防御减益",
+            "驱散"
         ],
         "source": "挑战节-守护者",
         "Release date": "2017-01-01",
@@ -23905,7 +27810,7 @@ window.allHeroes =
         "family": "guardiansteltoc",
         "image": "https://i.imgur.com/DIjmjpT.jpg",
         "costume_id": 0,
-        "originalIndex": 725
+        "originalIndex": 726
     },
     {
         "name": "黑豹守护者 (Guardian Panther) C1",
@@ -23918,6 +27823,11 @@ window.allHeroes =
         "types": [
             "攻击所有目标",
             "防御降低"
+        ],
+        "skill_types": [
+            "增益格挡者",
+            "防御减益",
+            "全体攻击 (打5)"
         ],
         "source": "挑战节-守护者",
         "Release date": "2022-06-16",
@@ -23935,7 +27845,7 @@ window.allHeroes =
         "family": "guardiansteltoc",
         "image": "https://i.imgur.com/ZdPyBw5.jpg",
         "costume_id": 1,
-        "originalIndex": 726
+        "originalIndex": 727
     },
     {
         "name": "刚特司 (Gunktus)",
@@ -23949,6 +27859,11 @@ window.allHeroes =
             "攻击3个目标",
             "单体攻击增益",
             "单体史莱姆复活"
+        ],
+        "skill_types": [
+            "复活",
+            "范围攻击 (打3)",
+            "攻击增益"
         ],
         "source": "至日召唤",
         "Release date": "2024-06-18",
@@ -23976,7 +27891,7 @@ window.allHeroes =
         "family": "slime",
         "image": "https://i.imgur.com/gYtmXoK.jpg",
         "costume_id": 0,
-        "originalIndex": 727
+        "originalIndex": 728
     },
     {
         "name": "汉娜 (Hannah)",
@@ -23990,6 +27905,12 @@ window.allHeroes =
             "攻击3个目标",
             "召唤3个恶魔",
             "攻击降低恶魔"
+        ],
+        "skill_types": [
+            "范围攻击 (打3)",
+            "攻击减益",
+            "召唤恶魔",
+            "持续伤害"
         ],
         "source": "S4-蛮荒地界",
         "Release date": "2021-06-17",
@@ -24010,7 +27931,7 @@ window.allHeroes =
         "family": "underwild",
         "image": "https://i.imgur.com/adxVUbU.jpg",
         "costume_id": 0,
-        "originalIndex": 728
+        "originalIndex": 729
     },
     {
         "name": "汉娜 (Hannah) C1",
@@ -24023,6 +27944,12 @@ window.allHeroes =
         "types": [
             "攻击3个目标",
             "3个恶魔"
+        ],
+        "skill_types": [
+            "范围攻击 (打3)",
+            "攻击减益",
+            "召唤恶魔",
+            "持续伤害"
         ],
         "source": "S4-蛮荒地界",
         "Release date": "2024-04-25",
@@ -24044,7 +27971,7 @@ window.allHeroes =
         "family": "underwild",
         "image": "https://i.imgur.com/uhuj4Z5.jpg",
         "costume_id": 1,
-        "originalIndex": 729
+        "originalIndex": 730
     },
     {
         "name": "山楂 (Hawthorn)",
@@ -24060,6 +27987,13 @@ window.allHeroes =
             "全体反射状态异常",
             "全体反射叠加效果"
         ],
+        "skill_types": [
+            "持续伤害",
+            "生命强化",
+            "法力提升",
+            "反射",
+            "持续治疗"
+        ],
         "source": "盟约召唤",
         "Release date": "2022-09-18",
         "star": 5,
@@ -24074,12 +28008,12 @@ window.allHeroes =
         ],
         "passives": [
             "特殊技能伤害减免：该角色有 10% 的几率将受到的特殊技能直接伤害降至 1 点。",
-            "特殊技能附带持续伤害：当该角色施放其特殊技能时，会给一个随机敌人施加猎人印记。目标在 150 回合内受到 3 点伤害。如果目标已有此效果，则持续时间刷新，伤害增加 150 点，总伤害最高可达 1500 点。"
+            "特殊技能附带持续伤害：当该角色施放其特殊技能时，会给一个随机敌人施加猎人印记。目标在 3 回合内受到 150 点伤害。如果目标已有此效果，则持续时间刷新，伤害增加 150 点，总伤害最高可达 1500 点。"
         ],
         "family": "plainshunter",
         "image": "https://i.imgur.com/fbtStrK.jpg",
         "costume_id": 0,
-        "originalIndex": 730
+        "originalIndex": 731
     },
     {
         "name": "赫尔 (Hel)",
@@ -24092,6 +28026,13 @@ window.allHeroes =
         "types": [
             "攻击3个目标",
             "法力获取冻结"
+        ],
+        "skill_types": [
+            "范围攻击 (打3)",
+            "额外伤害",
+            "法力削减或格挡",
+            "攻击增益",
+            "防御增益"
         ],
         "source": "月英",
         "Release date": "2017-06-01T00:00:00",
@@ -24110,7 +28051,7 @@ window.allHeroes =
         "family": 2017,
         "image": "https://i.imgur.com/5oaRVxv.jpg",
         "costume_id": 0,
-        "originalIndex": 731
+        "originalIndex": 732
     },
     {
         "name": "赫尔 (Hel) C1",
@@ -24123,6 +28064,14 @@ window.allHeroes =
         "types": [
             "攻击所有目标",
             "法力偷取"
+        ],
+        "skill_types": [
+            "全体攻击 (打5)",
+            "额外伤害",
+            "法力提升",
+            "法力削减或格挡",
+            "攻击增益",
+            "驱散"
         ],
         "source": "月英",
         "Release date": "2022-11-28T11:00:00",
@@ -24143,7 +28092,7 @@ window.allHeroes =
         "family": 2017,
         "image": "https://i.imgur.com/8SUbwUY.jpg",
         "costume_id": 1,
-        "originalIndex": 732
+        "originalIndex": 733
     },
     {
         "name": "赫里德马尔 (Hreidmarr)",
@@ -24154,6 +28103,17 @@ window.allHeroes =
         "speed": "慢",
         "skill": "矮人之王的税款",
         "types": [],
+        "skill_types": [
+            "增益窃取者",
+            "法力削减或格挡",
+            "狙击手",
+            "法力提升",
+            "额外伤害",
+            "绕过",
+            "持续伤害",
+            "防御减益",
+            "反制小兵"
+        ],
         "source": "S6-S7-秘闻",
         "Release date": "2025-02-23",
         "star": 5,
@@ -24176,7 +28136,7 @@ window.allHeroes =
         "family": "nidavellir",
         "image": "https://i.imgur.com/UInCnGF.jpg",
         "costume_id": 0,
-        "originalIndex": 733
+        "originalIndex": 734
     },
     {
         "name": "胡尔达 (Hulda)",
@@ -24188,6 +28148,12 @@ window.allHeroes =
         "skill": "宠物幼虫",
         "types": [
             "召唤者"
+        ],
+        "skill_types": [
+            "防御增益",
+            "持续治疗",
+            "法力生成增益",
+            "召唤小兵"
         ],
         "source": "S4-蛮荒地界",
         "Release date": "2022-03-24",
@@ -24207,7 +28173,7 @@ window.allHeroes =
         "family": "underwild",
         "image": "https://i.imgur.com/J9OOPtS.jpg",
         "costume_id": 0,
-        "originalIndex": 734
+        "originalIndex": 735
     },
     {
         "name": "胡尔达 (Hulda) C1",
@@ -24219,6 +28185,12 @@ window.allHeroes =
         "skill": "幼虫处方",
         "types": [
             "召唤者"
+        ],
+        "skill_types": [
+            "防御增益",
+            "持续治疗",
+            "法力生成增益",
+            "召唤小兵"
         ],
         "source": "S4-蛮荒地界",
         "Release date": "2024-03-28",
@@ -24239,7 +28211,7 @@ window.allHeroes =
         "family": "underwild",
         "image": "https://i.imgur.com/sPMKsgr.jpg",
         "costume_id": 1,
-        "originalIndex": 735
+        "originalIndex": 736
     },
     {
         "name": "狩猎者 (Hunter)",
@@ -24253,6 +28225,11 @@ window.allHeroes =
             "单体防御降低",
             "攻击单个目标",
             "狂乱"
+        ],
+        "skill_types": [
+            "防御减益",
+            "狙击手",
+            "对自身或友军负面效果"
         ],
         "source": "额外抽奖-秘密召唤",
         "Release date": "2024-06-04",
@@ -24274,7 +28251,7 @@ window.allHeroes =
         "family": "cultist",
         "image": "https://i.imgur.com/4a7tvJs.jpg",
         "costume_id": 0,
-        "originalIndex": 736
+        "originalIndex": 737
     },
     {
         "name": "飓风 (Hurricane)",
@@ -24288,6 +28265,14 @@ window.allHeroes =
             "攻击3个目标",
             "3个目标持续伤害",
             "叠加"
+        ],
+        "skill_types": [
+            "范围攻击 (打3)",
+            "持续伤害",
+            "效果持续重置",
+            "特殊治疗",
+            "叠加",
+            "攻击增益"
         ],
         "source": "月活动-卡勒瓦拉",
         "Release date": "2023-05-26",
@@ -24304,12 +28289,12 @@ window.allHeroes =
         ],
         "passives": [
             "猎人之毅：当该角色施放其特殊技能时，获得 +20% 的攻击力，持续 3 回合。此效果可与其他改变攻击力的效果并存。",
-            "特殊技能附带持续伤害：当该角色施放其特殊技能时，会给一个随机敌人施加猎人印记。目标在 150 回合内受到 3 点伤害。如果目标已有此效果，则持续时间刷新，伤害增加 150 点，总伤害最高可达 1500 点。"
+            "特殊技能附带持续伤害：当该角色施放其特殊技能时，会给一个随机敌人施加猎人印记。目标在 3 回合内受到 150 点伤害。如果目标已有此效果，则持续时间刷新，伤害增加 150 点，总伤害最高可达 1500 点。"
         ],
         "family": "junglehunter",
         "image": "https://i.imgur.com/ts6r2iS.jpg",
         "costume_id": 0,
-        "originalIndex": 737
+        "originalIndex": 738
     },
     {
         "name": "炸脖龙 (Jabberwock)",
@@ -24322,6 +28307,10 @@ window.allHeroes =
         "types": [
             "攻击3个目标",
             "3个目标持续伤害"
+        ],
+        "skill_types": [
+            "持续伤害",
+            "狙击手"
         ],
         "source": "挑战节-仙境",
         "Release date": "2017-01-01",
@@ -24338,7 +28327,7 @@ window.allHeroes =
         "family": "wonderland",
         "image": "https://i.imgur.com/ODUCn9s.jpg",
         "costume_id": 0,
-        "originalIndex": 738
+        "originalIndex": 739
     },
     {
         "name": "炸脖龙 (Jabberwock) C1",
@@ -24351,6 +28340,11 @@ window.allHeroes =
         "types": [
             "攻击2个目标",
             "持续伤害"
+        ],
+        "skill_types": [
+            "持续伤害",
+            "法力削减或格挡",
+            "狙击手"
         ],
         "source": "挑战节-仙境",
         "Release date": "2021-12-15",
@@ -24369,7 +28363,7 @@ window.allHeroes =
         "family": "wonderland",
         "image": "https://i.imgur.com/Y9oF73p.jpg",
         "costume_id": 1,
-        "originalIndex": 739
+        "originalIndex": 740
     },
     {
         "name": "杰特 (Jett)",
@@ -24385,6 +28379,16 @@ window.allHeroes =
             "单体持续伤害",
             "攻击所有目标",
             "全体持续伤害"
+        ],
+        "skill_types": [
+            "全体攻击 (打5)",
+            "持续伤害",
+            "特殊治疗",
+            "狙击手",
+            "范围攻击 (打3)",
+            "叠加",
+            "法力削减或格挡",
+            "治疗"
         ],
         "source": "高塔-魔法",
         "Release date": "2023-11-15",
@@ -24409,7 +28413,7 @@ window.allHeroes =
         "family": "magic",
         "image": "https://i.imgur.com/bHuMYnz.jpg",
         "costume_id": 0,
-        "originalIndex": 740
+        "originalIndex": 741
     },
     {
         "name": "影血 (Kageburado)",
@@ -24422,6 +28426,11 @@ window.allHeroes =
         "types": [
             "单体驱散",
             "攻击单个目标"
+        ],
+        "skill_types": [
+            "驱散",
+            "额外伤害",
+            "狙击手"
         ],
         "source": "S2-亚特兰蒂斯",
         "Release date": "2018-12-01",
@@ -24439,7 +28448,7 @@ window.allHeroes =
         "family": "sakura",
         "image": "https://i.imgur.com/OUhEZUJ.jpg",
         "costume_id": 0,
-        "originalIndex": 741
+        "originalIndex": 742
     },
     {
         "name": "影血 (Kageburado) C1",
@@ -24454,6 +28463,12 @@ window.allHeroes =
             "攻击单个目标",
             "单体增益免疫",
             "单体防御降低"
+        ],
+        "skill_types": [
+            "增益格挡者",
+            "防御减益",
+            "驱散",
+            "狙击手"
         ],
         "source": "S2-亚特兰蒂斯",
         "Release date": "2021-11-15",
@@ -24472,7 +28487,7 @@ window.allHeroes =
         "family": "sakura",
         "image": "https://i.imgur.com/3Xk7Vld.jpg",
         "costume_id": 1,
-        "originalIndex": 742
+        "originalIndex": 743
     },
     {
         "name": "卡洛夫 (Karnov)",
@@ -24485,6 +28500,12 @@ window.allHeroes =
         "types": [
             "攻击所有目标",
             "改变棋盘"
+        ],
+        "skill_types": [
+            "全体攻击 (打5)",
+            "改变面板",
+            "攻击减益",
+            "攻击增益"
         ],
         "source": "挑战节-恶棍",
         "Release date": "2021-02-11",
@@ -24501,7 +28522,7 @@ window.allHeroes =
         "family": "villains",
         "image": "https://i.imgur.com/uCM3DQT.jpg",
         "costume_id": 0,
-        "originalIndex": 743
+        "originalIndex": 744
     },
     {
         "name": "卡洛夫 (Karnov) C1",
@@ -24514,6 +28535,12 @@ window.allHeroes =
         "types": [
             "攻击所有目标",
             "改变棋盘"
+        ],
+        "skill_types": [
+            "全体攻击 (打5)",
+            "改变面板",
+            "额外伤害",
+            "持续伤害"
         ],
         "source": "挑战节-恶棍",
         "Release date": "2025-06-15",
@@ -24533,7 +28560,7 @@ window.allHeroes =
         "family": "villains",
         "image": "https://imgur.com/atHtLfK.jpg",
         "costume_id": 1,
-        "originalIndex": 744
+        "originalIndex": 745
     },
     {
         "name": "凯梅尼 (Kemeny)",
@@ -24545,6 +28572,11 @@ window.allHeroes =
         "skill": "渴求解脱",
         "types": [
             "攻击所有目标"
+        ],
+        "skill_types": [
+            "全体攻击 (打5)",
+            "额外伤害",
+            "伤害减免"
         ],
         "source": "挑战-石像鬼",
         "Release date": "2022-12-29",
@@ -24563,7 +28595,7 @@ window.allHeroes =
         "family": "gargoyle",
         "image": "https://i.imgur.com/PmkgBzd.jpg",
         "costume_id": 0,
-        "originalIndex": 745
+        "originalIndex": 746
     },
     {
         "name": "凯布利 (Khepri)",
@@ -24576,6 +28608,11 @@ window.allHeroes =
         "types": [
             "攻击3个目标",
             "召唤3个爆炸恶魔"
+        ],
+        "skill_types": [
+            "范围攻击 (打3)",
+            "召唤恶魔",
+            "持续伤害"
         ],
         "source": "S5-沙丘",
         "Release date": "2022-06-09",
@@ -24598,7 +28635,7 @@ window.allHeroes =
         "family": "moon",
         "image": "https://i.imgur.com/Z6trZDL.jpg",
         "costume_id": 0,
-        "originalIndex": 746
+        "originalIndex": 747
     },
     {
         "name": "凯布利 (Khepri) C1",
@@ -24611,6 +28648,11 @@ window.allHeroes =
         "types": [
             "攻击3个目标",
             "召唤3个爆炸恶魔"
+        ],
+        "skill_types": [
+            "范围攻击 (打3)",
+            "召唤恶魔",
+            "持续伤害"
         ],
         "source": "S5-沙丘",
         "Release date": "2025-02-17",
@@ -24635,7 +28677,7 @@ window.allHeroes =
         "family": "moon",
         "image": "https://i.imgur.com/j3u49nY.jpg",
         "costume_id": 1,
-        "originalIndex": 747
+        "originalIndex": 748
     },
     {
         "name": "基奥娜 (Khiona)",
@@ -24648,6 +28690,11 @@ window.allHeroes =
         "types": [
             "攻击单个目标",
             "攻击增益"
+        ],
+        "skill_types": [
+            "攻击增益",
+            "狙击手",
+            "持续治疗"
         ],
         "source": "月英",
         "Release date": "2018-09-01T00:00:00",
@@ -24665,7 +28712,7 @@ window.allHeroes =
         "family": 2018,
         "image": "https://i.imgur.com/1C4Lajq.jpg",
         "costume_id": 0,
-        "originalIndex": 748
+        "originalIndex": 749
     },
     {
         "name": "基奥娜 (Khiona) C1",
@@ -24678,6 +28725,12 @@ window.allHeroes =
         "types": [
             "攻击单个目标",
             "攻击增益"
+        ],
+        "skill_types": [
+            "攻击增益",
+            "狙击手",
+            "持续治疗",
+            "驱散"
         ],
         "source": "月英",
         "Release date": "2024-02-09",
@@ -24697,7 +28750,7 @@ window.allHeroes =
         "family": 2018,
         "image": "https://i.imgur.com/mLc9HWv.jpg",
         "costume_id": 1,
-        "originalIndex": 749
+        "originalIndex": 750
     },
     {
         "name": "孔舒 (Khonshu)",
@@ -24709,6 +28762,10 @@ window.allHeroes =
         "skill": "午夜猛击",
         "types": [
             "攻击单个目标"
+        ],
+        "skill_types": [
+            "法力提升",
+            "狙击手"
         ],
         "source": "S5-沙丘",
         "Release date": "2022-04-21",
@@ -24729,7 +28786,7 @@ window.allHeroes =
         "family": "moon",
         "image": "https://i.imgur.com/qiCq8Jo.jpg",
         "costume_id": 0,
-        "originalIndex": 750
+        "originalIndex": 751
     },
     {
         "name": "孔舒 (Khonshu) C1",
@@ -24741,6 +28798,10 @@ window.allHeroes =
         "skill": "午夜打击",
         "types": [
             "攻击单个目标"
+        ],
+        "skill_types": [
+            "法力提升",
+            "狙击手"
         ],
         "source": "S5-沙丘",
         "Release date": "2024-09-07",
@@ -24763,7 +28824,7 @@ window.allHeroes =
         "family": "moon",
         "image": "https://i.imgur.com/dLlMk1f.jpg",
         "costume_id": 1,
-        "originalIndex": 751
+        "originalIndex": 752
     },
     {
         "name": "杀戮野兔 (Killhare)",
@@ -24775,6 +28836,10 @@ window.allHeroes =
         "skill": "莽夫摆",
         "types": [
             "攻击所有目标"
+        ],
+        "skill_types": [
+            "全体攻击 (打5)",
+            "对自身或友军负面效果"
         ],
         "source": "月活动-春谷",
         "Release date": "2020-04-16",
@@ -24791,7 +28856,7 @@ window.allHeroes =
         "family": "springvale",
         "image": "https://i.imgur.com/WU18HC0.jpg",
         "costume_id": 0,
-        "originalIndex": 752
+        "originalIndex": 753
     },
     {
         "name": "杀戮野兔 (Killhare) C1",
@@ -24803,6 +28868,10 @@ window.allHeroes =
         "skill": "冠军胡萝卜",
         "types": [
             "攻击所有目标"
+        ],
+        "skill_types": [
+            "全体攻击 (打5)",
+            "对自身或友军负面效果"
         ],
         "source": "月活动-春谷",
         "Release date": "2022-03-21",
@@ -24819,7 +28888,7 @@ window.allHeroes =
         "family": "springvale",
         "image": "https://i.imgur.com/vAkZp36.jpg",
         "costume_id": 1,
-        "originalIndex": 753
+        "originalIndex": 754
     },
     {
         "name": "红心骑士 (Knave of Hearts)",
@@ -24833,6 +28902,12 @@ window.allHeroes =
             "攻击3个目标",
             "莽夫乱拳",
             "召唤所有"
+        ],
+        "skill_types": [
+            "范围攻击 (打3)",
+            "精神错乱攻击&治疗",
+            "召唤小兵",
+            "特殊治疗"
         ],
         "source": "挑战节-仙境",
         "Release date": "2024-04-18",
@@ -24850,7 +28925,7 @@ window.allHeroes =
         "family": "wonderland",
         "image": "https://i.imgur.com/BQViteC.jpg",
         "costume_id": 0,
-        "originalIndex": 754
+        "originalIndex": 755
     },
     {
         "name": "奈特司 (Knightus)",
@@ -24864,6 +28939,14 @@ window.allHeroes =
             "攻击单个目标",
             "吞噬粘物",
             "全体神圣元素防御降低"
+        ],
+        "skill_types": [
+            "狙击手",
+            "持续伤害",
+            "沉睡",
+            "防御减益",
+            "驱散",
+            "属性修改"
         ],
         "source": "超级元素人",
         "Release date": "2025-02-17",
@@ -24886,7 +28969,7 @@ window.allHeroes =
         "family": "slime",
         "image": "https://i.imgur.com/b5SLdod.jpg",
         "costume_id": 0,
-        "originalIndex": 755
+        "originalIndex": 756
     },
     {
         "name": "坤奇恩 (Kunchen)",
@@ -24900,6 +28983,12 @@ window.allHeroes =
             "治疗者",
             "防御降低者",
             "净化者"
+        ],
+        "skill_types": [
+            "净化",
+            "防御减益",
+            "治疗",
+            "防御增益"
         ],
         "source": "月英",
         "Release date": "2019-02-01",
@@ -24920,7 +29009,7 @@ window.allHeroes =
         "family": 2019,
         "image": "https://i.imgur.com/4sKh1TW.jpg",
         "costume_id": 0,
-        "originalIndex": 756
+        "originalIndex": 757
     },
     {
         "name": "勒皮奥塔 (Lepiota)",
@@ -24934,6 +29023,15 @@ window.allHeroes =
             "攻击单个目标",
             "单体完全移除",
             "单体深渊幽灵"
+        ],
+        "skill_types": [
+            "增益格挡者",
+            "驱散",
+            "持续伤害",
+            "狙击手",
+            "叠加",
+            "净化",
+            "鬼魂形态与隐藏"
         ],
         "source": "S4-蛮荒地界",
         "Release date": "2021-03-25",
@@ -24956,7 +29054,7 @@ window.allHeroes =
         "family": "underwild",
         "image": "https://i.imgur.com/eea7u0v.jpg",
         "costume_id": 0,
-        "originalIndex": 757
+        "originalIndex": 758
     },
     {
         "name": "勒皮奥塔 (Lepiota) C1",
@@ -24970,6 +29068,15 @@ window.allHeroes =
             "攻击单个目标",
             "单体完全移除",
             "单体深渊幽灵"
+        ],
+        "skill_types": [
+            "驱散",
+            "持续伤害",
+            "狙击手",
+            "叠加",
+            "净化",
+            "鬼魂形态与隐藏",
+            "生命强化"
         ],
         "source": "S4-蛮荒地界",
         "Release date": "2023-04-27",
@@ -24993,7 +29100,7 @@ window.allHeroes =
         "family": "underwild",
         "image": "https://i.imgur.com/MgzgOOM.jpg",
         "costume_id": 1,
-        "originalIndex": 758
+        "originalIndex": 759
     },
     {
         "name": "娄希 (Louhi)",
@@ -25006,6 +29113,11 @@ window.allHeroes =
         "types": [
             "全体驱散",
             "攻击所有目标"
+        ],
+        "skill_types": [
+            "全体攻击 (打5)",
+            "防御减益",
+            "驱散"
         ],
         "source": "月活动-卡勒瓦拉",
         "Release date": "2022-06-20",
@@ -25025,7 +29137,7 @@ window.allHeroes =
         "family": "kalevala",
         "image": "https://i.imgur.com/RQWKyOA.jpg",
         "costume_id": 0,
-        "originalIndex": 759
+        "originalIndex": 760
     },
     {
         "name": "吕布 (Lu Bu)",
@@ -25039,6 +29151,12 @@ window.allHeroes =
             "攻击所有目标",
             "召唤所有佣兵恶魔",
             "增益免疫恶魔"
+        ],
+        "skill_types": [
+            "全体攻击 (打5)",
+            "增益格挡者",
+            "召唤恶魔",
+            "持续伤害"
         ],
         "source": "三国召唤",
         "Release date": "2022-03-14T12:00:00",
@@ -25057,7 +29175,7 @@ window.allHeroes =
         "family": "kingdom",
         "image": "https://i.imgur.com/pOnV8Et.jpg",
         "costume_id": 0,
-        "originalIndex": 760
+        "originalIndex": 761
     },
     {
         "name": "吕布 (Lu Bu) C1",
@@ -25071,6 +29189,12 @@ window.allHeroes =
             "攻击所有目标",
             "召唤所有佣兵恶魔",
             "增益免疫恶魔"
+        ],
+        "skill_types": [
+            "全体攻击 (打5)",
+            "增益格挡者",
+            "召唤恶魔",
+            "持续伤害"
         ],
         "source": "三国召唤",
         "Release date": "2024-12-28",
@@ -25094,7 +29218,7 @@ window.allHeroes =
         "family": "kingdom",
         "image": "https://i.imgur.com/9cuTL09.jpg",
         "costume_id": 1,
-        "originalIndex": 761
+        "originalIndex": 762
     },
     {
         "name": "卢辛达 (Lucinda)",
@@ -25109,6 +29233,12 @@ window.allHeroes =
             "3个目标致盲",
             "3个目标防御降低",
             "自我持续治疗"
+        ],
+        "skill_types": [
+            "范围攻击 (打3)",
+            "攻击减益",
+            "防御减益",
+            "持续治疗"
         ],
         "source": "月活动-莫洛维亚",
         "Release date": "2023-09-25",
@@ -25129,7 +29259,7 @@ window.allHeroes =
         "family": "morlovia",
         "image": "https://i.imgur.com/tBoxHA4.jpg",
         "costume_id": 0,
-        "originalIndex": 762
+        "originalIndex": 763
     },
     {
         "name": "路德维希 (Ludwig)",
@@ -25142,6 +29272,11 @@ window.allHeroes =
         "types": [
             "嘲讽",
             "法力持续恢复"
+        ],
+        "skill_types": [
+            "防御增益",
+            "法力提升",
+            "嘲讽"
         ],
         "source": "联盟-骑士冲击",
         "Release date": "2021-10-13",
@@ -25159,7 +29294,7 @@ window.allHeroes =
         "family": "wolf",
         "image": "https://i.imgur.com/VV20w6e.jpg",
         "costume_id": 0,
-        "originalIndex": 763
+        "originalIndex": 764
     },
     {
         "name": "露娜 (Luna)",
@@ -25171,6 +29306,11 @@ window.allHeroes =
         "skill": "月光祝福",
         "types": [
             "治疗3个目标"
+        ],
+        "skill_types": [
+            "连锁与随机攻击",
+            "治疗",
+            "法力削减或格挡"
         ],
         "source": "联盟-超能萌宠",
         "Release date": "2023-09-04",
@@ -25192,7 +29332,7 @@ window.allHeroes =
         "family": "pets",
         "image": "https://i.imgur.com/jt6SH4f.jpg",
         "costume_id": 0,
-        "originalIndex": 764
+        "originalIndex": 765
     },
     {
         "name": "吉莉夫人 (Madame Giry)",
@@ -25207,6 +29347,13 @@ window.allHeroes =
             "召唤所有恶魔",
             "增益免疫恶魔",
             "全体元素防御降低"
+        ],
+        "skill_types": [
+            "全体攻击 (打5)",
+            "增益格挡者",
+            "防御减益",
+            "召唤恶魔",
+            "持续伤害"
         ],
         "source": "至日召唤",
         "Release date": "2023-11-30",
@@ -25229,7 +29376,7 @@ window.allHeroes =
         "family": "opera",
         "image": "https://i.imgur.com/jLIIusc.jpg",
         "costume_id": 0,
-        "originalIndex": 765
+        "originalIndex": 766
     },
     {
         "name": "麦希 (Maisie)",
@@ -25242,6 +29389,12 @@ window.allHeroes =
         "types": [
             "全体生命值加成",
             "超级小兵"
+        ],
+        "skill_types": [
+            "生命强化",
+            "特殊治疗",
+            "召唤巨型小兵",
+            "净化"
         ],
         "source": "哥布林召唤",
         "Release date": "2025-02-14",
@@ -25263,7 +29416,7 @@ window.allHeroes =
         "family": "garrisonguard",
         "image": "https://i.imgur.com/aJDM9qb.jpg",
         "costume_id": 0,
-        "originalIndex": 766
+        "originalIndex": 767
     },
     {
         "name": "马利克纳 (Malicna)",
@@ -25276,6 +29429,13 @@ window.allHeroes =
         "types": [
             "赌徒",
             "攻击3个目标"
+        ],
+        "skill_types": [
+            "范围攻击 (打3)",
+            "攻击减益",
+            "防御减益",
+            "法力提升",
+            "法力削减或格挡"
         ],
         "source": "月英",
         "Release date": "2021-03-01",
@@ -25304,7 +29464,7 @@ window.allHeroes =
         "family": 2021,
         "image": "https://i.imgur.com/ZMAYhxa.jpg",
         "costume_id": 0,
-        "originalIndex": 767
+        "originalIndex": 768
     },
     {
         "name": "玛丽-特瑞莎 (Marie-Therese)",
@@ -25319,6 +29479,12 @@ window.allHeroes =
             "治疗者",
             "防御增益者",
             "僵尸增益"
+        ],
+        "skill_types": [
+            "全体攻击 (打5)",
+            "防御增益",
+            "持续治疗",
+            "复活"
         ],
         "source": "挑战节-海盗",
         "Release date": "2017-01-01",
@@ -25341,7 +29507,7 @@ window.allHeroes =
         "family": "corellia",
         "image": "https://i.imgur.com/sKXoFnG.jpg",
         "costume_id": 0,
-        "originalIndex": 768
+        "originalIndex": 769
     },
     {
         "name": "玛丽-特瑞莎 (Marie-Therese) C1",
@@ -25355,6 +29521,13 @@ window.allHeroes =
             "攻击所有目标",
             "生命值加成",
             "僵尸"
+        ],
+        "skill_types": [
+            "全体攻击 (打5)",
+            "防御增益",
+            "生命强化",
+            "复活",
+            "持续伤害"
         ],
         "source": "挑战节-海盗",
         "Release date": "2022-02-17",
@@ -25374,12 +29547,12 @@ window.allHeroes =
             "* 特殊技能：毒牙撕咬。"
         ],
         "passives": [
-            "特殊技能附带剧毒：当该角色施放其特殊技能时，所有敌人会在 504 回合内受到 4 点剧毒伤害。"
+            "特殊技能附带剧毒：当该角色施放其特殊技能时，所有敌人会在 4 回合内受到 504 点剧毒伤害。"
         ],
         "family": "corellia",
         "image": "https://i.imgur.com/cwv2NUd.jpg",
         "costume_id": 1,
-        "originalIndex": 769
+        "originalIndex": 770
     },
     {
         "name": "莫德 (Maud)",
@@ -25393,7 +29566,13 @@ window.allHeroes =
             "攻击所有目标",
             "强化闪避"
         ],
-        "source": "S4-荒野",
+        "skill_types": [
+            "全体攻击 (打5)",
+            "闪避",
+            "法力提升",
+            "反制小兵"
+        ],
+        "source": "荒野召唤",
         "Release date": "2025-03-26",
         "star": 5,
         "power": 1171,
@@ -25412,7 +29591,7 @@ window.allHeroes =
         "family": "woodlandfaun",
         "image": "https://imgur.com/eOKRXit.jpg",
         "costume_id": 0,
-        "originalIndex": 770
+        "originalIndex": 771
     },
     {
         "name": "美狄亚 (Medea)",
@@ -25426,6 +29605,11 @@ window.allHeroes =
             "攻击3个目标",
             "单体莽夫乱拳",
             "3个目标治疗降低"
+        ],
+        "skill_types": [
+            "范围攻击 (打3)",
+            "治疗削减",
+            "精神错乱攻击&治疗"
         ],
         "source": "S6-S7-秘闻",
         "Release date": "2024-01-17",
@@ -25454,7 +29638,7 @@ window.allHeroes =
         "family": "nightmaresofatlantis",
         "image": "https://i.imgur.com/RtOVjbp.jpg",
         "costume_id": 0,
-        "originalIndex": 771
+        "originalIndex": 772
     },
     {
         "name": "美狄亚 (Medea) C1",
@@ -25468,6 +29652,11 @@ window.allHeroes =
             "攻击3个目标",
             "单体莽夫乱拳",
             "3个目标治疗降低"
+        ],
+        "skill_types": [
+            "范围攻击 (打3)",
+            "治疗削减",
+            "精神错乱攻击&治疗"
         ],
         "source": "S6-S7-秘闻",
         "Release date": "2024-10-19",
@@ -25496,7 +29685,7 @@ window.allHeroes =
         "family": "nightmaresofatlantis",
         "image": "https://i.imgur.com/CadXjHa.jpg",
         "costume_id": 1,
-        "originalIndex": 772
+        "originalIndex": 773
     },
     {
         "name": "忧郁者 (Melancholia)",
@@ -25510,6 +29699,13 @@ window.allHeroes =
             "复活者",
             "防御增益",
             "狂乱"
+        ],
+        "skill_types": [
+            "全体攻击 (打5)",
+            "复活",
+            "防御增益",
+            "持续伤害",
+            "对自身或友军负面效果"
         ],
         "source": "额外抽奖-秘密召唤",
         "Release date": "2024-05-01",
@@ -25530,7 +29726,7 @@ window.allHeroes =
         "family": "cultist",
         "image": "https://i.imgur.com/okcHBcF.jpg",
         "costume_id": 0,
-        "originalIndex": 773
+        "originalIndex": 774
     },
     {
         "name": "巨齿鲨 (Mok-Arr)",
@@ -25543,6 +29739,11 @@ window.allHeroes =
         "types": [
             "攻击所有目标",
             "攻击无视暗黑系"
+        ],
+        "skill_types": [
+            "全体攻击 (打5)",
+            "额外伤害",
+            "对自身或友军负面效果"
         ],
         "source": "S2-亚特兰蒂斯",
         "Release date": "2017-01-01",
@@ -25561,7 +29762,7 @@ window.allHeroes =
         "family": "lagoon",
         "image": "https://i.imgur.com/f9fc9eh.jpg",
         "costume_id": 0,
-        "originalIndex": 774
+        "originalIndex": 775
     },
     {
         "name": "巨齿鲨 (Mok-Arr) C1",
@@ -25575,6 +29776,13 @@ window.allHeroes =
             "攻击所有目标",
             "元素攻击增益",
             "攻击降低"
+        ],
+        "skill_types": [
+            "全体攻击 (打5)",
+            "攻击增益",
+            "攻击减益",
+            "额外伤害",
+            "对自身或友军负面效果"
         ],
         "source": "S2-亚特兰蒂斯",
         "Release date": "2023-02-06",
@@ -25593,7 +29801,7 @@ window.allHeroes =
         "family": "lagoon",
         "image": "https://i.imgur.com/EOk0EO8.jpg",
         "costume_id": 1,
-        "originalIndex": 775
+        "originalIndex": 776
     },
     {
         "name": "摩拉克斯 (Morax)",
@@ -25607,6 +29815,13 @@ window.allHeroes =
             "攻击3个目标",
             "单体法力生成降低",
             "2个目标最大生命值降低"
+        ],
+        "skill_types": [
+            "范围攻击 (打3)",
+            "反制恶魔",
+            "提供免疫",
+            "法力削减或格挡",
+            "最大生命削减"
         ],
         "source": "月英",
         "Release date": "2022-11-01",
@@ -25628,7 +29843,7 @@ window.allHeroes =
         "family": 2022,
         "image": "https://i.imgur.com/9tJznmy.jpg",
         "costume_id": 0,
-        "originalIndex": 776
+        "originalIndex": 777
     },
     {
         "name": "死亡女巫 (Mortewitch)",
@@ -25644,6 +29859,15 @@ window.allHeroes =
             "治疗者",
             "召唤1个墓穴幼蛾超级恶魔",
             "增伤超级恶魔"
+        ],
+        "skill_types": [
+            "狙击手",
+            "绕过",
+            "特殊治疗",
+            "召唤恶魔",
+            "额外伤害",
+            "闪避",
+            "反制小兵"
         ],
         "source": "联盟-飞蛾",
         "Release date": "2025-01-23",
@@ -25666,7 +29890,7 @@ window.allHeroes =
         "family": "moth",
         "image": "https://i.imgur.com/jvJDkdc.jpg",
         "costume_id": 0,
-        "originalIndex": 777
+        "originalIndex": 778
     },
     {
         "name": "莫迪默 (Mortimer)",
@@ -25679,6 +29903,11 @@ window.allHeroes =
         "types": [
             "攻击3个目标",
             "沉默者"
+        ],
+        "skill_types": [
+            "范围攻击 (打3)",
+            "提供免疫",
+            "沉默"
         ],
         "source": "月活动-海滩派对",
         "Release date": "2023-06-12",
@@ -25693,13 +29922,13 @@ window.allHeroes =
             "施法者和附近盟友均可抵抗禁用特殊技能的效果，持续 3 回合。"
         ],
         "passives": [
-            "特殊技能附带持续伤害：当该角色施放其特殊技能时，所有敌人会在 202 回合内受到 2 点水系伤害。",
+            "特殊技能附带持续伤害：当该角色施放其特殊技能时，所有敌人会在 2 回合内受到 202 点水系伤害。",
             "抵抗水系伤害：该角色天生对水系伤害有抵抗能力。"
         ],
         "family": "beachparty",
         "image": "https://i.imgur.com/J2WmnG0.jpg",
         "costume_id": 0,
-        "originalIndex": 778
+        "originalIndex": 779
     },
     {
         "name": "神秘人 (Myztero)",
@@ -25711,6 +29940,9 @@ window.allHeroes =
         "skill": "汲金防护罩",
         "types": [
             "攻击所有目标"
+        ],
+        "skill_types": [
+            "全体攻击 (打5)"
         ],
         "source": "额外抽奖-秘密召唤",
         "Release date": "2020-05-01",
@@ -25729,7 +29961,7 @@ window.allHeroes =
         "family": "mystery",
         "image": "https://i.imgur.com/J37iEs6.jpg",
         "costume_id": 0,
-        "originalIndex": 779
+        "originalIndex": 780
     },
     {
         "name": "娜希莎 (Narcisa)",
@@ -25743,6 +29975,11 @@ window.allHeroes =
             "攻击所有目标",
             "全体状态异常持续时间重置",
             "全体攻击降低"
+        ],
+        "skill_types": [
+            "全体攻击 (打5)",
+            "攻击减益",
+            "效果持续重置"
         ],
         "source": "挑战节-吟游诗人",
         "Release date": "2022-08-11",
@@ -25762,7 +29999,7 @@ window.allHeroes =
         "family": "bard",
         "image": "https://i.imgur.com/ZW5xxnu.jpg",
         "costume_id": 0,
-        "originalIndex": 780
+        "originalIndex": 781
     },
     {
         "name": "倪克斯 (Nyx)",
@@ -25776,6 +30013,11 @@ window.allHeroes =
             "攻击所有目标",
             "防御降低",
             "攻击增益"
+        ],
+        "skill_types": [
+            "全体攻击 (打5)",
+            "攻击增益",
+            "防御减益"
         ],
         "source": "高塔-冥河",
         "Release date": "2022-06-01",
@@ -25804,7 +30046,7 @@ window.allHeroes =
         "family": "styx",
         "image": "https://i.imgur.com/aQwzAEQ.jpg",
         "costume_id": 0,
-        "originalIndex": 781
+        "originalIndex": 782
     },
     {
         "name": "欧巴坎 (Obakan)",
@@ -25817,6 +30059,10 @@ window.allHeroes =
         "types": [
             "攻击3个目标",
             "单体反击"
+        ],
+        "skill_types": [
+            "范围攻击 (打3)",
+            "反击"
         ],
         "source": "S1-经典",
         "Release date": "2017-01-01",
@@ -25833,7 +30079,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/0JU9Ii1.jpg",
         "costume_id": 0,
-        "originalIndex": 782
+        "originalIndex": 783
     },
     {
         "name": "欧巴坎 (Obakan) C1",
@@ -25846,6 +30092,10 @@ window.allHeroes =
         "types": [
             "攻击所有目标",
             "33%反击"
+        ],
+        "skill_types": [
+            "全体攻击 (打5)",
+            "反击"
         ],
         "source": "S1-经典",
         "Release date": "2021-01-18",
@@ -25862,7 +30112,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/SB2N0Vj.jpg",
         "costume_id": 1,
-        "originalIndex": 783
+        "originalIndex": 784
     },
     {
         "name": "欧巴坎 (Obakan) C2",
@@ -25876,6 +30126,11 @@ window.allHeroes =
             "攻击3个目标",
             "3个目标反击",
             "反击时获得法力"
+        ],
+        "skill_types": [
+            "范围攻击 (打3)",
+            "反击",
+            "法力提升"
         ],
         "source": "S1-经典",
         "Release date": "2022-09-05",
@@ -25893,7 +30148,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/jA79vt4.jpg",
         "costume_id": 2,
-        "originalIndex": 784
+        "originalIndex": 785
     },
     {
         "name": "欧巴坎 (Obakan) 卡通",
@@ -25906,6 +30161,11 @@ window.allHeroes =
         "types": [
             "攻击3个目标",
             "单体反击"
+        ],
+        "skill_types": [
+            "范围攻击 (打3)",
+            "反击",
+            "额外伤害"
         ],
         "source": "S1-经典",
         "Release date": "2023-11-27",
@@ -25925,7 +30185,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/YICnCq4.jpg",
         "costume_id": 3,
-        "originalIndex": 785
+        "originalIndex": 786
     },
     {
         "name": "欧巴坎 (Obakan) 玻璃",
@@ -25939,6 +30199,11 @@ window.allHeroes =
             "攻击3个目标",
             "无视防御",
             "单体反击"
+        ],
+        "skill_types": [
+            "范围攻击 (打3)",
+            "绕过",
+            "反击"
         ],
         "source": "S1-经典",
         "Release date": "2025-01-14",
@@ -25958,7 +30223,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/pN1Axne.jpg",
         "costume_id": 4,
-        "originalIndex": 786
+        "originalIndex": 787
     },
     {
         "name": "奥迪尔 (Odile)",
@@ -25972,6 +30237,13 @@ window.allHeroes =
             "治疗者",
             "黑天鹅之舞",
             "随机攻击1个目标"
+        ],
+        "skill_types": [
+            "舞者",
+            "生命强化",
+            "连锁与随机攻击",
+            "特殊治疗",
+            "提供免疫"
         ],
         "source": "至日召唤",
         "Release date": "2024-03-21",
@@ -25995,7 +30267,7 @@ window.allHeroes =
         "family": "opera",
         "image": "https://i.imgur.com/4D2V5En.jpg",
         "costume_id": 0,
-        "originalIndex": 787
+        "originalIndex": 788
     },
     {
         "name": "奥莫德斯 (Ommodus)",
@@ -26009,6 +30281,13 @@ window.allHeroes =
             "摧毁所有恶魔",
             "月出打击 (攻击全体)",
             "摧毁恶魔时全体获得法力"
+        ],
+        "skill_types": [
+            "全体攻击 (打5)",
+            "额外伤害",
+            "反制恶魔",
+            "法力提升",
+            "绕过"
         ],
         "source": "高塔-猫头鹰",
         "Release date": "2023-12-20",
@@ -26029,7 +30308,7 @@ window.allHeroes =
         "family": "owl",
         "image": "https://i.imgur.com/QzvMG5C.jpg",
         "costume_id": 0,
-        "originalIndex": 788
+        "originalIndex": 789
     },
     {
         "name": "玛瑙 (Onyx)",
@@ -26043,6 +30322,13 @@ window.allHeroes =
             "蓄力者",
             "攻击所有目标",
             "驱散者"
+        ],
+        "skill_types": [
+            "范围攻击 (打3)",
+            "全体攻击 (打5)",
+            "增益格挡者",
+            "驱散",
+            "狙击手"
         ],
         "source": "高塔-忍者",
         "Release date": "2020-10-13",
@@ -26069,7 +30355,7 @@ window.allHeroes =
         "family": "ninja",
         "image": "https://i.imgur.com/r2WPn3d.jpg",
         "costume_id": 0,
-        "originalIndex": 789
+        "originalIndex": 790
     },
     {
         "name": "薄荷 (Peppermint)",
@@ -26083,6 +30369,12 @@ window.allHeroes =
             "攻击所有目标",
             "召唤者",
             "全体持续伤害"
+        ],
+        "skill_types": [
+            "全体攻击 (打5)",
+            "持续伤害",
+            "召唤小兵",
+            "额外伤害"
         ],
         "source": "月活动-冬日",
         "Release date": "2022-12-01",
@@ -26100,7 +30392,7 @@ window.allHeroes =
         "family": "christmas",
         "image": "https://i.imgur.com/egM1t1a.jpg",
         "costume_id": 0,
-        "originalIndex": 790
+        "originalIndex": 791
     },
     {
         "name": "歌剧魅影 (Phantom of the Opera)",
@@ -26117,6 +30409,14 @@ window.allHeroes =
             "法力生成降低",
             "治疗降低",
             "状态效果免疫"
+        ],
+        "skill_types": [
+            "范围攻击 (打3)",
+            "舞者",
+            "治疗削减",
+            "提供免疫",
+            "法力削减或格挡",
+            "沉默"
         ],
         "source": "至日召唤",
         "Release date": "2023-06-20",
@@ -26141,7 +30441,7 @@ window.allHeroes =
         "family": "opera",
         "image": "https://i.imgur.com/7nuGOll.jpg",
         "costume_id": 0,
-        "originalIndex": 791
+        "originalIndex": 792
     },
     {
         "name": "福耳库斯 (Phorcys)",
@@ -26155,6 +30455,13 @@ window.allHeroes =
             "召唤3个小兵",
             "嘲讽",
             "叠加"
+        ],
+        "skill_types": [
+            "法力提升",
+            "小兵强化",
+            "召唤小兵",
+            "叠加",
+            "嘲讽"
         ],
         "source": "S6-S7-秘闻",
         "Release date": "2023-06-07",
@@ -26184,7 +30491,7 @@ window.allHeroes =
         "family": "defendersofatlantis",
         "image": "https://i.imgur.com/6o3KSeL.jpg",
         "costume_id": 0,
-        "originalIndex": 792
+        "originalIndex": 793
     },
     {
         "name": "福耳库斯 (Phorcys) C1",
@@ -26198,6 +30505,13 @@ window.allHeroes =
             "召唤3个小兵",
             "嘲讽",
             "叠加"
+        ],
+        "skill_types": [
+            "小兵强化",
+            "召唤小兵",
+            "叠加",
+            "嘲讽",
+            "法力提升"
         ],
         "source": "S6-S7-秘闻",
         "Release date": "2024-05-23",
@@ -26227,7 +30541,7 @@ window.allHeroes =
         "family": "defendersofatlantis",
         "image": "https://i.imgur.com/FXIdE4S.jpg",
         "costume_id": 1,
-        "originalIndex": 793
+        "originalIndex": 794
     },
     {
         "name": "菲托努斯 (Phthonus)",
@@ -26241,6 +30555,11 @@ window.allHeroes =
             "攻击所有目标",
             "驱散者",
             "治疗者"
+        ],
+        "skill_types": [
+            "全体攻击 (打5)",
+            "驱散",
+            "特殊治疗"
         ],
         "source": "月活动-恋爱季节",
         "Release date": "2023-02-14",
@@ -26260,7 +30579,7 @@ window.allHeroes =
         "family": "cupid",
         "image": "https://i.imgur.com/OE7cx2p.jpg",
         "costume_id": 0,
-        "originalIndex": 794
+        "originalIndex": 795
     },
     {
         "name": "瓜尔茨 (Quartz)",
@@ -26274,6 +30593,11 @@ window.allHeroes =
             "蓄力",
             "净化者",
             "攻击增益",
+            "持续治疗"
+        ],
+        "skill_types": [
+            "攻击增益",
+            "净化",
             "持续治疗"
         ],
         "source": "高塔-忍者",
@@ -26302,7 +30626,7 @@ window.allHeroes =
         "family": "ninja",
         "image": "https://i.imgur.com/DHtXxDR.jpg",
         "costume_id": 0,
-        "originalIndex": 795
+        "originalIndex": 796
     },
     {
         "name": "昆塔斯 (Quintus)",
@@ -26314,6 +30638,9 @@ window.allHeroes =
         "skill": "雷电通牒",
         "types": [
             "攻击所有目标"
+        ],
+        "skill_types": [
+            "全体攻击 (打5)"
         ],
         "source": "S1-经典",
         "Release date": "2017-01-01",
@@ -26329,7 +30656,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/250UPh4.jpg",
         "costume_id": 0,
-        "originalIndex": 796
+        "originalIndex": 797
     },
     {
         "name": "昆塔斯 (Quintus) C1",
@@ -26342,6 +30669,10 @@ window.allHeroes =
         "types": [
             "攻击所有目标",
             "攻击降低"
+        ],
+        "skill_types": [
+            "全体攻击 (打5)",
+            "攻击减益"
         ],
         "source": "S1-经典",
         "Release date": "2020-01-01",
@@ -26358,7 +30689,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/TBwlwOC.jpg",
         "costume_id": 1,
-        "originalIndex": 797
+        "originalIndex": 798
     },
     {
         "name": "昆塔斯 (Quintus) C2",
@@ -26371,6 +30702,10 @@ window.allHeroes =
         "types": [
             "攻击所有目标",
             "莽夫乱拳"
+        ],
+        "skill_types": [
+            "精神错乱攻击&治疗",
+            "范围攻击 (打3)"
         ],
         "source": "S1-经典",
         "Release date": "2022-12-26",
@@ -26387,7 +30722,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/BmY4xiU.jpg",
         "costume_id": 2,
-        "originalIndex": 798
+        "originalIndex": 799
     },
     {
         "name": "昆塔斯 (Quintus) 卡通",
@@ -26399,6 +30734,10 @@ window.allHeroes =
         "skill": "卡通通牒",
         "types": [
             "攻击所有目标"
+        ],
+        "skill_types": [
+            "全体攻击 (打5)",
+            "额外伤害"
         ],
         "source": "S1-经典",
         "Release date": "2024-08-11",
@@ -26417,7 +30756,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/ff1uvHj.jpg",
         "costume_id": 3,
-        "originalIndex": 799
+        "originalIndex": 800
     },
     {
         "name": "拉蒙娜 (Ramona)",
@@ -26431,6 +30770,11 @@ window.allHeroes =
             "攻击单个目标",
             "对3个目标召唤1个恶魔",
             "偷取治疗恶魔"
+        ],
+        "skill_types": [
+            "召唤恶魔",
+            "特殊治疗",
+            "狙击手"
         ],
         "source": "神话召唤",
         "Release date": "2024-04-05",
@@ -26453,7 +30797,7 @@ window.allHeroes =
         "family": "champions",
         "image": "https://i.imgur.com/ZBNdURG.jpg",
         "costume_id": 0,
-        "originalIndex": 800
+        "originalIndex": 801
     },
     {
         "name": "莱恩 (Rayne)",
@@ -26466,6 +30810,10 @@ window.allHeroes =
         "types": [
             "攻击单个目标",
             "单体扩散型持续伤害"
+        ],
+        "skill_types": [
+            "持续伤害",
+            "狙击手"
         ],
         "source": "联盟-骑士冲击",
         "Release date": "2022-01-05",
@@ -26482,7 +30830,7 @@ window.allHeroes =
         "family": "raven",
         "image": "https://i.imgur.com/wMh0j5F.jpg",
         "costume_id": 0,
-        "originalIndex": 801
+        "originalIndex": 802
     },
     {
         "name": "罗什福尔 (Rochefort)",
@@ -26494,6 +30842,10 @@ window.allHeroes =
         "skill": "阴谋诡计",
         "types": [
             "攻击3个目标"
+        ],
+        "skill_types": [
+            "范围攻击 (打3)",
+            "全体攻击 (打5)"
         ],
         "source": "联盟-火枪手",
         "Release date": "2023-09-20",
@@ -26512,7 +30864,7 @@ window.allHeroes =
         "family": "musketeer",
         "image": "https://i.imgur.com/cnURK1S.jpg",
         "costume_id": 0,
-        "originalIndex": 802
+        "originalIndex": 803
     },
     {
         "name": "鲑鱼洛基 (Salmon Loki)",
@@ -26525,6 +30877,10 @@ window.allHeroes =
         "types": [
             "攻击部分目标",
             "诡异"
+        ],
+        "skill_types": [
+            "连锁与随机攻击",
+            "额外伤害"
         ],
         "source": "S3-瓦尔哈拉",
         "Release date": "2021-07-04",
@@ -26543,7 +30899,7 @@ window.allHeroes =
         "family": "niflheim",
         "image": "https://i.imgur.com/fVTl018.jpg",
         "costume_id": 0,
-        "originalIndex": 803
+        "originalIndex": 804
     },
     {
         "name": "鲑鱼洛基 (Salmon Loki) C1",
@@ -26556,6 +30912,10 @@ window.allHeroes =
         "types": [
             "攻击部分目标",
             "诡异"
+        ],
+        "skill_types": [
+            "连锁与随机攻击",
+            "额外伤害"
         ],
         "source": "S3-瓦尔哈拉",
         "Release date": "2023-07-31",
@@ -26574,7 +30934,7 @@ window.allHeroes =
         "family": "niflheim",
         "image": "https://i.imgur.com/mbPRCrB.jpg",
         "costume_id": 1,
-        "originalIndex": 804
+        "originalIndex": 805
     },
     {
         "name": "马尾藻 (Sargasso)",
@@ -26587,6 +30947,10 @@ window.allHeroes =
         "types": [
             "攻击3个目标",
             "治疗降低"
+        ],
+        "skill_types": [
+            "范围攻击 (打3)",
+            "治疗削减"
         ],
         "source": "挑战节-海盗",
         "Release date": "2018-08-01",
@@ -26603,7 +30967,7 @@ window.allHeroes =
         "family": "corellia",
         "image": "https://i.imgur.com/6s6FE8i.jpg",
         "costume_id": 0,
-        "originalIndex": 805
+        "originalIndex": 806
     },
     {
         "name": "马尾藻 (Sargasso) C1",
@@ -26618,6 +30982,11 @@ window.allHeroes =
             "治疗降低",
             "持续伤害"
         ],
+        "skill_types": [
+            "范围攻击 (打3)",
+            "持续伤害",
+            "治疗削减"
+        ],
         "source": "挑战节-海盗",
         "Release date": "2023-12-28",
         "star": 5,
@@ -26631,12 +31000,12 @@ window.allHeroes =
             "目标与附近敌人在 4 回合内受到共计 260 点水系伤害。"
         ],
         "passives": [
-            "特殊技能附带剧毒：当该角色施放其特殊技能时，所有敌人会在 476 回合内受到 4 点剧毒伤害。"
+            "特殊技能附带剧毒：当该角色施放其特殊技能时，所有敌人会在 4 回合内受到 476 点剧毒伤害。"
         ],
         "family": "corellia",
         "image": "https://i.imgur.com/lR0HaHa.jpg",
         "costume_id": 1,
-        "originalIndex": 806
+        "originalIndex": 807
     },
     {
         "name": "萨塔娜 (Sartana)",
@@ -26649,6 +31018,10 @@ window.allHeroes =
         "types": [
             "攻击单个目标",
             "单体持续伤害"
+        ],
+        "skill_types": [
+            "持续伤害",
+            "狙击手"
         ],
         "source": "S1-经典",
         "Release date": "2017-01-01",
@@ -26665,7 +31038,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/YBEHGb0.jpg",
         "costume_id": 0,
-        "originalIndex": 807
+        "originalIndex": 808
     },
     {
         "name": "萨塔娜 (Sartana) C1",
@@ -26677,6 +31050,9 @@ window.allHeroes =
         "skill": "恐吓打击",
         "types": [
             "攻击单个目标"
+        ],
+        "skill_types": [
+            "狙击手"
         ],
         "source": "S1-经典",
         "Release date": "2020-05-18",
@@ -26692,7 +31068,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/gwzMUaT.jpg",
         "costume_id": 1,
-        "originalIndex": 808
+        "originalIndex": 809
     },
     {
         "name": "萨塔娜 (Sartana) C2",
@@ -26706,6 +31082,10 @@ window.allHeroes =
             "摧毁单个目标的小兵",
             "攻击单个目标",
             "抵抗小兵"
+        ],
+        "skill_types": [
+            "反制小兵",
+            "狙击手"
         ],
         "source": "S1-经典",
         "Release date": "2023-06-12",
@@ -26723,7 +31103,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/I8cTetD.jpg",
         "costume_id": 2,
-        "originalIndex": 809
+        "originalIndex": 810
     },
     {
         "name": "萨塔娜 (Sartana) 卡通",
@@ -26736,6 +31116,11 @@ window.allHeroes =
         "types": [
             "攻击单个目标",
             "单体持续伤害"
+        ],
+        "skill_types": [
+            "持续伤害",
+            "额外伤害",
+            "狙击手"
         ],
         "source": "S1-经典",
         "Release date": "2023-10-30",
@@ -26755,7 +31140,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/V3r9sPS.jpg",
         "costume_id": 3,
-        "originalIndex": 810
+        "originalIndex": 811
     },
     {
         "name": "萨塔娜 (Sartana) 玻璃",
@@ -26768,6 +31153,11 @@ window.allHeroes =
         "types": [
             "攻击单个目标",
             "单体持续伤害"
+        ],
+        "skill_types": [
+            "绕过",
+            "持续伤害",
+            "狙击手"
         ],
         "source": "S1-经典",
         "Release date": "2024-12-24",
@@ -26787,7 +31177,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/fdUWQiQ.jpg",
         "costume_id": 4,
-        "originalIndex": 811
+        "originalIndex": 812
     },
     {
         "name": "杀意 (Satsui)",
@@ -26801,6 +31191,13 @@ window.allHeroes =
             "蓄力",
             "攻击",
             "躲藏"
+        ],
+        "skill_types": [
+            "狙击手",
+            "范围攻击 (打3)",
+            "全体攻击 (打5)",
+            "鬼魂形态与隐藏",
+            "反制小兵"
         ],
         "source": "高塔-忍者",
         "Release date": "2025-01-02",
@@ -26832,7 +31229,7 @@ window.allHeroes =
         "family": "ninja",
         "image": "https://i.imgur.com/xzr9Szx.jpg",
         "costume_id": 0,
-        "originalIndex": 812
+        "originalIndex": 813
     },
     {
         "name": "嗣卡伏 (Scath)",
@@ -26846,6 +31243,12 @@ window.allHeroes =
             "持续治疗",
             "反击",
             "储存伤害"
+        ],
+        "skill_types": [
+            "反击",
+            "持续治疗",
+            "全体攻击 (打5)",
+            "生命强化"
         ],
         "source": "盟约召唤",
         "Release date": "2024-03-10",
@@ -26868,7 +31271,7 @@ window.allHeroes =
         "family": "construct",
         "image": "https://i.imgur.com/pX4j62c.jpg",
         "costume_id": 0,
-        "originalIndex": 813
+        "originalIndex": 814
     },
     {
         "name": "森安 (Senan)",
@@ -26882,6 +31285,15 @@ window.allHeroes =
             "攻击所有目标",
             "召唤所有恶魔",
             "叠加"
+        ],
+        "skill_types": [
+            "全体攻击 (打5)",
+            "召唤恶魔",
+            "特殊治疗",
+            "叠加",
+            "持续伤害",
+            "法力生成增益",
+            "持续治疗"
         ],
         "source": "挑战节-杀手",
         "Release date": "2021-08-05",
@@ -26903,7 +31315,7 @@ window.allHeroes =
         "family": "slayer",
         "image": "https://i.imgur.com/PYhKsHp.jpg",
         "costume_id": 0,
-        "originalIndex": 814
+        "originalIndex": 815
     },
     {
         "name": "森安 (Senan) C1",
@@ -26917,6 +31329,15 @@ window.allHeroes =
             "攻击所有目标",
             "召唤所有恶魔",
             "叠加"
+        ],
+        "skill_types": [
+            "全体攻击 (打5)",
+            "持续伤害",
+            "召唤恶魔",
+            "特殊治疗",
+            "叠加",
+            "法力生成增益",
+            "持续治疗"
         ],
         "source": "挑战节-杀手",
         "Release date": "2025-04-09",
@@ -26934,12 +31355,12 @@ window.allHeroes =
         ],
         "passives": [
             "抵抗状态效果伤害：该角色天生对来自状态效果的伤害有抵抗能力。",
-            "特殊技能附带流血：当该角色施放其特殊技能时，所有敌人会在 544 回合内受到 4 点流血伤害。"
+            "特殊技能附带流血：当该角色施放其特殊技能时，所有敌人会在 4 回合内受到 544 点流血伤害。"
         ],
         "family": "slayer",
         "image": "https://imgur.com/CNY72vk.jpg",
         "costume_id": 1,
-        "originalIndex": 815
+        "originalIndex": 816
     },
     {
         "name": "塞雷娜 (Serena)",
@@ -26952,6 +31373,12 @@ window.allHeroes =
         "types": [
             "攻击单个目标",
             "单体扩散型恶魔"
+        ],
+        "skill_types": [
+            "召唤恶魔",
+            "狙击手",
+            "攻击减益",
+            "持续伤害"
         ],
         "source": "月活动-海滩派对",
         "Release date": "2025-06-03",
@@ -26968,13 +31395,13 @@ window.allHeroes =
             "流言低语者恶魔每回合都会生成一个自己的克隆体附身于附近的敌人（克隆恶魔吸收的治疗量和造成的伤害与原始恶魔相同。只有在目标没有达到恶魔或小兵的最大数量时，恶魔才会克隆）。"
         ],
         "passives": [
-            "特殊技能附带持续伤害：当该角色施放其特殊技能时，所有敌人会在 278 回合内受到 2 点水系伤害。",
+            "特殊技能附带持续伤害：当该角色施放其特殊技能时，所有敌人会在 2 回合内受到 278 点水系伤害。",
             "抵抗水系伤害：该角色天生对水系伤害有抵抗能力。"
         ],
         "family": "beachparty",
         "image": "https://imgur.com/ebdt5jw.jpg",
         "costume_id": 0,
-        "originalIndex": 816
+        "originalIndex": 817
     },
     {
         "name": "赛沙特 (Seshat)",
@@ -26988,6 +31415,12 @@ window.allHeroes =
             "攻击单个目标",
             "召唤者",
             "驱散者"
+        ],
+        "skill_types": [
+            "驱散",
+            "法力生成增益",
+            "召唤小兵",
+            "狙击手"
         ],
         "source": "月英",
         "Release date": "2019-07-01",
@@ -27008,7 +31441,7 @@ window.allHeroes =
         "family": 2019,
         "image": "https://i.imgur.com/FioNeBy.jpg",
         "costume_id": 0,
-        "originalIndex": 817
+        "originalIndex": 818
     },
     {
         "name": "赛沙特 (Seshat) C1",
@@ -27022,6 +31455,13 @@ window.allHeroes =
             "驱散者",
             "攻击单个目标",
             "召唤者"
+        ],
+        "skill_types": [
+            "驱散",
+            "法力生成增益",
+            "召唤小兵",
+            "狙击手",
+            "净化"
         ],
         "source": "月英",
         "Release date": "2021-10-20",
@@ -27043,7 +31483,7 @@ window.allHeroes =
         "family": 2019,
         "image": "https://i.imgur.com/qNMuMVA.jpg",
         "costume_id": 1,
-        "originalIndex": 818
+        "originalIndex": 819
     },
     {
         "name": "赛特 (Set)",
@@ -27056,6 +31496,11 @@ window.allHeroes =
         "types": [
             "召唤者",
             "全体持续伤害"
+        ],
+        "skill_types": [
+            "持续伤害",
+            "法力削减或格挡",
+            "召唤小兵"
         ],
         "source": "S5-沙丘",
         "Release date": "2022-09-29",
@@ -27077,7 +31522,7 @@ window.allHeroes =
         "family": "moon",
         "image": "https://i.imgur.com/8kUB8ir.jpg",
         "costume_id": 0,
-        "originalIndex": 819
+        "originalIndex": 820
     },
     {
         "name": "赛特 (Set) C1",
@@ -27090,6 +31535,11 @@ window.allHeroes =
         "types": [
             "召唤者",
             "全体持续伤害"
+        ],
+        "skill_types": [
+            "持续伤害",
+            "法力削减或格挡",
+            "召唤小兵"
         ],
         "source": "S5-沙丘",
         "Release date": "2025-05-14",
@@ -27113,7 +31563,7 @@ window.allHeroes =
         "family": "moon",
         "image": "https://imgur.com/olt8i8H.jpg",
         "costume_id": 1,
-        "originalIndex": 820
+        "originalIndex": 821
     },
     {
         "name": "刹克尔博特 (Shacklebolt)",
@@ -27127,6 +31577,12 @@ window.allHeroes =
             "攻击3个目标",
             "法力偷取",
             "增益复制"
+        ],
+        "skill_types": [
+            "范围攻击 (打3)",
+            "增益窃取者",
+            "法力提升",
+            "法力削减或格挡"
         ],
         "source": "盟约召唤",
         "Release date": "2023-12-24",
@@ -27149,7 +31605,7 @@ window.allHeroes =
         "family": "construct",
         "image": "https://i.imgur.com/kHFYa2T.jpg",
         "costume_id": 0,
-        "originalIndex": 821
+        "originalIndex": 822
     },
     {
         "name": "影牙 (Shadowfang)",
@@ -27163,6 +31619,12 @@ window.allHeroes =
             "攻击所有目标",
             "投掷骨头攻击单个目标",
             "投掷骨头召唤1个恶魔"
+        ],
+        "skill_types": [
+            "全体攻击 (打5)",
+            "召唤恶魔",
+            "持续伤害",
+            "连锁与随机攻击"
         ],
         "source": "盟约召唤",
         "Release date": "2024-12-23",
@@ -27184,7 +31646,7 @@ window.allHeroes =
         "family": "fox",
         "image": "https://i.imgur.com/WRT0fPv.jpg",
         "costume_id": 0,
-        "originalIndex": 822
+        "originalIndex": 823
     },
     {
         "name": "卡斯米尔爵士 (Sir Casmir)",
@@ -27199,6 +31661,12 @@ window.allHeroes =
             "单体命中几率",
             "3个目标反射状态异常",
             "3个目标反射叠加效果"
+        ],
+        "skill_types": [
+            "净化",
+            "反射",
+            "连锁与随机攻击",
+            "闪避"
         ],
         "source": "月英",
         "Release date": "2024-08-01",
@@ -27220,7 +31688,7 @@ window.allHeroes =
         "family": 2024,
         "image": "https://i.imgur.com/7f9DRkN.jpg",
         "costume_id": 0,
-        "originalIndex": 823
+        "originalIndex": 824
     },
     {
         "name": "斯尼夫鲁 (Sneferu)",
@@ -27234,6 +31702,11 @@ window.allHeroes =
             "攻击单个目标",
             "连锁",
             "增益免疫"
+        ],
+        "skill_types": [
+            "增益格挡者",
+            "连锁与随机攻击",
+            "狙击手"
         ],
         "source": "S5-沙丘",
         "Release date": "2023-05-11",
@@ -27255,7 +31728,7 @@ window.allHeroes =
         "family": "moon",
         "image": "https://i.imgur.com/xRHanch.jpg",
         "costume_id": 0,
-        "originalIndex": 824
+        "originalIndex": 825
     },
     {
         "name": "迅爪 (Swiftpaw)",
@@ -27269,6 +31742,13 @@ window.allHeroes =
             "攻击单个目标",
             "单体沉默者",
             "召唤3个小兵"
+        ],
+        "skill_types": [
+            "增益窃取者",
+            "闪避",
+            "召唤小兵",
+            "沉默",
+            "狙击手"
         ],
         "source": "盟约召唤",
         "Release date": "2024-10-07",
@@ -27290,7 +31770,7 @@ window.allHeroes =
         "family": "fox",
         "image": "https://i.imgur.com/s7agDwW.jpg",
         "costume_id": 0,
-        "originalIndex": 825
+        "originalIndex": 826
     },
     {
         "name": "塔姆林 (Tamlin)",
@@ -27305,7 +31785,12 @@ window.allHeroes =
             "全体强化防御",
             "全体延迟沉默"
         ],
-        "source": "S4-荒野",
+        "skill_types": [
+            "全体攻击 (打5)",
+            "防御减益",
+            "沉默"
+        ],
+        "source": "荒野召唤",
         "Release date": "2024-09-20",
         "star": 5,
         "power": 1139,
@@ -27325,7 +31810,7 @@ window.allHeroes =
         "family": "woodlandfaun",
         "image": "https://i.imgur.com/eHe26XM.jpg",
         "costume_id": 0,
-        "originalIndex": 826
+        "originalIndex": 827
     },
     {
         "name": "夜魅 (Tenebrae)",
@@ -27338,6 +31823,13 @@ window.allHeroes =
         "types": [
             "攻击单个目标",
             "单体灵魂绑定"
+        ],
+        "skill_types": [
+            "持续伤害",
+            "反制小兵",
+            "狙击手",
+            "伤害分摊",
+            "法力削减或格挡"
         ],
         "source": "盟约召唤",
         "Release date": "2023-10-12",
@@ -27360,7 +31852,7 @@ window.allHeroes =
         "family": "construct",
         "image": "https://i.imgur.com/det8edh.jpg",
         "costume_id": 0,
-        "originalIndex": 827
+        "originalIndex": 828
     },
     {
         "name": "图特阿蒙 (Thoth-Amun)",
@@ -27373,6 +31865,13 @@ window.allHeroes =
         "types": [
             "攻击3个目标",
             "召唤者"
+        ],
+        "skill_types": [
+            "范围攻击 (打3)",
+            "法力生成增益",
+            "召唤小兵",
+            "驱散",
+            "法力生成增益"
         ],
         "source": "月英",
         "Release date": "2017-11-01T00:00:00",
@@ -27390,7 +31889,7 @@ window.allHeroes =
         "family": 2017,
         "image": "https://i.imgur.com/qJmJu2G.jpg",
         "costume_id": 0,
-        "originalIndex": 828
+        "originalIndex": 829
     },
     {
         "name": "图特阿蒙 (Thoth-Amun) C1",
@@ -27403,6 +31902,10 @@ window.allHeroes =
         "types": [
             "攻击3个目标",
             "召唤者"
+        ],
+        "skill_types": [
+            "范围攻击 (打3)",
+            "召唤小兵"
         ],
         "source": "月英",
         "Release date": "2024-01-11",
@@ -27422,7 +31925,7 @@ window.allHeroes =
         "family": 2017,
         "image": "https://i.imgur.com/3rXphxC.jpg",
         "costume_id": 1,
-        "originalIndex": 829
+        "originalIndex": 830
     },
     {
         "name": "特里瓦尔迪 (Thrivaldi)",
@@ -27436,6 +31939,16 @@ window.allHeroes =
             "攻击所有目标",
             "全体防御增益",
             "异常状态伤害免疫"
+        ],
+        "skill_types": [
+            "全体攻击 (打5)",
+            "防御增益",
+            "提供免疫",
+            "额外伤害",
+            "绕过",
+            "持续伤害",
+            "攻击减益",
+            "反制小兵"
         ],
         "source": "S6-S7-秘闻",
         "Release date": "2025-05-16",
@@ -27458,7 +31971,7 @@ window.allHeroes =
         "family": "myrkheim",
         "image": "https://imgur.com/GPSIC9I.jpg",
         "costume_id": 0,
-        "originalIndex": 830
+        "originalIndex": 831
     },
     {
         "name": "寅 (Tora)",
@@ -27471,6 +31984,14 @@ window.allHeroes =
         "types": [
             "蓄力攻击",
             "无视防御"
+        ],
+        "skill_types": [
+            "绕过",
+            "反制小兵",
+            "狙击手",
+            "范围攻击 (打3)",
+            "全体攻击 (打5)",
+            "额外伤害"
         ],
         "source": "高塔-忍者",
         "Release date": "2024-08-27",
@@ -27500,7 +32021,7 @@ window.allHeroes =
         "family": "ninja",
         "image": "https://i.imgur.com/SWoTRp0.jpg",
         "costume_id": 0,
-        "originalIndex": 831
+        "originalIndex": 832
     },
     {
         "name": "图尔顾汝克 (Turgruk)",
@@ -27512,6 +32033,11 @@ window.allHeroes =
         "skill": "瞄准标记",
         "types": [
             "攻击单个目标"
+        ],
+        "skill_types": [
+            "额外伤害",
+            "狙击手",
+            "叠加"
         ],
         "source": "月英",
         "Release date": "2023-04-01",
@@ -27532,7 +32058,7 @@ window.allHeroes =
         "family": 2023,
         "image": "https://i.imgur.com/ktMsNKD.jpg",
         "costume_id": 0,
-        "originalIndex": 832
+        "originalIndex": 833
     },
     {
         "name": "特伟双胞胎 (Tweedles)",
@@ -27546,6 +32072,12 @@ window.allHeroes =
             "攻击2个目标",
             "攻击降低",
             "防御降低"
+        ],
+        "skill_types": [
+            "连锁与随机攻击",
+            "攻击减益",
+            "防御减益",
+            "法力提升"
         ],
         "source": "挑战节-仙境",
         "Release date": "2023-10-05",
@@ -27567,7 +32099,7 @@ window.allHeroes =
         "family": "wonderland",
         "image": "https://i.imgur.com/oaSASQ4.jpg",
         "costume_id": 0,
-        "originalIndex": 833
+        "originalIndex": 834
     },
     {
         "name": "奥绰刻斯 (Ultrox)",
@@ -27581,6 +32113,11 @@ window.allHeroes =
             "攻击所有目标",
             "3个目标反击",
             "3个目标伤害减免"
+        ],
+        "skill_types": [
+            "全体攻击 (打5)",
+            "反击",
+            "伤害减免"
         ],
         "source": "S6-S7-秘闻",
         "Release date": "2023-08-02",
@@ -27608,7 +32145,7 @@ window.allHeroes =
         "family": "nightmaresofatlantis",
         "image": "https://i.imgur.com/7xKKQnM.jpg",
         "costume_id": 0,
-        "originalIndex": 834
+        "originalIndex": 835
     },
     {
         "name": "奥绰刻斯 (Ultrox) C1",
@@ -27622,6 +32159,12 @@ window.allHeroes =
             "攻击所有目标",
             "3个目标反击",
             "3个目标伤害减免"
+        ],
+        "skill_types": [
+            "全体攻击 (打5)",
+            "反击",
+            "伤害减免",
+            "额外伤害"
         ],
         "source": "S6-S7-秘闻",
         "Release date": "2025-05-28",
@@ -27650,7 +32193,7 @@ window.allHeroes =
         "family": "nightmaresofatlantis",
         "image": "https://imgur.com/p30NrpJ.jpg",
         "costume_id": 1,
-        "originalIndex": 835
+        "originalIndex": 836
     },
     {
         "name": "翁布丽亚 (Umbria)",
@@ -27663,6 +32206,11 @@ window.allHeroes =
         "types": [
             "攻击单个目标",
             "召唤1个克隆恶魔"
+        ],
+        "skill_types": [
+            "召唤恶魔",
+            "狙击手",
+            "持续伤害"
         ],
         "source": "挑战-众神狂欢节",
         "Release date": "2023-11-02",
@@ -27683,7 +32231,7 @@ window.allHeroes =
         "family": "maskedgod",
         "image": "https://i.imgur.com/3VyJcT7.jpg",
         "costume_id": 0,
-        "originalIndex": 836
+        "originalIndex": 837
     },
     {
         "name": "梅子 (Umeko)",
@@ -27697,6 +32245,12 @@ window.allHeroes =
             "驱散者",
             "持续伤害 (1/3/5个目标)",
             "治疗降低"
+        ],
+        "skill_types": [
+            "驱散",
+            "持续伤害",
+            "治疗削减",
+            "反制小兵"
         ],
         "source": "高塔-忍者",
         "Release date": "2024-10-22",
@@ -27726,7 +32280,7 @@ window.allHeroes =
         "family": "ninja",
         "image": "https://i.imgur.com/2sWnlMn.jpg",
         "costume_id": 0,
-        "originalIndex": 837
+        "originalIndex": 838
     },
     {
         "name": "尤塞娜 (Ursena)",
@@ -27740,6 +32294,11 @@ window.allHeroes =
             "攻击所有目标",
             "全体元素反射",
             "全体元素反击"
+        ],
+        "skill_types": [
+            "全体攻击 (打5)",
+            "额外伤害",
+            "反射"
         ],
         "source": "S2-亚特兰蒂斯",
         "Release date": "2017-01-01",
@@ -27758,7 +32317,7 @@ window.allHeroes =
         "family": "atlantis",
         "image": "https://i.imgur.com/OQ8iQcf.jpg",
         "costume_id": 0,
-        "originalIndex": 838
+        "originalIndex": 839
     },
     {
         "name": "尤塞娜 (Ursena) C1",
@@ -27772,6 +32331,12 @@ window.allHeroes =
             "攻击所有目标",
             "全体元素反射",
             "全体元素反击"
+        ],
+        "skill_types": [
+            "全体攻击 (打5)",
+            "防御减益",
+            "额外伤害",
+            "反射"
         ],
         "source": "S2-亚特兰蒂斯",
         "Release date": "2021-11-15",
@@ -27790,7 +32355,7 @@ window.allHeroes =
         "family": "atlantis",
         "image": "https://i.imgur.com/HefSfvM.jpg",
         "costume_id": 1,
-        "originalIndex": 839
+        "originalIndex": 840
     },
     {
         "name": "乌丝拉甘 (Uthragan)",
@@ -27804,6 +32369,11 @@ window.allHeroes =
             "攻击单个目标",
             "3个目标持续伤害",
             "自我治疗"
+        ],
+        "skill_types": [
+            "持续伤害",
+            "特殊治疗",
+            "狙击手"
         ],
         "source": "月英",
         "Release date": "2023-10-01",
@@ -27824,7 +32394,7 @@ window.allHeroes =
         "family": 2023,
         "image": "https://i.imgur.com/Pb3fJn3.jpg",
         "costume_id": 0,
-        "originalIndex": 840
+        "originalIndex": 841
     },
     {
         "name": "乌韦 (Uwe)",
@@ -27837,6 +32407,13 @@ window.allHeroes =
         "types": [
             "攻击单个目标",
             "连锁"
+        ],
+        "skill_types": [
+            "持续伤害",
+            "狙击手",
+            "连锁与随机攻击",
+            "提供免疫",
+            "伤害减免"
         ],
         "source": "挑战-重返圣堂",
         "Release date": "2024-05-16",
@@ -27856,7 +32433,7 @@ window.allHeroes =
         "family": "gargoyle",
         "image": "https://i.imgur.com/KNSk9mz.jpg",
         "costume_id": 0,
-        "originalIndex": 841
+        "originalIndex": 842
     },
     {
         "name": "范德尔 (Vander)",
@@ -27869,6 +32446,12 @@ window.allHeroes =
         "types": [
             "攻击单个目标",
             "沉默"
+        ],
+        "skill_types": [
+            "范围攻击 (打3)",
+            "全体攻击 (打5)",
+            "沉默",
+            "狙击手"
         ],
         "source": "超级元素人",
         "Release date": "2024-08-07",
@@ -27893,7 +32476,7 @@ window.allHeroes =
         "family": "superelemental",
         "image": "https://i.imgur.com/4cx1DT9.jpg",
         "costume_id": 0,
-        "originalIndex": 842
+        "originalIndex": 843
     },
     {
         "name": "瓦德 (Vard)",
@@ -27907,6 +32490,11 @@ window.allHeroes =
             "攻击所有目标",
             "全体衰退",
             "法力生成降低"
+        ],
+        "skill_types": [
+            "全体攻击 (打5)",
+            "属性修改",
+            "法力削减或格挡"
         ],
         "source": "星体召唤",
         "Release date": "2025-01-30",
@@ -27928,7 +32516,7 @@ window.allHeroes =
         "family": "astraldwarfs",
         "image": "https://i.imgur.com/pddigSQ.jpg",
         "costume_id": 0,
-        "originalIndex": 843
+        "originalIndex": 844
     },
     {
         "name": "维克托 (Victor)",
@@ -27943,6 +32531,13 @@ window.allHeroes =
             "单体持续伤害",
             "治疗偷取",
             "防御增益"
+        ],
+        "skill_types": [
+            "防御增益",
+            "持续伤害",
+            "特殊治疗",
+            "治疗削减",
+            "狙击手"
         ],
         "source": "月活动-莫洛维亚",
         "Release date": "2018-10-01",
@@ -27963,7 +32558,7 @@ window.allHeroes =
         "family": "morlovia",
         "image": "https://i.imgur.com/Trss5zi.jpg",
         "costume_id": 0,
-        "originalIndex": 844
+        "originalIndex": 845
     },
     {
         "name": "维克托 (Victor) C1",
@@ -27978,6 +32573,13 @@ window.allHeroes =
             "3个目标持续伤害",
             "生命偷取",
             "防御降低"
+        ],
+        "skill_types": [
+            "范围攻击 (打3)",
+            "防御减益",
+            "持续伤害",
+            "特殊治疗",
+            "治疗削减"
         ],
         "source": "月活动-莫洛维亚",
         "Release date": "2021-10-04",
@@ -27996,7 +32598,7 @@ window.allHeroes =
         "family": "morlovia",
         "image": "https://i.imgur.com/bKghYKS.jpg",
         "costume_id": 1,
-        "originalIndex": 845
+        "originalIndex": 846
     },
     {
         "name": "维奥莱特·波茨 (Violet Potts)",
@@ -28010,6 +32612,12 @@ window.allHeroes =
             "安全净化者",
             "增益免疫",
             "超级小兵"
+        ],
+        "skill_types": [
+            "召唤巨型小兵",
+            "驱散",
+            "增益格挡者",
+            "持续伤害"
         ],
         "source": "哥布林召唤",
         "Release date": "2024-06-10",
@@ -28031,7 +32639,7 @@ window.allHeroes =
         "family": "garrisonguard",
         "image": "https://i.imgur.com/ByQ3x5M.jpg",
         "costume_id": 0,
-        "originalIndex": 846
+        "originalIndex": 847
     },
     {
         "name": "维斯卡罗 (Viscaro)",
@@ -28045,6 +32653,11 @@ window.allHeroes =
             "攻击所有目标",
             "绕过小兵",
             "召唤所有恶魔"
+        ],
+        "skill_types": [
+            "全体攻击 (打5)",
+            "召唤恶魔",
+            "反制小兵"
         ],
         "source": "月英",
         "Release date": "2022-01-01",
@@ -28068,7 +32681,7 @@ window.allHeroes =
         "family": 2022,
         "image": "https://i.imgur.com/tgvzp56.jpg",
         "costume_id": 0,
-        "originalIndex": 847
+        "originalIndex": 848
     },
     {
         "name": "咯木子爵 (Viscount Cluckwood)",
@@ -28082,6 +32695,11 @@ window.allHeroes =
             "重新部署",
             "攻击所有目标",
             "4名盟友元素交换"
+        ],
+        "skill_types": [
+            "重排队伍",
+            "全体攻击 (打5)",
+            "状态效果格挡"
         ],
         "source": "月活动-春谷",
         "Release date": "2025-03-31",
@@ -28100,7 +32718,7 @@ window.allHeroes =
         "family": "springvale",
         "image": "https://imgur.com/ifuZ96L.jpg",
         "costume_id": 0,
-        "originalIndex": 848
+        "originalIndex": 849
     },
     {
         "name": "虚空之星 (Voidstar)",
@@ -28114,6 +32732,13 @@ window.allHeroes =
             "攻击单个目标",
             "治疗者",
             "特殊技能防御增益"
+        ],
+        "skill_types": [
+            "绕过",
+            "狙击手",
+            "特殊治疗",
+            "防御增益",
+            "伤害分摊"
         ],
         "source": "星体召唤",
         "Release date": "2024-04-22",
@@ -28135,7 +32760,7 @@ window.allHeroes =
         "family": "astralelves",
         "image": "https://i.imgur.com/ry0GZRR.jpg",
         "costume_id": 0,
-        "originalIndex": 849
+        "originalIndex": 850
     },
     {
         "name": "冯·罗斯巴特 (Von Rothbart)",
@@ -28148,6 +32773,12 @@ window.allHeroes =
         "types": [
             "攻击单个目标",
             "扩散之舞：痛苦歌谣"
+        ],
+        "skill_types": [
+            "舞者",
+            "狙击手",
+            "沉默",
+            "提供免疫"
         ],
         "source": "至日召唤",
         "Release date": "2024-08-22",
@@ -28173,7 +32804,7 @@ window.allHeroes =
         "family": "opera",
         "image": "https://i.imgur.com/DZgjbkS.jpg",
         "costume_id": 0,
-        "originalIndex": 850
+        "originalIndex": 851
     },
     {
         "name": "蝎子精 (Xie Zi Jing)",
@@ -28186,6 +32817,11 @@ window.allHeroes =
         "types": [
             "驱散者",
             "3个目标持续伤害"
+        ],
+        "skill_types": [
+            "绕过",
+            "驱散",
+            "持续伤害"
         ],
         "source": "三国召唤",
         "Release date": "2024-02-06",
@@ -28206,7 +32842,7 @@ window.allHeroes =
         "family": "journey",
         "image": "https://i.imgur.com/jJUezPr.jpg",
         "costume_id": 0,
-        "originalIndex": 851
+        "originalIndex": 852
     },
     {
         "name": "熊山君 (Xiong Shanjun)",
@@ -28221,6 +32857,12 @@ window.allHeroes =
             "生命值加成",
             "法力生成降低",
             "法力生成增益"
+        ],
+        "skill_types": [
+            "生命强化",
+            "法力生成增益",
+            "法力削减或格挡",
+            "最大生命削减"
         ],
         "source": "三国召唤",
         "Release date": "2023-04-24",
@@ -28239,7 +32881,7 @@ window.allHeroes =
         "family": "journey",
         "image": "https://i.imgur.com/WyjU3s9.jpg",
         "costume_id": 0,
-        "originalIndex": 852
+        "originalIndex": 853
     },
     {
         "name": "泽诺福德 (Xnolphod)",
@@ -28253,6 +32895,13 @@ window.allHeroes =
             "全体治疗",
             "法力增长",
             "改变棋盘"
+        ],
+        "skill_types": [
+            "改变面板",
+            "法力生成增益",
+            "法力削减或格挡",
+            "治疗",
+            "法力提升"
         ],
         "source": "S4-蛮荒地界",
         "Release date": "2021-09-09",
@@ -28272,7 +32921,7 @@ window.allHeroes =
         "family": "underwild",
         "image": "https://i.imgur.com/RF7rniv.jpg",
         "costume_id": 0,
-        "originalIndex": 853
+        "originalIndex": 854
     },
     {
         "name": "泽诺福德 (Xnolphod) C1",
@@ -28286,6 +32935,14 @@ window.allHeroes =
             "持续治疗",
             "法力持续恢复",
             "改变棋盘"
+        ],
+        "skill_types": [
+            "改变面板",
+            "法力生成增益",
+            "法力削减或格挡",
+            "持续治疗",
+            "法力提升",
+            "生命强化"
         ],
         "source": "S4-蛮荒地界",
         "Release date": "2023-11-09",
@@ -28306,7 +32963,7 @@ window.allHeroes =
         "family": "underwild",
         "image": "https://i.imgur.com/s1HpuGG.jpg",
         "costume_id": 1,
-        "originalIndex": 854
+        "originalIndex": 855
     },
     {
         "name": "伊莎贝尔 (Ysabel)",
@@ -28321,7 +32978,13 @@ window.allHeroes =
             "强化防御异常",
             "延迟驱散"
         ],
-        "source": "S4-荒野",
+        "skill_types": [
+            "范围攻击 (打3)",
+            "防御减益",
+            "驱散",
+            "反制小兵"
+        ],
+        "source": "荒野召唤",
         "Release date": "2024-11-05",
         "star": 5,
         "power": 1146,
@@ -28340,7 +33003,7 @@ window.allHeroes =
         "family": "woodlandfaun",
         "image": "https://i.imgur.com/jhCBaUo.jpg",
         "costume_id": 0,
-        "originalIndex": 855
+        "originalIndex": 856
     },
     {
         "name": "泽德 (Zed)",
@@ -28354,6 +33017,12 @@ window.allHeroes =
             "攻击单个目标",
             "单体防御降低",
             "单体治疗降低"
+        ],
+        "skill_types": [
+            "狙击手",
+            "攻击增益",
+            "防御减益",
+            "治疗削减"
         ],
         "source": "月英",
         "Release date": "2025-01-01",
@@ -28375,7 +33044,7 @@ window.allHeroes =
         "family": 2025,
         "image": "https://i.imgur.com/G0RFHTr.jpg",
         "costume_id": 0,
-        "originalIndex": 856
+        "originalIndex": 857
     },
     {
         "name": "祖拉格 (Zulag)",
@@ -28388,6 +33057,11 @@ window.allHeroes =
         "types": [
             "3个目标持续治疗",
             "防御增益"
+        ],
+        "skill_types": [
+            "防御增益",
+            "持续治疗",
+            "召唤小兵"
         ],
         "source": "月英",
         "Release date": "2020-10-01",
@@ -28408,7 +33082,7 @@ window.allHeroes =
         "family": 2020,
         "image": "https://i.imgur.com/oEPqMWI.jpg",
         "costume_id": 0,
-        "originalIndex": 857
+        "originalIndex": 858
     },
     {
         "name": "莎朗 (Sharan)",
@@ -28420,6 +33094,9 @@ window.allHeroes =
         "skill": "治疗（小）",
         "types": [
             "治疗者"
+        ],
+        "skill_types": [
+            "治疗"
         ],
         "source": "S1-经典",
         "Release date": "2017-01-01",
@@ -28435,7 +33112,7 @@ window.allHeroes =
         "family": null,
         "image": "https://i.imgur.com/PC7yXFg.jpg",
         "costume_id": 0,
-        "originalIndex": 858
+        "originalIndex": 859
     },
     {
         "name": "图丹 (Tudan)",
@@ -28447,6 +33124,9 @@ window.allHeroes =
         "skill": "芒刺在背",
         "types": [
             "攻击单个目标"
+        ],
+        "skill_types": [
+            "狙击手"
         ],
         "source": "S1-经典",
         "Release date": "2017-01-01",
@@ -28462,7 +33142,7 @@ window.allHeroes =
         "family": null,
         "image": "https://i.imgur.com/cL8WR2O.jpg",
         "costume_id": 0,
-        "originalIndex": 859
+        "originalIndex": 860
     },
     {
         "name": "法里德 (Farid)",
@@ -28474,6 +33154,9 @@ window.allHeroes =
         "skill": "残暴斩",
         "types": [
             "攻击所有目标"
+        ],
+        "skill_types": [
+            "全体攻击 (打5)"
         ],
         "source": "S1-经典",
         "Release date": "2017-01-01",
@@ -28489,7 +33172,7 @@ window.allHeroes =
         "family": null,
         "image": "https://i.imgur.com/MeeFayZ.jpg",
         "costume_id": 0,
-        "originalIndex": 860
+        "originalIndex": 861
     },
     {
         "name": "吉尔 (Jill)",
@@ -28500,6 +33183,9 @@ window.allHeroes =
         "speed": "中等",
         "skill": "攻击动员",
         "types": [
+            "攻击增益"
+        ],
+        "skill_types": [
             "攻击增益"
         ],
         "source": "S1-经典",
@@ -28516,7 +33202,7 @@ window.allHeroes =
         "family": null,
         "image": "https://i.imgur.com/FTGm2in.jpg",
         "costume_id": 0,
-        "originalIndex": 861
+        "originalIndex": 862
     },
     {
         "name": "沙克特 (Shaarkot)",
@@ -28527,6 +33213,9 @@ window.allHeroes =
         "speed": "中等",
         "skill": "攻击动员",
         "types": [
+            "攻击增益"
+        ],
+        "skill_types": [
             "攻击增益"
         ],
         "source": "S1-经典",
@@ -28543,7 +33232,7 @@ window.allHeroes =
         "family": null,
         "image": "https://i.imgur.com/TOP4jvU.jpg",
         "costume_id": 0,
-        "originalIndex": 862
+        "originalIndex": 863
     },
     {
         "name": "祖达 (Zudak)",
@@ -28555,6 +33244,9 @@ window.allHeroes =
         "skill": "应风披靡",
         "types": [
             "攻击3个目标"
+        ],
+        "skill_types": [
+            "范围攻击 (打3)"
         ],
         "source": "S1-经典",
         "Release date": "2017-01-01",
@@ -28570,7 +33262,7 @@ window.allHeroes =
         "family": null,
         "image": "https://i.imgur.com/O3JN2m9.jpg",
         "costume_id": 0,
-        "originalIndex": 863
+        "originalIndex": 864
     },
     {
         "name": "阿萨尔 (Azar)",
@@ -28583,6 +33275,10 @@ window.allHeroes =
         "types": [
             "攻击单个目标",
             "单体法力削减"
+        ],
+        "skill_types": [
+            "法力削减或格挡",
+            "狙击手"
         ],
         "source": "S1-经典",
         "Release date": "2017-01-01",
@@ -28599,7 +33295,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/sizxBDX.jpg",
         "costume_id": 0,
-        "originalIndex": 864
+        "originalIndex": 865
     },
     {
         "name": "阿萨尔 (Azar) C1",
@@ -28612,6 +33308,10 @@ window.allHeroes =
         "types": [
             "攻击3个目标",
             "单体法力削减"
+        ],
+        "skill_types": [
+            "范围攻击 (打3)",
+            "法力削减或格挡"
         ],
         "source": "S1-经典",
         "Release date": "2020-05-18",
@@ -28628,7 +33328,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/tInZp5F.jpg",
         "costume_id": 1,
-        "originalIndex": 865
+        "originalIndex": 866
     },
     {
         "name": "阿萨尔 (Azar) 卡通",
@@ -28641,6 +33341,11 @@ window.allHeroes =
         "types": [
             "攻击单个目标",
             "单体法力削减"
+        ],
+        "skill_types": [
+            "法力削减或格挡",
+            "狙击手",
+            "额外伤害"
         ],
         "source": "S1-经典",
         "Release date": "2024-03-11",
@@ -28660,7 +33365,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/Mwzt0jr.jpg",
         "costume_id": 2,
-        "originalIndex": 866
+        "originalIndex": 867
     },
     {
         "name": "阿萨尔 (Azar) 玻璃",
@@ -28674,6 +33379,11 @@ window.allHeroes =
             "攻击单个目标",
             "单体法力削减",
             "无视防御"
+        ],
+        "skill_types": [
+            "绕过",
+            "法力削减或格挡",
+            "狙击手"
         ],
         "source": "S1-经典",
         "Release date": "2025-04-23",
@@ -28693,7 +33403,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://imgur.com/rj0CDGr.jpg",
         "costume_id": 3,
-        "originalIndex": 867
+        "originalIndex": 868
     },
     {
         "name": "巴格雷格 (Bagreg)",
@@ -28706,6 +33416,10 @@ window.allHeroes =
         "types": [
             "攻击3个目标",
             "元素防御降低"
+        ],
+        "skill_types": [
+            "范围攻击 (打3)",
+            "防御减益"
         ],
         "source": "S6-S7-秘闻",
         "Release date": "2023-06-07",
@@ -28731,7 +33445,7 @@ window.allHeroes =
         "family": "nightmaresofatlantis",
         "image": "https://i.imgur.com/rzvavLk.jpg",
         "costume_id": 0,
-        "originalIndex": 868
+        "originalIndex": 869
     },
     {
         "name": "巴格雷格 (Bagreg) C1",
@@ -28744,6 +33458,10 @@ window.allHeroes =
         "types": [
             "攻击3个目标",
             "元素防御降低"
+        ],
+        "skill_types": [
+            "范围攻击 (打3)",
+            "防御减益"
         ],
         "source": "S6-S7-秘闻",
         "Release date": "2025-04-29",
@@ -28770,7 +33488,7 @@ window.allHeroes =
         "family": "nightmaresofatlantis",
         "image": "https://imgur.com/ZuRts32.jpg",
         "costume_id": 1,
-        "originalIndex": 869
+        "originalIndex": 870
     },
     {
         "name": "贝索 (Basil)",
@@ -28785,6 +33503,11 @@ window.allHeroes =
             "友方伤害分担",
             "反击"
         ],
+        "skill_types": [
+            "防御增益",
+            "反击",
+            "伤害分摊"
+        ],
         "source": "盟约召唤",
         "Release date": "2022-12-24",
         "star": 3,
@@ -28798,13 +33521,13 @@ window.allHeroes =
             "所有盟友会以所受伤害的 70% 进行反击，持续 4 回合。反击伤害每回合增加 +10% ，最高为 +100%。"
         ],
         "passives": [
-            "特殊技能附带持续伤害：当该角色施放其特殊技能时，会给一个随机敌人施加猎人印记。目标在 150 回合内受到 3 点伤害。如果目标已有此效果，则持续时间刷新，伤害增加 150 点，总伤害最高可达 1500 点。",
+            "特殊技能附带持续伤害：当该角色施放其特殊技能时，会给一个随机敌人施加猎人印记。目标在 3 回合内受到 150 点伤害。如果目标已有此效果，则持续时间刷新，伤害增加 150 点，总伤害最高可达 1500 点。",
             "猎手感知：当该角色施放其特殊技能时，会将自身最新的可净化状态异常转移给目标。如果其特殊技能无法选择敌方目标，则会随机转移至一名敌人。若此角色没有可净化的状态异常，则恢复自身 12% 的生命。"
         ],
         "family": "abysshunter",
         "image": "https://i.imgur.com/WxAALcm.jpg",
         "costume_id": 0,
-        "originalIndex": 870
+        "originalIndex": 871
     },
     {
         "name": "波肯 (Bauchan)",
@@ -28818,6 +33541,11 @@ window.allHeroes =
             "攻击所有目标",
             "法力削减",
             "法力生成增益"
+        ],
+        "skill_types": [
+            "全体攻击 (打5)",
+            "法力生成增益",
+            "法力削减或格挡"
         ],
         "source": "挑战节-阿瓦隆",
         "Release date": "2019-09-12",
@@ -28835,7 +33563,7 @@ window.allHeroes =
         "family": "avalon",
         "image": "https://i.imgur.com/EA1ItRL.jpg",
         "costume_id": 0,
-        "originalIndex": 871
+        "originalIndex": 872
     },
     {
         "name": "布茨 (Boots)",
@@ -28849,6 +33577,11 @@ window.allHeroes =
             "攻击3个目标",
             "攻击降低",
             "防御降低"
+        ],
+        "skill_types": [
+            "属性修改",
+            "范围攻击 (打3)",
+            "防御减益"
         ],
         "source": "哥布林召唤",
         "Release date": "2023-09-18",
@@ -28870,7 +33603,7 @@ window.allHeroes =
         "family": "goblin",
         "image": "https://i.imgur.com/JAko0SJ.jpg",
         "costume_id": 0,
-        "originalIndex": 872
+        "originalIndex": 873
     },
     {
         "name": "巴斯特 (Buster)",
@@ -28884,6 +33617,11 @@ window.allHeroes =
             "攻击3个目标",
             "召唤者",
             "伤害降低"
+        ],
+        "skill_types": [
+            "范围攻击 (打3)",
+            "额外伤害",
+            "召唤小兵"
         ],
         "source": "月活动-冬日",
         "Release date": "2022-12-01",
@@ -28901,7 +33639,7 @@ window.allHeroes =
         "family": "christmas",
         "image": "https://i.imgur.com/LgUJQa9.jpg",
         "costume_id": 0,
-        "originalIndex": 873
+        "originalIndex": 874
     },
     {
         "name": "但丁 (Dante)",
@@ -28913,6 +33651,11 @@ window.allHeroes =
         "skill": "但丁的地狱",
         "types": [
             "蓄力"
+        ],
+        "skill_types": [
+            "全体攻击 (打5)",
+            "绕过",
+            "持续伤害"
         ],
         "source": "高塔-冥河",
         "Release date": "2022-09-21",
@@ -28942,7 +33685,7 @@ window.allHeroes =
         "family": "styx",
         "image": "https://i.imgur.com/FNkLC6z.jpg",
         "costume_id": 0,
-        "originalIndex": 874
+        "originalIndex": 875
     },
     {
         "name": "艾邓恩 (Ei-Dunn)",
@@ -28955,6 +33698,10 @@ window.allHeroes =
         "types": [
             "攻击所有目标",
             "法力生成降低"
+        ],
+        "skill_types": [
+            "范围攻击 (打3)",
+            "法力削减或格挡"
         ],
         "source": "S3-瓦尔哈拉",
         "Release date": "2020-02-27",
@@ -28971,7 +33718,7 @@ window.allHeroes =
         "family": "niflheim",
         "image": "https://i.imgur.com/RabUqBI.jpg",
         "costume_id": 0,
-        "originalIndex": 875
+        "originalIndex": 876
     },
     {
         "name": "艾邓恩 (Ei-Dunn) C1",
@@ -28984,6 +33731,10 @@ window.allHeroes =
         "types": [
             "攻击所有目标",
             "法力削减"
+        ],
+        "skill_types": [
+            "全体攻击 (打5)",
+            "法力削减或格挡"
         ],
         "source": "S3-瓦尔哈拉",
         "Release date": "2023-02-13",
@@ -29000,7 +33751,7 @@ window.allHeroes =
         "family": "niflheim",
         "image": "https://i.imgur.com/Zi5MdT5.jpg",
         "costume_id": 1,
-        "originalIndex": 876
+        "originalIndex": 877
     },
     {
         "name": "小鹿 (Fawn)",
@@ -29013,6 +33764,11 @@ window.allHeroes =
         "types": [
             "闪避",
             "法力持续恢复"
+        ],
+        "skill_types": [
+            "闪避",
+            "法力提升",
+            "反击"
         ],
         "source": "联盟-骑士冲击",
         "Release date": "2023-10-18",
@@ -29031,7 +33787,7 @@ window.allHeroes =
         "family": "stag",
         "image": "https://i.imgur.com/qV2EnaJ.jpg",
         "costume_id": 0,
-        "originalIndex": 877
+        "originalIndex": 878
     },
     {
         "name": "鹰月 (Hawkmoon)",
@@ -29043,6 +33799,9 @@ window.allHeroes =
         "skill": "疾风祷告",
         "types": [
             "全体治疗"
+        ],
+        "skill_types": [
+            "治疗"
         ],
         "source": "S1-经典",
         "Release date": "2017-01-01",
@@ -29058,7 +33817,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/6ZyfSsX.jpg",
         "costume_id": 0,
-        "originalIndex": 878
+        "originalIndex": 879
     },
     {
         "name": "鹰月 (Hawkmoon) C1",
@@ -29071,6 +33830,10 @@ window.allHeroes =
         "types": [
             "全体持续治疗",
             "全体攻击增益"
+        ],
+        "skill_types": [
+            "攻击增益",
+            "持续治疗"
         ],
         "source": "S1-经典",
         "Release date": "2020-01-01",
@@ -29087,7 +33850,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/FY7tylo.jpg",
         "costume_id": 1,
-        "originalIndex": 879
+        "originalIndex": 880
     },
     {
         "name": "鹰月 (Hawkmoon) 卡通",
@@ -29100,6 +33863,10 @@ window.allHeroes =
         "types": [
             "全体治疗",
             "全体防御增益"
+        ],
+        "skill_types": [
+            "治疗",
+            "防御增益"
         ],
         "source": "S1-经典",
         "Release date": "2024-05-06",
@@ -29118,7 +33885,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/hDOgs06.jpg",
         "costume_id": 2,
-        "originalIndex": 880
+        "originalIndex": 881
     },
     {
         "name": "赫尔吉 (Helgi)",
@@ -29131,6 +33898,13 @@ window.allHeroes =
         "types": [
             "随机攻击8次",
             "全体增益持续时间重置"
+        ],
+        "skill_types": [
+            "连锁与随机攻击",
+            "效果持续重置",
+            "反制小兵",
+            "持续伤害",
+            "防御减益"
         ],
         "source": "S6-S7-秘闻",
         "Release date": "2024-12-03",
@@ -29153,7 +33927,7 @@ window.allHeroes =
         "family": "nidavellir",
         "image": "https://i.imgur.com/URDTarn.jpg",
         "costume_id": 0,
-        "originalIndex": 881
+        "originalIndex": 882
     },
     {
         "name": "贾汉吉 (Jahangir)",
@@ -29166,6 +33940,10 @@ window.allHeroes =
         "types": [
             "攻击所有目标",
             "全体持续伤害"
+        ],
+        "skill_types": [
+            "全体攻击 (打5)",
+            "持续伤害"
         ],
         "source": "S1-经典",
         "Release date": "2017-01-01",
@@ -29182,7 +33960,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/7oZTOqz.jpg",
         "costume_id": 0,
-        "originalIndex": 882
+        "originalIndex": 883
     },
     {
         "name": "贾汉吉 (Jahangir) C1",
@@ -29195,6 +33973,10 @@ window.allHeroes =
         "types": [
             "攻击所有目标",
             "全体持续伤害"
+        ],
+        "skill_types": [
+            "全体攻击 (打5)",
+            "持续伤害"
         ],
         "source": "S1-经典",
         "Release date": "2021-01-18",
@@ -29211,7 +33993,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/IPO19rX.jpg",
         "costume_id": 1,
-        "originalIndex": 883
+        "originalIndex": 884
     },
     {
         "name": "贾汉吉 (Jahangir) 卡通",
@@ -29224,6 +34006,11 @@ window.allHeroes =
         "types": [
             "攻击所有目标",
             "全体持续伤害"
+        ],
+        "skill_types": [
+            "全体攻击 (打5)",
+            "持续伤害",
+            "额外伤害"
         ],
         "source": "S1-经典",
         "Release date": "2023-12-25",
@@ -29243,7 +34030,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/nGXpTVa.jpg",
         "costume_id": 2,
-        "originalIndex": 884
+        "originalIndex": 885
     },
     {
         "name": "贾汉吉 (Jahangir) 玻璃",
@@ -29256,6 +34043,11 @@ window.allHeroes =
         "types": [
             "攻击所有目标",
             "全体持续伤害"
+        ],
+        "skill_types": [
+            "全体攻击 (打5)",
+            "绕过",
+            "持续伤害"
         ],
         "source": "S1-经典",
         "Release date": "2024-12-25",
@@ -29275,7 +34067,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/r8eT1gi.jpg",
         "costume_id": 3,
-        "originalIndex": 885
+        "originalIndex": 886
     },
     {
         "name": "科内尔 (Kornel)",
@@ -29289,6 +34081,10 @@ window.allHeroes =
             "攻击增益",
             "防御降低",
             "蓄力"
+        ],
+        "skill_types": [
+            "攻击增益",
+            "防御减益"
         ],
         "source": "高塔-魔法",
         "Release date": "2021-09-15",
@@ -29310,7 +34106,7 @@ window.allHeroes =
         "family": "magic",
         "image": "https://i.imgur.com/mQovZC2.jpg",
         "costume_id": 0,
-        "originalIndex": 886
+        "originalIndex": 887
     },
     {
         "name": "李 (Li)",
@@ -29323,6 +34119,11 @@ window.allHeroes =
         "types": [
             "攻击所有目标",
             "召唤者"
+        ],
+        "skill_types": [
+            "全体攻击 (打5)",
+            "持续伤害",
+            "召唤小兵"
         ],
         "source": "三国召唤",
         "Release date": "2022-03-14T12:00:00",
@@ -29340,7 +34141,7 @@ window.allHeroes =
         "family": "kingdom",
         "image": "https://i.imgur.com/6qcUvA0.jpg",
         "costume_id": 0,
-        "originalIndex": 887
+        "originalIndex": 888
     },
     {
         "name": "刘唐 (Liu Tang)",
@@ -29353,6 +34154,10 @@ window.allHeroes =
         "types": [
             "暴击几率",
             "攻击3个目标",
+            "嘲讽"
+        ],
+        "skill_types": [
+            "范围攻击 (打3)",
             "嘲讽"
         ],
         "source": "三国召唤",
@@ -29378,7 +34183,7 @@ window.allHeroes =
         "family": "outlaws",
         "image": "https://imgur.com/7kDzUpm.jpg",
         "costume_id": 0,
-        "originalIndex": 888
+        "originalIndex": 889
     },
     {
         "name": "生剥鬼 (Namahage)",
@@ -29391,6 +34196,10 @@ window.allHeroes =
         "types": [
             "攻击单个目标",
             "单体攻击增益"
+        ],
+        "skill_types": [
+            "攻击增益",
+            "狙击手"
         ],
         "source": "S2-亚特兰蒂斯",
         "Release date": "2019-08-01",
@@ -29407,7 +34216,7 @@ window.allHeroes =
         "family": "sakura",
         "image": "https://i.imgur.com/7ovDLzi.jpg",
         "costume_id": 0,
-        "originalIndex": 889
+        "originalIndex": 890
     },
     {
         "name": "纳什加 (Nashgar)",
@@ -29420,6 +34229,10 @@ window.allHeroes =
         "types": [
             "攻击单个目标",
             "单体持续伤害"
+        ],
+        "skill_types": [
+            "持续伤害",
+            "狙击手"
         ],
         "source": "S1-经典",
         "Release date": "2017-01-01",
@@ -29436,7 +34249,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/DrsAnEe.jpg",
         "costume_id": 0,
-        "originalIndex": 890
+        "originalIndex": 891
     },
     {
         "name": "纳什加 (Nashgar) C1",
@@ -29449,6 +34262,10 @@ window.allHeroes =
         "types": [
             "攻击单个目标",
             "单体持续伤害"
+        ],
+        "skill_types": [
+            "持续伤害",
+            "狙击手"
         ],
         "source": "S1-经典",
         "Release date": "2021-01-18",
@@ -29465,7 +34282,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/DZd6oKm.jpg",
         "costume_id": 1,
-        "originalIndex": 891
+        "originalIndex": 892
     },
     {
         "name": "纳什加 (Nashgar) 卡通",
@@ -29478,6 +34295,11 @@ window.allHeroes =
         "types": [
             "攻击单个目标",
             "单体持续伤害"
+        ],
+        "skill_types": [
+            "持续伤害",
+            "狙击手",
+            "额外伤害"
         ],
         "source": "S1-经典",
         "Release date": "2024-05-31",
@@ -29497,7 +34319,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/SWdSWFa.jpg",
         "costume_id": 2,
-        "originalIndex": 892
+        "originalIndex": 893
     },
     {
         "name": "菲尼克斯 (Phoenicus)",
@@ -29508,6 +34330,10 @@ window.allHeroes =
         "speed": "快速",
         "skill": "宝贵贡献",
         "types": [
+            "攻击增益",
+            "法力生成增益"
+        ],
+        "skill_types": [
             "攻击增益",
             "法力生成增益"
         ],
@@ -29526,7 +34352,7 @@ window.allHeroes =
         "family": "wonderland",
         "image": "https://i.imgur.com/zBoeoLf.jpg",
         "costume_id": 0,
-        "originalIndex": 893
+        "originalIndex": 894
     },
     {
         "name": "小玫瑰 (Rosepetite)",
@@ -29539,6 +34365,13 @@ window.allHeroes =
         "types": [
             "攻击3个目标",
             "3个目标持续伤害"
+        ],
+        "skill_types": [
+            "范围攻击 (打3)",
+            "持续伤害",
+            "额外伤害",
+            "闪避",
+            "反制小兵"
         ],
         "source": "联盟-飞蛾",
         "Release date": "2025-01-23",
@@ -29557,7 +34390,7 @@ window.allHeroes =
         "family": "moth",
         "image": "https://i.imgur.com/1hAn4iO.jpg",
         "costume_id": 0,
-        "originalIndex": 894
+        "originalIndex": 895
     },
     {
         "name": "鲁道夫 (Rudolph)",
@@ -29571,6 +34404,11 @@ window.allHeroes =
             "攻击单个目标",
             "法力削减",
             "召唤者"
+        ],
+        "skill_types": [
+            "法力削减或格挡",
+            "召唤小兵",
+            "狙击手"
         ],
         "source": "月活动-冬日",
         "Release date": "2017-01-01",
@@ -29588,7 +34426,7 @@ window.allHeroes =
         "family": "christmas",
         "image": "https://i.imgur.com/mEYb8Ac.jpg",
         "costume_id": 0,
-        "originalIndex": 895
+        "originalIndex": 896
     },
     {
         "name": "鲁弗斯 (Rufus)",
@@ -29602,6 +34440,11 @@ window.allHeroes =
             "攻击所有目标",
             "全体持续伤害",
             "防御降低"
+        ],
+        "skill_types": [
+            "全体攻击 (打5)",
+            "防御减益",
+            "持续伤害"
         ],
         "source": "联盟-超能萌宠",
         "Release date": "2022-11-03",
@@ -29622,7 +34465,7 @@ window.allHeroes =
         "family": "pets",
         "image": "https://i.imgur.com/nTxGQkg.jpg",
         "costume_id": 0,
-        "originalIndex": 896
+        "originalIndex": 897
     },
     {
         "name": "斯克里克 (Skrekok)",
@@ -29634,6 +34477,10 @@ window.allHeroes =
         "skill": "疯鼠狂热",
         "types": [
             "攻击3个目标",
+            "攻击增益"
+        ],
+        "skill_types": [
+            "范围攻击 (打3)",
             "攻击增益"
         ],
         "source": "挑战节-恶棍",
@@ -29651,7 +34498,7 @@ window.allHeroes =
         "family": "villains",
         "image": "https://i.imgur.com/e258l3c.jpg",
         "costume_id": 0,
-        "originalIndex": 897
+        "originalIndex": 898
     },
     {
         "name": "兔子随从 (Squire Wabbit)",
@@ -29663,6 +34510,10 @@ window.allHeroes =
         "skill": "莽夫刺",
         "types": [
             "攻击单个目标"
+        ],
+        "skill_types": [
+            "对自身或友军负面效果",
+            "狙击手"
         ],
         "source": "月活动-春谷",
         "Release date": "2017-01-01",
@@ -29679,7 +34530,7 @@ window.allHeroes =
         "family": "springvale",
         "image": "https://i.imgur.com/545SVXP.jpg",
         "costume_id": 0,
-        "originalIndex": 898
+        "originalIndex": 899
     },
     {
         "name": "星闪 (Starswift)",
@@ -29692,6 +34543,11 @@ window.allHeroes =
         "types": [
             "攻击3个目标",
             "3个目标法力生成增益"
+        ],
+        "skill_types": [
+            "范围攻击 (打3)",
+            "法力生成增益",
+            "伤害分摊"
         ],
         "source": "星体召唤",
         "Release date": "2024-03-07",
@@ -29712,7 +34568,7 @@ window.allHeroes =
         "family": "astralelves",
         "image": "https://i.imgur.com/M18GizO.jpg",
         "costume_id": 0,
-        "originalIndex": 899
+        "originalIndex": 900
     },
     {
         "name": "苏德里 (Sudri)",
@@ -29724,6 +34580,10 @@ window.allHeroes =
         "skill": "炙热护盾",
         "types": [
             "攻击所有目标"
+        ],
+        "skill_types": [
+            "全体攻击 (打5)",
+            "额外伤害"
         ],
         "source": "S3-瓦尔哈拉",
         "Release date": "2020-05-28",
@@ -29740,7 +34600,7 @@ window.allHeroes =
         "family": "muspelheim",
         "image": "https://i.imgur.com/kbwg0o2.jpg",
         "costume_id": 0,
-        "originalIndex": 900
+        "originalIndex": 901
     },
     {
         "name": "沃勒莫克 (Vollermork)",
@@ -29752,6 +34612,10 @@ window.allHeroes =
         "skill": "长尾蠕虫",
         "types": [
             "召唤所有恶魔"
+        ],
+        "skill_types": [
+            "召唤恶魔",
+            "持续伤害"
         ],
         "source": "S4-蛮荒地界",
         "Release date": "2021-03-25",
@@ -29770,7 +34634,7 @@ window.allHeroes =
         "family": "underwild",
         "image": "https://i.imgur.com/mAw3KL3.jpg",
         "costume_id": 0,
-        "originalIndex": 901
+        "originalIndex": 902
     },
     {
         "name": "沃勒莫克 (Vollermork) C1",
@@ -29782,6 +34646,10 @@ window.allHeroes =
         "skill": "吸血水蛭",
         "types": [
             "召唤所有恶魔"
+        ],
+        "skill_types": [
+            "召唤恶魔",
+            "持续伤害"
         ],
         "source": "S4-蛮荒地界",
         "Release date": "2024-04-25",
@@ -29800,7 +34668,7 @@ window.allHeroes =
         "family": "underwild",
         "image": "https://i.imgur.com/RK5dZz5.jpg",
         "costume_id": 1,
-        "originalIndex": 902
+        "originalIndex": 903
     },
     {
         "name": "瓦卡斯 (Waqas)",
@@ -29813,6 +34681,10 @@ window.allHeroes =
         "types": [
             "攻击所有目标",
             "全体最大生命值持续降低"
+        ],
+        "skill_types": [
+            "全体攻击 (打5)",
+            "最大生命削减"
         ],
         "source": "S5-沙丘",
         "Release date": "2022-04-21",
@@ -29833,7 +34705,7 @@ window.allHeroes =
         "family": "sun",
         "image": "https://i.imgur.com/CWQ9rw6.jpg",
         "costume_id": 0,
-        "originalIndex": 903
+        "originalIndex": 904
     },
     {
         "name": "瓦卡斯 (Waqas) C1",
@@ -29846,6 +34718,10 @@ window.allHeroes =
         "types": [
             "攻击所有目标",
             "全体最大生命值持续降低"
+        ],
+        "skill_types": [
+            "全体攻击 (打5)",
+            "最大生命削减"
         ],
         "source": "S5-沙丘",
         "Release date": "2025-04-14",
@@ -29868,7 +34744,7 @@ window.allHeroes =
         "family": "sun",
         "image": "https://imgur.com/W7OyLyj.jpg",
         "costume_id": 1,
-        "originalIndex": 904
+        "originalIndex": 905
     },
     {
         "name": "奥丹 (Aodhan)",
@@ -29882,6 +34758,15 @@ window.allHeroes =
             "攻击所有目标",
             "召唤所有恶魔",
             "叠加"
+        ],
+        "skill_types": [
+            "全体攻击 (打5)",
+            "召唤恶魔",
+            "特殊治疗",
+            "叠加",
+            "持续伤害",
+            "法力生成增益",
+            "持续治疗"
         ],
         "source": "挑战节-杀手",
         "Release date": "2021-08-05",
@@ -29903,7 +34788,7 @@ window.allHeroes =
         "family": "slayer",
         "image": "https://i.imgur.com/81JNp9d.jpg",
         "costume_id": 0,
-        "originalIndex": 905
+        "originalIndex": 906
     },
     {
         "name": "猛牙 (Boldtusk)",
@@ -29916,6 +34801,10 @@ window.allHeroes =
         "types": [
             "全体治疗",
             "全体攻击增益"
+        ],
+        "skill_types": [
+            "攻击增益",
+            "治疗"
         ],
         "source": "S1-经典",
         "Release date": "2017-01-01",
@@ -29932,7 +34821,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/K7cfOtS.jpg",
         "costume_id": 0,
-        "originalIndex": 906
+        "originalIndex": 907
     },
     {
         "name": "猛牙 (Boldtusk) C1",
@@ -29945,6 +34834,10 @@ window.allHeroes =
         "types": [
             "全体治疗",
             "全体攻击增益"
+        ],
+        "skill_types": [
+            "攻击增益",
+            "治疗"
         ],
         "source": "S1-经典",
         "Release date": "2020-01-01",
@@ -29961,7 +34854,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/ZFrdT4t.jpg",
         "costume_id": 1,
-        "originalIndex": 907
+        "originalIndex": 908
     },
     {
         "name": "猛牙 (Boldtusk) C2",
@@ -29974,6 +34867,11 @@ window.allHeroes =
         "types": [
             "全体强化持续治疗",
             "全体攻击增益"
+        ],
+        "skill_types": [
+            "攻击增益",
+            "持续治疗",
+            "生命强化"
         ],
         "source": "S1-经典",
         "Release date": "2023-06-12",
@@ -29990,7 +34888,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/T4p2FAB.jpg",
         "costume_id": 2,
-        "originalIndex": 908
+        "originalIndex": 909
     },
     {
         "name": "猛牙 (Boldtusk) 卡通",
@@ -30003,6 +34901,10 @@ window.allHeroes =
         "types": [
             "全体治疗",
             "全体攻击增益"
+        ],
+        "skill_types": [
+            "攻击增益",
+            "治疗"
         ],
         "source": "S1-经典",
         "Release date": "2023-12-25",
@@ -30021,7 +34923,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/ufJrKaD.jpg",
         "costume_id": 3,
-        "originalIndex": 909
+        "originalIndex": 910
     },
     {
         "name": "猛牙 (Boldtusk) 玻璃",
@@ -30036,6 +34938,11 @@ window.allHeroes =
             "全体攻击增益",
             "火焰盟友反射状态异常",
             "火焰盟友反射叠加效果"
+        ],
+        "skill_types": [
+            "攻击增益",
+            "治疗",
+            "反射"
         ],
         "source": "S1-经典",
         "Release date": "2024-12-24",
@@ -30055,7 +34962,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/lVwUo5n.jpg",
         "costume_id": 4,
-        "originalIndex": 910
+        "originalIndex": 911
     },
     {
         "name": "卡罗尔 (Carol)",
@@ -30069,6 +34976,11 @@ window.allHeroes =
             "法力削减",
             "召唤者 (单体)",
             "炸弹"
+        ],
+        "skill_types": [
+            "范围攻击 (打3)",
+            "法力削减或格挡",
+            "召唤小兵"
         ],
         "source": "月活动-冬日",
         "Release date": "2020-12-01",
@@ -30086,7 +34998,7 @@ window.allHeroes =
         "family": "christmas",
         "image": "https://i.imgur.com/rj2dz3k.jpg",
         "costume_id": 0,
-        "originalIndex": 911
+        "originalIndex": 912
     },
     {
         "name": "希里安 (Cillian)",
@@ -30100,6 +35012,14 @@ window.allHeroes =
             "攻击3个目标",
             "复活",
             "叠加"
+        ],
+        "skill_types": [
+            "范围攻击 (打3)",
+            "特殊治疗",
+            "复活",
+            "叠加",
+            "法力生成增益",
+            "持续治疗"
         ],
         "source": "挑战节-杀手",
         "Release date": "2021-08-05",
@@ -30120,7 +35040,7 @@ window.allHeroes =
         "family": "slayer",
         "image": "https://i.imgur.com/ema4TPc.jpg",
         "costume_id": 0,
-        "originalIndex": 912
+        "originalIndex": 913
     },
     {
         "name": "科伦 (Colen)",
@@ -30133,6 +35053,10 @@ window.allHeroes =
         "types": [
             "攻击所有目标",
             "全体持续伤害"
+        ],
+        "skill_types": [
+            "全体攻击 (打5)",
+            "持续伤害"
         ],
         "source": "S1-经典",
         "Release date": "2017-01-01",
@@ -30149,7 +35073,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/eqgOQXS.jpg",
         "costume_id": 0,
-        "originalIndex": 913
+        "originalIndex": 914
     },
     {
         "name": "科伦 (Colen) C1",
@@ -30162,6 +35086,10 @@ window.allHeroes =
         "types": [
             "攻击所有目标",
             "全体持续伤害"
+        ],
+        "skill_types": [
+            "全体攻击 (打5)",
+            "持续伤害"
         ],
         "source": "S1-经典",
         "Release date": "2021-01-18",
@@ -30178,7 +35106,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/pAWbbb8.jpg",
         "costume_id": 1,
-        "originalIndex": 914
+        "originalIndex": 915
     },
     {
         "name": "科伦 (Colen) C2",
@@ -30191,6 +35119,11 @@ window.allHeroes =
         "types": [
             "攻击3个目标",
             "3个目标元素防御降低"
+        ],
+        "skill_types": [
+            "范围攻击 (打3)",
+            "防御减益",
+            "额外伤害"
         ],
         "source": "S1-经典",
         "Release date": "2023-06-12",
@@ -30208,7 +35141,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/2DIxTGe.jpg",
         "costume_id": 2,
-        "originalIndex": 915
+        "originalIndex": 916
     },
     {
         "name": "科伦 (Colen) 卡通",
@@ -30221,6 +35154,11 @@ window.allHeroes =
         "types": [
             "攻击所有目标",
             "全体持续伤害"
+        ],
+        "skill_types": [
+            "全体攻击 (打5)",
+            "持续伤害",
+            "额外伤害"
         ],
         "source": "S1-经典",
         "Release date": "2024-03-11",
@@ -30240,7 +35178,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/swTTE4N.jpg",
         "costume_id": 3,
-        "originalIndex": 916
+        "originalIndex": 917
     },
     {
         "name": "科伦 (Colen) 玻璃",
@@ -30254,6 +35192,11 @@ window.allHeroes =
             "攻击所有目标",
             "无视防御",
             "全体持续伤害"
+        ],
+        "skill_types": [
+            "全体攻击 (打5)",
+            "绕过",
+            "持续伤害"
         ],
         "source": "S1-经典",
         "Release date": "2025-04-08",
@@ -30273,7 +35216,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://imgur.com/7dLF49j.jpg",
         "costume_id": 4,
-        "originalIndex": 917
+        "originalIndex": 918
     },
     {
         "name": "艾希贝尔伯格 (Eichbelborg)",
@@ -30286,6 +35229,10 @@ window.allHeroes =
         "types": [
             "攻击单个目标",
             "防御降低"
+        ],
+        "skill_types": [
+            "防御减益",
+            "狙击手"
         ],
         "source": "挑战节-星落",
         "Release date": "2021-06-10",
@@ -30302,7 +35249,7 @@ window.allHeroes =
         "family": "starfall",
         "image": "https://i.imgur.com/B0oW04d.jpg",
         "costume_id": 0,
-        "originalIndex": 918
+        "originalIndex": 919
     },
     {
         "name": "费朗特 (Ferant)",
@@ -30314,6 +35261,10 @@ window.allHeroes =
         "skill": "野蛮复仇",
         "types": [
             "反击"
+        ],
+        "skill_types": [
+            "反击",
+            "法力削减或格挡"
         ],
         "source": "联盟-骑士冲击",
         "Release date": "2021-10-13",
@@ -30330,7 +35281,7 @@ window.allHeroes =
         "family": "wolf",
         "image": "https://i.imgur.com/iJhZeCK.jpg",
         "costume_id": 0,
-        "originalIndex": 919
+        "originalIndex": 920
     },
     {
         "name": "费朗特 (Ferant) C1",
@@ -30342,6 +35293,10 @@ window.allHeroes =
         "skill": "火爆复仇",
         "types": [
             "反击"
+        ],
+        "skill_types": [
+            "反击",
+            "法力削减或格挡"
         ],
         "source": "联盟-骑士冲击",
         "Release date": "2024-12-17",
@@ -30362,7 +35317,7 @@ window.allHeroes =
         "family": "wolf",
         "image": "https://i.imgur.com/f9WxEPE.jpg",
         "costume_id": 1,
-        "originalIndex": 920
+        "originalIndex": 921
     },
     {
         "name": "戈莫克 (Gormek)",
@@ -30375,6 +35330,10 @@ window.allHeroes =
         "types": [
             "攻击3个目标",
             "3个目标防御降低"
+        ],
+        "skill_types": [
+            "范围攻击 (打3)",
+            "防御减益"
         ],
         "source": "S1-经典",
         "Release date": "2017-01-01",
@@ -30391,7 +35350,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/A5zsfun.jpg",
         "costume_id": 0,
-        "originalIndex": 921
+        "originalIndex": 922
     },
     {
         "name": "戈莫克 (Gormek) C1",
@@ -30404,6 +35363,11 @@ window.allHeroes =
         "types": [
             "摧毁所有小兵",
             "攻击所有目标"
+        ],
+        "skill_types": [
+            "全体攻击 (打5)",
+            "特殊治疗",
+            "反制小兵"
         ],
         "source": "S1-经典",
         "Release date": "2021-01-18",
@@ -30421,7 +35385,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/OxaIMH8.jpg",
         "costume_id": 1,
-        "originalIndex": 922
+        "originalIndex": 923
     },
     {
         "name": "戈莫克 (Gormek) C2",
@@ -30434,6 +35398,10 @@ window.allHeroes =
         "types": [
             "全体驱散",
             "攻击所有目标"
+        ],
+        "skill_types": [
+            "全体攻击 (打5)",
+            "驱散"
         ],
         "source": "S1-经典",
         "Release date": "2023-04-17",
@@ -30450,7 +35418,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/6XbZQ2N.jpg",
         "costume_id": 2,
-        "originalIndex": 923
+        "originalIndex": 924
     },
     {
         "name": "戈莫克 (Gormek) 卡通",
@@ -30463,6 +35431,11 @@ window.allHeroes =
         "types": [
             "攻击3个目标",
             "3个目标防御降低"
+        ],
+        "skill_types": [
+            "范围攻击 (打3)",
+            "防御减益",
+            "额外伤害"
         ],
         "source": "S1-经典",
         "Release date": "2024-05-06",
@@ -30482,7 +35455,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/WFeaXms.jpg",
         "costume_id": 3,
-        "originalIndex": 924
+        "originalIndex": 925
     },
     {
         "name": "戈莫克 (Gormek) 玻璃",
@@ -30496,6 +35469,11 @@ window.allHeroes =
             "攻击3个目标",
             "无视防御",
             "3个目标防御降低"
+        ],
+        "skill_types": [
+            "范围攻击 (打3)",
+            "绕过",
+            "防御减益"
         ],
         "source": "S1-经典",
         "Release date": "2025-05-10",
@@ -30515,7 +35493,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://imgur.com/k3y9GLJ.jpg",
         "costume_id": 4,
-        "originalIndex": 925
+        "originalIndex": 926
     },
     {
         "name": "飞鹰守护者 (Guardian Falcon)",
@@ -30528,6 +35506,10 @@ window.allHeroes =
         "types": [
             "攻击3个目标",
             "元素防御降低"
+        ],
+        "skill_types": [
+            "范围攻击 (打3)",
+            "防御减益"
         ],
         "source": "挑战节-守护者",
         "Release date": "2017-01-01",
@@ -30544,7 +35526,7 @@ window.allHeroes =
         "family": "guardiansteltoc",
         "image": "https://i.imgur.com/osWU4RP.jpg",
         "costume_id": 0,
-        "originalIndex": 926
+        "originalIndex": 927
     },
     {
         "name": "伊潭 (Itham)",
@@ -30557,6 +35539,11 @@ window.allHeroes =
         "types": [
             "攻击3个目标",
             "增益免疫"
+        ],
+        "skill_types": [
+            "范围攻击 (打3)",
+            "增益格挡者",
+            "提供免疫"
         ],
         "source": "月活动-海滩派对",
         "Release date": "2023-06-12",
@@ -30571,13 +35558,13 @@ window.allHeroes =
             "施法者和附近盟友均可抵抗禁用特殊技能的效果，持续 3 回合。"
         ],
         "passives": [
-            "特殊技能附带持续伤害：当该角色施放其特殊技能时，所有敌人会在 160 回合内受到 2 点水系伤害。",
+            "特殊技能附带持续伤害：当该角色施放其特殊技能时，所有敌人会在 2 回合内受到 160 点水系伤害。",
             "抵抗水系伤害：该角色天生对水系伤害有抵抗能力。"
         ],
         "family": "beachparty",
         "image": "https://i.imgur.com/7w0kLrp.jpg",
         "costume_id": 0,
-        "originalIndex": 927
+        "originalIndex": 928
     },
     {
         "name": "约纳德 (Junaid)",
@@ -30590,6 +35577,10 @@ window.allHeroes =
         "types": [
             "攻击单个目标",
             "伤害治疗"
+        ],
+        "skill_types": [
+            "特殊治疗",
+            "狙击手"
         ],
         "source": "S5-沙丘",
         "Release date": "2022-04-21",
@@ -30610,7 +35601,7 @@ window.allHeroes =
         "family": "moon",
         "image": "https://i.imgur.com/9XxU54s.jpg",
         "costume_id": 0,
-        "originalIndex": 928
+        "originalIndex": 929
     },
     {
         "name": "约纳德 (Junaid) C1",
@@ -30623,6 +35614,10 @@ window.allHeroes =
         "types": [
             "攻击单个目标",
             "伤害治疗"
+        ],
+        "skill_types": [
+            "狙击手",
+            "特殊治疗"
         ],
         "source": "S5-沙丘",
         "Release date": "2024-11-01",
@@ -30645,7 +35640,7 @@ window.allHeroes =
         "family": "moon",
         "image": "https://i.imgur.com/4PhQKkZ.jpg",
         "costume_id": 1,
-        "originalIndex": 929
+        "originalIndex": 930
     },
     {
         "name": "卡莉莱 (Kelile)",
@@ -30658,6 +35653,10 @@ window.allHeroes =
         "types": [
             "攻击单个目标",
             "单体持续伤害"
+        ],
+        "skill_types": [
+            "持续伤害",
+            "狙击手"
         ],
         "source": "S1-经典",
         "Release date": "2017-01-01",
@@ -30674,7 +35673,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/g0FkZzQ.jpg",
         "costume_id": 0,
-        "originalIndex": 930
+        "originalIndex": 931
     },
     {
         "name": "卡莉莱 (Kelile) C1",
@@ -30686,6 +35685,9 @@ window.allHeroes =
         "skill": "引燃之舞",
         "types": [
             "全体持续伤害"
+        ],
+        "skill_types": [
+            "持续伤害"
         ],
         "source": "S1-经典",
         "Release date": "2021-01-18",
@@ -30701,7 +35703,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/EFoCGqV.jpg",
         "costume_id": 1,
-        "originalIndex": 931
+        "originalIndex": 932
     },
     {
         "name": "卡莉莱 (Kelile) C2",
@@ -30714,6 +35716,11 @@ window.allHeroes =
         "types": [
             "攻击3个目标",
             "3个目标持续伤害"
+        ],
+        "skill_types": [
+            "范围攻击 (打3)",
+            "持续伤害",
+            "特殊治疗"
         ],
         "source": "S1-经典",
         "Release date": "2022-09-05",
@@ -30730,7 +35737,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/46HnfAG.jpg",
         "costume_id": 2,
-        "originalIndex": 932
+        "originalIndex": 933
     },
     {
         "name": "卡莉莱 (Kelile) 卡通",
@@ -30743,6 +35750,11 @@ window.allHeroes =
         "types": [
             "攻击单个目标",
             "单体持续伤害"
+        ],
+        "skill_types": [
+            "持续伤害",
+            "狙击手",
+            "额外伤害"
         ],
         "source": "S1-经典",
         "Release date": "2024-04-08",
@@ -30762,7 +35774,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/nj44opt.jpg",
         "costume_id": 3,
-        "originalIndex": 933
+        "originalIndex": 934
     },
     {
         "name": "卡莉莱 (Kelile) 玻璃",
@@ -30776,6 +35788,11 @@ window.allHeroes =
             "攻击单个目标",
             "无视防御",
             "单体持续伤害"
+        ],
+        "skill_types": [
+            "绕过",
+            "持续伤害",
+            "狙击手"
         ],
         "source": "S1-经典",
         "Release date": "2025-04-23",
@@ -30795,7 +35812,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://imgur.com/yqIwVAP.jpg",
         "costume_id": 4,
-        "originalIndex": 934
+        "originalIndex": 935
     },
     {
         "name": "勒明盖宁 (Lemminkainen)",
@@ -30808,6 +35825,10 @@ window.allHeroes =
         "types": [
             "攻击3个目标",
             "3个目标持续伤害"
+        ],
+        "skill_types": [
+            "范围攻击 (打3)",
+            "持续伤害"
         ],
         "source": "月活动-卡勒瓦拉",
         "Release date": "2022-06-20",
@@ -30826,7 +35847,7 @@ window.allHeroes =
         "family": "kalevala",
         "image": "https://i.imgur.com/f4cHfqp.jpg",
         "costume_id": 0,
-        "originalIndex": 935
+        "originalIndex": 936
     },
     {
         "name": "露西 (Lucy)",
@@ -30839,6 +35860,14 @@ window.allHeroes =
         "types": [
             "攻击单个目标",
             "法力生成"
+        ],
+        "skill_types": [
+            "法力生成增益",
+            "法力削减或格挡",
+            "狙击手",
+            "全体攻击 (打5)",
+            "叠加",
+            "治疗"
         ],
         "source": "高塔-魔法",
         "Release date": "2023-05-03",
@@ -30863,7 +35892,7 @@ window.allHeroes =
         "family": "magic",
         "image": "https://i.imgur.com/j3M4iy4.jpg",
         "costume_id": 0,
-        "originalIndex": 936
+        "originalIndex": 937
     },
     {
         "name": "马克 (Mack)",
@@ -30876,6 +35905,10 @@ window.allHeroes =
         "types": [
             "反击",
             "攻击增益"
+        ],
+        "skill_types": [
+            "攻击增益",
+            "反击"
         ],
         "source": "S4-蛮荒地界",
         "Release date": "2021-03-25",
@@ -30894,7 +35927,7 @@ window.allHeroes =
         "family": "underwild",
         "image": "https://i.imgur.com/nafpwvj.jpg",
         "costume_id": 0,
-        "originalIndex": 937
+        "originalIndex": 938
     },
     {
         "name": "马克 (Mack) C1",
@@ -30905,6 +35938,10 @@ window.allHeroes =
         "speed": "中等",
         "skill": "半身人的智慧",
         "types": [
+            "反击",
+            "攻击增益"
+        ],
+        "skill_types": [
             "反击",
             "攻击增益"
         ],
@@ -30925,7 +35962,7 @@ window.allHeroes =
         "family": "underwild",
         "image": "https://i.imgur.com/piqOqpg.jpg",
         "costume_id": 1,
-        "originalIndex": 938
+        "originalIndex": 939
     },
     {
         "name": "玛黑根 (Maheegan)",
@@ -30938,6 +35975,11 @@ window.allHeroes =
         "types": [
             "攻击3个目标",
             "召唤3个恶魔"
+        ],
+        "skill_types": [
+            "范围攻击 (打3)",
+            "持续伤害",
+            "召唤恶魔"
         ],
         "source": "盟约召唤",
         "Release date": "2022-08-25",
@@ -30952,13 +35994,13 @@ window.allHeroes =
             "刺骨陷阱恶魔会吸收治疗，当吸收的治疗量达到其所有者最大生命值的 35% 时，它便会消失。"
         ],
         "passives": [
-            "特殊技能附带持续伤害：当该角色施放其特殊技能时，会给一个随机敌人施加猎人印记。目标在 150 回合内受到 3 点伤害。如果目标已有此效果，则持续时间刷新，伤害增加 150 点，总伤害最高可达 1500 点。",
+            "特殊技能附带持续伤害：当该角色施放其特殊技能时，会给一个随机敌人施加猎人印记。目标在 3 回合内受到 150 点伤害。如果目标已有此效果，则持续时间刷新，伤害增加 150 点，总伤害最高可达 1500 点。",
             "特殊技能伤害减免：该角色有 10% 的几率将受到的特殊技能直接伤害降至 1 点。"
         ],
         "family": "plainshunter",
         "image": "https://i.imgur.com/c554xVo.jpg",
         "costume_id": 0,
-        "originalIndex": 939
+        "originalIndex": 940
     },
     {
         "name": "曼皮普 (Manpip)",
@@ -30972,6 +36014,12 @@ window.allHeroes =
             "攻击3个目标",
             "3个目标持续伤害",
             "替换3个目标的增益"
+        ],
+        "skill_types": [
+            "范围攻击 (打3)",
+            "持续伤害",
+            "状态效果格挡",
+            "状态效果转换"
         ],
         "source": "高塔-魔法",
         "Release date": "2025-04-17",
@@ -30995,7 +36043,7 @@ window.allHeroes =
         "family": "magiccarpet",
         "image": "https://imgur.com/xf2xQFV.jpg",
         "costume_id": 0,
-        "originalIndex": 940
+        "originalIndex": 941
     },
     {
         "name": "诺娃 (Nova)",
@@ -31009,6 +36057,11 @@ window.allHeroes =
             "全体治疗",
             "火元素治疗",
             "净化者"
+        ],
+        "skill_types": [
+            "净化",
+            "治疗",
+            "特殊治疗"
         ],
         "source": "超级元素人",
         "Release date": "2023-10-09",
@@ -31032,7 +36085,7 @@ window.allHeroes =
         "family": "superelemental",
         "image": "https://i.imgur.com/bsearKJ.jpg",
         "costume_id": 0,
-        "originalIndex": 941
+        "originalIndex": 942
     },
     {
         "name": "拉乌尔 (Raul)",
@@ -31048,6 +36101,16 @@ window.allHeroes =
             "法力生成降低",
             "治疗降低",
             "状态效果免疫"
+        ],
+        "skill_types": [
+            "范围攻击 (打3)",
+            "净化",
+            "增益格挡者",
+            "舞者",
+            "驱散",
+            "治疗削减",
+            "法力削减或格挡",
+            "提供免疫"
         ],
         "source": "至日召唤",
         "Release date": "2023-11-30",
@@ -31072,7 +36135,7 @@ window.allHeroes =
         "family": "opera",
         "image": "https://i.imgur.com/QmSXHcR.jpg",
         "costume_id": 0,
-        "originalIndex": 942
+        "originalIndex": 943
     },
     {
         "name": "洛卡莫什 (Rokkamush)",
@@ -31085,6 +36148,11 @@ window.allHeroes =
         "types": [
             "攻击所有目标",
             "全体持续伤害"
+        ],
+        "skill_types": [
+            "全体攻击 (打5)",
+            "持续伤害",
+            "对自身或友军负面效果"
         ],
         "source": "S4-蛮荒地界",
         "Release date": "2021-03-25",
@@ -31103,7 +36171,7 @@ window.allHeroes =
         "family": "underwild",
         "image": "https://i.imgur.com/dOWSQgd.jpg",
         "costume_id": 0,
-        "originalIndex": 943
+        "originalIndex": 944
     },
     {
         "name": "洛卡莫什 (Rokkamush) C1",
@@ -31116,6 +36184,11 @@ window.allHeroes =
         "types": [
             "攻击所有目标",
             "全体持续伤害"
+        ],
+        "skill_types": [
+            "全体攻击 (打5)",
+            "持续伤害",
+            "对自身或友军负面效果"
         ],
         "source": "S4-蛮荒地界",
         "Release date": "2024-04-25",
@@ -31134,7 +36207,7 @@ window.allHeroes =
         "family": "underwild",
         "image": "https://i.imgur.com/AXlFl5t.jpg",
         "costume_id": 1,
-        "originalIndex": 944
+        "originalIndex": 945
     },
     {
         "name": "斯嘉丽 (Scarlett)",
@@ -31147,6 +36220,10 @@ window.allHeroes =
         "types": [
             "攻击3个目标",
             "3个目标攻击降低"
+        ],
+        "skill_types": [
+            "范围攻击 (打3)",
+            "攻击减益"
         ],
         "source": "S1-经典",
         "Release date": "2017-01-01",
@@ -31163,7 +36240,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/rridBLP.jpg",
         "costume_id": 0,
-        "originalIndex": 945
+        "originalIndex": 946
     },
     {
         "name": "斯嘉丽 (Scarlett) C1",
@@ -31177,6 +36254,11 @@ window.allHeroes =
             "攻击3个目标",
             "3个目标持续伤害",
             "3个目标攻击增益"
+        ],
+        "skill_types": [
+            "攻击增益",
+            "持续伤害",
+            "范围攻击 (打3)"
         ],
         "source": "S1-经典",
         "Release date": "2021-01-18",
@@ -31194,7 +36276,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/t5Qcm7v.jpg",
         "costume_id": 1,
-        "originalIndex": 946
+        "originalIndex": 947
     },
     {
         "name": "斯嘉丽 (Scarlett) C2",
@@ -31207,6 +36289,11 @@ window.allHeroes =
         "types": [
             "攻击3个目标",
             "3个目标攻击降低"
+        ],
+        "skill_types": [
+            "范围攻击 (打3)",
+            "攻击减益",
+            "叠加"
         ],
         "source": "S1-经典",
         "Release date": "2023-10-30",
@@ -31223,7 +36310,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/Zxh18lV.jpg",
         "costume_id": 2,
-        "originalIndex": 947
+        "originalIndex": 948
     },
     {
         "name": "斯嘉丽 (Scarlett) 卡通",
@@ -31236,6 +36323,11 @@ window.allHeroes =
         "types": [
             "攻击3个目标",
             "攻击降低"
+        ],
+        "skill_types": [
+            "范围攻击 (打3)",
+            "攻击减益",
+            "额外伤害"
         ],
         "source": "S1-经典",
         "Release date": "2024-08-11",
@@ -31255,7 +36347,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/uv68SUQ.jpg",
         "costume_id": 3,
-        "originalIndex": 948
+        "originalIndex": 949
     },
     {
         "name": "沙德里夫 (Shadereave)",
@@ -31268,6 +36360,10 @@ window.allHeroes =
         "types": [
             "攻击与暴击增益",
             "僵尸增益"
+        ],
+        "skill_types": [
+            "攻击增益",
+            "复活"
         ],
         "source": "S3-瓦尔哈拉",
         "Release date": "2020-05-28",
@@ -31289,7 +36385,7 @@ window.allHeroes =
         "family": "helheim",
         "image": "https://i.imgur.com/t4qsaZf.jpg",
         "costume_id": 0,
-        "originalIndex": 949
+        "originalIndex": 950
     },
     {
         "name": "页岩 (Shale)",
@@ -31303,6 +36399,10 @@ window.allHeroes =
             "蓄力",
             "持续治疗 (自我/3个目标/全体)",
             "净化 (自我/3个目标/全体)"
+        ],
+        "skill_types": [
+            "净化",
+            "持续治疗"
         ],
         "source": "高塔-忍者",
         "Release date": "2020-10-13",
@@ -31326,7 +36426,7 @@ window.allHeroes =
         "family": "ninja",
         "image": "https://i.imgur.com/MtPyEOT.jpg",
         "costume_id": 0,
-        "originalIndex": 950
+        "originalIndex": 951
     },
     {
         "name": "兰斯洛特爵士 (Sir Lancelot)",
@@ -31340,6 +36440,11 @@ window.allHeroes =
             "攻击单个目标",
             "攻击增益",
             "法力生成增益"
+        ],
+        "skill_types": [
+            "攻击增益",
+            "法力生成增益",
+            "狙击手"
         ],
         "source": "挑战节-阿瓦隆",
         "Release date": "2017-01-01",
@@ -31357,7 +36462,7 @@ window.allHeroes =
         "family": "avalon",
         "image": "https://i.imgur.com/zyZ5m0r.jpg",
         "costume_id": 0,
-        "originalIndex": 951
+        "originalIndex": 952
     },
     {
         "name": "住友 (Sumitomo)",
@@ -31371,6 +36476,11 @@ window.allHeroes =
             "攻击单个目标",
             "单体反击",
             "反击时获得法力"
+        ],
+        "skill_types": [
+            "反击",
+            "法力提升",
+            "狙击手"
         ],
         "source": "S2-亚特兰蒂斯",
         "Release date": "2019-08-01",
@@ -31388,7 +36498,7 @@ window.allHeroes =
         "family": "sakura",
         "image": "https://i.imgur.com/qnIyV2j.jpg",
         "costume_id": 0,
-        "originalIndex": 952
+        "originalIndex": 953
     },
     {
         "name": "住友 (Sumitomo) C1",
@@ -31402,6 +36512,11 @@ window.allHeroes =
             "攻击单个目标",
             "单体反击",
             "反击时获得法力"
+        ],
+        "skill_types": [
+            "反击",
+            "法力提升",
+            "狙击手"
         ],
         "source": "S2-亚特兰蒂斯",
         "Release date": "2023-04-03",
@@ -31419,7 +36534,7 @@ window.allHeroes =
         "family": "sakura",
         "image": "https://i.imgur.com/kQW2sKb.jpg",
         "costume_id": 1,
-        "originalIndex": 953
+        "originalIndex": 954
     },
     {
         "name": "萨姆勒 (Sumle)",
@@ -31431,6 +36546,11 @@ window.allHeroes =
         "skill": "岩浆卵石",
         "types": [
             "攻击所有目标"
+        ],
+        "skill_types": [
+            "全体攻击 (打5)",
+            "额外伤害",
+            "对自身或友军负面效果"
         ],
         "source": "S3-瓦尔哈拉",
         "Release date": "2020-02-27",
@@ -31447,7 +36567,7 @@ window.allHeroes =
         "family": "muspelheim",
         "image": "https://i.imgur.com/yxQi63p.jpg",
         "costume_id": 0,
-        "originalIndex": 954
+        "originalIndex": 955
     },
     {
         "name": "萨姆勒 (Sumle) C1",
@@ -31459,6 +36579,11 @@ window.allHeroes =
         "skill": "火山巨石",
         "types": [
             "攻击3个目标"
+        ],
+        "skill_types": [
+            "范围攻击 (打3)",
+            "额外伤害",
+            "对自身或友军负面效果"
         ],
         "source": "S3-瓦尔哈拉",
         "Release date": "2022-07-04",
@@ -31475,7 +36600,7 @@ window.allHeroes =
         "family": "muspelheim",
         "image": "https://i.imgur.com/BBcd7nx.jpg",
         "costume_id": 1,
-        "originalIndex": 955
+        "originalIndex": 956
     },
     {
         "name": "孙尚香 (Sun Shangxiang)",
@@ -31488,6 +36613,10 @@ window.allHeroes =
         "types": [
             "攻击3个目标",
             "防御降低"
+        ],
+        "skill_types": [
+            "范围攻击 (打3)",
+            "防御减益"
         ],
         "source": "三国召唤",
         "Release date": "2022-03-14T12:00:00",
@@ -31504,7 +36633,7 @@ window.allHeroes =
         "family": "kingdom",
         "image": "https://i.imgur.com/H5PMlvf.jpg",
         "costume_id": 0,
-        "originalIndex": 956
+        "originalIndex": 957
     },
     {
         "name": "冯莱纳 (Vonreine)",
@@ -31518,6 +36647,13 @@ window.allHeroes =
             "攻击3个目标",
             "召唤3个恶魔",
             "3个目标已生成法力偷取"
+        ],
+        "skill_types": [
+            "范围攻击 (打3)",
+            "召唤恶魔",
+            "法力削减或格挡",
+            "伤害减免",
+            "提供免疫"
         ],
         "source": "挑战-重返圣堂",
         "Release date": "2024-10-17",
@@ -31538,7 +36674,7 @@ window.allHeroes =
         "family": "gargoyle",
         "image": "https://i.imgur.com/rPeRNSA.jpg",
         "costume_id": 0,
-        "originalIndex": 957
+        "originalIndex": 958
     },
     {
         "name": "威尔伯 (Wilbur)",
@@ -31553,6 +36689,11 @@ window.allHeroes =
             "敌方伤害分担",
             "防御增益",
             "防御降低"
+        ],
+        "skill_types": [
+            "防御增益",
+            "伤害分摊",
+            "防御减益"
         ],
         "source": "S2-亚特兰蒂斯",
         "Release date": "2019-08-01",
@@ -31571,7 +36712,7 @@ window.allHeroes =
         "family": "lagoon",
         "image": "https://i.imgur.com/EjclF3b.jpg",
         "costume_id": 0,
-        "originalIndex": 958
+        "originalIndex": 959
     },
     {
         "name": "威尔伯 (Wilbur) C1",
@@ -31583,6 +36724,10 @@ window.allHeroes =
         "skill": "顶级特酿",
         "types": [
             "泰坦攻击增益",
+            "持续治疗"
+        ],
+        "skill_types": [
+            "攻击增益",
             "持续治疗"
         ],
         "source": "S2-亚特兰蒂斯",
@@ -31600,7 +36745,7 @@ window.allHeroes =
         "family": "lagoon",
         "image": "https://i.imgur.com/BehrpwT.jpg",
         "costume_id": 1,
-        "originalIndex": 959
+        "originalIndex": 960
     },
     {
         "name": "扎伯格 (Zhabog)",
@@ -31613,6 +36758,11 @@ window.allHeroes =
         "types": [
             "攻击单个目标",
             "状态异常重置"
+        ],
+        "skill_types": [
+            "效果持续重置",
+            "复活抑制",
+            "狙击手"
         ],
         "source": "挑战节-吟游诗人",
         "Release date": "2022-08-11",
@@ -31631,7 +36781,7 @@ window.allHeroes =
         "family": "bard",
         "image": "https://i.imgur.com/GX1p5W9.jpg",
         "costume_id": 0,
-        "originalIndex": 960
+        "originalIndex": 961
     },
     {
         "name": "周瑜 (Zhou Yu)",
@@ -31645,6 +36795,11 @@ window.allHeroes =
             "攻击单个目标",
             "召唤者",
             "小兵持续伤害"
+        ],
+        "skill_types": [
+            "持续伤害",
+            "召唤小兵",
+            "狙击手"
         ],
         "source": "三国召唤",
         "Release date": "2022-03-14T12:00:00",
@@ -31662,7 +36817,7 @@ window.allHeroes =
         "family": "kingdom",
         "image": "https://i.imgur.com/KiDn1jL.jpg",
         "costume_id": 0,
-        "originalIndex": 961
+        "originalIndex": 962
     },
     {
         "name": "周瑜 (Zhou Yu) C1",
@@ -31676,6 +36831,11 @@ window.allHeroes =
             "攻击单个目标",
             "召唤者 (单体)",
             "小兵持续伤害"
+        ],
+        "skill_types": [
+            "狙击手",
+            "召唤小兵",
+            "持续伤害"
         ],
         "source": "三国召唤",
         "Release date": "2025-01-29",
@@ -31698,7 +36858,7 @@ window.allHeroes =
         "family": "kingdom",
         "image": "https://i.imgur.com/Uiw1osb.jpg",
         "costume_id": 1,
-        "originalIndex": 962
+        "originalIndex": 963
     },
     {
         "name": "阿比盖尔 (Abigail)",
@@ -31713,6 +36873,12 @@ window.allHeroes =
             "召唤者",
             "持续伤害",
             "狂乱"
+        ],
+        "skill_types": [
+            "全体攻击 (打5)",
+            "召唤小兵",
+            "持续伤害",
+            "对自身或友军负面效果"
         ],
         "source": "额外抽奖-秘密召唤",
         "Release date": "2024-05-26",
@@ -31735,7 +36901,7 @@ window.allHeroes =
         "family": "investigator",
         "image": "https://i.imgur.com/dHcPPcr.jpg",
         "costume_id": 0,
-        "originalIndex": 963
+        "originalIndex": 964
     },
     {
         "name": "埃斯莱高 (Aethslegaur)",
@@ -31749,6 +36915,17 @@ window.allHeroes =
             "攻击单个目标",
             "全体闪避",
             "自我献祭印记"
+        ],
+        "skill_types": [
+            "闪避",
+            "额外伤害",
+            "绕过",
+            "持续伤害",
+            "防御减益",
+            "反制小兵",
+            "狙击手",
+            "法力生成增益",
+            "叠加"
         ],
         "source": "S6-S7-秘闻",
         "Release date": "2025-03-23",
@@ -31772,7 +36949,7 @@ window.allHeroes =
         "family": "nidavellir",
         "image": "https://i.imgur.com/rCRyftg.jpg",
         "costume_id": 0,
-        "originalIndex": 964
+        "originalIndex": 965
     },
     {
         "name": "阿鲁卡多 (Alucard)",
@@ -31786,6 +36963,13 @@ window.allHeroes =
             "摧毁3个目标的小兵",
             "攻击3个目标",
             "无视防御"
+        ],
+        "skill_types": [
+            "范围攻击 (打3)",
+            "绕过",
+            "特殊治疗",
+            "法力提升",
+            "反制小兵"
         ],
         "source": "月活动-莫洛维亚",
         "Release date": "2022-10-03",
@@ -31807,7 +36991,7 @@ window.allHeroes =
         "family": "morlovia",
         "image": "https://i.imgur.com/ZDIKUNx.jpg",
         "costume_id": 0,
-        "originalIndex": 965
+        "originalIndex": 966
     },
     {
         "name": "阿鲁卡多 (Alucard) C1",
@@ -31821,6 +37005,13 @@ window.allHeroes =
             "摧毁3个目标的小兵",
             "攻击3个目标",
             "无视防御"
+        ],
+        "skill_types": [
+            "反制小兵",
+            "范围攻击 (打3)",
+            "特殊治疗",
+            "法力提升",
+            "绕过"
         ],
         "source": "月活动-莫洛维亚",
         "Release date": "2024-09-23",
@@ -31842,7 +37033,7 @@ window.allHeroes =
         "family": "morlovia",
         "image": "https://i.imgur.com/ed8i62p.jpg",
         "costume_id": 1,
-        "originalIndex": 966
+        "originalIndex": 967
     },
     {
         "name": "安布尔 (Amber)",
@@ -31856,6 +37047,11 @@ window.allHeroes =
             "攻击单个目标",
             "自我治疗",
             "单体治疗格挡"
+        ],
+        "skill_types": [
+            "特殊治疗",
+            "治疗削减",
+            "狙击手"
         ],
         "source": "月活动-莫洛维亚",
         "Release date": "2023-09-25",
@@ -31875,7 +37071,7 @@ window.allHeroes =
         "family": "morlovia",
         "image": "https://i.imgur.com/PmKUK6y.jpg",
         "costume_id": 0,
-        "originalIndex": 967
+        "originalIndex": 968
     },
     {
         "name": "安迪·杰 (Andy Jay)",
@@ -31888,6 +37084,11 @@ window.allHeroes =
         "types": [
             "攻击所有目标",
             "全体炽热狂舞"
+        ],
+        "skill_types": [
+            "全体攻击 (打5)",
+            "舞者",
+            "防御增益"
         ],
         "source": "月活动-海滩派对",
         "Release date": "2025-06-03",
@@ -31904,13 +37105,13 @@ window.allHeroes =
             "* 若舞者受到特殊技能的直接伤害，所有舞者的炽焰狂舞持续时间延长 1 回合。此舞蹈每回合只能延长一次（添加舞蹈状态效果时将移除所有现有状态效果。舞蹈状态效果免疫新的状态效果。新的舞蹈状态效果将取代此效果。舞蹈效果无法驱散。施法者阵亡后效果移除）。"
         ],
         "passives": [
-            "特殊技能附带持续伤害：当该角色施放其特殊技能时，所有敌人会在 292 回合内受到 2 点水系伤害。",
+            "特殊技能附带持续伤害：当该角色施放其特殊技能时，所有敌人会在 2 回合内受到 292 点水系伤害。",
             "抵抗水系伤害：该角色天生对水系伤害有抵抗能力。"
         ],
         "family": "beachparty",
         "image": "https://imgur.com/ZWcSNEl.jpg",
         "costume_id": 0,
-        "originalIndex": 968
+        "originalIndex": 969
     },
     {
         "name": "安佐 (Anzogh)",
@@ -31923,6 +37124,11 @@ window.allHeroes =
         "types": [
             "治疗者",
             "攻击所有目标"
+        ],
+        "skill_types": [
+            "全体攻击 (打5)",
+            "特殊治疗",
+            "防御增益"
         ],
         "source": "月英",
         "Release date": "2019-04-01",
@@ -31942,7 +37148,7 @@ window.allHeroes =
         "family": 2019,
         "image": "https://i.imgur.com/1Kkc15H.jpg",
         "costume_id": 0,
-        "originalIndex": 969
+        "originalIndex": 970
     },
     {
         "name": "阿拉迪亚 (Aradia)",
@@ -31955,6 +37161,11 @@ window.allHeroes =
         "types": [
             "最大生命值降低",
             "全体持续伤害"
+        ],
+        "skill_types": [
+            "持续伤害",
+            "治疗削减",
+            "最大生命削减"
         ],
         "source": "挑战-众神狂欢节",
         "Release date": "2023-07-13",
@@ -31974,7 +37185,7 @@ window.allHeroes =
         "family": "maskedgod",
         "image": "https://i.imgur.com/KU4YzVK.jpg",
         "costume_id": 0,
-        "originalIndex": 970
+        "originalIndex": 971
     },
     {
         "name": "阿拉敏塔 (Araminta)",
@@ -31989,7 +37200,14 @@ window.allHeroes =
             "全体伤害增加叠加",
             "全体延迟法力提升"
         ],
-        "source": "S4-荒野",
+        "skill_types": [
+            "全体攻击 (打5)",
+            "额外伤害",
+            "法力提升",
+            "叠加",
+            "反制小兵"
+        ],
+        "source": "荒野召唤",
         "Release date": "2024-10-23",
         "star": 5,
         "power": 1144,
@@ -32008,7 +37226,7 @@ window.allHeroes =
         "family": "woodlandfaun",
         "image": "https://i.imgur.com/52hX4ns.jpg",
         "costume_id": 0,
-        "originalIndex": 971
+        "originalIndex": 972
     },
     {
         "name": "阿瑞斯 (Ares)",
@@ -32022,6 +37240,11 @@ window.allHeroes =
             "3个目标攻击增益",
             "3个目标暴击增益",
             "3个目标持续治疗"
+        ],
+        "skill_types": [
+            "攻击增益",
+            "持续治疗",
+            "防御增益"
         ],
         "source": "月英",
         "Release date": "2017-08-01T00:00:00",
@@ -32040,7 +37263,7 @@ window.allHeroes =
         "family": 2017,
         "image": "https://i.imgur.com/KvZBThZ.jpg",
         "costume_id": 0,
-        "originalIndex": 972
+        "originalIndex": 973
     },
     {
         "name": "阿瑞斯 (Ares) C1",
@@ -32054,6 +37277,13 @@ window.allHeroes =
             "3个目标攻击增益",
             "3个目标反击",
             "3个目标生命值加成"
+        ],
+        "skill_types": [
+            "攻击增益",
+            "防御增益",
+            "反击",
+            "持续治疗",
+            "生命强化"
         ],
         "source": "月英",
         "Release date": "2023-03-20",
@@ -32074,7 +37304,7 @@ window.allHeroes =
         "family": 2017,
         "image": "https://i.imgur.com/Pf1h54r.jpg",
         "costume_id": 1,
-        "originalIndex": 973
+        "originalIndex": 974
     },
     {
         "name": "余烬 (Ash)",
@@ -32087,6 +37317,11 @@ window.allHeroes =
         "types": [
             "攻击9次",
             "元素防御降低"
+        ],
+        "skill_types": [
+            "连锁与随机攻击",
+            "额外伤害",
+            "防御减益"
         ],
         "source": "超级元素人",
         "Release date": "2024-07-14",
@@ -32110,7 +37345,7 @@ window.allHeroes =
         "family": "superelemental",
         "image": "https://i.imgur.com/Vb0jBsm.jpg",
         "costume_id": 0,
-        "originalIndex": 974
+        "originalIndex": 975
     },
     {
         "name": "阿斯特琉思 (Asterius)",
@@ -32125,6 +37360,12 @@ window.allHeroes =
             "减少3个目标增益持续时间",
             "3个目标持续伤害",
             "3个目标防御降低"
+        ],
+        "skill_types": [
+            "范围攻击 (打3)",
+            "防御减益",
+            "持续伤害",
+            "效果持续重置"
         ],
         "source": "挑战节-恶棍",
         "Release date": "2021-02-11",
@@ -32142,7 +37383,7 @@ window.allHeroes =
         "family": "villains",
         "image": "https://i.imgur.com/i9C7vjL.jpg",
         "costume_id": 0,
-        "originalIndex": 975
+        "originalIndex": 976
     },
     {
         "name": "黄金 (Aurum)",
@@ -32156,6 +37397,14 @@ window.allHeroes =
             "蓄力攻击 (1/3/5个目标)",
             "流血标记",
             "持续伤害"
+        ],
+        "skill_types": [
+            "狙击手",
+            "范围攻击 (打3)",
+            "全体攻击 (打5)",
+            "持续伤害",
+            "额外伤害",
+            "反制小兵"
         ],
         "source": "高塔-忍者",
         "Release date": "2025-03-05",
@@ -32184,7 +37433,7 @@ window.allHeroes =
         "family": "ninja",
         "image": "https://i.imgur.com/ti2OFXj.jpg",
         "costume_id": 0,
-        "originalIndex": 976
+        "originalIndex": 977
     },
     {
         "name": "阿基拉 (Azlar)",
@@ -32197,6 +37446,10 @@ window.allHeroes =
         "types": [
             "攻击所有目标",
             "全体持续伤害"
+        ],
+        "skill_types": [
+            "全体攻击 (打5)",
+            "持续伤害"
         ],
         "source": "S1-经典",
         "Release date": "2017-01-01",
@@ -32213,7 +37466,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/wAibSFk.jpg",
         "costume_id": 0,
-        "originalIndex": 977
+        "originalIndex": 978
     },
     {
         "name": "阿基拉 (Azlar) C1",
@@ -32226,6 +37479,11 @@ window.allHeroes =
         "types": [
             "攻击3个目标",
             "3个目标持续伤害"
+        ],
+        "skill_types": [
+            "范围攻击 (打3)",
+            "持续伤害",
+            "额外伤害"
         ],
         "source": "S1-经典",
         "Release date": "2020-05-18",
@@ -32243,7 +37501,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/TDGgAGz.jpg",
         "costume_id": 1,
-        "originalIndex": 978
+        "originalIndex": 979
     },
     {
         "name": "阿基拉 (Azlar) C2",
@@ -32256,6 +37514,11 @@ window.allHeroes =
         "types": [
             "攻击3个目标",
             "持续伤害"
+        ],
+        "skill_types": [
+            "范围攻击 (打3)",
+            "持续伤害",
+            "特殊治疗"
         ],
         "source": "S1-经典",
         "Release date": "2023-02-20",
@@ -32272,7 +37535,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/6N4jIyy.jpg",
         "costume_id": 2,
-        "originalIndex": 979
+        "originalIndex": 980
     },
     {
         "name": "阿基拉 (Azlar) 卡通",
@@ -32285,6 +37548,11 @@ window.allHeroes =
         "types": [
             "攻击所有目标",
             "全体持续伤害"
+        ],
+        "skill_types": [
+            "全体攻击 (打5)",
+            "持续伤害",
+            "额外伤害"
         ],
         "source": "S1-经典",
         "Release date": "2023-10-30",
@@ -32304,7 +37572,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/yS5bHHw.jpg",
         "costume_id": 3,
-        "originalIndex": 980
+        "originalIndex": 981
     },
     {
         "name": "阿基拉 (Azlar) 玻璃",
@@ -32317,6 +37585,11 @@ window.allHeroes =
         "types": [
             "攻击所有目标",
             "全体持续伤害"
+        ],
+        "skill_types": [
+            "全体攻击 (打5)",
+            "绕过",
+            "持续伤害"
         ],
         "source": "S1-经典",
         "Release date": "2024-12-24",
@@ -32336,7 +37609,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/S5acyh9.jpg",
         "costume_id": 4,
-        "originalIndex": 981
+        "originalIndex": 982
     },
     {
         "name": "巴德尔 (Baldur)",
@@ -32351,6 +37624,12 @@ window.allHeroes =
             "自我生命值加成",
             "全体法力削减免疫",
             "随机攻击1个目标"
+        ],
+        "skill_types": [
+            "连锁与随机攻击",
+            "生命强化",
+            "提供免疫",
+            "全体攻击 (打5)"
         ],
         "source": "S3-瓦尔哈拉",
         "Release date": "2020-05-28",
@@ -32369,7 +37648,7 @@ window.allHeroes =
         "family": "muspelheim",
         "image": "https://i.imgur.com/bmdaK3F.jpg",
         "costume_id": 0,
-        "originalIndex": 982
+        "originalIndex": 983
     },
     {
         "name": "巴德尔 (Baldur) C1",
@@ -32384,6 +37663,13 @@ window.allHeroes =
             "自我生命值加成",
             "全体法力削减免疫",
             "随机攻击1个目标"
+        ],
+        "skill_types": [
+            "连锁与随机攻击",
+            "生命强化",
+            "提供免疫",
+            "狙击手",
+            "全体攻击 (打5)"
         ],
         "source": "S3-瓦尔哈拉",
         "Release date": "2022-11-21",
@@ -32402,7 +37688,7 @@ window.allHeroes =
         "family": "muspelheim",
         "image": "https://i.imgur.com/oTqqeuM.jpg",
         "costume_id": 1,
-        "originalIndex": 983
+        "originalIndex": 984
     },
     {
         "name": "巴克利 (Barkley)",
@@ -32416,6 +37702,12 @@ window.allHeroes =
             "攻击单个目标",
             "随机攻击2个目标",
             "对命中的目标召唤恶魔"
+        ],
+        "skill_types": [
+            "连锁与随机攻击",
+            "召唤恶魔",
+            "范围攻击 (打3)",
+            "持续伤害"
         ],
         "source": "联盟-超能萌宠",
         "Release date": "2023-05-18",
@@ -32437,7 +37729,7 @@ window.allHeroes =
         "family": "pets",
         "image": "https://i.imgur.com/X0UJRC3.jpg",
         "costume_id": 0,
-        "originalIndex": 984
+        "originalIndex": 985
     },
     {
         "name": "贝尔纳黛特 (Bearnadette)",
@@ -32451,6 +37743,11 @@ window.allHeroes =
             "驱散者",
             "攻击所有目标",
             "全体诅咒画像"
+        ],
+        "skill_types": [
+            "驱散",
+            "全体攻击 (打5)",
+            "状态效果格挡"
         ],
         "source": "联盟-骑士冲击",
         "Release date": "2024-07-17",
@@ -32473,7 +37770,7 @@ window.allHeroes =
         "family": "bear",
         "image": "https://i.imgur.com/jsqcXVs.jpg",
         "costume_id": 0,
-        "originalIndex": 985
+        "originalIndex": 986
     },
     {
         "name": "贝奥武夫 (Beowulf)",
@@ -32488,6 +37785,14 @@ window.allHeroes =
             "全体治疗",
             "全体法力提升",
             "全体攻击叠加"
+        ],
+        "skill_types": [
+            "狙击手",
+            "治疗",
+            "法力提升",
+            "攻击增益",
+            "绕过",
+            "叠加"
         ],
         "source": "挑战-贝奥武夫",
         "Release date": "2025-02-13",
@@ -32510,7 +37815,7 @@ window.allHeroes =
         "family": "beowulf",
         "image": "https://i.imgur.com/KcWPSJ3.jpg",
         "costume_id": 0,
-        "originalIndex": 986
+        "originalIndex": 987
     },
     {
         "name": "比马 (Bhima)",
@@ -32525,6 +37830,14 @@ window.allHeroes =
             "伤害恩惠",
             "3个目标最大生命值降低",
             "3个目标致盲"
+        ],
+        "skill_types": [
+            "额外伤害",
+            "最大生命削减",
+            "反制小兵",
+            "绕过",
+            "范围攻击 (打3)",
+            "攻击减益"
         ],
         "source": "至日召唤",
         "Release date": "2025-06-16",
@@ -32549,7 +37862,7 @@ window.allHeroes =
         "family": "mahayoddha",
         "image": "https://imgur.com/4yUfzza.jpg",
         "costume_id": 0,
-        "originalIndex": 987
+        "originalIndex": 988
     },
     {
         "name": "黑凯撒 (Black Caesar)",
@@ -32563,6 +37876,11 @@ window.allHeroes =
             "攻击所有目标",
             "召唤所有恶魔",
             "攻击降低恶魔"
+        ],
+        "skill_types": [
+            "全体攻击 (打5)",
+            "攻击减益",
+            "召唤恶魔"
         ],
         "source": "挑战节-海盗",
         "Release date": "2023-12-28",
@@ -32583,7 +37901,7 @@ window.allHeroes =
         "family": "corellia",
         "image": "https://i.imgur.com/5f8UOBL.jpg",
         "costume_id": 0,
-        "originalIndex": 988
+        "originalIndex": 989
     },
     {
         "name": "黑骑士 (Black Knight)",
@@ -32596,6 +37914,11 @@ window.allHeroes =
         "types": [
             "嘲讽",
             "全体攻击增益"
+        ],
+        "skill_types": [
+            "攻击增益",
+            "伤害减免",
+            "嘲讽"
         ],
         "source": "挑战节-阿瓦隆",
         "Release date": "2017-01-01",
@@ -32613,7 +37936,7 @@ window.allHeroes =
         "family": "avalon",
         "image": "https://i.imgur.com/6so0gHz.jpg",
         "costume_id": 0,
-        "originalIndex": 989
+        "originalIndex": 990
     },
     {
         "name": "黑骑士 (Black Knight) C1",
@@ -32627,6 +37950,11 @@ window.allHeroes =
             "伤害降低",
             "嘲讽",
             "全体攻击增益"
+        ],
+        "skill_types": [
+            "攻击增益",
+            "伤害减免",
+            "嘲讽"
         ],
         "source": "挑战节-阿瓦隆",
         "Release date": "2022-06-16",
@@ -32644,7 +37972,7 @@ window.allHeroes =
         "family": "avalon",
         "image": "https://i.imgur.com/BH9J6dC.jpg",
         "costume_id": 1,
-        "originalIndex": 990
+        "originalIndex": 991
     },
     {
         "name": "花蕊 (Blossom)",
@@ -32657,6 +37985,12 @@ window.allHeroes =
         "types": [
             "治疗者",
             "驱散者"
+        ],
+        "skill_types": [
+            "驱散",
+            "特殊治疗",
+            "治疗",
+            "生命强化"
         ],
         "source": "盟约召唤",
         "Release date": "2023-08-24",
@@ -32679,7 +38013,7 @@ window.allHeroes =
         "family": "construct",
         "image": "https://i.imgur.com/4805acd.jpg",
         "costume_id": 0,
-        "originalIndex": 991
+        "originalIndex": 992
     },
     {
         "name": "碎骨魔 (Bonecrusher)",
@@ -32692,6 +38026,13 @@ window.allHeroes =
         "types": [
             "攻击单个目标",
             "自我攻击增益叠加"
+        ],
+        "skill_types": [
+            "攻击增益",
+            "狙击手",
+            "叠加",
+            "额外伤害",
+            "持续伤害"
         ],
         "source": "盟约召唤",
         "Release date": "2023-03-03",
@@ -32707,12 +38048,12 @@ window.allHeroes =
         ],
         "passives": [
             "猎人之毅：当该角色施放其特殊技能时，获得 +20% 的攻击力，持续 3 回合。此效果可与其他改变攻击力的效果并存。",
-            "特殊技能附带持续伤害：当该角色施放其特殊技能时，会给一个随机敌人施加猎人印记。目标在 150 回合内受到 3 点伤害。如果目标已有此效果，则持续时间刷新，伤害增加 150 点，总伤害最高可达 1500 点。"
+            "特殊技能附带持续伤害：当该角色施放其特殊技能时，会给一个随机敌人施加猎人印记。目标在 3 回合内受到 150 点伤害。如果目标已有此效果，则持续时间刷新，伤害增加 150 点，总伤害最高可达 1500 点。"
         ],
         "family": "junglehunter",
         "image": "https://i.imgur.com/sBMiou9.jpg",
         "costume_id": 0,
-        "originalIndex": 992
+        "originalIndex": 993
     },
     {
         "name": "硫磺 (Brimstone)",
@@ -32727,6 +38068,13 @@ window.allHeroes =
             "召唤所有恶魔",
             "元素防御降低恶魔",
             "全体元素防御增益"
+        ],
+        "skill_types": [
+            "全体攻击 (打5)",
+            "防御增益",
+            "防御减益",
+            "召唤恶魔",
+            "持续伤害"
         ],
         "source": "盟约召唤",
         "Release date": "2023-07-27",
@@ -32752,7 +38100,7 @@ window.allHeroes =
         "family": "construct",
         "image": "https://i.imgur.com/HWR83YI.jpg",
         "costume_id": 0,
-        "originalIndex": 993
+        "originalIndex": 994
     },
     {
         "name": "科斯特雷尔船长 (Captain Kestrel)",
@@ -32764,6 +38112,10 @@ window.allHeroes =
         "skill": "海盗枪法",
         "types": [
             "攻击3个目标"
+        ],
+        "skill_types": [
+            "范围攻击 (打3)",
+            "额外伤害"
         ],
         "source": "挑战节-海盗",
         "Release date": "2017-01-01",
@@ -32780,7 +38132,7 @@ window.allHeroes =
         "family": "corellia",
         "image": "https://i.imgur.com/RcRP80T.jpg",
         "costume_id": 0,
-        "originalIndex": 994
+        "originalIndex": 995
     },
     {
         "name": "尼莫船长 (Captain Nemo)",
@@ -32792,6 +38144,10 @@ window.allHeroes =
         "skill": "船长的弯刀",
         "types": [
             "攻击单个目标"
+        ],
+        "skill_types": [
+            "狙击手",
+            "额外伤害"
         ],
         "source": "S4-蛮荒地界",
         "Release date": "2021-08-12",
@@ -32810,7 +38166,7 @@ window.allHeroes =
         "family": "underwild",
         "image": "https://i.imgur.com/lNl4PPg.jpg",
         "costume_id": 0,
-        "originalIndex": 995
+        "originalIndex": 996
     },
     {
         "name": "尼莫船长 (Captain Nemo) C1",
@@ -32822,6 +38178,11 @@ window.allHeroes =
         "skill": "机械师的弯刀",
         "types": [
             "攻击单个目标"
+        ],
+        "skill_types": [
+            "狙击手",
+            "额外伤害",
+            "攻击增益"
         ],
         "source": "S4-蛮荒地界",
         "Release date": "2023-12-07",
@@ -32841,7 +38202,7 @@ window.allHeroes =
         "family": "underwild",
         "image": "https://i.imgur.com/UjiSmNx.jpg",
         "costume_id": 1,
-        "originalIndex": 996
+        "originalIndex": 997
     },
     {
         "name": "红衣主教黎塞留 (Cardinal Richelieu)",
@@ -32855,6 +38216,12 @@ window.allHeroes =
             "攻击所有目标",
             "召唤所有恶魔",
             "偷取增益恶魔"
+        ],
+        "skill_types": [
+            "全体攻击 (打5)",
+            "增益窃取者",
+            "召唤恶魔",
+            "持续伤害"
         ],
         "source": "联盟-火枪手",
         "Release date": "2023-09-20",
@@ -32875,7 +38242,7 @@ window.allHeroes =
         "family": "musketeer",
         "image": "https://i.imgur.com/fhxShwu.jpg",
         "costume_id": 0,
-        "originalIndex": 997
+        "originalIndex": 998
     },
     {
         "name": "卡耳门塔 (Carmenta)",
@@ -32889,6 +38256,11 @@ window.allHeroes =
             "扩散负面效果",
             "减益持续时间重置",
             "攻击3个目标"
+        ],
+        "skill_types": [
+            "范围攻击 (打3)",
+            "效果持续重置",
+            "净化"
         ],
         "source": "挑战-众神狂欢节",
         "Release date": "2023-09-14",
@@ -32908,7 +38280,7 @@ window.allHeroes =
         "family": "maskedgod",
         "image": "https://i.imgur.com/Ud8nASe.jpg",
         "costume_id": 0,
-        "originalIndex": 998
+        "originalIndex": 999
     },
     {
         "name": "西里斯 (Ceris)",
@@ -32923,6 +38295,14 @@ window.allHeroes =
             "随机攻击",
             "沉默被击中的敌人",
             "全体衰退"
+        ],
+        "skill_types": [
+            "狙击手",
+            "连锁与随机攻击",
+            "沉默",
+            "属性修改",
+            "反制小兵",
+            "绕过"
         ],
         "source": "星体召唤",
         "Release date": "2025-04-21",
@@ -32945,7 +38325,7 @@ window.allHeroes =
         "family": "astraldwarfs",
         "image": "https://imgur.com/RSa7LWa.jpg",
         "costume_id": 0,
-        "originalIndex": 999
+        "originalIndex": 1000
     },
     {
         "name": "夏洛塔 (Charlotta)",
@@ -32958,6 +38338,14 @@ window.allHeroes =
         "types": [
             "攻击3个目标",
             "谴责歌谣之舞 (3个目标)"
+        ],
+        "skill_types": [
+            "舞者",
+            "范围攻击 (打3)",
+            "法力削减或格挡",
+            "治疗削减",
+            "提供免疫",
+            "增益格挡者"
         ],
         "source": "至日召唤",
         "Release date": "2024-09-19",
@@ -32981,7 +38369,7 @@ window.allHeroes =
         "family": "opera",
         "image": "https://i.imgur.com/SZzrHhg.jpg",
         "costume_id": 0,
-        "originalIndex": 1000
+        "originalIndex": 1001
     },
     {
         "name": "夏麦妮 (Charmione)",
@@ -32995,6 +38383,13 @@ window.allHeroes =
             "攻击3个目标",
             "对3个目标施放吞噬粘物",
             "3个目标麻痹"
+        ],
+        "skill_types": [
+            "范围攻击 (打3)",
+            "持续伤害",
+            "沉睡",
+            "驱散",
+            "属性修改"
         ],
         "source": "超级元素人",
         "Release date": "2025-01-01",
@@ -33016,7 +38411,7 @@ window.allHeroes =
         "family": "slime",
         "image": "https://i.imgur.com/4w6oCQ7.jpg",
         "costume_id": 0,
-        "originalIndex": 1001
+        "originalIndex": 1002
     },
     {
         "name": "嘎嘣 (Chomper)",
@@ -33030,6 +38425,11 @@ window.allHeroes =
             "攻击3个目标",
             "治疗者",
             "3个目标持续伤害"
+        ],
+        "skill_types": [
+            "范围攻击 (打3)",
+            "持续伤害",
+            "特殊治疗"
         ],
         "source": "联盟-超能萌宠",
         "Release date": "2022-11-03",
@@ -33050,7 +38450,7 @@ window.allHeroes =
         "family": "pets",
         "image": "https://i.imgur.com/5iYa63c.jpg",
         "costume_id": 0,
-        "originalIndex": 1002
+        "originalIndex": 1003
     },
     {
         "name": "淳绮罗翼 (Chunkyroi)",
@@ -33065,6 +38465,14 @@ window.allHeroes =
             "盟友释放特殊技能时全体生命值加成",
             "全体法力生成增益",
             "全体净化"
+        ],
+        "skill_types": [
+            "治疗",
+            "生命强化",
+            "法力生成增益",
+            "净化",
+            "闪避",
+            "反制小兵"
         ],
         "source": "联盟-飞蛾",
         "Release date": "2025-01-23",
@@ -33085,7 +38493,7 @@ window.allHeroes =
         "family": "moth",
         "image": "https://i.imgur.com/APgO5NR.jpg",
         "costume_id": 0,
-        "originalIndex": 1003
+        "originalIndex": 1004
     },
     {
         "name": "灰姑娘 (Cinderella)",
@@ -33101,6 +38509,12 @@ window.allHeroes =
             "敌方伤害分担",
             "全体防御增益",
             "全体防御降低"
+        ],
+        "skill_types": [
+            "防御增益",
+            "净化",
+            "伤害分摊",
+            "防御减益"
         ],
         "source": "挑战节-肃煞森林",
         "Release date": "2024-02-22",
@@ -33122,7 +38536,7 @@ window.allHeroes =
         "family": "grimforest",
         "image": "https://i.imgur.com/8MZHUmV.jpg",
         "costume_id": 0,
-        "originalIndex": 1004
+        "originalIndex": 1005
     },
     {
         "name": "屠刀 (Cleaver)",
@@ -33136,6 +38550,12 @@ window.allHeroes =
             "攻击所有目标",
             "召唤所有恶魔",
             "攻击降低"
+        ],
+        "skill_types": [
+            "全体攻击 (打5)",
+            "攻击减益",
+            "持续伤害",
+            "召唤恶魔"
         ],
         "source": "盟约召唤",
         "Release date": "2022-08-25",
@@ -33152,12 +38572,12 @@ window.allHeroes =
         ],
         "passives": [
             "特殊技能伤害减免：该角色有 10% 的几率将受到的特殊技能直接伤害降至 1 点。",
-            "特殊技能附带持续伤害：当该角色施放其特殊技能时，会给一个随机敌人施加猎人印记。目标在 150 回合内受到 3 点伤害。如果目标已有此效果，则持续时间刷新，伤害增加 150 点，总伤害最高可达 1500 点。"
+            "特殊技能附带持续伤害：当该角色施放其特殊技能时，会给一个随机敌人施加猎人印记。目标在 3 回合内受到 150 点伤害。如果目标已有此效果，则持续时间刷新，伤害增加 150 点，总伤害最高可达 1500 点。"
         ],
         "family": "plainshunter",
         "image": "https://i.imgur.com/BcrdLDo.jpg",
         "costume_id": 0,
-        "originalIndex": 1005
+        "originalIndex": 1006
     },
     {
         "name": "库奇 (Cookie)",
@@ -33171,6 +38591,11 @@ window.allHeroes =
             "全体法力削减",
             "召唤者",
             "全体炸弹"
+        ],
+        "skill_types": [
+            "法力削减或格挡",
+            "召唤小兵",
+            "范围攻击 (打3)"
         ],
         "source": "月活动-冬日",
         "Release date": "2023-12-01",
@@ -33188,7 +38613,7 @@ window.allHeroes =
         "family": "christmas",
         "image": "https://i.imgur.com/n61JoD1.jpg",
         "costume_id": 0,
-        "originalIndex": 1006
+        "originalIndex": 1007
     },
     {
         "name": "丘比特 (Cupido)",
@@ -33201,6 +38626,11 @@ window.allHeroes =
         "types": [
             "攻击3个目标",
             "3个目标失心治疗"
+        ],
+        "skill_types": [
+            "范围攻击 (打3)",
+            "特殊治疗",
+            "精神错乱攻击&治疗"
         ],
         "source": "月活动-恋爱季节",
         "Release date": "2023-02-14",
@@ -33220,7 +38650,7 @@ window.allHeroes =
         "family": "cupid",
         "image": "https://i.imgur.com/4hhCXCA.jpg",
         "costume_id": 0,
-        "originalIndex": 1007
+        "originalIndex": 1008
     },
     {
         "name": "达达尼昂 (D Artagnan)",
@@ -33234,6 +38664,11 @@ window.allHeroes =
             "攻击单个目标",
             "单体持续伤害",
             "自我持续治疗"
+        ],
+        "skill_types": [
+            "持续伤害",
+            "狙击手",
+            "持续治疗"
         ],
         "source": "联盟-火枪手",
         "Release date": "2022-12-14",
@@ -33253,7 +38688,7 @@ window.allHeroes =
         "family": "musketeer",
         "image": "https://i.imgur.com/cwvEsxY.jpg",
         "costume_id": 0,
-        "originalIndex": 1008
+        "originalIndex": 1009
     },
     {
         "name": "戴蒙 (Daemon)",
@@ -33268,6 +38703,12 @@ window.allHeroes =
             "单体天赋沉默",
             "攻击单个目标",
             "单体施法格挡"
+        ],
+        "skill_types": [
+            "驱散",
+            "沉默",
+            "狙击手",
+            "状态效果格挡"
         ],
         "source": "联盟-骑士冲击",
         "Release date": "2024-01-10",
@@ -33288,7 +38729,7 @@ window.allHeroes =
         "family": "stag",
         "image": "https://i.imgur.com/uaxeVEQ.jpg",
         "costume_id": 0,
-        "originalIndex": 1009
+        "originalIndex": 1010
     },
     {
         "name": "迪马 (Dima)",
@@ -33303,6 +38744,12 @@ window.allHeroes =
             "3个目标防御降低",
             "持剑守卫超级小兵",
             "扩散型持续伤害"
+        ],
+        "skill_types": [
+            "范围攻击 (打3)",
+            "防御减益",
+            "召唤巨型小兵",
+            "持续伤害"
         ],
         "source": "哥布林召唤",
         "Release date": "2024-09-29",
@@ -33324,7 +38771,7 @@ window.allHeroes =
         "family": "garrisonguard",
         "image": "https://i.imgur.com/z5rjaIR.jpg",
         "costume_id": 0,
-        "originalIndex": 1010
+        "originalIndex": 1011
     },
     {
         "name": "多米万图斯 (Domiventus)",
@@ -33338,6 +38785,11 @@ window.allHeroes =
             "攻击3个目标",
             "持续伤害",
             "防御降低"
+        ],
+        "skill_types": [
+            "范围攻击 (打3)",
+            "防御减益",
+            "持续伤害"
         ],
         "source": "S6-S7-秘闻",
         "Release date": "2023-12-13",
@@ -33363,7 +38815,7 @@ window.allHeroes =
         "family": "nightmaresofatlantis",
         "image": "https://i.imgur.com/kgTv3pm.jpg",
         "costume_id": 0,
-        "originalIndex": 1011
+        "originalIndex": 1012
     },
     {
         "name": "多米万图斯 (Domiventus) C1",
@@ -33377,6 +38829,11 @@ window.allHeroes =
             "攻击3个目标",
             "3个目标持续伤害",
             "3个目标防御降低"
+        ],
+        "skill_types": [
+            "范围攻击 (打3)",
+            "持续伤害",
+            "防御减益"
         ],
         "source": "S6-S7-秘闻",
         "Release date": "2024-12-14",
@@ -33403,7 +38860,7 @@ window.allHeroes =
         "family": "nightmaresofatlantis",
         "image": "https://i.imgur.com/Bwbja0V.jpg",
         "costume_id": 1,
-        "originalIndex": 1012
+        "originalIndex": 1013
     },
     {
         "name": "多客森 (Doxan)",
@@ -33417,6 +38874,11 @@ window.allHeroes =
             "攻击单个目标",
             "攻击自然元素",
             "持续伤害"
+        ],
+        "skill_types": [
+            "持续伤害",
+            "狙击手",
+            "连锁与随机攻击"
         ],
         "source": "超级元素人",
         "Release date": "2023-03-27",
@@ -33439,7 +38901,7 @@ window.allHeroes =
         "family": "superelemental",
         "image": "https://i.imgur.com/aM5vSU2.jpg",
         "costume_id": 0,
-        "originalIndex": 1013
+        "originalIndex": 1014
     },
     {
         "name": "邓纳·哈特 (Dunnar Hart)",
@@ -33455,6 +38917,15 @@ window.allHeroes =
             "全体防御降低",
             "自我强化持续治疗",
             "自我法力生成增益"
+        ],
+        "skill_types": [
+            "全体攻击 (打5)",
+            "持续伤害",
+            "持续治疗",
+            "法力生成增益",
+            "防御减益",
+            "生命强化",
+            "复活抑制"
         ],
         "source": "挑战节-吟游诗人",
         "Release date": "2025-06-15",
@@ -33475,7 +38946,7 @@ window.allHeroes =
         "family": "bard",
         "image": "https://imgur.com/Yf46q7H.jpg",
         "costume_id": 0,
-        "originalIndex": 1014
+        "originalIndex": 1015
     },
     {
         "name": "埃芭 (Ebba)",
@@ -33490,6 +38961,13 @@ window.allHeroes =
             "连锁攻击",
             "命中时状态效果格挡",
             "命中时攻击降低"
+        ],
+        "skill_types": [
+            "连锁与随机攻击",
+            "攻击减益",
+            "持续伤害",
+            "狙击手",
+            "状态效果格挡"
         ],
         "source": "盟约召唤",
         "Release date": "2022-10-15",
@@ -33506,12 +38984,12 @@ window.allHeroes =
         ],
         "passives": [
             "特殊技能伤害减免：该角色有 10% 的几率将受到的特殊技能直接伤害降至 1 点。",
-            "特殊技能附带持续伤害：当该角色施放其特殊技能时，会给一个随机敌人施加猎人印记。目标在 150 回合内受到 3 点伤害。如果目标已有此效果，则持续时间刷新，伤害增加 150 点，总伤害最高可达 1500 点。"
+            "特殊技能附带持续伤害：当该角色施放其特殊技能时，会给一个随机敌人施加猎人印记。目标在 3 回合内受到 150 点伤害。如果目标已有此效果，则持续时间刷新，伤害增加 150 点，总伤害最高可达 1500 点。"
         ],
         "family": "plainshunter",
         "image": "https://i.imgur.com/TiOunHw.jpg",
         "costume_id": 0,
-        "originalIndex": 1015
+        "originalIndex": 1016
     },
     {
         "name": "埃尔杜克 (El Duque)",
@@ -33524,6 +39002,12 @@ window.allHeroes =
         "types": [
             "攻击3个目标",
             "3个目标防御降低叠加"
+        ],
+        "skill_types": [
+            "范围攻击 (打3)",
+            "叠加",
+            "防御减益",
+            "伤害减免"
         ],
         "source": "挑战-石像鬼",
         "Release date": "2022-05-12",
@@ -33542,7 +39026,7 @@ window.allHeroes =
         "family": "gargoyle",
         "image": "https://i.imgur.com/37akyr2.jpg",
         "costume_id": 0,
-        "originalIndex": 1016
+        "originalIndex": 1017
     },
     {
         "name": "厄尔巴 (Elba)",
@@ -33556,6 +39040,11 @@ window.allHeroes =
             "攻击3个目标",
             "3个目标持续治疗",
             "3个目标反击"
+        ],
+        "skill_types": [
+            "范围攻击 (打3)",
+            "反击",
+            "治疗"
         ],
         "source": "月活动-恋爱季节",
         "Release date": "2024-01-08",
@@ -33575,7 +39064,7 @@ window.allHeroes =
         "family": "cupid",
         "image": "https://i.imgur.com/H1vwtsQ.jpg",
         "costume_id": 0,
-        "originalIndex": 1017
+        "originalIndex": 1018
     },
     {
         "name": "艾琳娜 (Elena)",
@@ -33587,6 +39076,10 @@ window.allHeroes =
         "skill": "剑墙",
         "types": [
             "攻击所有目标",
+            "反击"
+        ],
+        "skill_types": [
+            "全体攻击 (打5)",
             "反击"
         ],
         "source": "S1-经典",
@@ -33604,7 +39097,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/DJkMDg0.jpg",
         "costume_id": 0,
-        "originalIndex": 1018
+        "originalIndex": 1019
     },
     {
         "name": "艾琳娜 (Elena) C1",
@@ -33616,6 +39109,10 @@ window.allHeroes =
         "skill": "刀锋壁垒",
         "types": [
             "攻击所有目标",
+            "反击"
+        ],
+        "skill_types": [
+            "全体攻击 (打5)",
             "反击"
         ],
         "source": "S1-经典",
@@ -33633,7 +39130,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/rs8S0na.jpg",
         "costume_id": 1,
-        "originalIndex": 1019
+        "originalIndex": 1020
     },
     {
         "name": "艾琳娜 (Elena) C2",
@@ -33645,6 +39142,10 @@ window.allHeroes =
         "skill": "煞影之剑",
         "types": [
             "攻击所有目标",
+            "反击"
+        ],
+        "skill_types": [
+            "全体攻击 (打5)",
             "反击"
         ],
         "source": "S1-经典",
@@ -33662,7 +39163,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/mKIsd5g.jpg",
         "costume_id": 2,
-        "originalIndex": 1020
+        "originalIndex": 1021
     },
     {
         "name": "艾琳娜 (Elena) 卡通",
@@ -33675,6 +39176,11 @@ window.allHeroes =
         "types": [
             "攻击所有目标",
             "反击"
+        ],
+        "skill_types": [
+            "全体攻击 (打5)",
+            "反击",
+            "额外伤害"
         ],
         "source": "S1-经典",
         "Release date": "2024-05-31",
@@ -33694,7 +39200,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/6Zu6Ag7.jpg",
         "costume_id": 3,
-        "originalIndex": 1021
+        "originalIndex": 1022
     },
     {
         "name": "埃利亚涅 (Eliane)",
@@ -33708,6 +39214,12 @@ window.allHeroes =
             "攻击所有目标",
             "全体持续伤害",
             "驱散者"
+        ],
+        "skill_types": [
+            "全体攻击 (打5)",
+            "持续伤害",
+            "驱散",
+            "防御增益"
         ],
         "source": "月英",
         "Release date": "2025-03-01",
@@ -33729,7 +39241,7 @@ window.allHeroes =
         "family": 2025,
         "image": "https://i.imgur.com/MByoToE.jpg",
         "costume_id": 0,
-        "originalIndex": 1022
+        "originalIndex": 1023
     },
     {
         "name": "伊丽莎白 (Elizabeth)",
@@ -33743,6 +39255,12 @@ window.allHeroes =
             "攻击所有目标",
             "召唤所有恶魔",
             "法力生成降低恶魔"
+        ],
+        "skill_types": [
+            "全体攻击 (打5)",
+            "召唤恶魔",
+            "法力削减或格挡",
+            "持续伤害"
         ],
         "source": "S4-蛮荒地界",
         "Release date": "2021-03-25",
@@ -33763,7 +39281,7 @@ window.allHeroes =
         "family": "underwild",
         "image": "https://i.imgur.com/5redygr.jpg",
         "costume_id": 0,
-        "originalIndex": 1023
+        "originalIndex": 1024
     },
     {
         "name": "伊丽莎白 (Elizabeth) C1",
@@ -33777,6 +39295,14 @@ window.allHeroes =
             "攻击所有目标",
             "召唤所有恶魔",
             "法力生成降低恶魔"
+        ],
+        "skill_types": [
+            "全体攻击 (打5)",
+            "召唤恶魔",
+            "持续伤害",
+            "法力削减或格挡",
+            "额外伤害",
+            "攻击增益"
         ],
         "source": "S4-蛮荒地界",
         "Release date": "2023-04-27",
@@ -33798,7 +39324,7 @@ window.allHeroes =
         "family": "underwild",
         "image": "https://i.imgur.com/aGoeueo.jpg",
         "costume_id": 1,
-        "originalIndex": 1024
+        "originalIndex": 1025
     },
     {
         "name": "安柏 (Ember)",
@@ -33811,6 +39337,12 @@ window.allHeroes =
         "types": [
             "攻击所有目标",
             "召唤者"
+        ],
+        "skill_types": [
+            "全体攻击 (打5)",
+            "持续伤害",
+            "召唤小兵",
+            "防御减益"
         ],
         "source": "盟约召唤",
         "Release date": "2025-05-08",
@@ -33830,7 +39362,7 @@ window.allHeroes =
         "family": "fox",
         "image": "https://imgur.com/dTQNPFE.jpg",
         "costume_id": 0,
-        "originalIndex": 1025
+        "originalIndex": 1026
     },
     {
         "name": "埃米利奥 (Emilio)",
@@ -33845,6 +39377,11 @@ window.allHeroes =
             "全体持续伤害",
             "全体持续治疗",
             "全体状态异常免疫"
+        ],
+        "skill_types": [
+            "持续伤害",
+            "持续治疗",
+            "提供免疫"
         ],
         "source": "挑战节-星落",
         "Release date": "2021-06-10",
@@ -33867,7 +39404,7 @@ window.allHeroes =
         "family": "starfall",
         "image": "https://i.imgur.com/iAnFGWC.jpg",
         "costume_id": 0,
-        "originalIndex": 1026
+        "originalIndex": 1027
     },
     {
         "name": "埃米利奥 (Emilio) C1",
@@ -33882,6 +39419,11 @@ window.allHeroes =
             "全体持续伤害",
             "全体持续治疗",
             "全体状态异常免疫"
+        ],
+        "skill_types": [
+            "持续伤害",
+            "持续治疗",
+            "提供免疫"
         ],
         "source": "挑战节-星落",
         "Release date": "2025-04-09",
@@ -33906,7 +39448,7 @@ window.allHeroes =
         "family": "starfall",
         "image": "https://imgur.com/Jiz6BXT.jpg",
         "costume_id": 1,
-        "originalIndex": 1027
+        "originalIndex": 1028
     },
     {
         "name": "厄瑞玻斯 (Erebus)",
@@ -33920,6 +39462,10 @@ window.allHeroes =
             "蓄力",
             "摧毁单个目标的小兵",
             "攻击单个目标"
+        ],
+        "skill_types": [
+            "反制小兵",
+            "狙击手"
         ],
         "source": "高塔-冥河",
         "Release date": "2022-09-21",
@@ -33949,7 +39495,7 @@ window.allHeroes =
         "family": "styx",
         "image": "https://i.imgur.com/gnNXm6f.jpg",
         "costume_id": 0,
-        "originalIndex": 1028
+        "originalIndex": 1029
     },
     {
         "name": "埃隆 (Eron)",
@@ -33963,6 +39509,11 @@ window.allHeroes =
             "攻击单个目标",
             "莽夫乱拳",
             "防御降低"
+        ],
+        "skill_types": [
+            "狙击手",
+            "精神错乱攻击&治疗",
+            "防御减益"
         ],
         "source": "高塔-猫头鹰",
         "Release date": "2024-05-08",
@@ -33982,7 +39533,7 @@ window.allHeroes =
         "family": "owl",
         "image": "https://i.imgur.com/THCrCkN.jpg",
         "costume_id": 0,
-        "originalIndex": 1029
+        "originalIndex": 1030
     },
     {
         "name": "经验拟态兽 (Experience Mimic)",
@@ -33996,6 +39547,15 @@ window.allHeroes =
             "摧毁单个目标的小兵",
             "攻击单个目标",
             "宝箱怪"
+        ],
+        "skill_types": [
+            "反制小兵",
+            "狙击手",
+            "特殊治疗",
+            "法力提升",
+            "提供免疫",
+            "鬼魂形态与隐藏",
+            "绕过"
         ],
         "source": "额外抽奖-秘密召唤",
         "Release date": "2025-04-22",
@@ -34022,7 +39582,7 @@ window.allHeroes =
         "family": "mimic",
         "image": "https://imgur.com/RRFijVL.jpg",
         "costume_id": 0,
-        "originalIndex": 1030
+        "originalIndex": 1031
     },
     {
         "name": "炎皮 (Flamehide)",
@@ -34036,6 +39596,11 @@ window.allHeroes =
             "攻击单个目标",
             "持剑守卫超级小兵",
             "扩散型持续伤害"
+        ],
+        "skill_types": [
+            "狙击手",
+            "召唤巨型小兵",
+            "持续伤害"
         ],
         "source": "哥布林召唤",
         "Release date": "2025-04-11",
@@ -34056,7 +39621,7 @@ window.allHeroes =
         "family": "garrisonguard",
         "image": "https://imgur.com/6fcJPYy.jpg",
         "costume_id": 0,
-        "originalIndex": 1031
+        "originalIndex": 1032
     },
     {
         "name": "飞力普 (Flip)",
@@ -34070,6 +39635,11 @@ window.allHeroes =
             "治疗者",
             "全体无视防御",
             "全体暴击增益"
+        ],
+        "skill_types": [
+            "攻击增益",
+            "绕过",
+            "治疗"
         ],
         "source": "月活动-海滩派对",
         "Release date": "2023-06-12",
@@ -34085,12 +39655,12 @@ window.allHeroes =
         ],
         "passives": [
             "抵抗水系伤害：该角色天生对水系伤害有抵抗能力。",
-            "特殊技能附带持续伤害：当该角色施放其特殊技能时，所有敌人会在 200 回合内受到 2 点水系伤害。"
+            "特殊技能附带持续伤害：当该角色施放其特殊技能时，所有敌人会在 2 回合内受到 200 点水系伤害。"
         ],
         "family": "beachparty",
         "image": "https://i.imgur.com/VLECZaD.jpg",
         "costume_id": 0,
-        "originalIndex": 1032
+        "originalIndex": 1033
     },
     {
         "name": "飞力普 (Flip) C1",
@@ -34105,6 +39675,11 @@ window.allHeroes =
             "全体无视防御",
             "全体暴击增益"
         ],
+        "skill_types": [
+            "攻击增益",
+            "绕过",
+            "治疗"
+        ],
         "source": "月活动-海滩派对",
         "Release date": "2025-06-03",
         "star": 5,
@@ -34118,13 +39693,13 @@ window.allHeroes =
             "所有盟友获得 +55% 暴击几率，持续 4 回合。"
         ],
         "passives": [
-            "特殊技能附带持续伤害：当该角色施放其特殊技能时，所有敌人会在 272 回合内受到 2 点水系伤害。",
+            "特殊技能附带持续伤害：当该角色施放其特殊技能时，所有敌人会在 2 回合内受到 272 点水系伤害。",
             "抵抗水系伤害：该角色天生对水系伤害有抵抗能力。"
         ],
         "family": "beachparty",
         "image": "https://imgur.com/r5YqJOC.jpg",
         "costume_id": 1,
-        "originalIndex": 1033
+        "originalIndex": 1034
     },
     {
         "name": "富尔维亚 (Fulvia)",
@@ -34138,6 +39713,12 @@ window.allHeroes =
             "攻击3个目标",
             "3个目标法力削减",
             "3个目标治疗降低"
+        ],
+        "skill_types": [
+            "范围攻击 (打3)",
+            "额外伤害",
+            "治疗削减",
+            "法力削减或格挡"
         ],
         "source": "高塔-猫头鹰",
         "Release date": "2023-12-20",
@@ -34157,7 +39738,7 @@ window.allHeroes =
         "family": "owl",
         "image": "https://i.imgur.com/Z2G4Lwa.jpg",
         "costume_id": 0,
-        "originalIndex": 1034
+        "originalIndex": 1035
     },
     {
         "name": "绯红 (Garnet)",
@@ -34171,6 +39752,10 @@ window.allHeroes =
             "蓄力者",
             "生命值加成",
             "状态异常免疫"
+        ],
+        "skill_types": [
+            "生命强化",
+            "提供免疫"
         ],
         "source": "高塔-忍者",
         "Release date": "2020-10-13",
@@ -34194,7 +39779,7 @@ window.allHeroes =
         "family": "ninja",
         "image": "https://i.imgur.com/Vxe7UpD.jpg",
         "costume_id": 0,
-        "originalIndex": 1035
+        "originalIndex": 1036
     },
     {
         "name": "格费因 (Gefjon)",
@@ -34207,6 +39792,10 @@ window.allHeroes =
         "types": [
             "偷取1个小兵",
             "攻击单个目标"
+        ],
+        "skill_types": [
+            "反制小兵",
+            "狙击手"
         ],
         "source": "S3-瓦尔哈拉",
         "Release date": "2020-10-22",
@@ -34223,7 +39812,7 @@ window.allHeroes =
         "family": "muspelheim",
         "image": "https://i.imgur.com/BYGrEEN.jpg",
         "costume_id": 0,
-        "originalIndex": 1036
+        "originalIndex": 1037
     },
     {
         "name": "格费因 (Gefjon) C1",
@@ -34236,6 +39825,10 @@ window.allHeroes =
         "types": [
             "摧毁小兵",
             "攻击3个目标"
+        ],
+        "skill_types": [
+            "范围攻击 (打3)",
+            "反制小兵"
         ],
         "source": "S3-瓦尔哈拉",
         "Release date": "2022-09-26",
@@ -34252,7 +39845,7 @@ window.allHeroes =
         "family": "muspelheim",
         "image": "https://i.imgur.com/ZoOkEJb.jpg",
         "costume_id": 1,
-        "originalIndex": 1037
+        "originalIndex": 1038
     },
     {
         "name": "格式塔 (Gestalt)",
@@ -34265,6 +39858,11 @@ window.allHeroes =
         "types": [
             "攻击 (3/5) 个目标",
             "防御降低"
+        ],
+        "skill_types": [
+            "连锁与随机攻击",
+            "防御减益",
+            "法力削减或格挡"
         ],
         "source": "S6-S7-秘闻",
         "Release date": "2023-09-27",
@@ -34296,7 +39894,7 @@ window.allHeroes =
         "family": "nightmaresofatlantis",
         "image": "https://i.imgur.com/vMt41XY.jpg",
         "costume_id": 0,
-        "originalIndex": 1038
+        "originalIndex": 1039
     },
     {
         "name": "格式塔 (Gestalt) C1",
@@ -34309,6 +39907,11 @@ window.allHeroes =
         "types": [
             "攻击 (3/5) 个目标",
             "防御降低"
+        ],
+        "skill_types": [
+            "连锁与随机攻击",
+            "防御减益",
+            "法力削减或格挡"
         ],
         "source": "S6-S7-秘闻",
         "Release date": "2024-06-20",
@@ -34341,7 +39944,7 @@ window.allHeroes =
         "family": "nightmaresofatlantis",
         "image": "https://i.imgur.com/WnfoNeZ.jpg",
         "costume_id": 1,
-        "originalIndex": 1039
+        "originalIndex": 1040
     },
     {
         "name": "古兹 (Gooze)",
@@ -34355,6 +39958,11 @@ window.allHeroes =
             "挑衅所有敌人",
             "全体盟友粘性表面",
             "全体防御增益"
+        ],
+        "skill_types": [
+            "增益窃取者",
+            "防御增益",
+            "状态效果格挡"
         ],
         "source": "超级元素人",
         "Release date": "2025-05-04",
@@ -34376,7 +39984,7 @@ window.allHeroes =
         "family": "slime",
         "image": "https://imgur.com/GSjZbQW.jpg",
         "costume_id": 0,
-        "originalIndex": 1040
+        "originalIndex": 1041
     },
     {
         "name": "造墓人 (Gravemaker)",
@@ -34389,6 +39997,13 @@ window.allHeroes =
         "types": [
             "攻击3个目标",
             "3个目标持续伤害"
+        ],
+        "skill_types": [
+            "范围攻击 (打3)",
+            "持续伤害",
+            "额外伤害",
+            "攻击增益",
+            "防御增益"
         ],
         "source": "月英",
         "Release date": "2018-06-01T00:00:00",
@@ -34407,7 +40022,7 @@ window.allHeroes =
         "family": 2018,
         "image": "https://i.imgur.com/pPTSbFy.jpg",
         "costume_id": 0,
-        "originalIndex": 1041
+        "originalIndex": 1042
     },
     {
         "name": "造墓人 (Gravemaker) C1",
@@ -34420,6 +40035,13 @@ window.allHeroes =
         "types": [
             "攻击所有目标",
             "全体持续伤害"
+        ],
+        "skill_types": [
+            "全体攻击 (打5)",
+            "持续伤害",
+            "驱散",
+            "攻击增益",
+            "防御增益"
         ],
         "source": "月英",
         "Release date": "2021-10-20",
@@ -34439,7 +40061,7 @@ window.allHeroes =
         "family": 2018,
         "image": "https://i.imgur.com/qMb0Vgk.jpg",
         "costume_id": 1,
-        "originalIndex": 1042
+        "originalIndex": 1043
     },
     {
         "name": "格拉祖 (Grazul)",
@@ -34452,6 +40074,11 @@ window.allHeroes =
         "types": [
             "治疗者",
             "状态异常免疫"
+        ],
+        "skill_types": [
+            "治疗",
+            "提供免疫",
+            "法力生成增益"
         ],
         "source": "月英",
         "Release date": "2019-09-01",
@@ -34471,7 +40098,7 @@ window.allHeroes =
         "family": 2019,
         "image": "https://i.imgur.com/URTQAvF.jpg",
         "costume_id": 0,
-        "originalIndex": 1043
+        "originalIndex": 1044
     },
     {
         "name": "金刚守护者 (Guardian Kong)",
@@ -34485,6 +40112,11 @@ window.allHeroes =
             "攻击所有目标",
             "全体元素防御增益",
             "全体净化"
+        ],
+        "skill_types": [
+            "全体攻击 (打5)",
+            "防御增益",
+            "净化"
         ],
         "source": "挑战节-守护者",
         "Release date": "2020-05-01",
@@ -34502,7 +40134,7 @@ window.allHeroes =
         "family": "guardiansteltoc",
         "image": "https://i.imgur.com/4n0L387.jpg",
         "costume_id": 0,
-        "originalIndex": 1044
+        "originalIndex": 1045
     },
     {
         "name": "金刚守护者 (Guardian Kong) C1",
@@ -34517,6 +40149,11 @@ window.allHeroes =
             "全体元素反射",
             "全体元素反击",
             "全体驱散"
+        ],
+        "skill_types": [
+            "全体攻击 (打5)",
+            "驱散",
+            "反射"
         ],
         "source": "挑战节-守护者",
         "Release date": "2022-04-14",
@@ -34534,7 +40171,7 @@ window.allHeroes =
         "family": "guardiansteltoc",
         "image": "https://i.imgur.com/cXwWGpL.jpg",
         "costume_id": 1,
-        "originalIndex": 1045
+        "originalIndex": 1046
     },
     {
         "name": "格法 (Guffa)",
@@ -34549,6 +40186,13 @@ window.allHeroes =
             "单体法力生成增益",
             "除自身外软肤",
             "延迟治疗者"
+        ],
+        "skill_types": [
+            "嘲讽",
+            "法力生成增益",
+            "伤害减免",
+            "提供免疫",
+            "治疗"
         ],
         "source": "挑战-重返圣堂",
         "Release date": "2024-07-25",
@@ -34569,7 +40213,7 @@ window.allHeroes =
         "family": "gargoyle",
         "image": "https://i.imgur.com/i3PGL4o.jpg",
         "costume_id": 0,
-        "originalIndex": 1046
+        "originalIndex": 1047
     },
     {
         "name": "叮当铁锤 (Hammerclang)",
@@ -34583,6 +40227,13 @@ window.allHeroes =
             "攻击所有目标",
             "全体伤害增加减益",
             "全体攻击降低"
+        ],
+        "skill_types": [
+            "全体攻击 (打5)",
+            "额外伤害",
+            "攻击减益",
+            "绕过",
+            "伤害分摊"
         ],
         "source": "星体召唤",
         "Release date": "2024-03-28",
@@ -34604,7 +40255,7 @@ window.allHeroes =
         "family": "astralelves",
         "image": "https://i.imgur.com/ujdL1Bx.jpg",
         "costume_id": 0,
-        "originalIndex": 1047
+        "originalIndex": 1048
     },
     {
         "name": "哈索尔 (Hathor)",
@@ -34617,6 +40268,10 @@ window.allHeroes =
         "types": [
             "生命值加成",
             "状态异常免疫"
+        ],
+        "skill_types": [
+            "生命强化",
+            "提供免疫"
         ],
         "source": "S5-沙丘",
         "Release date": "2022-12-22",
@@ -34637,7 +40292,7 @@ window.allHeroes =
         "family": "moon",
         "image": "https://i.imgur.com/sV7BVbk.jpg",
         "costume_id": 0,
-        "originalIndex": 1048
+        "originalIndex": 1049
     },
     {
         "name": "哈索尔 (Hathor) C1",
@@ -34650,6 +40305,12 @@ window.allHeroes =
         "types": [
             "持续治疗",
             "状态异常免疫"
+        ],
+        "skill_types": [
+            "生命强化",
+            "提供免疫",
+            "持续治疗",
+            "法力提升"
         ],
         "source": "S5-沙丘",
         "Release date": "2024-02-05",
@@ -34672,7 +40333,7 @@ window.allHeroes =
         "family": "moon",
         "image": "https://i.imgur.com/blidD7L.jpg",
         "costume_id": 1,
-        "originalIndex": 1049
+        "originalIndex": 1050
     },
     {
         "name": "霍恩韦尔夫 (Hohenwerf)",
@@ -34686,6 +40347,12 @@ window.allHeroes =
             "攻击单个目标",
             "召唤1个恶魔",
             "爆炸型失心攻击恶魔"
+        ],
+        "skill_types": [
+            "召唤恶魔",
+            "精神错乱攻击&治疗",
+            "狙击手",
+            "伤害减免"
         ],
         "source": "挑战-石像鬼",
         "Release date": "2022-09-08",
@@ -34706,7 +40373,7 @@ window.allHeroes =
         "family": "gargoyle",
         "image": "https://i.imgur.com/mNDZ6lN.jpg",
         "costume_id": 0,
-        "originalIndex": 1050
+        "originalIndex": 1051
     },
     {
         "name": "角岩 (Hornfel)",
@@ -34720,6 +40387,10 @@ window.allHeroes =
             "攻击3个目标",
             "击倒",
             "3个目标攻击增益"
+        ],
+        "skill_types": [
+            "范围攻击 (打3)",
+            "攻击增益"
         ],
         "source": "盟约召唤",
         "Release date": "2024-01-16",
@@ -34746,7 +40417,7 @@ window.allHeroes =
         "family": "construct",
         "image": "https://i.imgur.com/ScWEXwn.jpg",
         "costume_id": 0,
-        "originalIndex": 1051
+        "originalIndex": 1052
     },
     {
         "name": "修普诺斯 (Hypnos)",
@@ -34760,6 +40431,11 @@ window.allHeroes =
             "蓄力",
             "攻击所有目标",
             "全体增益免疫",
+            "驱散"
+        ],
+        "skill_types": [
+            "全体攻击 (打5)",
+            "增益格挡者",
             "驱散"
         ],
         "source": "高塔-冥河",
@@ -34790,7 +40466,7 @@ window.allHeroes =
         "family": "styx",
         "image": "https://i.imgur.com/HPFyboz.jpg",
         "costume_id": 0,
-        "originalIndex": 1052
+        "originalIndex": 1053
     },
     {
         "name": "亚莱斯 (Iarlaith)",
@@ -34803,6 +40479,12 @@ window.allHeroes =
         "types": [
             "攻击单个目标",
             "全体伤害增加叠加"
+        ],
+        "skill_types": [
+            "额外伤害",
+            "狙击手",
+            "叠加",
+            "伤害分摊"
         ],
         "source": "哥布林召唤",
         "Release date": "2025-04-29",
@@ -34823,7 +40505,7 @@ window.allHeroes =
         "family": "garrisonguard",
         "image": "https://imgur.com/ruIGzTu.jpg",
         "costume_id": 0,
-        "originalIndex": 1053
+        "originalIndex": 1054
     },
     {
         "name": "伊格纳奇奥 (Ignazio)",
@@ -34838,6 +40520,12 @@ window.allHeroes =
             "火元素治疗",
             "全体攻击增益",
             "全体净化"
+        ],
+        "skill_types": [
+            "攻击增益",
+            "净化",
+            "治疗",
+            "特殊治疗"
         ],
         "source": "超级元素人",
         "Release date": "2023-03-27",
@@ -34862,7 +40550,7 @@ window.allHeroes =
         "family": "superelemental",
         "image": "https://i.imgur.com/y6oi4Yq.jpg",
         "costume_id": 0,
-        "originalIndex": 1054
+        "originalIndex": 1055
     },
     {
         "name": "伊格纳奇奥 (Ignazio) C1",
@@ -34877,6 +40565,12 @@ window.allHeroes =
             "火元素治疗",
             "全体攻击增益",
             "全体净化"
+        ],
+        "skill_types": [
+            "攻击增益",
+            "净化",
+            "治疗",
+            "特殊治疗"
         ],
         "source": "超级元素人",
         "Release date": "2025-05-24",
@@ -34901,7 +40595,7 @@ window.allHeroes =
         "family": "superelemental",
         "image": "https://imgur.com/jf9JtOu.jpg",
         "costume_id": 1,
-        "originalIndex": 1055
+        "originalIndex": 1056
     },
     {
         "name": "伊尔玛利宁 (Ilmarinen)",
@@ -34915,6 +40609,11 @@ window.allHeroes =
             "全体法力削减",
             "敌方伤害分担",
             "防御降低"
+        ],
+        "skill_types": [
+            "伤害分摊",
+            "法力削减或格挡",
+            "防御减益"
         ],
         "source": "月活动-卡勒瓦拉",
         "Release date": "2022-06-20",
@@ -34934,7 +40633,7 @@ window.allHeroes =
         "family": "kalevala",
         "image": "https://i.imgur.com/WriV7pU.jpg",
         "costume_id": 0,
-        "originalIndex": 1056
+        "originalIndex": 1057
     },
     {
         "name": "约坎塔 (Iocantha)",
@@ -34949,6 +40648,11 @@ window.allHeroes =
             "攻击单个目标",
             "随机攻击2次",
             "减少增益持续时间"
+        ],
+        "skill_types": [
+            "绕过",
+            "连锁与随机攻击",
+            "效果持续重置"
         ],
         "source": "哥布林召唤",
         "Release date": "2024-07-07",
@@ -34969,7 +40673,7 @@ window.allHeroes =
         "family": "garrisonguard",
         "image": "https://i.imgur.com/mk7552K.jpg",
         "costume_id": 0,
-        "originalIndex": 1057
+        "originalIndex": 1058
     },
     {
         "name": "艾西多尔 (Isidore)",
@@ -34985,7 +40689,13 @@ window.allHeroes =
             "攻击单个目标",
             "随机攻击9次"
         ],
-        "source": "S4-荒野",
+        "skill_types": [
+            "防御减益",
+            "沉默",
+            "连锁与随机攻击",
+            "反制小兵"
+        ],
+        "source": "荒野召唤",
         "Release date": "2024-12-31",
         "star": 5,
         "power": 1154,
@@ -35004,7 +40714,7 @@ window.allHeroes =
         "family": "woodlandfaun",
         "image": "https://i.imgur.com/sj8AKxx.jpg",
         "costume_id": 0,
-        "originalIndex": 1058
+        "originalIndex": 1059
     },
     {
         "name": "艾斯罗德 (Isrod)",
@@ -35018,6 +40728,11 @@ window.allHeroes =
             "攻击3个目标",
             "3个目标反击",
             "反击时获得法力"
+        ],
+        "skill_types": [
+            "范围攻击 (打3)",
+            "反击",
+            "法力提升"
         ],
         "source": "挑战节-恶棍",
         "Release date": "2021-02-11",
@@ -35035,7 +40750,7 @@ window.allHeroes =
         "family": "villains",
         "image": "https://i.imgur.com/LVoPJQp.jpg",
         "costume_id": 0,
-        "originalIndex": 1059
+        "originalIndex": 1060
     },
     {
         "name": "让-弗朗索瓦 (Jean-Francois)",
@@ -35047,6 +40762,12 @@ window.allHeroes =
         "skill": "火焰缄印",
         "types": [
             "全体持续伤害"
+        ],
+        "skill_types": [
+            "攻击增益",
+            "防御增益",
+            "持续伤害",
+            "提供免疫"
         ],
         "source": "月英",
         "Release date": "2020-02-01",
@@ -35067,7 +40788,7 @@ window.allHeroes =
         "family": 2020,
         "image": "https://i.imgur.com/Fq9orae.jpg",
         "costume_id": 0,
-        "originalIndex": 1060
+        "originalIndex": 1061
     },
     {
         "name": "可汗 (Khagan)",
@@ -35081,6 +40802,11 @@ window.allHeroes =
             "攻击3个目标",
             "3个目标法力生成增益",
             "3个目标防御增益"
+        ],
+        "skill_types": [
+            "范围攻击 (打3)",
+            "防御增益",
+            "法力生成增益"
         ],
         "source": "S1-经典",
         "Release date": "2017-01-01",
@@ -35098,7 +40824,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/Qk5TZ17.jpg",
         "costume_id": 0,
-        "originalIndex": 1061
+        "originalIndex": 1062
     },
     {
         "name": "可汗 (Khagan) C1",
@@ -35112,6 +40838,11 @@ window.allHeroes =
             "攻击单个目标",
             "全体法力生成增益",
             "全体防御增益"
+        ],
+        "skill_types": [
+            "防御增益",
+            "法力生成增益",
+            "狙击手"
         ],
         "source": "S1-经典",
         "Release date": "2021-01-18",
@@ -35129,7 +40860,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/Wuav96d.jpg",
         "costume_id": 1,
-        "originalIndex": 1062
+        "originalIndex": 1063
     },
     {
         "name": "可汗 (Khagan) C2",
@@ -35143,6 +40874,11 @@ window.allHeroes =
             "攻击所有目标",
             "全体法力持续恢复",
             "全体防御增益"
+        ],
+        "skill_types": [
+            "全体攻击 (打5)",
+            "法力提升",
+            "防御增益"
         ],
         "source": "S1-经典",
         "Release date": "2022-09-05",
@@ -35160,7 +40896,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/Az13Jne.jpg",
         "costume_id": 2,
-        "originalIndex": 1063
+        "originalIndex": 1064
     },
     {
         "name": "可汗 (Khagan) 卡通",
@@ -35174,6 +40910,12 @@ window.allHeroes =
             "攻击3个目标",
             "3个目标法力生成增益",
             "3个目标防御增益"
+        ],
+        "skill_types": [
+            "范围攻击 (打3)",
+            "法力生成增益",
+            "防御增益",
+            "额外伤害"
         ],
         "source": "S1-经典",
         "Release date": "2024-04-08",
@@ -35194,7 +40936,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/tV5jaYy.jpg",
         "costume_id": 3,
-        "originalIndex": 1064
+        "originalIndex": 1065
     },
     {
         "name": "可汗 (Khagan) 玻璃",
@@ -35209,6 +40951,12 @@ window.allHeroes =
             "无视防御",
             "3个目标法力生成增益",
             "3个目标防御增益"
+        ],
+        "skill_types": [
+            "范围攻击 (打3)",
+            "防御增益",
+            "绕过",
+            "法力生成增益"
         ],
         "source": "S1-经典",
         "Release date": "2025-06-18",
@@ -35229,7 +40977,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://imgur.com/gv5Agq9.jpg",
         "costume_id": 4,
-        "originalIndex": 1065
+        "originalIndex": 1066
     },
     {
         "name": "胡夫 (Khufu)",
@@ -35243,6 +40991,11 @@ window.allHeroes =
             "攻击单个目标",
             "连锁",
             "元素防御降低"
+        ],
+        "skill_types": [
+            "连锁与随机攻击",
+            "防御减益",
+            "狙击手"
         ],
         "source": "S5-沙丘",
         "Release date": "2022-04-21",
@@ -35264,7 +41017,7 @@ window.allHeroes =
         "family": "sun",
         "image": "https://i.imgur.com/waF0HXl.jpg",
         "costume_id": 0,
-        "originalIndex": 1066
+        "originalIndex": 1067
     },
     {
         "name": "胡夫 (Khufu) C1",
@@ -35278,6 +41031,10 @@ window.allHeroes =
             "攻击单个目标",
             "连锁",
             "元素防御降低"
+        ],
+        "skill_types": [
+            "狙击手",
+            "连锁与随机攻击"
         ],
         "source": "S5-沙丘",
         "Release date": "2024-11-01",
@@ -35301,7 +41058,7 @@ window.allHeroes =
         "family": "sun",
         "image": "https://i.imgur.com/5tsbayA.jpg",
         "costume_id": 1,
-        "originalIndex": 1067
+        "originalIndex": 1068
     },
     {
         "name": "克拉夫克鲁什 (Kravekrush)",
@@ -35314,6 +41071,10 @@ window.allHeroes =
         "types": [
             "阻止复活",
             "攻击3个目标"
+        ],
+        "skill_types": [
+            "范围攻击 (打3)",
+            "复活抑制"
         ],
         "source": "S4-蛮荒地界",
         "Release date": "2022-02-24",
@@ -35333,7 +41094,7 @@ window.allHeroes =
         "family": "underwild",
         "image": "https://i.imgur.com/xMJYpsy.jpg",
         "costume_id": 0,
-        "originalIndex": 1068
+        "originalIndex": 1069
     },
     {
         "name": "克拉夫克鲁什 (Kravekrush) C1",
@@ -35346,6 +41107,10 @@ window.allHeroes =
         "types": [
             "阻止复活",
             "攻击3个目标"
+        ],
+        "skill_types": [
+            "复活抑制",
+            "范围攻击 (打3)"
         ],
         "source": "S4-蛮荒地界",
         "Release date": "2024-09-26",
@@ -35366,7 +41131,7 @@ window.allHeroes =
         "family": "underwild",
         "image": "https://i.imgur.com/m5PtQ2l.jpg",
         "costume_id": 1,
-        "originalIndex": 1069
+        "originalIndex": 1070
     },
     {
         "name": "洛基夫人 (Lady Loki)",
@@ -35379,6 +41144,11 @@ window.allHeroes =
         "types": [
             "移除状态异常",
             "攻击所有目标"
+        ],
+        "skill_types": [
+            "全体攻击 (打5)",
+            "净化",
+            "额外伤害"
         ],
         "source": "S3-瓦尔哈拉",
         "Release date": "2020-07-23",
@@ -35396,7 +41166,7 @@ window.allHeroes =
         "family": "helheim",
         "image": "https://i.imgur.com/NzRPKjE.jpg",
         "costume_id": 0,
-        "originalIndex": 1070
+        "originalIndex": 1071
     },
     {
         "name": "洛基夫人 (Lady Loki) C1",
@@ -35409,6 +41179,11 @@ window.allHeroes =
         "types": [
             "移除状态异常",
             "攻击所有目标"
+        ],
+        "skill_types": [
+            "全体攻击 (打5)",
+            "净化",
+            "额外伤害"
         ],
         "source": "S3-瓦尔哈拉",
         "Release date": "2023-10-23",
@@ -35426,7 +41201,7 @@ window.allHeroes =
         "family": "helheim",
         "image": "https://i.imgur.com/R89Eh1b.jpg",
         "costume_id": 1,
-        "originalIndex": 1071
+        "originalIndex": 1072
     },
     {
         "name": "拉萨尔 (Lasalle)",
@@ -35439,6 +41214,11 @@ window.allHeroes =
         "types": [
             "攻击单个目标",
             "召唤1个复制恶魔"
+        ],
+        "skill_types": [
+            "召唤恶魔",
+            "狙击手",
+            "持续伤害"
         ],
         "source": "S6-S7-秘闻",
         "Release date": "2023-06-07",
@@ -35469,7 +41249,7 @@ window.allHeroes =
         "family": "defendersofatlantis",
         "image": "https://i.imgur.com/bpyUqBe.jpg",
         "costume_id": 0,
-        "originalIndex": 1072
+        "originalIndex": 1073
     },
     {
         "name": "拉萨尔 (Lasalle) C1",
@@ -35482,6 +41262,11 @@ window.allHeroes =
         "types": [
             "攻击单个目标",
             "召唤1个复制恶魔"
+        ],
+        "skill_types": [
+            "狙击手",
+            "召唤恶魔",
+            "持续伤害"
         ],
         "source": "S6-S7-秘闻",
         "Release date": "2024-09-21",
@@ -35512,7 +41297,7 @@ window.allHeroes =
         "family": "defendersofatlantis",
         "image": "https://imgur.com/SU2agg6.jpg",
         "costume_id": 1,
-        "originalIndex": 1073
+        "originalIndex": 1074
     },
     {
         "name": "莱维娜 (Lewena)",
@@ -35525,6 +41310,11 @@ window.allHeroes =
         "types": [
             "全体天赋沉默",
             "攻击所有目标"
+        ],
+        "skill_types": [
+            "全体攻击 (打5)",
+            "沉默",
+            "状态效果格挡"
         ],
         "source": "联盟-骑士冲击",
         "Release date": "2022-01-05",
@@ -35541,7 +41331,7 @@ window.allHeroes =
         "family": "raven",
         "image": "https://i.imgur.com/gUcWHX0.jpg",
         "costume_id": 0,
-        "originalIndex": 1074
+        "originalIndex": 1075
     },
     {
         "name": "李逵 (Li Kui)",
@@ -35557,6 +41347,11 @@ window.allHeroes =
             "随机攻击4次",
             "嘲讽",
             "自我伤害减免"
+        ],
+        "skill_types": [
+            "连锁与随机攻击",
+            "伤害减免",
+            "嘲讽"
         ],
         "source": "三国召唤",
         "Release date": "2025-05-22",
@@ -35582,7 +41377,7 @@ window.allHeroes =
         "family": "outlaws",
         "image": "https://imgur.com/lLZBxt1.jpg",
         "costume_id": 0,
-        "originalIndex": 1075
+        "originalIndex": 1076
     },
     {
         "name": "洛迪乌斯 (Lodius)",
@@ -35595,6 +41390,12 @@ window.allHeroes =
         "types": [
             "攻击单个目标",
             "反击"
+        ],
+        "skill_types": [
+            "反击",
+            "额外伤害",
+            "法力削减或格挡",
+            "狙击手"
         ],
         "source": "高塔-猫头鹰",
         "Release date": "2024-02-14",
@@ -35614,7 +41415,7 @@ window.allHeroes =
         "family": "owl",
         "image": "https://i.imgur.com/SHNhyqR.jpg",
         "costume_id": 0,
-        "originalIndex": 1076
+        "originalIndex": 1077
     },
     {
         "name": "疯锤儿 (Madhammer)",
@@ -35628,6 +41429,12 @@ window.allHeroes =
             "攻击单个目标",
             "1次额外攻击几率",
             "黑野猪超级小兵"
+        ],
+        "skill_types": [
+            "连锁与随机攻击",
+            "净化格挡者",
+            "召唤巨型小兵",
+            "狙击手"
         ],
         "source": "哥布林召唤",
         "Release date": "2023-10-16",
@@ -35650,7 +41457,7 @@ window.allHeroes =
         "family": "goblin",
         "image": "https://i.imgur.com/dPF8ESH.jpg",
         "costume_id": 0,
-        "originalIndex": 1077
+        "originalIndex": 1078
     },
     {
         "name": "灾厄 (Malum)",
@@ -35665,6 +41472,14 @@ window.allHeroes =
             "3个目标最大生命值降低",
             "攻击3个目标",
             "无视防御"
+        ],
+        "skill_types": [
+            "最大生命削减",
+            "范围攻击 (打3)",
+            "绕过",
+            "狙击手",
+            "治疗削减",
+            "反制小兵"
         ],
         "source": "高塔-忍者",
         "Release date": "2024-09-24",
@@ -35694,7 +41509,7 @@ window.allHeroes =
         "family": "ninja",
         "image": "https://i.imgur.com/bcCvi3b.jpg",
         "costume_id": 0,
-        "originalIndex": 1078
+        "originalIndex": 1079
     },
     {
         "name": "马里亚娜 (Marjana)",
@@ -35707,6 +41522,10 @@ window.allHeroes =
         "types": [
             "攻击单个目标",
             "单体持续伤害"
+        ],
+        "skill_types": [
+            "持续伤害",
+            "狙击手"
         ],
         "source": "S1-经典",
         "Release date": "2017-01-01",
@@ -35723,7 +41542,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/H8u69R9.jpg",
         "costume_id": 0,
-        "originalIndex": 1079
+        "originalIndex": 1080
     },
     {
         "name": "马里亚娜 (Marjana) C1",
@@ -35737,6 +41556,11 @@ window.allHeroes =
             "攻击3个目标",
             "元素防御降低",
             "元素攻击降低"
+        ],
+        "skill_types": [
+            "范围攻击 (打3)",
+            "防御减益",
+            "攻击减益"
         ],
         "source": "S1-经典",
         "Release date": "2021-01-18",
@@ -35754,7 +41578,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/E1sWcp1.jpg",
         "costume_id": 1,
-        "originalIndex": 1080
+        "originalIndex": 1081
     },
     {
         "name": "马里亚娜 (Marjana) C2",
@@ -35767,6 +41591,11 @@ window.allHeroes =
         "types": [
             "攻击3个目标",
             "防御降低",
+            "持续伤害"
+        ],
+        "skill_types": [
+            "范围攻击 (打3)",
+            "防御减益",
             "持续伤害"
         ],
         "source": "S1-经典",
@@ -35785,7 +41614,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/onSikNW.jpg",
         "costume_id": 2,
-        "originalIndex": 1081
+        "originalIndex": 1082
     },
     {
         "name": "马里亚娜 (Marjana) 卡通",
@@ -35798,6 +41627,11 @@ window.allHeroes =
         "types": [
             "攻击单个目标",
             "单体持续伤害"
+        ],
+        "skill_types": [
+            "持续伤害",
+            "额外伤害",
+            "狙击手"
         ],
         "source": "S1-经典",
         "Release date": "2023-12-25",
@@ -35817,7 +41651,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/CuDeIo0.jpg",
         "costume_id": 3,
-        "originalIndex": 1082
+        "originalIndex": 1083
     },
     {
         "name": "马里亚娜 (Marjana) 玻璃",
@@ -35831,6 +41665,11 @@ window.allHeroes =
             "攻击单个目标",
             "无视防御",
             "单体持续伤害"
+        ],
+        "skill_types": [
+            "绕过",
+            "持续伤害",
+            "狙击手"
         ],
         "source": "S1-经典",
         "Release date": "2025-02-10",
@@ -35850,7 +41689,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/wWSeZW9.jpg",
         "costume_id": 4,
-        "originalIndex": 1083
+        "originalIndex": 1084
     },
     {
         "name": "光子 (Mitsuko)",
@@ -35865,6 +41704,11 @@ window.allHeroes =
             "3个目标法力削减",
             "全体元素反射",
             "全体元素反击"
+        ],
+        "skill_types": [
+            "范围攻击 (打3)",
+            "法力削减或格挡",
+            "反射"
         ],
         "source": "S2-亚特兰蒂斯",
         "Release date": "2017-01-01",
@@ -35882,7 +41726,7 @@ window.allHeroes =
         "family": "sakura",
         "image": "https://i.imgur.com/xMxFVwW.jpg",
         "costume_id": 0,
-        "originalIndex": 1084
+        "originalIndex": 1085
     },
     {
         "name": "光子 (Mitsuko) C1",
@@ -35897,6 +41741,11 @@ window.allHeroes =
             "3个目标法力生成降低",
             "全体元素反射",
             "全体元素反击"
+        ],
+        "skill_types": [
+            "全体攻击 (打5)",
+            "反射",
+            "法力削减或格挡"
         ],
         "source": "S2-亚特兰蒂斯",
         "Release date": "2023-03-06",
@@ -35914,7 +41763,7 @@ window.allHeroes =
         "family": "sakura",
         "image": "https://i.imgur.com/8AHvvyw.jpg",
         "costume_id": 1,
-        "originalIndex": 1085
+        "originalIndex": 1086
     },
     {
         "name": "纳德兹达 (Nadezhda)",
@@ -35931,6 +41780,12 @@ window.allHeroes =
             "复活者",
             "全体持续治疗",
             "伤害减免"
+        ],
+        "skill_types": [
+            "伤害减免",
+            "持续伤害",
+            "持续治疗",
+            "复活"
         ],
         "source": "高塔-魔法",
         "Release date": "2021-09-15",
@@ -35955,7 +41810,7 @@ window.allHeroes =
         "family": "magic",
         "image": "https://i.imgur.com/i5g8Fr0.jpg",
         "costume_id": 0,
-        "originalIndex": 1086
+        "originalIndex": 1087
     },
     {
         "name": "纳伊姆 (Naeem)",
@@ -35970,6 +41825,12 @@ window.allHeroes =
             "攻击3个目标",
             "3个目标反击",
             "3个目标沙化持续伤害"
+        ],
+        "skill_types": [
+            "范围攻击 (打3)",
+            "反击",
+            "持续伤害",
+            "状态效果转换"
         ],
         "source": "高塔-魔法",
         "Release date": "2025-04-17",
@@ -35994,7 +41855,7 @@ window.allHeroes =
         "family": "magiccarpet",
         "image": "https://imgur.com/F7qBR0P.jpg",
         "costume_id": 0,
-        "originalIndex": 1087
+        "originalIndex": 1088
     },
     {
         "name": "娜塔莉亚 (Natalya)",
@@ -36007,6 +41868,12 @@ window.allHeroes =
         "types": [
             "单体持续伤害",
             "法力生成降低"
+        ],
+        "skill_types": [
+            "持续伤害",
+            "额外伤害",
+            "法力生成增益",
+            "法力削减或格挡"
         ],
         "source": "月英",
         "Release date": "2018-01-01T00:00:00",
@@ -36025,7 +41892,7 @@ window.allHeroes =
         "family": 2018,
         "image": "https://i.imgur.com/vuOEJDC.jpg",
         "costume_id": 0,
-        "originalIndex": 1088
+        "originalIndex": 1089
     },
     {
         "name": "娜塔莉亚 (Natalya) C1",
@@ -36038,6 +41905,13 @@ window.allHeroes =
         "types": [
             "单体持续伤害",
             "法力生成降低"
+        ],
+        "skill_types": [
+            "持续伤害",
+            "额外伤害",
+            "法力生成增益",
+            "法力削减或格挡",
+            "驱散"
         ],
         "source": "月英",
         "Release date": "2023-05-15",
@@ -36058,7 +41932,7 @@ window.allHeroes =
         "family": 2018,
         "image": "https://i.imgur.com/IO9WHYd.jpg",
         "costume_id": 1,
-        "originalIndex": 1089
+        "originalIndex": 1090
     },
     {
         "name": "尼马 (Neema)",
@@ -36072,6 +41946,13 @@ window.allHeroes =
             "攻击所有目标",
             "召唤所有恶魔",
             "嘲讽格挡恶魔"
+        ],
+        "skill_types": [
+            "全体攻击 (打5)",
+            "召唤恶魔",
+            "嘲讽",
+            "持续伤害",
+            "攻击增益"
         ],
         "source": "月英",
         "Release date": "2023-11-01",
@@ -36094,7 +41975,7 @@ window.allHeroes =
         "family": 2023,
         "image": "https://i.imgur.com/hih0AUp.jpg",
         "costume_id": 0,
-        "originalIndex": 1090
+        "originalIndex": 1091
     },
     {
         "name": "尼布尔斯 (Nibbles)",
@@ -36108,6 +41989,11 @@ window.allHeroes =
             "全体治疗",
             "偷取全体1个增益",
             "全体持续治疗"
+        ],
+        "skill_types": [
+            "增益窃取者",
+            "持续治疗",
+            "治疗"
         ],
         "source": "丰收召唤",
         "Release date": "2025-06-03",
@@ -36127,7 +42013,7 @@ window.allHeroes =
         "family": "fox",
         "image": "https://imgur.com/i6CnqeB.jpg",
         "costume_id": 0,
-        "originalIndex": 1091
+        "originalIndex": 1092
     },
     {
         "name": "妮姬 (Niki)",
@@ -36140,6 +42026,11 @@ window.allHeroes =
         "types": [
             "攻击所有目标",
             "全体治疗"
+        ],
+        "skill_types": [
+            "全体攻击 (打5)",
+            "绕过",
+            "治疗"
         ],
         "source": "超级元素人",
         "Release date": "2024-02-26",
@@ -36163,7 +42054,7 @@ window.allHeroes =
         "family": "superelemental",
         "image": "https://i.imgur.com/yN68oIc.jpg",
         "costume_id": 0,
-        "originalIndex": 1092
+        "originalIndex": 1093
     },
     {
         "name": "浪子 (Nomad)",
@@ -36176,6 +42067,14 @@ window.allHeroes =
         "types": [
             "蓄力攻击",
             "攻击 (1/3/所有) 目标"
+        ],
+        "skill_types": [
+            "狙击手",
+            "范围攻击 (打3)",
+            "全体攻击 (打5)",
+            "额外伤害",
+            "法力生成增益",
+            "反制小兵"
         ],
         "source": "高塔-忍者",
         "Release date": "2024-08-27",
@@ -36204,7 +42103,7 @@ window.allHeroes =
         "family": "ninja",
         "image": "https://i.imgur.com/k0TDdBr.jpg",
         "costume_id": 0,
-        "originalIndex": 1093
+        "originalIndex": 1094
     },
     {
         "name": "诺尔 (Noor)",
@@ -36218,6 +42117,12 @@ window.allHeroes =
             "治疗者",
             "召唤者",
             "小兵摧毁者"
+        ],
+        "skill_types": [
+            "治疗",
+            "反制小兵",
+            "召唤小兵",
+            "防御增益"
         ],
         "source": "月英",
         "Release date": "2020-07-01",
@@ -36238,7 +42143,7 @@ window.allHeroes =
         "family": 2020,
         "image": "https://i.imgur.com/GEznO1b.jpg",
         "costume_id": 0,
-        "originalIndex": 1094
+        "originalIndex": 1095
     },
     {
         "name": "诺曼 (Norman)",
@@ -36252,6 +42157,10 @@ window.allHeroes =
             "无视闪避",
             "无视防御",
             "攻击所有目标"
+        ],
+        "skill_types": [
+            "全体攻击 (打5)",
+            "绕过"
         ],
         "source": "神话召唤",
         "Release date": "2024-01-11",
@@ -36273,7 +42182,7 @@ window.allHeroes =
         "family": "champions",
         "image": "https://i.imgur.com/xFLIwuu.jpg",
         "costume_id": 0,
-        "originalIndex": 1095
+        "originalIndex": 1096
     },
     {
         "name": "俄刻阿诺斯 (Oceanus)",
@@ -36285,6 +42194,11 @@ window.allHeroes =
         "skill": "巨神之力",
         "types": [
             "攻击所有目标",
+            "攻击增益",
+            "防御增益"
+        ],
+        "skill_types": [
+            "全体攻击 (打5)",
             "攻击增益",
             "防御增益"
         ],
@@ -36304,7 +42218,7 @@ window.allHeroes =
         "family": "atlantis",
         "image": "https://i.imgur.com/BZVWKzM.jpg",
         "costume_id": 0,
-        "originalIndex": 1096
+        "originalIndex": 1097
     },
     {
         "name": "奥克特斯 (Octros)",
@@ -36317,6 +42231,11 @@ window.allHeroes =
         "types": [
             "攻击所有目标",
             "攻击降低"
+        ],
+        "skill_types": [
+            "全体攻击 (打5)",
+            "攻击减益",
+            "额外伤害"
         ],
         "source": "S4-蛮荒地界",
         "Release date": "2021-10-07",
@@ -36336,7 +42255,7 @@ window.allHeroes =
         "family": "underwild",
         "image": "https://i.imgur.com/zGSnaa1.jpg",
         "costume_id": 0,
-        "originalIndex": 1097
+        "originalIndex": 1098
     },
     {
         "name": "奥克特斯 (Octros) C1",
@@ -36349,6 +42268,12 @@ window.allHeroes =
         "types": [
             "攻击所有目标",
             "全体攻击降低"
+        ],
+        "skill_types": [
+            "全体攻击 (打5)",
+            "攻击减益",
+            "额外伤害",
+            "攻击增益"
         ],
         "source": "S4-蛮荒地界",
         "Release date": "2023-08-17",
@@ -36369,7 +42294,7 @@ window.allHeroes =
         "family": "underwild",
         "image": "https://i.imgur.com/uAzDRXt.jpg",
         "costume_id": 1,
-        "originalIndex": 1098
+        "originalIndex": 1099
     },
     {
         "name": "奥门 (Omen)",
@@ -36383,6 +42308,12 @@ window.allHeroes =
             "攻击单个目标",
             "召唤1个复制恶魔",
             "施加狂乱的恶魔"
+        ],
+        "skill_types": [
+            "狙击手",
+            "召唤恶魔",
+            "持续伤害",
+            "对自身或友军负面效果"
         ],
         "source": "额外抽奖-秘密召唤",
         "Release date": "2024-04-21",
@@ -36405,7 +42336,7 @@ window.allHeroes =
         "family": "cultist",
         "image": "https://i.imgur.com/lX6ylxv.jpg",
         "costume_id": 0,
-        "originalIndex": 1099
+        "originalIndex": 1100
     },
     {
         "name": "奥提斯 (Otis)",
@@ -36419,6 +42350,12 @@ window.allHeroes =
             "攻击所有目标",
             "全体持续伤害",
             "全体治疗降低"
+        ],
+        "skill_types": [
+            "全体攻击 (打5)",
+            "持续伤害",
+            "治疗削减",
+            "净化"
         ],
         "source": "盟约召唤",
         "Release date": "2022-12-24",
@@ -36434,12 +42371,12 @@ window.allHeroes =
         ],
         "passives": [
             "猎手感知：当该角色施放其特殊技能时，有 100% 的几率将自身最新的状态异常转移给目标。如果其特殊技能无法选择敌方目标，则会随机转移至一名敌人。若此角色没有状态异常，则恢复自身 12% 的生命。",
-            "特殊技能附带持续伤害：当该角色施放其特殊技能时，会给一个随机敌人施加猎人印记。目标在 150 回合内受到 3 点伤害。如果目标已有此效果，则持续时间刷新，伤害增加 150 点，总伤害最高可达 1500 点。"
+            "特殊技能附带持续伤害：当该角色施放其特殊技能时，会给一个随机敌人施加猎人印记。目标在 3 回合内受到 150 点伤害。如果目标已有此效果，则持续时间刷新，伤害增加 150 点，总伤害最高可达 1500 点。"
         ],
         "family": "abysshunter",
         "image": "https://i.imgur.com/z2xqRCU.jpg",
         "costume_id": 0,
-        "originalIndex": 1100
+        "originalIndex": 1101
     },
     {
         "name": "奥蒂利娅 (Ottilia)",
@@ -36454,6 +42391,12 @@ window.allHeroes =
             "复制增益",
             "复制增益时自我治疗",
             "召唤者 (单体)"
+        ],
+        "skill_types": [
+            "狙击手",
+            "增益窃取者",
+            "特殊治疗",
+            "召唤小兵"
         ],
         "source": "月活动-冬日",
         "Release date": "2024-12-01",
@@ -36472,7 +42415,7 @@ window.allHeroes =
         "family": "christmas",
         "image": "https://i.imgur.com/Y8kn5Mx.jpg",
         "costume_id": 0,
-        "originalIndex": 1101
+        "originalIndex": 1102
     },
     {
         "name": "椒焰 (Pepperflame)",
@@ -36486,6 +42429,11 @@ window.allHeroes =
             "攻击3个目标",
             "成长",
             "3个目标防御降低"
+        ],
+        "skill_types": [
+            "属性修改",
+            "范围攻击 (打3)",
+            "防御减益"
         ],
         "source": "哥布林召唤",
         "Release date": "2024-01-08",
@@ -36507,7 +42455,7 @@ window.allHeroes =
         "family": "goblin",
         "image": "https://i.imgur.com/O681MYE.jpg",
         "costume_id": 0,
-        "originalIndex": 1102
+        "originalIndex": 1103
     },
     {
         "name": "菲妮克莎 (Phenexa)",
@@ -36522,6 +42470,12 @@ window.allHeroes =
             "全体增益持续时间重置",
             "全体暴击增益",
             "全体攻击增益"
+        ],
+        "skill_types": [
+            "攻击增益",
+            "效果持续重置",
+            "治疗",
+            "复活抑制"
         ],
         "source": "挑战节-吟游诗人",
         "Release date": "2022-08-11",
@@ -36542,7 +42496,7 @@ window.allHeroes =
         "family": "bard",
         "image": "https://i.imgur.com/LzmbqjK.jpg",
         "costume_id": 0,
-        "originalIndex": 1103
+        "originalIndex": 1104
     },
     {
         "name": "普鲁斯 (Pluth)",
@@ -36556,6 +42510,13 @@ window.allHeroes =
             "重新部署",
             "攻击所有目标",
             "全体负面效果持续时间增加"
+        ],
+        "skill_types": [
+            "重排队伍",
+            "全体攻击 (打5)",
+            "效果持续重置",
+            "反制小兵",
+            "绕过"
         ],
         "source": "星体召唤",
         "Release date": "2025-02-28",
@@ -36577,7 +42538,7 @@ window.allHeroes =
         "family": "astraldwarfs",
         "image": "https://i.imgur.com/OSAvxSD.jpg",
         "costume_id": 0,
-        "originalIndex": 1104
+        "originalIndex": 1105
     },
     {
         "name": "穿靴子的猫 (Puss in Boots)",
@@ -36591,6 +42552,12 @@ window.allHeroes =
             "召唤者",
             "持续治疗",
             "攻击增益"
+        ],
+        "skill_types": [
+            "攻击增益",
+            "持续治疗",
+            "召唤小兵",
+            "对自身或友军负面效果"
         ],
         "source": "挑战节-肃煞森林",
         "Release date": "2017-01-01",
@@ -36609,7 +42576,7 @@ window.allHeroes =
         "family": "grimforest",
         "image": "https://i.imgur.com/H73nb1h.jpg",
         "costume_id": 0,
-        "originalIndex": 1105
+        "originalIndex": 1106
     },
     {
         "name": "穿靴子的猫 (Puss in Boots) C1",
@@ -36623,6 +42590,12 @@ window.allHeroes =
             "召唤者",
             "全体持续治疗",
             "全体攻击增益"
+        ],
+        "skill_types": [
+            "攻击增益",
+            "持续治疗",
+            "召唤小兵",
+            "对自身或友军负面效果"
         ],
         "source": "挑战节-肃煞森林",
         "Release date": "2023-08-10",
@@ -36641,7 +42614,7 @@ window.allHeroes =
         "family": "grimforest",
         "image": "https://i.imgur.com/emXl6nU.jpg",
         "costume_id": 1,
-        "originalIndex": 1106
+        "originalIndex": 1107
     },
     {
         "name": "红桃王后 (Queen of Hearts)",
@@ -36654,6 +42627,12 @@ window.allHeroes =
         "types": [
             "攻击3个目标",
             "召唤者",
+            "嘲讽"
+        ],
+        "skill_types": [
+            "范围攻击 (打3)",
+            "防御增益",
+            "召唤小兵",
             "嘲讽"
         ],
         "source": "挑战节-仙境",
@@ -36673,7 +42652,7 @@ window.allHeroes =
         "family": "wonderland",
         "image": "https://i.imgur.com/12RLqSK.jpg",
         "costume_id": 0,
-        "originalIndex": 1107
+        "originalIndex": 1108
     },
     {
         "name": "红桃王后 (Queen of Hearts) C1",
@@ -36687,6 +42666,12 @@ window.allHeroes =
             "攻击3个目标",
             "召唤者 (单体)",
             "嘲讽小兵"
+        ],
+        "skill_types": [
+            "范围攻击 (打3)",
+            "防御增益",
+            "召唤小兵",
+            "嘲讽"
         ],
         "source": "挑战节-仙境",
         "Release date": "2023-10-05",
@@ -36707,7 +42692,7 @@ window.allHeroes =
         "family": "wonderland",
         "image": "https://i.imgur.com/q5xoHJ1.jpg",
         "costume_id": 1,
-        "originalIndex": 1108
+        "originalIndex": 1109
     },
     {
         "name": "拉杰什 (Rajesh)",
@@ -36722,6 +42707,15 @@ window.allHeroes =
             "全体无视防御",
             "全体减益抵抗",
             "全体攻击叠加"
+        ],
+        "skill_types": [
+            "净化",
+            "法力提升",
+            "绕过",
+            "提供免疫",
+            "攻击增益",
+            "叠加",
+            "复活"
         ],
         "source": "生日召唤",
         "Release date": "2025-03-17",
@@ -36750,7 +42744,7 @@ window.allHeroes =
         "family": "wildcat",
         "image": "https://i.imgur.com/8rK2qLv.jpg",
         "costume_id": 0,
-        "originalIndex": 1109
+        "originalIndex": 1110
     },
     {
         "name": "拉尚 (Rashan)",
@@ -36764,6 +42758,11 @@ window.allHeroes =
             "攻击2个目标",
             "2个目标狂乱",
             "自我狂乱"
+        ],
+        "skill_types": [
+            "治疗削减",
+            "狙击手",
+            "对自身或友军负面效果"
         ],
         "source": "额外抽奖-秘密召唤",
         "Release date": "2024-07-18",
@@ -36783,7 +42782,7 @@ window.allHeroes =
         "family": "cultist",
         "image": "https://i.imgur.com/WJH09pj.jpg",
         "costume_id": 0,
-        "originalIndex": 1110
+        "originalIndex": 1111
     },
     {
         "name": "雷 (Ray)",
@@ -36801,6 +42800,18 @@ window.allHeroes =
             "全体持续治疗",
             "全体元素攻击提升",
             "净化者"
+        ],
+        "skill_types": [
+            "净化",
+            "防御减益",
+            "驱散",
+            "持续伤害",
+            "额外伤害",
+            "持续治疗",
+            "攻击增益",
+            "叠加",
+            "法力削减或格挡",
+            "法力提升"
         ],
         "source": "高塔-魔法",
         "Release date": "2023-05-03",
@@ -36827,7 +42838,7 @@ window.allHeroes =
         "family": "magic",
         "image": "https://i.imgur.com/0vSBWSh.jpg",
         "costume_id": 0,
-        "originalIndex": 1111
+        "originalIndex": 1112
     },
     {
         "name": "小红帽 (Red Hood)",
@@ -36841,6 +42852,11 @@ window.allHeroes =
             "攻击所有目标",
             "召唤者",
             "治疗者"
+        ],
+        "skill_types": [
+            "全体攻击 (打5)",
+            "持续治疗",
+            "召唤小兵"
         ],
         "source": "挑战节-肃煞森林",
         "Release date": "2017-01-01",
@@ -36857,7 +42873,7 @@ window.allHeroes =
         "family": "grimforest",
         "image": "https://i.imgur.com/P4he1aZ.jpg",
         "costume_id": 0,
-        "originalIndex": 1112
+        "originalIndex": 1113
     },
     {
         "name": "雷金 (Regin)",
@@ -36871,6 +42887,16 @@ window.allHeroes =
             "驱散3个目标",
             "攻击3个目标",
             "3个目标增益免疫"
+        ],
+        "skill_types": [
+            "增益格挡者",
+            "额外伤害",
+            "反制小兵",
+            "范围攻击 (打3)",
+            "驱散",
+            "持续伤害",
+            "防御减益",
+            "绕过"
         ],
         "source": "S6-S7-秘闻",
         "Release date": "2024-12-03",
@@ -36894,7 +42920,7 @@ window.allHeroes =
         "family": "nidavellir",
         "image": "https://i.imgur.com/IX7uDP5.jpg",
         "costume_id": 0,
-        "originalIndex": 1113
+        "originalIndex": 1114
     },
     {
         "name": "鲁本 (Reuben)",
@@ -36907,6 +42933,11 @@ window.allHeroes =
         "types": [
             "攻击3个目标",
             "伤害减免增益"
+        ],
+        "skill_types": [
+            "范围攻击 (打3)",
+            "伤害减免",
+            "召唤小兵"
         ],
         "source": "月英",
         "Release date": "2020-12-01",
@@ -36926,7 +42957,7 @@ window.allHeroes =
         "family": 2020,
         "image": "https://i.imgur.com/0xyk3F5.jpg",
         "costume_id": 0,
-        "originalIndex": 1114
+        "originalIndex": 1115
     },
     {
         "name": "蕾夫娜 (Revna)",
@@ -36943,6 +42974,11 @@ window.allHeroes =
             "全体反射叠加效果",
             "全体反射衰退效果"
         ],
+        "skill_types": [
+            "净化",
+            "治疗",
+            "反射"
+        ],
         "source": "盟约召唤",
         "Release date": "2024-10-18T11:30:00",
         "star": 5,
@@ -36957,12 +42993,12 @@ window.allHeroes =
         ],
         "passives": [
             "特殊技能伤害减免：该角色有 10% 的几率将受到的特殊技能直接伤害降至 1 点。",
-            "特殊技能附带持续伤害：当该角色施放其特殊技能时，会给一个随机敌人施加猎人印记。目标在 150 回合内受到 3 点伤害。如果目标已有此效果，则持续时间刷新，伤害增加 150 点，总伤害最高可达 1500 点。"
+            "特殊技能附带持续伤害：当该角色施放其特殊技能时，会给一个随机敌人施加猎人印记。目标在 3 回合内受到 150 点伤害。如果目标已有此效果，则持续时间刷新，伤害增加 150 点，总伤害最高可达 1500 点。"
         ],
         "family": "plainshunter",
         "image": "https://i.imgur.com/Uu7gHck.jpg",
         "costume_id": 0,
-        "originalIndex": 1115
+        "originalIndex": 1116
     },
     {
         "name": "火箭 (Rocket)",
@@ -36975,6 +43011,11 @@ window.allHeroes =
         "types": [
             "衰退",
             "召唤3个爆炸恶魔"
+        ],
+        "skill_types": [
+            "属性修改",
+            "召唤恶魔",
+            "持续伤害"
         ],
         "source": "哥布林召唤",
         "Release date": "2024-03-18",
@@ -36997,7 +43038,7 @@ window.allHeroes =
         "family": "goblin",
         "image": "https://i.imgur.com/BGl8jIC.jpg",
         "costume_id": 0,
-        "originalIndex": 1116
+        "originalIndex": 1117
     },
     {
         "name": "罗莎娜 (Rosanna)",
@@ -37011,6 +43052,11 @@ window.allHeroes =
             "攻击单个目标",
             "可能的额外攻击",
             "狂乱"
+        ],
+        "skill_types": [
+            "狙击手",
+            "连锁与随机攻击",
+            "对自身或友军负面效果"
         ],
         "source": "额外抽奖-秘密召唤",
         "Release date": "2025-04-03",
@@ -37029,7 +43075,7 @@ window.allHeroes =
         "family": "investigator",
         "image": "https://imgur.com/nHDvy8i.jpg",
         "costume_id": 0,
-        "originalIndex": 1117
+        "originalIndex": 1118
     },
     {
         "name": "拉菲恩与呢姬布 (Roughian & Nurgib)",
@@ -37042,6 +43088,14 @@ window.allHeroes =
         "types": [
             "法力偷取",
             "攻击单个目标"
+        ],
+        "skill_types": [
+            "法力提升",
+            "法力削减或格挡",
+            "反制小兵",
+            "狙击手",
+            "额外伤害",
+            "闪避"
         ],
         "source": "月英",
         "Release date": "2023-01-01",
@@ -37063,7 +43117,7 @@ window.allHeroes =
         "family": 2023,
         "image": "https://i.imgur.com/zCcV9K1.jpg",
         "costume_id": 0,
-        "originalIndex": 1118
+        "originalIndex": 1119
     },
     {
         "name": "鲁瓦 (Ruadh)",
@@ -37079,6 +43133,14 @@ window.allHeroes =
             "全体攻击增益",
             "全体防御增益",
             "自我强化持续治疗"
+        ],
+        "skill_types": [
+            "驱散",
+            "全体攻击 (打5)",
+            "额外伤害",
+            "攻击增益",
+            "防御增益",
+            "生命强化"
         ],
         "source": "盟约召唤",
         "Release date": "2024-06-26",
@@ -37097,12 +43159,12 @@ window.allHeroes =
         ],
         "passives": [
             "特殊技能伤害减免：该角色有 10% 的几率将受到的特殊技能直接伤害降至 1 点。",
-            "特殊技能附带持续伤害：当该角色施放其特殊技能时，会给一个随机敌人施加猎人印记。目标在 150 回合内受到 3 点伤害。如果目标已有此效果，则持续时间刷新，伤害增加 150 点，总伤害最高可达 1500 点。"
+            "特殊技能附带持续伤害：当该角色施放其特殊技能时，会给一个随机敌人施加猎人印记。目标在 3 回合内受到 150 点伤害。如果目标已有此效果，则持续时间刷新，伤害增加 150 点，总伤害最高可达 1500 点。"
         ],
         "family": "plainshunter",
         "image": "https://i.imgur.com/O01zlXm.jpg",
         "costume_id": 0,
-        "originalIndex": 1119
+        "originalIndex": 1120
     },
     {
         "name": "露比 (Ruby)",
@@ -37117,6 +43179,12 @@ window.allHeroes =
             "攻击 (1/3/所有) 目标",
             "法力削减 (1/3/所有目标)",
             "法力生成降低 (1/3/所有目标)"
+        ],
+        "skill_types": [
+            "范围攻击 (打3)",
+            "全体攻击 (打5)",
+            "法力削减或格挡",
+            "狙击手"
         ],
         "source": "高塔-忍者",
         "Release date": "2021-11-10",
@@ -37144,7 +43212,7 @@ window.allHeroes =
         "family": "ninja",
         "image": "https://i.imgur.com/LIQiSIc.jpg",
         "costume_id": 0,
-        "originalIndex": 1120
+        "originalIndex": 1121
     },
     {
         "name": "拉塞尔 (Russell)",
@@ -37157,6 +43225,12 @@ window.allHeroes =
         "types": [
             "攻击单个目标",
             "3个目标持续伤害"
+        ],
+        "skill_types": [
+            "持续伤害",
+            "狙击手",
+            "绕过",
+            "特殊治疗"
         ],
         "source": "月英",
         "Release date": "2021-10-01",
@@ -37178,7 +43252,7 @@ window.allHeroes =
         "family": 2021,
         "image": "https://i.imgur.com/EoY0Pni.jpg",
         "costume_id": 0,
-        "originalIndex": 1121
+        "originalIndex": 1122
     },
     {
         "name": "腊斯特 (Rust)",
@@ -37193,6 +43267,12 @@ window.allHeroes =
             "单体持续性伤害",
             "掩护1个目标",
             "自我持续治疗"
+        ],
+        "skill_types": [
+            "范围攻击 (打3)",
+            "持续伤害",
+            "伤害分摊",
+            "持续治疗"
         ],
         "source": "丰收召唤",
         "Release date": "2024-08-20",
@@ -37213,7 +43293,7 @@ window.allHeroes =
         "family": "fox",
         "image": "https://i.imgur.com/4i0UTeY.jpg",
         "costume_id": 0,
-        "originalIndex": 1122
+        "originalIndex": 1123
     },
     {
         "name": "萨利马塔 (Salimata)",
@@ -37228,6 +43308,12 @@ window.allHeroes =
             "攻击3个目标",
             "3个目标小兵创伤",
             "3个目标治疗降低"
+        ],
+        "skill_types": [
+            "驱散",
+            "范围攻击 (打3)",
+            "最大生命削减",
+            "治疗削减"
         ],
         "source": "挑战节-吟游诗人",
         "Release date": "2024-12-12",
@@ -37250,7 +43336,7 @@ window.allHeroes =
         "family": "bard",
         "image": "https://i.imgur.com/UX2vcRH.jpg",
         "costume_id": 0,
-        "originalIndex": 1123
+        "originalIndex": 1124
     },
     {
         "name": "圣诞老人 (Santa Claus)",
@@ -37265,6 +43351,12 @@ window.allHeroes =
             "攻击降低",
             "防御降低",
             "召唤者"
+        ],
+        "skill_types": [
+            "全体攻击 (打5)",
+            "攻击减益",
+            "防御减益",
+            "召唤小兵"
         ],
         "source": "月活动-冬日",
         "Release date": "2018-12-01",
@@ -37283,7 +43375,7 @@ window.allHeroes =
         "family": "christmas",
         "image": "https://i.imgur.com/gDDhARF.jpg",
         "costume_id": 0,
-        "originalIndex": 1124
+        "originalIndex": 1125
     },
     {
         "name": "圣诞老人 (Santa Claus) C1",
@@ -37298,6 +43390,12 @@ window.allHeroes =
             "召唤所有",
             "全体攻击降低",
             "全体防御降低"
+        ],
+        "skill_types": [
+            "全体攻击 (打5)",
+            "攻击减益",
+            "防御减益",
+            "召唤小兵"
         ],
         "source": "月活动-冬日",
         "Release date": "2021-12-01",
@@ -37316,7 +43414,7 @@ window.allHeroes =
         "family": "christmas",
         "image": "https://i.imgur.com/3zbVEXc.jpg",
         "costume_id": 1,
-        "originalIndex": 1125
+        "originalIndex": 1126
     },
     {
         "name": "西尔莎 (Saoirse)",
@@ -37331,6 +43429,14 @@ window.allHeroes =
             "3个目标防御降低",
             "自我法力生成叠加",
             "自我持续治疗叠加"
+        ],
+        "skill_types": [
+            "范围攻击 (打3)",
+            "防御减益",
+            "特殊治疗",
+            "叠加",
+            "法力生成增益",
+            "持续治疗"
         ],
         "source": "挑战节-杀手",
         "Release date": "2021-08-05",
@@ -37351,7 +43457,7 @@ window.allHeroes =
         "family": "slayer",
         "image": "https://i.imgur.com/pHj3rld.jpg",
         "costume_id": 0,
-        "originalIndex": 1126
+        "originalIndex": 1127
     },
     {
         "name": "西尔莎 (Saoirse) C1",
@@ -37366,6 +43472,15 @@ window.allHeroes =
             "3个目标防御降低",
             "自我法力生成叠加",
             "自我持续治疗叠加"
+        ],
+        "skill_types": [
+            "范围攻击 (打3)",
+            "防御减益",
+            "法力生成增益",
+            "持续治疗",
+            "叠加",
+            "特殊治疗",
+            "持续伤害"
         ],
         "source": "挑战节-杀手",
         "Release date": "2024-11-14",
@@ -37382,12 +43497,12 @@ window.allHeroes =
         ],
         "passives": [
             "抵抗状态效果伤害：该角色天生对来自状态效果的伤害有抵抗能力。",
-            "特殊技能附带流血：当该角色施放其特殊技能时，所有敌人会在 452 回合内受到 4 点流血伤害。"
+            "特殊技能附带流血：当该角色施放其特殊技能时，所有敌人会在 4 回合内受到 452 点流血伤害。"
         ],
         "family": "slayer",
         "image": "https://i.imgur.com/yHVhyhO.jpg",
         "costume_id": 1,
-        "originalIndex": 1127
+        "originalIndex": 1128
     },
     {
         "name": "熔砾 (Scoria)",
@@ -37401,6 +43516,14 @@ window.allHeroes =
             "攻击所有目标",
             "单体沉默",
             "全体衰退"
+        ],
+        "skill_types": [
+            "持续伤害",
+            "法力削减或格挡",
+            "反制小兵",
+            "全体攻击 (打5)",
+            "沉默",
+            "属性修改"
         ],
         "source": "盟约召唤",
         "Release date": "2024-05-19",
@@ -37423,7 +43546,7 @@ window.allHeroes =
         "family": "construct",
         "image": "https://i.imgur.com/wqf6SNR.jpg",
         "costume_id": 0,
-        "originalIndex": 1128
+        "originalIndex": 1129
     },
     {
         "name": "塞赫美特 (Sekhmet)",
@@ -37436,6 +43559,10 @@ window.allHeroes =
         "types": [
             "攻击单个目标",
             "伤害治疗"
+        ],
+        "skill_types": [
+            "特殊治疗",
+            "狙击手"
         ],
         "source": "S5-沙丘",
         "Release date": "2022-09-01",
@@ -37456,7 +43583,7 @@ window.allHeroes =
         "family": "sun",
         "image": "https://i.imgur.com/8oISZes.jpg",
         "costume_id": 0,
-        "originalIndex": 1129
+        "originalIndex": 1130
     },
     {
         "name": "塞赫美特 (Sekhmet) C1",
@@ -37469,6 +43596,10 @@ window.allHeroes =
         "types": [
             "攻击单个目标",
             "全体伤害治疗"
+        ],
+        "skill_types": [
+            "狙击手",
+            "特殊治疗"
         ],
         "source": "S5-沙丘",
         "Release date": "2025-03-17",
@@ -37491,7 +43622,7 @@ window.allHeroes =
         "family": "sun",
         "image": "https://i.imgur.com/ykQVLB2.jpg",
         "costume_id": 1,
-        "originalIndex": 1130
+        "originalIndex": 1131
     },
     {
         "name": "桃针 (Serandite)",
@@ -37506,6 +43637,11 @@ window.allHeroes =
             "攻击所有目标",
             "全体持续伤害",
             "全体治疗降低"
+        ],
+        "skill_types": [
+            "全体攻击 (打5)",
+            "持续伤害",
+            "治疗削减"
         ],
         "source": "高塔-忍者",
         "Release date": "2023-01-11",
@@ -37533,7 +43669,7 @@ window.allHeroes =
         "family": "ninja",
         "image": "https://i.imgur.com/3lmxyeL.jpg",
         "costume_id": 0,
-        "originalIndex": 1131
+        "originalIndex": 1132
     },
     {
         "name": "斯卡格列马 (Skargremar)",
@@ -37547,6 +43683,12 @@ window.allHeroes =
             "攻击3个目标",
             "3个目标法力削减",
             "3个目标致盲"
+        ],
+        "skill_types": [
+            "范围攻击 (打3)",
+            "攻击减益",
+            "法力削减或格挡",
+            "法力生成增益"
         ],
         "source": "月英",
         "Release date": "2023-06-01",
@@ -37568,7 +43710,7 @@ window.allHeroes =
         "family": 2023,
         "image": "https://i.imgur.com/biXpSCt.jpg",
         "costume_id": 0,
-        "originalIndex": 1132
+        "originalIndex": 1133
     },
     {
         "name": "闪焰 (Sparklight)",
@@ -37582,6 +43724,13 @@ window.allHeroes =
             "攻击3个目标",
             "3个目标持续伤害",
             "全体反射增益"
+        ],
+        "skill_types": [
+            "范围攻击 (打3)",
+            "持续伤害",
+            "特殊治疗",
+            "反射",
+            "伤害分摊"
         ],
         "source": "黑色星期五召唤",
         "Release date": "2023-11-21",
@@ -37603,7 +43752,7 @@ window.allHeroes =
         "family": "astralelves",
         "image": "https://i.imgur.com/wnVpRMp.jpg",
         "costume_id": 0,
-        "originalIndex": 1133
+        "originalIndex": 1134
     },
     {
         "name": "孙权 (Sun Quan)",
@@ -37617,6 +43766,11 @@ window.allHeroes =
             "攻击3个目标",
             "召唤者",
             "附带持续伤害的小兵"
+        ],
+        "skill_types": [
+            "范围攻击 (打3)",
+            "持续伤害",
+            "召唤小兵"
         ],
         "source": "三国召唤",
         "Release date": "2022-09-12",
@@ -37634,7 +43788,7 @@ window.allHeroes =
         "family": "kingdom",
         "image": "https://i.imgur.com/EShG44Z.jpg",
         "costume_id": 0,
-        "originalIndex": 1134
+        "originalIndex": 1135
     },
     {
         "name": "孙权 (Sun Quan) C1",
@@ -37648,6 +43802,11 @@ window.allHeroes =
             "攻击3个目标",
             "召唤者",
             "附带持续伤害的小兵"
+        ],
+        "skill_types": [
+            "范围攻击 (打3)",
+            "召唤小兵",
+            "持续伤害"
         ],
         "source": "三国召唤",
         "Release date": "2024-11-30",
@@ -37670,7 +43829,7 @@ window.allHeroes =
         "family": "kingdom",
         "image": "https://i.imgur.com/FrxOT5n.jpg",
         "costume_id": 1,
-        "originalIndex": 1135
+        "originalIndex": 1136
     },
     {
         "name": "塔希尔 (Tahir)",
@@ -37683,6 +43842,13 @@ window.allHeroes =
         "types": [
             "攻击单个目标",
             "2个目标持续伤害"
+        ],
+        "skill_types": [
+            "持续伤害",
+            "反制恶魔",
+            "提供免疫",
+            "狙击手",
+            "额外伤害"
         ],
         "source": "月英",
         "Release date": "2022-08-01",
@@ -37704,7 +43870,7 @@ window.allHeroes =
         "family": 2022,
         "image": "https://i.imgur.com/CooQRgw.jpg",
         "costume_id": 0,
-        "originalIndex": 1136
+        "originalIndex": 1137
     },
     {
         "name": "特里谢里 (Tetisheri)",
@@ -37717,6 +43883,11 @@ window.allHeroes =
         "types": [
             "攻击3个目标",
             "防御降低",
+            "法力提升"
+        ],
+        "skill_types": [
+            "范围攻击 (打3)",
+            "防御减益",
             "法力提升"
         ],
         "source": "S5-沙丘",
@@ -37739,7 +43910,7 @@ window.allHeroes =
         "family": "moon",
         "image": "https://i.imgur.com/vkAXXiK.jpg",
         "costume_id": 0,
-        "originalIndex": 1137
+        "originalIndex": 1138
     },
     {
         "name": "特里谢里 (Tetisheri) C1",
@@ -37752,6 +43923,11 @@ window.allHeroes =
         "types": [
             "攻击3个目标",
             "单体防御降低"
+        ],
+        "skill_types": [
+            "范围攻击 (打3)",
+            "防御减益",
+            "法力提升"
         ],
         "source": "S5-沙丘",
         "Release date": "2024-05-27",
@@ -37775,7 +43951,7 @@ window.allHeroes =
         "family": "moon",
         "image": "https://i.imgur.com/TVr5JnF.jpg",
         "costume_id": 1,
-        "originalIndex": 1138
+        "originalIndex": 1139
     },
     {
         "name": "蒂莫西 (Timothy)",
@@ -37788,6 +43964,11 @@ window.allHeroes =
         "types": [
             "治疗者",
             "攻击增益"
+        ],
+        "skill_types": [
+            "生命强化",
+            "攻击增益",
+            "对自身或友军负面效果"
         ],
         "source": "月活动-春谷",
         "Release date": "2024-03-18",
@@ -37805,7 +43986,7 @@ window.allHeroes =
         "family": "springvale",
         "image": "https://i.imgur.com/64Tdmgl.jpg",
         "costume_id": 0,
-        "originalIndex": 1139
+        "originalIndex": 1140
     },
     {
         "name": "托本 (Torben)",
@@ -37819,6 +44000,12 @@ window.allHeroes =
             "连锁伤害",
             "单体防御降低",
             "攻击3个目标"
+        ],
+        "skill_types": [
+            "范围攻击 (打3)",
+            "防御减益",
+            "持续伤害",
+            "伤害分摊"
         ],
         "source": "联盟-骑士冲击",
         "Release date": "2023-10-18",
@@ -37838,7 +44025,7 @@ window.allHeroes =
         "family": "bear",
         "image": "https://i.imgur.com/bzqfe23.jpg",
         "costume_id": 0,
-        "originalIndex": 1140
+        "originalIndex": 1141
     },
     {
         "name": "泰尔 (Tyr)",
@@ -37854,6 +44041,13 @@ window.allHeroes =
             "单体持续伤害",
             "自我持续治疗",
             "自我复活"
+        ],
+        "skill_types": [
+            "绕过",
+            "持续伤害",
+            "持续治疗",
+            "复活",
+            "狙击手"
         ],
         "source": "S3-瓦尔哈拉",
         "Release date": "2017-01-01",
@@ -37873,7 +44067,7 @@ window.allHeroes =
         "family": "helheim",
         "image": "https://i.imgur.com/tjoH1nb.jpg",
         "costume_id": 0,
-        "originalIndex": 1141
+        "originalIndex": 1142
     },
     {
         "name": "泰尔 (Tyr) C1",
@@ -37888,6 +44082,13 @@ window.allHeroes =
             "无视防御",
             "3个目标持续伤害",
             "自我复活"
+        ],
+        "skill_types": [
+            "范围攻击 (打3)",
+            "绕过",
+            "持续伤害",
+            "特殊治疗",
+            "复活"
         ],
         "source": "S3-瓦尔哈拉",
         "Release date": "2023-02-13",
@@ -37906,7 +44107,7 @@ window.allHeroes =
         "family": "helheim",
         "image": "https://i.imgur.com/7UO34fo.jpg",
         "costume_id": 1,
-        "originalIndex": 1142
+        "originalIndex": 1143
     },
     {
         "name": "乌戈宁 (Ukkonen)",
@@ -37921,6 +44122,12 @@ window.allHeroes =
             "攻击增益",
             "3个目标持续治疗",
             "3个目标驱散免疫"
+        ],
+        "skill_types": [
+            "全体攻击 (打5)",
+            "攻击减益",
+            "持续治疗",
+            "提供免疫"
         ],
         "source": "月活动-卡勒瓦拉",
         "Release date": "2023-08-07",
@@ -37941,7 +44148,7 @@ window.allHeroes =
         "family": "kalevala",
         "image": "https://i.imgur.com/tAIchka.jpg",
         "costume_id": 0,
-        "originalIndex": 1143
+        "originalIndex": 1144
     },
     {
         "name": "乌戈宁 (Ukkonen) C1",
@@ -37956,6 +44163,12 @@ window.allHeroes =
             "攻击降低",
             "3个目标持续治疗",
             "3个目标驱散免疫"
+        ],
+        "skill_types": [
+            "全体攻击 (打5)",
+            "攻击减益",
+            "持续治疗",
+            "提供免疫"
         ],
         "source": "月活动-卡勒瓦拉",
         "Release date": "2024-07-22",
@@ -37976,7 +44189,7 @@ window.allHeroes =
         "family": "kalevala",
         "image": "https://i.imgur.com/0QCrvIl.jpg",
         "costume_id": 1,
-        "originalIndex": 1144
+        "originalIndex": 1145
     },
     {
         "name": "凡达 (Vanda)",
@@ -37990,6 +44203,12 @@ window.allHeroes =
             "攻击所有目标",
             "生命偷取",
             "状态异常免疫"
+        ],
+        "skill_types": [
+            "全体攻击 (打5)",
+            "特殊治疗",
+            "治疗削减",
+            "提供免疫"
         ],
         "source": "月活动-莫洛维亚",
         "Release date": "2020-10-26",
@@ -38009,7 +44228,7 @@ window.allHeroes =
         "family": "morlovia",
         "image": "https://i.imgur.com/FsFObHs.jpg",
         "costume_id": 0,
-        "originalIndex": 1145
+        "originalIndex": 1146
     },
     {
         "name": "凡达 (Vanda) C1",
@@ -38023,6 +44242,12 @@ window.allHeroes =
             "攻击所有目标",
             "治疗偷取",
             "全体状态异常免疫"
+        ],
+        "skill_types": [
+            "全体攻击 (打5)",
+            "特殊治疗",
+            "治疗削减",
+            "提供免疫"
         ],
         "source": "月活动-莫洛维亚",
         "Release date": "2021-10-04",
@@ -38042,7 +44267,7 @@ window.allHeroes =
         "family": "morlovia",
         "image": "https://i.imgur.com/yADk9kZ.jpg",
         "costume_id": 1,
-        "originalIndex": 1146
+        "originalIndex": 1147
     },
     {
         "name": "万亚 (Vanya)",
@@ -38055,6 +44280,11 @@ window.allHeroes =
         "types": [
             "全体治疗",
             "持盾守卫超级小兵"
+        ],
+        "skill_types": [
+            "召唤巨型小兵",
+            "治疗",
+            "净化"
         ],
         "source": "哥布林召唤",
         "Release date": "2024-04-15",
@@ -38076,7 +44306,7 @@ window.allHeroes =
         "family": "garrisonguard",
         "image": "https://i.imgur.com/1zUxxx9.jpg",
         "costume_id": 0,
-        "originalIndex": 1147
+        "originalIndex": 1148
     },
     {
         "name": "仙妲 (Xenda)",
@@ -38090,6 +44320,13 @@ window.allHeroes =
             "攻击所有目标",
             "全体持续伤害",
             "法力偷取"
+        ],
+        "skill_types": [
+            "全体攻击 (打5)",
+            "持续伤害",
+            "特殊治疗",
+            "法力提升",
+            "法力削减或格挡"
         ],
         "source": "S4-蛮荒地界",
         "Release date": "2022-12-08",
@@ -38109,7 +44346,7 @@ window.allHeroes =
         "family": "underwild",
         "image": "https://i.imgur.com/pr4mBGS.jpg",
         "costume_id": 0,
-        "originalIndex": 1148
+        "originalIndex": 1149
     },
     {
         "name": "仙妲 (Xenda) C1",
@@ -38123,6 +44360,13 @@ window.allHeroes =
             "攻击所有目标",
             "全体持续伤害",
             "全体法力偷取"
+        ],
+        "skill_types": [
+            "全体攻击 (打5)",
+            "持续伤害",
+            "特殊治疗",
+            "法力提升",
+            "法力削减或格挡"
         ],
         "source": "S4-蛮荒地界",
         "Release date": "2024-05-23",
@@ -38143,7 +44387,7 @@ window.allHeroes =
         "family": "underwild",
         "image": "https://i.imgur.com/QhwvGtU.jpg",
         "costume_id": 1,
-        "originalIndex": 1149
+        "originalIndex": 1150
     },
     {
         "name": "小兔 (Xiaotu)",
@@ -38156,6 +44400,11 @@ window.allHeroes =
         "types": [
             "攻击单个目标",
             "3个目标抵抗治疗"
+        ],
+        "skill_types": [
+            "治疗削减",
+            "反制小兵",
+            "狙击手"
         ],
         "source": "月活动-农历生肖",
         "Release date": "2023-01-19",
@@ -38174,7 +44423,7 @@ window.allHeroes =
         "family": "lunaryear",
         "image": "https://i.imgur.com/BFeoiOp.jpg",
         "costume_id": 0,
-        "originalIndex": 1150
+        "originalIndex": 1151
     },
     {
         "name": "西王母 (Xiwangmu)",
@@ -38188,6 +44437,11 @@ window.allHeroes =
             "自我复活",
             "全体暴击增益",
             "全体攻击增益叠加"
+        ],
+        "skill_types": [
+            "攻击增益",
+            "复活",
+            "叠加"
         ],
         "source": "三国召唤",
         "Release date": "2023-10-09",
@@ -38208,7 +44462,7 @@ window.allHeroes =
         "family": "journey",
         "image": "https://i.imgur.com/f2m1LGV.jpg",
         "costume_id": 0,
-        "originalIndex": 1151
+        "originalIndex": 1152
     },
     {
         "name": "阳舞 (Yang Mai)",
@@ -38221,6 +44475,13 @@ window.allHeroes =
         "types": [
             "攻击单个目标",
             "自我攻击增益叠加"
+        ],
+        "skill_types": [
+            "攻击增益",
+            "连锁与随机攻击",
+            "法力提升",
+            "叠加",
+            "狙击手"
         ],
         "source": "月英",
         "Release date": "2021-05-01",
@@ -38243,7 +44504,7 @@ window.allHeroes =
         "family": 2021,
         "image": "https://i.imgur.com/vzzuVpu.jpg",
         "costume_id": 0,
-        "originalIndex": 1152
+        "originalIndex": 1153
     },
     {
         "name": "约兰达 (Yolanda)",
@@ -38257,7 +44518,14 @@ window.allHeroes =
             "攻击3个目标",
             "强化闪避"
         ],
-        "source": "S4-荒野",
+        "skill_types": [
+            "范围攻击 (打3)",
+            "闪避",
+            "攻击减益",
+            "持续伤害",
+            "反制小兵"
+        ],
+        "source": "荒野召唤",
         "Release date": "2025-03-26",
         "star": 5,
         "power": 1171,
@@ -38276,7 +44544,7 @@ window.allHeroes =
         "family": "woodlandfaun",
         "image": "https://imgur.com/5U97Fz9.jpg",
         "costume_id": 0,
-        "originalIndex": 1153
+        "originalIndex": 1154
     },
     {
         "name": "扎戈洛格 (Zagrog)",
@@ -38289,6 +44557,12 @@ window.allHeroes =
         "types": [
             "攻击3个目标",
             "无视防御"
+        ],
+        "skill_types": [
+            "范围攻击 (打3)",
+            "绕过",
+            "法力提升",
+            "防御增益"
         ],
         "source": "月英",
         "Release date": "2022-03-01",
@@ -38310,7 +44584,7 @@ window.allHeroes =
         "family": 2022,
         "image": "https://i.imgur.com/jTxW191.jpg",
         "costume_id": 0,
-        "originalIndex": 1154
+        "originalIndex": 1155
     },
     {
         "name": "扎尔加 (Zarga)",
@@ -38322,6 +44596,14 @@ window.allHeroes =
         "skill": "千刀万剐",
         "types": [
             "攻击单个目标"
+        ],
+        "skill_types": [
+            "狙击手",
+            "持续伤害",
+            "额外伤害",
+            "法力提升",
+            "叠加",
+            "闪避"
         ],
         "source": "月英",
         "Release date": "2024-04-01",
@@ -38343,7 +44625,7 @@ window.allHeroes =
         "family": 2024,
         "image": "https://i.imgur.com/Xh5bTXR.jpg",
         "costume_id": 0,
-        "originalIndex": 1155
+        "originalIndex": 1156
     },
     {
         "name": "萨里亚 (Zaria)",
@@ -38355,6 +44637,10 @@ window.allHeroes =
         "skill": "灾难占卜",
         "types": [
             "攻击所有目标"
+        ],
+        "skill_types": [
+            "全体攻击 (打5)",
+            "额外伤害"
         ],
         "source": "超级元素人",
         "Release date": "2023-10-09",
@@ -38378,7 +44664,7 @@ window.allHeroes =
         "family": "superelemental",
         "image": "https://i.imgur.com/kfVoysd.jpg",
         "costume_id": 0,
-        "originalIndex": 1156
+        "originalIndex": 1157
     },
     {
         "name": "季诺碧亚 (Zenobia)",
@@ -38391,6 +44677,14 @@ window.allHeroes =
         "types": [
             "攻击2个目标",
             "改变棋盘"
+        ],
+        "skill_types": [
+            "改变面板",
+            "攻击减益",
+            "攻击增益",
+            "攻击减益",
+            "攻击增益",
+            "狙击手"
         ],
         "source": "S4-蛮荒地界",
         "Release date": "2021-09-09",
@@ -38409,7 +44703,7 @@ window.allHeroes =
         "family": "underwild",
         "image": "https://i.imgur.com/H6eN1G6.jpg",
         "costume_id": 0,
-        "originalIndex": 1157
+        "originalIndex": 1158
     },
     {
         "name": "季诺碧亚 (Zenobia) C1",
@@ -38422,6 +44716,15 @@ window.allHeroes =
         "types": [
             "攻击2个目标",
             "改变棋盘"
+        ],
+        "skill_types": [
+            "改变面板",
+            "攻击减益",
+            "攻击增益",
+            "狙击手",
+            "攻击减益",
+            "Buffers(ATK)",
+            "额外伤害"
         ],
         "source": "S4-蛮荒地界",
         "Release date": "2024-02-29",
@@ -38441,7 +44744,7 @@ window.allHeroes =
         "family": "underwild",
         "image": "https://i.imgur.com/lrLa3g9.jpg",
         "costume_id": 1,
-        "originalIndex": 1158
+        "originalIndex": 1159
     },
     {
         "name": "齐丹 (Zidane)",
@@ -38455,6 +44758,12 @@ window.allHeroes =
             "攻击单个目标",
             "偷取增益",
             "持续伤害"
+        ],
+        "skill_types": [
+            "狙击手",
+            "增益窃取者",
+            "持续伤害",
+            "攻击增益"
         ],
         "source": "月英",
         "Release date": "2024-10-01",
@@ -38482,7 +44791,7 @@ window.allHeroes =
         "family": 2024,
         "image": "https://i.imgur.com/csrWBuw.jpg",
         "costume_id": 0,
-        "originalIndex": 1159
+        "originalIndex": 1160
     },
     {
         "name": "西姆吉塔 (Zimkitha)",
@@ -38496,6 +44805,12 @@ window.allHeroes =
             "攻击所有目标",
             "攻击增益",
             "净化者"
+        ],
+        "skill_types": [
+            "全体攻击 (打5)",
+            "攻击增益",
+            "净化",
+            "持续治疗"
         ],
         "source": "月英",
         "Release date": "2018-11-01T00:00:00",
@@ -38514,7 +44829,7 @@ window.allHeroes =
         "family": 2018,
         "image": "https://i.imgur.com/ZnoCx4D.jpg",
         "costume_id": 0,
-        "originalIndex": 1160
+        "originalIndex": 1161
     },
     {
         "name": "西姆吉塔 (Zimkitha) C1",
@@ -38527,6 +44842,12 @@ window.allHeroes =
         "types": [
             "驱散者",
             "攻击所有目标"
+        ],
+        "skill_types": [
+            "全体攻击 (打5)",
+            "驱散",
+            "额外伤害",
+            "持续治疗"
         ],
         "source": "月英",
         "Release date": "2023-03-20",
@@ -38547,7 +44868,7 @@ window.allHeroes =
         "family": 2018,
         "image": "https://i.imgur.com/M65Mn9a.jpg",
         "costume_id": 1,
-        "originalIndex": 1161
+        "originalIndex": 1162
     },
     {
         "name": "光 (Hikaru)",
@@ -38559,6 +44880,9 @@ window.allHeroes =
         "skill": "芒刺在背",
         "types": [
             "攻击单个目标"
+        ],
+        "skill_types": [
+            "狙击手"
         ],
         "source": "S1-经典",
         "Release date": "2017-01-01",
@@ -38574,7 +44898,7 @@ window.allHeroes =
         "family": null,
         "image": "https://i.imgur.com/siyozo3.jpg",
         "costume_id": 0,
-        "originalIndex": 1162
+        "originalIndex": 1163
     },
     {
         "name": "健次郎 (Kenjiro)",
@@ -38586,6 +44910,9 @@ window.allHeroes =
         "skill": "残暴斩",
         "types": [
             "攻击所有目标"
+        ],
+        "skill_types": [
+            "全体攻击 (打5)"
         ],
         "source": "S1-经典",
         "Release date": "2017-01-01",
@@ -38601,7 +44928,7 @@ window.allHeroes =
         "family": null,
         "image": "https://i.imgur.com/C6MAFbk.jpg",
         "costume_id": 0,
-        "originalIndex": 1163
+        "originalIndex": 1164
     },
     {
         "name": "猴 (Hou)",
@@ -38612,6 +44939,9 @@ window.allHeroes =
         "speed": "中等",
         "skill": "防御战术",
         "types": [
+            "防御增益"
+        ],
+        "skill_types": [
             "防御增益"
         ],
         "source": "S1-经典",
@@ -38628,7 +44958,7 @@ window.allHeroes =
         "family": null,
         "image": "https://i.imgur.com/twn2sqC.jpg",
         "costume_id": 0,
-        "originalIndex": 1164
+        "originalIndex": 1165
     },
     {
         "name": "纳什 (Nash)",
@@ -38641,6 +44971,10 @@ window.allHeroes =
         "types": [
             "攻击单个目标",
             "攻击降低"
+        ],
+        "skill_types": [
+            "攻击减益",
+            "狙击手"
         ],
         "source": "S1-经典",
         "Release date": "2017-01-01",
@@ -38657,7 +44991,7 @@ window.allHeroes =
         "family": null,
         "image": "https://i.imgur.com/HfePtEe.jpg",
         "costume_id": 0,
-        "originalIndex": 1165
+        "originalIndex": 1166
     },
     {
         "name": "莎姬 (Sha Ji)",
@@ -38669,6 +45003,9 @@ window.allHeroes =
         "skill": "治愈圣歌",
         "types": [
             "治疗者"
+        ],
+        "skill_types": [
+            "治疗"
         ],
         "source": "S1-经典",
         "Release date": "2017-01-01",
@@ -38684,7 +45021,7 @@ window.allHeroes =
         "family": null,
         "image": "https://i.imgur.com/OCarZIF.jpg",
         "costume_id": 0,
-        "originalIndex": 1166
+        "originalIndex": 1167
     },
     {
         "name": "艾格尼斯 (Agnes)",
@@ -38696,6 +45033,10 @@ window.allHeroes =
         "skill": "精准劈砍",
         "types": [
             "攻击单个目标"
+        ],
+        "skill_types": [
+            "绕过",
+            "狙击手"
         ],
         "source": "S3-瓦尔哈拉",
         "Release date": "2020-05-28",
@@ -38712,7 +45053,7 @@ window.allHeroes =
         "family": "asgard",
         "image": "https://i.imgur.com/epjHmoJ.jpg",
         "costume_id": 0,
-        "originalIndex": 1167
+        "originalIndex": 1168
     },
     {
         "name": "阿尔曼 (Arman)",
@@ -38727,6 +45068,12 @@ window.allHeroes =
             "全体持续伤害",
             "治疗降低",
             "自我净化"
+        ],
+        "skill_types": [
+            "全体攻击 (打5)",
+            "净化",
+            "持续伤害",
+            "治疗削减"
         ],
         "source": "月活动-飞沙帝国",
         "Release date": "2017-01-01",
@@ -38745,7 +45092,7 @@ window.allHeroes =
         "family": "sand",
         "image": "https://i.imgur.com/N88uqSK.jpg",
         "costume_id": 0,
-        "originalIndex": 1168
+        "originalIndex": 1169
     },
     {
         "name": "贝恩 (Bane)",
@@ -38758,6 +45105,10 @@ window.allHeroes =
         "types": [
             "攻击单个目标",
             "单体致盲"
+        ],
+        "skill_types": [
+            "攻击减益",
+            "狙击手"
         ],
         "source": "S1-经典",
         "Release date": "2017-01-01",
@@ -38774,7 +45125,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/9aCbPHu.jpg",
         "costume_id": 0,
-        "originalIndex": 1169
+        "originalIndex": 1170
     },
     {
         "name": "贝恩 (Bane) C1",
@@ -38787,6 +45138,10 @@ window.allHeroes =
         "types": [
             "攻击单个目标",
             "单体致盲"
+        ],
+        "skill_types": [
+            "攻击减益",
+            "狙击手"
         ],
         "source": "S1-经典",
         "Release date": "2020-01-01",
@@ -38803,7 +45158,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/oMyq8FB.jpg",
         "costume_id": 1,
-        "originalIndex": 1170
+        "originalIndex": 1171
     },
     {
         "name": "贝恩 (Bane) 卡通",
@@ -38816,6 +45171,11 @@ window.allHeroes =
         "types": [
             "攻击单个目标",
             "单体致盲"
+        ],
+        "skill_types": [
+            "狙击手",
+            "攻击减益",
+            "额外伤害"
         ],
         "source": "S1-经典",
         "Release date": "2024-03-11",
@@ -38835,7 +45195,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/IQ13bAv.jpg",
         "costume_id": 2,
-        "originalIndex": 1171
+        "originalIndex": 1172
     },
     {
         "name": "贝恩 (Bane) 玻璃",
@@ -38849,6 +45209,11 @@ window.allHeroes =
             "攻击单个目标",
             "无视防御",
             "单体致盲"
+        ],
+        "skill_types": [
+            "绕过",
+            "攻击减益",
+            "狙击手"
         ],
         "source": "S1-经典",
         "Release date": "2025-05-10",
@@ -38868,7 +45233,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://imgur.com/GXkDkIq.jpg",
         "costume_id": 3,
-        "originalIndex": 1172
+        "originalIndex": 1173
     },
     {
         "name": "柏图尔夫 (Bertulf)",
@@ -38879,6 +45244,9 @@ window.allHeroes =
         "speed": "中等",
         "skill": "饕餮盛宴",
         "types": [
+            "攻击增益"
+        ],
+        "skill_types": [
             "攻击增益"
         ],
         "source": "联盟-骑士冲击",
@@ -38895,7 +45263,7 @@ window.allHeroes =
         "family": "raven",
         "image": "https://i.imgur.com/0zQumOG.jpg",
         "costume_id": 0,
-        "originalIndex": 1173
+        "originalIndex": 1174
     },
     {
         "name": "坎迪 (Candy)",
@@ -38908,6 +45276,10 @@ window.allHeroes =
         "types": [
             "全体治疗",
             "全体持续治疗"
+        ],
+        "skill_types": [
+            "持续治疗",
+            "治疗"
         ],
         "source": "挑战节-星落",
         "Release date": "2021-06-10",
@@ -38924,7 +45296,7 @@ window.allHeroes =
         "family": "starfall",
         "image": "https://i.imgur.com/JMKpOq5.jpg",
         "costume_id": 0,
-        "originalIndex": 1174
+        "originalIndex": 1175
     },
     {
         "name": "西达 (Cedar)",
@@ -38937,6 +45309,13 @@ window.allHeroes =
         "types": [
             "防御增益",
             "叠加"
+        ],
+        "skill_types": [
+            "全体攻击 (打5)",
+            "攻击减益",
+            "持续伤害",
+            "叠加",
+            "攻击增益"
         ],
         "source": "月活动-卡勒瓦拉",
         "Release date": "2023-05-06",
@@ -38951,13 +45330,13 @@ window.allHeroes =
             "叠加（最多 10 层）：施法者对所克制元素的攻击力提高 +20%。"
         ],
         "passives": [
-            "特殊技能附带持续伤害：当该角色施放其特殊技能时，会给一个随机敌人施加猎人印记。目标在 150 回合内受到 3 点伤害。如果目标已有此效果，则持续时间刷新，伤害增加 150 点，总伤害最高可达 1500 点。",
+            "特殊技能附带持续伤害：当该角色施放其特殊技能时，会给一个随机敌人施加猎人印记。目标在 3 回合内受到 150 点伤害。如果目标已有此效果，则持续时间刷新，伤害增加 150 点，总伤害最高可达 1500 点。",
             "猎人之毅：当该角色施放其特殊技能时，获得 +20% 的攻击力，持续 3 回合。此效果可与其他改变攻击力的效果并存。"
         ],
         "family": "junglehunter",
         "image": "https://i.imgur.com/occTuk0.jpg",
         "costume_id": 0,
-        "originalIndex": 1175
+        "originalIndex": 1176
     },
     {
         "name": "克苏乌 (Cthuwu)",
@@ -38970,6 +45349,11 @@ window.allHeroes =
         "types": [
             "攻击单个目标",
             "自我狂乱"
+        ],
+        "skill_types": [
+            "狙击手",
+            "连锁与随机攻击",
+            "对自身或友军负面效果"
         ],
         "source": "神秘-暗影",
         "Release date": "2025-01-09",
@@ -38987,7 +45371,7 @@ window.allHeroes =
         "family": "cultist",
         "image": "https://i.imgur.com/I6zT7jd.jpg",
         "costume_id": 0,
-        "originalIndex": 1176
+        "originalIndex": 1177
     },
     {
         "name": "达瓦 (Dawa)",
@@ -38999,6 +45383,9 @@ window.allHeroes =
         "skill": "跳跃攻击",
         "types": [
             "攻击3个目标"
+        ],
+        "skill_types": [
+            "范围攻击 (打3)"
         ],
         "source": "S1-经典",
         "Release date": "2017-01-01",
@@ -39014,7 +45401,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/p1FG8Av.jpg",
         "costume_id": 0,
-        "originalIndex": 1177
+        "originalIndex": 1178
     },
     {
         "name": "达瓦 (Dawa) C1",
@@ -39027,6 +45414,10 @@ window.allHeroes =
         "types": [
             "攻击单个目标",
             "随机攻击1个目标"
+        ],
+        "skill_types": [
+            "连锁与随机攻击",
+            "额外伤害"
         ],
         "source": "S1-经典",
         "Release date": "2021-01-18",
@@ -39043,7 +45434,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/4JD88JW.jpg",
         "costume_id": 1,
-        "originalIndex": 1178
+        "originalIndex": 1179
     },
     {
         "name": "达瓦 (Dawa) 卡通",
@@ -39055,6 +45446,10 @@ window.allHeroes =
         "skill": "卡通攻击",
         "types": [
             "攻击3个目标"
+        ],
+        "skill_types": [
+            "范围攻击 (打3)",
+            "额外伤害"
         ],
         "source": "S1-经典",
         "Release date": "2024-08-11",
@@ -39073,7 +45468,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/O05gU50.jpg",
         "costume_id": 2,
-        "originalIndex": 1179
+        "originalIndex": 1180
     },
     {
         "name": "多拉克 (Dolrak)",
@@ -39088,6 +45483,12 @@ window.allHeroes =
             "防御降低",
             "治疗降低"
         ],
+        "skill_types": [
+            "防御减益",
+            "治疗削减",
+            "狙击手",
+            "持续伤害"
+        ],
         "source": "月活动-海滩派对",
         "Release date": "2023-06-12",
         "star": 3,
@@ -39101,13 +45502,13 @@ window.allHeroes =
             "目标获得的任何治疗减少 -40% ，持续 4 回合。"
         ],
         "passives": [
-            "特殊技能附带持续伤害：当该角色施放其特殊技能时，所有敌人会在 124 回合内受到 2 点水系伤害。",
+            "特殊技能附带持续伤害：当该角色施放其特殊技能时，所有敌人会在 2 回合内受到 124 点水系伤害。",
             "抵抗水系伤害：该角色天生对水系伤害有抵抗能力。"
         ],
         "family": "beachparty",
         "image": "https://i.imgur.com/0vQaoVS.jpg",
         "costume_id": 0,
-        "originalIndex": 1180
+        "originalIndex": 1181
     },
     {
         "name": "爱德蕾德 (Edelaide)",
@@ -39121,6 +45522,12 @@ window.allHeroes =
             "治疗者",
             "攻击增益"
         ],
+        "skill_types": [
+            "攻击增益",
+            "持续伤害",
+            "治疗",
+            "对自身或友军负面效果"
+        ],
         "source": "盟约召唤",
         "Release date": "2022-10-15",
         "star": 3,
@@ -39133,13 +45540,13 @@ window.allHeroes =
             "所有盟友获得 +195% 攻击力和 -35% 精准度，仅适用于敌人血量高于攻击者血量的情况，该效果持续 3 回合。"
         ],
         "passives": [
-            "特殊技能附带持续伤害：当该角色施放其特殊技能时，会给一个随机敌人施加猎人印记。目标在 150 回合内受到 3 点伤害。如果目标已有此效果，则持续时间刷新，伤害增加 150 点，总伤害最高可达 1500 点。",
+            "特殊技能附带持续伤害：当该角色施放其特殊技能时，会给一个随机敌人施加猎人印记。目标在 3 回合内受到 150 点伤害。如果目标已有此效果，则持续时间刷新，伤害增加 150 点，总伤害最高可达 1500 点。",
             "特殊技能伤害减免：该角色有 10% 的几率将受到的特殊技能直接伤害降至 1 点。"
         ],
         "family": "plainshunter",
         "image": "https://i.imgur.com/BfXS6GU.jpg",
         "costume_id": 0,
-        "originalIndex": 1181
+        "originalIndex": 1182
     },
     {
         "name": "费尔顿 (Felton)",
@@ -39153,6 +45560,12 @@ window.allHeroes =
             "攻击单个目标",
             "全体增益反射",
             "自我持续治疗"
+        ],
+        "skill_types": [
+            "额外伤害",
+            "反射",
+            "狙击手",
+            "持续治疗"
         ],
         "source": "联盟-火枪手",
         "Release date": "2023-03-08",
@@ -39173,7 +45586,7 @@ window.allHeroes =
         "family": "musketeer",
         "image": "https://i.imgur.com/KO2VqaC.jpg",
         "costume_id": 0,
-        "originalIndex": 1182
+        "originalIndex": 1183
     },
     {
         "name": "柑橘 (Gan Ju)",
@@ -39186,6 +45599,10 @@ window.allHeroes =
         "types": [
             "攻击单个目标",
             "单体法力削减"
+        ],
+        "skill_types": [
+            "法力削减或格挡",
+            "狙击手"
         ],
         "source": "S1-经典",
         "Release date": "2017-01-01",
@@ -39202,7 +45619,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/Eor4cBc.jpg",
         "costume_id": 0,
-        "originalIndex": 1183
+        "originalIndex": 1184
     },
     {
         "name": "柑橘 (Gan Ju) C1",
@@ -39215,6 +45632,10 @@ window.allHeroes =
         "types": [
             "攻击单个目标",
             "单体法力削减"
+        ],
+        "skill_types": [
+            "法力削减或格挡",
+            "狙击手"
         ],
         "source": "S1-经典",
         "Release date": "2021-01-18",
@@ -39231,7 +45652,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/UfGiJQd.jpg",
         "costume_id": 1,
-        "originalIndex": 1184
+        "originalIndex": 1185
     },
     {
         "name": "柑橘 (Gan Ju) 卡通",
@@ -39244,6 +45665,11 @@ window.allHeroes =
         "types": [
             "攻击单个目标",
             "单体法力削减"
+        ],
+        "skill_types": [
+            "额外伤害",
+            "法力削减或格挡",
+            "狙击手"
         ],
         "source": "S1-经典",
         "Release date": "2023-12-25",
@@ -39263,7 +45689,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/IOY3xaA.jpg",
         "costume_id": 2,
-        "originalIndex": 1185
+        "originalIndex": 1186
     },
     {
         "name": "柑橘 (Gan Ju) 玻璃",
@@ -39277,6 +45703,11 @@ window.allHeroes =
             "攻击单个目标",
             "无视防御",
             "单体法力削减"
+        ],
+        "skill_types": [
+            "狙击手",
+            "绕过",
+            "法力削减或格挡"
         ],
         "source": "S1-经典",
         "Release date": "2024-12-25",
@@ -39296,7 +45727,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/yqqbcRa.jpg",
         "costume_id": 3,
-        "originalIndex": 1186
+        "originalIndex": 1187
     },
     {
         "name": "雅科 (Jaco)",
@@ -39309,6 +45740,11 @@ window.allHeroes =
         "types": [
             "偷取单个目标法力",
             "攻击3个目标"
+        ],
+        "skill_types": [
+            "范围攻击 (打3)",
+            "法力提升",
+            "法力削减或格挡"
         ],
         "source": "S6-S7-秘闻",
         "Release date": "2023-07-05",
@@ -39334,7 +45770,7 @@ window.allHeroes =
         "family": "defendersofatlantis",
         "image": "https://i.imgur.com/ne5YJve.jpg",
         "costume_id": 0,
-        "originalIndex": 1187
+        "originalIndex": 1188
     },
     {
         "name": "雅科 (Jaco) C1",
@@ -39347,6 +45783,11 @@ window.allHeroes =
         "types": [
             "偷取单个目标法力",
             "攻击3个目标"
+        ],
+        "skill_types": [
+            "法力削减或格挡",
+            "范围攻击 (打3)",
+            "法力提升"
         ],
         "source": "S6-S7-秘闻",
         "Release date": "2025-02-03",
@@ -39373,7 +45814,7 @@ window.allHeroes =
         "family": "defendersofatlantis",
         "image": "https://i.imgur.com/frMuxcb.jpg",
         "costume_id": 1,
-        "originalIndex": 1188
+        "originalIndex": 1189
     },
     {
         "name": "乔力 (Jolly)",
@@ -39388,6 +45829,12 @@ window.allHeroes =
             "召唤者",
             "伤害减免",
             "法力生成增益"
+        ],
+        "skill_types": [
+            "伤害减免",
+            "生命强化",
+            "法力生成增益",
+            "召唤小兵"
         ],
         "source": "月活动-冬日",
         "Release date": "2023-12-01",
@@ -39406,7 +45853,7 @@ window.allHeroes =
         "family": "christmas",
         "image": "https://i.imgur.com/G067kns.jpg",
         "costume_id": 0,
-        "originalIndex": 1189
+        "originalIndex": 1190
     },
     {
         "name": "凯兰尼 (Kailani)",
@@ -39419,6 +45866,10 @@ window.allHeroes =
         "types": [
             "友方伤害分担",
             "全体防御增益"
+        ],
+        "skill_types": [
+            "防御增益",
+            "伤害分摊"
         ],
         "source": "S1-经典",
         "Release date": "2017-01-01",
@@ -39435,7 +45886,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/h7fAkgX.jpg",
         "costume_id": 0,
-        "originalIndex": 1190
+        "originalIndex": 1191
     },
     {
         "name": "凯兰尼 (Kailani) C1",
@@ -39448,6 +45899,10 @@ window.allHeroes =
         "types": [
             "友方伤害分担",
             "全体攻击增益"
+        ],
+        "skill_types": [
+            "攻击增益",
+            "伤害分摊"
         ],
         "source": "S1-经典",
         "Release date": "2021-01-18",
@@ -39464,7 +45919,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/OOF8ysq.jpg",
         "costume_id": 1,
-        "originalIndex": 1191
+        "originalIndex": 1192
     },
     {
         "name": "凯兰尼 (Kailani) 卡通",
@@ -39477,6 +45932,10 @@ window.allHeroes =
         "types": [
             "友方伤害分担",
             "全体防御增益"
+        ],
+        "skill_types": [
+            "防御增益",
+            "伤害分摊"
         ],
         "source": "S1-经典",
         "Release date": "2024-02-12",
@@ -39495,7 +45954,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/6HNw9i7.jpg",
         "costume_id": 2,
-        "originalIndex": 1192
+        "originalIndex": 1193
     },
     {
         "name": "凯兰尼 (Kailani) 玻璃",
@@ -39510,6 +45969,11 @@ window.allHeroes =
             "全体防御增益",
             "神圣盟友反射状态异常",
             "神圣盟友反射叠加效果"
+        ],
+        "skill_types": [
+            "伤害分摊",
+            "防御增益",
+            "反射"
         ],
         "source": "S1-经典",
         "Release date": "2025-03-11",
@@ -39529,7 +45993,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/jRBcqpn.jpg",
         "costume_id": 3,
-        "originalIndex": 1193
+        "originalIndex": 1194
     },
     {
         "name": "金砂石 (Kinsaishi)",
@@ -39541,6 +46005,9 @@ window.allHeroes =
         "skill": "闪电如流",
         "types": [
             "攻击单个目标"
+        ],
+        "skill_types": [
+            "连锁与随机攻击"
         ],
         "source": "高塔-忍者",
         "Release date": "2023-01-11",
@@ -39565,7 +46032,7 @@ window.allHeroes =
         "family": "ninja",
         "image": "https://i.imgur.com/X6RI3nP.jpg",
         "costume_id": 0,
-        "originalIndex": 1194
+        "originalIndex": 1195
     },
     {
         "name": "卡瓦希尔 (Kvasir)",
@@ -39578,6 +46045,11 @@ window.allHeroes =
         "types": [
             "召唤者",
             "单体持续伤害"
+        ],
+        "skill_types": [
+            "持续伤害",
+            "反制小兵",
+            "召唤小兵"
         ],
         "source": "S3-瓦尔哈拉",
         "Release date": "2020-02-27",
@@ -39596,7 +46068,7 @@ window.allHeroes =
         "family": "alfheim",
         "image": "https://i.imgur.com/iXRJ2NZ.jpg",
         "costume_id": 0,
-        "originalIndex": 1195
+        "originalIndex": 1196
     },
     {
         "name": "卡瓦希尔 (Kvasir) C1",
@@ -39608,6 +46080,11 @@ window.allHeroes =
         "skill": "蜂势浩大",
         "types": [
             "召唤者"
+        ],
+        "skill_types": [
+            "增益格挡者",
+            "持续伤害",
+            "召唤小兵"
         ],
         "source": "S3-瓦尔哈拉",
         "Release date": "2022-07-04",
@@ -39626,7 +46103,7 @@ window.allHeroes =
         "family": "alfheim",
         "image": "https://i.imgur.com/3EEFeIL.jpg",
         "costume_id": 1,
-        "originalIndex": 1196
+        "originalIndex": 1197
     },
     {
         "name": "梅里亚 (Melia)",
@@ -39639,6 +46116,10 @@ window.allHeroes =
         "types": [
             "攻击所有目标",
             "全体暴击增益"
+        ],
+        "skill_types": [
+            "全体攻击 (打5)",
+            "攻击增益"
         ],
         "source": "S2-亚特兰蒂斯",
         "Release date": "2019-08-01",
@@ -39655,7 +46136,7 @@ window.allHeroes =
         "family": "atlantis",
         "image": "https://i.imgur.com/4LFidrS.jpg",
         "costume_id": 0,
-        "originalIndex": 1197
+        "originalIndex": 1198
     },
     {
         "name": "梅里亚 (Melia) C1",
@@ -39668,6 +46149,10 @@ window.allHeroes =
         "types": [
             "攻击所有目标",
             "命中降低"
+        ],
+        "skill_types": [
+            "全体攻击 (打5)",
+            "攻击减益"
         ],
         "source": "S2-亚特兰蒂斯",
         "Release date": "2022-05-02",
@@ -39684,7 +46169,7 @@ window.allHeroes =
         "family": "atlantis",
         "image": "https://i.imgur.com/M7NWE48.jpg",
         "costume_id": 1,
-        "originalIndex": 1198
+        "originalIndex": 1199
     },
     {
         "name": "佩雅 (Paeia)",
@@ -39697,6 +46182,11 @@ window.allHeroes =
         "types": [
             "降低特殊技能伤害",
             "攻击增益",
+            "法力生成增益"
+        ],
+        "skill_types": [
+            "攻击增益",
+            "伤害减免",
             "法力生成增益"
         ],
         "source": "高塔-猫头鹰",
@@ -39717,7 +46207,7 @@ window.allHeroes =
         "family": "owl",
         "image": "https://i.imgur.com/R9551ZQ.jpg",
         "costume_id": 0,
-        "originalIndex": 1199
+        "originalIndex": 1200
     },
     {
         "name": "皮格茜 (Pixie)",
@@ -39730,6 +46220,10 @@ window.allHeroes =
         "types": [
             "攻击单个目标",
             "失心自我攻击"
+        ],
+        "skill_types": [
+            "法力削减或格挡",
+            "狙击手"
         ],
         "source": "挑战节-肃煞森林",
         "Release date": "2019-12-01",
@@ -39746,7 +46240,7 @@ window.allHeroes =
         "family": "grimforest",
         "image": "https://i.imgur.com/jFlvi1a.jpg",
         "costume_id": 0,
-        "originalIndex": 1200
+        "originalIndex": 1201
     },
     {
         "name": "波比 (Poppy)",
@@ -39758,6 +46252,10 @@ window.allHeroes =
         "skill": "反弹之箭",
         "types": [
             "攻击单个目标"
+        ],
+        "skill_types": [
+            "连锁与随机攻击",
+            "狙击手"
         ],
         "source": "S4-蛮荒地界",
         "Release date": "2021-03-25",
@@ -39776,7 +46274,7 @@ window.allHeroes =
         "family": "underwild",
         "image": "https://i.imgur.com/pxiscDG.jpg",
         "costume_id": 0,
-        "originalIndex": 1201
+        "originalIndex": 1202
     },
     {
         "name": "波比 (Poppy) C1",
@@ -39788,6 +46286,10 @@ window.allHeroes =
         "skill": "昏睡之箭",
         "types": [
             "攻击单个目标"
+        ],
+        "skill_types": [
+            "连锁与随机攻击",
+            "狙击手"
         ],
         "source": "S4-蛮荒地界",
         "Release date": "2024-02-29",
@@ -39806,7 +46308,7 @@ window.allHeroes =
         "family": "underwild",
         "image": "https://i.imgur.com/nCfovhZ.jpg",
         "costume_id": 1,
-        "originalIndex": 1202
+        "originalIndex": 1203
     },
     {
         "name": "雷克赫特 (Rekhetre)",
@@ -39818,6 +46320,11 @@ window.allHeroes =
         "skill": "迷惑之谜",
         "types": [
             "强化持续治疗"
+        ],
+        "skill_types": [
+            "防御增益",
+            "生命强化",
+            "持续治疗"
         ],
         "source": "S5-沙丘",
         "Release date": "2022-04-21",
@@ -39838,7 +46345,7 @@ window.allHeroes =
         "family": "sun",
         "image": "https://i.imgur.com/nkaWucV.jpg",
         "costume_id": 0,
-        "originalIndex": 1203
+        "originalIndex": 1204
     },
     {
         "name": "雷克赫特 (Rekhetre) C1",
@@ -39850,6 +46357,11 @@ window.allHeroes =
         "skill": "迷惑之画",
         "types": [
             "强化持续治疗"
+        ],
+        "skill_types": [
+            "生命强化",
+            "持续治疗",
+            "防御增益"
         ],
         "source": "S5-沙丘",
         "Release date": "2025-02-17",
@@ -39872,7 +46384,7 @@ window.allHeroes =
         "family": "sun",
         "image": "https://i.imgur.com/K31ZD8P.jpg",
         "costume_id": 1,
-        "originalIndex": 1204
+        "originalIndex": 1205
     },
     {
         "name": "呱呱 (Ribbit)",
@@ -39886,6 +46398,11 @@ window.allHeroes =
             "攻击3个目标",
             "法力削减",
             "3个目标持续伤害"
+        ],
+        "skill_types": [
+            "范围攻击 (打3)",
+            "持续伤害",
+            "法力削减或格挡"
         ],
         "source": "联盟-超能萌宠",
         "Release date": "2022-11-03",
@@ -39906,7 +46423,7 @@ window.allHeroes =
         "family": "pets",
         "image": "https://i.imgur.com/2fpNcNU.jpg",
         "costume_id": 0,
-        "originalIndex": 1205
+        "originalIndex": 1206
     },
     {
         "name": "锈喙 (Rustbeak)",
@@ -39920,6 +46437,12 @@ window.allHeroes =
             "3个目标持续治疗",
             "3个目标闪避",
             "3个目标暴击几率增益"
+        ],
+        "skill_types": [
+            "持续治疗",
+            "闪避",
+            "攻击增益",
+            "生命强化"
         ],
         "source": "盟约召唤",
         "Release date": "2024-04-25",
@@ -39943,7 +46466,7 @@ window.allHeroes =
         "family": "construct",
         "image": "https://i.imgur.com/OFz97hb.jpg",
         "costume_id": 0,
-        "originalIndex": 1206
+        "originalIndex": 1207
     },
     {
         "name": "萨莉 (Sally)",
@@ -39956,6 +46479,9 @@ window.allHeroes =
         "types": [
             "攻击单个目标",
             "连锁"
+        ],
+        "skill_types": [
+            "连锁与随机攻击"
         ],
         "source": "挑战节-海盗",
         "Release date": "2021-12-15",
@@ -39972,7 +46498,7 @@ window.allHeroes =
         "family": "corellia",
         "image": "https://i.imgur.com/wpH6Nrx.jpg",
         "costume_id": 0,
-        "originalIndex": 1207
+        "originalIndex": 1208
     },
     {
         "name": "萨丝琪雅 (Saskia)",
@@ -39986,7 +46512,13 @@ window.allHeroes =
             "全体治疗",
             "强化闪避"
         ],
-        "source": "S4-荒野",
+        "skill_types": [
+            "治疗",
+            "闪避",
+            "持续治疗",
+            "反制小兵"
+        ],
+        "source": "荒野召唤",
         "Release date": "2024-08-31",
         "star": 3,
         "power": 496,
@@ -40005,7 +46537,7 @@ window.allHeroes =
         "family": "woodlandfaun",
         "image": "https://i.imgur.com/GNLbvP6.jpg",
         "costume_id": 0,
-        "originalIndex": 1208
+        "originalIndex": 1209
     },
     {
         "name": "爱斯舍尔 (Aeschere)",
@@ -40019,6 +46551,12 @@ window.allHeroes =
             "全体安全驱散1个增益",
             "单体增益之源",
             "全体持续治疗"
+        ],
+        "skill_types": [
+            "驱散",
+            "法力生成增益",
+            "特殊治疗",
+            "持续治疗"
         ],
         "source": "挑战-贝奥武夫",
         "Release date": "2025-02-13",
@@ -40042,7 +46580,7 @@ window.allHeroes =
         "family": "beowulf",
         "image": "https://i.imgur.com/b8raA4w.jpg",
         "costume_id": 0,
-        "originalIndex": 1209
+        "originalIndex": 1210
     },
     {
         "name": "阿纳斯塔西亚 (Anastasia)",
@@ -40056,6 +46594,12 @@ window.allHeroes =
             "蓄力",
             "召唤所有小兵",
             "召唤所有恶魔"
+        ],
+        "skill_types": [
+            "召唤恶魔",
+            "召唤小兵",
+            "持续伤害",
+            "法力削减或格挡"
         ],
         "source": "高塔-魔法",
         "Release date": "2021-09-15",
@@ -40079,7 +46623,7 @@ window.allHeroes =
         "family": "magic",
         "image": "https://i.imgur.com/ADu9siF.jpg",
         "costume_id": 0,
-        "originalIndex": 1210
+        "originalIndex": 1211
     },
     {
         "name": "贝勒里夫 (Bellerive)",
@@ -40092,6 +46636,10 @@ window.allHeroes =
         "types": [
             "攻击单个目标",
             "连锁"
+        ],
+        "skill_types": [
+            "狙击手",
+            "伤害减免"
         ],
         "source": "挑战-石像鬼",
         "Release date": "2022-05-12",
@@ -40110,7 +46658,7 @@ window.allHeroes =
         "family": "gargoyle",
         "image": "https://i.imgur.com/VIPkm6l.jpg",
         "costume_id": 0,
-        "originalIndex": 1211
+        "originalIndex": 1212
     },
     {
         "name": "博加特 (Bogart)",
@@ -40124,6 +46672,12 @@ window.allHeroes =
             "攻击3个目标",
             "防御降低"
         ],
+        "skill_types": [
+            "范围攻击 (打3)",
+            "防御减益",
+            "持续伤害",
+            "净化"
+        ],
         "source": "盟约召唤",
         "Release date": "2022-12-24",
         "star": 4,
@@ -40136,13 +46690,13 @@ window.allHeroes =
             "目标与附近敌人获得 -35% 防御，持续 3 回合。防御每回合降低 -10% ，最低可达 -55%。"
         ],
         "passives": [
-            "特殊技能附带持续伤害：当该角色施放其特殊技能时，会给一个随机敌人施加猎人印记。目标在 150 回合内受到 3 点伤害。如果目标已有此效果，则持续时间刷新，伤害增加 150 点，总伤害最高可达 1500 点。",
+            "特殊技能附带持续伤害：当该角色施放其特殊技能时，会给一个随机敌人施加猎人印记。目标在 3 回合内受到 150 点伤害。如果目标已有此效果，则持续时间刷新，伤害增加 150 点，总伤害最高可达 1500 点。",
             "猎手感知：当该角色施放其特殊技能时，会将自身最新的可净化状态异常转移给目标。如果其特殊技能无法选择敌方目标，则会随机转移至一名敌人。若此角色没有可净化的状态异常，则恢复自身 8% 的生命。"
         ],
         "family": "abysshunter",
         "image": "https://i.imgur.com/Z4N4G0e.jpg",
         "costume_id": 0,
-        "originalIndex": 1212
+        "originalIndex": 1213
     },
     {
         "name": "赵 (Chao)",
@@ -40155,6 +46709,10 @@ window.allHeroes =
         "types": [
             "攻击单个目标",
             "法力削减"
+        ],
+        "skill_types": [
+            "法力削减或格挡",
+            "狙击手"
         ],
         "source": "S1-经典",
         "Release date": "2017-01-01",
@@ -40171,7 +46729,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/akseq6D.jpg",
         "costume_id": 0,
-        "originalIndex": 1213
+        "originalIndex": 1214
     },
     {
         "name": "赵 (Chao) C1",
@@ -40184,6 +46742,11 @@ window.allHeroes =
         "types": [
             "攻击单个目标",
             "偷取单个目标法力"
+        ],
+        "skill_types": [
+            "法力提升",
+            "法力削减或格挡",
+            "狙击手"
         ],
         "source": "S1-经典",
         "Release date": "2021-01-18",
@@ -40200,7 +46763,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/iiLBfC1.jpg",
         "costume_id": 1,
-        "originalIndex": 1214
+        "originalIndex": 1215
     },
     {
         "name": "赵 (Chao) C2",
@@ -40213,6 +46776,10 @@ window.allHeroes =
         "types": [
             "攻击3个目标",
             "3个目标法力生成降低"
+        ],
+        "skill_types": [
+            "范围攻击 (打3)",
+            "法力削减或格挡"
         ],
         "source": "S1-经典",
         "Release date": "2023-10-30",
@@ -40229,7 +46796,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/AhEe43s.jpg",
         "costume_id": 2,
-        "originalIndex": 1215
+        "originalIndex": 1216
     },
     {
         "name": "赵 (Chao) 卡通",
@@ -40242,6 +46809,11 @@ window.allHeroes =
         "types": [
             "攻击单个目标",
             "单体法力削减"
+        ],
+        "skill_types": [
+            "法力削减或格挡",
+            "狙击手",
+            "额外伤害"
         ],
         "source": "S1-经典",
         "Release date": "2024-06-28",
@@ -40261,7 +46833,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/SdLEIc0.jpg",
         "costume_id": 3,
-        "originalIndex": 1216
+        "originalIndex": 1217
     },
     {
         "name": "迪安德烈 (D'Andre)",
@@ -40273,6 +46845,11 @@ window.allHeroes =
         "skill": "振奋奇观",
         "types": [
             "治疗者",
+            "法力生成增益"
+        ],
+        "skill_types": [
+            "防御增益",
+            "治疗",
             "法力生成增益"
         ],
         "source": "挑战节-星落",
@@ -40291,7 +46868,7 @@ window.allHeroes =
         "family": "starfall",
         "image": "https://i.imgur.com/XnqMU7V.jpg",
         "costume_id": 0,
-        "originalIndex": 1217
+        "originalIndex": 1218
     },
     {
         "name": "团三郎狸 (Danzaburo)",
@@ -40303,6 +46880,13 @@ window.allHeroes =
         "skill": "戏法师金牌手",
         "types": [
             "赌徒"
+        ],
+        "skill_types": [
+            "全体攻击 (打5)",
+            "防御增益",
+            "攻击减益",
+            "法力生成增益",
+            "对自身或友军负面效果"
         ],
         "source": "S2-亚特兰蒂斯",
         "Release date": "2019-08-01",
@@ -40327,7 +46911,7 @@ window.allHeroes =
         "family": "sakura",
         "image": "https://i.imgur.com/jP1BF2A.jpg",
         "costume_id": 0,
-        "originalIndex": 1218
+        "originalIndex": 1219
     },
     {
         "name": "团三郎狸 (Danzaburo) C1",
@@ -40339,6 +46923,14 @@ window.allHeroes =
         "skill": "超值优惠",
         "types": [
             "赌徒"
+        ],
+        "skill_types": [
+            "全体攻击 (打5)",
+            "攻击减益",
+            "防御减益",
+            "法力提升",
+            "法力削减或格挡",
+            "对自身或友军负面效果"
         ],
         "source": "S2-亚特兰蒂斯",
         "Release date": "2023-02-06",
@@ -40363,7 +46955,7 @@ window.allHeroes =
         "family": "sakura",
         "image": "https://i.imgur.com/HppFUSU.jpg",
         "costume_id": 1,
-        "originalIndex": 1219
+        "originalIndex": 1220
     },
     {
         "name": "埃林 (Errin)",
@@ -40376,6 +46968,12 @@ window.allHeroes =
         "types": [
             "敌方伤害分担",
             "全体承受伤害增加"
+        ],
+        "skill_types": [
+            "伤害分摊",
+            "额外伤害",
+            "反制小兵",
+            "反制恶魔"
         ],
         "source": "星体召唤",
         "Release date": "2025-06-04",
@@ -40396,7 +46994,7 @@ window.allHeroes =
         "family": "astraldwarfs",
         "image": "https://imgur.com/iOji58B.jpg",
         "costume_id": 0,
-        "originalIndex": 1220
+        "originalIndex": 1221
     },
     {
         "name": "菲亚拉尔 (Fjalar)",
@@ -40410,6 +47008,14 @@ window.allHeroes =
             "无视小兵",
             "攻击单个目标",
             "单体抵抗小兵"
+        ],
+        "skill_types": [
+            "反制小兵",
+            "狙击手",
+            "额外伤害",
+            "绕过",
+            "持续伤害",
+            "防御减益"
         ],
         "source": "S6-S7-秘闻",
         "Release date": "2024-12-03",
@@ -40433,7 +47039,7 @@ window.allHeroes =
         "family": "nidavellir",
         "image": "https://i.imgur.com/iXEEsKX.jpg",
         "costume_id": 0,
-        "originalIndex": 1221
+        "originalIndex": 1222
     },
     {
         "name": "金娘 (Goldie)",
@@ -40447,6 +47053,11 @@ window.allHeroes =
             "治疗者",
             "全体成长",
             "全体反射状态异常"
+        ],
+        "skill_types": [
+            "属性修改",
+            "治疗",
+            "反射"
         ],
         "source": "哥布林召唤",
         "Release date": "2023-09-18",
@@ -40468,7 +47079,7 @@ window.allHeroes =
         "family": "goblin",
         "image": "https://i.imgur.com/9Zjrelm.jpg",
         "costume_id": 0,
-        "originalIndex": 1222
+        "originalIndex": 1223
     },
     {
         "name": "格蕾特 (Gretel)",
@@ -40481,6 +47092,11 @@ window.allHeroes =
         "types": [
             "攻击3个目标",
             "失心自我攻击"
+        ],
+        "skill_types": [
+            "范围攻击 (打3)",
+            "防御增益",
+            "法力削减或格挡"
         ],
         "source": "挑战节-肃煞森林",
         "Release date": "2017-01-01",
@@ -40498,7 +47114,7 @@ window.allHeroes =
         "family": "grimforest",
         "image": "https://i.imgur.com/cq0lzx6.jpg",
         "costume_id": 0,
-        "originalIndex": 1223
+        "originalIndex": 1224
     },
     {
         "name": "格里芬 (Griffin)",
@@ -40511,6 +47127,10 @@ window.allHeroes =
         "types": [
             "攻击单个目标",
             "无视防御"
+        ],
+        "skill_types": [
+            "绕过",
+            "狙击手"
         ],
         "source": "S4-蛮荒地界",
         "Release date": "2021-03-25",
@@ -40529,7 +47149,7 @@ window.allHeroes =
         "family": "underwild",
         "image": "https://i.imgur.com/MRV1QX0.jpg",
         "costume_id": 0,
-        "originalIndex": 1224
+        "originalIndex": 1225
     },
     {
         "name": "格里芬 (Griffin) C1",
@@ -40542,6 +47162,10 @@ window.allHeroes =
         "types": [
             "攻击单个目标",
             "绕过3个目标"
+        ],
+        "skill_types": [
+            "绕过",
+            "狙击手"
         ],
         "source": "S4-蛮荒地界",
         "Release date": "2023-11-09",
@@ -40560,7 +47184,7 @@ window.allHeroes =
         "family": "underwild",
         "image": "https://i.imgur.com/bhRfq5i.jpg",
         "costume_id": 1,
-        "originalIndex": 1225
+        "originalIndex": 1226
     },
     {
         "name": "顾大嫂 (Gu Dasao)",
@@ -40575,6 +47199,10 @@ window.allHeroes =
             "攻击所有目标",
             "单体反击",
             "反击时削减法力"
+        ],
+        "skill_types": [
+            "范围攻击 (打3)",
+            "反击"
         ],
         "source": "三国召唤",
         "Release date": "2025-05-22",
@@ -40600,7 +47228,7 @@ window.allHeroes =
         "family": "outlaws",
         "image": "https://imgur.com/rTKzhQE.jpg",
         "costume_id": 0,
-        "originalIndex": 1226
+        "originalIndex": 1227
     },
     {
         "name": "豺狼守护者 (Guardian Jackal)",
@@ -40613,6 +47241,10 @@ window.allHeroes =
         "types": [
             "攻击单个目标",
             "元素防御降低"
+        ],
+        "skill_types": [
+            "防御减益",
+            "狙击手"
         ],
         "source": "挑战节-守护者",
         "Release date": "2017-01-01",
@@ -40629,7 +47261,7 @@ window.allHeroes =
         "family": "guardiansteltoc",
         "image": "https://i.imgur.com/yQuuDkU.jpg",
         "costume_id": 0,
-        "originalIndex": 1227
+        "originalIndex": 1228
     },
     {
         "name": "豺狼守护者 (Guardian Jackal) C1",
@@ -40642,6 +47274,10 @@ window.allHeroes =
         "types": [
             "攻击单个目标",
             "防御增益"
+        ],
+        "skill_types": [
+            "防御增益",
+            "狙击手"
         ],
         "source": "挑战节-守护者",
         "Release date": "2023-01-26",
@@ -40658,7 +47294,7 @@ window.allHeroes =
         "family": "guardiansteltoc",
         "image": "https://i.imgur.com/SmImrcW.jpg",
         "costume_id": 1,
-        "originalIndex": 1228
+        "originalIndex": 1229
     },
     {
         "name": "古林博斯帝 (Gullinbursti)",
@@ -40670,6 +47306,12 @@ window.allHeroes =
         "skill": "愤怒野猪",
         "types": [
             "生命值加成"
+        ],
+        "skill_types": [
+            "攻击增益",
+            "治疗",
+            "生命强化",
+            "全体攻击 (打5)"
         ],
         "source": "S3-瓦尔哈拉",
         "Release date": "2020-05-28",
@@ -40686,7 +47328,7 @@ window.allHeroes =
         "family": "asgard",
         "image": "https://i.imgur.com/sx7Ooj7.jpg",
         "costume_id": 0,
-        "originalIndex": 1229
+        "originalIndex": 1230
     },
     {
         "name": "古林博斯帝 (Gullinbursti) C1",
@@ -40698,6 +47340,12 @@ window.allHeroes =
         "skill": "狂怒野猪",
         "types": [
             "生命值加成"
+        ],
+        "skill_types": [
+            "攻击增益",
+            "生命强化",
+            "全体攻击 (打5)",
+            "持续治疗"
         ],
         "source": "S3-瓦尔哈拉",
         "Release date": "2022-07-04",
@@ -40714,7 +47362,7 @@ window.allHeroes =
         "family": "asgard",
         "image": "https://i.imgur.com/0fW6S7f.jpg",
         "costume_id": 1,
-        "originalIndex": 1230
+        "originalIndex": 1231
     },
     {
         "name": "霍莉 (Holly)",
@@ -40728,6 +47376,11 @@ window.allHeroes =
             "治疗者",
             "召唤者",
             "攻击增益"
+        ],
+        "skill_types": [
+            "攻击增益",
+            "治疗",
+            "召唤小兵"
         ],
         "source": "月活动-冬日",
         "Release date": "2022-12-01",
@@ -40746,7 +47399,7 @@ window.allHeroes =
         "family": "christmas",
         "image": "https://i.imgur.com/n6rgqje.jpg",
         "costume_id": 0,
-        "originalIndex": 1231
+        "originalIndex": 1232
     },
     {
         "name": "胡桃 (Hu Tao)",
@@ -40759,6 +47412,10 @@ window.allHeroes =
         "types": [
             "攻击所有目标",
             "全体致盲"
+        ],
+        "skill_types": [
+            "全体攻击 (打5)",
+            "攻击减益"
         ],
         "source": "S1-经典",
         "Release date": "2017-01-01",
@@ -40776,7 +47433,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/uyASMQ6.jpg",
         "costume_id": 0,
-        "originalIndex": 1232
+        "originalIndex": 1233
     },
     {
         "name": "胡桃 (Hu Tao) C1",
@@ -40790,6 +47447,11 @@ window.allHeroes =
             "攻击所有目标",
             "全体致盲",
             "全体治疗降低"
+        ],
+        "skill_types": [
+            "全体攻击 (打5)",
+            "攻击减益",
+            "治疗削减"
         ],
         "source": "S1-经典",
         "Release date": "2021-01-18",
@@ -40807,7 +47469,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/vPJgzTp.jpg",
         "costume_id": 1,
-        "originalIndex": 1233
+        "originalIndex": 1234
     },
     {
         "name": "胡桃 (Hu Tao) C2",
@@ -40821,6 +47483,11 @@ window.allHeroes =
             "攻击所有目标",
             "全体致盲",
             "全体法力生成降低"
+        ],
+        "skill_types": [
+            "全体攻击 (打5)",
+            "攻击减益",
+            "法力削减或格挡"
         ],
         "source": "S1-经典",
         "Release date": "2023-11-27",
@@ -40838,7 +47505,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/3xo1OZT.jpg",
         "costume_id": 2,
-        "originalIndex": 1234
+        "originalIndex": 1235
     },
     {
         "name": "胡桃 (Hu Tao) 卡通",
@@ -40851,6 +47518,11 @@ window.allHeroes =
         "types": [
             "攻击所有目标",
             "全体致盲"
+        ],
+        "skill_types": [
+            "全体攻击 (打5)",
+            "攻击减益",
+            "额外伤害"
         ],
         "source": "S1-经典",
         "Release date": "2024-05-31",
@@ -40870,7 +47542,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/J3KLB3K.jpg",
         "costume_id": 3,
-        "originalIndex": 1235
+        "originalIndex": 1236
     },
     {
         "name": "胡桃 (Hu Tao) 玻璃",
@@ -40884,6 +47556,11 @@ window.allHeroes =
             "攻击所有目标",
             "无视防御",
             "全体致盲"
+        ],
+        "skill_types": [
+            "全体攻击 (打5)",
+            "绕过",
+            "攻击减益"
         ],
         "source": "S1-经典",
         "Release date": "2025-06-18",
@@ -40903,7 +47580,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://imgur.com/V32B1dq.jpg",
         "costume_id": 4,
-        "originalIndex": 1236
+        "originalIndex": 1237
     },
     {
         "name": "伍尔顿女士 (Lady Woolerton)",
@@ -40915,6 +47592,10 @@ window.allHeroes =
         "skill": "柔顺处理",
         "types": [
             "治疗者"
+        ],
+        "skill_types": [
+            "治疗",
+            "对自身或友军负面效果"
         ],
         "source": "月活动-春谷",
         "Release date": "2020-04-06",
@@ -40931,7 +47612,7 @@ window.allHeroes =
         "family": "springvale",
         "image": "https://i.imgur.com/qf9ikj1.jpg",
         "costume_id": 0,
-        "originalIndex": 1237
+        "originalIndex": 1238
     },
     {
         "name": "丽秀 (Li Xiu)",
@@ -40944,6 +47625,10 @@ window.allHeroes =
         "types": [
             "攻击所有目标",
             "法力削减"
+        ],
+        "skill_types": [
+            "全体攻击 (打5)",
+            "法力削减或格挡"
         ],
         "source": "S1-经典",
         "Release date": "2017-01-01",
@@ -40960,7 +47645,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/flDK18I.jpg",
         "costume_id": 0,
-        "originalIndex": 1238
+        "originalIndex": 1239
     },
     {
         "name": "丽秀 (Li Xiu) C1",
@@ -40973,6 +47658,10 @@ window.allHeroes =
         "types": [
             "攻击所有目标",
             "全体法力削减"
+        ],
+        "skill_types": [
+            "全体攻击 (打5)",
+            "法力削减或格挡"
         ],
         "source": "S1-经典",
         "Release date": "2020-01-01",
@@ -40989,7 +47678,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/6LRP9pF.jpg",
         "costume_id": 1,
-        "originalIndex": 1239
+        "originalIndex": 1240
     },
     {
         "name": "丽秀 (Li Xiu) C2",
@@ -41002,6 +47691,10 @@ window.allHeroes =
         "types": [
             "攻击3个目标",
             "3个目标沉默者"
+        ],
+        "skill_types": [
+            "范围攻击 (打3)",
+            "沉默"
         ],
         "source": "S1-经典",
         "Release date": "2023-02-20",
@@ -41018,7 +47711,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/kSRi1Vn.jpg",
         "costume_id": 2,
-        "originalIndex": 1240
+        "originalIndex": 1241
     },
     {
         "name": "丽秀 (Li Xiu) 卡通",
@@ -41031,6 +47724,11 @@ window.allHeroes =
         "types": [
             "攻击所有目标",
             "全体法力削减"
+        ],
+        "skill_types": [
+            "全体攻击 (打5)",
+            "额外伤害",
+            "法力削减或格挡"
         ],
         "source": "S1-经典",
         "Release date": "2024-02-12",
@@ -41050,7 +47748,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/9y6lz7h.jpg",
         "costume_id": 3,
-        "originalIndex": 1241
+        "originalIndex": 1242
     },
     {
         "name": "丽秀 (Li Xiu) 玻璃",
@@ -41064,6 +47762,11 @@ window.allHeroes =
             "攻击所有目标",
             "无视防御",
             "全体法力削减"
+        ],
+        "skill_types": [
+            "全体攻击 (打5)",
+            "绕过",
+            "法力削减或格挡"
         ],
         "source": "S1-经典",
         "Release date": "2025-03-11",
@@ -41083,7 +47786,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/uvZCfR2.jpg",
         "costume_id": 4,
-        "originalIndex": 1242
+        "originalIndex": 1243
     },
     {
         "name": "迷雾 (Mist)",
@@ -41097,6 +47800,12 @@ window.allHeroes =
             "攻击3个目标",
             "增益免疫",
             "法力生成降低"
+        ],
+        "skill_types": [
+            "范围攻击 (打3)",
+            "增益格挡者",
+            "防御减益",
+            "法力削减或格挡"
         ],
         "source": "S3-瓦尔哈拉",
         "Release date": "2020-02-27",
@@ -41115,7 +47824,7 @@ window.allHeroes =
         "family": "midgard",
         "image": "https://i.imgur.com/1FjRHHb.jpg",
         "costume_id": 0,
-        "originalIndex": 1243
+        "originalIndex": 1244
     },
     {
         "name": "苏格拉泰 (Scoratek)",
@@ -41128,6 +47837,11 @@ window.allHeroes =
         "types": [
             "攻击单个目标",
             "召唤1个爆炸恶魔"
+        ],
+        "skill_types": [
+            "召唤恶魔",
+            "狙击手",
+            "持续伤害"
         ],
         "source": "S5-沙丘",
         "Release date": "2022-04-21",
@@ -41150,7 +47864,7 @@ window.allHeroes =
         "family": "moon",
         "image": "https://i.imgur.com/cEv4g9a.jpg",
         "costume_id": 0,
-        "originalIndex": 1244
+        "originalIndex": 1245
     },
     {
         "name": "苏格拉泰 (Scoratek) C1",
@@ -41163,6 +47877,11 @@ window.allHeroes =
         "types": [
             "攻击单个目标",
             "召唤1个爆炸恶魔"
+        ],
+        "skill_types": [
+            "狙击手",
+            "召唤恶魔",
+            "持续伤害"
         ],
         "source": "S5-沙丘",
         "Release date": "2025-01-20",
@@ -41187,7 +47906,7 @@ window.allHeroes =
         "family": "moon",
         "image": "https://i.imgur.com/uNnOzl3.jpg",
         "costume_id": 1,
-        "originalIndex": 1245
+        "originalIndex": 1246
     },
     {
         "name": "斯忒洛珀 (Steropes)",
@@ -41200,6 +47919,10 @@ window.allHeroes =
         "types": [
             "蓄力",
             "强化持续治疗",
+            "复活"
+        ],
+        "skill_types": [
+            "生命强化",
             "复活"
         ],
         "source": "高塔-冥河",
@@ -41226,7 +47949,7 @@ window.allHeroes =
         "family": "styx",
         "image": "https://i.imgur.com/JQkhZ6P.jpg",
         "costume_id": 0,
-        "originalIndex": 1246
+        "originalIndex": 1247
     },
     {
         "name": "沃路普塔斯 (Voluptas)",
@@ -41239,6 +47962,10 @@ window.allHeroes =
         "types": [
             "摧毁3个恶魔",
             "治疗3个目标"
+        ],
+        "skill_types": [
+            "反制恶魔",
+            "治疗"
         ],
         "source": "月活动-恋爱季节",
         "Release date": "2023-02-14",
@@ -41257,7 +47984,7 @@ window.allHeroes =
         "family": "cupid",
         "image": "https://i.imgur.com/FUJWm4U.jpg",
         "costume_id": 0,
-        "originalIndex": 1247
+        "originalIndex": 1248
     },
     {
         "name": "摆摆 (Waddles)",
@@ -41270,6 +47997,10 @@ window.allHeroes =
         "types": [
             "攻击单个目标",
             "莽夫乱拳"
+        ],
+        "skill_types": [
+            "精神错乱攻击&治疗",
+            "狙击手"
         ],
         "source": "联盟-超能萌宠",
         "Release date": "2022-11-03",
@@ -41289,7 +48020,7 @@ window.allHeroes =
         "family": "pets",
         "image": "https://i.imgur.com/acvvh6o.jpg",
         "costume_id": 0,
-        "originalIndex": 1248
+        "originalIndex": 1249
     },
     {
         "name": "王元姬 (Wang Yuanji)",
@@ -41302,6 +48033,10 @@ window.allHeroes =
         "types": [
             "摧毁所有恶魔",
             "生命值加成"
+        ],
+        "skill_types": [
+            "反制恶魔",
+            "生命强化"
         ],
         "source": "三国召唤",
         "Release date": "2022-03-14T12:00:00",
@@ -41318,7 +48053,7 @@ window.allHeroes =
         "family": "kingdom",
         "image": "https://i.imgur.com/SwBxlgF.jpg",
         "costume_id": 0,
-        "originalIndex": 1249
+        "originalIndex": 1250
     },
     {
         "name": "王元姬 (Wang Yuanji) C1",
@@ -41332,6 +48067,11 @@ window.allHeroes =
             "摧毁所有恶魔",
             "全体生命值加成",
             "全体防御增益"
+        ],
+        "skill_types": [
+            "反制恶魔",
+            "生命强化",
+            "防御增益"
         ],
         "source": "三国召唤",
         "Release date": "2025-01-29",
@@ -41354,7 +48094,7 @@ window.allHeroes =
         "family": "kingdom",
         "image": "https://i.imgur.com/EPCCR66.jpg",
         "costume_id": 1,
-        "originalIndex": 1250
+        "originalIndex": 1251
     },
     {
         "name": "悟空 (Wu Kong)",
@@ -41366,6 +48106,10 @@ window.allHeroes =
         "skill": "赌徒心理",
         "types": [
             "泰坦攻击增益"
+        ],
+        "skill_types": [
+            "攻击增益",
+            "对自身或友军负面效果"
         ],
         "source": "S1-经典",
         "Release date": "2017-01-01",
@@ -41382,7 +48126,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/EZfzNHv.jpg",
         "costume_id": 0,
-        "originalIndex": 1251
+        "originalIndex": 1252
     },
     {
         "name": "悟空 (Wu Kong) C1",
@@ -41394,6 +48138,10 @@ window.allHeroes =
         "skill": "赌徒形态",
         "types": [
             "攻击所有目标"
+        ],
+        "skill_types": [
+            "全体攻击 (打5)",
+            "对自身或友军负面效果"
         ],
         "source": "S1-经典",
         "Release date": "2021-01-18",
@@ -41410,7 +48158,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/Xt9qUWm.jpg",
         "costume_id": 1,
-        "originalIndex": 1252
+        "originalIndex": 1253
     },
     {
         "name": "悟空 (Wu Kong) C2",
@@ -41422,6 +48170,10 @@ window.allHeroes =
         "skill": "赌徒挥砍",
         "types": [
             "泰坦攻击增益"
+        ],
+        "skill_types": [
+            "攻击增益",
+            "对自身或友军负面效果"
         ],
         "source": "S1-经典",
         "Release date": "2023-10-30",
@@ -41437,7 +48189,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/gZEff9Z.jpg",
         "costume_id": 2,
-        "originalIndex": 1253
+        "originalIndex": 1254
     },
     {
         "name": "悟空 (Wu Kong) 卡通",
@@ -41449,6 +48201,10 @@ window.allHeroes =
         "skill": "卡通姿态",
         "types": [
             "泰坦攻击增益"
+        ],
+        "skill_types": [
+            "攻击增益",
+            "对自身或友军负面效果"
         ],
         "source": "S1-经典",
         "Release date": "2024-07-16",
@@ -41466,7 +48222,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/3dV4crJ.jpg",
         "costume_id": 3,
-        "originalIndex": 1254
+        "originalIndex": 1255
     },
     {
         "name": "紫苑 (Zione)",
@@ -41478,6 +48234,12 @@ window.allHeroes =
         "skill": "特快专递",
         "types": [
             "改变棋盘",
+            "攻击增益"
+        ],
+        "skill_types": [
+            "改变面板",
+            "法力生成增益",
+            "法力削减或格挡",
             "攻击增益"
         ],
         "source": "超级元素人",
@@ -41501,7 +48263,7 @@ window.allHeroes =
         "family": "superelemental",
         "image": "https://i.imgur.com/b0f7111.jpg",
         "costume_id": 0,
-        "originalIndex": 1255
+        "originalIndex": 1256
     },
     {
         "name": "阿克罗格 (Akkorog)",
@@ -41513,6 +48275,10 @@ window.allHeroes =
         "skill": "巨人削击",
         "types": [
             "攻击3个目标"
+        ],
+        "skill_types": [
+            "范围攻击 (打3)",
+            "重排队伍"
         ],
         "source": "S4-蛮荒地界",
         "Release date": "2021-03-25",
@@ -41531,7 +48297,7 @@ window.allHeroes =
         "family": "underwild",
         "image": "https://i.imgur.com/gMyh86R.jpg",
         "costume_id": 0,
-        "originalIndex": 1256
+        "originalIndex": 1257
     },
     {
         "name": "阿克罗格 (Akkorog) C1",
@@ -41544,6 +48310,13 @@ window.allHeroes =
         "types": [
             "攻击3个目标",
             "闪避叠加"
+        ],
+        "skill_types": [
+            "范围攻击 (打3)",
+            "闪避",
+            "叠加",
+            "防御增益",
+            "重排队伍"
         ],
         "source": "S4-蛮荒地界",
         "Release date": "2024-02-01",
@@ -41564,7 +48337,7 @@ window.allHeroes =
         "family": "underwild",
         "image": "https://i.imgur.com/VvDq081.jpg",
         "costume_id": 1,
-        "originalIndex": 1257
+        "originalIndex": 1258
     },
     {
         "name": "阿尔宾 (Albin)",
@@ -41578,6 +48351,11 @@ window.allHeroes =
             "攻击所有目标",
             "增益持续时间重置",
             "召唤者"
+        ],
+        "skill_types": [
+            "持续治疗",
+            "攻击增益",
+            "对自身或友军负面效果"
         ],
         "source": "月活动-冬日",
         "Release date": "2024-12-01",
@@ -41595,7 +48373,7 @@ window.allHeroes =
         "family": "christmas",
         "image": "https://i.imgur.com/x9XJFnx.jpg",
         "costume_id": 0,
-        "originalIndex": 1258
+        "originalIndex": 1259
     },
     {
         "name": "阿尔瓦 (Alvar)",
@@ -41610,6 +48388,12 @@ window.allHeroes =
             "全体重置状态异常",
             "攻击所有目标",
             "全体反射增益"
+        ],
+        "skill_types": [
+            "净化",
+            "效果持续重置",
+            "全体攻击 (打5)",
+            "反射"
         ],
         "source": "联盟-骑士冲击",
         "Release date": "2024-08-14",
@@ -41630,7 +48414,7 @@ window.allHeroes =
         "family": "stag",
         "image": "https://i.imgur.com/dIFfVvr.jpg",
         "costume_id": 0,
-        "originalIndex": 1259
+        "originalIndex": 1260
     },
     {
         "name": "阿蒙德 (Amund)",
@@ -41644,6 +48428,11 @@ window.allHeroes =
             "攻击所有目标",
             "召唤所有恶魔",
             "阻止净化恶魔"
+        ],
+        "skill_types": [
+            "全体攻击 (打5)",
+            "召唤恶魔",
+            "净化格挡者"
         ],
         "source": "怪兽岛召唤",
         "Release date": "2025-02-27",
@@ -41660,12 +48449,12 @@ window.allHeroes =
         ],
         "passives": [
             "特殊技能伤害减免：该角色有 10% 的几率将受到的特殊技能直接伤害降至 1 点。",
-            "特殊技能附带持续伤害：当该角色施放其特殊技能时，会给一个随机敌人施加猎人印记。目标在 150 回合内受到 3 点伤害。如果目标已有此效果，则持续时间刷新，伤害增加 150 点，总伤害最高可达 1500 点。"
+            "特殊技能附带持续伤害：当该角色施放其特殊技能时，会给一个随机敌人施加猎人印记。目标在 3 回合内受到 150 点伤害。如果目标已有此效果，则持续时间刷新，伤害增加 150 点，总伤害最高可达 1500 点。"
         ],
         "family": "plainshunter",
         "image": "https://i.imgur.com/Cr6rYpC.jpg",
         "costume_id": 0,
-        "originalIndex": 1260
+        "originalIndex": 1261
     },
     {
         "name": "安 (Anne)",
@@ -41677,6 +48466,13 @@ window.allHeroes =
         "skill": "炮火轰击",
         "types": [
             "攻击单个目标"
+        ],
+        "skill_types": [
+            "连锁与随机攻击",
+            "法力削减或格挡",
+            "狙击手",
+            "攻击减益",
+            "防御减益"
         ],
         "source": "挑战节-海盗",
         "Release date": "2022-10-06",
@@ -41694,7 +48490,7 @@ window.allHeroes =
         "family": "corellia",
         "image": "https://i.imgur.com/YcbkyW1.jpg",
         "costume_id": 0,
-        "originalIndex": 1261
+        "originalIndex": 1262
     },
     {
         "name": "安忒洛斯 (Anteros)",
@@ -41707,6 +48503,10 @@ window.allHeroes =
         "types": [
             "攻击单个目标",
             "失心治疗"
+        ],
+        "skill_types": [
+            "狙击手",
+            "精神错乱攻击&治疗"
         ],
         "source": "月活动-恋爱季节",
         "Release date": "2025-02-14",
@@ -41728,7 +48528,7 @@ window.allHeroes =
         "family": "cupid",
         "image": "https://i.imgur.com/ZH2Xuuj.jpg",
         "costume_id": 0,
-        "originalIndex": 1262
+        "originalIndex": 1263
     },
     {
         "name": "奥代 (Aouda)",
@@ -41740,6 +48540,10 @@ window.allHeroes =
         "skill": "本德尔坎德之刃",
         "types": [
             "攻击单个目标"
+        ],
+        "skill_types": [
+            "额外伤害",
+            "狙击手"
         ],
         "source": "S4-蛮荒地界",
         "Release date": "2021-07-15",
@@ -41758,7 +48562,7 @@ window.allHeroes =
         "family": "underwild",
         "image": "https://i.imgur.com/Ri4pkcS.jpg",
         "costume_id": 0,
-        "originalIndex": 1263
+        "originalIndex": 1264
     },
     {
         "name": "奥代 (Aouda) C1",
@@ -41770,6 +48574,11 @@ window.allHeroes =
         "skill": "本德尔坎德之杖",
         "types": [
             "攻击单个目标"
+        ],
+        "skill_types": [
+            "额外伤害",
+            "狙击手",
+            "攻击增益"
         ],
         "source": "S4-蛮荒地界",
         "Release date": "2023-09-07",
@@ -41789,7 +48598,7 @@ window.allHeroes =
         "family": "underwild",
         "image": "https://i.imgur.com/8bE9bAk.jpg",
         "costume_id": 1,
-        "originalIndex": 1264
+        "originalIndex": 1265
     },
     {
         "name": "艾森 (Ashen)",
@@ -41804,6 +48613,13 @@ window.allHeroes =
             "全体持续攻击增益",
             "攻击所有目标",
             "全体持续攻击降低"
+        ],
+        "skill_types": [
+            "治疗削减",
+            "全体攻击 (打5)",
+            "攻击减益",
+            "持续治疗",
+            "攻击增益"
         ],
         "source": "盟约召唤",
         "Release date": "2025-02-26",
@@ -41826,7 +48642,7 @@ window.allHeroes =
         "family": "fox",
         "image": "https://i.imgur.com/JxS30IU.jpg",
         "costume_id": 0,
-        "originalIndex": 1265
+        "originalIndex": 1266
     },
     {
         "name": "阿斯特丽德 (Astrid)",
@@ -41839,6 +48655,11 @@ window.allHeroes =
         "types": [
             "治疗者",
             "复活者"
+        ],
+        "skill_types": [
+            "治疗",
+            "复活",
+            "伤害减免"
         ],
         "source": "挑战节-吟游诗人",
         "Release date": "2024-11-14",
@@ -41861,7 +48682,7 @@ window.allHeroes =
         "family": "bard",
         "image": "https://i.imgur.com/efuZ1Xu.jpg",
         "costume_id": 0,
-        "originalIndex": 1266
+        "originalIndex": 1267
     },
     {
         "name": "奥瑞卡克 (Auricarc)",
@@ -41876,6 +48697,14 @@ window.allHeroes =
             "偷取单个目标法力",
             "攻击单个目标",
             "单体沉睡"
+        ],
+        "skill_types": [
+            "法力提升",
+            "法力削减或格挡",
+            "反制小兵",
+            "沉睡",
+            "狙击手",
+            "闪避"
         ],
         "source": "联盟-飞蛾",
         "Release date": "2025-05-01",
@@ -41896,7 +48725,7 @@ window.allHeroes =
         "family": "moth",
         "image": "https://imgur.com/U5vFSXy.jpg",
         "costume_id": 0,
-        "originalIndex": 1267
+        "originalIndex": 1268
     },
     {
         "name": "阿维亚纳 (Aviana)",
@@ -41910,6 +48739,12 @@ window.allHeroes =
             "攻击3个目标",
             "3个目标增益免疫",
             "3个目标暴击几率增益"
+        ],
+        "skill_types": [
+            "范围攻击 (打3)",
+            "增益格挡者",
+            "攻击增益",
+            "闪避"
         ],
         "source": "月英",
         "Release date": "2024-06-01",
@@ -41931,7 +48766,7 @@ window.allHeroes =
         "family": 2024,
         "image": "https://i.imgur.com/0zHJdCL.jpg",
         "costume_id": 0,
-        "originalIndex": 1268
+        "originalIndex": 1269
     },
     {
         "name": "白杨 (Bai Yeong)",
@@ -41945,6 +48780,12 @@ window.allHeroes =
             "攻击单个目标",
             "致盲",
             "治疗降低"
+        ],
+        "skill_types": [
+            "攻击减益",
+            "治疗削减",
+            "狙击手",
+            "防御增益"
         ],
         "source": "月英",
         "Release date": "2020-09-01",
@@ -41965,7 +48806,7 @@ window.allHeroes =
         "family": 2020,
         "image": "https://i.imgur.com/4FIVAWy.jpg",
         "costume_id": 0,
-        "originalIndex": 1269
+        "originalIndex": 1270
     },
     {
         "name": "白鼠 (Baishu)",
@@ -41978,6 +48819,12 @@ window.allHeroes =
         "types": [
             "偷取全体1个增益或攻击全体",
             "全体移除1个异常或攻击全体"
+        ],
+        "skill_types": [
+            "反制小兵",
+            "增益窃取者",
+            "全体攻击 (打5)",
+            "净化"
         ],
         "source": "月活动-农历生肖",
         "Release date": "2025-01-27",
@@ -41998,7 +48845,7 @@ window.allHeroes =
         "family": "lunaryear",
         "image": "https://i.imgur.com/hMx4yq8.jpg",
         "costume_id": 0,
-        "originalIndex": 1270
+        "originalIndex": 1271
     },
     {
         "name": "凯特琳 (Caitlin)",
@@ -42013,6 +48860,15 @@ window.allHeroes =
             "攻击所有目标",
             "自我法力生成叠加",
             "自我持续治疗叠加"
+        ],
+        "skill_types": [
+            "全体攻击 (打5)",
+            "驱散",
+            "特殊治疗",
+            "叠加",
+            "额外伤害",
+            "法力生成增益",
+            "持续治疗"
         ],
         "source": "挑战节-杀手",
         "Release date": "2021-08-05",
@@ -42034,7 +48890,7 @@ window.allHeroes =
         "family": "slayer",
         "image": "https://i.imgur.com/ERb7z96.jpg",
         "costume_id": 0,
-        "originalIndex": 1271
+        "originalIndex": 1272
     },
     {
         "name": "凯特琳 (Caitlin) C1",
@@ -42049,6 +48905,16 @@ window.allHeroes =
             "攻击所有目标",
             "自我法力生成叠加",
             "自我持续治疗叠加"
+        ],
+        "skill_types": [
+            "驱散",
+            "全体攻击 (打5)",
+            "额外伤害",
+            "法力生成增益",
+            "持续治疗",
+            "叠加",
+            "持续伤害",
+            "特殊治疗"
         ],
         "source": "挑战节-杀手",
         "Release date": "2024-11-14",
@@ -42066,12 +48932,12 @@ window.allHeroes =
         ],
         "passives": [
             "抵抗状态效果伤害：该角色天生对来自状态效果的伤害有抵抗能力。",
-            "特殊技能附带流血：当该角色施放其特殊技能时，所有敌人会在 528 回合内受到 4 点流血伤害。"
+            "特殊技能附带流血：当该角色施放其特殊技能时，所有敌人会在 4 回合内受到 528 点流血伤害。"
         ],
         "family": "slayer",
         "image": "https://i.imgur.com/JgYBU3i.jpg",
         "costume_id": 1,
-        "originalIndex": 1272
+        "originalIndex": 1273
     },
     {
         "name": "塞利达纳 (Celidana)",
@@ -42085,6 +48951,12 @@ window.allHeroes =
             "3个目标生命值加成",
             "3个目标防御增益",
             "3个目标最大生命值降低免疫"
+        ],
+        "skill_types": [
+            "防御增益",
+            "反制恶魔",
+            "生命强化",
+            "提供免疫"
         ],
         "source": "月英",
         "Release date": "2022-10-01",
@@ -42106,7 +48978,7 @@ window.allHeroes =
         "family": 2022,
         "image": "https://i.imgur.com/fzHIBe5.jpg",
         "costume_id": 0,
-        "originalIndex": 1273
+        "originalIndex": 1274
     },
     {
         "name": "克里斯蒂娜·达埃 (Christine Daae)",
@@ -42122,6 +48994,15 @@ window.allHeroes =
             "致盲",
             "防御降低",
             "增益免疫"
+        ],
+        "skill_types": [
+            "范围攻击 (打3)",
+            "增益格挡者",
+            "舞者",
+            "攻击减益",
+            "防御减益",
+            "驱散",
+            "净化"
         ],
         "source": "至日召唤",
         "Release date": "2023-11-30",
@@ -42146,7 +49027,7 @@ window.allHeroes =
         "family": "opera",
         "image": "https://i.imgur.com/x8CUwhf.jpg",
         "costume_id": 0,
-        "originalIndex": 1274
+        "originalIndex": 1275
     },
     {
         "name": "克利奥帕特拉 (Cleopatra)",
@@ -42159,6 +49040,11 @@ window.allHeroes =
         "types": [
             "治疗者",
             "状态异常免疫"
+        ],
+        "skill_types": [
+            "治疗",
+            "提供免疫",
+            "特殊治疗"
         ],
         "source": "S5-沙丘",
         "Release date": "2022-10-27",
@@ -42179,7 +49065,7 @@ window.allHeroes =
         "family": "sun",
         "image": "https://i.imgur.com/pyEHRBi.jpg",
         "costume_id": 0,
-        "originalIndex": 1275
+        "originalIndex": 1276
     },
     {
         "name": "克利奥帕特拉 (Cleopatra) C1",
@@ -42192,6 +49078,13 @@ window.allHeroes =
         "types": [
             "治疗者",
             "状态异常免疫"
+        ],
+        "skill_types": [
+            "治疗",
+            "提供免疫",
+            "特殊治疗",
+            "生命强化",
+            "净化"
         ],
         "source": "S5-沙丘",
         "Release date": "2024-04-29",
@@ -42214,7 +49107,7 @@ window.allHeroes =
         "family": "sun",
         "image": "https://i.imgur.com/BWI4O98.jpg",
         "costume_id": 1,
-        "originalIndex": 1276
+        "originalIndex": 1277
     },
     {
         "name": "康斯坦丝 (Constance)",
@@ -42226,6 +49119,11 @@ window.allHeroes =
         "skill": "剑舞",
         "types": [
             "攻击所有目标"
+        ],
+        "skill_types": [
+            "全体攻击 (打5)",
+            "闪避",
+            "反击"
         ],
         "source": "联盟-火枪手",
         "Release date": "2023-07-26",
@@ -42244,7 +49142,7 @@ window.allHeroes =
         "family": "musketeer",
         "image": "https://i.imgur.com/MWL4e5h.jpg",
         "costume_id": 0,
-        "originalIndex": 1277
+        "originalIndex": 1278
     },
     {
         "name": "达布莉亚 (Dabria)",
@@ -42259,6 +49157,11 @@ window.allHeroes =
             "治疗者",
             "防御增益"
         ],
+        "skill_types": [
+            "防御增益",
+            "持续治疗",
+            "复活"
+        ],
         "source": "盟约召唤",
         "Release date": "2023-02-09",
         "star": 5,
@@ -42272,13 +49175,13 @@ window.allHeroes =
             "所有盟友获得 +24% 防御，持续 4 回合。防御每回合增加 10% ，最高为 +54%。"
         ],
         "passives": [
-            "特殊技能附带持续伤害：当该角色施放其特殊技能时，会给一个随机敌人施加猎人印记。目标在 150 回合内受到 3 点伤害。如果目标已有此效果，则持续时间刷新，伤害增加 150 点，总伤害最高可达 1500 点。",
+            "特殊技能附带持续伤害：当该角色施放其特殊技能时，会给一个随机敌人施加猎人印记。目标在 3 回合内受到 150 点伤害。如果目标已有此效果，则持续时间刷新，伤害增加 150 点，总伤害最高可达 1500 点。",
             "猎手感知：当该角色施放其特殊技能时，有 100% 的几率将自身最新的状态异常转移给目标。如果其特殊技能无法选择敌方目标，则会随机转移至一名敌人。若此角色没有状态异常，则恢复自身 3% 的生命。"
         ],
         "family": "abysshunter",
         "image": "https://i.imgur.com/EUt5N6q.jpg",
         "costume_id": 0,
-        "originalIndex": 1278
+        "originalIndex": 1279
     },
     {
         "name": "达利拉 (Delilah)",
@@ -42291,6 +49194,11 @@ window.allHeroes =
         "types": [
             "治疗者",
             "召唤者"
+        ],
+        "skill_types": [
+            "治疗",
+            "法力生成增益",
+            "召唤小兵"
         ],
         "source": "月英",
         "Release date": "2018-03-01T00:00:00",
@@ -42308,7 +49216,7 @@ window.allHeroes =
         "family": 2018,
         "image": "https://i.imgur.com/gbHdhVI.jpg",
         "costume_id": 0,
-        "originalIndex": 1279
+        "originalIndex": 1280
     },
     {
         "name": "达利拉 (Delilah) C1",
@@ -42321,6 +49229,12 @@ window.allHeroes =
         "types": [
             "治疗者",
             "召唤者"
+        ],
+        "skill_types": [
+            "治疗",
+            "法力生成增益",
+            "召唤小兵",
+            "净化"
         ],
         "source": "月英",
         "Release date": "2023-05-15",
@@ -42340,7 +49254,7 @@ window.allHeroes =
         "family": 2018,
         "image": "https://i.imgur.com/muqHGtI.jpg",
         "costume_id": 1,
-        "originalIndex": 1280
+        "originalIndex": 1281
     },
     {
         "name": "德瓦娜 (Devana)",
@@ -42354,6 +49268,13 @@ window.allHeroes =
             "攻击3个目标",
             "召唤者",
             "驱散者"
+        ],
+        "skill_types": [
+            "范围攻击 (打3)",
+            "驱散",
+            "法力提升",
+            "反制小兵",
+            "召唤小兵"
         ],
         "source": "月英",
         "Release date": "2021-07-01",
@@ -42376,7 +49297,7 @@ window.allHeroes =
         "family": 2021,
         "image": "https://i.imgur.com/kOGhPnC.jpg",
         "costume_id": 0,
-        "originalIndex": 1281
+        "originalIndex": 1282
     },
     {
         "name": "朱利主管 (Director Zuri)",
@@ -42390,6 +49311,11 @@ window.allHeroes =
             "全体治疗",
             "召唤所有",
             "全体净化"
+        ],
+        "skill_types": [
+            "净化",
+            "治疗",
+            "召唤小兵"
         ],
         "source": "挑战节-星落",
         "Release date": "2021-06-10",
@@ -42407,7 +49333,7 @@ window.allHeroes =
         "family": "starfall",
         "image": "https://i.imgur.com/NrSrxkV.jpg",
         "costume_id": 0,
-        "originalIndex": 1282
+        "originalIndex": 1283
     },
     {
         "name": "德洛丽丝 (Dolores)",
@@ -42423,6 +49349,14 @@ window.allHeroes =
             "攻击增益叠加",
             "法力生成增益叠加",
             "自我狂乱"
+        ],
+        "skill_types": [
+            "伤害减免",
+            "连锁与随机攻击",
+            "攻击增益",
+            "法力生成增益",
+            "叠加",
+            "对自身或友军负面效果"
         ],
         "source": "额外抽奖-秘密召唤",
         "Release date": "2024-05-17",
@@ -42443,7 +49377,7 @@ window.allHeroes =
         "family": "investigator",
         "image": "https://i.imgur.com/sAavBEB.jpg",
         "costume_id": 0,
-        "originalIndex": 1283
+        "originalIndex": 1284
     },
     {
         "name": "德雷克方 (Drake Fong)",
@@ -42456,6 +49390,12 @@ window.allHeroes =
         "types": [
             "攻击3个目标",
             "致盲"
+        ],
+        "skill_types": [
+            "范围攻击 (打3)",
+            "攻击减益",
+            "攻击增益",
+            "防御增益"
         ],
         "source": "月英",
         "Release date": "2018-08-01T00:00:00",
@@ -42473,7 +49413,7 @@ window.allHeroes =
         "family": 2018,
         "image": "https://i.imgur.com/DfnVeiC.jpg",
         "costume_id": 0,
-        "originalIndex": 1284
+        "originalIndex": 1285
     },
     {
         "name": "德雷克方 (Drake Fong) C1",
@@ -42486,6 +49426,13 @@ window.allHeroes =
         "types": [
             "攻击3个目标",
             "致盲"
+        ],
+        "skill_types": [
+            "范围攻击 (打3)",
+            "攻击减益",
+            "攻击增益",
+            "防御增益",
+            "驱散"
         ],
         "source": "月英",
         "Release date": "2021-12-23",
@@ -42505,7 +49452,7 @@ window.allHeroes =
         "family": 2018,
         "image": "https://i.imgur.com/31loghP.jpg",
         "costume_id": 1,
-        "originalIndex": 1285
+        "originalIndex": 1286
     },
     {
         "name": "埃洛伊丝 (Eloise)",
@@ -42519,6 +49466,10 @@ window.allHeroes =
             "摧毁所有小兵",
             "攻击所有目标",
             "小兵免疫"
+        ],
+        "skill_types": [
+            "全体攻击 (打5)",
+            "反制小兵"
         ],
         "source": "联盟-骑士冲击",
         "Release date": "2022-01-05",
@@ -42536,7 +49487,7 @@ window.allHeroes =
         "family": "raven",
         "image": "https://i.imgur.com/x2Zz9OK.jpg",
         "costume_id": 0,
-        "originalIndex": 1286
+        "originalIndex": 1287
     },
     {
         "name": "依菲拉 (Ephyra)",
@@ -42550,6 +49501,12 @@ window.allHeroes =
             "召唤所有小兵",
             "叠加",
             "全体恶魔替换"
+        ],
+        "skill_types": [
+            "反制恶魔",
+            "小兵强化",
+            "召唤小兵",
+            "叠加"
         ],
         "source": "S6-S7-秘闻",
         "Release date": "2023-06-07",
@@ -42576,7 +49533,7 @@ window.allHeroes =
         "family": "defendersofatlantis",
         "image": "https://i.imgur.com/nL4nDAx.jpg",
         "costume_id": 0,
-        "originalIndex": 1287
+        "originalIndex": 1288
     },
     {
         "name": "依菲拉 (Ephyra) C1",
@@ -42590,6 +49547,12 @@ window.allHeroes =
             "召唤所有小兵",
             "叠加",
             "全体恶魔替换"
+        ],
+        "skill_types": [
+            "反制恶魔",
+            "小兵强化",
+            "召唤小兵",
+            "叠加"
         ],
         "source": "S6-S7-秘闻",
         "Release date": "2025-03-31",
@@ -42617,7 +49580,7 @@ window.allHeroes =
         "family": "defendersofatlantis",
         "image": "https://imgur.com/CAlgEAJ.jpg",
         "costume_id": 1,
-        "originalIndex": 1288
+        "originalIndex": 1289
     },
     {
         "name": "二郎神 (Erlang Shen)",
@@ -42630,6 +49593,10 @@ window.allHeroes =
         "types": [
             "攻击3个目标",
             "攻击降低"
+        ],
+        "skill_types": [
+            "范围攻击 (打3)",
+            "攻击减益"
         ],
         "source": "三国召唤",
         "Release date": "2023-01-02",
@@ -42646,7 +49613,7 @@ window.allHeroes =
         "family": "journey",
         "image": "https://i.imgur.com/vft4guR.jpg",
         "costume_id": 0,
-        "originalIndex": 1289
+        "originalIndex": 1290
     },
     {
         "name": "艾塞特 (Eset)",
@@ -42660,6 +49627,13 @@ window.allHeroes =
             "攻击单个目标",
             "随机攻击5个目标",
             "改变棋盘"
+        ],
+        "skill_types": [
+            "改变面板",
+            "攻击减益",
+            "攻击增益",
+            "连锁与随机攻击",
+            "额外伤害"
         ],
         "source": "S5-沙丘",
         "Release date": "2023-01-19",
@@ -42681,7 +49655,7 @@ window.allHeroes =
         "family": "sun",
         "image": "https://i.imgur.com/0YdsTMt.jpg",
         "costume_id": 0,
-        "originalIndex": 1290
+        "originalIndex": 1291
     },
     {
         "name": "艾塞特 (Eset) C1",
@@ -42695,6 +49669,13 @@ window.allHeroes =
             "攻击单个目标",
             "随机攻击5个目标",
             "改变棋盘"
+        ],
+        "skill_types": [
+            "改变面板",
+            "攻击减益",
+            "攻击增益",
+            "连锁与随机攻击",
+            "额外伤害"
         ],
         "source": "S5-沙丘",
         "Release date": "2025-06-11",
@@ -42718,7 +49699,7 @@ window.allHeroes =
         "family": "sun",
         "image": "https://imgur.com/4M257qJ.jpg",
         "costume_id": 1,
-        "originalIndex": 1291
+        "originalIndex": 1292
     },
     {
         "name": "经验拟态兽 (Experience Mimic) Holy",
@@ -42732,6 +49713,15 @@ window.allHeroes =
             "摧毁单个目标的小兵",
             "攻击单个目标",
             "宝箱怪"
+        ],
+        "skill_types": [
+            "特殊治疗",
+            "反制小兵",
+            "狙击手",
+            "法力提升",
+            "提供免疫",
+            "鬼魂形态与隐藏",
+            "绕过"
         ],
         "source": "额外抽奖-秘密召唤",
         "Release date": "2025-05-31",
@@ -42758,7 +49748,7 @@ window.allHeroes =
         "family": "mimic",
         "image": "https://imgur.com/WAwhfFp.jpg",
         "costume_id": 0,
-        "originalIndex": 1292
+        "originalIndex": 1293
     },
     {
         "name": "法欧娜 (Faeona)",
@@ -42772,6 +49762,13 @@ window.allHeroes =
             "治疗者",
             "治疗增益",
             "单体法力生成增益叠加"
+        ],
+        "skill_types": [
+            "治疗",
+            "特殊治疗",
+            "法力生成增益",
+            "叠加",
+            "攻击增益"
         ],
         "source": "月英",
         "Release date": "2024-12-01",
@@ -42793,7 +49790,7 @@ window.allHeroes =
         "family": 2024,
         "image": "https://i.imgur.com/plLMCMU.jpg",
         "costume_id": 0,
-        "originalIndex": 1293
+        "originalIndex": 1294
     },
     {
         "name": "法里恩 (Faline)",
@@ -42806,6 +49803,10 @@ window.allHeroes =
         "types": [
             "攻击3个目标",
             "单体法力生成降低"
+        ],
+        "skill_types": [
+            "范围攻击 (打3)",
+            "法力削减或格挡"
         ],
         "source": "挑战节-星落",
         "Release date": "2021-06-10",
@@ -42822,7 +49823,7 @@ window.allHeroes =
         "family": "starfall",
         "image": "https://i.imgur.com/8rLI8nK.jpg",
         "costume_id": 0,
-        "originalIndex": 1294
+        "originalIndex": 1295
     },
     {
         "name": "弗兰克·\"獠牙\"·布林威尔 (Frank 'Fangs' Brimwell)",
@@ -42835,6 +49836,11 @@ window.allHeroes =
         "types": [
             "攻击3个目标",
             "守卫超级小兵"
+        ],
+        "skill_types": [
+            "召唤巨型小兵",
+            "范围攻击 (打3)",
+            "全体攻击 (打5)"
         ],
         "source": "哥布林召唤",
         "Release date": "2024-08-04",
@@ -42856,7 +49862,7 @@ window.allHeroes =
         "family": "garrisonguard",
         "image": "https://i.imgur.com/N2blWos.jpg",
         "costume_id": 0,
-        "originalIndex": 1295
+        "originalIndex": 1296
     },
     {
         "name": "费迪南 (Furdinand)",
@@ -42873,6 +49879,13 @@ window.allHeroes =
             "全体反射状态异常",
             "全体反射叠加效果",
             "全体持续治疗"
+        ],
+        "skill_types": [
+            "净化",
+            "伤害分摊",
+            "持续治疗",
+            "反射",
+            "防御增益"
         ],
         "source": "联盟-超能萌宠",
         "Release date": "2022-11-03",
@@ -42895,7 +49908,7 @@ window.allHeroes =
         "family": "pets",
         "image": "https://i.imgur.com/xJBNOD9.jpg",
         "costume_id": 0,
-        "originalIndex": 1296
+        "originalIndex": 1297
     },
     {
         "name": "甘德尔 (Gandr)",
@@ -42909,6 +49922,16 @@ window.allHeroes =
             "攻击所有目标",
             "治疗者",
             "反击"
+        ],
+        "skill_types": [
+            "全体攻击 (打5)",
+            "特殊治疗",
+            "反击",
+            "额外伤害",
+            "绕过",
+            "持续伤害",
+            "防御减益",
+            "反制小兵"
         ],
         "source": "S6-S7-秘闻",
         "Release date": "2024-12-03",
@@ -42932,7 +49955,7 @@ window.allHeroes =
         "family": "nidavellir",
         "image": "https://i.imgur.com/hNiWYCE.jpg",
         "costume_id": 0,
-        "originalIndex": 1297
+        "originalIndex": 1298
     },
     {
         "name": "基迪恩 (Gideon)",
@@ -42947,7 +49970,13 @@ window.allHeroes =
             "强化闪避",
             "延迟治疗"
         ],
-        "source": "S4-荒野",
+        "skill_types": [
+            "净化",
+            "闪避",
+            "治疗",
+            "防御增益"
+        ],
+        "source": "荒野召唤",
         "Release date": "2024-12-07",
         "star": 5,
         "power": 1150,
@@ -42967,7 +49996,7 @@ window.allHeroes =
         "family": "woodlandfaun",
         "image": "https://i.imgur.com/5Tx3rNq.jpg",
         "costume_id": 0,
-        "originalIndex": 1298
+        "originalIndex": 1299
     },
     {
         "name": "吉利根 (Gilligan)",
@@ -42980,6 +50009,11 @@ window.allHeroes =
         "types": [
             "攻击3个目标",
             "防御增益"
+        ],
+        "skill_types": [
+            "范围攻击 (打3)",
+            "防御增益",
+            "绕过"
         ],
         "source": "月英",
         "Release date": "2023-03-01",
@@ -43001,7 +50035,7 @@ window.allHeroes =
         "family": 2023,
         "image": "https://i.imgur.com/gcaSLmN.jpg",
         "costume_id": 0,
-        "originalIndex": 1299
+        "originalIndex": 1300
     },
     {
         "name": "金滴 (Goldrip)",
@@ -43015,6 +50049,11 @@ window.allHeroes =
             "单体贪婪",
             "全体持续伤害",
             "攻击所有目标"
+        ],
+        "skill_types": [
+            "全体攻击 (打5)",
+            "持续伤害",
+            "状态效果格挡"
         ],
         "source": "超级元素人",
         "Release date": "2025-06-07",
@@ -43035,7 +50074,7 @@ window.allHeroes =
         "family": "slime",
         "image": "https://imgur.com/iqx1d2N.jpg",
         "costume_id": 0,
-        "originalIndex": 1300
+        "originalIndex": 1301
     },
     {
         "name": "公牛 (Gongniu)",
@@ -43049,6 +50088,11 @@ window.allHeroes =
             "防御增益",
             "延迟治疗者",
             "延迟法力提升"
+        ],
+        "skill_types": [
+            "防御增益",
+            "治疗",
+            "法力提升"
         ],
         "source": "月活动-农历生肖",
         "Release date": "2024-02-08",
@@ -43069,7 +50113,7 @@ window.allHeroes =
         "family": "lunaryear",
         "image": "https://i.imgur.com/BDNFVzo.jpg",
         "costume_id": 0,
-        "originalIndex": 1301
+        "originalIndex": 1302
     },
     {
         "name": "古里克 (Gooric)",
@@ -43083,6 +50127,11 @@ window.allHeroes =
             "全体攻击增益",
             "全体法力生成增益",
             "史莱姆复活"
+        ],
+        "skill_types": [
+            "攻击增益",
+            "法力生成增益",
+            "复活"
         ],
         "source": "超级元素人",
         "Release date": "2025-01-01",
@@ -43109,7 +50158,7 @@ window.allHeroes =
         "family": "slime",
         "image": "https://i.imgur.com/QoTjDm5.jpg",
         "costume_id": 0,
-        "originalIndex": 1302
+        "originalIndex": 1303
     },
     {
         "name": "葛莉卡 (Grilka)",
@@ -43122,6 +50171,12 @@ window.allHeroes =
         "types": [
             "嘲讽",
             "强化持续治疗",
+            "法力生成增益"
+        ],
+        "skill_types": [
+            "嘲讽",
+            "生命强化",
+            "持续治疗",
             "法力生成增益"
         ],
         "source": "超级元素人",
@@ -43147,7 +50202,7 @@ window.allHeroes =
         "family": "superelemental",
         "image": "https://i.imgur.com/71dNXYj.jpg",
         "costume_id": 0,
-        "originalIndex": 1303
+        "originalIndex": 1304
     },
     {
         "name": "巨象守护者 (Guardian Elephant)",
@@ -43162,6 +50217,14 @@ window.allHeroes =
             "叠加",
             "不可驱散的增益",
             "不可驱散的状态异常"
+        ],
+        "skill_types": [
+            "连锁与随机攻击",
+            "叠加",
+            "攻击减益",
+            "防御减益",
+            "提供免疫",
+            "净化格挡者"
         ],
         "source": "挑战节-守护者",
         "Release date": "2024-02-22",
@@ -43183,7 +50246,7 @@ window.allHeroes =
         "family": "guardiansteltoc",
         "image": "https://i.imgur.com/oi9Vymu.jpg",
         "costume_id": 0,
-        "originalIndex": 1304
+        "originalIndex": 1305
     },
     {
         "name": "瞪羚守护者 (Guardian Gazelle)",
@@ -43199,6 +50262,15 @@ window.allHeroes =
             "灵魂之舞 (4个目标)",
             "舞蹈期间4个目标攻击增益",
             "舞蹈期间4个目标伤害减免"
+        ],
+        "skill_types": [
+            "攻击增益",
+            "净化",
+            "伤害减免",
+            "舞者",
+            "持续治疗",
+            "提供免疫",
+            "对自身或友军负面效果"
         ],
         "source": "挑战节-守护者",
         "Release date": "2020-01-08",
@@ -43220,7 +50292,7 @@ window.allHeroes =
         "family": "guardiansteltoc",
         "image": "https://i.imgur.com/B2LpVrC.jpg",
         "costume_id": 0,
-        "originalIndex": 1305
+        "originalIndex": 1306
     },
     {
         "name": "瞪羚守护者 (Guardian Gazelle) C1",
@@ -43236,6 +50308,15 @@ window.allHeroes =
             "灵魂之舞 (4个目标)",
             "舞蹈期间4个目标攻击增益",
             "舞蹈期间4个目标伤害减免"
+        ],
+        "skill_types": [
+            "攻击增益",
+            "净化",
+            "伤害减免",
+            "舞者",
+            "治疗",
+            "提供免疫",
+            "对自身或友军负面效果"
         ],
         "source": "挑战节-守护者",
         "Release date": "2023-01-26",
@@ -43257,7 +50338,7 @@ window.allHeroes =
         "family": "guardiansteltoc",
         "image": "https://i.imgur.com/E5qL0sl.jpg",
         "costume_id": 1,
-        "originalIndex": 1306
+        "originalIndex": 1307
     },
     {
         "name": "猫头鹰守护者 (Guardian Owl)",
@@ -43271,6 +50352,12 @@ window.allHeroes =
             "攻击所有目标",
             "自我防御增益",
             "自我持续治疗"
+        ],
+        "skill_types": [
+            "全体攻击 (打5)",
+            "防御增益",
+            "额外伤害",
+            "持续治疗"
         ],
         "source": "挑战节-守护者",
         "Release date": "2017-01-01",
@@ -43289,7 +50376,7 @@ window.allHeroes =
         "family": "guardiansteltoc",
         "image": "https://i.imgur.com/XO3HIxy.jpg",
         "costume_id": 0,
-        "originalIndex": 1307
+        "originalIndex": 1308
     },
     {
         "name": "桂妮维亚 (Guinevere)",
@@ -43303,6 +50390,11 @@ window.allHeroes =
             "全体法力削减",
             "全体持续治疗",
             "全体元素防御增益"
+        ],
+        "skill_types": [
+            "防御增益",
+            "持续治疗",
+            "法力削减或格挡"
         ],
         "source": "挑战节-阿瓦隆",
         "Release date": "2017-01-01",
@@ -43320,7 +50412,7 @@ window.allHeroes =
         "family": "avalon",
         "image": "https://i.imgur.com/dYjW9Xa.jpg",
         "costume_id": 0,
-        "originalIndex": 1308
+        "originalIndex": 1309
     },
     {
         "name": "桂妮维亚 (Guinevere) C1",
@@ -43335,6 +50427,11 @@ window.allHeroes =
             "全体治疗",
             "全体元素反射",
             "全体元素反击"
+        ],
+        "skill_types": [
+            "治疗",
+            "法力削减或格挡",
+            "反射"
         ],
         "source": "挑战节-阿瓦隆",
         "Release date": "2023-04-20",
@@ -43352,7 +50449,7 @@ window.allHeroes =
         "family": "avalon",
         "image": "https://i.imgur.com/IeQY7xx.jpg",
         "costume_id": 1,
-        "originalIndex": 1309
+        "originalIndex": 1310
     },
     {
         "name": "关恩 (Gwynn)",
@@ -43366,6 +50463,12 @@ window.allHeroes =
             "攻击所有目标",
             "全体持续伤害",
             "持续伤害增加"
+        ],
+        "skill_types": [
+            "全体攻击 (打5)",
+            "反制小兵",
+            "持续伤害",
+            "额外伤害"
         ],
         "source": "盟约召唤",
         "Release date": "2024-07-12",
@@ -43389,7 +50492,7 @@ window.allHeroes =
         "family": "construct",
         "image": "https://i.imgur.com/94OEbs6.jpg",
         "costume_id": 0,
-        "originalIndex": 1310
+        "originalIndex": 1311
     },
     {
         "name": "忠犬八公 (Hachiko)",
@@ -43403,6 +50506,11 @@ window.allHeroes =
             "攻击所有目标",
             "反击",
             "暴击增益"
+        ],
+        "skill_types": [
+            "全体攻击 (打5)",
+            "攻击增益",
+            "反击"
         ],
         "source": "联盟-超能萌宠",
         "Release date": "2022-11-03",
@@ -43423,7 +50531,7 @@ window.allHeroes =
         "family": "pets",
         "image": "https://i.imgur.com/SMSyQXB.jpg",
         "costume_id": 0,
-        "originalIndex": 1311
+        "originalIndex": 1312
     },
     {
         "name": "哈妮特拉 (Hanitra)",
@@ -43436,6 +50544,11 @@ window.allHeroes =
         "types": [
             "闪避增益",
             "生命值加成"
+        ],
+        "skill_types": [
+            "闪避",
+            "生命强化",
+            "提供免疫"
         ],
         "source": "月英",
         "Release date": "2021-12-01",
@@ -43456,7 +50569,7 @@ window.allHeroes =
         "family": 2021,
         "image": "https://i.imgur.com/Q6iWdU3.jpg",
         "costume_id": 0,
-        "originalIndex": 1312
+        "originalIndex": 1313
     },
     {
         "name": "哈乌里 (Haumri)",
@@ -43471,6 +50584,15 @@ window.allHeroes =
             "随机攻击",
             "全体安全驱散1个增益",
             "全体衰退"
+        ],
+        "skill_types": [
+            "驱散",
+            "属性修改",
+            "狙击手",
+            "连锁与随机攻击",
+            "驱散",
+            "反制小兵",
+            "绕过"
         ],
         "source": "星体召唤",
         "Release date": "2025-06-04",
@@ -43493,7 +50615,7 @@ window.allHeroes =
         "family": "astraldwarfs",
         "image": "https://imgur.com/VuxizwX.jpg",
         "costume_id": 0,
-        "originalIndex": 1313
+        "originalIndex": 1314
     },
     {
         "name": "希尔达 (Hilda)",
@@ -43507,6 +50629,15 @@ window.allHeroes =
             "攻击3个目标",
             "3个目标持续伤害",
             "3个目标增益免疫"
+        ],
+        "skill_types": [
+            "范围攻击 (打3)",
+            "增益格挡者",
+            "持续伤害",
+            "特殊治疗",
+            "生命强化",
+            "伤害减免",
+            "提供免疫"
         ],
         "source": "挑战-重返圣堂",
         "Release date": "2024-06-13",
@@ -43526,7 +50657,7 @@ window.allHeroes =
         "family": "gargoyle",
         "image": "https://i.imgur.com/Urzke5i.jpg",
         "costume_id": 0,
-        "originalIndex": 1314
+        "originalIndex": 1315
     },
     {
         "name": "荷鲁斯 (Horus)",
@@ -43539,6 +50670,10 @@ window.allHeroes =
         "types": [
             "攻击3个目标",
             "最大生命值降低"
+        ],
+        "skill_types": [
+            "范围攻击 (打3)",
+            "最大生命削减"
         ],
         "source": "S5-沙丘",
         "Release date": "2022-05-19",
@@ -43559,7 +50694,7 @@ window.allHeroes =
         "family": "sun",
         "image": "https://i.imgur.com/0Yedhet.jpg",
         "costume_id": 0,
-        "originalIndex": 1315
+        "originalIndex": 1316
     },
     {
         "name": "荷鲁斯 (Horus) C1",
@@ -43572,6 +50707,10 @@ window.allHeroes =
         "types": [
             "攻击3个目标",
             "最大生命值降低"
+        ],
+        "skill_types": [
+            "范围攻击 (打3)",
+            "最大生命削减"
         ],
         "source": "S5-沙丘",
         "Release date": "2024-04-01",
@@ -43594,7 +50733,7 @@ window.allHeroes =
         "family": "sun",
         "image": "https://i.imgur.com/fLHpPl2.jpg",
         "costume_id": 1,
-        "originalIndex": 1316
+        "originalIndex": 1317
     },
     {
         "name": "伊贺 (Iga)",
@@ -43607,6 +50746,12 @@ window.allHeroes =
         "types": [
             "蓄力",
             "召唤 (1/3/所有) 爆炸恶魔"
+        ],
+        "skill_types": [
+            "召唤恶魔",
+            "狙击手",
+            "持续伤害",
+            "反制小兵"
         ],
         "source": "高塔-忍者",
         "Release date": "2024-08-27",
@@ -43635,7 +50780,7 @@ window.allHeroes =
         "family": "ninja",
         "image": "https://i.imgur.com/y4ft1xP.jpg",
         "costume_id": 0,
-        "originalIndex": 1317
+        "originalIndex": 1318
     },
     {
         "name": "稻荷 (Inari)",
@@ -43649,6 +50794,12 @@ window.allHeroes =
             "攻击所有目标",
             "闪避增益",
             "闪避时召唤"
+        ],
+        "skill_types": [
+            "闪避",
+            "法力提升",
+            "召唤小兵",
+            "全体攻击 (打5)"
         ],
         "source": "S2-亚特兰蒂斯",
         "Release date": "2017-01-01",
@@ -43666,7 +50817,7 @@ window.allHeroes =
         "family": "sakura",
         "image": "https://i.imgur.com/MjynoiD.jpg",
         "costume_id": 0,
-        "originalIndex": 1318
+        "originalIndex": 1319
     },
     {
         "name": "稻荷 (Inari) C1",
@@ -43680,6 +50831,12 @@ window.allHeroes =
             "攻击所有目标",
             "召唤者",
             "命中降低"
+        ],
+        "skill_types": [
+            "全体攻击 (打5)",
+            "攻击减益",
+            "法力提升",
+            "召唤小兵"
         ],
         "source": "S2-亚特兰蒂斯",
         "Release date": "2022-05-02",
@@ -43697,7 +50854,7 @@ window.allHeroes =
         "family": "sakura",
         "image": "https://i.imgur.com/Q0YpLSK.jpg",
         "costume_id": 1,
-        "originalIndex": 1319
+        "originalIndex": 1320
     },
     {
         "name": "铁锚 (Ironmaw)",
@@ -43711,6 +50868,13 @@ window.allHeroes =
             "攻击单个目标",
             "攻击暗黑系目标",
             "法力生成降低"
+        ],
+        "skill_types": [
+            "额外伤害",
+            "法力削减或格挡",
+            "狙击手",
+            "连锁与随机攻击",
+            "额外伤害"
         ],
         "source": "超级元素人",
         "Release date": "2023-12-04",
@@ -43734,7 +50898,7 @@ window.allHeroes =
         "family": "superelemental",
         "image": "https://i.imgur.com/7BkCCl9.jpg",
         "costume_id": 0,
-        "originalIndex": 1320
+        "originalIndex": 1321
     },
     {
         "name": "伊塔尔 (Ithar)",
@@ -43748,6 +50912,13 @@ window.allHeroes =
             "增益偷取者",
             "法力偷取者",
             "攻击增益"
+        ],
+        "skill_types": [
+            "增益窃取者",
+            "攻击增益",
+            "法力生成增益",
+            "法力提升",
+            "法力削减或格挡"
         ],
         "source": "月英",
         "Release date": "2023-08-01",
@@ -43769,7 +50940,7 @@ window.allHeroes =
         "family": 2023,
         "image": "https://i.imgur.com/DDTIPj2.jpg",
         "costume_id": 0,
-        "originalIndex": 1321
+        "originalIndex": 1322
     },
     {
         "name": "嘉娜 (Jana)",
@@ -43783,6 +50954,12 @@ window.allHeroes =
             "攻击2个目标",
             "防御降低",
             "法力生成降低"
+        ],
+        "skill_types": [
+            "连锁与随机攻击",
+            "防御减益",
+            "法力削减或格挡",
+            "狙击手"
         ],
         "source": "挑战-众神狂欢节",
         "Release date": "2023-07-13",
@@ -43803,7 +50980,7 @@ window.allHeroes =
         "family": "maskedgod",
         "image": "https://i.imgur.com/4FOeHzK.jpg",
         "costume_id": 0,
-        "originalIndex": 1322
+        "originalIndex": 1323
     },
     {
         "name": "贾斯珀 (Jasper)",
@@ -43817,6 +50994,11 @@ window.allHeroes =
             "治疗者",
             "攻击增益",
             "暴击几率增益"
+        ],
+        "skill_types": [
+            "攻击增益",
+            "持续治疗",
+            "对自身或友军负面效果"
         ],
         "source": "月活动-春谷",
         "Release date": "2023-03-27",
@@ -43835,7 +51017,7 @@ window.allHeroes =
         "family": "springvale",
         "image": "https://i.imgur.com/Fqmw2ti.jpg",
         "costume_id": 0,
-        "originalIndex": 1323
+        "originalIndex": 1324
     },
     {
         "name": "贾斯珀 (Jasper) C1",
@@ -43849,6 +51031,11 @@ window.allHeroes =
             "治疗者",
             "攻击增益",
             "暴击几率增益"
+        ],
+        "skill_types": [
+            "持续治疗",
+            "攻击增益",
+            "对自身或友军负面效果"
         ],
         "source": "月活动-春谷",
         "Release date": "2024-03-18",
@@ -43867,7 +51054,7 @@ window.allHeroes =
         "family": "springvale",
         "image": "https://i.imgur.com/iHZz8KB.jpg",
         "costume_id": 1,
-        "originalIndex": 1324
+        "originalIndex": 1325
     },
     {
         "name": "亚坤 (Jequn)",
@@ -43880,6 +51067,12 @@ window.allHeroes =
         "types": [
             "攻击所有目标",
             "元素"
+        ],
+        "skill_types": [
+            "全体攻击 (打5)",
+            "攻击减益",
+            "法力削减或格挡",
+            "防御减益"
         ],
         "source": "超级元素人",
         "Release date": "2022-10-10",
@@ -43905,7 +51098,7 @@ window.allHeroes =
         "family": "superelemental",
         "image": "https://i.imgur.com/sJ0rROO.jpg",
         "costume_id": 0,
-        "originalIndex": 1325
+        "originalIndex": 1326
     },
     {
         "name": "亚坤 (Jequn) C1",
@@ -43918,6 +51111,12 @@ window.allHeroes =
         "types": [
             "攻击所有目标",
             "元素"
+        ],
+        "skill_types": [
+            "全体攻击 (打5)",
+            "攻击减益",
+            "防御减益",
+            "法力削减或格挡"
         ],
         "source": "超级元素人",
         "Release date": "2025-06-20",
@@ -43943,7 +51142,7 @@ window.allHeroes =
         "family": "superelemental",
         "image": "https://imgur.com/bIp33Sf.jpg",
         "costume_id": 1,
-        "originalIndex": 1326
+        "originalIndex": 1327
     },
     {
         "name": "尤恩 (Joon)",
@@ -43956,6 +51155,10 @@ window.allHeroes =
         "types": [
             "攻击单个目标",
             "单体致盲"
+        ],
+        "skill_types": [
+            "攻击减益",
+            "狙击手"
         ],
         "source": "S1-经典",
         "Release date": "2017-01-01",
@@ -43972,7 +51175,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/d5mevmf.jpg",
         "costume_id": 0,
-        "originalIndex": 1327
+        "originalIndex": 1328
     },
     {
         "name": "尤恩 (Joon) C1",
@@ -43985,6 +51188,10 @@ window.allHeroes =
         "types": [
             "攻击单个目标",
             "单体致盲"
+        ],
+        "skill_types": [
+            "攻击减益",
+            "狙击手"
         ],
         "source": "S1-经典",
         "Release date": "2020-01-01",
@@ -44001,7 +51208,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/YXbYHIl.jpg",
         "costume_id": 1,
-        "originalIndex": 1328
+        "originalIndex": 1329
     },
     {
         "name": "尤恩 (Joon) C2",
@@ -44015,6 +51222,11 @@ window.allHeroes =
             "攻击3个目标",
             "3个目标持续伤害",
             "3个目标致盲"
+        ],
+        "skill_types": [
+            "范围攻击 (打3)",
+            "攻击减益",
+            "持续伤害"
         ],
         "source": "S1-经典",
         "Release date": "2022-12-26",
@@ -44032,7 +51244,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/rJxyTcK.jpg",
         "costume_id": 2,
-        "originalIndex": 1329
+        "originalIndex": 1330
     },
     {
         "name": "尤恩 (Joon) 卡通",
@@ -44045,6 +51257,11 @@ window.allHeroes =
         "types": [
             "攻击单个目标",
             "单体致盲"
+        ],
+        "skill_types": [
+            "攻击减益",
+            "额外伤害",
+            "狙击手"
         ],
         "source": "S1-经典",
         "Release date": "2024-02-12",
@@ -44064,7 +51281,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/6UDBHvu.jpg",
         "costume_id": 3,
-        "originalIndex": 1330
+        "originalIndex": 1331
     },
     {
         "name": "尤恩 (Joon) 玻璃",
@@ -44078,6 +51295,11 @@ window.allHeroes =
             "攻击单个目标",
             "无视防御",
             "单体致盲"
+        ],
+        "skill_types": [
+            "绕过",
+            "攻击减益",
+            "狙击手"
         ],
         "source": "S1-经典",
         "Release date": "2025-04-08",
@@ -44097,7 +51319,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://imgur.com/7d9tXzA.jpg",
         "costume_id": 4,
-        "originalIndex": 1331
+        "originalIndex": 1332
     },
     {
         "name": "朱庇特 (Jove)",
@@ -44111,6 +51333,11 @@ window.allHeroes =
             "攻击所有目标",
             "治疗降低",
             "法力降低"
+        ],
+        "skill_types": [
+            "全体攻击 (打5)",
+            "治疗削减",
+            "法力削减或格挡"
         ],
         "source": "挑战-众神狂欢节",
         "Release date": "2022-11-22",
@@ -44130,7 +51357,7 @@ window.allHeroes =
         "family": "maskedgod",
         "image": "https://i.imgur.com/YFCeTvj.jpg",
         "costume_id": 0,
-        "originalIndex": 1332
+        "originalIndex": 1333
     },
     {
         "name": "贾斯提斯 (Justice)",
@@ -44143,6 +51370,10 @@ window.allHeroes =
         "types": [
             "攻击所有目标",
             "致盲"
+        ],
+        "skill_types": [
+            "全体攻击 (打5)",
+            "攻击减益"
         ],
         "source": "S1-经典",
         "Release date": "2017-01-01",
@@ -44160,7 +51391,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/nIFbFrG.jpg",
         "costume_id": 0,
-        "originalIndex": 1333
+        "originalIndex": 1334
     },
     {
         "name": "贾斯提斯 (Justice) C1",
@@ -44173,6 +51404,11 @@ window.allHeroes =
         "types": [
             "攻击所有目标",
             "自我法力生成增益"
+        ],
+        "skill_types": [
+            "全体攻击 (打5)",
+            "额外伤害",
+            "法力生成增益"
         ],
         "source": "S1-经典",
         "Release date": "2021-01-18",
@@ -44190,7 +51426,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/KCL7Y0s.jpg",
         "costume_id": 1,
-        "originalIndex": 1334
+        "originalIndex": 1335
     },
     {
         "name": "贾斯提斯 (Justice) C2",
@@ -44203,6 +51439,11 @@ window.allHeroes =
         "types": [
             "攻击所有目标",
             "致盲"
+        ],
+        "skill_types": [
+            "全体攻击 (打5)",
+            "攻击减益",
+            "额外伤害"
         ],
         "source": "S1-经典",
         "Release date": "2023-02-20",
@@ -44220,7 +51461,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/feWdynO.jpg",
         "costume_id": 2,
-        "originalIndex": 1335
+        "originalIndex": 1336
     },
     {
         "name": "贾斯提斯 (Justice) 卡通",
@@ -44233,6 +51474,11 @@ window.allHeroes =
         "types": [
             "攻击所有目标",
             "致盲"
+        ],
+        "skill_types": [
+            "全体攻击 (打5)",
+            "攻击减益",
+            "额外伤害"
         ],
         "source": "S1-经典",
         "Release date": "2024-06-28",
@@ -44252,7 +51498,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/ChEEEeb.jpg",
         "costume_id": 3,
-        "originalIndex": 1336
+        "originalIndex": 1337
     },
     {
         "name": "卡拉 (Kara)",
@@ -44265,6 +51511,11 @@ window.allHeroes =
         "types": [
             "嘲讽",
             "攻击增益"
+        ],
+        "skill_types": [
+            "攻击增益",
+            "防御增益",
+            "嘲讽"
         ],
         "source": "月英",
         "Release date": "2022-05-01",
@@ -44286,7 +51537,7 @@ window.allHeroes =
         "family": 2022,
         "image": "https://i.imgur.com/ltyTaFe.jpg",
         "costume_id": 0,
-        "originalIndex": 1337
+        "originalIndex": 1338
     },
     {
         "name": "古勒沃 (Kullervo)",
@@ -44300,6 +51551,10 @@ window.allHeroes =
             "攻击单个目标",
             "弹射",
             "莽夫乱拳"
+        ],
+        "skill_types": [
+            "精神错乱攻击&治疗",
+            "连锁与随机攻击"
         ],
         "source": "月活动-卡勒瓦拉",
         "Release date": "2022-06-20",
@@ -44319,7 +51574,7 @@ window.allHeroes =
         "family": "kalevala",
         "image": "https://i.imgur.com/tmvOfKK.jpg",
         "costume_id": 0,
-        "originalIndex": 1338
+        "originalIndex": 1339
     },
     {
         "name": "古勒沃 (Kullervo) C1",
@@ -44333,6 +51588,10 @@ window.allHeroes =
             "攻击单个目标",
             "弹射",
             "莽夫乱拳"
+        ],
+        "skill_types": [
+            "连锁与随机攻击",
+            "精神错乱攻击&治疗"
         ],
         "source": "月活动-卡勒瓦拉",
         "Release date": "2023-08-07",
@@ -44352,7 +51611,7 @@ window.allHeroes =
         "family": "kalevala",
         "image": "https://i.imgur.com/llU8XwL.jpg",
         "costume_id": 1,
-        "originalIndex": 1339
+        "originalIndex": 1340
     },
     {
         "name": "公相君 (Kushanku)",
@@ -44366,6 +51625,12 @@ window.allHeroes =
             "蓄力者",
             "攻击单个目标",
             "莽夫乱拳"
+        ],
+        "skill_types": [
+            "伤害减免",
+            "鬼魂形态与隐藏",
+            "精神错乱攻击&治疗",
+            "狙击手"
         ],
         "source": "高塔-忍者",
         "Release date": "2023-05-31",
@@ -44399,7 +51664,7 @@ window.allHeroes =
         "family": "ninja",
         "image": "https://i.imgur.com/4sSfY3A.jpg",
         "costume_id": 0,
-        "originalIndex": 1340
+        "originalIndex": 1341
     },
     {
         "name": "老虎 (Laohu)",
@@ -44412,6 +51677,11 @@ window.allHeroes =
         "types": [
             "攻击单个目标",
             "生命值加成"
+        ],
+        "skill_types": [
+            "生命强化",
+            "反制小兵",
+            "狙击手"
         ],
         "source": "月活动-农历生肖",
         "Release date": "2023-01-19",
@@ -44430,7 +51700,7 @@ window.allHeroes =
         "family": "lunaryear",
         "image": "https://i.imgur.com/3mERqj0.jpg",
         "costume_id": 0,
-        "originalIndex": 1341
+        "originalIndex": 1342
     },
     {
         "name": "拉扎拉 (Lazara)",
@@ -44445,6 +51715,12 @@ window.allHeroes =
             "攻击所有目标",
             "治疗降低",
             "阻止净化"
+        ],
+        "skill_types": [
+            "净化",
+            "全体攻击 (打5)",
+            "治疗削减",
+            "净化格挡者"
         ],
         "source": "神话召唤",
         "Release date": "2024-03-08",
@@ -44467,7 +51743,7 @@ window.allHeroes =
         "family": "champions",
         "image": "https://i.imgur.com/mxOSRGe.jpg",
         "costume_id": 0,
-        "originalIndex": 1342
+        "originalIndex": 1343
     },
     {
         "name": "莱蒙伍德 (Lemonwood)",
@@ -44480,6 +51756,14 @@ window.allHeroes =
         "types": [
             "攻击单个目标",
             "法力削减"
+        ],
+        "skill_types": [
+            "伤害分摊",
+            "狙击手",
+            "法力削减或格挡",
+            "连锁与随机攻击",
+            "绕过",
+            "伤害分摊"
         ],
         "source": "星体召唤",
         "Release date": "2024-03-07",
@@ -44501,7 +51785,7 @@ window.allHeroes =
         "family": "astralelves",
         "image": "https://i.imgur.com/P0rxyPZ.jpg",
         "costume_id": 0,
-        "originalIndex": 1343
+        "originalIndex": 1344
     },
     {
         "name": "莱昂尼达斯 (Leonidas)",
@@ -44515,6 +51799,11 @@ window.allHeroes =
             "攻击单个目标",
             "法力削减",
             "自我治疗"
+        ],
+        "skill_types": [
+            "特殊治疗",
+            "法力削减或格挡",
+            "狙击手"
         ],
         "source": "S1-经典",
         "Release date": "2017-01-01",
@@ -44532,7 +51821,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/SPyWzYD.jpg",
         "costume_id": 0,
-        "originalIndex": 1344
+        "originalIndex": 1345
     },
     {
         "name": "莱昂尼达斯 (Leonidas) C1",
@@ -44544,6 +51833,11 @@ window.allHeroes =
         "skill": "斯巴达冲锋",
         "types": [
             "攻击3个目标"
+        ],
+        "skill_types": [
+            "范围攻击 (打3)",
+            "攻击减益",
+            "防御减益"
         ],
         "source": "S1-经典",
         "Release date": "2021-01-18",
@@ -44561,7 +51855,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/c7cvRg8.jpg",
         "costume_id": 1,
-        "originalIndex": 1345
+        "originalIndex": 1346
     },
     {
         "name": "莱昂尼达斯 (Leonidas) C2",
@@ -44575,6 +51869,11 @@ window.allHeroes =
             "攻击所有目标",
             "法力削减",
             "防御降低"
+        ],
+        "skill_types": [
+            "全体攻击 (打5)",
+            "法力削减或格挡",
+            "防御减益"
         ],
         "source": "S1-经典",
         "Release date": "2022-12-26",
@@ -44592,7 +51891,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/6haP2Yz.jpg",
         "costume_id": 2,
-        "originalIndex": 1346
+        "originalIndex": 1347
     },
     {
         "name": "莱昂尼达斯 (Leonidas) 卡通",
@@ -44606,6 +51905,12 @@ window.allHeroes =
             "攻击单个目标",
             "法力削减者",
             "自我治疗"
+        ],
+        "skill_types": [
+            "额外伤害",
+            "特殊治疗",
+            "法力削减或格挡",
+            "狙击手"
         ],
         "source": "S1-经典",
         "Release date": "2023-12-25",
@@ -44626,7 +51931,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/PKsAK4b.jpg",
         "costume_id": 3,
-        "originalIndex": 1347
+        "originalIndex": 1348
     },
     {
         "name": "莱昂尼达斯 (Leonidas) 玻璃",
@@ -44641,6 +51946,12 @@ window.allHeroes =
             "无视防御",
             "单体法力削减",
             "自我治疗"
+        ],
+        "skill_types": [
+            "绕过",
+            "特殊治疗",
+            "法力削减或格挡",
+            "狙击手"
         ],
         "source": "S1-经典",
         "Release date": "2025-02-10",
@@ -44661,7 +51972,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/7lvHaTO.jpg",
         "costume_id": 4,
-        "originalIndex": 1348
+        "originalIndex": 1349
     },
     {
         "name": "利维娅 (Livia)",
@@ -44677,6 +51988,12 @@ window.allHeroes =
             "3个目标持续治疗",
             "3个目标反射状态异常",
             "3个目标反射叠加效果"
+        ],
+        "skill_types": [
+            "净化",
+            "伤害减免",
+            "持续治疗",
+            "反射"
         ],
         "source": "高塔-猫头鹰",
         "Release date": "2024-02-14",
@@ -44697,7 +52014,7 @@ window.allHeroes =
         "family": "owl",
         "image": "https://i.imgur.com/JTBt0dY.jpg",
         "costume_id": 0,
-        "originalIndex": 1349
+        "originalIndex": 1350
     },
     {
         "name": "玛琳 (Malin)",
@@ -44712,6 +52029,13 @@ window.allHeroes =
             "全体持续伤害",
             "治疗降低",
             "命中降低"
+        ],
+        "skill_types": [
+            "全体攻击 (打5)",
+            "攻击减益",
+            "持续伤害",
+            "额外伤害",
+            "治疗削减"
         ],
         "source": "盟约召唤",
         "Release date": "2022-08-25",
@@ -44729,12 +52053,12 @@ window.allHeroes =
         ],
         "passives": [
             "特殊技能伤害减免：该角色有 10% 的几率将受到的特殊技能直接伤害降至 1 点。",
-            "特殊技能附带持续伤害：当该角色施放其特殊技能时，会给一个随机敌人施加猎人印记。目标在 150 回合内受到 3 点伤害。如果目标已有此效果，则持续时间刷新，伤害增加 150 点，总伤害最高可达 1500 点。"
+            "特殊技能附带持续伤害：当该角色施放其特殊技能时，会给一个随机敌人施加猎人印记。目标在 3 回合内受到 150 点伤害。如果目标已有此效果，则持续时间刷新，伤害增加 150 点，总伤害最高可达 1500 点。"
         ],
         "family": "plainshunter",
         "image": "https://i.imgur.com/7OmJaIC.jpg",
         "costume_id": 0,
-        "originalIndex": 1350
+        "originalIndex": 1351
     },
     {
         "name": "马洛斯 (Malosi)",
@@ -44746,6 +52070,11 @@ window.allHeroes =
         "skill": "重力之拳",
         "types": [
             "攻击单个目标",
+            "状态效果格挡"
+        ],
+        "skill_types": [
+            "攻击增益",
+            "狙击手",
             "状态效果格挡"
         ],
         "source": "月英",
@@ -44766,7 +52095,7 @@ window.allHeroes =
         "family": 2020,
         "image": "https://i.imgur.com/ttNHqjc.jpg",
         "costume_id": 0,
-        "originalIndex": 1351
+        "originalIndex": 1352
     },
     {
         "name": "玛蒂尔达 (Matilda)",
@@ -44779,6 +52108,11 @@ window.allHeroes =
         "types": [
             "全体持续伤害",
             "召唤所有恶魔"
+        ],
+        "skill_types": [
+            "持续伤害",
+            "额外伤害",
+            "召唤恶魔"
         ],
         "source": "月活动-莫洛维亚",
         "Release date": "2022-10-03",
@@ -44801,7 +52135,7 @@ window.allHeroes =
         "family": "morlovia",
         "image": "https://i.imgur.com/Lb4Sdwp.jpg",
         "costume_id": 0,
-        "originalIndex": 1352
+        "originalIndex": 1353
     },
     {
         "name": "梅 (May)",
@@ -44815,6 +52149,11 @@ window.allHeroes =
             "全体成长",
             "召唤所有",
             "法力生成增益小兵"
+        ],
+        "skill_types": [
+            "属性修改",
+            "法力生成增益",
+            "召唤小兵"
         ],
         "source": "月英",
         "Release date": "2025-05-01",
@@ -44836,7 +52175,7 @@ window.allHeroes =
         "family": 2025,
         "image": "https://imgur.com/KK6zHLN.jpg",
         "costume_id": 0,
-        "originalIndex": 1353
+        "originalIndex": 1354
     },
     {
         "name": "梅格·吉瑞 (Meg Giry)",
@@ -44850,6 +52189,12 @@ window.allHeroes =
             "治疗者",
             "净化者",
             "强制不可净化状态异常",
+            "防御增益"
+        ],
+        "skill_types": [
+            "净化",
+            "净化格挡者",
+            "治疗",
             "防御增益"
         ],
         "source": "至日召唤",
@@ -44872,7 +52217,7 @@ window.allHeroes =
         "family": "opera",
         "image": "https://i.imgur.com/GJH1yAl.jpg",
         "costume_id": 0,
-        "originalIndex": 1354
+        "originalIndex": 1355
     },
     {
         "name": "仙乐缪斯 (Melodymuse)",
@@ -44885,6 +52230,11 @@ window.allHeroes =
         "types": [
             "生命值加成",
             "状态异常免疫"
+        ],
+        "skill_types": [
+            "伤害分摊",
+            "生命强化",
+            "提供免疫"
         ],
         "source": "星体召唤",
         "Release date": "2024-09-16",
@@ -44904,7 +52254,7 @@ window.allHeroes =
         "family": "astralelves",
         "image": "https://i.imgur.com/PSc9HJP.jpg",
         "costume_id": 0,
-        "originalIndex": 1355
+        "originalIndex": 1356
     },
     {
         "name": "美勒桑克 (Meresankh)",
@@ -44918,6 +52268,11 @@ window.allHeroes =
             "攻击所有目标",
             "法力削减",
             "法力生成降低"
+        ],
+        "skill_types": [
+            "全体攻击 (打5)",
+            "法力削减或格挡",
+            "额外伤害"
         ],
         "source": "S5-沙丘",
         "Release date": "2023-04-13",
@@ -44940,7 +52295,7 @@ window.allHeroes =
         "family": "sun",
         "image": "https://i.imgur.com/PIgKmeD.jpg",
         "costume_id": 0,
-        "originalIndex": 1356
+        "originalIndex": 1357
     },
     {
         "name": "美勒桑克 (Meresankh) C1",
@@ -44954,6 +52309,11 @@ window.allHeroes =
             "攻击所有目标",
             "法力削减",
             "法力生成降低"
+        ],
+        "skill_types": [
+            "全体攻击 (打5)",
+            "额外伤害",
+            "法力削减或格挡"
         ],
         "source": "S5-沙丘",
         "Release date": "2024-06-24",
@@ -44978,7 +52338,7 @@ window.allHeroes =
         "family": "sun",
         "image": "https://i.imgur.com/4IURwj4.jpg",
         "costume_id": 1,
-        "originalIndex": 1357
+        "originalIndex": 1358
     },
     {
         "name": "云母 (Mica)",
@@ -44992,6 +52352,11 @@ window.allHeroes =
             "蓄力者",
             "友方伤害分担",
             "防御增益",
+            "法力生成增益"
+        ],
+        "skill_types": [
+            "防御增益",
+            "伤害分摊",
             "法力生成增益"
         ],
         "source": "高塔-忍者",
@@ -45019,7 +52384,7 @@ window.allHeroes =
         "family": "ninja",
         "image": "https://i.imgur.com/T4WxYxG.jpg",
         "costume_id": 0,
-        "originalIndex": 1358
+        "originalIndex": 1359
     },
     {
         "name": "月之钟 (Moonbell)",
@@ -45032,6 +52397,13 @@ window.allHeroes =
         "types": [
             "召唤者",
             "伤害减免"
+        ],
+        "skill_types": [
+            "伤害分摊",
+            "召唤小兵",
+            "法力生成增益",
+            "伤害减免",
+            "额外伤害"
         ],
         "source": "星体召唤",
         "Release date": "2024-07-10",
@@ -45053,7 +52425,7 @@ window.allHeroes =
         "family": "astralelves",
         "image": "https://i.imgur.com/EiBBCez.jpg",
         "costume_id": 0,
-        "originalIndex": 1359
+        "originalIndex": 1360
     },
     {
         "name": "莫泰加 (Motega)",
@@ -45069,6 +52441,14 @@ window.allHeroes =
             "增伤小兵攻击",
             "召唤所有恶魔",
             "命中降低恶魔"
+        ],
+        "skill_types": [
+            "攻击减益",
+            "额外伤害",
+            "召唤恶魔",
+            "召唤小兵",
+            "持续伤害",
+            "治疗"
         ],
         "source": "高塔-魔法",
         "Release date": "2021-09-15",
@@ -45094,7 +52474,7 @@ window.allHeroes =
         "family": "magic",
         "image": "https://i.imgur.com/87toXMW.jpg",
         "costume_id": 0,
-        "originalIndex": 1360
+        "originalIndex": 1361
     },
     {
         "name": "武藏 (Musashi)",
@@ -45107,6 +52487,12 @@ window.allHeroes =
         "types": [
             "攻击3个目标",
             "自我治疗"
+        ],
+        "skill_types": [
+            "范围攻击 (打3)",
+            "特殊治疗",
+            "攻击增益",
+            "防御增益"
         ],
         "source": "月英",
         "Release date": "2017-09-01T00:00:00",
@@ -45124,7 +52510,7 @@ window.allHeroes =
         "family": 2017,
         "image": "https://i.imgur.com/1PxVmlq.jpg",
         "costume_id": 0,
-        "originalIndex": 1361
+        "originalIndex": 1362
     },
     {
         "name": "武藏 (Musashi) C1",
@@ -45137,6 +52523,13 @@ window.allHeroes =
         "types": [
             "攻击3个目标",
             "自我治疗"
+        ],
+        "skill_types": [
+            "范围攻击 (打3)",
+            "特殊治疗",
+            "驱散",
+            "攻击增益",
+            "防御增益"
         ],
         "source": "月英",
         "Release date": "2023-10-02",
@@ -45156,7 +52549,7 @@ window.allHeroes =
         "family": 2017,
         "image": "https://i.imgur.com/dt3i5jN.jpg",
         "costume_id": 1,
-        "originalIndex": 1362
+        "originalIndex": 1363
     },
     {
         "name": "奈斯 (Neith)",
@@ -45170,6 +52563,12 @@ window.allHeroes =
             "攻击所有目标",
             "法力削减",
             "致盲"
+        ],
+        "skill_types": [
+            "全体攻击 (打5)",
+            "攻击减益",
+            "法力生成增益",
+            "法力削减或格挡"
         ],
         "source": "月英",
         "Release date": "2019-11-01",
@@ -45190,7 +52589,7 @@ window.allHeroes =
         "family": 2019,
         "image": "https://i.imgur.com/5p5UjK8.jpg",
         "costume_id": 0,
-        "originalIndex": 1363
+        "originalIndex": 1364
     },
     {
         "name": "涅墨西斯 (Nemesis)",
@@ -45202,6 +52601,11 @@ window.allHeroes =
         "skill": "清算之日",
         "types": [
             "蓄力"
+        ],
+        "skill_types": [
+            "增益格挡者",
+            "法力削减或格挡",
+            "狙击手"
         ],
         "source": "高塔-冥河",
         "Release date": "2022-09-21",
@@ -45230,7 +52634,7 @@ window.allHeroes =
         "family": "styx",
         "image": "https://i.imgur.com/erwVVF0.jpg",
         "costume_id": 0,
-        "originalIndex": 1364
+        "originalIndex": 1365
     },
     {
         "name": "恶怨妖灵 (Nithgaest)",
@@ -45244,6 +52648,11 @@ window.allHeroes =
             "攻击3个目标",
             "3个目标反击",
             "灼热之触"
+        ],
+        "skill_types": [
+            "范围攻击 (打3)",
+            "反击",
+            "持续伤害"
         ],
         "source": "挑战-贝奥武夫",
         "Release date": "2025-05-18",
@@ -45265,7 +52674,7 @@ window.allHeroes =
         "family": "beowulf",
         "image": "https://imgur.com/25R91G2.jpg",
         "costume_id": 0,
-        "originalIndex": 1365
+        "originalIndex": 1366
     },
     {
         "name": "诺伦三女神 (Norns)",
@@ -45277,6 +52686,9 @@ window.allHeroes =
         "skill": "命运缠旋",
         "types": [
             "攻击3个目标"
+        ],
+        "skill_types": [
+            "范围攻击 (打3)"
         ],
         "source": "S3-瓦尔哈拉",
         "Release date": "2020-03-26",
@@ -45293,7 +52705,7 @@ window.allHeroes =
         "family": "vanaheim",
         "image": "https://i.imgur.com/evikfGP.jpg",
         "costume_id": 0,
-        "originalIndex": 1366
+        "originalIndex": 1367
     },
     {
         "name": "诺伦三女神 (Norns) C1",
@@ -45305,6 +52717,9 @@ window.allHeroes =
         "skill": "命运之怒",
         "types": [
             "攻击3个目标"
+        ],
+        "skill_types": [
+            "范围攻击 (打3)"
         ],
         "source": "S3-瓦尔哈拉",
         "Release date": "2023-08-28",
@@ -45321,7 +52736,7 @@ window.allHeroes =
         "family": "vanaheim",
         "image": "https://i.imgur.com/aH5vllh.jpg",
         "costume_id": 1,
-        "originalIndex": 1367
+        "originalIndex": 1368
     },
     {
         "name": "奥丁 (Odin)",
@@ -45334,6 +52749,11 @@ window.allHeroes =
         "types": [
             "攻击所有目标",
             "法力生成增益"
+        ],
+        "skill_types": [
+            "全体攻击 (打5)",
+            "法力生成增益",
+            "额外伤害"
         ],
         "source": "S3-瓦尔哈拉",
         "Release date": "2020-11-26",
@@ -45351,7 +52771,7 @@ window.allHeroes =
         "family": "midgard",
         "image": "https://i.imgur.com/WpdZnYI.jpg",
         "costume_id": 0,
-        "originalIndex": 1368
+        "originalIndex": 1369
     },
     {
         "name": "奥丁 (Odin) C1",
@@ -45364,6 +52784,11 @@ window.allHeroes =
         "types": [
             "攻击所有目标",
             "法力生成增益"
+        ],
+        "skill_types": [
+            "全体攻击 (打5)",
+            "法力生成增益",
+            "额外伤害"
         ],
         "source": "S3-瓦尔哈拉",
         "Release date": "2023-03-13",
@@ -45381,7 +52806,7 @@ window.allHeroes =
         "family": "midgard",
         "image": "https://i.imgur.com/guLxDJt.jpg",
         "costume_id": 1,
-        "originalIndex": 1369
+        "originalIndex": 1370
     },
     {
         "name": "欧吉马 (Ogima)",
@@ -45395,6 +52820,12 @@ window.allHeroes =
             "摧毁所有小兵",
             "攻击所有目标",
             "全体法力生成降低叠加"
+        ],
+        "skill_types": [
+            "全体攻击 (打5)",
+            "法力削减或格挡",
+            "反制小兵",
+            "叠加"
         ],
         "source": "挑战节-吟游诗人",
         "Release date": "2022-12-01",
@@ -45415,7 +52846,7 @@ window.allHeroes =
         "family": "bard",
         "image": "https://i.imgur.com/8WZ5oVt.jpg",
         "costume_id": 0,
-        "originalIndex": 1370
+        "originalIndex": 1371
     },
     {
         "name": "奥纳特而 (Onatel)",
@@ -45428,6 +52859,12 @@ window.allHeroes =
         "types": [
             "攻击3个目标",
             "法力偷取"
+        ],
+        "skill_types": [
+            "范围攻击 (打3)",
+            "法力提升",
+            "法力削减或格挡",
+            "持续治疗"
         ],
         "source": "月英",
         "Release date": "2019-01-01",
@@ -45447,7 +52884,7 @@ window.allHeroes =
         "family": 2019,
         "image": "https://i.imgur.com/wCLflfr.jpg",
         "costume_id": 0,
-        "originalIndex": 1371
+        "originalIndex": 1372
     },
     {
         "name": "帕普罗斯 (Papyros)",
@@ -45460,6 +52897,11 @@ window.allHeroes =
         "types": [
             "召唤者",
             "防御增益"
+        ],
+        "skill_types": [
+            "防御增益",
+            "持续伤害",
+            "召唤小兵"
         ],
         "source": "S5-沙丘",
         "Release date": "2022-04-21",
@@ -45480,7 +52922,7 @@ window.allHeroes =
         "family": "moon",
         "image": "https://i.imgur.com/cV84mq0.jpg",
         "costume_id": 0,
-        "originalIndex": 1372
+        "originalIndex": 1373
     },
     {
         "name": "帕普罗斯 (Papyros) C1",
@@ -45493,6 +52935,13 @@ window.allHeroes =
         "types": [
             "召唤者",
             "防御增益"
+        ],
+        "skill_types": [
+            "防御增益",
+            "持续伤害",
+            "法力提升",
+            "生命强化",
+            "召唤小兵"
         ],
         "source": "S5-沙丘",
         "Release date": "2024-10-05",
@@ -45516,7 +52965,7 @@ window.allHeroes =
         "family": "moon",
         "image": "https://i.imgur.com/jWPUwhw.jpg",
         "costume_id": 1,
-        "originalIndex": 1373
+        "originalIndex": 1374
     },
     {
         "name": "佩诺利特 (Penolite)",
@@ -45529,6 +52978,13 @@ window.allHeroes =
         "types": [
             "攻击所有目标",
             "全体治疗降低"
+        ],
+        "skill_types": [
+            "反制恶魔",
+            "治疗削减",
+            "反制小兵",
+            "全体攻击 (打5)",
+            "伤害减免"
         ],
         "source": "黑色星期五召唤",
         "Release date": "2021-11-24",
@@ -45548,7 +53004,7 @@ window.allHeroes =
         "family": "gargoyle",
         "image": "https://i.imgur.com/ifFiCU7.jpg",
         "costume_id": 0,
-        "originalIndex": 1374
+        "originalIndex": 1375
     },
     {
         "name": "波莎 (Persa)",
@@ -45562,6 +53018,12 @@ window.allHeroes =
             "增益偷取者",
             "攻击单个目标",
             "扩散型持续伤害"
+        ],
+        "skill_types": [
+            "狙击手",
+            "增益窃取者",
+            "持续伤害",
+            "法力削减或格挡"
         ],
         "source": "S6-S7-秘闻",
         "Release date": "2023-10-25",
@@ -45590,7 +53052,7 @@ window.allHeroes =
         "family": "nightmaresofatlantis",
         "image": "https://i.imgur.com/XWgWbVt.jpg",
         "costume_id": 0,
-        "originalIndex": 1375
+        "originalIndex": 1376
     },
     {
         "name": "波莎 (Persa) C1",
@@ -45604,6 +53066,12 @@ window.allHeroes =
             "增益偷取者",
             "攻击单个目标",
             "扩散型持续伤害"
+        ],
+        "skill_types": [
+            "狙击手",
+            "增益窃取者",
+            "持续伤害",
+            "法力削减或格挡"
         ],
         "source": "S6-S7-秘闻",
         "Release date": "2025-01-09",
@@ -45633,7 +53101,7 @@ window.allHeroes =
         "family": "nightmaresofatlantis",
         "image": "https://i.imgur.com/nKfadia.jpg",
         "costume_id": 1,
-        "originalIndex": 1376
+        "originalIndex": 1377
     },
     {
         "name": "佩蒂纳克斯 (Pertinax)",
@@ -45646,6 +53114,15 @@ window.allHeroes =
         "types": [
             "攻击3个目标",
             "召唤3个小兵"
+        ],
+        "skill_types": [
+            "额外伤害",
+            "净化",
+            "叠加",
+            "范围攻击 (打3)",
+            "召唤小兵",
+            "驱散",
+            "鬼魂形态与隐藏"
         ],
         "source": "高塔-猫头鹰",
         "Release date": "2025-02-05",
@@ -45667,7 +53144,7 @@ window.allHeroes =
         "family": "owl",
         "image": "https://i.imgur.com/LyzgS9S.jpg",
         "costume_id": 0,
-        "originalIndex": 1377
+        "originalIndex": 1378
     },
     {
         "name": "菲洛梅娜 (Philomena)",
@@ -45682,7 +53159,13 @@ window.allHeroes =
             "3个目标强化防御异常",
             "3个目标沉睡"
         ],
-        "source": "S4-荒野",
+        "skill_types": [
+            "范围攻击 (打3)",
+            "防御减益",
+            "沉睡",
+            "反制小兵"
+        ],
+        "source": "荒野召唤",
         "Release date": "2025-04-18",
         "star": 5,
         "power": 1174,
@@ -45701,7 +53184,7 @@ window.allHeroes =
         "family": "woodlandfaun",
         "image": "https://imgur.com/zZJxSMo.jpg",
         "costume_id": 0,
-        "originalIndex": 1378
+        "originalIndex": 1379
     },
     {
         "name": "波塞冬 (Poseidon)",
@@ -45714,6 +53197,10 @@ window.allHeroes =
         "types": [
             "攻击单个目标",
             "法力降低免疫"
+        ],
+        "skill_types": [
+            "提供免疫",
+            "狙击手"
         ],
         "source": "S2-亚特兰蒂斯",
         "Release date": "2019-02-19",
@@ -45731,7 +53218,7 @@ window.allHeroes =
         "family": "atlantis",
         "image": "https://i.imgur.com/4yAjxl7.jpg",
         "costume_id": 0,
-        "originalIndex": 1379
+        "originalIndex": 1380
     },
     {
         "name": "波塞冬 (Poseidon) C1",
@@ -45744,6 +53231,10 @@ window.allHeroes =
         "types": [
             "攻击单个目标",
             "状态异常免疫"
+        ],
+        "skill_types": [
+            "提供免疫",
+            "狙击手"
         ],
         "source": "S2-亚特兰蒂斯",
         "Release date": "2021-11-15",
@@ -45760,7 +53251,7 @@ window.allHeroes =
         "family": "atlantis",
         "image": "https://i.imgur.com/jU6Z8JO.jpg",
         "costume_id": 1,
-        "originalIndex": 1380
+        "originalIndex": 1381
     },
     {
         "name": "黎登布洛克教授 (Prof. Lidenbrock)",
@@ -45773,6 +53264,11 @@ window.allHeroes =
         "types": [
             "全体净化",
             "生命值加成",
+            "持续治疗"
+        ],
+        "skill_types": [
+            "净化",
+            "生命强化",
             "持续治疗"
         ],
         "source": "S4-蛮荒地界",
@@ -45793,7 +53289,7 @@ window.allHeroes =
         "family": "underwild",
         "image": "https://i.imgur.com/1q7ZFV3.jpg",
         "costume_id": 0,
-        "originalIndex": 1381
+        "originalIndex": 1382
     },
     {
         "name": "黎登布洛克教授 (Prof. Lidenbrock) C1",
@@ -45806,6 +53302,11 @@ window.allHeroes =
         "types": [
             "全体净化",
             "生命值加成",
+            "持续治疗"
+        ],
+        "skill_types": [
+            "净化",
+            "生命强化",
             "持续治疗"
         ],
         "source": "S4-蛮荒地界",
@@ -45827,7 +53328,7 @@ window.allHeroes =
         "family": "underwild",
         "image": "https://i.imgur.com/CwQ3ejX.jpg",
         "costume_id": 1,
-        "originalIndex": 1382
+        "originalIndex": 1383
     },
     {
         "name": "郭王后 (Queen Guowang)",
@@ -45839,6 +53340,10 @@ window.allHeroes =
         "skill": "女王的容光",
         "types": [
             "攻击所有目标"
+        ],
+        "skill_types": [
+            "全体攻击 (打5)",
+            "法力提升"
         ],
         "source": "三国召唤",
         "Release date": "2023-02-27",
@@ -45856,7 +53361,7 @@ window.allHeroes =
         "family": "journey",
         "image": "https://i.imgur.com/CNKl3X2.jpg",
         "costume_id": 0,
-        "originalIndex": 1383
+        "originalIndex": 1384
     },
     {
         "name": "拉娜 (Rana)",
@@ -45871,6 +53376,12 @@ window.allHeroes =
             "3个目标持续伤害",
             "3个目标治疗降低",
             "自我净化"
+        ],
+        "skill_types": [
+            "范围攻击 (打3)",
+            "净化",
+            "持续伤害",
+            "治疗削减"
         ],
         "source": "月活动-飞沙帝国",
         "Release date": "2017-01-01",
@@ -45889,7 +53400,7 @@ window.allHeroes =
         "family": "sand",
         "image": "https://i.imgur.com/XCRwmmP.jpg",
         "costume_id": 0,
-        "originalIndex": 1384
+        "originalIndex": 1385
     },
     {
         "name": "拉娜 (Rana) C1",
@@ -45904,6 +53415,12 @@ window.allHeroes =
             "3个目标持续伤害",
             "3个目标治疗降低",
             "净化 (3个目标)"
+        ],
+        "skill_types": [
+            "范围攻击 (打3)",
+            "净化",
+            "持续伤害",
+            "治疗削减"
         ],
         "source": "月活动-飞沙帝国",
         "Release date": "2021-06-21",
@@ -45922,7 +53439,7 @@ window.allHeroes =
         "family": "sand",
         "image": "https://i.imgur.com/ETB8w9H.jpg",
         "costume_id": 1,
-        "originalIndex": 1385
+        "originalIndex": 1386
     },
     {
         "name": "兰威尔 (Ranvir)",
@@ -45935,6 +53452,12 @@ window.allHeroes =
         "types": [
             "攻击单个目标",
             "泰坦攻击增益"
+        ],
+        "skill_types": [
+            "攻击增益",
+            "对自身或友军负面效果",
+            "狙击手",
+            "防御增益"
         ],
         "source": "月英",
         "Release date": "2019-06-01",
@@ -45954,7 +53477,7 @@ window.allHeroes =
         "family": 2019,
         "image": "https://i.imgur.com/pCzfhdF.jpg",
         "costume_id": 0,
-        "originalIndex": 1386
+        "originalIndex": 1387
     },
     {
         "name": "里斯 (Rhys)",
@@ -45969,6 +53492,14 @@ window.allHeroes =
             "改变棋盘",
             "全体攻击增益",
             "全体净化"
+        ],
+        "skill_types": [
+            "改变面板",
+            "法力生成增益",
+            "法力削减或格挡",
+            "攻击增益",
+            "净化",
+            "生命强化"
         ],
         "source": "挑战节-吟游诗人",
         "Release date": "2022-08-11",
@@ -45989,7 +53520,7 @@ window.allHeroes =
         "family": "bard",
         "image": "https://i.imgur.com/CuNew0r.jpg",
         "costume_id": 0,
-        "originalIndex": 1387
+        "originalIndex": 1388
     },
     {
         "name": "罗克 (Roc)",
@@ -46003,6 +53534,11 @@ window.allHeroes =
             "全体持续伤害",
             "全体治疗降低",
             "全体净化"
+        ],
+        "skill_types": [
+            "净化",
+            "持续伤害",
+            "治疗削减"
         ],
         "source": "月活动-飞沙帝国",
         "Release date": "2020-06-29",
@@ -46020,7 +53556,7 @@ window.allHeroes =
         "family": "sand",
         "image": "https://i.imgur.com/jRrOk7n.jpg",
         "costume_id": 0,
-        "originalIndex": 1388
+        "originalIndex": 1389
     },
     {
         "name": "罗克 (Roc) C1",
@@ -46034,6 +53570,11 @@ window.allHeroes =
             "全体持续伤害",
             "全体防御降低",
             "全体驱散"
+        ],
+        "skill_types": [
+            "防御减益",
+            "驱散",
+            "持续伤害"
         ],
         "source": "月活动-飞沙帝国",
         "Release date": "2022-05-16",
@@ -46051,7 +53592,7 @@ window.allHeroes =
         "family": "sand",
         "image": "https://i.imgur.com/wRsoDQK.jpg",
         "costume_id": 1,
-        "originalIndex": 1389
+        "originalIndex": 1390
     },
     {
         "name": "罗莎琳德 (Rosalind)",
@@ -46065,6 +53606,13 @@ window.allHeroes =
             "治疗者",
             "叠加",
             "守卫超级小兵"
+        ],
+        "skill_types": [
+            "治疗",
+            "叠加",
+            "伤害减免",
+            "召唤巨型小兵",
+            "净化"
         ],
         "source": "哥布林召唤",
         "Release date": "2024-10-27",
@@ -46086,7 +53634,7 @@ window.allHeroes =
         "family": "garrisonguard",
         "image": "https://i.imgur.com/founMKj.jpg",
         "costume_id": 0,
-        "originalIndex": 1390
+        "originalIndex": 1391
     },
     {
         "name": "阮小七 (Ruan Xiaoqi)",
@@ -46101,6 +53649,11 @@ window.allHeroes =
             "驱散全体2个增益",
             "攻击所有目标",
             "单体持续伤害"
+        ],
+        "skill_types": [
+            "全体攻击 (打5)",
+            "驱散",
+            "持续伤害"
         ],
         "source": "三国召唤",
         "Release date": "2025-05-22",
@@ -46126,7 +53679,7 @@ window.allHeroes =
         "family": "outlaws",
         "image": "https://imgur.com/YX2qCp0.jpg",
         "costume_id": 0,
-        "originalIndex": 1391
+        "originalIndex": 1392
     },
     {
         "name": "萨尔尼斯 (Salniss)",
@@ -46141,6 +53694,13 @@ window.allHeroes =
             "单体沉默",
             "随机攻击1个目标",
             "单体承受伤害增加"
+        ],
+        "skill_types": [
+            "绕过",
+            "连锁与随机攻击",
+            "反制小兵",
+            "沉默",
+            "额外伤害"
         ],
         "source": "星体召唤",
         "Release date": "2024-12-22",
@@ -46163,7 +53723,7 @@ window.allHeroes =
         "family": "astraldwarfs",
         "image": "https://i.imgur.com/iWjHJHA.jpg",
         "costume_id": 0,
-        "originalIndex": 1392
+        "originalIndex": 1393
     },
     {
         "name": "萨丁皮门特 (Satinpimenter)",
@@ -46178,6 +53738,14 @@ window.allHeroes =
             "攻击3个目标",
             "3个目标持续伤害",
             "自我持续治疗"
+        ],
+        "skill_types": [
+            "驱散",
+            "范围攻击 (打3)",
+            "持续伤害",
+            "持续治疗",
+            "闪避",
+            "反制小兵"
         ],
         "source": "联盟-飞蛾",
         "Release date": "2025-01-23",
@@ -46198,7 +53766,7 @@ window.allHeroes =
         "family": "moth",
         "image": "https://i.imgur.com/S7h6aSM.jpg",
         "costume_id": 0,
-        "originalIndex": 1393
+        "originalIndex": 1394
     },
     {
         "name": "滚兽 (Scrollbeast)",
@@ -46211,6 +53779,12 @@ window.allHeroes =
         "types": [
             "攻击所有目标",
             "白野猪超级小兵"
+        ],
+        "skill_types": [
+            "召唤巨型小兵",
+            "全体攻击 (打5)",
+            "属性修改",
+            "反击"
         ],
         "source": "哥布林召唤",
         "Release date": "2024-04-15",
@@ -46233,7 +53807,7 @@ window.allHeroes =
         "family": "goblin",
         "image": "https://i.imgur.com/oI9QMY8.jpg",
         "costume_id": 0,
-        "originalIndex": 1394
+        "originalIndex": 1395
     },
     {
         "name": "沙埃尔 (Shaal)",
@@ -46247,6 +53821,13 @@ window.allHeroes =
             "攻击所有目标",
             "治疗者",
             "净化者"
+        ],
+        "skill_types": [
+            "全体攻击 (打5)",
+            "净化",
+            "特殊治疗",
+            "伤害减免",
+            "生命强化"
         ],
         "source": "盟约召唤",
         "Release date": "2023-12-08",
@@ -46270,7 +53851,7 @@ window.allHeroes =
         "family": "construct",
         "image": "https://i.imgur.com/elVlVhm.jpg",
         "costume_id": 0,
-        "originalIndex": 1395
+        "originalIndex": 1396
     },
     {
         "name": "闪鳞 (Shimmerscale)",
@@ -46283,6 +53864,11 @@ window.allHeroes =
         "types": [
             "攻击3个目标",
             "持剑守卫超级小兵"
+        ],
+        "skill_types": [
+            "召唤巨型小兵",
+            "范围攻击 (打3)",
+            "持续伤害"
         ],
         "source": "哥布林召唤",
         "Release date": "2024-04-15",
@@ -46303,7 +53889,7 @@ window.allHeroes =
         "family": "garrisonguard",
         "image": "https://i.imgur.com/5LBrUnk.jpg",
         "costume_id": 0,
-        "originalIndex": 1396
+        "originalIndex": 1397
     },
     {
         "name": "希芙 (Sif)",
@@ -46315,6 +53901,12 @@ window.allHeroes =
         "skill": "黄金纺织",
         "types": [
             "反击",
+            "法力生成增益"
+        ],
+        "skill_types": [
+            "防御增益",
+            "反击",
+            "伤害减免",
             "法力生成增益"
         ],
         "source": "S3-瓦尔哈拉",
@@ -46333,7 +53925,7 @@ window.allHeroes =
         "family": "midgard",
         "image": "https://i.imgur.com/IEuL57g.jpg",
         "costume_id": 0,
-        "originalIndex": 1397
+        "originalIndex": 1398
     },
     {
         "name": "希芙 (Sif) C1",
@@ -46347,6 +53939,12 @@ window.allHeroes =
             "法力提升",
             "反击",
             "伤害减免"
+        ],
+        "skill_types": [
+            "防御增益",
+            "反击",
+            "伤害减免",
+            "法力提升"
         ],
         "source": "S3-瓦尔哈拉",
         "Release date": "2022-08-29",
@@ -46364,7 +53962,7 @@ window.allHeroes =
         "family": "midgard",
         "image": "https://i.imgur.com/L0IBEq2.jpg",
         "costume_id": 1,
-        "originalIndex": 1398
+        "originalIndex": 1399
     },
     {
         "name": "银爪 (Silverpaw)",
@@ -46378,6 +53976,11 @@ window.allHeroes =
             "偷取超级小兵/小兵",
             "单体持续贪婪",
             "全体持续伤害"
+        ],
+        "skill_types": [
+            "持续伤害",
+            "反制小兵",
+            "状态效果格挡"
         ],
         "source": "盟约召唤",
         "Release date": "2025-01-11",
@@ -46397,7 +54000,7 @@ window.allHeroes =
         "family": "fox",
         "image": "https://i.imgur.com/Cj9sBht.jpg",
         "costume_id": 0,
-        "originalIndex": 1399
+        "originalIndex": 1400
     },
     {
         "name": "咕咕鸡先生 (Sir Roostley)",
@@ -46410,6 +54013,10 @@ window.allHeroes =
         "types": [
             "攻击单个目标",
             "连锁攻击"
+        ],
+        "skill_types": [
+            "连锁与随机攻击",
+            "对自身或友军负面效果"
         ],
         "source": "月活动-春谷",
         "Release date": "2020-04-06",
@@ -46427,7 +54034,7 @@ window.allHeroes =
         "family": "springvale",
         "image": "https://i.imgur.com/YbdZndT.jpg",
         "costume_id": 0,
-        "originalIndex": 1400
+        "originalIndex": 1401
     },
     {
         "name": "斯拉古司 (Sludgus)",
@@ -46440,6 +54047,10 @@ window.allHeroes =
         "types": [
             "治疗者",
             "粘滑之舞"
+        ],
+        "skill_types": [
+            "舞者",
+            "治疗"
         ],
         "source": "超级元素人",
         "Release date": "2024-09-04",
@@ -46462,7 +54073,7 @@ window.allHeroes =
         "family": "slime",
         "image": "https://i.imgur.com/IpdLyXH.jpg",
         "costume_id": 0,
-        "originalIndex": 1401
+        "originalIndex": 1402
     },
     {
         "name": "唐三藏 (Tang Sanzang)",
@@ -46475,6 +54086,11 @@ window.allHeroes =
         "types": [
             "治疗者",
             "净化者",
+            "防御增益"
+        ],
+        "skill_types": [
+            "生命强化",
+            "净化",
             "防御增益"
         ],
         "source": "三国召唤",
@@ -46496,7 +54112,7 @@ window.allHeroes =
         "family": "kingdom",
         "image": "https://i.imgur.com/y2EYio1.jpg",
         "costume_id": 0,
-        "originalIndex": 1402
+        "originalIndex": 1403
     },
     {
         "name": "托尔 (Thor)",
@@ -46509,6 +54125,11 @@ window.allHeroes =
         "types": [
             "攻击所有目标",
             "致盲"
+        ],
+        "skill_types": [
+            "范围攻击 (打3)",
+            "全体攻击 (打5)",
+            "攻击减益"
         ],
         "source": "S3-瓦尔哈拉",
         "Release date": "2021-01-28",
@@ -46533,7 +54154,7 @@ window.allHeroes =
         "family": "midgard",
         "image": "https://i.imgur.com/Cls9o26.jpg",
         "costume_id": 0,
-        "originalIndex": 1403
+        "originalIndex": 1404
     },
     {
         "name": "托尔 (Thor) C1",
@@ -46546,6 +54167,10 @@ window.allHeroes =
         "types": [
             "攻击所有目标",
             "致盲"
+        ],
+        "skill_types": [
+            "全体攻击 (打5)",
+            "攻击减益"
         ],
         "source": "S3-瓦尔哈拉",
         "Release date": "2022-12-19",
@@ -46570,7 +54195,7 @@ window.allHeroes =
         "family": "midgard",
         "image": "https://i.imgur.com/LYyDsUh.jpg",
         "costume_id": 1,
-        "originalIndex": 1404
+        "originalIndex": 1405
     },
     {
         "name": "雷响 (Thunderclap)",
@@ -46586,6 +54211,12 @@ window.allHeroes =
             "全体延迟攻击",
             "自我攻击叠加"
         ],
+        "skill_types": [
+            "持续伤害",
+            "生命强化",
+            "叠加",
+            "嘲讽"
+        ],
         "source": "月活动-卡勒瓦拉",
         "Release date": "2023-05-06",
         "star": 5,
@@ -46600,13 +54231,13 @@ window.allHeroes =
             "叠加（最多 10 层）：施法者对所克制元素的攻击力提高 +25%。"
         ],
         "passives": [
-            "特殊技能附带持续伤害：当该角色施放其特殊技能时，会给一个随机敌人施加猎人印记。目标在 150 回合内受到 3 点伤害。如果目标已有此效果，则持续时间刷新，伤害增加 150 点，总伤害最高可达 1500 点。",
+            "特殊技能附带持续伤害：当该角色施放其特殊技能时，会给一个随机敌人施加猎人印记。目标在 3 回合内受到 150 点伤害。如果目标已有此效果，则持续时间刷新，伤害增加 150 点，总伤害最高可达 1500 点。",
             "猎人之毅：当该角色施放其特殊技能时，获得 +20% 的攻击力，持续 3 回合。此效果可与其他改变攻击力的效果并存。"
         ],
         "family": "junglehunter",
         "image": "https://i.imgur.com/8fPiMj3.jpg",
         "costume_id": 0,
-        "originalIndex": 1405
+        "originalIndex": 1406
     },
     {
         "name": "杜拉 (Thura)",
@@ -46620,6 +54251,12 @@ window.allHeroes =
             "攻击3个目标",
             "无视3个目标增益",
             "3个目标攻击增益"
+        ],
+        "skill_types": [
+            "范围攻击 (打3)",
+            "额外伤害",
+            "绕过",
+            "攻击增益"
         ],
         "source": "盟约召唤",
         "Release date": "2024-05-23",
@@ -46636,12 +54273,12 @@ window.allHeroes =
         ],
         "passives": [
             "特殊技能伤害减免：该角色有 10% 的几率将受到的特殊技能直接伤害降至 1 点。",
-            "特殊技能附带持续伤害：当该角色施放其特殊技能时，会给一个随机敌人施加猎人印记。目标在 150 回合内受到 3 点伤害。如果目标已有此效果，则持续时间刷新，伤害增加 150 点，总伤害最高可达 1500 点。"
+            "特殊技能附带持续伤害：当该角色施放其特殊技能时，会给一个随机敌人施加猎人印记。目标在 3 回合内受到 150 点伤害。如果目标已有此效果，则持续时间刷新，伤害增加 150 点，总伤害最高可达 1500 点。"
         ],
         "family": "plainshunter",
         "image": "https://i.imgur.com/3kaZWy1.jpg",
         "costume_id": 0,
-        "originalIndex": 1406
+        "originalIndex": 1407
     },
     {
         "name": "黄玉 (Topaz)",
@@ -46655,6 +54292,11 @@ window.allHeroes =
             "摧毁小兵 (1/3/所有目标)",
             "攻击 (1/3/所有) 目标",
             "法力提升"
+        ],
+        "skill_types": [
+            "范围攻击 (打3)",
+            "法力提升",
+            "反制小兵"
         ],
         "source": "高塔-忍者",
         "Release date": "2022-02-02",
@@ -46682,7 +54324,7 @@ window.allHeroes =
         "family": "ninja",
         "image": "https://i.imgur.com/yKvm70P.jpg",
         "costume_id": 0,
-        "originalIndex": 1407
+        "originalIndex": 1408
     },
     {
         "name": "乌赖乌斯 (Uraeus)",
@@ -46697,6 +54339,13 @@ window.allHeroes =
             "绕过小兵",
             "对小兵持续伤害",
             "对恶魔持续伤害"
+        ],
+        "skill_types": [
+            "持续伤害",
+            "特殊治疗",
+            "反制小兵",
+            "召唤小兵",
+            "狙击手"
         ],
         "source": "月英",
         "Release date": "2021-02-01",
@@ -46718,7 +54367,7 @@ window.allHeroes =
         "family": 2021,
         "image": "https://i.imgur.com/1T6P7Be.jpg",
         "costume_id": 0,
-        "originalIndex": 1408
+        "originalIndex": 1409
     },
     {
         "name": "吠舍离 (Vaishali)",
@@ -46735,6 +54384,14 @@ window.allHeroes =
             "全体驱散",
             "全体持续伤害",
             "全体攻击降低"
+        ],
+        "skill_types": [
+            "攻击增益",
+            "净化",
+            "攻击减益",
+            "驱散",
+            "持续伤害",
+            "持续治疗"
         ],
         "source": "高塔-魔法",
         "Release date": "2023-11-15",
@@ -46761,7 +54418,7 @@ window.allHeroes =
         "family": "magic",
         "image": "https://i.imgur.com/Ssu3ay2.jpg",
         "costume_id": 0,
-        "originalIndex": 1409
+        "originalIndex": 1410
     },
     {
         "name": "薇薇卡 (Vivica)",
@@ -46775,6 +54432,11 @@ window.allHeroes =
             "治疗者",
             "防御增益",
             "净化者"
+        ],
+        "skill_types": [
+            "防御增益",
+            "净化",
+            "治疗"
         ],
         "source": "S1-经典",
         "Release date": "2017-01-01",
@@ -46792,7 +54454,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/aHsNbej.jpg",
         "costume_id": 0,
-        "originalIndex": 1410
+        "originalIndex": 1411
     },
     {
         "name": "薇薇卡 (Vivica) C1",
@@ -46806,6 +54468,11 @@ window.allHeroes =
             "治疗者",
             "防御降低",
             "驱散者"
+        ],
+        "skill_types": [
+            "防御减益",
+            "驱散",
+            "治疗"
         ],
         "source": "S1-经典",
         "Release date": "2020-01-01",
@@ -46823,7 +54490,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/pm7wcbP.jpg",
         "costume_id": 1,
-        "originalIndex": 1411
+        "originalIndex": 1412
     },
     {
         "name": "薇薇卡 (Vivica) C2",
@@ -46837,6 +54504,11 @@ window.allHeroes =
             "治疗者",
             "攻击降低",
             "驱散者"
+        ],
+        "skill_types": [
+            "攻击减益",
+            "驱散",
+            "生命强化"
         ],
         "source": "S1-经典",
         "Release date": "2022-09-05",
@@ -46854,7 +54526,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/J8lGs8A.jpg",
         "costume_id": 2,
-        "originalIndex": 1412
+        "originalIndex": 1413
     },
     {
         "name": "薇薇卡 (Vivica) 卡通",
@@ -46868,6 +54540,11 @@ window.allHeroes =
             "治疗者",
             "防御增益",
             "净化者"
+        ],
+        "skill_types": [
+            "防御增益",
+            "净化",
+            "治疗"
         ],
         "source": "S1-经典",
         "Release date": "2023-10-30",
@@ -46887,7 +54564,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/zJxvLuN.jpg",
         "costume_id": 3,
-        "originalIndex": 1413
+        "originalIndex": 1414
     },
     {
         "name": "薇薇卡 (Vivica) 玻璃",
@@ -46902,6 +54579,12 @@ window.allHeroes =
             "全体防御增益",
             "神圣盟友减益反射",
             "全体净化"
+        ],
+        "skill_types": [
+            "防御增益",
+            "净化",
+            "治疗",
+            "反射"
         ],
         "source": "S1-经典",
         "Release date": "2024-12-24",
@@ -46922,7 +54605,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/Vcxpsu2.jpg",
         "costume_id": 4,
-        "originalIndex": 1414
+        "originalIndex": 1415
     },
     {
         "name": "韦恩 (Wayne)",
@@ -46935,6 +54618,11 @@ window.allHeroes =
         "types": [
             "全体持续伤害",
             "全体治疗偷取"
+        ],
+        "skill_types": [
+            "持续伤害",
+            "特殊治疗",
+            "治疗削减"
         ],
         "source": "月活动-莫洛维亚",
         "Release date": "2024-09-23",
@@ -46953,7 +54641,7 @@ window.allHeroes =
         "family": "morlovia",
         "image": "https://i.imgur.com/ogAtunM.jpg",
         "costume_id": 0,
-        "originalIndex": 1415
+        "originalIndex": 1416
     },
     {
         "name": "韦尔霍夫 (Wealhtheow)",
@@ -46967,6 +54655,13 @@ window.allHeroes =
             "治疗者",
             "全体强化持续治疗",
             "单体增益之源"
+        ],
+        "skill_types": [
+            "治疗",
+            "生命强化",
+            "持续治疗",
+            "攻击增益",
+            "法力生成增益"
         ],
         "source": "黑色星期五召唤",
         "Release date": "2024-11-25",
@@ -46991,7 +54686,7 @@ window.allHeroes =
         "family": "beowulf",
         "image": "https://i.imgur.com/yG43ChX.jpg",
         "costume_id": 0,
-        "originalIndex": 1416
+        "originalIndex": 1417
     },
     {
         "name": "白兔先生 (White Rabbit)",
@@ -47004,6 +54699,10 @@ window.allHeroes =
         "types": [
             "攻击3个目标",
             "防御降低"
+        ],
+        "skill_types": [
+            "范围攻击 (打3)",
+            "防御减益"
         ],
         "source": "挑战节-仙境",
         "Release date": "2017-01-01",
@@ -47020,7 +54719,7 @@ window.allHeroes =
         "family": "wonderland",
         "image": "https://i.imgur.com/00qNGOk.jpg",
         "costume_id": 0,
-        "originalIndex": 1417
+        "originalIndex": 1418
     },
     {
         "name": "白兔先生 (White Rabbit) C1",
@@ -47033,6 +54732,10 @@ window.allHeroes =
         "types": [
             "攻击3个目标",
             "防御降低"
+        ],
+        "skill_types": [
+            "范围攻击 (打3)",
+            "防御减益"
         ],
         "source": "挑战节-仙境",
         "Release date": "2022-02-17",
@@ -47051,7 +54754,7 @@ window.allHeroes =
         "family": "wonderland",
         "image": "https://i.imgur.com/qj3SAsZ.jpg",
         "costume_id": 1,
-        "originalIndex": 1418
+        "originalIndex": 1419
     },
     {
         "name": "维柳 (Willow)",
@@ -47065,6 +54768,17 @@ window.allHeroes =
             "攻击所有目标",
             "伤害减免",
             "反击"
+        ],
+        "skill_types": [
+            "全体攻击 (打5)",
+            "增益格挡者",
+            "绕过",
+            "反击",
+            "伤害减免",
+            "驱散",
+            "叠加",
+            "法力削减或格挡",
+            "治疗"
         ],
         "source": "高塔-魔法",
         "Release date": "2023-05-03",
@@ -47091,7 +54805,7 @@ window.allHeroes =
         "family": "magic",
         "image": "https://i.imgur.com/Njfyzmw.jpg",
         "costume_id": 0,
-        "originalIndex": 1419
+        "originalIndex": 1420
     },
     {
         "name": "温妮 (Winnie)",
@@ -47105,6 +54819,12 @@ window.allHeroes =
             "净化者",
             "生命值加成",
             "防御增益"
+        ],
+        "skill_types": [
+            "防御增益",
+            "净化",
+            "生命强化",
+            "提供免疫"
         ],
         "source": "联盟-骑士冲击",
         "Release date": "2024-01-10",
@@ -47126,7 +54846,7 @@ window.allHeroes =
         "family": "stag",
         "image": "https://i.imgur.com/Dx6MykQ.jpg",
         "costume_id": 0,
-        "originalIndex": 1420
+        "originalIndex": 1421
     },
     {
         "name": "沃尔夫冈 (Wolfgang)",
@@ -47140,6 +54860,12 @@ window.allHeroes =
             "攻击所有目标",
             "单体伤害减免",
             "全体强化持续治疗"
+        ],
+        "skill_types": [
+            "全体攻击 (打5)",
+            "持续治疗",
+            "伤害减免",
+            "生命强化"
         ],
         "source": "联盟-骑士冲击",
         "Release date": "2021-10-13",
@@ -47157,7 +54883,7 @@ window.allHeroes =
         "family": "wolf",
         "image": "https://i.imgur.com/8Qu4qUF.jpg",
         "costume_id": 0,
-        "originalIndex": 1421
+        "originalIndex": 1422
     },
     {
         "name": "沃尔夫冈 (Wolfgang) C1",
@@ -47171,6 +54897,12 @@ window.allHeroes =
             "攻击所有目标",
             "单体伤害减免",
             "全体强化持续治疗"
+        ],
+        "skill_types": [
+            "全体攻击 (打5)",
+            "伤害减免",
+            "生命强化",
+            "持续治疗"
         ],
         "source": "联盟-骑士冲击",
         "Release date": "2024-12-17",
@@ -47192,7 +54924,7 @@ window.allHeroes =
         "family": "wolf",
         "image": "https://i.imgur.com/2DLIDng.jpg",
         "costume_id": 1,
-        "originalIndex": 1422
+        "originalIndex": 1423
     },
     {
         "name": "武尔夫斯坦 (Wulfstan)",
@@ -47207,6 +54939,11 @@ window.allHeroes =
             "攻击所有目标",
             "全体狂乱",
             "自我狂乱"
+        ],
+        "skill_types": [
+            "全体攻击 (打5)",
+            "增益窃取者",
+            "对自身或友军负面效果"
         ],
         "source": "神秘-暗影",
         "Release date": "2025-01-09",
@@ -47224,7 +54961,7 @@ window.allHeroes =
         "family": "cultist",
         "image": "https://i.imgur.com/EHlubEr.jpg",
         "costume_id": 0,
-        "originalIndex": 1423
+        "originalIndex": 1424
     },
     {
         "name": "泽维尔 (Xavier)",
@@ -47237,6 +54974,12 @@ window.allHeroes =
         "types": [
             "攻击单个目标",
             "法力削减者"
+        ],
+        "skill_types": [
+            "范围攻击 (打3)",
+            "全体攻击 (打5)",
+            "法力削减或格挡",
+            "狙击手"
         ],
         "source": "超级元素人",
         "Release date": "2023-07-17",
@@ -47261,7 +55004,7 @@ window.allHeroes =
         "family": "superelemental",
         "image": "https://i.imgur.com/DZtGVoI.jpg",
         "costume_id": 0,
-        "originalIndex": 1424
+        "originalIndex": 1425
     },
     {
         "name": "赞德莉亚 (Zandria)",
@@ -47274,6 +55017,11 @@ window.allHeroes =
         "types": [
             "攻击所有目标",
             "复活者"
+        ],
+        "skill_types": [
+            "全体攻击 (打5)",
+            "复活",
+            "额外伤害"
         ],
         "source": "超级元素人",
         "Release date": "2022-10-10",
@@ -47298,7 +55046,7 @@ window.allHeroes =
         "family": "superelemental",
         "image": "https://i.imgur.com/h5xLq71.jpg",
         "costume_id": 0,
-        "originalIndex": 1425
+        "originalIndex": 1426
     },
     {
         "name": "扎莎 (Zazha)",
@@ -47312,6 +55060,13 @@ window.allHeroes =
             "自我替换增益",
             "攻击单个目标",
             "强化治疗"
+        ],
+        "skill_types": [
+            "狙击手",
+            "特殊治疗",
+            "生命强化",
+            "反制小兵",
+            "状态效果转换"
         ],
         "source": "高塔-魔法",
         "Release date": "2025-05-29",
@@ -47335,7 +55090,7 @@ window.allHeroes =
         "family": "magiccarpet",
         "image": "https://imgur.com/da8x4gT.jpg",
         "costume_id": 0,
-        "originalIndex": 1426
+        "originalIndex": 1427
     },
     {
         "name": "泽克纳 (Zekena)",
@@ -47349,6 +55104,11 @@ window.allHeroes =
             "攻击单个目标",
             "弹射",
             "防御降低"
+        ],
+        "skill_types": [
+            "连锁与随机攻击",
+            "防御减益",
+            "额外伤害"
         ],
         "source": "S4-蛮荒地界",
         "Release date": "2021-12-02",
@@ -47368,7 +55128,7 @@ window.allHeroes =
         "family": "underwild",
         "image": "https://i.imgur.com/hsqxizP.jpg",
         "costume_id": 0,
-        "originalIndex": 1427
+        "originalIndex": 1428
     },
     {
         "name": "泽克纳 (Zekena) C1",
@@ -47382,6 +55142,12 @@ window.allHeroes =
             "攻击单个目标",
             "弹射",
             "防御降低"
+        ],
+        "skill_types": [
+            "狙击手",
+            "连锁与随机攻击",
+            "额外伤害",
+            "防御减益"
         ],
         "source": "S4-蛮荒地界",
         "Release date": "2024-06-20",
@@ -47401,7 +55167,7 @@ window.allHeroes =
         "family": "underwild",
         "image": "https://i.imgur.com/KswtgYH.jpg",
         "costume_id": 1,
-        "originalIndex": 1428
+        "originalIndex": 1429
     },
     {
         "name": "泽努克瓦 (Zenuk'wa)",
@@ -47414,6 +55180,12 @@ window.allHeroes =
         "types": [
             "攻击3个目标",
             "状态异常免疫"
+        ],
+        "skill_types": [
+            "范围攻击 (打3)",
+            "持续伤害",
+            "提供免疫",
+            "特殊治疗"
         ],
         "source": "月活动-海滩派对",
         "Release date": "2024-06-03",
@@ -47428,13 +55200,13 @@ window.allHeroes =
             "施法者和附近盟友对新的状态异常免疫，持续 4 回合，且每当有状态异常尝试施加于其上，他们都将恢复 225 点生命值。"
         ],
         "passives": [
-            "特殊技能附带持续伤害：当该角色施放其特殊技能时，所有敌人会在 238 回合内受到 2 点水系伤害。",
+            "特殊技能附带持续伤害：当该角色施放其特殊技能时，所有敌人会在 2 回合内受到 238 点水系伤害。",
             "抵抗水系伤害：该角色天生对水系伤害有抵抗能力。"
         ],
         "family": "beachparty",
         "image": "https://i.imgur.com/wpHKBfv.jpg",
         "costume_id": 0,
-        "originalIndex": 1429
+        "originalIndex": 1430
     },
     {
         "name": "张飞 (Zhang Fei)",
@@ -47447,6 +55219,10 @@ window.allHeroes =
         "types": [
             "攻击单个目标",
             "全体防御降低反射"
+        ],
+        "skill_types": [
+            "反射",
+            "狙击手"
         ],
         "source": "三国召唤",
         "Release date": "2022-03-14T12:00:00",
@@ -47463,7 +55239,7 @@ window.allHeroes =
         "family": "kingdom",
         "image": "https://i.imgur.com/stJf0Qg.jpg",
         "costume_id": 0,
-        "originalIndex": 1430
+        "originalIndex": 1431
     },
     {
         "name": "张飞 (Zhang Fei) C1",
@@ -47477,6 +55253,11 @@ window.allHeroes =
             "攻击单个目标",
             "单体持续伤害",
             "全体防御降低反射"
+        ],
+        "skill_types": [
+            "持续伤害",
+            "反射",
+            "狙击手"
         ],
         "source": "三国召唤",
         "Release date": "2024-10-29",
@@ -47499,7 +55280,7 @@ window.allHeroes =
         "family": "kingdom",
         "image": "https://i.imgur.com/LeENxWF.jpg",
         "costume_id": 1,
-        "originalIndex": 1431
+        "originalIndex": 1432
     },
     {
         "name": "诸葛亮 (Zhuge Liang)",
@@ -47512,6 +55293,12 @@ window.allHeroes =
         "types": [
             "全体反击小兵召唤者",
             "召唤所有恶魔"
+        ],
+        "skill_types": [
+            "反击",
+            "召唤恶魔",
+            "召唤小兵",
+            "持续伤害"
         ],
         "source": "三国召唤",
         "Release date": "2022-03-14T12:00:00",
@@ -47530,7 +55317,7 @@ window.allHeroes =
         "family": "kingdom",
         "image": "https://i.imgur.com/jjSBiGT.jpg",
         "costume_id": 0,
-        "originalIndex": 1432
+        "originalIndex": 1433
     },
     {
         "name": "诸葛亮 (Zhuge Liang) C1",
@@ -47543,6 +55330,12 @@ window.allHeroes =
         "types": [
             "全体反击小兵召唤者",
             "召唤所有恶魔"
+        ],
+        "skill_types": [
+            "召唤小兵",
+            "反击",
+            "召唤恶魔",
+            "持续伤害"
         ],
         "source": "三国召唤",
         "Release date": "2024-05-28",
@@ -47566,7 +55359,7 @@ window.allHeroes =
         "family": "kingdom",
         "image": "https://i.imgur.com/zdjoPv7.jpg",
         "costume_id": 1,
-        "originalIndex": 1433
+        "originalIndex": 1434
     },
     {
         "name": "佐拉 (Zora)",
@@ -47580,6 +55373,11 @@ window.allHeroes =
             "攻击所有目标",
             "净化者",
             "攻击增益"
+        ],
+        "skill_types": [
+            "全体攻击 (打5)",
+            "攻击增益",
+            "净化"
         ],
         "source": "月英",
         "Release date": "2024-01-01",
@@ -47601,6 +55399,6 @@ window.allHeroes =
         "family": 2024,
         "image": "https://i.imgur.com/wf4Kvkm.jpg",
         "costume_id": 0,
-        "originalIndex": 1434
+        "originalIndex": 1435
     }
 ];

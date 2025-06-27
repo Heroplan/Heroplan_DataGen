@@ -43,7 +43,7 @@
 该数量将等同于战队里{ELEMENT}系英雄的数量。每种元素同一时间在面板上最多只能有{MAXTILESONBOARD}颗权力宝石。
 
 权力宝石每回合将随机对一名敌人造成{FIXEDPOWER}点伤害，直到它被消除为止。权力宝石被消除时，将随机对一名敌人造成{MATCHEFFECTFIXEDPOWER}点伤害。"
-"familybonuses.description.long.damage_on_special_dodge_wild_cat","每次闪避特殊技能时，对攻击者造成{FIXEDVALUE}点伤害。"
+"familybonuses.description.long.damage_on_special_dodge_wild_cat","每次闪避特殊技能时，对攻击者造成{1MEMBERFIXEDVALUE}/{2MEMBERSFIXEDVALUE}/{3MEMBERSFIXEDVALUE} 点伤害。"
 "familybonuses.description.long.defense_multiplier","{2MEMBERSMULTIPLIERPERCENTCHANGE}%/{3MEMBERSMULTIPLIERPERCENTCHANGE}%/{4MEMBERSMULTIPLIERPERCENTCHANGE}%/{5MEMBERSMULTIPLIERPERCENTCHANGE}%防御。"
 "familybonuses.description.long.defense_multiplier_atlantis","{MULTIPLIERPERCENTCHANGE}%/{2MEMBERSMULTIPLIERPERCENTCHANGE}%/{3MEMBERSMULTIPLIERPERCENTCHANGE}%/{4MEMBERSMULTIPLIERPERCENTCHANGE}%/{5MEMBERSMULTIPLIERPERCENTCHANGE}%防御。"
 "familybonuses.description.long.defense_multiplier_classic","{2MEMBERSMULTIPLIERPERCENTCHANGE}%/{3MEMBERSMULTIPLIERPERCENTCHANGE}%/{4MEMBERSMULTIPLIERPERCENTCHANGE}%/{5MEMBERSMULTIPLIERPERCENTCHANGE}%防御。"
@@ -137,8 +137,8 @@
 如果敌方的特殊技能击杀了此角色，则此几率变为{1MEMBERCHANCEPERKILLINGHIT}%/{2MEMBERSCHANCEPERKILLINGHIT}%。"
 "familybonuses.description.long.tales1_mana_debuff_on_special_damage.tales1_family_mana_reduction","敌方的特殊技能对此角色造成伤害时，此角色有{1MEMBERCHANCE}%/{2MEMBERSCHANCE}%几率对该敌人施放{MANAREGEN}%法力生成，持续{STATUSEFFECT1TURNS}回合。
 如果敌方的特殊技能击败此角色，则此几率变为{1MEMBERCHANCEPERKILLINGHIT}%/{2MEMBERSCHANCEPERKILLINGHIT}%。"
-"familybonuses.description.long.unique_family_healing_received_modifier_all","在获得任何治疗时，单人英雄所得到的治疗增加{MULTIPLIER}%（单人英雄即为在战队内没有其他来自同一家族或王国成员的英雄）。"
-"familybonuses.description.long.unique_family_mana_multiplier_all","单人英雄将获得{MULTIPLIER}%法力生成。（单人英雄即为在战队内没有其他来自同一家族或王国成员的英雄）"
+"familybonuses.description.long.unique_family_healing_received_modifier_all","获得的治疗增加{MULTIPLIER}%。"
+"familybonuses.description.long.unique_family_mana_multiplier_all","{MULTIPLIER}%法力生成。"
 "familybonuses.description.members","（家族成员：{0}）"
 "familybonuses.description.members.realm","（王国成员：{0}）"
 "familybonuses.description.short.abyss","施放特殊技能时，有{CHANCE}%几率生成一个蛮荒地界宝石。蛮荒地界宝石每回合会对一名随机敌人造成{FIXEDPOWER}点伤害。"
@@ -170,7 +170,7 @@
 "familybonuses.description.short.damage_gem_per_turn.match_damage","每回合，与此英雄颜色相同的{TILESPERTURN}面普通盾牌将被权力宝石所代替。每种元素在面板上同一时间最多只能有{MAXTILESONBOARD}颗权力宝石。"
 "familybonuses.description.short.damage_gem_per_turn.match_effect.directeffect.damage.all.enemies","每回合，与此英雄颜色相同的{TILESPERTURN}面普通盾牌将被权力宝石所代替。每种元素在面板上同一时间最多只能有{MAXTILESONBOARD}颗权力宝石。"
 "familybonuses.description.short.damage_gem_per_turn.match_effect.directeffect.damage.random.enemies","每回合，与此英雄颜色相同的{TILESPERTURN}面普通盾牌将被权力宝石所代替。每种元素在面板上同一时间最多只能有{MAXTILESONBOARD}颗权力宝石。"
-"familybonuses.description.short.damage_on_special_dodge_wild_cat","每次闪避特殊技能时，对攻击者造成{FIXEDVALUE}点伤害"
+"familybonuses.description.short.damage_on_special_dodge_wild_cat","每次闪避特殊技能时，对攻击者造成{1MEMBERFIXEDVALUE}/{2MEMBERSFIXEDVALUE}/{3MEMBERSFIXEDVALUE} 点伤害。"
 "familybonuses.description.short.defense_multiplier","{MULTIPLIERPERCENTCHANGE}%防御"
 "familybonuses.description.short.defense_multiplier_atlantis","{MULTIPLIERPERCENTCHANGE}%防御"
 "familybonuses.description.short.defense_multiplier_classic","{MULTIPLIERPERCENTCHANGE}%防御"
@@ -270,14 +270,14 @@
 "herocard.family.description.brawlbonus.active_now_bonus","突袭乱斗英雄加成已启动！
 此英雄在当前突袭乱斗活动中具有以下突袭加成："
 "herocard.family.description.common","当与相同家族的独特英雄组队时，英雄会变得更强。"
-"herocard.family.description.common.bard","吟游诗人家族将辅助其他的家族和王国。"
+"herocard.family.description.common.bard","吟游诗人家族为队伍中唯一属于该家族的英雄提供单人加成："
 "herocard.family.description.common.classic","当与相同家族的独特英雄组队时，英雄会变得更强。
 
 经典家族英雄需要进阶到满级才能获得家族加成。
 
 2/3/4/5位进阶到满级的英雄加成："
 "herocard.family.description.common.construct","该家族的成员拥有一个机械核心。"
-"herocard.family.description.common.cupid","爱神家族将辅助其他的家族和王国。"
+"herocard.family.description.common.cupid","爱神家族为队伍中唯一属于该家族的英雄提供单人加成："
 "herocard.family.description.common.fox","战斗开始时，狐狸英雄将为自身召唤一个狡狐小兵。"
 "herocard.family.description.common.garrison","当与相同家族的独特英雄组队时，英雄会变得更强。
 
@@ -488,6 +488,8 @@
 "herocard.family.title.tales1_goodies.short","亚特兰蒂斯卫士"
 "herocard.family.title.vanaheim","瓦纳海姆王国"
 "herocard.family.title.vanaheim.short","瓦纳海姆"
+"herocard.family.title.vegetable","植物家族"
+"herocard.family.title.vegetable.short","植物"
 "herocard.family.title.villains","恶棍家族"
 "herocard.family.title.villains.short","恶棍"
 "herocard.family.title.wild_cat","野猫家族"

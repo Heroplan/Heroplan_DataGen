@@ -147,6 +147,8 @@
 "herocard.family.title.tales1_goodies.short","亞特蘭蒂斯衛士"
 "herocard.family.title.vanaheim","華納海姆王國"
 "herocard.family.title.vanaheim.short","華納海姆"
+"herocard.family.title.vegetable","蔬菜家族"
+"herocard.family.title.vegetable.short","蔬菜"
 "herocard.family.title.villains","惡棍家族"
 "herocard.family.title.villains.short","惡棍"
 "herocard.family.title.wild_cat","野貓家族"

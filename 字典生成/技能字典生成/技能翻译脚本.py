@@ -96,15 +96,15 @@ def extract_string_from_item(item):
 
 def main():
     """主函数，执行批量翻译流程。"""
-    logger = setup_logger('../logseffects_bilingual_translation_log.log', 'EffectsBilingualTranslator')
+    logger = setup_logger('../../logseffects_bilingual_translation_log.log', 'EffectsBilingualTranslator')
     logger.info("--- 开始技能词条双语批量翻译任务 ---")
 
     # (修改) 定义简繁双语的输入输出文件
-    dict_file_cn = '../dictionaries/effects_dictionary_cn.json'
-    dict_file_tc = '../dictionaries/effects_dictionary_tc.json'
-    input_file = '../to_translate/effects_to_translate.js'
-    output_file_cn = '../effects_cn.js'
-    output_file_tc = '../effects_tc.js'
+    dict_file_cn = '../../dictionaries/effects_dict_cn.json'
+    dict_file_tc = '../../dictionaries/effects_dict_tc.json'
+    input_file = '../../to_translate/effects_to_translate.js'
+    output_file_cn = 'effects_cn.js'
+    output_file_tc = 'effects_tc.js'
 
     # (修改) 分别为简繁创建翻译器实例
     translator_cn = Translator(dict_file_cn, logger, 'CN')

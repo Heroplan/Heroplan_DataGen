@@ -147,6 +147,8 @@
 "herocard.family.title.tales1_goodies.short","Defenders of Atlantis"
 "herocard.family.title.vanaheim","Vanaheim Realm"
 "herocard.family.title.vanaheim.short","Vanaheim"
+"herocard.family.title.vegetable","Vegetable Family"
+"herocard.family.title.vegetable.short","Vegetable"
 "herocard.family.title.villains","Villain Family"
 "herocard.family.title.villains.short","Villain"
 "herocard.family.title.wild_cat","Wild Cat Family"

@@ -2,7 +2,7 @@ import json
 import re
 from datetime import datetime
 
-# =================  请在这里配置您要排除的英雄名称  =================
+# ================= 请在这里配置您要排除的英雄名称 =================
 EXCLUDED_HERO_NAMES = []
 # =====================================================================
 def log_message(message, log_file='logs/extract_heroes_data_log.txt'):
@@ -28,7 +28,7 @@ def process_and_split_multiline_strings(input_list):
     return processed_list
 
 def extract_all_without_uniqueness_check(
-    input_file='heroes_data_cn.js', 
+    input_file='heroes_data_en.js', 
     output_file='default_output.js',
     log_file='logs/extract_heroes_data_log.txt',
     extract_key='effects'
@@ -78,7 +78,8 @@ def extract_all_without_uniqueness_check(
     new_entries = []
     next_display_index = 0
     for hero in heroes_to_add:
-        skill_name = hero.get("skill", "")
+        hero_name = hero.get("name", "") # 获取英雄名称
+        skill_name = hero.get("skill", "") # Original skill name, though not used in output directly
         
         # 使用 hero.get(extract_key, []) 来安全地获取数据，如果不存在则返回空列表
         data_to_extract = hero.get(extract_key, [])
@@ -86,6 +87,7 @@ def extract_all_without_uniqueness_check(
         
         entry = {
             "originalIndex": next_display_index,
+            "name": hero_name,  # 添加英雄名称
             extract_key: processed_data
         }
     
@@ -104,25 +106,26 @@ def extract_all_without_uniqueness_check(
 if __name__ == '__main__':
     log_message("--- 开始执行批量提取任务 (模式：无唯一性检查，覆盖写入) ---")
     
-    # 任务1：提取 'effects'
-    log_message("\n--- [任务 1/2]: 正在处理 'effects' ---")
+    # 任务1：提取 'effects' 到 to_translate 目录
+    log_message("\n--- [任务 1/4]: 正在处理 'effects' (to_translate) ---")
     extract_all_without_uniqueness_check(
-        input_file='heroes_data_cn.js',
+        input_file='heroes_data_en.js',
         output_file='to_translate/effects_to_translate.js',
         log_file='logs/extract_heroes_data_log.txt',
         extract_key='effects'
     )
     
-    # 任务2：提取 'passives'
-    log_message("\n--- [任务 2/2]: 正在处理 'passives' ---")
+    # 任务2：提取 'passives' 到 to_translate 目录
+    log_message("\n--- [任务 2/4]: 正在处理 'passives' (to_translate) ---")
     extract_all_without_uniqueness_check(
-        input_file='heroes_data_cn.js',
+        input_file='heroes_data_en.js',
         output_file='to_translate/passives_to_translate.js',
         log_file='logs/extract_heroes_data_log.txt',
         extract_key='passives'
     )
-    # 任务1：提取 'effects'
-    log_message("\n--- [任务 1/2]: 正在处理 'effects' ---")
+
+    # 任务3：提取 'effects' 到 translated 目录 (用于生成英文数据)
+    log_message("\n--- [任务 3/4]: 正在处理 'effects' (translated) ---")
     extract_all_without_uniqueness_check(
         input_file='heroes_data_cn.js',
         output_file='translated/effects_en.js',
@@ -130,8 +133,8 @@ if __name__ == '__main__':
         extract_key='effects'
     )
     
-    # 任务2：提取 'passives'
-    log_message("\n--- [任务 2/2]: 正在处理 'passives' ---")
+    # 任务4：提取 'passives' 到 translated 目录 (用于生成英文数据)
+    log_message("\n--- [任务 4/4]: 正在处理 'passives' (translated) ---")
     extract_all_without_uniqueness_check(
         input_file='heroes_data_cn.js',
         output_file='translated/passives_en.js',

@@ -11,6 +11,9 @@ window.allHeroes =
         "types": [
             "Hit All"
         ],
+        "skill_types": [
+            "AoE Attackers (Hit-5)"
+        ],
         "source": "S1-Classic",
         "Release date": "2017-01-01",
         "star": 1,
@@ -37,6 +40,9 @@ window.allHeroes =
         "skill": "Hacking Attack",
         "types": [
             "Hit 1"
+        ],
+        "skill_types": [
+            "Snipers"
         ],
         "source": "S1-Classic",
         "Release date": "2017-01-01",
@@ -65,6 +71,9 @@ window.allHeroes =
         "types": [
             "Defense Buff"
         ],
+        "skill_types": [
+            "Buffers (DEF)"
+        ],
         "source": "S1-Classic",
         "Release date": "2017-01-01",
         "star": 2,
@@ -92,6 +101,9 @@ window.allHeroes =
         "types": [
             "Hit All"
         ],
+        "skill_types": [
+            "AoE Attackers (Hit-5)"
+        ],
         "source": "S1-Classic",
         "Release date": "2017-01-01",
         "star": 2,
@@ -118,6 +130,9 @@ window.allHeroes =
         "skill": "Attack Rally",
         "types": [
             "Attack Buff"
+        ],
+        "skill_types": [
+            "Buffers (ATK)"
         ],
         "source": "S1-Classic",
         "Release date": "2017-01-01",
@@ -147,6 +162,12 @@ window.allHeroes =
             "HoT All",
             "Reviver",
             "Replace Ailments Self"
+        ],
+        "skill_types": [
+            "Heal over Time (HoT)",
+            "Revivers",
+            "Minions Counters",
+            "Status Effect Conversion"
         ],
         "source": "Tower-Magic",
         "Release date": "2025-04-17",
@@ -183,6 +204,10 @@ window.allHeroes =
         "types": [
             "Hit All"
         ],
+        "skill_types": [
+            "AoE Attackers (Hit-5)",
+            "Negative Effects On Self Or Allies"
+        ],
         "source": "Monthly Event-Springvale",
         "Release date": "2020-04-06",
         "star": 3,
@@ -213,6 +238,13 @@ window.allHeroes =
             "Minions with Mana Reduction Hit",
             "Special Skill Defense Buff",
             "Cleanser 3"
+        ],
+        "skill_types": [
+            "Buffers (DEF)",
+            "Cleansers",
+            "DoT Attackers",
+            "Minions Summoners",
+            "Mana Reducers or Blockers"
         ],
         "source": "Covenant Summon",
         "Release date": "2022-08-25",
@@ -248,6 +280,10 @@ window.allHeroes =
             "Heal All",
             "Summoner"
         ],
+        "skill_types": [
+            "Healers",
+            "Minions Summoners"
+        ],
         "source": "Monthly Event-Winter",
         "Release date": "2020-12-01",
         "star": 3,
@@ -277,6 +313,10 @@ window.allHeroes =
             "Hit 1",
             "Debuff Immunity 3"
         ],
+        "skill_types": [
+            "Immunity Providers",
+            "Snipers"
+        ],
         "source": "S2-Atlantis",
         "Release date": "2019-08-01",
         "star": 3,
@@ -305,6 +345,10 @@ window.allHeroes =
         "types": [
             "Hit 1",
             "Self Heal"
+        ],
+        "skill_types": [
+            "Healers (Special)",
+            "Snipers"
         ],
         "source": "S1-Classic",
         "Release date": "2017-01-01",
@@ -336,6 +380,11 @@ window.allHeroes =
             "Ailments Immunity Self",
             "Attack Buff Self"
         ],
+        "skill_types": [
+            "Buffers (ATK)",
+            "Immunity Providers",
+            "Snipers"
+        ],
         "source": "S1-Classic",
         "Release date": "2021-01-18",
         "star": 3,
@@ -365,6 +414,11 @@ window.allHeroes =
         "types": [
             "Hit 1",
             "Self Heal"
+        ],
+        "skill_types": [
+            "Healers (Special)",
+            "Snipers",
+            "Extra Damage Dealers"
         ],
         "source": "S1-Classic",
         "Release date": "2024-04-08",
@@ -399,6 +453,11 @@ window.allHeroes =
             "Bypass",
             "Self Heal"
         ],
+        "skill_types": [
+            "Bypassers",
+            "Healers (Special)",
+            "Snipers"
+        ],
         "source": "S1-Classic",
         "Release date": "2025-06-18",
         "star": 3,
@@ -430,6 +489,10 @@ window.allHeroes =
         "types": [
             "Heal all"
         ],
+        "skill_types": [
+            "Buffers (DEF)",
+            "Healers"
+        ],
         "source": "Challenge Festival-Guardians",
         "Release date": "2021-12-15",
         "star": 3,
@@ -458,6 +521,10 @@ window.allHeroes =
         "types": [
             "Ally Damage Share",
             "Defense Buff All"
+        ],
+        "skill_types": [
+            "Buffers (DEF)",
+            "Damage Sharers"
         ],
         "source": "S1-Classic",
         "Release date": "2017-01-01",
@@ -488,6 +555,10 @@ window.allHeroes =
             "Enemy Damage Share",
             "Defense Debuff All"
         ],
+        "skill_types": [
+            "Damage Sharers",
+            "Debuffers (DEF)"
+        ],
         "source": "S1-Classic",
         "Release date": "2020-01-01",
         "star": 3,
@@ -516,6 +587,10 @@ window.allHeroes =
         "types": [
             "Ally Damage Share",
             "Defense Buff All"
+        ],
+        "skill_types": [
+            "Buffers (DEF)",
+            "Damage Sharers"
         ],
         "source": "S1-Classic",
         "Release date": "2024-09-08",
@@ -548,6 +623,10 @@ window.allHeroes =
             "Heal All",
             "Cleanse All"
         ],
+        "skill_types": [
+            "Cleansers",
+            "Healers"
+        ],
         "source": "S4-Wilderness",
         "Release date": "2021-03-25",
         "star": 3,
@@ -579,6 +658,10 @@ window.allHeroes =
             "HoT",
             "Cleanser"
         ],
+        "skill_types": [
+            "Cleansers",
+            "Heal over Time (HoT)"
+        ],
         "source": "S4-Wilderness",
         "Release date": "2023-12-07",
         "star": 3,
@@ -609,6 +692,10 @@ window.allHeroes =
         "types": [
             "Hit 1",
             "Buff Immunity"
+        ],
+        "skill_types": [
+            "Buff Blockers",
+            "Snipers"
         ],
         "source": "S5-Dune",
         "Release date": "2022-04-21",
@@ -642,6 +729,10 @@ window.allHeroes =
         "types": [
             "Hit 1",
             "Buff Immunity"
+        ],
+        "skill_types": [
+            "Buff Blockers",
+            "Snipers"
         ],
         "source": "S5-Dune",
         "Release date": "2025-03-17",
@@ -678,6 +769,11 @@ window.allHeroes =
             "Hit 1",
             "Stacking"
         ],
+        "skill_types": [
+            "Buffers (ATK)",
+            "Snipers",
+            "Stacking Heroes"
+        ],
         "source": "S3-Valhalla",
         "Release date": "2020-05-28",
         "star": 3,
@@ -707,6 +803,11 @@ window.allHeroes =
             "Dispeller",
             "Hit All",
             "Buff Immunity"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-5)",
+            "Buff Blockers",
+            "Dispellers"
         ],
         "source": "Monthly Event-Kalevala",
         "Release date": "2022-06-20",
@@ -739,6 +840,9 @@ window.allHeroes =
         "types": [
             "Hit 3"
         ],
+        "skill_types": [
+            "AoE Attackers (Hit-3)"
+        ],
         "source": "S1-Classic",
         "Release date": "2017-01-01",
         "star": 3,
@@ -767,6 +871,10 @@ window.allHeroes =
             "Hit 3",
             "Dot 3"
         ],
+        "skill_types": [
+            "AoE Attackers (Hit-3)",
+            "DoT Attackers"
+        ],
         "source": "S1-Classic",
         "Release date": "2020-05-18",
         "star": 3,
@@ -794,6 +902,10 @@ window.allHeroes =
         "skill": "Toontastic Rush",
         "types": [
             "Hit 3"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-3)",
+            "Extra Damage Dealers"
         ],
         "source": "S1-Classic",
         "Release date": "2024-06-28",
@@ -826,6 +938,10 @@ window.allHeroes =
             "Hit 3",
             "Elemental Defense Debuff"
         ],
+        "skill_types": [
+            "AoE Attackers (Hit-3)",
+            "Debuffers (DEF)"
+        ],
         "source": "S3-Valhalla",
         "Release date": "2020-02-27",
         "star": 3,
@@ -854,6 +970,10 @@ window.allHeroes =
         "types": [
             "Hit 3",
             "Elemental Defense Debuff"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-3)",
+            "Debuffers (DEF)"
         ],
         "source": "S3-Valhalla",
         "Release date": "2023-04-10",
@@ -885,6 +1005,11 @@ window.allHeroes =
             "Hit 1",
             "Self HoT"
         ],
+        "skill_types": [
+            "Heal over Time (HoT)",
+            "Minions Counters",
+            "Snipers"
+        ],
         "source": "Alliance-Musketeers",
         "Release date": "2023-03-08",
         "star": 3,
@@ -915,6 +1040,11 @@ window.allHeroes =
         "skill": "Faithful Force",
         "types": [
             "Hit 1"
+        ],
+        "skill_types": [
+            "Snipers",
+            "Extra Damage Dealers",
+            "Damage Reducers"
         ],
         "source": "Challenge-Gargoyle",
         "Release date": "2022-05-12",
@@ -949,6 +1079,13 @@ window.allHeroes =
             "Dance of the Little Swan 4",
             "Dodge Buff 4",
             "Status Effect Immunity 4"
+        ],
+        "skill_types": [
+            "Chain & Random Attackers",
+            "Dancers",
+            "Dodgers",
+            "Heal over Time (HoT)",
+            "Immunity Providers"
         ],
         "source": "Solstice Summon",
         "Release date": "2024-01-25",
@@ -988,6 +1125,10 @@ window.allHeroes =
             "Hit All",
             "Defense Debuff All"
         ],
+        "skill_types": [
+            "AoE Attackers (Hit-5)",
+            "Debuffers (DEF)"
+        ],
         "source": "S1-Classic",
         "Release date": "2017-01-01",
         "star": 3,
@@ -1017,6 +1158,10 @@ window.allHeroes =
             "Hit all",
             "Attack Buff All"
         ],
+        "skill_types": [
+            "AoE Attackers (Hit-5)",
+            "Buffers (ATK)"
+        ],
         "source": "S1-Classic",
         "Release date": "2021-01-18",
         "star": 3,
@@ -1045,6 +1190,11 @@ window.allHeroes =
         "types": [
             "Hit All",
             "Defense Debuff All"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-5)",
+            "Debuffers (DEF)",
+            "Extra Damage Dealers"
         ],
         "source": "S1-Classic",
         "Release date": "2024-07-16",
@@ -1078,6 +1228,10 @@ window.allHeroes =
             "Hit 1",
             "Defense Debuff 1"
         ],
+        "skill_types": [
+            "Debuffers (DEF)",
+            "Snipers"
+        ],
         "source": "S1-Classic",
         "Release date": "2017-01-01",
         "star": 3,
@@ -1107,6 +1261,10 @@ window.allHeroes =
             "Hit 1",
             "Attack Buff Self"
         ],
+        "skill_types": [
+            "Buffers (ATK)",
+            "Snipers"
+        ],
         "source": "S1-Classic",
         "Release date": "2021-01-18",
         "star": 3,
@@ -1135,6 +1293,11 @@ window.allHeroes =
         "types": [
             "Hit 1",
             "Defense Debuff 1"
+        ],
+        "skill_types": [
+            "Debuffers (DEF)",
+            "Extra Damage Dealers",
+            "Snipers"
         ],
         "source": "S1-Classic",
         "Release date": "2023-12-25",
@@ -1168,6 +1331,11 @@ window.allHeroes =
             "Charge",
             "Healer",
             "Elemental Defense Buff"
+        ],
+        "skill_types": [
+            "Buffers (DEF)",
+            "Healers",
+            "Minions Counters"
         ],
         "source": "Tower-Styx",
         "Release date": "2022-09-21",
@@ -1209,6 +1377,10 @@ window.allHeroes =
         "types": [
             "Hit 1"
         ],
+        "skill_types": [
+            "Snipers",
+            "Extra Damage Dealers"
+        ],
         "source": "Challenge Festival-Pirates",
         "Release date": "2017-01-01",
         "star": 3,
@@ -1237,6 +1409,11 @@ window.allHeroes =
         "types": [
             "Hit 3",
             "Summoner"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-3)",
+            "Dispellers",
+            "Minions Summoners"
         ],
         "source": "Three Kingdoms Summon",
         "Release date": "2022-03-14T12:00:00",
@@ -1268,6 +1445,10 @@ window.allHeroes =
             "Hit All",
             "Elemental Defense Buff"
         ],
+        "skill_types": [
+            "AoE Attackers (Hit-5)",
+            "Buffers (DEF)"
+        ],
         "source": "S2-Atlantis",
         "Release date": "2019-08-01",
         "star": 4,
@@ -1297,6 +1478,10 @@ window.allHeroes =
             "Hit All",
             "Elemental DoT"
         ],
+        "skill_types": [
+            "AoE Attackers (Hit-5)",
+            "DoT Attackers"
+        ],
         "source": "S2-Atlantis",
         "Release date": "2023-03-06",
         "star": 4,
@@ -1325,6 +1510,10 @@ window.allHeroes =
         "types": [
             "Taunt",
             "Hit all"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-5)",
+            "Taunters"
         ],
         "source": "S6-S7-Untold Tales",
         "Release date": "2023-09-27",
@@ -1363,6 +1552,10 @@ window.allHeroes =
         "types": [
             "Taunt",
             "Hit all"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-5)",
+            "Taunters"
         ],
         "source": "S6-S7-Untold Tales",
         "Release date": "2023-09-27",
@@ -1403,6 +1596,10 @@ window.allHeroes =
             "Heal All",
             "Counterattack"
         ],
+        "skill_types": [
+            "Counterattackers",
+            "Healers"
+        ],
         "source": "S5-Dune",
         "Release date": "2022-04-21",
         "star": 4,
@@ -1435,6 +1632,12 @@ window.allHeroes =
         "types": [
             "Heal All",
             "Counterattack"
+        ],
+        "skill_types": [
+            "Healers",
+            "Counterattackers",
+            "Health Boosters",
+            "Cleansers"
         ],
         "source": "S5-Dune",
         "Release date": "2024-06-24",
@@ -1471,6 +1674,11 @@ window.allHeroes =
             "Hit 3",
             "Defense Debuff"
         ],
+        "skill_types": [
+            "AoE Attackers (Hit-3)",
+            "Debuffers (DEF)",
+            "Buffers (DEF)"
+        ],
         "source": "Covenant Summon",
         "Release date": "2024-04-25",
         "star": 4,
@@ -1503,6 +1711,9 @@ window.allHeroes =
         "types": [
             "Counterattack 3"
         ],
+        "skill_types": [
+            "Counterattackers"
+        ],
         "source": "S1-Classic",
         "Release date": "2017-01-01",
         "star": 4,
@@ -1529,6 +1740,9 @@ window.allHeroes =
         "skill": "Sturdy Riposte",
         "types": [
             "Counterattack All"
+        ],
+        "skill_types": [
+            "Counterattackers"
         ],
         "source": "S1-Classic",
         "Release date": "2020-05-18",
@@ -1557,6 +1771,9 @@ window.allHeroes =
         "types": [
             "Counterattack All"
         ],
+        "skill_types": [
+            "Counterattackers"
+        ],
         "source": "S1-Classic",
         "Release date": "2023-11-27",
         "star": 4,
@@ -1583,6 +1800,9 @@ window.allHeroes =
         "skill": "Toon Riposte",
         "types": [
             "Counterattack 3"
+        ],
+        "skill_types": [
+            "Counterattackers"
         ],
         "source": "S1-Classic",
         "Release date": "2024-09-08",
@@ -1615,6 +1835,11 @@ window.allHeroes =
             "Hit 1",
             "Chain Hit"
         ],
+        "skill_types": [
+            "Chain & Random Attackers",
+            "Minions Counters",
+            "Snipers"
+        ],
         "source": "Challenge Festival-Wonderland",
         "Release date": "2019-02-01",
         "star": 4,
@@ -1644,6 +1869,13 @@ window.allHeroes =
         "types": [
             "Frostfall Ward 3",
             "Attack Buff 3"
+        ],
+        "skill_types": [
+            "Buffers (ATK)",
+            "Damage Reducers",
+            "DoT Attackers",
+            "Minions Counters",
+            "Debuffers (ATK)"
         ],
         "source": "S6-S7-Untold Tales",
         "Release date": "2025-05-16",
@@ -1680,6 +1912,11 @@ window.allHeroes =
             "Dispeller All",
             "Healer"
         ],
+        "skill_types": [
+            "Dispellers",
+            "Heal over Time (HoT)",
+            "Minions Counters"
+        ],
         "source": "Challenge-Carnival of Gods",
         "Release date": "2023-07-13",
         "star": 4,
@@ -1713,6 +1950,11 @@ window.allHeroes =
             "Hit All",
             "Defense Debuff"
         ],
+        "skill_types": [
+            "AoE Attackers (Hit-5)",
+            "Debuffers (DEF)",
+            "Extra Damage Dealers"
+        ],
         "source": "Monthly Event-Morlovia",
         "Release date": "2020-10-26",
         "star": 4,
@@ -1744,6 +1986,13 @@ window.allHeroes =
         "types": [
             "Hit all",
             "Stacker"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-5)",
+            "DoT Attackers",
+            "Extra Damage Dealers",
+            "Mana Reducers or Blockers",
+            "Stacking Heroes"
         ],
         "source": "Monthly Event-Morlovia",
         "Release date": "2021-10-04",
@@ -1778,6 +2027,12 @@ window.allHeroes =
             "Hit 1",
             "Board Alterer"
         ],
+        "skill_types": [
+            "Board Alterers",
+            "Mana Generation Buffers",
+            "Mana Reducers or Blockers",
+            "Snipers"
+        ],
         "source": "Challenge Festival-Bards",
         "Release date": "2022-12-01",
         "star": 4,
@@ -1808,6 +2063,11 @@ window.allHeroes =
         "types": [
             "Hit All",
             "Sword Guard Mega Minion"
+        ],
+        "skill_types": [
+            "Mega Minions Summoners",
+            "AoE Attackers (Hit-5)",
+            "DoT Attackers"
         ],
         "source": "Goblin Summon",
         "Release date": "2024-04-15",
@@ -1842,6 +2102,10 @@ window.allHeroes =
             "Hit 3",
             "Defense Debuff 3"
         ],
+        "skill_types": [
+            "AoE Attackers (Hit-3)",
+            "Debuffers (DEF)"
+        ],
         "source": "S1-Classic",
         "Release date": "2017-01-01",
         "star": 4,
@@ -1871,6 +2135,10 @@ window.allHeroes =
             "Hit 3",
             "Attack Buff 3"
         ],
+        "skill_types": [
+            "AoE Attackers (Hit-3)",
+            "Buffers (ATK)"
+        ],
         "source": "S1-Classic",
         "Release date": "2021-01-18",
         "star": 4,
@@ -1898,6 +2166,10 @@ window.allHeroes =
         "skill": "Postal Pulverizer",
         "types": [
             "Hit 3"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-3)",
+            "Buffers (ATK)"
         ],
         "source": "S1-Classic",
         "Release date": "2023-06-12",
@@ -1927,6 +2199,11 @@ window.allHeroes =
         "types": [
             "Hit 3",
             "Defense Debuff 3"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-3)",
+            "Debuffers (DEF)",
+            "Extra Damage Dealers"
         ],
         "source": "S1-Classic",
         "Release date": "2023-12-25",
@@ -1959,6 +2236,11 @@ window.allHeroes =
         "types": [
             "Hit 3",
             "Defense Debuff 3"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-3)",
+            "Bypassers",
+            "Debuffers (DEF)"
         ],
         "source": "S1-Classic",
         "Release date": "2024-12-24",
@@ -1993,6 +2275,12 @@ window.allHeroes =
             "HoT",
             "Cleanser"
         ],
+        "skill_types": [
+            "Damage Reducers",
+            "Heal over Time (HoT)",
+            "Cleansers",
+            "Immunity Providers"
+        ],
         "source": "Challenge-Return to Sanctuary",
         "Release date": "2024-05-16",
         "star": 4,
@@ -2025,6 +2313,12 @@ window.allHeroes =
             "Hit All",
             "Board Alterer"
         ],
+        "skill_types": [
+            "AoE Attackers (Hit-5)",
+            "Board Alterers",
+            "Debuffers (ATK)",
+            "Buffers (ATK)"
+        ],
         "source": "S3-Valhalla",
         "Release date": "2020-05-28",
         "star": 4,
@@ -2054,6 +2348,11 @@ window.allHeroes =
             "Healer",
             "Attack Buff",
             "Defense Buff"
+        ],
+        "skill_types": [
+            "Buffers (ATK)",
+            "Buffers (DEF)",
+            "Healers"
         ],
         "source": "S1-Classic",
         "Release date": "2017-01-01",
@@ -2086,6 +2385,11 @@ window.allHeroes =
             "Attack Debuff",
             "Defense Debuff"
         ],
+        "skill_types": [
+            "Debuffers (ATK)",
+            "Debuffers (DEF)",
+            "Healers"
+        ],
         "source": "S1-Classic",
         "Release date": "2020-05-18",
         "star": 4,
@@ -2117,6 +2421,11 @@ window.allHeroes =
             "Attack Debuff",
             "Defense Buff"
         ],
+        "skill_types": [
+            "Buffers (DEF)",
+            "Debuffers (ATK)",
+            "Health Boosters"
+        ],
         "source": "S1-Classic",
         "Release date": "2022-10-31",
         "star": 4,
@@ -2147,6 +2456,11 @@ window.allHeroes =
             "Healer",
             "Attack Buff",
             "Defense Buff"
+        ],
+        "skill_types": [
+            "Buffers (ATK)",
+            "Buffers (DEF)",
+            "Healers"
         ],
         "source": "S1-Classic",
         "Release date": "2024-02-12",
@@ -2183,6 +2497,12 @@ window.allHeroes =
             "Reflect Ailments for Ice Allies",
             "Reflect Stacks for Ice Allies"
         ],
+        "skill_types": [
+            "Buffers (ATK)",
+            "Buffers (DEF)",
+            "Healers",
+            "Reflectors"
+        ],
         "source": "S1-Classic",
         "Release date": "2025-03-11",
         "star": 4,
@@ -2218,6 +2538,13 @@ window.allHeroes =
             "Reflect Stacks All",
             "Stack"
         ],
+        "skill_types": [
+            "Buffers (DEF)",
+            "DoT Attackers",
+            "Reflectors",
+            "Stacking Heroes",
+            "Buffers (ATK)"
+        ],
         "source": "Monthly Event-Kalevala",
         "Release date": "2023-05-06",
         "star": 4,
@@ -2249,6 +2576,11 @@ window.allHeroes =
         "skill": "Shackles of the Sea",
         "types": [
             "Hit 1 / 3 / All"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-3)",
+            "AoE Attackers (Hit-5)",
+            "Snipers"
         ],
         "source": "Super Elementals",
         "Release date": "2023-09-11",
@@ -2286,6 +2618,11 @@ window.allHeroes =
             "Hit 3",
             "Stacking"
         ],
+        "skill_types": [
+            "AoE Attackers (Hit-3)",
+            "Buffers (ATK)",
+            "Stacking Heroes"
+        ],
         "source": "S3-Valhalla",
         "Release date": "2020-02-27",
         "star": 4,
@@ -2314,6 +2651,12 @@ window.allHeroes =
         "types": [
             "Hit 1",
             "Mana reducer"
+        ],
+        "skill_types": [
+            "Extra Damage Dealers",
+            "Mana Reducers or Blockers",
+            "Snipers",
+            "Bypassers"
         ],
         "source": "Tower-Owls",
         "Release date": "2023-12-19",
@@ -2345,6 +2688,12 @@ window.allHeroes =
         "types": [
             "Hit 1",
             "Defense Debuff"
+        ],
+        "skill_types": [
+            "Minions Counters",
+            "Snipers",
+            "Debuffers (DEF)",
+            "Mana Raisers"
         ],
         "source": "Tower-Ninjas",
         "Release date": "2024-09-24",
@@ -2385,6 +2734,10 @@ window.allHeroes =
             "Boosted Healer 3",
             "Elemental Defense Buff 3"
         ],
+        "skill_types": [
+            "Buffers (DEF)",
+            "Health Boosters"
+        ],
         "source": "Challenge Festival-Villains",
         "Release date": "2021-02-11",
         "star": 4,
@@ -2414,6 +2767,12 @@ window.allHeroes =
             "Charger",
             "Hit All",
             "Bypass"
+        ],
+        "skill_types": [
+            "Snipers",
+            "AoE Attackers (Hit-3)",
+            "AoE Attackers (Hit-5)",
+            "Bypassers"
         ],
         "source": "Tower-Ninjas",
         "Release date": "2020-10-13",
@@ -2451,6 +2810,10 @@ window.allHeroes =
             "Hit 1",
             "Dispeller All"
         ],
+        "skill_types": [
+            "Dispellers",
+            "Snipers"
+        ],
         "source": "S1-Classic",
         "Release date": "2017-01-01",
         "star": 4,
@@ -2479,6 +2842,10 @@ window.allHeroes =
         "types": [
             "Hit 1",
             "Cleanser All"
+        ],
+        "skill_types": [
+            "Cleansers",
+            "Snipers"
         ],
         "source": "S1-Classic",
         "Release date": "2020-01-01",
@@ -2509,6 +2876,10 @@ window.allHeroes =
             "Hit 1",
             "Buff Imunity All"
         ],
+        "skill_types": [
+            "Buff Blockers",
+            "Snipers"
+        ],
         "source": "S1-Classic",
         "Release date": "2023-11-27",
         "star": 4,
@@ -2537,6 +2908,11 @@ window.allHeroes =
         "types": [
             "Hit 1",
             "Dispeller 1"
+        ],
+        "skill_types": [
+            "Snipers",
+            "Extra Damage Dealers",
+            "Dispellers"
         ],
         "source": "S1-Classic",
         "Release date": "2024-07-16",
@@ -2570,6 +2946,10 @@ window.allHeroes =
             "Hit 1",
             "Healing Buff"
         ],
+        "skill_types": [
+            "Healers (Special)",
+            "Snipers"
+        ],
         "source": "S2-Atlantis",
         "Release date": "2019-08-01",
         "star": 4,
@@ -2598,6 +2978,10 @@ window.allHeroes =
         "types": [
             "Hit 3",
             "Attack Buff"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-3)",
+            "Buffers (ATK)"
         ],
         "source": "S2-Atlantis",
         "Release date": "2023-04-03",
@@ -2628,6 +3012,12 @@ window.allHeroes =
             "Hit 1",
             "Dot 1",
             "Steal Healing"
+        ],
+        "skill_types": [
+            "DoT Attackers",
+            "Healers (Special)",
+            "Healing Reducers",
+            "Snipers"
         ],
         "source": "Monthly Event-Morlovia",
         "Release date": "2018-10-01",
@@ -2661,6 +3051,11 @@ window.allHeroes =
             "Hit 1",
             "Summoner"
         ],
+        "skill_types": [
+            "Dispellers",
+            "Minions Summoners",
+            "Snipers"
+        ],
         "source": "Three Kingdoms Summon",
         "Release date": "2022-03-14T12:00:00",
         "star": 4,
@@ -2690,6 +3085,10 @@ window.allHeroes =
         "types": [
             "Hit 2",
             "Defense Down"
+        ],
+        "skill_types": [
+            "Debuffers (DEF)",
+            "Snipers"
         ],
         "source": "S4-Wilderness",
         "Release date": "2021-03-25",
@@ -2722,6 +3121,10 @@ window.allHeroes =
             "Hit 2",
             "Defense Down"
         ],
+        "skill_types": [
+            "Debuffers (DEF)",
+            "Snipers"
+        ],
         "source": "S4-Wilderness",
         "Release date": "2024-01-04",
         "star": 4,
@@ -2753,6 +3156,12 @@ window.allHeroes =
             "Hit 3",
             "Fiend Summoner 3",
             "Defense debuff 3"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-3)",
+            "Debuffers (DEF)",
+            "DoT Attackers",
+            "Fiends Summoners"
         ],
         "source": "Covenant Summon",
         "Release date": "2022-09-18",
@@ -2789,6 +3198,12 @@ window.allHeroes =
             "Defense Buff All",
             "Heal on damage All"
         ],
+        "skill_types": [
+            "Buffers (DEF)",
+            "Damage Sharers",
+            "Healers (Special)",
+            "Heal over Time (HoT)"
+        ],
         "source": "Hero of the Month",
         "Release date": "2018-10-01T00:00:00",
         "star": 5,
@@ -2820,6 +3235,12 @@ window.allHeroes =
             "Share Damage All",
             "Defense Buff All",
             "HoT All"
+        ],
+        "skill_types": [
+            "Buffers (DEF)",
+            "Damage Sharers",
+            "Heal over Time (HoT)",
+            "Cleansers"
         ],
         "source": "Hero of the Month",
         "Release date": "2023-01-23",
@@ -2855,6 +3276,11 @@ window.allHeroes =
             "Heal All",
             "Mana Generation Debuff All"
         ],
+        "skill_types": [
+            "Cleansers",
+            "Healers",
+            "Mana Reducers or Blockers"
+        ],
         "source": "Monthly Event-Kalevala",
         "Release date": "2022-06-20",
         "star": 5,
@@ -2888,6 +3314,11 @@ window.allHeroes =
             "Healer All",
             "Mana Generation Debuff All"
         ],
+        "skill_types": [
+            "Cleansers",
+            "Healers",
+            "Mana Reducers or Blockers"
+        ],
         "source": "Monthly Event-Kalevala",
         "Release date": "2023-08-07",
         "star": 5,
@@ -2920,6 +3351,12 @@ window.allHeroes =
             "Hit 1",
             "Mana Generation Debuff"
         ],
+        "skill_types": [
+            "Mana Reducers or Blockers",
+            "Snipers",
+            "Buffers (ATK)",
+            "Buffers (DEF)"
+        ],
         "source": "Hero of the Month",
         "Release date": "2018-05-01T00:00:00",
         "star": 5,
@@ -2950,6 +3387,13 @@ window.allHeroes =
             "Hit 3",
             "Mana reduction 3",
             "Mana Generation Debuff 3"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-3)",
+            "Mana Reducers or Blockers",
+            "Buffers (ATK)",
+            "Buffers (DEF)",
+            "Cleansers"
         ],
         "source": "Hero of the Month",
         "Release date": "2021-12-23",
@@ -2983,6 +3427,13 @@ window.allHeroes =
         "types": [
             "Heal all",
             "Board Alterer"
+        ],
+        "skill_types": [
+            "Board Alterers",
+            "Buffers (ATK)",
+            "Debuffers (ATK)",
+            "Healers",
+            "Healers (Special)"
         ],
         "source": "Hero of the Month",
         "Release date": "2021-09-01",
@@ -3018,6 +3469,10 @@ window.allHeroes =
             "Hit 1",
             "Attack Debuff 1"
         ],
+        "skill_types": [
+            "Debuffers (ATK)",
+            "Snipers"
+        ],
         "source": "Challenge Festival-Wonderland",
         "Release date": "2019-02-01",
         "star": 5,
@@ -3048,6 +3503,12 @@ window.allHeroes =
             "Hit All",
             "Healing debuff All",
             "Fiend Summoner All"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-5)",
+            "Fiends Summoners",
+            "Healing Reducers",
+            "DoT Attackers"
         ],
         "source": "Tower-Styx",
         "Release date": "2023-07-19",
@@ -3094,6 +3555,14 @@ window.allHeroes =
             "Firestorm Ward",
             "Mana Generation Buff"
         ],
+        "skill_types": [
+            "DoT Attackers",
+            "Fiends Counters",
+            "Minions Counters",
+            "Mana Generation Buffers",
+            "Damage Reducers",
+            "Debuffers (DEF)"
+        ],
         "source": "S6-S7-Untold Tales",
         "Release date": "2024-12-28",
         "star": 5,
@@ -3131,6 +3600,10 @@ window.allHeroes =
             "Counterattack All",
             "Elemental Ice Mana on Counterattack"
         ],
+        "skill_types": [
+            "Counterattackers",
+            "Mana Raisers"
+        ],
         "source": "Super Elementals",
         "Release date": "2023-01-30",
         "star": 5,
@@ -3167,6 +3640,12 @@ window.allHeroes =
             "Chain",
             "DoT 1"
         ],
+        "skill_types": [
+            "Chain & Random Attackers",
+            "DoT Attackers",
+            "Snipers",
+            "Mana Generation Buffers"
+        ],
         "source": "Hero of the Month",
         "Release date": "2023-09-01",
         "star": 5,
@@ -3202,6 +3681,11 @@ window.allHeroes =
             "Mana Generation Buff All",
             "Cleanser All"
         ],
+        "skill_types": [
+            "Cleansers",
+            "Healers",
+            "Mana Generation Buffers"
+        ],
         "source": "S2-Atlantis",
         "Release date": "2019-02-01",
         "star": 5,
@@ -3232,6 +3716,11 @@ window.allHeroes =
             "Boosted Health All",
             "MoT All",
             "Cleanser All"
+        ],
+        "skill_types": [
+            "Cleansers",
+            "Health Boosters",
+            "Mana Raisers"
         ],
         "source": "S2-Atlantis",
         "Release date": "2021-11-15",
@@ -3264,7 +3753,12 @@ window.allHeroes =
             "Health Reduction",
             "DoT All"
         ],
-        "source": "Alliance-Knights Charge",
+        "skill_types": [
+            "Dispellers",
+            "Max Health Reducers",
+            "DoT Attackers"
+        ],
+        "source": "Alliance-Knights Clash",
         "Release date": "2024-04-10",
         "star": 5,
         "power": 1030,
@@ -3298,7 +3792,14 @@ window.allHeroes =
             "Mana Reduction All",
             "Delayed Mana Boost"
         ],
-        "source": "S4-Wilderness",
+        "skill_types": [
+            "AoE Attackers (Hit-5)",
+            "Debuffers (DEF)",
+            "Mana Raisers",
+            "Mana Reducers or Blockers",
+            "Minions Counters"
+        ],
+        "source": "Wilderness Summon",
         "Release date": "2025-02-21",
         "star": 5,
         "power": 1165,
@@ -3332,6 +3833,13 @@ window.allHeroes =
             "Hit 3",
             "Defense Debuff 3"
         ],
+        "skill_types": [
+            "AoE Attackers (Hit-3)",
+            "Debuffers (DEF)",
+            "Extra Damage Dealers",
+            "Buffers (ATK)",
+            "Buffers (DEF)"
+        ],
         "source": "Hero of the Month",
         "Release date": "2017-07-01T00:00:00",
         "star": 5,
@@ -3363,6 +3871,13 @@ window.allHeroes =
             "Hit 3",
             "Defense Debuff 3",
             "Elemental EDD All"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-3)",
+            "Debuffers (DEF)",
+            "Dispellers",
+            "Buffers (ATK)",
+            "Buffers (DEF)"
         ],
         "source": "Hero of the Month",
         "Release date": "2021-12-23",
@@ -3396,6 +3911,12 @@ window.allHeroes =
         "types": [
             "DoT",
             "Mana steal"
+        ],
+        "skill_types": [
+            "Debuffers (ATK)",
+            "DoT Attackers",
+            "Mana Raisers",
+            "Mana Reducers or Blockers"
         ],
         "source": "S6-S7-Untold Tales",
         "Release date": "2023-11-22",
@@ -3434,6 +3955,12 @@ window.allHeroes =
         "types": [
             "DoT",
             "Mana Steal"
+        ],
+        "skill_types": [
+            "Debuffers (ATK)",
+            "DoT Attackers",
+            "Mana Raisers",
+            "Mana Reducers or Blockers"
         ],
         "source": "S6-S7-Untold Tales",
         "Release date": "2024-11-21",
@@ -3474,6 +4001,10 @@ window.allHeroes =
             "Charge",
             "Hit 3",
             "Blind 3"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-3)",
+            "Debuffers (ATK)"
         ],
         "source": "Tower-Ninjas",
         "Release date": "2023-05-31",
@@ -3516,6 +4047,12 @@ window.allHeroes =
             "Dot 1",
             "Fiend Immunity All"
         ],
+        "skill_types": [
+            "DoT Attackers",
+            "Fiends Counters",
+            "Immunity Providers",
+            "Snipers"
+        ],
         "source": "Hero of the Month",
         "Release date": "2022-12-01",
         "star": 5,
@@ -3548,6 +4085,10 @@ window.allHeroes =
         "types": [
             "Counterattack 3"
         ],
+        "skill_types": [
+            "Damage Reducers",
+            "Counterattackers"
+        ],
         "source": "S5-Dune",
         "Release date": "2022-07-07",
         "star": 5,
@@ -3579,6 +4120,12 @@ window.allHeroes =
         "skill": "Sacred Reflection",
         "types": [
             "Counterattack 3"
+        ],
+        "skill_types": [
+            "Counterattackers",
+            "Damage Reducers",
+            "Health Boosters",
+            "Cleansers"
         ],
         "source": "S5-Dune",
         "Release date": "2024-12-10",
@@ -3617,6 +4164,12 @@ window.allHeroes =
             "Minion Wound",
             "Mana Generation Buff All"
         ],
+        "skill_types": [
+            "AoE Attackers (Hit-5)",
+            "Healers (Special)",
+            "Max Health Reducers",
+            "Mana Generation Buffers"
+        ],
         "source": "Challenge Festival-Bards",
         "Release date": "2025-01-16",
         "star": 5,
@@ -3653,6 +4206,11 @@ window.allHeroes =
             "Defense Debuff 1",
             "Attack Debuff 1"
         ],
+        "skill_types": [
+            "AoE Attackers (Hit-5)",
+            "Debuffers (ATK)",
+            "Debuffers (DEF)"
+        ],
         "source": "Challenge Festival-Starfall",
         "Release date": "2021-06-10",
         "star": 5,
@@ -3683,6 +4241,11 @@ window.allHeroes =
             "Hit 1",
             "Defense Debuff 1",
             "Shifting Mindless Attack 1"
+        ],
+        "skill_types": [
+            "Debuffers (DEF)",
+            "Mindless Attack & Mindless Heal",
+            "Snipers"
         ],
         "source": "Alliance-Pets",
         "Release date": "2022-11-03",
@@ -3718,6 +4281,11 @@ window.allHeroes =
             "Insanity",
             "Self Stoneskin"
         ],
+        "skill_types": [
+            "AoE Attackers (Hit-3)",
+            "Damage Reducers",
+            "Negative Effects On Self Or Allies"
+        ],
         "source": "Mystery-Shadow",
         "Release date": "2025-03-06",
         "star": 5,
@@ -3747,6 +4315,11 @@ window.allHeroes =
         "types": [
             "Shield Guard Mega Minion",
             "Sleep All"
+        ],
+        "skill_types": [
+            "Mega Minions Summoners",
+            "Sleepweavers",
+            "Cleansers"
         ],
         "source": "Goblin Summon",
         "Release date": "2024-05-13",
@@ -3784,6 +4357,14 @@ window.allHeroes =
             "Boosted Heal All",
             "Max Health Reduction All",
             "SS Defense Debuff All"
+        ],
+        "skill_types": [
+            "Buffers (DEF)",
+            "Debuffers (DEF)",
+            "Health Boosters",
+            "Max Health Reducers",
+            "Stacking Heroes",
+            "Mana Reducers or Blockers"
         ],
         "source": "Tower-Magic",
         "Release date": "2023-05-03",
@@ -3823,6 +4404,12 @@ window.allHeroes =
             "Summoner",
             "Defense buff"
         ],
+        "skill_types": [
+            "AoE Attackers (Hit-5)",
+            "Buffers (DEF)",
+            "Dispellers",
+            "Minions Summoners"
+        ],
         "source": "Three Kingdoms Summon",
         "Release date": "2022-07-18",
         "star": 5,
@@ -3854,6 +4441,12 @@ window.allHeroes =
             "Hit All",
             "Summoner",
             "Defense buff"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-5)",
+            "Minions Summoners",
+            "Dispellers",
+            "Buffers (DEF)"
         ],
         "source": "Three Kingdoms Summon",
         "Release date": "2024-08-02",
@@ -3893,6 +4486,14 @@ window.allHeroes =
             "Self Mana Generation Buff Stack",
             "Self HoT Stack"
         ],
+        "skill_types": [
+            "Bypassers",
+            "Healers (Special)",
+            "Snipers",
+            "Stacking Heroes",
+            "Mana Generation Buffers",
+            "Heal over Time (HoT)"
+        ],
         "source": "Challenge Festival-Slayers",
         "Release date": "2021-08-05",
         "star": 5,
@@ -3925,6 +4526,10 @@ window.allHeroes =
         "types": [
             "Summoner All",
             "Stoneskin Minion"
+        ],
+        "skill_types": [
+            "Minions Summoners",
+            "Damage Reducers"
         ],
         "source": "Challenge-Carnival of Gods",
         "Release date": "2023-07-13",
@@ -3960,6 +4565,11 @@ window.allHeroes =
             "Cleanse Immunity 3",
             "Defense Debuff"
         ],
+        "skill_types": [
+            "AoE Attackers (Hit-3)",
+            "Cleanse Blockers",
+            "Debuffers (DEF)"
+        ],
         "source": "Challenge Festival-Bards",
         "Release date": "2023-06-15",
         "star": 5,
@@ -3991,6 +4601,15 @@ window.allHeroes =
         "types": [
             "Hit All",
             "DoT All"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-5)",
+            "Debuffers (ATK)",
+            "Debuffers (DEF)",
+            "DoT Attackers",
+            "Healers (Special)",
+            "Mana Reducers or Blockers",
+            "Snipers"
         ],
         "source": "S6-S7-Untold Tales",
         "Release date": "2023-07-05",
@@ -4030,6 +4649,15 @@ window.allHeroes =
         "types": [
             "Hit All",
             "DoT All"
+        ],
+        "skill_types": [
+            "Snipers",
+            "AoE Attackers (Hit-5)",
+            "Debuffers (ATK)",
+            "Debuffers (DEF)",
+            "Mana Reducers or Blockers",
+            "DoT Attackers",
+            "Healers (Special)"
         ],
         "source": "S6-S7-Untold Tales",
         "Release date": "2025-03-03",
@@ -4071,6 +4699,11 @@ window.allHeroes =
             "Hit all",
             "Status Effect Blocker All"
         ],
+        "skill_types": [
+            "AoE Attackers (Hit-5)",
+            "Buffers (DEF)",
+            "Status Effects Blockers"
+        ],
         "source": "Three Kingdoms Summon",
         "Release date": "2023-12-04",
         "star": 5,
@@ -4105,6 +4738,11 @@ window.allHeroes =
             "DoT 3",
             "Silencer 3"
         ],
+        "skill_types": [
+            "AoE Attackers (Hit-3)",
+            "DoT Attackers",
+            "Silencers"
+        ],
         "source": "Monthly Event-Morlovia",
         "Release date": "2024-09-23",
         "star": 5,
@@ -4126,6 +4764,52 @@ window.allHeroes =
         "originalIndex": 127
     },
     {
+        "name": "Chimister",
+        "fancy_name": "The Lab Moth",
+        "AetherPower": "Ailment Immunity",
+        "color": "Blue",
+        "class": "Wizard",
+        "speed": "Very Fast",
+        "skill": "Mutating Mixture",
+        "types": [
+            "DoT",
+            "Dispeller",
+            "HoT"
+        ],
+        "skill_types": [
+            "DoT Attackers",
+            "Extra Damage Dealers",
+            "Dispellers",
+            "Heal over Time (HoT)",
+            "Health Boosters",
+            "Dodgers",
+            "Minions Counters"
+        ],
+        "source": "Alliance-Moths",
+        "Release date": "2025-06-25",
+        "star": 5,
+        "power": 1214,
+        "attack": 1306,
+        "defense": 1184,
+        "health": 2148,
+        "effects": [
+            "If any enemy has the Toxin status ailment:",
+            " * All enemies receive 985 Toxin damage over 5 turns. Damage is increased against targets with boosted health, Minions or a Mega Minion. (The Toxin damage is increased by +100% against targets with boosted health. The Toxin damage is increased by +33% per Minion or Mega Minion owned by target. Maximum increased damage is +199%.)",
+            " * Dispels buffs from all enemies.",
+            " * All allies regenerate 1300 bosted health over 5 turns. Boosted health can exceed max HP.",
+            "Otherwise:",
+            " * All enemies receive 790 Toxin damage over 5 turns. Damage is increased against targets with boosted health, Minions or a Mega Minion. (The Toxin damage is increased by +100% against targets with boosted health. The Toxin damage is increased by +33% per Minion or Mega Minion owned by target. Maximum increased damage is +199%.)",
+            " * Dispels buffs from all enemies."
+        ],
+        "passives": [
+            "Dodge Special Damage: This character has a 15% chance to dodge Special Skills that deal damage."
+        ],
+        "family": "moth",
+        "image": "https://imgur.com/9sIQqfU.jpg",
+        "costume_id": 0,
+        "originalIndex": 128
+    },
+    {
         "name": "Chitrangada",
         "fancy_name": "Warrior Princess of Manipura",
         "AetherPower": "Dodge",
@@ -4138,6 +4822,11 @@ window.allHeroes =
             "Healing Boon",
             "Reviver",
             "Cleanse 1 Ailment All"
+        ],
+        "skill_types": [
+            "Cleansers",
+            "Healers",
+            "Revivers"
         ],
         "source": "Solstice Summon",
         "Release date": "2025-06-16",
@@ -4161,7 +4850,7 @@ window.allHeroes =
         "family": "mahayoddha",
         "image": "https://imgur.com/4vCPlzL.jpg",
         "costume_id": 0,
-        "originalIndex": 128
+        "originalIndex": 129
     },
     {
         "name": "Ciara",
@@ -4174,6 +4863,11 @@ window.allHeroes =
         "types": [
             "Hit All",
             "Spear Guard Mega Minion"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-5)",
+            "Mega Minions Summoners",
+            "Dispellers"
         ],
         "source": "Goblin Summon",
         "Release date": "2025-05-27",
@@ -4194,7 +4888,7 @@ window.allHeroes =
         "family": "garrisonguard",
         "image": "https://imgur.com/TSKPS9R.jpg",
         "costume_id": 0,
-        "originalIndex": 129
+        "originalIndex": 130
     },
     {
         "name": "Cinnamon",
@@ -4208,6 +4902,11 @@ window.allHeroes =
             "Hit All",
             "DoT All",
             "EDD All"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-5)",
+            "Debuffers (DEF)",
+            "DoT Attackers"
         ],
         "source": "Alliance-Pets",
         "Release date": "2023-02-23",
@@ -4228,7 +4927,7 @@ window.allHeroes =
         "family": "pets",
         "image": "https://i.imgur.com/RDVpqBy.jpg",
         "costume_id": 0,
-        "originalIndex": 130
+        "originalIndex": 131
     },
     {
         "name": "Claeg",
@@ -4241,6 +4940,11 @@ window.allHeroes =
         "types": [
             "Healer All",
             "Cleanser All"
+        ],
+        "skill_types": [
+            "Healers",
+            "Cleansers",
+            "Buffers (DEF)"
         ],
         "source": "Hero of the Month",
         "Release date": "2025-04-01",
@@ -4261,7 +4965,7 @@ window.allHeroes =
         "family": 2025,
         "image": "https://imgur.com/O5qyXg7.jpg",
         "costume_id": 0,
-        "originalIndex": 131
+        "originalIndex": 132
     },
     {
         "name": "Cobalt",
@@ -4275,6 +4979,12 @@ window.allHeroes =
             "Charge",
             "Hit 1/3/All",
             "Bypass Chance"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-3)",
+            "AoE Attackers (Hit-5)",
+            "Bypassers",
+            "Snipers"
         ],
         "source": "Tower-Ninjas",
         "Release date": "2020-10-13",
@@ -4298,7 +5008,7 @@ window.allHeroes =
         "family": "ninja",
         "image": "https://i.imgur.com/23jWlvs.jpg",
         "costume_id": 0,
-        "originalIndex": 132
+        "originalIndex": 133
     },
     {
         "name": "Cosmicspeaker",
@@ -4312,6 +5022,13 @@ window.allHeroes =
             "Hit All",
             "Dispeller All",
             "Cleanser All"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-5)",
+            "Cleansers",
+            "Dispellers",
+            "Bypassers",
+            "Damage Sharers"
         ],
         "source": "Astral Summon",
         "Release date": "2024-10-14",
@@ -4333,7 +5050,7 @@ window.allHeroes =
         "family": "astralelves",
         "image": "https://i.imgur.com/X5hiGNw.jpg",
         "costume_id": 0,
-        "originalIndex": 133
+        "originalIndex": 134
     },
     {
         "name": "Crystalis",
@@ -4348,6 +5065,12 @@ window.allHeroes =
             "Buff Duration Reducer All",
             "DoT All",
             "Attack Debuff All"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-5)",
+            "Debuffers (ATK)",
+            "DoT Attackers",
+            "Effect Duration Resetters"
         ],
         "source": "Challenge Festival-Villains",
         "Release date": "2021-02-11",
@@ -4365,7 +5088,7 @@ window.allHeroes =
         "family": "villains",
         "image": "https://i.imgur.com/fA7IHzy.jpg",
         "costume_id": 0,
-        "originalIndex": 134
+        "originalIndex": 135
     },
     {
         "name": "Davey Wavey",
@@ -4379,6 +5102,13 @@ window.allHeroes =
             "HoT",
             "Defense buff",
             "Mana generation buff"
+        ],
+        "skill_types": [
+            "Health Boosters",
+            "Buffers (DEF)",
+            "Mana Generation Buffers",
+            "Heal over Time (HoT)",
+            "DoT Attackers"
         ],
         "source": "Monthly Event-Beach Party",
         "Release date": "2024-06-03",
@@ -4399,7 +5129,7 @@ window.allHeroes =
         "family": "beachparty",
         "image": "https://i.imgur.com/CndsCrE.jpg",
         "costume_id": 0,
-        "originalIndex": 135
+        "originalIndex": 136
     },
     {
         "name": "Esme",
@@ -4414,7 +5144,13 @@ window.allHeroes =
             "Boosted Heal All",
             "Fiend immunity"
         ],
-        "source": "Alliance-Knights Charge",
+        "skill_types": [
+            "Fiends Counters",
+            "Healers",
+            "Immunity Providers",
+            "Health Boosters"
+        ],
+        "source": "Alliance-Knights Clash",
         "Release date": "2021-10-13",
         "star": 5,
         "power": 816,
@@ -4430,7 +5166,7 @@ window.allHeroes =
         "family": "wolf",
         "image": "https://i.imgur.com/nObQye7.jpg",
         "costume_id": 0,
-        "originalIndex": 136
+        "originalIndex": 137
     },
     {
         "name": "Exeera",
@@ -4442,6 +5178,10 @@ window.allHeroes =
         "skill": "Saturated Suffering",
         "types": [
             "DoT All"
+        ],
+        "skill_types": [
+            "DoT Attackers",
+            "Extra Damage Dealers"
         ],
         "source": "S4-Wilderness",
         "Release date": "2021-12-30",
@@ -4460,7 +5200,7 @@ window.allHeroes =
         "family": "underwild",
         "image": "https://i.imgur.com/UnO1gz8.jpg",
         "costume_id": 0,
-        "originalIndex": 137
+        "originalIndex": 138
     },
     {
         "name": "Exeera C1",
@@ -4472,6 +5212,11 @@ window.allHeroes =
         "skill": "Oceanic Suffering",
         "types": [
             "DoT All"
+        ],
+        "skill_types": [
+            "DoT Attackers",
+            "Extra Damage Dealers",
+            "Buffers (ATK)"
         ],
         "source": "S4-Wilderness",
         "Release date": "2024-09-26",
@@ -4491,7 +5236,7 @@ window.allHeroes =
         "family": "underwild",
         "image": "https://i.imgur.com/4y90uTW.jpg",
         "costume_id": 1,
-        "originalIndex": 138
+        "originalIndex": 139
     },
     {
         "name": "Experience Mimic Ice",
@@ -4505,6 +5250,15 @@ window.allHeroes =
             "Minion Destroyer 1",
             "Hit 1",
             "Mimic Chest"
+        ],
+        "skill_types": [
+            "Healers (Special)",
+            "Minions Counters",
+            "Snipers",
+            "Mana Raisers",
+            "Immunity Providers",
+            "Ghost Form & Hiding",
+            "Bypassers"
         ],
         "source": "Extra Draw-Secret Summon",
         "Release date": "2025-05-03",
@@ -4531,7 +5285,7 @@ window.allHeroes =
         "family": "mimic",
         "image": "https://imgur.com/KXbsyqZ.jpg",
         "costume_id": 0,
-        "originalIndex": 139
+        "originalIndex": 140
     },
     {
         "name": "Fenrir",
@@ -4545,6 +5299,12 @@ window.allHeroes =
             "Hit 1",
             "Mana boost on kill",
             "Self Heal"
+        ],
+        "skill_types": [
+            "Mana Raisers",
+            "Snipers",
+            "Extra Damage Dealers",
+            "Healers (Special)"
         ],
         "source": "S3-Valhalla",
         "Release date": "2020-02-27",
@@ -4563,7 +5323,7 @@ window.allHeroes =
         "family": "niflheim",
         "image": "https://i.imgur.com/jTbJkeI.jpg",
         "costume_id": 0,
-        "originalIndex": 140
+        "originalIndex": 141
     },
     {
         "name": "Fenrir C1",
@@ -4577,6 +5337,12 @@ window.allHeroes =
             "Hit 1",
             "Self heal",
             "Self Mana Boost"
+        ],
+        "skill_types": [
+            "Healers (Special)",
+            "Mana Raisers",
+            "Snipers",
+            "Extra Damage Dealers"
         ],
         "source": "S3-Valhalla",
         "Release date": "2023-04-10",
@@ -4595,7 +5361,7 @@ window.allHeroes =
         "family": "niflheim",
         "image": "https://i.imgur.com/ZPobGZa.jpg",
         "costume_id": 1,
-        "originalIndex": 141
+        "originalIndex": 142
     },
     {
         "name": "Fergus",
@@ -4609,6 +5375,11 @@ window.allHeroes =
             "Mana reducer",
             "Mana Generation Debuff All",
             "Sword Guard Mega Minion"
+        ],
+        "skill_types": [
+            "Mana Reducers or Blockers",
+            "Mega Minions Summoners",
+            "DoT Attackers"
         ],
         "source": "Goblin Summon",
         "Release date": "2024-12-09",
@@ -4631,7 +5402,7 @@ window.allHeroes =
         "family": "garrisonguard",
         "image": "https://i.imgur.com/kA2zCy1.jpg",
         "costume_id": 0,
-        "originalIndex": 142
+        "originalIndex": 143
     },
     {
         "name": "Finley",
@@ -4645,6 +5416,11 @@ window.allHeroes =
             "Hit 1",
             "Chain Hit",
             "Defense Debuff"
+        ],
+        "skill_types": [
+            "Chain & Random Attackers",
+            "Debuffers (DEF)",
+            "Snipers"
         ],
         "source": "Challenge Festival-Pirates",
         "Release date": "2017-01-01",
@@ -4662,7 +5438,7 @@ window.allHeroes =
         "family": "corellia",
         "image": "https://i.imgur.com/RIPu5ha.jpg",
         "costume_id": 0,
-        "originalIndex": 143
+        "originalIndex": 144
     },
     {
         "name": "Finley C1",
@@ -4676,6 +5452,12 @@ window.allHeroes =
             "Hit 1",
             "Bounce",
             "Defense Debuff"
+        ],
+        "skill_types": [
+            "Chain & Random Attackers",
+            "Debuffers (DEF)",
+            "Snipers",
+            "DoT Attackers"
         ],
         "source": "Challenge Festival-Pirates",
         "Release date": "2022-04-14",
@@ -4695,7 +5477,7 @@ window.allHeroes =
         "family": "corellia",
         "image": "https://i.imgur.com/8HdzNsi.jpg",
         "costume_id": 1,
-        "originalIndex": 144
+        "originalIndex": 145
     },
     {
         "name": "Firmin Richard",
@@ -4709,6 +5491,12 @@ window.allHeroes =
             "Hit all",
             "Attack Buff Stack All",
             "Defense Buff Stack All"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-5)",
+            "Stacking Heroes",
+            "Buffers (ATK)",
+            "Buffers (DEF)"
         ],
         "source": "Solstice Summon",
         "Release date": "2023-11-30",
@@ -4729,7 +5517,7 @@ window.allHeroes =
         "family": "opera",
         "image": "https://i.imgur.com/I63hfD5.jpg",
         "costume_id": 0,
-        "originalIndex": 145
+        "originalIndex": 146
     },
     {
         "name": "Fizzcoil",
@@ -4743,6 +5531,11 @@ window.allHeroes =
             "Hit all",
             "Wither All",
             "Mana Generation Debuff All"
+        ],
+        "skill_types": [
+            "Ability Scores Modifiers",
+            "AoE Attackers (Hit-5)",
+            "Mana Reducers or Blockers"
         ],
         "source": "Goblin Summon",
         "Release date": "2023-11-13",
@@ -4764,7 +5557,7 @@ window.allHeroes =
         "family": "goblin",
         "image": "https://i.imgur.com/VpPwqgQ.jpg",
         "costume_id": 0,
-        "originalIndex": 146
+        "originalIndex": 147
     },
     {
         "name": "Fortuna",
@@ -4779,6 +5572,13 @@ window.allHeroes =
             "Hit All",
             "Fiend Summoner All",
             "Attack Debuff Fiend"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-5)",
+            "Debuffers (ATK)",
+            "Dispellers",
+            "Fiends Summoners",
+            "DoT Attackers"
         ],
         "source": "Challenge-Carnival of Gods",
         "Release date": "2022-11-22",
@@ -4800,7 +5600,7 @@ window.allHeroes =
         "family": "maskedgod",
         "image": "https://i.imgur.com/gvXOhuM.jpg",
         "costume_id": 0,
-        "originalIndex": 147
+        "originalIndex": 148
     },
     {
         "name": "Frida",
@@ -4814,6 +5614,12 @@ window.allHeroes =
             "Hit 3",
             "EDD 3",
             "Dispeller 3"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-3)",
+            "Debuffers (DEF)",
+            "Dispellers",
+            "Buffers (DEF)"
         ],
         "source": "Hero of the Month",
         "Release date": "2019-03-01",
@@ -4834,7 +5640,7 @@ window.allHeroes =
         "family": 2019,
         "image": "https://i.imgur.com/vGjHyB4.jpg",
         "costume_id": 0,
-        "originalIndex": 148
+        "originalIndex": 149
     },
     {
         "name": "Frosth",
@@ -4848,6 +5654,11 @@ window.allHeroes =
             "Summoner All",
             "Increase Minion HP All",
             "Increase Minion Attack All"
+        ],
+        "skill_types": [
+            "Mana Raisers",
+            "Minions Boosters",
+            "Minions Summoners"
         ],
         "source": "Hero of the Month",
         "Release date": "2021-04-01",
@@ -4868,7 +5679,7 @@ window.allHeroes =
         "family": 2021,
         "image": "https://i.imgur.com/ux7vLKs.jpg",
         "costume_id": 0,
-        "originalIndex": 149
+        "originalIndex": 150
     },
     {
         "name": "Frostsnout",
@@ -4882,6 +5693,11 @@ window.allHeroes =
             "Hit 3",
             "Reduces Ailments Duration 3",
             "Critical Chance Buff 3"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-3)",
+            "Effect Duration Resetters",
+            "Buffers (ATK)"
         ],
         "source": "Goblin Summon",
         "Release date": "2025-01-17",
@@ -4902,7 +5718,7 @@ window.allHeroes =
         "family": "garrisonguard",
         "image": "https://i.imgur.com/T8J02Mj.jpg",
         "costume_id": 0,
-        "originalIndex": 150
+        "originalIndex": 151
     },
     {
         "name": "Gaillard",
@@ -4915,6 +5731,12 @@ window.allHeroes =
         "types": [
             "Hit 1",
             "Fiend Immunity All"
+        ],
+        "skill_types": [
+            "Fiends Counters",
+            "Immunity Providers",
+            "Snipers",
+            "Damage Reducers"
         ],
         "source": "Challenge-Gargoyle",
         "Release date": "2021-11-24",
@@ -4934,7 +5756,7 @@ window.allHeroes =
         "family": "gargoyle",
         "image": "https://i.imgur.com/ts2Grgv.jpg",
         "costume_id": 0,
-        "originalIndex": 151
+        "originalIndex": 152
     },
     {
         "name": "Ghealach",
@@ -4948,6 +5770,12 @@ window.allHeroes =
             "Hit 3",
             "Fiend Summoner 3",
             "Mana Steal 3"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-3)",
+            "Fiends Summoners",
+            "Mana Raisers",
+            "Mana Reducers or Blockers"
         ],
         "source": "Covenant Summon",
         "Release date": "2023-09-21",
@@ -4972,7 +5800,7 @@ window.allHeroes =
         "family": "construct",
         "image": "https://i.imgur.com/KrLttV5.jpg",
         "costume_id": 0,
-        "originalIndex": 152
+        "originalIndex": 153
     },
     {
         "name": "Gladius",
@@ -4985,6 +5813,12 @@ window.allHeroes =
         "types": [
             "Hit 1",
             "Stack on Dodge"
+        ],
+        "skill_types": [
+            "Bypassers",
+            "Extra Damage Dealers",
+            "Snipers",
+            "Stacking Heroes"
         ],
         "source": "Hero of the Month",
         "Release date": "2024-02-01",
@@ -5006,7 +5840,7 @@ window.allHeroes =
         "family": 2024,
         "image": "https://i.imgur.com/oxh0XPo.jpg",
         "costume_id": 0,
-        "originalIndex": 153
+        "originalIndex": 154
     },
     {
         "name": "Glenda",
@@ -5019,6 +5853,12 @@ window.allHeroes =
         "types": [
             "Hit 3",
             "Cleanser All"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-3)",
+            "Buffers (ATK)",
+            "Cleansers",
+            "Minions Summoners"
         ],
         "source": "Hero of the Month",
         "Release date": "2020-11-01",
@@ -5039,7 +5879,7 @@ window.allHeroes =
         "family": 2020,
         "image": "https://i.imgur.com/25WLFwN.jpg",
         "costume_id": 0,
-        "originalIndex": 154
+        "originalIndex": 155
     },
     {
         "name": "Grimsteel",
@@ -5053,6 +5893,11 @@ window.allHeroes =
             "Healer",
             "Growth",
             "Mana generation buff"
+        ],
+        "skill_types": [
+            "Ability Scores Modifiers",
+            "Healers",
+            "Mana Generation Buffers"
         ],
         "source": "Goblin Summon",
         "Release date": "2024-02-19",
@@ -5074,7 +5919,7 @@ window.allHeroes =
         "family": "goblin",
         "image": "https://i.imgur.com/rkoJ3ZR.jpg",
         "costume_id": 0,
-        "originalIndex": 155
+        "originalIndex": 156
     },
     {
         "name": "Guardian Hippo",
@@ -5087,6 +5932,10 @@ window.allHeroes =
         "types": [
             "Hit All on Ally SS",
             "Mana Generation Buff All"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-5)",
+            "Mana Generation Buffers"
         ],
         "source": "Challenge Festival-Guardians",
         "Release date": "2023-01-26",
@@ -5103,7 +5952,7 @@ window.allHeroes =
         "family": "guardiansteltoc",
         "image": "https://i.imgur.com/VXhh6s9.jpg",
         "costume_id": 0,
-        "originalIndex": 156
+        "originalIndex": 157
     },
     {
         "name": "Hetepheres",
@@ -5117,6 +5966,11 @@ window.allHeroes =
             "Healer All",
             "Elemental Defense Buff All",
             "Blind All"
+        ],
+        "skill_types": [
+            "Buffers (DEF)",
+            "Debuffers (ATK)",
+            "Healers"
         ],
         "source": "S5-Dune",
         "Release date": "2023-02-16",
@@ -5138,7 +5992,7 @@ window.allHeroes =
         "family": "sun",
         "image": "https://i.imgur.com/wdaa6Lv.jpg",
         "costume_id": 0,
-        "originalIndex": 157
+        "originalIndex": 158
     },
     {
         "name": "Hetepheres C1",
@@ -5152,6 +6006,12 @@ window.allHeroes =
             "Healer All",
             "Elemental Defense Buff All",
             "Blind All"
+        ],
+        "skill_types": [
+            "Healers",
+            "Buffers (DEF)",
+            "Debuffers (ATK)",
+            "AoE Attackers (Hit-5)"
         ],
         "source": "S5-Dune",
         "Release date": "2024-03-04",
@@ -5175,7 +6035,7 @@ window.allHeroes =
         "family": "sun",
         "image": "https://i.imgur.com/zPZlLVD.jpg",
         "costume_id": 1,
-        "originalIndex": 158
+        "originalIndex": 159
     },
     {
         "name": "Himeros",
@@ -5188,6 +6048,11 @@ window.allHeroes =
         "types": [
             "Dispeller 1",
             "Hit 1"
+        ],
+        "skill_types": [
+            "Buffers (ATK)",
+            "Dispellers",
+            "Snipers"
         ],
         "source": "Monthly Event-Love Season",
         "Release date": "2023-02-14",
@@ -5207,7 +6072,7 @@ window.allHeroes =
         "family": "cupid",
         "image": "https://i.imgur.com/BKwCrac.jpg",
         "costume_id": 0,
-        "originalIndex": 159
+        "originalIndex": 160
     },
     {
         "name": "Hogne",
@@ -5221,6 +6086,16 @@ window.allHeroes =
             "Frostfall Strike 3",
             "Max Health Reduction 3",
             "Healing Debuff 3"
+        ],
+        "skill_types": [
+            "Snipers",
+            "Max Health Reducers",
+            "Healing Reducers",
+            "Extra Damage Dealers",
+            "Bypassers",
+            "DoT Attackers",
+            "Debuffers (ATK)",
+            "Minions Counters"
         ],
         "source": "S6-S7-Untold Tales",
         "Release date": "2025-04-14",
@@ -5243,7 +6118,7 @@ window.allHeroes =
         "family": "myrkheim",
         "image": "https://imgur.com/adOyVFt.jpg",
         "costume_id": 0,
-        "originalIndex": 160
+        "originalIndex": 161
     },
     {
         "name": "Hrothgar",
@@ -5258,6 +6133,13 @@ window.allHeroes =
             "Mana Reduction All",
             "Mana Generation Debuff All",
             "Source of Buffs 1"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-5)",
+            "Mana Reducers or Blockers",
+            "Bypassers",
+            "Buffers (ATK)",
+            "Buffers (DEF)"
         ],
         "source": "Black Friday Summon",
         "Release date": "2024-11-25",
@@ -5283,7 +6165,7 @@ window.allHeroes =
         "family": "beowulf",
         "image": "https://i.imgur.com/RbbKSQ5.jpg",
         "costume_id": 0,
-        "originalIndex": 161
+        "originalIndex": 162
     },
     {
         "name": "Hysteria",
@@ -5297,6 +6179,10 @@ window.allHeroes =
             "Taunt",
             "Insanity All",
             "Self Insanity"
+        ],
+        "skill_types": [
+            "Taunters",
+            "Negative Effects On Self Or Allies"
         ],
         "source": "Mystery-Shadow",
         "Release date": "2025-06-10",
@@ -5314,7 +6200,7 @@ window.allHeroes =
         "family": "cultist",
         "image": "https://imgur.com/GBS05PK.jpg",
         "costume_id": 0,
-        "originalIndex": 162
+        "originalIndex": 163
     },
     {
         "name": "Iris",
@@ -5327,6 +6213,12 @@ window.allHeroes =
         "types": [
             "Hit 3",
             "Dispeller 3"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-3)",
+            "Dispellers",
+            "Extra Damage Dealers",
+            "Buffers (ATK)"
         ],
         "source": "Hero of the Month",
         "Release date": "2022-02-01",
@@ -5348,7 +6240,7 @@ window.allHeroes =
         "family": 2022,
         "image": "https://i.imgur.com/2NdyTvR.jpg",
         "costume_id": 0,
-        "originalIndex": 163
+        "originalIndex": 164
     },
     {
         "name": "Isarnia",
@@ -5361,6 +6253,10 @@ window.allHeroes =
         "types": [
             "Hit All",
             "Defense Debuff All"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-5)",
+            "Debuffers (DEF)"
         ],
         "source": "S1-Classic",
         "Release date": "2017-01-01",
@@ -5377,7 +6273,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/IqOKah3.jpg",
         "costume_id": 0,
-        "originalIndex": 164
+        "originalIndex": 165
     },
     {
         "name": "Isarnia C1",
@@ -5390,6 +6286,10 @@ window.allHeroes =
         "types": [
             "Hit All",
             "Defense Debuff All"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-5)",
+            "Debuffers (DEF)"
         ],
         "source": "S1-Classic",
         "Release date": "2020-01-01",
@@ -5406,7 +6306,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/j8POeJ4.jpg",
         "costume_id": 1,
-        "originalIndex": 165
+        "originalIndex": 166
     },
     {
         "name": "Isarnia C2",
@@ -5419,6 +6319,11 @@ window.allHeroes =
         "types": [
             "Hit All",
             "Attack Debuff All"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-5)",
+            "Debuffers (ATK)",
+            "Extra Damage Dealers"
         ],
         "source": "S1-Classic",
         "Release date": "2022-09-05",
@@ -5436,7 +6341,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/wccczud.jpg",
         "costume_id": 2,
-        "originalIndex": 166
+        "originalIndex": 167
     },
     {
         "name": "Isarnia Toon",
@@ -5449,6 +6354,11 @@ window.allHeroes =
         "types": [
             "Hit All",
             "Defense Debuff All"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-5)",
+            "Debuffers (DEF)",
+            "Extra Damage Dealers"
         ],
         "source": "S1-Classic",
         "Release date": "2024-05-06",
@@ -5468,7 +6378,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/mFs5DrO.jpg",
         "costume_id": 3,
-        "originalIndex": 167
+        "originalIndex": 168
     },
     {
         "name": "Isarnia Glass",
@@ -5482,6 +6392,11 @@ window.allHeroes =
             "Hit All",
             "Bypass",
             "Defense Debuff All"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-5)",
+            "Bypassers",
+            "Debuffers (DEF)"
         ],
         "source": "S1-Classic",
         "Release date": "2025-06-18",
@@ -5501,7 +6416,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://imgur.com/mpefymk.jpg",
         "costume_id": 4,
-        "originalIndex": 168
+        "originalIndex": 169
     },
     {
         "name": "Ixinn",
@@ -5516,6 +6431,14 @@ window.allHeroes =
             "Chain Attack",
             "Increased Damage Debuff",
             "Wither"
+        ],
+        "skill_types": [
+            "Snipers",
+            "Chain & Random Attackers",
+            "Extra Damage Dealers",
+            "Ability Scores Modifiers",
+            "Minions Counters",
+            "Bypassers"
         ],
         "source": "Astral Summon",
         "Release date": "2025-03-27",
@@ -5538,7 +6461,7 @@ window.allHeroes =
         "family": "astraldwarfs",
         "image": "https://imgur.com/KNQdOYr.jpg",
         "costume_id": 0,
-        "originalIndex": 169
+        "originalIndex": 170
     },
     {
         "name": "Jolt",
@@ -5553,6 +6476,12 @@ window.allHeroes =
             "Chain Hit",
             "Blind All",
             "Elemental Attack Buff"
+        ],
+        "skill_types": [
+            "Buffers (ATK)",
+            "Chain & Random Attackers",
+            "Debuffers (ATK)",
+            "Snipers"
         ],
         "source": "Super Elementals",
         "Release date": "2024-01-29",
@@ -5577,7 +6506,7 @@ window.allHeroes =
         "family": "superelemental",
         "image": "https://i.imgur.com/RzzDstN.jpg",
         "costume_id": 0,
-        "originalIndex": 170
+        "originalIndex": 171
     },
     {
         "name": "Jolyon",
@@ -5592,7 +6521,13 @@ window.allHeroes =
             "Summoner",
             "Status Ailments Immunity Minion"
         ],
-        "source": "S4-Wilderness",
+        "skill_types": [
+            "Dodgers",
+            "Immunity Providers",
+            "Minions Summoners",
+            "Minions Counters"
+        ],
+        "source": "Wilderness Summon",
         "Release date": "2025-05-20",
         "star": 5,
         "power": 1182,
@@ -5612,7 +6547,7 @@ window.allHeroes =
         "family": "woodlandfaun",
         "image": "https://imgur.com/61PB1e9.jpg",
         "costume_id": 0,
-        "originalIndex": 171
+        "originalIndex": 172
     },
     {
         "name": "Kabeiroi",
@@ -5627,6 +6562,11 @@ window.allHeroes =
             "Mindless heal 1",
             "Hit 3 extra",
             "Mindless Heal on Hit"
+        ],
+        "skill_types": [
+            "Chain & Random Attackers",
+            "Mindless Attack & Mindless Heal",
+            "Snipers"
         ],
         "source": "Monthly Event-Love Season",
         "Release date": "2024-01-08",
@@ -5648,7 +6588,7 @@ window.allHeroes =
         "family": "cupid",
         "image": "https://i.imgur.com/cMqbo5o.jpg",
         "costume_id": 0,
-        "originalIndex": 172
+        "originalIndex": 173
     },
     {
         "name": "Kettle",
@@ -5660,6 +6600,13 @@ window.allHeroes =
         "skill": "Dubious Cuisine",
         "types": [
             "Gambler"
+        ],
+        "skill_types": [
+            "Ability Scores Modifiers",
+            "AoE Attackers (Hit-5)",
+            "DoT Attackers",
+            "Healers",
+            "Negative Effects On Self Or Allies"
         ],
         "source": "Goblin Summon",
         "Release date": "2023-09-18",
@@ -5687,7 +6634,7 @@ window.allHeroes =
         "family": "goblin",
         "image": "https://i.imgur.com/tT0NNbo.jpg",
         "costume_id": 0,
-        "originalIndex": 173
+        "originalIndex": 174
     },
     {
         "name": "King Arthur",
@@ -5702,6 +6649,12 @@ window.allHeroes =
             "Attack Debuff 1",
             "EDD 1",
             "Self SS Defense Buff"
+        ],
+        "skill_types": [
+            "Buffers (DEF)",
+            "Debuffers (ATK)",
+            "Debuffers (DEF)",
+            "Snipers"
         ],
         "source": "Challenge Festival-Avalon",
         "Release date": "2017-01-01",
@@ -5720,7 +6673,7 @@ window.allHeroes =
         "family": "avalon",
         "image": "https://i.imgur.com/2lBnZH9.jpg",
         "costume_id": 0,
-        "originalIndex": 174
+        "originalIndex": 175
     },
     {
         "name": "Klaern",
@@ -5733,6 +6686,12 @@ window.allHeroes =
         "types": [
             "Hit all",
             "Dot All"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-5)",
+            "DoT Attackers",
+            "Healers (Special)",
+            "Buffers (DEF)"
         ],
         "source": "Hero of the Month",
         "Release date": "2022-07-01",
@@ -5753,7 +6712,7 @@ window.allHeroes =
         "family": 2022,
         "image": "https://i.imgur.com/zoE3F2A.jpg",
         "costume_id": 0,
-        "originalIndex": 175
+        "originalIndex": 176
     },
     {
         "name": "Krampus",
@@ -5768,6 +6727,12 @@ window.allHeroes =
             "Taunt",
             "Self Defense Buff",
             "Attack Buff All"
+        ],
+        "skill_types": [
+            "Buffers (ATK)",
+            "Buffers (DEF)",
+            "Minions Summoners",
+            "Taunters"
         ],
         "source": "Monthly Event-Winter",
         "Release date": "2020-12-01",
@@ -5786,7 +6751,7 @@ window.allHeroes =
         "family": "christmas",
         "image": "https://i.imgur.com/9L71cZ8.jpg",
         "costume_id": 0,
-        "originalIndex": 176
+        "originalIndex": 177
     },
     {
         "name": "Krampus C1",
@@ -5801,6 +6766,12 @@ window.allHeroes =
             "Taunt",
             "Self Defense Buff",
             "Attack Buff All"
+        ],
+        "skill_types": [
+            "Buffers (ATK)",
+            "Buffers (DEF)",
+            "Minions Summoners",
+            "Taunters"
         ],
         "source": "Monthly Event-Winter",
         "Release date": "2021-12-01",
@@ -5819,7 +6790,7 @@ window.allHeroes =
         "family": "christmas",
         "image": "https://i.imgur.com/fkiwdOj.jpg",
         "costume_id": 1,
-        "originalIndex": 177
+        "originalIndex": 178
     },
     {
         "name": "Lord Loki",
@@ -5832,6 +6803,9 @@ window.allHeroes =
         "types": [
             "Copy Special",
             "Hit 1"
+        ],
+        "skill_types": [
+            "Snipers"
         ],
         "source": "S3-Valhalla",
         "Release date": "2020-12-24",
@@ -5850,7 +6824,7 @@ window.allHeroes =
         "family": "jotunheim",
         "image": "https://i.imgur.com/eGy2uqe.jpg",
         "costume_id": 0,
-        "originalIndex": 178
+        "originalIndex": 179
     },
     {
         "name": "Lord Loki C1",
@@ -5863,6 +6837,10 @@ window.allHeroes =
         "types": [
             "Copy Special",
             "Hit 1"
+        ],
+        "skill_types": [
+            "Buff Stealers",
+            "Snipers"
         ],
         "source": "S3-Valhalla",
         "Release date": "2023-05-08",
@@ -5882,7 +6860,7 @@ window.allHeroes =
         "family": "jotunheim",
         "image": "https://i.imgur.com/aEGEu4Y.jpg",
         "costume_id": 1,
-        "originalIndex": 179
+        "originalIndex": 180
     },
     {
         "name": "Lysanor",
@@ -5897,7 +6875,13 @@ window.allHeroes =
             "Attack buff All",
             "HoT All"
         ],
-        "source": "Alliance-Knights Charge",
+        "skill_types": [
+            "Buffers (ATK)",
+            "Health Boosters",
+            "Revivers",
+            "Heal over Time (HoT)"
+        ],
+        "source": "Alliance-Knights Clash",
         "Release date": "2023-10-18",
         "star": 5,
         "power": 980,
@@ -5916,7 +6900,7 @@ window.allHeroes =
         "family": "stag",
         "image": "https://i.imgur.com/Er9WfxT.jpg",
         "costume_id": 0,
-        "originalIndex": 180
+        "originalIndex": 181
     },
     {
         "name": "Magistine",
@@ -5929,6 +6913,13 @@ window.allHeroes =
         "types": [
             "Hit All",
             "Devouring Goo"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-5)",
+            "DoT Attackers",
+            "Minions Counters",
+            "Dispellers",
+            "Ability Scores Modifiers"
         ],
         "source": "Super Elementals",
         "Release date": "2025-04-25",
@@ -5950,7 +6941,7 @@ window.allHeroes =
         "family": "slime",
         "image": "https://imgur.com/7ut41LY.jpg",
         "costume_id": 0,
-        "originalIndex": 181
+        "originalIndex": 182
     },
     {
         "name": "Magni",
@@ -5963,6 +6954,10 @@ window.allHeroes =
         "types": [
             "Hit 1",
             "Defense Buff 3"
+        ],
+        "skill_types": [
+            "Buffers (DEF)",
+            "Snipers"
         ],
         "source": "S1-Classic",
         "Release date": "2017-01-01",
@@ -5979,7 +6974,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/JpMZ0xh.jpg",
         "costume_id": 0,
-        "originalIndex": 182
+        "originalIndex": 183
     },
     {
         "name": "Magni C1",
@@ -5992,6 +6987,10 @@ window.allHeroes =
         "types": [
             "Hit 1",
             "Defense Debuff 3"
+        ],
+        "skill_types": [
+            "Debuffers (DEF)",
+            "Snipers"
         ],
         "source": "S1-Classic",
         "Release date": "2020-05-18",
@@ -6008,7 +7007,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/A0jPrh9.jpg",
         "costume_id": 1,
-        "originalIndex": 183
+        "originalIndex": 184
     },
     {
         "name": "Magni C2",
@@ -6021,6 +7020,10 @@ window.allHeroes =
         "types": [
             "Hit 3",
             "Defense Debuff 3"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-3)",
+            "Debuffers (DEF)"
         ],
         "source": "S1-Classic",
         "Release date": "2022-10-31",
@@ -6037,7 +7040,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/npmSFHz.jpg",
         "costume_id": 2,
-        "originalIndex": 184
+        "originalIndex": 185
     },
     {
         "name": "Magni Toon",
@@ -6050,6 +7053,11 @@ window.allHeroes =
         "types": [
             "Hit 1",
             "Defense Buff 3"
+        ],
+        "skill_types": [
+            "Buffers (DEF)",
+            "Extra Damage Dealers",
+            "Snipers"
         ],
         "source": "S1-Classic",
         "Release date": "2024-01-22",
@@ -6069,7 +7077,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/bakqHYB.jpg",
         "costume_id": 3,
-        "originalIndex": 185
+        "originalIndex": 186
     },
     {
         "name": "Magni Glass",
@@ -6083,6 +7091,11 @@ window.allHeroes =
             "Hit 1",
             "Bypass",
             "Defense Buff 3"
+        ],
+        "skill_types": [
+            "Buffers (DEF)",
+            "Bypassers",
+            "Snipers"
         ],
         "source": "S1-Classic",
         "Release date": "2025-03-11",
@@ -6102,7 +7115,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/EJome7K.jpg",
         "costume_id": 4,
-        "originalIndex": 186
+        "originalIndex": 187
     },
     {
         "name": "Mariol",
@@ -6116,6 +7129,11 @@ window.allHeroes =
             "Healer All",
             "Moonrise Ward",
             "Cleanser All"
+        ],
+        "skill_types": [
+            "Health Boosters",
+            "Damage Reducers",
+            "Cleansers"
         ],
         "source": "Tower-Owls",
         "Release date": "2024-03-13",
@@ -6135,7 +7153,7 @@ window.allHeroes =
         "family": "owl",
         "image": "https://i.imgur.com/NhlQa4M.jpg",
         "costume_id": 0,
-        "originalIndex": 187
+        "originalIndex": 188
     },
     {
         "name": "Master Lepus",
@@ -6148,6 +7166,10 @@ window.allHeroes =
         "types": [
             "Hit 3",
             "Self Defense Debuff"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-3)",
+            "Negative Effects On Self Or Allies"
         ],
         "source": "Monthly Event-Springvale",
         "Release date": "2017-01-01",
@@ -6164,7 +7186,7 @@ window.allHeroes =
         "family": "springvale",
         "image": "https://i.imgur.com/Ti2FM1v.jpg",
         "costume_id": 0,
-        "originalIndex": 188
+        "originalIndex": 189
     },
     {
         "name": "Master Lepus C1",
@@ -6177,6 +7199,10 @@ window.allHeroes =
         "types": [
             "Hit All",
             "Self Mana Generation Debuff"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-5)",
+            "Negative Effects On Self Or Allies"
         ],
         "source": "Monthly Event-Springvale",
         "Release date": "2022-03-21",
@@ -6193,7 +7219,7 @@ window.allHeroes =
         "family": "springvale",
         "image": "https://i.imgur.com/aLTsGWG.jpg",
         "costume_id": 1,
-        "originalIndex": 189
+        "originalIndex": 190
     },
     {
         "name": "Matrera",
@@ -6206,6 +7232,12 @@ window.allHeroes =
         "types": [
             "Hit 1",
             "Attack Debuff 3"
+        ],
+        "skill_types": [
+            "Debuffers (ATK)",
+            "Snipers",
+            "AoE Attackers (Hit-3)",
+            "Damage Reducers"
         ],
         "source": "Challenge-Gargoyle",
         "Release date": "2022-12-29",
@@ -6225,7 +7257,7 @@ window.allHeroes =
         "family": "gargoyle",
         "image": "https://i.imgur.com/5yPwJb7.jpg",
         "costume_id": 0,
-        "originalIndex": 190
+        "originalIndex": 191
     },
     {
         "name": "Mene",
@@ -6239,6 +7271,12 @@ window.allHeroes =
             "Hit 3",
             "DoT 3",
             "Buff immunity 3"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-3)",
+            "DoT Attackers",
+            "Buff Blockers",
+            "Buffers (ATK)"
         ],
         "source": "Hero of the Month",
         "Release date": "2024-11-01",
@@ -6260,7 +7298,7 @@ window.allHeroes =
         "family": 2024,
         "image": "https://i.imgur.com/yERCkFp.jpg",
         "costume_id": 0,
-        "originalIndex": 191
+        "originalIndex": 192
     },
     {
         "name": "Miki",
@@ -6273,6 +7311,11 @@ window.allHeroes =
         "types": [
             "Titan Attack Buff",
             "Silencer 3"
+        ],
+        "skill_types": [
+            "Buffers (ATK)",
+            "Mana Generation Buffers",
+            "Silencers"
         ],
         "source": "Hero of the Month",
         "Release date": "2019-08-01",
@@ -6292,7 +7335,7 @@ window.allHeroes =
         "family": 2019,
         "image": "https://i.imgur.com/FM0GgVz.jpg",
         "costume_id": 0,
-        "originalIndex": 192
+        "originalIndex": 193
     },
     {
         "name": "Milady de Winter",
@@ -6307,6 +7350,11 @@ window.allHeroes =
             "Self HoT",
             "Reflect Buffs All",
             "Reflect Ailments All"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-5)",
+            "Heal over Time (HoT)",
+            "Reflectors"
         ],
         "source": "Alliance-Musketeers",
         "Release date": "2023-03-08",
@@ -6327,7 +7375,7 @@ window.allHeroes =
         "family": "musketeer",
         "image": "https://i.imgur.com/NEdggUL.jpg",
         "costume_id": 0,
-        "originalIndex": 193
+        "originalIndex": 194
     },
     {
         "name": "Milena",
@@ -6343,6 +7391,13 @@ window.allHeroes =
             "Cleanser All",
             "Hit All",
             "Dispeller All"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-5)",
+            "Cleansers",
+            "Dispellers",
+            "Healers",
+            "Mana Raisers"
         ],
         "source": "Tower-Magic",
         "Release date": "2021-09-15",
@@ -6366,7 +7421,7 @@ window.allHeroes =
         "family": "magic",
         "image": "https://i.imgur.com/30AXxJs.jpg",
         "costume_id": 0,
-        "originalIndex": 194
+        "originalIndex": 195
     },
     {
         "name": "Milena C1",
@@ -6382,6 +7437,13 @@ window.allHeroes =
             "Cleanser All",
             "Hit All",
             "Dispeller All"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-5)",
+            "Cleansers",
+            "Dispellers",
+            "Healers",
+            "Mana Raisers"
         ],
         "source": "Tower-Magic",
         "Release date": "2025-04-17",
@@ -6406,7 +7468,7 @@ window.allHeroes =
         "family": "magic",
         "image": "https://imgur.com/hwGD9H1.jpg",
         "costume_id": 1,
-        "originalIndex": 195
+        "originalIndex": 196
     },
     {
         "name": "Miriam & Midnight",
@@ -6421,6 +7483,12 @@ window.allHeroes =
             "Healer Minion",
             "Cleanser Minion",
             "Attack Buff 3"
+        ],
+        "skill_types": [
+            "Buffers (ATK)",
+            "Cleansers",
+            "Heal over Time (HoT)",
+            "Minions Summoners"
         ],
         "source": "Monthly Event-Morlovia",
         "Release date": "2022-10-03",
@@ -6440,7 +7508,7 @@ window.allHeroes =
         "family": "morlovia",
         "image": "https://i.imgur.com/eyJkRvq.jpg",
         "costume_id": 0,
-        "originalIndex": 196
+        "originalIndex": 197
     },
     {
         "name": "Misandra",
@@ -6454,6 +7522,11 @@ window.allHeroes =
             "Hit 1",
             "Possible Extra Hits",
             "Mana Boost All"
+        ],
+        "skill_types": [
+            "Chain & Random Attackers",
+            "Mana Raisers",
+            "Snipers"
         ],
         "source": "S2-Atlantis",
         "Release date": "2019-08-01",
@@ -6471,7 +7544,7 @@ window.allHeroes =
         "family": "lagoon",
         "image": "https://i.imgur.com/YC2DFg3.jpg",
         "costume_id": 0,
-        "originalIndex": 197
+        "originalIndex": 198
     },
     {
         "name": "Misandra C1",
@@ -6485,6 +7558,11 @@ window.allHeroes =
             "Hit 1",
             "Possible Extra Hits",
             "Mindless Attack"
+        ],
+        "skill_types": [
+            "Chain & Random Attackers",
+            "Mindless Attack & Mindless Heal",
+            "Snipers"
         ],
         "source": "S2-Atlantis",
         "Release date": "2023-01-09",
@@ -6502,7 +7580,7 @@ window.allHeroes =
         "family": "lagoon",
         "image": "https://i.imgur.com/ZELxM85.jpg",
         "costume_id": 1,
-        "originalIndex": 198
+        "originalIndex": 199
     },
     {
         "name": "Miss Ethel",
@@ -6515,6 +7593,11 @@ window.allHeroes =
         "types": [
             "Hit 2",
             "Chain hit"
+        ],
+        "skill_types": [
+            "Snipers",
+            "Chain & Random Attackers",
+            "Negative Effects On Self Or Allies"
         ],
         "source": "Monthly Event-Springvale",
         "Release date": "2024-03-18",
@@ -6532,7 +7615,7 @@ window.allHeroes =
         "family": "springvale",
         "image": "https://i.imgur.com/B15IDKf.jpg",
         "costume_id": 0,
-        "originalIndex": 199
+        "originalIndex": 200
     },
     {
         "name": "Mistra",
@@ -6545,6 +7628,11 @@ window.allHeroes =
         "types": [
             "Hit All",
             "Healer"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-5)",
+            "Extra Damage Dealers",
+            "Healers (Special)"
         ],
         "source": "Myth Summon",
         "Release date": "2024-05-03",
@@ -6568,7 +7656,7 @@ window.allHeroes =
         "family": "champions",
         "image": "https://i.imgur.com/NaHaaPY.jpg",
         "costume_id": 0,
-        "originalIndex": 200
+        "originalIndex": 201
     },
     {
         "name": "Misty",
@@ -6582,6 +7670,12 @@ window.allHeroes =
             "Booste Healer All",
             "Max Health Reduction All",
             "Hit All"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-5)",
+            "Health Boosters",
+            "Max Health Reducers",
+            "DoT Attackers"
         ],
         "source": "Monthly Event-Beach Party",
         "Release date": "2023-06-12",
@@ -6602,7 +7696,7 @@ window.allHeroes =
         "family": "beachparty",
         "image": "https://i.imgur.com/qRuu0M1.jpg",
         "costume_id": 0,
-        "originalIndex": 201
+        "originalIndex": 202
     },
     {
         "name": "Modthryth",
@@ -6616,6 +7710,13 @@ window.allHeroes =
             "Counterattack 3",
             "Attack Stack All",
             "Source of Buffs 1"
+        ],
+        "skill_types": [
+            "Counterattackers",
+            "Mana Reducers or Blockers",
+            "Buffers (ATK)",
+            "Mana Generation Buffers",
+            "Stacking Heroes"
         ],
         "source": "Challenge-Beowulf",
         "Release date": "2025-02-13",
@@ -6641,7 +7742,7 @@ window.allHeroes =
         "family": "beowulf",
         "image": "https://i.imgur.com/oiGz5nc.jpg",
         "costume_id": 0,
-        "originalIndex": 202
+        "originalIndex": 203
     },
     {
         "name": "Mooncure",
@@ -6656,6 +7757,14 @@ window.allHeroes =
             "Mana on enemy SS All",
             "Heal steal All",
             "Attack Debuff All"
+        ],
+        "skill_types": [
+            "Healers",
+            "Mana Raisers",
+            "Healers (Special)",
+            "Debuffers (ATK)",
+            "Healing Reducers",
+            "Damage Sharers"
         ],
         "source": "Astral Summon",
         "Release date": "2024-08-19",
@@ -6677,7 +7786,7 @@ window.allHeroes =
         "family": "astralelves",
         "image": "https://i.imgur.com/K8e9yy9.jpg",
         "costume_id": 0,
-        "originalIndex": 203
+        "originalIndex": 204
     },
     {
         "name": "Morel",
@@ -6690,6 +7799,10 @@ window.allHeroes =
         "types": [
             "Hit All",
             "Defense Debuff All"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-5)",
+            "Debuffers (DEF)"
         ],
         "source": "S4-Wilderness",
         "Release date": "2021-06-17",
@@ -6708,7 +7821,7 @@ window.allHeroes =
         "family": "underwild",
         "image": "https://i.imgur.com/BbpdvD9.jpg",
         "costume_id": 0,
-        "originalIndex": 204
+        "originalIndex": 205
     },
     {
         "name": "Morel C1",
@@ -6722,6 +7835,13 @@ window.allHeroes =
             "Hit all",
             "Defense Debuff All",
             "HoT All"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-5)",
+            "Debuffers (DEF)",
+            "Heal over Time (HoT)",
+            "Extra Damage Dealers",
+            "Buffers (ATK)"
         ],
         "source": "S4-Wilderness",
         "Release date": "2023-07-20",
@@ -6742,7 +7862,7 @@ window.allHeroes =
         "family": "underwild",
         "image": "https://i.imgur.com/MAsmJsS.jpg",
         "costume_id": 1,
-        "originalIndex": 205
+        "originalIndex": 206
     },
     {
         "name": "Mr. Pengi",
@@ -6757,6 +7877,11 @@ window.allHeroes =
             "Hit Random",
             "DoT",
             "Summoner 3"
+        ],
+        "skill_types": [
+            "Chain & Random Attackers",
+            "Snipers",
+            "Minions Summoners"
         ],
         "source": "Monthly Event-Winter",
         "Release date": "2021-12-01",
@@ -6775,7 +7900,7 @@ window.allHeroes =
         "family": "christmas",
         "image": "https://i.imgur.com/BbxUIy4.jpg",
         "costume_id": 0,
-        "originalIndex": 206
+        "originalIndex": 207
     },
     {
         "name": "Mr. Pengi C1",
@@ -6790,6 +7915,12 @@ window.allHeroes =
             "Hit random",
             "DoT",
             "Summoner 3"
+        ],
+        "skill_types": [
+            "Snipers",
+            "Chain & Random Attackers",
+            "DoT Attackers",
+            "Minions Summoners"
         ],
         "source": "Monthly Event-Winter",
         "Release date": "2024-12-01",
@@ -6808,7 +7939,7 @@ window.allHeroes =
         "family": "christmas",
         "image": "https://i.imgur.com/kNrkptI.jpg",
         "costume_id": 1,
-        "originalIndex": 207
+        "originalIndex": 208
     },
     {
         "name": "Nautica",
@@ -6823,6 +7954,13 @@ window.allHeroes =
             "Mana boost 3",
             "Mana gen buff 2",
             "Critical Buff 3"
+        ],
+        "skill_types": [
+            "Buffers (ATK)",
+            "Healers",
+            "Mana Generation Buffers",
+            "Mana Raisers",
+            "Health Boosters"
         ],
         "source": "Covenant Summon",
         "Release date": "2024-02-08",
@@ -6846,7 +7984,7 @@ window.allHeroes =
         "family": "construct",
         "image": "https://i.imgur.com/iuMlpaP.jpg",
         "costume_id": 0,
-        "originalIndex": 208
+        "originalIndex": 209
     },
     {
         "name": "Nine-Headed Beast",
@@ -6862,6 +8000,12 @@ window.allHeroes =
             "Status Ailment Reset All",
             "Attack Buff All",
             "Attack Debuff All"
+        ],
+        "skill_types": [
+            "Buffers (ATK)",
+            "Chain & Random Attackers",
+            "Debuffers (ATK)",
+            "Effect Duration Resetters"
         ],
         "source": "Three Kingdoms Summon",
         "Release date": "2023-06-19",
@@ -6884,7 +8028,7 @@ window.allHeroes =
         "family": "journey",
         "image": "https://i.imgur.com/8Uj8Jmv.jpg",
         "costume_id": 0,
-        "originalIndex": 209
+        "originalIndex": 210
     },
     {
         "name": "Nylora",
@@ -6898,6 +8042,10 @@ window.allHeroes =
             "Element Swap 1",
             "Hit 1",
             "EDD 1"
+        ],
+        "skill_types": [
+            "Snipers",
+            "Debuffers (DEF)"
         ],
         "source": "Super Elementals",
         "Release date": "2024-06-17",
@@ -6921,7 +8069,7 @@ window.allHeroes =
         "family": "superelemental",
         "image": "https://i.imgur.com/NBQDloj.jpg",
         "costume_id": 0,
-        "originalIndex": 210
+        "originalIndex": 211
     },
     {
         "name": "Odette",
@@ -6938,6 +8086,13 @@ window.allHeroes =
             "Dodge Buff while Dancing",
             "Chance Hit 1 while Dancing",
             "Status Effect Immunity while Dancing"
+        ],
+        "skill_types": [
+            "Chain & Random Attackers",
+            "Dancers",
+            "Dodgers",
+            "Heal over Time (HoT)",
+            "Immunity Providers"
         ],
         "source": "Solstice Summon",
         "Release date": "2023-06-20",
@@ -6963,7 +8118,7 @@ window.allHeroes =
         "family": "opera",
         "image": "https://i.imgur.com/ATDUydH.jpg",
         "costume_id": 0,
-        "originalIndex": 211
+        "originalIndex": 212
     },
     {
         "name": "Oniwakamaru",
@@ -6977,6 +8132,11 @@ window.allHeroes =
             "Self Boosted Heal",
             "Taunt",
             "Counterattack 1"
+        ],
+        "skill_types": [
+            "Counterattackers",
+            "Health Boosters",
+            "Taunters"
         ],
         "source": "Tower-Ninjas",
         "Release date": "2023-01-11",
@@ -7004,7 +8164,7 @@ window.allHeroes =
         "family": "ninja",
         "image": "https://i.imgur.com/TgO9p2o.jpg",
         "costume_id": 0,
-        "originalIndex": 212
+        "originalIndex": 213
     },
     {
         "name": "Otso",
@@ -7018,6 +8178,12 @@ window.allHeroes =
             "Hit All",
             "Self HoT",
             "Special Skill Mark All"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-5)",
+            "Heal over Time (HoT)",
+            "Stacking Heroes",
+            "Extra Damage Dealers"
         ],
         "source": "Monthly Event-Kalevala",
         "Release date": "2024-07-22",
@@ -7037,7 +8203,7 @@ window.allHeroes =
         "family": "kalevala",
         "image": "https://i.imgur.com/lO11H6h.jpg",
         "costume_id": 0,
-        "originalIndex": 213
+        "originalIndex": 214
     },
     {
         "name": "Passepartout",
@@ -7051,6 +8217,12 @@ window.allHeroes =
             "Healer All",
             "HoT All",
             "Defense Buff All"
+        ],
+        "skill_types": [
+            "Buffers (DEF)",
+            "Heal over Time (HoT)",
+            "Healers",
+            "Healers (Special)"
         ],
         "source": "S4-Wilderness",
         "Release date": "2021-12-02",
@@ -7070,7 +8242,7 @@ window.allHeroes =
         "family": "underwild",
         "image": "https://i.imgur.com/6D1hJ1P.jpg",
         "costume_id": 0,
-        "originalIndex": 214
+        "originalIndex": 215
     },
     {
         "name": "Passepartout C1",
@@ -7084,6 +8256,13 @@ window.allHeroes =
             "Healer All",
             "HoT All",
             "Defense Buff All"
+        ],
+        "skill_types": [
+            "Buffers (DEF)",
+            "Heal over Time (HoT)",
+            "Healers",
+            "Health Boosters",
+            "Healers (Special)"
         ],
         "source": "S4-Wilderness",
         "Release date": "2023-10-12",
@@ -7104,7 +8283,7 @@ window.allHeroes =
         "family": "underwild",
         "image": "https://i.imgur.com/mcEOLvZ.jpg",
         "costume_id": 1,
-        "originalIndex": 215
+        "originalIndex": 216
     },
     {
         "name": "Pepperbleu",
@@ -7118,10 +8297,19 @@ window.allHeroes =
             "Safely Dispel 1",
             "Dusk Mothling Mega Fiend Summoner 1"
         ],
+        "skill_types": [
+            "Snipers",
+            "Dispellers",
+            "Fiends Summoners",
+            "Buff Blockers",
+            "DoT Attackers",
+            "Dodgers",
+            "Minions Counters"
+        ],
         "source": "Alliance-Moths",
         "Release date": "2025-02-20",
         "star": 5,
-        "power": 1175,
+        "power": 1185,
         "attack": 1229,
         "defense": 1225,
         "health": 2055,
@@ -7138,7 +8326,7 @@ window.allHeroes =
         "family": "moth",
         "image": "https://i.imgur.com/zllnmP0.jpg",
         "costume_id": 0,
-        "originalIndex": 216
+        "originalIndex": 217
     },
     {
         "name": "Perseus",
@@ -7152,6 +8340,12 @@ window.allHeroes =
             "Hit 1",
             "Healing Debuff 1",
             "Elemental Defense Buff 3"
+        ],
+        "skill_types": [
+            "Buffers (DEF)",
+            "Healing Reducers",
+            "Mana Generation Buffers",
+            "Snipers"
         ],
         "source": "Hero of the Month",
         "Release date": "2017-12-01T00:00:00",
@@ -7170,7 +8364,7 @@ window.allHeroes =
         "family": 2017,
         "image": "https://i.imgur.com/AMhR92j.jpg",
         "costume_id": 0,
-        "originalIndex": 217
+        "originalIndex": 218
     },
     {
         "name": "Perseus C1",
@@ -7184,6 +8378,13 @@ window.allHeroes =
             "Hit 3",
             "Healing Debuff 3",
             "EDD 3"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-3)",
+            "Debuffers (DEF)",
+            "Healing Reducers",
+            "Mana Generation Buffers",
+            "Dispellers"
         ],
         "source": "Hero of the Month",
         "Release date": "2022-11-28T11:00:00",
@@ -7204,7 +8405,7 @@ window.allHeroes =
         "family": 2017,
         "image": "https://i.imgur.com/nzVNwio.jpg",
         "costume_id": 1,
-        "originalIndex": 218
+        "originalIndex": 219
     },
     {
         "name": "Pophit",
@@ -7218,6 +8419,12 @@ window.allHeroes =
             "Defense debuff",
             "Hit 3",
             "Softskin 2"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-3)",
+            "Damage Reducers",
+            "Immunity Providers",
+            "Debuffers (DEF)"
         ],
         "source": "Challenge-Return to Sanctuary",
         "Release date": "2024-02-27",
@@ -7237,7 +8444,7 @@ window.allHeroes =
         "family": "gargoyle",
         "image": "https://i.imgur.com/Q0YpIYH.jpg",
         "costume_id": 0,
-        "originalIndex": 219
+        "originalIndex": 220
     },
     {
         "name": "Porthos",
@@ -7251,6 +8458,14 @@ window.allHeroes =
             "Hit All",
             "Board Alterer",
             "Self HoT"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-5)",
+            "Board Alterers",
+            "Debuffers (ATK)",
+            "Buffers (ATK)",
+            "Extra Damage Dealers",
+            "Heal over Time (HoT)"
         ],
         "source": "Alliance-Musketeers",
         "Release date": "2022-12-14",
@@ -7271,7 +8486,7 @@ window.allHeroes =
         "family": "musketeer",
         "image": "https://i.imgur.com/BwYaSTj.jpg",
         "costume_id": 0,
-        "originalIndex": 220
+        "originalIndex": 221
     },
     {
         "name": "Quari",
@@ -7285,6 +8500,13 @@ window.allHeroes =
             "Hit 3",
             "DoT 3",
             "Growth All"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-3)",
+            "DoT Attackers",
+            "Healers (Special)",
+            "Health Boosters",
+            "Ability Scores Modifiers"
         ],
         "source": "Astral Summon",
         "Release date": "2024-12-22",
@@ -7306,7 +8528,7 @@ window.allHeroes =
         "family": "astraldwarfs",
         "image": "https://i.imgur.com/eBrPD5E.jpg",
         "costume_id": 0,
-        "originalIndex": 221
+        "originalIndex": 222
     },
     {
         "name": "Quinn",
@@ -7323,6 +8545,13 @@ window.allHeroes =
             "Elemental Dark Mana Gen Debuff",
             "Elemental Holy Defense Debuff",
             "Elemental Nature Attack Debuff"
+        ],
+        "skill_types": [
+            "Buff Blockers",
+            "Debuffers (ATK)",
+            "Debuffers (DEF)",
+            "Health Boosters",
+            "Mana Reducers or Blockers"
         ],
         "source": "Super Elementals",
         "Release date": "2023-09-11",
@@ -7349,7 +8578,7 @@ window.allHeroes =
         "family": "superelemental",
         "image": "https://i.imgur.com/deN3GU2.jpg",
         "costume_id": 0,
-        "originalIndex": 222
+        "originalIndex": 223
     },
     {
         "name": "Quintin",
@@ -7362,7 +8591,12 @@ window.allHeroes =
         "types": [
             "Hit 1"
         ],
-        "source": "Alliance-Knights Charge",
+        "skill_types": [
+            "DoT Attackers",
+            "Snipers",
+            "Damage Sharers"
+        ],
+        "source": "Alliance-Knights Clash",
         "Release date": "2022-01-05",
         "star": 5,
         "power": 822,
@@ -7377,7 +8611,7 @@ window.allHeroes =
         "family": "raven",
         "image": "https://i.imgur.com/8ISALDU.jpg",
         "costume_id": 0,
-        "originalIndex": 223
+        "originalIndex": 224
     },
     {
         "name": "Raffaele",
@@ -7391,6 +8625,12 @@ window.allHeroes =
             "Healer",
             "HoT All",
             "Cleanser All"
+        ],
+        "skill_types": [
+            "Cleansers",
+            "Heal over Time (HoT)",
+            "Healers",
+            "Buffers (DEF)"
         ],
         "source": "Hero of the Month",
         "Release date": "2020-06-01",
@@ -7411,7 +8651,7 @@ window.allHeroes =
         "family": 2020,
         "image": "https://i.imgur.com/O0p11HF.jpg",
         "costume_id": 0,
-        "originalIndex": 224
+        "originalIndex": 225
     },
     {
         "name": "Rian",
@@ -7426,6 +8666,15 @@ window.allHeroes =
             "Hit All",
             "Self Mana Generation Buff Stack",
             "Self HoT Stack"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-5)",
+            "Cleansers",
+            "Healers (Special)",
+            "Stacking Heroes",
+            "Extra Damage Dealers",
+            "Mana Generation Buffers",
+            "Heal over Time (HoT)"
         ],
         "source": "Challenge Festival-Slayers",
         "Release date": "2021-08-05",
@@ -7447,7 +8696,7 @@ window.allHeroes =
         "family": "slayer",
         "image": "https://i.imgur.com/pgR8NJw.jpg",
         "costume_id": 0,
-        "originalIndex": 225
+        "originalIndex": 226
     },
     {
         "name": "Richard",
@@ -7460,6 +8709,10 @@ window.allHeroes =
         "types": [
             "Hit 3",
             "Attack Debuff 3"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-3)",
+            "Debuffers (ATK)"
         ],
         "source": "S1-Classic",
         "Release date": "2017-01-01",
@@ -7476,7 +8729,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/G5NAe4a.jpg",
         "costume_id": 0,
-        "originalIndex": 226
+        "originalIndex": 227
     },
     {
         "name": "Richard C1",
@@ -7489,6 +8742,10 @@ window.allHeroes =
         "types": [
             "Hit 3",
             "Attack Debuff 3"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-3)",
+            "Debuffers (ATK)"
         ],
         "source": "S1-Classic",
         "Release date": "2020-01-01",
@@ -7505,7 +8762,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/WKQthMP.jpg",
         "costume_id": 1,
-        "originalIndex": 227
+        "originalIndex": 228
     },
     {
         "name": "Richard C2",
@@ -7518,6 +8775,11 @@ window.allHeroes =
         "types": [
             "Hit 3",
             "Attack Debuff 3"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-3)",
+            "Debuffers (ATK)",
+            "Stacking Heroes"
         ],
         "source": "S1-Classic",
         "Release date": "2023-09-04",
@@ -7534,7 +8796,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/7TMtgd4.jpg",
         "costume_id": 2,
-        "originalIndex": 228
+        "originalIndex": 229
     },
     {
         "name": "Richard Toon",
@@ -7547,6 +8809,11 @@ window.allHeroes =
         "types": [
             "Hit 3",
             "Attack Debuff 3"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-3)",
+            "Debuffers (ATK)",
+            "Extra Damage Dealers"
         ],
         "source": "S1-Classic",
         "Release date": "2023-10-30",
@@ -7566,7 +8833,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/2rEfoQ7.jpg",
         "costume_id": 3,
-        "originalIndex": 229
+        "originalIndex": 230
     },
     {
         "name": "Richard Glass",
@@ -7580,6 +8847,11 @@ window.allHeroes =
             "Hit 3",
             "Bypass",
             "Attack Debuff 3"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-3)",
+            "Bypassers",
+            "Debuffers (ATK)"
         ],
         "source": "S1-Classic",
         "Release date": "2024-12-24",
@@ -7599,7 +8871,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/zd4avma.jpg",
         "costume_id": 4,
-        "originalIndex": 230
+        "originalIndex": 231
     },
     {
         "name": "Rumpelstiltskin",
@@ -7611,6 +8883,14 @@ window.allHeroes =
         "skill": "Legerdemain",
         "types": [
             "Gambler"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-5)",
+            "Buffers (ATK)",
+            "Cleansers",
+            "Debuffers (DEF)",
+            "DoT Attackers",
+            "Healers"
         ],
         "source": "Challenge Festival-Grim Forest",
         "Release date": "2017-01-01",
@@ -7635,7 +8915,7 @@ window.allHeroes =
         "family": "grimforest",
         "image": "https://i.imgur.com/v7aCbsm.jpg",
         "costume_id": 0,
-        "originalIndex": 231
+        "originalIndex": 232
     },
     {
         "name": "Rumpelstiltskin C1",
@@ -7651,6 +8931,14 @@ window.allHeroes =
             "Health Boost All",
             "Mana generation Debuff All",
             "Buff Immunity All"
+        ],
+        "skill_types": [
+            "Buff Blockers",
+            "DoT Attackers",
+            "Health Boosters",
+            "Immunity Providers",
+            "Mana Reducers or Blockers",
+            "Max Health Reducers"
         ],
         "source": "Challenge Festival-Grim Forest",
         "Release date": "2022-06-16",
@@ -7675,7 +8963,7 @@ window.allHeroes =
         "family": "grimforest",
         "image": "https://i.imgur.com/G2za8YY.jpg",
         "costume_id": 1,
-        "originalIndex": 232
+        "originalIndex": 233
     },
     {
         "name": "Russula",
@@ -7688,6 +8976,13 @@ window.allHeroes =
         "types": [
             "Hit 1",
             "Hiding"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-5)",
+            "Damage Reducers",
+            "Damage Reducers",
+            "Ghost Form & Hiding",
+            "Snipers"
         ],
         "source": "S4-Wilderness",
         "Release date": "2021-05-20",
@@ -7708,7 +9003,7 @@ window.allHeroes =
         "family": "underwild",
         "image": "https://i.imgur.com/MqnrIZ3.jpg",
         "costume_id": 0,
-        "originalIndex": 233
+        "originalIndex": 234
     },
     {
         "name": "Russula C1",
@@ -7721,6 +9016,15 @@ window.allHeroes =
         "types": [
             "Hit 1",
             "Hiding"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-5)",
+            "Damage Reducers)",
+            "Damage Reducers",
+            "Ghost Form & Hiding",
+            "Snipers",
+            "Extra Damage Dealers",
+            "Buffers (ATK)"
         ],
         "source": "S4-Wilderness",
         "Release date": "2024-01-04",
@@ -7742,7 +9046,7 @@ window.allHeroes =
         "family": "underwild",
         "image": "https://i.imgur.com/KzLvPms.jpg",
         "costume_id": 1,
-        "originalIndex": 234
+        "originalIndex": 235
     },
     {
         "name": "Sable",
@@ -7758,6 +9062,15 @@ window.allHeroes =
             "Revive 1",
             "HoT All",
             "Cleanser All"
+        ],
+        "skill_types": [
+            "Cleansers",
+            "Revivers",
+            "Heal over Time (HoT)",
+            "Dispellers",
+            "Stacking Heroes",
+            "Ghost Form & Hiding",
+            "Healing Reducers"
         ],
         "source": "Covenant Summon",
         "Release date": "2025-02-02",
@@ -7780,7 +9093,7 @@ window.allHeroes =
         "family": "fox",
         "image": "https://i.imgur.com/rZTJzw7.jpg",
         "costume_id": 0,
-        "originalIndex": 235
+        "originalIndex": 236
     },
     {
         "name": "Satori",
@@ -7792,6 +9105,12 @@ window.allHeroes =
         "skill": "Thousand Palm Strikes",
         "types": [
             "Hit all"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-5)",
+            "Damage Reducers",
+            "Extra Damage Dealers",
+            "Dispellers"
         ],
         "source": "Myth Summon",
         "Release date": "2023-11-29",
@@ -7813,7 +9132,7 @@ window.allHeroes =
         "family": "champions",
         "image": "https://i.imgur.com/pKtN1Ok.jpg",
         "costume_id": 0,
-        "originalIndex": 236
+        "originalIndex": 237
     },
     {
         "name": "Sawano",
@@ -7827,6 +9146,12 @@ window.allHeroes =
             "Healer All",
             "Heal All on Enemy Special",
             "Cleanser 1/3/5"
+        ],
+        "skill_types": [
+            "Healers",
+            "Cleansers",
+            "Healers (Special)",
+            "Minions Counters"
         ],
         "source": "Tower-Ninjas",
         "Release date": "2024-11-19",
@@ -7855,7 +9180,7 @@ window.allHeroes =
         "family": "ninja",
         "image": "https://i.imgur.com/iP6Lloh.jpg",
         "costume_id": 0,
-        "originalIndex": 237
+        "originalIndex": 238
     },
     {
         "name": "Sigyn",
@@ -7869,6 +9194,12 @@ window.allHeroes =
             "Hit 2",
             "Mana reducer 2",
             "Fiend Summoner 2"
+        ],
+        "skill_types": [
+            "Snipers",
+            "Mana Reducers or Blockers",
+            "Fiends Summoners",
+            "DoT Attackers"
         ],
         "source": "Covenant Summon",
         "Release date": "2024-08-13",
@@ -7890,7 +9221,7 @@ window.allHeroes =
         "family": "plainshunter",
         "image": "https://i.imgur.com/JtNxfb8.jpg",
         "costume_id": 0,
-        "originalIndex": 238
+        "originalIndex": 239
     },
     {
         "name": "Sini",
@@ -7903,6 +9234,14 @@ window.allHeroes =
         "types": [
             "Hit All",
             "Board Alterer"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-5)",
+            "Board Alterers",
+            "Debuffers (ATK)",
+            "Buffers (ATK)",
+            "Extra Damage Dealers",
+            "Dodgers"
         ],
         "source": "Hero of the Month",
         "Release date": "2024-07-01",
@@ -7924,7 +9263,7 @@ window.allHeroes =
         "family": 2024,
         "image": "https://i.imgur.com/IV4i4UQ.jpg",
         "costume_id": 0,
-        "originalIndex": 239
+        "originalIndex": 240
     },
     {
         "name": "Siofra",
@@ -7940,7 +9279,13 @@ window.allHeroes =
             "Attack debuff 3",
             "Healing debuff"
         ],
-        "source": "Alliance-Knights Charge",
+        "skill_types": [
+            "AoE Attackers (Hit-3)",
+            "Bypassers",
+            "Debuffers (ATK)",
+            "Healing Reducers"
+        ],
+        "source": "Alliance-Knights Clash",
         "Release date": "2024-06-05",
         "star": 5,
         "power": 1060,
@@ -7959,7 +9304,7 @@ window.allHeroes =
         "family": "stag",
         "image": "https://i.imgur.com/kkNu861.jpg",
         "costume_id": 0,
-        "originalIndex": 240
+        "originalIndex": 241
     },
     {
         "name": "Skadi",
@@ -7973,6 +9318,13 @@ window.allHeroes =
             "Hit All",
             "DoT Stack",
             "Mana Generation Debuff Stack"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-5)",
+            "DoT Attackers",
+            "Extra Damage Dealers",
+            "Mana Reducers or Blockers",
+            "Stacking Heroes"
         ],
         "source": "S3-Valhalla",
         "Release date": "2020-06-25",
@@ -7991,7 +9343,7 @@ window.allHeroes =
         "family": "jotunheim",
         "image": "https://i.imgur.com/MzjdnYC.jpg",
         "costume_id": 0,
-        "originalIndex": 241
+        "originalIndex": 242
     },
     {
         "name": "Skadi C1",
@@ -8005,6 +9357,13 @@ window.allHeroes =
             "Hit 3",
             "DoT Stack",
             "Mana Generation Debuff Stack"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-3)",
+            "DoT Attackers",
+            "Extra Damage Dealers",
+            "Mana Reducers or Blockers",
+            "Stacking Heroes"
         ],
         "source": "S3-Valhalla",
         "Release date": "2022-07-04",
@@ -8023,7 +9382,7 @@ window.allHeroes =
         "family": "jotunheim",
         "image": "https://i.imgur.com/SWH0vbH.jpg",
         "costume_id": 1,
-        "originalIndex": 242
+        "originalIndex": 243
     },
     {
         "name": "Skarn",
@@ -8037,6 +9396,13 @@ window.allHeroes =
             "Hit All",
             "Defense Debuff All",
             "DoT All"
+        ],
+        "skill_types": [
+            "Debuffers (DEF)",
+            "DoT Attackers",
+            "Minions Counters",
+            "AoE Attackers (Hit-5)",
+            "Mana Reducers or Blockers"
         ],
         "source": "Covenant Summon",
         "Release date": "2024-08-09",
@@ -8059,7 +9425,7 @@ window.allHeroes =
         "family": "construct",
         "image": "https://i.imgur.com/jl8sclm.jpg",
         "costume_id": 0,
-        "originalIndex": 243
+        "originalIndex": 244
     },
     {
         "name": "Slimgo",
@@ -8073,6 +9439,11 @@ window.allHeroes =
             "Hit All",
             "DoT All",
             "Mana Generation Debuff All"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-5)",
+            "DoT Attackers",
+            "Mana Reducers or Blockers"
         ],
         "source": "Super Elementals",
         "Release date": "2024-10-30",
@@ -8093,7 +9464,7 @@ window.allHeroes =
         "family": "slime",
         "image": "https://i.imgur.com/TOPTa45.jpg",
         "costume_id": 0,
-        "originalIndex": 244
+        "originalIndex": 245
     },
     {
         "name": "Snow White",
@@ -8107,6 +9478,13 @@ window.allHeroes =
             "Dispeller",
             "Cleanser",
             "Hit All"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-5)",
+            "Cleansers",
+            "Dispellers",
+            "Negative Effects On Self Or Allies",
+            "Extra Damage Dealers"
         ],
         "source": "Challenge Festival-Grim Forest",
         "Release date": "2019-12-01",
@@ -8123,7 +9501,7 @@ window.allHeroes =
         "family": "grimforest",
         "image": "https://i.imgur.com/EVw3AO1.jpg",
         "costume_id": 0,
-        "originalIndex": 245
+        "originalIndex": 246
     },
     {
         "name": "Snow White C1",
@@ -8137,6 +9515,13 @@ window.allHeroes =
             "Dispeller All",
             "Cleanser All",
             "Hit All"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-5)",
+            "Cleansers",
+            "Dispellers",
+            "Negative Effects On Self Or Allies",
+            "Extra Damage Dealers"
         ],
         "source": "Challenge Festival-Grim Forest",
         "Release date": "2021-12-15",
@@ -8154,7 +9539,7 @@ window.allHeroes =
         "family": "grimforest",
         "image": "https://i.imgur.com/ko9NEXz.jpg",
         "costume_id": 1,
-        "originalIndex": 246
+        "originalIndex": 247
     },
     {
         "name": "Sobek",
@@ -8167,6 +9552,10 @@ window.allHeroes =
         "types": [
             "Hit All",
             "Bypass"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-5)",
+            "Bypassers"
         ],
         "source": "S5-Dune",
         "Release date": "2022-04-21",
@@ -8187,7 +9576,7 @@ window.allHeroes =
         "family": "sun",
         "image": "https://i.imgur.com/3Y3v4bs.jpg",
         "costume_id": 0,
-        "originalIndex": 247
+        "originalIndex": 248
     },
     {
         "name": "Sobek C1",
@@ -8201,6 +9590,10 @@ window.allHeroes =
             "Hit All",
             "Bypass",
             "DoT All"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-5)",
+            "Bypassers"
         ],
         "source": "S5-Dune",
         "Release date": "2024-07-13",
@@ -8224,7 +9617,7 @@ window.allHeroes =
         "family": "sun",
         "image": "https://i.imgur.com/E4kLEt9.jpg",
         "costume_id": 1,
-        "originalIndex": 248
+        "originalIndex": 249
     },
     {
         "name": "Song Jiang",
@@ -8240,6 +9633,12 @@ window.allHeroes =
             "Damage Heal 3",
             "Silence 3",
             "Defense Debuff 3"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-3)",
+            "Debuffers (DEF)",
+            "Healers (Special)",
+            "Silencers"
         ],
         "source": "Three Kingdoms Summon",
         "Release date": "2025-05-22",
@@ -8266,7 +9665,7 @@ window.allHeroes =
         "family": "outlaws",
         "image": "https://imgur.com/ASg7ZAz.jpg",
         "costume_id": 0,
-        "originalIndex": 249
+        "originalIndex": 250
     },
     {
         "name": "Sorrow",
@@ -8279,6 +9678,13 @@ window.allHeroes =
         "types": [
             "Summoner 3",
             "Attack Buff Minion"
+        ],
+        "skill_types": [
+            "Buffers (ATK)",
+            "DoT Attackers",
+            "Minions Summoners",
+            "Cleansers",
+            "AoE Attackers (Hit-5)"
         ],
         "source": "Covenant Summon",
         "Release date": "2023-05-06",
@@ -8299,7 +9705,7 @@ window.allHeroes =
         "family": "abysshunter",
         "image": "https://i.imgur.com/h1FVbFE.jpg",
         "costume_id": 0,
-        "originalIndex": 250
+        "originalIndex": 251
     },
     {
         "name": "Starwalker",
@@ -8312,6 +9718,13 @@ window.allHeroes =
         "types": [
             "Hit all",
             "Defense debuff"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-5)",
+            "Debuffers (DEF)",
+            "Extra Damage Dealers",
+            "Bypassers",
+            "Damage Sharers"
         ],
         "source": "Black Friday Summon",
         "Release date": "2023-11-21",
@@ -8333,7 +9746,7 @@ window.allHeroes =
         "family": "astralelves",
         "image": "https://i.imgur.com/GZxuVqX.jpg",
         "costume_id": 0,
-        "originalIndex": 251
+        "originalIndex": 252
     },
     {
         "name": "Suzuna",
@@ -8347,6 +9760,12 @@ window.allHeroes =
             "Cleanser 3",
             "Reflect Ailments 3",
             "HoT 3"
+        ],
+        "skill_types": [
+            "Cleansers",
+            "Fiends Counters",
+            "Heal over Time (HoT)",
+            "Reflectors"
         ],
         "source": "Hero of the Month",
         "Release date": "2023-05-01",
@@ -8368,7 +9787,7 @@ window.allHeroes =
         "family": 2023,
         "image": "https://i.imgur.com/Mep7TSo.jpg",
         "costume_id": 0,
-        "originalIndex": 252
+        "originalIndex": 253
     },
     {
         "name": "Tealmoine",
@@ -8382,6 +9801,13 @@ window.allHeroes =
             "Steals Buffs 1",
             "Deep Sleep 1",
             "Healer All"
+        ],
+        "skill_types": [
+            "Buff Stealers",
+            "Sleepweavers",
+            "Healers",
+            "Dodgers",
+            "Minions Counters"
         ],
         "source": "Alliance-Moths",
         "Release date": "2025-03-20",
@@ -8401,7 +9827,7 @@ window.allHeroes =
         "family": "moth",
         "image": "https://i.imgur.com/OpdhCZP.jpg",
         "costume_id": 0,
-        "originalIndex": 253
+        "originalIndex": 254
     },
     {
         "name": "Tethys",
@@ -8415,6 +9841,11 @@ window.allHeroes =
             "Hit 3",
             "Dot 3",
             "Attack Buff"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-3)",
+            "Buffers (ATK)",
+            "DoT Attackers"
         ],
         "source": "S2-Atlantis",
         "Release date": "2022-05-30",
@@ -8433,7 +9864,7 @@ window.allHeroes =
         "family": "atlantis",
         "image": "https://i.imgur.com/LPmQIgT.jpg",
         "costume_id": 0,
-        "originalIndex": 254
+        "originalIndex": 255
     },
     {
         "name": "Thalassa",
@@ -8447,6 +9878,11 @@ window.allHeroes =
             "Heal all",
             "Status Ailment Reset",
             "Status Ailment Immunity"
+        ],
+        "skill_types": [
+            "Effect Duration Resetters",
+            "Health Boosters",
+            "Immunity Providers"
         ],
         "source": "S6-S7-Untold Tales",
         "Release date": "2023-06-07",
@@ -8474,7 +9910,7 @@ window.allHeroes =
         "family": "defendersofatlantis",
         "image": "https://i.imgur.com/aKuc2pB.jpg",
         "costume_id": 0,
-        "originalIndex": 255
+        "originalIndex": 256
     },
     {
         "name": "Thalassa C1",
@@ -8488,6 +9924,11 @@ window.allHeroes =
             "Heal all",
             "Status Ailment Reset",
             "Status Ailment Immunity"
+        ],
+        "skill_types": [
+            "Health Boosters",
+            "Immunity Providers",
+            "Effect Duration Resetters"
         ],
         "source": "S6-S7-Untold Tales",
         "Release date": "2024-08-24",
@@ -8515,7 +9956,7 @@ window.allHeroes =
         "family": "defendersofatlantis",
         "image": "https://i.imgur.com/EE7MEpv.jpg",
         "costume_id": 1,
-        "originalIndex": 256
+        "originalIndex": 257
     },
     {
         "name": "Thanatos",
@@ -8529,6 +9970,12 @@ window.allHeroes =
             "Charge",
             "Healer All",
             "Mana Generation Buff All"
+        ],
+        "skill_types": [
+            "Healers",
+            "Mana Generation Buffers",
+            "Mana Raisers",
+            "Minions Counters"
         ],
         "source": "Tower-Styx",
         "Release date": "2023-02-08",
@@ -8557,7 +10004,7 @@ window.allHeroes =
         "family": "styx",
         "image": "https://i.imgur.com/WM6GD2A.jpg",
         "costume_id": 0,
-        "originalIndex": 257
+        "originalIndex": 258
     },
     {
         "name": "Theobald",
@@ -8572,6 +10019,12 @@ window.allHeroes =
             "Elemental Reflect All",
             "Elemental Counterattack All",
             "Attack Buff All"
+        ],
+        "skill_types": [
+            "Buffers (ATK)",
+            "Reflectors",
+            "Snipers",
+            "AoE Attackers (Hit-5)"
         ],
         "source": "Challenge Festival-Starfall",
         "Release date": "2021-06-10",
@@ -8589,7 +10042,7 @@ window.allHeroes =
         "family": "starfall",
         "image": "https://i.imgur.com/z0VwSFd.jpg",
         "costume_id": 0,
-        "originalIndex": 258
+        "originalIndex": 259
     },
     {
         "name": "Thorne",
@@ -8601,6 +10054,9 @@ window.allHeroes =
         "skill": "Icecold Finisher",
         "types": [
             "Hit 3"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-3)"
         ],
         "source": "S1-Classic",
         "Release date": "2017-01-01",
@@ -8616,7 +10072,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/9CT7f6V.jpg",
         "costume_id": 0,
-        "originalIndex": 259
+        "originalIndex": 260
     },
     {
         "name": "Thorne C1",
@@ -8629,6 +10085,10 @@ window.allHeroes =
         "types": [
             "Hit 1",
             "Self Mana Gen Buff"
+        ],
+        "skill_types": [
+            "Mana Generation Buffers",
+            "Snipers"
         ],
         "source": "S1-Classic",
         "Release date": "2021-01-18",
@@ -8645,7 +10105,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/YX5GVdv.jpg",
         "costume_id": 1,
-        "originalIndex": 260
+        "originalIndex": 261
     },
     {
         "name": "Thorne C2",
@@ -8659,6 +10119,11 @@ window.allHeroes =
             "Hit 3",
             "Mana reducer",
             "Self MoT"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-3)",
+            "Mana Raisers",
+            "Mana Reducers or Blockers"
         ],
         "source": "S1-Classic",
         "Release date": "2023-07-10",
@@ -8676,7 +10141,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/IEUFL8t.jpg",
         "costume_id": 2,
-        "originalIndex": 261
+        "originalIndex": 262
     },
     {
         "name": "Thorne Toon",
@@ -8688,6 +10153,10 @@ window.allHeroes =
         "skill": "Toon Finisher",
         "types": [
             "Hit 3"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-3)",
+            "Extra Damage Dealers"
         ],
         "source": "S1-Classic",
         "Release date": "2024-09-08",
@@ -8706,7 +10175,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/bBInxqX.jpg",
         "costume_id": 3,
-        "originalIndex": 262
+        "originalIndex": 263
     },
     {
         "name": "Timius",
@@ -8720,6 +10189,14 @@ window.allHeroes =
             "Dispeller 3",
             "Hit 3",
             "Buff Immunity 3"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-3)",
+            "Buff Blockers",
+            "Dispellers",
+            "Extra Damage Dealers",
+            "Snipers",
+            "Bypassers"
         ],
         "source": "Tower-Owls",
         "Release date": "2023-12-20",
@@ -8739,7 +10216,7 @@ window.allHeroes =
         "family": "owl",
         "image": "https://i.imgur.com/qe2xgVo.jpg",
         "costume_id": 0,
-        "originalIndex": 263
+        "originalIndex": 264
     },
     {
         "name": "Tinsel",
@@ -8754,6 +10231,12 @@ window.allHeroes =
             "Summoner All",
             "Defense Debuff 3",
             "Blind 3"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-3)",
+            "Debuffers (ATK)",
+            "Debuffers (DEF)",
+            "Minions Summoners"
         ],
         "source": "Monthly Event-Winter",
         "Release date": "2022-12-01",
@@ -8772,7 +10255,7 @@ window.allHeroes =
         "family": "christmas",
         "image": "https://i.imgur.com/huD8kmB.jpg",
         "costume_id": 0,
-        "originalIndex": 264
+        "originalIndex": 265
     },
     {
         "name": "Tremor",
@@ -8786,6 +10269,13 @@ window.allHeroes =
             "Heal All",
             "Hit All",
             "Stack 1"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-5)",
+            "Healers",
+            "Stacking Heroes",
+            "Buffers (ATK)",
+            "DoT Attackers"
         ],
         "source": "Monthly Event-Kalevala",
         "Release date": "2023-07-27",
@@ -8806,7 +10296,7 @@ window.allHeroes =
         "family": "junglehunter",
         "image": "https://i.imgur.com/zlwhqDy.jpg",
         "costume_id": 0,
-        "originalIndex": 265
+        "originalIndex": 266
     },
     {
         "name": "Ulius",
@@ -8821,6 +10311,13 @@ window.allHeroes =
             "Minion Summoner All",
             "Fiend Summoner All",
             "Mana Generation Debuff Fiend"
+        ],
+        "skill_types": [
+            "Fiends Summoners",
+            "Mana Generation Buffers",
+            "Mana Reducers or Blockers",
+            "Minions Summoners",
+            "Stacking Heroes"
         ],
         "source": "Tower-Magic",
         "Release date": "2023-08-23",
@@ -8846,7 +10343,7 @@ window.allHeroes =
         "family": "magic",
         "image": "https://i.imgur.com/rdw7YpR.jpg",
         "costume_id": 0,
-        "originalIndex": 266
+        "originalIndex": 267
     },
     {
         "name": "Vela",
@@ -8860,6 +10357,13 @@ window.allHeroes =
             "Hit All",
             "Dot All",
             "Atack debuff All"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-5)",
+            "Buffers (ATK)",
+            "Debuffers (ATK)",
+            "DoT Attackers",
+            "Extra Damage Dealers"
         ],
         "source": "Hero of the Month",
         "Release date": "2020-01-01",
@@ -8881,7 +10385,7 @@ window.allHeroes =
         "family": 2020,
         "image": "https://i.imgur.com/mUzztO6.jpg",
         "costume_id": 0,
-        "originalIndex": 267
+        "originalIndex": 268
     },
     {
         "name": "Verity",
@@ -8896,7 +10400,13 @@ window.allHeroes =
             "Enhanced Defense Debuff",
             "Delayed Mana Generation Debuff"
         ],
-        "source": "S4-Wilderness",
+        "skill_types": [
+            "AoE Attackers (Hit-3)",
+            "Debuffers (DEF)",
+            "Mana Reducers or Blockers",
+            "Minions Counters"
+        ],
+        "source": "Wilderness Summon",
         "Release date": "2024-08-31",
         "star": 5,
         "power": 1137,
@@ -8915,7 +10425,7 @@ window.allHeroes =
         "family": "woodlandfaun",
         "image": "https://i.imgur.com/bRVjhkX.jpg",
         "costume_id": 0,
-        "originalIndex": 268
+        "originalIndex": 269
     },
     {
         "name": "Vincent",
@@ -8929,6 +10439,13 @@ window.allHeroes =
             "Elemental Defense Debuff",
             "Hit All",
             "DoT All"
+        ],
+        "skill_types": [
+            "Debuffers (DEF)",
+            "AoE Attackers (Hit-5)",
+            "DoT Attackers",
+            "Damage Reducers",
+            "Immunity Providers"
         ],
         "source": "Challenge-Return to Sanctuary",
         "Release date": "2024-10-17",
@@ -8951,7 +10468,7 @@ window.allHeroes =
         "family": "gargoyle",
         "image": "https://i.imgur.com/L8aULPy.jpg",
         "costume_id": 0,
-        "originalIndex": 269
+        "originalIndex": 270
     },
     {
         "name": "Waterpipe",
@@ -8966,6 +10483,13 @@ window.allHeroes =
             "Mana reducer Minion",
             "SS Defense Down Minion hit",
             "Buff Immunity Minion hit"
+        ],
+        "skill_types": [
+            "Buff Blockers",
+            "Debuffers (DEF)",
+            "DoT Attackers",
+            "Mana Reducers or Blockers",
+            "Minions Summoners"
         ],
         "source": "Covenant Summon",
         "Release date": "2022-11-12",
@@ -8987,7 +10511,7 @@ window.allHeroes =
         "family": "plainshunter",
         "image": "https://i.imgur.com/pzkFRII.jpg",
         "costume_id": 0,
-        "originalIndex": 270
+        "originalIndex": 271
     },
     {
         "name": "Whitefang",
@@ -9001,6 +10525,11 @@ window.allHeroes =
             "Dispel 1",
             "Hit 1",
             "Lasting Spreading DoT 1"
+        ],
+        "skill_types": [
+            "Dispellers",
+            "Snipers",
+            "DoT Attackers"
         ],
         "source": "Harvest Summon",
         "Release date": "2024-08-20",
@@ -9020,7 +10549,7 @@ window.allHeroes =
         "family": "fox",
         "image": "https://i.imgur.com/r0k8YaN.jpg",
         "costume_id": 0,
-        "originalIndex": 271
+        "originalIndex": 272
     },
     {
         "name": "Zappa",
@@ -9034,6 +10563,11 @@ window.allHeroes =
             "Hit 1",
             "Summoner 1",
             "Spreading DoT 1"
+        ],
+        "skill_types": [
+            "DoT Attackers",
+            "Minions Summoners",
+            "Snipers"
         ],
         "source": "Monthly Event-Winter",
         "Release date": "2023-12-01",
@@ -9051,7 +10585,7 @@ window.allHeroes =
         "family": "christmas",
         "image": "https://i.imgur.com/kOZsEFw.jpg",
         "costume_id": 0,
-        "originalIndex": 272
+        "originalIndex": 273
     },
     {
         "name": "Zengar",
@@ -9066,6 +10600,11 @@ window.allHeroes =
             "Damage 3",
             "Dot 1",
             "Dot 3"
+        ],
+        "skill_types": [
+            "DoT Attackers",
+            "Snipers",
+            "AoE Attackers (Hit-3)"
         ],
         "source": "Super Elementals",
         "Release date": "2023-01-30",
@@ -9090,7 +10629,7 @@ window.allHeroes =
         "family": "superelemental",
         "image": "https://i.imgur.com/DQY3Orp.jpg",
         "costume_id": 0,
-        "originalIndex": 273
+        "originalIndex": 274
     },
     {
         "name": "Zircon",
@@ -9105,6 +10644,12 @@ window.allHeroes =
             "Boosted Health All",
             "Defense Buff All",
             "Dispell Immunity All"
+        ],
+        "skill_types": [
+            "Buffers (DEF)",
+            "Health Boosters",
+            "Immunity Providers",
+            "Heal over Time (HoT)"
         ],
         "source": "Tower-Ninjas",
         "Release date": "2021-11-10",
@@ -9132,7 +10677,7 @@ window.allHeroes =
         "family": "ninja",
         "image": "https://i.imgur.com/3XPQv8U.jpg",
         "costume_id": 0,
-        "originalIndex": 274
+        "originalIndex": 275
     },
     {
         "name": "Aife",
@@ -9144,6 +10689,9 @@ window.allHeroes =
         "skill": "Hacking Attack",
         "types": [
             "Hit 1"
+        ],
+        "skill_types": [
+            "Snipers"
         ],
         "source": "S1-Classic",
         "Release date": "2017-01-01",
@@ -9159,7 +10707,7 @@ window.allHeroes =
         "family": null,
         "image": "https://i.imgur.com/gTPieC1.jpg",
         "costume_id": 0,
-        "originalIndex": 275
+        "originalIndex": 276
     },
     {
         "name": "Derric",
@@ -9171,6 +10719,9 @@ window.allHeroes =
         "skill": "Axe Throw",
         "types": [
             "Hit 1"
+        ],
+        "skill_types": [
+            "Snipers"
         ],
         "source": "S1-Classic",
         "Release date": "2017-01-01",
@@ -9186,7 +10737,7 @@ window.allHeroes =
         "family": null,
         "image": "https://i.imgur.com/qLk060b.jpg",
         "costume_id": 0,
-        "originalIndex": 276
+        "originalIndex": 277
     },
     {
         "name": "Brogan",
@@ -9198,6 +10749,9 @@ window.allHeroes =
         "skill": "Tackle",
         "types": [
             "Hit 3"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-3)"
         ],
         "source": "S1-Classic",
         "Release date": "2017-01-01",
@@ -9213,7 +10767,7 @@ window.allHeroes =
         "family": null,
         "image": "https://i.imgur.com/wLaZQ4W.jpg",
         "costume_id": 0,
-        "originalIndex": 277
+        "originalIndex": 278
     },
     {
         "name": "Jenneh",
@@ -9225,6 +10779,9 @@ window.allHeroes =
         "skill": "Mark of Ivy",
         "types": [
             "Hit 1"
+        ],
+        "skill_types": [
+            "Snipers"
         ],
         "source": "S1-Classic",
         "Release date": "2017-01-01",
@@ -9240,7 +10797,7 @@ window.allHeroes =
         "family": null,
         "image": "https://i.imgur.com/reFxsXr.jpg",
         "costume_id": 0,
-        "originalIndex": 278
+        "originalIndex": 279
     },
     {
         "name": "Needler",
@@ -9252,6 +10809,9 @@ window.allHeroes =
         "skill": "Focused Shot",
         "types": [
             "Hit 1"
+        ],
+        "skill_types": [
+            "Snipers"
         ],
         "source": "S1-Classic",
         "Release date": "2017-01-01",
@@ -9267,7 +10827,7 @@ window.allHeroes =
         "family": null,
         "image": "https://i.imgur.com/KlbXSTV.jpg",
         "costume_id": 0,
-        "originalIndex": 279
+        "originalIndex": 280
     },
     {
         "name": "Alessia",
@@ -9280,6 +10840,10 @@ window.allHeroes =
         "types": [
             "Hit All",
             "Health Reduction"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-3)",
+            "Max Health Reducers"
         ],
         "source": "Challenge-Carnival of Gods",
         "Release date": "2023-07-13",
@@ -9298,7 +10862,7 @@ window.allHeroes =
         "family": "maskedgod",
         "image": "https://i.imgur.com/d2IW4aE.jpg",
         "costume_id": 0,
-        "originalIndex": 280
+        "originalIndex": 281
     },
     {
         "name": "Belith",
@@ -9311,6 +10875,10 @@ window.allHeroes =
         "types": [
             "Healer All",
             "Dispeller All"
+        ],
+        "skill_types": [
+            "Dispellers",
+            "Healers"
         ],
         "source": "S1-Classic",
         "Release date": "2017-01-01",
@@ -9327,7 +10895,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/aLWFiS9.jpg",
         "costume_id": 0,
-        "originalIndex": 281
+        "originalIndex": 282
     },
     {
         "name": "Belith C1",
@@ -9340,6 +10908,10 @@ window.allHeroes =
         "types": [
             "HoT All",
             "Dispell Immunity Buff All"
+        ],
+        "skill_types": [
+            "Heal over Time (HoT)",
+            "Immunity Providers"
         ],
         "source": "S1-Classic",
         "Release date": "2020-05-18",
@@ -9356,7 +10928,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/MHO518e.jpg",
         "costume_id": 1,
-        "originalIndex": 282
+        "originalIndex": 283
     },
     {
         "name": "Belith Toon",
@@ -9370,6 +10942,11 @@ window.allHeroes =
             "Healer All",
             "Defense Buff All",
             "Dispeller All"
+        ],
+        "skill_types": [
+            "Dispellers",
+            "Healers",
+            "Buffers (DEF)"
         ],
         "source": "S1-Classic",
         "Release date": "2024-04-08",
@@ -9389,7 +10966,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/d6OTmVG.jpg",
         "costume_id": 2,
-        "originalIndex": 283
+        "originalIndex": 284
     },
     {
         "name": "Belith Glass",
@@ -9403,6 +10980,11 @@ window.allHeroes =
             "Healer All",
             "Elemental Reflect All",
             "Dispeller"
+        ],
+        "skill_types": [
+            "Healers",
+            "Reflectors",
+            "Dispellers"
         ],
         "source": "S1-Classic",
         "Release date": "2025-04-23",
@@ -9422,7 +11004,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://imgur.com/Y4Gu3iU.jpg",
         "costume_id": 3,
-        "originalIndex": 284
+        "originalIndex": 285
     },
     {
         "name": "Berden",
@@ -9435,6 +11017,10 @@ window.allHeroes =
         "types": [
             "Hit 1",
             "Attack Debuff 1"
+        ],
+        "skill_types": [
+            "Debuffers (ATK)",
+            "Snipers"
         ],
         "source": "S1-Classic",
         "Release date": "2017-01-01",
@@ -9451,7 +11037,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/VjExjHL.jpg",
         "costume_id": 0,
-        "originalIndex": 285
+        "originalIndex": 286
     },
     {
         "name": "Berden C1",
@@ -9464,6 +11050,10 @@ window.allHeroes =
         "types": [
             "Hit 1",
             "Defense Debuff 1"
+        ],
+        "skill_types": [
+            "Debuffers (DEF)",
+            "Snipers"
         ],
         "source": "S1-Classic",
         "Release date": "2020-05-18",
@@ -9480,7 +11070,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/H6Orhln.jpg",
         "costume_id": 1,
-        "originalIndex": 286
+        "originalIndex": 287
     },
     {
         "name": "Berden Toon",
@@ -9493,6 +11083,11 @@ window.allHeroes =
         "types": [
             "Hit 1",
             "Attack Debuff 1"
+        ],
+        "skill_types": [
+            "Debuffers (ATK)",
+            "Snipers",
+            "Extra Damage Dealers"
         ],
         "source": "S1-Classic",
         "Release date": "2024-05-06",
@@ -9512,7 +11107,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/JqQwQQo.jpg",
         "costume_id": 2,
-        "originalIndex": 287
+        "originalIndex": 288
     },
     {
         "name": "Berden Glass",
@@ -9526,6 +11121,11 @@ window.allHeroes =
             "Hit 1",
             "Bypass",
             "Attack Debuff 1"
+        ],
+        "skill_types": [
+            "Bypassers",
+            "Debuffers (ATK)",
+            "Snipers"
         ],
         "source": "S1-Classic",
         "Release date": "2025-05-10",
@@ -9545,7 +11145,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://imgur.com/lvzA5b8.jpg",
         "costume_id": 3,
-        "originalIndex": 288
+        "originalIndex": 289
     },
     {
         "name": "Brienne",
@@ -9557,6 +11157,9 @@ window.allHeroes =
         "skill": "Berserker Fury",
         "types": [
             "Attack Buff"
+        ],
+        "skill_types": [
+            "Buffers (ATK)"
         ],
         "source": "S1-Classic",
         "Release date": "2017-01-01",
@@ -9572,7 +11175,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/sdXIZmv.jpg",
         "costume_id": 0,
-        "originalIndex": 289
+        "originalIndex": 290
     },
     {
         "name": "Brienne C1",
@@ -9584,6 +11187,9 @@ window.allHeroes =
         "skill": "Jungle Fury",
         "types": [
             "Defense Debuff"
+        ],
+        "skill_types": [
+            "Debuffers (DEF)"
         ],
         "source": "S1-Classic",
         "Release date": "2020-01-01",
@@ -9599,7 +11205,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/ig1RoGx.jpg",
         "costume_id": 1,
-        "originalIndex": 290
+        "originalIndex": 291
     },
     {
         "name": "Brienne Toon",
@@ -9611,6 +11217,9 @@ window.allHeroes =
         "skill": "Toon Fury",
         "types": [
             "Attack Buff"
+        ],
+        "skill_types": [
+            "Buffers (ATK)"
         ],
         "source": "S1-Classic",
         "Release date": "2024-01-22",
@@ -9628,7 +11237,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/0PzrzM8.jpg",
         "costume_id": 2,
-        "originalIndex": 291
+        "originalIndex": 292
     },
     {
         "name": "Brienne Glass",
@@ -9642,6 +11251,10 @@ window.allHeroes =
             "Attack Buff",
             "Reflect Ailments for Nature Allies",
             "Reflect Stacks for Nature Allies"
+        ],
+        "skill_types": [
+            "Buffers (ATK)",
+            "Reflectors"
         ],
         "source": "S1-Classic",
         "Release date": "2025-03-11",
@@ -9660,7 +11273,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/Z7YMKIU.jpg",
         "costume_id": 3,
-        "originalIndex": 292
+        "originalIndex": 293
     },
     {
         "name": "By-Ulf",
@@ -9674,6 +11287,12 @@ window.allHeroes =
             "Attack Buff",
             "Defense Buff",
             "HOT"
+        ],
+        "skill_types": [
+            "Buffers (ATK)",
+            "Buffers (DEF)",
+            "Heal over Time (HoT)",
+            "Negative Effects On Self Or Allies"
         ],
         "source": "S3-Valhalla",
         "Release date": "2020-02-27",
@@ -9697,7 +11316,7 @@ window.allHeroes =
         "family": "niflheim",
         "image": "https://i.imgur.com/TVINRSf.jpg",
         "costume_id": 0,
-        "originalIndex": 293
+        "originalIndex": 294
     },
     {
         "name": "Carver",
@@ -9710,6 +11329,10 @@ window.allHeroes =
         "types": [
             "Hit All",
             "Mana Reduction All"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-5)",
+            "Mana Reducers or Blockers"
         ],
         "source": "S1-Classic",
         "Release date": "2017-01-01",
@@ -9726,7 +11349,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/DfWafQ3.jpg",
         "costume_id": 0,
-        "originalIndex": 294
+        "originalIndex": 295
     },
     {
         "name": "Carver C1",
@@ -9739,6 +11362,10 @@ window.allHeroes =
         "types": [
             "Hit All",
             "Mana Generation Debuff All"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-5)",
+            "Mana Reducers or Blockers"
         ],
         "source": "S1-Classic",
         "Release date": "2020-05-18",
@@ -9755,7 +11382,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/xs9Nn7b.jpg",
         "costume_id": 1,
-        "originalIndex": 295
+        "originalIndex": 296
     },
     {
         "name": "Carver Toon",
@@ -9768,6 +11395,11 @@ window.allHeroes =
         "types": [
             "Hit All",
             "Mana Reduction All"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-5)",
+            "Mana Reducers or Blockers",
+            "Extra Damage Dealers"
         ],
         "source": "S1-Classic",
         "Release date": "2024-06-28",
@@ -9787,7 +11419,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/rbDQHbY.jpg",
         "costume_id": 2,
-        "originalIndex": 296
+        "originalIndex": 297
     },
     {
         "name": "Chires",
@@ -9800,6 +11432,11 @@ window.allHeroes =
         "types": [
             "Boosted Healer 3",
             "Growth 3"
+        ],
+        "skill_types": [
+            "Health Boosters",
+            "Ability Scores Modifiers",
+            "Fiends Counters"
         ],
         "source": "Astral Summon",
         "Release date": "2025-06-04",
@@ -9820,7 +11457,7 @@ window.allHeroes =
         "family": "astraldwarfs",
         "image": "https://imgur.com/AIJJV87.jpg",
         "costume_id": 0,
-        "originalIndex": 297
+        "originalIndex": 298
     },
     {
         "name": "Dolgoon",
@@ -9836,6 +11473,12 @@ window.allHeroes =
             "Damage share debuff",
             "Defense debuff",
             "Charge"
+        ],
+        "skill_types": [
+            "Buffers (DEF)",
+            "Damage Sharers",
+            "Debuffers (DEF)",
+            "Mana Reducers or Blockers"
         ],
         "source": "Tower-Magic",
         "Release date": "2021-09-15",
@@ -9859,7 +11502,7 @@ window.allHeroes =
         "family": "magic",
         "image": "https://i.imgur.com/vRYNJwU.jpg",
         "costume_id": 0,
-        "originalIndex": 298
+        "originalIndex": 299
     },
     {
         "name": "Faiez",
@@ -9873,6 +11516,11 @@ window.allHeroes =
             "Health Boost",
             "Status Ailment Immunity",
             "Defense Buff"
+        ],
+        "skill_types": [
+            "Buffers (DEF)",
+            "Health Boosters",
+            "Immunity Providers"
         ],
         "source": "S5-Dune",
         "Release date": "2022-04-21",
@@ -9894,7 +11542,7 @@ window.allHeroes =
         "family": "sun",
         "image": "https://i.imgur.com/vZiyZG9.jpg",
         "costume_id": 0,
-        "originalIndex": 299
+        "originalIndex": 300
     },
     {
         "name": "Faiez C1",
@@ -9905,6 +11553,12 @@ window.allHeroes =
         "speed": "Slow",
         "skill": "Plentiful Minerals",
         "types": [],
+        "skill_types": [
+            "Health Boosters",
+            "Immunity Providers",
+            "Buffers (DEF)",
+            "Cleansers"
+        ],
         "source": "S5-Dune",
         "Release date": "2024-09-07",
         "star": 3,
@@ -9927,7 +11581,7 @@ window.allHeroes =
         "family": "sun",
         "image": "https://i.imgur.com/TFnsKJy.jpg",
         "costume_id": 1,
-        "originalIndex": 300
+        "originalIndex": 301
     },
     {
         "name": "Featherino",
@@ -9939,6 +11593,11 @@ window.allHeroes =
         "skill": "Jack of Owl Trades",
         "types": [
             "Hit 3"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-3)",
+            "Extra Damage Dealers",
+            "Bypassers"
         ],
         "source": "Tower-Owls",
         "Release date": "2023-12-20",
@@ -9956,7 +11615,7 @@ window.allHeroes =
         "family": "owl",
         "image": "https://i.imgur.com/zCCCscJ.jpg",
         "costume_id": 0,
-        "originalIndex": 301
+        "originalIndex": 302
     },
     {
         "name": "Fianna",
@@ -9969,6 +11628,11 @@ window.allHeroes =
         "types": [
             "Hit 3",
             "Fiend Summoner 3"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-3)",
+            "DoT Attackers",
+            "Fiends Summoners"
         ],
         "source": "Covenant Summon",
         "Release date": "2022-11-12",
@@ -9989,7 +11653,7 @@ window.allHeroes =
         "family": "plainshunter",
         "image": "https://i.imgur.com/QukLnei.jpg",
         "costume_id": 0,
-        "originalIndex": 302
+        "originalIndex": 303
     },
     {
         "name": "Friar Tuck",
@@ -10002,6 +11666,10 @@ window.allHeroes =
         "types": [
             "Healer 3",
             "Mana Generation Buff 3"
+        ],
+        "skill_types": [
+            "Healers",
+            "Mana Generation Buffers"
         ],
         "source": "S1-Classic",
         "Release date": "2017-01-01",
@@ -10018,7 +11686,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/nprqffe.jpg",
         "costume_id": 0,
-        "originalIndex": 303
+        "originalIndex": 304
     },
     {
         "name": "Friar Tuck C1",
@@ -10031,6 +11699,10 @@ window.allHeroes =
         "types": [
             "Healer",
             "Mana Generation Buff 3"
+        ],
+        "skill_types": [
+            "Healers",
+            "Mana Generation Buffers"
         ],
         "source": "S1-Classic",
         "Release date": "2020-05-18",
@@ -10047,7 +11719,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/ia9GSNJ.jpg",
         "costume_id": 1,
-        "originalIndex": 304
+        "originalIndex": 305
     },
     {
         "name": "Friar Tuck Toon",
@@ -10060,6 +11732,10 @@ window.allHeroes =
         "types": [
             "Healer 3",
             "Mana Generation Buff 3"
+        ],
+        "skill_types": [
+            "Healers",
+            "Mana Generation Buffers"
         ],
         "source": "S1-Classic",
         "Release date": "2024-05-31",
@@ -10078,7 +11754,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/yE4ht6i.jpg",
         "costume_id": 2,
-        "originalIndex": 305
+        "originalIndex": 306
     },
     {
         "name": "Friar Tuck Glass",
@@ -10092,6 +11768,11 @@ window.allHeroes =
             "Healer 3",
             "Mana Generation Buff 3",
             "Reflect Buff for Nature Allies"
+        ],
+        "skill_types": [
+            "Healers",
+            "Mana Generation Buffers",
+            "Reflectors"
         ],
         "source": "S1-Classic",
         "Release date": "2025-06-18",
@@ -10111,7 +11792,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://imgur.com/lcz3509.jpg",
         "costume_id": 3,
-        "originalIndex": 306
+        "originalIndex": 307
     },
     {
         "name": "General Yin",
@@ -10124,6 +11805,11 @@ window.allHeroes =
         "types": [
             "Dispeller",
             "Hit All"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-5)",
+            "Dispellers",
+            "Extra Damage Dealers"
         ],
         "source": "Three Kingdoms Summon",
         "Release date": "2023-02-27",
@@ -10141,7 +11827,7 @@ window.allHeroes =
         "family": "journey",
         "image": "https://i.imgur.com/hCb3jKN.jpg",
         "costume_id": 0,
-        "originalIndex": 307
+        "originalIndex": 308
     },
     {
         "name": "Gnomer",
@@ -10154,6 +11840,10 @@ window.allHeroes =
         "types": [
             "Hit 1",
             "Dot 1"
+        ],
+        "skill_types": [
+            "DoT Attackers",
+            "Snipers"
         ],
         "source": "Challenge Festival-Grim Forest",
         "Release date": "2021-12-15",
@@ -10170,7 +11860,7 @@ window.allHeroes =
         "family": "grimforest",
         "image": "https://i.imgur.com/VMip5iv.jpg",
         "costume_id": 0,
-        "originalIndex": 308
+        "originalIndex": 309
     },
     {
         "name": "Goopy",
@@ -10183,6 +11873,11 @@ window.allHeroes =
         "types": [
             "Hit All",
             "Mana gen debuff"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-5)",
+            "Mana Reducers or Blockers",
+            "Extra Damage Dealers"
         ],
         "source": "Monthly Event-Morlovia",
         "Release date": "2022-10-03",
@@ -10202,7 +11897,7 @@ window.allHeroes =
         "family": "morlovia",
         "image": "https://i.imgur.com/WJOazL8.jpg",
         "costume_id": 0,
-        "originalIndex": 309
+        "originalIndex": 310
     },
     {
         "name": "Gramps",
@@ -10215,6 +11910,10 @@ window.allHeroes =
         "types": [
             "Revive",
             "Mana regen"
+        ],
+        "skill_types": [
+            "Revivers",
+            "Mana Raisers"
         ],
         "source": "S4-Wilderness",
         "Release date": "2021-03-25",
@@ -10233,7 +11932,7 @@ window.allHeroes =
         "family": "underwild",
         "image": "https://i.imgur.com/QGwMonb.jpg",
         "costume_id": 0,
-        "originalIndex": 310
+        "originalIndex": 311
     },
     {
         "name": "Gramps C1",
@@ -10246,6 +11945,10 @@ window.allHeroes =
         "types": [
             "Reviver",
             "HoT"
+        ],
+        "skill_types": [
+            "Heal over Time (HoT)",
+            "Revivers"
         ],
         "source": "S4-Wilderness",
         "Release date": "2023-11-09",
@@ -10264,7 +11967,7 @@ window.allHeroes =
         "family": "underwild",
         "image": "https://i.imgur.com/8hGBh7z.jpg",
         "costume_id": 1,
-        "originalIndex": 311
+        "originalIndex": 312
     },
     {
         "name": "Grevle",
@@ -10277,6 +11980,11 @@ window.allHeroes =
         "types": [
             "Health Boost",
             "Attack Buff"
+        ],
+        "skill_types": [
+            "Buffers (ATK)",
+            "Healers",
+            "Health Boosters"
         ],
         "source": "S3-Valhalla",
         "Release date": "2020-05-28",
@@ -10293,7 +12001,7 @@ window.allHeroes =
         "family": "alfheim",
         "image": "https://i.imgur.com/7vQQwXx.jpg",
         "costume_id": 0,
-        "originalIndex": 312
+        "originalIndex": 313
     },
     {
         "name": "Hisan",
@@ -10308,6 +12016,12 @@ window.allHeroes =
             "Dot 1",
             "Healing Debuff",
             "Self Clean"
+        ],
+        "skill_types": [
+            "Cleansers",
+            "DoT Attackers",
+            "Healing Reducers",
+            "Snipers"
         ],
         "source": "Monthly Event-Sand Empire",
         "Release date": "2017-01-01",
@@ -10326,7 +12040,7 @@ window.allHeroes =
         "family": "sand",
         "image": "https://i.imgur.com/YmBbafl.jpg",
         "costume_id": 0,
-        "originalIndex": 313
+        "originalIndex": 314
     },
     {
         "name": "Isshtak",
@@ -10338,6 +12052,9 @@ window.allHeroes =
         "skill": "Ramming Rush",
         "types": [
             "Hit 3"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-3)"
         ],
         "source": "S1-Classic",
         "Release date": "2017-01-01",
@@ -10353,7 +12070,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/Sq218ZB.jpg",
         "costume_id": 0,
-        "originalIndex": 314
+        "originalIndex": 315
     },
     {
         "name": "Isshtak C1",
@@ -10366,6 +12083,10 @@ window.allHeroes =
         "types": [
             "Hit 3",
             "Defense Debuff 3"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-3)",
+            "Debuffers (DEF)"
         ],
         "source": "S1-Classic",
         "Release date": "2020-05-18",
@@ -10382,7 +12103,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/aTgE0vq.jpg",
         "costume_id": 1,
-        "originalIndex": 315
+        "originalIndex": 316
     },
     {
         "name": "Isshtak Toon",
@@ -10394,6 +12115,10 @@ window.allHeroes =
         "skill": "Toon Rush",
         "types": [
             "Hit 3"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-3)",
+            "Extra Damage Dealers"
         ],
         "source": "S1-Classic",
         "Release date": "2024-07-16",
@@ -10412,7 +12137,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/DoAEWX7.jpg",
         "costume_id": 2,
-        "originalIndex": 316
+        "originalIndex": 317
     },
     {
         "name": "Jing",
@@ -10425,6 +12150,11 @@ window.allHeroes =
         "types": [
             "Hit 1",
             "Summoner"
+        ],
+        "skill_types": [
+            "Counterattackers",
+            "Minions Summoners",
+            "Snipers"
         ],
         "source": "Three Kingdoms Summon",
         "Release date": "2022-03-14T12:00:00",
@@ -10442,7 +12172,7 @@ window.allHeroes =
         "family": "kingdom",
         "image": "https://i.imgur.com/ElDAaic.jpg",
         "costume_id": 0,
-        "originalIndex": 317
+        "originalIndex": 318
     },
     {
         "name": "Mnesseus",
@@ -10455,6 +12185,10 @@ window.allHeroes =
         "types": [
             "Hit 1",
             "Dispeller"
+        ],
+        "skill_types": [
+            "Dispellers",
+            "Snipers"
         ],
         "source": "S2-Atlantis",
         "Release date": "2019-08-01",
@@ -10471,7 +12205,7 @@ window.allHeroes =
         "family": "atlantis",
         "image": "https://i.imgur.com/psLsMhk.jpg",
         "costume_id": 0,
-        "originalIndex": 318
+        "originalIndex": 319
     },
     {
         "name": "Mnesseus C1",
@@ -10484,6 +12218,10 @@ window.allHeroes =
         "types": [
             "Hit 1",
             "Cleanser All"
+        ],
+        "skill_types": [
+            "Cleansers",
+            "Snipers"
         ],
         "source": "S2-Atlantis",
         "Release date": "2022-05-02",
@@ -10500,7 +12238,7 @@ window.allHeroes =
         "family": "atlantis",
         "image": "https://i.imgur.com/vAbeKFm.jpg",
         "costume_id": 1,
-        "originalIndex": 319
+        "originalIndex": 320
     },
     {
         "name": "Muggy",
@@ -10512,6 +12250,9 @@ window.allHeroes =
         "skill": "Bruiser Bros",
         "types": [
             "Zombie Buff"
+        ],
+        "skill_types": [
+            "Revivers"
         ],
         "source": "S2-Atlantis",
         "Release date": "2019-08-01",
@@ -10532,7 +12273,7 @@ window.allHeroes =
         "family": "lagoon",
         "image": "https://i.imgur.com/oEhD3JD.jpg",
         "costume_id": 0,
-        "originalIndex": 320
+        "originalIndex": 321
     },
     {
         "name": "Noril",
@@ -10545,6 +12286,15 @@ window.allHeroes =
         "types": [
             "Hit 1",
             "Stack"
+        ],
+        "skill_types": [
+            "Chain & Random Attackers",
+            "Extra Damage Dealers",
+            "Healers (Special)",
+            "Stacking Heroes",
+            "Snipers",
+            "Mana Generation Buffers",
+            "Heal over Time (HoT)"
         ],
         "source": "Challenge Festival-Slayers",
         "Release date": "2021-08-05",
@@ -10565,7 +12315,7 @@ window.allHeroes =
         "family": "slayer",
         "image": "https://i.imgur.com/sPxC3Un.jpg",
         "costume_id": 0,
-        "originalIndex": 321
+        "originalIndex": 322
     },
     {
         "name": "Roxia",
@@ -10578,6 +12328,15 @@ window.allHeroes =
         "types": [
             "Hit 1",
             "Mana Generation"
+        ],
+        "skill_types": [
+            "Buffers (ATK)",
+            "Bypassers",
+            "DoT Attackers",
+            "Snipers",
+            "Stacking Heroes",
+            "Mana Reducers or Blockers",
+            "Mana Raisers"
         ],
         "source": "Tower-Magic",
         "Release date": "2023-05-03",
@@ -10602,7 +12361,7 @@ window.allHeroes =
         "family": "magic",
         "image": "https://i.imgur.com/M3v3YrZ.jpg",
         "costume_id": 0,
-        "originalIndex": 322
+        "originalIndex": 323
     },
     {
         "name": "Shrubbear",
@@ -10614,6 +12373,10 @@ window.allHeroes =
         "skill": "Camouflage Foliage",
         "types": [
             "Taunt"
+        ],
+        "skill_types": [
+            "Buffers (DEF)",
+            "Taunters"
         ],
         "source": "Challenge Festival-Wonderland",
         "Release date": "2017-01-01",
@@ -10631,7 +12394,7 @@ window.allHeroes =
         "family": "wonderland",
         "image": "https://i.imgur.com/KcnE5Ah.jpg",
         "costume_id": 0,
-        "originalIndex": 323
+        "originalIndex": 324
     },
     {
         "name": "Whacker",
@@ -10644,6 +12407,10 @@ window.allHeroes =
         "types": [
             "Hit 1",
             "Attack debuff"
+        ],
+        "skill_types": [
+            "Debuffers (ATK)",
+            "Snipers"
         ],
         "source": "Challenge Festival-Starfall",
         "Release date": "2021-06-10",
@@ -10660,7 +12427,7 @@ window.allHeroes =
         "family": "starfall",
         "image": "https://i.imgur.com/JVkZWPm.jpg",
         "costume_id": 0,
-        "originalIndex": 324
+        "originalIndex": 325
     },
     {
         "name": "William",
@@ -10674,6 +12441,11 @@ window.allHeroes =
             "Hit 3",
             "Defense buff",
             "Critical chance buff"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-3)",
+            "Buffers (DEF)",
+            "Buffers (ATK)"
         ],
         "source": "Goblin Summon",
         "Release date": "2024-04-15",
@@ -10694,7 +12466,7 @@ window.allHeroes =
         "family": "garrisonguard",
         "image": "https://i.imgur.com/A9SHPn4.jpg",
         "costume_id": 0,
-        "originalIndex": 325
+        "originalIndex": 326
     },
     {
         "name": "Yona",
@@ -10711,7 +12483,13 @@ window.allHeroes =
             "Health Reduction",
             "Defense debuff"
         ],
-        "source": "Alliance-Knights Charge",
+        "skill_types": [
+            "Buffers (DEF)",
+            "Debuffers (DEF)",
+            "Health Boosters",
+            "Max Health Reducers"
+        ],
+        "source": "Alliance-Knights Clash",
         "Release date": "2024-01-10",
         "star": 3,
         "power": 490,
@@ -10733,7 +12511,7 @@ window.allHeroes =
         "family": "stag",
         "image": "https://i.imgur.com/uP5TQtw.jpg",
         "costume_id": 0,
-        "originalIndex": 326
+        "originalIndex": 327
     },
     {
         "name": "Zarel",
@@ -10747,6 +12525,11 @@ window.allHeroes =
             "Hit All",
             "Attack Debuff",
             "Cleanse Block"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-5)",
+            "Cleanse Blockers",
+            "Debuffers (ATK)"
         ],
         "source": "Challenge Festival-Bards",
         "Release date": "2022-12-01",
@@ -10766,7 +12549,7 @@ window.allHeroes =
         "family": "bard",
         "image": "https://i.imgur.com/UoxW1c2.jpg",
         "costume_id": 0,
-        "originalIndex": 327
+        "originalIndex": 328
     },
     {
         "name": "Zarola",
@@ -10778,6 +12561,10 @@ window.allHeroes =
         "skill": "Punishing Shot",
         "types": [
             "Hit 3"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-3)",
+            "Extra Damage Dealers"
         ],
         "source": "Monthly Event-Love Season",
         "Release date": "2023-02-14",
@@ -10796,7 +12583,7 @@ window.allHeroes =
         "family": "cupid",
         "image": "https://i.imgur.com/07KHMD9.jpg",
         "costume_id": 0,
-        "originalIndex": 328
+        "originalIndex": 329
     },
     {
         "name": "Alfie",
@@ -10809,6 +12596,12 @@ window.allHeroes =
         "types": [
             "Hit All",
             "Elemental"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-5)",
+            "Debuffers (ATK)",
+            "Debuffers (DEF)",
+            "Mana Reducers or Blockers"
         ],
         "source": "Super Elementals",
         "Release date": "2023-08-14",
@@ -10834,7 +12627,7 @@ window.allHeroes =
         "family": "superelemental",
         "image": "https://i.imgur.com/JaXIe0C.jpg",
         "costume_id": 0,
-        "originalIndex": 329
+        "originalIndex": 330
     },
     {
         "name": "Almur",
@@ -10848,6 +12641,11 @@ window.allHeroes =
             "Hit 3",
             "Health Reduction",
             "Elemental Defense Debuff"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-3)",
+            "Debuffers (DEF)",
+            "Max Health Reducers"
         ],
         "source": "S3-Valhalla",
         "Release date": "2020-05-28",
@@ -10865,7 +12663,7 @@ window.allHeroes =
         "family": "svartalfheim",
         "image": "https://i.imgur.com/zT4IQhV.jpg",
         "costume_id": 0,
-        "originalIndex": 330
+        "originalIndex": 331
     },
     {
         "name": "Almur C1",
@@ -10879,6 +12677,11 @@ window.allHeroes =
             "Hit 1",
             "Mana Reduction",
             "Elemental Defense Debuff"
+        ],
+        "skill_types": [
+            "Debuffers (DEF)",
+            "Mana Reducers or Blockers",
+            "Snipers"
         ],
         "source": "S3-Valhalla",
         "Release date": "2023-03-13",
@@ -10896,7 +12699,7 @@ window.allHeroes =
         "family": "svartalfheim",
         "image": "https://i.imgur.com/G55eXUT.jpg",
         "costume_id": 1,
-        "originalIndex": 331
+        "originalIndex": 332
     },
     {
         "name": "Anton",
@@ -10912,6 +12715,14 @@ window.allHeroes =
             "Revive",
             "HoT All",
             "Charge"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-5)",
+            "DoT Attackers",
+            "Heal over Time (HoT)",
+            "Negative Effects On Self Or Allies",
+            "Revivers",
+            "Healers"
         ],
         "source": "Tower-Magic",
         "Release date": "2021-09-15",
@@ -10935,7 +12746,7 @@ window.allHeroes =
         "family": "magic",
         "image": "https://i.imgur.com/P0bT6Vn.jpg",
         "costume_id": 0,
-        "originalIndex": 332
+        "originalIndex": 333
     },
     {
         "name": "Brontes",
@@ -10947,6 +12758,12 @@ window.allHeroes =
         "skill": "Good Dose of Garlic",
         "types": [
             "Charge"
+        ],
+        "skill_types": [
+            "Healers",
+            "Mana Generation Buffers",
+            "Mana Raisers",
+            "Minions Counters"
         ],
         "source": "Tower-Styx",
         "Release date": "2022-09-21",
@@ -10975,7 +12792,7 @@ window.allHeroes =
         "family": "styx",
         "image": "https://i.imgur.com/73sHBAH.jpg",
         "costume_id": 0,
-        "originalIndex": 333
+        "originalIndex": 334
     },
     {
         "name": "Brynhild",
@@ -10989,6 +12806,12 @@ window.allHeroes =
             "Healer",
             "Dispel Immunity",
             "Mana Generation Buff"
+        ],
+        "skill_types": [
+            "Buffers (DEF)",
+            "Healers",
+            "Immunity Providers",
+            "Mana Generation Buffers"
         ],
         "source": "S3-Valhalla",
         "Release date": "2020-02-27",
@@ -11007,7 +12830,7 @@ window.allHeroes =
         "family": "midgard",
         "image": "https://i.imgur.com/igNkAbf.jpg",
         "costume_id": 0,
-        "originalIndex": 334
+        "originalIndex": 335
     },
     {
         "name": "Buddy",
@@ -11022,6 +12845,12 @@ window.allHeroes =
             "Summoner",
             "Attack Debuffer",
             "Defense Debuffer"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-3)",
+            "Debuffers (ATK)",
+            "Debuffers (DEF)",
+            "Minions Summoners"
         ],
         "source": "Monthly Event-Winter",
         "Release date": "2017-01-01",
@@ -11040,7 +12869,7 @@ window.allHeroes =
         "family": "christmas",
         "image": "https://i.imgur.com/fZWbFxH.jpg",
         "costume_id": 0,
-        "originalIndex": 335
+        "originalIndex": 336
     },
     {
         "name": "Caedmon",
@@ -11053,6 +12882,10 @@ window.allHeroes =
         "types": [
             "Hit 1",
             "Dispeller"
+        ],
+        "skill_types": [
+            "Dispellers",
+            "Snipers"
         ],
         "source": "S1-Classic",
         "Release date": "2017-01-01",
@@ -11069,7 +12902,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/jv6lywZ.jpg",
         "costume_id": 0,
-        "originalIndex": 336
+        "originalIndex": 337
     },
     {
         "name": "Caedmon C1",
@@ -11082,6 +12915,10 @@ window.allHeroes =
         "types": [
             "Hit 1",
             "Cleanser All"
+        ],
+        "skill_types": [
+            "Cleansers",
+            "Snipers"
         ],
         "source": "S1-Classic",
         "Release date": "2020-05-18",
@@ -11098,7 +12935,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/zrZ4p5y.jpg",
         "costume_id": 1,
-        "originalIndex": 337
+        "originalIndex": 338
     },
     {
         "name": "Caedmon C2",
@@ -11111,6 +12948,11 @@ window.allHeroes =
         "types": [
             "Hit 3",
             "Dispels Buffs 3"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-3)",
+            "Buff Blockers",
+            "Dispellers"
         ],
         "source": "S1-Classic",
         "Release date": "2022-12-26",
@@ -11128,7 +12970,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/0FiXuyI.jpg",
         "costume_id": 2,
-        "originalIndex": 338
+        "originalIndex": 339
     },
     {
         "name": "Caedmon Toon",
@@ -11141,6 +12983,11 @@ window.allHeroes =
         "types": [
             "Hit 1",
             "Dispeller"
+        ],
+        "skill_types": [
+            "Dispellers",
+            "Extra Damage Dealers",
+            "Snipers"
         ],
         "source": "S1-Classic",
         "Release date": "2024-01-22",
@@ -11160,7 +13007,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/DR6bDUS.jpg",
         "costume_id": 3,
-        "originalIndex": 339
+        "originalIndex": 340
     },
     {
         "name": "Caedmon Glass",
@@ -11174,6 +13021,12 @@ window.allHeroes =
             "Hit 1",
             "Attack Debuff All",
             "Dispeller All"
+        ],
+        "skill_types": [
+            "Bypassers",
+            "Debuffers (ATK)",
+            "Dispellers",
+            "Snipers"
         ],
         "source": "S1-Classic",
         "Release date": "2025-01-14",
@@ -11194,7 +13047,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/evExc3q.jpg",
         "costume_id": 4,
-        "originalIndex": 340
+        "originalIndex": 341
     },
     {
         "name": "Franz",
@@ -11209,7 +13062,12 @@ window.allHeroes =
             "Damage Increased Debuff All",
             "Buff Immunity Debuff All"
         ],
-        "source": "Alliance-Knights Charge",
+        "skill_types": [
+            "AoE Attackers (Hit-5)",
+            "Buff Blockers",
+            "Extra Damage Dealers"
+        ],
+        "source": "Alliance-Knights Clash",
         "Release date": "2022-01-05",
         "star": 4,
         "power": 681,
@@ -11225,7 +13083,7 @@ window.allHeroes =
         "family": "raven",
         "image": "https://i.imgur.com/Qe02pzU.jpg",
         "costume_id": 0,
-        "originalIndex": 341
+        "originalIndex": 342
     },
     {
         "name": "Gadeirus",
@@ -11239,6 +13097,11 @@ window.allHeroes =
             "Hit 3",
             "Attack Buff 3",
             "HoT 3"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-3)",
+            "Buffers (ATK)",
+            "Heal over Time (HoT)"
         ],
         "source": "S2-Atlantis",
         "Release date": "2019-08-01",
@@ -11256,7 +13119,7 @@ window.allHeroes =
         "family": "atlantis",
         "image": "https://i.imgur.com/dGtM0Hw.jpg",
         "costume_id": 0,
-        "originalIndex": 342
+        "originalIndex": 343
     },
     {
         "name": "Gadeirus C1",
@@ -11270,6 +13133,12 @@ window.allHeroes =
             "Hit All",
             "Attack Buff",
             "Boosted HoT"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-5)",
+            "Buffers (ATK)",
+            "Health Boosters",
+            "Heal over Time (HoT)"
         ],
         "source": "S2-Atlantis",
         "Release date": "2022-05-02",
@@ -11287,7 +13156,7 @@ window.allHeroes =
         "family": "atlantis",
         "image": "https://i.imgur.com/MAOY5JJ.jpg",
         "costume_id": 1,
-        "originalIndex": 343
+        "originalIndex": 344
     },
     {
         "name": "Gobbler",
@@ -11300,6 +13169,11 @@ window.allHeroes =
         "types": [
             "Minion Destroyer All",
             "Hit All"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-5)",
+            "Healers (Special)",
+            "Minions Counters"
         ],
         "source": "S2-Atlantis",
         "Release date": "2019-08-01",
@@ -11317,7 +13191,7 @@ window.allHeroes =
         "family": "lagoon",
         "image": "https://i.imgur.com/Sc5af8g.jpg",
         "costume_id": 0,
-        "originalIndex": 344
+        "originalIndex": 345
     },
     {
         "name": "Gobbler C1",
@@ -11331,6 +13205,11 @@ window.allHeroes =
             "Steals Minions 1",
             "Hit 1",
             "Spreading DoT 1"
+        ],
+        "skill_types": [
+            "DoT Attackers",
+            "Minions Counters",
+            "Snipers"
         ],
         "source": "S2-Atlantis",
         "Release date": "2023-04-03",
@@ -11348,7 +13227,7 @@ window.allHeroes =
         "family": "lagoon",
         "image": "https://i.imgur.com/ZFJ0073.jpg",
         "costume_id": 1,
-        "originalIndex": 345
+        "originalIndex": 346
     },
     {
         "name": "Hansel",
@@ -11361,6 +13240,11 @@ window.allHeroes =
         "types": [
             "Hit 1",
             "Mindless Attack"
+        ],
+        "skill_types": [
+            "Buffers (DEF)",
+            "Mana Reducers or Blockers",
+            "Snipers"
         ],
         "source": "Challenge Festival-Grim Forest",
         "Release date": "2017-01-01",
@@ -11378,7 +13262,7 @@ window.allHeroes =
         "family": "grimforest",
         "image": "https://i.imgur.com/SkK8Ieu.jpg",
         "costume_id": 0,
-        "originalIndex": 346
+        "originalIndex": 347
     },
     {
         "name": "Hansel C1",
@@ -11391,6 +13275,11 @@ window.allHeroes =
         "types": [
             "Hit 1",
             "Mindless Attack"
+        ],
+        "skill_types": [
+            "Buffers (DEF)",
+            "Mana Reducers or Blockers",
+            "Snipers"
         ],
         "source": "Challenge Festival-Grim Forest",
         "Release date": "2023-08-10",
@@ -11408,7 +13297,7 @@ window.allHeroes =
         "family": "grimforest",
         "image": "https://i.imgur.com/ZWQ8poJ.jpg",
         "costume_id": 1,
-        "originalIndex": 347
+        "originalIndex": 348
     },
     {
         "name": "Jack O'Hare",
@@ -11420,6 +13309,10 @@ window.allHeroes =
         "skill": "Reckless Slash",
         "types": [
             "Hit All"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-5)",
+            "Negative Effects On Self Or Allies"
         ],
         "source": "Monthly Event-Springvale",
         "Release date": "2018-03-01",
@@ -11436,7 +13329,7 @@ window.allHeroes =
         "family": "springvale",
         "image": "https://i.imgur.com/KJoqPtw.jpg",
         "costume_id": 0,
-        "originalIndex": 348
+        "originalIndex": 349
     },
     {
         "name": "Jack O'Hare C1",
@@ -11449,6 +13342,11 @@ window.allHeroes =
         "types": [
             "Hit all",
             "Chain"
+        ],
+        "skill_types": [
+            "Chain & Random Attackers",
+            "Negative Effects On Self Or Allies",
+            "Snipers"
         ],
         "source": "Monthly Event-Springvale",
         "Release date": "2022-03-21",
@@ -11466,7 +13364,7 @@ window.allHeroes =
         "family": "springvale",
         "image": "https://i.imgur.com/mwBA0kR.jpg",
         "costume_id": 1,
-        "originalIndex": 349
+        "originalIndex": 350
     },
     {
         "name": "Kal o",
@@ -11479,6 +13377,10 @@ window.allHeroes =
         "types": [
             "Hit All",
             "Cast Fallen"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-5)",
+            "Damage Reducers"
         ],
         "source": "Challenge-Gargoyle",
         "Release date": "2022-05-12",
@@ -11499,7 +13401,7 @@ window.allHeroes =
         "family": "gargoyle",
         "image": "https://i.imgur.com/g4p72ea.jpg",
         "costume_id": 0,
-        "originalIndex": 350
+        "originalIndex": 351
     },
     {
         "name": "Kashhrek",
@@ -11512,6 +13414,10 @@ window.allHeroes =
         "types": [
             "Healer 3",
             "Elemental Defense Buff 3"
+        ],
+        "skill_types": [
+            "Buffers (DEF)",
+            "Healers"
         ],
         "source": "S1-Classic",
         "Release date": "2017-01-01",
@@ -11528,7 +13434,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/f38vwx3.jpg",
         "costume_id": 0,
-        "originalIndex": 351
+        "originalIndex": 352
     },
     {
         "name": "Kashhrek C1",
@@ -11541,6 +13447,11 @@ window.allHeroes =
         "types": [
             "Health Boost 3",
             "Elemental Defense Buff"
+        ],
+        "skill_types": [
+            "Buffers (DEF)",
+            "Healers",
+            "Health Boosters"
         ],
         "source": "S1-Classic",
         "Release date": "2020-05-18",
@@ -11557,7 +13468,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/5DjkhS8.jpg",
         "costume_id": 1,
-        "originalIndex": 352
+        "originalIndex": 353
     },
     {
         "name": "Kashhrek C2",
@@ -11570,6 +13481,10 @@ window.allHeroes =
         "types": [
             "HoT 3",
             "Special Skill Defense Buff 3"
+        ],
+        "skill_types": [
+            "Buffers (DEF)",
+            "Heal over Time (HoT)"
         ],
         "source": "S1-Classic",
         "Release date": "2023-11-27",
@@ -11586,7 +13501,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/54DNXMH.jpg",
         "costume_id": 2,
-        "originalIndex": 353
+        "originalIndex": 354
     },
     {
         "name": "Kashhrek Toon",
@@ -11599,6 +13514,10 @@ window.allHeroes =
         "types": [
             "Healer 3",
             "Elemental Defense Buff 3"
+        ],
+        "skill_types": [
+            "Buffers (DEF)",
+            "Healers"
         ],
         "source": "S1-Classic",
         "Release date": "2024-05-31",
@@ -11617,7 +13536,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/B48yiIW.jpg",
         "costume_id": 3,
-        "originalIndex": 354
+        "originalIndex": 355
     },
     {
         "name": "Kashhrek Glass",
@@ -11631,6 +13550,11 @@ window.allHeroes =
             "Healer 3",
             "Reflect Buff for Nature Allies",
             "Elemental Defense Buff 3"
+        ],
+        "skill_types": [
+            "Buffers (DEF)",
+            "Healers",
+            "Reflectors"
         ],
         "source": "S1-Classic",
         "Release date": "2025-06-18",
@@ -11650,7 +13574,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://imgur.com/WEPgm0c.jpg",
         "costume_id": 4,
-        "originalIndex": 355
+        "originalIndex": 356
     },
     {
         "name": "Lionstring",
@@ -11663,6 +13587,14 @@ window.allHeroes =
         "types": [
             "Hit 3",
             "Dodge"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-3)",
+            "Healers (Special)",
+            "Dodgers",
+            "Bypassers",
+            "Healing Reducers",
+            "Damage Sharers"
         ],
         "source": "Astral Summon",
         "Release date": "2024-03-07",
@@ -11684,7 +13616,7 @@ window.allHeroes =
         "family": "astralelves",
         "image": "https://i.imgur.com/M9HK4qH.jpg",
         "costume_id": 0,
-        "originalIndex": 356
+        "originalIndex": 357
     },
     {
         "name": "Little John",
@@ -11697,6 +13629,10 @@ window.allHeroes =
         "types": [
             "Hit All",
             "Mana Generation Debuff All"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-5)",
+            "Mana Reducers or Blockers"
         ],
         "source": "S1-Classic",
         "Release date": "2017-01-01",
@@ -11713,7 +13649,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/nRRdXVw.jpg",
         "costume_id": 0,
-        "originalIndex": 357
+        "originalIndex": 358
     },
     {
         "name": "Little John C1",
@@ -11726,6 +13662,11 @@ window.allHeroes =
         "types": [
             "Hit All",
             "Dodge Buff 3"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-5)",
+            "Dodgers",
+            "Mana Raisers"
         ],
         "source": "S1-Classic",
         "Release date": "2020-05-18",
@@ -11742,7 +13683,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/OZPuj5P.jpg",
         "costume_id": 1,
-        "originalIndex": 358
+        "originalIndex": 359
     },
     {
         "name": "Little John C2",
@@ -11755,6 +13696,10 @@ window.allHeroes =
         "types": [
             "Hit all",
             "Mana Generation Buff All"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-5)",
+            "Mana Generation Buffers"
         ],
         "source": "S1-Classic",
         "Release date": "2023-10-30",
@@ -11771,7 +13716,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/pBSZGi6.jpg",
         "costume_id": 2,
-        "originalIndex": 359
+        "originalIndex": 360
     },
     {
         "name": "Little John Toon",
@@ -11784,6 +13729,11 @@ window.allHeroes =
         "types": [
             "Hit All",
             "Mana Generation Debuff"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-5)",
+            "Mana Reducers or Blockers",
+            "Extra Damage Dealers"
         ],
         "source": "S1-Classic",
         "Release date": "2024-05-06",
@@ -11803,7 +13753,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/8mWGMUp.jpg",
         "costume_id": 3,
-        "originalIndex": 360
+        "originalIndex": 361
     },
     {
         "name": "Little John Glass",
@@ -11817,6 +13767,11 @@ window.allHeroes =
             "Hit All",
             "Bypass",
             "Mana Generation Debuff All"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-5)",
+            "Bypassers",
+            "Mana Reducers or Blockers"
         ],
         "source": "S1-Classic",
         "Release date": "2025-05-10",
@@ -11836,7 +13791,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://imgur.com/8scCOJR.jpg",
         "costume_id": 4,
-        "originalIndex": 361
+        "originalIndex": 362
     },
     {
         "name": "Marcel",
@@ -11850,6 +13805,12 @@ window.allHeroes =
             "Hit 3",
             "Attack buff",
             "Defense debuff"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-3)",
+            "Buffers (ATK)",
+            "Debuffers (DEF)",
+            "Status Effect Conversion"
         ],
         "source": "Challenge Festival-Starfall",
         "Release date": "2021-06-10",
@@ -11867,7 +13828,7 @@ window.allHeroes =
         "family": "starfall",
         "image": "https://i.imgur.com/LwCxkKS.jpg",
         "costume_id": 0,
-        "originalIndex": 362
+        "originalIndex": 363
     },
     {
         "name": "Melendor",
@@ -11880,6 +13841,10 @@ window.allHeroes =
         "types": [
             "Healer",
             "Dispeller"
+        ],
+        "skill_types": [
+            "Dispellers",
+            "Healers"
         ],
         "source": "S1-Classic",
         "Release date": "2017-01-01",
@@ -11896,7 +13861,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/3rwM4W7.jpg",
         "costume_id": 0,
-        "originalIndex": 363
+        "originalIndex": 364
     },
     {
         "name": "Melendor C1",
@@ -11910,6 +13875,11 @@ window.allHeroes =
             "HOT",
             "Defense Buff",
             "Dispeller"
+        ],
+        "skill_types": [
+            "Buffers (DEF)",
+            "Dispellers",
+            "Heal over Time (HoT)"
         ],
         "source": "S1-Classic",
         "Release date": "2020-01-01",
@@ -11927,7 +13897,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/5gxdGVM.jpg",
         "costume_id": 1,
-        "originalIndex": 364
+        "originalIndex": 365
     },
     {
         "name": "Melendor C2",
@@ -11941,6 +13911,11 @@ window.allHeroes =
             "Healer",
             "Attack Buff",
             "Dispeller"
+        ],
+        "skill_types": [
+            "Buffers (ATK)",
+            "Dispellers",
+            "Heal over Time (HoT)"
         ],
         "source": "S1-Classic",
         "Release date": "2023-10-30",
@@ -11958,7 +13933,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/XVqcInX.jpg",
         "costume_id": 2,
-        "originalIndex": 365
+        "originalIndex": 366
     },
     {
         "name": "Melendor Toon",
@@ -11972,6 +13947,11 @@ window.allHeroes =
             "Healer",
             "Defense Buff",
             "Dispeller"
+        ],
+        "skill_types": [
+            "Buffers (DEF)",
+            "Dispellers",
+            "Healers"
         ],
         "source": "S1-Classic",
         "Release date": "2024-01-22",
@@ -11991,7 +13971,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/3swBEW4.jpg",
         "costume_id": 3,
-        "originalIndex": 366
+        "originalIndex": 367
     },
     {
         "name": "Melendor Glass",
@@ -12006,6 +13986,11 @@ window.allHeroes =
             "Reflect Ailments for Nature Allies",
             "Reflect Stacks for Nature Allies",
             "Dispeller"
+        ],
+        "skill_types": [
+            "Dispellers",
+            "Healers",
+            "Reflectors"
         ],
         "source": "S1-Classic",
         "Release date": "2025-03-11",
@@ -12025,7 +14010,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/5Bt1nJk.jpg",
         "costume_id": 4,
-        "originalIndex": 367
+        "originalIndex": 368
     },
     {
         "name": "Mielikki",
@@ -12038,6 +14023,11 @@ window.allHeroes =
         "types": [
             "Summoner",
             "Attack debuff"
+        ],
+        "skill_types": [
+            "Debuffers (ATK)",
+            "Mana Generation Buffers",
+            "Minions Summoners"
         ],
         "source": "Monthly Event-Kalevala",
         "Release date": "2022-06-20",
@@ -12057,7 +14047,7 @@ window.allHeroes =
         "family": "kalevala",
         "image": "https://i.imgur.com/tts9FVU.jpg",
         "costume_id": 0,
-        "originalIndex": 368
+        "originalIndex": 369
     },
     {
         "name": "Mielikki C1",
@@ -12070,6 +14060,11 @@ window.allHeroes =
         "types": [
             "Summoner",
             "Attack debuff"
+        ],
+        "skill_types": [
+            "Debuffers (ATK)",
+            "Mana Generation Buffers",
+            "Minions Summoners"
         ],
         "source": "Monthly Event-Kalevala",
         "Release date": "2023-08-07",
@@ -12087,7 +14082,7 @@ window.allHeroes =
         "family": "kalevala",
         "image": "https://i.imgur.com/vXd3s3q.jpg",
         "costume_id": 1,
-        "originalIndex": 369
+        "originalIndex": 370
     },
     {
         "name": "Mulgog",
@@ -12101,6 +14096,13 @@ window.allHeroes =
             "Hit 3",
             "Mana Reduction",
             "DoT all"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-3)",
+            "DoT Attackers",
+            "Healers (Special)",
+            "Mana Reducers or Blockers",
+            "Snipers"
         ],
         "source": "S6-S7-Untold Tales",
         "Release date": "2023-06-07",
@@ -12127,7 +14129,7 @@ window.allHeroes =
         "family": "nightmaresofatlantis",
         "image": "https://i.imgur.com/b7HL0wq.jpg",
         "costume_id": 0,
-        "originalIndex": 370
+        "originalIndex": 371
     },
     {
         "name": "Mulgog C1",
@@ -12141,6 +14143,13 @@ window.allHeroes =
             "Hit 3",
             "Mana Reduction",
             "DoT all"
+        ],
+        "skill_types": [
+            "Snipers",
+            "AoE Attackers (Hit-3)",
+            "Mana Reducers or Blockers",
+            "DoT Attackers",
+            "Healers (Special)"
         ],
         "source": "S6-S7-Untold Tales",
         "Release date": "2025-03-31",
@@ -12168,7 +14177,7 @@ window.allHeroes =
         "family": "nightmaresofatlantis",
         "image": "https://imgur.com/X5IVjtR.jpg",
         "costume_id": 1,
-        "originalIndex": 371
+        "originalIndex": 372
     },
     {
         "name": "Myrtle",
@@ -12183,7 +14192,13 @@ window.allHeroes =
             "Enhanced Defense Ailment",
             "Delayed Spreading DoT"
         ],
-        "source": "S4-Wilderness",
+        "skill_types": [
+            "AoE Attackers (Hit-3)",
+            "Debuffers (DEF)",
+            "DoT Attackers",
+            "Minions Counters"
+        ],
+        "source": "Wilderness Summon",
         "Release date": "2025-02-21",
         "star": 4,
         "power": 727,
@@ -12202,7 +14217,7 @@ window.allHeroes =
         "family": "woodlandfaun",
         "image": "https://i.imgur.com/KEvkubZ.jpg",
         "costume_id": 0,
-        "originalIndex": 372
+        "originalIndex": 373
     },
     {
         "name": "Numbskull",
@@ -12215,6 +14230,12 @@ window.allHeroes =
         "types": [
             "Hit all",
             "Summoner"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-5)",
+            "Minions Summoners",
+            "DoT Attackers",
+            "Cleansers"
         ],
         "source": "Covenant Summon",
         "Release date": "2023-05-06",
@@ -12235,7 +14256,7 @@ window.allHeroes =
         "family": "abysshunter",
         "image": "https://i.imgur.com/Y43vWHy.jpg",
         "costume_id": 0,
-        "originalIndex": 373
+        "originalIndex": 374
     },
     {
         "name": "Orla",
@@ -12249,6 +14270,15 @@ window.allHeroes =
             "Hit 1",
             "Mana generation debuff",
             "Stack"
+        ],
+        "skill_types": [
+            "Healers (Special)",
+            "Mana Reducers or Blockers",
+            "Snipers",
+            "Stacking Heroes",
+            "Extra Damage Dealers",
+            "Mana Generation Buffers",
+            "Heal over Time (HoT)"
         ],
         "source": "Challenge Festival-Slayers",
         "Release date": "2021-08-05",
@@ -12270,7 +14300,7 @@ window.allHeroes =
         "family": "slayer",
         "image": "https://i.imgur.com/YWXxtDj.jpg",
         "costume_id": 0,
-        "originalIndex": 374
+        "originalIndex": 375
     },
     {
         "name": "Peters",
@@ -12283,6 +14313,10 @@ window.allHeroes =
         "types": [
             "Hit 1",
             "Silence"
+        ],
+        "skill_types": [
+            "Silencers",
+            "Snipers"
         ],
         "source": "Challenge Festival-Pirates",
         "Release date": "2017-01-01",
@@ -12299,7 +14333,7 @@ window.allHeroes =
         "family": "corellia",
         "image": "https://i.imgur.com/aPVBzpo.jpg",
         "costume_id": 0,
-        "originalIndex": 375
+        "originalIndex": 376
     },
     {
         "name": "Peters C1",
@@ -12313,6 +14347,11 @@ window.allHeroes =
             "Hit 1",
             "Silence",
             "Defense debuff"
+        ],
+        "skill_types": [
+            "Debuffers (DEF)",
+            "Silencers",
+            "Snipers"
         ],
         "source": "Challenge Festival-Pirates",
         "Release date": "2023-12-28",
@@ -12330,7 +14369,7 @@ window.allHeroes =
         "family": "corellia",
         "image": "https://i.imgur.com/caAHKaT.jpg",
         "costume_id": 1,
-        "originalIndex": 376
+        "originalIndex": 377
     },
     {
         "name": "Ptolemy",
@@ -12343,6 +14382,11 @@ window.allHeroes =
         "types": [
             "Heal All",
             "Status Ailment Immunity 3"
+        ],
+        "skill_types": [
+            "Healers",
+            "Immunity Providers",
+            "Healers (Special)"
         ],
         "source": "S5-Dune",
         "Release date": "2022-04-21",
@@ -12363,7 +14407,7 @@ window.allHeroes =
         "family": "sun",
         "image": "https://i.imgur.com/3gaWwFG.jpg",
         "costume_id": 0,
-        "originalIndex": 377
+        "originalIndex": 378
     },
     {
         "name": "Ptolemy C1",
@@ -12376,6 +14420,13 @@ window.allHeroes =
         "types": [
             "Heal All",
             "Status Ailment Immunity 3"
+        ],
+        "skill_types": [
+            "Healers",
+            "Immunity Providers",
+            "Healers (Special)",
+            "Health Boosters",
+            "Cleansers"
         ],
         "source": "S5-Dune",
         "Release date": "2024-10-05",
@@ -12398,7 +14449,7 @@ window.allHeroes =
         "family": "sun",
         "image": "https://i.imgur.com/xEySNN6.jpg",
         "costume_id": 1,
-        "originalIndex": 378
+        "originalIndex": 379
     },
     {
         "name": "Raleigh",
@@ -12413,7 +14464,12 @@ window.allHeroes =
             "Attack buff",
             "Mana gen buff"
         ],
-        "source": "Alliance-Knights Charge",
+        "skill_types": [
+            "Buffers (ATK)",
+            "Health Boosters",
+            "Mana Generation Buffers"
+        ],
+        "source": "Alliance-Knights Clash",
         "Release date": "2024-01-10",
         "star": 4,
         "power": 692,
@@ -12431,7 +14487,7 @@ window.allHeroes =
         "family": "stag",
         "image": "https://i.imgur.com/SZsJBr2.jpg",
         "costume_id": 0,
-        "originalIndex": 379
+        "originalIndex": 380
     },
     {
         "name": "Skittleskull",
@@ -12444,6 +14500,10 @@ window.allHeroes =
         "types": [
             "Hit All",
             "Attack Debuff All"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-5)",
+            "Debuffers (ATK)"
         ],
         "source": "S1-Classic",
         "Release date": "2017-01-01",
@@ -12460,7 +14520,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/6Oucdm4.jpg",
         "costume_id": 0,
-        "originalIndex": 380
+        "originalIndex": 381
     },
     {
         "name": "Skittleskull C1",
@@ -12473,6 +14533,10 @@ window.allHeroes =
         "types": [
             "Hit All",
             "Attack Debuff All"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-5)",
+            "Debuffers (ATK)"
         ],
         "source": "S1-Classic",
         "Release date": "2020-01-01",
@@ -12489,7 +14553,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/9DvgVYg.jpg",
         "costume_id": 1,
-        "originalIndex": 381
+        "originalIndex": 382
     },
     {
         "name": "Skittleskull C2",
@@ -12502,6 +14566,10 @@ window.allHeroes =
         "types": [
             "Hit All",
             "Defense Debuff All"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-5)",
+            "Debuffers (DEF)"
         ],
         "source": "S1-Classic",
         "Release date": "2023-04-17",
@@ -12518,7 +14586,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/EIvqBU6.jpg",
         "costume_id": 2,
-        "originalIndex": 382
+        "originalIndex": 383
     },
     {
         "name": "Skittleskull Toon",
@@ -12531,6 +14599,11 @@ window.allHeroes =
         "types": [
             "Hit All",
             "Attack Debuff All"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-5)",
+            "Debuffers (ATK)",
+            "Extra Damage Dealers"
         ],
         "source": "S1-Classic",
         "Release date": "2024-03-11",
@@ -12550,7 +14623,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/DQzJaMV.jpg",
         "costume_id": 3,
-        "originalIndex": 383
+        "originalIndex": 384
     },
     {
         "name": "Skittleskull Glass",
@@ -12564,6 +14637,11 @@ window.allHeroes =
             "Hit All",
             "Bypass",
             "Attack Debuff All"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-5)",
+            "Bypassers",
+            "Debuffers (ATK)"
         ],
         "source": "S1-Classic",
         "Release date": "2025-04-08",
@@ -12583,7 +14661,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://imgur.com/qCkUNrw.jpg",
         "costume_id": 4,
-        "originalIndex": 384
+        "originalIndex": 385
     },
     {
         "name": "Tettukh",
@@ -12597,6 +14675,11 @@ window.allHeroes =
             "Hit 1",
             "Silence",
             "Dot 1"
+        ],
+        "skill_types": [
+            "DoT Attackers",
+            "Silencers",
+            "Snipers"
         ],
         "source": "S4-Wilderness",
         "Release date": "2021-03-25",
@@ -12616,7 +14699,7 @@ window.allHeroes =
         "family": "underwild",
         "image": "https://i.imgur.com/OZiH56V.jpg",
         "costume_id": 0,
-        "originalIndex": 385
+        "originalIndex": 386
     },
     {
         "name": "Tettukh C1",
@@ -12630,6 +14713,11 @@ window.allHeroes =
             "Hit 1",
             "Silence",
             "DoT 1"
+        ],
+        "skill_types": [
+            "DoT Attackers",
+            "Silencers",
+            "Snipers"
         ],
         "source": "S4-Wilderness",
         "Release date": "2023-12-07",
@@ -12649,7 +14737,7 @@ window.allHeroes =
         "family": "underwild",
         "image": "https://i.imgur.com/Upmqcxi.jpg",
         "costume_id": 1,
-        "originalIndex": 386
+        "originalIndex": 387
     },
     {
         "name": "Villiers",
@@ -12663,6 +14751,13 @@ window.allHeroes =
             "Hit 3",
             "Fiend Summoner 3",
             "Self HoT"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-3)",
+            "Buff Stealers",
+            "Fiends Summoners",
+            "DoT Attackers",
+            "Heal over Time (HoT)"
         ],
         "source": "Alliance-Musketeers",
         "Release date": "2022-12-14",
@@ -12684,7 +14779,7 @@ window.allHeroes =
         "family": "musketeer",
         "image": "https://i.imgur.com/bq60wfg.jpg",
         "costume_id": 0,
-        "originalIndex": 387
+        "originalIndex": 388
     },
     {
         "name": "Wren",
@@ -12698,7 +14793,12 @@ window.allHeroes =
             "Hit 1",
             "Bounce"
         ],
-        "source": "Alliance-Knights Charge",
+        "skill_types": [
+            "Chain & Random Attackers",
+            "Debuffers (ATK)",
+            "Snipers"
+        ],
+        "source": "Alliance-Knights Clash",
         "Release date": "2021-10-13",
         "star": 4,
         "power": 680,
@@ -12714,7 +14814,7 @@ window.allHeroes =
         "family": "raven",
         "image": "https://i.imgur.com/YasIqZv.jpg",
         "costume_id": 0,
-        "originalIndex": 388
+        "originalIndex": 389
     },
     {
         "name": "Ahmose",
@@ -12728,6 +14828,10 @@ window.allHeroes =
             "Hit All",
             "Elemental Reflect All",
             "Elemental Counterattack All"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-5)",
+            "Reflectors"
         ],
         "source": "S5-Dune",
         "Release date": "2022-11-24",
@@ -12748,7 +14852,7 @@ window.allHeroes =
         "family": "moon",
         "image": "https://i.imgur.com/4zzp1TD.jpg",
         "costume_id": 0,
-        "originalIndex": 389
+        "originalIndex": 390
     },
     {
         "name": "Ahmose C1",
@@ -12762,6 +14866,10 @@ window.allHeroes =
             "Hit All",
             "Elemental Reflect All",
             "Elemental Counterattack All"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-5)",
+            "Reflectors"
         ],
         "source": "S5-Dune",
         "Release date": "2024-03-04",
@@ -12784,7 +14892,7 @@ window.allHeroes =
         "family": "moon",
         "image": "https://i.imgur.com/hOov8Aa.jpg",
         "costume_id": 1,
-        "originalIndex": 390
+        "originalIndex": 391
     },
     {
         "name": "Alberich",
@@ -12798,6 +14906,13 @@ window.allHeroes =
             "Reviver",
             "HoT",
             "MoT"
+        ],
+        "skill_types": [
+            "Buffers (ATK)",
+            "Mana Raisers",
+            "Buffers (DEF)",
+            "Revivers",
+            "Heal over Time (HoT)"
         ],
         "source": "Hero of the Month",
         "Release date": "2017-10-01T00:00:00",
@@ -12816,7 +14931,7 @@ window.allHeroes =
         "family": 2017,
         "image": "https://i.imgur.com/0IebpZg.jpg",
         "costume_id": 0,
-        "originalIndex": 391
+        "originalIndex": 392
     },
     {
         "name": "Alberich C1",
@@ -12830,6 +14945,14 @@ window.allHeroes =
             "Reviver",
             "HoT",
             "MoT"
+        ],
+        "skill_types": [
+            "Heal over Time (HoT)",
+            "Mana Generation Buffers",
+            "Revivers",
+            "Cleansers",
+            "Buffers (ATK)",
+            "Buffers (DEF)"
         ],
         "source": "Hero of the Month",
         "Release date": "2021-10-20",
@@ -12850,7 +14973,7 @@ window.allHeroes =
         "family": 2017,
         "image": "https://i.imgur.com/qgThGvZ.jpg",
         "costume_id": 1,
-        "originalIndex": 392
+        "originalIndex": 393
     },
     {
         "name": "Archibald",
@@ -12865,6 +14988,13 @@ window.allHeroes =
             "Bypass Minions",
             "EDD",
             "Sword Guard Mega Minion"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-5)",
+            "Minions Counters",
+            "Debuffers (DEF)",
+            "Mega Minions Summoners",
+            "DoT Attackers"
         ],
         "source": "Goblin Summon",
         "Release date": "2025-03-14",
@@ -12887,7 +15017,7 @@ window.allHeroes =
         "family": "garrisonguard",
         "image": "https://i.imgur.com/zBBsCSR.jpg",
         "costume_id": 0,
-        "originalIndex": 393
+        "originalIndex": 394
     },
     {
         "name": "Archie",
@@ -12901,6 +15031,11 @@ window.allHeroes =
             "Hit All",
             "Buff Immunity Debuff",
             "Self Blind"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-5)",
+            "Buff Blockers",
+            "Negative Effects On Self Or Allies"
         ],
         "source": "Monthly Event-Springvale",
         "Release date": "2023-03-27",
@@ -12918,7 +15053,7 @@ window.allHeroes =
         "family": "springvale",
         "image": "https://i.imgur.com/LIKBIhe.jpg",
         "costume_id": 0,
-        "originalIndex": 394
+        "originalIndex": 395
     },
     {
         "name": "Archie C1",
@@ -12932,6 +15067,11 @@ window.allHeroes =
             "Hit All",
             "Buff Immunity Debuff",
             "Self Blind"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-5)",
+            "Buff Blockers",
+            "Negative Effects On Self Or Allies"
         ],
         "source": "Monthly Event-Springvale",
         "Release date": "2024-03-18",
@@ -12949,7 +15089,7 @@ window.allHeroes =
         "family": "springvale",
         "image": "https://i.imgur.com/NhdULEq.jpg",
         "costume_id": 1,
-        "originalIndex": 395
+        "originalIndex": 396
     },
     {
         "name": "Arco",
@@ -12963,6 +15103,12 @@ window.allHeroes =
             "Fiend Replacement All",
             "Minion Summoner All",
             "Boosted Health per Minion"
+        ],
+        "skill_types": [
+            "Fiends Counters",
+            "Health Boosters",
+            "Minions Summoners",
+            "Damage Reducers"
         ],
         "source": "Challenge-Gargoyle",
         "Release date": "2022-05-12",
@@ -12982,7 +15128,7 @@ window.allHeroes =
         "family": "gargoyle",
         "image": "https://i.imgur.com/nhYRyEk.jpg",
         "costume_id": 0,
-        "originalIndex": 396
+        "originalIndex": 397
     },
     {
         "name": "Armand Moncharmin",
@@ -12995,6 +15141,11 @@ window.allHeroes =
         "types": [
             "Hit All",
             "Bodyguard Mega Minion"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-5)",
+            "Mega Minions Summoners",
+            "Sleepweavers"
         ],
         "source": "Solstice Summon",
         "Release date": "2024-08-22",
@@ -13015,7 +15166,7 @@ window.allHeroes =
         "family": "opera",
         "image": "https://i.imgur.com/PHXp8yu.jpg",
         "costume_id": 0,
-        "originalIndex": 397
+        "originalIndex": 398
     },
     {
         "name": "Athos",
@@ -13029,6 +15180,13 @@ window.allHeroes =
             "Hit 1",
             "Minion Destroyer 1",
             "Bypass"
+        ],
+        "skill_types": [
+            "Bypassers",
+            "Mana Raisers",
+            "Minions Counters",
+            "Snipers",
+            "Heal over Time (HoT)"
         ],
         "source": "Alliance-Musketeers",
         "Release date": "2022-12-14",
@@ -13050,7 +15208,7 @@ window.allHeroes =
         "family": "musketeer",
         "image": "https://i.imgur.com/HvsiBgn.jpg",
         "costume_id": 0,
-        "originalIndex": 398
+        "originalIndex": 399
     },
     {
         "name": "Atomos",
@@ -13063,6 +15221,11 @@ window.allHeroes =
         "types": [
             "Hit All",
             "Self Resurrection"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-5)",
+            "Revivers",
+            "Extra Damage Dealers"
         ],
         "source": "S2-Atlantis",
         "Release date": "2019-02-01",
@@ -13080,7 +15243,7 @@ window.allHeroes =
         "family": "atlantis",
         "image": "https://i.imgur.com/DAUb4SR.jpg",
         "costume_id": 0,
-        "originalIndex": 399
+        "originalIndex": 400
     },
     {
         "name": "Atomos C1",
@@ -13093,6 +15256,11 @@ window.allHeroes =
         "types": [
             "Hit All",
             "Self Resurrection"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-5)",
+            "Revivers",
+            "Extra Damage Dealers"
         ],
         "source": "S2-Atlantis",
         "Release date": "2023-04-03",
@@ -13110,7 +15278,7 @@ window.allHeroes =
         "family": "atlantis",
         "image": "https://i.imgur.com/Mrpkkq0.jpg",
         "costume_id": 1,
-        "originalIndex": 400
+        "originalIndex": 401
     },
     {
         "name": "Atwood",
@@ -13126,6 +15294,12 @@ window.allHeroes =
             "Insanity 3",
             "Damage from Ailments Immunity All",
             "Self Insanity"
+        ],
+        "skill_types": [
+            "Dispellers",
+            "AoE Attackers (Hit-3)",
+            "Immunity Providers",
+            "Negative Effects On Self Or Allies"
         ],
         "source": "Extra Draw-Secret Summon",
         "Release date": "2024-04-11",
@@ -13146,7 +15320,7 @@ window.allHeroes =
         "family": "investigator",
         "image": "https://i.imgur.com/Cwe6431.jpg",
         "costume_id": 0,
-        "originalIndex": 401
+        "originalIndex": 402
     },
     {
         "name": "Augustus",
@@ -13161,6 +15335,13 @@ window.allHeroes =
             "Health Boost",
             "Summoner",
             "Defense Buff"
+        ],
+        "skill_types": [
+            "Buffers (DEF)",
+            "Cleansers",
+            "Health Boosters",
+            "Minions Summoners",
+            "Healers (Special)"
         ],
         "source": "Monthly Event-Winter",
         "Release date": "2022-12-01",
@@ -13180,7 +15361,7 @@ window.allHeroes =
         "family": "christmas",
         "image": "https://i.imgur.com/AEEIfML.jpg",
         "costume_id": 0,
-        "originalIndex": 402
+        "originalIndex": 403
     },
     {
         "name": "Balbar",
@@ -13193,6 +15374,13 @@ window.allHeroes =
         "types": [
             "Hit 1",
             "Sleep"
+        ],
+        "skill_types": [
+            "Extra Damage Dealers",
+            "Mana Reducers or Blockers",
+            "Sleepweavers",
+            "Snipers",
+            "Healers (Special)"
         ],
         "source": "Hero of the Month",
         "Release date": "2021-11-01",
@@ -13216,7 +15404,7 @@ window.allHeroes =
         "family": 2021,
         "image": "https://i.imgur.com/lTYrovf.jpg",
         "costume_id": 0,
-        "originalIndex": 403
+        "originalIndex": 404
     },
     {
         "name": "Bertila",
@@ -13230,6 +15418,11 @@ window.allHeroes =
             "Hit All",
             "Lifts Attack Debuffs All",
             "Lifts Defense Debuffs All"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-5)",
+            "Cleansers",
+            "Minions Summoners"
         ],
         "source": "Hero of the Month",
         "Release date": "2021-01-01",
@@ -13247,7 +15440,7 @@ window.allHeroes =
         "family": 2021,
         "image": "https://i.imgur.com/VlS3IND.jpg",
         "costume_id": 0,
-        "originalIndex": 404
+        "originalIndex": 405
     },
     {
         "name": "Bo & Runt",
@@ -13260,6 +15453,13 @@ window.allHeroes =
         "types": [
             "Hit 1",
             "Summoner 1"
+        ],
+        "skill_types": [
+            "Extra Damage Dealers",
+            "Buffers (ATK)",
+            "Snipers",
+            "Minions Summoners",
+            "Mana Raisers"
         ],
         "source": "Hero of the Month",
         "Release date": "2024-05-01",
@@ -13282,7 +15482,7 @@ window.allHeroes =
         "family": 2024,
         "image": "https://i.imgur.com/6gRA2M6.jpg",
         "costume_id": 0,
-        "originalIndex": 405
+        "originalIndex": 406
     },
     {
         "name": "Bonzo",
@@ -13297,6 +15497,12 @@ window.allHeroes =
             "Hit all",
             "Bypass Minions",
             "Bypass defensive buffs"
+        ],
+        "skill_types": [
+            "Random Position",
+            "AoE Attackers (Hit-5)",
+            "Minions Counters",
+            "Bypassers"
         ],
         "source": "Challenge Festival-Bards",
         "Release date": "2024-11-14",
@@ -13320,7 +15526,7 @@ window.allHeroes =
         "family": "bard",
         "image": "https://i.imgur.com/jSnGpgr.jpg",
         "costume_id": 0,
-        "originalIndex": 406
+        "originalIndex": 407
     },
     {
         "name": "Boom & Fang",
@@ -13332,6 +15538,10 @@ window.allHeroes =
         "skill": "Boar Call",
         "types": [
             "White Boar Mega Minion"
+        ],
+        "skill_types": [
+            "Counterattackers",
+            "Mega Minions Summoners"
         ],
         "source": "Goblin Summon",
         "Release date": "2023-10-16",
@@ -13352,7 +15562,7 @@ window.allHeroes =
         "family": "goblin",
         "image": "https://i.imgur.com/IpQKX8C.jpg",
         "costume_id": 0,
-        "originalIndex": 407
+        "originalIndex": 408
     },
     {
         "name": "Bramble",
@@ -13366,7 +15576,13 @@ window.allHeroes =
             "Heal All",
             "Safely Cleanses"
         ],
-        "source": "S4-Wilderness",
+        "skill_types": [
+            "Healers",
+            "Mana Raisers",
+            "Cleansers",
+            "Minions Counters"
+        ],
+        "source": "Wilderness Summon",
         "Release date": "2025-01-22",
         "star": 5,
         "power": 1157,
@@ -13385,7 +15601,7 @@ window.allHeroes =
         "family": "woodlandfaun",
         "image": "https://i.imgur.com/BA1yyNs.jpg",
         "costume_id": 0,
-        "originalIndex": 408
+        "originalIndex": 409
     },
     {
         "name": "Chikao",
@@ -13400,6 +15616,12 @@ window.allHeroes =
             "Dispeller 2",
             "Hit 2",
             "Sleep 2"
+        ],
+        "skill_types": [
+            "Sleepweavers",
+            "Dispellers",
+            "Snipers",
+            "Minions Counters"
         ],
         "source": "Tower-Ninjas",
         "Release date": "2024-08-27",
@@ -13428,7 +15650,7 @@ window.allHeroes =
         "family": "ninja",
         "image": "https://i.imgur.com/g0WuoGF.jpg",
         "costume_id": 0,
-        "originalIndex": 409
+        "originalIndex": 410
     },
     {
         "name": "Chloris",
@@ -13441,6 +15663,11 @@ window.allHeroes =
         "types": [
             "Health Boost All",
             "HoT All"
+        ],
+        "skill_types": [
+            "Health Boosters",
+            "Heal over Time (HoT)",
+            "Buffers (ATK)"
         ],
         "source": "Hero of the Month",
         "Release date": "2024-09-01",
@@ -13462,7 +15689,7 @@ window.allHeroes =
         "family": 2024,
         "image": "https://i.imgur.com/3NHTm5Y.jpg",
         "costume_id": 0,
-        "originalIndex": 410
+        "originalIndex": 411
     },
     {
         "name": "Cinisia",
@@ -13476,6 +15703,12 @@ window.allHeroes =
             "Hit All",
             "Healing Decrease",
             "DoT"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-5)",
+            "DoT Attackers",
+            "Healing Reducers",
+            "Mana Generation Buffers"
         ],
         "source": "Hero of the Month",
         "Release date": "2023-07-01",
@@ -13497,7 +15730,7 @@ window.allHeroes =
         "family": 2023,
         "image": "https://i.imgur.com/L1RhKDe.jpg",
         "costume_id": 0,
-        "originalIndex": 411
+        "originalIndex": 412
     },
     {
         "name": "Congalach",
@@ -13510,6 +15743,11 @@ window.allHeroes =
         "types": [
             "Hit 5 random",
             "Attack Debuff stack"
+        ],
+        "skill_types": [
+            "Chain & Random Attackers",
+            "Debuffers (ATK)",
+            "Stacking Heroes"
         ],
         "source": "S4-Wilderness",
         "Release date": "2022-01-27",
@@ -13528,7 +15766,7 @@ window.allHeroes =
         "family": "underwild",
         "image": "https://i.imgur.com/FKztylV.jpg",
         "costume_id": 0,
-        "originalIndex": 412
+        "originalIndex": 413
     },
     {
         "name": "Congalach C1",
@@ -13541,6 +15779,11 @@ window.allHeroes =
         "types": [
             "Hit 5 random",
             "Attack Debuff stack"
+        ],
+        "skill_types": [
+            "Chain & Random Attackers",
+            "Debuffers (ATK)",
+            "Stacking Heroes"
         ],
         "source": "S4-Wilderness",
         "Release date": "2024-08-01",
@@ -13560,7 +15803,7 @@ window.allHeroes =
         "family": "underwild",
         "image": "https://i.imgur.com/llQVrNB.jpg",
         "costume_id": 1,
-        "originalIndex": 413
+        "originalIndex": 414
     },
     {
         "name": "Craum",
@@ -13573,6 +15816,10 @@ window.allHeroes =
         "types": [
             "Healer",
             "DoT"
+        ],
+        "skill_types": [
+            "Health Boosters",
+            "DoT Attackers"
         ],
         "source": "Super Elementals",
         "Release date": "2024-05-20",
@@ -13599,7 +15846,7 @@ window.allHeroes =
         "family": "superelemental",
         "image": "https://i.imgur.com/GyN20JL.jpg",
         "costume_id": 0,
-        "originalIndex": 414
+        "originalIndex": 415
     },
     {
         "name": "Cristobal",
@@ -13613,6 +15860,12 @@ window.allHeroes =
             "Hit 1",
             "Hit all",
             "Charge"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-5)",
+            "Extra Damage Dealers",
+            "Snipers",
+            "Mana Reducers or Blockers"
         ],
         "source": "Tower-Magic",
         "Release date": "2021-09-15",
@@ -13636,7 +15889,7 @@ window.allHeroes =
         "family": "magic",
         "image": "https://i.imgur.com/H1Awz0g.jpg",
         "costume_id": 0,
-        "originalIndex": 415
+        "originalIndex": 416
     },
     {
         "name": "Dagr",
@@ -13650,6 +15903,14 @@ window.allHeroes =
             "Hit All",
             "Bypass Minions",
             "DoT All"
+        ],
+        "skill_types": [
+            "DoT Attackers",
+            "Extra Damage Dealers",
+            "Minions Counters",
+            "Snipers",
+            "Bypassers",
+            "Debuffers (DEF)"
         ],
         "source": "S6-S7-Untold Tales",
         "Release date": "2025-01-26",
@@ -13674,7 +15935,7 @@ window.allHeroes =
         "family": "nidavellir",
         "image": "https://i.imgur.com/BDzoVb0.jpg",
         "costume_id": 0,
-        "originalIndex": 416
+        "originalIndex": 417
     },
     {
         "name": "Daroga",
@@ -13688,6 +15949,12 @@ window.allHeroes =
             "Hit 1",
             "Spreading DoT",
             "Attack Buff stack"
+        ],
+        "skill_types": [
+            "Snipers",
+            "DoT Attackers",
+            "Stacking Heroes",
+            "Buffers (ATK)"
         ],
         "source": "Solstice Summon",
         "Release date": "2024-03-21",
@@ -13708,7 +15975,7 @@ window.allHeroes =
         "family": "opera",
         "image": "https://i.imgur.com/Kmtj8Eb.jpg",
         "costume_id": 0,
-        "originalIndex": 417
+        "originalIndex": 418
     },
     {
         "name": "Desmond",
@@ -13722,6 +15989,11 @@ window.allHeroes =
             "Hit 2",
             "Health boost for 3",
             "Silencer"
+        ],
+        "skill_types": [
+            "Health Boosters",
+            "Silencers",
+            "Snipers"
         ],
         "source": "Super Elementals",
         "Release date": "2024-01-01",
@@ -13746,7 +16018,7 @@ window.allHeroes =
         "family": "superelemental",
         "image": "https://i.imgur.com/oyCoXcq.jpg",
         "costume_id": 0,
-        "originalIndex": 418
+        "originalIndex": 419
     },
     {
         "name": "Dodgrom",
@@ -13760,6 +16032,11 @@ window.allHeroes =
             "Taunt",
             "Counterattack",
             "Damage reducer"
+        ],
+        "skill_types": [
+            "Counterattackers",
+            "Damage Reducers",
+            "Taunters"
         ],
         "source": "Monthly Event-Love Season",
         "Release date": "2025-02-14",
@@ -13779,7 +16056,7 @@ window.allHeroes =
         "family": "cupid",
         "image": "https://i.imgur.com/7l2ITkQ.jpg",
         "costume_id": 0,
-        "originalIndex": 419
+        "originalIndex": 420
     },
     {
         "name": "Ecgtheow",
@@ -13792,6 +16069,11 @@ window.allHeroes =
         "types": [
             "Hit All",
             "Mana Reduction All"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-5)",
+            "Mana Reducers or Blockers",
+            "Bypassers"
         ],
         "source": "Challenge-Beowulf",
         "Release date": "2025-03-13",
@@ -13812,7 +16094,7 @@ window.allHeroes =
         "family": "beowulf",
         "image": "https://i.imgur.com/P9xj0rz.jpg",
         "costume_id": 0,
-        "originalIndex": 420
+        "originalIndex": 421
     },
     {
         "name": "Edwin",
@@ -13826,6 +16108,11 @@ window.allHeroes =
             "Hit all",
             "Bypass",
             "Healing Decrease"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-5)",
+            "Bypassers",
+            "Cleanse Blockers"
         ],
         "source": "Monthly Event-Morlovia",
         "Release date": "2023-09-25",
@@ -13845,7 +16132,7 @@ window.allHeroes =
         "family": "morlovia",
         "image": "https://i.imgur.com/NshfXdy.jpg",
         "costume_id": 0,
-        "originalIndex": 421
+        "originalIndex": 422
     },
     {
         "name": "Eiora & Fluffy",
@@ -13859,6 +16146,11 @@ window.allHeroes =
             "Minion Destroyer 1",
             "Hit 1",
             "Health reduction on Minion owner"
+        ],
+        "skill_types": [
+            "Max Health Reducers",
+            "Minions Counters",
+            "Snipers"
         ],
         "source": "Challenge Festival-Starfall",
         "Release date": "2021-06-10",
@@ -13876,7 +16168,7 @@ window.allHeroes =
         "family": "starfall",
         "image": "https://i.imgur.com/ISxaSzG.jpg",
         "costume_id": 0,
-        "originalIndex": 422
+        "originalIndex": 423
     },
     {
         "name": "Ekanite",
@@ -13890,6 +16182,11 @@ window.allHeroes =
             "Damage All",
             "Summoner",
             "Counterattack"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-5)",
+            "Counterattackers",
+            "Minions Summoners"
         ],
         "source": "Tower-Ninjas",
         "Release date": "2023-01-11",
@@ -13917,7 +16214,7 @@ window.allHeroes =
         "family": "ninja",
         "image": "https://i.imgur.com/YQskc4O.jpg",
         "costume_id": 0,
-        "originalIndex": 423
+        "originalIndex": 424
     },
     {
         "name": "El Naddaha",
@@ -13930,6 +16227,10 @@ window.allHeroes =
         "types": [
             "Hit 3",
             "Buff Immunity"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-3)",
+            "Buff Blockers"
         ],
         "source": "S5-Dune",
         "Release date": "2022-04-21",
@@ -13950,7 +16251,7 @@ window.allHeroes =
         "family": "moon",
         "image": "https://i.imgur.com/IdGJmNB.jpg",
         "costume_id": 0,
-        "originalIndex": 424
+        "originalIndex": 425
     },
     {
         "name": "El Naddaha C1",
@@ -13963,6 +16264,11 @@ window.allHeroes =
         "types": [
             "Hit 3",
             "Buff Immunity"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-3)",
+            "Buff Blockers",
+            "Dispellers"
         ],
         "source": "S5-Dune",
         "Release date": "2025-01-20",
@@ -13985,7 +16291,7 @@ window.allHeroes =
         "family": "moon",
         "image": "https://i.imgur.com/okhmn3A.jpg",
         "costume_id": 1,
-        "originalIndex": 425
+        "originalIndex": 426
     },
     {
         "name": "Elkanen",
@@ -13998,6 +16304,10 @@ window.allHeroes =
         "types": [
             "Hit 3",
             "Self Heal"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-3)",
+            "Healers (Special)"
         ],
         "source": "S1-Classic",
         "Release date": "2017-01-01",
@@ -14014,7 +16324,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/gkqoNuc.jpg",
         "costume_id": 0,
-        "originalIndex": 426
+        "originalIndex": 427
     },
     {
         "name": "Elkanen C1",
@@ -14027,6 +16337,11 @@ window.allHeroes =
         "types": [
             "Hit 3",
             "Healing Steal"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-3)",
+            "Healers (Special)",
+            "Healing Reducers"
         ],
         "source": "S1-Classic",
         "Release date": "2020-05-18",
@@ -14043,7 +16358,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/r8h2KIN.jpg",
         "costume_id": 1,
-        "originalIndex": 427
+        "originalIndex": 428
     },
     {
         "name": "Elkanen C2",
@@ -14056,6 +16371,10 @@ window.allHeroes =
         "types": [
             "Hit All",
             "Healing Decrease"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-5)",
+            "Healing Reducers"
         ],
         "source": "S1-Classic",
         "Release date": "2022-09-05",
@@ -14072,7 +16391,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/45ULmYn.jpg",
         "costume_id": 2,
-        "originalIndex": 428
+        "originalIndex": 429
     },
     {
         "name": "Elkanen Toon",
@@ -14085,6 +16404,11 @@ window.allHeroes =
         "types": [
             "Hit 3",
             "Self Heal"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-3)",
+            "Extra Damage Dealers",
+            "Healers (Special)"
         ],
         "source": "S1-Classic",
         "Release date": "2023-11-27",
@@ -14104,7 +16428,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/6SvyBu6.jpg",
         "costume_id": 3,
-        "originalIndex": 429
+        "originalIndex": 430
     },
     {
         "name": "Elkanen Glass",
@@ -14117,6 +16441,11 @@ window.allHeroes =
         "types": [
             "Hit 3",
             "Self Heal"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-3)",
+            "Bypassers",
+            "Healers (Special)"
         ],
         "source": "S1-Classic",
         "Release date": "2025-01-14",
@@ -14136,7 +16465,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/5zN8JJz.jpg",
         "costume_id": 4,
-        "originalIndex": 430
+        "originalIndex": 431
     },
     {
         "name": "Elradir",
@@ -14149,6 +16478,12 @@ window.allHeroes =
         "types": [
             "Hit 3",
             "Reflect Ailments Self"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-3)",
+            "AoE Attackers (Hit-5)",
+            "Mana Raisers",
+            "Reflectors"
         ],
         "source": "Hero of the Month",
         "Release date": "2021-06-01",
@@ -14169,7 +16504,7 @@ window.allHeroes =
         "family": 2021,
         "image": "https://i.imgur.com/WDClMpO.jpg",
         "costume_id": 0,
-        "originalIndex": 431
+        "originalIndex": 432
     },
     {
         "name": "Elyssa",
@@ -14184,6 +16519,13 @@ window.allHeroes =
             "Replace Ailments 3",
             "Debuff Resist 3",
             "Mana Increase on Resist 3"
+        ],
+        "skill_types": [
+            "Healers",
+            "Immunity Providers",
+            "Minions Counters",
+            "Mana Raisers",
+            "Status Effect Conversion"
         ],
         "source": "Tower-Magic",
         "Release date": "2025-04-17",
@@ -14207,7 +16549,7 @@ window.allHeroes =
         "family": "magiccarpet",
         "image": "https://imgur.com/125Oojg.jpg",
         "costume_id": 0,
-        "originalIndex": 432
+        "originalIndex": 433
     },
     {
         "name": "Enigmo",
@@ -14222,6 +16564,12 @@ window.allHeroes =
             "Hit All",
             "Memorized Minion Summoner All",
             "Memorized Fiend Summoner All"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-5)",
+            "Healers",
+            "Minions Summoners",
+            "Fiends Summoners"
         ],
         "source": "Black Friday Summon",
         "Release date": "2022-11-22",
@@ -14242,7 +16590,7 @@ window.allHeroes =
         "family": "mystery",
         "image": "https://i.imgur.com/S6ta64j.jpg",
         "costume_id": 0,
-        "originalIndex": 433
+        "originalIndex": 434
     },
     {
         "name": "Evelyn",
@@ -14256,6 +16604,12 @@ window.allHeroes =
             "Hit 3",
             "Elemental Defense Debuff",
             "Dispeller"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-3)",
+            "Debuffers (DEF)",
+            "Dispellers",
+            "Heal over Time (HoT)"
         ],
         "source": "Hero of the Month",
         "Release date": "2018-12-01T00:00:00",
@@ -14274,7 +16628,7 @@ window.allHeroes =
         "family": 2018,
         "image": "https://i.imgur.com/YnTLDcR.jpg",
         "costume_id": 0,
-        "originalIndex": 434
+        "originalIndex": 435
     },
     {
         "name": "Evelyn C1",
@@ -14288,6 +16642,13 @@ window.allHeroes =
             "Hit 3",
             "Elemental Defense Debuff",
             "Dispeller"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-3)",
+            "Debuffers (DEF)",
+            "Dispellers",
+            "Heal over Time (HoT)",
+            "Cleansers"
         ],
         "source": "Hero of the Month",
         "Release date": "2023-10-02",
@@ -14308,7 +16669,7 @@ window.allHeroes =
         "family": 2018,
         "image": "https://i.imgur.com/93B4oB9.jpg",
         "costume_id": 1,
-        "originalIndex": 435
+        "originalIndex": 436
     },
     {
         "name": "Experience Mimic Nature",
@@ -14322,6 +16683,15 @@ window.allHeroes =
             "Minion Destroyer 1",
             "Hit 1",
             "Mimic Chest"
+        ],
+        "skill_types": [
+            "Healers (Special)",
+            "Minions Counters",
+            "Snipers",
+            "Mana Raisers",
+            "Immunity Providers",
+            "Ghost Form & Hiding",
+            "Bypassers"
         ],
         "source": "Extra Draw-Secret Summon",
         "Release date": "2025-05-15",
@@ -14348,7 +16718,7 @@ window.allHeroes =
         "family": "mimic",
         "image": "https://imgur.com/5HAwmjg.jpg",
         "costume_id": 0,
-        "originalIndex": 436
+        "originalIndex": 437
     },
     {
         "name": "Fafnir",
@@ -14362,6 +16732,15 @@ window.allHeroes =
             "Frostfall Strike 3",
             "Received Damage Debuff 3",
             "Reflect Buffs 3"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-3)",
+            "DoT Attackers",
+            "Extra Damage Dealers",
+            "Debuffers (ATK)",
+            "Reflectors",
+            "Bypassers",
+            "Minions Counters"
         ],
         "source": "S6-S7-Untold Tales",
         "Release date": "2025-06-13",
@@ -14384,7 +16763,7 @@ window.allHeroes =
         "family": "myrkheim",
         "image": "https://imgur.com/4ndmZBW.jpg",
         "costume_id": 0,
-        "originalIndex": 437
+        "originalIndex": 438
     },
     {
         "name": "Februus",
@@ -14399,6 +16778,12 @@ window.allHeroes =
             "Cleanser All",
             "HoT All",
             "Dot All"
+        ],
+        "skill_types": [
+            "Cleansers",
+            "DoT Attackers",
+            "Fiends Counters",
+            "Heal over Time (HoT)"
         ],
         "source": "Challenge-Carnival of Gods",
         "Release date": "2023-11-02",
@@ -14420,7 +16805,7 @@ window.allHeroes =
         "family": "maskedgod",
         "image": "https://i.imgur.com/uBNXICu.jpg",
         "costume_id": 0,
-        "originalIndex": 438
+        "originalIndex": 439
     },
     {
         "name": "Ferrus",
@@ -14434,6 +16819,13 @@ window.allHeroes =
             "Hit 3",
             "DoT",
             "Elemental Defense Debuff"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-3)",
+            "Debuffers (DEF)",
+            "DoT Attackers",
+            "Mana Reducers or Blockers",
+            "Minions Counters"
         ],
         "source": "Covenant Summon",
         "Release date": "2023-06-28",
@@ -14454,7 +16846,7 @@ window.allHeroes =
         "family": "construct",
         "image": "https://i.imgur.com/cdOOWSr.jpg",
         "costume_id": 0,
-        "originalIndex": 439
+        "originalIndex": 440
     },
     {
         "name": "Foxley",
@@ -14468,6 +16860,11 @@ window.allHeroes =
             "Hit 3",
             "Lasting DoT 3",
             "Delayed Paralysis 3"
+        ],
+        "skill_types": [
+            "DoT Attackers",
+            "AoE Attackers (Hit-3)",
+            "Sleepweavers"
         ],
         "source": "Covenant Summon",
         "Release date": "2025-04-14T11:00:00",
@@ -14487,7 +16884,7 @@ window.allHeroes =
         "family": "fox",
         "image": "https://imgur.com/WizK6Nb.jpg",
         "costume_id": 0,
-        "originalIndex": 440
+        "originalIndex": 441
     },
     {
         "name": "Francine",
@@ -14500,6 +16897,11 @@ window.allHeroes =
         "types": [
             "Hit 3",
             "Cleanser"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-3)",
+            "Cleansers",
+            "Extra Damage Dealers"
         ],
         "source": "Monthly Event-Morlovia",
         "Release date": "2020-10-26",
@@ -14519,7 +16921,7 @@ window.allHeroes =
         "family": "morlovia",
         "image": "https://i.imgur.com/jBtXWpz.jpg",
         "costume_id": 0,
-        "originalIndex": 441
+        "originalIndex": 442
     },
     {
         "name": "Francine C1",
@@ -14532,6 +16934,11 @@ window.allHeroes =
         "types": [
             "Hit 3",
             "Cleanser"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-3)",
+            "Cleansers",
+            "Debuffers (DEF)"
         ],
         "source": "Monthly Event-Morlovia",
         "Release date": "2021-10-04",
@@ -14551,7 +16958,7 @@ window.allHeroes =
         "family": "morlovia",
         "image": "https://i.imgur.com/ObnUcTT.jpg",
         "costume_id": 1,
-        "originalIndex": 442
+        "originalIndex": 443
     },
     {
         "name": "Frigg",
@@ -14564,6 +16971,11 @@ window.allHeroes =
         "types": [
             "Hit All",
             "Defense Debuff"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-5)",
+            "Debuffers (DEF)",
+            "Extra Damage Dealers"
         ],
         "source": "S3-Valhalla",
         "Release date": "2020-08-27",
@@ -14581,7 +16993,7 @@ window.allHeroes =
         "family": "alfheim",
         "image": "https://i.imgur.com/UMxFVGq.jpg",
         "costume_id": 0,
-        "originalIndex": 443
+        "originalIndex": 444
     },
     {
         "name": "Frigg C1",
@@ -14594,6 +17006,11 @@ window.allHeroes =
         "types": [
             "Hit All",
             "Defense Debuff"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-5)",
+            "Extra Damage Dealers",
+            "Debuffers (DEF)"
         ],
         "source": "S3-Valhalla",
         "Release date": "2023-01-16",
@@ -14611,7 +17028,7 @@ window.allHeroes =
         "family": "alfheim",
         "image": "https://i.imgur.com/G0IAEBg.jpg",
         "costume_id": 1,
-        "originalIndex": 444
+        "originalIndex": 445
     },
     {
         "name": "Frog Prince",
@@ -14625,6 +17042,13 @@ window.allHeroes =
             "Hit All",
             "DoT",
             "Mana gen debuff"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-5)",
+            "Damage Sharers",
+            "DoT Attackers",
+            "Mana Raisers",
+            "Mana Reducers or Blockers"
         ],
         "source": "Challenge Festival-Grim Forest",
         "Release date": "2023-08-10",
@@ -14643,7 +17067,7 @@ window.allHeroes =
         "family": "grimforest",
         "image": "https://i.imgur.com/b7feuiD.jpg",
         "costume_id": 0,
-        "originalIndex": 445
+        "originalIndex": 446
     },
     {
         "name": "Frond",
@@ -14655,6 +17079,12 @@ window.allHeroes =
         "skill": "Fury of the Ancient Forest",
         "types": [
             "Hit 3"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-3)",
+            "Extra Damage Dealers",
+            "Buffers (ATK)",
+            "AoE Attackers (Hit-5)"
         ],
         "source": "Covenant Summon",
         "Release date": "2023-10-28",
@@ -14675,7 +17105,7 @@ window.allHeroes =
         "family": "construct",
         "image": "https://i.imgur.com/ThTeBHZ.jpg",
         "costume_id": 0,
-        "originalIndex": 446
+        "originalIndex": 447
     },
     {
         "name": "Fungustine",
@@ -14690,6 +17120,12 @@ window.allHeroes =
             "Sticky surface",
             "Defense buff",
             "Buff dispell immunity"
+        ],
+        "skill_types": [
+            "Buff Stealers",
+            "Buffers (DEF)",
+            "Health Boosters",
+            "Immunity Providers"
         ],
         "source": "Solstice Summon",
         "Release date": "2024-06-18",
@@ -14712,7 +17148,7 @@ window.allHeroes =
         "family": "slime",
         "image": "https://i.imgur.com/RTB91u9.jpg",
         "costume_id": 0,
-        "originalIndex": 447
+        "originalIndex": 448
     },
     {
         "name": "Galapago",
@@ -14726,6 +17162,13 @@ window.allHeroes =
             "Minion Destroyer All",
             "Hit all",
             "Defense Buff All"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-5)",
+            "Buffers (DEF)",
+            "Minions Counters",
+            "Stacking Heroes",
+            "Heal over Time (HoT)"
         ],
         "source": "S6-S7-Untold Tales",
         "Release date": "2023-06-07",
@@ -14755,7 +17198,7 @@ window.allHeroes =
         "family": "defendersofatlantis",
         "image": "https://i.imgur.com/pxAZGoS.jpg",
         "costume_id": 0,
-        "originalIndex": 448
+        "originalIndex": 449
     },
     {
         "name": "Galapago C1",
@@ -14769,6 +17212,13 @@ window.allHeroes =
             "Destroy Minions",
             "Hit all",
             "Defense Buffer"
+        ],
+        "skill_types": [
+            "Minions Counters",
+            "AoE Attackers (Hit-5)",
+            "Buffers (DEF)",
+            "Heal over Time (HoT)",
+            "Stacking Heroes"
         ],
         "source": "S6-S7-Untold Tales",
         "Release date": "2024-07-27",
@@ -14798,7 +17248,7 @@ window.allHeroes =
         "family": "defendersofatlantis",
         "image": "https://i.imgur.com/hvltSu6.jpg",
         "costume_id": 1,
-        "originalIndex": 449
+        "originalIndex": 450
     },
     {
         "name": "Garjammal",
@@ -14811,6 +17261,10 @@ window.allHeroes =
         "types": [
             "Hit 1",
             "Self HoT"
+        ],
+        "skill_types": [
+            "Heal over Time (HoT)",
+            "Snipers"
         ],
         "source": "S4-Wilderness",
         "Release date": "2021-04-22",
@@ -14829,7 +17283,7 @@ window.allHeroes =
         "family": "underwild",
         "image": "https://i.imgur.com/kz19bRj.jpg",
         "costume_id": 0,
-        "originalIndex": 450
+        "originalIndex": 451
     },
     {
         "name": "Garjammal C1",
@@ -14842,6 +17296,12 @@ window.allHeroes =
         "types": [
             "Hit 1",
             "Self HoT"
+        ],
+        "skill_types": [
+            "Heal over Time (HoT)",
+            "Snipers",
+            "Buffers (ATK)",
+            "Extra Damage Dealers"
         ],
         "source": "S4-Wilderness",
         "Release date": "2023-06-22",
@@ -14861,7 +17321,7 @@ window.allHeroes =
         "family": "underwild",
         "image": "https://i.imgur.com/U99nNNm.jpg",
         "costume_id": 1,
-        "originalIndex": 451
+        "originalIndex": 452
     },
     {
         "name": "Garten",
@@ -14876,6 +17336,13 @@ window.allHeroes =
             "Health reduction",
             "Softskin 4",
             "Healing debuff imunity"
+        ],
+        "skill_types": [
+            "Cleansers",
+            "Damage Reducers",
+            "Health Boosters",
+            "Immunity Providers",
+            "Max Health Reducers"
         ],
         "source": "Challenge-Return to Sanctuary",
         "Release date": "2024-02-27",
@@ -14896,7 +17363,7 @@ window.allHeroes =
         "family": "gargoyle",
         "image": "https://i.imgur.com/8K8mMLw.jpg",
         "costume_id": 0,
-        "originalIndex": 452
+        "originalIndex": 453
     },
     {
         "name": "Gelert",
@@ -14910,6 +17377,13 @@ window.allHeroes =
             "Mana steal",
             "Hit 1",
             "Mana gen Buff"
+        ],
+        "skill_types": [
+            "Mana Generation Buffers",
+            "Mana Raisers",
+            "Mana Reducers or Blockers",
+            "Snipers",
+            "Extra Damage Dealers"
         ],
         "source": "S6-S7-Untold Tales",
         "Release date": "2023-08-30",
@@ -14939,7 +17413,7 @@ window.allHeroes =
         "family": "defendersofatlantis",
         "image": "https://i.imgur.com/WjoVn5I.jpg",
         "costume_id": 0,
-        "originalIndex": 453
+        "originalIndex": 454
     },
     {
         "name": "Ginger",
@@ -14953,6 +17427,11 @@ window.allHeroes =
             "Summoner",
             "Assist Hit 1",
             "SS Damage Buff All"
+        ],
+        "skill_types": [
+            "Buffers (ATK)",
+            "Chain & Random Attackers",
+            "Minions Summoners"
         ],
         "source": "Monthly Event-Winter",
         "Release date": "2023-12-01",
@@ -14970,7 +17449,7 @@ window.allHeroes =
         "family": "christmas",
         "image": "https://i.imgur.com/U9fsiDu.jpg",
         "costume_id": 0,
-        "originalIndex": 454
+        "originalIndex": 455
     },
     {
         "name": "Goorian",
@@ -14984,6 +17463,11 @@ window.allHeroes =
             "Hit All",
             "Defense Debuff All",
             "Self Slime Revive"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-5)",
+            "Debuffers (DEF)",
+            "Revivers"
         ],
         "source": "Super Elementals",
         "Release date": "2025-03-17",
@@ -15010,7 +17494,7 @@ window.allHeroes =
         "family": "slime",
         "image": "https://i.imgur.com/e1nrPfv.jpg",
         "costume_id": 0,
-        "originalIndex": 455
+        "originalIndex": 456
     },
     {
         "name": "Grace",
@@ -15024,6 +17508,13 @@ window.allHeroes =
             "Hit 3",
             "Taunt Blocker 3",
             "SS Defense Debuff 3"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-3)",
+            "Debuffers (DEF)",
+            "Fiends Counters",
+            "Immunity Providers",
+            "Taunters"
         ],
         "source": "Hero of the Month",
         "Release date": "2022-09-01",
@@ -15045,7 +17536,7 @@ window.allHeroes =
         "family": 2022,
         "image": "https://i.imgur.com/GvwTLSo.jpg",
         "costume_id": 0,
-        "originalIndex": 456
+        "originalIndex": 457
     },
     {
         "name": "Green Knight",
@@ -15059,6 +17550,11 @@ window.allHeroes =
             "Defense debuff",
             "Hit all",
             "Self Resurrection"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-5)",
+            "Debuffers (DEF)",
+            "Revivers"
         ],
         "source": "Challenge Festival-Avalon",
         "Release date": "2023-04-20",
@@ -15076,7 +17572,7 @@ window.allHeroes =
         "family": "avalon",
         "image": "https://i.imgur.com/4LKxVef.jpg",
         "costume_id": 0,
-        "originalIndex": 457
+        "originalIndex": 458
     },
     {
         "name": "Gregorion",
@@ -15089,6 +17585,11 @@ window.allHeroes =
         "types": [
             "Hit 1",
             "Critical Hit Buff"
+        ],
+        "skill_types": [
+            "Buffers (ATK)",
+            "Snipers",
+            "Buffers (DEF)"
         ],
         "source": "Hero of the Month",
         "Release date": "2018-07-01T00:00:00",
@@ -15106,7 +17607,7 @@ window.allHeroes =
         "family": 2018,
         "image": "https://i.imgur.com/Vz5Hvbn.jpg",
         "costume_id": 0,
-        "originalIndex": 458
+        "originalIndex": 459
     },
     {
         "name": "Gregorion C1",
@@ -15119,6 +17620,12 @@ window.allHeroes =
         "types": [
             "Hit 1",
             "Critical Hit Buff"
+        ],
+        "skill_types": [
+            "Buffers (ATK)",
+            "Snipers",
+            "Buffers (DEF)",
+            "Dispellers"
         ],
         "source": "Hero of the Month",
         "Release date": "2024-03-08",
@@ -15138,7 +17645,7 @@ window.allHeroes =
         "family": 2018,
         "image": "https://i.imgur.com/ONemvil.jpg",
         "costume_id": 1,
-        "originalIndex": 459
+        "originalIndex": 460
     },
     {
         "name": "Grendel",
@@ -15153,6 +17660,12 @@ window.allHeroes =
             "Hit 3",
             "DoT 3",
             "Self HoT"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-3)",
+            "DoT Attackers",
+            "Heal over Time (HoT)",
+            "Debuffers (DEF)"
         ],
         "source": "Challenge-Beowulf",
         "Release date": "2025-02-13",
@@ -15175,7 +17688,7 @@ window.allHeroes =
         "family": "beowulf",
         "image": "https://i.imgur.com/ijEHGWi.jpg",
         "costume_id": 0,
-        "originalIndex": 460
+        "originalIndex": 461
     },
     {
         "name": "Grovevert",
@@ -15188,6 +17701,14 @@ window.allHeroes =
         "types": [
             "Delayed Self Mana Boost",
             "Moss Mothling Mega Fiend"
+        ],
+        "skill_types": [
+            "Fiends Summoners",
+            "Mana Reducers or Blockers",
+            "Mana Raisers",
+            "DoT Attackers",
+            "Dodgers",
+            "Minions Counters"
         ],
         "source": "Alliance-Moths",
         "Release date": "2025-01-23",
@@ -15208,7 +17729,7 @@ window.allHeroes =
         "family": "moth",
         "image": "https://i.imgur.com/0Q3pYS0.jpg",
         "costume_id": 0,
-        "originalIndex": 461
+        "originalIndex": 462
     },
     {
         "name": "Guan Yu",
@@ -15222,6 +17743,11 @@ window.allHeroes =
             "Hit 3",
             "Bypass Minions",
             "Defense Debuff"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-3)",
+            "Debuffers (DEF)",
+            "Minions Counters"
         ],
         "source": "Three Kingdoms Summon",
         "Release date": "2022-03-14T12:00:00",
@@ -15239,7 +17765,7 @@ window.allHeroes =
         "family": "kingdom",
         "image": "https://i.imgur.com/nDiRoqi.jpg",
         "costume_id": 0,
-        "originalIndex": 462
+        "originalIndex": 463
     },
     {
         "name": "Guan Yu C1",
@@ -15253,6 +17779,11 @@ window.allHeroes =
             "Hit 3",
             "Bypass Minions",
             "Defense Debuff"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-3)",
+            "Debuffers (DEF)",
+            "Minions Counters"
         ],
         "source": "Three Kingdoms Summon",
         "Release date": "2024-10-01",
@@ -15275,7 +17806,7 @@ window.allHeroes =
         "family": "kingdom",
         "image": "https://i.imgur.com/GP4J8r3.jpg",
         "costume_id": 1,
-        "originalIndex": 463
+        "originalIndex": 464
     },
     {
         "name": "Guardian Chameleon",
@@ -15290,6 +17821,12 @@ window.allHeroes =
             "Attack Buff",
             "Critical Buff",
             "Element Change"
+        ],
+        "skill_types": [
+            "Buffers (ATK)",
+            "Dispellers",
+            "Cleansers",
+            "Status Effects Blockers"
         ],
         "source": "Challenge Festival-Guardians",
         "Release date": "2020-01-08",
@@ -15308,7 +17845,7 @@ window.allHeroes =
         "family": "guardiansteltoc",
         "image": "https://i.imgur.com/Q04Vvnt.jpg",
         "costume_id": 0,
-        "originalIndex": 464
+        "originalIndex": 465
     },
     {
         "name": "Hammertusk",
@@ -15321,6 +17858,11 @@ window.allHeroes =
         "types": [
             "Hit 3",
             "Damage Receive Debuff"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-3)",
+            "DoT Attackers",
+            "Extra Damage Dealers"
         ],
         "source": "Covenant Summon",
         "Release date": "2022-11-12",
@@ -15340,7 +17882,7 @@ window.allHeroes =
         "family": "plainshunter",
         "image": "https://i.imgur.com/pL7PYXM.jpg",
         "costume_id": 0,
-        "originalIndex": 465
+        "originalIndex": 466
     },
     {
         "name": "Haulstone",
@@ -15356,6 +17898,14 @@ window.allHeroes =
             "Mana Generation Buff",
             "Healer",
             "Counterattack"
+        ],
+        "skill_types": [
+            "Buffers (ATK)",
+            "Buffers (DEF)",
+            "Counterattackers",
+            "Heal over Time (HoT)",
+            "Mana Generation Buffers",
+            "Health Boosters"
         ],
         "source": "Covenant Summon",
         "Release date": "2023-06-28",
@@ -15374,7 +17924,7 @@ window.allHeroes =
         "family": "construct",
         "image": "https://i.imgur.com/nDQGLk9.jpg",
         "costume_id": 0,
-        "originalIndex": 466
+        "originalIndex": 467
     },
     {
         "name": "Heimdall",
@@ -15388,6 +17938,11 @@ window.allHeroes =
             "Health Boost",
             "Reviver",
             "Attack Buff"
+        ],
+        "skill_types": [
+            "Buffers (ATK)",
+            "Health Boosters",
+            "Revivers"
         ],
         "source": "S3-Valhalla",
         "Release date": "2020-02-27",
@@ -15405,7 +17960,7 @@ window.allHeroes =
         "family": "asgard",
         "image": "https://i.imgur.com/bjKzbra.jpg",
         "costume_id": 0,
-        "originalIndex": 467
+        "originalIndex": 468
     },
     {
         "name": "Heimdall C1",
@@ -15419,6 +17974,12 @@ window.allHeroes =
             "Revive",
             "Attack Buff",
             "Regeneration"
+        ],
+        "skill_types": [
+            "Buffers (ATK)",
+            "Health Boosters",
+            "Revivers",
+            "Heal over Time (HoT)"
         ],
         "source": "S3-Valhalla",
         "Release date": "2022-10-24",
@@ -15436,7 +17997,7 @@ window.allHeroes =
         "family": "asgard",
         "image": "https://i.imgur.com/YoTKnv0.jpg",
         "costume_id": 1,
-        "originalIndex": 468
+        "originalIndex": 469
     },
     {
         "name": "Horghall",
@@ -15449,6 +18010,10 @@ window.allHeroes =
         "types": [
             "Hit All",
             "Attack Debuff All"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-5)",
+            "Debuffers (ATK)"
         ],
         "source": "S1-Classic",
         "Release date": "2017-01-01",
@@ -15465,7 +18030,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/6787feX.jpg",
         "costume_id": 0,
-        "originalIndex": 469
+        "originalIndex": 470
     },
     {
         "name": "Horghall C1",
@@ -15478,6 +18043,10 @@ window.allHeroes =
         "types": [
             "Hit All",
             "Attack Debuff All"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-5)",
+            "Debuffers (ATK)"
         ],
         "source": "S1-Classic",
         "Release date": "2020-01-01",
@@ -15494,7 +18063,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/AffGFoZ.jpg",
         "costume_id": 1,
-        "originalIndex": 470
+        "originalIndex": 471
     },
     {
         "name": "Horghall C2",
@@ -15509,6 +18078,12 @@ window.allHeroes =
             "Attack Debuff All",
             "Defense Debuff All",
             "Dot All"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-5)",
+            "Debuffers (ATK)",
+            "Debuffers (DEF)",
+            "DoT Attackers"
         ],
         "source": "S1-Classic",
         "Release date": "2022-10-31",
@@ -15527,7 +18102,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/IfQ1lHo.jpg",
         "costume_id": 2,
-        "originalIndex": 471
+        "originalIndex": 472
     },
     {
         "name": "Horghall Toon",
@@ -15540,6 +18115,11 @@ window.allHeroes =
         "types": [
             "Hit All",
             "Attack Debuff"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-5)",
+            "Debuffers (ATK)",
+            "Extra Damage Dealers"
         ],
         "source": "S1-Classic",
         "Release date": "2024-07-16",
@@ -15559,7 +18139,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/VkOyyRt.jpg",
         "costume_id": 3,
-        "originalIndex": 472
+        "originalIndex": 473
     },
     {
         "name": "Humbert",
@@ -15574,7 +18154,13 @@ window.allHeroes =
             "Health Boost All",
             "Defense Buff"
         ],
-        "source": "Alliance-Knights Charge",
+        "skill_types": [
+            "AoE Attackers (Hit-5)",
+            "Healers (Special)",
+            "Buffers (DEF)",
+            "Health Boosters"
+        ],
+        "source": "Alliance-Knights Clash",
         "Release date": "2024-06-05",
         "star": 5,
         "power": 1079,
@@ -15592,7 +18178,7 @@ window.allHeroes =
         "family": "bear",
         "image": "https://i.imgur.com/wk8es22.jpg",
         "costume_id": 0,
-        "originalIndex": 473
+        "originalIndex": 474
     },
     {
         "name": "Iku-Turso",
@@ -15606,6 +18192,12 @@ window.allHeroes =
             "Hit 3",
             "Dot 3",
             "Healing Steal"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-3)",
+            "DoT Attackers",
+            "Healers (Special)",
+            "Healing Reducers"
         ],
         "source": "Monthly Event-Kalevala",
         "Release date": "2022-06-20",
@@ -15625,7 +18217,7 @@ window.allHeroes =
         "family": "kalevala",
         "image": "https://i.imgur.com/wOeJMxg.jpg",
         "costume_id": 0,
-        "originalIndex": 474
+        "originalIndex": 475
     },
     {
         "name": "Ito",
@@ -15639,6 +18231,15 @@ window.allHeroes =
             "Hit 1/3/5",
             "Boosts Healt All",
             "Mana generation Debuff"
+        ],
+        "skill_types": [
+            "Snipers",
+            "AoE Attackers (Hit-3)",
+            "AoE Attackers (Hit-5)",
+            "Healers (Special)",
+            "Mana Reducers or Blockers",
+            "Health Boosters",
+            "Minions Counters"
         ],
         "source": "Tower-Ninjas",
         "Release date": "2024-12-05",
@@ -15668,7 +18269,7 @@ window.allHeroes =
         "family": "ninja",
         "image": "https://i.imgur.com/TBhE7C4.jpg",
         "costume_id": 0,
-        "originalIndex": 475
+        "originalIndex": 476
     },
     {
         "name": "Jade",
@@ -15683,6 +18284,11 @@ window.allHeroes =
             "Hit all",
             "Mana Reduction",
             "Dodge Buff"
+        ],
+        "skill_types": [
+            "Dodgers",
+            "Mana Reducers or Blockers",
+            "AoE Attackers (Hit-5)"
         ],
         "source": "Tower-Ninjas",
         "Release date": "2020-10-13",
@@ -15709,7 +18315,7 @@ window.allHeroes =
         "family": "ninja",
         "image": "https://i.imgur.com/tVOg6Mz.jpg",
         "costume_id": 0,
-        "originalIndex": 476
+        "originalIndex": 477
     },
     {
         "name": "Kadilen",
@@ -15722,6 +18328,10 @@ window.allHeroes =
         "types": [
             "Hit All",
             "Special Skill Defense Buff"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-5)",
+            "Buffers (DEF)"
         ],
         "source": "S1-Classic",
         "Release date": "2017-01-01",
@@ -15738,7 +18348,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/Gjh3PRB.jpg",
         "costume_id": 0,
-        "originalIndex": 477
+        "originalIndex": 478
     },
     {
         "name": "Kadilen C1",
@@ -15751,6 +18361,11 @@ window.allHeroes =
         "types": [
             "Hit All",
             "Minion Dodge Buff"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-5)",
+            "Dodgers",
+            "Minions Summoners"
         ],
         "source": "S1-Classic",
         "Release date": "2020-05-18",
@@ -15768,7 +18383,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/N7LZ2EP.jpg",
         "costume_id": 1,
-        "originalIndex": 478
+        "originalIndex": 479
     },
     {
         "name": "Kadilen C2",
@@ -15781,6 +18396,11 @@ window.allHeroes =
         "types": [
             "Hit All",
             "Minion Dodge Buff"
+        ],
+        "skill_types": [
+            "Dodgers",
+            "Minions Summoners",
+            "AoE Attackers (Hit-5)"
         ],
         "source": "S1-Classic",
         "Release date": "2023-04-17",
@@ -15798,7 +18418,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/hEckaC5.jpg",
         "costume_id": 2,
-        "originalIndex": 479
+        "originalIndex": 480
     },
     {
         "name": "Kadilen Toon",
@@ -15811,6 +18431,11 @@ window.allHeroes =
         "types": [
             "Hit All",
             "Special Skill Defense Buff"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-5)",
+            "Buffers (DEF)",
+            "Extra Damage Dealers"
         ],
         "source": "S1-Classic",
         "Release date": "2024-10-06",
@@ -15830,7 +18455,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/I1ETLXX.jpg",
         "costume_id": 3,
-        "originalIndex": 480
+        "originalIndex": 481
     },
     {
         "name": "Kai",
@@ -15845,6 +18470,13 @@ window.allHeroes =
             "Fiend Summoner 1",
             "Healing Debuff 1",
             "Dispeller 1"
+        ],
+        "skill_types": [
+            "Dispellers",
+            "DoT Attackers",
+            "Fiends Summoners",
+            "Snipers",
+            "Healing Reducers"
         ],
         "source": "Covenant Summon",
         "Release date": "2022-10-15",
@@ -15867,7 +18499,7 @@ window.allHeroes =
         "family": "plainshunter",
         "image": "https://i.imgur.com/D9rMcBZ.jpg",
         "costume_id": 0,
-        "originalIndex": 481
+        "originalIndex": 482
     },
     {
         "name": "Kingston",
@@ -15880,6 +18512,11 @@ window.allHeroes =
         "types": [
             "Hit 1",
             "Attack Debuff"
+        ],
+        "skill_types": [
+            "Debuffers (ATK)",
+            "Mana Generation Buffers",
+            "Snipers"
         ],
         "source": "Hero of the Month",
         "Release date": "2019-10-01",
@@ -15899,7 +18536,7 @@ window.allHeroes =
         "family": 2019,
         "image": "https://i.imgur.com/rlpoKXr.jpg",
         "costume_id": 0,
-        "originalIndex": 482
+        "originalIndex": 483
     },
     {
         "name": "Kolya",
@@ -15913,6 +18550,13 @@ window.allHeroes =
             "Dispel latest buff",
             "Hit All",
             "Shield Guard Mega Minion"
+        ],
+        "skill_types": [
+            "Dispellers",
+            "AoE Attackers (Hit-5)",
+            "Extra Damage Dealers",
+            "Mega Minions Summoners",
+            "Cleansers"
         ],
         "source": "Goblin Summon",
         "Release date": "2024-11-24",
@@ -15935,7 +18579,7 @@ window.allHeroes =
         "family": "garrisonguard",
         "image": "https://i.imgur.com/joEtnuS.jpg",
         "costume_id": 0,
-        "originalIndex": 483
+        "originalIndex": 484
     },
     {
         "name": "Lady Locke",
@@ -15948,6 +18592,10 @@ window.allHeroes =
         "types": [
             "DoT 3",
             "Cleanser All"
+        ],
+        "skill_types": [
+            "Cleansers",
+            "DoT Attackers"
         ],
         "source": "Challenge Festival-Pirates",
         "Release date": "2017-09-01",
@@ -15964,7 +18612,7 @@ window.allHeroes =
         "family": "corellia",
         "image": "https://i.imgur.com/rSEO0Xi.jpg",
         "costume_id": 0,
-        "originalIndex": 484
+        "originalIndex": 485
     },
     {
         "name": "Lady Locke C1",
@@ -15978,6 +18626,11 @@ window.allHeroes =
             "Hit 3",
             "DoT 3",
             "Cleanser All"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-3)",
+            "Cleansers",
+            "DoT Attackers"
         ],
         "source": "Challenge Festival-Pirates",
         "Release date": "2023-12-28",
@@ -15997,7 +18650,7 @@ window.allHeroes =
         "family": "corellia",
         "image": "https://i.imgur.com/mpM0YIf.jpg",
         "costume_id": 1,
-        "originalIndex": 485
+        "originalIndex": 486
     },
     {
         "name": "Lady of the Lake",
@@ -16011,6 +18664,11 @@ window.allHeroes =
             "Healer",
             "Summoner",
             "Mana Reduction"
+        ],
+        "skill_types": [
+            "Healers",
+            "Mana Reducers or Blockers",
+            "Minions Summoners"
         ],
         "source": "Challenge Festival-Avalon",
         "Release date": "2017-01-01",
@@ -16028,7 +18686,7 @@ window.allHeroes =
         "family": "avalon",
         "image": "https://i.imgur.com/hlRFlMx.jpg",
         "costume_id": 0,
-        "originalIndex": 486
+        "originalIndex": 487
     },
     {
         "name": "Lady of the Lake C1",
@@ -16041,6 +18699,11 @@ window.allHeroes =
         "types": [
             "Health Boost",
             "Summoner"
+        ],
+        "skill_types": [
+            "Health Boosters",
+            "Mana Reducers or Blockers",
+            "Minions Summoners"
         ],
         "source": "Challenge Festival-Avalon",
         "Release date": "2021-12-15",
@@ -16059,7 +18722,7 @@ window.allHeroes =
         "family": "avalon",
         "image": "https://i.imgur.com/T9XV0yp.jpg",
         "costume_id": 1,
-        "originalIndex": 487
+        "originalIndex": 488
     },
     {
         "name": "Leadria",
@@ -16071,6 +18734,11 @@ window.allHeroes =
         "skill": "Spirit of Spring",
         "types": [
             "Summoner"
+        ],
+        "skill_types": [
+            "Buffers (ATK)",
+            "Health Boosters",
+            "Minions Summoners"
         ],
         "source": "Hero of the Month",
         "Release date": "2023-12-01",
@@ -16092,7 +18760,7 @@ window.allHeroes =
         "family": 2023,
         "image": "https://i.imgur.com/YdTKSoW.jpg",
         "costume_id": 0,
-        "originalIndex": 488
+        "originalIndex": 489
     },
     {
         "name": "Leafwhisk",
@@ -16105,6 +18773,11 @@ window.allHeroes =
         "types": [
             "Growth defense",
             "Mega Minion"
+        ],
+        "skill_types": [
+            "Ability Scores Modifiers",
+            "Immunity Providers",
+            "Mega Minions Summoners"
         ],
         "source": "Goblin Summon",
         "Release date": "2023-12-11",
@@ -16126,7 +18799,7 @@ window.allHeroes =
         "family": "goblin",
         "image": "https://i.imgur.com/Y6zioBg.jpg",
         "costume_id": 0,
-        "originalIndex": 489
+        "originalIndex": 490
     },
     {
         "name": "Leonie",
@@ -16139,6 +18812,12 @@ window.allHeroes =
         "types": [
             "Hit 3",
             "DoT 3"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-3)",
+            "DoT Attackers",
+            "Debuffers (DEF)",
+            "Revivers"
         ],
         "source": "Birthday Summon",
         "Release date": "2025-03-17",
@@ -16165,7 +18844,7 @@ window.allHeroes =
         "family": "wildcat",
         "image": "https://i.imgur.com/nW3onBB.jpg",
         "costume_id": 0,
-        "originalIndex": 490
+        "originalIndex": 491
     },
     {
         "name": "Lianna",
@@ -16177,6 +18856,9 @@ window.allHeroes =
         "skill": "Perfect Shot",
         "types": [
             "Hit 1"
+        ],
+        "skill_types": [
+            "Snipers"
         ],
         "source": "S1-Classic",
         "Release date": "2017-01-01",
@@ -16192,7 +18874,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/uJj6MQb.jpg",
         "costume_id": 0,
-        "originalIndex": 491
+        "originalIndex": 492
     },
     {
         "name": "Lianna C1",
@@ -16205,6 +18887,10 @@ window.allHeroes =
         "types": [
             "Hit 1",
             "Mana Generation Debuff"
+        ],
+        "skill_types": [
+            "Mana Reducers or Blockers",
+            "Snipers"
         ],
         "source": "S1-Classic",
         "Release date": "2020-01-01",
@@ -16221,7 +18907,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/ieaiSor.jpg",
         "costume_id": 1,
-        "originalIndex": 492
+        "originalIndex": 493
     },
     {
         "name": "Lianna C2",
@@ -16234,6 +18920,10 @@ window.allHeroes =
         "types": [
             "Hit 1",
             "Silencer"
+        ],
+        "skill_types": [
+            "Silencers",
+            "Snipers"
         ],
         "source": "S1-Classic",
         "Release date": "2023-04-17",
@@ -16250,7 +18940,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/UwDUNi0.jpg",
         "costume_id": 2,
-        "originalIndex": 493
+        "originalIndex": 494
     },
     {
         "name": "Lianna Toon",
@@ -16262,6 +18952,10 @@ window.allHeroes =
         "skill": "Toon Shot",
         "types": [
             "Hit 1"
+        ],
+        "skill_types": [
+            "Extra Damage Dealers",
+            "Snipers"
         ],
         "source": "S1-Classic",
         "Release date": "2024-02-12",
@@ -16280,7 +18974,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/yEECSzl.jpg",
         "costume_id": 3,
-        "originalIndex": 494
+        "originalIndex": 495
     },
     {
         "name": "Lianna Glass",
@@ -16293,6 +18987,10 @@ window.allHeroes =
         "types": [
             "Hit 1",
             "Bypass"
+        ],
+        "skill_types": [
+            "Bypassers",
+            "Snipers"
         ],
         "source": "S1-Classic",
         "Release date": "2025-05-10",
@@ -16311,7 +19009,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://imgur.com/Ad7sIug.jpg",
         "costume_id": 4,
-        "originalIndex": 495
+        "originalIndex": 496
     },
     {
         "name": "Limeboire",
@@ -16326,6 +19024,14 @@ window.allHeroes =
             "Deep Sleep All",
             "Steals Buffs 1",
             "Self Mana Boost"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-5)",
+            "Buff Stealers",
+            "Sleepweavers",
+            "Mana Raisers",
+            "Dodgers",
+            "Minions Counters"
         ],
         "source": "Alliance-Moths",
         "Release date": "2025-06-02",
@@ -16346,7 +19052,7 @@ window.allHeroes =
         "family": "moth",
         "image": "https://imgur.com/OeIVrwK.jpg",
         "costume_id": 0,
-        "originalIndex": 496
+        "originalIndex": 497
     },
     {
         "name": "Liu Bei",
@@ -16360,6 +19066,11 @@ window.allHeroes =
             "Hit 3",
             "Summoner",
             "Minion Counterattack"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-3)",
+            "Counterattackers",
+            "Minions Summoners"
         ],
         "source": "Three Kingdoms Summon",
         "Release date": "2022-05-23T12:00:00",
@@ -16377,7 +19088,7 @@ window.allHeroes =
         "family": "kingdom",
         "image": "https://i.imgur.com/Uq8cKe7.jpg",
         "costume_id": 0,
-        "originalIndex": 497
+        "originalIndex": 498
     },
     {
         "name": "Liu Bei C1",
@@ -16391,6 +19102,11 @@ window.allHeroes =
             "Hit 3",
             "Summoner",
             "Minion Counterattack"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-3)",
+            "Minions Summoners",
+            "Counterattackers"
         ],
         "source": "Three Kingdoms Summon",
         "Release date": "2025-01-29",
@@ -16413,7 +19129,7 @@ window.allHeroes =
         "family": "kingdom",
         "image": "https://i.imgur.com/rjnMev7.jpg",
         "costume_id": 1,
-        "originalIndex": 498
+        "originalIndex": 499
     },
     {
         "name": "Lughaidh",
@@ -16428,6 +19144,14 @@ window.allHeroes =
             "Ghost",
             "Defense Buff 4 while Ghost",
             "Boosted HoT 4 while Ghost"
+        ],
+        "skill_types": [
+            "Buffers (DEF)",
+            "Ghost Form & Hiding",
+            "Heal over Time (HoT)",
+            "Stacking Heroes",
+            "Cleansers",
+            "Health Boosters"
         ],
         "source": "S4-Wilderness",
         "Release date": "2021-11-04",
@@ -16450,7 +19174,7 @@ window.allHeroes =
         "family": "underwild",
         "image": "https://i.imgur.com/RFjr7Fi.jpg",
         "costume_id": 0,
-        "originalIndex": 499
+        "originalIndex": 500
     },
     {
         "name": "Lughaidh C1",
@@ -16465,6 +19189,13 @@ window.allHeroes =
             "Ghost",
             "Defense Buff 4 while Ghost",
             "Boosted HoT 4 while Ghost"
+        ],
+        "skill_types": [
+            "Buffers (DEF)",
+            "Ghost Form & Hiding",
+            "Heal over Time (HoT)",
+            "Cleansers",
+            "Health Boosters"
         ],
         "source": "S4-Wilderness",
         "Release date": "2024-08-29",
@@ -16487,7 +19218,7 @@ window.allHeroes =
         "family": "underwild",
         "image": "https://i.imgur.com/EAwYCZr.jpg",
         "costume_id": 1,
-        "originalIndex": 500
+        "originalIndex": 501
     },
     {
         "name": "Ma'at",
@@ -16500,6 +19231,11 @@ window.allHeroes =
         "types": [
             "Hit All",
             "Defense Debuff"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-5)",
+            "Debuffers (ATK)",
+            "Debuffers (DEF)"
         ],
         "source": "S5-Dune",
         "Release date": "2022-09-29",
@@ -16521,7 +19257,7 @@ window.allHeroes =
         "family": "sun",
         "image": "https://i.imgur.com/Lc6n5Vz.jpg",
         "costume_id": 0,
-        "originalIndex": 501
+        "originalIndex": 502
     },
     {
         "name": "Ma'at C1",
@@ -16534,6 +19270,11 @@ window.allHeroes =
         "types": [
             "Hit All",
             "Defense Debuff"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-5)",
+            "Debuffers (ATK)",
+            "Debuffers (DEF)"
         ],
         "source": "S5-Dune",
         "Release date": "2024-02-05",
@@ -16557,7 +19298,7 @@ window.allHeroes =
         "family": "sun",
         "image": "https://i.imgur.com/mjmiIt0.jpg",
         "costume_id": 1,
-        "originalIndex": 502
+        "originalIndex": 503
     },
     {
         "name": "Maegwyn",
@@ -16571,6 +19312,11 @@ window.allHeroes =
             "Healer All",
             "Boosted HoT",
             "Damage reducer All"
+        ],
+        "skill_types": [
+            "Healers",
+            "Health Boosters",
+            "Damage Reducers"
         ],
         "source": "Astral Summon",
         "Release date": "2025-01-06",
@@ -16592,7 +19338,7 @@ window.allHeroes =
         "family": "astraldwarfs",
         "image": "https://i.imgur.com/ZHoR1Fc.jpg",
         "costume_id": 0,
-        "originalIndex": 503
+        "originalIndex": 504
     },
     {
         "name": "Margaret",
@@ -16605,6 +19351,11 @@ window.allHeroes =
         "types": [
             "Hit 3",
             "Dodge Buff"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-3)",
+            "Dodgers",
+            "Mana Raisers"
         ],
         "source": "Hero of the Month",
         "Release date": "2019-05-01",
@@ -16624,7 +19375,7 @@ window.allHeroes =
         "family": 2019,
         "image": "https://i.imgur.com/3T1uKuW.jpg",
         "costume_id": 0,
-        "originalIndex": 504
+        "originalIndex": 505
     },
     {
         "name": "Max",
@@ -16637,6 +19388,11 @@ window.allHeroes =
         "types": [
             "Heal All",
             "Summoner"
+        ],
+        "skill_types": [
+            "Damage Reducers",
+            "Healers",
+            "Minions Summoners"
         ],
         "source": "Alliance-Pets",
         "Release date": "2022-11-03",
@@ -16657,7 +19413,7 @@ window.allHeroes =
         "family": "pets",
         "image": "https://i.imgur.com/V0qUVNH.jpg",
         "costume_id": 0,
-        "originalIndex": 505
+        "originalIndex": 506
     },
     {
         "name": "Mazoga",
@@ -16670,6 +19426,12 @@ window.allHeroes =
         "types": [
             "Hit 3",
             "Defense debuff"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-3)",
+            "Debuffers (DEF)",
+            "Extra Damage Dealers",
+            "DoT Attackers"
         ],
         "source": "Monthly Event-Beach Party",
         "Release date": "2024-06-03",
@@ -16690,7 +19452,7 @@ window.allHeroes =
         "family": "beachparty",
         "image": "https://i.imgur.com/1FUEzbL.jpg",
         "costume_id": 0,
-        "originalIndex": 506
+        "originalIndex": 507
     },
     {
         "name": "Mena",
@@ -16703,6 +19465,13 @@ window.allHeroes =
         "types": [
             "Hit 3",
             "Fluff Volley"
+        ],
+        "skill_types": [
+            "Chain & Random Attackers",
+            "Mana Reducers or Blockers",
+            "Damage Reducers",
+            "Immunity Providers",
+            "AoE Attackers (Hit-3)"
         ],
         "source": "Challenge-Return to Sanctuary",
         "Release date": "2024-05-16",
@@ -16723,7 +19492,7 @@ window.allHeroes =
         "family": "gargoyle",
         "image": "https://i.imgur.com/y4ORfSh.jpg",
         "costume_id": 0,
-        "originalIndex": 507
+        "originalIndex": 508
     },
     {
         "name": "Mistweaver",
@@ -16736,6 +19505,13 @@ window.allHeroes =
         "types": [
             "Hit 3",
             "Healing Immunity"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-3)",
+            "Buffers (ATK)",
+            "Healing Reducers",
+            "Stacking Heroes",
+            "DoT Attackers"
         ],
         "source": "Covenant Summon",
         "Release date": "2023-03-03",
@@ -16756,7 +19532,7 @@ window.allHeroes =
         "family": "junglehunter",
         "image": "https://i.imgur.com/F4ide5S.jpg",
         "costume_id": 0,
-        "originalIndex": 508
+        "originalIndex": 509
     },
     {
         "name": "Moonflower",
@@ -16769,6 +19545,11 @@ window.allHeroes =
         "types": [
             "Hit All",
             "Mana generation buff"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-5)",
+            "Mana Generation Buffers",
+            "Damage Sharers"
         ],
         "source": "Astral Summon",
         "Release date": "2024-03-07",
@@ -16788,7 +19569,7 @@ window.allHeroes =
         "family": "astralelves",
         "image": "https://i.imgur.com/0xgP0mx.jpg",
         "costume_id": 0,
-        "originalIndex": 509
+        "originalIndex": 510
     },
     {
         "name": "Morgan Le Fay",
@@ -16800,6 +19581,10 @@ window.allHeroes =
         "skill": "Devourer of Vitality",
         "types": [
             "Health Drain"
+        ],
+        "skill_types": [
+            "Buffers (DEF)",
+            "DoT Attackers"
         ],
         "source": "Challenge Festival-Avalon",
         "Release date": "2017-01-01",
@@ -16816,7 +19601,7 @@ window.allHeroes =
         "family": "avalon",
         "image": "https://i.imgur.com/JIPoRD4.jpg",
         "costume_id": 0,
-        "originalIndex": 510
+        "originalIndex": 511
     },
     {
         "name": "Mother North",
@@ -16830,6 +19615,11 @@ window.allHeroes =
             "Healer",
             "Reviver",
             "Summoner"
+        ],
+        "skill_types": [
+            "Healers",
+            "Minions Summoners",
+            "Revivers"
         ],
         "source": "Monthly Event-Winter",
         "Release date": "2017-01-01",
@@ -16847,7 +19637,7 @@ window.allHeroes =
         "family": "christmas",
         "image": "https://i.imgur.com/463IXXp.jpg",
         "costume_id": 0,
-        "originalIndex": 511
+        "originalIndex": 512
     },
     {
         "name": "Mother North C1",
@@ -16861,6 +19651,11 @@ window.allHeroes =
             "Reviver",
             "Summoner",
             "HoT All"
+        ],
+        "skill_types": [
+            "Heal over Time (HoT)",
+            "Minions Summoners",
+            "Revivers"
         ],
         "source": "Monthly Event-Winter",
         "Release date": "2021-12-01",
@@ -16878,7 +19673,7 @@ window.allHeroes =
         "family": "christmas",
         "image": "https://i.imgur.com/0QsTiw8.jpg",
         "costume_id": 1,
-        "originalIndex": 512
+        "originalIndex": 513
     },
     {
         "name": "Mucktus",
@@ -16892,6 +19687,12 @@ window.allHeroes =
             "Hit All",
             "Slime Fiend Summoner All",
             "Buff Stealing Fiend"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-5)",
+            "Buff Stealers",
+            "Fiends Summoners",
+            "DoT Attackers"
         ],
         "source": "Super Elementals",
         "Release date": "2024-10-02",
@@ -16913,7 +19714,7 @@ window.allHeroes =
         "family": "slime",
         "image": "https://i.imgur.com/eKwzh2k.jpg",
         "costume_id": 0,
-        "originalIndex": 513
+        "originalIndex": 514
     },
     {
         "name": "Myoin-ni",
@@ -16927,6 +19728,11 @@ window.allHeroes =
             "Healer",
             "Mana Generation Buff",
             "Defense Buff"
+        ],
+        "skill_types": [
+            "Buffers (DEF)",
+            "Health Boosters",
+            "Mana Generation Buffers"
         ],
         "source": "Tower-Ninjas",
         "Release date": "2023-04-05",
@@ -16954,7 +19760,7 @@ window.allHeroes =
         "family": "ninja",
         "image": "https://i.imgur.com/tXk6QNw.jpg",
         "costume_id": 0,
-        "originalIndex": 514
+        "originalIndex": 515
     },
     {
         "name": "Mystia",
@@ -16969,6 +19775,11 @@ window.allHeroes =
             "Defense Debuff All",
             "Elemental Reflect All",
             "Elemental Counterattack All"
+        ],
+        "skill_types": [
+            "Damage Sharers",
+            "Debuffers (DEF)",
+            "Reflectors"
         ],
         "source": "Hero of the Month",
         "Release date": "2025-02-01",
@@ -16990,7 +19801,7 @@ window.allHeroes =
         "family": 2025,
         "image": "https://i.imgur.com/igntudt.jpg",
         "costume_id": 0,
-        "originalIndex": 515
+        "originalIndex": 516
     },
     {
         "name": "Nogu",
@@ -17004,6 +19815,10 @@ window.allHeroes =
             "Hit 3",
             "DoT",
             "Boosted health convert"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-3)",
+            "Max Health Reducers"
         ],
         "source": "Myth Summon",
         "Release date": "2024-02-09",
@@ -17025,7 +19840,7 @@ window.allHeroes =
         "family": "champions",
         "image": "https://i.imgur.com/CtidFGk.jpg",
         "costume_id": 0,
-        "originalIndex": 516
+        "originalIndex": 517
     },
     {
         "name": "Ott",
@@ -17039,6 +19854,14 @@ window.allHeroes =
             "Boost Health All",
             "Firestorm Ward",
             "Buff Dispel Immunity"
+        ],
+        "skill_types": [
+            "Health Boosters",
+            "Immunity Providers",
+            "Minions Counters",
+            "Damage Reducers",
+            "DoT Attackers",
+            "Debuffers (DEF)"
         ],
         "source": "S6-S7-Untold Tales",
         "Release date": "2024-12-03",
@@ -17062,7 +19885,7 @@ window.allHeroes =
         "family": "nidavellir",
         "image": "https://i.imgur.com/XIyQFXu.jpg",
         "costume_id": 0,
-        "originalIndex": 517
+        "originalIndex": 518
     },
     {
         "name": "Penelope",
@@ -17077,6 +19900,12 @@ window.allHeroes =
             "Healer",
             "Dodge Buff",
             "Insanity"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-5)",
+            "Healers (Special)",
+            "Dodgers",
+            "Negative Effects On Self Or Allies"
         ],
         "source": "Mystery-Shadow",
         "Release date": "2025-02-06",
@@ -17095,7 +19924,7 @@ window.allHeroes =
         "family": "investigator",
         "image": "https://i.imgur.com/mxewGNK.jpg",
         "costume_id": 0,
-        "originalIndex": 518
+        "originalIndex": 519
     },
     {
         "name": "Peregrine",
@@ -17110,7 +19939,13 @@ window.allHeroes =
             "Enhanced Dodge 3",
             "Delayed Attack Buff 3"
         ],
-        "source": "S4-Wilderness",
+        "skill_types": [
+            "AoE Attackers (Hit-3)",
+            "Dodgers",
+            "Buffers (ATK)",
+            "Minions Counters"
+        ],
+        "source": "Wilderness Summon",
         "Release date": "2024-08-31",
         "star": 5,
         "power": 1137,
@@ -17129,7 +19964,7 @@ window.allHeroes =
         "family": "woodlandfaun",
         "image": "https://i.imgur.com/1bOrH83.jpg",
         "costume_id": 0,
-        "originalIndex": 519
+        "originalIndex": 520
     },
     {
         "name": "Peridot",
@@ -17143,6 +19978,13 @@ window.allHeroes =
             "Hit",
             "Dot",
             "Accuracy Debuff"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-3)",
+            "AoE Attackers (Hit-5)",
+            "Debuffers (ATK)",
+            "DoT Attackers",
+            "Snipers"
         ],
         "source": "Tower-Ninjas",
         "Release date": "2022-02-02",
@@ -17170,7 +20012,7 @@ window.allHeroes =
         "family": "ninja",
         "image": "https://i.imgur.com/E1kxfPE.jpg",
         "costume_id": 0,
-        "originalIndex": 520
+        "originalIndex": 521
     },
     {
         "name": "Phileas Fogg",
@@ -17184,6 +20026,11 @@ window.allHeroes =
             "Hit 1",
             "Elemental Debuff",
             "OP"
+        ],
+        "skill_types": [
+            "Debuffers (DEF)",
+            "Dispellers",
+            "Snipers"
         ],
         "source": "S4-Wilderness",
         "Release date": "2021-03-25",
@@ -17203,7 +20050,7 @@ window.allHeroes =
         "family": "underwild",
         "image": "https://i.imgur.com/L3xRyB9.jpg",
         "costume_id": 0,
-        "originalIndex": 521
+        "originalIndex": 522
     },
     {
         "name": "Phileas Fogg C1",
@@ -17217,6 +20064,13 @@ window.allHeroes =
             "Dispeller",
             "Hit 1",
             "Elemental Debuff"
+        ],
+        "skill_types": [
+            "Debuffers (DEF)",
+            "Dispellers",
+            "Snipers",
+            "Extra Damage Dealers",
+            "Buffers (ATK)"
         ],
         "source": "S4-Wilderness",
         "Release date": "2023-05-25",
@@ -17237,7 +20091,7 @@ window.allHeroes =
         "family": "underwild",
         "image": "https://i.imgur.com/xWb34BS.jpg",
         "costume_id": 1,
-        "originalIndex": 522
+        "originalIndex": 523
     },
     {
         "name": "Pip",
@@ -17251,6 +20105,12 @@ window.allHeroes =
             "Hit 1",
             "Hit 2 random",
             "DoT"
+        ],
+        "skill_types": [
+            "Chain & Random Attackers",
+            "DoT Attackers",
+            "Snipers",
+            "Extra Damage Dealers"
         ],
         "source": "Goblin Summon",
         "Release date": "2024-09-01",
@@ -17272,7 +20132,7 @@ window.allHeroes =
         "family": "garrisonguard",
         "image": "https://i.imgur.com/ExQF65A.jpg",
         "costume_id": 0,
-        "originalIndex": 523
+        "originalIndex": 524
     },
     {
         "name": "Prince Siegfried",
@@ -17288,6 +20148,12 @@ window.allHeroes =
             "Counterattack",
             "Damage reducer",
             "Status Effect immunity"
+        ],
+        "skill_types": [
+            "Counterattackers",
+            "Damage Reducers",
+            "Dancers",
+            "Revivers"
         ],
         "source": "Solstice Summon",
         "Release date": "2024-01-25",
@@ -17312,7 +20178,7 @@ window.allHeroes =
         "family": "opera",
         "image": "https://i.imgur.com/WwCBlh0.jpg",
         "costume_id": 0,
-        "originalIndex": 524
+        "originalIndex": 525
     },
     {
         "name": "Qinglong",
@@ -17326,6 +20192,12 @@ window.allHeroes =
             "Hit all",
             "Steal 1 buff",
             "Attack buff"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-5)",
+            "Buff Stealers",
+            "Buffers (ATK)",
+            "Minions Counters"
         ],
         "source": "Monthly Event-Lunar Year",
         "Release date": "2024-02-08",
@@ -17345,7 +20217,7 @@ window.allHeroes =
         "family": "lunaryear",
         "image": "https://i.imgur.com/PjBP5aw.jpg",
         "costume_id": 0,
-        "originalIndex": 525
+        "originalIndex": 526
     },
     {
         "name": "Queen Anne",
@@ -17360,6 +20232,12 @@ window.allHeroes =
             "Self HoT",
             "Defense Buff All",
             "Mana Generation Buff All"
+        ],
+        "skill_types": [
+            "Buffers (DEF)",
+            "Heal over Time (HoT)",
+            "Mana Generation Buffers",
+            "Taunters"
         ],
         "source": "Alliance-Musketeers",
         "Release date": "2022-12-14",
@@ -17380,7 +20258,7 @@ window.allHeroes =
         "family": "musketeer",
         "image": "https://i.imgur.com/BoTIbhq.jpg",
         "costume_id": 0,
-        "originalIndex": 526
+        "originalIndex": 527
     },
     {
         "name": "Quenell",
@@ -17395,7 +20273,12 @@ window.allHeroes =
             "Self Power Boost",
             "Self HoT"
         ],
-        "source": "Alliance-Knights Charge",
+        "skill_types": [
+            "AoE Attackers (Hit-3)",
+            "Buffers (ATK)",
+            "Heal over Time (HoT)"
+        ],
+        "source": "Alliance-Knights Clash",
         "Release date": "2021-10-13",
         "star": 5,
         "power": 816,
@@ -17411,7 +20294,7 @@ window.allHeroes =
         "family": "wolf",
         "image": "https://i.imgur.com/iWwRJlT.jpg",
         "costume_id": 0,
-        "originalIndex": 527
+        "originalIndex": 528
     },
     {
         "name": "Quenell C1",
@@ -17426,7 +20309,12 @@ window.allHeroes =
             "Self Power Boost",
             "Self HoT"
         ],
-        "source": "Alliance-Knights Charge",
+        "skill_types": [
+            "AoE Attackers (Hit-3)",
+            "Buffers (ATK)",
+            "Heal over Time (HoT)"
+        ],
+        "source": "Alliance-Knights Clash",
         "Release date": "2024-12-17",
         "star": 5,
         "power": 1148,
@@ -17446,7 +20334,7 @@ window.allHeroes =
         "family": "wolf",
         "image": "https://i.imgur.com/vtZxZ4o.jpg",
         "costume_id": 1,
-        "originalIndex": 528
+        "originalIndex": 529
     },
     {
         "name": "Ratatoskr",
@@ -17459,6 +20347,12 @@ window.allHeroes =
         "types": [
             "Healer",
             "Board Alterer"
+        ],
+        "skill_types": [
+            "Board Alterers",
+            "Debuffers (ATK)",
+            "Buffers (ATK)",
+            "Healers"
         ],
         "source": "S3-Valhalla",
         "Release date": "2020-02-27",
@@ -17475,7 +20369,7 @@ window.allHeroes =
         "family": "alfheim",
         "image": "https://i.imgur.com/IwBPUx4.jpg",
         "costume_id": 0,
-        "originalIndex": 529
+        "originalIndex": 530
     },
     {
         "name": "Ratatoskr C1",
@@ -17488,6 +20382,12 @@ window.allHeroes =
         "types": [
             "Healer",
             "Board Alterer"
+        ],
+        "skill_types": [
+            "Board Alterers",
+            "Debuffers (ATK)",
+            "Buffers (ATK)",
+            "Heal over Time (HoT)"
         ],
         "source": "S3-Valhalla",
         "Release date": "2023-09-25",
@@ -17504,7 +20404,7 @@ window.allHeroes =
         "family": "alfheim",
         "image": "https://i.imgur.com/AZRDhg4.jpg",
         "costume_id": 1,
-        "originalIndex": 530
+        "originalIndex": 531
     },
     {
         "name": "Relius",
@@ -17518,6 +20418,11 @@ window.allHeroes =
             "Healer",
             "Reviver",
             "Reduced damage from SS"
+        ],
+        "skill_types": [
+            "Damage Reducers",
+            "Healers",
+            "Revivers"
         ],
         "source": "Tower-Owls",
         "Release date": "2023-12-20",
@@ -17537,7 +20442,7 @@ window.allHeroes =
         "family": "owl",
         "image": "https://i.imgur.com/6ngbYLA.jpg",
         "costume_id": 0,
-        "originalIndex": 531
+        "originalIndex": 532
     },
     {
         "name": "Rhineglow",
@@ -17551,6 +20456,12 @@ window.allHeroes =
             "Taunt",
             "HoT all",
             "Stores damage"
+        ],
+        "skill_types": [
+            "Heal over Time (HoT)",
+            "Taunters",
+            "Health Boosters",
+            "AoE Attackers (Hit-5)"
         ],
         "source": "Covenant Summon",
         "Release date": "2024-06-06",
@@ -17571,7 +20482,7 @@ window.allHeroes =
         "family": "construct",
         "image": "https://i.imgur.com/SQkVr8H.jpg",
         "costume_id": 0,
-        "originalIndex": 532
+        "originalIndex": 533
     },
     {
         "name": "Roz",
@@ -17583,6 +20494,11 @@ window.allHeroes =
         "skill": "Elemental Infusion Arrow",
         "types": [
             "Hit 1, 3 or All"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-3)",
+            "AoE Attackers (Hit-5)",
+            "Snipers"
         ],
         "source": "Super Elementals",
         "Release date": "2022-12-05",
@@ -17606,7 +20522,7 @@ window.allHeroes =
         "family": "superelemental",
         "image": "https://i.imgur.com/5xvOFq1.jpg",
         "costume_id": 0,
-        "originalIndex": 533
+        "originalIndex": 534
     },
     {
         "name": "Sadie",
@@ -17622,6 +20538,13 @@ window.allHeroes =
             "SS Defense Debuff 1",
             "Cleanse Block 1",
             "Max Health Reducer 1"
+        ],
+        "skill_types": [
+            "Snipers",
+            "Silencers",
+            "Debuffers (DEF)",
+            "Cleanse Blockers",
+            "Negative Effects On Self Or Allies"
         ],
         "source": "Monthly Event-Springvale",
         "Release date": "2025-03-31",
@@ -17641,7 +20564,7 @@ window.allHeroes =
         "family": "springvale",
         "image": "https://imgur.com/p0UA9id.jpg",
         "costume_id": 0,
-        "originalIndex": 534
+        "originalIndex": 535
     },
     {
         "name": "Sha Wujing",
@@ -17655,6 +20578,11 @@ window.allHeroes =
             "Hit 1",
             "Healer",
             "Dodge Buff"
+        ],
+        "skill_types": [
+            "Dodgers",
+            "Healers (Special)",
+            "Snipers"
         ],
         "source": "Three Kingdoms Summon",
         "Release date": "2023-08-14",
@@ -17675,7 +20603,7 @@ window.allHeroes =
         "family": "journey",
         "image": "https://i.imgur.com/zNMCJKX.jpg",
         "costume_id": 0,
-        "originalIndex": 535
+        "originalIndex": 536
     },
     {
         "name": "Silvaria",
@@ -17689,6 +20617,11 @@ window.allHeroes =
             "Defense Debuff",
             "Hit 1",
             "Summoner"
+        ],
+        "skill_types": [
+            "Debuffers (DEF)",
+            "Minions Summoners",
+            "Snipers"
         ],
         "source": "Hero of the Month",
         "Release date": "2022-04-01",
@@ -17710,7 +20643,7 @@ window.allHeroes =
         "family": 2022,
         "image": "https://i.imgur.com/bmUsK1J.jpg",
         "costume_id": 0,
-        "originalIndex": 536
+        "originalIndex": 537
     },
     {
         "name": "Smarttongue",
@@ -17724,6 +20657,11 @@ window.allHeroes =
             "Wither Attack Debuff",
             "Health reduction",
             "Defense Debuff"
+        ],
+        "skill_types": [
+            "Ability Scores Modifiers",
+            "Debuffers (DEF)",
+            "Max Health Reducers"
         ],
         "source": "Goblin Summon",
         "Release date": "2023-09-18",
@@ -17745,7 +20683,7 @@ window.allHeroes =
         "family": "goblin",
         "image": "https://i.imgur.com/reMeS9l.jpg",
         "costume_id": 0,
-        "originalIndex": 537
+        "originalIndex": 538
     },
     {
         "name": "Snowball",
@@ -17759,6 +20697,12 @@ window.allHeroes =
             "Hit 3",
             "Fiend Summoner 3",
             "Damage Increasing Fiend"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-3)",
+            "Extra Damage Dealers",
+            "Fiends Summoners",
+            "DoT Attackers"
         ],
         "source": "Alliance-Pets",
         "Release date": "2023-05-18",
@@ -17780,7 +20724,7 @@ window.allHeroes =
         "family": "pets",
         "image": "https://i.imgur.com/kEMlZAo.jpg",
         "costume_id": 0,
-        "originalIndex": 538
+        "originalIndex": 539
     },
     {
         "name": "Spartoi",
@@ -17793,6 +20737,11 @@ window.allHeroes =
         "types": [
             "Hit all",
             "Fiend Summoner All"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-5)",
+            "Fiends Summoners",
+            "DoT Attackers"
         ],
         "source": "S6-S7-Untold Tales",
         "Release date": "2024-02-01",
@@ -17821,7 +20770,7 @@ window.allHeroes =
         "family": "nightmaresofatlantis",
         "image": "https://i.imgur.com/OJh8GR8.jpg",
         "costume_id": 0,
-        "originalIndex": 539
+        "originalIndex": 540
     },
     {
         "name": "Spartoi C1",
@@ -17834,6 +20783,11 @@ window.allHeroes =
         "types": [
             "Hit all",
             "Fiend Summoner All"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-5)",
+            "Fiends Summoners",
+            "DoT Attackers"
         ],
         "source": "S6-S7-Untold Tales",
         "Release date": "2025-02-03",
@@ -17863,7 +20817,7 @@ window.allHeroes =
         "family": "nightmaresofatlantis",
         "image": "https://i.imgur.com/uRq8uoY.jpg",
         "costume_id": 1,
-        "originalIndex": 540
+        "originalIndex": 541
     },
     {
         "name": "Spiff",
@@ -17877,6 +20831,11 @@ window.allHeroes =
             "Lasting Bypass",
             "Hit 1",
             "Lasting Dodge"
+        ],
+        "skill_types": [
+            "Bypassers",
+            "Snipers",
+            "Dodgers"
         ],
         "source": "Covenant Summon",
         "Release date": "2024-11-18",
@@ -17896,7 +20855,7 @@ window.allHeroes =
         "family": "fox",
         "image": "https://i.imgur.com/XnfQKGA.jpg",
         "costume_id": 0,
-        "originalIndex": 541
+        "originalIndex": 542
     },
     {
         "name": "Staintongue",
@@ -17910,6 +20869,12 @@ window.allHeroes =
             "Hit 3",
             "Blind",
             "DoT"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-3)",
+            "Debuffers (ATK)",
+            "DoT Attackers",
+            "Cleansers"
         ],
         "source": "Covenant Summon",
         "Release date": "2023-02-09",
@@ -17930,7 +20895,7 @@ window.allHeroes =
         "family": "abysshunter",
         "image": "https://i.imgur.com/obJIXMO.jpg",
         "costume_id": 0,
-        "originalIndex": 542
+        "originalIndex": 543
     },
     {
         "name": "Starlass",
@@ -17943,6 +20908,12 @@ window.allHeroes =
         "types": [
             "Hit 3",
             "Mindless Attack"
+        ],
+        "skill_types": [
+            "Mana Reducers or Blockers",
+            "Bypassers",
+            "AoE Attackers (Hit-3)",
+            "Damage Sharers"
         ],
         "source": "Astral Summon",
         "Release date": "2024-06-12",
@@ -17963,7 +20934,7 @@ window.allHeroes =
         "family": "astralelves",
         "image": "https://i.imgur.com/VtRf87E.jpg",
         "costume_id": 0,
-        "originalIndex": 543
+        "originalIndex": 544
     },
     {
         "name": "Sune",
@@ -17977,6 +20948,13 @@ window.allHeroes =
             "Hit 1",
             "Dispeller 3",
             "Mana Reduction 3"
+        ],
+        "skill_types": [
+            "Dispellers",
+            "Extra Damage Dealers",
+            "Snipers",
+            "AoE Attackers (Hit-3)",
+            "Mana Reducers or Blockers"
         ],
         "source": "Covenant Summon",
         "Release date": "2024-07-21",
@@ -17999,7 +20977,7 @@ window.allHeroes =
         "family": "plainshunter",
         "image": "https://i.imgur.com/Uw6kgXB.jpg",
         "costume_id": 0,
-        "originalIndex": 544
+        "originalIndex": 545
     },
     {
         "name": "Tametomo",
@@ -18011,6 +20989,11 @@ window.allHeroes =
         "skill": "Splintering Shot",
         "types": [
             "Hit 3"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-3)",
+            "Extra Damage Dealers",
+            "Snipers"
         ],
         "source": "Tower-Ninjas",
         "Release date": "2023-07-26",
@@ -18041,7 +21024,7 @@ window.allHeroes =
         "family": "ninja",
         "image": "https://i.imgur.com/QuMcU9O.jpg",
         "costume_id": 0,
-        "originalIndex": 545
+        "originalIndex": 546
     },
     {
         "name": "Tarlak",
@@ -18054,6 +21037,10 @@ window.allHeroes =
         "types": [
             "Titan Attack Buff",
             "HoT"
+        ],
+        "skill_types": [
+            "Buffers (ATK)",
+            "Heal over Time (HoT)"
         ],
         "source": "S2-Atlantis",
         "Release date": "2019-08-01",
@@ -18070,7 +21057,7 @@ window.allHeroes =
         "family": "lagoon",
         "image": "https://i.imgur.com/VmIENFl.jpg",
         "costume_id": 0,
-        "originalIndex": 546
+        "originalIndex": 547
     },
     {
         "name": "Tarlak C1",
@@ -18083,6 +21070,10 @@ window.allHeroes =
         "types": [
             "Health Boost",
             "Titan Attack Buff"
+        ],
+        "skill_types": [
+            "Buffers (ATK)",
+            "Health Boosters"
         ],
         "source": "S2-Atlantis",
         "Release date": "2022-12-12",
@@ -18099,7 +21090,7 @@ window.allHeroes =
         "family": "lagoon",
         "image": "https://i.imgur.com/UPOaKMz.jpg",
         "costume_id": 1,
-        "originalIndex": 547
+        "originalIndex": 548
     },
     {
         "name": "Teddy",
@@ -18114,7 +21105,14 @@ window.allHeroes =
             "Sleep",
             "HoT All"
         ],
-        "source": "Alliance-Knights Charge",
+        "skill_types": [
+            "Extra Damage Dealers",
+            "Heal over Time (HoT)",
+            "Mana Reducers or Blockers",
+            "Sleepweavers",
+            "AoE Attackers (Hit-5)"
+        ],
+        "source": "Alliance-Knights Clash",
         "Release date": "2023-10-18",
         "star": 5,
         "power": 980,
@@ -18135,7 +21133,7 @@ window.allHeroes =
         "family": "bear",
         "image": "https://i.imgur.com/Aaf3CZX.jpg",
         "costume_id": 0,
-        "originalIndex": 548
+        "originalIndex": 549
     },
     {
         "name": "Telluria",
@@ -18150,6 +21148,13 @@ window.allHeroes =
             "Summoner",
             "HOT",
             "Mana Generation Debuff"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-5)",
+            "Buffers (ATK)",
+            "Heal over Time (HoT)",
+            "Mana Reducers or Blockers",
+            "Minions Summoners"
         ],
         "source": "Hero of the Month",
         "Release date": "2020-03-01",
@@ -18171,7 +21176,7 @@ window.allHeroes =
         "family": 2020,
         "image": "https://i.imgur.com/xKwfgME.jpg",
         "costume_id": 0,
-        "originalIndex": 549
+        "originalIndex": 550
     },
     {
         "name": "Telonius",
@@ -18187,6 +21192,14 @@ window.allHeroes =
             "DoT all",
             "Healer 3",
             "Damage from Ailments Immunity 3"
+        ],
+        "skill_types": [
+            "DoT Attackers",
+            "Extra Damage Dealers",
+            "Healers",
+            "Immunity Providers",
+            "Stacking Heroes",
+            "Mana Reducers or Blockers"
         ],
         "source": "Tower-Magic",
         "Release date": "2023-05-03",
@@ -18211,7 +21224,7 @@ window.allHeroes =
         "family": "magic",
         "image": "https://i.imgur.com/WMPKV4S.jpg",
         "costume_id": 0,
-        "originalIndex": 550
+        "originalIndex": 551
     },
     {
         "name": "The Hatter",
@@ -18224,6 +21237,10 @@ window.allHeroes =
         "types": [
             "Hit 3",
             "Buff Stealer"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-3)",
+            "Buff Stealers"
         ],
         "source": "Challenge Festival-Wonderland",
         "Release date": "2019-02-01",
@@ -18240,7 +21257,7 @@ window.allHeroes =
         "family": "wonderland",
         "image": "https://i.imgur.com/Fs3u4wr.jpg",
         "costume_id": 0,
-        "originalIndex": 551
+        "originalIndex": 552
     },
     {
         "name": "The Hatter C1",
@@ -18254,6 +21271,11 @@ window.allHeroes =
             "Hit 3",
             "Buff Stealer",
             "Minion"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-3)",
+            "Buff Stealers",
+            "Minions Summoners"
         ],
         "source": "Challenge Festival-Wonderland",
         "Release date": "2024-04-18",
@@ -18273,7 +21295,7 @@ window.allHeroes =
         "family": "wonderland",
         "image": "https://i.imgur.com/SDtr1yp.jpg",
         "costume_id": 1,
-        "originalIndex": 552
+        "originalIndex": 553
     },
     {
         "name": "Theodosius",
@@ -18289,6 +21311,12 @@ window.allHeroes =
             "Reduce Buff duration 3",
             "Defense Buff",
             "Defense Debuff"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-5)",
+            "Buffers (DEF)",
+            "Debuffers (DEF)",
+            "Effect Duration Resetters"
         ],
         "source": "Goblin Summon",
         "Release date": "2024-07-07",
@@ -18312,7 +21340,7 @@ window.allHeroes =
         "family": "garrisonguard",
         "image": "https://i.imgur.com/tr0BEoG.jpg",
         "costume_id": 0,
-        "originalIndex": 553
+        "originalIndex": 554
     },
     {
         "name": "Toxicandra",
@@ -18326,6 +21354,11 @@ window.allHeroes =
             "Healer All",
             "MoT All",
             "Cleanser All"
+        ],
+        "skill_types": [
+            "Cleansers",
+            "Healers",
+            "Mana Raisers"
         ],
         "source": "Challenge Festival-Villains",
         "Release date": "2021-02-11",
@@ -18343,7 +21376,7 @@ window.allHeroes =
         "family": "villains",
         "image": "https://i.imgur.com/m5DCDHL.jpg",
         "costume_id": 0,
-        "originalIndex": 554
+        "originalIndex": 555
     },
     {
         "name": "Toxicandra C1",
@@ -18357,6 +21390,12 @@ window.allHeroes =
             "Boosted Heal All",
             "MoT All",
             "Cleanser All"
+        ],
+        "skill_types": [
+            "Cleansers",
+            "DoT Attackers",
+            "Health Boosters",
+            "Mana Raisers"
         ],
         "source": "Challenge Festival-Villains",
         "Release date": "2025-06-15",
@@ -18376,7 +21415,7 @@ window.allHeroes =
         "family": "villains",
         "image": "https://imgur.com/6ZuZX5t.jpg",
         "costume_id": 1,
-        "originalIndex": 555
+        "originalIndex": 556
     },
     {
         "name": "Vainamoinen",
@@ -18389,6 +21428,10 @@ window.allHeroes =
         "types": [
             "Hit 3",
             "Accuracy debuff"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-3)",
+            "Debuffers (ATK)"
         ],
         "source": "Monthly Event-Kalevala",
         "Release date": "2022-06-20",
@@ -18407,7 +21450,7 @@ window.allHeroes =
         "family": "kalevala",
         "image": "https://i.imgur.com/gY0vQZu.jpg",
         "costume_id": 0,
-        "originalIndex": 556
+        "originalIndex": 557
     },
     {
         "name": "Vainamoinen C1",
@@ -18420,6 +21463,10 @@ window.allHeroes =
         "types": [
             "Hit 3",
             "Accuracy debuff"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-3)",
+            "Debuffers (ATK)"
         ],
         "source": "Monthly Event-Kalevala",
         "Release date": "2024-07-22",
@@ -18438,7 +21485,7 @@ window.allHeroes =
         "family": "kalevala",
         "image": "https://i.imgur.com/eTqe3pF.jpg",
         "costume_id": 1,
-        "originalIndex": 557
+        "originalIndex": 558
     },
     {
         "name": "Verus",
@@ -18452,6 +21499,11 @@ window.allHeroes =
             "Hit All",
             "Dot",
             "Blind"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-5)",
+            "DoT Attackers",
+            "Debuffers (ATK)"
         ],
         "source": "Tower-Owls",
         "Release date": "2024-03-13",
@@ -18471,7 +21523,7 @@ window.allHeroes =
         "family": "owl",
         "image": "https://i.imgur.com/Klnv0Ue.jpg",
         "costume_id": 0,
-        "originalIndex": 558
+        "originalIndex": 559
     },
     {
         "name": "Viselus",
@@ -18485,6 +21537,12 @@ window.allHeroes =
             "Minion Destroyer 3",
             "Hit 3",
             "DoT 3"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-3)",
+            "DoT Attackers",
+            "Minions Counters",
+            "Dodgers"
         ],
         "source": "Hero of the Month",
         "Release date": "2023-02-01",
@@ -18506,7 +21564,7 @@ window.allHeroes =
         "family": 2023,
         "image": "https://i.imgur.com/SWrRjRX.jpg",
         "costume_id": 0,
-        "originalIndex": 559
+        "originalIndex": 560
     },
     {
         "name": "Winifred",
@@ -18521,6 +21579,12 @@ window.allHeroes =
             "Chain",
             "Attack Debuff on hit",
             "Buff Immunity on hit"
+        ],
+        "skill_types": [
+            "Buff Blockers",
+            "Chain & Random Attackers",
+            "Debuffers (ATK)",
+            "Snipers"
         ],
         "source": "Challenge Festival-Bards",
         "Release date": "2022-08-11",
@@ -18541,7 +21605,7 @@ window.allHeroes =
         "family": "bard",
         "image": "https://i.imgur.com/keg45a3.jpg",
         "costume_id": 0,
-        "originalIndex": 560
+        "originalIndex": 561
     },
     {
         "name": "Xandrella",
@@ -18555,6 +21619,12 @@ window.allHeroes =
             "Hit 1",
             "Hit Blue",
             "Board Alterer"
+        ],
+        "skill_types": [
+            "Board Alterers",
+            "Mana Reducers or Blockers",
+            "Snipers",
+            "Chain & Random Attackers"
         ],
         "source": "Super Elementals",
         "Release date": "2022-12-05",
@@ -18578,7 +21648,7 @@ window.allHeroes =
         "family": "superelemental",
         "image": "https://i.imgur.com/KaW9HIP.jpg",
         "costume_id": 0,
-        "originalIndex": 561
+        "originalIndex": 562
     },
     {
         "name": "Xiamara",
@@ -18593,7 +21663,12 @@ window.allHeroes =
             "Power Boost",
             "Mana Corruption"
         ],
-        "source": "Alliance-Knights Charge",
+        "skill_types": [
+            "AoE Attackers (Hit-5)",
+            "Buffers (ATK)",
+            "Mana Corruption"
+        ],
+        "source": "Alliance-Knights Clash",
         "Release date": "2023-10-18",
         "star": 5,
         "power": 980,
@@ -18611,7 +21686,7 @@ window.allHeroes =
         "family": "stag",
         "image": "https://i.imgur.com/En0uUcx.jpg",
         "costume_id": 0,
-        "originalIndex": 562
+        "originalIndex": 563
     },
     {
         "name": "Xiaoqing",
@@ -18625,6 +21700,12 @@ window.allHeroes =
             "Heal All",
             "Lifts 1 Ailment All",
             "Debuff Reflecting Chance All"
+        ],
+        "skill_types": [
+            "Cleansers",
+            "Healers",
+            "Reflectors",
+            "Minions Counters"
         ],
         "source": "Monthly Event-Lunar Year",
         "Release date": "2025-01-27",
@@ -18644,7 +21725,7 @@ window.allHeroes =
         "family": "lunaryear",
         "image": "https://i.imgur.com/XmTf3zL.jpg",
         "costume_id": 0,
-        "originalIndex": 563
+        "originalIndex": 564
     },
     {
         "name": "Yunan",
@@ -18659,6 +21740,12 @@ window.allHeroes =
             "DOT All",
             "Healing Debuff",
             "Cleanser All"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-5)",
+            "Cleansers",
+            "DoT Attackers",
+            "Healing Reducers"
         ],
         "source": "Monthly Event-Sand Empire",
         "Release date": "2017-01-01",
@@ -18677,7 +21764,7 @@ window.allHeroes =
         "family": "sand",
         "image": "https://i.imgur.com/jUayUm6.jpg",
         "costume_id": 0,
-        "originalIndex": 564
+        "originalIndex": 565
     },
     {
         "name": "Yunan C1",
@@ -18692,6 +21779,12 @@ window.allHeroes =
             "Dot all",
             "Mana Generation Buff All",
             "Cleanser All"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-5)",
+            "Cleansers",
+            "DoT Attackers",
+            "Mana Generation Buffers"
         ],
         "source": "Monthly Event-Sand Empire",
         "Release date": "2021-06-21",
@@ -18710,7 +21803,7 @@ window.allHeroes =
         "family": "sand",
         "image": "https://i.imgur.com/vpqf6zq.jpg",
         "costume_id": 1,
-        "originalIndex": 565
+        "originalIndex": 566
     },
     {
         "name": "Zavinia",
@@ -18724,6 +21817,12 @@ window.allHeroes =
             "Hit 1",
             "Random Hits",
             "Insanity"
+        ],
+        "skill_types": [
+            "Chain & Random Attackers",
+            "Extra Damage Dealers",
+            "Snipers",
+            "Negative Effects On Self Or Allies"
         ],
         "source": "Extra Draw-Secret Summon",
         "Release date": "2024-06-30",
@@ -18744,7 +21843,7 @@ window.allHeroes =
         "family": "investigator",
         "image": "https://i.imgur.com/F1mKhpD.jpg",
         "costume_id": 0,
-        "originalIndex": 566
+        "originalIndex": 567
     },
     {
         "name": "Zeline",
@@ -18758,6 +21857,13 @@ window.allHeroes =
             "Hit All",
             "Attack Debuff",
             "Dispeller"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-5)",
+            "Debuffers (ATK)",
+            "Dispellers",
+            "Extra Damage Dealers",
+            "Mana Generation Buffers"
         ],
         "source": "Hero of the Month",
         "Release date": "2018-02-01T00:00:00",
@@ -18777,7 +21883,7 @@ window.allHeroes =
         "family": 2018,
         "image": "https://i.imgur.com/lrpsqzO.jpg",
         "costume_id": 0,
-        "originalIndex": 567
+        "originalIndex": 568
     },
     {
         "name": "Zeline C1",
@@ -18791,6 +21897,14 @@ window.allHeroes =
             "Dispeller",
             "Hit All",
             "Attack Debuff"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-5)",
+            "Debuffers (ATK)",
+            "Dispellers",
+            "Extra Damage Dealers",
+            "Cleansers",
+            "Mana Generation Buffers"
         ],
         "source": "Hero of the Month",
         "Release date": "2023-12-19",
@@ -18812,7 +21926,7 @@ window.allHeroes =
         "family": 2018,
         "image": "https://i.imgur.com/QJNIkdZ.jpg",
         "costume_id": 1,
-        "originalIndex": 568
+        "originalIndex": 569
     },
     {
         "name": "Zocc",
@@ -18825,6 +21939,11 @@ window.allHeroes =
         "types": [
             "Hit 1",
             "Mindless Attack"
+        ],
+        "skill_types": [
+            "Mindless Attack & Mindless Heal",
+            "Snipers",
+            "Mana Raisers"
         ],
         "source": "Hero of the Month",
         "Release date": "2020-08-01",
@@ -18845,7 +21964,7 @@ window.allHeroes =
         "family": 2020,
         "image": "https://i.imgur.com/XA1fhlp.jpg",
         "costume_id": 0,
-        "originalIndex": 569
+        "originalIndex": 570
     },
     {
         "name": "Zuni",
@@ -18860,6 +21979,12 @@ window.allHeroes =
             "Hit All",
             "Attack Debuff",
             "Defense Debuff"
+        ],
+        "skill_types": [
+            "Debuffers (ATK)",
+            "Debuffers (DEF)",
+            "Snipers",
+            "AoE Attackers (Hit-5)"
         ],
         "source": "Super Elementals",
         "Release date": "2023-08-14",
@@ -18884,7 +22009,7 @@ window.allHeroes =
         "family": "superelemental",
         "image": "https://i.imgur.com/cAdigcK.jpg",
         "costume_id": 0,
-        "originalIndex": 570
+        "originalIndex": 571
     },
     {
         "name": "Fletcher",
@@ -18896,6 +22021,9 @@ window.allHeroes =
         "skill": "Backstab",
         "types": [
             "Hit 1"
+        ],
+        "skill_types": [
+            "Snipers"
         ],
         "source": "S1-Classic",
         "Release date": "2017-01-01",
@@ -18911,7 +22039,7 @@ window.allHeroes =
         "family": null,
         "image": "https://i.imgur.com/Xe6KTRG.jpg",
         "costume_id": 0,
-        "originalIndex": 571
+        "originalIndex": 572
     },
     {
         "name": "Nightshade",
@@ -18923,6 +22051,9 @@ window.allHeroes =
         "skill": "Focused Shot",
         "types": [
             "Hit 1"
+        ],
+        "skill_types": [
+            "Snipers"
         ],
         "source": "S1-Classic",
         "Release date": "2017-01-01",
@@ -18938,7 +22069,7 @@ window.allHeroes =
         "family": null,
         "image": "https://i.imgur.com/TChsKw7.jpg",
         "costume_id": 0,
-        "originalIndex": 572
+        "originalIndex": 573
     },
     {
         "name": "Julius",
@@ -18950,6 +22081,9 @@ window.allHeroes =
         "skill": "Focused Shot",
         "types": [
             "Hit 1"
+        ],
+        "skill_types": [
+            "Snipers"
         ],
         "source": "S1-Classic",
         "Release date": "2017-01-01",
@@ -18965,7 +22099,7 @@ window.allHeroes =
         "family": null,
         "image": "https://i.imgur.com/J6kO15m.jpg",
         "costume_id": 0,
-        "originalIndex": 573
+        "originalIndex": 574
     },
     {
         "name": "Layla",
@@ -18977,6 +22111,9 @@ window.allHeroes =
         "skill": "Poisoned Blade",
         "types": [
             "DOT 1"
+        ],
+        "skill_types": [
+            "DoT Attackers"
         ],
         "source": "S1-Classic",
         "Release date": "2017-01-01",
@@ -18992,7 +22129,7 @@ window.allHeroes =
         "family": null,
         "image": "https://i.imgur.com/bWdwLhP.jpg",
         "costume_id": 0,
-        "originalIndex": 574
+        "originalIndex": 575
     },
     {
         "name": "Silthus",
@@ -19004,6 +22141,9 @@ window.allHeroes =
         "skill": "Attack Rally",
         "types": [
             "Attack Buff"
+        ],
+        "skill_types": [
+            "Buffers (ATK)"
         ],
         "source": "S1-Classic",
         "Release date": "2017-01-01",
@@ -19019,7 +22159,7 @@ window.allHeroes =
         "family": null,
         "image": "https://i.imgur.com/toVI2j1.jpg",
         "costume_id": 0,
-        "originalIndex": 575
+        "originalIndex": 576
     },
     {
         "name": "Aderyn",
@@ -19033,7 +22173,11 @@ window.allHeroes =
             "Heal all",
             "Healing Debuff"
         ],
-        "source": "Alliance-Knights Charge",
+        "skill_types": [
+            "Healers",
+            "Healing Reducers"
+        ],
+        "source": "Alliance-Knights Clash",
         "Release date": "2021-10-13",
         "star": 3,
         "power": 480,
@@ -19048,7 +22192,7 @@ window.allHeroes =
         "family": "raven",
         "image": "https://i.imgur.com/7kv6ZGx.jpg",
         "costume_id": 0,
-        "originalIndex": 576
+        "originalIndex": 577
     },
     {
         "name": "An-Windr",
@@ -19060,6 +22204,9 @@ window.allHeroes =
         "skill": "Tribal Rage",
         "types": [
             "Attack Buff"
+        ],
+        "skill_types": [
+            "Buffers (ATK)"
         ],
         "source": "S3-Valhalla",
         "Release date": "2020-05-28",
@@ -19075,7 +22222,7 @@ window.allHeroes =
         "family": "niflheim",
         "image": "https://i.imgur.com/MSmQZNX.jpg",
         "costume_id": 0,
-        "originalIndex": 577
+        "originalIndex": 578
     },
     {
         "name": "Aqeela",
@@ -19088,6 +22235,12 @@ window.allHeroes =
         "types": [
             "Hit 3",
             "Dodge Buff 3"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-3)",
+            "Buffers (DEF)",
+            "Dodgers",
+            "Stacking Heroes"
         ],
         "source": "S5-Dune",
         "Release date": "2022-04-21",
@@ -19106,7 +22259,7 @@ window.allHeroes =
         "family": "moon",
         "image": "https://i.imgur.com/N5k1s9j.jpg",
         "costume_id": 0,
-        "originalIndex": 578
+        "originalIndex": 579
     },
     {
         "name": "Aqeela C1",
@@ -19119,6 +22272,12 @@ window.allHeroes =
         "types": [
             "Hit 3",
             "Dodge Buff 3"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-3)",
+            "Dodgers",
+            "Stacking Heroes",
+            "Buffers (DEF)"
         ],
         "source": "S5-Dune",
         "Release date": "2024-08-10",
@@ -19139,7 +22298,7 @@ window.allHeroes =
         "family": "moon",
         "image": "https://i.imgur.com/kbKyRq1.jpg",
         "costume_id": 1,
-        "originalIndex": 579
+        "originalIndex": 580
     },
     {
         "name": "Balthazar",
@@ -19151,6 +22310,9 @@ window.allHeroes =
         "skill": "Electric Jolt",
         "types": [
             "Hit 1"
+        ],
+        "skill_types": [
+            "Snipers"
         ],
         "source": "S1-Classic",
         "Release date": "2017-01-01",
@@ -19166,7 +22328,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/OSefjqG.jpg",
         "costume_id": 0,
-        "originalIndex": 580
+        "originalIndex": 581
     },
     {
         "name": "Balthazar C1",
@@ -19179,6 +22341,10 @@ window.allHeroes =
         "types": [
             "Hit 1",
             "DoT 1"
+        ],
+        "skill_types": [
+            "DoT Attackers",
+            "Snipers"
         ],
         "source": "S1-Classic",
         "Release date": "2020-05-18",
@@ -19195,7 +22361,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/PBzwskK.jpg",
         "costume_id": 1,
-        "originalIndex": 581
+        "originalIndex": 582
     },
     {
         "name": "Balthazar Toon",
@@ -19207,6 +22373,10 @@ window.allHeroes =
         "skill": "Toon Jolt",
         "types": [
             "Hit 1"
+        ],
+        "skill_types": [
+            "Extra Damage Dealers",
+            "Snipers"
         ],
         "source": "S1-Classic",
         "Release date": "2024-01-22",
@@ -19225,7 +22395,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/TVzeF5e.jpg",
         "costume_id": 2,
-        "originalIndex": 582
+        "originalIndex": 583
     },
     {
         "name": "Balthazar Glass",
@@ -19238,6 +22408,10 @@ window.allHeroes =
         "types": [
             "Hit 1",
             "Bypass"
+        ],
+        "skill_types": [
+            "Bypassers",
+            "Snipers"
         ],
         "source": "S1-Classic",
         "Release date": "2025-03-11",
@@ -19256,7 +22430,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/GyPOLEn.jpg",
         "costume_id": 3,
-        "originalIndex": 583
+        "originalIndex": 584
     },
     {
         "name": "Betty",
@@ -19269,6 +22443,11 @@ window.allHeroes =
         "types": [
             "Hit 3",
             "Softskin 2"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-3)",
+            "Damage Reducers",
+            "Immunity Providers"
         ],
         "source": "Challenge-Return to Sanctuary",
         "Release date": "2024-05-16",
@@ -19287,7 +22466,7 @@ window.allHeroes =
         "family": "gargoyle",
         "image": "https://i.imgur.com/Ni9fM9U.jpg",
         "costume_id": 0,
-        "originalIndex": 584
+        "originalIndex": 585
     },
     {
         "name": "Bjorn",
@@ -19300,6 +22479,11 @@ window.allHeroes =
         "types": [
             "Hit 1",
             "Hit Bounce"
+        ],
+        "skill_types": [
+            "Chain & Random Attackers",
+            "Extra Damage Dealers",
+            "Snipers"
         ],
         "source": "S3-Valhalla",
         "Release date": "2020-02-27",
@@ -19316,7 +22500,7 @@ window.allHeroes =
         "family": "midgard",
         "image": "https://i.imgur.com/vOaNkHC.jpg",
         "costume_id": 0,
-        "originalIndex": 585
+        "originalIndex": 586
     },
     {
         "name": "Bjorn C1",
@@ -19330,6 +22514,11 @@ window.allHeroes =
             "Hit 1",
             "Bounce",
             "Mana Generation Debuff"
+        ],
+        "skill_types": [
+            "Chain & Random Attackers",
+            "Mana Reducers or Blockers",
+            "Snipers"
         ],
         "source": "S3-Valhalla",
         "Release date": "2022-07-04",
@@ -19347,7 +22536,7 @@ window.allHeroes =
         "family": "midgard",
         "image": "https://i.imgur.com/KuvURzu.jpg",
         "costume_id": 1,
-        "originalIndex": 586
+        "originalIndex": 587
     },
     {
         "name": "Budatin",
@@ -19359,6 +22548,12 @@ window.allHeroes =
         "skill": "Abiding Dogma",
         "types": [
             "Board Alterer"
+        ],
+        "skill_types": [
+            "Board Alterers",
+            "Mana Generation Buffers",
+            "Mana Reducers or Blockers",
+            "Damage Reducers"
         ],
         "source": "Challenge-Gargoyle",
         "Release date": "2022-05-12",
@@ -19376,7 +22571,7 @@ window.allHeroes =
         "family": "gargoyle",
         "image": "https://i.imgur.com/NFVk9Gf.jpg",
         "costume_id": 0,
-        "originalIndex": 587
+        "originalIndex": 588
     },
     {
         "name": "Chochin",
@@ -19389,6 +22584,10 @@ window.allHeroes =
         "types": [
             "Hit 3",
             "Mana Generation Debuff"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-3)",
+            "Mana Reducers or Blockers"
         ],
         "source": "S2-Atlantis",
         "Release date": "2019-08-01",
@@ -19405,7 +22604,7 @@ window.allHeroes =
         "family": "sakura",
         "image": "https://i.imgur.com/L668UQC.jpg",
         "costume_id": 0,
-        "originalIndex": 588
+        "originalIndex": 589
     },
     {
         "name": "Edd",
@@ -19417,6 +22616,10 @@ window.allHeroes =
         "skill": "Crazed Lunge",
         "types": [
             "Hit 1"
+        ],
+        "skill_types": [
+            "Buff Blockers",
+            "Snipers"
         ],
         "source": "Challenge Festival-Villains",
         "Release date": "2021-02-11",
@@ -19433,7 +22636,7 @@ window.allHeroes =
         "family": "villains",
         "image": "https://i.imgur.com/OuUgvKY.jpg",
         "costume_id": 0,
-        "originalIndex": 589
+        "originalIndex": 590
     },
     {
         "name": "Gill-Ra",
@@ -19447,6 +22650,11 @@ window.allHeroes =
             "Defense Debuff",
             "Attack Debuff",
             "Cleanser"
+        ],
+        "skill_types": [
+            "Cleansers",
+            "Debuffers (ATK)",
+            "Debuffers (DEF)"
         ],
         "source": "S2-Atlantis",
         "Release date": "2019-08-01",
@@ -19464,7 +22672,7 @@ window.allHeroes =
         "family": "lagoon",
         "image": "https://i.imgur.com/5yoZu18.jpg",
         "costume_id": 0,
-        "originalIndex": 590
+        "originalIndex": 591
     },
     {
         "name": "Gill-Ra C1",
@@ -19478,6 +22686,11 @@ window.allHeroes =
             "Defense Buff",
             "Attack Buff",
             "Dispeller"
+        ],
+        "skill_types": [
+            "Buffers (ATK)",
+            "Buffers (DEF)",
+            "Dispellers"
         ],
         "source": "S2-Atlantis",
         "Release date": "2023-04-03",
@@ -19495,7 +22708,7 @@ window.allHeroes =
         "family": "lagoon",
         "image": "https://i.imgur.com/bezss9U.jpg",
         "costume_id": 1,
-        "originalIndex": 591
+        "originalIndex": 592
     },
     {
         "name": "Greel",
@@ -19507,6 +22720,13 @@ window.allHeroes =
         "skill": "Stubby Reap",
         "types": [
             "Hit All"
+        ],
+        "skill_types": [
+            "Mana Raisers",
+            "AoE Attackers (Hit-5)",
+            "Extra Damage Dealers",
+            "Cleansers",
+            "DoT Attackers"
         ],
         "source": "Covenant Summon",
         "Release date": "2023-02-09",
@@ -19527,7 +22747,7 @@ window.allHeroes =
         "family": "abysshunter",
         "image": "https://i.imgur.com/GbQldWm.jpg",
         "costume_id": 0,
-        "originalIndex": 592
+        "originalIndex": 593
     },
     {
         "name": "Guardian Bat",
@@ -19539,6 +22759,10 @@ window.allHeroes =
         "skill": "Merciless Bite",
         "types": [
             "Hit 3"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-3)",
+            "Extra Damage Dealers"
         ],
         "source": "Challenge Festival-Guardians",
         "Release date": "2020-01-08",
@@ -19555,7 +22779,7 @@ window.allHeroes =
         "family": "guardiansteltoc",
         "image": "https://i.imgur.com/yMD2ogt.jpg",
         "costume_id": 0,
-        "originalIndex": 593
+        "originalIndex": 594
     },
     {
         "name": "Jack",
@@ -19568,6 +22792,10 @@ window.allHeroes =
         "types": [
             "Hit 1",
             "Bomb"
+        ],
+        "skill_types": [
+            "Snipers",
+            "AoE Attackers (Hit-3)"
         ],
         "source": "Monthly Event-Morlovia",
         "Release date": "2020-10-26",
@@ -19586,7 +22814,7 @@ window.allHeroes =
         "family": "morlovia",
         "image": "https://i.imgur.com/1pbBKiM.jpg",
         "costume_id": 0,
-        "originalIndex": 594
+        "originalIndex": 595
     },
     {
         "name": "Maeve",
@@ -19600,6 +22828,14 @@ window.allHeroes =
             "Hit 3",
             "Defense debuff",
             "Stack"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-3)",
+            "Debuffers (DEF)",
+            "Healers (Special)",
+            "Stacking Heroes",
+            "Mana Generation Buffers",
+            "Heal over Time (HoT)"
         ],
         "source": "Challenge Festival-Slayers",
         "Release date": "2021-08-05",
@@ -19620,7 +22856,7 @@ window.allHeroes =
         "family": "slayer",
         "image": "https://i.imgur.com/vEp3yLs.jpg",
         "costume_id": 0,
-        "originalIndex": 595
+        "originalIndex": 596
     },
     {
         "name": "Morganite",
@@ -19633,6 +22869,10 @@ window.allHeroes =
         "types": [
             "DoT",
             "Blind"
+        ],
+        "skill_types": [
+            "Debuffers (ATK)",
+            "DoT Attackers"
         ],
         "source": "Tower-Ninjas",
         "Release date": "2023-07-26",
@@ -19657,7 +22897,7 @@ window.allHeroes =
         "family": "ninja",
         "image": "https://i.imgur.com/lHtD195.jpg",
         "costume_id": 0,
-        "originalIndex": 596
+        "originalIndex": 597
     },
     {
         "name": "Morris",
@@ -19672,6 +22912,13 @@ window.allHeroes =
             "Hole digger",
             "Hit 1",
             "Mana Gain Freeze 1"
+        ],
+        "skill_types": [
+            "Cleansers",
+            "Ghost Form & Hiding",
+            "Mana Reducers or Blockers",
+            "Stacking Heroes",
+            "Chain & Random Attackers"
         ],
         "source": "S4-Wilderness",
         "Release date": "2021-03-25",
@@ -19694,7 +22941,7 @@ window.allHeroes =
         "family": "underwild",
         "image": "https://i.imgur.com/RXYQ548.jpg",
         "costume_id": 0,
-        "originalIndex": 597
+        "originalIndex": 598
     },
     {
         "name": "Morris C1",
@@ -19709,6 +22956,13 @@ window.allHeroes =
             "Hole digger",
             "Hit 1",
             "Mana Gain Freeze"
+        ],
+        "skill_types": [
+            "Stacking Heroes",
+            "Ghost Form & Hiding",
+            "Mana Reducers or Blockers",
+            "Cleansers",
+            "Chain & Random Attackers"
         ],
         "source": "S4-Wilderness",
         "Release date": "2024-05-23",
@@ -19731,7 +22985,7 @@ window.allHeroes =
         "family": "underwild",
         "image": "https://i.imgur.com/CrJaSuf.jpg",
         "costume_id": 1,
-        "originalIndex": 598
+        "originalIndex": 599
     },
     {
         "name": "Oberon",
@@ -19744,6 +22998,10 @@ window.allHeroes =
         "types": [
             "Hit All",
             "DoT All"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-5)",
+            "DoT Attackers"
         ],
         "source": "S1-Classic",
         "Release date": "2017-01-01",
@@ -19760,7 +23018,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/FkvOQpS.jpg",
         "costume_id": 0,
-        "originalIndex": 599
+        "originalIndex": 600
     },
     {
         "name": "Oberon C1",
@@ -19772,6 +23030,9 @@ window.allHeroes =
         "skill": "Toxic Tricks",
         "types": [
             "Dot all"
+        ],
+        "skill_types": [
+            "DoT Attackers"
         ],
         "source": "S1-Classic",
         "Release date": "2021-01-18",
@@ -19787,7 +23048,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/4wjqw3M.jpg",
         "costume_id": 1,
-        "originalIndex": 600
+        "originalIndex": 601
     },
     {
         "name": "Oberon Toon",
@@ -19800,6 +23061,11 @@ window.allHeroes =
         "types": [
             "Hit All",
             "DoT All"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-5)",
+            "DoT Attackers",
+            "Extra Damage Dealers"
         ],
         "source": "S1-Classic",
         "Release date": "2024-08-11",
@@ -19819,7 +23085,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/z96lxl3.jpg",
         "costume_id": 2,
-        "originalIndex": 601
+        "originalIndex": 602
     },
     {
         "name": "Para",
@@ -19832,6 +23098,10 @@ window.allHeroes =
         "types": [
             "Recover all",
             "Attack debuff"
+        ],
+        "skill_types": [
+            "Debuffers (ATK)",
+            "Healers"
         ],
         "source": "Monthly Event-Kalevala",
         "Release date": "2022-06-20",
@@ -19850,7 +23120,7 @@ window.allHeroes =
         "family": "kalevala",
         "image": "https://i.imgur.com/n5BGh1Y.jpg",
         "costume_id": 0,
-        "originalIndex": 602
+        "originalIndex": 603
     },
     {
         "name": "Prisca",
@@ -19863,6 +23133,10 @@ window.allHeroes =
         "types": [
             "Hit 1",
             "Heal Self"
+        ],
+        "skill_types": [
+            "Healers (Special)",
+            "Snipers"
         ],
         "source": "S1-Classic",
         "Release date": "2017-01-01",
@@ -19879,7 +23153,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/IoRPZNA.jpg",
         "costume_id": 0,
-        "originalIndex": 603
+        "originalIndex": 604
     },
     {
         "name": "Prisca C1",
@@ -19892,6 +23166,10 @@ window.allHeroes =
         "types": [
             "Hit 3",
             "Heal Self"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-3)",
+            "Healers (Special)"
         ],
         "source": "S1-Classic",
         "Release date": "2020-05-18",
@@ -19908,7 +23186,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/q3Ddqi6.jpg",
         "costume_id": 1,
-        "originalIndex": 604
+        "originalIndex": 605
     },
     {
         "name": "Prisca Toon",
@@ -19921,6 +23199,11 @@ window.allHeroes =
         "types": [
             "Hit 1",
             "Heal Self"
+        ],
+        "skill_types": [
+            "Extra Damage Dealers",
+            "Healers (Special)",
+            "Snipers"
         ],
         "source": "S1-Classic",
         "Release date": "2024-02-12",
@@ -19940,7 +23223,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/6mcArhg.jpg",
         "costume_id": 2,
-        "originalIndex": 605
+        "originalIndex": 606
     },
     {
         "name": "Prisca Glass",
@@ -19954,6 +23237,11 @@ window.allHeroes =
             "Hit 1",
             "Bypass",
             "Heal Self"
+        ],
+        "skill_types": [
+            "Bypassers",
+            "Healers (Special)",
+            "Snipers"
         ],
         "source": "S1-Classic",
         "Release date": "2025-04-08",
@@ -19973,7 +23261,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://imgur.com/SdXnKqi.jpg",
         "costume_id": 3,
-        "originalIndex": 606
+        "originalIndex": 607
     },
     {
         "name": "Renfeld",
@@ -19986,6 +23274,10 @@ window.allHeroes =
         "types": [
             "Hit 1",
             "Heal Self"
+        ],
+        "skill_types": [
+            "Healers (Special)",
+            "Snipers"
         ],
         "source": "S1-Classic",
         "Release date": "2017-01-01",
@@ -20002,7 +23294,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/6HwABCg.jpg",
         "costume_id": 0,
-        "originalIndex": 607
+        "originalIndex": 608
     },
     {
         "name": "Renfeld C1",
@@ -20015,6 +23307,11 @@ window.allHeroes =
         "types": [
             "Hit 1",
             "Mana Steal 3"
+        ],
+        "skill_types": [
+            "Mana Raisers",
+            "Mana Reducers or Blockers",
+            "Snipers"
         ],
         "source": "S1-Classic",
         "Release date": "2020-05-18",
@@ -20031,7 +23328,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/7QkxYAf.jpg",
         "costume_id": 1,
-        "originalIndex": 608
+        "originalIndex": 609
     },
     {
         "name": "Renfeld Toon",
@@ -20044,6 +23341,11 @@ window.allHeroes =
         "types": [
             "Hit 1",
             "Heal Self"
+        ],
+        "skill_types": [
+            "Snipers",
+            "Healers (Special)",
+            "Extra Damage Dealers"
         ],
         "source": "S1-Classic",
         "Release date": "2024-09-08",
@@ -20063,7 +23365,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/D4cVPMi.jpg",
         "costume_id": 2,
-        "originalIndex": 609
+        "originalIndex": 610
     },
     {
         "name": "Treevil",
@@ -20078,6 +23380,12 @@ window.allHeroes =
             "Attack Debuff",
             "Defense Debuff",
             "Mana Generation Debuff"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-5)",
+            "Debuffers (ATK)",
+            "Debuffers (DEF)",
+            "Mana Reducers or Blockers"
         ],
         "source": "Challenge Festival-Avalon",
         "Release date": "2021-12-15",
@@ -20096,7 +23404,7 @@ window.allHeroes =
         "family": "avalon",
         "image": "https://i.imgur.com/8ZDDLNG.jpg",
         "costume_id": 0,
-        "originalIndex": 610
+        "originalIndex": 611
     },
     {
         "name": "Tyrum",
@@ -20109,6 +23417,10 @@ window.allHeroes =
         "types": [
             "Hit 1",
             "Dispeller All"
+        ],
+        "skill_types": [
+            "Dispellers",
+            "Snipers"
         ],
         "source": "S1-Classic",
         "Release date": "2020-02-27",
@@ -20125,7 +23437,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/HKuMtXT.jpg",
         "costume_id": 0,
-        "originalIndex": 611
+        "originalIndex": 612
     },
     {
         "name": "Tyrum C1",
@@ -20138,6 +23450,10 @@ window.allHeroes =
         "types": [
             "Hit 1",
             "Cleanser All"
+        ],
+        "skill_types": [
+            "Cleansers",
+            "Snipers"
         ],
         "source": "S1-Classic",
         "Release date": "2020-01-01",
@@ -20154,7 +23470,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/Rir8owz.jpg",
         "costume_id": 1,
-        "originalIndex": 612
+        "originalIndex": 613
     },
     {
         "name": "Tyrum Toon",
@@ -20167,6 +23483,11 @@ window.allHeroes =
         "types": [
             "Hit 1",
             "Dispeller All"
+        ],
+        "skill_types": [
+            "Dispellers",
+            "Snipers",
+            "Extra Damage Dealers"
         ],
         "source": "S1-Classic",
         "Release date": "2024-10-06",
@@ -20186,7 +23507,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/MBq6uJ0.jpg",
         "costume_id": 2,
-        "originalIndex": 613
+        "originalIndex": 614
     },
     {
         "name": "Unferth",
@@ -20199,6 +23520,11 @@ window.allHeroes =
         "types": [
             "Hit 1",
             "Source of Ailments 1"
+        ],
+        "skill_types": [
+            "Snipers",
+            "Extra Damage Dealers",
+            "Debuffers (DEF)"
         ],
         "source": "Challenge-Beowulf",
         "Release date": "2025-02-13",
@@ -20221,7 +23547,7 @@ window.allHeroes =
         "family": "beowulf",
         "image": "https://i.imgur.com/EwK86qB.jpg",
         "costume_id": 0,
-        "originalIndex": 614
+        "originalIndex": 615
     },
     {
         "name": "Vlad",
@@ -20234,6 +23560,11 @@ window.allHeroes =
         "types": [
             "DoT 1",
             "Healing Steal"
+        ],
+        "skill_types": [
+            "DoT Attackers",
+            "Healers (Special)",
+            "Healing Reducers"
         ],
         "source": "Monthly Event-Morlovia",
         "Release date": "2018-10-01",
@@ -20252,7 +23583,7 @@ window.allHeroes =
         "family": "morlovia",
         "image": "https://i.imgur.com/BKgxWVA.jpg",
         "costume_id": 0,
-        "originalIndex": 615
+        "originalIndex": 616
     },
     {
         "name": "Ahhotep",
@@ -20264,6 +23595,10 @@ window.allHeroes =
         "skill": "Mummy Slash",
         "types": [
             "Hit 3"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-3)",
+            "Mana Raisers"
         ],
         "source": "S5-Dune",
         "Release date": "2022-04-21",
@@ -20284,7 +23619,7 @@ window.allHeroes =
         "family": "moon",
         "image": "https://i.imgur.com/MLXGUOi.jpg",
         "costume_id": 0,
-        "originalIndex": 616
+        "originalIndex": 617
     },
     {
         "name": "Ahhotep C1",
@@ -20296,6 +23631,10 @@ window.allHeroes =
         "skill": "Mummy Strike",
         "types": [
             "Hit 3"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-3)",
+            "Mana Raisers"
         ],
         "source": "S5-Dune",
         "Release date": "2024-07-13",
@@ -20318,7 +23657,7 @@ window.allHeroes =
         "family": "moon",
         "image": "https://i.imgur.com/ph6Gczr.jpg",
         "costume_id": 1,
-        "originalIndex": 617
+        "originalIndex": 618
     },
     {
         "name": "Ameonna",
@@ -20331,6 +23670,11 @@ window.allHeroes =
         "types": [
             "Self Full Removal",
             "Ghost"
+        ],
+        "skill_types": [
+            "Buffers (ATK)",
+            "Cleansers",
+            "Ghost Form & Hiding"
         ],
         "source": "S2-Atlantis",
         "Release date": "2019-08-01",
@@ -20348,7 +23692,7 @@ window.allHeroes =
         "family": "sakura",
         "image": "https://i.imgur.com/VkDdipF.jpg",
         "costume_id": 0,
-        "originalIndex": 618
+        "originalIndex": 619
     },
     {
         "name": "Ameonna C1",
@@ -20363,6 +23707,13 @@ window.allHeroes =
             "Ghost",
             "Defense Buff All while Ghost",
             "HoT All while Ghost"
+        ],
+        "skill_types": [
+            "Buffers (DEF)",
+            "Ghost Form & Hiding",
+            "Heal over Time (HoT)",
+            "Stacking Heroes",
+            "Cleansers"
         ],
         "source": "S2-Atlantis",
         "Release date": "2022-05-02",
@@ -20381,7 +23732,7 @@ window.allHeroes =
         "family": "sakura",
         "image": "https://i.imgur.com/VZyVFDJ.jpg",
         "costume_id": 1,
-        "originalIndex": 619
+        "originalIndex": 620
     },
     {
         "name": "Ametrine",
@@ -20395,6 +23746,12 @@ window.allHeroes =
             "Charger",
             "Hit All",
             "Dispeller"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-3)",
+            "AoE Attackers (Hit-5)",
+            "Dispellers",
+            "Snipers"
         ],
         "source": "Tower-Ninjas",
         "Release date": "2020-10-13",
@@ -20418,7 +23775,7 @@ window.allHeroes =
         "family": "ninja",
         "image": "https://i.imgur.com/6AFRaiq.jpg",
         "costume_id": 0,
-        "originalIndex": 620
+        "originalIndex": 621
     },
     {
         "name": "Ana-Belle",
@@ -20432,6 +23789,13 @@ window.allHeroes =
             "Dispeller",
             "Cleanser",
             "Healer"
+        ],
+        "skill_types": [
+            "Cleansers",
+            "Dispellers",
+            "Healers",
+            "Healers (Special)",
+            "Negative Effects On Self Or Allies"
         ],
         "source": "Monthly Event-Morlovia",
         "Release date": "2022-10-03",
@@ -20451,7 +23815,7 @@ window.allHeroes =
         "family": "morlovia",
         "image": "https://i.imgur.com/FvJxtPO.jpg",
         "costume_id": 0,
-        "originalIndex": 621
+        "originalIndex": 622
     },
     {
         "name": "Arges",
@@ -20463,6 +23827,11 @@ window.allHeroes =
         "skill": "Potion Cocktail",
         "types": [
             "Charge"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-3)",
+            "Buffers (ATK)",
+            "Debuffers (DEF)"
         ],
         "source": "Tower-Styx",
         "Release date": "2022-09-21",
@@ -20491,7 +23860,7 @@ window.allHeroes =
         "family": "styx",
         "image": "https://i.imgur.com/yK7UFvQ.jpg",
         "costume_id": 0,
-        "originalIndex": 622
+        "originalIndex": 623
     },
     {
         "name": "Boomer",
@@ -20503,6 +23872,10 @@ window.allHeroes =
         "skill": "Watery Grave",
         "types": [
             "Hit All"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-5)",
+            "Buffers (DEF)"
         ],
         "source": "Challenge Festival-Pirates",
         "Release date": "2017-01-01",
@@ -20519,7 +23892,7 @@ window.allHeroes =
         "family": "corellia",
         "image": "https://i.imgur.com/BLKBB2F.jpg",
         "costume_id": 0,
-        "originalIndex": 623
+        "originalIndex": 624
     },
     {
         "name": "Cheshire Cat",
@@ -20532,6 +23905,11 @@ window.allHeroes =
         "types": [
             "Reposition",
             "DoT All"
+        ],
+        "skill_types": [
+            "Debuffers (DEF)",
+            "DoT Attackers",
+            "Random Position"
         ],
         "source": "Challenge Festival-Wonderland",
         "Release date": "2017-01-01",
@@ -20549,7 +23927,7 @@ window.allHeroes =
         "family": "wonderland",
         "image": "https://i.imgur.com/Js5mqAr.jpg",
         "costume_id": 0,
-        "originalIndex": 624
+        "originalIndex": 625
     },
     {
         "name": "Cheshire Cat C1",
@@ -20562,6 +23940,11 @@ window.allHeroes =
         "types": [
             "Reposition",
             "DoT All"
+        ],
+        "skill_types": [
+            "Debuffers (DEF)",
+            "DoT Attackers",
+            "Random Position"
         ],
         "source": "Challenge Festival-Wonderland",
         "Release date": "2023-10-05",
@@ -20579,7 +23962,7 @@ window.allHeroes =
         "family": "wonderland",
         "image": "https://i.imgur.com/ImaCQvI.jpg",
         "costume_id": 1,
-        "originalIndex": 625
+        "originalIndex": 626
     },
     {
         "name": "Cupcake",
@@ -20593,6 +23976,10 @@ window.allHeroes =
             "Steals Minions 1",
             "Hit 1",
             "Minion Block Debuff"
+        ],
+        "skill_types": [
+            "Minions Counters",
+            "Snipers"
         ],
         "source": "Alliance-Pets",
         "Release date": "2022-11-03",
@@ -20613,7 +24000,7 @@ window.allHeroes =
         "family": "pets",
         "image": "https://i.imgur.com/p15TPST.jpg",
         "costume_id": 0,
-        "originalIndex": 626
+        "originalIndex": 627
     },
     {
         "name": "Cyprian",
@@ -20625,6 +24012,9 @@ window.allHeroes =
         "skill": "Perfect Riposte",
         "types": [
             "Counterattack 3"
+        ],
+        "skill_types": [
+            "Counterattackers"
         ],
         "source": "S1-Classic",
         "Release date": "2017-01-01",
@@ -20640,7 +24030,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/wpGUug5.jpg",
         "costume_id": 0,
-        "originalIndex": 627
+        "originalIndex": 628
     },
     {
         "name": "Cyprian C1",
@@ -20652,6 +24042,9 @@ window.allHeroes =
         "skill": "Deadly Riposte",
         "types": [
             "Counterattack All"
+        ],
+        "skill_types": [
+            "Counterattackers"
         ],
         "source": "S1-Classic",
         "Release date": "2021-01-18",
@@ -20667,7 +24060,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/sJK7XXq.jpg",
         "costume_id": 1,
-        "originalIndex": 628
+        "originalIndex": 629
     },
     {
         "name": "Cyprian C2",
@@ -20681,6 +24074,11 @@ window.allHeroes =
             "Counterattack 3",
             "Mana on Counterattack",
             "Damage Reduction 3"
+        ],
+        "skill_types": [
+            "Counterattackers",
+            "Damage Reducers",
+            "Mana Raisers"
         ],
         "source": "S1-Classic",
         "Release date": "2023-04-17",
@@ -20698,7 +24096,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/oDvjeQX.jpg",
         "costume_id": 2,
-        "originalIndex": 629
+        "originalIndex": 630
     },
     {
         "name": "Cyprian Toon",
@@ -20710,6 +24108,9 @@ window.allHeroes =
         "skill": "Toontastic Riposte",
         "types": [
             "Counterattack 3"
+        ],
+        "skill_types": [
+            "Counterattackers"
         ],
         "source": "S1-Classic",
         "Release date": "2024-04-08",
@@ -20727,7 +24128,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/NlALPlg.jpg",
         "costume_id": 3,
-        "originalIndex": 630
+        "originalIndex": 631
     },
     {
         "name": "Cyprian Glass",
@@ -20740,6 +24141,9 @@ window.allHeroes =
         "types": [
             "Counterattack 3",
             "Elemental Reflect Ailments All"
+        ],
+        "skill_types": [
+            "Counterattackers"
         ],
         "source": "S1-Classic",
         "Release date": "2025-04-23",
@@ -20758,7 +24162,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://imgur.com/NcRhwAX.jpg",
         "costume_id": 4,
-        "originalIndex": 631
+        "originalIndex": 632
     },
     {
         "name": "Dizzy",
@@ -20773,6 +24177,11 @@ window.allHeroes =
             "Minion Summoner 3",
             "Elemental Reflect 3",
             "Elemental Counterattack 3"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-3)",
+            "Minions Summoners",
+            "Reflectors"
         ],
         "source": "Monthly Event-Winter",
         "Release date": "2023-12-01",
@@ -20790,7 +24199,7 @@ window.allHeroes =
         "family": "christmas",
         "image": "https://i.imgur.com/84anXmA.jpg",
         "costume_id": 0,
-        "originalIndex": 632
+        "originalIndex": 633
     },
     {
         "name": "Fura",
@@ -20804,6 +24213,11 @@ window.allHeroes =
             "Hit All",
             "Health Reduction",
             "Healing Debuff"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-5)",
+            "Healing Reducers",
+            "Max Health Reducers"
         ],
         "source": "S3-Valhalla",
         "Release date": "2020-05-28",
@@ -20821,7 +24235,7 @@ window.allHeroes =
         "family": "svartalfheim",
         "image": "https://i.imgur.com/RvN7nUK.jpg",
         "costume_id": 0,
-        "originalIndex": 633
+        "originalIndex": 634
     },
     {
         "name": "Fura C1",
@@ -20833,6 +24247,11 @@ window.allHeroes =
         "skill": "Nightbloom Dust",
         "types": [
             "Hit 3"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-3)",
+            "Healing Reducers",
+            "Mana Reducers or Blockers"
         ],
         "source": "S3-Valhalla",
         "Release date": "2023-01-16",
@@ -20850,7 +24269,7 @@ window.allHeroes =
         "family": "svartalfheim",
         "image": "https://i.imgur.com/ibwrmzt.jpg",
         "costume_id": 1,
-        "originalIndex": 634
+        "originalIndex": 635
     },
     {
         "name": "Gafar",
@@ -20865,6 +24284,12 @@ window.allHeroes =
             "DoT 1",
             "Healing Debuff",
             "Self Clean"
+        ],
+        "skill_types": [
+            "Cleansers",
+            "DoT Attackers",
+            "Healing Reducers",
+            "Snipers"
         ],
         "source": "Monthly Event-Sand Empire",
         "Release date": "2017-01-01",
@@ -20883,7 +24308,7 @@ window.allHeroes =
         "family": "sand",
         "image": "https://i.imgur.com/xyMaVfi.jpg",
         "costume_id": 0,
-        "originalIndex": 635
+        "originalIndex": 636
     },
     {
         "name": "Heifeng Guai",
@@ -20896,6 +24321,11 @@ window.allHeroes =
         "types": [
             "Hit 1",
             "Defense Down"
+        ],
+        "skill_types": [
+            "Debuffers (DEF)",
+            "Effect Duration Resetters",
+            "Snipers"
         ],
         "source": "Three Kingdoms Summon",
         "Release date": "2023-02-27",
@@ -20913,7 +24343,7 @@ window.allHeroes =
         "family": "journey",
         "image": "https://i.imgur.com/cY9fvY1.jpg",
         "costume_id": 0,
-        "originalIndex": 636
+        "originalIndex": 637
     },
     {
         "name": "Ingolf",
@@ -20926,6 +24356,12 @@ window.allHeroes =
         "types": [
             "Hit 3",
             "Dot 3"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-5)",
+            "DoT Attackers",
+            "Mana Reducers or Blockers",
+            "Effect Duration Resetters"
         ],
         "source": "Challenge Festival-Villains",
         "Release date": "2021-02-11",
@@ -20943,7 +24379,7 @@ window.allHeroes =
         "family": "villains",
         "image": "https://i.imgur.com/EjtbILF.jpg",
         "costume_id": 0,
-        "originalIndex": 637
+        "originalIndex": 638
     },
     {
         "name": "Jabbar",
@@ -20958,6 +24394,12 @@ window.allHeroes =
             "Dot 3",
             "Healing Debuff",
             "Self Clean"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-3)",
+            "Cleansers",
+            "DoT Attackers",
+            "Healing Reducers"
         ],
         "source": "Monthly Event-Sand Empire",
         "Release date": "2017-01-01",
@@ -20976,7 +24418,7 @@ window.allHeroes =
         "family": "sand",
         "image": "https://i.imgur.com/3RqMEeN.jpg",
         "costume_id": 0,
-        "originalIndex": 638
+        "originalIndex": 639
     },
     {
         "name": "Juliani",
@@ -20989,6 +24431,12 @@ window.allHeroes =
         "types": [
             "Hit 3",
             "Dot 3"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-3)",
+            "DoT Attackers",
+            "Extra Damage Dealers",
+            "Healers (Special)"
         ],
         "source": "Tower-Owls",
         "Release date": "2024-02-14",
@@ -21008,7 +24456,7 @@ window.allHeroes =
         "family": "owl",
         "image": "https://i.imgur.com/UhbZaxw.jpg",
         "costume_id": 0,
-        "originalIndex": 639
+        "originalIndex": 640
     },
     {
         "name": "Kitty",
@@ -21022,6 +24470,12 @@ window.allHeroes =
             "Boosted Healer All",
             "Reflect Ailments All",
             "Defense Buff Self"
+        ],
+        "skill_types": [
+            "Buffers (DEF)",
+            "Health Boosters",
+            "Reflectors",
+            "Heal over Time (HoT)"
         ],
         "source": "Alliance-Musketeers",
         "Release date": "2023-03-08",
@@ -21041,7 +24495,7 @@ window.allHeroes =
         "family": "musketeer",
         "image": "https://i.imgur.com/2nOJ3dV.jpg",
         "costume_id": 0,
-        "originalIndex": 640
+        "originalIndex": 641
     },
     {
         "name": "Koda",
@@ -21055,7 +24509,11 @@ window.allHeroes =
             "Hit 1",
             "Defense debuff"
         ],
-        "source": "Alliance-Knights Charge",
+        "skill_types": [
+            "Debuffers (DEF)",
+            "Snipers"
+        ],
+        "source": "Alliance-Knights Clash",
         "Release date": "2023-10-18",
         "star": 4,
         "power": 690,
@@ -21073,7 +24531,7 @@ window.allHeroes =
         "family": "bear",
         "image": "https://i.imgur.com/QTVEQjn.jpg",
         "costume_id": 0,
-        "originalIndex": 641
+        "originalIndex": 642
     },
     {
         "name": "Lexi",
@@ -21088,6 +24546,11 @@ window.allHeroes =
             "Enemy Damage Share 3",
             "Elemental Defense Buff",
             "Elemental Defense Debuff"
+        ],
+        "skill_types": [
+            "Buffers (DEF)",
+            "Damage Sharers",
+            "Debuffers (DEF)"
         ],
         "source": "Super Elementals",
         "Release date": "2023-11-06",
@@ -21112,7 +24575,7 @@ window.allHeroes =
         "family": "superelemental",
         "image": "https://i.imgur.com/Jtfysu9.jpg",
         "costume_id": 0,
-        "originalIndex": 642
+        "originalIndex": 643
     },
     {
         "name": "Meadow",
@@ -21125,6 +24588,10 @@ window.allHeroes =
         "types": [
             "Hit 1",
             "Dot 1"
+        ],
+        "skill_types": [
+            "DoT Attackers",
+            "Snipers"
         ],
         "source": "Covenant Summon",
         "Release date": "2022-10-15",
@@ -21144,7 +24611,7 @@ window.allHeroes =
         "family": "plainshunter",
         "image": "https://i.imgur.com/rm17UZ5.jpg",
         "costume_id": 0,
-        "originalIndex": 643
+        "originalIndex": 644
     },
     {
         "name": "Merlin",
@@ -21157,6 +24624,11 @@ window.allHeroes =
         "types": [
             "Hit 1",
             "Mindless attack"
+        ],
+        "skill_types": [
+            "Mindless Attack & Mindless Heal",
+            "Snipers",
+            "Extra Damage Dealers"
         ],
         "source": "Challenge Festival-Avalon",
         "Release date": "2017-01-01",
@@ -21174,7 +24646,7 @@ window.allHeroes =
         "family": "avalon",
         "image": "https://i.imgur.com/z8mBTci.jpg",
         "costume_id": 0,
-        "originalIndex": 644
+        "originalIndex": 645
     },
     {
         "name": "Merlin C1",
@@ -21187,6 +24659,11 @@ window.allHeroes =
         "types": [
             "Hit 3",
             "Mindless attack"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-3)",
+            "Mindless Attack & Mindless Heal",
+            "Extra Damage Dealers"
         ],
         "source": "Challenge Festival-Avalon",
         "Release date": "2023-04-20",
@@ -21204,7 +24681,7 @@ window.allHeroes =
         "family": "avalon",
         "image": "https://i.imgur.com/VwvFKmH.jpg",
         "costume_id": 1,
-        "originalIndex": 645
+        "originalIndex": 646
     },
     {
         "name": "Proteus",
@@ -21217,6 +24694,10 @@ window.allHeroes =
         "types": [
             "DoT 3",
             "Mana Gain Freeze"
+        ],
+        "skill_types": [
+            "DoT Attackers",
+            "Mana Reducers or Blockers"
         ],
         "source": "S2-Atlantis",
         "Release date": "2019-08-01",
@@ -21233,7 +24714,7 @@ window.allHeroes =
         "family": "atlantis",
         "image": "https://i.imgur.com/m2PmJmo.jpg",
         "costume_id": 0,
-        "originalIndex": 646
+        "originalIndex": 647
     },
     {
         "name": "Proteus C1",
@@ -21246,6 +24727,10 @@ window.allHeroes =
         "types": [
             "DoT All",
             "Mana Debuff All"
+        ],
+        "skill_types": [
+            "DoT Attackers",
+            "Mana Reducers or Blockers"
         ],
         "source": "S2-Atlantis",
         "Release date": "2023-04-03",
@@ -21262,7 +24747,7 @@ window.allHeroes =
         "family": "atlantis",
         "image": "https://i.imgur.com/5sfSAJC.jpg",
         "costume_id": 1,
-        "originalIndex": 647
+        "originalIndex": 648
     },
     {
         "name": "Rigard",
@@ -21275,6 +24760,10 @@ window.allHeroes =
         "types": [
             "Heal All",
             "Cleanser"
+        ],
+        "skill_types": [
+            "Cleansers",
+            "Healers"
         ],
         "source": "S1-Classic",
         "Release date": "2017-01-01",
@@ -21291,7 +24780,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/epzxGwy.jpg",
         "costume_id": 0,
-        "originalIndex": 648
+        "originalIndex": 649
     },
     {
         "name": "Rigard C1",
@@ -21305,6 +24794,11 @@ window.allHeroes =
             "HoT All",
             "Attack Buff All",
             "Cleanser"
+        ],
+        "skill_types": [
+            "Buffers (ATK)",
+            "Cleansers",
+            "Heal over Time (HoT)"
         ],
         "source": "S1-Classic",
         "Release date": "2020-01-01",
@@ -21322,7 +24816,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/9nzkBMP.jpg",
         "costume_id": 1,
-        "originalIndex": 649
+        "originalIndex": 650
     },
     {
         "name": "Rigard C2",
@@ -21336,6 +24830,11 @@ window.allHeroes =
             "Boost Health All",
             "Defense Buff All",
             "Cleanser"
+        ],
+        "skill_types": [
+            "Buffers (DEF)",
+            "Cleansers",
+            "Health Boosters"
         ],
         "source": "S1-Classic",
         "Release date": "2023-04-17",
@@ -21353,7 +24852,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/0dWPfN4.jpg",
         "costume_id": 2,
-        "originalIndex": 650
+        "originalIndex": 651
     },
     {
         "name": "Rigard Toon",
@@ -21367,6 +24866,11 @@ window.allHeroes =
             "Heal All",
             "Defense Buff All",
             "Cleanser"
+        ],
+        "skill_types": [
+            "Cleansers",
+            "Healers",
+            "Buffers (DEF)"
         ],
         "source": "S1-Classic",
         "Release date": "2024-06-28",
@@ -21386,7 +24890,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/rCKWMnx.jpg",
         "costume_id": 3,
-        "originalIndex": 651
+        "originalIndex": 652
     },
     {
         "name": "Sabina",
@@ -21399,6 +24903,10 @@ window.allHeroes =
         "types": [
             "Healer",
             "Dispeller"
+        ],
+        "skill_types": [
+            "Dispellers",
+            "Healers"
         ],
         "source": "S1-Classic",
         "Release date": "2017-01-01",
@@ -21415,7 +24923,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/G6mmZNN.jpg",
         "costume_id": 0,
-        "originalIndex": 652
+        "originalIndex": 653
     },
     {
         "name": "Sabina C1",
@@ -21429,6 +24937,11 @@ window.allHeroes =
             "HOT All",
             "Buff immunity All",
             "Dispeller All"
+        ],
+        "skill_types": [
+            "Buff Blockers",
+            "Dispellers",
+            "Heal over Time (HoT)"
         ],
         "source": "S1-Classic",
         "Release date": "2021-01-18",
@@ -21446,7 +24959,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/flsZEGB.jpg",
         "costume_id": 1,
-        "originalIndex": 653
+        "originalIndex": 654
     },
     {
         "name": "Sabina C2",
@@ -21460,6 +24973,11 @@ window.allHeroes =
             "HoT All",
             "Status Ailment Immunity All",
             "Cleanser"
+        ],
+        "skill_types": [
+            "Cleansers",
+            "Heal over Time (HoT)",
+            "Immunity Providers"
         ],
         "source": "S1-Classic",
         "Release date": "2023-11-27",
@@ -21477,7 +24995,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/EBmu86N.jpg",
         "costume_id": 2,
-        "originalIndex": 654
+        "originalIndex": 655
     },
     {
         "name": "Sabina Toon",
@@ -21491,6 +25009,11 @@ window.allHeroes =
             "Heal All",
             "Defense Buff All",
             "Dispeller"
+        ],
+        "skill_types": [
+            "Buffers (DEF)",
+            "Dispellers",
+            "Healers"
         ],
         "source": "S1-Classic",
         "Release date": "2024-10-06",
@@ -21510,7 +25033,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/8kaUg4T.jpg",
         "costume_id": 3,
-        "originalIndex": 655
+        "originalIndex": 656
     },
     {
         "name": "Sergei",
@@ -21524,6 +25047,11 @@ window.allHeroes =
             "Elemental Defense Debuff",
             "Normal attack buff",
             "Charge"
+        ],
+        "skill_types": [
+            "Buffers (ATK)",
+            "Debuffers (DEF)",
+            "AoE Attackers (Hit-5)"
         ],
         "source": "Tower-Magic",
         "Release date": "2021-09-15",
@@ -21545,7 +25073,7 @@ window.allHeroes =
         "family": "magic",
         "image": "https://i.imgur.com/2gnuaoM.jpg",
         "costume_id": 0,
-        "originalIndex": 656
+        "originalIndex": 657
     },
     {
         "name": "Shar'Khai",
@@ -21558,6 +25086,9 @@ window.allHeroes =
         "types": [
             "Titan Attack Buff",
             "Crit Buff"
+        ],
+        "skill_types": [
+            "Buffers (ATK)"
         ],
         "source": "S6-S7-Untold Tales",
         "Release date": "2023-06-07",
@@ -21584,7 +25115,7 @@ window.allHeroes =
         "family": "nightmaresofatlantis",
         "image": "https://i.imgur.com/pCqXNHO.jpg",
         "costume_id": 0,
-        "originalIndex": 657
+        "originalIndex": 658
     },
     {
         "name": "Shar'Khai C1",
@@ -21597,6 +25128,9 @@ window.allHeroes =
         "types": [
             "Titan Attack Buff",
             "Crit Buff"
+        ],
+        "skill_types": [
+            "Buffers (ATK)"
         ],
         "source": "S6-S7-Untold Tales",
         "Release date": "2025-02-03",
@@ -21624,7 +25158,7 @@ window.allHeroes =
         "family": "nightmaresofatlantis",
         "image": "https://i.imgur.com/ER0xDRX.jpg",
         "costume_id": 1,
-        "originalIndex": 658
+        "originalIndex": 659
     },
     {
         "name": "Shoggo",
@@ -21639,6 +25173,11 @@ window.allHeroes =
             "Insanity",
             "Buff Immunity",
             "Self Insanity"
+        ],
+        "skill_types": [
+            "Buff Blockers",
+            "AoE Attackers (Hit-5)",
+            "Negative Effects On Self Or Allies"
         ],
         "source": "Mystery-Shadow",
         "Release date": "2025-01-09",
@@ -21656,7 +25195,7 @@ window.allHeroes =
         "family": "cultist",
         "image": "https://i.imgur.com/tl6HZEf.jpg",
         "costume_id": 0,
-        "originalIndex": 659
+        "originalIndex": 660
     },
     {
         "name": "Shyombre",
@@ -21669,6 +25208,13 @@ window.allHeroes =
         "types": [
             "Hit 2",
             "Dot 2"
+        ],
+        "skill_types": [
+            "Snipers",
+            "DoT Attackers",
+            "Extra Damage Dealers",
+            "Dodgers",
+            "Minions Counters"
         ],
         "source": "Alliance-Moths",
         "Release date": "2025-01-23",
@@ -21687,7 +25233,7 @@ window.allHeroes =
         "family": "moth",
         "image": "https://i.imgur.com/Gn8sJfi.jpg",
         "costume_id": 0,
-        "originalIndex": 660
+        "originalIndex": 661
     },
     {
         "name": "Stonecleave",
@@ -21699,6 +25245,13 @@ window.allHeroes =
         "skill": "Dire Ghost",
         "types": [
             "Ghost"
+        ],
+        "skill_types": [
+            "Chain & Random Attackers",
+            "Cleansers",
+            "Ghost Form & Hiding",
+            "Stacking Heroes",
+            "AoE Attackers (Hit-5)"
         ],
         "source": "S3-Valhalla",
         "Release date": "2020-02-27",
@@ -21718,7 +25271,7 @@ window.allHeroes =
         "family": "helheim",
         "image": "https://i.imgur.com/7VLylDF.jpg",
         "costume_id": 0,
-        "originalIndex": 661
+        "originalIndex": 662
     },
     {
         "name": "Tiburtus",
@@ -21731,6 +25284,10 @@ window.allHeroes =
         "types": [
             "Hit 3",
             "Defense Debuff 3"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-3)",
+            "Debuffers (DEF)"
         ],
         "source": "S1-Classic",
         "Release date": "2017-01-01",
@@ -21747,7 +25304,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/XQUgnc6.jpg",
         "costume_id": 0,
-        "originalIndex": 662
+        "originalIndex": 663
     },
     {
         "name": "Tiburtus C1",
@@ -21760,6 +25317,10 @@ window.allHeroes =
         "types": [
             "Hit all",
             "Defense Debuff All"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-5)",
+            "Debuffers (DEF)"
         ],
         "source": "S1-Classic",
         "Release date": "2020-01-01",
@@ -21776,7 +25337,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/IyFUCM0.jpg",
         "costume_id": 1,
-        "originalIndex": 663
+        "originalIndex": 664
     },
     {
         "name": "Tiburtus C2",
@@ -21789,6 +25350,10 @@ window.allHeroes =
         "types": [
             "Hit 3",
             "Health Reduction 3"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-3)",
+            "Max Health Reducers"
         ],
         "source": "S1-Classic",
         "Release date": "2023-10-30",
@@ -21805,7 +25370,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/Yc1tBJ1.jpg",
         "costume_id": 2,
-        "originalIndex": 664
+        "originalIndex": 665
     },
     {
         "name": "Tiburtus Toon",
@@ -21818,6 +25383,11 @@ window.allHeroes =
         "types": [
             "Hit 3",
             "Defense Debuff"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-3)",
+            "Debuffers (DEF)",
+            "Extra Damage Dealers"
         ],
         "source": "S1-Classic",
         "Release date": "2024-08-11",
@@ -21837,7 +25407,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/XlVXDYe.jpg",
         "costume_id": 3,
-        "originalIndex": 665
+        "originalIndex": 666
     },
     {
         "name": "Acidfire",
@@ -21852,6 +25422,11 @@ window.allHeroes =
             "Wither attack",
             "Wither defense",
             "Reflect Buffs 3"
+        ],
+        "skill_types": [
+            "Ability Scores Modifiers",
+            "Reflectors",
+            "AoE Attackers (Hit-3)"
         ],
         "source": "Goblin Summon",
         "Release date": "2023-12-11",
@@ -21873,7 +25448,7 @@ window.allHeroes =
         "family": "goblin",
         "image": "https://i.imgur.com/KXpETJ0.jpg",
         "costume_id": 0,
-        "originalIndex": 666
+        "originalIndex": 667
     },
     {
         "name": "Aconia",
@@ -21886,6 +25461,10 @@ window.allHeroes =
         "types": [
             "Fiend Summoner 1",
             "Elemental Fiend Summoner"
+        ],
+        "skill_types": [
+            "DoT Attackers",
+            "Fiends Summoners"
         ],
         "source": "Super Elementals",
         "Release date": "2023-05-22",
@@ -21909,7 +25488,7 @@ window.allHeroes =
         "family": "superelemental",
         "image": "https://i.imgur.com/VT78aoB.jpg",
         "costume_id": 0,
-        "originalIndex": 667
+        "originalIndex": 668
     },
     {
         "name": "Aeron",
@@ -21923,6 +25502,13 @@ window.allHeroes =
             "HoT All",
             "Status Ailment Immunity 3",
             "Cleanser 3"
+        ],
+        "skill_types": [
+            "Cleansers",
+            "Heal over Time (HoT)",
+            "Immunity Providers",
+            "Buffers (ATK)",
+            "Buffers (DEF)"
         ],
         "source": "Hero of the Month",
         "Release date": "2018-04-01T00:00:00",
@@ -21941,7 +25527,7 @@ window.allHeroes =
         "family": 2018,
         "image": "https://i.imgur.com/9AxepJ9.jpg",
         "costume_id": 0,
-        "originalIndex": 668
+        "originalIndex": 669
     },
     {
         "name": "Aeron C1",
@@ -21954,6 +25540,12 @@ window.allHeroes =
         "types": [
             "Healer All",
             "Lifts Ailments 3"
+        ],
+        "skill_types": [
+            "Cleansers",
+            "Healers",
+            "Buffers (ATK)",
+            "Buffers (DEF)"
         ],
         "source": "Hero of the Month",
         "Release date": "2023-01-23",
@@ -21973,7 +25565,7 @@ window.allHeroes =
         "family": 2018,
         "image": "https://i.imgur.com/WvBRV3O.jpg",
         "costume_id": 1,
-        "originalIndex": 669
+        "originalIndex": 670
     },
     {
         "name": "Agrafena",
@@ -21991,6 +25583,14 @@ window.allHeroes =
             "Attack Buff All",
             "Defense Buff All",
             "HoT All"
+        ],
+        "skill_types": [
+            "Buffers (ATK)",
+            "Buffers (DEF)",
+            "Debuffers (ATK)",
+            "Debuffers (DEF)",
+            "DoT Attackers",
+            "Heal over Time (HoT)"
         ],
         "source": "Tower-Magic",
         "Release date": "2021-09-15",
@@ -22016,7 +25616,7 @@ window.allHeroes =
         "family": "magic",
         "image": "https://i.imgur.com/19jbbwr.jpg",
         "costume_id": 0,
-        "originalIndex": 670
+        "originalIndex": 671
     },
     {
         "name": "Agrafena C1",
@@ -22034,6 +25634,14 @@ window.allHeroes =
             "Attack Buff All",
             "Defense Buff All",
             "Boosted HoT All"
+        ],
+        "skill_types": [
+            "Buffers (ATK)",
+            "Buffers (DEF)",
+            "Debuffers (ATK)",
+            "Debuffers (DEF)",
+            "DoT Attackers",
+            "Health Boosters"
         ],
         "source": "Tower-Magic",
         "Release date": "2025-05-29",
@@ -22060,7 +25668,7 @@ window.allHeroes =
         "family": "magic",
         "image": "https://imgur.com/QIlXtnC.jpg",
         "costume_id": 1,
-        "originalIndex": 671
+        "originalIndex": 672
     },
     {
         "name": "Akilius",
@@ -22074,6 +25682,12 @@ window.allHeroes =
             "Steals Minions 1",
             "Hit 1",
             "Blind 3"
+        ],
+        "skill_types": [
+            "Debuffers (ATK)",
+            "Minions Counters",
+            "Snipers",
+            "Buffers (DEF)"
         ],
         "source": "Hero of the Month",
         "Release date": "2025-06-01",
@@ -22095,7 +25709,7 @@ window.allHeroes =
         "family": 2025,
         "image": "https://imgur.com/jq0Lgzp.jpg",
         "costume_id": 0,
-        "originalIndex": 672
+        "originalIndex": 673
     },
     {
         "name": "Alfrike",
@@ -22109,6 +25723,11 @@ window.allHeroes =
             "Hit 5",
             "Health Reduction",
             "Mindless Attack"
+        ],
+        "skill_types": [
+            "Chain & Random Attackers",
+            "Max Health Reducers",
+            "Mindless Attack & Mindless Heal"
         ],
         "source": "S3-Valhalla",
         "Release date": "2020-04-23",
@@ -22127,7 +25746,7 @@ window.allHeroes =
         "family": "svartalfheim",
         "image": "https://i.imgur.com/O54lA6V.jpg",
         "costume_id": 0,
-        "originalIndex": 673
+        "originalIndex": 674
     },
     {
         "name": "Alfrike C1",
@@ -22141,6 +25760,11 @@ window.allHeroes =
             "Hit 5",
             "Health Reduction",
             "Mindless Attack"
+        ],
+        "skill_types": [
+            "Chain & Random Attackers",
+            "Max Health Reducers",
+            "Mindless Attack & Mindless Heal"
         ],
         "source": "S3-Valhalla",
         "Release date": "2023-07-03",
@@ -22159,7 +25783,7 @@ window.allHeroes =
         "family": "svartalfheim",
         "image": "https://i.imgur.com/2AJeAry.jpg",
         "costume_id": 1,
-        "originalIndex": 674
+        "originalIndex": 675
     },
     {
         "name": "Amethyst",
@@ -22172,6 +25796,11 @@ window.allHeroes =
         "types": [
             "Hit All",
             "Fiend Summoner All"
+        ],
+        "skill_types": [
+            "Fiends Summoners",
+            "AoE Attackers (Hit-5)",
+            "DoT Attackers"
         ],
         "source": "Tower-Ninjas",
         "Release date": "2023-01-11",
@@ -22199,7 +25828,7 @@ window.allHeroes =
         "family": "ninja",
         "image": "https://i.imgur.com/OBE1Glz.jpg",
         "costume_id": 0,
-        "originalIndex": 675
+        "originalIndex": 676
     },
     {
         "name": "Anoushka",
@@ -22213,6 +25842,12 @@ window.allHeroes =
             "Heal all",
             "Buff Stealer",
             "Sleep"
+        ],
+        "skill_types": [
+            "Buff Stealers",
+            "Healers",
+            "Sleepweavers",
+            "Buffers (ATK)"
         ],
         "source": "Hero of the Month",
         "Release date": "2024-03-01",
@@ -22237,7 +25872,7 @@ window.allHeroes =
         "family": 2024,
         "image": "https://i.imgur.com/mDRIe3A.jpg",
         "costume_id": 0,
-        "originalIndex": 676
+        "originalIndex": 677
     },
     {
         "name": "Anubis",
@@ -22251,6 +25886,11 @@ window.allHeroes =
             "Greed",
             "DoT all",
             "Defense Debuff"
+        ],
+        "skill_types": [
+            "Buff Blockers",
+            "Debuffers (DEF)",
+            "DoT Attackers"
         ],
         "source": "S5-Dune",
         "Release date": "2023-03-16",
@@ -22272,7 +25912,7 @@ window.allHeroes =
         "family": "moon",
         "image": "https://i.imgur.com/QQQGz6W.jpg",
         "costume_id": 0,
-        "originalIndex": 677
+        "originalIndex": 678
     },
     {
         "name": "Anubis C1",
@@ -22286,6 +25926,11 @@ window.allHeroes =
             "Greed",
             "DoT all",
             "Defense Debuff"
+        ],
+        "skill_types": [
+            "Buff Blockers",
+            "Debuffers (DEF)",
+            "DoT Attackers"
         ],
         "source": "S5-Dune",
         "Release date": "2024-02-05",
@@ -22309,7 +25954,7 @@ window.allHeroes =
         "family": "moon",
         "image": "https://i.imgur.com/8BGU68M.jpg",
         "costume_id": 1,
-        "originalIndex": 678
+        "originalIndex": 679
     },
     {
         "name": "Aramis",
@@ -22324,6 +25969,12 @@ window.allHeroes =
             "Status Ailment Immunity",
             "Damage Heal",
             "Defense Buff"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-3)",
+            "Health Boosters",
+            "Immunity Providers",
+            "Healers (Special)"
         ],
         "source": "Alliance-Musketeers",
         "Release date": "2022-12-14",
@@ -22344,7 +25995,7 @@ window.allHeroes =
         "family": "musketeer",
         "image": "https://i.imgur.com/7DRTWTb.jpg",
         "costume_id": 0,
-        "originalIndex": 679
+        "originalIndex": 680
     },
     {
         "name": "Arfanias",
@@ -22357,6 +26008,12 @@ window.allHeroes =
         "types": [
             "Hit 1",
             "Dodge"
+        ],
+        "skill_types": [
+            "Dodgers",
+            "Snipers",
+            "Extra Damage Dealers",
+            "Buffers (DEF)"
         ],
         "source": "Hero of the Month",
         "Release date": "2022-06-01",
@@ -22378,7 +26035,7 @@ window.allHeroes =
         "family": 2022,
         "image": "https://i.imgur.com/VIzTbRE.jpg",
         "costume_id": 0,
-        "originalIndex": 680
+        "originalIndex": 681
     },
     {
         "name": "Asketel",
@@ -22392,6 +26049,11 @@ window.allHeroes =
             "Hit 3",
             "Insanity 3",
             "Insanity Self"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-3)",
+            "Cleanse Blockers",
+            "Negative Effects On Self Or Allies"
         ],
         "source": "Mystery-Shadow",
         "Release date": "2025-05-13",
@@ -22409,7 +26071,7 @@ window.allHeroes =
         "family": "cultist",
         "image": "https://imgur.com/l1cl4kl.jpg",
         "costume_id": 0,
-        "originalIndex": 681
+        "originalIndex": 682
     },
     {
         "name": "Bastet",
@@ -22422,6 +26084,12 @@ window.allHeroes =
         "types": [
             "Hit All",
             "Dodge Buff"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-5)",
+            "Buffers (DEF)",
+            "Dodgers",
+            "Stacking Heroes"
         ],
         "source": "S5-Dune",
         "Release date": "2022-08-04",
@@ -22442,7 +26110,7 @@ window.allHeroes =
         "family": "moon",
         "image": "https://i.imgur.com/4N9tjf5.jpg",
         "costume_id": 0,
-        "originalIndex": 682
+        "originalIndex": 683
     },
     {
         "name": "Bastet C1",
@@ -22455,6 +26123,12 @@ window.allHeroes =
         "types": [
             "Hit All",
             "Dodge buff"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-5)",
+            "Dodgers",
+            "Buffers (DEF)",
+            "Stacking Heroes"
         ],
         "source": "S5-Dune",
         "Release date": "2024-08-10",
@@ -22477,7 +26151,7 @@ window.allHeroes =
         "family": "moon",
         "image": "https://i.imgur.com/21HSfR4.jpg",
         "costume_id": 1,
-        "originalIndex": 683
+        "originalIndex": 684
     },
     {
         "name": "Becky",
@@ -22490,6 +26164,14 @@ window.allHeroes =
         "types": [
             "Hit 1",
             "Mana Increase"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-5)",
+            "Mana Raisers",
+            "Mana Reducers or Blockers",
+            "Snipers",
+            "Stacking Heroes",
+            "Healers"
         ],
         "source": "Tower-Magic",
         "Release date": "2023-06-28",
@@ -22514,7 +26196,7 @@ window.allHeroes =
         "family": "magic",
         "image": "https://i.imgur.com/xqlrby4.jpg",
         "costume_id": 0,
-        "originalIndex": 684
+        "originalIndex": 685
     },
     {
         "name": "Belladonna",
@@ -22528,6 +26210,12 @@ window.allHeroes =
             "Heal all",
             "Attack Buff",
             "Dispel Immunity"
+        ],
+        "skill_types": [
+            "Buffers (ATK)",
+            "Healers",
+            "Immunity Providers",
+            "Healers (Special)"
         ],
         "source": "Challenge Festival-Bards",
         "Release date": "2023-03-23",
@@ -22548,7 +26236,7 @@ window.allHeroes =
         "family": "bard",
         "image": "https://i.imgur.com/sGuDCiH.jpg",
         "costume_id": 0,
-        "originalIndex": 685
+        "originalIndex": 686
     },
     {
         "name": "Bera",
@@ -22562,6 +26250,11 @@ window.allHeroes =
             "Summoner",
             "Minion Blocking",
             "DoT 1"
+        ],
+        "skill_types": [
+            "DoT Attackers",
+            "Minions Counters",
+            "Minions Summoners"
         ],
         "source": "S3-Valhalla",
         "Release date": "2020-09-24",
@@ -22580,7 +26273,7 @@ window.allHeroes =
         "family": "vanaheim",
         "image": "https://i.imgur.com/NBFcAXz.jpg",
         "costume_id": 0,
-        "originalIndex": 686
+        "originalIndex": 687
     },
     {
         "name": "Bera C1",
@@ -22594,6 +26287,11 @@ window.allHeroes =
             "Summoner",
             "Minion Blocking",
             "DoT 1"
+        ],
+        "skill_types": [
+            "DoT Attackers",
+            "Minions Counters",
+            "Minions Summoners"
         ],
         "source": "S3-Valhalla",
         "Release date": "2023-06-05",
@@ -22612,7 +26310,7 @@ window.allHeroes =
         "family": "vanaheim",
         "image": "https://i.imgur.com/jUs21jO.jpg",
         "costume_id": 1,
-        "originalIndex": 687
+        "originalIndex": 688
     },
     {
         "name": "Boss Wolf",
@@ -22626,6 +26324,11 @@ window.allHeroes =
             "Mana Generation Buff",
             "Mana Generation Debuff",
             "Counterattack"
+        ],
+        "skill_types": [
+            "Counterattackers",
+            "Mana Generation Buffers",
+            "Mana Reducers or Blockers"
         ],
         "source": "Challenge Festival-Grim Forest",
         "Release date": "2018-06-01",
@@ -22643,7 +26346,7 @@ window.allHeroes =
         "family": "grimforest",
         "image": "https://i.imgur.com/iVvmOFs.jpg",
         "costume_id": 0,
-        "originalIndex": 688
+        "originalIndex": 689
     },
     {
         "name": "Carta",
@@ -22657,6 +26360,12 @@ window.allHeroes =
             "Healer All",
             "Lifts Ailments",
             "Mana generation Buff All"
+        ],
+        "skill_types": [
+            "Cleansers",
+            "Healers",
+            "Mana Generation Buffers",
+            "Health Boosters"
         ],
         "source": "Covenant Summon",
         "Release date": "2024-04-25",
@@ -22679,7 +26388,7 @@ window.allHeroes =
         "family": "construct",
         "image": "https://i.imgur.com/uiGjBrD.jpg",
         "costume_id": 0,
-        "originalIndex": 689
+        "originalIndex": 690
     },
     {
         "name": "Cecilia",
@@ -22693,7 +26402,12 @@ window.allHeroes =
             "Hit all",
             "Dodge to All"
         ],
-        "source": "Alliance-Knights Charge",
+        "skill_types": [
+            "AoE Attackers (Hit-5)",
+            "Dodgers",
+            "Health Boosters"
+        ],
+        "source": "Alliance-Knights Clash",
         "Release date": "2024-04-10",
         "star": 5,
         "power": 1028,
@@ -22710,7 +26424,7 @@ window.allHeroes =
         "family": "stag",
         "image": "https://i.imgur.com/FjOt9jJ.jpg",
         "costume_id": 0,
-        "originalIndex": 690
+        "originalIndex": 691
     },
     {
         "name": "Cennius",
@@ -22723,6 +26437,12 @@ window.allHeroes =
         "types": [
             "Hit 1",
             "Chain Hit"
+        ],
+        "skill_types": [
+            "Chain & Random Attackers",
+            "Extra Damage Dealers",
+            "Snipers",
+            "Bypassers"
         ],
         "source": "Tower-Owls",
         "Release date": "2024-07-02",
@@ -22743,7 +26463,7 @@ window.allHeroes =
         "family": "owl",
         "image": "https://i.imgur.com/FJtndTk.jpg",
         "costume_id": 0,
-        "originalIndex": 691
+        "originalIndex": 692
     },
     {
         "name": "Chakkoszrot",
@@ -22757,6 +26477,12 @@ window.allHeroes =
             "Hit All",
             "Mana Generation Debuff",
             "Buff Immunity Debuff"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-5)",
+            "Buff Blockers",
+            "Healers (Special)",
+            "Mana Reducers or Blockers"
         ],
         "source": "Hero of the Month",
         "Release date": "2021-08-01",
@@ -22778,7 +26504,7 @@ window.allHeroes =
         "family": 2021,
         "image": "https://i.imgur.com/tvzGcka.jpg",
         "costume_id": 0,
-        "originalIndex": 692
+        "originalIndex": 693
     },
     {
         "name": "Charon",
@@ -22793,6 +26519,11 @@ window.allHeroes =
             "Boost health All",
             "Reviver",
             "HoT"
+        ],
+        "skill_types": [
+            "Health Boosters",
+            "Revivers",
+            "Heal over Time (HoT)"
         ],
         "source": "Tower-Styx",
         "Release date": "2022-11-16",
@@ -22820,7 +26551,7 @@ window.allHeroes =
         "family": "styx",
         "image": "https://i.imgur.com/eSyywNh.jpg",
         "costume_id": 0,
-        "originalIndex": 693
+        "originalIndex": 694
     },
     {
         "name": "Clarissa",
@@ -22833,6 +26564,12 @@ window.allHeroes =
         "types": [
             "Hit 3",
             "DoT 3"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-3)",
+            "DoT Attackers",
+            "Extra Damage Dealers",
+            "Buffers (DEF)"
         ],
         "source": "Hero of the Month",
         "Release date": "2020-05-01",
@@ -22853,7 +26590,7 @@ window.allHeroes =
         "family": 2020,
         "image": "https://i.imgur.com/YBAuibe.jpg",
         "costume_id": 0,
-        "originalIndex": 694
+        "originalIndex": 695
     },
     {
         "name": "Dark Lord",
@@ -22868,6 +26605,12 @@ window.allHeroes =
             "Reduces buffs duration 3",
             "Dot 3",
             "Mana Generation Debuff 3"
+        ],
+        "skill_types": [
+            "DoT Attackers",
+            "Mana Reducers or Blockers",
+            "Snipers",
+            "Effect Duration Resetters"
         ],
         "source": "Challenge Festival-Villains",
         "Release date": "2021-02-11",
@@ -22885,7 +26628,7 @@ window.allHeroes =
         "family": "villains",
         "image": "https://i.imgur.com/ja50n6G.jpg",
         "costume_id": 0,
-        "originalIndex": 695
+        "originalIndex": 696
     },
     {
         "name": "Dark Lord C1",
@@ -22900,6 +26643,12 @@ window.allHeroes =
             "Reduces buffs duration 3",
             "DoT 3",
             "Mana Generation Debuff 3"
+        ],
+        "skill_types": [
+            "DoT Attackers",
+            "Effect Duration Resetters",
+            "Mana Reducers or Blockers",
+            "Snipers"
         ],
         "source": "Challenge Festival-Villains",
         "Release date": "2024-11-14",
@@ -22919,7 +26668,7 @@ window.allHeroes =
         "family": "villains",
         "image": "https://i.imgur.com/Mz4axni.jpg",
         "costume_id": 1,
-        "originalIndex": 696
+        "originalIndex": 697
     },
     {
         "name": "Darkbeat",
@@ -22934,6 +26683,12 @@ window.allHeroes =
             "Reduce Ailments Duration by 2",
             "Reduce Buffs Duration by 2",
             "Buff Dispel immunity All"
+        ],
+        "skill_types": [
+            "Resurrection Inhibitors",
+            "Effect Duration Resetters",
+            "AoE Attackers (Hit-5)",
+            "Immunity Providers"
         ],
         "source": "Challenge Festival-Bards",
         "Release date": "2025-04-09",
@@ -22954,7 +26709,7 @@ window.allHeroes =
         "family": "bard",
         "image": "https://imgur.com/ypDGkpC.jpg",
         "costume_id": 0,
-        "originalIndex": 697
+        "originalIndex": 698
     },
     {
         "name": "Darkfeather",
@@ -22968,6 +26723,11 @@ window.allHeroes =
             "Healer",
             "Attack buff",
             "Defense buff"
+        ],
+        "skill_types": [
+            "Ability Scores Modifiers",
+            "Chain & Random Attackers",
+            "Healers"
         ],
         "source": "Goblin Summon",
         "Release date": "2023-09-18",
@@ -22989,7 +26749,7 @@ window.allHeroes =
         "family": "goblin",
         "image": "https://i.imgur.com/9UklXhJ.jpg",
         "costume_id": 0,
-        "originalIndex": 698
+        "originalIndex": 699
     },
     {
         "name": "Deadboot",
@@ -23003,6 +26763,12 @@ window.allHeroes =
             "Buff Stealer",
             "Hit 1",
             "Defense Debuff"
+        ],
+        "skill_types": [
+            "Ability Scores Modifiers",
+            "Buff Stealers",
+            "Snipers",
+            "Extra Damage Dealers"
         ],
         "source": "Goblin Summon",
         "Release date": "2023-09-18",
@@ -23025,7 +26791,7 @@ window.allHeroes =
         "family": "goblin",
         "image": "https://i.imgur.com/6DFOAwr.jpg",
         "costume_id": 0,
-        "originalIndex": 699
+        "originalIndex": 700
     },
     {
         "name": "Demilune",
@@ -23039,6 +26805,13 @@ window.allHeroes =
             "Hit 3",
             "Buff steal 3",
             "Growth"
+        ],
+        "skill_types": [
+            "Snipers",
+            "AoE Attackers (Hit-3)",
+            "Buff Stealers",
+            "Buffers (ATK)",
+            "Damage Sharers"
         ],
         "source": "Astral Summon",
         "Release date": "2024-05-20",
@@ -23060,7 +26833,7 @@ window.allHeroes =
         "family": "astralelves",
         "image": "https://i.imgur.com/h0XJ3CG.jpg",
         "costume_id": 0,
-        "originalIndex": 700
+        "originalIndex": 701
     },
     {
         "name": "Diaochan",
@@ -23073,6 +26846,11 @@ window.allHeroes =
         "types": [
             "Heal all",
             "Summoner"
+        ],
+        "skill_types": [
+            "Buff Stealers",
+            "Minions Summoners",
+            "Healers"
         ],
         "source": "Three Kingdoms Summon",
         "Release date": "2022-03-14T12:00:00",
@@ -23090,7 +26868,7 @@ window.allHeroes =
         "family": "kingdom",
         "image": "https://i.imgur.com/PBEksgr.jpg",
         "costume_id": 0,
-        "originalIndex": 701
+        "originalIndex": 702
     },
     {
         "name": "Diaochan C1",
@@ -23103,6 +26881,11 @@ window.allHeroes =
         "types": [
             "Healer",
             "Summoner"
+        ],
+        "skill_types": [
+            "Buff Stealers",
+            "Healers",
+            "Minions Summoners"
         ],
         "source": "Three Kingdoms Summon",
         "Release date": "2024-05-28",
@@ -23125,7 +26908,7 @@ window.allHeroes =
         "family": "kingdom",
         "image": "https://i.imgur.com/ZWN9v1V.jpg",
         "costume_id": 1,
-        "originalIndex": 702
+        "originalIndex": 703
     },
     {
         "name": "Domitia",
@@ -23139,6 +26922,11 @@ window.allHeroes =
             "Hit 1",
             "Elemental Defense Buff 3",
             "Dispeller 3"
+        ],
+        "skill_types": [
+            "Buffers (DEF)",
+            "Dispellers",
+            "Snipers"
         ],
         "source": "S1-Classic",
         "Release date": "2017-01-01",
@@ -23156,7 +26944,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/t244Fcr.jpg",
         "costume_id": 0,
-        "originalIndex": 703
+        "originalIndex": 704
     },
     {
         "name": "Domitia C1",
@@ -23170,6 +26958,11 @@ window.allHeroes =
             "Hit 1",
             "Dot 3",
             "Cleanser 3"
+        ],
+        "skill_types": [
+            "Cleansers",
+            "DoT Attackers",
+            "Snipers"
         ],
         "source": "S1-Classic",
         "Release date": "2020-05-18",
@@ -23187,7 +26980,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/mpRxFeU.jpg",
         "costume_id": 1,
-        "originalIndex": 704
+        "originalIndex": 705
     },
     {
         "name": "Domitia C2",
@@ -23200,6 +26993,11 @@ window.allHeroes =
         "types": [
             "Hit 3",
             "Elemental Defense Debuff 3"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-3)",
+            "Debuffers (DEF)",
+            "Extra Damage Dealers"
         ],
         "source": "S1-Classic",
         "Release date": "2022-10-31",
@@ -23217,7 +27015,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/36NtLB6.jpg",
         "costume_id": 2,
-        "originalIndex": 705
+        "originalIndex": 706
     },
     {
         "name": "Domitia Toon",
@@ -23231,6 +27029,12 @@ window.allHeroes =
             "Hit 1",
             "Elemental Defense Buff 3",
             "Dispeller"
+        ],
+        "skill_types": [
+            "Snipers",
+            "Buffers (DEF)",
+            "Extra Damage Dealers",
+            "Dispellers"
         ],
         "source": "S1-Classic",
         "Release date": "2024-03-11",
@@ -23251,7 +27055,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/q7quKlm.jpg",
         "costume_id": 3,
-        "originalIndex": 706
+        "originalIndex": 707
     },
     {
         "name": "Domitia Glass",
@@ -23266,6 +27070,12 @@ window.allHeroes =
             "Bypass",
             "Elemental Defense Buff 3",
             "Dispeller 3"
+        ],
+        "skill_types": [
+            "Buffers (DEF)",
+            "Bypassers",
+            "Dispellers",
+            "Snipers"
         ],
         "source": "S1-Classic",
         "Release date": "2025-04-23",
@@ -23286,7 +27096,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://imgur.com/gwMXUDN.jpg",
         "costume_id": 4,
-        "originalIndex": 707
+        "originalIndex": 708
     },
     {
         "name": "Dr. Moreau",
@@ -23299,6 +27109,10 @@ window.allHeroes =
         "types": [
             "Hit 3",
             "Accuracy Debuff"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-3)",
+            "Debuffers (ATK)"
         ],
         "source": "S4-Wilderness",
         "Release date": "2021-03-25",
@@ -23317,7 +27131,7 @@ window.allHeroes =
         "family": "underwild",
         "image": "https://i.imgur.com/fpP6oo2.jpg",
         "costume_id": 0,
-        "originalIndex": 708
+        "originalIndex": 709
     },
     {
         "name": "Dr. Moreau C1",
@@ -23330,6 +27144,10 @@ window.allHeroes =
         "types": [
             "Hit 3",
             "Accuracy Debuff"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-3)",
+            "Debuffers (ATK)"
         ],
         "source": "S4-Wilderness",
         "Release date": "2023-04-27",
@@ -23349,7 +27167,7 @@ window.allHeroes =
         "family": "underwild",
         "image": "https://i.imgur.com/WWxEz6I.jpg",
         "costume_id": 1,
-        "originalIndex": 709
+        "originalIndex": 710
     },
     {
         "name": "Dreadstar",
@@ -23363,6 +27181,14 @@ window.allHeroes =
             "Hit All",
             "Mana Generation debuff",
             "Healing debuff"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-5)",
+            "Debuffers (DEF)",
+            "Extra Damage Dealers",
+            "Healing Reducers",
+            "Mana Reducers or Blockers",
+            "Damage Sharers"
         ],
         "source": "Astral Summon",
         "Release date": "2024-03-07",
@@ -23384,7 +27210,7 @@ window.allHeroes =
         "family": "astralelves",
         "image": "https://i.imgur.com/XzGqN00.jpg",
         "costume_id": 0,
-        "originalIndex": 710
+        "originalIndex": 711
     },
     {
         "name": "Dubhan",
@@ -23398,6 +27224,12 @@ window.allHeroes =
             "Hit 1",
             "Chain",
             "DoT"
+        ],
+        "skill_types": [
+            "Chain & Random Attackers",
+            "DoT Attackers",
+            "Healers (Special)",
+            "Snipers"
         ],
         "source": "Covenant Summon",
         "Release date": "2024-05-23",
@@ -23418,7 +27250,7 @@ window.allHeroes =
         "family": "plainshunter",
         "image": "https://i.imgur.com/erlDPi2.jpg",
         "costume_id": 0,
-        "originalIndex": 711
+        "originalIndex": 712
     },
     {
         "name": "Dularfulr",
@@ -23432,6 +27264,11 @@ window.allHeroes =
             "Healer",
             "Firestorm Ward",
             "Status Ailments Immunity"
+        ],
+        "skill_types": [
+            "Healers",
+            "Damage Reducers",
+            "Immunity Providers"
         ],
         "source": "S6-S7-Untold Tales",
         "Release date": "2024-12-03",
@@ -23455,7 +27292,7 @@ window.allHeroes =
         "family": "nidavellir",
         "image": "https://i.imgur.com/mO16Dj6.jpg",
         "costume_id": 0,
-        "originalIndex": 712
+        "originalIndex": 713
     },
     {
         "name": "Eros",
@@ -23468,6 +27305,10 @@ window.allHeroes =
         "types": [
             "Hit 1",
             "Damage Received Debuff"
+        ],
+        "skill_types": [
+            "Extra Damage Dealers",
+            "Snipers"
         ],
         "source": "Monthly Event-Love Season",
         "Release date": "2024-01-08",
@@ -23486,7 +27327,7 @@ window.allHeroes =
         "family": "cupid",
         "image": "https://i.imgur.com/5JDsRr2.jpg",
         "costume_id": 0,
-        "originalIndex": 713
+        "originalIndex": 714
     },
     {
         "name": "Experience Mimic Dark",
@@ -23500,6 +27341,15 @@ window.allHeroes =
             "Minion Destroyer 1",
             "Hit 1",
             "Mimic Chest"
+        ],
+        "skill_types": [
+            "Healers (Special)",
+            "Mana Raisers",
+            "Minions Counters",
+            "Snipers",
+            "Immunity Providers",
+            "Ghost Form & Hiding",
+            "Bypassers"
         ],
         "source": "Extra Draw-Secret Summon",
         "Release date": "2025-06-06",
@@ -23526,7 +27376,7 @@ window.allHeroes =
         "family": "mimic",
         "image": "https://imgur.com/HBoOGrf.jpg",
         "costume_id": 0,
-        "originalIndex": 714
+        "originalIndex": 715
     },
     {
         "name": "Farrah",
@@ -23540,6 +27390,11 @@ window.allHeroes =
             "Hit 1",
             "Hit random",
             "Elemental Defense Debuff"
+        ],
+        "skill_types": [
+            "Chain & Random Attackers",
+            "Debuffers (DEF)",
+            "Snipers"
         ],
         "source": "Super Elementals",
         "Release date": "2023-11-06",
@@ -23563,7 +27418,7 @@ window.allHeroes =
         "family": "superelemental",
         "image": "https://i.imgur.com/ciEXCLt.jpg",
         "costume_id": 0,
-        "originalIndex": 715
+        "originalIndex": 716
     },
     {
         "name": "Freya",
@@ -23576,6 +27431,11 @@ window.allHeroes =
         "types": [
             "Summoner",
             "Defense Buffer"
+        ],
+        "skill_types": [
+            "Buffers (DEF)",
+            "Minions Boosters",
+            "Minions Summoners"
         ],
         "source": "S3-Valhalla",
         "Release date": "2020-02-27",
@@ -23593,7 +27453,7 @@ window.allHeroes =
         "family": "vanaheim",
         "image": "https://i.imgur.com/4iJaoi6.jpg",
         "costume_id": 0,
-        "originalIndex": 716
+        "originalIndex": 717
     },
     {
         "name": "Freya C1",
@@ -23606,6 +27466,11 @@ window.allHeroes =
         "types": [
             "Summoner",
             "Dodge Buff"
+        ],
+        "skill_types": [
+            "Dodgers",
+            "Minions Boosters",
+            "Minions Summoners"
         ],
         "source": "S3-Valhalla",
         "Release date": "2022-08-01",
@@ -23623,7 +27488,7 @@ window.allHeroes =
         "family": "vanaheim",
         "image": "https://i.imgur.com/Ye3Esdg.jpg",
         "costume_id": 1,
-        "originalIndex": 717
+        "originalIndex": 718
     },
     {
         "name": "Gastille",
@@ -23636,6 +27501,10 @@ window.allHeroes =
         "types": [
             "Attack buff",
             "Damage Increased Debuff All"
+        ],
+        "skill_types": [
+            "Buffers (ATK)",
+            "Extra Damage Dealers"
         ],
         "source": "Super Elementals",
         "Release date": "2024-03-25",
@@ -23658,7 +27527,7 @@ window.allHeroes =
         "family": "superelemental",
         "image": "https://i.imgur.com/Hq9OxQ2.jpg",
         "costume_id": 0,
-        "originalIndex": 718
+        "originalIndex": 719
     },
     {
         "name": "Gongoth",
@@ -23672,6 +27541,11 @@ window.allHeroes =
             "Hit 3",
             "Wither 3",
             "Increased Damage 3"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-3)",
+            "Extra Damage Dealers",
+            "Ability Scores Modifiers"
         ],
         "source": "Astral Summon",
         "Release date": "2025-05-07",
@@ -23693,7 +27567,7 @@ window.allHeroes =
         "family": "astraldwarfs",
         "image": "https://imgur.com/qkGDpyg.jpg",
         "costume_id": 0,
-        "originalIndex": 719
+        "originalIndex": 720
     },
     {
         "name": "Gooldron",
@@ -23708,6 +27582,12 @@ window.allHeroes =
             "Slime Fiend Summoner 3",
             "Buff Stealing Fiend",
             "Growth Stealing Fiend"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-3)",
+            "Fiends Summoners",
+            "Buff Stealers",
+            "DoT Attackers"
         ],
         "source": "Super Elementals",
         "Release date": "2024-11-27",
@@ -23729,7 +27609,7 @@ window.allHeroes =
         "family": "slime",
         "image": "https://i.imgur.com/pQjaPYL.jpg",
         "costume_id": 0,
-        "originalIndex": 720
+        "originalIndex": 721
     },
     {
         "name": "Goretooth",
@@ -23743,6 +27623,11 @@ window.allHeroes =
             "Hit 1",
             "Defense Debuff",
             "Mana Gain Freeze"
+        ],
+        "skill_types": [
+            "Debuffers (DEF)",
+            "Mana Reducers or Blockers",
+            "Snipers"
         ],
         "source": "Covenant Summon",
         "Release date": "2022-12-24",
@@ -23763,7 +27648,7 @@ window.allHeroes =
         "family": "abysshunter",
         "image": "https://i.imgur.com/gtuGK1d.jpg",
         "costume_id": 0,
-        "originalIndex": 721
+        "originalIndex": 722
     },
     {
         "name": "Goseck",
@@ -23775,6 +27660,11 @@ window.allHeroes =
         "skill": "Revengeful Smite",
         "types": [
             "Hit All"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-5)",
+            "Extra Damage Dealers",
+            "Damage Reducers"
         ],
         "source": "Challenge-Gargoyle",
         "Release date": "2022-05-12",
@@ -23793,7 +27683,7 @@ window.allHeroes =
         "family": "gargoyle",
         "image": "https://i.imgur.com/OKV9H3h.jpg",
         "costume_id": 0,
-        "originalIndex": 722
+        "originalIndex": 723
     },
     {
         "name": "Griffex",
@@ -23806,6 +27696,10 @@ window.allHeroes =
         "types": [
             "Mana Reducer",
             "Mana Increase"
+        ],
+        "skill_types": [
+            "Mana Raisers",
+            "Mana Reducers or Blockers"
         ],
         "source": "Super Elementals",
         "Release date": "2023-05-22",
@@ -23828,7 +27722,7 @@ window.allHeroes =
         "family": "superelemental",
         "image": "https://i.imgur.com/uvhkpHJ.jpg",
         "costume_id": 0,
-        "originalIndex": 723
+        "originalIndex": 724
     },
     {
         "name": "Grimble",
@@ -23841,6 +27735,12 @@ window.allHeroes =
         "types": [
             "Minion Destroyer All",
             "Hit All"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-5)",
+            "Buffers (ATK)",
+            "Mana Raisers",
+            "Minions Counters"
         ],
         "source": "Hero of the Month",
         "Release date": "2019-12-01",
@@ -23861,7 +27761,7 @@ window.allHeroes =
         "family": 2019,
         "image": "https://i.imgur.com/1sMnXH3.jpg",
         "costume_id": 0,
-        "originalIndex": 724
+        "originalIndex": 725
     },
     {
         "name": "Guardian Panther",
@@ -23875,6 +27775,11 @@ window.allHeroes =
             "Hit 3",
             "Dispeller",
             "Elemental Defense Debuff"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-3)",
+            "Debuffers (DEF)",
+            "Dispellers"
         ],
         "source": "Challenge Festival-Guardians",
         "Release date": "2017-01-01",
@@ -23892,7 +27797,7 @@ window.allHeroes =
         "family": "guardiansteltoc",
         "image": "https://i.imgur.com/DIjmjpT.jpg",
         "costume_id": 0,
-        "originalIndex": 725
+        "originalIndex": 726
     },
     {
         "name": "Guardian Panther C1",
@@ -23905,6 +27810,11 @@ window.allHeroes =
         "types": [
             "Hit all",
             "Defense Debuff"
+        ],
+        "skill_types": [
+            "Buff Blockers",
+            "Debuffers (DEF)",
+            "AoE Attackers (Hit-5)"
         ],
         "source": "Challenge Festival-Guardians",
         "Release date": "2022-06-16",
@@ -23922,7 +27832,7 @@ window.allHeroes =
         "family": "guardiansteltoc",
         "image": "https://i.imgur.com/ZdPyBw5.jpg",
         "costume_id": 1,
-        "originalIndex": 726
+        "originalIndex": 727
     },
     {
         "name": "Gunktus",
@@ -23936,6 +27846,11 @@ window.allHeroes =
             "Hit 3",
             "Attack buff 1",
             "Slime Revive 1"
+        ],
+        "skill_types": [
+            "Revivers",
+            "AoE Attackers (Hit-3)",
+            "Buffers (ATK)"
         ],
         "source": "Solstice Summon",
         "Release date": "2024-06-18",
@@ -23963,7 +27878,7 @@ window.allHeroes =
         "family": "slime",
         "image": "https://i.imgur.com/gYtmXoK.jpg",
         "costume_id": 0,
-        "originalIndex": 727
+        "originalIndex": 728
     },
     {
         "name": "Hannah",
@@ -23977,6 +27892,12 @@ window.allHeroes =
             "Hit 3",
             "Fiend Summoner 3",
             "Attack Debuff Fiend"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-3)",
+            "Debuffers (ATK)",
+            "Fiends Summoners",
+            "DoT Attackers"
         ],
         "source": "S4-Wilderness",
         "Release date": "2021-06-17",
@@ -23997,7 +27918,7 @@ window.allHeroes =
         "family": "underwild",
         "image": "https://i.imgur.com/adxVUbU.jpg",
         "costume_id": 0,
-        "originalIndex": 728
+        "originalIndex": 729
     },
     {
         "name": "Hannah C1",
@@ -24010,6 +27931,12 @@ window.allHeroes =
         "types": [
             "Hit 3",
             "Fiends 3"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-3)",
+            "Debuffers (ATK)",
+            "Fiends Summoners",
+            "DoT Attackers"
         ],
         "source": "S4-Wilderness",
         "Release date": "2024-04-25",
@@ -24031,7 +27958,7 @@ window.allHeroes =
         "family": "underwild",
         "image": "https://i.imgur.com/uhuj4Z5.jpg",
         "costume_id": 1,
-        "originalIndex": 729
+        "originalIndex": 730
     },
     {
         "name": "Hawthorn",
@@ -24046,6 +27973,13 @@ window.allHeroes =
             "Mana Regen All",
             "Reflect Ailments All",
             "Reflect Stacks All"
+        ],
+        "skill_types": [
+            "DoT Attackers",
+            "Health Boosters",
+            "Mana Raisers",
+            "Reflectors",
+            "Heal over Time (HoT)"
         ],
         "source": "Covenant Summon",
         "Release date": "2022-09-18",
@@ -24066,7 +28000,7 @@ window.allHeroes =
         "family": "plainshunter",
         "image": "https://i.imgur.com/fbtStrK.jpg",
         "costume_id": 0,
-        "originalIndex": 730
+        "originalIndex": 731
     },
     {
         "name": "Hel",
@@ -24079,6 +28013,13 @@ window.allHeroes =
         "types": [
             "Hit 3",
             "Mana Gain Freeze"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-3)",
+            "Extra Damage Dealers",
+            "Mana Reducers or Blockers",
+            "Buffers (ATK)",
+            "Buffers (DEF)"
         ],
         "source": "Hero of the Month",
         "Release date": "2017-06-01T00:00:00",
@@ -24097,7 +28038,7 @@ window.allHeroes =
         "family": 2017,
         "image": "https://i.imgur.com/5oaRVxv.jpg",
         "costume_id": 0,
-        "originalIndex": 731
+        "originalIndex": 732
     },
     {
         "name": "Hel C1",
@@ -24110,6 +28051,14 @@ window.allHeroes =
         "types": [
             "Hit All",
             "Mana Steal"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-5)",
+            "Extra Damage Dealers",
+            "Mana Raisers",
+            "Mana Reducers or Blockers",
+            "Buffers (ATK)",
+            "Dispellers"
         ],
         "source": "Hero of the Month",
         "Release date": "2022-11-28T11:00:00",
@@ -24130,7 +28079,7 @@ window.allHeroes =
         "family": 2017,
         "image": "https://i.imgur.com/8SUbwUY.jpg",
         "costume_id": 1,
-        "originalIndex": 732
+        "originalIndex": 733
     },
     {
         "name": "Hreidmarr",
@@ -24141,6 +28090,17 @@ window.allHeroes =
         "speed": "Slow",
         "skill": "Dwarven King’s Levy",
         "types": [],
+        "skill_types": [
+            "Buff Stealers",
+            "Mana Reducers or Blockers",
+            "Snipers",
+            "Mana Raisers",
+            "Extra Damage Dealers",
+            "Bypassers",
+            "DoT Attackers",
+            "Debuffers (DEF)",
+            "Minions Counters"
+        ],
         "source": "S6-S7-Untold Tales",
         "Release date": "2025-02-23",
         "star": 5,
@@ -24163,7 +28123,7 @@ window.allHeroes =
         "family": "nidavellir",
         "image": "https://i.imgur.com/UInCnGF.jpg",
         "costume_id": 0,
-        "originalIndex": 733
+        "originalIndex": 734
     },
     {
         "name": "Hulda",
@@ -24175,6 +28135,12 @@ window.allHeroes =
         "skill": "Pet Larva",
         "types": [
             "Summoner"
+        ],
+        "skill_types": [
+            "Buffers (DEF)",
+            "Heal over Time (HoT)",
+            "Mana Generation Buffers",
+            "Minions Summoners"
         ],
         "source": "S4-Wilderness",
         "Release date": "2022-03-24",
@@ -24194,7 +28160,7 @@ window.allHeroes =
         "family": "underwild",
         "image": "https://i.imgur.com/J9OOPtS.jpg",
         "costume_id": 0,
-        "originalIndex": 734
+        "originalIndex": 735
     },
     {
         "name": "Hulda C1",
@@ -24206,6 +28172,12 @@ window.allHeroes =
         "skill": "Larva Prescription",
         "types": [
             "Summoner"
+        ],
+        "skill_types": [
+            "Buffers (DEF)",
+            "Heal over Time (HoT)",
+            "Mana Generation Buffers",
+            "Minions Summoners"
         ],
         "source": "S4-Wilderness",
         "Release date": "2024-03-28",
@@ -24226,7 +28198,7 @@ window.allHeroes =
         "family": "underwild",
         "image": "https://i.imgur.com/sPMKsgr.jpg",
         "costume_id": 1,
-        "originalIndex": 735
+        "originalIndex": 736
     },
     {
         "name": "Hunter",
@@ -24240,6 +28212,11 @@ window.allHeroes =
             "Defense debuff 1",
             "Hit 1",
             "Insanity"
+        ],
+        "skill_types": [
+            "Debuffers (DEF)",
+            "Snipers",
+            "Negative Effects On Self Or Allies"
         ],
         "source": "Extra Draw-Secret Summon",
         "Release date": "2024-06-04",
@@ -24261,7 +28238,7 @@ window.allHeroes =
         "family": "cultist",
         "image": "https://i.imgur.com/4a7tvJs.jpg",
         "costume_id": 0,
-        "originalIndex": 736
+        "originalIndex": 737
     },
     {
         "name": "Hurricane",
@@ -24275,6 +28252,14 @@ window.allHeroes =
             "Hit 3",
             "DoT 3",
             "Stack"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-3)",
+            "DoT Attackers",
+            "Effect Duration Resetters",
+            "Healers (Special)",
+            "Stacking Heroes",
+            "Buffers (ATK)"
         ],
         "source": "Monthly Event-Kalevala",
         "Release date": "2023-05-26",
@@ -24296,7 +28281,7 @@ window.allHeroes =
         "family": "junglehunter",
         "image": "https://i.imgur.com/ts6r2iS.jpg",
         "costume_id": 0,
-        "originalIndex": 737
+        "originalIndex": 738
     },
     {
         "name": "Jabberwock",
@@ -24309,6 +28294,10 @@ window.allHeroes =
         "types": [
             "Hit 3",
             "Dot 3"
+        ],
+        "skill_types": [
+            "DoT Attackers",
+            "Snipers"
         ],
         "source": "Challenge Festival-Wonderland",
         "Release date": "2017-01-01",
@@ -24325,7 +28314,7 @@ window.allHeroes =
         "family": "wonderland",
         "image": "https://i.imgur.com/ODUCn9s.jpg",
         "costume_id": 0,
-        "originalIndex": 738
+        "originalIndex": 739
     },
     {
         "name": "Jabberwock C1",
@@ -24338,6 +28327,11 @@ window.allHeroes =
         "types": [
             "Hit 2",
             "Dot"
+        ],
+        "skill_types": [
+            "DoT Attackers",
+            "Mana Reducers or Blockers",
+            "Snipers"
         ],
         "source": "Challenge Festival-Wonderland",
         "Release date": "2021-12-15",
@@ -24356,7 +28350,7 @@ window.allHeroes =
         "family": "wonderland",
         "image": "https://i.imgur.com/Y9oF73p.jpg",
         "costume_id": 1,
-        "originalIndex": 739
+        "originalIndex": 740
     },
     {
         "name": "Jett",
@@ -24372,6 +28366,16 @@ window.allHeroes =
             "DoT 1",
             "Hit all",
             "Dot All"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-5)",
+            "DoT Attackers",
+            "Healers (Special)",
+            "Snipers",
+            "AoE Attackers (Hit-3)",
+            "Stacking Heroes",
+            "Mana Reducers or Blockers",
+            "Healers"
         ],
         "source": "Tower-Magic",
         "Release date": "2023-11-15",
@@ -24396,7 +28400,7 @@ window.allHeroes =
         "family": "magic",
         "image": "https://i.imgur.com/bHuMYnz.jpg",
         "costume_id": 0,
-        "originalIndex": 740
+        "originalIndex": 741
     },
     {
         "name": "Kageburado",
@@ -24409,6 +28413,11 @@ window.allHeroes =
         "types": [
             "Dispeller 1",
             "Hit 1"
+        ],
+        "skill_types": [
+            "Dispellers",
+            "Extra Damage Dealers",
+            "Snipers"
         ],
         "source": "S2-Atlantis",
         "Release date": "2018-12-01",
@@ -24426,7 +28435,7 @@ window.allHeroes =
         "family": "sakura",
         "image": "https://i.imgur.com/OUhEZUJ.jpg",
         "costume_id": 0,
-        "originalIndex": 741
+        "originalIndex": 742
     },
     {
         "name": "Kageburado C1",
@@ -24441,6 +28450,12 @@ window.allHeroes =
             "Hit 1",
             "Buff immunity 1",
             "Defense Debuff 1"
+        ],
+        "skill_types": [
+            "Buff Blockers",
+            "Debuffers (DEF)",
+            "Dispellers",
+            "Snipers"
         ],
         "source": "S2-Atlantis",
         "Release date": "2021-11-15",
@@ -24459,7 +28474,7 @@ window.allHeroes =
         "family": "sakura",
         "image": "https://i.imgur.com/3Xk7Vld.jpg",
         "costume_id": 1,
-        "originalIndex": 742
+        "originalIndex": 743
     },
     {
         "name": "Karnov",
@@ -24472,6 +28487,12 @@ window.allHeroes =
         "types": [
             "Hit All",
             "Board Alterer"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-5)",
+            "Board Alterers",
+            "Debuffers (ATK)",
+            "Buffers (ATK)"
         ],
         "source": "Challenge Festival-Villains",
         "Release date": "2021-02-11",
@@ -24488,7 +28509,7 @@ window.allHeroes =
         "family": "villains",
         "image": "https://i.imgur.com/uCM3DQT.jpg",
         "costume_id": 0,
-        "originalIndex": 743
+        "originalIndex": 744
     },
     {
         "name": "Karnov C1",
@@ -24501,6 +28522,12 @@ window.allHeroes =
         "types": [
             "Hit All",
             "Board Alterer"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-5)",
+            "Board Alterers",
+            "Extra Damage Dealers",
+            "DoT Attackers"
         ],
         "source": "Challenge Festival-Villains",
         "Release date": "2025-06-15",
@@ -24520,7 +28547,7 @@ window.allHeroes =
         "family": "villains",
         "image": "https://imgur.com/atHtLfK.jpg",
         "costume_id": 1,
-        "originalIndex": 744
+        "originalIndex": 745
     },
     {
         "name": "Kemeny",
@@ -24532,6 +28559,11 @@ window.allHeroes =
         "skill": "Cry for Absolution",
         "types": [
             "Hit All"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-5)",
+            "Extra Damage Dealers",
+            "Damage Reducers"
         ],
         "source": "Challenge-Gargoyle",
         "Release date": "2022-12-29",
@@ -24550,7 +28582,7 @@ window.allHeroes =
         "family": "gargoyle",
         "image": "https://i.imgur.com/PmkgBzd.jpg",
         "costume_id": 0,
-        "originalIndex": 745
+        "originalIndex": 746
     },
     {
         "name": "Khepri",
@@ -24563,6 +28595,11 @@ window.allHeroes =
         "types": [
             "Hit 3",
             "Exploding Fiend Summoner 3"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-3)",
+            "Fiends Summoners",
+            "DoT Attackers"
         ],
         "source": "S5-Dune",
         "Release date": "2022-06-09",
@@ -24585,7 +28622,7 @@ window.allHeroes =
         "family": "moon",
         "image": "https://i.imgur.com/Z6trZDL.jpg",
         "costume_id": 0,
-        "originalIndex": 746
+        "originalIndex": 747
     },
     {
         "name": "Khepri C1",
@@ -24598,6 +28635,11 @@ window.allHeroes =
         "types": [
             "Hit 3",
             "Exploding Fiend Summoner 3"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-3)",
+            "Fiends Summoners",
+            "DoT Attackers"
         ],
         "source": "S5-Dune",
         "Release date": "2025-02-17",
@@ -24622,7 +28664,7 @@ window.allHeroes =
         "family": "moon",
         "image": "https://i.imgur.com/j3u49nY.jpg",
         "costume_id": 1,
-        "originalIndex": 747
+        "originalIndex": 748
     },
     {
         "name": "Khiona",
@@ -24635,6 +28677,11 @@ window.allHeroes =
         "types": [
             "Hit 1",
             "Attack Buff"
+        ],
+        "skill_types": [
+            "Buffers (ATK)",
+            "Snipers",
+            "Heal over Time (HoT)"
         ],
         "source": "Hero of the Month",
         "Release date": "2018-09-01T00:00:00",
@@ -24652,7 +28699,7 @@ window.allHeroes =
         "family": 2018,
         "image": "https://i.imgur.com/1C4Lajq.jpg",
         "costume_id": 0,
-        "originalIndex": 748
+        "originalIndex": 749
     },
     {
         "name": "Khiona C1",
@@ -24665,6 +28712,12 @@ window.allHeroes =
         "types": [
             "Hit 1",
             "Attack Buff"
+        ],
+        "skill_types": [
+            "Buffers (ATK)",
+            "Snipers",
+            "Heal over Time (HoT)",
+            "Dispellers"
         ],
         "source": "Hero of the Month",
         "Release date": "2024-02-09",
@@ -24684,7 +28737,7 @@ window.allHeroes =
         "family": 2018,
         "image": "https://i.imgur.com/mLc9HWv.jpg",
         "costume_id": 1,
-        "originalIndex": 749
+        "originalIndex": 750
     },
     {
         "name": "Khonshu",
@@ -24696,6 +28749,10 @@ window.allHeroes =
         "skill": "Midnight Strike",
         "types": [
             "Hit 1"
+        ],
+        "skill_types": [
+            "Mana Raisers",
+            "Snipers"
         ],
         "source": "S5-Dune",
         "Release date": "2022-04-21",
@@ -24716,7 +28773,7 @@ window.allHeroes =
         "family": "moon",
         "image": "https://i.imgur.com/qiCq8Jo.jpg",
         "costume_id": 0,
-        "originalIndex": 750
+        "originalIndex": 751
     },
     {
         "name": "Khonshu C1",
@@ -24728,6 +28785,10 @@ window.allHeroes =
         "skill": "Midnight Smite",
         "types": [
             "Hit 1"
+        ],
+        "skill_types": [
+            "Mana Raisers",
+            "Snipers"
         ],
         "source": "S5-Dune",
         "Release date": "2024-09-07",
@@ -24750,7 +28811,7 @@ window.allHeroes =
         "family": "moon",
         "image": "https://i.imgur.com/dLlMk1f.jpg",
         "costume_id": 1,
-        "originalIndex": 751
+        "originalIndex": 752
     },
     {
         "name": "Killhare",
@@ -24762,6 +28823,10 @@ window.allHeroes =
         "skill": "Reckless Swing",
         "types": [
             "Hit All"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-5)",
+            "Negative Effects On Self Or Allies"
         ],
         "source": "Monthly Event-Springvale",
         "Release date": "2020-04-16",
@@ -24778,7 +28843,7 @@ window.allHeroes =
         "family": "springvale",
         "image": "https://i.imgur.com/WU18HC0.jpg",
         "costume_id": 0,
-        "originalIndex": 752
+        "originalIndex": 753
     },
     {
         "name": "Killhare C1",
@@ -24790,6 +28855,10 @@ window.allHeroes =
         "skill": "Championship Carrot",
         "types": [
             "Hit all"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-5)",
+            "Negative Effects On Self Or Allies"
         ],
         "source": "Monthly Event-Springvale",
         "Release date": "2022-03-21",
@@ -24806,7 +28875,7 @@ window.allHeroes =
         "family": "springvale",
         "image": "https://i.imgur.com/vAkZp36.jpg",
         "costume_id": 1,
-        "originalIndex": 753
+        "originalIndex": 754
     },
     {
         "name": "Knave of Hearts",
@@ -24820,6 +28889,12 @@ window.allHeroes =
             "Hit 3",
             "Mindless Attack",
             "Summoner All"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-3)",
+            "Mindless Attack & Mindless Heal",
+            "Minions Summoners",
+            "Healers (Special)"
         ],
         "source": "Challenge Festival-Wonderland",
         "Release date": "2024-04-18",
@@ -24837,7 +28912,7 @@ window.allHeroes =
         "family": "wonderland",
         "image": "https://i.imgur.com/BQViteC.jpg",
         "costume_id": 0,
-        "originalIndex": 754
+        "originalIndex": 755
     },
     {
         "name": "Knightus",
@@ -24851,6 +28926,14 @@ window.allHeroes =
             "Hit 1",
             "Devouring Goo",
             "Elemental Defense Debuff All Holy"
+        ],
+        "skill_types": [
+            "Snipers",
+            "DoT Attackers",
+            "Sleepweavers",
+            "Debuffers (DEF)",
+            "Dispellers",
+            "Ability Scores Modifiers"
         ],
         "source": "Super Elementals",
         "Release date": "2025-02-17",
@@ -24873,7 +28956,7 @@ window.allHeroes =
         "family": "slime",
         "image": "https://i.imgur.com/b5SLdod.jpg",
         "costume_id": 0,
-        "originalIndex": 755
+        "originalIndex": 756
     },
     {
         "name": "Kunchen",
@@ -24887,6 +28970,12 @@ window.allHeroes =
             "Healer",
             "Defense Debuffer",
             "Cleanser"
+        ],
+        "skill_types": [
+            "Cleansers",
+            "Debuffers (DEF)",
+            "Healers",
+            "Buffers (DEF)"
         ],
         "source": "Hero of the Month",
         "Release date": "2019-02-01",
@@ -24907,7 +28996,7 @@ window.allHeroes =
         "family": 2019,
         "image": "https://i.imgur.com/4sKh1TW.jpg",
         "costume_id": 0,
-        "originalIndex": 756
+        "originalIndex": 757
     },
     {
         "name": "Lepiota",
@@ -24921,6 +29010,15 @@ window.allHeroes =
             "Hit 1",
             "Full Removal 1",
             "Abyss Ghost 1"
+        ],
+        "skill_types": [
+            "Buff Blockers",
+            "Dispellers",
+            "DoT Attackers",
+            "Snipers",
+            "Stacking Heroes",
+            "Cleansers",
+            "Ghost Form & Hiding"
         ],
         "source": "S4-Wilderness",
         "Release date": "2021-03-25",
@@ -24943,7 +29041,7 @@ window.allHeroes =
         "family": "underwild",
         "image": "https://i.imgur.com/eea7u0v.jpg",
         "costume_id": 0,
-        "originalIndex": 757
+        "originalIndex": 758
     },
     {
         "name": "Lepiota C1",
@@ -24957,6 +29055,15 @@ window.allHeroes =
             "Hit 1",
             "Full Removal 1",
             "Abyss Ghost 1"
+        ],
+        "skill_types": [
+            "Dispellers",
+            "DoT Attackers",
+            "Snipers",
+            "Stacking Heroes",
+            "Cleansers",
+            "Ghost Form & Hiding",
+            "Health Boosters"
         ],
         "source": "S4-Wilderness",
         "Release date": "2023-04-27",
@@ -24980,7 +29087,7 @@ window.allHeroes =
         "family": "underwild",
         "image": "https://i.imgur.com/MgzgOOM.jpg",
         "costume_id": 1,
-        "originalIndex": 758
+        "originalIndex": 759
     },
     {
         "name": "Louhi",
@@ -24993,6 +29100,11 @@ window.allHeroes =
         "types": [
             "Dispel all",
             "Hit all"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-5)",
+            "Debuffers (DEF)",
+            "Dispellers"
         ],
         "source": "Monthly Event-Kalevala",
         "Release date": "2022-06-20",
@@ -25012,7 +29124,7 @@ window.allHeroes =
         "family": "kalevala",
         "image": "https://i.imgur.com/RQWKyOA.jpg",
         "costume_id": 0,
-        "originalIndex": 759
+        "originalIndex": 760
     },
     {
         "name": "Lu Bu",
@@ -25026,6 +29138,12 @@ window.allHeroes =
             "Hit All",
             "Mercenary Fiend Summoner All",
             "Buff Immunity Fiend"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-5)",
+            "Buff Blockers",
+            "Fiends Summoners",
+            "DoT Attackers"
         ],
         "source": "Three Kingdoms Summon",
         "Release date": "2022-03-14T12:00:00",
@@ -25044,7 +29162,7 @@ window.allHeroes =
         "family": "kingdom",
         "image": "https://i.imgur.com/pOnV8Et.jpg",
         "costume_id": 0,
-        "originalIndex": 760
+        "originalIndex": 761
     },
     {
         "name": "Lu Bu C1",
@@ -25058,6 +29176,12 @@ window.allHeroes =
             "Hit All",
             "Mercenary Fiend Summoner All",
             "Buff Immunity Fiend"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-5)",
+            "Buff Blockers",
+            "Fiends Summoners",
+            "DoT Attackers"
         ],
         "source": "Three Kingdoms Summon",
         "Release date": "2024-12-28",
@@ -25081,7 +29205,7 @@ window.allHeroes =
         "family": "kingdom",
         "image": "https://i.imgur.com/9cuTL09.jpg",
         "costume_id": 1,
-        "originalIndex": 761
+        "originalIndex": 762
     },
     {
         "name": "Lucinda",
@@ -25096,6 +29220,12 @@ window.allHeroes =
             "Blind 3",
             "Defense Debuff 3",
             "Self HoT"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-3)",
+            "Debuffers (ATK)",
+            "Debuffers (DEF)",
+            "Heal over Time (HoT)"
         ],
         "source": "Monthly Event-Morlovia",
         "Release date": "2023-09-25",
@@ -25116,7 +29246,7 @@ window.allHeroes =
         "family": "morlovia",
         "image": "https://i.imgur.com/tBoxHA4.jpg",
         "costume_id": 0,
-        "originalIndex": 762
+        "originalIndex": 763
     },
     {
         "name": "Ludwig",
@@ -25130,7 +29260,12 @@ window.allHeroes =
             "Taunt",
             "MoT"
         ],
-        "source": "Alliance-Knights Charge",
+        "skill_types": [
+            "Buffers (DEF)",
+            "Mana Raisers",
+            "Taunters"
+        ],
+        "source": "Alliance-Knights Clash",
         "Release date": "2021-10-13",
         "star": 5,
         "power": 816,
@@ -25146,7 +29281,7 @@ window.allHeroes =
         "family": "wolf",
         "image": "https://i.imgur.com/VV20w6e.jpg",
         "costume_id": 0,
-        "originalIndex": 763
+        "originalIndex": 764
     },
     {
         "name": "Luna",
@@ -25158,6 +29293,11 @@ window.allHeroes =
         "skill": "Lunar Blessing",
         "types": [
             "Healer 3"
+        ],
+        "skill_types": [
+            "Chain & Random Attackers",
+            "Healers",
+            "Mana Reducers or Blockers"
         ],
         "source": "Alliance-Pets",
         "Release date": "2023-09-04",
@@ -25179,7 +29319,7 @@ window.allHeroes =
         "family": "pets",
         "image": "https://i.imgur.com/jt6SH4f.jpg",
         "costume_id": 0,
-        "originalIndex": 764
+        "originalIndex": 765
     },
     {
         "name": "Madame Giry",
@@ -25194,6 +29334,13 @@ window.allHeroes =
             "Fiend Summoner All",
             "Buff Immunity Fiend",
             "Elemental Defense Debuff All"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-5)",
+            "Buff Blockers",
+            "Debuffers (DEF)",
+            "Fiends Summoners",
+            "DoT Attackers"
         ],
         "source": "Solstice Summon",
         "Release date": "2023-11-30",
@@ -25216,7 +29363,7 @@ window.allHeroes =
         "family": "opera",
         "image": "https://i.imgur.com/jLIIusc.jpg",
         "costume_id": 0,
-        "originalIndex": 765
+        "originalIndex": 766
     },
     {
         "name": "Maisie",
@@ -25229,6 +29376,12 @@ window.allHeroes =
         "types": [
             "Boost Health All",
             "Mega Minion"
+        ],
+        "skill_types": [
+            "Health Boosters",
+            "Healers (Special)",
+            "Mega Minions Summoners",
+            "Cleansers"
         ],
         "source": "Goblin Summon",
         "Release date": "2025-02-14",
@@ -25250,7 +29403,7 @@ window.allHeroes =
         "family": "garrisonguard",
         "image": "https://i.imgur.com/aJDM9qb.jpg",
         "costume_id": 0,
-        "originalIndex": 766
+        "originalIndex": 767
     },
     {
         "name": "Malicna",
@@ -25263,6 +29416,13 @@ window.allHeroes =
         "types": [
             "Gambler",
             "Hit 3"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-3)",
+            "Debuffers (ATK)",
+            "Debuffers (DEF)",
+            "Mana Raisers",
+            "Mana Reducers or Blockers"
         ],
         "source": "Hero of the Month",
         "Release date": "2021-03-01",
@@ -25292,7 +29452,7 @@ window.allHeroes =
         "family": 2021,
         "image": "https://i.imgur.com/ZMAYhxa.jpg",
         "costume_id": 0,
-        "originalIndex": 767
+        "originalIndex": 768
     },
     {
         "name": "Marie-Therese",
@@ -25307,6 +29467,12 @@ window.allHeroes =
             "Healer",
             "Defense Buffer",
             "Zombie Buff"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-5)",
+            "Buffers (DEF)",
+            "Heal over Time (HoT)",
+            "Revivers"
         ],
         "source": "Challenge Festival-Pirates",
         "Release date": "2017-01-01",
@@ -25329,7 +29495,7 @@ window.allHeroes =
         "family": "corellia",
         "image": "https://i.imgur.com/sKXoFnG.jpg",
         "costume_id": 0,
-        "originalIndex": 768
+        "originalIndex": 769
     },
     {
         "name": "Marie-Therese C1",
@@ -25343,6 +29509,13 @@ window.allHeroes =
             "Hit all",
             "Health boost",
             "Zombie"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-5)",
+            "Buffers (DEF)",
+            "Health Boosters",
+            "Revivers",
+            "DoT Attackers"
         ],
         "source": "Challenge Festival-Pirates",
         "Release date": "2022-02-17",
@@ -25367,7 +29540,7 @@ window.allHeroes =
         "family": "corellia",
         "image": "https://i.imgur.com/cwv2NUd.jpg",
         "costume_id": 1,
-        "originalIndex": 769
+        "originalIndex": 770
     },
     {
         "name": "Maud",
@@ -25381,7 +29554,13 @@ window.allHeroes =
             "Hit All",
             "Enhanced Dodge"
         ],
-        "source": "S4-Wilderness",
+        "skill_types": [
+            "AoE Attackers (Hit-5)",
+            "Dodgers",
+            "Mana Raisers",
+            "Minions Counters"
+        ],
+        "source": "Wilderness Summon",
         "Release date": "2025-03-26",
         "star": 5,
         "power": 1171,
@@ -25400,7 +29579,7 @@ window.allHeroes =
         "family": "woodlandfaun",
         "image": "https://imgur.com/eOKRXit.jpg",
         "costume_id": 0,
-        "originalIndex": 770
+        "originalIndex": 771
     },
     {
         "name": "Medea",
@@ -25414,6 +29593,11 @@ window.allHeroes =
             "Hit 3",
             "Mindless attack 1",
             "Healing debuff 3"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-3)",
+            "Healing Reducers",
+            "Mindless Attack & Mindless Heal"
         ],
         "source": "S6-S7-Untold Tales",
         "Release date": "2024-01-17",
@@ -25442,7 +29626,7 @@ window.allHeroes =
         "family": "nightmaresofatlantis",
         "image": "https://i.imgur.com/RtOVjbp.jpg",
         "costume_id": 0,
-        "originalIndex": 771
+        "originalIndex": 772
     },
     {
         "name": "Medea C1",
@@ -25456,6 +29640,11 @@ window.allHeroes =
             "Hit 3",
             "Mindless attack 1",
             "Healing debuff 3"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-3)",
+            "Healing Reducers",
+            "Mindless Attack & Mindless Heal"
         ],
         "source": "S6-S7-Untold Tales",
         "Release date": "2024-10-19",
@@ -25484,7 +29673,7 @@ window.allHeroes =
         "family": "nightmaresofatlantis",
         "image": "https://i.imgur.com/CadXjHa.jpg",
         "costume_id": 1,
-        "originalIndex": 772
+        "originalIndex": 773
     },
     {
         "name": "Melancholia",
@@ -25498,6 +29687,13 @@ window.allHeroes =
             "Reviver",
             "Defense buff",
             "Insanity"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-5)",
+            "Revivers",
+            "Buffers (DEF)",
+            "DoT Attackers",
+            "Negative Effects On Self Or Allies"
         ],
         "source": "Extra Draw-Secret Summon",
         "Release date": "2024-05-01",
@@ -25518,7 +29714,7 @@ window.allHeroes =
         "family": "cultist",
         "image": "https://i.imgur.com/okcHBcF.jpg",
         "costume_id": 0,
-        "originalIndex": 773
+        "originalIndex": 774
     },
     {
         "name": "Mok-Arr",
@@ -25531,6 +29727,11 @@ window.allHeroes =
         "types": [
             "Hit All",
             "Hits Ignore Dark"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-5)",
+            "Extra Damage Dealers",
+            "Negative Effects On Self Or Allies"
         ],
         "source": "S2-Atlantis",
         "Release date": "2017-01-01",
@@ -25549,7 +29750,7 @@ window.allHeroes =
         "family": "lagoon",
         "image": "https://i.imgur.com/f9fc9eh.jpg",
         "costume_id": 0,
-        "originalIndex": 774
+        "originalIndex": 775
     },
     {
         "name": "Mok-Arr C1",
@@ -25563,6 +29764,13 @@ window.allHeroes =
             "Hit All",
             "Elemental Attack Buff",
             "Attack Debuff"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-5)",
+            "Buffers (ATK)",
+            "Debuffers (ATK)",
+            "Extra Damage Dealers",
+            "Negative Effects On Self Or Allies"
         ],
         "source": "S2-Atlantis",
         "Release date": "2023-02-06",
@@ -25581,7 +29789,7 @@ window.allHeroes =
         "family": "lagoon",
         "image": "https://i.imgur.com/EOk0EO8.jpg",
         "costume_id": 1,
-        "originalIndex": 775
+        "originalIndex": 776
     },
     {
         "name": "Morax",
@@ -25595,6 +29803,13 @@ window.allHeroes =
             "Hit 3",
             "Mana generation debuff 1",
             "Max Health Reduction 2"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-3)",
+            "Fiends Counters",
+            "Immunity Providers",
+            "Mana Reducers or Blockers",
+            "Max Health Reducers"
         ],
         "source": "Hero of the Month",
         "Release date": "2022-11-01",
@@ -25616,7 +29831,7 @@ window.allHeroes =
         "family": 2022,
         "image": "https://i.imgur.com/9tJznmy.jpg",
         "costume_id": 0,
-        "originalIndex": 776
+        "originalIndex": 777
     },
     {
         "name": "Mortewitch",
@@ -25632,6 +29847,15 @@ window.allHeroes =
             "Healer",
             "Grave Mothling Mega Fiend Summoner 1",
             "Damage Increasing Mega Fiend"
+        ],
+        "skill_types": [
+            "Snipers",
+            "Bypassers",
+            "Healers (Special)",
+            "Fiends Summoners",
+            "Extra Damage Dealers",
+            "Dodgers",
+            "Minions Counters"
         ],
         "source": "Alliance-Moths",
         "Release date": "2025-01-23",
@@ -25654,7 +29878,7 @@ window.allHeroes =
         "family": "moth",
         "image": "https://i.imgur.com/jvJDkdc.jpg",
         "costume_id": 0,
-        "originalIndex": 777
+        "originalIndex": 778
     },
     {
         "name": "Mortimer",
@@ -25667,6 +29891,11 @@ window.allHeroes =
         "types": [
             "Hit 3",
             "Silencer"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-3)",
+            "Immunity Providers",
+            "Silencers"
         ],
         "source": "Monthly Event-Beach Party",
         "Release date": "2023-06-12",
@@ -25687,7 +29916,7 @@ window.allHeroes =
         "family": "beachparty",
         "image": "https://i.imgur.com/J2WmnG0.jpg",
         "costume_id": 0,
-        "originalIndex": 778
+        "originalIndex": 779
     },
     {
         "name": "Myztero",
@@ -25699,6 +29928,9 @@ window.allHeroes =
         "skill": "Absordium Deflectors",
         "types": [
             "Hit All"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-5)"
         ],
         "source": "Extra Draw-Secret Summon",
         "Release date": "2020-05-01",
@@ -25717,7 +29949,7 @@ window.allHeroes =
         "family": "mystery",
         "image": "https://i.imgur.com/J37iEs6.jpg",
         "costume_id": 0,
-        "originalIndex": 779
+        "originalIndex": 780
     },
     {
         "name": "Narcisa",
@@ -25731,6 +29963,11 @@ window.allHeroes =
             "Hit All",
             "Status Ailments Duration Reset All",
             "Attack Debuff All"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-5)",
+            "Debuffers (ATK)",
+            "Effect Duration Resetters"
         ],
         "source": "Challenge Festival-Bards",
         "Release date": "2022-08-11",
@@ -25750,7 +29987,7 @@ window.allHeroes =
         "family": "bard",
         "image": "https://i.imgur.com/ZW5xxnu.jpg",
         "costume_id": 0,
-        "originalIndex": 780
+        "originalIndex": 781
     },
     {
         "name": "Nyx",
@@ -25764,6 +30001,11 @@ window.allHeroes =
             "Hit all",
             "Defense Debuff",
             "Attack Buff"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-5)",
+            "Buffers (ATK)",
+            "Debuffers (DEF)"
         ],
         "source": "Tower-Styx",
         "Release date": "2022-06-01",
@@ -25792,7 +30034,7 @@ window.allHeroes =
         "family": "styx",
         "image": "https://i.imgur.com/aQwzAEQ.jpg",
         "costume_id": 0,
-        "originalIndex": 781
+        "originalIndex": 782
     },
     {
         "name": "Obakan",
@@ -25805,6 +30047,10 @@ window.allHeroes =
         "types": [
             "Hit 3",
             "Counterattack 1"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-3)",
+            "Counterattackers"
         ],
         "source": "S1-Classic",
         "Release date": "2017-01-01",
@@ -25821,7 +30067,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/0JU9Ii1.jpg",
         "costume_id": 0,
-        "originalIndex": 782
+        "originalIndex": 783
     },
     {
         "name": "Obakan C1",
@@ -25834,6 +30080,10 @@ window.allHeroes =
         "types": [
             "Hit all",
             "Counterattack 33"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-5)",
+            "Counterattackers"
         ],
         "source": "S1-Classic",
         "Release date": "2021-01-18",
@@ -25850,7 +30100,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/SB2N0Vj.jpg",
         "costume_id": 1,
-        "originalIndex": 783
+        "originalIndex": 784
     },
     {
         "name": "Obakan C2",
@@ -25864,6 +30114,11 @@ window.allHeroes =
             "Hit 3",
             "Counterattack 3",
             "Mana on Counterattack"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-3)",
+            "Counterattackers",
+            "Mana Raisers"
         ],
         "source": "S1-Classic",
         "Release date": "2022-09-05",
@@ -25881,7 +30136,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/jA79vt4.jpg",
         "costume_id": 2,
-        "originalIndex": 784
+        "originalIndex": 785
     },
     {
         "name": "Obakan Toon",
@@ -25894,6 +30149,11 @@ window.allHeroes =
         "types": [
             "Hit 3",
             "Counterattack 1"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-3)",
+            "Counterattackers",
+            "Extra Damage Dealers"
         ],
         "source": "S1-Classic",
         "Release date": "2023-11-27",
@@ -25913,7 +30173,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/YICnCq4.jpg",
         "costume_id": 3,
-        "originalIndex": 785
+        "originalIndex": 786
     },
     {
         "name": "Obakan Glass",
@@ -25927,6 +30187,11 @@ window.allHeroes =
             "Hit 3",
             "Bypass",
             "Counterattack 1"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-3)",
+            "Bypassers",
+            "Counterattackers"
         ],
         "source": "S1-Classic",
         "Release date": "2025-01-14",
@@ -25946,7 +30211,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/pN1Axne.jpg",
         "costume_id": 4,
-        "originalIndex": 786
+        "originalIndex": 787
     },
     {
         "name": "Odile",
@@ -25960,6 +30225,13 @@ window.allHeroes =
             "Healer",
             "Dance of the Black Swan",
             "Hit 1 random"
+        ],
+        "skill_types": [
+            "Dancers",
+            "Health Boosters",
+            "Chain & Random Attackers",
+            "Healers (Special)",
+            "Immunity Providers"
         ],
         "source": "Solstice Summon",
         "Release date": "2024-03-21",
@@ -25983,7 +30255,7 @@ window.allHeroes =
         "family": "opera",
         "image": "https://i.imgur.com/4D2V5En.jpg",
         "costume_id": 0,
-        "originalIndex": 787
+        "originalIndex": 788
     },
     {
         "name": "Ommodus",
@@ -25997,6 +30269,13 @@ window.allHeroes =
             "Fiend Destroyer All",
             "Hit All Moonrise Strike",
             "Mana on Fiend Destroyed All"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-5)",
+            "Extra Damage Dealers",
+            "Fiends Counters",
+            "Mana Raisers",
+            "Bypassers"
         ],
         "source": "Tower-Owls",
         "Release date": "2023-12-20",
@@ -26017,7 +30296,7 @@ window.allHeroes =
         "family": "owl",
         "image": "https://i.imgur.com/QzvMG5C.jpg",
         "costume_id": 0,
-        "originalIndex": 788
+        "originalIndex": 789
     },
     {
         "name": "Onyx",
@@ -26031,6 +30310,13 @@ window.allHeroes =
             "Charger",
             "Hit All",
             "Dispeller"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-3)",
+            "AoE Attackers (Hit-5)",
+            "Buff Blockers",
+            "Dispellers",
+            "Snipers"
         ],
         "source": "Tower-Ninjas",
         "Release date": "2020-10-13",
@@ -26057,7 +30343,7 @@ window.allHeroes =
         "family": "ninja",
         "image": "https://i.imgur.com/r2WPn3d.jpg",
         "costume_id": 0,
-        "originalIndex": 789
+        "originalIndex": 790
     },
     {
         "name": "Peppermint",
@@ -26071,6 +30357,12 @@ window.allHeroes =
             "Hit All",
             "Summoner",
             "Dot All"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-5)",
+            "DoT Attackers",
+            "Minions Summoners",
+            "Extra Damage Dealers"
         ],
         "source": "Monthly Event-Winter",
         "Release date": "2022-12-01",
@@ -26088,7 +30380,7 @@ window.allHeroes =
         "family": "christmas",
         "image": "https://i.imgur.com/egM1t1a.jpg",
         "costume_id": 0,
-        "originalIndex": 790
+        "originalIndex": 791
     },
     {
         "name": "Phantom of the Opera",
@@ -26105,6 +30397,14 @@ window.allHeroes =
             "Mana gen debuff",
             "Healing Decrease",
             "Status Effect immunity"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-3)",
+            "Dancers",
+            "Healing Reducers",
+            "Immunity Providers",
+            "Mana Reducers or Blockers",
+            "Silencers"
         ],
         "source": "Solstice Summon",
         "Release date": "2023-06-20",
@@ -26129,7 +30429,7 @@ window.allHeroes =
         "family": "opera",
         "image": "https://i.imgur.com/7nuGOll.jpg",
         "costume_id": 0,
-        "originalIndex": 791
+        "originalIndex": 792
     },
     {
         "name": "Phorcys",
@@ -26143,6 +30443,13 @@ window.allHeroes =
             "Summoner 3",
             "Taunt",
             "Stack"
+        ],
+        "skill_types": [
+            "Mana Raisers",
+            "Minions Boosters",
+            "Minions Summoners",
+            "Stacking Heroes",
+            "Taunters"
         ],
         "source": "S6-S7-Untold Tales",
         "Release date": "2023-06-07",
@@ -26172,7 +30479,7 @@ window.allHeroes =
         "family": "defendersofatlantis",
         "image": "https://i.imgur.com/6o3KSeL.jpg",
         "costume_id": 0,
-        "originalIndex": 792
+        "originalIndex": 793
     },
     {
         "name": "Phorcys C1",
@@ -26186,6 +30493,13 @@ window.allHeroes =
             "Summoner 3",
             "Taunt",
             "Stack"
+        ],
+        "skill_types": [
+            "Minions Boosters",
+            "Minions Summoners",
+            "Stacking Heroes",
+            "Taunters",
+            "Mana Raisers"
         ],
         "source": "S6-S7-Untold Tales",
         "Release date": "2024-05-23",
@@ -26215,7 +30529,7 @@ window.allHeroes =
         "family": "defendersofatlantis",
         "image": "https://i.imgur.com/FXIdE4S.jpg",
         "costume_id": 1,
-        "originalIndex": 793
+        "originalIndex": 794
     },
     {
         "name": "Phthonus",
@@ -26229,6 +30543,11 @@ window.allHeroes =
             "Hit All",
             "Dispeller",
             "Healer"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-5)",
+            "Dispellers",
+            "Healers (Special)"
         ],
         "source": "Monthly Event-Love Season",
         "Release date": "2023-02-14",
@@ -26248,7 +30567,7 @@ window.allHeroes =
         "family": "cupid",
         "image": "https://i.imgur.com/OE7cx2p.jpg",
         "costume_id": 0,
-        "originalIndex": 794
+        "originalIndex": 795
     },
     {
         "name": "Quartz",
@@ -26263,6 +30582,11 @@ window.allHeroes =
             "Cleanser",
             "Attack buff",
             "HoT"
+        ],
+        "skill_types": [
+            "Buffers (ATK)",
+            "Cleansers",
+            "Heal over Time (HoT)"
         ],
         "source": "Tower-Ninjas",
         "Release date": "2021-11-10",
@@ -26290,7 +30614,7 @@ window.allHeroes =
         "family": "ninja",
         "image": "https://i.imgur.com/DHtXxDR.jpg",
         "costume_id": 0,
-        "originalIndex": 795
+        "originalIndex": 796
     },
     {
         "name": "Quintus",
@@ -26302,6 +30626,9 @@ window.allHeroes =
         "skill": "Thunder Ultimatum",
         "types": [
             "Hit All"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-5)"
         ],
         "source": "S1-Classic",
         "Release date": "2017-01-01",
@@ -26317,7 +30644,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/250UPh4.jpg",
         "costume_id": 0,
-        "originalIndex": 796
+        "originalIndex": 797
     },
     {
         "name": "Quintus C1",
@@ -26330,6 +30657,10 @@ window.allHeroes =
         "types": [
             "Hit All",
             "Attack Debuff"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-5)",
+            "Debuffers (ATK)"
         ],
         "source": "S1-Classic",
         "Release date": "2020-01-01",
@@ -26346,7 +30677,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/TBwlwOC.jpg",
         "costume_id": 1,
-        "originalIndex": 797
+        "originalIndex": 798
     },
     {
         "name": "Quintus C2",
@@ -26359,6 +30690,10 @@ window.allHeroes =
         "types": [
             "Hit All",
             "Mindless Attack"
+        ],
+        "skill_types": [
+            "Mindless Attack & Mindless Heal",
+            "AoE Attackers (Hit-3)"
         ],
         "source": "S1-Classic",
         "Release date": "2022-12-26",
@@ -26375,7 +30710,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/BmY4xiU.jpg",
         "costume_id": 2,
-        "originalIndex": 798
+        "originalIndex": 799
     },
     {
         "name": "Quintus Toon",
@@ -26387,6 +30722,10 @@ window.allHeroes =
         "skill": "Toon Ultimatum",
         "types": [
             "Hit All"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-5)",
+            "Extra Damage Dealers"
         ],
         "source": "S1-Classic",
         "Release date": "2024-08-11",
@@ -26405,7 +30744,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/ff1uvHj.jpg",
         "costume_id": 3,
-        "originalIndex": 799
+        "originalIndex": 800
     },
     {
         "name": "Ramona",
@@ -26419,6 +30758,11 @@ window.allHeroes =
             "Hit 1",
             "3 Fiend Summoner 1",
             "Stealing Heal Fiend"
+        ],
+        "skill_types": [
+            "Fiends Summoners",
+            "Healers (Special)",
+            "Snipers"
         ],
         "source": "Myth Summon",
         "Release date": "2024-04-05",
@@ -26441,7 +30785,7 @@ window.allHeroes =
         "family": "champions",
         "image": "https://i.imgur.com/ZBNdURG.jpg",
         "costume_id": 0,
-        "originalIndex": 800
+        "originalIndex": 801
     },
     {
         "name": "Rayne",
@@ -26455,7 +30799,11 @@ window.allHeroes =
             "Hit 1",
             "Spreading Dot 1"
         ],
-        "source": "Alliance-Knights Charge",
+        "skill_types": [
+            "DoT Attackers",
+            "Snipers"
+        ],
+        "source": "Alliance-Knights Clash",
         "Release date": "2022-01-05",
         "star": 5,
         "power": 822,
@@ -26470,7 +30818,7 @@ window.allHeroes =
         "family": "raven",
         "image": "https://i.imgur.com/wMh0j5F.jpg",
         "costume_id": 0,
-        "originalIndex": 801
+        "originalIndex": 802
     },
     {
         "name": "Rochefort",
@@ -26482,6 +30830,10 @@ window.allHeroes =
         "skill": "Dishonorable Ploy",
         "types": [
             "Hit 3"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-3)",
+            "AoE Attackers (Hit-5)"
         ],
         "source": "Alliance-Musketeers",
         "Release date": "2023-09-20",
@@ -26500,7 +30852,7 @@ window.allHeroes =
         "family": "musketeer",
         "image": "https://i.imgur.com/cnURK1S.jpg",
         "costume_id": 0,
-        "originalIndex": 802
+        "originalIndex": 803
     },
     {
         "name": "Salmon Loki",
@@ -26513,6 +30865,10 @@ window.allHeroes =
         "types": [
             "Hit Some",
             "Weird"
+        ],
+        "skill_types": [
+            "Chain & Random Attackers",
+            "Extra Damage Dealers"
         ],
         "source": "S3-Valhalla",
         "Release date": "2021-07-04",
@@ -26531,7 +30887,7 @@ window.allHeroes =
         "family": "niflheim",
         "image": "https://i.imgur.com/fVTl018.jpg",
         "costume_id": 0,
-        "originalIndex": 803
+        "originalIndex": 804
     },
     {
         "name": "Salmon Loki C1",
@@ -26544,6 +30900,10 @@ window.allHeroes =
         "types": [
             "Hit Some",
             "Weird"
+        ],
+        "skill_types": [
+            "Chain & Random Attackers",
+            "Extra Damage Dealers"
         ],
         "source": "S3-Valhalla",
         "Release date": "2023-07-31",
@@ -26562,7 +30922,7 @@ window.allHeroes =
         "family": "niflheim",
         "image": "https://i.imgur.com/mbPRCrB.jpg",
         "costume_id": 1,
-        "originalIndex": 804
+        "originalIndex": 805
     },
     {
         "name": "Sargasso",
@@ -26575,6 +30935,10 @@ window.allHeroes =
         "types": [
             "Hit 3",
             "Healing Debuff"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-3)",
+            "Healing Reducers"
         ],
         "source": "Challenge Festival-Pirates",
         "Release date": "2018-08-01",
@@ -26591,7 +30955,7 @@ window.allHeroes =
         "family": "corellia",
         "image": "https://i.imgur.com/6s6FE8i.jpg",
         "costume_id": 0,
-        "originalIndex": 805
+        "originalIndex": 806
     },
     {
         "name": "Sargasso C1",
@@ -26605,6 +30969,11 @@ window.allHeroes =
             "Hit 3",
             "Healing Debuff",
             "DoT"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-3)",
+            "DoT Attackers",
+            "Healing Reducers"
         ],
         "source": "Challenge Festival-Pirates",
         "Release date": "2023-12-28",
@@ -26624,7 +30993,7 @@ window.allHeroes =
         "family": "corellia",
         "image": "https://i.imgur.com/lR0HaHa.jpg",
         "costume_id": 1,
-        "originalIndex": 806
+        "originalIndex": 807
     },
     {
         "name": "Sartana",
@@ -26637,6 +31006,10 @@ window.allHeroes =
         "types": [
             "Hit 1",
             "Dot 1"
+        ],
+        "skill_types": [
+            "DoT Attackers",
+            "Snipers"
         ],
         "source": "S1-Classic",
         "Release date": "2017-01-01",
@@ -26653,7 +31026,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/YBEHGb0.jpg",
         "costume_id": 0,
-        "originalIndex": 807
+        "originalIndex": 808
     },
     {
         "name": "Sartana C1",
@@ -26665,6 +31038,9 @@ window.allHeroes =
         "skill": "Dreadstrike",
         "types": [
             "Hit 1"
+        ],
+        "skill_types": [
+            "Snipers"
         ],
         "source": "S1-Classic",
         "Release date": "2020-05-18",
@@ -26680,7 +31056,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/gwzMUaT.jpg",
         "costume_id": 1,
-        "originalIndex": 808
+        "originalIndex": 809
     },
     {
         "name": "Sartana C2",
@@ -26694,6 +31070,10 @@ window.allHeroes =
             "Minion Destroyer 1",
             "Hit 1",
             "Minion Blocking"
+        ],
+        "skill_types": [
+            "Minions Counters",
+            "Snipers"
         ],
         "source": "S1-Classic",
         "Release date": "2023-06-12",
@@ -26711,7 +31091,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/I8cTetD.jpg",
         "costume_id": 2,
-        "originalIndex": 809
+        "originalIndex": 810
     },
     {
         "name": "Sartana Toon",
@@ -26724,6 +31104,11 @@ window.allHeroes =
         "types": [
             "Hit 1",
             "Dot 1"
+        ],
+        "skill_types": [
+            "DoT Attackers",
+            "Extra Damage Dealers",
+            "Snipers"
         ],
         "source": "S1-Classic",
         "Release date": "2023-10-30",
@@ -26743,7 +31128,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/V3r9sPS.jpg",
         "costume_id": 3,
-        "originalIndex": 810
+        "originalIndex": 811
     },
     {
         "name": "Sartana Glass",
@@ -26756,6 +31141,11 @@ window.allHeroes =
         "types": [
             "Hit 1",
             "Dot 1"
+        ],
+        "skill_types": [
+            "Bypassers",
+            "DoT Attackers",
+            "Snipers"
         ],
         "source": "S1-Classic",
         "Release date": "2024-12-24",
@@ -26775,7 +31165,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/fdUWQiQ.jpg",
         "costume_id": 4,
-        "originalIndex": 811
+        "originalIndex": 812
     },
     {
         "name": "Satsui",
@@ -26789,6 +31179,13 @@ window.allHeroes =
             "Charge",
             "Hit",
             "Hide"
+        ],
+        "skill_types": [
+            "Snipers",
+            "AoE Attackers (Hit-3)",
+            "AoE Attackers (Hit-5)",
+            "Ghost Form & Hiding",
+            "Minions Counters"
         ],
         "source": "Tower-Ninjas",
         "Release date": "2025-01-02",
@@ -26820,7 +31217,7 @@ window.allHeroes =
         "family": "ninja",
         "image": "https://i.imgur.com/xzr9Szx.jpg",
         "costume_id": 0,
-        "originalIndex": 812
+        "originalIndex": 813
     },
     {
         "name": "Scath",
@@ -26834,6 +31231,12 @@ window.allHeroes =
             "HoT",
             "Counterattack",
             "Stores damage"
+        ],
+        "skill_types": [
+            "Counterattackers",
+            "Heal over Time (HoT)",
+            "AoE Attackers (Hit-5)",
+            "Health Boosters"
         ],
         "source": "Covenant Summon",
         "Release date": "2024-03-10",
@@ -26854,7 +31257,7 @@ window.allHeroes =
         "family": "construct",
         "image": "https://i.imgur.com/pX4j62c.jpg",
         "costume_id": 0,
-        "originalIndex": 813
+        "originalIndex": 814
     },
     {
         "name": "Senan",
@@ -26868,6 +31271,15 @@ window.allHeroes =
             "Hit All",
             "Fiend Summoner All",
             "Stacks"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-5)",
+            "Fiends Summoners",
+            "Healers (Special)",
+            "Stacking Heroes",
+            "DoT Attackers",
+            "Mana Generation Buffers",
+            "Heal over Time (HoT)"
         ],
         "source": "Challenge Festival-Slayers",
         "Release date": "2021-08-05",
@@ -26889,7 +31301,7 @@ window.allHeroes =
         "family": "slayer",
         "image": "https://i.imgur.com/PYhKsHp.jpg",
         "costume_id": 0,
-        "originalIndex": 814
+        "originalIndex": 815
     },
     {
         "name": "Senan C1",
@@ -26903,6 +31315,15 @@ window.allHeroes =
             "Hit All",
             "Fiend Summoner All",
             "Stacks"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-5)",
+            "DoT Attackers",
+            "Fiends Summoners",
+            "Healers (Special)",
+            "Stacking Heroes",
+            "Mana Generation Buffers",
+            "Heal over Time (HoT)"
         ],
         "source": "Challenge Festival-Slayers",
         "Release date": "2025-04-09",
@@ -26925,7 +31346,7 @@ window.allHeroes =
         "family": "slayer",
         "image": "https://imgur.com/CNY72vk.jpg",
         "costume_id": 1,
-        "originalIndex": 815
+        "originalIndex": 816
     },
     {
         "name": "Serena",
@@ -26938,6 +31359,12 @@ window.allHeroes =
         "types": [
             "Hit 1",
             "Spreading Fiend 1"
+        ],
+        "skill_types": [
+            "Fiends Summoners",
+            "Snipers",
+            "Debuffers (ATK)",
+            "DoT Attackers"
         ],
         "source": "Monthly Event-Beach Party",
         "Release date": "2025-06-03",
@@ -26960,7 +31387,7 @@ window.allHeroes =
         "family": "beachparty",
         "image": "https://imgur.com/ebdt5jw.jpg",
         "costume_id": 0,
-        "originalIndex": 816
+        "originalIndex": 817
     },
     {
         "name": "Seshat",
@@ -26974,6 +31401,12 @@ window.allHeroes =
             "Hit 1",
             "Summoner",
             "Dispeller"
+        ],
+        "skill_types": [
+            "Dispellers",
+            "Mana Generation Buffers",
+            "Minions Summoners",
+            "Snipers"
         ],
         "source": "Hero of the Month",
         "Release date": "2019-07-01",
@@ -26994,7 +31427,7 @@ window.allHeroes =
         "family": 2019,
         "image": "https://i.imgur.com/FioNeBy.jpg",
         "costume_id": 0,
-        "originalIndex": 817
+        "originalIndex": 818
     },
     {
         "name": "Seshat C1",
@@ -27008,6 +31441,13 @@ window.allHeroes =
             "Dispeller",
             "Hit 1",
             "Summoner"
+        ],
+        "skill_types": [
+            "Dispellers",
+            "Mana Generation Buffers",
+            "Minions Summoners",
+            "Snipers",
+            "Cleansers"
         ],
         "source": "Hero of the Month",
         "Release date": "2021-10-20",
@@ -27029,7 +31469,7 @@ window.allHeroes =
         "family": 2019,
         "image": "https://i.imgur.com/qNMuMVA.jpg",
         "costume_id": 1,
-        "originalIndex": 818
+        "originalIndex": 819
     },
     {
         "name": "Set",
@@ -27042,6 +31482,11 @@ window.allHeroes =
         "types": [
             "Summoner",
             "DoT all"
+        ],
+        "skill_types": [
+            "DoT Attackers",
+            "Mana Reducers or Blockers",
+            "Minions Summoners"
         ],
         "source": "S5-Dune",
         "Release date": "2022-09-29",
@@ -27063,7 +31508,7 @@ window.allHeroes =
         "family": "moon",
         "image": "https://i.imgur.com/8kUB8ir.jpg",
         "costume_id": 0,
-        "originalIndex": 819
+        "originalIndex": 820
     },
     {
         "name": "Set C1",
@@ -27076,6 +31521,11 @@ window.allHeroes =
         "types": [
             "Summoner",
             "DoT All"
+        ],
+        "skill_types": [
+            "DoT Attackers",
+            "Mana Reducers or Blockers",
+            "Minions Summoners"
         ],
         "source": "S5-Dune",
         "Release date": "2025-05-14",
@@ -27099,7 +31549,7 @@ window.allHeroes =
         "family": "moon",
         "image": "https://imgur.com/olt8i8H.jpg",
         "costume_id": 1,
-        "originalIndex": 820
+        "originalIndex": 821
     },
     {
         "name": "Shacklebolt",
@@ -27113,6 +31563,12 @@ window.allHeroes =
             "Hit 3",
             "Mana Steal",
             "Buff copy"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-3)",
+            "Buff Stealers",
+            "Mana Raisers",
+            "Mana Reducers or Blockers"
         ],
         "source": "Covenant Summon",
         "Release date": "2023-12-24",
@@ -27133,7 +31589,7 @@ window.allHeroes =
         "family": "construct",
         "image": "https://i.imgur.com/kHFYa2T.jpg",
         "costume_id": 0,
-        "originalIndex": 821
+        "originalIndex": 822
     },
     {
         "name": "Shadowfang",
@@ -27147,6 +31603,12 @@ window.allHeroes =
             "Hit All",
             "Bone Toss Hit 1",
             "Bone Toss Fiend Summoner 1"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-5)",
+            "Fiends Summoners",
+            "DoT Attackers",
+            "Chain & Random Attackers"
         ],
         "source": "Covenant Summon",
         "Release date": "2024-12-23",
@@ -27168,7 +31630,7 @@ window.allHeroes =
         "family": "fox",
         "image": "https://i.imgur.com/WRT0fPv.jpg",
         "costume_id": 0,
-        "originalIndex": 822
+        "originalIndex": 823
     },
     {
         "name": "Sir Casmir",
@@ -27183,6 +31645,12 @@ window.allHeroes =
             "Hit Chance 1",
             "Reflect Ailments 3",
             "Reflect Stacks 3"
+        ],
+        "skill_types": [
+            "Cleansers",
+            "Reflectors",
+            "Chain & Random Attackers",
+            "Dodgers"
         ],
         "source": "Hero of the Month",
         "Release date": "2024-08-01",
@@ -27204,7 +31672,7 @@ window.allHeroes =
         "family": 2024,
         "image": "https://i.imgur.com/7f9DRkN.jpg",
         "costume_id": 0,
-        "originalIndex": 823
+        "originalIndex": 824
     },
     {
         "name": "Sneferu",
@@ -27218,6 +31686,11 @@ window.allHeroes =
             "Hit 1",
             "Chain",
             "Buff Immunity"
+        ],
+        "skill_types": [
+            "Buff Blockers",
+            "Chain & Random Attackers",
+            "Snipers"
         ],
         "source": "S5-Dune",
         "Release date": "2023-05-11",
@@ -27239,7 +31712,7 @@ window.allHeroes =
         "family": "moon",
         "image": "https://i.imgur.com/xRHanch.jpg",
         "costume_id": 0,
-        "originalIndex": 824
+        "originalIndex": 825
     },
     {
         "name": "Swiftpaw",
@@ -27253,6 +31726,13 @@ window.allHeroes =
             "Hit 1",
             "Silencer 1",
             "Summoner 3"
+        ],
+        "skill_types": [
+            "Buff Stealers",
+            "Dodgers",
+            "Minions Summoners",
+            "Silencers",
+            "Snipers"
         ],
         "source": "Covenant Summon",
         "Release date": "2024-10-07",
@@ -27274,7 +31754,7 @@ window.allHeroes =
         "family": "fox",
         "image": "https://i.imgur.com/s7agDwW.jpg",
         "costume_id": 0,
-        "originalIndex": 825
+        "originalIndex": 826
     },
     {
         "name": "Tamlin",
@@ -27289,7 +31769,12 @@ window.allHeroes =
             "Enhanced Defense All",
             "Delayed Silence All"
         ],
-        "source": "S4-Wilderness",
+        "skill_types": [
+            "AoE Attackers (Hit-5)",
+            "Debuffers (DEF)",
+            "Silencers"
+        ],
+        "source": "Wilderness Summon",
         "Release date": "2024-09-20",
         "star": 5,
         "power": 1139,
@@ -27309,7 +31794,7 @@ window.allHeroes =
         "family": "woodlandfaun",
         "image": "https://i.imgur.com/eHe26XM.jpg",
         "costume_id": 0,
-        "originalIndex": 826
+        "originalIndex": 827
     },
     {
         "name": "Tenebrae",
@@ -27322,6 +31807,13 @@ window.allHeroes =
         "types": [
             "Hit 1",
             "Soul Bond 1"
+        ],
+        "skill_types": [
+            "DoT Attackers",
+            "Minions Counters",
+            "Snipers",
+            "Damage Sharers",
+            "Mana Reducers or Blockers"
         ],
         "source": "Covenant Summon",
         "Release date": "2023-10-12",
@@ -27344,7 +31836,7 @@ window.allHeroes =
         "family": "construct",
         "image": "https://i.imgur.com/det8edh.jpg",
         "costume_id": 0,
-        "originalIndex": 827
+        "originalIndex": 828
     },
     {
         "name": "Thoth-Amun",
@@ -27357,6 +31849,13 @@ window.allHeroes =
         "types": [
             "Hit 3",
             "Summoner"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-3)",
+            "Mana Generation Buffers",
+            "Minions Summoners",
+            "Dispellers",
+            "Mana Generation Buffers"
         ],
         "source": "Hero of the Month",
         "Release date": "2017-11-01T00:00:00",
@@ -27374,7 +31873,7 @@ window.allHeroes =
         "family": 2017,
         "image": "https://i.imgur.com/qJmJu2G.jpg",
         "costume_id": 0,
-        "originalIndex": 828
+        "originalIndex": 829
     },
     {
         "name": "Thoth-Amun C1",
@@ -27387,6 +31886,10 @@ window.allHeroes =
         "types": [
             "Hit 3",
             "Summoner"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-3)",
+            "Minions Summoners"
         ],
         "source": "Hero of the Month",
         "Release date": "2024-01-11",
@@ -27406,7 +31909,7 @@ window.allHeroes =
         "family": 2017,
         "image": "https://i.imgur.com/3rXphxC.jpg",
         "costume_id": 1,
-        "originalIndex": 829
+        "originalIndex": 830
     },
     {
         "name": "Thrivaldi",
@@ -27420,6 +31923,16 @@ window.allHeroes =
             "Hit All",
             "Defense Buff All",
             "Ailments Damage Immunity"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-5)",
+            "Buffers (DEF)",
+            "Immunity Providers",
+            "Extra Damage Dealers",
+            "Bypassers",
+            "DoT Attackers",
+            "Debuffers (ATK)",
+            "Minions Counters"
         ],
         "source": "S6-S7-Untold Tales",
         "Release date": "2025-05-16",
@@ -27442,7 +31955,7 @@ window.allHeroes =
         "family": "myrkheim",
         "image": "https://imgur.com/GPSIC9I.jpg",
         "costume_id": 0,
-        "originalIndex": 830
+        "originalIndex": 831
     },
     {
         "name": "Tora",
@@ -27455,6 +31968,14 @@ window.allHeroes =
         "types": [
             "Charge Hit",
             "Bypass"
+        ],
+        "skill_types": [
+            "Bypassers",
+            "Minions Counters",
+            "Snipers",
+            "AoE Attackers (Hit-3)",
+            "AoE Attackers (Hit-5)",
+            "Extra Damage Dealers"
         ],
         "source": "Tower-Ninjas",
         "Release date": "2024-08-27",
@@ -27484,7 +32005,7 @@ window.allHeroes =
         "family": "ninja",
         "image": "https://i.imgur.com/SWoTRp0.jpg",
         "costume_id": 0,
-        "originalIndex": 831
+        "originalIndex": 832
     },
     {
         "name": "Turgruk",
@@ -27496,6 +32017,11 @@ window.allHeroes =
         "skill": "Marked Aim",
         "types": [
             "Hit 1"
+        ],
+        "skill_types": [
+            "Extra Damage Dealers",
+            "Snipers",
+            "Stacking Heroes"
         ],
         "source": "Hero of the Month",
         "Release date": "2023-04-01",
@@ -27516,7 +32042,7 @@ window.allHeroes =
         "family": 2023,
         "image": "https://i.imgur.com/ktMsNKD.jpg",
         "costume_id": 0,
-        "originalIndex": 832
+        "originalIndex": 833
     },
     {
         "name": "Tweedles",
@@ -27530,6 +32056,12 @@ window.allHeroes =
             "Hit 2",
             "Attack debuff",
             "Defense debuff"
+        ],
+        "skill_types": [
+            "Chain & Random Attackers",
+            "Debuffers (ATK)",
+            "Debuffers (DEF)",
+            "Mana Raisers"
         ],
         "source": "Challenge Festival-Wonderland",
         "Release date": "2023-10-05",
@@ -27551,7 +32083,7 @@ window.allHeroes =
         "family": "wonderland",
         "image": "https://i.imgur.com/oaSASQ4.jpg",
         "costume_id": 0,
-        "originalIndex": 833
+        "originalIndex": 834
     },
     {
         "name": "Ultrox",
@@ -27565,6 +32097,11 @@ window.allHeroes =
             "Hit All",
             "Counterattack 3",
             "Damage reduction 3"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-5)",
+            "Counterattackers",
+            "Damage Reducers"
         ],
         "source": "S6-S7-Untold Tales",
         "Release date": "2023-08-02",
@@ -27592,7 +32129,7 @@ window.allHeroes =
         "family": "nightmaresofatlantis",
         "image": "https://i.imgur.com/7xKKQnM.jpg",
         "costume_id": 0,
-        "originalIndex": 834
+        "originalIndex": 835
     },
     {
         "name": "Ultrox C1",
@@ -27606,6 +32143,12 @@ window.allHeroes =
             "Hit All",
             "Counterattack 3",
             "Damage reduction 3"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-5)",
+            "Counterattackers",
+            "Damage Reducers",
+            "Extra Damage Dealers"
         ],
         "source": "S6-S7-Untold Tales",
         "Release date": "2025-05-28",
@@ -27634,7 +32177,7 @@ window.allHeroes =
         "family": "nightmaresofatlantis",
         "image": "https://imgur.com/p30NrpJ.jpg",
         "costume_id": 1,
-        "originalIndex": 835
+        "originalIndex": 836
     },
     {
         "name": "Umbria",
@@ -27647,6 +32190,11 @@ window.allHeroes =
         "types": [
             "Hit 1",
             "Cloning Fiend Summoner 1"
+        ],
+        "skill_types": [
+            "Fiends Summoners",
+            "Snipers",
+            "DoT Attackers"
         ],
         "source": "Challenge-Carnival of Gods",
         "Release date": "2023-11-02",
@@ -27667,7 +32215,7 @@ window.allHeroes =
         "family": "maskedgod",
         "image": "https://i.imgur.com/3VyJcT7.jpg",
         "costume_id": 0,
-        "originalIndex": 836
+        "originalIndex": 837
     },
     {
         "name": "Umeko",
@@ -27681,6 +32229,12 @@ window.allHeroes =
             "Dispeller",
             "DoT 1/3/5",
             "Healing Debuff"
+        ],
+        "skill_types": [
+            "Dispellers",
+            "DoT Attackers",
+            "Healing Reducers",
+            "Minions Counters"
         ],
         "source": "Tower-Ninjas",
         "Release date": "2024-10-22",
@@ -27710,7 +32264,7 @@ window.allHeroes =
         "family": "ninja",
         "image": "https://i.imgur.com/2sWnlMn.jpg",
         "costume_id": 0,
-        "originalIndex": 837
+        "originalIndex": 838
     },
     {
         "name": "Ursena",
@@ -27724,6 +32278,11 @@ window.allHeroes =
             "Hit All",
             "Elemental Reflect All",
             "Elemental Counterattack All"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-5)",
+            "Extra Damage Dealers",
+            "Reflectors"
         ],
         "source": "S2-Atlantis",
         "Release date": "2017-01-01",
@@ -27742,7 +32301,7 @@ window.allHeroes =
         "family": "atlantis",
         "image": "https://i.imgur.com/OQ8iQcf.jpg",
         "costume_id": 0,
-        "originalIndex": 838
+        "originalIndex": 839
     },
     {
         "name": "Ursena C1",
@@ -27756,6 +32315,12 @@ window.allHeroes =
             "Hit All",
             "Elemental Reflect All",
             "Elemental Counterattack All"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-5)",
+            "Debuffers (DEF)",
+            "Extra Damage Dealers",
+            "Reflectors"
         ],
         "source": "S2-Atlantis",
         "Release date": "2021-11-15",
@@ -27774,7 +32339,7 @@ window.allHeroes =
         "family": "atlantis",
         "image": "https://i.imgur.com/HefSfvM.jpg",
         "costume_id": 1,
-        "originalIndex": 839
+        "originalIndex": 840
     },
     {
         "name": "Uthragan",
@@ -27788,6 +32353,11 @@ window.allHeroes =
             "Hit 1",
             "DoT 3",
             "Heal self"
+        ],
+        "skill_types": [
+            "DoT Attackers",
+            "Healers (Special)",
+            "Snipers"
         ],
         "source": "Hero of the Month",
         "Release date": "2023-10-01",
@@ -27808,7 +32378,7 @@ window.allHeroes =
         "family": 2023,
         "image": "https://i.imgur.com/Pb3fJn3.jpg",
         "costume_id": 0,
-        "originalIndex": 840
+        "originalIndex": 841
     },
     {
         "name": "Uwe",
@@ -27821,6 +32391,13 @@ window.allHeroes =
         "types": [
             "Hit 1",
             "Chain"
+        ],
+        "skill_types": [
+            "DoT Attackers",
+            "Snipers",
+            "Chain & Random Attackers",
+            "Immunity Providers",
+            "Damage Reducers"
         ],
         "source": "Challenge-Return to Sanctuary",
         "Release date": "2024-05-16",
@@ -27840,7 +32417,7 @@ window.allHeroes =
         "family": "gargoyle",
         "image": "https://i.imgur.com/KNSk9mz.jpg",
         "costume_id": 0,
-        "originalIndex": 841
+        "originalIndex": 842
     },
     {
         "name": "Vander",
@@ -27853,6 +32430,12 @@ window.allHeroes =
         "types": [
             "Hit 1",
             "Silence"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-3)",
+            "AoE Attackers (Hit-5)",
+            "Silencers",
+            "Snipers"
         ],
         "source": "Super Elementals",
         "Release date": "2024-08-07",
@@ -27877,7 +32460,7 @@ window.allHeroes =
         "family": "superelemental",
         "image": "https://i.imgur.com/4cx1DT9.jpg",
         "costume_id": 0,
-        "originalIndex": 842
+        "originalIndex": 843
     },
     {
         "name": "Vard",
@@ -27891,6 +32474,11 @@ window.allHeroes =
             "Hit All",
             "Wither All",
             "Mana Generation Debuff"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-5)",
+            "Ability Scores Modifiers",
+            "Mana Reducers or Blockers"
         ],
         "source": "Astral Summon",
         "Release date": "2025-01-30",
@@ -27912,7 +32500,7 @@ window.allHeroes =
         "family": "astraldwarfs",
         "image": "https://i.imgur.com/pddigSQ.jpg",
         "costume_id": 0,
-        "originalIndex": 843
+        "originalIndex": 844
     },
     {
         "name": "Victor",
@@ -27927,6 +32515,13 @@ window.allHeroes =
             "DoT 1",
             "Healing Steal",
             "Defense Buff"
+        ],
+        "skill_types": [
+            "Buffers (DEF)",
+            "DoT Attackers",
+            "Healers (Special)",
+            "Healing Reducers",
+            "Snipers"
         ],
         "source": "Monthly Event-Morlovia",
         "Release date": "2018-10-01",
@@ -27947,7 +32542,7 @@ window.allHeroes =
         "family": "morlovia",
         "image": "https://i.imgur.com/Trss5zi.jpg",
         "costume_id": 0,
-        "originalIndex": 844
+        "originalIndex": 845
     },
     {
         "name": "Victor C1",
@@ -27962,6 +32557,13 @@ window.allHeroes =
             "DoT 3",
             "Health Steal",
             "Defense Debuff"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-3)",
+            "Debuffers (DEF)",
+            "DoT Attackers",
+            "Healers (Special)",
+            "Healing Reducers"
         ],
         "source": "Monthly Event-Morlovia",
         "Release date": "2021-10-04",
@@ -27980,7 +32582,7 @@ window.allHeroes =
         "family": "morlovia",
         "image": "https://i.imgur.com/bKghYKS.jpg",
         "costume_id": 1,
-        "originalIndex": 845
+        "originalIndex": 846
     },
     {
         "name": "Violet Potts",
@@ -27994,6 +32596,12 @@ window.allHeroes =
             "Safe cleaner",
             "Buff immunity",
             "Mega Minion"
+        ],
+        "skill_types": [
+            "Mega Minions Summoners",
+            "Dispellers",
+            "Buff Blockers",
+            "DoT Attackers"
         ],
         "source": "Goblin Summon",
         "Release date": "2024-06-10",
@@ -28015,7 +32623,7 @@ window.allHeroes =
         "family": "garrisonguard",
         "image": "https://i.imgur.com/ByQ3x5M.jpg",
         "costume_id": 0,
-        "originalIndex": 846
+        "originalIndex": 847
     },
     {
         "name": "Viscaro",
@@ -28029,6 +32637,11 @@ window.allHeroes =
             "Hit All",
             "Minion Bypass",
             "Fiend Summoner All"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-5)",
+            "Fiends Summoners",
+            "Minions Counters"
         ],
         "source": "Hero of the Month",
         "Release date": "2022-01-01",
@@ -28052,7 +32665,7 @@ window.allHeroes =
         "family": 2022,
         "image": "https://i.imgur.com/tgvzp56.jpg",
         "costume_id": 0,
-        "originalIndex": 847
+        "originalIndex": 848
     },
     {
         "name": "Viscount Cluckwood",
@@ -28066,6 +32679,11 @@ window.allHeroes =
             "Reposition",
             "Hit All",
             "Allies Element Exchange 4"
+        ],
+        "skill_types": [
+            "Random Position",
+            "AoE Attackers (Hit-5)",
+            "Status Effects Blockers"
         ],
         "source": "Monthly Event-Springvale",
         "Release date": "2025-03-31",
@@ -28084,7 +32702,7 @@ window.allHeroes =
         "family": "springvale",
         "image": "https://imgur.com/ifuZ96L.jpg",
         "costume_id": 0,
-        "originalIndex": 848
+        "originalIndex": 849
     },
     {
         "name": "Voidstar",
@@ -28098,6 +32716,13 @@ window.allHeroes =
             "Hit 1",
             "Healer",
             "Special Skill Defense Buff"
+        ],
+        "skill_types": [
+            "Bypassers",
+            "Snipers",
+            "Healers (Special)",
+            "Buffers (DEF)",
+            "Damage Sharers"
         ],
         "source": "Astral Summon",
         "Release date": "2024-04-22",
@@ -28119,7 +32744,7 @@ window.allHeroes =
         "family": "astralelves",
         "image": "https://i.imgur.com/ry0GZRR.jpg",
         "costume_id": 0,
-        "originalIndex": 849
+        "originalIndex": 850
     },
     {
         "name": "Von Rothbart",
@@ -28132,6 +32757,12 @@ window.allHeroes =
         "types": [
             "Hit 1",
             "Spreading dance Ballad of Pain"
+        ],
+        "skill_types": [
+            "Dancers",
+            "Snipers",
+            "Silencers",
+            "Immunity Providers"
         ],
         "source": "Solstice Summon",
         "Release date": "2024-08-22",
@@ -28159,7 +32790,7 @@ window.allHeroes =
         "family": "opera",
         "image": "https://i.imgur.com/DZgjbkS.jpg",
         "costume_id": 0,
-        "originalIndex": 850
+        "originalIndex": 851
     },
     {
         "name": "Xie Zi Jing",
@@ -28172,6 +32803,11 @@ window.allHeroes =
         "types": [
             "Dispeller",
             "DoT 3"
+        ],
+        "skill_types": [
+            "Bypassers",
+            "Dispellers",
+            "DoT Attackers"
         ],
         "source": "Three Kingdoms Summon",
         "Release date": "2024-02-06",
@@ -28192,7 +32828,7 @@ window.allHeroes =
         "family": "journey",
         "image": "https://i.imgur.com/jJUezPr.jpg",
         "costume_id": 0,
-        "originalIndex": 851
+        "originalIndex": 852
     },
     {
         "name": "Xiong Shanjun",
@@ -28207,6 +32843,12 @@ window.allHeroes =
             "Health Boost",
             "Mana Generation Debuff",
             "Mana Generation Buff"
+        ],
+        "skill_types": [
+            "Health Boosters",
+            "Mana Generation Buffers",
+            "Mana Reducers or Blockers",
+            "Max Health Reducers"
         ],
         "source": "Three Kingdoms Summon",
         "Release date": "2023-04-24",
@@ -28225,7 +32867,7 @@ window.allHeroes =
         "family": "journey",
         "image": "https://i.imgur.com/WyjU3s9.jpg",
         "costume_id": 0,
-        "originalIndex": 852
+        "originalIndex": 853
     },
     {
         "name": "Xnolphod",
@@ -28239,6 +32881,13 @@ window.allHeroes =
             "Heal All",
             "Mana Increase",
             "Board Alterer"
+        ],
+        "skill_types": [
+            "Board Alterers",
+            "Mana Generation Buffers",
+            "Mana Reducers or Blockers",
+            "Healers",
+            "Mana Raisers"
         ],
         "source": "S4-Wilderness",
         "Release date": "2021-09-09",
@@ -28258,7 +32907,7 @@ window.allHeroes =
         "family": "underwild",
         "image": "https://i.imgur.com/RF7rniv.jpg",
         "costume_id": 0,
-        "originalIndex": 853
+        "originalIndex": 854
     },
     {
         "name": "Xnolphod C1",
@@ -28272,6 +32921,14 @@ window.allHeroes =
             "HoT",
             "Mana over time",
             "Board Alterer"
+        ],
+        "skill_types": [
+            "Board Alterers",
+            "Mana Generation Buffers",
+            "Mana Reducers or Blockers",
+            "Heal over Time (HoT)",
+            "Mana Raisers",
+            "Health Boosters"
         ],
         "source": "S4-Wilderness",
         "Release date": "2023-11-09",
@@ -28292,7 +32949,7 @@ window.allHeroes =
         "family": "underwild",
         "image": "https://i.imgur.com/s1HpuGG.jpg",
         "costume_id": 1,
-        "originalIndex": 854
+        "originalIndex": 855
     },
     {
         "name": "Ysabel",
@@ -28307,7 +32964,13 @@ window.allHeroes =
             "Enhanced Defense Ailment",
             "Delayed Dispeller"
         ],
-        "source": "S4-Wilderness",
+        "skill_types": [
+            "AoE Attackers (Hit-3)",
+            "Debuffers (DEF)",
+            "Dispellers",
+            "Minions Counters"
+        ],
+        "source": "Wilderness Summon",
         "Release date": "2024-11-05",
         "star": 5,
         "power": 1146,
@@ -28326,7 +32989,7 @@ window.allHeroes =
         "family": "woodlandfaun",
         "image": "https://i.imgur.com/jhCBaUo.jpg",
         "costume_id": 0,
-        "originalIndex": 855
+        "originalIndex": 856
     },
     {
         "name": "Zed",
@@ -28340,6 +33003,12 @@ window.allHeroes =
             "Hit 1",
             "Defense Debuff 1",
             "Healing Debuff 1"
+        ],
+        "skill_types": [
+            "Snipers",
+            "Buffers (ATK)",
+            "Debuffers (DEF)",
+            "Healing Reducers"
         ],
         "source": "Hero of the Month",
         "Release date": "2025-01-01",
@@ -28361,7 +33030,7 @@ window.allHeroes =
         "family": 2025,
         "image": "https://i.imgur.com/G0RFHTr.jpg",
         "costume_id": 0,
-        "originalIndex": 856
+        "originalIndex": 857
     },
     {
         "name": "Zulag",
@@ -28374,6 +33043,11 @@ window.allHeroes =
         "types": [
             "HoT 3",
             "Defense Buff"
+        ],
+        "skill_types": [
+            "Buffers (DEF)",
+            "Heal over Time (HoT)",
+            "Minions Summoners"
         ],
         "source": "Hero of the Month",
         "Release date": "2020-10-01",
@@ -28394,7 +33068,7 @@ window.allHeroes =
         "family": 2020,
         "image": "https://i.imgur.com/oEPqMWI.jpg",
         "costume_id": 0,
-        "originalIndex": 857
+        "originalIndex": 858
     },
     {
         "name": "Sharan",
@@ -28406,6 +33080,9 @@ window.allHeroes =
         "skill": "Minor Healing",
         "types": [
             "Healer"
+        ],
+        "skill_types": [
+            "Healers"
         ],
         "source": "S1-Classic",
         "Release date": "2017-01-01",
@@ -28421,7 +33098,7 @@ window.allHeroes =
         "family": null,
         "image": "https://i.imgur.com/PC7yXFg.jpg",
         "costume_id": 0,
-        "originalIndex": 858
+        "originalIndex": 859
     },
     {
         "name": "Tudan",
@@ -28433,6 +33110,9 @@ window.allHeroes =
         "skill": "Backstab",
         "types": [
             "Hit 1"
+        ],
+        "skill_types": [
+            "Snipers"
         ],
         "source": "S1-Classic",
         "Release date": "2017-01-01",
@@ -28448,7 +33128,7 @@ window.allHeroes =
         "family": null,
         "image": "https://i.imgur.com/cL8WR2O.jpg",
         "costume_id": 0,
-        "originalIndex": 859
+        "originalIndex": 860
     },
     {
         "name": "Farid",
@@ -28460,6 +33140,9 @@ window.allHeroes =
         "skill": "Fierce Slash",
         "types": [
             "Hit All"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-5)"
         ],
         "source": "S1-Classic",
         "Release date": "2017-01-01",
@@ -28475,7 +33158,7 @@ window.allHeroes =
         "family": null,
         "image": "https://i.imgur.com/MeeFayZ.jpg",
         "costume_id": 0,
-        "originalIndex": 860
+        "originalIndex": 861
     },
     {
         "name": "Jill",
@@ -28487,6 +33170,9 @@ window.allHeroes =
         "skill": "Attack Rally",
         "types": [
             "Attack Buff"
+        ],
+        "skill_types": [
+            "Buffers (ATK)"
         ],
         "source": "S1-Classic",
         "Release date": "2017-01-01",
@@ -28502,7 +33188,7 @@ window.allHeroes =
         "family": null,
         "image": "https://i.imgur.com/FTGm2in.jpg",
         "costume_id": 0,
-        "originalIndex": 861
+        "originalIndex": 862
     },
     {
         "name": "Shaarkot",
@@ -28514,6 +33200,9 @@ window.allHeroes =
         "skill": "Attack Rally",
         "types": [
             "Attack Buff"
+        ],
+        "skill_types": [
+            "Buffers (ATK)"
         ],
         "source": "S1-Classic",
         "Release date": "2017-01-01",
@@ -28529,7 +33218,7 @@ window.allHeroes =
         "family": null,
         "image": "https://i.imgur.com/TOP4jvU.jpg",
         "costume_id": 0,
-        "originalIndex": 862
+        "originalIndex": 863
     },
     {
         "name": "Zudak",
@@ -28541,6 +33230,9 @@ window.allHeroes =
         "skill": "Tackle",
         "types": [
             "Hit 3"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-3)"
         ],
         "source": "S1-Classic",
         "Release date": "2017-01-01",
@@ -28556,7 +33248,7 @@ window.allHeroes =
         "family": null,
         "image": "https://i.imgur.com/O3JN2m9.jpg",
         "costume_id": 0,
-        "originalIndex": 863
+        "originalIndex": 864
     },
     {
         "name": "Azar",
@@ -28569,6 +33261,10 @@ window.allHeroes =
         "types": [
             "Hit 1",
             "Mana Reduction 1"
+        ],
+        "skill_types": [
+            "Mana Reducers or Blockers",
+            "Snipers"
         ],
         "source": "S1-Classic",
         "Release date": "2017-01-01",
@@ -28585,7 +33281,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/sizxBDX.jpg",
         "costume_id": 0,
-        "originalIndex": 864
+        "originalIndex": 865
     },
     {
         "name": "Azar C1",
@@ -28598,6 +33294,10 @@ window.allHeroes =
         "types": [
             "Hit 3",
             "Mana Reduction 1"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-3)",
+            "Mana Reducers or Blockers"
         ],
         "source": "S1-Classic",
         "Release date": "2020-05-18",
@@ -28614,7 +33314,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/tInZp5F.jpg",
         "costume_id": 1,
-        "originalIndex": 865
+        "originalIndex": 866
     },
     {
         "name": "Azar Toon",
@@ -28627,6 +33327,11 @@ window.allHeroes =
         "types": [
             "Hit 1",
             "Mana Reduction 1"
+        ],
+        "skill_types": [
+            "Mana Reducers or Blockers",
+            "Snipers",
+            "Extra Damage Dealers"
         ],
         "source": "S1-Classic",
         "Release date": "2024-03-11",
@@ -28646,7 +33351,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/Mwzt0jr.jpg",
         "costume_id": 2,
-        "originalIndex": 866
+        "originalIndex": 867
     },
     {
         "name": "Azar Glass",
@@ -28660,6 +33365,11 @@ window.allHeroes =
             "Hit 1",
             "Mana Reducer 1",
             "Bypass"
+        ],
+        "skill_types": [
+            "Bypassers",
+            "Mana Reducers or Blockers",
+            "Snipers"
         ],
         "source": "S1-Classic",
         "Release date": "2025-04-23",
@@ -28679,7 +33389,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://imgur.com/rj0CDGr.jpg",
         "costume_id": 3,
-        "originalIndex": 867
+        "originalIndex": 868
     },
     {
         "name": "Bagreg",
@@ -28692,6 +33402,10 @@ window.allHeroes =
         "types": [
             "Hit 3",
             "Elemental Defense Debuff"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-3)",
+            "Debuffers (DEF)"
         ],
         "source": "S6-S7-Untold Tales",
         "Release date": "2023-06-07",
@@ -28717,7 +33431,7 @@ window.allHeroes =
         "family": "nightmaresofatlantis",
         "image": "https://i.imgur.com/rzvavLk.jpg",
         "costume_id": 0,
-        "originalIndex": 868
+        "originalIndex": 869
     },
     {
         "name": "Bagreg C1",
@@ -28730,6 +33444,10 @@ window.allHeroes =
         "types": [
             "Hit 3",
             "Elemental Defense Debuff"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-3)",
+            "Debuffers (DEF)"
         ],
         "source": "S6-S7-Untold Tales",
         "Release date": "2025-04-29",
@@ -28756,7 +33474,7 @@ window.allHeroes =
         "family": "nightmaresofatlantis",
         "image": "https://imgur.com/ZuRts32.jpg",
         "costume_id": 1,
-        "originalIndex": 869
+        "originalIndex": 870
     },
     {
         "name": "Basil",
@@ -28770,6 +33488,11 @@ window.allHeroes =
             "Defense Buff",
             "Ally Damage Share",
             "Counterattack"
+        ],
+        "skill_types": [
+            "Buffers (DEF)",
+            "Counterattackers",
+            "Damage Sharers"
         ],
         "source": "Covenant Summon",
         "Release date": "2022-12-24",
@@ -28790,7 +33513,7 @@ window.allHeroes =
         "family": "abysshunter",
         "image": "https://i.imgur.com/WxAALcm.jpg",
         "costume_id": 0,
-        "originalIndex": 870
+        "originalIndex": 871
     },
     {
         "name": "Bauchan",
@@ -28804,6 +33527,11 @@ window.allHeroes =
             "Hit All",
             "Mana Reduction",
             "Mana Generation Buff"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-5)",
+            "Mana Generation Buffers",
+            "Mana Reducers or Blockers"
         ],
         "source": "Challenge Festival-Avalon",
         "Release date": "2019-09-12",
@@ -28821,7 +33549,7 @@ window.allHeroes =
         "family": "avalon",
         "image": "https://i.imgur.com/EA1ItRL.jpg",
         "costume_id": 0,
-        "originalIndex": 871
+        "originalIndex": 872
     },
     {
         "name": "Boots",
@@ -28835,6 +33563,11 @@ window.allHeroes =
             "Hit 3",
             "Attack debuff",
             "Defense debuff"
+        ],
+        "skill_types": [
+            "Ability Scores Modifiers",
+            "AoE Attackers (Hit-3)",
+            "Debuffers (DEF)"
         ],
         "source": "Goblin Summon",
         "Release date": "2023-09-18",
@@ -28856,7 +33589,7 @@ window.allHeroes =
         "family": "goblin",
         "image": "https://i.imgur.com/JAko0SJ.jpg",
         "costume_id": 0,
-        "originalIndex": 872
+        "originalIndex": 873
     },
     {
         "name": "Buster",
@@ -28870,6 +33603,11 @@ window.allHeroes =
             "Hit 3",
             "Summoner",
             "Damage Debuff"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-3)",
+            "Extra Damage Dealers",
+            "Minions Summoners"
         ],
         "source": "Monthly Event-Winter",
         "Release date": "2022-12-01",
@@ -28887,7 +33625,7 @@ window.allHeroes =
         "family": "christmas",
         "image": "https://i.imgur.com/LgUJQa9.jpg",
         "costume_id": 0,
-        "originalIndex": 873
+        "originalIndex": 874
     },
     {
         "name": "Dante",
@@ -28899,6 +33637,11 @@ window.allHeroes =
         "skill": "Dante’s Inferno",
         "types": [
             "Charge"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-5)",
+            "Bypassers",
+            "DoT Attackers"
         ],
         "source": "Tower-Styx",
         "Release date": "2022-09-21",
@@ -28928,7 +33671,7 @@ window.allHeroes =
         "family": "styx",
         "image": "https://i.imgur.com/FNkLC6z.jpg",
         "costume_id": 0,
-        "originalIndex": 874
+        "originalIndex": 875
     },
     {
         "name": "Ei-Dunn",
@@ -28941,6 +33684,10 @@ window.allHeroes =
         "types": [
             "Hit All",
             "Mana Generation Debuff"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-3)",
+            "Mana Reducers or Blockers"
         ],
         "source": "S3-Valhalla",
         "Release date": "2020-02-27",
@@ -28957,7 +33704,7 @@ window.allHeroes =
         "family": "niflheim",
         "image": "https://i.imgur.com/RabUqBI.jpg",
         "costume_id": 0,
-        "originalIndex": 875
+        "originalIndex": 876
     },
     {
         "name": "Ei-Dunn C1",
@@ -28970,6 +33717,10 @@ window.allHeroes =
         "types": [
             "Hit All",
             "Mana Reduction"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-5)",
+            "Mana Reducers or Blockers"
         ],
         "source": "S3-Valhalla",
         "Release date": "2023-02-13",
@@ -28986,7 +33737,7 @@ window.allHeroes =
         "family": "niflheim",
         "image": "https://i.imgur.com/Zi5MdT5.jpg",
         "costume_id": 1,
-        "originalIndex": 876
+        "originalIndex": 877
     },
     {
         "name": "Fawn",
@@ -29000,7 +33751,12 @@ window.allHeroes =
             "Dodge",
             "MoT"
         ],
-        "source": "Alliance-Knights Charge",
+        "skill_types": [
+            "Dodgers",
+            "Mana Raisers",
+            "Counterattackers"
+        ],
+        "source": "Alliance-Knights Clash",
         "Release date": "2023-10-18",
         "star": 3,
         "power": 489,
@@ -29017,7 +33773,7 @@ window.allHeroes =
         "family": "stag",
         "image": "https://i.imgur.com/qV2EnaJ.jpg",
         "costume_id": 0,
-        "originalIndex": 877
+        "originalIndex": 878
     },
     {
         "name": "Hawkmoon",
@@ -29029,6 +33785,9 @@ window.allHeroes =
         "skill": "Wind Prayer",
         "types": [
             "Healer All"
+        ],
+        "skill_types": [
+            "Healers"
         ],
         "source": "S1-Classic",
         "Release date": "2017-01-01",
@@ -29044,7 +33803,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/6ZyfSsX.jpg",
         "costume_id": 0,
-        "originalIndex": 878
+        "originalIndex": 879
     },
     {
         "name": "Hawkmoon C1",
@@ -29057,6 +33816,10 @@ window.allHeroes =
         "types": [
             "HoT All",
             "Attack Buff All"
+        ],
+        "skill_types": [
+            "Buffers (ATK)",
+            "Heal over Time (HoT)"
         ],
         "source": "S1-Classic",
         "Release date": "2020-01-01",
@@ -29073,7 +33836,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/FY7tylo.jpg",
         "costume_id": 1,
-        "originalIndex": 879
+        "originalIndex": 880
     },
     {
         "name": "Hawkmoon Toon",
@@ -29086,6 +33849,10 @@ window.allHeroes =
         "types": [
             "Healer All",
             "Defense Buff All"
+        ],
+        "skill_types": [
+            "Healers",
+            "Buffers (DEF)"
         ],
         "source": "S1-Classic",
         "Release date": "2024-05-06",
@@ -29104,7 +33871,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/hDOgs06.jpg",
         "costume_id": 2,
-        "originalIndex": 880
+        "originalIndex": 881
     },
     {
         "name": "Helgi",
@@ -29117,6 +33884,13 @@ window.allHeroes =
         "types": [
             "Hit random 8",
             "Buffs Duration Reset All"
+        ],
+        "skill_types": [
+            "Chain & Random Attackers",
+            "Effect Duration Resetters",
+            "Minions Counters",
+            "DoT Attackers",
+            "Debuffers (DEF)"
         ],
         "source": "S6-S7-Untold Tales",
         "Release date": "2024-12-03",
@@ -29139,7 +33913,7 @@ window.allHeroes =
         "family": "nidavellir",
         "image": "https://i.imgur.com/URDTarn.jpg",
         "costume_id": 0,
-        "originalIndex": 881
+        "originalIndex": 882
     },
     {
         "name": "Jahangir",
@@ -29152,6 +33926,10 @@ window.allHeroes =
         "types": [
             "Hit All",
             "Dot All"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-5)",
+            "DoT Attackers"
         ],
         "source": "S1-Classic",
         "Release date": "2017-01-01",
@@ -29168,7 +33946,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/7oZTOqz.jpg",
         "costume_id": 0,
-        "originalIndex": 882
+        "originalIndex": 883
     },
     {
         "name": "Jahangir C1",
@@ -29181,6 +33959,10 @@ window.allHeroes =
         "types": [
             "Hit all",
             "Dot All"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-5)",
+            "DoT Attackers"
         ],
         "source": "S1-Classic",
         "Release date": "2021-01-18",
@@ -29197,7 +33979,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/IPO19rX.jpg",
         "costume_id": 1,
-        "originalIndex": 883
+        "originalIndex": 884
     },
     {
         "name": "Jahangir Toon",
@@ -29210,6 +33992,11 @@ window.allHeroes =
         "types": [
             "Hit All",
             "Dot All"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-5)",
+            "DoT Attackers",
+            "Extra Damage Dealers"
         ],
         "source": "S1-Classic",
         "Release date": "2023-12-25",
@@ -29229,7 +34016,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/nGXpTVa.jpg",
         "costume_id": 2,
-        "originalIndex": 884
+        "originalIndex": 885
     },
     {
         "name": "Jahangir Glass",
@@ -29242,6 +34029,11 @@ window.allHeroes =
         "types": [
             "Hit All",
             "Dot All"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-5)",
+            "Bypassers",
+            "DoT Attackers"
         ],
         "source": "S1-Classic",
         "Release date": "2024-12-25",
@@ -29261,7 +34053,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/r8eT1gi.jpg",
         "costume_id": 3,
-        "originalIndex": 885
+        "originalIndex": 886
     },
     {
         "name": "Kornel",
@@ -29275,6 +34067,10 @@ window.allHeroes =
             "Attack Buff",
             "Defense Debuff",
             "Charge"
+        ],
+        "skill_types": [
+            "Buffers (ATK)",
+            "Debuffers (DEF)"
         ],
         "source": "Tower-Magic",
         "Release date": "2021-09-15",
@@ -29296,7 +34092,7 @@ window.allHeroes =
         "family": "magic",
         "image": "https://i.imgur.com/mQovZC2.jpg",
         "costume_id": 0,
-        "originalIndex": 886
+        "originalIndex": 887
     },
     {
         "name": "Li",
@@ -29309,6 +34105,11 @@ window.allHeroes =
         "types": [
             "Hit All",
             "Summoner"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-5)",
+            "DoT Attackers",
+            "Minions Summoners"
         ],
         "source": "Three Kingdoms Summon",
         "Release date": "2022-03-14T12:00:00",
@@ -29326,7 +34127,7 @@ window.allHeroes =
         "family": "kingdom",
         "image": "https://i.imgur.com/6qcUvA0.jpg",
         "costume_id": 0,
-        "originalIndex": 887
+        "originalIndex": 888
     },
     {
         "name": "Liu Tang",
@@ -29340,6 +34141,10 @@ window.allHeroes =
             "Chance of Critical hits",
             "Hit 3",
             "Taunt"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-3)",
+            "Taunters"
         ],
         "source": "Three Kingdoms Summon",
         "Release date": "2025-05-22",
@@ -29364,7 +34169,7 @@ window.allHeroes =
         "family": "outlaws",
         "image": "https://imgur.com/7kDzUpm.jpg",
         "costume_id": 0,
-        "originalIndex": 888
+        "originalIndex": 889
     },
     {
         "name": "Namahage",
@@ -29377,6 +34182,10 @@ window.allHeroes =
         "types": [
             "Hit 1",
             "Attack Buff 1"
+        ],
+        "skill_types": [
+            "Buffers (ATK)",
+            "Snipers"
         ],
         "source": "S2-Atlantis",
         "Release date": "2019-08-01",
@@ -29393,7 +34202,7 @@ window.allHeroes =
         "family": "sakura",
         "image": "https://i.imgur.com/7ovDLzi.jpg",
         "costume_id": 0,
-        "originalIndex": 889
+        "originalIndex": 890
     },
     {
         "name": "Nashgar",
@@ -29406,6 +34215,10 @@ window.allHeroes =
         "types": [
             "Hit 1",
             "Dot 1"
+        ],
+        "skill_types": [
+            "DoT Attackers",
+            "Snipers"
         ],
         "source": "S1-Classic",
         "Release date": "2017-01-01",
@@ -29422,7 +34235,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/DrsAnEe.jpg",
         "costume_id": 0,
-        "originalIndex": 890
+        "originalIndex": 891
     },
     {
         "name": "Nashgar C1",
@@ -29435,6 +34248,10 @@ window.allHeroes =
         "types": [
             "Hit 1",
             "DoT 1"
+        ],
+        "skill_types": [
+            "DoT Attackers",
+            "Snipers"
         ],
         "source": "S1-Classic",
         "Release date": "2021-01-18",
@@ -29451,7 +34268,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/DZd6oKm.jpg",
         "costume_id": 1,
-        "originalIndex": 891
+        "originalIndex": 892
     },
     {
         "name": "Nashgar Toon",
@@ -29464,6 +34281,11 @@ window.allHeroes =
         "types": [
             "Hit 1",
             "DoT 1"
+        ],
+        "skill_types": [
+            "DoT Attackers",
+            "Snipers",
+            "Extra Damage Dealers"
         ],
         "source": "S1-Classic",
         "Release date": "2024-05-31",
@@ -29483,7 +34305,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/SWdSWFa.jpg",
         "costume_id": 2,
-        "originalIndex": 892
+        "originalIndex": 893
     },
     {
         "name": "Phoenicus",
@@ -29496,6 +34318,10 @@ window.allHeroes =
         "types": [
             "Attack Buff",
             "Mana Generation Buff"
+        ],
+        "skill_types": [
+            "Buffers (ATK)",
+            "Mana Generation Buffers"
         ],
         "source": "Challenge Festival-Wonderland",
         "Release date": "2021-12-15",
@@ -29512,7 +34338,7 @@ window.allHeroes =
         "family": "wonderland",
         "image": "https://i.imgur.com/zBoeoLf.jpg",
         "costume_id": 0,
-        "originalIndex": 893
+        "originalIndex": 894
     },
     {
         "name": "Rosepetite",
@@ -29525,6 +34351,13 @@ window.allHeroes =
         "types": [
             "Hit 3",
             "DoT 3"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-3)",
+            "DoT Attackers",
+            "Extra Damage Dealers",
+            "Dodgers",
+            "Minions Counters"
         ],
         "source": "Alliance-Moths",
         "Release date": "2025-01-23",
@@ -29543,7 +34376,7 @@ window.allHeroes =
         "family": "moth",
         "image": "https://i.imgur.com/1hAn4iO.jpg",
         "costume_id": 0,
-        "originalIndex": 894
+        "originalIndex": 895
     },
     {
         "name": "Rudolph",
@@ -29557,6 +34390,11 @@ window.allHeroes =
             "Hit 1",
             "Mana Reduction",
             "Summoner"
+        ],
+        "skill_types": [
+            "Mana Reducers or Blockers",
+            "Minions Summoners",
+            "Snipers"
         ],
         "source": "Monthly Event-Winter",
         "Release date": "2017-01-01",
@@ -29574,7 +34412,7 @@ window.allHeroes =
         "family": "christmas",
         "image": "https://i.imgur.com/mEYb8Ac.jpg",
         "costume_id": 0,
-        "originalIndex": 895
+        "originalIndex": 896
     },
     {
         "name": "Rufus",
@@ -29588,6 +34426,11 @@ window.allHeroes =
             "Hit all",
             "Dot all",
             "Defense Debuff"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-5)",
+            "Debuffers (DEF)",
+            "DoT Attackers"
         ],
         "source": "Alliance-Pets",
         "Release date": "2022-11-03",
@@ -29608,7 +34451,7 @@ window.allHeroes =
         "family": "pets",
         "image": "https://i.imgur.com/nTxGQkg.jpg",
         "costume_id": 0,
-        "originalIndex": 896
+        "originalIndex": 897
     },
     {
         "name": "Skrekok",
@@ -29621,6 +34464,10 @@ window.allHeroes =
         "types": [
             "Hit 3",
             "Attack Buff"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-3)",
+            "Buffers (ATK)"
         ],
         "source": "Challenge Festival-Villains",
         "Release date": "2021-02-11",
@@ -29637,7 +34484,7 @@ window.allHeroes =
         "family": "villains",
         "image": "https://i.imgur.com/e258l3c.jpg",
         "costume_id": 0,
-        "originalIndex": 897
+        "originalIndex": 898
     },
     {
         "name": "Squire Wabbit",
@@ -29649,6 +34496,10 @@ window.allHeroes =
         "skill": "Reckless Stab",
         "types": [
             "Hit 1"
+        ],
+        "skill_types": [
+            "Negative Effects On Self Or Allies",
+            "Snipers"
         ],
         "source": "Monthly Event-Springvale",
         "Release date": "2017-01-01",
@@ -29665,7 +34516,7 @@ window.allHeroes =
         "family": "springvale",
         "image": "https://i.imgur.com/545SVXP.jpg",
         "costume_id": 0,
-        "originalIndex": 898
+        "originalIndex": 899
     },
     {
         "name": "Starswift",
@@ -29678,6 +34529,11 @@ window.allHeroes =
         "types": [
             "Hit 3",
             "Mana generation buff 3"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-3)",
+            "Mana Generation Buffers",
+            "Damage Sharers"
         ],
         "source": "Astral Summon",
         "Release date": "2024-03-07",
@@ -29698,7 +34554,7 @@ window.allHeroes =
         "family": "astralelves",
         "image": "https://i.imgur.com/M18GizO.jpg",
         "costume_id": 0,
-        "originalIndex": 899
+        "originalIndex": 900
     },
     {
         "name": "Sudri",
@@ -29710,6 +34566,10 @@ window.allHeroes =
         "skill": "Burning Shields",
         "types": [
             "Hit All"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-5)",
+            "Extra Damage Dealers"
         ],
         "source": "S3-Valhalla",
         "Release date": "2020-05-28",
@@ -29726,7 +34586,7 @@ window.allHeroes =
         "family": "muspelheim",
         "image": "https://i.imgur.com/kbwg0o2.jpg",
         "costume_id": 0,
-        "originalIndex": 900
+        "originalIndex": 901
     },
     {
         "name": "Vollermork",
@@ -29738,6 +34598,10 @@ window.allHeroes =
         "skill": "Thresher Worms",
         "types": [
             "Fiend Summoner All"
+        ],
+        "skill_types": [
+            "Fiends Summoners",
+            "DoT Attackers"
         ],
         "source": "S4-Wilderness",
         "Release date": "2021-03-25",
@@ -29756,7 +34620,7 @@ window.allHeroes =
         "family": "underwild",
         "image": "https://i.imgur.com/mAw3KL3.jpg",
         "costume_id": 0,
-        "originalIndex": 901
+        "originalIndex": 902
     },
     {
         "name": "Vollermork C1",
@@ -29768,6 +34632,10 @@ window.allHeroes =
         "skill": "Leeching Worms",
         "types": [
             "Fiend Summoner All"
+        ],
+        "skill_types": [
+            "Fiends Summoners",
+            "DoT Attackers"
         ],
         "source": "S4-Wilderness",
         "Release date": "2024-04-25",
@@ -29786,7 +34654,7 @@ window.allHeroes =
         "family": "underwild",
         "image": "https://i.imgur.com/RK5dZz5.jpg",
         "costume_id": 1,
-        "originalIndex": 902
+        "originalIndex": 903
     },
     {
         "name": "Waqas",
@@ -29799,6 +34667,10 @@ window.allHeroes =
         "types": [
             "Hit All",
             "Max Health Reduction over Time All"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-5)",
+            "Max Health Reducers"
         ],
         "source": "S5-Dune",
         "Release date": "2022-04-21",
@@ -29819,7 +34691,7 @@ window.allHeroes =
         "family": "sun",
         "image": "https://i.imgur.com/CWQ9rw6.jpg",
         "costume_id": 0,
-        "originalIndex": 903
+        "originalIndex": 904
     },
     {
         "name": "Waqas C1",
@@ -29832,6 +34704,10 @@ window.allHeroes =
         "types": [
             "Hit All",
             "Max Health Reduction over Time All"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-5)",
+            "Max Health Reducers"
         ],
         "source": "S5-Dune",
         "Release date": "2025-04-14",
@@ -29854,7 +34730,7 @@ window.allHeroes =
         "family": "sun",
         "image": "https://imgur.com/W7OyLyj.jpg",
         "costume_id": 1,
-        "originalIndex": 904
+        "originalIndex": 905
     },
     {
         "name": "Aodhan",
@@ -29868,6 +34744,15 @@ window.allHeroes =
             "Hit All",
             "Fiend Summoner All",
             "Stack"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-5)",
+            "Fiends Summoners",
+            "Healers (Special)",
+            "Stacking Heroes",
+            "DoT Attackers",
+            "Mana Generation Buffers",
+            "Heal over Time (HoT)"
         ],
         "source": "Challenge Festival-Slayers",
         "Release date": "2021-08-05",
@@ -29889,7 +34774,7 @@ window.allHeroes =
         "family": "slayer",
         "image": "https://i.imgur.com/81JNp9d.jpg",
         "costume_id": 0,
-        "originalIndex": 905
+        "originalIndex": 906
     },
     {
         "name": "Boldtusk",
@@ -29902,6 +34787,10 @@ window.allHeroes =
         "types": [
             "Healer All",
             "Attack Buff All"
+        ],
+        "skill_types": [
+            "Buffers (ATK)",
+            "Healers"
         ],
         "source": "S1-Classic",
         "Release date": "2017-01-01",
@@ -29918,7 +34807,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/K7cfOtS.jpg",
         "costume_id": 0,
-        "originalIndex": 906
+        "originalIndex": 907
     },
     {
         "name": "Boldtusk C1",
@@ -29931,6 +34820,10 @@ window.allHeroes =
         "types": [
             "Healer All",
             "Attack Buff All"
+        ],
+        "skill_types": [
+            "Buffers (ATK)",
+            "Healers"
         ],
         "source": "S1-Classic",
         "Release date": "2020-01-01",
@@ -29947,7 +34840,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/ZFrdT4t.jpg",
         "costume_id": 1,
-        "originalIndex": 907
+        "originalIndex": 908
     },
     {
         "name": "Boldtusk C2",
@@ -29960,6 +34853,11 @@ window.allHeroes =
         "types": [
             "Boosted HoT All",
             "Attack Buff All"
+        ],
+        "skill_types": [
+            "Buffers (ATK)",
+            "Heal over Time (HoT)",
+            "Health Boosters"
         ],
         "source": "S1-Classic",
         "Release date": "2023-06-12",
@@ -29976,7 +34874,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/T4p2FAB.jpg",
         "costume_id": 2,
-        "originalIndex": 908
+        "originalIndex": 909
     },
     {
         "name": "Boldtusk Toon",
@@ -29989,6 +34887,10 @@ window.allHeroes =
         "types": [
             "Healer All",
             "Attack Buff All"
+        ],
+        "skill_types": [
+            "Buffers (ATK)",
+            "Healers"
         ],
         "source": "S1-Classic",
         "Release date": "2023-12-25",
@@ -30007,7 +34909,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/ufJrKaD.jpg",
         "costume_id": 3,
-        "originalIndex": 909
+        "originalIndex": 910
     },
     {
         "name": "Boldtusk Glass",
@@ -30022,6 +34924,11 @@ window.allHeroes =
             "Attack Buff All",
             "Reflect Ailments for Fire Allies",
             "Reflect Stacks for Fire Allies"
+        ],
+        "skill_types": [
+            "Buffers (ATK)",
+            "Healers",
+            "Reflectors"
         ],
         "source": "S1-Classic",
         "Release date": "2024-12-24",
@@ -30041,7 +34948,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/lVwUo5n.jpg",
         "costume_id": 4,
-        "originalIndex": 910
+        "originalIndex": 911
     },
     {
         "name": "Carol",
@@ -30055,6 +34962,11 @@ window.allHeroes =
             "Mana Reduction",
             "Summoner 1",
             "Bomb"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-3)",
+            "Mana Reducers or Blockers",
+            "Minions Summoners"
         ],
         "source": "Monthly Event-Winter",
         "Release date": "2020-12-01",
@@ -30072,7 +34984,7 @@ window.allHeroes =
         "family": "christmas",
         "image": "https://i.imgur.com/rj2dz3k.jpg",
         "costume_id": 0,
-        "originalIndex": 911
+        "originalIndex": 912
     },
     {
         "name": "Cillian",
@@ -30086,6 +34998,14 @@ window.allHeroes =
             "Hit 3",
             "Resurrect",
             "Stack"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-3)",
+            "Healers (Special)",
+            "Revivers",
+            "Stacking Heroes",
+            "Mana Generation Buffers",
+            "Heal over Time (HoT)"
         ],
         "source": "Challenge Festival-Slayers",
         "Release date": "2021-08-05",
@@ -30106,7 +35026,7 @@ window.allHeroes =
         "family": "slayer",
         "image": "https://i.imgur.com/ema4TPc.jpg",
         "costume_id": 0,
-        "originalIndex": 912
+        "originalIndex": 913
     },
     {
         "name": "Colen",
@@ -30119,6 +35039,10 @@ window.allHeroes =
         "types": [
             "Hit All",
             "Dot All"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-5)",
+            "DoT Attackers"
         ],
         "source": "S1-Classic",
         "Release date": "2017-01-01",
@@ -30135,7 +35059,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/eqgOQXS.jpg",
         "costume_id": 0,
-        "originalIndex": 913
+        "originalIndex": 914
     },
     {
         "name": "Colen C1",
@@ -30148,6 +35072,10 @@ window.allHeroes =
         "types": [
             "Hit all",
             "DoT All"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-5)",
+            "DoT Attackers"
         ],
         "source": "S1-Classic",
         "Release date": "2021-01-18",
@@ -30164,7 +35092,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/pAWbbb8.jpg",
         "costume_id": 1,
-        "originalIndex": 914
+        "originalIndex": 915
     },
     {
         "name": "Colen C2",
@@ -30177,6 +35105,11 @@ window.allHeroes =
         "types": [
             "Hit 3",
             "Elemental Defense Debuff 3"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-3)",
+            "Debuffers (DEF)",
+            "Extra Damage Dealers"
         ],
         "source": "S1-Classic",
         "Release date": "2023-06-12",
@@ -30194,7 +35127,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/2DIxTGe.jpg",
         "costume_id": 2,
-        "originalIndex": 915
+        "originalIndex": 916
     },
     {
         "name": "Colen Toon",
@@ -30207,6 +35140,11 @@ window.allHeroes =
         "types": [
             "Hit All",
             "DoT All"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-5)",
+            "DoT Attackers",
+            "Extra Damage Dealers"
         ],
         "source": "S1-Classic",
         "Release date": "2024-03-11",
@@ -30226,7 +35164,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/swTTE4N.jpg",
         "costume_id": 3,
-        "originalIndex": 916
+        "originalIndex": 917
     },
     {
         "name": "Colen Glass",
@@ -30240,6 +35178,11 @@ window.allHeroes =
             "Hit All",
             "Bypass",
             "DoT All"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-5)",
+            "Bypassers",
+            "DoT Attackers"
         ],
         "source": "S1-Classic",
         "Release date": "2025-04-08",
@@ -30259,7 +35202,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://imgur.com/7dLF49j.jpg",
         "costume_id": 4,
-        "originalIndex": 917
+        "originalIndex": 918
     },
     {
         "name": "Eichbelborg",
@@ -30272,6 +35215,10 @@ window.allHeroes =
         "types": [
             "Hit 1",
             "Defense Debuff"
+        ],
+        "skill_types": [
+            "Debuffers (DEF)",
+            "Snipers"
         ],
         "source": "Challenge Festival-Starfall",
         "Release date": "2021-06-10",
@@ -30288,7 +35235,7 @@ window.allHeroes =
         "family": "starfall",
         "image": "https://i.imgur.com/B0oW04d.jpg",
         "costume_id": 0,
-        "originalIndex": 918
+        "originalIndex": 919
     },
     {
         "name": "Ferant",
@@ -30301,7 +35248,11 @@ window.allHeroes =
         "types": [
             "Counterattack"
         ],
-        "source": "Alliance-Knights Charge",
+        "skill_types": [
+            "Counterattackers",
+            "Mana Reducers or Blockers"
+        ],
+        "source": "Alliance-Knights Clash",
         "Release date": "2021-10-13",
         "star": 4,
         "power": 680,
@@ -30316,7 +35267,7 @@ window.allHeroes =
         "family": "wolf",
         "image": "https://i.imgur.com/iJhZeCK.jpg",
         "costume_id": 0,
-        "originalIndex": 919
+        "originalIndex": 920
     },
     {
         "name": "Ferant C1",
@@ -30329,7 +35280,11 @@ window.allHeroes =
         "types": [
             "Counterattack"
         ],
-        "source": "Alliance-Knights Charge",
+        "skill_types": [
+            "Counterattackers",
+            "Mana Reducers or Blockers"
+        ],
+        "source": "Alliance-Knights Clash",
         "Release date": "2024-12-17",
         "star": 4,
         "power": 719,
@@ -30346,7 +35301,7 @@ window.allHeroes =
         "family": "wolf",
         "image": "https://i.imgur.com/f9WxEPE.jpg",
         "costume_id": 1,
-        "originalIndex": 920
+        "originalIndex": 921
     },
     {
         "name": "Gormek",
@@ -30359,6 +35314,10 @@ window.allHeroes =
         "types": [
             "Hit 3",
             "Defense Debuff 3"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-3)",
+            "Debuffers (DEF)"
         ],
         "source": "S1-Classic",
         "Release date": "2017-01-01",
@@ -30375,7 +35334,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/A5zsfun.jpg",
         "costume_id": 0,
-        "originalIndex": 921
+        "originalIndex": 922
     },
     {
         "name": "Gormek C1",
@@ -30388,6 +35347,11 @@ window.allHeroes =
         "types": [
             "Minion Destroyer All",
             "Hit all"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-5)",
+            "Healers (Special)",
+            "Minions Counters"
         ],
         "source": "S1-Classic",
         "Release date": "2021-01-18",
@@ -30405,7 +35369,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/OxaIMH8.jpg",
         "costume_id": 1,
-        "originalIndex": 922
+        "originalIndex": 923
     },
     {
         "name": "Gormek C2",
@@ -30418,6 +35382,10 @@ window.allHeroes =
         "types": [
             "Dispeller All",
             "Hit All"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-5)",
+            "Dispellers"
         ],
         "source": "S1-Classic",
         "Release date": "2023-04-17",
@@ -30434,7 +35402,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/6XbZQ2N.jpg",
         "costume_id": 2,
-        "originalIndex": 923
+        "originalIndex": 924
     },
     {
         "name": "Gormek Toon",
@@ -30447,6 +35415,11 @@ window.allHeroes =
         "types": [
             "Hit 3",
             "Defense Debuff 3"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-3)",
+            "Debuffers (DEF)",
+            "Extra Damage Dealers"
         ],
         "source": "S1-Classic",
         "Release date": "2024-05-06",
@@ -30466,7 +35439,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/WFeaXms.jpg",
         "costume_id": 3,
-        "originalIndex": 924
+        "originalIndex": 925
     },
     {
         "name": "Gormek Glass",
@@ -30480,6 +35453,11 @@ window.allHeroes =
             "Hit 3",
             "Bypass",
             "Defense Debuff 3"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-3)",
+            "Bypassers",
+            "Debuffers (DEF)"
         ],
         "source": "S1-Classic",
         "Release date": "2025-05-10",
@@ -30499,7 +35477,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://imgur.com/k3y9GLJ.jpg",
         "costume_id": 4,
-        "originalIndex": 925
+        "originalIndex": 926
     },
     {
         "name": "Guardian Falcon",
@@ -30512,6 +35490,10 @@ window.allHeroes =
         "types": [
             "Hit 3",
             "Elemental Defense Debuff"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-3)",
+            "Debuffers (DEF)"
         ],
         "source": "Challenge Festival-Guardians",
         "Release date": "2017-01-01",
@@ -30528,7 +35510,7 @@ window.allHeroes =
         "family": "guardiansteltoc",
         "image": "https://i.imgur.com/osWU4RP.jpg",
         "costume_id": 0,
-        "originalIndex": 926
+        "originalIndex": 927
     },
     {
         "name": "Itham",
@@ -30541,6 +35523,11 @@ window.allHeroes =
         "types": [
             "Hit 3",
             "Buff Immunity"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-3)",
+            "Buff Blockers",
+            "Immunity Providers"
         ],
         "source": "Monthly Event-Beach Party",
         "Release date": "2023-06-12",
@@ -30561,7 +35548,7 @@ window.allHeroes =
         "family": "beachparty",
         "image": "https://i.imgur.com/7w0kLrp.jpg",
         "costume_id": 0,
-        "originalIndex": 927
+        "originalIndex": 928
     },
     {
         "name": "Junaid",
@@ -30574,6 +35561,10 @@ window.allHeroes =
         "types": [
             "Hit 1",
             "Damage Heal"
+        ],
+        "skill_types": [
+            "Healers (Special)",
+            "Snipers"
         ],
         "source": "S5-Dune",
         "Release date": "2022-04-21",
@@ -30594,7 +35585,7 @@ window.allHeroes =
         "family": "moon",
         "image": "https://i.imgur.com/9XxU54s.jpg",
         "costume_id": 0,
-        "originalIndex": 928
+        "originalIndex": 929
     },
     {
         "name": "Junaid C1",
@@ -30607,6 +35598,10 @@ window.allHeroes =
         "types": [
             "Hit 1",
             "Damage Heal"
+        ],
+        "skill_types": [
+            "Snipers",
+            "Healers (Special)"
         ],
         "source": "S5-Dune",
         "Release date": "2024-11-01",
@@ -30629,7 +35624,7 @@ window.allHeroes =
         "family": "moon",
         "image": "https://i.imgur.com/4PhQKkZ.jpg",
         "costume_id": 1,
-        "originalIndex": 929
+        "originalIndex": 930
     },
     {
         "name": "Kelile",
@@ -30642,6 +35637,10 @@ window.allHeroes =
         "types": [
             "Hit 1",
             "Dot 1"
+        ],
+        "skill_types": [
+            "DoT Attackers",
+            "Snipers"
         ],
         "source": "S1-Classic",
         "Release date": "2017-01-01",
@@ -30658,7 +35657,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/g0FkZzQ.jpg",
         "costume_id": 0,
-        "originalIndex": 930
+        "originalIndex": 931
     },
     {
         "name": "Kelile C1",
@@ -30670,6 +35669,9 @@ window.allHeroes =
         "skill": "Dance of Ignition",
         "types": [
             "DoT All"
+        ],
+        "skill_types": [
+            "DoT Attackers"
         ],
         "source": "S1-Classic",
         "Release date": "2021-01-18",
@@ -30685,7 +35687,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/EFoCGqV.jpg",
         "costume_id": 1,
-        "originalIndex": 931
+        "originalIndex": 932
     },
     {
         "name": "Kelile C2",
@@ -30698,6 +35700,11 @@ window.allHeroes =
         "types": [
             "Hit 3",
             "DoT 3"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-3)",
+            "DoT Attackers",
+            "Healers (Special)"
         ],
         "source": "S1-Classic",
         "Release date": "2022-09-05",
@@ -30714,7 +35721,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/46HnfAG.jpg",
         "costume_id": 2,
-        "originalIndex": 932
+        "originalIndex": 933
     },
     {
         "name": "Kelile Toon",
@@ -30727,6 +35734,11 @@ window.allHeroes =
         "types": [
             "Hit 1",
             "DoT 1"
+        ],
+        "skill_types": [
+            "DoT Attackers",
+            "Snipers",
+            "Extra Damage Dealers"
         ],
         "source": "S1-Classic",
         "Release date": "2024-04-08",
@@ -30746,7 +35758,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/nj44opt.jpg",
         "costume_id": 3,
-        "originalIndex": 933
+        "originalIndex": 934
     },
     {
         "name": "Kelile Glass",
@@ -30760,6 +35772,11 @@ window.allHeroes =
             "Hit 1",
             "Bypass",
             "DoT 1"
+        ],
+        "skill_types": [
+            "Bypassers",
+            "DoT Attackers",
+            "Snipers"
         ],
         "source": "S1-Classic",
         "Release date": "2025-04-23",
@@ -30779,7 +35796,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://imgur.com/yqIwVAP.jpg",
         "costume_id": 4,
-        "originalIndex": 934
+        "originalIndex": 935
     },
     {
         "name": "Lemminkainen",
@@ -30792,6 +35809,10 @@ window.allHeroes =
         "types": [
             "Hit 3",
             "Dot 3"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-3)",
+            "DoT Attackers"
         ],
         "source": "Monthly Event-Kalevala",
         "Release date": "2022-06-20",
@@ -30810,7 +35831,7 @@ window.allHeroes =
         "family": "kalevala",
         "image": "https://i.imgur.com/f4cHfqp.jpg",
         "costume_id": 0,
-        "originalIndex": 935
+        "originalIndex": 936
     },
     {
         "name": "Lucy",
@@ -30823,6 +35844,14 @@ window.allHeroes =
         "types": [
             "Hit 1",
             "Mana Generation"
+        ],
+        "skill_types": [
+            "Mana Generation Buffers",
+            "Mana Reducers or Blockers",
+            "Snipers",
+            "AoE Attackers (Hit-5)",
+            "Stacking Heroes",
+            "Healers"
         ],
         "source": "Tower-Magic",
         "Release date": "2023-05-03",
@@ -30847,7 +35876,7 @@ window.allHeroes =
         "family": "magic",
         "image": "https://i.imgur.com/j3M4iy4.jpg",
         "costume_id": 0,
-        "originalIndex": 936
+        "originalIndex": 937
     },
     {
         "name": "Mack",
@@ -30860,6 +35889,10 @@ window.allHeroes =
         "types": [
             "Counterattack",
             "Attack Buff"
+        ],
+        "skill_types": [
+            "Buffers (ATK)",
+            "Counterattackers"
         ],
         "source": "S4-Wilderness",
         "Release date": "2021-03-25",
@@ -30878,7 +35911,7 @@ window.allHeroes =
         "family": "underwild",
         "image": "https://i.imgur.com/nafpwvj.jpg",
         "costume_id": 0,
-        "originalIndex": 937
+        "originalIndex": 938
     },
     {
         "name": "Mack C1",
@@ -30891,6 +35924,10 @@ window.allHeroes =
         "types": [
             "Counterattack",
             "Attack Buff"
+        ],
+        "skill_types": [
+            "Counterattackers",
+            "Buffers (ATK)"
         ],
         "source": "S4-Wilderness",
         "Release date": "2024-05-23",
@@ -30909,7 +35946,7 @@ window.allHeroes =
         "family": "underwild",
         "image": "https://i.imgur.com/piqOqpg.jpg",
         "costume_id": 1,
-        "originalIndex": 938
+        "originalIndex": 939
     },
     {
         "name": "Maheegan",
@@ -30922,6 +35959,11 @@ window.allHeroes =
         "types": [
             "Hit 3",
             "Fiend Summoner 3"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-3)",
+            "DoT Attackers",
+            "Fiends Summoners"
         ],
         "source": "Covenant Summon",
         "Release date": "2022-08-25",
@@ -30942,7 +35984,7 @@ window.allHeroes =
         "family": "plainshunter",
         "image": "https://i.imgur.com/c554xVo.jpg",
         "costume_id": 0,
-        "originalIndex": 939
+        "originalIndex": 940
     },
     {
         "name": "Manpip",
@@ -30956,6 +35998,12 @@ window.allHeroes =
             "Hit 3",
             "DoT 3",
             "Replace Buffs 3"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-3)",
+            "DoT Attackers",
+            "Status Effects Blockers",
+            "Status Effect Conversion"
         ],
         "source": "Tower-Magic",
         "Release date": "2025-04-17",
@@ -30979,7 +36027,7 @@ window.allHeroes =
         "family": "magiccarpet",
         "image": "https://imgur.com/xf2xQFV.jpg",
         "costume_id": 0,
-        "originalIndex": 940
+        "originalIndex": 941
     },
     {
         "name": "Nova",
@@ -30993,6 +36041,11 @@ window.allHeroes =
             "Heal all",
             "Elemental Heal Fire",
             "Cleanser"
+        ],
+        "skill_types": [
+            "Cleansers",
+            "Healers",
+            "Healers (Special)"
         ],
         "source": "Super Elementals",
         "Release date": "2023-10-09",
@@ -31016,7 +36069,7 @@ window.allHeroes =
         "family": "superelemental",
         "image": "https://i.imgur.com/bsearKJ.jpg",
         "costume_id": 0,
-        "originalIndex": 941
+        "originalIndex": 942
     },
     {
         "name": "Raul",
@@ -31032,6 +36085,16 @@ window.allHeroes =
             "Mana gen debuff",
             "Healing debuff",
             "Status Effect immunity"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-3)",
+            "Cleansers",
+            "Buff Blockers",
+            "Dancers",
+            "Dispellers",
+            "Healing Reducers",
+            "Mana Reducers or Blockers",
+            "Immunity Providers"
         ],
         "source": "Solstice Summon",
         "Release date": "2023-11-30",
@@ -31056,7 +36119,7 @@ window.allHeroes =
         "family": "opera",
         "image": "https://i.imgur.com/QmSXHcR.jpg",
         "costume_id": 0,
-        "originalIndex": 942
+        "originalIndex": 943
     },
     {
         "name": "Rokkamush",
@@ -31069,6 +36132,11 @@ window.allHeroes =
         "types": [
             "Hit All",
             "DoT All"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-5)",
+            "DoT Attackers",
+            "Negative Effects On Self Or Allies"
         ],
         "source": "S4-Wilderness",
         "Release date": "2021-03-25",
@@ -31087,7 +36155,7 @@ window.allHeroes =
         "family": "underwild",
         "image": "https://i.imgur.com/dOWSQgd.jpg",
         "costume_id": 0,
-        "originalIndex": 943
+        "originalIndex": 944
     },
     {
         "name": "Rokkamush C1",
@@ -31100,6 +36168,11 @@ window.allHeroes =
         "types": [
             "Hit All",
             "DoT All"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-5)",
+            "DoT Attackers",
+            "Negative Effects On Self Or Allies"
         ],
         "source": "S4-Wilderness",
         "Release date": "2024-04-25",
@@ -31118,7 +36191,7 @@ window.allHeroes =
         "family": "underwild",
         "image": "https://i.imgur.com/AXlFl5t.jpg",
         "costume_id": 1,
-        "originalIndex": 944
+        "originalIndex": 945
     },
     {
         "name": "Scarlett",
@@ -31131,6 +36204,10 @@ window.allHeroes =
         "types": [
             "Hit 3",
             "Attack Debuff 3"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-3)",
+            "Debuffers (ATK)"
         ],
         "source": "S1-Classic",
         "Release date": "2017-01-01",
@@ -31147,7 +36224,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/rridBLP.jpg",
         "costume_id": 0,
-        "originalIndex": 945
+        "originalIndex": 946
     },
     {
         "name": "Scarlett C1",
@@ -31161,6 +36238,11 @@ window.allHeroes =
             "Hit 3",
             "Dot 3",
             "Attack Buff 3"
+        ],
+        "skill_types": [
+            "Buffers (ATK)",
+            "DoT Attackers",
+            "AoE Attackers (Hit-3)"
         ],
         "source": "S1-Classic",
         "Release date": "2021-01-18",
@@ -31178,7 +36260,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/t5Qcm7v.jpg",
         "costume_id": 1,
-        "originalIndex": 946
+        "originalIndex": 947
     },
     {
         "name": "Scarlett C2",
@@ -31191,6 +36273,11 @@ window.allHeroes =
         "types": [
             "Hit 3",
             "Attack Debuff 3"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-3)",
+            "Debuffers (ATK)",
+            "Stacking Heroes"
         ],
         "source": "S1-Classic",
         "Release date": "2023-10-30",
@@ -31207,7 +36294,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/Zxh18lV.jpg",
         "costume_id": 2,
-        "originalIndex": 947
+        "originalIndex": 948
     },
     {
         "name": "Scarlett Toon",
@@ -31220,6 +36307,11 @@ window.allHeroes =
         "types": [
             "Hit 3",
             "Attack Debuff"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-3)",
+            "Debuffers (ATK)",
+            "Extra Damage Dealers"
         ],
         "source": "S1-Classic",
         "Release date": "2024-08-11",
@@ -31239,7 +36331,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/uv68SUQ.jpg",
         "costume_id": 3,
-        "originalIndex": 948
+        "originalIndex": 949
     },
     {
         "name": "Shadereave",
@@ -31252,6 +36344,10 @@ window.allHeroes =
         "types": [
             "Attack BuffCritical Buff",
             "Zombie Buff"
+        ],
+        "skill_types": [
+            "Buffers (ATK)",
+            "Revivers"
         ],
         "source": "S3-Valhalla",
         "Release date": "2020-05-28",
@@ -31273,7 +36369,7 @@ window.allHeroes =
         "family": "helheim",
         "image": "https://i.imgur.com/t4qsaZf.jpg",
         "costume_id": 0,
-        "originalIndex": 949
+        "originalIndex": 950
     },
     {
         "name": "Shale",
@@ -31287,6 +36383,10 @@ window.allHeroes =
             "Charge",
             "Hot Self/3/All",
             "Cleanser Self/3/All"
+        ],
+        "skill_types": [
+            "Cleansers",
+            "Heal over Time (HoT)"
         ],
         "source": "Tower-Ninjas",
         "Release date": "2020-10-13",
@@ -31310,7 +36410,7 @@ window.allHeroes =
         "family": "ninja",
         "image": "https://i.imgur.com/MtPyEOT.jpg",
         "costume_id": 0,
-        "originalIndex": 950
+        "originalIndex": 951
     },
     {
         "name": "Sir Lancelot",
@@ -31324,6 +36424,11 @@ window.allHeroes =
             "Hit 1",
             "Attack Buff",
             "Mana Generation Buff"
+        ],
+        "skill_types": [
+            "Buffers (ATK)",
+            "Mana Generation Buffers",
+            "Snipers"
         ],
         "source": "Challenge Festival-Avalon",
         "Release date": "2017-01-01",
@@ -31341,7 +36446,7 @@ window.allHeroes =
         "family": "avalon",
         "image": "https://i.imgur.com/zyZ5m0r.jpg",
         "costume_id": 0,
-        "originalIndex": 951
+        "originalIndex": 952
     },
     {
         "name": "Sumitomo",
@@ -31355,6 +36460,11 @@ window.allHeroes =
             "Hit 1",
             "Counterattack 1",
             "Mana on counterattack"
+        ],
+        "skill_types": [
+            "Counterattackers",
+            "Mana Raisers",
+            "Snipers"
         ],
         "source": "S2-Atlantis",
         "Release date": "2019-08-01",
@@ -31372,7 +36482,7 @@ window.allHeroes =
         "family": "sakura",
         "image": "https://i.imgur.com/qnIyV2j.jpg",
         "costume_id": 0,
-        "originalIndex": 952
+        "originalIndex": 953
     },
     {
         "name": "Sumitomo C1",
@@ -31386,6 +36496,11 @@ window.allHeroes =
             "Hit 1",
             "Counterattack 1",
             "Mana on counterattack"
+        ],
+        "skill_types": [
+            "Counterattackers",
+            "Mana Raisers",
+            "Snipers"
         ],
         "source": "S2-Atlantis",
         "Release date": "2023-04-03",
@@ -31403,7 +36518,7 @@ window.allHeroes =
         "family": "sakura",
         "image": "https://i.imgur.com/kQW2sKb.jpg",
         "costume_id": 1,
-        "originalIndex": 953
+        "originalIndex": 954
     },
     {
         "name": "Sumle",
@@ -31415,6 +36530,11 @@ window.allHeroes =
         "skill": "Magma Boulders",
         "types": [
             "Hit All"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-5)",
+            "Extra Damage Dealers",
+            "Negative Effects On Self Or Allies"
         ],
         "source": "S3-Valhalla",
         "Release date": "2020-02-27",
@@ -31431,7 +36551,7 @@ window.allHeroes =
         "family": "muspelheim",
         "image": "https://i.imgur.com/yxQi63p.jpg",
         "costume_id": 0,
-        "originalIndex": 954
+        "originalIndex": 955
     },
     {
         "name": "Sumle C1",
@@ -31443,6 +36563,11 @@ window.allHeroes =
         "skill": "Volcanic Boulders",
         "types": [
             "Hit 3"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-3)",
+            "Extra Damage Dealers",
+            "Negative Effects On Self Or Allies"
         ],
         "source": "S3-Valhalla",
         "Release date": "2022-07-04",
@@ -31459,7 +36584,7 @@ window.allHeroes =
         "family": "muspelheim",
         "image": "https://i.imgur.com/BBcd7nx.jpg",
         "costume_id": 1,
-        "originalIndex": 955
+        "originalIndex": 956
     },
     {
         "name": "Sun Shangxiang",
@@ -31472,6 +36597,10 @@ window.allHeroes =
         "types": [
             "Hit 3",
             "Defense Debuff"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-3)",
+            "Debuffers (DEF)"
         ],
         "source": "Three Kingdoms Summon",
         "Release date": "2022-03-14T12:00:00",
@@ -31488,7 +36617,7 @@ window.allHeroes =
         "family": "kingdom",
         "image": "https://i.imgur.com/H5PMlvf.jpg",
         "costume_id": 0,
-        "originalIndex": 956
+        "originalIndex": 957
     },
     {
         "name": "Vonreine",
@@ -31502,6 +36631,13 @@ window.allHeroes =
             "Hit 3",
             "Fiend Summoner 3",
             "Generated mana steal 3"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-3)",
+            "Fiends Summoners",
+            "Mana Reducers or Blockers",
+            "Damage Reducers",
+            "Immunity Providers"
         ],
         "source": "Challenge-Return to Sanctuary",
         "Release date": "2024-10-17",
@@ -31522,7 +36658,7 @@ window.allHeroes =
         "family": "gargoyle",
         "image": "https://i.imgur.com/rPeRNSA.jpg",
         "costume_id": 0,
-        "originalIndex": 957
+        "originalIndex": 958
     },
     {
         "name": "Wilbur",
@@ -31537,6 +36673,11 @@ window.allHeroes =
             "Enemy Damage Share",
             "Defense Buff",
             "Defense Debuff"
+        ],
+        "skill_types": [
+            "Buffers (DEF)",
+            "Damage Sharers",
+            "Debuffers (DEF)"
         ],
         "source": "S2-Atlantis",
         "Release date": "2019-08-01",
@@ -31555,7 +36696,7 @@ window.allHeroes =
         "family": "lagoon",
         "image": "https://i.imgur.com/EjclF3b.jpg",
         "costume_id": 0,
-        "originalIndex": 958
+        "originalIndex": 959
     },
     {
         "name": "Wilbur C1",
@@ -31568,6 +36709,10 @@ window.allHeroes =
         "types": [
             "Titan Attack Buff",
             "HoT"
+        ],
+        "skill_types": [
+            "Buffers (ATK)",
+            "Heal over Time (HoT)"
         ],
         "source": "S2-Atlantis",
         "Release date": "2022-05-02",
@@ -31584,7 +36729,7 @@ window.allHeroes =
         "family": "lagoon",
         "image": "https://i.imgur.com/BehrpwT.jpg",
         "costume_id": 1,
-        "originalIndex": 959
+        "originalIndex": 960
     },
     {
         "name": "Zhabog",
@@ -31597,6 +36742,11 @@ window.allHeroes =
         "types": [
             "Hit 1",
             "Status Ailment Reset"
+        ],
+        "skill_types": [
+            "Effect Duration Resetters",
+            "Resurrection Inhibitors",
+            "Snipers"
         ],
         "source": "Challenge Festival-Bards",
         "Release date": "2022-08-11",
@@ -31615,7 +36765,7 @@ window.allHeroes =
         "family": "bard",
         "image": "https://i.imgur.com/GX1p5W9.jpg",
         "costume_id": 0,
-        "originalIndex": 960
+        "originalIndex": 961
     },
     {
         "name": "Zhou Yu",
@@ -31629,6 +36779,11 @@ window.allHeroes =
             "Hit 1",
             "Summoner",
             "Minion DoT"
+        ],
+        "skill_types": [
+            "DoT Attackers",
+            "Minions Summoners",
+            "Snipers"
         ],
         "source": "Three Kingdoms Summon",
         "Release date": "2022-03-14T12:00:00",
@@ -31646,7 +36801,7 @@ window.allHeroes =
         "family": "kingdom",
         "image": "https://i.imgur.com/KiDn1jL.jpg",
         "costume_id": 0,
-        "originalIndex": 961
+        "originalIndex": 962
     },
     {
         "name": "Zhou Yu C1",
@@ -31660,6 +36815,11 @@ window.allHeroes =
             "Hit 1",
             "Summoner 1",
             "Minion DoT"
+        ],
+        "skill_types": [
+            "Snipers",
+            "Minions Summoners",
+            "DoT Attackers"
         ],
         "source": "Three Kingdoms Summon",
         "Release date": "2025-01-29",
@@ -31682,7 +36842,7 @@ window.allHeroes =
         "family": "kingdom",
         "image": "https://i.imgur.com/Uiw1osb.jpg",
         "costume_id": 1,
-        "originalIndex": 962
+        "originalIndex": 963
     },
     {
         "name": "Abigail",
@@ -31697,6 +36857,12 @@ window.allHeroes =
             "Summoner",
             "DoT",
             "Insanity"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-5)",
+            "Minions Summoners",
+            "DoT Attackers",
+            "Negative Effects On Self Or Allies"
         ],
         "source": "Extra Draw-Secret Summon",
         "Release date": "2024-05-26",
@@ -31719,7 +36885,7 @@ window.allHeroes =
         "family": "investigator",
         "image": "https://i.imgur.com/dHcPPcr.jpg",
         "costume_id": 0,
-        "originalIndex": 963
+        "originalIndex": 964
     },
     {
         "name": "Aethslegaur",
@@ -31733,6 +36899,17 @@ window.allHeroes =
             "Hit 1",
             "Dodge All",
             "Self Mark of Immolation"
+        ],
+        "skill_types": [
+            "Dodgers",
+            "Extra Damage Dealers",
+            "Bypassers",
+            "DoT Attackers",
+            "Debuffers (DEF)",
+            "Minions Counters",
+            "Snipers",
+            "Mana Generation Buffers",
+            "Stacking Heroes"
         ],
         "source": "S6-S7-Untold Tales",
         "Release date": "2025-03-23",
@@ -31756,7 +36933,7 @@ window.allHeroes =
         "family": "nidavellir",
         "image": "https://i.imgur.com/rCRyftg.jpg",
         "costume_id": 0,
-        "originalIndex": 964
+        "originalIndex": 965
     },
     {
         "name": "Alucard",
@@ -31770,6 +36947,13 @@ window.allHeroes =
             "Minion Destroyer 3",
             "Hit 3",
             "Bypass"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-3)",
+            "Bypassers",
+            "Healers (Special)",
+            "Mana Raisers",
+            "Minions Counters"
         ],
         "source": "Monthly Event-Morlovia",
         "Release date": "2022-10-03",
@@ -31791,7 +36975,7 @@ window.allHeroes =
         "family": "morlovia",
         "image": "https://i.imgur.com/ZDIKUNx.jpg",
         "costume_id": 0,
-        "originalIndex": 965
+        "originalIndex": 966
     },
     {
         "name": "Alucard C1",
@@ -31805,6 +36989,13 @@ window.allHeroes =
             "Minion Destroyer 3",
             "Hit 3",
             "Bypass"
+        ],
+        "skill_types": [
+            "Minions Counters",
+            "AoE Attackers (Hit-3)",
+            "Healers (Special)",
+            "Mana Raisers",
+            "Bypassers"
         ],
         "source": "Monthly Event-Morlovia",
         "Release date": "2024-09-23",
@@ -31826,7 +37017,7 @@ window.allHeroes =
         "family": "morlovia",
         "image": "https://i.imgur.com/ed8i62p.jpg",
         "costume_id": 1,
-        "originalIndex": 966
+        "originalIndex": 967
     },
     {
         "name": "Amber",
@@ -31840,6 +37031,11 @@ window.allHeroes =
             "Hit 1",
             "Self heal",
             "Block Healing 1"
+        ],
+        "skill_types": [
+            "Healers (Special)",
+            "Healing Reducers",
+            "Snipers"
         ],
         "source": "Monthly Event-Morlovia",
         "Release date": "2023-09-25",
@@ -31859,7 +37055,7 @@ window.allHeroes =
         "family": "morlovia",
         "image": "https://i.imgur.com/PmKUK6y.jpg",
         "costume_id": 0,
-        "originalIndex": 967
+        "originalIndex": 968
     },
     {
         "name": "Andy Jay",
@@ -31872,6 +37068,11 @@ window.allHeroes =
         "types": [
             "Hit All",
             "Blazing Rave Dance All"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-5)",
+            "Dancers",
+            "Buffers (DEF)"
         ],
         "source": "Monthly Event-Beach Party",
         "Release date": "2025-06-03",
@@ -31894,7 +37095,7 @@ window.allHeroes =
         "family": "beachparty",
         "image": "https://imgur.com/ZWcSNEl.jpg",
         "costume_id": 0,
-        "originalIndex": 968
+        "originalIndex": 969
     },
     {
         "name": "Anzogh",
@@ -31907,6 +37108,11 @@ window.allHeroes =
         "types": [
             "Healer",
             "Hit All"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-5)",
+            "Healers (Special)",
+            "Buffers (DEF)"
         ],
         "source": "Hero of the Month",
         "Release date": "2019-04-01",
@@ -31926,7 +37132,7 @@ window.allHeroes =
         "family": 2019,
         "image": "https://i.imgur.com/1Kkc15H.jpg",
         "costume_id": 0,
-        "originalIndex": 969
+        "originalIndex": 970
     },
     {
         "name": "Aradia",
@@ -31939,6 +37145,11 @@ window.allHeroes =
         "types": [
             "Max Health Reduction",
             "DoT All"
+        ],
+        "skill_types": [
+            "DoT Attackers",
+            "Healing Reducers",
+            "Max Health Reducers"
         ],
         "source": "Challenge-Carnival of Gods",
         "Release date": "2023-07-13",
@@ -31958,7 +37169,7 @@ window.allHeroes =
         "family": "maskedgod",
         "image": "https://i.imgur.com/KU4YzVK.jpg",
         "costume_id": 0,
-        "originalIndex": 970
+        "originalIndex": 971
     },
     {
         "name": "Araminta",
@@ -31973,7 +37184,14 @@ window.allHeroes =
             "Damage Increase Stack All",
             "Delayed Mana boost All"
         ],
-        "source": "S4-Wilderness",
+        "skill_types": [
+            "AoE Attackers (Hit-5)",
+            "Extra Damage Dealers",
+            "Mana Raisers",
+            "Stacking Heroes",
+            "Minions Counters"
+        ],
+        "source": "Wilderness Summon",
         "Release date": "2024-10-23",
         "star": 5,
         "power": 1144,
@@ -31992,7 +37210,7 @@ window.allHeroes =
         "family": "woodlandfaun",
         "image": "https://i.imgur.com/52hX4ns.jpg",
         "costume_id": 0,
-        "originalIndex": 971
+        "originalIndex": 972
     },
     {
         "name": "Ares",
@@ -32006,6 +37224,11 @@ window.allHeroes =
             "Attack Buff 3",
             "Crit Buff 3",
             "Hot 3"
+        ],
+        "skill_types": [
+            "Buffers (ATK)",
+            "Heal over Time (HoT)",
+            "Buffers (DEF)"
         ],
         "source": "Hero of the Month",
         "Release date": "2017-08-01T00:00:00",
@@ -32024,7 +37247,7 @@ window.allHeroes =
         "family": 2017,
         "image": "https://i.imgur.com/KvZBThZ.jpg",
         "costume_id": 0,
-        "originalIndex": 972
+        "originalIndex": 973
     },
     {
         "name": "Ares C1",
@@ -32038,6 +37261,13 @@ window.allHeroes =
             "Attack Buff 3",
             "Counterattack 3",
             "Health Boost 3"
+        ],
+        "skill_types": [
+            "Buffers (ATK)",
+            "Buffers (DEF)",
+            "Counterattackers",
+            "Heal over Time (HoT)",
+            "Health Boosters"
         ],
         "source": "Hero of the Month",
         "Release date": "2023-03-20",
@@ -32058,7 +37288,7 @@ window.allHeroes =
         "family": 2017,
         "image": "https://i.imgur.com/Pf1h54r.jpg",
         "costume_id": 1,
-        "originalIndex": 973
+        "originalIndex": 974
     },
     {
         "name": "Ash",
@@ -32071,6 +37301,11 @@ window.allHeroes =
         "types": [
             "Hit 9",
             "Elemental Defense Debuff"
+        ],
+        "skill_types": [
+            "Chain & Random Attackers",
+            "Extra Damage Dealers",
+            "Debuffers (DEF)"
         ],
         "source": "Super Elementals",
         "Release date": "2024-07-14",
@@ -32094,7 +37329,7 @@ window.allHeroes =
         "family": "superelemental",
         "image": "https://i.imgur.com/Vb0jBsm.jpg",
         "costume_id": 0,
-        "originalIndex": 974
+        "originalIndex": 975
     },
     {
         "name": "Asterius",
@@ -32109,6 +37344,12 @@ window.allHeroes =
             "Buff Duration Reducer 3",
             "DoT 3",
             "Defense Debuff 3"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-3)",
+            "Debuffers (DEF)",
+            "DoT Attackers",
+            "Effect Duration Resetters"
         ],
         "source": "Challenge Festival-Villains",
         "Release date": "2021-02-11",
@@ -32126,7 +37367,7 @@ window.allHeroes =
         "family": "villains",
         "image": "https://i.imgur.com/i9C7vjL.jpg",
         "costume_id": 0,
-        "originalIndex": 975
+        "originalIndex": 976
     },
     {
         "name": "Aurum",
@@ -32140,6 +37381,14 @@ window.allHeroes =
             "Charge Hit 1/3/5",
             "Bleed Mark",
             "DoT"
+        ],
+        "skill_types": [
+            "Snipers",
+            "AoE Attackers (Hit-3)",
+            "AoE Attackers (Hit-5)",
+            "DoT Attackers",
+            "Extra Damage Dealers",
+            "Minions Counters"
         ],
         "source": "Tower-Ninjas",
         "Release date": "2025-03-05",
@@ -32168,7 +37417,7 @@ window.allHeroes =
         "family": "ninja",
         "image": "https://i.imgur.com/ti2OFXj.jpg",
         "costume_id": 0,
-        "originalIndex": 976
+        "originalIndex": 977
     },
     {
         "name": "Azlar",
@@ -32181,6 +37430,10 @@ window.allHeroes =
         "types": [
             "Hit All",
             "Dot All"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-5)",
+            "DoT Attackers"
         ],
         "source": "S1-Classic",
         "Release date": "2017-01-01",
@@ -32197,7 +37450,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/wAibSFk.jpg",
         "costume_id": 0,
-        "originalIndex": 977
+        "originalIndex": 978
     },
     {
         "name": "Azlar C1",
@@ -32210,6 +37463,11 @@ window.allHeroes =
         "types": [
             "Hit 3",
             "Dot 3"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-3)",
+            "DoT Attackers",
+            "Extra Damage Dealers"
         ],
         "source": "S1-Classic",
         "Release date": "2020-05-18",
@@ -32227,7 +37485,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/TDGgAGz.jpg",
         "costume_id": 1,
-        "originalIndex": 978
+        "originalIndex": 979
     },
     {
         "name": "Azlar C2",
@@ -32240,6 +37498,11 @@ window.allHeroes =
         "types": [
             "Hit 3",
             "DoT"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-3)",
+            "DoT Attackers",
+            "Healers (Special)"
         ],
         "source": "S1-Classic",
         "Release date": "2023-02-20",
@@ -32256,7 +37519,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/6N4jIyy.jpg",
         "costume_id": 2,
-        "originalIndex": 979
+        "originalIndex": 980
     },
     {
         "name": "Azlar Toon",
@@ -32269,6 +37532,11 @@ window.allHeroes =
         "types": [
             "Hit all",
             "DoT all"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-5)",
+            "DoT Attackers",
+            "Extra Damage Dealers"
         ],
         "source": "S1-Classic",
         "Release date": "2023-10-30",
@@ -32288,7 +37556,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/yS5bHHw.jpg",
         "costume_id": 3,
-        "originalIndex": 980
+        "originalIndex": 981
     },
     {
         "name": "Azlar Glass",
@@ -32301,6 +37569,11 @@ window.allHeroes =
         "types": [
             "Hit all",
             "DoT all"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-5)",
+            "Bypassers",
+            "DoT Attackers"
         ],
         "source": "S1-Classic",
         "Release date": "2024-12-24",
@@ -32320,7 +37593,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/S5acyh9.jpg",
         "costume_id": 4,
-        "originalIndex": 981
+        "originalIndex": 982
     },
     {
         "name": "Baldur",
@@ -32335,6 +37608,12 @@ window.allHeroes =
             "Self Health Boost",
             "Mana reduction immunity All",
             "Hit 1 random"
+        ],
+        "skill_types": [
+            "Chain & Random Attackers",
+            "Health Boosters",
+            "Immunity Providers",
+            "AoE Attackers (Hit-5)"
         ],
         "source": "S3-Valhalla",
         "Release date": "2020-05-28",
@@ -32353,7 +37632,7 @@ window.allHeroes =
         "family": "muspelheim",
         "image": "https://i.imgur.com/bmdaK3F.jpg",
         "costume_id": 0,
-        "originalIndex": 982
+        "originalIndex": 983
     },
     {
         "name": "Baldur C1",
@@ -32368,6 +37647,13 @@ window.allHeroes =
             "Self Health Boost",
             "Mana reduction immunity All",
             "Hit 1 random"
+        ],
+        "skill_types": [
+            "Chain & Random Attackers",
+            "Health Boosters",
+            "Immunity Providers",
+            "Snipers",
+            "AoE Attackers (Hit-5)"
         ],
         "source": "S3-Valhalla",
         "Release date": "2022-11-21",
@@ -32386,7 +37672,7 @@ window.allHeroes =
         "family": "muspelheim",
         "image": "https://i.imgur.com/oTqqeuM.jpg",
         "costume_id": 1,
-        "originalIndex": 983
+        "originalIndex": 984
     },
     {
         "name": "Barkley",
@@ -32400,6 +37686,12 @@ window.allHeroes =
             "Hit 1",
             "Hit Random 2",
             "Fiend Summoner to Hits"
+        ],
+        "skill_types": [
+            "Chain & Random Attackers",
+            "Fiends Summoners",
+            "AoE Attackers (Hit-3)",
+            "DoT Attackers"
         ],
         "source": "Alliance-Pets",
         "Release date": "2023-05-18",
@@ -32421,7 +37713,7 @@ window.allHeroes =
         "family": "pets",
         "image": "https://i.imgur.com/X0UJRC3.jpg",
         "costume_id": 0,
-        "originalIndex": 984
+        "originalIndex": 985
     },
     {
         "name": "Bearnadette",
@@ -32436,7 +37728,12 @@ window.allHeroes =
             "Hit All",
             "Cursed Paintings All"
         ],
-        "source": "Alliance-Knights Charge",
+        "skill_types": [
+            "Dispellers",
+            "AoE Attackers (Hit-5)",
+            "Status Effects Blockers"
+        ],
+        "source": "Alliance-Knights Clash",
         "Release date": "2024-07-17",
         "star": 5,
         "power": 1078,
@@ -32457,7 +37754,7 @@ window.allHeroes =
         "family": "bear",
         "image": "https://i.imgur.com/jsqcXVs.jpg",
         "costume_id": 0,
-        "originalIndex": 985
+        "originalIndex": 986
     },
     {
         "name": "Beowulf",
@@ -32472,6 +37769,14 @@ window.allHeroes =
             "Healer All",
             "Mana Boost All",
             "Attack Stack All"
+        ],
+        "skill_types": [
+            "Snipers",
+            "Healers",
+            "Mana Raisers",
+            "Buffers (ATK)",
+            "Bypassers",
+            "Stacking Heroes"
         ],
         "source": "Challenge-Beowulf",
         "Release date": "2025-02-13",
@@ -32494,7 +37799,7 @@ window.allHeroes =
         "family": "beowulf",
         "image": "https://i.imgur.com/KcWPSJ3.jpg",
         "costume_id": 0,
-        "originalIndex": 986
+        "originalIndex": 987
     },
     {
         "name": "Bhima",
@@ -32509,6 +37814,14 @@ window.allHeroes =
             "Damage Boon",
             "Max Health Reduction 3",
             "Blind 3"
+        ],
+        "skill_types": [
+            "Extra Damage Dealers",
+            "Max Health Reducers",
+            "Minions Counters",
+            "Bypassers",
+            "AoE Attackers (Hit-3)",
+            "Debuffers (ATK)"
         ],
         "source": "Solstice Summon",
         "Release date": "2025-06-16",
@@ -32533,7 +37846,7 @@ window.allHeroes =
         "family": "mahayoddha",
         "image": "https://imgur.com/4yUfzza.jpg",
         "costume_id": 0,
-        "originalIndex": 987
+        "originalIndex": 988
     },
     {
         "name": "Black Caesar",
@@ -32547,6 +37860,11 @@ window.allHeroes =
             "Hit All",
             "Fiend Summoner All",
             "Attack Debuff Fiend"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-5)",
+            "Debuffers (ATK)",
+            "Fiends Summoners"
         ],
         "source": "Challenge Festival-Pirates",
         "Release date": "2023-12-28",
@@ -32567,7 +37885,7 @@ window.allHeroes =
         "family": "corellia",
         "image": "https://i.imgur.com/5f8UOBL.jpg",
         "costume_id": 0,
-        "originalIndex": 988
+        "originalIndex": 989
     },
     {
         "name": "Black Knight",
@@ -32580,6 +37898,11 @@ window.allHeroes =
         "types": [
             "Taunt",
             "Attack Buff All"
+        ],
+        "skill_types": [
+            "Buffers (ATK)",
+            "Damage Reducers",
+            "Taunters"
         ],
         "source": "Challenge Festival-Avalon",
         "Release date": "2017-01-01",
@@ -32597,7 +37920,7 @@ window.allHeroes =
         "family": "avalon",
         "image": "https://i.imgur.com/6so0gHz.jpg",
         "costume_id": 0,
-        "originalIndex": 989
+        "originalIndex": 990
     },
     {
         "name": "Black Knight C1",
@@ -32611,6 +37934,11 @@ window.allHeroes =
             "Damage Drop",
             "Taunt",
             "Attack Buff All"
+        ],
+        "skill_types": [
+            "Buffers (ATK)",
+            "Damage Reducers",
+            "Taunters"
         ],
         "source": "Challenge Festival-Avalon",
         "Release date": "2022-06-16",
@@ -32628,7 +37956,7 @@ window.allHeroes =
         "family": "avalon",
         "image": "https://i.imgur.com/BH9J6dC.jpg",
         "costume_id": 1,
-        "originalIndex": 990
+        "originalIndex": 991
     },
     {
         "name": "Blossom",
@@ -32641,6 +37969,12 @@ window.allHeroes =
         "types": [
             "Healer",
             "Dispeller"
+        ],
+        "skill_types": [
+            "Dispellers",
+            "Healers (Special)",
+            "Healers",
+            "Health Boosters"
         ],
         "source": "Covenant Summon",
         "Release date": "2023-08-24",
@@ -32661,7 +37995,7 @@ window.allHeroes =
         "family": "construct",
         "image": "https://i.imgur.com/4805acd.jpg",
         "costume_id": 0,
-        "originalIndex": 991
+        "originalIndex": 992
     },
     {
         "name": "Bonecrusher",
@@ -32674,6 +38008,13 @@ window.allHeroes =
         "types": [
             "Hit 1",
             "Self Attack Buff Stack"
+        ],
+        "skill_types": [
+            "Buffers (ATK)",
+            "Snipers",
+            "Stacking Heroes",
+            "Extra Damage Dealers",
+            "DoT Attackers"
         ],
         "source": "Covenant Summon",
         "Release date": "2023-03-03",
@@ -32694,7 +38035,7 @@ window.allHeroes =
         "family": "junglehunter",
         "image": "https://i.imgur.com/sBMiou9.jpg",
         "costume_id": 0,
-        "originalIndex": 992
+        "originalIndex": 993
     },
     {
         "name": "Brimstone",
@@ -32709,6 +38050,13 @@ window.allHeroes =
             "Fiend Summoner All",
             "Elemental Defense Debuff Fiend",
             "Elemental Defense Buff All"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-5)",
+            "Buffers (DEF)",
+            "Debuffers (DEF)",
+            "Fiends Summoners",
+            "DoT Attackers"
         ],
         "source": "Covenant Summon",
         "Release date": "2023-07-27",
@@ -32734,7 +38082,7 @@ window.allHeroes =
         "family": "construct",
         "image": "https://i.imgur.com/HWR83YI.jpg",
         "costume_id": 0,
-        "originalIndex": 993
+        "originalIndex": 994
     },
     {
         "name": "Captain Kestrel",
@@ -32746,6 +38094,10 @@ window.allHeroes =
         "skill": "Pirate Shot",
         "types": [
             "Hit 3"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-3)",
+            "Extra Damage Dealers"
         ],
         "source": "Challenge Festival-Pirates",
         "Release date": "2017-01-01",
@@ -32762,7 +38114,7 @@ window.allHeroes =
         "family": "corellia",
         "image": "https://i.imgur.com/RcRP80T.jpg",
         "costume_id": 0,
-        "originalIndex": 994
+        "originalIndex": 995
     },
     {
         "name": "Captain Nemo",
@@ -32774,6 +38126,10 @@ window.allHeroes =
         "skill": "Captain's Cutlass",
         "types": [
             "Hit 1"
+        ],
+        "skill_types": [
+            "Snipers",
+            "Extra Damage Dealers"
         ],
         "source": "S4-Wilderness",
         "Release date": "2021-08-12",
@@ -32792,7 +38148,7 @@ window.allHeroes =
         "family": "underwild",
         "image": "https://i.imgur.com/lNl4PPg.jpg",
         "costume_id": 0,
-        "originalIndex": 995
+        "originalIndex": 996
     },
     {
         "name": "Captain Nemo C1",
@@ -32804,6 +38160,11 @@ window.allHeroes =
         "skill": "Machinist’s Cutlass",
         "types": [
             "Hit 1"
+        ],
+        "skill_types": [
+            "Snipers",
+            "Extra Damage Dealers",
+            "Buffers (ATK)"
         ],
         "source": "S4-Wilderness",
         "Release date": "2023-12-07",
@@ -32823,7 +38184,7 @@ window.allHeroes =
         "family": "underwild",
         "image": "https://i.imgur.com/UjiSmNx.jpg",
         "costume_id": 1,
-        "originalIndex": 996
+        "originalIndex": 997
     },
     {
         "name": "Cardinal Richelieu",
@@ -32837,6 +38198,12 @@ window.allHeroes =
             "Hit all",
             "Fiend Summoner All",
             "Buff Stealing Fiend"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-5)",
+            "Buff Stealers",
+            "Fiends Summoners",
+            "DoT Attackers"
         ],
         "source": "Alliance-Musketeers",
         "Release date": "2023-09-20",
@@ -32857,7 +38224,7 @@ window.allHeroes =
         "family": "musketeer",
         "image": "https://i.imgur.com/fhxShwu.jpg",
         "costume_id": 0,
-        "originalIndex": 997
+        "originalIndex": 998
     },
     {
         "name": "Carmenta",
@@ -32871,6 +38238,11 @@ window.allHeroes =
             "Spread Debuffs",
             "Debuff Duration Reset",
             "Hit 3"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-3)",
+            "Effect Duration Resetters",
+            "Cleansers"
         ],
         "source": "Challenge-Carnival of Gods",
         "Release date": "2023-09-14",
@@ -32890,7 +38262,7 @@ window.allHeroes =
         "family": "maskedgod",
         "image": "https://i.imgur.com/Ud8nASe.jpg",
         "costume_id": 0,
-        "originalIndex": 998
+        "originalIndex": 999
     },
     {
         "name": "Ceris",
@@ -32905,6 +38277,14 @@ window.allHeroes =
             "Random Hit",
             "Silence Hit Enemies",
             "Wither All"
+        ],
+        "skill_types": [
+            "Snipers",
+            "Chain & Random Attackers",
+            "Silencers",
+            "Ability Scores Modifiers",
+            "Minions Counters",
+            "Bypassers"
         ],
         "source": "Astral Summon",
         "Release date": "2025-04-21",
@@ -32927,7 +38307,7 @@ window.allHeroes =
         "family": "astraldwarfs",
         "image": "https://imgur.com/RSa7LWa.jpg",
         "costume_id": 0,
-        "originalIndex": 999
+        "originalIndex": 1000
     },
     {
         "name": "Charlotta",
@@ -32940,6 +38320,14 @@ window.allHeroes =
         "types": [
             "Hit 3",
             "Dance Ballad of Condemnation 3"
+        ],
+        "skill_types": [
+            "Dancers",
+            "AoE Attackers (Hit-3)",
+            "Mana Reducers or Blockers",
+            "Healing Reducers",
+            "Immunity Providers",
+            "Buff Blockers"
         ],
         "source": "Solstice Summon",
         "Release date": "2024-09-19",
@@ -32963,7 +38351,7 @@ window.allHeroes =
         "family": "opera",
         "image": "https://i.imgur.com/SZzrHhg.jpg",
         "costume_id": 0,
-        "originalIndex": 1000
+        "originalIndex": 1001
     },
     {
         "name": "Charmione",
@@ -32977,6 +38365,13 @@ window.allHeroes =
             "Hit 3",
             "Devouring Goo 3",
             "Paralyze 3"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-3)",
+            "DoT Attackers",
+            "Sleepweavers",
+            "Dispellers",
+            "Ability Scores Modifiers"
         ],
         "source": "Super Elementals",
         "Release date": "2025-01-01",
@@ -32998,7 +38393,7 @@ window.allHeroes =
         "family": "slime",
         "image": "https://i.imgur.com/4w6oCQ7.jpg",
         "costume_id": 0,
-        "originalIndex": 1001
+        "originalIndex": 1002
     },
     {
         "name": "Chomper",
@@ -33012,6 +38407,11 @@ window.allHeroes =
             "Hit 3",
             "Healer",
             "Dot 3"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-3)",
+            "DoT Attackers",
+            "Healers (Special)"
         ],
         "source": "Alliance-Pets",
         "Release date": "2022-11-03",
@@ -33032,7 +38432,7 @@ window.allHeroes =
         "family": "pets",
         "image": "https://i.imgur.com/5iYa63c.jpg",
         "costume_id": 0,
-        "originalIndex": 1002
+        "originalIndex": 1003
     },
     {
         "name": "Chunkyroi",
@@ -33047,6 +38447,14 @@ window.allHeroes =
             "Boost Health All on Allies SS",
             "Mana Generation Buff All",
             "Cleanser All"
+        ],
+        "skill_types": [
+            "Healers",
+            "Health Boosters",
+            "Mana Generation Buffers",
+            "Cleansers",
+            "Dodgers",
+            "Minions Counters"
         ],
         "source": "Alliance-Moths",
         "Release date": "2025-01-23",
@@ -33067,7 +38475,7 @@ window.allHeroes =
         "family": "moth",
         "image": "https://i.imgur.com/APgO5NR.jpg",
         "costume_id": 0,
-        "originalIndex": 1003
+        "originalIndex": 1004
     },
     {
         "name": "Cinderella",
@@ -33083,6 +38491,12 @@ window.allHeroes =
             "Enemies Damage Share",
             "Defense Buff All",
             "Defense Debuff All"
+        ],
+        "skill_types": [
+            "Buffers (DEF)",
+            "Cleansers",
+            "Damage Sharers",
+            "Debuffers (DEF)"
         ],
         "source": "Challenge Festival-Grim Forest",
         "Release date": "2024-02-22",
@@ -33104,7 +38518,7 @@ window.allHeroes =
         "family": "grimforest",
         "image": "https://i.imgur.com/8MZHUmV.jpg",
         "costume_id": 0,
-        "originalIndex": 1004
+        "originalIndex": 1005
     },
     {
         "name": "Cleaver",
@@ -33118,6 +38532,12 @@ window.allHeroes =
             "Hit All",
             "Fiend Summoner All",
             "Attack debuff"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-5)",
+            "Debuffers (ATK)",
+            "DoT Attackers",
+            "Fiends Summoners"
         ],
         "source": "Covenant Summon",
         "Release date": "2022-08-25",
@@ -33139,7 +38559,7 @@ window.allHeroes =
         "family": "plainshunter",
         "image": "https://i.imgur.com/BcrdLDo.jpg",
         "costume_id": 0,
-        "originalIndex": 1005
+        "originalIndex": 1006
     },
     {
         "name": "Cookie",
@@ -33153,6 +38573,11 @@ window.allHeroes =
             "Mana reduction All",
             "Summoner",
             "Bomb All"
+        ],
+        "skill_types": [
+            "Mana Reducers or Blockers",
+            "Minions Summoners",
+            "AoE Attackers (Hit-3)"
         ],
         "source": "Monthly Event-Winter",
         "Release date": "2023-12-01",
@@ -33170,7 +38595,7 @@ window.allHeroes =
         "family": "christmas",
         "image": "https://i.imgur.com/n61JoD1.jpg",
         "costume_id": 0,
-        "originalIndex": 1006
+        "originalIndex": 1007
     },
     {
         "name": "Cupido",
@@ -33183,6 +38608,11 @@ window.allHeroes =
         "types": [
             "Hit 3",
             "Mindless Heal 3"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-3)",
+            "Healers (Special)",
+            "Mindless Attack & Mindless Heal"
         ],
         "source": "Monthly Event-Love Season",
         "Release date": "2023-02-14",
@@ -33202,7 +38632,7 @@ window.allHeroes =
         "family": "cupid",
         "image": "https://i.imgur.com/4hhCXCA.jpg",
         "costume_id": 0,
-        "originalIndex": 1007
+        "originalIndex": 1008
     },
     {
         "name": "D Artagnan",
@@ -33216,6 +38646,11 @@ window.allHeroes =
             "Hit 1",
             "Dot 1",
             "Self HoT"
+        ],
+        "skill_types": [
+            "DoT Attackers",
+            "Snipers",
+            "Heal over Time (HoT)"
         ],
         "source": "Alliance-Musketeers",
         "Release date": "2022-12-14",
@@ -33235,7 +38670,7 @@ window.allHeroes =
         "family": "musketeer",
         "image": "https://i.imgur.com/cwvEsxY.jpg",
         "costume_id": 0,
-        "originalIndex": 1008
+        "originalIndex": 1009
     },
     {
         "name": "Daemon",
@@ -33251,7 +38686,13 @@ window.allHeroes =
             "Hit 1",
             "Cast blocker 1"
         ],
-        "source": "Alliance-Knights Charge",
+        "skill_types": [
+            "Dispellers",
+            "Silencers",
+            "Snipers",
+            "Status Effects Blockers"
+        ],
+        "source": "Alliance-Knights Clash",
         "Release date": "2024-01-10",
         "star": 5,
         "power": 1027,
@@ -33270,7 +38711,7 @@ window.allHeroes =
         "family": "stag",
         "image": "https://i.imgur.com/uaxeVEQ.jpg",
         "costume_id": 0,
-        "originalIndex": 1009
+        "originalIndex": 1010
     },
     {
         "name": "Dima",
@@ -33285,6 +38726,12 @@ window.allHeroes =
             "Defense Debuff 3",
             "Sword Guard Mega Minion",
             "Spreading DoT"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-3)",
+            "Debuffers (DEF)",
+            "Mega Minions Summoners",
+            "DoT Attackers"
         ],
         "source": "Goblin Summon",
         "Release date": "2024-09-29",
@@ -33306,7 +38753,7 @@ window.allHeroes =
         "family": "garrisonguard",
         "image": "https://i.imgur.com/z5rjaIR.jpg",
         "costume_id": 0,
-        "originalIndex": 1010
+        "originalIndex": 1011
     },
     {
         "name": "Domiventus",
@@ -33320,6 +38767,11 @@ window.allHeroes =
             "Hit 3",
             "DoT",
             "Defense debuff"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-3)",
+            "Debuffers (DEF)",
+            "DoT Attackers"
         ],
         "source": "S6-S7-Untold Tales",
         "Release date": "2023-12-13",
@@ -33345,7 +38797,7 @@ window.allHeroes =
         "family": "nightmaresofatlantis",
         "image": "https://i.imgur.com/kgTv3pm.jpg",
         "costume_id": 0,
-        "originalIndex": 1011
+        "originalIndex": 1012
     },
     {
         "name": "Domiventus C1",
@@ -33359,6 +38811,11 @@ window.allHeroes =
             "Hit 3",
             "DoT 3",
             "Defense debuff 3"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-3)",
+            "DoT Attackers",
+            "Debuffers (DEF)"
         ],
         "source": "S6-S7-Untold Tales",
         "Release date": "2024-12-14",
@@ -33385,7 +38842,7 @@ window.allHeroes =
         "family": "nightmaresofatlantis",
         "image": "https://i.imgur.com/Bwbja0V.jpg",
         "costume_id": 1,
-        "originalIndex": 1012
+        "originalIndex": 1013
     },
     {
         "name": "Doxan",
@@ -33399,6 +38856,11 @@ window.allHeroes =
             "Hit 1",
             "Elemental Hit Nature",
             "DoT"
+        ],
+        "skill_types": [
+            "DoT Attackers",
+            "Snipers",
+            "Chain & Random Attackers"
         ],
         "source": "Super Elementals",
         "Release date": "2023-03-27",
@@ -33421,7 +38883,7 @@ window.allHeroes =
         "family": "superelemental",
         "image": "https://i.imgur.com/aM5vSU2.jpg",
         "costume_id": 0,
-        "originalIndex": 1013
+        "originalIndex": 1014
     },
     {
         "name": "Dunnar Hart",
@@ -33437,6 +38899,15 @@ window.allHeroes =
             "Defense Debuff All",
             "Self Boosted HoT",
             "Self Mana Generation Buff"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-5)",
+            "DoT Attackers",
+            "Heal over Time (HoT)",
+            "Mana Generation Buffers",
+            "Debuffers (DEF)",
+            "Health Boosters",
+            "Resurrection Inhibitors"
         ],
         "source": "Challenge Festival-Bards",
         "Release date": "2025-06-15",
@@ -33457,7 +38928,7 @@ window.allHeroes =
         "family": "bard",
         "image": "https://imgur.com/Yf46q7H.jpg",
         "costume_id": 0,
-        "originalIndex": 1014
+        "originalIndex": 1015
     },
     {
         "name": "Ebba",
@@ -33472,6 +38943,13 @@ window.allHeroes =
             "Chain Hit",
             "Status Effect Block on Hit",
             "Attack Debuff on Hit"
+        ],
+        "skill_types": [
+            "Chain & Random Attackers",
+            "Debuffers (ATK)",
+            "DoT Attackers",
+            "Snipers",
+            "Status Effects Blockers"
         ],
         "source": "Covenant Summon",
         "Release date": "2022-10-15",
@@ -33493,7 +38971,7 @@ window.allHeroes =
         "family": "plainshunter",
         "image": "https://i.imgur.com/TiOunHw.jpg",
         "costume_id": 0,
-        "originalIndex": 1015
+        "originalIndex": 1016
     },
     {
         "name": "El Duque",
@@ -33506,6 +38984,12 @@ window.allHeroes =
         "types": [
             "Hit 3",
             "Defense Debuff Stack 3"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-3)",
+            "Stacking Heroes",
+            "Debuffers (DEF)",
+            "Damage Reducers"
         ],
         "source": "Challenge-Gargoyle",
         "Release date": "2022-05-12",
@@ -33524,7 +39008,7 @@ window.allHeroes =
         "family": "gargoyle",
         "image": "https://i.imgur.com/37akyr2.jpg",
         "costume_id": 0,
-        "originalIndex": 1016
+        "originalIndex": 1017
     },
     {
         "name": "Elba",
@@ -33538,6 +39022,11 @@ window.allHeroes =
             "Hit 3",
             "HoT 3",
             "Counterattack 3"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-3)",
+            "Counterattackers",
+            "Healers"
         ],
         "source": "Monthly Event-Love Season",
         "Release date": "2024-01-08",
@@ -33557,7 +39046,7 @@ window.allHeroes =
         "family": "cupid",
         "image": "https://i.imgur.com/H1vwtsQ.jpg",
         "costume_id": 0,
-        "originalIndex": 1017
+        "originalIndex": 1018
     },
     {
         "name": "Elena",
@@ -33570,6 +39059,10 @@ window.allHeroes =
         "types": [
             "Hit All",
             "Counterattack"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-5)",
+            "Counterattackers"
         ],
         "source": "S1-Classic",
         "Release date": "2017-01-01",
@@ -33586,7 +39079,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/DJkMDg0.jpg",
         "costume_id": 0,
-        "originalIndex": 1018
+        "originalIndex": 1019
     },
     {
         "name": "Elena C1",
@@ -33599,6 +39092,10 @@ window.allHeroes =
         "types": [
             "Hit All",
             "Counterattack"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-5)",
+            "Counterattackers"
         ],
         "source": "S1-Classic",
         "Release date": "2020-01-01",
@@ -33615,7 +39112,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/rs8S0na.jpg",
         "costume_id": 1,
-        "originalIndex": 1019
+        "originalIndex": 1020
     },
     {
         "name": "Elena C2",
@@ -33628,6 +39125,10 @@ window.allHeroes =
         "types": [
             "Hit All",
             "Counterattack"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-5)",
+            "Counterattackers"
         ],
         "source": "S1-Classic",
         "Release date": "2023-08-07",
@@ -33644,7 +39145,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/mKIsd5g.jpg",
         "costume_id": 2,
-        "originalIndex": 1020
+        "originalIndex": 1021
     },
     {
         "name": "Elena Toon",
@@ -33657,6 +39158,11 @@ window.allHeroes =
         "types": [
             "Hit All",
             "Counterattack"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-5)",
+            "Counterattackers",
+            "Extra Damage Dealers"
         ],
         "source": "S1-Classic",
         "Release date": "2024-05-31",
@@ -33676,7 +39182,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/6Zu6Ag7.jpg",
         "costume_id": 3,
-        "originalIndex": 1021
+        "originalIndex": 1022
     },
     {
         "name": "Eliane",
@@ -33690,6 +39196,12 @@ window.allHeroes =
             "Hit All",
             "DoT All",
             "Dispeller"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-5)",
+            "DoT Attackers",
+            "Dispellers",
+            "Buffers (DEF)"
         ],
         "source": "Hero of the Month",
         "Release date": "2025-03-01",
@@ -33711,7 +39223,7 @@ window.allHeroes =
         "family": 2025,
         "image": "https://i.imgur.com/MByoToE.jpg",
         "costume_id": 0,
-        "originalIndex": 1022
+        "originalIndex": 1023
     },
     {
         "name": "Elizabeth",
@@ -33725,6 +39237,12 @@ window.allHeroes =
             "Hit All",
             "Fiend Summoner All",
             "Mana Generation Debuff Fiend"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-5)",
+            "Fiends Summoners",
+            "Mana Reducers or Blockers",
+            "DoT Attackers"
         ],
         "source": "S4-Wilderness",
         "Release date": "2021-03-25",
@@ -33745,7 +39263,7 @@ window.allHeroes =
         "family": "underwild",
         "image": "https://i.imgur.com/5redygr.jpg",
         "costume_id": 0,
-        "originalIndex": 1023
+        "originalIndex": 1024
     },
     {
         "name": "Elizabeth C1",
@@ -33759,6 +39277,14 @@ window.allHeroes =
             "Hit all",
             "Fiend Summoner All",
             "Mana Generation Debuff Fiend"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-5)",
+            "Fiends Summoners",
+            "DoT Attackers",
+            "Mana Reducers or Blockers",
+            "Extra Damage Dealers",
+            "Buffers (ATK)"
         ],
         "source": "S4-Wilderness",
         "Release date": "2023-04-27",
@@ -33780,7 +39306,7 @@ window.allHeroes =
         "family": "underwild",
         "image": "https://i.imgur.com/aGoeueo.jpg",
         "costume_id": 1,
-        "originalIndex": 1024
+        "originalIndex": 1025
     },
     {
         "name": "Ember",
@@ -33793,6 +39319,12 @@ window.allHeroes =
         "types": [
             "Hit All",
             "Summoner"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-5)",
+            "DoT Attackers",
+            "Minions Summoners",
+            "Debuffers (DEF)"
         ],
         "source": "Covenant Summon",
         "Release date": "2025-05-08",
@@ -33812,7 +39344,7 @@ window.allHeroes =
         "family": "fox",
         "image": "https://imgur.com/dTQNPFE.jpg",
         "costume_id": 0,
-        "originalIndex": 1025
+        "originalIndex": 1026
     },
     {
         "name": "Emilio",
@@ -33827,6 +39359,11 @@ window.allHeroes =
             "DoT All",
             "HoT All",
             "Status Ailments Immunity All"
+        ],
+        "skill_types": [
+            "DoT Attackers",
+            "Heal over Time (HoT)",
+            "Immunity Providers"
         ],
         "source": "Challenge Festival-Starfall",
         "Release date": "2021-06-10",
@@ -33850,7 +39387,7 @@ window.allHeroes =
         "family": "starfall",
         "image": "https://i.imgur.com/iAnFGWC.jpg",
         "costume_id": 0,
-        "originalIndex": 1026
+        "originalIndex": 1027
     },
     {
         "name": "Emilio C1",
@@ -33865,6 +39402,11 @@ window.allHeroes =
             "DoT All",
             "HoT All",
             "Status Ailments Immunity All"
+        ],
+        "skill_types": [
+            "DoT Attackers",
+            "Heal over Time (HoT)",
+            "Immunity Providers"
         ],
         "source": "Challenge Festival-Starfall",
         "Release date": "2025-04-09",
@@ -33890,7 +39432,7 @@ window.allHeroes =
         "family": "starfall",
         "image": "https://imgur.com/Jiz6BXT.jpg",
         "costume_id": 1,
-        "originalIndex": 1027
+        "originalIndex": 1028
     },
     {
         "name": "Erebus",
@@ -33904,6 +39446,10 @@ window.allHeroes =
             "Charge",
             "Destroys Minions 1",
             "Hit 1"
+        ],
+        "skill_types": [
+            "Minions Counters",
+            "Snipers"
         ],
         "source": "Tower-Styx",
         "Release date": "2022-09-21",
@@ -33933,7 +39479,7 @@ window.allHeroes =
         "family": "styx",
         "image": "https://i.imgur.com/gnNXm6f.jpg",
         "costume_id": 0,
-        "originalIndex": 1028
+        "originalIndex": 1029
     },
     {
         "name": "Eron",
@@ -33947,6 +39493,11 @@ window.allHeroes =
             "Hit 1",
             "Mindless Attack",
             "Defense debuff"
+        ],
+        "skill_types": [
+            "Snipers",
+            "Mindless Attack & Mindless Heal",
+            "Debuffers (DEF)"
         ],
         "source": "Tower-Owls",
         "Release date": "2024-05-08",
@@ -33966,7 +39517,7 @@ window.allHeroes =
         "family": "owl",
         "image": "https://i.imgur.com/THCrCkN.jpg",
         "costume_id": 0,
-        "originalIndex": 1029
+        "originalIndex": 1030
     },
     {
         "name": "Experience Mimic",
@@ -33980,6 +39531,15 @@ window.allHeroes =
             "Minion Destroyer 1",
             "Hit 1",
             "Mimic Chest"
+        ],
+        "skill_types": [
+            "Minions Counters",
+            "Snipers",
+            "Healers (Special)",
+            "Mana Raisers",
+            "Immunity Providers",
+            "Ghost Form & Hiding",
+            "Bypassers"
         ],
         "source": "Extra Draw-Secret Summon",
         "Release date": "2025-04-22",
@@ -34006,7 +39566,7 @@ window.allHeroes =
         "family": "mimic",
         "image": "https://imgur.com/RRFijVL.jpg",
         "costume_id": 0,
-        "originalIndex": 1030
+        "originalIndex": 1031
     },
     {
         "name": "Flamehide",
@@ -34020,6 +39580,11 @@ window.allHeroes =
             "Hit 1",
             "Sword Guard Mega Minion",
             "Spreading DoT"
+        ],
+        "skill_types": [
+            "Snipers",
+            "Mega Minions Summoners",
+            "DoT Attackers"
         ],
         "source": "Goblin Summon",
         "Release date": "2025-04-11",
@@ -34040,7 +39605,7 @@ window.allHeroes =
         "family": "garrisonguard",
         "image": "https://imgur.com/6fcJPYy.jpg",
         "costume_id": 0,
-        "originalIndex": 1031
+        "originalIndex": 1032
     },
     {
         "name": "Flip",
@@ -34054,6 +39619,11 @@ window.allHeroes =
             "Healer",
             "Bypass All",
             "Crit Buff All"
+        ],
+        "skill_types": [
+            "Buffers (ATK)",
+            "Bypassers",
+            "Healers"
         ],
         "source": "Monthly Event-Beach Party",
         "Release date": "2023-06-12",
@@ -34074,7 +39644,7 @@ window.allHeroes =
         "family": "beachparty",
         "image": "https://i.imgur.com/VLECZaD.jpg",
         "costume_id": 0,
-        "originalIndex": 1032
+        "originalIndex": 1033
     },
     {
         "name": "Flip C1",
@@ -34088,6 +39658,11 @@ window.allHeroes =
             "Healer",
             "Bypass All",
             "Crit Buff All"
+        ],
+        "skill_types": [
+            "Buffers (ATK)",
+            "Bypassers",
+            "Healers"
         ],
         "source": "Monthly Event-Beach Party",
         "Release date": "2025-06-03",
@@ -34108,7 +39683,7 @@ window.allHeroes =
         "family": "beachparty",
         "image": "https://imgur.com/r5YqJOC.jpg",
         "costume_id": 1,
-        "originalIndex": 1033
+        "originalIndex": 1034
     },
     {
         "name": "Fulvia",
@@ -34122,6 +39697,12 @@ window.allHeroes =
             "Hit 3",
             "Mana reducer 3",
             "Healing Debuff 3"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-3)",
+            "Extra Damage Dealers",
+            "Healing Reducers",
+            "Mana Reducers or Blockers"
         ],
         "source": "Tower-Owls",
         "Release date": "2023-12-20",
@@ -34141,7 +39722,7 @@ window.allHeroes =
         "family": "owl",
         "image": "https://i.imgur.com/Z2G4Lwa.jpg",
         "costume_id": 0,
-        "originalIndex": 1034
+        "originalIndex": 1035
     },
     {
         "name": "Garnet",
@@ -34155,6 +39736,10 @@ window.allHeroes =
             "Charger",
             "Health Boost",
             "Status Ailment Immunity"
+        ],
+        "skill_types": [
+            "Health Boosters",
+            "Immunity Providers"
         ],
         "source": "Tower-Ninjas",
         "Release date": "2020-10-13",
@@ -34178,7 +39763,7 @@ window.allHeroes =
         "family": "ninja",
         "image": "https://i.imgur.com/Vxe7UpD.jpg",
         "costume_id": 0,
-        "originalIndex": 1035
+        "originalIndex": 1036
     },
     {
         "name": "Gefjon",
@@ -34191,6 +39776,10 @@ window.allHeroes =
         "types": [
             "Steals Minions 1",
             "Hit 1"
+        ],
+        "skill_types": [
+            "Minions Counters",
+            "Snipers"
         ],
         "source": "S3-Valhalla",
         "Release date": "2020-10-22",
@@ -34207,7 +39796,7 @@ window.allHeroes =
         "family": "muspelheim",
         "image": "https://i.imgur.com/BYGrEEN.jpg",
         "costume_id": 0,
-        "originalIndex": 1036
+        "originalIndex": 1037
     },
     {
         "name": "Gefjon C1",
@@ -34220,6 +39809,10 @@ window.allHeroes =
         "types": [
             "Destroys Minions",
             "Hit 3"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-3)",
+            "Minions Counters"
         ],
         "source": "S3-Valhalla",
         "Release date": "2022-09-26",
@@ -34236,7 +39829,7 @@ window.allHeroes =
         "family": "muspelheim",
         "image": "https://i.imgur.com/ZoOkEJb.jpg",
         "costume_id": 1,
-        "originalIndex": 1037
+        "originalIndex": 1038
     },
     {
         "name": "Gestalt",
@@ -34249,6 +39842,11 @@ window.allHeroes =
         "types": [
             "Hit 3/5",
             "Defense debuff"
+        ],
+        "skill_types": [
+            "Chain & Random Attackers",
+            "Debuffers (DEF)",
+            "Mana Reducers or Blockers"
         ],
         "source": "S6-S7-Untold Tales",
         "Release date": "2023-09-27",
@@ -34280,7 +39878,7 @@ window.allHeroes =
         "family": "nightmaresofatlantis",
         "image": "https://i.imgur.com/vMt41XY.jpg",
         "costume_id": 0,
-        "originalIndex": 1038
+        "originalIndex": 1039
     },
     {
         "name": "Gestalt C1",
@@ -34293,6 +39891,11 @@ window.allHeroes =
         "types": [
             "Hit 3/5",
             "Defense debuff"
+        ],
+        "skill_types": [
+            "Chain & Random Attackers",
+            "Debuffers (DEF)",
+            "Mana Reducers or Blockers"
         ],
         "source": "S6-S7-Untold Tales",
         "Release date": "2024-06-20",
@@ -34325,7 +39928,7 @@ window.allHeroes =
         "family": "nightmaresofatlantis",
         "image": "https://i.imgur.com/WnfoNeZ.jpg",
         "costume_id": 1,
-        "originalIndex": 1039
+        "originalIndex": 1040
     },
     {
         "name": "Gooze",
@@ -34339,6 +39942,11 @@ window.allHeroes =
             "Provoked All Enemies",
             "Sticky Surface All Allies",
             "Defense Buff All"
+        ],
+        "skill_types": [
+            "Buff Stealers",
+            "Buffers (DEF)",
+            "Status Effects Blockers"
         ],
         "source": "Super Elementals",
         "Release date": "2025-05-04",
@@ -34360,7 +39968,7 @@ window.allHeroes =
         "family": "slime",
         "image": "https://imgur.com/GSjZbQW.jpg",
         "costume_id": 0,
-        "originalIndex": 1040
+        "originalIndex": 1041
     },
     {
         "name": "Gravemaker",
@@ -34373,6 +39981,13 @@ window.allHeroes =
         "types": [
             "Hit 3",
             "Dot 3"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-3)",
+            "DoT Attackers",
+            "Extra Damage Dealers",
+            "Buffers (ATK)",
+            "Buffers (DEF)"
         ],
         "source": "Hero of the Month",
         "Release date": "2018-06-01T00:00:00",
@@ -34391,7 +40006,7 @@ window.allHeroes =
         "family": 2018,
         "image": "https://i.imgur.com/pPTSbFy.jpg",
         "costume_id": 0,
-        "originalIndex": 1041
+        "originalIndex": 1042
     },
     {
         "name": "Gravemaker C1",
@@ -34404,6 +40019,13 @@ window.allHeroes =
         "types": [
             "Hit All",
             "DoT All"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-5)",
+            "DoT Attackers",
+            "Dispellers",
+            "Buffers (ATK)",
+            "Buffers (DEF)"
         ],
         "source": "Hero of the Month",
         "Release date": "2021-10-20",
@@ -34423,7 +40045,7 @@ window.allHeroes =
         "family": 2018,
         "image": "https://i.imgur.com/qMb0Vgk.jpg",
         "costume_id": 1,
-        "originalIndex": 1042
+        "originalIndex": 1043
     },
     {
         "name": "Grazul",
@@ -34436,6 +40058,11 @@ window.allHeroes =
         "types": [
             "Healer",
             "Status Ailment Immunity"
+        ],
+        "skill_types": [
+            "Healers",
+            "Immunity Providers",
+            "Mana Generation Buffers"
         ],
         "source": "Hero of the Month",
         "Release date": "2019-09-01",
@@ -34455,7 +40082,7 @@ window.allHeroes =
         "family": 2019,
         "image": "https://i.imgur.com/URTQAvF.jpg",
         "costume_id": 0,
-        "originalIndex": 1043
+        "originalIndex": 1044
     },
     {
         "name": "Guardian Kong",
@@ -34469,6 +40096,11 @@ window.allHeroes =
             "Hit All",
             "Elemental Defense Buff All",
             "Cleanser All"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-5)",
+            "Buffers (DEF)",
+            "Cleansers"
         ],
         "source": "Challenge Festival-Guardians",
         "Release date": "2020-05-01",
@@ -34486,7 +40118,7 @@ window.allHeroes =
         "family": "guardiansteltoc",
         "image": "https://i.imgur.com/4n0L387.jpg",
         "costume_id": 0,
-        "originalIndex": 1044
+        "originalIndex": 1045
     },
     {
         "name": "Guardian Kong C1",
@@ -34501,6 +40133,11 @@ window.allHeroes =
             "Elemental Reflect All",
             "Elemental Counterattack All",
             "Dispeller All"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-5)",
+            "Dispellers",
+            "Reflectors"
         ],
         "source": "Challenge Festival-Guardians",
         "Release date": "2022-04-14",
@@ -34518,7 +40155,7 @@ window.allHeroes =
         "family": "guardiansteltoc",
         "image": "https://i.imgur.com/cXwWGpL.jpg",
         "costume_id": 1,
-        "originalIndex": 1045
+        "originalIndex": 1046
     },
     {
         "name": "Guffa",
@@ -34533,6 +40170,13 @@ window.allHeroes =
             "Mana generation buff 1",
             "Softskin except self",
             "Delayed Healer"
+        ],
+        "skill_types": [
+            "Taunters",
+            "Mana Generation Buffers",
+            "Damage Reducers",
+            "Immunity Providers",
+            "Healers"
         ],
         "source": "Challenge-Return to Sanctuary",
         "Release date": "2024-07-25",
@@ -34553,7 +40197,7 @@ window.allHeroes =
         "family": "gargoyle",
         "image": "https://i.imgur.com/i3PGL4o.jpg",
         "costume_id": 0,
-        "originalIndex": 1046
+        "originalIndex": 1047
     },
     {
         "name": "Hammerclang",
@@ -34567,6 +40211,13 @@ window.allHeroes =
             "Hit All",
             "Damage Increased Debuff All",
             "Attack Debuff All"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-5)",
+            "Extra Damage Dealers",
+            "Debuffers (ATK)",
+            "Bypassers",
+            "Damage Sharers"
         ],
         "source": "Astral Summon",
         "Release date": "2024-03-28",
@@ -34588,7 +40239,7 @@ window.allHeroes =
         "family": "astralelves",
         "image": "https://i.imgur.com/ujdL1Bx.jpg",
         "costume_id": 0,
-        "originalIndex": 1047
+        "originalIndex": 1048
     },
     {
         "name": "Hathor",
@@ -34601,6 +40252,10 @@ window.allHeroes =
         "types": [
             "Health Boost",
             "Status Ailment Immunity"
+        ],
+        "skill_types": [
+            "Health Boosters",
+            "Immunity Providers"
         ],
         "source": "S5-Dune",
         "Release date": "2022-12-22",
@@ -34621,7 +40276,7 @@ window.allHeroes =
         "family": "moon",
         "image": "https://i.imgur.com/sV7BVbk.jpg",
         "costume_id": 0,
-        "originalIndex": 1048
+        "originalIndex": 1049
     },
     {
         "name": "Hathor C1",
@@ -34634,6 +40289,12 @@ window.allHeroes =
         "types": [
             "HoT",
             "Status Ailment Immunity"
+        ],
+        "skill_types": [
+            "Health Boosters",
+            "Immunity Providers",
+            "Heal over Time (HoT)",
+            "Mana Raisers"
         ],
         "source": "S5-Dune",
         "Release date": "2024-02-05",
@@ -34656,7 +40317,7 @@ window.allHeroes =
         "family": "moon",
         "image": "https://i.imgur.com/blidD7L.jpg",
         "costume_id": 1,
-        "originalIndex": 1049
+        "originalIndex": 1050
     },
     {
         "name": "Hohenwerf",
@@ -34670,6 +40331,12 @@ window.allHeroes =
             "Hit 1",
             "Fiend Summoner 1",
             "Exploding Mindless Attack Fiend"
+        ],
+        "skill_types": [
+            "Fiends Summoners",
+            "Mindless Attack & Mindless Heal",
+            "Snipers",
+            "Damage Reducers"
         ],
         "source": "Challenge-Gargoyle",
         "Release date": "2022-09-08",
@@ -34690,7 +40357,7 @@ window.allHeroes =
         "family": "gargoyle",
         "image": "https://i.imgur.com/mNDZ6lN.jpg",
         "costume_id": 0,
-        "originalIndex": 1050
+        "originalIndex": 1051
     },
     {
         "name": "Hornfel",
@@ -34704,6 +40371,10 @@ window.allHeroes =
             "Hit 3",
             "Knocks down",
             "Attack buff 3"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-3)",
+            "Buffers (ATK)"
         ],
         "source": "Covenant Summon",
         "Release date": "2024-01-16",
@@ -34728,7 +40399,7 @@ window.allHeroes =
         "family": "construct",
         "image": "https://i.imgur.com/ScWEXwn.jpg",
         "costume_id": 0,
-        "originalIndex": 1051
+        "originalIndex": 1052
     },
     {
         "name": "Hypnos",
@@ -34743,6 +40414,11 @@ window.allHeroes =
             "Hit all",
             "Buff Immunity All",
             "Dispell"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-5)",
+            "Buff Blockers",
+            "Dispellers"
         ],
         "source": "Tower-Styx",
         "Release date": "2022-06-01",
@@ -34772,7 +40448,7 @@ window.allHeroes =
         "family": "styx",
         "image": "https://i.imgur.com/HPFyboz.jpg",
         "costume_id": 0,
-        "originalIndex": 1052
+        "originalIndex": 1053
     },
     {
         "name": "Iarlaith",
@@ -34785,6 +40461,12 @@ window.allHeroes =
         "types": [
             "Hit 1",
             "Damage Increase Stack All"
+        ],
+        "skill_types": [
+            "Extra Damage Dealers",
+            "Snipers",
+            "Stacking Heroes",
+            "Damage Sharers"
         ],
         "source": "Goblin Summon",
         "Release date": "2025-04-29",
@@ -34805,7 +40487,7 @@ window.allHeroes =
         "family": "garrisonguard",
         "image": "https://imgur.com/ruIGzTu.jpg",
         "costume_id": 0,
-        "originalIndex": 1053
+        "originalIndex": 1054
     },
     {
         "name": "Ignazio",
@@ -34820,6 +40502,12 @@ window.allHeroes =
             "Elemental Heal Red",
             "Attack Buff All",
             "Cleanser All"
+        ],
+        "skill_types": [
+            "Buffers (ATK)",
+            "Cleansers",
+            "Healers",
+            "Healers (Special)"
         ],
         "source": "Super Elementals",
         "Release date": "2023-03-27",
@@ -34844,7 +40532,7 @@ window.allHeroes =
         "family": "superelemental",
         "image": "https://i.imgur.com/y6oi4Yq.jpg",
         "costume_id": 0,
-        "originalIndex": 1054
+        "originalIndex": 1055
     },
     {
         "name": "Ignazio C1",
@@ -34859,6 +40547,12 @@ window.allHeroes =
             "Elemental Heal Red",
             "Attack Buff All",
             "Cleanser All"
+        ],
+        "skill_types": [
+            "Buffers (ATK)",
+            "Cleansers",
+            "Healers",
+            "Healers (Special)"
         ],
         "source": "Super Elementals",
         "Release date": "2025-05-24",
@@ -34883,7 +40577,7 @@ window.allHeroes =
         "family": "superelemental",
         "image": "https://imgur.com/jf9JtOu.jpg",
         "costume_id": 1,
-        "originalIndex": 1055
+        "originalIndex": 1056
     },
     {
         "name": "Ilmarinen",
@@ -34897,6 +40591,11 @@ window.allHeroes =
             "Mana reduction All",
             "Enemy Damage Share",
             "Defense debuff"
+        ],
+        "skill_types": [
+            "Damage Sharers",
+            "Mana Reducers or Blockers",
+            "Debuffers (DEF)"
         ],
         "source": "Monthly Event-Kalevala",
         "Release date": "2022-06-20",
@@ -34916,7 +40615,7 @@ window.allHeroes =
         "family": "kalevala",
         "image": "https://i.imgur.com/WriV7pU.jpg",
         "costume_id": 0,
-        "originalIndex": 1056
+        "originalIndex": 1057
     },
     {
         "name": "Iocantha",
@@ -34931,6 +40630,11 @@ window.allHeroes =
             "Hit 1",
             "Random Hit 2",
             "Reduce Buff duration"
+        ],
+        "skill_types": [
+            "Bypassers",
+            "Chain & Random Attackers",
+            "Effect Duration Resetters"
         ],
         "source": "Goblin Summon",
         "Release date": "2024-07-07",
@@ -34951,7 +40655,7 @@ window.allHeroes =
         "family": "garrisonguard",
         "image": "https://i.imgur.com/mk7552K.jpg",
         "costume_id": 0,
-        "originalIndex": 1057
+        "originalIndex": 1058
     },
     {
         "name": "Isidore",
@@ -34967,7 +40671,13 @@ window.allHeroes =
             "Hit 1",
             "Hit 9 random"
         ],
-        "source": "S4-Wilderness",
+        "skill_types": [
+            "Debuffers (DEF)",
+            "Silencers",
+            "Chain & Random Attackers",
+            "Minions Counters"
+        ],
+        "source": "Wilderness Summon",
         "Release date": "2024-12-31",
         "star": 5,
         "power": 1154,
@@ -34986,7 +40696,7 @@ window.allHeroes =
         "family": "woodlandfaun",
         "image": "https://i.imgur.com/sj8AKxx.jpg",
         "costume_id": 0,
-        "originalIndex": 1058
+        "originalIndex": 1059
     },
     {
         "name": "Isrod",
@@ -35000,6 +40710,11 @@ window.allHeroes =
             "Hit 3",
             "Counterattack 3",
             "Mana on Counterattack"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-3)",
+            "Counterattackers",
+            "Mana Raisers"
         ],
         "source": "Challenge Festival-Villains",
         "Release date": "2021-02-11",
@@ -35017,7 +40732,7 @@ window.allHeroes =
         "family": "villains",
         "image": "https://i.imgur.com/LVoPJQp.jpg",
         "costume_id": 0,
-        "originalIndex": 1059
+        "originalIndex": 1060
     },
     {
         "name": "Jean-Francois",
@@ -35029,6 +40744,12 @@ window.allHeroes =
         "skill": "Seal of Fire",
         "types": [
             "Dot all"
+        ],
+        "skill_types": [
+            "Buffers (ATK)",
+            "Buffers (DEF)",
+            "DoT Attackers",
+            "Immunity Providers"
         ],
         "source": "Hero of the Month",
         "Release date": "2020-02-01",
@@ -35049,7 +40770,7 @@ window.allHeroes =
         "family": 2020,
         "image": "https://i.imgur.com/Fq9orae.jpg",
         "costume_id": 0,
-        "originalIndex": 1060
+        "originalIndex": 1061
     },
     {
         "name": "Khagan",
@@ -35063,6 +40784,11 @@ window.allHeroes =
             "Hit 3",
             "Mana Generation Buff 3",
             "Defense Buff 3"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-3)",
+            "Buffers (DEF)",
+            "Mana Generation Buffers"
         ],
         "source": "S1-Classic",
         "Release date": "2017-01-01",
@@ -35080,7 +40806,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/Qk5TZ17.jpg",
         "costume_id": 0,
-        "originalIndex": 1061
+        "originalIndex": 1062
     },
     {
         "name": "Khagan C1",
@@ -35094,6 +40820,11 @@ window.allHeroes =
             "Hit 1",
             "Mana Generation Buff All",
             "Defense Buff All"
+        ],
+        "skill_types": [
+            "Buffers (DEF)",
+            "Mana Generation Buffers",
+            "Snipers"
         ],
         "source": "S1-Classic",
         "Release date": "2021-01-18",
@@ -35111,7 +40842,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/Wuav96d.jpg",
         "costume_id": 1,
-        "originalIndex": 1062
+        "originalIndex": 1063
     },
     {
         "name": "Khagan C2",
@@ -35125,6 +40856,11 @@ window.allHeroes =
             "Hit All",
             "MoT All",
             "Defense Buff All"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-5)",
+            "Mana Raisers",
+            "Buffers (DEF)"
         ],
         "source": "S1-Classic",
         "Release date": "2022-09-05",
@@ -35142,7 +40878,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/Az13Jne.jpg",
         "costume_id": 2,
-        "originalIndex": 1063
+        "originalIndex": 1064
     },
     {
         "name": "Khagan Toon",
@@ -35156,6 +40892,12 @@ window.allHeroes =
             "Hit 3",
             "Mana Generation Buff 3",
             "Defense Buff 3"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-3)",
+            "Mana Generation Buffers",
+            "Buffers (DEF)",
+            "Extra Damage Dealers"
         ],
         "source": "S1-Classic",
         "Release date": "2024-04-08",
@@ -35176,7 +40918,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/tV5jaYy.jpg",
         "costume_id": 3,
-        "originalIndex": 1064
+        "originalIndex": 1065
     },
     {
         "name": "Khagan Glass",
@@ -35191,6 +40933,12 @@ window.allHeroes =
             "Bypass",
             "Mana Generation Buff 3",
             "Defense Buff 3"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-3)",
+            "Buffers (DEF)",
+            "Bypassers",
+            "Mana Generation Buffers"
         ],
         "source": "S1-Classic",
         "Release date": "2025-06-18",
@@ -35211,7 +40959,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://imgur.com/gv5Agq9.jpg",
         "costume_id": 4,
-        "originalIndex": 1065
+        "originalIndex": 1066
     },
     {
         "name": "Khufu",
@@ -35225,6 +40973,11 @@ window.allHeroes =
             "Hit 1",
             "Chain",
             "Elemental Defense Debuff"
+        ],
+        "skill_types": [
+            "Chain & Random Attackers",
+            "Debuffers (DEF)",
+            "Snipers"
         ],
         "source": "S5-Dune",
         "Release date": "2022-04-21",
@@ -35246,7 +40999,7 @@ window.allHeroes =
         "family": "sun",
         "image": "https://i.imgur.com/waF0HXl.jpg",
         "costume_id": 0,
-        "originalIndex": 1066
+        "originalIndex": 1067
     },
     {
         "name": "Khufu C1",
@@ -35260,6 +41013,10 @@ window.allHeroes =
             "Hit 1",
             "Chain",
             "Elemental Defense Debuff"
+        ],
+        "skill_types": [
+            "Snipers",
+            "Chain & Random Attackers"
         ],
         "source": "S5-Dune",
         "Release date": "2024-11-01",
@@ -35283,7 +41040,7 @@ window.allHeroes =
         "family": "sun",
         "image": "https://i.imgur.com/5tsbayA.jpg",
         "costume_id": 1,
-        "originalIndex": 1067
+        "originalIndex": 1068
     },
     {
         "name": "Kravekrush",
@@ -35296,6 +41053,10 @@ window.allHeroes =
         "types": [
             "Revive Block",
             "Hit 3"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-3)",
+            "Resurrection Inhibitors"
         ],
         "source": "S4-Wilderness",
         "Release date": "2022-02-24",
@@ -35315,7 +41076,7 @@ window.allHeroes =
         "family": "underwild",
         "image": "https://i.imgur.com/xMJYpsy.jpg",
         "costume_id": 0,
-        "originalIndex": 1068
+        "originalIndex": 1069
     },
     {
         "name": "Kravekrush C1",
@@ -35328,6 +41089,10 @@ window.allHeroes =
         "types": [
             "Revive Block",
             "Hit 3"
+        ],
+        "skill_types": [
+            "Resurrection Inhibitors",
+            "AoE Attackers (Hit-3)"
         ],
         "source": "S4-Wilderness",
         "Release date": "2024-09-26",
@@ -35348,7 +41113,7 @@ window.allHeroes =
         "family": "underwild",
         "image": "https://i.imgur.com/m5PtQ2l.jpg",
         "costume_id": 1,
-        "originalIndex": 1069
+        "originalIndex": 1070
     },
     {
         "name": "Lady Loki",
@@ -35361,6 +41126,11 @@ window.allHeroes =
         "types": [
             "Lifts Ailments",
             "Hit All"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-5)",
+            "Cleansers",
+            "Extra Damage Dealers"
         ],
         "source": "S3-Valhalla",
         "Release date": "2020-07-23",
@@ -35378,7 +41148,7 @@ window.allHeroes =
         "family": "helheim",
         "image": "https://i.imgur.com/NzRPKjE.jpg",
         "costume_id": 0,
-        "originalIndex": 1070
+        "originalIndex": 1071
     },
     {
         "name": "Lady Loki C1",
@@ -35391,6 +41161,11 @@ window.allHeroes =
         "types": [
             "Lifts Ailments",
             "Hit All"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-5)",
+            "Cleansers",
+            "Extra Damage Dealers"
         ],
         "source": "S3-Valhalla",
         "Release date": "2023-10-23",
@@ -35408,7 +41183,7 @@ window.allHeroes =
         "family": "helheim",
         "image": "https://i.imgur.com/R89Eh1b.jpg",
         "costume_id": 1,
-        "originalIndex": 1071
+        "originalIndex": 1072
     },
     {
         "name": "Lasalle",
@@ -35421,6 +41196,11 @@ window.allHeroes =
         "types": [
             "Hit 1",
             "Replicating Fiend Summoner 1"
+        ],
+        "skill_types": [
+            "Fiends Summoners",
+            "Snipers",
+            "DoT Attackers"
         ],
         "source": "S6-S7-Untold Tales",
         "Release date": "2023-06-07",
@@ -35451,7 +41231,7 @@ window.allHeroes =
         "family": "defendersofatlantis",
         "image": "https://i.imgur.com/bpyUqBe.jpg",
         "costume_id": 0,
-        "originalIndex": 1072
+        "originalIndex": 1073
     },
     {
         "name": "Lasalle C1",
@@ -35464,6 +41244,11 @@ window.allHeroes =
         "types": [
             "Hit 1",
             "Replicating Fiend Summoner 1"
+        ],
+        "skill_types": [
+            "Snipers",
+            "Fiends Summoners",
+            "DoT Attackers"
         ],
         "source": "S6-S7-Untold Tales",
         "Release date": "2024-09-21",
@@ -35494,7 +41279,7 @@ window.allHeroes =
         "family": "defendersofatlantis",
         "image": "https://imgur.com/SU2agg6.jpg",
         "costume_id": 1,
-        "originalIndex": 1073
+        "originalIndex": 1074
     },
     {
         "name": "Lewena",
@@ -35508,7 +41293,12 @@ window.allHeroes =
             "Talent Silence All",
             "Hit All"
         ],
-        "source": "Alliance-Knights Charge",
+        "skill_types": [
+            "AoE Attackers (Hit-5)",
+            "Silencers",
+            "Status Effects Blockers"
+        ],
+        "source": "Alliance-Knights Clash",
         "Release date": "2022-01-05",
         "star": 5,
         "power": 822,
@@ -35523,7 +41313,7 @@ window.allHeroes =
         "family": "raven",
         "image": "https://i.imgur.com/gUcWHX0.jpg",
         "costume_id": 0,
-        "originalIndex": 1074
+        "originalIndex": 1075
     },
     {
         "name": "Li Kui",
@@ -35539,6 +41329,11 @@ window.allHeroes =
             "Random Hit 4",
             "Taunt",
             "Damage Reduction Self"
+        ],
+        "skill_types": [
+            "Chain & Random Attackers",
+            "Damage Reducers",
+            "Taunters"
         ],
         "source": "Three Kingdoms Summon",
         "Release date": "2025-05-22",
@@ -35564,7 +41359,7 @@ window.allHeroes =
         "family": "outlaws",
         "image": "https://imgur.com/lLZBxt1.jpg",
         "costume_id": 0,
-        "originalIndex": 1075
+        "originalIndex": 1076
     },
     {
         "name": "Lodius",
@@ -35577,6 +41372,12 @@ window.allHeroes =
         "types": [
             "Hit 1",
             "Counterattack"
+        ],
+        "skill_types": [
+            "Counterattackers",
+            "Extra Damage Dealers",
+            "Mana Reducers or Blockers",
+            "Snipers"
         ],
         "source": "Tower-Owls",
         "Release date": "2024-02-14",
@@ -35596,7 +41397,7 @@ window.allHeroes =
         "family": "owl",
         "image": "https://i.imgur.com/SHNhyqR.jpg",
         "costume_id": 0,
-        "originalIndex": 1076
+        "originalIndex": 1077
     },
     {
         "name": "Madhammer",
@@ -35610,6 +41411,12 @@ window.allHeroes =
             "Hit 1",
             "Chance Extra Hit 1",
             "Black Boar Mega Minion"
+        ],
+        "skill_types": [
+            "Chain & Random Attackers",
+            "Cleanse Blockers",
+            "Mega Minions Summoners",
+            "Snipers"
         ],
         "source": "Goblin Summon",
         "Release date": "2023-10-16",
@@ -35632,7 +41439,7 @@ window.allHeroes =
         "family": "goblin",
         "image": "https://i.imgur.com/dPF8ESH.jpg",
         "costume_id": 0,
-        "originalIndex": 1077
+        "originalIndex": 1078
     },
     {
         "name": "Malum",
@@ -35647,6 +41454,14 @@ window.allHeroes =
             "Max Health Reducer 3",
             "Hit 3",
             "Bypass"
+        ],
+        "skill_types": [
+            "Max Health Reducers",
+            "AoE Attackers (Hit-3)",
+            "Bypassers",
+            "Snipers",
+            "Healing Reducers",
+            "Minions Counters"
         ],
         "source": "Tower-Ninjas",
         "Release date": "2024-09-24",
@@ -35676,7 +41491,7 @@ window.allHeroes =
         "family": "ninja",
         "image": "https://i.imgur.com/bcCvi3b.jpg",
         "costume_id": 0,
-        "originalIndex": 1078
+        "originalIndex": 1079
     },
     {
         "name": "Marjana",
@@ -35689,6 +41504,10 @@ window.allHeroes =
         "types": [
             "Hit 1",
             "Dot 1"
+        ],
+        "skill_types": [
+            "DoT Attackers",
+            "Snipers"
         ],
         "source": "S1-Classic",
         "Release date": "2017-01-01",
@@ -35705,7 +41524,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/H8u69R9.jpg",
         "costume_id": 0,
-        "originalIndex": 1079
+        "originalIndex": 1080
     },
     {
         "name": "Marjana C1",
@@ -35719,6 +41538,11 @@ window.allHeroes =
             "Hit 3",
             "Elemental Defense Debuff",
             "Elemental Attack Debuff"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-3)",
+            "Debuffers (DEF)",
+            "Debuffers (ATK)"
         ],
         "source": "S1-Classic",
         "Release date": "2021-01-18",
@@ -35736,7 +41560,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/E1sWcp1.jpg",
         "costume_id": 1,
-        "originalIndex": 1080
+        "originalIndex": 1081
     },
     {
         "name": "Marjana C2",
@@ -35750,6 +41574,11 @@ window.allHeroes =
             "Hit 3",
             "Defense Debuff",
             "DoT"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-3)",
+            "Debuffers (DEF)",
+            "DoT Attackers"
         ],
         "source": "S1-Classic",
         "Release date": "2023-06-12",
@@ -35767,7 +41596,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/onSikNW.jpg",
         "costume_id": 2,
-        "originalIndex": 1081
+        "originalIndex": 1082
     },
     {
         "name": "Marjana Toon",
@@ -35780,6 +41609,11 @@ window.allHeroes =
         "types": [
             "Hit 1",
             "Dot 1"
+        ],
+        "skill_types": [
+            "DoT Attackers",
+            "Extra Damage Dealers",
+            "Snipers"
         ],
         "source": "S1-Classic",
         "Release date": "2023-12-25",
@@ -35799,7 +41633,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/CuDeIo0.jpg",
         "costume_id": 3,
-        "originalIndex": 1082
+        "originalIndex": 1083
     },
     {
         "name": "Marjana Glass",
@@ -35813,6 +41647,11 @@ window.allHeroes =
             "Hit 1",
             "Bypass",
             "DoT 1"
+        ],
+        "skill_types": [
+            "Bypassers",
+            "DoT Attackers",
+            "Snipers"
         ],
         "source": "S1-Classic",
         "Release date": "2025-02-10",
@@ -35832,7 +41671,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/wWSeZW9.jpg",
         "costume_id": 4,
-        "originalIndex": 1083
+        "originalIndex": 1084
     },
     {
         "name": "Mitsuko",
@@ -35847,6 +41686,11 @@ window.allHeroes =
             "Mana Reduction 3",
             "Elemental Reflect All",
             "Elemental Counterattack All"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-3)",
+            "Mana Reducers or Blockers",
+            "Reflectors"
         ],
         "source": "S2-Atlantis",
         "Release date": "2017-01-01",
@@ -35864,7 +41708,7 @@ window.allHeroes =
         "family": "sakura",
         "image": "https://i.imgur.com/xMxFVwW.jpg",
         "costume_id": 0,
-        "originalIndex": 1084
+        "originalIndex": 1085
     },
     {
         "name": "Mitsuko C1",
@@ -35879,6 +41723,11 @@ window.allHeroes =
             "Mana Generation Debuff 3",
             "Elemental Reflect All",
             "Elemental Counterattack All"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-5)",
+            "Reflectors",
+            "Mana Reducers or Blockers"
         ],
         "source": "S2-Atlantis",
         "Release date": "2023-03-06",
@@ -35896,7 +41745,7 @@ window.allHeroes =
         "family": "sakura",
         "image": "https://i.imgur.com/8AHvvyw.jpg",
         "costume_id": 1,
-        "originalIndex": 1085
+        "originalIndex": 1086
     },
     {
         "name": "Nadezhda",
@@ -35913,6 +41762,12 @@ window.allHeroes =
             "Reviver",
             "HoT All",
             "Damage Reduction"
+        ],
+        "skill_types": [
+            "Damage Reducers",
+            "DoT Attackers",
+            "Heal over Time (HoT)",
+            "Revivers"
         ],
         "source": "Tower-Magic",
         "Release date": "2021-09-15",
@@ -35937,7 +41792,7 @@ window.allHeroes =
         "family": "magic",
         "image": "https://i.imgur.com/i5g8Fr0.jpg",
         "costume_id": 0,
-        "originalIndex": 1086
+        "originalIndex": 1087
     },
     {
         "name": "Naeem",
@@ -35952,6 +41807,12 @@ window.allHeroes =
             "Hit 3",
             "Counterattack 3",
             "Sand Touch DoT 3"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-3)",
+            "Counterattackers",
+            "DoT Attackers",
+            "Status Effect Conversion"
         ],
         "source": "Tower-Magic",
         "Release date": "2025-04-17",
@@ -35976,7 +41837,7 @@ window.allHeroes =
         "family": "magiccarpet",
         "image": "https://imgur.com/F7qBR0P.jpg",
         "costume_id": 0,
-        "originalIndex": 1087
+        "originalIndex": 1088
     },
     {
         "name": "Natalya",
@@ -35989,6 +41850,12 @@ window.allHeroes =
         "types": [
             "Dot 1",
             "Mana Generation Debuff"
+        ],
+        "skill_types": [
+            "DoT Attackers",
+            "Extra Damage Dealers",
+            "Mana Generation Buffers",
+            "Mana Reducers or Blockers"
         ],
         "source": "Hero of the Month",
         "Release date": "2018-01-01T00:00:00",
@@ -36007,7 +41874,7 @@ window.allHeroes =
         "family": 2018,
         "image": "https://i.imgur.com/vuOEJDC.jpg",
         "costume_id": 0,
-        "originalIndex": 1088
+        "originalIndex": 1089
     },
     {
         "name": "Natalya C1",
@@ -36020,6 +41887,13 @@ window.allHeroes =
         "types": [
             "Dot 1",
             "Mana Generation Debuff"
+        ],
+        "skill_types": [
+            "DoT Attackers",
+            "Extra Damage Dealers",
+            "Mana Generation Buffers",
+            "Mana Reducers or Blockers",
+            "Dispellers"
         ],
         "source": "Hero of the Month",
         "Release date": "2023-05-15",
@@ -36040,7 +41914,7 @@ window.allHeroes =
         "family": 2018,
         "image": "https://i.imgur.com/IO9WHYd.jpg",
         "costume_id": 1,
-        "originalIndex": 1089
+        "originalIndex": 1090
     },
     {
         "name": "Neema",
@@ -36054,6 +41928,13 @@ window.allHeroes =
             "Hit all",
             "Fiend Summoner All",
             "Taunt Block Fiend"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-5)",
+            "Fiends Summoners",
+            "Taunters",
+            "DoT Attackers",
+            "Buffers (ATK)"
         ],
         "source": "Hero of the Month",
         "Release date": "2023-11-01",
@@ -36076,7 +41957,7 @@ window.allHeroes =
         "family": 2023,
         "image": "https://i.imgur.com/hih0AUp.jpg",
         "costume_id": 0,
-        "originalIndex": 1090
+        "originalIndex": 1091
     },
     {
         "name": "Nibbles",
@@ -36090,6 +41971,11 @@ window.allHeroes =
             "Healer All",
             "Steals 1 Buff All",
             "Lasting HoT All"
+        ],
+        "skill_types": [
+            "Buff Stealers",
+            "Heal over Time (HoT)",
+            "Healers"
         ],
         "source": "Harvest Summon",
         "Release date": "2025-06-03",
@@ -36109,7 +41995,7 @@ window.allHeroes =
         "family": "fox",
         "image": "https://imgur.com/i6CnqeB.jpg",
         "costume_id": 0,
-        "originalIndex": 1091
+        "originalIndex": 1092
     },
     {
         "name": "Niki",
@@ -36122,6 +42008,11 @@ window.allHeroes =
         "types": [
             "Hit All",
             "Heal All"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-5)",
+            "Bypassers",
+            "Healers"
         ],
         "source": "Super Elementals",
         "Release date": "2024-02-26",
@@ -36145,7 +42036,7 @@ window.allHeroes =
         "family": "superelemental",
         "image": "https://i.imgur.com/yN68oIc.jpg",
         "costume_id": 0,
-        "originalIndex": 1092
+        "originalIndex": 1093
     },
     {
         "name": "Nomad",
@@ -36158,6 +42049,14 @@ window.allHeroes =
         "types": [
             "Charge Hit",
             "Hit 1/3/All"
+        ],
+        "skill_types": [
+            "Snipers",
+            "AoE Attackers (Hit-3)",
+            "AoE Attackers (Hit-5)",
+            "Extra Damage Dealers",
+            "Mana Generation Buffers",
+            "Minions Counters"
         ],
         "source": "Tower-Ninjas",
         "Release date": "2024-08-27",
@@ -36186,7 +42085,7 @@ window.allHeroes =
         "family": "ninja",
         "image": "https://i.imgur.com/k0TDdBr.jpg",
         "costume_id": 0,
-        "originalIndex": 1093
+        "originalIndex": 1094
     },
     {
         "name": "Noor",
@@ -36200,6 +42099,12 @@ window.allHeroes =
             "Healer",
             "Summoner",
             "Minion Destroyer"
+        ],
+        "skill_types": [
+            "Healers",
+            "Minions Counters",
+            "Minions Summoners",
+            "Buffers (DEF)"
         ],
         "source": "Hero of the Month",
         "Release date": "2020-07-01",
@@ -36220,7 +42125,7 @@ window.allHeroes =
         "family": 2020,
         "image": "https://i.imgur.com/GEznO1b.jpg",
         "costume_id": 0,
-        "originalIndex": 1094
+        "originalIndex": 1095
     },
     {
         "name": "Norman",
@@ -36234,6 +42139,10 @@ window.allHeroes =
             "Ignore Dodge",
             "Bypass",
             "Hit all"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-5)",
+            "Bypassers"
         ],
         "source": "Myth Summon",
         "Release date": "2024-01-11",
@@ -36255,7 +42164,7 @@ window.allHeroes =
         "family": "champions",
         "image": "https://i.imgur.com/xFLIwuu.jpg",
         "costume_id": 0,
-        "originalIndex": 1095
+        "originalIndex": 1096
     },
     {
         "name": "Oceanus",
@@ -36269,6 +42178,11 @@ window.allHeroes =
             "Hit All",
             "Attack Buff",
             "Defense Buff"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-5)",
+            "Buffers (ATK)",
+            "Buffers (DEF)"
         ],
         "source": "S2-Atlantis",
         "Release date": "2022-06-27",
@@ -36286,7 +42200,7 @@ window.allHeroes =
         "family": "atlantis",
         "image": "https://i.imgur.com/BZVWKzM.jpg",
         "costume_id": 0,
-        "originalIndex": 1096
+        "originalIndex": 1097
     },
     {
         "name": "Octros",
@@ -36299,6 +42213,11 @@ window.allHeroes =
         "types": [
             "Hit all",
             "Attack Debuff"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-5)",
+            "Debuffers (ATK)",
+            "Extra Damage Dealers"
         ],
         "source": "S4-Wilderness",
         "Release date": "2021-10-07",
@@ -36318,7 +42237,7 @@ window.allHeroes =
         "family": "underwild",
         "image": "https://i.imgur.com/zGSnaa1.jpg",
         "costume_id": 0,
-        "originalIndex": 1097
+        "originalIndex": 1098
     },
     {
         "name": "Octros C1",
@@ -36331,6 +42250,12 @@ window.allHeroes =
         "types": [
             "Hit All",
             "Attack Debuff All"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-5)",
+            "Debuffers (ATK)",
+            "Extra Damage Dealers",
+            "Buffers (ATK)"
         ],
         "source": "S4-Wilderness",
         "Release date": "2023-08-17",
@@ -36351,7 +42276,7 @@ window.allHeroes =
         "family": "underwild",
         "image": "https://i.imgur.com/uAzDRXt.jpg",
         "costume_id": 1,
-        "originalIndex": 1098
+        "originalIndex": 1099
     },
     {
         "name": "Omen",
@@ -36365,6 +42290,12 @@ window.allHeroes =
             "Hit 1",
             "Replicating Fiend Summoner 1",
             "Insanity Inflincting Fiend"
+        ],
+        "skill_types": [
+            "Snipers",
+            "Fiends Summoners",
+            "DoT Attackers",
+            "Negative Effects On Self Or Allies"
         ],
         "source": "Extra Draw-Secret Summon",
         "Release date": "2024-04-21",
@@ -36387,7 +42318,7 @@ window.allHeroes =
         "family": "cultist",
         "image": "https://i.imgur.com/lX6ylxv.jpg",
         "costume_id": 0,
-        "originalIndex": 1099
+        "originalIndex": 1100
     },
     {
         "name": "Otis",
@@ -36401,6 +42332,12 @@ window.allHeroes =
             "Hit All",
             "Dot All",
             "Healing Debuff All"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-5)",
+            "DoT Attackers",
+            "Healing Reducers",
+            "Cleansers"
         ],
         "source": "Covenant Summon",
         "Release date": "2022-12-24",
@@ -36421,7 +42358,7 @@ window.allHeroes =
         "family": "abysshunter",
         "image": "https://i.imgur.com/z2xqRCU.jpg",
         "costume_id": 0,
-        "originalIndex": 1100
+        "originalIndex": 1101
     },
     {
         "name": "Ottilia",
@@ -36436,6 +42373,12 @@ window.allHeroes =
             "Copy buff",
             "Self Heal on buff copied",
             "Summoner 1"
+        ],
+        "skill_types": [
+            "Snipers",
+            "Buff Stealers",
+            "Healers (Special)",
+            "Minions Summoners"
         ],
         "source": "Monthly Event-Winter",
         "Release date": "2024-12-01",
@@ -36454,7 +42397,7 @@ window.allHeroes =
         "family": "christmas",
         "image": "https://i.imgur.com/Y8kn5Mx.jpg",
         "costume_id": 0,
-        "originalIndex": 1101
+        "originalIndex": 1102
     },
     {
         "name": "Pepperflame",
@@ -36468,6 +42411,11 @@ window.allHeroes =
             "Hit 3",
             "Growth",
             "Defense debuff 3"
+        ],
+        "skill_types": [
+            "Ability Scores Modifiers",
+            "AoE Attackers (Hit-3)",
+            "Debuffers (DEF)"
         ],
         "source": "Goblin Summon",
         "Release date": "2024-01-08",
@@ -36489,7 +42437,7 @@ window.allHeroes =
         "family": "goblin",
         "image": "https://i.imgur.com/O681MYE.jpg",
         "costume_id": 0,
-        "originalIndex": 1102
+        "originalIndex": 1103
     },
     {
         "name": "Phenexa",
@@ -36504,6 +42452,12 @@ window.allHeroes =
             "Buff Duration Reset All",
             "Critical Buff All",
             "Attack Buff All"
+        ],
+        "skill_types": [
+            "Buffers (ATK)",
+            "Effect Duration Resetters",
+            "Healers",
+            "Resurrection Inhibitors"
         ],
         "source": "Challenge Festival-Bards",
         "Release date": "2022-08-11",
@@ -36524,7 +42478,7 @@ window.allHeroes =
         "family": "bard",
         "image": "https://i.imgur.com/LzmbqjK.jpg",
         "costume_id": 0,
-        "originalIndex": 1103
+        "originalIndex": 1104
     },
     {
         "name": "Pluth",
@@ -36538,6 +42492,13 @@ window.allHeroes =
             "Reposition",
             "Hit All",
             "Increase Debuff Duration All"
+        ],
+        "skill_types": [
+            "Random Position",
+            "AoE Attackers (Hit-5)",
+            "Effect Duration Resetters",
+            "Minions Counters",
+            "Bypassers"
         ],
         "source": "Astral Summon",
         "Release date": "2025-02-28",
@@ -36559,7 +42520,7 @@ window.allHeroes =
         "family": "astraldwarfs",
         "image": "https://i.imgur.com/OSAvxSD.jpg",
         "costume_id": 0,
-        "originalIndex": 1104
+        "originalIndex": 1105
     },
     {
         "name": "Puss in Boots",
@@ -36573,6 +42534,12 @@ window.allHeroes =
             "Summoner",
             "Hot",
             "Attack Buff"
+        ],
+        "skill_types": [
+            "Buffers (ATK)",
+            "Heal over Time (HoT)",
+            "Minions Summoners",
+            "Negative Effects On Self Or Allies"
         ],
         "source": "Challenge Festival-Grim Forest",
         "Release date": "2017-01-01",
@@ -36591,7 +42558,7 @@ window.allHeroes =
         "family": "grimforest",
         "image": "https://i.imgur.com/H73nb1h.jpg",
         "costume_id": 0,
-        "originalIndex": 1105
+        "originalIndex": 1106
     },
     {
         "name": "Puss in Boots C1",
@@ -36605,6 +42572,12 @@ window.allHeroes =
             "Summoner",
             "Hot All",
             "Attack Buff All"
+        ],
+        "skill_types": [
+            "Buffers (ATK)",
+            "Heal over Time (HoT)",
+            "Minions Summoners",
+            "Negative Effects On Self Or Allies"
         ],
         "source": "Challenge Festival-Grim Forest",
         "Release date": "2023-08-10",
@@ -36623,7 +42596,7 @@ window.allHeroes =
         "family": "grimforest",
         "image": "https://i.imgur.com/emXl6nU.jpg",
         "costume_id": 1,
-        "originalIndex": 1106
+        "originalIndex": 1107
     },
     {
         "name": "Queen of Hearts",
@@ -36637,6 +42610,12 @@ window.allHeroes =
             "Hit 3",
             "Summoner",
             "Taunt"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-3)",
+            "Buffers (DEF)",
+            "Minions Summoners",
+            "Taunters"
         ],
         "source": "Challenge Festival-Wonderland",
         "Release date": "2019-02-01",
@@ -36655,7 +42634,7 @@ window.allHeroes =
         "family": "wonderland",
         "image": "https://i.imgur.com/12RLqSK.jpg",
         "costume_id": 0,
-        "originalIndex": 1107
+        "originalIndex": 1108
     },
     {
         "name": "Queen of Hearts C1",
@@ -36669,6 +42648,12 @@ window.allHeroes =
             "Hit 3",
             "Summoner 1",
             "Taunt Minion"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-3)",
+            "Buffers (DEF)",
+            "Minions Summoners",
+            "Taunters"
         ],
         "source": "Challenge Festival-Wonderland",
         "Release date": "2023-10-05",
@@ -36689,7 +42674,7 @@ window.allHeroes =
         "family": "wonderland",
         "image": "https://i.imgur.com/q5xoHJ1.jpg",
         "costume_id": 1,
-        "originalIndex": 1108
+        "originalIndex": 1109
     },
     {
         "name": "Rajesh",
@@ -36704,6 +42689,15 @@ window.allHeroes =
             "Bypass All",
             "Debuff Resist All",
             "Attack Stack All"
+        ],
+        "skill_types": [
+            "Cleansers",
+            "Mana Raisers",
+            "Bypassers",
+            "Immunity Providers",
+            "Buffers (ATK)",
+            "Stacking Heroes",
+            "Revivers"
         ],
         "source": "Birthday Summon",
         "Release date": "2025-03-17",
@@ -36732,7 +42726,7 @@ window.allHeroes =
         "family": "wildcat",
         "image": "https://i.imgur.com/8rK2qLv.jpg",
         "costume_id": 0,
-        "originalIndex": 1109
+        "originalIndex": 1110
     },
     {
         "name": "Rashan",
@@ -36746,6 +42740,11 @@ window.allHeroes =
             "Hit 2",
             "Insanity 2",
             "Self Insanity"
+        ],
+        "skill_types": [
+            "Healing Reducers",
+            "Snipers",
+            "Negative Effects On Self Or Allies"
         ],
         "source": "Extra Draw-Secret Summon",
         "Release date": "2024-07-18",
@@ -36765,7 +42764,7 @@ window.allHeroes =
         "family": "cultist",
         "image": "https://i.imgur.com/WJH09pj.jpg",
         "costume_id": 0,
-        "originalIndex": 1110
+        "originalIndex": 1111
     },
     {
         "name": "Ray",
@@ -36783,6 +42782,18 @@ window.allHeroes =
             "HoT All",
             "Elemental Attack Buff All",
             "Cleanser"
+        ],
+        "skill_types": [
+            "Cleansers",
+            "Debuffers (DEF)",
+            "Dispellers",
+            "DoT Attackers",
+            "Extra Damage Dealers",
+            "Heal over Time (HoT)",
+            "Buffers (ATK)",
+            "Stacking Heroes",
+            "Mana Reducers or Blockers",
+            "Mana Raisers"
         ],
         "source": "Tower-Magic",
         "Release date": "2023-05-03",
@@ -36809,7 +42820,7 @@ window.allHeroes =
         "family": "magic",
         "image": "https://i.imgur.com/0vSBWSh.jpg",
         "costume_id": 0,
-        "originalIndex": 1111
+        "originalIndex": 1112
     },
     {
         "name": "Red Hood",
@@ -36823,6 +42834,11 @@ window.allHeroes =
             "Hit All",
             "Summoner",
             "Healer"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-5)",
+            "Heal over Time (HoT)",
+            "Minions Summoners"
         ],
         "source": "Challenge Festival-Grim Forest",
         "Release date": "2017-01-01",
@@ -36839,7 +42855,7 @@ window.allHeroes =
         "family": "grimforest",
         "image": "https://i.imgur.com/P4he1aZ.jpg",
         "costume_id": 0,
-        "originalIndex": 1112
+        "originalIndex": 1113
     },
     {
         "name": "Regin",
@@ -36853,6 +42869,16 @@ window.allHeroes =
             "Dispeler 3",
             "Hit 3",
             "Buff Immunity 3"
+        ],
+        "skill_types": [
+            "Buff Blockers",
+            "Extra Damage Dealers",
+            "Minions Counters",
+            "AoE Attackers (Hit-3)",
+            "Dispellers",
+            "DoT Attackers",
+            "Debuffers (DEF)",
+            "Bypassers"
         ],
         "source": "S6-S7-Untold Tales",
         "Release date": "2024-12-03",
@@ -36876,7 +42902,7 @@ window.allHeroes =
         "family": "nidavellir",
         "image": "https://i.imgur.com/IX7uDP5.jpg",
         "costume_id": 0,
-        "originalIndex": 1113
+        "originalIndex": 1114
     },
     {
         "name": "Reuben",
@@ -36889,6 +42915,11 @@ window.allHeroes =
         "types": [
             "Hit 3",
             "Damage reduction buff"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-3)",
+            "Damage Reducers",
+            "Minions Summoners"
         ],
         "source": "Hero of the Month",
         "Release date": "2020-12-01",
@@ -36908,7 +42939,7 @@ window.allHeroes =
         "family": 2020,
         "image": "https://i.imgur.com/0xyk3F5.jpg",
         "costume_id": 0,
-        "originalIndex": 1114
+        "originalIndex": 1115
     },
     {
         "name": "Revna",
@@ -36924,6 +42955,11 @@ window.allHeroes =
             "Reflect Ailments All",
             "Reflect Stacks All",
             "Reflect Wither All"
+        ],
+        "skill_types": [
+            "Cleansers",
+            "Healers",
+            "Reflectors"
         ],
         "source": "Covenant Summon",
         "Release date": "2024-10-18T11:30:00",
@@ -36944,7 +42980,7 @@ window.allHeroes =
         "family": "plainshunter",
         "image": "https://i.imgur.com/Uu7gHck.jpg",
         "costume_id": 0,
-        "originalIndex": 1115
+        "originalIndex": 1116
     },
     {
         "name": "Rocket",
@@ -36957,6 +42993,11 @@ window.allHeroes =
         "types": [
             "Wither",
             "Exploding Fiend Summoner 3"
+        ],
+        "skill_types": [
+            "Ability Scores Modifiers",
+            "Fiends Summoners",
+            "DoT Attackers"
         ],
         "source": "Goblin Summon",
         "Release date": "2024-03-18",
@@ -36979,7 +43020,7 @@ window.allHeroes =
         "family": "goblin",
         "image": "https://i.imgur.com/BGl8jIC.jpg",
         "costume_id": 0,
-        "originalIndex": 1116
+        "originalIndex": 1117
     },
     {
         "name": "Rosanna",
@@ -36993,6 +43034,11 @@ window.allHeroes =
             "Hit 1",
             "Possible Extra Hits",
             "Insanity"
+        ],
+        "skill_types": [
+            "Snipers",
+            "Chain & Random Attackers",
+            "Negative Effects On Self Or Allies"
         ],
         "source": "Extra Draw-Secret Summon",
         "Release date": "2025-04-03",
@@ -37011,7 +43057,7 @@ window.allHeroes =
         "family": "investigator",
         "image": "https://imgur.com/nHDvy8i.jpg",
         "costume_id": 0,
-        "originalIndex": 1117
+        "originalIndex": 1118
     },
     {
         "name": "Roughian & Nurgib",
@@ -37024,6 +43070,14 @@ window.allHeroes =
         "types": [
             "Mana steal",
             "Hit 1"
+        ],
+        "skill_types": [
+            "Mana Raisers",
+            "Mana Reducers or Blockers",
+            "Minions Counters",
+            "Snipers",
+            "Extra Damage Dealers",
+            "Dodgers"
         ],
         "source": "Hero of the Month",
         "Release date": "2023-01-01",
@@ -37045,7 +43099,7 @@ window.allHeroes =
         "family": 2023,
         "image": "https://i.imgur.com/zCcV9K1.jpg",
         "costume_id": 0,
-        "originalIndex": 1118
+        "originalIndex": 1119
     },
     {
         "name": "Ruadh",
@@ -37061,6 +43115,14 @@ window.allHeroes =
             "Attack Buff All",
             "Defense Buff All",
             "Self Boosted HoT"
+        ],
+        "skill_types": [
+            "Dispellers",
+            "AoE Attackers (Hit-5)",
+            "Extra Damage Dealers",
+            "Buffers (ATK)",
+            "Buffers (DEF)",
+            "Health Boosters"
         ],
         "source": "Covenant Summon",
         "Release date": "2024-06-26",
@@ -37084,7 +43146,7 @@ window.allHeroes =
         "family": "plainshunter",
         "image": "https://i.imgur.com/O01zlXm.jpg",
         "costume_id": 0,
-        "originalIndex": 1119
+        "originalIndex": 1120
     },
     {
         "name": "Ruby",
@@ -37099,6 +43161,12 @@ window.allHeroes =
             "Hit 1/3/All",
             "Mana reduction 1/3/All",
             "Mana generation debuff 1/3/All"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-3)",
+            "AoE Attackers (Hit-5)",
+            "Mana Reducers or Blockers",
+            "Snipers"
         ],
         "source": "Tower-Ninjas",
         "Release date": "2021-11-10",
@@ -37126,7 +43194,7 @@ window.allHeroes =
         "family": "ninja",
         "image": "https://i.imgur.com/LIQiSIc.jpg",
         "costume_id": 0,
-        "originalIndex": 1120
+        "originalIndex": 1121
     },
     {
         "name": "Russell",
@@ -37139,6 +43207,12 @@ window.allHeroes =
         "types": [
             "Hit 1",
             "Dot 3"
+        ],
+        "skill_types": [
+            "DoT Attackers",
+            "Snipers",
+            "Bypassers",
+            "Healers (Special)"
         ],
         "source": "Hero of the Month",
         "Release date": "2021-10-01",
@@ -37160,7 +43234,7 @@ window.allHeroes =
         "family": 2021,
         "image": "https://i.imgur.com/EoY0Pni.jpg",
         "costume_id": 0,
-        "originalIndex": 1121
+        "originalIndex": 1122
     },
     {
         "name": "Rust",
@@ -37175,6 +43249,12 @@ window.allHeroes =
             "Lasting DoT 1",
             "Cover 1",
             "Self HoT"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-3)",
+            "DoT Attackers",
+            "Damage Sharers",
+            "Heal over Time (HoT)"
         ],
         "source": "Harvest Summon",
         "Release date": "2024-08-20",
@@ -37195,7 +43275,7 @@ window.allHeroes =
         "family": "fox",
         "image": "https://i.imgur.com/4i0UTeY.jpg",
         "costume_id": 0,
-        "originalIndex": 1122
+        "originalIndex": 1123
     },
     {
         "name": "Salimata",
@@ -37210,6 +43290,12 @@ window.allHeroes =
             "Hit 3",
             "Minion Wound 3",
             "Healing Debuff 3"
+        ],
+        "skill_types": [
+            "Dispellers",
+            "AoE Attackers (Hit-3)",
+            "Max Health Reducers",
+            "Healing Reducers"
         ],
         "source": "Challenge Festival-Bards",
         "Release date": "2024-12-12",
@@ -37232,7 +43318,7 @@ window.allHeroes =
         "family": "bard",
         "image": "https://i.imgur.com/UX2vcRH.jpg",
         "costume_id": 0,
-        "originalIndex": 1123
+        "originalIndex": 1124
     },
     {
         "name": "Santa Claus",
@@ -37247,6 +43333,12 @@ window.allHeroes =
             "Attack Debuff",
             "Defense Debuff",
             "Summoner"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-5)",
+            "Debuffers (ATK)",
+            "Debuffers (DEF)",
+            "Minions Summoners"
         ],
         "source": "Monthly Event-Winter",
         "Release date": "2018-12-01",
@@ -37265,7 +43357,7 @@ window.allHeroes =
         "family": "christmas",
         "image": "https://i.imgur.com/gDDhARF.jpg",
         "costume_id": 0,
-        "originalIndex": 1124
+        "originalIndex": 1125
     },
     {
         "name": "Santa Claus C1",
@@ -37280,6 +43372,12 @@ window.allHeroes =
             "Summoner All",
             "Attack Debuff All",
             "Defense Debuff All"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-5)",
+            "Debuffers (ATK)",
+            "Debuffers (DEF)",
+            "Minions Summoners"
         ],
         "source": "Monthly Event-Winter",
         "Release date": "2021-12-01",
@@ -37298,7 +43396,7 @@ window.allHeroes =
         "family": "christmas",
         "image": "https://i.imgur.com/3zbVEXc.jpg",
         "costume_id": 1,
-        "originalIndex": 1125
+        "originalIndex": 1126
     },
     {
         "name": "Saoirse",
@@ -37313,6 +43411,14 @@ window.allHeroes =
             "Defense Debuff 3",
             "Self Mana Generation Stacks",
             "Self HoT Stacks"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-3)",
+            "Debuffers (DEF)",
+            "Healers (Special)",
+            "Stacking Heroes",
+            "Mana Generation Buffers",
+            "Heal over Time (HoT)"
         ],
         "source": "Challenge Festival-Slayers",
         "Release date": "2021-08-05",
@@ -37333,7 +43439,7 @@ window.allHeroes =
         "family": "slayer",
         "image": "https://i.imgur.com/pHj3rld.jpg",
         "costume_id": 0,
-        "originalIndex": 1126
+        "originalIndex": 1127
     },
     {
         "name": "Saoirse C1",
@@ -37348,6 +43454,15 @@ window.allHeroes =
             "Defense Debuff 3",
             "Self Mana Generation Stacks",
             "Self HoT Stacks"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-3)",
+            "Debuffers (DEF)",
+            "Mana Generation Buffers",
+            "Heal over Time (HoT)",
+            "Stacking Heroes",
+            "Healers (Special)",
+            "DoT Attackers"
         ],
         "source": "Challenge Festival-Slayers",
         "Release date": "2024-11-14",
@@ -37369,7 +43484,7 @@ window.allHeroes =
         "family": "slayer",
         "image": "https://i.imgur.com/yHVhyhO.jpg",
         "costume_id": 1,
-        "originalIndex": 1127
+        "originalIndex": 1128
     },
     {
         "name": "Scoria",
@@ -37383,6 +43498,14 @@ window.allHeroes =
             "Hit All",
             "Silence 1",
             "Wither All"
+        ],
+        "skill_types": [
+            "DoT Attackers",
+            "Mana Reducers or Blockers",
+            "Minions Counters",
+            "AoE Attackers (Hit-5)",
+            "Silencers",
+            "Ability Scores Modifiers"
         ],
         "source": "Covenant Summon",
         "Release date": "2024-05-19",
@@ -37405,7 +43528,7 @@ window.allHeroes =
         "family": "construct",
         "image": "https://i.imgur.com/wqf6SNR.jpg",
         "costume_id": 0,
-        "originalIndex": 1128
+        "originalIndex": 1129
     },
     {
         "name": "Sekhmet",
@@ -37418,6 +43541,10 @@ window.allHeroes =
         "types": [
             "Hit 1",
             "Damage Heal"
+        ],
+        "skill_types": [
+            "Healers (Special)",
+            "Snipers"
         ],
         "source": "S5-Dune",
         "Release date": "2022-09-01",
@@ -37438,7 +43565,7 @@ window.allHeroes =
         "family": "sun",
         "image": "https://i.imgur.com/8oISZes.jpg",
         "costume_id": 0,
-        "originalIndex": 1129
+        "originalIndex": 1130
     },
     {
         "name": "Sekhmet C1",
@@ -37451,6 +43578,10 @@ window.allHeroes =
         "types": [
             "Hit 1",
             "Damage Heal All"
+        ],
+        "skill_types": [
+            "Snipers",
+            "Healers (Special)"
         ],
         "source": "S5-Dune",
         "Release date": "2025-03-17",
@@ -37473,7 +43604,7 @@ window.allHeroes =
         "family": "sun",
         "image": "https://i.imgur.com/ykQVLB2.jpg",
         "costume_id": 1,
-        "originalIndex": 1130
+        "originalIndex": 1131
     },
     {
         "name": "Serandite",
@@ -37488,6 +43619,11 @@ window.allHeroes =
             "Hit All",
             "Dot All",
             "Healing Debuff All"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-5)",
+            "DoT Attackers",
+            "Healing Reducers"
         ],
         "source": "Tower-Ninjas",
         "Release date": "2023-01-11",
@@ -37515,7 +43651,7 @@ window.allHeroes =
         "family": "ninja",
         "image": "https://i.imgur.com/3lmxyeL.jpg",
         "costume_id": 0,
-        "originalIndex": 1131
+        "originalIndex": 1132
     },
     {
         "name": "Skargremar",
@@ -37529,6 +43665,12 @@ window.allHeroes =
             "Hit 3",
             "Mana Reduction 3",
             "Blind 3"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-3)",
+            "Debuffers (ATK)",
+            "Mana Reducers or Blockers",
+            "Mana Generation Buffers"
         ],
         "source": "Hero of the Month",
         "Release date": "2023-06-01",
@@ -37550,7 +43692,7 @@ window.allHeroes =
         "family": 2023,
         "image": "https://i.imgur.com/biXpSCt.jpg",
         "costume_id": 0,
-        "originalIndex": 1132
+        "originalIndex": 1133
     },
     {
         "name": "Sparklight",
@@ -37564,6 +43706,13 @@ window.allHeroes =
             "Hit 3",
             "DoT 3",
             "Reflect Buffs All"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-3)",
+            "DoT Attackers",
+            "Healers (Special)",
+            "Reflectors",
+            "Damage Sharers"
         ],
         "source": "Black Friday Summon",
         "Release date": "2023-11-21",
@@ -37585,7 +43734,7 @@ window.allHeroes =
         "family": "astralelves",
         "image": "https://i.imgur.com/wnVpRMp.jpg",
         "costume_id": 0,
-        "originalIndex": 1133
+        "originalIndex": 1134
     },
     {
         "name": "Sun Quan",
@@ -37599,6 +43748,11 @@ window.allHeroes =
             "Hit 3",
             "Summoner",
             "Minions with DoT"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-3)",
+            "DoT Attackers",
+            "Minions Summoners"
         ],
         "source": "Three Kingdoms Summon",
         "Release date": "2022-09-12",
@@ -37616,7 +43770,7 @@ window.allHeroes =
         "family": "kingdom",
         "image": "https://i.imgur.com/EShG44Z.jpg",
         "costume_id": 0,
-        "originalIndex": 1134
+        "originalIndex": 1135
     },
     {
         "name": "Sun Quan C1",
@@ -37630,6 +43784,11 @@ window.allHeroes =
             "Hit 3",
             "Summoner",
             "Minions with DoT"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-3)",
+            "Minions Summoners",
+            "DoT Attackers"
         ],
         "source": "Three Kingdoms Summon",
         "Release date": "2024-11-30",
@@ -37652,7 +43811,7 @@ window.allHeroes =
         "family": "kingdom",
         "image": "https://i.imgur.com/FrxOT5n.jpg",
         "costume_id": 1,
-        "originalIndex": 1135
+        "originalIndex": 1136
     },
     {
         "name": "Tahir",
@@ -37665,6 +43824,13 @@ window.allHeroes =
         "types": [
             "Hit 1",
             "DoT 2"
+        ],
+        "skill_types": [
+            "DoT Attackers",
+            "Fiends Counters",
+            "Immunity Providers",
+            "Snipers",
+            "Extra Damage Dealers"
         ],
         "source": "Hero of the Month",
         "Release date": "2022-08-01",
@@ -37686,7 +43852,7 @@ window.allHeroes =
         "family": 2022,
         "image": "https://i.imgur.com/CooQRgw.jpg",
         "costume_id": 0,
-        "originalIndex": 1136
+        "originalIndex": 1137
     },
     {
         "name": "Tetisheri",
@@ -37700,6 +43866,11 @@ window.allHeroes =
             "Hit 3",
             "Defense Debuff",
             "Mana boost"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-3)",
+            "Debuffers (DEF)",
+            "Mana Raisers"
         ],
         "source": "S5-Dune",
         "Release date": "2022-10-27",
@@ -37721,7 +43892,7 @@ window.allHeroes =
         "family": "moon",
         "image": "https://i.imgur.com/vkAXXiK.jpg",
         "costume_id": 0,
-        "originalIndex": 1137
+        "originalIndex": 1138
     },
     {
         "name": "Tetisheri C1",
@@ -37734,6 +43905,11 @@ window.allHeroes =
         "types": [
             "Hit 3",
             "Defense Debuff 1"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-3)",
+            "Debuffers (DEF)",
+            "Mana Raisers"
         ],
         "source": "S5-Dune",
         "Release date": "2024-05-27",
@@ -37757,7 +43933,7 @@ window.allHeroes =
         "family": "moon",
         "image": "https://i.imgur.com/TVr5JnF.jpg",
         "costume_id": 1,
-        "originalIndex": 1138
+        "originalIndex": 1139
     },
     {
         "name": "Timothy",
@@ -37770,6 +43946,11 @@ window.allHeroes =
         "types": [
             "Healer",
             "Attack buff"
+        ],
+        "skill_types": [
+            "Health Boosters",
+            "Buffers (ATK)",
+            "Negative Effects On Self Or Allies"
         ],
         "source": "Monthly Event-Springvale",
         "Release date": "2024-03-18",
@@ -37787,7 +43968,7 @@ window.allHeroes =
         "family": "springvale",
         "image": "https://i.imgur.com/64Tdmgl.jpg",
         "costume_id": 0,
-        "originalIndex": 1139
+        "originalIndex": 1140
     },
     {
         "name": "Torben",
@@ -37802,7 +43983,13 @@ window.allHeroes =
             "Defense debuff 1",
             "Hit 3"
         ],
-        "source": "Alliance-Knights Charge",
+        "skill_types": [
+            "AoE Attackers (Hit-3)",
+            "Debuffers (DEF)",
+            "DoT Attackers",
+            "Damage Sharers"
+        ],
+        "source": "Alliance-Knights Clash",
         "Release date": "2023-10-18",
         "star": 5,
         "power": 980,
@@ -37820,7 +44007,7 @@ window.allHeroes =
         "family": "bear",
         "image": "https://i.imgur.com/bzqfe23.jpg",
         "costume_id": 0,
-        "originalIndex": 1140
+        "originalIndex": 1141
     },
     {
         "name": "Tyr",
@@ -37836,6 +44023,13 @@ window.allHeroes =
             "DoT 1",
             "Self HoT",
             "Self Resurection"
+        ],
+        "skill_types": [
+            "Bypassers",
+            "DoT Attackers",
+            "Heal over Time (HoT)",
+            "Revivers",
+            "Snipers"
         ],
         "source": "S3-Valhalla",
         "Release date": "2017-01-01",
@@ -37855,7 +44049,7 @@ window.allHeroes =
         "family": "helheim",
         "image": "https://i.imgur.com/tjoH1nb.jpg",
         "costume_id": 0,
-        "originalIndex": 1141
+        "originalIndex": 1142
     },
     {
         "name": "Tyr C1",
@@ -37870,6 +44064,13 @@ window.allHeroes =
             "Bypass",
             "Dot 3",
             "Self Resurection"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-3)",
+            "Bypassers",
+            "DoT Attackers",
+            "Healers (Special)",
+            "Revivers"
         ],
         "source": "S3-Valhalla",
         "Release date": "2023-02-13",
@@ -37888,7 +44089,7 @@ window.allHeroes =
         "family": "helheim",
         "image": "https://i.imgur.com/7UO34fo.jpg",
         "costume_id": 1,
-        "originalIndex": 1142
+        "originalIndex": 1143
     },
     {
         "name": "Ukkonen",
@@ -37903,6 +44104,12 @@ window.allHeroes =
             "Attack Buff",
             "HoT 3",
             "Dispel Immunity 3"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-5)",
+            "Debuffers (ATK)",
+            "Heal over Time (HoT)",
+            "Immunity Providers"
         ],
         "source": "Monthly Event-Kalevala",
         "Release date": "2023-08-07",
@@ -37923,7 +44130,7 @@ window.allHeroes =
         "family": "kalevala",
         "image": "https://i.imgur.com/tAIchka.jpg",
         "costume_id": 0,
-        "originalIndex": 1143
+        "originalIndex": 1144
     },
     {
         "name": "Ukkonen C1",
@@ -37938,6 +44145,12 @@ window.allHeroes =
             "Attack Debuff",
             "HoT 3",
             "Dispel Immunity 3"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-5)",
+            "Debuffers (ATK)",
+            "Heal over Time (HoT)",
+            "Immunity Providers"
         ],
         "source": "Monthly Event-Kalevala",
         "Release date": "2024-07-22",
@@ -37958,7 +44171,7 @@ window.allHeroes =
         "family": "kalevala",
         "image": "https://i.imgur.com/0QCrvIl.jpg",
         "costume_id": 1,
-        "originalIndex": 1144
+        "originalIndex": 1145
     },
     {
         "name": "Vanda",
@@ -37972,6 +44185,12 @@ window.allHeroes =
             "Hit All",
             "Health Steal",
             "Status Ailment Immunity"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-5)",
+            "Healers (Special)",
+            "Healing Reducers",
+            "Immunity Providers"
         ],
         "source": "Monthly Event-Morlovia",
         "Release date": "2020-10-26",
@@ -37991,7 +44210,7 @@ window.allHeroes =
         "family": "morlovia",
         "image": "https://i.imgur.com/FsFObHs.jpg",
         "costume_id": 0,
-        "originalIndex": 1145
+        "originalIndex": 1146
     },
     {
         "name": "Vanda C1",
@@ -38005,6 +44224,12 @@ window.allHeroes =
             "Hit All",
             "Healing Steal",
             "Status Ailment Immunity All"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-5)",
+            "Healers (Special)",
+            "Healing Reducers",
+            "Immunity Providers"
         ],
         "source": "Monthly Event-Morlovia",
         "Release date": "2021-10-04",
@@ -38024,7 +44249,7 @@ window.allHeroes =
         "family": "morlovia",
         "image": "https://i.imgur.com/yADk9kZ.jpg",
         "costume_id": 1,
-        "originalIndex": 1146
+        "originalIndex": 1147
     },
     {
         "name": "Vanya",
@@ -38037,6 +44262,11 @@ window.allHeroes =
         "types": [
             "Heal All",
             "Shield Guard Mega Minion"
+        ],
+        "skill_types": [
+            "Mega Minions Summoners",
+            "Healers",
+            "Cleansers"
         ],
         "source": "Goblin Summon",
         "Release date": "2024-04-15",
@@ -38058,7 +44288,7 @@ window.allHeroes =
         "family": "garrisonguard",
         "image": "https://i.imgur.com/1zUxxx9.jpg",
         "costume_id": 0,
-        "originalIndex": 1147
+        "originalIndex": 1148
     },
     {
         "name": "Xenda",
@@ -38072,6 +44302,13 @@ window.allHeroes =
             "Hit All",
             "Dot All",
             "Mana steal"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-5)",
+            "DoT Attackers",
+            "Healers (Special)",
+            "Mana Raisers",
+            "Mana Reducers or Blockers"
         ],
         "source": "S4-Wilderness",
         "Release date": "2022-12-08",
@@ -38091,7 +44328,7 @@ window.allHeroes =
         "family": "underwild",
         "image": "https://i.imgur.com/pr4mBGS.jpg",
         "costume_id": 0,
-        "originalIndex": 1148
+        "originalIndex": 1149
     },
     {
         "name": "Xenda C1",
@@ -38105,6 +44342,13 @@ window.allHeroes =
             "Hit All",
             "Dot All",
             "Mana steal All"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-5)",
+            "DoT Attackers",
+            "Healers (Special)",
+            "Mana Raisers",
+            "Mana Reducers or Blockers"
         ],
         "source": "S4-Wilderness",
         "Release date": "2024-05-23",
@@ -38125,7 +44369,7 @@ window.allHeroes =
         "family": "underwild",
         "image": "https://i.imgur.com/QhwvGtU.jpg",
         "costume_id": 1,
-        "originalIndex": 1149
+        "originalIndex": 1150
     },
     {
         "name": "Xiaotu",
@@ -38138,6 +44382,11 @@ window.allHeroes =
         "types": [
             "Hit 1",
             "Resist Healing 3"
+        ],
+        "skill_types": [
+            "Healing Reducers",
+            "Minions Counters",
+            "Snipers"
         ],
         "source": "Monthly Event-Lunar Year",
         "Release date": "2023-01-19",
@@ -38156,7 +44405,7 @@ window.allHeroes =
         "family": "lunaryear",
         "image": "https://i.imgur.com/BFeoiOp.jpg",
         "costume_id": 0,
-        "originalIndex": 1150
+        "originalIndex": 1151
     },
     {
         "name": "Xiwangmu",
@@ -38170,6 +44419,11 @@ window.allHeroes =
             "Self Resurection",
             "Crit Buff All",
             "Buff Attack Stack All"
+        ],
+        "skill_types": [
+            "Buffers (ATK)",
+            "Revivers",
+            "Stacking Heroes"
         ],
         "source": "Three Kingdoms Summon",
         "Release date": "2023-10-09",
@@ -38190,7 +44444,7 @@ window.allHeroes =
         "family": "journey",
         "image": "https://i.imgur.com/f2m1LGV.jpg",
         "costume_id": 0,
-        "originalIndex": 1151
+        "originalIndex": 1152
     },
     {
         "name": "Yang Mai",
@@ -38203,6 +44457,13 @@ window.allHeroes =
         "types": [
             "Hit 1",
             "Self Attack Buff Stack"
+        ],
+        "skill_types": [
+            "Buffers (ATK)",
+            "Chain & Random Attackers",
+            "Mana Raisers",
+            "Stacking Heroes",
+            "Snipers"
         ],
         "source": "Hero of the Month",
         "Release date": "2021-05-01",
@@ -38225,7 +44486,7 @@ window.allHeroes =
         "family": 2021,
         "image": "https://i.imgur.com/vzzuVpu.jpg",
         "costume_id": 0,
-        "originalIndex": 1152
+        "originalIndex": 1153
     },
     {
         "name": "Yolanda",
@@ -38239,7 +44500,14 @@ window.allHeroes =
             "Hit 3",
             "Enhanced Dodge"
         ],
-        "source": "S4-Wilderness",
+        "skill_types": [
+            "AoE Attackers (Hit-3)",
+            "Dodgers",
+            "Debuffers (ATK)",
+            "DoT Attackers",
+            "Minions Counters"
+        ],
+        "source": "Wilderness Summon",
         "Release date": "2025-03-26",
         "star": 5,
         "power": 1171,
@@ -38258,7 +44526,7 @@ window.allHeroes =
         "family": "woodlandfaun",
         "image": "https://imgur.com/5U97Fz9.jpg",
         "costume_id": 0,
-        "originalIndex": 1153
+        "originalIndex": 1154
     },
     {
         "name": "Zagrog",
@@ -38271,6 +44539,12 @@ window.allHeroes =
         "types": [
             "Hit 3",
             "Bypass"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-3)",
+            "Bypassers",
+            "Mana Raisers",
+            "Buffers (DEF)"
         ],
         "source": "Hero of the Month",
         "Release date": "2022-03-01",
@@ -38292,7 +44566,7 @@ window.allHeroes =
         "family": 2022,
         "image": "https://i.imgur.com/jTxW191.jpg",
         "costume_id": 0,
-        "originalIndex": 1154
+        "originalIndex": 1155
     },
     {
         "name": "Zarga",
@@ -38304,6 +44578,14 @@ window.allHeroes =
         "skill": "Thousand Cuts",
         "types": [
             "Hit 1"
+        ],
+        "skill_types": [
+            "Snipers",
+            "DoT Attackers",
+            "Extra Damage Dealers",
+            "Mana Raisers",
+            "Stacking Heroes",
+            "Dodgers"
         ],
         "source": "Hero of the Month",
         "Release date": "2024-04-01",
@@ -38325,7 +44607,7 @@ window.allHeroes =
         "family": 2024,
         "image": "https://i.imgur.com/Xh5bTXR.jpg",
         "costume_id": 0,
-        "originalIndex": 1155
+        "originalIndex": 1156
     },
     {
         "name": "Zaria",
@@ -38337,6 +44619,10 @@ window.allHeroes =
         "skill": "Cataclysmic Divination",
         "types": [
             "Hit all"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-5)",
+            "Extra Damage Dealers"
         ],
         "source": "Super Elementals",
         "Release date": "2023-10-09",
@@ -38360,7 +44646,7 @@ window.allHeroes =
         "family": "superelemental",
         "image": "https://i.imgur.com/kfVoysd.jpg",
         "costume_id": 0,
-        "originalIndex": 1156
+        "originalIndex": 1157
     },
     {
         "name": "Zenobia",
@@ -38373,6 +44659,14 @@ window.allHeroes =
         "types": [
             "Hit 2",
             "Board Alterer"
+        ],
+        "skill_types": [
+            "Board Alterers",
+            "Debuffers (ATK)",
+            "Buffers (ATK)",
+            "Debuffers (ATK)",
+            "Buffers (ATK)",
+            "Snipers"
         ],
         "source": "S4-Wilderness",
         "Release date": "2021-09-09",
@@ -38391,7 +44685,7 @@ window.allHeroes =
         "family": "underwild",
         "image": "https://i.imgur.com/H6eN1G6.jpg",
         "costume_id": 0,
-        "originalIndex": 1157
+        "originalIndex": 1158
     },
     {
         "name": "Zenobia C1",
@@ -38404,6 +44698,15 @@ window.allHeroes =
         "types": [
             "Hit 2",
             "Board Alterer"
+        ],
+        "skill_types": [
+            "Board Alterers",
+            "Debuffers (ATK)",
+            "Buffers (ATK)",
+            "Snipers",
+            "Debuffers (ATK)",
+            "Buffers(ATK)",
+            "Extra Damage Dealers"
         ],
         "source": "S4-Wilderness",
         "Release date": "2024-02-29",
@@ -38423,7 +44726,7 @@ window.allHeroes =
         "family": "underwild",
         "image": "https://i.imgur.com/lrLa3g9.jpg",
         "costume_id": 1,
-        "originalIndex": 1158
+        "originalIndex": 1159
     },
     {
         "name": "Zidane",
@@ -38437,6 +44740,12 @@ window.allHeroes =
             "Hit 1",
             "Steal Buff",
             "DoT"
+        ],
+        "skill_types": [
+            "Snipers",
+            "Buff Stealers",
+            "DoT Attackers",
+            "Buffers (ATK)"
         ],
         "source": "Hero of the Month",
         "Release date": "2024-10-01",
@@ -38464,7 +44773,7 @@ window.allHeroes =
         "family": 2024,
         "image": "https://i.imgur.com/csrWBuw.jpg",
         "costume_id": 0,
-        "originalIndex": 1159
+        "originalIndex": 1160
     },
     {
         "name": "Zimkitha",
@@ -38478,6 +44787,12 @@ window.allHeroes =
             "Hit All",
             "Attack Buff",
             "Cleanser"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-5)",
+            "Buffers (ATK)",
+            "Cleansers",
+            "Heal over Time (HoT)"
         ],
         "source": "Hero of the Month",
         "Release date": "2018-11-01T00:00:00",
@@ -38496,7 +44811,7 @@ window.allHeroes =
         "family": 2018,
         "image": "https://i.imgur.com/ZnoCx4D.jpg",
         "costume_id": 0,
-        "originalIndex": 1160
+        "originalIndex": 1161
     },
     {
         "name": "Zimkitha C1",
@@ -38509,6 +44824,12 @@ window.allHeroes =
         "types": [
             "Dispeller",
             "Hit all"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-5)",
+            "Dispellers",
+            "Extra Damage Dealers",
+            "Heal over Time (HoT)"
         ],
         "source": "Hero of the Month",
         "Release date": "2023-03-20",
@@ -38529,7 +44850,7 @@ window.allHeroes =
         "family": 2018,
         "image": "https://i.imgur.com/M65Mn9a.jpg",
         "costume_id": 1,
-        "originalIndex": 1161
+        "originalIndex": 1162
     },
     {
         "name": "Hikaru",
@@ -38541,6 +44862,9 @@ window.allHeroes =
         "skill": "Backstab",
         "types": [
             "Hit 1"
+        ],
+        "skill_types": [
+            "Snipers"
         ],
         "source": "S1-Classic",
         "Release date": "2017-01-01",
@@ -38556,7 +44880,7 @@ window.allHeroes =
         "family": null,
         "image": "https://i.imgur.com/siyozo3.jpg",
         "costume_id": 0,
-        "originalIndex": 1162
+        "originalIndex": 1163
     },
     {
         "name": "Kenjiro",
@@ -38568,6 +44892,9 @@ window.allHeroes =
         "skill": "Fierce Slash",
         "types": [
             "Hit All"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-5)"
         ],
         "source": "S1-Classic",
         "Release date": "2017-01-01",
@@ -38583,7 +44910,7 @@ window.allHeroes =
         "family": null,
         "image": "https://i.imgur.com/C6MAFbk.jpg",
         "costume_id": 0,
-        "originalIndex": 1163
+        "originalIndex": 1164
     },
     {
         "name": "Hou",
@@ -38595,6 +44922,9 @@ window.allHeroes =
         "skill": "Defensive Tactics",
         "types": [
             "Defense Buff"
+        ],
+        "skill_types": [
+            "Buffers (DEF)"
         ],
         "source": "S1-Classic",
         "Release date": "2017-01-01",
@@ -38610,7 +44940,7 @@ window.allHeroes =
         "family": null,
         "image": "https://i.imgur.com/twn2sqC.jpg",
         "costume_id": 0,
-        "originalIndex": 1164
+        "originalIndex": 1165
     },
     {
         "name": "Nash",
@@ -38623,6 +44953,10 @@ window.allHeroes =
         "types": [
             "Hit 1",
             "Attack Debuff"
+        ],
+        "skill_types": [
+            "Debuffers (ATK)",
+            "Snipers"
         ],
         "source": "S1-Classic",
         "Release date": "2017-01-01",
@@ -38639,7 +44973,7 @@ window.allHeroes =
         "family": null,
         "image": "https://i.imgur.com/HfePtEe.jpg",
         "costume_id": 0,
-        "originalIndex": 1165
+        "originalIndex": 1166
     },
     {
         "name": "Sha Ji",
@@ -38651,6 +44985,9 @@ window.allHeroes =
         "skill": "Healing Chant",
         "types": [
             "Healer"
+        ],
+        "skill_types": [
+            "Healers"
         ],
         "source": "S1-Classic",
         "Release date": "2017-01-01",
@@ -38666,7 +45003,7 @@ window.allHeroes =
         "family": null,
         "image": "https://i.imgur.com/OCarZIF.jpg",
         "costume_id": 0,
-        "originalIndex": 1166
+        "originalIndex": 1167
     },
     {
         "name": "Agnes",
@@ -38678,6 +45015,10 @@ window.allHeroes =
         "skill": "Precise Chop",
         "types": [
             "Hit 1"
+        ],
+        "skill_types": [
+            "Bypassers",
+            "Snipers"
         ],
         "source": "S3-Valhalla",
         "Release date": "2020-05-28",
@@ -38694,7 +45035,7 @@ window.allHeroes =
         "family": "asgard",
         "image": "https://i.imgur.com/epjHmoJ.jpg",
         "costume_id": 0,
-        "originalIndex": 1167
+        "originalIndex": 1168
     },
     {
         "name": "Arman",
@@ -38709,6 +45050,12 @@ window.allHeroes =
             "Dot All",
             "Healing Debuff",
             "Self Clean"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-5)",
+            "Cleansers",
+            "DoT Attackers",
+            "Healing Reducers"
         ],
         "source": "Monthly Event-Sand Empire",
         "Release date": "2017-01-01",
@@ -38727,7 +45074,7 @@ window.allHeroes =
         "family": "sand",
         "image": "https://i.imgur.com/N88uqSK.jpg",
         "costume_id": 0,
-        "originalIndex": 1168
+        "originalIndex": 1169
     },
     {
         "name": "Bane",
@@ -38740,6 +45087,10 @@ window.allHeroes =
         "types": [
             "Hit 1",
             "Blind 1"
+        ],
+        "skill_types": [
+            "Debuffers (ATK)",
+            "Snipers"
         ],
         "source": "S1-Classic",
         "Release date": "2017-01-01",
@@ -38756,7 +45107,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/9aCbPHu.jpg",
         "costume_id": 0,
-        "originalIndex": 1169
+        "originalIndex": 1170
     },
     {
         "name": "Bane C1",
@@ -38769,6 +45120,10 @@ window.allHeroes =
         "types": [
             "Hit 1",
             "Blind 1"
+        ],
+        "skill_types": [
+            "Debuffers (ATK)",
+            "Snipers"
         ],
         "source": "S1-Classic",
         "Release date": "2020-01-01",
@@ -38785,7 +45140,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/oMyq8FB.jpg",
         "costume_id": 1,
-        "originalIndex": 1170
+        "originalIndex": 1171
     },
     {
         "name": "Bane Toon",
@@ -38798,6 +45153,11 @@ window.allHeroes =
         "types": [
             "Hit 1",
             "Blind 1"
+        ],
+        "skill_types": [
+            "Snipers",
+            "Debuffers (ATK)",
+            "Extra Damage Dealers"
         ],
         "source": "S1-Classic",
         "Release date": "2024-03-11",
@@ -38817,7 +45177,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/IQ13bAv.jpg",
         "costume_id": 2,
-        "originalIndex": 1171
+        "originalIndex": 1172
     },
     {
         "name": "Bane Glass",
@@ -38831,6 +45191,11 @@ window.allHeroes =
             "Hit 1",
             "Bypass",
             "Blind 1"
+        ],
+        "skill_types": [
+            "Bypassers",
+            "Debuffers (ATK)",
+            "Snipers"
         ],
         "source": "S1-Classic",
         "Release date": "2025-05-10",
@@ -38850,7 +45215,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://imgur.com/GXkDkIq.jpg",
         "costume_id": 3,
-        "originalIndex": 1172
+        "originalIndex": 1173
     },
     {
         "name": "Bertulf",
@@ -38863,7 +45228,10 @@ window.allHeroes =
         "types": [
             "Attack Buff"
         ],
-        "source": "Alliance-Knights Charge",
+        "skill_types": [
+            "Buffers (ATK)"
+        ],
+        "source": "Alliance-Knights Clash",
         "Release date": "2021-10-13",
         "star": 3,
         "power": 480,
@@ -38877,7 +45245,7 @@ window.allHeroes =
         "family": "raven",
         "image": "https://i.imgur.com/0zQumOG.jpg",
         "costume_id": 0,
-        "originalIndex": 1173
+        "originalIndex": 1174
     },
     {
         "name": "Candy",
@@ -38890,6 +45258,10 @@ window.allHeroes =
         "types": [
             "Heal all",
             "HOT all"
+        ],
+        "skill_types": [
+            "Heal over Time (HoT)",
+            "Healers"
         ],
         "source": "Challenge Festival-Starfall",
         "Release date": "2021-06-10",
@@ -38906,7 +45278,7 @@ window.allHeroes =
         "family": "starfall",
         "image": "https://i.imgur.com/JMKpOq5.jpg",
         "costume_id": 0,
-        "originalIndex": 1174
+        "originalIndex": 1175
     },
     {
         "name": "Cedar",
@@ -38919,6 +45291,13 @@ window.allHeroes =
         "types": [
             "Defense buff",
             "Stack"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-5)",
+            "Debuffers (ATK)",
+            "DoT Attackers",
+            "Stacking Heroes",
+            "Buffers (ATK)"
         ],
         "source": "Monthly Event-Kalevala",
         "Release date": "2023-05-06",
@@ -38939,7 +45318,7 @@ window.allHeroes =
         "family": "junglehunter",
         "image": "https://i.imgur.com/occTuk0.jpg",
         "costume_id": 0,
-        "originalIndex": 1175
+        "originalIndex": 1176
     },
     {
         "name": "Cthuwu",
@@ -38952,6 +45331,11 @@ window.allHeroes =
         "types": [
             "Hit 1",
             "Self Insanity"
+        ],
+        "skill_types": [
+            "Snipers",
+            "Chain & Random Attackers",
+            "Negative Effects On Self Or Allies"
         ],
         "source": "Mystery-Shadow",
         "Release date": "2025-01-09",
@@ -38969,7 +45353,7 @@ window.allHeroes =
         "family": "cultist",
         "image": "https://i.imgur.com/I6zT7jd.jpg",
         "costume_id": 0,
-        "originalIndex": 1176
+        "originalIndex": 1177
     },
     {
         "name": "Dawa",
@@ -38981,6 +45365,9 @@ window.allHeroes =
         "skill": "Leaping Attack",
         "types": [
             "Hit 3"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-3)"
         ],
         "source": "S1-Classic",
         "Release date": "2017-01-01",
@@ -38996,7 +45383,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/p1FG8Av.jpg",
         "costume_id": 0,
-        "originalIndex": 1177
+        "originalIndex": 1178
     },
     {
         "name": "Dawa C1",
@@ -39009,6 +45396,10 @@ window.allHeroes =
         "types": [
             "Hit 1",
             "Hit Random 1"
+        ],
+        "skill_types": [
+            "Chain & Random Attackers",
+            "Extra Damage Dealers"
         ],
         "source": "S1-Classic",
         "Release date": "2021-01-18",
@@ -39025,7 +45416,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/4JD88JW.jpg",
         "costume_id": 1,
-        "originalIndex": 1178
+        "originalIndex": 1179
     },
     {
         "name": "Dawa Toon",
@@ -39037,6 +45428,10 @@ window.allHeroes =
         "skill": "Toon Attack",
         "types": [
             "Hit 3"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-3)",
+            "Extra Damage Dealers"
         ],
         "source": "S1-Classic",
         "Release date": "2024-08-11",
@@ -39055,7 +45450,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/O05gU50.jpg",
         "costume_id": 2,
-        "originalIndex": 1179
+        "originalIndex": 1180
     },
     {
         "name": "Dolrak",
@@ -39069,6 +45464,12 @@ window.allHeroes =
             "Hit 1",
             "Defense Debuff",
             "Healing debuff"
+        ],
+        "skill_types": [
+            "Debuffers (DEF)",
+            "Healing Reducers",
+            "Snipers",
+            "DoT Attackers"
         ],
         "source": "Monthly Event-Beach Party",
         "Release date": "2023-06-12",
@@ -39089,7 +45490,7 @@ window.allHeroes =
         "family": "beachparty",
         "image": "https://i.imgur.com/0vQaoVS.jpg",
         "costume_id": 0,
-        "originalIndex": 1180
+        "originalIndex": 1181
     },
     {
         "name": "Edelaide",
@@ -39102,6 +45503,12 @@ window.allHeroes =
         "types": [
             "Healer",
             "Attack buff"
+        ],
+        "skill_types": [
+            "Buffers (ATK)",
+            "DoT Attackers",
+            "Healers",
+            "Negative Effects On Self Or Allies"
         ],
         "source": "Covenant Summon",
         "Release date": "2022-10-15",
@@ -39121,7 +45528,7 @@ window.allHeroes =
         "family": "plainshunter",
         "image": "https://i.imgur.com/BfXS6GU.jpg",
         "costume_id": 0,
-        "originalIndex": 1181
+        "originalIndex": 1182
     },
     {
         "name": "Felton",
@@ -39135,6 +45542,12 @@ window.allHeroes =
             "Hit 1",
             "Buff Reflect All",
             "Self HoT"
+        ],
+        "skill_types": [
+            "Extra Damage Dealers",
+            "Reflectors",
+            "Snipers",
+            "Heal over Time (HoT)"
         ],
         "source": "Alliance-Musketeers",
         "Release date": "2023-03-08",
@@ -39155,7 +45568,7 @@ window.allHeroes =
         "family": "musketeer",
         "image": "https://i.imgur.com/KO2VqaC.jpg",
         "costume_id": 0,
-        "originalIndex": 1182
+        "originalIndex": 1183
     },
     {
         "name": "Gan Ju",
@@ -39168,6 +45581,10 @@ window.allHeroes =
         "types": [
             "Hit 1",
             "Mana Reduction 1"
+        ],
+        "skill_types": [
+            "Mana Reducers or Blockers",
+            "Snipers"
         ],
         "source": "S1-Classic",
         "Release date": "2017-01-01",
@@ -39184,7 +45601,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/Eor4cBc.jpg",
         "costume_id": 0,
-        "originalIndex": 1183
+        "originalIndex": 1184
     },
     {
         "name": "Gan Ju C1",
@@ -39197,6 +45614,10 @@ window.allHeroes =
         "types": [
             "Hit 1",
             "Mana Reduction 1"
+        ],
+        "skill_types": [
+            "Mana Reducers or Blockers",
+            "Snipers"
         ],
         "source": "S1-Classic",
         "Release date": "2021-01-18",
@@ -39213,7 +45634,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/UfGiJQd.jpg",
         "costume_id": 1,
-        "originalIndex": 1184
+        "originalIndex": 1185
     },
     {
         "name": "Gan Ju Toon",
@@ -39226,6 +45647,11 @@ window.allHeroes =
         "types": [
             "Hit 1",
             "Mana Reduction 1"
+        ],
+        "skill_types": [
+            "Extra Damage Dealers",
+            "Mana Reducers or Blockers",
+            "Snipers"
         ],
         "source": "S1-Classic",
         "Release date": "2023-12-25",
@@ -39245,7 +45671,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/IOY3xaA.jpg",
         "costume_id": 2,
-        "originalIndex": 1185
+        "originalIndex": 1186
     },
     {
         "name": "Gan Ju Glass",
@@ -39259,6 +45685,11 @@ window.allHeroes =
             "Hit 1",
             "Bypass",
             "Mana Reduction 1"
+        ],
+        "skill_types": [
+            "Snipers",
+            "Bypassers",
+            "Mana Reducers or Blockers"
         ],
         "source": "S1-Classic",
         "Release date": "2024-12-25",
@@ -39278,7 +45709,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/yqqbcRa.jpg",
         "costume_id": 3,
-        "originalIndex": 1186
+        "originalIndex": 1187
     },
     {
         "name": "Jaco",
@@ -39291,6 +45722,11 @@ window.allHeroes =
         "types": [
             "Mana steal 1",
             "Hit 3"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-3)",
+            "Mana Raisers",
+            "Mana Reducers or Blockers"
         ],
         "source": "S6-S7-Untold Tales",
         "Release date": "2023-07-05",
@@ -39316,7 +45752,7 @@ window.allHeroes =
         "family": "defendersofatlantis",
         "image": "https://i.imgur.com/ne5YJve.jpg",
         "costume_id": 0,
-        "originalIndex": 1187
+        "originalIndex": 1188
     },
     {
         "name": "Jaco C1",
@@ -39329,6 +45765,11 @@ window.allHeroes =
         "types": [
             "Mana steal 1",
             "Hit 3"
+        ],
+        "skill_types": [
+            "Mana Reducers or Blockers",
+            "AoE Attackers (Hit-3)",
+            "Mana Raisers"
         ],
         "source": "S6-S7-Untold Tales",
         "Release date": "2025-02-03",
@@ -39355,7 +45796,7 @@ window.allHeroes =
         "family": "defendersofatlantis",
         "image": "https://i.imgur.com/frMuxcb.jpg",
         "costume_id": 1,
-        "originalIndex": 1188
+        "originalIndex": 1189
     },
     {
         "name": "Jolly",
@@ -39370,6 +45811,12 @@ window.allHeroes =
             "Summoner",
             "Damage reduction",
             "Mana gen buff"
+        ],
+        "skill_types": [
+            "Damage Reducers",
+            "Health Boosters",
+            "Mana Generation Buffers",
+            "Minions Summoners"
         ],
         "source": "Monthly Event-Winter",
         "Release date": "2023-12-01",
@@ -39388,7 +45835,7 @@ window.allHeroes =
         "family": "christmas",
         "image": "https://i.imgur.com/G067kns.jpg",
         "costume_id": 0,
-        "originalIndex": 1189
+        "originalIndex": 1190
     },
     {
         "name": "Kailani",
@@ -39401,6 +45848,10 @@ window.allHeroes =
         "types": [
             "Ally Damage Share",
             "Defense Buff All"
+        ],
+        "skill_types": [
+            "Buffers (DEF)",
+            "Damage Sharers"
         ],
         "source": "S1-Classic",
         "Release date": "2017-01-01",
@@ -39417,7 +45868,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/h7fAkgX.jpg",
         "costume_id": 0,
-        "originalIndex": 1190
+        "originalIndex": 1191
     },
     {
         "name": "Kailani C1",
@@ -39430,6 +45881,10 @@ window.allHeroes =
         "types": [
             "Ally Damage Share",
             "Attack Buff All"
+        ],
+        "skill_types": [
+            "Buffers (ATK)",
+            "Damage Sharers"
         ],
         "source": "S1-Classic",
         "Release date": "2021-01-18",
@@ -39446,7 +45901,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/OOF8ysq.jpg",
         "costume_id": 1,
-        "originalIndex": 1191
+        "originalIndex": 1192
     },
     {
         "name": "Kailani Toon",
@@ -39459,6 +45914,10 @@ window.allHeroes =
         "types": [
             "Ally Damage Share",
             "Defense Buff All"
+        ],
+        "skill_types": [
+            "Buffers (DEF)",
+            "Damage Sharers"
         ],
         "source": "S1-Classic",
         "Release date": "2024-02-12",
@@ -39477,7 +45936,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/6HNw9i7.jpg",
         "costume_id": 2,
-        "originalIndex": 1192
+        "originalIndex": 1193
     },
     {
         "name": "Kailani Glass",
@@ -39492,6 +45951,11 @@ window.allHeroes =
             "Defense Buff All",
             "Reflect Ailments for Holy Allies",
             "Reflect Stacks for Holy Allies"
+        ],
+        "skill_types": [
+            "Damage Sharers",
+            "Buffers (DEF)",
+            "Reflectors"
         ],
         "source": "S1-Classic",
         "Release date": "2025-03-11",
@@ -39511,7 +45975,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/jRBcqpn.jpg",
         "costume_id": 3,
-        "originalIndex": 1193
+        "originalIndex": 1194
     },
     {
         "name": "Kinsaishi",
@@ -39523,6 +45987,9 @@ window.allHeroes =
         "skill": "Lightning Stream",
         "types": [
             "Hit 1"
+        ],
+        "skill_types": [
+            "Chain & Random Attackers"
         ],
         "source": "Tower-Ninjas",
         "Release date": "2023-01-11",
@@ -39547,7 +46014,7 @@ window.allHeroes =
         "family": "ninja",
         "image": "https://i.imgur.com/X6RI3nP.jpg",
         "costume_id": 0,
-        "originalIndex": 1194
+        "originalIndex": 1195
     },
     {
         "name": "Kvasir",
@@ -39560,6 +46027,11 @@ window.allHeroes =
         "types": [
             "Summoner",
             "Dot 1"
+        ],
+        "skill_types": [
+            "DoT Attackers",
+            "Minions Counters",
+            "Minions Summoners"
         ],
         "source": "S3-Valhalla",
         "Release date": "2020-02-27",
@@ -39578,7 +46050,7 @@ window.allHeroes =
         "family": "alfheim",
         "image": "https://i.imgur.com/iXRJ2NZ.jpg",
         "costume_id": 0,
-        "originalIndex": 1195
+        "originalIndex": 1196
     },
     {
         "name": "Kvasir C1",
@@ -39590,6 +46062,11 @@ window.allHeroes =
         "skill": "Bee Bombast",
         "types": [
             "Summoner"
+        ],
+        "skill_types": [
+            "Buff Blockers",
+            "DoT Attackers",
+            "Minions Summoners"
         ],
         "source": "S3-Valhalla",
         "Release date": "2022-07-04",
@@ -39608,7 +46085,7 @@ window.allHeroes =
         "family": "alfheim",
         "image": "https://i.imgur.com/3EEFeIL.jpg",
         "costume_id": 1,
-        "originalIndex": 1196
+        "originalIndex": 1197
     },
     {
         "name": "Melia",
@@ -39621,6 +46098,10 @@ window.allHeroes =
         "types": [
             "Hit All",
             "Crit Buff All"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-5)",
+            "Buffers (ATK)"
         ],
         "source": "S2-Atlantis",
         "Release date": "2019-08-01",
@@ -39637,7 +46118,7 @@ window.allHeroes =
         "family": "atlantis",
         "image": "https://i.imgur.com/4LFidrS.jpg",
         "costume_id": 0,
-        "originalIndex": 1197
+        "originalIndex": 1198
     },
     {
         "name": "Melia C1",
@@ -39650,6 +46131,10 @@ window.allHeroes =
         "types": [
             "Hit All",
             "Accuracy Debuff"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-5)",
+            "Debuffers (ATK)"
         ],
         "source": "S2-Atlantis",
         "Release date": "2022-05-02",
@@ -39666,7 +46151,7 @@ window.allHeroes =
         "family": "atlantis",
         "image": "https://i.imgur.com/M7NWE48.jpg",
         "costume_id": 1,
-        "originalIndex": 1198
+        "originalIndex": 1199
     },
     {
         "name": "Paeia",
@@ -39680,6 +46165,11 @@ window.allHeroes =
             "Damage from SS reducer",
             "Attack Buff",
             "Mana generation Buff"
+        ],
+        "skill_types": [
+            "Buffers (ATK)",
+            "Damage Reducers",
+            "Mana Generation Buffers"
         ],
         "source": "Tower-Owls",
         "Release date": "2023-12-20",
@@ -39699,7 +46189,7 @@ window.allHeroes =
         "family": "owl",
         "image": "https://i.imgur.com/R9551ZQ.jpg",
         "costume_id": 0,
-        "originalIndex": 1199
+        "originalIndex": 1200
     },
     {
         "name": "Pixie",
@@ -39712,6 +46202,10 @@ window.allHeroes =
         "types": [
             "Hit 1",
             "Mindless Self Attack"
+        ],
+        "skill_types": [
+            "Mana Reducers or Blockers",
+            "Snipers"
         ],
         "source": "Challenge Festival-Grim Forest",
         "Release date": "2019-12-01",
@@ -39728,7 +46222,7 @@ window.allHeroes =
         "family": "grimforest",
         "image": "https://i.imgur.com/jFlvi1a.jpg",
         "costume_id": 0,
-        "originalIndex": 1200
+        "originalIndex": 1201
     },
     {
         "name": "Poppy",
@@ -39740,6 +46234,10 @@ window.allHeroes =
         "skill": "Ricochet Bolt",
         "types": [
             "Hit 1"
+        ],
+        "skill_types": [
+            "Chain & Random Attackers",
+            "Snipers"
         ],
         "source": "S4-Wilderness",
         "Release date": "2021-03-25",
@@ -39758,7 +46256,7 @@ window.allHeroes =
         "family": "underwild",
         "image": "https://i.imgur.com/pxiscDG.jpg",
         "costume_id": 0,
-        "originalIndex": 1201
+        "originalIndex": 1202
     },
     {
         "name": "Poppy C1",
@@ -39770,6 +46268,10 @@ window.allHeroes =
         "skill": "Drowsy Bolt",
         "types": [
             "Hit 1"
+        ],
+        "skill_types": [
+            "Chain & Random Attackers",
+            "Snipers"
         ],
         "source": "S4-Wilderness",
         "Release date": "2024-02-29",
@@ -39788,7 +46290,7 @@ window.allHeroes =
         "family": "underwild",
         "image": "https://i.imgur.com/nCfovhZ.jpg",
         "costume_id": 1,
-        "originalIndex": 1202
+        "originalIndex": 1203
     },
     {
         "name": "Rekhetre",
@@ -39800,6 +46302,11 @@ window.allHeroes =
         "skill": "Puzzling Riddle",
         "types": [
             "Boosted HoT"
+        ],
+        "skill_types": [
+            "Buffers (DEF)",
+            "Health Boosters",
+            "Heal over Time (HoT)"
         ],
         "source": "S5-Dune",
         "Release date": "2022-04-21",
@@ -39820,7 +46327,7 @@ window.allHeroes =
         "family": "sun",
         "image": "https://i.imgur.com/nkaWucV.jpg",
         "costume_id": 0,
-        "originalIndex": 1203
+        "originalIndex": 1204
     },
     {
         "name": "Rekhetre C1",
@@ -39832,6 +46339,11 @@ window.allHeroes =
         "skill": "Puzzling Paint",
         "types": [
             "Boosted HoT"
+        ],
+        "skill_types": [
+            "Health Boosters",
+            "Heal over Time (HoT)",
+            "Buffers (DEF)"
         ],
         "source": "S5-Dune",
         "Release date": "2025-02-17",
@@ -39854,7 +46366,7 @@ window.allHeroes =
         "family": "sun",
         "image": "https://i.imgur.com/K31ZD8P.jpg",
         "costume_id": 1,
-        "originalIndex": 1204
+        "originalIndex": 1205
     },
     {
         "name": "Ribbit",
@@ -39868,6 +46380,11 @@ window.allHeroes =
             "Hit 3",
             "Mana reduction",
             "Dot 3"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-3)",
+            "DoT Attackers",
+            "Mana Reducers or Blockers"
         ],
         "source": "Alliance-Pets",
         "Release date": "2022-11-03",
@@ -39888,7 +46405,7 @@ window.allHeroes =
         "family": "pets",
         "image": "https://i.imgur.com/2fpNcNU.jpg",
         "costume_id": 0,
-        "originalIndex": 1205
+        "originalIndex": 1206
     },
     {
         "name": "Rustbeak",
@@ -39902,6 +46419,12 @@ window.allHeroes =
             "HoT 3",
             "Dodge 3",
             "Critical chance buff 3"
+        ],
+        "skill_types": [
+            "Heal over Time (HoT)",
+            "Dodgers",
+            "Buffers (ATK)",
+            "Health Boosters"
         ],
         "source": "Covenant Summon",
         "Release date": "2024-04-25",
@@ -39925,7 +46448,7 @@ window.allHeroes =
         "family": "construct",
         "image": "https://i.imgur.com/OFz97hb.jpg",
         "costume_id": 0,
-        "originalIndex": 1206
+        "originalIndex": 1207
     },
     {
         "name": "Sally",
@@ -39938,6 +46461,9 @@ window.allHeroes =
         "types": [
             "Hit 1",
             "Chain"
+        ],
+        "skill_types": [
+            "Chain & Random Attackers"
         ],
         "source": "Challenge Festival-Pirates",
         "Release date": "2021-12-15",
@@ -39954,7 +46480,7 @@ window.allHeroes =
         "family": "corellia",
         "image": "https://i.imgur.com/wpH6Nrx.jpg",
         "costume_id": 0,
-        "originalIndex": 1207
+        "originalIndex": 1208
     },
     {
         "name": "Saskia",
@@ -39968,7 +46494,13 @@ window.allHeroes =
             "Heal All",
             "Enhanced Dodge"
         ],
-        "source": "S4-Wilderness",
+        "skill_types": [
+            "Healers",
+            "Dodgers",
+            "Heal over Time (HoT)",
+            "Minions Counters"
+        ],
+        "source": "Wilderness Summon",
         "Release date": "2024-08-31",
         "star": 3,
         "power": 496,
@@ -39987,7 +46519,7 @@ window.allHeroes =
         "family": "woodlandfaun",
         "image": "https://i.imgur.com/GNLbvP6.jpg",
         "costume_id": 0,
-        "originalIndex": 1208
+        "originalIndex": 1209
     },
     {
         "name": "Aeschere",
@@ -40001,6 +46533,12 @@ window.allHeroes =
             "Safe Dispell 1 Buff All",
             "Source of Buffs 1",
             "HoT All"
+        ],
+        "skill_types": [
+            "Dispellers",
+            "Mana Generation Buffers",
+            "Healers (Special)",
+            "Heal over Time (HoT)"
         ],
         "source": "Challenge-Beowulf",
         "Release date": "2025-02-13",
@@ -40024,7 +46562,7 @@ window.allHeroes =
         "family": "beowulf",
         "image": "https://i.imgur.com/b8raA4w.jpg",
         "costume_id": 0,
-        "originalIndex": 1209
+        "originalIndex": 1210
     },
     {
         "name": "Anastasia",
@@ -40038,6 +46576,12 @@ window.allHeroes =
             "Charge",
             "Minion Summoner All",
             "Fiend Summoner All"
+        ],
+        "skill_types": [
+            "Fiends Summoners",
+            "Minions Summoners",
+            "DoT Attackers",
+            "Mana Reducers or Blockers"
         ],
         "source": "Tower-Magic",
         "Release date": "2021-09-15",
@@ -40061,7 +46605,7 @@ window.allHeroes =
         "family": "magic",
         "image": "https://i.imgur.com/ADu9siF.jpg",
         "costume_id": 0,
-        "originalIndex": 1210
+        "originalIndex": 1211
     },
     {
         "name": "Bellerive",
@@ -40074,6 +46618,10 @@ window.allHeroes =
         "types": [
             "Hit 1",
             "Chain"
+        ],
+        "skill_types": [
+            "Snipers",
+            "Damage Reducers"
         ],
         "source": "Challenge-Gargoyle",
         "Release date": "2022-05-12",
@@ -40092,7 +46640,7 @@ window.allHeroes =
         "family": "gargoyle",
         "image": "https://i.imgur.com/VIPkm6l.jpg",
         "costume_id": 0,
-        "originalIndex": 1211
+        "originalIndex": 1212
     },
     {
         "name": "Bogart",
@@ -40105,6 +46653,12 @@ window.allHeroes =
         "types": [
             "Hit 3",
             "Defense Debuff"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-3)",
+            "Debuffers (DEF)",
+            "DoT Attackers",
+            "Cleansers"
         ],
         "source": "Covenant Summon",
         "Release date": "2022-12-24",
@@ -40124,7 +46678,7 @@ window.allHeroes =
         "family": "abysshunter",
         "image": "https://i.imgur.com/Z4N4G0e.jpg",
         "costume_id": 0,
-        "originalIndex": 1212
+        "originalIndex": 1213
     },
     {
         "name": "Chao",
@@ -40137,6 +46691,10 @@ window.allHeroes =
         "types": [
             "Hit 1",
             "Mana Reduction"
+        ],
+        "skill_types": [
+            "Mana Reducers or Blockers",
+            "Snipers"
         ],
         "source": "S1-Classic",
         "Release date": "2017-01-01",
@@ -40153,7 +46711,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/akseq6D.jpg",
         "costume_id": 0,
-        "originalIndex": 1213
+        "originalIndex": 1214
     },
     {
         "name": "Chao C1",
@@ -40166,6 +46724,11 @@ window.allHeroes =
         "types": [
             "Hit 1",
             "Mana steal 1"
+        ],
+        "skill_types": [
+            "Mana Raisers",
+            "Mana Reducers or Blockers",
+            "Snipers"
         ],
         "source": "S1-Classic",
         "Release date": "2021-01-18",
@@ -40182,7 +46745,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/iiLBfC1.jpg",
         "costume_id": 1,
-        "originalIndex": 1214
+        "originalIndex": 1215
     },
     {
         "name": "Chao C2",
@@ -40195,6 +46758,10 @@ window.allHeroes =
         "types": [
             "Hit 3",
             "Mana generation debuff 3"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-3)",
+            "Mana Reducers or Blockers"
         ],
         "source": "S1-Classic",
         "Release date": "2023-10-30",
@@ -40211,7 +46778,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/AhEe43s.jpg",
         "costume_id": 2,
-        "originalIndex": 1215
+        "originalIndex": 1216
     },
     {
         "name": "Chao Toon",
@@ -40224,6 +46791,11 @@ window.allHeroes =
         "types": [
             "Hit 1",
             "Mana Reduction 1"
+        ],
+        "skill_types": [
+            "Mana Reducers or Blockers",
+            "Snipers",
+            "Extra Damage Dealers"
         ],
         "source": "S1-Classic",
         "Release date": "2024-06-28",
@@ -40243,7 +46815,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/SdLEIc0.jpg",
         "costume_id": 3,
-        "originalIndex": 1216
+        "originalIndex": 1217
     },
     {
         "name": "D'Andre",
@@ -40256,6 +46828,11 @@ window.allHeroes =
         "types": [
             "Healer",
             "Mana generation buff"
+        ],
+        "skill_types": [
+            "Buffers (DEF)",
+            "Healers",
+            "Mana Generation Buffers"
         ],
         "source": "Challenge Festival-Starfall",
         "Release date": "2021-06-10",
@@ -40273,7 +46850,7 @@ window.allHeroes =
         "family": "starfall",
         "image": "https://i.imgur.com/XnqMU7V.jpg",
         "costume_id": 0,
-        "originalIndex": 1217
+        "originalIndex": 1218
     },
     {
         "name": "Danzaburo",
@@ -40285,6 +46862,13 @@ window.allHeroes =
         "skill": "Trickster's Gambit",
         "types": [
             "Gambler"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-5)",
+            "Buffers (DEF)",
+            "Debuffers (ATK)",
+            "Mana Generation Buffers",
+            "Negative Effects On Self Or Allies"
         ],
         "source": "S2-Atlantis",
         "Release date": "2019-08-01",
@@ -40309,7 +46893,7 @@ window.allHeroes =
         "family": "sakura",
         "image": "https://i.imgur.com/jP1BF2A.jpg",
         "costume_id": 0,
-        "originalIndex": 1218
+        "originalIndex": 1219
     },
     {
         "name": "Danzaburo C1",
@@ -40321,6 +46905,14 @@ window.allHeroes =
         "skill": "Amazing Deals",
         "types": [
             "Gambler"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-5)",
+            "Debuffers (ATK)",
+            "Debuffers (DEF)",
+            "Mana Raisers",
+            "Mana Reducers or Blockers",
+            "Negative Effects On Self Or Allies"
         ],
         "source": "S2-Atlantis",
         "Release date": "2023-02-06",
@@ -40345,7 +46937,7 @@ window.allHeroes =
         "family": "sakura",
         "image": "https://i.imgur.com/HppFUSU.jpg",
         "costume_id": 1,
-        "originalIndex": 1219
+        "originalIndex": 1220
     },
     {
         "name": "Errin",
@@ -40358,6 +46950,12 @@ window.allHeroes =
         "types": [
             "Enemy Damage Share",
             "Increased Received Damage All"
+        ],
+        "skill_types": [
+            "Damage Sharers",
+            "Extra Damage Dealers",
+            "Minions Counters",
+            "Fiends Counters"
         ],
         "source": "Astral Summon",
         "Release date": "2025-06-04",
@@ -40378,7 +46976,7 @@ window.allHeroes =
         "family": "astraldwarfs",
         "image": "https://imgur.com/iOji58B.jpg",
         "costume_id": 0,
-        "originalIndex": 1220
+        "originalIndex": 1221
     },
     {
         "name": "Fjalar",
@@ -40392,6 +46990,14 @@ window.allHeroes =
             "Bypass Minions",
             "Hit 1",
             "Minion Blocking 1"
+        ],
+        "skill_types": [
+            "Minions Counters",
+            "Snipers",
+            "Extra Damage Dealers",
+            "Bypassers",
+            "DoT Attackers",
+            "Debuffers (DEF)"
         ],
         "source": "S6-S7-Untold Tales",
         "Release date": "2024-12-03",
@@ -40415,7 +47021,7 @@ window.allHeroes =
         "family": "nidavellir",
         "image": "https://i.imgur.com/iXEEsKX.jpg",
         "costume_id": 0,
-        "originalIndex": 1221
+        "originalIndex": 1222
     },
     {
         "name": "Goldie",
@@ -40429,6 +47035,11 @@ window.allHeroes =
             "Healer",
             "Growth All",
             "Reflect Ailments All"
+        ],
+        "skill_types": [
+            "Ability Scores Modifiers",
+            "Healers",
+            "Reflectors"
         ],
         "source": "Goblin Summon",
         "Release date": "2023-09-18",
@@ -40450,7 +47061,7 @@ window.allHeroes =
         "family": "goblin",
         "image": "https://i.imgur.com/9Zjrelm.jpg",
         "costume_id": 0,
-        "originalIndex": 1222
+        "originalIndex": 1223
     },
     {
         "name": "Gretel",
@@ -40463,6 +47074,11 @@ window.allHeroes =
         "types": [
             "Hit 3",
             "Mindless Self Attack"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-3)",
+            "Buffers (DEF)",
+            "Mana Reducers or Blockers"
         ],
         "source": "Challenge Festival-Grim Forest",
         "Release date": "2017-01-01",
@@ -40480,7 +47096,7 @@ window.allHeroes =
         "family": "grimforest",
         "image": "https://i.imgur.com/cq0lzx6.jpg",
         "costume_id": 0,
-        "originalIndex": 1223
+        "originalIndex": 1224
     },
     {
         "name": "Griffin",
@@ -40493,6 +47109,10 @@ window.allHeroes =
         "types": [
             "Hit 1",
             "Bypass"
+        ],
+        "skill_types": [
+            "Bypassers",
+            "Snipers"
         ],
         "source": "S4-Wilderness",
         "Release date": "2021-03-25",
@@ -40511,7 +47131,7 @@ window.allHeroes =
         "family": "underwild",
         "image": "https://i.imgur.com/MRV1QX0.jpg",
         "costume_id": 0,
-        "originalIndex": 1224
+        "originalIndex": 1225
     },
     {
         "name": "Griffin C1",
@@ -40524,6 +47144,10 @@ window.allHeroes =
         "types": [
             "Hit 1",
             "Bypass 3"
+        ],
+        "skill_types": [
+            "Bypassers",
+            "Snipers"
         ],
         "source": "S4-Wilderness",
         "Release date": "2023-11-09",
@@ -40542,7 +47166,7 @@ window.allHeroes =
         "family": "underwild",
         "image": "https://i.imgur.com/bhRfq5i.jpg",
         "costume_id": 1,
-        "originalIndex": 1225
+        "originalIndex": 1226
     },
     {
         "name": "Gu Dasao",
@@ -40557,6 +47181,10 @@ window.allHeroes =
             "Hit All",
             "Counterattack 1",
             "Mana Reducer on Counterattack"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-3)",
+            "Counterattackers"
         ],
         "source": "Three Kingdoms Summon",
         "Release date": "2025-05-22",
@@ -40582,7 +47210,7 @@ window.allHeroes =
         "family": "outlaws",
         "image": "https://imgur.com/rTKzhQE.jpg",
         "costume_id": 0,
-        "originalIndex": 1226
+        "originalIndex": 1227
     },
     {
         "name": "Guardian Jackal",
@@ -40595,6 +47223,10 @@ window.allHeroes =
         "types": [
             "Hit 1",
             "Elemental Defense Debuff"
+        ],
+        "skill_types": [
+            "Debuffers (DEF)",
+            "Snipers"
         ],
         "source": "Challenge Festival-Guardians",
         "Release date": "2017-01-01",
@@ -40611,7 +47243,7 @@ window.allHeroes =
         "family": "guardiansteltoc",
         "image": "https://i.imgur.com/yQuuDkU.jpg",
         "costume_id": 0,
-        "originalIndex": 1227
+        "originalIndex": 1228
     },
     {
         "name": "Guardian Jackal C1",
@@ -40624,6 +47256,10 @@ window.allHeroes =
         "types": [
             "Hit 1",
             "Defense Buff"
+        ],
+        "skill_types": [
+            "Buffers (DEF)",
+            "Snipers"
         ],
         "source": "Challenge Festival-Guardians",
         "Release date": "2023-01-26",
@@ -40640,7 +47276,7 @@ window.allHeroes =
         "family": "guardiansteltoc",
         "image": "https://i.imgur.com/SmImrcW.jpg",
         "costume_id": 1,
-        "originalIndex": 1228
+        "originalIndex": 1229
     },
     {
         "name": "Gullinbursti",
@@ -40652,6 +47288,12 @@ window.allHeroes =
         "skill": "Angry Boar",
         "types": [
             "Health Boost"
+        ],
+        "skill_types": [
+            "Buffers (ATK)",
+            "Healers",
+            "Health Boosters",
+            "AoE Attackers (Hit-5)"
         ],
         "source": "S3-Valhalla",
         "Release date": "2020-05-28",
@@ -40668,7 +47310,7 @@ window.allHeroes =
         "family": "asgard",
         "image": "https://i.imgur.com/sx7Ooj7.jpg",
         "costume_id": 0,
-        "originalIndex": 1229
+        "originalIndex": 1230
     },
     {
         "name": "Gullinbursti C1",
@@ -40680,6 +47322,12 @@ window.allHeroes =
         "skill": "Furious Boar",
         "types": [
             "Health boost"
+        ],
+        "skill_types": [
+            "Buffers (ATK)",
+            "Health Boosters",
+            "AoE Attackers (Hit-5)",
+            "Heal over Time (HoT)"
         ],
         "source": "S3-Valhalla",
         "Release date": "2022-07-04",
@@ -40696,7 +47344,7 @@ window.allHeroes =
         "family": "asgard",
         "image": "https://i.imgur.com/0fW6S7f.jpg",
         "costume_id": 1,
-        "originalIndex": 1230
+        "originalIndex": 1231
     },
     {
         "name": "Holly",
@@ -40710,6 +47358,11 @@ window.allHeroes =
             "Healer",
             "Summoner",
             "Attack Buff"
+        ],
+        "skill_types": [
+            "Buffers (ATK)",
+            "Healers",
+            "Minions Summoners"
         ],
         "source": "Monthly Event-Winter",
         "Release date": "2022-12-01",
@@ -40728,7 +47381,7 @@ window.allHeroes =
         "family": "christmas",
         "image": "https://i.imgur.com/n6rgqje.jpg",
         "costume_id": 0,
-        "originalIndex": 1231
+        "originalIndex": 1232
     },
     {
         "name": "Hu Tao",
@@ -40741,6 +47394,10 @@ window.allHeroes =
         "types": [
             "Hit All",
             "Blind All"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-5)",
+            "Debuffers (ATK)"
         ],
         "source": "S1-Classic",
         "Release date": "2017-01-01",
@@ -40758,7 +47415,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/uyASMQ6.jpg",
         "costume_id": 0,
-        "originalIndex": 1232
+        "originalIndex": 1233
     },
     {
         "name": "Hu Tao C1",
@@ -40772,6 +47429,11 @@ window.allHeroes =
             "Hit All",
             "Blind All",
             "Healing Debuff All"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-5)",
+            "Debuffers (ATK)",
+            "Healing Reducers"
         ],
         "source": "S1-Classic",
         "Release date": "2021-01-18",
@@ -40789,7 +47451,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/vPJgzTp.jpg",
         "costume_id": 1,
-        "originalIndex": 1233
+        "originalIndex": 1234
     },
     {
         "name": "Hu Tao C2",
@@ -40803,6 +47465,11 @@ window.allHeroes =
             "Hit all",
             "Blind All",
             "Mana Gen Debuff All"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-5)",
+            "Debuffers (ATK)",
+            "Mana Reducers or Blockers"
         ],
         "source": "S1-Classic",
         "Release date": "2023-11-27",
@@ -40820,7 +47487,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/3xo1OZT.jpg",
         "costume_id": 2,
-        "originalIndex": 1234
+        "originalIndex": 1235
     },
     {
         "name": "Hu Tao Toon",
@@ -40833,6 +47500,11 @@ window.allHeroes =
         "types": [
             "Hit All",
             "Blind All"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-5)",
+            "Debuffers (ATK)",
+            "Extra Damage Dealers"
         ],
         "source": "S1-Classic",
         "Release date": "2024-05-31",
@@ -40852,7 +47524,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/J3KLB3K.jpg",
         "costume_id": 3,
-        "originalIndex": 1235
+        "originalIndex": 1236
     },
     {
         "name": "Hu Tao Glass",
@@ -40866,6 +47538,11 @@ window.allHeroes =
             "Hit All",
             "Bypass",
             "Blind All"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-5)",
+            "Bypassers",
+            "Debuffers (ATK)"
         ],
         "source": "S1-Classic",
         "Release date": "2025-06-18",
@@ -40885,7 +47562,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://imgur.com/V32B1dq.jpg",
         "costume_id": 4,
-        "originalIndex": 1236
+        "originalIndex": 1237
     },
     {
         "name": "Lady Woolerton",
@@ -40897,6 +47574,10 @@ window.allHeroes =
         "skill": "Smooth Treatment",
         "types": [
             "Healer"
+        ],
+        "skill_types": [
+            "Healers",
+            "Negative Effects On Self Or Allies"
         ],
         "source": "Monthly Event-Springvale",
         "Release date": "2020-04-06",
@@ -40913,7 +47594,7 @@ window.allHeroes =
         "family": "springvale",
         "image": "https://i.imgur.com/qf9ikj1.jpg",
         "costume_id": 0,
-        "originalIndex": 1237
+        "originalIndex": 1238
     },
     {
         "name": "Li Xiu",
@@ -40926,6 +47607,10 @@ window.allHeroes =
         "types": [
             "Hit All",
             "Mana Reduction"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-5)",
+            "Mana Reducers or Blockers"
         ],
         "source": "S1-Classic",
         "Release date": "2017-01-01",
@@ -40942,7 +47627,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/flDK18I.jpg",
         "costume_id": 0,
-        "originalIndex": 1238
+        "originalIndex": 1239
     },
     {
         "name": "Li Xiu C1",
@@ -40955,6 +47640,10 @@ window.allHeroes =
         "types": [
             "Hit All",
             "Mana Reduction All"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-5)",
+            "Mana Reducers or Blockers"
         ],
         "source": "S1-Classic",
         "Release date": "2020-01-01",
@@ -40971,7 +47660,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/6LRP9pF.jpg",
         "costume_id": 1,
-        "originalIndex": 1239
+        "originalIndex": 1240
     },
     {
         "name": "Li Xiu C2",
@@ -40984,6 +47673,10 @@ window.allHeroes =
         "types": [
             "Hit 3",
             "Silencer 3"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-3)",
+            "Silencers"
         ],
         "source": "S1-Classic",
         "Release date": "2023-02-20",
@@ -41000,7 +47693,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/kSRi1Vn.jpg",
         "costume_id": 2,
-        "originalIndex": 1240
+        "originalIndex": 1241
     },
     {
         "name": "Li Xiu Toon",
@@ -41013,6 +47706,11 @@ window.allHeroes =
         "types": [
             "Hit All",
             "Mana Reduction All"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-5)",
+            "Extra Damage Dealers",
+            "Mana Reducers or Blockers"
         ],
         "source": "S1-Classic",
         "Release date": "2024-02-12",
@@ -41032,7 +47730,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/9y6lz7h.jpg",
         "costume_id": 3,
-        "originalIndex": 1241
+        "originalIndex": 1242
     },
     {
         "name": "Li Xiu Glass",
@@ -41046,6 +47744,11 @@ window.allHeroes =
             "Hit All",
             "Bypass",
             "Mana Reduction All"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-5)",
+            "Bypassers",
+            "Mana Reducers or Blockers"
         ],
         "source": "S1-Classic",
         "Release date": "2025-03-11",
@@ -41065,7 +47768,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/uvZCfR2.jpg",
         "costume_id": 4,
-        "originalIndex": 1242
+        "originalIndex": 1243
     },
     {
         "name": "Mist",
@@ -41079,6 +47782,12 @@ window.allHeroes =
             "Hit 3",
             "Buff Immunity",
             "Mana Generation Debuff"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-3)",
+            "Buff Blockers",
+            "Debuffers (DEF)",
+            "Mana Reducers or Blockers"
         ],
         "source": "S3-Valhalla",
         "Release date": "2020-02-27",
@@ -41097,7 +47806,7 @@ window.allHeroes =
         "family": "midgard",
         "image": "https://i.imgur.com/1FjRHHb.jpg",
         "costume_id": 0,
-        "originalIndex": 1243
+        "originalIndex": 1244
     },
     {
         "name": "Scoratek",
@@ -41110,6 +47819,11 @@ window.allHeroes =
         "types": [
             "Hit 1",
             "Exploding Fiend Summoner 1"
+        ],
+        "skill_types": [
+            "Fiends Summoners",
+            "Snipers",
+            "DoT Attackers"
         ],
         "source": "S5-Dune",
         "Release date": "2022-04-21",
@@ -41132,7 +47846,7 @@ window.allHeroes =
         "family": "moon",
         "image": "https://i.imgur.com/cEv4g9a.jpg",
         "costume_id": 0,
-        "originalIndex": 1244
+        "originalIndex": 1245
     },
     {
         "name": "Scoratek C1",
@@ -41145,6 +47859,11 @@ window.allHeroes =
         "types": [
             "Hit 1",
             "Exploding Fiend Summoner 1"
+        ],
+        "skill_types": [
+            "Snipers",
+            "Fiends Summoners",
+            "DoT Attackers"
         ],
         "source": "S5-Dune",
         "Release date": "2025-01-20",
@@ -41169,7 +47888,7 @@ window.allHeroes =
         "family": "moon",
         "image": "https://i.imgur.com/uNnOzl3.jpg",
         "costume_id": 1,
-        "originalIndex": 1245
+        "originalIndex": 1246
     },
     {
         "name": "Steropes",
@@ -41183,6 +47902,10 @@ window.allHeroes =
             "Charge",
             "Boosted HoT",
             "Resurrect"
+        ],
+        "skill_types": [
+            "Health Boosters",
+            "Revivers"
         ],
         "source": "Tower-Styx",
         "Release date": "2022-09-21",
@@ -41208,7 +47931,7 @@ window.allHeroes =
         "family": "styx",
         "image": "https://i.imgur.com/JQkhZ6P.jpg",
         "costume_id": 0,
-        "originalIndex": 1246
+        "originalIndex": 1247
     },
     {
         "name": "Voluptas",
@@ -41221,6 +47944,10 @@ window.allHeroes =
         "types": [
             "Fiend Destroyer 3",
             "Healer 3"
+        ],
+        "skill_types": [
+            "Fiends Counters",
+            "Healers"
         ],
         "source": "Monthly Event-Love Season",
         "Release date": "2023-02-14",
@@ -41239,7 +47966,7 @@ window.allHeroes =
         "family": "cupid",
         "image": "https://i.imgur.com/FUJWm4U.jpg",
         "costume_id": 0,
-        "originalIndex": 1247
+        "originalIndex": 1248
     },
     {
         "name": "Waddles",
@@ -41252,6 +47979,10 @@ window.allHeroes =
         "types": [
             "Hit 1",
             "Mindless Attack"
+        ],
+        "skill_types": [
+            "Mindless Attack & Mindless Heal",
+            "Snipers"
         ],
         "source": "Alliance-Pets",
         "Release date": "2022-11-03",
@@ -41271,7 +48002,7 @@ window.allHeroes =
         "family": "pets",
         "image": "https://i.imgur.com/acvvh6o.jpg",
         "costume_id": 0,
-        "originalIndex": 1248
+        "originalIndex": 1249
     },
     {
         "name": "Wang Yuanji",
@@ -41284,6 +48015,10 @@ window.allHeroes =
         "types": [
             "Fiend Destroyer All",
             "Health Boost"
+        ],
+        "skill_types": [
+            "Fiends Counters",
+            "Health Boosters"
         ],
         "source": "Three Kingdoms Summon",
         "Release date": "2022-03-14T12:00:00",
@@ -41300,7 +48035,7 @@ window.allHeroes =
         "family": "kingdom",
         "image": "https://i.imgur.com/SwBxlgF.jpg",
         "costume_id": 0,
-        "originalIndex": 1249
+        "originalIndex": 1250
     },
     {
         "name": "Wang Yuanji C1",
@@ -41314,6 +48049,11 @@ window.allHeroes =
             "Fiend Destroyer All",
             "Health Boost All",
             "Defense Buff All"
+        ],
+        "skill_types": [
+            "Fiends Counters",
+            "Health Boosters",
+            "Buffers (DEF)"
         ],
         "source": "Three Kingdoms Summon",
         "Release date": "2025-01-29",
@@ -41336,7 +48076,7 @@ window.allHeroes =
         "family": "kingdom",
         "image": "https://i.imgur.com/EPCCR66.jpg",
         "costume_id": 1,
-        "originalIndex": 1250
+        "originalIndex": 1251
     },
     {
         "name": "Wu Kong",
@@ -41348,6 +48088,10 @@ window.allHeroes =
         "skill": "Gambler's Stance",
         "types": [
             "Titan Attack Buff"
+        ],
+        "skill_types": [
+            "Buffers (ATK)",
+            "Negative Effects On Self Or Allies"
         ],
         "source": "S1-Classic",
         "Release date": "2017-01-01",
@@ -41364,7 +48108,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/EZfzNHv.jpg",
         "costume_id": 0,
-        "originalIndex": 1251
+        "originalIndex": 1252
     },
     {
         "name": "Wu Kong C1",
@@ -41376,6 +48120,10 @@ window.allHeroes =
         "skill": "Gambler's Slash",
         "types": [
             "Hit all"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-5)",
+            "Negative Effects On Self Or Allies"
         ],
         "source": "S1-Classic",
         "Release date": "2021-01-18",
@@ -41392,7 +48140,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/Xt9qUWm.jpg",
         "costume_id": 1,
-        "originalIndex": 1252
+        "originalIndex": 1253
     },
     {
         "name": "Wu Kong C2",
@@ -41404,6 +48152,10 @@ window.allHeroes =
         "skill": "Gambler’s Swing",
         "types": [
             "Titan Attack Buff"
+        ],
+        "skill_types": [
+            "Buffers (ATK)",
+            "Negative Effects On Self Or Allies"
         ],
         "source": "S1-Classic",
         "Release date": "2023-10-30",
@@ -41419,7 +48171,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/gZEff9Z.jpg",
         "costume_id": 2,
-        "originalIndex": 1253
+        "originalIndex": 1254
     },
     {
         "name": "Wu Kong Toon",
@@ -41431,6 +48183,10 @@ window.allHeroes =
         "skill": "Toon Stance",
         "types": [
             "Titan Attack Buff"
+        ],
+        "skill_types": [
+            "Buffers (ATK)",
+            "Negative Effects On Self Or Allies"
         ],
         "source": "S1-Classic",
         "Release date": "2024-07-16",
@@ -41448,7 +48204,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/3dV4crJ.jpg",
         "costume_id": 3,
-        "originalIndex": 1254
+        "originalIndex": 1255
     },
     {
         "name": "Zione",
@@ -41461,6 +48217,12 @@ window.allHeroes =
         "types": [
             "Board Alterer",
             "Attack buff"
+        ],
+        "skill_types": [
+            "Board Alterers",
+            "Mana Generation Buffers",
+            "Mana Reducers or Blockers",
+            "Buffers (ATK)"
         ],
         "source": "Super Elementals",
         "Release date": "2023-07-17",
@@ -41483,7 +48245,7 @@ window.allHeroes =
         "family": "superelemental",
         "image": "https://i.imgur.com/b0f7111.jpg",
         "costume_id": 0,
-        "originalIndex": 1255
+        "originalIndex": 1256
     },
     {
         "name": "Akkorog",
@@ -41495,6 +48257,10 @@ window.allHeroes =
         "skill": "Colossal Chops",
         "types": [
             "Hit 3"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-3)",
+            "Random Position"
         ],
         "source": "S4-Wilderness",
         "Release date": "2021-03-25",
@@ -41513,7 +48279,7 @@ window.allHeroes =
         "family": "underwild",
         "image": "https://i.imgur.com/gMyh86R.jpg",
         "costume_id": 0,
-        "originalIndex": 1256
+        "originalIndex": 1257
     },
     {
         "name": "Akkorog C1",
@@ -41526,6 +48292,13 @@ window.allHeroes =
         "types": [
             "Hit 3",
             "Dodge stack"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-3)",
+            "Dodgers",
+            "Stacking Heroes",
+            "Buffers (DEF)",
+            "Random Position"
         ],
         "source": "S4-Wilderness",
         "Release date": "2024-02-01",
@@ -41546,7 +48319,7 @@ window.allHeroes =
         "family": "underwild",
         "image": "https://i.imgur.com/VvDq081.jpg",
         "costume_id": 1,
-        "originalIndex": 1257
+        "originalIndex": 1258
     },
     {
         "name": "Albin",
@@ -41560,6 +48333,11 @@ window.allHeroes =
             "Hit All",
             "Buff duration reset",
             "Summoner"
+        ],
+        "skill_types": [
+            "Heal over Time (HoT)",
+            "Buffers (ATK)",
+            "Negative Effects On Self Or Allies"
         ],
         "source": "Monthly Event-Winter",
         "Release date": "2024-12-01",
@@ -41577,7 +48355,7 @@ window.allHeroes =
         "family": "christmas",
         "image": "https://i.imgur.com/x9XJFnx.jpg",
         "costume_id": 0,
-        "originalIndex": 1258
+        "originalIndex": 1259
     },
     {
         "name": "Alvar",
@@ -41593,7 +48371,13 @@ window.allHeroes =
             "Hit All",
             "Reflect Buffs All"
         ],
-        "source": "Alliance-Knights Charge",
+        "skill_types": [
+            "Cleansers",
+            "Effect Duration Resetters",
+            "AoE Attackers (Hit-5)",
+            "Reflectors"
+        ],
+        "source": "Alliance-Knights Clash",
         "Release date": "2024-08-14",
         "star": 5,
         "power": 1084,
@@ -41612,7 +48396,7 @@ window.allHeroes =
         "family": "stag",
         "image": "https://i.imgur.com/dIFfVvr.jpg",
         "costume_id": 0,
-        "originalIndex": 1259
+        "originalIndex": 1260
     },
     {
         "name": "Amund",
@@ -41626,6 +48410,11 @@ window.allHeroes =
             "Hit All",
             "Fiend Summoner All",
             "Debuff Clean Blocking Fiend"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-5)",
+            "Fiends Summoners",
+            "Cleanse Blockers"
         ],
         "source": "Monster Island Summon",
         "Release date": "2025-02-27",
@@ -41647,7 +48436,7 @@ window.allHeroes =
         "family": "plainshunter",
         "image": "https://i.imgur.com/Cr6rYpC.jpg",
         "costume_id": 0,
-        "originalIndex": 1260
+        "originalIndex": 1261
     },
     {
         "name": "Anne",
@@ -41659,6 +48448,13 @@ window.allHeroes =
         "skill": "Cannon Blast",
         "types": [
             "Hit 1"
+        ],
+        "skill_types": [
+            "Chain & Random Attackers",
+            "Mana Reducers or Blockers",
+            "Snipers",
+            "Debuffers (ATK)",
+            "Debuffers (DEF)"
         ],
         "source": "Challenge Festival-Pirates",
         "Release date": "2022-10-06",
@@ -41676,7 +48472,7 @@ window.allHeroes =
         "family": "corellia",
         "image": "https://i.imgur.com/YcbkyW1.jpg",
         "costume_id": 0,
-        "originalIndex": 1261
+        "originalIndex": 1262
     },
     {
         "name": "Anteros",
@@ -41689,6 +48485,10 @@ window.allHeroes =
         "types": [
             "Hit 1",
             "Mindless Heal"
+        ],
+        "skill_types": [
+            "Snipers",
+            "Mindless Attack & Mindless Heal"
         ],
         "source": "Monthly Event-Love Season",
         "Release date": "2025-02-14",
@@ -41710,7 +48510,7 @@ window.allHeroes =
         "family": "cupid",
         "image": "https://i.imgur.com/ZH2Xuuj.jpg",
         "costume_id": 0,
-        "originalIndex": 1262
+        "originalIndex": 1263
     },
     {
         "name": "Aouda",
@@ -41722,6 +48522,10 @@ window.allHeroes =
         "skill": "Blade of Bundelkhand",
         "types": [
             "Hit 1"
+        ],
+        "skill_types": [
+            "Extra Damage Dealers",
+            "Snipers"
         ],
         "source": "S4-Wilderness",
         "Release date": "2021-07-15",
@@ -41740,7 +48544,7 @@ window.allHeroes =
         "family": "underwild",
         "image": "https://i.imgur.com/Ri4pkcS.jpg",
         "costume_id": 0,
-        "originalIndex": 1263
+        "originalIndex": 1264
     },
     {
         "name": "Aouda C1",
@@ -41752,6 +48556,11 @@ window.allHeroes =
         "skill": "Scepter Of Bundelkhand",
         "types": [
             "Hit 1"
+        ],
+        "skill_types": [
+            "Extra Damage Dealers",
+            "Snipers",
+            "Buffers (ATK)"
         ],
         "source": "S4-Wilderness",
         "Release date": "2023-09-07",
@@ -41771,7 +48580,7 @@ window.allHeroes =
         "family": "underwild",
         "image": "https://i.imgur.com/8bE9bAk.jpg",
         "costume_id": 1,
-        "originalIndex": 1264
+        "originalIndex": 1265
     },
     {
         "name": "Ashen",
@@ -41786,6 +48595,13 @@ window.allHeroes =
             "Lasting Attack Buff All",
             "Hit All",
             "Lasting Attack Debuff All"
+        ],
+        "skill_types": [
+            "Healing Reducers",
+            "AoE Attackers (Hit-5)",
+            "Debuffers (ATK)",
+            "Heal over Time (HoT)",
+            "Buffers (ATK)"
         ],
         "source": "Covenant Summon",
         "Release date": "2025-02-26",
@@ -41808,7 +48624,7 @@ window.allHeroes =
         "family": "fox",
         "image": "https://i.imgur.com/JxS30IU.jpg",
         "costume_id": 0,
-        "originalIndex": 1265
+        "originalIndex": 1266
     },
     {
         "name": "Astrid",
@@ -41821,6 +48637,11 @@ window.allHeroes =
         "types": [
             "Healer",
             "Reviver"
+        ],
+        "skill_types": [
+            "Healers",
+            "Revivers",
+            "Damage Reducers"
         ],
         "source": "Challenge Festival-Bards",
         "Release date": "2024-11-14",
@@ -41843,7 +48664,7 @@ window.allHeroes =
         "family": "bard",
         "image": "https://i.imgur.com/efuZ1Xu.jpg",
         "costume_id": 0,
-        "originalIndex": 1266
+        "originalIndex": 1267
     },
     {
         "name": "Auricarc",
@@ -41858,6 +48679,14 @@ window.allHeroes =
             "Mana Steal 1",
             "Hit 1",
             "Deep Sleep 1"
+        ],
+        "skill_types": [
+            "Mana Raisers",
+            "Mana Reducers or Blockers",
+            "Minions Counters",
+            "Sleepweavers",
+            "Snipers",
+            "Dodgers"
         ],
         "source": "Alliance-Moths",
         "Release date": "2025-05-01",
@@ -41878,7 +48707,7 @@ window.allHeroes =
         "family": "moth",
         "image": "https://imgur.com/U5vFSXy.jpg",
         "costume_id": 0,
-        "originalIndex": 1267
+        "originalIndex": 1268
     },
     {
         "name": "Aviana",
@@ -41892,6 +48721,12 @@ window.allHeroes =
             "Hit 3",
             "Buffs immunity 3",
             "Critical chance buff 3"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-3)",
+            "Buff Blockers",
+            "Buffers (ATK)",
+            "Dodgers"
         ],
         "source": "Hero of the Month",
         "Release date": "2024-06-01",
@@ -41913,7 +48748,7 @@ window.allHeroes =
         "family": 2024,
         "image": "https://i.imgur.com/0zHJdCL.jpg",
         "costume_id": 0,
-        "originalIndex": 1268
+        "originalIndex": 1269
     },
     {
         "name": "Bai Yeong",
@@ -41927,6 +48762,12 @@ window.allHeroes =
             "Hit 1",
             "Blind",
             "Healing Debuff"
+        ],
+        "skill_types": [
+            "Debuffers (ATK)",
+            "Healing Reducers",
+            "Snipers",
+            "Buffers (DEF)"
         ],
         "source": "Hero of the Month",
         "Release date": "2020-09-01",
@@ -41947,7 +48788,7 @@ window.allHeroes =
         "family": 2020,
         "image": "https://i.imgur.com/4FIVAWy.jpg",
         "costume_id": 0,
-        "originalIndex": 1269
+        "originalIndex": 1270
     },
     {
         "name": "Baishu",
@@ -41960,6 +48801,12 @@ window.allHeroes =
         "types": [
             "Steals 1 Buff All or Hit All",
             "Lifts 1 Ailment All or Hit All"
+        ],
+        "skill_types": [
+            "Minions Counters",
+            "Buff Stealers",
+            "AoE Attackers (Hit-5)",
+            "Cleansers"
         ],
         "source": "Monthly Event-Lunar Year",
         "Release date": "2025-01-27",
@@ -41980,7 +48827,7 @@ window.allHeroes =
         "family": "lunaryear",
         "image": "https://i.imgur.com/hMx4yq8.jpg",
         "costume_id": 0,
-        "originalIndex": 1270
+        "originalIndex": 1271
     },
     {
         "name": "Caitlin",
@@ -41995,6 +48842,15 @@ window.allHeroes =
             "Hit All",
             "Self Mana Generation Stacks",
             "Self HoT Stacks"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-5)",
+            "Dispellers",
+            "Healers (Special)",
+            "Stacking Heroes",
+            "Extra Damage Dealers",
+            "Mana Generation Buffers",
+            "Heal over Time (HoT)"
         ],
         "source": "Challenge Festival-Slayers",
         "Release date": "2021-08-05",
@@ -42016,7 +48872,7 @@ window.allHeroes =
         "family": "slayer",
         "image": "https://i.imgur.com/ERb7z96.jpg",
         "costume_id": 0,
-        "originalIndex": 1271
+        "originalIndex": 1272
     },
     {
         "name": "Caitlin C1",
@@ -42031,6 +48887,16 @@ window.allHeroes =
             "Hit All",
             "Self Mana Generation Stacks",
             "Self HoT Stacks"
+        ],
+        "skill_types": [
+            "Dispellers",
+            "AoE Attackers (Hit-5)",
+            "Extra Damage Dealers",
+            "Mana Generation Buffers",
+            "Heal over Time (HoT)",
+            "Stacking Heroes",
+            "DoT Attackers",
+            "Healers (Special)"
         ],
         "source": "Challenge Festival-Slayers",
         "Release date": "2024-11-14",
@@ -42053,7 +48919,7 @@ window.allHeroes =
         "family": "slayer",
         "image": "https://i.imgur.com/JgYBU3i.jpg",
         "costume_id": 1,
-        "originalIndex": 1272
+        "originalIndex": 1273
     },
     {
         "name": "Celidana",
@@ -42067,6 +48933,12 @@ window.allHeroes =
             "Health Boost 3",
             "Defense Buff 3",
             "Max Health Reduction Immunity 3"
+        ],
+        "skill_types": [
+            "Buffers (DEF)",
+            "Fiends Counters",
+            "Health Boosters",
+            "Immunity Providers"
         ],
         "source": "Hero of the Month",
         "Release date": "2022-10-01",
@@ -42088,7 +48960,7 @@ window.allHeroes =
         "family": 2022,
         "image": "https://i.imgur.com/fzHIBe5.jpg",
         "costume_id": 0,
-        "originalIndex": 1273
+        "originalIndex": 1274
     },
     {
         "name": "Christine Daae",
@@ -42104,6 +48976,15 @@ window.allHeroes =
             "Blind",
             "Defense debuff",
             "Buff immunity"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-3)",
+            "Buff Blockers",
+            "Dancers",
+            "Debuffers (ATK)",
+            "Debuffers (DEF)",
+            "Dispellers",
+            "Cleansers"
         ],
         "source": "Solstice Summon",
         "Release date": "2023-11-30",
@@ -42128,7 +49009,7 @@ window.allHeroes =
         "family": "opera",
         "image": "https://i.imgur.com/x8CUwhf.jpg",
         "costume_id": 0,
-        "originalIndex": 1274
+        "originalIndex": 1275
     },
     {
         "name": "Cleopatra",
@@ -42141,6 +49022,11 @@ window.allHeroes =
         "types": [
             "Healer",
             "Status Ailment Immunity"
+        ],
+        "skill_types": [
+            "Healers",
+            "Immunity Providers",
+            "Healers (Special)"
         ],
         "source": "S5-Dune",
         "Release date": "2022-10-27",
@@ -42161,7 +49047,7 @@ window.allHeroes =
         "family": "sun",
         "image": "https://i.imgur.com/pyEHRBi.jpg",
         "costume_id": 0,
-        "originalIndex": 1275
+        "originalIndex": 1276
     },
     {
         "name": "Cleopatra C1",
@@ -42174,6 +49060,13 @@ window.allHeroes =
         "types": [
             "Healer",
             "Status Ailment Immunity"
+        ],
+        "skill_types": [
+            "Healers",
+            "Immunity Providers",
+            "Healers (Special)",
+            "Health Boosters",
+            "Cleansers"
         ],
         "source": "S5-Dune",
         "Release date": "2024-04-29",
@@ -42196,7 +49089,7 @@ window.allHeroes =
         "family": "sun",
         "image": "https://i.imgur.com/BWI4O98.jpg",
         "costume_id": 1,
-        "originalIndex": 1276
+        "originalIndex": 1277
     },
     {
         "name": "Constance",
@@ -42208,6 +49101,11 @@ window.allHeroes =
         "skill": "Sword Dance",
         "types": [
             "Hit All"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-5)",
+            "Dodgers",
+            "Counterattackers"
         ],
         "source": "Alliance-Musketeers",
         "Release date": "2023-07-26",
@@ -42226,7 +49124,7 @@ window.allHeroes =
         "family": "musketeer",
         "image": "https://i.imgur.com/MWL4e5h.jpg",
         "costume_id": 0,
-        "originalIndex": 1277
+        "originalIndex": 1278
     },
     {
         "name": "Dabria",
@@ -42240,6 +49138,11 @@ window.allHeroes =
             "Reviver",
             "Healer",
             "Defense Buff"
+        ],
+        "skill_types": [
+            "Buffers (DEF)",
+            "Heal over Time (HoT)",
+            "Revivers"
         ],
         "source": "Covenant Summon",
         "Release date": "2023-02-09",
@@ -42260,7 +49163,7 @@ window.allHeroes =
         "family": "abysshunter",
         "image": "https://i.imgur.com/EUt5N6q.jpg",
         "costume_id": 0,
-        "originalIndex": 1278
+        "originalIndex": 1279
     },
     {
         "name": "Delilah",
@@ -42273,6 +49176,11 @@ window.allHeroes =
         "types": [
             "Healer",
             "Summoner"
+        ],
+        "skill_types": [
+            "Healers",
+            "Mana Generation Buffers",
+            "Minions Summoners"
         ],
         "source": "Hero of the Month",
         "Release date": "2018-03-01T00:00:00",
@@ -42290,7 +49198,7 @@ window.allHeroes =
         "family": 2018,
         "image": "https://i.imgur.com/gbHdhVI.jpg",
         "costume_id": 0,
-        "originalIndex": 1279
+        "originalIndex": 1280
     },
     {
         "name": "Delilah C1",
@@ -42303,6 +49211,12 @@ window.allHeroes =
         "types": [
             "Healer",
             "Summoner"
+        ],
+        "skill_types": [
+            "Healers",
+            "Mana Generation Buffers",
+            "Minions Summoners",
+            "Cleansers"
         ],
         "source": "Hero of the Month",
         "Release date": "2023-05-15",
@@ -42322,7 +49236,7 @@ window.allHeroes =
         "family": 2018,
         "image": "https://i.imgur.com/muqHGtI.jpg",
         "costume_id": 1,
-        "originalIndex": 1280
+        "originalIndex": 1281
     },
     {
         "name": "Devana",
@@ -42336,6 +49250,13 @@ window.allHeroes =
             "Hit 3",
             "Summoner",
             "Dispeller"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-3)",
+            "Dispellers",
+            "Mana Raisers",
+            "Minions Counters",
+            "Minions Summoners"
         ],
         "source": "Hero of the Month",
         "Release date": "2021-07-01",
@@ -42358,7 +49279,7 @@ window.allHeroes =
         "family": 2021,
         "image": "https://i.imgur.com/kOGhPnC.jpg",
         "costume_id": 0,
-        "originalIndex": 1281
+        "originalIndex": 1282
     },
     {
         "name": "Director Zuri",
@@ -42372,6 +49293,11 @@ window.allHeroes =
             "Heal All",
             "Summoner All",
             "Cleanser All"
+        ],
+        "skill_types": [
+            "Cleansers",
+            "Healers",
+            "Minions Summoners"
         ],
         "source": "Challenge Festival-Starfall",
         "Release date": "2021-06-10",
@@ -42389,7 +49315,7 @@ window.allHeroes =
         "family": "starfall",
         "image": "https://i.imgur.com/NrSrxkV.jpg",
         "costume_id": 0,
-        "originalIndex": 1282
+        "originalIndex": 1283
     },
     {
         "name": "Dolores",
@@ -42405,6 +49331,14 @@ window.allHeroes =
             "Attack buff stack",
             "Mana gen buff stack",
             "Self Insanity"
+        ],
+        "skill_types": [
+            "Damage Reducers",
+            "Chain & Random Attackers",
+            "Buffers (ATK)",
+            "Mana Generation Buffers",
+            "Stacking Heroes",
+            "Negative Effects On Self Or Allies"
         ],
         "source": "Extra Draw-Secret Summon",
         "Release date": "2024-05-17",
@@ -42425,7 +49359,7 @@ window.allHeroes =
         "family": "investigator",
         "image": "https://i.imgur.com/sAavBEB.jpg",
         "costume_id": 0,
-        "originalIndex": 1283
+        "originalIndex": 1284
     },
     {
         "name": "Drake Fong",
@@ -42438,6 +49372,12 @@ window.allHeroes =
         "types": [
             "Hit 3",
             "Blind"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-3)",
+            "Debuffers (ATK)",
+            "Buffers (ATK)",
+            "Buffers (DEF)"
         ],
         "source": "Hero of the Month",
         "Release date": "2018-08-01T00:00:00",
@@ -42455,7 +49395,7 @@ window.allHeroes =
         "family": 2018,
         "image": "https://i.imgur.com/DfnVeiC.jpg",
         "costume_id": 0,
-        "originalIndex": 1284
+        "originalIndex": 1285
     },
     {
         "name": "Drake Fong C1",
@@ -42468,6 +49408,13 @@ window.allHeroes =
         "types": [
             "Hit 3",
             "Blind"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-3)",
+            "Debuffers (ATK)",
+            "Buffers (ATK)",
+            "Buffers (DEF)",
+            "Dispellers"
         ],
         "source": "Hero of the Month",
         "Release date": "2021-12-23",
@@ -42487,7 +49434,7 @@ window.allHeroes =
         "family": 2018,
         "image": "https://i.imgur.com/31loghP.jpg",
         "costume_id": 1,
-        "originalIndex": 1285
+        "originalIndex": 1286
     },
     {
         "name": "Eloise",
@@ -42502,7 +49449,11 @@ window.allHeroes =
             "Hit All",
             "Minion Immunity"
         ],
-        "source": "Alliance-Knights Charge",
+        "skill_types": [
+            "AoE Attackers (Hit-5)",
+            "Minions Counters"
+        ],
+        "source": "Alliance-Knights Clash",
         "Release date": "2022-01-05",
         "star": 5,
         "power": 822,
@@ -42518,7 +49469,7 @@ window.allHeroes =
         "family": "raven",
         "image": "https://i.imgur.com/x2Zz9OK.jpg",
         "costume_id": 0,
-        "originalIndex": 1286
+        "originalIndex": 1287
     },
     {
         "name": "Ephyra",
@@ -42532,6 +49483,12 @@ window.allHeroes =
             "Minion Summoner All",
             "Stack",
             "Fiend Replacement All"
+        ],
+        "skill_types": [
+            "Fiends Counters",
+            "Minions Boosters",
+            "Minions Summoners",
+            "Stacking Heroes"
         ],
         "source": "S6-S7-Untold Tales",
         "Release date": "2023-06-07",
@@ -42558,7 +49515,7 @@ window.allHeroes =
         "family": "defendersofatlantis",
         "image": "https://i.imgur.com/nL4nDAx.jpg",
         "costume_id": 0,
-        "originalIndex": 1287
+        "originalIndex": 1288
     },
     {
         "name": "Ephyra C1",
@@ -42572,6 +49529,12 @@ window.allHeroes =
             "Minion Summoner All",
             "Stack",
             "Fiend Replacement All"
+        ],
+        "skill_types": [
+            "Fiends Counters",
+            "Minions Boosters",
+            "Minions Summoners",
+            "Stacking Heroes"
         ],
         "source": "S6-S7-Untold Tales",
         "Release date": "2025-03-31",
@@ -42599,7 +49562,7 @@ window.allHeroes =
         "family": "defendersofatlantis",
         "image": "https://imgur.com/CAlgEAJ.jpg",
         "costume_id": 1,
-        "originalIndex": 1288
+        "originalIndex": 1289
     },
     {
         "name": "Erlang Shen",
@@ -42612,6 +49575,10 @@ window.allHeroes =
         "types": [
             "Hit 3",
             "Attack Debuff"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-3)",
+            "Debuffers (ATK)"
         ],
         "source": "Three Kingdoms Summon",
         "Release date": "2023-01-02",
@@ -42628,7 +49595,7 @@ window.allHeroes =
         "family": "journey",
         "image": "https://i.imgur.com/vft4guR.jpg",
         "costume_id": 0,
-        "originalIndex": 1289
+        "originalIndex": 1290
     },
     {
         "name": "Eset",
@@ -42642,6 +49609,13 @@ window.allHeroes =
             "Hit 1",
             "Hit Random 5",
             "Board Alterer"
+        ],
+        "skill_types": [
+            "Board Alterers",
+            "Debuffers (ATK)",
+            "Buffers (ATK)",
+            "Chain & Random Attackers",
+            "Extra Damage Dealers"
         ],
         "source": "S5-Dune",
         "Release date": "2023-01-19",
@@ -42663,7 +49637,7 @@ window.allHeroes =
         "family": "sun",
         "image": "https://i.imgur.com/0YdsTMt.jpg",
         "costume_id": 0,
-        "originalIndex": 1290
+        "originalIndex": 1291
     },
     {
         "name": "Eset C1",
@@ -42677,6 +49651,13 @@ window.allHeroes =
             "Hit 1",
             "Hit Random 5",
             "Board Alterer"
+        ],
+        "skill_types": [
+            "Board Alterers",
+            "Debuffers (ATK)",
+            "Buffers (ATK)",
+            "Chain & Random Attackers",
+            "Extra Damage Dealers"
         ],
         "source": "S5-Dune",
         "Release date": "2025-06-11",
@@ -42700,7 +49681,7 @@ window.allHeroes =
         "family": "sun",
         "image": "https://imgur.com/4M257qJ.jpg",
         "costume_id": 1,
-        "originalIndex": 1291
+        "originalIndex": 1292
     },
     {
         "name": "Experience Mimic Holy",
@@ -42714,6 +49695,15 @@ window.allHeroes =
             "Minion Destroyer 1",
             "Hit 1",
             "Mimic Chest"
+        ],
+        "skill_types": [
+            "Healers (Special)",
+            "Minions Counters",
+            "Snipers",
+            "Mana Raisers",
+            "Immunity Providers",
+            "Ghost Form & Hiding",
+            "Bypassers"
         ],
         "source": "Extra Draw-Secret Summon",
         "Release date": "2025-05-31",
@@ -42740,7 +49730,7 @@ window.allHeroes =
         "family": "mimic",
         "image": "https://imgur.com/WAwhfFp.jpg",
         "costume_id": 0,
-        "originalIndex": 1292
+        "originalIndex": 1293
     },
     {
         "name": "Faeona",
@@ -42754,6 +49744,13 @@ window.allHeroes =
             "Healer",
             "Healing Buff",
             "Mana Gen Buff Stack 1"
+        ],
+        "skill_types": [
+            "Healers",
+            "Healers (Special)",
+            "Mana Generation Buffers",
+            "Stacking Heroes",
+            "Buffers (ATK)"
         ],
         "source": "Hero of the Month",
         "Release date": "2024-12-01",
@@ -42775,7 +49772,7 @@ window.allHeroes =
         "family": 2024,
         "image": "https://i.imgur.com/plLMCMU.jpg",
         "costume_id": 0,
-        "originalIndex": 1293
+        "originalIndex": 1294
     },
     {
         "name": "Faline",
@@ -42788,6 +49785,10 @@ window.allHeroes =
         "types": [
             "Hit 3",
             "Mana Generation Debuff 1"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-3)",
+            "Mana Reducers or Blockers"
         ],
         "source": "Challenge Festival-Starfall",
         "Release date": "2021-06-10",
@@ -42804,7 +49805,7 @@ window.allHeroes =
         "family": "starfall",
         "image": "https://i.imgur.com/8rLI8nK.jpg",
         "costume_id": 0,
-        "originalIndex": 1294
+        "originalIndex": 1295
     },
     {
         "name": "Frank 'Fangs' Brimwell",
@@ -42817,6 +49818,11 @@ window.allHeroes =
         "types": [
             "Hit 3",
             "Guard Mega Minion"
+        ],
+        "skill_types": [
+            "Mega Minions Summoners",
+            "AoE Attackers (Hit-3)",
+            "AoE Attackers (Hit-5)"
         ],
         "source": "Goblin Summon",
         "Release date": "2024-08-04",
@@ -42838,7 +49844,7 @@ window.allHeroes =
         "family": "garrisonguard",
         "image": "https://i.imgur.com/N2blWos.jpg",
         "costume_id": 0,
-        "originalIndex": 1295
+        "originalIndex": 1296
     },
     {
         "name": "Furdinand",
@@ -42855,6 +49861,13 @@ window.allHeroes =
             "Reflect Ailments All",
             "Reflect Stacks All",
             "HoT All"
+        ],
+        "skill_types": [
+            "Cleansers",
+            "Damage Sharers",
+            "Heal over Time (HoT)",
+            "Reflectors",
+            "Buffers (DEF)"
         ],
         "source": "Alliance-Pets",
         "Release date": "2022-11-03",
@@ -42877,7 +49890,7 @@ window.allHeroes =
         "family": "pets",
         "image": "https://i.imgur.com/xJBNOD9.jpg",
         "costume_id": 0,
-        "originalIndex": 1296
+        "originalIndex": 1297
     },
     {
         "name": "Gandr",
@@ -42891,6 +49904,16 @@ window.allHeroes =
             "Hit All",
             "Healer",
             "Counterattack"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-5)",
+            "Healers (Special)",
+            "Counterattackers",
+            "Extra Damage Dealers",
+            "Bypassers",
+            "DoT Attackers",
+            "Debuffers (DEF)",
+            "Minions Counters"
         ],
         "source": "S6-S7-Untold Tales",
         "Release date": "2024-12-03",
@@ -42914,7 +49937,7 @@ window.allHeroes =
         "family": "nidavellir",
         "image": "https://i.imgur.com/hNiWYCE.jpg",
         "costume_id": 0,
-        "originalIndex": 1297
+        "originalIndex": 1298
     },
     {
         "name": "Gideon",
@@ -42929,7 +49952,13 @@ window.allHeroes =
             "Enhanced Dodge",
             "Delayed Heal"
         ],
-        "source": "S4-Wilderness",
+        "skill_types": [
+            "Cleansers",
+            "Dodgers",
+            "Healers",
+            "Buffers (DEF)"
+        ],
+        "source": "Wilderness Summon",
         "Release date": "2024-12-07",
         "star": 5,
         "power": 1150,
@@ -42949,7 +49978,7 @@ window.allHeroes =
         "family": "woodlandfaun",
         "image": "https://i.imgur.com/5Tx3rNq.jpg",
         "costume_id": 0,
-        "originalIndex": 1298
+        "originalIndex": 1299
     },
     {
         "name": "Gilligan",
@@ -42962,6 +49991,11 @@ window.allHeroes =
         "types": [
             "Hit 3",
             "Defense Buff"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-3)",
+            "Buffers (DEF)",
+            "Bypassers"
         ],
         "source": "Hero of the Month",
         "Release date": "2023-03-01",
@@ -42983,7 +50017,7 @@ window.allHeroes =
         "family": 2023,
         "image": "https://i.imgur.com/gcaSLmN.jpg",
         "costume_id": 0,
-        "originalIndex": 1299
+        "originalIndex": 1300
     },
     {
         "name": "Goldrip",
@@ -42997,6 +50031,11 @@ window.allHeroes =
             "Greed 1",
             "DoT All",
             "Hit All"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-5)",
+            "DoT Attackers",
+            "Status Effects Blockers"
         ],
         "source": "Super Elementals",
         "Release date": "2025-06-07",
@@ -43017,7 +50056,7 @@ window.allHeroes =
         "family": "slime",
         "image": "https://imgur.com/iqx1d2N.jpg",
         "costume_id": 0,
-        "originalIndex": 1300
+        "originalIndex": 1301
     },
     {
         "name": "Gongniu",
@@ -43031,6 +50070,11 @@ window.allHeroes =
             "Defense buff",
             "Healer delayed",
             "Mana boost delayed"
+        ],
+        "skill_types": [
+            "Buffers (DEF)",
+            "Healers",
+            "Mana Raisers"
         ],
         "source": "Monthly Event-Lunar Year",
         "Release date": "2024-02-08",
@@ -43051,7 +50095,7 @@ window.allHeroes =
         "family": "lunaryear",
         "image": "https://i.imgur.com/BDNFVzo.jpg",
         "costume_id": 0,
-        "originalIndex": 1301
+        "originalIndex": 1302
     },
     {
         "name": "Gooric",
@@ -43065,6 +50109,11 @@ window.allHeroes =
             "Attack Buff All",
             "Mana Generation Buff All",
             "Slime Revive"
+        ],
+        "skill_types": [
+            "Buffers (ATK)",
+            "Mana Generation Buffers",
+            "Revivers"
         ],
         "source": "Super Elementals",
         "Release date": "2025-01-01",
@@ -43091,7 +50140,7 @@ window.allHeroes =
         "family": "slime",
         "image": "https://i.imgur.com/QoTjDm5.jpg",
         "costume_id": 0,
-        "originalIndex": 1302
+        "originalIndex": 1303
     },
     {
         "name": "Grilka",
@@ -43105,6 +50154,12 @@ window.allHeroes =
             "Taunt",
             "BHoT",
             "Mana generation buff"
+        ],
+        "skill_types": [
+            "Taunters",
+            "Health Boosters",
+            "Heal over Time (HoT)",
+            "Mana Generation Buffers"
         ],
         "source": "Super Elementals",
         "Release date": "2024-04-22",
@@ -43129,7 +50184,7 @@ window.allHeroes =
         "family": "superelemental",
         "image": "https://i.imgur.com/71dNXYj.jpg",
         "costume_id": 0,
-        "originalIndex": 1303
+        "originalIndex": 1304
     },
     {
         "name": "Guardian Elephant",
@@ -43144,6 +50199,14 @@ window.allHeroes =
             "Stack",
             "Undispellable buffs",
             "Undispellable ailments"
+        ],
+        "skill_types": [
+            "Chain & Random Attackers",
+            "Stacking Heroes",
+            "Debuffers (ATK)",
+            "Debuffers (DEF)",
+            "Immunity Providers",
+            "Cleanse Blockers"
         ],
         "source": "Challenge Festival-Guardians",
         "Release date": "2024-02-22",
@@ -43165,7 +50228,7 @@ window.allHeroes =
         "family": "guardiansteltoc",
         "image": "https://i.imgur.com/oi9Vymu.jpg",
         "costume_id": 0,
-        "originalIndex": 1304
+        "originalIndex": 1305
     },
     {
         "name": "Guardian Gazelle",
@@ -43181,6 +50244,15 @@ window.allHeroes =
             "Dance of Spirits 4",
             "Attack Buff 4 while Dancing",
             "Damage Reduction 4 while Dancing"
+        ],
+        "skill_types": [
+            "Buffers (ATK)",
+            "Cleansers",
+            "Damage Reducers",
+            "Dancers",
+            "Heal over Time (HoT)",
+            "Immunity Providers",
+            "Negative Effects On Self Or Allies"
         ],
         "source": "Challenge Festival-Guardians",
         "Release date": "2020-01-08",
@@ -43202,7 +50274,7 @@ window.allHeroes =
         "family": "guardiansteltoc",
         "image": "https://i.imgur.com/B2LpVrC.jpg",
         "costume_id": 0,
-        "originalIndex": 1305
+        "originalIndex": 1306
     },
     {
         "name": "Guardian Gazelle C1",
@@ -43218,6 +50290,15 @@ window.allHeroes =
             "Dance of Spirits 4",
             "Attack Buff 4 while Dancing",
             "Damage Reduction 4 while Dancing"
+        ],
+        "skill_types": [
+            "Buffers (ATK)",
+            "Cleansers",
+            "Damage Reducers",
+            "Dancers",
+            "Healers",
+            "Immunity Providers",
+            "Negative Effects On Self Or Allies"
         ],
         "source": "Challenge Festival-Guardians",
         "Release date": "2023-01-26",
@@ -43239,7 +50320,7 @@ window.allHeroes =
         "family": "guardiansteltoc",
         "image": "https://i.imgur.com/E5qL0sl.jpg",
         "costume_id": 1,
-        "originalIndex": 1306
+        "originalIndex": 1307
     },
     {
         "name": "Guardian Owl",
@@ -43253,6 +50334,12 @@ window.allHeroes =
             "Hit All",
             "Self Defense Buff",
             "Self HoT"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-5)",
+            "Buffers (DEF)",
+            "Extra Damage Dealers",
+            "Heal over Time (HoT)"
         ],
         "source": "Challenge Festival-Guardians",
         "Release date": "2017-01-01",
@@ -43271,7 +50358,7 @@ window.allHeroes =
         "family": "guardiansteltoc",
         "image": "https://i.imgur.com/XO3HIxy.jpg",
         "costume_id": 0,
-        "originalIndex": 1307
+        "originalIndex": 1308
     },
     {
         "name": "Guinevere",
@@ -43285,6 +50372,11 @@ window.allHeroes =
             "Mana Reduction All",
             "HoT All",
             "Elemental Defense Buff All"
+        ],
+        "skill_types": [
+            "Buffers (DEF)",
+            "Heal over Time (HoT)",
+            "Mana Reducers or Blockers"
         ],
         "source": "Challenge Festival-Avalon",
         "Release date": "2017-01-01",
@@ -43302,7 +50394,7 @@ window.allHeroes =
         "family": "avalon",
         "image": "https://i.imgur.com/dYjW9Xa.jpg",
         "costume_id": 0,
-        "originalIndex": 1308
+        "originalIndex": 1309
     },
     {
         "name": "Guinevere C1",
@@ -43317,6 +50409,11 @@ window.allHeroes =
             "Healer All",
             "Elemental Reflect All",
             "Elemental Counterattack All"
+        ],
+        "skill_types": [
+            "Healers",
+            "Mana Reducers or Blockers",
+            "Reflectors"
         ],
         "source": "Challenge Festival-Avalon",
         "Release date": "2023-04-20",
@@ -43334,7 +50431,7 @@ window.allHeroes =
         "family": "avalon",
         "image": "https://i.imgur.com/IeQY7xx.jpg",
         "costume_id": 1,
-        "originalIndex": 1309
+        "originalIndex": 1310
     },
     {
         "name": "Gwynn",
@@ -43348,6 +50445,12 @@ window.allHeroes =
             "Hit All",
             "DoT All",
             "Increased DoT damage"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-5)",
+            "Minions Counters",
+            "DoT Attackers",
+            "Extra Damage Dealers"
         ],
         "source": "Covenant Summon",
         "Release date": "2024-07-12",
@@ -43369,7 +50472,7 @@ window.allHeroes =
         "family": "construct",
         "image": "https://i.imgur.com/94OEbs6.jpg",
         "costume_id": 0,
-        "originalIndex": 1310
+        "originalIndex": 1311
     },
     {
         "name": "Hachiko",
@@ -43383,6 +50486,11 @@ window.allHeroes =
             "Hit all",
             "Counterattack",
             "Crit Buff"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-5)",
+            "Buffers (ATK)",
+            "Counterattackers"
         ],
         "source": "Alliance-Pets",
         "Release date": "2022-11-03",
@@ -43403,7 +50511,7 @@ window.allHeroes =
         "family": "pets",
         "image": "https://i.imgur.com/SMSyQXB.jpg",
         "costume_id": 0,
-        "originalIndex": 1311
+        "originalIndex": 1312
     },
     {
         "name": "Hanitra",
@@ -43416,6 +50524,11 @@ window.allHeroes =
         "types": [
             "Dodge Buff",
             "Health Boost"
+        ],
+        "skill_types": [
+            "Dodgers",
+            "Health Boosters",
+            "Immunity Providers"
         ],
         "source": "Hero of the Month",
         "Release date": "2021-12-01",
@@ -43436,7 +50549,7 @@ window.allHeroes =
         "family": 2021,
         "image": "https://i.imgur.com/Q6iWdU3.jpg",
         "costume_id": 0,
-        "originalIndex": 1312
+        "originalIndex": 1313
     },
     {
         "name": "Haumri",
@@ -43451,6 +50564,15 @@ window.allHeroes =
             "Hit Random",
             "Safe Dispell 1 Buff All",
             "Wither All"
+        ],
+        "skill_types": [
+            "Dispellers",
+            "Ability Scores Modifiers",
+            "Snipers",
+            "Chain & Random Attackers",
+            "Dispellers",
+            "Minions Counters",
+            "Bypassers"
         ],
         "source": "Astral Summon",
         "Release date": "2025-06-04",
@@ -43473,7 +50595,7 @@ window.allHeroes =
         "family": "astraldwarfs",
         "image": "https://imgur.com/VuxizwX.jpg",
         "costume_id": 0,
-        "originalIndex": 1313
+        "originalIndex": 1314
     },
     {
         "name": "Hilda",
@@ -43487,6 +50609,15 @@ window.allHeroes =
             "Hit 3",
             "DoT 3",
             "Buff immunity 3"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-3)",
+            "Buff Blockers",
+            "DoT Attackers",
+            "Healers (Special)",
+            "Health Boosters",
+            "Damage Reducers",
+            "Immunity Providers"
         ],
         "source": "Challenge-Return to Sanctuary",
         "Release date": "2024-06-13",
@@ -43506,7 +50637,7 @@ window.allHeroes =
         "family": "gargoyle",
         "image": "https://i.imgur.com/Urzke5i.jpg",
         "costume_id": 0,
-        "originalIndex": 1314
+        "originalIndex": 1315
     },
     {
         "name": "Horus",
@@ -43519,6 +50650,10 @@ window.allHeroes =
         "types": [
             "Hit 3",
             "Health reduction"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-3)",
+            "Max Health Reducers"
         ],
         "source": "S5-Dune",
         "Release date": "2022-05-19",
@@ -43537,7 +50672,7 @@ window.allHeroes =
         "family": "sun",
         "image": "https://i.imgur.com/0Yedhet.jpg",
         "costume_id": 0,
-        "originalIndex": 1315
+        "originalIndex": 1316
     },
     {
         "name": "Horus C1",
@@ -43550,6 +50685,10 @@ window.allHeroes =
         "types": [
             "Hit 3",
             "Health reduction"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-3)",
+            "Max Health Reducers"
         ],
         "source": "S5-Dune",
         "Release date": "2024-04-01",
@@ -43570,7 +50709,7 @@ window.allHeroes =
         "family": "sun",
         "image": "https://i.imgur.com/fLHpPl2.jpg",
         "costume_id": 1,
-        "originalIndex": 1316
+        "originalIndex": 1317
     },
     {
         "name": "Iga",
@@ -43583,6 +50722,12 @@ window.allHeroes =
         "types": [
             "Charge",
             "Exploding Fiend Summoner 1/3/All"
+        ],
+        "skill_types": [
+            "Fiends Summoners",
+            "Snipers",
+            "DoT Attackers",
+            "Minions Counters"
         ],
         "source": "Tower-Ninjas",
         "Release date": "2024-08-27",
@@ -43611,7 +50756,7 @@ window.allHeroes =
         "family": "ninja",
         "image": "https://i.imgur.com/y4ft1xP.jpg",
         "costume_id": 0,
-        "originalIndex": 1317
+        "originalIndex": 1318
     },
     {
         "name": "Inari",
@@ -43625,6 +50770,12 @@ window.allHeroes =
             "Hit All",
             "Dodge Buff",
             "Summon on Dodge"
+        ],
+        "skill_types": [
+            "Dodgers",
+            "Mana Raisers",
+            "Minions Summoners",
+            "AoE Attackers (Hit-5)"
         ],
         "source": "S2-Atlantis",
         "Release date": "2017-01-01",
@@ -43642,7 +50793,7 @@ window.allHeroes =
         "family": "sakura",
         "image": "https://i.imgur.com/MjynoiD.jpg",
         "costume_id": 0,
-        "originalIndex": 1318
+        "originalIndex": 1319
     },
     {
         "name": "Inari C1",
@@ -43656,6 +50807,12 @@ window.allHeroes =
             "Hit All",
             "Summoner",
             "Accuracy Debuff"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-5)",
+            "Debuffers (ATK)",
+            "Mana Raisers",
+            "Minions Summoners"
         ],
         "source": "S2-Atlantis",
         "Release date": "2022-05-02",
@@ -43673,7 +50830,7 @@ window.allHeroes =
         "family": "sakura",
         "image": "https://i.imgur.com/Q0YpLSK.jpg",
         "costume_id": 1,
-        "originalIndex": 1319
+        "originalIndex": 1320
     },
     {
         "name": "Ironmaw",
@@ -43687,6 +50844,13 @@ window.allHeroes =
             "Hit 1",
             "Hit Dark",
             "Mana gen debuff"
+        ],
+        "skill_types": [
+            "Extra Damage Dealers",
+            "Mana Reducers or Blockers",
+            "Snipers",
+            "Chain & Random Attackers",
+            "Extra Damage Dealers"
         ],
         "source": "Super Elementals",
         "Release date": "2023-12-04",
@@ -43710,7 +50874,7 @@ window.allHeroes =
         "family": "superelemental",
         "image": "https://i.imgur.com/7BkCCl9.jpg",
         "costume_id": 0,
-        "originalIndex": 1320
+        "originalIndex": 1321
     },
     {
         "name": "Ithar",
@@ -43724,6 +50888,13 @@ window.allHeroes =
             "Buff Stealer",
             "Mana Stealer",
             "Attack Buff"
+        ],
+        "skill_types": [
+            "Buff Stealers",
+            "Buffers (ATK)",
+            "Mana Generation Buffers",
+            "Mana Raisers",
+            "Mana Reducers or Blockers"
         ],
         "source": "Hero of the Month",
         "Release date": "2023-08-01",
@@ -43745,7 +50916,7 @@ window.allHeroes =
         "family": 2023,
         "image": "https://i.imgur.com/DDTIPj2.jpg",
         "costume_id": 0,
-        "originalIndex": 1321
+        "originalIndex": 1322
     },
     {
         "name": "Jana",
@@ -43759,6 +50930,12 @@ window.allHeroes =
             "Hit 2",
             "Defense debuff",
             "Mana generation debuff"
+        ],
+        "skill_types": [
+            "Chain & Random Attackers",
+            "Debuffers (DEF)",
+            "Mana Reducers or Blockers",
+            "Snipers"
         ],
         "source": "Challenge-Carnival of Gods",
         "Release date": "2023-07-13",
@@ -43779,7 +50956,7 @@ window.allHeroes =
         "family": "maskedgod",
         "image": "https://i.imgur.com/4FOeHzK.jpg",
         "costume_id": 0,
-        "originalIndex": 1322
+        "originalIndex": 1323
     },
     {
         "name": "Jasper",
@@ -43793,6 +50970,11 @@ window.allHeroes =
             "Healer",
             "Attack buff",
             "Critical chance buff"
+        ],
+        "skill_types": [
+            "Buffers (ATK)",
+            "Heal over Time (HoT)",
+            "Negative Effects On Self Or Allies"
         ],
         "source": "Monthly Event-Springvale",
         "Release date": "2023-03-27",
@@ -43811,7 +50993,7 @@ window.allHeroes =
         "family": "springvale",
         "image": "https://i.imgur.com/Fqmw2ti.jpg",
         "costume_id": 0,
-        "originalIndex": 1323
+        "originalIndex": 1324
     },
     {
         "name": "Jasper C1",
@@ -43825,6 +51007,11 @@ window.allHeroes =
             "Healer",
             "Attack buff",
             "Critical chance buff"
+        ],
+        "skill_types": [
+            "Heal over Time (HoT)",
+            "Buffers (ATK)",
+            "Negative Effects On Self Or Allies"
         ],
         "source": "Monthly Event-Springvale",
         "Release date": "2024-03-18",
@@ -43843,7 +51030,7 @@ window.allHeroes =
         "family": "springvale",
         "image": "https://i.imgur.com/iHZz8KB.jpg",
         "costume_id": 1,
-        "originalIndex": 1324
+        "originalIndex": 1325
     },
     {
         "name": "Jequn",
@@ -43856,6 +51043,12 @@ window.allHeroes =
         "types": [
             "Hit All",
             "Elemental"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-5)",
+            "Debuffers (ATK)",
+            "Mana Reducers or Blockers",
+            "Debuffers (DEF)"
         ],
         "source": "Super Elementals",
         "Release date": "2022-10-10",
@@ -43881,7 +51074,7 @@ window.allHeroes =
         "family": "superelemental",
         "image": "https://i.imgur.com/sJ0rROO.jpg",
         "costume_id": 0,
-        "originalIndex": 1325
+        "originalIndex": 1326
     },
     {
         "name": "Jequn C1",
@@ -43894,6 +51087,12 @@ window.allHeroes =
         "types": [
             "Hit All",
             "Elemental"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-5)",
+            "Debuffers (ATK)",
+            "Debuffers (DEF)",
+            "Mana Reducers or Blockers"
         ],
         "source": "Super Elementals",
         "Release date": "2025-06-20",
@@ -43919,7 +51118,7 @@ window.allHeroes =
         "family": "superelemental",
         "image": "https://imgur.com/bIp33Sf.jpg",
         "costume_id": 1,
-        "originalIndex": 1326
+        "originalIndex": 1327
     },
     {
         "name": "Joon",
@@ -43932,6 +51131,10 @@ window.allHeroes =
         "types": [
             "Hit 1",
             "Blind 1"
+        ],
+        "skill_types": [
+            "Debuffers (ATK)",
+            "Snipers"
         ],
         "source": "S1-Classic",
         "Release date": "2017-01-01",
@@ -43948,7 +51151,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/d5mevmf.jpg",
         "costume_id": 0,
-        "originalIndex": 1327
+        "originalIndex": 1328
     },
     {
         "name": "Joon C1",
@@ -43961,6 +51164,10 @@ window.allHeroes =
         "types": [
             "Hit 1",
             "Blind 1"
+        ],
+        "skill_types": [
+            "Debuffers (ATK)",
+            "Snipers"
         ],
         "source": "S1-Classic",
         "Release date": "2020-01-01",
@@ -43977,7 +51184,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/YXbYHIl.jpg",
         "costume_id": 1,
-        "originalIndex": 1328
+        "originalIndex": 1329
     },
     {
         "name": "Joon C2",
@@ -43991,6 +51198,11 @@ window.allHeroes =
             "Hit 3",
             "Dot 3",
             "Blind 3"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-3)",
+            "Debuffers (ATK)",
+            "DoT Attackers"
         ],
         "source": "S1-Classic",
         "Release date": "2022-12-26",
@@ -44008,7 +51220,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/rJxyTcK.jpg",
         "costume_id": 2,
-        "originalIndex": 1329
+        "originalIndex": 1330
     },
     {
         "name": "Joon Toon",
@@ -44021,6 +51233,11 @@ window.allHeroes =
         "types": [
             "Hit 1",
             "Blind 1"
+        ],
+        "skill_types": [
+            "Debuffers (ATK)",
+            "Extra Damage Dealers",
+            "Snipers"
         ],
         "source": "S1-Classic",
         "Release date": "2024-02-12",
@@ -44040,7 +51257,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/6UDBHvu.jpg",
         "costume_id": 3,
-        "originalIndex": 1330
+        "originalIndex": 1331
     },
     {
         "name": "Joon Glass",
@@ -44054,6 +51271,11 @@ window.allHeroes =
             "Hit 1",
             "Bypass",
             "Blind 1"
+        ],
+        "skill_types": [
+            "Bypassers",
+            "Debuffers (ATK)",
+            "Snipers"
         ],
         "source": "S1-Classic",
         "Release date": "2025-04-08",
@@ -44073,7 +51295,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://imgur.com/7d9tXzA.jpg",
         "costume_id": 4,
-        "originalIndex": 1331
+        "originalIndex": 1332
     },
     {
         "name": "Jove",
@@ -44087,6 +51309,11 @@ window.allHeroes =
             "Hit all",
             "Healing Debuff",
             "Mana Debuff"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-5)",
+            "Healing Reducers",
+            "Mana Reducers or Blockers"
         ],
         "source": "Challenge-Carnival of Gods",
         "Release date": "2022-11-22",
@@ -44106,7 +51333,7 @@ window.allHeroes =
         "family": "maskedgod",
         "image": "https://i.imgur.com/YFCeTvj.jpg",
         "costume_id": 0,
-        "originalIndex": 1332
+        "originalIndex": 1333
     },
     {
         "name": "Justice",
@@ -44119,6 +51346,10 @@ window.allHeroes =
         "types": [
             "Hit All",
             "Blind"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-5)",
+            "Debuffers (ATK)"
         ],
         "source": "S1-Classic",
         "Release date": "2017-01-01",
@@ -44136,7 +51367,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/nIFbFrG.jpg",
         "costume_id": 0,
-        "originalIndex": 1333
+        "originalIndex": 1334
     },
     {
         "name": "Justice C1",
@@ -44149,6 +51380,11 @@ window.allHeroes =
         "types": [
             "Hit all",
             "Self Mana generation buff"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-5)",
+            "Extra Damage Dealers",
+            "Mana Generation Buffers"
         ],
         "source": "S1-Classic",
         "Release date": "2021-01-18",
@@ -44166,7 +51402,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/KCL7Y0s.jpg",
         "costume_id": 1,
-        "originalIndex": 1334
+        "originalIndex": 1335
     },
     {
         "name": "Justice C2",
@@ -44179,6 +51415,11 @@ window.allHeroes =
         "types": [
             "Hit All",
             "Blind"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-5)",
+            "Debuffers (ATK)",
+            "Extra Damage Dealers"
         ],
         "source": "S1-Classic",
         "Release date": "2023-02-20",
@@ -44196,7 +51437,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/feWdynO.jpg",
         "costume_id": 2,
-        "originalIndex": 1335
+        "originalIndex": 1336
     },
     {
         "name": "Justice Toon",
@@ -44209,6 +51450,11 @@ window.allHeroes =
         "types": [
             "Hit All",
             "Blind"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-5)",
+            "Debuffers (ATK)",
+            "Extra Damage Dealers"
         ],
         "source": "S1-Classic",
         "Release date": "2024-06-28",
@@ -44228,7 +51474,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/ChEEEeb.jpg",
         "costume_id": 3,
-        "originalIndex": 1336
+        "originalIndex": 1337
     },
     {
         "name": "Kara",
@@ -44241,6 +51487,11 @@ window.allHeroes =
         "types": [
             "Taunt",
             "Attack Buff"
+        ],
+        "skill_types": [
+            "Buffers (ATK)",
+            "Buffers (DEF)",
+            "Taunters"
         ],
         "source": "Hero of the Month",
         "Release date": "2022-05-01",
@@ -44262,7 +51513,7 @@ window.allHeroes =
         "family": 2022,
         "image": "https://i.imgur.com/ltyTaFe.jpg",
         "costume_id": 0,
-        "originalIndex": 1337
+        "originalIndex": 1338
     },
     {
         "name": "Kullervo",
@@ -44276,6 +51527,10 @@ window.allHeroes =
             "Hit 1",
             "Bounce",
             "Mindless Attack"
+        ],
+        "skill_types": [
+            "Mindless Attack & Mindless Heal",
+            "Chain & Random Attackers"
         ],
         "source": "Monthly Event-Kalevala",
         "Release date": "2022-06-20",
@@ -44295,7 +51550,7 @@ window.allHeroes =
         "family": "kalevala",
         "image": "https://i.imgur.com/tmvOfKK.jpg",
         "costume_id": 0,
-        "originalIndex": 1338
+        "originalIndex": 1339
     },
     {
         "name": "Kullervo C1",
@@ -44309,6 +51564,10 @@ window.allHeroes =
             "Hit 1",
             "Bounce",
             "Mindless Attack"
+        ],
+        "skill_types": [
+            "Chain & Random Attackers",
+            "Mindless Attack & Mindless Heal"
         ],
         "source": "Monthly Event-Kalevala",
         "Release date": "2023-08-07",
@@ -44328,7 +51587,7 @@ window.allHeroes =
         "family": "kalevala",
         "image": "https://i.imgur.com/llU8XwL.jpg",
         "costume_id": 1,
-        "originalIndex": 1339
+        "originalIndex": 1340
     },
     {
         "name": "Kushanku",
@@ -44342,6 +51601,12 @@ window.allHeroes =
             "Charger",
             "Hit 1",
             "Mindless attack"
+        ],
+        "skill_types": [
+            "Damage Reducers",
+            "Ghost Form & Hiding",
+            "Mindless Attack & Mindless Heal",
+            "Snipers"
         ],
         "source": "Tower-Ninjas",
         "Release date": "2023-05-31",
@@ -44375,7 +51640,7 @@ window.allHeroes =
         "family": "ninja",
         "image": "https://i.imgur.com/4sSfY3A.jpg",
         "costume_id": 0,
-        "originalIndex": 1340
+        "originalIndex": 1341
     },
     {
         "name": "Laohu",
@@ -44388,6 +51653,11 @@ window.allHeroes =
         "types": [
             "Hit 1",
             "Health Boost"
+        ],
+        "skill_types": [
+            "Health Boosters",
+            "Minions Counters",
+            "Snipers"
         ],
         "source": "Monthly Event-Lunar Year",
         "Release date": "2023-01-19",
@@ -44406,7 +51676,7 @@ window.allHeroes =
         "family": "lunaryear",
         "image": "https://i.imgur.com/3mERqj0.jpg",
         "costume_id": 0,
-        "originalIndex": 1341
+        "originalIndex": 1342
     },
     {
         "name": "Lazara",
@@ -44421,6 +51691,12 @@ window.allHeroes =
             "Hit All",
             "Healing Decrease",
             "Cleanse Block"
+        ],
+        "skill_types": [
+            "Cleansers",
+            "AoE Attackers (Hit-5)",
+            "Healing Reducers",
+            "Cleanse Blockers"
         ],
         "source": "Myth Summon",
         "Release date": "2024-03-08",
@@ -44443,7 +51719,7 @@ window.allHeroes =
         "family": "champions",
         "image": "https://i.imgur.com/mxOSRGe.jpg",
         "costume_id": 0,
-        "originalIndex": 1342
+        "originalIndex": 1343
     },
     {
         "name": "Lemonwood",
@@ -44456,6 +51732,14 @@ window.allHeroes =
         "types": [
             "Hit 1",
             "Mana Reduction"
+        ],
+        "skill_types": [
+            "Damage Sharers",
+            "Snipers",
+            "Mana Reducers or Blockers",
+            "Chain & Random Attackers",
+            "Bypassers",
+            "Damage Sharers"
         ],
         "source": "Astral Summon",
         "Release date": "2024-03-07",
@@ -44477,7 +51761,7 @@ window.allHeroes =
         "family": "astralelves",
         "image": "https://i.imgur.com/P0rxyPZ.jpg",
         "costume_id": 0,
-        "originalIndex": 1343
+        "originalIndex": 1344
     },
     {
         "name": "Leonidas",
@@ -44491,6 +51775,11 @@ window.allHeroes =
             "Hit 1",
             "Mana Reduction",
             "Self Heal"
+        ],
+        "skill_types": [
+            "Healers (Special)",
+            "Mana Reducers or Blockers",
+            "Snipers"
         ],
         "source": "S1-Classic",
         "Release date": "2017-01-01",
@@ -44508,7 +51797,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/SPyWzYD.jpg",
         "costume_id": 0,
-        "originalIndex": 1344
+        "originalIndex": 1345
     },
     {
         "name": "Leonidas C1",
@@ -44520,6 +51809,11 @@ window.allHeroes =
         "skill": "Spartan Charge",
         "types": [
             "Hit 3"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-3)",
+            "Debuffers (ATK)",
+            "Debuffers (DEF)"
         ],
         "source": "S1-Classic",
         "Release date": "2021-01-18",
@@ -44537,7 +51831,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/c7cvRg8.jpg",
         "costume_id": 1,
-        "originalIndex": 1345
+        "originalIndex": 1346
     },
     {
         "name": "Leonidas C2",
@@ -44551,6 +51845,11 @@ window.allHeroes =
             "Hit All",
             "Mana Reduction",
             "Defense Debuff"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-5)",
+            "Mana Reducers or Blockers",
+            "Debuffers (DEF)"
         ],
         "source": "S1-Classic",
         "Release date": "2022-12-26",
@@ -44568,7 +51867,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/6haP2Yz.jpg",
         "costume_id": 2,
-        "originalIndex": 1346
+        "originalIndex": 1347
     },
     {
         "name": "Leonidas Toon",
@@ -44582,6 +51881,12 @@ window.allHeroes =
             "Hit 1",
             "Mana reducer",
             "Self heal"
+        ],
+        "skill_types": [
+            "Extra Damage Dealers",
+            "Healers (Special)",
+            "Mana Reducers or Blockers",
+            "Snipers"
         ],
         "source": "S1-Classic",
         "Release date": "2023-12-25",
@@ -44602,7 +51907,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/PKsAK4b.jpg",
         "costume_id": 3,
-        "originalIndex": 1347
+        "originalIndex": 1348
     },
     {
         "name": "Leonidas Glass",
@@ -44617,6 +51922,12 @@ window.allHeroes =
             "Bypass",
             "Mana reducer 1",
             "Self Heal"
+        ],
+        "skill_types": [
+            "Bypassers",
+            "Healers (Special)",
+            "Mana Reducers or Blockers",
+            "Snipers"
         ],
         "source": "S1-Classic",
         "Release date": "2025-02-10",
@@ -44637,7 +51948,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/7lvHaTO.jpg",
         "costume_id": 4,
-        "originalIndex": 1348
+        "originalIndex": 1349
     },
     {
         "name": "Livia",
@@ -44653,6 +51964,12 @@ window.allHeroes =
             "HoT 3",
             "Reflect Ailments 3",
             "Reflect Stacks 3"
+        ],
+        "skill_types": [
+            "Cleansers",
+            "Damage Reducers",
+            "Heal over Time (HoT)",
+            "Reflectors"
         ],
         "source": "Tower-Owls",
         "Release date": "2024-02-14",
@@ -44673,7 +51990,7 @@ window.allHeroes =
         "family": "owl",
         "image": "https://i.imgur.com/JTBt0dY.jpg",
         "costume_id": 0,
-        "originalIndex": 1349
+        "originalIndex": 1350
     },
     {
         "name": "Malin",
@@ -44688,6 +52005,13 @@ window.allHeroes =
             "DoT all",
             "Healing Debuff",
             "Accuracy Debuff"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-5)",
+            "Debuffers (ATK)",
+            "DoT Attackers",
+            "Extra Damage Dealers",
+            "Healing Reducers"
         ],
         "source": "Covenant Summon",
         "Release date": "2022-08-25",
@@ -44710,7 +52034,7 @@ window.allHeroes =
         "family": "plainshunter",
         "image": "https://i.imgur.com/7OmJaIC.jpg",
         "costume_id": 0,
-        "originalIndex": 1350
+        "originalIndex": 1351
     },
     {
         "name": "Malosi",
@@ -44723,6 +52047,11 @@ window.allHeroes =
         "types": [
             "Hit 1",
             "Status Effect Block"
+        ],
+        "skill_types": [
+            "Buffers (ATK)",
+            "Snipers",
+            "Status Effects Blockers"
         ],
         "source": "Hero of the Month",
         "Release date": "2020-04-01",
@@ -44742,7 +52071,7 @@ window.allHeroes =
         "family": 2020,
         "image": "https://i.imgur.com/ttNHqjc.jpg",
         "costume_id": 0,
-        "originalIndex": 1351
+        "originalIndex": 1352
     },
     {
         "name": "Matilda",
@@ -44755,6 +52084,11 @@ window.allHeroes =
         "types": [
             "Dot All",
             "Fiend Summoner All"
+        ],
+        "skill_types": [
+            "DoT Attackers",
+            "Extra Damage Dealers",
+            "Fiends Summoners"
         ],
         "source": "Monthly Event-Morlovia",
         "Release date": "2022-10-03",
@@ -44777,7 +52111,7 @@ window.allHeroes =
         "family": "morlovia",
         "image": "https://i.imgur.com/Lb4Sdwp.jpg",
         "costume_id": 0,
-        "originalIndex": 1352
+        "originalIndex": 1353
     },
     {
         "name": "May",
@@ -44791,6 +52125,11 @@ window.allHeroes =
             "Growth All",
             "Summoner All",
             "Mana Generation Buff Minion"
+        ],
+        "skill_types": [
+            "Ability Scores Modifiers",
+            "Mana Generation Buffers",
+            "Minions Summoners"
         ],
         "source": "Hero of the Month",
         "Release date": "2025-05-01",
@@ -44812,7 +52151,7 @@ window.allHeroes =
         "family": 2025,
         "image": "https://imgur.com/KK6zHLN.jpg",
         "costume_id": 0,
-        "originalIndex": 1353
+        "originalIndex": 1354
     },
     {
         "name": "Meg Giry",
@@ -44827,6 +52166,12 @@ window.allHeroes =
             "Cleanser",
             "Force uncleansable ailments",
             "Defense Buff"
+        ],
+        "skill_types": [
+            "Cleansers",
+            "Cleanse Blockers",
+            "Healers",
+            "Buffers (DEF)"
         ],
         "source": "Solstice Summon",
         "Release date": "2024-03-21",
@@ -44848,7 +52193,7 @@ window.allHeroes =
         "family": "opera",
         "image": "https://i.imgur.com/GJH1yAl.jpg",
         "costume_id": 0,
-        "originalIndex": 1354
+        "originalIndex": 1355
     },
     {
         "name": "Melodymuse",
@@ -44861,6 +52206,11 @@ window.allHeroes =
         "types": [
             "Boosts health",
             "Ailmens imunity"
+        ],
+        "skill_types": [
+            "Damage Sharers",
+            "Health Boosters",
+            "Immunity Providers"
         ],
         "source": "Astral Summon",
         "Release date": "2024-09-16",
@@ -44880,7 +52230,7 @@ window.allHeroes =
         "family": "astralelves",
         "image": "https://i.imgur.com/PSc9HJP.jpg",
         "costume_id": 0,
-        "originalIndex": 1355
+        "originalIndex": 1356
     },
     {
         "name": "Meresankh",
@@ -44894,6 +52244,11 @@ window.allHeroes =
             "Hit all",
             "Mana Reduction",
             "Mana Generation Debuff"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-5)",
+            "Mana Reducers or Blockers",
+            "Extra Damage Dealers"
         ],
         "source": "S5-Dune",
         "Release date": "2023-04-13",
@@ -44916,7 +52271,7 @@ window.allHeroes =
         "family": "sun",
         "image": "https://i.imgur.com/PIgKmeD.jpg",
         "costume_id": 0,
-        "originalIndex": 1356
+        "originalIndex": 1357
     },
     {
         "name": "Meresankh C1",
@@ -44930,6 +52285,11 @@ window.allHeroes =
             "Hit all",
             "Mana Reduction",
             "Mana Generation Debuff"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-5)",
+            "Extra Damage Dealers",
+            "Mana Reducers or Blockers"
         ],
         "source": "S5-Dune",
         "Release date": "2024-06-24",
@@ -44954,7 +52314,7 @@ window.allHeroes =
         "family": "sun",
         "image": "https://i.imgur.com/4IURwj4.jpg",
         "costume_id": 1,
-        "originalIndex": 1357
+        "originalIndex": 1358
     },
     {
         "name": "Mica",
@@ -44969,6 +52329,11 @@ window.allHeroes =
             "Ally Damage Share",
             "Defense Buff",
             "Mana Generation Buff"
+        ],
+        "skill_types": [
+            "Buffers (DEF)",
+            "Damage Sharers",
+            "Mana Generation Buffers"
         ],
         "source": "Tower-Ninjas",
         "Release date": "2020-10-13",
@@ -44995,7 +52360,7 @@ window.allHeroes =
         "family": "ninja",
         "image": "https://i.imgur.com/T4WxYxG.jpg",
         "costume_id": 0,
-        "originalIndex": 1358
+        "originalIndex": 1359
     },
     {
         "name": "Moonbell",
@@ -45008,6 +52373,13 @@ window.allHeroes =
         "types": [
             "Summoner",
             "Damage reduction"
+        ],
+        "skill_types": [
+            "Damage Sharers",
+            "Minions Summoners",
+            "Mana Generation Buffers",
+            "Damage Reducers",
+            "Extra Damage Dealers"
         ],
         "source": "Astral Summon",
         "Release date": "2024-07-10",
@@ -45029,7 +52401,7 @@ window.allHeroes =
         "family": "astralelves",
         "image": "https://i.imgur.com/EiBBCez.jpg",
         "costume_id": 0,
-        "originalIndex": 1359
+        "originalIndex": 1360
     },
     {
         "name": "Motega",
@@ -45045,6 +52417,14 @@ window.allHeroes =
             "Damage Increasing Minion Hit",
             "Fiend Summoner All",
             "Accuracy Debuff Fiend"
+        ],
+        "skill_types": [
+            "Debuffers (ATK)",
+            "Extra Damage Dealers",
+            "Fiends Summoners",
+            "Minions Summoners",
+            "DoT Attackers",
+            "Healers"
         ],
         "source": "Tower-Magic",
         "Release date": "2021-09-15",
@@ -45070,7 +52450,7 @@ window.allHeroes =
         "family": "magic",
         "image": "https://i.imgur.com/87toXMW.jpg",
         "costume_id": 0,
-        "originalIndex": 1360
+        "originalIndex": 1361
     },
     {
         "name": "Musashi",
@@ -45083,6 +52463,12 @@ window.allHeroes =
         "types": [
             "Hit 3",
             "Self Heal"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-3)",
+            "Healers (Special)",
+            "Buffers (ATK)",
+            "Buffers (DEF)"
         ],
         "source": "Hero of the Month",
         "Release date": "2017-09-01T00:00:00",
@@ -45100,7 +52486,7 @@ window.allHeroes =
         "family": 2017,
         "image": "https://i.imgur.com/1PxVmlq.jpg",
         "costume_id": 0,
-        "originalIndex": 1361
+        "originalIndex": 1362
     },
     {
         "name": "Musashi C1",
@@ -45113,6 +52499,13 @@ window.allHeroes =
         "types": [
             "Hit 3",
             "Self Heal"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-3)",
+            "Healers (Special)",
+            "Dispellers",
+            "Buffers (ATK)",
+            "Buffers (DEF)"
         ],
         "source": "Hero of the Month",
         "Release date": "2023-10-02",
@@ -45132,7 +52525,7 @@ window.allHeroes =
         "family": 2017,
         "image": "https://i.imgur.com/dt3i5jN.jpg",
         "costume_id": 1,
-        "originalIndex": 1362
+        "originalIndex": 1363
     },
     {
         "name": "Neith",
@@ -45146,6 +52539,12 @@ window.allHeroes =
             "Hit All",
             "Mana Reduction",
             "Blind"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-5)",
+            "Debuffers (ATK)",
+            "Mana Generation Buffers",
+            "Mana Reducers or Blockers"
         ],
         "source": "Hero of the Month",
         "Release date": "2019-11-01",
@@ -45166,7 +52565,7 @@ window.allHeroes =
         "family": 2019,
         "image": "https://i.imgur.com/5p5UjK8.jpg",
         "costume_id": 0,
-        "originalIndex": 1363
+        "originalIndex": 1364
     },
     {
         "name": "Nemesis",
@@ -45178,6 +52577,11 @@ window.allHeroes =
         "skill": "Day of Reckoning",
         "types": [
             "Charge"
+        ],
+        "skill_types": [
+            "Buff Blockers",
+            "Mana Reducers or Blockers",
+            "Snipers"
         ],
         "source": "Tower-Styx",
         "Release date": "2022-09-21",
@@ -45206,7 +52610,7 @@ window.allHeroes =
         "family": "styx",
         "image": "https://i.imgur.com/erwVVF0.jpg",
         "costume_id": 0,
-        "originalIndex": 1364
+        "originalIndex": 1365
     },
     {
         "name": "Nithgaest",
@@ -45220,6 +52624,11 @@ window.allHeroes =
             "Hit 3",
             "Counterattack 3",
             "Burning Touch"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-3)",
+            "Counterattackers",
+            "DoT Attackers"
         ],
         "source": "Challenge-Beowulf",
         "Release date": "2025-05-18",
@@ -45241,7 +52650,7 @@ window.allHeroes =
         "family": "beowulf",
         "image": "https://imgur.com/25R91G2.jpg",
         "costume_id": 0,
-        "originalIndex": 1365
+        "originalIndex": 1366
     },
     {
         "name": "Norns",
@@ -45253,6 +52662,9 @@ window.allHeroes =
         "skill": "Twist of Fate",
         "types": [
             "Hit 3"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-3)"
         ],
         "source": "S3-Valhalla",
         "Release date": "2020-03-26",
@@ -45269,7 +52681,7 @@ window.allHeroes =
         "family": "vanaheim",
         "image": "https://i.imgur.com/evikfGP.jpg",
         "costume_id": 0,
-        "originalIndex": 1366
+        "originalIndex": 1367
     },
     {
         "name": "Norns C1",
@@ -45281,6 +52693,9 @@ window.allHeroes =
         "skill": "Wrath of Fate",
         "types": [
             "Hit 3"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-3)"
         ],
         "source": "S3-Valhalla",
         "Release date": "2023-08-28",
@@ -45297,7 +52712,7 @@ window.allHeroes =
         "family": "vanaheim",
         "image": "https://i.imgur.com/aH5vllh.jpg",
         "costume_id": 1,
-        "originalIndex": 1367
+        "originalIndex": 1368
     },
     {
         "name": "Odin",
@@ -45310,6 +52725,11 @@ window.allHeroes =
         "types": [
             "Hit All",
             "Mana Generation Buff"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-5)",
+            "Mana Generation Buffers",
+            "Extra Damage Dealers"
         ],
         "source": "S3-Valhalla",
         "Release date": "2020-11-26",
@@ -45327,7 +52747,7 @@ window.allHeroes =
         "family": "midgard",
         "image": "https://i.imgur.com/WpdZnYI.jpg",
         "costume_id": 0,
-        "originalIndex": 1368
+        "originalIndex": 1369
     },
     {
         "name": "Odin C1",
@@ -45340,6 +52760,11 @@ window.allHeroes =
         "types": [
             "Hit All",
             "Mana Generation Buff"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-5)",
+            "Mana Generation Buffers",
+            "Extra Damage Dealers"
         ],
         "source": "S3-Valhalla",
         "Release date": "2023-03-13",
@@ -45357,7 +52782,7 @@ window.allHeroes =
         "family": "midgard",
         "image": "https://i.imgur.com/guLxDJt.jpg",
         "costume_id": 1,
-        "originalIndex": 1369
+        "originalIndex": 1370
     },
     {
         "name": "Ogima",
@@ -45371,6 +52796,12 @@ window.allHeroes =
             "Minion Destroyer All",
             "Hit All",
             "Mana Generation Debuff Stack All"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-5)",
+            "Mana Reducers or Blockers",
+            "Minions Counters",
+            "Stacking Heroes"
         ],
         "source": "Challenge Festival-Bards",
         "Release date": "2022-12-01",
@@ -45391,7 +52822,7 @@ window.allHeroes =
         "family": "bard",
         "image": "https://i.imgur.com/8WZ5oVt.jpg",
         "costume_id": 0,
-        "originalIndex": 1370
+        "originalIndex": 1371
     },
     {
         "name": "Onatel",
@@ -45404,6 +52835,12 @@ window.allHeroes =
         "types": [
             "Hit 3",
             "Mana Steal"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-3)",
+            "Mana Raisers",
+            "Mana Reducers or Blockers",
+            "Heal over Time (HoT)"
         ],
         "source": "Hero of the Month",
         "Release date": "2019-01-01",
@@ -45423,7 +52860,7 @@ window.allHeroes =
         "family": 2019,
         "image": "https://i.imgur.com/wCLflfr.jpg",
         "costume_id": 0,
-        "originalIndex": 1371
+        "originalIndex": 1372
     },
     {
         "name": "Papyros",
@@ -45436,6 +52873,11 @@ window.allHeroes =
         "types": [
             "Summoner",
             "Defense Buff"
+        ],
+        "skill_types": [
+            "Buffers (DEF)",
+            "DoT Attackers",
+            "Minions Summoners"
         ],
         "source": "S5-Dune",
         "Release date": "2022-04-21",
@@ -45456,7 +52898,7 @@ window.allHeroes =
         "family": "moon",
         "image": "https://i.imgur.com/cV84mq0.jpg",
         "costume_id": 0,
-        "originalIndex": 1372
+        "originalIndex": 1373
     },
     {
         "name": "Papyros C1",
@@ -45469,6 +52911,13 @@ window.allHeroes =
         "types": [
             "Summoner",
             "Defense Buff"
+        ],
+        "skill_types": [
+            "Buffers (DEF)",
+            "DoT Attackers",
+            "Mana Raisers",
+            "Health Boosters",
+            "Minions Summoners"
         ],
         "source": "S5-Dune",
         "Release date": "2024-10-05",
@@ -45492,7 +52941,7 @@ window.allHeroes =
         "family": "moon",
         "image": "https://i.imgur.com/jWPUwhw.jpg",
         "costume_id": 1,
-        "originalIndex": 1373
+        "originalIndex": 1374
     },
     {
         "name": "Penolite",
@@ -45505,6 +52954,13 @@ window.allHeroes =
         "types": [
             "Hit All",
             "Healing Debuff All"
+        ],
+        "skill_types": [
+            "Fiends Counters",
+            "Healing Reducers",
+            "Minions Counters",
+            "AoE Attackers (Hit-5)",
+            "Damage Reducers"
         ],
         "source": "Black Friday Summon",
         "Release date": "2021-11-24",
@@ -45524,7 +52980,7 @@ window.allHeroes =
         "family": "gargoyle",
         "image": "https://i.imgur.com/ifFiCU7.jpg",
         "costume_id": 0,
-        "originalIndex": 1374
+        "originalIndex": 1375
     },
     {
         "name": "Persa",
@@ -45538,6 +52994,12 @@ window.allHeroes =
             "Buff Stealer",
             "Hit 1",
             "Spreading DoT"
+        ],
+        "skill_types": [
+            "Snipers",
+            "Buff Stealers",
+            "DoT Attackers",
+            "Mana Reducers or Blockers"
         ],
         "source": "S6-S7-Untold Tales",
         "Release date": "2023-10-25",
@@ -45566,7 +53028,7 @@ window.allHeroes =
         "family": "nightmaresofatlantis",
         "image": "https://i.imgur.com/XWgWbVt.jpg",
         "costume_id": 0,
-        "originalIndex": 1375
+        "originalIndex": 1376
     },
     {
         "name": "Persa C1",
@@ -45580,6 +53042,12 @@ window.allHeroes =
             "Buff Stealer",
             "Hit 1",
             "Spreading DoT"
+        ],
+        "skill_types": [
+            "Snipers",
+            "Buff Stealers",
+            "DoT Attackers",
+            "Mana Reducers or Blockers"
         ],
         "source": "S6-S7-Untold Tales",
         "Release date": "2025-01-09",
@@ -45609,7 +53077,7 @@ window.allHeroes =
         "family": "nightmaresofatlantis",
         "image": "https://i.imgur.com/nKfadia.jpg",
         "costume_id": 1,
-        "originalIndex": 1376
+        "originalIndex": 1377
     },
     {
         "name": "Pertinax",
@@ -45622,6 +53090,15 @@ window.allHeroes =
         "types": [
             "Hit 3",
             "Summoner 3"
+        ],
+        "skill_types": [
+            "Extra Damage Dealers",
+            "Cleansers",
+            "Stacking Heroes",
+            "AoE Attackers (Hit-3)",
+            "Minions Summoners",
+            "Dispellers",
+            "Ghost Form & Hiding"
         ],
         "source": "Tower-Owls",
         "Release date": "2025-02-05",
@@ -45643,7 +53120,7 @@ window.allHeroes =
         "family": "owl",
         "image": "https://i.imgur.com/LyzgS9S.jpg",
         "costume_id": 0,
-        "originalIndex": 1377
+        "originalIndex": 1378
     },
     {
         "name": "Philomena",
@@ -45658,7 +53135,13 @@ window.allHeroes =
             "Enhanced Defense Ailment 3",
             "Sleep 3"
         ],
-        "source": "S4-Wilderness",
+        "skill_types": [
+            "AoE Attackers (Hit-3)",
+            "Debuffers (DEF)",
+            "Sleepweavers",
+            "Minions Counters"
+        ],
+        "source": "Wilderness Summon",
         "Release date": "2025-04-18",
         "star": 5,
         "power": 1174,
@@ -45677,7 +53160,7 @@ window.allHeroes =
         "family": "woodlandfaun",
         "image": "https://imgur.com/zZJxSMo.jpg",
         "costume_id": 0,
-        "originalIndex": 1378
+        "originalIndex": 1379
     },
     {
         "name": "Poseidon",
@@ -45690,6 +53173,10 @@ window.allHeroes =
         "types": [
             "Hit 1",
             "Mana Debuff Immunity"
+        ],
+        "skill_types": [
+            "Immunity Providers",
+            "Snipers"
         ],
         "source": "S2-Atlantis",
         "Release date": "2019-02-19",
@@ -45707,7 +53194,7 @@ window.allHeroes =
         "family": "atlantis",
         "image": "https://i.imgur.com/4yAjxl7.jpg",
         "costume_id": 0,
-        "originalIndex": 1379
+        "originalIndex": 1380
     },
     {
         "name": "Poseidon C1",
@@ -45720,6 +53207,10 @@ window.allHeroes =
         "types": [
             "Hit 1",
             "Status Ailments Immunity"
+        ],
+        "skill_types": [
+            "Immunity Providers",
+            "Snipers"
         ],
         "source": "S2-Atlantis",
         "Release date": "2021-11-15",
@@ -45736,7 +53227,7 @@ window.allHeroes =
         "family": "atlantis",
         "image": "https://i.imgur.com/jU6Z8JO.jpg",
         "costume_id": 1,
-        "originalIndex": 1380
+        "originalIndex": 1381
     },
     {
         "name": "Prof. Lidenbrock",
@@ -45750,6 +53241,11 @@ window.allHeroes =
             "Cleanse All",
             "Health Boost",
             "HOT"
+        ],
+        "skill_types": [
+            "Cleansers",
+            "Health Boosters",
+            "Heal over Time (HoT)"
         ],
         "source": "S4-Wilderness",
         "Release date": "2021-03-25",
@@ -45769,7 +53265,7 @@ window.allHeroes =
         "family": "underwild",
         "image": "https://i.imgur.com/1q7ZFV3.jpg",
         "costume_id": 0,
-        "originalIndex": 1381
+        "originalIndex": 1382
     },
     {
         "name": "Prof. Lidenbrock C1",
@@ -45783,6 +53279,11 @@ window.allHeroes =
             "Cleanse All",
             "Health Boost",
             "HOT"
+        ],
+        "skill_types": [
+            "Cleansers",
+            "Health Boosters",
+            "Heal over Time (HoT)"
         ],
         "source": "S4-Wilderness",
         "Release date": "2023-04-27",
@@ -45803,7 +53304,7 @@ window.allHeroes =
         "family": "underwild",
         "image": "https://i.imgur.com/CwQ3ejX.jpg",
         "costume_id": 1,
-        "originalIndex": 1382
+        "originalIndex": 1383
     },
     {
         "name": "Queen Guowang",
@@ -45815,6 +53316,10 @@ window.allHeroes =
         "skill": "The Queen’s Radiance",
         "types": [
             "Hit All"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-5)",
+            "Mana Raisers"
         ],
         "source": "Three Kingdoms Summon",
         "Release date": "2023-02-27",
@@ -45832,7 +53337,7 @@ window.allHeroes =
         "family": "journey",
         "image": "https://i.imgur.com/CNKl3X2.jpg",
         "costume_id": 0,
-        "originalIndex": 1383
+        "originalIndex": 1384
     },
     {
         "name": "Rana",
@@ -45847,6 +53352,12 @@ window.allHeroes =
             "DoT 3",
             "Healing Debuff 3",
             "Self Clean"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-3)",
+            "Cleansers",
+            "DoT Attackers",
+            "Healing Reducers"
         ],
         "source": "Monthly Event-Sand Empire",
         "Release date": "2017-01-01",
@@ -45865,7 +53376,7 @@ window.allHeroes =
         "family": "sand",
         "image": "https://i.imgur.com/XCRwmmP.jpg",
         "costume_id": 0,
-        "originalIndex": 1384
+        "originalIndex": 1385
     },
     {
         "name": "Rana C1",
@@ -45880,6 +53391,12 @@ window.allHeroes =
             "DoT 3",
             "Healing Debuff 3",
             "Cleanser 3"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-3)",
+            "Cleansers",
+            "DoT Attackers",
+            "Healing Reducers"
         ],
         "source": "Monthly Event-Sand Empire",
         "Release date": "2021-06-21",
@@ -45898,7 +53415,7 @@ window.allHeroes =
         "family": "sand",
         "image": "https://i.imgur.com/ETB8w9H.jpg",
         "costume_id": 1,
-        "originalIndex": 1385
+        "originalIndex": 1386
     },
     {
         "name": "Ranvir",
@@ -45911,6 +53428,12 @@ window.allHeroes =
         "types": [
             "Hit 1",
             "Titan Attack Buff"
+        ],
+        "skill_types": [
+            "Buffers (ATK)",
+            "Negative Effects On Self Or Allies",
+            "Snipers",
+            "Buffers (DEF)"
         ],
         "source": "Hero of the Month",
         "Release date": "2019-06-01",
@@ -45930,7 +53453,7 @@ window.allHeroes =
         "family": 2019,
         "image": "https://i.imgur.com/pCzfhdF.jpg",
         "costume_id": 0,
-        "originalIndex": 1386
+        "originalIndex": 1387
     },
     {
         "name": "Rhys",
@@ -45945,6 +53468,14 @@ window.allHeroes =
             "Board Alterer",
             "Attack Buff All",
             "Cleanse All"
+        ],
+        "skill_types": [
+            "Board Alterers",
+            "Mana Generation Buffers",
+            "Mana Reducers or Blockers",
+            "Buffers (ATK)",
+            "Cleansers",
+            "Health Boosters"
         ],
         "source": "Challenge Festival-Bards",
         "Release date": "2022-08-11",
@@ -45965,7 +53496,7 @@ window.allHeroes =
         "family": "bard",
         "image": "https://i.imgur.com/CuNew0r.jpg",
         "costume_id": 0,
-        "originalIndex": 1387
+        "originalIndex": 1388
     },
     {
         "name": "Roc",
@@ -45979,6 +53510,11 @@ window.allHeroes =
             "Dot All",
             "Healing Debuff All",
             "Cleanser All"
+        ],
+        "skill_types": [
+            "Cleansers",
+            "DoT Attackers",
+            "Healing Reducers"
         ],
         "source": "Monthly Event-Sand Empire",
         "Release date": "2020-06-29",
@@ -45996,7 +53532,7 @@ window.allHeroes =
         "family": "sand",
         "image": "https://i.imgur.com/jRrOk7n.jpg",
         "costume_id": 0,
-        "originalIndex": 1388
+        "originalIndex": 1389
     },
     {
         "name": "Roc C1",
@@ -46010,6 +53546,11 @@ window.allHeroes =
             "Dot All",
             "Defense Debuff All",
             "Dispeller All"
+        ],
+        "skill_types": [
+            "Debuffers (DEF)",
+            "Dispellers",
+            "DoT Attackers"
         ],
         "source": "Monthly Event-Sand Empire",
         "Release date": "2022-05-16",
@@ -46027,7 +53568,7 @@ window.allHeroes =
         "family": "sand",
         "image": "https://i.imgur.com/wRsoDQK.jpg",
         "costume_id": 1,
-        "originalIndex": 1389
+        "originalIndex": 1390
     },
     {
         "name": "Rosalind",
@@ -46041,6 +53582,13 @@ window.allHeroes =
             "Healer",
             "Stack",
             "Guard Mega Minion"
+        ],
+        "skill_types": [
+            "Healers",
+            "Stacking Heroes",
+            "Damage Reducers",
+            "Mega Minions Summoners",
+            "Cleansers"
         ],
         "source": "Goblin Summon",
         "Release date": "2024-10-27",
@@ -46062,7 +53610,7 @@ window.allHeroes =
         "family": "garrisonguard",
         "image": "https://i.imgur.com/founMKj.jpg",
         "costume_id": 0,
-        "originalIndex": 1390
+        "originalIndex": 1391
     },
     {
         "name": "Ruan Xiaoqi",
@@ -46077,6 +53625,11 @@ window.allHeroes =
             "Dispeller 2 buffs All",
             "Hit All",
             "DoT 1"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-5)",
+            "Dispellers",
+            "DoT Attackers"
         ],
         "source": "Three Kingdoms Summon",
         "Release date": "2025-05-22",
@@ -46102,7 +53655,7 @@ window.allHeroes =
         "family": "outlaws",
         "image": "https://imgur.com/YX2qCp0.jpg",
         "costume_id": 0,
-        "originalIndex": 1391
+        "originalIndex": 1392
     },
     {
         "name": "Salniss",
@@ -46117,6 +53670,13 @@ window.allHeroes =
             "Silence 1",
             "Hit Random 1",
             "Increased Received Damage 1"
+        ],
+        "skill_types": [
+            "Bypassers",
+            "Chain & Random Attackers",
+            "Minions Counters",
+            "Silencers",
+            "Extra Damage Dealers"
         ],
         "source": "Astral Summon",
         "Release date": "2024-12-22",
@@ -46139,7 +53699,7 @@ window.allHeroes =
         "family": "astraldwarfs",
         "image": "https://i.imgur.com/iWjHJHA.jpg",
         "costume_id": 0,
-        "originalIndex": 1392
+        "originalIndex": 1393
     },
     {
         "name": "Satinpimenter",
@@ -46154,6 +53714,14 @@ window.allHeroes =
             "Hit 3",
             "DoT 3",
             "Self HoT"
+        ],
+        "skill_types": [
+            "Dispellers",
+            "AoE Attackers (Hit-3)",
+            "DoT Attackers",
+            "Heal over Time (HoT)",
+            "Dodgers",
+            "Minions Counters"
         ],
         "source": "Alliance-Moths",
         "Release date": "2025-01-23",
@@ -46174,7 +53742,7 @@ window.allHeroes =
         "family": "moth",
         "image": "https://i.imgur.com/S7h6aSM.jpg",
         "costume_id": 0,
-        "originalIndex": 1393
+        "originalIndex": 1394
     },
     {
         "name": "Scrollbeast",
@@ -46187,6 +53755,12 @@ window.allHeroes =
         "types": [
             "Hit all",
             "White Boar Mega Minion"
+        ],
+        "skill_types": [
+            "Mega Minions Summoners",
+            "AoE Attackers (Hit-5)",
+            "Ability Scores Modifiers",
+            "Counterattackers"
         ],
         "source": "Goblin Summon",
         "Release date": "2024-04-15",
@@ -46209,7 +53783,7 @@ window.allHeroes =
         "family": "goblin",
         "image": "https://i.imgur.com/oI9QMY8.jpg",
         "costume_id": 0,
-        "originalIndex": 1394
+        "originalIndex": 1395
     },
     {
         "name": "Shaal",
@@ -46223,6 +53797,13 @@ window.allHeroes =
             "Hit all",
             "Healer",
             "Cleanser"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-5)",
+            "Cleansers",
+            "Healers (Special)",
+            "Damage Reducers",
+            "Health Boosters"
         ],
         "source": "Covenant Summon",
         "Release date": "2023-12-08",
@@ -46244,7 +53825,7 @@ window.allHeroes =
         "family": "construct",
         "image": "https://i.imgur.com/elVlVhm.jpg",
         "costume_id": 0,
-        "originalIndex": 1395
+        "originalIndex": 1396
     },
     {
         "name": "Shimmerscale",
@@ -46257,6 +53838,11 @@ window.allHeroes =
         "types": [
             "Hit 3",
             "Sword Guard Mega Minion"
+        ],
+        "skill_types": [
+            "Mega Minions Summoners",
+            "AoE Attackers (Hit-3)",
+            "DoT Attackers"
         ],
         "source": "Goblin Summon",
         "Release date": "2024-04-15",
@@ -46277,7 +53863,7 @@ window.allHeroes =
         "family": "garrisonguard",
         "image": "https://i.imgur.com/5LBrUnk.jpg",
         "costume_id": 0,
-        "originalIndex": 1396
+        "originalIndex": 1397
     },
     {
         "name": "Sif",
@@ -46290,6 +53876,12 @@ window.allHeroes =
         "types": [
             "Counterattack",
             "Mana Generation Buff"
+        ],
+        "skill_types": [
+            "Buffers (DEF)",
+            "Counterattackers",
+            "Damage Reducers",
+            "Mana Generation Buffers"
         ],
         "source": "S3-Valhalla",
         "Release date": "2020-02-27",
@@ -46307,7 +53899,7 @@ window.allHeroes =
         "family": "midgard",
         "image": "https://i.imgur.com/IEuL57g.jpg",
         "costume_id": 0,
-        "originalIndex": 1397
+        "originalIndex": 1398
     },
     {
         "name": "Sif C1",
@@ -46321,6 +53913,12 @@ window.allHeroes =
             "Mana boost",
             "Counterattack",
             "Damage Reduction"
+        ],
+        "skill_types": [
+            "Buffers (DEF)",
+            "Counterattackers",
+            "Damage Reducers",
+            "Mana Raisers"
         ],
         "source": "S3-Valhalla",
         "Release date": "2022-08-29",
@@ -46338,7 +53936,7 @@ window.allHeroes =
         "family": "midgard",
         "image": "https://i.imgur.com/L0IBEq2.jpg",
         "costume_id": 1,
-        "originalIndex": 1398
+        "originalIndex": 1399
     },
     {
         "name": "Silverpaw",
@@ -46352,6 +53950,11 @@ window.allHeroes =
             "Steals Mega/Minions",
             "Lasting Greed 1",
             "DoT All"
+        ],
+        "skill_types": [
+            "DoT Attackers",
+            "Minions Counters",
+            "Status Effects Blockers"
         ],
         "source": "Covenant Summon",
         "Release date": "2025-01-11",
@@ -46371,7 +53974,7 @@ window.allHeroes =
         "family": "fox",
         "image": "https://i.imgur.com/Cj9sBht.jpg",
         "costume_id": 0,
-        "originalIndex": 1399
+        "originalIndex": 1400
     },
     {
         "name": "Sir Roostley",
@@ -46384,6 +53987,10 @@ window.allHeroes =
         "types": [
             "Hit 1",
             "Chain Hit"
+        ],
+        "skill_types": [
+            "Chain & Random Attackers",
+            "Negative Effects On Self Or Allies"
         ],
         "source": "Monthly Event-Springvale",
         "Release date": "2020-04-06",
@@ -46401,7 +54008,7 @@ window.allHeroes =
         "family": "springvale",
         "image": "https://i.imgur.com/YbdZndT.jpg",
         "costume_id": 0,
-        "originalIndex": 1400
+        "originalIndex": 1401
     },
     {
         "name": "Sludgus",
@@ -46414,6 +54021,10 @@ window.allHeroes =
         "types": [
             "Healer",
             "Dance of the Slimy"
+        ],
+        "skill_types": [
+            "Dancers",
+            "Healers"
         ],
         "source": "Super Elementals",
         "Release date": "2024-09-04",
@@ -46436,7 +54047,7 @@ window.allHeroes =
         "family": "slime",
         "image": "https://i.imgur.com/IpdLyXH.jpg",
         "costume_id": 0,
-        "originalIndex": 1401
+        "originalIndex": 1402
     },
     {
         "name": "Tang Sanzang",
@@ -46450,6 +54061,11 @@ window.allHeroes =
             "Healer",
             "Cleanser",
             "Defense Buff"
+        ],
+        "skill_types": [
+            "Health Boosters",
+            "Cleansers",
+            "Buffers (DEF)"
         ],
         "source": "Three Kingdoms Summon",
         "Release date": "2024-04-02",
@@ -46470,7 +54086,7 @@ window.allHeroes =
         "family": "kingdom",
         "image": "https://i.imgur.com/y2EYio1.jpg",
         "costume_id": 0,
-        "originalIndex": 1402
+        "originalIndex": 1403
     },
     {
         "name": "Thor",
@@ -46483,6 +54099,11 @@ window.allHeroes =
         "types": [
             "Hit All",
             "Blind"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-3)",
+            "AoE Attackers (Hit-5)",
+            "Debuffers (ATK)"
         ],
         "source": "S3-Valhalla",
         "Release date": "2021-01-28",
@@ -46507,7 +54128,7 @@ window.allHeroes =
         "family": "midgard",
         "image": "https://i.imgur.com/Cls9o26.jpg",
         "costume_id": 0,
-        "originalIndex": 1403
+        "originalIndex": 1404
     },
     {
         "name": "Thor C1",
@@ -46520,6 +54141,10 @@ window.allHeroes =
         "types": [
             "Hit All",
             "Blind"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-5)",
+            "Debuffers (ATK)"
         ],
         "source": "S3-Valhalla",
         "Release date": "2022-12-19",
@@ -46544,7 +54169,7 @@ window.allHeroes =
         "family": "midgard",
         "image": "https://i.imgur.com/LYyDsUh.jpg",
         "costume_id": 1,
-        "originalIndex": 1404
+        "originalIndex": 1405
     },
     {
         "name": "Thunderclap",
@@ -46559,6 +54184,12 @@ window.allHeroes =
             "Self Boosted HoT",
             "Delayed Hit All",
             "Self Attack Stack"
+        ],
+        "skill_types": [
+            "DoT Attackers",
+            "Health Boosters",
+            "Stacking Heroes",
+            "Taunters"
         ],
         "source": "Monthly Event-Kalevala",
         "Release date": "2023-05-06",
@@ -46580,7 +54211,7 @@ window.allHeroes =
         "family": "junglehunter",
         "image": "https://i.imgur.com/8fPiMj3.jpg",
         "costume_id": 0,
-        "originalIndex": 1405
+        "originalIndex": 1406
     },
     {
         "name": "Thura",
@@ -46594,6 +54225,12 @@ window.allHeroes =
             "Hit 3",
             "Bypass buff 3",
             "Attack buff 3"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-3)",
+            "Extra Damage Dealers",
+            "Bypassers",
+            "Buffers (ATK)"
         ],
         "source": "Covenant Summon",
         "Release date": "2024-05-23",
@@ -46615,7 +54252,7 @@ window.allHeroes =
         "family": "plainshunter",
         "image": "https://i.imgur.com/3kaZWy1.jpg",
         "costume_id": 0,
-        "originalIndex": 1406
+        "originalIndex": 1407
     },
     {
         "name": "Topaz",
@@ -46629,6 +54266,11 @@ window.allHeroes =
             "Minion Destroyer 1/3/All",
             "Hit 1/3/All",
             "Mana Boost"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-3)",
+            "Mana Raisers",
+            "Minions Counters"
         ],
         "source": "Tower-Ninjas",
         "Release date": "2022-02-02",
@@ -46656,7 +54298,7 @@ window.allHeroes =
         "family": "ninja",
         "image": "https://i.imgur.com/yKvm70P.jpg",
         "costume_id": 0,
-        "originalIndex": 1407
+        "originalIndex": 1408
     },
     {
         "name": "Uraeus",
@@ -46671,6 +54313,13 @@ window.allHeroes =
             "Minion Bypass",
             "DoT on Minion",
             "DoT on Fiend"
+        ],
+        "skill_types": [
+            "DoT Attackers",
+            "Healers (Special)",
+            "Minions Counters",
+            "Minions Summoners",
+            "Snipers"
         ],
         "source": "Hero of the Month",
         "Release date": "2021-02-01",
@@ -46692,7 +54341,7 @@ window.allHeroes =
         "family": 2021,
         "image": "https://i.imgur.com/1T6P7Be.jpg",
         "costume_id": 0,
-        "originalIndex": 1408
+        "originalIndex": 1409
     },
     {
         "name": "Vaishali",
@@ -46709,6 +54358,14 @@ window.allHeroes =
             "Dispeller All",
             "DoT All",
             "Attack Debuff All"
+        ],
+        "skill_types": [
+            "Buffers (ATK)",
+            "Cleansers",
+            "Debuffers (ATK)",
+            "Dispellers",
+            "DoT Attackers",
+            "Heal over Time (HoT)"
         ],
         "source": "Tower-Magic",
         "Release date": "2023-11-15",
@@ -46735,7 +54392,7 @@ window.allHeroes =
         "family": "magic",
         "image": "https://i.imgur.com/Ssu3ay2.jpg",
         "costume_id": 0,
-        "originalIndex": 1409
+        "originalIndex": 1410
     },
     {
         "name": "Vivica",
@@ -46749,6 +54406,11 @@ window.allHeroes =
             "Healer",
             "Defense Buff",
             "Cleanser"
+        ],
+        "skill_types": [
+            "Buffers (DEF)",
+            "Cleansers",
+            "Healers"
         ],
         "source": "S1-Classic",
         "Release date": "2017-01-01",
@@ -46766,7 +54428,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/aHsNbej.jpg",
         "costume_id": 0,
-        "originalIndex": 1410
+        "originalIndex": 1411
     },
     {
         "name": "Vivica C1",
@@ -46780,6 +54442,11 @@ window.allHeroes =
             "Healer",
             "Defense Debuff",
             "Dispeller"
+        ],
+        "skill_types": [
+            "Debuffers (DEF)",
+            "Dispellers",
+            "Healers"
         ],
         "source": "S1-Classic",
         "Release date": "2020-01-01",
@@ -46797,7 +54464,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/pm7wcbP.jpg",
         "costume_id": 1,
-        "originalIndex": 1411
+        "originalIndex": 1412
     },
     {
         "name": "Vivica C2",
@@ -46811,6 +54478,11 @@ window.allHeroes =
             "Healer",
             "Attack Debuff",
             "Dispeller"
+        ],
+        "skill_types": [
+            "Debuffers (ATK)",
+            "Dispellers",
+            "Health Boosters"
         ],
         "source": "S1-Classic",
         "Release date": "2022-09-05",
@@ -46828,7 +54500,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/J8lGs8A.jpg",
         "costume_id": 2,
-        "originalIndex": 1412
+        "originalIndex": 1413
     },
     {
         "name": "Vivica Toon",
@@ -46842,6 +54514,11 @@ window.allHeroes =
             "Healer",
             "Defense buff",
             "Cleanser"
+        ],
+        "skill_types": [
+            "Buffers (DEF)",
+            "Cleansers",
+            "Healers"
         ],
         "source": "S1-Classic",
         "Release date": "2023-10-30",
@@ -46861,7 +54538,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/zJxvLuN.jpg",
         "costume_id": 3,
-        "originalIndex": 1413
+        "originalIndex": 1414
     },
     {
         "name": "Vivica Glass",
@@ -46876,6 +54553,12 @@ window.allHeroes =
             "Defense Buff All",
             "Debuff Reflect for Holy Allies",
             "Cleanser All"
+        ],
+        "skill_types": [
+            "Buffers (DEF)",
+            "Cleansers",
+            "Healers",
+            "Reflectors"
         ],
         "source": "S1-Classic",
         "Release date": "2024-12-24",
@@ -46896,7 +54579,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/Vcxpsu2.jpg",
         "costume_id": 4,
-        "originalIndex": 1414
+        "originalIndex": 1415
     },
     {
         "name": "Wayne",
@@ -46909,6 +54592,11 @@ window.allHeroes =
         "types": [
             "DoT All",
             "Healing Steal All"
+        ],
+        "skill_types": [
+            "DoT Attackers",
+            "Healers (Special)",
+            "Healing Reducers"
         ],
         "source": "Monthly Event-Morlovia",
         "Release date": "2024-09-23",
@@ -46927,7 +54615,7 @@ window.allHeroes =
         "family": "morlovia",
         "image": "https://i.imgur.com/ogAtunM.jpg",
         "costume_id": 0,
-        "originalIndex": 1415
+        "originalIndex": 1416
     },
     {
         "name": "Wealhtheow",
@@ -46941,6 +54629,13 @@ window.allHeroes =
             "Healer",
             "Boosted HoT All",
             "Source of Buffs 1"
+        ],
+        "skill_types": [
+            "Healers",
+            "Health Boosters",
+            "Heal over Time (HoT)",
+            "Buffers (ATK)",
+            "Mana Generation Buffers"
         ],
         "source": "Black Friday Summon",
         "Release date": "2024-11-25",
@@ -46965,7 +54660,7 @@ window.allHeroes =
         "family": "beowulf",
         "image": "https://i.imgur.com/yG43ChX.jpg",
         "costume_id": 0,
-        "originalIndex": 1416
+        "originalIndex": 1417
     },
     {
         "name": "White Rabbit",
@@ -46978,6 +54673,10 @@ window.allHeroes =
         "types": [
             "Hit 3",
             "Defense Debuff"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-3)",
+            "Debuffers (DEF)"
         ],
         "source": "Challenge Festival-Wonderland",
         "Release date": "2017-01-01",
@@ -46994,7 +54693,7 @@ window.allHeroes =
         "family": "wonderland",
         "image": "https://i.imgur.com/00qNGOk.jpg",
         "costume_id": 0,
-        "originalIndex": 1417
+        "originalIndex": 1418
     },
     {
         "name": "White Rabbit C1",
@@ -47007,6 +54706,10 @@ window.allHeroes =
         "types": [
             "Hit 3",
             "Defense Debuff"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-3)",
+            "Debuffers (DEF)"
         ],
         "source": "Challenge Festival-Wonderland",
         "Release date": "2022-02-17",
@@ -47025,7 +54728,7 @@ window.allHeroes =
         "family": "wonderland",
         "image": "https://i.imgur.com/qj3SAsZ.jpg",
         "costume_id": 1,
-        "originalIndex": 1418
+        "originalIndex": 1419
     },
     {
         "name": "Willow",
@@ -47039,6 +54742,17 @@ window.allHeroes =
             "Hit all",
             "Damage Reduction",
             "Counterattack"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-5)",
+            "Buff Blockers",
+            "Bypassers",
+            "Counterattackers",
+            "Damage Reducers",
+            "Dispellers",
+            "Stacking Heroes",
+            "Mana Reducers or Blockers",
+            "Healers"
         ],
         "source": "Tower-Magic",
         "Release date": "2023-05-03",
@@ -47065,7 +54779,7 @@ window.allHeroes =
         "family": "magic",
         "image": "https://i.imgur.com/Njfyzmw.jpg",
         "costume_id": 0,
-        "originalIndex": 1419
+        "originalIndex": 1420
     },
     {
         "name": "Winnie",
@@ -47080,7 +54794,13 @@ window.allHeroes =
             "Health Boost",
             "Defense Buff"
         ],
-        "source": "Alliance-Knights Charge",
+        "skill_types": [
+            "Buffers (DEF)",
+            "Cleansers",
+            "Health Boosters",
+            "Immunity Providers"
+        ],
+        "source": "Alliance-Knights Clash",
         "Release date": "2024-01-10",
         "star": 5,
         "power": 1027,
@@ -47100,7 +54820,7 @@ window.allHeroes =
         "family": "stag",
         "image": "https://i.imgur.com/Dx6MykQ.jpg",
         "costume_id": 0,
-        "originalIndex": 1420
+        "originalIndex": 1421
     },
     {
         "name": "Wolfgang",
@@ -47115,7 +54835,13 @@ window.allHeroes =
             "Damage Reduction 1",
             "Boosted HoT All"
         ],
-        "source": "Alliance-Knights Charge",
+        "skill_types": [
+            "AoE Attackers (Hit-5)",
+            "Heal over Time (HoT)",
+            "Damage Reducers",
+            "Health Boosters"
+        ],
+        "source": "Alliance-Knights Clash",
         "Release date": "2021-10-13",
         "star": 5,
         "power": 816,
@@ -47131,7 +54857,7 @@ window.allHeroes =
         "family": "wolf",
         "image": "https://i.imgur.com/8Qu4qUF.jpg",
         "costume_id": 0,
-        "originalIndex": 1421
+        "originalIndex": 1422
     },
     {
         "name": "Wolfgang C1",
@@ -47146,7 +54872,13 @@ window.allHeroes =
             "Damage reduction 1",
             "Boosted HoT All"
         ],
-        "source": "Alliance-Knights Charge",
+        "skill_types": [
+            "AoE Attackers (Hit-5)",
+            "Damage Reducers",
+            "Health Boosters",
+            "Heal over Time (HoT)"
+        ],
+        "source": "Alliance-Knights Clash",
         "Release date": "2024-12-17",
         "star": 5,
         "power": 1148,
@@ -47166,7 +54898,7 @@ window.allHeroes =
         "family": "wolf",
         "image": "https://i.imgur.com/2DLIDng.jpg",
         "costume_id": 1,
-        "originalIndex": 1422
+        "originalIndex": 1423
     },
     {
         "name": "Wulfstan",
@@ -47181,6 +54913,11 @@ window.allHeroes =
             "Hit All",
             "Insanity All",
             "Self Insanity"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-5)",
+            "Buff Stealers",
+            "Negative Effects On Self Or Allies"
         ],
         "source": "Mystery-Shadow",
         "Release date": "2025-01-09",
@@ -47198,7 +54935,7 @@ window.allHeroes =
         "family": "cultist",
         "image": "https://i.imgur.com/EHlubEr.jpg",
         "costume_id": 0,
-        "originalIndex": 1423
+        "originalIndex": 1424
     },
     {
         "name": "Xavier",
@@ -47211,6 +54948,12 @@ window.allHeroes =
         "types": [
             "Hit 1",
             "Mana reducer"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-3)",
+            "AoE Attackers (Hit-5)",
+            "Mana Reducers or Blockers",
+            "Snipers"
         ],
         "source": "Super Elementals",
         "Release date": "2023-07-17",
@@ -47235,7 +54978,7 @@ window.allHeroes =
         "family": "superelemental",
         "image": "https://i.imgur.com/DZtGVoI.jpg",
         "costume_id": 0,
-        "originalIndex": 1424
+        "originalIndex": 1425
     },
     {
         "name": "Zandria",
@@ -47248,6 +54991,11 @@ window.allHeroes =
         "types": [
             "Hit All",
             "Reviver"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-5)",
+            "Revivers",
+            "Extra Damage Dealers"
         ],
         "source": "Super Elementals",
         "Release date": "2022-10-10",
@@ -47272,7 +55020,7 @@ window.allHeroes =
         "family": "superelemental",
         "image": "https://i.imgur.com/h5xLq71.jpg",
         "costume_id": 0,
-        "originalIndex": 1425
+        "originalIndex": 1426
     },
     {
         "name": "Zazha",
@@ -47286,6 +55034,13 @@ window.allHeroes =
             "Replace Buffs Self",
             "Hit 1",
             "Boosted Heal"
+        ],
+        "skill_types": [
+            "Snipers",
+            "Healers (Special)",
+            "Health Boosters",
+            "Minions Counters",
+            "Status Effect Conversion"
         ],
         "source": "Tower-Magic",
         "Release date": "2025-05-29",
@@ -47309,7 +55064,7 @@ window.allHeroes =
         "family": "magiccarpet",
         "image": "https://imgur.com/da8x4gT.jpg",
         "costume_id": 0,
-        "originalIndex": 1426
+        "originalIndex": 1427
     },
     {
         "name": "Zekena",
@@ -47323,6 +55078,11 @@ window.allHeroes =
             "Hit 1",
             "Bounce",
             "Defense Debuff"
+        ],
+        "skill_types": [
+            "Chain & Random Attackers",
+            "Debuffers (DEF)",
+            "Extra Damage Dealers"
         ],
         "source": "S4-Wilderness",
         "Release date": "2021-12-02",
@@ -47342,7 +55102,7 @@ window.allHeroes =
         "family": "underwild",
         "image": "https://i.imgur.com/hsqxizP.jpg",
         "costume_id": 0,
-        "originalIndex": 1427
+        "originalIndex": 1428
     },
     {
         "name": "Zekena C1",
@@ -47356,6 +55116,12 @@ window.allHeroes =
             "Hit 1",
             "Bounce",
             "Defense Debuff"
+        ],
+        "skill_types": [
+            "Snipers",
+            "Chain & Random Attackers",
+            "Extra Damage Dealers",
+            "Debuffers (DEF)"
         ],
         "source": "S4-Wilderness",
         "Release date": "2024-06-20",
@@ -47375,7 +55141,7 @@ window.allHeroes =
         "family": "underwild",
         "image": "https://i.imgur.com/KswtgYH.jpg",
         "costume_id": 1,
-        "originalIndex": 1428
+        "originalIndex": 1429
     },
     {
         "name": "Zenuk'wa",
@@ -47388,6 +55154,12 @@ window.allHeroes =
         "types": [
             "Hit 3",
             "Status ailments immunity"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-3)",
+            "DoT Attackers",
+            "Immunity Providers",
+            "Healers (Special)"
         ],
         "source": "Monthly Event-Beach Party",
         "Release date": "2024-06-03",
@@ -47408,7 +55180,7 @@ window.allHeroes =
         "family": "beachparty",
         "image": "https://i.imgur.com/wpHKBfv.jpg",
         "costume_id": 0,
-        "originalIndex": 1429
+        "originalIndex": 1430
     },
     {
         "name": "Zhang Fei",
@@ -47421,6 +55193,10 @@ window.allHeroes =
         "types": [
             "Hit 1",
             "Defense Debuff Reflect All"
+        ],
+        "skill_types": [
+            "Reflectors",
+            "Snipers"
         ],
         "source": "Three Kingdoms Summon",
         "Release date": "2022-03-14T12:00:00",
@@ -47437,7 +55213,7 @@ window.allHeroes =
         "family": "kingdom",
         "image": "https://i.imgur.com/stJf0Qg.jpg",
         "costume_id": 0,
-        "originalIndex": 1430
+        "originalIndex": 1431
     },
     {
         "name": "Zhang Fei C1",
@@ -47451,6 +55227,11 @@ window.allHeroes =
             "Hit 1",
             "DoT 1",
             "Defense Debuff Reflect All"
+        ],
+        "skill_types": [
+            "DoT Attackers",
+            "Reflectors",
+            "Snipers"
         ],
         "source": "Three Kingdoms Summon",
         "Release date": "2024-10-29",
@@ -47473,7 +55254,7 @@ window.allHeroes =
         "family": "kingdom",
         "image": "https://i.imgur.com/LeENxWF.jpg",
         "costume_id": 1,
-        "originalIndex": 1431
+        "originalIndex": 1432
     },
     {
         "name": "Zhuge Liang",
@@ -47486,6 +55267,12 @@ window.allHeroes =
         "types": [
             "Counterattack Minion Summoner All",
             "Fiend Summoner All"
+        ],
+        "skill_types": [
+            "Counterattackers",
+            "Fiends Summoners",
+            "Minions Summoners",
+            "DoT Attackers"
         ],
         "source": "Three Kingdoms Summon",
         "Release date": "2022-03-14T12:00:00",
@@ -47504,7 +55291,7 @@ window.allHeroes =
         "family": "kingdom",
         "image": "https://i.imgur.com/jjSBiGT.jpg",
         "costume_id": 0,
-        "originalIndex": 1432
+        "originalIndex": 1433
     },
     {
         "name": "Zhuge Liang C1",
@@ -47517,6 +55304,12 @@ window.allHeroes =
         "types": [
             "Counterattack Minion Summoner All",
             "Fiend Summoner All"
+        ],
+        "skill_types": [
+            "Minions Summoners",
+            "Counterattackers",
+            "Fiends Summoners",
+            "DoT Attackers"
         ],
         "source": "Three Kingdoms Summon",
         "Release date": "2024-05-28",
@@ -47540,7 +55333,7 @@ window.allHeroes =
         "family": "kingdom",
         "image": "https://i.imgur.com/zdjoPv7.jpg",
         "costume_id": 1,
-        "originalIndex": 1433
+        "originalIndex": 1434
     },
     {
         "name": "Zora",
@@ -47554,6 +55347,11 @@ window.allHeroes =
             "Hit All",
             "Cleanser",
             "Attack buff"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-5)",
+            "Buffers (ATK)",
+            "Cleansers"
         ],
         "source": "Hero of the Month",
         "Release date": "2024-01-01",
@@ -47575,6 +55373,6 @@ window.allHeroes =
         "family": 2024,
         "image": "https://i.imgur.com/wf4Kvkm.jpg",
         "costume_id": 0,
-        "originalIndex": 1434
+        "originalIndex": 1435
     }
 ];

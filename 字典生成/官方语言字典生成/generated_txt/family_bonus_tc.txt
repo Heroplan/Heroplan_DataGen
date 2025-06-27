@@ -43,7 +43,7 @@
 數量等同於戰隊中的{ELEMENT}英雄數量。每個元素的{MAXTILESONBOARD}力量寶石能同時存在於面板上。
 
 力量寶石每回合對隨機一名敵人造成{FIXEDPOWER}點傷害，直到配對完成為止。當力量寶石配對完成時，會對一名隨機敵人造成{MATCHEFFECTFIXEDPOWER}點傷害。"
-"familybonuses.description.long.damage_on_special_dodge_wild_cat","每次閃避特殊技能時，對攻擊者造成{FIXEDVALUE}點傷害。"
+"familybonuses.description.long.damage_on_special_dodge_wild_cat","每次閃避特殊技能時，都會對攻擊者造成{1MEMBERFIXEDVALUE}/{2MEMBERSFIXEDVALUE}/{3MEMBERSFIXEDVALUE}點傷害。"
 "familybonuses.description.long.defense_multiplier","{2MEMBERSMULTIPLIERPERCENTCHANGE}%/{3MEMBERSMULTIPLIERPERCENTCHANGE}%/{4MEMBERSMULTIPLIERPERCENTCHANGE}%/{5MEMBERSMULTIPLIERPERCENTCHANGE}%防禦。"
 "familybonuses.description.long.defense_multiplier_atlantis","{MULTIPLIERPERCENTCHANGE}%/{2MEMBERSMULTIPLIERPERCENTCHANGE}%/{3MEMBERSMULTIPLIERPERCENTCHANGE}%/{4MEMBERSMULTIPLIERPERCENTCHANGE}%/{5MEMBERSMULTIPLIERPERCENTCHANGE}%防禦。"
 "familybonuses.description.long.defense_multiplier_classic","{2MEMBERSMULTIPLIERPERCENTCHANGE}%/{3MEMBERSMULTIPLIERPERCENTCHANGE}%/{4MEMBERSMULTIPLIERPERCENTCHANGE}%/{5MEMBERSMULTIPLIERPERCENTCHANGE}%防禦。"
@@ -137,8 +137,8 @@
 若敵人的特殊技擊敗了此角色，則機率變為{1MEMBERCHANCEPERKILLINGHIT}%/{2MEMBERSCHANCEPERKILLINGHIT}%。"
 "familybonuses.description.long.tales1_mana_debuff_on_special_damage.tales1_family_mana_reduction","{1MEMBERCHANCE}%/{2MEMBERSCHANCE}%機率對使用特殊技能向此角色造成傷害的敵人施放{MANAREGEN}%法力產出，持續{STATUSEFFECT1TURNS}個回合。
 若敵人的特殊技能擊敗了這個角色，則機率變為{1MEMBERCHANCEPERKILLINGHIT}%/{2MEMBERSCHANCEPERKILLINGHIT}%。"
-"familybonuses.description.long.unique_family_healing_received_modifier_all","單打獨鬥的英雄獲得的一切治療都能增加{MULTIPLIER}%。若戰隊成員在戰隊中無家族或王國成員，則視為單打獨鬥的英雄。"
-"familybonuses.description.long.unique_family_mana_multiplier_all","單打獨鬥的英雄會獲得{MULTIPLIER}%法力產出。若戰隊成員在戰隊中無家族或王國成員，則視為單打獨鬥的英雄。"
+"familybonuses.description.long.unique_family_healing_received_modifier_all","獲得任何治療都能增加{MULTIPLIER}%。"
+"familybonuses.description.long.unique_family_mana_multiplier_all","{MULTIPLIER}%法力產出。"
 "familybonuses.description.members","（家族成員：{0}）"
 "familybonuses.description.members.realm","（王國成員：{0}）"
 "familybonuses.description.short.abyss","施展特殊技能時，有{CHANCE}%的機率能產生地底荒野寶石。地底荒野寶石每回合能對一個隨機敵人造成{FIXEDPOWER}傷害。"
@@ -170,7 +170,7 @@
 "familybonuses.description.short.damage_gem_per_turn.match_damage","每回合用力量寶石，取代與此英雄相同顏色的{TILESPERTURN}普通護盾。僅同種元素的{MAXTILESONBOARD}力量寶石能同時置於面板上。"
 "familybonuses.description.short.damage_gem_per_turn.match_effect.directeffect.damage.all.enemies","每回合用力量寶石，取代與此英雄相同顏色的{TILESPERTURN}普通護盾。僅同種元素的{MAXTILESONBOARD}力量寶石能同時置於面板上。"
 "familybonuses.description.short.damage_gem_per_turn.match_effect.directeffect.damage.random.enemies","每回合用力量寶石，取代與此英雄相同顏色的{TILESPERTURN}普通護盾。僅同種元素的{MAXTILESONBOARD}力量寶石能同時置於面板上。"
-"familybonuses.description.short.damage_on_special_dodge_wild_cat","每次閃避特殊技能時，都會對攻擊者造成{FIXEDVALUE}點傷害"
+"familybonuses.description.short.damage_on_special_dodge_wild_cat","每次閃避特殊技能時，都會對攻擊者造成{1MEMBERFIXEDVALUE}/{2MEMBERSFIXEDVALUE}/{3MEMBERSFIXEDVALUE}點傷害。"
 "familybonuses.description.short.defense_multiplier","{MULTIPLIERPERCENTCHANGE}%防禦"
 "familybonuses.description.short.defense_multiplier_atlantis","{MULTIPLIERPERCENTCHANGE}%防禦"
 "familybonuses.description.short.defense_multiplier_classic","{MULTIPLIERPERCENTCHANGE}%防禦"
@@ -270,14 +270,14 @@
 "herocard.family.description.brawlbonus.active_now_bonus","突擊亂鬥英雄加成已啟動！
 此英雄在目前突擊亂鬥活動期間的突擊中有下列福利："
 "herocard.family.description.common","當英雄和其他來自相同家族的獨特英雄加入同個隊伍時，他們將會變得更加強大。"
-"herocard.family.description.common.bard","吟遊詩人家族能支援其他家族與王國。"
+"herocard.family.description.common.bard","吟遊詩人家族賦予隊伍中該家族唯一成員的任意英雄單人加成："
 "herocard.family.description.common.classic","英雄與同家族的其他獨特英雄搭檔時會變得更強。
 
 經典家族的英雄需要完全升等才能享有家族加成。
 
 完全升等加成2/3/4/5英雄："
 "herocard.family.description.common.construct","此家族的成員有一個構造體核心。"
-"herocard.family.description.common.cupid","邱比特家族能支援其他家族與王國。"
+"herocard.family.description.common.cupid","邱比特家族賦予隊伍中該家族唯一成員的任意英雄單人加成："
 "herocard.family.description.common.fox","戰鬥開始時，狐狸英雄會為他們自己召喚一隻狡猾的狐狸小兵。"
 "herocard.family.description.common.garrison","當英雄和來自相同家族的其他獨特英雄位於相同戰隊時，將會變得更加強大。
 
@@ -488,6 +488,8 @@
 "herocard.family.title.tales1_goodies.short","亞特蘭蒂斯衛士"
 "herocard.family.title.vanaheim","華納海姆王國"
 "herocard.family.title.vanaheim.short","華納海姆"
+"herocard.family.title.vegetable","蔬菜家族"
+"herocard.family.title.vegetable.short","蔬菜"
 "herocard.family.title.villains","惡棍家族"
 "herocard.family.title.villains.short","惡棍"
 "herocard.family.title.wild_cat","野貓家族"

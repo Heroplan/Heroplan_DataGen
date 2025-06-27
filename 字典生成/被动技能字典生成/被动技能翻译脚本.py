@@ -117,8 +117,8 @@ def main():
     logger.info("--- 开始被动技能双语批量翻译任务 ---")
 
     # (修改) 定义简繁双语的输入输出文件
-    dict_file_cn = '../dictionaries/passives_dictionary_cn.json'
-    dict_file_tc = '../dictionaries/passives_dictionary_tc.json'
+    dict_file_cn = '../../dictionaries/passives_dict_cn.json'
+    dict_file_tc = '../../dictionaries/passives_dict_tc.json'
     input_file = 'passives_to_translate.js'
     output_file_cn = 'passives_cn.js'
     output_file_tc = 'passives_tc.js'

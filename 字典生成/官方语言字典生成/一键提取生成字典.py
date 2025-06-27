@@ -197,6 +197,8 @@ if __name__ == "__main__":
     english_file = find_language_file(LANGUAGES_DIR, 'English')
     sim_chinese_file = find_language_file(LANGUAGES_DIR, 'ChineseSimplified')
     tra_chinese_file = find_language_file(LANGUAGES_DIR, 'ChineseTraditional')
+    # 新增：搜索俄语文件
+    russian_file = find_language_file(LANGUAGES_DIR, 'Russian')
 
     if not english_file:
         print(f"错误: 在 '{LANGUAGES_DIR}' 目录中未找到英文源文件。脚本终止。")
@@ -217,6 +219,12 @@ if __name__ == "__main__":
         if full_traditional_chinese_data:
             print(f"繁体中文文件 '{tra_chinese_file}' 清理和解析完成，共 {len(full_traditional_chinese_data)} 条目。")
 
+    # 新增：处理俄语文件
+    full_russian_content, full_russian_data = "", {}
+    if russian_file:
+        full_russian_content, full_russian_data = process_language_file(russian_file, is_json=True)
+        if full_russian_data:
+            print(f"俄语文件 '{russian_file}' 清理和解析完成，共 {len(full_russian_data)} 条目。")
     
     processed_output_types = set()
     for label_prefix, output_type in EXTRACTION_RULES.items():
@@ -230,18 +238,24 @@ if __name__ == "__main__":
         en_subset = {k: v for k, v in full_english_data.items() if any(k.startswith(p) for p in prefixes)}
         cn_subset = {k: v for k, v in full_simplified_chinese_data.items() if any(k.startswith(p) for p in prefixes)}
         tc_subset = {k: v for k, v in full_traditional_chinese_data.items() if any(k.startswith(p) for p in prefixes)}
+        # 新增：提取俄语子集
+        ru_subset = {k: v for k, v in full_russian_data.items() if any(k.startswith(p) for p in prefixes)}
 
         en_lines = [m.group(0) for m in re.finditer(r'\"([^"]+)\",\"((?:.|\n)*?)\"(?:\n|$)', full_english_content) if any(m.group(1).startswith(p) for p in prefixes)]
         cn_lines = [m.group(0) for m in re.finditer(r'\"([^"]+)\",\"((?:.|\n)*?)\"(?:\n|$)', full_simplified_chinese_content) if any(m.group(1).startswith(p) for p in prefixes)]
         tc_lines = [m.group(0) for m in re.finditer(r'\"([^"]+)\",\"((?:.|\n)*?)\"(?:\n|$)', full_traditional_chinese_content) if any(m.group(1).startswith(p) for p in prefixes)]
+        # 新增：提取俄语行
+        ru_lines = [m.group(0) for m in re.finditer(r'\"([^"]+)\",\"((?:.|\n)*?)\"(?:\n|$)', full_russian_content) if any(m.group(1).startswith(p) for p in prefixes)]
 
         try:
             output_paths_map = {
                 "英文": os.path.join(INTERMEDIATE_TXT_DIR, f"{output_type}_en.txt"),
                 "简体中文": os.path.join(INTERMEDIATE_TXT_DIR, f"{output_type}_cn.txt"),
                 "繁体中文": os.path.join(INTERMEDIATE_TXT_DIR, f"{output_type}_tc.txt"),
+                # 新增：俄语输出路径
+                "俄语": os.path.join(INTERMEDIATE_TXT_DIR, f"{output_type}_ru.txt"),
             }
-            lines_map = {"英文": en_lines, "简体中文": cn_lines, "繁体中文": tc_lines}
+            lines_map = {"英文": en_lines, "简体中文": cn_lines, "繁体中文": tc_lines, "俄语": ru_lines}
 
             for lang_name, path in output_paths_map.items():
                 lines = lines_map[lang_name]
@@ -266,11 +280,19 @@ if __name__ == "__main__":
             save_translation_map(map_tc, f"{output_type}_dict_tc.json")
             save_debug_info(debug_tc, output_type, "zh-Hant")
             
+        # 新增：处理俄语翻译字典和调试信息
+        map_ru, debug_ru = {}, {}
+        if full_russian_data:
+            map_ru, debug_ru = create_translation_map(en_subset, ru_subset, output_type, "ru")
+            save_translation_map(map_ru, f"{output_type}_dict_ru.json")
+            save_debug_info(debug_ru, output_type, "ru")
 
         # 更新：最终输出信息
         match_results = [
             f"简中: {len(map_cn)}条",
             f"繁中: {len(map_tc)}条" if full_traditional_chinese_data else "繁中: N/A",
+            f"俄语: {len(map_ru)}条" if full_russian_data else "俄语: N/A",
+            f"英文重复: {len(debug_cn['duplicates'])}组"
         ]
         print(f"[{output_type} 匹配结果] " + ", ".join(match_results))
 

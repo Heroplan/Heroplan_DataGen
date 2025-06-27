@@ -43,7 +43,7 @@ The Power Gem deals {FIXEDPOWER} damage to a random enemy each turn until it is 
 The amount is the same as {ELEMENT} heroes in the team. {MAXTILESONBOARD} Power Gems per element can be on the board at the same time.
 
 The Power Gem deals {FIXEDPOWER} damage to a random enemy each turn until it is matched. When Power Gems are matched, they deal {MATCHEFFECTFIXEDPOWER} damage to a random enemy."
-"familybonuses.description.long.damage_on_special_dodge_wild_cat","Each Special Skill dodged damages the attacker for {FIXEDVALUE} damage."
+"familybonuses.description.long.damage_on_special_dodge_wild_cat","Each Special Skill dodged damages the attacker for {1MEMBERFIXEDVALUE}/{2MEMBERSFIXEDVALUE}/{3MEMBERSFIXEDVALUE} damage."
 "familybonuses.description.long.defense_multiplier","{2MEMBERSMULTIPLIERPERCENTCHANGE}%/{3MEMBERSMULTIPLIERPERCENTCHANGE}%/{4MEMBERSMULTIPLIERPERCENTCHANGE}%/{5MEMBERSMULTIPLIERPERCENTCHANGE}% defense."
 "familybonuses.description.long.defense_multiplier_atlantis","{MULTIPLIERPERCENTCHANGE}%/{2MEMBERSMULTIPLIERPERCENTCHANGE}%/{3MEMBERSMULTIPLIERPERCENTCHANGE}%/{4MEMBERSMULTIPLIERPERCENTCHANGE}%/{5MEMBERSMULTIPLIERPERCENTCHANGE}% defense."
 "familybonuses.description.long.defense_multiplier_classic","{2MEMBERSMULTIPLIERPERCENTCHANGE}%/{3MEMBERSMULTIPLIERPERCENTCHANGE}%/{4MEMBERSMULTIPLIERPERCENTCHANGE}%/{5MEMBERSMULTIPLIERPERCENTCHANGE}% defense."
@@ -137,8 +137,8 @@ If the enemy's Special Skill defeats this character, the chance is {1MEMBERCHANC
  If the enemy's Special Skill defeats this character, the chance is {1MEMBERCHANCEPERKILLINGHIT}%/{2MEMBERSCHANCEPERKILLINGHIT}%."
 "familybonuses.description.long.tales1_mana_debuff_on_special_damage.tales1_family_mana_reduction","{1MEMBERCHANCE}%/{2MEMBERSCHANCE}% chance to cast {MANAREGEN}% mana generation for {STATUSEFFECT1TURNS} turns on an enemy who deals Special Skill damage to this character.
  If the enemy's Special Skill defeats this character, the chance is {1MEMBERCHANCEPERKILLINGHIT}%/{2MEMBERSCHANCEPERKILLINGHIT}%."
-"familybonuses.description.long.unique_family_healing_received_modifier_all","Solo Heroes get {MULTIPLIER}% increase for any healing received. Team members are Solo Heroes if they have no family or realm members in the Team."
-"familybonuses.description.long.unique_family_mana_multiplier_all","Solo Heroes get {MULTIPLIER}% mana generation. Team members are Solo Heroes if they have no family or realm members in the Team."
+"familybonuses.description.long.unique_family_healing_received_modifier_all","{MULTIPLIER}% increase for any healing received."
+"familybonuses.description.long.unique_family_mana_multiplier_all","{MULTIPLIER}% mana generation."
 "familybonuses.description.members","(Family members: {0})"
 "familybonuses.description.members.realm","(Realm members: {0})"
 "familybonuses.description.short.abyss","{CHANCE}% chance to spawn an Underwild Gem when Special Skill is cast. Underwild Gem deals {FIXEDPOWER} damage to a random enemy each turn."
@@ -170,7 +170,7 @@ If the enemy's Special Skill defeats this character, the chance is {1MEMBERCHANC
 "familybonuses.description.short.damage_gem_per_turn.match_damage","Replaces {TILESPERTURN} regular shields with same color as this Hero with Power Gems each turn. Only {MAXTILESONBOARD} Power Gems per element can be on the board at the same time."
 "familybonuses.description.short.damage_gem_per_turn.match_effect.directeffect.damage.all.enemies","Replaces {TILESPERTURN} regular shields with same color as this Hero with Power Gems each turn. Only {MAXTILESONBOARD} Power Gems per element can be on the board at the same time."
 "familybonuses.description.short.damage_gem_per_turn.match_effect.directeffect.damage.random.enemies","Replaces {TILESPERTURN} regular shields with same color as this Hero with Power Gems each turn. Only {MAXTILESONBOARD} Power Gems per element can be on the board at the same time."
-"familybonuses.description.short.damage_on_special_dodge_wild_cat","Each Special Skill dodged damages the attacker for {FIXEDVALUE} damage"
+"familybonuses.description.short.damage_on_special_dodge_wild_cat","Each Special Skill dodged damages the attacker for {1MEMBERFIXEDVALUE}/{2MEMBERSFIXEDVALUE}/{3MEMBERSFIXEDVALUE} damage."
 "familybonuses.description.short.defense_multiplier","{MULTIPLIERPERCENTCHANGE}% defense"
 "familybonuses.description.short.defense_multiplier_atlantis","{MULTIPLIERPERCENTCHANGE}% defense"
 "familybonuses.description.short.defense_multiplier_classic","{MULTIPLIERPERCENTCHANGE}% defense"
@@ -270,14 +270,14 @@ If the enemy's Special Skill defeats this character, the chance is {1MEMBERCHANC
 "herocard.family.description.brawlbonus.active_now_bonus","Raid Brawl Hero Bonus is active!
 This Hero has the following perks in Raids during the current Raid Brawl event:"
 "herocard.family.description.common","Heroes become stronger when teamed with other unique Heroes of the same family."
-"herocard.family.description.common.bard","Bard Family supports other families and realms."
+"herocard.family.description.common.bard","Bard Family grants a solo bonus for any Hero who is the only member of their family on the team:"
 "herocard.family.description.common.classic","Heroes become stronger when teamed with other unique Heroes of the same family.
 
 Classic Family Heroes need to be fully ascended to receive the Family Bonus.
 
 Bonus for fully ascended 2/3/4/5 Heroes:"
 "herocard.family.description.common.construct","Members of this family have a Construct Core."
-"herocard.family.description.common.cupid","Cupid Family supports other families and realms."
+"herocard.family.description.common.cupid","Cupid Family grants a solo bonus for any Hero who is the only member of their family on the team:"
 "herocard.family.description.common.fox","Fox heroes summon a Sly Fox Minion for themselves at the start of the battle."
 "herocard.family.description.common.garrison","Heroes become stronger when teamed with other unique Heroes of the same family.
 
@@ -488,6 +488,8 @@ The Lunar Year family features different Lunar Year Animal Heroes. Each Lunar Ye
 "herocard.family.title.tales1_goodies.short","Defenders of Atlantis"
 "herocard.family.title.vanaheim","Vanaheim Realm"
 "herocard.family.title.vanaheim.short","Vanaheim"
+"herocard.family.title.vegetable","Vegetable Family"
+"herocard.family.title.vegetable.short","Vegetable"
 "herocard.family.title.villains","Villain Family"
 "herocard.family.title.villains.short","Villain"
 "herocard.family.title.wild_cat","Wild Cat Family"
