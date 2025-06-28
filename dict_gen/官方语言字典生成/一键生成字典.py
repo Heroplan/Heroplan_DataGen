@@ -7,7 +7,7 @@ from collections import defaultdict
 # --- 全局配置 ---
 LANGUAGES_DIR = 'languages'
 DICTIONARY_DIR = '../../dictionaries'
-DEBUG_LOG_FILE = '../../logs/translation_debug.log'
+DEBUG_LOG_FILE = '../../../logs/translation_debug.log'
 INTERMEDIATE_TXT_DIR = 'generated_txt'
 
 EXTRACTION_RULES = {

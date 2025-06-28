@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-# 最终优化版本 (Final Optimized Version for Family Bonus)
+# 最终优化版本 (Final Optimized Version for Family Bonus) - 已修正核心逻辑
 
 import re
 import json
@@ -29,37 +29,41 @@ def parse_js_variable(file_path, logger):
     try:
         with open(file_path, 'r', encoding='utf-8') as f:
             content = f.read()
-            json_start = content.find('[')
-            json_end = content.rfind(']')
-            if json_start == -1 or json_end == -1:
-                raise ValueError("在文件中未找到有效的JSON数组 '[]'。")
-            json_string = content[json_start : json_end + 1]
-            return json.loads(json_string)
+        json_start = content.find('[')
+        json_end = content.rfind(']')
+        if json_start == -1 or json_end == -1:
+            raise ValueError("在文件中未找到有效的JSON数组 '[]'。")
+        json_string = content[json_start : json_end + 1]
+        return json.loads(json_string)
     except Exception as e:
         logger.error(f"解析 {file_path} 时发生意外错误: {e}")
         return None
 
 def get_numeric_value(s):
-    """从字符串中提取整数值，用于比较。"""
+    """从字符串中提取核心整数值用于对比，会忽略所有空白字符。"""
     if not isinstance(s, str): return s
-    nums = re.findall(r'-?\d+', s)
+    cleaned_s = re.sub(r'\s', '', s)
+    nums = re.findall(r'-?\d+', cleaned_s)
     return int(nums[0]) if nums else 0
 
 def normalize_text_for_regex(text):
-    """为正则表达式键准备文本片段，使其更健壮。"""
+    """为正则表达式准备文本，使其更健壮。"""
+    if not text: return ""
     escaped_text = re.escape(text)
     escaped_text = re.sub(r"['’]", "['’]?", escaped_text)
     escaped_text = re.sub(r'\\\s+', r'\\s+', escaped_text)
     escaped_text = escaped_text.replace(r'\,', r',?\s*').replace(r'\.', r'\.?\s*')
     return escaped_text
 
+# ############################################################################
+# ###           vvv 已替换为最终 re.sub 方案的核心函数 vvv           ###
+# ############################################################################
 def generate_single_dictionary(original_data, translated_data, lang_code, logger):
     """
-    【最优解】从原文和一种译文数据中生成 {regex_key: translation_template} 字典。
-    统一了所有数字不匹配情况的降级策略，优先保证规则的准确性和安全性。
+    【最终解决方案】使用 re.sub 和 replacer 函数，彻底解决数字顺序颠倒问题。
     """
     regex_dict = {}
-    number_pattern = r'([+-]?\d+\s*%?)'
+    number_pattern = r'([+-]?\s*\d+\s*%?)'
     
     original_map = {item['originalIndex']: item.get('bonus', []) for item in original_data}
     translated_map = {item['originalIndex']: item.get('bonus', []) for item in translated_data}
@@ -72,7 +76,7 @@ def generate_single_dictionary(original_data, translated_data, lang_code, logger
         trans_bonus_list = translated_map.get(index, [])
 
         if len(eng_bonus_list) != len(trans_bonus_list):
-            logger.warning(f"警告 [{lang_code}]：索引 {index} 的家族奖励数量不匹配（英文 {len(eng_bonus_list)} vs 译文 {len(trans_bonus_list)}），已跳过。")
+            logger.warning(f"警告 [{lang_code}]：索引 {index} 的家族奖励数量不匹配，已跳过。")
             continue
 
         for eng_text, trans_text in zip(eng_bonus_list, trans_bonus_list):
@@ -82,25 +86,23 @@ def generate_single_dictionary(original_data, translated_data, lang_code, logger
             try:
                 eng_nums = re.findall(number_pattern, eng_text)
 
+                # 新增：序数词豁免规则 (e.g., "1st", "2nd")
+                ordinal_pattern = r'^\s*\d+(st|nd|rd|th)\s*[:.]?\s*$'
+                if re.fullmatch(ordinal_pattern, eng_text.strip()):
+                    eng_nums = []
+
                 if eng_nums:
                     trans_nums = re.findall(number_pattern, trans_text)
-                    
-                    # --- 核心逻辑：先构建参数化key，然后尝试填充最优的value ---
-
-                    # 1. 无论数字是否匹配，都先构建参数化的正则表达式 Key
-                    eng_parts = re.split(number_pattern, eng_text)
-                    regex_key_parts = [normalize_text_for_regex(p) if i % 2 == 0 else number_pattern for i, p in enumerate(eng_parts)]
-                    regex_key = f"^{''.join(regex_key_parts)}$"
-
-                    # 2. 默认使用字面值(静态规则)作为翻译模板，这是最安全的降级方案
-                    template_value = trans_text
-                    
-                    # 3. 检查是否满足最优参数化条件
                     eng_num_values = [get_numeric_value(n) for n in eng_nums]
                     trans_num_values = [get_numeric_value(n) for n in trans_nums]
+
+                    eng_parts = re.split(number_pattern, eng_text)
+                    regex_key_parts = [normalize_text_for_regex(p) if k % 2 == 0 else number_pattern for k, p in enumerate(eng_parts)]
+                    regex_key = f"^{''.join(regex_key_parts)}$"
                     
+                    template_value = trans_text
+
                     if len(eng_nums) == len(trans_nums) and sorted(eng_num_values) == sorted(trans_num_values):
-                        # --- 仅在数字完全匹配时，才执行智能映射，覆盖默认的 template_value ---
                         eng_num_counts = defaultdict(int)
                         eng_num_to_backreference = {}
                         for i, num_str in enumerate(eng_nums):
@@ -109,35 +111,27 @@ def generate_single_dictionary(original_data, translated_data, lang_code, logger
                             eng_num_to_backreference[key] = i + 1
                             eng_num_counts[num_val] += 1
 
-                        trans_parts = re.split(number_pattern, trans_text)
-                        template_value_parts = []
                         trans_num_counts = defaultdict(int)
-                        num_idx_trans = 0
-                        for part in trans_parts:
-                            if num_idx_trans < len(trans_nums) and part == trans_nums[num_idx_trans]:
-                                current_num_str = trans_nums[num_idx_trans]
-                                current_num_val = get_numeric_value(current_num_str)
-                                key = (current_num_val, trans_num_counts[current_num_val])
-                                backreference_index = eng_num_to_backreference.get(key)
-                                template_value_parts.append(f"\\{backreference_index}")
-                                trans_num_counts[current_num_val] += 1
-                                num_idx_trans += 1
-                            else:
-                                template_value_parts.append(part)
-                        template_value = "".join(template_value_parts)
-                    
-                    # --- 移除了“强制参数化”逻辑，不满足条件时自动使用上面的默认值 ---
-                    elif trans_nums: # 如果译文中有数字但不满足条件，则记录警告
-                        logger.warning(f"[{lang_code}] 降级处理：索引 {index} 的数字内容不匹配，将使用字面值翻译。| 原文: '{eng_text}' | 译文: '{trans_text}'")
+                        def replacer(match):
+                            matched_num_str = match.group(1)
+                            matched_num_val = get_numeric_value(matched_num_str)
+                            key = (matched_num_val, trans_num_counts[matched_num_val])
+                            backreference_index = eng_num_to_backreference.get(key)
+                            trans_num_counts[matched_num_val] += 1
+                            if backreference_index:
+                                return f"\\{backreference_index}"
+                            return match.group(0)
+
+                        template_value = re.sub(number_pattern, replacer, trans_text)
+                    else:
+                        logger.warning(f"[{lang_code}] 降级处理：索引 {index} 的数字内容不匹配。| 原文: '{eng_text}' | 译文: '{trans_text}'")
 
                     if regex_key not in regex_dict:
                         regex_dict[regex_key] = template_value
-
-                else: # 如果原文无数字，则生成纯静态规则
+                else:
                     regex_key = f"^{normalize_text_for_regex(eng_text)}$"
                     if regex_key not in regex_dict:
                         regex_dict[regex_key] = trans_text
-            
             except Exception as e:
                 logger.error(f"严重错误 [{lang_code}]：索引 {index} 生成规则时发生意外: {e} | 原文: {eng_text}")
                 continue
@@ -146,7 +140,7 @@ def generate_single_dictionary(original_data, translated_data, lang_code, logger
 
 def main():
     """主函数，用于编排双语家族奖励字典的生成和保存。"""
-    logger = setup_logger('../../logs/families_bonus_generate_log.log', 'FamiliesBonusGenerator')
+    logger = setup_logger('../../../logs/families_bonus_generate_log.log', 'FamiliesBonusGenerator')
     logger.info("--- 开始生成家族奖励（Family Bonus）的双语正则表达式字典 ---")
     
     original_file = '../../to_translate/families_bonus_to_translate.js'

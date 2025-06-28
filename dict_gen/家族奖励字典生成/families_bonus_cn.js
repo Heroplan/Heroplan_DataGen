@@ -1,4 +1,4 @@
-const families_bonus = [
+window.families_bonus = [
     {
         "originalIndex": 0,
         "name": "avalon",
@@ -354,7 +354,7 @@ const families_bonus = [
             "每次为该英雄召唤一个小兵时，该英雄都会恢复 3% / 5% / 7% 生命。",
             "士气提升：",
             "属于该家族的英雄以及与他们并肩作战的英雄在三国战争中获得以下特权：",
-            "+10% 攻击力， 3% 防御， +7% 生命值"
+            "+10% 攻击力，+ 3% 防御， +7% 生命值"
         ]
     },
     {

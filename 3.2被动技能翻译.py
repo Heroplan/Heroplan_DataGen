@@ -123,9 +123,9 @@ def expand_passive_list(raw_passives):
 def main():
     """主函数，执行被动技能的双语批量翻译流程。"""
     # 确保日志目录存在
-    if not os.path.exists('logs'):
-        os.makedirs('logs')
-    logger = setup_logger('logs/passives_bilingual_translation_log.log', 'PassivesBilingualTranslator')
+    if not os.path.exists('../logs'):
+        os.makedirs('../logs')
+    logger = setup_logger('../logs/passives_bilingual_translation_log.log', 'PassivesBilingualTranslator')
     logger.info("--- 开始被动技能双语批量翻译任务 ---")
 
     dict_file_cn = 'dictionaries/passives_dict_cn.json'

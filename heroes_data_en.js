@@ -4826,7 +4826,9 @@ window.allHeroes =
         "skill_types": [
             "Cleansers",
             "Healers",
-            "Revivers"
+            "Revivers",
+            "Ability Scores Modifiers",
+            "Healers (Special)"
         ],
         "source": "Solstice Summon",
         "Release date": "2025-06-16",
@@ -10529,7 +10531,8 @@ window.allHeroes =
         "skill_types": [
             "Dispellers",
             "Snipers",
-            "DoT Attackers"
+            "DoT Attackers",
+            "Healing Reducers"
         ],
         "source": "Harvest Summon",
         "Release date": "2024-08-20",
@@ -12021,7 +12024,8 @@ window.allHeroes =
             "Cleansers",
             "DoT Attackers",
             "Healing Reducers",
-            "Snipers"
+            "Snipers",
+            "Healing Reducers"
         ],
         "source": "Monthly Event-Sand Empire",
         "Release date": "2017-01-01",
@@ -16864,7 +16868,8 @@ window.allHeroes =
         "skill_types": [
             "DoT Attackers",
             "AoE Attackers (Hit-3)",
-            "Sleepweavers"
+            "Sleepweavers",
+            "Healing Reducers"
         ],
         "source": "Covenant Summon",
         "Release date": "2025-04-14T11:00:00",
@@ -20835,7 +20840,8 @@ window.allHeroes =
         "skill_types": [
             "Bypassers",
             "Snipers",
-            "Dodgers"
+            "Dodgers",
+            "Healing Reducers"
         ],
         "source": "Covenant Summon",
         "Release date": "2024-11-18",
@@ -31608,7 +31614,8 @@ window.allHeroes =
             "AoE Attackers (Hit-5)",
             "Fiends Summoners",
             "DoT Attackers",
-            "Chain & Random Attackers"
+            "Chain & Random Attackers",
+            "Healing Reducers"
         ],
         "source": "Covenant Summon",
         "Release date": "2024-12-23",
@@ -31732,7 +31739,8 @@ window.allHeroes =
             "Dodgers",
             "Minions Summoners",
             "Silencers",
-            "Snipers"
+            "Snipers",
+            "Healing Reducers"
         ],
         "source": "Covenant Summon",
         "Release date": "2024-10-07",
@@ -37821,7 +37829,8 @@ window.allHeroes =
             "Minions Counters",
             "Bypassers",
             "AoE Attackers (Hit-3)",
-            "Debuffers (ATK)"
+            "Debuffers (ATK)",
+            "Ability Scores Modifiers"
         ],
         "source": "Solstice Summon",
         "Release date": "2025-06-16",
@@ -39324,7 +39333,8 @@ window.allHeroes =
             "AoE Attackers (Hit-5)",
             "DoT Attackers",
             "Minions Summoners",
-            "Debuffers (DEF)"
+            "Debuffers (DEF)",
+            "Healing Reducers"
         ],
         "source": "Covenant Summon",
         "Release date": "2025-05-08",
@@ -41975,7 +41985,8 @@ window.allHeroes =
         "skill_types": [
             "Buff Stealers",
             "Heal over Time (HoT)",
-            "Healers"
+            "Healers",
+            "Healing Reducers"
         ],
         "source": "Harvest Summon",
         "Release date": "2025-06-03",
@@ -53954,7 +53965,8 @@ window.allHeroes =
         "skill_types": [
             "DoT Attackers",
             "Minions Counters",
-            "Status Effects Blockers"
+            "Status Effects Blockers",
+            "Healing Reducers"
         ],
         "source": "Covenant Summon",
         "Release date": "2025-01-11",

@@ -1,6 +1,8 @@
+# -*- coding: utf-8 -*-
 import os
 import yaml
 import re
+import json # 引入 json 模块
 
 def extract_family_name(filename):
     """从文件名中提取家族名称（格式为：数字-名称.yml）"""
@@ -12,58 +14,58 @@ def extract_family_name(filename):
 def process_families():
     # 定义家族数据目录和输出JS文件路径
     families_dir = '../heroplan_data/data/families'
-    output_js = 'to_translate/families_bonus_to_translate.js'
-    output_js2 = 'families_bonus_en.js'
+    output_js_to_translate = 'to_translate/families_bonus_to_translate.js'
+    output_js_en_backup = 'families_bonus_en.js'
     
-    all_bonuses = []  # 存储所有家族加成数据
+    all_families_data = [] # 存储所有从YAML读取的家族数据
     
-    # 遍历家族目录中的每个YAML文件
-    for filename in os.listdir(families_dir):
+    # 1. 遍历家族目录中的每个YAML文件，读取数据到内存
+    for filename in sorted(os.listdir(families_dir)): # 使用 sorted() 保证顺序一致
         if filename.endswith('.yml'):
             filepath = os.path.join(families_dir, filename)
             family_name = extract_family_name(filename)
             
             if family_name:
-                # 读取并解析YAML文件
                 with open(filepath, 'r', encoding='utf-8') as file:
                     data = yaml.safe_load(file)
                     
-                    # 如果文件包含bonus数据，则添加到列表中
                     if 'bonus' in data:
                         family_data = {
                             "name": family_name,
                             "bonus": data['bonus']
                         }
-                        all_bonuses.append(family_data)
+                        all_families_data.append(family_data)
     
-    # 将数据写入JavaScript文件
-    with open(output_js, 'w', encoding='utf-8') as js_file:
-        js_file.write('window.families_bonus = [\n')
-    with open(output_js2, 'w', encoding='utf-8') as js_file:
-        js_file.write('window.families_bonus = [\n')
+    # 2. 在内存中处理数据，为每一项添加 originalIndex
+    final_data_with_index = []
+    for i, family in enumerate(all_families_data):
+        indexed_family = {
+            "originalIndex": i,
+            "name": family["name"],
+            "bonus": family["bonus"]
+        }
+        final_data_with_index.append(indexed_family)
         
-        # 遍历所有家族数据，格式化为JS对象
-        for i, family in enumerate(all_bonuses):
-            js_file.write('    {\n')
-            js_file.write(f'        "originalIndex": {i},\n')  # 添加序号字段
-            js_file.write(f'        "name": "{family["name"]}",\n')
-            js_file.write('        "bonus": [\n')
-            
-            # 写入每个加成条目，处理转义字符
-            for j, bonus_line in enumerate(family["bonus"]):
-                escaped_line = bonus_line.replace('"', '\\"')  # 转义双引号
-                js_file.write(f'            "{escaped_line}"')
-                if j < len(family["bonus"]) - 1:
-                    js_file.write(',')
-                js_file.write('\n')
-            
-            js_file.write('        ]\n')
-            js_file.write('    }')
-            if i < len(all_bonuses) - 1:
-                js_file.write(',')
-            js_file.write('\n')
-        
-        js_file.write('];\n')
+    # 3. 使用 json.dumps 生成格式化且安全的JS数组字符串
+    #    indent=4 用于美化格式，ensure_ascii=False 保证中文正常显示
+    json_string = json.dumps(final_data_with_index, indent=4, ensure_ascii=False)
+    
+    # 4. 构建完整的JS文件内容
+    final_js_content = f"window.families_bonus = {json_string};\n"
+
+    # 5. 将完全相同的内容写入两个目标文件
+    try:
+        with open(output_js_to_translate, 'w', encoding='utf-8') as f:
+            f.write(final_js_content)
+        print(f"成功创建待翻译文件: {output_js_to_translate}")
+
+        with open(output_js_en_backup, 'w', encoding='utf-8') as f:
+            f.write(final_js_content)
+        print(f"成功创建英文备份文件: {output_js_en_backup}")
+
+    except Exception as e:
+        print(f"写入文件时发生错误: {e}")
+
 
 if __name__ == '__main__':
     process_families()

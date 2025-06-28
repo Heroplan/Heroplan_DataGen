@@ -168,7 +168,7 @@ def main():
     # ------------------- 配置 -------------------
     if not os.path.exists('logs'):
         os.makedirs('logs')
-    logger = setup_logger('logs/full_process_log.log', 'FullProcess')
+    logger = setup_logger('../logs/full_process_log.log', 'FullProcess')
     
     TASKS = [
         {'field': 'effects', 'translated_stem': 'effects'},

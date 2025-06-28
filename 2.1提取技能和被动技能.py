@@ -1,11 +1,12 @@
 import json
 import re
+import os
 from datetime import datetime
 
 # ================= 请在这里配置您要排除的英雄名称 =================
 EXCLUDED_HERO_NAMES = []
 # =====================================================================
-def log_message(message, log_file='logs/extract_heroes_data_log.txt'):
+def log_message(message, log_file='../logs/extract_heroes_data_log.txt'):
     """将消息同时打印到控制台和日志文件"""
     print(message)
     with open(log_file, 'a', encoding='utf-8') as f:
@@ -37,6 +38,9 @@ def extract_all_without_uniqueness_check(
     【无唯一性检查版】
     提取所有英雄（无论目标键是否为空），从0开始重新编号并完全覆盖输出文件。
     """
+    # 确保日志目录存在
+    if not os.path.exists('../logs'):
+        os.makedirs('../logs')
     log_message(f"--- 运行提取任务 (提取目标: {extract_key}, 无唯一性检查) ---")
     exclusion_set = set(EXCLUDED_HERO_NAMES)
 

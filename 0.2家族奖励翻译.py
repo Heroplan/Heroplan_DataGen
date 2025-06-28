@@ -1,4 +1,5 @@
 # -*- coding: utf-8 -*-
+import os
 import re
 import json
 import logging
@@ -98,15 +99,18 @@ def extract_string_from_item(item):
 def main():
     """主函数，执行家族奖励的双语批量翻译流程。"""
     # (修改) 更新日志和文件名
-    logger = setup_logger('logs/families_bonus_bilingual_translation_log.log', 'FamiliesBonusBilingualTranslator')
+    # 确保日志目录存在
+    if not os.path.exists('../logs'):
+        os.makedirs('../logs')
+    logger = setup_logger('../logs/families_bonus_bilingual_translation_log.log', 'FamiliesBonusBilingualTranslator')
     logger.info("--- 开始家族奖励（Family Bonus）双语批量翻译任务 ---")
 
     # (修改) 定义简繁双语的输入输出文件
     dict_file_cn = 'dictionaries/families_bonus_dict_cn.json'
     dict_file_tc = 'dictionaries/families_bonus_dict_tc.json'
     input_file = 'to_translate/families_bonus_to_translate.js'
-    output_file_cn = '../Heroplan.github.io/families_bonus_cn.js'
-    output_file_tc = '../Heroplan.github.io/families_bonus_tc.js'
+    output_file_cn = 'families_bonus_cn.js'
+    output_file_tc = 'families_bonus_tc.js'
 
     # (修改) 分别为简繁创建翻译器实例
     translator_cn = Translator(dict_file_cn, logger, 'CN')

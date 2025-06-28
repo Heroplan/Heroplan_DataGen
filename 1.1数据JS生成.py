@@ -71,6 +71,9 @@ appearance_map_en = {"costume": "C1", "costume1": "C1", "costume2": "C2", "costu
 # --- 功能函数 ---
 
 def setup_logging():
+    # 确保日志目录存在
+    if not os.path.exists('../logs'):
+        os.makedirs('../logs')
     logging.basicConfig(filename="logs/skill_generation.log", level=logging.INFO, format='%(message)s', encoding='utf-8')
     console = logging.StreamHandler()
     console.setLevel(logging.INFO)

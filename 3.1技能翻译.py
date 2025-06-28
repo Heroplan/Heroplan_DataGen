@@ -1,5 +1,6 @@
 # -*- coding: utf-8 -*-
 import re
+import os
 import json
 import logging
 import copy
@@ -96,7 +97,10 @@ def extract_string_from_item(item):
 
 def main():
     """主函数，执行批量翻译流程。"""
-    logger = setup_logger('logs/effects_bilingual_translation_log.log', 'EffectsBilingualTranslator')
+    # 确保日志目录存在
+    if not os.path.exists('../logs'):
+        os.makedirs('../logs')
+    logger = setup_logger('../logs/effects_bilingual_translation_log.log', 'EffectsBilingualTranslator')
     logger.info("--- 开始技能词条双语批量翻译任务 ---")
 
     # (修改) 定义简繁双语的输入输出文件

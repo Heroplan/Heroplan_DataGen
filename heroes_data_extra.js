@@ -1428,7 +1428,9 @@ const heroes_data_extra = [
         "skill_types": [
             "Cleansers",
             "Healers",
-            "Revivers"
+            "Revivers",
+            "Ability Scores Modifiers",
+            "Healers (Special)"
         ]
     },
     {
@@ -3125,7 +3127,8 @@ const heroes_data_extra = [
         "skill_types": [
             "Dispellers",
             "Snipers",
-            "DoT Attackers"
+            "DoT Attackers",
+            "Healing Reducers"
         ]
     },
     {
@@ -3562,7 +3565,8 @@ const heroes_data_extra = [
             "Cleansers",
             "DoT Attackers",
             "Healing Reducers",
-            "Snipers"
+            "Snipers",
+            "Healing Reducers"
         ]
     },
     {
@@ -5008,7 +5012,8 @@ const heroes_data_extra = [
         "skill_types": [
             "DoT Attackers",
             "AoE Attackers (Hit-3)",
-            "Sleepweavers"
+            "Sleepweavers",
+            "Healing Reducers"
         ]
     },
     {
@@ -6176,7 +6181,8 @@ const heroes_data_extra = [
         "skill_types": [
             "Bypassers",
             "Snipers",
-            "Dodgers"
+            "Dodgers",
+            "Healing Reducers"
         ]
     },
     {
@@ -9365,7 +9371,8 @@ const heroes_data_extra = [
             "AoE Attackers (Hit-5)",
             "Fiends Summoners",
             "DoT Attackers",
-            "Chain & Random Attackers"
+            "Chain & Random Attackers",
+            "Healing Reducers"
         ]
     },
     {
@@ -9401,7 +9408,8 @@ const heroes_data_extra = [
             "Dodgers",
             "Minions Summoners",
             "Silencers",
-            "Snipers"
+            "Snipers",
+            "Healing Reducers"
         ]
     },
     {
@@ -11206,7 +11214,8 @@ const heroes_data_extra = [
             "Minions Counters",
             "Bypassers",
             "AoE Attackers (Hit-3)",
-            "Debuffers (ATK)"
+            "Debuffers (ATK)",
+            "Ability Scores Modifiers"
         ]
     },
     {
@@ -11653,7 +11662,8 @@ const heroes_data_extra = [
             "AoE Attackers (Hit-5)",
             "DoT Attackers",
             "Minions Summoners",
-            "Debuffers (DEF)"
+            "Debuffers (DEF)",
+            "Healing Reducers"
         ]
     },
     {
@@ -12403,7 +12413,8 @@ const heroes_data_extra = [
         "skill_types": [
             "Buff Stealers",
             "Heal over Time (HoT)",
-            "Healers"
+            "Healers",
+            "Healing Reducers"
         ]
     },
     {
@@ -15968,7 +15979,8 @@ const heroes_data_extra = [
         "skill_types": [
             "DoT Attackers",
             "Minions Counters",
-            "Status Effects Blockers"
+            "Status Effects Blockers",
+            "Healing Reducers"
         ]
     },
     {
