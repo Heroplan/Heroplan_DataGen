@@ -109,8 +109,8 @@ def main():
     dict_file_cn = 'dictionaries/families_bonus_dict_cn.json'
     dict_file_tc = 'dictionaries/families_bonus_dict_tc.json'
     input_file = 'to_translate/families_bonus_to_translate.js'
-    output_file_cn = 'families_bonus_cn.js'
-    output_file_tc = 'families_bonus_tc.js'
+    output_file_cn = 'translated/families_bonus_cn.js'
+    output_file_tc = 'translated/families_bonus_tc.js'
 
     # (修改) 分别为简繁创建翻译器实例
     translator_cn = Translator(dict_file_cn, logger, 'CN')

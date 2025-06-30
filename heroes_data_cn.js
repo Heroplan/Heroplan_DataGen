@@ -15,7 +15,7 @@ window.allHeroes =
             "全体攻击 (打5)"
         ],
         "source": "S1-经典",
-        "Release date": "2017-01-01",
+        "Release date": "2017-03-01",
         "star": 1,
         "power": 210,
         "attack": 177,
@@ -45,7 +45,7 @@ window.allHeroes =
             "狙击手"
         ],
         "source": "S1-经典",
-        "Release date": "2017-01-01",
+        "Release date": "2017-03-01",
         "star": 1,
         "power": 210,
         "attack": 183,
@@ -75,7 +75,7 @@ window.allHeroes =
             "防御增益"
         ],
         "source": "S1-经典",
-        "Release date": "2017-01-01",
+        "Release date": "2017-03-01",
         "star": 2,
         "power": 332,
         "attack": 283,
@@ -105,7 +105,7 @@ window.allHeroes =
             "全体攻击 (打5)"
         ],
         "source": "S1-经典",
-        "Release date": "2017-01-01",
+        "Release date": "2017-03-01",
         "star": 2,
         "power": 334,
         "attack": 369,
@@ -135,7 +135,7 @@ window.allHeroes =
             "攻击增益"
         ],
         "source": "S1-经典",
-        "Release date": "2017-01-01",
+        "Release date": "2017-03-01",
         "star": 2,
         "power": 333,
         "attack": 310,
@@ -318,7 +318,7 @@ window.allHeroes =
             "狙击手"
         ],
         "source": "S2-亚特兰蒂斯",
-        "Release date": "2019-08-01",
+        "Release date": "2019-08-22",
         "star": 3,
         "power": 447,
         "attack": 516,
@@ -351,7 +351,7 @@ window.allHeroes =
             "狙击手"
         ],
         "source": "S1-经典",
-        "Release date": "2017-01-01",
+        "Release date": "2017-03-01",
         "star": 3,
         "power": 441,
         "attack": 467,
@@ -527,7 +527,7 @@ window.allHeroes =
             "伤害分摊"
         ],
         "source": "S1-经典",
-        "Release date": "2017-01-01",
+        "Release date": "2017-03-01",
         "star": 3,
         "power": 441,
         "attack": 387,
@@ -560,7 +560,7 @@ window.allHeroes =
             "防御减益"
         ],
         "source": "S1-经典",
-        "Release date": "2020-01-01",
+        "Release date": "2020-01-20",
         "star": 3,
         "power": 464,
         "attack": 415,
@@ -844,7 +844,7 @@ window.allHeroes =
             "范围攻击 (打3)"
         ],
         "source": "S1-经典",
-        "Release date": "2017-01-01",
+        "Release date": "2017-03-01",
         "star": 3,
         "power": 442,
         "attack": 484,
@@ -1130,7 +1130,7 @@ window.allHeroes =
             "防御减益"
         ],
         "source": "S1-经典",
-        "Release date": "2017-01-01",
+        "Release date": "2017-03-01",
         "star": 3,
         "power": 445,
         "attack": 528,
@@ -1233,7 +1233,7 @@ window.allHeroes =
             "狙击手"
         ],
         "source": "S1-经典",
-        "Release date": "2017-01-01",
+        "Release date": "2017-03-01",
         "star": 3,
         "power": 442,
         "attack": 479,
@@ -1382,7 +1382,7 @@ window.allHeroes =
             "额外伤害"
         ],
         "source": "挑战节-海盗",
-        "Release date": "2017-01-01",
+        "Release date": "2017-09-07",
         "star": 3,
         "power": 455,
         "attack": 439,
@@ -1416,7 +1416,7 @@ window.allHeroes =
             "召唤小兵"
         ],
         "source": "三国召唤",
-        "Release date": "2022-03-14T12:00:00",
+        "Release date": "2022-03-14",
         "star": 3,
         "power": 483,
         "attack": 486,
@@ -1609,7 +1609,7 @@ window.allHeroes =
         "health": 1326,
         "effects": [
             "为所有盟友恢复 15% 生命值。",
-            "施法者和附近盟友会以承受伤害的 100% 进行反击，持续 4 回合。每进行一次反击，反击伤害 +5% ，最高为 130%。"
+            "施法者和附近盟友会以承受伤害的 100% 进行反击，持续 4 回合。每进行一次反击，反击伤害 +5%，最高为 130%。"
         ],
         "passives": [
             "特殊技能效果：当该角色施放其特殊技能时，有 60% 几率执行以下操作",
@@ -1648,7 +1648,7 @@ window.allHeroes =
         "health": 1369,
         "effects": [
             "为所有盟友恢复 10% 生命值。",
-            "施法者和附近盟友会以承受伤害的 110% 进行反击，持续 4 回合。每进行一次反击，反击伤害 +5% ，最高为 135%。"
+            "施法者和附近盟友会以承受伤害的 110% 进行反击，持续 4 回合。每进行一次反击，反击伤害 +5%，最高为 135%。"
         ],
         "passives": [
             "特殊技能效果：当该角色施放其特殊技能时，有 60% 几率执行以下操作",
@@ -1717,7 +1717,7 @@ window.allHeroes =
             "反击"
         ],
         "source": "S1-经典",
-        "Release date": "2017-01-01",
+        "Release date": "2017-03-01",
         "star": 4,
         "power": 643,
         "attack": 501,
@@ -1784,7 +1784,7 @@ window.allHeroes =
         "defense": 884,
         "health": 1404,
         "effects": [
-            "所有盟友会以所受伤害的 80% 进行反击，持续 4 回合。反击伤害每回合增加 20% ，最高可达 140%。"
+            "所有盟友会以所受伤害的 80% 进行反击，持续 4 回合。反击伤害每回合增加 20%，最高可达 140%。"
         ],
         "passives": [],
         "family": "classic",
@@ -1843,7 +1843,7 @@ window.allHeroes =
             "狙击手"
         ],
         "source": "挑战节-仙境",
-        "Release date": "2019-02-01",
+        "Release date": "2019-02-14",
         "star": 4,
         "power": 650,
         "attack": 620,
@@ -2109,7 +2109,7 @@ window.allHeroes =
             "防御减益"
         ],
         "source": "S1-经典",
-        "Release date": "2017-01-01",
+        "Release date": "2017-03-01",
         "star": 4,
         "power": 642,
         "attack": 716,
@@ -2291,7 +2291,7 @@ window.allHeroes =
         "defense": 684,
         "health": 1296,
         "effects": [
-            "除施法者外所有盟友获得软化皮肤（他们下次受到的伤害减少 -90% ，并抵抗所有状态异常和法力减损。此效果无法驱散）。",
+            "除施法者外所有盟友获得软化皮肤（他们下次受到的伤害减少 -90%，并抵抗所有状态异常和法力减损。此效果无法驱散）。",
             "所有盟友在 3 回合内恢复 510 点生命值。若身上带有该状态效果时受到特殊技能的直接伤害，则该效果持续时间会重置。",
             "净化所有盟友的状态异常。"
         ],
@@ -2357,7 +2357,7 @@ window.allHeroes =
             "治疗"
         ],
         "source": "S1-经典",
-        "Release date": "2017-01-01",
+        "Release date": "2017-03-01",
         "star": 4,
         "power": 647,
         "attack": 656,
@@ -2817,7 +2817,7 @@ window.allHeroes =
             "狙击手"
         ],
         "source": "S1-经典",
-        "Release date": "2017-01-01",
+        "Release date": "2017-03-01",
         "star": 4,
         "power": 643,
         "attack": 607,
@@ -2850,7 +2850,7 @@ window.allHeroes =
             "狙击手"
         ],
         "source": "S1-经典",
-        "Release date": "2020-01-01",
+        "Release date": "2020-01-20",
         "star": 4,
         "power": 678,
         "attack": 646,
@@ -2961,7 +2961,7 @@ window.allHeroes =
         "health": 1049,
         "effects": [
             "对目标造成 335% 伤害。",
-            "所有盟友获得的治疗增加 +39% ，持续 4 回合。"
+            "所有盟友获得的治疗增加 +39%，持续 4 回合。"
         ],
         "passives": [],
         "family": "atlantis",
@@ -3022,7 +3022,7 @@ window.allHeroes =
             "狙击手"
         ],
         "source": "月活动-莫洛维亚",
-        "Release date": "2018-10-01",
+        "Release date": "2018-10-25",
         "star": 4,
         "power": 649,
         "attack": 609,
@@ -3031,7 +3031,7 @@ window.allHeroes =
         "effects": [
             "对目标造成 235% 伤害。",
             "目标在 5 回合内受到共计 150 点伤害。若目标身上已有此效果，持续时间将会刷新，并且伤害会提高 220 点，最多共计 580 点伤害。",
-            "施法者偷取目标所获治疗的 61% ，持续 3 回合。"
+            "施法者偷取目标所获治疗的 61%，持续 3 回合。"
         ],
         "passives": [
             "窃取增益 - 当该角色施放其特殊技能时，有 50% 的几率从一个带有增益的随机敌人身上窃取最新的可驱散增益。如果没有敌人带有增益，则对所有敌人造成 70% 的伤害。"
@@ -3059,7 +3059,7 @@ window.allHeroes =
             "狙击手"
         ],
         "source": "三国召唤",
-        "Release date": "2022-03-14T12:00:00",
+        "Release date": "2022-03-14",
         "star": 4,
         "power": 683,
         "attack": 641,
@@ -3166,7 +3166,7 @@ window.allHeroes =
             "召唤恶魔"
         ],
         "source": "盟约召唤",
-        "Release date": "2022-09-18",
+        "Release date": "2022-09-15",
         "star": 5,
         "power": 888,
         "attack": 803,
@@ -3174,7 +3174,7 @@ window.allHeroes =
         "health": 1695,
         "effects": [
             "对目标及附近敌人造成 395% 伤害。",
-            "召唤刺骨陷阱恶魔附身于目标及附近敌人。恶魔每回合对敌人造成 45% 攻击力的伤害。该伤害每回合提高 8% ，最高可达 93%。",
+            "召唤刺骨陷阱恶魔附身于目标及附近敌人。恶魔每回合对敌人造成 45% 攻击力的伤害。该伤害每回合提高 8%，最高可达 93%。",
             "刺骨陷阱恶魔会吸收治疗，当吸收的治疗量达到其所有者最大生命值的 35% 时，它便会消失。",
             "目标与附近敌人获得 -56% 防御，持续 4 回合。"
         ],
@@ -3207,7 +3207,7 @@ window.allHeroes =
             "持续治疗"
         ],
         "source": "月英",
-        "Release date": "2018-10-01T00:00:00",
+        "Release date": "2018-10-01",
         "star": 5,
         "power": 768,
         "attack": 615,
@@ -3360,7 +3360,7 @@ window.allHeroes =
             "防御增益"
         ],
         "source": "月英",
-        "Release date": "2018-05-01T00:00:00",
+        "Release date": "2018-05-01",
         "star": 5,
         "power": 768,
         "attack": 739,
@@ -3448,7 +3448,7 @@ window.allHeroes =
             "为所有盟友恢复 26% 生命值。",
             "面板上每存在一个冰雪系盾牌，便额外恢复 3% 生命，最多共计恢复 50% 生命值。",
             "面板中所有冰雪系盾牌的暴击几率或精准度受到影响。攻击方英雄施放特殊技能时，盾牌得到增强并额外给予 +54% 的暴击几率。防御方英雄施放特殊技能时，盾牌会被削弱精准度 -47%。",
-            "元素链给予所有冰雪系盟友受到的治疗增加 +10% ，持续 4 回合。此效果无法驱散。"
+            "元素链给予所有冰雪系盟友受到的治疗增加 +10%，持续 4 回合。此效果无法驱散。"
         ],
         "passives": [
             "抵抗治疗异常：该角色天生对影响治疗的状态异常有抵抗能力。",
@@ -3476,7 +3476,7 @@ window.allHeroes =
             "狙击手"
         ],
         "source": "挑战节-仙境",
-        "Release date": "2019-02-01",
+        "Release date": "2019-02-14",
         "star": 5,
         "power": 769,
         "attack": 741,
@@ -3523,7 +3523,7 @@ window.allHeroes =
             "当特殊技能充能至 100% / 200% / 300% 法力时将拥有不同的效果：",
             "1 倍法力充能：",
             "* 对所有敌人造成 200% 伤害。",
-            "* 所有敌人获得的治疗减少 -25% ，持续 3 回合。",
+            "* 所有敌人获得的治疗减少 -25%，持续 3 回合。",
             "2 倍法力充能：",
             "* 对所有敌人造成 315% 伤害。",
             "* 召唤冥河精魂恶魔附身于所有敌人。恶魔每回合对其目标造成 40% 攻击力的伤害。",
@@ -3532,7 +3532,7 @@ window.allHeroes =
             "* 对所有敌人造成 365% 伤害。",
             "* 召唤冥河精魂恶魔附身于所有敌人。恶魔每回合对其目标造成 40% 攻击力的伤害。",
             "* 冥河精魂恶魔会吸收治疗。它在吸收了相当于其目标最大生命值 25% 的治疗量后便会消失。",
-            "* 所有敌人获得的治疗减少 -75% ，持续 4 回合。"
+            "* 所有敌人获得的治疗减少 -75%，持续 4 回合。"
         ],
         "passives": [
             "降低小兵生命值：敌方小兵被召唤时继承的生命值减少 -50%。",
@@ -3576,7 +3576,7 @@ window.allHeroes =
             "摧毁全部敌人的全部小兵并杀伤所有超级小兵。",
             "摧毁所有盟友的恶魔。此效果会对超级恶魔造成伤害。",
             "所有盟友获得一个焰暴守卫，持续 4 回合，它可使所受的特殊技能伤害降低最多 -1300 点。当攻击者为自然系元素时可额外降低 30% 的伤害。",
-            "所有盟友获得 +40% 法力生成，持续 4 回合（只影响通过消除英雄格或由防御队伍在其回合结束时获得的法力）。"
+            "所有盟友获得 +40% 法力生成，持续 4 回合（只影响通过消除方块或由防御队伍在其回合结束时获得的法力）。"
         ],
         "passives": [
             "强化抵抗燃烧：该角色天生对燃烧有抵抗能力，并且每次抵抗时获得 450 点生命加成和 5% 的法力。",
@@ -3614,7 +3614,7 @@ window.allHeroes =
         "defense": 840,
         "health": 1816,
         "effects": [
-            "所有盟友会以所受伤害的 75% 进行反击，面板上每存在一个冰雪系护盾则进一步增加 7% ，持续 5 回合，最高可达共计 159% 伤害。",
+            "所有盟友会以所受伤害的 75% 进行反击，面板上每存在一个冰雪系护盾则进一步增加 7%，持续 5 回合，最高可达共计 159% 伤害。",
             "所有冰雪系盟友每次反击可恢复适量法力，持续 5 回合。同一回合中效果经连续激活会减弱。"
         ],
         "passives": [
@@ -3843,7 +3843,7 @@ window.allHeroes =
             "防御增益"
         ],
         "source": "月英",
-        "Release date": "2017-07-01T00:00:00",
+        "Release date": "2017-07-01",
         "star": 5,
         "power": 765,
         "attack": 737,
@@ -4099,8 +4099,8 @@ window.allHeroes =
         "defense": 859,
         "health": 1563,
         "effects": [
-            "施法者和附近盟友会以承受伤害的 100% 进行反击，持续 5 回合。每进行一次反击，反击伤害 +5% ，最高为 130%。",
-            "施法者和附近盟友所受的所有伤害减少 -50% ，持续 5 回合。"
+            "施法者和附近盟友会以承受伤害的 100% 进行反击，持续 5 回合。每进行一次反击，反击伤害 +5%，最高为 130%。",
+            "施法者和附近盟友所受的所有伤害减少 -50%，持续 5 回合。"
         ],
         "passives": [
             "特殊技能效果：当该角色施放其特殊技能时，有 60% 几率执行以下操作",
@@ -4137,8 +4137,8 @@ window.allHeroes =
         "defense": 1245,
         "health": 2344,
         "effects": [
-            "施法者和附近盟友会以承受伤害的 100% 进行反击，持续 5 回合。每进行一次反击，反击伤害 +10% ，最高为 160%。",
-            "施法者和附近盟友所受的所有伤害减少 -30% ，持续 5 回合。"
+            "施法者和附近盟友会以承受伤害的 100% 进行反击，持续 5 回合。每进行一次反击，反击伤害 +10%，最高为 160%。",
+            "施法者和附近盟友所受的所有伤害减少 -30%，持续 5 回合。"
         ],
         "passives": [
             "特殊技能效果：当该角色施放其特殊技能时，有 60% 几率执行以下操作",
@@ -4183,8 +4183,8 @@ window.allHeroes =
             "对所有敌人造成 350% 伤害。",
             "为所有盟友恢复等同于所造成伤害 30% 的生命值。",
             "所有敌人受到小兵创伤，持续 5 回合。",
-            "小兵创伤：目标的小兵生命每回合减少 50% ，超级小兵生命每回合减少 25% （此效果对其拥有的小兵和任何获得的任何小兵皆有效。减损效果只影响小兵当前生命值）。",
-            "所有盟友获得 +40% 法力生成，持续 5 回合（只影响通过消除英雄格或由防御队伍在其回合结束时获得的法力）。"
+            "小兵创伤：目标的小兵生命每回合减少 50%，超级小兵生命每回合减少 25% （此效果对其拥有的小兵和任何获得的任何小兵皆有效。减损效果只影响小兵当前生命值）。",
+            "所有盟友获得 +40% 法力生成，持续 5 回合（只影响通过消除方块或由防御队伍在其回合结束时获得的法力）。"
         ],
         "passives": [
             "快节奏 - 民谣：所有由敌人施放的民谣仅持续 1 回合。",
@@ -5124,7 +5124,7 @@ window.allHeroes =
         "effects": [
             "所有盟友在 4 回合内获得共计 500 点生命加成。提高的生命值可以超过最大生命值。若身上带有该状态效果时受到特殊技能的直接伤害，则该效果持续时间会重置。",
             "所有盟友获得 +30% 防御，持续 4 回合。",
-            "所有盟友获得 +20% 法力生成，持续 4 回合（只影响通过消除英雄格或由防御队伍在其回合结束时获得的法力）。"
+            "所有盟友获得 +20% 法力生成，持续 4 回合（只影响通过消除方块或由防御队伍在其回合结束时获得的法力）。"
         ],
         "passives": [
             "特殊技能附带持续伤害：当该角色施放其特殊技能时，所有敌人会在 2 回合内受到 238 点水系伤害。",
@@ -5319,7 +5319,7 @@ window.allHeroes =
         "health": 1297,
         "effects": [
             "对目标造成 320% 伤害。",
-            "如果目标剩余生命少于 50% ，可对其造成 640% 伤害。",
+            "如果目标剩余生命少于 50%，可对其造成 640% 伤害。",
             "施法者每击败一个敌人即可获得适量法力，每摧毁一个小兵即可获得少量法力。",
             "为施法者恢复等同于所造成伤害 50% 的生命值。"
         ],
@@ -5357,7 +5357,7 @@ window.allHeroes =
         "health": 1734,
         "effects": [
             "对目标造成 350% 伤害。",
-            "如果目标剩余生命少于 50% ，可对其造成 700% 伤害。",
+            "如果目标剩余生命少于 50%，可对其造成 700% 伤害。",
             "施法者每击败一个敌人即可恢复 35% 生命，每摧毁一个敌方小兵即可恢复 15% 生命值。",
             "使施法者的法力增加 15%。"
         ],
@@ -5394,7 +5394,7 @@ window.allHeroes =
         "health": 2187,
         "effects": [
             "令法力最多的敌人降低 70% 法力。令其他所有敌人降低 40% 法力。",
-            "所有敌人获得 -30% 法力生成，持续 6 回合（只影响通过消除英雄格或由防御队伍在其回合结束时获得的法力）。",
+            "所有敌人获得 -30% 法力生成，持续 6 回合（只影响通过消除方块或由防御队伍在其回合结束时获得的法力）。",
             "召唤一个持剑守卫超级小兵，其可从施法者处继承 35% 生命值和 300% 攻击力。",
             "被持剑守卫超级小兵击中的目标会在 3 回合内受到共计 414 点流血伤害。此效果会蔓延至附近敌人。"
         ],
@@ -5427,7 +5427,7 @@ window.allHeroes =
             "狙击手"
         ],
         "source": "挑战节-海盗",
-        "Release date": "2017-01-01",
+        "Release date": "2019-11-11",
         "star": 5,
         "power": 781,
         "attack": 753,
@@ -6111,7 +6111,7 @@ window.allHeroes =
         "effects": [
             "使用霜降打击攻击目标和附近敌人，造成最多 2300 点伤害。若目标为火焰系元素则额外造成 40% 伤害。该特殊技能必定命中。",
             "使目标和附近敌人减少 800 点最大生命值。若目标拥有加成的生命值，此效果会增强（最大生命值不能低于初始最大生命值的 30%。任何加成的生命值会额外减少 600 点）。",
-            "目标与附近敌人获得的治疗减少 -70% ，持续 4 回合。"
+            "目标与附近敌人获得的治疗减少 -70%，持续 4 回合。"
         ],
         "passives": [
             "强化抵抗冰冻：该角色天生对冰冻有抵抗能力，并且每次抵抗时获得 450 点生命加成和 5% 的法力。",
@@ -6155,7 +6155,7 @@ window.allHeroes =
         "effects": [
             "对所有敌人造成 340% 伤害。",
             "使所有敌人的法力减少 20%。",
-            "所有敌人获得 -24% 法力生成，持续 4 回合（只影响通过消除英雄格或由防御队伍在其回合结束时获得的法力）。",
+            "所有敌人获得 -24% 法力生成，持续 4 回合（只影响通过消除方块或由防御队伍在其回合结束时获得的法力）。",
             "增益之源：每回合开始时，对随机一名盟友施放以下效果。",
             "* +70% 攻击力，持续 5 回合。",
             "* +50% 防御，持续 5 回合。",
@@ -6263,7 +6263,7 @@ window.allHeroes =
             "防御减益"
         ],
         "source": "S1-经典",
-        "Release date": "2017-01-01",
+        "Release date": "2017-03-01",
         "star": 5,
         "power": 755,
         "attack": 797,
@@ -6296,7 +6296,7 @@ window.allHeroes =
             "防御减益"
         ],
         "source": "S1-经典",
-        "Release date": "2020-01-01",
+        "Release date": "2020-01-20",
         "star": 5,
         "power": 794,
         "attack": 869,
@@ -6454,7 +6454,7 @@ window.allHeroes =
         "effects": [
             "对目标造成 530% 伤害。",
             "与被击中敌人相邻的所有敌人都将受到连锁攻击。",
-            "所有被击中的目标受到的伤害增加 +50% ，持续 5 回合。所有敌人每拥有一个小兵或超级小兵，则该效果提高 +10% ，最多可提高 +100%。",
+            "所有被击中的目标受到的伤害增加 +50%，持续 5 回合。所有敌人每拥有一个小兵或超级小兵，则该效果提高 +10%，最多可提高 +100%。",
             "衰退：所有敌人获得 -450 点攻击力。"
         ],
         "passives": [
@@ -6661,7 +6661,7 @@ window.allHeroes =
             "狙击手"
         ],
         "source": "挑战节-阿瓦隆",
-        "Release date": "2017-01-01",
+        "Release date": "2018-01-05",
         "star": 5,
         "power": 765,
         "attack": 708,
@@ -6797,6 +6797,56 @@ window.allHeroes =
         "originalIndex": 178
     },
     {
+        "name": "伦纳特 (Lennart)",
+        "fancy_name": "锐眼猞猁",
+        "AetherPower": "状态异常免疫",
+        "color": "蓝色",
+        "class": "游侠",
+        "speed": "快速",
+        "skill": "追踪射击",
+        "types": [
+            "攻击单个目标",
+            "单体持续伤害",
+            "单个目标承受的状态异常伤害增加",
+            "单个目标每次抵抗治疗时受到伤害"
+        ],
+        "skill_types": [
+            "狙击手",
+            "持续伤害",
+            "复活",
+            "治疗削减",
+            "额外伤害"
+        ],
+        "source": "荒野召唤",
+        "Release date": "2025-06-28",
+        "star": 5,
+        "power": 1215,
+        "attack": 1326,
+        "defense": 1176,
+        "health": 2121,
+        "effects": [
+            "对目标造成 500% 伤害。",
+            "目标在 6 回合内受到 1500 点奔涌流血伤害。（若目标已拥有此效果，持续时间会被刷新，且伤害增加 300 点。最大总伤害： 2400。）",
+            "目标在 6 回合内承受的状态异常伤害增加 +40%。",
+            "目标将抵抗治疗且每次抵抗治疗时都将受到 300 点伤害，持续 6 回合。"
+        ],
+        "passives": [
+            "九条命：",
+            "* 被击败时，该角色有 80% 的几率在下一回合开始时以 50% 的生命值和 80% 的法力复活。",
+            "* 最多可触发 9 次。复活几率会在每次触发后衰减。无法通过状态异常或被动技能阻止该效果。",
+            "特质：轻盈体态",
+            "该角色不受增加或减少防御的效果影响。",
+            "这包括：",
+            "* - 状态效果增益和异常。",
+            "* - 正面和负面叠加。",
+            "* - 成长和衰退效果。"
+        ],
+        "family": "wildcat",
+        "image": "https://imgur.com/yQl1QjJ.jpg",
+        "costume_id": 0,
+        "originalIndex": 179
+    },
+    {
         "name": "洛基领主 (Lord Loki)",
         "fancy_name": "戏法师之神",
         "AetherPower": "特殊护甲",
@@ -6828,7 +6878,7 @@ window.allHeroes =
         "family": "jotunheim",
         "image": "https://i.imgur.com/eGy2uqe.jpg",
         "costume_id": 0,
-        "originalIndex": 179
+        "originalIndex": 180
     },
     {
         "name": "洛基领主 (Lord Loki) C1",
@@ -6864,7 +6914,7 @@ window.allHeroes =
         "family": "jotunheim",
         "image": "https://i.imgur.com/aEGEu4Y.jpg",
         "costume_id": 1,
-        "originalIndex": 180
+        "originalIndex": 181
     },
     {
         "name": "莱莎诺 (Lysanor)",
@@ -6894,7 +6944,7 @@ window.allHeroes =
         "health": 1808,
         "effects": [
             "每名被击败的盟友有 60% 的几率以 20% 的生命值复活。",
-            "所有盟友获得 +50% 攻击力，持续 5 回合。攻击力每回合增加 5% ，最高为 +70%。",
+            "所有盟友获得 +50% 攻击力，持续 5 回合。攻击力每回合增加 5%，最高为 +70%。",
             "所有盟友在 5 回合内获得共计 1270 点生命加成。提高的生命值可以超过最大生命值。"
         ],
         "passives": [
@@ -6904,7 +6954,7 @@ window.allHeroes =
         "family": "stag",
         "image": "https://i.imgur.com/Er9WfxT.jpg",
         "costume_id": 0,
-        "originalIndex": 181
+        "originalIndex": 182
     },
     {
         "name": "玛吉斯汀 (Magistine)",
@@ -6945,7 +6995,7 @@ window.allHeroes =
         "family": "slime",
         "image": "https://imgur.com/7ut41LY.jpg",
         "costume_id": 0,
-        "originalIndex": 182
+        "originalIndex": 183
     },
     {
         "name": "马格尼 (Magni)",
@@ -6964,7 +7014,7 @@ window.allHeroes =
             "狙击手"
         ],
         "source": "S1-经典",
-        "Release date": "2017-01-01",
+        "Release date": "2017-03-01",
         "star": 5,
         "power": 754,
         "attack": 793,
@@ -6978,7 +7028,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/JpMZ0xh.jpg",
         "costume_id": 0,
-        "originalIndex": 183
+        "originalIndex": 184
     },
     {
         "name": "马格尼 (Magni) C1",
@@ -7011,7 +7061,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/A0jPrh9.jpg",
         "costume_id": 1,
-        "originalIndex": 184
+        "originalIndex": 185
     },
     {
         "name": "马格尼 (Magni) C2",
@@ -7044,7 +7094,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/npmSFHz.jpg",
         "costume_id": 2,
-        "originalIndex": 185
+        "originalIndex": 186
     },
     {
         "name": "马格尼 (Magni) 卡通",
@@ -7081,7 +7131,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/bakqHYB.jpg",
         "costume_id": 3,
-        "originalIndex": 186
+        "originalIndex": 187
     },
     {
         "name": "马格尼 (Magni) 玻璃",
@@ -7119,7 +7169,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/EJome7K.jpg",
         "costume_id": 4,
-        "originalIndex": 187
+        "originalIndex": 188
     },
     {
         "name": "马莉奥尔 (Mariol)",
@@ -7157,7 +7207,7 @@ window.allHeroes =
         "family": "owl",
         "image": "https://i.imgur.com/NhlQa4M.jpg",
         "costume_id": 0,
-        "originalIndex": 188
+        "originalIndex": 189
     },
     {
         "name": "天兔大师 (Master Lepus)",
@@ -7176,7 +7226,7 @@ window.allHeroes =
             "对自身或友军负面效果"
         ],
         "source": "月活动-春谷",
-        "Release date": "2017-01-01",
+        "Release date": "2018-03-28",
         "star": 5,
         "power": 763,
         "attack": 795,
@@ -7190,7 +7240,7 @@ window.allHeroes =
         "family": "springvale",
         "image": "https://i.imgur.com/Ti2FM1v.jpg",
         "costume_id": 0,
-        "originalIndex": 189
+        "originalIndex": 190
     },
     {
         "name": "天兔大师 (Master Lepus) C1",
@@ -7223,7 +7273,7 @@ window.allHeroes =
         "family": "springvale",
         "image": "https://i.imgur.com/aLTsGWG.jpg",
         "costume_id": 1,
-        "originalIndex": 190
+        "originalIndex": 191
     },
     {
         "name": "马特雷拉 (Matrera)",
@@ -7261,7 +7311,7 @@ window.allHeroes =
         "family": "gargoyle",
         "image": "https://i.imgur.com/5yPwJb7.jpg",
         "costume_id": 0,
-        "originalIndex": 191
+        "originalIndex": 192
     },
     {
         "name": "梅内 (Mene)",
@@ -7302,7 +7352,7 @@ window.allHeroes =
         "family": 2024,
         "image": "https://i.imgur.com/yERCkFp.jpg",
         "costume_id": 0,
-        "originalIndex": 192
+        "originalIndex": 193
     },
     {
         "name": "米琪 (Miki)",
@@ -7339,7 +7389,7 @@ window.allHeroes =
         "family": 2019,
         "image": "https://i.imgur.com/FM0GgVz.jpg",
         "costume_id": 0,
-        "originalIndex": 193
+        "originalIndex": 194
     },
     {
         "name": "米莱狄·德·温特 (Milady de Winter)",
@@ -7379,7 +7429,7 @@ window.allHeroes =
         "family": "musketeer",
         "image": "https://i.imgur.com/NEdggUL.jpg",
         "costume_id": 0,
-        "originalIndex": 194
+        "originalIndex": 195
     },
     {
         "name": "米莱娜 (Milena)",
@@ -7425,7 +7475,7 @@ window.allHeroes =
         "family": "magic",
         "image": "https://i.imgur.com/30AXxJs.jpg",
         "costume_id": 0,
-        "originalIndex": 195
+        "originalIndex": 196
     },
     {
         "name": "米莱娜 (Milena) C1",
@@ -7472,7 +7522,7 @@ window.allHeroes =
         "family": "magic",
         "image": "https://imgur.com/hwGD9H1.jpg",
         "costume_id": 1,
-        "originalIndex": 196
+        "originalIndex": 197
     },
     {
         "name": "米丽安与午夜 (Miriam & Midnight)",
@@ -7512,7 +7562,7 @@ window.allHeroes =
         "family": "morlovia",
         "image": "https://i.imgur.com/eyJkRvq.jpg",
         "costume_id": 0,
-        "originalIndex": 197
+        "originalIndex": 198
     },
     {
         "name": "米桑德拉 (Misandra)",
@@ -7548,7 +7598,7 @@ window.allHeroes =
         "family": "lagoon",
         "image": "https://i.imgur.com/YC2DFg3.jpg",
         "costume_id": 0,
-        "originalIndex": 198
+        "originalIndex": 199
     },
     {
         "name": "米桑德拉 (Misandra) C1",
@@ -7584,7 +7634,7 @@ window.allHeroes =
         "family": "lagoon",
         "image": "https://i.imgur.com/ZELxM85.jpg",
         "costume_id": 1,
-        "originalIndex": 199
+        "originalIndex": 200
     },
     {
         "name": "艾瑟尔小姐 (Miss Ethel)",
@@ -7619,7 +7669,7 @@ window.allHeroes =
         "family": "springvale",
         "image": "https://i.imgur.com/B15IDKf.jpg",
         "costume_id": 0,
-        "originalIndex": 200
+        "originalIndex": 201
     },
     {
         "name": "米斯特拉 (Mistra)",
@@ -7660,7 +7710,7 @@ window.allHeroes =
         "family": "champions",
         "image": "https://i.imgur.com/NaHaaPY.jpg",
         "costume_id": 0,
-        "originalIndex": 201
+        "originalIndex": 202
     },
     {
         "name": "蜜丝缇 (Misty)",
@@ -7700,7 +7750,7 @@ window.allHeroes =
         "family": "beachparty",
         "image": "https://i.imgur.com/qRuu0M1.jpg",
         "costume_id": 0,
-        "originalIndex": 202
+        "originalIndex": 203
     },
     {
         "name": "莫德瑞丝 (Modthryth)",
@@ -7746,7 +7796,7 @@ window.allHeroes =
         "family": "beowulf",
         "image": "https://i.imgur.com/oiGz5nc.jpg",
         "costume_id": 0,
-        "originalIndex": 203
+        "originalIndex": 204
     },
     {
         "name": "月医 (Mooncure)",
@@ -7780,7 +7830,7 @@ window.allHeroes =
         "effects": [
             "为所有盟友恢复 55% 生命值。",
             "每次敌人使用其特殊技能时，所有盟友获得 +10% 法力，并持续 5 回合。",
-            "施法者偷取所有敌人所获治疗的 50% ，持续 5 回合。",
+            "施法者偷取所有敌人所获治疗的 50%，持续 5 回合。",
             "所有敌人获得 -40% 攻击力，持续 5 回合。"
         ],
         "passives": [
@@ -7790,7 +7840,7 @@ window.allHeroes =
         "family": "astralelves",
         "image": "https://i.imgur.com/K8e9yy9.jpg",
         "costume_id": 0,
-        "originalIndex": 204
+        "originalIndex": 205
     },
     {
         "name": "莫雷尔 (Morel)",
@@ -7825,7 +7875,7 @@ window.allHeroes =
         "family": "underwild",
         "image": "https://i.imgur.com/BbpdvD9.jpg",
         "costume_id": 0,
-        "originalIndex": 205
+        "originalIndex": 206
     },
     {
         "name": "莫雷尔 (Morel) C1",
@@ -7866,7 +7916,7 @@ window.allHeroes =
         "family": "underwild",
         "image": "https://i.imgur.com/MAsmJsS.jpg",
         "costume_id": 1,
-        "originalIndex": 206
+        "originalIndex": 207
     },
     {
         "name": "潘吉先生 (Mr. Pengi)",
@@ -7904,7 +7954,7 @@ window.allHeroes =
         "family": "christmas",
         "image": "https://i.imgur.com/BbxUIy4.jpg",
         "costume_id": 0,
-        "originalIndex": 207
+        "originalIndex": 208
     },
     {
         "name": "潘吉先生 (Mr. Pengi) C1",
@@ -7943,7 +7993,7 @@ window.allHeroes =
         "family": "christmas",
         "image": "https://i.imgur.com/kNrkptI.jpg",
         "costume_id": 1,
-        "originalIndex": 208
+        "originalIndex": 209
     },
     {
         "name": "诺第卡 (Nautica)",
@@ -7988,7 +8038,7 @@ window.allHeroes =
         "family": "construct",
         "image": "https://i.imgur.com/iuMlpaP.jpg",
         "costume_id": 0,
-        "originalIndex": 209
+        "originalIndex": 210
     },
     {
         "name": "九头兽 (Nine-Headed Beast)",
@@ -8032,7 +8082,7 @@ window.allHeroes =
         "family": "journey",
         "image": "https://i.imgur.com/8Uj8Jmv.jpg",
         "costume_id": 0,
-        "originalIndex": 210
+        "originalIndex": 211
     },
     {
         "name": "尼洛拉 (Nylora)",
@@ -8073,7 +8123,7 @@ window.allHeroes =
         "family": "superelemental",
         "image": "https://i.imgur.com/NBQDloj.jpg",
         "costume_id": 0,
-        "originalIndex": 211
+        "originalIndex": 212
     },
     {
         "name": "奥黛特 (Odette)",
@@ -8111,7 +8161,7 @@ window.allHeroes =
             "对除施法者外的所有盟友施放天鹅之舞，持续 3 回合。添加此效果时将移除所有现有状态效果。",
             "天鹅之舞。",
             "* +45% 几率闪避攻击和特殊技能。",
-            "* 任何盟友随后施放特殊技能时，有 50% 几率对随机一名敌人造成 360 % 伤害。",
+            "* 任何盟友随后施放特殊技能时，有 50% 几率对随机一名敌人造成 360% 伤害。",
             "* 免疫新的状态效果。新的舞蹈状态效果将取代此效果。",
             "* 此效果无法驱散。施法者阵亡后效果移除。"
         ],
@@ -8122,7 +8172,7 @@ window.allHeroes =
         "family": "opera",
         "image": "https://i.imgur.com/ATDUydH.jpg",
         "costume_id": 0,
-        "originalIndex": 212
+        "originalIndex": 213
     },
     {
         "name": "鬼若丸 (Oniwakamaru)",
@@ -8168,7 +8218,7 @@ window.allHeroes =
         "family": "ninja",
         "image": "https://i.imgur.com/TgO9p2o.jpg",
         "costume_id": 0,
-        "originalIndex": 213
+        "originalIndex": 214
     },
     {
         "name": "奥德索 (Otso)",
@@ -8207,7 +8257,7 @@ window.allHeroes =
         "family": "kalevala",
         "image": "https://i.imgur.com/lO11H6h.jpg",
         "costume_id": 0,
-        "originalIndex": 214
+        "originalIndex": 215
     },
     {
         "name": "帕瑟帕特奥 (Passepartout)",
@@ -8238,7 +8288,7 @@ window.allHeroes =
         "effects": [
             "为所有盟友恢复 25% 生命值。",
             "所有盟友在 4 回合内恢复共计 400 点生命值，面板中每存在一个自然系盾牌则额外提升 100 点生命值，最多提升至 1200 点生命值。",
-            "所有盟友的获得 +20% 防御，面板中每个自然系盾牌额外提升 7% ，持续 4 回合，最多累计至 76% 防御。"
+            "所有盟友的获得 +20% 防御，面板中每个自然系盾牌额外提升 7%，持续 4 回合，最多累计至 76% 防御。"
         ],
         "passives": [
             "延长增益持续时间：该英雄从特殊技能中获得的前 3 个增益效果的持续时间增加 1 回合。"
@@ -8246,7 +8296,7 @@ window.allHeroes =
         "family": "underwild",
         "image": "https://i.imgur.com/6D1hJ1P.jpg",
         "costume_id": 0,
-        "originalIndex": 215
+        "originalIndex": 216
     },
     {
         "name": "帕瑟帕特奥 (Passepartout) C1",
@@ -8278,7 +8328,7 @@ window.allHeroes =
         "effects": [
             "为所有盟友恢复 40% 生命值。",
             "所有盟友在 4 回合内恢复共计 260 点生命值，面板中每存在一个自然系盾牌则额外提升 76 点生命值，最多提升至 868 点生命值。",
-            "所有盟友的获得 +30% 防御，面板中每个自然系盾牌额外提升 8% ，持续 4 回合，最多累计至 +94% 防御。"
+            "所有盟友的获得 +30% 防御，面板中每个自然系盾牌额外提升 8%，持续 4 回合，最多累计至 +94% 防御。"
         ],
         "passives": [
             "延长增益持续时间：该英雄从特殊技能中获得的前 3 个增益效果的持续时间增加 1 回合。",
@@ -8287,7 +8337,7 @@ window.allHeroes =
         "family": "underwild",
         "image": "https://i.imgur.com/mcEOLvZ.jpg",
         "costume_id": 1,
-        "originalIndex": 216
+        "originalIndex": 217
     },
     {
         "name": "佩普布勒 (Pepperbleu)",
@@ -8330,7 +8380,7 @@ window.allHeroes =
         "family": "moth",
         "image": "https://i.imgur.com/zllnmP0.jpg",
         "costume_id": 0,
-        "originalIndex": 217
+        "originalIndex": 218
     },
     {
         "name": "柏休斯 (Perseus)",
@@ -8352,7 +8402,7 @@ window.allHeroes =
             "狙击手"
         ],
         "source": "月英",
-        "Release date": "2017-12-01T00:00:00",
+        "Release date": "2017-12-01",
         "star": 5,
         "power": 765,
         "attack": 725,
@@ -8360,7 +8410,7 @@ window.allHeroes =
         "health": 1367,
         "effects": [
             "对目标造成 455% 伤害。",
-            "目标获得的治疗减少 -100% ，持续 4 回合。此效果无法净化。",
+            "目标获得的治疗减少 -100%，持续 4 回合。此效果无法净化。",
             "施法者和附近盟友获得对自然系 +94% 的防御，持续 4 回合。",
             "元素链为全体冰雪系盟友提供 10% 的法力生成，持续 4 回合。此效果无法驱散。"
         ],
@@ -8368,7 +8418,7 @@ window.allHeroes =
         "family": 2017,
         "image": "https://i.imgur.com/AMhR92j.jpg",
         "costume_id": 0,
-        "originalIndex": 218
+        "originalIndex": 219
     },
     {
         "name": "柏休斯 (Perseus) C1",
@@ -8391,7 +8441,7 @@ window.allHeroes =
             "驱散"
         ],
         "source": "月英",
-        "Release date": "2022-11-28T11:00:00",
+        "Release date": "2022-11-28",
         "star": 5,
         "power": 973,
         "attack": 928,
@@ -8399,7 +8449,7 @@ window.allHeroes =
         "health": 1982,
         "effects": [
             "对目标及附近敌人造成 405% 伤害。",
-            "目标与附近敌人获得的治疗减少 -100% ，持续 4 回合。此效果无法净化。",
+            "目标与附近敌人获得的治疗减少 -100%，持续 4 回合。此效果无法净化。",
             "目标与附近敌人获得对冰雪系 -68% 的防御，持续 4 回合。",
             "元素链为全体冰雪系盟友提供 +10% 的法力生成，持续 4 回合。此效果无法驱散。"
         ],
@@ -8409,7 +8459,7 @@ window.allHeroes =
         "family": 2017,
         "image": "https://i.imgur.com/nzVNwio.jpg",
         "costume_id": 1,
-        "originalIndex": 219
+        "originalIndex": 220
     },
     {
         "name": "金曲 (Pophit)",
@@ -8440,7 +8490,7 @@ window.allHeroes =
         "effects": [
             "目标与附近敌人获得 -30% 防御，持续 3 回合。若该效果在持续时间结束前被移除，其拥有者将受到 668 点伤害。",
             "对目标及附近敌人造成 390% 伤害。",
-            "附近盟友获得软化皮肤效果（他们下次受到的伤害减少 -90% ，并抵抗所有状态异常和法力减损。此效果无法驱散）。"
+            "附近盟友获得软化皮肤效果（他们下次受到的伤害减少 -90%，并抵抗所有状态异常和法力减损。此效果无法驱散）。"
         ],
         "passives": [
             "石像鬼的软化皮肤：每当此石像鬼施放特殊技能时，其软化皮肤会激活。接下来受到的 3 次伤害降低 -90%，并抵抗所有状态异常和法力削减。此效果无法被驱散。"
@@ -8448,7 +8498,7 @@ window.allHeroes =
         "family": "gargoyle",
         "image": "https://i.imgur.com/Q0YpIYH.jpg",
         "costume_id": 0,
-        "originalIndex": 220
+        "originalIndex": 221
     },
     {
         "name": "波尔多斯 (Porthos)",
@@ -8490,7 +8540,7 @@ window.allHeroes =
         "family": "musketeer",
         "image": "https://i.imgur.com/BwYaSTj.jpg",
         "costume_id": 0,
-        "originalIndex": 221
+        "originalIndex": 222
     },
     {
         "name": "夸里 (Quari)",
@@ -8532,7 +8582,7 @@ window.allHeroes =
         "family": "astraldwarfs",
         "image": "https://i.imgur.com/eBrPD5E.jpg",
         "costume_id": 0,
-        "originalIndex": 222
+        "originalIndex": 223
     },
     {
         "name": "奎恩 (Quinn)",
@@ -8582,7 +8632,7 @@ window.allHeroes =
         "family": "superelemental",
         "image": "https://i.imgur.com/deN3GU2.jpg",
         "costume_id": 0,
-        "originalIndex": 223
+        "originalIndex": 224
     },
     {
         "name": "昆汀 (Quintin)",
@@ -8615,7 +8665,7 @@ window.allHeroes =
         "family": "raven",
         "image": "https://i.imgur.com/8ISALDU.jpg",
         "costume_id": 0,
-        "originalIndex": 224
+        "originalIndex": 225
     },
     {
         "name": "拉菲尔 (Raffaele)",
@@ -8655,7 +8705,7 @@ window.allHeroes =
         "family": 2020,
         "image": "https://i.imgur.com/O0p11HF.jpg",
         "costume_id": 0,
-        "originalIndex": 225
+        "originalIndex": 226
     },
     {
         "name": "里安 (Rian)",
@@ -8700,7 +8750,7 @@ window.allHeroes =
         "family": "slayer",
         "image": "https://i.imgur.com/pgR8NJw.jpg",
         "costume_id": 0,
-        "originalIndex": 226
+        "originalIndex": 227
     },
     {
         "name": "理查德 (Richard)",
@@ -8719,7 +8769,7 @@ window.allHeroes =
             "攻击减益"
         ],
         "source": "S1-经典",
-        "Release date": "2017-01-01",
+        "Release date": "2017-03-01",
         "star": 5,
         "power": 755,
         "attack": 644,
@@ -8733,7 +8783,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/G5NAe4a.jpg",
         "costume_id": 0,
-        "originalIndex": 227
+        "originalIndex": 228
     },
     {
         "name": "理查德 (Richard) C1",
@@ -8752,7 +8802,7 @@ window.allHeroes =
             "攻击减益"
         ],
         "source": "S1-经典",
-        "Release date": "2020-01-01",
+        "Release date": "2020-01-20",
         "star": 5,
         "power": 795,
         "attack": 682,
@@ -8766,7 +8816,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/WKQthMP.jpg",
         "costume_id": 1,
-        "originalIndex": 228
+        "originalIndex": 229
     },
     {
         "name": "理查德 (Richard) C2",
@@ -8800,7 +8850,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/7TMtgd4.jpg",
         "costume_id": 2,
-        "originalIndex": 229
+        "originalIndex": 230
     },
     {
         "name": "理查德 (Richard) 卡通",
@@ -8837,7 +8887,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/2rEfoQ7.jpg",
         "costume_id": 3,
-        "originalIndex": 230
+        "originalIndex": 231
     },
     {
         "name": "理查德 (Richard) 玻璃",
@@ -8875,7 +8925,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/zd4avma.jpg",
         "costume_id": 4,
-        "originalIndex": 231
+        "originalIndex": 232
     },
     {
         "name": "龙佩尔斯迪尔钦 (Rumpelstiltskin)",
@@ -8897,7 +8947,7 @@ window.allHeroes =
             "治疗"
         ],
         "source": "挑战节-肃煞森林",
-        "Release date": "2017-01-01",
+        "Release date": "2019-12-01",
         "star": 5,
         "power": 767,
         "attack": 733,
@@ -8919,7 +8969,7 @@ window.allHeroes =
         "family": "grimforest",
         "image": "https://i.imgur.com/v7aCbsm.jpg",
         "costume_id": 0,
-        "originalIndex": 232
+        "originalIndex": 233
     },
     {
         "name": "龙佩尔斯迪尔钦 (Rumpelstiltskin) C1",
@@ -8967,7 +9017,7 @@ window.allHeroes =
         "family": "grimforest",
         "image": "https://i.imgur.com/G2za8YY.jpg",
         "costume_id": 1,
-        "originalIndex": 233
+        "originalIndex": 234
     },
     {
         "name": "鲁苏拉 (Russula)",
@@ -9007,7 +9057,7 @@ window.allHeroes =
         "family": "underwild",
         "image": "https://i.imgur.com/MqnrIZ3.jpg",
         "costume_id": 0,
-        "originalIndex": 234
+        "originalIndex": 235
     },
     {
         "name": "鲁苏拉 (Russula) C1",
@@ -9023,7 +9073,7 @@ window.allHeroes =
         ],
         "skill_types": [
             "全体攻击 (打5)",
-            "Damage Reducers)",
+            "伤害减免",
             "伤害减免",
             "鬼魂形态与隐藏",
             "狙击手",
@@ -9050,7 +9100,7 @@ window.allHeroes =
         "family": "underwild",
         "image": "https://i.imgur.com/KzLvPms.jpg",
         "costume_id": 1,
-        "originalIndex": 235
+        "originalIndex": 236
     },
     {
         "name": "紫貂 (Sable)",
@@ -9097,7 +9147,7 @@ window.allHeroes =
         "family": "fox",
         "image": "https://i.imgur.com/rZTJzw7.jpg",
         "costume_id": 0,
-        "originalIndex": 236
+        "originalIndex": 237
     },
     {
         "name": "开悟 (Satori)",
@@ -9136,7 +9186,7 @@ window.allHeroes =
         "family": "champions",
         "image": "https://i.imgur.com/pKtN1Ok.jpg",
         "costume_id": 0,
-        "originalIndex": 237
+        "originalIndex": 238
     },
     {
         "name": "泽野 (Sawano)",
@@ -9184,7 +9234,7 @@ window.allHeroes =
         "family": "ninja",
         "image": "https://i.imgur.com/iP6Lloh.jpg",
         "costume_id": 0,
-        "originalIndex": 238
+        "originalIndex": 239
     },
     {
         "name": "西格恩 (Sigyn)",
@@ -9215,7 +9265,7 @@ window.allHeroes =
         "effects": [
             "对位于敌军阵型边缘的敌人造成 500% 伤害。如果仅有一名敌人，则伤害加倍。",
             "使敌阵边缘的敌人法力减少 50%。",
-            "召唤刺骨陷阱恶魔附身于敌方阵型边缘的敌人。恶魔每回合对敌人造成 45% 攻击力的伤害。该伤害每回合提高 8% ，最高可达 93%。",
+            "召唤刺骨陷阱恶魔附身于敌方阵型边缘的敌人。恶魔每回合对敌人造成 45% 攻击力的伤害。该伤害每回合提高 8%，最高可达 93%。",
             "刺骨陷阱恶魔会吸收治疗，当吸收的治疗量达到其所有者最大生命值的 35% 时，它便会消失。"
         ],
         "passives": [
@@ -9225,7 +9275,7 @@ window.allHeroes =
         "family": "plainshunter",
         "image": "https://i.imgur.com/JtNxfb8.jpg",
         "costume_id": 0,
-        "originalIndex": 239
+        "originalIndex": 240
     },
     {
         "name": "西尼 (Sini)",
@@ -9267,7 +9317,7 @@ window.allHeroes =
         "family": 2024,
         "image": "https://i.imgur.com/IV4i4UQ.jpg",
         "costume_id": 0,
-        "originalIndex": 240
+        "originalIndex": 241
     },
     {
         "name": "希奥弗拉 (Siofra)",
@@ -9299,8 +9349,8 @@ window.allHeroes =
         "effects": [
             "对目标及附近敌人造成 290% 伤害。",
             "攻击会无视防御增益（包括反击）。",
-            "目标与附近敌人获得 -40% 攻击力，持续 3 回合。攻击力每回合减少 -5% ，最高可达 -50%。",
-            "目标与附近敌人获得的治疗减少 -80% ，持续 3 回合。"
+            "目标与附近敌人获得 -40% 攻击力，持续 3 回合。攻击力每回合减少 -5%，最高可达 -50%。",
+            "目标与附近敌人获得的治疗减少 -80%，持续 3 回合。"
         ],
         "passives": [
             "受到增益时恢复生命：该角色在获得增益或正面效果叠加时恢复 5% 的生命值。"
@@ -9308,7 +9358,7 @@ window.allHeroes =
         "family": "stag",
         "image": "https://i.imgur.com/kkNu861.jpg",
         "costume_id": 0,
-        "originalIndex": 241
+        "originalIndex": 242
     },
     {
         "name": "斯嘉蒂 (Skadi)",
@@ -9347,7 +9397,7 @@ window.allHeroes =
         "family": "jotunheim",
         "image": "https://i.imgur.com/MzjdnYC.jpg",
         "costume_id": 0,
-        "originalIndex": 242
+        "originalIndex": 243
     },
     {
         "name": "斯嘉蒂 (Skadi) C1",
@@ -9386,7 +9436,7 @@ window.allHeroes =
         "family": "jotunheim",
         "image": "https://i.imgur.com/SWH0vbH.jpg",
         "costume_id": 1,
-        "originalIndex": 243
+        "originalIndex": 244
     },
     {
         "name": "斯卡恩 (Skarn)",
@@ -9429,7 +9479,7 @@ window.allHeroes =
         "family": "construct",
         "image": "https://i.imgur.com/jl8sclm.jpg",
         "costume_id": 0,
-        "originalIndex": 244
+        "originalIndex": 245
     },
     {
         "name": "史莱姆戈 (Slimgo)",
@@ -9459,7 +9509,7 @@ window.allHeroes =
         "effects": [
             "对所有敌人造成 270% 伤害。",
             "所有敌人在 3 回合内受到共计 627 点水系伤害。",
-            "所有敌人获得 -35% 法力生成，持续 3 回合（只影响通过消除英雄格或由防御队伍在其回合结束时获得的法力）。"
+            "所有敌人获得 -35% 法力生成，持续 3 回合（只影响通过消除方块或由防御队伍在其回合结束时获得的法力）。"
         ],
         "passives": [
             "被击败时召唤史莱姆小兵：当该角色被击败时，为附近的盟友召唤继承其 50% 生命值和 40% 攻击力的史莱姆巨大体型小兵。",
@@ -9468,7 +9518,7 @@ window.allHeroes =
         "family": "slime",
         "image": "https://i.imgur.com/TOPTa45.jpg",
         "costume_id": 0,
-        "originalIndex": 245
+        "originalIndex": 246
     },
     {
         "name": "白雪公主 (Snow White)",
@@ -9505,7 +9555,7 @@ window.allHeroes =
         "family": "grimforest",
         "image": "https://i.imgur.com/EVw3AO1.jpg",
         "costume_id": 0,
-        "originalIndex": 246
+        "originalIndex": 247
     },
     {
         "name": "白雪公主 (Snow White) C1",
@@ -9543,7 +9593,7 @@ window.allHeroes =
         "family": "grimforest",
         "image": "https://i.imgur.com/ko9NEXz.jpg",
         "costume_id": 1,
-        "originalIndex": 247
+        "originalIndex": 248
     },
     {
         "name": "索贝克 (Sobek)",
@@ -9580,7 +9630,7 @@ window.allHeroes =
         "family": "sun",
         "image": "https://i.imgur.com/3Y3v4bs.jpg",
         "costume_id": 0,
-        "originalIndex": 248
+        "originalIndex": 249
     },
     {
         "name": "索贝克 (Sobek) C1",
@@ -9621,7 +9671,7 @@ window.allHeroes =
         "family": "sun",
         "image": "https://i.imgur.com/E4kLEt9.jpg",
         "costume_id": 1,
-        "originalIndex": 249
+        "originalIndex": 250
     },
     {
         "name": "宋江 (Song Jiang)",
@@ -9669,7 +9719,7 @@ window.allHeroes =
         "family": "outlaws",
         "image": "https://imgur.com/ASg7ZAz.jpg",
         "costume_id": 0,
-        "originalIndex": 250
+        "originalIndex": 251
     },
     {
         "name": "娑柔 (Sorrow)",
@@ -9699,7 +9749,7 @@ window.allHeroes =
         "health": 1699,
         "effects": [
             "为施法者和附近盟友召唤 2 个冰封镰刀小兵，其可从施法者处继承 18% 生命和 30% 攻击力。",
-            "冰封镰刀小兵被召唤后，只要其所有者拥有冰封镰刀小兵，其所有者就会获得 +45% 攻击力。攻击力每回合增加 5% ，最高可达 60%。此效果无法净化。",
+            "冰封镰刀小兵被召唤后，只要其所有者拥有冰封镰刀小兵，其所有者就会获得 +45% 攻击力。攻击力每回合增加 5%，最高可达 60%。此效果无法净化。",
             "冰封镰刀小兵被摧毁时将对所有敌人造成 135 点伤害。"
         ],
         "passives": [
@@ -9709,7 +9759,7 @@ window.allHeroes =
         "family": "abysshunter",
         "image": "https://i.imgur.com/h1FVbFE.jpg",
         "costume_id": 0,
-        "originalIndex": 251
+        "originalIndex": 252
     },
     {
         "name": "星游者 (Starwalker)",
@@ -9750,7 +9800,7 @@ window.allHeroes =
         "family": "astralelves",
         "image": "https://i.imgur.com/GZxuVqX.jpg",
         "costume_id": 0,
-        "originalIndex": 252
+        "originalIndex": 253
     },
     {
         "name": "铃奈 (Suzuna)",
@@ -9791,7 +9841,7 @@ window.allHeroes =
         "family": 2023,
         "image": "https://i.imgur.com/Mep7TSo.jpg",
         "costume_id": 0,
-        "originalIndex": 253
+        "originalIndex": 254
     },
     {
         "name": "提尔莫因 (Tealmoine)",
@@ -9831,7 +9881,7 @@ window.allHeroes =
         "family": "moth",
         "image": "https://i.imgur.com/OpdhCZP.jpg",
         "costume_id": 0,
-        "originalIndex": 254
+        "originalIndex": 255
     },
     {
         "name": "忒提丝 (Tethys)",
@@ -9868,7 +9918,7 @@ window.allHeroes =
         "family": "atlantis",
         "image": "https://i.imgur.com/LPmQIgT.jpg",
         "costume_id": 0,
-        "originalIndex": 255
+        "originalIndex": 256
     },
     {
         "name": "塔拉萨 (Thalassa)",
@@ -9914,7 +9964,7 @@ window.allHeroes =
         "family": "defendersofatlantis",
         "image": "https://i.imgur.com/aKuc2pB.jpg",
         "costume_id": 0,
-        "originalIndex": 256
+        "originalIndex": 257
     },
     {
         "name": "塔拉萨 (Thalassa) C1",
@@ -9960,7 +10010,7 @@ window.allHeroes =
         "family": "defendersofatlantis",
         "image": "https://i.imgur.com/EE7MEpv.jpg",
         "costume_id": 1,
-        "originalIndex": 257
+        "originalIndex": 258
     },
     {
         "name": "塔纳托斯 (Thanatos)",
@@ -10008,7 +10058,7 @@ window.allHeroes =
         "family": "styx",
         "image": "https://i.imgur.com/WM6GD2A.jpg",
         "costume_id": 0,
-        "originalIndex": 258
+        "originalIndex": 259
     },
     {
         "name": "西奥博尔德 (Theobald)",
@@ -10046,7 +10096,7 @@ window.allHeroes =
         "family": "starfall",
         "image": "https://i.imgur.com/z0VwSFd.jpg",
         "costume_id": 0,
-        "originalIndex": 259
+        "originalIndex": 260
     },
     {
         "name": "索恩 (Thorne)",
@@ -10063,7 +10113,7 @@ window.allHeroes =
             "范围攻击 (打3)"
         ],
         "source": "S1-经典",
-        "Release date": "2017-01-01",
+        "Release date": "2017-03-01",
         "star": 5,
         "power": 757,
         "attack": 638,
@@ -10076,7 +10126,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/9CT7f6V.jpg",
         "costume_id": 0,
-        "originalIndex": 260
+        "originalIndex": 261
     },
     {
         "name": "索恩 (Thorne) C1",
@@ -10109,7 +10159,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/YX5GVdv.jpg",
         "costume_id": 1,
-        "originalIndex": 261
+        "originalIndex": 262
     },
     {
         "name": "索恩 (Thorne) C2",
@@ -10145,7 +10195,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/IEUFL8t.jpg",
         "costume_id": 2,
-        "originalIndex": 262
+        "originalIndex": 263
     },
     {
         "name": "索恩 (Thorne) 卡通",
@@ -10179,7 +10229,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/bBInxqX.jpg",
         "costume_id": 3,
-        "originalIndex": 263
+        "originalIndex": 264
     },
     {
         "name": "蒂米乌斯 (Timius)",
@@ -10220,7 +10270,7 @@ window.allHeroes =
         "family": "owl",
         "image": "https://i.imgur.com/qe2xgVo.jpg",
         "costume_id": 0,
-        "originalIndex": 264
+        "originalIndex": 265
     },
     {
         "name": "金丝儿 (Tinsel)",
@@ -10252,14 +10302,14 @@ window.allHeroes =
         "effects": [
             "对目标及附近敌人造成 340% 伤害。",
             "为每位盟友召唤一个精灵小兵，此小兵继承施法者 10% 的生命值和 10% 的攻击力。",
-            "目标与附近敌人获得 -14% 防御，且面板上每有一面冰雪系盾牌则进一步降低 -5% ，持续 4 回合，最多累计至 -54% 防御。",
-            "目标与附近敌人获得 -10% 精准度，且面板上每有一面冰雪系盾牌则进一步降低 -5% ，持续 4 回合，最多累计至 -50% 精准度。"
+            "目标与附近敌人获得 -14% 防御，且面板上每有一面冰雪系盾牌则进一步降低 -5%，持续 4 回合，最多累计至 -54% 防御。",
+            "目标与附近敌人获得 -10% 精准度，且面板上每有一面冰雪系盾牌则进一步降低 -5%，持续 4 回合，最多累计至 -50% 精准度。"
         ],
         "passives": [],
         "family": "christmas",
         "image": "https://i.imgur.com/huD8kmB.jpg",
         "costume_id": 0,
-        "originalIndex": 265
+        "originalIndex": 266
     },
     {
         "name": "特烈末 (Tremor)",
@@ -10300,7 +10350,7 @@ window.allHeroes =
         "family": "junglehunter",
         "image": "https://i.imgur.com/zlwhqDy.jpg",
         "costume_id": 0,
-        "originalIndex": 266
+        "originalIndex": 267
     },
     {
         "name": "尤留思 (Ulius)",
@@ -10347,7 +10397,7 @@ window.allHeroes =
         "family": "magic",
         "image": "https://i.imgur.com/rdw7YpR.jpg",
         "costume_id": 0,
-        "originalIndex": 267
+        "originalIndex": 268
     },
     {
         "name": "维拉 (Vela)",
@@ -10389,7 +10439,7 @@ window.allHeroes =
         "family": 2020,
         "image": "https://i.imgur.com/mUzztO6.jpg",
         "costume_id": 0,
-        "originalIndex": 268
+        "originalIndex": 269
     },
     {
         "name": "维里蒂 (Verity)",
@@ -10429,7 +10479,7 @@ window.allHeroes =
         "family": "woodlandfaun",
         "image": "https://i.imgur.com/bRVjhkX.jpg",
         "costume_id": 0,
-        "originalIndex": 269
+        "originalIndex": 270
     },
     {
         "name": "文森特 (Vincent)",
@@ -10472,7 +10522,7 @@ window.allHeroes =
         "family": "gargoyle",
         "image": "https://i.imgur.com/L8aULPy.jpg",
         "costume_id": 0,
-        "originalIndex": 270
+        "originalIndex": 271
     },
     {
         "name": "水贯 (Waterpipe)",
@@ -10504,7 +10554,7 @@ window.allHeroes =
         "health": 1645,
         "effects": [
             "为每位盟友召唤一个鱼叉岗哨小兵，其可从施法者处继承 12% 生命和 20% 攻击力。",
-            "鱼叉岗哨小兵每次击中目标都会使目标的法力减少 -5% ，并给予目标以下状态异常：",
+            "鱼叉岗哨小兵每次击中目标都会使目标的法力减少 -5%，并给予目标以下状态异常：",
             "* 目标获得对特殊技能 -30% 的防御，持续 2 回合。",
             "* 目标对新的增益状态效果免疫，持续 2 回合。"
         ],
@@ -10515,7 +10565,7 @@ window.allHeroes =
         "family": "plainshunter",
         "image": "https://i.imgur.com/pzkFRII.jpg",
         "costume_id": 0,
-        "originalIndex": 271
+        "originalIndex": 272
     },
     {
         "name": "白牙 (Whitefang)",
@@ -10554,7 +10604,7 @@ window.allHeroes =
         "family": "fox",
         "image": "https://i.imgur.com/r0k8YaN.jpg",
         "costume_id": 0,
-        "originalIndex": 272
+        "originalIndex": 273
     },
     {
         "name": "扎帕 (Zappa)",
@@ -10590,7 +10640,7 @@ window.allHeroes =
         "family": "christmas",
         "image": "https://i.imgur.com/kOZsEFw.jpg",
         "costume_id": 0,
-        "originalIndex": 273
+        "originalIndex": 274
     },
     {
         "name": "曾迦 (Zengar)",
@@ -10634,7 +10684,7 @@ window.allHeroes =
         "family": "superelemental",
         "image": "https://i.imgur.com/DQY3Orp.jpg",
         "costume_id": 0,
-        "originalIndex": 274
+        "originalIndex": 275
     },
     {
         "name": "锆英 (Zircon)",
@@ -10682,7 +10732,7 @@ window.allHeroes =
         "family": "ninja",
         "image": "https://i.imgur.com/3XPQv8U.jpg",
         "costume_id": 0,
-        "originalIndex": 275
+        "originalIndex": 276
     },
     {
         "name": "奥伊芙 (Aife)",
@@ -10699,7 +10749,7 @@ window.allHeroes =
             "狙击手"
         ],
         "source": "S1-经典",
-        "Release date": "2017-01-01",
+        "Release date": "2017-03-01",
         "star": 1,
         "power": 209,
         "attack": 209,
@@ -10712,7 +10762,7 @@ window.allHeroes =
         "family": null,
         "image": "https://i.imgur.com/gTPieC1.jpg",
         "costume_id": 0,
-        "originalIndex": 276
+        "originalIndex": 277
     },
     {
         "name": "德里克 (Derric)",
@@ -10729,7 +10779,7 @@ window.allHeroes =
             "狙击手"
         ],
         "source": "S1-经典",
-        "Release date": "2017-01-01",
+        "Release date": "2017-03-01",
         "star": 1,
         "power": 210,
         "attack": 193,
@@ -10742,7 +10792,7 @@ window.allHeroes =
         "family": null,
         "image": "https://i.imgur.com/qLk060b.jpg",
         "costume_id": 0,
-        "originalIndex": 277
+        "originalIndex": 278
     },
     {
         "name": "布洛根 (Brogan)",
@@ -10759,7 +10809,7 @@ window.allHeroes =
             "范围攻击 (打3)"
         ],
         "source": "S1-经典",
-        "Release date": "2017-01-01",
+        "Release date": "2017-03-01",
         "star": 2,
         "power": 335,
         "attack": 295,
@@ -10772,7 +10822,7 @@ window.allHeroes =
         "family": null,
         "image": "https://i.imgur.com/wLaZQ4W.jpg",
         "costume_id": 0,
-        "originalIndex": 278
+        "originalIndex": 279
     },
     {
         "name": "詹内 (Jenneh)",
@@ -10789,7 +10839,7 @@ window.allHeroes =
             "狙击手"
         ],
         "source": "S1-经典",
-        "Release date": "2017-01-01",
+        "Release date": "2017-03-01",
         "star": 2,
         "power": 335,
         "attack": 328,
@@ -10802,7 +10852,7 @@ window.allHeroes =
         "family": null,
         "image": "https://i.imgur.com/reFxsXr.jpg",
         "costume_id": 0,
-        "originalIndex": 279
+        "originalIndex": 280
     },
     {
         "name": "刺头 (Needler)",
@@ -10819,7 +10869,7 @@ window.allHeroes =
             "狙击手"
         ],
         "source": "S1-经典",
-        "Release date": "2017-01-01",
+        "Release date": "2017-03-01",
         "star": 2,
         "power": 333,
         "attack": 358,
@@ -10832,7 +10882,7 @@ window.allHeroes =
         "family": null,
         "image": "https://i.imgur.com/KlbXSTV.jpg",
         "costume_id": 0,
-        "originalIndex": 280
+        "originalIndex": 281
     },
     {
         "name": "阿莱西亚 (Alessia)",
@@ -10867,7 +10917,7 @@ window.allHeroes =
         "family": "maskedgod",
         "image": "https://i.imgur.com/d2IW4aE.jpg",
         "costume_id": 0,
-        "originalIndex": 281
+        "originalIndex": 282
     },
     {
         "name": "贝丽丝 (Belith)",
@@ -10886,7 +10936,7 @@ window.allHeroes =
             "治疗"
         ],
         "source": "S1-经典",
-        "Release date": "2017-01-01",
+        "Release date": "2017-03-01",
         "star": 3,
         "power": 441,
         "attack": 425,
@@ -10900,7 +10950,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/aLWFiS9.jpg",
         "costume_id": 0,
-        "originalIndex": 282
+        "originalIndex": 283
     },
     {
         "name": "贝丽丝 (Belith) C1",
@@ -10933,7 +10983,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/MHO518e.jpg",
         "costume_id": 1,
-        "originalIndex": 283
+        "originalIndex": 284
     },
     {
         "name": "贝丽丝 (Belith) 卡通",
@@ -10971,7 +11021,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/d6OTmVG.jpg",
         "costume_id": 2,
-        "originalIndex": 284
+        "originalIndex": 285
     },
     {
         "name": "贝丽丝 (Belith) 玻璃",
@@ -11009,7 +11059,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://imgur.com/Y4Gu3iU.jpg",
         "costume_id": 3,
-        "originalIndex": 285
+        "originalIndex": 286
     },
     {
         "name": "博尔登 (Berden)",
@@ -11028,7 +11078,7 @@ window.allHeroes =
             "狙击手"
         ],
         "source": "S1-经典",
-        "Release date": "2017-01-01",
+        "Release date": "2017-03-01",
         "star": 3,
         "power": 444,
         "attack": 470,
@@ -11042,7 +11092,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/VjExjHL.jpg",
         "costume_id": 0,
-        "originalIndex": 286
+        "originalIndex": 287
     },
     {
         "name": "博尔登 (Berden) C1",
@@ -11075,7 +11125,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/H6Orhln.jpg",
         "costume_id": 1,
-        "originalIndex": 287
+        "originalIndex": 288
     },
     {
         "name": "博尔登 (Berden) 卡通",
@@ -11112,7 +11162,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/JqQwQQo.jpg",
         "costume_id": 2,
-        "originalIndex": 288
+        "originalIndex": 289
     },
     {
         "name": "博尔登 (Berden) 玻璃",
@@ -11150,7 +11200,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://imgur.com/lvzA5b8.jpg",
         "costume_id": 3,
-        "originalIndex": 289
+        "originalIndex": 290
     },
     {
         "name": "布里恩妮 (Brienne)",
@@ -11167,7 +11217,7 @@ window.allHeroes =
             "攻击增益"
         ],
         "source": "S1-经典",
-        "Release date": "2017-01-01",
+        "Release date": "2017-03-01",
         "star": 3,
         "power": 440,
         "attack": 446,
@@ -11180,7 +11230,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/sdXIZmv.jpg",
         "costume_id": 0,
-        "originalIndex": 290
+        "originalIndex": 291
     },
     {
         "name": "布里恩妮 (Brienne) C1",
@@ -11197,7 +11247,7 @@ window.allHeroes =
             "防御减益"
         ],
         "source": "S1-经典",
-        "Release date": "2020-01-01",
+        "Release date": "2020-01-20",
         "star": 3,
         "power": 464,
         "attack": 466,
@@ -11210,7 +11260,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/ig1RoGx.jpg",
         "costume_id": 1,
-        "originalIndex": 291
+        "originalIndex": 292
     },
     {
         "name": "布里恩妮 (Brienne) 卡通",
@@ -11242,7 +11292,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/0PzrzM8.jpg",
         "costume_id": 2,
-        "originalIndex": 292
+        "originalIndex": 293
     },
     {
         "name": "布里恩妮 (Brienne) 玻璃",
@@ -11278,7 +11328,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/Z7YMKIU.jpg",
         "costume_id": 3,
-        "originalIndex": 293
+        "originalIndex": 294
     },
     {
         "name": "拜伍尔夫 (By-Ulf)",
@@ -11320,7 +11370,7 @@ window.allHeroes =
         "family": "niflheim",
         "image": "https://i.imgur.com/TVINRSf.jpg",
         "costume_id": 0,
-        "originalIndex": 294
+        "originalIndex": 295
     },
     {
         "name": "卡沃 (Carver)",
@@ -11339,7 +11389,7 @@ window.allHeroes =
             "法力削减或格挡"
         ],
         "source": "S1-经典",
-        "Release date": "2017-01-01",
+        "Release date": "2017-03-01",
         "star": 3,
         "power": 444,
         "attack": 464,
@@ -11353,7 +11403,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/DfWafQ3.jpg",
         "costume_id": 0,
-        "originalIndex": 295
+        "originalIndex": 296
     },
     {
         "name": "卡沃 (Carver) C1",
@@ -11386,7 +11436,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/xs9Nn7b.jpg",
         "costume_id": 1,
-        "originalIndex": 296
+        "originalIndex": 297
     },
     {
         "name": "卡沃 (Carver) 卡通",
@@ -11423,7 +11473,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/rbDQHbY.jpg",
         "costume_id": 2,
-        "originalIndex": 297
+        "originalIndex": 298
     },
     {
         "name": "奇雷斯 (Chires)",
@@ -11461,7 +11511,7 @@ window.allHeroes =
         "family": "astraldwarfs",
         "image": "https://imgur.com/AIJJV87.jpg",
         "costume_id": 0,
-        "originalIndex": 298
+        "originalIndex": 299
     },
     {
         "name": "多尔根 (Dolgoon)",
@@ -11506,7 +11556,7 @@ window.allHeroes =
         "family": "magic",
         "image": "https://i.imgur.com/vRYNJwU.jpg",
         "costume_id": 0,
-        "originalIndex": 299
+        "originalIndex": 300
     },
     {
         "name": "法伊兹 (Faiez)",
@@ -11546,7 +11596,7 @@ window.allHeroes =
         "family": "sun",
         "image": "https://i.imgur.com/vZiyZG9.jpg",
         "costume_id": 0,
-        "originalIndex": 300
+        "originalIndex": 301
     },
     {
         "name": "法伊兹 (Faiez) C1",
@@ -11585,7 +11635,7 @@ window.allHeroes =
         "family": "sun",
         "image": "https://i.imgur.com/TFnsKJy.jpg",
         "costume_id": 1,
-        "originalIndex": 301
+        "originalIndex": 302
     },
     {
         "name": "费瑟里诺 (Featherino)",
@@ -11619,7 +11669,7 @@ window.allHeroes =
         "family": "owl",
         "image": "https://i.imgur.com/zCCCscJ.jpg",
         "costume_id": 0,
-        "originalIndex": 302
+        "originalIndex": 303
     },
     {
         "name": "菲安娜 (Fianna)",
@@ -11647,7 +11697,7 @@ window.allHeroes =
         "health": 785,
         "effects": [
             "对目标及附近敌人造成 225% 伤害。",
-            "召唤刺骨陷阱恶魔附身于目标及附近敌人。恶魔每回合对敌人造成 45% 攻击力的伤害。该伤害每回合提高 8% ，最高可达 93%。",
+            "召唤刺骨陷阱恶魔附身于目标及附近敌人。恶魔每回合对敌人造成 45% 攻击力的伤害。该伤害每回合提高 8%，最高可达 93%。",
             "刺骨陷阱恶魔会吸收治疗，当吸收的治疗量达到其所有者最大生命值的 35% 时，它便会消失。"
         ],
         "passives": [
@@ -11657,7 +11707,7 @@ window.allHeroes =
         "family": "plainshunter",
         "image": "https://i.imgur.com/QukLnei.jpg",
         "costume_id": 0,
-        "originalIndex": 303
+        "originalIndex": 304
     },
     {
         "name": "塔克修士 (Friar Tuck)",
@@ -11676,7 +11726,7 @@ window.allHeroes =
             "法力生成增益"
         ],
         "source": "S1-经典",
-        "Release date": "2017-01-01",
+        "Release date": "2017-03-01",
         "star": 3,
         "power": 446,
         "attack": 458,
@@ -11690,7 +11740,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/nprqffe.jpg",
         "costume_id": 0,
-        "originalIndex": 304
+        "originalIndex": 305
     },
     {
         "name": "塔克修士 (Friar Tuck) C1",
@@ -11723,7 +11773,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/ia9GSNJ.jpg",
         "costume_id": 1,
-        "originalIndex": 305
+        "originalIndex": 306
     },
     {
         "name": "塔克修士 (Friar Tuck) 卡通",
@@ -11758,7 +11808,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/yE4ht6i.jpg",
         "costume_id": 2,
-        "originalIndex": 306
+        "originalIndex": 307
     },
     {
         "name": "塔克修士 (Friar Tuck) 玻璃",
@@ -11796,7 +11846,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://imgur.com/lcz3509.jpg",
         "costume_id": 3,
-        "originalIndex": 307
+        "originalIndex": 308
     },
     {
         "name": "寅将军 (General Yin)",
@@ -11831,7 +11881,7 @@ window.allHeroes =
         "family": "journey",
         "image": "https://i.imgur.com/hCb3jKN.jpg",
         "costume_id": 0,
-        "originalIndex": 308
+        "originalIndex": 309
     },
     {
         "name": "诺莫尔 (Gnomer)",
@@ -11864,7 +11914,7 @@ window.allHeroes =
         "family": "grimforest",
         "image": "https://i.imgur.com/VMip5iv.jpg",
         "costume_id": 0,
-        "originalIndex": 309
+        "originalIndex": 310
     },
     {
         "name": "小黏糊 (Goopy)",
@@ -11893,7 +11943,7 @@ window.allHeroes =
         "effects": [
             "对所有敌人造成 125% 伤害。",
             "面板上每存在一个自然系盾牌，便额外造成 12% 伤害，最多累计造成 221% 伤害。",
-            "所有敌人获得 -24% 法力生成，且面板上每有一面自然系盾牌则进一步降低 2% ，持续 3 回合，最多累计至 -40% 法力生成。"
+            "所有敌人获得 -24% 法力生成，且面板上每有一面自然系盾牌则进一步降低 2%，持续 3 回合，最多累计至 -40% 法力生成。"
         ],
         "passives": [
             "窃取增益 - 当该角色施放其特殊技能时，有 50% 的几率从一个带有增益的随机敌人身上窃取最新的可驱散增益。如果没有敌人带有增益，则对所有敌人造成 70% 的伤害。"
@@ -11901,7 +11951,7 @@ window.allHeroes =
         "family": "morlovia",
         "image": "https://i.imgur.com/WJOazL8.jpg",
         "costume_id": 0,
-        "originalIndex": 310
+        "originalIndex": 311
     },
     {
         "name": "格兰普斯 (Gramps)",
@@ -11936,7 +11986,7 @@ window.allHeroes =
         "family": "underwild",
         "image": "https://i.imgur.com/QGwMonb.jpg",
         "costume_id": 0,
-        "originalIndex": 311
+        "originalIndex": 312
     },
     {
         "name": "格兰普斯 (Gramps) C1",
@@ -11971,7 +12021,7 @@ window.allHeroes =
         "family": "underwild",
         "image": "https://i.imgur.com/8hGBh7z.jpg",
         "costume_id": 1,
-        "originalIndex": 312
+        "originalIndex": 313
     },
     {
         "name": "格里弗 (Grevle)",
@@ -12005,7 +12055,7 @@ window.allHeroes =
         "family": "alfheim",
         "image": "https://i.imgur.com/7vQQwXx.jpg",
         "costume_id": 0,
-        "originalIndex": 313
+        "originalIndex": 314
     },
     {
         "name": "阿骏 (Hisan)",
@@ -12029,7 +12079,7 @@ window.allHeroes =
             "治疗削减"
         ],
         "source": "月活动-飞沙帝国",
-        "Release date": "2017-01-01",
+        "Release date": "2018-06-21",
         "star": 3,
         "power": 448,
         "attack": 540,
@@ -12038,14 +12088,14 @@ window.allHeroes =
         "effects": [
             "对目标造成 280% 伤害。",
             "目标在 4 回合内受到共计 104 点伤害。",
-            "目标获得的治疗增加 -100% ，持续 2 回合。此效果无法净化。",
+            "目标获得的治疗增加 -100%，持续 2 回合。此效果无法净化。",
             "净化施法者的状态异常。"
         ],
         "passives": [],
         "family": "sand",
         "image": "https://i.imgur.com/YmBbafl.jpg",
         "costume_id": 0,
-        "originalIndex": 314
+        "originalIndex": 315
     },
     {
         "name": "伊师塔克 (Isshtak)",
@@ -12062,7 +12112,7 @@ window.allHeroes =
             "范围攻击 (打3)"
         ],
         "source": "S1-经典",
-        "Release date": "2017-01-01",
+        "Release date": "2017-03-01",
         "star": 3,
         "power": 447,
         "attack": 453,
@@ -12075,7 +12125,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/Sq218ZB.jpg",
         "costume_id": 0,
-        "originalIndex": 315
+        "originalIndex": 316
     },
     {
         "name": "伊师塔克 (Isshtak) C1",
@@ -12108,7 +12158,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/aTgE0vq.jpg",
         "costume_id": 1,
-        "originalIndex": 316
+        "originalIndex": 317
     },
     {
         "name": "伊师塔克 (Isshtak) 卡通",
@@ -12142,7 +12192,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/DoAEWX7.jpg",
         "costume_id": 2,
-        "originalIndex": 317
+        "originalIndex": 318
     },
     {
         "name": "荆 (Jing)",
@@ -12162,7 +12212,7 @@ window.allHeroes =
             "狙击手"
         ],
         "source": "三国召唤",
-        "Release date": "2022-03-14T12:00:00",
+        "Release date": "2022-03-14",
         "star": 3,
         "power": 482,
         "attack": 500,
@@ -12177,7 +12227,7 @@ window.allHeroes =
         "family": "kingdom",
         "image": "https://i.imgur.com/ElDAaic.jpg",
         "costume_id": 0,
-        "originalIndex": 318
+        "originalIndex": 319
     },
     {
         "name": "内修斯 (Mnesseus)",
@@ -12210,7 +12260,7 @@ window.allHeroes =
         "family": "atlantis",
         "image": "https://i.imgur.com/psLsMhk.jpg",
         "costume_id": 0,
-        "originalIndex": 319
+        "originalIndex": 320
     },
     {
         "name": "内修斯 (Mnesseus) C1",
@@ -12243,7 +12293,7 @@ window.allHeroes =
         "family": "atlantis",
         "image": "https://i.imgur.com/vAbeKFm.jpg",
         "costume_id": 1,
-        "originalIndex": 320
+        "originalIndex": 321
     },
     {
         "name": "麻吉 (Muggy)",
@@ -12278,7 +12328,7 @@ window.allHeroes =
         "family": "lagoon",
         "image": "https://i.imgur.com/oEhD3JD.jpg",
         "costume_id": 0,
-        "originalIndex": 321
+        "originalIndex": 322
     },
     {
         "name": "诺里尔 (Noril)",
@@ -12320,7 +12370,7 @@ window.allHeroes =
         "family": "slayer",
         "image": "https://i.imgur.com/sPxC3Un.jpg",
         "costume_id": 0,
-        "originalIndex": 322
+        "originalIndex": 323
     },
     {
         "name": "洛茜娅 (Roxia)",
@@ -12366,7 +12416,7 @@ window.allHeroes =
         "family": "magic",
         "image": "https://i.imgur.com/M3v3YrZ.jpg",
         "costume_id": 0,
-        "originalIndex": 323
+        "originalIndex": 324
     },
     {
         "name": "灌木熊 (Shrubbear)",
@@ -12384,7 +12434,7 @@ window.allHeroes =
             "嘲讽"
         ],
         "source": "挑战节-仙境",
-        "Release date": "2017-01-01",
+        "Release date": "2019-12-01",
         "star": 3,
         "power": 455,
         "attack": 351,
@@ -12399,7 +12449,7 @@ window.allHeroes =
         "family": "wonderland",
         "image": "https://i.imgur.com/KcnE5Ah.jpg",
         "costume_id": 0,
-        "originalIndex": 324
+        "originalIndex": 325
     },
     {
         "name": "哈克 (Whacker)",
@@ -12432,7 +12482,7 @@ window.allHeroes =
         "family": "starfall",
         "image": "https://i.imgur.com/JVkZWPm.jpg",
         "costume_id": 0,
-        "originalIndex": 325
+        "originalIndex": 326
     },
     {
         "name": "威廉 (William)",
@@ -12471,7 +12521,7 @@ window.allHeroes =
         "family": "garrisonguard",
         "image": "https://i.imgur.com/A9SHPn4.jpg",
         "costume_id": 0,
-        "originalIndex": 326
+        "originalIndex": 327
     },
     {
         "name": "尤娜 (Yona)",
@@ -12505,10 +12555,10 @@ window.allHeroes =
             "抽取一张特殊效果卡片：",
             "温和之爪。",
             "* 提高所有盟友 300 点生命值，提高的生命值可以超过最大生命值。",
-            "* 所有盟友获得 +20% 防御，持续 3 回合。防御每回合增加 10% ，最高为 +40%。",
+            "* 所有盟友获得 +20% 防御，持续 3 回合。防御每回合增加 10%，最高为 +40%。",
             "致命利爪。",
             "* 使所有敌人减少 300 点最大生命值。若目标拥有提高的生命值，此效果会增强（最大生命值不能低于初始最大生命值的 30%。任何提高的生命值会额外减少 300 点）'。",
-            "* 所有敌人获得 -20% 防御，持续 3 回合。防御每回合减少 -10% ，最高为 -40%。"
+            "* 所有敌人获得 -20% 防御，持续 3 回合。防御每回合减少 -10%，最高为 -40%。"
         ],
         "passives": [
             "受到增益时恢复生命：该角色在获得增益或正面效果叠加时恢复 5% 的生命值。"
@@ -12516,7 +12566,7 @@ window.allHeroes =
         "family": "stag",
         "image": "https://i.imgur.com/uP5TQtw.jpg",
         "costume_id": 0,
-        "originalIndex": 327
+        "originalIndex": 328
     },
     {
         "name": "扎丽尔 (Zarel)",
@@ -12554,7 +12604,7 @@ window.allHeroes =
         "family": "bard",
         "image": "https://i.imgur.com/UoxW1c2.jpg",
         "costume_id": 0,
-        "originalIndex": 328
+        "originalIndex": 329
     },
     {
         "name": "查罗拉 (Zarola)",
@@ -12588,7 +12638,7 @@ window.allHeroes =
         "family": "cupid",
         "image": "https://i.imgur.com/07KHMD9.jpg",
         "costume_id": 0,
-        "originalIndex": 329
+        "originalIndex": 330
     },
     {
         "name": "阿尔翡 (Alfie)",
@@ -12632,7 +12682,7 @@ window.allHeroes =
         "family": "superelemental",
         "image": "https://i.imgur.com/JaXIe0C.jpg",
         "costume_id": 0,
-        "originalIndex": 330
+        "originalIndex": 331
     },
     {
         "name": "阿穆尔 (Almur)",
@@ -12668,7 +12718,7 @@ window.allHeroes =
         "family": "svartalfheim",
         "image": "https://i.imgur.com/zT4IQhV.jpg",
         "costume_id": 0,
-        "originalIndex": 331
+        "originalIndex": 332
     },
     {
         "name": "阿穆尔 (Almur) C1",
@@ -12704,7 +12754,7 @@ window.allHeroes =
         "family": "svartalfheim",
         "image": "https://i.imgur.com/G55eXUT.jpg",
         "costume_id": 1,
-        "originalIndex": 332
+        "originalIndex": 333
     },
     {
         "name": "安东 (Anton)",
@@ -12751,7 +12801,7 @@ window.allHeroes =
         "family": "magic",
         "image": "https://i.imgur.com/P0bT6Vn.jpg",
         "costume_id": 0,
-        "originalIndex": 333
+        "originalIndex": 334
     },
     {
         "name": "布隆特斯 (Brontes)",
@@ -12797,7 +12847,7 @@ window.allHeroes =
         "family": "styx",
         "image": "https://i.imgur.com/73sHBAH.jpg",
         "costume_id": 0,
-        "originalIndex": 334
+        "originalIndex": 335
     },
     {
         "name": "布琳希尔德 (Brynhild)",
@@ -12835,7 +12885,7 @@ window.allHeroes =
         "family": "midgard",
         "image": "https://i.imgur.com/igNkAbf.jpg",
         "costume_id": 0,
-        "originalIndex": 335
+        "originalIndex": 336
     },
     {
         "name": "巴迪 (Buddy)",
@@ -12858,7 +12908,7 @@ window.allHeroes =
             "召唤小兵"
         ],
         "source": "月活动-冬日",
-        "Release date": "2017-01-01",
+        "Release date": "2018-12-02",
         "star": 4,
         "power": 649,
         "attack": 531,
@@ -12874,7 +12924,7 @@ window.allHeroes =
         "family": "christmas",
         "image": "https://i.imgur.com/fZWbFxH.jpg",
         "costume_id": 0,
-        "originalIndex": 336
+        "originalIndex": 337
     },
     {
         "name": "凯德蒙 (Caedmon)",
@@ -12893,7 +12943,7 @@ window.allHeroes =
             "狙击手"
         ],
         "source": "S1-经典",
-        "Release date": "2017-01-01",
+        "Release date": "2017-03-01",
         "star": 4,
         "power": 643,
         "attack": 635,
@@ -12907,7 +12957,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/jv6lywZ.jpg",
         "costume_id": 0,
-        "originalIndex": 337
+        "originalIndex": 338
     },
     {
         "name": "凯德蒙 (Caedmon) C1",
@@ -12940,7 +12990,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/zrZ4p5y.jpg",
         "costume_id": 1,
-        "originalIndex": 338
+        "originalIndex": 339
     },
     {
         "name": "凯德蒙 (Caedmon) C2",
@@ -12975,7 +13025,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/0FiXuyI.jpg",
         "costume_id": 2,
-        "originalIndex": 339
+        "originalIndex": 340
     },
     {
         "name": "凯德蒙 (Caedmon) 卡通",
@@ -13012,7 +13062,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/DR6bDUS.jpg",
         "costume_id": 3,
-        "originalIndex": 340
+        "originalIndex": 341
     },
     {
         "name": "凯德蒙 (Caedmon) 玻璃",
@@ -13052,7 +13102,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/evExc3q.jpg",
         "costume_id": 4,
-        "originalIndex": 341
+        "originalIndex": 342
     },
     {
         "name": "弗朗茨 (Franz)",
@@ -13081,14 +13131,14 @@ window.allHeroes =
         "health": 1519,
         "effects": [
             "对所有敌人造成 215% 伤害。",
-            "所有敌人受到的所有伤害增加 +50% ，持续 6 回合。",
+            "所有敌人受到的所有伤害增加 +50%，持续 6 回合。",
             "所有敌人对新的增益状态效果免疫，持续 6 回合。"
         ],
         "passives": [],
         "family": "raven",
         "image": "https://i.imgur.com/Qe02pzU.jpg",
         "costume_id": 0,
-        "originalIndex": 342
+        "originalIndex": 343
     },
     {
         "name": "嘉德利亚斯 (Gadeirus)",
@@ -13124,7 +13174,7 @@ window.allHeroes =
         "family": "atlantis",
         "image": "https://i.imgur.com/dGtM0Hw.jpg",
         "costume_id": 0,
-        "originalIndex": 343
+        "originalIndex": 344
     },
     {
         "name": "嘉德利亚斯 (Gadeirus) C1",
@@ -13161,7 +13211,7 @@ window.allHeroes =
         "family": "atlantis",
         "image": "https://i.imgur.com/MAOY5JJ.jpg",
         "costume_id": 1,
-        "originalIndex": 344
+        "originalIndex": 345
     },
     {
         "name": "戈布勒 (Gobbler)",
@@ -13196,7 +13246,7 @@ window.allHeroes =
         "family": "lagoon",
         "image": "https://i.imgur.com/Sc5af8g.jpg",
         "costume_id": 0,
-        "originalIndex": 345
+        "originalIndex": 346
     },
     {
         "name": "戈布勒 (Gobbler) C1",
@@ -13232,7 +13282,7 @@ window.allHeroes =
         "family": "lagoon",
         "image": "https://i.imgur.com/ZFJ0073.jpg",
         "costume_id": 1,
-        "originalIndex": 346
+        "originalIndex": 347
     },
     {
         "name": "韩塞尔 (Hansel)",
@@ -13252,7 +13302,7 @@ window.allHeroes =
             "狙击手"
         ],
         "source": "挑战节-肃煞森林",
-        "Release date": "2017-01-01",
+        "Release date": "2019-12-01",
         "star": 4,
         "power": 646,
         "attack": 699,
@@ -13260,14 +13310,14 @@ window.allHeroes =
         "health": 1064,
         "effects": [
             "对目标造成 255% 伤害。",
-            "目标法力满格时，自动对目标造成 146 点伤害，并使其法力减少 50% ，持续 3 回合。",
+            "目标法力满格时，自动对目标造成 146 点伤害，并使其法力减少 50%，持续 3 回合。",
             "施法者获得 +74% 特殊技能防御，持续 3 回合。"
         ],
         "passives": [],
         "family": "grimforest",
         "image": "https://i.imgur.com/SkK8Ieu.jpg",
         "costume_id": 0,
-        "originalIndex": 347
+        "originalIndex": 348
     },
     {
         "name": "韩塞尔 (Hansel) C1",
@@ -13295,14 +13345,14 @@ window.allHeroes =
         "health": 1135,
         "effects": [
             "对目标造成 209% 伤害。",
-            "目标法力满格时，自动对目标造成 341 点伤害，并使其法力减少 50% ，持续 3 回合。",
+            "目标法力满格时，自动对目标造成 341 点伤害，并使其法力减少 50%，持续 3 回合。",
             "施法者获得 +84% 特殊技能防御，持续 3 回合。"
         ],
         "passives": [],
         "family": "grimforest",
         "image": "https://i.imgur.com/ZWQ8poJ.jpg",
         "costume_id": 1,
-        "originalIndex": 348
+        "originalIndex": 349
     },
     {
         "name": "杰克·奥黑尔 (Jack O'Hare)",
@@ -13320,7 +13370,7 @@ window.allHeroes =
             "对自身或友军负面效果"
         ],
         "source": "月活动-春谷",
-        "Release date": "2018-03-01",
+        "Release date": "2018-03-28",
         "star": 4,
         "power": 648,
         "attack": 743,
@@ -13334,7 +13384,7 @@ window.allHeroes =
         "family": "springvale",
         "image": "https://i.imgur.com/KJoqPtw.jpg",
         "costume_id": 0,
-        "originalIndex": 349
+        "originalIndex": 350
     },
     {
         "name": "杰克·奥黑尔 (Jack O'Hare) C1",
@@ -13369,10 +13419,10 @@ window.allHeroes =
         "family": "springvale",
         "image": "https://i.imgur.com/mwBA0kR.jpg",
         "costume_id": 1,
-        "originalIndex": 350
+        "originalIndex": 351
     },
     {
-        "name": "卡勒 (Kal) o",
+        "name": "卡勒 (Kalo)",
         "fancy_name": "畸形的石像鬼",
         "AetherPower": "防御提升",
         "color": "绿色",
@@ -13406,7 +13456,7 @@ window.allHeroes =
         "family": "gargoyle",
         "image": "https://i.imgur.com/g4p72ea.jpg",
         "costume_id": 0,
-        "originalIndex": 351
+        "originalIndex": 352
     },
     {
         "name": "喀什雷克 (Kashhrek)",
@@ -13425,7 +13475,7 @@ window.allHeroes =
             "治疗"
         ],
         "source": "S1-经典",
-        "Release date": "2017-01-01",
+        "Release date": "2017-03-01",
         "star": 4,
         "power": 643,
         "attack": 548,
@@ -13439,7 +13489,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/f38vwx3.jpg",
         "costume_id": 0,
-        "originalIndex": 352
+        "originalIndex": 353
     },
     {
         "name": "喀什雷克 (Kashhrek) C1",
@@ -13473,7 +13523,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/5DjkhS8.jpg",
         "costume_id": 1,
-        "originalIndex": 353
+        "originalIndex": 354
     },
     {
         "name": "喀什雷克 (Kashhrek) C2",
@@ -13506,7 +13556,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/54DNXMH.jpg",
         "costume_id": 2,
-        "originalIndex": 354
+        "originalIndex": 355
     },
     {
         "name": "喀什雷克 (Kashhrek) 卡通",
@@ -13541,7 +13591,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/B48yiIW.jpg",
         "costume_id": 3,
-        "originalIndex": 355
+        "originalIndex": 356
     },
     {
         "name": "喀什雷克 (Kashhrek) 玻璃",
@@ -13579,7 +13629,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://imgur.com/WEPgm0c.jpg",
         "costume_id": 4,
-        "originalIndex": 356
+        "originalIndex": 357
     },
     {
         "name": "星纱 (Lionstring)",
@@ -13611,7 +13661,7 @@ window.allHeroes =
         "effects": [
             "此特殊技能必定命中。",
             "对目标及附近敌人造成 245% 伤害。",
-            "施法者偷取目标及其附近敌人所获治疗的 50% ，持续 2 回合。",
+            "施法者偷取目标及其附近敌人所获治疗的 50%，持续 2 回合。",
             "施法者和附近的盟友拥有 +45% 几率闪避可以造成伤害的特殊技能，持续 2 回合。"
         ],
         "passives": [
@@ -13621,7 +13671,7 @@ window.allHeroes =
         "family": "astralelves",
         "image": "https://i.imgur.com/M9HK4qH.jpg",
         "costume_id": 0,
-        "originalIndex": 357
+        "originalIndex": 358
     },
     {
         "name": "小约翰 (Little John)",
@@ -13640,7 +13690,7 @@ window.allHeroes =
             "法力削减或格挡"
         ],
         "source": "S1-经典",
-        "Release date": "2017-01-01",
+        "Release date": "2017-03-01",
         "star": 4,
         "power": 641,
         "attack": 741,
@@ -13654,7 +13704,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/nRRdXVw.jpg",
         "costume_id": 0,
-        "originalIndex": 358
+        "originalIndex": 359
     },
     {
         "name": "小约翰 (Little John) C1",
@@ -13688,7 +13738,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/OZPuj5P.jpg",
         "costume_id": 1,
-        "originalIndex": 359
+        "originalIndex": 360
     },
     {
         "name": "小约翰 (Little John) C2",
@@ -13721,7 +13771,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/pBSZGi6.jpg",
         "costume_id": 2,
-        "originalIndex": 360
+        "originalIndex": 361
     },
     {
         "name": "小约翰 (Little John) 卡通",
@@ -13758,7 +13808,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/8mWGMUp.jpg",
         "costume_id": 3,
-        "originalIndex": 361
+        "originalIndex": 362
     },
     {
         "name": "小约翰 (Little John) 玻璃",
@@ -13796,7 +13846,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://imgur.com/8scCOJR.jpg",
         "costume_id": 4,
-        "originalIndex": 362
+        "originalIndex": 363
     },
     {
         "name": "马塞尔 (Marcel)",
@@ -13833,7 +13883,7 @@ window.allHeroes =
         "family": "starfall",
         "image": "https://i.imgur.com/LwCxkKS.jpg",
         "costume_id": 0,
-        "originalIndex": 363
+        "originalIndex": 364
     },
     {
         "name": "米兰朵 (Melendor)",
@@ -13852,7 +13902,7 @@ window.allHeroes =
             "治疗"
         ],
         "source": "S1-经典",
-        "Release date": "2017-01-01",
+        "Release date": "2017-03-01",
         "star": 4,
         "power": 638,
         "attack": 714,
@@ -13866,7 +13916,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/3rwM4W7.jpg",
         "costume_id": 0,
-        "originalIndex": 364
+        "originalIndex": 365
     },
     {
         "name": "米兰朵 (Melendor) C1",
@@ -13887,7 +13937,7 @@ window.allHeroes =
             "持续治疗"
         ],
         "source": "S1-经典",
-        "Release date": "2020-01-01",
+        "Release date": "2020-01-20",
         "star": 4,
         "power": 673,
         "attack": 698,
@@ -13902,7 +13952,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/5gxdGVM.jpg",
         "costume_id": 1,
-        "originalIndex": 365
+        "originalIndex": 366
     },
     {
         "name": "米兰朵 (Melendor) C2",
@@ -13938,7 +13988,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/XVqcInX.jpg",
         "costume_id": 2,
-        "originalIndex": 366
+        "originalIndex": 367
     },
     {
         "name": "米兰朵 (Melendor) 卡通",
@@ -13976,7 +14026,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/3swBEW4.jpg",
         "costume_id": 3,
-        "originalIndex": 367
+        "originalIndex": 368
     },
     {
         "name": "米兰朵 (Melendor) 玻璃",
@@ -14015,7 +14065,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/5Bt1nJk.jpg",
         "costume_id": 4,
-        "originalIndex": 368
+        "originalIndex": 369
     },
     {
         "name": "蔑里基 (Mielikki)",
@@ -14052,7 +14102,7 @@ window.allHeroes =
         "family": "kalevala",
         "image": "https://i.imgur.com/tts9FVU.jpg",
         "costume_id": 0,
-        "originalIndex": 369
+        "originalIndex": 370
     },
     {
         "name": "蔑里基 (Mielikki) C1",
@@ -14087,7 +14137,7 @@ window.allHeroes =
         "family": "kalevala",
         "image": "https://i.imgur.com/vXd3s3q.jpg",
         "costume_id": 1,
-        "originalIndex": 370
+        "originalIndex": 371
     },
     {
         "name": "木果 (Mulgog)",
@@ -14134,7 +14184,7 @@ window.allHeroes =
         "family": "nightmaresofatlantis",
         "image": "https://i.imgur.com/b7HL0wq.jpg",
         "costume_id": 0,
-        "originalIndex": 371
+        "originalIndex": 372
     },
     {
         "name": "木果 (Mulgog) C1",
@@ -14182,7 +14232,7 @@ window.allHeroes =
         "family": "nightmaresofatlantis",
         "image": "https://imgur.com/X5IVjtR.jpg",
         "costume_id": 1,
-        "originalIndex": 372
+        "originalIndex": 373
     },
     {
         "name": "米尔特 (Myrtle)",
@@ -14222,7 +14272,7 @@ window.allHeroes =
         "family": "woodlandfaun",
         "image": "https://i.imgur.com/KEvkubZ.jpg",
         "costume_id": 0,
-        "originalIndex": 373
+        "originalIndex": 374
     },
     {
         "name": "僵骨 (Numbskull)",
@@ -14261,7 +14311,7 @@ window.allHeroes =
         "family": "abysshunter",
         "image": "https://i.imgur.com/Y43vWHy.jpg",
         "costume_id": 0,
-        "originalIndex": 374
+        "originalIndex": 375
     },
     {
         "name": "奥拉 (Orla)",
@@ -14294,7 +14344,7 @@ window.allHeroes =
         "health": 1285,
         "effects": [
             "对目标造成 230% 伤害。",
-            "如果目标剩余生命少于 50% ，可对其造成 450% 伤害。",
+            "如果目标剩余生命少于 50%，可对其造成 450% 伤害。",
             "目标与附近敌人获得 -24% 法力生成，持续 3 回合。",
             "叠加 +2 （最多 10 层）：施法者获得 +10% 法力生成。",
             "叠加（最多 10 层）：施法者每回合恢复 10 点生命值。"
@@ -14305,7 +14355,7 @@ window.allHeroes =
         "family": "slayer",
         "image": "https://i.imgur.com/YWXxtDj.jpg",
         "costume_id": 0,
-        "originalIndex": 375
+        "originalIndex": 376
     },
     {
         "name": "皮特斯 (Peters)",
@@ -14324,7 +14374,7 @@ window.allHeroes =
             "狙击手"
         ],
         "source": "挑战节-海盗",
-        "Release date": "2017-01-01",
+        "Release date": "2017-09-07",
         "star": 4,
         "power": 645,
         "attack": 643,
@@ -14338,7 +14388,7 @@ window.allHeroes =
         "family": "corellia",
         "image": "https://i.imgur.com/aPVBzpo.jpg",
         "costume_id": 0,
-        "originalIndex": 376
+        "originalIndex": 377
     },
     {
         "name": "皮特斯 (Peters) C1",
@@ -14374,7 +14424,7 @@ window.allHeroes =
         "family": "corellia",
         "image": "https://i.imgur.com/caAHKaT.jpg",
         "costume_id": 1,
-        "originalIndex": 377
+        "originalIndex": 378
     },
     {
         "name": "托勒密 (Ptolemy)",
@@ -14412,7 +14462,7 @@ window.allHeroes =
         "family": "sun",
         "image": "https://i.imgur.com/3gaWwFG.jpg",
         "costume_id": 0,
-        "originalIndex": 378
+        "originalIndex": 379
     },
     {
         "name": "托勒密 (Ptolemy) C1",
@@ -14454,7 +14504,7 @@ window.allHeroes =
         "family": "sun",
         "image": "https://i.imgur.com/xEySNN6.jpg",
         "costume_id": 1,
-        "originalIndex": 379
+        "originalIndex": 380
     },
     {
         "name": "劳利 (Raleigh)",
@@ -14483,7 +14533,7 @@ window.allHeroes =
         "health": 1272,
         "effects": [
             "提高所有盟友 500 点生命值。提高的生命值可以超过最大生命值。",
-            "所有盟友获得 +30% 攻击力，持续 5 回合。攻击力每回合增加 5% ，最高为 50%。",
+            "所有盟友获得 +30% 攻击力，持续 5 回合。攻击力每回合增加 5%，最高为 50%。",
             "所有盟友获得 +24% 法力生成，持续 5 回合。"
         ],
         "passives": [
@@ -14492,7 +14542,7 @@ window.allHeroes =
         "family": "stag",
         "image": "https://i.imgur.com/SZsJBr2.jpg",
         "costume_id": 0,
-        "originalIndex": 380
+        "originalIndex": 381
     },
     {
         "name": "柱子骨骼 (Skittleskull)",
@@ -14511,7 +14561,7 @@ window.allHeroes =
             "攻击减益"
         ],
         "source": "S1-经典",
-        "Release date": "2017-01-01",
+        "Release date": "2017-03-01",
         "star": 4,
         "power": 644,
         "attack": 728,
@@ -14525,7 +14575,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/6Oucdm4.jpg",
         "costume_id": 0,
-        "originalIndex": 381
+        "originalIndex": 382
     },
     {
         "name": "柱子骨骼 (Skittleskull) C1",
@@ -14544,7 +14594,7 @@ window.allHeroes =
             "攻击减益"
         ],
         "source": "S1-经典",
-        "Release date": "2020-01-01",
+        "Release date": "2020-01-20",
         "star": 4,
         "power": 678,
         "attack": 778,
@@ -14558,7 +14608,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/9DvgVYg.jpg",
         "costume_id": 1,
-        "originalIndex": 382
+        "originalIndex": 383
     },
     {
         "name": "柱子骨骼 (Skittleskull) C2",
@@ -14591,7 +14641,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/EIvqBU6.jpg",
         "costume_id": 2,
-        "originalIndex": 383
+        "originalIndex": 384
     },
     {
         "name": "柱子骨骼 (Skittleskull) 卡通",
@@ -14628,7 +14678,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/DQzJaMV.jpg",
         "costume_id": 3,
-        "originalIndex": 384
+        "originalIndex": 385
     },
     {
         "name": "柱子骨骼 (Skittleskull) 玻璃",
@@ -14666,7 +14716,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://imgur.com/qCkUNrw.jpg",
         "costume_id": 4,
-        "originalIndex": 385
+        "originalIndex": 386
     },
     {
         "name": "特图克 (Tettukh)",
@@ -14704,7 +14754,7 @@ window.allHeroes =
         "family": "underwild",
         "image": "https://i.imgur.com/OZiH56V.jpg",
         "costume_id": 0,
-        "originalIndex": 386
+        "originalIndex": 387
     },
     {
         "name": "特图克 (Tettukh) C1",
@@ -14742,7 +14792,7 @@ window.allHeroes =
         "family": "underwild",
         "image": "https://i.imgur.com/Upmqcxi.jpg",
         "costume_id": 1,
-        "originalIndex": 387
+        "originalIndex": 388
     },
     {
         "name": "维利尔斯 (Villiers)",
@@ -14784,7 +14834,7 @@ window.allHeroes =
         "family": "musketeer",
         "image": "https://i.imgur.com/bq60wfg.jpg",
         "costume_id": 0,
-        "originalIndex": 388
+        "originalIndex": 389
     },
     {
         "name": "雷恩 (Wren)",
@@ -14819,7 +14869,7 @@ window.allHeroes =
         "family": "raven",
         "image": "https://i.imgur.com/YasIqZv.jpg",
         "costume_id": 0,
-        "originalIndex": 389
+        "originalIndex": 390
     },
     {
         "name": "雅赫摩斯 (Ahmose)",
@@ -14857,7 +14907,7 @@ window.allHeroes =
         "family": "moon",
         "image": "https://i.imgur.com/4zzp1TD.jpg",
         "costume_id": 0,
-        "originalIndex": 390
+        "originalIndex": 391
     },
     {
         "name": "雅赫摩斯 (Ahmose) C1",
@@ -14897,7 +14947,7 @@ window.allHeroes =
         "family": "moon",
         "image": "https://i.imgur.com/hOov8Aa.jpg",
         "costume_id": 1,
-        "originalIndex": 391
+        "originalIndex": 392
     },
     {
         "name": "阿尔贝里希 (Alberich)",
@@ -14920,7 +14970,7 @@ window.allHeroes =
             "持续治疗"
         ],
         "source": "月英",
-        "Release date": "2017-10-01T00:00:00",
+        "Release date": "2017-10-01",
         "star": 5,
         "power": 765,
         "attack": 725,
@@ -14936,7 +14986,7 @@ window.allHeroes =
         "family": 2017,
         "image": "https://i.imgur.com/0IebpZg.jpg",
         "costume_id": 0,
-        "originalIndex": 392
+        "originalIndex": 393
     },
     {
         "name": "阿尔贝里希 (Alberich) C1",
@@ -14978,7 +15028,7 @@ window.allHeroes =
         "family": 2017,
         "image": "https://i.imgur.com/qgThGvZ.jpg",
         "costume_id": 1,
-        "originalIndex": 393
+        "originalIndex": 394
     },
     {
         "name": "阿奇巴尔德 (Archibald)",
@@ -15022,7 +15072,7 @@ window.allHeroes =
         "family": "garrisonguard",
         "image": "https://i.imgur.com/zBBsCSR.jpg",
         "costume_id": 0,
-        "originalIndex": 394
+        "originalIndex": 395
     },
     {
         "name": "亚奇 (Archie)",
@@ -15058,7 +15108,7 @@ window.allHeroes =
         "family": "springvale",
         "image": "https://i.imgur.com/LIKBIhe.jpg",
         "costume_id": 0,
-        "originalIndex": 395
+        "originalIndex": 396
     },
     {
         "name": "亚奇 (Archie) C1",
@@ -15094,7 +15144,7 @@ window.allHeroes =
         "family": "springvale",
         "image": "https://i.imgur.com/NhdULEq.jpg",
         "costume_id": 1,
-        "originalIndex": 396
+        "originalIndex": 397
     },
     {
         "name": "阿尔科 (Arco)",
@@ -15133,7 +15183,7 @@ window.allHeroes =
         "family": "gargoyle",
         "image": "https://i.imgur.com/nhYRyEk.jpg",
         "costume_id": 0,
-        "originalIndex": 397
+        "originalIndex": 398
     },
     {
         "name": "阿曼德·孟夏曼 (Armand Moncharmin)",
@@ -15171,7 +15221,7 @@ window.allHeroes =
         "family": "opera",
         "image": "https://i.imgur.com/PHXp8yu.jpg",
         "costume_id": 0,
-        "originalIndex": 398
+        "originalIndex": 399
     },
     {
         "name": "阿多斯 (Athos)",
@@ -15213,7 +15263,7 @@ window.allHeroes =
         "family": "musketeer",
         "image": "https://i.imgur.com/HvsiBgn.jpg",
         "costume_id": 0,
-        "originalIndex": 399
+        "originalIndex": 400
     },
     {
         "name": "阿多莫斯 (Atomos)",
@@ -15248,7 +15298,7 @@ window.allHeroes =
         "family": "atlantis",
         "image": "https://i.imgur.com/DAUb4SR.jpg",
         "costume_id": 0,
-        "originalIndex": 400
+        "originalIndex": 401
     },
     {
         "name": "阿多莫斯 (Atomos) C1",
@@ -15283,7 +15333,7 @@ window.allHeroes =
         "family": "atlantis",
         "image": "https://i.imgur.com/Mrpkkq0.jpg",
         "costume_id": 1,
-        "originalIndex": 401
+        "originalIndex": 402
     },
     {
         "name": "阿特伍德 (Atwood)",
@@ -15325,7 +15375,7 @@ window.allHeroes =
         "family": "investigator",
         "image": "https://i.imgur.com/Cwe6431.jpg",
         "costume_id": 0,
-        "originalIndex": 402
+        "originalIndex": 403
     },
     {
         "name": "奥古斯都 (Augustus)",
@@ -15366,7 +15416,7 @@ window.allHeroes =
         "family": "christmas",
         "image": "https://i.imgur.com/AEEIfML.jpg",
         "costume_id": 0,
-        "originalIndex": 403
+        "originalIndex": 404
     },
     {
         "name": "巴尔巴 (Balbar)",
@@ -15400,7 +15450,7 @@ window.allHeroes =
             "沉睡期间，目标无法攻击或获得法力。",
             "对沉睡目标造成的所有伤害增加 +60%。",
             "沉睡目标受到伤害后便会苏醒。这不包括来自小兵和恶魔的伤害。",
-            "元素链给予所有自然系盟友受到的治疗增加 +10% ，持续 4 回合。此效果无法驱散。"
+            "元素链给予所有自然系盟友受到的治疗增加 +10%，持续 4 回合。此效果无法驱散。"
         ],
         "passives": [
             "抵抗增益免疫：该角色天生对提供新增益免疫的状态异常有抵抗能力。",
@@ -15409,7 +15459,7 @@ window.allHeroes =
         "family": 2021,
         "image": "https://i.imgur.com/lTYrovf.jpg",
         "costume_id": 0,
-        "originalIndex": 404
+        "originalIndex": 405
     },
     {
         "name": "贝蒂拉 (Bertila)",
@@ -15445,7 +15495,7 @@ window.allHeroes =
         "family": 2021,
         "image": "https://i.imgur.com/VlS3IND.jpg",
         "costume_id": 0,
-        "originalIndex": 405
+        "originalIndex": 406
     },
     {
         "name": "博与朗特 (Bo & Runt)",
@@ -15487,7 +15537,7 @@ window.allHeroes =
         "family": 2024,
         "image": "https://i.imgur.com/6gRA2M6.jpg",
         "costume_id": 0,
-        "originalIndex": 406
+        "originalIndex": 407
     },
     {
         "name": "邦佐 (Bonzo)",
@@ -15531,7 +15581,7 @@ window.allHeroes =
         "family": "bard",
         "image": "https://i.imgur.com/jSnGpgr.jpg",
         "costume_id": 0,
-        "originalIndex": 407
+        "originalIndex": 408
     },
     {
         "name": "哼哼和尖牙 (Boom & Fang)",
@@ -15567,7 +15617,7 @@ window.allHeroes =
         "family": "goblin",
         "image": "https://i.imgur.com/IpQKX8C.jpg",
         "costume_id": 0,
-        "originalIndex": 408
+        "originalIndex": 409
     },
     {
         "name": "布兰博 (Bramble)",
@@ -15606,7 +15656,7 @@ window.allHeroes =
         "family": "woodlandfaun",
         "image": "https://i.imgur.com/BA1yyNs.jpg",
         "costume_id": 0,
-        "originalIndex": 409
+        "originalIndex": 410
     },
     {
         "name": "知贺雄 (Chikao)",
@@ -15655,7 +15705,7 @@ window.allHeroes =
         "family": "ninja",
         "image": "https://i.imgur.com/g0WuoGF.jpg",
         "costume_id": 0,
-        "originalIndex": 410
+        "originalIndex": 411
     },
     {
         "name": "克洛丽丝 (Chloris)",
@@ -15694,7 +15744,7 @@ window.allHeroes =
         "family": 2024,
         "image": "https://i.imgur.com/3NHTm5Y.jpg",
         "costume_id": 0,
-        "originalIndex": 411
+        "originalIndex": 412
     },
     {
         "name": "西尼希雅 (Cinisia)",
@@ -15724,7 +15774,7 @@ window.allHeroes =
         "health": 1341,
         "effects": [
             "对所有敌人造成 270% 伤害。",
-            "所有敌人获得的治疗减少 -60% ，持续 3 回合。",
+            "所有敌人获得的治疗减少 -60%，持续 3 回合。",
             "所有敌人在 2 回合内受到共计 414 点流血伤害。对冰雪系角色，此状态效果不可净化且持续时间延长 2 回合。",
             "元素链为全体自然系盟友提供 +10% 的法力生成，持续 4 回合。此效果无法驱散。"
         ],
@@ -15735,7 +15785,7 @@ window.allHeroes =
         "family": 2023,
         "image": "https://i.imgur.com/L1RhKDe.jpg",
         "costume_id": 0,
-        "originalIndex": 412
+        "originalIndex": 413
     },
     {
         "name": "康伽拉赫 (Congalach)",
@@ -15771,7 +15821,7 @@ window.allHeroes =
         "family": "underwild",
         "image": "https://i.imgur.com/FKztylV.jpg",
         "costume_id": 0,
-        "originalIndex": 413
+        "originalIndex": 414
     },
     {
         "name": "康伽拉赫 (Congalach) C1",
@@ -15808,7 +15858,7 @@ window.allHeroes =
         "family": "underwild",
         "image": "https://i.imgur.com/llQVrNB.jpg",
         "costume_id": 1,
-        "originalIndex": 414
+        "originalIndex": 415
     },
     {
         "name": "克拉姆 (Craum)",
@@ -15851,7 +15901,7 @@ window.allHeroes =
         "family": "superelemental",
         "image": "https://i.imgur.com/GyN20JL.jpg",
         "costume_id": 0,
-        "originalIndex": 415
+        "originalIndex": 416
     },
     {
         "name": "克里斯托巴尔 (Cristobal)",
@@ -15883,7 +15933,7 @@ window.allHeroes =
             "当特殊技能充能至 100% / 200% 法力时将拥有不同的效果：",
             "1 倍法力充能：",
             "* 对目标造成 250% 伤害。",
-            "* 如果目标剩余生命少于 50% ，可对其造成 500% 伤害。",
+            "* 如果目标剩余生命少于 50%，可对其造成 500% 伤害。",
             "2 倍法力充能：",
             "* 对所有敌人造成 215% 伤害。",
             "* 对剩余生命值超过 50% 的敌人造成 430% 伤害。"
@@ -15894,7 +15944,7 @@ window.allHeroes =
         "family": "magic",
         "image": "https://i.imgur.com/H1Awz0g.jpg",
         "costume_id": 0,
-        "originalIndex": 416
+        "originalIndex": 417
     },
     {
         "name": "达格 (Dagr)",
@@ -15928,7 +15978,7 @@ window.allHeroes =
             "使用焰暴闪袭攻击所有敌人，造成最多 1500 点伤害。若目标为自然系元素则额外造成 40% 伤害。该特殊技能必定命中。",
             "伤害无视目标的小兵。",
             "所有敌人在 4 回合内受到共计 388 点剧毒伤害。",
-            "所有敌人从燃烧和剧毒状态异常所受到的伤害增加 +50% ，持续 4 回合。"
+            "所有敌人从燃烧和剧毒状态异常所受到的伤害增加 +50%，持续 4 回合。"
         ],
         "passives": [
             "强化抵抗燃烧：该角色天生对燃烧有抵抗能力，并且每次抵抗时获得 450 点生命加成和 5% 的法力。",
@@ -15940,7 +15990,7 @@ window.allHeroes =
         "family": "nidavellir",
         "image": "https://i.imgur.com/BDzoVb0.jpg",
         "costume_id": 0,
-        "originalIndex": 417
+        "originalIndex": 418
     },
     {
         "name": "达洛加 (Daroga)",
@@ -15980,7 +16030,7 @@ window.allHeroes =
         "family": "opera",
         "image": "https://i.imgur.com/Kmtj8Eb.jpg",
         "costume_id": 0,
-        "originalIndex": 418
+        "originalIndex": 419
     },
     {
         "name": "德斯蒙德 (Desmond)",
@@ -16023,7 +16073,7 @@ window.allHeroes =
         "family": "superelemental",
         "image": "https://i.imgur.com/oyCoXcq.jpg",
         "costume_id": 0,
-        "originalIndex": 419
+        "originalIndex": 420
     },
     {
         "name": "多戈洛姆 (Dodgrom)",
@@ -16053,7 +16103,7 @@ window.allHeroes =
         "effects": [
             "施法者获得嘲讽，可阻止敌人对其盟友使用特殊技能，持续 4 回合。",
             "施法者以所受伤害的 80% 进行反击，随机一名敌人，持续 4 回合。",
-            "施法者所受的所有伤害减少 -35% ，持续 4 回合。"
+            "施法者所受的所有伤害减少 -35%，持续 4 回合。"
         ],
         "passives": [
             "抵抗特殊技能格挡：该角色天生对格挡特殊技能的状态异常有抵抗能力。"
@@ -16061,7 +16111,7 @@ window.allHeroes =
         "family": "cupid",
         "image": "https://i.imgur.com/7l2ITkQ.jpg",
         "costume_id": 0,
-        "originalIndex": 420
+        "originalIndex": 421
     },
     {
         "name": "艾格齐乌 (Ecgtheow)",
@@ -16099,7 +16149,7 @@ window.allHeroes =
         "family": "beowulf",
         "image": "https://i.imgur.com/P9xj0rz.jpg",
         "costume_id": 0,
-        "originalIndex": 421
+        "originalIndex": 422
     },
     {
         "name": "艾德文 (Edwin)",
@@ -16137,7 +16187,7 @@ window.allHeroes =
         "family": "morlovia",
         "image": "https://i.imgur.com/NshfXdy.jpg",
         "costume_id": 0,
-        "originalIndex": 422
+        "originalIndex": 423
     },
     {
         "name": "埃奥拉与毛毛 (Eiora & Fluffy)",
@@ -16173,7 +16223,7 @@ window.allHeroes =
         "family": "starfall",
         "image": "https://i.imgur.com/ISxaSzG.jpg",
         "costume_id": 0,
-        "originalIndex": 423
+        "originalIndex": 424
     },
     {
         "name": "埃卡奈特 (Ekanite)",
@@ -16219,7 +16269,7 @@ window.allHeroes =
         "family": "ninja",
         "image": "https://i.imgur.com/YQskc4O.jpg",
         "costume_id": 0,
-        "originalIndex": 424
+        "originalIndex": 425
     },
     {
         "name": "埃纳达哈 (El Naddaha)",
@@ -16256,7 +16306,7 @@ window.allHeroes =
         "family": "moon",
         "image": "https://i.imgur.com/IdGJmNB.jpg",
         "costume_id": 0,
-        "originalIndex": 425
+        "originalIndex": 426
     },
     {
         "name": "埃纳达哈 (El Naddaha) C1",
@@ -16296,7 +16346,7 @@ window.allHeroes =
         "family": "moon",
         "image": "https://i.imgur.com/okhmn3A.jpg",
         "costume_id": 1,
-        "originalIndex": 426
+        "originalIndex": 427
     },
     {
         "name": "埃尔卡能 (Elkanen)",
@@ -16315,7 +16365,7 @@ window.allHeroes =
             "特殊治疗"
         ],
         "source": "S1-经典",
-        "Release date": "2017-01-01",
+        "Release date": "2017-03-01",
         "star": 5,
         "power": 758,
         "attack": 675,
@@ -16329,7 +16379,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/gkqoNuc.jpg",
         "costume_id": 0,
-        "originalIndex": 427
+        "originalIndex": 428
     },
     {
         "name": "埃尔卡能 (Elkanen) C1",
@@ -16357,13 +16407,13 @@ window.allHeroes =
         "health": 1370,
         "effects": [
             "对目标及附近敌人造成 280% 伤害。",
-            "施法者偷取目标及其附近敌人所获治疗的 61% ，持续 3 回合。"
+            "施法者偷取目标及其附近敌人所获治疗的 61%，持续 3 回合。"
         ],
         "passives": [],
         "family": "classic",
         "image": "https://i.imgur.com/r8h2KIN.jpg",
         "costume_id": 1,
-        "originalIndex": 428
+        "originalIndex": 429
     },
     {
         "name": "埃尔卡能 (Elkanen) C2",
@@ -16390,13 +16440,13 @@ window.allHeroes =
         "health": 1514,
         "effects": [
             "对所有敌人造成 230% 伤害。",
-            "所有敌人获得的治疗减少 -50% ，持续 3 回合。此效果无法净化。"
+            "所有敌人获得的治疗减少 -50%，持续 3 回合。此效果无法净化。"
         ],
         "passives": [],
         "family": "classic",
         "image": "https://i.imgur.com/45ULmYn.jpg",
         "costume_id": 2,
-        "originalIndex": 429
+        "originalIndex": 430
     },
     {
         "name": "埃尔卡能 (Elkanen) 卡通",
@@ -16433,7 +16483,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/6SvyBu6.jpg",
         "costume_id": 3,
-        "originalIndex": 430
+        "originalIndex": 431
     },
     {
         "name": "埃尔卡能 (Elkanen) 玻璃",
@@ -16470,7 +16520,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/5zN8JJz.jpg",
         "costume_id": 4,
-        "originalIndex": 431
+        "originalIndex": 432
     },
     {
         "name": "埃拉德 (Elradir)",
@@ -16509,7 +16559,7 @@ window.allHeroes =
         "family": 2021,
         "image": "https://i.imgur.com/WDClMpO.jpg",
         "costume_id": 0,
-        "originalIndex": 432
+        "originalIndex": 433
     },
     {
         "name": "艾莉莎 (Elyssa)",
@@ -16554,7 +16604,7 @@ window.allHeroes =
         "family": "magiccarpet",
         "image": "https://imgur.com/125Oojg.jpg",
         "costume_id": 0,
-        "originalIndex": 433
+        "originalIndex": 434
     },
     {
         "name": "恩尼格莫 (Enigmo)",
@@ -16595,7 +16645,7 @@ window.allHeroes =
         "family": "mystery",
         "image": "https://i.imgur.com/S6ta64j.jpg",
         "costume_id": 0,
-        "originalIndex": 434
+        "originalIndex": 435
     },
     {
         "name": "伊夫林 (Evelyn)",
@@ -16617,7 +16667,7 @@ window.allHeroes =
             "持续治疗"
         ],
         "source": "月英",
-        "Release date": "2018-12-01T00:00:00",
+        "Release date": "2018-12-01",
         "star": 5,
         "power": 768,
         "attack": 727,
@@ -16633,7 +16683,7 @@ window.allHeroes =
         "family": 2018,
         "image": "https://i.imgur.com/YnTLDcR.jpg",
         "costume_id": 0,
-        "originalIndex": 435
+        "originalIndex": 436
     },
     {
         "name": "伊夫林 (Evelyn) C1",
@@ -16674,7 +16724,7 @@ window.allHeroes =
         "family": 2018,
         "image": "https://i.imgur.com/93B4oB9.jpg",
         "costume_id": 1,
-        "originalIndex": 436
+        "originalIndex": 437
     },
     {
         "name": "经验拟态兽 (Experience Mimic) Nature",
@@ -16723,7 +16773,7 @@ window.allHeroes =
         "family": "mimic",
         "image": "https://imgur.com/5HAwmjg.jpg",
         "costume_id": 0,
-        "originalIndex": 437
+        "originalIndex": 438
     },
     {
         "name": "法夫纳 (Fafnir)",
@@ -16756,7 +16806,7 @@ window.allHeroes =
         "health": 2288,
         "effects": [
             "使用霜降打击攻击目标和附近敌人，造成最多 2100 点伤害。若目标为火焰系元素则额外造成 40% 伤害。该特殊技能必定命中。",
-            "目标与附近敌人受到的所有伤害增加 +35% ，持续 3 回合。",
+            "目标与附近敌人受到的所有伤害增加 +35%，持续 3 回合。",
             "目标和附近敌人将反弹增益状态效果至我方战队的一名随机角色，持续 3 回合（只有可驱散的增益会被反弹）。"
         ],
         "passives": [
@@ -16768,7 +16818,7 @@ window.allHeroes =
         "family": "myrkheim",
         "image": "https://imgur.com/4ndmZBW.jpg",
         "costume_id": 0,
-        "originalIndex": 438
+        "originalIndex": 439
     },
     {
         "name": "菲布路斯 (Februus)",
@@ -16810,7 +16860,7 @@ window.allHeroes =
         "family": "maskedgod",
         "image": "https://i.imgur.com/uBNXICu.jpg",
         "costume_id": 0,
-        "originalIndex": 439
+        "originalIndex": 440
     },
     {
         "name": "费洛斯 (Ferrus)",
@@ -16853,7 +16903,7 @@ window.allHeroes =
         "family": "construct",
         "image": "https://i.imgur.com/cdOOWSr.jpg",
         "costume_id": 0,
-        "originalIndex": 440
+        "originalIndex": 441
     },
     {
         "name": "狐斯利 (Foxley)",
@@ -16875,7 +16925,7 @@ window.allHeroes =
             "治疗削减"
         ],
         "source": "盟约召唤",
-        "Release date": "2025-04-14T11:00:00",
+        "Release date": "2025-04-14",
         "star": 5,
         "power": 1174,
         "attack": 1256,
@@ -16892,7 +16942,7 @@ window.allHeroes =
         "family": "fox",
         "image": "https://imgur.com/WizK6Nb.jpg",
         "costume_id": 0,
-        "originalIndex": 441
+        "originalIndex": 442
     },
     {
         "name": "弗朗辛 (Francine)",
@@ -16929,7 +16979,7 @@ window.allHeroes =
         "family": "morlovia",
         "image": "https://i.imgur.com/jBtXWpz.jpg",
         "costume_id": 0,
-        "originalIndex": 442
+        "originalIndex": 443
     },
     {
         "name": "弗朗辛 (Francine) C1",
@@ -16966,7 +17016,7 @@ window.allHeroes =
         "family": "morlovia",
         "image": "https://i.imgur.com/ObnUcTT.jpg",
         "costume_id": 1,
-        "originalIndex": 443
+        "originalIndex": 444
     },
     {
         "name": "弗丽嘉 (Frigg)",
@@ -16995,13 +17045,13 @@ window.allHeroes =
         "effects": [
             "对所有敌人造成 100% 伤害。",
             "面板上每存在一个自然系盾牌，便额外造成 18% 伤害，最多累计造成 244% 伤害。",
-            "所有敌人获得 -8% 防御，且面板上每有一个自然系盾牌则额外降低 -3% ，持续 3 回合，最多累计至 -44% 防御。"
+            "所有敌人获得 -8% 防御，且面板上每有一个自然系盾牌则额外降低 -3%，持续 3 回合，最多累计至 -44% 防御。"
         ],
         "passives": [],
         "family": "alfheim",
         "image": "https://i.imgur.com/UMxFVGq.jpg",
         "costume_id": 0,
-        "originalIndex": 444
+        "originalIndex": 445
     },
     {
         "name": "弗丽嘉 (Frigg) C1",
@@ -17030,13 +17080,13 @@ window.allHeroes =
         "effects": [
             "对所有敌人造成 90% 伤害。",
             "面板上每存在一个自然系盾牌，便额外造成 18% 伤害，最多累计造成 234% 伤害。",
-            "所有敌人获得 -12% 防御，且面板上每有一个自然系盾牌则额外降低 -3% ，持续 3 回合，最多累计至 -48% 防御。"
+            "所有敌人获得 -12% 防御，且面板上每有一个自然系盾牌则额外降低 -3%，持续 3 回合，最多累计至 -48% 防御。"
         ],
         "passives": [],
         "family": "alfheim",
         "image": "https://i.imgur.com/G0IAEBg.jpg",
         "costume_id": 1,
-        "originalIndex": 445
+        "originalIndex": 446
     },
     {
         "name": "青蛙王子 (Frog Prince)",
@@ -17075,7 +17125,7 @@ window.allHeroes =
         "family": "grimforest",
         "image": "https://i.imgur.com/b7feuiD.jpg",
         "costume_id": 0,
-        "originalIndex": 446
+        "originalIndex": 447
     },
     {
         "name": "伏榕德 (Frond)",
@@ -17115,7 +17165,7 @@ window.allHeroes =
         "family": "construct",
         "image": "https://i.imgur.com/ThTeBHZ.jpg",
         "costume_id": 0,
-        "originalIndex": 447
+        "originalIndex": 448
     },
     {
         "name": "香菇斯丁 (Fungustine)",
@@ -17158,7 +17208,7 @@ window.allHeroes =
         "family": "slime",
         "image": "https://i.imgur.com/RTB91u9.jpg",
         "costume_id": 0,
-        "originalIndex": 448
+        "originalIndex": 449
     },
     {
         "name": "加拉帕戈 (Galapago)",
@@ -17208,7 +17258,7 @@ window.allHeroes =
         "family": "defendersofatlantis",
         "image": "https://i.imgur.com/pxAZGoS.jpg",
         "costume_id": 0,
-        "originalIndex": 449
+        "originalIndex": 450
     },
     {
         "name": "加拉帕戈 (Galapago) C1",
@@ -17258,7 +17308,7 @@ window.allHeroes =
         "family": "defendersofatlantis",
         "image": "https://i.imgur.com/hvltSu6.jpg",
         "costume_id": 1,
-        "originalIndex": 450
+        "originalIndex": 451
     },
     {
         "name": "卡加莫 (Garjammal)",
@@ -17293,7 +17343,7 @@ window.allHeroes =
         "family": "underwild",
         "image": "https://i.imgur.com/kz19bRj.jpg",
         "costume_id": 0,
-        "originalIndex": 451
+        "originalIndex": 452
     },
     {
         "name": "卡加莫 (Garjammal) C1",
@@ -17331,7 +17381,7 @@ window.allHeroes =
         "family": "underwild",
         "image": "https://i.imgur.com/U99nNNm.jpg",
         "costume_id": 1,
-        "originalIndex": 452
+        "originalIndex": 453
     },
     {
         "name": "加滕 (Garten)",
@@ -17364,7 +17414,7 @@ window.allHeroes =
         "effects": [
             "提高所有盟友 700 点生命值。提高的生命值可以超过最大生命值。",
             "使所有敌人减少 700 点最大生命值。若目标拥有提高的生命值，此效果会增强（最大生命值不能低于初始最大生命值的 30%。任何提高的生命值会额外减少 700 点）。",
-            "除施法者外所有盟友获得软化皮肤（他们下次受到的伤害减少 -90% ，并抵抗所有状态异常和法力减损。此效果无法驱散）。",
+            "除施法者外所有盟友获得软化皮肤（他们下次受到的伤害减少 -90%，并抵抗所有状态异常和法力减损。此效果无法驱散）。",
             "所有盟友对影响治疗的新状态异常免疫，持续 4 回合。移除所有盟友身上影响治疗的状态异常。"
         ],
         "passives": [
@@ -17373,7 +17423,7 @@ window.allHeroes =
         "family": "gargoyle",
         "image": "https://i.imgur.com/8K8mMLw.jpg",
         "costume_id": 0,
-        "originalIndex": 453
+        "originalIndex": 454
     },
     {
         "name": "杰勒 (Gelert)",
@@ -17384,9 +17434,9 @@ window.allHeroes =
         "speed": "潮汐",
         "skill": "漩涡突刺",
         "types": [
-            "法力偷取",
+            "偷取单个目标法力",
             "攻击单个目标",
-            "法力生成增益"
+            "全体法力生成增益"
         ],
         "skill_types": [
             "法力生成增益",
@@ -17423,7 +17473,58 @@ window.allHeroes =
         "family": "defendersofatlantis",
         "image": "https://i.imgur.com/WjoVn5I.jpg",
         "costume_id": 0,
-        "originalIndex": 454
+        "originalIndex": 455
+    },
+    {
+        "name": "杰勒 (Gelert) C1",
+        "fancy_name": "深渊清道夫",
+        "AetherPower": "闪避",
+        "color": "绿色",
+        "class": "战士",
+        "speed": "潮汐",
+        "skill": null,
+        "types": [
+            "偷取单个目标法力",
+            "攻击单个目标",
+            "全体法力生成增益"
+        ],
+        "skill_types": [
+            "法力生成增益",
+            "法力提升",
+            "法力削减或格挡",
+            "狙击手",
+            "额外伤害"
+        ],
+        "source": "S6-S7-秘闻",
+        "Release date": "2025-06-26",
+        "star": 5,
+        "power": 1214,
+        "attack": 1331,
+        "defense": 1095,
+        "health": 2264,
+        "effects": [
+            "必须连续使用特殊技能才能达到其最大威力，顺序为：",
+            "第一次：",
+            "* 施法者从目标身上窃取 15% 法力。",
+            "* 对目标造成 500% 伤害。",
+            "* 敌人的法力越低，受到的伤害越大，最高可达 650%。",
+            "* 所有盟友获得 +26% 法力生成，持续 3 回合。（只影响通过消除方块或防御队伍在回合结束时获得的法力。）",
+            "第二次：",
+            "* 施法者从目标身上窃取 25% 法力。",
+            "* 对目标造成 550% 伤害。",
+            "* 敌人的法力越低，受到的伤害越大，最高可达 720%。",
+            "* 所有盟友获得 +35% 法力生成，持续 3 回合。（只影响通过消除方块或防御队伍在回合结束时获得的法力。）"
+        ],
+        "passives": [
+            "特殊技能效果：当该角色施放其特殊技能时，有 50% 几率执行以下操作",
+            "* 对所有敌人造成 80% 的伤害。",
+            "* 所有队友获得 +21% 的暴击率，持续 2 回合。",
+            "抵抗狂乱：该角色天生对狂乱有抵抗能力。"
+        ],
+        "family": "defendersofatlantis",
+        "image": "https://imgur.com/A9Yjffb.jpg",
+        "costume_id": 1,
+        "originalIndex": 456
     },
     {
         "name": "金姬 (Ginger)",
@@ -17459,7 +17560,7 @@ window.allHeroes =
         "family": "christmas",
         "image": "https://i.imgur.com/U9fsiDu.jpg",
         "costume_id": 0,
-        "originalIndex": 455
+        "originalIndex": 457
     },
     {
         "name": "古利安 (Goorian)",
@@ -17504,7 +17605,7 @@ window.allHeroes =
         "family": "slime",
         "image": "https://i.imgur.com/e1nrPfv.jpg",
         "costume_id": 0,
-        "originalIndex": 456
+        "originalIndex": 458
     },
     {
         "name": "格蕾丝 (Grace)",
@@ -17546,7 +17647,7 @@ window.allHeroes =
         "family": 2022,
         "image": "https://i.imgur.com/GvwTLSo.jpg",
         "costume_id": 0,
-        "originalIndex": 457
+        "originalIndex": 459
     },
     {
         "name": "绿骑士 (Green Knight)",
@@ -17582,7 +17683,7 @@ window.allHeroes =
         "family": "avalon",
         "image": "https://i.imgur.com/4LKxVef.jpg",
         "costume_id": 0,
-        "originalIndex": 458
+        "originalIndex": 460
     },
     {
         "name": "格雷戈里恩 (Gregorion)",
@@ -17602,7 +17703,7 @@ window.allHeroes =
             "防御增益"
         ],
         "source": "月英",
-        "Release date": "2018-07-01T00:00:00",
+        "Release date": "2018-07-01",
         "star": 5,
         "power": 768,
         "attack": 729,
@@ -17617,7 +17718,7 @@ window.allHeroes =
         "family": 2018,
         "image": "https://i.imgur.com/Vz5Hvbn.jpg",
         "costume_id": 0,
-        "originalIndex": 459
+        "originalIndex": 461
     },
     {
         "name": "格雷戈里恩 (Gregorion) C1",
@@ -17655,7 +17756,7 @@ window.allHeroes =
         "family": 2018,
         "image": "https://i.imgur.com/ONemvil.jpg",
         "costume_id": 1,
-        "originalIndex": 460
+        "originalIndex": 462
     },
     {
         "name": "格伦德尔 (Grendel)",
@@ -17698,7 +17799,7 @@ window.allHeroes =
         "family": "beowulf",
         "image": "https://i.imgur.com/ijEHGWi.jpg",
         "costume_id": 0,
-        "originalIndex": 461
+        "originalIndex": 463
     },
     {
         "name": "格罗沃特 (Grovevert)",
@@ -17731,7 +17832,7 @@ window.allHeroes =
             "在施展该特殊技能后，施法者的法力将增加 20%。",
             "召唤苔藓蛾超级恶魔附身于目标。恶魔每回合对敌人造成 275% 攻击力的伤害。",
             "苔藓蛾超级恶魔会吸收治疗，当吸收的治疗量达到其所有者最大生命值的 70% 时，它便会消失。",
-            "苔藓蛾超级恶魔被召唤后，只要其所有者拥有苔藓蛾超级恶魔，其所有者就会获得 -50% 法力生成（只影响通过消除英雄格或由防御队伍在其回合结束时获得的法力）。"
+            "苔藓蛾超级恶魔被召唤后，只要其所有者拥有苔藓蛾超级恶魔，其所有者就会获得 -50% 法力生成（只影响通过消除方块或由防御队伍在其回合结束时获得的法力）。"
         ],
         "passives": [
             "闪避特殊技能伤害：该角色有 15% 的几率闪避造成伤害的特殊技能。"
@@ -17739,7 +17840,7 @@ window.allHeroes =
         "family": "moth",
         "image": "https://i.imgur.com/0Q3pYS0.jpg",
         "costume_id": 0,
-        "originalIndex": 462
+        "originalIndex": 464
     },
     {
         "name": "关羽 (Guan Yu)",
@@ -17760,7 +17861,7 @@ window.allHeroes =
             "反制小兵"
         ],
         "source": "三国召唤",
-        "Release date": "2022-03-14T12:00:00",
+        "Release date": "2022-03-14",
         "star": 5,
         "power": 835,
         "attack": 826,
@@ -17775,7 +17876,7 @@ window.allHeroes =
         "family": "kingdom",
         "image": "https://i.imgur.com/nDiRoqi.jpg",
         "costume_id": 0,
-        "originalIndex": 463
+        "originalIndex": 465
     },
     {
         "name": "关羽 (Guan Yu) C1",
@@ -17816,7 +17917,7 @@ window.allHeroes =
         "family": "kingdom",
         "image": "https://i.imgur.com/GP4J8r3.jpg",
         "costume_id": 1,
-        "originalIndex": 464
+        "originalIndex": 466
     },
     {
         "name": "变色龙守护者 (Guardian Chameleon)",
@@ -17855,7 +17956,7 @@ window.allHeroes =
         "family": "guardiansteltoc",
         "image": "https://i.imgur.com/Q04Vvnt.jpg",
         "costume_id": 0,
-        "originalIndex": 465
+        "originalIndex": 467
     },
     {
         "name": "锤牙 (Hammertusk)",
@@ -17883,7 +17984,7 @@ window.allHeroes =
         "health": 1629,
         "effects": [
             "对目标及附近敌人造成 360% 伤害。",
-            "目标与附近敌人受到的所有伤害增加 +50% ，持续 4 回合。"
+            "目标与附近敌人受到的所有伤害增加 +50%，持续 4 回合。"
         ],
         "passives": [
             "特殊技能伤害减免：该角色有 10% 的几率将受到的特殊技能直接伤害降至 1 点。",
@@ -17892,7 +17993,7 @@ window.allHeroes =
         "family": "plainshunter",
         "image": "https://i.imgur.com/pL7PYXM.jpg",
         "costume_id": 0,
-        "originalIndex": 466
+        "originalIndex": 468
     },
     {
         "name": "运输石 (Haulstone)",
@@ -17936,7 +18037,7 @@ window.allHeroes =
         "family": "construct",
         "image": "https://i.imgur.com/nDQGLk9.jpg",
         "costume_id": 0,
-        "originalIndex": 467
+        "originalIndex": 469
     },
     {
         "name": "海姆达 (Heimdall)",
@@ -17972,7 +18073,7 @@ window.allHeroes =
         "family": "asgard",
         "image": "https://i.imgur.com/bjKzbra.jpg",
         "costume_id": 0,
-        "originalIndex": 468
+        "originalIndex": 470
     },
     {
         "name": "海姆达 (Heimdall) C1",
@@ -18009,7 +18110,7 @@ window.allHeroes =
         "family": "asgard",
         "image": "https://i.imgur.com/YoTKnv0.jpg",
         "costume_id": 1,
-        "originalIndex": 469
+        "originalIndex": 471
     },
     {
         "name": "霍格火 (Horghall)",
@@ -18028,7 +18129,7 @@ window.allHeroes =
             "攻击减益"
         ],
         "source": "S1-经典",
-        "Release date": "2017-01-01",
+        "Release date": "2017-03-01",
         "star": 5,
         "power": 753,
         "attack": 657,
@@ -18042,7 +18143,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/6787feX.jpg",
         "costume_id": 0,
-        "originalIndex": 470
+        "originalIndex": 472
     },
     {
         "name": "霍格火 (Horghall) C1",
@@ -18061,7 +18162,7 @@ window.allHeroes =
             "攻击减益"
         ],
         "source": "S1-经典",
-        "Release date": "2020-01-01",
+        "Release date": "2020-01-20",
         "star": 5,
         "power": 794,
         "attack": 691,
@@ -18075,7 +18176,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/AffGFoZ.jpg",
         "costume_id": 1,
-        "originalIndex": 471
+        "originalIndex": 473
     },
     {
         "name": "霍格火 (Horghall) C2",
@@ -18114,7 +18215,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/IfQ1lHo.jpg",
         "costume_id": 2,
-        "originalIndex": 472
+        "originalIndex": 474
     },
     {
         "name": "霍格火 (Horghall) 卡通",
@@ -18151,7 +18252,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/VkOyyRt.jpg",
         "costume_id": 3,
-        "originalIndex": 473
+        "originalIndex": 475
     },
     {
         "name": "亨伯特 (Humbert)",
@@ -18182,7 +18283,7 @@ window.allHeroes =
         "effects": [
             "对所有敌人造成 350% 伤害。",
             "为所有盟友提高相当于所造成伤害 25% 的生命值。",
-            "所有盟友获得 +30% 防御，持续 4 回合。防御每回合增加 10% ，最高为 60%。"
+            "所有盟友获得 +30% 防御，持续 4 回合。防御每回合增加 10%，最高为 60%。"
         ],
         "passives": [
             "受到增益时恢复生命：该角色在获得增益或正面效果叠加时恢复 5% 的生命值。"
@@ -18190,7 +18291,7 @@ window.allHeroes =
         "family": "bear",
         "image": "https://i.imgur.com/wk8es22.jpg",
         "costume_id": 0,
-        "originalIndex": 474
+        "originalIndex": 476
     },
     {
         "name": "伊古·杜尔索 (Iku-Turso)",
@@ -18221,7 +18322,7 @@ window.allHeroes =
         "effects": [
             "对目标及附近敌人造成 280% 伤害。",
             "目标与附近敌人在 3 回合内受到共计 243 点水系伤害。对烈火系角色，此状态效果不可净化且持续时间延长 2 回合。",
-            "施法者偷取目标及其附近敌人所获治疗的 51% ，持续 3 回合。对烈火系角色，此状态效果不可净化且持续时间延长 2 回合。"
+            "施法者偷取目标及其附近敌人所获治疗的 51%，持续 3 回合。对烈火系角色，此状态效果不可净化且持续时间延长 2 回合。"
         ],
         "passives": [
             "西苏之力：当该角色在战斗中首次以低生命值开始回合时，他们会恢复 15% 的生命值并获得 15% 的法力。"
@@ -18229,7 +18330,7 @@ window.allHeroes =
         "family": "kalevala",
         "image": "https://i.imgur.com/wOeJMxg.jpg",
         "costume_id": 0,
-        "originalIndex": 475
+        "originalIndex": 477
     },
     {
         "name": "伊藤 (Ito)",
@@ -18265,15 +18366,15 @@ window.allHeroes =
             "1 倍法力充能：",
             "- 对目标造成 430% 伤害。",
             "- 为所有盟友提高相当于所造成伤害 25% 的生命值。",
-            "- 目标获得 -35% 法力生成，持续 2 回合（只影响通过消除英雄格或由防御队伍在其回合结束时获得的法力）。",
+            "- 目标获得 -35% 法力生成，持续 2 回合（只影响通过消除方块或由防御队伍在其回合结束时获得的法力）。",
             "2 倍法力充能：",
             "- 对目标及附近敌人造成 440% 伤害。",
             "- 为所有盟友提高相当于所造成伤害 25% 的生命值。",
-            "- 目标与附近敌人获得 -40% 法力生成，持续 4 回合（只影响通过消除英雄格或由防御队伍在其回合结束时获得的法力）。",
+            "- 目标与附近敌人获得 -40% 法力生成，持续 4 回合（只影响通过消除方块或由防御队伍在其回合结束时获得的法力）。",
             "3 倍法力充能：",
             "- 对所有敌人造成 450% 伤害。",
             "- 为所有盟友提高相当于所造成伤害 25% 的生命值。",
-            "- 所有敌人获得 -45% 法力生成，持续 6 回合（只影响通过消除英雄格或由防御队伍在其回合结束时获得的法力）。"
+            "- 所有敌人获得 -45% 法力生成，持续 6 回合（只影响通过消除方块或由防御队伍在其回合结束时获得的法力）。"
         ],
         "passives": [
             "降低小兵生命值：敌方小兵被召唤时继承的生命值减少 -50%。"
@@ -18281,7 +18382,7 @@ window.allHeroes =
         "family": "ninja",
         "image": "https://i.imgur.com/TBhE7C4.jpg",
         "costume_id": 0,
-        "originalIndex": 476
+        "originalIndex": 478
     },
     {
         "name": "碧玉 (Jade)",
@@ -18327,7 +18428,7 @@ window.allHeroes =
         "family": "ninja",
         "image": "https://i.imgur.com/tVOg6Mz.jpg",
         "costume_id": 0,
-        "originalIndex": 477
+        "originalIndex": 479
     },
     {
         "name": "卡迪雷恩 (Kadilen)",
@@ -18346,7 +18447,7 @@ window.allHeroes =
             "防御增益"
         ],
         "source": "S1-经典",
-        "Release date": "2017-01-01",
+        "Release date": "2017-03-01",
         "star": 5,
         "power": 757,
         "attack": 696,
@@ -18360,7 +18461,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/Gjh3PRB.jpg",
         "costume_id": 0,
-        "originalIndex": 478
+        "originalIndex": 480
     },
     {
         "name": "卡迪雷恩 (Kadilen) C1",
@@ -18395,7 +18496,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/N7LZ2EP.jpg",
         "costume_id": 1,
-        "originalIndex": 479
+        "originalIndex": 481
     },
     {
         "name": "卡迪雷恩 (Kadilen) C2",
@@ -18430,7 +18531,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/hEckaC5.jpg",
         "costume_id": 2,
-        "originalIndex": 480
+        "originalIndex": 482
     },
     {
         "name": "卡迪雷恩 (Kadilen) 卡通",
@@ -18467,7 +18568,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/I1ETLXX.jpg",
         "costume_id": 3,
-        "originalIndex": 481
+        "originalIndex": 483
     },
     {
         "name": "凯 (Kai)",
@@ -18499,9 +18600,9 @@ window.allHeroes =
         "health": 1569,
         "effects": [
             "对目标造成 435% 伤害。",
-            "召唤刺骨陷阱恶魔附身于目标。恶魔每回合对敌人造成 45% 攻击力的伤害。该伤害每回合提高 8% ，最高可达 93%。",
+            "召唤刺骨陷阱恶魔附身于目标。恶魔每回合对敌人造成 45% 攻击力的伤害。该伤害每回合提高 8%，最高可达 93%。",
             "刺骨陷阱恶魔会吸收治疗，当吸收的治疗量达到其所有者最大生命值的 35% 时，它便会消失。",
-            "目标获得的治疗减少 -50% ，持续 3 回合。",
+            "目标获得的治疗减少 -50%，持续 3 回合。",
             "每回合结束时驱散目标身上的增益效果，持续 3 回合。"
         ],
         "passives": [
@@ -18511,7 +18612,7 @@ window.allHeroes =
         "family": "plainshunter",
         "image": "https://i.imgur.com/D9rMcBZ.jpg",
         "costume_id": 0,
-        "originalIndex": 482
+        "originalIndex": 484
     },
     {
         "name": "金士顿 (Kingston)",
@@ -18548,7 +18649,7 @@ window.allHeroes =
         "family": 2019,
         "image": "https://i.imgur.com/rlpoKXr.jpg",
         "costume_id": 0,
-        "originalIndex": 483
+        "originalIndex": 485
     },
     {
         "name": "柯利亚 (Kolya)",
@@ -18591,7 +18692,7 @@ window.allHeroes =
         "family": "garrisonguard",
         "image": "https://i.imgur.com/joEtnuS.jpg",
         "costume_id": 0,
-        "originalIndex": 484
+        "originalIndex": 486
     },
     {
         "name": "洛克小姐 (Lady Locke)",
@@ -18610,7 +18711,7 @@ window.allHeroes =
             "持续伤害"
         ],
         "source": "挑战节-海盗",
-        "Release date": "2017-09-01",
+        "Release date": "2017-09-07",
         "star": 5,
         "power": 765,
         "attack": 805,
@@ -18624,7 +18725,7 @@ window.allHeroes =
         "family": "corellia",
         "image": "https://i.imgur.com/rSEO0Xi.jpg",
         "costume_id": 0,
-        "originalIndex": 485
+        "originalIndex": 487
     },
     {
         "name": "洛克小姐 (Lady Locke) C1",
@@ -18662,7 +18763,7 @@ window.allHeroes =
         "family": "corellia",
         "image": "https://i.imgur.com/mpM0YIf.jpg",
         "costume_id": 1,
-        "originalIndex": 486
+        "originalIndex": 488
     },
     {
         "name": "圣湖女神 (Lady of the Lake)",
@@ -18683,7 +18784,7 @@ window.allHeroes =
             "召唤小兵"
         ],
         "source": "挑战节-阿瓦隆",
-        "Release date": "2017-01-01",
+        "Release date": "2019-09-12",
         "star": 5,
         "power": 780,
         "attack": 756,
@@ -18698,7 +18799,7 @@ window.allHeroes =
         "family": "avalon",
         "image": "https://i.imgur.com/hlRFlMx.jpg",
         "costume_id": 0,
-        "originalIndex": 487
+        "originalIndex": 489
     },
     {
         "name": "圣湖女神 (Lady of the Lake) C1",
@@ -18734,7 +18835,7 @@ window.allHeroes =
         "family": "avalon",
         "image": "https://i.imgur.com/T9XV0yp.jpg",
         "costume_id": 1,
-        "originalIndex": 488
+        "originalIndex": 490
     },
     {
         "name": "丽德里娅 (Leadria)",
@@ -18772,7 +18873,7 @@ window.allHeroes =
         "family": 2023,
         "image": "https://i.imgur.com/YdTKSoW.jpg",
         "costume_id": 0,
-        "originalIndex": 489
+        "originalIndex": 491
     },
     {
         "name": "叶拂 (Leafwhisk)",
@@ -18811,7 +18912,7 @@ window.allHeroes =
         "family": "goblin",
         "image": "https://i.imgur.com/Y6zioBg.jpg",
         "costume_id": 0,
-        "originalIndex": 490
+        "originalIndex": 492
     },
     {
         "name": "雷奥妮 (Leonie)",
@@ -18856,7 +18957,7 @@ window.allHeroes =
         "family": "wildcat",
         "image": "https://i.imgur.com/nW3onBB.jpg",
         "costume_id": 0,
-        "originalIndex": 491
+        "originalIndex": 493
     },
     {
         "name": "丽阿娜 (Lianna)",
@@ -18873,7 +18974,7 @@ window.allHeroes =
             "狙击手"
         ],
         "source": "S1-经典",
-        "Release date": "2017-01-01",
+        "Release date": "2017-03-01",
         "star": 5,
         "power": 755,
         "attack": 729,
@@ -18886,7 +18987,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/uJj6MQb.jpg",
         "costume_id": 0,
-        "originalIndex": 492
+        "originalIndex": 494
     },
     {
         "name": "丽阿娜 (Lianna) C1",
@@ -18905,7 +19006,7 @@ window.allHeroes =
             "狙击手"
         ],
         "source": "S1-经典",
-        "Release date": "2020-01-01",
+        "Release date": "2020-01-20",
         "star": 5,
         "power": 795,
         "attack": 773,
@@ -18919,7 +19020,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/ieaiSor.jpg",
         "costume_id": 1,
-        "originalIndex": 493
+        "originalIndex": 495
     },
     {
         "name": "丽阿娜 (Lianna) C2",
@@ -18952,7 +19053,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/UwDUNi0.jpg",
         "costume_id": 2,
-        "originalIndex": 494
+        "originalIndex": 496
     },
     {
         "name": "丽阿娜 (Lianna) 卡通",
@@ -18986,7 +19087,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/yEECSzl.jpg",
         "costume_id": 3,
-        "originalIndex": 495
+        "originalIndex": 497
     },
     {
         "name": "丽阿娜 (Lianna) 玻璃",
@@ -19021,7 +19122,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://imgur.com/Ad7sIug.jpg",
         "costume_id": 4,
-        "originalIndex": 496
+        "originalIndex": 498
     },
     {
         "name": "莱姆博尔 (Limeboire)",
@@ -19064,7 +19165,7 @@ window.allHeroes =
         "family": "moth",
         "image": "https://imgur.com/OeIVrwK.jpg",
         "costume_id": 0,
-        "originalIndex": 497
+        "originalIndex": 499
     },
     {
         "name": "刘备 (Liu Bei)",
@@ -19085,7 +19186,7 @@ window.allHeroes =
             "召唤小兵"
         ],
         "source": "三国召唤",
-        "Release date": "2022-05-23T12:00:00",
+        "Release date": "2022-05-23",
         "star": 5,
         "power": 836,
         "attack": 815,
@@ -19100,7 +19201,7 @@ window.allHeroes =
         "family": "kingdom",
         "image": "https://i.imgur.com/Uq8cKe7.jpg",
         "costume_id": 0,
-        "originalIndex": 498
+        "originalIndex": 500
     },
     {
         "name": "刘备 (Liu Bei) C1",
@@ -19141,7 +19242,7 @@ window.allHeroes =
         "family": "kingdom",
         "image": "https://i.imgur.com/rjnMev7.jpg",
         "costume_id": 1,
-        "originalIndex": 499
+        "originalIndex": 501
     },
     {
         "name": "鲁海德 (Lughaidh)",
@@ -19186,7 +19287,7 @@ window.allHeroes =
         "family": "underwild",
         "image": "https://i.imgur.com/RFjr7Fi.jpg",
         "costume_id": 0,
-        "originalIndex": 500
+        "originalIndex": 502
     },
     {
         "name": "鲁海德 (Lughaidh) C1",
@@ -19230,7 +19331,7 @@ window.allHeroes =
         "family": "underwild",
         "image": "https://i.imgur.com/EAwYCZr.jpg",
         "costume_id": 1,
-        "originalIndex": 501
+        "originalIndex": 503
     },
     {
         "name": "玛阿特 (Ma'at)",
@@ -19269,7 +19370,7 @@ window.allHeroes =
         "family": "sun",
         "image": "https://i.imgur.com/Lc6n5Vz.jpg",
         "costume_id": 0,
-        "originalIndex": 502
+        "originalIndex": 504
     },
     {
         "name": "玛阿特 (Ma'at) C1",
@@ -19310,7 +19411,7 @@ window.allHeroes =
         "family": "sun",
         "image": "https://i.imgur.com/mjmiIt0.jpg",
         "costume_id": 1,
-        "originalIndex": 503
+        "originalIndex": 505
     },
     {
         "name": "麦戈文 (Maegwyn)",
@@ -19340,7 +19441,7 @@ window.allHeroes =
         "effects": [
             "为所有盟友恢复 50% 生命值。",
             "所有盟友在 4 回合内获得共计 800 点生命加成。提高的生命值可以超过最大生命值。",
-            "所有盟友受到的所有伤害减少 -40% ，持续 4 回合。"
+            "所有盟友受到的所有伤害减少 -40%，持续 4 回合。"
         ],
         "passives": [
             "特殊技能摧毁恶魔：当该角色施放其特殊技能时，其身上的所有恶魔都会被摧毁。",
@@ -19350,7 +19451,7 @@ window.allHeroes =
         "family": "astraldwarfs",
         "image": "https://i.imgur.com/ZHoR1Fc.jpg",
         "costume_id": 0,
-        "originalIndex": 504
+        "originalIndex": 506
     },
     {
         "name": "玛格丽特 (Margaret)",
@@ -19387,7 +19488,7 @@ window.allHeroes =
         "family": 2019,
         "image": "https://i.imgur.com/3T1uKuW.jpg",
         "costume_id": 0,
-        "originalIndex": 505
+        "originalIndex": 507
     },
     {
         "name": "麦克思 (Max)",
@@ -19416,7 +19517,7 @@ window.allHeroes =
         "effects": [
             "为所有盟友恢复 45% 生命值。",
             "为每位盟友召唤一个棕色狗狗小兵，其可从施法者处继承 35% 生命和 55% 攻击力。",
-            "所有盟友受到来自较强元素的攻击和特殊技能伤害时，所受伤害减少 -80% ，持续 5 回合。"
+            "所有盟友受到来自较强元素的攻击和特殊技能伤害时，所受伤害减少 -80%，持续 5 回合。"
         ],
         "passives": [
             "萌宠之怒：当恶魔被召唤到任何敌人身上时，该角色对所有敌人造成 85% 的伤害。此效果每回合只能激活一次。",
@@ -19425,7 +19526,7 @@ window.allHeroes =
         "family": "pets",
         "image": "https://i.imgur.com/V0qUVNH.jpg",
         "costume_id": 0,
-        "originalIndex": 506
+        "originalIndex": 508
     },
     {
         "name": "马佐加 (Mazoga)",
@@ -19464,7 +19565,7 @@ window.allHeroes =
         "family": "beachparty",
         "image": "https://i.imgur.com/1FUEzbL.jpg",
         "costume_id": 0,
-        "originalIndex": 507
+        "originalIndex": 509
     },
     {
         "name": "米纳 (Mena)",
@@ -19504,7 +19605,7 @@ window.allHeroes =
         "family": "gargoyle",
         "image": "https://i.imgur.com/y4ORfSh.jpg",
         "costume_id": 0,
-        "originalIndex": 508
+        "originalIndex": 510
     },
     {
         "name": "布雾者 (Mistweaver)",
@@ -19516,7 +19617,8 @@ window.allHeroes =
         "skill": "迷雾之拳",
         "types": [
             "攻击3个目标",
-            "治疗免疫"
+            "3个目标每次抵抗治疗时受到伤害",
+            "自我元素攻击叠加"
         ],
         "skill_types": [
             "范围攻击 (打3)",
@@ -19544,7 +19646,7 @@ window.allHeroes =
         "family": "junglehunter",
         "image": "https://i.imgur.com/F4ide5S.jpg",
         "costume_id": 0,
-        "originalIndex": 509
+        "originalIndex": 511
     },
     {
         "name": "月之花 (Moonflower)",
@@ -19581,7 +19683,7 @@ window.allHeroes =
         "family": "astralelves",
         "image": "https://i.imgur.com/0xgP0mx.jpg",
         "costume_id": 0,
-        "originalIndex": 510
+        "originalIndex": 512
     },
     {
         "name": "摩根勒菲 (Morgan Le Fay)",
@@ -19599,7 +19701,7 @@ window.allHeroes =
             "持续伤害"
         ],
         "source": "挑战节-阿瓦隆",
-        "Release date": "2017-01-01",
+        "Release date": "2018-01-05",
         "star": 5,
         "power": 765,
         "attack": 716,
@@ -19613,7 +19715,7 @@ window.allHeroes =
         "family": "avalon",
         "image": "https://i.imgur.com/JIPoRD4.jpg",
         "costume_id": 0,
-        "originalIndex": 511
+        "originalIndex": 513
     },
     {
         "name": "北方之母 (Mother North)",
@@ -19634,7 +19736,7 @@ window.allHeroes =
             "复活"
         ],
         "source": "月活动-冬日",
-        "Release date": "2017-01-01",
+        "Release date": "2018-12-02",
         "star": 5,
         "power": 770,
         "attack": 605,
@@ -19649,7 +19751,7 @@ window.allHeroes =
         "family": "christmas",
         "image": "https://i.imgur.com/463IXXp.jpg",
         "costume_id": 0,
-        "originalIndex": 512
+        "originalIndex": 514
     },
     {
         "name": "北方之母 (Mother North) C1",
@@ -19685,7 +19787,7 @@ window.allHeroes =
         "family": "christmas",
         "image": "https://i.imgur.com/0QsTiw8.jpg",
         "costume_id": 1,
-        "originalIndex": 513
+        "originalIndex": 515
     },
     {
         "name": "马克特司 (Mucktus)",
@@ -19726,7 +19828,7 @@ window.allHeroes =
         "family": "slime",
         "image": "https://i.imgur.com/eKwzh2k.jpg",
         "costume_id": 0,
-        "originalIndex": 514
+        "originalIndex": 516
     },
     {
         "name": "妙印尼 (Myoin-ni)",
@@ -19772,7 +19874,7 @@ window.allHeroes =
         "family": "ninja",
         "image": "https://i.imgur.com/tXk6QNw.jpg",
         "costume_id": 0,
-        "originalIndex": 515
+        "originalIndex": 517
     },
     {
         "name": "米斯蒂亚 (Mystia)",
@@ -19813,7 +19915,7 @@ window.allHeroes =
         "family": 2025,
         "image": "https://i.imgur.com/igntudt.jpg",
         "costume_id": 0,
-        "originalIndex": 516
+        "originalIndex": 518
     },
     {
         "name": "诺古 (Nogu)",
@@ -19852,7 +19954,7 @@ window.allHeroes =
         "family": "champions",
         "image": "https://i.imgur.com/CtidFGk.jpg",
         "costume_id": 0,
-        "originalIndex": 517
+        "originalIndex": 519
     },
     {
         "name": "奥特 (Ott)",
@@ -19897,7 +19999,7 @@ window.allHeroes =
         "family": "nidavellir",
         "image": "https://i.imgur.com/XIyQFXu.jpg",
         "costume_id": 0,
-        "originalIndex": 518
+        "originalIndex": 520
     },
     {
         "name": "珀涅罗珀 (Penelope)",
@@ -19936,7 +20038,7 @@ window.allHeroes =
         "family": "investigator",
         "image": "https://i.imgur.com/mxewGNK.jpg",
         "costume_id": 0,
-        "originalIndex": 519
+        "originalIndex": 521
     },
     {
         "name": "裴雷格林 (Peregrine)",
@@ -19976,7 +20078,7 @@ window.allHeroes =
         "family": "woodlandfaun",
         "image": "https://i.imgur.com/1bOrH83.jpg",
         "costume_id": 0,
-        "originalIndex": 520
+        "originalIndex": 522
     },
     {
         "name": "珮绿朵 (Peridot)",
@@ -20024,7 +20126,7 @@ window.allHeroes =
         "family": "ninja",
         "image": "https://i.imgur.com/E1kxfPE.jpg",
         "costume_id": 0,
-        "originalIndex": 521
+        "originalIndex": 523
     },
     {
         "name": "斐利亚·福格 (Phileas Fogg)",
@@ -20062,7 +20164,7 @@ window.allHeroes =
         "family": "underwild",
         "image": "https://i.imgur.com/L3xRyB9.jpg",
         "costume_id": 0,
-        "originalIndex": 522
+        "originalIndex": 524
     },
     {
         "name": "斐利亚·福格 (Phileas Fogg) C1",
@@ -20103,7 +20205,7 @@ window.allHeroes =
         "family": "underwild",
         "image": "https://i.imgur.com/xWb34BS.jpg",
         "costume_id": 1,
-        "originalIndex": 523
+        "originalIndex": 525
     },
     {
         "name": "皮普 (Pip)",
@@ -20135,7 +20237,7 @@ window.allHeroes =
             "对目标造成 350% 伤害。",
             "对随机 2 名敌人造成额外 350% 伤害。",
             "所有被击中的目标在 3 回合内受到共计 456 点流血伤害。",
-            "所有被击中的目标从流血状态异常受到的伤害增加 +50% ，持续 3 回合。"
+            "所有被击中的目标从流血状态异常受到的伤害增加 +50%，持续 3 回合。"
         ],
         "passives": [
             "抵抗法力削减：该角色天生对法力削减有抵抗能力。",
@@ -20144,7 +20246,7 @@ window.allHeroes =
         "family": "garrisonguard",
         "image": "https://i.imgur.com/ExQF65A.jpg",
         "costume_id": 0,
-        "originalIndex": 524
+        "originalIndex": 526
     },
     {
         "name": "齐格弗里德王子 (Prince Siegfried)",
@@ -20190,7 +20292,7 @@ window.allHeroes =
         "family": "opera",
         "image": "https://i.imgur.com/WwCBlh0.jpg",
         "costume_id": 0,
-        "originalIndex": 525
+        "originalIndex": 527
     },
     {
         "name": "青龙 (Qinglong)",
@@ -20229,7 +20331,7 @@ window.allHeroes =
         "family": "lunaryear",
         "image": "https://i.imgur.com/PjBP5aw.jpg",
         "costume_id": 0,
-        "originalIndex": 526
+        "originalIndex": 528
     },
     {
         "name": "安娜王后 (Queen Anne)",
@@ -20270,7 +20372,7 @@ window.allHeroes =
         "family": "musketeer",
         "image": "https://i.imgur.com/BoTIbhq.jpg",
         "costume_id": 0,
-        "originalIndex": 527
+        "originalIndex": 529
     },
     {
         "name": "奎奈尔 (Quenell)",
@@ -20299,14 +20401,14 @@ window.allHeroes =
         "health": 1433,
         "effects": [
             "对目标及附近敌人造成 320% 伤害。",
-            "施法者下一次使用特殊技能时，其特殊技能的威力会增加 +40% ，之后每回合都会额外增加 +40% ，最多加到 200%。",
+            "施法者下一次使用特殊技能时，其特殊技能的威力会增加 +40%，之后每回合都会额外增加 +40%，最多加到 200%。",
             "施法者在 3 回合内恢复 600 点生命值。"
         ],
         "passives": [],
         "family": "wolf",
         "image": "https://i.imgur.com/iWwRJlT.jpg",
         "costume_id": 0,
-        "originalIndex": 528
+        "originalIndex": 530
     },
     {
         "name": "奎奈尔 (Quenell) C1",
@@ -20335,7 +20437,7 @@ window.allHeroes =
         "health": 2114,
         "effects": [
             "对目标及附近敌人造成 360% 伤害。",
-            "施法者下一次使用特殊技能时，其特殊技能的威力会增加 +30% ，之后每回合都会额外增加 +30% ，最多加到 +150%。",
+            "施法者下一次使用特殊技能时，其特殊技能的威力会增加 +30%，之后每回合都会额外增加 +30%，最多加到 +150%。",
             "施法者在 3 回合内恢复 600 点生命值。"
         ],
         "passives": [
@@ -20346,7 +20448,7 @@ window.allHeroes =
         "family": "wolf",
         "image": "https://i.imgur.com/vtZxZ4o.jpg",
         "costume_id": 1,
-        "originalIndex": 529
+        "originalIndex": 531
     },
     {
         "name": "拉塔托斯克 (Ratatoskr)",
@@ -20381,7 +20483,7 @@ window.allHeroes =
         "family": "alfheim",
         "image": "https://i.imgur.com/IwBPUx4.jpg",
         "costume_id": 0,
-        "originalIndex": 530
+        "originalIndex": 532
     },
     {
         "name": "拉塔托斯克 (Ratatoskr) C1",
@@ -20416,7 +20518,7 @@ window.allHeroes =
         "family": "alfheim",
         "image": "https://i.imgur.com/AZRDhg4.jpg",
         "costume_id": 1,
-        "originalIndex": 531
+        "originalIndex": 533
     },
     {
         "name": "雷利乌斯 (Relius)",
@@ -20454,7 +20556,7 @@ window.allHeroes =
         "family": "owl",
         "image": "https://i.imgur.com/6ngbYLA.jpg",
         "costume_id": 0,
-        "originalIndex": 532
+        "originalIndex": 534
     },
     {
         "name": "莱茵辉光 (Rhineglow)",
@@ -20496,7 +20598,7 @@ window.allHeroes =
         "family": "construct",
         "image": "https://i.imgur.com/SQkVr8H.jpg",
         "costume_id": 0,
-        "originalIndex": 533
+        "originalIndex": 535
     },
     {
         "name": "罗兹 (Roz)",
@@ -20536,7 +20638,7 @@ window.allHeroes =
         "family": "superelemental",
         "image": "https://i.imgur.com/5xvOFq1.jpg",
         "costume_id": 0,
-        "originalIndex": 534
+        "originalIndex": 536
     },
     {
         "name": "萨迪 (Sadie)",
@@ -20578,7 +20680,7 @@ window.allHeroes =
         "family": "springvale",
         "image": "https://imgur.com/p0UA9id.jpg",
         "costume_id": 0,
-        "originalIndex": 535
+        "originalIndex": 537
     },
     {
         "name": "沙悟净 (Sha Wujing)",
@@ -20617,7 +20719,7 @@ window.allHeroes =
         "family": "journey",
         "image": "https://i.imgur.com/zNMCJKX.jpg",
         "costume_id": 0,
-        "originalIndex": 536
+        "originalIndex": 538
     },
     {
         "name": "西尔瓦丽亚 (Silvaria)",
@@ -20657,7 +20759,7 @@ window.allHeroes =
         "family": 2022,
         "image": "https://i.imgur.com/bmUsK1J.jpg",
         "costume_id": 0,
-        "originalIndex": 537
+        "originalIndex": 539
     },
     {
         "name": "巧舌妇 (Smarttongue)",
@@ -20697,7 +20799,7 @@ window.allHeroes =
         "family": "goblin",
         "image": "https://i.imgur.com/reMeS9l.jpg",
         "costume_id": 0,
-        "originalIndex": 538
+        "originalIndex": 540
     },
     {
         "name": "雪球 (Snowball)",
@@ -20738,7 +20840,7 @@ window.allHeroes =
         "family": "pets",
         "image": "https://i.imgur.com/kEMlZAo.jpg",
         "costume_id": 0,
-        "originalIndex": 539
+        "originalIndex": 541
     },
     {
         "name": "斯帕托依 (Spartoi)",
@@ -20784,7 +20886,7 @@ window.allHeroes =
         "family": "nightmaresofatlantis",
         "image": "https://i.imgur.com/OJh8GR8.jpg",
         "costume_id": 0,
-        "originalIndex": 540
+        "originalIndex": 542
     },
     {
         "name": "斯帕托依 (Spartoi) C1",
@@ -20831,7 +20933,7 @@ window.allHeroes =
         "family": "nightmaresofatlantis",
         "image": "https://i.imgur.com/uRq8uoY.jpg",
         "costume_id": 1,
-        "originalIndex": 541
+        "originalIndex": 543
     },
     {
         "name": "斯皮夫 (Spiff)",
@@ -20870,7 +20972,7 @@ window.allHeroes =
         "family": "fox",
         "image": "https://i.imgur.com/XnfQKGA.jpg",
         "costume_id": 0,
-        "originalIndex": 542
+        "originalIndex": 544
     },
     {
         "name": "斯特因堂 (Staintongue)",
@@ -20900,7 +21002,7 @@ window.allHeroes =
         "health": 1540,
         "effects": [
             "对目标及附近敌人造成 330% 伤害。",
-            "目标和附近敌人获得 -30% 精准度，持续 3 回合。该精准度每回合减少 -10% ，最高可达 -50%。",
+            "目标和附近敌人获得 -30% 精准度，持续 3 回合。该精准度每回合减少 -10%，最高可达 -50%。",
             "目标与附近敌人在 3 回合内受到共计 363 点剧毒伤害。"
         ],
         "passives": [
@@ -20910,7 +21012,7 @@ window.allHeroes =
         "family": "abysshunter",
         "image": "https://i.imgur.com/obJIXMO.jpg",
         "costume_id": 0,
-        "originalIndex": 543
+        "originalIndex": 545
     },
     {
         "name": "星瞳 (Starlass)",
@@ -20940,7 +21042,7 @@ window.allHeroes =
         "effects": [
             "此特殊技能必定命中。",
             "对目标及附近敌人造成 550% 伤害。",
-            "每当被击中的敌人法力满格时，自动对其造成 701 点伤害，并使其法力减少 75% ，持续 3 回合。"
+            "每当被击中的敌人法力满格时，自动对其造成 701 点伤害，并使其法力减少 75%，持续 3 回合。"
         ],
         "passives": [
             "抵抗剧毒：该角色天生对剧毒有抵抗能力。",
@@ -20949,7 +21051,7 @@ window.allHeroes =
         "family": "astralelves",
         "image": "https://i.imgur.com/VtRf87E.jpg",
         "costume_id": 0,
-        "originalIndex": 544
+        "originalIndex": 546
     },
     {
         "name": "苏涅 (Sune)",
@@ -20982,7 +21084,7 @@ window.allHeroes =
             "对目标造成 550% 伤害。",
             "若目标为冰雪系，则对其附近敌人造成 300% 伤害。",
             "驱散目标和附近敌人身上的增益。",
-            "每移除一项状态效果，就使目标和附近敌人的法力减少 -5% ，最高可减少 -20%。",
+            "每移除一项状态效果，就使目标和附近敌人的法力减少 -5%，最高可减少 -20%。",
             "对冰雪系造成额外伤害。"
         ],
         "passives": [
@@ -20992,7 +21094,7 @@ window.allHeroes =
         "family": "plainshunter",
         "image": "https://i.imgur.com/Uw6kgXB.jpg",
         "costume_id": 0,
-        "originalIndex": 545
+        "originalIndex": 547
     },
     {
         "name": "为朝 (Tametomo)",
@@ -21039,7 +21141,7 @@ window.allHeroes =
         "family": "ninja",
         "image": "https://i.imgur.com/QuMcU9O.jpg",
         "costume_id": 0,
-        "originalIndex": 546
+        "originalIndex": 548
     },
     {
         "name": "塔拉克 (Tarlak)",
@@ -21072,7 +21174,7 @@ window.allHeroes =
         "family": "lagoon",
         "image": "https://i.imgur.com/VmIENFl.jpg",
         "costume_id": 0,
-        "originalIndex": 547
+        "originalIndex": 549
     },
     {
         "name": "塔拉克 (Tarlak) C1",
@@ -21105,7 +21207,7 @@ window.allHeroes =
         "family": "lagoon",
         "image": "https://i.imgur.com/UPOaKMz.jpg",
         "costume_id": 1,
-        "originalIndex": 548
+        "originalIndex": 550
     },
     {
         "name": "泰迪 (Teddy)",
@@ -21148,7 +21250,7 @@ window.allHeroes =
         "family": "bear",
         "image": "https://i.imgur.com/Aaf3CZX.jpg",
         "costume_id": 0,
-        "originalIndex": 549
+        "originalIndex": 551
     },
     {
         "name": "特鲁利亚 (Telluria)",
@@ -21191,7 +21293,7 @@ window.allHeroes =
         "family": 2020,
         "image": "https://i.imgur.com/xKwfgME.jpg",
         "costume_id": 0,
-        "originalIndex": 550
+        "originalIndex": 552
     },
     {
         "name": "特罗纽斯 (Telonius)",
@@ -21226,7 +21328,7 @@ window.allHeroes =
         "effects": [
             "当特殊技能充能至 100% / 200% 法力时将拥有不同的效果：",
             "1 倍法力充能：",
-            "* 所有敌人从状态异常受到的伤害增加 +50% ，持续 3 回合。",
+            "* 所有敌人从状态异常受到的伤害增加 +50%，持续 3 回合。",
             "* 所有敌人在 3 回合内受到共计 357 点剧毒伤害。",
             "2 倍法力充能：",
             "* 为施法者和附近盟友恢复 75% 生命值。",
@@ -21239,7 +21341,7 @@ window.allHeroes =
         "family": "magic",
         "image": "https://i.imgur.com/WMPKV4S.jpg",
         "costume_id": 0,
-        "originalIndex": 551
+        "originalIndex": 553
     },
     {
         "name": "疯帽子 (The Hatter)",
@@ -21258,7 +21360,7 @@ window.allHeroes =
             "增益窃取者"
         ],
         "source": "挑战节-仙境",
-        "Release date": "2019-02-01",
+        "Release date": "2019-02-14",
         "star": 5,
         "power": 768,
         "attack": 735,
@@ -21272,7 +21374,7 @@ window.allHeroes =
         "family": "wonderland",
         "image": "https://i.imgur.com/Fs3u4wr.jpg",
         "costume_id": 0,
-        "originalIndex": 552
+        "originalIndex": 554
     },
     {
         "name": "疯帽子 (The Hatter) C1",
@@ -21310,7 +21412,7 @@ window.allHeroes =
         "family": "wonderland",
         "image": "https://i.imgur.com/SDtr1yp.jpg",
         "costume_id": 1,
-        "originalIndex": 553
+        "originalIndex": 555
     },
     {
         "name": "狄奥多西 (Theodosius)",
@@ -21355,7 +21457,7 @@ window.allHeroes =
         "family": "garrisonguard",
         "image": "https://i.imgur.com/tr0BEoG.jpg",
         "costume_id": 0,
-        "originalIndex": 554
+        "originalIndex": 556
     },
     {
         "name": "托克斯坎德拉 (Toxicandra)",
@@ -21391,7 +21493,7 @@ window.allHeroes =
         "family": "villains",
         "image": "https://i.imgur.com/m5DCDHL.jpg",
         "costume_id": 0,
-        "originalIndex": 555
+        "originalIndex": 557
     },
     {
         "name": "托克斯坎德拉 (Toxicandra) C1",
@@ -21430,7 +21532,7 @@ window.allHeroes =
         "family": "villains",
         "image": "https://imgur.com/6ZuZX5t.jpg",
         "costume_id": 1,
-        "originalIndex": 556
+        "originalIndex": 558
     },
     {
         "name": "万奈摩宁 (Vainamoinen)",
@@ -21465,7 +21567,7 @@ window.allHeroes =
         "family": "kalevala",
         "image": "https://i.imgur.com/gY0vQZu.jpg",
         "costume_id": 0,
-        "originalIndex": 557
+        "originalIndex": 559
     },
     {
         "name": "万奈摩宁 (Vainamoinen) C1",
@@ -21500,7 +21602,7 @@ window.allHeroes =
         "family": "kalevala",
         "image": "https://i.imgur.com/eTqe3pF.jpg",
         "costume_id": 1,
-        "originalIndex": 558
+        "originalIndex": 560
     },
     {
         "name": "韦鲁斯 (Verus)",
@@ -21538,7 +21640,7 @@ window.allHeroes =
         "family": "owl",
         "image": "https://i.imgur.com/Klnv0Ue.jpg",
         "costume_id": 0,
-        "originalIndex": 559
+        "originalIndex": 561
     },
     {
         "name": "维赛勒斯 (Viselus)",
@@ -21579,7 +21681,7 @@ window.allHeroes =
         "family": 2023,
         "image": "https://i.imgur.com/SWrRjRX.jpg",
         "costume_id": 0,
-        "originalIndex": 560
+        "originalIndex": 562
     },
     {
         "name": "威妮弗蕾德 (Winifred)",
@@ -21620,7 +21722,7 @@ window.allHeroes =
         "family": "bard",
         "image": "https://i.imgur.com/keg45a3.jpg",
         "costume_id": 0,
-        "originalIndex": 561
+        "originalIndex": 563
     },
     {
         "name": "赞德瑞拉 (Xandrella)",
@@ -21650,7 +21752,7 @@ window.allHeroes =
         "health": 1724,
         "effects": [
             "对目标和所有冰雪系敌人造成 450% 伤害。",
-            "目标和任何冰雪系敌人法力满格时，自动对其造成 438 点伤害，并使其法力减少 50% ，持续 4 回合。",
+            "目标和任何冰雪系敌人法力满格时，自动对其造成 438 点伤害，并使其法力减少 50%，持续 4 回合。",
             "面板中所有自然系盾牌受到影响。进攻方英雄施放此特殊技能时，盾牌将会被增强，给予的法力增加 +37% ；而防御方英雄施放此特殊技能时，盾牌则会被削弱，给予的法力减少 -30%。"
         ],
         "passives": [
@@ -21663,7 +21765,7 @@ window.allHeroes =
         "family": "superelemental",
         "image": "https://i.imgur.com/KaW9HIP.jpg",
         "costume_id": 0,
-        "originalIndex": 562
+        "originalIndex": 564
     },
     {
         "name": "夏玛拉 (Xiamara)",
@@ -21692,7 +21794,7 @@ window.allHeroes =
         "health": 1629,
         "effects": [
             "对所有敌人造成 300% 伤害。",
-            "施法者下一次使用特殊技能时，其特殊技能的威力会增加 +100% ，之后每回合都会额外增加 +25% ，最多加到 +200%。",
+            "施法者下一次使用特殊技能时，其特殊技能的威力会增加 +100%，之后每回合都会额外增加 +25%，最多加到 +200%。",
             "所有敌人受到法力腐蚀，持续 4 回合。受到该状态效果的敌人每次从额外来源获得法力时，都会受到 400 点伤害。额外来源包括来自特殊技能的直接法力增加、状态效果、关卡属性、被动技能、家族效果、方块效果和小兵。只有在目标拥有法力生成增益或正法力生成叠加时，防御队伍在回合结束时或通过消除方块获得的法力才会被计算在内。"
         ],
         "passives": [
@@ -21701,7 +21803,7 @@ window.allHeroes =
         "family": "stag",
         "image": "https://i.imgur.com/En0uUcx.jpg",
         "costume_id": 0,
-        "originalIndex": 563
+        "originalIndex": 565
     },
     {
         "name": "小青 (Xiaoqing)",
@@ -21740,7 +21842,7 @@ window.allHeroes =
         "family": "lunaryear",
         "image": "https://i.imgur.com/XmTf3zL.jpg",
         "costume_id": 0,
-        "originalIndex": 564
+        "originalIndex": 566
     },
     {
         "name": "尤纳恩 (Yunan)",
@@ -21763,7 +21865,7 @@ window.allHeroes =
             "治疗削减"
         ],
         "source": "月活动-飞沙帝国",
-        "Release date": "2017-01-01",
+        "Release date": "2018-06-21",
         "star": 5,
         "power": 770,
         "attack": 618,
@@ -21772,14 +21874,14 @@ window.allHeroes =
         "effects": [
             "对所有敌人造成 200% 伤害。",
             "所有敌人在 3 回合内受到共计 381 点伤害。",
-            "所有敌人获得的治疗减少 -50% ，持续 3 回合。此效果无法净化。",
+            "所有敌人获得的治疗减少 -50%，持续 3 回合。此效果无法净化。",
             "净化所有盟友的状态异常。"
         ],
         "passives": [],
         "family": "sand",
         "image": "https://i.imgur.com/jUayUm6.jpg",
         "costume_id": 0,
-        "originalIndex": 565
+        "originalIndex": 567
     },
     {
         "name": "尤纳恩 (Yunan) C1",
@@ -21818,7 +21920,7 @@ window.allHeroes =
         "family": "sand",
         "image": "https://i.imgur.com/vpqf6zq.jpg",
         "costume_id": 1,
-        "originalIndex": 566
+        "originalIndex": 568
     },
     {
         "name": "扎维尼亚 (Zavinia)",
@@ -21858,7 +21960,7 @@ window.allHeroes =
         "family": "investigator",
         "image": "https://i.imgur.com/F1mKhpD.jpg",
         "costume_id": 0,
-        "originalIndex": 567
+        "originalIndex": 569
     },
     {
         "name": "西林 (Zeline)",
@@ -21881,7 +21983,7 @@ window.allHeroes =
             "法力生成增益"
         ],
         "source": "月英",
-        "Release date": "2018-02-01T00:00:00",
+        "Release date": "2018-02-01",
         "star": 5,
         "power": 768,
         "attack": 764,
@@ -21898,7 +22000,7 @@ window.allHeroes =
         "family": 2018,
         "image": "https://i.imgur.com/lrpsqzO.jpg",
         "costume_id": 0,
-        "originalIndex": 568
+        "originalIndex": 570
     },
     {
         "name": "西林 (Zeline) C1",
@@ -21941,7 +22043,7 @@ window.allHeroes =
         "family": 2018,
         "image": "https://i.imgur.com/QJNIkdZ.jpg",
         "costume_id": 1,
-        "originalIndex": 569
+        "originalIndex": 571
     },
     {
         "name": "佐卡 (Zocc)",
@@ -21979,7 +22081,7 @@ window.allHeroes =
         "family": 2020,
         "image": "https://i.imgur.com/XA1fhlp.jpg",
         "costume_id": 0,
-        "originalIndex": 570
+        "originalIndex": 572
     },
     {
         "name": "祖妮 (Zuni)",
@@ -22024,7 +22126,7 @@ window.allHeroes =
         "family": "superelemental",
         "image": "https://i.imgur.com/cAdigcK.jpg",
         "costume_id": 0,
-        "originalIndex": 571
+        "originalIndex": 573
     },
     {
         "name": "弗莱彻 (Fletcher)",
@@ -22041,7 +22143,7 @@ window.allHeroes =
             "狙击手"
         ],
         "source": "S1-经典",
-        "Release date": "2017-01-01",
+        "Release date": "2017-03-01",
         "star": 1,
         "power": 210,
         "attack": 215,
@@ -22054,7 +22156,7 @@ window.allHeroes =
         "family": null,
         "image": "https://i.imgur.com/Xe6KTRG.jpg",
         "costume_id": 0,
-        "originalIndex": 572
+        "originalIndex": 574
     },
     {
         "name": "夜影 (Nightshade)",
@@ -22071,7 +22173,7 @@ window.allHeroes =
             "狙击手"
         ],
         "source": "S1-经典",
-        "Release date": "2017-01-01",
+        "Release date": "2017-03-01",
         "star": 1,
         "power": 212,
         "attack": 183,
@@ -22084,7 +22186,7 @@ window.allHeroes =
         "family": null,
         "image": "https://i.imgur.com/TChsKw7.jpg",
         "costume_id": 0,
-        "originalIndex": 573
+        "originalIndex": 575
     },
     {
         "name": "朱利叶斯 (Julius)",
@@ -22101,7 +22203,7 @@ window.allHeroes =
             "狙击手"
         ],
         "source": "S1-经典",
-        "Release date": "2017-01-01",
+        "Release date": "2017-03-01",
         "star": 2,
         "power": 335,
         "attack": 363,
@@ -22114,7 +22216,7 @@ window.allHeroes =
         "family": null,
         "image": "https://i.imgur.com/J6kO15m.jpg",
         "costume_id": 0,
-        "originalIndex": 574
+        "originalIndex": 576
     },
     {
         "name": "蕾拉 (Layla)",
@@ -22131,7 +22233,7 @@ window.allHeroes =
             "持续伤害"
         ],
         "source": "S1-经典",
-        "Release date": "2017-01-01",
+        "Release date": "2017-03-01",
         "star": 2,
         "power": 338,
         "attack": 336,
@@ -22144,7 +22246,7 @@ window.allHeroes =
         "family": null,
         "image": "https://i.imgur.com/bWdwLhP.jpg",
         "costume_id": 0,
-        "originalIndex": 575
+        "originalIndex": 577
     },
     {
         "name": "希利苏斯 (Silthus)",
@@ -22161,7 +22263,7 @@ window.allHeroes =
             "攻击增益"
         ],
         "source": "S1-经典",
-        "Release date": "2017-01-01",
+        "Release date": "2017-03-01",
         "star": 2,
         "power": 333,
         "attack": 293,
@@ -22174,7 +22276,7 @@ window.allHeroes =
         "family": null,
         "image": "https://i.imgur.com/toVI2j1.jpg",
         "costume_id": 0,
-        "originalIndex": 576
+        "originalIndex": 578
     },
     {
         "name": "阿德琳 (Aderyn)",
@@ -22201,13 +22303,13 @@ window.allHeroes =
         "health": 844,
         "effects": [
             "为所有盟友恢复 32% 生命值。",
-            "所有敌人获得的治疗减少 -50% ，持续 4 回合。"
+            "所有敌人获得的治疗减少 -50%，持续 4 回合。"
         ],
         "passives": [],
         "family": "raven",
         "image": "https://i.imgur.com/7kv6ZGx.jpg",
         "costume_id": 0,
-        "originalIndex": 577
+        "originalIndex": 579
     },
     {
         "name": "安文德尔 (An-Windr)",
@@ -22237,7 +22339,7 @@ window.allHeroes =
         "family": "niflheim",
         "image": "https://i.imgur.com/MSmQZNX.jpg",
         "costume_id": 0,
-        "originalIndex": 578
+        "originalIndex": 580
     },
     {
         "name": "阿奎拉 (Aqeela)",
@@ -22276,7 +22378,7 @@ window.allHeroes =
         "family": "moon",
         "image": "https://i.imgur.com/N5k1s9j.jpg",
         "costume_id": 0,
-        "originalIndex": 579
+        "originalIndex": 581
     },
     {
         "name": "阿奎拉 (Aqeela) C1",
@@ -22317,7 +22419,7 @@ window.allHeroes =
         "family": "moon",
         "image": "https://i.imgur.com/kbKyRq1.jpg",
         "costume_id": 1,
-        "originalIndex": 580
+        "originalIndex": 582
     },
     {
         "name": "巴特萨 (Balthazar)",
@@ -22334,7 +22436,7 @@ window.allHeroes =
             "狙击手"
         ],
         "source": "S1-经典",
-        "Release date": "2017-01-01",
+        "Release date": "2017-03-01",
         "star": 3,
         "power": 442,
         "attack": 483,
@@ -22347,7 +22449,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/OSefjqG.jpg",
         "costume_id": 0,
-        "originalIndex": 581
+        "originalIndex": 583
     },
     {
         "name": "巴特萨 (Balthazar) C1",
@@ -22380,7 +22482,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/PBzwskK.jpg",
         "costume_id": 1,
-        "originalIndex": 582
+        "originalIndex": 584
     },
     {
         "name": "巴特萨 (Balthazar) 卡通",
@@ -22414,7 +22516,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/TVzeF5e.jpg",
         "costume_id": 2,
-        "originalIndex": 583
+        "originalIndex": 585
     },
     {
         "name": "巴特萨 (Balthazar) 玻璃",
@@ -22449,7 +22551,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/GyPOLEn.jpg",
         "costume_id": 3,
-        "originalIndex": 584
+        "originalIndex": 586
     },
     {
         "name": "贝第 (Betty)",
@@ -22477,7 +22579,7 @@ window.allHeroes =
         "health": 783,
         "effects": [
             "对目标及附近敌人造成 210% 伤害。",
-            "附近盟友获得软化皮肤效果（他们下次受到的伤害减少 -90% ，并抵抗所有状态异常和法力减损。此效果无法驱散）。"
+            "附近盟友获得软化皮肤效果（他们下次受到的伤害减少 -90%，并抵抗所有状态异常和法力减损。此效果无法驱散）。"
         ],
         "passives": [
             "石像鬼的软化皮肤：每当此石像鬼施放特殊技能时，其软化皮肤会激活。接下来受到的 4 次伤害降低 -90%，并抵抗所有状态异常和法力削减。此效果无法被驱散。"
@@ -22485,7 +22587,7 @@ window.allHeroes =
         "family": "gargoyle",
         "image": "https://i.imgur.com/Ni9fM9U.jpg",
         "costume_id": 0,
-        "originalIndex": 585
+        "originalIndex": 587
     },
     {
         "name": "比约恩 (Bjorn)",
@@ -22519,7 +22621,7 @@ window.allHeroes =
         "family": "midgard",
         "image": "https://i.imgur.com/vOaNkHC.jpg",
         "costume_id": 0,
-        "originalIndex": 586
+        "originalIndex": 588
     },
     {
         "name": "比约恩 (Bjorn) C1",
@@ -22555,7 +22657,7 @@ window.allHeroes =
         "family": "midgard",
         "image": "https://i.imgur.com/KuvURzu.jpg",
         "costume_id": 1,
-        "originalIndex": 587
+        "originalIndex": 589
     },
     {
         "name": "布达廷 (Budatin)",
@@ -22590,7 +22692,7 @@ window.allHeroes =
         "family": "gargoyle",
         "image": "https://i.imgur.com/NFVk9Gf.jpg",
         "costume_id": 0,
-        "originalIndex": 588
+        "originalIndex": 590
     },
     {
         "name": "提灯 (Chochin)",
@@ -22623,7 +22725,7 @@ window.allHeroes =
         "family": "sakura",
         "image": "https://i.imgur.com/L668UQC.jpg",
         "costume_id": 0,
-        "originalIndex": 589
+        "originalIndex": 591
     },
     {
         "name": "艾德 (Edd)",
@@ -22655,7 +22757,7 @@ window.allHeroes =
         "family": "villains",
         "image": "https://i.imgur.com/OuUgvKY.jpg",
         "costume_id": 0,
-        "originalIndex": 590
+        "originalIndex": 592
     },
     {
         "name": "鳃拉 (Gill-Ra)",
@@ -22691,7 +22793,7 @@ window.allHeroes =
         "family": "lagoon",
         "image": "https://i.imgur.com/5yoZu18.jpg",
         "costume_id": 0,
-        "originalIndex": 591
+        "originalIndex": 593
     },
     {
         "name": "鳃拉 (Gill-Ra) C1",
@@ -22727,7 +22829,7 @@ window.allHeroes =
         "family": "lagoon",
         "image": "https://i.imgur.com/bezss9U.jpg",
         "costume_id": 1,
-        "originalIndex": 592
+        "originalIndex": 594
     },
     {
         "name": "格留 (Greel)",
@@ -22756,7 +22858,7 @@ window.allHeroes =
         "health": 747,
         "effects": [
             "对所有敌人造成 210% 伤害。",
-            "如果目标剩余生命少于 50% ，可对其造成 315% 伤害。",
+            "如果目标剩余生命少于 50%，可对其造成 315% 伤害。",
             "该攻击每击败一名敌人，施法者都将获得 20% 法力。"
         ],
         "passives": [
@@ -22766,7 +22868,7 @@ window.allHeroes =
         "family": "abysshunter",
         "image": "https://i.imgur.com/GbQldWm.jpg",
         "costume_id": 0,
-        "originalIndex": 593
+        "originalIndex": 595
     },
     {
         "name": "蝙蝠守护者 (Guardian Bat)",
@@ -22798,7 +22900,7 @@ window.allHeroes =
         "family": "guardiansteltoc",
         "image": "https://i.imgur.com/yMD2ogt.jpg",
         "costume_id": 0,
-        "originalIndex": 594
+        "originalIndex": 596
     },
     {
         "name": "杰克 (Jack)",
@@ -22833,7 +22935,7 @@ window.allHeroes =
         "family": "morlovia",
         "image": "https://i.imgur.com/1pbBKiM.jpg",
         "costume_id": 0,
-        "originalIndex": 595
+        "originalIndex": 597
     },
     {
         "name": "梅芙 (Maeve)",
@@ -22875,7 +22977,7 @@ window.allHeroes =
         "family": "slayer",
         "image": "https://i.imgur.com/vEp3yLs.jpg",
         "costume_id": 0,
-        "originalIndex": 596
+        "originalIndex": 598
     },
     {
         "name": "摩根奈特 (Morganite)",
@@ -22916,7 +23018,7 @@ window.allHeroes =
         "family": "ninja",
         "image": "https://i.imgur.com/lHtD195.jpg",
         "costume_id": 0,
-        "originalIndex": 597
+        "originalIndex": 599
     },
     {
         "name": "毛里斯 (Morris)",
@@ -22960,7 +23062,7 @@ window.allHeroes =
         "family": "underwild",
         "image": "https://i.imgur.com/RXYQ548.jpg",
         "costume_id": 0,
-        "originalIndex": 598
+        "originalIndex": 600
     },
     {
         "name": "毛里斯 (Morris) C1",
@@ -23004,7 +23106,7 @@ window.allHeroes =
         "family": "underwild",
         "image": "https://i.imgur.com/CrJaSuf.jpg",
         "costume_id": 1,
-        "originalIndex": 599
+        "originalIndex": 601
     },
     {
         "name": "奥伯伦 (Oberon)",
@@ -23023,7 +23125,7 @@ window.allHeroes =
             "持续伤害"
         ],
         "source": "S1-经典",
-        "Release date": "2017-01-01",
+        "Release date": "2017-03-01",
         "star": 3,
         "power": 445,
         "attack": 422,
@@ -23037,7 +23139,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/FkvOQpS.jpg",
         "costume_id": 0,
-        "originalIndex": 600
+        "originalIndex": 602
     },
     {
         "name": "奥伯伦 (Oberon) C1",
@@ -23067,7 +23169,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/4wjqw3M.jpg",
         "costume_id": 1,
-        "originalIndex": 601
+        "originalIndex": 603
     },
     {
         "name": "奥伯伦 (Oberon) 卡通",
@@ -23104,7 +23206,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/z96lxl3.jpg",
         "costume_id": 2,
-        "originalIndex": 602
+        "originalIndex": 604
     },
     {
         "name": "帕拉 (Para)",
@@ -23139,7 +23241,7 @@ window.allHeroes =
         "family": "kalevala",
         "image": "https://i.imgur.com/n5BGh1Y.jpg",
         "costume_id": 0,
-        "originalIndex": 603
+        "originalIndex": 605
     },
     {
         "name": "普利斯卡 (Prisca)",
@@ -23158,7 +23260,7 @@ window.allHeroes =
             "狙击手"
         ],
         "source": "S1-经典",
-        "Release date": "2017-01-01",
+        "Release date": "2017-03-01",
         "star": 3,
         "power": 446,
         "attack": 413,
@@ -23172,7 +23274,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/IoRPZNA.jpg",
         "costume_id": 0,
-        "originalIndex": 604
+        "originalIndex": 606
     },
     {
         "name": "普利斯卡 (Prisca) C1",
@@ -23205,7 +23307,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/q3Ddqi6.jpg",
         "costume_id": 1,
-        "originalIndex": 605
+        "originalIndex": 607
     },
     {
         "name": "普利斯卡 (Prisca) 卡通",
@@ -23242,7 +23344,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/6mcArhg.jpg",
         "costume_id": 2,
-        "originalIndex": 606
+        "originalIndex": 608
     },
     {
         "name": "普利斯卡 (Prisca) 玻璃",
@@ -23280,7 +23382,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://imgur.com/SdXnKqi.jpg",
         "costume_id": 3,
-        "originalIndex": 607
+        "originalIndex": 609
     },
     {
         "name": "雷恩菲尔德 (Renfeld)",
@@ -23299,7 +23401,7 @@ window.allHeroes =
             "狙击手"
         ],
         "source": "S1-经典",
-        "Release date": "2017-01-01",
+        "Release date": "2017-03-01",
         "star": 3,
         "power": 445,
         "attack": 488,
@@ -23313,7 +23415,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/6HwABCg.jpg",
         "costume_id": 0,
-        "originalIndex": 608
+        "originalIndex": 610
     },
     {
         "name": "雷恩菲尔德 (Renfeld) C1",
@@ -23347,7 +23449,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/7QkxYAf.jpg",
         "costume_id": 1,
-        "originalIndex": 609
+        "originalIndex": 611
     },
     {
         "name": "雷恩菲尔德 (Renfeld) 卡通",
@@ -23384,7 +23486,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/D4cVPMi.jpg",
         "costume_id": 2,
-        "originalIndex": 610
+        "originalIndex": 612
     },
     {
         "name": "树威尔 (Treevil)",
@@ -23423,7 +23525,7 @@ window.allHeroes =
         "family": "avalon",
         "image": "https://i.imgur.com/8ZDDLNG.jpg",
         "costume_id": 0,
-        "originalIndex": 611
+        "originalIndex": 613
     },
     {
         "name": "泰伦 (Tyrum)",
@@ -23442,7 +23544,7 @@ window.allHeroes =
             "狙击手"
         ],
         "source": "S1-经典",
-        "Release date": "2020-02-27",
+        "Release date": "2017-03-01",
         "star": 3,
         "power": 441,
         "attack": 387,
@@ -23456,7 +23558,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/HKuMtXT.jpg",
         "costume_id": 0,
-        "originalIndex": 612
+        "originalIndex": 614
     },
     {
         "name": "泰伦 (Tyrum) C1",
@@ -23475,7 +23577,7 @@ window.allHeroes =
             "狙击手"
         ],
         "source": "S1-经典",
-        "Release date": "2020-01-01",
+        "Release date": "2020-01-20",
         "star": 3,
         "power": 465,
         "attack": 415,
@@ -23489,7 +23591,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/Rir8owz.jpg",
         "costume_id": 1,
-        "originalIndex": 613
+        "originalIndex": 615
     },
     {
         "name": "泰伦 (Tyrum) 卡通",
@@ -23526,7 +23628,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/MBq6uJ0.jpg",
         "costume_id": 2,
-        "originalIndex": 614
+        "originalIndex": 616
     },
     {
         "name": "昂伏斯 (Unferth)",
@@ -23554,7 +23656,7 @@ window.allHeroes =
         "health": 759,
         "effects": [
             "对目标造成 250% 伤害。",
-            "如果目标剩余生命超过 70% ，可对其造成 300% 伤害。",
+            "如果目标剩余生命超过 70%，可对其造成 300% 伤害。",
             "异常状态之源：每回合开始时，对随机一名敌人施放以下效果。",
             "* -50% 特殊技能防御，持续 3 回合。",
             "* 异常状态之源将触发 3 次。每次驱散尝试都会移除一次触发。"
@@ -23566,7 +23668,7 @@ window.allHeroes =
         "family": "beowulf",
         "image": "https://i.imgur.com/EwK86qB.jpg",
         "costume_id": 0,
-        "originalIndex": 615
+        "originalIndex": 617
     },
     {
         "name": "弗拉德 (Vlad)",
@@ -23586,7 +23688,7 @@ window.allHeroes =
             "治疗削减"
         ],
         "source": "月活动-莫洛维亚",
-        "Release date": "2018-10-01",
+        "Release date": "2018-10-25",
         "star": 3,
         "power": 449,
         "attack": 368,
@@ -23594,7 +23696,7 @@ window.allHeroes =
         "health": 855,
         "effects": [
             "目标在 5 回合内受到共计 65 点伤害。若目标身上已有此效果，持续时间将会刷新，并且伤害会提高 115 点，最多共计 295 点伤害。",
-            "施法者偷取目标所获治疗的 61% ，持续 3 回合。"
+            "施法者偷取目标所获治疗的 61%，持续 3 回合。"
         ],
         "passives": [
             "窃取增益：当该角色施放其特殊技能时，有 50% 的几率从一个带有增益的随机敌人身上窃取最新的可驱散增益。如果没有敌人带有增益，则对所有敌人造成 70% 的伤害。"
@@ -23602,7 +23704,7 @@ window.allHeroes =
         "family": "morlovia",
         "image": "https://i.imgur.com/BKgxWVA.jpg",
         "costume_id": 0,
-        "originalIndex": 616
+        "originalIndex": 618
     },
     {
         "name": "爱赫特波 (Ahhotep)",
@@ -23638,7 +23740,7 @@ window.allHeroes =
         "family": "moon",
         "image": "https://i.imgur.com/MLXGUOi.jpg",
         "costume_id": 0,
-        "originalIndex": 617
+        "originalIndex": 619
     },
     {
         "name": "爱赫特波 (Ahhotep) C1",
@@ -23676,7 +23778,7 @@ window.allHeroes =
         "family": "moon",
         "image": "https://i.imgur.com/ph6Gczr.jpg",
         "costume_id": 1,
-        "originalIndex": 618
+        "originalIndex": 620
     },
     {
         "name": "雨女 (Ameonna)",
@@ -23711,7 +23813,7 @@ window.allHeroes =
         "family": "sakura",
         "image": "https://i.imgur.com/VkDdipF.jpg",
         "costume_id": 0,
-        "originalIndex": 619
+        "originalIndex": 621
     },
     {
         "name": "雨女 (Ameonna) C1",
@@ -23751,7 +23853,7 @@ window.allHeroes =
         "family": "sakura",
         "image": "https://i.imgur.com/VZyVFDJ.jpg",
         "costume_id": 1,
-        "originalIndex": 620
+        "originalIndex": 622
     },
     {
         "name": "紫晶 (Ametrine)",
@@ -23794,7 +23896,7 @@ window.allHeroes =
         "family": "ninja",
         "image": "https://i.imgur.com/6AFRaiq.jpg",
         "costume_id": 0,
-        "originalIndex": 621
+        "originalIndex": 623
     },
     {
         "name": "安娜·贝尔 (Ana-Belle)",
@@ -23834,7 +23936,7 @@ window.allHeroes =
         "family": "morlovia",
         "image": "https://i.imgur.com/FvJxtPO.jpg",
         "costume_id": 0,
-        "originalIndex": 622
+        "originalIndex": 624
     },
     {
         "name": "阿尔吉斯 (Arges)",
@@ -23879,7 +23981,7 @@ window.allHeroes =
         "family": "styx",
         "image": "https://i.imgur.com/yK7UFvQ.jpg",
         "costume_id": 0,
-        "originalIndex": 623
+        "originalIndex": 625
     },
     {
         "name": "炸弹魔 (Boomer)",
@@ -23897,7 +23999,7 @@ window.allHeroes =
             "防御增益"
         ],
         "source": "挑战节-海盗",
-        "Release date": "2017-01-01",
+        "Release date": "2017-09-07",
         "star": 4,
         "power": 645,
         "attack": 541,
@@ -23911,7 +24013,7 @@ window.allHeroes =
         "family": "corellia",
         "image": "https://i.imgur.com/BLKBB2F.jpg",
         "costume_id": 0,
-        "originalIndex": 624
+        "originalIndex": 626
     },
     {
         "name": "柴郡猫 (Cheshire Cat)",
@@ -23931,7 +24033,7 @@ window.allHeroes =
             "重排队伍"
         ],
         "source": "挑战节-仙境",
-        "Release date": "2017-01-01",
+        "Release date": "2019-02-14",
         "star": 4,
         "power": 649,
         "attack": 658,
@@ -23946,7 +24048,7 @@ window.allHeroes =
         "family": "wonderland",
         "image": "https://i.imgur.com/Js5mqAr.jpg",
         "costume_id": 0,
-        "originalIndex": 625
+        "originalIndex": 627
     },
     {
         "name": "柴郡猫 (Cheshire Cat) C1",
@@ -23981,7 +24083,7 @@ window.allHeroes =
         "family": "wonderland",
         "image": "https://i.imgur.com/ImaCQvI.jpg",
         "costume_id": 1,
-        "originalIndex": 626
+        "originalIndex": 628
     },
     {
         "name": "小蛋糕 (Cupcake)",
@@ -24019,7 +24121,7 @@ window.allHeroes =
         "family": "pets",
         "image": "https://i.imgur.com/p15TPST.jpg",
         "costume_id": 0,
-        "originalIndex": 627
+        "originalIndex": 629
     },
     {
         "name": "塞普里恩 (Cyprian)",
@@ -24036,7 +24138,7 @@ window.allHeroes =
             "反击"
         ],
         "source": "S1-经典",
-        "Release date": "2017-01-01",
+        "Release date": "2017-03-01",
         "star": 4,
         "power": 642,
         "attack": 563,
@@ -24049,7 +24151,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/wpGUug5.jpg",
         "costume_id": 0,
-        "originalIndex": 628
+        "originalIndex": 630
     },
     {
         "name": "塞普里恩 (Cyprian) C1",
@@ -24079,7 +24181,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/sJK7XXq.jpg",
         "costume_id": 1,
-        "originalIndex": 629
+        "originalIndex": 631
     },
     {
         "name": "塞普里恩 (Cyprian) C2",
@@ -24109,13 +24211,13 @@ window.allHeroes =
         "effects": [
             "施法者和附近盟友以所受伤害的 80% 进行反击，持续 4 回合。",
             "施法者和附近盟友每次反击可恢复适量法力，持续 4 回合。同一回合中效果经连续激活会减弱。",
-            "施法者和附近盟友所受的所有伤害减少 -35% ，持续 4 回合。"
+            "施法者和附近盟友所受的所有伤害减少 -35%，持续 4 回合。"
         ],
         "passives": [],
         "family": "classic",
         "image": "https://i.imgur.com/oDvjeQX.jpg",
         "costume_id": 2,
-        "originalIndex": 630
+        "originalIndex": 632
     },
     {
         "name": "塞普里恩 (Cyprian) 卡通",
@@ -24147,7 +24249,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/NlALPlg.jpg",
         "costume_id": 3,
-        "originalIndex": 631
+        "originalIndex": 633
     },
     {
         "name": "塞普里恩 (Cyprian) 玻璃",
@@ -24181,7 +24283,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://imgur.com/NcRhwAX.jpg",
         "costume_id": 4,
-        "originalIndex": 632
+        "originalIndex": 634
     },
     {
         "name": "迪基 (Dizzy)",
@@ -24218,7 +24320,7 @@ window.allHeroes =
         "family": "christmas",
         "image": "https://i.imgur.com/84anXmA.jpg",
         "costume_id": 0,
-        "originalIndex": 633
+        "originalIndex": 635
     },
     {
         "name": "芙拉 (Fura)",
@@ -24248,13 +24350,13 @@ window.allHeroes =
         "effects": [
             "对所有敌人造成 150% 伤害。",
             "使所有敌人减少 100 点最大生命值。若目标拥有提高的生命值，此效果会增强。最大生命值不能低于初始最大生命值的 30%。任何提高的生命值会额外减少 100 点。",
-            "所有敌人获得的治疗减少 -50% ，持续 4 回合。"
+            "所有敌人获得的治疗减少 -50%，持续 4 回合。"
         ],
         "passives": [],
         "family": "svartalfheim",
         "image": "https://i.imgur.com/RvN7nUK.jpg",
         "costume_id": 0,
-        "originalIndex": 634
+        "originalIndex": 636
     },
     {
         "name": "芙拉 (Fura) C1",
@@ -24282,13 +24384,13 @@ window.allHeroes =
         "effects": [
             "对目标及附近敌人造成 280% 伤害。",
             "使目标和附近敌人的法力减少 15%。",
-            "目标与附近敌人获得的治疗减少 -75% ，持续 3 回合。"
+            "目标与附近敌人获得的治疗减少 -75%，持续 3 回合。"
         ],
         "passives": [],
         "family": "svartalfheim",
         "image": "https://i.imgur.com/ibwrmzt.jpg",
         "costume_id": 1,
-        "originalIndex": 635
+        "originalIndex": 637
     },
     {
         "name": "贾法尔 (Gafar)",
@@ -24311,7 +24413,7 @@ window.allHeroes =
             "狙击手"
         ],
         "source": "月活动-飞沙帝国",
-        "Release date": "2017-01-01",
+        "Release date": "2018-06-21",
         "star": 4,
         "power": 649,
         "attack": 711,
@@ -24320,14 +24422,14 @@ window.allHeroes =
         "effects": [
             "对目标造成 260% 伤害。",
             "目标在 4 回合内受到共计 228 点伤害。",
-            "目标获得的治疗增加 -100% ，持续 2 回合。此效果无法净化。",
+            "目标获得的治疗增加 -100%，持续 2 回合。此效果无法净化。",
             "净化施法者的状态异常。"
         ],
         "passives": [],
         "family": "sand",
         "image": "https://i.imgur.com/xyMaVfi.jpg",
         "costume_id": 0,
-        "originalIndex": 636
+        "originalIndex": 638
     },
     {
         "name": "黑风怪 (Heifeng Guai)",
@@ -24362,7 +24464,7 @@ window.allHeroes =
         "family": "journey",
         "image": "https://i.imgur.com/cY9fvY1.jpg",
         "costume_id": 0,
-        "originalIndex": 637
+        "originalIndex": 639
     },
     {
         "name": "因戈尔夫 (Ingolf)",
@@ -24398,7 +24500,7 @@ window.allHeroes =
         "family": "villains",
         "image": "https://i.imgur.com/EjtbILF.jpg",
         "costume_id": 0,
-        "originalIndex": 638
+        "originalIndex": 640
     },
     {
         "name": "贾巴尔 (Jabbar)",
@@ -24421,7 +24523,7 @@ window.allHeroes =
             "治疗削减"
         ],
         "source": "月活动-飞沙帝国",
-        "Release date": "2017-01-01",
+        "Release date": "2018-06-21",
         "star": 4,
         "power": 649,
         "attack": 531,
@@ -24430,14 +24532,14 @@ window.allHeroes =
         "effects": [
             "对目标造成 235% 伤害，并对附近敌人造成轻微伤害。",
             "目标与附近敌人在 4 回合内受到共计 172 点伤害。",
-            "目标与附近敌人获得的治疗增加 -75% ，持续 2 回合。此效果无法净化。",
+            "目标与附近敌人获得的治疗增加 -75%，持续 2 回合。此效果无法净化。",
             "净化施法者的状态异常。"
         ],
         "passives": [],
         "family": "sand",
         "image": "https://i.imgur.com/3RqMEeN.jpg",
         "costume_id": 0,
-        "originalIndex": 639
+        "originalIndex": 641
     },
     {
         "name": "朱利安尼 (Juliani)",
@@ -24475,7 +24577,7 @@ window.allHeroes =
         "family": "owl",
         "image": "https://i.imgur.com/UhbZaxw.jpg",
         "costume_id": 0,
-        "originalIndex": 640
+        "originalIndex": 642
     },
     {
         "name": "凯蒂 (Kitty)",
@@ -24514,7 +24616,7 @@ window.allHeroes =
         "family": "musketeer",
         "image": "https://i.imgur.com/2nOJ3dV.jpg",
         "costume_id": 0,
-        "originalIndex": 641
+        "originalIndex": 643
     },
     {
         "name": "科达 (Koda)",
@@ -24542,7 +24644,7 @@ window.allHeroes =
         "effects": [
             "对目标造成 400% 伤害。",
             "目标获得 -35% 防御，持续 3 回合。",
-            "防御每回合减少 -10% ，最高为 -55%。"
+            "防御每回合减少 -10%，最高为 -55%。"
         ],
         "passives": [
             "受到增益时恢复生命：该角色在获得增益或正面效果叠加时恢复 5% 的生命值。"
@@ -24550,7 +24652,7 @@ window.allHeroes =
         "family": "bear",
         "image": "https://i.imgur.com/QTVEQjn.jpg",
         "costume_id": 0,
-        "originalIndex": 642
+        "originalIndex": 644
     },
     {
         "name": "莱克茜 (Lexi)",
@@ -24594,7 +24696,7 @@ window.allHeroes =
         "family": "superelemental",
         "image": "https://i.imgur.com/Jtfysu9.jpg",
         "costume_id": 0,
-        "originalIndex": 643
+        "originalIndex": 645
     },
     {
         "name": "梅朵 (Meadow)",
@@ -24630,7 +24732,7 @@ window.allHeroes =
         "family": "plainshunter",
         "image": "https://i.imgur.com/rm17UZ5.jpg",
         "costume_id": 0,
-        "originalIndex": 644
+        "originalIndex": 646
     },
     {
         "name": "梅林 (Merlin)",
@@ -24650,7 +24752,7 @@ window.allHeroes =
             "额外伤害"
         ],
         "source": "挑战节-阿瓦隆",
-        "Release date": "2017-01-01",
+        "Release date": "2018-01-05",
         "star": 4,
         "power": 645,
         "attack": 682,
@@ -24665,7 +24767,7 @@ window.allHeroes =
         "family": "avalon",
         "image": "https://i.imgur.com/z8mBTci.jpg",
         "costume_id": 0,
-        "originalIndex": 645
+        "originalIndex": 647
     },
     {
         "name": "梅林 (Merlin) C1",
@@ -24700,7 +24802,7 @@ window.allHeroes =
         "family": "avalon",
         "image": "https://i.imgur.com/VwvFKmH.jpg",
         "costume_id": 1,
-        "originalIndex": 646
+        "originalIndex": 648
     },
     {
         "name": "普罗透斯 (Proteus)",
@@ -24733,7 +24835,7 @@ window.allHeroes =
         "family": "atlantis",
         "image": "https://i.imgur.com/m2PmJmo.jpg",
         "costume_id": 0,
-        "originalIndex": 647
+        "originalIndex": 649
     },
     {
         "name": "普罗透斯 (Proteus) C1",
@@ -24766,7 +24868,7 @@ window.allHeroes =
         "family": "atlantis",
         "image": "https://i.imgur.com/5sfSAJC.jpg",
         "costume_id": 1,
-        "originalIndex": 648
+        "originalIndex": 650
     },
     {
         "name": "里加 (Rigard)",
@@ -24785,7 +24887,7 @@ window.allHeroes =
             "治疗"
         ],
         "source": "S1-经典",
-        "Release date": "2017-01-01",
+        "Release date": "2017-03-01",
         "star": 4,
         "power": 644,
         "attack": 595,
@@ -24799,7 +24901,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/epzxGwy.jpg",
         "costume_id": 0,
-        "originalIndex": 649
+        "originalIndex": 651
     },
     {
         "name": "里加 (Rigard) C1",
@@ -24820,7 +24922,7 @@ window.allHeroes =
             "持续治疗"
         ],
         "source": "S1-经典",
-        "Release date": "2020-01-01",
+        "Release date": "2020-01-20",
         "star": 4,
         "power": 681,
         "attack": 633,
@@ -24835,7 +24937,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/9nzkBMP.jpg",
         "costume_id": 1,
-        "originalIndex": 650
+        "originalIndex": 652
     },
     {
         "name": "里加 (Rigard) C2",
@@ -24871,7 +24973,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/0dWPfN4.jpg",
         "costume_id": 2,
-        "originalIndex": 651
+        "originalIndex": 653
     },
     {
         "name": "里加 (Rigard) 卡通",
@@ -24909,7 +25011,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/rCKWMnx.jpg",
         "costume_id": 3,
-        "originalIndex": 652
+        "originalIndex": 654
     },
     {
         "name": "萨拜娜 (Sabina)",
@@ -24928,7 +25030,7 @@ window.allHeroes =
             "治疗"
         ],
         "source": "S1-经典",
-        "Release date": "2017-01-01",
+        "Release date": "2017-03-01",
         "star": 4,
         "power": 639,
         "attack": 699,
@@ -24942,7 +25044,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/G6mmZNN.jpg",
         "costume_id": 0,
-        "originalIndex": 653
+        "originalIndex": 655
     },
     {
         "name": "萨拜娜 (Sabina) C1",
@@ -24978,7 +25080,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/flsZEGB.jpg",
         "costume_id": 1,
-        "originalIndex": 654
+        "originalIndex": 656
     },
     {
         "name": "萨拜娜 (Sabina) C2",
@@ -25014,7 +25116,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/EBmu86N.jpg",
         "costume_id": 2,
-        "originalIndex": 655
+        "originalIndex": 657
     },
     {
         "name": "萨拜娜 (Sabina) 卡通",
@@ -25052,7 +25154,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/8kaUg4T.jpg",
         "costume_id": 3,
-        "originalIndex": 656
+        "originalIndex": 658
     },
     {
         "name": "谢尔盖 (Sergei)",
@@ -25092,7 +25194,7 @@ window.allHeroes =
         "family": "magic",
         "image": "https://i.imgur.com/2gnuaoM.jpg",
         "costume_id": 0,
-        "originalIndex": 657
+        "originalIndex": 659
     },
     {
         "name": "沙凯 (Shar'Khai)",
@@ -25134,7 +25236,7 @@ window.allHeroes =
         "family": "nightmaresofatlantis",
         "image": "https://i.imgur.com/pCqXNHO.jpg",
         "costume_id": 0,
-        "originalIndex": 658
+        "originalIndex": 660
     },
     {
         "name": "沙凯 (Shar'Khai) C1",
@@ -25177,7 +25279,7 @@ window.allHeroes =
         "family": "nightmaresofatlantis",
         "image": "https://i.imgur.com/ER0xDRX.jpg",
         "costume_id": 1,
-        "originalIndex": 659
+        "originalIndex": 661
     },
     {
         "name": "肖戈 (Shoggo)",
@@ -25214,7 +25316,7 @@ window.allHeroes =
         "family": "cultist",
         "image": "https://i.imgur.com/tl6HZEf.jpg",
         "costume_id": 0,
-        "originalIndex": 660
+        "originalIndex": 662
     },
     {
         "name": "希罗布雷 (Shyombre)",
@@ -25252,7 +25354,7 @@ window.allHeroes =
         "family": "moth",
         "image": "https://i.imgur.com/Gn8sJfi.jpg",
         "costume_id": 0,
-        "originalIndex": 661
+        "originalIndex": 663
     },
     {
         "name": "斯通克里夫 (Stonecleave)",
@@ -25290,7 +25392,7 @@ window.allHeroes =
         "family": "helheim",
         "image": "https://i.imgur.com/7VLylDF.jpg",
         "costume_id": 0,
-        "originalIndex": 662
+        "originalIndex": 664
     },
     {
         "name": "迪波特斯 (Tiburtus)",
@@ -25309,7 +25411,7 @@ window.allHeroes =
             "防御减益"
         ],
         "source": "S1-经典",
-        "Release date": "2017-01-01",
+        "Release date": "2017-03-01",
         "star": 4,
         "power": 639,
         "attack": 660,
@@ -25323,7 +25425,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/XQUgnc6.jpg",
         "costume_id": 0,
-        "originalIndex": 663
+        "originalIndex": 665
     },
     {
         "name": "迪波特斯 (Tiburtus) C1",
@@ -25342,7 +25444,7 @@ window.allHeroes =
             "防御减益"
         ],
         "source": "S1-经典",
-        "Release date": "2020-01-01",
+        "Release date": "2020-01-20",
         "star": 4,
         "power": 674,
         "attack": 688,
@@ -25356,7 +25458,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/IyFUCM0.jpg",
         "costume_id": 1,
-        "originalIndex": 664
+        "originalIndex": 666
     },
     {
         "name": "迪波特斯 (Tiburtus) C2",
@@ -25389,7 +25491,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/Yc1tBJ1.jpg",
         "costume_id": 2,
-        "originalIndex": 665
+        "originalIndex": 667
     },
     {
         "name": "迪波特斯 (Tiburtus) 卡通",
@@ -25426,7 +25528,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/XlVXDYe.jpg",
         "costume_id": 3,
-        "originalIndex": 666
+        "originalIndex": 668
     },
     {
         "name": "酸火 (Acidfire)",
@@ -25467,7 +25569,7 @@ window.allHeroes =
         "family": "goblin",
         "image": "https://i.imgur.com/KXpETJ0.jpg",
         "costume_id": 0,
-        "originalIndex": 667
+        "originalIndex": 669
     },
     {
         "name": "阿珂妮亚 (Aconia)",
@@ -25507,7 +25609,7 @@ window.allHeroes =
         "family": "superelemental",
         "image": "https://i.imgur.com/VT78aoB.jpg",
         "costume_id": 0,
-        "originalIndex": 668
+        "originalIndex": 670
     },
     {
         "name": "艾龙 (Aeron)",
@@ -25530,7 +25632,7 @@ window.allHeroes =
             "防御增益"
         ],
         "source": "月英",
-        "Release date": "2018-04-01T00:00:00",
+        "Release date": "2018-04-01",
         "star": 5,
         "power": 768,
         "attack": 733,
@@ -25546,7 +25648,7 @@ window.allHeroes =
         "family": 2018,
         "image": "https://i.imgur.com/9AxepJ9.jpg",
         "costume_id": 0,
-        "originalIndex": 669
+        "originalIndex": 671
     },
     {
         "name": "艾龙 (Aeron) C1",
@@ -25584,7 +25686,7 @@ window.allHeroes =
         "family": 2018,
         "image": "https://i.imgur.com/WvBRV3O.jpg",
         "costume_id": 1,
-        "originalIndex": 670
+        "originalIndex": 672
     },
     {
         "name": "阿格拉菲纳 (Agrafena)",
@@ -25635,7 +25737,7 @@ window.allHeroes =
         "family": "magic",
         "image": "https://i.imgur.com/19jbbwr.jpg",
         "costume_id": 0,
-        "originalIndex": 671
+        "originalIndex": 673
     },
     {
         "name": "阿格拉菲纳 (Agrafena) C1",
@@ -25687,7 +25789,7 @@ window.allHeroes =
         "family": "magic",
         "image": "https://imgur.com/QIlXtnC.jpg",
         "costume_id": 1,
-        "originalIndex": 672
+        "originalIndex": 674
     },
     {
         "name": "阿基利乌斯 (Akilius)",
@@ -25728,7 +25830,7 @@ window.allHeroes =
         "family": 2025,
         "image": "https://imgur.com/jq0Lgzp.jpg",
         "costume_id": 0,
-        "originalIndex": 673
+        "originalIndex": 675
     },
     {
         "name": "阿尔弗莱克 (Alfrike)",
@@ -25765,7 +25867,7 @@ window.allHeroes =
         "family": "svartalfheim",
         "image": "https://i.imgur.com/O54lA6V.jpg",
         "costume_id": 0,
-        "originalIndex": 674
+        "originalIndex": 676
     },
     {
         "name": "阿尔弗莱克 (Alfrike) C1",
@@ -25802,7 +25904,7 @@ window.allHeroes =
         "family": "svartalfheim",
         "image": "https://i.imgur.com/2AJeAry.jpg",
         "costume_id": 1,
-        "originalIndex": 675
+        "originalIndex": 677
     },
     {
         "name": "紫石 (Amethyst)",
@@ -25847,7 +25949,7 @@ window.allHeroes =
         "family": "ninja",
         "image": "https://i.imgur.com/OBE1Glz.jpg",
         "costume_id": 0,
-        "originalIndex": 676
+        "originalIndex": 678
     },
     {
         "name": "安诺舒卡 (Anoushka)",
@@ -25891,7 +25993,7 @@ window.allHeroes =
         "family": 2024,
         "image": "https://i.imgur.com/mDRIe3A.jpg",
         "costume_id": 0,
-        "originalIndex": 677
+        "originalIndex": 679
     },
     {
         "name": "阿努比斯 (Anubis)",
@@ -25931,7 +26033,7 @@ window.allHeroes =
         "family": "moon",
         "image": "https://i.imgur.com/QQQGz6W.jpg",
         "costume_id": 0,
-        "originalIndex": 678
+        "originalIndex": 680
     },
     {
         "name": "阿努比斯 (Anubis) C1",
@@ -25973,7 +26075,7 @@ window.allHeroes =
         "family": "moon",
         "image": "https://i.imgur.com/8BGU68M.jpg",
         "costume_id": 1,
-        "originalIndex": 679
+        "originalIndex": 681
     },
     {
         "name": "阿拉密斯 (Aramis)",
@@ -26014,7 +26116,7 @@ window.allHeroes =
         "family": "musketeer",
         "image": "https://i.imgur.com/7DRTWTb.jpg",
         "costume_id": 0,
-        "originalIndex": 680
+        "originalIndex": 682
     },
     {
         "name": "阿法尼亚斯 (Arfanias)",
@@ -26054,7 +26156,7 @@ window.allHeroes =
         "family": 2022,
         "image": "https://i.imgur.com/VIzTbRE.jpg",
         "costume_id": 0,
-        "originalIndex": 681
+        "originalIndex": 683
     },
     {
         "name": "阿斯科特尔 (Asketel)",
@@ -26090,7 +26192,7 @@ window.allHeroes =
         "family": "cultist",
         "image": "https://imgur.com/l1cl4kl.jpg",
         "costume_id": 0,
-        "originalIndex": 682
+        "originalIndex": 684
     },
     {
         "name": "巴斯泰托 (Bastet)",
@@ -26129,7 +26231,7 @@ window.allHeroes =
         "family": "moon",
         "image": "https://i.imgur.com/4N9tjf5.jpg",
         "costume_id": 0,
-        "originalIndex": 683
+        "originalIndex": 685
     },
     {
         "name": "巴斯泰托 (Bastet) C1",
@@ -26170,7 +26272,7 @@ window.allHeroes =
         "family": "moon",
         "image": "https://i.imgur.com/21HSfR4.jpg",
         "costume_id": 1,
-        "originalIndex": 684
+        "originalIndex": 686
     },
     {
         "name": "贝琪 (Becky)",
@@ -26215,7 +26317,7 @@ window.allHeroes =
         "family": "magic",
         "image": "https://i.imgur.com/xqlrby4.jpg",
         "costume_id": 0,
-        "originalIndex": 685
+        "originalIndex": 687
     },
     {
         "name": "贝拉多娜 (Belladonna)",
@@ -26255,7 +26357,7 @@ window.allHeroes =
         "family": "bard",
         "image": "https://i.imgur.com/sGuDCiH.jpg",
         "costume_id": 0,
-        "originalIndex": 686
+        "originalIndex": 688
     },
     {
         "name": "贝拉 (Bera)",
@@ -26292,7 +26394,7 @@ window.allHeroes =
         "family": "vanaheim",
         "image": "https://i.imgur.com/NBFcAXz.jpg",
         "costume_id": 0,
-        "originalIndex": 687
+        "originalIndex": 689
     },
     {
         "name": "贝拉 (Bera) C1",
@@ -26329,7 +26431,7 @@ window.allHeroes =
         "family": "vanaheim",
         "image": "https://i.imgur.com/jUs21jO.jpg",
         "costume_id": 1,
-        "originalIndex": 688
+        "originalIndex": 690
     },
     {
         "name": "狼老大 (Boss Wolf)",
@@ -26365,7 +26467,7 @@ window.allHeroes =
         "family": "grimforest",
         "image": "https://i.imgur.com/iVvmOFs.jpg",
         "costume_id": 0,
-        "originalIndex": 689
+        "originalIndex": 691
     },
     {
         "name": "卡尔塔 (Carta)",
@@ -26407,7 +26509,7 @@ window.allHeroes =
         "family": "construct",
         "image": "https://i.imgur.com/uiGjBrD.jpg",
         "costume_id": 0,
-        "originalIndex": 690
+        "originalIndex": 692
     },
     {
         "name": "塞西莉亚 (Cecilia)",
@@ -26443,7 +26545,7 @@ window.allHeroes =
         "family": "stag",
         "image": "https://i.imgur.com/FjOt9jJ.jpg",
         "costume_id": 0,
-        "originalIndex": 691
+        "originalIndex": 693
     },
     {
         "name": "塞妮乌丝 (Cennius)",
@@ -26482,7 +26584,7 @@ window.allHeroes =
         "family": "owl",
         "image": "https://i.imgur.com/FJtndTk.jpg",
         "costume_id": 0,
-        "originalIndex": 692
+        "originalIndex": 694
     },
     {
         "name": "查科斯兹洛特 (Chakkoszrot)",
@@ -26514,7 +26616,7 @@ window.allHeroes =
             "对所有敌人造成 265% 伤害。",
             "若任何敌人身上带有可驱散的法力生成增益，该敌人将获得 -54% 法力生成，持续 5 回合。此效果无法净化。",
             "所有敌人对新的增益状态效果免疫，持续 5 回合。",
-            "元素链给予所有暗黑系盟友受到的治疗增加 +10% ，持续 4 回合。此效果无法驱散。"
+            "元素链给予所有暗黑系盟友受到的治疗增加 +10%，持续 4 回合。此效果无法驱散。"
         ],
         "passives": [
             "抵抗法力削减：该角色天生对法力削减有抵抗能力。",
@@ -26523,7 +26625,7 @@ window.allHeroes =
         "family": 2021,
         "image": "https://i.imgur.com/tvzGcka.jpg",
         "costume_id": 0,
-        "originalIndex": 693
+        "originalIndex": 695
     },
     {
         "name": "卡戎 (Charon)",
@@ -26570,7 +26672,7 @@ window.allHeroes =
         "family": "styx",
         "image": "https://i.imgur.com/eSyywNh.jpg",
         "costume_id": 0,
-        "originalIndex": 694
+        "originalIndex": 696
     },
     {
         "name": "克拉里萨 (Clarissa)",
@@ -26609,7 +26711,7 @@ window.allHeroes =
         "family": 2020,
         "image": "https://i.imgur.com/YBAuibe.jpg",
         "costume_id": 0,
-        "originalIndex": 695
+        "originalIndex": 697
     },
     {
         "name": "暗黑领主 (Dark Lord)",
@@ -26647,7 +26749,7 @@ window.allHeroes =
         "family": "villains",
         "image": "https://i.imgur.com/ja50n6G.jpg",
         "costume_id": 0,
-        "originalIndex": 696
+        "originalIndex": 698
     },
     {
         "name": "暗黑领主 (Dark Lord) C1",
@@ -26679,7 +26781,7 @@ window.allHeroes =
         "effects": [
             "对目标造成 560% 伤害。",
             "目标和附近敌人的增益持续时间减少 2 回合（持续时间调整对可驱散效果和不可驱散效果皆有影响。若任何效果的持续时间降为零，则该效果视为自然过期）。",
-            "目标与附近敌人受到腐蚀性毒伤，持续 4 回合。腐蚀性毒伤每回合造成 320 点剧毒伤害，并使目标的法力生成降低 -15%。对拥有小兵或超级小兵的英雄造成额外伤害（只影响通过消除英雄格或由防御队伍在其回合结束时获得的法力）。"
+            "目标与附近敌人受到腐蚀性毒伤，持续 4 回合。腐蚀性毒伤每回合造成 320 点剧毒伤害，并使目标的法力生成降低 -15%。对拥有小兵或超级小兵的英雄造成额外伤害（只影响通过消除方块或由防御队伍在其回合结束时获得的法力）。"
         ],
         "passives": [
             "特殊技能附带诅咒：当该角色施放其特殊技能时，所有敌人受到 473 点诅咒伤害，持续 4 回合，伤害逐回合递增。"
@@ -26687,7 +26789,7 @@ window.allHeroes =
         "family": "villains",
         "image": "https://i.imgur.com/Mz4axni.jpg",
         "costume_id": 1,
-        "originalIndex": 697
+        "originalIndex": 699
     },
     {
         "name": "黑比特 (Darkbeat)",
@@ -26728,7 +26830,7 @@ window.allHeroes =
         "family": "bard",
         "image": "https://imgur.com/ypDGkpC.jpg",
         "costume_id": 0,
-        "originalIndex": 698
+        "originalIndex": 700
     },
     {
         "name": "暗羽 (Darkfeather)",
@@ -26768,7 +26870,7 @@ window.allHeroes =
         "family": "goblin",
         "image": "https://i.imgur.com/9UklXhJ.jpg",
         "costume_id": 0,
-        "originalIndex": 699
+        "originalIndex": 701
     },
     {
         "name": "亡灵布特 (Deadboot)",
@@ -26810,7 +26912,7 @@ window.allHeroes =
         "family": "goblin",
         "image": "https://i.imgur.com/6DFOAwr.jpg",
         "costume_id": 0,
-        "originalIndex": 700
+        "originalIndex": 702
     },
     {
         "name": "新月 (Demilune)",
@@ -26852,7 +26954,7 @@ window.allHeroes =
         "family": "astralelves",
         "image": "https://i.imgur.com/h0XJ3CG.jpg",
         "costume_id": 0,
-        "originalIndex": 701
+        "originalIndex": 703
     },
     {
         "name": "貂蝉 (Diaochan)",
@@ -26872,7 +26974,7 @@ window.allHeroes =
             "治疗"
         ],
         "source": "三国召唤",
-        "Release date": "2022-03-14T12:00:00",
+        "Release date": "2022-03-14",
         "star": 5,
         "power": 835,
         "attack": 805,
@@ -26887,7 +26989,7 @@ window.allHeroes =
         "family": "kingdom",
         "image": "https://i.imgur.com/PBEksgr.jpg",
         "costume_id": 0,
-        "originalIndex": 702
+        "originalIndex": 704
     },
     {
         "name": "貂蝉 (Diaochan) C1",
@@ -26927,7 +27029,7 @@ window.allHeroes =
         "family": "kingdom",
         "image": "https://i.imgur.com/ZWN9v1V.jpg",
         "costume_id": 1,
-        "originalIndex": 703
+        "originalIndex": 705
     },
     {
         "name": "多米西亚 (Domitia)",
@@ -26948,7 +27050,7 @@ window.allHeroes =
             "狙击手"
         ],
         "source": "S1-经典",
-        "Release date": "2017-01-01",
+        "Release date": "2017-03-01",
         "star": 5,
         "power": 757,
         "attack": 725,
@@ -26963,7 +27065,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/t244Fcr.jpg",
         "costume_id": 0,
-        "originalIndex": 704
+        "originalIndex": 706
     },
     {
         "name": "多米西亚 (Domitia) C1",
@@ -26999,7 +27101,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/mpRxFeU.jpg",
         "costume_id": 1,
-        "originalIndex": 705
+        "originalIndex": 707
     },
     {
         "name": "多米西亚 (Domitia) C2",
@@ -27034,7 +27136,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/36NtLB6.jpg",
         "costume_id": 2,
-        "originalIndex": 706
+        "originalIndex": 708
     },
     {
         "name": "多米西亚 (Domitia) 卡通",
@@ -27074,7 +27176,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/q7quKlm.jpg",
         "costume_id": 3,
-        "originalIndex": 707
+        "originalIndex": 709
     },
     {
         "name": "多米西亚 (Domitia) 玻璃",
@@ -27115,7 +27217,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://imgur.com/gwMXUDN.jpg",
         "costume_id": 4,
-        "originalIndex": 708
+        "originalIndex": 710
     },
     {
         "name": "莫罗博士 (Dr. Moreau)",
@@ -27150,7 +27252,7 @@ window.allHeroes =
         "family": "underwild",
         "image": "https://i.imgur.com/fpP6oo2.jpg",
         "costume_id": 0,
-        "originalIndex": 709
+        "originalIndex": 711
     },
     {
         "name": "莫罗博士 (Dr. Moreau) C1",
@@ -27186,7 +27288,7 @@ window.allHeroes =
         "family": "underwild",
         "image": "https://i.imgur.com/WWxEz6I.jpg",
         "costume_id": 1,
-        "originalIndex": 710
+        "originalIndex": 712
     },
     {
         "name": "恐惧之星 (Dreadstar)",
@@ -27220,7 +27322,7 @@ window.allHeroes =
             "此特殊技能必定命中。",
             "对所有敌人造成 340% 伤害。",
             "所有敌人获得 -35% 法力生成，持续 4 回合。",
-            "所有敌人获得的治疗减少 -85% ，持续 4 回合。"
+            "所有敌人获得的治疗减少 -85%，持续 4 回合。"
         ],
         "passives": [
             "抵抗剧毒：该角色天生对剧毒有抵抗能力。",
@@ -27229,7 +27331,7 @@ window.allHeroes =
         "family": "astralelves",
         "image": "https://i.imgur.com/XzGqN00.jpg",
         "costume_id": 0,
-        "originalIndex": 711
+        "originalIndex": 713
     },
     {
         "name": "杜班 (Dubhan)",
@@ -27269,7 +27371,7 @@ window.allHeroes =
         "family": "plainshunter",
         "image": "https://i.imgur.com/erlDPi2.jpg",
         "costume_id": 0,
-        "originalIndex": 712
+        "originalIndex": 714
     },
     {
         "name": "杜拉富勒 (Dularfulr)",
@@ -27311,7 +27413,7 @@ window.allHeroes =
         "family": "nidavellir",
         "image": "https://i.imgur.com/mO16Dj6.jpg",
         "costume_id": 0,
-        "originalIndex": 713
+        "originalIndex": 715
     },
     {
         "name": "厄洛斯 (Eros)",
@@ -27338,7 +27440,7 @@ window.allHeroes =
         "health": 1617,
         "effects": [
             "对目标造成 465% 伤害。",
-            "目标受到的所有伤害增加 +40% ，持续 2 回合。"
+            "目标受到的所有伤害增加 +40%，持续 2 回合。"
         ],
         "passives": [
             "抵抗特殊技能格挡：该角色天生对格挡特殊技能的状态异常有抵抗能力。"
@@ -27346,7 +27448,7 @@ window.allHeroes =
         "family": "cupid",
         "image": "https://i.imgur.com/5JDsRr2.jpg",
         "costume_id": 0,
-        "originalIndex": 714
+        "originalIndex": 716
     },
     {
         "name": "经验拟态兽 (Experience Mimic) Dark",
@@ -27395,7 +27497,7 @@ window.allHeroes =
         "family": "mimic",
         "image": "https://imgur.com/HBoOGrf.jpg",
         "costume_id": 0,
-        "originalIndex": 715
+        "originalIndex": 717
     },
     {
         "name": "法拉 (Farrah)",
@@ -27437,7 +27539,7 @@ window.allHeroes =
         "family": "superelemental",
         "image": "https://i.imgur.com/ciEXCLt.jpg",
         "costume_id": 0,
-        "originalIndex": 716
+        "originalIndex": 718
     },
     {
         "name": "弗蕾亚 (Freya)",
@@ -27472,7 +27574,7 @@ window.allHeroes =
         "family": "vanaheim",
         "image": "https://i.imgur.com/4iJaoi6.jpg",
         "costume_id": 0,
-        "originalIndex": 717
+        "originalIndex": 719
     },
     {
         "name": "弗蕾亚 (Freya) C1",
@@ -27507,7 +27609,7 @@ window.allHeroes =
         "family": "vanaheim",
         "image": "https://i.imgur.com/Ye3Esdg.jpg",
         "costume_id": 1,
-        "originalIndex": 718
+        "originalIndex": 720
     },
     {
         "name": "加斯蒂尔 (Gastille)",
@@ -27534,7 +27636,7 @@ window.allHeroes =
         "health": 1720,
         "effects": [
             "所有盟友获得 +150% 普通攻击，持续 4 回合。即使英雄身上已有其他影响攻击力的效果，此效果仍然有效。此效果有效期间，普通攻击最多可以增加共计 200% 攻击力。",
-            "所有敌人受到的所有伤害增加 +55% ，持续 4 回合。"
+            "所有敌人受到的所有伤害增加 +55%，持续 4 回合。"
         ],
         "passives": [
             "队伍大师：",
@@ -27546,7 +27648,7 @@ window.allHeroes =
         "family": "superelemental",
         "image": "https://i.imgur.com/Hq9OxQ2.jpg",
         "costume_id": 0,
-        "originalIndex": 719
+        "originalIndex": 721
     },
     {
         "name": "贡戈斯 (Gongoth)",
@@ -27576,7 +27678,7 @@ window.allHeroes =
         "effects": [
             "对目标及附近敌人造成 400% 伤害。",
             "衰退：目标与附近敌人获得 -350 点攻击力。",
-            "目标和附近敌人受到的伤害增加 +25% ，持续 3 回合。所有敌人每拥有一个小兵或超级小兵，则该效果提高 +10% ，最多可提高 +85%。"
+            "目标和附近敌人受到的伤害增加 +25%，持续 3 回合。所有敌人每拥有一个小兵或超级小兵，则该效果提高 +10%，最多可提高 +85%。"
         ],
         "passives": [
             "进阶无视小兵：该角色造成的所有伤害无视小兵和巨大体型小兵。",
@@ -27586,7 +27688,7 @@ window.allHeroes =
         "family": "astraldwarfs",
         "image": "https://imgur.com/qkGDpyg.jpg",
         "costume_id": 0,
-        "originalIndex": 720
+        "originalIndex": 722
     },
     {
         "name": "古尔德隆 (Gooldron)",
@@ -27628,7 +27730,7 @@ window.allHeroes =
         "family": "slime",
         "image": "https://i.imgur.com/pQjaPYL.jpg",
         "costume_id": 0,
-        "originalIndex": 721
+        "originalIndex": 723
     },
     {
         "name": "血齿 (Goretooth)",
@@ -27657,7 +27759,7 @@ window.allHeroes =
         "health": 1518,
         "effects": [
             "对目标造成 430% 伤害。",
-            "目标获得 -45% 防御，持续 2 回合。防御每回合降低 -15% ，最高可达 -60%。",
+            "目标获得 -45% 防御，持续 2 回合。防御每回合降低 -15%，最高可达 -60%。",
             "目标无法获得法力，持续 2 回合。"
         ],
         "passives": [
@@ -27667,7 +27769,7 @@ window.allHeroes =
         "family": "abysshunter",
         "image": "https://i.imgur.com/gtuGK1d.jpg",
         "costume_id": 0,
-        "originalIndex": 722
+        "originalIndex": 724
     },
     {
         "name": "戈塞克 (Goseck)",
@@ -27702,7 +27804,7 @@ window.allHeroes =
         "family": "gargoyle",
         "image": "https://i.imgur.com/OKV9H3h.jpg",
         "costume_id": 0,
-        "originalIndex": 723
+        "originalIndex": 725
     },
     {
         "name": "葛瑞菲斯 (Griffex)",
@@ -27741,7 +27843,7 @@ window.allHeroes =
         "family": "superelemental",
         "image": "https://i.imgur.com/uvhkpHJ.jpg",
         "costume_id": 0,
-        "originalIndex": 724
+        "originalIndex": 726
     },
     {
         "name": "格林布尔 (Grimble)",
@@ -27780,7 +27882,7 @@ window.allHeroes =
         "family": 2019,
         "image": "https://i.imgur.com/1sMnXH3.jpg",
         "costume_id": 0,
-        "originalIndex": 725
+        "originalIndex": 727
     },
     {
         "name": "黑豹守护者 (Guardian Panther)",
@@ -27801,7 +27903,7 @@ window.allHeroes =
             "驱散"
         ],
         "source": "挑战节-守护者",
-        "Release date": "2017-01-01",
+        "Release date": "2017-10-05",
         "star": 5,
         "power": 765,
         "attack": 786,
@@ -27816,7 +27918,7 @@ window.allHeroes =
         "family": "guardiansteltoc",
         "image": "https://i.imgur.com/DIjmjpT.jpg",
         "costume_id": 0,
-        "originalIndex": 726
+        "originalIndex": 728
     },
     {
         "name": "黑豹守护者 (Guardian Panther) C1",
@@ -27851,7 +27953,7 @@ window.allHeroes =
         "family": "guardiansteltoc",
         "image": "https://i.imgur.com/ZdPyBw5.jpg",
         "costume_id": 1,
-        "originalIndex": 727
+        "originalIndex": 729
     },
     {
         "name": "刚特司 (Gunktus)",
@@ -27897,7 +27999,7 @@ window.allHeroes =
         "family": "slime",
         "image": "https://i.imgur.com/gYtmXoK.jpg",
         "costume_id": 0,
-        "originalIndex": 728
+        "originalIndex": 730
     },
     {
         "name": "汉娜 (Hannah)",
@@ -27937,7 +28039,7 @@ window.allHeroes =
         "family": "underwild",
         "image": "https://i.imgur.com/adxVUbU.jpg",
         "costume_id": 0,
-        "originalIndex": 729
+        "originalIndex": 731
     },
     {
         "name": "汉娜 (Hannah) C1",
@@ -27977,7 +28079,7 @@ window.allHeroes =
         "family": "underwild",
         "image": "https://i.imgur.com/uhuj4Z5.jpg",
         "costume_id": 1,
-        "originalIndex": 730
+        "originalIndex": 732
     },
     {
         "name": "山楂 (Hawthorn)",
@@ -28019,7 +28121,7 @@ window.allHeroes =
         "family": "plainshunter",
         "image": "https://i.imgur.com/fbtStrK.jpg",
         "costume_id": 0,
-        "originalIndex": 731
+        "originalIndex": 733
     },
     {
         "name": "赫尔 (Hel)",
@@ -28041,7 +28143,7 @@ window.allHeroes =
             "防御增益"
         ],
         "source": "月英",
-        "Release date": "2017-06-01T00:00:00",
+        "Release date": "2017-06-01",
         "star": 5,
         "power": 765,
         "attack": 745,
@@ -28057,7 +28159,7 @@ window.allHeroes =
         "family": 2017,
         "image": "https://i.imgur.com/5oaRVxv.jpg",
         "costume_id": 0,
-        "originalIndex": 732
+        "originalIndex": 734
     },
     {
         "name": "赫尔 (Hel) C1",
@@ -28080,7 +28182,7 @@ window.allHeroes =
             "驱散"
         ],
         "source": "月英",
-        "Release date": "2022-11-28T11:00:00",
+        "Release date": "2022-11-28",
         "star": 5,
         "power": 971,
         "attack": 953,
@@ -28098,7 +28200,7 @@ window.allHeroes =
         "family": 2017,
         "image": "https://i.imgur.com/8SUbwUY.jpg",
         "costume_id": 1,
-        "originalIndex": 733
+        "originalIndex": 735
     },
     {
         "name": "赫里德马尔 (Hreidmarr)",
@@ -28142,7 +28244,7 @@ window.allHeroes =
         "family": "nidavellir",
         "image": "https://i.imgur.com/UInCnGF.jpg",
         "costume_id": 0,
-        "originalIndex": 734
+        "originalIndex": 736
     },
     {
         "name": "胡尔达 (Hulda)",
@@ -28179,7 +28281,7 @@ window.allHeroes =
         "family": "underwild",
         "image": "https://i.imgur.com/J9OOPtS.jpg",
         "costume_id": 0,
-        "originalIndex": 735
+        "originalIndex": 737
     },
     {
         "name": "胡尔达 (Hulda) C1",
@@ -28217,7 +28319,7 @@ window.allHeroes =
         "family": "underwild",
         "image": "https://i.imgur.com/sPMKsgr.jpg",
         "costume_id": 1,
-        "originalIndex": 736
+        "originalIndex": 738
     },
     {
         "name": "狩猎者 (Hunter)",
@@ -28257,7 +28359,7 @@ window.allHeroes =
         "family": "cultist",
         "image": "https://i.imgur.com/4a7tvJs.jpg",
         "costume_id": 0,
-        "originalIndex": 737
+        "originalIndex": 739
     },
     {
         "name": "飓风 (Hurricane)",
@@ -28300,7 +28402,7 @@ window.allHeroes =
         "family": "junglehunter",
         "image": "https://i.imgur.com/ts6r2iS.jpg",
         "costume_id": 0,
-        "originalIndex": 738
+        "originalIndex": 740
     },
     {
         "name": "炸脖龙 (Jabberwock)",
@@ -28319,7 +28421,7 @@ window.allHeroes =
             "狙击手"
         ],
         "source": "挑战节-仙境",
-        "Release date": "2017-01-01",
+        "Release date": "2019-02-14",
         "star": 5,
         "power": 780,
         "attack": 743,
@@ -28333,7 +28435,7 @@ window.allHeroes =
         "family": "wonderland",
         "image": "https://i.imgur.com/ODUCn9s.jpg",
         "costume_id": 0,
-        "originalIndex": 739
+        "originalIndex": 741
     },
     {
         "name": "炸脖龙 (Jabberwock) C1",
@@ -28369,7 +28471,7 @@ window.allHeroes =
         "family": "wonderland",
         "image": "https://i.imgur.com/Y9oF73p.jpg",
         "costume_id": 1,
-        "originalIndex": 740
+        "originalIndex": 742
     },
     {
         "name": "杰特 (Jett)",
@@ -28419,7 +28521,7 @@ window.allHeroes =
         "family": "magic",
         "image": "https://i.imgur.com/bHuMYnz.jpg",
         "costume_id": 0,
-        "originalIndex": 741
+        "originalIndex": 743
     },
     {
         "name": "影血 (Kageburado)",
@@ -28448,13 +28550,13 @@ window.allHeroes =
         "effects": [
             "驱散目标身上的增益。",
             "对目标造成 225% 伤害。",
-            "如果目标剩余生命超过 50% ，可对其造成 450% 伤害。"
+            "如果目标剩余生命超过 50%，可对其造成 450% 伤害。"
         ],
         "passives": [],
         "family": "sakura",
         "image": "https://i.imgur.com/OUhEZUJ.jpg",
         "costume_id": 0,
-        "originalIndex": 742
+        "originalIndex": 744
     },
     {
         "name": "影血 (Kageburado) C1",
@@ -28493,7 +28595,7 @@ window.allHeroes =
         "family": "sakura",
         "image": "https://i.imgur.com/3Xk7Vld.jpg",
         "costume_id": 1,
-        "originalIndex": 743
+        "originalIndex": 745
     },
     {
         "name": "卡洛夫 (Karnov)",
@@ -28528,7 +28630,7 @@ window.allHeroes =
         "family": "villains",
         "image": "https://i.imgur.com/uCM3DQT.jpg",
         "costume_id": 0,
-        "originalIndex": 744
+        "originalIndex": 746
     },
     {
         "name": "卡洛夫 (Karnov) C1",
@@ -28566,7 +28668,7 @@ window.allHeroes =
         "family": "villains",
         "image": "https://imgur.com/atHtLfK.jpg",
         "costume_id": 1,
-        "originalIndex": 745
+        "originalIndex": 747
     },
     {
         "name": "凯梅尼 (Kemeny)",
@@ -28601,7 +28703,7 @@ window.allHeroes =
         "family": "gargoyle",
         "image": "https://i.imgur.com/PmkgBzd.jpg",
         "costume_id": 0,
-        "originalIndex": 746
+        "originalIndex": 748
     },
     {
         "name": "凯布利 (Khepri)",
@@ -28641,7 +28743,7 @@ window.allHeroes =
         "family": "moon",
         "image": "https://i.imgur.com/Z6trZDL.jpg",
         "costume_id": 0,
-        "originalIndex": 747
+        "originalIndex": 749
     },
     {
         "name": "凯布利 (Khepri) C1",
@@ -28683,7 +28785,7 @@ window.allHeroes =
         "family": "moon",
         "image": "https://i.imgur.com/j3u49nY.jpg",
         "costume_id": 1,
-        "originalIndex": 748
+        "originalIndex": 750
     },
     {
         "name": "基奥娜 (Khiona)",
@@ -28703,7 +28805,7 @@ window.allHeroes =
             "持续治疗"
         ],
         "source": "月英",
-        "Release date": "2018-09-01T00:00:00",
+        "Release date": "2018-09-01",
         "star": 5,
         "power": 768,
         "attack": 739,
@@ -28718,7 +28820,7 @@ window.allHeroes =
         "family": 2018,
         "image": "https://i.imgur.com/1C4Lajq.jpg",
         "costume_id": 0,
-        "originalIndex": 749
+        "originalIndex": 751
     },
     {
         "name": "基奥娜 (Khiona) C1",
@@ -28756,7 +28858,7 @@ window.allHeroes =
         "family": 2018,
         "image": "https://i.imgur.com/mLc9HWv.jpg",
         "costume_id": 1,
-        "originalIndex": 750
+        "originalIndex": 752
     },
     {
         "name": "孔舒 (Khonshu)",
@@ -28792,7 +28894,7 @@ window.allHeroes =
         "family": "moon",
         "image": "https://i.imgur.com/qiCq8Jo.jpg",
         "costume_id": 0,
-        "originalIndex": 751
+        "originalIndex": 753
     },
     {
         "name": "孔舒 (Khonshu) C1",
@@ -28830,7 +28932,7 @@ window.allHeroes =
         "family": "moon",
         "image": "https://i.imgur.com/dLlMk1f.jpg",
         "costume_id": 1,
-        "originalIndex": 752
+        "originalIndex": 754
     },
     {
         "name": "杀戮野兔 (Killhare)",
@@ -28848,7 +28950,7 @@ window.allHeroes =
             "对自身或友军负面效果"
         ],
         "source": "月活动-春谷",
-        "Release date": "2020-04-16",
+        "Release date": "2020-04-06",
         "star": 5,
         "power": 789,
         "attack": 741,
@@ -28862,7 +28964,7 @@ window.allHeroes =
         "family": "springvale",
         "image": "https://i.imgur.com/WU18HC0.jpg",
         "costume_id": 0,
-        "originalIndex": 753
+        "originalIndex": 755
     },
     {
         "name": "杀戮野兔 (Killhare) C1",
@@ -28894,7 +28996,7 @@ window.allHeroes =
         "family": "springvale",
         "image": "https://i.imgur.com/vAkZp36.jpg",
         "costume_id": 1,
-        "originalIndex": 754
+        "originalIndex": 756
     },
     {
         "name": "红心骑士 (Knave of Hearts)",
@@ -28931,7 +29033,7 @@ window.allHeroes =
         "family": "wonderland",
         "image": "https://i.imgur.com/BQViteC.jpg",
         "costume_id": 0,
-        "originalIndex": 755
+        "originalIndex": 757
     },
     {
         "name": "奈特司 (Knightus)",
@@ -28975,7 +29077,7 @@ window.allHeroes =
         "family": "slime",
         "image": "https://i.imgur.com/b5SLdod.jpg",
         "costume_id": 0,
-        "originalIndex": 756
+        "originalIndex": 758
     },
     {
         "name": "坤奇恩 (Kunchen)",
@@ -29015,7 +29117,7 @@ window.allHeroes =
         "family": 2019,
         "image": "https://i.imgur.com/4sKh1TW.jpg",
         "costume_id": 0,
-        "originalIndex": 757
+        "originalIndex": 759
     },
     {
         "name": "勒皮奥塔 (Lepiota)",
@@ -29060,7 +29162,7 @@ window.allHeroes =
         "family": "underwild",
         "image": "https://i.imgur.com/eea7u0v.jpg",
         "costume_id": 0,
-        "originalIndex": 758
+        "originalIndex": 760
     },
     {
         "name": "勒皮奥塔 (Lepiota) C1",
@@ -29106,7 +29208,7 @@ window.allHeroes =
         "family": "underwild",
         "image": "https://i.imgur.com/MgzgOOM.jpg",
         "costume_id": 1,
-        "originalIndex": 759
+        "originalIndex": 761
     },
     {
         "name": "娄希 (Louhi)",
@@ -29143,7 +29245,7 @@ window.allHeroes =
         "family": "kalevala",
         "image": "https://i.imgur.com/RQWKyOA.jpg",
         "costume_id": 0,
-        "originalIndex": 760
+        "originalIndex": 762
     },
     {
         "name": "吕布 (Lu Bu)",
@@ -29165,7 +29267,7 @@ window.allHeroes =
             "持续伤害"
         ],
         "source": "三国召唤",
-        "Release date": "2022-03-14T12:00:00",
+        "Release date": "2022-03-14",
         "star": 5,
         "power": 835,
         "attack": 788,
@@ -29181,7 +29283,7 @@ window.allHeroes =
         "family": "kingdom",
         "image": "https://i.imgur.com/pOnV8Et.jpg",
         "costume_id": 0,
-        "originalIndex": 761
+        "originalIndex": 763
     },
     {
         "name": "吕布 (Lu Bu) C1",
@@ -29224,7 +29326,7 @@ window.allHeroes =
         "family": "kingdom",
         "image": "https://i.imgur.com/9cuTL09.jpg",
         "costume_id": 1,
-        "originalIndex": 762
+        "originalIndex": 764
     },
     {
         "name": "卢辛达 (Lucinda)",
@@ -29265,7 +29367,7 @@ window.allHeroes =
         "family": "morlovia",
         "image": "https://i.imgur.com/tBoxHA4.jpg",
         "costume_id": 0,
-        "originalIndex": 763
+        "originalIndex": 765
     },
     {
         "name": "路德维希 (Ludwig)",
@@ -29300,7 +29402,7 @@ window.allHeroes =
         "family": "wolf",
         "image": "https://i.imgur.com/VV20w6e.jpg",
         "costume_id": 0,
-        "originalIndex": 764
+        "originalIndex": 766
     },
     {
         "name": "露娜 (Luna)",
@@ -29338,7 +29440,7 @@ window.allHeroes =
         "family": "pets",
         "image": "https://i.imgur.com/jt6SH4f.jpg",
         "costume_id": 0,
-        "originalIndex": 765
+        "originalIndex": 767
     },
     {
         "name": "吉莉夫人 (Madame Giry)",
@@ -29382,7 +29484,7 @@ window.allHeroes =
         "family": "opera",
         "image": "https://i.imgur.com/jLIIusc.jpg",
         "costume_id": 0,
-        "originalIndex": 766
+        "originalIndex": 768
     },
     {
         "name": "麦希 (Maisie)",
@@ -29422,7 +29524,7 @@ window.allHeroes =
         "family": "garrisonguard",
         "image": "https://i.imgur.com/aJDM9qb.jpg",
         "costume_id": 0,
-        "originalIndex": 767
+        "originalIndex": 769
     },
     {
         "name": "马利克纳 (Malicna)",
@@ -29470,7 +29572,7 @@ window.allHeroes =
         "family": 2021,
         "image": "https://i.imgur.com/ZMAYhxa.jpg",
         "costume_id": 0,
-        "originalIndex": 768
+        "originalIndex": 770
     },
     {
         "name": "玛丽-特瑞莎 (Marie-Therese)",
@@ -29493,7 +29595,7 @@ window.allHeroes =
             "复活"
         ],
         "source": "挑战节-海盗",
-        "Release date": "2017-01-01",
+        "Release date": "2017-09-07",
         "star": 5,
         "power": 780,
         "attack": 774,
@@ -29513,7 +29615,7 @@ window.allHeroes =
         "family": "corellia",
         "image": "https://i.imgur.com/sKXoFnG.jpg",
         "costume_id": 0,
-        "originalIndex": 769
+        "originalIndex": 771
     },
     {
         "name": "玛丽-特瑞莎 (Marie-Therese) C1",
@@ -29558,7 +29660,7 @@ window.allHeroes =
         "family": "corellia",
         "image": "https://i.imgur.com/cwv2NUd.jpg",
         "costume_id": 1,
-        "originalIndex": 770
+        "originalIndex": 772
     },
     {
         "name": "莫德 (Maud)",
@@ -29597,7 +29699,7 @@ window.allHeroes =
         "family": "woodlandfaun",
         "image": "https://imgur.com/eOKRXit.jpg",
         "costume_id": 0,
-        "originalIndex": 771
+        "originalIndex": 773
     },
     {
         "name": "美狄亚 (Medea)",
@@ -29629,11 +29731,11 @@ window.allHeroes =
             "第一次：",
             "* 对目标及附近敌人造成 365% 伤害。",
             "* 在 3 回合内，若目标在回合开始时法力满格，该目标将自动对一名随机盟友施放莽夫乱拳交错。触发此效果时，该效果将转移到被击中的盟友身上并刷新持续时间。",
-            "* 目标与附近敌人获得的治疗减少 -50% ，持续 3 回合。",
+            "* 目标与附近敌人获得的治疗减少 -50%，持续 3 回合。",
             "第二次：",
             "* 对目标及附近敌人造成 430% 伤害。",
             "* 在 4 回合内，若目标在回合开始时法力满格，该目标将自动对一名随机盟友施放莽夫乱拳交错。触发此效果时，该效果将转移到被击中的盟友身上并刷新持续时间。",
-            "* 目标与附近敌人获得的治疗减少 -75% ，持续 4 回合。"
+            "* 目标与附近敌人获得的治疗减少 -75%，持续 4 回合。"
         ],
         "passives": [
             "特殊技能效果：当该角色施放其特殊技能时，有 50% 几率执行以下操作",
@@ -29644,7 +29746,7 @@ window.allHeroes =
         "family": "nightmaresofatlantis",
         "image": "https://i.imgur.com/RtOVjbp.jpg",
         "costume_id": 0,
-        "originalIndex": 772
+        "originalIndex": 774
     },
     {
         "name": "美狄亚 (Medea) C1",
@@ -29676,11 +29778,11 @@ window.allHeroes =
             "第一次：",
             "* 对目标及附近敌人造成 355% 伤害。",
             "* 在 3 回合内，若目标在回合开始时法力满格，该目标将自动对一名随机盟友施放莽夫乱拳交错。触发此效果时，该效果将转移到被击中的盟友身上并刷新持续时间。",
-            "* 目标与附近敌人获得的治疗减少 -45% ，持续 3 回合。",
+            "* 目标与附近敌人获得的治疗减少 -45%，持续 3 回合。",
             "第二次：",
             "* 对目标及附近敌人造成 450% 伤害。",
             "* 在 4 回合内，若目标在回合开始时法力满格，该目标将自动对一名随机盟友施放莽夫乱拳交错。触发此效果时，该效果将转移到被击中的盟友身上并刷新持续时间。",
-            "* 目标与附近敌人获得的治疗减少 -85% ，持续 4 回合。"
+            "* 目标与附近敌人获得的治疗减少 -85%，持续 4 回合。"
         ],
         "passives": [
             "特殊技能效果：当该角色施放其特殊技能时，有 50% 几率执行以下操作",
@@ -29691,7 +29793,7 @@ window.allHeroes =
         "family": "nightmaresofatlantis",
         "image": "https://i.imgur.com/CadXjHa.jpg",
         "costume_id": 1,
-        "originalIndex": 773
+        "originalIndex": 775
     },
     {
         "name": "忧郁者 (Melancholia)",
@@ -29732,7 +29834,7 @@ window.allHeroes =
         "family": "cultist",
         "image": "https://i.imgur.com/okcHBcF.jpg",
         "costume_id": 0,
-        "originalIndex": 774
+        "originalIndex": 776
     },
     {
         "name": "巨齿鲨 (Mok-Arr)",
@@ -29752,7 +29854,7 @@ window.allHeroes =
             "对自身或友军负面效果"
         ],
         "source": "S2-亚特兰蒂斯",
-        "Release date": "2017-01-01",
+        "Release date": "2018-02-01",
         "star": 5,
         "power": 772,
         "attack": 741,
@@ -29768,7 +29870,7 @@ window.allHeroes =
         "family": "lagoon",
         "image": "https://i.imgur.com/f9fc9eh.jpg",
         "costume_id": 0,
-        "originalIndex": 775
+        "originalIndex": 777
     },
     {
         "name": "巨齿鲨 (Mok-Arr) C1",
@@ -29807,7 +29909,7 @@ window.allHeroes =
         "family": "lagoon",
         "image": "https://i.imgur.com/EOk0EO8.jpg",
         "costume_id": 1,
-        "originalIndex": 776
+        "originalIndex": 778
     },
     {
         "name": "摩拉克斯 (Morax)",
@@ -29849,7 +29951,7 @@ window.allHeroes =
         "family": 2022,
         "image": "https://i.imgur.com/9tJznmy.jpg",
         "costume_id": 0,
-        "originalIndex": 777
+        "originalIndex": 779
     },
     {
         "name": "死亡女巫 (Mortewitch)",
@@ -29896,7 +29998,7 @@ window.allHeroes =
         "family": "moth",
         "image": "https://i.imgur.com/jvJDkdc.jpg",
         "costume_id": 0,
-        "originalIndex": 778
+        "originalIndex": 780
     },
     {
         "name": "莫迪默 (Mortimer)",
@@ -29934,7 +30036,7 @@ window.allHeroes =
         "family": "beachparty",
         "image": "https://i.imgur.com/J2WmnG0.jpg",
         "costume_id": 0,
-        "originalIndex": 779
+        "originalIndex": 781
     },
     {
         "name": "神秘人 (Myztero)",
@@ -29967,7 +30069,7 @@ window.allHeroes =
         "family": "mystery",
         "image": "https://i.imgur.com/J37iEs6.jpg",
         "costume_id": 0,
-        "originalIndex": 780
+        "originalIndex": 782
     },
     {
         "name": "娜希莎 (Narcisa)",
@@ -30005,7 +30107,7 @@ window.allHeroes =
         "family": "bard",
         "image": "https://i.imgur.com/ZW5xxnu.jpg",
         "costume_id": 0,
-        "originalIndex": 781
+        "originalIndex": 783
     },
     {
         "name": "倪克斯 (Nyx)",
@@ -30052,7 +30154,7 @@ window.allHeroes =
         "family": "styx",
         "image": "https://i.imgur.com/aQwzAEQ.jpg",
         "costume_id": 0,
-        "originalIndex": 782
+        "originalIndex": 784
     },
     {
         "name": "欧巴坎 (Obakan)",
@@ -30071,7 +30173,7 @@ window.allHeroes =
             "反击"
         ],
         "source": "S1-经典",
-        "Release date": "2017-01-01",
+        "Release date": "2017-03-01",
         "star": 5,
         "power": 756,
         "attack": 762,
@@ -30085,7 +30187,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/0JU9Ii1.jpg",
         "costume_id": 0,
-        "originalIndex": 783
+        "originalIndex": 785
     },
     {
         "name": "欧巴坎 (Obakan) C1",
@@ -30118,7 +30220,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/SB2N0Vj.jpg",
         "costume_id": 1,
-        "originalIndex": 784
+        "originalIndex": 786
     },
     {
         "name": "欧巴坎 (Obakan) C2",
@@ -30154,7 +30256,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/jA79vt4.jpg",
         "costume_id": 2,
-        "originalIndex": 785
+        "originalIndex": 787
     },
     {
         "name": "欧巴坎 (Obakan) 卡通",
@@ -30191,7 +30293,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/YICnCq4.jpg",
         "costume_id": 3,
-        "originalIndex": 786
+        "originalIndex": 788
     },
     {
         "name": "欧巴坎 (Obakan) 玻璃",
@@ -30229,7 +30331,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/pN1Axne.jpg",
         "costume_id": 4,
-        "originalIndex": 787
+        "originalIndex": 789
     },
     {
         "name": "奥迪尔 (Odile)",
@@ -30273,7 +30375,7 @@ window.allHeroes =
         "family": "opera",
         "image": "https://i.imgur.com/4D2V5En.jpg",
         "costume_id": 0,
-        "originalIndex": 788
+        "originalIndex": 790
     },
     {
         "name": "奥莫德斯 (Ommodus)",
@@ -30314,7 +30416,7 @@ window.allHeroes =
         "family": "owl",
         "image": "https://i.imgur.com/QzvMG5C.jpg",
         "costume_id": 0,
-        "originalIndex": 789
+        "originalIndex": 791
     },
     {
         "name": "玛瑙 (Onyx)",
@@ -30361,7 +30463,7 @@ window.allHeroes =
         "family": "ninja",
         "image": "https://i.imgur.com/r2WPn3d.jpg",
         "costume_id": 0,
-        "originalIndex": 790
+        "originalIndex": 792
     },
     {
         "name": "薄荷 (Peppermint)",
@@ -30398,7 +30500,7 @@ window.allHeroes =
         "family": "christmas",
         "image": "https://i.imgur.com/egM1t1a.jpg",
         "costume_id": 0,
-        "originalIndex": 791
+        "originalIndex": 793
     },
     {
         "name": "歌剧魅影 (Phantom of the Opera)",
@@ -30447,7 +30549,7 @@ window.allHeroes =
         "family": "opera",
         "image": "https://i.imgur.com/7nuGOll.jpg",
         "costume_id": 0,
-        "originalIndex": 792
+        "originalIndex": 794
     },
     {
         "name": "福耳库斯 (Phorcys)",
@@ -30497,7 +30599,7 @@ window.allHeroes =
         "family": "defendersofatlantis",
         "image": "https://i.imgur.com/6o3KSeL.jpg",
         "costume_id": 0,
-        "originalIndex": 793
+        "originalIndex": 795
     },
     {
         "name": "福耳库斯 (Phorcys) C1",
@@ -30547,7 +30649,7 @@ window.allHeroes =
         "family": "defendersofatlantis",
         "image": "https://i.imgur.com/FXIdE4S.jpg",
         "costume_id": 1,
-        "originalIndex": 794
+        "originalIndex": 796
     },
     {
         "name": "菲托努斯 (Phthonus)",
@@ -30585,7 +30687,7 @@ window.allHeroes =
         "family": "cupid",
         "image": "https://i.imgur.com/OE7cx2p.jpg",
         "costume_id": 0,
-        "originalIndex": 795
+        "originalIndex": 797
     },
     {
         "name": "瓜尔茨 (Quartz)",
@@ -30632,7 +30734,7 @@ window.allHeroes =
         "family": "ninja",
         "image": "https://i.imgur.com/DHtXxDR.jpg",
         "costume_id": 0,
-        "originalIndex": 796
+        "originalIndex": 798
     },
     {
         "name": "昆塔斯 (Quintus)",
@@ -30649,7 +30751,7 @@ window.allHeroes =
             "全体攻击 (打5)"
         ],
         "source": "S1-经典",
-        "Release date": "2017-01-01",
+        "Release date": "2017-03-01",
         "star": 5,
         "power": 757,
         "attack": 747,
@@ -30662,7 +30764,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/250UPh4.jpg",
         "costume_id": 0,
-        "originalIndex": 797
+        "originalIndex": 799
     },
     {
         "name": "昆塔斯 (Quintus) C1",
@@ -30695,7 +30797,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/TBwlwOC.jpg",
         "costume_id": 1,
-        "originalIndex": 798
+        "originalIndex": 800
     },
     {
         "name": "昆塔斯 (Quintus) C2",
@@ -30728,7 +30830,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/BmY4xiU.jpg",
         "costume_id": 2,
-        "originalIndex": 799
+        "originalIndex": 801
     },
     {
         "name": "昆塔斯 (Quintus) 卡通",
@@ -30762,7 +30864,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/ff1uvHj.jpg",
         "costume_id": 3,
-        "originalIndex": 800
+        "originalIndex": 802
     },
     {
         "name": "拉蒙娜 (Ramona)",
@@ -30803,7 +30905,7 @@ window.allHeroes =
         "family": "champions",
         "image": "https://i.imgur.com/ZBNdURG.jpg",
         "costume_id": 0,
-        "originalIndex": 801
+        "originalIndex": 803
     },
     {
         "name": "莱恩 (Rayne)",
@@ -30836,7 +30938,7 @@ window.allHeroes =
         "family": "raven",
         "image": "https://i.imgur.com/wMh0j5F.jpg",
         "costume_id": 0,
-        "originalIndex": 802
+        "originalIndex": 804
     },
     {
         "name": "罗什福尔 (Rochefort)",
@@ -30870,7 +30972,7 @@ window.allHeroes =
         "family": "musketeer",
         "image": "https://i.imgur.com/cnURK1S.jpg",
         "costume_id": 0,
-        "originalIndex": 803
+        "originalIndex": 805
     },
     {
         "name": "鲑鱼洛基 (Salmon Loki)",
@@ -30905,7 +31007,7 @@ window.allHeroes =
         "family": "niflheim",
         "image": "https://i.imgur.com/fVTl018.jpg",
         "costume_id": 0,
-        "originalIndex": 804
+        "originalIndex": 806
     },
     {
         "name": "鲑鱼洛基 (Salmon Loki) C1",
@@ -30940,7 +31042,7 @@ window.allHeroes =
         "family": "niflheim",
         "image": "https://i.imgur.com/mbPRCrB.jpg",
         "costume_id": 1,
-        "originalIndex": 805
+        "originalIndex": 807
     },
     {
         "name": "马尾藻 (Sargasso)",
@@ -30959,7 +31061,7 @@ window.allHeroes =
             "治疗削减"
         ],
         "source": "挑战节-海盗",
-        "Release date": "2018-08-01",
+        "Release date": "2017-09-07",
         "star": 5,
         "power": 765,
         "attack": 729,
@@ -30967,13 +31069,13 @@ window.allHeroes =
         "health": 1334,
         "effects": [
             "对目标造成 415% 伤害，并对附近敌人造成轻微伤害。",
-            "目标与附近敌人获得的治疗减少 -90% ，持续 4 回合。"
+            "目标与附近敌人获得的治疗减少 -90%，持续 4 回合。"
         ],
         "passives": [],
         "family": "corellia",
         "image": "https://i.imgur.com/6s6FE8i.jpg",
         "costume_id": 0,
-        "originalIndex": 806
+        "originalIndex": 808
     },
     {
         "name": "马尾藻 (Sargasso) C1",
@@ -31002,7 +31104,7 @@ window.allHeroes =
         "health": 1652,
         "effects": [
             "对目标造成 415% 伤害，并对附近敌人造成轻微伤害。",
-            "目标与附近敌人获得的治疗减少 -100% ，持续 4 回合。",
+            "目标与附近敌人获得的治疗减少 -100%，持续 4 回合。",
             "目标与附近敌人在 4 回合内受到共计 260 点水系伤害。"
         ],
         "passives": [
@@ -31011,7 +31113,7 @@ window.allHeroes =
         "family": "corellia",
         "image": "https://i.imgur.com/lR0HaHa.jpg",
         "costume_id": 1,
-        "originalIndex": 807
+        "originalIndex": 809
     },
     {
         "name": "萨塔娜 (Sartana)",
@@ -31030,7 +31132,7 @@ window.allHeroes =
             "狙击手"
         ],
         "source": "S1-经典",
-        "Release date": "2017-01-01",
+        "Release date": "2017-03-01",
         "star": 5,
         "power": 757,
         "attack": 694,
@@ -31044,7 +31146,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/YBEHGb0.jpg",
         "costume_id": 0,
-        "originalIndex": 808
+        "originalIndex": 810
     },
     {
         "name": "萨塔娜 (Sartana) C1",
@@ -31074,7 +31176,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/gwzMUaT.jpg",
         "costume_id": 1,
-        "originalIndex": 809
+        "originalIndex": 811
     },
     {
         "name": "萨塔娜 (Sartana) C2",
@@ -31109,7 +31211,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/I8cTetD.jpg",
         "costume_id": 2,
-        "originalIndex": 810
+        "originalIndex": 812
     },
     {
         "name": "萨塔娜 (Sartana) 卡通",
@@ -31146,7 +31248,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/V3r9sPS.jpg",
         "costume_id": 3,
-        "originalIndex": 811
+        "originalIndex": 813
     },
     {
         "name": "萨塔娜 (Sartana) 玻璃",
@@ -31183,7 +31285,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/fdUWQiQ.jpg",
         "costume_id": 4,
-        "originalIndex": 812
+        "originalIndex": 814
     },
     {
         "name": "杀意 (Satsui)",
@@ -31235,7 +31337,7 @@ window.allHeroes =
         "family": "ninja",
         "image": "https://i.imgur.com/xzr9Szx.jpg",
         "costume_id": 0,
-        "originalIndex": 813
+        "originalIndex": 815
     },
     {
         "name": "嗣卡伏 (Scath)",
@@ -31277,7 +31379,7 @@ window.allHeroes =
         "family": "construct",
         "image": "https://i.imgur.com/pX4j62c.jpg",
         "costume_id": 0,
-        "originalIndex": 814
+        "originalIndex": 816
     },
     {
         "name": "森安 (Senan)",
@@ -31321,7 +31423,7 @@ window.allHeroes =
         "family": "slayer",
         "image": "https://i.imgur.com/PYhKsHp.jpg",
         "costume_id": 0,
-        "originalIndex": 815
+        "originalIndex": 817
     },
     {
         "name": "森安 (Senan) C1",
@@ -31356,7 +31458,7 @@ window.allHeroes =
             "对所有敌人造成 265% 伤害。",
             "召唤幽灵恶魔附身于所有敌人。恶魔每回合对其目标造成 55% 攻击力的伤害。",
             "幽灵恶魔会吸收治疗。它在吸收了相当于其目标最大生命值 35% 的治疗量后便会消失。",
-            "叠加 +2 （最多 10 层）：施法者获得 +12% 法力生成（只影响通过消除英雄格或由防御队伍在其回合结束时获得的法力）。",
+            "叠加 +2 （最多 10 层）：施法者获得 +12% 法力生成（只影响通过消除方块或由防御队伍在其回合结束时获得的法力）。",
             "叠加 +3 （最多 10 层）：施法者每回合恢复 45 点生命值。"
         ],
         "passives": [
@@ -31366,7 +31468,7 @@ window.allHeroes =
         "family": "slayer",
         "image": "https://imgur.com/CNY72vk.jpg",
         "costume_id": 1,
-        "originalIndex": 816
+        "originalIndex": 818
     },
     {
         "name": "塞雷娜 (Serena)",
@@ -31407,7 +31509,7 @@ window.allHeroes =
         "family": "beachparty",
         "image": "https://imgur.com/ebdt5jw.jpg",
         "costume_id": 0,
-        "originalIndex": 817
+        "originalIndex": 819
     },
     {
         "name": "赛沙特 (Seshat)",
@@ -31447,7 +31549,7 @@ window.allHeroes =
         "family": 2019,
         "image": "https://i.imgur.com/FioNeBy.jpg",
         "costume_id": 0,
-        "originalIndex": 818
+        "originalIndex": 820
     },
     {
         "name": "赛沙特 (Seshat) C1",
@@ -31489,7 +31591,7 @@ window.allHeroes =
         "family": 2019,
         "image": "https://i.imgur.com/qNMuMVA.jpg",
         "costume_id": 1,
-        "originalIndex": 819
+        "originalIndex": 821
     },
     {
         "name": "赛特 (Set)",
@@ -31528,7 +31630,7 @@ window.allHeroes =
         "family": "moon",
         "image": "https://i.imgur.com/8kUB8ir.jpg",
         "costume_id": 0,
-        "originalIndex": 820
+        "originalIndex": 822
     },
     {
         "name": "赛特 (Set) C1",
@@ -31569,7 +31671,7 @@ window.allHeroes =
         "family": "moon",
         "image": "https://imgur.com/olt8i8H.jpg",
         "costume_id": 1,
-        "originalIndex": 821
+        "originalIndex": 823
     },
     {
         "name": "刹克尔博特 (Shacklebolt)",
@@ -31611,7 +31713,7 @@ window.allHeroes =
         "family": "construct",
         "image": "https://i.imgur.com/kHFYa2T.jpg",
         "costume_id": 0,
-        "originalIndex": 822
+        "originalIndex": 824
     },
     {
         "name": "影牙 (Shadowfang)",
@@ -31653,7 +31755,7 @@ window.allHeroes =
         "family": "fox",
         "image": "https://i.imgur.com/WRT0fPv.jpg",
         "costume_id": 0,
-        "originalIndex": 823
+        "originalIndex": 825
     },
     {
         "name": "卡斯米尔爵士 (Sir Casmir)",
@@ -31695,7 +31797,7 @@ window.allHeroes =
         "family": 2024,
         "image": "https://i.imgur.com/7f9DRkN.jpg",
         "costume_id": 0,
-        "originalIndex": 824
+        "originalIndex": 826
     },
     {
         "name": "斯尼夫鲁 (Sneferu)",
@@ -31735,7 +31837,7 @@ window.allHeroes =
         "family": "moon",
         "image": "https://i.imgur.com/xRHanch.jpg",
         "costume_id": 0,
-        "originalIndex": 825
+        "originalIndex": 827
     },
     {
         "name": "迅爪 (Swiftpaw)",
@@ -31778,7 +31880,7 @@ window.allHeroes =
         "family": "fox",
         "image": "https://i.imgur.com/s7agDwW.jpg",
         "costume_id": 0,
-        "originalIndex": 826
+        "originalIndex": 828
     },
     {
         "name": "塔姆林 (Tamlin)",
@@ -31818,7 +31920,7 @@ window.allHeroes =
         "family": "woodlandfaun",
         "image": "https://i.imgur.com/eHe26XM.jpg",
         "costume_id": 0,
-        "originalIndex": 827
+        "originalIndex": 829
     },
     {
         "name": "夜魅 (Tenebrae)",
@@ -31860,7 +31962,7 @@ window.allHeroes =
         "family": "construct",
         "image": "https://i.imgur.com/det8edh.jpg",
         "costume_id": 0,
-        "originalIndex": 828
+        "originalIndex": 830
     },
     {
         "name": "图特阿蒙 (Thoth-Amun)",
@@ -31882,7 +31984,7 @@ window.allHeroes =
             "法力生成增益"
         ],
         "source": "月英",
-        "Release date": "2017-11-01T00:00:00",
+        "Release date": "2017-11-01",
         "star": 5,
         "power": 765,
         "attack": 731,
@@ -31897,7 +31999,7 @@ window.allHeroes =
         "family": 2017,
         "image": "https://i.imgur.com/qJmJu2G.jpg",
         "costume_id": 0,
-        "originalIndex": 829
+        "originalIndex": 831
     },
     {
         "name": "图特阿蒙 (Thoth-Amun) C1",
@@ -31933,7 +32035,7 @@ window.allHeroes =
         "family": 2017,
         "image": "https://i.imgur.com/3rXphxC.jpg",
         "costume_id": 1,
-        "originalIndex": 830
+        "originalIndex": 832
     },
     {
         "name": "特里瓦尔迪 (Thrivaldi)",
@@ -31979,7 +32081,7 @@ window.allHeroes =
         "family": "myrkheim",
         "image": "https://imgur.com/GPSIC9I.jpg",
         "costume_id": 0,
-        "originalIndex": 831
+        "originalIndex": 833
     },
     {
         "name": "寅 (Tora)",
@@ -32029,7 +32131,7 @@ window.allHeroes =
         "family": "ninja",
         "image": "https://i.imgur.com/SWoTRp0.jpg",
         "costume_id": 0,
-        "originalIndex": 832
+        "originalIndex": 834
     },
     {
         "name": "图尔顾汝克 (Turgruk)",
@@ -32066,7 +32168,7 @@ window.allHeroes =
         "family": 2023,
         "image": "https://i.imgur.com/ktMsNKD.jpg",
         "costume_id": 0,
-        "originalIndex": 833
+        "originalIndex": 835
     },
     {
         "name": "特伟双胞胎 (Tweedles)",
@@ -32107,7 +32209,7 @@ window.allHeroes =
         "family": "wonderland",
         "image": "https://i.imgur.com/oaSASQ4.jpg",
         "costume_id": 0,
-        "originalIndex": 834
+        "originalIndex": 836
     },
     {
         "name": "奥绰刻斯 (Ultrox)",
@@ -32139,11 +32241,11 @@ window.allHeroes =
             "第一次：",
             "* 面板中每有一个暗黑系盾牌，便对所有敌人造成 30% 的伤害，最多累计造成 300% 伤害。",
             "* 施法者和附近盟友以所受伤害的 90% 进行反击，持续 3 回合。",
-            "* 施法者和附近盟友所受的所有伤害减少 -35% ，持续 3 回合。",
+            "* 施法者和附近盟友所受的所有伤害减少 -35%，持续 3 回合。",
             "第二次：",
             "* 面板中每有一个暗黑系盾牌，便对所有敌人造成 35% 的伤害，最多累计造成 350% 伤害。",
             "* 施法者和附近盟友以所受伤害的 130% 进行反击，持续 4 回合。",
-            "* 施法者和附近盟友所受的所有伤害减少 -45% ，持续 4 回合。"
+            "* 施法者和附近盟友所受的所有伤害减少 -45%，持续 4 回合。"
         ],
         "passives": [
             "特殊技能效果：当该角色施放其特殊技能时，有 50% 几率执行以下操作",
@@ -32153,7 +32255,7 @@ window.allHeroes =
         "family": "nightmaresofatlantis",
         "image": "https://i.imgur.com/7xKKQnM.jpg",
         "costume_id": 0,
-        "originalIndex": 835
+        "originalIndex": 837
     },
     {
         "name": "奥绰刻斯 (Ultrox) C1",
@@ -32186,11 +32288,11 @@ window.allHeroes =
             "第一次：",
             "* 面板中每有一个暗黑系盾牌，便对所有敌人造成 28% 的伤害，最多累计造成 280% 伤害。",
             "* 施法者和附近盟友以所受伤害的 100% 进行反击，持续 3 回合。",
-            "* 施法者和附近盟友所受的所有伤害减少 -35% ，持续 3 回合。",
+            "* 施法者和附近盟友所受的所有伤害减少 -35%，持续 3 回合。",
             "第二次：",
             "* 面板中每有一个暗黑系盾牌，便对所有敌人造成 38% 的伤害，最多累计造成 380% 伤害。",
             "* 施法者和附近盟友以所受伤害的 140% 进行反击，持续 4 回合。",
-            "* 施法者和附近盟友所受的所有伤害减少 -50% ，持续 4 回合。"
+            "* 施法者和附近盟友所受的所有伤害减少 -50%，持续 4 回合。"
         ],
         "passives": [
             "特殊技能效果：当该角色施放其特殊技能时，有 50% 几率执行以下操作",
@@ -32201,7 +32303,7 @@ window.allHeroes =
         "family": "nightmaresofatlantis",
         "image": "https://imgur.com/p30NrpJ.jpg",
         "costume_id": 1,
-        "originalIndex": 836
+        "originalIndex": 838
     },
     {
         "name": "翁布丽亚 (Umbria)",
@@ -32239,7 +32341,7 @@ window.allHeroes =
         "family": "maskedgod",
         "image": "https://i.imgur.com/3VyJcT7.jpg",
         "costume_id": 0,
-        "originalIndex": 837
+        "originalIndex": 839
     },
     {
         "name": "梅子 (Umeko)",
@@ -32272,15 +32374,15 @@ window.allHeroes =
             "1 倍法力充能：",
             "- 驱散目标身上的增益。",
             "- 目标在 2 回合内受到共计 780 点剧毒伤害。",
-            "- 目标获得的治疗减少 -80% ，持续 2 回合。",
+            "- 目标获得的治疗减少 -80%，持续 2 回合。",
             "2 倍法力充能：",
             "- 驱散目标和附近敌人身上的增益。",
             "- 目标与附近敌人在 4 回合内受到共计 1608 点剧毒伤害。",
-            "- 目标与附近敌人获得的治疗减少 -85% ，持续 4 回合。",
+            "- 目标与附近敌人获得的治疗减少 -85%，持续 4 回合。",
             "3 倍法力充能：",
             "- 驱散所有敌人的增益。",
             "- 所有敌人在 6 回合内受到共计 2412 点剧毒伤害。",
-            "- 目标获得的治疗减少 -90% ，持续 6 回合。"
+            "- 目标获得的治疗减少 -90%，持续 6 回合。"
         ],
         "passives": [
             "降低小兵生命值：敌方小兵被召唤时继承的生命值减少 -50%。"
@@ -32288,7 +32390,7 @@ window.allHeroes =
         "family": "ninja",
         "image": "https://i.imgur.com/2sWnlMn.jpg",
         "costume_id": 0,
-        "originalIndex": 838
+        "originalIndex": 840
     },
     {
         "name": "尤塞娜 (Ursena)",
@@ -32309,7 +32411,7 @@ window.allHeroes =
             "反射"
         ],
         "source": "S2-亚特兰蒂斯",
-        "Release date": "2017-01-01",
+        "Release date": "2019-02-01",
         "star": 5,
         "power": 775,
         "attack": 760,
@@ -32317,7 +32419,7 @@ window.allHeroes =
         "health": 1283,
         "effects": [
             "对所有敌人造成 130% 伤害。",
-            "如果目标剩余生命超过 50% ，可对其造成 260% 伤害。",
+            "如果目标剩余生命超过 50%，可对其造成 260% 伤害。",
             "所有盟友会将来自神圣系敌人特殊技能的全部状态效果和 115% 伤害反弹至进攻者并阻挡该技能的其它负面效果，持续 4 回合。同队角色、小兵和恶魔施放的状态效果无法反弹。",
             "对神圣系造成额外伤害。"
         ],
@@ -32325,7 +32427,7 @@ window.allHeroes =
         "family": "atlantis",
         "image": "https://i.imgur.com/OQ8iQcf.jpg",
         "costume_id": 0,
-        "originalIndex": 839
+        "originalIndex": 841
     },
     {
         "name": "尤塞娜 (Ursena) C1",
@@ -32355,7 +32457,7 @@ window.allHeroes =
         "health": 1680,
         "effects": [
             "对所有敌人造成 130% 伤害。",
-            "如果目标剩余生命超过 50% ，可对其造成 260% 伤害。",
+            "如果目标剩余生命超过 50%，可对其造成 260% 伤害。",
             "所有盟友会将来自神圣系敌人特殊技能的全部状态效果和 115% 伤害反弹至进攻者并阻挡该技能的其它负面效果，持续 4 回合。同队角色、小兵和恶魔施放的状态效果无法反弹。",
             "所有神圣系敌人获得对暗黑系 -54% 的防御，持续 4 回合。"
         ],
@@ -32363,7 +32465,7 @@ window.allHeroes =
         "family": "atlantis",
         "image": "https://i.imgur.com/HefSfvM.jpg",
         "costume_id": 1,
-        "originalIndex": 840
+        "originalIndex": 842
     },
     {
         "name": "乌丝拉甘 (Uthragan)",
@@ -32402,7 +32504,7 @@ window.allHeroes =
         "family": 2023,
         "image": "https://i.imgur.com/Pb3fJn3.jpg",
         "costume_id": 0,
-        "originalIndex": 841
+        "originalIndex": 843
     },
     {
         "name": "乌韦 (Uwe)",
@@ -32432,7 +32534,7 @@ window.allHeroes =
         "health": 1792,
         "effects": [
             "对目标造成 850% 伤害。",
-            "若目标在受到伤害前生命值低于 50% ，则多瞄准一名在受到此特殊技能伤害前生命值低于 50% 的敌人。若其他敌人的生命都在 50% 以上，则多瞄准一名随机敌人。每下攻击的伤害都会递减。每个敌人只能被击中一次。",
+            "若目标在受到伤害前生命值低于 50%，则多瞄准一名在受到此特殊技能伤害前生命值低于 50% 的敌人。若其他敌人的生命都在 50% 以上，则多瞄准一名随机敌人。每下攻击的伤害都会递减。每个敌人只能被击中一次。",
             "如果命中的敌人在后续 3 回合内使用特殊技能，则在 5 回合内对其造成共计 725 点剧毒伤害。此效果无法净化（状态效果将在特殊技能结束后施加。若此状态效果在特殊技能施放期间被移除，则不会施加状态效果）。"
         ],
         "passives": [
@@ -32441,7 +32543,7 @@ window.allHeroes =
         "family": "gargoyle",
         "image": "https://i.imgur.com/KNSk9mz.jpg",
         "costume_id": 0,
-        "originalIndex": 842
+        "originalIndex": 844
     },
     {
         "name": "范德尔 (Vander)",
@@ -32484,7 +32586,7 @@ window.allHeroes =
         "family": "superelemental",
         "image": "https://i.imgur.com/4cx1DT9.jpg",
         "costume_id": 0,
-        "originalIndex": 843
+        "originalIndex": 845
     },
     {
         "name": "瓦德 (Vard)",
@@ -32514,7 +32616,7 @@ window.allHeroes =
         "effects": [
             "对所有敌人造成 470% 伤害。",
             "衰退：所有敌人获得 -350 点攻击力和 -350 点防御。",
-            "所有敌人获得 -35% 法力生成，持续 5 回合（只影响通过消除英雄格或由防御队伍在其回合结束时获得的法力）。"
+            "所有敌人获得 -35% 法力生成，持续 5 回合（只影响通过消除方块或由防御队伍在其回合结束时获得的法力）。"
         ],
         "passives": [
             "进阶无视小兵：该角色造成的所有伤害无视小兵和巨大体型小兵。",
@@ -32524,7 +32626,7 @@ window.allHeroes =
         "family": "astraldwarfs",
         "image": "https://i.imgur.com/pddigSQ.jpg",
         "costume_id": 0,
-        "originalIndex": 844
+        "originalIndex": 846
     },
     {
         "name": "维克托 (Victor)",
@@ -32548,7 +32650,7 @@ window.allHeroes =
             "狙击手"
         ],
         "source": "月活动-莫洛维亚",
-        "Release date": "2018-10-01",
+        "Release date": "2018-10-25",
         "star": 5,
         "power": 773,
         "attack": 778,
@@ -32557,7 +32659,7 @@ window.allHeroes =
         "effects": [
             "对目标造成 250% 伤害。",
             "目标在 5 回合内受到共计 355 点伤害。若目标身上已有此效果，持续时间将会刷新，并且伤害会提高 315 点，最多共计 985 点伤害。",
-            "施法者偷取目标所获治疗的 75% ，持续 5 回合。",
+            "施法者偷取目标所获治疗的 75%，持续 5 回合。",
             "所有盟友获得 +30% 防御，持续 5 回合。"
         ],
         "passives": [
@@ -32566,7 +32668,7 @@ window.allHeroes =
         "family": "morlovia",
         "image": "https://i.imgur.com/Trss5zi.jpg",
         "costume_id": 0,
-        "originalIndex": 845
+        "originalIndex": 847
     },
     {
         "name": "维克托 (Victor) C1",
@@ -32599,14 +32701,14 @@ window.allHeroes =
         "effects": [
             "对目标及附近敌人造成 155% 伤害。",
             "目标与附近敌人在 5 回合内受到共计 230 点伤害。若目标身上已有此效果，持续时间将会刷新，并且伤害会提高 315 点，最多共计 855 点伤害。",
-            "施法者偷取目标及其附近敌人所获治疗的 61% ，持续 5 回合。",
+            "施法者偷取目标及其附近敌人所获治疗的 61%，持续 5 回合。",
             "目标与附近敌人获得 -24% 防御，持续 5 回合。"
         ],
         "passives": [],
         "family": "morlovia",
         "image": "https://i.imgur.com/bKghYKS.jpg",
         "costume_id": 1,
-        "originalIndex": 846
+        "originalIndex": 848
     },
     {
         "name": "维奥莱特·波茨 (Violet Potts)",
@@ -32647,7 +32749,7 @@ window.allHeroes =
         "family": "garrisonguard",
         "image": "https://i.imgur.com/ByQ3x5M.jpg",
         "costume_id": 0,
-        "originalIndex": 847
+        "originalIndex": 849
     },
     {
         "name": "维斯卡罗 (Viscaro)",
@@ -32689,7 +32791,7 @@ window.allHeroes =
         "family": 2022,
         "image": "https://i.imgur.com/tgvzp56.jpg",
         "costume_id": 0,
-        "originalIndex": 848
+        "originalIndex": 850
     },
     {
         "name": "咯木子爵 (Viscount Cluckwood)",
@@ -32726,7 +32828,7 @@ window.allHeroes =
         "family": "springvale",
         "image": "https://imgur.com/ifuZ96L.jpg",
         "costume_id": 0,
-        "originalIndex": 849
+        "originalIndex": 851
     },
     {
         "name": "虚空之星 (Voidstar)",
@@ -32768,7 +32870,7 @@ window.allHeroes =
         "family": "astralelves",
         "image": "https://i.imgur.com/ry0GZRR.jpg",
         "costume_id": 0,
-        "originalIndex": 850
+        "originalIndex": 852
     },
     {
         "name": "冯·罗斯巴特 (Von Rothbart)",
@@ -32812,7 +32914,7 @@ window.allHeroes =
         "family": "opera",
         "image": "https://i.imgur.com/DZgjbkS.jpg",
         "costume_id": 0,
-        "originalIndex": 851
+        "originalIndex": 853
     },
     {
         "name": "蝎子精 (Xie Zi Jing)",
@@ -32850,7 +32952,7 @@ window.allHeroes =
         "family": "journey",
         "image": "https://i.imgur.com/jJUezPr.jpg",
         "costume_id": 0,
-        "originalIndex": 852
+        "originalIndex": 854
     },
     {
         "name": "熊山君 (Xiong Shanjun)",
@@ -32889,7 +32991,7 @@ window.allHeroes =
         "family": "journey",
         "image": "https://i.imgur.com/WyjU3s9.jpg",
         "costume_id": 0,
-        "originalIndex": 853
+        "originalIndex": 855
     },
     {
         "name": "泽诺福德 (Xnolphod)",
@@ -32929,7 +33031,7 @@ window.allHeroes =
         "family": "underwild",
         "image": "https://i.imgur.com/RF7rniv.jpg",
         "costume_id": 0,
-        "originalIndex": 854
+        "originalIndex": 856
     },
     {
         "name": "泽诺福德 (Xnolphod) C1",
@@ -32971,7 +33073,7 @@ window.allHeroes =
         "family": "underwild",
         "image": "https://i.imgur.com/s1HpuGG.jpg",
         "costume_id": 1,
-        "originalIndex": 855
+        "originalIndex": 857
     },
     {
         "name": "伊莎贝尔 (Ysabel)",
@@ -33011,7 +33113,7 @@ window.allHeroes =
         "family": "woodlandfaun",
         "image": "https://i.imgur.com/jhCBaUo.jpg",
         "costume_id": 0,
-        "originalIndex": 856
+        "originalIndex": 858
     },
     {
         "name": "泽德 (Zed)",
@@ -33042,7 +33144,7 @@ window.allHeroes =
         "effects": [
             "对目标造成 440% 伤害。",
             "目标获得 -34% 防御，持续 2 回合。若目标受到特殊技能的直接伤害，效果持续时间将重置。",
-            "目标获得的治疗减少 -34% ，持续 2 回合。若目标受到特殊技能的直接伤害，效果持续时间将重置。",
+            "目标获得的治疗减少 -34%，持续 2 回合。若目标受到特殊技能的直接伤害，效果持续时间将重置。",
             "元素链为全体暗黑系盟友提供 +20% 的暴击几率，持续 6 回合。此效果无法驱散。"
         ],
         "passives": [
@@ -33052,7 +33154,7 @@ window.allHeroes =
         "family": 2025,
         "image": "https://i.imgur.com/G0RFHTr.jpg",
         "costume_id": 0,
-        "originalIndex": 857
+        "originalIndex": 859
     },
     {
         "name": "祖拉格 (Zulag)",
@@ -33090,7 +33192,7 @@ window.allHeroes =
         "family": 2020,
         "image": "https://i.imgur.com/oEPqMWI.jpg",
         "costume_id": 0,
-        "originalIndex": 858
+        "originalIndex": 860
     },
     {
         "name": "莎朗 (Sharan)",
@@ -33107,7 +33209,7 @@ window.allHeroes =
             "治疗"
         ],
         "source": "S1-经典",
-        "Release date": "2017-01-01",
+        "Release date": "2017-03-01",
         "star": 1,
         "power": 213,
         "attack": 168,
@@ -33120,7 +33222,7 @@ window.allHeroes =
         "family": null,
         "image": "https://i.imgur.com/PC7yXFg.jpg",
         "costume_id": 0,
-        "originalIndex": 859
+        "originalIndex": 861
     },
     {
         "name": "图丹 (Tudan)",
@@ -33137,7 +33239,7 @@ window.allHeroes =
             "狙击手"
         ],
         "source": "S1-经典",
-        "Release date": "2017-01-01",
+        "Release date": "2017-03-01",
         "star": 1,
         "power": 210,
         "attack": 208,
@@ -33150,7 +33252,7 @@ window.allHeroes =
         "family": null,
         "image": "https://i.imgur.com/cL8WR2O.jpg",
         "costume_id": 0,
-        "originalIndex": 860
+        "originalIndex": 862
     },
     {
         "name": "法里德 (Farid)",
@@ -33167,7 +33269,7 @@ window.allHeroes =
             "全体攻击 (打5)"
         ],
         "source": "S1-经典",
-        "Release date": "2017-01-01",
+        "Release date": "2017-03-01",
         "star": 2,
         "power": 337,
         "attack": 350,
@@ -33180,7 +33282,7 @@ window.allHeroes =
         "family": null,
         "image": "https://i.imgur.com/MeeFayZ.jpg",
         "costume_id": 0,
-        "originalIndex": 861
+        "originalIndex": 863
     },
     {
         "name": "吉尔 (Jill)",
@@ -33197,7 +33299,7 @@ window.allHeroes =
             "攻击增益"
         ],
         "source": "S1-经典",
-        "Release date": "2017-01-01",
+        "Release date": "2017-03-01",
         "star": 2,
         "power": 332,
         "attack": 320,
@@ -33210,7 +33312,7 @@ window.allHeroes =
         "family": null,
         "image": "https://i.imgur.com/FTGm2in.jpg",
         "costume_id": 0,
-        "originalIndex": 862
+        "originalIndex": 864
     },
     {
         "name": "沙克特 (Shaarkot)",
@@ -33227,7 +33329,7 @@ window.allHeroes =
             "攻击增益"
         ],
         "source": "S1-经典",
-        "Release date": "2017-01-01",
+        "Release date": "2017-03-01",
         "star": 2,
         "power": 334,
         "attack": 356,
@@ -33240,7 +33342,7 @@ window.allHeroes =
         "family": null,
         "image": "https://i.imgur.com/TOP4jvU.jpg",
         "costume_id": 0,
-        "originalIndex": 863
+        "originalIndex": 865
     },
     {
         "name": "祖达 (Zudak)",
@@ -33257,7 +33359,7 @@ window.allHeroes =
             "范围攻击 (打3)"
         ],
         "source": "S1-经典",
-        "Release date": "2017-01-01",
+        "Release date": "2017-03-01",
         "star": 2,
         "power": 336,
         "attack": 312,
@@ -33270,7 +33372,7 @@ window.allHeroes =
         "family": null,
         "image": "https://i.imgur.com/O3JN2m9.jpg",
         "costume_id": 0,
-        "originalIndex": 864
+        "originalIndex": 866
     },
     {
         "name": "阿萨尔 (Azar)",
@@ -33289,7 +33391,7 @@ window.allHeroes =
             "狙击手"
         ],
         "source": "S1-经典",
-        "Release date": "2017-01-01",
+        "Release date": "2017-03-01",
         "star": 3,
         "power": 444,
         "attack": 493,
@@ -33303,7 +33405,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/sizxBDX.jpg",
         "costume_id": 0,
-        "originalIndex": 865
+        "originalIndex": 867
     },
     {
         "name": "阿萨尔 (Azar) C1",
@@ -33336,7 +33438,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/tInZp5F.jpg",
         "costume_id": 1,
-        "originalIndex": 866
+        "originalIndex": 868
     },
     {
         "name": "阿萨尔 (Azar) 卡通",
@@ -33373,7 +33475,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/Mwzt0jr.jpg",
         "costume_id": 2,
-        "originalIndex": 867
+        "originalIndex": 869
     },
     {
         "name": "阿萨尔 (Azar) 玻璃",
@@ -33411,7 +33513,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://imgur.com/rj0CDGr.jpg",
         "costume_id": 3,
-        "originalIndex": 868
+        "originalIndex": 870
     },
     {
         "name": "巴格雷格 (Bagreg)",
@@ -33453,7 +33555,7 @@ window.allHeroes =
         "family": "nightmaresofatlantis",
         "image": "https://i.imgur.com/rzvavLk.jpg",
         "costume_id": 0,
-        "originalIndex": 869
+        "originalIndex": 871
     },
     {
         "name": "巴格雷格 (Bagreg) C1",
@@ -33496,7 +33598,7 @@ window.allHeroes =
         "family": "nightmaresofatlantis",
         "image": "https://imgur.com/ZuRts32.jpg",
         "costume_id": 1,
-        "originalIndex": 870
+        "originalIndex": 872
     },
     {
         "name": "贝索 (Basil)",
@@ -33525,8 +33627,8 @@ window.allHeroes =
         "health": 782,
         "effects": [
             "所有盟友变得灵魂相连，持续 4 回合。灵魂相连的盟友将平摊所受伤害。",
-            "所有盟友获得 +35% 防御，持续 4 回合。防御每回合增加 10% ，最高为 +65%。",
-            "所有盟友会以所受伤害的 70% 进行反击，持续 4 回合。反击伤害每回合增加 +10% ，最高为 +100%。"
+            "所有盟友获得 +35% 防御，持续 4 回合。防御每回合增加 10%，最高为 +65%。",
+            "所有盟友会以所受伤害的 70% 进行反击，持续 4 回合。反击伤害每回合增加 +10%，最高为 +100%。"
         ],
         "passives": [
             "特殊技能附带持续伤害：当该角色施放其特殊技能时，会给一个随机敌人施加猎人印记。目标在 3 回合内受到 150 点伤害。如果目标已有此效果，则持续时间刷新，伤害增加 150 点，总伤害最高可达 1500 点。",
@@ -33535,7 +33637,7 @@ window.allHeroes =
         "family": "abysshunter",
         "image": "https://i.imgur.com/WxAALcm.jpg",
         "costume_id": 0,
-        "originalIndex": 871
+        "originalIndex": 873
     },
     {
         "name": "波肯 (Bauchan)",
@@ -33571,7 +33673,7 @@ window.allHeroes =
         "family": "avalon",
         "image": "https://i.imgur.com/EA1ItRL.jpg",
         "costume_id": 0,
-        "originalIndex": 872
+        "originalIndex": 874
     },
     {
         "name": "布茨 (Boots)",
@@ -33611,7 +33713,7 @@ window.allHeroes =
         "family": "goblin",
         "image": "https://i.imgur.com/JAko0SJ.jpg",
         "costume_id": 0,
-        "originalIndex": 873
+        "originalIndex": 875
     },
     {
         "name": "巴斯特 (Buster)",
@@ -33641,13 +33743,13 @@ window.allHeroes =
         "effects": [
             "对目标及附近敌人造成 275% 伤害。",
             "为施法者召唤一个精灵小兵，其可从施法者处继承 10% 生命和 10% 攻击力。",
-            "目标与附近敌人受到的所有伤害增加 +24% ，且面板上每有一个烈火系盾牌则额外增加 +2% ，持续 4 回合，最高可达 +40% 所受伤害。"
+            "目标与附近敌人受到的所有伤害增加 +24%，且面板上每有一个烈火系盾牌则额外增加 +2%，持续 4 回合，最高可达 +40% 所受伤害。"
         ],
         "passives": [],
         "family": "christmas",
         "image": "https://i.imgur.com/LgUJQa9.jpg",
         "costume_id": 0,
-        "originalIndex": 874
+        "originalIndex": 876
     },
     {
         "name": "但丁 (Dante)",
@@ -33693,7 +33795,7 @@ window.allHeroes =
         "family": "styx",
         "image": "https://i.imgur.com/FNkLC6z.jpg",
         "costume_id": 0,
-        "originalIndex": 875
+        "originalIndex": 877
     },
     {
         "name": "艾邓恩 (Ei-Dunn)",
@@ -33726,7 +33828,7 @@ window.allHeroes =
         "family": "niflheim",
         "image": "https://i.imgur.com/RabUqBI.jpg",
         "costume_id": 0,
-        "originalIndex": 876
+        "originalIndex": 878
     },
     {
         "name": "艾邓恩 (Ei-Dunn) C1",
@@ -33759,7 +33861,7 @@ window.allHeroes =
         "family": "niflheim",
         "image": "https://i.imgur.com/Zi5MdT5.jpg",
         "costume_id": 1,
-        "originalIndex": 877
+        "originalIndex": 879
     },
     {
         "name": "小鹿 (Fawn)",
@@ -33795,7 +33897,7 @@ window.allHeroes =
         "family": "stag",
         "image": "https://i.imgur.com/qV2EnaJ.jpg",
         "costume_id": 0,
-        "originalIndex": 878
+        "originalIndex": 880
     },
     {
         "name": "鹰月 (Hawkmoon)",
@@ -33812,7 +33914,7 @@ window.allHeroes =
             "治疗"
         ],
         "source": "S1-经典",
-        "Release date": "2017-01-01",
+        "Release date": "2017-03-01",
         "star": 3,
         "power": 444,
         "attack": 474,
@@ -33825,7 +33927,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/6ZyfSsX.jpg",
         "costume_id": 0,
-        "originalIndex": 879
+        "originalIndex": 881
     },
     {
         "name": "鹰月 (Hawkmoon) C1",
@@ -33844,7 +33946,7 @@ window.allHeroes =
             "持续治疗"
         ],
         "source": "S1-经典",
-        "Release date": "2020-01-01",
+        "Release date": "2020-01-20",
         "star": 3,
         "power": 468,
         "attack": 492,
@@ -33858,7 +33960,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/FY7tylo.jpg",
         "costume_id": 1,
-        "originalIndex": 880
+        "originalIndex": 882
     },
     {
         "name": "鹰月 (Hawkmoon) 卡通",
@@ -33893,7 +33995,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/hDOgs06.jpg",
         "costume_id": 2,
-        "originalIndex": 881
+        "originalIndex": 883
     },
     {
         "name": "赫尔吉 (Helgi)",
@@ -33935,7 +34037,7 @@ window.allHeroes =
         "family": "nidavellir",
         "image": "https://i.imgur.com/URDTarn.jpg",
         "costume_id": 0,
-        "originalIndex": 882
+        "originalIndex": 884
     },
     {
         "name": "贾汉吉 (Jahangir)",
@@ -33954,7 +34056,7 @@ window.allHeroes =
             "持续伤害"
         ],
         "source": "S1-经典",
-        "Release date": "2017-01-01",
+        "Release date": "2017-03-01",
         "star": 3,
         "power": 445,
         "attack": 498,
@@ -33968,7 +34070,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/7oZTOqz.jpg",
         "costume_id": 0,
-        "originalIndex": 883
+        "originalIndex": 885
     },
     {
         "name": "贾汉吉 (Jahangir) C1",
@@ -34001,7 +34103,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/IPO19rX.jpg",
         "costume_id": 1,
-        "originalIndex": 884
+        "originalIndex": 886
     },
     {
         "name": "贾汉吉 (Jahangir) 卡通",
@@ -34038,7 +34140,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/nGXpTVa.jpg",
         "costume_id": 2,
-        "originalIndex": 885
+        "originalIndex": 887
     },
     {
         "name": "贾汉吉 (Jahangir) 玻璃",
@@ -34075,7 +34177,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/r8eT1gi.jpg",
         "costume_id": 3,
-        "originalIndex": 886
+        "originalIndex": 888
     },
     {
         "name": "科内尔 (Kornel)",
@@ -34114,7 +34216,7 @@ window.allHeroes =
         "family": "magic",
         "image": "https://i.imgur.com/mQovZC2.jpg",
         "costume_id": 0,
-        "originalIndex": 887
+        "originalIndex": 889
     },
     {
         "name": "李 (Li)",
@@ -34134,7 +34236,7 @@ window.allHeroes =
             "召唤小兵"
         ],
         "source": "三国召唤",
-        "Release date": "2022-03-14T12:00:00",
+        "Release date": "2022-03-14",
         "star": 3,
         "power": 483,
         "attack": 481,
@@ -34149,7 +34251,7 @@ window.allHeroes =
         "family": "kingdom",
         "image": "https://i.imgur.com/6qcUvA0.jpg",
         "costume_id": 0,
-        "originalIndex": 888
+        "originalIndex": 890
     },
     {
         "name": "刘唐 (Liu Tang)",
@@ -34191,7 +34293,7 @@ window.allHeroes =
         "family": "outlaws",
         "image": "https://imgur.com/7kDzUpm.jpg",
         "costume_id": 0,
-        "originalIndex": 889
+        "originalIndex": 891
     },
     {
         "name": "生剥鬼 (Namahage)",
@@ -34224,7 +34326,7 @@ window.allHeroes =
         "family": "sakura",
         "image": "https://i.imgur.com/7ovDLzi.jpg",
         "costume_id": 0,
-        "originalIndex": 890
+        "originalIndex": 892
     },
     {
         "name": "纳什加 (Nashgar)",
@@ -34243,7 +34345,7 @@ window.allHeroes =
             "狙击手"
         ],
         "source": "S1-经典",
-        "Release date": "2017-01-01",
+        "Release date": "2017-03-01",
         "star": 3,
         "power": 443,
         "attack": 514,
@@ -34257,7 +34359,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/DrsAnEe.jpg",
         "costume_id": 0,
-        "originalIndex": 891
+        "originalIndex": 893
     },
     {
         "name": "纳什加 (Nashgar) C1",
@@ -34290,7 +34392,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/DZd6oKm.jpg",
         "costume_id": 1,
-        "originalIndex": 892
+        "originalIndex": 894
     },
     {
         "name": "纳什加 (Nashgar) 卡通",
@@ -34327,7 +34429,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/SWdSWFa.jpg",
         "costume_id": 2,
-        "originalIndex": 893
+        "originalIndex": 895
     },
     {
         "name": "菲尼克斯 (Phoenicus)",
@@ -34360,7 +34462,7 @@ window.allHeroes =
         "family": "wonderland",
         "image": "https://i.imgur.com/zBoeoLf.jpg",
         "costume_id": 0,
-        "originalIndex": 894
+        "originalIndex": 896
     },
     {
         "name": "小玫瑰 (Rosepetite)",
@@ -34398,7 +34500,7 @@ window.allHeroes =
         "family": "moth",
         "image": "https://i.imgur.com/1hAn4iO.jpg",
         "costume_id": 0,
-        "originalIndex": 895
+        "originalIndex": 897
     },
     {
         "name": "鲁道夫 (Rudolph)",
@@ -34419,7 +34521,7 @@ window.allHeroes =
             "狙击手"
         ],
         "source": "月活动-冬日",
-        "Release date": "2017-01-01",
+        "Release date": "2018-12-02",
         "star": 3,
         "power": 448,
         "attack": 540,
@@ -34434,7 +34536,7 @@ window.allHeroes =
         "family": "christmas",
         "image": "https://i.imgur.com/mEYb8Ac.jpg",
         "costume_id": 0,
-        "originalIndex": 896
+        "originalIndex": 898
     },
     {
         "name": "鲁弗斯 (Rufus)",
@@ -34473,7 +34575,7 @@ window.allHeroes =
         "family": "pets",
         "image": "https://i.imgur.com/nTxGQkg.jpg",
         "costume_id": 0,
-        "originalIndex": 897
+        "originalIndex": 899
     },
     {
         "name": "斯克里克 (Skrekok)",
@@ -34506,7 +34608,7 @@ window.allHeroes =
         "family": "villains",
         "image": "https://i.imgur.com/e258l3c.jpg",
         "costume_id": 0,
-        "originalIndex": 898
+        "originalIndex": 900
     },
     {
         "name": "兔子随从 (Squire Wabbit)",
@@ -34524,7 +34626,7 @@ window.allHeroes =
             "狙击手"
         ],
         "source": "月活动-春谷",
-        "Release date": "2017-01-01",
+        "Release date": "2018-03-28",
         "star": 3,
         "power": 445,
         "attack": 538,
@@ -34538,7 +34640,7 @@ window.allHeroes =
         "family": "springvale",
         "image": "https://i.imgur.com/545SVXP.jpg",
         "costume_id": 0,
-        "originalIndex": 899
+        "originalIndex": 901
     },
     {
         "name": "星闪 (Starswift)",
@@ -34576,7 +34678,7 @@ window.allHeroes =
         "family": "astralelves",
         "image": "https://i.imgur.com/M18GizO.jpg",
         "costume_id": 0,
-        "originalIndex": 900
+        "originalIndex": 902
     },
     {
         "name": "苏德里 (Sudri)",
@@ -34602,13 +34704,13 @@ window.allHeroes =
         "health": 775,
         "effects": [
             "对所有敌人造成 120% 伤害。",
-            "面板上每拥有一个烈火系盾牌，伤害就会增加 24% ，最多造成 360% 伤害。"
+            "面板上每拥有一个烈火系盾牌，伤害就会增加 24%，最多造成 360% 伤害。"
         ],
         "passives": [],
         "family": "muspelheim",
         "image": "https://i.imgur.com/kbwg0o2.jpg",
         "costume_id": 0,
-        "originalIndex": 901
+        "originalIndex": 903
     },
     {
         "name": "沃勒莫克 (Vollermork)",
@@ -34642,7 +34744,7 @@ window.allHeroes =
         "family": "underwild",
         "image": "https://i.imgur.com/mAw3KL3.jpg",
         "costume_id": 0,
-        "originalIndex": 902
+        "originalIndex": 904
     },
     {
         "name": "沃勒莫克 (Vollermork) C1",
@@ -34676,7 +34778,7 @@ window.allHeroes =
         "family": "underwild",
         "image": "https://i.imgur.com/RK5dZz5.jpg",
         "costume_id": 1,
-        "originalIndex": 903
+        "originalIndex": 905
     },
     {
         "name": "瓦卡斯 (Waqas)",
@@ -34713,7 +34815,7 @@ window.allHeroes =
         "family": "sun",
         "image": "https://i.imgur.com/CWQ9rw6.jpg",
         "costume_id": 0,
-        "originalIndex": 904
+        "originalIndex": 906
     },
     {
         "name": "瓦卡斯 (Waqas) C1",
@@ -34752,7 +34854,7 @@ window.allHeroes =
         "family": "sun",
         "image": "https://imgur.com/W7OyLyj.jpg",
         "costume_id": 1,
-        "originalIndex": 905
+        "originalIndex": 907
     },
     {
         "name": "奥丹 (Aodhan)",
@@ -34796,7 +34898,7 @@ window.allHeroes =
         "family": "slayer",
         "image": "https://i.imgur.com/81JNp9d.jpg",
         "costume_id": 0,
-        "originalIndex": 906
+        "originalIndex": 908
     },
     {
         "name": "猛牙 (Boldtusk)",
@@ -34815,7 +34917,7 @@ window.allHeroes =
             "治疗"
         ],
         "source": "S1-经典",
-        "Release date": "2017-01-01",
+        "Release date": "2017-03-01",
         "star": 4,
         "power": 644,
         "attack": 588,
@@ -34829,7 +34931,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/K7cfOtS.jpg",
         "costume_id": 0,
-        "originalIndex": 907
+        "originalIndex": 909
     },
     {
         "name": "猛牙 (Boldtusk) C1",
@@ -34848,7 +34950,7 @@ window.allHeroes =
             "治疗"
         ],
         "source": "S1-经典",
-        "Release date": "2020-01-01",
+        "Release date": "2020-01-20",
         "star": 4,
         "power": 680,
         "attack": 621,
@@ -34862,7 +34964,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/ZFrdT4t.jpg",
         "costume_id": 1,
-        "originalIndex": 908
+        "originalIndex": 910
     },
     {
         "name": "猛牙 (Boldtusk) C2",
@@ -34896,7 +34998,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/T4p2FAB.jpg",
         "costume_id": 2,
-        "originalIndex": 909
+        "originalIndex": 911
     },
     {
         "name": "猛牙 (Boldtusk) 卡通",
@@ -34931,7 +35033,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/ufJrKaD.jpg",
         "costume_id": 3,
-        "originalIndex": 910
+        "originalIndex": 912
     },
     {
         "name": "猛牙 (Boldtusk) 玻璃",
@@ -34970,7 +35072,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/lVwUo5n.jpg",
         "costume_id": 4,
-        "originalIndex": 911
+        "originalIndex": 913
     },
     {
         "name": "卡罗尔 (Carol)",
@@ -35006,7 +35108,7 @@ window.allHeroes =
         "family": "christmas",
         "image": "https://i.imgur.com/rj2dz3k.jpg",
         "costume_id": 0,
-        "originalIndex": 912
+        "originalIndex": 914
     },
     {
         "name": "希里安 (Cillian)",
@@ -35048,7 +35150,7 @@ window.allHeroes =
         "family": "slayer",
         "image": "https://i.imgur.com/ema4TPc.jpg",
         "costume_id": 0,
-        "originalIndex": 913
+        "originalIndex": 915
     },
     {
         "name": "科伦 (Colen)",
@@ -35067,7 +35169,7 @@ window.allHeroes =
             "持续伤害"
         ],
         "source": "S1-经典",
-        "Release date": "2017-01-01",
+        "Release date": "2017-03-01",
         "star": 4,
         "power": 643,
         "attack": 728,
@@ -35081,7 +35183,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/eqgOQXS.jpg",
         "costume_id": 0,
-        "originalIndex": 914
+        "originalIndex": 916
     },
     {
         "name": "科伦 (Colen) C1",
@@ -35114,7 +35216,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/pAWbbb8.jpg",
         "costume_id": 1,
-        "originalIndex": 915
+        "originalIndex": 917
     },
     {
         "name": "科伦 (Colen) C2",
@@ -35149,7 +35251,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/2DIxTGe.jpg",
         "costume_id": 2,
-        "originalIndex": 916
+        "originalIndex": 918
     },
     {
         "name": "科伦 (Colen) 卡通",
@@ -35186,7 +35288,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/swTTE4N.jpg",
         "costume_id": 3,
-        "originalIndex": 917
+        "originalIndex": 919
     },
     {
         "name": "科伦 (Colen) 玻璃",
@@ -35224,7 +35326,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://imgur.com/7dLF49j.jpg",
         "costume_id": 4,
-        "originalIndex": 918
+        "originalIndex": 920
     },
     {
         "name": "艾希贝尔伯格 (Eichbelborg)",
@@ -35257,7 +35359,7 @@ window.allHeroes =
         "family": "starfall",
         "image": "https://i.imgur.com/B0oW04d.jpg",
         "costume_id": 0,
-        "originalIndex": 919
+        "originalIndex": 921
     },
     {
         "name": "费朗特 (Ferant)",
@@ -35289,7 +35391,7 @@ window.allHeroes =
         "family": "wolf",
         "image": "https://i.imgur.com/iJhZeCK.jpg",
         "costume_id": 0,
-        "originalIndex": 920
+        "originalIndex": 922
     },
     {
         "name": "费朗特 (Ferant) C1",
@@ -35325,7 +35427,7 @@ window.allHeroes =
         "family": "wolf",
         "image": "https://i.imgur.com/f9WxEPE.jpg",
         "costume_id": 1,
-        "originalIndex": 921
+        "originalIndex": 923
     },
     {
         "name": "戈莫克 (Gormek)",
@@ -35344,7 +35446,7 @@ window.allHeroes =
             "防御减益"
         ],
         "source": "S1-经典",
-        "Release date": "2017-01-01",
+        "Release date": "2017-03-01",
         "star": 4,
         "power": 642,
         "attack": 569,
@@ -35358,7 +35460,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/A5zsfun.jpg",
         "costume_id": 0,
-        "originalIndex": 922
+        "originalIndex": 924
     },
     {
         "name": "戈莫克 (Gormek) C1",
@@ -35393,7 +35495,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/OxaIMH8.jpg",
         "costume_id": 1,
-        "originalIndex": 923
+        "originalIndex": 925
     },
     {
         "name": "戈莫克 (Gormek) C2",
@@ -35426,7 +35528,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/6XbZQ2N.jpg",
         "costume_id": 2,
-        "originalIndex": 924
+        "originalIndex": 926
     },
     {
         "name": "戈莫克 (Gormek) 卡通",
@@ -35463,7 +35565,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/WFeaXms.jpg",
         "costume_id": 3,
-        "originalIndex": 925
+        "originalIndex": 927
     },
     {
         "name": "戈莫克 (Gormek) 玻璃",
@@ -35501,7 +35603,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://imgur.com/k3y9GLJ.jpg",
         "costume_id": 4,
-        "originalIndex": 926
+        "originalIndex": 928
     },
     {
         "name": "飞鹰守护者 (Guardian Falcon)",
@@ -35520,7 +35622,7 @@ window.allHeroes =
             "防御减益"
         ],
         "source": "挑战节-守护者",
-        "Release date": "2017-01-01",
+        "Release date": "2017-10-05",
         "star": 4,
         "power": 646,
         "attack": 552,
@@ -35534,7 +35636,7 @@ window.allHeroes =
         "family": "guardiansteltoc",
         "image": "https://i.imgur.com/osWU4RP.jpg",
         "costume_id": 0,
-        "originalIndex": 927
+        "originalIndex": 929
     },
     {
         "name": "伊潭 (Itham)",
@@ -35572,7 +35674,7 @@ window.allHeroes =
         "family": "beachparty",
         "image": "https://i.imgur.com/7w0kLrp.jpg",
         "costume_id": 0,
-        "originalIndex": 928
+        "originalIndex": 930
     },
     {
         "name": "约纳德 (Junaid)",
@@ -35609,7 +35711,7 @@ window.allHeroes =
         "family": "moon",
         "image": "https://i.imgur.com/9XxU54s.jpg",
         "costume_id": 0,
-        "originalIndex": 929
+        "originalIndex": 931
     },
     {
         "name": "约纳德 (Junaid) C1",
@@ -35648,7 +35750,7 @@ window.allHeroes =
         "family": "moon",
         "image": "https://i.imgur.com/4PhQKkZ.jpg",
         "costume_id": 1,
-        "originalIndex": 930
+        "originalIndex": 932
     },
     {
         "name": "卡莉莱 (Kelile)",
@@ -35667,7 +35769,7 @@ window.allHeroes =
             "狙击手"
         ],
         "source": "S1-经典",
-        "Release date": "2017-01-01",
+        "Release date": "2017-03-01",
         "star": 4,
         "power": 644,
         "attack": 675,
@@ -35681,7 +35783,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/g0FkZzQ.jpg",
         "costume_id": 0,
-        "originalIndex": 931
+        "originalIndex": 933
     },
     {
         "name": "卡莉莱 (Kelile) C1",
@@ -35711,7 +35813,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/EFoCGqV.jpg",
         "costume_id": 1,
-        "originalIndex": 932
+        "originalIndex": 934
     },
     {
         "name": "卡莉莱 (Kelile) C2",
@@ -35745,7 +35847,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/46HnfAG.jpg",
         "costume_id": 2,
-        "originalIndex": 933
+        "originalIndex": 935
     },
     {
         "name": "卡莉莱 (Kelile) 卡通",
@@ -35782,7 +35884,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/nj44opt.jpg",
         "costume_id": 3,
-        "originalIndex": 934
+        "originalIndex": 936
     },
     {
         "name": "卡莉莱 (Kelile) 玻璃",
@@ -35820,7 +35922,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://imgur.com/yqIwVAP.jpg",
         "costume_id": 4,
-        "originalIndex": 935
+        "originalIndex": 937
     },
     {
         "name": "勒明盖宁 (Lemminkainen)",
@@ -35855,7 +35957,7 @@ window.allHeroes =
         "family": "kalevala",
         "image": "https://i.imgur.com/f4cHfqp.jpg",
         "costume_id": 0,
-        "originalIndex": 936
+        "originalIndex": 938
     },
     {
         "name": "露西 (Lucy)",
@@ -35900,7 +36002,7 @@ window.allHeroes =
         "family": "magic",
         "image": "https://i.imgur.com/j3M4iy4.jpg",
         "costume_id": 0,
-        "originalIndex": 937
+        "originalIndex": 939
     },
     {
         "name": "马克 (Mack)",
@@ -35935,7 +36037,7 @@ window.allHeroes =
         "family": "underwild",
         "image": "https://i.imgur.com/nafpwvj.jpg",
         "costume_id": 0,
-        "originalIndex": 938
+        "originalIndex": 940
     },
     {
         "name": "马克 (Mack) C1",
@@ -35970,7 +36072,7 @@ window.allHeroes =
         "family": "underwild",
         "image": "https://i.imgur.com/piqOqpg.jpg",
         "costume_id": 1,
-        "originalIndex": 939
+        "originalIndex": 941
     },
     {
         "name": "玛黑根 (Maheegan)",
@@ -35998,7 +36100,7 @@ window.allHeroes =
         "health": 1298,
         "effects": [
             "对目标造成 280% 伤害，并对附近敌人造成轻微伤害。",
-            "召唤刺骨陷阱恶魔附身于目标及附近敌人。恶魔每回合对敌人造成 45% 攻击力的伤害。该伤害每回合提高 8% ，最高可达 93%。",
+            "召唤刺骨陷阱恶魔附身于目标及附近敌人。恶魔每回合对敌人造成 45% 攻击力的伤害。该伤害每回合提高 8%，最高可达 93%。",
             "刺骨陷阱恶魔会吸收治疗，当吸收的治疗量达到其所有者最大生命值的 35% 时，它便会消失。"
         ],
         "passives": [
@@ -36008,7 +36110,7 @@ window.allHeroes =
         "family": "plainshunter",
         "image": "https://i.imgur.com/c554xVo.jpg",
         "costume_id": 0,
-        "originalIndex": 940
+        "originalIndex": 942
     },
     {
         "name": "曼皮普 (Manpip)",
@@ -36051,7 +36153,7 @@ window.allHeroes =
         "family": "magiccarpet",
         "image": "https://imgur.com/xf2xQFV.jpg",
         "costume_id": 0,
-        "originalIndex": 941
+        "originalIndex": 943
     },
     {
         "name": "诺娃 (Nova)",
@@ -36093,7 +36195,7 @@ window.allHeroes =
         "family": "superelemental",
         "image": "https://i.imgur.com/bsearKJ.jpg",
         "costume_id": 0,
-        "originalIndex": 942
+        "originalIndex": 944
     },
     {
         "name": "拉乌尔 (Raul)",
@@ -36143,7 +36245,7 @@ window.allHeroes =
         "family": "opera",
         "image": "https://i.imgur.com/QmSXHcR.jpg",
         "costume_id": 0,
-        "originalIndex": 943
+        "originalIndex": 945
     },
     {
         "name": "洛卡莫什 (Rokkamush)",
@@ -36179,7 +36281,7 @@ window.allHeroes =
         "family": "underwild",
         "image": "https://i.imgur.com/dOWSQgd.jpg",
         "costume_id": 0,
-        "originalIndex": 944
+        "originalIndex": 946
     },
     {
         "name": "洛卡莫什 (Rokkamush) C1",
@@ -36215,7 +36317,7 @@ window.allHeroes =
         "family": "underwild",
         "image": "https://i.imgur.com/AXlFl5t.jpg",
         "costume_id": 1,
-        "originalIndex": 945
+        "originalIndex": 947
     },
     {
         "name": "斯嘉丽 (Scarlett)",
@@ -36234,7 +36336,7 @@ window.allHeroes =
             "攻击减益"
         ],
         "source": "S1-经典",
-        "Release date": "2017-01-01",
+        "Release date": "2017-03-01",
         "star": 4,
         "power": 640,
         "attack": 767,
@@ -36248,7 +36350,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/rridBLP.jpg",
         "costume_id": 0,
-        "originalIndex": 946
+        "originalIndex": 948
     },
     {
         "name": "斯嘉丽 (Scarlett) C1",
@@ -36284,7 +36386,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/t5Qcm7v.jpg",
         "costume_id": 1,
-        "originalIndex": 947
+        "originalIndex": 949
     },
     {
         "name": "斯嘉丽 (Scarlett) C2",
@@ -36318,7 +36420,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/Zxh18lV.jpg",
         "costume_id": 2,
-        "originalIndex": 948
+        "originalIndex": 950
     },
     {
         "name": "斯嘉丽 (Scarlett) 卡通",
@@ -36355,7 +36457,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/uv68SUQ.jpg",
         "costume_id": 3,
-        "originalIndex": 949
+        "originalIndex": 951
     },
     {
         "name": "沙德里夫 (Shadereave)",
@@ -36393,7 +36495,7 @@ window.allHeroes =
         "family": "helheim",
         "image": "https://i.imgur.com/t4qsaZf.jpg",
         "costume_id": 0,
-        "originalIndex": 950
+        "originalIndex": 952
     },
     {
         "name": "页岩 (Shale)",
@@ -36434,7 +36536,7 @@ window.allHeroes =
         "family": "ninja",
         "image": "https://i.imgur.com/MtPyEOT.jpg",
         "costume_id": 0,
-        "originalIndex": 951
+        "originalIndex": 953
     },
     {
         "name": "兰斯洛特爵士 (Sir Lancelot)",
@@ -36455,7 +36557,7 @@ window.allHeroes =
             "狙击手"
         ],
         "source": "挑战节-阿瓦隆",
-        "Release date": "2017-01-01",
+        "Release date": "2018-01-05",
         "star": 4,
         "power": 645,
         "attack": 756,
@@ -36470,7 +36572,7 @@ window.allHeroes =
         "family": "avalon",
         "image": "https://i.imgur.com/zyZ5m0r.jpg",
         "costume_id": 0,
-        "originalIndex": 952
+        "originalIndex": 954
     },
     {
         "name": "住友 (Sumitomo)",
@@ -36506,7 +36608,7 @@ window.allHeroes =
         "family": "sakura",
         "image": "https://i.imgur.com/qnIyV2j.jpg",
         "costume_id": 0,
-        "originalIndex": 953
+        "originalIndex": 955
     },
     {
         "name": "住友 (Sumitomo) C1",
@@ -36542,7 +36644,7 @@ window.allHeroes =
         "family": "sakura",
         "image": "https://i.imgur.com/kQW2sKb.jpg",
         "costume_id": 1,
-        "originalIndex": 954
+        "originalIndex": 956
     },
     {
         "name": "萨姆勒 (Sumle)",
@@ -36575,7 +36677,7 @@ window.allHeroes =
         "family": "muspelheim",
         "image": "https://i.imgur.com/yxQi63p.jpg",
         "costume_id": 0,
-        "originalIndex": 955
+        "originalIndex": 957
     },
     {
         "name": "萨姆勒 (Sumle) C1",
@@ -36608,7 +36710,7 @@ window.allHeroes =
         "family": "muspelheim",
         "image": "https://i.imgur.com/BBcd7nx.jpg",
         "costume_id": 1,
-        "originalIndex": 956
+        "originalIndex": 958
     },
     {
         "name": "孙尚香 (Sun Shangxiang)",
@@ -36627,7 +36729,7 @@ window.allHeroes =
             "防御减益"
         ],
         "source": "三国召唤",
-        "Release date": "2022-03-14T12:00:00",
+        "Release date": "2022-03-14",
         "star": 4,
         "power": 682,
         "attack": 782,
@@ -36641,7 +36743,7 @@ window.allHeroes =
         "family": "kingdom",
         "image": "https://i.imgur.com/H5PMlvf.jpg",
         "costume_id": 0,
-        "originalIndex": 957
+        "originalIndex": 959
     },
     {
         "name": "冯莱纳 (Vonreine)",
@@ -36682,7 +36784,7 @@ window.allHeroes =
         "family": "gargoyle",
         "image": "https://i.imgur.com/rPeRNSA.jpg",
         "costume_id": 0,
-        "originalIndex": 958
+        "originalIndex": 960
     },
     {
         "name": "威尔伯 (Wilbur)",
@@ -36720,7 +36822,7 @@ window.allHeroes =
         "family": "lagoon",
         "image": "https://i.imgur.com/EjclF3b.jpg",
         "costume_id": 0,
-        "originalIndex": 959
+        "originalIndex": 961
     },
     {
         "name": "威尔伯 (Wilbur) C1",
@@ -36753,7 +36855,7 @@ window.allHeroes =
         "family": "lagoon",
         "image": "https://i.imgur.com/BehrpwT.jpg",
         "costume_id": 1,
-        "originalIndex": 960
+        "originalIndex": 962
     },
     {
         "name": "扎伯格 (Zhabog)",
@@ -36789,7 +36891,7 @@ window.allHeroes =
         "family": "bard",
         "image": "https://i.imgur.com/GX1p5W9.jpg",
         "costume_id": 0,
-        "originalIndex": 961
+        "originalIndex": 963
     },
     {
         "name": "周瑜 (Zhou Yu)",
@@ -36810,7 +36912,7 @@ window.allHeroes =
             "狙击手"
         ],
         "source": "三国召唤",
-        "Release date": "2022-03-14T12:00:00",
+        "Release date": "2022-03-14",
         "star": 4,
         "power": 683,
         "attack": 639,
@@ -36825,7 +36927,7 @@ window.allHeroes =
         "family": "kingdom",
         "image": "https://i.imgur.com/KiDn1jL.jpg",
         "costume_id": 0,
-        "originalIndex": 962
+        "originalIndex": 964
     },
     {
         "name": "周瑜 (Zhou Yu) C1",
@@ -36866,7 +36968,7 @@ window.allHeroes =
         "family": "kingdom",
         "image": "https://i.imgur.com/Uiw1osb.jpg",
         "costume_id": 1,
-        "originalIndex": 963
+        "originalIndex": 965
     },
     {
         "name": "阿比盖尔 (Abigail)",
@@ -36909,7 +37011,7 @@ window.allHeroes =
         "family": "investigator",
         "image": "https://i.imgur.com/dHcPPcr.jpg",
         "costume_id": 0,
-        "originalIndex": 964
+        "originalIndex": 966
     },
     {
         "name": "埃斯莱高 (Aethslegaur)",
@@ -36957,7 +37059,7 @@ window.allHeroes =
         "family": "nidavellir",
         "image": "https://i.imgur.com/rCRyftg.jpg",
         "costume_id": 0,
-        "originalIndex": 965
+        "originalIndex": 967
     },
     {
         "name": "阿鲁卡多 (Alucard)",
@@ -36999,7 +37101,7 @@ window.allHeroes =
         "family": "morlovia",
         "image": "https://i.imgur.com/ZDIKUNx.jpg",
         "costume_id": 0,
-        "originalIndex": 966
+        "originalIndex": 968
     },
     {
         "name": "阿鲁卡多 (Alucard) C1",
@@ -37041,7 +37143,7 @@ window.allHeroes =
         "family": "morlovia",
         "image": "https://i.imgur.com/ed8i62p.jpg",
         "costume_id": 1,
-        "originalIndex": 967
+        "originalIndex": 969
     },
     {
         "name": "安布尔 (Amber)",
@@ -37079,7 +37181,7 @@ window.allHeroes =
         "family": "morlovia",
         "image": "https://i.imgur.com/PmKUK6y.jpg",
         "costume_id": 0,
-        "originalIndex": 968
+        "originalIndex": 970
     },
     {
         "name": "安迪·杰 (Andy Jay)",
@@ -37119,7 +37221,7 @@ window.allHeroes =
         "family": "beachparty",
         "image": "https://imgur.com/ZWcSNEl.jpg",
         "costume_id": 0,
-        "originalIndex": 969
+        "originalIndex": 971
     },
     {
         "name": "安佐 (Anzogh)",
@@ -37156,7 +37258,7 @@ window.allHeroes =
         "family": 2019,
         "image": "https://i.imgur.com/1Kkc15H.jpg",
         "costume_id": 0,
-        "originalIndex": 970
+        "originalIndex": 972
     },
     {
         "name": "阿拉迪亚 (Aradia)",
@@ -37185,7 +37287,7 @@ window.allHeroes =
         "effects": [
             "使所有敌人减少 570 点最大生命值。若目标拥有提高的生命值，此效果会增强。最大生命值不能低于初始最大生命值的 30%。任何提高的生命值会额外减少 570 点。",
             "所有敌人在 4 回合内受到共计 744 点燃烧伤害。",
-            "所有敌人获得的生命加成均减少 -75% ，持续 4 回合。"
+            "所有敌人获得的生命加成均减少 -75%，持续 4 回合。"
         ],
         "passives": [
             "小兵死亡时净化：当该角色拥有的小兵被摧毁时，该角色身上的状态异常会被净化。"
@@ -37193,7 +37295,7 @@ window.allHeroes =
         "family": "maskedgod",
         "image": "https://i.imgur.com/KU4YzVK.jpg",
         "costume_id": 0,
-        "originalIndex": 971
+        "originalIndex": 973
     },
     {
         "name": "阿拉敏塔 (Araminta)",
@@ -37234,7 +37336,7 @@ window.allHeroes =
         "family": "woodlandfaun",
         "image": "https://i.imgur.com/52hX4ns.jpg",
         "costume_id": 0,
-        "originalIndex": 972
+        "originalIndex": 974
     },
     {
         "name": "阿瑞斯 (Ares)",
@@ -37255,7 +37357,7 @@ window.allHeroes =
             "防御增益"
         ],
         "source": "月英",
-        "Release date": "2017-08-01T00:00:00",
+        "Release date": "2017-08-01",
         "star": 5,
         "power": 765,
         "attack": 659,
@@ -37271,7 +37373,7 @@ window.allHeroes =
         "family": 2017,
         "image": "https://i.imgur.com/KvZBThZ.jpg",
         "costume_id": 0,
-        "originalIndex": 973
+        "originalIndex": 975
     },
     {
         "name": "阿瑞斯 (Ares) C1",
@@ -37301,8 +37403,8 @@ window.allHeroes =
         "defense": 894,
         "health": 2093,
         "effects": [
-            "施法者和附近盟友获得 +45% 攻击力，持续 4 回合。攻击力每回合增加 5% ，最高为 +60%。",
-            "施法者和附近盟友会以所受伤害的 100% 进行反击，持续 4 回合。反击伤害每回合增加 10% ，最高可达 130%。",
+            "施法者和附近盟友获得 +45% 攻击力，持续 4 回合。攻击力每回合增加 5%，最高为 +60%。",
+            "施法者和附近盟友会以所受伤害的 100% 进行反击，持续 4 回合。反击伤害每回合增加 10%，最高可达 130%。",
             "施法者和附近盟友在 4 回合内获得共计 772 点生命加成。提高的生命值可以超过最大生命值。",
             "元素链为全体烈火系盟友提供 +15% 的攻击和 +15% 的防御，持续 6 回合。此效果无法驱散。"
         ],
@@ -37312,7 +37414,7 @@ window.allHeroes =
         "family": 2017,
         "image": "https://i.imgur.com/Pf1h54r.jpg",
         "costume_id": 1,
-        "originalIndex": 974
+        "originalIndex": 976
     },
     {
         "name": "余烬 (Ash)",
@@ -37340,7 +37442,7 @@ window.allHeroes =
         "health": 1835,
         "effects": [
             "对 9 名随机敌人造成 150% 伤害。",
-            "面板上每拥有一个烈火系盾牌，伤害就会增加 5% ，每下攻击最高造成 +200% 伤害。",
+            "面板上每拥有一个烈火系盾牌，伤害就会增加 5%，每下攻击最高造成 +200% 伤害。",
             "所有被击中的目标获得对烈火系 -35% 防御，每次被击中后额外降低 -5% 防御，持续 4 回合。"
         ],
         "passives": [
@@ -37353,7 +37455,7 @@ window.allHeroes =
         "family": "superelemental",
         "image": "https://i.imgur.com/Vb0jBsm.jpg",
         "costume_id": 0,
-        "originalIndex": 975
+        "originalIndex": 977
     },
     {
         "name": "阿斯特琉思 (Asterius)",
@@ -37391,7 +37493,7 @@ window.allHeroes =
         "family": "villains",
         "image": "https://i.imgur.com/i9C7vjL.jpg",
         "costume_id": 0,
-        "originalIndex": 976
+        "originalIndex": 978
     },
     {
         "name": "黄金 (Aurum)",
@@ -37400,7 +37502,7 @@ window.allHeroes =
         "color": "红色",
         "class": "野蛮人",
         "speed": "充能",
-        "skill": "裂体锋刃",
+        "skill": null,
         "types": [
             "蓄力攻击 (1/3/5个目标)",
             "流血标记",
@@ -37441,7 +37543,7 @@ window.allHeroes =
         "family": "ninja",
         "image": "https://i.imgur.com/ti2OFXj.jpg",
         "costume_id": 0,
-        "originalIndex": 977
+        "originalIndex": 979
     },
     {
         "name": "阿基拉 (Azlar)",
@@ -37460,7 +37562,7 @@ window.allHeroes =
             "持续伤害"
         ],
         "source": "S1-经典",
-        "Release date": "2017-01-01",
+        "Release date": "2017-03-01",
         "star": 5,
         "power": 757,
         "attack": 793,
@@ -37474,7 +37576,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/wAibSFk.jpg",
         "costume_id": 0,
-        "originalIndex": 978
+        "originalIndex": 980
     },
     {
         "name": "阿基拉 (Azlar) C1",
@@ -37502,14 +37604,14 @@ window.allHeroes =
         "health": 1431,
         "effects": [
             "对目标及附近敌人造成 205% 伤害。",
-            "如果目标剩余生命少于 50% ，可对其造成 410% 伤害。",
+            "如果目标剩余生命少于 50%，可对其造成 410% 伤害。",
             "目标与附近敌人在 2 回合内受到共计 472 点燃烧伤害。此效果无法净化。"
         ],
         "passives": [],
         "family": "classic",
         "image": "https://i.imgur.com/TDGgAGz.jpg",
         "costume_id": 1,
-        "originalIndex": 979
+        "originalIndex": 981
     },
     {
         "name": "阿基拉 (Azlar) C2",
@@ -37543,7 +37645,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/6N4jIyy.jpg",
         "costume_id": 2,
-        "originalIndex": 980
+        "originalIndex": 982
     },
     {
         "name": "阿基拉 (Azlar) 卡通",
@@ -37580,7 +37682,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/yS5bHHw.jpg",
         "costume_id": 3,
-        "originalIndex": 981
+        "originalIndex": 983
     },
     {
         "name": "阿基拉 (Azlar) 玻璃",
@@ -37617,7 +37719,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/S5acyh9.jpg",
         "costume_id": 4,
-        "originalIndex": 982
+        "originalIndex": 984
     },
     {
         "name": "巴德尔 (Baldur)",
@@ -37656,7 +37758,7 @@ window.allHeroes =
         "family": "muspelheim",
         "image": "https://i.imgur.com/bmdaK3F.jpg",
         "costume_id": 0,
-        "originalIndex": 983
+        "originalIndex": 985
     },
     {
         "name": "巴德尔 (Baldur) C1",
@@ -37696,7 +37798,7 @@ window.allHeroes =
         "family": "muspelheim",
         "image": "https://i.imgur.com/oTqqeuM.jpg",
         "costume_id": 1,
-        "originalIndex": 984
+        "originalIndex": 986
     },
     {
         "name": "巴克利 (Barkley)",
@@ -37737,7 +37839,7 @@ window.allHeroes =
         "family": "pets",
         "image": "https://i.imgur.com/X0UJRC3.jpg",
         "costume_id": 0,
-        "originalIndex": 985
+        "originalIndex": 987
     },
     {
         "name": "贝尔纳黛特 (Bearnadette)",
@@ -37778,7 +37880,7 @@ window.allHeroes =
         "family": "bear",
         "image": "https://i.imgur.com/jsqcXVs.jpg",
         "costume_id": 0,
-        "originalIndex": 986
+        "originalIndex": 988
     },
     {
         "name": "贝奥武夫 (Beowulf)",
@@ -37823,7 +37925,7 @@ window.allHeroes =
         "family": "beowulf",
         "image": "https://i.imgur.com/KcWPSJ3.jpg",
         "costume_id": 0,
-        "originalIndex": 987
+        "originalIndex": 989
     },
     {
         "name": "比马 (Bhima)",
@@ -37871,7 +37973,7 @@ window.allHeroes =
         "family": "mahayoddha",
         "image": "https://imgur.com/4yUfzza.jpg",
         "costume_id": 0,
-        "originalIndex": 988
+        "originalIndex": 990
     },
     {
         "name": "黑凯撒 (Black Caesar)",
@@ -37910,7 +38012,7 @@ window.allHeroes =
         "family": "corellia",
         "image": "https://i.imgur.com/5f8UOBL.jpg",
         "costume_id": 0,
-        "originalIndex": 989
+        "originalIndex": 991
     },
     {
         "name": "黑骑士 (Black Knight)",
@@ -37930,7 +38032,7 @@ window.allHeroes =
             "嘲讽"
         ],
         "source": "挑战节-阿瓦隆",
-        "Release date": "2017-01-01",
+        "Release date": "2021-07-09",
         "star": 5,
         "power": 779,
         "attack": 611,
@@ -37945,7 +38047,7 @@ window.allHeroes =
         "family": "avalon",
         "image": "https://i.imgur.com/6so0gHz.jpg",
         "costume_id": 0,
-        "originalIndex": 990
+        "originalIndex": 992
     },
     {
         "name": "黑骑士 (Black Knight) C1",
@@ -37981,7 +38083,7 @@ window.allHeroes =
         "family": "avalon",
         "image": "https://i.imgur.com/BH9J6dC.jpg",
         "costume_id": 1,
-        "originalIndex": 991
+        "originalIndex": 993
     },
     {
         "name": "花蕊 (Blossom)",
@@ -38022,7 +38124,7 @@ window.allHeroes =
         "family": "construct",
         "image": "https://i.imgur.com/4805acd.jpg",
         "costume_id": 0,
-        "originalIndex": 992
+        "originalIndex": 994
     },
     {
         "name": "碎骨魔 (Bonecrusher)",
@@ -38062,7 +38164,7 @@ window.allHeroes =
         "family": "junglehunter",
         "image": "https://i.imgur.com/sBMiou9.jpg",
         "costume_id": 0,
-        "originalIndex": 993
+        "originalIndex": 995
     },
     {
         "name": "硫磺 (Brimstone)",
@@ -38109,7 +38211,7 @@ window.allHeroes =
         "family": "construct",
         "image": "https://i.imgur.com/HWR83YI.jpg",
         "costume_id": 0,
-        "originalIndex": 994
+        "originalIndex": 996
     },
     {
         "name": "科斯特雷尔船长 (Captain Kestrel)",
@@ -38127,7 +38229,7 @@ window.allHeroes =
             "额外伤害"
         ],
         "source": "挑战节-海盗",
-        "Release date": "2017-01-01",
+        "Release date": "2017-09-07",
         "star": 5,
         "power": 765,
         "attack": 727,
@@ -38141,7 +38243,7 @@ window.allHeroes =
         "family": "corellia",
         "image": "https://i.imgur.com/RcRP80T.jpg",
         "costume_id": 0,
-        "originalIndex": 995
+        "originalIndex": 997
     },
     {
         "name": "尼莫船长 (Captain Nemo)",
@@ -38175,7 +38277,7 @@ window.allHeroes =
         "family": "underwild",
         "image": "https://i.imgur.com/lNl4PPg.jpg",
         "costume_id": 0,
-        "originalIndex": 996
+        "originalIndex": 998
     },
     {
         "name": "尼莫船长 (Captain Nemo) C1",
@@ -38211,7 +38313,7 @@ window.allHeroes =
         "family": "underwild",
         "image": "https://i.imgur.com/UjiSmNx.jpg",
         "costume_id": 1,
-        "originalIndex": 997
+        "originalIndex": 999
     },
     {
         "name": "红衣主教黎塞留 (Cardinal Richelieu)",
@@ -38251,7 +38353,7 @@ window.allHeroes =
         "family": "musketeer",
         "image": "https://i.imgur.com/fhxShwu.jpg",
         "costume_id": 0,
-        "originalIndex": 998
+        "originalIndex": 1000
     },
     {
         "name": "卡耳门塔 (Carmenta)",
@@ -38289,7 +38391,7 @@ window.allHeroes =
         "family": "maskedgod",
         "image": "https://i.imgur.com/Ud8nASe.jpg",
         "costume_id": 0,
-        "originalIndex": 999
+        "originalIndex": 1001
     },
     {
         "name": "西里斯 (Ceris)",
@@ -38334,7 +38436,7 @@ window.allHeroes =
         "family": "astraldwarfs",
         "image": "https://imgur.com/RSa7LWa.jpg",
         "costume_id": 0,
-        "originalIndex": 1000
+        "originalIndex": 1002
     },
     {
         "name": "夏洛塔 (Charlotta)",
@@ -38378,7 +38480,7 @@ window.allHeroes =
         "family": "opera",
         "image": "https://i.imgur.com/SZzrHhg.jpg",
         "costume_id": 0,
-        "originalIndex": 1001
+        "originalIndex": 1003
     },
     {
         "name": "夏麦妮 (Charmione)",
@@ -38420,7 +38522,7 @@ window.allHeroes =
         "family": "slime",
         "image": "https://i.imgur.com/4w6oCQ7.jpg",
         "costume_id": 0,
-        "originalIndex": 1002
+        "originalIndex": 1004
     },
     {
         "name": "嘎嘣 (Chomper)",
@@ -38459,7 +38561,7 @@ window.allHeroes =
         "family": "pets",
         "image": "https://i.imgur.com/5iYa63c.jpg",
         "costume_id": 0,
-        "originalIndex": 1003
+        "originalIndex": 1005
     },
     {
         "name": "淳绮罗翼 (Chunkyroi)",
@@ -38493,7 +38595,7 @@ window.allHeroes =
         "effects": [
             "为所有盟友恢复 45% 生命值。",
             "在后续 4 回合中，每当其他盟友施放特殊技能后，此角色将使所有盟友恢复 350 点生命值加成（每个角色每回合只能触发此效果一次）。",
-            "所有盟友获得 +30% 法力生成，持续 4 回合（只影响通过消除英雄格或由防御队伍在其回合结束时获得的法力）。",
+            "所有盟友获得 +30% 法力生成，持续 4 回合（只影响通过消除方块或由防御队伍在其回合结束时获得的法力）。",
             "净化所有盟友的状态异常。"
         ],
         "passives": [
@@ -38502,7 +38604,7 @@ window.allHeroes =
         "family": "moth",
         "image": "https://i.imgur.com/APgO5NR.jpg",
         "costume_id": 0,
-        "originalIndex": 1004
+        "originalIndex": 1006
     },
     {
         "name": "灰姑娘 (Cinderella)",
@@ -38545,7 +38647,7 @@ window.allHeroes =
         "family": "grimforest",
         "image": "https://i.imgur.com/8MZHUmV.jpg",
         "costume_id": 0,
-        "originalIndex": 1005
+        "originalIndex": 1007
     },
     {
         "name": "屠刀 (Cleaver)",
@@ -38575,7 +38677,7 @@ window.allHeroes =
         "health": 1600,
         "effects": [
             "对所有敌人造成 100% 伤害。",
-            "召唤刺骨陷阱恶魔附身于所有敌人。恶魔每回合对敌人造成 45% 攻击力的伤害。该伤害每回合提高 8% ，最高可达 93%。",
+            "召唤刺骨陷阱恶魔附身于所有敌人。恶魔每回合对敌人造成 45% 攻击力的伤害。该伤害每回合提高 8%，最高可达 93%。",
             "刺骨陷阱恶魔会吸收治疗，当吸收的治疗量达到其所有者最大生命值的 35% 时，它便会消失。",
             "所有敌人获得 -32% 攻击力，并在每次被击中时再降低 -5% 攻击力，持续 4 回合。"
         ],
@@ -38586,7 +38688,7 @@ window.allHeroes =
         "family": "plainshunter",
         "image": "https://i.imgur.com/BcrdLDo.jpg",
         "costume_id": 0,
-        "originalIndex": 1006
+        "originalIndex": 1008
     },
     {
         "name": "库奇 (Cookie)",
@@ -38622,7 +38724,7 @@ window.allHeroes =
         "family": "christmas",
         "image": "https://i.imgur.com/n61JoD1.jpg",
         "costume_id": 0,
-        "originalIndex": 1007
+        "originalIndex": 1009
     },
     {
         "name": "丘比特 (Cupido)",
@@ -38659,7 +38761,7 @@ window.allHeroes =
         "family": "cupid",
         "image": "https://i.imgur.com/4hhCXCA.jpg",
         "costume_id": 0,
-        "originalIndex": 1008
+        "originalIndex": 1010
     },
     {
         "name": "达达尼昂 (D Artagnan)",
@@ -38697,7 +38799,7 @@ window.allHeroes =
         "family": "musketeer",
         "image": "https://i.imgur.com/cwvEsxY.jpg",
         "costume_id": 0,
-        "originalIndex": 1009
+        "originalIndex": 1011
     },
     {
         "name": "戴蒙 (Daemon)",
@@ -38738,7 +38840,7 @@ window.allHeroes =
         "family": "stag",
         "image": "https://i.imgur.com/uaxeVEQ.jpg",
         "costume_id": 0,
-        "originalIndex": 1010
+        "originalIndex": 1012
     },
     {
         "name": "迪马 (Dima)",
@@ -38780,7 +38882,7 @@ window.allHeroes =
         "family": "garrisonguard",
         "image": "https://i.imgur.com/z5rjaIR.jpg",
         "costume_id": 0,
-        "originalIndex": 1011
+        "originalIndex": 1013
     },
     {
         "name": "多米万图斯 (Domiventus)",
@@ -38824,7 +38926,7 @@ window.allHeroes =
         "family": "nightmaresofatlantis",
         "image": "https://i.imgur.com/kgTv3pm.jpg",
         "costume_id": 0,
-        "originalIndex": 1012
+        "originalIndex": 1014
     },
     {
         "name": "多米万图斯 (Domiventus) C1",
@@ -38869,7 +38971,7 @@ window.allHeroes =
         "family": "nightmaresofatlantis",
         "image": "https://i.imgur.com/Bwbja0V.jpg",
         "costume_id": 1,
-        "originalIndex": 1013
+        "originalIndex": 1015
     },
     {
         "name": "多客森 (Doxan)",
@@ -38910,7 +39012,7 @@ window.allHeroes =
         "family": "superelemental",
         "image": "https://i.imgur.com/aM5vSU2.jpg",
         "costume_id": 0,
-        "originalIndex": 1014
+        "originalIndex": 1016
     },
     {
         "name": "邓纳·哈特 (Dunnar Hart)",
@@ -38947,7 +39049,7 @@ window.allHeroes =
             "对所有敌人造成 500% 伤害。",
             "所有敌人受到腐蚀性灼伤，持续 5 回合。腐蚀性灼伤每回合造成 322 点燃烧伤害，并使目标的防御降低 -13%。对拥有小兵或巨大体型小兵的英雄造成额外伤害。",
             "施法者在 4 回合内获得 1480 点生命加成。提高的生命值可以超过最大生命值。",
-            "施法者获得 +50% 法力生成，持续 4 回合（只影响通过消除英雄格或由防御队伍在其回合结束时获得的法力）。"
+            "施法者获得 +50% 法力生成，持续 4 回合（只影响通过消除方块或由防御队伍在其回合结束时获得的法力）。"
         ],
         "passives": [
             "降低复活几率：战场上所有敌人的复活几率降低。几率为原始值的 20%。"
@@ -38955,7 +39057,7 @@ window.allHeroes =
         "family": "bard",
         "image": "https://imgur.com/Yf46q7H.jpg",
         "costume_id": 0,
-        "originalIndex": 1015
+        "originalIndex": 1017
     },
     {
         "name": "埃芭 (Ebba)",
@@ -38998,7 +39100,7 @@ window.allHeroes =
         "family": "plainshunter",
         "image": "https://i.imgur.com/TiOunHw.jpg",
         "costume_id": 0,
-        "originalIndex": 1016
+        "originalIndex": 1018
     },
     {
         "name": "埃尔杜克 (El Duque)",
@@ -39035,7 +39137,7 @@ window.allHeroes =
         "family": "gargoyle",
         "image": "https://i.imgur.com/37akyr2.jpg",
         "costume_id": 0,
-        "originalIndex": 1017
+        "originalIndex": 1019
     },
     {
         "name": "厄尔巴 (Elba)",
@@ -39073,7 +39175,7 @@ window.allHeroes =
         "family": "cupid",
         "image": "https://i.imgur.com/H1vwtsQ.jpg",
         "costume_id": 0,
-        "originalIndex": 1018
+        "originalIndex": 1020
     },
     {
         "name": "艾琳娜 (Elena)",
@@ -39092,7 +39194,7 @@ window.allHeroes =
             "反击"
         ],
         "source": "S1-经典",
-        "Release date": "2017-01-01",
+        "Release date": "2017-03-01",
         "star": 5,
         "power": 753,
         "attack": 809,
@@ -39106,7 +39208,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/DJkMDg0.jpg",
         "costume_id": 0,
-        "originalIndex": 1019
+        "originalIndex": 1021
     },
     {
         "name": "艾琳娜 (Elena) C1",
@@ -39125,7 +39227,7 @@ window.allHeroes =
             "反击"
         ],
         "source": "S1-经典",
-        "Release date": "2020-01-01",
+        "Release date": "2020-01-20",
         "star": 5,
         "power": 794,
         "attack": 845,
@@ -39139,7 +39241,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/rs8S0na.jpg",
         "costume_id": 1,
-        "originalIndex": 1020
+        "originalIndex": 1022
     },
     {
         "name": "艾琳娜 (Elena) C2",
@@ -39166,13 +39268,13 @@ window.allHeroes =
         "health": 1660,
         "effects": [
             "对所有敌人造成 242% 伤害。",
-            "施法者和附近盟友会以所受伤害的 115% 进行反击，持续 5 回合。反击伤害每回合增加 +10% ，最高可达 155%。"
+            "施法者和附近盟友会以所受伤害的 115% 进行反击，持续 5 回合。反击伤害每回合增加 +10%，最高可达 155%。"
         ],
         "passives": [],
         "family": "classic",
         "image": "https://i.imgur.com/mKIsd5g.jpg",
         "costume_id": 2,
-        "originalIndex": 1021
+        "originalIndex": 1023
     },
     {
         "name": "艾琳娜 (Elena) 卡通",
@@ -39209,7 +39311,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/6Zu6Ag7.jpg",
         "costume_id": 3,
-        "originalIndex": 1022
+        "originalIndex": 1024
     },
     {
         "name": "埃利亚涅 (Eliane)",
@@ -39250,7 +39352,7 @@ window.allHeroes =
         "family": 2025,
         "image": "https://i.imgur.com/MByoToE.jpg",
         "costume_id": 0,
-        "originalIndex": 1023
+        "originalIndex": 1025
     },
     {
         "name": "伊丽莎白 (Elizabeth)",
@@ -39290,7 +39392,7 @@ window.allHeroes =
         "family": "underwild",
         "image": "https://i.imgur.com/5redygr.jpg",
         "costume_id": 0,
-        "originalIndex": 1024
+        "originalIndex": 1026
     },
     {
         "name": "伊丽莎白 (Elizabeth) C1",
@@ -39333,7 +39435,7 @@ window.allHeroes =
         "family": "underwild",
         "image": "https://i.imgur.com/aGoeueo.jpg",
         "costume_id": 1,
-        "originalIndex": 1025
+        "originalIndex": 1027
     },
     {
         "name": "安柏 (Ember)",
@@ -39372,7 +39474,7 @@ window.allHeroes =
         "family": "fox",
         "image": "https://imgur.com/dTQNPFE.jpg",
         "costume_id": 0,
-        "originalIndex": 1026
+        "originalIndex": 1028
     },
     {
         "name": "埃米利奥 (Emilio)",
@@ -39414,7 +39516,7 @@ window.allHeroes =
         "family": "starfall",
         "image": "https://i.imgur.com/iAnFGWC.jpg",
         "costume_id": 0,
-        "originalIndex": 1027
+        "originalIndex": 1029
     },
     {
         "name": "埃米利奥 (Emilio) C1",
@@ -39458,7 +39560,7 @@ window.allHeroes =
         "family": "starfall",
         "image": "https://imgur.com/Jiz6BXT.jpg",
         "costume_id": 1,
-        "originalIndex": 1028
+        "originalIndex": 1030
     },
     {
         "name": "厄瑞玻斯 (Erebus)",
@@ -39505,7 +39607,7 @@ window.allHeroes =
         "family": "styx",
         "image": "https://i.imgur.com/gnNXm6f.jpg",
         "costume_id": 0,
-        "originalIndex": 1029
+        "originalIndex": 1031
     },
     {
         "name": "埃隆 (Eron)",
@@ -39543,7 +39645,7 @@ window.allHeroes =
         "family": "owl",
         "image": "https://i.imgur.com/THCrCkN.jpg",
         "costume_id": 0,
-        "originalIndex": 1030
+        "originalIndex": 1032
     },
     {
         "name": "经验拟态兽 (Experience Mimic)",
@@ -39592,7 +39694,7 @@ window.allHeroes =
         "family": "mimic",
         "image": "https://imgur.com/RRFijVL.jpg",
         "costume_id": 0,
-        "originalIndex": 1031
+        "originalIndex": 1033
     },
     {
         "name": "炎皮 (Flamehide)",
@@ -39631,7 +39733,7 @@ window.allHeroes =
         "family": "garrisonguard",
         "image": "https://imgur.com/6fcJPYy.jpg",
         "costume_id": 0,
-        "originalIndex": 1032
+        "originalIndex": 1034
     },
     {
         "name": "飞力普 (Flip)",
@@ -39670,7 +39772,7 @@ window.allHeroes =
         "family": "beachparty",
         "image": "https://i.imgur.com/VLECZaD.jpg",
         "costume_id": 0,
-        "originalIndex": 1033
+        "originalIndex": 1035
     },
     {
         "name": "飞力普 (Flip) C1",
@@ -39709,7 +39811,7 @@ window.allHeroes =
         "family": "beachparty",
         "image": "https://imgur.com/r5YqJOC.jpg",
         "costume_id": 1,
-        "originalIndex": 1034
+        "originalIndex": 1036
     },
     {
         "name": "富尔维亚 (Fulvia)",
@@ -39739,8 +39841,8 @@ window.allHeroes =
         "health": 1542,
         "effects": [
             "使用月出闪袭攻击目标和附近敌人，造成最多 1440 点伤害。若目标为神圣系元素则额外造成 40% 伤害。",
-            "每回合结束时，目标及附近敌人的法力减少 -15% ，持续 3 回合。",
-            "目标与附近敌人获得的治疗减少 -50% ，持续 3 回合。"
+            "每回合结束时，目标及附近敌人的法力减少 -15%，持续 3 回合。",
+            "目标与附近敌人获得的治疗减少 -50%，持续 3 回合。"
         ],
         "passives": [
             "降低通过特殊技能获得的法力：通过特殊技能增加的法力值降低 -80%。此效果对战场上的所有敌人生效。"
@@ -39748,7 +39850,7 @@ window.allHeroes =
         "family": "owl",
         "image": "https://i.imgur.com/Z2G4Lwa.jpg",
         "costume_id": 0,
-        "originalIndex": 1035
+        "originalIndex": 1037
     },
     {
         "name": "绯红 (Garnet)",
@@ -39789,7 +39891,7 @@ window.allHeroes =
         "family": "ninja",
         "image": "https://i.imgur.com/Vxe7UpD.jpg",
         "costume_id": 0,
-        "originalIndex": 1036
+        "originalIndex": 1038
     },
     {
         "name": "格费因 (Gefjon)",
@@ -39822,7 +39924,7 @@ window.allHeroes =
         "family": "muspelheim",
         "image": "https://i.imgur.com/BYGrEEN.jpg",
         "costume_id": 0,
-        "originalIndex": 1037
+        "originalIndex": 1039
     },
     {
         "name": "格费因 (Gefjon) C1",
@@ -39855,7 +39957,7 @@ window.allHeroes =
         "family": "muspelheim",
         "image": "https://i.imgur.com/ZoOkEJb.jpg",
         "costume_id": 1,
-        "originalIndex": 1038
+        "originalIndex": 1040
     },
     {
         "name": "格式塔 (Gestalt)",
@@ -39904,7 +40006,7 @@ window.allHeroes =
         "family": "nightmaresofatlantis",
         "image": "https://i.imgur.com/vMt41XY.jpg",
         "costume_id": 0,
-        "originalIndex": 1039
+        "originalIndex": 1041
     },
     {
         "name": "格式塔 (Gestalt) C1",
@@ -39954,7 +40056,7 @@ window.allHeroes =
         "family": "nightmaresofatlantis",
         "image": "https://i.imgur.com/WnfoNeZ.jpg",
         "costume_id": 1,
-        "originalIndex": 1040
+        "originalIndex": 1042
     },
     {
         "name": "古兹 (Gooze)",
@@ -39994,7 +40096,7 @@ window.allHeroes =
         "family": "slime",
         "image": "https://imgur.com/GSjZbQW.jpg",
         "costume_id": 0,
-        "originalIndex": 1041
+        "originalIndex": 1043
     },
     {
         "name": "造墓人 (Gravemaker)",
@@ -40016,7 +40118,7 @@ window.allHeroes =
             "防御增益"
         ],
         "source": "月英",
-        "Release date": "2018-06-01T00:00:00",
+        "Release date": "2018-06-01",
         "star": 5,
         "power": 768,
         "attack": 727,
@@ -40032,7 +40134,7 @@ window.allHeroes =
         "family": 2018,
         "image": "https://i.imgur.com/pPTSbFy.jpg",
         "costume_id": 0,
-        "originalIndex": 1042
+        "originalIndex": 1044
     },
     {
         "name": "造墓人 (Gravemaker) C1",
@@ -40071,7 +40173,7 @@ window.allHeroes =
         "family": 2018,
         "image": "https://i.imgur.com/qMb0Vgk.jpg",
         "costume_id": 1,
-        "originalIndex": 1043
+        "originalIndex": 1045
     },
     {
         "name": "格拉祖 (Grazul)",
@@ -40108,7 +40210,7 @@ window.allHeroes =
         "family": 2019,
         "image": "https://i.imgur.com/URTQAvF.jpg",
         "costume_id": 0,
-        "originalIndex": 1044
+        "originalIndex": 1046
     },
     {
         "name": "金刚守护者 (Guardian Kong)",
@@ -40144,7 +40246,7 @@ window.allHeroes =
         "family": "guardiansteltoc",
         "image": "https://i.imgur.com/4n0L387.jpg",
         "costume_id": 0,
-        "originalIndex": 1045
+        "originalIndex": 1047
     },
     {
         "name": "金刚守护者 (Guardian Kong) C1",
@@ -40181,7 +40283,7 @@ window.allHeroes =
         "family": "guardiansteltoc",
         "image": "https://i.imgur.com/cXwWGpL.jpg",
         "costume_id": 1,
-        "originalIndex": 1046
+        "originalIndex": 1048
     },
     {
         "name": "格法 (Guffa)",
@@ -40213,8 +40315,8 @@ window.allHeroes =
         "health": 2142,
         "effects": [
             "施法者获得嘲讽，可阻止敌人对其盟友使用特殊技能，持续 4 回合。",
-            "施法者获得 +40% 法力生成，持续 4 回合（只影响通过消除英雄格或由防御队伍在其回合结束时获得的法力）。",
-            "除施法者外所有盟友获得软化皮肤（他们下次受到的伤害减少 -90% ，并抵抗所有状态异常和法力减损。此效果无法驱散）。",
+            "施法者获得 +40% 法力生成，持续 4 回合（只影响通过消除方块或由防御队伍在其回合结束时获得的法力）。",
+            "除施法者外所有盟友获得软化皮肤（他们下次受到的伤害减少 -90%，并抵抗所有状态异常和法力减损。此效果无法驱散）。",
             "所有盟友在 4 回合后恢复 1400 点生命，或在该技能在持续时间结束前再次施放时立即恢复。此效果无法驱散。"
         ],
         "passives": [
@@ -40223,7 +40325,7 @@ window.allHeroes =
         "family": "gargoyle",
         "image": "https://i.imgur.com/i3PGL4o.jpg",
         "costume_id": 0,
-        "originalIndex": 1047
+        "originalIndex": 1049
     },
     {
         "name": "叮当铁锤 (Hammerclang)",
@@ -40255,7 +40357,7 @@ window.allHeroes =
         "effects": [
             "此特殊技能必定命中。",
             "对目标造成 400% 伤害，并对其余敌人造成轻微伤害。",
-            "所有敌人受到的所有伤害增加 30% ，持续 3 回合。",
+            "所有敌人受到的所有伤害增加 30%，持续 3 回合。",
             "所有敌人获得 -30% 攻击力，持续 3 回合。"
         ],
         "passives": [
@@ -40265,7 +40367,7 @@ window.allHeroes =
         "family": "astralelves",
         "image": "https://i.imgur.com/ujdL1Bx.jpg",
         "costume_id": 0,
-        "originalIndex": 1048
+        "originalIndex": 1050
     },
     {
         "name": "哈索尔 (Hathor)",
@@ -40302,7 +40404,7 @@ window.allHeroes =
         "family": "moon",
         "image": "https://i.imgur.com/sV7BVbk.jpg",
         "costume_id": 0,
-        "originalIndex": 1049
+        "originalIndex": 1051
     },
     {
         "name": "哈索尔 (Hathor) C1",
@@ -40343,7 +40445,7 @@ window.allHeroes =
         "family": "moon",
         "image": "https://i.imgur.com/blidD7L.jpg",
         "costume_id": 1,
-        "originalIndex": 1050
+        "originalIndex": 1052
     },
     {
         "name": "霍恩韦尔夫 (Hohenwerf)",
@@ -40383,7 +40485,7 @@ window.allHeroes =
         "family": "gargoyle",
         "image": "https://i.imgur.com/mNDZ6lN.jpg",
         "costume_id": 0,
-        "originalIndex": 1051
+        "originalIndex": 1053
     },
     {
         "name": "角岩 (Hornfel)",
@@ -40427,7 +40529,7 @@ window.allHeroes =
         "family": "construct",
         "image": "https://i.imgur.com/ScWEXwn.jpg",
         "costume_id": 0,
-        "originalIndex": 1052
+        "originalIndex": 1054
     },
     {
         "name": "修普诺斯 (Hypnos)",
@@ -40476,7 +40578,7 @@ window.allHeroes =
         "family": "styx",
         "image": "https://i.imgur.com/HPFyboz.jpg",
         "costume_id": 0,
-        "originalIndex": 1053
+        "originalIndex": 1055
     },
     {
         "name": "亚莱斯 (Iarlaith)",
@@ -40515,7 +40617,7 @@ window.allHeroes =
         "family": "garrisonguard",
         "image": "https://imgur.com/ruIGzTu.jpg",
         "costume_id": 0,
-        "originalIndex": 1054
+        "originalIndex": 1056
     },
     {
         "name": "伊格纳奇奥 (Ignazio)",
@@ -40560,7 +40662,7 @@ window.allHeroes =
         "family": "superelemental",
         "image": "https://i.imgur.com/y6oi4Yq.jpg",
         "costume_id": 0,
-        "originalIndex": 1055
+        "originalIndex": 1057
     },
     {
         "name": "伊格纳奇奥 (Ignazio) C1",
@@ -40605,7 +40707,7 @@ window.allHeroes =
         "family": "superelemental",
         "image": "https://imgur.com/jf9JtOu.jpg",
         "costume_id": 1,
-        "originalIndex": 1056
+        "originalIndex": 1058
     },
     {
         "name": "伊尔玛利宁 (Ilmarinen)",
@@ -40643,7 +40745,7 @@ window.allHeroes =
         "family": "kalevala",
         "image": "https://i.imgur.com/WriV7pU.jpg",
         "costume_id": 0,
-        "originalIndex": 1057
+        "originalIndex": 1059
     },
     {
         "name": "约坎塔 (Iocantha)",
@@ -40683,7 +40785,7 @@ window.allHeroes =
         "family": "garrisonguard",
         "image": "https://i.imgur.com/mk7552K.jpg",
         "costume_id": 0,
-        "originalIndex": 1058
+        "originalIndex": 1060
     },
     {
         "name": "艾西多尔 (Isidore)",
@@ -40714,7 +40816,7 @@ window.allHeroes =
         "health": 2158,
         "effects": [
             "强化防御异常：所有敌人对特殊技能 -64% 的防御。此效果在敌人受到 3 次特殊技能伤害后消失。",
-            "强化防御异常结束后、被移除或被替换后，敌人治疗量降低 -80% ，持续 6 回合。",
+            "强化防御异常结束后、被移除或被替换后，敌人治疗量降低 -80%，持续 6 回合。",
             "对目标和随机 9 名敌人造成 350% 伤害。每下攻击的伤害都会递减。"
         ],
         "passives": [
@@ -40724,7 +40826,7 @@ window.allHeroes =
         "family": "woodlandfaun",
         "image": "https://i.imgur.com/sj8AKxx.jpg",
         "costume_id": 0,
-        "originalIndex": 1059
+        "originalIndex": 1061
     },
     {
         "name": "艾斯罗德 (Isrod)",
@@ -40760,7 +40862,7 @@ window.allHeroes =
         "family": "villains",
         "image": "https://i.imgur.com/LVoPJQp.jpg",
         "costume_id": 0,
-        "originalIndex": 1060
+        "originalIndex": 1062
     },
     {
         "name": "让-弗朗索瓦 (Jean-Francois)",
@@ -40798,7 +40900,7 @@ window.allHeroes =
         "family": 2020,
         "image": "https://i.imgur.com/Fq9orae.jpg",
         "costume_id": 0,
-        "originalIndex": 1061
+        "originalIndex": 1063
     },
     {
         "name": "可汗 (Khagan)",
@@ -40819,7 +40921,7 @@ window.allHeroes =
             "法力生成增益"
         ],
         "source": "S1-经典",
-        "Release date": "2017-01-01",
+        "Release date": "2017-03-01",
         "star": 5,
         "power": 757,
         "attack": 710,
@@ -40834,7 +40936,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/Qk5TZ17.jpg",
         "costume_id": 0,
-        "originalIndex": 1062
+        "originalIndex": 1064
     },
     {
         "name": "可汗 (Khagan) C1",
@@ -40870,7 +40972,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/Wuav96d.jpg",
         "costume_id": 1,
-        "originalIndex": 1063
+        "originalIndex": 1065
     },
     {
         "name": "可汗 (Khagan) C2",
@@ -40906,7 +41008,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/Az13Jne.jpg",
         "costume_id": 2,
-        "originalIndex": 1064
+        "originalIndex": 1066
     },
     {
         "name": "可汗 (Khagan) 卡通",
@@ -40936,7 +41038,7 @@ window.allHeroes =
         "health": 2415,
         "effects": [
             "对目标及附近敌人造成 530% 伤害。",
-            "施法者和附近盟友获得 +22% 法力生成，持续 5 回合（只影响通过消除英雄格或由防御队伍在其回合结束时获得的法力）。",
+            "施法者和附近盟友获得 +22% 法力生成，持续 5 回合（只影响通过消除方块或由防御队伍在其回合结束时获得的法力）。",
             "施法者和附近盟友获得 +61% 防御，持续 5 回合。",
             "对自然系造成额外伤害。"
         ],
@@ -40946,7 +41048,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/tV5jaYy.jpg",
         "costume_id": 3,
-        "originalIndex": 1065
+        "originalIndex": 1067
     },
     {
         "name": "可汗 (Khagan) 玻璃",
@@ -40987,7 +41089,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://imgur.com/gv5Agq9.jpg",
         "costume_id": 4,
-        "originalIndex": 1066
+        "originalIndex": 1068
     },
     {
         "name": "胡夫 (Khufu)",
@@ -41027,7 +41129,7 @@ window.allHeroes =
         "family": "sun",
         "image": "https://i.imgur.com/waF0HXl.jpg",
         "costume_id": 0,
-        "originalIndex": 1067
+        "originalIndex": 1069
     },
     {
         "name": "胡夫 (Khufu) C1",
@@ -41068,7 +41170,7 @@ window.allHeroes =
         "family": "sun",
         "image": "https://i.imgur.com/5tsbayA.jpg",
         "costume_id": 1,
-        "originalIndex": 1068
+        "originalIndex": 1070
     },
     {
         "name": "克拉夫克鲁什 (Kravekrush)",
@@ -41104,7 +41206,7 @@ window.allHeroes =
         "family": "underwild",
         "image": "https://i.imgur.com/xMJYpsy.jpg",
         "costume_id": 0,
-        "originalIndex": 1069
+        "originalIndex": 1071
     },
     {
         "name": "克拉夫克鲁什 (Kravekrush) C1",
@@ -41141,7 +41243,7 @@ window.allHeroes =
         "family": "underwild",
         "image": "https://i.imgur.com/m5PtQ2l.jpg",
         "costume_id": 1,
-        "originalIndex": 1070
+        "originalIndex": 1072
     },
     {
         "name": "洛基夫人 (Lady Loki)",
@@ -41176,7 +41278,7 @@ window.allHeroes =
         "family": "helheim",
         "image": "https://i.imgur.com/NzRPKjE.jpg",
         "costume_id": 0,
-        "originalIndex": 1071
+        "originalIndex": 1073
     },
     {
         "name": "洛基夫人 (Lady Loki) C1",
@@ -41211,7 +41313,7 @@ window.allHeroes =
         "family": "helheim",
         "image": "https://i.imgur.com/R89Eh1b.jpg",
         "costume_id": 1,
-        "originalIndex": 1072
+        "originalIndex": 1074
     },
     {
         "name": "拉萨尔 (Lasalle)",
@@ -41259,7 +41361,7 @@ window.allHeroes =
         "family": "defendersofatlantis",
         "image": "https://i.imgur.com/bpyUqBe.jpg",
         "costume_id": 0,
-        "originalIndex": 1073
+        "originalIndex": 1075
     },
     {
         "name": "拉萨尔 (Lasalle) C1",
@@ -41307,7 +41409,7 @@ window.allHeroes =
         "family": "defendersofatlantis",
         "image": "https://imgur.com/SU2agg6.jpg",
         "costume_id": 1,
-        "originalIndex": 1074
+        "originalIndex": 1076
     },
     {
         "name": "莱维娜 (Lewena)",
@@ -41341,7 +41443,7 @@ window.allHeroes =
         "family": "raven",
         "image": "https://i.imgur.com/gUcWHX0.jpg",
         "costume_id": 0,
-        "originalIndex": 1075
+        "originalIndex": 1077
     },
     {
         "name": "李逵 (Li Kui)",
@@ -41374,7 +41476,7 @@ window.allHeroes =
             "此特殊技能有几率造成暴击（造成暴击的几率取决于英雄在造成伤害时的总暴击几率。此特殊技能造成的暴击会额外造成 50% 伤害。暴击可以减少PvP战斗中敌人的最大生命值。此效果对拥有生命加成的目标更强）。",
             "对目标和随机 4 名敌人造成 300% 伤害。",
             "施法者获得嘲讽，可阻止敌人对其盟友使用特殊技能，持续 4 回合。",
-            "施法者所受的所有伤害减少 -50% ，持续 4 回合。"
+            "施法者所受的所有伤害减少 -50%，持续 4 回合。"
         ],
         "passives": [
             "特殊攻击暴击时净化：当该角色用特殊技能造成暴击时，会安全地净化所有盟友最新的可净化状态效果。此效果每回合可激活一次。",
@@ -41387,7 +41489,7 @@ window.allHeroes =
         "family": "outlaws",
         "image": "https://imgur.com/lLZBxt1.jpg",
         "costume_id": 0,
-        "originalIndex": 1076
+        "originalIndex": 1078
     },
     {
         "name": "洛迪乌斯 (Lodius)",
@@ -41425,7 +41527,7 @@ window.allHeroes =
         "family": "owl",
         "image": "https://i.imgur.com/SHNhyqR.jpg",
         "costume_id": 0,
-        "originalIndex": 1077
+        "originalIndex": 1079
     },
     {
         "name": "疯锤儿 (Madhammer)",
@@ -41467,7 +41569,7 @@ window.allHeroes =
         "family": "goblin",
         "image": "https://i.imgur.com/dPF8ESH.jpg",
         "costume_id": 0,
-        "originalIndex": 1078
+        "originalIndex": 1080
     },
     {
         "name": "灾厄 (Malum)",
@@ -41481,7 +41583,8 @@ window.allHeroes =
             "蓄力",
             "3个目标最大生命值降低",
             "攻击3个目标",
-            "无视防御"
+            "无视防御",
+            "3个目标每次抵抗治疗时受到伤害"
         ],
         "skill_types": [
             "最大生命削减",
@@ -41519,7 +41622,7 @@ window.allHeroes =
         "family": "ninja",
         "image": "https://i.imgur.com/bcCvi3b.jpg",
         "costume_id": 0,
-        "originalIndex": 1079
+        "originalIndex": 1081
     },
     {
         "name": "马里亚娜 (Marjana)",
@@ -41538,7 +41641,7 @@ window.allHeroes =
             "狙击手"
         ],
         "source": "S1-经典",
-        "Release date": "2017-01-01",
+        "Release date": "2017-03-01",
         "star": 5,
         "power": 755,
         "attack": 669,
@@ -41552,7 +41655,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/H8u69R9.jpg",
         "costume_id": 0,
-        "originalIndex": 1080
+        "originalIndex": 1082
     },
     {
         "name": "马里亚娜 (Marjana) C1",
@@ -41588,7 +41691,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/E1sWcp1.jpg",
         "costume_id": 1,
-        "originalIndex": 1081
+        "originalIndex": 1083
     },
     {
         "name": "马里亚娜 (Marjana) C2",
@@ -41624,7 +41727,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/onSikNW.jpg",
         "costume_id": 2,
-        "originalIndex": 1082
+        "originalIndex": 1084
     },
     {
         "name": "马里亚娜 (Marjana) 卡通",
@@ -41661,7 +41764,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/CuDeIo0.jpg",
         "costume_id": 3,
-        "originalIndex": 1083
+        "originalIndex": 1085
     },
     {
         "name": "马里亚娜 (Marjana) 玻璃",
@@ -41699,7 +41802,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/wWSeZW9.jpg",
         "costume_id": 4,
-        "originalIndex": 1084
+        "originalIndex": 1086
     },
     {
         "name": "光子 (Mitsuko)",
@@ -41721,7 +41824,7 @@ window.allHeroes =
             "反射"
         ],
         "source": "S2-亚特兰蒂斯",
-        "Release date": "2017-01-01",
+        "Release date": "2019-02-01",
         "star": 5,
         "power": 775,
         "attack": 696,
@@ -41736,7 +41839,7 @@ window.allHeroes =
         "family": "sakura",
         "image": "https://i.imgur.com/xMxFVwW.jpg",
         "costume_id": 0,
-        "originalIndex": 1085
+        "originalIndex": 1087
     },
     {
         "name": "光子 (Mitsuko) C1",
@@ -41773,7 +41876,7 @@ window.allHeroes =
         "family": "sakura",
         "image": "https://i.imgur.com/8AHvvyw.jpg",
         "costume_id": 1,
-        "originalIndex": 1086
+        "originalIndex": 1088
     },
     {
         "name": "纳德兹达 (Nadezhda)",
@@ -41812,7 +41915,7 @@ window.allHeroes =
             "2 倍法力充能：",
             "* 每名被击败的盟友有 50% 的几率以 40% 的生命值复活。",
             "* 所有盟友在 3 回合内恢复 714 点生命值。",
-            "* 所有盟友所受的所有伤害减少 -50% ，持续 3 回合。"
+            "* 所有盟友所受的所有伤害减少 -50%，持续 3 回合。"
         ],
         "passives": [
             "特殊技能恢复生命：当该角色施放其特殊技能时，有 50% 的几率为所有队友恢复 15% 的生命值。如果特殊技能完全充能，则几率为 100%。"
@@ -41820,7 +41923,7 @@ window.allHeroes =
         "family": "magic",
         "image": "https://i.imgur.com/i5g8Fr0.jpg",
         "costume_id": 0,
-        "originalIndex": 1087
+        "originalIndex": 1089
     },
     {
         "name": "纳伊姆 (Naeem)",
@@ -41865,7 +41968,7 @@ window.allHeroes =
         "family": "magiccarpet",
         "image": "https://imgur.com/F7qBR0P.jpg",
         "costume_id": 0,
-        "originalIndex": 1088
+        "originalIndex": 1090
     },
     {
         "name": "娜塔莉亚 (Natalya)",
@@ -41886,7 +41989,7 @@ window.allHeroes =
             "法力削减或格挡"
         ],
         "source": "月英",
-        "Release date": "2018-01-01T00:00:00",
+        "Release date": "2018-01-01",
         "star": 5,
         "power": 765,
         "attack": 718,
@@ -41902,7 +42005,7 @@ window.allHeroes =
         "family": 2018,
         "image": "https://i.imgur.com/vuOEJDC.jpg",
         "costume_id": 0,
-        "originalIndex": 1089
+        "originalIndex": 1091
     },
     {
         "name": "娜塔莉亚 (Natalya) C1",
@@ -41942,7 +42045,7 @@ window.allHeroes =
         "family": 2018,
         "image": "https://i.imgur.com/IO9WHYd.jpg",
         "costume_id": 1,
-        "originalIndex": 1090
+        "originalIndex": 1092
     },
     {
         "name": "尼马 (Neema)",
@@ -41985,7 +42088,7 @@ window.allHeroes =
         "family": 2023,
         "image": "https://i.imgur.com/hih0AUp.jpg",
         "costume_id": 0,
-        "originalIndex": 1091
+        "originalIndex": 1093
     },
     {
         "name": "尼布尔斯 (Nibbles)",
@@ -42024,7 +42127,7 @@ window.allHeroes =
         "family": "fox",
         "image": "https://imgur.com/i6CnqeB.jpg",
         "costume_id": 0,
-        "originalIndex": 1092
+        "originalIndex": 1094
     },
     {
         "name": "妮姬 (Niki)",
@@ -42065,7 +42168,7 @@ window.allHeroes =
         "family": "superelemental",
         "image": "https://i.imgur.com/yN68oIc.jpg",
         "costume_id": 0,
-        "originalIndex": 1093
+        "originalIndex": 1095
     },
     {
         "name": "浪子 (Nomad)",
@@ -42097,7 +42200,7 @@ window.allHeroes =
         "effects": [
             "1 倍法力充能：",
             "* 对目标造成 400% 伤害。",
-            "* 如果目标剩余生命少于 50% ，可对其造成 600% 伤害。",
+            "* 如果目标剩余生命少于 50%，可对其造成 600% 伤害。",
             "* 如果目标被此攻击击败，所有盟友将获得 +20% 法力生成，持续 2 回合。",
             "2 倍法力充能：",
             "* 对目标及附近敌人造成 425% 伤害。",
@@ -42114,7 +42217,7 @@ window.allHeroes =
         "family": "ninja",
         "image": "https://i.imgur.com/k0TDdBr.jpg",
         "costume_id": 0,
-        "originalIndex": 1094
+        "originalIndex": 1096
     },
     {
         "name": "诺尔 (Noor)",
@@ -42154,7 +42257,7 @@ window.allHeroes =
         "family": 2020,
         "image": "https://i.imgur.com/GEznO1b.jpg",
         "costume_id": 0,
-        "originalIndex": 1095
+        "originalIndex": 1097
     },
     {
         "name": "诺曼 (Norman)",
@@ -42193,7 +42296,7 @@ window.allHeroes =
         "family": "champions",
         "image": "https://i.imgur.com/xFLIwuu.jpg",
         "costume_id": 0,
-        "originalIndex": 1096
+        "originalIndex": 1098
     },
     {
         "name": "俄刻阿诺斯 (Oceanus)",
@@ -42229,7 +42332,7 @@ window.allHeroes =
         "family": "atlantis",
         "image": "https://i.imgur.com/BZVWKzM.jpg",
         "costume_id": 0,
-        "originalIndex": 1097
+        "originalIndex": 1099
     },
     {
         "name": "奥克特斯 (Octros)",
@@ -42266,7 +42369,7 @@ window.allHeroes =
         "family": "underwild",
         "image": "https://i.imgur.com/zGSnaa1.jpg",
         "costume_id": 0,
-        "originalIndex": 1098
+        "originalIndex": 1100
     },
     {
         "name": "奥克特斯 (Octros) C1",
@@ -42295,7 +42398,7 @@ window.allHeroes =
         "health": 1657,
         "effects": [
             "对所有敌人造成 160% 伤害。",
-            "面板上每拥有一个烈火系盾牌，伤害就会增加 35% ，最多造成 440% 伤害。",
+            "面板上每拥有一个烈火系盾牌，伤害就会增加 35%，最多造成 440% 伤害。",
             "所有敌人获得 -24% 攻击力，持续 3 回合。"
         ],
         "passives": [
@@ -42305,7 +42408,7 @@ window.allHeroes =
         "family": "underwild",
         "image": "https://i.imgur.com/uAzDRXt.jpg",
         "costume_id": 1,
-        "originalIndex": 1099
+        "originalIndex": 1101
     },
     {
         "name": "奥门 (Omen)",
@@ -42347,7 +42450,7 @@ window.allHeroes =
         "family": "cultist",
         "image": "https://i.imgur.com/lX6ylxv.jpg",
         "costume_id": 0,
-        "originalIndex": 1100
+        "originalIndex": 1102
     },
     {
         "name": "奥提斯 (Otis)",
@@ -42378,7 +42481,7 @@ window.allHeroes =
         "effects": [
             "对所有敌人造成 370% 伤害。",
             "所有敌人在 4 回合内受到共计 575 点流血伤害，一开始伤害较低，之后每个回合会逐渐增加。",
-            "所有敌人获得的治疗减少 -70% ，持续 4 回合。所获得的治疗每回合减少 -10% ，最高可达 -100%。"
+            "所有敌人获得的治疗减少 -70%，持续 4 回合。所获得的治疗每回合减少 -10%，最高可达 -100%。"
         ],
         "passives": [
             "猎手感知：当该角色施放其特殊技能时，有 100% 的几率将自身最新的状态异常转移给目标。如果其特殊技能无法选择敌方目标，则会随机转移至一名敌人。若此角色没有状态异常，则恢复自身 12% 的生命。",
@@ -42387,7 +42490,7 @@ window.allHeroes =
         "family": "abysshunter",
         "image": "https://i.imgur.com/z2xqRCU.jpg",
         "costume_id": 0,
-        "originalIndex": 1101
+        "originalIndex": 1103
     },
     {
         "name": "奥蒂利娅 (Ottilia)",
@@ -42426,7 +42529,7 @@ window.allHeroes =
         "family": "christmas",
         "image": "https://i.imgur.com/Y8kn5Mx.jpg",
         "costume_id": 0,
-        "originalIndex": 1102
+        "originalIndex": 1104
     },
     {
         "name": "椒焰 (Pepperflame)",
@@ -42466,7 +42569,7 @@ window.allHeroes =
         "family": "goblin",
         "image": "https://i.imgur.com/O681MYE.jpg",
         "costume_id": 0,
-        "originalIndex": 1103
+        "originalIndex": 1105
     },
     {
         "name": "菲妮克莎 (Phenexa)",
@@ -42507,7 +42610,7 @@ window.allHeroes =
         "family": "bard",
         "image": "https://i.imgur.com/LzmbqjK.jpg",
         "costume_id": 0,
-        "originalIndex": 1104
+        "originalIndex": 1106
     },
     {
         "name": "普鲁斯 (Pluth)",
@@ -42549,7 +42652,7 @@ window.allHeroes =
         "family": "astraldwarfs",
         "image": "https://i.imgur.com/OSAvxSD.jpg",
         "costume_id": 0,
-        "originalIndex": 1105
+        "originalIndex": 1107
     },
     {
         "name": "穿靴子的猫 (Puss in Boots)",
@@ -42571,7 +42674,7 @@ window.allHeroes =
             "对自身或友军负面效果"
         ],
         "source": "挑战节-肃煞森林",
-        "Release date": "2017-01-01",
+        "Release date": "2019-12-01",
         "star": 5,
         "power": 781,
         "attack": 764,
@@ -42587,7 +42690,7 @@ window.allHeroes =
         "family": "grimforest",
         "image": "https://i.imgur.com/H73nb1h.jpg",
         "costume_id": 0,
-        "originalIndex": 1106
+        "originalIndex": 1108
     },
     {
         "name": "穿靴子的猫 (Puss in Boots) C1",
@@ -42625,7 +42728,7 @@ window.allHeroes =
         "family": "grimforest",
         "image": "https://i.imgur.com/emXl6nU.jpg",
         "costume_id": 1,
-        "originalIndex": 1107
+        "originalIndex": 1109
     },
     {
         "name": "红桃王后 (Queen of Hearts)",
@@ -42647,7 +42750,7 @@ window.allHeroes =
             "嘲讽"
         ],
         "source": "挑战节-仙境",
-        "Release date": "2019-02-01",
+        "Release date": "2019-02-14",
         "star": 5,
         "power": 768,
         "attack": 638,
@@ -42663,7 +42766,7 @@ window.allHeroes =
         "family": "wonderland",
         "image": "https://i.imgur.com/12RLqSK.jpg",
         "costume_id": 0,
-        "originalIndex": 1108
+        "originalIndex": 1110
     },
     {
         "name": "红桃王后 (Queen of Hearts) C1",
@@ -42703,7 +42806,7 @@ window.allHeroes =
         "family": "wonderland",
         "image": "https://i.imgur.com/q5xoHJ1.jpg",
         "costume_id": 1,
-        "originalIndex": 1109
+        "originalIndex": 1111
     },
     {
         "name": "拉杰什 (Rajesh)",
@@ -42755,7 +42858,7 @@ window.allHeroes =
         "family": "wildcat",
         "image": "https://i.imgur.com/8rK2qLv.jpg",
         "costume_id": 0,
-        "originalIndex": 1110
+        "originalIndex": 1112
     },
     {
         "name": "拉尚 (Rashan)",
@@ -42767,7 +42870,7 @@ window.allHeroes =
         "skill": "葫芦切片",
         "types": [
             "攻击2个目标",
-            "2个目标狂乱",
+            "2个目标每次抵抗治疗时受到伤害",
             "自我狂乱"
         ],
         "skill_types": [
@@ -42793,7 +42896,7 @@ window.allHeroes =
         "family": "cultist",
         "image": "https://i.imgur.com/WJH09pj.jpg",
         "costume_id": 0,
-        "originalIndex": 1111
+        "originalIndex": 1113
     },
     {
         "name": "雷 (Ray)",
@@ -42849,7 +42952,7 @@ window.allHeroes =
         "family": "magic",
         "image": "https://i.imgur.com/0vSBWSh.jpg",
         "costume_id": 0,
-        "originalIndex": 1112
+        "originalIndex": 1114
     },
     {
         "name": "小红帽 (Red Hood)",
@@ -42870,7 +42973,7 @@ window.allHeroes =
             "召唤小兵"
         ],
         "source": "挑战节-肃煞森林",
-        "Release date": "2017-01-01",
+        "Release date": "2019-12-01",
         "star": 5,
         "power": 767,
         "attack": 729,
@@ -42884,7 +42987,7 @@ window.allHeroes =
         "family": "grimforest",
         "image": "https://i.imgur.com/P4he1aZ.jpg",
         "costume_id": 0,
-        "originalIndex": 1113
+        "originalIndex": 1115
     },
     {
         "name": "雷金 (Regin)",
@@ -42931,7 +43034,7 @@ window.allHeroes =
         "family": "nidavellir",
         "image": "https://i.imgur.com/IX7uDP5.jpg",
         "costume_id": 0,
-        "originalIndex": 1114
+        "originalIndex": 1116
     },
     {
         "name": "鲁本 (Reuben)",
@@ -42959,7 +43062,7 @@ window.allHeroes =
         "health": 1310,
         "effects": [
             "对目标及附近敌人造成 310% 伤害。",
-            "所有盟友因状态异常受到的伤害降低 -75% ，持续 4 回合。",
+            "所有盟友因状态异常受到的伤害降低 -75%，持续 4 回合。",
             "元素链为所有烈火系盟友召唤出一名火焰小兵，其可从施法者处继承 6% 生命和 10% 攻击力。"
         ],
         "passives": [
@@ -42968,7 +43071,7 @@ window.allHeroes =
         "family": 2020,
         "image": "https://i.imgur.com/0xyk3F5.jpg",
         "costume_id": 0,
-        "originalIndex": 1115
+        "originalIndex": 1117
     },
     {
         "name": "蕾夫娜 (Revna)",
@@ -42991,7 +43094,7 @@ window.allHeroes =
             "反射"
         ],
         "source": "盟约召唤",
-        "Release date": "2024-10-18T11:30:00",
+        "Release date": "2024-10-18",
         "star": 5,
         "power": 1143,
         "attack": 1124,
@@ -43009,7 +43112,7 @@ window.allHeroes =
         "family": "plainshunter",
         "image": "https://i.imgur.com/Uu7gHck.jpg",
         "costume_id": 0,
-        "originalIndex": 1116
+        "originalIndex": 1118
     },
     {
         "name": "火箭 (Rocket)",
@@ -43049,7 +43152,7 @@ window.allHeroes =
         "family": "goblin",
         "image": "https://i.imgur.com/BGl8jIC.jpg",
         "costume_id": 0,
-        "originalIndex": 1117
+        "originalIndex": 1119
     },
     {
         "name": "罗莎娜 (Rosanna)",
@@ -43086,7 +43189,7 @@ window.allHeroes =
         "family": "investigator",
         "image": "https://imgur.com/nHDvy8i.jpg",
         "costume_id": 0,
-        "originalIndex": 1118
+        "originalIndex": 1120
     },
     {
         "name": "拉菲恩与呢姬布 (Roughian & Nurgib)",
@@ -43128,7 +43231,7 @@ window.allHeroes =
         "family": 2023,
         "image": "https://i.imgur.com/zCcV9K1.jpg",
         "costume_id": 0,
-        "originalIndex": 1119
+        "originalIndex": 1121
     },
     {
         "name": "鲁瓦 (Ruadh)",
@@ -43164,8 +43267,8 @@ window.allHeroes =
             "驱散所有敌人的增益。",
             "对所有敌人造成 400% 伤害。",
             "每移除一个状态效果便造成额外 10% 伤害，最多累计造成 500% 伤害。",
-            "所有盟友获得 +40% 攻击力，每移除一个状态效果便再增加 +2% 攻击力，最高可达 +60% ，持续 6 回合。",
-            "所有盟友获得 +40% 防御，每移除一个状态效果便再增加 +2% 防御，最高可达 +60% ，持续 6 回合。",
+            "所有盟友获得 +40% 攻击力，每移除一个状态效果便再增加 +2% 攻击力，最高可达 +60%，持续 6 回合。",
+            "所有盟友获得 +40% 防御，每移除一个状态效果便再增加 +2% 防御，最高可达 +60%，持续 6 回合。",
             "施法者在 6 回合内获得共计 1500 点生命加成。提高的生命值可以超过最大生命值。"
         ],
         "passives": [
@@ -43175,7 +43278,7 @@ window.allHeroes =
         "family": "plainshunter",
         "image": "https://i.imgur.com/O01zlXm.jpg",
         "costume_id": 0,
-        "originalIndex": 1120
+        "originalIndex": 1122
     },
     {
         "name": "露比 (Ruby)",
@@ -43223,7 +43326,7 @@ window.allHeroes =
         "family": "ninja",
         "image": "https://i.imgur.com/LIQiSIc.jpg",
         "costume_id": 0,
-        "originalIndex": 1121
+        "originalIndex": 1123
     },
     {
         "name": "拉塞尔 (Russell)",
@@ -43254,7 +43357,7 @@ window.allHeroes =
             "此特殊技能必定命中。",
             "对目标造成 400% 伤害。",
             "目标与附近敌人在 3 回合内受到共计 381 点燃烧伤害。",
-            "元素链给予所有烈火系盟友受到的治疗增加 +10% ，持续 4 回合。此效果无法驱散。"
+            "元素链给予所有烈火系盟友受到的治疗增加 +10%，持续 4 回合。此效果无法驱散。"
         ],
         "passives": [
             "抵抗攻击异常：该角色天生对影响攻击力的状态异常有抵抗能力。",
@@ -43263,7 +43366,7 @@ window.allHeroes =
         "family": 2021,
         "image": "https://i.imgur.com/EoY0Pni.jpg",
         "costume_id": 0,
-        "originalIndex": 1122
+        "originalIndex": 1124
     },
     {
         "name": "腊斯特 (Rust)",
@@ -43304,7 +43407,7 @@ window.allHeroes =
         "family": "fox",
         "image": "https://i.imgur.com/4i0UTeY.jpg",
         "costume_id": 0,
-        "originalIndex": 1123
+        "originalIndex": 1125
     },
     {
         "name": "萨利马塔 (Salimata)",
@@ -43337,8 +43440,8 @@ window.allHeroes =
             "驱散目标和附近敌人身上的增益。",
             "对目标及附近敌人造成 375% 伤害。",
             "目标与附近敌人受到小兵创伤，持续 3 回合。",
-            "小兵创伤：目标的小兵生命每回合减少 50% ，超级小兵生命每回合减少 25% （此效果对其拥有的小兵和任何获得的任何小兵皆有效。减损效果只影响小兵当前生命值）。",
-            "目标与附近敌人获得的治疗减少 -80% ，持续 3 回合。"
+            "小兵创伤：目标的小兵生命每回合减少 50%，超级小兵生命每回合减少 25% （此效果对其拥有的小兵和任何获得的任何小兵皆有效。减损效果只影响小兵当前生命值）。",
+            "目标与附近敌人获得的治疗减少 -80%，持续 3 回合。"
         ],
         "passives": [
             "快节奏民谣：所有由敌人施放的民谣仅持续 1 回合。",
@@ -43347,7 +43450,7 @@ window.allHeroes =
         "family": "bard",
         "image": "https://i.imgur.com/UX2vcRH.jpg",
         "costume_id": 0,
-        "originalIndex": 1124
+        "originalIndex": 1126
     },
     {
         "name": "圣诞老人 (Santa Claus)",
@@ -43386,7 +43489,7 @@ window.allHeroes =
         "family": "christmas",
         "image": "https://i.imgur.com/gDDhARF.jpg",
         "costume_id": 0,
-        "originalIndex": 1125
+        "originalIndex": 1127
     },
     {
         "name": "圣诞老人 (Santa Claus) C1",
@@ -43425,7 +43528,7 @@ window.allHeroes =
         "family": "christmas",
         "image": "https://i.imgur.com/3zbVEXc.jpg",
         "costume_id": 1,
-        "originalIndex": 1126
+        "originalIndex": 1128
     },
     {
         "name": "西尔莎 (Saoirse)",
@@ -43468,7 +43571,7 @@ window.allHeroes =
         "family": "slayer",
         "image": "https://i.imgur.com/pHj3rld.jpg",
         "costume_id": 0,
-        "originalIndex": 1127
+        "originalIndex": 1129
     },
     {
         "name": "西尔莎 (Saoirse) C1",
@@ -43513,7 +43616,7 @@ window.allHeroes =
         "family": "slayer",
         "image": "https://i.imgur.com/yHVhyhO.jpg",
         "costume_id": 1,
-        "originalIndex": 1128
+        "originalIndex": 1130
     },
     {
         "name": "熔砾 (Scoria)",
@@ -43557,7 +43660,7 @@ window.allHeroes =
         "family": "construct",
         "image": "https://i.imgur.com/wqf6SNR.jpg",
         "costume_id": 0,
-        "originalIndex": 1129
+        "originalIndex": 1131
     },
     {
         "name": "塞赫美特 (Sekhmet)",
@@ -43594,7 +43697,7 @@ window.allHeroes =
         "family": "sun",
         "image": "https://i.imgur.com/8oISZes.jpg",
         "costume_id": 0,
-        "originalIndex": 1130
+        "originalIndex": 1132
     },
     {
         "name": "塞赫美特 (Sekhmet) C1",
@@ -43633,7 +43736,7 @@ window.allHeroes =
         "family": "sun",
         "image": "https://i.imgur.com/ykQVLB2.jpg",
         "costume_id": 1,
-        "originalIndex": 1131
+        "originalIndex": 1133
     },
     {
         "name": "桃针 (Serandite)",
@@ -43666,21 +43769,21 @@ window.allHeroes =
             "1 倍法力充能：",
             "- 对所有敌人造成 160% 伤害。",
             "- 所有敌人在 2 回合内受到共计 256 点燃烧伤害。",
-            "- 所有敌人获得的治疗减少 -64% ，持续 2 回合。",
+            "- 所有敌人获得的治疗减少 -64%，持续 2 回合。",
             "2 倍法力充能：",
             "- 对所有敌人造成 275% 伤害。",
             "- 所有敌人在 3 回合内受到共计 561 点燃烧伤害。",
-            "- 所有敌人获得的治疗减少 -74% ，持续 3 回合。",
+            "- 所有敌人获得的治疗减少 -74%，持续 3 回合。",
             "3 倍法力充能：",
             "- 对所有敌人造成 340% 伤害。",
             "- 所有敌人在 4 回合内受到共计 840 点燃烧伤害。",
-            "- 所有敌人获得的治疗减少 -84% ，持续 4 回合。"
+            "- 所有敌人获得的治疗减少 -84%，持续 4 回合。"
         ],
         "passives": [],
         "family": "ninja",
         "image": "https://i.imgur.com/3lmxyeL.jpg",
         "costume_id": 0,
-        "originalIndex": 1132
+        "originalIndex": 1134
     },
     {
         "name": "斯卡格列马 (Skargremar)",
@@ -43721,7 +43824,7 @@ window.allHeroes =
         "family": 2023,
         "image": "https://i.imgur.com/biXpSCt.jpg",
         "costume_id": 0,
-        "originalIndex": 1133
+        "originalIndex": 1135
     },
     {
         "name": "闪焰 (Sparklight)",
@@ -43763,7 +43866,7 @@ window.allHeroes =
         "family": "astralelves",
         "image": "https://i.imgur.com/wnVpRMp.jpg",
         "costume_id": 0,
-        "originalIndex": 1134
+        "originalIndex": 1136
     },
     {
         "name": "孙权 (Sun Quan)",
@@ -43799,7 +43902,7 @@ window.allHeroes =
         "family": "kingdom",
         "image": "https://i.imgur.com/EShG44Z.jpg",
         "costume_id": 0,
-        "originalIndex": 1135
+        "originalIndex": 1137
     },
     {
         "name": "孙权 (Sun Quan) C1",
@@ -43840,7 +43943,7 @@ window.allHeroes =
         "family": "kingdom",
         "image": "https://i.imgur.com/FrxOT5n.jpg",
         "costume_id": 1,
-        "originalIndex": 1136
+        "originalIndex": 1138
     },
     {
         "name": "塔希尔 (Tahir)",
@@ -43881,7 +43984,7 @@ window.allHeroes =
         "family": 2022,
         "image": "https://i.imgur.com/CooQRgw.jpg",
         "costume_id": 0,
-        "originalIndex": 1137
+        "originalIndex": 1139
     },
     {
         "name": "特里谢里 (Tetisheri)",
@@ -43921,7 +44024,7 @@ window.allHeroes =
         "family": "moon",
         "image": "https://i.imgur.com/vkAXXiK.jpg",
         "costume_id": 0,
-        "originalIndex": 1138
+        "originalIndex": 1140
     },
     {
         "name": "特里谢里 (Tetisheri) C1",
@@ -43962,7 +44065,7 @@ window.allHeroes =
         "family": "moon",
         "image": "https://i.imgur.com/TVr5JnF.jpg",
         "costume_id": 1,
-        "originalIndex": 1139
+        "originalIndex": 1141
     },
     {
         "name": "蒂莫西 (Timothy)",
@@ -43997,7 +44100,7 @@ window.allHeroes =
         "family": "springvale",
         "image": "https://i.imgur.com/64Tdmgl.jpg",
         "costume_id": 0,
-        "originalIndex": 1140
+        "originalIndex": 1142
     },
     {
         "name": "托本 (Torben)",
@@ -44036,7 +44139,7 @@ window.allHeroes =
         "family": "bear",
         "image": "https://i.imgur.com/bzqfe23.jpg",
         "costume_id": 0,
-        "originalIndex": 1141
+        "originalIndex": 1143
     },
     {
         "name": "泰尔 (Tyr)",
@@ -44061,7 +44164,7 @@ window.allHeroes =
             "狙击手"
         ],
         "source": "S3-瓦尔哈拉",
-        "Release date": "2017-01-01",
+        "Release date": "2020-02-28",
         "star": 5,
         "power": 790,
         "attack": 772,
@@ -44078,7 +44181,7 @@ window.allHeroes =
         "family": "helheim",
         "image": "https://i.imgur.com/tjoH1nb.jpg",
         "costume_id": 0,
-        "originalIndex": 1142
+        "originalIndex": 1144
     },
     {
         "name": "泰尔 (Tyr) C1",
@@ -44118,7 +44221,7 @@ window.allHeroes =
         "family": "helheim",
         "image": "https://i.imgur.com/7UO34fo.jpg",
         "costume_id": 1,
-        "originalIndex": 1143
+        "originalIndex": 1145
     },
     {
         "name": "乌戈宁 (Ukkonen)",
@@ -44159,7 +44262,7 @@ window.allHeroes =
         "family": "kalevala",
         "image": "https://i.imgur.com/tAIchka.jpg",
         "costume_id": 0,
-        "originalIndex": 1144
+        "originalIndex": 1146
     },
     {
         "name": "乌戈宁 (Ukkonen) C1",
@@ -44200,7 +44303,7 @@ window.allHeroes =
         "family": "kalevala",
         "image": "https://i.imgur.com/0QCrvIl.jpg",
         "costume_id": 1,
-        "originalIndex": 1145
+        "originalIndex": 1147
     },
     {
         "name": "凡达 (Vanda)",
@@ -44230,7 +44333,7 @@ window.allHeroes =
         "health": 1384,
         "effects": [
             "对所有敌人造成 125% 伤害。",
-            "施法者偷取所有敌人所获治疗的 61% ，持续 2 回合。",
+            "施法者偷取所有敌人所获治疗的 61%，持续 2 回合。",
             "所有盟友对新的状态异常免疫，持续 2 回合。"
         ],
         "passives": [
@@ -44239,7 +44342,7 @@ window.allHeroes =
         "family": "morlovia",
         "image": "https://i.imgur.com/FsFObHs.jpg",
         "costume_id": 0,
-        "originalIndex": 1146
+        "originalIndex": 1148
     },
     {
         "name": "凡达 (Vanda) C1",
@@ -44269,7 +44372,7 @@ window.allHeroes =
         "health": 1732,
         "effects": [
             "对所有敌人造成 115% 伤害。",
-            "施法者偷取所有敌人所获治疗的 51% ，持续 3 回合。",
+            "施法者偷取所有敌人所获治疗的 51%，持续 3 回合。",
             "所有盟友对新的状态异常免疫，持续 3 回合。"
         ],
         "passives": [
@@ -44278,7 +44381,7 @@ window.allHeroes =
         "family": "morlovia",
         "image": "https://i.imgur.com/yADk9kZ.jpg",
         "costume_id": 1,
-        "originalIndex": 1147
+        "originalIndex": 1149
     },
     {
         "name": "万亚 (Vanya)",
@@ -44317,7 +44420,7 @@ window.allHeroes =
         "family": "garrisonguard",
         "image": "https://i.imgur.com/1zUxxx9.jpg",
         "costume_id": 0,
-        "originalIndex": 1148
+        "originalIndex": 1150
     },
     {
         "name": "仙妲 (Xenda)",
@@ -44357,7 +44460,7 @@ window.allHeroes =
         "family": "underwild",
         "image": "https://i.imgur.com/pr4mBGS.jpg",
         "costume_id": 0,
-        "originalIndex": 1149
+        "originalIndex": 1151
     },
     {
         "name": "仙妲 (Xenda) C1",
@@ -44398,7 +44501,7 @@ window.allHeroes =
         "family": "underwild",
         "image": "https://i.imgur.com/QhwvGtU.jpg",
         "costume_id": 1,
-        "originalIndex": 1150
+        "originalIndex": 1152
     },
     {
         "name": "小兔 (Xiaotu)",
@@ -44410,7 +44513,7 @@ window.allHeroes =
         "skill": "反药为毒",
         "types": [
             "攻击单个目标",
-            "3个目标抵抗治疗"
+            "3个目标每次抵抗治疗时受到伤害"
         ],
         "skill_types": [
             "治疗削减",
@@ -44434,7 +44537,7 @@ window.allHeroes =
         "family": "lunaryear",
         "image": "https://i.imgur.com/BFeoiOp.jpg",
         "costume_id": 0,
-        "originalIndex": 1151
+        "originalIndex": 1153
     },
     {
         "name": "西王母 (Xiwangmu)",
@@ -44473,7 +44576,7 @@ window.allHeroes =
         "family": "journey",
         "image": "https://i.imgur.com/f2m1LGV.jpg",
         "costume_id": 0,
-        "originalIndex": 1152
+        "originalIndex": 1154
     },
     {
         "name": "阳舞 (Yang Mai)",
@@ -44515,7 +44618,7 @@ window.allHeroes =
         "family": 2021,
         "image": "https://i.imgur.com/vzzuVpu.jpg",
         "costume_id": 0,
-        "originalIndex": 1153
+        "originalIndex": 1155
     },
     {
         "name": "约兰达 (Yolanda)",
@@ -44555,7 +44658,7 @@ window.allHeroes =
         "family": "woodlandfaun",
         "image": "https://imgur.com/5U97Fz9.jpg",
         "costume_id": 0,
-        "originalIndex": 1154
+        "originalIndex": 1156
     },
     {
         "name": "扎戈洛格 (Zagrog)",
@@ -44595,7 +44698,7 @@ window.allHeroes =
         "family": 2022,
         "image": "https://i.imgur.com/jTxW191.jpg",
         "costume_id": 0,
-        "originalIndex": 1155
+        "originalIndex": 1157
     },
     {
         "name": "扎尔加 (Zarga)",
@@ -44636,7 +44739,7 @@ window.allHeroes =
         "family": 2024,
         "image": "https://i.imgur.com/Xh5bTXR.jpg",
         "costume_id": 0,
-        "originalIndex": 1156
+        "originalIndex": 1158
     },
     {
         "name": "萨里亚 (Zaria)",
@@ -44675,7 +44778,7 @@ window.allHeroes =
         "family": "superelemental",
         "image": "https://i.imgur.com/kfVoysd.jpg",
         "costume_id": 0,
-        "originalIndex": 1157
+        "originalIndex": 1159
     },
     {
         "name": "季诺碧亚 (Zenobia)",
@@ -44714,7 +44817,7 @@ window.allHeroes =
         "family": "underwild",
         "image": "https://i.imgur.com/H6eN1G6.jpg",
         "costume_id": 0,
-        "originalIndex": 1158
+        "originalIndex": 1160
     },
     {
         "name": "季诺碧亚 (Zenobia) C1",
@@ -44734,7 +44837,7 @@ window.allHeroes =
             "攻击增益",
             "狙击手",
             "攻击减益",
-            "Buffers(ATK)",
+            "攻击增益",
             "额外伤害"
         ],
         "source": "S4-蛮荒地界",
@@ -44755,7 +44858,7 @@ window.allHeroes =
         "family": "underwild",
         "image": "https://i.imgur.com/lrLa3g9.jpg",
         "costume_id": 1,
-        "originalIndex": 1159
+        "originalIndex": 1161
     },
     {
         "name": "齐丹 (Zidane)",
@@ -44802,7 +44905,7 @@ window.allHeroes =
         "family": 2024,
         "image": "https://i.imgur.com/csrWBuw.jpg",
         "costume_id": 0,
-        "originalIndex": 1160
+        "originalIndex": 1162
     },
     {
         "name": "西姆吉塔 (Zimkitha)",
@@ -44824,7 +44927,7 @@ window.allHeroes =
             "持续治疗"
         ],
         "source": "月英",
-        "Release date": "2018-11-01T00:00:00",
+        "Release date": "2018-11-01",
         "star": 5,
         "power": 769,
         "attack": 714,
@@ -44840,7 +44943,7 @@ window.allHeroes =
         "family": 2018,
         "image": "https://i.imgur.com/ZnoCx4D.jpg",
         "costume_id": 0,
-        "originalIndex": 1161
+        "originalIndex": 1163
     },
     {
         "name": "西姆吉塔 (Zimkitha) C1",
@@ -44879,7 +44982,7 @@ window.allHeroes =
         "family": 2018,
         "image": "https://i.imgur.com/M65Mn9a.jpg",
         "costume_id": 1,
-        "originalIndex": 1162
+        "originalIndex": 1164
     },
     {
         "name": "光 (Hikaru)",
@@ -44896,7 +44999,7 @@ window.allHeroes =
             "狙击手"
         ],
         "source": "S1-经典",
-        "Release date": "2017-01-01",
+        "Release date": "2017-03-01",
         "star": 1,
         "power": 213,
         "attack": 222,
@@ -44909,7 +45012,7 @@ window.allHeroes =
         "family": null,
         "image": "https://i.imgur.com/siyozo3.jpg",
         "costume_id": 0,
-        "originalIndex": 1163
+        "originalIndex": 1165
     },
     {
         "name": "健次郎 (Kenjiro)",
@@ -44926,7 +45029,7 @@ window.allHeroes =
             "全体攻击 (打5)"
         ],
         "source": "S1-经典",
-        "Release date": "2017-01-01",
+        "Release date": "2017-03-01",
         "star": 1,
         "power": 211,
         "attack": 205,
@@ -44939,7 +45042,7 @@ window.allHeroes =
         "family": null,
         "image": "https://i.imgur.com/C6MAFbk.jpg",
         "costume_id": 0,
-        "originalIndex": 1164
+        "originalIndex": 1166
     },
     {
         "name": "猴 (Hou)",
@@ -44956,7 +45059,7 @@ window.allHeroes =
             "防御增益"
         ],
         "source": "S1-经典",
-        "Release date": "2017-01-01",
+        "Release date": "2017-03-01",
         "star": 2,
         "power": 336,
         "attack": 366,
@@ -44969,7 +45072,7 @@ window.allHeroes =
         "family": null,
         "image": "https://i.imgur.com/twn2sqC.jpg",
         "costume_id": 0,
-        "originalIndex": 1165
+        "originalIndex": 1167
     },
     {
         "name": "纳什 (Nash)",
@@ -44988,7 +45091,7 @@ window.allHeroes =
             "狙击手"
         ],
         "source": "S1-经典",
-        "Release date": "2017-01-01",
+        "Release date": "2017-03-01",
         "star": 2,
         "power": 335,
         "attack": 331,
@@ -45002,7 +45105,7 @@ window.allHeroes =
         "family": null,
         "image": "https://i.imgur.com/HfePtEe.jpg",
         "costume_id": 0,
-        "originalIndex": 1166
+        "originalIndex": 1168
     },
     {
         "name": "莎姬 (Sha Ji)",
@@ -45019,7 +45122,7 @@ window.allHeroes =
             "治疗"
         ],
         "source": "S1-经典",
-        "Release date": "2017-01-01",
+        "Release date": "2017-03-01",
         "star": 2,
         "power": 334,
         "attack": 275,
@@ -45032,7 +45135,7 @@ window.allHeroes =
         "family": null,
         "image": "https://i.imgur.com/OCarZIF.jpg",
         "costume_id": 0,
-        "originalIndex": 1167
+        "originalIndex": 1169
     },
     {
         "name": "艾格尼斯 (Agnes)",
@@ -45064,7 +45167,7 @@ window.allHeroes =
         "family": "asgard",
         "image": "https://i.imgur.com/epjHmoJ.jpg",
         "costume_id": 0,
-        "originalIndex": 1168
+        "originalIndex": 1170
     },
     {
         "name": "阿尔曼 (Arman)",
@@ -45087,7 +45190,7 @@ window.allHeroes =
             "治疗削减"
         ],
         "source": "月活动-飞沙帝国",
-        "Release date": "2017-01-01",
+        "Release date": "2018-06-21",
         "star": 3,
         "power": 448,
         "attack": 477,
@@ -45096,14 +45199,14 @@ window.allHeroes =
         "effects": [
             "对所有敌人造成 130% 伤害。",
             "所有敌人在 4 回合内受到共计 92 点伤害。",
-            "所有敌人获得的治疗减少 -50% ，持续 2 回合。此效果无法净化。",
+            "所有敌人获得的治疗减少 -50%，持续 2 回合。此效果无法净化。",
             "净化施法者的状态异常。"
         ],
         "passives": [],
         "family": "sand",
         "image": "https://i.imgur.com/N88uqSK.jpg",
         "costume_id": 0,
-        "originalIndex": 1169
+        "originalIndex": 1171
     },
     {
         "name": "贝恩 (Bane)",
@@ -45122,7 +45225,7 @@ window.allHeroes =
             "狙击手"
         ],
         "source": "S1-经典",
-        "Release date": "2017-01-01",
+        "Release date": "2017-03-01",
         "star": 3,
         "power": 440,
         "attack": 469,
@@ -45136,7 +45239,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/9aCbPHu.jpg",
         "costume_id": 0,
-        "originalIndex": 1170
+        "originalIndex": 1172
     },
     {
         "name": "贝恩 (Bane) C1",
@@ -45155,7 +45258,7 @@ window.allHeroes =
             "狙击手"
         ],
         "source": "S1-经典",
-        "Release date": "2020-01-01",
+        "Release date": "2020-01-20",
         "star": 3,
         "power": 464,
         "attack": 529,
@@ -45169,7 +45272,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/oMyq8FB.jpg",
         "costume_id": 1,
-        "originalIndex": 1171
+        "originalIndex": 1173
     },
     {
         "name": "贝恩 (Bane) 卡通",
@@ -45206,7 +45309,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/IQ13bAv.jpg",
         "costume_id": 2,
-        "originalIndex": 1172
+        "originalIndex": 1174
     },
     {
         "name": "贝恩 (Bane) 玻璃",
@@ -45244,7 +45347,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://imgur.com/GXkDkIq.jpg",
         "costume_id": 3,
-        "originalIndex": 1173
+        "originalIndex": 1175
     },
     {
         "name": "柏图尔夫 (Bertulf)",
@@ -45274,7 +45377,7 @@ window.allHeroes =
         "family": "raven",
         "image": "https://i.imgur.com/0zQumOG.jpg",
         "costume_id": 0,
-        "originalIndex": 1174
+        "originalIndex": 1176
     },
     {
         "name": "坎迪 (Candy)",
@@ -45307,7 +45410,7 @@ window.allHeroes =
         "family": "starfall",
         "image": "https://i.imgur.com/JMKpOq5.jpg",
         "costume_id": 0,
-        "originalIndex": 1175
+        "originalIndex": 1177
     },
     {
         "name": "西达 (Cedar)",
@@ -45347,7 +45450,7 @@ window.allHeroes =
         "family": "junglehunter",
         "image": "https://i.imgur.com/occTuk0.jpg",
         "costume_id": 0,
-        "originalIndex": 1176
+        "originalIndex": 1178
     },
     {
         "name": "克苏乌 (Cthuwu)",
@@ -45382,7 +45485,7 @@ window.allHeroes =
         "family": "cultist",
         "image": "https://i.imgur.com/I6zT7jd.jpg",
         "costume_id": 0,
-        "originalIndex": 1177
+        "originalIndex": 1179
     },
     {
         "name": "达瓦 (Dawa)",
@@ -45399,7 +45502,7 @@ window.allHeroes =
             "范围攻击 (打3)"
         ],
         "source": "S1-经典",
-        "Release date": "2017-01-01",
+        "Release date": "2017-03-01",
         "star": 3,
         "power": 440,
         "attack": 488,
@@ -45412,7 +45515,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/p1FG8Av.jpg",
         "costume_id": 0,
-        "originalIndex": 1178
+        "originalIndex": 1180
     },
     {
         "name": "达瓦 (Dawa) C1",
@@ -45431,7 +45534,7 @@ window.allHeroes =
             "额外伤害"
         ],
         "source": "S1-经典",
-        "Release date": "2021-01-18",
+        "Release date": "2021-01-25",
         "star": 3,
         "power": 463,
         "attack": 527,
@@ -45445,7 +45548,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/4JD88JW.jpg",
         "costume_id": 1,
-        "originalIndex": 1179
+        "originalIndex": 1181
     },
     {
         "name": "达瓦 (Dawa) 卡通",
@@ -45479,7 +45582,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/O05gU50.jpg",
         "costume_id": 2,
-        "originalIndex": 1180
+        "originalIndex": 1182
     },
     {
         "name": "多拉克 (Dolrak)",
@@ -45510,7 +45613,7 @@ window.allHeroes =
         "effects": [
             "对目标造成 270% 伤害。",
             "目标获得 -30% 防御，持续 4 回合。若目标受到治疗，效果持续时间将重置。",
-            "目标获得的任何治疗减少 -40% ，持续 4 回合。"
+            "目标获得的任何治疗减少 -40%，持续 4 回合。"
         ],
         "passives": [
             "特殊技能附带持续伤害：当该角色施放其特殊技能时，所有敌人会在 2 回合内受到 124 点水系伤害。",
@@ -45519,7 +45622,7 @@ window.allHeroes =
         "family": "beachparty",
         "image": "https://i.imgur.com/0vQaoVS.jpg",
         "costume_id": 0,
-        "originalIndex": 1181
+        "originalIndex": 1183
     },
     {
         "name": "爱德蕾德 (Edelaide)",
@@ -45557,7 +45660,7 @@ window.allHeroes =
         "family": "plainshunter",
         "image": "https://i.imgur.com/BfXS6GU.jpg",
         "costume_id": 0,
-        "originalIndex": 1182
+        "originalIndex": 1184
     },
     {
         "name": "费尔顿 (Felton)",
@@ -45597,7 +45700,7 @@ window.allHeroes =
         "family": "musketeer",
         "image": "https://i.imgur.com/KO2VqaC.jpg",
         "costume_id": 0,
-        "originalIndex": 1183
+        "originalIndex": 1185
     },
     {
         "name": "柑橘 (Gan Ju)",
@@ -45616,7 +45719,7 @@ window.allHeroes =
             "狙击手"
         ],
         "source": "S1-经典",
-        "Release date": "2017-01-01",
+        "Release date": "2017-03-01",
         "star": 3,
         "power": 443,
         "attack": 467,
@@ -45630,7 +45733,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/Eor4cBc.jpg",
         "costume_id": 0,
-        "originalIndex": 1184
+        "originalIndex": 1186
     },
     {
         "name": "柑橘 (Gan Ju) C1",
@@ -45649,7 +45752,7 @@ window.allHeroes =
             "狙击手"
         ],
         "source": "S1-经典",
-        "Release date": "2021-01-18",
+        "Release date": "2021-01-25",
         "star": 3,
         "power": 468,
         "attack": 519,
@@ -45663,7 +45766,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/UfGiJQd.jpg",
         "costume_id": 1,
-        "originalIndex": 1185
+        "originalIndex": 1187
     },
     {
         "name": "柑橘 (Gan Ju) 卡通",
@@ -45700,7 +45803,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/IOY3xaA.jpg",
         "costume_id": 2,
-        "originalIndex": 1186
+        "originalIndex": 1188
     },
     {
         "name": "柑橘 (Gan Ju) 玻璃",
@@ -45738,7 +45841,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/yqqbcRa.jpg",
         "costume_id": 3,
-        "originalIndex": 1187
+        "originalIndex": 1189
     },
     {
         "name": "雅科 (Jaco)",
@@ -45781,7 +45884,7 @@ window.allHeroes =
         "family": "defendersofatlantis",
         "image": "https://i.imgur.com/ne5YJve.jpg",
         "costume_id": 0,
-        "originalIndex": 1188
+        "originalIndex": 1190
     },
     {
         "name": "雅科 (Jaco) C1",
@@ -45825,7 +45928,7 @@ window.allHeroes =
         "family": "defendersofatlantis",
         "image": "https://i.imgur.com/frMuxcb.jpg",
         "costume_id": 1,
-        "originalIndex": 1189
+        "originalIndex": 1191
     },
     {
         "name": "乔力 (Jolly)",
@@ -45857,14 +45960,14 @@ window.allHeroes =
         "effects": [
             "提高所有盟友 475 点生命值。提高的生命值可以超过最大生命值。",
             "为每位盟友召唤一个精灵小兵，此小兵继承施法者 10% 的生命值和 10% 的攻击力。",
-            "所有盟友受到的所有伤害减少 -45% ，持续 6 回合。",
+            "所有盟友受到的所有伤害减少 -45%，持续 6 回合。",
             "所有盟友获得 +35% 法力生成，持续 6 回合。"
         ],
         "passives": [],
         "family": "christmas",
         "image": "https://i.imgur.com/G067kns.jpg",
         "costume_id": 0,
-        "originalIndex": 1190
+        "originalIndex": 1192
     },
     {
         "name": "凯兰尼 (Kailani)",
@@ -45883,7 +45986,7 @@ window.allHeroes =
             "伤害分摊"
         ],
         "source": "S1-经典",
-        "Release date": "2017-01-01",
+        "Release date": "2017-03-01",
         "star": 3,
         "power": 444,
         "attack": 429,
@@ -45897,7 +46000,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/h7fAkgX.jpg",
         "costume_id": 0,
-        "originalIndex": 1191
+        "originalIndex": 1193
     },
     {
         "name": "凯兰尼 (Kailani) C1",
@@ -45916,7 +46019,7 @@ window.allHeroes =
             "伤害分摊"
         ],
         "source": "S1-经典",
-        "Release date": "2021-01-18",
+        "Release date": "2021-01-25",
         "star": 3,
         "power": 467,
         "attack": 423,
@@ -45930,7 +46033,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/OOF8ysq.jpg",
         "costume_id": 1,
-        "originalIndex": 1192
+        "originalIndex": 1194
     },
     {
         "name": "凯兰尼 (Kailani) 卡通",
@@ -45965,7 +46068,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/6HNw9i7.jpg",
         "costume_id": 2,
-        "originalIndex": 1193
+        "originalIndex": 1195
     },
     {
         "name": "凯兰尼 (Kailani) 玻璃",
@@ -46004,7 +46107,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/jRBcqpn.jpg",
         "costume_id": 3,
-        "originalIndex": 1194
+        "originalIndex": 1196
     },
     {
         "name": "金砂石 (Kinsaishi)",
@@ -46043,7 +46146,7 @@ window.allHeroes =
         "family": "ninja",
         "image": "https://i.imgur.com/X6RI3nP.jpg",
         "costume_id": 0,
-        "originalIndex": 1195
+        "originalIndex": 1197
     },
     {
         "name": "卡瓦希尔 (Kvasir)",
@@ -46079,7 +46182,7 @@ window.allHeroes =
         "family": "alfheim",
         "image": "https://i.imgur.com/iXRJ2NZ.jpg",
         "costume_id": 0,
-        "originalIndex": 1196
+        "originalIndex": 1198
     },
     {
         "name": "卡瓦希尔 (Kvasir) C1",
@@ -46114,7 +46217,7 @@ window.allHeroes =
         "family": "alfheim",
         "image": "https://i.imgur.com/3EEFeIL.jpg",
         "costume_id": 1,
-        "originalIndex": 1197
+        "originalIndex": 1199
     },
     {
         "name": "梅里亚 (Melia)",
@@ -46147,7 +46250,7 @@ window.allHeroes =
         "family": "atlantis",
         "image": "https://i.imgur.com/4LFidrS.jpg",
         "costume_id": 0,
-        "originalIndex": 1198
+        "originalIndex": 1200
     },
     {
         "name": "梅里亚 (Melia) C1",
@@ -46180,7 +46283,7 @@ window.allHeroes =
         "family": "atlantis",
         "image": "https://i.imgur.com/M7NWE48.jpg",
         "costume_id": 1,
-        "originalIndex": 1199
+        "originalIndex": 1201
     },
     {
         "name": "佩雅 (Paeia)",
@@ -46218,7 +46321,7 @@ window.allHeroes =
         "family": "owl",
         "image": "https://i.imgur.com/R9551ZQ.jpg",
         "costume_id": 0,
-        "originalIndex": 1200
+        "originalIndex": 1202
     },
     {
         "name": "皮格茜 (Pixie)",
@@ -46245,13 +46348,13 @@ window.allHeroes =
         "health": 848,
         "effects": [
             "对目标造成 290% 伤害。",
-            "目标法力满格时，自动对目标造成 89 点伤害并使其法力减少 50% ，持续 3 回合。"
+            "目标法力满格时，自动对目标造成 89 点伤害并使其法力减少 50%，持续 3 回合。"
         ],
         "passives": [],
         "family": "grimforest",
         "image": "https://i.imgur.com/jFlvi1a.jpg",
         "costume_id": 0,
-        "originalIndex": 1201
+        "originalIndex": 1203
     },
     {
         "name": "波比 (Poppy)",
@@ -46285,7 +46388,7 @@ window.allHeroes =
         "family": "underwild",
         "image": "https://i.imgur.com/pxiscDG.jpg",
         "costume_id": 0,
-        "originalIndex": 1202
+        "originalIndex": 1204
     },
     {
         "name": "波比 (Poppy) C1",
@@ -46319,7 +46422,7 @@ window.allHeroes =
         "family": "underwild",
         "image": "https://i.imgur.com/nCfovhZ.jpg",
         "costume_id": 1,
-        "originalIndex": 1203
+        "originalIndex": 1205
     },
     {
         "name": "雷克赫特 (Rekhetre)",
@@ -46356,7 +46459,7 @@ window.allHeroes =
         "family": "sun",
         "image": "https://i.imgur.com/nkaWucV.jpg",
         "costume_id": 0,
-        "originalIndex": 1204
+        "originalIndex": 1206
     },
     {
         "name": "雷克赫特 (Rekhetre) C1",
@@ -46395,7 +46498,7 @@ window.allHeroes =
         "family": "sun",
         "image": "https://i.imgur.com/K31ZD8P.jpg",
         "costume_id": 1,
-        "originalIndex": 1205
+        "originalIndex": 1207
     },
     {
         "name": "呱呱 (Ribbit)",
@@ -46434,7 +46537,7 @@ window.allHeroes =
         "family": "pets",
         "image": "https://i.imgur.com/2fpNcNU.jpg",
         "costume_id": 0,
-        "originalIndex": 1206
+        "originalIndex": 1208
     },
     {
         "name": "锈喙 (Rustbeak)",
@@ -46477,7 +46580,7 @@ window.allHeroes =
         "family": "construct",
         "image": "https://i.imgur.com/OFz97hb.jpg",
         "costume_id": 0,
-        "originalIndex": 1207
+        "originalIndex": 1209
     },
     {
         "name": "萨莉 (Sally)",
@@ -46509,7 +46612,7 @@ window.allHeroes =
         "family": "corellia",
         "image": "https://i.imgur.com/wpH6Nrx.jpg",
         "costume_id": 0,
-        "originalIndex": 1208
+        "originalIndex": 1210
     },
     {
         "name": "萨丝琪雅 (Saskia)",
@@ -46548,7 +46651,7 @@ window.allHeroes =
         "family": "woodlandfaun",
         "image": "https://i.imgur.com/GNLbvP6.jpg",
         "costume_id": 0,
-        "originalIndex": 1209
+        "originalIndex": 1211
     },
     {
         "name": "爱斯舍尔 (Aeschere)",
@@ -46580,7 +46683,7 @@ window.allHeroes =
             "从所有敌人身上安全驱散 1 个增益（最后获得的增益最先被驱散）。",
             "增益之源：每回合开始时，对随机一名盟友施放以下效果。",
             "* +25% 法力生成，持续 3 回合。",
-            "* 所有受到的治疗增加 +50% ，持续 3 回合。",
+            "* 所有受到的治疗增加 +50%，持续 3 回合。",
             "* 增益之源将触发 4 次。每次驱散尝试都会移除一次触发。",
             "所有盟友在 4 回合内恢复 600 点生命值。"
         ],
@@ -46591,7 +46694,7 @@ window.allHeroes =
         "family": "beowulf",
         "image": "https://i.imgur.com/b8raA4w.jpg",
         "costume_id": 0,
-        "originalIndex": 1210
+        "originalIndex": 1212
     },
     {
         "name": "阿纳斯塔西亚 (Anastasia)",
@@ -46634,7 +46737,7 @@ window.allHeroes =
         "family": "magic",
         "image": "https://i.imgur.com/ADu9siF.jpg",
         "costume_id": 0,
-        "originalIndex": 1211
+        "originalIndex": 1213
     },
     {
         "name": "贝勒里夫 (Bellerive)",
@@ -46669,7 +46772,7 @@ window.allHeroes =
         "family": "gargoyle",
         "image": "https://i.imgur.com/VIPkm6l.jpg",
         "costume_id": 0,
-        "originalIndex": 1212
+        "originalIndex": 1214
     },
     {
         "name": "博加特 (Bogart)",
@@ -46698,7 +46801,7 @@ window.allHeroes =
         "health": 1319,
         "effects": [
             "对目标造成 305% 伤害，并对附近敌人造成轻微伤害。",
-            "目标与附近敌人获得 -35% 防御，持续 3 回合。防御每回合降低 -10% ，最低可达 -55%。"
+            "目标与附近敌人获得 -35% 防御，持续 3 回合。防御每回合降低 -10%，最低可达 -55%。"
         ],
         "passives": [
             "特殊技能附带持续伤害：当该角色施放其特殊技能时，会给一个随机敌人施加猎人印记。目标在 3 回合内受到 150 点伤害。如果目标已有此效果，则持续时间刷新，伤害增加 150 点，总伤害最高可达 1500 点。",
@@ -46707,7 +46810,7 @@ window.allHeroes =
         "family": "abysshunter",
         "image": "https://i.imgur.com/Z4N4G0e.jpg",
         "costume_id": 0,
-        "originalIndex": 1213
+        "originalIndex": 1215
     },
     {
         "name": "赵 (Chao)",
@@ -46726,7 +46829,7 @@ window.allHeroes =
             "狙击手"
         ],
         "source": "S1-经典",
-        "Release date": "2017-01-01",
+        "Release date": "2017-03-01",
         "star": 4,
         "power": 642,
         "attack": 607,
@@ -46740,7 +46843,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/akseq6D.jpg",
         "costume_id": 0,
-        "originalIndex": 1214
+        "originalIndex": 1216
     },
     {
         "name": "赵 (Chao) C1",
@@ -46774,7 +46877,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/iiLBfC1.jpg",
         "costume_id": 1,
-        "originalIndex": 1215
+        "originalIndex": 1217
     },
     {
         "name": "赵 (Chao) C2",
@@ -46807,7 +46910,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/AhEe43s.jpg",
         "costume_id": 2,
-        "originalIndex": 1216
+        "originalIndex": 1218
     },
     {
         "name": "赵 (Chao) 卡通",
@@ -46844,7 +46947,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/SdLEIc0.jpg",
         "costume_id": 3,
-        "originalIndex": 1217
+        "originalIndex": 1219
     },
     {
         "name": "迪安德烈 (D'Andre)",
@@ -46879,7 +46982,7 @@ window.allHeroes =
         "family": "starfall",
         "image": "https://i.imgur.com/XnqMU7V.jpg",
         "costume_id": 0,
-        "originalIndex": 1218
+        "originalIndex": 1220
     },
     {
         "name": "团三郎狸 (Danzaburo)",
@@ -46922,7 +47025,7 @@ window.allHeroes =
         "family": "sakura",
         "image": "https://i.imgur.com/jP1BF2A.jpg",
         "costume_id": 0,
-        "originalIndex": 1219
+        "originalIndex": 1221
     },
     {
         "name": "团三郎狸 (Danzaburo) C1",
@@ -46966,7 +47069,7 @@ window.allHeroes =
         "family": "sakura",
         "image": "https://i.imgur.com/HppFUSU.jpg",
         "costume_id": 1,
-        "originalIndex": 1220
+        "originalIndex": 1222
     },
     {
         "name": "埃林 (Errin)",
@@ -46995,7 +47098,7 @@ window.allHeroes =
         "health": 1321,
         "effects": [
             "所有敌人变得灵魂相连，持续 4 回合。灵魂相连的敌人将平摊所受伤害。",
-            "所有敌人受到的所有伤害增加 +25% ，持续 4 回合。所有敌人每拥有一个小兵或超级小兵，则该效果提高 +5% ，最多可提高 +50%。"
+            "所有敌人受到的所有伤害增加 +25%，持续 4 回合。所有敌人每拥有一个小兵或超级小兵，则该效果提高 +5%，最多可提高 +50%。"
         ],
         "passives": [
             "进阶无视小兵：该角色造成的所有伤害无视小兵和巨大体型小兵。",
@@ -47005,7 +47108,7 @@ window.allHeroes =
         "family": "astraldwarfs",
         "image": "https://imgur.com/iOji58B.jpg",
         "costume_id": 0,
-        "originalIndex": 1221
+        "originalIndex": 1223
     },
     {
         "name": "菲亚拉尔 (Fjalar)",
@@ -47050,7 +47153,7 @@ window.allHeroes =
         "family": "nidavellir",
         "image": "https://i.imgur.com/iXEEsKX.jpg",
         "costume_id": 0,
-        "originalIndex": 1222
+        "originalIndex": 1224
     },
     {
         "name": "金娘 (Goldie)",
@@ -47090,7 +47193,7 @@ window.allHeroes =
         "family": "goblin",
         "image": "https://i.imgur.com/9Zjrelm.jpg",
         "costume_id": 0,
-        "originalIndex": 1223
+        "originalIndex": 1225
     },
     {
         "name": "格蕾特 (Gretel)",
@@ -47110,7 +47213,7 @@ window.allHeroes =
             "法力削减或格挡"
         ],
         "source": "挑战节-肃煞森林",
-        "Release date": "2017-01-01",
+        "Release date": "2018-06-01",
         "star": 4,
         "power": 646,
         "attack": 703,
@@ -47118,14 +47221,14 @@ window.allHeroes =
         "health": 1056,
         "effects": [
             "对目标造成 175% 伤害，并对附近敌人造成轻微伤害。",
-            "目标法力满格时，自动对目标造成 147 点伤害，并使其法力减少 50% ，持续 3 回合。",
+            "目标法力满格时，自动对目标造成 147 点伤害，并使其法力减少 50%，持续 3 回合。",
             "施法者获得 +74% 特殊技能防御，持续 3 回合。"
         ],
         "passives": [],
         "family": "grimforest",
         "image": "https://i.imgur.com/cq0lzx6.jpg",
         "costume_id": 0,
-        "originalIndex": 1224
+        "originalIndex": 1226
     },
     {
         "name": "格里芬 (Griffin)",
@@ -47160,7 +47263,7 @@ window.allHeroes =
         "family": "underwild",
         "image": "https://i.imgur.com/MRV1QX0.jpg",
         "costume_id": 0,
-        "originalIndex": 1225
+        "originalIndex": 1227
     },
     {
         "name": "格里芬 (Griffin) C1",
@@ -47195,7 +47298,7 @@ window.allHeroes =
         "family": "underwild",
         "image": "https://i.imgur.com/bhRfq5i.jpg",
         "costume_id": 1,
-        "originalIndex": 1226
+        "originalIndex": 1228
     },
     {
         "name": "顾大嫂 (Gu Dasao)",
@@ -47239,7 +47342,7 @@ window.allHeroes =
         "family": "outlaws",
         "image": "https://imgur.com/rTKzhQE.jpg",
         "costume_id": 0,
-        "originalIndex": 1227
+        "originalIndex": 1229
     },
     {
         "name": "豺狼守护者 (Guardian Jackal)",
@@ -47258,7 +47361,7 @@ window.allHeroes =
             "狙击手"
         ],
         "source": "挑战节-守护者",
-        "Release date": "2017-01-01",
+        "Release date": "2017-10-05",
         "star": 4,
         "power": 645,
         "attack": 765,
@@ -47272,7 +47375,7 @@ window.allHeroes =
         "family": "guardiansteltoc",
         "image": "https://i.imgur.com/yQuuDkU.jpg",
         "costume_id": 0,
-        "originalIndex": 1228
+        "originalIndex": 1230
     },
     {
         "name": "豺狼守护者 (Guardian Jackal) C1",
@@ -47305,7 +47408,7 @@ window.allHeroes =
         "family": "guardiansteltoc",
         "image": "https://i.imgur.com/SmImrcW.jpg",
         "costume_id": 1,
-        "originalIndex": 1229
+        "originalIndex": 1231
     },
     {
         "name": "古林博斯帝 (Gullinbursti)",
@@ -47339,7 +47442,7 @@ window.allHeroes =
         "family": "asgard",
         "image": "https://i.imgur.com/sx7Ooj7.jpg",
         "costume_id": 0,
-        "originalIndex": 1230
+        "originalIndex": 1232
     },
     {
         "name": "古林博斯帝 (Gullinbursti) C1",
@@ -47373,7 +47476,7 @@ window.allHeroes =
         "family": "asgard",
         "image": "https://i.imgur.com/0fW6S7f.jpg",
         "costume_id": 1,
-        "originalIndex": 1231
+        "originalIndex": 1233
     },
     {
         "name": "霍莉 (Holly)",
@@ -47404,13 +47507,13 @@ window.allHeroes =
             "为所有盟友恢复 20% 生命值。",
             "面板上每存在一个神圣系盾牌，便额外恢复 3% 生命，最多共计恢复 44% 生命值。",
             "为每位盟友召唤一个精灵小兵，此小兵继承施法者 10% 的生命值和 10% 的攻击力。",
-            "所有盟友获得 +14% 攻击力，且面板上每存在一个神圣系盾牌都会使其攻击力额外增加 5% ，持续 4 回合，最高可达 +54% 攻击力。"
+            "所有盟友获得 +14% 攻击力，且面板上每存在一个神圣系盾牌都会使其攻击力额外增加 5%，持续 4 回合，最高可达 +54% 攻击力。"
         ],
         "passives": [],
         "family": "christmas",
         "image": "https://i.imgur.com/n6rgqje.jpg",
         "costume_id": 0,
-        "originalIndex": 1232
+        "originalIndex": 1234
     },
     {
         "name": "胡桃 (Hu Tao)",
@@ -47429,7 +47532,7 @@ window.allHeroes =
             "攻击减益"
         ],
         "source": "S1-经典",
-        "Release date": "2017-01-01",
+        "Release date": "2017-03-01",
         "star": 4,
         "power": 638,
         "attack": 603,
@@ -47444,7 +47547,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/uyASMQ6.jpg",
         "costume_id": 0,
-        "originalIndex": 1233
+        "originalIndex": 1235
     },
     {
         "name": "胡桃 (Hu Tao) C1",
@@ -47474,13 +47577,13 @@ window.allHeroes =
         "effects": [
             "对所有敌人造成 160% 伤害。",
             "所有敌人获得 -30% 精准度，持续 4 回合。进攻型特殊技能也有相同几率落空。",
-            "所有敌人获得的治疗减少 -50% ，持续 4 回合。此效果无法净化。"
+            "所有敌人获得的治疗减少 -50%，持续 4 回合。此效果无法净化。"
         ],
         "passives": [],
         "family": "classic",
         "image": "https://i.imgur.com/vPJgzTp.jpg",
         "costume_id": 1,
-        "originalIndex": 1234
+        "originalIndex": 1236
     },
     {
         "name": "胡桃 (Hu Tao) C2",
@@ -47516,7 +47619,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/3xo1OZT.jpg",
         "costume_id": 2,
-        "originalIndex": 1235
+        "originalIndex": 1237
     },
     {
         "name": "胡桃 (Hu Tao) 卡通",
@@ -47553,7 +47656,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/J3KLB3K.jpg",
         "costume_id": 3,
-        "originalIndex": 1236
+        "originalIndex": 1238
     },
     {
         "name": "胡桃 (Hu Tao) 玻璃",
@@ -47591,7 +47694,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://imgur.com/V32B1dq.jpg",
         "costume_id": 4,
-        "originalIndex": 1237
+        "originalIndex": 1239
     },
     {
         "name": "伍尔顿女士 (Lady Woolerton)",
@@ -47623,7 +47726,7 @@ window.allHeroes =
         "family": "springvale",
         "image": "https://i.imgur.com/qf9ikj1.jpg",
         "costume_id": 0,
-        "originalIndex": 1238
+        "originalIndex": 1240
     },
     {
         "name": "丽秀 (Li Xiu)",
@@ -47642,7 +47745,7 @@ window.allHeroes =
             "法力削减或格挡"
         ],
         "source": "S1-经典",
-        "Release date": "2017-01-01",
+        "Release date": "2017-03-01",
         "star": 4,
         "power": 640,
         "attack": 616,
@@ -47656,7 +47759,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/flDK18I.jpg",
         "costume_id": 0,
-        "originalIndex": 1239
+        "originalIndex": 1241
     },
     {
         "name": "丽秀 (Li Xiu) C1",
@@ -47675,7 +47778,7 @@ window.allHeroes =
             "法力削减或格挡"
         ],
         "source": "S1-经典",
-        "Release date": "2020-01-01",
+        "Release date": "2020-01-20",
         "star": 4,
         "power": 675,
         "attack": 660,
@@ -47689,7 +47792,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/6LRP9pF.jpg",
         "costume_id": 1,
-        "originalIndex": 1240
+        "originalIndex": 1242
     },
     {
         "name": "丽秀 (Li Xiu) C2",
@@ -47722,7 +47825,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/kSRi1Vn.jpg",
         "costume_id": 2,
-        "originalIndex": 1241
+        "originalIndex": 1243
     },
     {
         "name": "丽秀 (Li Xiu) 卡通",
@@ -47759,7 +47862,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/9y6lz7h.jpg",
         "costume_id": 3,
-        "originalIndex": 1242
+        "originalIndex": 1244
     },
     {
         "name": "丽秀 (Li Xiu) 玻璃",
@@ -47797,7 +47900,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/uvZCfR2.jpg",
         "costume_id": 4,
-        "originalIndex": 1243
+        "originalIndex": 1245
     },
     {
         "name": "迷雾 (Mist)",
@@ -47835,7 +47938,7 @@ window.allHeroes =
         "family": "midgard",
         "image": "https://i.imgur.com/1FjRHHb.jpg",
         "costume_id": 0,
-        "originalIndex": 1244
+        "originalIndex": 1246
     },
     {
         "name": "苏格拉泰 (Scoratek)",
@@ -47875,7 +47978,7 @@ window.allHeroes =
         "family": "moon",
         "image": "https://i.imgur.com/cEv4g9a.jpg",
         "costume_id": 0,
-        "originalIndex": 1245
+        "originalIndex": 1247
     },
     {
         "name": "苏格拉泰 (Scoratek) C1",
@@ -47917,7 +48020,7 @@ window.allHeroes =
         "family": "moon",
         "image": "https://i.imgur.com/uNnOzl3.jpg",
         "costume_id": 1,
-        "originalIndex": 1246
+        "originalIndex": 1248
     },
     {
         "name": "斯忒洛珀 (Steropes)",
@@ -47960,7 +48063,7 @@ window.allHeroes =
         "family": "styx",
         "image": "https://i.imgur.com/JQkhZ6P.jpg",
         "costume_id": 0,
-        "originalIndex": 1247
+        "originalIndex": 1249
     },
     {
         "name": "沃路普塔斯 (Voluptas)",
@@ -47995,7 +48098,7 @@ window.allHeroes =
         "family": "cupid",
         "image": "https://i.imgur.com/FUJWm4U.jpg",
         "costume_id": 0,
-        "originalIndex": 1248
+        "originalIndex": 1250
     },
     {
         "name": "摆摆 (Waddles)",
@@ -48031,7 +48134,7 @@ window.allHeroes =
         "family": "pets",
         "image": "https://i.imgur.com/acvvh6o.jpg",
         "costume_id": 0,
-        "originalIndex": 1249
+        "originalIndex": 1251
     },
     {
         "name": "王元姬 (Wang Yuanji)",
@@ -48050,7 +48153,7 @@ window.allHeroes =
             "生命强化"
         ],
         "source": "三国召唤",
-        "Release date": "2022-03-14T12:00:00",
+        "Release date": "2022-03-14",
         "star": 4,
         "power": 683,
         "attack": 675,
@@ -48064,7 +48167,7 @@ window.allHeroes =
         "family": "kingdom",
         "image": "https://i.imgur.com/SwBxlgF.jpg",
         "costume_id": 0,
-        "originalIndex": 1250
+        "originalIndex": 1252
     },
     {
         "name": "王元姬 (Wang Yuanji) C1",
@@ -48105,7 +48208,7 @@ window.allHeroes =
         "family": "kingdom",
         "image": "https://i.imgur.com/EPCCR66.jpg",
         "costume_id": 1,
-        "originalIndex": 1251
+        "originalIndex": 1253
     },
     {
         "name": "悟空 (Wu Kong)",
@@ -48123,7 +48226,7 @@ window.allHeroes =
             "对自身或友军负面效果"
         ],
         "source": "S1-经典",
-        "Release date": "2017-01-01",
+        "Release date": "2017-03-01",
         "star": 4,
         "power": 644,
         "attack": 707,
@@ -48137,7 +48240,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/EZfzNHv.jpg",
         "costume_id": 0,
-        "originalIndex": 1252
+        "originalIndex": 1254
     },
     {
         "name": "悟空 (Wu Kong) C1",
@@ -48169,7 +48272,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/Xt9qUWm.jpg",
         "costume_id": 1,
-        "originalIndex": 1253
+        "originalIndex": 1255
     },
     {
         "name": "悟空 (Wu Kong) C2",
@@ -48200,7 +48303,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/gZEff9Z.jpg",
         "costume_id": 2,
-        "originalIndex": 1254
+        "originalIndex": 1256
     },
     {
         "name": "悟空 (Wu Kong) 卡通",
@@ -48233,7 +48336,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/3dV4crJ.jpg",
         "costume_id": 3,
-        "originalIndex": 1255
+        "originalIndex": 1257
     },
     {
         "name": "紫苑 (Zione)",
@@ -48274,7 +48377,7 @@ window.allHeroes =
         "family": "superelemental",
         "image": "https://i.imgur.com/b0f7111.jpg",
         "costume_id": 0,
-        "originalIndex": 1256
+        "originalIndex": 1258
     },
     {
         "name": "阿克罗格 (Akkorog)",
@@ -48308,7 +48411,7 @@ window.allHeroes =
         "family": "underwild",
         "image": "https://i.imgur.com/gMyh86R.jpg",
         "costume_id": 0,
-        "originalIndex": 1257
+        "originalIndex": 1259
     },
     {
         "name": "阿克罗格 (Akkorog) C1",
@@ -48348,7 +48451,7 @@ window.allHeroes =
         "family": "underwild",
         "image": "https://i.imgur.com/VvDq081.jpg",
         "costume_id": 1,
-        "originalIndex": 1258
+        "originalIndex": 1260
     },
     {
         "name": "阿尔宾 (Albin)",
@@ -48384,7 +48487,7 @@ window.allHeroes =
         "family": "christmas",
         "image": "https://i.imgur.com/x9XJFnx.jpg",
         "costume_id": 0,
-        "originalIndex": 1259
+        "originalIndex": 1261
     },
     {
         "name": "阿尔瓦 (Alvar)",
@@ -48425,7 +48528,7 @@ window.allHeroes =
         "family": "stag",
         "image": "https://i.imgur.com/dIFfVvr.jpg",
         "costume_id": 0,
-        "originalIndex": 1260
+        "originalIndex": 1262
     },
     {
         "name": "阿蒙德 (Amund)",
@@ -48454,7 +48557,7 @@ window.allHeroes =
         "health": 2156,
         "effects": [
             "对所有敌人造成 350% 伤害。",
-            "召唤刺骨陷阱恶魔附身于所有敌人。恶魔每回合对敌人造成 45% 攻击力的伤害。该伤害每回合提高 8% ，最高可达 93%。",
+            "召唤刺骨陷阱恶魔附身于所有敌人。恶魔每回合对敌人造成 45% 攻击力的伤害。该伤害每回合提高 8%，最高可达 93%。",
             "刺骨陷阱恶魔会吸收治疗，当吸收的治疗量达到其所有者最大生命值的 45% 时，它便会消失。",
             "所有敌人只要有刺骨陷阱恶魔附身，就无法用特殊技能净化或转移其状态异常（此效果也无法被净化或转移）。"
         ],
@@ -48465,7 +48568,7 @@ window.allHeroes =
         "family": "plainshunter",
         "image": "https://i.imgur.com/Cr6rYpC.jpg",
         "costume_id": 0,
-        "originalIndex": 1261
+        "originalIndex": 1263
     },
     {
         "name": "安 (Anne)",
@@ -48501,7 +48604,7 @@ window.allHeroes =
         "family": "corellia",
         "image": "https://i.imgur.com/YcbkyW1.jpg",
         "costume_id": 0,
-        "originalIndex": 1262
+        "originalIndex": 1264
     },
     {
         "name": "安忒洛斯 (Anteros)",
@@ -48539,7 +48642,7 @@ window.allHeroes =
         "family": "cupid",
         "image": "https://i.imgur.com/ZH2Xuuj.jpg",
         "costume_id": 0,
-        "originalIndex": 1263
+        "originalIndex": 1265
     },
     {
         "name": "奥代 (Aouda)",
@@ -48573,7 +48676,7 @@ window.allHeroes =
         "family": "underwild",
         "image": "https://i.imgur.com/Ri4pkcS.jpg",
         "costume_id": 0,
-        "originalIndex": 1264
+        "originalIndex": 1266
     },
     {
         "name": "奥代 (Aouda) C1",
@@ -48609,7 +48712,7 @@ window.allHeroes =
         "family": "underwild",
         "image": "https://i.imgur.com/8bE9bAk.jpg",
         "costume_id": 1,
-        "originalIndex": 1265
+        "originalIndex": 1267
     },
     {
         "name": "艾森 (Ashen)",
@@ -48653,7 +48756,7 @@ window.allHeroes =
         "family": "fox",
         "image": "https://i.imgur.com/JxS30IU.jpg",
         "costume_id": 0,
-        "originalIndex": 1266
+        "originalIndex": 1268
     },
     {
         "name": "阿斯特丽德 (Astrid)",
@@ -48693,7 +48796,7 @@ window.allHeroes =
         "family": "bard",
         "image": "https://i.imgur.com/efuZ1Xu.jpg",
         "costume_id": 0,
-        "originalIndex": 1267
+        "originalIndex": 1269
     },
     {
         "name": "奥瑞卡克 (Auricarc)",
@@ -48736,7 +48839,7 @@ window.allHeroes =
         "family": "moth",
         "image": "https://imgur.com/U5vFSXy.jpg",
         "costume_id": 0,
-        "originalIndex": 1268
+        "originalIndex": 1270
     },
     {
         "name": "阿维亚纳 (Aviana)",
@@ -48777,7 +48880,7 @@ window.allHeroes =
         "family": 2024,
         "image": "https://i.imgur.com/0zHJdCL.jpg",
         "costume_id": 0,
-        "originalIndex": 1269
+        "originalIndex": 1271
     },
     {
         "name": "白杨 (Bai Yeong)",
@@ -48808,7 +48911,7 @@ window.allHeroes =
         "effects": [
             "对目标造成 390% 伤害。",
             "目标获得 -75% 精准度，持续 2 回合。进攻型特殊技能也有相同几率落空。",
-            "目标获得的治疗减少 -75% ，持续 2 回合。",
+            "目标获得的治疗减少 -75%，持续 2 回合。",
             "元素链为全体神圣系盟友提供针对特殊技能 +30% 的防御，持续 4 回合。此效果无法净化。"
         ],
         "passives": [
@@ -48817,7 +48920,7 @@ window.allHeroes =
         "family": 2020,
         "image": "https://i.imgur.com/4FIVAWy.jpg",
         "costume_id": 0,
-        "originalIndex": 1270
+        "originalIndex": 1272
     },
     {
         "name": "白鼠 (Baishu)",
@@ -48856,7 +48959,7 @@ window.allHeroes =
         "family": "lunaryear",
         "image": "https://i.imgur.com/hMx4yq8.jpg",
         "costume_id": 0,
-        "originalIndex": 1271
+        "originalIndex": 1273
     },
     {
         "name": "凯特琳 (Caitlin)",
@@ -48901,7 +49004,7 @@ window.allHeroes =
         "family": "slayer",
         "image": "https://i.imgur.com/ERb7z96.jpg",
         "costume_id": 0,
-        "originalIndex": 1272
+        "originalIndex": 1274
     },
     {
         "name": "凯特琳 (Caitlin) C1",
@@ -48948,7 +49051,7 @@ window.allHeroes =
         "family": "slayer",
         "image": "https://i.imgur.com/JgYBU3i.jpg",
         "costume_id": 1,
-        "originalIndex": 1273
+        "originalIndex": 1275
     },
     {
         "name": "塞利达纳 (Celidana)",
@@ -48989,7 +49092,7 @@ window.allHeroes =
         "family": 2022,
         "image": "https://i.imgur.com/fzHIBe5.jpg",
         "costume_id": 0,
-        "originalIndex": 1274
+        "originalIndex": 1276
     },
     {
         "name": "克里斯蒂娜·达埃 (Christine Daae)",
@@ -49038,7 +49141,7 @@ window.allHeroes =
         "family": "opera",
         "image": "https://i.imgur.com/x8CUwhf.jpg",
         "costume_id": 0,
-        "originalIndex": 1275
+        "originalIndex": 1277
     },
     {
         "name": "克利奥帕特拉 (Cleopatra)",
@@ -49076,7 +49179,7 @@ window.allHeroes =
         "family": "sun",
         "image": "https://i.imgur.com/pyEHRBi.jpg",
         "costume_id": 0,
-        "originalIndex": 1276
+        "originalIndex": 1278
     },
     {
         "name": "克利奥帕特拉 (Cleopatra) C1",
@@ -49118,7 +49221,7 @@ window.allHeroes =
         "family": "sun",
         "image": "https://i.imgur.com/BWI4O98.jpg",
         "costume_id": 1,
-        "originalIndex": 1277
+        "originalIndex": 1279
     },
     {
         "name": "康斯坦丝 (Constance)",
@@ -49153,7 +49256,7 @@ window.allHeroes =
         "family": "musketeer",
         "image": "https://i.imgur.com/MWL4e5h.jpg",
         "costume_id": 0,
-        "originalIndex": 1278
+        "originalIndex": 1280
     },
     {
         "name": "达布莉亚 (Dabria)",
@@ -49183,7 +49286,7 @@ window.allHeroes =
         "effects": [
             "每名阵亡的盟友有 40% 的几率以 20% 的生命值复活。",
             "所有盟友在 4 回合内恢复共计 894 点生命，一开始恢复量较少，每个回合逐渐增加。",
-            "所有盟友获得 +24% 防御，持续 4 回合。防御每回合增加 10% ，最高为 +54%。"
+            "所有盟友获得 +24% 防御，持续 4 回合。防御每回合增加 10%，最高为 +54%。"
         ],
         "passives": [
             "特殊技能附带持续伤害：当该角色施放其特殊技能时，会给一个随机敌人施加猎人印记。目标在 3 回合内受到 150 点伤害。如果目标已有此效果，则持续时间刷新，伤害增加 150 点，总伤害最高可达 1500 点。",
@@ -49192,7 +49295,7 @@ window.allHeroes =
         "family": "abysshunter",
         "image": "https://i.imgur.com/EUt5N6q.jpg",
         "costume_id": 0,
-        "originalIndex": 1279
+        "originalIndex": 1281
     },
     {
         "name": "达利拉 (Delilah)",
@@ -49212,7 +49315,7 @@ window.allHeroes =
             "召唤小兵"
         ],
         "source": "月英",
-        "Release date": "2018-03-01T00:00:00",
+        "Release date": "2018-03-01",
         "star": 5,
         "power": 768,
         "attack": 737,
@@ -49227,7 +49330,7 @@ window.allHeroes =
         "family": 2018,
         "image": "https://i.imgur.com/gbHdhVI.jpg",
         "costume_id": 0,
-        "originalIndex": 1280
+        "originalIndex": 1282
     },
     {
         "name": "达利拉 (Delilah) C1",
@@ -49265,7 +49368,7 @@ window.allHeroes =
         "family": 2018,
         "image": "https://i.imgur.com/muqHGtI.jpg",
         "costume_id": 1,
-        "originalIndex": 1281
+        "originalIndex": 1283
     },
     {
         "name": "德瓦娜 (Devana)",
@@ -49308,7 +49411,7 @@ window.allHeroes =
         "family": 2021,
         "image": "https://i.imgur.com/kOGhPnC.jpg",
         "costume_id": 0,
-        "originalIndex": 1282
+        "originalIndex": 1284
     },
     {
         "name": "朱利主管 (Director Zuri)",
@@ -49344,7 +49447,7 @@ window.allHeroes =
         "family": "starfall",
         "image": "https://i.imgur.com/NrSrxkV.jpg",
         "costume_id": 0,
-        "originalIndex": 1283
+        "originalIndex": 1285
     },
     {
         "name": "德洛丽丝 (Dolores)",
@@ -49388,7 +49491,7 @@ window.allHeroes =
         "family": "investigator",
         "image": "https://i.imgur.com/sAavBEB.jpg",
         "costume_id": 0,
-        "originalIndex": 1284
+        "originalIndex": 1286
     },
     {
         "name": "德雷克方 (Drake Fong)",
@@ -49409,7 +49512,7 @@ window.allHeroes =
             "防御增益"
         ],
         "source": "月英",
-        "Release date": "2018-08-01T00:00:00",
+        "Release date": "2018-08-01",
         "star": 5,
         "power": 768,
         "attack": 727,
@@ -49424,7 +49527,7 @@ window.allHeroes =
         "family": 2018,
         "image": "https://i.imgur.com/DfnVeiC.jpg",
         "costume_id": 0,
-        "originalIndex": 1285
+        "originalIndex": 1287
     },
     {
         "name": "德雷克方 (Drake Fong) C1",
@@ -49463,7 +49566,7 @@ window.allHeroes =
         "family": 2018,
         "image": "https://i.imgur.com/31loghP.jpg",
         "costume_id": 1,
-        "originalIndex": 1286
+        "originalIndex": 1288
     },
     {
         "name": "埃洛伊丝 (Eloise)",
@@ -49498,7 +49601,7 @@ window.allHeroes =
         "family": "raven",
         "image": "https://i.imgur.com/x2Zz9OK.jpg",
         "costume_id": 0,
-        "originalIndex": 1287
+        "originalIndex": 1289
     },
     {
         "name": "依菲拉 (Ephyra)",
@@ -49544,7 +49647,7 @@ window.allHeroes =
         "family": "defendersofatlantis",
         "image": "https://i.imgur.com/nL4nDAx.jpg",
         "costume_id": 0,
-        "originalIndex": 1288
+        "originalIndex": 1290
     },
     {
         "name": "依菲拉 (Ephyra) C1",
@@ -49591,7 +49694,7 @@ window.allHeroes =
         "family": "defendersofatlantis",
         "image": "https://imgur.com/CAlgEAJ.jpg",
         "costume_id": 1,
-        "originalIndex": 1289
+        "originalIndex": 1291
     },
     {
         "name": "二郎神 (Erlang Shen)",
@@ -49624,7 +49727,7 @@ window.allHeroes =
         "family": "journey",
         "image": "https://i.imgur.com/vft4guR.jpg",
         "costume_id": 0,
-        "originalIndex": 1290
+        "originalIndex": 1292
     },
     {
         "name": "艾塞特 (Eset)",
@@ -49666,7 +49769,7 @@ window.allHeroes =
         "family": "sun",
         "image": "https://i.imgur.com/0YdsTMt.jpg",
         "costume_id": 0,
-        "originalIndex": 1291
+        "originalIndex": 1293
     },
     {
         "name": "艾塞特 (Eset) C1",
@@ -49710,7 +49813,7 @@ window.allHeroes =
         "family": "sun",
         "image": "https://imgur.com/4M257qJ.jpg",
         "costume_id": 1,
-        "originalIndex": 1292
+        "originalIndex": 1294
     },
     {
         "name": "经验拟态兽 (Experience Mimic) Holy",
@@ -49759,7 +49862,7 @@ window.allHeroes =
         "family": "mimic",
         "image": "https://imgur.com/WAwhfFp.jpg",
         "costume_id": 0,
-        "originalIndex": 1293
+        "originalIndex": 1295
     },
     {
         "name": "法欧娜 (Faeona)",
@@ -49790,8 +49893,8 @@ window.allHeroes =
         "health": 1734,
         "effects": [
             "为所有盟友恢复 45% 生命值。",
-            "所有盟友获得的治疗增加 +30% ，持续 5 回合。",
-            "叠加 +3 （最多 10 层）：施法者获得 +15% 法力生成（只影响通过消除英雄格或由防御队伍在其回合结束时获得的法力）。",
+            "所有盟友获得的治疗增加 +30%，持续 5 回合。",
+            "叠加 +3 （最多 10 层）：施法者获得 +15% 法力生成（只影响通过消除方块或由防御队伍在其回合结束时获得的法力）。",
             "元素链为全体神圣系盟友提供 +20% 的暴击几率，持续 6 回合。此效果无法驱散。"
         ],
         "passives": [
@@ -49801,7 +49904,7 @@ window.allHeroes =
         "family": 2024,
         "image": "https://i.imgur.com/plLMCMU.jpg",
         "costume_id": 0,
-        "originalIndex": 1294
+        "originalIndex": 1296
     },
     {
         "name": "法里恩 (Faline)",
@@ -49834,7 +49937,7 @@ window.allHeroes =
         "family": "starfall",
         "image": "https://i.imgur.com/8rLI8nK.jpg",
         "costume_id": 0,
-        "originalIndex": 1295
+        "originalIndex": 1297
     },
     {
         "name": "弗兰克·\"獠牙\"·布林威尔 (Frank 'Fangs' Brimwell)",
@@ -49873,7 +49976,7 @@ window.allHeroes =
         "family": "garrisonguard",
         "image": "https://i.imgur.com/N2blWos.jpg",
         "costume_id": 0,
-        "originalIndex": 1296
+        "originalIndex": 1298
     },
     {
         "name": "费迪南 (Furdinand)",
@@ -49919,7 +50022,7 @@ window.allHeroes =
         "family": "pets",
         "image": "https://i.imgur.com/xJBNOD9.jpg",
         "costume_id": 0,
-        "originalIndex": 1297
+        "originalIndex": 1299
     },
     {
         "name": "甘德尔 (Gandr)",
@@ -49966,7 +50069,7 @@ window.allHeroes =
         "family": "nidavellir",
         "image": "https://i.imgur.com/hNiWYCE.jpg",
         "costume_id": 0,
-        "originalIndex": 1298
+        "originalIndex": 1300
     },
     {
         "name": "基迪恩 (Gideon)",
@@ -50007,7 +50110,7 @@ window.allHeroes =
         "family": "woodlandfaun",
         "image": "https://i.imgur.com/5Tx3rNq.jpg",
         "costume_id": 0,
-        "originalIndex": 1299
+        "originalIndex": 1301
     },
     {
         "name": "吉利根 (Gilligan)",
@@ -50046,7 +50149,7 @@ window.allHeroes =
         "family": 2023,
         "image": "https://i.imgur.com/gcaSLmN.jpg",
         "costume_id": 0,
-        "originalIndex": 1300
+        "originalIndex": 1302
     },
     {
         "name": "金滴 (Goldrip)",
@@ -50085,7 +50188,7 @@ window.allHeroes =
         "family": "slime",
         "image": "https://imgur.com/iqx1d2N.jpg",
         "costume_id": 0,
-        "originalIndex": 1301
+        "originalIndex": 1303
     },
     {
         "name": "公牛 (Gongniu)",
@@ -50124,7 +50227,7 @@ window.allHeroes =
         "family": "lunaryear",
         "image": "https://i.imgur.com/BDNFVzo.jpg",
         "costume_id": 0,
-        "originalIndex": 1302
+        "originalIndex": 1304
     },
     {
         "name": "古里克 (Gooric)",
@@ -50169,7 +50272,7 @@ window.allHeroes =
         "family": "slime",
         "image": "https://i.imgur.com/QoTjDm5.jpg",
         "costume_id": 0,
-        "originalIndex": 1303
+        "originalIndex": 1305
     },
     {
         "name": "葛莉卡 (Grilka)",
@@ -50213,7 +50316,7 @@ window.allHeroes =
         "family": "superelemental",
         "image": "https://i.imgur.com/71dNXYj.jpg",
         "costume_id": 0,
-        "originalIndex": 1304
+        "originalIndex": 1306
     },
     {
         "name": "巨象守护者 (Guardian Elephant)",
@@ -50257,7 +50360,7 @@ window.allHeroes =
         "family": "guardiansteltoc",
         "image": "https://i.imgur.com/oi9Vymu.jpg",
         "costume_id": 0,
-        "originalIndex": 1305
+        "originalIndex": 1307
     },
     {
         "name": "瞪羚守护者 (Guardian Gazelle)",
@@ -50303,7 +50406,7 @@ window.allHeroes =
         "family": "guardiansteltoc",
         "image": "https://i.imgur.com/B2LpVrC.jpg",
         "costume_id": 0,
-        "originalIndex": 1306
+        "originalIndex": 1308
     },
     {
         "name": "瞪羚守护者 (Guardian Gazelle) C1",
@@ -50349,7 +50452,7 @@ window.allHeroes =
         "family": "guardiansteltoc",
         "image": "https://i.imgur.com/E5qL0sl.jpg",
         "costume_id": 1,
-        "originalIndex": 1307
+        "originalIndex": 1309
     },
     {
         "name": "猫头鹰守护者 (Guardian Owl)",
@@ -50371,7 +50474,7 @@ window.allHeroes =
             "持续治疗"
         ],
         "source": "挑战节-守护者",
-        "Release date": "2017-01-01",
+        "Release date": "2017-10-05",
         "star": 5,
         "power": 765,
         "attack": 601,
@@ -50387,7 +50490,7 @@ window.allHeroes =
         "family": "guardiansteltoc",
         "image": "https://i.imgur.com/XO3HIxy.jpg",
         "costume_id": 0,
-        "originalIndex": 1308
+        "originalIndex": 1310
     },
     {
         "name": "桂妮维亚 (Guinevere)",
@@ -50408,7 +50511,7 @@ window.allHeroes =
             "法力削减或格挡"
         ],
         "source": "挑战节-阿瓦隆",
-        "Release date": "2017-01-01",
+        "Release date": "2018-01-05",
         "star": 5,
         "power": 765,
         "attack": 669,
@@ -50423,7 +50526,7 @@ window.allHeroes =
         "family": "avalon",
         "image": "https://i.imgur.com/dYjW9Xa.jpg",
         "costume_id": 0,
-        "originalIndex": 1309
+        "originalIndex": 1311
     },
     {
         "name": "桂妮维亚 (Guinevere) C1",
@@ -50460,7 +50563,7 @@ window.allHeroes =
         "family": "avalon",
         "image": "https://i.imgur.com/IeQY7xx.jpg",
         "costume_id": 1,
-        "originalIndex": 1310
+        "originalIndex": 1312
     },
     {
         "name": "关恩 (Gwynn)",
@@ -50492,7 +50595,7 @@ window.allHeroes =
             "对所有敌人造成 350% 伤害。",
             "伤害无视目标的小兵。",
             "所有敌人在 3 回合内受到共计 258 点燃烧伤害。",
-            "所有敌人从燃烧和剧毒状态异常所受到的伤害增加 +50% ，持续 3 回合。"
+            "所有敌人从燃烧和剧毒状态异常所受到的伤害增加 +50%，持续 3 回合。"
         ],
         "passives": [
             "抵抗特殊技能格挡：该角色天生对格挡特殊技能的状态异常有抵抗能力。",
@@ -50503,7 +50606,7 @@ window.allHeroes =
         "family": "construct",
         "image": "https://i.imgur.com/94OEbs6.jpg",
         "costume_id": 0,
-        "originalIndex": 1311
+        "originalIndex": 1313
     },
     {
         "name": "忠犬八公 (Hachiko)",
@@ -50532,7 +50635,7 @@ window.allHeroes =
         "health": 1559,
         "effects": [
             "对所有敌人造成 270% 伤害。",
-            "所有盟友会以所受伤害的 80% 进行反击，持续 4 回合。反击伤害每回合增加 +15% ，最高为 125%。",
+            "所有盟友会以所受伤害的 80% 进行反击，持续 4 回合。反击伤害每回合增加 +15%，最高为 125%。",
             "所有盟友获得 +50% 暴击几率，持续 4 回合。"
         ],
         "passives": [
@@ -50542,7 +50645,7 @@ window.allHeroes =
         "family": "pets",
         "image": "https://i.imgur.com/SMSyQXB.jpg",
         "costume_id": 0,
-        "originalIndex": 1312
+        "originalIndex": 1314
     },
     {
         "name": "哈妮特拉 (Hanitra)",
@@ -50571,7 +50674,7 @@ window.allHeroes =
         "effects": [
             "所有盟友拥有 +45% 几率闪避特殊技能，持续 3 回合。每次闪避都能使生命值提高 425 点。提高的生命值可以超过最大生命值。",
             "所有盟友可抵抗最大生命值的减少，持续 3 回合。",
-            "元素链给予所有神圣系盟友受到的治疗增加 +10% ，持续 4 回合。此效果无法驱散。"
+            "元素链给予所有神圣系盟友受到的治疗增加 +10%，持续 4 回合。此效果无法驱散。"
         ],
         "passives": [
             "抵抗特殊技能格挡：该角色天生对格挡特殊技能的状态异常有抵抗能力。",
@@ -50580,7 +50683,7 @@ window.allHeroes =
         "family": 2021,
         "image": "https://i.imgur.com/Q6iWdU3.jpg",
         "costume_id": 0,
-        "originalIndex": 1313
+        "originalIndex": 1315
     },
     {
         "name": "哈乌里 (Haumri)",
@@ -50626,7 +50729,7 @@ window.allHeroes =
         "family": "astraldwarfs",
         "image": "https://imgur.com/VuxizwX.jpg",
         "costume_id": 0,
-        "originalIndex": 1314
+        "originalIndex": 1316
     },
     {
         "name": "希尔达 (Hilda)",
@@ -50668,7 +50771,7 @@ window.allHeroes =
         "family": "gargoyle",
         "image": "https://i.imgur.com/Urzke5i.jpg",
         "costume_id": 0,
-        "originalIndex": 1315
+        "originalIndex": 1317
     },
     {
         "name": "荷鲁斯 (Horus)",
@@ -50705,7 +50808,7 @@ window.allHeroes =
         "family": "sun",
         "image": "https://i.imgur.com/0Yedhet.jpg",
         "costume_id": 0,
-        "originalIndex": 1316
+        "originalIndex": 1318
     },
     {
         "name": "荷鲁斯 (Horus) C1",
@@ -50744,7 +50847,7 @@ window.allHeroes =
         "family": "sun",
         "image": "https://i.imgur.com/fLHpPl2.jpg",
         "costume_id": 1,
-        "originalIndex": 1317
+        "originalIndex": 1319
     },
     {
         "name": "伊贺 (Iga)",
@@ -50791,7 +50894,7 @@ window.allHeroes =
         "family": "ninja",
         "image": "https://i.imgur.com/y4ft1xP.jpg",
         "costume_id": 0,
-        "originalIndex": 1318
+        "originalIndex": 1320
     },
     {
         "name": "稻荷 (Inari)",
@@ -50813,7 +50916,7 @@ window.allHeroes =
             "全体攻击 (打5)"
         ],
         "source": "S2-亚特兰蒂斯",
-        "Release date": "2017-01-01",
+        "Release date": "2019-02-01",
         "star": 5,
         "power": 772,
         "attack": 813,
@@ -50828,7 +50931,7 @@ window.allHeroes =
         "family": "sakura",
         "image": "https://i.imgur.com/MjynoiD.jpg",
         "costume_id": 0,
-        "originalIndex": 1319
+        "originalIndex": 1321
     },
     {
         "name": "稻荷 (Inari) C1",
@@ -50865,7 +50968,7 @@ window.allHeroes =
         "family": "sakura",
         "image": "https://i.imgur.com/Q0YpLSK.jpg",
         "costume_id": 1,
-        "originalIndex": 1320
+        "originalIndex": 1322
     },
     {
         "name": "铁锚 (Ironmaw)",
@@ -50909,7 +51012,7 @@ window.allHeroes =
         "family": "superelemental",
         "image": "https://i.imgur.com/7BkCCl9.jpg",
         "costume_id": 0,
-        "originalIndex": 1321
+        "originalIndex": 1323
     },
     {
         "name": "伊塔尔 (Ithar)",
@@ -50951,7 +51054,7 @@ window.allHeroes =
         "family": 2023,
         "image": "https://i.imgur.com/DDTIPj2.jpg",
         "costume_id": 0,
-        "originalIndex": 1322
+        "originalIndex": 1324
     },
     {
         "name": "嘉娜 (Jana)",
@@ -50991,7 +51094,7 @@ window.allHeroes =
         "family": "maskedgod",
         "image": "https://i.imgur.com/4FOeHzK.jpg",
         "costume_id": 0,
-        "originalIndex": 1323
+        "originalIndex": 1325
     },
     {
         "name": "贾斯珀 (Jasper)",
@@ -51028,7 +51131,7 @@ window.allHeroes =
         "family": "springvale",
         "image": "https://i.imgur.com/Fqmw2ti.jpg",
         "costume_id": 0,
-        "originalIndex": 1324
+        "originalIndex": 1326
     },
     {
         "name": "贾斯珀 (Jasper) C1",
@@ -51065,7 +51168,7 @@ window.allHeroes =
         "family": "springvale",
         "image": "https://i.imgur.com/iHZz8KB.jpg",
         "costume_id": 1,
-        "originalIndex": 1325
+        "originalIndex": 1327
     },
     {
         "name": "亚坤 (Jequn)",
@@ -51109,7 +51212,7 @@ window.allHeroes =
         "family": "superelemental",
         "image": "https://i.imgur.com/sJ0rROO.jpg",
         "costume_id": 0,
-        "originalIndex": 1326
+        "originalIndex": 1328
     },
     {
         "name": "亚坤 (Jequn) C1",
@@ -51140,7 +51243,7 @@ window.allHeroes =
             "对所有敌人造成 210% 伤害。",
             "所有暗黑系敌人获得 -39% 精准度，持续 3 回合（进攻型特殊技能也有相同几率落空）。",
             "所有冰雪系敌人获得 -39% 防御，持续 3 回合。",
-            "所有自然系敌人获得 -39% 法力生成，持续 3 回合。（只影响通过消除英雄格或由防御队伍在其回合结束时获得的法力）。",
+            "所有自然系敌人获得 -39% 法力生成，持续 3 回合。（只影响通过消除方块或由防御队伍在其回合结束时获得的法力）。",
             "所有烈火系敌人获得 -39% 攻击力，持续 3 回合。"
         ],
         "passives": [
@@ -51153,7 +51256,7 @@ window.allHeroes =
         "family": "superelemental",
         "image": "https://imgur.com/bIp33Sf.jpg",
         "costume_id": 1,
-        "originalIndex": 1327
+        "originalIndex": 1329
     },
     {
         "name": "尤恩 (Joon)",
@@ -51172,7 +51275,7 @@ window.allHeroes =
             "狙击手"
         ],
         "source": "S1-经典",
-        "Release date": "2017-01-01",
+        "Release date": "2017-03-01",
         "star": 5,
         "power": 752,
         "attack": 749,
@@ -51186,7 +51289,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/d5mevmf.jpg",
         "costume_id": 0,
-        "originalIndex": 1328
+        "originalIndex": 1330
     },
     {
         "name": "尤恩 (Joon) C1",
@@ -51205,7 +51308,7 @@ window.allHeroes =
             "狙击手"
         ],
         "source": "S1-经典",
-        "Release date": "2020-01-01",
+        "Release date": "2020-01-20",
         "star": 5,
         "power": 793,
         "attack": 782,
@@ -51219,7 +51322,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/YXbYHIl.jpg",
         "costume_id": 1,
-        "originalIndex": 1329
+        "originalIndex": 1331
     },
     {
         "name": "尤恩 (Joon) C2",
@@ -51255,7 +51358,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/rJxyTcK.jpg",
         "costume_id": 2,
-        "originalIndex": 1330
+        "originalIndex": 1332
     },
     {
         "name": "尤恩 (Joon) 卡通",
@@ -51292,7 +51395,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/6UDBHvu.jpg",
         "costume_id": 3,
-        "originalIndex": 1331
+        "originalIndex": 1333
     },
     {
         "name": "尤恩 (Joon) 玻璃",
@@ -51330,7 +51433,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://imgur.com/7d9tXzA.jpg",
         "costume_id": 4,
-        "originalIndex": 1332
+        "originalIndex": 1334
     },
     {
         "name": "朱庇特 (Jove)",
@@ -51359,8 +51462,8 @@ window.allHeroes =
         "health": 1406,
         "effects": [
             "对目标造成 450% 伤害，并对其余敌人造成轻微伤害。",
-            "所有敌人获得的治疗减少 -50% ，持续 3 回合。",
-            "所有敌人从特殊技能获得的法力减少 -75% ，持续 3 回合。"
+            "所有敌人获得的治疗减少 -50%，持续 3 回合。",
+            "所有敌人从特殊技能获得的法力减少 -75%，持续 3 回合。"
         ],
         "passives": [
             "小兵死亡时净化：当该角色拥有的小兵被摧毁时，该角色身上的状态异常会被净化。"
@@ -51368,7 +51471,7 @@ window.allHeroes =
         "family": "maskedgod",
         "image": "https://i.imgur.com/YFCeTvj.jpg",
         "costume_id": 0,
-        "originalIndex": 1333
+        "originalIndex": 1335
     },
     {
         "name": "贾斯提斯 (Justice)",
@@ -51387,7 +51490,7 @@ window.allHeroes =
             "攻击减益"
         ],
         "source": "S1-经典",
-        "Release date": "2017-01-01",
+        "Release date": "2017-03-01",
         "star": 5,
         "power": 754,
         "attack": 609,
@@ -51402,7 +51505,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/nIFbFrG.jpg",
         "costume_id": 0,
-        "originalIndex": 1334
+        "originalIndex": 1336
     },
     {
         "name": "贾斯提斯 (Justice) C1",
@@ -51437,7 +51540,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/KCL7Y0s.jpg",
         "costume_id": 1,
-        "originalIndex": 1335
+        "originalIndex": 1337
     },
     {
         "name": "贾斯提斯 (Justice) C2",
@@ -51472,7 +51575,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/feWdynO.jpg",
         "costume_id": 2,
-        "originalIndex": 1336
+        "originalIndex": 1338
     },
     {
         "name": "贾斯提斯 (Justice) 卡通",
@@ -51509,7 +51612,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/ChEEEeb.jpg",
         "costume_id": 3,
-        "originalIndex": 1337
+        "originalIndex": 1339
     },
     {
         "name": "卡拉 (Kara)",
@@ -51548,7 +51651,7 @@ window.allHeroes =
         "family": 2022,
         "image": "https://i.imgur.com/ltyTaFe.jpg",
         "costume_id": 0,
-        "originalIndex": 1338
+        "originalIndex": 1340
     },
     {
         "name": "古勒沃 (Kullervo)",
@@ -51585,7 +51688,7 @@ window.allHeroes =
         "family": "kalevala",
         "image": "https://i.imgur.com/tmvOfKK.jpg",
         "costume_id": 0,
-        "originalIndex": 1339
+        "originalIndex": 1341
     },
     {
         "name": "古勒沃 (Kullervo) C1",
@@ -51622,7 +51725,7 @@ window.allHeroes =
         "family": "kalevala",
         "image": "https://i.imgur.com/llU8XwL.jpg",
         "costume_id": 1,
-        "originalIndex": 1340
+        "originalIndex": 1342
     },
     {
         "name": "公相君 (Kushanku)",
@@ -51675,7 +51778,7 @@ window.allHeroes =
         "family": "ninja",
         "image": "https://i.imgur.com/4sSfY3A.jpg",
         "costume_id": 0,
-        "originalIndex": 1341
+        "originalIndex": 1343
     },
     {
         "name": "老虎 (Laohu)",
@@ -51711,7 +51814,7 @@ window.allHeroes =
         "family": "lunaryear",
         "image": "https://i.imgur.com/3mERqj0.jpg",
         "costume_id": 0,
-        "originalIndex": 1342
+        "originalIndex": 1344
     },
     {
         "name": "拉扎拉 (Lazara)",
@@ -51743,7 +51846,7 @@ window.allHeroes =
         "effects": [
             "净化所有盟友的状态异常，且不触发次生效果。",
             "对所有敌人造成 325% 伤害。",
-            "所有敌人获得的治疗减少 -50% ，持续 4 回合。",
+            "所有敌人获得的治疗减少 -50%，持续 4 回合。",
             "所有敌人无法用特殊技能净化或转移其状态异常，持续 4 回合（此效果也阻止净化或转移其自身）。"
         ],
         "passives": [
@@ -51754,7 +51857,7 @@ window.allHeroes =
         "family": "champions",
         "image": "https://i.imgur.com/mxOSRGe.jpg",
         "costume_id": 0,
-        "originalIndex": 1343
+        "originalIndex": 1345
     },
     {
         "name": "莱蒙伍德 (Lemonwood)",
@@ -51787,7 +51890,7 @@ window.allHeroes =
             "此特殊技能必定命中。",
             "对目标造成 380% 伤害。",
             "使目标的法力减少 -20%。",
-            "如果在法力减损后，目标的法力高于 30% ，则会以一个随机敌人作为目标再次施放特殊技能。每下攻击的伤害都会递减。"
+            "如果在法力减损后，目标的法力高于 30%，则会以一个随机敌人作为目标再次施放特殊技能。每下攻击的伤害都会递减。"
         ],
         "passives": [
             "抵抗剧毒：该角色天生对剧毒有抵抗能力。",
@@ -51796,7 +51899,7 @@ window.allHeroes =
         "family": "astralelves",
         "image": "https://i.imgur.com/P0rxyPZ.jpg",
         "costume_id": 0,
-        "originalIndex": 1344
+        "originalIndex": 1346
     },
     {
         "name": "莱昂尼达斯 (Leonidas)",
@@ -51817,7 +51920,7 @@ window.allHeroes =
             "狙击手"
         ],
         "source": "S1-经典",
-        "Release date": "2017-01-01",
+        "Release date": "2017-03-01",
         "star": 5,
         "power": 752,
         "attack": 731,
@@ -51832,7 +51935,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/SPyWzYD.jpg",
         "costume_id": 0,
-        "originalIndex": 1345
+        "originalIndex": 1347
     },
     {
         "name": "莱昂尼达斯 (Leonidas) C1",
@@ -51866,7 +51969,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/c7cvRg8.jpg",
         "costume_id": 1,
-        "originalIndex": 1346
+        "originalIndex": 1348
     },
     {
         "name": "莱昂尼达斯 (Leonidas) C2",
@@ -51902,7 +52005,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/6haP2Yz.jpg",
         "costume_id": 2,
-        "originalIndex": 1347
+        "originalIndex": 1349
     },
     {
         "name": "莱昂尼达斯 (Leonidas) 卡通",
@@ -51942,7 +52045,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/PKsAK4b.jpg",
         "costume_id": 3,
-        "originalIndex": 1348
+        "originalIndex": 1350
     },
     {
         "name": "莱昂尼达斯 (Leonidas) 玻璃",
@@ -51983,7 +52086,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/7lvHaTO.jpg",
         "costume_id": 4,
-        "originalIndex": 1349
+        "originalIndex": 1351
     },
     {
         "name": "利维娅 (Livia)",
@@ -52025,7 +52128,7 @@ window.allHeroes =
         "family": "owl",
         "image": "https://i.imgur.com/JTBt0dY.jpg",
         "costume_id": 0,
-        "originalIndex": 1350
+        "originalIndex": 1352
     },
     {
         "name": "玛琳 (Malin)",
@@ -52058,7 +52161,7 @@ window.allHeroes =
         "effects": [
             "对所有敌人造成 325% 伤害。",
             "所有敌人在 4 回合内受到共计 364 点流血伤害。对暗黑系角色，此状态效果不可净化且持续时间延长 2 回合。",
-            "所有敌人获得的治疗减少 -75% ，持续 4 回合。对暗黑系角色，此状态效果不可净化且持续时间延长 2 回合。",
+            "所有敌人获得的治疗减少 -75%，持续 4 回合。对暗黑系角色，此状态效果不可净化且持续时间延长 2 回合。",
             "所有敌人获得 -35% 精准度，持续 4 回合。进攻型特殊技能也有相同几率落空。对暗黑系角色，此状态效果不可净化且持续时间延长 2 回合。",
             "对暗黑系造成额外伤害。"
         ],
@@ -52069,7 +52172,7 @@ window.allHeroes =
         "family": "plainshunter",
         "image": "https://i.imgur.com/7OmJaIC.jpg",
         "costume_id": 0,
-        "originalIndex": 1351
+        "originalIndex": 1353
     },
     {
         "name": "马洛斯 (Malosi)",
@@ -52106,7 +52209,7 @@ window.allHeroes =
         "family": 2020,
         "image": "https://i.imgur.com/ttNHqjc.jpg",
         "costume_id": 0,
-        "originalIndex": 1352
+        "originalIndex": 1354
     },
     {
         "name": "玛蒂尔达 (Matilda)",
@@ -52137,7 +52240,7 @@ window.allHeroes =
             "召唤松糕恶魔附身于所有敌人。恶魔每回合对敌人造成 38% 攻击力的伤害。",
             "松糕恶魔会吸收治疗。它在吸收了相当于其目标最大生命值 35% 的治疗量后便会消失。",
             "松糕恶魔每次击中目标都有以下效果：",
-            "* 目标从状态异常受到的伤害增加 +50% ，持续 3 回合。",
+            "* 目标从状态异常受到的伤害增加 +50%，持续 3 回合。",
             "* 有 25% 几率刷新剩余回合最少的状态异常持续时间。"
         ],
         "passives": [
@@ -52146,7 +52249,7 @@ window.allHeroes =
         "family": "morlovia",
         "image": "https://i.imgur.com/Lb4Sdwp.jpg",
         "costume_id": 0,
-        "originalIndex": 1353
+        "originalIndex": 1355
     },
     {
         "name": "梅 (May)",
@@ -52176,7 +52279,7 @@ window.allHeroes =
         "effects": [
             "成长：所有盟友获得 150 点攻击力和 150 点防御。",
             "为每个盟友召唤一个胡萝卜小兵，其可从施法者处继承 25% 生命值。",
-            "胡萝卜小兵被召唤后，只要其所有者拥有胡萝卜小兵，其所有者就会获得 +20% 法力生成。此效果无法驱散（只影响通过消除英雄格或由防御队伍在其回合结束时获得的法力）。",
+            "胡萝卜小兵被召唤后，只要其所有者拥有胡萝卜小兵，其所有者就会获得 +20% 法力生成。此效果无法驱散（只影响通过消除方块或由防御队伍在其回合结束时获得的法力）。",
             "元素链为全体神圣系盟友提供针对特殊技能的 +30% 防御，持续 4 回合。此效果无法驱散。"
         ],
         "passives": [
@@ -52186,7 +52289,7 @@ window.allHeroes =
         "family": 2025,
         "image": "https://imgur.com/KK6zHLN.jpg",
         "costume_id": 0,
-        "originalIndex": 1354
+        "originalIndex": 1356
     },
     {
         "name": "梅格·吉瑞 (Meg Giry)",
@@ -52228,7 +52331,7 @@ window.allHeroes =
         "family": "opera",
         "image": "https://i.imgur.com/GJH1yAl.jpg",
         "costume_id": 0,
-        "originalIndex": 1355
+        "originalIndex": 1357
     },
     {
         "name": "仙乐缪斯 (Melodymuse)",
@@ -52265,7 +52368,7 @@ window.allHeroes =
         "family": "astralelves",
         "image": "https://i.imgur.com/PSc9HJP.jpg",
         "costume_id": 0,
-        "originalIndex": 1356
+        "originalIndex": 1358
     },
     {
         "name": "美勒桑克 (Meresankh)",
@@ -52306,7 +52409,7 @@ window.allHeroes =
         "family": "sun",
         "image": "https://i.imgur.com/PIgKmeD.jpg",
         "costume_id": 0,
-        "originalIndex": 1357
+        "originalIndex": 1359
     },
     {
         "name": "美勒桑克 (Meresankh) C1",
@@ -52349,7 +52452,7 @@ window.allHeroes =
         "family": "sun",
         "image": "https://i.imgur.com/4IURwj4.jpg",
         "costume_id": 1,
-        "originalIndex": 1358
+        "originalIndex": 1360
     },
     {
         "name": "云母 (Mica)",
@@ -52395,7 +52498,7 @@ window.allHeroes =
         "family": "ninja",
         "image": "https://i.imgur.com/T4WxYxG.jpg",
         "costume_id": 0,
-        "originalIndex": 1359
+        "originalIndex": 1361
     },
     {
         "name": "月之钟 (Moonbell)",
@@ -52425,8 +52528,8 @@ window.allHeroes =
         "health": 1868,
         "effects": [
             "为每位盟友召唤一个星界小兵，其可从施法者处继承 35% 生命和 39% 攻击力。",
-            "星界小兵被召唤后，只要其所有者拥有星界小兵，其所有者就会获得 +33% 法力生成。此效果无法驱散（只影响通过消除英雄格或由防御队伍在其回合结束时获得的法力）。",
-            "所有盟友受到的所有伤害减少 -43% ，持续 4 回合。",
+            "星界小兵被召唤后，只要其所有者拥有星界小兵，其所有者就会获得 +33% 法力生成。此效果无法驱散（只影响通过消除方块或由防御队伍在其回合结束时获得的法力）。",
+            "所有盟友受到的所有伤害减少 -43%，持续 4 回合。",
             "所有盟友的普通攻击和特殊技能可对拥有生命加成的目标造成 +100% 伤害，持续 4 回合。"
         ],
         "passives": [
@@ -52436,7 +52539,7 @@ window.allHeroes =
         "family": "astralelves",
         "image": "https://i.imgur.com/EiBBCez.jpg",
         "costume_id": 0,
-        "originalIndex": 1360
+        "originalIndex": 1362
     },
     {
         "name": "莫泰加 (Motega)",
@@ -52473,7 +52576,7 @@ window.allHeroes =
             "1 倍法力充能：",
             "* 为每位盟友召唤一个蝴蝶小兵，其可从施法者处继承 14% 生命和 20% 攻击力。",
             "* 蝴蝶小兵每次击中目标都会给予目标以下状态异常：",
-            "*** 受到的所有伤害增加 +20% ，持续 3 回合。",
+            "*** 受到的所有伤害增加 +20%，持续 3 回合。",
             "2 倍法力充能：",
             "* 召唤蝴蝶恶魔附身于所有敌人。恶魔每回合对敌人造成 43% 攻击力的伤害。",
             "* 蝴蝶恶魔会吸收治疗。它在吸收了相当于其所有者最大生命值 50% 的治疗量后便会消失。",
@@ -52485,7 +52588,7 @@ window.allHeroes =
         "family": "magic",
         "image": "https://i.imgur.com/87toXMW.jpg",
         "costume_id": 0,
-        "originalIndex": 1361
+        "originalIndex": 1363
     },
     {
         "name": "武藏 (Musashi)",
@@ -52506,7 +52609,7 @@ window.allHeroes =
             "防御增益"
         ],
         "source": "月英",
-        "Release date": "2017-09-01T00:00:00",
+        "Release date": "2017-09-01",
         "star": 5,
         "power": 764,
         "attack": 786,
@@ -52521,7 +52624,7 @@ window.allHeroes =
         "family": 2017,
         "image": "https://i.imgur.com/1PxVmlq.jpg",
         "costume_id": 0,
-        "originalIndex": 1362
+        "originalIndex": 1364
     },
     {
         "name": "武藏 (Musashi) C1",
@@ -52560,7 +52663,7 @@ window.allHeroes =
         "family": 2017,
         "image": "https://i.imgur.com/dt3i5jN.jpg",
         "costume_id": 1,
-        "originalIndex": 1363
+        "originalIndex": 1365
     },
     {
         "name": "奈斯 (Neith)",
@@ -52600,7 +52703,7 @@ window.allHeroes =
         "family": 2019,
         "image": "https://i.imgur.com/5p5UjK8.jpg",
         "costume_id": 0,
-        "originalIndex": 1364
+        "originalIndex": 1366
     },
     {
         "name": "涅墨西斯 (Nemesis)",
@@ -52645,7 +52748,7 @@ window.allHeroes =
         "family": "styx",
         "image": "https://i.imgur.com/erwVVF0.jpg",
         "costume_id": 0,
-        "originalIndex": 1365
+        "originalIndex": 1367
     },
     {
         "name": "恶怨妖灵 (Nithgaest)",
@@ -52685,7 +52788,7 @@ window.allHeroes =
         "family": "beowulf",
         "image": "https://imgur.com/25R91G2.jpg",
         "costume_id": 0,
-        "originalIndex": 1366
+        "originalIndex": 1368
     },
     {
         "name": "诺伦三女神 (Norns)",
@@ -52716,7 +52819,7 @@ window.allHeroes =
         "family": "vanaheim",
         "image": "https://i.imgur.com/evikfGP.jpg",
         "costume_id": 0,
-        "originalIndex": 1367
+        "originalIndex": 1369
     },
     {
         "name": "诺伦三女神 (Norns) C1",
@@ -52747,7 +52850,7 @@ window.allHeroes =
         "family": "vanaheim",
         "image": "https://i.imgur.com/aH5vllh.jpg",
         "costume_id": 1,
-        "originalIndex": 1368
+        "originalIndex": 1370
     },
     {
         "name": "奥丁 (Odin)",
@@ -52782,7 +52885,7 @@ window.allHeroes =
         "family": "midgard",
         "image": "https://i.imgur.com/WpdZnYI.jpg",
         "costume_id": 0,
-        "originalIndex": 1369
+        "originalIndex": 1371
     },
     {
         "name": "奥丁 (Odin) C1",
@@ -52817,7 +52920,7 @@ window.allHeroes =
         "family": "midgard",
         "image": "https://i.imgur.com/guLxDJt.jpg",
         "costume_id": 1,
-        "originalIndex": 1370
+        "originalIndex": 1372
     },
     {
         "name": "欧吉马 (Ogima)",
@@ -52857,7 +52960,7 @@ window.allHeroes =
         "family": "bard",
         "image": "https://i.imgur.com/8WZ5oVt.jpg",
         "costume_id": 0,
-        "originalIndex": 1371
+        "originalIndex": 1373
     },
     {
         "name": "奥纳特而 (Onatel)",
@@ -52895,7 +52998,7 @@ window.allHeroes =
         "family": 2019,
         "image": "https://i.imgur.com/wCLflfr.jpg",
         "costume_id": 0,
-        "originalIndex": 1372
+        "originalIndex": 1374
     },
     {
         "name": "帕普罗斯 (Papyros)",
@@ -52933,7 +53036,7 @@ window.allHeroes =
         "family": "moon",
         "image": "https://i.imgur.com/cV84mq0.jpg",
         "costume_id": 0,
-        "originalIndex": 1373
+        "originalIndex": 1375
     },
     {
         "name": "帕普罗斯 (Papyros) C1",
@@ -52976,7 +53079,7 @@ window.allHeroes =
         "family": "moon",
         "image": "https://i.imgur.com/jWPUwhw.jpg",
         "costume_id": 1,
-        "originalIndex": 1374
+        "originalIndex": 1376
     },
     {
         "name": "佩诺利特 (Penolite)",
@@ -53007,7 +53110,7 @@ window.allHeroes =
         "effects": [
             "对所有敌人造成 245% 伤害。",
             "对小兵和恶魔召唤者造成 490% 的伤害。",
-            "所有敌人获得的治疗减少 -50% ，持续 4 回合。"
+            "所有敌人获得的治疗减少 -50%，持续 4 回合。"
         ],
         "passives": [
             "石像鬼之肤：每当此石像鬼施放特殊技能时，其石肤会变硬。接下来受到的 4 次伤害将降至 1 点。此效果无法被驱散。"
@@ -53015,7 +53118,7 @@ window.allHeroes =
         "family": "gargoyle",
         "image": "https://i.imgur.com/ifFiCU7.jpg",
         "costume_id": 0,
-        "originalIndex": 1375
+        "originalIndex": 1377
     },
     {
         "name": "波莎 (Persa)",
@@ -53048,11 +53151,11 @@ window.allHeroes =
             "第一次：",
             "* 偷取目标的全部可驱散增益并随机施放给盟友。",
             "* 对目标造成 455% 伤害。",
-            "* 目标受到蔓延腐蚀性毒伤，持续 4 回合。蔓延腐蚀性毒伤每回合造成 290 点剧毒伤害，并且使目标的法力生成降低 -15%。对拥有小兵和超级小兵的英雄造成额外伤害。此效果会蔓延至附近敌人（只影响通过消除英雄格或由防御队伍在其回合结束时获得的法力）。",
+            "* 目标受到蔓延腐蚀性毒伤，持续 4 回合。蔓延腐蚀性毒伤每回合造成 290 点剧毒伤害，并且使目标的法力生成降低 -15%。对拥有小兵和超级小兵的英雄造成额外伤害。此效果会蔓延至附近敌人（只影响通过消除方块或由防御队伍在其回合结束时获得的法力）。",
             "第二次：",
             "* 偷取目标的全部可驱散增益并随机施放给盟友。",
             "* 对目标造成 490% 伤害。",
-            "* 目标受到蔓延腐蚀性毒伤，持续 4 回合。蔓延腐蚀性毒伤每回合造成 328 点剧毒伤害，并且使目标的法力生成降低 -20%。对拥有小兵和超级小兵的英雄造成额外伤害。此效果会蔓延至附近敌人（只影响通过消除英雄格或由防御队伍在其回合结束时获得的法力）。"
+            "* 目标受到蔓延腐蚀性毒伤，持续 4 回合。蔓延腐蚀性毒伤每回合造成 328 点剧毒伤害，并且使目标的法力生成降低 -20%。对拥有小兵和超级小兵的英雄造成额外伤害。此效果会蔓延至附近敌人（只影响通过消除方块或由防御队伍在其回合结束时获得的法力）。"
         ],
         "passives": [
             "特殊技能效果：",
@@ -53063,7 +53166,7 @@ window.allHeroes =
         "family": "nightmaresofatlantis",
         "image": "https://i.imgur.com/XWgWbVt.jpg",
         "costume_id": 0,
-        "originalIndex": 1376
+        "originalIndex": 1378
     },
     {
         "name": "波莎 (Persa) C1",
@@ -53096,11 +53199,11 @@ window.allHeroes =
             "第一次：",
             "* 偷取目标的全部可驱散增益并随机施放给盟友。",
             "* 对目标造成 450% 伤害。",
-            "* 目标受到蔓延腐蚀性毒伤，持续 4 回合。蔓延腐蚀性毒伤每回合造成 297 点剧毒伤害，并且使目标的法力生成降低 -10%。对拥有小兵和超级小兵的英雄造成额外伤害。此效果会蔓延至附近敌人（只影响通过消除英雄格或由防御队伍在其回合结束时获得的法力）。",
+            "* 目标受到蔓延腐蚀性毒伤，持续 4 回合。蔓延腐蚀性毒伤每回合造成 297 点剧毒伤害，并且使目标的法力生成降低 -10%。对拥有小兵和超级小兵的英雄造成额外伤害。此效果会蔓延至附近敌人（只影响通过消除方块或由防御队伍在其回合结束时获得的法力）。",
             "第二次：",
             "* 偷取目标的全部可驱散增益并随机施放给盟友。",
             "* 对目标造成 515% 伤害。",
-            "* 目标受到蔓延腐蚀性毒伤，持续 4 回合。蔓延腐蚀性毒伤每回合造成 549 点剧毒伤害，并且使目标的法力生成降低 -25%。对拥有小兵和超级小兵的英雄造成额外伤害。此效果会蔓延至附近敌人（只影响通过消除英雄格或由防御队伍在其回合结束时获得的法力）。"
+            "* 目标受到蔓延腐蚀性毒伤，持续 4 回合。蔓延腐蚀性毒伤每回合造成 549 点剧毒伤害，并且使目标的法力生成降低 -25%。对拥有小兵和超级小兵的英雄造成额外伤害。此效果会蔓延至附近敌人（只影响通过消除方块或由防御队伍在其回合结束时获得的法力）。"
         ],
         "passives": [
             "特殊技能效果：",
@@ -53112,7 +53215,7 @@ window.allHeroes =
         "family": "nightmaresofatlantis",
         "image": "https://i.imgur.com/nKfadia.jpg",
         "costume_id": 1,
-        "originalIndex": 1377
+        "originalIndex": 1379
     },
     {
         "name": "佩蒂纳克斯 (Pertinax)",
@@ -53155,7 +53258,7 @@ window.allHeroes =
         "family": "owl",
         "image": "https://i.imgur.com/LyzgS9S.jpg",
         "costume_id": 0,
-        "originalIndex": 1378
+        "originalIndex": 1380
     },
     {
         "name": "菲洛梅娜 (Philomena)",
@@ -53195,7 +53298,7 @@ window.allHeroes =
         "family": "woodlandfaun",
         "image": "https://imgur.com/zZJxSMo.jpg",
         "costume_id": 0,
-        "originalIndex": 1379
+        "originalIndex": 1381
     },
     {
         "name": "波塞冬 (Poseidon)",
@@ -53229,7 +53332,7 @@ window.allHeroes =
         "family": "atlantis",
         "image": "https://i.imgur.com/4yAjxl7.jpg",
         "costume_id": 0,
-        "originalIndex": 1380
+        "originalIndex": 1382
     },
     {
         "name": "波塞冬 (Poseidon) C1",
@@ -53262,7 +53365,7 @@ window.allHeroes =
         "family": "atlantis",
         "image": "https://i.imgur.com/jU6Z8JO.jpg",
         "costume_id": 1,
-        "originalIndex": 1381
+        "originalIndex": 1383
     },
     {
         "name": "黎登布洛克教授 (Prof. Lidenbrock)",
@@ -53300,7 +53403,7 @@ window.allHeroes =
         "family": "underwild",
         "image": "https://i.imgur.com/1q7ZFV3.jpg",
         "costume_id": 0,
-        "originalIndex": 1382
+        "originalIndex": 1384
     },
     {
         "name": "黎登布洛克教授 (Prof. Lidenbrock) C1",
@@ -53339,7 +53442,7 @@ window.allHeroes =
         "family": "underwild",
         "image": "https://i.imgur.com/CwQ3ejX.jpg",
         "costume_id": 1,
-        "originalIndex": 1383
+        "originalIndex": 1385
     },
     {
         "name": "郭王后 (Queen Guowang)",
@@ -53372,7 +53475,7 @@ window.allHeroes =
         "family": "journey",
         "image": "https://i.imgur.com/CNKl3X2.jpg",
         "costume_id": 0,
-        "originalIndex": 1384
+        "originalIndex": 1386
     },
     {
         "name": "拉娜 (Rana)",
@@ -53395,7 +53498,7 @@ window.allHeroes =
             "治疗削减"
         ],
         "source": "月活动-飞沙帝国",
-        "Release date": "2017-01-01",
+        "Release date": "2018-06-21",
         "star": 5,
         "power": 772,
         "attack": 735,
@@ -53404,14 +53507,14 @@ window.allHeroes =
         "effects": [
             "对目标及附近敌人造成 185% 伤害。",
             "目标与附近敌人在 3 回合内受到共计 423 点伤害。",
-            "目标与附近敌人获得的治疗增加 -75% ，持续 2 回合。此效果无法净化。",
+            "目标与附近敌人获得的治疗增加 -75%，持续 2 回合。此效果无法净化。",
             "净化施法者的状态异常。"
         ],
         "passives": [],
         "family": "sand",
         "image": "https://i.imgur.com/XCRwmmP.jpg",
         "costume_id": 0,
-        "originalIndex": 1385
+        "originalIndex": 1387
     },
     {
         "name": "拉娜 (Rana) C1",
@@ -53443,14 +53546,14 @@ window.allHeroes =
         "effects": [
             "对目标及附近敌人造成 185% 伤害。",
             "目标与附近敌人在 4 回合内受到共计 692 点水系伤害。",
-            "目标与附近敌人获得的治疗减少 -75% ，持续 4 回合。此效果无法净化。",
+            "目标与附近敌人获得的治疗减少 -75%，持续 4 回合。此效果无法净化。",
             "净化施法者和附近盟友的状态异常。"
         ],
         "passives": [],
         "family": "sand",
         "image": "https://i.imgur.com/ETB8w9H.jpg",
         "costume_id": 1,
-        "originalIndex": 1386
+        "originalIndex": 1388
     },
     {
         "name": "兰威尔 (Ranvir)",
@@ -53488,7 +53591,7 @@ window.allHeroes =
         "family": 2019,
         "image": "https://i.imgur.com/pCzfhdF.jpg",
         "costume_id": 0,
-        "originalIndex": 1387
+        "originalIndex": 1389
     },
     {
         "name": "里斯 (Rhys)",
@@ -53522,7 +53625,7 @@ window.allHeroes =
         "effects": [
             "提高所有盟友 320 点生命值。提高的生命值可以超过最大生命值。",
             "面板中所有神圣系盾牌受到影响。进攻方英雄施放此特殊技能时，盾牌将会被增强，给予的法力增加 +37% ；而防御方英雄施放此特殊技能时，盾牌则会被削弱，给予的法力减少 -30%。",
-            "所有盟友获得 +34% 攻击力，且面板上每存在一个神圣系盾牌都会使其攻击力额外增加 3% ，持续 3 回合，最高可达 +70% 攻击力。",
+            "所有盟友获得 +34% 攻击力，且面板上每存在一个神圣系盾牌都会使其攻击力额外增加 3%，持续 3 回合，最高可达 +70% 攻击力。",
             "净化所有盟友的状态异常。"
         ],
         "passives": [
@@ -53531,7 +53634,7 @@ window.allHeroes =
         "family": "bard",
         "image": "https://i.imgur.com/CuNew0r.jpg",
         "costume_id": 0,
-        "originalIndex": 1388
+        "originalIndex": 1390
     },
     {
         "name": "罗克 (Roc)",
@@ -53560,14 +53663,14 @@ window.allHeroes =
         "health": 1361,
         "effects": [
             "所有敌人在 3 回合内受到共计 324 点沙系伤害。",
-            "所有敌人获得的治疗减少 -50% ，持续 2 回合。此效果无法净化。",
+            "所有敌人获得的治疗减少 -50%，持续 2 回合。此效果无法净化。",
             "净化所有盟友的状态异常。"
         ],
         "passives": [],
         "family": "sand",
         "image": "https://i.imgur.com/jRrOk7n.jpg",
         "costume_id": 0,
-        "originalIndex": 1389
+        "originalIndex": 1391
     },
     {
         "name": "罗克 (Roc) C1",
@@ -53603,7 +53706,7 @@ window.allHeroes =
         "family": "sand",
         "image": "https://i.imgur.com/wRsoDQK.jpg",
         "costume_id": 1,
-        "originalIndex": 1390
+        "originalIndex": 1392
     },
     {
         "name": "罗莎琳德 (Rosalind)",
@@ -53645,7 +53748,7 @@ window.allHeroes =
         "family": "garrisonguard",
         "image": "https://i.imgur.com/founMKj.jpg",
         "costume_id": 0,
-        "originalIndex": 1391
+        "originalIndex": 1393
     },
     {
         "name": "阮小七 (Ruan Xiaoqi)",
@@ -53690,7 +53793,7 @@ window.allHeroes =
         "family": "outlaws",
         "image": "https://imgur.com/YX2qCp0.jpg",
         "costume_id": 0,
-        "originalIndex": 1392
+        "originalIndex": 1394
     },
     {
         "name": "萨尔尼斯 (Salniss)",
@@ -53724,7 +53827,7 @@ window.allHeroes =
             "对目标造成 500% 伤害。",
             "目标陷入沉默，持续 3 回合。",
             "对随机一个敌人造成 500% 伤害（如果没有其他有效目标，则此效果瞄准第一次击中的该名敌人）。",
-            "遭到第二次攻击的目标受到的伤害增加 +50% ，持续 3 回合。所有敌人每拥有一个小兵或超级小兵，则该效果提高 +10% ，最多可提高 +100%。"
+            "遭到第二次攻击的目标受到的伤害增加 +50%，持续 3 回合。所有敌人每拥有一个小兵或超级小兵，则该效果提高 +10%，最多可提高 +100%。"
         ],
         "passives": [
             "进阶无视小兵：该角色造成的所有伤害无视小兵和巨大体型小兵。",
@@ -53734,7 +53837,7 @@ window.allHeroes =
         "family": "astraldwarfs",
         "image": "https://i.imgur.com/iWjHJHA.jpg",
         "costume_id": 0,
-        "originalIndex": 1393
+        "originalIndex": 1395
     },
     {
         "name": "萨丁皮门特 (Satinpimenter)",
@@ -53768,7 +53871,7 @@ window.allHeroes =
         "effects": [
             "驱散目标和附近敌人身上的增益。",
             "对目标及附近敌人造成 420% 伤害。",
-            "目标与附近敌人在 4 回合内受到共计 612 点毒素伤害。拥有生命加成、小兵或超级小兵的目标受到的毒素伤害会增加（拥有生命加成的目标受到的毒素伤害增加 +100%。目标每拥有一个小兵或超级小兵，伤害额外增加 +33% ，最多可达 +199% ）。",
+            "目标与附近敌人在 4 回合内受到共计 612 点毒素伤害。拥有生命加成、小兵或超级小兵的目标受到的毒素伤害会增加（拥有生命加成的目标受到的毒素伤害增加 +100%。目标每拥有一个小兵或超级小兵，伤害额外增加 +33%，最多可达 +199% ）。",
             "施法者在 4 回合内恢复 1400 点生命值。"
         ],
         "passives": [
@@ -53777,7 +53880,7 @@ window.allHeroes =
         "family": "moth",
         "image": "https://i.imgur.com/S7h6aSM.jpg",
         "costume_id": 0,
-        "originalIndex": 1394
+        "originalIndex": 1396
     },
     {
         "name": "滚兽 (Scrollbeast)",
@@ -53818,7 +53921,7 @@ window.allHeroes =
         "family": "goblin",
         "image": "https://i.imgur.com/oI9QMY8.jpg",
         "costume_id": 0,
-        "originalIndex": 1395
+        "originalIndex": 1397
     },
     {
         "name": "沙埃尔 (Shaal)",
@@ -53862,7 +53965,7 @@ window.allHeroes =
         "family": "construct",
         "image": "https://i.imgur.com/elVlVhm.jpg",
         "costume_id": 0,
-        "originalIndex": 1396
+        "originalIndex": 1398
     },
     {
         "name": "闪鳞 (Shimmerscale)",
@@ -53900,7 +54003,7 @@ window.allHeroes =
         "family": "garrisonguard",
         "image": "https://i.imgur.com/5LBrUnk.jpg",
         "costume_id": 0,
-        "originalIndex": 1397
+        "originalIndex": 1399
     },
     {
         "name": "希芙 (Sif)",
@@ -53929,14 +54032,14 @@ window.allHeroes =
         "health": 1339,
         "effects": [
             "施法者和附近盟友以所受伤害的 100% 进行反击，持续 4 回合。",
-            "施法者和附近盟友所受的所有伤害减少 -50% ，持续 4 回合。",
+            "施法者和附近盟友所受的所有伤害减少 -50%，持续 4 回合。",
             "施法者和附近盟友获得 +24% 法力生成，持续 4 回合。"
         ],
         "passives": [],
         "family": "midgard",
         "image": "https://i.imgur.com/IEuL57g.jpg",
         "costume_id": 0,
-        "originalIndex": 1398
+        "originalIndex": 1400
     },
     {
         "name": "希芙 (Sif) C1",
@@ -53967,13 +54070,13 @@ window.allHeroes =
         "effects": [
             "使施法者和附近盟友的法力增加 15%。",
             "施法者和附近盟友以所受伤害的 125% 进行反击，持续 4 回合。",
-            "施法者和附近盟友所受的所有伤害减少 40% ，持续 4 回合。"
+            "施法者和附近盟友所受的所有伤害减少 40%，持续 4 回合。"
         ],
         "passives": [],
         "family": "midgard",
         "image": "https://i.imgur.com/L0IBEq2.jpg",
         "costume_id": 1,
-        "originalIndex": 1399
+        "originalIndex": 1401
     },
     {
         "name": "银爪 (Silverpaw)",
@@ -54012,7 +54115,7 @@ window.allHeroes =
         "family": "fox",
         "image": "https://i.imgur.com/Cj9sBht.jpg",
         "costume_id": 0,
-        "originalIndex": 1400
+        "originalIndex": 1402
     },
     {
         "name": "咕咕鸡先生 (Sir Roostley)",
@@ -54046,7 +54149,7 @@ window.allHeroes =
         "family": "springvale",
         "image": "https://i.imgur.com/YbdZndT.jpg",
         "costume_id": 0,
-        "originalIndex": 1401
+        "originalIndex": 1403
     },
     {
         "name": "斯拉古司 (Sludgus)",
@@ -54085,7 +54188,7 @@ window.allHeroes =
         "family": "slime",
         "image": "https://i.imgur.com/IpdLyXH.jpg",
         "costume_id": 0,
-        "originalIndex": 1402
+        "originalIndex": 1404
     },
     {
         "name": "唐三藏 (Tang Sanzang)",
@@ -54124,7 +54227,7 @@ window.allHeroes =
         "family": "kingdom",
         "image": "https://i.imgur.com/y2EYio1.jpg",
         "costume_id": 0,
-        "originalIndex": 1403
+        "originalIndex": 1405
     },
     {
         "name": "托尔 (Thor)",
@@ -54166,7 +54269,7 @@ window.allHeroes =
         "family": "midgard",
         "image": "https://i.imgur.com/Cls9o26.jpg",
         "costume_id": 0,
-        "originalIndex": 1404
+        "originalIndex": 1406
     },
     {
         "name": "托尔 (Thor) C1",
@@ -54207,7 +54310,7 @@ window.allHeroes =
         "family": "midgard",
         "image": "https://i.imgur.com/LYyDsUh.jpg",
         "costume_id": 1,
-        "originalIndex": 1405
+        "originalIndex": 1407
     },
     {
         "name": "雷响 (Thunderclap)",
@@ -54249,7 +54352,7 @@ window.allHeroes =
         "family": "junglehunter",
         "image": "https://i.imgur.com/8fPiMj3.jpg",
         "costume_id": 0,
-        "originalIndex": 1406
+        "originalIndex": 1408
     },
     {
         "name": "杜拉 (Thura)",
@@ -54290,7 +54393,7 @@ window.allHeroes =
         "family": "plainshunter",
         "image": "https://i.imgur.com/3kaZWy1.jpg",
         "costume_id": 0,
-        "originalIndex": 1407
+        "originalIndex": 1409
     },
     {
         "name": "黄玉 (Topaz)",
@@ -54336,7 +54439,7 @@ window.allHeroes =
         "family": "ninja",
         "image": "https://i.imgur.com/yKvm70P.jpg",
         "costume_id": 0,
-        "originalIndex": 1408
+        "originalIndex": 1410
     },
     {
         "name": "乌赖乌斯 (Uraeus)",
@@ -54379,7 +54482,7 @@ window.allHeroes =
         "family": 2021,
         "image": "https://i.imgur.com/1T6P7Be.jpg",
         "costume_id": 0,
-        "originalIndex": 1409
+        "originalIndex": 1411
     },
     {
         "name": "吠舍离 (Vaishali)",
@@ -54430,7 +54533,7 @@ window.allHeroes =
         "family": "magic",
         "image": "https://i.imgur.com/Ssu3ay2.jpg",
         "costume_id": 0,
-        "originalIndex": 1410
+        "originalIndex": 1412
     },
     {
         "name": "薇薇卡 (Vivica)",
@@ -54451,7 +54554,7 @@ window.allHeroes =
             "治疗"
         ],
         "source": "S1-经典",
-        "Release date": "2017-01-01",
+        "Release date": "2017-03-01",
         "star": 5,
         "power": 755,
         "attack": 714,
@@ -54466,7 +54569,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/aHsNbej.jpg",
         "costume_id": 0,
-        "originalIndex": 1411
+        "originalIndex": 1413
     },
     {
         "name": "薇薇卡 (Vivica) C1",
@@ -54487,7 +54590,7 @@ window.allHeroes =
             "治疗"
         ],
         "source": "S1-经典",
-        "Release date": "2020-01-01",
+        "Release date": "2020-01-20",
         "star": 5,
         "power": 796,
         "attack": 741,
@@ -54502,7 +54605,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/pm7wcbP.jpg",
         "costume_id": 1,
-        "originalIndex": 1412
+        "originalIndex": 1414
     },
     {
         "name": "薇薇卡 (Vivica) C2",
@@ -54538,7 +54641,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/J8lGs8A.jpg",
         "costume_id": 2,
-        "originalIndex": 1413
+        "originalIndex": 1415
     },
     {
         "name": "薇薇卡 (Vivica) 卡通",
@@ -54576,7 +54679,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/zJxvLuN.jpg",
         "costume_id": 3,
-        "originalIndex": 1414
+        "originalIndex": 1416
     },
     {
         "name": "薇薇卡 (Vivica) 玻璃",
@@ -54617,7 +54720,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/Vcxpsu2.jpg",
         "costume_id": 4,
-        "originalIndex": 1415
+        "originalIndex": 1417
     },
     {
         "name": "韦恩 (Wayne)",
@@ -54645,7 +54748,7 @@ window.allHeroes =
         "health": 1442,
         "effects": [
             "所有敌人在 2 回合内受到共计 284 点流血伤害。施法者会吸收所造成流血伤害的 30% 并转化为生命值。",
-            "施法者偷取所有敌人所获治疗的 60% ，持续 2 回合。"
+            "施法者偷取所有敌人所获治疗的 60%，持续 2 回合。"
         ],
         "passives": [
             "窃取增益：当该角色施放其特殊技能时，有 50% 的几率从一个带有增益的随机敌人身上窃取最新的可驱散增益。如果没有敌人带有增益，则对所有敌人造成 70% 的伤害。"
@@ -54653,7 +54756,7 @@ window.allHeroes =
         "family": "morlovia",
         "image": "https://i.imgur.com/ogAtunM.jpg",
         "costume_id": 0,
-        "originalIndex": 1416
+        "originalIndex": 1418
     },
     {
         "name": "韦尔霍夫 (Wealhtheow)",
@@ -54698,7 +54801,7 @@ window.allHeroes =
         "family": "beowulf",
         "image": "https://i.imgur.com/yG43ChX.jpg",
         "costume_id": 0,
-        "originalIndex": 1417
+        "originalIndex": 1419
     },
     {
         "name": "白兔先生 (White Rabbit)",
@@ -54717,7 +54820,7 @@ window.allHeroes =
             "防御减益"
         ],
         "source": "挑战节-仙境",
-        "Release date": "2017-01-01",
+        "Release date": "2019-02-14",
         "star": 5,
         "power": 779,
         "attack": 731,
@@ -54731,7 +54834,7 @@ window.allHeroes =
         "family": "wonderland",
         "image": "https://i.imgur.com/00qNGOk.jpg",
         "costume_id": 0,
-        "originalIndex": 1418
+        "originalIndex": 1420
     },
     {
         "name": "白兔先生 (White Rabbit) C1",
@@ -54766,7 +54869,7 @@ window.allHeroes =
         "family": "wonderland",
         "image": "https://i.imgur.com/qj3SAsZ.jpg",
         "costume_id": 1,
-        "originalIndex": 1419
+        "originalIndex": 1421
     },
     {
         "name": "维柳 (Willow)",
@@ -54807,7 +54910,7 @@ window.allHeroes =
             "* 所有敌人对新的防御增益状态效果免疫，持续 3 回合。",
             "2 倍法力充能：",
             "* 所有盟友攻击时无视防御增益，持续 5 回合（包括反击）。",
-            "* 所有盟友所受的所有伤害减少 -45% ，持续 5 回合。",
+            "* 所有盟友所受的所有伤害减少 -45%，持续 5 回合。",
             "* 所有盟友会以所受伤害的 115% 进行反击，持续 5 回合。"
         ],
         "passives": [
@@ -54817,7 +54920,7 @@ window.allHeroes =
         "family": "magic",
         "image": "https://i.imgur.com/Njfyzmw.jpg",
         "costume_id": 0,
-        "originalIndex": 1420
+        "originalIndex": 1422
     },
     {
         "name": "温妮 (Winnie)",
@@ -54858,7 +54961,7 @@ window.allHeroes =
         "family": "stag",
         "image": "https://i.imgur.com/Dx6MykQ.jpg",
         "costume_id": 0,
-        "originalIndex": 1421
+        "originalIndex": 1423
     },
     {
         "name": "沃尔夫冈 (Wolfgang)",
@@ -54888,14 +54991,14 @@ window.allHeroes =
         "health": 1450,
         "effects": [
             "对所有敌人造成 250% 伤害。",
-            "施法者所受的所有伤害减少 -50% ，持续 4 回合。",
+            "施法者所受的所有伤害减少 -50%，持续 4 回合。",
             "所有盟友在 4 回合内获得共计 720 点生命加成。提高的生命值可以超过最大生命值。"
         ],
         "passives": [],
         "family": "wolf",
         "image": "https://i.imgur.com/8Qu4qUF.jpg",
         "costume_id": 0,
-        "originalIndex": 1422
+        "originalIndex": 1424
     },
     {
         "name": "沃尔夫冈 (Wolfgang) C1",
@@ -54925,7 +55028,7 @@ window.allHeroes =
         "health": 2143,
         "effects": [
             "对所有敌人造成 300% 伤害。",
-            "施法者所受的所有伤害减少 -45% ，持续 4 回合。",
+            "施法者所受的所有伤害减少 -45%，持续 4 回合。",
             "所有盟友在 4 回合内获得共计 720 点生命加成。提高的生命值可以超过最大生命值。"
         ],
         "passives": [
@@ -54936,7 +55039,7 @@ window.allHeroes =
         "family": "wolf",
         "image": "https://i.imgur.com/2DLIDng.jpg",
         "costume_id": 1,
-        "originalIndex": 1423
+        "originalIndex": 1425
     },
     {
         "name": "武尔夫斯坦 (Wulfstan)",
@@ -54973,7 +55076,7 @@ window.allHeroes =
         "family": "cultist",
         "image": "https://i.imgur.com/EHlubEr.jpg",
         "costume_id": 0,
-        "originalIndex": 1424
+        "originalIndex": 1426
     },
     {
         "name": "泽维尔 (Xavier)",
@@ -55016,7 +55119,7 @@ window.allHeroes =
         "family": "superelemental",
         "image": "https://i.imgur.com/DZtGVoI.jpg",
         "costume_id": 0,
-        "originalIndex": 1425
+        "originalIndex": 1427
     },
     {
         "name": "赞德莉亚 (Zandria)",
@@ -55046,7 +55149,7 @@ window.allHeroes =
             "对所有敌人造成 210% 伤害。",
             "面板上每存在一个神圣系盾牌，便造成额外 20% 伤害，最多累计造成 450% 伤害。",
             "每名被击败的盟友有 20% 的几率以 40% 的生命值复活。",
-            "面板上每个神圣系盾牌都会使复活几率提高 5% ，最高可达 80% 几率。"
+            "面板上每个神圣系盾牌都会使复活几率提高 5%，最高可达 80% 几率。"
         ],
         "passives": [
             "队伍大师：",
@@ -55058,7 +55161,7 @@ window.allHeroes =
         "family": "superelemental",
         "image": "https://i.imgur.com/h5xLq71.jpg",
         "costume_id": 0,
-        "originalIndex": 1426
+        "originalIndex": 1428
     },
     {
         "name": "扎莎 (Zazha)",
@@ -55102,7 +55205,7 @@ window.allHeroes =
         "family": "magiccarpet",
         "image": "https://imgur.com/da8x4gT.jpg",
         "costume_id": 0,
-        "originalIndex": 1427
+        "originalIndex": 1429
     },
     {
         "name": "泽克纳 (Zekena)",
@@ -55140,7 +55243,7 @@ window.allHeroes =
         "family": "underwild",
         "image": "https://i.imgur.com/hsqxizP.jpg",
         "costume_id": 0,
-        "originalIndex": 1428
+        "originalIndex": 1430
     },
     {
         "name": "泽克纳 (Zekena) C1",
@@ -55179,7 +55282,7 @@ window.allHeroes =
         "family": "underwild",
         "image": "https://i.imgur.com/KswtgYH.jpg",
         "costume_id": 1,
-        "originalIndex": 1429
+        "originalIndex": 1431
     },
     {
         "name": "泽努克瓦 (Zenuk'wa)",
@@ -55218,7 +55321,7 @@ window.allHeroes =
         "family": "beachparty",
         "image": "https://i.imgur.com/wpHKBfv.jpg",
         "costume_id": 0,
-        "originalIndex": 1430
+        "originalIndex": 1432
     },
     {
         "name": "张飞 (Zhang Fei)",
@@ -55237,7 +55340,7 @@ window.allHeroes =
             "狙击手"
         ],
         "source": "三国召唤",
-        "Release date": "2022-03-14T12:00:00",
+        "Release date": "2022-03-14",
         "star": 5,
         "power": 835,
         "attack": 856,
@@ -55251,7 +55354,7 @@ window.allHeroes =
         "family": "kingdom",
         "image": "https://i.imgur.com/stJf0Qg.jpg",
         "costume_id": 0,
-        "originalIndex": 1431
+        "originalIndex": 1433
     },
     {
         "name": "张飞 (Zhang Fei) C1",
@@ -55292,7 +55395,7 @@ window.allHeroes =
         "family": "kingdom",
         "image": "https://i.imgur.com/LeENxWF.jpg",
         "costume_id": 1,
-        "originalIndex": 1432
+        "originalIndex": 1434
     },
     {
         "name": "诸葛亮 (Zhuge Liang)",
@@ -55313,7 +55416,7 @@ window.allHeroes =
             "持续伤害"
         ],
         "source": "三国召唤",
-        "Release date": "2022-03-14T12:00:00",
+        "Release date": "2022-03-14",
         "star": 5,
         "power": 835,
         "attack": 710,
@@ -55329,7 +55432,7 @@ window.allHeroes =
         "family": "kingdom",
         "image": "https://i.imgur.com/jjSBiGT.jpg",
         "costume_id": 0,
-        "originalIndex": 1433
+        "originalIndex": 1435
     },
     {
         "name": "诸葛亮 (Zhuge Liang) C1",
@@ -55371,7 +55474,7 @@ window.allHeroes =
         "family": "kingdom",
         "image": "https://i.imgur.com/zdjoPv7.jpg",
         "costume_id": 1,
-        "originalIndex": 1434
+        "originalIndex": 1436
     },
     {
         "name": "佐拉 (Zora)",
@@ -55401,7 +55504,7 @@ window.allHeroes =
         "effects": [
             "对所有敌人造成 330% 伤害。",
             "净化所有盟友的状态异常。",
-            "所有盟友获得 +20% 攻击力，且每移除一个状态效果便再增加 +5% 攻击力，最高可达 +60% ，持续 4 回合。",
+            "所有盟友获得 +20% 攻击力，且每移除一个状态效果便再增加 +5% 攻击力，最高可达 +60%，持续 4 回合。",
             "元素链为全体神圣系盟友提供额外 +10% 的特殊技能伤害，持续 4 回合。此效果无法驱散。"
         ],
         "passives": [
@@ -55411,6 +55514,6 @@ window.allHeroes =
         "family": 2024,
         "image": "https://i.imgur.com/wf4Kvkm.jpg",
         "costume_id": 0,
-        "originalIndex": 1435
+        "originalIndex": 1437
     }
 ];

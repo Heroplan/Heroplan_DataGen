@@ -1,4 +1,4 @@
-const families_bonus = [
+window.families_bonus = [
     {
         "originalIndex": 0,
         "name": "avalon",
@@ -570,7 +570,7 @@ const families_bonus = [
             "50%/75% chance to give all allies +36% attack for 3 turns after this character receives Special Skill damage. If the enemy’s Special Skill defeats this character, the chance is 75%/100%",
             "Related Family Bonus: Hero is related to the Atlantis Family.",
             "Hero receives the family bonus of a related family when in team with at least 1 related hero. Bonus for 1/2/3/4/5 heroes: +5%/+10%/+15%/+20%/+25% defense.",
-            "The members of this family have additional perks in Untold Tales stages."
+            "The members of this family have additional perks in Untold Tales 1: Mysteries of the Deep stages."
         ]
     },
     {
@@ -581,7 +581,7 @@ const families_bonus = [
             "50%/75% chance to cast -10% mana generation for 3 turns on an enemy who deals Special Skill damage to this character. If the enemy’s Special Skill defeats this character, the chance is 75%/100%.",
             "Related Family Bonus: Hero is related to the Atlantis Family.",
             "Hero receives the family bonus of a related family when in team with at least 1 related hero. Bonus for 1/2/3/4/5 heroes: +5%/+10%/+15%/+20%/+25% defense.",
-            "The members of this family have additional perks in Untold Tales stages."
+            "The members of this family have additional perks in Untold Tales 1: Mysteries of the Deep stages."
         ]
     },
     {
@@ -796,8 +796,9 @@ const families_bonus = [
         "originalIndex": 84,
         "name": "wildcat",
         "bonus": [
-            "Bonus for 1 / 2 / 3 Unique Heroes:",
-            "5% / 10% / 15% chance to dodge Special Skills."
+            "Bonus for 1/2/3 Unique Heroes:",
+            "5%/10%/15% chance to dodge Special Skills.",
+            "Each Special Skill dodged damages the attacker for 100/200/300 damage."
         ]
     }
 ];

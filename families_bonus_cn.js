@@ -354,7 +354,7 @@ window.families_bonus = [
             "每次为该英雄召唤一个小兵时，该英雄都会恢复 3% / 5% / 7% 生命。",
             "士气提升：",
             "属于该家族的英雄以及与他们并肩作战的英雄在三国战争中获得以下特权：",
-            "+10% 攻击力， 3% 防御， +7% 生命值"
+            "+10% 攻击力，+ 3% 防御， +7% 生命值"
         ]
     },
     {
@@ -570,7 +570,7 @@ window.families_bonus = [
             "当此角色受到特殊技能伤害后，有 50% / 75% 的几率给予所有盟友 +36% 攻击力，持续 3 回合。如果敌方的特殊技能击杀了此角色，则此几率变为 75% / 100%。",
             "相关家族加成：英雄与亚特兰蒂斯家族相关。",
             "与至少 1 名相关英雄组队时，英雄会获得相关家族的家族加成。 1 / 2 / 3 / 4 / 5 位英雄的加成： +5% / +10% / +15% / +20% / +25% 防御。",
-            "该家族的成员在秘闻传奇关卡中拥有额外特权。"
+            "The members of this family have additional perks in Untold Tales 1: Mysteries of the Deep stages."
         ]
     },
     {
@@ -581,7 +581,7 @@ window.families_bonus = [
             "当一名敌人对此角色造成特殊技能伤害时，该敌人有 50% / 75% 的几率获得 -10% 法力生成，持续 3 回合。如果敌方的特殊技能击杀了此角色，则此几率变为 75% / 100%。",
             "相关家族加成：英雄与亚特兰蒂斯家族相关。",
             "与至少 1 名相关英雄组队时，英雄会获得相关家族的家族加成。 1 / 2 / 3 / 4 / 5 位英雄的加成： +5% / +10% / +15% / +20% / +25% 防御。",
-            "该家族的成员在秘闻传奇关卡中拥有额外特权。"
+            "The members of this family have additional perks in Untold Tales 1: Mysteries of the Deep stages."
         ]
     },
     {
@@ -797,7 +797,8 @@ window.families_bonus = [
         "name": "wildcat",
         "bonus": [
             "1 / 2 / 3 位独特英雄的加成：",
-            "5% / 10% / 15% 几率闪避特殊技能。"
+            "5%/10%/15% chance to dodge Special Skills.",
+            "Each Special Skill dodged damages the attacker for 100/200/300 damage."
         ]
     }
 ];

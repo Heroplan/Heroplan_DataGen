@@ -124,7 +124,7 @@ def run_final_json_merge(lang_code, logger):
 
     # 定义所有需要合并的源文件路径（注意：这里使用了上一步更新后的文件）
     updated_heroes_file = f'heroes_data_{lang_code}.js'
-    families_bonus_file = f'families_bonus_{lang_code}.js'
+    families_bonus_file = f'translated/families_bonus_{lang_code}.js'
     family_values_file = f'family_values_{lang_code}.js'
 
     logger.info(f"加载更新后的英雄数据: '{updated_heroes_file}'")

@@ -15,7 +15,7 @@ window.allHeroes =
             "AoE Attackers (Hit-5)"
         ],
         "source": "S1-Classic",
-        "Release date": "2017-01-01",
+        "Release date": "2017-03-01",
         "star": 1,
         "power": 210,
         "attack": 177,
@@ -45,7 +45,7 @@ window.allHeroes =
             "Snipers"
         ],
         "source": "S1-Classic",
-        "Release date": "2017-01-01",
+        "Release date": "2017-03-01",
         "star": 1,
         "power": 210,
         "attack": 183,
@@ -75,7 +75,7 @@ window.allHeroes =
             "Buffers (DEF)"
         ],
         "source": "S1-Classic",
-        "Release date": "2017-01-01",
+        "Release date": "2017-03-01",
         "star": 2,
         "power": 332,
         "attack": 283,
@@ -105,7 +105,7 @@ window.allHeroes =
             "AoE Attackers (Hit-5)"
         ],
         "source": "S1-Classic",
-        "Release date": "2017-01-01",
+        "Release date": "2017-03-01",
         "star": 2,
         "power": 334,
         "attack": 369,
@@ -135,7 +135,7 @@ window.allHeroes =
             "Buffers (ATK)"
         ],
         "source": "S1-Classic",
-        "Release date": "2017-01-01",
+        "Release date": "2017-03-01",
         "star": 2,
         "power": 333,
         "attack": 310,
@@ -318,7 +318,7 @@ window.allHeroes =
             "Snipers"
         ],
         "source": "S2-Atlantis",
-        "Release date": "2019-08-01",
+        "Release date": "2019-08-22",
         "star": 3,
         "power": 447,
         "attack": 516,
@@ -351,7 +351,7 @@ window.allHeroes =
             "Snipers"
         ],
         "source": "S1-Classic",
-        "Release date": "2017-01-01",
+        "Release date": "2017-03-01",
         "star": 3,
         "power": 441,
         "attack": 467,
@@ -527,7 +527,7 @@ window.allHeroes =
             "Damage Sharers"
         ],
         "source": "S1-Classic",
-        "Release date": "2017-01-01",
+        "Release date": "2017-03-01",
         "star": 3,
         "power": 441,
         "attack": 387,
@@ -560,7 +560,7 @@ window.allHeroes =
             "Debuffers (DEF)"
         ],
         "source": "S1-Classic",
-        "Release date": "2020-01-01",
+        "Release date": "2020-01-20",
         "star": 3,
         "power": 464,
         "attack": 415,
@@ -844,7 +844,7 @@ window.allHeroes =
             "AoE Attackers (Hit-3)"
         ],
         "source": "S1-Classic",
-        "Release date": "2017-01-01",
+        "Release date": "2017-03-01",
         "star": 3,
         "power": 442,
         "attack": 484,
@@ -1130,7 +1130,7 @@ window.allHeroes =
             "Debuffers (DEF)"
         ],
         "source": "S1-Classic",
-        "Release date": "2017-01-01",
+        "Release date": "2017-03-01",
         "star": 3,
         "power": 445,
         "attack": 528,
@@ -1233,7 +1233,7 @@ window.allHeroes =
             "Snipers"
         ],
         "source": "S1-Classic",
-        "Release date": "2017-01-01",
+        "Release date": "2017-03-01",
         "star": 3,
         "power": 442,
         "attack": 479,
@@ -1382,7 +1382,7 @@ window.allHeroes =
             "Extra Damage Dealers"
         ],
         "source": "Challenge Festival-Pirates",
-        "Release date": "2017-01-01",
+        "Release date": "2017-09-07",
         "star": 3,
         "power": 455,
         "attack": 439,
@@ -1416,7 +1416,7 @@ window.allHeroes =
             "Minions Summoners"
         ],
         "source": "Three Kingdoms Summon",
-        "Release date": "2022-03-14T12:00:00",
+        "Release date": "2022-03-14",
         "star": 3,
         "power": 483,
         "attack": 486,
@@ -1715,7 +1715,7 @@ window.allHeroes =
             "Counterattackers"
         ],
         "source": "S1-Classic",
-        "Release date": "2017-01-01",
+        "Release date": "2017-03-01",
         "star": 4,
         "power": 643,
         "attack": 501,
@@ -1841,7 +1841,7 @@ window.allHeroes =
             "Snipers"
         ],
         "source": "Challenge Festival-Wonderland",
-        "Release date": "2019-02-01",
+        "Release date": "2019-02-14",
         "star": 4,
         "power": 650,
         "attack": 620,
@@ -2107,7 +2107,7 @@ window.allHeroes =
             "Debuffers (DEF)"
         ],
         "source": "S1-Classic",
-        "Release date": "2017-01-01",
+        "Release date": "2017-03-01",
         "star": 4,
         "power": 642,
         "attack": 716,
@@ -2355,7 +2355,7 @@ window.allHeroes =
             "Healers"
         ],
         "source": "S1-Classic",
-        "Release date": "2017-01-01",
+        "Release date": "2017-03-01",
         "star": 4,
         "power": 647,
         "attack": 656,
@@ -2815,7 +2815,7 @@ window.allHeroes =
             "Snipers"
         ],
         "source": "S1-Classic",
-        "Release date": "2017-01-01",
+        "Release date": "2017-03-01",
         "star": 4,
         "power": 643,
         "attack": 607,
@@ -2848,7 +2848,7 @@ window.allHeroes =
             "Snipers"
         ],
         "source": "S1-Classic",
-        "Release date": "2020-01-01",
+        "Release date": "2020-01-20",
         "star": 4,
         "power": 678,
         "attack": 646,
@@ -3020,7 +3020,7 @@ window.allHeroes =
             "Snipers"
         ],
         "source": "Monthly Event-Morlovia",
-        "Release date": "2018-10-01",
+        "Release date": "2018-10-25",
         "star": 4,
         "power": 649,
         "attack": 609,
@@ -3057,7 +3057,7 @@ window.allHeroes =
             "Snipers"
         ],
         "source": "Three Kingdoms Summon",
-        "Release date": "2022-03-14T12:00:00",
+        "Release date": "2022-03-14",
         "star": 4,
         "power": 683,
         "attack": 641,
@@ -3164,7 +3164,7 @@ window.allHeroes =
             "Fiends Summoners"
         ],
         "source": "Covenant Summon",
-        "Release date": "2022-09-18",
+        "Release date": "2022-09-15",
         "star": 5,
         "power": 888,
         "attack": 803,
@@ -3205,7 +3205,7 @@ window.allHeroes =
             "Heal over Time (HoT)"
         ],
         "source": "Hero of the Month",
-        "Release date": "2018-10-01T00:00:00",
+        "Release date": "2018-10-01",
         "star": 5,
         "power": 768,
         "attack": 615,
@@ -3358,7 +3358,7 @@ window.allHeroes =
             "Buffers (DEF)"
         ],
         "source": "Hero of the Month",
-        "Release date": "2018-05-01T00:00:00",
+        "Release date": "2018-05-01",
         "star": 5,
         "power": 768,
         "attack": 739,
@@ -3474,7 +3474,7 @@ window.allHeroes =
             "Snipers"
         ],
         "source": "Challenge Festival-Wonderland",
-        "Release date": "2019-02-01",
+        "Release date": "2019-02-14",
         "star": 5,
         "power": 769,
         "attack": 741,
@@ -3841,7 +3841,7 @@ window.allHeroes =
             "Buffers (DEF)"
         ],
         "source": "Hero of the Month",
-        "Release date": "2017-07-01T00:00:00",
+        "Release date": "2017-07-01",
         "star": 5,
         "power": 765,
         "attack": 737,
@@ -5425,7 +5425,7 @@ window.allHeroes =
             "Snipers"
         ],
         "source": "Challenge Festival-Pirates",
-        "Release date": "2017-01-01",
+        "Release date": "2019-11-11",
         "star": 5,
         "power": 781,
         "attack": 753,
@@ -6261,7 +6261,7 @@ window.allHeroes =
             "Debuffers (DEF)"
         ],
         "source": "S1-Classic",
-        "Release date": "2017-01-01",
+        "Release date": "2017-03-01",
         "star": 5,
         "power": 755,
         "attack": 797,
@@ -6294,7 +6294,7 @@ window.allHeroes =
             "Debuffers (DEF)"
         ],
         "source": "S1-Classic",
-        "Release date": "2020-01-01",
+        "Release date": "2020-01-20",
         "star": 5,
         "power": 794,
         "attack": 869,
@@ -6659,7 +6659,7 @@ window.allHeroes =
             "Snipers"
         ],
         "source": "Challenge Festival-Avalon",
-        "Release date": "2017-01-01",
+        "Release date": "2018-01-05",
         "star": 5,
         "power": 765,
         "attack": 708,
@@ -6795,6 +6795,56 @@ window.allHeroes =
         "originalIndex": 178
     },
     {
+        "name": "Lennart",
+        "fancy_name": "Sharp-Eyed Bobcat",
+        "AetherPower": "Ailment Immunity",
+        "color": "Blue",
+        "class": "Ranger",
+        "speed": "Fast",
+        "skill": "Pursuing Shot",
+        "types": [
+            "Hit 1",
+            "DoT 1",
+            "Increased damage from Ailments 1",
+            "Damage on each Resisted Healing 1"
+        ],
+        "skill_types": [
+            "Snipers",
+            "DoT Attackers",
+            "Revivers",
+            "Healing Reducers",
+            "Extra Damage Dealers"
+        ],
+        "source": "Wilderness Summon",
+        "Release date": "2025-06-28",
+        "star": 5,
+        "power": 1215,
+        "attack": 1326,
+        "defense": 1176,
+        "health": 2121,
+        "effects": [
+            "Deals 500% damage to the target.",
+            "The target receives 1500 Surge Bleed damage over 6 turns. (If the target already has this effect, the duration will be refreshed and the damage will be increased by 300. Max total damage: 2400.)",
+            "The target takes +40% increased damage from status ailments for 6 turns.",
+            "The target resists healing and receives 300 damage per each resisted healing for 6 turns."
+        ],
+        "passives": [
+            "Nine Lives:",
+            " * When defeated this character has 80% chance to revive at the begining of their next turn with 50% health and 80% mana.",
+            " * Activates up to 9 times. Chance to revive is reduced on each activation. Can’t be prevented with status ailments or Passive Skills.",
+            "Trait: Lithe Frame",
+            "This character is not affect by effects that increase or reduce defense.",
+            "This includes:",
+            " * - Status effect buffs and ailments.",
+            " * - Positive and negative stacks.",
+            " * - Growth and Wither effects."
+        ],
+        "family": "wildcat",
+        "image": "https://imgur.com/yQl1QjJ.jpg",
+        "costume_id": 0,
+        "originalIndex": 179
+    },
+    {
         "name": "Lord Loki",
         "fancy_name": "Trickster God",
         "AetherPower": "Special Armor",
@@ -6826,7 +6876,7 @@ window.allHeroes =
         "family": "jotunheim",
         "image": "https://i.imgur.com/eGy2uqe.jpg",
         "costume_id": 0,
-        "originalIndex": 179
+        "originalIndex": 180
     },
     {
         "name": "Lord Loki C1",
@@ -6862,7 +6912,7 @@ window.allHeroes =
         "family": "jotunheim",
         "image": "https://i.imgur.com/aEGEu4Y.jpg",
         "costume_id": 1,
-        "originalIndex": 180
+        "originalIndex": 181
     },
     {
         "name": "Lysanor",
@@ -6902,7 +6952,7 @@ window.allHeroes =
         "family": "stag",
         "image": "https://i.imgur.com/Er9WfxT.jpg",
         "costume_id": 0,
-        "originalIndex": 181
+        "originalIndex": 182
     },
     {
         "name": "Magistine",
@@ -6943,7 +6993,7 @@ window.allHeroes =
         "family": "slime",
         "image": "https://imgur.com/7ut41LY.jpg",
         "costume_id": 0,
-        "originalIndex": 182
+        "originalIndex": 183
     },
     {
         "name": "Magni",
@@ -6962,7 +7012,7 @@ window.allHeroes =
             "Snipers"
         ],
         "source": "S1-Classic",
-        "Release date": "2017-01-01",
+        "Release date": "2017-03-01",
         "star": 5,
         "power": 754,
         "attack": 793,
@@ -6976,7 +7026,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/JpMZ0xh.jpg",
         "costume_id": 0,
-        "originalIndex": 183
+        "originalIndex": 184
     },
     {
         "name": "Magni C1",
@@ -7009,7 +7059,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/A0jPrh9.jpg",
         "costume_id": 1,
-        "originalIndex": 184
+        "originalIndex": 185
     },
     {
         "name": "Magni C2",
@@ -7042,7 +7092,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/npmSFHz.jpg",
         "costume_id": 2,
-        "originalIndex": 185
+        "originalIndex": 186
     },
     {
         "name": "Magni Toon",
@@ -7079,7 +7129,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/bakqHYB.jpg",
         "costume_id": 3,
-        "originalIndex": 186
+        "originalIndex": 187
     },
     {
         "name": "Magni Glass",
@@ -7117,7 +7167,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/EJome7K.jpg",
         "costume_id": 4,
-        "originalIndex": 187
+        "originalIndex": 188
     },
     {
         "name": "Mariol",
@@ -7155,7 +7205,7 @@ window.allHeroes =
         "family": "owl",
         "image": "https://i.imgur.com/NhlQa4M.jpg",
         "costume_id": 0,
-        "originalIndex": 188
+        "originalIndex": 189
     },
     {
         "name": "Master Lepus",
@@ -7174,7 +7224,7 @@ window.allHeroes =
             "Negative Effects On Self Or Allies"
         ],
         "source": "Monthly Event-Springvale",
-        "Release date": "2017-01-01",
+        "Release date": "2018-03-28",
         "star": 5,
         "power": 763,
         "attack": 795,
@@ -7188,7 +7238,7 @@ window.allHeroes =
         "family": "springvale",
         "image": "https://i.imgur.com/Ti2FM1v.jpg",
         "costume_id": 0,
-        "originalIndex": 189
+        "originalIndex": 190
     },
     {
         "name": "Master Lepus C1",
@@ -7221,7 +7271,7 @@ window.allHeroes =
         "family": "springvale",
         "image": "https://i.imgur.com/aLTsGWG.jpg",
         "costume_id": 1,
-        "originalIndex": 190
+        "originalIndex": 191
     },
     {
         "name": "Matrera",
@@ -7259,7 +7309,7 @@ window.allHeroes =
         "family": "gargoyle",
         "image": "https://i.imgur.com/5yPwJb7.jpg",
         "costume_id": 0,
-        "originalIndex": 191
+        "originalIndex": 192
     },
     {
         "name": "Mene",
@@ -7300,7 +7350,7 @@ window.allHeroes =
         "family": 2024,
         "image": "https://i.imgur.com/yERCkFp.jpg",
         "costume_id": 0,
-        "originalIndex": 192
+        "originalIndex": 193
     },
     {
         "name": "Miki",
@@ -7337,7 +7387,7 @@ window.allHeroes =
         "family": 2019,
         "image": "https://i.imgur.com/FM0GgVz.jpg",
         "costume_id": 0,
-        "originalIndex": 193
+        "originalIndex": 194
     },
     {
         "name": "Milady de Winter",
@@ -7377,7 +7427,7 @@ window.allHeroes =
         "family": "musketeer",
         "image": "https://i.imgur.com/NEdggUL.jpg",
         "costume_id": 0,
-        "originalIndex": 194
+        "originalIndex": 195
     },
     {
         "name": "Milena",
@@ -7423,7 +7473,7 @@ window.allHeroes =
         "family": "magic",
         "image": "https://i.imgur.com/30AXxJs.jpg",
         "costume_id": 0,
-        "originalIndex": 195
+        "originalIndex": 196
     },
     {
         "name": "Milena C1",
@@ -7470,7 +7520,7 @@ window.allHeroes =
         "family": "magic",
         "image": "https://imgur.com/hwGD9H1.jpg",
         "costume_id": 1,
-        "originalIndex": 196
+        "originalIndex": 197
     },
     {
         "name": "Miriam & Midnight",
@@ -7510,7 +7560,7 @@ window.allHeroes =
         "family": "morlovia",
         "image": "https://i.imgur.com/eyJkRvq.jpg",
         "costume_id": 0,
-        "originalIndex": 197
+        "originalIndex": 198
     },
     {
         "name": "Misandra",
@@ -7546,7 +7596,7 @@ window.allHeroes =
         "family": "lagoon",
         "image": "https://i.imgur.com/YC2DFg3.jpg",
         "costume_id": 0,
-        "originalIndex": 198
+        "originalIndex": 199
     },
     {
         "name": "Misandra C1",
@@ -7582,7 +7632,7 @@ window.allHeroes =
         "family": "lagoon",
         "image": "https://i.imgur.com/ZELxM85.jpg",
         "costume_id": 1,
-        "originalIndex": 199
+        "originalIndex": 200
     },
     {
         "name": "Miss Ethel",
@@ -7617,7 +7667,7 @@ window.allHeroes =
         "family": "springvale",
         "image": "https://i.imgur.com/B15IDKf.jpg",
         "costume_id": 0,
-        "originalIndex": 200
+        "originalIndex": 201
     },
     {
         "name": "Mistra",
@@ -7658,7 +7708,7 @@ window.allHeroes =
         "family": "champions",
         "image": "https://i.imgur.com/NaHaaPY.jpg",
         "costume_id": 0,
-        "originalIndex": 201
+        "originalIndex": 202
     },
     {
         "name": "Misty",
@@ -7698,7 +7748,7 @@ window.allHeroes =
         "family": "beachparty",
         "image": "https://i.imgur.com/qRuu0M1.jpg",
         "costume_id": 0,
-        "originalIndex": 202
+        "originalIndex": 203
     },
     {
         "name": "Modthryth",
@@ -7744,7 +7794,7 @@ window.allHeroes =
         "family": "beowulf",
         "image": "https://i.imgur.com/oiGz5nc.jpg",
         "costume_id": 0,
-        "originalIndex": 203
+        "originalIndex": 204
     },
     {
         "name": "Mooncure",
@@ -7788,7 +7838,7 @@ window.allHeroes =
         "family": "astralelves",
         "image": "https://i.imgur.com/K8e9yy9.jpg",
         "costume_id": 0,
-        "originalIndex": 204
+        "originalIndex": 205
     },
     {
         "name": "Morel",
@@ -7823,7 +7873,7 @@ window.allHeroes =
         "family": "underwild",
         "image": "https://i.imgur.com/BbpdvD9.jpg",
         "costume_id": 0,
-        "originalIndex": 205
+        "originalIndex": 206
     },
     {
         "name": "Morel C1",
@@ -7864,7 +7914,7 @@ window.allHeroes =
         "family": "underwild",
         "image": "https://i.imgur.com/MAsmJsS.jpg",
         "costume_id": 1,
-        "originalIndex": 206
+        "originalIndex": 207
     },
     {
         "name": "Mr. Pengi",
@@ -7902,7 +7952,7 @@ window.allHeroes =
         "family": "christmas",
         "image": "https://i.imgur.com/BbxUIy4.jpg",
         "costume_id": 0,
-        "originalIndex": 207
+        "originalIndex": 208
     },
     {
         "name": "Mr. Pengi C1",
@@ -7941,7 +7991,7 @@ window.allHeroes =
         "family": "christmas",
         "image": "https://i.imgur.com/kNrkptI.jpg",
         "costume_id": 1,
-        "originalIndex": 208
+        "originalIndex": 209
     },
     {
         "name": "Nautica",
@@ -7986,7 +8036,7 @@ window.allHeroes =
         "family": "construct",
         "image": "https://i.imgur.com/iuMlpaP.jpg",
         "costume_id": 0,
-        "originalIndex": 209
+        "originalIndex": 210
     },
     {
         "name": "Nine-Headed Beast",
@@ -8030,7 +8080,7 @@ window.allHeroes =
         "family": "journey",
         "image": "https://i.imgur.com/8Uj8Jmv.jpg",
         "costume_id": 0,
-        "originalIndex": 210
+        "originalIndex": 211
     },
     {
         "name": "Nylora",
@@ -8071,7 +8121,7 @@ window.allHeroes =
         "family": "superelemental",
         "image": "https://i.imgur.com/NBQDloj.jpg",
         "costume_id": 0,
-        "originalIndex": 211
+        "originalIndex": 212
     },
     {
         "name": "Odette",
@@ -8120,7 +8170,7 @@ window.allHeroes =
         "family": "opera",
         "image": "https://i.imgur.com/ATDUydH.jpg",
         "costume_id": 0,
-        "originalIndex": 212
+        "originalIndex": 213
     },
     {
         "name": "Oniwakamaru",
@@ -8166,7 +8216,7 @@ window.allHeroes =
         "family": "ninja",
         "image": "https://i.imgur.com/TgO9p2o.jpg",
         "costume_id": 0,
-        "originalIndex": 213
+        "originalIndex": 214
     },
     {
         "name": "Otso",
@@ -8205,7 +8255,7 @@ window.allHeroes =
         "family": "kalevala",
         "image": "https://i.imgur.com/lO11H6h.jpg",
         "costume_id": 0,
-        "originalIndex": 214
+        "originalIndex": 215
     },
     {
         "name": "Passepartout",
@@ -8244,7 +8294,7 @@ window.allHeroes =
         "family": "underwild",
         "image": "https://i.imgur.com/6D1hJ1P.jpg",
         "costume_id": 0,
-        "originalIndex": 215
+        "originalIndex": 216
     },
     {
         "name": "Passepartout C1",
@@ -8285,7 +8335,7 @@ window.allHeroes =
         "family": "underwild",
         "image": "https://i.imgur.com/mcEOLvZ.jpg",
         "costume_id": 1,
-        "originalIndex": 216
+        "originalIndex": 217
     },
     {
         "name": "Pepperbleu",
@@ -8328,7 +8378,7 @@ window.allHeroes =
         "family": "moth",
         "image": "https://i.imgur.com/zllnmP0.jpg",
         "costume_id": 0,
-        "originalIndex": 217
+        "originalIndex": 218
     },
     {
         "name": "Perseus",
@@ -8350,7 +8400,7 @@ window.allHeroes =
             "Snipers"
         ],
         "source": "Hero of the Month",
-        "Release date": "2017-12-01T00:00:00",
+        "Release date": "2017-12-01",
         "star": 5,
         "power": 765,
         "attack": 725,
@@ -8366,7 +8416,7 @@ window.allHeroes =
         "family": 2017,
         "image": "https://i.imgur.com/AMhR92j.jpg",
         "costume_id": 0,
-        "originalIndex": 218
+        "originalIndex": 219
     },
     {
         "name": "Perseus C1",
@@ -8389,7 +8439,7 @@ window.allHeroes =
             "Dispellers"
         ],
         "source": "Hero of the Month",
-        "Release date": "2022-11-28T11:00:00",
+        "Release date": "2022-11-28",
         "star": 5,
         "power": 973,
         "attack": 928,
@@ -8407,7 +8457,7 @@ window.allHeroes =
         "family": 2017,
         "image": "https://i.imgur.com/nzVNwio.jpg",
         "costume_id": 1,
-        "originalIndex": 219
+        "originalIndex": 220
     },
     {
         "name": "Pophit",
@@ -8446,7 +8496,7 @@ window.allHeroes =
         "family": "gargoyle",
         "image": "https://i.imgur.com/Q0YpIYH.jpg",
         "costume_id": 0,
-        "originalIndex": 220
+        "originalIndex": 221
     },
     {
         "name": "Porthos",
@@ -8488,7 +8538,7 @@ window.allHeroes =
         "family": "musketeer",
         "image": "https://i.imgur.com/BwYaSTj.jpg",
         "costume_id": 0,
-        "originalIndex": 221
+        "originalIndex": 222
     },
     {
         "name": "Quari",
@@ -8530,7 +8580,7 @@ window.allHeroes =
         "family": "astraldwarfs",
         "image": "https://i.imgur.com/eBrPD5E.jpg",
         "costume_id": 0,
-        "originalIndex": 222
+        "originalIndex": 223
     },
     {
         "name": "Quinn",
@@ -8580,7 +8630,7 @@ window.allHeroes =
         "family": "superelemental",
         "image": "https://i.imgur.com/deN3GU2.jpg",
         "costume_id": 0,
-        "originalIndex": 223
+        "originalIndex": 224
     },
     {
         "name": "Quintin",
@@ -8613,7 +8663,7 @@ window.allHeroes =
         "family": "raven",
         "image": "https://i.imgur.com/8ISALDU.jpg",
         "costume_id": 0,
-        "originalIndex": 224
+        "originalIndex": 225
     },
     {
         "name": "Raffaele",
@@ -8653,7 +8703,7 @@ window.allHeroes =
         "family": 2020,
         "image": "https://i.imgur.com/O0p11HF.jpg",
         "costume_id": 0,
-        "originalIndex": 225
+        "originalIndex": 226
     },
     {
         "name": "Rian",
@@ -8698,7 +8748,7 @@ window.allHeroes =
         "family": "slayer",
         "image": "https://i.imgur.com/pgR8NJw.jpg",
         "costume_id": 0,
-        "originalIndex": 226
+        "originalIndex": 227
     },
     {
         "name": "Richard",
@@ -8717,7 +8767,7 @@ window.allHeroes =
             "Debuffers (ATK)"
         ],
         "source": "S1-Classic",
-        "Release date": "2017-01-01",
+        "Release date": "2017-03-01",
         "star": 5,
         "power": 755,
         "attack": 644,
@@ -8731,7 +8781,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/G5NAe4a.jpg",
         "costume_id": 0,
-        "originalIndex": 227
+        "originalIndex": 228
     },
     {
         "name": "Richard C1",
@@ -8750,7 +8800,7 @@ window.allHeroes =
             "Debuffers (ATK)"
         ],
         "source": "S1-Classic",
-        "Release date": "2020-01-01",
+        "Release date": "2020-01-20",
         "star": 5,
         "power": 795,
         "attack": 682,
@@ -8764,7 +8814,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/WKQthMP.jpg",
         "costume_id": 1,
-        "originalIndex": 228
+        "originalIndex": 229
     },
     {
         "name": "Richard C2",
@@ -8798,7 +8848,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/7TMtgd4.jpg",
         "costume_id": 2,
-        "originalIndex": 229
+        "originalIndex": 230
     },
     {
         "name": "Richard Toon",
@@ -8835,7 +8885,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/2rEfoQ7.jpg",
         "costume_id": 3,
-        "originalIndex": 230
+        "originalIndex": 231
     },
     {
         "name": "Richard Glass",
@@ -8873,7 +8923,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/zd4avma.jpg",
         "costume_id": 4,
-        "originalIndex": 231
+        "originalIndex": 232
     },
     {
         "name": "Rumpelstiltskin",
@@ -8895,7 +8945,7 @@ window.allHeroes =
             "Healers"
         ],
         "source": "Challenge Festival-Grim Forest",
-        "Release date": "2017-01-01",
+        "Release date": "2019-12-01",
         "star": 5,
         "power": 767,
         "attack": 733,
@@ -8917,7 +8967,7 @@ window.allHeroes =
         "family": "grimforest",
         "image": "https://i.imgur.com/v7aCbsm.jpg",
         "costume_id": 0,
-        "originalIndex": 232
+        "originalIndex": 233
     },
     {
         "name": "Rumpelstiltskin C1",
@@ -8965,7 +9015,7 @@ window.allHeroes =
         "family": "grimforest",
         "image": "https://i.imgur.com/G2za8YY.jpg",
         "costume_id": 1,
-        "originalIndex": 233
+        "originalIndex": 234
     },
     {
         "name": "Russula",
@@ -9005,7 +9055,7 @@ window.allHeroes =
         "family": "underwild",
         "image": "https://i.imgur.com/MqnrIZ3.jpg",
         "costume_id": 0,
-        "originalIndex": 234
+        "originalIndex": 235
     },
     {
         "name": "Russula C1",
@@ -9021,7 +9071,7 @@ window.allHeroes =
         ],
         "skill_types": [
             "AoE Attackers (Hit-5)",
-            "Damage Reducers)",
+            "Damage Reducers",
             "Damage Reducers",
             "Ghost Form & Hiding",
             "Snipers",
@@ -9048,7 +9098,7 @@ window.allHeroes =
         "family": "underwild",
         "image": "https://i.imgur.com/KzLvPms.jpg",
         "costume_id": 1,
-        "originalIndex": 235
+        "originalIndex": 236
     },
     {
         "name": "Sable",
@@ -9095,7 +9145,7 @@ window.allHeroes =
         "family": "fox",
         "image": "https://i.imgur.com/rZTJzw7.jpg",
         "costume_id": 0,
-        "originalIndex": 236
+        "originalIndex": 237
     },
     {
         "name": "Satori",
@@ -9134,7 +9184,7 @@ window.allHeroes =
         "family": "champions",
         "image": "https://i.imgur.com/pKtN1Ok.jpg",
         "costume_id": 0,
-        "originalIndex": 237
+        "originalIndex": 238
     },
     {
         "name": "Sawano",
@@ -9182,7 +9232,7 @@ window.allHeroes =
         "family": "ninja",
         "image": "https://i.imgur.com/iP6Lloh.jpg",
         "costume_id": 0,
-        "originalIndex": 238
+        "originalIndex": 239
     },
     {
         "name": "Sigyn",
@@ -9223,7 +9273,7 @@ window.allHeroes =
         "family": "plainshunter",
         "image": "https://i.imgur.com/JtNxfb8.jpg",
         "costume_id": 0,
-        "originalIndex": 239
+        "originalIndex": 240
     },
     {
         "name": "Sini",
@@ -9265,7 +9315,7 @@ window.allHeroes =
         "family": 2024,
         "image": "https://i.imgur.com/IV4i4UQ.jpg",
         "costume_id": 0,
-        "originalIndex": 240
+        "originalIndex": 241
     },
     {
         "name": "Siofra",
@@ -9306,7 +9356,7 @@ window.allHeroes =
         "family": "stag",
         "image": "https://i.imgur.com/kkNu861.jpg",
         "costume_id": 0,
-        "originalIndex": 241
+        "originalIndex": 242
     },
     {
         "name": "Skadi",
@@ -9345,7 +9395,7 @@ window.allHeroes =
         "family": "jotunheim",
         "image": "https://i.imgur.com/MzjdnYC.jpg",
         "costume_id": 0,
-        "originalIndex": 242
+        "originalIndex": 243
     },
     {
         "name": "Skadi C1",
@@ -9384,7 +9434,7 @@ window.allHeroes =
         "family": "jotunheim",
         "image": "https://i.imgur.com/SWH0vbH.jpg",
         "costume_id": 1,
-        "originalIndex": 243
+        "originalIndex": 244
     },
     {
         "name": "Skarn",
@@ -9427,7 +9477,7 @@ window.allHeroes =
         "family": "construct",
         "image": "https://i.imgur.com/jl8sclm.jpg",
         "costume_id": 0,
-        "originalIndex": 244
+        "originalIndex": 245
     },
     {
         "name": "Slimgo",
@@ -9466,7 +9516,7 @@ window.allHeroes =
         "family": "slime",
         "image": "https://i.imgur.com/TOPTa45.jpg",
         "costume_id": 0,
-        "originalIndex": 245
+        "originalIndex": 246
     },
     {
         "name": "Snow White",
@@ -9503,7 +9553,7 @@ window.allHeroes =
         "family": "grimforest",
         "image": "https://i.imgur.com/EVw3AO1.jpg",
         "costume_id": 0,
-        "originalIndex": 246
+        "originalIndex": 247
     },
     {
         "name": "Snow White C1",
@@ -9541,7 +9591,7 @@ window.allHeroes =
         "family": "grimforest",
         "image": "https://i.imgur.com/ko9NEXz.jpg",
         "costume_id": 1,
-        "originalIndex": 247
+        "originalIndex": 248
     },
     {
         "name": "Sobek",
@@ -9578,7 +9628,7 @@ window.allHeroes =
         "family": "sun",
         "image": "https://i.imgur.com/3Y3v4bs.jpg",
         "costume_id": 0,
-        "originalIndex": 248
+        "originalIndex": 249
     },
     {
         "name": "Sobek C1",
@@ -9619,7 +9669,7 @@ window.allHeroes =
         "family": "sun",
         "image": "https://i.imgur.com/E4kLEt9.jpg",
         "costume_id": 1,
-        "originalIndex": 249
+        "originalIndex": 250
     },
     {
         "name": "Song Jiang",
@@ -9667,7 +9717,7 @@ window.allHeroes =
         "family": "outlaws",
         "image": "https://imgur.com/ASg7ZAz.jpg",
         "costume_id": 0,
-        "originalIndex": 250
+        "originalIndex": 251
     },
     {
         "name": "Sorrow",
@@ -9707,7 +9757,7 @@ window.allHeroes =
         "family": "abysshunter",
         "image": "https://i.imgur.com/h1FVbFE.jpg",
         "costume_id": 0,
-        "originalIndex": 251
+        "originalIndex": 252
     },
     {
         "name": "Starwalker",
@@ -9748,7 +9798,7 @@ window.allHeroes =
         "family": "astralelves",
         "image": "https://i.imgur.com/GZxuVqX.jpg",
         "costume_id": 0,
-        "originalIndex": 252
+        "originalIndex": 253
     },
     {
         "name": "Suzuna",
@@ -9789,7 +9839,7 @@ window.allHeroes =
         "family": 2023,
         "image": "https://i.imgur.com/Mep7TSo.jpg",
         "costume_id": 0,
-        "originalIndex": 253
+        "originalIndex": 254
     },
     {
         "name": "Tealmoine",
@@ -9829,7 +9879,7 @@ window.allHeroes =
         "family": "moth",
         "image": "https://i.imgur.com/OpdhCZP.jpg",
         "costume_id": 0,
-        "originalIndex": 254
+        "originalIndex": 255
     },
     {
         "name": "Tethys",
@@ -9866,7 +9916,7 @@ window.allHeroes =
         "family": "atlantis",
         "image": "https://i.imgur.com/LPmQIgT.jpg",
         "costume_id": 0,
-        "originalIndex": 255
+        "originalIndex": 256
     },
     {
         "name": "Thalassa",
@@ -9912,7 +9962,7 @@ window.allHeroes =
         "family": "defendersofatlantis",
         "image": "https://i.imgur.com/aKuc2pB.jpg",
         "costume_id": 0,
-        "originalIndex": 256
+        "originalIndex": 257
     },
     {
         "name": "Thalassa C1",
@@ -9958,7 +10008,7 @@ window.allHeroes =
         "family": "defendersofatlantis",
         "image": "https://i.imgur.com/EE7MEpv.jpg",
         "costume_id": 1,
-        "originalIndex": 257
+        "originalIndex": 258
     },
     {
         "name": "Thanatos",
@@ -10006,7 +10056,7 @@ window.allHeroes =
         "family": "styx",
         "image": "https://i.imgur.com/WM6GD2A.jpg",
         "costume_id": 0,
-        "originalIndex": 258
+        "originalIndex": 259
     },
     {
         "name": "Theobald",
@@ -10044,7 +10094,7 @@ window.allHeroes =
         "family": "starfall",
         "image": "https://i.imgur.com/z0VwSFd.jpg",
         "costume_id": 0,
-        "originalIndex": 259
+        "originalIndex": 260
     },
     {
         "name": "Thorne",
@@ -10061,7 +10111,7 @@ window.allHeroes =
             "AoE Attackers (Hit-3)"
         ],
         "source": "S1-Classic",
-        "Release date": "2017-01-01",
+        "Release date": "2017-03-01",
         "star": 5,
         "power": 757,
         "attack": 638,
@@ -10074,7 +10124,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/9CT7f6V.jpg",
         "costume_id": 0,
-        "originalIndex": 260
+        "originalIndex": 261
     },
     {
         "name": "Thorne C1",
@@ -10107,7 +10157,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/YX5GVdv.jpg",
         "costume_id": 1,
-        "originalIndex": 261
+        "originalIndex": 262
     },
     {
         "name": "Thorne C2",
@@ -10143,7 +10193,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/IEUFL8t.jpg",
         "costume_id": 2,
-        "originalIndex": 262
+        "originalIndex": 263
     },
     {
         "name": "Thorne Toon",
@@ -10177,7 +10227,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/bBInxqX.jpg",
         "costume_id": 3,
-        "originalIndex": 263
+        "originalIndex": 264
     },
     {
         "name": "Timius",
@@ -10218,7 +10268,7 @@ window.allHeroes =
         "family": "owl",
         "image": "https://i.imgur.com/qe2xgVo.jpg",
         "costume_id": 0,
-        "originalIndex": 264
+        "originalIndex": 265
     },
     {
         "name": "Tinsel",
@@ -10257,7 +10307,7 @@ window.allHeroes =
         "family": "christmas",
         "image": "https://i.imgur.com/huD8kmB.jpg",
         "costume_id": 0,
-        "originalIndex": 265
+        "originalIndex": 266
     },
     {
         "name": "Tremor",
@@ -10298,7 +10348,7 @@ window.allHeroes =
         "family": "junglehunter",
         "image": "https://i.imgur.com/zlwhqDy.jpg",
         "costume_id": 0,
-        "originalIndex": 266
+        "originalIndex": 267
     },
     {
         "name": "Ulius",
@@ -10345,7 +10395,7 @@ window.allHeroes =
         "family": "magic",
         "image": "https://i.imgur.com/rdw7YpR.jpg",
         "costume_id": 0,
-        "originalIndex": 267
+        "originalIndex": 268
     },
     {
         "name": "Vela",
@@ -10387,7 +10437,7 @@ window.allHeroes =
         "family": 2020,
         "image": "https://i.imgur.com/mUzztO6.jpg",
         "costume_id": 0,
-        "originalIndex": 268
+        "originalIndex": 269
     },
     {
         "name": "Verity",
@@ -10427,7 +10477,7 @@ window.allHeroes =
         "family": "woodlandfaun",
         "image": "https://i.imgur.com/bRVjhkX.jpg",
         "costume_id": 0,
-        "originalIndex": 269
+        "originalIndex": 270
     },
     {
         "name": "Vincent",
@@ -10470,7 +10520,7 @@ window.allHeroes =
         "family": "gargoyle",
         "image": "https://i.imgur.com/L8aULPy.jpg",
         "costume_id": 0,
-        "originalIndex": 270
+        "originalIndex": 271
     },
     {
         "name": "Waterpipe",
@@ -10513,7 +10563,7 @@ window.allHeroes =
         "family": "plainshunter",
         "image": "https://i.imgur.com/pzkFRII.jpg",
         "costume_id": 0,
-        "originalIndex": 271
+        "originalIndex": 272
     },
     {
         "name": "Whitefang",
@@ -10552,7 +10602,7 @@ window.allHeroes =
         "family": "fox",
         "image": "https://i.imgur.com/r0k8YaN.jpg",
         "costume_id": 0,
-        "originalIndex": 272
+        "originalIndex": 273
     },
     {
         "name": "Zappa",
@@ -10588,7 +10638,7 @@ window.allHeroes =
         "family": "christmas",
         "image": "https://i.imgur.com/kOZsEFw.jpg",
         "costume_id": 0,
-        "originalIndex": 273
+        "originalIndex": 274
     },
     {
         "name": "Zengar",
@@ -10632,7 +10682,7 @@ window.allHeroes =
         "family": "superelemental",
         "image": "https://i.imgur.com/DQY3Orp.jpg",
         "costume_id": 0,
-        "originalIndex": 274
+        "originalIndex": 275
     },
     {
         "name": "Zircon",
@@ -10680,7 +10730,7 @@ window.allHeroes =
         "family": "ninja",
         "image": "https://i.imgur.com/3XPQv8U.jpg",
         "costume_id": 0,
-        "originalIndex": 275
+        "originalIndex": 276
     },
     {
         "name": "Aife",
@@ -10697,7 +10747,7 @@ window.allHeroes =
             "Snipers"
         ],
         "source": "S1-Classic",
-        "Release date": "2017-01-01",
+        "Release date": "2017-03-01",
         "star": 1,
         "power": 209,
         "attack": 209,
@@ -10710,7 +10760,7 @@ window.allHeroes =
         "family": null,
         "image": "https://i.imgur.com/gTPieC1.jpg",
         "costume_id": 0,
-        "originalIndex": 276
+        "originalIndex": 277
     },
     {
         "name": "Derric",
@@ -10727,7 +10777,7 @@ window.allHeroes =
             "Snipers"
         ],
         "source": "S1-Classic",
-        "Release date": "2017-01-01",
+        "Release date": "2017-03-01",
         "star": 1,
         "power": 210,
         "attack": 193,
@@ -10740,7 +10790,7 @@ window.allHeroes =
         "family": null,
         "image": "https://i.imgur.com/qLk060b.jpg",
         "costume_id": 0,
-        "originalIndex": 277
+        "originalIndex": 278
     },
     {
         "name": "Brogan",
@@ -10757,7 +10807,7 @@ window.allHeroes =
             "AoE Attackers (Hit-3)"
         ],
         "source": "S1-Classic",
-        "Release date": "2017-01-01",
+        "Release date": "2017-03-01",
         "star": 2,
         "power": 335,
         "attack": 295,
@@ -10770,7 +10820,7 @@ window.allHeroes =
         "family": null,
         "image": "https://i.imgur.com/wLaZQ4W.jpg",
         "costume_id": 0,
-        "originalIndex": 278
+        "originalIndex": 279
     },
     {
         "name": "Jenneh",
@@ -10787,7 +10837,7 @@ window.allHeroes =
             "Snipers"
         ],
         "source": "S1-Classic",
-        "Release date": "2017-01-01",
+        "Release date": "2017-03-01",
         "star": 2,
         "power": 335,
         "attack": 328,
@@ -10800,7 +10850,7 @@ window.allHeroes =
         "family": null,
         "image": "https://i.imgur.com/reFxsXr.jpg",
         "costume_id": 0,
-        "originalIndex": 279
+        "originalIndex": 280
     },
     {
         "name": "Needler",
@@ -10817,7 +10867,7 @@ window.allHeroes =
             "Snipers"
         ],
         "source": "S1-Classic",
-        "Release date": "2017-01-01",
+        "Release date": "2017-03-01",
         "star": 2,
         "power": 333,
         "attack": 358,
@@ -10830,7 +10880,7 @@ window.allHeroes =
         "family": null,
         "image": "https://i.imgur.com/KlbXSTV.jpg",
         "costume_id": 0,
-        "originalIndex": 280
+        "originalIndex": 281
     },
     {
         "name": "Alessia",
@@ -10865,7 +10915,7 @@ window.allHeroes =
         "family": "maskedgod",
         "image": "https://i.imgur.com/d2IW4aE.jpg",
         "costume_id": 0,
-        "originalIndex": 281
+        "originalIndex": 282
     },
     {
         "name": "Belith",
@@ -10884,7 +10934,7 @@ window.allHeroes =
             "Healers"
         ],
         "source": "S1-Classic",
-        "Release date": "2017-01-01",
+        "Release date": "2017-03-01",
         "star": 3,
         "power": 441,
         "attack": 425,
@@ -10898,7 +10948,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/aLWFiS9.jpg",
         "costume_id": 0,
-        "originalIndex": 282
+        "originalIndex": 283
     },
     {
         "name": "Belith C1",
@@ -10931,7 +10981,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/MHO518e.jpg",
         "costume_id": 1,
-        "originalIndex": 283
+        "originalIndex": 284
     },
     {
         "name": "Belith Toon",
@@ -10969,7 +11019,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/d6OTmVG.jpg",
         "costume_id": 2,
-        "originalIndex": 284
+        "originalIndex": 285
     },
     {
         "name": "Belith Glass",
@@ -11007,7 +11057,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://imgur.com/Y4Gu3iU.jpg",
         "costume_id": 3,
-        "originalIndex": 285
+        "originalIndex": 286
     },
     {
         "name": "Berden",
@@ -11026,7 +11076,7 @@ window.allHeroes =
             "Snipers"
         ],
         "source": "S1-Classic",
-        "Release date": "2017-01-01",
+        "Release date": "2017-03-01",
         "star": 3,
         "power": 444,
         "attack": 470,
@@ -11040,7 +11090,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/VjExjHL.jpg",
         "costume_id": 0,
-        "originalIndex": 286
+        "originalIndex": 287
     },
     {
         "name": "Berden C1",
@@ -11073,7 +11123,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/H6Orhln.jpg",
         "costume_id": 1,
-        "originalIndex": 287
+        "originalIndex": 288
     },
     {
         "name": "Berden Toon",
@@ -11110,7 +11160,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/JqQwQQo.jpg",
         "costume_id": 2,
-        "originalIndex": 288
+        "originalIndex": 289
     },
     {
         "name": "Berden Glass",
@@ -11148,7 +11198,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://imgur.com/lvzA5b8.jpg",
         "costume_id": 3,
-        "originalIndex": 289
+        "originalIndex": 290
     },
     {
         "name": "Brienne",
@@ -11165,7 +11215,7 @@ window.allHeroes =
             "Buffers (ATK)"
         ],
         "source": "S1-Classic",
-        "Release date": "2017-01-01",
+        "Release date": "2017-03-01",
         "star": 3,
         "power": 440,
         "attack": 446,
@@ -11178,7 +11228,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/sdXIZmv.jpg",
         "costume_id": 0,
-        "originalIndex": 290
+        "originalIndex": 291
     },
     {
         "name": "Brienne C1",
@@ -11195,7 +11245,7 @@ window.allHeroes =
             "Debuffers (DEF)"
         ],
         "source": "S1-Classic",
-        "Release date": "2020-01-01",
+        "Release date": "2020-01-20",
         "star": 3,
         "power": 464,
         "attack": 466,
@@ -11208,7 +11258,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/ig1RoGx.jpg",
         "costume_id": 1,
-        "originalIndex": 291
+        "originalIndex": 292
     },
     {
         "name": "Brienne Toon",
@@ -11240,7 +11290,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/0PzrzM8.jpg",
         "costume_id": 2,
-        "originalIndex": 292
+        "originalIndex": 293
     },
     {
         "name": "Brienne Glass",
@@ -11276,7 +11326,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/Z7YMKIU.jpg",
         "costume_id": 3,
-        "originalIndex": 293
+        "originalIndex": 294
     },
     {
         "name": "By-Ulf",
@@ -11319,7 +11369,7 @@ window.allHeroes =
         "family": "niflheim",
         "image": "https://i.imgur.com/TVINRSf.jpg",
         "costume_id": 0,
-        "originalIndex": 294
+        "originalIndex": 295
     },
     {
         "name": "Carver",
@@ -11338,7 +11388,7 @@ window.allHeroes =
             "Mana Reducers or Blockers"
         ],
         "source": "S1-Classic",
-        "Release date": "2017-01-01",
+        "Release date": "2017-03-01",
         "star": 3,
         "power": 444,
         "attack": 464,
@@ -11352,7 +11402,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/DfWafQ3.jpg",
         "costume_id": 0,
-        "originalIndex": 295
+        "originalIndex": 296
     },
     {
         "name": "Carver C1",
@@ -11385,7 +11435,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/xs9Nn7b.jpg",
         "costume_id": 1,
-        "originalIndex": 296
+        "originalIndex": 297
     },
     {
         "name": "Carver Toon",
@@ -11422,7 +11472,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/rbDQHbY.jpg",
         "costume_id": 2,
-        "originalIndex": 297
+        "originalIndex": 298
     },
     {
         "name": "Chires",
@@ -11460,7 +11510,7 @@ window.allHeroes =
         "family": "astraldwarfs",
         "image": "https://imgur.com/AIJJV87.jpg",
         "costume_id": 0,
-        "originalIndex": 298
+        "originalIndex": 299
     },
     {
         "name": "Dolgoon",
@@ -11505,7 +11555,7 @@ window.allHeroes =
         "family": "magic",
         "image": "https://i.imgur.com/vRYNJwU.jpg",
         "costume_id": 0,
-        "originalIndex": 299
+        "originalIndex": 300
     },
     {
         "name": "Faiez",
@@ -11545,7 +11595,7 @@ window.allHeroes =
         "family": "sun",
         "image": "https://i.imgur.com/vZiyZG9.jpg",
         "costume_id": 0,
-        "originalIndex": 300
+        "originalIndex": 301
     },
     {
         "name": "Faiez C1",
@@ -11584,7 +11634,7 @@ window.allHeroes =
         "family": "sun",
         "image": "https://i.imgur.com/TFnsKJy.jpg",
         "costume_id": 1,
-        "originalIndex": 301
+        "originalIndex": 302
     },
     {
         "name": "Featherino",
@@ -11618,7 +11668,7 @@ window.allHeroes =
         "family": "owl",
         "image": "https://i.imgur.com/zCCCscJ.jpg",
         "costume_id": 0,
-        "originalIndex": 302
+        "originalIndex": 303
     },
     {
         "name": "Fianna",
@@ -11656,7 +11706,7 @@ window.allHeroes =
         "family": "plainshunter",
         "image": "https://i.imgur.com/QukLnei.jpg",
         "costume_id": 0,
-        "originalIndex": 303
+        "originalIndex": 304
     },
     {
         "name": "Friar Tuck",
@@ -11675,7 +11725,7 @@ window.allHeroes =
             "Mana Generation Buffers"
         ],
         "source": "S1-Classic",
-        "Release date": "2017-01-01",
+        "Release date": "2017-03-01",
         "star": 3,
         "power": 446,
         "attack": 458,
@@ -11689,7 +11739,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/nprqffe.jpg",
         "costume_id": 0,
-        "originalIndex": 304
+        "originalIndex": 305
     },
     {
         "name": "Friar Tuck C1",
@@ -11722,7 +11772,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/ia9GSNJ.jpg",
         "costume_id": 1,
-        "originalIndex": 305
+        "originalIndex": 306
     },
     {
         "name": "Friar Tuck Toon",
@@ -11757,7 +11807,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/yE4ht6i.jpg",
         "costume_id": 2,
-        "originalIndex": 306
+        "originalIndex": 307
     },
     {
         "name": "Friar Tuck Glass",
@@ -11795,7 +11845,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://imgur.com/lcz3509.jpg",
         "costume_id": 3,
-        "originalIndex": 307
+        "originalIndex": 308
     },
     {
         "name": "General Yin",
@@ -11830,7 +11880,7 @@ window.allHeroes =
         "family": "journey",
         "image": "https://i.imgur.com/hCb3jKN.jpg",
         "costume_id": 0,
-        "originalIndex": 308
+        "originalIndex": 309
     },
     {
         "name": "Gnomer",
@@ -11863,7 +11913,7 @@ window.allHeroes =
         "family": "grimforest",
         "image": "https://i.imgur.com/VMip5iv.jpg",
         "costume_id": 0,
-        "originalIndex": 309
+        "originalIndex": 310
     },
     {
         "name": "Goopy",
@@ -11900,7 +11950,7 @@ window.allHeroes =
         "family": "morlovia",
         "image": "https://i.imgur.com/WJOazL8.jpg",
         "costume_id": 0,
-        "originalIndex": 310
+        "originalIndex": 311
     },
     {
         "name": "Gramps",
@@ -11935,7 +11985,7 @@ window.allHeroes =
         "family": "underwild",
         "image": "https://i.imgur.com/QGwMonb.jpg",
         "costume_id": 0,
-        "originalIndex": 311
+        "originalIndex": 312
     },
     {
         "name": "Gramps C1",
@@ -11970,7 +12020,7 @@ window.allHeroes =
         "family": "underwild",
         "image": "https://i.imgur.com/8hGBh7z.jpg",
         "costume_id": 1,
-        "originalIndex": 312
+        "originalIndex": 313
     },
     {
         "name": "Grevle",
@@ -12004,7 +12054,7 @@ window.allHeroes =
         "family": "alfheim",
         "image": "https://i.imgur.com/7vQQwXx.jpg",
         "costume_id": 0,
-        "originalIndex": 313
+        "originalIndex": 314
     },
     {
         "name": "Hisan",
@@ -12028,7 +12078,7 @@ window.allHeroes =
             "Healing Reducers"
         ],
         "source": "Monthly Event-Sand Empire",
-        "Release date": "2017-01-01",
+        "Release date": "2018-06-21",
         "star": 3,
         "power": 448,
         "attack": 540,
@@ -12044,7 +12094,7 @@ window.allHeroes =
         "family": "sand",
         "image": "https://i.imgur.com/YmBbafl.jpg",
         "costume_id": 0,
-        "originalIndex": 314
+        "originalIndex": 315
     },
     {
         "name": "Isshtak",
@@ -12061,7 +12111,7 @@ window.allHeroes =
             "AoE Attackers (Hit-3)"
         ],
         "source": "S1-Classic",
-        "Release date": "2017-01-01",
+        "Release date": "2017-03-01",
         "star": 3,
         "power": 447,
         "attack": 453,
@@ -12074,7 +12124,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/Sq218ZB.jpg",
         "costume_id": 0,
-        "originalIndex": 315
+        "originalIndex": 316
     },
     {
         "name": "Isshtak C1",
@@ -12107,7 +12157,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/aTgE0vq.jpg",
         "costume_id": 1,
-        "originalIndex": 316
+        "originalIndex": 317
     },
     {
         "name": "Isshtak Toon",
@@ -12141,7 +12191,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/DoAEWX7.jpg",
         "costume_id": 2,
-        "originalIndex": 317
+        "originalIndex": 318
     },
     {
         "name": "Jing",
@@ -12161,7 +12211,7 @@ window.allHeroes =
             "Snipers"
         ],
         "source": "Three Kingdoms Summon",
-        "Release date": "2022-03-14T12:00:00",
+        "Release date": "2022-03-14",
         "star": 3,
         "power": 482,
         "attack": 500,
@@ -12176,7 +12226,7 @@ window.allHeroes =
         "family": "kingdom",
         "image": "https://i.imgur.com/ElDAaic.jpg",
         "costume_id": 0,
-        "originalIndex": 318
+        "originalIndex": 319
     },
     {
         "name": "Mnesseus",
@@ -12209,7 +12259,7 @@ window.allHeroes =
         "family": "atlantis",
         "image": "https://i.imgur.com/psLsMhk.jpg",
         "costume_id": 0,
-        "originalIndex": 319
+        "originalIndex": 320
     },
     {
         "name": "Mnesseus C1",
@@ -12242,7 +12292,7 @@ window.allHeroes =
         "family": "atlantis",
         "image": "https://i.imgur.com/vAbeKFm.jpg",
         "costume_id": 1,
-        "originalIndex": 320
+        "originalIndex": 321
     },
     {
         "name": "Muggy",
@@ -12277,7 +12327,7 @@ window.allHeroes =
         "family": "lagoon",
         "image": "https://i.imgur.com/oEhD3JD.jpg",
         "costume_id": 0,
-        "originalIndex": 321
+        "originalIndex": 322
     },
     {
         "name": "Noril",
@@ -12319,7 +12369,7 @@ window.allHeroes =
         "family": "slayer",
         "image": "https://i.imgur.com/sPxC3Un.jpg",
         "costume_id": 0,
-        "originalIndex": 322
+        "originalIndex": 323
     },
     {
         "name": "Roxia",
@@ -12365,7 +12415,7 @@ window.allHeroes =
         "family": "magic",
         "image": "https://i.imgur.com/M3v3YrZ.jpg",
         "costume_id": 0,
-        "originalIndex": 323
+        "originalIndex": 324
     },
     {
         "name": "Shrubbear",
@@ -12383,7 +12433,7 @@ window.allHeroes =
             "Taunters"
         ],
         "source": "Challenge Festival-Wonderland",
-        "Release date": "2017-01-01",
+        "Release date": "2019-12-01",
         "star": 3,
         "power": 455,
         "attack": 351,
@@ -12398,7 +12448,7 @@ window.allHeroes =
         "family": "wonderland",
         "image": "https://i.imgur.com/KcnE5Ah.jpg",
         "costume_id": 0,
-        "originalIndex": 324
+        "originalIndex": 325
     },
     {
         "name": "Whacker",
@@ -12431,7 +12481,7 @@ window.allHeroes =
         "family": "starfall",
         "image": "https://i.imgur.com/JVkZWPm.jpg",
         "costume_id": 0,
-        "originalIndex": 325
+        "originalIndex": 326
     },
     {
         "name": "William",
@@ -12470,7 +12520,7 @@ window.allHeroes =
         "family": "garrisonguard",
         "image": "https://i.imgur.com/A9SHPn4.jpg",
         "costume_id": 0,
-        "originalIndex": 326
+        "originalIndex": 327
     },
     {
         "name": "Yona",
@@ -12515,7 +12565,7 @@ window.allHeroes =
         "family": "stag",
         "image": "https://i.imgur.com/uP5TQtw.jpg",
         "costume_id": 0,
-        "originalIndex": 327
+        "originalIndex": 328
     },
     {
         "name": "Zarel",
@@ -12553,7 +12603,7 @@ window.allHeroes =
         "family": "bard",
         "image": "https://i.imgur.com/UoxW1c2.jpg",
         "costume_id": 0,
-        "originalIndex": 328
+        "originalIndex": 329
     },
     {
         "name": "Zarola",
@@ -12587,7 +12637,7 @@ window.allHeroes =
         "family": "cupid",
         "image": "https://i.imgur.com/07KHMD9.jpg",
         "costume_id": 0,
-        "originalIndex": 329
+        "originalIndex": 330
     },
     {
         "name": "Alfie",
@@ -12631,7 +12681,7 @@ window.allHeroes =
         "family": "superelemental",
         "image": "https://i.imgur.com/JaXIe0C.jpg",
         "costume_id": 0,
-        "originalIndex": 330
+        "originalIndex": 331
     },
     {
         "name": "Almur",
@@ -12667,7 +12717,7 @@ window.allHeroes =
         "family": "svartalfheim",
         "image": "https://i.imgur.com/zT4IQhV.jpg",
         "costume_id": 0,
-        "originalIndex": 331
+        "originalIndex": 332
     },
     {
         "name": "Almur C1",
@@ -12703,7 +12753,7 @@ window.allHeroes =
         "family": "svartalfheim",
         "image": "https://i.imgur.com/G55eXUT.jpg",
         "costume_id": 1,
-        "originalIndex": 332
+        "originalIndex": 333
     },
     {
         "name": "Anton",
@@ -12750,7 +12800,7 @@ window.allHeroes =
         "family": "magic",
         "image": "https://i.imgur.com/P0bT6Vn.jpg",
         "costume_id": 0,
-        "originalIndex": 333
+        "originalIndex": 334
     },
     {
         "name": "Brontes",
@@ -12796,7 +12846,7 @@ window.allHeroes =
         "family": "styx",
         "image": "https://i.imgur.com/73sHBAH.jpg",
         "costume_id": 0,
-        "originalIndex": 334
+        "originalIndex": 335
     },
     {
         "name": "Brynhild",
@@ -12834,7 +12884,7 @@ window.allHeroes =
         "family": "midgard",
         "image": "https://i.imgur.com/igNkAbf.jpg",
         "costume_id": 0,
-        "originalIndex": 335
+        "originalIndex": 336
     },
     {
         "name": "Buddy",
@@ -12857,7 +12907,7 @@ window.allHeroes =
             "Minions Summoners"
         ],
         "source": "Monthly Event-Winter",
-        "Release date": "2017-01-01",
+        "Release date": "2018-12-02",
         "star": 4,
         "power": 649,
         "attack": 531,
@@ -12873,7 +12923,7 @@ window.allHeroes =
         "family": "christmas",
         "image": "https://i.imgur.com/fZWbFxH.jpg",
         "costume_id": 0,
-        "originalIndex": 336
+        "originalIndex": 337
     },
     {
         "name": "Caedmon",
@@ -12892,7 +12942,7 @@ window.allHeroes =
             "Snipers"
         ],
         "source": "S1-Classic",
-        "Release date": "2017-01-01",
+        "Release date": "2017-03-01",
         "star": 4,
         "power": 643,
         "attack": 635,
@@ -12906,7 +12956,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/jv6lywZ.jpg",
         "costume_id": 0,
-        "originalIndex": 337
+        "originalIndex": 338
     },
     {
         "name": "Caedmon C1",
@@ -12939,7 +12989,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/zrZ4p5y.jpg",
         "costume_id": 1,
-        "originalIndex": 338
+        "originalIndex": 339
     },
     {
         "name": "Caedmon C2",
@@ -12974,7 +13024,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/0FiXuyI.jpg",
         "costume_id": 2,
-        "originalIndex": 339
+        "originalIndex": 340
     },
     {
         "name": "Caedmon Toon",
@@ -13011,7 +13061,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/DR6bDUS.jpg",
         "costume_id": 3,
-        "originalIndex": 340
+        "originalIndex": 341
     },
     {
         "name": "Caedmon Glass",
@@ -13051,7 +13101,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/evExc3q.jpg",
         "costume_id": 4,
-        "originalIndex": 341
+        "originalIndex": 342
     },
     {
         "name": "Franz",
@@ -13087,7 +13137,7 @@ window.allHeroes =
         "family": "raven",
         "image": "https://i.imgur.com/Qe02pzU.jpg",
         "costume_id": 0,
-        "originalIndex": 342
+        "originalIndex": 343
     },
     {
         "name": "Gadeirus",
@@ -13123,7 +13173,7 @@ window.allHeroes =
         "family": "atlantis",
         "image": "https://i.imgur.com/dGtM0Hw.jpg",
         "costume_id": 0,
-        "originalIndex": 343
+        "originalIndex": 344
     },
     {
         "name": "Gadeirus C1",
@@ -13160,7 +13210,7 @@ window.allHeroes =
         "family": "atlantis",
         "image": "https://i.imgur.com/MAOY5JJ.jpg",
         "costume_id": 1,
-        "originalIndex": 344
+        "originalIndex": 345
     },
     {
         "name": "Gobbler",
@@ -13195,7 +13245,7 @@ window.allHeroes =
         "family": "lagoon",
         "image": "https://i.imgur.com/Sc5af8g.jpg",
         "costume_id": 0,
-        "originalIndex": 345
+        "originalIndex": 346
     },
     {
         "name": "Gobbler C1",
@@ -13231,7 +13281,7 @@ window.allHeroes =
         "family": "lagoon",
         "image": "https://i.imgur.com/ZFJ0073.jpg",
         "costume_id": 1,
-        "originalIndex": 346
+        "originalIndex": 347
     },
     {
         "name": "Hansel",
@@ -13251,7 +13301,7 @@ window.allHeroes =
             "Snipers"
         ],
         "source": "Challenge Festival-Grim Forest",
-        "Release date": "2017-01-01",
+        "Release date": "2019-12-01",
         "star": 4,
         "power": 646,
         "attack": 699,
@@ -13266,7 +13316,7 @@ window.allHeroes =
         "family": "grimforest",
         "image": "https://i.imgur.com/SkK8Ieu.jpg",
         "costume_id": 0,
-        "originalIndex": 347
+        "originalIndex": 348
     },
     {
         "name": "Hansel C1",
@@ -13301,7 +13351,7 @@ window.allHeroes =
         "family": "grimforest",
         "image": "https://i.imgur.com/ZWQ8poJ.jpg",
         "costume_id": 1,
-        "originalIndex": 348
+        "originalIndex": 349
     },
     {
         "name": "Jack O'Hare",
@@ -13319,7 +13369,7 @@ window.allHeroes =
             "Negative Effects On Self Or Allies"
         ],
         "source": "Monthly Event-Springvale",
-        "Release date": "2018-03-01",
+        "Release date": "2018-03-28",
         "star": 4,
         "power": 648,
         "attack": 743,
@@ -13333,7 +13383,7 @@ window.allHeroes =
         "family": "springvale",
         "image": "https://i.imgur.com/KJoqPtw.jpg",
         "costume_id": 0,
-        "originalIndex": 349
+        "originalIndex": 350
     },
     {
         "name": "Jack O'Hare C1",
@@ -13368,10 +13418,10 @@ window.allHeroes =
         "family": "springvale",
         "image": "https://i.imgur.com/mwBA0kR.jpg",
         "costume_id": 1,
-        "originalIndex": 350
+        "originalIndex": 351
     },
     {
-        "name": "Kal o",
+        "name": "Kalo",
         "fancy_name": "Aberrant Gargoyle",
         "AetherPower": "Defense Up",
         "color": "Green",
@@ -13405,7 +13455,7 @@ window.allHeroes =
         "family": "gargoyle",
         "image": "https://i.imgur.com/g4p72ea.jpg",
         "costume_id": 0,
-        "originalIndex": 351
+        "originalIndex": 352
     },
     {
         "name": "Kashhrek",
@@ -13424,7 +13474,7 @@ window.allHeroes =
             "Healers"
         ],
         "source": "S1-Classic",
-        "Release date": "2017-01-01",
+        "Release date": "2017-03-01",
         "star": 4,
         "power": 643,
         "attack": 548,
@@ -13438,7 +13488,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/f38vwx3.jpg",
         "costume_id": 0,
-        "originalIndex": 352
+        "originalIndex": 353
     },
     {
         "name": "Kashhrek C1",
@@ -13472,7 +13522,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/5DjkhS8.jpg",
         "costume_id": 1,
-        "originalIndex": 353
+        "originalIndex": 354
     },
     {
         "name": "Kashhrek C2",
@@ -13505,7 +13555,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/54DNXMH.jpg",
         "costume_id": 2,
-        "originalIndex": 354
+        "originalIndex": 355
     },
     {
         "name": "Kashhrek Toon",
@@ -13540,7 +13590,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/B48yiIW.jpg",
         "costume_id": 3,
-        "originalIndex": 355
+        "originalIndex": 356
     },
     {
         "name": "Kashhrek Glass",
@@ -13578,7 +13628,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://imgur.com/WEPgm0c.jpg",
         "costume_id": 4,
-        "originalIndex": 356
+        "originalIndex": 357
     },
     {
         "name": "Lionstring",
@@ -13620,7 +13670,7 @@ window.allHeroes =
         "family": "astralelves",
         "image": "https://i.imgur.com/M9HK4qH.jpg",
         "costume_id": 0,
-        "originalIndex": 357
+        "originalIndex": 358
     },
     {
         "name": "Little John",
@@ -13639,7 +13689,7 @@ window.allHeroes =
             "Mana Reducers or Blockers"
         ],
         "source": "S1-Classic",
-        "Release date": "2017-01-01",
+        "Release date": "2017-03-01",
         "star": 4,
         "power": 641,
         "attack": 741,
@@ -13653,7 +13703,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/nRRdXVw.jpg",
         "costume_id": 0,
-        "originalIndex": 358
+        "originalIndex": 359
     },
     {
         "name": "Little John C1",
@@ -13687,7 +13737,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/OZPuj5P.jpg",
         "costume_id": 1,
-        "originalIndex": 359
+        "originalIndex": 360
     },
     {
         "name": "Little John C2",
@@ -13720,7 +13770,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/pBSZGi6.jpg",
         "costume_id": 2,
-        "originalIndex": 360
+        "originalIndex": 361
     },
     {
         "name": "Little John Toon",
@@ -13757,7 +13807,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/8mWGMUp.jpg",
         "costume_id": 3,
-        "originalIndex": 361
+        "originalIndex": 362
     },
     {
         "name": "Little John Glass",
@@ -13795,7 +13845,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://imgur.com/8scCOJR.jpg",
         "costume_id": 4,
-        "originalIndex": 362
+        "originalIndex": 363
     },
     {
         "name": "Marcel",
@@ -13832,7 +13882,7 @@ window.allHeroes =
         "family": "starfall",
         "image": "https://i.imgur.com/LwCxkKS.jpg",
         "costume_id": 0,
-        "originalIndex": 363
+        "originalIndex": 364
     },
     {
         "name": "Melendor",
@@ -13851,7 +13901,7 @@ window.allHeroes =
             "Healers"
         ],
         "source": "S1-Classic",
-        "Release date": "2017-01-01",
+        "Release date": "2017-03-01",
         "star": 4,
         "power": 638,
         "attack": 714,
@@ -13865,7 +13915,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/3rwM4W7.jpg",
         "costume_id": 0,
-        "originalIndex": 364
+        "originalIndex": 365
     },
     {
         "name": "Melendor C1",
@@ -13886,7 +13936,7 @@ window.allHeroes =
             "Heal over Time (HoT)"
         ],
         "source": "S1-Classic",
-        "Release date": "2020-01-01",
+        "Release date": "2020-01-20",
         "star": 4,
         "power": 673,
         "attack": 698,
@@ -13901,7 +13951,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/5gxdGVM.jpg",
         "costume_id": 1,
-        "originalIndex": 365
+        "originalIndex": 366
     },
     {
         "name": "Melendor C2",
@@ -13937,7 +13987,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/XVqcInX.jpg",
         "costume_id": 2,
-        "originalIndex": 366
+        "originalIndex": 367
     },
     {
         "name": "Melendor Toon",
@@ -13975,7 +14025,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/3swBEW4.jpg",
         "costume_id": 3,
-        "originalIndex": 367
+        "originalIndex": 368
     },
     {
         "name": "Melendor Glass",
@@ -14014,7 +14064,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/5Bt1nJk.jpg",
         "costume_id": 4,
-        "originalIndex": 368
+        "originalIndex": 369
     },
     {
         "name": "Mielikki",
@@ -14051,7 +14101,7 @@ window.allHeroes =
         "family": "kalevala",
         "image": "https://i.imgur.com/tts9FVU.jpg",
         "costume_id": 0,
-        "originalIndex": 369
+        "originalIndex": 370
     },
     {
         "name": "Mielikki C1",
@@ -14086,7 +14136,7 @@ window.allHeroes =
         "family": "kalevala",
         "image": "https://i.imgur.com/vXd3s3q.jpg",
         "costume_id": 1,
-        "originalIndex": 370
+        "originalIndex": 371
     },
     {
         "name": "Mulgog",
@@ -14133,7 +14183,7 @@ window.allHeroes =
         "family": "nightmaresofatlantis",
         "image": "https://i.imgur.com/b7HL0wq.jpg",
         "costume_id": 0,
-        "originalIndex": 371
+        "originalIndex": 372
     },
     {
         "name": "Mulgog C1",
@@ -14181,7 +14231,7 @@ window.allHeroes =
         "family": "nightmaresofatlantis",
         "image": "https://imgur.com/X5IVjtR.jpg",
         "costume_id": 1,
-        "originalIndex": 372
+        "originalIndex": 373
     },
     {
         "name": "Myrtle",
@@ -14221,7 +14271,7 @@ window.allHeroes =
         "family": "woodlandfaun",
         "image": "https://i.imgur.com/KEvkubZ.jpg",
         "costume_id": 0,
-        "originalIndex": 373
+        "originalIndex": 374
     },
     {
         "name": "Numbskull",
@@ -14260,7 +14310,7 @@ window.allHeroes =
         "family": "abysshunter",
         "image": "https://i.imgur.com/Y43vWHy.jpg",
         "costume_id": 0,
-        "originalIndex": 374
+        "originalIndex": 375
     },
     {
         "name": "Orla",
@@ -14304,7 +14354,7 @@ window.allHeroes =
         "family": "slayer",
         "image": "https://i.imgur.com/YWXxtDj.jpg",
         "costume_id": 0,
-        "originalIndex": 375
+        "originalIndex": 376
     },
     {
         "name": "Peters",
@@ -14323,7 +14373,7 @@ window.allHeroes =
             "Snipers"
         ],
         "source": "Challenge Festival-Pirates",
-        "Release date": "2017-01-01",
+        "Release date": "2017-09-07",
         "star": 4,
         "power": 645,
         "attack": 643,
@@ -14337,7 +14387,7 @@ window.allHeroes =
         "family": "corellia",
         "image": "https://i.imgur.com/aPVBzpo.jpg",
         "costume_id": 0,
-        "originalIndex": 376
+        "originalIndex": 377
     },
     {
         "name": "Peters C1",
@@ -14373,7 +14423,7 @@ window.allHeroes =
         "family": "corellia",
         "image": "https://i.imgur.com/caAHKaT.jpg",
         "costume_id": 1,
-        "originalIndex": 377
+        "originalIndex": 378
     },
     {
         "name": "Ptolemy",
@@ -14411,7 +14461,7 @@ window.allHeroes =
         "family": "sun",
         "image": "https://i.imgur.com/3gaWwFG.jpg",
         "costume_id": 0,
-        "originalIndex": 378
+        "originalIndex": 379
     },
     {
         "name": "Ptolemy C1",
@@ -14453,7 +14503,7 @@ window.allHeroes =
         "family": "sun",
         "image": "https://i.imgur.com/xEySNN6.jpg",
         "costume_id": 1,
-        "originalIndex": 379
+        "originalIndex": 380
     },
     {
         "name": "Raleigh",
@@ -14491,7 +14541,7 @@ window.allHeroes =
         "family": "stag",
         "image": "https://i.imgur.com/SZsJBr2.jpg",
         "costume_id": 0,
-        "originalIndex": 380
+        "originalIndex": 381
     },
     {
         "name": "Skittleskull",
@@ -14510,7 +14560,7 @@ window.allHeroes =
             "Debuffers (ATK)"
         ],
         "source": "S1-Classic",
-        "Release date": "2017-01-01",
+        "Release date": "2017-03-01",
         "star": 4,
         "power": 644,
         "attack": 728,
@@ -14524,7 +14574,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/6Oucdm4.jpg",
         "costume_id": 0,
-        "originalIndex": 381
+        "originalIndex": 382
     },
     {
         "name": "Skittleskull C1",
@@ -14543,7 +14593,7 @@ window.allHeroes =
             "Debuffers (ATK)"
         ],
         "source": "S1-Classic",
-        "Release date": "2020-01-01",
+        "Release date": "2020-01-20",
         "star": 4,
         "power": 678,
         "attack": 778,
@@ -14557,7 +14607,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/9DvgVYg.jpg",
         "costume_id": 1,
-        "originalIndex": 382
+        "originalIndex": 383
     },
     {
         "name": "Skittleskull C2",
@@ -14590,7 +14640,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/EIvqBU6.jpg",
         "costume_id": 2,
-        "originalIndex": 383
+        "originalIndex": 384
     },
     {
         "name": "Skittleskull Toon",
@@ -14627,7 +14677,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/DQzJaMV.jpg",
         "costume_id": 3,
-        "originalIndex": 384
+        "originalIndex": 385
     },
     {
         "name": "Skittleskull Glass",
@@ -14665,7 +14715,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://imgur.com/qCkUNrw.jpg",
         "costume_id": 4,
-        "originalIndex": 385
+        "originalIndex": 386
     },
     {
         "name": "Tettukh",
@@ -14703,7 +14753,7 @@ window.allHeroes =
         "family": "underwild",
         "image": "https://i.imgur.com/OZiH56V.jpg",
         "costume_id": 0,
-        "originalIndex": 386
+        "originalIndex": 387
     },
     {
         "name": "Tettukh C1",
@@ -14741,7 +14791,7 @@ window.allHeroes =
         "family": "underwild",
         "image": "https://i.imgur.com/Upmqcxi.jpg",
         "costume_id": 1,
-        "originalIndex": 387
+        "originalIndex": 388
     },
     {
         "name": "Villiers",
@@ -14783,7 +14833,7 @@ window.allHeroes =
         "family": "musketeer",
         "image": "https://i.imgur.com/bq60wfg.jpg",
         "costume_id": 0,
-        "originalIndex": 388
+        "originalIndex": 389
     },
     {
         "name": "Wren",
@@ -14818,7 +14868,7 @@ window.allHeroes =
         "family": "raven",
         "image": "https://i.imgur.com/YasIqZv.jpg",
         "costume_id": 0,
-        "originalIndex": 389
+        "originalIndex": 390
     },
     {
         "name": "Ahmose",
@@ -14856,7 +14906,7 @@ window.allHeroes =
         "family": "moon",
         "image": "https://i.imgur.com/4zzp1TD.jpg",
         "costume_id": 0,
-        "originalIndex": 390
+        "originalIndex": 391
     },
     {
         "name": "Ahmose C1",
@@ -14896,7 +14946,7 @@ window.allHeroes =
         "family": "moon",
         "image": "https://i.imgur.com/hOov8Aa.jpg",
         "costume_id": 1,
-        "originalIndex": 391
+        "originalIndex": 392
     },
     {
         "name": "Alberich",
@@ -14919,7 +14969,7 @@ window.allHeroes =
             "Heal over Time (HoT)"
         ],
         "source": "Hero of the Month",
-        "Release date": "2017-10-01T00:00:00",
+        "Release date": "2017-10-01",
         "star": 5,
         "power": 765,
         "attack": 725,
@@ -14935,7 +14985,7 @@ window.allHeroes =
         "family": 2017,
         "image": "https://i.imgur.com/0IebpZg.jpg",
         "costume_id": 0,
-        "originalIndex": 392
+        "originalIndex": 393
     },
     {
         "name": "Alberich C1",
@@ -14977,7 +15027,7 @@ window.allHeroes =
         "family": 2017,
         "image": "https://i.imgur.com/qgThGvZ.jpg",
         "costume_id": 1,
-        "originalIndex": 393
+        "originalIndex": 394
     },
     {
         "name": "Archibald",
@@ -15021,7 +15071,7 @@ window.allHeroes =
         "family": "garrisonguard",
         "image": "https://i.imgur.com/zBBsCSR.jpg",
         "costume_id": 0,
-        "originalIndex": 394
+        "originalIndex": 395
     },
     {
         "name": "Archie",
@@ -15057,7 +15107,7 @@ window.allHeroes =
         "family": "springvale",
         "image": "https://i.imgur.com/LIKBIhe.jpg",
         "costume_id": 0,
-        "originalIndex": 395
+        "originalIndex": 396
     },
     {
         "name": "Archie C1",
@@ -15093,7 +15143,7 @@ window.allHeroes =
         "family": "springvale",
         "image": "https://i.imgur.com/NhdULEq.jpg",
         "costume_id": 1,
-        "originalIndex": 396
+        "originalIndex": 397
     },
     {
         "name": "Arco",
@@ -15132,7 +15182,7 @@ window.allHeroes =
         "family": "gargoyle",
         "image": "https://i.imgur.com/nhYRyEk.jpg",
         "costume_id": 0,
-        "originalIndex": 397
+        "originalIndex": 398
     },
     {
         "name": "Armand Moncharmin",
@@ -15170,7 +15220,7 @@ window.allHeroes =
         "family": "opera",
         "image": "https://i.imgur.com/PHXp8yu.jpg",
         "costume_id": 0,
-        "originalIndex": 398
+        "originalIndex": 399
     },
     {
         "name": "Athos",
@@ -15212,7 +15262,7 @@ window.allHeroes =
         "family": "musketeer",
         "image": "https://i.imgur.com/HvsiBgn.jpg",
         "costume_id": 0,
-        "originalIndex": 399
+        "originalIndex": 400
     },
     {
         "name": "Atomos",
@@ -15247,7 +15297,7 @@ window.allHeroes =
         "family": "atlantis",
         "image": "https://i.imgur.com/DAUb4SR.jpg",
         "costume_id": 0,
-        "originalIndex": 400
+        "originalIndex": 401
     },
     {
         "name": "Atomos C1",
@@ -15282,7 +15332,7 @@ window.allHeroes =
         "family": "atlantis",
         "image": "https://i.imgur.com/Mrpkkq0.jpg",
         "costume_id": 1,
-        "originalIndex": 401
+        "originalIndex": 402
     },
     {
         "name": "Atwood",
@@ -15324,7 +15374,7 @@ window.allHeroes =
         "family": "investigator",
         "image": "https://i.imgur.com/Cwe6431.jpg",
         "costume_id": 0,
-        "originalIndex": 402
+        "originalIndex": 403
     },
     {
         "name": "Augustus",
@@ -15365,7 +15415,7 @@ window.allHeroes =
         "family": "christmas",
         "image": "https://i.imgur.com/AEEIfML.jpg",
         "costume_id": 0,
-        "originalIndex": 403
+        "originalIndex": 404
     },
     {
         "name": "Balbar",
@@ -15408,7 +15458,7 @@ window.allHeroes =
         "family": 2021,
         "image": "https://i.imgur.com/lTYrovf.jpg",
         "costume_id": 0,
-        "originalIndex": 404
+        "originalIndex": 405
     },
     {
         "name": "Bertila",
@@ -15444,7 +15494,7 @@ window.allHeroes =
         "family": 2021,
         "image": "https://i.imgur.com/VlS3IND.jpg",
         "costume_id": 0,
-        "originalIndex": 405
+        "originalIndex": 406
     },
     {
         "name": "Bo & Runt",
@@ -15486,7 +15536,7 @@ window.allHeroes =
         "family": 2024,
         "image": "https://i.imgur.com/6gRA2M6.jpg",
         "costume_id": 0,
-        "originalIndex": 406
+        "originalIndex": 407
     },
     {
         "name": "Bonzo",
@@ -15530,7 +15580,7 @@ window.allHeroes =
         "family": "bard",
         "image": "https://i.imgur.com/jSnGpgr.jpg",
         "costume_id": 0,
-        "originalIndex": 407
+        "originalIndex": 408
     },
     {
         "name": "Boom & Fang",
@@ -15566,7 +15616,7 @@ window.allHeroes =
         "family": "goblin",
         "image": "https://i.imgur.com/IpQKX8C.jpg",
         "costume_id": 0,
-        "originalIndex": 408
+        "originalIndex": 409
     },
     {
         "name": "Bramble",
@@ -15605,7 +15655,7 @@ window.allHeroes =
         "family": "woodlandfaun",
         "image": "https://i.imgur.com/BA1yyNs.jpg",
         "costume_id": 0,
-        "originalIndex": 409
+        "originalIndex": 410
     },
     {
         "name": "Chikao",
@@ -15654,7 +15704,7 @@ window.allHeroes =
         "family": "ninja",
         "image": "https://i.imgur.com/g0WuoGF.jpg",
         "costume_id": 0,
-        "originalIndex": 410
+        "originalIndex": 411
     },
     {
         "name": "Chloris",
@@ -15693,7 +15743,7 @@ window.allHeroes =
         "family": 2024,
         "image": "https://i.imgur.com/3NHTm5Y.jpg",
         "costume_id": 0,
-        "originalIndex": 411
+        "originalIndex": 412
     },
     {
         "name": "Cinisia",
@@ -15734,7 +15784,7 @@ window.allHeroes =
         "family": 2023,
         "image": "https://i.imgur.com/L1RhKDe.jpg",
         "costume_id": 0,
-        "originalIndex": 412
+        "originalIndex": 413
     },
     {
         "name": "Congalach",
@@ -15770,7 +15820,7 @@ window.allHeroes =
         "family": "underwild",
         "image": "https://i.imgur.com/FKztylV.jpg",
         "costume_id": 0,
-        "originalIndex": 413
+        "originalIndex": 414
     },
     {
         "name": "Congalach C1",
@@ -15807,7 +15857,7 @@ window.allHeroes =
         "family": "underwild",
         "image": "https://i.imgur.com/llQVrNB.jpg",
         "costume_id": 1,
-        "originalIndex": 414
+        "originalIndex": 415
     },
     {
         "name": "Craum",
@@ -15850,7 +15900,7 @@ window.allHeroes =
         "family": "superelemental",
         "image": "https://i.imgur.com/GyN20JL.jpg",
         "costume_id": 0,
-        "originalIndex": 415
+        "originalIndex": 416
     },
     {
         "name": "Cristobal",
@@ -15893,7 +15943,7 @@ window.allHeroes =
         "family": "magic",
         "image": "https://i.imgur.com/H1Awz0g.jpg",
         "costume_id": 0,
-        "originalIndex": 416
+        "originalIndex": 417
     },
     {
         "name": "Dagr",
@@ -15939,7 +15989,7 @@ window.allHeroes =
         "family": "nidavellir",
         "image": "https://i.imgur.com/BDzoVb0.jpg",
         "costume_id": 0,
-        "originalIndex": 417
+        "originalIndex": 418
     },
     {
         "name": "Daroga",
@@ -15979,7 +16029,7 @@ window.allHeroes =
         "family": "opera",
         "image": "https://i.imgur.com/Kmtj8Eb.jpg",
         "costume_id": 0,
-        "originalIndex": 418
+        "originalIndex": 419
     },
     {
         "name": "Desmond",
@@ -16022,7 +16072,7 @@ window.allHeroes =
         "family": "superelemental",
         "image": "https://i.imgur.com/oyCoXcq.jpg",
         "costume_id": 0,
-        "originalIndex": 419
+        "originalIndex": 420
     },
     {
         "name": "Dodgrom",
@@ -16060,7 +16110,7 @@ window.allHeroes =
         "family": "cupid",
         "image": "https://i.imgur.com/7l2ITkQ.jpg",
         "costume_id": 0,
-        "originalIndex": 420
+        "originalIndex": 421
     },
     {
         "name": "Ecgtheow",
@@ -16098,7 +16148,7 @@ window.allHeroes =
         "family": "beowulf",
         "image": "https://i.imgur.com/P9xj0rz.jpg",
         "costume_id": 0,
-        "originalIndex": 421
+        "originalIndex": 422
     },
     {
         "name": "Edwin",
@@ -16136,7 +16186,7 @@ window.allHeroes =
         "family": "morlovia",
         "image": "https://i.imgur.com/NshfXdy.jpg",
         "costume_id": 0,
-        "originalIndex": 422
+        "originalIndex": 423
     },
     {
         "name": "Eiora & Fluffy",
@@ -16172,7 +16222,7 @@ window.allHeroes =
         "family": "starfall",
         "image": "https://i.imgur.com/ISxaSzG.jpg",
         "costume_id": 0,
-        "originalIndex": 423
+        "originalIndex": 424
     },
     {
         "name": "Ekanite",
@@ -16218,7 +16268,7 @@ window.allHeroes =
         "family": "ninja",
         "image": "https://i.imgur.com/YQskc4O.jpg",
         "costume_id": 0,
-        "originalIndex": 424
+        "originalIndex": 425
     },
     {
         "name": "El Naddaha",
@@ -16255,7 +16305,7 @@ window.allHeroes =
         "family": "moon",
         "image": "https://i.imgur.com/IdGJmNB.jpg",
         "costume_id": 0,
-        "originalIndex": 425
+        "originalIndex": 426
     },
     {
         "name": "El Naddaha C1",
@@ -16295,7 +16345,7 @@ window.allHeroes =
         "family": "moon",
         "image": "https://i.imgur.com/okhmn3A.jpg",
         "costume_id": 1,
-        "originalIndex": 426
+        "originalIndex": 427
     },
     {
         "name": "Elkanen",
@@ -16314,7 +16364,7 @@ window.allHeroes =
             "Healers (Special)"
         ],
         "source": "S1-Classic",
-        "Release date": "2017-01-01",
+        "Release date": "2017-03-01",
         "star": 5,
         "power": 758,
         "attack": 675,
@@ -16328,7 +16378,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/gkqoNuc.jpg",
         "costume_id": 0,
-        "originalIndex": 427
+        "originalIndex": 428
     },
     {
         "name": "Elkanen C1",
@@ -16362,7 +16412,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/r8h2KIN.jpg",
         "costume_id": 1,
-        "originalIndex": 428
+        "originalIndex": 429
     },
     {
         "name": "Elkanen C2",
@@ -16395,7 +16445,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/45ULmYn.jpg",
         "costume_id": 2,
-        "originalIndex": 429
+        "originalIndex": 430
     },
     {
         "name": "Elkanen Toon",
@@ -16432,7 +16482,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/6SvyBu6.jpg",
         "costume_id": 3,
-        "originalIndex": 430
+        "originalIndex": 431
     },
     {
         "name": "Elkanen Glass",
@@ -16469,7 +16519,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/5zN8JJz.jpg",
         "costume_id": 4,
-        "originalIndex": 431
+        "originalIndex": 432
     },
     {
         "name": "Elradir",
@@ -16508,7 +16558,7 @@ window.allHeroes =
         "family": 2021,
         "image": "https://i.imgur.com/WDClMpO.jpg",
         "costume_id": 0,
-        "originalIndex": 432
+        "originalIndex": 433
     },
     {
         "name": "Elyssa",
@@ -16553,7 +16603,7 @@ window.allHeroes =
         "family": "magiccarpet",
         "image": "https://imgur.com/125Oojg.jpg",
         "costume_id": 0,
-        "originalIndex": 433
+        "originalIndex": 434
     },
     {
         "name": "Enigmo",
@@ -16594,7 +16644,7 @@ window.allHeroes =
         "family": "mystery",
         "image": "https://i.imgur.com/S6ta64j.jpg",
         "costume_id": 0,
-        "originalIndex": 434
+        "originalIndex": 435
     },
     {
         "name": "Evelyn",
@@ -16616,7 +16666,7 @@ window.allHeroes =
             "Heal over Time (HoT)"
         ],
         "source": "Hero of the Month",
-        "Release date": "2018-12-01T00:00:00",
+        "Release date": "2018-12-01",
         "star": 5,
         "power": 768,
         "attack": 727,
@@ -16632,7 +16682,7 @@ window.allHeroes =
         "family": 2018,
         "image": "https://i.imgur.com/YnTLDcR.jpg",
         "costume_id": 0,
-        "originalIndex": 435
+        "originalIndex": 436
     },
     {
         "name": "Evelyn C1",
@@ -16673,7 +16723,7 @@ window.allHeroes =
         "family": 2018,
         "image": "https://i.imgur.com/93B4oB9.jpg",
         "costume_id": 1,
-        "originalIndex": 436
+        "originalIndex": 437
     },
     {
         "name": "Experience Mimic Nature",
@@ -16722,7 +16772,7 @@ window.allHeroes =
         "family": "mimic",
         "image": "https://imgur.com/5HAwmjg.jpg",
         "costume_id": 0,
-        "originalIndex": 437
+        "originalIndex": 438
     },
     {
         "name": "Fafnir",
@@ -16767,7 +16817,7 @@ window.allHeroes =
         "family": "myrkheim",
         "image": "https://imgur.com/4ndmZBW.jpg",
         "costume_id": 0,
-        "originalIndex": 438
+        "originalIndex": 439
     },
     {
         "name": "Februus",
@@ -16809,7 +16859,7 @@ window.allHeroes =
         "family": "maskedgod",
         "image": "https://i.imgur.com/uBNXICu.jpg",
         "costume_id": 0,
-        "originalIndex": 439
+        "originalIndex": 440
     },
     {
         "name": "Ferrus",
@@ -16850,7 +16900,7 @@ window.allHeroes =
         "family": "construct",
         "image": "https://i.imgur.com/cdOOWSr.jpg",
         "costume_id": 0,
-        "originalIndex": 440
+        "originalIndex": 441
     },
     {
         "name": "Foxley",
@@ -16872,7 +16922,7 @@ window.allHeroes =
             "Healing Reducers"
         ],
         "source": "Covenant Summon",
-        "Release date": "2025-04-14T11:00:00",
+        "Release date": "2025-04-14",
         "star": 5,
         "power": 1174,
         "attack": 1256,
@@ -16889,7 +16939,7 @@ window.allHeroes =
         "family": "fox",
         "image": "https://imgur.com/WizK6Nb.jpg",
         "costume_id": 0,
-        "originalIndex": 441
+        "originalIndex": 442
     },
     {
         "name": "Francine",
@@ -16926,7 +16976,7 @@ window.allHeroes =
         "family": "morlovia",
         "image": "https://i.imgur.com/jBtXWpz.jpg",
         "costume_id": 0,
-        "originalIndex": 442
+        "originalIndex": 443
     },
     {
         "name": "Francine C1",
@@ -16963,7 +17013,7 @@ window.allHeroes =
         "family": "morlovia",
         "image": "https://i.imgur.com/ObnUcTT.jpg",
         "costume_id": 1,
-        "originalIndex": 443
+        "originalIndex": 444
     },
     {
         "name": "Frigg",
@@ -16998,7 +17048,7 @@ window.allHeroes =
         "family": "alfheim",
         "image": "https://i.imgur.com/UMxFVGq.jpg",
         "costume_id": 0,
-        "originalIndex": 444
+        "originalIndex": 445
     },
     {
         "name": "Frigg C1",
@@ -17033,7 +17083,7 @@ window.allHeroes =
         "family": "alfheim",
         "image": "https://i.imgur.com/G0IAEBg.jpg",
         "costume_id": 1,
-        "originalIndex": 445
+        "originalIndex": 446
     },
     {
         "name": "Frog Prince",
@@ -17072,7 +17122,7 @@ window.allHeroes =
         "family": "grimforest",
         "image": "https://i.imgur.com/b7feuiD.jpg",
         "costume_id": 0,
-        "originalIndex": 446
+        "originalIndex": 447
     },
     {
         "name": "Frond",
@@ -17110,7 +17160,7 @@ window.allHeroes =
         "family": "construct",
         "image": "https://i.imgur.com/ThTeBHZ.jpg",
         "costume_id": 0,
-        "originalIndex": 447
+        "originalIndex": 448
     },
     {
         "name": "Fungustine",
@@ -17153,7 +17203,7 @@ window.allHeroes =
         "family": "slime",
         "image": "https://i.imgur.com/RTB91u9.jpg",
         "costume_id": 0,
-        "originalIndex": 448
+        "originalIndex": 449
     },
     {
         "name": "Galapago",
@@ -17203,7 +17253,7 @@ window.allHeroes =
         "family": "defendersofatlantis",
         "image": "https://i.imgur.com/pxAZGoS.jpg",
         "costume_id": 0,
-        "originalIndex": 449
+        "originalIndex": 450
     },
     {
         "name": "Galapago C1",
@@ -17253,7 +17303,7 @@ window.allHeroes =
         "family": "defendersofatlantis",
         "image": "https://i.imgur.com/hvltSu6.jpg",
         "costume_id": 1,
-        "originalIndex": 450
+        "originalIndex": 451
     },
     {
         "name": "Garjammal",
@@ -17288,7 +17338,7 @@ window.allHeroes =
         "family": "underwild",
         "image": "https://i.imgur.com/kz19bRj.jpg",
         "costume_id": 0,
-        "originalIndex": 451
+        "originalIndex": 452
     },
     {
         "name": "Garjammal C1",
@@ -17326,7 +17376,7 @@ window.allHeroes =
         "family": "underwild",
         "image": "https://i.imgur.com/U99nNNm.jpg",
         "costume_id": 1,
-        "originalIndex": 452
+        "originalIndex": 453
     },
     {
         "name": "Garten",
@@ -17368,7 +17418,7 @@ window.allHeroes =
         "family": "gargoyle",
         "image": "https://i.imgur.com/8K8mMLw.jpg",
         "costume_id": 0,
-        "originalIndex": 453
+        "originalIndex": 454
     },
     {
         "name": "Gelert",
@@ -17379,9 +17429,9 @@ window.allHeroes =
         "speed": "Changing Tides",
         "skill": "Whirlpool Dash",
         "types": [
-            "Mana steal",
+            "Mana steal 1",
             "Hit 1",
-            "Mana gen Buff"
+            "Mana gen Buff All"
         ],
         "skill_types": [
             "Mana Generation Buffers",
@@ -17418,7 +17468,58 @@ window.allHeroes =
         "family": "defendersofatlantis",
         "image": "https://i.imgur.com/WjoVn5I.jpg",
         "costume_id": 0,
-        "originalIndex": 454
+        "originalIndex": 455
+    },
+    {
+        "name": "Gelert C1",
+        "fancy_name": "Scavenger of the Deep",
+        "AetherPower": "Dodge",
+        "color": "Green",
+        "class": "Fighter",
+        "speed": "Changing Tides",
+        "skill": null,
+        "types": [
+            "Mana steal 1",
+            "Hit 1",
+            "Mana gen Buff All"
+        ],
+        "skill_types": [
+            "Mana Generation Buffers",
+            "Mana Raisers",
+            "Mana Reducers or Blockers",
+            "Snipers",
+            "Extra Damage Dealers"
+        ],
+        "source": "S6-S7-Untold Tales",
+        "Release date": "2025-06-26",
+        "star": 5,
+        "power": 1214,
+        "attack": 1331,
+        "defense": 1095,
+        "health": 2264,
+        "effects": [
+            "Special Skill need consecutive uses to reach full power, the following order:",
+            "1st:",
+            " * Caster steals 15% mana from the target.",
+            " * Deals 500% damage to the target.",
+            " * The less mana the enemies have, the more damage they will receive, up to 650%.",
+            " * All allies get +26% mana generation for 3 turns. (Affects only mana generated from matching tiles or mana gained by the defense team at the end of their turn.)",
+            "2nd:",
+            " * Caster steals 25% mana from the target.",
+            " * Deals 550% damage to the target.",
+            " * The less mana the enemies have, the more damage they will receive, up to 720%.",
+            " * All allies get +35% mana generation for 3 turns. (Affects only mana generated from matching tiles or mana gained by the defense team at the end of their turn.)"
+        ],
+        "passives": [
+            "Effects on Special Skill: 50% chance to perform the following actions when this character casts their Special Skill",
+            " * Deals 80% damage to all enemies.",
+            " * All allies get +21% critical chance for 2 turns.",
+            "Resist Insanity: This character has an innate resistance against Insanity."
+        ],
+        "family": "defendersofatlantis",
+        "image": "https://imgur.com/A9Yjffb.jpg",
+        "costume_id": 1,
+        "originalIndex": 456
     },
     {
         "name": "Ginger",
@@ -17454,7 +17555,7 @@ window.allHeroes =
         "family": "christmas",
         "image": "https://i.imgur.com/U9fsiDu.jpg",
         "costume_id": 0,
-        "originalIndex": 455
+        "originalIndex": 457
     },
     {
         "name": "Goorian",
@@ -17499,7 +17600,7 @@ window.allHeroes =
         "family": "slime",
         "image": "https://i.imgur.com/e1nrPfv.jpg",
         "costume_id": 0,
-        "originalIndex": 456
+        "originalIndex": 458
     },
     {
         "name": "Grace",
@@ -17541,7 +17642,7 @@ window.allHeroes =
         "family": 2022,
         "image": "https://i.imgur.com/GvwTLSo.jpg",
         "costume_id": 0,
-        "originalIndex": 457
+        "originalIndex": 459
     },
     {
         "name": "Green Knight",
@@ -17577,7 +17678,7 @@ window.allHeroes =
         "family": "avalon",
         "image": "https://i.imgur.com/4LKxVef.jpg",
         "costume_id": 0,
-        "originalIndex": 458
+        "originalIndex": 460
     },
     {
         "name": "Gregorion",
@@ -17597,7 +17698,7 @@ window.allHeroes =
             "Buffers (DEF)"
         ],
         "source": "Hero of the Month",
-        "Release date": "2018-07-01T00:00:00",
+        "Release date": "2018-07-01",
         "star": 5,
         "power": 768,
         "attack": 729,
@@ -17612,7 +17713,7 @@ window.allHeroes =
         "family": 2018,
         "image": "https://i.imgur.com/Vz5Hvbn.jpg",
         "costume_id": 0,
-        "originalIndex": 459
+        "originalIndex": 461
     },
     {
         "name": "Gregorion C1",
@@ -17650,7 +17751,7 @@ window.allHeroes =
         "family": 2018,
         "image": "https://i.imgur.com/ONemvil.jpg",
         "costume_id": 1,
-        "originalIndex": 460
+        "originalIndex": 462
     },
     {
         "name": "Grendel",
@@ -17693,7 +17794,7 @@ window.allHeroes =
         "family": "beowulf",
         "image": "https://i.imgur.com/ijEHGWi.jpg",
         "costume_id": 0,
-        "originalIndex": 461
+        "originalIndex": 463
     },
     {
         "name": "Grovevert",
@@ -17734,7 +17835,7 @@ window.allHeroes =
         "family": "moth",
         "image": "https://i.imgur.com/0Q3pYS0.jpg",
         "costume_id": 0,
-        "originalIndex": 462
+        "originalIndex": 464
     },
     {
         "name": "Guan Yu",
@@ -17755,7 +17856,7 @@ window.allHeroes =
             "Minions Counters"
         ],
         "source": "Three Kingdoms Summon",
-        "Release date": "2022-03-14T12:00:00",
+        "Release date": "2022-03-14",
         "star": 5,
         "power": 835,
         "attack": 826,
@@ -17770,7 +17871,7 @@ window.allHeroes =
         "family": "kingdom",
         "image": "https://i.imgur.com/nDiRoqi.jpg",
         "costume_id": 0,
-        "originalIndex": 463
+        "originalIndex": 465
     },
     {
         "name": "Guan Yu C1",
@@ -17811,7 +17912,7 @@ window.allHeroes =
         "family": "kingdom",
         "image": "https://i.imgur.com/GP4J8r3.jpg",
         "costume_id": 1,
-        "originalIndex": 464
+        "originalIndex": 466
     },
     {
         "name": "Guardian Chameleon",
@@ -17850,7 +17951,7 @@ window.allHeroes =
         "family": "guardiansteltoc",
         "image": "https://i.imgur.com/Q04Vvnt.jpg",
         "costume_id": 0,
-        "originalIndex": 465
+        "originalIndex": 467
     },
     {
         "name": "Hammertusk",
@@ -17887,7 +17988,7 @@ window.allHeroes =
         "family": "plainshunter",
         "image": "https://i.imgur.com/pL7PYXM.jpg",
         "costume_id": 0,
-        "originalIndex": 466
+        "originalIndex": 468
     },
     {
         "name": "Haulstone",
@@ -17929,7 +18030,7 @@ window.allHeroes =
         "family": "construct",
         "image": "https://i.imgur.com/nDQGLk9.jpg",
         "costume_id": 0,
-        "originalIndex": 467
+        "originalIndex": 469
     },
     {
         "name": "Heimdall",
@@ -17965,7 +18066,7 @@ window.allHeroes =
         "family": "asgard",
         "image": "https://i.imgur.com/bjKzbra.jpg",
         "costume_id": 0,
-        "originalIndex": 468
+        "originalIndex": 470
     },
     {
         "name": "Heimdall C1",
@@ -18002,7 +18103,7 @@ window.allHeroes =
         "family": "asgard",
         "image": "https://i.imgur.com/YoTKnv0.jpg",
         "costume_id": 1,
-        "originalIndex": 469
+        "originalIndex": 471
     },
     {
         "name": "Horghall",
@@ -18021,7 +18122,7 @@ window.allHeroes =
             "Debuffers (ATK)"
         ],
         "source": "S1-Classic",
-        "Release date": "2017-01-01",
+        "Release date": "2017-03-01",
         "star": 5,
         "power": 753,
         "attack": 657,
@@ -18035,7 +18136,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/6787feX.jpg",
         "costume_id": 0,
-        "originalIndex": 470
+        "originalIndex": 472
     },
     {
         "name": "Horghall C1",
@@ -18054,7 +18155,7 @@ window.allHeroes =
             "Debuffers (ATK)"
         ],
         "source": "S1-Classic",
-        "Release date": "2020-01-01",
+        "Release date": "2020-01-20",
         "star": 5,
         "power": 794,
         "attack": 691,
@@ -18068,7 +18169,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/AffGFoZ.jpg",
         "costume_id": 1,
-        "originalIndex": 471
+        "originalIndex": 473
     },
     {
         "name": "Horghall C2",
@@ -18107,7 +18208,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/IfQ1lHo.jpg",
         "costume_id": 2,
-        "originalIndex": 472
+        "originalIndex": 474
     },
     {
         "name": "Horghall Toon",
@@ -18144,7 +18245,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/VkOyyRt.jpg",
         "costume_id": 3,
-        "originalIndex": 473
+        "originalIndex": 475
     },
     {
         "name": "Humbert",
@@ -18183,7 +18284,7 @@ window.allHeroes =
         "family": "bear",
         "image": "https://i.imgur.com/wk8es22.jpg",
         "costume_id": 0,
-        "originalIndex": 474
+        "originalIndex": 476
     },
     {
         "name": "Iku-Turso",
@@ -18222,7 +18323,7 @@ window.allHeroes =
         "family": "kalevala",
         "image": "https://i.imgur.com/wOeJMxg.jpg",
         "costume_id": 0,
-        "originalIndex": 475
+        "originalIndex": 477
     },
     {
         "name": "Ito",
@@ -18274,7 +18375,7 @@ window.allHeroes =
         "family": "ninja",
         "image": "https://i.imgur.com/TBhE7C4.jpg",
         "costume_id": 0,
-        "originalIndex": 476
+        "originalIndex": 478
     },
     {
         "name": "Jade",
@@ -18320,7 +18421,7 @@ window.allHeroes =
         "family": "ninja",
         "image": "https://i.imgur.com/tVOg6Mz.jpg",
         "costume_id": 0,
-        "originalIndex": 477
+        "originalIndex": 479
     },
     {
         "name": "Kadilen",
@@ -18339,7 +18440,7 @@ window.allHeroes =
             "Buffers (DEF)"
         ],
         "source": "S1-Classic",
-        "Release date": "2017-01-01",
+        "Release date": "2017-03-01",
         "star": 5,
         "power": 757,
         "attack": 696,
@@ -18353,7 +18454,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/Gjh3PRB.jpg",
         "costume_id": 0,
-        "originalIndex": 478
+        "originalIndex": 480
     },
     {
         "name": "Kadilen C1",
@@ -18388,7 +18489,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/N7LZ2EP.jpg",
         "costume_id": 1,
-        "originalIndex": 479
+        "originalIndex": 481
     },
     {
         "name": "Kadilen C2",
@@ -18423,7 +18524,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/hEckaC5.jpg",
         "costume_id": 2,
-        "originalIndex": 480
+        "originalIndex": 482
     },
     {
         "name": "Kadilen Toon",
@@ -18460,7 +18561,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/I1ETLXX.jpg",
         "costume_id": 3,
-        "originalIndex": 481
+        "originalIndex": 483
     },
     {
         "name": "Kai",
@@ -18504,7 +18605,7 @@ window.allHeroes =
         "family": "plainshunter",
         "image": "https://i.imgur.com/D9rMcBZ.jpg",
         "costume_id": 0,
-        "originalIndex": 482
+        "originalIndex": 484
     },
     {
         "name": "Kingston",
@@ -18541,7 +18642,7 @@ window.allHeroes =
         "family": 2019,
         "image": "https://i.imgur.com/rlpoKXr.jpg",
         "costume_id": 0,
-        "originalIndex": 483
+        "originalIndex": 485
     },
     {
         "name": "Kolya",
@@ -18584,7 +18685,7 @@ window.allHeroes =
         "family": "garrisonguard",
         "image": "https://i.imgur.com/joEtnuS.jpg",
         "costume_id": 0,
-        "originalIndex": 484
+        "originalIndex": 486
     },
     {
         "name": "Lady Locke",
@@ -18603,7 +18704,7 @@ window.allHeroes =
             "DoT Attackers"
         ],
         "source": "Challenge Festival-Pirates",
-        "Release date": "2017-09-01",
+        "Release date": "2017-09-07",
         "star": 5,
         "power": 765,
         "attack": 805,
@@ -18617,7 +18718,7 @@ window.allHeroes =
         "family": "corellia",
         "image": "https://i.imgur.com/rSEO0Xi.jpg",
         "costume_id": 0,
-        "originalIndex": 485
+        "originalIndex": 487
     },
     {
         "name": "Lady Locke C1",
@@ -18655,7 +18756,7 @@ window.allHeroes =
         "family": "corellia",
         "image": "https://i.imgur.com/mpM0YIf.jpg",
         "costume_id": 1,
-        "originalIndex": 486
+        "originalIndex": 488
     },
     {
         "name": "Lady of the Lake",
@@ -18676,7 +18777,7 @@ window.allHeroes =
             "Minions Summoners"
         ],
         "source": "Challenge Festival-Avalon",
-        "Release date": "2017-01-01",
+        "Release date": "2019-09-12",
         "star": 5,
         "power": 780,
         "attack": 756,
@@ -18691,7 +18792,7 @@ window.allHeroes =
         "family": "avalon",
         "image": "https://i.imgur.com/hlRFlMx.jpg",
         "costume_id": 0,
-        "originalIndex": 487
+        "originalIndex": 489
     },
     {
         "name": "Lady of the Lake C1",
@@ -18727,7 +18828,7 @@ window.allHeroes =
         "family": "avalon",
         "image": "https://i.imgur.com/T9XV0yp.jpg",
         "costume_id": 1,
-        "originalIndex": 488
+        "originalIndex": 490
     },
     {
         "name": "Leadria",
@@ -18765,7 +18866,7 @@ window.allHeroes =
         "family": 2023,
         "image": "https://i.imgur.com/YdTKSoW.jpg",
         "costume_id": 0,
-        "originalIndex": 489
+        "originalIndex": 491
     },
     {
         "name": "Leafwhisk",
@@ -18804,7 +18905,7 @@ window.allHeroes =
         "family": "goblin",
         "image": "https://i.imgur.com/Y6zioBg.jpg",
         "costume_id": 0,
-        "originalIndex": 490
+        "originalIndex": 492
     },
     {
         "name": "Leonie",
@@ -18849,7 +18950,7 @@ window.allHeroes =
         "family": "wildcat",
         "image": "https://i.imgur.com/nW3onBB.jpg",
         "costume_id": 0,
-        "originalIndex": 491
+        "originalIndex": 493
     },
     {
         "name": "Lianna",
@@ -18866,7 +18967,7 @@ window.allHeroes =
             "Snipers"
         ],
         "source": "S1-Classic",
-        "Release date": "2017-01-01",
+        "Release date": "2017-03-01",
         "star": 5,
         "power": 755,
         "attack": 729,
@@ -18879,7 +18980,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/uJj6MQb.jpg",
         "costume_id": 0,
-        "originalIndex": 492
+        "originalIndex": 494
     },
     {
         "name": "Lianna C1",
@@ -18898,7 +18999,7 @@ window.allHeroes =
             "Snipers"
         ],
         "source": "S1-Classic",
-        "Release date": "2020-01-01",
+        "Release date": "2020-01-20",
         "star": 5,
         "power": 795,
         "attack": 773,
@@ -18912,7 +19013,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/ieaiSor.jpg",
         "costume_id": 1,
-        "originalIndex": 493
+        "originalIndex": 495
     },
     {
         "name": "Lianna C2",
@@ -18945,7 +19046,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/UwDUNi0.jpg",
         "costume_id": 2,
-        "originalIndex": 494
+        "originalIndex": 496
     },
     {
         "name": "Lianna Toon",
@@ -18979,7 +19080,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/yEECSzl.jpg",
         "costume_id": 3,
-        "originalIndex": 495
+        "originalIndex": 497
     },
     {
         "name": "Lianna Glass",
@@ -19014,7 +19115,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://imgur.com/Ad7sIug.jpg",
         "costume_id": 4,
-        "originalIndex": 496
+        "originalIndex": 498
     },
     {
         "name": "Limeboire",
@@ -19057,7 +19158,7 @@ window.allHeroes =
         "family": "moth",
         "image": "https://imgur.com/OeIVrwK.jpg",
         "costume_id": 0,
-        "originalIndex": 497
+        "originalIndex": 499
     },
     {
         "name": "Liu Bei",
@@ -19078,7 +19179,7 @@ window.allHeroes =
             "Minions Summoners"
         ],
         "source": "Three Kingdoms Summon",
-        "Release date": "2022-05-23T12:00:00",
+        "Release date": "2022-05-23",
         "star": 5,
         "power": 836,
         "attack": 815,
@@ -19093,7 +19194,7 @@ window.allHeroes =
         "family": "kingdom",
         "image": "https://i.imgur.com/Uq8cKe7.jpg",
         "costume_id": 0,
-        "originalIndex": 498
+        "originalIndex": 500
     },
     {
         "name": "Liu Bei C1",
@@ -19134,7 +19235,7 @@ window.allHeroes =
         "family": "kingdom",
         "image": "https://i.imgur.com/rjnMev7.jpg",
         "costume_id": 1,
-        "originalIndex": 499
+        "originalIndex": 501
     },
     {
         "name": "Lughaidh",
@@ -19179,7 +19280,7 @@ window.allHeroes =
         "family": "underwild",
         "image": "https://i.imgur.com/RFjr7Fi.jpg",
         "costume_id": 0,
-        "originalIndex": 500
+        "originalIndex": 502
     },
     {
         "name": "Lughaidh C1",
@@ -19223,7 +19324,7 @@ window.allHeroes =
         "family": "underwild",
         "image": "https://i.imgur.com/EAwYCZr.jpg",
         "costume_id": 1,
-        "originalIndex": 501
+        "originalIndex": 503
     },
     {
         "name": "Ma'at",
@@ -19262,7 +19363,7 @@ window.allHeroes =
         "family": "sun",
         "image": "https://i.imgur.com/Lc6n5Vz.jpg",
         "costume_id": 0,
-        "originalIndex": 502
+        "originalIndex": 504
     },
     {
         "name": "Ma'at C1",
@@ -19303,7 +19404,7 @@ window.allHeroes =
         "family": "sun",
         "image": "https://i.imgur.com/mjmiIt0.jpg",
         "costume_id": 1,
-        "originalIndex": 503
+        "originalIndex": 505
     },
     {
         "name": "Maegwyn",
@@ -19343,7 +19444,7 @@ window.allHeroes =
         "family": "astraldwarfs",
         "image": "https://i.imgur.com/ZHoR1Fc.jpg",
         "costume_id": 0,
-        "originalIndex": 504
+        "originalIndex": 506
     },
     {
         "name": "Margaret",
@@ -19380,7 +19481,7 @@ window.allHeroes =
         "family": 2019,
         "image": "https://i.imgur.com/3T1uKuW.jpg",
         "costume_id": 0,
-        "originalIndex": 505
+        "originalIndex": 507
     },
     {
         "name": "Max",
@@ -19418,7 +19519,7 @@ window.allHeroes =
         "family": "pets",
         "image": "https://i.imgur.com/V0qUVNH.jpg",
         "costume_id": 0,
-        "originalIndex": 506
+        "originalIndex": 508
     },
     {
         "name": "Mazoga",
@@ -19457,7 +19558,7 @@ window.allHeroes =
         "family": "beachparty",
         "image": "https://i.imgur.com/1FUEzbL.jpg",
         "costume_id": 0,
-        "originalIndex": 507
+        "originalIndex": 509
     },
     {
         "name": "Mena",
@@ -19497,7 +19598,7 @@ window.allHeroes =
         "family": "gargoyle",
         "image": "https://i.imgur.com/y4ORfSh.jpg",
         "costume_id": 0,
-        "originalIndex": 508
+        "originalIndex": 510
     },
     {
         "name": "Mistweaver",
@@ -19509,7 +19610,8 @@ window.allHeroes =
         "skill": "Misty Punches",
         "types": [
             "Hit 3",
-            "Healing Immunity"
+            "Damage on each Resisted Healing 3",
+            "Self Elemental Attack Stack"
         ],
         "skill_types": [
             "AoE Attackers (Hit-3)",
@@ -19537,7 +19639,7 @@ window.allHeroes =
         "family": "junglehunter",
         "image": "https://i.imgur.com/F4ide5S.jpg",
         "costume_id": 0,
-        "originalIndex": 509
+        "originalIndex": 511
     },
     {
         "name": "Moonflower",
@@ -19574,7 +19676,7 @@ window.allHeroes =
         "family": "astralelves",
         "image": "https://i.imgur.com/0xgP0mx.jpg",
         "costume_id": 0,
-        "originalIndex": 510
+        "originalIndex": 512
     },
     {
         "name": "Morgan Le Fay",
@@ -19592,7 +19694,7 @@ window.allHeroes =
             "DoT Attackers"
         ],
         "source": "Challenge Festival-Avalon",
-        "Release date": "2017-01-01",
+        "Release date": "2018-01-05",
         "star": 5,
         "power": 765,
         "attack": 716,
@@ -19606,7 +19708,7 @@ window.allHeroes =
         "family": "avalon",
         "image": "https://i.imgur.com/JIPoRD4.jpg",
         "costume_id": 0,
-        "originalIndex": 511
+        "originalIndex": 513
     },
     {
         "name": "Mother North",
@@ -19627,7 +19729,7 @@ window.allHeroes =
             "Revivers"
         ],
         "source": "Monthly Event-Winter",
-        "Release date": "2017-01-01",
+        "Release date": "2018-12-02",
         "star": 5,
         "power": 770,
         "attack": 605,
@@ -19642,7 +19744,7 @@ window.allHeroes =
         "family": "christmas",
         "image": "https://i.imgur.com/463IXXp.jpg",
         "costume_id": 0,
-        "originalIndex": 512
+        "originalIndex": 514
     },
     {
         "name": "Mother North C1",
@@ -19678,7 +19780,7 @@ window.allHeroes =
         "family": "christmas",
         "image": "https://i.imgur.com/0QsTiw8.jpg",
         "costume_id": 1,
-        "originalIndex": 513
+        "originalIndex": 515
     },
     {
         "name": "Mucktus",
@@ -19719,7 +19821,7 @@ window.allHeroes =
         "family": "slime",
         "image": "https://i.imgur.com/eKwzh2k.jpg",
         "costume_id": 0,
-        "originalIndex": 514
+        "originalIndex": 516
     },
     {
         "name": "Myoin-ni",
@@ -19765,7 +19867,7 @@ window.allHeroes =
         "family": "ninja",
         "image": "https://i.imgur.com/tXk6QNw.jpg",
         "costume_id": 0,
-        "originalIndex": 515
+        "originalIndex": 517
     },
     {
         "name": "Mystia",
@@ -19806,7 +19908,7 @@ window.allHeroes =
         "family": 2025,
         "image": "https://i.imgur.com/igntudt.jpg",
         "costume_id": 0,
-        "originalIndex": 516
+        "originalIndex": 518
     },
     {
         "name": "Nogu",
@@ -19845,7 +19947,7 @@ window.allHeroes =
         "family": "champions",
         "image": "https://i.imgur.com/CtidFGk.jpg",
         "costume_id": 0,
-        "originalIndex": 517
+        "originalIndex": 519
     },
     {
         "name": "Ott",
@@ -19890,7 +19992,7 @@ window.allHeroes =
         "family": "nidavellir",
         "image": "https://i.imgur.com/XIyQFXu.jpg",
         "costume_id": 0,
-        "originalIndex": 518
+        "originalIndex": 520
     },
     {
         "name": "Penelope",
@@ -19929,7 +20031,7 @@ window.allHeroes =
         "family": "investigator",
         "image": "https://i.imgur.com/mxewGNK.jpg",
         "costume_id": 0,
-        "originalIndex": 519
+        "originalIndex": 521
     },
     {
         "name": "Peregrine",
@@ -19969,7 +20071,7 @@ window.allHeroes =
         "family": "woodlandfaun",
         "image": "https://i.imgur.com/1bOrH83.jpg",
         "costume_id": 0,
-        "originalIndex": 520
+        "originalIndex": 522
     },
     {
         "name": "Peridot",
@@ -20017,7 +20119,7 @@ window.allHeroes =
         "family": "ninja",
         "image": "https://i.imgur.com/E1kxfPE.jpg",
         "costume_id": 0,
-        "originalIndex": 521
+        "originalIndex": 523
     },
     {
         "name": "Phileas Fogg",
@@ -20055,7 +20157,7 @@ window.allHeroes =
         "family": "underwild",
         "image": "https://i.imgur.com/L3xRyB9.jpg",
         "costume_id": 0,
-        "originalIndex": 522
+        "originalIndex": 524
     },
     {
         "name": "Phileas Fogg C1",
@@ -20096,7 +20198,7 @@ window.allHeroes =
         "family": "underwild",
         "image": "https://i.imgur.com/xWb34BS.jpg",
         "costume_id": 1,
-        "originalIndex": 523
+        "originalIndex": 525
     },
     {
         "name": "Pip",
@@ -20137,7 +20239,7 @@ window.allHeroes =
         "family": "garrisonguard",
         "image": "https://i.imgur.com/ExQF65A.jpg",
         "costume_id": 0,
-        "originalIndex": 524
+        "originalIndex": 526
     },
     {
         "name": "Prince Siegfried",
@@ -20183,7 +20285,7 @@ window.allHeroes =
         "family": "opera",
         "image": "https://i.imgur.com/WwCBlh0.jpg",
         "costume_id": 0,
-        "originalIndex": 525
+        "originalIndex": 527
     },
     {
         "name": "Qinglong",
@@ -20222,7 +20324,7 @@ window.allHeroes =
         "family": "lunaryear",
         "image": "https://i.imgur.com/PjBP5aw.jpg",
         "costume_id": 0,
-        "originalIndex": 526
+        "originalIndex": 528
     },
     {
         "name": "Queen Anne",
@@ -20263,7 +20365,7 @@ window.allHeroes =
         "family": "musketeer",
         "image": "https://i.imgur.com/BoTIbhq.jpg",
         "costume_id": 0,
-        "originalIndex": 527
+        "originalIndex": 529
     },
     {
         "name": "Quenell",
@@ -20299,7 +20401,7 @@ window.allHeroes =
         "family": "wolf",
         "image": "https://i.imgur.com/iWwRJlT.jpg",
         "costume_id": 0,
-        "originalIndex": 528
+        "originalIndex": 530
     },
     {
         "name": "Quenell C1",
@@ -20339,7 +20441,7 @@ window.allHeroes =
         "family": "wolf",
         "image": "https://i.imgur.com/vtZxZ4o.jpg",
         "costume_id": 1,
-        "originalIndex": 529
+        "originalIndex": 531
     },
     {
         "name": "Ratatoskr",
@@ -20374,7 +20476,7 @@ window.allHeroes =
         "family": "alfheim",
         "image": "https://i.imgur.com/IwBPUx4.jpg",
         "costume_id": 0,
-        "originalIndex": 530
+        "originalIndex": 532
     },
     {
         "name": "Ratatoskr C1",
@@ -20409,7 +20511,7 @@ window.allHeroes =
         "family": "alfheim",
         "image": "https://i.imgur.com/AZRDhg4.jpg",
         "costume_id": 1,
-        "originalIndex": 531
+        "originalIndex": 533
     },
     {
         "name": "Relius",
@@ -20447,7 +20549,7 @@ window.allHeroes =
         "family": "owl",
         "image": "https://i.imgur.com/6ngbYLA.jpg",
         "costume_id": 0,
-        "originalIndex": 532
+        "originalIndex": 534
     },
     {
         "name": "Rhineglow",
@@ -20487,7 +20589,7 @@ window.allHeroes =
         "family": "construct",
         "image": "https://i.imgur.com/SQkVr8H.jpg",
         "costume_id": 0,
-        "originalIndex": 533
+        "originalIndex": 535
     },
     {
         "name": "Roz",
@@ -20527,7 +20629,7 @@ window.allHeroes =
         "family": "superelemental",
         "image": "https://i.imgur.com/5xvOFq1.jpg",
         "costume_id": 0,
-        "originalIndex": 534
+        "originalIndex": 536
     },
     {
         "name": "Sadie",
@@ -20569,7 +20671,7 @@ window.allHeroes =
         "family": "springvale",
         "image": "https://imgur.com/p0UA9id.jpg",
         "costume_id": 0,
-        "originalIndex": 535
+        "originalIndex": 537
     },
     {
         "name": "Sha Wujing",
@@ -20608,7 +20710,7 @@ window.allHeroes =
         "family": "journey",
         "image": "https://i.imgur.com/zNMCJKX.jpg",
         "costume_id": 0,
-        "originalIndex": 536
+        "originalIndex": 538
     },
     {
         "name": "Silvaria",
@@ -20648,7 +20750,7 @@ window.allHeroes =
         "family": 2022,
         "image": "https://i.imgur.com/bmUsK1J.jpg",
         "costume_id": 0,
-        "originalIndex": 537
+        "originalIndex": 539
     },
     {
         "name": "Smarttongue",
@@ -20688,7 +20790,7 @@ window.allHeroes =
         "family": "goblin",
         "image": "https://i.imgur.com/reMeS9l.jpg",
         "costume_id": 0,
-        "originalIndex": 538
+        "originalIndex": 540
     },
     {
         "name": "Snowball",
@@ -20729,7 +20831,7 @@ window.allHeroes =
         "family": "pets",
         "image": "https://i.imgur.com/kEMlZAo.jpg",
         "costume_id": 0,
-        "originalIndex": 539
+        "originalIndex": 541
     },
     {
         "name": "Spartoi",
@@ -20775,7 +20877,7 @@ window.allHeroes =
         "family": "nightmaresofatlantis",
         "image": "https://i.imgur.com/OJh8GR8.jpg",
         "costume_id": 0,
-        "originalIndex": 540
+        "originalIndex": 542
     },
     {
         "name": "Spartoi C1",
@@ -20822,7 +20924,7 @@ window.allHeroes =
         "family": "nightmaresofatlantis",
         "image": "https://i.imgur.com/uRq8uoY.jpg",
         "costume_id": 1,
-        "originalIndex": 541
+        "originalIndex": 543
     },
     {
         "name": "Spiff",
@@ -20861,7 +20963,7 @@ window.allHeroes =
         "family": "fox",
         "image": "https://i.imgur.com/XnfQKGA.jpg",
         "costume_id": 0,
-        "originalIndex": 542
+        "originalIndex": 544
     },
     {
         "name": "Staintongue",
@@ -20901,7 +21003,7 @@ window.allHeroes =
         "family": "abysshunter",
         "image": "https://i.imgur.com/obJIXMO.jpg",
         "costume_id": 0,
-        "originalIndex": 543
+        "originalIndex": 545
     },
     {
         "name": "Starlass",
@@ -20940,7 +21042,7 @@ window.allHeroes =
         "family": "astralelves",
         "image": "https://i.imgur.com/VtRf87E.jpg",
         "costume_id": 0,
-        "originalIndex": 544
+        "originalIndex": 546
     },
     {
         "name": "Sune",
@@ -20983,7 +21085,7 @@ window.allHeroes =
         "family": "plainshunter",
         "image": "https://i.imgur.com/Uw6kgXB.jpg",
         "costume_id": 0,
-        "originalIndex": 545
+        "originalIndex": 547
     },
     {
         "name": "Tametomo",
@@ -21030,7 +21132,7 @@ window.allHeroes =
         "family": "ninja",
         "image": "https://i.imgur.com/QuMcU9O.jpg",
         "costume_id": 0,
-        "originalIndex": 546
+        "originalIndex": 548
     },
     {
         "name": "Tarlak",
@@ -21063,7 +21165,7 @@ window.allHeroes =
         "family": "lagoon",
         "image": "https://i.imgur.com/VmIENFl.jpg",
         "costume_id": 0,
-        "originalIndex": 547
+        "originalIndex": 549
     },
     {
         "name": "Tarlak C1",
@@ -21096,7 +21198,7 @@ window.allHeroes =
         "family": "lagoon",
         "image": "https://i.imgur.com/UPOaKMz.jpg",
         "costume_id": 1,
-        "originalIndex": 548
+        "originalIndex": 550
     },
     {
         "name": "Teddy",
@@ -21139,7 +21241,7 @@ window.allHeroes =
         "family": "bear",
         "image": "https://i.imgur.com/Aaf3CZX.jpg",
         "costume_id": 0,
-        "originalIndex": 549
+        "originalIndex": 551
     },
     {
         "name": "Telluria",
@@ -21182,7 +21284,7 @@ window.allHeroes =
         "family": 2020,
         "image": "https://i.imgur.com/xKwfgME.jpg",
         "costume_id": 0,
-        "originalIndex": 550
+        "originalIndex": 552
     },
     {
         "name": "Telonius",
@@ -21230,7 +21332,7 @@ window.allHeroes =
         "family": "magic",
         "image": "https://i.imgur.com/WMPKV4S.jpg",
         "costume_id": 0,
-        "originalIndex": 551
+        "originalIndex": 553
     },
     {
         "name": "The Hatter",
@@ -21249,7 +21351,7 @@ window.allHeroes =
             "Buff Stealers"
         ],
         "source": "Challenge Festival-Wonderland",
-        "Release date": "2019-02-01",
+        "Release date": "2019-02-14",
         "star": 5,
         "power": 768,
         "attack": 735,
@@ -21263,7 +21365,7 @@ window.allHeroes =
         "family": "wonderland",
         "image": "https://i.imgur.com/Fs3u4wr.jpg",
         "costume_id": 0,
-        "originalIndex": 552
+        "originalIndex": 554
     },
     {
         "name": "The Hatter C1",
@@ -21301,7 +21403,7 @@ window.allHeroes =
         "family": "wonderland",
         "image": "https://i.imgur.com/SDtr1yp.jpg",
         "costume_id": 1,
-        "originalIndex": 553
+        "originalIndex": 555
     },
     {
         "name": "Theodosius",
@@ -21346,7 +21448,7 @@ window.allHeroes =
         "family": "garrisonguard",
         "image": "https://i.imgur.com/tr0BEoG.jpg",
         "costume_id": 0,
-        "originalIndex": 554
+        "originalIndex": 556
     },
     {
         "name": "Toxicandra",
@@ -21382,7 +21484,7 @@ window.allHeroes =
         "family": "villains",
         "image": "https://i.imgur.com/m5DCDHL.jpg",
         "costume_id": 0,
-        "originalIndex": 555
+        "originalIndex": 557
     },
     {
         "name": "Toxicandra C1",
@@ -21421,7 +21523,7 @@ window.allHeroes =
         "family": "villains",
         "image": "https://imgur.com/6ZuZX5t.jpg",
         "costume_id": 1,
-        "originalIndex": 556
+        "originalIndex": 558
     },
     {
         "name": "Vainamoinen",
@@ -21456,7 +21558,7 @@ window.allHeroes =
         "family": "kalevala",
         "image": "https://i.imgur.com/gY0vQZu.jpg",
         "costume_id": 0,
-        "originalIndex": 557
+        "originalIndex": 559
     },
     {
         "name": "Vainamoinen C1",
@@ -21491,7 +21593,7 @@ window.allHeroes =
         "family": "kalevala",
         "image": "https://i.imgur.com/eTqe3pF.jpg",
         "costume_id": 1,
-        "originalIndex": 558
+        "originalIndex": 560
     },
     {
         "name": "Verus",
@@ -21529,7 +21631,7 @@ window.allHeroes =
         "family": "owl",
         "image": "https://i.imgur.com/Klnv0Ue.jpg",
         "costume_id": 0,
-        "originalIndex": 559
+        "originalIndex": 561
     },
     {
         "name": "Viselus",
@@ -21570,7 +21672,7 @@ window.allHeroes =
         "family": 2023,
         "image": "https://i.imgur.com/SWrRjRX.jpg",
         "costume_id": 0,
-        "originalIndex": 560
+        "originalIndex": 562
     },
     {
         "name": "Winifred",
@@ -21611,7 +21713,7 @@ window.allHeroes =
         "family": "bard",
         "image": "https://i.imgur.com/keg45a3.jpg",
         "costume_id": 0,
-        "originalIndex": 561
+        "originalIndex": 563
     },
     {
         "name": "Xandrella",
@@ -21654,7 +21756,7 @@ window.allHeroes =
         "family": "superelemental",
         "image": "https://i.imgur.com/KaW9HIP.jpg",
         "costume_id": 0,
-        "originalIndex": 562
+        "originalIndex": 564
     },
     {
         "name": "Xiamara",
@@ -21692,7 +21794,7 @@ window.allHeroes =
         "family": "stag",
         "image": "https://i.imgur.com/En0uUcx.jpg",
         "costume_id": 0,
-        "originalIndex": 563
+        "originalIndex": 565
     },
     {
         "name": "Xiaoqing",
@@ -21731,7 +21833,7 @@ window.allHeroes =
         "family": "lunaryear",
         "image": "https://i.imgur.com/XmTf3zL.jpg",
         "costume_id": 0,
-        "originalIndex": 564
+        "originalIndex": 566
     },
     {
         "name": "Yunan",
@@ -21754,7 +21856,7 @@ window.allHeroes =
             "Healing Reducers"
         ],
         "source": "Monthly Event-Sand Empire",
-        "Release date": "2017-01-01",
+        "Release date": "2018-06-21",
         "star": 5,
         "power": 770,
         "attack": 618,
@@ -21770,7 +21872,7 @@ window.allHeroes =
         "family": "sand",
         "image": "https://i.imgur.com/jUayUm6.jpg",
         "costume_id": 0,
-        "originalIndex": 565
+        "originalIndex": 567
     },
     {
         "name": "Yunan C1",
@@ -21809,7 +21911,7 @@ window.allHeroes =
         "family": "sand",
         "image": "https://i.imgur.com/vpqf6zq.jpg",
         "costume_id": 1,
-        "originalIndex": 566
+        "originalIndex": 568
     },
     {
         "name": "Zavinia",
@@ -21849,7 +21951,7 @@ window.allHeroes =
         "family": "investigator",
         "image": "https://i.imgur.com/F1mKhpD.jpg",
         "costume_id": 0,
-        "originalIndex": 567
+        "originalIndex": 569
     },
     {
         "name": "Zeline",
@@ -21872,7 +21974,7 @@ window.allHeroes =
             "Mana Generation Buffers"
         ],
         "source": "Hero of the Month",
-        "Release date": "2018-02-01T00:00:00",
+        "Release date": "2018-02-01",
         "star": 5,
         "power": 768,
         "attack": 764,
@@ -21889,7 +21991,7 @@ window.allHeroes =
         "family": 2018,
         "image": "https://i.imgur.com/lrpsqzO.jpg",
         "costume_id": 0,
-        "originalIndex": 568
+        "originalIndex": 570
     },
     {
         "name": "Zeline C1",
@@ -21932,7 +22034,7 @@ window.allHeroes =
         "family": 2018,
         "image": "https://i.imgur.com/QJNIkdZ.jpg",
         "costume_id": 1,
-        "originalIndex": 569
+        "originalIndex": 571
     },
     {
         "name": "Zocc",
@@ -21970,7 +22072,7 @@ window.allHeroes =
         "family": 2020,
         "image": "https://i.imgur.com/XA1fhlp.jpg",
         "costume_id": 0,
-        "originalIndex": 570
+        "originalIndex": 572
     },
     {
         "name": "Zuni",
@@ -22015,7 +22117,7 @@ window.allHeroes =
         "family": "superelemental",
         "image": "https://i.imgur.com/cAdigcK.jpg",
         "costume_id": 0,
-        "originalIndex": 571
+        "originalIndex": 573
     },
     {
         "name": "Fletcher",
@@ -22032,7 +22134,7 @@ window.allHeroes =
             "Snipers"
         ],
         "source": "S1-Classic",
-        "Release date": "2017-01-01",
+        "Release date": "2017-03-01",
         "star": 1,
         "power": 210,
         "attack": 215,
@@ -22045,7 +22147,7 @@ window.allHeroes =
         "family": null,
         "image": "https://i.imgur.com/Xe6KTRG.jpg",
         "costume_id": 0,
-        "originalIndex": 572
+        "originalIndex": 574
     },
     {
         "name": "Nightshade",
@@ -22062,7 +22164,7 @@ window.allHeroes =
             "Snipers"
         ],
         "source": "S1-Classic",
-        "Release date": "2017-01-01",
+        "Release date": "2017-03-01",
         "star": 1,
         "power": 212,
         "attack": 183,
@@ -22075,7 +22177,7 @@ window.allHeroes =
         "family": null,
         "image": "https://i.imgur.com/TChsKw7.jpg",
         "costume_id": 0,
-        "originalIndex": 573
+        "originalIndex": 575
     },
     {
         "name": "Julius",
@@ -22092,7 +22194,7 @@ window.allHeroes =
             "Snipers"
         ],
         "source": "S1-Classic",
-        "Release date": "2017-01-01",
+        "Release date": "2017-03-01",
         "star": 2,
         "power": 335,
         "attack": 363,
@@ -22105,7 +22207,7 @@ window.allHeroes =
         "family": null,
         "image": "https://i.imgur.com/J6kO15m.jpg",
         "costume_id": 0,
-        "originalIndex": 574
+        "originalIndex": 576
     },
     {
         "name": "Layla",
@@ -22122,7 +22224,7 @@ window.allHeroes =
             "DoT Attackers"
         ],
         "source": "S1-Classic",
-        "Release date": "2017-01-01",
+        "Release date": "2017-03-01",
         "star": 2,
         "power": 338,
         "attack": 336,
@@ -22135,7 +22237,7 @@ window.allHeroes =
         "family": null,
         "image": "https://i.imgur.com/bWdwLhP.jpg",
         "costume_id": 0,
-        "originalIndex": 575
+        "originalIndex": 577
     },
     {
         "name": "Silthus",
@@ -22152,7 +22254,7 @@ window.allHeroes =
             "Buffers (ATK)"
         ],
         "source": "S1-Classic",
-        "Release date": "2017-01-01",
+        "Release date": "2017-03-01",
         "star": 2,
         "power": 333,
         "attack": 293,
@@ -22165,7 +22267,7 @@ window.allHeroes =
         "family": null,
         "image": "https://i.imgur.com/toVI2j1.jpg",
         "costume_id": 0,
-        "originalIndex": 576
+        "originalIndex": 578
     },
     {
         "name": "Aderyn",
@@ -22198,7 +22300,7 @@ window.allHeroes =
         "family": "raven",
         "image": "https://i.imgur.com/7kv6ZGx.jpg",
         "costume_id": 0,
-        "originalIndex": 577
+        "originalIndex": 579
     },
     {
         "name": "An-Windr",
@@ -22228,7 +22330,7 @@ window.allHeroes =
         "family": "niflheim",
         "image": "https://i.imgur.com/MSmQZNX.jpg",
         "costume_id": 0,
-        "originalIndex": 578
+        "originalIndex": 580
     },
     {
         "name": "Aqeela",
@@ -22265,7 +22367,7 @@ window.allHeroes =
         "family": "moon",
         "image": "https://i.imgur.com/N5k1s9j.jpg",
         "costume_id": 0,
-        "originalIndex": 579
+        "originalIndex": 581
     },
     {
         "name": "Aqeela C1",
@@ -22304,7 +22406,7 @@ window.allHeroes =
         "family": "moon",
         "image": "https://i.imgur.com/kbKyRq1.jpg",
         "costume_id": 1,
-        "originalIndex": 580
+        "originalIndex": 582
     },
     {
         "name": "Balthazar",
@@ -22321,7 +22423,7 @@ window.allHeroes =
             "Snipers"
         ],
         "source": "S1-Classic",
-        "Release date": "2017-01-01",
+        "Release date": "2017-03-01",
         "star": 3,
         "power": 442,
         "attack": 483,
@@ -22334,7 +22436,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/OSefjqG.jpg",
         "costume_id": 0,
-        "originalIndex": 581
+        "originalIndex": 583
     },
     {
         "name": "Balthazar C1",
@@ -22367,7 +22469,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/PBzwskK.jpg",
         "costume_id": 1,
-        "originalIndex": 582
+        "originalIndex": 584
     },
     {
         "name": "Balthazar Toon",
@@ -22401,7 +22503,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/TVzeF5e.jpg",
         "costume_id": 2,
-        "originalIndex": 583
+        "originalIndex": 585
     },
     {
         "name": "Balthazar Glass",
@@ -22436,7 +22538,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/GyPOLEn.jpg",
         "costume_id": 3,
-        "originalIndex": 584
+        "originalIndex": 586
     },
     {
         "name": "Betty",
@@ -22472,7 +22574,7 @@ window.allHeroes =
         "family": "gargoyle",
         "image": "https://i.imgur.com/Ni9fM9U.jpg",
         "costume_id": 0,
-        "originalIndex": 585
+        "originalIndex": 587
     },
     {
         "name": "Bjorn",
@@ -22506,7 +22608,7 @@ window.allHeroes =
         "family": "midgard",
         "image": "https://i.imgur.com/vOaNkHC.jpg",
         "costume_id": 0,
-        "originalIndex": 586
+        "originalIndex": 588
     },
     {
         "name": "Bjorn C1",
@@ -22542,7 +22644,7 @@ window.allHeroes =
         "family": "midgard",
         "image": "https://i.imgur.com/KuvURzu.jpg",
         "costume_id": 1,
-        "originalIndex": 587
+        "originalIndex": 589
     },
     {
         "name": "Budatin",
@@ -22577,7 +22679,7 @@ window.allHeroes =
         "family": "gargoyle",
         "image": "https://i.imgur.com/NFVk9Gf.jpg",
         "costume_id": 0,
-        "originalIndex": 588
+        "originalIndex": 590
     },
     {
         "name": "Chochin",
@@ -22610,7 +22712,7 @@ window.allHeroes =
         "family": "sakura",
         "image": "https://i.imgur.com/L668UQC.jpg",
         "costume_id": 0,
-        "originalIndex": 589
+        "originalIndex": 591
     },
     {
         "name": "Edd",
@@ -22642,7 +22744,7 @@ window.allHeroes =
         "family": "villains",
         "image": "https://i.imgur.com/OuUgvKY.jpg",
         "costume_id": 0,
-        "originalIndex": 590
+        "originalIndex": 592
     },
     {
         "name": "Gill-Ra",
@@ -22678,7 +22780,7 @@ window.allHeroes =
         "family": "lagoon",
         "image": "https://i.imgur.com/5yoZu18.jpg",
         "costume_id": 0,
-        "originalIndex": 591
+        "originalIndex": 593
     },
     {
         "name": "Gill-Ra C1",
@@ -22714,7 +22816,7 @@ window.allHeroes =
         "family": "lagoon",
         "image": "https://i.imgur.com/bezss9U.jpg",
         "costume_id": 1,
-        "originalIndex": 592
+        "originalIndex": 594
     },
     {
         "name": "Greel",
@@ -22753,7 +22855,7 @@ window.allHeroes =
         "family": "abysshunter",
         "image": "https://i.imgur.com/GbQldWm.jpg",
         "costume_id": 0,
-        "originalIndex": 593
+        "originalIndex": 595
     },
     {
         "name": "Guardian Bat",
@@ -22785,7 +22887,7 @@ window.allHeroes =
         "family": "guardiansteltoc",
         "image": "https://i.imgur.com/yMD2ogt.jpg",
         "costume_id": 0,
-        "originalIndex": 594
+        "originalIndex": 596
     },
     {
         "name": "Jack",
@@ -22820,7 +22922,7 @@ window.allHeroes =
         "family": "morlovia",
         "image": "https://i.imgur.com/1pbBKiM.jpg",
         "costume_id": 0,
-        "originalIndex": 595
+        "originalIndex": 597
     },
     {
         "name": "Maeve",
@@ -22862,7 +22964,7 @@ window.allHeroes =
         "family": "slayer",
         "image": "https://i.imgur.com/vEp3yLs.jpg",
         "costume_id": 0,
-        "originalIndex": 596
+        "originalIndex": 598
     },
     {
         "name": "Morganite",
@@ -22903,7 +23005,7 @@ window.allHeroes =
         "family": "ninja",
         "image": "https://i.imgur.com/lHtD195.jpg",
         "costume_id": 0,
-        "originalIndex": 597
+        "originalIndex": 599
     },
     {
         "name": "Morris",
@@ -22947,7 +23049,7 @@ window.allHeroes =
         "family": "underwild",
         "image": "https://i.imgur.com/RXYQ548.jpg",
         "costume_id": 0,
-        "originalIndex": 598
+        "originalIndex": 600
     },
     {
         "name": "Morris C1",
@@ -22991,7 +23093,7 @@ window.allHeroes =
         "family": "underwild",
         "image": "https://i.imgur.com/CrJaSuf.jpg",
         "costume_id": 1,
-        "originalIndex": 599
+        "originalIndex": 601
     },
     {
         "name": "Oberon",
@@ -23010,7 +23112,7 @@ window.allHeroes =
             "DoT Attackers"
         ],
         "source": "S1-Classic",
-        "Release date": "2017-01-01",
+        "Release date": "2017-03-01",
         "star": 3,
         "power": 445,
         "attack": 422,
@@ -23024,7 +23126,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/FkvOQpS.jpg",
         "costume_id": 0,
-        "originalIndex": 600
+        "originalIndex": 602
     },
     {
         "name": "Oberon C1",
@@ -23054,7 +23156,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/4wjqw3M.jpg",
         "costume_id": 1,
-        "originalIndex": 601
+        "originalIndex": 603
     },
     {
         "name": "Oberon Toon",
@@ -23091,7 +23193,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/z96lxl3.jpg",
         "costume_id": 2,
-        "originalIndex": 602
+        "originalIndex": 604
     },
     {
         "name": "Para",
@@ -23126,7 +23228,7 @@ window.allHeroes =
         "family": "kalevala",
         "image": "https://i.imgur.com/n5BGh1Y.jpg",
         "costume_id": 0,
-        "originalIndex": 603
+        "originalIndex": 605
     },
     {
         "name": "Prisca",
@@ -23145,7 +23247,7 @@ window.allHeroes =
             "Snipers"
         ],
         "source": "S1-Classic",
-        "Release date": "2017-01-01",
+        "Release date": "2017-03-01",
         "star": 3,
         "power": 446,
         "attack": 413,
@@ -23159,7 +23261,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/IoRPZNA.jpg",
         "costume_id": 0,
-        "originalIndex": 604
+        "originalIndex": 606
     },
     {
         "name": "Prisca C1",
@@ -23192,7 +23294,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/q3Ddqi6.jpg",
         "costume_id": 1,
-        "originalIndex": 605
+        "originalIndex": 607
     },
     {
         "name": "Prisca Toon",
@@ -23229,7 +23331,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/6mcArhg.jpg",
         "costume_id": 2,
-        "originalIndex": 606
+        "originalIndex": 608
     },
     {
         "name": "Prisca Glass",
@@ -23267,7 +23369,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://imgur.com/SdXnKqi.jpg",
         "costume_id": 3,
-        "originalIndex": 607
+        "originalIndex": 609
     },
     {
         "name": "Renfeld",
@@ -23286,7 +23388,7 @@ window.allHeroes =
             "Snipers"
         ],
         "source": "S1-Classic",
-        "Release date": "2017-01-01",
+        "Release date": "2017-03-01",
         "star": 3,
         "power": 445,
         "attack": 488,
@@ -23300,7 +23402,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/6HwABCg.jpg",
         "costume_id": 0,
-        "originalIndex": 608
+        "originalIndex": 610
     },
     {
         "name": "Renfeld C1",
@@ -23334,7 +23436,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/7QkxYAf.jpg",
         "costume_id": 1,
-        "originalIndex": 609
+        "originalIndex": 611
     },
     {
         "name": "Renfeld Toon",
@@ -23371,7 +23473,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/D4cVPMi.jpg",
         "costume_id": 2,
-        "originalIndex": 610
+        "originalIndex": 612
     },
     {
         "name": "Treevil",
@@ -23410,7 +23512,7 @@ window.allHeroes =
         "family": "avalon",
         "image": "https://i.imgur.com/8ZDDLNG.jpg",
         "costume_id": 0,
-        "originalIndex": 611
+        "originalIndex": 613
     },
     {
         "name": "Tyrum",
@@ -23429,7 +23531,7 @@ window.allHeroes =
             "Snipers"
         ],
         "source": "S1-Classic",
-        "Release date": "2020-02-27",
+        "Release date": "2017-03-01",
         "star": 3,
         "power": 441,
         "attack": 387,
@@ -23443,7 +23545,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/HKuMtXT.jpg",
         "costume_id": 0,
-        "originalIndex": 612
+        "originalIndex": 614
     },
     {
         "name": "Tyrum C1",
@@ -23462,7 +23564,7 @@ window.allHeroes =
             "Snipers"
         ],
         "source": "S1-Classic",
-        "Release date": "2020-01-01",
+        "Release date": "2020-01-20",
         "star": 3,
         "power": 465,
         "attack": 415,
@@ -23476,7 +23578,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/Rir8owz.jpg",
         "costume_id": 1,
-        "originalIndex": 613
+        "originalIndex": 615
     },
     {
         "name": "Tyrum Toon",
@@ -23513,7 +23615,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/MBq6uJ0.jpg",
         "costume_id": 2,
-        "originalIndex": 614
+        "originalIndex": 616
     },
     {
         "name": "Unferth",
@@ -23553,7 +23655,7 @@ window.allHeroes =
         "family": "beowulf",
         "image": "https://i.imgur.com/EwK86qB.jpg",
         "costume_id": 0,
-        "originalIndex": 615
+        "originalIndex": 617
     },
     {
         "name": "Vlad",
@@ -23573,7 +23675,7 @@ window.allHeroes =
             "Healing Reducers"
         ],
         "source": "Monthly Event-Morlovia",
-        "Release date": "2018-10-01",
+        "Release date": "2018-10-25",
         "star": 3,
         "power": 449,
         "attack": 368,
@@ -23589,7 +23691,7 @@ window.allHeroes =
         "family": "morlovia",
         "image": "https://i.imgur.com/BKgxWVA.jpg",
         "costume_id": 0,
-        "originalIndex": 616
+        "originalIndex": 618
     },
     {
         "name": "Ahhotep",
@@ -23625,7 +23727,7 @@ window.allHeroes =
         "family": "moon",
         "image": "https://i.imgur.com/MLXGUOi.jpg",
         "costume_id": 0,
-        "originalIndex": 617
+        "originalIndex": 619
     },
     {
         "name": "Ahhotep C1",
@@ -23663,7 +23765,7 @@ window.allHeroes =
         "family": "moon",
         "image": "https://i.imgur.com/ph6Gczr.jpg",
         "costume_id": 1,
-        "originalIndex": 618
+        "originalIndex": 620
     },
     {
         "name": "Ameonna",
@@ -23698,7 +23800,7 @@ window.allHeroes =
         "family": "sakura",
         "image": "https://i.imgur.com/VkDdipF.jpg",
         "costume_id": 0,
-        "originalIndex": 619
+        "originalIndex": 621
     },
     {
         "name": "Ameonna C1",
@@ -23738,7 +23840,7 @@ window.allHeroes =
         "family": "sakura",
         "image": "https://i.imgur.com/VZyVFDJ.jpg",
         "costume_id": 1,
-        "originalIndex": 620
+        "originalIndex": 622
     },
     {
         "name": "Ametrine",
@@ -23781,7 +23883,7 @@ window.allHeroes =
         "family": "ninja",
         "image": "https://i.imgur.com/6AFRaiq.jpg",
         "costume_id": 0,
-        "originalIndex": 621
+        "originalIndex": 623
     },
     {
         "name": "Ana-Belle",
@@ -23821,7 +23923,7 @@ window.allHeroes =
         "family": "morlovia",
         "image": "https://i.imgur.com/FvJxtPO.jpg",
         "costume_id": 0,
-        "originalIndex": 622
+        "originalIndex": 624
     },
     {
         "name": "Arges",
@@ -23866,7 +23968,7 @@ window.allHeroes =
         "family": "styx",
         "image": "https://i.imgur.com/yK7UFvQ.jpg",
         "costume_id": 0,
-        "originalIndex": 623
+        "originalIndex": 625
     },
     {
         "name": "Boomer",
@@ -23884,7 +23986,7 @@ window.allHeroes =
             "Buffers (DEF)"
         ],
         "source": "Challenge Festival-Pirates",
-        "Release date": "2017-01-01",
+        "Release date": "2017-09-07",
         "star": 4,
         "power": 645,
         "attack": 541,
@@ -23898,7 +24000,7 @@ window.allHeroes =
         "family": "corellia",
         "image": "https://i.imgur.com/BLKBB2F.jpg",
         "costume_id": 0,
-        "originalIndex": 624
+        "originalIndex": 626
     },
     {
         "name": "Cheshire Cat",
@@ -23918,7 +24020,7 @@ window.allHeroes =
             "Random Position"
         ],
         "source": "Challenge Festival-Wonderland",
-        "Release date": "2017-01-01",
+        "Release date": "2019-02-14",
         "star": 4,
         "power": 649,
         "attack": 658,
@@ -23933,7 +24035,7 @@ window.allHeroes =
         "family": "wonderland",
         "image": "https://i.imgur.com/Js5mqAr.jpg",
         "costume_id": 0,
-        "originalIndex": 625
+        "originalIndex": 627
     },
     {
         "name": "Cheshire Cat C1",
@@ -23968,7 +24070,7 @@ window.allHeroes =
         "family": "wonderland",
         "image": "https://i.imgur.com/ImaCQvI.jpg",
         "costume_id": 1,
-        "originalIndex": 626
+        "originalIndex": 628
     },
     {
         "name": "Cupcake",
@@ -24006,7 +24108,7 @@ window.allHeroes =
         "family": "pets",
         "image": "https://i.imgur.com/p15TPST.jpg",
         "costume_id": 0,
-        "originalIndex": 627
+        "originalIndex": 629
     },
     {
         "name": "Cyprian",
@@ -24023,7 +24125,7 @@ window.allHeroes =
             "Counterattackers"
         ],
         "source": "S1-Classic",
-        "Release date": "2017-01-01",
+        "Release date": "2017-03-01",
         "star": 4,
         "power": 642,
         "attack": 563,
@@ -24036,7 +24138,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/wpGUug5.jpg",
         "costume_id": 0,
-        "originalIndex": 628
+        "originalIndex": 630
     },
     {
         "name": "Cyprian C1",
@@ -24066,7 +24168,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/sJK7XXq.jpg",
         "costume_id": 1,
-        "originalIndex": 629
+        "originalIndex": 631
     },
     {
         "name": "Cyprian C2",
@@ -24102,7 +24204,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/oDvjeQX.jpg",
         "costume_id": 2,
-        "originalIndex": 630
+        "originalIndex": 632
     },
     {
         "name": "Cyprian Toon",
@@ -24134,7 +24236,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/NlALPlg.jpg",
         "costume_id": 3,
-        "originalIndex": 631
+        "originalIndex": 633
     },
     {
         "name": "Cyprian Glass",
@@ -24168,7 +24270,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://imgur.com/NcRhwAX.jpg",
         "costume_id": 4,
-        "originalIndex": 632
+        "originalIndex": 634
     },
     {
         "name": "Dizzy",
@@ -24205,7 +24307,7 @@ window.allHeroes =
         "family": "christmas",
         "image": "https://i.imgur.com/84anXmA.jpg",
         "costume_id": 0,
-        "originalIndex": 633
+        "originalIndex": 635
     },
     {
         "name": "Fura",
@@ -24241,7 +24343,7 @@ window.allHeroes =
         "family": "svartalfheim",
         "image": "https://i.imgur.com/RvN7nUK.jpg",
         "costume_id": 0,
-        "originalIndex": 634
+        "originalIndex": 636
     },
     {
         "name": "Fura C1",
@@ -24275,7 +24377,7 @@ window.allHeroes =
         "family": "svartalfheim",
         "image": "https://i.imgur.com/ibwrmzt.jpg",
         "costume_id": 1,
-        "originalIndex": 635
+        "originalIndex": 637
     },
     {
         "name": "Gafar",
@@ -24298,7 +24400,7 @@ window.allHeroes =
             "Snipers"
         ],
         "source": "Monthly Event-Sand Empire",
-        "Release date": "2017-01-01",
+        "Release date": "2018-06-21",
         "star": 4,
         "power": 649,
         "attack": 711,
@@ -24314,7 +24416,7 @@ window.allHeroes =
         "family": "sand",
         "image": "https://i.imgur.com/xyMaVfi.jpg",
         "costume_id": 0,
-        "originalIndex": 636
+        "originalIndex": 638
     },
     {
         "name": "Heifeng Guai",
@@ -24349,7 +24451,7 @@ window.allHeroes =
         "family": "journey",
         "image": "https://i.imgur.com/cY9fvY1.jpg",
         "costume_id": 0,
-        "originalIndex": 637
+        "originalIndex": 639
     },
     {
         "name": "Ingolf",
@@ -24385,7 +24487,7 @@ window.allHeroes =
         "family": "villains",
         "image": "https://i.imgur.com/EjtbILF.jpg",
         "costume_id": 0,
-        "originalIndex": 638
+        "originalIndex": 640
     },
     {
         "name": "Jabbar",
@@ -24408,7 +24510,7 @@ window.allHeroes =
             "Healing Reducers"
         ],
         "source": "Monthly Event-Sand Empire",
-        "Release date": "2017-01-01",
+        "Release date": "2018-06-21",
         "star": 4,
         "power": 649,
         "attack": 531,
@@ -24424,7 +24526,7 @@ window.allHeroes =
         "family": "sand",
         "image": "https://i.imgur.com/3RqMEeN.jpg",
         "costume_id": 0,
-        "originalIndex": 639
+        "originalIndex": 641
     },
     {
         "name": "Juliani",
@@ -24462,7 +24564,7 @@ window.allHeroes =
         "family": "owl",
         "image": "https://i.imgur.com/UhbZaxw.jpg",
         "costume_id": 0,
-        "originalIndex": 640
+        "originalIndex": 642
     },
     {
         "name": "Kitty",
@@ -24501,7 +24603,7 @@ window.allHeroes =
         "family": "musketeer",
         "image": "https://i.imgur.com/2nOJ3dV.jpg",
         "costume_id": 0,
-        "originalIndex": 641
+        "originalIndex": 643
     },
     {
         "name": "Koda",
@@ -24537,7 +24639,7 @@ window.allHeroes =
         "family": "bear",
         "image": "https://i.imgur.com/QTVEQjn.jpg",
         "costume_id": 0,
-        "originalIndex": 642
+        "originalIndex": 644
     },
     {
         "name": "Lexi",
@@ -24581,7 +24683,7 @@ window.allHeroes =
         "family": "superelemental",
         "image": "https://i.imgur.com/Jtfysu9.jpg",
         "costume_id": 0,
-        "originalIndex": 643
+        "originalIndex": 645
     },
     {
         "name": "Meadow",
@@ -24617,7 +24719,7 @@ window.allHeroes =
         "family": "plainshunter",
         "image": "https://i.imgur.com/rm17UZ5.jpg",
         "costume_id": 0,
-        "originalIndex": 644
+        "originalIndex": 646
     },
     {
         "name": "Merlin",
@@ -24637,7 +24739,7 @@ window.allHeroes =
             "Extra Damage Dealers"
         ],
         "source": "Challenge Festival-Avalon",
-        "Release date": "2017-01-01",
+        "Release date": "2018-01-05",
         "star": 4,
         "power": 645,
         "attack": 682,
@@ -24652,7 +24754,7 @@ window.allHeroes =
         "family": "avalon",
         "image": "https://i.imgur.com/z8mBTci.jpg",
         "costume_id": 0,
-        "originalIndex": 645
+        "originalIndex": 647
     },
     {
         "name": "Merlin C1",
@@ -24687,7 +24789,7 @@ window.allHeroes =
         "family": "avalon",
         "image": "https://i.imgur.com/VwvFKmH.jpg",
         "costume_id": 1,
-        "originalIndex": 646
+        "originalIndex": 648
     },
     {
         "name": "Proteus",
@@ -24720,7 +24822,7 @@ window.allHeroes =
         "family": "atlantis",
         "image": "https://i.imgur.com/m2PmJmo.jpg",
         "costume_id": 0,
-        "originalIndex": 647
+        "originalIndex": 649
     },
     {
         "name": "Proteus C1",
@@ -24753,7 +24855,7 @@ window.allHeroes =
         "family": "atlantis",
         "image": "https://i.imgur.com/5sfSAJC.jpg",
         "costume_id": 1,
-        "originalIndex": 648
+        "originalIndex": 650
     },
     {
         "name": "Rigard",
@@ -24772,7 +24874,7 @@ window.allHeroes =
             "Healers"
         ],
         "source": "S1-Classic",
-        "Release date": "2017-01-01",
+        "Release date": "2017-03-01",
         "star": 4,
         "power": 644,
         "attack": 595,
@@ -24786,7 +24888,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/epzxGwy.jpg",
         "costume_id": 0,
-        "originalIndex": 649
+        "originalIndex": 651
     },
     {
         "name": "Rigard C1",
@@ -24807,7 +24909,7 @@ window.allHeroes =
             "Heal over Time (HoT)"
         ],
         "source": "S1-Classic",
-        "Release date": "2020-01-01",
+        "Release date": "2020-01-20",
         "star": 4,
         "power": 681,
         "attack": 633,
@@ -24822,7 +24924,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/9nzkBMP.jpg",
         "costume_id": 1,
-        "originalIndex": 650
+        "originalIndex": 652
     },
     {
         "name": "Rigard C2",
@@ -24858,7 +24960,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/0dWPfN4.jpg",
         "costume_id": 2,
-        "originalIndex": 651
+        "originalIndex": 653
     },
     {
         "name": "Rigard Toon",
@@ -24896,7 +24998,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/rCKWMnx.jpg",
         "costume_id": 3,
-        "originalIndex": 652
+        "originalIndex": 654
     },
     {
         "name": "Sabina",
@@ -24915,7 +25017,7 @@ window.allHeroes =
             "Healers"
         ],
         "source": "S1-Classic",
-        "Release date": "2017-01-01",
+        "Release date": "2017-03-01",
         "star": 4,
         "power": 639,
         "attack": 699,
@@ -24929,7 +25031,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/G6mmZNN.jpg",
         "costume_id": 0,
-        "originalIndex": 653
+        "originalIndex": 655
     },
     {
         "name": "Sabina C1",
@@ -24965,7 +25067,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/flsZEGB.jpg",
         "costume_id": 1,
-        "originalIndex": 654
+        "originalIndex": 656
     },
     {
         "name": "Sabina C2",
@@ -25001,7 +25103,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/EBmu86N.jpg",
         "costume_id": 2,
-        "originalIndex": 655
+        "originalIndex": 657
     },
     {
         "name": "Sabina Toon",
@@ -25039,7 +25141,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/8kaUg4T.jpg",
         "costume_id": 3,
-        "originalIndex": 656
+        "originalIndex": 658
     },
     {
         "name": "Sergei",
@@ -25079,7 +25181,7 @@ window.allHeroes =
         "family": "magic",
         "image": "https://i.imgur.com/2gnuaoM.jpg",
         "costume_id": 0,
-        "originalIndex": 657
+        "originalIndex": 659
     },
     {
         "name": "Shar'Khai",
@@ -25121,7 +25223,7 @@ window.allHeroes =
         "family": "nightmaresofatlantis",
         "image": "https://i.imgur.com/pCqXNHO.jpg",
         "costume_id": 0,
-        "originalIndex": 658
+        "originalIndex": 660
     },
     {
         "name": "Shar'Khai C1",
@@ -25164,7 +25266,7 @@ window.allHeroes =
         "family": "nightmaresofatlantis",
         "image": "https://i.imgur.com/ER0xDRX.jpg",
         "costume_id": 1,
-        "originalIndex": 659
+        "originalIndex": 661
     },
     {
         "name": "Shoggo",
@@ -25201,7 +25303,7 @@ window.allHeroes =
         "family": "cultist",
         "image": "https://i.imgur.com/tl6HZEf.jpg",
         "costume_id": 0,
-        "originalIndex": 660
+        "originalIndex": 662
     },
     {
         "name": "Shyombre",
@@ -25239,7 +25341,7 @@ window.allHeroes =
         "family": "moth",
         "image": "https://i.imgur.com/Gn8sJfi.jpg",
         "costume_id": 0,
-        "originalIndex": 661
+        "originalIndex": 663
     },
     {
         "name": "Stonecleave",
@@ -25277,7 +25379,7 @@ window.allHeroes =
         "family": "helheim",
         "image": "https://i.imgur.com/7VLylDF.jpg",
         "costume_id": 0,
-        "originalIndex": 662
+        "originalIndex": 664
     },
     {
         "name": "Tiburtus",
@@ -25296,7 +25398,7 @@ window.allHeroes =
             "Debuffers (DEF)"
         ],
         "source": "S1-Classic",
-        "Release date": "2017-01-01",
+        "Release date": "2017-03-01",
         "star": 4,
         "power": 639,
         "attack": 660,
@@ -25310,7 +25412,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/XQUgnc6.jpg",
         "costume_id": 0,
-        "originalIndex": 663
+        "originalIndex": 665
     },
     {
         "name": "Tiburtus C1",
@@ -25329,7 +25431,7 @@ window.allHeroes =
             "Debuffers (DEF)"
         ],
         "source": "S1-Classic",
-        "Release date": "2020-01-01",
+        "Release date": "2020-01-20",
         "star": 4,
         "power": 674,
         "attack": 688,
@@ -25343,7 +25445,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/IyFUCM0.jpg",
         "costume_id": 1,
-        "originalIndex": 664
+        "originalIndex": 666
     },
     {
         "name": "Tiburtus C2",
@@ -25376,7 +25478,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/Yc1tBJ1.jpg",
         "costume_id": 2,
-        "originalIndex": 665
+        "originalIndex": 667
     },
     {
         "name": "Tiburtus Toon",
@@ -25413,7 +25515,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/XlVXDYe.jpg",
         "costume_id": 3,
-        "originalIndex": 666
+        "originalIndex": 668
     },
     {
         "name": "Acidfire",
@@ -25454,7 +25556,7 @@ window.allHeroes =
         "family": "goblin",
         "image": "https://i.imgur.com/KXpETJ0.jpg",
         "costume_id": 0,
-        "originalIndex": 667
+        "originalIndex": 669
     },
     {
         "name": "Aconia",
@@ -25494,7 +25596,7 @@ window.allHeroes =
         "family": "superelemental",
         "image": "https://i.imgur.com/VT78aoB.jpg",
         "costume_id": 0,
-        "originalIndex": 668
+        "originalIndex": 670
     },
     {
         "name": "Aeron",
@@ -25517,7 +25619,7 @@ window.allHeroes =
             "Buffers (DEF)"
         ],
         "source": "Hero of the Month",
-        "Release date": "2018-04-01T00:00:00",
+        "Release date": "2018-04-01",
         "star": 5,
         "power": 768,
         "attack": 733,
@@ -25533,7 +25635,7 @@ window.allHeroes =
         "family": 2018,
         "image": "https://i.imgur.com/9AxepJ9.jpg",
         "costume_id": 0,
-        "originalIndex": 669
+        "originalIndex": 671
     },
     {
         "name": "Aeron C1",
@@ -25571,7 +25673,7 @@ window.allHeroes =
         "family": 2018,
         "image": "https://i.imgur.com/WvBRV3O.jpg",
         "costume_id": 1,
-        "originalIndex": 670
+        "originalIndex": 672
     },
     {
         "name": "Agrafena",
@@ -25622,7 +25724,7 @@ window.allHeroes =
         "family": "magic",
         "image": "https://i.imgur.com/19jbbwr.jpg",
         "costume_id": 0,
-        "originalIndex": 671
+        "originalIndex": 673
     },
     {
         "name": "Agrafena C1",
@@ -25674,7 +25776,7 @@ window.allHeroes =
         "family": "magic",
         "image": "https://imgur.com/QIlXtnC.jpg",
         "costume_id": 1,
-        "originalIndex": 672
+        "originalIndex": 674
     },
     {
         "name": "Akilius",
@@ -25715,7 +25817,7 @@ window.allHeroes =
         "family": 2025,
         "image": "https://imgur.com/jq0Lgzp.jpg",
         "costume_id": 0,
-        "originalIndex": 673
+        "originalIndex": 675
     },
     {
         "name": "Alfrike",
@@ -25752,7 +25854,7 @@ window.allHeroes =
         "family": "svartalfheim",
         "image": "https://i.imgur.com/O54lA6V.jpg",
         "costume_id": 0,
-        "originalIndex": 674
+        "originalIndex": 676
     },
     {
         "name": "Alfrike C1",
@@ -25789,7 +25891,7 @@ window.allHeroes =
         "family": "svartalfheim",
         "image": "https://i.imgur.com/2AJeAry.jpg",
         "costume_id": 1,
-        "originalIndex": 675
+        "originalIndex": 677
     },
     {
         "name": "Amethyst",
@@ -25834,7 +25936,7 @@ window.allHeroes =
         "family": "ninja",
         "image": "https://i.imgur.com/OBE1Glz.jpg",
         "costume_id": 0,
-        "originalIndex": 676
+        "originalIndex": 678
     },
     {
         "name": "Anoushka",
@@ -25878,7 +25980,7 @@ window.allHeroes =
         "family": 2024,
         "image": "https://i.imgur.com/mDRIe3A.jpg",
         "costume_id": 0,
-        "originalIndex": 677
+        "originalIndex": 679
     },
     {
         "name": "Anubis",
@@ -25918,7 +26020,7 @@ window.allHeroes =
         "family": "moon",
         "image": "https://i.imgur.com/QQQGz6W.jpg",
         "costume_id": 0,
-        "originalIndex": 678
+        "originalIndex": 680
     },
     {
         "name": "Anubis C1",
@@ -25960,7 +26062,7 @@ window.allHeroes =
         "family": "moon",
         "image": "https://i.imgur.com/8BGU68M.jpg",
         "costume_id": 1,
-        "originalIndex": 679
+        "originalIndex": 681
     },
     {
         "name": "Aramis",
@@ -26001,7 +26103,7 @@ window.allHeroes =
         "family": "musketeer",
         "image": "https://i.imgur.com/7DRTWTb.jpg",
         "costume_id": 0,
-        "originalIndex": 680
+        "originalIndex": 682
     },
     {
         "name": "Arfanias",
@@ -26041,7 +26143,7 @@ window.allHeroes =
         "family": 2022,
         "image": "https://i.imgur.com/VIzTbRE.jpg",
         "costume_id": 0,
-        "originalIndex": 681
+        "originalIndex": 683
     },
     {
         "name": "Asketel",
@@ -26077,7 +26179,7 @@ window.allHeroes =
         "family": "cultist",
         "image": "https://imgur.com/l1cl4kl.jpg",
         "costume_id": 0,
-        "originalIndex": 682
+        "originalIndex": 684
     },
     {
         "name": "Bastet",
@@ -26116,7 +26218,7 @@ window.allHeroes =
         "family": "moon",
         "image": "https://i.imgur.com/4N9tjf5.jpg",
         "costume_id": 0,
-        "originalIndex": 683
+        "originalIndex": 685
     },
     {
         "name": "Bastet C1",
@@ -26157,7 +26259,7 @@ window.allHeroes =
         "family": "moon",
         "image": "https://i.imgur.com/21HSfR4.jpg",
         "costume_id": 1,
-        "originalIndex": 684
+        "originalIndex": 686
     },
     {
         "name": "Becky",
@@ -26202,7 +26304,7 @@ window.allHeroes =
         "family": "magic",
         "image": "https://i.imgur.com/xqlrby4.jpg",
         "costume_id": 0,
-        "originalIndex": 685
+        "originalIndex": 687
     },
     {
         "name": "Belladonna",
@@ -26242,7 +26344,7 @@ window.allHeroes =
         "family": "bard",
         "image": "https://i.imgur.com/sGuDCiH.jpg",
         "costume_id": 0,
-        "originalIndex": 686
+        "originalIndex": 688
     },
     {
         "name": "Bera",
@@ -26279,7 +26381,7 @@ window.allHeroes =
         "family": "vanaheim",
         "image": "https://i.imgur.com/NBFcAXz.jpg",
         "costume_id": 0,
-        "originalIndex": 687
+        "originalIndex": 689
     },
     {
         "name": "Bera C1",
@@ -26316,7 +26418,7 @@ window.allHeroes =
         "family": "vanaheim",
         "image": "https://i.imgur.com/jUs21jO.jpg",
         "costume_id": 1,
-        "originalIndex": 688
+        "originalIndex": 690
     },
     {
         "name": "Boss Wolf",
@@ -26352,7 +26454,7 @@ window.allHeroes =
         "family": "grimforest",
         "image": "https://i.imgur.com/iVvmOFs.jpg",
         "costume_id": 0,
-        "originalIndex": 689
+        "originalIndex": 691
     },
     {
         "name": "Carta",
@@ -26394,7 +26496,7 @@ window.allHeroes =
         "family": "construct",
         "image": "https://i.imgur.com/uiGjBrD.jpg",
         "costume_id": 0,
-        "originalIndex": 690
+        "originalIndex": 692
     },
     {
         "name": "Cecilia",
@@ -26430,7 +26532,7 @@ window.allHeroes =
         "family": "stag",
         "image": "https://i.imgur.com/FjOt9jJ.jpg",
         "costume_id": 0,
-        "originalIndex": 691
+        "originalIndex": 693
     },
     {
         "name": "Cennius",
@@ -26469,7 +26571,7 @@ window.allHeroes =
         "family": "owl",
         "image": "https://i.imgur.com/FJtndTk.jpg",
         "costume_id": 0,
-        "originalIndex": 692
+        "originalIndex": 694
     },
     {
         "name": "Chakkoszrot",
@@ -26510,7 +26612,7 @@ window.allHeroes =
         "family": 2021,
         "image": "https://i.imgur.com/tvzGcka.jpg",
         "costume_id": 0,
-        "originalIndex": 693
+        "originalIndex": 695
     },
     {
         "name": "Charon",
@@ -26557,7 +26659,7 @@ window.allHeroes =
         "family": "styx",
         "image": "https://i.imgur.com/eSyywNh.jpg",
         "costume_id": 0,
-        "originalIndex": 694
+        "originalIndex": 696
     },
     {
         "name": "Clarissa",
@@ -26596,7 +26698,7 @@ window.allHeroes =
         "family": 2020,
         "image": "https://i.imgur.com/YBAuibe.jpg",
         "costume_id": 0,
-        "originalIndex": 695
+        "originalIndex": 697
     },
     {
         "name": "Dark Lord",
@@ -26634,7 +26736,7 @@ window.allHeroes =
         "family": "villains",
         "image": "https://i.imgur.com/ja50n6G.jpg",
         "costume_id": 0,
-        "originalIndex": 696
+        "originalIndex": 698
     },
     {
         "name": "Dark Lord C1",
@@ -26674,7 +26776,7 @@ window.allHeroes =
         "family": "villains",
         "image": "https://i.imgur.com/Mz4axni.jpg",
         "costume_id": 1,
-        "originalIndex": 697
+        "originalIndex": 699
     },
     {
         "name": "Darkbeat",
@@ -26715,7 +26817,7 @@ window.allHeroes =
         "family": "bard",
         "image": "https://imgur.com/ypDGkpC.jpg",
         "costume_id": 0,
-        "originalIndex": 698
+        "originalIndex": 700
     },
     {
         "name": "Darkfeather",
@@ -26755,7 +26857,7 @@ window.allHeroes =
         "family": "goblin",
         "image": "https://i.imgur.com/9UklXhJ.jpg",
         "costume_id": 0,
-        "originalIndex": 699
+        "originalIndex": 701
     },
     {
         "name": "Deadboot",
@@ -26797,7 +26899,7 @@ window.allHeroes =
         "family": "goblin",
         "image": "https://i.imgur.com/6DFOAwr.jpg",
         "costume_id": 0,
-        "originalIndex": 700
+        "originalIndex": 702
     },
     {
         "name": "Demilune",
@@ -26839,7 +26941,7 @@ window.allHeroes =
         "family": "astralelves",
         "image": "https://i.imgur.com/h0XJ3CG.jpg",
         "costume_id": 0,
-        "originalIndex": 701
+        "originalIndex": 703
     },
     {
         "name": "Diaochan",
@@ -26859,7 +26961,7 @@ window.allHeroes =
             "Healers"
         ],
         "source": "Three Kingdoms Summon",
-        "Release date": "2022-03-14T12:00:00",
+        "Release date": "2022-03-14",
         "star": 5,
         "power": 835,
         "attack": 805,
@@ -26874,7 +26976,7 @@ window.allHeroes =
         "family": "kingdom",
         "image": "https://i.imgur.com/PBEksgr.jpg",
         "costume_id": 0,
-        "originalIndex": 702
+        "originalIndex": 704
     },
     {
         "name": "Diaochan C1",
@@ -26914,7 +27016,7 @@ window.allHeroes =
         "family": "kingdom",
         "image": "https://i.imgur.com/ZWN9v1V.jpg",
         "costume_id": 1,
-        "originalIndex": 703
+        "originalIndex": 705
     },
     {
         "name": "Domitia",
@@ -26935,7 +27037,7 @@ window.allHeroes =
             "Snipers"
         ],
         "source": "S1-Classic",
-        "Release date": "2017-01-01",
+        "Release date": "2017-03-01",
         "star": 5,
         "power": 757,
         "attack": 725,
@@ -26950,7 +27052,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/t244Fcr.jpg",
         "costume_id": 0,
-        "originalIndex": 704
+        "originalIndex": 706
     },
     {
         "name": "Domitia C1",
@@ -26986,7 +27088,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/mpRxFeU.jpg",
         "costume_id": 1,
-        "originalIndex": 705
+        "originalIndex": 707
     },
     {
         "name": "Domitia C2",
@@ -27021,7 +27123,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/36NtLB6.jpg",
         "costume_id": 2,
-        "originalIndex": 706
+        "originalIndex": 708
     },
     {
         "name": "Domitia Toon",
@@ -27061,7 +27163,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/q7quKlm.jpg",
         "costume_id": 3,
-        "originalIndex": 707
+        "originalIndex": 709
     },
     {
         "name": "Domitia Glass",
@@ -27102,7 +27204,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://imgur.com/gwMXUDN.jpg",
         "costume_id": 4,
-        "originalIndex": 708
+        "originalIndex": 710
     },
     {
         "name": "Dr. Moreau",
@@ -27137,7 +27239,7 @@ window.allHeroes =
         "family": "underwild",
         "image": "https://i.imgur.com/fpP6oo2.jpg",
         "costume_id": 0,
-        "originalIndex": 709
+        "originalIndex": 711
     },
     {
         "name": "Dr. Moreau C1",
@@ -27173,7 +27275,7 @@ window.allHeroes =
         "family": "underwild",
         "image": "https://i.imgur.com/WWxEz6I.jpg",
         "costume_id": 1,
-        "originalIndex": 710
+        "originalIndex": 712
     },
     {
         "name": "Dreadstar",
@@ -27216,7 +27318,7 @@ window.allHeroes =
         "family": "astralelves",
         "image": "https://i.imgur.com/XzGqN00.jpg",
         "costume_id": 0,
-        "originalIndex": 711
+        "originalIndex": 713
     },
     {
         "name": "Dubhan",
@@ -27256,7 +27358,7 @@ window.allHeroes =
         "family": "plainshunter",
         "image": "https://i.imgur.com/erlDPi2.jpg",
         "costume_id": 0,
-        "originalIndex": 712
+        "originalIndex": 714
     },
     {
         "name": "Dularfulr",
@@ -27298,7 +27400,7 @@ window.allHeroes =
         "family": "nidavellir",
         "image": "https://i.imgur.com/mO16Dj6.jpg",
         "costume_id": 0,
-        "originalIndex": 713
+        "originalIndex": 715
     },
     {
         "name": "Eros",
@@ -27333,7 +27435,7 @@ window.allHeroes =
         "family": "cupid",
         "image": "https://i.imgur.com/5JDsRr2.jpg",
         "costume_id": 0,
-        "originalIndex": 714
+        "originalIndex": 716
     },
     {
         "name": "Experience Mimic Dark",
@@ -27382,7 +27484,7 @@ window.allHeroes =
         "family": "mimic",
         "image": "https://imgur.com/HBoOGrf.jpg",
         "costume_id": 0,
-        "originalIndex": 715
+        "originalIndex": 717
     },
     {
         "name": "Farrah",
@@ -27424,7 +27526,7 @@ window.allHeroes =
         "family": "superelemental",
         "image": "https://i.imgur.com/ciEXCLt.jpg",
         "costume_id": 0,
-        "originalIndex": 716
+        "originalIndex": 718
     },
     {
         "name": "Freya",
@@ -27459,7 +27561,7 @@ window.allHeroes =
         "family": "vanaheim",
         "image": "https://i.imgur.com/4iJaoi6.jpg",
         "costume_id": 0,
-        "originalIndex": 717
+        "originalIndex": 719
     },
     {
         "name": "Freya C1",
@@ -27494,7 +27596,7 @@ window.allHeroes =
         "family": "vanaheim",
         "image": "https://i.imgur.com/Ye3Esdg.jpg",
         "costume_id": 1,
-        "originalIndex": 718
+        "originalIndex": 720
     },
     {
         "name": "Gastille",
@@ -27533,7 +27635,7 @@ window.allHeroes =
         "family": "superelemental",
         "image": "https://i.imgur.com/Hq9OxQ2.jpg",
         "costume_id": 0,
-        "originalIndex": 719
+        "originalIndex": 721
     },
     {
         "name": "Gongoth",
@@ -27573,7 +27675,7 @@ window.allHeroes =
         "family": "astraldwarfs",
         "image": "https://imgur.com/qkGDpyg.jpg",
         "costume_id": 0,
-        "originalIndex": 720
+        "originalIndex": 722
     },
     {
         "name": "Gooldron",
@@ -27615,7 +27717,7 @@ window.allHeroes =
         "family": "slime",
         "image": "https://i.imgur.com/pQjaPYL.jpg",
         "costume_id": 0,
-        "originalIndex": 721
+        "originalIndex": 723
     },
     {
         "name": "Goretooth",
@@ -27654,7 +27756,7 @@ window.allHeroes =
         "family": "abysshunter",
         "image": "https://i.imgur.com/gtuGK1d.jpg",
         "costume_id": 0,
-        "originalIndex": 722
+        "originalIndex": 724
     },
     {
         "name": "Goseck",
@@ -27689,7 +27791,7 @@ window.allHeroes =
         "family": "gargoyle",
         "image": "https://i.imgur.com/OKV9H3h.jpg",
         "costume_id": 0,
-        "originalIndex": 723
+        "originalIndex": 725
     },
     {
         "name": "Griffex",
@@ -27728,7 +27830,7 @@ window.allHeroes =
         "family": "superelemental",
         "image": "https://i.imgur.com/uvhkpHJ.jpg",
         "costume_id": 0,
-        "originalIndex": 724
+        "originalIndex": 726
     },
     {
         "name": "Grimble",
@@ -27767,7 +27869,7 @@ window.allHeroes =
         "family": 2019,
         "image": "https://i.imgur.com/1sMnXH3.jpg",
         "costume_id": 0,
-        "originalIndex": 725
+        "originalIndex": 727
     },
     {
         "name": "Guardian Panther",
@@ -27788,7 +27890,7 @@ window.allHeroes =
             "Dispellers"
         ],
         "source": "Challenge Festival-Guardians",
-        "Release date": "2017-01-01",
+        "Release date": "2017-10-05",
         "star": 5,
         "power": 765,
         "attack": 786,
@@ -27803,7 +27905,7 @@ window.allHeroes =
         "family": "guardiansteltoc",
         "image": "https://i.imgur.com/DIjmjpT.jpg",
         "costume_id": 0,
-        "originalIndex": 726
+        "originalIndex": 728
     },
     {
         "name": "Guardian Panther C1",
@@ -27838,7 +27940,7 @@ window.allHeroes =
         "family": "guardiansteltoc",
         "image": "https://i.imgur.com/ZdPyBw5.jpg",
         "costume_id": 1,
-        "originalIndex": 727
+        "originalIndex": 729
     },
     {
         "name": "Gunktus",
@@ -27884,7 +27986,7 @@ window.allHeroes =
         "family": "slime",
         "image": "https://i.imgur.com/gYtmXoK.jpg",
         "costume_id": 0,
-        "originalIndex": 728
+        "originalIndex": 730
     },
     {
         "name": "Hannah",
@@ -27924,7 +28026,7 @@ window.allHeroes =
         "family": "underwild",
         "image": "https://i.imgur.com/adxVUbU.jpg",
         "costume_id": 0,
-        "originalIndex": 729
+        "originalIndex": 731
     },
     {
         "name": "Hannah C1",
@@ -27964,7 +28066,7 @@ window.allHeroes =
         "family": "underwild",
         "image": "https://i.imgur.com/uhuj4Z5.jpg",
         "costume_id": 1,
-        "originalIndex": 730
+        "originalIndex": 732
     },
     {
         "name": "Hawthorn",
@@ -28006,7 +28108,7 @@ window.allHeroes =
         "family": "plainshunter",
         "image": "https://i.imgur.com/fbtStrK.jpg",
         "costume_id": 0,
-        "originalIndex": 731
+        "originalIndex": 733
     },
     {
         "name": "Hel",
@@ -28028,7 +28130,7 @@ window.allHeroes =
             "Buffers (DEF)"
         ],
         "source": "Hero of the Month",
-        "Release date": "2017-06-01T00:00:00",
+        "Release date": "2017-06-01",
         "star": 5,
         "power": 765,
         "attack": 745,
@@ -28044,7 +28146,7 @@ window.allHeroes =
         "family": 2017,
         "image": "https://i.imgur.com/5oaRVxv.jpg",
         "costume_id": 0,
-        "originalIndex": 732
+        "originalIndex": 734
     },
     {
         "name": "Hel C1",
@@ -28067,7 +28169,7 @@ window.allHeroes =
             "Dispellers"
         ],
         "source": "Hero of the Month",
-        "Release date": "2022-11-28T11:00:00",
+        "Release date": "2022-11-28",
         "star": 5,
         "power": 971,
         "attack": 953,
@@ -28085,7 +28187,7 @@ window.allHeroes =
         "family": 2017,
         "image": "https://i.imgur.com/8SUbwUY.jpg",
         "costume_id": 1,
-        "originalIndex": 733
+        "originalIndex": 735
     },
     {
         "name": "Hreidmarr",
@@ -28129,7 +28231,7 @@ window.allHeroes =
         "family": "nidavellir",
         "image": "https://i.imgur.com/UInCnGF.jpg",
         "costume_id": 0,
-        "originalIndex": 734
+        "originalIndex": 736
     },
     {
         "name": "Hulda",
@@ -28166,7 +28268,7 @@ window.allHeroes =
         "family": "underwild",
         "image": "https://i.imgur.com/J9OOPtS.jpg",
         "costume_id": 0,
-        "originalIndex": 735
+        "originalIndex": 737
     },
     {
         "name": "Hulda C1",
@@ -28204,7 +28306,7 @@ window.allHeroes =
         "family": "underwild",
         "image": "https://i.imgur.com/sPMKsgr.jpg",
         "costume_id": 1,
-        "originalIndex": 736
+        "originalIndex": 738
     },
     {
         "name": "Hunter",
@@ -28244,7 +28346,7 @@ window.allHeroes =
         "family": "cultist",
         "image": "https://i.imgur.com/4a7tvJs.jpg",
         "costume_id": 0,
-        "originalIndex": 737
+        "originalIndex": 739
     },
     {
         "name": "Hurricane",
@@ -28287,7 +28389,7 @@ window.allHeroes =
         "family": "junglehunter",
         "image": "https://i.imgur.com/ts6r2iS.jpg",
         "costume_id": 0,
-        "originalIndex": 738
+        "originalIndex": 740
     },
     {
         "name": "Jabberwock",
@@ -28306,7 +28408,7 @@ window.allHeroes =
             "Snipers"
         ],
         "source": "Challenge Festival-Wonderland",
-        "Release date": "2017-01-01",
+        "Release date": "2019-02-14",
         "star": 5,
         "power": 780,
         "attack": 743,
@@ -28320,7 +28422,7 @@ window.allHeroes =
         "family": "wonderland",
         "image": "https://i.imgur.com/ODUCn9s.jpg",
         "costume_id": 0,
-        "originalIndex": 739
+        "originalIndex": 741
     },
     {
         "name": "Jabberwock C1",
@@ -28356,7 +28458,7 @@ window.allHeroes =
         "family": "wonderland",
         "image": "https://i.imgur.com/Y9oF73p.jpg",
         "costume_id": 1,
-        "originalIndex": 740
+        "originalIndex": 742
     },
     {
         "name": "Jett",
@@ -28406,7 +28508,7 @@ window.allHeroes =
         "family": "magic",
         "image": "https://i.imgur.com/bHuMYnz.jpg",
         "costume_id": 0,
-        "originalIndex": 741
+        "originalIndex": 743
     },
     {
         "name": "Kageburado",
@@ -28441,7 +28543,7 @@ window.allHeroes =
         "family": "sakura",
         "image": "https://i.imgur.com/OUhEZUJ.jpg",
         "costume_id": 0,
-        "originalIndex": 742
+        "originalIndex": 744
     },
     {
         "name": "Kageburado C1",
@@ -28480,7 +28582,7 @@ window.allHeroes =
         "family": "sakura",
         "image": "https://i.imgur.com/3Xk7Vld.jpg",
         "costume_id": 1,
-        "originalIndex": 743
+        "originalIndex": 745
     },
     {
         "name": "Karnov",
@@ -28515,7 +28617,7 @@ window.allHeroes =
         "family": "villains",
         "image": "https://i.imgur.com/uCM3DQT.jpg",
         "costume_id": 0,
-        "originalIndex": 744
+        "originalIndex": 746
     },
     {
         "name": "Karnov C1",
@@ -28553,7 +28655,7 @@ window.allHeroes =
         "family": "villains",
         "image": "https://imgur.com/atHtLfK.jpg",
         "costume_id": 1,
-        "originalIndex": 745
+        "originalIndex": 747
     },
     {
         "name": "Kemeny",
@@ -28588,7 +28690,7 @@ window.allHeroes =
         "family": "gargoyle",
         "image": "https://i.imgur.com/PmkgBzd.jpg",
         "costume_id": 0,
-        "originalIndex": 746
+        "originalIndex": 748
     },
     {
         "name": "Khepri",
@@ -28628,7 +28730,7 @@ window.allHeroes =
         "family": "moon",
         "image": "https://i.imgur.com/Z6trZDL.jpg",
         "costume_id": 0,
-        "originalIndex": 747
+        "originalIndex": 749
     },
     {
         "name": "Khepri C1",
@@ -28670,7 +28772,7 @@ window.allHeroes =
         "family": "moon",
         "image": "https://i.imgur.com/j3u49nY.jpg",
         "costume_id": 1,
-        "originalIndex": 748
+        "originalIndex": 750
     },
     {
         "name": "Khiona",
@@ -28690,7 +28792,7 @@ window.allHeroes =
             "Heal over Time (HoT)"
         ],
         "source": "Hero of the Month",
-        "Release date": "2018-09-01T00:00:00",
+        "Release date": "2018-09-01",
         "star": 5,
         "power": 768,
         "attack": 739,
@@ -28705,7 +28807,7 @@ window.allHeroes =
         "family": 2018,
         "image": "https://i.imgur.com/1C4Lajq.jpg",
         "costume_id": 0,
-        "originalIndex": 749
+        "originalIndex": 751
     },
     {
         "name": "Khiona C1",
@@ -28743,7 +28845,7 @@ window.allHeroes =
         "family": 2018,
         "image": "https://i.imgur.com/mLc9HWv.jpg",
         "costume_id": 1,
-        "originalIndex": 750
+        "originalIndex": 752
     },
     {
         "name": "Khonshu",
@@ -28779,7 +28881,7 @@ window.allHeroes =
         "family": "moon",
         "image": "https://i.imgur.com/qiCq8Jo.jpg",
         "costume_id": 0,
-        "originalIndex": 751
+        "originalIndex": 753
     },
     {
         "name": "Khonshu C1",
@@ -28817,7 +28919,7 @@ window.allHeroes =
         "family": "moon",
         "image": "https://i.imgur.com/dLlMk1f.jpg",
         "costume_id": 1,
-        "originalIndex": 752
+        "originalIndex": 754
     },
     {
         "name": "Killhare",
@@ -28835,7 +28937,7 @@ window.allHeroes =
             "Negative Effects On Self Or Allies"
         ],
         "source": "Monthly Event-Springvale",
-        "Release date": "2020-04-16",
+        "Release date": "2020-04-06",
         "star": 5,
         "power": 789,
         "attack": 741,
@@ -28849,7 +28951,7 @@ window.allHeroes =
         "family": "springvale",
         "image": "https://i.imgur.com/WU18HC0.jpg",
         "costume_id": 0,
-        "originalIndex": 753
+        "originalIndex": 755
     },
     {
         "name": "Killhare C1",
@@ -28881,7 +28983,7 @@ window.allHeroes =
         "family": "springvale",
         "image": "https://i.imgur.com/vAkZp36.jpg",
         "costume_id": 1,
-        "originalIndex": 754
+        "originalIndex": 756
     },
     {
         "name": "Knave of Hearts",
@@ -28918,7 +29020,7 @@ window.allHeroes =
         "family": "wonderland",
         "image": "https://i.imgur.com/BQViteC.jpg",
         "costume_id": 0,
-        "originalIndex": 755
+        "originalIndex": 757
     },
     {
         "name": "Knightus",
@@ -28962,7 +29064,7 @@ window.allHeroes =
         "family": "slime",
         "image": "https://i.imgur.com/b5SLdod.jpg",
         "costume_id": 0,
-        "originalIndex": 756
+        "originalIndex": 758
     },
     {
         "name": "Kunchen",
@@ -29002,7 +29104,7 @@ window.allHeroes =
         "family": 2019,
         "image": "https://i.imgur.com/4sKh1TW.jpg",
         "costume_id": 0,
-        "originalIndex": 757
+        "originalIndex": 759
     },
     {
         "name": "Lepiota",
@@ -29047,7 +29149,7 @@ window.allHeroes =
         "family": "underwild",
         "image": "https://i.imgur.com/eea7u0v.jpg",
         "costume_id": 0,
-        "originalIndex": 758
+        "originalIndex": 760
     },
     {
         "name": "Lepiota C1",
@@ -29093,7 +29195,7 @@ window.allHeroes =
         "family": "underwild",
         "image": "https://i.imgur.com/MgzgOOM.jpg",
         "costume_id": 1,
-        "originalIndex": 759
+        "originalIndex": 761
     },
     {
         "name": "Louhi",
@@ -29130,7 +29232,7 @@ window.allHeroes =
         "family": "kalevala",
         "image": "https://i.imgur.com/RQWKyOA.jpg",
         "costume_id": 0,
-        "originalIndex": 760
+        "originalIndex": 762
     },
     {
         "name": "Lu Bu",
@@ -29152,7 +29254,7 @@ window.allHeroes =
             "DoT Attackers"
         ],
         "source": "Three Kingdoms Summon",
-        "Release date": "2022-03-14T12:00:00",
+        "Release date": "2022-03-14",
         "star": 5,
         "power": 835,
         "attack": 788,
@@ -29168,7 +29270,7 @@ window.allHeroes =
         "family": "kingdom",
         "image": "https://i.imgur.com/pOnV8Et.jpg",
         "costume_id": 0,
-        "originalIndex": 761
+        "originalIndex": 763
     },
     {
         "name": "Lu Bu C1",
@@ -29211,7 +29313,7 @@ window.allHeroes =
         "family": "kingdom",
         "image": "https://i.imgur.com/9cuTL09.jpg",
         "costume_id": 1,
-        "originalIndex": 762
+        "originalIndex": 764
     },
     {
         "name": "Lucinda",
@@ -29252,7 +29354,7 @@ window.allHeroes =
         "family": "morlovia",
         "image": "https://i.imgur.com/tBoxHA4.jpg",
         "costume_id": 0,
-        "originalIndex": 763
+        "originalIndex": 765
     },
     {
         "name": "Ludwig",
@@ -29287,7 +29389,7 @@ window.allHeroes =
         "family": "wolf",
         "image": "https://i.imgur.com/VV20w6e.jpg",
         "costume_id": 0,
-        "originalIndex": 764
+        "originalIndex": 766
     },
     {
         "name": "Luna",
@@ -29325,7 +29427,7 @@ window.allHeroes =
         "family": "pets",
         "image": "https://i.imgur.com/jt6SH4f.jpg",
         "costume_id": 0,
-        "originalIndex": 765
+        "originalIndex": 767
     },
     {
         "name": "Madame Giry",
@@ -29369,7 +29471,7 @@ window.allHeroes =
         "family": "opera",
         "image": "https://i.imgur.com/jLIIusc.jpg",
         "costume_id": 0,
-        "originalIndex": 766
+        "originalIndex": 768
     },
     {
         "name": "Maisie",
@@ -29409,7 +29511,7 @@ window.allHeroes =
         "family": "garrisonguard",
         "image": "https://i.imgur.com/aJDM9qb.jpg",
         "costume_id": 0,
-        "originalIndex": 767
+        "originalIndex": 769
     },
     {
         "name": "Malicna",
@@ -29458,7 +29560,7 @@ window.allHeroes =
         "family": 2021,
         "image": "https://i.imgur.com/ZMAYhxa.jpg",
         "costume_id": 0,
-        "originalIndex": 768
+        "originalIndex": 770
     },
     {
         "name": "Marie-Therese",
@@ -29481,7 +29583,7 @@ window.allHeroes =
             "Revivers"
         ],
         "source": "Challenge Festival-Pirates",
-        "Release date": "2017-01-01",
+        "Release date": "2017-09-07",
         "star": 5,
         "power": 780,
         "attack": 774,
@@ -29501,7 +29603,7 @@ window.allHeroes =
         "family": "corellia",
         "image": "https://i.imgur.com/sKXoFnG.jpg",
         "costume_id": 0,
-        "originalIndex": 769
+        "originalIndex": 771
     },
     {
         "name": "Marie-Therese C1",
@@ -29546,7 +29648,7 @@ window.allHeroes =
         "family": "corellia",
         "image": "https://i.imgur.com/cwv2NUd.jpg",
         "costume_id": 1,
-        "originalIndex": 770
+        "originalIndex": 772
     },
     {
         "name": "Maud",
@@ -29585,7 +29687,7 @@ window.allHeroes =
         "family": "woodlandfaun",
         "image": "https://imgur.com/eOKRXit.jpg",
         "costume_id": 0,
-        "originalIndex": 771
+        "originalIndex": 773
     },
     {
         "name": "Medea",
@@ -29632,7 +29734,7 @@ window.allHeroes =
         "family": "nightmaresofatlantis",
         "image": "https://i.imgur.com/RtOVjbp.jpg",
         "costume_id": 0,
-        "originalIndex": 772
+        "originalIndex": 774
     },
     {
         "name": "Medea C1",
@@ -29679,7 +29781,7 @@ window.allHeroes =
         "family": "nightmaresofatlantis",
         "image": "https://i.imgur.com/CadXjHa.jpg",
         "costume_id": 1,
-        "originalIndex": 773
+        "originalIndex": 775
     },
     {
         "name": "Melancholia",
@@ -29720,7 +29822,7 @@ window.allHeroes =
         "family": "cultist",
         "image": "https://i.imgur.com/okcHBcF.jpg",
         "costume_id": 0,
-        "originalIndex": 774
+        "originalIndex": 776
     },
     {
         "name": "Mok-Arr",
@@ -29740,7 +29842,7 @@ window.allHeroes =
             "Negative Effects On Self Or Allies"
         ],
         "source": "S2-Atlantis",
-        "Release date": "2017-01-01",
+        "Release date": "2018-02-01",
         "star": 5,
         "power": 772,
         "attack": 741,
@@ -29756,7 +29858,7 @@ window.allHeroes =
         "family": "lagoon",
         "image": "https://i.imgur.com/f9fc9eh.jpg",
         "costume_id": 0,
-        "originalIndex": 775
+        "originalIndex": 777
     },
     {
         "name": "Mok-Arr C1",
@@ -29795,7 +29897,7 @@ window.allHeroes =
         "family": "lagoon",
         "image": "https://i.imgur.com/EOk0EO8.jpg",
         "costume_id": 1,
-        "originalIndex": 776
+        "originalIndex": 778
     },
     {
         "name": "Morax",
@@ -29837,7 +29939,7 @@ window.allHeroes =
         "family": 2022,
         "image": "https://i.imgur.com/9tJznmy.jpg",
         "costume_id": 0,
-        "originalIndex": 777
+        "originalIndex": 779
     },
     {
         "name": "Mortewitch",
@@ -29884,7 +29986,7 @@ window.allHeroes =
         "family": "moth",
         "image": "https://i.imgur.com/jvJDkdc.jpg",
         "costume_id": 0,
-        "originalIndex": 778
+        "originalIndex": 780
     },
     {
         "name": "Mortimer",
@@ -29922,7 +30024,7 @@ window.allHeroes =
         "family": "beachparty",
         "image": "https://i.imgur.com/J2WmnG0.jpg",
         "costume_id": 0,
-        "originalIndex": 779
+        "originalIndex": 781
     },
     {
         "name": "Myztero",
@@ -29955,7 +30057,7 @@ window.allHeroes =
         "family": "mystery",
         "image": "https://i.imgur.com/J37iEs6.jpg",
         "costume_id": 0,
-        "originalIndex": 780
+        "originalIndex": 782
     },
     {
         "name": "Narcisa",
@@ -29993,7 +30095,7 @@ window.allHeroes =
         "family": "bard",
         "image": "https://i.imgur.com/ZW5xxnu.jpg",
         "costume_id": 0,
-        "originalIndex": 781
+        "originalIndex": 783
     },
     {
         "name": "Nyx",
@@ -30040,7 +30142,7 @@ window.allHeroes =
         "family": "styx",
         "image": "https://i.imgur.com/aQwzAEQ.jpg",
         "costume_id": 0,
-        "originalIndex": 782
+        "originalIndex": 784
     },
     {
         "name": "Obakan",
@@ -30059,7 +30161,7 @@ window.allHeroes =
             "Counterattackers"
         ],
         "source": "S1-Classic",
-        "Release date": "2017-01-01",
+        "Release date": "2017-03-01",
         "star": 5,
         "power": 756,
         "attack": 762,
@@ -30073,7 +30175,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/0JU9Ii1.jpg",
         "costume_id": 0,
-        "originalIndex": 783
+        "originalIndex": 785
     },
     {
         "name": "Obakan C1",
@@ -30106,7 +30208,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/SB2N0Vj.jpg",
         "costume_id": 1,
-        "originalIndex": 784
+        "originalIndex": 786
     },
     {
         "name": "Obakan C2",
@@ -30142,7 +30244,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/jA79vt4.jpg",
         "costume_id": 2,
-        "originalIndex": 785
+        "originalIndex": 787
     },
     {
         "name": "Obakan Toon",
@@ -30179,7 +30281,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/YICnCq4.jpg",
         "costume_id": 3,
-        "originalIndex": 786
+        "originalIndex": 788
     },
     {
         "name": "Obakan Glass",
@@ -30217,7 +30319,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/pN1Axne.jpg",
         "costume_id": 4,
-        "originalIndex": 787
+        "originalIndex": 789
     },
     {
         "name": "Odile",
@@ -30261,7 +30363,7 @@ window.allHeroes =
         "family": "opera",
         "image": "https://i.imgur.com/4D2V5En.jpg",
         "costume_id": 0,
-        "originalIndex": 788
+        "originalIndex": 790
     },
     {
         "name": "Ommodus",
@@ -30302,7 +30404,7 @@ window.allHeroes =
         "family": "owl",
         "image": "https://i.imgur.com/QzvMG5C.jpg",
         "costume_id": 0,
-        "originalIndex": 789
+        "originalIndex": 791
     },
     {
         "name": "Onyx",
@@ -30349,7 +30451,7 @@ window.allHeroes =
         "family": "ninja",
         "image": "https://i.imgur.com/r2WPn3d.jpg",
         "costume_id": 0,
-        "originalIndex": 790
+        "originalIndex": 792
     },
     {
         "name": "Peppermint",
@@ -30386,7 +30488,7 @@ window.allHeroes =
         "family": "christmas",
         "image": "https://i.imgur.com/egM1t1a.jpg",
         "costume_id": 0,
-        "originalIndex": 791
+        "originalIndex": 793
     },
     {
         "name": "Phantom of the Opera",
@@ -30435,7 +30537,7 @@ window.allHeroes =
         "family": "opera",
         "image": "https://i.imgur.com/7nuGOll.jpg",
         "costume_id": 0,
-        "originalIndex": 792
+        "originalIndex": 794
     },
     {
         "name": "Phorcys",
@@ -30485,7 +30587,7 @@ window.allHeroes =
         "family": "defendersofatlantis",
         "image": "https://i.imgur.com/6o3KSeL.jpg",
         "costume_id": 0,
-        "originalIndex": 793
+        "originalIndex": 795
     },
     {
         "name": "Phorcys C1",
@@ -30535,7 +30637,7 @@ window.allHeroes =
         "family": "defendersofatlantis",
         "image": "https://i.imgur.com/FXIdE4S.jpg",
         "costume_id": 1,
-        "originalIndex": 794
+        "originalIndex": 796
     },
     {
         "name": "Phthonus",
@@ -30573,7 +30675,7 @@ window.allHeroes =
         "family": "cupid",
         "image": "https://i.imgur.com/OE7cx2p.jpg",
         "costume_id": 0,
-        "originalIndex": 795
+        "originalIndex": 797
     },
     {
         "name": "Quartz",
@@ -30620,7 +30722,7 @@ window.allHeroes =
         "family": "ninja",
         "image": "https://i.imgur.com/DHtXxDR.jpg",
         "costume_id": 0,
-        "originalIndex": 796
+        "originalIndex": 798
     },
     {
         "name": "Quintus",
@@ -30637,7 +30739,7 @@ window.allHeroes =
             "AoE Attackers (Hit-5)"
         ],
         "source": "S1-Classic",
-        "Release date": "2017-01-01",
+        "Release date": "2017-03-01",
         "star": 5,
         "power": 757,
         "attack": 747,
@@ -30650,7 +30752,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/250UPh4.jpg",
         "costume_id": 0,
-        "originalIndex": 797
+        "originalIndex": 799
     },
     {
         "name": "Quintus C1",
@@ -30683,7 +30785,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/TBwlwOC.jpg",
         "costume_id": 1,
-        "originalIndex": 798
+        "originalIndex": 800
     },
     {
         "name": "Quintus C2",
@@ -30716,7 +30818,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/BmY4xiU.jpg",
         "costume_id": 2,
-        "originalIndex": 799
+        "originalIndex": 801
     },
     {
         "name": "Quintus Toon",
@@ -30750,7 +30852,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/ff1uvHj.jpg",
         "costume_id": 3,
-        "originalIndex": 800
+        "originalIndex": 802
     },
     {
         "name": "Ramona",
@@ -30791,7 +30893,7 @@ window.allHeroes =
         "family": "champions",
         "image": "https://i.imgur.com/ZBNdURG.jpg",
         "costume_id": 0,
-        "originalIndex": 801
+        "originalIndex": 803
     },
     {
         "name": "Rayne",
@@ -30824,7 +30926,7 @@ window.allHeroes =
         "family": "raven",
         "image": "https://i.imgur.com/wMh0j5F.jpg",
         "costume_id": 0,
-        "originalIndex": 802
+        "originalIndex": 804
     },
     {
         "name": "Rochefort",
@@ -30858,7 +30960,7 @@ window.allHeroes =
         "family": "musketeer",
         "image": "https://i.imgur.com/cnURK1S.jpg",
         "costume_id": 0,
-        "originalIndex": 803
+        "originalIndex": 805
     },
     {
         "name": "Salmon Loki",
@@ -30893,7 +30995,7 @@ window.allHeroes =
         "family": "niflheim",
         "image": "https://i.imgur.com/fVTl018.jpg",
         "costume_id": 0,
-        "originalIndex": 804
+        "originalIndex": 806
     },
     {
         "name": "Salmon Loki C1",
@@ -30928,7 +31030,7 @@ window.allHeroes =
         "family": "niflheim",
         "image": "https://i.imgur.com/mbPRCrB.jpg",
         "costume_id": 1,
-        "originalIndex": 805
+        "originalIndex": 807
     },
     {
         "name": "Sargasso",
@@ -30947,7 +31049,7 @@ window.allHeroes =
             "Healing Reducers"
         ],
         "source": "Challenge Festival-Pirates",
-        "Release date": "2018-08-01",
+        "Release date": "2017-09-07",
         "star": 5,
         "power": 765,
         "attack": 729,
@@ -30961,7 +31063,7 @@ window.allHeroes =
         "family": "corellia",
         "image": "https://i.imgur.com/6s6FE8i.jpg",
         "costume_id": 0,
-        "originalIndex": 806
+        "originalIndex": 808
     },
     {
         "name": "Sargasso C1",
@@ -30999,7 +31101,7 @@ window.allHeroes =
         "family": "corellia",
         "image": "https://i.imgur.com/lR0HaHa.jpg",
         "costume_id": 1,
-        "originalIndex": 807
+        "originalIndex": 809
     },
     {
         "name": "Sartana",
@@ -31018,7 +31120,7 @@ window.allHeroes =
             "Snipers"
         ],
         "source": "S1-Classic",
-        "Release date": "2017-01-01",
+        "Release date": "2017-03-01",
         "star": 5,
         "power": 757,
         "attack": 694,
@@ -31032,7 +31134,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/YBEHGb0.jpg",
         "costume_id": 0,
-        "originalIndex": 808
+        "originalIndex": 810
     },
     {
         "name": "Sartana C1",
@@ -31062,7 +31164,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/gwzMUaT.jpg",
         "costume_id": 1,
-        "originalIndex": 809
+        "originalIndex": 811
     },
     {
         "name": "Sartana C2",
@@ -31097,7 +31199,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/I8cTetD.jpg",
         "costume_id": 2,
-        "originalIndex": 810
+        "originalIndex": 812
     },
     {
         "name": "Sartana Toon",
@@ -31134,7 +31236,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/V3r9sPS.jpg",
         "costume_id": 3,
-        "originalIndex": 811
+        "originalIndex": 813
     },
     {
         "name": "Sartana Glass",
@@ -31171,7 +31273,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/fdUWQiQ.jpg",
         "costume_id": 4,
-        "originalIndex": 812
+        "originalIndex": 814
     },
     {
         "name": "Satsui",
@@ -31223,7 +31325,7 @@ window.allHeroes =
         "family": "ninja",
         "image": "https://i.imgur.com/xzr9Szx.jpg",
         "costume_id": 0,
-        "originalIndex": 813
+        "originalIndex": 815
     },
     {
         "name": "Scath",
@@ -31263,7 +31365,7 @@ window.allHeroes =
         "family": "construct",
         "image": "https://i.imgur.com/pX4j62c.jpg",
         "costume_id": 0,
-        "originalIndex": 814
+        "originalIndex": 816
     },
     {
         "name": "Senan",
@@ -31307,7 +31409,7 @@ window.allHeroes =
         "family": "slayer",
         "image": "https://i.imgur.com/PYhKsHp.jpg",
         "costume_id": 0,
-        "originalIndex": 815
+        "originalIndex": 817
     },
     {
         "name": "Senan C1",
@@ -31352,7 +31454,7 @@ window.allHeroes =
         "family": "slayer",
         "image": "https://imgur.com/CNY72vk.jpg",
         "costume_id": 1,
-        "originalIndex": 816
+        "originalIndex": 818
     },
     {
         "name": "Serena",
@@ -31393,7 +31495,7 @@ window.allHeroes =
         "family": "beachparty",
         "image": "https://imgur.com/ebdt5jw.jpg",
         "costume_id": 0,
-        "originalIndex": 817
+        "originalIndex": 819
     },
     {
         "name": "Seshat",
@@ -31433,7 +31535,7 @@ window.allHeroes =
         "family": 2019,
         "image": "https://i.imgur.com/FioNeBy.jpg",
         "costume_id": 0,
-        "originalIndex": 818
+        "originalIndex": 820
     },
     {
         "name": "Seshat C1",
@@ -31475,7 +31577,7 @@ window.allHeroes =
         "family": 2019,
         "image": "https://i.imgur.com/qNMuMVA.jpg",
         "costume_id": 1,
-        "originalIndex": 819
+        "originalIndex": 821
     },
     {
         "name": "Set",
@@ -31514,7 +31616,7 @@ window.allHeroes =
         "family": "moon",
         "image": "https://i.imgur.com/8kUB8ir.jpg",
         "costume_id": 0,
-        "originalIndex": 820
+        "originalIndex": 822
     },
     {
         "name": "Set C1",
@@ -31555,7 +31657,7 @@ window.allHeroes =
         "family": "moon",
         "image": "https://imgur.com/olt8i8H.jpg",
         "costume_id": 1,
-        "originalIndex": 821
+        "originalIndex": 823
     },
     {
         "name": "Shacklebolt",
@@ -31595,7 +31697,7 @@ window.allHeroes =
         "family": "construct",
         "image": "https://i.imgur.com/kHFYa2T.jpg",
         "costume_id": 0,
-        "originalIndex": 822
+        "originalIndex": 824
     },
     {
         "name": "Shadowfang",
@@ -31637,7 +31739,7 @@ window.allHeroes =
         "family": "fox",
         "image": "https://i.imgur.com/WRT0fPv.jpg",
         "costume_id": 0,
-        "originalIndex": 823
+        "originalIndex": 825
     },
     {
         "name": "Sir Casmir",
@@ -31679,7 +31781,7 @@ window.allHeroes =
         "family": 2024,
         "image": "https://i.imgur.com/7f9DRkN.jpg",
         "costume_id": 0,
-        "originalIndex": 824
+        "originalIndex": 826
     },
     {
         "name": "Sneferu",
@@ -31719,7 +31821,7 @@ window.allHeroes =
         "family": "moon",
         "image": "https://i.imgur.com/xRHanch.jpg",
         "costume_id": 0,
-        "originalIndex": 825
+        "originalIndex": 827
     },
     {
         "name": "Swiftpaw",
@@ -31762,7 +31864,7 @@ window.allHeroes =
         "family": "fox",
         "image": "https://i.imgur.com/s7agDwW.jpg",
         "costume_id": 0,
-        "originalIndex": 826
+        "originalIndex": 828
     },
     {
         "name": "Tamlin",
@@ -31802,7 +31904,7 @@ window.allHeroes =
         "family": "woodlandfaun",
         "image": "https://i.imgur.com/eHe26XM.jpg",
         "costume_id": 0,
-        "originalIndex": 827
+        "originalIndex": 829
     },
     {
         "name": "Tenebrae",
@@ -31844,7 +31946,7 @@ window.allHeroes =
         "family": "construct",
         "image": "https://i.imgur.com/det8edh.jpg",
         "costume_id": 0,
-        "originalIndex": 828
+        "originalIndex": 830
     },
     {
         "name": "Thoth-Amun",
@@ -31866,7 +31968,7 @@ window.allHeroes =
             "Mana Generation Buffers"
         ],
         "source": "Hero of the Month",
-        "Release date": "2017-11-01T00:00:00",
+        "Release date": "2017-11-01",
         "star": 5,
         "power": 765,
         "attack": 731,
@@ -31881,7 +31983,7 @@ window.allHeroes =
         "family": 2017,
         "image": "https://i.imgur.com/qJmJu2G.jpg",
         "costume_id": 0,
-        "originalIndex": 829
+        "originalIndex": 831
     },
     {
         "name": "Thoth-Amun C1",
@@ -31917,7 +32019,7 @@ window.allHeroes =
         "family": 2017,
         "image": "https://i.imgur.com/3rXphxC.jpg",
         "costume_id": 1,
-        "originalIndex": 830
+        "originalIndex": 832
     },
     {
         "name": "Thrivaldi",
@@ -31963,7 +32065,7 @@ window.allHeroes =
         "family": "myrkheim",
         "image": "https://imgur.com/GPSIC9I.jpg",
         "costume_id": 0,
-        "originalIndex": 831
+        "originalIndex": 833
     },
     {
         "name": "Tora",
@@ -32013,7 +32115,7 @@ window.allHeroes =
         "family": "ninja",
         "image": "https://i.imgur.com/SWoTRp0.jpg",
         "costume_id": 0,
-        "originalIndex": 832
+        "originalIndex": 834
     },
     {
         "name": "Turgruk",
@@ -32050,7 +32152,7 @@ window.allHeroes =
         "family": 2023,
         "image": "https://i.imgur.com/ktMsNKD.jpg",
         "costume_id": 0,
-        "originalIndex": 833
+        "originalIndex": 835
     },
     {
         "name": "Tweedles",
@@ -32091,7 +32193,7 @@ window.allHeroes =
         "family": "wonderland",
         "image": "https://i.imgur.com/oaSASQ4.jpg",
         "costume_id": 0,
-        "originalIndex": 834
+        "originalIndex": 836
     },
     {
         "name": "Ultrox",
@@ -32137,7 +32239,7 @@ window.allHeroes =
         "family": "nightmaresofatlantis",
         "image": "https://i.imgur.com/7xKKQnM.jpg",
         "costume_id": 0,
-        "originalIndex": 835
+        "originalIndex": 837
     },
     {
         "name": "Ultrox C1",
@@ -32185,7 +32287,7 @@ window.allHeroes =
         "family": "nightmaresofatlantis",
         "image": "https://imgur.com/p30NrpJ.jpg",
         "costume_id": 1,
-        "originalIndex": 836
+        "originalIndex": 838
     },
     {
         "name": "Umbria",
@@ -32223,7 +32325,7 @@ window.allHeroes =
         "family": "maskedgod",
         "image": "https://i.imgur.com/3VyJcT7.jpg",
         "costume_id": 0,
-        "originalIndex": 837
+        "originalIndex": 839
     },
     {
         "name": "Umeko",
@@ -32272,7 +32374,7 @@ window.allHeroes =
         "family": "ninja",
         "image": "https://i.imgur.com/2sWnlMn.jpg",
         "costume_id": 0,
-        "originalIndex": 838
+        "originalIndex": 840
     },
     {
         "name": "Ursena",
@@ -32293,7 +32395,7 @@ window.allHeroes =
             "Reflectors"
         ],
         "source": "S2-Atlantis",
-        "Release date": "2017-01-01",
+        "Release date": "2019-02-01",
         "star": 5,
         "power": 775,
         "attack": 760,
@@ -32309,7 +32411,7 @@ window.allHeroes =
         "family": "atlantis",
         "image": "https://i.imgur.com/OQ8iQcf.jpg",
         "costume_id": 0,
-        "originalIndex": 839
+        "originalIndex": 841
     },
     {
         "name": "Ursena C1",
@@ -32347,7 +32449,7 @@ window.allHeroes =
         "family": "atlantis",
         "image": "https://i.imgur.com/HefSfvM.jpg",
         "costume_id": 1,
-        "originalIndex": 840
+        "originalIndex": 842
     },
     {
         "name": "Uthragan",
@@ -32386,7 +32488,7 @@ window.allHeroes =
         "family": 2023,
         "image": "https://i.imgur.com/Pb3fJn3.jpg",
         "costume_id": 0,
-        "originalIndex": 841
+        "originalIndex": 843
     },
     {
         "name": "Uwe",
@@ -32425,7 +32527,7 @@ window.allHeroes =
         "family": "gargoyle",
         "image": "https://i.imgur.com/KNSk9mz.jpg",
         "costume_id": 0,
-        "originalIndex": 842
+        "originalIndex": 844
     },
     {
         "name": "Vander",
@@ -32468,7 +32570,7 @@ window.allHeroes =
         "family": "superelemental",
         "image": "https://i.imgur.com/4cx1DT9.jpg",
         "costume_id": 0,
-        "originalIndex": 843
+        "originalIndex": 845
     },
     {
         "name": "Vard",
@@ -32508,7 +32610,7 @@ window.allHeroes =
         "family": "astraldwarfs",
         "image": "https://i.imgur.com/pddigSQ.jpg",
         "costume_id": 0,
-        "originalIndex": 844
+        "originalIndex": 846
     },
     {
         "name": "Victor",
@@ -32532,7 +32634,7 @@ window.allHeroes =
             "Snipers"
         ],
         "source": "Monthly Event-Morlovia",
-        "Release date": "2018-10-01",
+        "Release date": "2018-10-25",
         "star": 5,
         "power": 773,
         "attack": 778,
@@ -32550,7 +32652,7 @@ window.allHeroes =
         "family": "morlovia",
         "image": "https://i.imgur.com/Trss5zi.jpg",
         "costume_id": 0,
-        "originalIndex": 845
+        "originalIndex": 847
     },
     {
         "name": "Victor C1",
@@ -32590,7 +32692,7 @@ window.allHeroes =
         "family": "morlovia",
         "image": "https://i.imgur.com/bKghYKS.jpg",
         "costume_id": 1,
-        "originalIndex": 846
+        "originalIndex": 848
     },
     {
         "name": "Violet Potts",
@@ -32631,7 +32733,7 @@ window.allHeroes =
         "family": "garrisonguard",
         "image": "https://i.imgur.com/ByQ3x5M.jpg",
         "costume_id": 0,
-        "originalIndex": 847
+        "originalIndex": 849
     },
     {
         "name": "Viscaro",
@@ -32673,7 +32775,7 @@ window.allHeroes =
         "family": 2022,
         "image": "https://i.imgur.com/tgvzp56.jpg",
         "costume_id": 0,
-        "originalIndex": 848
+        "originalIndex": 850
     },
     {
         "name": "Viscount Cluckwood",
@@ -32710,7 +32812,7 @@ window.allHeroes =
         "family": "springvale",
         "image": "https://imgur.com/ifuZ96L.jpg",
         "costume_id": 0,
-        "originalIndex": 849
+        "originalIndex": 851
     },
     {
         "name": "Voidstar",
@@ -32752,7 +32854,7 @@ window.allHeroes =
         "family": "astralelves",
         "image": "https://i.imgur.com/ry0GZRR.jpg",
         "costume_id": 0,
-        "originalIndex": 850
+        "originalIndex": 852
     },
     {
         "name": "Von Rothbart",
@@ -32798,7 +32900,7 @@ window.allHeroes =
         "family": "opera",
         "image": "https://i.imgur.com/DZgjbkS.jpg",
         "costume_id": 0,
-        "originalIndex": 851
+        "originalIndex": 853
     },
     {
         "name": "Xie Zi Jing",
@@ -32836,7 +32938,7 @@ window.allHeroes =
         "family": "journey",
         "image": "https://i.imgur.com/jJUezPr.jpg",
         "costume_id": 0,
-        "originalIndex": 852
+        "originalIndex": 854
     },
     {
         "name": "Xiong Shanjun",
@@ -32875,7 +32977,7 @@ window.allHeroes =
         "family": "journey",
         "image": "https://i.imgur.com/WyjU3s9.jpg",
         "costume_id": 0,
-        "originalIndex": 853
+        "originalIndex": 855
     },
     {
         "name": "Xnolphod",
@@ -32915,7 +33017,7 @@ window.allHeroes =
         "family": "underwild",
         "image": "https://i.imgur.com/RF7rniv.jpg",
         "costume_id": 0,
-        "originalIndex": 854
+        "originalIndex": 856
     },
     {
         "name": "Xnolphod C1",
@@ -32957,7 +33059,7 @@ window.allHeroes =
         "family": "underwild",
         "image": "https://i.imgur.com/s1HpuGG.jpg",
         "costume_id": 1,
-        "originalIndex": 855
+        "originalIndex": 857
     },
     {
         "name": "Ysabel",
@@ -32997,7 +33099,7 @@ window.allHeroes =
         "family": "woodlandfaun",
         "image": "https://i.imgur.com/jhCBaUo.jpg",
         "costume_id": 0,
-        "originalIndex": 856
+        "originalIndex": 858
     },
     {
         "name": "Zed",
@@ -33038,7 +33140,7 @@ window.allHeroes =
         "family": 2025,
         "image": "https://i.imgur.com/G0RFHTr.jpg",
         "costume_id": 0,
-        "originalIndex": 857
+        "originalIndex": 859
     },
     {
         "name": "Zulag",
@@ -33076,7 +33178,7 @@ window.allHeroes =
         "family": 2020,
         "image": "https://i.imgur.com/oEPqMWI.jpg",
         "costume_id": 0,
-        "originalIndex": 858
+        "originalIndex": 860
     },
     {
         "name": "Sharan",
@@ -33093,7 +33195,7 @@ window.allHeroes =
             "Healers"
         ],
         "source": "S1-Classic",
-        "Release date": "2017-01-01",
+        "Release date": "2017-03-01",
         "star": 1,
         "power": 213,
         "attack": 168,
@@ -33106,7 +33208,7 @@ window.allHeroes =
         "family": null,
         "image": "https://i.imgur.com/PC7yXFg.jpg",
         "costume_id": 0,
-        "originalIndex": 859
+        "originalIndex": 861
     },
     {
         "name": "Tudan",
@@ -33123,7 +33225,7 @@ window.allHeroes =
             "Snipers"
         ],
         "source": "S1-Classic",
-        "Release date": "2017-01-01",
+        "Release date": "2017-03-01",
         "star": 1,
         "power": 210,
         "attack": 208,
@@ -33136,7 +33238,7 @@ window.allHeroes =
         "family": null,
         "image": "https://i.imgur.com/cL8WR2O.jpg",
         "costume_id": 0,
-        "originalIndex": 860
+        "originalIndex": 862
     },
     {
         "name": "Farid",
@@ -33153,7 +33255,7 @@ window.allHeroes =
             "AoE Attackers (Hit-5)"
         ],
         "source": "S1-Classic",
-        "Release date": "2017-01-01",
+        "Release date": "2017-03-01",
         "star": 2,
         "power": 337,
         "attack": 350,
@@ -33166,7 +33268,7 @@ window.allHeroes =
         "family": null,
         "image": "https://i.imgur.com/MeeFayZ.jpg",
         "costume_id": 0,
-        "originalIndex": 861
+        "originalIndex": 863
     },
     {
         "name": "Jill",
@@ -33183,7 +33285,7 @@ window.allHeroes =
             "Buffers (ATK)"
         ],
         "source": "S1-Classic",
-        "Release date": "2017-01-01",
+        "Release date": "2017-03-01",
         "star": 2,
         "power": 332,
         "attack": 320,
@@ -33196,7 +33298,7 @@ window.allHeroes =
         "family": null,
         "image": "https://i.imgur.com/FTGm2in.jpg",
         "costume_id": 0,
-        "originalIndex": 862
+        "originalIndex": 864
     },
     {
         "name": "Shaarkot",
@@ -33213,7 +33315,7 @@ window.allHeroes =
             "Buffers (ATK)"
         ],
         "source": "S1-Classic",
-        "Release date": "2017-01-01",
+        "Release date": "2017-03-01",
         "star": 2,
         "power": 334,
         "attack": 356,
@@ -33226,7 +33328,7 @@ window.allHeroes =
         "family": null,
         "image": "https://i.imgur.com/TOP4jvU.jpg",
         "costume_id": 0,
-        "originalIndex": 863
+        "originalIndex": 865
     },
     {
         "name": "Zudak",
@@ -33243,7 +33345,7 @@ window.allHeroes =
             "AoE Attackers (Hit-3)"
         ],
         "source": "S1-Classic",
-        "Release date": "2017-01-01",
+        "Release date": "2017-03-01",
         "star": 2,
         "power": 336,
         "attack": 312,
@@ -33256,7 +33358,7 @@ window.allHeroes =
         "family": null,
         "image": "https://i.imgur.com/O3JN2m9.jpg",
         "costume_id": 0,
-        "originalIndex": 864
+        "originalIndex": 866
     },
     {
         "name": "Azar",
@@ -33275,7 +33377,7 @@ window.allHeroes =
             "Snipers"
         ],
         "source": "S1-Classic",
-        "Release date": "2017-01-01",
+        "Release date": "2017-03-01",
         "star": 3,
         "power": 444,
         "attack": 493,
@@ -33289,7 +33391,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/sizxBDX.jpg",
         "costume_id": 0,
-        "originalIndex": 865
+        "originalIndex": 867
     },
     {
         "name": "Azar C1",
@@ -33322,7 +33424,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/tInZp5F.jpg",
         "costume_id": 1,
-        "originalIndex": 866
+        "originalIndex": 868
     },
     {
         "name": "Azar Toon",
@@ -33359,7 +33461,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/Mwzt0jr.jpg",
         "costume_id": 2,
-        "originalIndex": 867
+        "originalIndex": 869
     },
     {
         "name": "Azar Glass",
@@ -33397,7 +33499,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://imgur.com/rj0CDGr.jpg",
         "costume_id": 3,
-        "originalIndex": 868
+        "originalIndex": 870
     },
     {
         "name": "Bagreg",
@@ -33439,7 +33541,7 @@ window.allHeroes =
         "family": "nightmaresofatlantis",
         "image": "https://i.imgur.com/rzvavLk.jpg",
         "costume_id": 0,
-        "originalIndex": 869
+        "originalIndex": 871
     },
     {
         "name": "Bagreg C1",
@@ -33482,7 +33584,7 @@ window.allHeroes =
         "family": "nightmaresofatlantis",
         "image": "https://imgur.com/ZuRts32.jpg",
         "costume_id": 1,
-        "originalIndex": 870
+        "originalIndex": 872
     },
     {
         "name": "Basil",
@@ -33521,7 +33623,7 @@ window.allHeroes =
         "family": "abysshunter",
         "image": "https://i.imgur.com/WxAALcm.jpg",
         "costume_id": 0,
-        "originalIndex": 871
+        "originalIndex": 873
     },
     {
         "name": "Bauchan",
@@ -33557,7 +33659,7 @@ window.allHeroes =
         "family": "avalon",
         "image": "https://i.imgur.com/EA1ItRL.jpg",
         "costume_id": 0,
-        "originalIndex": 872
+        "originalIndex": 874
     },
     {
         "name": "Boots",
@@ -33597,7 +33699,7 @@ window.allHeroes =
         "family": "goblin",
         "image": "https://i.imgur.com/JAko0SJ.jpg",
         "costume_id": 0,
-        "originalIndex": 873
+        "originalIndex": 875
     },
     {
         "name": "Buster",
@@ -33633,7 +33735,7 @@ window.allHeroes =
         "family": "christmas",
         "image": "https://i.imgur.com/LgUJQa9.jpg",
         "costume_id": 0,
-        "originalIndex": 874
+        "originalIndex": 876
     },
     {
         "name": "Dante",
@@ -33679,7 +33781,7 @@ window.allHeroes =
         "family": "styx",
         "image": "https://i.imgur.com/FNkLC6z.jpg",
         "costume_id": 0,
-        "originalIndex": 875
+        "originalIndex": 877
     },
     {
         "name": "Ei-Dunn",
@@ -33712,7 +33814,7 @@ window.allHeroes =
         "family": "niflheim",
         "image": "https://i.imgur.com/RabUqBI.jpg",
         "costume_id": 0,
-        "originalIndex": 876
+        "originalIndex": 878
     },
     {
         "name": "Ei-Dunn C1",
@@ -33745,7 +33847,7 @@ window.allHeroes =
         "family": "niflheim",
         "image": "https://i.imgur.com/Zi5MdT5.jpg",
         "costume_id": 1,
-        "originalIndex": 877
+        "originalIndex": 879
     },
     {
         "name": "Fawn",
@@ -33781,7 +33883,7 @@ window.allHeroes =
         "family": "stag",
         "image": "https://i.imgur.com/qV2EnaJ.jpg",
         "costume_id": 0,
-        "originalIndex": 878
+        "originalIndex": 880
     },
     {
         "name": "Hawkmoon",
@@ -33798,7 +33900,7 @@ window.allHeroes =
             "Healers"
         ],
         "source": "S1-Classic",
-        "Release date": "2017-01-01",
+        "Release date": "2017-03-01",
         "star": 3,
         "power": 444,
         "attack": 474,
@@ -33811,7 +33913,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/6ZyfSsX.jpg",
         "costume_id": 0,
-        "originalIndex": 879
+        "originalIndex": 881
     },
     {
         "name": "Hawkmoon C1",
@@ -33830,7 +33932,7 @@ window.allHeroes =
             "Heal over Time (HoT)"
         ],
         "source": "S1-Classic",
-        "Release date": "2020-01-01",
+        "Release date": "2020-01-20",
         "star": 3,
         "power": 468,
         "attack": 492,
@@ -33844,7 +33946,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/FY7tylo.jpg",
         "costume_id": 1,
-        "originalIndex": 880
+        "originalIndex": 882
     },
     {
         "name": "Hawkmoon Toon",
@@ -33879,7 +33981,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/hDOgs06.jpg",
         "costume_id": 2,
-        "originalIndex": 881
+        "originalIndex": 883
     },
     {
         "name": "Helgi",
@@ -33921,7 +34023,7 @@ window.allHeroes =
         "family": "nidavellir",
         "image": "https://i.imgur.com/URDTarn.jpg",
         "costume_id": 0,
-        "originalIndex": 882
+        "originalIndex": 884
     },
     {
         "name": "Jahangir",
@@ -33940,7 +34042,7 @@ window.allHeroes =
             "DoT Attackers"
         ],
         "source": "S1-Classic",
-        "Release date": "2017-01-01",
+        "Release date": "2017-03-01",
         "star": 3,
         "power": 445,
         "attack": 498,
@@ -33954,7 +34056,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/7oZTOqz.jpg",
         "costume_id": 0,
-        "originalIndex": 883
+        "originalIndex": 885
     },
     {
         "name": "Jahangir C1",
@@ -33987,7 +34089,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/IPO19rX.jpg",
         "costume_id": 1,
-        "originalIndex": 884
+        "originalIndex": 886
     },
     {
         "name": "Jahangir Toon",
@@ -34024,7 +34126,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/nGXpTVa.jpg",
         "costume_id": 2,
-        "originalIndex": 885
+        "originalIndex": 887
     },
     {
         "name": "Jahangir Glass",
@@ -34061,7 +34163,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/r8eT1gi.jpg",
         "costume_id": 3,
-        "originalIndex": 886
+        "originalIndex": 888
     },
     {
         "name": "Kornel",
@@ -34100,7 +34202,7 @@ window.allHeroes =
         "family": "magic",
         "image": "https://i.imgur.com/mQovZC2.jpg",
         "costume_id": 0,
-        "originalIndex": 887
+        "originalIndex": 889
     },
     {
         "name": "Li",
@@ -34120,7 +34222,7 @@ window.allHeroes =
             "Minions Summoners"
         ],
         "source": "Three Kingdoms Summon",
-        "Release date": "2022-03-14T12:00:00",
+        "Release date": "2022-03-14",
         "star": 3,
         "power": 483,
         "attack": 481,
@@ -34135,7 +34237,7 @@ window.allHeroes =
         "family": "kingdom",
         "image": "https://i.imgur.com/6qcUvA0.jpg",
         "costume_id": 0,
-        "originalIndex": 888
+        "originalIndex": 890
     },
     {
         "name": "Liu Tang",
@@ -34177,7 +34279,7 @@ window.allHeroes =
         "family": "outlaws",
         "image": "https://imgur.com/7kDzUpm.jpg",
         "costume_id": 0,
-        "originalIndex": 889
+        "originalIndex": 891
     },
     {
         "name": "Namahage",
@@ -34210,7 +34312,7 @@ window.allHeroes =
         "family": "sakura",
         "image": "https://i.imgur.com/7ovDLzi.jpg",
         "costume_id": 0,
-        "originalIndex": 890
+        "originalIndex": 892
     },
     {
         "name": "Nashgar",
@@ -34229,7 +34331,7 @@ window.allHeroes =
             "Snipers"
         ],
         "source": "S1-Classic",
-        "Release date": "2017-01-01",
+        "Release date": "2017-03-01",
         "star": 3,
         "power": 443,
         "attack": 514,
@@ -34243,7 +34345,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/DrsAnEe.jpg",
         "costume_id": 0,
-        "originalIndex": 891
+        "originalIndex": 893
     },
     {
         "name": "Nashgar C1",
@@ -34276,7 +34378,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/DZd6oKm.jpg",
         "costume_id": 1,
-        "originalIndex": 892
+        "originalIndex": 894
     },
     {
         "name": "Nashgar Toon",
@@ -34313,7 +34415,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/SWdSWFa.jpg",
         "costume_id": 2,
-        "originalIndex": 893
+        "originalIndex": 895
     },
     {
         "name": "Phoenicus",
@@ -34346,7 +34448,7 @@ window.allHeroes =
         "family": "wonderland",
         "image": "https://i.imgur.com/zBoeoLf.jpg",
         "costume_id": 0,
-        "originalIndex": 894
+        "originalIndex": 896
     },
     {
         "name": "Rosepetite",
@@ -34384,7 +34486,7 @@ window.allHeroes =
         "family": "moth",
         "image": "https://i.imgur.com/1hAn4iO.jpg",
         "costume_id": 0,
-        "originalIndex": 895
+        "originalIndex": 897
     },
     {
         "name": "Rudolph",
@@ -34405,7 +34507,7 @@ window.allHeroes =
             "Snipers"
         ],
         "source": "Monthly Event-Winter",
-        "Release date": "2017-01-01",
+        "Release date": "2018-12-02",
         "star": 3,
         "power": 448,
         "attack": 540,
@@ -34420,7 +34522,7 @@ window.allHeroes =
         "family": "christmas",
         "image": "https://i.imgur.com/mEYb8Ac.jpg",
         "costume_id": 0,
-        "originalIndex": 896
+        "originalIndex": 898
     },
     {
         "name": "Rufus",
@@ -34459,7 +34561,7 @@ window.allHeroes =
         "family": "pets",
         "image": "https://i.imgur.com/nTxGQkg.jpg",
         "costume_id": 0,
-        "originalIndex": 897
+        "originalIndex": 899
     },
     {
         "name": "Skrekok",
@@ -34492,7 +34594,7 @@ window.allHeroes =
         "family": "villains",
         "image": "https://i.imgur.com/e258l3c.jpg",
         "costume_id": 0,
-        "originalIndex": 898
+        "originalIndex": 900
     },
     {
         "name": "Squire Wabbit",
@@ -34510,7 +34612,7 @@ window.allHeroes =
             "Snipers"
         ],
         "source": "Monthly Event-Springvale",
-        "Release date": "2017-01-01",
+        "Release date": "2018-03-28",
         "star": 3,
         "power": 445,
         "attack": 538,
@@ -34524,7 +34626,7 @@ window.allHeroes =
         "family": "springvale",
         "image": "https://i.imgur.com/545SVXP.jpg",
         "costume_id": 0,
-        "originalIndex": 899
+        "originalIndex": 901
     },
     {
         "name": "Starswift",
@@ -34562,7 +34664,7 @@ window.allHeroes =
         "family": "astralelves",
         "image": "https://i.imgur.com/M18GizO.jpg",
         "costume_id": 0,
-        "originalIndex": 900
+        "originalIndex": 902
     },
     {
         "name": "Sudri",
@@ -34594,7 +34696,7 @@ window.allHeroes =
         "family": "muspelheim",
         "image": "https://i.imgur.com/kbwg0o2.jpg",
         "costume_id": 0,
-        "originalIndex": 901
+        "originalIndex": 903
     },
     {
         "name": "Vollermork",
@@ -34628,7 +34730,7 @@ window.allHeroes =
         "family": "underwild",
         "image": "https://i.imgur.com/mAw3KL3.jpg",
         "costume_id": 0,
-        "originalIndex": 902
+        "originalIndex": 904
     },
     {
         "name": "Vollermork C1",
@@ -34662,7 +34764,7 @@ window.allHeroes =
         "family": "underwild",
         "image": "https://i.imgur.com/RK5dZz5.jpg",
         "costume_id": 1,
-        "originalIndex": 903
+        "originalIndex": 905
     },
     {
         "name": "Waqas",
@@ -34699,7 +34801,7 @@ window.allHeroes =
         "family": "sun",
         "image": "https://i.imgur.com/CWQ9rw6.jpg",
         "costume_id": 0,
-        "originalIndex": 904
+        "originalIndex": 906
     },
     {
         "name": "Waqas C1",
@@ -34738,7 +34840,7 @@ window.allHeroes =
         "family": "sun",
         "image": "https://imgur.com/W7OyLyj.jpg",
         "costume_id": 1,
-        "originalIndex": 905
+        "originalIndex": 907
     },
     {
         "name": "Aodhan",
@@ -34782,7 +34884,7 @@ window.allHeroes =
         "family": "slayer",
         "image": "https://i.imgur.com/81JNp9d.jpg",
         "costume_id": 0,
-        "originalIndex": 906
+        "originalIndex": 908
     },
     {
         "name": "Boldtusk",
@@ -34801,7 +34903,7 @@ window.allHeroes =
             "Healers"
         ],
         "source": "S1-Classic",
-        "Release date": "2017-01-01",
+        "Release date": "2017-03-01",
         "star": 4,
         "power": 644,
         "attack": 588,
@@ -34815,7 +34917,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/K7cfOtS.jpg",
         "costume_id": 0,
-        "originalIndex": 907
+        "originalIndex": 909
     },
     {
         "name": "Boldtusk C1",
@@ -34834,7 +34936,7 @@ window.allHeroes =
             "Healers"
         ],
         "source": "S1-Classic",
-        "Release date": "2020-01-01",
+        "Release date": "2020-01-20",
         "star": 4,
         "power": 680,
         "attack": 621,
@@ -34848,7 +34950,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/ZFrdT4t.jpg",
         "costume_id": 1,
-        "originalIndex": 908
+        "originalIndex": 910
     },
     {
         "name": "Boldtusk C2",
@@ -34882,7 +34984,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/T4p2FAB.jpg",
         "costume_id": 2,
-        "originalIndex": 909
+        "originalIndex": 911
     },
     {
         "name": "Boldtusk Toon",
@@ -34917,7 +35019,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/ufJrKaD.jpg",
         "costume_id": 3,
-        "originalIndex": 910
+        "originalIndex": 912
     },
     {
         "name": "Boldtusk Glass",
@@ -34956,7 +35058,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/lVwUo5n.jpg",
         "costume_id": 4,
-        "originalIndex": 911
+        "originalIndex": 913
     },
     {
         "name": "Carol",
@@ -34992,7 +35094,7 @@ window.allHeroes =
         "family": "christmas",
         "image": "https://i.imgur.com/rj2dz3k.jpg",
         "costume_id": 0,
-        "originalIndex": 912
+        "originalIndex": 914
     },
     {
         "name": "Cillian",
@@ -35034,7 +35136,7 @@ window.allHeroes =
         "family": "slayer",
         "image": "https://i.imgur.com/ema4TPc.jpg",
         "costume_id": 0,
-        "originalIndex": 913
+        "originalIndex": 915
     },
     {
         "name": "Colen",
@@ -35053,7 +35155,7 @@ window.allHeroes =
             "DoT Attackers"
         ],
         "source": "S1-Classic",
-        "Release date": "2017-01-01",
+        "Release date": "2017-03-01",
         "star": 4,
         "power": 643,
         "attack": 728,
@@ -35067,7 +35169,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/eqgOQXS.jpg",
         "costume_id": 0,
-        "originalIndex": 914
+        "originalIndex": 916
     },
     {
         "name": "Colen C1",
@@ -35100,7 +35202,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/pAWbbb8.jpg",
         "costume_id": 1,
-        "originalIndex": 915
+        "originalIndex": 917
     },
     {
         "name": "Colen C2",
@@ -35135,7 +35237,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/2DIxTGe.jpg",
         "costume_id": 2,
-        "originalIndex": 916
+        "originalIndex": 918
     },
     {
         "name": "Colen Toon",
@@ -35172,7 +35274,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/swTTE4N.jpg",
         "costume_id": 3,
-        "originalIndex": 917
+        "originalIndex": 919
     },
     {
         "name": "Colen Glass",
@@ -35210,7 +35312,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://imgur.com/7dLF49j.jpg",
         "costume_id": 4,
-        "originalIndex": 918
+        "originalIndex": 920
     },
     {
         "name": "Eichbelborg",
@@ -35243,7 +35345,7 @@ window.allHeroes =
         "family": "starfall",
         "image": "https://i.imgur.com/B0oW04d.jpg",
         "costume_id": 0,
-        "originalIndex": 919
+        "originalIndex": 921
     },
     {
         "name": "Ferant",
@@ -35275,7 +35377,7 @@ window.allHeroes =
         "family": "wolf",
         "image": "https://i.imgur.com/iJhZeCK.jpg",
         "costume_id": 0,
-        "originalIndex": 920
+        "originalIndex": 922
     },
     {
         "name": "Ferant C1",
@@ -35309,7 +35411,7 @@ window.allHeroes =
         "family": "wolf",
         "image": "https://i.imgur.com/f9WxEPE.jpg",
         "costume_id": 1,
-        "originalIndex": 921
+        "originalIndex": 923
     },
     {
         "name": "Gormek",
@@ -35328,7 +35430,7 @@ window.allHeroes =
             "Debuffers (DEF)"
         ],
         "source": "S1-Classic",
-        "Release date": "2017-01-01",
+        "Release date": "2017-03-01",
         "star": 4,
         "power": 642,
         "attack": 569,
@@ -35342,7 +35444,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/A5zsfun.jpg",
         "costume_id": 0,
-        "originalIndex": 922
+        "originalIndex": 924
     },
     {
         "name": "Gormek C1",
@@ -35377,7 +35479,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/OxaIMH8.jpg",
         "costume_id": 1,
-        "originalIndex": 923
+        "originalIndex": 925
     },
     {
         "name": "Gormek C2",
@@ -35410,7 +35512,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/6XbZQ2N.jpg",
         "costume_id": 2,
-        "originalIndex": 924
+        "originalIndex": 926
     },
     {
         "name": "Gormek Toon",
@@ -35447,7 +35549,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/WFeaXms.jpg",
         "costume_id": 3,
-        "originalIndex": 925
+        "originalIndex": 927
     },
     {
         "name": "Gormek Glass",
@@ -35485,7 +35587,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://imgur.com/k3y9GLJ.jpg",
         "costume_id": 4,
-        "originalIndex": 926
+        "originalIndex": 928
     },
     {
         "name": "Guardian Falcon",
@@ -35504,7 +35606,7 @@ window.allHeroes =
             "Debuffers (DEF)"
         ],
         "source": "Challenge Festival-Guardians",
-        "Release date": "2017-01-01",
+        "Release date": "2017-10-05",
         "star": 4,
         "power": 646,
         "attack": 552,
@@ -35518,7 +35620,7 @@ window.allHeroes =
         "family": "guardiansteltoc",
         "image": "https://i.imgur.com/osWU4RP.jpg",
         "costume_id": 0,
-        "originalIndex": 927
+        "originalIndex": 929
     },
     {
         "name": "Itham",
@@ -35556,7 +35658,7 @@ window.allHeroes =
         "family": "beachparty",
         "image": "https://i.imgur.com/7w0kLrp.jpg",
         "costume_id": 0,
-        "originalIndex": 928
+        "originalIndex": 930
     },
     {
         "name": "Junaid",
@@ -35593,7 +35695,7 @@ window.allHeroes =
         "family": "moon",
         "image": "https://i.imgur.com/9XxU54s.jpg",
         "costume_id": 0,
-        "originalIndex": 929
+        "originalIndex": 931
     },
     {
         "name": "Junaid C1",
@@ -35632,7 +35734,7 @@ window.allHeroes =
         "family": "moon",
         "image": "https://i.imgur.com/4PhQKkZ.jpg",
         "costume_id": 1,
-        "originalIndex": 930
+        "originalIndex": 932
     },
     {
         "name": "Kelile",
@@ -35651,7 +35753,7 @@ window.allHeroes =
             "Snipers"
         ],
         "source": "S1-Classic",
-        "Release date": "2017-01-01",
+        "Release date": "2017-03-01",
         "star": 4,
         "power": 644,
         "attack": 675,
@@ -35665,7 +35767,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/g0FkZzQ.jpg",
         "costume_id": 0,
-        "originalIndex": 931
+        "originalIndex": 933
     },
     {
         "name": "Kelile C1",
@@ -35695,7 +35797,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/EFoCGqV.jpg",
         "costume_id": 1,
-        "originalIndex": 932
+        "originalIndex": 934
     },
     {
         "name": "Kelile C2",
@@ -35729,7 +35831,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/46HnfAG.jpg",
         "costume_id": 2,
-        "originalIndex": 933
+        "originalIndex": 935
     },
     {
         "name": "Kelile Toon",
@@ -35766,7 +35868,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/nj44opt.jpg",
         "costume_id": 3,
-        "originalIndex": 934
+        "originalIndex": 936
     },
     {
         "name": "Kelile Glass",
@@ -35804,7 +35906,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://imgur.com/yqIwVAP.jpg",
         "costume_id": 4,
-        "originalIndex": 935
+        "originalIndex": 937
     },
     {
         "name": "Lemminkainen",
@@ -35839,7 +35941,7 @@ window.allHeroes =
         "family": "kalevala",
         "image": "https://i.imgur.com/f4cHfqp.jpg",
         "costume_id": 0,
-        "originalIndex": 936
+        "originalIndex": 938
     },
     {
         "name": "Lucy",
@@ -35884,7 +35986,7 @@ window.allHeroes =
         "family": "magic",
         "image": "https://i.imgur.com/j3M4iy4.jpg",
         "costume_id": 0,
-        "originalIndex": 937
+        "originalIndex": 939
     },
     {
         "name": "Mack",
@@ -35919,7 +36021,7 @@ window.allHeroes =
         "family": "underwild",
         "image": "https://i.imgur.com/nafpwvj.jpg",
         "costume_id": 0,
-        "originalIndex": 938
+        "originalIndex": 940
     },
     {
         "name": "Mack C1",
@@ -35954,7 +36056,7 @@ window.allHeroes =
         "family": "underwild",
         "image": "https://i.imgur.com/piqOqpg.jpg",
         "costume_id": 1,
-        "originalIndex": 939
+        "originalIndex": 941
     },
     {
         "name": "Maheegan",
@@ -35992,7 +36094,7 @@ window.allHeroes =
         "family": "plainshunter",
         "image": "https://i.imgur.com/c554xVo.jpg",
         "costume_id": 0,
-        "originalIndex": 940
+        "originalIndex": 942
     },
     {
         "name": "Manpip",
@@ -36035,7 +36137,7 @@ window.allHeroes =
         "family": "magiccarpet",
         "image": "https://imgur.com/xf2xQFV.jpg",
         "costume_id": 0,
-        "originalIndex": 941
+        "originalIndex": 943
     },
     {
         "name": "Nova",
@@ -36077,7 +36179,7 @@ window.allHeroes =
         "family": "superelemental",
         "image": "https://i.imgur.com/bsearKJ.jpg",
         "costume_id": 0,
-        "originalIndex": 942
+        "originalIndex": 944
     },
     {
         "name": "Raul",
@@ -36127,7 +36229,7 @@ window.allHeroes =
         "family": "opera",
         "image": "https://i.imgur.com/QmSXHcR.jpg",
         "costume_id": 0,
-        "originalIndex": 943
+        "originalIndex": 945
     },
     {
         "name": "Rokkamush",
@@ -36163,7 +36265,7 @@ window.allHeroes =
         "family": "underwild",
         "image": "https://i.imgur.com/dOWSQgd.jpg",
         "costume_id": 0,
-        "originalIndex": 944
+        "originalIndex": 946
     },
     {
         "name": "Rokkamush C1",
@@ -36199,7 +36301,7 @@ window.allHeroes =
         "family": "underwild",
         "image": "https://i.imgur.com/AXlFl5t.jpg",
         "costume_id": 1,
-        "originalIndex": 945
+        "originalIndex": 947
     },
     {
         "name": "Scarlett",
@@ -36218,7 +36320,7 @@ window.allHeroes =
             "Debuffers (ATK)"
         ],
         "source": "S1-Classic",
-        "Release date": "2017-01-01",
+        "Release date": "2017-03-01",
         "star": 4,
         "power": 640,
         "attack": 767,
@@ -36232,7 +36334,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/rridBLP.jpg",
         "costume_id": 0,
-        "originalIndex": 946
+        "originalIndex": 948
     },
     {
         "name": "Scarlett C1",
@@ -36268,7 +36370,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/t5Qcm7v.jpg",
         "costume_id": 1,
-        "originalIndex": 947
+        "originalIndex": 949
     },
     {
         "name": "Scarlett C2",
@@ -36302,7 +36404,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/Zxh18lV.jpg",
         "costume_id": 2,
-        "originalIndex": 948
+        "originalIndex": 950
     },
     {
         "name": "Scarlett Toon",
@@ -36339,7 +36441,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/uv68SUQ.jpg",
         "costume_id": 3,
-        "originalIndex": 949
+        "originalIndex": 951
     },
     {
         "name": "Shadereave",
@@ -36377,7 +36479,7 @@ window.allHeroes =
         "family": "helheim",
         "image": "https://i.imgur.com/t4qsaZf.jpg",
         "costume_id": 0,
-        "originalIndex": 950
+        "originalIndex": 952
     },
     {
         "name": "Shale",
@@ -36418,7 +36520,7 @@ window.allHeroes =
         "family": "ninja",
         "image": "https://i.imgur.com/MtPyEOT.jpg",
         "costume_id": 0,
-        "originalIndex": 951
+        "originalIndex": 953
     },
     {
         "name": "Sir Lancelot",
@@ -36439,7 +36541,7 @@ window.allHeroes =
             "Snipers"
         ],
         "source": "Challenge Festival-Avalon",
-        "Release date": "2017-01-01",
+        "Release date": "2018-01-05",
         "star": 4,
         "power": 645,
         "attack": 756,
@@ -36454,7 +36556,7 @@ window.allHeroes =
         "family": "avalon",
         "image": "https://i.imgur.com/zyZ5m0r.jpg",
         "costume_id": 0,
-        "originalIndex": 952
+        "originalIndex": 954
     },
     {
         "name": "Sumitomo",
@@ -36490,7 +36592,7 @@ window.allHeroes =
         "family": "sakura",
         "image": "https://i.imgur.com/qnIyV2j.jpg",
         "costume_id": 0,
-        "originalIndex": 953
+        "originalIndex": 955
     },
     {
         "name": "Sumitomo C1",
@@ -36526,7 +36628,7 @@ window.allHeroes =
         "family": "sakura",
         "image": "https://i.imgur.com/kQW2sKb.jpg",
         "costume_id": 1,
-        "originalIndex": 954
+        "originalIndex": 956
     },
     {
         "name": "Sumle",
@@ -36559,7 +36661,7 @@ window.allHeroes =
         "family": "muspelheim",
         "image": "https://i.imgur.com/yxQi63p.jpg",
         "costume_id": 0,
-        "originalIndex": 955
+        "originalIndex": 957
     },
     {
         "name": "Sumle C1",
@@ -36592,7 +36694,7 @@ window.allHeroes =
         "family": "muspelheim",
         "image": "https://i.imgur.com/BBcd7nx.jpg",
         "costume_id": 1,
-        "originalIndex": 956
+        "originalIndex": 958
     },
     {
         "name": "Sun Shangxiang",
@@ -36611,7 +36713,7 @@ window.allHeroes =
             "Debuffers (DEF)"
         ],
         "source": "Three Kingdoms Summon",
-        "Release date": "2022-03-14T12:00:00",
+        "Release date": "2022-03-14",
         "star": 4,
         "power": 682,
         "attack": 782,
@@ -36625,7 +36727,7 @@ window.allHeroes =
         "family": "kingdom",
         "image": "https://i.imgur.com/H5PMlvf.jpg",
         "costume_id": 0,
-        "originalIndex": 957
+        "originalIndex": 959
     },
     {
         "name": "Vonreine",
@@ -36666,7 +36768,7 @@ window.allHeroes =
         "family": "gargoyle",
         "image": "https://i.imgur.com/rPeRNSA.jpg",
         "costume_id": 0,
-        "originalIndex": 958
+        "originalIndex": 960
     },
     {
         "name": "Wilbur",
@@ -36704,7 +36806,7 @@ window.allHeroes =
         "family": "lagoon",
         "image": "https://i.imgur.com/EjclF3b.jpg",
         "costume_id": 0,
-        "originalIndex": 959
+        "originalIndex": 961
     },
     {
         "name": "Wilbur C1",
@@ -36737,7 +36839,7 @@ window.allHeroes =
         "family": "lagoon",
         "image": "https://i.imgur.com/BehrpwT.jpg",
         "costume_id": 1,
-        "originalIndex": 960
+        "originalIndex": 962
     },
     {
         "name": "Zhabog",
@@ -36773,7 +36875,7 @@ window.allHeroes =
         "family": "bard",
         "image": "https://i.imgur.com/GX1p5W9.jpg",
         "costume_id": 0,
-        "originalIndex": 961
+        "originalIndex": 963
     },
     {
         "name": "Zhou Yu",
@@ -36794,7 +36896,7 @@ window.allHeroes =
             "Snipers"
         ],
         "source": "Three Kingdoms Summon",
-        "Release date": "2022-03-14T12:00:00",
+        "Release date": "2022-03-14",
         "star": 4,
         "power": 683,
         "attack": 639,
@@ -36809,7 +36911,7 @@ window.allHeroes =
         "family": "kingdom",
         "image": "https://i.imgur.com/KiDn1jL.jpg",
         "costume_id": 0,
-        "originalIndex": 962
+        "originalIndex": 964
     },
     {
         "name": "Zhou Yu C1",
@@ -36850,7 +36952,7 @@ window.allHeroes =
         "family": "kingdom",
         "image": "https://i.imgur.com/Uiw1osb.jpg",
         "costume_id": 1,
-        "originalIndex": 963
+        "originalIndex": 965
     },
     {
         "name": "Abigail",
@@ -36893,7 +36995,7 @@ window.allHeroes =
         "family": "investigator",
         "image": "https://i.imgur.com/dHcPPcr.jpg",
         "costume_id": 0,
-        "originalIndex": 964
+        "originalIndex": 966
     },
     {
         "name": "Aethslegaur",
@@ -36941,7 +37043,7 @@ window.allHeroes =
         "family": "nidavellir",
         "image": "https://i.imgur.com/rCRyftg.jpg",
         "costume_id": 0,
-        "originalIndex": 965
+        "originalIndex": 967
     },
     {
         "name": "Alucard",
@@ -36983,7 +37085,7 @@ window.allHeroes =
         "family": "morlovia",
         "image": "https://i.imgur.com/ZDIKUNx.jpg",
         "costume_id": 0,
-        "originalIndex": 966
+        "originalIndex": 968
     },
     {
         "name": "Alucard C1",
@@ -37025,7 +37127,7 @@ window.allHeroes =
         "family": "morlovia",
         "image": "https://i.imgur.com/ed8i62p.jpg",
         "costume_id": 1,
-        "originalIndex": 967
+        "originalIndex": 969
     },
     {
         "name": "Amber",
@@ -37063,7 +37165,7 @@ window.allHeroes =
         "family": "morlovia",
         "image": "https://i.imgur.com/PmKUK6y.jpg",
         "costume_id": 0,
-        "originalIndex": 968
+        "originalIndex": 970
     },
     {
         "name": "Andy Jay",
@@ -37103,7 +37205,7 @@ window.allHeroes =
         "family": "beachparty",
         "image": "https://imgur.com/ZWcSNEl.jpg",
         "costume_id": 0,
-        "originalIndex": 969
+        "originalIndex": 971
     },
     {
         "name": "Anzogh",
@@ -37140,7 +37242,7 @@ window.allHeroes =
         "family": 2019,
         "image": "https://i.imgur.com/1Kkc15H.jpg",
         "costume_id": 0,
-        "originalIndex": 970
+        "originalIndex": 972
     },
     {
         "name": "Aradia",
@@ -37177,7 +37279,7 @@ window.allHeroes =
         "family": "maskedgod",
         "image": "https://i.imgur.com/KU4YzVK.jpg",
         "costume_id": 0,
-        "originalIndex": 971
+        "originalIndex": 973
     },
     {
         "name": "Araminta",
@@ -37218,7 +37320,7 @@ window.allHeroes =
         "family": "woodlandfaun",
         "image": "https://i.imgur.com/52hX4ns.jpg",
         "costume_id": 0,
-        "originalIndex": 972
+        "originalIndex": 974
     },
     {
         "name": "Ares",
@@ -37239,7 +37341,7 @@ window.allHeroes =
             "Buffers (DEF)"
         ],
         "source": "Hero of the Month",
-        "Release date": "2017-08-01T00:00:00",
+        "Release date": "2017-08-01",
         "star": 5,
         "power": 765,
         "attack": 659,
@@ -37255,7 +37357,7 @@ window.allHeroes =
         "family": 2017,
         "image": "https://i.imgur.com/KvZBThZ.jpg",
         "costume_id": 0,
-        "originalIndex": 973
+        "originalIndex": 975
     },
     {
         "name": "Ares C1",
@@ -37296,7 +37398,7 @@ window.allHeroes =
         "family": 2017,
         "image": "https://i.imgur.com/Pf1h54r.jpg",
         "costume_id": 1,
-        "originalIndex": 974
+        "originalIndex": 976
     },
     {
         "name": "Ash",
@@ -37337,7 +37439,7 @@ window.allHeroes =
         "family": "superelemental",
         "image": "https://i.imgur.com/Vb0jBsm.jpg",
         "costume_id": 0,
-        "originalIndex": 975
+        "originalIndex": 977
     },
     {
         "name": "Asterius",
@@ -37375,7 +37477,7 @@ window.allHeroes =
         "family": "villains",
         "image": "https://i.imgur.com/i9C7vjL.jpg",
         "costume_id": 0,
-        "originalIndex": 976
+        "originalIndex": 978
     },
     {
         "name": "Aurum",
@@ -37384,7 +37486,7 @@ window.allHeroes =
         "color": "Red",
         "class": "Barbarian",
         "speed": "Charge",
-        "skill": "Rending Dagger",
+        "skill": null,
         "types": [
             "Charge Hit 1/3/5",
             "Bleed Mark",
@@ -37425,7 +37527,7 @@ window.allHeroes =
         "family": "ninja",
         "image": "https://i.imgur.com/ti2OFXj.jpg",
         "costume_id": 0,
-        "originalIndex": 977
+        "originalIndex": 979
     },
     {
         "name": "Azlar",
@@ -37444,7 +37546,7 @@ window.allHeroes =
             "DoT Attackers"
         ],
         "source": "S1-Classic",
-        "Release date": "2017-01-01",
+        "Release date": "2017-03-01",
         "star": 5,
         "power": 757,
         "attack": 793,
@@ -37458,7 +37560,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/wAibSFk.jpg",
         "costume_id": 0,
-        "originalIndex": 978
+        "originalIndex": 980
     },
     {
         "name": "Azlar C1",
@@ -37493,7 +37595,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/TDGgAGz.jpg",
         "costume_id": 1,
-        "originalIndex": 979
+        "originalIndex": 981
     },
     {
         "name": "Azlar C2",
@@ -37527,7 +37629,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/6N4jIyy.jpg",
         "costume_id": 2,
-        "originalIndex": 980
+        "originalIndex": 982
     },
     {
         "name": "Azlar Toon",
@@ -37564,7 +37666,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/yS5bHHw.jpg",
         "costume_id": 3,
-        "originalIndex": 981
+        "originalIndex": 983
     },
     {
         "name": "Azlar Glass",
@@ -37601,7 +37703,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/S5acyh9.jpg",
         "costume_id": 4,
-        "originalIndex": 982
+        "originalIndex": 984
     },
     {
         "name": "Baldur",
@@ -37640,7 +37742,7 @@ window.allHeroes =
         "family": "muspelheim",
         "image": "https://i.imgur.com/bmdaK3F.jpg",
         "costume_id": 0,
-        "originalIndex": 983
+        "originalIndex": 985
     },
     {
         "name": "Baldur C1",
@@ -37680,7 +37782,7 @@ window.allHeroes =
         "family": "muspelheim",
         "image": "https://i.imgur.com/oTqqeuM.jpg",
         "costume_id": 1,
-        "originalIndex": 984
+        "originalIndex": 986
     },
     {
         "name": "Barkley",
@@ -37721,7 +37823,7 @@ window.allHeroes =
         "family": "pets",
         "image": "https://i.imgur.com/X0UJRC3.jpg",
         "costume_id": 0,
-        "originalIndex": 985
+        "originalIndex": 987
     },
     {
         "name": "Bearnadette",
@@ -37762,7 +37864,7 @@ window.allHeroes =
         "family": "bear",
         "image": "https://i.imgur.com/jsqcXVs.jpg",
         "costume_id": 0,
-        "originalIndex": 986
+        "originalIndex": 988
     },
     {
         "name": "Beowulf",
@@ -37807,7 +37909,7 @@ window.allHeroes =
         "family": "beowulf",
         "image": "https://i.imgur.com/KcWPSJ3.jpg",
         "costume_id": 0,
-        "originalIndex": 987
+        "originalIndex": 989
     },
     {
         "name": "Bhima",
@@ -37855,7 +37957,7 @@ window.allHeroes =
         "family": "mahayoddha",
         "image": "https://imgur.com/4yUfzza.jpg",
         "costume_id": 0,
-        "originalIndex": 988
+        "originalIndex": 990
     },
     {
         "name": "Black Caesar",
@@ -37894,7 +37996,7 @@ window.allHeroes =
         "family": "corellia",
         "image": "https://i.imgur.com/5f8UOBL.jpg",
         "costume_id": 0,
-        "originalIndex": 989
+        "originalIndex": 991
     },
     {
         "name": "Black Knight",
@@ -37914,7 +38016,7 @@ window.allHeroes =
             "Taunters"
         ],
         "source": "Challenge Festival-Avalon",
-        "Release date": "2017-01-01",
+        "Release date": "2021-07-09",
         "star": 5,
         "power": 779,
         "attack": 611,
@@ -37929,7 +38031,7 @@ window.allHeroes =
         "family": "avalon",
         "image": "https://i.imgur.com/6so0gHz.jpg",
         "costume_id": 0,
-        "originalIndex": 990
+        "originalIndex": 992
     },
     {
         "name": "Black Knight C1",
@@ -37965,7 +38067,7 @@ window.allHeroes =
         "family": "avalon",
         "image": "https://i.imgur.com/BH9J6dC.jpg",
         "costume_id": 1,
-        "originalIndex": 991
+        "originalIndex": 993
     },
     {
         "name": "Blossom",
@@ -38004,7 +38106,7 @@ window.allHeroes =
         "family": "construct",
         "image": "https://i.imgur.com/4805acd.jpg",
         "costume_id": 0,
-        "originalIndex": 992
+        "originalIndex": 994
     },
     {
         "name": "Bonecrusher",
@@ -38044,7 +38146,7 @@ window.allHeroes =
         "family": "junglehunter",
         "image": "https://i.imgur.com/sBMiou9.jpg",
         "costume_id": 0,
-        "originalIndex": 993
+        "originalIndex": 995
     },
     {
         "name": "Brimstone",
@@ -38091,7 +38193,7 @@ window.allHeroes =
         "family": "construct",
         "image": "https://i.imgur.com/HWR83YI.jpg",
         "costume_id": 0,
-        "originalIndex": 994
+        "originalIndex": 996
     },
     {
         "name": "Captain Kestrel",
@@ -38109,7 +38211,7 @@ window.allHeroes =
             "Extra Damage Dealers"
         ],
         "source": "Challenge Festival-Pirates",
-        "Release date": "2017-01-01",
+        "Release date": "2017-09-07",
         "star": 5,
         "power": 765,
         "attack": 727,
@@ -38123,7 +38225,7 @@ window.allHeroes =
         "family": "corellia",
         "image": "https://i.imgur.com/RcRP80T.jpg",
         "costume_id": 0,
-        "originalIndex": 995
+        "originalIndex": 997
     },
     {
         "name": "Captain Nemo",
@@ -38157,7 +38259,7 @@ window.allHeroes =
         "family": "underwild",
         "image": "https://i.imgur.com/lNl4PPg.jpg",
         "costume_id": 0,
-        "originalIndex": 996
+        "originalIndex": 998
     },
     {
         "name": "Captain Nemo C1",
@@ -38193,7 +38295,7 @@ window.allHeroes =
         "family": "underwild",
         "image": "https://i.imgur.com/UjiSmNx.jpg",
         "costume_id": 1,
-        "originalIndex": 997
+        "originalIndex": 999
     },
     {
         "name": "Cardinal Richelieu",
@@ -38233,7 +38335,7 @@ window.allHeroes =
         "family": "musketeer",
         "image": "https://i.imgur.com/fhxShwu.jpg",
         "costume_id": 0,
-        "originalIndex": 998
+        "originalIndex": 1000
     },
     {
         "name": "Carmenta",
@@ -38271,7 +38373,7 @@ window.allHeroes =
         "family": "maskedgod",
         "image": "https://i.imgur.com/Ud8nASe.jpg",
         "costume_id": 0,
-        "originalIndex": 999
+        "originalIndex": 1001
     },
     {
         "name": "Ceris",
@@ -38316,7 +38418,7 @@ window.allHeroes =
         "family": "astraldwarfs",
         "image": "https://imgur.com/RSa7LWa.jpg",
         "costume_id": 0,
-        "originalIndex": 1000
+        "originalIndex": 1002
     },
     {
         "name": "Charlotta",
@@ -38360,7 +38462,7 @@ window.allHeroes =
         "family": "opera",
         "image": "https://i.imgur.com/SZzrHhg.jpg",
         "costume_id": 0,
-        "originalIndex": 1001
+        "originalIndex": 1003
     },
     {
         "name": "Charmione",
@@ -38402,7 +38504,7 @@ window.allHeroes =
         "family": "slime",
         "image": "https://i.imgur.com/4w6oCQ7.jpg",
         "costume_id": 0,
-        "originalIndex": 1002
+        "originalIndex": 1004
     },
     {
         "name": "Chomper",
@@ -38441,7 +38543,7 @@ window.allHeroes =
         "family": "pets",
         "image": "https://i.imgur.com/5iYa63c.jpg",
         "costume_id": 0,
-        "originalIndex": 1003
+        "originalIndex": 1005
     },
     {
         "name": "Chunkyroi",
@@ -38484,7 +38586,7 @@ window.allHeroes =
         "family": "moth",
         "image": "https://i.imgur.com/APgO5NR.jpg",
         "costume_id": 0,
-        "originalIndex": 1004
+        "originalIndex": 1006
     },
     {
         "name": "Cinderella",
@@ -38527,7 +38629,7 @@ window.allHeroes =
         "family": "grimforest",
         "image": "https://i.imgur.com/8MZHUmV.jpg",
         "costume_id": 0,
-        "originalIndex": 1005
+        "originalIndex": 1007
     },
     {
         "name": "Cleaver",
@@ -38568,7 +38670,7 @@ window.allHeroes =
         "family": "plainshunter",
         "image": "https://i.imgur.com/BcrdLDo.jpg",
         "costume_id": 0,
-        "originalIndex": 1006
+        "originalIndex": 1008
     },
     {
         "name": "Cookie",
@@ -38604,7 +38706,7 @@ window.allHeroes =
         "family": "christmas",
         "image": "https://i.imgur.com/n61JoD1.jpg",
         "costume_id": 0,
-        "originalIndex": 1007
+        "originalIndex": 1009
     },
     {
         "name": "Cupido",
@@ -38641,7 +38743,7 @@ window.allHeroes =
         "family": "cupid",
         "image": "https://i.imgur.com/4hhCXCA.jpg",
         "costume_id": 0,
-        "originalIndex": 1008
+        "originalIndex": 1010
     },
     {
         "name": "D Artagnan",
@@ -38679,7 +38781,7 @@ window.allHeroes =
         "family": "musketeer",
         "image": "https://i.imgur.com/cwvEsxY.jpg",
         "costume_id": 0,
-        "originalIndex": 1009
+        "originalIndex": 1011
     },
     {
         "name": "Daemon",
@@ -38720,7 +38822,7 @@ window.allHeroes =
         "family": "stag",
         "image": "https://i.imgur.com/uaxeVEQ.jpg",
         "costume_id": 0,
-        "originalIndex": 1010
+        "originalIndex": 1012
     },
     {
         "name": "Dima",
@@ -38762,7 +38864,7 @@ window.allHeroes =
         "family": "garrisonguard",
         "image": "https://i.imgur.com/z5rjaIR.jpg",
         "costume_id": 0,
-        "originalIndex": 1011
+        "originalIndex": 1013
     },
     {
         "name": "Domiventus",
@@ -38806,7 +38908,7 @@ window.allHeroes =
         "family": "nightmaresofatlantis",
         "image": "https://i.imgur.com/kgTv3pm.jpg",
         "costume_id": 0,
-        "originalIndex": 1012
+        "originalIndex": 1014
     },
     {
         "name": "Domiventus C1",
@@ -38851,7 +38953,7 @@ window.allHeroes =
         "family": "nightmaresofatlantis",
         "image": "https://i.imgur.com/Bwbja0V.jpg",
         "costume_id": 1,
-        "originalIndex": 1013
+        "originalIndex": 1015
     },
     {
         "name": "Doxan",
@@ -38892,7 +38994,7 @@ window.allHeroes =
         "family": "superelemental",
         "image": "https://i.imgur.com/aM5vSU2.jpg",
         "costume_id": 0,
-        "originalIndex": 1014
+        "originalIndex": 1016
     },
     {
         "name": "Dunnar Hart",
@@ -38937,7 +39039,7 @@ window.allHeroes =
         "family": "bard",
         "image": "https://imgur.com/Yf46q7H.jpg",
         "costume_id": 0,
-        "originalIndex": 1015
+        "originalIndex": 1017
     },
     {
         "name": "Ebba",
@@ -38980,7 +39082,7 @@ window.allHeroes =
         "family": "plainshunter",
         "image": "https://i.imgur.com/TiOunHw.jpg",
         "costume_id": 0,
-        "originalIndex": 1016
+        "originalIndex": 1018
     },
     {
         "name": "El Duque",
@@ -39017,7 +39119,7 @@ window.allHeroes =
         "family": "gargoyle",
         "image": "https://i.imgur.com/37akyr2.jpg",
         "costume_id": 0,
-        "originalIndex": 1017
+        "originalIndex": 1019
     },
     {
         "name": "Elba",
@@ -39055,7 +39157,7 @@ window.allHeroes =
         "family": "cupid",
         "image": "https://i.imgur.com/H1vwtsQ.jpg",
         "costume_id": 0,
-        "originalIndex": 1018
+        "originalIndex": 1020
     },
     {
         "name": "Elena",
@@ -39074,7 +39176,7 @@ window.allHeroes =
             "Counterattackers"
         ],
         "source": "S1-Classic",
-        "Release date": "2017-01-01",
+        "Release date": "2017-03-01",
         "star": 5,
         "power": 753,
         "attack": 809,
@@ -39088,7 +39190,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/DJkMDg0.jpg",
         "costume_id": 0,
-        "originalIndex": 1019
+        "originalIndex": 1021
     },
     {
         "name": "Elena C1",
@@ -39107,7 +39209,7 @@ window.allHeroes =
             "Counterattackers"
         ],
         "source": "S1-Classic",
-        "Release date": "2020-01-01",
+        "Release date": "2020-01-20",
         "star": 5,
         "power": 794,
         "attack": 845,
@@ -39121,7 +39223,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/rs8S0na.jpg",
         "costume_id": 1,
-        "originalIndex": 1020
+        "originalIndex": 1022
     },
     {
         "name": "Elena C2",
@@ -39154,7 +39256,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/mKIsd5g.jpg",
         "costume_id": 2,
-        "originalIndex": 1021
+        "originalIndex": 1023
     },
     {
         "name": "Elena Toon",
@@ -39191,7 +39293,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/6Zu6Ag7.jpg",
         "costume_id": 3,
-        "originalIndex": 1022
+        "originalIndex": 1024
     },
     {
         "name": "Eliane",
@@ -39232,7 +39334,7 @@ window.allHeroes =
         "family": 2025,
         "image": "https://i.imgur.com/MByoToE.jpg",
         "costume_id": 0,
-        "originalIndex": 1023
+        "originalIndex": 1025
     },
     {
         "name": "Elizabeth",
@@ -39272,7 +39374,7 @@ window.allHeroes =
         "family": "underwild",
         "image": "https://i.imgur.com/5redygr.jpg",
         "costume_id": 0,
-        "originalIndex": 1024
+        "originalIndex": 1026
     },
     {
         "name": "Elizabeth C1",
@@ -39315,7 +39417,7 @@ window.allHeroes =
         "family": "underwild",
         "image": "https://i.imgur.com/aGoeueo.jpg",
         "costume_id": 1,
-        "originalIndex": 1025
+        "originalIndex": 1027
     },
     {
         "name": "Ember",
@@ -39354,7 +39456,7 @@ window.allHeroes =
         "family": "fox",
         "image": "https://imgur.com/dTQNPFE.jpg",
         "costume_id": 0,
-        "originalIndex": 1026
+        "originalIndex": 1028
     },
     {
         "name": "Emilio",
@@ -39397,7 +39499,7 @@ window.allHeroes =
         "family": "starfall",
         "image": "https://i.imgur.com/iAnFGWC.jpg",
         "costume_id": 0,
-        "originalIndex": 1027
+        "originalIndex": 1029
     },
     {
         "name": "Emilio C1",
@@ -39442,7 +39544,7 @@ window.allHeroes =
         "family": "starfall",
         "image": "https://imgur.com/Jiz6BXT.jpg",
         "costume_id": 1,
-        "originalIndex": 1028
+        "originalIndex": 1030
     },
     {
         "name": "Erebus",
@@ -39489,7 +39591,7 @@ window.allHeroes =
         "family": "styx",
         "image": "https://i.imgur.com/gnNXm6f.jpg",
         "costume_id": 0,
-        "originalIndex": 1029
+        "originalIndex": 1031
     },
     {
         "name": "Eron",
@@ -39527,7 +39629,7 @@ window.allHeroes =
         "family": "owl",
         "image": "https://i.imgur.com/THCrCkN.jpg",
         "costume_id": 0,
-        "originalIndex": 1030
+        "originalIndex": 1032
     },
     {
         "name": "Experience Mimic",
@@ -39576,7 +39678,7 @@ window.allHeroes =
         "family": "mimic",
         "image": "https://imgur.com/RRFijVL.jpg",
         "costume_id": 0,
-        "originalIndex": 1031
+        "originalIndex": 1033
     },
     {
         "name": "Flamehide",
@@ -39615,7 +39717,7 @@ window.allHeroes =
         "family": "garrisonguard",
         "image": "https://imgur.com/6fcJPYy.jpg",
         "costume_id": 0,
-        "originalIndex": 1032
+        "originalIndex": 1034
     },
     {
         "name": "Flip",
@@ -39654,7 +39756,7 @@ window.allHeroes =
         "family": "beachparty",
         "image": "https://i.imgur.com/VLECZaD.jpg",
         "costume_id": 0,
-        "originalIndex": 1033
+        "originalIndex": 1035
     },
     {
         "name": "Flip C1",
@@ -39693,7 +39795,7 @@ window.allHeroes =
         "family": "beachparty",
         "image": "https://imgur.com/r5YqJOC.jpg",
         "costume_id": 1,
-        "originalIndex": 1034
+        "originalIndex": 1036
     },
     {
         "name": "Fulvia",
@@ -39732,7 +39834,7 @@ window.allHeroes =
         "family": "owl",
         "image": "https://i.imgur.com/Z2G4Lwa.jpg",
         "costume_id": 0,
-        "originalIndex": 1035
+        "originalIndex": 1037
     },
     {
         "name": "Garnet",
@@ -39773,7 +39875,7 @@ window.allHeroes =
         "family": "ninja",
         "image": "https://i.imgur.com/Vxe7UpD.jpg",
         "costume_id": 0,
-        "originalIndex": 1036
+        "originalIndex": 1038
     },
     {
         "name": "Gefjon",
@@ -39806,7 +39908,7 @@ window.allHeroes =
         "family": "muspelheim",
         "image": "https://i.imgur.com/BYGrEEN.jpg",
         "costume_id": 0,
-        "originalIndex": 1037
+        "originalIndex": 1039
     },
     {
         "name": "Gefjon C1",
@@ -39839,7 +39941,7 @@ window.allHeroes =
         "family": "muspelheim",
         "image": "https://i.imgur.com/ZoOkEJb.jpg",
         "costume_id": 1,
-        "originalIndex": 1038
+        "originalIndex": 1040
     },
     {
         "name": "Gestalt",
@@ -39888,7 +39990,7 @@ window.allHeroes =
         "family": "nightmaresofatlantis",
         "image": "https://i.imgur.com/vMt41XY.jpg",
         "costume_id": 0,
-        "originalIndex": 1039
+        "originalIndex": 1041
     },
     {
         "name": "Gestalt C1",
@@ -39938,7 +40040,7 @@ window.allHeroes =
         "family": "nightmaresofatlantis",
         "image": "https://i.imgur.com/WnfoNeZ.jpg",
         "costume_id": 1,
-        "originalIndex": 1040
+        "originalIndex": 1042
     },
     {
         "name": "Gooze",
@@ -39978,7 +40080,7 @@ window.allHeroes =
         "family": "slime",
         "image": "https://imgur.com/GSjZbQW.jpg",
         "costume_id": 0,
-        "originalIndex": 1041
+        "originalIndex": 1043
     },
     {
         "name": "Gravemaker",
@@ -40000,7 +40102,7 @@ window.allHeroes =
             "Buffers (DEF)"
         ],
         "source": "Hero of the Month",
-        "Release date": "2018-06-01T00:00:00",
+        "Release date": "2018-06-01",
         "star": 5,
         "power": 768,
         "attack": 727,
@@ -40016,7 +40118,7 @@ window.allHeroes =
         "family": 2018,
         "image": "https://i.imgur.com/pPTSbFy.jpg",
         "costume_id": 0,
-        "originalIndex": 1042
+        "originalIndex": 1044
     },
     {
         "name": "Gravemaker C1",
@@ -40055,7 +40157,7 @@ window.allHeroes =
         "family": 2018,
         "image": "https://i.imgur.com/qMb0Vgk.jpg",
         "costume_id": 1,
-        "originalIndex": 1043
+        "originalIndex": 1045
     },
     {
         "name": "Grazul",
@@ -40092,7 +40194,7 @@ window.allHeroes =
         "family": 2019,
         "image": "https://i.imgur.com/URTQAvF.jpg",
         "costume_id": 0,
-        "originalIndex": 1044
+        "originalIndex": 1046
     },
     {
         "name": "Guardian Kong",
@@ -40128,7 +40230,7 @@ window.allHeroes =
         "family": "guardiansteltoc",
         "image": "https://i.imgur.com/4n0L387.jpg",
         "costume_id": 0,
-        "originalIndex": 1045
+        "originalIndex": 1047
     },
     {
         "name": "Guardian Kong C1",
@@ -40165,7 +40267,7 @@ window.allHeroes =
         "family": "guardiansteltoc",
         "image": "https://i.imgur.com/cXwWGpL.jpg",
         "costume_id": 1,
-        "originalIndex": 1046
+        "originalIndex": 1048
     },
     {
         "name": "Guffa",
@@ -40207,7 +40309,7 @@ window.allHeroes =
         "family": "gargoyle",
         "image": "https://i.imgur.com/i3PGL4o.jpg",
         "costume_id": 0,
-        "originalIndex": 1047
+        "originalIndex": 1049
     },
     {
         "name": "Hammerclang",
@@ -40249,7 +40351,7 @@ window.allHeroes =
         "family": "astralelves",
         "image": "https://i.imgur.com/ujdL1Bx.jpg",
         "costume_id": 0,
-        "originalIndex": 1048
+        "originalIndex": 1050
     },
     {
         "name": "Hathor",
@@ -40286,7 +40388,7 @@ window.allHeroes =
         "family": "moon",
         "image": "https://i.imgur.com/sV7BVbk.jpg",
         "costume_id": 0,
-        "originalIndex": 1049
+        "originalIndex": 1051
     },
     {
         "name": "Hathor C1",
@@ -40327,7 +40429,7 @@ window.allHeroes =
         "family": "moon",
         "image": "https://i.imgur.com/blidD7L.jpg",
         "costume_id": 1,
-        "originalIndex": 1050
+        "originalIndex": 1052
     },
     {
         "name": "Hohenwerf",
@@ -40367,7 +40469,7 @@ window.allHeroes =
         "family": "gargoyle",
         "image": "https://i.imgur.com/mNDZ6lN.jpg",
         "costume_id": 0,
-        "originalIndex": 1051
+        "originalIndex": 1053
     },
     {
         "name": "Hornfel",
@@ -40409,7 +40511,7 @@ window.allHeroes =
         "family": "construct",
         "image": "https://i.imgur.com/ScWEXwn.jpg",
         "costume_id": 0,
-        "originalIndex": 1052
+        "originalIndex": 1054
     },
     {
         "name": "Hypnos",
@@ -40458,7 +40560,7 @@ window.allHeroes =
         "family": "styx",
         "image": "https://i.imgur.com/HPFyboz.jpg",
         "costume_id": 0,
-        "originalIndex": 1053
+        "originalIndex": 1055
     },
     {
         "name": "Iarlaith",
@@ -40497,7 +40599,7 @@ window.allHeroes =
         "family": "garrisonguard",
         "image": "https://imgur.com/ruIGzTu.jpg",
         "costume_id": 0,
-        "originalIndex": 1054
+        "originalIndex": 1056
     },
     {
         "name": "Ignazio",
@@ -40542,7 +40644,7 @@ window.allHeroes =
         "family": "superelemental",
         "image": "https://i.imgur.com/y6oi4Yq.jpg",
         "costume_id": 0,
-        "originalIndex": 1055
+        "originalIndex": 1057
     },
     {
         "name": "Ignazio C1",
@@ -40587,7 +40689,7 @@ window.allHeroes =
         "family": "superelemental",
         "image": "https://imgur.com/jf9JtOu.jpg",
         "costume_id": 1,
-        "originalIndex": 1056
+        "originalIndex": 1058
     },
     {
         "name": "Ilmarinen",
@@ -40625,7 +40727,7 @@ window.allHeroes =
         "family": "kalevala",
         "image": "https://i.imgur.com/WriV7pU.jpg",
         "costume_id": 0,
-        "originalIndex": 1057
+        "originalIndex": 1059
     },
     {
         "name": "Iocantha",
@@ -40665,7 +40767,7 @@ window.allHeroes =
         "family": "garrisonguard",
         "image": "https://i.imgur.com/mk7552K.jpg",
         "costume_id": 0,
-        "originalIndex": 1058
+        "originalIndex": 1060
     },
     {
         "name": "Isidore",
@@ -40706,7 +40808,7 @@ window.allHeroes =
         "family": "woodlandfaun",
         "image": "https://i.imgur.com/sj8AKxx.jpg",
         "costume_id": 0,
-        "originalIndex": 1059
+        "originalIndex": 1061
     },
     {
         "name": "Isrod",
@@ -40742,7 +40844,7 @@ window.allHeroes =
         "family": "villains",
         "image": "https://i.imgur.com/LVoPJQp.jpg",
         "costume_id": 0,
-        "originalIndex": 1060
+        "originalIndex": 1062
     },
     {
         "name": "Jean-Francois",
@@ -40780,7 +40882,7 @@ window.allHeroes =
         "family": 2020,
         "image": "https://i.imgur.com/Fq9orae.jpg",
         "costume_id": 0,
-        "originalIndex": 1061
+        "originalIndex": 1063
     },
     {
         "name": "Khagan",
@@ -40801,7 +40903,7 @@ window.allHeroes =
             "Mana Generation Buffers"
         ],
         "source": "S1-Classic",
-        "Release date": "2017-01-01",
+        "Release date": "2017-03-01",
         "star": 5,
         "power": 757,
         "attack": 710,
@@ -40816,7 +40918,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/Qk5TZ17.jpg",
         "costume_id": 0,
-        "originalIndex": 1062
+        "originalIndex": 1064
     },
     {
         "name": "Khagan C1",
@@ -40852,7 +40954,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/Wuav96d.jpg",
         "costume_id": 1,
-        "originalIndex": 1063
+        "originalIndex": 1065
     },
     {
         "name": "Khagan C2",
@@ -40888,7 +40990,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/Az13Jne.jpg",
         "costume_id": 2,
-        "originalIndex": 1064
+        "originalIndex": 1066
     },
     {
         "name": "Khagan Toon",
@@ -40928,7 +41030,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/tV5jaYy.jpg",
         "costume_id": 3,
-        "originalIndex": 1065
+        "originalIndex": 1067
     },
     {
         "name": "Khagan Glass",
@@ -40969,7 +41071,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://imgur.com/gv5Agq9.jpg",
         "costume_id": 4,
-        "originalIndex": 1066
+        "originalIndex": 1068
     },
     {
         "name": "Khufu",
@@ -41009,7 +41111,7 @@ window.allHeroes =
         "family": "sun",
         "image": "https://i.imgur.com/waF0HXl.jpg",
         "costume_id": 0,
-        "originalIndex": 1067
+        "originalIndex": 1069
     },
     {
         "name": "Khufu C1",
@@ -41050,7 +41152,7 @@ window.allHeroes =
         "family": "sun",
         "image": "https://i.imgur.com/5tsbayA.jpg",
         "costume_id": 1,
-        "originalIndex": 1068
+        "originalIndex": 1070
     },
     {
         "name": "Kravekrush",
@@ -41086,7 +41188,7 @@ window.allHeroes =
         "family": "underwild",
         "image": "https://i.imgur.com/xMJYpsy.jpg",
         "costume_id": 0,
-        "originalIndex": 1069
+        "originalIndex": 1071
     },
     {
         "name": "Kravekrush C1",
@@ -41123,7 +41225,7 @@ window.allHeroes =
         "family": "underwild",
         "image": "https://i.imgur.com/m5PtQ2l.jpg",
         "costume_id": 1,
-        "originalIndex": 1070
+        "originalIndex": 1072
     },
     {
         "name": "Lady Loki",
@@ -41158,7 +41260,7 @@ window.allHeroes =
         "family": "helheim",
         "image": "https://i.imgur.com/NzRPKjE.jpg",
         "costume_id": 0,
-        "originalIndex": 1071
+        "originalIndex": 1073
     },
     {
         "name": "Lady Loki C1",
@@ -41193,7 +41295,7 @@ window.allHeroes =
         "family": "helheim",
         "image": "https://i.imgur.com/R89Eh1b.jpg",
         "costume_id": 1,
-        "originalIndex": 1072
+        "originalIndex": 1074
     },
     {
         "name": "Lasalle",
@@ -41241,7 +41343,7 @@ window.allHeroes =
         "family": "defendersofatlantis",
         "image": "https://i.imgur.com/bpyUqBe.jpg",
         "costume_id": 0,
-        "originalIndex": 1073
+        "originalIndex": 1075
     },
     {
         "name": "Lasalle C1",
@@ -41289,7 +41391,7 @@ window.allHeroes =
         "family": "defendersofatlantis",
         "image": "https://imgur.com/SU2agg6.jpg",
         "costume_id": 1,
-        "originalIndex": 1074
+        "originalIndex": 1076
     },
     {
         "name": "Lewena",
@@ -41323,7 +41425,7 @@ window.allHeroes =
         "family": "raven",
         "image": "https://i.imgur.com/gUcWHX0.jpg",
         "costume_id": 0,
-        "originalIndex": 1075
+        "originalIndex": 1077
     },
     {
         "name": "Li Kui",
@@ -41369,7 +41471,7 @@ window.allHeroes =
         "family": "outlaws",
         "image": "https://imgur.com/lLZBxt1.jpg",
         "costume_id": 0,
-        "originalIndex": 1076
+        "originalIndex": 1078
     },
     {
         "name": "Lodius",
@@ -41407,7 +41509,7 @@ window.allHeroes =
         "family": "owl",
         "image": "https://i.imgur.com/SHNhyqR.jpg",
         "costume_id": 0,
-        "originalIndex": 1077
+        "originalIndex": 1079
     },
     {
         "name": "Madhammer",
@@ -41449,7 +41551,7 @@ window.allHeroes =
         "family": "goblin",
         "image": "https://i.imgur.com/dPF8ESH.jpg",
         "costume_id": 0,
-        "originalIndex": 1078
+        "originalIndex": 1080
     },
     {
         "name": "Malum",
@@ -41463,7 +41565,8 @@ window.allHeroes =
             "Charge",
             "Max Health Reducer 3",
             "Hit 3",
-            "Bypass"
+            "Bypass",
+            "Damage on each Resisted Healing 3"
         ],
         "skill_types": [
             "Max Health Reducers",
@@ -41501,7 +41604,7 @@ window.allHeroes =
         "family": "ninja",
         "image": "https://i.imgur.com/bcCvi3b.jpg",
         "costume_id": 0,
-        "originalIndex": 1079
+        "originalIndex": 1081
     },
     {
         "name": "Marjana",
@@ -41520,7 +41623,7 @@ window.allHeroes =
             "Snipers"
         ],
         "source": "S1-Classic",
-        "Release date": "2017-01-01",
+        "Release date": "2017-03-01",
         "star": 5,
         "power": 755,
         "attack": 669,
@@ -41534,7 +41637,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/H8u69R9.jpg",
         "costume_id": 0,
-        "originalIndex": 1080
+        "originalIndex": 1082
     },
     {
         "name": "Marjana C1",
@@ -41570,7 +41673,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/E1sWcp1.jpg",
         "costume_id": 1,
-        "originalIndex": 1081
+        "originalIndex": 1083
     },
     {
         "name": "Marjana C2",
@@ -41606,7 +41709,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/onSikNW.jpg",
         "costume_id": 2,
-        "originalIndex": 1082
+        "originalIndex": 1084
     },
     {
         "name": "Marjana Toon",
@@ -41643,7 +41746,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/CuDeIo0.jpg",
         "costume_id": 3,
-        "originalIndex": 1083
+        "originalIndex": 1085
     },
     {
         "name": "Marjana Glass",
@@ -41681,7 +41784,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/wWSeZW9.jpg",
         "costume_id": 4,
-        "originalIndex": 1084
+        "originalIndex": 1086
     },
     {
         "name": "Mitsuko",
@@ -41703,7 +41806,7 @@ window.allHeroes =
             "Reflectors"
         ],
         "source": "S2-Atlantis",
-        "Release date": "2017-01-01",
+        "Release date": "2019-02-01",
         "star": 5,
         "power": 775,
         "attack": 696,
@@ -41718,7 +41821,7 @@ window.allHeroes =
         "family": "sakura",
         "image": "https://i.imgur.com/xMxFVwW.jpg",
         "costume_id": 0,
-        "originalIndex": 1085
+        "originalIndex": 1087
     },
     {
         "name": "Mitsuko C1",
@@ -41755,7 +41858,7 @@ window.allHeroes =
         "family": "sakura",
         "image": "https://i.imgur.com/8AHvvyw.jpg",
         "costume_id": 1,
-        "originalIndex": 1086
+        "originalIndex": 1088
     },
     {
         "name": "Nadezhda",
@@ -41802,7 +41905,7 @@ window.allHeroes =
         "family": "magic",
         "image": "https://i.imgur.com/i5g8Fr0.jpg",
         "costume_id": 0,
-        "originalIndex": 1087
+        "originalIndex": 1089
     },
     {
         "name": "Naeem",
@@ -41847,7 +41950,7 @@ window.allHeroes =
         "family": "magiccarpet",
         "image": "https://imgur.com/F7qBR0P.jpg",
         "costume_id": 0,
-        "originalIndex": 1088
+        "originalIndex": 1090
     },
     {
         "name": "Natalya",
@@ -41868,7 +41971,7 @@ window.allHeroes =
             "Mana Reducers or Blockers"
         ],
         "source": "Hero of the Month",
-        "Release date": "2018-01-01T00:00:00",
+        "Release date": "2018-01-01",
         "star": 5,
         "power": 765,
         "attack": 718,
@@ -41884,7 +41987,7 @@ window.allHeroes =
         "family": 2018,
         "image": "https://i.imgur.com/vuOEJDC.jpg",
         "costume_id": 0,
-        "originalIndex": 1089
+        "originalIndex": 1091
     },
     {
         "name": "Natalya C1",
@@ -41924,7 +42027,7 @@ window.allHeroes =
         "family": 2018,
         "image": "https://i.imgur.com/IO9WHYd.jpg",
         "costume_id": 1,
-        "originalIndex": 1090
+        "originalIndex": 1092
     },
     {
         "name": "Neema",
@@ -41967,7 +42070,7 @@ window.allHeroes =
         "family": 2023,
         "image": "https://i.imgur.com/hih0AUp.jpg",
         "costume_id": 0,
-        "originalIndex": 1091
+        "originalIndex": 1093
     },
     {
         "name": "Nibbles",
@@ -42006,7 +42109,7 @@ window.allHeroes =
         "family": "fox",
         "image": "https://imgur.com/i6CnqeB.jpg",
         "costume_id": 0,
-        "originalIndex": 1092
+        "originalIndex": 1094
     },
     {
         "name": "Niki",
@@ -42047,7 +42150,7 @@ window.allHeroes =
         "family": "superelemental",
         "image": "https://i.imgur.com/yN68oIc.jpg",
         "costume_id": 0,
-        "originalIndex": 1093
+        "originalIndex": 1095
     },
     {
         "name": "Nomad",
@@ -42096,7 +42199,7 @@ window.allHeroes =
         "family": "ninja",
         "image": "https://i.imgur.com/k0TDdBr.jpg",
         "costume_id": 0,
-        "originalIndex": 1094
+        "originalIndex": 1096
     },
     {
         "name": "Noor",
@@ -42136,7 +42239,7 @@ window.allHeroes =
         "family": 2020,
         "image": "https://i.imgur.com/GEznO1b.jpg",
         "costume_id": 0,
-        "originalIndex": 1095
+        "originalIndex": 1097
     },
     {
         "name": "Norman",
@@ -42175,7 +42278,7 @@ window.allHeroes =
         "family": "champions",
         "image": "https://i.imgur.com/xFLIwuu.jpg",
         "costume_id": 0,
-        "originalIndex": 1096
+        "originalIndex": 1098
     },
     {
         "name": "Oceanus",
@@ -42211,7 +42314,7 @@ window.allHeroes =
         "family": "atlantis",
         "image": "https://i.imgur.com/BZVWKzM.jpg",
         "costume_id": 0,
-        "originalIndex": 1097
+        "originalIndex": 1099
     },
     {
         "name": "Octros",
@@ -42248,7 +42351,7 @@ window.allHeroes =
         "family": "underwild",
         "image": "https://i.imgur.com/zGSnaa1.jpg",
         "costume_id": 0,
-        "originalIndex": 1098
+        "originalIndex": 1100
     },
     {
         "name": "Octros C1",
@@ -42287,7 +42390,7 @@ window.allHeroes =
         "family": "underwild",
         "image": "https://i.imgur.com/uAzDRXt.jpg",
         "costume_id": 1,
-        "originalIndex": 1099
+        "originalIndex": 1101
     },
     {
         "name": "Omen",
@@ -42329,7 +42432,7 @@ window.allHeroes =
         "family": "cultist",
         "image": "https://i.imgur.com/lX6ylxv.jpg",
         "costume_id": 0,
-        "originalIndex": 1100
+        "originalIndex": 1102
     },
     {
         "name": "Otis",
@@ -42369,7 +42472,7 @@ window.allHeroes =
         "family": "abysshunter",
         "image": "https://i.imgur.com/z2xqRCU.jpg",
         "costume_id": 0,
-        "originalIndex": 1101
+        "originalIndex": 1103
     },
     {
         "name": "Ottilia",
@@ -42408,7 +42511,7 @@ window.allHeroes =
         "family": "christmas",
         "image": "https://i.imgur.com/Y8kn5Mx.jpg",
         "costume_id": 0,
-        "originalIndex": 1102
+        "originalIndex": 1104
     },
     {
         "name": "Pepperflame",
@@ -42448,7 +42551,7 @@ window.allHeroes =
         "family": "goblin",
         "image": "https://i.imgur.com/O681MYE.jpg",
         "costume_id": 0,
-        "originalIndex": 1103
+        "originalIndex": 1105
     },
     {
         "name": "Phenexa",
@@ -42489,7 +42592,7 @@ window.allHeroes =
         "family": "bard",
         "image": "https://i.imgur.com/LzmbqjK.jpg",
         "costume_id": 0,
-        "originalIndex": 1104
+        "originalIndex": 1106
     },
     {
         "name": "Pluth",
@@ -42531,7 +42634,7 @@ window.allHeroes =
         "family": "astraldwarfs",
         "image": "https://i.imgur.com/OSAvxSD.jpg",
         "costume_id": 0,
-        "originalIndex": 1105
+        "originalIndex": 1107
     },
     {
         "name": "Puss in Boots",
@@ -42553,7 +42656,7 @@ window.allHeroes =
             "Negative Effects On Self Or Allies"
         ],
         "source": "Challenge Festival-Grim Forest",
-        "Release date": "2017-01-01",
+        "Release date": "2019-12-01",
         "star": 5,
         "power": 781,
         "attack": 764,
@@ -42569,7 +42672,7 @@ window.allHeroes =
         "family": "grimforest",
         "image": "https://i.imgur.com/H73nb1h.jpg",
         "costume_id": 0,
-        "originalIndex": 1106
+        "originalIndex": 1108
     },
     {
         "name": "Puss in Boots C1",
@@ -42607,7 +42710,7 @@ window.allHeroes =
         "family": "grimforest",
         "image": "https://i.imgur.com/emXl6nU.jpg",
         "costume_id": 1,
-        "originalIndex": 1107
+        "originalIndex": 1109
     },
     {
         "name": "Queen of Hearts",
@@ -42629,7 +42732,7 @@ window.allHeroes =
             "Taunters"
         ],
         "source": "Challenge Festival-Wonderland",
-        "Release date": "2019-02-01",
+        "Release date": "2019-02-14",
         "star": 5,
         "power": 768,
         "attack": 638,
@@ -42645,7 +42748,7 @@ window.allHeroes =
         "family": "wonderland",
         "image": "https://i.imgur.com/12RLqSK.jpg",
         "costume_id": 0,
-        "originalIndex": 1108
+        "originalIndex": 1110
     },
     {
         "name": "Queen of Hearts C1",
@@ -42685,7 +42788,7 @@ window.allHeroes =
         "family": "wonderland",
         "image": "https://i.imgur.com/q5xoHJ1.jpg",
         "costume_id": 1,
-        "originalIndex": 1109
+        "originalIndex": 1111
     },
     {
         "name": "Rajesh",
@@ -42737,7 +42840,7 @@ window.allHeroes =
         "family": "wildcat",
         "image": "https://i.imgur.com/8rK2qLv.jpg",
         "costume_id": 0,
-        "originalIndex": 1110
+        "originalIndex": 1112
     },
     {
         "name": "Rashan",
@@ -42749,7 +42852,7 @@ window.allHeroes =
         "skill": "Cuts of Hulu",
         "types": [
             "Hit 2",
-            "Insanity 2",
+            "Damage on each Resisted Healing 2",
             "Self Insanity"
         ],
         "skill_types": [
@@ -42775,7 +42878,7 @@ window.allHeroes =
         "family": "cultist",
         "image": "https://i.imgur.com/WJH09pj.jpg",
         "costume_id": 0,
-        "originalIndex": 1111
+        "originalIndex": 1113
     },
     {
         "name": "Ray",
@@ -42831,7 +42934,7 @@ window.allHeroes =
         "family": "magic",
         "image": "https://i.imgur.com/0vSBWSh.jpg",
         "costume_id": 0,
-        "originalIndex": 1112
+        "originalIndex": 1114
     },
     {
         "name": "Red Hood",
@@ -42852,7 +42955,7 @@ window.allHeroes =
             "Minions Summoners"
         ],
         "source": "Challenge Festival-Grim Forest",
-        "Release date": "2017-01-01",
+        "Release date": "2019-12-01",
         "star": 5,
         "power": 767,
         "attack": 729,
@@ -42866,7 +42969,7 @@ window.allHeroes =
         "family": "grimforest",
         "image": "https://i.imgur.com/P4he1aZ.jpg",
         "costume_id": 0,
-        "originalIndex": 1113
+        "originalIndex": 1115
     },
     {
         "name": "Regin",
@@ -42913,7 +43016,7 @@ window.allHeroes =
         "family": "nidavellir",
         "image": "https://i.imgur.com/IX7uDP5.jpg",
         "costume_id": 0,
-        "originalIndex": 1114
+        "originalIndex": 1116
     },
     {
         "name": "Reuben",
@@ -42950,7 +43053,7 @@ window.allHeroes =
         "family": 2020,
         "image": "https://i.imgur.com/0xyk3F5.jpg",
         "costume_id": 0,
-        "originalIndex": 1115
+        "originalIndex": 1117
     },
     {
         "name": "Revna",
@@ -42973,7 +43076,7 @@ window.allHeroes =
             "Reflectors"
         ],
         "source": "Covenant Summon",
-        "Release date": "2024-10-18T11:30:00",
+        "Release date": "2024-10-18",
         "star": 5,
         "power": 1143,
         "attack": 1124,
@@ -42991,7 +43094,7 @@ window.allHeroes =
         "family": "plainshunter",
         "image": "https://i.imgur.com/Uu7gHck.jpg",
         "costume_id": 0,
-        "originalIndex": 1116
+        "originalIndex": 1118
     },
     {
         "name": "Rocket",
@@ -43031,7 +43134,7 @@ window.allHeroes =
         "family": "goblin",
         "image": "https://i.imgur.com/BGl8jIC.jpg",
         "costume_id": 0,
-        "originalIndex": 1117
+        "originalIndex": 1119
     },
     {
         "name": "Rosanna",
@@ -43068,7 +43171,7 @@ window.allHeroes =
         "family": "investigator",
         "image": "https://imgur.com/nHDvy8i.jpg",
         "costume_id": 0,
-        "originalIndex": 1118
+        "originalIndex": 1120
     },
     {
         "name": "Roughian & Nurgib",
@@ -43110,7 +43213,7 @@ window.allHeroes =
         "family": 2023,
         "image": "https://i.imgur.com/zCcV9K1.jpg",
         "costume_id": 0,
-        "originalIndex": 1119
+        "originalIndex": 1121
     },
     {
         "name": "Ruadh",
@@ -43157,7 +43260,7 @@ window.allHeroes =
         "family": "plainshunter",
         "image": "https://i.imgur.com/O01zlXm.jpg",
         "costume_id": 0,
-        "originalIndex": 1120
+        "originalIndex": 1122
     },
     {
         "name": "Ruby",
@@ -43205,7 +43308,7 @@ window.allHeroes =
         "family": "ninja",
         "image": "https://i.imgur.com/LIQiSIc.jpg",
         "costume_id": 0,
-        "originalIndex": 1121
+        "originalIndex": 1123
     },
     {
         "name": "Russell",
@@ -43245,7 +43348,7 @@ window.allHeroes =
         "family": 2021,
         "image": "https://i.imgur.com/EoY0Pni.jpg",
         "costume_id": 0,
-        "originalIndex": 1122
+        "originalIndex": 1124
     },
     {
         "name": "Rust",
@@ -43286,7 +43389,7 @@ window.allHeroes =
         "family": "fox",
         "image": "https://i.imgur.com/4i0UTeY.jpg",
         "costume_id": 0,
-        "originalIndex": 1123
+        "originalIndex": 1125
     },
     {
         "name": "Salimata",
@@ -43329,7 +43432,7 @@ window.allHeroes =
         "family": "bard",
         "image": "https://i.imgur.com/UX2vcRH.jpg",
         "costume_id": 0,
-        "originalIndex": 1124
+        "originalIndex": 1126
     },
     {
         "name": "Santa Claus",
@@ -43368,7 +43471,7 @@ window.allHeroes =
         "family": "christmas",
         "image": "https://i.imgur.com/gDDhARF.jpg",
         "costume_id": 0,
-        "originalIndex": 1125
+        "originalIndex": 1127
     },
     {
         "name": "Santa Claus C1",
@@ -43407,7 +43510,7 @@ window.allHeroes =
         "family": "christmas",
         "image": "https://i.imgur.com/3zbVEXc.jpg",
         "costume_id": 1,
-        "originalIndex": 1126
+        "originalIndex": 1128
     },
     {
         "name": "Saoirse",
@@ -43450,7 +43553,7 @@ window.allHeroes =
         "family": "slayer",
         "image": "https://i.imgur.com/pHj3rld.jpg",
         "costume_id": 0,
-        "originalIndex": 1127
+        "originalIndex": 1129
     },
     {
         "name": "Saoirse C1",
@@ -43495,7 +43598,7 @@ window.allHeroes =
         "family": "slayer",
         "image": "https://i.imgur.com/yHVhyhO.jpg",
         "costume_id": 1,
-        "originalIndex": 1128
+        "originalIndex": 1130
     },
     {
         "name": "Scoria",
@@ -43539,7 +43642,7 @@ window.allHeroes =
         "family": "construct",
         "image": "https://i.imgur.com/wqf6SNR.jpg",
         "costume_id": 0,
-        "originalIndex": 1129
+        "originalIndex": 1131
     },
     {
         "name": "Sekhmet",
@@ -43576,7 +43679,7 @@ window.allHeroes =
         "family": "sun",
         "image": "https://i.imgur.com/8oISZes.jpg",
         "costume_id": 0,
-        "originalIndex": 1130
+        "originalIndex": 1132
     },
     {
         "name": "Sekhmet C1",
@@ -43615,7 +43718,7 @@ window.allHeroes =
         "family": "sun",
         "image": "https://i.imgur.com/ykQVLB2.jpg",
         "costume_id": 1,
-        "originalIndex": 1131
+        "originalIndex": 1133
     },
     {
         "name": "Serandite",
@@ -43662,7 +43765,7 @@ window.allHeroes =
         "family": "ninja",
         "image": "https://i.imgur.com/3lmxyeL.jpg",
         "costume_id": 0,
-        "originalIndex": 1132
+        "originalIndex": 1134
     },
     {
         "name": "Skargremar",
@@ -43703,7 +43806,7 @@ window.allHeroes =
         "family": 2023,
         "image": "https://i.imgur.com/biXpSCt.jpg",
         "costume_id": 0,
-        "originalIndex": 1133
+        "originalIndex": 1135
     },
     {
         "name": "Sparklight",
@@ -43745,7 +43848,7 @@ window.allHeroes =
         "family": "astralelves",
         "image": "https://i.imgur.com/wnVpRMp.jpg",
         "costume_id": 0,
-        "originalIndex": 1134
+        "originalIndex": 1136
     },
     {
         "name": "Sun Quan",
@@ -43781,7 +43884,7 @@ window.allHeroes =
         "family": "kingdom",
         "image": "https://i.imgur.com/EShG44Z.jpg",
         "costume_id": 0,
-        "originalIndex": 1135
+        "originalIndex": 1137
     },
     {
         "name": "Sun Quan C1",
@@ -43822,7 +43925,7 @@ window.allHeroes =
         "family": "kingdom",
         "image": "https://i.imgur.com/FrxOT5n.jpg",
         "costume_id": 1,
-        "originalIndex": 1136
+        "originalIndex": 1138
     },
     {
         "name": "Tahir",
@@ -43863,7 +43966,7 @@ window.allHeroes =
         "family": 2022,
         "image": "https://i.imgur.com/CooQRgw.jpg",
         "costume_id": 0,
-        "originalIndex": 1137
+        "originalIndex": 1139
     },
     {
         "name": "Tetisheri",
@@ -43903,7 +44006,7 @@ window.allHeroes =
         "family": "moon",
         "image": "https://i.imgur.com/vkAXXiK.jpg",
         "costume_id": 0,
-        "originalIndex": 1138
+        "originalIndex": 1140
     },
     {
         "name": "Tetisheri C1",
@@ -43944,7 +44047,7 @@ window.allHeroes =
         "family": "moon",
         "image": "https://i.imgur.com/TVr5JnF.jpg",
         "costume_id": 1,
-        "originalIndex": 1139
+        "originalIndex": 1141
     },
     {
         "name": "Timothy",
@@ -43979,7 +44082,7 @@ window.allHeroes =
         "family": "springvale",
         "image": "https://i.imgur.com/64Tdmgl.jpg",
         "costume_id": 0,
-        "originalIndex": 1140
+        "originalIndex": 1142
     },
     {
         "name": "Torben",
@@ -44018,7 +44121,7 @@ window.allHeroes =
         "family": "bear",
         "image": "https://i.imgur.com/bzqfe23.jpg",
         "costume_id": 0,
-        "originalIndex": 1141
+        "originalIndex": 1143
     },
     {
         "name": "Tyr",
@@ -44043,7 +44146,7 @@ window.allHeroes =
             "Snipers"
         ],
         "source": "S3-Valhalla",
-        "Release date": "2017-01-01",
+        "Release date": "2020-02-28",
         "star": 5,
         "power": 790,
         "attack": 772,
@@ -44060,7 +44163,7 @@ window.allHeroes =
         "family": "helheim",
         "image": "https://i.imgur.com/tjoH1nb.jpg",
         "costume_id": 0,
-        "originalIndex": 1142
+        "originalIndex": 1144
     },
     {
         "name": "Tyr C1",
@@ -44100,7 +44203,7 @@ window.allHeroes =
         "family": "helheim",
         "image": "https://i.imgur.com/7UO34fo.jpg",
         "costume_id": 1,
-        "originalIndex": 1143
+        "originalIndex": 1145
     },
     {
         "name": "Ukkonen",
@@ -44141,7 +44244,7 @@ window.allHeroes =
         "family": "kalevala",
         "image": "https://i.imgur.com/tAIchka.jpg",
         "costume_id": 0,
-        "originalIndex": 1144
+        "originalIndex": 1146
     },
     {
         "name": "Ukkonen C1",
@@ -44182,7 +44285,7 @@ window.allHeroes =
         "family": "kalevala",
         "image": "https://i.imgur.com/0QCrvIl.jpg",
         "costume_id": 1,
-        "originalIndex": 1145
+        "originalIndex": 1147
     },
     {
         "name": "Vanda",
@@ -44221,7 +44324,7 @@ window.allHeroes =
         "family": "morlovia",
         "image": "https://i.imgur.com/FsFObHs.jpg",
         "costume_id": 0,
-        "originalIndex": 1146
+        "originalIndex": 1148
     },
     {
         "name": "Vanda C1",
@@ -44260,7 +44363,7 @@ window.allHeroes =
         "family": "morlovia",
         "image": "https://i.imgur.com/yADk9kZ.jpg",
         "costume_id": 1,
-        "originalIndex": 1147
+        "originalIndex": 1149
     },
     {
         "name": "Vanya",
@@ -44299,7 +44402,7 @@ window.allHeroes =
         "family": "garrisonguard",
         "image": "https://i.imgur.com/1zUxxx9.jpg",
         "costume_id": 0,
-        "originalIndex": 1148
+        "originalIndex": 1150
     },
     {
         "name": "Xenda",
@@ -44339,7 +44442,7 @@ window.allHeroes =
         "family": "underwild",
         "image": "https://i.imgur.com/pr4mBGS.jpg",
         "costume_id": 0,
-        "originalIndex": 1149
+        "originalIndex": 1151
     },
     {
         "name": "Xenda C1",
@@ -44380,7 +44483,7 @@ window.allHeroes =
         "family": "underwild",
         "image": "https://i.imgur.com/QhwvGtU.jpg",
         "costume_id": 1,
-        "originalIndex": 1150
+        "originalIndex": 1152
     },
     {
         "name": "Xiaotu",
@@ -44392,7 +44495,7 @@ window.allHeroes =
         "skill": "Reverse Recovery",
         "types": [
             "Hit 1",
-            "Resist Healing 3"
+            "Damage on each Resisted Healing 3"
         ],
         "skill_types": [
             "Healing Reducers",
@@ -44416,7 +44519,7 @@ window.allHeroes =
         "family": "lunaryear",
         "image": "https://i.imgur.com/BFeoiOp.jpg",
         "costume_id": 0,
-        "originalIndex": 1151
+        "originalIndex": 1153
     },
     {
         "name": "Xiwangmu",
@@ -44455,7 +44558,7 @@ window.allHeroes =
         "family": "journey",
         "image": "https://i.imgur.com/f2m1LGV.jpg",
         "costume_id": 0,
-        "originalIndex": 1152
+        "originalIndex": 1154
     },
     {
         "name": "Yang Mai",
@@ -44497,7 +44600,7 @@ window.allHeroes =
         "family": 2021,
         "image": "https://i.imgur.com/vzzuVpu.jpg",
         "costume_id": 0,
-        "originalIndex": 1153
+        "originalIndex": 1155
     },
     {
         "name": "Yolanda",
@@ -44537,7 +44640,7 @@ window.allHeroes =
         "family": "woodlandfaun",
         "image": "https://imgur.com/5U97Fz9.jpg",
         "costume_id": 0,
-        "originalIndex": 1154
+        "originalIndex": 1156
     },
     {
         "name": "Zagrog",
@@ -44577,7 +44680,7 @@ window.allHeroes =
         "family": 2022,
         "image": "https://i.imgur.com/jTxW191.jpg",
         "costume_id": 0,
-        "originalIndex": 1155
+        "originalIndex": 1157
     },
     {
         "name": "Zarga",
@@ -44618,7 +44721,7 @@ window.allHeroes =
         "family": 2024,
         "image": "https://i.imgur.com/Xh5bTXR.jpg",
         "costume_id": 0,
-        "originalIndex": 1156
+        "originalIndex": 1158
     },
     {
         "name": "Zaria",
@@ -44657,7 +44760,7 @@ window.allHeroes =
         "family": "superelemental",
         "image": "https://i.imgur.com/kfVoysd.jpg",
         "costume_id": 0,
-        "originalIndex": 1157
+        "originalIndex": 1159
     },
     {
         "name": "Zenobia",
@@ -44696,7 +44799,7 @@ window.allHeroes =
         "family": "underwild",
         "image": "https://i.imgur.com/H6eN1G6.jpg",
         "costume_id": 0,
-        "originalIndex": 1158
+        "originalIndex": 1160
     },
     {
         "name": "Zenobia C1",
@@ -44716,7 +44819,7 @@ window.allHeroes =
             "Buffers (ATK)",
             "Snipers",
             "Debuffers (ATK)",
-            "Buffers(ATK)",
+            "Buffers (ATK)",
             "Extra Damage Dealers"
         ],
         "source": "S4-Wilderness",
@@ -44737,7 +44840,7 @@ window.allHeroes =
         "family": "underwild",
         "image": "https://i.imgur.com/lrLa3g9.jpg",
         "costume_id": 1,
-        "originalIndex": 1159
+        "originalIndex": 1161
     },
     {
         "name": "Zidane",
@@ -44784,7 +44887,7 @@ window.allHeroes =
         "family": 2024,
         "image": "https://i.imgur.com/csrWBuw.jpg",
         "costume_id": 0,
-        "originalIndex": 1160
+        "originalIndex": 1162
     },
     {
         "name": "Zimkitha",
@@ -44806,7 +44909,7 @@ window.allHeroes =
             "Heal over Time (HoT)"
         ],
         "source": "Hero of the Month",
-        "Release date": "2018-11-01T00:00:00",
+        "Release date": "2018-11-01",
         "star": 5,
         "power": 769,
         "attack": 714,
@@ -44822,7 +44925,7 @@ window.allHeroes =
         "family": 2018,
         "image": "https://i.imgur.com/ZnoCx4D.jpg",
         "costume_id": 0,
-        "originalIndex": 1161
+        "originalIndex": 1163
     },
     {
         "name": "Zimkitha C1",
@@ -44861,7 +44964,7 @@ window.allHeroes =
         "family": 2018,
         "image": "https://i.imgur.com/M65Mn9a.jpg",
         "costume_id": 1,
-        "originalIndex": 1162
+        "originalIndex": 1164
     },
     {
         "name": "Hikaru",
@@ -44878,7 +44981,7 @@ window.allHeroes =
             "Snipers"
         ],
         "source": "S1-Classic",
-        "Release date": "2017-01-01",
+        "Release date": "2017-03-01",
         "star": 1,
         "power": 213,
         "attack": 222,
@@ -44891,7 +44994,7 @@ window.allHeroes =
         "family": null,
         "image": "https://i.imgur.com/siyozo3.jpg",
         "costume_id": 0,
-        "originalIndex": 1163
+        "originalIndex": 1165
     },
     {
         "name": "Kenjiro",
@@ -44908,7 +45011,7 @@ window.allHeroes =
             "AoE Attackers (Hit-5)"
         ],
         "source": "S1-Classic",
-        "Release date": "2017-01-01",
+        "Release date": "2017-03-01",
         "star": 1,
         "power": 211,
         "attack": 205,
@@ -44921,7 +45024,7 @@ window.allHeroes =
         "family": null,
         "image": "https://i.imgur.com/C6MAFbk.jpg",
         "costume_id": 0,
-        "originalIndex": 1164
+        "originalIndex": 1166
     },
     {
         "name": "Hou",
@@ -44938,7 +45041,7 @@ window.allHeroes =
             "Buffers (DEF)"
         ],
         "source": "S1-Classic",
-        "Release date": "2017-01-01",
+        "Release date": "2017-03-01",
         "star": 2,
         "power": 336,
         "attack": 366,
@@ -44951,7 +45054,7 @@ window.allHeroes =
         "family": null,
         "image": "https://i.imgur.com/twn2sqC.jpg",
         "costume_id": 0,
-        "originalIndex": 1165
+        "originalIndex": 1167
     },
     {
         "name": "Nash",
@@ -44970,7 +45073,7 @@ window.allHeroes =
             "Snipers"
         ],
         "source": "S1-Classic",
-        "Release date": "2017-01-01",
+        "Release date": "2017-03-01",
         "star": 2,
         "power": 335,
         "attack": 331,
@@ -44984,7 +45087,7 @@ window.allHeroes =
         "family": null,
         "image": "https://i.imgur.com/HfePtEe.jpg",
         "costume_id": 0,
-        "originalIndex": 1166
+        "originalIndex": 1168
     },
     {
         "name": "Sha Ji",
@@ -45001,7 +45104,7 @@ window.allHeroes =
             "Healers"
         ],
         "source": "S1-Classic",
-        "Release date": "2017-01-01",
+        "Release date": "2017-03-01",
         "star": 2,
         "power": 334,
         "attack": 275,
@@ -45014,7 +45117,7 @@ window.allHeroes =
         "family": null,
         "image": "https://i.imgur.com/OCarZIF.jpg",
         "costume_id": 0,
-        "originalIndex": 1167
+        "originalIndex": 1169
     },
     {
         "name": "Agnes",
@@ -45046,7 +45149,7 @@ window.allHeroes =
         "family": "asgard",
         "image": "https://i.imgur.com/epjHmoJ.jpg",
         "costume_id": 0,
-        "originalIndex": 1168
+        "originalIndex": 1170
     },
     {
         "name": "Arman",
@@ -45069,7 +45172,7 @@ window.allHeroes =
             "Healing Reducers"
         ],
         "source": "Monthly Event-Sand Empire",
-        "Release date": "2017-01-01",
+        "Release date": "2018-06-21",
         "star": 3,
         "power": 448,
         "attack": 477,
@@ -45085,7 +45188,7 @@ window.allHeroes =
         "family": "sand",
         "image": "https://i.imgur.com/N88uqSK.jpg",
         "costume_id": 0,
-        "originalIndex": 1169
+        "originalIndex": 1171
     },
     {
         "name": "Bane",
@@ -45104,7 +45207,7 @@ window.allHeroes =
             "Snipers"
         ],
         "source": "S1-Classic",
-        "Release date": "2017-01-01",
+        "Release date": "2017-03-01",
         "star": 3,
         "power": 440,
         "attack": 469,
@@ -45118,7 +45221,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/9aCbPHu.jpg",
         "costume_id": 0,
-        "originalIndex": 1170
+        "originalIndex": 1172
     },
     {
         "name": "Bane C1",
@@ -45137,7 +45240,7 @@ window.allHeroes =
             "Snipers"
         ],
         "source": "S1-Classic",
-        "Release date": "2020-01-01",
+        "Release date": "2020-01-20",
         "star": 3,
         "power": 464,
         "attack": 529,
@@ -45151,7 +45254,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/oMyq8FB.jpg",
         "costume_id": 1,
-        "originalIndex": 1171
+        "originalIndex": 1173
     },
     {
         "name": "Bane Toon",
@@ -45188,7 +45291,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/IQ13bAv.jpg",
         "costume_id": 2,
-        "originalIndex": 1172
+        "originalIndex": 1174
     },
     {
         "name": "Bane Glass",
@@ -45226,7 +45329,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://imgur.com/GXkDkIq.jpg",
         "costume_id": 3,
-        "originalIndex": 1173
+        "originalIndex": 1175
     },
     {
         "name": "Bertulf",
@@ -45256,7 +45359,7 @@ window.allHeroes =
         "family": "raven",
         "image": "https://i.imgur.com/0zQumOG.jpg",
         "costume_id": 0,
-        "originalIndex": 1174
+        "originalIndex": 1176
     },
     {
         "name": "Candy",
@@ -45289,7 +45392,7 @@ window.allHeroes =
         "family": "starfall",
         "image": "https://i.imgur.com/JMKpOq5.jpg",
         "costume_id": 0,
-        "originalIndex": 1175
+        "originalIndex": 1177
     },
     {
         "name": "Cedar",
@@ -45329,7 +45432,7 @@ window.allHeroes =
         "family": "junglehunter",
         "image": "https://i.imgur.com/occTuk0.jpg",
         "costume_id": 0,
-        "originalIndex": 1176
+        "originalIndex": 1178
     },
     {
         "name": "Cthuwu",
@@ -45364,7 +45467,7 @@ window.allHeroes =
         "family": "cultist",
         "image": "https://i.imgur.com/I6zT7jd.jpg",
         "costume_id": 0,
-        "originalIndex": 1177
+        "originalIndex": 1179
     },
     {
         "name": "Dawa",
@@ -45381,7 +45484,7 @@ window.allHeroes =
             "AoE Attackers (Hit-3)"
         ],
         "source": "S1-Classic",
-        "Release date": "2017-01-01",
+        "Release date": "2017-03-01",
         "star": 3,
         "power": 440,
         "attack": 488,
@@ -45394,7 +45497,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/p1FG8Av.jpg",
         "costume_id": 0,
-        "originalIndex": 1178
+        "originalIndex": 1180
     },
     {
         "name": "Dawa C1",
@@ -45413,7 +45516,7 @@ window.allHeroes =
             "Extra Damage Dealers"
         ],
         "source": "S1-Classic",
-        "Release date": "2021-01-18",
+        "Release date": "2021-01-25",
         "star": 3,
         "power": 463,
         "attack": 527,
@@ -45427,7 +45530,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/4JD88JW.jpg",
         "costume_id": 1,
-        "originalIndex": 1179
+        "originalIndex": 1181
     },
     {
         "name": "Dawa Toon",
@@ -45461,7 +45564,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/O05gU50.jpg",
         "costume_id": 2,
-        "originalIndex": 1180
+        "originalIndex": 1182
     },
     {
         "name": "Dolrak",
@@ -45501,7 +45604,7 @@ window.allHeroes =
         "family": "beachparty",
         "image": "https://i.imgur.com/0vQaoVS.jpg",
         "costume_id": 0,
-        "originalIndex": 1181
+        "originalIndex": 1183
     },
     {
         "name": "Edelaide",
@@ -45539,7 +45642,7 @@ window.allHeroes =
         "family": "plainshunter",
         "image": "https://i.imgur.com/BfXS6GU.jpg",
         "costume_id": 0,
-        "originalIndex": 1182
+        "originalIndex": 1184
     },
     {
         "name": "Felton",
@@ -45579,7 +45682,7 @@ window.allHeroes =
         "family": "musketeer",
         "image": "https://i.imgur.com/KO2VqaC.jpg",
         "costume_id": 0,
-        "originalIndex": 1183
+        "originalIndex": 1185
     },
     {
         "name": "Gan Ju",
@@ -45598,7 +45701,7 @@ window.allHeroes =
             "Snipers"
         ],
         "source": "S1-Classic",
-        "Release date": "2017-01-01",
+        "Release date": "2017-03-01",
         "star": 3,
         "power": 443,
         "attack": 467,
@@ -45612,7 +45715,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/Eor4cBc.jpg",
         "costume_id": 0,
-        "originalIndex": 1184
+        "originalIndex": 1186
     },
     {
         "name": "Gan Ju C1",
@@ -45631,7 +45734,7 @@ window.allHeroes =
             "Snipers"
         ],
         "source": "S1-Classic",
-        "Release date": "2021-01-18",
+        "Release date": "2021-01-25",
         "star": 3,
         "power": 468,
         "attack": 519,
@@ -45645,7 +45748,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/UfGiJQd.jpg",
         "costume_id": 1,
-        "originalIndex": 1185
+        "originalIndex": 1187
     },
     {
         "name": "Gan Ju Toon",
@@ -45682,7 +45785,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/IOY3xaA.jpg",
         "costume_id": 2,
-        "originalIndex": 1186
+        "originalIndex": 1188
     },
     {
         "name": "Gan Ju Glass",
@@ -45720,7 +45823,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/yqqbcRa.jpg",
         "costume_id": 3,
-        "originalIndex": 1187
+        "originalIndex": 1189
     },
     {
         "name": "Jaco",
@@ -45763,7 +45866,7 @@ window.allHeroes =
         "family": "defendersofatlantis",
         "image": "https://i.imgur.com/ne5YJve.jpg",
         "costume_id": 0,
-        "originalIndex": 1188
+        "originalIndex": 1190
     },
     {
         "name": "Jaco C1",
@@ -45807,7 +45910,7 @@ window.allHeroes =
         "family": "defendersofatlantis",
         "image": "https://i.imgur.com/frMuxcb.jpg",
         "costume_id": 1,
-        "originalIndex": 1189
+        "originalIndex": 1191
     },
     {
         "name": "Jolly",
@@ -45846,7 +45949,7 @@ window.allHeroes =
         "family": "christmas",
         "image": "https://i.imgur.com/G067kns.jpg",
         "costume_id": 0,
-        "originalIndex": 1190
+        "originalIndex": 1192
     },
     {
         "name": "Kailani",
@@ -45865,7 +45968,7 @@ window.allHeroes =
             "Damage Sharers"
         ],
         "source": "S1-Classic",
-        "Release date": "2017-01-01",
+        "Release date": "2017-03-01",
         "star": 3,
         "power": 444,
         "attack": 429,
@@ -45879,7 +45982,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/h7fAkgX.jpg",
         "costume_id": 0,
-        "originalIndex": 1191
+        "originalIndex": 1193
     },
     {
         "name": "Kailani C1",
@@ -45898,7 +46001,7 @@ window.allHeroes =
             "Damage Sharers"
         ],
         "source": "S1-Classic",
-        "Release date": "2021-01-18",
+        "Release date": "2021-01-25",
         "star": 3,
         "power": 467,
         "attack": 423,
@@ -45912,7 +46015,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/OOF8ysq.jpg",
         "costume_id": 1,
-        "originalIndex": 1192
+        "originalIndex": 1194
     },
     {
         "name": "Kailani Toon",
@@ -45947,7 +46050,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/6HNw9i7.jpg",
         "costume_id": 2,
-        "originalIndex": 1193
+        "originalIndex": 1195
     },
     {
         "name": "Kailani Glass",
@@ -45986,7 +46089,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/jRBcqpn.jpg",
         "costume_id": 3,
-        "originalIndex": 1194
+        "originalIndex": 1196
     },
     {
         "name": "Kinsaishi",
@@ -46025,7 +46128,7 @@ window.allHeroes =
         "family": "ninja",
         "image": "https://i.imgur.com/X6RI3nP.jpg",
         "costume_id": 0,
-        "originalIndex": 1195
+        "originalIndex": 1197
     },
     {
         "name": "Kvasir",
@@ -46061,7 +46164,7 @@ window.allHeroes =
         "family": "alfheim",
         "image": "https://i.imgur.com/iXRJ2NZ.jpg",
         "costume_id": 0,
-        "originalIndex": 1196
+        "originalIndex": 1198
     },
     {
         "name": "Kvasir C1",
@@ -46096,7 +46199,7 @@ window.allHeroes =
         "family": "alfheim",
         "image": "https://i.imgur.com/3EEFeIL.jpg",
         "costume_id": 1,
-        "originalIndex": 1197
+        "originalIndex": 1199
     },
     {
         "name": "Melia",
@@ -46129,7 +46232,7 @@ window.allHeroes =
         "family": "atlantis",
         "image": "https://i.imgur.com/4LFidrS.jpg",
         "costume_id": 0,
-        "originalIndex": 1198
+        "originalIndex": 1200
     },
     {
         "name": "Melia C1",
@@ -46162,7 +46265,7 @@ window.allHeroes =
         "family": "atlantis",
         "image": "https://i.imgur.com/M7NWE48.jpg",
         "costume_id": 1,
-        "originalIndex": 1199
+        "originalIndex": 1201
     },
     {
         "name": "Paeia",
@@ -46200,7 +46303,7 @@ window.allHeroes =
         "family": "owl",
         "image": "https://i.imgur.com/R9551ZQ.jpg",
         "costume_id": 0,
-        "originalIndex": 1200
+        "originalIndex": 1202
     },
     {
         "name": "Pixie",
@@ -46233,7 +46336,7 @@ window.allHeroes =
         "family": "grimforest",
         "image": "https://i.imgur.com/jFlvi1a.jpg",
         "costume_id": 0,
-        "originalIndex": 1201
+        "originalIndex": 1203
     },
     {
         "name": "Poppy",
@@ -46267,7 +46370,7 @@ window.allHeroes =
         "family": "underwild",
         "image": "https://i.imgur.com/pxiscDG.jpg",
         "costume_id": 0,
-        "originalIndex": 1202
+        "originalIndex": 1204
     },
     {
         "name": "Poppy C1",
@@ -46301,7 +46404,7 @@ window.allHeroes =
         "family": "underwild",
         "image": "https://i.imgur.com/nCfovhZ.jpg",
         "costume_id": 1,
-        "originalIndex": 1203
+        "originalIndex": 1205
     },
     {
         "name": "Rekhetre",
@@ -46338,7 +46441,7 @@ window.allHeroes =
         "family": "sun",
         "image": "https://i.imgur.com/nkaWucV.jpg",
         "costume_id": 0,
-        "originalIndex": 1204
+        "originalIndex": 1206
     },
     {
         "name": "Rekhetre C1",
@@ -46377,7 +46480,7 @@ window.allHeroes =
         "family": "sun",
         "image": "https://i.imgur.com/K31ZD8P.jpg",
         "costume_id": 1,
-        "originalIndex": 1205
+        "originalIndex": 1207
     },
     {
         "name": "Ribbit",
@@ -46416,7 +46519,7 @@ window.allHeroes =
         "family": "pets",
         "image": "https://i.imgur.com/2fpNcNU.jpg",
         "costume_id": 0,
-        "originalIndex": 1206
+        "originalIndex": 1208
     },
     {
         "name": "Rustbeak",
@@ -46459,7 +46562,7 @@ window.allHeroes =
         "family": "construct",
         "image": "https://i.imgur.com/OFz97hb.jpg",
         "costume_id": 0,
-        "originalIndex": 1207
+        "originalIndex": 1209
     },
     {
         "name": "Sally",
@@ -46491,7 +46594,7 @@ window.allHeroes =
         "family": "corellia",
         "image": "https://i.imgur.com/wpH6Nrx.jpg",
         "costume_id": 0,
-        "originalIndex": 1208
+        "originalIndex": 1210
     },
     {
         "name": "Saskia",
@@ -46530,7 +46633,7 @@ window.allHeroes =
         "family": "woodlandfaun",
         "image": "https://i.imgur.com/GNLbvP6.jpg",
         "costume_id": 0,
-        "originalIndex": 1209
+        "originalIndex": 1211
     },
     {
         "name": "Aeschere",
@@ -46573,7 +46676,7 @@ window.allHeroes =
         "family": "beowulf",
         "image": "https://i.imgur.com/b8raA4w.jpg",
         "costume_id": 0,
-        "originalIndex": 1210
+        "originalIndex": 1212
     },
     {
         "name": "Anastasia",
@@ -46616,7 +46719,7 @@ window.allHeroes =
         "family": "magic",
         "image": "https://i.imgur.com/ADu9siF.jpg",
         "costume_id": 0,
-        "originalIndex": 1211
+        "originalIndex": 1213
     },
     {
         "name": "Bellerive",
@@ -46651,7 +46754,7 @@ window.allHeroes =
         "family": "gargoyle",
         "image": "https://i.imgur.com/VIPkm6l.jpg",
         "costume_id": 0,
-        "originalIndex": 1212
+        "originalIndex": 1214
     },
     {
         "name": "Bogart",
@@ -46689,7 +46792,7 @@ window.allHeroes =
         "family": "abysshunter",
         "image": "https://i.imgur.com/Z4N4G0e.jpg",
         "costume_id": 0,
-        "originalIndex": 1213
+        "originalIndex": 1215
     },
     {
         "name": "Chao",
@@ -46708,7 +46811,7 @@ window.allHeroes =
             "Snipers"
         ],
         "source": "S1-Classic",
-        "Release date": "2017-01-01",
+        "Release date": "2017-03-01",
         "star": 4,
         "power": 642,
         "attack": 607,
@@ -46722,7 +46825,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/akseq6D.jpg",
         "costume_id": 0,
-        "originalIndex": 1214
+        "originalIndex": 1216
     },
     {
         "name": "Chao C1",
@@ -46756,7 +46859,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/iiLBfC1.jpg",
         "costume_id": 1,
-        "originalIndex": 1215
+        "originalIndex": 1217
     },
     {
         "name": "Chao C2",
@@ -46789,7 +46892,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/AhEe43s.jpg",
         "costume_id": 2,
-        "originalIndex": 1216
+        "originalIndex": 1218
     },
     {
         "name": "Chao Toon",
@@ -46826,7 +46929,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/SdLEIc0.jpg",
         "costume_id": 3,
-        "originalIndex": 1217
+        "originalIndex": 1219
     },
     {
         "name": "D'Andre",
@@ -46861,7 +46964,7 @@ window.allHeroes =
         "family": "starfall",
         "image": "https://i.imgur.com/XnqMU7V.jpg",
         "costume_id": 0,
-        "originalIndex": 1218
+        "originalIndex": 1220
     },
     {
         "name": "Danzaburo",
@@ -46904,7 +47007,7 @@ window.allHeroes =
         "family": "sakura",
         "image": "https://i.imgur.com/jP1BF2A.jpg",
         "costume_id": 0,
-        "originalIndex": 1219
+        "originalIndex": 1221
     },
     {
         "name": "Danzaburo C1",
@@ -46948,7 +47051,7 @@ window.allHeroes =
         "family": "sakura",
         "image": "https://i.imgur.com/HppFUSU.jpg",
         "costume_id": 1,
-        "originalIndex": 1220
+        "originalIndex": 1222
     },
     {
         "name": "Errin",
@@ -46987,7 +47090,7 @@ window.allHeroes =
         "family": "astraldwarfs",
         "image": "https://imgur.com/iOji58B.jpg",
         "costume_id": 0,
-        "originalIndex": 1221
+        "originalIndex": 1223
     },
     {
         "name": "Fjalar",
@@ -47032,7 +47135,7 @@ window.allHeroes =
         "family": "nidavellir",
         "image": "https://i.imgur.com/iXEEsKX.jpg",
         "costume_id": 0,
-        "originalIndex": 1222
+        "originalIndex": 1224
     },
     {
         "name": "Goldie",
@@ -47072,7 +47175,7 @@ window.allHeroes =
         "family": "goblin",
         "image": "https://i.imgur.com/9Zjrelm.jpg",
         "costume_id": 0,
-        "originalIndex": 1223
+        "originalIndex": 1225
     },
     {
         "name": "Gretel",
@@ -47092,7 +47195,7 @@ window.allHeroes =
             "Mana Reducers or Blockers"
         ],
         "source": "Challenge Festival-Grim Forest",
-        "Release date": "2017-01-01",
+        "Release date": "2018-06-01",
         "star": 4,
         "power": 646,
         "attack": 703,
@@ -47107,7 +47210,7 @@ window.allHeroes =
         "family": "grimforest",
         "image": "https://i.imgur.com/cq0lzx6.jpg",
         "costume_id": 0,
-        "originalIndex": 1224
+        "originalIndex": 1226
     },
     {
         "name": "Griffin",
@@ -47142,7 +47245,7 @@ window.allHeroes =
         "family": "underwild",
         "image": "https://i.imgur.com/MRV1QX0.jpg",
         "costume_id": 0,
-        "originalIndex": 1225
+        "originalIndex": 1227
     },
     {
         "name": "Griffin C1",
@@ -47177,7 +47280,7 @@ window.allHeroes =
         "family": "underwild",
         "image": "https://i.imgur.com/bhRfq5i.jpg",
         "costume_id": 1,
-        "originalIndex": 1226
+        "originalIndex": 1228
     },
     {
         "name": "Gu Dasao",
@@ -47221,7 +47324,7 @@ window.allHeroes =
         "family": "outlaws",
         "image": "https://imgur.com/rTKzhQE.jpg",
         "costume_id": 0,
-        "originalIndex": 1227
+        "originalIndex": 1229
     },
     {
         "name": "Guardian Jackal",
@@ -47240,7 +47343,7 @@ window.allHeroes =
             "Snipers"
         ],
         "source": "Challenge Festival-Guardians",
-        "Release date": "2017-01-01",
+        "Release date": "2017-10-05",
         "star": 4,
         "power": 645,
         "attack": 765,
@@ -47254,7 +47357,7 @@ window.allHeroes =
         "family": "guardiansteltoc",
         "image": "https://i.imgur.com/yQuuDkU.jpg",
         "costume_id": 0,
-        "originalIndex": 1228
+        "originalIndex": 1230
     },
     {
         "name": "Guardian Jackal C1",
@@ -47287,7 +47390,7 @@ window.allHeroes =
         "family": "guardiansteltoc",
         "image": "https://i.imgur.com/SmImrcW.jpg",
         "costume_id": 1,
-        "originalIndex": 1229
+        "originalIndex": 1231
     },
     {
         "name": "Gullinbursti",
@@ -47321,7 +47424,7 @@ window.allHeroes =
         "family": "asgard",
         "image": "https://i.imgur.com/sx7Ooj7.jpg",
         "costume_id": 0,
-        "originalIndex": 1230
+        "originalIndex": 1232
     },
     {
         "name": "Gullinbursti C1",
@@ -47355,7 +47458,7 @@ window.allHeroes =
         "family": "asgard",
         "image": "https://i.imgur.com/0fW6S7f.jpg",
         "costume_id": 1,
-        "originalIndex": 1231
+        "originalIndex": 1233
     },
     {
         "name": "Holly",
@@ -47392,7 +47495,7 @@ window.allHeroes =
         "family": "christmas",
         "image": "https://i.imgur.com/n6rgqje.jpg",
         "costume_id": 0,
-        "originalIndex": 1232
+        "originalIndex": 1234
     },
     {
         "name": "Hu Tao",
@@ -47411,7 +47514,7 @@ window.allHeroes =
             "Debuffers (ATK)"
         ],
         "source": "S1-Classic",
-        "Release date": "2017-01-01",
+        "Release date": "2017-03-01",
         "star": 4,
         "power": 638,
         "attack": 603,
@@ -47426,7 +47529,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/uyASMQ6.jpg",
         "costume_id": 0,
-        "originalIndex": 1233
+        "originalIndex": 1235
     },
     {
         "name": "Hu Tao C1",
@@ -47462,7 +47565,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/vPJgzTp.jpg",
         "costume_id": 1,
-        "originalIndex": 1234
+        "originalIndex": 1236
     },
     {
         "name": "Hu Tao C2",
@@ -47498,7 +47601,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/3xo1OZT.jpg",
         "costume_id": 2,
-        "originalIndex": 1235
+        "originalIndex": 1237
     },
     {
         "name": "Hu Tao Toon",
@@ -47535,7 +47638,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/J3KLB3K.jpg",
         "costume_id": 3,
-        "originalIndex": 1236
+        "originalIndex": 1238
     },
     {
         "name": "Hu Tao Glass",
@@ -47573,7 +47676,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://imgur.com/V32B1dq.jpg",
         "costume_id": 4,
-        "originalIndex": 1237
+        "originalIndex": 1239
     },
     {
         "name": "Lady Woolerton",
@@ -47605,7 +47708,7 @@ window.allHeroes =
         "family": "springvale",
         "image": "https://i.imgur.com/qf9ikj1.jpg",
         "costume_id": 0,
-        "originalIndex": 1238
+        "originalIndex": 1240
     },
     {
         "name": "Li Xiu",
@@ -47624,7 +47727,7 @@ window.allHeroes =
             "Mana Reducers or Blockers"
         ],
         "source": "S1-Classic",
-        "Release date": "2017-01-01",
+        "Release date": "2017-03-01",
         "star": 4,
         "power": 640,
         "attack": 616,
@@ -47638,7 +47741,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/flDK18I.jpg",
         "costume_id": 0,
-        "originalIndex": 1239
+        "originalIndex": 1241
     },
     {
         "name": "Li Xiu C1",
@@ -47657,7 +47760,7 @@ window.allHeroes =
             "Mana Reducers or Blockers"
         ],
         "source": "S1-Classic",
-        "Release date": "2020-01-01",
+        "Release date": "2020-01-20",
         "star": 4,
         "power": 675,
         "attack": 660,
@@ -47671,7 +47774,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/6LRP9pF.jpg",
         "costume_id": 1,
-        "originalIndex": 1240
+        "originalIndex": 1242
     },
     {
         "name": "Li Xiu C2",
@@ -47704,7 +47807,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/kSRi1Vn.jpg",
         "costume_id": 2,
-        "originalIndex": 1241
+        "originalIndex": 1243
     },
     {
         "name": "Li Xiu Toon",
@@ -47741,7 +47844,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/9y6lz7h.jpg",
         "costume_id": 3,
-        "originalIndex": 1242
+        "originalIndex": 1244
     },
     {
         "name": "Li Xiu Glass",
@@ -47779,7 +47882,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/uvZCfR2.jpg",
         "costume_id": 4,
-        "originalIndex": 1243
+        "originalIndex": 1245
     },
     {
         "name": "Mist",
@@ -47817,7 +47920,7 @@ window.allHeroes =
         "family": "midgard",
         "image": "https://i.imgur.com/1FjRHHb.jpg",
         "costume_id": 0,
-        "originalIndex": 1244
+        "originalIndex": 1246
     },
     {
         "name": "Scoratek",
@@ -47857,7 +47960,7 @@ window.allHeroes =
         "family": "moon",
         "image": "https://i.imgur.com/cEv4g9a.jpg",
         "costume_id": 0,
-        "originalIndex": 1245
+        "originalIndex": 1247
     },
     {
         "name": "Scoratek C1",
@@ -47899,7 +48002,7 @@ window.allHeroes =
         "family": "moon",
         "image": "https://i.imgur.com/uNnOzl3.jpg",
         "costume_id": 1,
-        "originalIndex": 1246
+        "originalIndex": 1248
     },
     {
         "name": "Steropes",
@@ -47942,7 +48045,7 @@ window.allHeroes =
         "family": "styx",
         "image": "https://i.imgur.com/JQkhZ6P.jpg",
         "costume_id": 0,
-        "originalIndex": 1247
+        "originalIndex": 1249
     },
     {
         "name": "Voluptas",
@@ -47977,7 +48080,7 @@ window.allHeroes =
         "family": "cupid",
         "image": "https://i.imgur.com/FUJWm4U.jpg",
         "costume_id": 0,
-        "originalIndex": 1248
+        "originalIndex": 1250
     },
     {
         "name": "Waddles",
@@ -48013,7 +48116,7 @@ window.allHeroes =
         "family": "pets",
         "image": "https://i.imgur.com/acvvh6o.jpg",
         "costume_id": 0,
-        "originalIndex": 1249
+        "originalIndex": 1251
     },
     {
         "name": "Wang Yuanji",
@@ -48032,7 +48135,7 @@ window.allHeroes =
             "Health Boosters"
         ],
         "source": "Three Kingdoms Summon",
-        "Release date": "2022-03-14T12:00:00",
+        "Release date": "2022-03-14",
         "star": 4,
         "power": 683,
         "attack": 675,
@@ -48046,7 +48149,7 @@ window.allHeroes =
         "family": "kingdom",
         "image": "https://i.imgur.com/SwBxlgF.jpg",
         "costume_id": 0,
-        "originalIndex": 1250
+        "originalIndex": 1252
     },
     {
         "name": "Wang Yuanji C1",
@@ -48087,7 +48190,7 @@ window.allHeroes =
         "family": "kingdom",
         "image": "https://i.imgur.com/EPCCR66.jpg",
         "costume_id": 1,
-        "originalIndex": 1251
+        "originalIndex": 1253
     },
     {
         "name": "Wu Kong",
@@ -48105,7 +48208,7 @@ window.allHeroes =
             "Negative Effects On Self Or Allies"
         ],
         "source": "S1-Classic",
-        "Release date": "2017-01-01",
+        "Release date": "2017-03-01",
         "star": 4,
         "power": 644,
         "attack": 707,
@@ -48119,7 +48222,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/EZfzNHv.jpg",
         "costume_id": 0,
-        "originalIndex": 1252
+        "originalIndex": 1254
     },
     {
         "name": "Wu Kong C1",
@@ -48151,7 +48254,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/Xt9qUWm.jpg",
         "costume_id": 1,
-        "originalIndex": 1253
+        "originalIndex": 1255
     },
     {
         "name": "Wu Kong C2",
@@ -48182,7 +48285,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/gZEff9Z.jpg",
         "costume_id": 2,
-        "originalIndex": 1254
+        "originalIndex": 1256
     },
     {
         "name": "Wu Kong Toon",
@@ -48215,7 +48318,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/3dV4crJ.jpg",
         "costume_id": 3,
-        "originalIndex": 1255
+        "originalIndex": 1257
     },
     {
         "name": "Zione",
@@ -48256,7 +48359,7 @@ window.allHeroes =
         "family": "superelemental",
         "image": "https://i.imgur.com/b0f7111.jpg",
         "costume_id": 0,
-        "originalIndex": 1256
+        "originalIndex": 1258
     },
     {
         "name": "Akkorog",
@@ -48290,7 +48393,7 @@ window.allHeroes =
         "family": "underwild",
         "image": "https://i.imgur.com/gMyh86R.jpg",
         "costume_id": 0,
-        "originalIndex": 1257
+        "originalIndex": 1259
     },
     {
         "name": "Akkorog C1",
@@ -48330,7 +48433,7 @@ window.allHeroes =
         "family": "underwild",
         "image": "https://i.imgur.com/VvDq081.jpg",
         "costume_id": 1,
-        "originalIndex": 1258
+        "originalIndex": 1260
     },
     {
         "name": "Albin",
@@ -48366,7 +48469,7 @@ window.allHeroes =
         "family": "christmas",
         "image": "https://i.imgur.com/x9XJFnx.jpg",
         "costume_id": 0,
-        "originalIndex": 1259
+        "originalIndex": 1261
     },
     {
         "name": "Alvar",
@@ -48407,7 +48510,7 @@ window.allHeroes =
         "family": "stag",
         "image": "https://i.imgur.com/dIFfVvr.jpg",
         "costume_id": 0,
-        "originalIndex": 1260
+        "originalIndex": 1262
     },
     {
         "name": "Amund",
@@ -48447,7 +48550,7 @@ window.allHeroes =
         "family": "plainshunter",
         "image": "https://i.imgur.com/Cr6rYpC.jpg",
         "costume_id": 0,
-        "originalIndex": 1261
+        "originalIndex": 1263
     },
     {
         "name": "Anne",
@@ -48483,7 +48586,7 @@ window.allHeroes =
         "family": "corellia",
         "image": "https://i.imgur.com/YcbkyW1.jpg",
         "costume_id": 0,
-        "originalIndex": 1262
+        "originalIndex": 1264
     },
     {
         "name": "Anteros",
@@ -48521,7 +48624,7 @@ window.allHeroes =
         "family": "cupid",
         "image": "https://i.imgur.com/ZH2Xuuj.jpg",
         "costume_id": 0,
-        "originalIndex": 1263
+        "originalIndex": 1265
     },
     {
         "name": "Aouda",
@@ -48555,7 +48658,7 @@ window.allHeroes =
         "family": "underwild",
         "image": "https://i.imgur.com/Ri4pkcS.jpg",
         "costume_id": 0,
-        "originalIndex": 1264
+        "originalIndex": 1266
     },
     {
         "name": "Aouda C1",
@@ -48591,7 +48694,7 @@ window.allHeroes =
         "family": "underwild",
         "image": "https://i.imgur.com/8bE9bAk.jpg",
         "costume_id": 1,
-        "originalIndex": 1265
+        "originalIndex": 1267
     },
     {
         "name": "Ashen",
@@ -48635,7 +48738,7 @@ window.allHeroes =
         "family": "fox",
         "image": "https://i.imgur.com/JxS30IU.jpg",
         "costume_id": 0,
-        "originalIndex": 1266
+        "originalIndex": 1268
     },
     {
         "name": "Astrid",
@@ -48675,7 +48778,7 @@ window.allHeroes =
         "family": "bard",
         "image": "https://i.imgur.com/efuZ1Xu.jpg",
         "costume_id": 0,
-        "originalIndex": 1267
+        "originalIndex": 1269
     },
     {
         "name": "Auricarc",
@@ -48718,7 +48821,7 @@ window.allHeroes =
         "family": "moth",
         "image": "https://imgur.com/U5vFSXy.jpg",
         "costume_id": 0,
-        "originalIndex": 1268
+        "originalIndex": 1270
     },
     {
         "name": "Aviana",
@@ -48759,7 +48862,7 @@ window.allHeroes =
         "family": 2024,
         "image": "https://i.imgur.com/0zHJdCL.jpg",
         "costume_id": 0,
-        "originalIndex": 1269
+        "originalIndex": 1271
     },
     {
         "name": "Bai Yeong",
@@ -48799,7 +48902,7 @@ window.allHeroes =
         "family": 2020,
         "image": "https://i.imgur.com/4FIVAWy.jpg",
         "costume_id": 0,
-        "originalIndex": 1270
+        "originalIndex": 1272
     },
     {
         "name": "Baishu",
@@ -48838,7 +48941,7 @@ window.allHeroes =
         "family": "lunaryear",
         "image": "https://i.imgur.com/hMx4yq8.jpg",
         "costume_id": 0,
-        "originalIndex": 1271
+        "originalIndex": 1273
     },
     {
         "name": "Caitlin",
@@ -48883,7 +48986,7 @@ window.allHeroes =
         "family": "slayer",
         "image": "https://i.imgur.com/ERb7z96.jpg",
         "costume_id": 0,
-        "originalIndex": 1272
+        "originalIndex": 1274
     },
     {
         "name": "Caitlin C1",
@@ -48930,7 +49033,7 @@ window.allHeroes =
         "family": "slayer",
         "image": "https://i.imgur.com/JgYBU3i.jpg",
         "costume_id": 1,
-        "originalIndex": 1273
+        "originalIndex": 1275
     },
     {
         "name": "Celidana",
@@ -48971,7 +49074,7 @@ window.allHeroes =
         "family": 2022,
         "image": "https://i.imgur.com/fzHIBe5.jpg",
         "costume_id": 0,
-        "originalIndex": 1274
+        "originalIndex": 1276
     },
     {
         "name": "Christine Daae",
@@ -49020,7 +49123,7 @@ window.allHeroes =
         "family": "opera",
         "image": "https://i.imgur.com/x8CUwhf.jpg",
         "costume_id": 0,
-        "originalIndex": 1275
+        "originalIndex": 1277
     },
     {
         "name": "Cleopatra",
@@ -49058,7 +49161,7 @@ window.allHeroes =
         "family": "sun",
         "image": "https://i.imgur.com/pyEHRBi.jpg",
         "costume_id": 0,
-        "originalIndex": 1276
+        "originalIndex": 1278
     },
     {
         "name": "Cleopatra C1",
@@ -49100,7 +49203,7 @@ window.allHeroes =
         "family": "sun",
         "image": "https://i.imgur.com/BWI4O98.jpg",
         "costume_id": 1,
-        "originalIndex": 1277
+        "originalIndex": 1279
     },
     {
         "name": "Constance",
@@ -49135,7 +49238,7 @@ window.allHeroes =
         "family": "musketeer",
         "image": "https://i.imgur.com/MWL4e5h.jpg",
         "costume_id": 0,
-        "originalIndex": 1278
+        "originalIndex": 1280
     },
     {
         "name": "Dabria",
@@ -49174,7 +49277,7 @@ window.allHeroes =
         "family": "abysshunter",
         "image": "https://i.imgur.com/EUt5N6q.jpg",
         "costume_id": 0,
-        "originalIndex": 1279
+        "originalIndex": 1281
     },
     {
         "name": "Delilah",
@@ -49194,7 +49297,7 @@ window.allHeroes =
             "Minions Summoners"
         ],
         "source": "Hero of the Month",
-        "Release date": "2018-03-01T00:00:00",
+        "Release date": "2018-03-01",
         "star": 5,
         "power": 768,
         "attack": 737,
@@ -49209,7 +49312,7 @@ window.allHeroes =
         "family": 2018,
         "image": "https://i.imgur.com/gbHdhVI.jpg",
         "costume_id": 0,
-        "originalIndex": 1280
+        "originalIndex": 1282
     },
     {
         "name": "Delilah C1",
@@ -49247,7 +49350,7 @@ window.allHeroes =
         "family": 2018,
         "image": "https://i.imgur.com/muqHGtI.jpg",
         "costume_id": 1,
-        "originalIndex": 1281
+        "originalIndex": 1283
     },
     {
         "name": "Devana",
@@ -49290,7 +49393,7 @@ window.allHeroes =
         "family": 2021,
         "image": "https://i.imgur.com/kOGhPnC.jpg",
         "costume_id": 0,
-        "originalIndex": 1282
+        "originalIndex": 1284
     },
     {
         "name": "Director Zuri",
@@ -49326,7 +49429,7 @@ window.allHeroes =
         "family": "starfall",
         "image": "https://i.imgur.com/NrSrxkV.jpg",
         "costume_id": 0,
-        "originalIndex": 1283
+        "originalIndex": 1285
     },
     {
         "name": "Dolores",
@@ -49370,7 +49473,7 @@ window.allHeroes =
         "family": "investigator",
         "image": "https://i.imgur.com/sAavBEB.jpg",
         "costume_id": 0,
-        "originalIndex": 1284
+        "originalIndex": 1286
     },
     {
         "name": "Drake Fong",
@@ -49391,7 +49494,7 @@ window.allHeroes =
             "Buffers (DEF)"
         ],
         "source": "Hero of the Month",
-        "Release date": "2018-08-01T00:00:00",
+        "Release date": "2018-08-01",
         "star": 5,
         "power": 768,
         "attack": 727,
@@ -49406,7 +49509,7 @@ window.allHeroes =
         "family": 2018,
         "image": "https://i.imgur.com/DfnVeiC.jpg",
         "costume_id": 0,
-        "originalIndex": 1285
+        "originalIndex": 1287
     },
     {
         "name": "Drake Fong C1",
@@ -49445,7 +49548,7 @@ window.allHeroes =
         "family": 2018,
         "image": "https://i.imgur.com/31loghP.jpg",
         "costume_id": 1,
-        "originalIndex": 1286
+        "originalIndex": 1288
     },
     {
         "name": "Eloise",
@@ -49480,7 +49583,7 @@ window.allHeroes =
         "family": "raven",
         "image": "https://i.imgur.com/x2Zz9OK.jpg",
         "costume_id": 0,
-        "originalIndex": 1287
+        "originalIndex": 1289
     },
     {
         "name": "Ephyra",
@@ -49526,7 +49629,7 @@ window.allHeroes =
         "family": "defendersofatlantis",
         "image": "https://i.imgur.com/nL4nDAx.jpg",
         "costume_id": 0,
-        "originalIndex": 1288
+        "originalIndex": 1290
     },
     {
         "name": "Ephyra C1",
@@ -49573,7 +49676,7 @@ window.allHeroes =
         "family": "defendersofatlantis",
         "image": "https://imgur.com/CAlgEAJ.jpg",
         "costume_id": 1,
-        "originalIndex": 1289
+        "originalIndex": 1291
     },
     {
         "name": "Erlang Shen",
@@ -49606,7 +49709,7 @@ window.allHeroes =
         "family": "journey",
         "image": "https://i.imgur.com/vft4guR.jpg",
         "costume_id": 0,
-        "originalIndex": 1290
+        "originalIndex": 1292
     },
     {
         "name": "Eset",
@@ -49648,7 +49751,7 @@ window.allHeroes =
         "family": "sun",
         "image": "https://i.imgur.com/0YdsTMt.jpg",
         "costume_id": 0,
-        "originalIndex": 1291
+        "originalIndex": 1293
     },
     {
         "name": "Eset C1",
@@ -49692,7 +49795,7 @@ window.allHeroes =
         "family": "sun",
         "image": "https://imgur.com/4M257qJ.jpg",
         "costume_id": 1,
-        "originalIndex": 1292
+        "originalIndex": 1294
     },
     {
         "name": "Experience Mimic Holy",
@@ -49741,7 +49844,7 @@ window.allHeroes =
         "family": "mimic",
         "image": "https://imgur.com/WAwhfFp.jpg",
         "costume_id": 0,
-        "originalIndex": 1293
+        "originalIndex": 1295
     },
     {
         "name": "Faeona",
@@ -49783,7 +49886,7 @@ window.allHeroes =
         "family": 2024,
         "image": "https://i.imgur.com/plLMCMU.jpg",
         "costume_id": 0,
-        "originalIndex": 1294
+        "originalIndex": 1296
     },
     {
         "name": "Faline",
@@ -49816,7 +49919,7 @@ window.allHeroes =
         "family": "starfall",
         "image": "https://i.imgur.com/8rLI8nK.jpg",
         "costume_id": 0,
-        "originalIndex": 1295
+        "originalIndex": 1297
     },
     {
         "name": "Frank 'Fangs' Brimwell",
@@ -49855,7 +49958,7 @@ window.allHeroes =
         "family": "garrisonguard",
         "image": "https://i.imgur.com/N2blWos.jpg",
         "costume_id": 0,
-        "originalIndex": 1296
+        "originalIndex": 1298
     },
     {
         "name": "Furdinand",
@@ -49901,7 +50004,7 @@ window.allHeroes =
         "family": "pets",
         "image": "https://i.imgur.com/xJBNOD9.jpg",
         "costume_id": 0,
-        "originalIndex": 1297
+        "originalIndex": 1299
     },
     {
         "name": "Gandr",
@@ -49948,7 +50051,7 @@ window.allHeroes =
         "family": "nidavellir",
         "image": "https://i.imgur.com/hNiWYCE.jpg",
         "costume_id": 0,
-        "originalIndex": 1298
+        "originalIndex": 1300
     },
     {
         "name": "Gideon",
@@ -49989,7 +50092,7 @@ window.allHeroes =
         "family": "woodlandfaun",
         "image": "https://i.imgur.com/5Tx3rNq.jpg",
         "costume_id": 0,
-        "originalIndex": 1299
+        "originalIndex": 1301
     },
     {
         "name": "Gilligan",
@@ -50028,7 +50131,7 @@ window.allHeroes =
         "family": 2023,
         "image": "https://i.imgur.com/gcaSLmN.jpg",
         "costume_id": 0,
-        "originalIndex": 1300
+        "originalIndex": 1302
     },
     {
         "name": "Goldrip",
@@ -50067,7 +50170,7 @@ window.allHeroes =
         "family": "slime",
         "image": "https://imgur.com/iqx1d2N.jpg",
         "costume_id": 0,
-        "originalIndex": 1301
+        "originalIndex": 1303
     },
     {
         "name": "Gongniu",
@@ -50106,7 +50209,7 @@ window.allHeroes =
         "family": "lunaryear",
         "image": "https://i.imgur.com/BDNFVzo.jpg",
         "costume_id": 0,
-        "originalIndex": 1302
+        "originalIndex": 1304
     },
     {
         "name": "Gooric",
@@ -50151,7 +50254,7 @@ window.allHeroes =
         "family": "slime",
         "image": "https://i.imgur.com/QoTjDm5.jpg",
         "costume_id": 0,
-        "originalIndex": 1303
+        "originalIndex": 1305
     },
     {
         "name": "Grilka",
@@ -50195,7 +50298,7 @@ window.allHeroes =
         "family": "superelemental",
         "image": "https://i.imgur.com/71dNXYj.jpg",
         "costume_id": 0,
-        "originalIndex": 1304
+        "originalIndex": 1306
     },
     {
         "name": "Guardian Elephant",
@@ -50239,7 +50342,7 @@ window.allHeroes =
         "family": "guardiansteltoc",
         "image": "https://i.imgur.com/oi9Vymu.jpg",
         "costume_id": 0,
-        "originalIndex": 1305
+        "originalIndex": 1307
     },
     {
         "name": "Guardian Gazelle",
@@ -50285,7 +50388,7 @@ window.allHeroes =
         "family": "guardiansteltoc",
         "image": "https://i.imgur.com/B2LpVrC.jpg",
         "costume_id": 0,
-        "originalIndex": 1306
+        "originalIndex": 1308
     },
     {
         "name": "Guardian Gazelle C1",
@@ -50331,7 +50434,7 @@ window.allHeroes =
         "family": "guardiansteltoc",
         "image": "https://i.imgur.com/E5qL0sl.jpg",
         "costume_id": 1,
-        "originalIndex": 1307
+        "originalIndex": 1309
     },
     {
         "name": "Guardian Owl",
@@ -50353,7 +50456,7 @@ window.allHeroes =
             "Heal over Time (HoT)"
         ],
         "source": "Challenge Festival-Guardians",
-        "Release date": "2017-01-01",
+        "Release date": "2017-10-05",
         "star": 5,
         "power": 765,
         "attack": 601,
@@ -50369,7 +50472,7 @@ window.allHeroes =
         "family": "guardiansteltoc",
         "image": "https://i.imgur.com/XO3HIxy.jpg",
         "costume_id": 0,
-        "originalIndex": 1308
+        "originalIndex": 1310
     },
     {
         "name": "Guinevere",
@@ -50390,7 +50493,7 @@ window.allHeroes =
             "Mana Reducers or Blockers"
         ],
         "source": "Challenge Festival-Avalon",
-        "Release date": "2017-01-01",
+        "Release date": "2018-01-05",
         "star": 5,
         "power": 765,
         "attack": 669,
@@ -50405,7 +50508,7 @@ window.allHeroes =
         "family": "avalon",
         "image": "https://i.imgur.com/dYjW9Xa.jpg",
         "costume_id": 0,
-        "originalIndex": 1309
+        "originalIndex": 1311
     },
     {
         "name": "Guinevere C1",
@@ -50442,7 +50545,7 @@ window.allHeroes =
         "family": "avalon",
         "image": "https://i.imgur.com/IeQY7xx.jpg",
         "costume_id": 1,
-        "originalIndex": 1310
+        "originalIndex": 1312
     },
     {
         "name": "Gwynn",
@@ -50483,7 +50586,7 @@ window.allHeroes =
         "family": "construct",
         "image": "https://i.imgur.com/94OEbs6.jpg",
         "costume_id": 0,
-        "originalIndex": 1311
+        "originalIndex": 1313
     },
     {
         "name": "Hachiko",
@@ -50522,7 +50625,7 @@ window.allHeroes =
         "family": "pets",
         "image": "https://i.imgur.com/SMSyQXB.jpg",
         "costume_id": 0,
-        "originalIndex": 1312
+        "originalIndex": 1314
     },
     {
         "name": "Hanitra",
@@ -50560,7 +50663,7 @@ window.allHeroes =
         "family": 2021,
         "image": "https://i.imgur.com/Q6iWdU3.jpg",
         "costume_id": 0,
-        "originalIndex": 1313
+        "originalIndex": 1315
     },
     {
         "name": "Haumri",
@@ -50606,7 +50709,7 @@ window.allHeroes =
         "family": "astraldwarfs",
         "image": "https://imgur.com/VuxizwX.jpg",
         "costume_id": 0,
-        "originalIndex": 1314
+        "originalIndex": 1316
     },
     {
         "name": "Hilda",
@@ -50648,7 +50751,7 @@ window.allHeroes =
         "family": "gargoyle",
         "image": "https://i.imgur.com/Urzke5i.jpg",
         "costume_id": 0,
-        "originalIndex": 1315
+        "originalIndex": 1317
     },
     {
         "name": "Horus",
@@ -50683,7 +50786,7 @@ window.allHeroes =
         "family": "sun",
         "image": "https://i.imgur.com/0Yedhet.jpg",
         "costume_id": 0,
-        "originalIndex": 1316
+        "originalIndex": 1318
     },
     {
         "name": "Horus C1",
@@ -50720,7 +50823,7 @@ window.allHeroes =
         "family": "sun",
         "image": "https://i.imgur.com/fLHpPl2.jpg",
         "costume_id": 1,
-        "originalIndex": 1317
+        "originalIndex": 1319
     },
     {
         "name": "Iga",
@@ -50767,7 +50870,7 @@ window.allHeroes =
         "family": "ninja",
         "image": "https://i.imgur.com/y4ft1xP.jpg",
         "costume_id": 0,
-        "originalIndex": 1318
+        "originalIndex": 1320
     },
     {
         "name": "Inari",
@@ -50789,7 +50892,7 @@ window.allHeroes =
             "AoE Attackers (Hit-5)"
         ],
         "source": "S2-Atlantis",
-        "Release date": "2017-01-01",
+        "Release date": "2019-02-01",
         "star": 5,
         "power": 772,
         "attack": 813,
@@ -50804,7 +50907,7 @@ window.allHeroes =
         "family": "sakura",
         "image": "https://i.imgur.com/MjynoiD.jpg",
         "costume_id": 0,
-        "originalIndex": 1319
+        "originalIndex": 1321
     },
     {
         "name": "Inari C1",
@@ -50841,7 +50944,7 @@ window.allHeroes =
         "family": "sakura",
         "image": "https://i.imgur.com/Q0YpLSK.jpg",
         "costume_id": 1,
-        "originalIndex": 1320
+        "originalIndex": 1322
     },
     {
         "name": "Ironmaw",
@@ -50885,7 +50988,7 @@ window.allHeroes =
         "family": "superelemental",
         "image": "https://i.imgur.com/7BkCCl9.jpg",
         "costume_id": 0,
-        "originalIndex": 1321
+        "originalIndex": 1323
     },
     {
         "name": "Ithar",
@@ -50927,7 +51030,7 @@ window.allHeroes =
         "family": 2023,
         "image": "https://i.imgur.com/DDTIPj2.jpg",
         "costume_id": 0,
-        "originalIndex": 1322
+        "originalIndex": 1324
     },
     {
         "name": "Jana",
@@ -50967,7 +51070,7 @@ window.allHeroes =
         "family": "maskedgod",
         "image": "https://i.imgur.com/4FOeHzK.jpg",
         "costume_id": 0,
-        "originalIndex": 1323
+        "originalIndex": 1325
     },
     {
         "name": "Jasper",
@@ -51004,7 +51107,7 @@ window.allHeroes =
         "family": "springvale",
         "image": "https://i.imgur.com/Fqmw2ti.jpg",
         "costume_id": 0,
-        "originalIndex": 1324
+        "originalIndex": 1326
     },
     {
         "name": "Jasper C1",
@@ -51041,7 +51144,7 @@ window.allHeroes =
         "family": "springvale",
         "image": "https://i.imgur.com/iHZz8KB.jpg",
         "costume_id": 1,
-        "originalIndex": 1325
+        "originalIndex": 1327
     },
     {
         "name": "Jequn",
@@ -51085,7 +51188,7 @@ window.allHeroes =
         "family": "superelemental",
         "image": "https://i.imgur.com/sJ0rROO.jpg",
         "costume_id": 0,
-        "originalIndex": 1326
+        "originalIndex": 1328
     },
     {
         "name": "Jequn C1",
@@ -51129,7 +51232,7 @@ window.allHeroes =
         "family": "superelemental",
         "image": "https://imgur.com/bIp33Sf.jpg",
         "costume_id": 1,
-        "originalIndex": 1327
+        "originalIndex": 1329
     },
     {
         "name": "Joon",
@@ -51148,7 +51251,7 @@ window.allHeroes =
             "Snipers"
         ],
         "source": "S1-Classic",
-        "Release date": "2017-01-01",
+        "Release date": "2017-03-01",
         "star": 5,
         "power": 752,
         "attack": 749,
@@ -51162,7 +51265,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/d5mevmf.jpg",
         "costume_id": 0,
-        "originalIndex": 1328
+        "originalIndex": 1330
     },
     {
         "name": "Joon C1",
@@ -51181,7 +51284,7 @@ window.allHeroes =
             "Snipers"
         ],
         "source": "S1-Classic",
-        "Release date": "2020-01-01",
+        "Release date": "2020-01-20",
         "star": 5,
         "power": 793,
         "attack": 782,
@@ -51195,7 +51298,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/YXbYHIl.jpg",
         "costume_id": 1,
-        "originalIndex": 1329
+        "originalIndex": 1331
     },
     {
         "name": "Joon C2",
@@ -51231,7 +51334,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/rJxyTcK.jpg",
         "costume_id": 2,
-        "originalIndex": 1330
+        "originalIndex": 1332
     },
     {
         "name": "Joon Toon",
@@ -51268,7 +51371,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/6UDBHvu.jpg",
         "costume_id": 3,
-        "originalIndex": 1331
+        "originalIndex": 1333
     },
     {
         "name": "Joon Glass",
@@ -51306,7 +51409,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://imgur.com/7d9tXzA.jpg",
         "costume_id": 4,
-        "originalIndex": 1332
+        "originalIndex": 1334
     },
     {
         "name": "Jove",
@@ -51344,7 +51447,7 @@ window.allHeroes =
         "family": "maskedgod",
         "image": "https://i.imgur.com/YFCeTvj.jpg",
         "costume_id": 0,
-        "originalIndex": 1333
+        "originalIndex": 1335
     },
     {
         "name": "Justice",
@@ -51363,7 +51466,7 @@ window.allHeroes =
             "Debuffers (ATK)"
         ],
         "source": "S1-Classic",
-        "Release date": "2017-01-01",
+        "Release date": "2017-03-01",
         "star": 5,
         "power": 754,
         "attack": 609,
@@ -51378,7 +51481,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/nIFbFrG.jpg",
         "costume_id": 0,
-        "originalIndex": 1334
+        "originalIndex": 1336
     },
     {
         "name": "Justice C1",
@@ -51413,7 +51516,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/KCL7Y0s.jpg",
         "costume_id": 1,
-        "originalIndex": 1335
+        "originalIndex": 1337
     },
     {
         "name": "Justice C2",
@@ -51448,7 +51551,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/feWdynO.jpg",
         "costume_id": 2,
-        "originalIndex": 1336
+        "originalIndex": 1338
     },
     {
         "name": "Justice Toon",
@@ -51485,7 +51588,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/ChEEEeb.jpg",
         "costume_id": 3,
-        "originalIndex": 1337
+        "originalIndex": 1339
     },
     {
         "name": "Kara",
@@ -51524,7 +51627,7 @@ window.allHeroes =
         "family": 2022,
         "image": "https://i.imgur.com/ltyTaFe.jpg",
         "costume_id": 0,
-        "originalIndex": 1338
+        "originalIndex": 1340
     },
     {
         "name": "Kullervo",
@@ -51561,7 +51664,7 @@ window.allHeroes =
         "family": "kalevala",
         "image": "https://i.imgur.com/tmvOfKK.jpg",
         "costume_id": 0,
-        "originalIndex": 1339
+        "originalIndex": 1341
     },
     {
         "name": "Kullervo C1",
@@ -51598,7 +51701,7 @@ window.allHeroes =
         "family": "kalevala",
         "image": "https://i.imgur.com/llU8XwL.jpg",
         "costume_id": 1,
-        "originalIndex": 1340
+        "originalIndex": 1342
     },
     {
         "name": "Kushanku",
@@ -51651,7 +51754,7 @@ window.allHeroes =
         "family": "ninja",
         "image": "https://i.imgur.com/4sSfY3A.jpg",
         "costume_id": 0,
-        "originalIndex": 1341
+        "originalIndex": 1343
     },
     {
         "name": "Laohu",
@@ -51687,7 +51790,7 @@ window.allHeroes =
         "family": "lunaryear",
         "image": "https://i.imgur.com/3mERqj0.jpg",
         "costume_id": 0,
-        "originalIndex": 1342
+        "originalIndex": 1344
     },
     {
         "name": "Lazara",
@@ -51730,7 +51833,7 @@ window.allHeroes =
         "family": "champions",
         "image": "https://i.imgur.com/mxOSRGe.jpg",
         "costume_id": 0,
-        "originalIndex": 1343
+        "originalIndex": 1345
     },
     {
         "name": "Lemonwood",
@@ -51772,7 +51875,7 @@ window.allHeroes =
         "family": "astralelves",
         "image": "https://i.imgur.com/P0rxyPZ.jpg",
         "costume_id": 0,
-        "originalIndex": 1344
+        "originalIndex": 1346
     },
     {
         "name": "Leonidas",
@@ -51793,7 +51896,7 @@ window.allHeroes =
             "Snipers"
         ],
         "source": "S1-Classic",
-        "Release date": "2017-01-01",
+        "Release date": "2017-03-01",
         "star": 5,
         "power": 752,
         "attack": 731,
@@ -51808,7 +51911,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/SPyWzYD.jpg",
         "costume_id": 0,
-        "originalIndex": 1345
+        "originalIndex": 1347
     },
     {
         "name": "Leonidas C1",
@@ -51842,7 +51945,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/c7cvRg8.jpg",
         "costume_id": 1,
-        "originalIndex": 1346
+        "originalIndex": 1348
     },
     {
         "name": "Leonidas C2",
@@ -51878,7 +51981,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/6haP2Yz.jpg",
         "costume_id": 2,
-        "originalIndex": 1347
+        "originalIndex": 1349
     },
     {
         "name": "Leonidas Toon",
@@ -51918,7 +52021,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/PKsAK4b.jpg",
         "costume_id": 3,
-        "originalIndex": 1348
+        "originalIndex": 1350
     },
     {
         "name": "Leonidas Glass",
@@ -51959,7 +52062,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/7lvHaTO.jpg",
         "costume_id": 4,
-        "originalIndex": 1349
+        "originalIndex": 1351
     },
     {
         "name": "Livia",
@@ -52001,7 +52104,7 @@ window.allHeroes =
         "family": "owl",
         "image": "https://i.imgur.com/JTBt0dY.jpg",
         "costume_id": 0,
-        "originalIndex": 1350
+        "originalIndex": 1352
     },
     {
         "name": "Malin",
@@ -52045,7 +52148,7 @@ window.allHeroes =
         "family": "plainshunter",
         "image": "https://i.imgur.com/7OmJaIC.jpg",
         "costume_id": 0,
-        "originalIndex": 1351
+        "originalIndex": 1353
     },
     {
         "name": "Malosi",
@@ -52082,7 +52185,7 @@ window.allHeroes =
         "family": 2020,
         "image": "https://i.imgur.com/ttNHqjc.jpg",
         "costume_id": 0,
-        "originalIndex": 1352
+        "originalIndex": 1354
     },
     {
         "name": "Matilda",
@@ -52122,7 +52225,7 @@ window.allHeroes =
         "family": "morlovia",
         "image": "https://i.imgur.com/Lb4Sdwp.jpg",
         "costume_id": 0,
-        "originalIndex": 1353
+        "originalIndex": 1355
     },
     {
         "name": "May",
@@ -52162,7 +52265,7 @@ window.allHeroes =
         "family": 2025,
         "image": "https://imgur.com/KK6zHLN.jpg",
         "costume_id": 0,
-        "originalIndex": 1354
+        "originalIndex": 1356
     },
     {
         "name": "Meg Giry",
@@ -52204,7 +52307,7 @@ window.allHeroes =
         "family": "opera",
         "image": "https://i.imgur.com/GJH1yAl.jpg",
         "costume_id": 0,
-        "originalIndex": 1355
+        "originalIndex": 1357
     },
     {
         "name": "Melodymuse",
@@ -52241,7 +52344,7 @@ window.allHeroes =
         "family": "astralelves",
         "image": "https://i.imgur.com/PSc9HJP.jpg",
         "costume_id": 0,
-        "originalIndex": 1356
+        "originalIndex": 1358
     },
     {
         "name": "Meresankh",
@@ -52282,7 +52385,7 @@ window.allHeroes =
         "family": "sun",
         "image": "https://i.imgur.com/PIgKmeD.jpg",
         "costume_id": 0,
-        "originalIndex": 1357
+        "originalIndex": 1359
     },
     {
         "name": "Meresankh C1",
@@ -52325,7 +52428,7 @@ window.allHeroes =
         "family": "sun",
         "image": "https://i.imgur.com/4IURwj4.jpg",
         "costume_id": 1,
-        "originalIndex": 1358
+        "originalIndex": 1360
     },
     {
         "name": "Mica",
@@ -52371,7 +52474,7 @@ window.allHeroes =
         "family": "ninja",
         "image": "https://i.imgur.com/T4WxYxG.jpg",
         "costume_id": 0,
-        "originalIndex": 1359
+        "originalIndex": 1361
     },
     {
         "name": "Moonbell",
@@ -52412,7 +52515,7 @@ window.allHeroes =
         "family": "astralelves",
         "image": "https://i.imgur.com/EiBBCez.jpg",
         "costume_id": 0,
-        "originalIndex": 1360
+        "originalIndex": 1362
     },
     {
         "name": "Motega",
@@ -52461,7 +52564,7 @@ window.allHeroes =
         "family": "magic",
         "image": "https://i.imgur.com/87toXMW.jpg",
         "costume_id": 0,
-        "originalIndex": 1361
+        "originalIndex": 1363
     },
     {
         "name": "Musashi",
@@ -52482,7 +52585,7 @@ window.allHeroes =
             "Buffers (DEF)"
         ],
         "source": "Hero of the Month",
-        "Release date": "2017-09-01T00:00:00",
+        "Release date": "2017-09-01",
         "star": 5,
         "power": 764,
         "attack": 786,
@@ -52497,7 +52600,7 @@ window.allHeroes =
         "family": 2017,
         "image": "https://i.imgur.com/1PxVmlq.jpg",
         "costume_id": 0,
-        "originalIndex": 1362
+        "originalIndex": 1364
     },
     {
         "name": "Musashi C1",
@@ -52536,7 +52639,7 @@ window.allHeroes =
         "family": 2017,
         "image": "https://i.imgur.com/dt3i5jN.jpg",
         "costume_id": 1,
-        "originalIndex": 1363
+        "originalIndex": 1365
     },
     {
         "name": "Neith",
@@ -52576,7 +52679,7 @@ window.allHeroes =
         "family": 2019,
         "image": "https://i.imgur.com/5p5UjK8.jpg",
         "costume_id": 0,
-        "originalIndex": 1364
+        "originalIndex": 1366
     },
     {
         "name": "Nemesis",
@@ -52621,7 +52724,7 @@ window.allHeroes =
         "family": "styx",
         "image": "https://i.imgur.com/erwVVF0.jpg",
         "costume_id": 0,
-        "originalIndex": 1365
+        "originalIndex": 1367
     },
     {
         "name": "Nithgaest",
@@ -52661,7 +52764,7 @@ window.allHeroes =
         "family": "beowulf",
         "image": "https://imgur.com/25R91G2.jpg",
         "costume_id": 0,
-        "originalIndex": 1366
+        "originalIndex": 1368
     },
     {
         "name": "Norns",
@@ -52692,7 +52795,7 @@ window.allHeroes =
         "family": "vanaheim",
         "image": "https://i.imgur.com/evikfGP.jpg",
         "costume_id": 0,
-        "originalIndex": 1367
+        "originalIndex": 1369
     },
     {
         "name": "Norns C1",
@@ -52723,7 +52826,7 @@ window.allHeroes =
         "family": "vanaheim",
         "image": "https://i.imgur.com/aH5vllh.jpg",
         "costume_id": 1,
-        "originalIndex": 1368
+        "originalIndex": 1370
     },
     {
         "name": "Odin",
@@ -52758,7 +52861,7 @@ window.allHeroes =
         "family": "midgard",
         "image": "https://i.imgur.com/WpdZnYI.jpg",
         "costume_id": 0,
-        "originalIndex": 1369
+        "originalIndex": 1371
     },
     {
         "name": "Odin C1",
@@ -52793,7 +52896,7 @@ window.allHeroes =
         "family": "midgard",
         "image": "https://i.imgur.com/guLxDJt.jpg",
         "costume_id": 1,
-        "originalIndex": 1370
+        "originalIndex": 1372
     },
     {
         "name": "Ogima",
@@ -52833,7 +52936,7 @@ window.allHeroes =
         "family": "bard",
         "image": "https://i.imgur.com/8WZ5oVt.jpg",
         "costume_id": 0,
-        "originalIndex": 1371
+        "originalIndex": 1373
     },
     {
         "name": "Onatel",
@@ -52871,7 +52974,7 @@ window.allHeroes =
         "family": 2019,
         "image": "https://i.imgur.com/wCLflfr.jpg",
         "costume_id": 0,
-        "originalIndex": 1372
+        "originalIndex": 1374
     },
     {
         "name": "Papyros",
@@ -52909,7 +53012,7 @@ window.allHeroes =
         "family": "moon",
         "image": "https://i.imgur.com/cV84mq0.jpg",
         "costume_id": 0,
-        "originalIndex": 1373
+        "originalIndex": 1375
     },
     {
         "name": "Papyros C1",
@@ -52952,7 +53055,7 @@ window.allHeroes =
         "family": "moon",
         "image": "https://i.imgur.com/jWPUwhw.jpg",
         "costume_id": 1,
-        "originalIndex": 1374
+        "originalIndex": 1376
     },
     {
         "name": "Penolite",
@@ -52991,7 +53094,7 @@ window.allHeroes =
         "family": "gargoyle",
         "image": "https://i.imgur.com/ifFiCU7.jpg",
         "costume_id": 0,
-        "originalIndex": 1375
+        "originalIndex": 1377
     },
     {
         "name": "Persa",
@@ -53039,7 +53142,7 @@ window.allHeroes =
         "family": "nightmaresofatlantis",
         "image": "https://i.imgur.com/XWgWbVt.jpg",
         "costume_id": 0,
-        "originalIndex": 1376
+        "originalIndex": 1378
     },
     {
         "name": "Persa C1",
@@ -53088,7 +53191,7 @@ window.allHeroes =
         "family": "nightmaresofatlantis",
         "image": "https://i.imgur.com/nKfadia.jpg",
         "costume_id": 1,
-        "originalIndex": 1377
+        "originalIndex": 1379
     },
     {
         "name": "Pertinax",
@@ -53131,7 +53234,7 @@ window.allHeroes =
         "family": "owl",
         "image": "https://i.imgur.com/LyzgS9S.jpg",
         "costume_id": 0,
-        "originalIndex": 1378
+        "originalIndex": 1380
     },
     {
         "name": "Philomena",
@@ -53171,7 +53274,7 @@ window.allHeroes =
         "family": "woodlandfaun",
         "image": "https://imgur.com/zZJxSMo.jpg",
         "costume_id": 0,
-        "originalIndex": 1379
+        "originalIndex": 1381
     },
     {
         "name": "Poseidon",
@@ -53205,7 +53308,7 @@ window.allHeroes =
         "family": "atlantis",
         "image": "https://i.imgur.com/4yAjxl7.jpg",
         "costume_id": 0,
-        "originalIndex": 1380
+        "originalIndex": 1382
     },
     {
         "name": "Poseidon C1",
@@ -53238,7 +53341,7 @@ window.allHeroes =
         "family": "atlantis",
         "image": "https://i.imgur.com/jU6Z8JO.jpg",
         "costume_id": 1,
-        "originalIndex": 1381
+        "originalIndex": 1383
     },
     {
         "name": "Prof. Lidenbrock",
@@ -53276,7 +53379,7 @@ window.allHeroes =
         "family": "underwild",
         "image": "https://i.imgur.com/1q7ZFV3.jpg",
         "costume_id": 0,
-        "originalIndex": 1382
+        "originalIndex": 1384
     },
     {
         "name": "Prof. Lidenbrock C1",
@@ -53315,7 +53418,7 @@ window.allHeroes =
         "family": "underwild",
         "image": "https://i.imgur.com/CwQ3ejX.jpg",
         "costume_id": 1,
-        "originalIndex": 1383
+        "originalIndex": 1385
     },
     {
         "name": "Queen Guowang",
@@ -53348,7 +53451,7 @@ window.allHeroes =
         "family": "journey",
         "image": "https://i.imgur.com/CNKl3X2.jpg",
         "costume_id": 0,
-        "originalIndex": 1384
+        "originalIndex": 1386
     },
     {
         "name": "Rana",
@@ -53371,7 +53474,7 @@ window.allHeroes =
             "Healing Reducers"
         ],
         "source": "Monthly Event-Sand Empire",
-        "Release date": "2017-01-01",
+        "Release date": "2018-06-21",
         "star": 5,
         "power": 772,
         "attack": 735,
@@ -53387,7 +53490,7 @@ window.allHeroes =
         "family": "sand",
         "image": "https://i.imgur.com/XCRwmmP.jpg",
         "costume_id": 0,
-        "originalIndex": 1385
+        "originalIndex": 1387
     },
     {
         "name": "Rana C1",
@@ -53426,7 +53529,7 @@ window.allHeroes =
         "family": "sand",
         "image": "https://i.imgur.com/ETB8w9H.jpg",
         "costume_id": 1,
-        "originalIndex": 1386
+        "originalIndex": 1388
     },
     {
         "name": "Ranvir",
@@ -53464,7 +53567,7 @@ window.allHeroes =
         "family": 2019,
         "image": "https://i.imgur.com/pCzfhdF.jpg",
         "costume_id": 0,
-        "originalIndex": 1387
+        "originalIndex": 1389
     },
     {
         "name": "Rhys",
@@ -53507,7 +53610,7 @@ window.allHeroes =
         "family": "bard",
         "image": "https://i.imgur.com/CuNew0r.jpg",
         "costume_id": 0,
-        "originalIndex": 1388
+        "originalIndex": 1390
     },
     {
         "name": "Roc",
@@ -53543,7 +53646,7 @@ window.allHeroes =
         "family": "sand",
         "image": "https://i.imgur.com/jRrOk7n.jpg",
         "costume_id": 0,
-        "originalIndex": 1389
+        "originalIndex": 1391
     },
     {
         "name": "Roc C1",
@@ -53579,7 +53682,7 @@ window.allHeroes =
         "family": "sand",
         "image": "https://i.imgur.com/wRsoDQK.jpg",
         "costume_id": 1,
-        "originalIndex": 1390
+        "originalIndex": 1392
     },
     {
         "name": "Rosalind",
@@ -53621,7 +53724,7 @@ window.allHeroes =
         "family": "garrisonguard",
         "image": "https://i.imgur.com/founMKj.jpg",
         "costume_id": 0,
-        "originalIndex": 1391
+        "originalIndex": 1393
     },
     {
         "name": "Ruan Xiaoqi",
@@ -53666,7 +53769,7 @@ window.allHeroes =
         "family": "outlaws",
         "image": "https://imgur.com/YX2qCp0.jpg",
         "costume_id": 0,
-        "originalIndex": 1392
+        "originalIndex": 1394
     },
     {
         "name": "Salniss",
@@ -53710,7 +53813,7 @@ window.allHeroes =
         "family": "astraldwarfs",
         "image": "https://i.imgur.com/iWjHJHA.jpg",
         "costume_id": 0,
-        "originalIndex": 1393
+        "originalIndex": 1395
     },
     {
         "name": "Satinpimenter",
@@ -53753,7 +53856,7 @@ window.allHeroes =
         "family": "moth",
         "image": "https://i.imgur.com/S7h6aSM.jpg",
         "costume_id": 0,
-        "originalIndex": 1394
+        "originalIndex": 1396
     },
     {
         "name": "Scrollbeast",
@@ -53794,7 +53897,7 @@ window.allHeroes =
         "family": "goblin",
         "image": "https://i.imgur.com/oI9QMY8.jpg",
         "costume_id": 0,
-        "originalIndex": 1395
+        "originalIndex": 1397
     },
     {
         "name": "Shaal",
@@ -53836,7 +53939,7 @@ window.allHeroes =
         "family": "construct",
         "image": "https://i.imgur.com/elVlVhm.jpg",
         "costume_id": 0,
-        "originalIndex": 1396
+        "originalIndex": 1398
     },
     {
         "name": "Shimmerscale",
@@ -53874,7 +53977,7 @@ window.allHeroes =
         "family": "garrisonguard",
         "image": "https://i.imgur.com/5LBrUnk.jpg",
         "costume_id": 0,
-        "originalIndex": 1397
+        "originalIndex": 1399
     },
     {
         "name": "Sif",
@@ -53910,7 +54013,7 @@ window.allHeroes =
         "family": "midgard",
         "image": "https://i.imgur.com/IEuL57g.jpg",
         "costume_id": 0,
-        "originalIndex": 1398
+        "originalIndex": 1400
     },
     {
         "name": "Sif C1",
@@ -53947,7 +54050,7 @@ window.allHeroes =
         "family": "midgard",
         "image": "https://i.imgur.com/L0IBEq2.jpg",
         "costume_id": 1,
-        "originalIndex": 1399
+        "originalIndex": 1401
     },
     {
         "name": "Silverpaw",
@@ -53986,7 +54089,7 @@ window.allHeroes =
         "family": "fox",
         "image": "https://i.imgur.com/Cj9sBht.jpg",
         "costume_id": 0,
-        "originalIndex": 1400
+        "originalIndex": 1402
     },
     {
         "name": "Sir Roostley",
@@ -54020,7 +54123,7 @@ window.allHeroes =
         "family": "springvale",
         "image": "https://i.imgur.com/YbdZndT.jpg",
         "costume_id": 0,
-        "originalIndex": 1401
+        "originalIndex": 1403
     },
     {
         "name": "Sludgus",
@@ -54059,7 +54162,7 @@ window.allHeroes =
         "family": "slime",
         "image": "https://i.imgur.com/IpdLyXH.jpg",
         "costume_id": 0,
-        "originalIndex": 1402
+        "originalIndex": 1404
     },
     {
         "name": "Tang Sanzang",
@@ -54098,7 +54201,7 @@ window.allHeroes =
         "family": "kingdom",
         "image": "https://i.imgur.com/y2EYio1.jpg",
         "costume_id": 0,
-        "originalIndex": 1403
+        "originalIndex": 1405
     },
     {
         "name": "Thor",
@@ -54140,7 +54243,7 @@ window.allHeroes =
         "family": "midgard",
         "image": "https://i.imgur.com/Cls9o26.jpg",
         "costume_id": 0,
-        "originalIndex": 1404
+        "originalIndex": 1406
     },
     {
         "name": "Thor C1",
@@ -54181,7 +54284,7 @@ window.allHeroes =
         "family": "midgard",
         "image": "https://i.imgur.com/LYyDsUh.jpg",
         "costume_id": 1,
-        "originalIndex": 1405
+        "originalIndex": 1407
     },
     {
         "name": "Thunderclap",
@@ -54223,7 +54326,7 @@ window.allHeroes =
         "family": "junglehunter",
         "image": "https://i.imgur.com/8fPiMj3.jpg",
         "costume_id": 0,
-        "originalIndex": 1406
+        "originalIndex": 1408
     },
     {
         "name": "Thura",
@@ -54264,7 +54367,7 @@ window.allHeroes =
         "family": "plainshunter",
         "image": "https://i.imgur.com/3kaZWy1.jpg",
         "costume_id": 0,
-        "originalIndex": 1407
+        "originalIndex": 1409
     },
     {
         "name": "Topaz",
@@ -54310,7 +54413,7 @@ window.allHeroes =
         "family": "ninja",
         "image": "https://i.imgur.com/yKvm70P.jpg",
         "costume_id": 0,
-        "originalIndex": 1408
+        "originalIndex": 1410
     },
     {
         "name": "Uraeus",
@@ -54353,7 +54456,7 @@ window.allHeroes =
         "family": 2021,
         "image": "https://i.imgur.com/1T6P7Be.jpg",
         "costume_id": 0,
-        "originalIndex": 1409
+        "originalIndex": 1411
     },
     {
         "name": "Vaishali",
@@ -54404,7 +54507,7 @@ window.allHeroes =
         "family": "magic",
         "image": "https://i.imgur.com/Ssu3ay2.jpg",
         "costume_id": 0,
-        "originalIndex": 1410
+        "originalIndex": 1412
     },
     {
         "name": "Vivica",
@@ -54425,7 +54528,7 @@ window.allHeroes =
             "Healers"
         ],
         "source": "S1-Classic",
-        "Release date": "2017-01-01",
+        "Release date": "2017-03-01",
         "star": 5,
         "power": 755,
         "attack": 714,
@@ -54440,7 +54543,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/aHsNbej.jpg",
         "costume_id": 0,
-        "originalIndex": 1411
+        "originalIndex": 1413
     },
     {
         "name": "Vivica C1",
@@ -54461,7 +54564,7 @@ window.allHeroes =
             "Healers"
         ],
         "source": "S1-Classic",
-        "Release date": "2020-01-01",
+        "Release date": "2020-01-20",
         "star": 5,
         "power": 796,
         "attack": 741,
@@ -54476,7 +54579,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/pm7wcbP.jpg",
         "costume_id": 1,
-        "originalIndex": 1412
+        "originalIndex": 1414
     },
     {
         "name": "Vivica C2",
@@ -54512,7 +54615,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/J8lGs8A.jpg",
         "costume_id": 2,
-        "originalIndex": 1413
+        "originalIndex": 1415
     },
     {
         "name": "Vivica Toon",
@@ -54550,7 +54653,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/zJxvLuN.jpg",
         "costume_id": 3,
-        "originalIndex": 1414
+        "originalIndex": 1416
     },
     {
         "name": "Vivica Glass",
@@ -54591,7 +54694,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/Vcxpsu2.jpg",
         "costume_id": 4,
-        "originalIndex": 1415
+        "originalIndex": 1417
     },
     {
         "name": "Wayne",
@@ -54627,7 +54730,7 @@ window.allHeroes =
         "family": "morlovia",
         "image": "https://i.imgur.com/ogAtunM.jpg",
         "costume_id": 0,
-        "originalIndex": 1416
+        "originalIndex": 1418
     },
     {
         "name": "Wealhtheow",
@@ -54672,7 +54775,7 @@ window.allHeroes =
         "family": "beowulf",
         "image": "https://i.imgur.com/yG43ChX.jpg",
         "costume_id": 0,
-        "originalIndex": 1417
+        "originalIndex": 1419
     },
     {
         "name": "White Rabbit",
@@ -54691,7 +54794,7 @@ window.allHeroes =
             "Debuffers (DEF)"
         ],
         "source": "Challenge Festival-Wonderland",
-        "Release date": "2017-01-01",
+        "Release date": "2019-02-14",
         "star": 5,
         "power": 779,
         "attack": 731,
@@ -54705,7 +54808,7 @@ window.allHeroes =
         "family": "wonderland",
         "image": "https://i.imgur.com/00qNGOk.jpg",
         "costume_id": 0,
-        "originalIndex": 1418
+        "originalIndex": 1420
     },
     {
         "name": "White Rabbit C1",
@@ -54740,7 +54843,7 @@ window.allHeroes =
         "family": "wonderland",
         "image": "https://i.imgur.com/qj3SAsZ.jpg",
         "costume_id": 1,
-        "originalIndex": 1419
+        "originalIndex": 1421
     },
     {
         "name": "Willow",
@@ -54791,7 +54894,7 @@ window.allHeroes =
         "family": "magic",
         "image": "https://i.imgur.com/Njfyzmw.jpg",
         "costume_id": 0,
-        "originalIndex": 1420
+        "originalIndex": 1422
     },
     {
         "name": "Winnie",
@@ -54832,7 +54935,7 @@ window.allHeroes =
         "family": "stag",
         "image": "https://i.imgur.com/Dx6MykQ.jpg",
         "costume_id": 0,
-        "originalIndex": 1421
+        "originalIndex": 1423
     },
     {
         "name": "Wolfgang",
@@ -54869,7 +54972,7 @@ window.allHeroes =
         "family": "wolf",
         "image": "https://i.imgur.com/8Qu4qUF.jpg",
         "costume_id": 0,
-        "originalIndex": 1422
+        "originalIndex": 1424
     },
     {
         "name": "Wolfgang C1",
@@ -54910,7 +55013,7 @@ window.allHeroes =
         "family": "wolf",
         "image": "https://i.imgur.com/2DLIDng.jpg",
         "costume_id": 1,
-        "originalIndex": 1423
+        "originalIndex": 1425
     },
     {
         "name": "Wulfstan",
@@ -54947,7 +55050,7 @@ window.allHeroes =
         "family": "cultist",
         "image": "https://i.imgur.com/EHlubEr.jpg",
         "costume_id": 0,
-        "originalIndex": 1424
+        "originalIndex": 1426
     },
     {
         "name": "Xavier",
@@ -54990,7 +55093,7 @@ window.allHeroes =
         "family": "superelemental",
         "image": "https://i.imgur.com/DZtGVoI.jpg",
         "costume_id": 0,
-        "originalIndex": 1425
+        "originalIndex": 1427
     },
     {
         "name": "Zandria",
@@ -55032,7 +55135,7 @@ window.allHeroes =
         "family": "superelemental",
         "image": "https://i.imgur.com/h5xLq71.jpg",
         "costume_id": 0,
-        "originalIndex": 1426
+        "originalIndex": 1428
     },
     {
         "name": "Zazha",
@@ -55076,7 +55179,7 @@ window.allHeroes =
         "family": "magiccarpet",
         "image": "https://imgur.com/da8x4gT.jpg",
         "costume_id": 0,
-        "originalIndex": 1427
+        "originalIndex": 1429
     },
     {
         "name": "Zekena",
@@ -55114,7 +55217,7 @@ window.allHeroes =
         "family": "underwild",
         "image": "https://i.imgur.com/hsqxizP.jpg",
         "costume_id": 0,
-        "originalIndex": 1428
+        "originalIndex": 1430
     },
     {
         "name": "Zekena C1",
@@ -55153,7 +55256,7 @@ window.allHeroes =
         "family": "underwild",
         "image": "https://i.imgur.com/KswtgYH.jpg",
         "costume_id": 1,
-        "originalIndex": 1429
+        "originalIndex": 1431
     },
     {
         "name": "Zenuk'wa",
@@ -55192,7 +55295,7 @@ window.allHeroes =
         "family": "beachparty",
         "image": "https://i.imgur.com/wpHKBfv.jpg",
         "costume_id": 0,
-        "originalIndex": 1430
+        "originalIndex": 1432
     },
     {
         "name": "Zhang Fei",
@@ -55211,7 +55314,7 @@ window.allHeroes =
             "Snipers"
         ],
         "source": "Three Kingdoms Summon",
-        "Release date": "2022-03-14T12:00:00",
+        "Release date": "2022-03-14",
         "star": 5,
         "power": 835,
         "attack": 856,
@@ -55225,7 +55328,7 @@ window.allHeroes =
         "family": "kingdom",
         "image": "https://i.imgur.com/stJf0Qg.jpg",
         "costume_id": 0,
-        "originalIndex": 1431
+        "originalIndex": 1433
     },
     {
         "name": "Zhang Fei C1",
@@ -55266,7 +55369,7 @@ window.allHeroes =
         "family": "kingdom",
         "image": "https://i.imgur.com/LeENxWF.jpg",
         "costume_id": 1,
-        "originalIndex": 1432
+        "originalIndex": 1434
     },
     {
         "name": "Zhuge Liang",
@@ -55287,7 +55390,7 @@ window.allHeroes =
             "DoT Attackers"
         ],
         "source": "Three Kingdoms Summon",
-        "Release date": "2022-03-14T12:00:00",
+        "Release date": "2022-03-14",
         "star": 5,
         "power": 835,
         "attack": 710,
@@ -55303,7 +55406,7 @@ window.allHeroes =
         "family": "kingdom",
         "image": "https://i.imgur.com/jjSBiGT.jpg",
         "costume_id": 0,
-        "originalIndex": 1433
+        "originalIndex": 1435
     },
     {
         "name": "Zhuge Liang C1",
@@ -55345,7 +55448,7 @@ window.allHeroes =
         "family": "kingdom",
         "image": "https://i.imgur.com/zdjoPv7.jpg",
         "costume_id": 1,
-        "originalIndex": 1434
+        "originalIndex": 1436
     },
     {
         "name": "Zora",
@@ -55385,6 +55488,6 @@ window.allHeroes =
         "family": 2024,
         "image": "https://i.imgur.com/wf4Kvkm.jpg",
         "costume_id": 0,
-        "originalIndex": 1435
+        "originalIndex": 1437
     }
 ];

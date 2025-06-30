@@ -2,7 +2,7 @@ const heroes_data_extra = [
     {
         "name": "Brand",
         "fancy name": "Carefree Adventurer",
-        "Release date": "2017-01-01",
+        "Release date": "2017-03-01",
         "AetherPower": "",
         "skill_types": [
             "AoE Attackers (Hit-5)"
@@ -11,7 +11,7 @@ const heroes_data_extra = [
     {
         "name": "Sigrunn",
         "fancy name": "Fierce Maiden",
-        "Release date": "2017-01-01",
+        "Release date": "2017-03-01",
         "AetherPower": "",
         "skill_types": [
             "Snipers"
@@ -20,7 +20,7 @@ const heroes_data_extra = [
     {
         "name": "Olaf",
         "fancy name": "Serious Guardsman",
-        "Release date": "2017-01-01",
+        "Release date": "2017-03-01",
         "AetherPower": "",
         "skill_types": [
             "Buffers (DEF)"
@@ -29,7 +29,7 @@ const heroes_data_extra = [
     {
         "name": "Ragnhild",
         "fancy name": "Exiled Warrior",
-        "Release date": "2017-01-01",
+        "Release date": "2017-03-01",
         "AetherPower": "",
         "skill_types": [
             "AoE Attackers (Hit-5)"
@@ -38,7 +38,7 @@ const heroes_data_extra = [
     {
         "name": "Toril",
         "fancy name": "Veteran Battler",
-        "Release date": "2017-01-01",
+        "Release date": "2017-03-01",
         "AetherPower": "",
         "skill_types": [
             "Buffers (ATK)"
@@ -92,7 +92,7 @@ const heroes_data_extra = [
     {
         "name": "Gato",
         "fancy name": "Swamp Thug",
-        "Release date": "2019-08-01",
+        "Release date": "2019-08-22",
         "AetherPower": "Attack Up",
         "skill_types": [
             "Immunity Providers",
@@ -102,7 +102,7 @@ const heroes_data_extra = [
     {
         "name": "Graymane",
         "fancy name": "The Ferocious",
-        "Release date": "2017-01-01",
+        "Release date": "2017-03-01",
         "AetherPower": "Special Boost",
         "skill_types": [
             "Healers (Special)",
@@ -155,7 +155,7 @@ const heroes_data_extra = [
     {
         "name": "Gunnar",
         "fancy name": "Protector Knight",
-        "Release date": "2017-01-01",
+        "Release date": "2017-03-01",
         "AetherPower": "Special Armor",
         "skill_types": [
             "Buffers (DEF)",
@@ -165,7 +165,7 @@ const heroes_data_extra = [
     {
         "name": "Gunnar Costume1",
         "fancy name": "Brave Blacksmith",
-        "Release date": "2020-01-01",
+        "Release date": "2020-01-20",
         "AetherPower": "Defense Up",
         "skill_types": [
             "Damage Sharers",
@@ -247,7 +247,7 @@ const heroes_data_extra = [
     {
         "name": "Karil",
         "fancy name": "The Hotblooded",
-        "Release date": "2017-01-01",
+        "Release date": "2017-03-01",
         "AetherPower": "Rage",
         "skill_types": [
             "AoE Attackers (Hit-3)"
@@ -331,7 +331,7 @@ const heroes_data_extra = [
     {
         "name": "Ulmer",
         "fancy name": "Mage of Glaceholm",
-        "Release date": "2017-01-01",
+        "Release date": "2017-03-01",
         "AetherPower": "Defense Up",
         "skill_types": [
             "AoE Attackers (Hit-5)",
@@ -362,7 +362,7 @@ const heroes_data_extra = [
     {
         "name": "Valen",
         "fancy name": "Dashing Duelist",
-        "Release date": "2017-01-01",
+        "Release date": "2017-03-01",
         "AetherPower": "Attack Up",
         "skill_types": [
             "Debuffers (DEF)",
@@ -404,7 +404,7 @@ const heroes_data_extra = [
     {
         "name": "Vodnik",
         "fancy name": "Fisherman of Corellia",
-        "Release date": "2017-01-01",
+        "Release date": "2017-09-07",
         "AetherPower": "Rage",
         "skill_types": [
             "Snipers",
@@ -414,7 +414,7 @@ const heroes_data_extra = [
     {
         "name": "Yao",
         "fancy name": "Wei Footsoldier",
-        "Release date": "2022-03-14T12:00:00",
+        "Release date": "2022-03-14",
         "AetherPower": "Attack Up",
         "skill_types": [
             "AoE Attackers (Hit-3)",
@@ -498,7 +498,7 @@ const heroes_data_extra = [
     {
         "name": "Boril",
         "fancy name": "Stout Defender",
-        "Release date": "2017-01-01",
+        "Release date": "2017-03-01",
         "AetherPower": "Regen",
         "skill_types": [
             "Counterattackers"
@@ -534,7 +534,7 @@ const heroes_data_extra = [
     {
         "name": "Captain of Diamonds",
         "fancy name": "Knave of Wonderland",
-        "Release date": "2019-02-01",
+        "Release date": "2019-02-14",
         "AetherPower": "Attack Up",
         "skill_types": [
             "Chain & Random Attackers",
@@ -616,7 +616,7 @@ const heroes_data_extra = [
     {
         "name": "Grimm",
         "fancy name": "Dark Orphan",
-        "Release date": "2017-01-01",
+        "Release date": "2017-03-01",
         "AetherPower": "Rage",
         "skill_types": [
             "AoE Attackers (Hit-3)",
@@ -692,7 +692,7 @@ const heroes_data_extra = [
     {
         "name": "Kiril",
         "fancy name": "Master Brewer",
-        "Release date": "2017-01-01",
+        "Release date": "2017-03-01",
         "AetherPower": "Ailment Immunity",
         "skill_types": [
             "Buffers (ATK)",
@@ -829,7 +829,7 @@ const heroes_data_extra = [
     {
         "name": "Sonya",
         "fancy name": "Willful Champion",
-        "Release date": "2017-01-01",
+        "Release date": "2017-03-01",
         "AetherPower": "Special Boost",
         "skill_types": [
             "Dispellers",
@@ -839,7 +839,7 @@ const heroes_data_extra = [
     {
         "name": "Sonya Costume1",
         "fancy name": "Viking Champion",
-        "Release date": "2020-01-01",
+        "Release date": "2020-01-20",
         "AetherPower": "Special Armor",
         "skill_types": [
             "Cleansers",
@@ -890,7 +890,7 @@ const heroes_data_extra = [
     {
         "name": "Valeria",
         "fancy name": "Child of Night",
-        "Release date": "2018-10-01",
+        "Release date": "2018-10-25",
         "AetherPower": "Vampire",
         "skill_types": [
             "DoT Attackers",
@@ -902,7 +902,7 @@ const heroes_data_extra = [
     {
         "name": "Xiahou Dun",
         "fancy name": "One-Eyed Commander",
-        "Release date": "2022-03-14T12:00:00",
+        "Release date": "2022-03-14",
         "AetherPower": "Attack Up",
         "skill_types": [
             "Dispellers",
@@ -933,7 +933,7 @@ const heroes_data_extra = [
     {
         "name": "Adalinda",
         "fancy name": "Princess of the Hunt",
-        "Release date": "2022-09-18",
+        "Release date": "2022-09-15",
         "AetherPower": "Fiend Resist",
         "skill_types": [
             "AoE Attackers (Hit-3)",
@@ -945,7 +945,7 @@ const heroes_data_extra = [
     {
         "name": "Aegir",
         "fancy name": "Frozen Highlander",
-        "Release date": "2018-10-01T00:00:00",
+        "Release date": "2018-10-01",
         "AetherPower": "Special Armor",
         "skill_types": [
             "Buffers (DEF)",
@@ -991,7 +991,7 @@ const heroes_data_extra = [
     {
         "name": "Alasie",
         "fancy name": "Huntress of Ice Giants",
-        "Release date": "2018-05-01T00:00:00",
+        "Release date": "2018-05-01",
         "AetherPower": "Attack Up",
         "skill_types": [
             "Mana Reducers or Blockers",
@@ -1029,7 +1029,7 @@ const heroes_data_extra = [
     {
         "name": "Alice",
         "fancy name": "Adventurer of Wonderland",
-        "Release date": "2019-02-01",
+        "Release date": "2019-02-14",
         "AetherPower": "Attack Up",
         "skill_types": [
             "Debuffers (ATK)",
@@ -1133,7 +1133,7 @@ const heroes_data_extra = [
     {
         "name": "Athena",
         "fancy name": "Celestial of Ice",
-        "Release date": "2017-07-01T00:00:00",
+        "Release date": "2017-07-01",
         "AetherPower": "Attack Up",
         "skill_types": [
             "AoE Attackers (Hit-3)",
@@ -1602,7 +1602,7 @@ const heroes_data_extra = [
     {
         "name": "Finley",
         "fancy name": "Commodore of Corellia",
-        "Release date": "2017-01-01",
+        "Release date": "2019-11-11",
         "AetherPower": "Revive",
         "skill_types": [
             "Chain & Random Attackers",
@@ -1849,7 +1849,7 @@ const heroes_data_extra = [
     {
         "name": "Isarnia",
         "fancy name": "Protector of Glaceholm",
-        "Release date": "2017-01-01",
+        "Release date": "2017-03-01",
         "AetherPower": "Regen",
         "skill_types": [
             "AoE Attackers (Hit-5)",
@@ -1859,7 +1859,7 @@ const heroes_data_extra = [
     {
         "name": "Isarnia Costume1",
         "fancy name": "Ice Witch of Glaceholm",
-        "Release date": "2020-01-01",
+        "Release date": "2020-01-20",
         "AetherPower": "Special Boost",
         "skill_types": [
             "AoE Attackers (Hit-5)",
@@ -1910,7 +1910,7 @@ const heroes_data_extra = [
             "Extra Damage Dealers",
             "Ability Scores Modifiers",
             "Minions Counters",
-            "Bypassers" 
+            "Bypassers"
         ]
     },
     {
@@ -1964,7 +1964,7 @@ const heroes_data_extra = [
     {
         "name": "King Arthur",
         "fancy name": "King of Avalon",
-        "Release date": "2017-01-01",
+        "Release date": "2018-01-05",
         "AetherPower": "Attack Up",
         "skill_types": [
             "Buffers (DEF)",
@@ -1982,7 +1982,7 @@ const heroes_data_extra = [
             "AoE Attackers (Hit-5)",
             "DoT Attackers",
             "Healers (Special)",
-            "Buffers (DEF)" 
+            "Buffers (DEF)"
         ]
     },
     {
@@ -2056,7 +2056,7 @@ const heroes_data_extra = [
     {
         "name": "Magni",
         "fancy name": "Ancient of Ice",
-        "Release date": "2017-01-01",
+        "Release date": "2017-03-01",
         "AetherPower": "Attack Up",
         "skill_types": [
             "Buffers (DEF)",
@@ -2119,7 +2119,7 @@ const heroes_data_extra = [
     {
         "name": "Master Lepus",
         "fancy name": "Guardian of Springvale",
-        "Release date": "2017-01-01",
+        "Release date": "2018-03-28",
         "AetherPower": "Attack Up",
         "skill_types": [
             "AoE Attackers (Hit-3)",
@@ -2217,7 +2217,7 @@ const heroes_data_extra = [
             "Buffers (ATK)",
             "Cleansers",
             "Heal over Time (HoT)",
-            "Minions Summoners",
+            "Minions Summoners"
         ]
     },
     {
@@ -2463,7 +2463,7 @@ const heroes_data_extra = [
     {
         "name": "Perseus",
         "fancy name": "Son of Zeus",
-        "Release date": "2017-12-01T00:00:00",
+        "Release date": "2017-12-01",
         "AetherPower": "Attack Up",
         "skill_types": [
             "Buffers (DEF)",
@@ -2475,7 +2475,7 @@ const heroes_data_extra = [
     {
         "name": "Perseus Costume1",
         "fancy name": "Challenger of Boreas",
-        "Release date": "2022-11-28T11:00:00",
+        "Release date": "2022-11-28",
         "AetherPower": "Defense Up",
         "skill_types": [
             "AoE Attackers (Hit-3)",
@@ -2578,7 +2578,7 @@ const heroes_data_extra = [
     {
         "name": "Richard",
         "fancy name": "Hammer of Justice",
-        "Release date": "2017-01-01",
+        "Release date": "2017-03-01",
         "AetherPower": "Attack Up",
         "skill_types": [
             "AoE Attackers (Hit-3)",
@@ -2588,7 +2588,7 @@ const heroes_data_extra = [
     {
         "name": "Richard Costume1",
         "fancy name": "Axe of Justice",
-        "Release date": "2020-01-01",
+        "Release date": "2020-01-20",
         "AetherPower": "Special Boost",
         "skill_types": [
             "AoE Attackers (Hit-3)",
@@ -2631,7 +2631,7 @@ const heroes_data_extra = [
     {
         "name": "Rumpelstiltskin",
         "fancy name": "Jester of Grimforest",
-        "Release date": "2017-01-01",
+        "Release date": "2019-12-01",
         "AetherPower": "Gamble",
         "skill_types": [
             "AoE Attackers (Hit-5)",
@@ -2676,11 +2676,12 @@ const heroes_data_extra = [
         "AetherPower": "Rage",
         "skill_types": [
             "AoE Attackers (Hit-5)",
-            "Damage Reducers)",
+            "Damage Reducers",
             "Damage Reducers",
             "Ghost Form & Hiding",
             "Snipers",
-            "Extra Damage Dealers", "Buffers (ATK)"
+            "Extra Damage Dealers",
+            "Buffers (ATK)"
         ]
     },
     {
@@ -2979,7 +2980,7 @@ const heroes_data_extra = [
     {
         "name": "Thorne",
         "fancy name": "Wielder of Frostmorrow",
-        "Release date": "2017-01-01",
+        "Release date": "2017-03-01",
         "AetherPower": "Special Boost",
         "skill_types": [
             "AoE Attackers (Hit-3)"
@@ -3168,7 +3169,7 @@ const heroes_data_extra = [
     {
         "name": "Aife",
         "fancy name": "Village Girl",
-        "Release date": "2017-01-01",
+        "Release date": "2017-03-01",
         "AetherPower": "",
         "skill_types": [
             "Snipers"
@@ -3177,7 +3178,7 @@ const heroes_data_extra = [
     {
         "name": "Derric",
         "fancy name": "Simple Woodsman",
-        "Release date": "2017-01-01",
+        "Release date": "2017-03-01",
         "AetherPower": "",
         "skill_types": [
             "Snipers"
@@ -3186,7 +3187,7 @@ const heroes_data_extra = [
     {
         "name": "Brogan",
         "fancy name": "Mercenary Thug",
-        "Release date": "2017-01-01",
+        "Release date": "2017-03-01",
         "AetherPower": "",
         "skill_types": [
             "AoE Attackers (Hit-3)"
@@ -3195,7 +3196,7 @@ const heroes_data_extra = [
     {
         "name": "Jenneh",
         "fancy name": "Plant Whisperer",
-        "Release date": "2017-01-01",
+        "Release date": "2017-03-01",
         "AetherPower": "",
         "skill_types": [
             "Snipers"
@@ -3204,7 +3205,7 @@ const heroes_data_extra = [
     {
         "name": "Needler",
         "fancy name": "Nimble Hunter",
-        "Release date": "2017-01-01",
+        "Release date": "2017-03-01",
         "AetherPower": "",
         "skill_types": [
             "Snipers"
@@ -3223,7 +3224,7 @@ const heroes_data_extra = [
     {
         "name": "Belith",
         "fancy name": "Glade Spirit",
-        "Release date": "2017-01-01",
+        "Release date": "2017-03-01",
         "AetherPower": "Defense Up",
         "skill_types": [
             "Dispellers",
@@ -3265,7 +3266,7 @@ const heroes_data_extra = [
     {
         "name": "Berden",
         "fancy name": "Able Archer",
-        "Release date": "2017-01-01",
+        "Release date": "2017-03-01",
         "AetherPower": "Attack Up",
         "skill_types": [
             "Debuffers (ATK)",
@@ -3307,7 +3308,7 @@ const heroes_data_extra = [
     {
         "name": "Brienne",
         "fancy name": "Druid of Rathwood",
-        "Release date": "2017-01-01",
+        "Release date": "2017-03-01",
         "AetherPower": "Defense Up",
         "skill_types": [
             "Buffers (ATK)"
@@ -3316,7 +3317,7 @@ const heroes_data_extra = [
     {
         "name": "Brienne Costume1",
         "fancy name": "Shaman of Concordia",
-        "Release date": "2020-01-01",
+        "Release date": "2020-01-20",
         "AetherPower": "Special Armor",
         "skill_types": [
             "Debuffers (DEF)"
@@ -3356,7 +3357,7 @@ const heroes_data_extra = [
     {
         "name": "Carver",
         "fancy name": "The Cutpurse",
-        "Release date": "2017-01-01",
+        "Release date": "2017-03-01",
         "AetherPower": "Attack Up",
         "skill_types": [
             "AoE Attackers (Hit-5)",
@@ -3455,7 +3456,7 @@ const heroes_data_extra = [
     {
         "name": "Friar Tuck",
         "fancy name": "Jovial Brother",
-        "Release date": "2017-01-01",
+        "Release date": "2017-03-01",
         "AetherPower": "Defense Up",
         "skill_types": [
             "Healers",
@@ -3559,7 +3560,7 @@ const heroes_data_extra = [
     {
         "name": "Hisan",
         "fancy name": "Trusted Steed of Sand Empire",
-        "Release date": "2017-01-01",
+        "Release date": "2018-06-21",
         "AetherPower": "Rage",
         "skill_types": [
             "Cleansers",
@@ -3572,7 +3573,7 @@ const heroes_data_extra = [
     {
         "name": "Isshtak",
         "fancy name": "Lizardfolk Fighter",
-        "Release date": "2017-01-01",
+        "Release date": "2017-03-01",
         "AetherPower": "Special Boost",
         "skill_types": [
             "AoE Attackers (Hit-3)"
@@ -3601,7 +3602,7 @@ const heroes_data_extra = [
     {
         "name": "Jing",
         "fancy name": "Shu Footsoldier",
-        "Release date": "2022-03-14T12:00:00",
+        "Release date": "2022-03-14",
         "AetherPower": "Attack Up",
         "skill_types": [
             "Counterattackers",
@@ -3665,13 +3666,13 @@ const heroes_data_extra = [
             "Snipers",
             "Stacking Heroes",
             "Mana Reducers or Blockers",
-            "Mana Raisers" 
+            "Mana Raisers"
         ]
     },
     {
         "name": "Shrubbear",
         "fancy name": "Beast of Wonderland",
-        "Release date": "2017-01-01",
+        "Release date": "2019-12-01",
         "AetherPower": "Taunt",
         "skill_types": [
             "Buffers (DEF)",
@@ -3777,7 +3778,7 @@ const heroes_data_extra = [
             "Heal over Time (HoT)",
             "Negative Effects On Self Or Allies",
             "Revivers",
-            "Healers" 
+            "Healers"
         ]
     },
     {
@@ -3807,7 +3808,7 @@ const heroes_data_extra = [
     {
         "name": "Buddy",
         "fancy name": "Santa's Little Helper",
-        "Release date": "2017-01-01",
+        "Release date": "2018-12-02",
         "AetherPower": "Attack Up",
         "skill_types": [
             "AoE Attackers (Hit-3)",
@@ -3819,7 +3820,7 @@ const heroes_data_extra = [
     {
         "name": "Caedmon",
         "fancy name": "Elven Veteran",
-        "Release date": "2017-01-01",
+        "Release date": "2017-03-01",
         "AetherPower": "Special Boost",
         "skill_types": [
             "Dispellers",
@@ -3929,7 +3930,7 @@ const heroes_data_extra = [
     {
         "name": "Hansel",
         "fancy name": "Witch Hunter of Grimforest",
-        "Release date": "2017-01-01",
+        "Release date": "2019-12-01",
         "AetherPower": "Attack Up",
         "skill_types": [
             "Buffers (DEF)",
@@ -3951,7 +3952,7 @@ const heroes_data_extra = [
     {
         "name": "Jack O'Hare",
         "fancy name": "Champion of Springvale",
-        "Release date": "2018-03-01",
+        "Release date": "2018-03-28",
         "AetherPower": "Attack Up",
         "skill_types": [
             "AoE Attackers (Hit-5)",
@@ -3982,7 +3983,7 @@ const heroes_data_extra = [
     {
         "name": "Kashhrek",
         "fancy name": "Lizardfolk Chieftain",
-        "Release date": "2017-01-01",
+        "Release date": "2017-03-01",
         "AetherPower": "Defense Up",
         "skill_types": [
             "Buffers (DEF)",
@@ -4028,8 +4029,7 @@ const heroes_data_extra = [
         "skill_types": [
             "Buffers (DEF)",
             "Healers",
-            "Reflectors",
-            
+            "Reflectors"
         ]
     },
     {
@@ -4049,7 +4049,7 @@ const heroes_data_extra = [
     {
         "name": "Little John",
         "fancy name": "Mighty Brother",
-        "Release date": "2017-01-01",
+        "Release date": "2017-03-01",
         "AetherPower": "Defense Up",
         "skill_types": [
             "AoE Attackers (Hit-5)",
@@ -4114,7 +4114,7 @@ const heroes_data_extra = [
     {
         "name": "Melendor",
         "fancy name": "Wisdom of the Forest",
-        "Release date": "2017-01-01",
+        "Release date": "2017-03-01",
         "AetherPower": "Ailment Immunity",
         "skill_types": [
             "Dispellers",
@@ -4124,7 +4124,7 @@ const heroes_data_extra = [
     {
         "name": "Melendor Costume1",
         "fancy name": "Mighty Wizard",
-        "Release date": "2020-01-01",
+        "Release date": "2020-01-20",
         "AetherPower": "Special Armor",
         "skill_types": [
             "Buffers (DEF)",
@@ -4255,7 +4255,7 @@ const heroes_data_extra = [
     {
         "name": "Peters",
         "fancy name": "Cabin Boy of Corellia",
-        "Release date": "2017-01-01",
+        "Release date": "2017-09-07",
         "AetherPower": "Revive",
         "skill_types": [
             "Silencers",
@@ -4311,7 +4311,7 @@ const heroes_data_extra = [
     {
         "name": "Skittleskull",
         "fancy name": "Bog Witch",
-        "Release date": "2017-01-01",
+        "Release date": "2017-03-01",
         "AetherPower": "Mana Boost",
         "skill_types": [
             "AoE Attackers (Hit-5)",
@@ -4321,7 +4321,7 @@ const heroes_data_extra = [
     {
         "name": "Skittleskull Costume1",
         "fancy name": "Candy Witch",
-        "Release date": "2020-01-01",
+        "Release date": "2020-01-20",
         "AetherPower": "Boosted Regen",
         "skill_types": [
             "AoE Attackers (Hit-5)",
@@ -4429,7 +4429,7 @@ const heroes_data_extra = [
     {
         "name": "Alberich",
         "fancy name": "Seelie Champion",
-        "Release date": "2017-10-01T00:00:00",
+        "Release date": "2017-10-01",
         "AetherPower": "Defense Up",
         "skill_types": [
             "Buffers (ATK)",
@@ -4837,7 +4837,7 @@ const heroes_data_extra = [
     {
         "name": "Elkanen",
         "fancy name": "Spearmaster of Moonlight",
-        "Release date": "2017-01-01",
+        "Release date": "2017-03-01",
         "AetherPower": "Special Boost",
         "skill_types": [
             "AoE Attackers (Hit-3)",
@@ -4927,7 +4927,7 @@ const heroes_data_extra = [
     {
         "name": "Evelyn",
         "fancy name": "Brave Heiress",
-        "Release date": "2018-12-01T00:00:00",
+        "Release date": "2018-12-01",
         "AetherPower": "Attack Up",
         "skill_types": [
             "AoE Attackers (Hit-3)",
@@ -5007,7 +5007,7 @@ const heroes_data_extra = [
     {
         "name": "Foxley",
         "fancy name": "The Outlaw Gray Fox",
-        "Release date": "2025-04-14T11:00:00",
+        "Release date": "2025-04-14",
         "AetherPower": "Pain Return",
         "skill_types": [
             "DoT Attackers",
@@ -5220,7 +5220,7 @@ const heroes_data_extra = [
     {
         "name": "Gregorion",
         "fancy name": "The Adept Archer",
-        "Release date": "2018-07-01T00:00:00",
+        "Release date": "2018-07-01",
         "AetherPower": "Attack Up",
         "skill_types": [
             "Buffers (ATK)",
@@ -5269,7 +5269,7 @@ const heroes_data_extra = [
     {
         "name": "Guan Yu",
         "fancy name": "Valiant General",
-        "Release date": "2022-03-14T12:00:00",
+        "Release date": "2022-03-14",
         "AetherPower": "Special Boost",
         "skill_types": [
             "AoE Attackers (Hit-3)",
@@ -5351,7 +5351,7 @@ const heroes_data_extra = [
     {
         "name": "Horghall",
         "fancy name": "Ancient of the Woods",
-        "Release date": "2017-01-01",
+        "Release date": "2017-03-01",
         "AetherPower": "Defense Up",
         "skill_types": [
             "AoE Attackers (Hit-5)",
@@ -5361,7 +5361,7 @@ const heroes_data_extra = [
     {
         "name": "Horghall Costume1",
         "fancy name": "Wooden Jester",
-        "Release date": "2020-01-01",
+        "Release date": "2020-01-20",
         "AetherPower": "Special Armor",
         "skill_types": [
             "AoE Attackers (Hit-5)",
@@ -5444,7 +5444,7 @@ const heroes_data_extra = [
     {
         "name": "Kadilen",
         "fancy name": "Shieldmaster of Moonlight",
-        "Release date": "2017-01-01",
+        "Release date": "2017-03-01",
         "AetherPower": "Defense Up",
         "skill_types": [
             "AoE Attackers (Hit-5)",
@@ -5524,7 +5524,7 @@ const heroes_data_extra = [
     {
         "name": "Lady Locke",
         "fancy name": "Lady of Corellia",
-        "Release date": "2017-09-01",
+        "Release date": "2017-09-07",
         "AetherPower": "Revive",
         "skill_types": [
             "Cleansers",
@@ -5545,7 +5545,7 @@ const heroes_data_extra = [
     {
         "name": "Lady of the Lake",
         "fancy name": "Sorceress of Avalon",
-        "Release date": "2017-01-01",
+        "Release date": "2019-09-12",
         "AetherPower": "Special Armor",
         "skill_types": [
             "Healers",
@@ -5601,7 +5601,7 @@ const heroes_data_extra = [
     {
         "name": "Lianna",
         "fancy name": "The Noble Heart",
-        "Release date": "2017-01-01",
+        "Release date": "2017-03-01",
         "AetherPower": "Attack Up",
         "skill_types": [
             "Snipers"
@@ -5610,7 +5610,7 @@ const heroes_data_extra = [
     {
         "name": "Lianna Costume1",
         "fancy name": "The Noble Guardian",
-        "Release date": "2020-01-01",
+        "Release date": "2020-01-20",
         "AetherPower": "Special Boost",
         "skill_types": [
             "Mana Reducers or Blockers",
@@ -5664,7 +5664,7 @@ const heroes_data_extra = [
     {
         "name": "Liu Bei",
         "fancy name": "Warlord of Shu",
-        "Release date": "2022-05-23T12:00:00",
+        "Release date": "2022-05-23",
         "AetherPower": "Damage Reduction",
         "skill_types": [
             "AoE Attackers (Hit-3)",
@@ -5811,13 +5811,13 @@ const heroes_data_extra = [
         "skill_types": [
             "AoE Attackers (Hit-5)",
             "Mana Generation Buffers",
-            "Damage Sharers" 
+            "Damage Sharers"
         ]
     },
     {
         "name": "Morgan Le Fay",
         "fancy name": "Enchantress of Avalon",
-        "Release date": "2017-01-01",
+        "Release date": "2018-01-05",
         "AetherPower": "Bulwark",
         "skill_types": [
             "Buffers (DEF)",
@@ -5827,7 +5827,7 @@ const heroes_data_extra = [
     {
         "name": "Mother North",
         "fancy name": "The Northern Chef",
-        "Release date": "2017-01-01",
+        "Release date": "2018-12-02",
         "AetherPower": "Defense Up",
         "skill_types": [
             "Healers",
@@ -6296,7 +6296,7 @@ const heroes_data_extra = [
     {
         "name": "The Hatter",
         "fancy name": "Riddler of Wonderland",
-        "Release date": "2019-02-01",
+        "Release date": "2019-02-14",
         "AetherPower": "Ailment Reflect",
         "skill_types": [
             "AoE Attackers (Hit-3)",
@@ -6389,7 +6389,7 @@ const heroes_data_extra = [
             "AoE Attackers (Hit-3)",
             "DoT Attackers",
             "Minions Counters",
-            "Dodgers" 
+            "Dodgers"
         ]
     },
     {
@@ -6442,7 +6442,7 @@ const heroes_data_extra = [
     {
         "name": "Yunan",
         "fancy name": "King of Sand Empire",
-        "Release date": "2017-01-01",
+        "Release date": "2018-06-21",
         "AetherPower": "Mana Boost",
         "skill_types": [
             "AoE Attackers (Hit-5)",
@@ -6478,7 +6478,7 @@ const heroes_data_extra = [
     {
         "name": "Zeline",
         "fancy name": "Celestial of Nature",
-        "Release date": "2018-02-01T00:00:00",
+        "Release date": "2018-02-01",
         "AetherPower": "Attack Up",
         "skill_types": [
             "AoE Attackers (Hit-5)",
@@ -6528,7 +6528,7 @@ const heroes_data_extra = [
     {
         "name": "Fletcher",
         "fancy name": "Thief with Big Plans",
-        "Release date": "2017-01-01",
+        "Release date": "2017-03-01",
         "AetherPower": "",
         "skill_types": [
             "Snipers"
@@ -6537,7 +6537,7 @@ const heroes_data_extra = [
     {
         "name": "Nightshade",
         "fancy name": "Aspiring Archer",
-        "Release date": "2017-01-01",
+        "Release date": "2017-03-01",
         "AetherPower": "",
         "skill_types": [
             "Snipers"
@@ -6546,7 +6546,7 @@ const heroes_data_extra = [
     {
         "name": "Julius",
         "fancy name": "Morgovian Fugitive",
-        "Release date": "2017-01-01",
+        "Release date": "2017-03-01",
         "AetherPower": "",
         "skill_types": [
             "Snipers"
@@ -6555,7 +6555,7 @@ const heroes_data_extra = [
     {
         "name": "Layla",
         "fancy name": "Rebellious Rogue",
-        "Release date": "2017-01-01",
+        "Release date": "2017-03-01",
         "AetherPower": "",
         "skill_types": [
             "DoT Attackers"
@@ -6564,7 +6564,7 @@ const heroes_data_extra = [
     {
         "name": "Silthus",
         "fancy name": "Shambling Remnant",
-        "Release date": "2017-01-01",
+        "Release date": "2017-03-01",
         "AetherPower": "",
         "skill_types": [
             "Buffers (ATK)"
@@ -6616,7 +6616,7 @@ const heroes_data_extra = [
     {
         "name": "Balthazar",
         "fancy name": "Dread Magician",
-        "Release date": "2017-01-01",
+        "Release date": "2017-03-01",
         "AetherPower": "Special Boost",
         "skill_types": [
             "Snipers"
@@ -6825,7 +6825,7 @@ const heroes_data_extra = [
     {
         "name": "Oberon",
         "fancy name": "Relentless Remnant",
-        "Release date": "2017-01-01",
+        "Release date": "2017-03-01",
         "AetherPower": "Mana Boost",
         "skill_types": [
             "AoE Attackers (Hit-5)",
@@ -6865,7 +6865,7 @@ const heroes_data_extra = [
     {
         "name": "Prisca",
         "fancy name": "Resolute Warden",
-        "Release date": "2017-01-01",
+        "Release date": "2017-03-01",
         "AetherPower": "Special Boost",
         "skill_types": [
             "Healers (Special)",
@@ -6907,7 +6907,7 @@ const heroes_data_extra = [
     {
         "name": "Renfeld",
         "fancy name": "Unhinged Assassin",
-        "Release date": "2017-01-01",
+        "Release date": "2017-03-01",
         "AetherPower": "Special Boost",
         "skill_types": [
             "Healers (Special)",
@@ -6951,7 +6951,7 @@ const heroes_data_extra = [
     {
         "name": "Tyrum",
         "fancy name": "Solemn Remnant",
-        "Release date": "2020-02-27",
+        "Release date": "2017-03-01",
         "AetherPower": "Special Boost",
         "skill_types": [
             "Dispellers",
@@ -6961,7 +6961,7 @@ const heroes_data_extra = [
     {
         "name": "Tyrum Costume1",
         "fancy name": "Roman Remnant",
-        "Release date": "2020-01-01",
+        "Release date": "2020-01-20",
         "AetherPower": "Attack Up",
         "skill_types": [
             "Cleansers",
@@ -6993,7 +6993,7 @@ const heroes_data_extra = [
     {
         "name": "Vlad",
         "fancy name": "Vampire Henchman",
-        "Release date": "2018-10-01",
+        "Release date": "2018-10-25",
         "AetherPower": "Vampire",
         "skill_types": [
             "DoT Attackers",
@@ -7084,7 +7084,7 @@ const heroes_data_extra = [
     {
         "name": "Boomer",
         "fancy name": "First Mate of Corellia",
-        "Release date": "2017-01-01",
+        "Release date": "2017-09-07",
         "AetherPower": "Revive",
         "skill_types": [
             "AoE Attackers (Hit-5)",
@@ -7094,7 +7094,7 @@ const heroes_data_extra = [
     {
         "name": "Cheshire Cat",
         "fancy name": "Mischievous Kitty Cat",
-        "Release date": "2017-01-01",
+        "Release date": "2019-02-14",
         "AetherPower": "Special Armor",
         "skill_types": [
             "Debuffers (DEF)",
@@ -7126,7 +7126,7 @@ const heroes_data_extra = [
     {
         "name": "Cyprian",
         "fancy name": "Deathbound Lord",
-        "Release date": "2017-01-01",
+        "Release date": "2017-03-01",
         "AetherPower": "Pain Return",
         "skill_types": [
             "Counterattackers"
@@ -7206,7 +7206,7 @@ const heroes_data_extra = [
     {
         "name": "Gafar",
         "fancy name": "Vizier of Sand Empire",
-        "Release date": "2017-01-01",
+        "Release date": "2018-06-21",
         "AetherPower": "Attack Up",
         "skill_types": [
             "Cleansers",
@@ -7241,7 +7241,7 @@ const heroes_data_extra = [
     {
         "name": "Jabbar",
         "fancy name": "Brute of Sand Empire",
-        "Release date": "2017-01-01",
+        "Release date": "2018-06-21",
         "AetherPower": "Pain Return",
         "skill_types": [
             "AoE Attackers (Hit-3)",
@@ -7308,7 +7308,7 @@ const heroes_data_extra = [
     {
         "name": "Merlin",
         "fancy name": "Wizard of Avalon",
-        "Release date": "2017-01-01",
+        "Release date": "2018-01-05",
         "AetherPower": "Ailment Immunity",
         "skill_types": [
             "Mindless Attack & Mindless Heal",
@@ -7350,7 +7350,7 @@ const heroes_data_extra = [
     {
         "name": "Rigard",
         "fancy name": "Noble Cavalier",
-        "Release date": "2017-01-01",
+        "Release date": "2017-03-01",
         "AetherPower": "Defense Up",
         "skill_types": [
             "Cleansers",
@@ -7360,7 +7360,7 @@ const heroes_data_extra = [
     {
         "name": "Rigard Costume1",
         "fancy name": "Dapper Noble",
-        "Release date": "2020-01-01",
+        "Release date": "2020-01-20",
         "AetherPower": "Special Armor",
         "skill_types": [
             "Buffers (ATK)",
@@ -7393,7 +7393,7 @@ const heroes_data_extra = [
     {
         "name": "Sabina",
         "fancy name": "Deathbound Lady",
-        "Release date": "2017-01-01",
+        "Release date": "2017-03-01",
         "AetherPower": "Special Armor",
         "skill_types": [
             "Dispellers",
@@ -7502,7 +7502,7 @@ const heroes_data_extra = [
     {
         "name": "Tiburtus",
         "fancy name": "Mournful Duke",
-        "Release date": "2017-01-01",
+        "Release date": "2017-03-01",
         "AetherPower": "Attack Up",
         "skill_types": [
             "AoE Attackers (Hit-3)",
@@ -7512,7 +7512,7 @@ const heroes_data_extra = [
     {
         "name": "Tiburtus Costume1",
         "fancy name": "Duke of Rock",
-        "Release date": "2020-01-01",
+        "Release date": "2020-01-20",
         "AetherPower": "Rage",
         "skill_types": [
             "AoE Attackers (Hit-5)",
@@ -7564,7 +7564,7 @@ const heroes_data_extra = [
     {
         "name": "Aeron",
         "fancy name": "Steadfast Judge",
-        "Release date": "2018-04-01T00:00:00",
+        "Release date": "2018-04-01",
         "AetherPower": "Defense Up",
         "skill_types": [
             "Cleansers",
@@ -7634,7 +7634,7 @@ const heroes_data_extra = [
         "skill_types": [
             "Chain & Random Attackers",
             "Max Health Reducers",
-            "Mindless Attack & Mindless Heal",
+            "Mindless Attack & Mindless Heal"
         ]
     },
     {
@@ -7645,7 +7645,7 @@ const heroes_data_extra = [
         "skill_types": [
             "Chain & Random Attackers",
             "Max Health Reducers",
-            "Mindless Attack & Mindless Heal",
+            "Mindless Attack & Mindless Heal"
         ]
     },
     {
@@ -7956,7 +7956,7 @@ const heroes_data_extra = [
     {
         "name": "Diaochan",
         "fancy name": "Brilliant Beauty",
-        "Release date": "2022-03-14T12:00:00",
+        "Release date": "2022-03-14",
         "AetherPower": "Attack Up",
         "skill_types": [
             "Buff Stealers",
@@ -7978,7 +7978,7 @@ const heroes_data_extra = [
     {
         "name": "Domitia",
         "fancy name": "Magitech Sniper",
-        "Release date": "2017-01-01",
+        "Release date": "2017-03-01",
         "AetherPower": "Attack Up",
         "skill_types": [
             "Buffers (DEF)",
@@ -8227,7 +8227,7 @@ const heroes_data_extra = [
     {
         "name": "Guardian Panther",
         "fancy name": "Warrior of Teltoc",
-        "Release date": "2017-01-01",
+        "Release date": "2017-10-05",
         "AetherPower": "Attack Up",
         "skill_types": [
             "AoE Attackers (Hit-3)",
@@ -8297,7 +8297,7 @@ const heroes_data_extra = [
     {
         "name": "Hel",
         "fancy name": "Celestial of Darkness",
-        "Release date": "2017-06-01T00:00:00",
+        "Release date": "2017-06-01",
         "AetherPower": "Attack Up",
         "skill_types": [
             "AoE Attackers (Hit-3)",
@@ -8310,7 +8310,7 @@ const heroes_data_extra = [
     {
         "name": "Hel Costume1",
         "fancy name": "Omen of Darkness",
-        "Release date": "2022-11-28T11:00:00",
+        "Release date": "2022-11-28",
         "AetherPower": "Special Boost",
         "skill_types": [
             "AoE Attackers (Hit-5)",
@@ -8390,7 +8390,7 @@ const heroes_data_extra = [
     {
         "name": "Jabberwock",
         "fancy name": "Horror of Wonderland",
-        "Release date": "2017-01-01",
+        "Release date": "2019-02-14",
         "AetherPower": "Attack Up",
         "skill_types": [
             "DoT Attackers",
@@ -8507,7 +8507,7 @@ const heroes_data_extra = [
     {
         "name": "Khiona",
         "fancy name": "Mirage Assassin",
-        "Release date": "2018-09-01T00:00:00",
+        "Release date": "2018-09-01",
         "AetherPower": "Special Boost",
         "skill_types": [
             "Buffers (ATK)",
@@ -8550,7 +8550,7 @@ const heroes_data_extra = [
     {
         "name": "Killhare",
         "fancy name": "Savage Protector of Springvale",
-        "Release date": "2020-04-16",
+        "Release date": "2020-04-06",
         "AetherPower": "Attack Up",
         "skill_types": [
             "AoE Attackers (Hit-5)",
@@ -8649,7 +8649,7 @@ const heroes_data_extra = [
     {
         "name": "Lu Bu",
         "fancy name": "Wrathful Warlord",
-        "Release date": "2022-03-14T12:00:00",
+        "Release date": "2022-03-14",
         "AetherPower": "Fiend Resist",
         "skill_types": [
             "AoE Attackers (Hit-5)",
@@ -8745,7 +8745,7 @@ const heroes_data_extra = [
     {
         "name": "Marie-Therese",
         "fancy name": "Voodoo Queen of Corellia",
-        "Release date": "2017-01-01",
+        "Release date": "2017-09-07",
         "AetherPower": "Mana Boost",
         "skill_types": [
             "AoE Attackers (Hit-5)",
@@ -8817,7 +8817,7 @@ const heroes_data_extra = [
     {
         "name": "Mok-Arr",
         "fancy name": "Savage Butcher",
-        "Release date": "2017-01-01",
+        "Release date": "2018-02-01",
         "AetherPower": "Rage",
         "skill_types": [
             "AoE Attackers (Hit-5)",
@@ -8911,7 +8911,7 @@ const heroes_data_extra = [
     {
         "name": "Obakan",
         "fancy name": "Praetorian Bodyguard",
-        "Release date": "2017-01-01",
+        "Release date": "2017-03-01",
         "AetherPower": "Pain Return",
         "skill_types": [
             "AoE Attackers (Hit-3)",
@@ -8984,7 +8984,7 @@ const heroes_data_extra = [
             "Extra Damage Dealers",
             "Fiends Counters",
             "Mana Raisers",
-            "Bypassers" 
+            "Bypassers"
         ]
     },
     {
@@ -9077,7 +9077,7 @@ const heroes_data_extra = [
     {
         "name": "Quintus",
         "fancy name": "Mad Scientist",
-        "Release date": "2017-01-01",
+        "Release date": "2017-03-01",
         "AetherPower": "Mana Boost",
         "skill_types": [
             "AoE Attackers (Hit-5)"
@@ -9151,7 +9151,7 @@ const heroes_data_extra = [
         "AetherPower": "Bulwark",
         "skill_types": [
             "Chain & Random Attackers",
-            "Extra Damage Dealers",
+            "Extra Damage Dealers"
         ]
     },
     {
@@ -9167,7 +9167,7 @@ const heroes_data_extra = [
     {
         "name": "Sargasso",
         "fancy name": "Dread Captain of Corellia",
-        "Release date": "2018-08-01",
+        "Release date": "2017-09-07",
         "AetherPower": "Revive",
         "skill_types": [
             "AoE Attackers (Hit-3)",
@@ -9188,7 +9188,7 @@ const heroes_data_extra = [
     {
         "name": "Sartana",
         "fancy name": "Executor from Descenthia",
-        "Release date": "2017-01-01",
+        "Release date": "2017-03-01",
         "AetherPower": "Dodge",
         "skill_types": [
             "DoT Attackers",
@@ -9439,7 +9439,7 @@ const heroes_data_extra = [
     {
         "name": "Thoth-Amun",
         "fancy name": "Master of Crypts",
-        "Release date": "2017-11-01T00:00:00",
+        "Release date": "2017-11-01",
         "AetherPower": "Revive",
         "skill_types": [
             "AoE Attackers (Hit-3)",
@@ -9472,7 +9472,7 @@ const heroes_data_extra = [
             "Bypassers",
             "DoT Attackers",
             "Debuffers (ATK)",
-            "Minions Counters" 
+            "Minions Counters"
         ]
     },
     {
@@ -9561,7 +9561,7 @@ const heroes_data_extra = [
     {
         "name": "Ursena",
         "fancy name": "Empress of the Depths",
-        "Release date": "2017-01-01",
+        "Release date": "2019-02-01",
         "AetherPower": "Bulwark",
         "skill_types": [
             "AoE Attackers (Hit-5)",
@@ -9631,7 +9631,7 @@ const heroes_data_extra = [
     {
         "name": "Victor",
         "fancy name": "Vampire King",
-        "Release date": "2018-10-01",
+        "Release date": "2018-10-25",
         "AetherPower": "Vampire",
         "skill_types": [
             "Buffers (DEF)",
@@ -9801,7 +9801,7 @@ const heroes_data_extra = [
     {
         "name": "Sharan",
         "fancy name": "Talented Trapper",
-        "Release date": "2017-01-01",
+        "Release date": "2017-03-01",
         "AetherPower": "",
         "skill_types": [
             "Healers"
@@ -9810,7 +9810,7 @@ const heroes_data_extra = [
     {
         "name": "Tudan",
         "fancy name": "Sly Sellsword",
-        "Release date": "2017-01-01",
+        "Release date": "2017-03-01",
         "AetherPower": "",
         "skill_types": [
             "Snipers"
@@ -9819,7 +9819,7 @@ const heroes_data_extra = [
     {
         "name": "Farid",
         "fancy name": "Rugged Brawler",
-        "Release date": "2017-01-01",
+        "Release date": "2017-03-01",
         "AetherPower": "",
         "skill_types": [
             "AoE Attackers (Hit-5)"
@@ -9828,7 +9828,7 @@ const heroes_data_extra = [
     {
         "name": "Jill",
         "fancy name": "Youthful Traveler",
-        "Release date": "2017-01-01",
+        "Release date": "2017-03-01",
         "AetherPower": "",
         "skill_types": [
             "Buffers (ATK)"
@@ -9837,7 +9837,7 @@ const heroes_data_extra = [
     {
         "name": "Shaarkot",
         "fancy name": "Servant of the Old Ones",
-        "Release date": "2017-01-01",
+        "Release date": "2017-03-01",
         "AetherPower": "",
         "skill_types": [
             "Buffers (ATK)"
@@ -9846,7 +9846,7 @@ const heroes_data_extra = [
     {
         "name": "Zudak",
         "fancy name": "Half-Blood Fighter",
-        "Release date": "2017-01-01",
+        "Release date": "2017-03-01",
         "AetherPower": "",
         "skill_types": [
             "AoE Attackers (Hit-3)"
@@ -9855,7 +9855,7 @@ const heroes_data_extra = [
     {
         "name": "Azar",
         "fancy name": "Seeker of Throne",
-        "Release date": "2017-01-01",
+        "Release date": "2017-03-01",
         "AetherPower": "Rage",
         "skill_types": [
             "Mana Reducers or Blockers",
@@ -9880,7 +9880,7 @@ const heroes_data_extra = [
         "skill_types": [
             "Mana Reducers or Blockers",
             "Snipers",
-            "Extra Damage Dealers" 
+            "Extra Damage Dealers"
         ]
     },
     {
@@ -10003,7 +10003,7 @@ const heroes_data_extra = [
     {
         "name": "Hawkmoon",
         "fancy name": "Ascendant Shaman",
-        "Release date": "2017-01-01",
+        "Release date": "2017-03-01",
         "AetherPower": "Defense Up",
         "skill_types": [
             "Healers"
@@ -10012,7 +10012,7 @@ const heroes_data_extra = [
     {
         "name": "Hawkmoon Costume1",
         "fancy name": "Ascendant Mender",
-        "Release date": "2020-01-01",
+        "Release date": "2020-01-20",
         "AetherPower": "Special Armor",
         "skill_types": [
             "Buffers (ATK)",
@@ -10045,7 +10045,7 @@ const heroes_data_extra = [
     {
         "name": "Jahangir",
         "fancy name": "Mage from the Sandsea",
-        "Release date": "2017-01-01",
+        "Release date": "2017-03-01",
         "AetherPower": "Defense Up",
         "skill_types": [
             "AoE Attackers (Hit-5)",
@@ -10097,7 +10097,7 @@ const heroes_data_extra = [
     {
         "name": "Li",
         "fancy name": "Wu Footsoldier",
-        "Release date": "2022-03-14T12:00:00",
+        "Release date": "2022-03-14",
         "AetherPower": "Regen",
         "skill_types": [
             "AoE Attackers (Hit-5)",
@@ -10128,7 +10128,7 @@ const heroes_data_extra = [
     {
         "name": "Nashgar",
         "fancy name": "First in Battle",
-        "Release date": "2017-01-01",
+        "Release date": "2017-03-01",
         "AetherPower": "Attack Up",
         "skill_types": [
             "DoT Attackers",
@@ -10182,7 +10182,7 @@ const heroes_data_extra = [
     {
         "name": "Rudolph",
         "fancy name": "Santa's Loyal Steed",
-        "Release date": "2017-01-01",
+        "Release date": "2018-12-02",
         "AetherPower": "Attack Up",
         "skill_types": [
             "Mana Reducers or Blockers",
@@ -10214,7 +10214,7 @@ const heroes_data_extra = [
     {
         "name": "Squire Wabbit",
         "fancy name": "Squire of Springvale",
-        "Release date": "2017-01-01",
+        "Release date": "2018-03-28",
         "AetherPower": "Rage",
         "skill_types": [
             "Negative Effects On Self Or Allies",
@@ -10300,7 +10300,7 @@ const heroes_data_extra = [
     {
         "name": "Boldtusk",
         "fancy name": "The Unwavering",
-        "Release date": "2017-01-01",
+        "Release date": "2017-03-01",
         "AetherPower": "Defense Up",
         "skill_types": [
             "Buffers (ATK)",
@@ -10310,7 +10310,7 @@ const heroes_data_extra = [
     {
         "name": "Boldtusk Costume1",
         "fancy name": "Cast Iron Chef",
-        "Release date": "2020-01-01",
+        "Release date": "2020-01-20",
         "AetherPower": "Pain Return",
         "skill_types": [
             "Buffers (ATK)",
@@ -10377,7 +10377,7 @@ const heroes_data_extra = [
     {
         "name": "Colen",
         "fancy name": "Brave Bounty Hunter",
-        "Release date": "2017-01-01",
+        "Release date": "2017-03-01",
         "AetherPower": "Attack Up",
         "skill_types": [
             "AoE Attackers (Hit-5)",
@@ -10413,7 +10413,7 @@ const heroes_data_extra = [
         "skill_types": [
             "AoE Attackers (Hit-5)",
             "DoT Attackers",
-            "Extra Damage Dealers" 
+            "Extra Damage Dealers"
         ]
     },
     {
@@ -10460,7 +10460,7 @@ const heroes_data_extra = [
     {
         "name": "Gormek",
         "fancy name": "The Hungry",
-        "Release date": "2017-01-01",
+        "Release date": "2017-03-01",
         "AetherPower": "Rage",
         "skill_types": [
             "AoE Attackers (Hit-3)",
@@ -10513,7 +10513,7 @@ const heroes_data_extra = [
     {
         "name": "Guardian Falcon",
         "fancy name": "Priest of Teltoc",
-        "Release date": "2017-01-01",
+        "Release date": "2017-10-05",
         "AetherPower": "Ailment Immunity",
         "skill_types": [
             "AoE Attackers (Hit-3)",
@@ -10554,7 +10554,7 @@ const heroes_data_extra = [
     {
         "name": "Kelile",
         "fancy name": "Priestess of Dragonia",
-        "Release date": "2017-01-01",
+        "Release date": "2017-03-01",
         "AetherPower": "Attack Up",
         "skill_types": [
             "DoT Attackers",
@@ -10722,7 +10722,7 @@ const heroes_data_extra = [
     {
         "name": "Scarlett",
         "fancy name": "Raider from the Sandsea",
-        "Release date": "2017-01-01",
+        "Release date": "2017-03-01",
         "AetherPower": "Attack Up",
         "skill_types": [
             "AoE Attackers (Hit-3)",
@@ -10785,7 +10785,7 @@ const heroes_data_extra = [
     {
         "name": "Sir Lancelot",
         "fancy name": "Knight of Avalon",
-        "Release date": "2017-01-01",
+        "Release date": "2018-01-05",
         "AetherPower": "Special Boost",
         "skill_types": [
             "Buffers (ATK)",
@@ -10840,7 +10840,7 @@ const heroes_data_extra = [
     {
         "name": "Sun Shangxiang",
         "fancy name": "Noble Battler",
-        "Release date": "2022-03-14T12:00:00",
+        "Release date": "2022-03-14",
         "AetherPower": "Attack Up",
         "skill_types": [
             "AoE Attackers (Hit-3)",
@@ -10895,7 +10895,7 @@ const heroes_data_extra = [
     {
         "name": "Zhou Yu",
         "fancy name": "Young Commander",
-        "Release date": "2022-03-14T12:00:00",
+        "Release date": "2022-03-14",
         "AetherPower": "Attack Up",
         "skill_types": [
             "DoT Attackers",
@@ -11029,7 +11029,7 @@ const heroes_data_extra = [
     {
         "name": "Ares",
         "fancy name": "Deity of War",
-        "Release date": "2017-08-01T00:00:00",
+        "Release date": "2017-08-01",
         "AetherPower": "Defense Up",
         "skill_types": [
             "Buffers (ATK)",
@@ -11090,7 +11090,7 @@ const heroes_data_extra = [
     {
         "name": "Azlar",
         "fancy name": "Last of the Leors",
-        "Release date": "2017-01-01",
+        "Release date": "2017-03-01",
         "AetherPower": "Rage",
         "skill_types": [
             "AoE Attackers (Hit-5)",
@@ -11232,7 +11232,7 @@ const heroes_data_extra = [
     {
         "name": "Black Knight",
         "fancy name": "Terror of Avalon",
-        "Release date": "2017-01-01",
+        "Release date": "2021-07-09",
         "AetherPower": "Knight's Endurance",
         "skill_types": [
             "Buffers (ATK)",
@@ -11292,7 +11292,7 @@ const heroes_data_extra = [
     {
         "name": "Captain Kestrel",
         "fancy name": "Buccaneer Captain of Corellia",
-        "Release date": "2017-01-01",
+        "Release date": "2017-09-07",
         "AetherPower": "Revive",
         "skill_types": [
             "AoE Attackers (Hit-3)",
@@ -11354,7 +11354,7 @@ const heroes_data_extra = [
             "Silencers",
             "Ability Scores Modifiers",
             "Minions Counters",
-            "Bypassers" 
+            "Bypassers"
         ]
     },
     {
@@ -11577,7 +11577,7 @@ const heroes_data_extra = [
     {
         "name": "Elena",
         "fancy name": "Captain of the Royal Guard",
-        "Release date": "2017-01-01",
+        "Release date": "2017-03-01",
         "AetherPower": "Regen",
         "skill_types": [
             "AoE Attackers (Hit-5)",
@@ -11587,7 +11587,7 @@ const heroes_data_extra = [
     {
         "name": "Elena Costume1",
         "fancy name": "Captain of Fire",
-        "Release date": "2020-01-01",
+        "Release date": "2020-01-20",
         "AetherPower": "Damage Reduction",
         "skill_types": [
             "AoE Attackers (Hit-5)",
@@ -11835,7 +11835,7 @@ const heroes_data_extra = [
     {
         "name": "Gravemaker",
         "fancy name": "Blood-Stained Druid",
-        "Release date": "2018-06-01T00:00:00",
+        "Release date": "2018-06-01",
         "AetherPower": "Dodge",
         "skill_types": [
             "AoE Attackers (Hit-3)",
@@ -11935,7 +11935,7 @@ const heroes_data_extra = [
         "skill_types": [
             "Health Boosters",
             "Immunity Providers",
-            "Heal over Time (HoT)", 
+            "Heal over Time (HoT)",
             "Mana Raisers"
         ]
     },
@@ -12068,7 +12068,7 @@ const heroes_data_extra = [
     {
         "name": "Khagan",
         "fancy name": "Chief of Tribes",
-        "Release date": "2017-01-01",
+        "Release date": "2017-03-01",
         "AetherPower": "Special Armor",
         "skill_types": [
             "AoE Attackers (Hit-3)",
@@ -12270,7 +12270,7 @@ const heroes_data_extra = [
     {
         "name": "Marjana",
         "fancy name": "Lady of Windemer",
-        "Release date": "2017-01-01",
+        "Release date": "2017-03-01",
         "AetherPower": "Attack Up",
         "skill_types": [
             "DoT Attackers",
@@ -12324,7 +12324,7 @@ const heroes_data_extra = [
     {
         "name": "Mitsuko",
         "fancy name": "Fatal Beauty",
-        "Release date": "2017-01-01",
+        "Release date": "2019-02-01",
         "AetherPower": "Special Boost",
         "skill_types": [
             "AoE Attackers (Hit-3)",
@@ -12370,7 +12370,7 @@ const heroes_data_extra = [
     {
         "name": "Natalya",
         "fancy name": "Fireborn Enchantress",
-        "Release date": "2018-01-01T00:00:00",
+        "Release date": "2018-01-01",
         "AetherPower": "Dodge",
         "skill_types": [
             "DoT Attackers",
@@ -12400,7 +12400,7 @@ const heroes_data_extra = [
         "skill_types": [
             "AoE Attackers (Hit-5)",
             "Fiends Summoners",
-            "Taunters", 
+            "Taunters",
             "DoT Attackers",
             "Buffers (ATK)"
         ]
@@ -12507,7 +12507,7 @@ const heroes_data_extra = [
             "Snipers",
             "Fiends Summoners",
             "DoT Attackers",
-            "Negative Effects On Self Or Allies" 
+            "Negative Effects On Self Or Allies"
         ]
     },
     {
@@ -12573,7 +12573,7 @@ const heroes_data_extra = [
     {
         "name": "Puss in Boots",
         "fancy name": "Cat of Grimforest",
-        "Release date": "2017-01-01",
+        "Release date": "2019-12-01",
         "AetherPower": "Defense Up",
         "skill_types": [
             "Buffers (ATK)",
@@ -12597,7 +12597,7 @@ const heroes_data_extra = [
     {
         "name": "Queen of Hearts",
         "fancy name": "Monarch of Wonderland",
-        "Release date": "2019-02-01",
+        "Release date": "2019-02-14",
         "AetherPower": "Taunt",
         "skill_types": [
             "AoE Attackers (Hit-3)",
@@ -12665,7 +12665,7 @@ const heroes_data_extra = [
     {
         "name": "Red Hood",
         "fancy name": "Protector of Grimforest",
-        "Release date": "2017-01-01",
+        "Release date": "2019-12-01",
         "AetherPower": "Defense Up",
         "skill_types": [
             "AoE Attackers (Hit-5)",
@@ -12703,7 +12703,7 @@ const heroes_data_extra = [
     {
         "name": "Revna",
         "fancy name": "Carnelian Hunter",
-        "Release date": "2024-10-18T11:30:00",
+        "Release date": "2024-10-18",
         "AetherPower": "Defense Up",
         "skill_types": [
             "Cleansers",
@@ -13015,7 +13015,7 @@ const heroes_data_extra = [
     {
         "name": "Tyr",
         "fancy name": "Relentless Justice",
-        "Release date": "2017-01-01",
+        "Release date": "2020-02-28",
         "AetherPower": "Attack Up",
         "skill_types": [
             "Bypassers",
@@ -13232,7 +13232,7 @@ const heroes_data_extra = [
             "Buffers (ATK)",
             "Snipers",
             "Debuffers (ATK)",
-            "Buffers(ATK)",
+            "Buffers (ATK)",
             "Extra Damage Dealers"
         ]
     },
@@ -13251,7 +13251,7 @@ const heroes_data_extra = [
     {
         "name": "Zimkitha",
         "fancy name": "Long-Lost Daughter",
-        "Release date": "2018-11-01T00:00:00",
+        "Release date": "2018-11-01",
         "AetherPower": "Attack Up",
         "skill_types": [
             "AoE Attackers (Hit-5)",
@@ -13275,7 +13275,7 @@ const heroes_data_extra = [
     {
         "name": "Hikaru",
         "fancy name": "Ninja Student",
-        "Release date": "2017-01-01",
+        "Release date": "2017-03-01",
         "AetherPower": "",
         "skill_types": [
             "Snipers"
@@ -13284,7 +13284,7 @@ const heroes_data_extra = [
     {
         "name": "Kenjiro",
         "fancy name": "Foot Soldier",
-        "Release date": "2017-01-01",
+        "Release date": "2017-03-01",
         "AetherPower": "",
         "skill_types": [
             "AoE Attackers (Hit-5)"
@@ -13293,7 +13293,7 @@ const heroes_data_extra = [
     {
         "name": "Hou",
         "fancy name": "Monkey Warrior",
-        "Release date": "2017-01-01",
+        "Release date": "2017-03-01",
         "AetherPower": "",
         "skill_types": [
             "Buffers (DEF)"
@@ -13302,7 +13302,7 @@ const heroes_data_extra = [
     {
         "name": "Nash",
         "fancy name": "Smith's Apprentice",
-        "Release date": "2017-01-01",
+        "Release date": "2017-03-01",
         "AetherPower": "",
         "skill_types": [
             "Debuffers (ATK)",
@@ -13312,7 +13312,7 @@ const heroes_data_extra = [
     {
         "name": "Sha Ji",
         "fancy name": "Leaf of Bamboo",
-        "Release date": "2017-01-01",
+        "Release date": "2017-03-01",
         "AetherPower": "",
         "skill_types": [
             "Healers"
@@ -13331,7 +13331,7 @@ const heroes_data_extra = [
     {
         "name": "Arman",
         "fancy name": "Soldier of Sand Empire",
-        "Release date": "2017-01-01",
+        "Release date": "2018-06-21",
         "AetherPower": "Rage",
         "skill_types": [
             "AoE Attackers (Hit-5)",
@@ -13343,7 +13343,7 @@ const heroes_data_extra = [
     {
         "name": "Bane",
         "fancy name": "Noble Defender",
-        "Release date": "2017-01-01",
+        "Release date": "2017-03-01",
         "AetherPower": "Attack Up",
         "skill_types": [
             "Debuffers (ATK)",
@@ -13353,7 +13353,7 @@ const heroes_data_extra = [
     {
         "name": "Bane Costume1",
         "fancy name": "Noble Brawler",
-        "Release date": "2020-01-01",
+        "Release date": "2020-01-20",
         "AetherPower": "Special Boost",
         "skill_types": [
             "Debuffers (ATK)",
@@ -13428,7 +13428,7 @@ const heroes_data_extra = [
     {
         "name": "Dawa",
         "fancy name": "Ranger of Shaguad",
-        "Release date": "2017-01-01",
+        "Release date": "2017-03-01",
         "AetherPower": "Dodge",
         "skill_types": [
             "AoE Attackers (Hit-3)"
@@ -13437,7 +13437,7 @@ const heroes_data_extra = [
     {
         "name": "Dawa Costume1",
         "fancy name": "Shaguadian Guardian",
-        "Release date": "2021-01-18",
+        "Release date": "2021-01-25",
         "AetherPower": "Rage",
         "skill_types": [
             "Chain & Random Attackers",
@@ -13493,7 +13493,7 @@ const heroes_data_extra = [
     {
         "name": "Gan Ju",
         "fancy name": "Branch of Bamboo",
-        "Release date": "2017-01-01",
+        "Release date": "2017-03-01",
         "AetherPower": "Attack Up",
         "skill_types": [
             "Mana Reducers or Blockers",
@@ -13503,7 +13503,7 @@ const heroes_data_extra = [
     {
         "name": "Gan Ju Costume1",
         "fancy name": "Root of Bamboo",
-        "Release date": "2021-01-18",
+        "Release date": "2021-01-25",
         "AetherPower": "Special Boost",
         "skill_types": [
             "Mana Reducers or Blockers",
@@ -13569,7 +13569,7 @@ const heroes_data_extra = [
     {
         "name": "Kailani",
         "fancy name": "Selfless Healer",
-        "Release date": "2017-01-01",
+        "Release date": "2017-03-01",
         "AetherPower": "Special Armor",
         "skill_types": [
             "Buffers (DEF)",
@@ -13579,7 +13579,7 @@ const heroes_data_extra = [
     {
         "name": "Kailani Costume1",
         "fancy name": "Magnanimous Mender",
-        "Release date": "2021-01-18",
+        "Release date": "2021-01-25",
         "AetherPower": "Defense Up",
         "skill_types": [
             "Buffers (ATK)",
@@ -13814,7 +13814,7 @@ const heroes_data_extra = [
     {
         "name": "Chao",
         "fancy name": "Master Tactician",
-        "Release date": "2017-01-01",
+        "Release date": "2017-03-01",
         "AetherPower": "Ailment Immunity",
         "skill_types": [
             "Mana Reducers or Blockers",
@@ -13850,7 +13850,7 @@ const heroes_data_extra = [
         "skill_types": [
             "Mana Reducers or Blockers",
             "Snipers",
-            "Extra Damage Dealers" 
+            "Extra Damage Dealers"
         ]
     },
     {
@@ -13914,7 +13914,7 @@ const heroes_data_extra = [
             "Extra Damage Dealers",
             "Bypassers",
             "DoT Attackers",
-             "Debuffers (DEF)" 
+            "Debuffers (DEF)"
         ]
     },
     {
@@ -13931,7 +13931,7 @@ const heroes_data_extra = [
     {
         "name": "Gretel",
         "fancy name": "Witch Slayer of Grimforest",
-        "Release date": "2017-01-01",
+        "Release date": "2018-06-01",
         "AetherPower": "Attack Up",
         "skill_types": [
             "AoE Attackers (Hit-3)",
@@ -13972,7 +13972,7 @@ const heroes_data_extra = [
     {
         "name": "Guardian Jackal",
         "fancy name": "Assassin of Teltoc",
-        "Release date": "2017-01-01",
+        "Release date": "2017-10-05",
         "AetherPower": "Attack Up",
         "skill_types": [
             "Debuffers (DEF)",
@@ -14027,7 +14027,7 @@ const heroes_data_extra = [
     {
         "name": "Hu Tao",
         "fancy name": "Blade of Bamboo",
-        "Release date": "2017-01-01",
+        "Release date": "2017-03-01",
         "AetherPower": "Defense Up",
         "skill_types": [
             "AoE Attackers (Hit-5)",
@@ -14091,7 +14091,7 @@ const heroes_data_extra = [
     {
         "name": "Li Xiu",
         "fancy name": "Wise General",
-        "Release date": "2017-01-01",
+        "Release date": "2017-03-01",
         "AetherPower": "Pain Return",
         "skill_types": [
             "AoE Attackers (Hit-5)",
@@ -14101,7 +14101,7 @@ const heroes_data_extra = [
     {
         "name": "Li Xiu Costume1",
         "fancy name": "Ceremonial Assassin",
-        "Release date": "2020-01-01",
+        "Release date": "2020-01-20",
         "AetherPower": "Special Armor",
         "skill_types": [
             "AoE Attackers (Hit-5)",
@@ -14207,7 +14207,7 @@ const heroes_data_extra = [
     {
         "name": "Wang Yuanji",
         "fancy name": "Gentle Noblewoman",
-        "Release date": "2022-03-14T12:00:00",
+        "Release date": "2022-03-14",
         "AetherPower": "Heal Increase",
         "skill_types": [
             "Fiends Counters",
@@ -14228,7 +14228,7 @@ const heroes_data_extra = [
     {
         "name": "Wu Kong",
         "fancy name": "Monkey Lord",
-        "Release date": "2017-01-01",
+        "Release date": "2017-03-01",
         "AetherPower": "Gamble",
         "skill_types": [
             "Buffers (ATK)",
@@ -14559,7 +14559,7 @@ const heroes_data_extra = [
     {
         "name": "Delilah",
         "fancy name": "Hero of the Forbidden Island",
-        "Release date": "2018-03-01T00:00:00",
+        "Release date": "2018-03-01",
         "AetherPower": "Defense Up",
         "skill_types": [
             "Healers",
@@ -14620,7 +14620,7 @@ const heroes_data_extra = [
     {
         "name": "Drake Fong",
         "fancy name": "Master of Martial Arts",
-        "Release date": "2018-08-01T00:00:00",
+        "Release date": "2018-08-01",
         "AetherPower": "Attack Up",
         "skill_types": [
             "AoE Attackers (Hit-3)",
@@ -14694,7 +14694,7 @@ const heroes_data_extra = [
         "skill_types": [
             "Board Alterers",
             "Debuffers (ATK)",
-            "Buffers (ATK)", 
+            "Buffers (ATK)",
             "Chain & Random Attackers",
             "Extra Damage Dealers"
         ]
@@ -14905,7 +14905,7 @@ const heroes_data_extra = [
     {
         "name": "Guardian Owl",
         "fancy name": "Elite Guardian of Teltoc",
-        "Release date": "2017-01-01",
+        "Release date": "2017-10-05",
         "AetherPower": "Mana Boost",
         "skill_types": [
             "AoE Attackers (Hit-5)",
@@ -14917,7 +14917,7 @@ const heroes_data_extra = [
     {
         "name": "Guinevere",
         "fancy name": "Queen of Avalon",
-        "Release date": "2017-01-01",
+        "Release date": "2018-01-05",
         "AetherPower": "Bulwark",
         "skill_types": [
             "Buffers (DEF)",
@@ -15035,7 +15035,7 @@ const heroes_data_extra = [
     {
         "name": "Inari",
         "fancy name": "Nine-tailed Spirit",
-        "Release date": "2017-01-01",
+        "Release date": "2019-02-01",
         "AetherPower": "Attack Up",
         "skill_types": [
             "Dodgers",
@@ -15066,7 +15066,7 @@ const heroes_data_extra = [
             "Mana Reducers or Blockers",
             "Snipers",
             "Chain & Random Attackers",
-            "Extra Damage Dealers" 
+            "Extra Damage Dealers"
         ]
     },
     {
@@ -15143,7 +15143,7 @@ const heroes_data_extra = [
     {
         "name": "Joon",
         "fancy name": "Flame of the Sun",
-        "Release date": "2017-01-01",
+        "Release date": "2017-03-01",
         "AetherPower": "Dodge",
         "skill_types": [
             "Debuffers (ATK)",
@@ -15153,7 +15153,7 @@ const heroes_data_extra = [
     {
         "name": "Joon Costume1",
         "fancy name": "Fury of the Sun",
-        "Release date": "2020-01-01",
+        "Release date": "2020-01-20",
         "AetherPower": "Damage Reduction",
         "skill_types": [
             "Debuffers (ATK)",
@@ -15207,7 +15207,7 @@ const heroes_data_extra = [
     {
         "name": "Justice",
         "fancy name": "Ancient of Stone",
-        "Release date": "2017-01-01",
+        "Release date": "2017-03-01",
         "AetherPower": "Defense Up",
         "skill_types": [
             "AoE Attackers (Hit-5)",
@@ -15330,7 +15330,7 @@ const heroes_data_extra = [
     {
         "name": "Leonidas",
         "fancy name": "Unyielding King",
-        "Release date": "2017-01-01",
+        "Release date": "2017-03-01",
         "AetherPower": "Pain Return",
         "skill_types": [
             "Healers (Special)",
@@ -15528,7 +15528,7 @@ const heroes_data_extra = [
     {
         "name": "Musashi",
         "fancy name": "Invincible Ronin",
-        "Release date": "2017-09-01T00:00:00",
+        "Release date": "2017-09-01",
         "AetherPower": "Attack Up",
         "skill_types": [
             "AoE Attackers (Hit-3)",
@@ -15791,7 +15791,7 @@ const heroes_data_extra = [
     {
         "name": "Rana",
         "fancy name": "Queen of Sand Empire",
-        "Release date": "2017-01-01",
+        "Release date": "2018-06-21",
         "AetherPower": "Pain Return",
         "skill_types": [
             "AoE Attackers (Hit-3)",
@@ -16100,7 +16100,7 @@ const heroes_data_extra = [
     {
         "name": "Vivica",
         "fancy name": "Scholar Supreme",
-        "Release date": "2017-01-01",
+        "Release date": "2017-03-01",
         "AetherPower": "Defense Up",
         "skill_types": [
             "Buffers (DEF)",
@@ -16111,7 +16111,7 @@ const heroes_data_extra = [
     {
         "name": "Vivica Costume1",
         "fancy name": "Magician Supreme",
-        "Release date": "2020-01-01",
+        "Release date": "2020-01-20",
         "AetherPower": "Special Armor",
         "skill_types": [
             "Debuffers (DEF)",
@@ -16180,7 +16180,7 @@ const heroes_data_extra = [
     {
         "name": "White Rabbit",
         "fancy name": "Guide of Wonderland",
-        "Release date": "2017-01-01",
+        "Release date": "2019-02-14",
         "AetherPower": "Attack Up",
         "skill_types": [
             "AoE Attackers (Hit-3)",
@@ -16335,7 +16335,7 @@ const heroes_data_extra = [
     {
         "name": "Zhang Fei",
         "fancy name": "Merciless General",
-        "Release date": "2022-03-14T12:00:00",
+        "Release date": "2022-03-14",
         "AetherPower": "Attack Up",
         "skill_types": [
             "Reflectors",
@@ -16356,7 +16356,7 @@ const heroes_data_extra = [
     {
         "name": "Zhuge Liang",
         "fancy name": "Master Strategist",
-        "Release date": "2022-03-14T12:00:00",
+        "Release date": "2022-03-14",
         "AetherPower": "Fiend Resist",
         "skill_types": [
             "Counterattackers",
@@ -16387,5 +16387,31 @@ const heroes_data_extra = [
             "Buffers (ATK)",
             "Cleansers"
         ]
-    }
+    },
+    {
+        "name": "Gelert costume1",
+        "fancy name": "Scavenger of the Deep",
+        "Release date": "2025-06-26",
+        "AetherPower": "Dodge",
+        "skill_types": [
+            "Mana Generation Buffers",
+            "Mana Raisers",
+            "Mana Reducers or Blockers",
+            "Snipers",
+            "Extra Damage Dealers"
+        ]
+    },
+    {
+        "name": "Lennart",
+        "fancy name": "Sharp-Eyed Bobcat",
+        "Release date": "2025-06-28",
+        "AetherPower": "Ailment Immunity",
+        "skill_types": [
+            "Snipers",
+            "DoT Attackers",
+            "Revivers",
+            "Healing Reducers",
+            "Extra Damage Dealers"
+        ]
+      }
   ];

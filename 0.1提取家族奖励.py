@@ -15,7 +15,7 @@ def process_families():
     # 定义家族数据目录和输出JS文件路径
     families_dir = '../heroplan_data/data/families'
     output_js_to_translate = 'to_translate/families_bonus_to_translate.js'
-    output_js_en_backup = 'families_bonus_en.js'
+    output_js_en_backup = 'translated/families_bonus_en.js'
     
     all_families_data = [] # 存储所有从YAML读取的家族数据
     
