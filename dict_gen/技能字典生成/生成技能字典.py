@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-# 最终正确版本 (用于技能 Effects) - 已添加序数词豁免规则
+# 【最终版】采用新规则：仅当结尾为“非标点符号”时才补全句号
 
 import re
 import json
@@ -84,45 +84,62 @@ def create_effects_dictionary(original_data, translated_data, lang_name, logger)
     """
     regex_dict = {}
     number_pattern = r'([+-]?\s*\d+\s*%?)'
+    split_pattern = re.compile(r'^(.*\S)\s*([\(\（][^)\）]+[\)\）])\s*([.。!?？]?)$', re.DOTALL)
     
+    # 正则表达式，用于匹配结尾是否为“非标点”（字母、数字、汉字）
+    ends_with_word_char = re.compile(r'[\w\u4e00-\u9fa5]$')
+
     original_map = {item['originalIndex']: item.get('effects', []) for item in original_data}
     translated_map = {item['originalIndex']: item.get('effects', []) for item in translated_data}
 
     for index in original_map:
         if index not in translated_map: continue
         
-        eng_effects = [text for e in original_map.get(index, []) if (text := extract_string_from_item(e)) and text.strip()]
-        trans_effects = [text for t in translated_map.get(index, []) if (text := extract_string_from_item(t)) and text.strip()]
+        raw_eng_effects = [text for e in original_map.get(index, []) if (text := extract_string_from_item(e)) and text.strip()]
+        raw_trans_effects = [text for t in translated_map.get(index, []) if (text := extract_string_from_item(t)) and text.strip()]
 
-        if len(eng_effects) != len(trans_effects): continue
+        if len(raw_eng_effects) != len(raw_trans_effects):
+            continue
 
-        for eng_text, trans_text in zip(eng_effects, trans_effects):
+        final_eng_effects = []
+        final_trans_effects = []
+        for eng_text, trans_text in zip(raw_eng_effects, raw_trans_effects):
+            eng_match = split_pattern.match(eng_text.strip())
+            trans_match = split_pattern.match(trans_text.strip())
+
+            if eng_match and trans_match:
+                final_eng_effects.append(eng_match.group(1).strip())
+                final_eng_effects.append(eng_match.group(2).strip())
+                final_trans_effects.append(trans_match.group(1).strip())
+                final_trans_effects.append(trans_match.group(2).strip())
+            else:
+                final_eng_effects.append(eng_text)
+                final_trans_effects.append(trans_text)
+        
+        for eng_text, trans_text in zip(final_eng_effects, final_trans_effects):
             try:
+                eng_text = eng_text.strip()
+                trans_text = trans_text.strip()
+
+                # 【核心修正】使用正则表达式判断是否需要补全句号
+                if trans_text and ends_with_word_char.search(trans_text):
+                    if not trans_text.startswith(('(', '（')):
+                        trans_text += "。"
+
                 eng_nums = re.findall(number_pattern, eng_text)
                 
-                # #######################################################
-                # ### vvv 新增：序数词豁免规则 vvv ###
-                # #######################################################
-                # 定义一个匹配 "1st", "2nd", "3rd", "4th" 等格式的正则表达式
                 ordinal_pattern = r'^\s*\d+(st|nd|rd|th)\s*[:.]?\s*$'
-                # 如果整个英文字符串匹配这个格式，则清空找到的数字，强制其走静态文本逻辑
                 if re.fullmatch(ordinal_pattern, eng_text.strip()):
                     eng_nums = []
-                # #######################################################
-                # ### ^^^ 新增：序数词豁免规则 ^^^ ###
-                # #######################################################
 
                 if eng_nums:
                     trans_nums = re.findall(number_pattern, trans_text)
                     eng_num_values = [get_numeric_value(n) for n in eng_nums]
                     trans_num_values = [get_numeric_value(n) for n in trans_nums]
-
                     eng_parts = re.split(number_pattern, eng_text)
                     regex_key_parts = [normalize_text_for_regex(p) if k % 2 == 0 else number_pattern for k, p in enumerate(eng_parts)]
                     regex_key = f"^{''.join(regex_key_parts)}$"
-                    
                     template_value = trans_text
-
                     if len(eng_nums) == len(trans_nums) and sorted(eng_num_values) == sorted(trans_num_values):
                         eng_num_counts = defaultdict(int)
                         eng_num_to_backreference = {}
@@ -131,7 +148,6 @@ def create_effects_dictionary(original_data, translated_data, lang_name, logger)
                             key = (num_val, eng_num_counts[num_val])
                             eng_num_to_backreference[key] = i + 1
                             eng_num_counts[num_val] += 1
-
                         trans_num_counts = defaultdict(int)
                         def replacer(match):
                             matched_num_str = match.group(1)
@@ -139,28 +155,21 @@ def create_effects_dictionary(original_data, translated_data, lang_name, logger)
                             key = (matched_num_val, trans_num_counts[matched_num_val])
                             backreference_index = eng_num_to_backreference.get(key)
                             trans_num_counts[matched_num_val] += 1
-                            if backreference_index:
-                                return f"\\{backreference_index}"
+                            if backreference_index: return f"\\{backreference_index}"
                             return match.group(0)
-
                         template_value = re.sub(number_pattern, replacer, trans_text)
                     else:
                         logger.warning(f"[{lang_name}] 降级处理：索引 {index} 的数字内容不匹配。| 原文: '{eng_text}' | 译文: '{trans_text}'")
-
-                    if regex_key not in regex_dict:
-                        regex_dict[regex_key] = template_value
+                    regex_dict[regex_key] = template_value
                 else:
                     regex_key = f"^{normalize_text_for_regex(eng_text)}$"
-                    if regex_key not in regex_dict:
-                        regex_dict[regex_key] = trans_text
+                    regex_dict[regex_key] = trans_text
             except Exception as e:
                 logger.error(f"[{lang_name}] 核心处理异常，索引 {index}：{e}")
             
     return regex_dict
 
-# analyze_effects_discrepancies 和 main 函数与上一版相同，此处省略以保持简洁...
 def analyze_effects_discrepancies(logger, original_data, cn_data, tc_data):
-    """生成一份报告，列出因效果行数不匹配而被跳过的条目。"""
     logger.info("--- 开始生成技能(effects)的结构性差异报告 ---")
     original_map = {item['originalIndex']: item for item in original_data}
     cn_map = {item['originalIndex']: item for item in cn_data if item}
@@ -168,37 +177,31 @@ def analyze_effects_discrepancies(logger, original_data, cn_data, tc_data):
     
     report_lines = []
     discrepancy_count = 0
-
     for index in sorted(original_map.keys()):
         eng_item = original_map.get(index, {})
         cn_item = cn_map.get(index)
         tc_item = tc_map.get(index)
-
         if not cn_item or not tc_item:
-            if not (cn_item and tc_item): # 只要有一个不存在
+            if not (cn_item and tc_item):
                 discrepancy_count += 1
                 report_lines.append(f"--- Index: {index} ---\n")
-                report_lines.append(f"  技能(EN): {eng_item.get('skill', 'N/A')}\n")
+                report_lines.append(f"  技能(EN): {eng_item.get('name', 'N/A')}\n")
                 report_lines.append(f"  问题: 翻译文件中缺少此索引对应的条目。\n")
                 report_lines.append(f"    - 简体中文: {'存在' if cn_item else '缺失!'}\n")
                 report_lines.append(f"    - 繁體中文: {'存在' if tc_item else '缺失!'}\n\n")
             continue
-
         eng_effects = [text for e in eng_item.get('effects', []) if (text := extract_string_from_item(e)) and text.strip()]
         cn_effects = [text for c in cn_item.get('effects', []) if (text := extract_string_from_item(c)) and text.strip()]
         tc_effects = [text for t in tc_item.get('effects', []) if (text := extract_string_from_item(t)) and text.strip()]
-
         len_eng, len_cn, len_tc = len(eng_effects), len(cn_effects), len(tc_effects)
-
         if len_eng != len_cn or len_eng != len_tc:
             discrepancy_count += 1
             report_lines.append(f"--- Index: {index} ---\n")
-            report_lines.append(f"  技能(CN): {cn_item.get('skill', 'N/A')}\n")
+            report_lines.append(f"  技能(CN): {cn_item.get('name', 'N/A')}\n")
             report_lines.append(f"  问题: 效果列表的有效行数与英文原文不符。\n")
             report_lines.append(f"    - 英文行数: {len_eng}\n")
             report_lines.append(f"    - 简体行数: {len_cn} {'(不匹配!)' if len_eng != len_cn else ''}\n")
             report_lines.append(f"    - 繁體行数: {len_tc} {'(不匹配!)' if len_eng != len_tc else ''}\n\n")
-
     if report_lines:
         try:
             with open(STRUCTURAL_DISCREPANCY_REPORT, 'w', encoding='utf-8') as f:
@@ -212,37 +215,63 @@ def analyze_effects_discrepancies(logger, original_data, cn_data, tc_data):
 def main():
     logger = setup_logger()
     logger.info("--- 开始生成技能（Effects）的多语言正则表达式字典 ---")
-    
     original_data = parse_js_variable(ORIGINAL_FILE, logger)
     cn_data = parse_js_variable(TRANSLATED_CN_FILE, logger)
     tc_data = parse_js_variable(TRANSLATED_TC_FILE, logger)
-
     if not original_data:
         logger.error("因英文源文件解析错误，无法继续。")
         return
-
     if cn_data and tc_data:
         analyze_effects_discrepancies(logger, original_data, cn_data, tc_data)
-
-    language_pairs = [
-        ("简体中文", cn_data, OUTPUT_DICT_CN),
-        ("繁體中文", tc_data, OUTPUT_DICT_TC)
-    ]
-    
-    for lang_name, translated_data, output_filename in language_pairs:
-        logger.info(f"--- 开始处理 {lang_name} 字典生成 ---")
-        if not translated_data:
-            logger.warning(f"由于未能加载 {lang_name} 数据，跳过字典生成。")
-            continue
-        
-        dictionary = create_effects_dictionary(original_data, translated_data, lang_name, logger)
+    logger.info("--- 开始处理 简体中文 字典生成 ---")
+    dictionary_cn = {}
+    if cn_data:
+        dictionary_cn = create_effects_dictionary(original_data, cn_data, "简体中文", logger)
+        logger.info(f"为 简体中文 生成了 {len(dictionary_cn)} 条唯一翻译规则。")
+    else:
+        logger.warning("由于未能加载 简体中文 数据，跳过字典生成。")
+    logger.info("--- 开始处理 繁體中文 字典生成 ---")
+    dictionary_tc = {}
+    if tc_data:
+        dictionary_tc = create_effects_dictionary(original_data, tc_data, "繁體中文", logger)
+        logger.info(f"为 繁體中文 生成了 {len(dictionary_tc)} 条唯一翻译规则。")
+    else:
+        logger.warning("由于未能加载 繁體中文 数据，跳过字典生成。")
+    if dictionary_cn and dictionary_tc:
+        if len(dictionary_cn) != len(dictionary_tc):
+            logger.warning(f"!!! 字典规则数量不一致 (CN: {len(dictionary_cn)}, TC: {len(dictionary_tc)})。开始对比差异...")
+            cn_keys = set(dictionary_cn.keys())
+            tc_keys = set(dictionary_tc.keys())
+            extra_in_cn = cn_keys - tc_keys
+            if extra_in_cn:
+                logger.info("--- ▼ 仅存在于【简体中文】字典的规则 ---")
+                for key in extra_in_cn:
+                    logger.info(f"  - Key: {key}")
+                    logger.info(f"    Value: {dictionary_cn[key]}")
+            extra_in_tc = tc_keys - cn_keys
+            if extra_in_tc:
+                logger.info("--- ▼ 仅存在于【繁體中文】字典的规则 ---")
+                for key in extra_in_tc:
+                    logger.info(f"  - Key: {key}")
+                    logger.info(f"    Value: {dictionary_tc[key]}")
+            logger.warning("!!! 对比完成。")
+        else:
+            logger.info("✓ 字典规则数量一致。")
+    logger.info("--- 开始写入字典文件 ---")
+    if dictionary_cn:
         try:
-            with open(output_filename, 'w', encoding='utf-8') as f:
-                json.dump(dictionary, f, ensure_ascii=False, indent=4)
-            logger.info(f"成功为 {lang_name} 生成 {len(dictionary)} 条唯一翻译规则到 {output_filename}。")
+            with open(OUTPUT_DICT_CN, 'w', encoding='utf-8') as f:
+                json.dump(dictionary_cn, f, ensure_ascii=False, indent=4)
+            logger.info(f"简体中文 字典已成功保存到: {OUTPUT_DICT_CN}")
         except Exception as e:
-            logger.error(f"为 {lang_name} 保存字典时发生错误: {e}")
-            
+            logger.error(f"为 简体中文 保存字典时发生错误: {e}")
+    if dictionary_tc:
+        try:
+            with open(OUTPUT_DICT_TC, 'w', encoding='utf-8') as f:
+                json.dump(dictionary_tc, f, ensure_ascii=False, indent=4)
+            logger.info(f"繁體中文 字典已成功保存到: {OUTPUT_DICT_TC}")
+        except Exception as e:
+            logger.error(f"为 繁體中文 保存字典时发生错误: {e}")
     logger.info("--- 所有任务完成 ---")
 
 if __name__ == "__main__":

@@ -1,8 +1,11 @@
 # -*- coding: utf-8 -*-
+# 【最终整合版】为被动技能脚本集成所有高级翻译与校验规则
+
 import re
 import json
 import logging
 import copy
+import os
 
 def setup_logger(log_file_name, logger_name):
     """配置日志记录器，同时输出到控制台和文件。"""
@@ -10,6 +13,10 @@ def setup_logger(log_file_name, logger_name):
     logger.setLevel(logging.INFO)
     if logger.hasHandlers():
         logger.handlers.clear()
+
+    log_dir = os.path.dirname(log_file_name)
+    if log_dir and not os.path.exists(log_dir):
+        os.makedirs(log_dir)
 
     file_handler = logging.FileHandler(log_file_name, mode='w', encoding='utf-8')
     file_handler.setLevel(logging.INFO)
@@ -27,20 +34,22 @@ class Translator:
     def __init__(self, dictionary_path, logger, language_code):
         self.logger = logger
         self.language_code = language_code
-        self.dictionary = self._load_dictionary(dictionary_path)
+        self.dictionary = None
+        if dictionary_path:
+            self.dictionary = self._load_dictionary(dictionary_path)
+        
         if self.dictionary:
             self.compiled_rules = []
             for key, value in self.dictionary.items():
                 try:
                     self.compiled_rules.append((re.compile(key, re.DOTALL), value))
                 except re.error as e:
-                    self.logger.warning(f"警告 [{self.language_code}]：无法编译正则表达式 '{key}': {e}")
+                    self.logger.warning(f"警告 [{self.language_code}]: 无法编译正则表达式 '{key}': {e}")
             self.logger.info(f"翻译器 [{self.language_code}] 已初始化，共加载 {len(self.compiled_rules)} 条翻译规则。")
         else:
             self.compiled_rules = []
 
     def _load_dictionary(self, file_path):
-        """加载JSON字典文件。"""
         try:
             with open(file_path, 'r', encoding='utf-8') as f:
                 return json.load(f)
@@ -48,9 +57,11 @@ class Translator:
             self.logger.error(f"加载字典 {file_path} 时出错: {e}")
         return None
 
-    def format_spacing(self, text):
-        """对包含数字和星号的文本进行最终的空格排版美化。"""
+    @staticmethod
+    def format_spacing(text):
+        """(静态方法) 对文本进行最终的排版美化。"""
         if not text: return text
+        text = text.strip()
         text = re.sub(r'(\d)\s+(%)', r'\1\2', text)
         number_pattern = r'([+-]?\d+%?)'
         text = re.sub(number_pattern, r' \1 ', text)
@@ -60,49 +71,45 @@ class Translator:
         text = re.sub(r'([^\d%])\s+([,，])', r'\1\2', text)
         text = re.sub(r'([^\s])(\*)', r'\1 \2', text)
         text = re.sub(r'(\*)([^\s])', r'\1 \2', text)
+        text = re.sub(r'([.。！？])\1+', r'\1', text)
         text = re.sub(r'\s{2,}', ' ', text)
         return text.strip()
 
     def translate(self, english_text):
         """翻译单个字符串，如果找不到规则则返回None。"""
         if not isinstance(english_text, str) or not self.compiled_rules: return None
+        english_text_cleaned = english_text.strip()
         for compiled_regex, template in self.compiled_rules:
-            match = compiled_regex.fullmatch(english_text)
+            match = compiled_regex.fullmatch(english_text_cleaned)
             if match:
-                raw_result = compiled_regex.sub(template, english_text)
-                final_result = self.format_spacing(raw_result)
+                raw_result = compiled_regex.sub(template, english_text_cleaned)
+                final_result = Translator.format_spacing(raw_result)
                 return final_result
         return None
 
 def parse_js_variable(file_path, logger, is_source=True):
-    """
-    (已更新) 读取并解析 .js 文件。
-    如果 is_source=True，返回数据、前缀和后缀。
-    否则，只返回数据。
-    """
+    """读取并解析 .js 文件。"""
+    if not os.path.exists(file_path):
+        logger.error(f"文件不存在: {file_path}")
+        if is_source: return None, None, None
+        return None
     try:
         with open(file_path, 'r', encoding='utf-8') as f:
             content = f.read()
         json_start = content.find('[')
         json_end = content.rfind(']')
         if json_start == -1 or json_end == -1: raise ValueError("未在文件中找到有效的 '[]'。")
-        
         json_string = content[json_start : json_end + 1]
         data = json.loads(json_string)
-
         if is_source:
-            prefix = content[:json_start]
-            suffix = content[json_end + 1:]
+            prefix, suffix = content[:json_start], content[json_end + 1:]
             return data, prefix, suffix
         else:
             return data
-
     except Exception as e:
         logger.error(f"解析文件 {file_path} 时出错: {e}")
-        if is_source:
-            return None, None, None
-        else:
-            return None
+        if is_source: return None, None, None
+        return None
 
 def extract_string_from_item(item):
     """从效果或被动技能条目中智能提取字符串。"""
@@ -121,13 +128,9 @@ def expand_passive_list(raw_passives):
             expanded_list.extend(split_parts)
     return expanded_list
 
-# ##################################################################
-# ###           【新增】校验函数                             ###
-# ##################################################################
 def validate_translations(script_output_data, manual_data, lang_code, logger):
     """将脚本翻译结果与人工翻译（标准答案）进行对比。"""
     logger.info(f"--- [{lang_code}] 开始校验脚本翻译结果与人工翻译的一致性 ---")
-    
     if not manual_data:
         logger.warning(f"[{lang_code}] 未能加载人工翻译文件，跳过校验。")
         return
@@ -137,26 +140,32 @@ def validate_translations(script_output_data, manual_data, lang_code, logger):
 
     for item in script_output_data:
         index = item['originalIndex']
-        if index not in manual_map:
-            continue
+        if index not in manual_map: continue
 
+        # 脚本输出已经是展开和合并后的结果，但passives不合并，直接对比展开列表
         script_passives = item.get('passives', [])
         
-        # 为确保公平对比，对人工翻译数据也进行同样的展开处理
-        manual_passives_expanded = expand_passive_list(manual_map[index])
+        # 将人工翻译也进行同样的展开和格式化处理
+        manual_passives_expanded_raw = expand_passive_list(manual_map.get(index, []))
+        manual_passives_formatted = [Translator.format_spacing(p) for p in manual_passives_expanded_raw]
 
-        if script_passives != manual_passives_expanded:
+        if script_passives != manual_passives_formatted:
             mismatch_count += 1
-            if len(script_passives) != len(manual_passives_expanded):
-                logger.warning(f"[{lang_code}] 校验失败 (数量不匹配) - 索引 {index}")
-                logger.warning(f"  - 脚本结果 ({len(script_passives)}条): {script_passives}")
-                logger.warning(f"  - 人工翻译 ({len(manual_passives_expanded)}条): {manual_passives_expanded}")
+            logger.warning(f"[{lang_code}] 校验失败 - 索引 {index}")
+            if len(script_passives) != len(manual_passives_formatted):
+                logger.warning(f"  - 原因: 展开后列表数量不匹配")
+                logger.warning(f"    - 脚本结果 ({len(script_passives)}条): {script_passives}")
+                logger.warning(f"    - 应有结果 ({len(manual_passives_formatted)}条): {manual_passives_formatted}")
             else:
-                for i, (script_str, manual_str) in enumerate(zip(script_passives, manual_passives_expanded)):
+                logger.warning(f"  - 原因: 内容不匹配")
+                for i, (script_str, manual_str) in enumerate(zip(script_passives, manual_passives_formatted)):
                     if script_str != manual_str:
-                        logger.warning(f"[{lang_code}] 校验失败 (内容不匹配) - 索引 {index}, 部分 {i+1}")
-                        logger.warning(f"  - 脚本结果: '{script_str}'")
-                        logger.warning(f"  - 人工翻译: '{manual_str}'")
+                        logger.warning(f"    - ▼ 在第 {i+1} 部分发现差异:")
+                        logger.warning(f"      - 脚本结果: '{script_str}'")
+                        logger.warning(f"      - 应有结果: '{manual_str}'")
+                        logger.warning(f"      - [调试] 脚本 repr: {repr(script_str)}")
+                        logger.warning(f"      - [调试] 应有 repr: {repr(manual_str)}")
+                        break
     
     if mismatch_count == 0:
         logger.info(f"--- [{lang_code}] 校验通过！脚本翻译结果与人工翻译完全一致。 ---")
@@ -165,16 +174,14 @@ def validate_translations(script_output_data, manual_data, lang_code, logger):
 
 def main():
     """主函数，执行被动技能的双语批量翻译及校验流程。"""
-    logger = setup_logger('../../../passives_bilingual_translation_log.log', 'PassivesBilingualTranslator')
+    logger = setup_logger('../../../logs/passives_bilingual_translation_log.log', 'PassivesBilingualTranslator')
     logger.info("--- 开始被动技能双语批量翻译任务 ---")
 
     dict_file_cn = '../../dictionaries/passives_dict_cn.json'
     dict_file_tc = '../../dictionaries/passives_dict_tc.json'
-    input_file = 'passives_to_translate.js'
+    input_file = '../../to_translate/passives_to_translate.js'
     output_file_cn = 'passives_cn.js'
     output_file_tc = 'passives_tc.js'
-    
-    # 【新增】定义人工翻译文件路径
     manual_translation_cn = 'passives_translated_cn.js'
     manual_translation_tc = 'passives_translated_tc.js'
 
@@ -187,60 +194,93 @@ def main():
         
     logger.info(f"正在加载源文件: {input_file}")
     original_data, prefix, suffix = parse_js_variable(input_file, logger, is_source=True)
-    if original_data is None:
-        logger.error("任务中止，因为源文件未能加载。")
-        return
+    if original_data is None: return
 
-    # 【新增】加载人工翻译文件用于最终校验
     logger.info(f"正在加载简体中文人工翻译文件: {manual_translation_cn}")
     manual_data_cn = parse_js_variable(manual_translation_cn, logger, is_source=False)
     logger.info(f"正在加载繁体中文人工翻译文件: {manual_translation_tc}")
     manual_data_tc = parse_js_variable(manual_translation_tc, logger, is_source=False)
         
-    logger.info("开始逐条翻译 'passives' 字段...")
+    logger.info("开始进行翻译...")
     translated_data_cn = copy.deepcopy(original_data)
     translated_data_tc = copy.deepcopy(original_data)
     
-    total_strings, translated_count_cn, failed_count_cn = 0, 0, 0
-    translated_count_tc, failed_count_tc = 0, 0
+    total_items, translated_items_cn, failed_items_cn = 0, 0, 0
+    translated_items_tc, failed_items_tc = 0, 0
+
+    split_pattern = re.compile(r'^(.*\S)\s*([\(\（][^)\）]+[\)\）])\s*([.。!?？]?)$', re.DOTALL)
+    ending_punctuation = {'.', '!', '?', '。', '！', '？', ':', '：'}
 
     for item_index, item in enumerate(original_data):
-        if 'passives' not in item or not isinstance(item['passives'], list):
-            continue
+        if 'passives' not in item or not isinstance(item['passives'], list): continue
 
-        strings_to_translate = expand_passive_list(item['passives'])
-        
-        final_passives_cn = []
-        final_passives_tc = []
+        original_passives_expanded = expand_passive_list(item['passives'])
+        if not original_passives_expanded: continue
+        total_items += 1
 
-        for i, string_to_translate in enumerate(strings_to_translate):
-            if i == 0: total_strings += 1 # 只在处理每个被动技能的第一部分时计数总条目
+        # --- 简体中文翻译 ---
+        is_cn_item_fully_translated = True
+        translated_passives_cn = []
+        for passive_str in original_passives_expanded:
+            match = split_pattern.match(passive_str.strip())
+            final_translation = None
+            if match:
+                main_part, paren_part, _ = match.groups()
+                trans_main = translator_cn.translate(main_part)
+                trans_paren = translator_cn.translate(paren_part)
+                if trans_main and trans_paren:
+                    if trans_main.strip() and trans_main.strip()[-1] not in ending_punctuation:
+                        final_translation = Translator.format_spacing(trans_main + "。" + trans_paren)
+                    else:
+                        final_translation = Translator.format_spacing(trans_main + trans_paren)
+                else:
+                    if not trans_main: logger.warning(f"[CN翻译失败] 索引 {item['originalIndex']} 主句部分: '{main_part}'")
+                    if not trans_paren: logger.warning(f"[CN翻译失败] 索引 {item['originalIndex']} 括号部分: '{paren_part}'")
+            else:
+                final_translation = translator_cn.translate(passive_str)
             
-            # --- 处理简体中文 ---
-            translated_string_cn = translator_cn.translate(string_to_translate)
-            if translated_string_cn is None:
-                if i == 0: failed_count_cn += 1
-                logger.warning(f"[翻译失败-CN] 索引 {item['originalIndex']}, 部分 {i+1} 未匹配。原文: {string_to_translate}")
-                final_passives_cn.append(string_to_translate)
+            if final_translation:
+                translated_passives_cn.append(final_translation)
             else:
-                if i == 0: translated_count_cn += 1
-                final_passives_cn.append(translated_string_cn)
+                is_cn_item_fully_translated = False
+                translated_passives_cn.append(passive_str)
+        
+        translated_data_cn[item_index]['passives'] = translated_passives_cn
+        if is_cn_item_fully_translated: translated_items_cn += 1
+        else: failed_items_cn += 1
 
-            # --- 处理繁体中文 ---
-            translated_string_tc = translator_tc.translate(string_to_translate)
-            if translated_string_tc is None:
-                if i == 0: failed_count_tc += 1
-                logger.warning(f"[翻译失败-TC] 索引 {item['originalIndex']}, 部分 {i+1} 未匹配。原文: {string_to_translate}")
-                final_passives_tc.append(string_to_translate)
+        # --- 繁体中文翻译 ---
+        is_tc_item_fully_translated = True
+        translated_passives_tc = []
+        for passive_str in original_passives_expanded:
+            match = split_pattern.match(passive_str.strip())
+            final_translation = None
+            if match:
+                main_part, paren_part, _ = match.groups()
+                trans_main = translator_tc.translate(main_part)
+                trans_paren = translator_tc.translate(paren_part)
+                if trans_main and trans_paren:
+                    if trans_main.strip() and trans_main.strip()[-1] not in ending_punctuation:
+                        final_translation = Translator.format_spacing(trans_main + "。" + trans_paren)
+                    else:
+                        final_translation = Translator.format_spacing(trans_main + trans_paren)
+                else:
+                    if not trans_main: logger.warning(f"[TC翻译失败] 索引 {item['originalIndex']} 主句部分: '{main_part}'")
+                    if not trans_paren: logger.warning(f"[TC翻译失败] 索引 {item['originalIndex']} 括号部分: '{paren_part}'")
             else:
-                if i == 0: translated_count_tc += 1
-                final_passives_tc.append(translated_string_tc)
+                final_translation = translator_tc.translate(passive_str)
 
-        translated_data_cn[item_index]['passives'] = final_passives_cn
-        translated_data_tc[item_index]['passives'] = final_passives_tc
+            if final_translation:
+                translated_passives_tc.append(final_translation)
+            else:
+                is_tc_item_fully_translated = False
+                translated_passives_tc.append(passive_str)
+
+        translated_data_tc[item_index]['passives'] = translated_passives_tc
+        if is_tc_item_fully_translated: translated_items_tc += 1
+        else: failed_items_tc += 1
 
     logger.info(f"翻译处理完成。正在写入结果文件...")
-    # ... (文件写入逻辑保持不变，此处省略以保持简洁) ...
     try:
         translated_json_string_cn = json.dumps(translated_data_cn, ensure_ascii=False, indent=4)
         prefix_cn = prefix.replace('allTranslations', 'translatedPassivesCN') if 'allTranslations' in prefix else prefix
@@ -259,29 +299,20 @@ def main():
     except Exception as e:
         logger.error(f"写入繁体中文输出文件时发生错误: {e}")
 
-    # ##################################################################
-    # ###           【新增】执行最终校验                         ###
-    # ##################################################################
     validate_translations(translated_data_cn, manual_data_cn, 'CN', logger)
     validate_translations(translated_data_tc, manual_data_tc, 'TC', logger)
 
-
     logger.info("--- 双语翻译任务报告 ---")
-    # ... (最终报告逻辑保持不变) ...
-    logger.info(f"总处理独立被动技能条目数: {total_strings}")
+    logger.info(f"总处理独立被动技能条目数: {total_items}")
     logger.info("--- 简体中文 (CN) ---")
-    logger.info(f"  成功翻译: {translated_count_cn}")
-    logger.info(f"  失败 (未匹配): {failed_count_cn}")
-    if total_strings > 0:
-        accuracy_cn = (translated_count_cn / total_strings) * 100
-        logger.info(f"  成功率: {accuracy_cn:.2f}%")
+    logger.info(f"  成功翻译: {translated_items_cn}")
+    logger.info(f"  失败 (未匹配): {failed_items_cn}")
+    if total_items > 0: logger.info(f"  成功率: {(translated_items_cn / total_items) * 100:.2f}%")
     
     logger.info("--- 繁体中文 (TC) ---")
-    logger.info(f"  成功翻译: {translated_count_tc}")
-    logger.info(f"  失败 (未匹配): {failed_count_tc}")
-    if total_strings > 0:
-        accuracy_tc = (translated_count_tc / total_strings) * 100
-        logger.info(f"  成功率: {accuracy_tc:.2f}%")
+    logger.info(f"  成功翻译: {translated_items_tc}")
+    logger.info(f"  失败 (未匹配): {failed_items_tc}")
+    if total_items > 0: logger.info(f"  成功率: {(translated_items_tc / total_items) * 100:.2f}%")
 
     logger.info("--- 被动技能双语翻译任务结束 ---")
 

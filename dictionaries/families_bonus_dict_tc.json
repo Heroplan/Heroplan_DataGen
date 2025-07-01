@@ -181,7 +181,11 @@
     "^The\\s+Molten\\s+Core\\s+is\\s+charged\\s+each\\s+time\\s+this\\s+character\\s+receives\\s+damage\\s+from\\s+normal\\s+attacks\\s+or\\s+Special\\s+Skills\\.?\\s*$": "每次此角色受到普通攻擊或特殊技能的傷害時，熔融核心都會暴增。",
     "^\\s+\\*([+-]?\\s*\\d+\\s*%?)\\s+/([+-]?\\s*\\d+\\s*%?)\\s+chance\\s+to\\s+dispel\\s+a\\s+random\\s+dispellable\\s+status\\s+effect\\s+buff\\s+from\\s+all\\s+enemies\\s+at\\s+the\\s+end\\s+of\\s+each\\s+turn\\.?\\s*$": "* 每回合結束時，有\\1 /\\2 機率驅散所有敵人一項隨機可驅散的狀態效果增益。",
     "^\\s+\\*([+-]?\\s*\\d+\\s*%?)\\s+/([+-]?\\s*\\d+\\s*%?)\\s+chance\\s+to\\s+resist\\s+mana\\s+reduction\\s+and\\s+mana\\s+status\\s+ailments\\.?\\s*\\s+Each\\s+successful\\s+resist\\s+by\\s+this\\s+family\\s+gives\\s+this\\s+character([+-]?\\s*\\d+\\s*%?)\\s+mana\\.?\\s*$": "*\\1 /\\2 機率抵禦法力減損與法力狀態異常。此家族每次成功抵禦能給予此角色\\3 法力。",
-    "^Moth\\s+Dust:\\s+([+-]?\\s*\\d+\\s*%?)\\s+mana\\s+generation\\.?\\s*\\s+If\\s+Moth\\s+Dust\\s+is\\s+cleansed\\s+or\\s+removed,\\s+the\\s+target\\s+falls\\s+asleep\\s+and\\s+receives\\s+([+-]?\\s*\\d+\\s*%?)\\s+increased\\s+damage\\s+while\\s+sleeping\\.?\\s*$": "飛蛾塵： \\1 法力產出。若飛蛾塵被淨化或移除，目標將會睡著，並在睡著時承受 \\2 額外傷害。",
+    "^At\\s+the\\s+start\\s+of\\s+each\\s+turn,\\s+cast\\s+Moth\\s+Dust\\s+to\\s+a\\s+random\\s+enemy\\s+for([+-]?\\s*\\d+\\s*%?)/([+-]?\\s*\\d+\\s*%?)/([+-]?\\s*\\d+\\s*%?)turns\\.?\\s*$": "每回合开始时，对一名随机敌人施放飞蛾诅咒，持续\\1/\\2/\\3个回合。",
+    "^Moth\\s+Dust\\s+has\\s+the\\s+following\\s+effets:$": "飞蛾诅咒有以下效果：",
+    "^\\s+\\*\\s+([+-]?\\s*\\d+\\s*%?)\\s+mana\\s+generation\\.?\\s*$": "* \\1 法力产出。",
+    "^\\s+\\*\\s+Mega\\s+Minion['’]?s\\s+current\\s+health\\s+is\\s+reduced\\s+by([+-]?\\s*\\d+\\s*%?)\\s+each\\s+turn\\.?\\s*$": "* 超级小兵当前生命值每回合降低\\1。",
+    "^If\\s+Moth\\s+Dust\\s+is\\s+cleansed\\s+or\\s+removed,\\s+the\\s+target\\s+falls\\s+asleep\\s+and\\s+receives\\s+([+-]?\\s*\\d+\\s*%?)\\s+increased\\s+damage\\s+while\\s+sleeping\\.?\\s*$": "若飞蛾诅咒被净化或移除，目标陷入沉睡并于沉睡时受到 \\1 额外伤害。",
     "^The\\s+members\\s+of\\s+this\\s+family\\s+have\\s+additional\\s+perks\\s+in\\s+the\\s+Night\\s+of\\s+the\\s+Moth\\s+event\\.?\\s*$": "此家族的成員會在飛蛾之夜活動中獲得額外福利。",
     "^([+-]?\\s*\\d+\\s*%?)/([+-]?\\s*\\d+\\s*%?)/([+-]?\\s*\\d+\\s*%?)\\s+chance\\s+to\\s+dodge\\s+Special\\s+Skills\\.?\\s*$": "有\\1 /\\2 /\\3 的機率閃避特殊技能。",
     "^Each\\s+Special\\s+Skill\\s+dodged\\s+damages\\s+the\\s+attacker\\s+for([+-]?\\s*\\d+\\s*%?)/([+-]?\\s*\\d+\\s*%?)/([+-]?\\s*\\d+\\s*%?)damage\\.?\\s*$": "每次成功閃避特殊技能，都會對攻擊者造成\\1/\\2/\\3點傷害。"

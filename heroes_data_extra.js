@@ -2866,7 +2866,8 @@ const heroes_data_extra = [
             "AoE Attackers (Hit-3)",
             "Debuffers (DEF)",
             "Healers (Special)",
-            "Silencers"
+            "Silencers",
+            "Extra Damage Dealers"
         ]
     },
     {
@@ -10112,7 +10113,8 @@ const heroes_data_extra = [
         "AetherPower": "Taunt",
         "skill_types": [
             "AoE Attackers (Hit-3)",
-            "Taunters"
+            "Taunters",
+            "Extra Damage Dealers"
         ]
     },
     {
@@ -12226,7 +12228,8 @@ const heroes_data_extra = [
         "skill_types": [
             "Chain & Random Attackers",
             "Damage Reducers",
-            "Taunters"
+            "Taunters",
+            "Extra Damage Dealers"
         ]
     },
     {
@@ -13966,7 +13969,8 @@ const heroes_data_extra = [
         "AetherPower": "Defense Up",
         "skill_types": [
             "AoE Attackers (Hit-3)",
-            "Counterattackers"
+            "Counterattackers",
+            "Extra Damage Dealers"
         ]
     },
     {
@@ -15881,7 +15885,8 @@ const heroes_data_extra = [
         "skill_types": [
             "AoE Attackers (Hit-5)",
             "Dispellers",
-            "DoT Attackers"
+            "DoT Attackers",
+            "Extra Damage Dealers"
         ]
     },
     {
@@ -16411,6 +16416,18 @@ const heroes_data_extra = [
             "DoT Attackers",
             "Revivers",
             "Healing Reducers",
+            "Extra Damage Dealers"
+        ]
+      },
+    {
+        "name": "Chao Gai",
+        "fancy name": "Pagoda-Shifting Heavenly King of Water Margin",
+        "Release date": "2025-06-30",
+        "AetherPower": "Defense Up",
+        "skill_types": [
+            "Ghost Form & Hiding",
+            "Snipers",
+            "Buffers (ATK)",
             "Extra Damage Dealers"
         ]
       }

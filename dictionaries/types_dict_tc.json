@@ -796,5 +796,8 @@
     "Mana gen Buff All": "全體法力生成增益",
     "Damage on each Resisted Healing 3": "3個目標每次抵抗治療時受到傷害",
     "Self Elemental Attack Stack": "自我元素攻擊疊加",
-    "Damage on each Resisted Healing 2": "2個目標每次抵抗治療時受到傷害"
+    "Damage on each Resisted Healing 2": "2個目標每次抵抗治療時受到傷害",
+    "Chance for Critical Hits": "幾率暴擊",
+    "Self Ghost": "自我幽靈形態",
+    "Critical Chance Buff All": "全體暴擊幾率增益"
 }
