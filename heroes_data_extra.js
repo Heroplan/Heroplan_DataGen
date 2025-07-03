@@ -1,4 +1,4 @@
-const heroes_data_extra = [
+window.allHeroesExtra = [
     {
         "name": "Brand",
         "fancy name": "Carefree Adventurer",
@@ -16418,7 +16418,7 @@ const heroes_data_extra = [
             "Healing Reducers",
             "Extra Damage Dealers"
         ]
-      },
+    },
     {
         "name": "Chao Gai",
         "fancy name": "Pagoda-Shifting Heavenly King of Water Margin",
@@ -16430,5 +16430,29 @@ const heroes_data_extra = [
             "Buffers (ATK)",
             "Extra Damage Dealers"
         ]
-      }
-  ];
+    },
+    {
+        "name": "Florenna",
+        "fancy name": "Graceful Elaphocentaur",
+        "Release date": "2025-07-01",
+        "AetherPower": "Attack Up",
+        "skill_types": [
+            "Snipers",
+            "Buffers (ATK)",
+            "DoT Attackers",
+            "Cleanse Blockers"
+        ]
+    },
+    {
+        "name": "Orcur",
+        "fancy name": "Astral Dwarf Gardener",
+        "Release date": "2025-07-02",
+        "AetherPower": "Damage Reduction",
+        "skill_types": [
+            "Healers",
+            "Healers (Special)",
+            "Ability Scores Modifiers",
+            "Fiends Counters"
+        ]
+    }
+];

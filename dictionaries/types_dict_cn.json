@@ -799,5 +799,7 @@
     "Damage on each Resisted Healing 2": "2个目标每次抵抗治疗时受到伤害",
     "Chance for Critical Hits": "几率暴击",
     "Self Ghost": "自我幽灵形态",
-    "Critical Chance Buff All": "全体暴击几率增益"
+    "Critical Chance Buff All": "全体暴击几率增益",
+    "Cleanse Immunity 1": "单体净化免疫",
+    "Delayed Boosted Health All": "全体延迟生命值加成"
 }

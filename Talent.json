@@ -1,0 +1,182 @@
+{
+  "ranger": {
+    "attack_priority": {
+        "attack": 105,
+        "defense": 36,
+        "health": 72,
+        "attack_percent": 3,
+        "defense_percent": 3,
+        "health_percent": 3
+    },
+    "defense_priority": {
+        "attack": 30,
+        "defense": 90,
+        "health": 144,
+        "attack_percent": 3,
+        "defense_percent": 3,
+        "health_percent": 3
+    }
+  },
+  "cleric": {
+    "attack_priority": {
+        "attack": 60,
+        "defense": 90,
+        "health": 72,
+        "attack_percent": 3,
+        "defense_percent": 0,
+        "health_percent": 3
+    },
+    "defense_priority": {
+        "attack": 45,
+        "defense": 90,
+        "health": 108,
+        "attack_percent": 0,
+        "defense_percent": 3,
+        "health_percent": 3
+    }
+  },
+  "sorcerer": {
+    "attack_priority": {
+        "attack": 75,
+        "defense": 72,
+        "health": 72,
+        "attack_percent": 3,
+        "defense_percent": 0,
+        "health_percent": 3
+    },
+    "defense_priority": {
+        "attack": 30,
+        "defense": 126,
+        "health": 72,
+        "attack_percent": 0,
+        "defense_percent": 3,
+        "health_percent": 3
+    }
+  },
+  "barbarian": {
+    "attack_priority": {
+        "attack": 90,
+        "defense": 54,
+        "health": 72,
+        "attack_percent": 3,
+        "defense_percent": 0,
+        "health_percent": 4
+    },
+    "defense_priority": {
+        "attack": 15,
+        "defense": 90,
+        "health": 180,
+        "attack_percent": 3,
+        "defense_percent": 3,
+        "health_percent": 4
+    }
+  },
+  "druid": {
+    "attack_priority": {
+        "attack": 75,
+        "defense": 90,
+        "health": 36,
+        "attack_percent": 3,
+        "defense_percent": 3,
+        "health_percent": 3
+    },
+    "defense_priority": {
+        "attack": 30,
+        "defense": 90,
+        "health": 144,
+        "attack_percent": 3,
+        "defense_percent": 3,
+        "health_percent": 3
+    }
+  },
+  "fighter": {
+    "attack_priority": {
+        "attack": 75,
+        "defense": 72,
+        "health": 72,
+        "attack_percent": 4,
+        "defense_percent": 3,
+        "health_percent": 3
+    },
+    "defense_priority": {
+        "attack": 30,
+        "defense": 126,
+        "health": 72,
+        "attack_percent": 4,
+        "defense_percent": 3,
+        "health_percent": 3
+    }
+  },
+  "monk": {
+    "attack_priority": {
+        "attack": 75,
+        "defense": 90,
+        "health": 36,
+        "attack_percent": 3,
+        "defense_percent": 0,
+        "health_percent": 3
+    },
+    "defense_priority": {
+        "attack": 30,
+        "defense": 90,
+        "health": 144,
+        "attack_percent": 3,
+        "defense_percent": 3,
+        "health_percent": 0
+    }
+  },
+  "paladin": {
+    "attack_priority": {
+        "attack": 75,
+        "defense": 72,
+        "health": 72,
+        "attack_percent": 3,
+        "defense_percent": 4,
+        "health_percent": 3
+    },
+    "defense_priority": {
+        "attack": 30,
+        "defense": 126,
+        "health": 72,
+        "attack_percent": 3,
+        "defense_percent": 4,
+        "health_percent": 3
+    }
+  },
+  "rogue": {
+    "attack_priority": {
+        "attack": 105,
+        "defense": 36,
+        "health": 72,
+        "attack_percent": 3,
+        "defense_percent": 3,
+        "health_percent": 3
+    },
+    "defense_priority": {
+        "attack": 15,
+        "defense": 90,
+        "health": 180,
+        "attack_percent": 3,
+        "defense_percent": 3,
+        "health_percent": 0
+    }
+  },
+  "wizard": {
+    "attack_priority": {
+        "attack": 105,
+        "defense": 36,
+        "health": 72,
+        "attack_percent": 4,
+        "defense_percent": 0,
+        "health_percent": 3
+    },
+    "defense_priority": {
+        "attack": 15,
+        "defense": 90,
+        "health": 180,
+        "attack_percent": 4,
+        "defense_percent": 3,
+        "health_percent": 0
+    }
+  }
+}

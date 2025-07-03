@@ -3,6 +3,7 @@ import json
 import re
 import os
 import logging
+import math # 确保引入 math 模块
 
 def setup_logger(log_file, logger_name):
     """
@@ -48,9 +49,23 @@ def load_js_data(file_path, logger):
         logger.error(f"读取或解析 {file_path} 时发生错误: {e}")
         return None
 
-def run_cumulative_update(lang_code, config, tasks, logger):
+def load_json_data(file_path, logger):
     """
-    第一步：执行累积更新，并将更新后的内容写回原始的JS文件。
+    专门用于加载标准JSON文件。
+    """
+    try:
+        with open(file_path, 'r', encoding='utf-8') as f:
+            return json.load(f)
+    except FileNotFoundError:
+        logger.error(f"错误: 找不到JSON文件 {file_path}")
+        return None
+    except json.JSONDecodeError as e:
+        logger.error(f"解析JSON文件 {file_path} 失败: {e}")
+        return None
+
+def run_cumulative_update(lang_code, config, tasks, logger, index_to_talent_map):
+    """
+    第一步：注入天赋数据，执行累积更新，并将更新后的内容写回原始的JS文件。
     """
     lang_upper = lang_code.upper()
     main_file = config['source']
@@ -58,7 +73,7 @@ def run_cumulative_update(lang_code, config, tasks, logger):
     
     logger.info(f"\n==================== [步骤 1: 累积更新JS] 语言: [{lang_upper}] ====================")
     
-    # 加载主数据文件并保留其原始结构
+    # 加载主数据文件
     try:
         with open(main_file, 'r', encoding='utf-8') as f:
             main_content_raw = f.read()
@@ -71,6 +86,22 @@ def run_cumulative_update(lang_code, config, tasks, logger):
     except (FileNotFoundError, json.JSONDecodeError) as e:
         logger.error(f"加载主文件 {main_file} 失败: {e}。跳过 [{lang_upper}]。")
         return False
+
+    # ==================== 新增功能: 注入天赋数据 ====================
+    logger.info(f"--- [{lang_upper}] 开始注入天赋属性 ---")
+    injection_count = 0
+    if index_to_talent_map:
+        for hero in all_heroes_in_memory:
+            hero_index = hero.get('originalIndex')
+            if hero_index in index_to_talent_map:
+                stats_to_inject = index_to_talent_map[hero_index]
+                hero['attack_priority_stats'] = stats_to_inject.get('attack_priority_stats')
+                hero['defense_priority_stats'] = stats_to_inject.get('defense_priority_stats')
+                injection_count += 1
+        logger.info(f"为 [{lang_upper}] 成功注入了 {injection_count} 个英雄的天赋数据。")
+    else:
+        logger.warning(f"[{lang_upper}] 未提供天赋数据映射，跳过注入步骤。")
+    # =============================================================
 
     # 在内存中累积合并翻译
     for task in tasks:
@@ -98,7 +129,7 @@ def run_cumulative_update(lang_code, config, tasks, logger):
         logger.info(f"在内存中为 [{lang_upper}] 更新了 {update_count} 个英雄的 '{field_name}' 字段。")
     
     # 将更新后的内容写回所有指定的JS输出文件
-    logger.info(f"--- [{lang_upper}] 开始将累积更新写回 .js 文件 ---")
+    logger.info(f"--- [{lang_upper}] 开始将包含天赋和翻译的累积更新写回 .js 文件 ---")
     try:
         final_json_string = json.dumps(all_heroes_in_memory, ensure_ascii=False, indent=4)
         final_content = "window.allHeroes = \n" + final_json_string + ";"
@@ -122,7 +153,6 @@ def run_final_json_merge(lang_code, logger):
     lang_upper = lang_code.upper()
     logger.info(f"\n==================== [步骤 2: 生成JSON] 语言: [{lang_upper}] ====================")
 
-    # 定义所有需要合并的源文件路径（注意：这里使用了上一步更新后的文件）
     updated_heroes_file = f'heroes_data_{lang_code}.js'
     families_bonus_file = f'translated/families_bonus_{lang_code}.js'
     family_values_file = f'family_values_{lang_code}.js'
@@ -131,7 +161,6 @@ def run_final_json_merge(lang_code, logger):
     logger.info(f"加载家族加成数据: '{families_bonus_file}'")
     logger.info(f"加载家族名称数据: '{family_values_file}'")
 
-    # 加载所有数据
     all_heroes = load_js_data(updated_heroes_file, logger)
     families_bonus = load_js_data(families_bonus_file, logger)
     family_values = load_js_data(family_values_file, logger)
@@ -140,18 +169,15 @@ def run_final_json_merge(lang_code, logger):
         logger.error(f"[{lang_upper}] 因一个或多个源文件加载失败，无法生成最终JSON文件。")
         return
 
-    # 合并数据
     combined_data = {
         'allHeroes': all_heroes,
         'families_bonus': families_bonus,
         'family_values': family_values
     }
 
-    # 定义最终输出路径和文件名
     output_dir = '../Heroplan.github.io'
     output_file = os.path.join(output_dir, f'data_{lang_code}.json')
 
-    # 写入压缩版的JSON文件
     try:
         os.makedirs(output_dir, exist_ok=True)
         with open(output_file, 'w', encoding='utf-8') as f:
@@ -168,7 +194,7 @@ def main():
     # ------------------- 配置 -------------------
     if not os.path.exists('logs'):
         os.makedirs('logs')
-    logger = setup_logger('../logs/full_process_log.log', 'FullProcess')
+    logger = setup_logger('logs/full_process_log.log', 'FullProcess')
     
     TASKS = [
         {'field': 'effects', 'translated_stem': 'effects'},
@@ -190,12 +216,40 @@ def main():
         }
     }
 
+    # ------------------- 预处理：加载天赋数据并创建映射 -------------------
+    logger.info("===== 开始预处理：加载天赋数据并创建映射 =====")
+    talent_stats_file = 'heroes_stat_talents.json' # 你的天赋文件名
+    talent_stats_data = load_json_data(talent_stats_file, logger)
+    
+    index_to_talent_map = {}
+    if talent_stats_data:
+        en_heroes_file = LANG_CONFIG['en']['source']
+        logger.info(f"使用 '{en_heroes_file}' 创建 originalIndex -> 天赋数据的映射...")
+        en_heroes_data = load_js_data(en_heroes_file, logger)
+        
+        if en_heroes_data:
+            # 创建一个从英文名到天赋的临时映射，以提高查找效率
+            name_to_talent_map = talent_stats_data
+            
+            for hero in en_heroes_data:
+                hero_name = hero.get('name')
+                hero_index = hero.get('originalIndex')
+                if hero_name in name_to_talent_map and hero_index is not None:
+                    index_to_talent_map[hero_index] = name_to_talent_map[hero_name]
+            
+            logger.info(f"成功创建了 {len(index_to_talent_map)} 条 originalIndex 到天赋的映射。")
+        else:
+            logger.error(f"无法加载 '{en_heroes_file}'，无法创建天赋映射。")
+    else:
+        logger.warning(f"无法加载天赋数据文件 '{talent_stats_file}'，后续流程将不包含天赋信息。")
+
+
     # ------------------- 执行 -------------------
-    logger.info("===== 开始执行数据处理两步流程 =====")
+    logger.info("\n===== 开始执行数据处理两步流程 =====")
     
     for lang_code, config in LANG_CONFIG.items():
-        # 执行第一步
-        update_successful = run_cumulative_update(lang_code, config, TASKS, logger)
+        # 执行第一步，传入天赋映射
+        update_successful = run_cumulative_update(lang_code, config, TASKS, logger, index_to_talent_map)
         
         # 如果第一步成功，则执行第二步
         if update_successful:

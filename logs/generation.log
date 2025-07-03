@@ -1,0 +1,4 @@
+2025-07-03 22:19:51,153 - INFO - 成功加载并规范化 1411 条英雄属性数据。
+2025-07-03 22:19:52,962 - WARNING - 
+--- 以下YML英雄未在 hero_stats.json 中匹配到属性 ---
+2025-07-03 22:19:52,963 - WARNING - - Experience Mimic Nature (规范化查询名称: experiencemimicnature)
