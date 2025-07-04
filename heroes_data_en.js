@@ -350,7 +350,7 @@ window.allHeroes =
             "Minions Summoners",
             "Mana Reducers or Blockers"
         ],
-        "source": "Covenant Summon",
+        "source": "Monster Island Summon",
         "Release date": "2022-08-25",
         "star": 3,
         "power": 484,
@@ -3491,7 +3491,7 @@ window.allHeroes =
             "AoE Attackers (Hit-5)",
             "Taunters"
         ],
-        "source": "S6-S7-Untold Tales",
+        "source": "S6-Mysteries of the Deep",
         "Release date": "2023-09-27",
         "star": 4,
         "power": 688,
@@ -3585,7 +3585,7 @@ window.allHeroes =
             "AoE Attackers (Hit-5)",
             "Taunters"
         ],
-        "source": "S6-S7-Untold Tales",
+        "source": "S6-Mysteries of the Deep",
         "Release date": "2023-09-27",
         "star": 4,
         "power": 704,
@@ -4373,7 +4373,7 @@ window.allHeroes =
             "Minions Counters",
             "Debuffers (ATK)"
         ],
-        "source": "S6-S7-Untold Tales",
+        "source": "S7-Treasures of Flame and Frost",
         "Release date": "2025-05-16",
         "star": 4,
         "power": 732,
@@ -4468,7 +4468,7 @@ window.allHeroes =
         "source": "Challenge-Carnival of Gods",
         "Release date": "2023-07-13",
         "star": 4,
-        "power": 689,
+        "power": 1238,
         "attack": 673,
         "defense": 697,
         "health": 1238,
@@ -5349,7 +5349,7 @@ window.allHeroes =
             "Cleansers",
             "Immunity Providers"
         ],
-        "source": "Challenge-Return to Sanctuary",
+        "source": "Challenge-Gargoyle",
         "Release date": "2024-05-16",
         "star": 4,
         "power": 701,
@@ -5977,7 +5977,7 @@ window.allHeroes =
             "Stacking Heroes",
             "Buffers (ATK)"
         ],
-        "source": "Monthly Event-Kalevala",
+        "source": "Monster Island Summon",
         "Release date": "2023-05-06",
         "star": 4,
         "power": 687,
@@ -7479,7 +7479,7 @@ window.allHeroes =
             "DoT Attackers",
             "Fiends Summoners"
         ],
-        "source": "Covenant Summon",
+        "source": "Monster Island Summon",
         "Release date": "2022-09-15",
         "star": 5,
         "power": 888,
@@ -8399,7 +8399,7 @@ window.allHeroes =
             "Damage Reducers",
             "Debuffers (DEF)"
         ],
-        "source": "S6-S7-Untold Tales",
+        "source": "S7-Treasures of Flame and Frost",
         "Release date": "2024-12-28",
         "star": 5,
         "power": 1169,
@@ -9223,7 +9223,7 @@ window.allHeroes =
             "Mana Raisers",
             "Mana Reducers or Blockers"
         ],
-        "source": "S6-S7-Untold Tales",
+        "source": "S6-Mysteries of the Deep",
         "Release date": "2023-11-22",
         "star": 5,
         "power": 999,
@@ -9319,7 +9319,7 @@ window.allHeroes =
             "Mana Raisers",
             "Mana Reducers or Blockers"
         ],
-        "source": "S6-S7-Untold Tales",
+        "source": "S6-Mysteries of the Deep",
         "Release date": "2024-11-21",
         "star": 5,
         "power": 1244,
@@ -10800,7 +10800,7 @@ window.allHeroes =
             "Mana Reducers or Blockers",
             "Snipers"
         ],
-        "source": "S6-S7-Untold Tales",
+        "source": "S6-Mysteries of the Deep",
         "Release date": "2023-07-05",
         "star": 5,
         "power": 936,
@@ -10900,7 +10900,7 @@ window.allHeroes =
             "DoT Attackers",
             "Healers (Special)"
         ],
-        "source": "S6-S7-Untold Tales",
+        "source": "S6-Mysteries of the Deep",
         "Release date": "2025-03-03",
         "star": 5,
         "power": 1164,
@@ -14212,7 +14212,7 @@ window.allHeroes =
             "Debuffers (ATK)",
             "Minions Counters"
         ],
-        "source": "S6-S7-Untold Tales",
+        "source": "S7-Treasures of Flame and Frost",
         "Release date": "2025-04-14",
         "star": 5,
         "power": 1194,
@@ -14308,7 +14308,7 @@ window.allHeroes =
             "Buffers (ATK)",
             "Buffers (DEF)"
         ],
-        "source": "Black Friday Summon",
+        "source": "Challenge-Beowulf",
         "Release date": "2024-11-25",
         "star": 5,
         "power": 1182,
@@ -19805,7 +19805,7 @@ window.allHeroes =
             "Immunity Providers",
             "Debuffers (DEF)"
         ],
-        "source": "Challenge-Return to Sanctuary",
+        "source": "Challenge-Gargoyle",
         "Release date": "2024-02-27",
         "star": 5,
         "power": 1048,
@@ -21568,7 +21568,7 @@ window.allHeroes =
             "Fiends Summoners",
             "DoT Attackers"
         ],
-        "source": "Covenant Summon",
+        "source": "Monster Island Summon",
         "Release date": "2024-08-13",
         "star": 5,
         "power": 1134,
@@ -22678,7 +22678,7 @@ window.allHeroes =
             "Cleansers",
             "AoE Attackers (Hit-5)"
         ],
-        "source": "Covenant Summon",
+        "source": "Monster Island Summon",
         "Release date": "2023-05-06",
         "star": 5,
         "power": 948,
@@ -22770,7 +22770,7 @@ window.allHeroes =
             "Bypassers",
             "Damage Sharers"
         ],
-        "source": "Black Friday Summon",
+        "source": "Astral Summon",
         "Release date": "2023-11-21",
         "star": 5,
         "power": 1010,
@@ -23136,7 +23136,7 @@ window.allHeroes =
             "Health Boosters",
             "Immunity Providers"
         ],
-        "source": "S6-S7-Untold Tales",
+        "source": "S6-Mysteries of the Deep",
         "Release date": "2023-06-07",
         "star": 5,
         "power": 952,
@@ -23234,7 +23234,7 @@ window.allHeroes =
             "Immunity Providers",
             "Effect Duration Resetters"
         ],
-        "source": "S6-S7-Untold Tales",
+        "source": "S6-Mysteries of the Deep",
         "Release date": "2024-08-24",
         "star": 5,
         "power": 1184,
@@ -24049,7 +24049,7 @@ window.allHeroes =
             "Buffers (ATK)",
             "DoT Attackers"
         ],
-        "source": "Monthly Event-Kalevala",
+        "source": "Monster Island Summon",
         "Release date": "2023-07-27",
         "star": 5,
         "power": 948,
@@ -24428,7 +24428,7 @@ window.allHeroes =
             "Damage Reducers",
             "Immunity Providers"
         ],
-        "source": "Challenge-Return to Sanctuary",
+        "source": "Challenge-Gargoyle",
         "Release date": "2024-10-17",
         "star": 5,
         "power": 1107,
@@ -24524,7 +24524,7 @@ window.allHeroes =
             "Mana Reducers or Blockers",
             "Minions Summoners"
         ],
-        "source": "Covenant Summon",
+        "source": "Monster Island Summon",
         "Release date": "2022-11-12",
         "star": 5,
         "power": 887,
@@ -24617,7 +24617,7 @@ window.allHeroes =
             "DoT Attackers",
             "Healing Reducers"
         ],
-        "source": "Harvest Summon",
+        "source": "Covenant Summon",
         "Release date": "2024-08-20",
         "star": 5,
         "power": 1136,
@@ -25142,7 +25142,7 @@ window.allHeroes =
         "source": "Challenge-Carnival of Gods",
         "Release date": "2023-07-13",
         "star": 3,
-        "power": 488,
+        "power": 804,
         "attack": 505,
         "defense": 481,
         "health": 804,
@@ -27072,7 +27072,7 @@ window.allHeroes =
             "DoT Attackers",
             "Fiends Summoners"
         ],
-        "source": "Covenant Summon",
+        "source": "Monster Island Summon",
         "Release date": "2022-11-12",
         "star": 3,
         "power": 484,
@@ -33079,7 +33079,7 @@ window.allHeroes =
             "Mana Reducers or Blockers",
             "Snipers"
         ],
-        "source": "S6-S7-Untold Tales",
+        "source": "S6-Mysteries of the Deep",
         "Release date": "2023-06-07",
         "star": 4,
         "power": 688,
@@ -33178,7 +33178,7 @@ window.allHeroes =
             "DoT Attackers",
             "Healers (Special)"
         ],
-        "source": "S6-S7-Untold Tales",
+        "source": "S6-Mysteries of the Deep",
         "Release date": "2025-03-31",
         "star": 4,
         "power": 704,
@@ -33369,7 +33369,7 @@ window.allHeroes =
             "DoT Attackers",
             "Cleansers"
         ],
-        "source": "Covenant Summon",
+        "source": "Monster Island Summon",
         "Release date": "2023-05-06",
         "star": 4,
         "power": 687,
@@ -35889,7 +35889,7 @@ window.allHeroes =
             "Immunity Providers",
             "Negative Effects On Self Or Allies"
         ],
-        "source": "Extra Draw-Secret Summon",
+        "source": "Mystery-Shadow",
         "Release date": "2024-04-11",
         "star": 5,
         "power": 1105,
@@ -37281,7 +37281,7 @@ window.allHeroes =
             "Bypassers",
             "Debuffers (DEF)"
         ],
-        "source": "S6-S7-Untold Tales",
+        "source": "S7-Treasures of Flame and Frost",
         "Release date": "2025-01-26",
         "star": 5,
         "power": 1173,
@@ -38824,7 +38824,7 @@ window.allHeroes =
             "Minions Summoners",
             "Fiends Summoners"
         ],
-        "source": "Black Friday Summon",
+        "source": "Extra Draw-Secret Summon",
         "Release date": "2022-11-22",
         "star": 5,
         "power": 853,
@@ -39179,7 +39179,7 @@ window.allHeroes =
             "Bypassers",
             "Minions Counters"
         ],
-        "source": "S6-S7-Untold Tales",
+        "source": "S7-Treasures of Flame and Frost",
         "Release date": "2025-06-13",
         "star": 5,
         "power": 1211,
@@ -40273,7 +40273,7 @@ window.allHeroes =
             "Stacking Heroes",
             "Heal over Time (HoT)"
         ],
-        "source": "S6-S7-Untold Tales",
+        "source": "S6-Mysteries of the Deep",
         "Release date": "2023-06-07",
         "star": 5,
         "power": 933,
@@ -40375,7 +40375,7 @@ window.allHeroes =
             "Heal over Time (HoT)",
             "Stacking Heroes"
         ],
-        "source": "S6-S7-Untold Tales",
+        "source": "S6-Mysteries of the Deep",
         "Release date": "2024-07-27",
         "star": 5,
         "power": 1161,
@@ -40655,7 +40655,7 @@ window.allHeroes =
             "Immunity Providers",
             "Max Health Reducers"
         ],
-        "source": "Challenge-Return to Sanctuary",
+        "source": "Challenge-Gargoyle",
         "Release date": "2024-02-27",
         "star": 5,
         "power": 1048,
@@ -40748,7 +40748,7 @@ window.allHeroes =
             "Snipers",
             "Extra Damage Dealers"
         ],
-        "source": "S6-S7-Untold Tales",
+        "source": "S6-Mysteries of the Deep",
         "Release date": "2023-08-30",
         "star": 5,
         "power": 976,
@@ -40850,7 +40850,7 @@ window.allHeroes =
             "Snipers",
             "Extra Damage Dealers"
         ],
-        "source": "S6-S7-Untold Tales",
+        "source": "S6-Mysteries of the Deep",
         "Release date": "2025-06-26",
         "star": 5,
         "power": 1214,
@@ -41954,7 +41954,7 @@ window.allHeroes =
             "DoT Attackers",
             "Extra Damage Dealers"
         ],
-        "source": "Covenant Summon",
+        "source": "Monster Island Summon",
         "Release date": "2022-11-12",
         "star": 5,
         "power": 886,
@@ -43400,7 +43400,7 @@ window.allHeroes =
             "Snipers",
             "Healing Reducers"
         ],
-        "source": "Covenant Summon",
+        "source": "Monster Island Summon",
         "Release date": "2022-10-15",
         "star": 5,
         "power": 888,
@@ -44209,7 +44209,7 @@ window.allHeroes =
             "Debuffers (DEF)",
             "Revivers"
         ],
-        "source": "Birthday Summon",
+        "source": "Wilderness Summon",
         "Release date": "2025-03-17",
         "star": 5,
         "power": 1214,
@@ -45747,7 +45747,7 @@ window.allHeroes =
             "Immunity Providers",
             "AoE Attackers (Hit-3)"
         ],
-        "source": "Challenge-Return to Sanctuary",
+        "source": "Challenge-Gargoyle",
         "Release date": "2024-05-16",
         "star": 5,
         "power": 1049,
@@ -45840,7 +45840,7 @@ window.allHeroes =
             "Stacking Heroes",
             "DoT Attackers"
         ],
-        "source": "Covenant Summon",
+        "source": "Monster Island Summon",
         "Release date": "2023-03-03",
         "star": 5,
         "power": 894,
@@ -46658,7 +46658,7 @@ window.allHeroes =
             "DoT Attackers",
             "Debuffers (DEF)"
         ],
-        "source": "S6-S7-Untold Tales",
+        "source": "S7-Treasures of Flame and Frost",
         "Release date": "2024-12-03",
         "star": 5,
         "power": 1165,
@@ -48683,7 +48683,7 @@ window.allHeroes =
             "Fiends Summoners",
             "DoT Attackers"
         ],
-        "source": "S6-S7-Untold Tales",
+        "source": "S6-Mysteries of the Deep",
         "Release date": "2024-02-01",
         "star": 5,
         "power": 998,
@@ -48781,7 +48781,7 @@ window.allHeroes =
             "Fiends Summoners",
             "DoT Attackers"
         ],
-        "source": "S6-S7-Untold Tales",
+        "source": "S6-Mysteries of the Deep",
         "Release date": "2025-02-03",
         "star": 5,
         "power": 1246,
@@ -48973,7 +48973,7 @@ window.allHeroes =
             "DoT Attackers",
             "Cleansers"
         ],
-        "source": "Covenant Summon",
+        "source": "Monster Island Summon",
         "Release date": "2023-02-09",
         "star": 5,
         "power": 891,
@@ -49157,7 +49157,7 @@ window.allHeroes =
             "AoE Attackers (Hit-3)",
             "Mana Reducers or Blockers"
         ],
-        "source": "Covenant Summon",
+        "source": "Monster Island Summon",
         "Release date": "2024-07-21",
         "star": 5,
         "power": 1131,
@@ -51169,7 +51169,7 @@ window.allHeroes =
             "Snipers",
             "Negative Effects On Self Or Allies"
         ],
-        "source": "Extra Draw-Secret Summon",
+        "source": "Mystery-Shadow",
         "Release date": "2024-06-30",
         "star": 5,
         "power": 1109,
@@ -52470,7 +52470,7 @@ window.allHeroes =
             "Damage Reducers",
             "Immunity Providers"
         ],
-        "source": "Challenge-Return to Sanctuary",
+        "source": "Challenge-Gargoyle",
         "Release date": "2024-05-16",
         "star": 3,
         "power": 493,
@@ -53165,7 +53165,7 @@ window.allHeroes =
             "Cleansers",
             "DoT Attackers"
         ],
-        "source": "Covenant Summon",
+        "source": "Monster Island Summon",
         "Release date": "2023-02-09",
         "star": 3,
         "power": 487,
@@ -57682,7 +57682,7 @@ window.allHeroes =
             "DoT Attackers",
             "Snipers"
         ],
-        "source": "Covenant Summon",
+        "source": "Monster Island Summon",
         "Release date": "2022-10-15",
         "star": 4,
         "power": 684,
@@ -58907,7 +58907,7 @@ window.allHeroes =
         "skill_types": [
             "Buffers (ATK)"
         ],
-        "source": "S6-S7-Untold Tales",
+        "source": "S6-Mysteries of the Deep",
         "Release date": "2023-06-07",
         "star": 4,
         "power": 688,
@@ -59001,7 +59001,7 @@ window.allHeroes =
         "skill_types": [
             "Buffers (ATK)"
         ],
-        "source": "S6-S7-Untold Tales",
+        "source": "S6-Mysteries of the Deep",
         "Release date": "2025-02-03",
         "star": 4,
         "power": 704,
@@ -63957,7 +63957,7 @@ window.allHeroes =
             "Healers (Special)",
             "Snipers"
         ],
-        "source": "Covenant Summon",
+        "source": "Monster Island Summon",
         "Release date": "2024-05-23",
         "star": 5,
         "power": 1122,
@@ -64048,7 +64048,7 @@ window.allHeroes =
             "Damage Reducers",
             "Immunity Providers"
         ],
-        "source": "S6-S7-Untold Tales",
+        "source": "S7-Treasures of Flame and Frost",
         "Release date": "2024-12-03",
         "star": 5,
         "power": 1165,
@@ -64875,7 +64875,7 @@ window.allHeroes =
             "Mana Reducers or Blockers",
             "Snipers"
         ],
-        "source": "Covenant Summon",
+        "source": "Monster Island Summon",
         "Release date": "2022-12-24",
         "star": 5,
         "power": 889,
@@ -65695,7 +65695,7 @@ window.allHeroes =
             "Reflectors",
             "Heal over Time (HoT)"
         ],
-        "source": "Covenant Summon",
+        "source": "Monster Island Summon",
         "Release date": "2022-09-18",
         "star": 5,
         "power": 888,
@@ -65971,7 +65971,7 @@ window.allHeroes =
             "Debuffers (DEF)",
             "Minions Counters"
         ],
-        "source": "S6-S7-Untold Tales",
+        "source": "S7-Treasures of Flame and Frost",
         "Release date": "2025-02-23",
         "star": 5,
         "power": 1180,
@@ -66244,7 +66244,7 @@ window.allHeroes =
             "Snipers",
             "Negative Effects On Self Or Allies"
         ],
-        "source": "Extra Draw-Secret Summon",
+        "source": "Mystery-Shadow",
         "Release date": "2024-06-04",
         "star": 5,
         "power": 1134,
@@ -66339,7 +66339,7 @@ window.allHeroes =
             "Stacking Heroes",
             "Buffers (ATK)"
         ],
-        "source": "Monthly Event-Kalevala",
+        "source": "Monster Island Summon",
         "Release date": "2023-05-26",
         "star": 5,
         "power": 895,
@@ -69446,7 +69446,7 @@ window.allHeroes =
             "Healing Reducers",
             "Mindless Attack & Mindless Heal"
         ],
-        "source": "S6-S7-Untold Tales",
+        "source": "S6-Mysteries of the Deep",
         "Release date": "2024-01-17",
         "star": 5,
         "power": 999,
@@ -69545,7 +69545,7 @@ window.allHeroes =
             "Healing Reducers",
             "Mindless Attack & Mindless Heal"
         ],
-        "source": "S6-S7-Untold Tales",
+        "source": "S6-Mysteries of the Deep",
         "Release date": "2024-10-19",
         "star": 5,
         "power": 1244,
@@ -69646,7 +69646,7 @@ window.allHeroes =
             "DoT Attackers",
             "Negative Effects On Self Or Allies"
         ],
-        "source": "Extra Draw-Secret Summon",
+        "source": "Mystery-Shadow",
         "Release date": "2024-05-01",
         "star": 5,
         "power": 1129,
@@ -71390,7 +71390,7 @@ window.allHeroes =
             "Stacking Heroes",
             "Taunters"
         ],
-        "source": "S6-S7-Untold Tales",
+        "source": "S6-Mysteries of the Deep",
         "Release date": "2023-06-07",
         "star": 5,
         "power": 906,
@@ -71492,7 +71492,7 @@ window.allHeroes =
             "Taunters",
             "Mana Raisers"
         ],
-        "source": "S6-S7-Untold Tales",
+        "source": "S6-Mysteries of the Deep",
         "Release date": "2024-05-23",
         "star": 5,
         "power": 1124,
@@ -74851,7 +74851,7 @@ window.allHeroes =
             "Debuffers (ATK)",
             "Minions Counters"
         ],
-        "source": "S6-S7-Untold Tales",
+        "source": "S7-Treasures of Flame and Frost",
         "Release date": "2025-05-16",
         "star": 5,
         "power": 1201,
@@ -75228,7 +75228,7 @@ window.allHeroes =
             "Counterattackers",
             "Damage Reducers"
         ],
-        "source": "S6-S7-Untold Tales",
+        "source": "S6-Mysteries of the Deep",
         "Release date": "2023-08-02",
         "star": 5,
         "power": 951,
@@ -75327,7 +75327,7 @@ window.allHeroes =
             "Damage Reducers",
             "Extra Damage Dealers"
         ],
-        "source": "S6-S7-Untold Tales",
+        "source": "S6-Mysteries of the Deep",
         "Release date": "2025-05-28",
         "star": 5,
         "power": 1184,
@@ -75888,7 +75888,7 @@ window.allHeroes =
             "Immunity Providers",
             "Damage Reducers"
         ],
-        "source": "Challenge-Return to Sanctuary",
+        "source": "Challenge-Gargoyle",
         "Release date": "2024-05-16",
         "star": 5,
         "power": 1049,
@@ -77989,7 +77989,7 @@ window.allHeroes =
             "AoE Attackers (Hit-3)",
             "Debuffers (DEF)"
         ],
-        "source": "S6-S7-Untold Tales",
+        "source": "S6-Mysteries of the Deep",
         "Release date": "2023-06-07",
         "star": 3,
         "power": 486,
@@ -78083,7 +78083,7 @@ window.allHeroes =
             "AoE Attackers (Hit-3)",
             "Debuffers (DEF)"
         ],
-        "source": "S6-S7-Untold Tales",
+        "source": "S6-Mysteries of the Deep",
         "Release date": "2025-04-29",
         "star": 3,
         "power": 498,
@@ -78180,7 +78180,7 @@ window.allHeroes =
             "Counterattackers",
             "Damage Sharers"
         ],
-        "source": "Covenant Summon",
+        "source": "Monster Island Summon",
         "Release date": "2022-12-24",
         "star": 3,
         "power": 486,
@@ -79150,7 +79150,7 @@ window.allHeroes =
             "DoT Attackers",
             "Debuffers (DEF)"
         ],
-        "source": "S6-S7-Untold Tales",
+        "source": "S7-Treasures of Flame and Frost",
         "Release date": "2024-12-03",
         "star": 3,
         "power": 499,
@@ -84240,7 +84240,7 @@ window.allHeroes =
             "DoT Attackers",
             "Fiends Summoners"
         ],
-        "source": "Covenant Summon",
+        "source": "Monster Island Summon",
         "Release date": "2022-08-25",
         "star": 4,
         "power": 684,
@@ -85850,7 +85850,7 @@ window.allHeroes =
             "Damage Reducers",
             "Immunity Providers"
         ],
-        "source": "Challenge-Return to Sanctuary",
+        "source": "Challenge-Gargoyle",
         "Release date": "2024-10-17",
         "star": 4,
         "power": 702,
@@ -86387,7 +86387,7 @@ window.allHeroes =
             "DoT Attackers",
             "Negative Effects On Self Or Allies"
         ],
-        "source": "Extra Draw-Secret Summon",
+        "source": "Mystery-Shadow",
         "Release date": "2024-05-26",
         "star": 5,
         "power": 1133,
@@ -86486,7 +86486,7 @@ window.allHeroes =
             "Mana Generation Buffers",
             "Stacking Heroes"
         ],
-        "source": "S6-S7-Untold Tales",
+        "source": "S7-Treasures of Flame and Frost",
         "Release date": "2025-03-23",
         "star": 5,
         "power": 1184,
@@ -89049,7 +89049,7 @@ window.allHeroes =
             "Extra Damage Dealers",
             "DoT Attackers"
         ],
-        "source": "Covenant Summon",
+        "source": "Monster Island Summon",
         "Release date": "2023-03-03",
         "star": 5,
         "power": 893,
@@ -90248,7 +90248,7 @@ window.allHeroes =
             "DoT Attackers",
             "Fiends Summoners"
         ],
-        "source": "Covenant Summon",
+        "source": "Monster Island Summon",
         "Release date": "2022-08-25",
         "star": 5,
         "power": 888,
@@ -90794,7 +90794,7 @@ window.allHeroes =
             "Debuffers (DEF)",
             "DoT Attackers"
         ],
-        "source": "S6-S7-Untold Tales",
+        "source": "S6-Mysteries of the Deep",
         "Release date": "2023-12-13",
         "star": 5,
         "power": 999,
@@ -90890,7 +90890,7 @@ window.allHeroes =
             "DoT Attackers",
             "Debuffers (DEF)"
         ],
-        "source": "S6-S7-Untold Tales",
+        "source": "S6-Mysteries of the Deep",
         "Release date": "2024-12-14",
         "star": 5,
         "power": 1245,
@@ -91180,7 +91180,7 @@ window.allHeroes =
             "Snipers",
             "Status Effects Blockers"
         ],
-        "source": "Covenant Summon",
+        "source": "Monster Island Summon",
         "Release date": "2022-10-15",
         "star": 5,
         "power": 887,
@@ -93274,7 +93274,7 @@ window.allHeroes =
             "Debuffers (DEF)",
             "Mana Reducers or Blockers"
         ],
-        "source": "S6-S7-Untold Tales",
+        "source": "S6-Mysteries of the Deep",
         "Release date": "2023-09-27",
         "star": 5,
         "power": 957,
@@ -93375,7 +93375,7 @@ window.allHeroes =
             "Debuffers (DEF)",
             "Mana Reducers or Blockers"
         ],
-        "source": "S6-S7-Untold Tales",
+        "source": "S6-Mysteries of the Deep",
         "Release date": "2024-06-20",
         "star": 5,
         "power": 1190,
@@ -94020,7 +94020,7 @@ window.allHeroes =
             "Immunity Providers",
             "Healers"
         ],
-        "source": "Challenge-Return to Sanctuary",
+        "source": "Challenge-Gargoyle",
         "Release date": "2024-07-25",
         "star": 5,
         "power": 1080,
@@ -96397,7 +96397,7 @@ window.allHeroes =
             "Snipers",
             "DoT Attackers"
         ],
-        "source": "S6-S7-Untold Tales",
+        "source": "S6-Mysteries of the Deep",
         "Release date": "2023-06-07",
         "star": 5,
         "power": 935,
@@ -96497,7 +96497,7 @@ window.allHeroes =
             "Fiends Summoners",
             "DoT Attackers"
         ],
-        "source": "S6-S7-Untold Tales",
+        "source": "S6-Mysteries of the Deep",
         "Release date": "2024-09-21",
         "star": 5,
         "power": 1163,
@@ -98163,7 +98163,7 @@ window.allHeroes =
             "Healers",
             "Healing Reducers"
         ],
-        "source": "Harvest Summon",
+        "source": "Covenant Summon",
         "Release date": "2025-06-03",
         "star": 5,
         "power": 1186,
@@ -98899,7 +98899,7 @@ window.allHeroes =
             "DoT Attackers",
             "Negative Effects On Self Or Allies"
         ],
-        "source": "Extra Draw-Secret Summon",
+        "source": "Mystery-Shadow",
         "Release date": "2024-04-21",
         "star": 5,
         "power": 1127,
@@ -98993,7 +98993,7 @@ window.allHeroes =
             "Healing Reducers",
             "Cleansers"
         ],
-        "source": "Covenant Summon",
+        "source": "Monster Island Summon",
         "Release date": "2022-12-24",
         "star": 5,
         "power": 888,
@@ -99821,7 +99821,7 @@ window.allHeroes =
             "Stacking Heroes",
             "Revivers"
         ],
-        "source": "Birthday Summon",
+        "source": "Wilderness Summon",
         "Release date": "2025-03-17",
         "star": 5,
         "power": 1214,
@@ -99920,7 +99920,7 @@ window.allHeroes =
             "Snipers",
             "Negative Effects On Self Or Allies"
         ],
-        "source": "Extra Draw-Secret Summon",
+        "source": "Mystery-Shadow",
         "Release date": "2024-07-18",
         "star": 5,
         "power": 1141,
@@ -100210,7 +100210,7 @@ window.allHeroes =
             "Debuffers (DEF)",
             "Bypassers"
         ],
-        "source": "S6-S7-Untold Tales",
+        "source": "S7-Treasures of Flame and Frost",
         "Release date": "2024-12-03",
         "star": 5,
         "power": 1165,
@@ -100395,7 +100395,7 @@ window.allHeroes =
             "Healers",
             "Reflectors"
         ],
-        "source": "Covenant Summon",
+        "source": "Monster Island Summon",
         "Release date": "2024-10-18",
         "star": 5,
         "power": 1143,
@@ -100578,7 +100578,7 @@ window.allHeroes =
             "Chain & Random Attackers",
             "Negative Effects On Self Or Allies"
         ],
-        "source": "Extra Draw-Secret Summon",
+        "source": "Mystery-Shadow",
         "Release date": "2025-04-03",
         "star": 5,
         "power": 1182,
@@ -100766,7 +100766,7 @@ window.allHeroes =
             "Buffers (DEF)",
             "Health Boosters"
         ],
-        "source": "Covenant Summon",
+        "source": "Monster Island Summon",
         "Release date": "2024-06-26",
         "star": 5,
         "power": 1128,
@@ -101054,7 +101054,7 @@ window.allHeroes =
             "Damage Sharers",
             "Heal over Time (HoT)"
         ],
-        "source": "Harvest Summon",
+        "source": "Covenant Summon",
         "Release date": "2024-08-20",
         "star": 5,
         "power": 1136,
@@ -102084,7 +102084,7 @@ window.allHeroes =
             "Reflectors",
             "Damage Sharers"
         ],
-        "source": "Black Friday Summon",
+        "source": "Astral Summon",
         "Release date": "2023-11-21",
         "star": 5,
         "power": 1012,
@@ -105594,7 +105594,7 @@ window.allHeroes =
             "Stacking Heroes",
             "Buffers (ATK)"
         ],
-        "source": "Monthly Event-Kalevala",
+        "source": "Monster Island Summon",
         "Release date": "2023-05-06",
         "star": 3,
         "power": 487,
@@ -106117,7 +106117,7 @@ window.allHeroes =
             "Healers",
             "Negative Effects On Self Or Allies"
         ],
-        "source": "Covenant Summon",
+        "source": "Monster Island Summon",
         "Release date": "2022-10-15",
         "star": 3,
         "power": 484,
@@ -106647,7 +106647,7 @@ window.allHeroes =
             "Mana Raisers",
             "Mana Reducers or Blockers"
         ],
-        "source": "S6-S7-Untold Tales",
+        "source": "S6-Mysteries of the Deep",
         "Release date": "2023-07-05",
         "star": 3,
         "power": 486,
@@ -106742,7 +106742,7 @@ window.allHeroes =
             "AoE Attackers (Hit-3)",
             "Mana Raisers"
         ],
-        "source": "S6-S7-Untold Tales",
+        "source": "S6-Mysteries of the Deep",
         "Release date": "2025-02-03",
         "star": 3,
         "power": 497,
@@ -108880,7 +108880,7 @@ window.allHeroes =
             "DoT Attackers",
             "Cleansers"
         ],
-        "source": "Covenant Summon",
+        "source": "Monster Island Summon",
         "Release date": "2022-12-24",
         "star": 4,
         "power": 686,
@@ -109687,7 +109687,7 @@ window.allHeroes =
             "DoT Attackers",
             "Debuffers (DEF)"
         ],
-        "source": "S6-S7-Untold Tales",
+        "source": "S7-Treasures of Flame and Frost",
         "Release date": "2024-12-03",
         "star": 4,
         "power": 707,
@@ -112684,7 +112684,7 @@ window.allHeroes =
         "source": "Super Elementals",
         "Release date": "2023-07-17",
         "star": 4,
-        "power": 688,
+        "power": 1234,
         "attack": 680,
         "defense": 690,
         "health": 1234,
@@ -114797,7 +114797,7 @@ window.allHeroes =
             "Heal over Time (HoT)",
             "Revivers"
         ],
-        "source": "Covenant Summon",
+        "source": "Monster Island Summon",
         "Release date": "2023-02-09",
         "star": 5,
         "power": 891,
@@ -115253,7 +115253,7 @@ window.allHeroes =
             "Stacking Heroes",
             "Negative Effects On Self Or Allies"
         ],
-        "source": "Extra Draw-Secret Summon",
+        "source": "Mystery-Shadow",
         "Release date": "2024-05-17",
         "star": 5,
         "power": 1098,
@@ -115611,7 +115611,7 @@ window.allHeroes =
             "Minions Summoners",
             "Stacking Heroes"
         ],
-        "source": "S6-S7-Untold Tales",
+        "source": "S6-Mysteries of the Deep",
         "Release date": "2023-06-07",
         "star": 5,
         "power": 934,
@@ -115709,7 +115709,7 @@ window.allHeroes =
             "Minions Summoners",
             "Stacking Heroes"
         ],
-        "source": "S6-S7-Untold Tales",
+        "source": "S6-Mysteries of the Deep",
         "Release date": "2025-03-31",
         "star": 5,
         "power": 1161,
@@ -116556,7 +116556,7 @@ window.allHeroes =
             "Debuffers (DEF)",
             "Minions Counters"
         ],
-        "source": "S6-S7-Untold Tales",
+        "source": "S7-Treasures of Flame and Frost",
         "Release date": "2024-12-03",
         "star": 5,
         "power": 1165,
@@ -118144,7 +118144,7 @@ window.allHeroes =
             "Damage Reducers",
             "Immunity Providers"
         ],
-        "source": "Challenge-Return to Sanctuary",
+        "source": "Challenge-Gargoyle",
         "Release date": "2024-06-13",
         "star": 5,
         "power": 1065,
@@ -121410,7 +121410,7 @@ window.allHeroes =
             "Extra Damage Dealers",
             "Healing Reducers"
         ],
-        "source": "Covenant Summon",
+        "source": "Monster Island Summon",
         "Release date": "2022-08-25",
         "star": 5,
         "power": 885,
@@ -123607,7 +123607,7 @@ window.allHeroes =
             "AoE Attackers (Hit-5)",
             "Damage Reducers"
         ],
-        "source": "Black Friday Summon",
+        "source": "Challenge-Gargoyle",
         "Release date": "2021-11-24",
         "star": 5,
         "power": 841,
@@ -123698,7 +123698,7 @@ window.allHeroes =
             "DoT Attackers",
             "Mana Reducers or Blockers"
         ],
-        "source": "S6-S7-Untold Tales",
+        "source": "S6-Mysteries of the Deep",
         "Release date": "2023-10-25",
         "star": 5,
         "power": 964,
@@ -123798,7 +123798,7 @@ window.allHeroes =
             "DoT Attackers",
             "Mana Reducers or Blockers"
         ],
-        "source": "S6-S7-Untold Tales",
+        "source": "S6-Mysteries of the Deep",
         "Release date": "2025-01-09",
         "star": 5,
         "power": 1200,
@@ -126451,7 +126451,7 @@ window.allHeroes =
             "Stacking Heroes",
             "Taunters"
         ],
-        "source": "Monthly Event-Kalevala",
+        "source": "Monster Island Summon",
         "Release date": "2023-05-06",
         "star": 5,
         "power": 896,
@@ -126544,7 +126544,7 @@ window.allHeroes =
             "Bypassers",
             "Buffers (ATK)"
         ],
-        "source": "Covenant Summon",
+        "source": "Monster Island Summon",
         "Release date": "2024-05-23",
         "star": 5,
         "power": 1122,
@@ -127469,7 +127469,7 @@ window.allHeroes =
             "Buffers (ATK)",
             "Mana Generation Buffers"
         ],
-        "source": "Black Friday Summon",
+        "source": "Challenge-Beowulf",
         "Release date": "2024-11-25",
         "star": 5,
         "power": 1182,
@@ -128206,7 +128206,7 @@ window.allHeroes =
         "source": "Super Elementals",
         "Release date": "2023-07-17",
         "star": 5,
-        "power": 940,
+        "power": 1672,
         "attack": 951,
         "defense": 887,
         "health": 1672,

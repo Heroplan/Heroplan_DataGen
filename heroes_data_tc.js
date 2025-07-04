@@ -350,7 +350,7 @@ window.allHeroes =
             "召喚小兵",
             "法力削減或格擋"
         ],
-        "source": "聖約召喚",
+        "source": "怪獸島召喚",
         "Release date": "2022-08-25",
         "star": 3,
         "power": 484,
@@ -3491,7 +3491,7 @@ window.allHeroes =
             "全體攻擊 (打5)",
             "嘲諷"
         ],
-        "source": "S6-S7-隱秘傳說",
+        "source": "S6-深淵謎團",
         "Release date": "2023-09-27",
         "star": 4,
         "power": 688,
@@ -3585,7 +3585,7 @@ window.allHeroes =
             "全體攻擊 (打5)",
             "嘲諷"
         ],
-        "source": "S6-S7-隱秘傳說",
+        "source": "S6-深淵謎團",
         "Release date": "2023-09-27",
         "star": 4,
         "power": 704,
@@ -4375,7 +4375,7 @@ window.allHeroes =
             "反製小兵",
             "攻擊減益"
         ],
-        "source": "S6-S7-隱秘傳說",
+        "source": "S7-火焰與冰霜的寶藏",
         "Release date": "2025-05-16",
         "star": 4,
         "power": 732,
@@ -4470,7 +4470,7 @@ window.allHeroes =
         "source": "挑戰-眾神狂歡節",
         "Release date": "2023-07-13",
         "star": 4,
-        "power": 689,
+        "power": 1238,
         "attack": 673,
         "defense": 697,
         "health": 1238,
@@ -5351,7 +5351,7 @@ window.allHeroes =
             "凈化",
             "提供免疫"
         ],
-        "source": "挑戰-重返聖堂",
+        "source": "挑戰-石像鬼",
         "Release date": "2024-05-16",
         "star": 4,
         "power": 701,
@@ -5979,7 +5979,7 @@ window.allHeroes =
             "疊加",
             "攻擊增益"
         ],
-        "source": "月活動-卡勒瓦拉",
+        "source": "怪獸島召喚",
         "Release date": "2023-05-06",
         "star": 4,
         "power": 687,
@@ -7481,7 +7481,7 @@ window.allHeroes =
             "持續傷害",
             "召喚惡魔"
         ],
-        "source": "聖約召喚",
+        "source": "怪獸島召喚",
         "Release date": "2022-09-15",
         "star": 5,
         "power": 888,
@@ -8401,7 +8401,7 @@ window.allHeroes =
             "傷害減免",
             "防禦減益"
         ],
-        "source": "S6-S7-隱秘傳說",
+        "source": "S7-火焰與冰霜的寶藏",
         "Release date": "2024-12-28",
         "star": 5,
         "power": 1169,
@@ -9225,7 +9225,7 @@ window.allHeroes =
             "法力提升",
             "法力削減或格擋"
         ],
-        "source": "S6-S7-隱秘傳說",
+        "source": "S6-深淵謎團",
         "Release date": "2023-11-22",
         "star": 5,
         "power": 999,
@@ -9321,7 +9321,7 @@ window.allHeroes =
             "法力提升",
             "法力削減或格擋"
         ],
-        "source": "S6-S7-隱秘傳說",
+        "source": "S6-深淵謎團",
         "Release date": "2024-11-21",
         "star": 5,
         "power": 1244,
@@ -10802,7 +10802,7 @@ window.allHeroes =
             "法力削減或格擋",
             "狙擊手"
         ],
-        "source": "S6-S7-隱秘傳說",
+        "source": "S6-深淵謎團",
         "Release date": "2023-07-05",
         "star": 5,
         "power": 936,
@@ -10902,7 +10902,7 @@ window.allHeroes =
             "持續傷害",
             "特殊治療"
         ],
-        "source": "S6-S7-隱秘傳說",
+        "source": "S6-深淵謎團",
         "Release date": "2025-03-03",
         "star": 5,
         "power": 1164,
@@ -14214,7 +14214,7 @@ window.allHeroes =
             "攻擊減益",
             "反製小兵"
         ],
-        "source": "S6-S7-隱秘傳說",
+        "source": "S7-火焰與冰霜的寶藏",
         "Release date": "2025-04-14",
         "star": 5,
         "power": 1194,
@@ -14310,7 +14310,7 @@ window.allHeroes =
             "攻擊增益",
             "防禦增益"
         ],
-        "source": "黑色星期五召喚",
+        "source": "挑戰-貝武夫",
         "Release date": "2024-11-25",
         "star": 5,
         "power": 1182,
@@ -19807,7 +19807,7 @@ window.allHeroes =
             "提供免疫",
             "防禦減益"
         ],
-        "source": "挑戰-重返聖堂",
+        "source": "挑戰-石像鬼",
         "Release date": "2024-02-27",
         "star": 5,
         "power": 1048,
@@ -21570,7 +21570,7 @@ window.allHeroes =
             "召喚惡魔",
             "持續傷害"
         ],
-        "source": "聖約召喚",
+        "source": "怪獸島召喚",
         "Release date": "2024-08-13",
         "star": 5,
         "power": 1134,
@@ -22680,7 +22680,7 @@ window.allHeroes =
             "凈化",
             "全體攻擊 (打5)"
         ],
-        "source": "聖約召喚",
+        "source": "怪獸島召喚",
         "Release date": "2023-05-06",
         "star": 5,
         "power": 948,
@@ -22772,7 +22772,7 @@ window.allHeroes =
             "繞過",
             "傷害分攤"
         ],
-        "source": "黑色星期五召喚",
+        "source": "星界召喚",
         "Release date": "2023-11-21",
         "star": 5,
         "power": 1010,
@@ -23138,7 +23138,7 @@ window.allHeroes =
             "生命強化",
             "提供免疫"
         ],
-        "source": "S6-S7-隱秘傳說",
+        "source": "S6-深淵謎團",
         "Release date": "2023-06-07",
         "star": 5,
         "power": 952,
@@ -23236,7 +23236,7 @@ window.allHeroes =
             "提供免疫",
             "效果持續重置"
         ],
-        "source": "S6-S7-隱秘傳說",
+        "source": "S6-深淵謎團",
         "Release date": "2024-08-24",
         "star": 5,
         "power": 1184,
@@ -24051,7 +24051,7 @@ window.allHeroes =
             "攻擊增益",
             "持續傷害"
         ],
-        "source": "月活動-卡勒瓦拉",
+        "source": "怪獸島召喚",
         "Release date": "2023-07-27",
         "star": 5,
         "power": 948,
@@ -24430,7 +24430,7 @@ window.allHeroes =
             "傷害減免",
             "提供免疫"
         ],
-        "source": "挑戰-重返聖堂",
+        "source": "挑戰-石像鬼",
         "Release date": "2024-10-17",
         "star": 5,
         "power": 1107,
@@ -24526,7 +24526,7 @@ window.allHeroes =
             "法力削減或格擋",
             "召喚小兵"
         ],
-        "source": "聖約召喚",
+        "source": "怪獸島召喚",
         "Release date": "2022-11-12",
         "star": 5,
         "power": 887,
@@ -24619,7 +24619,7 @@ window.allHeroes =
             "持續傷害",
             "治療削減"
         ],
-        "source": "豐收召喚",
+        "source": "聖約召喚",
         "Release date": "2024-08-20",
         "star": 5,
         "power": 1136,
@@ -25144,7 +25144,7 @@ window.allHeroes =
         "source": "挑戰-眾神狂歡節",
         "Release date": "2023-07-13",
         "star": 3,
-        "power": 488,
+        "power": 804,
         "attack": 505,
         "defense": 481,
         "health": 804,
@@ -27073,7 +27073,7 @@ window.allHeroes =
             "持續傷害",
             "召喚惡魔"
         ],
-        "source": "聖約召喚",
+        "source": "怪獸島召喚",
         "Release date": "2022-11-12",
         "star": 3,
         "power": 484,
@@ -33080,7 +33080,7 @@ window.allHeroes =
             "法力削減或格擋",
             "狙擊手"
         ],
-        "source": "S6-S7-隱秘傳說",
+        "source": "S6-深淵謎團",
         "Release date": "2023-06-07",
         "star": 4,
         "power": 688,
@@ -33179,7 +33179,7 @@ window.allHeroes =
             "持續傷害",
             "特殊治療"
         ],
-        "source": "S6-S7-隱秘傳說",
+        "source": "S6-深淵謎團",
         "Release date": "2025-03-31",
         "star": 4,
         "power": 704,
@@ -33370,7 +33370,7 @@ window.allHeroes =
             "持續傷害",
             "凈化"
         ],
-        "source": "聖約召喚",
+        "source": "怪獸島召喚",
         "Release date": "2023-05-06",
         "star": 4,
         "power": 687,
@@ -35890,7 +35890,7 @@ window.allHeroes =
             "提供免疫",
             "對自身或友軍負面效果"
         ],
-        "source": "額外抽獎-秘密召喚",
+        "source": "神秘-暗影",
         "Release date": "2024-04-11",
         "star": 5,
         "power": 1105,
@@ -37282,7 +37282,7 @@ window.allHeroes =
             "繞過",
             "防禦減益"
         ],
-        "source": "S6-S7-隱秘傳說",
+        "source": "S7-火焰與冰霜的寶藏",
         "Release date": "2025-01-26",
         "star": 5,
         "power": 1173,
@@ -38825,7 +38825,7 @@ window.allHeroes =
             "召喚小兵",
             "召喚惡魔"
         ],
-        "source": "黑色星期五召喚",
+        "source": "額外抽獎-秘密召喚",
         "Release date": "2022-11-22",
         "star": 5,
         "power": 853,
@@ -39180,7 +39180,7 @@ window.allHeroes =
             "繞過",
             "反製小兵"
         ],
-        "source": "S6-S7-隱秘傳說",
+        "source": "S7-火焰與冰霜的寶藏",
         "Release date": "2025-06-13",
         "star": 5,
         "power": 1211,
@@ -40278,7 +40278,7 @@ window.allHeroes =
             "疊加",
             "持續治療"
         ],
-        "source": "S6-S7-隱秘傳說",
+        "source": "S6-深淵謎團",
         "Release date": "2023-06-07",
         "star": 5,
         "power": 933,
@@ -40380,7 +40380,7 @@ window.allHeroes =
             "持續治療",
             "疊加"
         ],
-        "source": "S6-S7-隱秘傳說",
+        "source": "S6-深淵謎團",
         "Release date": "2024-07-27",
         "star": 5,
         "power": 1161,
@@ -40660,7 +40660,7 @@ window.allHeroes =
             "提供免疫",
             "最大生命削減"
         ],
-        "source": "挑戰-重返聖堂",
+        "source": "挑戰-石像鬼",
         "Release date": "2024-02-27",
         "star": 5,
         "power": 1048,
@@ -40753,7 +40753,7 @@ window.allHeroes =
             "狙擊手",
             "額外傷害"
         ],
-        "source": "S6-S7-隱秘傳說",
+        "source": "S6-深淵謎團",
         "Release date": "2023-08-30",
         "star": 5,
         "power": 976,
@@ -40855,7 +40855,7 @@ window.allHeroes =
             "狙擊手",
             "額外傷害"
         ],
-        "source": "S6-S7-隱秘傳說",
+        "source": "S6-深淵謎團",
         "Release date": "2025-06-26",
         "star": 5,
         "power": 1214,
@@ -41959,7 +41959,7 @@ window.allHeroes =
             "持續傷害",
             "額外傷害"
         ],
-        "source": "聖約召喚",
+        "source": "怪獸島召喚",
         "Release date": "2022-11-12",
         "star": 5,
         "power": 886,
@@ -43407,7 +43407,7 @@ window.allHeroes =
             "狙擊手",
             "治療削減"
         ],
-        "source": "聖約召喚",
+        "source": "怪獸島召喚",
         "Release date": "2022-10-15",
         "star": 5,
         "power": 888,
@@ -44216,7 +44216,7 @@ window.allHeroes =
             "防禦減益",
             "復活"
         ],
-        "source": "生日召喚",
+        "source": "野地召喚",
         "Release date": "2025-03-17",
         "star": 5,
         "power": 1214,
@@ -45754,7 +45754,7 @@ window.allHeroes =
             "提供免疫",
             "範圍攻擊 (打3)"
         ],
-        "source": "挑戰-重返聖堂",
+        "source": "挑戰-石像鬼",
         "Release date": "2024-05-16",
         "star": 5,
         "power": 1049,
@@ -45847,7 +45847,7 @@ window.allHeroes =
             "疊加",
             "持續傷害"
         ],
-        "source": "聖約召喚",
+        "source": "怪獸島召喚",
         "Release date": "2023-03-03",
         "star": 5,
         "power": 894,
@@ -46665,7 +46665,7 @@ window.allHeroes =
             "持續傷害",
             "防禦減益"
         ],
-        "source": "S6-S7-隱秘傳說",
+        "source": "S7-火焰與冰霜的寶藏",
         "Release date": "2024-12-03",
         "star": 5,
         "power": 1165,
@@ -48692,7 +48692,7 @@ window.allHeroes =
             "召喚惡魔",
             "持續傷害"
         ],
-        "source": "S6-S7-隱秘傳說",
+        "source": "S6-深淵謎團",
         "Release date": "2024-02-01",
         "star": 5,
         "power": 998,
@@ -48790,7 +48790,7 @@ window.allHeroes =
             "召喚惡魔",
             "持續傷害"
         ],
-        "source": "S6-S7-隱秘傳說",
+        "source": "S6-深淵謎團",
         "Release date": "2025-02-03",
         "star": 5,
         "power": 1246,
@@ -48982,7 +48982,7 @@ window.allHeroes =
             "持續傷害",
             "凈化"
         ],
-        "source": "聖約召喚",
+        "source": "怪獸島召喚",
         "Release date": "2023-02-09",
         "star": 5,
         "power": 891,
@@ -49166,7 +49166,7 @@ window.allHeroes =
             "範圍攻擊 (打3)",
             "法力削減或格擋"
         ],
-        "source": "聖約召喚",
+        "source": "怪獸島召喚",
         "Release date": "2024-07-21",
         "star": 5,
         "power": 1131,
@@ -51178,7 +51178,7 @@ window.allHeroes =
             "狙擊手",
             "對自身或友軍負面效果"
         ],
-        "source": "額外抽獎-秘密召喚",
+        "source": "神秘-暗影",
         "Release date": "2024-06-30",
         "star": 5,
         "power": 1109,
@@ -52483,7 +52483,7 @@ window.allHeroes =
             "傷害減免",
             "提供免疫"
         ],
-        "source": "挑戰-重返聖堂",
+        "source": "挑戰-石像鬼",
         "Release date": "2024-05-16",
         "star": 3,
         "power": 493,
@@ -53178,7 +53178,7 @@ window.allHeroes =
             "凈化",
             "持續傷害"
         ],
-        "source": "聖約召喚",
+        "source": "怪獸島召喚",
         "Release date": "2023-02-09",
         "star": 3,
         "power": 487,
@@ -57695,7 +57695,7 @@ window.allHeroes =
             "持續傷害",
             "狙擊手"
         ],
-        "source": "聖約召喚",
+        "source": "怪獸島召喚",
         "Release date": "2022-10-15",
         "star": 4,
         "power": 684,
@@ -58920,7 +58920,7 @@ window.allHeroes =
         "skill_types": [
             "攻擊增益"
         ],
-        "source": "S6-S7-隱秘傳說",
+        "source": "S6-深淵謎團",
         "Release date": "2023-06-07",
         "star": 4,
         "power": 688,
@@ -59014,7 +59014,7 @@ window.allHeroes =
         "skill_types": [
             "攻擊增益"
         ],
-        "source": "S6-S7-隱秘傳說",
+        "source": "S6-深淵謎團",
         "Release date": "2025-02-03",
         "star": 4,
         "power": 704,
@@ -63970,7 +63970,7 @@ window.allHeroes =
             "特殊治療",
             "狙擊手"
         ],
-        "source": "聖約召喚",
+        "source": "怪獸島召喚",
         "Release date": "2024-05-23",
         "star": 5,
         "power": 1122,
@@ -64061,7 +64061,7 @@ window.allHeroes =
             "傷害減免",
             "提供免疫"
         ],
-        "source": "S6-S7-隱秘傳說",
+        "source": "S7-火焰與冰霜的寶藏",
         "Release date": "2024-12-03",
         "star": 5,
         "power": 1165,
@@ -64888,7 +64888,7 @@ window.allHeroes =
             "法力削減或格擋",
             "狙擊手"
         ],
-        "source": "聖約召喚",
+        "source": "怪獸島召喚",
         "Release date": "2022-12-24",
         "star": 5,
         "power": 889,
@@ -65708,7 +65708,7 @@ window.allHeroes =
             "反射",
             "持續治療"
         ],
-        "source": "聖約召喚",
+        "source": "怪獸島召喚",
         "Release date": "2022-09-18",
         "star": 5,
         "power": 888,
@@ -65984,7 +65984,7 @@ window.allHeroes =
             "防禦減益",
             "反製小兵"
         ],
-        "source": "S6-S7-隱秘傳說",
+        "source": "S7-火焰與冰霜的寶藏",
         "Release date": "2025-02-23",
         "star": 5,
         "power": 1180,
@@ -66257,7 +66257,7 @@ window.allHeroes =
             "狙擊手",
             "對自身或友軍負面效果"
         ],
-        "source": "額外抽獎-秘密召喚",
+        "source": "神秘-暗影",
         "Release date": "2024-06-04",
         "star": 5,
         "power": 1134,
@@ -66352,7 +66352,7 @@ window.allHeroes =
             "疊加",
             "攻擊增益"
         ],
-        "source": "月活動-卡勒瓦拉",
+        "source": "怪獸島召喚",
         "Release date": "2023-05-26",
         "star": 5,
         "power": 895,
@@ -69458,7 +69458,7 @@ window.allHeroes =
             "治療削減",
             "精神錯亂攻擊&治療"
         ],
-        "source": "S6-S7-隱秘傳說",
+        "source": "S6-深淵謎團",
         "Release date": "2024-01-17",
         "star": 5,
         "power": 999,
@@ -69557,7 +69557,7 @@ window.allHeroes =
             "治療削減",
             "精神錯亂攻擊&治療"
         ],
-        "source": "S6-S7-隱秘傳說",
+        "source": "S6-深淵謎團",
         "Release date": "2024-10-19",
         "star": 5,
         "power": 1244,
@@ -69658,7 +69658,7 @@ window.allHeroes =
             "持續傷害",
             "對自身或友軍負面效果"
         ],
-        "source": "額外抽獎-秘密召喚",
+        "source": "神秘-暗影",
         "Release date": "2024-05-01",
         "star": 5,
         "power": 1129,
@@ -71402,7 +71402,7 @@ window.allHeroes =
             "疊加",
             "嘲諷"
         ],
-        "source": "S6-S7-隱秘傳說",
+        "source": "S6-深淵謎團",
         "Release date": "2023-06-07",
         "star": 5,
         "power": 906,
@@ -71504,7 +71504,7 @@ window.allHeroes =
             "嘲諷",
             "法力提升"
         ],
-        "source": "S6-S7-隱秘傳說",
+        "source": "S6-深淵謎團",
         "Release date": "2024-05-23",
         "star": 5,
         "power": 1124,
@@ -74867,7 +74867,7 @@ window.allHeroes =
             "攻擊減益",
             "反製小兵"
         ],
-        "source": "S6-S7-隱秘傳說",
+        "source": "S7-火焰與冰霜的寶藏",
         "Release date": "2025-05-16",
         "star": 5,
         "power": 1201,
@@ -75244,7 +75244,7 @@ window.allHeroes =
             "反擊",
             "傷害減免"
         ],
-        "source": "S6-S7-隱秘傳說",
+        "source": "S6-深淵謎團",
         "Release date": "2023-08-02",
         "star": 5,
         "power": 951,
@@ -75343,7 +75343,7 @@ window.allHeroes =
             "傷害減免",
             "額外傷害"
         ],
-        "source": "S6-S7-隱秘傳說",
+        "source": "S6-深淵謎團",
         "Release date": "2025-05-28",
         "star": 5,
         "power": 1184,
@@ -75904,7 +75904,7 @@ window.allHeroes =
             "提供免疫",
             "傷害減免"
         ],
-        "source": "挑戰-重返聖堂",
+        "source": "挑戰-石像鬼",
         "Release date": "2024-05-16",
         "star": 5,
         "power": 1049,
@@ -78003,7 +78003,7 @@ window.allHeroes =
             "範圍攻擊 (打3)",
             "防禦減益"
         ],
-        "source": "S6-S7-隱秘傳說",
+        "source": "S6-深淵謎團",
         "Release date": "2023-06-07",
         "star": 3,
         "power": 486,
@@ -78097,7 +78097,7 @@ window.allHeroes =
             "範圍攻擊 (打3)",
             "防禦減益"
         ],
-        "source": "S6-S7-隱秘傳說",
+        "source": "S6-深淵謎團",
         "Release date": "2025-04-29",
         "star": 3,
         "power": 498,
@@ -78194,7 +78194,7 @@ window.allHeroes =
             "反擊",
             "傷害分攤"
         ],
-        "source": "聖約召喚",
+        "source": "怪獸島召喚",
         "Release date": "2022-12-24",
         "star": 3,
         "power": 486,
@@ -79164,7 +79164,7 @@ window.allHeroes =
             "持續傷害",
             "防禦減益"
         ],
-        "source": "S6-S7-隱秘傳說",
+        "source": "S7-火焰與冰霜的寶藏",
         "Release date": "2024-12-03",
         "star": 3,
         "power": 499,
@@ -84256,7 +84256,7 @@ window.allHeroes =
             "持續傷害",
             "召喚惡魔"
         ],
-        "source": "聖約召喚",
+        "source": "怪獸島召喚",
         "Release date": "2022-08-25",
         "star": 4,
         "power": 684,
@@ -85866,7 +85866,7 @@ window.allHeroes =
             "傷害減免",
             "提供免疫"
         ],
-        "source": "挑戰-重返聖堂",
+        "source": "挑戰-石像鬼",
         "Release date": "2024-10-17",
         "star": 4,
         "power": 702,
@@ -86403,7 +86403,7 @@ window.allHeroes =
             "持續傷害",
             "對自身或友軍負面效果"
         ],
-        "source": "額外抽獎-秘密召喚",
+        "source": "神秘-暗影",
         "Release date": "2024-05-26",
         "star": 5,
         "power": 1133,
@@ -86502,7 +86502,7 @@ window.allHeroes =
             "法力生成增益",
             "疊加"
         ],
-        "source": "S6-S7-隱秘傳說",
+        "source": "S7-火焰與冰霜的寶藏",
         "Release date": "2025-03-23",
         "star": 5,
         "power": 1184,
@@ -89067,7 +89067,7 @@ window.allHeroes =
             "額外傷害",
             "持續傷害"
         ],
-        "source": "聖約召喚",
+        "source": "怪獸島召喚",
         "Release date": "2023-03-03",
         "star": 5,
         "power": 893,
@@ -90266,7 +90266,7 @@ window.allHeroes =
             "持續傷害",
             "召喚惡魔"
         ],
-        "source": "聖約召喚",
+        "source": "怪獸島召喚",
         "Release date": "2022-08-25",
         "star": 5,
         "power": 888,
@@ -90812,7 +90812,7 @@ window.allHeroes =
             "防禦減益",
             "持續傷害"
         ],
-        "source": "S6-S7-隱秘傳說",
+        "source": "S6-深淵謎團",
         "Release date": "2023-12-13",
         "star": 5,
         "power": 999,
@@ -90908,7 +90908,7 @@ window.allHeroes =
             "持續傷害",
             "防禦減益"
         ],
-        "source": "S6-S7-隱秘傳說",
+        "source": "S6-深淵謎團",
         "Release date": "2024-12-14",
         "star": 5,
         "power": 1245,
@@ -91198,7 +91198,7 @@ window.allHeroes =
             "狙擊手",
             "狀態效果格擋"
         ],
-        "source": "聖約召喚",
+        "source": "怪獸島召喚",
         "Release date": "2022-10-15",
         "star": 5,
         "power": 887,
@@ -93290,7 +93290,7 @@ window.allHeroes =
             "防禦減益",
             "法力削減或格擋"
         ],
-        "source": "S6-S7-隱秘傳說",
+        "source": "S6-深淵謎團",
         "Release date": "2023-09-27",
         "star": 5,
         "power": 957,
@@ -93391,7 +93391,7 @@ window.allHeroes =
             "防禦減益",
             "法力削減或格擋"
         ],
-        "source": "S6-S7-隱秘傳說",
+        "source": "S6-深淵謎團",
         "Release date": "2024-06-20",
         "star": 5,
         "power": 1190,
@@ -94036,7 +94036,7 @@ window.allHeroes =
             "提供免疫",
             "治療"
         ],
-        "source": "挑戰-重返聖堂",
+        "source": "挑戰-石像鬼",
         "Release date": "2024-07-25",
         "star": 5,
         "power": 1080,
@@ -96415,7 +96415,7 @@ window.allHeroes =
             "狙擊手",
             "持續傷害"
         ],
-        "source": "S6-S7-隱秘傳說",
+        "source": "S6-深淵謎團",
         "Release date": "2023-06-07",
         "star": 5,
         "power": 935,
@@ -96515,7 +96515,7 @@ window.allHeroes =
             "召喚惡魔",
             "持續傷害"
         ],
-        "source": "S6-S7-隱秘傳說",
+        "source": "S6-深淵謎團",
         "Release date": "2024-09-21",
         "star": 5,
         "power": 1163,
@@ -98181,7 +98181,7 @@ window.allHeroes =
             "治療",
             "治療削減"
         ],
-        "source": "豐收召喚",
+        "source": "聖約召喚",
         "Release date": "2025-06-03",
         "star": 5,
         "power": 1186,
@@ -98917,7 +98917,7 @@ window.allHeroes =
             "持續傷害",
             "對自身或友軍負面效果"
         ],
-        "source": "額外抽獎-秘密召喚",
+        "source": "神秘-暗影",
         "Release date": "2024-04-21",
         "star": 5,
         "power": 1127,
@@ -99011,7 +99011,7 @@ window.allHeroes =
             "治療削減",
             "凈化"
         ],
-        "source": "聖約召喚",
+        "source": "怪獸島召喚",
         "Release date": "2022-12-24",
         "star": 5,
         "power": 888,
@@ -99839,7 +99839,7 @@ window.allHeroes =
             "疊加",
             "復活"
         ],
-        "source": "生日召喚",
+        "source": "野地召喚",
         "Release date": "2025-03-17",
         "star": 5,
         "power": 1214,
@@ -99938,7 +99938,7 @@ window.allHeroes =
             "狙擊手",
             "對自身或友軍負面效果"
         ],
-        "source": "額外抽獎-秘密召喚",
+        "source": "神秘-暗影",
         "Release date": "2024-07-18",
         "star": 5,
         "power": 1141,
@@ -100228,7 +100228,7 @@ window.allHeroes =
             "防禦減益",
             "繞過"
         ],
-        "source": "S6-S7-隱秘傳說",
+        "source": "S7-火焰與冰霜的寶藏",
         "Release date": "2024-12-03",
         "star": 5,
         "power": 1165,
@@ -100413,7 +100413,7 @@ window.allHeroes =
             "治療",
             "反射"
         ],
-        "source": "聖約召喚",
+        "source": "怪獸島召喚",
         "Release date": "2024-10-18",
         "star": 5,
         "power": 1143,
@@ -100596,7 +100596,7 @@ window.allHeroes =
             "連鎖與隨機攻擊",
             "對自身或友軍負面效果"
         ],
-        "source": "額外抽獎-秘密召喚",
+        "source": "神秘-暗影",
         "Release date": "2025-04-03",
         "star": 5,
         "power": 1182,
@@ -100784,7 +100784,7 @@ window.allHeroes =
             "防禦增益",
             "生命強化"
         ],
-        "source": "聖約召喚",
+        "source": "怪獸島召喚",
         "Release date": "2024-06-26",
         "star": 5,
         "power": 1128,
@@ -101072,7 +101072,7 @@ window.allHeroes =
             "傷害分攤",
             "持續治療"
         ],
-        "source": "豐收召喚",
+        "source": "聖約召喚",
         "Release date": "2024-08-20",
         "star": 5,
         "power": 1136,
@@ -102102,7 +102102,7 @@ window.allHeroes =
             "反射",
             "傷害分攤"
         ],
-        "source": "黑色星期五召喚",
+        "source": "星界召喚",
         "Release date": "2023-11-21",
         "star": 5,
         "power": 1012,
@@ -105612,7 +105612,7 @@ window.allHeroes =
             "疊加",
             "攻擊增益"
         ],
-        "source": "月活動-卡勒瓦拉",
+        "source": "怪獸島召喚",
         "Release date": "2023-05-06",
         "star": 3,
         "power": 487,
@@ -106135,7 +106135,7 @@ window.allHeroes =
             "治療",
             "對自身或友軍負面效果"
         ],
-        "source": "聖約召喚",
+        "source": "怪獸島召喚",
         "Release date": "2022-10-15",
         "star": 3,
         "power": 484,
@@ -106665,7 +106665,7 @@ window.allHeroes =
             "法力提升",
             "法力削減或格擋"
         ],
-        "source": "S6-S7-隱秘傳說",
+        "source": "S6-深淵謎團",
         "Release date": "2023-07-05",
         "star": 3,
         "power": 486,
@@ -106760,7 +106760,7 @@ window.allHeroes =
             "範圍攻擊 (打3)",
             "法力提升"
         ],
-        "source": "S6-S7-隱秘傳說",
+        "source": "S6-深淵謎團",
         "Release date": "2025-02-03",
         "star": 3,
         "power": 497,
@@ -108898,7 +108898,7 @@ window.allHeroes =
             "持續傷害",
             "凈化"
         ],
-        "source": "聖約召喚",
+        "source": "怪獸島召喚",
         "Release date": "2022-12-24",
         "star": 4,
         "power": 686,
@@ -109705,7 +109705,7 @@ window.allHeroes =
             "持續傷害",
             "防禦減益"
         ],
-        "source": "S6-S7-隱秘傳說",
+        "source": "S7-火焰與冰霜的寶藏",
         "Release date": "2024-12-03",
         "star": 4,
         "power": 707,
@@ -112702,7 +112702,7 @@ window.allHeroes =
         "source": "超級元素",
         "Release date": "2023-07-17",
         "star": 4,
-        "power": 688,
+        "power": 1234,
         "attack": 680,
         "defense": 690,
         "health": 1234,
@@ -114815,7 +114815,7 @@ window.allHeroes =
             "持續治療",
             "復活"
         ],
-        "source": "聖約召喚",
+        "source": "怪獸島召喚",
         "Release date": "2023-02-09",
         "star": 5,
         "power": 891,
@@ -115271,7 +115271,7 @@ window.allHeroes =
             "疊加",
             "對自身或友軍負面效果"
         ],
-        "source": "額外抽獎-秘密召喚",
+        "source": "神秘-暗影",
         "Release date": "2024-05-17",
         "star": 5,
         "power": 1098,
@@ -115629,7 +115629,7 @@ window.allHeroes =
             "召喚小兵",
             "疊加"
         ],
-        "source": "S6-S7-隱秘傳說",
+        "source": "S6-深淵謎團",
         "Release date": "2023-06-07",
         "star": 5,
         "power": 934,
@@ -115727,7 +115727,7 @@ window.allHeroes =
             "召喚小兵",
             "疊加"
         ],
-        "source": "S6-S7-隱秘傳說",
+        "source": "S6-深淵謎團",
         "Release date": "2025-03-31",
         "star": 5,
         "power": 1161,
@@ -116574,7 +116574,7 @@ window.allHeroes =
             "防禦減益",
             "反製小兵"
         ],
-        "source": "S6-S7-隱秘傳說",
+        "source": "S7-火焰與冰霜的寶藏",
         "Release date": "2024-12-03",
         "star": 5,
         "power": 1165,
@@ -118164,7 +118164,7 @@ window.allHeroes =
             "傷害減免",
             "提供免疫"
         ],
-        "source": "挑戰-重返聖堂",
+        "source": "挑戰-石像鬼",
         "Release date": "2024-06-13",
         "star": 5,
         "power": 1065,
@@ -121434,7 +121434,7 @@ window.allHeroes =
             "額外傷害",
             "治療削減"
         ],
-        "source": "聖約召喚",
+        "source": "怪獸島召喚",
         "Release date": "2022-08-25",
         "star": 5,
         "power": 885,
@@ -123631,7 +123631,7 @@ window.allHeroes =
             "全體攻擊 (打5)",
             "傷害減免"
         ],
-        "source": "黑色星期五召喚",
+        "source": "挑戰-石像鬼",
         "Release date": "2021-11-24",
         "star": 5,
         "power": 841,
@@ -123722,7 +123722,7 @@ window.allHeroes =
             "持續傷害",
             "法力削減或格擋"
         ],
-        "source": "S6-S7-隱秘傳說",
+        "source": "S6-深淵謎團",
         "Release date": "2023-10-25",
         "star": 5,
         "power": 964,
@@ -123822,7 +123822,7 @@ window.allHeroes =
             "持續傷害",
             "法力削減或格擋"
         ],
-        "source": "S6-S7-隱秘傳說",
+        "source": "S6-深淵謎團",
         "Release date": "2025-01-09",
         "star": 5,
         "power": 1200,
@@ -126477,7 +126477,7 @@ window.allHeroes =
             "疊加",
             "嘲諷"
         ],
-        "source": "月活動-卡勒瓦拉",
+        "source": "怪獸島召喚",
         "Release date": "2023-05-06",
         "star": 5,
         "power": 896,
@@ -126570,7 +126570,7 @@ window.allHeroes =
             "繞過",
             "攻擊增益"
         ],
-        "source": "聖約召喚",
+        "source": "怪獸島召喚",
         "Release date": "2024-05-23",
         "star": 5,
         "power": 1122,
@@ -127495,7 +127495,7 @@ window.allHeroes =
             "攻擊增益",
             "法力生成增益"
         ],
-        "source": "黑色星期五召喚",
+        "source": "挑戰-貝武夫",
         "Release date": "2024-11-25",
         "star": 5,
         "power": 1182,
@@ -128232,7 +128232,7 @@ window.allHeroes =
         "source": "超級元素",
         "Release date": "2023-07-17",
         "star": 5,
-        "power": 940,
+        "power": 1672,
         "attack": 951,
         "defense": 887,
         "health": 1672,

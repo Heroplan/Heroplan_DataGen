@@ -64,7 +64,6 @@
         "covenant": "Covenant Summon",
         "owltower": "Tower-Owls",
         "knights": "Alliance-Knights Clash",
-        "untoldtales": "S6-S7-Untold Tales",
         "season3": "S3-Valhalla",
         "season4": "S4-Wilderness",
         "returntosanctuary": "Challenge-Return to Sanctuary",
@@ -85,6 +84,8 @@
         "blackfriday": "Black Friday Summon",
         "harvest": "Harvest Summon",
         "monsterisland": "Monster Island Summon",
-        "opera": "Challenge-Secrets of the Opera"
+        "opera": "Challenge-Secrets of the Opera",
+        "untoldtales1": "S6-Mysteries of the Deep",
+        "untoldtales2": "S7-Treasures of Flame and Frost"
     }
 }

@@ -350,7 +350,7 @@ window.allHeroes =
             "召唤小兵",
             "法力削减或格挡"
         ],
-        "source": "盟约召唤",
+        "source": "怪兽岛召唤",
         "Release date": "2022-08-25",
         "star": 3,
         "power": 484,
@@ -3491,7 +3491,7 @@ window.allHeroes =
             "全体攻击 (打5)",
             "嘲讽"
         ],
-        "source": "S6-S7-秘闻",
+        "source": "S6-深海奥秘",
         "Release date": "2023-09-27",
         "star": 4,
         "power": 688,
@@ -3585,7 +3585,7 @@ window.allHeroes =
             "全体攻击 (打5)",
             "嘲讽"
         ],
-        "source": "S6-S7-秘闻",
+        "source": "S6-深海奥秘",
         "Release date": "2023-09-27",
         "star": 4,
         "power": 704,
@@ -4375,7 +4375,7 @@ window.allHeroes =
             "反制小兵",
             "攻击减益"
         ],
-        "source": "S6-S7-秘闻",
+        "source": "S7-烈焰与冰霜宝藏",
         "Release date": "2025-05-16",
         "star": 4,
         "power": 732,
@@ -4470,7 +4470,7 @@ window.allHeroes =
         "source": "挑战-众神狂欢节",
         "Release date": "2023-07-13",
         "star": 4,
-        "power": 689,
+        "power": 1238,
         "attack": 673,
         "defense": 697,
         "health": 1238,
@@ -5351,7 +5351,7 @@ window.allHeroes =
             "净化",
             "提供免疫"
         ],
-        "source": "挑战-重返圣堂",
+        "source": "挑战-石像鬼",
         "Release date": "2024-05-16",
         "star": 4,
         "power": 701,
@@ -5979,7 +5979,7 @@ window.allHeroes =
             "叠加",
             "攻击增益"
         ],
-        "source": "月活动-卡勒瓦拉",
+        "source": "怪兽岛召唤",
         "Release date": "2023-05-06",
         "star": 4,
         "power": 687,
@@ -7481,7 +7481,7 @@ window.allHeroes =
             "持续伤害",
             "召唤恶魔"
         ],
-        "source": "盟约召唤",
+        "source": "怪兽岛召唤",
         "Release date": "2022-09-15",
         "star": 5,
         "power": 888,
@@ -8401,7 +8401,7 @@ window.allHeroes =
             "伤害减免",
             "防御减益"
         ],
-        "source": "S6-S7-秘闻",
+        "source": "S7-烈焰与冰霜宝藏",
         "Release date": "2024-12-28",
         "star": 5,
         "power": 1169,
@@ -9225,7 +9225,7 @@ window.allHeroes =
             "法力提升",
             "法力削减或格挡"
         ],
-        "source": "S6-S7-秘闻",
+        "source": "S6-深海奥秘",
         "Release date": "2023-11-22",
         "star": 5,
         "power": 999,
@@ -9321,7 +9321,7 @@ window.allHeroes =
             "法力提升",
             "法力削减或格挡"
         ],
-        "source": "S6-S7-秘闻",
+        "source": "S6-深海奥秘",
         "Release date": "2024-11-21",
         "star": 5,
         "power": 1244,
@@ -10802,7 +10802,7 @@ window.allHeroes =
             "法力削减或格挡",
             "狙击手"
         ],
-        "source": "S6-S7-秘闻",
+        "source": "S6-深海奥秘",
         "Release date": "2023-07-05",
         "star": 5,
         "power": 936,
@@ -10902,7 +10902,7 @@ window.allHeroes =
             "持续伤害",
             "特殊治疗"
         ],
-        "source": "S6-S7-秘闻",
+        "source": "S6-深海奥秘",
         "Release date": "2025-03-03",
         "star": 5,
         "power": 1164,
@@ -14214,7 +14214,7 @@ window.allHeroes =
             "攻击减益",
             "反制小兵"
         ],
-        "source": "S6-S7-秘闻",
+        "source": "S7-烈焰与冰霜宝藏",
         "Release date": "2025-04-14",
         "star": 5,
         "power": 1194,
@@ -14310,7 +14310,7 @@ window.allHeroes =
             "攻击增益",
             "防御增益"
         ],
-        "source": "黑色星期五召唤",
+        "source": "挑战-贝奥武夫",
         "Release date": "2024-11-25",
         "star": 5,
         "power": 1182,
@@ -19807,7 +19807,7 @@ window.allHeroes =
             "提供免疫",
             "防御减益"
         ],
-        "source": "挑战-重返圣堂",
+        "source": "挑战-石像鬼",
         "Release date": "2024-02-27",
         "star": 5,
         "power": 1048,
@@ -21570,7 +21570,7 @@ window.allHeroes =
             "召唤恶魔",
             "持续伤害"
         ],
-        "source": "盟约召唤",
+        "source": "怪兽岛召唤",
         "Release date": "2024-08-13",
         "star": 5,
         "power": 1134,
@@ -22680,7 +22680,7 @@ window.allHeroes =
             "净化",
             "全体攻击 (打5)"
         ],
-        "source": "盟约召唤",
+        "source": "怪兽岛召唤",
         "Release date": "2023-05-06",
         "star": 5,
         "power": 948,
@@ -22772,7 +22772,7 @@ window.allHeroes =
             "绕过",
             "伤害分摊"
         ],
-        "source": "黑色星期五召唤",
+        "source": "星体召唤",
         "Release date": "2023-11-21",
         "star": 5,
         "power": 1010,
@@ -23138,7 +23138,7 @@ window.allHeroes =
             "生命强化",
             "提供免疫"
         ],
-        "source": "S6-S7-秘闻",
+        "source": "S6-深海奥秘",
         "Release date": "2023-06-07",
         "star": 5,
         "power": 952,
@@ -23236,7 +23236,7 @@ window.allHeroes =
             "提供免疫",
             "效果持续重置"
         ],
-        "source": "S6-S7-秘闻",
+        "source": "S6-深海奥秘",
         "Release date": "2024-08-24",
         "star": 5,
         "power": 1184,
@@ -24051,7 +24051,7 @@ window.allHeroes =
             "攻击增益",
             "持续伤害"
         ],
-        "source": "月活动-卡勒瓦拉",
+        "source": "怪兽岛召唤",
         "Release date": "2023-07-27",
         "star": 5,
         "power": 948,
@@ -24430,7 +24430,7 @@ window.allHeroes =
             "伤害减免",
             "提供免疫"
         ],
-        "source": "挑战-重返圣堂",
+        "source": "挑战-石像鬼",
         "Release date": "2024-10-17",
         "star": 5,
         "power": 1107,
@@ -24526,7 +24526,7 @@ window.allHeroes =
             "法力削减或格挡",
             "召唤小兵"
         ],
-        "source": "盟约召唤",
+        "source": "怪兽岛召唤",
         "Release date": "2022-11-12",
         "star": 5,
         "power": 887,
@@ -24619,7 +24619,7 @@ window.allHeroes =
             "持续伤害",
             "治疗削减"
         ],
-        "source": "丰收召唤",
+        "source": "盟约召唤",
         "Release date": "2024-08-20",
         "star": 5,
         "power": 1136,
@@ -25144,7 +25144,7 @@ window.allHeroes =
         "source": "挑战-众神狂欢节",
         "Release date": "2023-07-13",
         "star": 3,
-        "power": 488,
+        "power": 804,
         "attack": 505,
         "defense": 481,
         "health": 804,
@@ -27073,7 +27073,7 @@ window.allHeroes =
             "持续伤害",
             "召唤恶魔"
         ],
-        "source": "盟约召唤",
+        "source": "怪兽岛召唤",
         "Release date": "2022-11-12",
         "star": 3,
         "power": 484,
@@ -33080,7 +33080,7 @@ window.allHeroes =
             "法力削减或格挡",
             "狙击手"
         ],
-        "source": "S6-S7-秘闻",
+        "source": "S6-深海奥秘",
         "Release date": "2023-06-07",
         "star": 4,
         "power": 688,
@@ -33179,7 +33179,7 @@ window.allHeroes =
             "持续伤害",
             "特殊治疗"
         ],
-        "source": "S6-S7-秘闻",
+        "source": "S6-深海奥秘",
         "Release date": "2025-03-31",
         "star": 4,
         "power": 704,
@@ -33370,7 +33370,7 @@ window.allHeroes =
             "持续伤害",
             "净化"
         ],
-        "source": "盟约召唤",
+        "source": "怪兽岛召唤",
         "Release date": "2023-05-06",
         "star": 4,
         "power": 687,
@@ -35890,7 +35890,7 @@ window.allHeroes =
             "提供免疫",
             "对自身或友军负面效果"
         ],
-        "source": "额外抽奖-秘密召唤",
+        "source": "神秘-暗影",
         "Release date": "2024-04-11",
         "star": 5,
         "power": 1105,
@@ -37282,7 +37282,7 @@ window.allHeroes =
             "绕过",
             "防御减益"
         ],
-        "source": "S6-S7-秘闻",
+        "source": "S7-烈焰与冰霜宝藏",
         "Release date": "2025-01-26",
         "star": 5,
         "power": 1173,
@@ -38825,7 +38825,7 @@ window.allHeroes =
             "召唤小兵",
             "召唤恶魔"
         ],
-        "source": "黑色星期五召唤",
+        "source": "额外抽奖-秘密召唤",
         "Release date": "2022-11-22",
         "star": 5,
         "power": 853,
@@ -39180,7 +39180,7 @@ window.allHeroes =
             "绕过",
             "反制小兵"
         ],
-        "source": "S6-S7-秘闻",
+        "source": "S7-烈焰与冰霜宝藏",
         "Release date": "2025-06-13",
         "star": 5,
         "power": 1211,
@@ -40278,7 +40278,7 @@ window.allHeroes =
             "叠加",
             "持续治疗"
         ],
-        "source": "S6-S7-秘闻",
+        "source": "S6-深海奥秘",
         "Release date": "2023-06-07",
         "star": 5,
         "power": 933,
@@ -40380,7 +40380,7 @@ window.allHeroes =
             "持续治疗",
             "叠加"
         ],
-        "source": "S6-S7-秘闻",
+        "source": "S6-深海奥秘",
         "Release date": "2024-07-27",
         "star": 5,
         "power": 1161,
@@ -40660,7 +40660,7 @@ window.allHeroes =
             "提供免疫",
             "最大生命削减"
         ],
-        "source": "挑战-重返圣堂",
+        "source": "挑战-石像鬼",
         "Release date": "2024-02-27",
         "star": 5,
         "power": 1048,
@@ -40753,7 +40753,7 @@ window.allHeroes =
             "狙击手",
             "额外伤害"
         ],
-        "source": "S6-S7-秘闻",
+        "source": "S6-深海奥秘",
         "Release date": "2023-08-30",
         "star": 5,
         "power": 976,
@@ -40855,7 +40855,7 @@ window.allHeroes =
             "狙击手",
             "额外伤害"
         ],
-        "source": "S6-S7-秘闻",
+        "source": "S6-深海奥秘",
         "Release date": "2025-06-26",
         "star": 5,
         "power": 1214,
@@ -41959,7 +41959,7 @@ window.allHeroes =
             "持续伤害",
             "额外伤害"
         ],
-        "source": "盟约召唤",
+        "source": "怪兽岛召唤",
         "Release date": "2022-11-12",
         "star": 5,
         "power": 886,
@@ -43407,7 +43407,7 @@ window.allHeroes =
             "狙击手",
             "治疗削减"
         ],
-        "source": "盟约召唤",
+        "source": "怪兽岛召唤",
         "Release date": "2022-10-15",
         "star": 5,
         "power": 888,
@@ -44216,7 +44216,7 @@ window.allHeroes =
             "防御减益",
             "复活"
         ],
-        "source": "生日召唤",
+        "source": "荒野召唤",
         "Release date": "2025-03-17",
         "star": 5,
         "power": 1214,
@@ -45754,7 +45754,7 @@ window.allHeroes =
             "提供免疫",
             "范围攻击 (打3)"
         ],
-        "source": "挑战-重返圣堂",
+        "source": "挑战-石像鬼",
         "Release date": "2024-05-16",
         "star": 5,
         "power": 1049,
@@ -45847,7 +45847,7 @@ window.allHeroes =
             "叠加",
             "持续伤害"
         ],
-        "source": "盟约召唤",
+        "source": "怪兽岛召唤",
         "Release date": "2023-03-03",
         "star": 5,
         "power": 894,
@@ -46665,7 +46665,7 @@ window.allHeroes =
             "持续伤害",
             "防御减益"
         ],
-        "source": "S6-S7-秘闻",
+        "source": "S7-烈焰与冰霜宝藏",
         "Release date": "2024-12-03",
         "star": 5,
         "power": 1165,
@@ -48692,7 +48692,7 @@ window.allHeroes =
             "召唤恶魔",
             "持续伤害"
         ],
-        "source": "S6-S7-秘闻",
+        "source": "S6-深海奥秘",
         "Release date": "2024-02-01",
         "star": 5,
         "power": 998,
@@ -48790,7 +48790,7 @@ window.allHeroes =
             "召唤恶魔",
             "持续伤害"
         ],
-        "source": "S6-S7-秘闻",
+        "source": "S6-深海奥秘",
         "Release date": "2025-02-03",
         "star": 5,
         "power": 1246,
@@ -48982,7 +48982,7 @@ window.allHeroes =
             "持续伤害",
             "净化"
         ],
-        "source": "盟约召唤",
+        "source": "怪兽岛召唤",
         "Release date": "2023-02-09",
         "star": 5,
         "power": 891,
@@ -49166,7 +49166,7 @@ window.allHeroes =
             "范围攻击 (打3)",
             "法力削减或格挡"
         ],
-        "source": "盟约召唤",
+        "source": "怪兽岛召唤",
         "Release date": "2024-07-21",
         "star": 5,
         "power": 1131,
@@ -51178,7 +51178,7 @@ window.allHeroes =
             "狙击手",
             "对自身或友军负面效果"
         ],
-        "source": "额外抽奖-秘密召唤",
+        "source": "神秘-暗影",
         "Release date": "2024-06-30",
         "star": 5,
         "power": 1109,
@@ -52483,7 +52483,7 @@ window.allHeroes =
             "伤害减免",
             "提供免疫"
         ],
-        "source": "挑战-重返圣堂",
+        "source": "挑战-石像鬼",
         "Release date": "2024-05-16",
         "star": 3,
         "power": 493,
@@ -53178,7 +53178,7 @@ window.allHeroes =
             "净化",
             "持续伤害"
         ],
-        "source": "盟约召唤",
+        "source": "怪兽岛召唤",
         "Release date": "2023-02-09",
         "star": 3,
         "power": 487,
@@ -57695,7 +57695,7 @@ window.allHeroes =
             "持续伤害",
             "狙击手"
         ],
-        "source": "盟约召唤",
+        "source": "怪兽岛召唤",
         "Release date": "2022-10-15",
         "star": 4,
         "power": 684,
@@ -58920,7 +58920,7 @@ window.allHeroes =
         "skill_types": [
             "攻击增益"
         ],
-        "source": "S6-S7-秘闻",
+        "source": "S6-深海奥秘",
         "Release date": "2023-06-07",
         "star": 4,
         "power": 688,
@@ -59014,7 +59014,7 @@ window.allHeroes =
         "skill_types": [
             "攻击增益"
         ],
-        "source": "S6-S7-秘闻",
+        "source": "S6-深海奥秘",
         "Release date": "2025-02-03",
         "star": 4,
         "power": 704,
@@ -63970,7 +63970,7 @@ window.allHeroes =
             "特殊治疗",
             "狙击手"
         ],
-        "source": "盟约召唤",
+        "source": "怪兽岛召唤",
         "Release date": "2024-05-23",
         "star": 5,
         "power": 1122,
@@ -64061,7 +64061,7 @@ window.allHeroes =
             "伤害减免",
             "提供免疫"
         ],
-        "source": "S6-S7-秘闻",
+        "source": "S7-烈焰与冰霜宝藏",
         "Release date": "2024-12-03",
         "star": 5,
         "power": 1165,
@@ -64888,7 +64888,7 @@ window.allHeroes =
             "法力削减或格挡",
             "狙击手"
         ],
-        "source": "盟约召唤",
+        "source": "怪兽岛召唤",
         "Release date": "2022-12-24",
         "star": 5,
         "power": 889,
@@ -65708,7 +65708,7 @@ window.allHeroes =
             "反射",
             "持续治疗"
         ],
-        "source": "盟约召唤",
+        "source": "怪兽岛召唤",
         "Release date": "2022-09-18",
         "star": 5,
         "power": 888,
@@ -65984,7 +65984,7 @@ window.allHeroes =
             "防御减益",
             "反制小兵"
         ],
-        "source": "S6-S7-秘闻",
+        "source": "S7-烈焰与冰霜宝藏",
         "Release date": "2025-02-23",
         "star": 5,
         "power": 1180,
@@ -66257,7 +66257,7 @@ window.allHeroes =
             "狙击手",
             "对自身或友军负面效果"
         ],
-        "source": "额外抽奖-秘密召唤",
+        "source": "神秘-暗影",
         "Release date": "2024-06-04",
         "star": 5,
         "power": 1134,
@@ -66352,7 +66352,7 @@ window.allHeroes =
             "叠加",
             "攻击增益"
         ],
-        "source": "月活动-卡勒瓦拉",
+        "source": "怪兽岛召唤",
         "Release date": "2023-05-26",
         "star": 5,
         "power": 895,
@@ -69458,7 +69458,7 @@ window.allHeroes =
             "治疗削减",
             "精神错乱攻击&治疗"
         ],
-        "source": "S6-S7-秘闻",
+        "source": "S6-深海奥秘",
         "Release date": "2024-01-17",
         "star": 5,
         "power": 999,
@@ -69557,7 +69557,7 @@ window.allHeroes =
             "治疗削减",
             "精神错乱攻击&治疗"
         ],
-        "source": "S6-S7-秘闻",
+        "source": "S6-深海奥秘",
         "Release date": "2024-10-19",
         "star": 5,
         "power": 1244,
@@ -69658,7 +69658,7 @@ window.allHeroes =
             "持续伤害",
             "对自身或友军负面效果"
         ],
-        "source": "额外抽奖-秘密召唤",
+        "source": "神秘-暗影",
         "Release date": "2024-05-01",
         "star": 5,
         "power": 1129,
@@ -71402,7 +71402,7 @@ window.allHeroes =
             "叠加",
             "嘲讽"
         ],
-        "source": "S6-S7-秘闻",
+        "source": "S6-深海奥秘",
         "Release date": "2023-06-07",
         "star": 5,
         "power": 906,
@@ -71504,7 +71504,7 @@ window.allHeroes =
             "嘲讽",
             "法力提升"
         ],
-        "source": "S6-S7-秘闻",
+        "source": "S6-深海奥秘",
         "Release date": "2024-05-23",
         "star": 5,
         "power": 1124,
@@ -74867,7 +74867,7 @@ window.allHeroes =
             "攻击减益",
             "反制小兵"
         ],
-        "source": "S6-S7-秘闻",
+        "source": "S7-烈焰与冰霜宝藏",
         "Release date": "2025-05-16",
         "star": 5,
         "power": 1201,
@@ -75244,7 +75244,7 @@ window.allHeroes =
             "反击",
             "伤害减免"
         ],
-        "source": "S6-S7-秘闻",
+        "source": "S6-深海奥秘",
         "Release date": "2023-08-02",
         "star": 5,
         "power": 951,
@@ -75343,7 +75343,7 @@ window.allHeroes =
             "伤害减免",
             "额外伤害"
         ],
-        "source": "S6-S7-秘闻",
+        "source": "S6-深海奥秘",
         "Release date": "2025-05-28",
         "star": 5,
         "power": 1184,
@@ -75904,7 +75904,7 @@ window.allHeroes =
             "提供免疫",
             "伤害减免"
         ],
-        "source": "挑战-重返圣堂",
+        "source": "挑战-石像鬼",
         "Release date": "2024-05-16",
         "star": 5,
         "power": 1049,
@@ -78003,7 +78003,7 @@ window.allHeroes =
             "范围攻击 (打3)",
             "防御减益"
         ],
-        "source": "S6-S7-秘闻",
+        "source": "S6-深海奥秘",
         "Release date": "2023-06-07",
         "star": 3,
         "power": 486,
@@ -78097,7 +78097,7 @@ window.allHeroes =
             "范围攻击 (打3)",
             "防御减益"
         ],
-        "source": "S6-S7-秘闻",
+        "source": "S6-深海奥秘",
         "Release date": "2025-04-29",
         "star": 3,
         "power": 498,
@@ -78194,7 +78194,7 @@ window.allHeroes =
             "反击",
             "伤害分摊"
         ],
-        "source": "盟约召唤",
+        "source": "怪兽岛召唤",
         "Release date": "2022-12-24",
         "star": 3,
         "power": 486,
@@ -79164,7 +79164,7 @@ window.allHeroes =
             "持续伤害",
             "防御减益"
         ],
-        "source": "S6-S7-秘闻",
+        "source": "S7-烈焰与冰霜宝藏",
         "Release date": "2024-12-03",
         "star": 3,
         "power": 499,
@@ -84256,7 +84256,7 @@ window.allHeroes =
             "持续伤害",
             "召唤恶魔"
         ],
-        "source": "盟约召唤",
+        "source": "怪兽岛召唤",
         "Release date": "2022-08-25",
         "star": 4,
         "power": 684,
@@ -85866,7 +85866,7 @@ window.allHeroes =
             "伤害减免",
             "提供免疫"
         ],
-        "source": "挑战-重返圣堂",
+        "source": "挑战-石像鬼",
         "Release date": "2024-10-17",
         "star": 4,
         "power": 702,
@@ -86403,7 +86403,7 @@ window.allHeroes =
             "持续伤害",
             "对自身或友军负面效果"
         ],
-        "source": "额外抽奖-秘密召唤",
+        "source": "神秘-暗影",
         "Release date": "2024-05-26",
         "star": 5,
         "power": 1133,
@@ -86502,7 +86502,7 @@ window.allHeroes =
             "法力生成增益",
             "叠加"
         ],
-        "source": "S6-S7-秘闻",
+        "source": "S7-烈焰与冰霜宝藏",
         "Release date": "2025-03-23",
         "star": 5,
         "power": 1184,
@@ -89067,7 +89067,7 @@ window.allHeroes =
             "额外伤害",
             "持续伤害"
         ],
-        "source": "盟约召唤",
+        "source": "怪兽岛召唤",
         "Release date": "2023-03-03",
         "star": 5,
         "power": 893,
@@ -90266,7 +90266,7 @@ window.allHeroes =
             "持续伤害",
             "召唤恶魔"
         ],
-        "source": "盟约召唤",
+        "source": "怪兽岛召唤",
         "Release date": "2022-08-25",
         "star": 5,
         "power": 888,
@@ -90812,7 +90812,7 @@ window.allHeroes =
             "防御减益",
             "持续伤害"
         ],
-        "source": "S6-S7-秘闻",
+        "source": "S6-深海奥秘",
         "Release date": "2023-12-13",
         "star": 5,
         "power": 999,
@@ -90908,7 +90908,7 @@ window.allHeroes =
             "持续伤害",
             "防御减益"
         ],
-        "source": "S6-S7-秘闻",
+        "source": "S6-深海奥秘",
         "Release date": "2024-12-14",
         "star": 5,
         "power": 1245,
@@ -91198,7 +91198,7 @@ window.allHeroes =
             "狙击手",
             "状态效果格挡"
         ],
-        "source": "盟约召唤",
+        "source": "怪兽岛召唤",
         "Release date": "2022-10-15",
         "star": 5,
         "power": 887,
@@ -93290,7 +93290,7 @@ window.allHeroes =
             "防御减益",
             "法力削减或格挡"
         ],
-        "source": "S6-S7-秘闻",
+        "source": "S6-深海奥秘",
         "Release date": "2023-09-27",
         "star": 5,
         "power": 957,
@@ -93391,7 +93391,7 @@ window.allHeroes =
             "防御减益",
             "法力削减或格挡"
         ],
-        "source": "S6-S7-秘闻",
+        "source": "S6-深海奥秘",
         "Release date": "2024-06-20",
         "star": 5,
         "power": 1190,
@@ -94036,7 +94036,7 @@ window.allHeroes =
             "提供免疫",
             "治疗"
         ],
-        "source": "挑战-重返圣堂",
+        "source": "挑战-石像鬼",
         "Release date": "2024-07-25",
         "star": 5,
         "power": 1080,
@@ -96415,7 +96415,7 @@ window.allHeroes =
             "狙击手",
             "持续伤害"
         ],
-        "source": "S6-S7-秘闻",
+        "source": "S6-深海奥秘",
         "Release date": "2023-06-07",
         "star": 5,
         "power": 935,
@@ -96515,7 +96515,7 @@ window.allHeroes =
             "召唤恶魔",
             "持续伤害"
         ],
-        "source": "S6-S7-秘闻",
+        "source": "S6-深海奥秘",
         "Release date": "2024-09-21",
         "star": 5,
         "power": 1163,
@@ -98181,7 +98181,7 @@ window.allHeroes =
             "治疗",
             "治疗削减"
         ],
-        "source": "丰收召唤",
+        "source": "盟约召唤",
         "Release date": "2025-06-03",
         "star": 5,
         "power": 1186,
@@ -98917,7 +98917,7 @@ window.allHeroes =
             "持续伤害",
             "对自身或友军负面效果"
         ],
-        "source": "额外抽奖-秘密召唤",
+        "source": "神秘-暗影",
         "Release date": "2024-04-21",
         "star": 5,
         "power": 1127,
@@ -99011,7 +99011,7 @@ window.allHeroes =
             "治疗削减",
             "净化"
         ],
-        "source": "盟约召唤",
+        "source": "怪兽岛召唤",
         "Release date": "2022-12-24",
         "star": 5,
         "power": 888,
@@ -99839,7 +99839,7 @@ window.allHeroes =
             "叠加",
             "复活"
         ],
-        "source": "生日召唤",
+        "source": "荒野召唤",
         "Release date": "2025-03-17",
         "star": 5,
         "power": 1214,
@@ -99938,7 +99938,7 @@ window.allHeroes =
             "狙击手",
             "对自身或友军负面效果"
         ],
-        "source": "额外抽奖-秘密召唤",
+        "source": "神秘-暗影",
         "Release date": "2024-07-18",
         "star": 5,
         "power": 1141,
@@ -100228,7 +100228,7 @@ window.allHeroes =
             "防御减益",
             "绕过"
         ],
-        "source": "S6-S7-秘闻",
+        "source": "S7-烈焰与冰霜宝藏",
         "Release date": "2024-12-03",
         "star": 5,
         "power": 1165,
@@ -100413,7 +100413,7 @@ window.allHeroes =
             "治疗",
             "反射"
         ],
-        "source": "盟约召唤",
+        "source": "怪兽岛召唤",
         "Release date": "2024-10-18",
         "star": 5,
         "power": 1143,
@@ -100596,7 +100596,7 @@ window.allHeroes =
             "连锁与随机攻击",
             "对自身或友军负面效果"
         ],
-        "source": "额外抽奖-秘密召唤",
+        "source": "神秘-暗影",
         "Release date": "2025-04-03",
         "star": 5,
         "power": 1182,
@@ -100784,7 +100784,7 @@ window.allHeroes =
             "防御增益",
             "生命强化"
         ],
-        "source": "盟约召唤",
+        "source": "怪兽岛召唤",
         "Release date": "2024-06-26",
         "star": 5,
         "power": 1128,
@@ -101072,7 +101072,7 @@ window.allHeroes =
             "伤害分摊",
             "持续治疗"
         ],
-        "source": "丰收召唤",
+        "source": "盟约召唤",
         "Release date": "2024-08-20",
         "star": 5,
         "power": 1136,
@@ -102102,7 +102102,7 @@ window.allHeroes =
             "反射",
             "伤害分摊"
         ],
-        "source": "黑色星期五召唤",
+        "source": "星体召唤",
         "Release date": "2023-11-21",
         "star": 5,
         "power": 1012,
@@ -105612,7 +105612,7 @@ window.allHeroes =
             "叠加",
             "攻击增益"
         ],
-        "source": "月活动-卡勒瓦拉",
+        "source": "怪兽岛召唤",
         "Release date": "2023-05-06",
         "star": 3,
         "power": 487,
@@ -106135,7 +106135,7 @@ window.allHeroes =
             "治疗",
             "对自身或友军负面效果"
         ],
-        "source": "盟约召唤",
+        "source": "怪兽岛召唤",
         "Release date": "2022-10-15",
         "star": 3,
         "power": 484,
@@ -106665,7 +106665,7 @@ window.allHeroes =
             "法力提升",
             "法力削减或格挡"
         ],
-        "source": "S6-S7-秘闻",
+        "source": "S6-深海奥秘",
         "Release date": "2023-07-05",
         "star": 3,
         "power": 486,
@@ -106760,7 +106760,7 @@ window.allHeroes =
             "范围攻击 (打3)",
             "法力提升"
         ],
-        "source": "S6-S7-秘闻",
+        "source": "S6-深海奥秘",
         "Release date": "2025-02-03",
         "star": 3,
         "power": 497,
@@ -108898,7 +108898,7 @@ window.allHeroes =
             "持续伤害",
             "净化"
         ],
-        "source": "盟约召唤",
+        "source": "怪兽岛召唤",
         "Release date": "2022-12-24",
         "star": 4,
         "power": 686,
@@ -109705,7 +109705,7 @@ window.allHeroes =
             "持续伤害",
             "防御减益"
         ],
-        "source": "S6-S7-秘闻",
+        "source": "S7-烈焰与冰霜宝藏",
         "Release date": "2024-12-03",
         "star": 4,
         "power": 707,
@@ -112702,7 +112702,7 @@ window.allHeroes =
         "source": "超级元素人",
         "Release date": "2023-07-17",
         "star": 4,
-        "power": 688,
+        "power": 1234,
         "attack": 680,
         "defense": 690,
         "health": 1234,
@@ -114815,7 +114815,7 @@ window.allHeroes =
             "持续治疗",
             "复活"
         ],
-        "source": "盟约召唤",
+        "source": "怪兽岛召唤",
         "Release date": "2023-02-09",
         "star": 5,
         "power": 891,
@@ -115271,7 +115271,7 @@ window.allHeroes =
             "叠加",
             "对自身或友军负面效果"
         ],
-        "source": "额外抽奖-秘密召唤",
+        "source": "神秘-暗影",
         "Release date": "2024-05-17",
         "star": 5,
         "power": 1098,
@@ -115629,7 +115629,7 @@ window.allHeroes =
             "召唤小兵",
             "叠加"
         ],
-        "source": "S6-S7-秘闻",
+        "source": "S6-深海奥秘",
         "Release date": "2023-06-07",
         "star": 5,
         "power": 934,
@@ -115727,7 +115727,7 @@ window.allHeroes =
             "召唤小兵",
             "叠加"
         ],
-        "source": "S6-S7-秘闻",
+        "source": "S6-深海奥秘",
         "Release date": "2025-03-31",
         "star": 5,
         "power": 1161,
@@ -116574,7 +116574,7 @@ window.allHeroes =
             "防御减益",
             "反制小兵"
         ],
-        "source": "S6-S7-秘闻",
+        "source": "S7-烈焰与冰霜宝藏",
         "Release date": "2024-12-03",
         "star": 5,
         "power": 1165,
@@ -118164,7 +118164,7 @@ window.allHeroes =
             "伤害减免",
             "提供免疫"
         ],
-        "source": "挑战-重返圣堂",
+        "source": "挑战-石像鬼",
         "Release date": "2024-06-13",
         "star": 5,
         "power": 1065,
@@ -121434,7 +121434,7 @@ window.allHeroes =
             "额外伤害",
             "治疗削减"
         ],
-        "source": "盟约召唤",
+        "source": "怪兽岛召唤",
         "Release date": "2022-08-25",
         "star": 5,
         "power": 885,
@@ -123631,7 +123631,7 @@ window.allHeroes =
             "全体攻击 (打5)",
             "伤害减免"
         ],
-        "source": "黑色星期五召唤",
+        "source": "挑战-石像鬼",
         "Release date": "2021-11-24",
         "star": 5,
         "power": 841,
@@ -123722,7 +123722,7 @@ window.allHeroes =
             "持续伤害",
             "法力削减或格挡"
         ],
-        "source": "S6-S7-秘闻",
+        "source": "S6-深海奥秘",
         "Release date": "2023-10-25",
         "star": 5,
         "power": 964,
@@ -123822,7 +123822,7 @@ window.allHeroes =
             "持续伤害",
             "法力削减或格挡"
         ],
-        "source": "S6-S7-秘闻",
+        "source": "S6-深海奥秘",
         "Release date": "2025-01-09",
         "star": 5,
         "power": 1200,
@@ -126477,7 +126477,7 @@ window.allHeroes =
             "叠加",
             "嘲讽"
         ],
-        "source": "月活动-卡勒瓦拉",
+        "source": "怪兽岛召唤",
         "Release date": "2023-05-06",
         "star": 5,
         "power": 896,
@@ -126570,7 +126570,7 @@ window.allHeroes =
             "绕过",
             "攻击增益"
         ],
-        "source": "盟约召唤",
+        "source": "怪兽岛召唤",
         "Release date": "2024-05-23",
         "star": 5,
         "power": 1122,
@@ -127495,7 +127495,7 @@ window.allHeroes =
             "攻击增益",
             "法力生成增益"
         ],
-        "source": "黑色星期五召唤",
+        "source": "挑战-贝奥武夫",
         "Release date": "2024-11-25",
         "star": 5,
         "power": 1182,
@@ -128232,7 +128232,7 @@ window.allHeroes =
         "source": "超级元素人",
         "Release date": "2023-07-17",
         "star": 5,
-        "power": 940,
+        "power": 1672,
         "attack": 951,
         "defense": 887,
         "health": 1672,

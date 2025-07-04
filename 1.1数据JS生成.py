@@ -82,7 +82,7 @@ STATS_NAME_CORRECTIONS = {
     'Kalø': 'Kalo'
 }
 
-IGNORABLE_SUFFIXES = {'dark', 'holy', 'ice', 'nature','red'}
+IGNORABLE_SUFFIXES = {'dark', 'holy', 'ice', 'nature', 'red'}
 
 
 # --- 功能函数 ---
@@ -329,11 +329,34 @@ def generate_js_data_with_translation(heroes_base_dir, output_path_cn, output_pa
             hero_family = hero_data.get('family')
 
             # ------------------- 脚本修改开始 -------------------
+            # 优先使用 yml 文件中的 source 作为默认值
             source_to_translate = hero_data.get('source')
+            
+            # 根据 family 覆盖 source
             if hero_family == 'slime':
                 source_to_translate = 'superelemental'
             elif hero_family == 'opera':
                 source_to_translate = 'opera'
+            elif hero_family in ['defendersofatlantis', 'nightmaresofatlantis']:
+                source_to_translate = 'untoldtales1'
+            elif hero_family in ['nidavellir', 'myrkheim']:
+                source_to_translate = 'untoldtales2'
+            elif hero_family in ['plainshunter', 'myrkhjunglehuntereim', 'abysshunter', 'junglehunter']:
+                source_to_translate = 'monsterisland'
+            elif hero_family in ['fox']:
+                source_to_translate = 'covenant'
+            elif hero_family in ['wildcat']:
+                source_to_translate = 'wilderness'
+            elif hero_family in ['beowulf']:
+                source_to_translate = 'beowulf'
+            elif hero_family in ['astralelves', 'astraldwarfs']:
+                source_to_translate = 'astral'
+            elif hero_family in ['gargoyle']:
+                source_to_translate = 'gargoyle'
+            elif hero_family in ['investigator', 'cultist']:
+                source_to_translate = 'shadow'
+            elif hero_family in ['mystery']:
+                source_to_translate = 'secretsummon'
             # ------------------- 脚本修改结束 -------------------
 
             extra = heroes_extra_lookup.get(normalize_for_hero_name(strip_ignorable_suffix(hero_name_raw)), {})

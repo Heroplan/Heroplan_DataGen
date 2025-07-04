@@ -64,7 +64,6 @@
         "covenant": "盟约召唤",
         "owltower": "高塔-猫头鹰",
         "knights": "联盟-骑士冲击",
-        "untoldtales": "S6-S7-秘闻",
         "season3": "S3-瓦尔哈拉",
         "season4": "S4-蛮荒地界",
         "returntosanctuary": "挑战-重返圣堂",
@@ -85,6 +84,8 @@
         "blackfriday": "黑色星期五召唤",
         "harvest": "丰收召唤",
         "monsterisland": "怪兽岛召唤",
-        "opera": "挑战-歌剧之谜"
+        "opera": "挑战-歌剧之谜",
+        "untoldtales1": "S6-深海奥秘",
+        "untoldtales2": "S7-烈焰与冰霜宝藏"
     }
 }
