@@ -5471,24 +5471,6 @@
             "Life": 2712
         }
     },
-    "Aqeela C": {
-        "base": {
-            "Attack": 476,
-            "Defense": 488,
-            "Life": 904,
-            "Power": 494
-        },
-        "lb1": {
-            "Attack": 745,
-            "Defense": 765,
-            "Life": 1400
-        },
-        "lb2": {
-            "Attack": 922,
-            "Defense": 946,
-            "Life": 1730
-        }
-    },
     "Skarn": {
         "base": {
             "Attack": 1097,
@@ -25449,6 +25431,24 @@
             "Attack": 931,
             "Defense": 942,
             "Life": 1748
+        }
+    },
+    "Aqeela C": {
+        "base": {
+            "Attack": 476,
+            "Defense": 488,
+            "Life": 904,
+            "Power": 494
+        },
+        "lb1": {
+            "Attack": 539,
+            "Defense": 553,
+            "Life": 1025
+        },
+        "lb2": {
+            "Attack": 667,
+            "Defense": 684,
+            "Life": 1267
         }
     }
 }
