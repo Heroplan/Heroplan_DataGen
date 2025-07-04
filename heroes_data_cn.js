@@ -2439,7 +2439,7 @@ window.allHeroes =
             "持续治疗",
             "提供免疫"
         ],
-        "source": "至日召唤",
+        "source": "挑战-歌剧之谜",
         "Release date": "2024-01-25",
         "star": 3,
         "power": 514,
@@ -12835,7 +12835,7 @@ window.allHeroes =
             "攻击增益",
             "防御增益"
         ],
-        "source": "至日召唤",
+        "source": "挑战-歌剧之谜",
         "Release date": "2023-11-30",
         "star": 5,
         "power": 957,
@@ -18966,7 +18966,7 @@ window.allHeroes =
             "持续治疗",
             "提供免疫"
         ],
-        "source": "至日召唤",
+        "source": "挑战-歌剧之谜",
         "Release date": "2023-06-20",
         "star": 5,
         "power": 955,
@@ -35528,7 +35528,7 @@ window.allHeroes =
             "召唤巨型小兵",
             "沉睡"
         ],
-        "source": "至日召唤",
+        "source": "挑战-歌剧之谜",
         "Release date": "2024-08-22",
         "star": 5,
         "power": 1090,
@@ -37378,7 +37378,7 @@ window.allHeroes =
             "叠加",
             "攻击增益"
         ],
-        "source": "至日召唤",
+        "source": "挑战-歌剧之谜",
         "Release date": "2024-03-21",
         "star": 5,
         "power": 1022,
@@ -39104,7 +39104,7 @@ window.allHeroes =
             "绕过"
         ],
         "source": "额外抽奖-秘密召唤",
-        "Release date": "2025-05-15",
+        "Release date": "2025-05-31",
         "star": 5,
         "power": 1200,
         "attack": 1236,
@@ -39129,6 +39129,18 @@ window.allHeroes =
         "image": "https://imgur.com/5HAwmjg.jpg",
         "costume_id": 0,
         "originalIndex": 439,
+        "lb1": {
+            "power": 1284,
+            "attack": 1332,
+            "defense": 1332,
+            "health": 2286
+        },
+        "lb2": {
+            "power": 1451,
+            "attack": 1524,
+            "defense": 1524,
+            "health": 2616
+        },
         "attack_priority_stats": {
             "base": {
                 "power": 1300,
@@ -40171,7 +40183,7 @@ window.allHeroes =
             "生命强化",
             "提供免疫"
         ],
-        "source": "至日召唤",
+        "source": "超级元素人",
         "Release date": "2024-06-18",
         "star": 5,
         "power": 1120,
@@ -47310,7 +47322,7 @@ window.allHeroes =
             "舞者",
             "复活"
         ],
-        "source": "至日召唤",
+        "source": "挑战-歌剧之谜",
         "Release date": "2024-01-25",
         "star": 5,
         "power": 996,
@@ -65411,7 +65423,7 @@ window.allHeroes =
             "范围攻击 (打3)",
             "攻击增益"
         ],
-        "source": "至日召唤",
+        "source": "超级元素人",
         "Release date": "2024-06-18",
         "star": 5,
         "power": 1133,
@@ -68877,7 +68889,7 @@ window.allHeroes =
             "召唤恶魔",
             "持续伤害"
         ],
-        "source": "至日召唤",
+        "source": "挑战-歌剧之谜",
         "Release date": "2023-11-30",
         "star": 5,
         "power": 957,
@@ -70912,7 +70924,7 @@ window.allHeroes =
             "特殊治疗",
             "提供免疫"
         ],
-        "source": "至日召唤",
+        "source": "挑战-歌剧之谜",
         "Release date": "2024-03-21",
         "star": 5,
         "power": 1023,
@@ -71293,7 +71305,7 @@ window.allHeroes =
             "法力削减或格挡",
             "沉默"
         ],
-        "source": "至日召唤",
+        "source": "挑战-歌剧之谜",
         "Release date": "2023-06-20",
         "star": 5,
         "power": 955,
@@ -76725,7 +76737,7 @@ window.allHeroes =
             "沉默",
             "提供免疫"
         ],
-        "source": "至日召唤",
+        "source": "挑战-歌剧之谜",
         "Release date": "2024-08-22",
         "star": 5,
         "power": 1092,
@@ -84531,7 +84543,7 @@ window.allHeroes =
             "法力削减或格挡",
             "提供免疫"
         ],
-        "source": "至日召唤",
+        "source": "挑战-歌剧之谜",
         "Release date": "2023-11-30",
         "star": 4,
         "power": 691,
@@ -89784,7 +89796,7 @@ window.allHeroes =
             "提供免疫",
             "增益格挡者"
         ],
-        "source": "至日召唤",
+        "source": "挑战-歌剧之谜",
         "Release date": "2024-09-19",
         "star": 5,
         "power": 1100,
@@ -114437,7 +114449,7 @@ window.allHeroes =
             "驱散",
             "净化"
         ],
-        "source": "至日召唤",
+        "source": "挑战-歌剧之谜",
         "Release date": "2023-11-30",
         "star": 5,
         "power": 957,
@@ -121790,7 +121802,7 @@ window.allHeroes =
             "治疗",
             "防御增益"
         ],
-        "source": "至日召唤",
+        "source": "挑战-歌剧之谜",
         "Release date": "2024-03-21",
         "star": 5,
         "power": 1079,

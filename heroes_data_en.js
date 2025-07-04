@@ -2439,7 +2439,7 @@ window.allHeroes =
             "Heal over Time (HoT)",
             "Immunity Providers"
         ],
-        "source": "Solstice Summon",
+        "source": "Challenge-Secrets of the Opera",
         "Release date": "2024-01-25",
         "star": 3,
         "power": 514,
@@ -12833,7 +12833,7 @@ window.allHeroes =
             "Buffers (ATK)",
             "Buffers (DEF)"
         ],
-        "source": "Solstice Summon",
+        "source": "Challenge-Secrets of the Opera",
         "Release date": "2023-11-30",
         "star": 5,
         "power": 957,
@@ -18964,7 +18964,7 @@ window.allHeroes =
             "Heal over Time (HoT)",
             "Immunity Providers"
         ],
-        "source": "Solstice Summon",
+        "source": "Challenge-Secrets of the Opera",
         "Release date": "2023-06-20",
         "star": 5,
         "power": 955,
@@ -35527,7 +35527,7 @@ window.allHeroes =
             "Mega Minions Summoners",
             "Sleepweavers"
         ],
-        "source": "Solstice Summon",
+        "source": "Challenge-Secrets of the Opera",
         "Release date": "2024-08-22",
         "star": 5,
         "power": 1090,
@@ -37377,7 +37377,7 @@ window.allHeroes =
             "Stacking Heroes",
             "Buffers (ATK)"
         ],
-        "source": "Solstice Summon",
+        "source": "Challenge-Secrets of the Opera",
         "Release date": "2024-03-21",
         "star": 5,
         "power": 1022,
@@ -39103,7 +39103,7 @@ window.allHeroes =
             "Bypassers"
         ],
         "source": "Extra Draw-Secret Summon",
-        "Release date": "2025-05-15",
+        "Release date": "2025-05-31",
         "star": 5,
         "power": 1200,
         "attack": 1236,
@@ -39128,6 +39128,18 @@ window.allHeroes =
         "image": "https://imgur.com/5HAwmjg.jpg",
         "costume_id": 0,
         "originalIndex": 439,
+        "lb1": {
+            "power": 1284,
+            "attack": 1332,
+            "defense": 1332,
+            "health": 2286
+        },
+        "lb2": {
+            "power": 1451,
+            "attack": 1524,
+            "defense": 1524,
+            "health": 2616
+        },
         "attack_priority_stats": {
             "base": {
                 "power": 1300,
@@ -40166,7 +40178,7 @@ window.allHeroes =
             "Health Boosters",
             "Immunity Providers"
         ],
-        "source": "Solstice Summon",
+        "source": "Super Elementals",
         "Release date": "2024-06-18",
         "star": 5,
         "power": 1120,
@@ -47303,7 +47315,7 @@ window.allHeroes =
             "Dancers",
             "Revivers"
         ],
-        "source": "Solstice Summon",
+        "source": "Challenge-Secrets of the Opera",
         "Release date": "2024-01-25",
         "star": 5,
         "power": 996,
@@ -65398,7 +65410,7 @@ window.allHeroes =
             "AoE Attackers (Hit-3)",
             "Buffers (ATK)"
         ],
-        "source": "Solstice Summon",
+        "source": "Super Elementals",
         "Release date": "2024-06-18",
         "star": 5,
         "power": 1133,
@@ -68864,7 +68876,7 @@ window.allHeroes =
             "Fiends Summoners",
             "DoT Attackers"
         ],
-        "source": "Solstice Summon",
+        "source": "Challenge-Secrets of the Opera",
         "Release date": "2023-11-30",
         "star": 5,
         "power": 957,
@@ -70900,7 +70912,7 @@ window.allHeroes =
             "Healers (Special)",
             "Immunity Providers"
         ],
-        "source": "Solstice Summon",
+        "source": "Challenge-Secrets of the Opera",
         "Release date": "2024-03-21",
         "star": 5,
         "power": 1023,
@@ -71281,7 +71293,7 @@ window.allHeroes =
             "Mana Reducers or Blockers",
             "Silencers"
         ],
-        "source": "Solstice Summon",
+        "source": "Challenge-Secrets of the Opera",
         "Release date": "2023-06-20",
         "star": 5,
         "power": 955,
@@ -76709,7 +76721,7 @@ window.allHeroes =
             "Silencers",
             "Immunity Providers"
         ],
-        "source": "Solstice Summon",
+        "source": "Challenge-Secrets of the Opera",
         "Release date": "2024-08-22",
         "star": 5,
         "power": 1092,
@@ -84515,7 +84527,7 @@ window.allHeroes =
             "Mana Reducers or Blockers",
             "Immunity Providers"
         ],
-        "source": "Solstice Summon",
+        "source": "Challenge-Secrets of the Opera",
         "Release date": "2023-11-30",
         "star": 4,
         "power": 691,
@@ -89766,7 +89778,7 @@ window.allHeroes =
             "Immunity Providers",
             "Buff Blockers"
         ],
-        "source": "Solstice Summon",
+        "source": "Challenge-Secrets of the Opera",
         "Release date": "2024-09-19",
         "star": 5,
         "power": 1100,
@@ -114419,7 +114431,7 @@ window.allHeroes =
             "Dispellers",
             "Cleansers"
         ],
-        "source": "Solstice Summon",
+        "source": "Challenge-Secrets of the Opera",
         "Release date": "2023-11-30",
         "star": 5,
         "power": 957,
@@ -121766,7 +121778,7 @@ window.allHeroes =
             "Healers",
             "Buffers (DEF)"
         ],
-        "source": "Solstice Summon",
+        "source": "Challenge-Secrets of the Opera",
         "Release date": "2024-03-21",
         "star": 5,
         "power": 1079,

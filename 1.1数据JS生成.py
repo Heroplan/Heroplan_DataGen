@@ -1,4 +1,3 @@
-
 # -*- coding: utf-8 -*-
 import os
 import re
@@ -83,7 +82,7 @@ STATS_NAME_CORRECTIONS = {
     'Kalø': 'Kalo'
 }
 
-IGNORABLE_SUFFIXES = {'dark', 'holy', 'ice', 'nature' 'red'}
+IGNORABLE_SUFFIXES = {'dark', 'holy', 'ice', 'nature','red'}
 
 
 # --- 功能函数 ---
@@ -327,21 +326,32 @@ def generate_js_data_with_translation(heroes_base_dir, output_path_cn, output_pa
             
             # --- 基础英雄处理 ---
             hero_name_raw = hero_data.get('name')
+            hero_family = hero_data.get('family')
+
+            # ------------------- 脚本修改开始 -------------------
+            source_to_translate = hero_data.get('source')
+            if hero_family == 'slime':
+                source_to_translate = 'superelemental'
+            elif hero_family == 'opera':
+                source_to_translate = 'opera'
+            # ------------------- 脚本修改结束 -------------------
+
             extra = heroes_extra_lookup.get(normalize_for_hero_name(strip_ignorable_suffix(hero_name_raw)), {})
             if not extra: missing_extra_info.append(f"基础英雄: '{hero_name_raw}'")
+            
             name_trans = translate_name(hero_name_raw)
             fancy_name_trans = translate_single_value(extra.get('fancy name', ''), 'heroes_name_fancy')
             aether_power_trans = translate_single_value(extra.get('AetherPower', ''), 'aether_powers')
             color_trans = translate_single_value(current_color, 'base_values')
             class_trans = translate_single_value(hero_data.get('class'), 'base_values')
-            speed = 'slayer' if hero_data.get('family') == 'slayer' else hero_data.get('speed')
+            speed = 'slayer' if hero_family == 'slayer' else hero_data.get('speed')
             speed_trans = translate_single_value(speed, 'base_values')
             skill_trans = correct_and_translate_skill(hero_data.get('skill'))
-            source_trans = translate_single_value(hero_data.get('source'), 'source_values')
+            source_trans = translate_single_value(source_to_translate, 'source_values')
             types_trans = translate_list(flatten_list(hero_data.get('types', [])), 'types')
             skill_types_trans = translate_list(extra.get('skill_types', []), 'skill_types')
 
-            common_data = {'Release date': extra.get('Release date', ''), 'star': current_star, 'power': hero_data.get('power'), 'attack': hero_data.get('attack'), 'defense': hero_data.get('defense'), 'health': hero_data.get('health'), 'effects': flatten_list(hero_data.get('effects', [])), 'passives': flatten_list(hero_data.get('passives', [])), 'family': hero_data.get('family'), 'image': hero_data.get('image'), 'costume_id': 0, 'originalIndex': original_index_counter}
+            common_data = {'Release date': extra.get('Release date', ''), 'star': current_star, 'power': hero_data.get('power'), 'attack': hero_data.get('attack'), 'defense': hero_data.get('defense'), 'health': hero_data.get('health'), 'effects': flatten_list(hero_data.get('effects', [])), 'passives': flatten_list(hero_data.get('passives', [])), 'family': hero_family, 'image': hero_data.get('image'), 'costume_id': 0, 'originalIndex': original_index_counter}
             lb_data = {}
 
             if current_star not in [1, 2]:
@@ -391,7 +401,7 @@ def generate_js_data_with_translation(heroes_base_dir, output_path_cn, output_pa
                     types_trans_c = translate_list(flatten_list(costume_data.get('types', [])), 'types')
                     skill_types_trans_c = translate_list(extra_c.get('skill_types', []), 'skill_types')
 
-                    common_data_c = {'Release date': extra_c.get('Release date', ''), 'star': current_star, 'power': costume_data.get('power'), 'attack': costume_data.get('attack'), 'defense': costume_data.get('defense'), 'health': costume_data.get('health'), 'effects': flatten_list(costume_data.get('effects', [])), 'passives': flatten_list(costume_data.get('passives', [])), 'family': hero_data.get('family'), 'image': costume_data.get('image'), 'costume_id': costume_id, 'originalIndex': original_index_counter}
+                    common_data_c = {'Release date': extra_c.get('Release date', ''), 'star': current_star, 'power': costume_data.get('power'), 'attack': costume_data.get('attack'), 'defense': costume_data.get('defense'), 'health': costume_data.get('health'), 'effects': flatten_list(costume_data.get('effects', [])), 'passives': flatten_list(costume_data.get('passives', [])), 'family': hero_family, 'image': costume_data.get('image'), 'costume_id': costume_id, 'originalIndex': original_index_counter}
                     lb_data_c = {}
                     
                     if current_star not in [1, 2]:
@@ -531,9 +541,9 @@ if __name__ == '__main__':
             print("\n请注意: heroes_data_extra.js 已更新。")
             print("建议重新运行此脚本，以确保所有数据（包括刚刚添加的）都被正确加载和处理。")
         if unmatched_yml:
-             print(f"警告: {len(unmatched_yml)} 个本地英雄文件未能在 hero_stats.json 中找到匹配属性。详情请查看 generation.log 文件。")
+                print(f"警告: {len(unmatched_yml)} 个本地英雄文件未能在 hero_stats.json 中找到匹配属性。详情请查看 generation.log 文件。")
         if unmatched_stats:
-             print(f"警告: hero_stats.json 中有 {len(unmatched_stats)} 个条目未被使用。详情请查看 generation.log 文件。")
+                print(f"警告: hero_stats.json 中有 {len(unmatched_stats)} 个条目未被使用。详情请查看 generation.log 文件。")
     else:
         logging.critical(f"错误: 英雄数据目录不存在: '{HEROES_DATA_DIR}'")
         print(f"错误: 英雄数据目录不存在: '{HEROES_DATA_DIR}'")
