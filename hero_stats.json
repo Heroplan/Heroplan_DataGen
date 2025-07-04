@@ -3671,24 +3671,6 @@
             "Life": 2499
         }
     },
-    "Mr. Pengi C": {
-        "base": {
-            "Attack": 1084,
-            "Defense": 1053,
-            "Life": 1895,
-            "Power": 1064
-        },
-        "lb1": {
-            "Attack": 865,
-            "Defense": 841,
-            "Life": 1514
-        },
-        "lb2": {
-            "Attack": 990,
-            "Defense": 962,
-            "Life": 1732
-        }
-    },
     "Sun Quan C": {
         "base": {
             "Attack": 1125,
@@ -18359,60 +18341,6 @@
             "Life": 1737
         }
     },
-    "Krampus C": {
-        "base": {
-            "Attack": 1013,
-            "Defense": 1058,
-            "Life": 1884,
-            "Power": 1039
-        },
-        "lb1": {
-            "Attack": 810,
-            "Defense": 845,
-            "Life": 1505
-        },
-        "lb2": {
-            "Attack": 927,
-            "Defense": 967,
-            "Life": 1722
-        }
-    },
-    "Santa Claus C": {
-        "base": {
-            "Attack": 861,
-            "Defense": 1105,
-            "Life": 1904,
-            "Power": 1002
-        },
-        "lb1": {
-            "Attack": 688,
-            "Defense": 883,
-            "Life": 1520
-        },
-        "lb2": {
-            "Attack": 787,
-            "Defense": 1010,
-            "Life": 1739
-        }
-    },
-    "Mother North C": {
-        "base": {
-            "Attack": 789,
-            "Defense": 1120,
-            "Life": 2015,
-            "Power": 996
-        },
-        "lb1": {
-            "Attack": 630,
-            "Defense": 894,
-            "Life": 1609
-        },
-        "lb2": {
-            "Attack": 721,
-            "Defense": 1023,
-            "Life": 1841
-        }
-    },
     "Mr. Pengi": {
         "base": {
             "Attack": 803,
@@ -25449,6 +25377,78 @@
             "Attack": 667,
             "Defense": 684,
             "Life": 1267
+        }
+    },
+    "Mr. Pengi C": {
+        "base": {
+            "Attack": 1084,
+            "Defense": 1053,
+            "Life": 1895,
+            "Power": 1064
+        },
+        "lb1": {
+            "Attack": 1167,
+            "Defense": 1135,
+            "Life": 2043
+        },
+        "lb2": {
+            "Attack": 1336,
+            "Defense": 1298,
+            "Life": 2338
+        }
+    },
+    "Krampus C": {
+        "base": {
+            "Attack": 1013,
+            "Defense": 1058,
+            "Life": 1884,
+            "Power": 1039
+        },
+        "lb1": {
+            "Attack": 1093,
+            "Defense": 1140,
+            "Life": 2031
+        },
+        "lb2": {
+            "Attack": 1251,
+            "Defense": 1305,
+            "Life": 2324
+        }
+    },
+    "Santa Claus C": {
+        "base": {
+            "Attack": 861,
+            "Defense": 1105,
+            "Life": 1904,
+            "Power": 1002
+        },
+        "lb1": {
+            "Attack": 928,
+            "Defense": 1192,
+            "Life": 2052
+        },
+        "lb2": {
+            "Attack": 1062,
+            "Defense": 1363,
+            "Life": 2347
+        }
+    },
+    "Mother North C": {
+        "base": {
+            "Attack": 789,
+            "Defense": 1120,
+            "Life": 2015,
+            "Power": 996
+        },
+        "lb1": {
+            "Attack": 850,
+            "Defense": 1206,
+            "Life": 2172
+        },
+        "lb2": {
+            "Attack": 973,
+            "Defense": 1381,
+            "Life": 2485
         }
     }
 }

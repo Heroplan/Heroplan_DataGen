@@ -7274,16 +7274,16 @@
                 "health": 2031
             },
             "lb1": {
-                "power": 956,
-                "attack": 924,
-                "defense": 899,
-                "health": 1637
+                "power": 1211,
+                "attack": 1215,
+                "defense": 1194,
+                "health": 2184
             },
             "lb2": {
-                "power": 1061,
-                "attack": 1044,
-                "defense": 1021,
-                "health": 1862
+                "power": 1354,
+                "attack": 1378,
+                "defense": 1359,
+                "health": 2488
             }
         },
         "defense_priority_stats": {
@@ -7294,16 +7294,16 @@
                 "health": 2139
             },
             "lb1": {
-                "power": 956,
-                "attack": 849,
-                "defense": 960,
-                "health": 1745
+                "power": 1211,
+                "attack": 1140,
+                "defense": 1264,
+                "health": 2292
             },
             "lb2": {
-                "power": 1061,
-                "attack": 969,
-                "defense": 1086,
-                "health": 1970
+                "power": 1354,
+                "attack": 1303,
+                "defense": 1434,
+                "health": 2596
             }
         }
     },
@@ -8576,16 +8576,16 @@
                 "health": 2023
             },
             "lb1": {
-                "power": 975,
-                "attack": 995,
-                "defense": 902,
-                "health": 1631
+                "power": 1237,
+                "attack": 1307,
+                "defense": 1205,
+                "health": 2176
             },
             "lb2": {
-                "power": 1083,
-                "attack": 1124,
-                "defense": 1026,
-                "health": 1855
+                "power": 1383,
+                "attack": 1481,
+                "defense": 1372,
+                "health": 2480
             }
         },
         "defense_priority_stats": {
@@ -8596,16 +8596,16 @@
                 "health": 2075
             },
             "lb1": {
-                "power": 975,
-                "attack": 905,
-                "defense": 956,
-                "health": 1694
+                "power": 1237,
+                "attack": 1217,
+                "defense": 1259,
+                "health": 2223
             },
             "lb2": {
-                "power": 1083,
-                "attack": 1034,
-                "defense": 1080,
-                "health": 1912
+                "power": 1383,
+                "attack": 1391,
+                "defense": 1426,
+                "health": 2518
             }
         }
     },
@@ -21302,16 +21302,16 @@
                 "health": 2111
             },
             "lb1": {
-                "power": 921,
-                "attack": 723,
-                "defense": 984,
-                "health": 1693
+                "power": 1164,
+                "attack": 950,
+                "defense": 1296,
+                "health": 2273
             },
             "lb2": {
-                "power": 1022,
-                "attack": 817,
-                "defense": 1113,
-                "health": 1932
+                "power": 1300,
+                "attack": 1077,
+                "defense": 1471,
+                "health": 2595
             }
         },
         "defense_priority_stats": {
@@ -21322,16 +21322,16 @@
                 "health": 2159
             },
             "lb1": {
-                "power": 921,
-                "attack": 678,
-                "defense": 1010,
-                "health": 1753
+                "power": 1164,
+                "attack": 905,
+                "defense": 1332,
+                "health": 2316
             },
             "lb2": {
-                "power": 1022,
-                "attack": 772,
-                "defense": 1143,
-                "health": 1985
+                "power": 1300,
+                "attack": 1032,
+                "defense": 1512,
+                "health": 2629
             }
         }
     },
@@ -46628,16 +46628,16 @@
                 "health": 2033
             },
             "lb1": {
-                "power": 926,
-                "attack": 783,
-                "defense": 955,
-                "health": 1637
+                "power": 1171,
+                "attack": 1030,
+                "defense": 1264,
+                "health": 2185
             },
             "lb2": {
-                "power": 1027,
-                "attack": 885,
-                "defense": 1082,
-                "health": 1863
+                "power": 1307,
+                "attack": 1168,
+                "defense": 1435,
+                "health": 2489
             }
         },
         "defense_priority_stats": {
@@ -46648,16 +46648,16 @@
                 "health": 2033
             },
             "lb1": {
-                "power": 926,
-                "attack": 718,
-                "defense": 1035,
-                "health": 1637
+                "power": 1171,
+                "attack": 958,
+                "defense": 1353,
+                "health": 2185
             },
             "lb2": {
-                "power": 1027,
-                "attack": 817,
-                "defense": 1166,
-                "health": 1863
+                "power": 1307,
+                "attack": 1092,
+                "defense": 1529,
+                "health": 2489
             }
         }
     },

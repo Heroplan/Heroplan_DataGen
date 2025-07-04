@@ -15794,16 +15794,16 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 178,
         "lb1": {
-            "power": 856,
-            "attack": 810,
-            "defense": 845,
-            "health": 1505
+            "power": 1111,
+            "attack": 1093,
+            "defense": 1140,
+            "health": 2031
         },
         "lb2": {
-            "power": 961,
-            "attack": 927,
-            "defense": 967,
-            "health": 1722
+            "power": 1254,
+            "attack": 1251,
+            "defense": 1305,
+            "health": 2324
         },
         "attack_priority_stats": {
             "base": {
@@ -15813,16 +15813,16 @@ window.allHeroes =
                 "health": 2031
             },
             "lb1": {
-                "power": 956,
-                "attack": 924,
-                "defense": 899,
-                "health": 1637
+                "power": 1211,
+                "attack": 1215,
+                "defense": 1194,
+                "health": 2184
             },
             "lb2": {
-                "power": 1061,
-                "attack": 1044,
-                "defense": 1021,
-                "health": 1862
+                "power": 1354,
+                "attack": 1378,
+                "defense": 1359,
+                "health": 2488
             }
         },
         "defense_priority_stats": {
@@ -15833,16 +15833,16 @@ window.allHeroes =
                 "health": 2139
             },
             "lb1": {
-                "power": 956,
-                "attack": 849,
-                "defense": 960,
-                "health": 1745
+                "power": 1211,
+                "attack": 1140,
+                "defense": 1264,
+                "health": 2292
             },
             "lb2": {
-                "power": 1061,
-                "attack": 969,
-                "defense": 1086,
-                "health": 1970
+                "power": 1354,
+                "attack": 1303,
+                "defense": 1434,
+                "health": 2596
             }
         }
     },
@@ -18605,16 +18605,16 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 209,
         "lb1": {
-            "power": 875,
-            "attack": 865,
-            "defense": 841,
-            "health": 1514
+            "power": 1137,
+            "attack": 1167,
+            "defense": 1135,
+            "health": 2043
         },
         "lb2": {
-            "power": 983,
-            "attack": 990,
-            "defense": 962,
-            "health": 1732
+            "power": 1283,
+            "attack": 1336,
+            "defense": 1298,
+            "health": 2338
         },
         "attack_priority_stats": {
             "base": {
@@ -18624,16 +18624,16 @@ window.allHeroes =
                 "health": 2023
             },
             "lb1": {
-                "power": 975,
-                "attack": 995,
-                "defense": 902,
-                "health": 1631
+                "power": 1237,
+                "attack": 1307,
+                "defense": 1205,
+                "health": 2176
             },
             "lb2": {
-                "power": 1083,
-                "attack": 1124,
-                "defense": 1026,
-                "health": 1855
+                "power": 1383,
+                "attack": 1481,
+                "defense": 1372,
+                "health": 2480
             }
         },
         "defense_priority_stats": {
@@ -18644,16 +18644,16 @@ window.allHeroes =
                 "health": 2075
             },
             "lb1": {
-                "power": 975,
-                "attack": 905,
-                "defense": 956,
-                "health": 1694
+                "power": 1237,
+                "attack": 1217,
+                "defense": 1259,
+                "health": 2223
             },
             "lb2": {
-                "power": 1083,
-                "attack": 1034,
-                "defense": 1080,
-                "health": 1912
+                "power": 1383,
+                "attack": 1391,
+                "defense": 1426,
+                "health": 2518
             }
         }
     },
@@ -46241,16 +46241,16 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 517,
         "lb1": {
-            "power": 821,
-            "attack": 630,
-            "defense": 894,
-            "health": 1609
+            "power": 1064,
+            "attack": 850,
+            "defense": 1206,
+            "health": 2172
         },
         "lb2": {
-            "power": 922,
-            "attack": 721,
-            "defense": 1023,
-            "health": 1841
+            "power": 1200,
+            "attack": 973,
+            "defense": 1381,
+            "health": 2485
         },
         "attack_priority_stats": {
             "base": {
@@ -46260,16 +46260,16 @@ window.allHeroes =
                 "health": 2111
             },
             "lb1": {
-                "power": 921,
-                "attack": 723,
-                "defense": 984,
-                "health": 1693
+                "power": 1164,
+                "attack": 950,
+                "defense": 1296,
+                "health": 2273
             },
             "lb2": {
-                "power": 1022,
-                "attack": 817,
-                "defense": 1113,
-                "health": 1932
+                "power": 1300,
+                "attack": 1077,
+                "defense": 1471,
+                "health": 2595
             }
         },
         "defense_priority_stats": {
@@ -46280,16 +46280,16 @@ window.allHeroes =
                 "health": 2159
             },
             "lb1": {
-                "power": 921,
-                "attack": 678,
-                "defense": 1010,
-                "health": 1753
+                "power": 1164,
+                "attack": 905,
+                "defense": 1332,
+                "health": 2316
             },
             "lb2": {
-                "power": 1022,
-                "attack": 772,
-                "defense": 1143,
-                "health": 1985
+                "power": 1300,
+                "attack": 1032,
+                "defense": 1512,
+                "health": 2629
             }
         }
     },
@@ -101394,16 +101394,16 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 1131,
         "lb1": {
-            "power": 826,
-            "attack": 688,
-            "defense": 883,
-            "health": 1520
+            "power": 1071,
+            "attack": 928,
+            "defense": 1192,
+            "health": 2052
         },
         "lb2": {
-            "power": 927,
-            "attack": 787,
-            "defense": 1010,
-            "health": 1739
+            "power": 1207,
+            "attack": 1062,
+            "defense": 1363,
+            "health": 2347
         },
         "attack_priority_stats": {
             "base": {
@@ -101413,16 +101413,16 @@ window.allHeroes =
                 "health": 2033
             },
             "lb1": {
-                "power": 926,
-                "attack": 783,
-                "defense": 955,
-                "health": 1637
+                "power": 1171,
+                "attack": 1030,
+                "defense": 1264,
+                "health": 2185
             },
             "lb2": {
-                "power": 1027,
-                "attack": 885,
-                "defense": 1082,
-                "health": 1863
+                "power": 1307,
+                "attack": 1168,
+                "defense": 1435,
+                "health": 2489
             }
         },
         "defense_priority_stats": {
@@ -101433,16 +101433,16 @@ window.allHeroes =
                 "health": 2033
             },
             "lb1": {
-                "power": 926,
-                "attack": 718,
-                "defense": 1035,
-                "health": 1637
+                "power": 1171,
+                "attack": 958,
+                "defense": 1353,
+                "health": 2185
             },
             "lb2": {
-                "power": 1027,
-                "attack": 817,
-                "defense": 1166,
-                "health": 1863
+                "power": 1307,
+                "attack": 1092,
+                "defense": 1529,
+                "health": 2489
             }
         }
     },
