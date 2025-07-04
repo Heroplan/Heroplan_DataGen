@@ -357,6 +357,10 @@ def generate_js_data_with_translation(heroes_base_dir, output_path_cn, output_pa
                 source_to_translate = 'shadow'
             elif hero_family in ['mystery']:
                 source_to_translate = 'secretsummon'
+            elif hero_family in ['avalon', 'corellia', 'grimforest', 'guardiansteltoc', 'wonderland']:
+                source_to_translate = 'challengefestival1'
+            elif hero_family in ['villains', 'starfall', 'slayer', 'bard', 'pets']:
+                source_to_translate = 'challengefestival2'
             # ------------------- 脚本修改结束 -------------------
 
             extra = heroes_extra_lookup.get(normalize_for_hero_name(strip_ignorable_suffix(hero_name_raw)), {})

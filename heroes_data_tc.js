@@ -14,7 +14,7 @@ window.allHeroes =
         "skill_types": [
             "全體攻擊 (打5)"
         ],
-        "source": "S1-經典",
+        "source": "S1 - 經典",
         "Release date": "2017-03-01",
         "star": 1,
         "power": 210,
@@ -44,7 +44,7 @@ window.allHeroes =
         "skill_types": [
             "狙擊手"
         ],
-        "source": "S1-經典",
+        "source": "S1 - 經典",
         "Release date": "2017-03-01",
         "star": 1,
         "power": 210,
@@ -74,7 +74,7 @@ window.allHeroes =
         "skill_types": [
             "防禦增益"
         ],
-        "source": "S1-經典",
+        "source": "S1 - 經典",
         "Release date": "2017-03-01",
         "star": 2,
         "power": 332,
@@ -104,7 +104,7 @@ window.allHeroes =
         "skill_types": [
             "全體攻擊 (打5)"
         ],
-        "source": "S1-經典",
+        "source": "S1 - 經典",
         "Release date": "2017-03-01",
         "star": 2,
         "power": 334,
@@ -134,7 +134,7 @@ window.allHeroes =
         "skill_types": [
             "攻擊增益"
         ],
-        "source": "S1-經典",
+        "source": "S1 - 經典",
         "Release date": "2017-03-01",
         "star": 2,
         "power": 333,
@@ -169,7 +169,7 @@ window.allHeroes =
             "反製小兵",
             "狀態效果轉換"
         ],
-        "source": "高塔-魔法",
+        "source": "高塔 - 魔法",
         "Release date": "2025-04-17",
         "star": 3,
         "power": 509,
@@ -260,7 +260,7 @@ window.allHeroes =
             "全體攻擊 (打5)",
             "對自身或友軍負面效果"
         ],
-        "source": "月活動-斯普林維爾",
+        "source": "月活動 - 斯普林維爾",
         "Release date": "2020-04-06",
         "star": 3,
         "power": 462,
@@ -440,7 +440,7 @@ window.allHeroes =
             "治療",
             "召喚小兵"
         ],
-        "source": "月活動-冬季",
+        "source": "月活動 - 冬季",
         "Release date": "2020-12-01",
         "star": 3,
         "power": 475,
@@ -525,7 +525,7 @@ window.allHeroes =
             "提供免疫",
             "狙擊手"
         ],
-        "source": "S2-亞特蘭蒂斯",
+        "source": "S2 - 亞特蘭蒂斯",
         "Release date": "2019-08-22",
         "star": 3,
         "power": 447,
@@ -610,7 +610,7 @@ window.allHeroes =
             "特殊治療",
             "狙擊手"
         ],
-        "source": "S1-經典",
+        "source": "S1 - 經典",
         "Release date": "2017-03-01",
         "star": 3,
         "power": 441,
@@ -697,7 +697,7 @@ window.allHeroes =
             "提供免疫",
             "狙擊手"
         ],
-        "source": "S1-經典",
+        "source": "S1 - 經典",
         "Release date": "2021-01-18",
         "star": 3,
         "power": 470,
@@ -784,7 +784,7 @@ window.allHeroes =
             "狙擊手",
             "額外傷害"
         ],
-        "source": "S1-經典",
+        "source": "S1 - 經典",
         "Release date": "2024-04-08",
         "star": 3,
         "power": 504,
@@ -874,7 +874,7 @@ window.allHeroes =
             "特殊治療",
             "狙擊手"
         ],
-        "source": "S1-經典",
+        "source": "S1 - 經典",
         "Release date": "2025-06-18",
         "star": 3,
         "power": 513,
@@ -961,7 +961,7 @@ window.allHeroes =
             "防禦增益",
             "治療"
         ],
-        "source": "挑戰節-守護者",
+        "source": "挑戰節 I",
         "Release date": "2021-12-15",
         "star": 3,
         "power": 481,
@@ -1046,7 +1046,7 @@ window.allHeroes =
             "防禦增益",
             "傷害分攤"
         ],
-        "source": "S1-經典",
+        "source": "S1 - 經典",
         "Release date": "2017-03-01",
         "star": 3,
         "power": 441,
@@ -1131,7 +1131,7 @@ window.allHeroes =
             "傷害分攤",
             "防禦減益"
         ],
-        "source": "S1-經典",
+        "source": "S1 - 經典",
         "Release date": "2020-01-20",
         "star": 3,
         "power": 470,
@@ -1216,7 +1216,7 @@ window.allHeroes =
             "防禦增益",
             "傷害分攤"
         ],
-        "source": "S1-經典",
+        "source": "S1 - 經典",
         "Release date": "2024-09-08",
         "star": 3,
         "power": 503,
@@ -1303,7 +1303,7 @@ window.allHeroes =
             "凈化",
             "治療"
         ],
-        "source": "S4-地底荒野",
+        "source": "S4 - 地底荒野",
         "Release date": "2021-03-25",
         "star": 3,
         "power": 478,
@@ -1390,7 +1390,7 @@ window.allHeroes =
             "凈化",
             "持續治療"
         ],
-        "source": "S4-地底荒野",
+        "source": "S4 - 地底荒野",
         "Release date": "2023-12-07",
         "star": 3,
         "power": 488,
@@ -1477,7 +1477,7 @@ window.allHeroes =
             "增益格擋者",
             "狙擊手"
         ],
-        "source": "S5-沙丘",
+        "source": "S5 - 沙丘",
         "Release date": "2022-04-21",
         "star": 3,
         "power": 483,
@@ -1566,7 +1566,7 @@ window.allHeroes =
             "增益格擋者",
             "狙擊手"
         ],
-        "source": "S5-沙丘",
+        "source": "S5 - 沙丘",
         "Release date": "2025-03-17",
         "star": 3,
         "power": 495,
@@ -1658,7 +1658,7 @@ window.allHeroes =
             "狙擊手",
             "疊加"
         ],
-        "source": "S3-瓦爾哈拉",
+        "source": "S3 - 瓦爾哈拉",
         "Release date": "2020-05-28",
         "star": 3,
         "power": 466,
@@ -1745,7 +1745,7 @@ window.allHeroes =
             "增益格擋者",
             "驅散"
         ],
-        "source": "月活動-卡勒瓦拉",
+        "source": "月活動 - 卡勒瓦拉",
         "Release date": "2022-06-20",
         "star": 3,
         "power": 482,
@@ -1831,7 +1831,7 @@ window.allHeroes =
         "skill_types": [
             "範圍攻擊 (打3)"
         ],
-        "source": "S1-經典",
+        "source": "S1 - 經典",
         "Release date": "2017-03-01",
         "star": 3,
         "power": 442,
@@ -1915,7 +1915,7 @@ window.allHeroes =
             "範圍攻擊 (打3)",
             "持續傷害"
         ],
-        "source": "S1-經典",
+        "source": "S1 - 經典",
         "Release date": "2020-05-18",
         "star": 3,
         "power": 472,
@@ -1999,7 +1999,7 @@ window.allHeroes =
             "範圍攻擊 (打3)",
             "額外傷害"
         ],
-        "source": "S1-經典",
+        "source": "S1 - 經典",
         "Release date": "2024-06-28",
         "star": 3,
         "power": 505,
@@ -2086,7 +2086,7 @@ window.allHeroes =
             "範圍攻擊 (打3)",
             "防禦減益"
         ],
-        "source": "S3-瓦爾哈拉",
+        "source": "S3 - 瓦爾哈拉",
         "Release date": "2020-02-27",
         "star": 3,
         "power": 464,
@@ -2171,7 +2171,7 @@ window.allHeroes =
             "範圍攻擊 (打3)",
             "防禦減益"
         ],
-        "source": "S3-瓦爾哈拉",
+        "source": "S3 - 瓦爾哈拉",
         "Release date": "2023-04-10",
         "star": 3,
         "power": 479,
@@ -2258,7 +2258,7 @@ window.allHeroes =
             "反製小兵",
             "狙擊手"
         ],
-        "source": "聯盟-火槍手",
+        "source": "聯盟 - 火槍手",
         "Release date": "2023-03-08",
         "star": 3,
         "power": 486,
@@ -2346,7 +2346,7 @@ window.allHeroes =
             "額外傷害",
             "傷害減免"
         ],
-        "source": "挑戰-石像鬼",
+        "source": "挑戰 - 石像鬼",
         "Release date": "2022-05-12",
         "star": 3,
         "power": 482,
@@ -2439,7 +2439,7 @@ window.allHeroes =
             "持續治療",
             "提供免疫"
         ],
-        "source": "挑戰-歌劇秘辛",
+        "source": "挑戰 - 歌劇秘辛",
         "Release date": "2024-01-25",
         "star": 3,
         "power": 514,
@@ -2533,7 +2533,7 @@ window.allHeroes =
             "全體攻擊 (打5)",
             "防禦減益"
         ],
-        "source": "S1-經典",
+        "source": "S1 - 經典",
         "Release date": "2017-03-01",
         "star": 3,
         "power": 445,
@@ -2618,7 +2618,7 @@ window.allHeroes =
             "全體攻擊 (打5)",
             "攻擊增益"
         ],
-        "source": "S1-經典",
+        "source": "S1 - 經典",
         "Release date": "2021-01-18",
         "star": 3,
         "power": 474,
@@ -2704,7 +2704,7 @@ window.allHeroes =
             "防禦減益",
             "額外傷害"
         ],
-        "source": "S1-經典",
+        "source": "S1 - 經典",
         "Release date": "2024-07-16",
         "star": 3,
         "power": 507,
@@ -2792,7 +2792,7 @@ window.allHeroes =
             "防禦減益",
             "狙擊手"
         ],
-        "source": "S1-經典",
+        "source": "S1 - 經典",
         "Release date": "2017-03-01",
         "star": 3,
         "power": 442,
@@ -2877,7 +2877,7 @@ window.allHeroes =
             "攻擊增益",
             "狙擊手"
         ],
-        "source": "S1-經典",
+        "source": "S1 - 經典",
         "Release date": "2021-01-18",
         "star": 3,
         "power": 471,
@@ -2963,7 +2963,7 @@ window.allHeroes =
             "額外傷害",
             "狙擊手"
         ],
-        "source": "S1-經典",
+        "source": "S1 - 經典",
         "Release date": "2023-12-25",
         "star": 3,
         "power": 503,
@@ -3053,7 +3053,7 @@ window.allHeroes =
             "治療",
             "反製小兵"
         ],
-        "source": "高塔-冥河",
+        "source": "高塔 - 冥河",
         "Release date": "2022-09-21",
         "star": 3,
         "power": 484,
@@ -3149,7 +3149,7 @@ window.allHeroes =
             "狙擊手",
             "額外傷害"
         ],
-        "source": "挑戰節-海盜",
+        "source": "挑戰節 I",
         "Release date": "2017-09-07",
         "star": 3,
         "power": 455,
@@ -3321,7 +3321,7 @@ window.allHeroes =
             "全體攻擊 (打5)",
             "防禦增益"
         ],
-        "source": "S2-亞特蘭蒂斯",
+        "source": "S2 - 亞特蘭蒂斯",
         "Release date": "2019-08-01",
         "star": 4,
         "power": 648,
@@ -3406,7 +3406,7 @@ window.allHeroes =
             "全體攻擊 (打5)",
             "持續傷害"
         ],
-        "source": "S2-亞特蘭蒂斯",
+        "source": "S2 - 亞特蘭蒂斯",
         "Release date": "2023-03-06",
         "star": 4,
         "power": 669,
@@ -3491,7 +3491,7 @@ window.allHeroes =
             "全體攻擊 (打5)",
             "嘲諷"
         ],
-        "source": "S6-深淵謎團",
+        "source": "S6 - 深淵謎團",
         "Release date": "2023-09-27",
         "star": 4,
         "power": 688,
@@ -3585,7 +3585,7 @@ window.allHeroes =
             "全體攻擊 (打5)",
             "嘲諷"
         ],
-        "source": "S6-深淵謎團",
+        "source": "S6 - 深淵謎團",
         "Release date": "2023-09-27",
         "star": 4,
         "power": 704,
@@ -3680,7 +3680,7 @@ window.allHeroes =
             "反擊",
             "治療"
         ],
-        "source": "S5-沙丘",
+        "source": "S5 - 沙丘",
         "Release date": "2022-04-21",
         "star": 4,
         "power": 683,
@@ -3771,7 +3771,7 @@ window.allHeroes =
             "生命強化",
             "凈化"
         ],
-        "source": "S5-沙丘",
+        "source": "S5 - 沙丘",
         "Release date": "2024-06-24",
         "star": 4,
         "power": 699,
@@ -3952,7 +3952,7 @@ window.allHeroes =
         "skill_types": [
             "反擊"
         ],
-        "source": "S1-經典",
+        "source": "S1 - 經典",
         "Release date": "2017-03-01",
         "star": 4,
         "power": 643,
@@ -4034,7 +4034,7 @@ window.allHeroes =
         "skill_types": [
             "反擊"
         ],
-        "source": "S1-經典",
+        "source": "S1 - 經典",
         "Release date": "2020-05-18",
         "star": 4,
         "power": 689,
@@ -4116,7 +4116,7 @@ window.allHeroes =
         "skill_types": [
             "反擊"
         ],
-        "source": "S1-經典",
+        "source": "S1 - 經典",
         "Release date": "2023-11-27",
         "star": 4,
         "power": 735,
@@ -4198,7 +4198,7 @@ window.allHeroes =
         "skill_types": [
             "反擊"
         ],
-        "source": "S1-經典",
+        "source": "S1 - 經典",
         "Release date": "2024-09-08",
         "star": 4,
         "power": 747,
@@ -4286,7 +4286,7 @@ window.allHeroes =
             "反製小兵",
             "狙擊手"
         ],
-        "source": "挑戰節-仙境",
+        "source": "挑戰節 I",
         "Release date": "2019-02-14",
         "star": 4,
         "power": 650,
@@ -4375,7 +4375,7 @@ window.allHeroes =
             "反製小兵",
             "攻擊減益"
         ],
-        "source": "S7-火焰與冰霜的寶藏",
+        "source": "S7 - 火焰與冰霜的寶藏",
         "Release date": "2025-05-16",
         "star": 4,
         "power": 732,
@@ -4467,7 +4467,7 @@ window.allHeroes =
             "持續治療",
             "反製小兵"
         ],
-        "source": "挑戰-眾神狂歡節",
+        "source": "挑戰 - 眾神狂歡節",
         "Release date": "2023-07-13",
         "star": 4,
         "power": 1238,
@@ -4557,7 +4557,7 @@ window.allHeroes =
             "防禦減益",
             "額外傷害"
         ],
-        "source": "月活動-莫洛維亞",
+        "source": "月活動 - 莫洛維亞",
         "Release date": "2020-10-26",
         "star": 4,
         "power": 667,
@@ -4648,7 +4648,7 @@ window.allHeroes =
             "法力削減或格擋",
             "疊加"
         ],
-        "source": "月活動-莫洛維亞",
+        "source": "月活動 - 莫洛維亞",
         "Release date": "2021-10-04",
         "star": 4,
         "power": 681,
@@ -4739,7 +4739,7 @@ window.allHeroes =
             "法力削減或格擋",
             "狙擊手"
         ],
-        "source": "挑戰節-吟遊詩人",
+        "source": "挑戰節 II",
         "Release date": "2022-12-01",
         "star": 4,
         "power": 685,
@@ -4916,7 +4916,7 @@ window.allHeroes =
             "範圍攻擊 (打3)",
             "防禦減益"
         ],
-        "source": "S1-經典",
+        "source": "S1 - 經典",
         "Release date": "2017-03-01",
         "star": 4,
         "power": 642,
@@ -5001,7 +5001,7 @@ window.allHeroes =
             "範圍攻擊 (打3)",
             "攻擊增益"
         ],
-        "source": "S1-經典",
+        "source": "S1 - 經典",
         "Release date": "2021-01-18",
         "star": 4,
         "power": 687,
@@ -5085,7 +5085,7 @@ window.allHeroes =
             "範圍攻擊 (打3)",
             "攻擊增益"
         ],
-        "source": "S1-經典",
+        "source": "S1 - 經典",
         "Release date": "2023-06-12",
         "star": 4,
         "power": 733,
@@ -5171,7 +5171,7 @@ window.allHeroes =
             "防禦減益",
             "額外傷害"
         ],
-        "source": "S1-經典",
+        "source": "S1 - 經典",
         "Release date": "2023-12-25",
         "star": 4,
         "power": 746,
@@ -5260,7 +5260,7 @@ window.allHeroes =
             "繞過",
             "防禦減益"
         ],
-        "source": "S1-經典",
+        "source": "S1 - 經典",
         "Release date": "2024-12-24",
         "star": 4,
         "power": 758,
@@ -5351,7 +5351,7 @@ window.allHeroes =
             "凈化",
             "提供免疫"
         ],
-        "source": "挑戰-石像鬼",
+        "source": "挑戰 - 石像鬼",
         "Release date": "2024-05-16",
         "star": 4,
         "power": 701,
@@ -5441,7 +5441,7 @@ window.allHeroes =
             "攻擊減益",
             "攻擊增益"
         ],
-        "source": "S3-瓦爾哈拉",
+        "source": "S3 - 瓦爾哈拉",
         "Release date": "2020-05-28",
         "star": 4,
         "power": 664,
@@ -5528,7 +5528,7 @@ window.allHeroes =
             "防禦增益",
             "治療"
         ],
-        "source": "S1-經典",
+        "source": "S1 - 經典",
         "Release date": "2017-03-01",
         "star": 4,
         "power": 647,
@@ -5616,7 +5616,7 @@ window.allHeroes =
             "防禦減益",
             "治療"
         ],
-        "source": "S1-經典",
+        "source": "S1 - 經典",
         "Release date": "2020-05-18",
         "star": 4,
         "power": 692,
@@ -5704,7 +5704,7 @@ window.allHeroes =
             "攻擊減益",
             "生命強化"
         ],
-        "source": "S1-經典",
+        "source": "S1 - 經典",
         "Release date": "2022-10-31",
         "star": 4,
         "power": 739,
@@ -5792,7 +5792,7 @@ window.allHeroes =
             "防禦增益",
             "治療"
         ],
-        "source": "S1-經典",
+        "source": "S1 - 經典",
         "Release date": "2024-02-12",
         "star": 4,
         "power": 751,
@@ -5885,7 +5885,7 @@ window.allHeroes =
             "治療",
             "反射"
         ],
-        "source": "S1-經典",
+        "source": "S1 - 經典",
         "Release date": "2025-03-11",
         "star": 4,
         "power": 763,
@@ -6161,7 +6161,7 @@ window.allHeroes =
             "攻擊增益",
             "疊加"
         ],
-        "source": "S3-瓦爾哈拉",
+        "source": "S3 - 瓦爾哈拉",
         "Release date": "2020-02-27",
         "star": 4,
         "power": 660,
@@ -6248,7 +6248,7 @@ window.allHeroes =
             "狙擊手",
             "繞過"
         ],
-        "source": "高塔-貓頭鷹",
+        "source": "高塔 - 貓頭鷹",
         "Release date": "2023-12-19",
         "star": 4,
         "power": 693,
@@ -6337,7 +6337,7 @@ window.allHeroes =
             "防禦減益",
             "法力提升"
         ],
-        "source": "高塔-忍者",
+        "source": "高塔 - 忍者",
         "Release date": "2024-09-24",
         "star": 4,
         "power": 701,
@@ -6432,7 +6432,7 @@ window.allHeroes =
             "防禦增益",
             "生命強化"
         ],
-        "source": "挑戰節-惡棍",
+        "source": "挑戰節 II",
         "Release date": "2021-02-11",
         "star": 4,
         "power": 675,
@@ -6520,7 +6520,7 @@ window.allHeroes =
             "全體攻擊 (打5)",
             "繞過"
         ],
-        "source": "高塔-忍者",
+        "source": "高塔 - 忍者",
         "Release date": "2020-10-13",
         "star": 4,
         "power": 670,
@@ -6612,7 +6612,7 @@ window.allHeroes =
             "驅散",
             "狙擊手"
         ],
-        "source": "S1-經典",
+        "source": "S1 - 經典",
         "Release date": "2017-03-01",
         "star": 4,
         "power": 643,
@@ -6697,7 +6697,7 @@ window.allHeroes =
             "凈化",
             "狙擊手"
         ],
-        "source": "S1-經典",
+        "source": "S1 - 經典",
         "Release date": "2020-01-20",
         "star": 4,
         "power": 688,
@@ -6782,7 +6782,7 @@ window.allHeroes =
             "增益格擋者",
             "狙擊手"
         ],
-        "source": "S1-經典",
+        "source": "S1 - 經典",
         "Release date": "2023-11-27",
         "star": 4,
         "power": 734,
@@ -6868,7 +6868,7 @@ window.allHeroes =
             "額外傷害",
             "驅散"
         ],
-        "source": "S1-經典",
+        "source": "S1 - 經典",
         "Release date": "2024-07-16",
         "star": 4,
         "power": 746,
@@ -6956,7 +6956,7 @@ window.allHeroes =
             "特殊治療",
             "狙擊手"
         ],
-        "source": "S2-亞特蘭蒂斯",
+        "source": "S2 - 亞特蘭蒂斯",
         "Release date": "2019-08-01",
         "star": 4,
         "power": 652,
@@ -7041,7 +7041,7 @@ window.allHeroes =
             "範圍攻擊 (打3)",
             "攻擊增益"
         ],
-        "source": "S2-亞特蘭蒂斯",
+        "source": "S2 - 亞特蘭蒂斯",
         "Release date": "2023-04-03",
         "star": 4,
         "power": 673,
@@ -7129,7 +7129,7 @@ window.allHeroes =
             "治療削減",
             "狙擊手"
         ],
-        "source": "月活動-莫洛維亞",
+        "source": "月活動 - 莫洛維亞",
         "Release date": "2018-10-25",
         "star": 4,
         "power": 649,
@@ -7304,7 +7304,7 @@ window.allHeroes =
             "防禦減益",
             "狙擊手"
         ],
-        "source": "S4-地底荒野",
+        "source": "S4 - 地底荒野",
         "Release date": "2021-03-25",
         "star": 4,
         "power": 677,
@@ -7391,7 +7391,7 @@ window.allHeroes =
             "防禦減益",
             "狙擊手"
         ],
-        "source": "S4-地底荒野",
+        "source": "S4 - 地底荒野",
         "Release date": "2024-01-04",
         "star": 4,
         "power": 692,
@@ -7755,7 +7755,7 @@ window.allHeroes =
             "治療",
             "法力削減或格擋"
         ],
-        "source": "月活動-卡勒瓦拉",
+        "source": "月活動 - 卡勒瓦拉",
         "Release date": "2022-06-20",
         "star": 5,
         "power": 835,
@@ -7845,7 +7845,7 @@ window.allHeroes =
             "治療",
             "法力削減或格擋"
         ],
-        "source": "月活動-卡勒瓦拉",
+        "source": "月活動 - 卡勒瓦拉",
         "Release date": "2023-08-07",
         "star": 5,
         "power": 1079,
@@ -8207,7 +8207,7 @@ window.allHeroes =
             "攻擊減益",
             "狙擊手"
         ],
-        "source": "挑戰節-仙境",
+        "source": "挑戰節 I",
         "Release date": "2019-02-14",
         "star": 5,
         "power": 769,
@@ -8296,7 +8296,7 @@ window.allHeroes =
             "治療削減",
             "持續傷害"
         ],
-        "source": "高塔-冥河",
+        "source": "高塔 - 冥河",
         "Release date": "2023-07-19",
         "star": 5,
         "power": 927,
@@ -8401,7 +8401,7 @@ window.allHeroes =
             "傷害減免",
             "防禦減益"
         ],
-        "source": "S7-火焰與冰霜的寶藏",
+        "source": "S7 - 火焰與冰霜的寶藏",
         "Release date": "2024-12-28",
         "star": 5,
         "power": 1169,
@@ -8680,7 +8680,7 @@ window.allHeroes =
             "治療",
             "法力生成增益"
         ],
-        "source": "S2-亞特蘭蒂斯",
+        "source": "S2 - 亞特蘭蒂斯",
         "Release date": "2019-02-01",
         "star": 5,
         "power": 772,
@@ -8768,7 +8768,7 @@ window.allHeroes =
             "生命強化",
             "法力提升"
         ],
-        "source": "S2-亞特蘭蒂斯",
+        "source": "S2 - 亞特蘭蒂斯",
         "Release date": "2021-11-15",
         "star": 5,
         "power": 942,
@@ -8856,7 +8856,7 @@ window.allHeroes =
             "最大生命削減",
             "持續傷害"
         ],
-        "source": "聯盟-騎士衝擊",
+        "source": "聯盟 - 騎士衝擊",
         "Release date": "2024-04-10",
         "star": 5,
         "power": 1030,
@@ -9225,7 +9225,7 @@ window.allHeroes =
             "法力提升",
             "法力削減或格擋"
         ],
-        "source": "S6-深淵謎團",
+        "source": "S6 - 深淵謎團",
         "Release date": "2023-11-22",
         "star": 5,
         "power": 999,
@@ -9321,7 +9321,7 @@ window.allHeroes =
             "法力提升",
             "法力削減或格擋"
         ],
-        "source": "S6-深淵謎團",
+        "source": "S6 - 深淵謎團",
         "Release date": "2024-11-21",
         "star": 5,
         "power": 1244,
@@ -9417,7 +9417,7 @@ window.allHeroes =
             "範圍攻擊 (打3)",
             "攻擊減益"
         ],
-        "source": "高塔-忍者",
+        "source": "高塔 - 忍者",
         "Release date": "2023-05-31",
         "star": 5,
         "power": 877,
@@ -9604,7 +9604,7 @@ window.allHeroes =
             "傷害減免",
             "反擊"
         ],
-        "source": "S5-沙丘",
+        "source": "S5 - 沙丘",
         "Release date": "2022-07-07",
         "star": 5,
         "power": 861,
@@ -9694,7 +9694,7 @@ window.allHeroes =
             "生命強化",
             "凈化"
         ],
-        "source": "S5-沙丘",
+        "source": "S5 - 沙丘",
         "Release date": "2024-12-10",
         "star": 5,
         "power": 1203,
@@ -9789,7 +9789,7 @@ window.allHeroes =
             "最大生命削減",
             "法力生成增益"
         ],
-        "source": "挑戰節-吟遊詩人",
+        "source": "挑戰節 II",
         "Release date": "2025-01-16",
         "star": 5,
         "power": 1171,
@@ -9882,7 +9882,7 @@ window.allHeroes =
             "攻擊減益",
             "防禦減益"
         ],
-        "source": "挑戰節-星隕",
+        "source": "挑戰節 II",
         "Release date": "2021-06-10",
         "star": 5,
         "power": 805,
@@ -9970,7 +9970,7 @@ window.allHeroes =
             "精神錯亂攻擊&治療",
             "狙擊手"
         ],
-        "source": "挑戰節-強大寵物",
+        "source": "挑戰節 II",
         "Release date": "2022-11-03",
         "star": 5,
         "power": 876,
@@ -10061,7 +10061,7 @@ window.allHeroes =
             "傷害減免",
             "對自身或友軍負面效果"
         ],
-        "source": "神秘-暗影",
+        "source": "神秘 - 暗影",
         "Release date": "2025-03-06",
         "star": 5,
         "power": 1177,
@@ -10245,7 +10245,7 @@ window.allHeroes =
             "疊加",
             "法力削減或格擋"
         ],
-        "source": "高塔-魔法",
+        "source": "高塔 - 魔法",
         "Release date": "2023-05-03",
         "star": 5,
         "power": 867,
@@ -10529,7 +10529,7 @@ window.allHeroes =
             "法力生成增益",
             "持續治療"
         ],
-        "source": "挑戰節-殺手",
+        "source": "挑戰節 II",
         "Release date": "2021-08-05",
         "star": 5,
         "power": 811,
@@ -10618,7 +10618,7 @@ window.allHeroes =
             "召喚小兵",
             "傷害減免"
         ],
-        "source": "挑戰-眾神狂歡節",
+        "source": "挑戰 - 眾神狂歡節",
         "Release date": "2023-07-13",
         "star": 5,
         "power": 933,
@@ -10709,7 +10709,7 @@ window.allHeroes =
             "凈化格擋者",
             "防禦減益"
         ],
-        "source": "挑戰節-吟遊詩人",
+        "source": "挑戰節 II",
         "Release date": "2023-06-15",
         "star": 5,
         "power": 902,
@@ -10802,7 +10802,7 @@ window.allHeroes =
             "法力削減或格擋",
             "狙擊手"
         ],
-        "source": "S6-深淵謎團",
+        "source": "S6 - 深淵謎團",
         "Release date": "2023-07-05",
         "star": 5,
         "power": 936,
@@ -10902,7 +10902,7 @@ window.allHeroes =
             "持續傷害",
             "特殊治療"
         ],
-        "source": "S6-深淵謎團",
+        "source": "S6 - 深淵謎團",
         "Release date": "2025-03-03",
         "star": 5,
         "power": 1164,
@@ -11090,7 +11090,7 @@ window.allHeroes =
             "持續傷害",
             "沈默"
         ],
-        "source": "月活動-莫洛維亞",
+        "source": "月活動 - 莫洛維亞",
         "Release date": "2024-09-23",
         "star": 5,
         "power": 1052,
@@ -11184,7 +11184,7 @@ window.allHeroes =
             "閃避",
             "反製小兵"
         ],
-        "source": "聯盟-飛蛾",
+        "source": "聯盟 - 飛蛾",
         "Release date": "2025-06-25",
         "star": 5,
         "power": 1183,
@@ -11465,7 +11465,7 @@ window.allHeroes =
             "防禦減益",
             "持續傷害"
         ],
-        "source": "挑戰節-強大寵物",
+        "source": "挑戰節 II",
         "Release date": "2023-02-23",
         "star": 5,
         "power": 878,
@@ -11647,7 +11647,7 @@ window.allHeroes =
             "繞過",
             "狙擊手"
         ],
-        "source": "高塔-忍者",
+        "source": "高塔 - 忍者",
         "Release date": "2020-10-13",
         "star": 5,
         "power": 798,
@@ -11837,7 +11837,7 @@ window.allHeroes =
             "持續傷害",
             "效果持續重置"
         ],
-        "source": "挑戰節-惡棍",
+        "source": "挑戰節 II",
         "Release date": "2021-02-11",
         "star": 5,
         "power": 801,
@@ -11927,7 +11927,7 @@ window.allHeroes =
             "持續治療",
             "持續傷害"
         ],
-        "source": "月活動-海灘派對",
+        "source": "月活動 - 海灘派對",
         "Release date": "2024-06-03",
         "star": 5,
         "power": 1016,
@@ -12019,7 +12019,7 @@ window.allHeroes =
             "提供免疫",
             "生命強化"
         ],
-        "source": "聯盟-騎士衝擊",
+        "source": "聯盟 - 騎士衝擊",
         "Release date": "2021-10-13",
         "star": 5,
         "power": 816,
@@ -12104,7 +12104,7 @@ window.allHeroes =
             "持續傷害",
             "額外傷害"
         ],
-        "source": "S4-地底荒野",
+        "source": "S4 - 地底荒野",
         "Release date": "2021-12-30",
         "star": 5,
         "power": 813,
@@ -12191,7 +12191,7 @@ window.allHeroes =
             "額外傷害",
             "攻擊增益"
         ],
-        "source": "S4-地底荒野",
+        "source": "S4 - 地底荒野",
         "Release date": "2024-09-26",
         "star": 5,
         "power": 1030,
@@ -12285,7 +12285,7 @@ window.allHeroes =
             "鬼魂形態與隱藏",
             "繞過"
         ],
-        "source": "額外抽獎-秘密召喚",
+        "source": "額外抽獎 - 秘密召喚",
         "Release date": "2025-05-31",
         "star": 5,
         "power": 1200,
@@ -12383,7 +12383,7 @@ window.allHeroes =
             "額外傷害",
             "特殊治療"
         ],
-        "source": "S3-瓦爾哈拉",
+        "source": "S3 - 瓦爾哈拉",
         "Release date": "2020-02-27",
         "star": 5,
         "power": 785,
@@ -12473,7 +12473,7 @@ window.allHeroes =
             "狙擊手",
             "額外傷害"
         ],
-        "source": "S3-瓦爾哈拉",
+        "source": "S3 - 瓦爾哈拉",
         "Release date": "2023-04-10",
         "star": 5,
         "power": 982,
@@ -12655,7 +12655,7 @@ window.allHeroes =
             "防禦減益",
             "狙擊手"
         ],
-        "source": "挑戰節-海盜",
+        "source": "挑戰節 I",
         "Release date": "2019-11-11",
         "star": 5,
         "power": 781,
@@ -12744,7 +12744,7 @@ window.allHeroes =
             "狙擊手",
             "持續傷害"
         ],
-        "source": "挑戰節-海盜",
+        "source": "挑戰節 I",
         "Release date": "2022-04-14",
         "star": 5,
         "power": 978,
@@ -12835,7 +12835,7 @@ window.allHeroes =
             "攻擊增益",
             "防禦增益"
         ],
-        "source": "挑戰-歌劇秘辛",
+        "source": "挑戰 - 歌劇秘辛",
         "Release date": "2023-11-30",
         "star": 5,
         "power": 957,
@@ -13021,7 +13021,7 @@ window.allHeroes =
             "召喚惡魔",
             "持續傷害"
         ],
-        "source": "挑戰-眾神狂歡節",
+        "source": "挑戰 - 眾神狂歡節",
         "Release date": "2022-11-22",
         "star": 5,
         "power": 873,
@@ -13387,7 +13387,7 @@ window.allHeroes =
             "狙擊手",
             "傷害減免"
         ],
-        "source": "挑戰-石像鬼",
+        "source": "挑戰 - 石像鬼",
         "Release date": "2021-11-24",
         "star": 5,
         "power": 841,
@@ -13846,7 +13846,7 @@ window.allHeroes =
             "全體攻擊 (打5)",
             "法力生成增益"
         ],
-        "source": "挑戰節-守護者",
+        "source": "挑戰節 I",
         "Release date": "2023-01-26",
         "star": 5,
         "power": 841,
@@ -13933,7 +13933,7 @@ window.allHeroes =
             "攻擊減益",
             "治療"
         ],
-        "source": "S5-沙丘",
+        "source": "S5 - 沙丘",
         "Release date": "2023-02-16",
         "star": 5,
         "power": 869,
@@ -14026,7 +14026,7 @@ window.allHeroes =
             "攻擊減益",
             "全體攻擊 (打5)"
         ],
-        "source": "S5-沙丘",
+        "source": "S5 - 沙丘",
         "Release date": "2024-03-04",
         "star": 5,
         "power": 1214,
@@ -14119,7 +14119,7 @@ window.allHeroes =
             "驅散",
             "狙擊手"
         ],
-        "source": "月活動-戀愛季節",
+        "source": "月活動 - 戀愛季節",
         "Release date": "2023-02-14",
         "star": 5,
         "power": 861,
@@ -14214,7 +14214,7 @@ window.allHeroes =
             "攻擊減益",
             "反製小兵"
         ],
-        "source": "S7-火焰與冰霜的寶藏",
+        "source": "S7 - 火焰與冰霜的寶藏",
         "Release date": "2025-04-14",
         "star": 5,
         "power": 1194,
@@ -14310,7 +14310,7 @@ window.allHeroes =
             "攻擊增益",
             "防禦增益"
         ],
-        "source": "挑戰-貝武夫",
+        "source": "挑戰 - 貝武夫",
         "Release date": "2024-11-25",
         "star": 5,
         "power": 1182,
@@ -14405,7 +14405,7 @@ window.allHeroes =
             "嘲諷",
             "對自身或友軍負面效果"
         ],
-        "source": "神秘-暗影",
+        "source": "神秘 - 暗影",
         "Release date": "2025-06-10",
         "star": 5,
         "power": 1201,
@@ -14583,7 +14583,7 @@ window.allHeroes =
             "全體攻擊 (打5)",
             "防禦減益"
         ],
-        "source": "S1-經典",
+        "source": "S1 - 經典",
         "Release date": "2017-03-01",
         "star": 5,
         "power": 755,
@@ -14668,7 +14668,7 @@ window.allHeroes =
             "全體攻擊 (打5)",
             "防禦減益"
         ],
-        "source": "S1-經典",
+        "source": "S1 - 經典",
         "Release date": "2020-01-20",
         "star": 5,
         "power": 848,
@@ -14754,7 +14754,7 @@ window.allHeroes =
             "攻擊減益",
             "額外傷害"
         ],
-        "source": "S1-經典",
+        "source": "S1 - 經典",
         "Release date": "2022-09-05",
         "star": 5,
         "power": 962,
@@ -14841,7 +14841,7 @@ window.allHeroes =
             "防禦減益",
             "額外傷害"
         ],
-        "source": "S1-經典",
+        "source": "S1 - 經典",
         "Release date": "2024-05-06",
         "star": 5,
         "power": 1128,
@@ -14931,7 +14931,7 @@ window.allHeroes =
             "繞過",
             "防禦減益"
         ],
-        "source": "S1-經典",
+        "source": "S1 - 經典",
         "Release date": "2025-06-18",
         "star": 5,
         "power": 1236,
@@ -15310,7 +15310,7 @@ window.allHeroes =
             "精神錯亂攻擊&治療",
             "狙擊手"
         ],
-        "source": "月活動-戀愛季節",
+        "source": "月活動 - 戀愛季節",
         "Release date": "2024-01-08",
         "star": 5,
         "power": 966,
@@ -15502,7 +15502,7 @@ window.allHeroes =
             "防禦減益",
             "狙擊手"
         ],
-        "source": "挑戰節-阿瓦隆",
+        "source": "挑戰節 I",
         "Release date": "2018-01-05",
         "star": 5,
         "power": 765,
@@ -15684,7 +15684,7 @@ window.allHeroes =
             "召喚小兵",
             "嘲諷"
         ],
-        "source": "月活動-冬季",
+        "source": "月活動 - 冬季",
         "Release date": "2020-12-01",
         "star": 5,
         "power": 802,
@@ -15775,7 +15775,7 @@ window.allHeroes =
             "召喚小兵",
             "嘲諷"
         ],
-        "source": "月活動-冬季",
+        "source": "月活動 - 冬季",
         "Release date": "2021-12-01",
         "star": 5,
         "power": 1039,
@@ -15963,7 +15963,7 @@ window.allHeroes =
         "skill_types": [
             "狙擊手"
         ],
-        "source": "S3-瓦爾哈拉",
+        "source": "S3 - 瓦爾哈拉",
         "Release date": "2020-12-24",
         "star": 5,
         "power": 787,
@@ -16050,7 +16050,7 @@ window.allHeroes =
             "增益竊取者",
             "狙擊手"
         ],
-        "source": "S3-瓦爾哈拉",
+        "source": "S3 - 瓦爾哈拉",
         "Release date": "2023-05-08",
         "star": 5,
         "power": 986,
@@ -16141,7 +16141,7 @@ window.allHeroes =
             "復活",
             "持續治療"
         ],
-        "source": "聯盟-騎士衝擊",
+        "source": "聯盟 - 騎士衝擊",
         "Release date": "2023-10-18",
         "star": 5,
         "power": 980,
@@ -16323,7 +16323,7 @@ window.allHeroes =
             "防禦增益",
             "狙擊手"
         ],
-        "source": "S1-經典",
+        "source": "S1 - 經典",
         "Release date": "2017-03-01",
         "star": 5,
         "power": 754,
@@ -16408,7 +16408,7 @@ window.allHeroes =
             "防禦減益",
             "狙擊手"
         ],
-        "source": "S1-經典",
+        "source": "S1 - 經典",
         "Release date": "2020-05-18",
         "star": 5,
         "power": 849,
@@ -16493,7 +16493,7 @@ window.allHeroes =
             "範圍攻擊 (打3)",
             "防禦減益"
         ],
-        "source": "S1-經典",
+        "source": "S1 - 經典",
         "Release date": "2022-10-31",
         "star": 5,
         "power": 964,
@@ -16579,7 +16579,7 @@ window.allHeroes =
             "額外傷害",
             "狙擊手"
         ],
-        "source": "S1-經典",
+        "source": "S1 - 經典",
         "Release date": "2024-01-22",
         "star": 5,
         "power": 1130,
@@ -16669,7 +16669,7 @@ window.allHeroes =
             "繞過",
             "狙擊手"
         ],
-        "source": "S1-經典",
+        "source": "S1 - 經典",
         "Release date": "2025-03-11",
         "star": 5,
         "power": 1236,
@@ -16759,7 +16759,7 @@ window.allHeroes =
             "傷害減免",
             "凈化"
         ],
-        "source": "高塔-貓頭鷹",
+        "source": "高塔 - 貓頭鷹",
         "Release date": "2024-03-13",
         "star": 5,
         "power": 1047,
@@ -16847,7 +16847,7 @@ window.allHeroes =
             "範圍攻擊 (打3)",
             "對自身或友軍負面效果"
         ],
-        "source": "月活動-斯普林維爾",
+        "source": "月活動 - 斯普林維爾",
         "Release date": "2018-03-28",
         "star": 5,
         "power": 763,
@@ -16932,7 +16932,7 @@ window.allHeroes =
             "全體攻擊 (打5)",
             "對自身或友軍負面效果"
         ],
-        "source": "月活動-斯普林維爾",
+        "source": "月活動 - 斯普林維爾",
         "Release date": "2022-03-21",
         "star": 5,
         "power": 867,
@@ -17019,7 +17019,7 @@ window.allHeroes =
             "範圍攻擊 (打3)",
             "傷害減免"
         ],
-        "source": "挑戰-石像鬼",
+        "source": "挑戰 - 石像鬼",
         "Release date": "2022-12-29",
         "star": 5,
         "power": 850,
@@ -17292,7 +17292,7 @@ window.allHeroes =
             "持續治療",
             "反射"
         ],
-        "source": "聯盟-火槍手",
+        "source": "聯盟 - 火槍手",
         "Release date": "2023-03-08",
         "star": 5,
         "power": 866,
@@ -17387,7 +17387,7 @@ window.allHeroes =
             "治療",
             "法力提升"
         ],
-        "source": "高塔-魔法",
+        "source": "高塔 - 魔法",
         "Release date": "2021-09-15",
         "star": 5,
         "power": 813,
@@ -17485,7 +17485,7 @@ window.allHeroes =
             "治療",
             "法力提升"
         ],
-        "source": "高塔-魔法",
+        "source": "高塔 - 魔法",
         "Release date": "2025-04-17",
         "star": 5,
         "power": 1206,
@@ -17582,7 +17582,7 @@ window.allHeroes =
             "持續治療",
             "召喚小兵"
         ],
-        "source": "月活動-莫洛維亞",
+        "source": "月活動 - 莫洛維亞",
         "Release date": "2022-10-03",
         "star": 5,
         "power": 850,
@@ -17672,7 +17672,7 @@ window.allHeroes =
             "法力提升",
             "狙擊手"
         ],
-        "source": "S2-亞特蘭蒂斯",
+        "source": "S2 - 亞特蘭蒂斯",
         "Release date": "2019-08-01",
         "star": 5,
         "power": 774,
@@ -17760,7 +17760,7 @@ window.allHeroes =
             "精神錯亂攻擊&治療",
             "狙擊手"
         ],
-        "source": "S2-亞特蘭蒂斯",
+        "source": "S2 - 亞特蘭蒂斯",
         "Release date": "2023-01-09",
         "star": 5,
         "power": 946,
@@ -17847,7 +17847,7 @@ window.allHeroes =
             "連鎖與隨機攻擊",
             "對自身或友軍負面效果"
         ],
-        "source": "月活動-斯普林維爾",
+        "source": "月活動 - 斯普林維爾",
         "Release date": "2024-03-18",
         "star": 5,
         "power": 999,
@@ -18029,7 +18029,7 @@ window.allHeroes =
             "最大生命削減",
             "持續傷害"
         ],
-        "source": "月活動-海灘派對",
+        "source": "月活動 - 海灘派對",
         "Release date": "2023-06-12",
         "star": 5,
         "power": 875,
@@ -18122,7 +18122,7 @@ window.allHeroes =
             "法力生成增益",
             "疊加"
         ],
-        "source": "挑戰-貝武夫",
+        "source": "挑戰 - 貝武夫",
         "Release date": "2025-02-13",
         "star": 5,
         "power": 1183,
@@ -18312,7 +18312,7 @@ window.allHeroes =
             "全體攻擊 (打5)",
             "防禦減益"
         ],
-        "source": "S4-地底荒野",
+        "source": "S4 - 地底荒野",
         "Release date": "2021-06-17",
         "star": 5,
         "power": 807,
@@ -18403,7 +18403,7 @@ window.allHeroes =
             "額外傷害",
             "攻擊增益"
         ],
-        "source": "S4-地底荒野",
+        "source": "S4 - 地底荒野",
         "Release date": "2023-07-20",
         "star": 5,
         "power": 1021,
@@ -18495,7 +18495,7 @@ window.allHeroes =
             "狙擊手",
             "召喚小兵"
         ],
-        "source": "月活動-冬季",
+        "source": "月活動 - 冬季",
         "Release date": "2021-12-01",
         "star": 5,
         "power": 821,
@@ -18586,7 +18586,7 @@ window.allHeroes =
             "持續傷害",
             "召喚小兵"
         ],
-        "source": "月活動-冬季",
+        "source": "月活動 - 冬季",
         "Release date": "2024-12-01",
         "star": 5,
         "power": 1064,
@@ -18966,7 +18966,7 @@ window.allHeroes =
             "持續治療",
             "提供免疫"
         ],
-        "source": "挑戰-歌劇秘辛",
+        "source": "挑戰 - 歌劇秘辛",
         "Release date": "2023-06-20",
         "star": 5,
         "power": 955,
@@ -19062,7 +19062,7 @@ window.allHeroes =
             "生命強化",
             "嘲諷"
         ],
-        "source": "高塔-忍者",
+        "source": "高塔 - 忍者",
         "Release date": "2023-01-11",
         "star": 5,
         "power": 866,
@@ -19254,7 +19254,7 @@ window.allHeroes =
             "疊加",
             "額外傷害"
         ],
-        "source": "月活動-卡勒瓦拉",
+        "source": "月活動 - 卡勒瓦拉",
         "Release date": "2024-07-22",
         "star": 5,
         "power": 1034,
@@ -19345,7 +19345,7 @@ window.allHeroes =
             "治療",
             "特殊治療"
         ],
-        "source": "S4-地底荒野",
+        "source": "S4 - 地底荒野",
         "Release date": "2021-12-02",
         "star": 5,
         "power": 811,
@@ -19437,7 +19437,7 @@ window.allHeroes =
             "生命強化",
             "特殊治療"
         ],
-        "source": "S4-地底荒野",
+        "source": "S4 - 地底荒野",
         "Release date": "2023-10-12",
         "star": 5,
         "power": 1026,
@@ -19531,7 +19531,7 @@ window.allHeroes =
             "閃避",
             "反製小兵"
         ],
-        "source": "聯盟-飛蛾",
+        "source": "聯盟 - 飛蛾",
         "Release date": "2025-02-20",
         "star": 5,
         "power": 1185,
@@ -19807,7 +19807,7 @@ window.allHeroes =
             "提供免疫",
             "防禦減益"
         ],
-        "source": "挑戰-石像鬼",
+        "source": "挑戰 - 石像鬼",
         "Release date": "2024-02-27",
         "star": 5,
         "power": 1048,
@@ -19900,7 +19900,7 @@ window.allHeroes =
             "額外傷害",
             "持續治療"
         ],
-        "source": "聯盟-火槍手",
+        "source": "聯盟 - 火槍手",
         "Release date": "2022-12-14",
         "star": 5,
         "power": 876,
@@ -20185,7 +20185,7 @@ window.allHeroes =
             "狙擊手",
             "傷害分攤"
         ],
-        "source": "聯盟-騎士衝擊",
+        "source": "聯盟 - 騎士衝擊",
         "Release date": "2022-01-05",
         "star": 5,
         "power": 822,
@@ -20369,7 +20369,7 @@ window.allHeroes =
             "法力生成增益",
             "持續治療"
         ],
-        "source": "挑戰節-殺手",
+        "source": "挑戰節 II",
         "Release date": "2021-08-05",
         "star": 5,
         "power": 808,
@@ -20459,7 +20459,7 @@ window.allHeroes =
             "範圍攻擊 (打3)",
             "攻擊減益"
         ],
-        "source": "S1-經典",
+        "source": "S1 - 經典",
         "Release date": "2017-03-01",
         "star": 5,
         "power": 755,
@@ -20544,7 +20544,7 @@ window.allHeroes =
             "範圍攻擊 (打3)",
             "攻擊減益"
         ],
-        "source": "S1-經典",
+        "source": "S1 - 經典",
         "Release date": "2020-01-20",
         "star": 5,
         "power": 849,
@@ -20630,7 +20630,7 @@ window.allHeroes =
             "攻擊減益",
             "疊加"
         ],
-        "source": "S1-經典",
+        "source": "S1 - 經典",
         "Release date": "2023-09-04",
         "star": 5,
         "power": 965,
@@ -20716,7 +20716,7 @@ window.allHeroes =
             "攻擊減益",
             "額外傷害"
         ],
-        "source": "S1-經典",
+        "source": "S1 - 經典",
         "Release date": "2023-10-30",
         "star": 5,
         "power": 1130,
@@ -20806,7 +20806,7 @@ window.allHeroes =
             "繞過",
             "攻擊減益"
         ],
-        "source": "S1-經典",
+        "source": "S1 - 經典",
         "Release date": "2024-12-24",
         "star": 5,
         "power": 1235,
@@ -20897,7 +20897,7 @@ window.allHeroes =
             "持續傷害",
             "治療"
         ],
-        "source": "挑戰節-肅煞森林",
+        "source": "挑戰節 I",
         "Release date": "2019-12-01",
         "star": 5,
         "power": 767,
@@ -20997,7 +20997,7 @@ window.allHeroes =
             "法力削減或格擋",
             "最大生命削減"
         ],
-        "source": "挑戰節-肅煞森林",
+        "source": "挑戰節 I",
         "Release date": "2022-06-16",
         "star": 5,
         "power": 961,
@@ -21093,7 +21093,7 @@ window.allHeroes =
             "鬼魂形態與隱藏",
             "狙擊手"
         ],
-        "source": "S4-地底荒野",
+        "source": "S4 - 地底荒野",
         "Release date": "2021-05-20",
         "star": 5,
         "power": 807,
@@ -21187,7 +21187,7 @@ window.allHeroes =
             "額外傷害",
             "攻擊增益"
         ],
-        "source": "S4-地底荒野",
+        "source": "S4 - 地底荒野",
         "Release date": "2024-01-04",
         "star": 5,
         "power": 1021,
@@ -21470,7 +21470,7 @@ window.allHeroes =
             "特殊治療",
             "反製小兵"
         ],
-        "source": "高塔-忍者",
+        "source": "高塔 - 忍者",
         "Release date": "2024-11-19",
         "star": 5,
         "power": 1116,
@@ -21758,7 +21758,7 @@ window.allHeroes =
             "攻擊減益",
             "治療削減"
         ],
-        "source": "聯盟-騎士衝擊",
+        "source": "聯盟 - 騎士衝擊",
         "Release date": "2024-06-05",
         "star": 5,
         "power": 1060,
@@ -21851,7 +21851,7 @@ window.allHeroes =
             "法力削減或格擋",
             "疊加"
         ],
-        "source": "S3-瓦爾哈拉",
+        "source": "S3 - 瓦爾哈拉",
         "Release date": "2020-06-25",
         "star": 5,
         "power": 788,
@@ -21942,7 +21942,7 @@ window.allHeroes =
             "法力削減或格擋",
             "疊加"
         ],
-        "source": "S3-瓦爾哈拉",
+        "source": "S3 - 瓦爾哈拉",
         "Release date": "2022-07-04",
         "star": 5,
         "power": 987,
@@ -22219,7 +22219,7 @@ window.allHeroes =
             "對自身或友軍負面效果",
             "額外傷害"
         ],
-        "source": "挑戰節-肅煞森林",
+        "source": "挑戰節 I",
         "Release date": "2019-12-01",
         "star": 5,
         "power": 780,
@@ -22308,7 +22308,7 @@ window.allHeroes =
             "對自身或友軍負面效果",
             "額外傷害"
         ],
-        "source": "挑戰節-肅煞森林",
+        "source": "挑戰節 I",
         "Release date": "2021-12-15",
         "star": 5,
         "power": 976,
@@ -22394,7 +22394,7 @@ window.allHeroes =
             "全體攻擊 (打5)",
             "繞過"
         ],
-        "source": "S5-沙丘",
+        "source": "S5 - 沙丘",
         "Release date": "2022-04-21",
         "star": 5,
         "power": 858,
@@ -22484,7 +22484,7 @@ window.allHeroes =
             "全體攻擊 (打5)",
             "繞過"
         ],
-        "source": "S5-沙丘",
+        "source": "S5 - 沙丘",
         "Release date": "2024-07-13",
         "star": 5,
         "power": 1201,
@@ -22959,7 +22959,7 @@ window.allHeroes =
             "閃避",
             "反製小兵"
         ],
-        "source": "聯盟-飛蛾",
+        "source": "聯盟 - 飛蛾",
         "Release date": "2025-03-20",
         "star": 5,
         "power": 1189,
@@ -23049,7 +23049,7 @@ window.allHeroes =
             "攻擊增益",
             "持續傷害"
         ],
-        "source": "S2-亞特蘭蒂斯",
+        "source": "S2 - 亞特蘭蒂斯",
         "Release date": "2022-05-30",
         "star": 5,
         "power": 835,
@@ -23138,7 +23138,7 @@ window.allHeroes =
             "生命強化",
             "提供免疫"
         ],
-        "source": "S6-深淵謎團",
+        "source": "S6 - 深淵謎團",
         "Release date": "2023-06-07",
         "star": 5,
         "power": 952,
@@ -23236,7 +23236,7 @@ window.allHeroes =
             "提供免疫",
             "效果持續重置"
         ],
-        "source": "S6-深淵謎團",
+        "source": "S6 - 深淵謎團",
         "Release date": "2024-08-24",
         "star": 5,
         "power": 1184,
@@ -23335,7 +23335,7 @@ window.allHeroes =
             "法力提升",
             "反製小兵"
         ],
-        "source": "高塔-冥河",
+        "source": "高塔 - 冥河",
         "Release date": "2023-02-08",
         "star": 5,
         "power": 861,
@@ -23436,7 +23436,7 @@ window.allHeroes =
             "狙擊手",
             "全體攻擊 (打5)"
         ],
-        "source": "挑戰節-星隕",
+        "source": "挑戰節 II",
         "Release date": "2021-06-10",
         "star": 5,
         "power": 803,
@@ -23520,7 +23520,7 @@ window.allHeroes =
         "skill_types": [
             "範圍攻擊 (打3)"
         ],
-        "source": "S1-經典",
+        "source": "S1 - 經典",
         "Release date": "2017-03-01",
         "star": 5,
         "power": 757,
@@ -23604,7 +23604,7 @@ window.allHeroes =
             "法力生成增益",
             "狙擊手"
         ],
-        "source": "S1-經典",
+        "source": "S1 - 經典",
         "Release date": "2021-01-18",
         "star": 5,
         "power": 852,
@@ -23691,7 +23691,7 @@ window.allHeroes =
             "法力提升",
             "法力削減或格擋"
         ],
-        "source": "S1-經典",
+        "source": "S1 - 經典",
         "Release date": "2023-07-10",
         "star": 5,
         "power": 968,
@@ -23776,7 +23776,7 @@ window.allHeroes =
             "範圍攻擊 (打3)",
             "額外傷害"
         ],
-        "source": "S1-經典",
+        "source": "S1 - 經典",
         "Release date": "2024-09-08",
         "star": 5,
         "power": 1135,
@@ -23868,7 +23868,7 @@ window.allHeroes =
             "狙擊手",
             "繞過"
         ],
-        "source": "高塔-貓頭鷹",
+        "source": "高塔 - 貓頭鷹",
         "Release date": "2023-12-20",
         "star": 5,
         "power": 985,
@@ -23960,7 +23960,7 @@ window.allHeroes =
             "防禦減益",
             "召喚小兵"
         ],
-        "source": "月活動-冬季",
+        "source": "月活動 - 冬季",
         "Release date": "2022-12-01",
         "star": 5,
         "power": 851,
@@ -24145,7 +24145,7 @@ window.allHeroes =
             "召喚小兵",
             "疊加"
         ],
-        "source": "高塔-魔法",
+        "source": "高塔 - 魔法",
         "Release date": "2023-08-23",
         "star": 5,
         "power": 936,
@@ -24430,7 +24430,7 @@ window.allHeroes =
             "傷害減免",
             "提供免疫"
         ],
-        "source": "挑戰-石像鬼",
+        "source": "挑戰 - 石像鬼",
         "Release date": "2024-10-17",
         "star": 5,
         "power": 1107,
@@ -24709,7 +24709,7 @@ window.allHeroes =
             "召喚小兵",
             "狙擊手"
         ],
-        "source": "月活動-冬季",
+        "source": "月活動 - 冬季",
         "Release date": "2023-12-01",
         "star": 5,
         "power": 949,
@@ -24895,7 +24895,7 @@ window.allHeroes =
             "提供免疫",
             "持續治療"
         ],
-        "source": "高塔-忍者",
+        "source": "高塔 - 忍者",
         "Release date": "2021-11-10",
         "star": 5,
         "power": 818,
@@ -24989,7 +24989,7 @@ window.allHeroes =
         "skill_types": [
             "狙擊手"
         ],
-        "source": "S1-經典",
+        "source": "S1 - 經典",
         "Release date": "2017-03-01",
         "star": 1,
         "power": 209,
@@ -25019,7 +25019,7 @@ window.allHeroes =
         "skill_types": [
             "狙擊手"
         ],
-        "source": "S1-經典",
+        "source": "S1 - 經典",
         "Release date": "2017-03-01",
         "star": 1,
         "power": 210,
@@ -25049,7 +25049,7 @@ window.allHeroes =
         "skill_types": [
             "範圍攻擊 (打3)"
         ],
-        "source": "S1-經典",
+        "source": "S1 - 經典",
         "Release date": "2017-03-01",
         "star": 2,
         "power": 335,
@@ -25079,7 +25079,7 @@ window.allHeroes =
         "skill_types": [
             "狙擊手"
         ],
-        "source": "S1-經典",
+        "source": "S1 - 經典",
         "Release date": "2017-03-01",
         "star": 2,
         "power": 335,
@@ -25109,7 +25109,7 @@ window.allHeroes =
         "skill_types": [
             "狙擊手"
         ],
-        "source": "S1-經典",
+        "source": "S1 - 經典",
         "Release date": "2017-03-01",
         "star": 2,
         "power": 333,
@@ -25141,7 +25141,7 @@ window.allHeroes =
             "範圍攻擊 (打3)",
             "最大生命削減"
         ],
-        "source": "挑戰-眾神狂歡節",
+        "source": "挑戰 - 眾神狂歡節",
         "Release date": "2023-07-13",
         "star": 3,
         "power": 804,
@@ -25228,7 +25228,7 @@ window.allHeroes =
             "驅散",
             "治療"
         ],
-        "source": "S1-經典",
+        "source": "S1 - 經典",
         "Release date": "2017-03-01",
         "star": 3,
         "power": 441,
@@ -25313,7 +25313,7 @@ window.allHeroes =
             "持續治療",
             "提供免疫"
         ],
-        "source": "S1-經典",
+        "source": "S1 - 經典",
         "Release date": "2020-05-18",
         "star": 3,
         "power": 471,
@@ -25400,7 +25400,7 @@ window.allHeroes =
             "治療",
             "防禦增益"
         ],
-        "source": "S1-經典",
+        "source": "S1 - 經典",
         "Release date": "2024-04-08",
         "star": 3,
         "power": 504,
@@ -25490,7 +25490,7 @@ window.allHeroes =
             "反射",
             "驅散"
         ],
-        "source": "S1-經典",
+        "source": "S1 - 經典",
         "Release date": "2025-04-23",
         "star": 3,
         "power": 513,
@@ -25578,7 +25578,7 @@ window.allHeroes =
             "攻擊減益",
             "狙擊手"
         ],
-        "source": "S1-經典",
+        "source": "S1 - 經典",
         "Release date": "2017-03-01",
         "star": 3,
         "power": 444,
@@ -25663,7 +25663,7 @@ window.allHeroes =
             "防禦減益",
             "狙擊手"
         ],
-        "source": "S1-經典",
+        "source": "S1 - 經典",
         "Release date": "2020-05-18",
         "star": 3,
         "power": 473,
@@ -25749,7 +25749,7 @@ window.allHeroes =
             "狙擊手",
             "額外傷害"
         ],
-        "source": "S1-經典",
+        "source": "S1 - 經典",
         "Release date": "2024-05-06",
         "star": 3,
         "power": 506,
@@ -25839,7 +25839,7 @@ window.allHeroes =
             "攻擊減益",
             "狙擊手"
         ],
-        "source": "S1-經典",
+        "source": "S1 - 經典",
         "Release date": "2025-05-10",
         "star": 3,
         "power": 515,
@@ -25925,7 +25925,7 @@ window.allHeroes =
         "skill_types": [
             "攻擊增益"
         ],
-        "source": "S1-經典",
+        "source": "S1 - 經典",
         "Release date": "2017-03-01",
         "star": 3,
         "power": 440,
@@ -26007,7 +26007,7 @@ window.allHeroes =
         "skill_types": [
             "防禦減益"
         ],
-        "source": "S1-經典",
+        "source": "S1 - 經典",
         "Release date": "2020-01-20",
         "star": 3,
         "power": 469,
@@ -26089,7 +26089,7 @@ window.allHeroes =
         "skill_types": [
             "攻擊增益"
         ],
-        "source": "S1-經典",
+        "source": "S1 - 經典",
         "Release date": "2024-01-22",
         "star": 3,
         "power": 502,
@@ -26176,7 +26176,7 @@ window.allHeroes =
             "攻擊增益",
             "反射"
         ],
-        "source": "S1-經典",
+        "source": "S1 - 經典",
         "Release date": "2025-03-11",
         "star": 3,
         "power": 510,
@@ -26266,7 +26266,7 @@ window.allHeroes =
             "持續治療",
             "對自身或友軍負面效果"
         ],
-        "source": "S3-瓦爾哈拉",
+        "source": "S3 - 瓦爾哈拉",
         "Release date": "2020-02-27",
         "star": 3,
         "power": 463,
@@ -26357,7 +26357,7 @@ window.allHeroes =
             "全體攻擊 (打5)",
             "法力削減或格擋"
         ],
-        "source": "S1-經典",
+        "source": "S1 - 經典",
         "Release date": "2017-03-01",
         "star": 3,
         "power": 444,
@@ -26442,7 +26442,7 @@ window.allHeroes =
             "全體攻擊 (打5)",
             "法力削減或格擋"
         ],
-        "source": "S1-經典",
+        "source": "S1 - 經典",
         "Release date": "2020-05-18",
         "star": 3,
         "power": 473,
@@ -26528,7 +26528,7 @@ window.allHeroes =
             "法力削減或格擋",
             "額外傷害"
         ],
-        "source": "S1-經典",
+        "source": "S1 - 經典",
         "Release date": "2024-06-28",
         "star": 3,
         "power": 506,
@@ -26711,7 +26711,7 @@ window.allHeroes =
             "防禦減益",
             "法力削減或格擋"
         ],
-        "source": "高塔-魔法",
+        "source": "高塔 - 魔法",
         "Release date": "2021-09-15",
         "star": 3,
         "power": 479,
@@ -26805,7 +26805,7 @@ window.allHeroes =
             "生命強化",
             "提供免疫"
         ],
-        "source": "S5-沙丘",
+        "source": "S5 - 沙丘",
         "Release date": "2022-04-21",
         "star": 3,
         "power": 483,
@@ -26894,7 +26894,7 @@ window.allHeroes =
             "防禦增益",
             "凈化"
         ],
-        "source": "S5-沙丘",
+        "source": "S5 - 沙丘",
         "Release date": "2024-09-07",
         "star": 3,
         "power": 495,
@@ -26986,7 +26986,7 @@ window.allHeroes =
             "額外傷害",
             "繞過"
         ],
-        "source": "高塔-貓頭鷹",
+        "source": "高塔 - 貓頭鷹",
         "Release date": "2023-12-20",
         "star": 3,
         "power": 489,
@@ -27162,7 +27162,7 @@ window.allHeroes =
             "治療",
             "法力生成增益"
         ],
-        "source": "S1-經典",
+        "source": "S1 - 經典",
         "Release date": "2017-03-01",
         "star": 3,
         "power": 446,
@@ -27247,7 +27247,7 @@ window.allHeroes =
             "治療",
             "法力生成增益"
         ],
-        "source": "S1-經典",
+        "source": "S1 - 經典",
         "Release date": "2020-05-18",
         "star": 3,
         "power": 476,
@@ -27332,7 +27332,7 @@ window.allHeroes =
             "治療",
             "法力生成增益"
         ],
-        "source": "S1-經典",
+        "source": "S1 - 經典",
         "Release date": "2024-05-31",
         "star": 3,
         "power": 509,
@@ -27421,7 +27421,7 @@ window.allHeroes =
             "法力生成增益",
             "反射"
         ],
-        "source": "S1-經典",
+        "source": "S1 - 經典",
         "Release date": "2025-06-18",
         "star": 3,
         "power": 517,
@@ -27596,7 +27596,7 @@ window.allHeroes =
             "持續傷害",
             "狙擊手"
         ],
-        "source": "挑戰節-肅煞森林",
+        "source": "挑戰節 I",
         "Release date": "2021-12-15",
         "star": 3,
         "power": 481,
@@ -27682,7 +27682,7 @@ window.allHeroes =
             "法力削減或格擋",
             "額外傷害"
         ],
-        "source": "月活動-莫洛維亞",
+        "source": "月活動 - 莫洛維亞",
         "Release date": "2022-10-03",
         "star": 3,
         "power": 483,
@@ -27770,7 +27770,7 @@ window.allHeroes =
             "復活",
             "法力提升"
         ],
-        "source": "S4-地底荒野",
+        "source": "S4 - 地底荒野",
         "Release date": "2021-03-25",
         "star": 3,
         "power": 478,
@@ -27857,7 +27857,7 @@ window.allHeroes =
             "持續治療",
             "復活"
         ],
-        "source": "S4-地底荒野",
+        "source": "S4 - 地底荒野",
         "Release date": "2023-11-09",
         "star": 3,
         "power": 488,
@@ -27945,7 +27945,7 @@ window.allHeroes =
             "治療",
             "生命強化"
         ],
-        "source": "S3-瓦爾哈拉",
+        "source": "S3 - 瓦爾哈拉",
         "Release date": "2020-05-28",
         "star": 3,
         "power": 464,
@@ -28035,7 +28035,7 @@ window.allHeroes =
             "狙擊手",
             "治療削減"
         ],
-        "source": "月活動-飛沙帝國",
+        "source": "月活動 - 飛沙帝國",
         "Release date": "2018-06-21",
         "star": 3,
         "power": 448,
@@ -28120,7 +28120,7 @@ window.allHeroes =
         "skill_types": [
             "範圍攻擊 (打3)"
         ],
-        "source": "S1-經典",
+        "source": "S1 - 經典",
         "Release date": "2017-03-01",
         "star": 3,
         "power": 447,
@@ -28204,7 +28204,7 @@ window.allHeroes =
             "範圍攻擊 (打3)",
             "防禦減益"
         ],
-        "source": "S1-經典",
+        "source": "S1 - 經典",
         "Release date": "2020-05-18",
         "star": 3,
         "power": 476,
@@ -28288,7 +28288,7 @@ window.allHeroes =
             "範圍攻擊 (打3)",
             "額外傷害"
         ],
-        "source": "S1-經典",
+        "source": "S1 - 經典",
         "Release date": "2024-07-16",
         "star": 3,
         "power": 510,
@@ -28462,7 +28462,7 @@ window.allHeroes =
             "驅散",
             "狙擊手"
         ],
-        "source": "S2-亞特蘭蒂斯",
+        "source": "S2 - 亞特蘭蒂斯",
         "Release date": "2019-08-01",
         "star": 3,
         "power": 448,
@@ -28547,7 +28547,7 @@ window.allHeroes =
             "凈化",
             "狙擊手"
         ],
-        "source": "S2-亞特蘭蒂斯",
+        "source": "S2 - 亞特蘭蒂斯",
         "Release date": "2022-05-02",
         "star": 3,
         "power": 462,
@@ -28630,7 +28630,7 @@ window.allHeroes =
         "skill_types": [
             "復活"
         ],
-        "source": "S2-亞特蘭蒂斯",
+        "source": "S2 - 亞特蘭蒂斯",
         "Release date": "2019-08-01",
         "star": 3,
         "power": 450,
@@ -28724,7 +28724,7 @@ window.allHeroes =
             "法力生成增益",
             "持續治療"
         ],
-        "source": "挑戰節-殺手",
+        "source": "挑戰節 II",
         "Release date": "2021-08-05",
         "star": 3,
         "power": 478,
@@ -28818,7 +28818,7 @@ window.allHeroes =
             "法力削減或格擋",
             "法力提升"
         ],
-        "source": "高塔-魔法",
+        "source": "高塔 - 魔法",
         "Release date": "2023-05-03",
         "star": 3,
         "power": 486,
@@ -28910,7 +28910,7 @@ window.allHeroes =
             "防禦增益",
             "嘲諷"
         ],
-        "source": "挑戰節-仙境",
+        "source": "挑戰節 I",
         "Release date": "2019-12-01",
         "star": 3,
         "power": 455,
@@ -28996,7 +28996,7 @@ window.allHeroes =
             "攻擊減益",
             "狙擊手"
         ],
-        "source": "挑戰節-星隕",
+        "source": "挑戰節 II",
         "Release date": "2021-06-10",
         "star": 3,
         "power": 477,
@@ -29177,7 +29177,7 @@ window.allHeroes =
             "生命強化",
             "最大生命削減"
         ],
-        "source": "聯盟-騎士衝擊",
+        "source": "聯盟 - 騎士衝擊",
         "Release date": "2024-01-10",
         "star": 3,
         "power": 490,
@@ -29271,7 +29271,7 @@ window.allHeroes =
             "凈化格擋者",
             "攻擊減益"
         ],
-        "source": "挑戰節-吟遊詩人",
+        "source": "挑戰節 II",
         "Release date": "2022-12-01",
         "star": 3,
         "power": 485,
@@ -29358,7 +29358,7 @@ window.allHeroes =
             "範圍攻擊 (打3)",
             "額外傷害"
         ],
-        "source": "月活動-戀愛季節",
+        "source": "月活動 - 戀愛季節",
         "Release date": "2023-02-14",
         "star": 3,
         "power": 486,
@@ -29543,7 +29543,7 @@ window.allHeroes =
             "防禦減益",
             "最大生命削減"
         ],
-        "source": "S3-瓦爾哈拉",
+        "source": "S3 - 瓦爾哈拉",
         "Release date": "2020-05-28",
         "star": 4,
         "power": 662,
@@ -29631,7 +29631,7 @@ window.allHeroes =
             "法力削減或格擋",
             "狙擊手"
         ],
-        "source": "S3-瓦爾哈拉",
+        "source": "S3 - 瓦爾哈拉",
         "Release date": "2023-03-13",
         "star": 4,
         "power": 684,
@@ -29724,7 +29724,7 @@ window.allHeroes =
             "復活",
             "治療"
         ],
-        "source": "高塔-魔法",
+        "source": "高塔 - 魔法",
         "Release date": "2021-09-15",
         "star": 4,
         "power": 678,
@@ -29817,7 +29817,7 @@ window.allHeroes =
             "法力提升",
             "反製小兵"
         ],
-        "source": "高塔-冥河",
+        "source": "高塔 - 冥河",
         "Release date": "2022-09-21",
         "star": 4,
         "power": 685,
@@ -29917,7 +29917,7 @@ window.allHeroes =
             "提供免疫",
             "法力生成增益"
         ],
-        "source": "S3-瓦爾哈拉",
+        "source": "S3 - 瓦爾哈拉",
         "Release date": "2020-02-27",
         "star": 4,
         "power": 660,
@@ -30008,7 +30008,7 @@ window.allHeroes =
             "防禦減益",
             "召喚小兵"
         ],
-        "source": "月活動-冬季",
+        "source": "月活動 - 冬季",
         "Release date": "2018-12-02",
         "star": 4,
         "power": 649,
@@ -30095,7 +30095,7 @@ window.allHeroes =
             "驅散",
             "狙擊手"
         ],
-        "source": "S1-經典",
+        "source": "S1 - 經典",
         "Release date": "2017-03-01",
         "star": 4,
         "power": 643,
@@ -30180,7 +30180,7 @@ window.allHeroes =
             "凈化",
             "狙擊手"
         ],
-        "source": "S1-經典",
+        "source": "S1 - 經典",
         "Release date": "2020-05-18",
         "star": 4,
         "power": 688,
@@ -30266,7 +30266,7 @@ window.allHeroes =
             "增益格擋者",
             "驅散"
         ],
-        "source": "S1-經典",
+        "source": "S1 - 經典",
         "Release date": "2022-12-26",
         "star": 4,
         "power": 734,
@@ -30353,7 +30353,7 @@ window.allHeroes =
             "額外傷害",
             "狙擊手"
         ],
-        "source": "S1-經典",
+        "source": "S1 - 經典",
         "Release date": "2024-01-22",
         "star": 4,
         "power": 746,
@@ -30444,7 +30444,7 @@ window.allHeroes =
             "驅散",
             "狙擊手"
         ],
-        "source": "S1-經典",
+        "source": "S1 - 經典",
         "Release date": "2025-01-14",
         "star": 4,
         "power": 759,
@@ -30535,7 +30535,7 @@ window.allHeroes =
             "增益格擋者",
             "額外傷害"
         ],
-        "source": "聯盟-騎士衝擊",
+        "source": "聯盟 - 騎士衝擊",
         "Release date": "2022-01-05",
         "star": 4,
         "power": 681,
@@ -30623,7 +30623,7 @@ window.allHeroes =
             "攻擊增益",
             "持續治療"
         ],
-        "source": "S2-亞特蘭蒂斯",
+        "source": "S2 - 亞特蘭蒂斯",
         "Release date": "2019-08-01",
         "star": 4,
         "power": 647,
@@ -30712,7 +30712,7 @@ window.allHeroes =
             "生命強化",
             "持續治療"
         ],
-        "source": "S2-亞特蘭蒂斯",
+        "source": "S2 - 亞特蘭蒂斯",
         "Release date": "2022-05-02",
         "star": 4,
         "power": 668,
@@ -30799,7 +30799,7 @@ window.allHeroes =
             "特殊治療",
             "反製小兵"
         ],
-        "source": "S2-亞特蘭蒂斯",
+        "source": "S2 - 亞特蘭蒂斯",
         "Release date": "2019-08-01",
         "star": 4,
         "power": 651,
@@ -30887,7 +30887,7 @@ window.allHeroes =
             "反製小兵",
             "狙擊手"
         ],
-        "source": "S2-亞特蘭蒂斯",
+        "source": "S2 - 亞特蘭蒂斯",
         "Release date": "2023-04-03",
         "star": 4,
         "power": 673,
@@ -30974,7 +30974,7 @@ window.allHeroes =
             "法力削減或格擋",
             "狙擊手"
         ],
-        "source": "挑戰節-肅煞森林",
+        "source": "挑戰節 I",
         "Release date": "2019-12-01",
         "star": 4,
         "power": 646,
@@ -31061,7 +31061,7 @@ window.allHeroes =
             "法力削減或格擋",
             "狙擊手"
         ],
-        "source": "挑戰節-肅煞森林",
+        "source": "挑戰節 I",
         "Release date": "2023-08-10",
         "star": 4,
         "power": 682,
@@ -31146,7 +31146,7 @@ window.allHeroes =
             "全體攻擊 (打5)",
             "對自身或友軍負面效果"
         ],
-        "source": "月活動-斯普林維爾",
+        "source": "月活動 - 斯普林維爾",
         "Release date": "2018-03-28",
         "star": 4,
         "power": 648,
@@ -31232,7 +31232,7 @@ window.allHeroes =
             "對自身或友軍負面效果",
             "狙擊手"
         ],
-        "source": "月活動-斯普林維爾",
+        "source": "月活動 - 斯普林維爾",
         "Release date": "2022-03-21",
         "star": 4,
         "power": 669,
@@ -31318,7 +31318,7 @@ window.allHeroes =
             "全體攻擊 (打5)",
             "傷害減免"
         ],
-        "source": "挑戰-石像鬼",
+        "source": "挑戰 - 石像鬼",
         "Release date": "2022-05-12",
         "star": 4,
         "power": 677,
@@ -31407,7 +31407,7 @@ window.allHeroes =
             "防禦增益",
             "治療"
         ],
-        "source": "S1-經典",
+        "source": "S1 - 經典",
         "Release date": "2017-03-01",
         "star": 4,
         "power": 643,
@@ -31493,7 +31493,7 @@ window.allHeroes =
             "治療",
             "生命強化"
         ],
-        "source": "S1-經典",
+        "source": "S1 - 經典",
         "Release date": "2020-05-18",
         "star": 4,
         "power": 690,
@@ -31578,7 +31578,7 @@ window.allHeroes =
             "防禦增益",
             "持續治療"
         ],
-        "source": "S1-經典",
+        "source": "S1 - 經典",
         "Release date": "2023-11-27",
         "star": 4,
         "power": 736,
@@ -31663,7 +31663,7 @@ window.allHeroes =
             "防禦增益",
             "治療"
         ],
-        "source": "S1-經典",
+        "source": "S1 - 經典",
         "Release date": "2024-05-31",
         "star": 4,
         "power": 748,
@@ -31752,7 +31752,7 @@ window.allHeroes =
             "治療",
             "反射"
         ],
-        "source": "S1-經典",
+        "source": "S1 - 經典",
         "Release date": "2025-06-18",
         "star": 4,
         "power": 761,
@@ -31934,7 +31934,7 @@ window.allHeroes =
             "全體攻擊 (打5)",
             "法力削減或格擋"
         ],
-        "source": "S1-經典",
+        "source": "S1 - 經典",
         "Release date": "2017-03-01",
         "star": 4,
         "power": 641,
@@ -32020,7 +32020,7 @@ window.allHeroes =
             "閃避",
             "法力提升"
         ],
-        "source": "S1-經典",
+        "source": "S1 - 經典",
         "Release date": "2020-05-18",
         "star": 4,
         "power": 686,
@@ -32105,7 +32105,7 @@ window.allHeroes =
             "全體攻擊 (打5)",
             "法力生成增益"
         ],
-        "source": "S1-經典",
+        "source": "S1 - 經典",
         "Release date": "2023-10-30",
         "star": 4,
         "power": 732,
@@ -32191,7 +32191,7 @@ window.allHeroes =
             "法力削減或格擋",
             "額外傷害"
         ],
-        "source": "S1-經典",
+        "source": "S1 - 經典",
         "Release date": "2024-05-06",
         "star": 4,
         "power": 744,
@@ -32281,7 +32281,7 @@ window.allHeroes =
             "繞過",
             "法力削減或格擋"
         ],
-        "source": "S1-經典",
+        "source": "S1 - 經典",
         "Release date": "2025-05-10",
         "star": 4,
         "power": 756,
@@ -32372,7 +32372,7 @@ window.allHeroes =
             "防禦減益",
             "狀態效果轉換"
         ],
-        "source": "挑戰節-星隕",
+        "source": "挑戰節 II",
         "Release date": "2021-06-10",
         "star": 4,
         "power": 676,
@@ -32458,7 +32458,7 @@ window.allHeroes =
             "驅散",
             "治療"
         ],
-        "source": "S1-經典",
+        "source": "S1 - 經典",
         "Release date": "2017-03-01",
         "star": 4,
         "power": 638,
@@ -32545,7 +32545,7 @@ window.allHeroes =
             "驅散",
             "持續治療"
         ],
-        "source": "S1-經典",
+        "source": "S1 - 經典",
         "Release date": "2020-01-20",
         "star": 4,
         "power": 683,
@@ -32633,7 +32633,7 @@ window.allHeroes =
             "驅散",
             "持續治療"
         ],
-        "source": "S1-經典",
+        "source": "S1 - 經典",
         "Release date": "2023-10-30",
         "star": 4,
         "power": 729,
@@ -32721,7 +32721,7 @@ window.allHeroes =
             "驅散",
             "治療"
         ],
-        "source": "S1-經典",
+        "source": "S1 - 經典",
         "Release date": "2024-01-22",
         "star": 4,
         "power": 741,
@@ -32812,7 +32812,7 @@ window.allHeroes =
             "治療",
             "反射"
         ],
-        "source": "S1-經典",
+        "source": "S1 - 經典",
         "Release date": "2025-03-11",
         "star": 4,
         "power": 753,
@@ -32901,7 +32901,7 @@ window.allHeroes =
             "法力生成增益",
             "召喚小兵"
         ],
-        "source": "月活動-卡勒瓦拉",
+        "source": "月活動 - 卡勒瓦拉",
         "Release date": "2022-06-20",
         "star": 4,
         "power": 682,
@@ -32990,7 +32990,7 @@ window.allHeroes =
             "法力生成增益",
             "召喚小兵"
         ],
-        "source": "月活動-卡勒瓦拉",
+        "source": "月活動 - 卡勒瓦拉",
         "Release date": "2023-08-07",
         "star": 4,
         "power": 706,
@@ -33080,7 +33080,7 @@ window.allHeroes =
             "法力削減或格擋",
             "狙擊手"
         ],
-        "source": "S6-深淵謎團",
+        "source": "S6 - 深淵謎團",
         "Release date": "2023-06-07",
         "star": 4,
         "power": 688,
@@ -33179,7 +33179,7 @@ window.allHeroes =
             "持續傷害",
             "特殊治療"
         ],
-        "source": "S6-深淵謎團",
+        "source": "S6 - 深淵謎團",
         "Release date": "2025-03-31",
         "star": 4,
         "power": 704,
@@ -33465,7 +33465,7 @@ window.allHeroes =
             "法力生成增益",
             "持續治療"
         ],
-        "source": "挑戰節-殺手",
+        "source": "挑戰節 II",
         "Release date": "2021-08-05",
         "star": 4,
         "power": 677,
@@ -33555,7 +33555,7 @@ window.allHeroes =
             "沈默",
             "狙擊手"
         ],
-        "source": "挑戰節-海盜",
+        "source": "挑戰節 I",
         "Release date": "2017-09-07",
         "star": 4,
         "power": 645,
@@ -33642,7 +33642,7 @@ window.allHeroes =
             "沈默",
             "狙擊手"
         ],
-        "source": "挑戰節-海盜",
+        "source": "挑戰節 I",
         "Release date": "2023-12-28",
         "star": 4,
         "power": 681,
@@ -33729,7 +33729,7 @@ window.allHeroes =
             "提供免疫",
             "特殊治療"
         ],
-        "source": "S5-沙丘",
+        "source": "S5 - 沙丘",
         "Release date": "2022-04-21",
         "star": 4,
         "power": 683,
@@ -33821,7 +33821,7 @@ window.allHeroes =
             "生命強化",
             "凈化"
         ],
-        "source": "S5-沙丘",
+        "source": "S5 - 沙丘",
         "Release date": "2024-10-05",
         "star": 4,
         "power": 699,
@@ -33914,7 +33914,7 @@ window.allHeroes =
             "生命強化",
             "法力生成增益"
         ],
-        "source": "聯盟-騎士衝擊",
+        "source": "聯盟 - 騎士衝擊",
         "Release date": "2024-01-10",
         "star": 4,
         "power": 692,
@@ -34002,7 +34002,7 @@ window.allHeroes =
             "全體攻擊 (打5)",
             "攻擊減益"
         ],
-        "source": "S1-經典",
+        "source": "S1 - 經典",
         "Release date": "2017-03-01",
         "star": 4,
         "power": 644,
@@ -34087,7 +34087,7 @@ window.allHeroes =
             "全體攻擊 (打5)",
             "攻擊減益"
         ],
-        "source": "S1-經典",
+        "source": "S1 - 經典",
         "Release date": "2020-01-20",
         "star": 4,
         "power": 688,
@@ -34172,7 +34172,7 @@ window.allHeroes =
             "全體攻擊 (打5)",
             "防禦減益"
         ],
-        "source": "S1-經典",
+        "source": "S1 - 經典",
         "Release date": "2023-04-17",
         "star": 4,
         "power": 735,
@@ -34258,7 +34258,7 @@ window.allHeroes =
             "攻擊減益",
             "額外傷害"
         ],
-        "source": "S1-經典",
+        "source": "S1 - 經典",
         "Release date": "2024-03-11",
         "star": 4,
         "power": 746,
@@ -34348,7 +34348,7 @@ window.allHeroes =
             "繞過",
             "攻擊減益"
         ],
-        "source": "S1-經典",
+        "source": "S1 - 經典",
         "Release date": "2025-04-08",
         "star": 4,
         "power": 759,
@@ -34438,7 +34438,7 @@ window.allHeroes =
             "沈默",
             "狙擊手"
         ],
-        "source": "S4-地底荒野",
+        "source": "S4 - 地底荒野",
         "Release date": "2021-03-25",
         "star": 4,
         "power": 677,
@@ -34528,7 +34528,7 @@ window.allHeroes =
             "沈默",
             "狙擊手"
         ],
-        "source": "S4-地底荒野",
+        "source": "S4 - 地底荒野",
         "Release date": "2023-12-07",
         "star": 4,
         "power": 692,
@@ -34620,7 +34620,7 @@ window.allHeroes =
             "持續傷害",
             "持續治療"
         ],
-        "source": "聯盟-火槍手",
+        "source": "聯盟 - 火槍手",
         "Release date": "2022-12-14",
         "star": 4,
         "power": 686,
@@ -34711,7 +34711,7 @@ window.allHeroes =
             "攻擊減益",
             "狙擊手"
         ],
-        "source": "聯盟-騎士衝擊",
+        "source": "聯盟 - 騎士衝擊",
         "Release date": "2021-10-13",
         "star": 4,
         "power": 680,
@@ -34798,7 +34798,7 @@ window.allHeroes =
             "全體攻擊 (打5)",
             "反射"
         ],
-        "source": "S5-沙丘",
+        "source": "S5 - 沙丘",
         "Release date": "2022-11-24",
         "star": 5,
         "power": 866,
@@ -34888,7 +34888,7 @@ window.allHeroes =
             "全體攻擊 (打5)",
             "反射"
         ],
-        "source": "S5-沙丘",
+        "source": "S5 - 沙丘",
         "Release date": "2024-03-04",
         "star": 5,
         "power": 1211,
@@ -35262,7 +35262,7 @@ window.allHeroes =
             "增益格擋者",
             "對自身或友軍負面效果"
         ],
-        "source": "月活動-斯普林維爾",
+        "source": "月活動 - 斯普林維爾",
         "Release date": "2023-03-27",
         "star": 5,
         "power": 865,
@@ -35350,7 +35350,7 @@ window.allHeroes =
             "增益格擋者",
             "對自身或友軍負面效果"
         ],
-        "source": "月活動-斯普林維爾",
+        "source": "月活動 - 斯普林維爾",
         "Release date": "2024-03-18",
         "star": 5,
         "power": 986,
@@ -35439,7 +35439,7 @@ window.allHeroes =
             "召喚小兵",
             "傷害減免"
         ],
-        "source": "挑戰-石像鬼",
+        "source": "挑戰 - 石像鬼",
         "Release date": "2022-05-12",
         "star": 5,
         "power": 841,
@@ -35528,7 +35528,7 @@ window.allHeroes =
             "召喚巨型小兵",
             "沈睡"
         ],
-        "source": "挑戰-歌劇秘辛",
+        "source": "挑戰 - 歌劇秘辛",
         "Release date": "2024-08-22",
         "star": 5,
         "power": 1090,
@@ -35621,7 +35621,7 @@ window.allHeroes =
             "狙擊手",
             "持續治療"
         ],
-        "source": "聯盟-火槍手",
+        "source": "聯盟 - 火槍手",
         "Release date": "2022-12-14",
         "star": 5,
         "power": 864,
@@ -35712,7 +35712,7 @@ window.allHeroes =
             "復活",
             "額外傷害"
         ],
-        "source": "S2-亞特蘭蒂斯",
+        "source": "S2 - 亞特蘭蒂斯",
         "Release date": "2019-02-01",
         "star": 5,
         "power": 772,
@@ -35799,7 +35799,7 @@ window.allHeroes =
             "復活",
             "額外傷害"
         ],
-        "source": "S2-亞特蘭蒂斯",
+        "source": "S2 - 亞特蘭蒂斯",
         "Release date": "2023-04-03",
         "star": 5,
         "power": 942,
@@ -35890,7 +35890,7 @@ window.allHeroes =
             "提供免疫",
             "對自身或友軍負面效果"
         ],
-        "source": "神秘-暗影",
+        "source": "神秘 - 暗影",
         "Release date": "2024-04-11",
         "star": 5,
         "power": 1105,
@@ -35984,7 +35984,7 @@ window.allHeroes =
             "召喚小兵",
             "特殊治療"
         ],
-        "source": "月活動-冬季",
+        "source": "月活動 - 冬季",
         "Release date": "2022-12-01",
         "star": 5,
         "power": 851,
@@ -36353,7 +36353,7 @@ window.allHeroes =
             "反製小兵",
             "繞過"
         ],
-        "source": "挑戰節-吟遊詩人",
+        "source": "挑戰節 II",
         "Release date": "2024-11-14",
         "star": 5,
         "power": 1147,
@@ -36629,7 +36629,7 @@ window.allHeroes =
             "狙擊手",
             "反製小兵"
         ],
-        "source": "高塔-忍者",
+        "source": "高塔 - 忍者",
         "Release date": "2024-08-27",
         "star": 5,
         "power": 1093,
@@ -36911,7 +36911,7 @@ window.allHeroes =
             "攻擊減益",
             "疊加"
         ],
-        "source": "S4-地底荒野",
+        "source": "S4 - 地底荒野",
         "Release date": "2022-01-27",
         "star": 5,
         "power": 815,
@@ -36999,7 +36999,7 @@ window.allHeroes =
             "攻擊減益",
             "疊加"
         ],
-        "source": "S4-地底荒野",
+        "source": "S4 - 地底荒野",
         "Release date": "2024-08-01",
         "star": 5,
         "power": 1031,
@@ -37185,7 +37185,7 @@ window.allHeroes =
             "狙擊手",
             "法力削減或格擋"
         ],
-        "source": "高塔-魔法",
+        "source": "高塔 - 魔法",
         "Release date": "2021-09-15",
         "star": 5,
         "power": 813,
@@ -37282,7 +37282,7 @@ window.allHeroes =
             "繞過",
             "防禦減益"
         ],
-        "source": "S7-火焰與冰霜的寶藏",
+        "source": "S7 - 火焰與冰霜的寶藏",
         "Release date": "2025-01-26",
         "star": 5,
         "power": 1173,
@@ -37378,7 +37378,7 @@ window.allHeroes =
             "疊加",
             "攻擊增益"
         ],
-        "source": "挑戰-歌劇秘辛",
+        "source": "挑戰 - 歌劇秘辛",
         "Release date": "2024-03-21",
         "star": 5,
         "power": 1022,
@@ -37564,7 +37564,7 @@ window.allHeroes =
             "傷害減免",
             "嘲諷"
         ],
-        "source": "月活動-戀愛季節",
+        "source": "月活動 - 戀愛季節",
         "Release date": "2025-02-14",
         "star": 5,
         "power": 1163,
@@ -37653,7 +37653,7 @@ window.allHeroes =
             "法力削減或格擋",
             "繞過"
         ],
-        "source": "挑戰-貝武夫",
+        "source": "挑戰 - 貝武夫",
         "Release date": "2025-03-13",
         "star": 5,
         "power": 1188,
@@ -37744,7 +37744,7 @@ window.allHeroes =
             "繞過",
             "凈化格擋者"
         ],
-        "source": "月活動-莫洛維亞",
+        "source": "月活動 - 莫洛維亞",
         "Release date": "2023-09-25",
         "star": 5,
         "power": 933,
@@ -37834,7 +37834,7 @@ window.allHeroes =
             "反製小兵",
             "狙擊手"
         ],
-        "source": "挑戰節-星隕",
+        "source": "挑戰節 II",
         "Release date": "2021-06-10",
         "star": 5,
         "power": 806,
@@ -37922,7 +37922,7 @@ window.allHeroes =
             "反擊",
             "召喚小兵"
         ],
-        "source": "高塔-忍者",
+        "source": "高塔 - 忍者",
         "Release date": "2023-01-11",
         "star": 5,
         "power": 866,
@@ -38018,7 +38018,7 @@ window.allHeroes =
             "範圍攻擊 (打3)",
             "增益格擋者"
         ],
-        "source": "S5-沙丘",
+        "source": "S5 - 沙丘",
         "Release date": "2022-04-21",
         "star": 5,
         "power": 858,
@@ -38108,7 +38108,7 @@ window.allHeroes =
             "增益格擋者",
             "驅散"
         ],
-        "source": "S5-沙丘",
+        "source": "S5 - 沙丘",
         "Release date": "2025-01-20",
         "star": 5,
         "power": 1199,
@@ -38199,7 +38199,7 @@ window.allHeroes =
             "範圍攻擊 (打3)",
             "特殊治療"
         ],
-        "source": "S1-經典",
+        "source": "S1 - 經典",
         "Release date": "2017-03-01",
         "star": 5,
         "power": 758,
@@ -38285,7 +38285,7 @@ window.allHeroes =
             "特殊治療",
             "治療削減"
         ],
-        "source": "S1-經典",
+        "source": "S1 - 經典",
         "Release date": "2020-05-18",
         "star": 5,
         "power": 852,
@@ -38370,7 +38370,7 @@ window.allHeroes =
             "全體攻擊 (打5)",
             "治療削減"
         ],
-        "source": "S1-經典",
+        "source": "S1 - 經典",
         "Release date": "2022-09-05",
         "star": 5,
         "power": 968,
@@ -38456,7 +38456,7 @@ window.allHeroes =
             "額外傷害",
             "特殊治療"
         ],
-        "source": "S1-經典",
+        "source": "S1 - 經典",
         "Release date": "2023-11-27",
         "star": 5,
         "power": 1135,
@@ -38545,7 +38545,7 @@ window.allHeroes =
             "繞過",
             "特殊治療"
         ],
-        "source": "S1-經典",
+        "source": "S1 - 經典",
         "Release date": "2025-01-14",
         "star": 5,
         "power": 1242,
@@ -38729,7 +38729,7 @@ window.allHeroes =
             "法力提升",
             "狀態效果轉換"
         ],
-        "source": "高塔-魔法",
+        "source": "高塔 - 魔法",
         "Release date": "2025-04-17",
         "star": 5,
         "power": 1200,
@@ -38825,7 +38825,7 @@ window.allHeroes =
             "召喚小兵",
             "召喚惡魔"
         ],
-        "source": "額外抽獎-秘密召喚",
+        "source": "額外抽獎 - 秘密召喚",
         "Release date": "2022-11-22",
         "star": 5,
         "power": 853,
@@ -39103,7 +39103,7 @@ window.allHeroes =
             "鬼魂形態與隱藏",
             "繞過"
         ],
-        "source": "額外抽獎-秘密召喚",
+        "source": "額外抽獎 - 秘密召喚",
         "Release date": "2025-05-31",
         "star": 5,
         "power": 1200,
@@ -39204,7 +39204,7 @@ window.allHeroes =
             "繞過",
             "反製小兵"
         ],
-        "source": "S7-火焰與冰霜的寶藏",
+        "source": "S7 - 火焰與冰霜的寶藏",
         "Release date": "2025-06-13",
         "star": 5,
         "power": 1211,
@@ -39299,7 +39299,7 @@ window.allHeroes =
             "反製惡魔",
             "持續治療"
         ],
-        "source": "挑戰-眾神狂歡節",
+        "source": "挑戰 - 眾神狂歡節",
         "Release date": "2023-11-02",
         "star": 5,
         "power": 952,
@@ -39669,7 +39669,7 @@ window.allHeroes =
             "凈化",
             "額外傷害"
         ],
-        "source": "月活動-莫洛維亞",
+        "source": "月活動 - 莫洛維亞",
         "Release date": "2020-10-26",
         "star": 5,
         "power": 795,
@@ -39758,7 +39758,7 @@ window.allHeroes =
             "凈化",
             "防禦減益"
         ],
-        "source": "月活動-莫洛維亞",
+        "source": "月活動 - 莫洛維亞",
         "Release date": "2021-10-04",
         "star": 5,
         "power": 944,
@@ -39847,7 +39847,7 @@ window.allHeroes =
             "防禦減益",
             "額外傷害"
         ],
-        "source": "S3-瓦爾哈拉",
+        "source": "S3 - 瓦爾哈拉",
         "Release date": "2020-08-27",
         "star": 5,
         "power": 786,
@@ -39934,7 +39934,7 @@ window.allHeroes =
             "額外傷害",
             "防禦減益"
         ],
-        "source": "S3-瓦爾哈拉",
+        "source": "S3 - 瓦爾哈拉",
         "Release date": "2023-01-16",
         "star": 5,
         "power": 983,
@@ -40024,7 +40024,7 @@ window.allHeroes =
             "法力提升",
             "法力削減或格擋"
         ],
-        "source": "挑戰節-肅煞森林",
+        "source": "挑戰節 I",
         "Release date": "2023-08-10",
         "star": 5,
         "power": 931,
@@ -40302,7 +40302,7 @@ window.allHeroes =
             "疊加",
             "持續治療"
         ],
-        "source": "S6-深淵謎團",
+        "source": "S6 - 深淵謎團",
         "Release date": "2023-06-07",
         "star": 5,
         "power": 933,
@@ -40404,7 +40404,7 @@ window.allHeroes =
             "持續治療",
             "疊加"
         ],
-        "source": "S6-深淵謎團",
+        "source": "S6 - 深淵謎團",
         "Release date": "2024-07-27",
         "star": 5,
         "power": 1161,
@@ -40502,7 +40502,7 @@ window.allHeroes =
             "持續治療",
             "狙擊手"
         ],
-        "source": "S4-地底荒野",
+        "source": "S4 - 地底荒野",
         "Release date": "2021-04-22",
         "star": 5,
         "power": 807,
@@ -40591,7 +40591,7 @@ window.allHeroes =
             "攻擊增益",
             "額外傷害"
         ],
-        "source": "S4-地底荒野",
+        "source": "S4 - 地底荒野",
         "Release date": "2023-06-22",
         "star": 5,
         "power": 1021,
@@ -40684,7 +40684,7 @@ window.allHeroes =
             "提供免疫",
             "最大生命削減"
         ],
-        "source": "挑戰-石像鬼",
+        "source": "挑戰 - 石像鬼",
         "Release date": "2024-02-27",
         "star": 5,
         "power": 1048,
@@ -40777,7 +40777,7 @@ window.allHeroes =
             "狙擊手",
             "額外傷害"
         ],
-        "source": "S6-深淵謎團",
+        "source": "S6 - 深淵謎團",
         "Release date": "2023-08-30",
         "star": 5,
         "power": 976,
@@ -40879,7 +40879,7 @@ window.allHeroes =
             "狙擊手",
             "額外傷害"
         ],
-        "source": "S6-深淵謎團",
+        "source": "S6 - 深淵謎團",
         "Release date": "2025-06-26",
         "star": 5,
         "power": 1214,
@@ -40980,7 +40980,7 @@ window.allHeroes =
             "連鎖與隨機攻擊",
             "召喚小兵"
         ],
-        "source": "月活動-冬季",
+        "source": "月活動 - 冬季",
         "Release date": "2023-12-01",
         "star": 5,
         "power": 949,
@@ -41259,7 +41259,7 @@ window.allHeroes =
             "防禦減益",
             "復活"
         ],
-        "source": "挑戰節-阿瓦隆",
+        "source": "挑戰節 I",
         "Release date": "2023-04-20",
         "star": 5,
         "power": 864,
@@ -41526,7 +41526,7 @@ window.allHeroes =
             "持續治療",
             "防禦減益"
         ],
-        "source": "挑戰-貝武夫",
+        "source": "挑戰 - 貝武夫",
         "Release date": "2025-02-13",
         "star": 5,
         "power": 1183,
@@ -41621,7 +41621,7 @@ window.allHeroes =
             "閃避",
             "反製小兵"
         ],
-        "source": "聯盟-飛蛾",
+        "source": "聯盟 - 飛蛾",
         "Release date": "2025-01-23",
         "star": 5,
         "power": 1178,
@@ -41895,7 +41895,7 @@ window.allHeroes =
             "凈化",
             "狀態效果格擋"
         ],
-        "source": "挑戰節-守護者",
+        "source": "挑戰節 I",
         "Release date": "2020-01-08",
         "star": 5,
         "power": 780,
@@ -42169,7 +42169,7 @@ window.allHeroes =
             "生命強化",
             "復活"
         ],
-        "source": "S3-瓦爾哈拉",
+        "source": "S3 - 瓦爾哈拉",
         "Release date": "2020-02-27",
         "star": 5,
         "power": 788,
@@ -42258,7 +42258,7 @@ window.allHeroes =
             "復活",
             "持續治療"
         ],
-        "source": "S3-瓦爾哈拉",
+        "source": "S3 - 瓦爾哈拉",
         "Release date": "2022-10-24",
         "star": 5,
         "power": 988,
@@ -42344,7 +42344,7 @@ window.allHeroes =
             "全體攻擊 (打5)",
             "攻擊減益"
         ],
-        "source": "S1-經典",
+        "source": "S1 - 經典",
         "Release date": "2017-03-01",
         "star": 5,
         "power": 753,
@@ -42429,7 +42429,7 @@ window.allHeroes =
             "全體攻擊 (打5)",
             "攻擊減益"
         ],
-        "source": "S1-經典",
+        "source": "S1 - 經典",
         "Release date": "2020-01-20",
         "star": 5,
         "power": 849,
@@ -42518,7 +42518,7 @@ window.allHeroes =
             "防禦減益",
             "持續傷害"
         ],
-        "source": "S1-經典",
+        "source": "S1 - 經典",
         "Release date": "2022-10-31",
         "star": 5,
         "power": 966,
@@ -42606,7 +42606,7 @@ window.allHeroes =
             "攻擊減益",
             "額外傷害"
         ],
-        "source": "S1-經典",
+        "source": "S1 - 經典",
         "Release date": "2024-07-16",
         "star": 5,
         "power": 1131,
@@ -42697,7 +42697,7 @@ window.allHeroes =
             "防禦增益",
             "生命強化"
         ],
-        "source": "聯盟-騎士衝擊",
+        "source": "聯盟 - 騎士衝擊",
         "Release date": "2024-06-05",
         "star": 5,
         "power": 1079,
@@ -42788,7 +42788,7 @@ window.allHeroes =
             "特殊治療",
             "治療削減"
         ],
-        "source": "月活動-卡勒瓦拉",
+        "source": "月活動 - 卡勒瓦拉",
         "Release date": "2022-06-20",
         "star": 5,
         "power": 836,
@@ -42882,7 +42882,7 @@ window.allHeroes =
             "生命強化",
             "反製小兵"
         ],
-        "source": "高塔-忍者",
+        "source": "高塔 - 忍者",
         "Release date": "2024-12-05",
         "star": 5,
         "power": 1130,
@@ -42983,7 +42983,7 @@ window.allHeroes =
             "法力削減或格擋",
             "全體攻擊 (打5)"
         ],
-        "source": "高塔-忍者",
+        "source": "高塔 - 忍者",
         "Release date": "2020-10-13",
         "star": 5,
         "power": 798,
@@ -43078,7 +43078,7 @@ window.allHeroes =
             "全體攻擊 (打5)",
             "防禦增益"
         ],
-        "source": "S1-經典",
+        "source": "S1 - 經典",
         "Release date": "2017-03-01",
         "star": 5,
         "power": 757,
@@ -43164,7 +43164,7 @@ window.allHeroes =
             "閃避",
             "召喚小兵"
         ],
-        "source": "S1-經典",
+        "source": "S1 - 經典",
         "Release date": "2020-05-18",
         "star": 5,
         "power": 851,
@@ -43251,7 +43251,7 @@ window.allHeroes =
             "召喚小兵",
             "全體攻擊 (打5)"
         ],
-        "source": "S1-經典",
+        "source": "S1 - 經典",
         "Release date": "2023-04-17",
         "star": 5,
         "power": 966,
@@ -43338,7 +43338,7 @@ window.allHeroes =
             "防禦增益",
             "額外傷害"
         ],
-        "source": "S1-經典",
+        "source": "S1 - 經典",
         "Release date": "2024-10-06",
         "star": 5,
         "power": 1133,
@@ -43706,7 +43706,7 @@ window.allHeroes =
             "凈化",
             "持續傷害"
         ],
-        "source": "挑戰節-海盜",
+        "source": "挑戰節 I",
         "Release date": "2017-09-07",
         "star": 5,
         "power": 765,
@@ -43793,7 +43793,7 @@ window.allHeroes =
             "凈化",
             "持續傷害"
         ],
-        "source": "挑戰節-海盜",
+        "source": "挑戰節 I",
         "Release date": "2023-12-28",
         "star": 5,
         "power": 956,
@@ -43883,7 +43883,7 @@ window.allHeroes =
             "法力削減或格擋",
             "召喚小兵"
         ],
-        "source": "挑戰節-阿瓦隆",
+        "source": "挑戰節 I",
         "Release date": "2019-09-12",
         "star": 5,
         "power": 780,
@@ -43970,7 +43970,7 @@ window.allHeroes =
             "法力削減或格擋",
             "召喚小兵"
         ],
-        "source": "挑戰節-阿瓦隆",
+        "source": "挑戰節 I",
         "Release date": "2021-12-15",
         "star": 5,
         "power": 977,
@@ -44333,7 +44333,7 @@ window.allHeroes =
         "skill_types": [
             "狙擊手"
         ],
-        "source": "S1-經典",
+        "source": "S1 - 經典",
         "Release date": "2017-03-01",
         "star": 5,
         "power": 755,
@@ -44417,7 +44417,7 @@ window.allHeroes =
             "法力削減或格擋",
             "狙擊手"
         ],
-        "source": "S1-經典",
+        "source": "S1 - 經典",
         "Release date": "2020-01-20",
         "star": 5,
         "power": 849,
@@ -44502,7 +44502,7 @@ window.allHeroes =
             "沈默",
             "狙擊手"
         ],
-        "source": "S1-經典",
+        "source": "S1 - 經典",
         "Release date": "2023-04-17",
         "star": 5,
         "power": 964,
@@ -44586,7 +44586,7 @@ window.allHeroes =
             "額外傷害",
             "狙擊手"
         ],
-        "source": "S1-經典",
+        "source": "S1 - 經典",
         "Release date": "2024-02-12",
         "star": 5,
         "power": 1130,
@@ -44673,7 +44673,7 @@ window.allHeroes =
             "繞過",
             "狙擊手"
         ],
-        "source": "S1-經典",
+        "source": "S1 - 經典",
         "Release date": "2025-05-10",
         "star": 5,
         "power": 1237,
@@ -44766,7 +44766,7 @@ window.allHeroes =
             "閃避",
             "反製小兵"
         ],
-        "source": "聯盟-飛蛾",
+        "source": "聯盟 - 飛蛾",
         "Release date": "2025-06-02",
         "star": 5,
         "power": 1206,
@@ -45042,7 +45042,7 @@ window.allHeroes =
             "凈化",
             "生命強化"
         ],
-        "source": "S4-地底荒野",
+        "source": "S4 - 地底荒野",
         "Release date": "2021-11-04",
         "star": 5,
         "power": 810,
@@ -45138,7 +45138,7 @@ window.allHeroes =
             "凈化",
             "生命強化"
         ],
-        "source": "S4-地底荒野",
+        "source": "S4 - 地底荒野",
         "Release date": "2024-08-29",
         "star": 5,
         "power": 1026,
@@ -45230,7 +45230,7 @@ window.allHeroes =
             "攻擊減益",
             "防禦減益"
         ],
-        "source": "S5-沙丘",
+        "source": "S5 - 沙丘",
         "Release date": "2022-09-29",
         "star": 5,
         "power": 865,
@@ -45321,7 +45321,7 @@ window.allHeroes =
             "攻擊減益",
             "防禦減益"
         ],
-        "source": "S5-沙丘",
+        "source": "S5 - 沙丘",
         "Release date": "2024-02-05",
         "star": 5,
         "power": 1209,
@@ -45595,7 +45595,7 @@ window.allHeroes =
             "治療",
             "召喚小兵"
         ],
-        "source": "挑戰節-強大寵物",
+        "source": "挑戰節 II",
         "Release date": "2022-11-03",
         "star": 5,
         "power": 875,
@@ -45686,7 +45686,7 @@ window.allHeroes =
             "額外傷害",
             "持續傷害"
         ],
-        "source": "月活動-海灘派對",
+        "source": "月活動 - 海灘派對",
         "Release date": "2024-06-03",
         "star": 5,
         "power": 1018,
@@ -45778,7 +45778,7 @@ window.allHeroes =
             "提供免疫",
             "範圍攻擊 (打3)"
         ],
-        "source": "挑戰-石像鬼",
+        "source": "挑戰 - 石像鬼",
         "Release date": "2024-05-16",
         "star": 5,
         "power": 1049,
@@ -46048,7 +46048,7 @@ window.allHeroes =
             "防禦增益",
             "持續傷害"
         ],
-        "source": "挑戰節-阿瓦隆",
+        "source": "挑戰節 I",
         "Release date": "2018-01-05",
         "star": 5,
         "power": 765,
@@ -46135,7 +46135,7 @@ window.allHeroes =
             "召喚小兵",
             "復活"
         ],
-        "source": "月活動-冬季",
+        "source": "月活動 - 冬季",
         "Release date": "2018-12-02",
         "star": 5,
         "power": 770,
@@ -46223,7 +46223,7 @@ window.allHeroes =
             "召喚小兵",
             "復活"
         ],
-        "source": "月活動-冬季",
+        "source": "月活動 - 冬季",
         "Release date": "2021-12-01",
         "star": 5,
         "power": 996,
@@ -46404,7 +46404,7 @@ window.allHeroes =
             "生命強化",
             "法力生成增益"
         ],
-        "source": "高塔-忍者",
+        "source": "高塔 - 忍者",
         "Release date": "2023-04-05",
         "star": 5,
         "power": 873,
@@ -46689,7 +46689,7 @@ window.allHeroes =
             "持續傷害",
             "防禦減益"
         ],
-        "source": "S7-火焰與冰霜的寶藏",
+        "source": "S7 - 火焰與冰霜的寶藏",
         "Release date": "2024-12-03",
         "star": 5,
         "power": 1165,
@@ -46785,7 +46785,7 @@ window.allHeroes =
             "閃避",
             "對自身或友軍負面效果"
         ],
-        "source": "神秘-暗影",
+        "source": "神秘 - 暗影",
         "Release date": "2025-02-06",
         "star": 5,
         "power": 1170,
@@ -46969,7 +46969,7 @@ window.allHeroes =
             "持續傷害",
             "狙擊手"
         ],
-        "source": "高塔-忍者",
+        "source": "高塔 - 忍者",
         "Release date": "2022-02-02",
         "star": 5,
         "power": 818,
@@ -47067,7 +47067,7 @@ window.allHeroes =
             "驅散",
             "狙擊手"
         ],
-        "source": "S4-地底荒野",
+        "source": "S4 - 地底荒野",
         "Release date": "2021-03-25",
         "star": 5,
         "power": 807,
@@ -47159,7 +47159,7 @@ window.allHeroes =
             "額外傷害",
             "攻擊增益"
         ],
-        "source": "S4-地底荒野",
+        "source": "S4 - 地底荒野",
         "Release date": "2023-05-25",
         "star": 5,
         "power": 1020,
@@ -47346,7 +47346,7 @@ window.allHeroes =
             "舞者",
             "復活"
         ],
-        "source": "挑戰-歌劇秘辛",
+        "source": "挑戰 - 歌劇秘辛",
         "Release date": "2024-01-25",
         "star": 5,
         "power": 996,
@@ -47442,7 +47442,7 @@ window.allHeroes =
             "攻擊增益",
             "反製小兵"
         ],
-        "source": "月活動-農曆新年",
+        "source": "月活動 - 農曆新年",
         "Release date": "2024-02-08",
         "star": 5,
         "power": 983,
@@ -47534,7 +47534,7 @@ window.allHeroes =
             "法力生成增益",
             "嘲諷"
         ],
-        "source": "聯盟-火槍手",
+        "source": "聯盟 - 火槍手",
         "Release date": "2022-12-14",
         "star": 5,
         "power": 877,
@@ -47625,7 +47625,7 @@ window.allHeroes =
             "攻擊增益",
             "持續治療"
         ],
-        "source": "聯盟-騎士衝擊",
+        "source": "聯盟 - 騎士衝擊",
         "Release date": "2021-10-13",
         "star": 5,
         "power": 816,
@@ -47713,7 +47713,7 @@ window.allHeroes =
             "攻擊增益",
             "持續治療"
         ],
-        "source": "聯盟-騎士衝擊",
+        "source": "聯盟 - 騎士衝擊",
         "Release date": "2024-12-17",
         "star": 5,
         "power": 1148,
@@ -47805,7 +47805,7 @@ window.allHeroes =
             "攻擊增益",
             "治療"
         ],
-        "source": "S3-瓦爾哈拉",
+        "source": "S3 - 瓦爾哈拉",
         "Release date": "2020-02-27",
         "star": 5,
         "power": 785,
@@ -47892,7 +47892,7 @@ window.allHeroes =
             "攻擊增益",
             "持續治療"
         ],
-        "source": "S3-瓦爾哈拉",
+        "source": "S3 - 瓦爾哈拉",
         "Release date": "2023-09-25",
         "star": 5,
         "power": 982,
@@ -47979,7 +47979,7 @@ window.allHeroes =
             "治療",
             "復活"
         ],
-        "source": "高塔-貓頭鷹",
+        "source": "高塔 - 貓頭鷹",
         "Release date": "2023-12-20",
         "star": 5,
         "power": 984,
@@ -48259,7 +48259,7 @@ window.allHeroes =
             "凈化格擋者",
             "對自身或友軍負面效果"
         ],
-        "source": "月活動-斯普林維爾",
+        "source": "月活動 - 斯普林維爾",
         "Release date": "2025-03-31",
         "star": 5,
         "power": 1169,
@@ -48625,7 +48625,7 @@ window.allHeroes =
             "召喚惡魔",
             "持續傷害"
         ],
-        "source": "挑戰節-強大寵物",
+        "source": "挑戰節 II",
         "Release date": "2023-05-18",
         "star": 5,
         "power": 878,
@@ -48716,7 +48716,7 @@ window.allHeroes =
             "召喚惡魔",
             "持續傷害"
         ],
-        "source": "S6-深淵謎團",
+        "source": "S6 - 深淵謎團",
         "Release date": "2024-02-01",
         "star": 5,
         "power": 998,
@@ -48814,7 +48814,7 @@ window.allHeroes =
             "召喚惡魔",
             "持續傷害"
         ],
-        "source": "S6-深淵謎團",
+        "source": "S6 - 深淵謎團",
         "Release date": "2025-02-03",
         "star": 5,
         "power": 1246,
@@ -49281,7 +49281,7 @@ window.allHeroes =
             "額外傷害",
             "狙擊手"
         ],
-        "source": "高塔-忍者",
+        "source": "高塔 - 忍者",
         "Release date": "2023-07-26",
         "star": 5,
         "power": 1006,
@@ -49380,7 +49380,7 @@ window.allHeroes =
             "攻擊增益",
             "持續治療"
         ],
-        "source": "S2-亞特蘭蒂斯",
+        "source": "S2 - 亞特蘭蒂斯",
         "Release date": "2019-08-01",
         "star": 5,
         "power": 773,
@@ -49465,7 +49465,7 @@ window.allHeroes =
             "攻擊增益",
             "生命強化"
         ],
-        "source": "S2-亞特蘭蒂斯",
+        "source": "S2 - 亞特蘭蒂斯",
         "Release date": "2022-12-12",
         "star": 5,
         "power": 944,
@@ -49554,7 +49554,7 @@ window.allHeroes =
             "沈睡",
             "全體攻擊 (打5)"
         ],
-        "source": "聯盟-騎士衝擊",
+        "source": "聯盟 - 騎士衝擊",
         "Release date": "2023-10-18",
         "star": 5,
         "power": 980,
@@ -49747,7 +49747,7 @@ window.allHeroes =
             "疊加",
             "法力削減或格擋"
         ],
-        "source": "高塔-魔法",
+        "source": "高塔 - 魔法",
         "Release date": "2023-05-03",
         "star": 5,
         "power": 890,
@@ -49840,7 +49840,7 @@ window.allHeroes =
             "範圍攻擊 (打3)",
             "增益竊取者"
         ],
-        "source": "挑戰節-仙境",
+        "source": "挑戰節 I",
         "Release date": "2019-02-14",
         "star": 5,
         "power": 768,
@@ -49927,7 +49927,7 @@ window.allHeroes =
             "增益竊取者",
             "召喚小兵"
         ],
-        "source": "挑戰節-仙境",
+        "source": "挑戰節 I",
         "Release date": "2024-04-18",
         "star": 5,
         "power": 963,
@@ -50114,7 +50114,7 @@ window.allHeroes =
             "治療",
             "法力提升"
         ],
-        "source": "挑戰節-惡棍",
+        "source": "挑戰節 II",
         "Release date": "2021-02-11",
         "star": 5,
         "power": 800,
@@ -50203,7 +50203,7 @@ window.allHeroes =
             "生命強化",
             "法力提升"
         ],
-        "source": "挑戰節-惡棍",
+        "source": "挑戰節 II",
         "Release date": "2025-06-15",
         "star": 5,
         "power": 1196,
@@ -50291,7 +50291,7 @@ window.allHeroes =
             "範圍攻擊 (打3)",
             "攻擊減益"
         ],
-        "source": "月活動-卡勒瓦拉",
+        "source": "月活動 - 卡勒瓦拉",
         "Release date": "2022-06-20",
         "star": 5,
         "power": 837,
@@ -50378,7 +50378,7 @@ window.allHeroes =
             "範圍攻擊 (打3)",
             "攻擊減益"
         ],
-        "source": "月活動-卡勒瓦拉",
+        "source": "月活動 - 卡勒瓦拉",
         "Release date": "2024-07-22",
         "star": 5,
         "power": 1083,
@@ -50467,7 +50467,7 @@ window.allHeroes =
             "持續傷害",
             "攻擊減益"
         ],
-        "source": "高塔-貓頭鷹",
+        "source": "高塔 - 貓頭鷹",
         "Release date": "2024-03-13",
         "star": 5,
         "power": 1047,
@@ -50652,7 +50652,7 @@ window.allHeroes =
             "攻擊減益",
             "狙擊手"
         ],
-        "source": "挑戰節-吟遊詩人",
+        "source": "挑戰節 II",
         "Release date": "2022-08-11",
         "star": 5,
         "power": 869,
@@ -50838,7 +50838,7 @@ window.allHeroes =
             "攻擊增益",
             "法力腐敗"
         ],
-        "source": "聯盟-騎士衝擊",
+        "source": "聯盟 - 騎士衝擊",
         "Release date": "2023-10-18",
         "star": 5,
         "power": 980,
@@ -50929,7 +50929,7 @@ window.allHeroes =
             "反射",
             "反製小兵"
         ],
-        "source": "月活動-農曆新年",
+        "source": "月活動 - 農曆新年",
         "Release date": "2025-01-27",
         "star": 5,
         "power": 1154,
@@ -51021,7 +51021,7 @@ window.allHeroes =
             "持續傷害",
             "治療削減"
         ],
-        "source": "月活動-飛沙帝國",
+        "source": "月活動 - 飛沙帝國",
         "Release date": "2018-06-21",
         "star": 5,
         "power": 770,
@@ -51112,7 +51112,7 @@ window.allHeroes =
             "持續傷害",
             "法力生成增益"
         ],
-        "source": "月活動-飛沙帝國",
+        "source": "月活動 - 飛沙帝國",
         "Release date": "2021-06-21",
         "star": 5,
         "power": 941,
@@ -51202,7 +51202,7 @@ window.allHeroes =
             "狙擊手",
             "對自身或友軍負面效果"
         ],
-        "source": "神秘-暗影",
+        "source": "神秘 - 暗影",
         "Release date": "2024-06-30",
         "star": 5,
         "power": 1109,
@@ -51663,7 +51663,7 @@ window.allHeroes =
         "skill_types": [
             "狙擊手"
         ],
-        "source": "S1-經典",
+        "source": "S1 - 經典",
         "Release date": "2017-03-01",
         "star": 1,
         "power": 210,
@@ -51693,7 +51693,7 @@ window.allHeroes =
         "skill_types": [
             "狙擊手"
         ],
-        "source": "S1-經典",
+        "source": "S1 - 經典",
         "Release date": "2017-03-01",
         "star": 1,
         "power": 212,
@@ -51723,7 +51723,7 @@ window.allHeroes =
         "skill_types": [
             "狙擊手"
         ],
-        "source": "S1-經典",
+        "source": "S1 - 經典",
         "Release date": "2017-03-01",
         "star": 2,
         "power": 335,
@@ -51753,7 +51753,7 @@ window.allHeroes =
         "skill_types": [
             "持續傷害"
         ],
-        "source": "S1-經典",
+        "source": "S1 - 經典",
         "Release date": "2017-03-01",
         "star": 2,
         "power": 338,
@@ -51783,7 +51783,7 @@ window.allHeroes =
         "skill_types": [
             "攻擊增益"
         ],
-        "source": "S1-經典",
+        "source": "S1 - 經典",
         "Release date": "2017-03-01",
         "star": 2,
         "power": 333,
@@ -51815,7 +51815,7 @@ window.allHeroes =
             "治療",
             "治療削減"
         ],
-        "source": "聯盟-騎士衝擊",
+        "source": "聯盟 - 騎士衝擊",
         "Release date": "2021-10-13",
         "star": 3,
         "power": 480,
@@ -51898,7 +51898,7 @@ window.allHeroes =
         "skill_types": [
             "攻擊增益"
         ],
-        "source": "S3-瓦爾哈拉",
+        "source": "S3 - 瓦爾哈拉",
         "Release date": "2020-05-28",
         "star": 3,
         "power": 465,
@@ -51984,7 +51984,7 @@ window.allHeroes =
             "閃避",
             "疊加"
         ],
-        "source": "S5-沙丘",
+        "source": "S5 - 沙丘",
         "Release date": "2022-04-21",
         "star": 3,
         "power": 483,
@@ -52075,7 +52075,7 @@ window.allHeroes =
             "疊加",
             "防禦增益"
         ],
-        "source": "S5-沙丘",
+        "source": "S5 - 沙丘",
         "Release date": "2024-08-10",
         "star": 3,
         "power": 494,
@@ -52164,7 +52164,7 @@ window.allHeroes =
         "skill_types": [
             "狙擊手"
         ],
-        "source": "S1-經典",
+        "source": "S1 - 經典",
         "Release date": "2017-03-01",
         "star": 3,
         "power": 442,
@@ -52248,7 +52248,7 @@ window.allHeroes =
             "持續傷害",
             "狙擊手"
         ],
-        "source": "S1-經典",
+        "source": "S1 - 經典",
         "Release date": "2020-05-18",
         "star": 3,
         "power": 472,
@@ -52332,7 +52332,7 @@ window.allHeroes =
             "額外傷害",
             "狙擊手"
         ],
-        "source": "S1-經典",
+        "source": "S1 - 經典",
         "Release date": "2024-01-22",
         "star": 3,
         "power": 505,
@@ -52419,7 +52419,7 @@ window.allHeroes =
             "繞過",
             "狙擊手"
         ],
-        "source": "S1-經典",
+        "source": "S1 - 經典",
         "Release date": "2025-03-11",
         "star": 3,
         "power": 513,
@@ -52507,7 +52507,7 @@ window.allHeroes =
             "傷害減免",
             "提供免疫"
         ],
-        "source": "挑戰-石像鬼",
+        "source": "挑戰 - 石像鬼",
         "Release date": "2024-05-16",
         "star": 3,
         "power": 493,
@@ -52595,7 +52595,7 @@ window.allHeroes =
             "額外傷害",
             "狙擊手"
         ],
-        "source": "S3-瓦爾哈拉",
+        "source": "S3 - 瓦爾哈拉",
         "Release date": "2020-02-27",
         "star": 3,
         "power": 463,
@@ -52682,7 +52682,7 @@ window.allHeroes =
             "法力削減或格擋",
             "狙擊手"
         ],
-        "source": "S3-瓦爾哈拉",
+        "source": "S3 - 瓦爾哈拉",
         "Release date": "2022-07-04",
         "star": 3,
         "power": 478,
@@ -52769,7 +52769,7 @@ window.allHeroes =
             "法力削減或格擋",
             "傷害減免"
         ],
-        "source": "挑戰-石像鬼",
+        "source": "挑戰 - 石像鬼",
         "Release date": "2022-05-12",
         "star": 3,
         "power": 482,
@@ -52855,7 +52855,7 @@ window.allHeroes =
             "範圍攻擊 (打3)",
             "法力削減或格擋"
         ],
-        "source": "S2-亞特蘭蒂斯",
+        "source": "S2 - 亞特蘭蒂斯",
         "Release date": "2019-08-01",
         "star": 3,
         "power": 448,
@@ -52939,7 +52939,7 @@ window.allHeroes =
             "增益格擋者",
             "狙擊手"
         ],
-        "source": "挑戰節-惡棍",
+        "source": "挑戰節 II",
         "Release date": "2021-02-11",
         "star": 3,
         "power": 476,
@@ -53026,7 +53026,7 @@ window.allHeroes =
             "攻擊減益",
             "防禦減益"
         ],
-        "source": "S2-亞特蘭蒂斯",
+        "source": "S2 - 亞特蘭蒂斯",
         "Release date": "2019-08-01",
         "star": 3,
         "power": 449,
@@ -53114,7 +53114,7 @@ window.allHeroes =
             "防禦增益",
             "驅散"
         ],
-        "source": "S2-亞特蘭蒂斯",
+        "source": "S2 - 亞特蘭蒂斯",
         "Release date": "2023-04-03",
         "star": 3,
         "power": 463,
@@ -53290,7 +53290,7 @@ window.allHeroes =
             "範圍攻擊 (打3)",
             "額外傷害"
         ],
-        "source": "挑戰節-守護者",
+        "source": "挑戰節 I",
         "Release date": "2020-01-08",
         "star": 3,
         "power": 455,
@@ -53375,7 +53375,7 @@ window.allHeroes =
             "狙擊手",
             "範圍攻擊 (打3)"
         ],
-        "source": "月活動-莫洛維亞",
+        "source": "月活動 - 莫洛維亞",
         "Release date": "2020-10-26",
         "star": 3,
         "power": 468,
@@ -53467,7 +53467,7 @@ window.allHeroes =
             "法力生成增益",
             "持續治療"
         ],
-        "source": "挑戰節-殺手",
+        "source": "挑戰節 II",
         "Release date": "2021-08-05",
         "star": 3,
         "power": 478,
@@ -53556,7 +53556,7 @@ window.allHeroes =
             "攻擊減益",
             "持續傷害"
         ],
-        "source": "高塔-忍者",
+        "source": "高塔 - 忍者",
         "Release date": "2023-07-26",
         "star": 3,
         "power": 486,
@@ -53654,7 +53654,7 @@ window.allHeroes =
             "疊加",
             "連鎖與隨機攻擊"
         ],
-        "source": "S4-地底荒野",
+        "source": "S4 - 地底荒野",
         "Release date": "2021-03-25",
         "star": 3,
         "power": 478,
@@ -53750,7 +53750,7 @@ window.allHeroes =
             "凈化",
             "連鎖與隨機攻擊"
         ],
-        "source": "S4-地底荒野",
+        "source": "S4 - 地底荒野",
         "Release date": "2024-05-23",
         "star": 3,
         "power": 488,
@@ -53841,7 +53841,7 @@ window.allHeroes =
             "全體攻擊 (打5)",
             "持續傷害"
         ],
-        "source": "S1-經典",
+        "source": "S1 - 經典",
         "Release date": "2017-03-01",
         "star": 3,
         "power": 445,
@@ -53924,7 +53924,7 @@ window.allHeroes =
         "skill_types": [
             "持續傷害"
         ],
-        "source": "S1-經典",
+        "source": "S1 - 經典",
         "Release date": "2021-01-18",
         "star": 3,
         "power": 474,
@@ -54009,7 +54009,7 @@ window.allHeroes =
             "持續傷害",
             "額外傷害"
         ],
-        "source": "S1-經典",
+        "source": "S1 - 經典",
         "Release date": "2024-08-11",
         "star": 3,
         "power": 508,
@@ -54097,7 +54097,7 @@ window.allHeroes =
             "攻擊減益",
             "治療"
         ],
-        "source": "月活動-卡勒瓦拉",
+        "source": "月活動 - 卡勒瓦拉",
         "Release date": "2022-06-20",
         "star": 3,
         "power": 482,
@@ -54184,7 +54184,7 @@ window.allHeroes =
             "特殊治療",
             "狙擊手"
         ],
-        "source": "S1-經典",
+        "source": "S1 - 經典",
         "Release date": "2017-03-01",
         "star": 3,
         "power": 446,
@@ -54269,7 +54269,7 @@ window.allHeroes =
             "範圍攻擊 (打3)",
             "特殊治療"
         ],
-        "source": "S1-經典",
+        "source": "S1 - 經典",
         "Release date": "2020-05-18",
         "star": 3,
         "power": 476,
@@ -54355,7 +54355,7 @@ window.allHeroes =
             "特殊治療",
             "狙擊手"
         ],
-        "source": "S1-經典",
+        "source": "S1 - 經典",
         "Release date": "2024-02-12",
         "star": 3,
         "power": 510,
@@ -54445,7 +54445,7 @@ window.allHeroes =
             "特殊治療",
             "狙擊手"
         ],
-        "source": "S1-經典",
+        "source": "S1 - 經典",
         "Release date": "2025-04-08",
         "star": 3,
         "power": 519,
@@ -54533,7 +54533,7 @@ window.allHeroes =
             "特殊治療",
             "狙擊手"
         ],
-        "source": "S1-經典",
+        "source": "S1 - 經典",
         "Release date": "2017-03-01",
         "star": 3,
         "power": 445,
@@ -54619,7 +54619,7 @@ window.allHeroes =
             "法力削減或格擋",
             "狙擊手"
         ],
-        "source": "S1-經典",
+        "source": "S1 - 經典",
         "Release date": "2020-05-18",
         "star": 3,
         "power": 474,
@@ -54705,7 +54705,7 @@ window.allHeroes =
             "特殊治療",
             "額外傷害"
         ],
-        "source": "S1-經典",
+        "source": "S1 - 經典",
         "Release date": "2024-09-08",
         "star": 3,
         "power": 507,
@@ -54797,7 +54797,7 @@ window.allHeroes =
             "防禦減益",
             "法力削減或格擋"
         ],
-        "source": "挑戰節-阿瓦隆",
+        "source": "挑戰節 I",
         "Release date": "2021-12-15",
         "star": 3,
         "power": 481,
@@ -54884,7 +54884,7 @@ window.allHeroes =
             "驅散",
             "狙擊手"
         ],
-        "source": "S1-經典",
+        "source": "S1 - 經典",
         "Release date": "2017-03-01",
         "star": 3,
         "power": 441,
@@ -54969,7 +54969,7 @@ window.allHeroes =
             "凈化",
             "狙擊手"
         ],
-        "source": "S1-經典",
+        "source": "S1 - 經典",
         "Release date": "2020-01-20",
         "star": 3,
         "power": 470,
@@ -55055,7 +55055,7 @@ window.allHeroes =
             "狙擊手",
             "額外傷害"
         ],
-        "source": "S1-經典",
+        "source": "S1 - 經典",
         "Release date": "2024-10-06",
         "star": 3,
         "power": 505,
@@ -55144,7 +55144,7 @@ window.allHeroes =
             "額外傷害",
             "防禦減益"
         ],
-        "source": "挑戰-貝武夫",
+        "source": "挑戰 - 貝武夫",
         "Release date": "2025-02-13",
         "star": 3,
         "power": 505,
@@ -55236,7 +55236,7 @@ window.allHeroes =
             "特殊治療",
             "治療削減"
         ],
-        "source": "月活動-莫洛維亞",
+        "source": "月活動 - 莫洛維亞",
         "Release date": "2018-10-25",
         "star": 3,
         "power": 449,
@@ -55322,7 +55322,7 @@ window.allHeroes =
             "範圍攻擊 (打3)",
             "法力提升"
         ],
-        "source": "S5-沙丘",
+        "source": "S5 - 沙丘",
         "Release date": "2022-04-21",
         "star": 4,
         "power": 683,
@@ -55410,7 +55410,7 @@ window.allHeroes =
             "範圍攻擊 (打3)",
             "法力提升"
         ],
-        "source": "S5-沙丘",
+        "source": "S5 - 沙丘",
         "Release date": "2024-07-13",
         "star": 4,
         "power": 699,
@@ -55502,7 +55502,7 @@ window.allHeroes =
             "凈化",
             "鬼魂形態與隱藏"
         ],
-        "source": "S2-亞特蘭蒂斯",
+        "source": "S2 - 亞特蘭蒂斯",
         "Release date": "2019-08-01",
         "star": 4,
         "power": 649,
@@ -55593,7 +55593,7 @@ window.allHeroes =
             "疊加",
             "凈化"
         ],
-        "source": "S2-亞特蘭蒂斯",
+        "source": "S2 - 亞特蘭蒂斯",
         "Release date": "2022-05-02",
         "star": 4,
         "power": 671,
@@ -55683,7 +55683,7 @@ window.allHeroes =
             "驅散",
             "狙擊手"
         ],
-        "source": "高塔-忍者",
+        "source": "高塔 - 忍者",
         "Release date": "2020-10-13",
         "star": 4,
         "power": 670,
@@ -55779,7 +55779,7 @@ window.allHeroes =
             "特殊治療",
             "對自身或友軍負面效果"
         ],
-        "source": "月活動-莫洛維亞",
+        "source": "月活動 - 莫洛維亞",
         "Release date": "2022-10-03",
         "star": 4,
         "power": 683,
@@ -55867,7 +55867,7 @@ window.allHeroes =
             "攻擊增益",
             "防禦減益"
         ],
-        "source": "高塔-冥河",
+        "source": "高塔 - 冥河",
         "Release date": "2022-09-21",
         "star": 4,
         "power": 685,
@@ -55963,7 +55963,7 @@ window.allHeroes =
             "全體攻擊 (打5)",
             "防禦增益"
         ],
-        "source": "挑戰節-海盜",
+        "source": "挑戰節 I",
         "Release date": "2017-09-07",
         "star": 4,
         "power": 645,
@@ -56049,7 +56049,7 @@ window.allHeroes =
             "持續傷害",
             "重排隊伍"
         ],
-        "source": "挑戰節-仙境",
+        "source": "挑戰節 I",
         "Release date": "2019-02-14",
         "star": 4,
         "power": 649,
@@ -56136,7 +56136,7 @@ window.allHeroes =
             "持續傷害",
             "重排隊伍"
         ],
-        "source": "挑戰節-仙境",
+        "source": "挑戰節 I",
         "Release date": "2023-10-05",
         "star": 4,
         "power": 684,
@@ -56223,7 +56223,7 @@ window.allHeroes =
             "反製小兵",
             "狙擊手"
         ],
-        "source": "挑戰節-強大寵物",
+        "source": "挑戰節 II",
         "Release date": "2022-11-03",
         "star": 4,
         "power": 684,
@@ -56310,7 +56310,7 @@ window.allHeroes =
         "skill_types": [
             "反擊"
         ],
-        "source": "S1-經典",
+        "source": "S1 - 經典",
         "Release date": "2017-03-01",
         "star": 4,
         "power": 642,
@@ -56392,7 +56392,7 @@ window.allHeroes =
         "skill_types": [
             "反擊"
         ],
-        "source": "S1-經典",
+        "source": "S1 - 經典",
         "Release date": "2021-01-18",
         "star": 4,
         "power": 688,
@@ -56478,7 +56478,7 @@ window.allHeroes =
             "傷害減免",
             "法力提升"
         ],
-        "source": "S1-經典",
+        "source": "S1 - 經典",
         "Release date": "2023-04-17",
         "star": 4,
         "power": 735,
@@ -56562,7 +56562,7 @@ window.allHeroes =
         "skill_types": [
             "反擊"
         ],
-        "source": "S1-經典",
+        "source": "S1 - 經典",
         "Release date": "2024-04-08",
         "star": 4,
         "power": 747,
@@ -56647,7 +56647,7 @@ window.allHeroes =
         "skill_types": [
             "反擊"
         ],
-        "source": "S1-經典",
+        "source": "S1 - 經典",
         "Release date": "2025-04-23",
         "star": 4,
         "power": 759,
@@ -56737,7 +56737,7 @@ window.allHeroes =
             "召喚小兵",
             "反射"
         ],
-        "source": "月活動-冬季",
+        "source": "月活動 - 冬季",
         "Release date": "2023-12-01",
         "star": 4,
         "power": 687,
@@ -56825,7 +56825,7 @@ window.allHeroes =
             "治療削減",
             "最大生命削減"
         ],
-        "source": "S3-瓦爾哈拉",
+        "source": "S3 - 瓦爾哈拉",
         "Release date": "2020-05-28",
         "star": 4,
         "power": 660,
@@ -56911,7 +56911,7 @@ window.allHeroes =
             "治療削減",
             "法力削減或格擋"
         ],
-        "source": "S3-瓦爾哈拉",
+        "source": "S3 - 瓦爾哈拉",
         "Release date": "2023-01-16",
         "star": 4,
         "power": 681,
@@ -57001,7 +57001,7 @@ window.allHeroes =
             "治療削減",
             "狙擊手"
         ],
-        "source": "月活動-飛沙帝國",
+        "source": "月活動 - 飛沙帝國",
         "Release date": "2018-06-21",
         "star": 4,
         "power": 649,
@@ -57177,7 +57177,7 @@ window.allHeroes =
             "法力削減或格擋",
             "效果持續重置"
         ],
-        "source": "挑戰節-惡棍",
+        "source": "挑戰節 II",
         "Release date": "2021-02-11",
         "star": 4,
         "power": 675,
@@ -57267,7 +57267,7 @@ window.allHeroes =
             "持續傷害",
             "治療削減"
         ],
-        "source": "月活動-飛沙帝國",
+        "source": "月活動 - 飛沙帝國",
         "Release date": "2018-06-21",
         "star": 4,
         "power": 649,
@@ -57356,7 +57356,7 @@ window.allHeroes =
             "額外傷害",
             "特殊治療"
         ],
-        "source": "高塔-貓頭鷹",
+        "source": "高塔 - 貓頭鷹",
         "Release date": "2024-02-14",
         "star": 4,
         "power": 695,
@@ -57447,7 +57447,7 @@ window.allHeroes =
             "反射",
             "持續治療"
         ],
-        "source": "聯盟-火槍手",
+        "source": "聯盟 - 火槍手",
         "Release date": "2023-03-08",
         "star": 4,
         "power": 686,
@@ -57535,7 +57535,7 @@ window.allHeroes =
             "防禦減益",
             "狙擊手"
         ],
-        "source": "聯盟-騎士衝擊",
+        "source": "聯盟 - 騎士衝擊",
         "Release date": "2023-10-18",
         "star": 4,
         "power": 688,
@@ -57808,7 +57808,7 @@ window.allHeroes =
             "狙擊手",
             "額外傷害"
         ],
-        "source": "挑戰節-阿瓦隆",
+        "source": "挑戰節 I",
         "Release date": "2018-01-05",
         "star": 4,
         "power": 645,
@@ -57895,7 +57895,7 @@ window.allHeroes =
             "精神錯亂攻擊&治療",
             "額外傷害"
         ],
-        "source": "挑戰節-阿瓦隆",
+        "source": "挑戰節 I",
         "Release date": "2023-04-20",
         "star": 4,
         "power": 679,
@@ -57981,7 +57981,7 @@ window.allHeroes =
             "持續傷害",
             "法力削減或格擋"
         ],
-        "source": "S2-亞特蘭蒂斯",
+        "source": "S2 - 亞特蘭蒂斯",
         "Release date": "2019-08-01",
         "star": 4,
         "power": 650,
@@ -58066,7 +58066,7 @@ window.allHeroes =
             "持續傷害",
             "法力削減或格擋"
         ],
-        "source": "S2-亞特蘭蒂斯",
+        "source": "S2 - 亞特蘭蒂斯",
         "Release date": "2023-04-03",
         "star": 4,
         "power": 671,
@@ -58151,7 +58151,7 @@ window.allHeroes =
             "凈化",
             "治療"
         ],
-        "source": "S1-經典",
+        "source": "S1 - 經典",
         "Release date": "2017-03-01",
         "star": 4,
         "power": 644,
@@ -58238,7 +58238,7 @@ window.allHeroes =
             "凈化",
             "持續治療"
         ],
-        "source": "S1-經典",
+        "source": "S1 - 經典",
         "Release date": "2020-01-20",
         "star": 4,
         "power": 690,
@@ -58326,7 +58326,7 @@ window.allHeroes =
             "凈化",
             "生命強化"
         ],
-        "source": "S1-經典",
+        "source": "S1 - 經典",
         "Release date": "2023-04-17",
         "star": 4,
         "power": 736,
@@ -58414,7 +58414,7 @@ window.allHeroes =
             "治療",
             "防禦增益"
         ],
-        "source": "S1-經典",
+        "source": "S1 - 經典",
         "Release date": "2024-06-28",
         "star": 4,
         "power": 749,
@@ -58502,7 +58502,7 @@ window.allHeroes =
             "驅散",
             "治療"
         ],
-        "source": "S1-經典",
+        "source": "S1 - 經典",
         "Release date": "2017-03-01",
         "star": 4,
         "power": 639,
@@ -58589,7 +58589,7 @@ window.allHeroes =
             "驅散",
             "持續治療"
         ],
-        "source": "S1-經典",
+        "source": "S1 - 經典",
         "Release date": "2021-01-18",
         "star": 4,
         "power": 684,
@@ -58677,7 +58677,7 @@ window.allHeroes =
             "持續治療",
             "提供免疫"
         ],
-        "source": "S1-經典",
+        "source": "S1 - 經典",
         "Release date": "2023-11-27",
         "star": 4,
         "power": 730,
@@ -58765,7 +58765,7 @@ window.allHeroes =
             "驅散",
             "治療"
         ],
-        "source": "S1-經典",
+        "source": "S1 - 經典",
         "Release date": "2024-10-06",
         "star": 4,
         "power": 742,
@@ -58855,7 +58855,7 @@ window.allHeroes =
             "防禦減益",
             "全體攻擊 (打5)"
         ],
-        "source": "高塔-魔法",
+        "source": "高塔 - 魔法",
         "Release date": "2021-09-15",
         "star": 4,
         "power": 678,
@@ -58944,7 +58944,7 @@ window.allHeroes =
         "skill_types": [
             "攻擊增益"
         ],
-        "source": "S6-深淵謎團",
+        "source": "S6 - 深淵謎團",
         "Release date": "2023-06-07",
         "star": 4,
         "power": 688,
@@ -59038,7 +59038,7 @@ window.allHeroes =
         "skill_types": [
             "攻擊增益"
         ],
-        "source": "S6-深淵謎團",
+        "source": "S6 - 深淵謎團",
         "Release date": "2025-02-03",
         "star": 4,
         "power": 704,
@@ -59137,7 +59137,7 @@ window.allHeroes =
             "全體攻擊 (打5)",
             "對自身或友軍負面效果"
         ],
-        "source": "神秘-暗影",
+        "source": "神秘 - 暗影",
         "Release date": "2025-01-09",
         "star": 4,
         "power": 712,
@@ -59226,7 +59226,7 @@ window.allHeroes =
             "閃避",
             "反製小兵"
         ],
-        "source": "聯盟-飛蛾",
+        "source": "聯盟 - 飛蛾",
         "Release date": "2025-01-23",
         "star": 4,
         "power": 717,
@@ -59315,7 +59315,7 @@ window.allHeroes =
             "疊加",
             "全體攻擊 (打5)"
         ],
-        "source": "S3-瓦爾哈拉",
+        "source": "S3 - 瓦爾哈拉",
         "Release date": "2020-02-27",
         "star": 4,
         "power": 661,
@@ -59403,7 +59403,7 @@ window.allHeroes =
             "範圍攻擊 (打3)",
             "防禦減益"
         ],
-        "source": "S1-經典",
+        "source": "S1 - 經典",
         "Release date": "2017-03-01",
         "star": 4,
         "power": 639,
@@ -59488,7 +59488,7 @@ window.allHeroes =
             "全體攻擊 (打5)",
             "防禦減益"
         ],
-        "source": "S1-經典",
+        "source": "S1 - 經典",
         "Release date": "2020-01-20",
         "star": 4,
         "power": 684,
@@ -59573,7 +59573,7 @@ window.allHeroes =
             "範圍攻擊 (打3)",
             "最大生命削減"
         ],
-        "source": "S1-經典",
+        "source": "S1 - 經典",
         "Release date": "2023-10-30",
         "star": 4,
         "power": 729,
@@ -59659,7 +59659,7 @@ window.allHeroes =
             "防禦減益",
             "額外傷害"
         ],
-        "source": "S1-經典",
+        "source": "S1 - 經典",
         "Release date": "2024-08-11",
         "star": 4,
         "power": 742,
@@ -60122,7 +60122,7 @@ window.allHeroes =
             "持續傷害",
             "持續治療"
         ],
-        "source": "高塔-魔法",
+        "source": "高塔 - 魔法",
         "Release date": "2021-09-15",
         "star": 5,
         "power": 813,
@@ -60225,7 +60225,7 @@ window.allHeroes =
             "持續傷害",
             "生命強化"
         ],
-        "source": "高塔-魔法",
+        "source": "高塔 - 魔法",
         "Release date": "2025-05-29",
         "star": 5,
         "power": 1208,
@@ -60415,7 +60415,7 @@ window.allHeroes =
             "最大生命削減",
             "精神錯亂攻擊&治療"
         ],
-        "source": "S3-瓦爾哈拉",
+        "source": "S3 - 瓦爾哈拉",
         "Release date": "2020-04-23",
         "star": 5,
         "power": 790,
@@ -60504,7 +60504,7 @@ window.allHeroes =
             "最大生命削減",
             "精神錯亂攻擊&治療"
         ],
-        "source": "S3-瓦爾哈拉",
+        "source": "S3 - 瓦爾哈拉",
         "Release date": "2023-07-03",
         "star": 5,
         "power": 991,
@@ -60592,7 +60592,7 @@ window.allHeroes =
             "全體攻擊 (打5)",
             "持續傷害"
         ],
-        "source": "高塔-忍者",
+        "source": "高塔 - 忍者",
         "Release date": "2023-01-11",
         "star": 5,
         "power": 867,
@@ -60786,7 +60786,7 @@ window.allHeroes =
             "防禦減益",
             "持續傷害"
         ],
-        "source": "S5-沙丘",
+        "source": "S5 - 沙丘",
         "Release date": "2023-03-16",
         "star": 5,
         "power": 870,
@@ -60878,7 +60878,7 @@ window.allHeroes =
             "防禦減益",
             "持續傷害"
         ],
-        "source": "S5-沙丘",
+        "source": "S5 - 沙丘",
         "Release date": "2024-02-05",
         "star": 5,
         "power": 1216,
@@ -60974,7 +60974,7 @@ window.allHeroes =
             "提供免疫",
             "特殊治療"
         ],
-        "source": "聯盟-火槍手",
+        "source": "聯盟 - 火槍手",
         "Release date": "2022-12-14",
         "star": 5,
         "power": 845,
@@ -61157,7 +61157,7 @@ window.allHeroes =
             "凈化格擋者",
             "對自身或友軍負面效果"
         ],
-        "source": "神秘-暗影",
+        "source": "神秘 - 暗影",
         "Release date": "2025-05-13",
         "star": 5,
         "power": 1190,
@@ -61245,7 +61245,7 @@ window.allHeroes =
             "閃避",
             "疊加"
         ],
-        "source": "S5-沙丘",
+        "source": "S5 - 沙丘",
         "Release date": "2022-08-04",
         "star": 5,
         "power": 862,
@@ -61336,7 +61336,7 @@ window.allHeroes =
             "防禦增益",
             "疊加"
         ],
-        "source": "S5-沙丘",
+        "source": "S5 - 沙丘",
         "Release date": "2024-08-10",
         "star": 5,
         "power": 1206,
@@ -61431,7 +61431,7 @@ window.allHeroes =
             "疊加",
             "治療"
         ],
-        "source": "高塔-魔法",
+        "source": "高塔 - 魔法",
         "Release date": "2023-06-28",
         "star": 5,
         "power": 907,
@@ -61527,7 +61527,7 @@ window.allHeroes =
             "提供免疫",
             "特殊治療"
         ],
-        "source": "挑戰節-吟遊詩人",
+        "source": "挑戰節 II",
         "Release date": "2023-03-23",
         "star": 5,
         "power": 881,
@@ -61618,7 +61618,7 @@ window.allHeroes =
             "反製小兵",
             "召喚小兵"
         ],
-        "source": "S3-瓦爾哈拉",
+        "source": "S3 - 瓦爾哈拉",
         "Release date": "2020-09-24",
         "star": 5,
         "power": 786,
@@ -61707,7 +61707,7 @@ window.allHeroes =
             "反製小兵",
             "召喚小兵"
         ],
-        "source": "S3-瓦爾哈拉",
+        "source": "S3 - 瓦爾哈拉",
         "Release date": "2023-06-05",
         "star": 5,
         "power": 984,
@@ -61796,7 +61796,7 @@ window.allHeroes =
             "法力生成增益",
             "法力削減或格擋"
         ],
-        "source": "挑戰節-肅煞森林",
+        "source": "挑戰節 I",
         "Release date": "2018-06-01",
         "star": 5,
         "power": 767,
@@ -61977,7 +61977,7 @@ window.allHeroes =
             "閃避",
             "生命強化"
         ],
-        "source": "聯盟-騎士衝擊",
+        "source": "聯盟 - 騎士衝擊",
         "Release date": "2024-04-10",
         "star": 5,
         "power": 1028,
@@ -62066,7 +62066,7 @@ window.allHeroes =
             "狙擊手",
             "繞過"
         ],
-        "source": "高塔-貓頭鷹",
+        "source": "高塔 - 貓頭鷹",
         "Release date": "2024-07-02",
         "star": 5,
         "power": 1079,
@@ -62352,7 +62352,7 @@ window.allHeroes =
             "復活",
             "持續治療"
         ],
-        "source": "高塔-冥河",
+        "source": "高塔 - 冥河",
         "Release date": "2022-11-16",
         "star": 5,
         "power": 858,
@@ -62543,7 +62543,7 @@ window.allHeroes =
             "狙擊手",
             "效果持續重置"
         ],
-        "source": "挑戰節-惡棍",
+        "source": "挑戰節 II",
         "Release date": "2021-02-11",
         "star": 5,
         "power": 805,
@@ -62633,7 +62633,7 @@ window.allHeroes =
             "法力削減或格擋",
             "狙擊手"
         ],
-        "source": "挑戰節-惡棍",
+        "source": "挑戰節 II",
         "Release date": "2024-11-14",
         "star": 5,
         "power": 1205,
@@ -62725,7 +62725,7 @@ window.allHeroes =
             "全體攻擊 (打5)",
             "提供免疫"
         ],
-        "source": "挑戰節-吟遊詩人",
+        "source": "挑戰節 II",
         "Release date": "2025-04-09",
         "star": 5,
         "power": 1188,
@@ -63275,7 +63275,7 @@ window.allHeroes =
             "驅散",
             "狙擊手"
         ],
-        "source": "S1-經典",
+        "source": "S1 - 經典",
         "Release date": "2017-03-01",
         "star": 5,
         "power": 757,
@@ -63363,7 +63363,7 @@ window.allHeroes =
             "持續傷害",
             "狙擊手"
         ],
-        "source": "S1-經典",
+        "source": "S1 - 經典",
         "Release date": "2020-05-18",
         "star": 5,
         "power": 851,
@@ -63450,7 +63450,7 @@ window.allHeroes =
             "防禦減益",
             "額外傷害"
         ],
-        "source": "S1-經典",
+        "source": "S1 - 經典",
         "Release date": "2022-10-31",
         "star": 5,
         "power": 967,
@@ -63539,7 +63539,7 @@ window.allHeroes =
             "額外傷害",
             "驅散"
         ],
-        "source": "S1-經典",
+        "source": "S1 - 經典",
         "Release date": "2024-03-11",
         "star": 5,
         "power": 1134,
@@ -63632,7 +63632,7 @@ window.allHeroes =
             "驅散",
             "狙擊手"
         ],
-        "source": "S1-經典",
+        "source": "S1 - 經典",
         "Release date": "2025-04-23",
         "star": 5,
         "power": 1241,
@@ -63721,7 +63721,7 @@ window.allHeroes =
             "範圍攻擊 (打3)",
             "攻擊減益"
         ],
-        "source": "S4-地底荒野",
+        "source": "S4 - 地底荒野",
         "Release date": "2021-03-25",
         "star": 5,
         "power": 807,
@@ -63808,7 +63808,7 @@ window.allHeroes =
             "範圍攻擊 (打3)",
             "攻擊減益"
         ],
-        "source": "S4-地底荒野",
+        "source": "S4 - 地底荒野",
         "Release date": "2023-04-27",
         "star": 5,
         "power": 1022,
@@ -64085,7 +64085,7 @@ window.allHeroes =
             "傷害減免",
             "提供免疫"
         ],
-        "source": "S7-火焰與冰霜的寶藏",
+        "source": "S7 - 火焰與冰霜的寶藏",
         "Release date": "2024-12-03",
         "star": 5,
         "power": 1165,
@@ -64177,7 +64177,7 @@ window.allHeroes =
             "額外傷害",
             "狙擊手"
         ],
-        "source": "月活動-戀愛季節",
+        "source": "月活動 - 戀愛季節",
         "Release date": "2024-01-08",
         "star": 5,
         "power": 966,
@@ -64270,7 +64270,7 @@ window.allHeroes =
             "鬼魂形態與隱藏",
             "繞過"
         ],
-        "source": "額外抽獎-秘密召喚",
+        "source": "額外抽獎 - 秘密召喚",
         "Release date": "2025-05-31",
         "star": 5,
         "power": 1200,
@@ -64460,7 +64460,7 @@ window.allHeroes =
             "小兵強化",
             "召喚小兵"
         ],
-        "source": "S3-瓦爾哈拉",
+        "source": "S3 - 瓦爾哈拉",
         "Release date": "2020-02-27",
         "star": 5,
         "power": 792,
@@ -64547,7 +64547,7 @@ window.allHeroes =
             "小兵強化",
             "召喚小兵"
         ],
-        "source": "S3-瓦爾哈拉",
+        "source": "S3 - 瓦爾哈拉",
         "Release date": "2022-08-01",
         "star": 5,
         "power": 991,
@@ -65001,7 +65001,7 @@ window.allHeroes =
             "額外傷害",
             "傷害減免"
         ],
-        "source": "挑戰-石像鬼",
+        "source": "挑戰 - 石像鬼",
         "Release date": "2022-05-12",
         "star": 5,
         "power": 841,
@@ -65272,7 +65272,7 @@ window.allHeroes =
             "防禦減益",
             "驅散"
         ],
-        "source": "挑戰節-守護者",
+        "source": "挑戰節 I",
         "Release date": "2017-10-05",
         "star": 5,
         "power": 765,
@@ -65359,7 +65359,7 @@ window.allHeroes =
             "防禦減益",
             "全體攻擊 (打5)"
         ],
-        "source": "挑戰節-守護者",
+        "source": "挑戰節 I",
         "Release date": "2022-06-16",
         "star": 5,
         "power": 958,
@@ -65546,7 +65546,7 @@ window.allHeroes =
             "召喚惡魔",
             "持續傷害"
         ],
-        "source": "S4-地底荒野",
+        "source": "S4 - 地底荒野",
         "Release date": "2021-06-17",
         "star": 5,
         "power": 807,
@@ -65637,7 +65637,7 @@ window.allHeroes =
             "召喚惡魔",
             "持續傷害"
         ],
-        "source": "S4-地底荒野",
+        "source": "S4 - 地底荒野",
         "Release date": "2024-04-25",
         "star": 5,
         "power": 1022,
@@ -66008,7 +66008,7 @@ window.allHeroes =
             "防禦減益",
             "反製小兵"
         ],
-        "source": "S7-火焰與冰霜的寶藏",
+        "source": "S7 - 火焰與冰霜的寶藏",
         "Release date": "2025-02-23",
         "star": 5,
         "power": 1180,
@@ -66101,7 +66101,7 @@ window.allHeroes =
             "法力生成增益",
             "召喚小兵"
         ],
-        "source": "S4-地底荒野",
+        "source": "S4 - 地底荒野",
         "Release date": "2022-03-24",
         "star": 5,
         "power": 816,
@@ -66190,7 +66190,7 @@ window.allHeroes =
             "法力生成增益",
             "召喚小兵"
         ],
-        "source": "S4-地底荒野",
+        "source": "S4 - 地底荒野",
         "Release date": "2024-03-28",
         "star": 5,
         "power": 1034,
@@ -66281,7 +66281,7 @@ window.allHeroes =
             "狙擊手",
             "對自身或友軍負面效果"
         ],
-        "source": "神秘-暗影",
+        "source": "神秘 - 暗影",
         "Release date": "2024-06-04",
         "star": 5,
         "power": 1134,
@@ -66466,7 +66466,7 @@ window.allHeroes =
             "持續傷害",
             "狙擊手"
         ],
-        "source": "挑戰節-仙境",
+        "source": "挑戰節 I",
         "Release date": "2019-02-14",
         "star": 5,
         "power": 780,
@@ -66552,7 +66552,7 @@ window.allHeroes =
             "法力削減或格擋",
             "狙擊手"
         ],
-        "source": "挑戰節-仙境",
+        "source": "挑戰節 I",
         "Release date": "2021-12-15",
         "star": 5,
         "power": 977,
@@ -66648,7 +66648,7 @@ window.allHeroes =
             "法力削減或格擋",
             "治療"
         ],
-        "source": "高塔-魔法",
+        "source": "高塔 - 魔法",
         "Release date": "2023-11-15",
         "star": 5,
         "power": 954,
@@ -66742,7 +66742,7 @@ window.allHeroes =
             "額外傷害",
             "狙擊手"
         ],
-        "source": "S2-亞特蘭蒂斯",
+        "source": "S2 - 亞特蘭蒂斯",
         "Release date": "2018-12-01",
         "star": 5,
         "power": 772,
@@ -66832,7 +66832,7 @@ window.allHeroes =
             "驅散",
             "狙擊手"
         ],
-        "source": "S2-亞特蘭蒂斯",
+        "source": "S2 - 亞特蘭蒂斯",
         "Release date": "2021-11-15",
         "star": 5,
         "power": 942,
@@ -66921,7 +66921,7 @@ window.allHeroes =
             "攻擊減益",
             "攻擊增益"
         ],
-        "source": "挑戰節-惡棍",
+        "source": "挑戰節 II",
         "Release date": "2021-02-11",
         "star": 5,
         "power": 803,
@@ -67008,7 +67008,7 @@ window.allHeroes =
             "額外傷害",
             "持續傷害"
         ],
-        "source": "挑戰節-惡棍",
+        "source": "挑戰節 II",
         "Release date": "2025-06-15",
         "star": 5,
         "power": 1201,
@@ -67096,7 +67096,7 @@ window.allHeroes =
             "額外傷害",
             "傷害減免"
         ],
-        "source": "挑戰-石像鬼",
+        "source": "挑戰 - 石像鬼",
         "Release date": "2022-12-29",
         "star": 5,
         "power": 850,
@@ -67184,7 +67184,7 @@ window.allHeroes =
             "召喚惡魔",
             "持續傷害"
         ],
-        "source": "S5-沙丘",
+        "source": "S5 - 沙丘",
         "Release date": "2022-06-09",
         "star": 5,
         "power": 860,
@@ -67276,7 +67276,7 @@ window.allHeroes =
             "召喚惡魔",
             "持續傷害"
         ],
-        "source": "S5-沙丘",
+        "source": "S5 - 沙丘",
         "Release date": "2025-02-17",
         "star": 5,
         "power": 1205,
@@ -67545,7 +67545,7 @@ window.allHeroes =
             "法力提升",
             "狙擊手"
         ],
-        "source": "S5-沙丘",
+        "source": "S5 - 沙丘",
         "Release date": "2022-04-21",
         "star": 5,
         "power": 858,
@@ -67633,7 +67633,7 @@ window.allHeroes =
             "法力提升",
             "狙擊手"
         ],
-        "source": "S5-沙丘",
+        "source": "S5 - 沙丘",
         "Release date": "2024-09-07",
         "star": 5,
         "power": 1199,
@@ -67723,7 +67723,7 @@ window.allHeroes =
             "全體攻擊 (打5)",
             "對自身或友軍負面效果"
         ],
-        "source": "月活動-斯普林維爾",
+        "source": "月活動 - 斯普林維爾",
         "Release date": "2020-04-06",
         "star": 5,
         "power": 789,
@@ -67807,7 +67807,7 @@ window.allHeroes =
             "全體攻擊 (打5)",
             "對自身或友軍負面效果"
         ],
-        "source": "月活動-斯普林維爾",
+        "source": "月活動 - 斯普林維爾",
         "Release date": "2022-03-21",
         "star": 5,
         "power": 898,
@@ -67895,7 +67895,7 @@ window.allHeroes =
             "召喚小兵",
             "特殊治療"
         ],
-        "source": "挑戰節-仙境",
+        "source": "挑戰節 I",
         "Release date": "2024-04-18",
         "star": 5,
         "power": 1037,
@@ -68175,7 +68175,7 @@ window.allHeroes =
             "凈化",
             "鬼魂形態與隱藏"
         ],
-        "source": "S4-地底荒野",
+        "source": "S4 - 地底荒野",
         "Release date": "2021-03-25",
         "star": 5,
         "power": 806,
@@ -68272,7 +68272,7 @@ window.allHeroes =
             "鬼魂形態與隱藏",
             "生命強化"
         ],
-        "source": "S4-地底荒野",
+        "source": "S4 - 地底荒野",
         "Release date": "2023-04-27",
         "star": 5,
         "power": 1018,
@@ -68365,7 +68365,7 @@ window.allHeroes =
             "防禦減益",
             "驅散"
         ],
-        "source": "月活動-卡勒瓦拉",
+        "source": "月活動 - 卡勒瓦拉",
         "Release date": "2022-06-20",
         "star": 5,
         "power": 937,
@@ -68642,7 +68642,7 @@ window.allHeroes =
             "防禦減益",
             "持續治療"
         ],
-        "source": "月活動-莫洛維亞",
+        "source": "月活動 - 莫洛維亞",
         "Release date": "2023-09-25",
         "star": 5,
         "power": 933,
@@ -68732,7 +68732,7 @@ window.allHeroes =
             "法力提升",
             "嘲諷"
         ],
-        "source": "聯盟-騎士衝擊",
+        "source": "聯盟 - 騎士衝擊",
         "Release date": "2021-10-13",
         "star": 5,
         "power": 816,
@@ -68818,7 +68818,7 @@ window.allHeroes =
             "治療",
             "法力削減或格擋"
         ],
-        "source": "挑戰節-強大寵物",
+        "source": "挑戰節 II",
         "Release date": "2023-09-04",
         "star": 5,
         "power": 938,
@@ -68913,7 +68913,7 @@ window.allHeroes =
             "召喚惡魔",
             "持續傷害"
         ],
-        "source": "挑戰-歌劇秘辛",
+        "source": "挑戰 - 歌劇秘辛",
         "Release date": "2023-11-30",
         "star": 5,
         "power": 957,
@@ -69200,7 +69200,7 @@ window.allHeroes =
             "持續治療",
             "復活"
         ],
-        "source": "挑戰節-海盜",
+        "source": "挑戰節 I",
         "Release date": "2017-09-07",
         "star": 5,
         "power": 780,
@@ -69295,7 +69295,7 @@ window.allHeroes =
             "復活",
             "持續傷害"
         ],
-        "source": "挑戰節-海盜",
+        "source": "挑戰節 I",
         "Release date": "2022-02-17",
         "star": 5,
         "power": 977,
@@ -69482,7 +69482,7 @@ window.allHeroes =
             "治療削減",
             "精神錯亂攻擊&治療"
         ],
-        "source": "S6-深淵謎團",
+        "source": "S6 - 深淵謎團",
         "Release date": "2024-01-17",
         "star": 5,
         "power": 999,
@@ -69581,7 +69581,7 @@ window.allHeroes =
             "治療削減",
             "精神錯亂攻擊&治療"
         ],
-        "source": "S6-深淵謎團",
+        "source": "S6 - 深淵謎團",
         "Release date": "2024-10-19",
         "star": 5,
         "power": 1244,
@@ -69682,7 +69682,7 @@ window.allHeroes =
             "持續傷害",
             "對自身或友軍負面效果"
         ],
-        "source": "神秘-暗影",
+        "source": "神秘 - 暗影",
         "Release date": "2024-05-01",
         "star": 5,
         "power": 1129,
@@ -69772,7 +69772,7 @@ window.allHeroes =
             "額外傷害",
             "對自身或友軍負面效果"
         ],
-        "source": "S2-亞特蘭蒂斯",
+        "source": "S2 - 亞特蘭蒂斯",
         "Release date": "2018-02-01",
         "star": 5,
         "power": 772,
@@ -69863,7 +69863,7 @@ window.allHeroes =
             "額外傷害",
             "對自身或友軍負面效果"
         ],
-        "source": "S2-亞特蘭蒂斯",
+        "source": "S2 - 亞特蘭蒂斯",
         "Release date": "2023-02-06",
         "star": 5,
         "power": 944,
@@ -70052,7 +70052,7 @@ window.allHeroes =
             "閃避",
             "反製小兵"
         ],
-        "source": "聯盟-飛蛾",
+        "source": "聯盟 - 飛蛾",
         "Release date": "2025-01-23",
         "star": 5,
         "power": 1178,
@@ -70144,7 +70144,7 @@ window.allHeroes =
             "提供免疫",
             "沈默"
         ],
-        "source": "月活動-海灘派對",
+        "source": "月活動 - 海灘派對",
         "Release date": "2023-06-12",
         "star": 5,
         "power": 873,
@@ -70231,7 +70231,7 @@ window.allHeroes =
         "skill_types": [
             "全體攻擊 (打5)"
         ],
-        "source": "額外抽獎-秘密召喚",
+        "source": "額外抽獎 - 秘密召喚",
         "Release date": "2020-05-01",
         "star": 5,
         "power": 799,
@@ -70320,7 +70320,7 @@ window.allHeroes =
             "攻擊減益",
             "效果持續重置"
         ],
-        "source": "挑戰節-吟遊詩人",
+        "source": "挑戰節 II",
         "Release date": "2022-08-11",
         "star": 5,
         "power": 849,
@@ -70410,7 +70410,7 @@ window.allHeroes =
             "攻擊增益",
             "防禦減益"
         ],
-        "source": "高塔-冥河",
+        "source": "高塔 - 冥河",
         "Release date": "2022-06-01",
         "star": 5,
         "power": 854,
@@ -70507,7 +70507,7 @@ window.allHeroes =
             "範圍攻擊 (打3)",
             "反擊"
         ],
-        "source": "S1-經典",
+        "source": "S1 - 經典",
         "Release date": "2017-03-01",
         "star": 5,
         "power": 756,
@@ -70592,7 +70592,7 @@ window.allHeroes =
             "全體攻擊 (打5)",
             "反擊"
         ],
-        "source": "S1-經典",
+        "source": "S1 - 經典",
         "Release date": "2021-01-18",
         "star": 5,
         "power": 851,
@@ -70679,7 +70679,7 @@ window.allHeroes =
             "反擊",
             "法力提升"
         ],
-        "source": "S1-經典",
+        "source": "S1 - 經典",
         "Release date": "2022-09-05",
         "star": 5,
         "power": 966,
@@ -70766,7 +70766,7 @@ window.allHeroes =
             "反擊",
             "額外傷害"
         ],
-        "source": "S1-經典",
+        "source": "S1 - 經典",
         "Release date": "2023-11-27",
         "star": 5,
         "power": 1132,
@@ -70856,7 +70856,7 @@ window.allHeroes =
             "繞過",
             "反擊"
         ],
-        "source": "S1-經典",
+        "source": "S1 - 經典",
         "Release date": "2025-01-14",
         "star": 5,
         "power": 1237,
@@ -70948,7 +70948,7 @@ window.allHeroes =
             "特殊治療",
             "提供免疫"
         ],
-        "source": "挑戰-歌劇秘辛",
+        "source": "挑戰 - 歌劇秘辛",
         "Release date": "2024-03-21",
         "star": 5,
         "power": 1023,
@@ -71044,7 +71044,7 @@ window.allHeroes =
             "法力提升",
             "繞過"
         ],
-        "source": "高塔-貓頭鷹",
+        "source": "高塔 - 貓頭鷹",
         "Release date": "2023-12-20",
         "star": 5,
         "power": 984,
@@ -71137,7 +71137,7 @@ window.allHeroes =
             "驅散",
             "狙擊手"
         ],
-        "source": "高塔-忍者",
+        "source": "高塔 - 忍者",
         "Release date": "2020-10-13",
         "star": 5,
         "power": 798,
@@ -71235,7 +71235,7 @@ window.allHeroes =
             "召喚小兵",
             "額外傷害"
         ],
-        "source": "月活動-冬季",
+        "source": "月活動 - 冬季",
         "Release date": "2022-12-01",
         "star": 5,
         "power": 851,
@@ -71329,7 +71329,7 @@ window.allHeroes =
             "法力削減或格擋",
             "沈默"
         ],
-        "source": "挑戰-歌劇秘辛",
+        "source": "挑戰 - 歌劇秘辛",
         "Release date": "2023-06-20",
         "star": 5,
         "power": 955,
@@ -71426,7 +71426,7 @@ window.allHeroes =
             "疊加",
             "嘲諷"
         ],
-        "source": "S6-深淵謎團",
+        "source": "S6 - 深淵謎團",
         "Release date": "2023-06-07",
         "star": 5,
         "power": 906,
@@ -71528,7 +71528,7 @@ window.allHeroes =
             "嘲諷",
             "法力提升"
         ],
-        "source": "S6-深淵謎團",
+        "source": "S6 - 深淵謎團",
         "Release date": "2024-05-23",
         "star": 5,
         "power": 1124,
@@ -71628,7 +71628,7 @@ window.allHeroes =
             "驅散",
             "特殊治療"
         ],
-        "source": "月活動-戀愛季節",
+        "source": "月活動 - 戀愛季節",
         "Release date": "2023-02-14",
         "star": 5,
         "power": 861,
@@ -71719,7 +71719,7 @@ window.allHeroes =
             "凈化",
             "持續治療"
         ],
-        "source": "高塔-忍者",
+        "source": "高塔 - 忍者",
         "Release date": "2021-11-10",
         "star": 5,
         "power": 818,
@@ -71813,7 +71813,7 @@ window.allHeroes =
         "skill_types": [
             "全體攻擊 (打5)"
         ],
-        "source": "S1-經典",
+        "source": "S1 - 經典",
         "Release date": "2017-03-01",
         "star": 5,
         "power": 757,
@@ -71897,7 +71897,7 @@ window.allHeroes =
             "全體攻擊 (打5)",
             "攻擊減益"
         ],
-        "source": "S1-經典",
+        "source": "S1 - 經典",
         "Release date": "2020-01-01",
         "star": 5,
         "power": 852,
@@ -71982,7 +71982,7 @@ window.allHeroes =
             "精神錯亂攻擊&治療",
             "範圍攻擊 (打3)"
         ],
-        "source": "S1-經典",
+        "source": "S1 - 經典",
         "Release date": "2022-12-26",
         "star": 5,
         "power": 969,
@@ -72066,7 +72066,7 @@ window.allHeroes =
             "全體攻擊 (打5)",
             "額外傷害"
         ],
-        "source": "S1-經典",
+        "source": "S1 - 經典",
         "Release date": "2024-08-11",
         "star": 5,
         "power": 1135,
@@ -72246,7 +72246,7 @@ window.allHeroes =
             "持續傷害",
             "狙擊手"
         ],
-        "source": "聯盟-騎士衝擊",
+        "source": "聯盟 - 騎士衝擊",
         "Release date": "2022-01-05",
         "star": 5,
         "power": 822,
@@ -72330,7 +72330,7 @@ window.allHeroes =
             "範圍攻擊 (打3)",
             "全體攻擊 (打5)"
         ],
-        "source": "聯盟-火槍手",
+        "source": "聯盟 - 火槍手",
         "Release date": "2023-09-20",
         "star": 5,
         "power": 928,
@@ -72417,7 +72417,7 @@ window.allHeroes =
             "連鎖與隨機攻擊",
             "額外傷害"
         ],
-        "source": "S3-瓦爾哈拉",
+        "source": "S3 - 瓦爾哈拉",
         "Release date": "2021-07-04",
         "star": 5,
         "power": 788,
@@ -72504,7 +72504,7 @@ window.allHeroes =
             "連鎖與隨機攻擊",
             "額外傷害"
         ],
-        "source": "S3-瓦爾哈拉",
+        "source": "S3 - 瓦爾哈拉",
         "Release date": "2023-07-31",
         "star": 5,
         "power": 987,
@@ -72591,7 +72591,7 @@ window.allHeroes =
             "範圍攻擊 (打3)",
             "治療削減"
         ],
-        "source": "挑戰節-海盜",
+        "source": "挑戰節 I",
         "Release date": "2017-09-07",
         "star": 5,
         "power": 765,
@@ -72678,7 +72678,7 @@ window.allHeroes =
             "持續傷害",
             "治療削減"
         ],
-        "source": "挑戰節-海盜",
+        "source": "挑戰節 I",
         "Release date": "2023-12-28",
         "star": 5,
         "power": 957,
@@ -72766,7 +72766,7 @@ window.allHeroes =
             "持續傷害",
             "狙擊手"
         ],
-        "source": "S1-經典",
+        "source": "S1 - 經典",
         "Release date": "2017-03-01",
         "star": 5,
         "power": 757,
@@ -72849,7 +72849,7 @@ window.allHeroes =
         "skill_types": [
             "狙擊手"
         ],
-        "source": "S1-經典",
+        "source": "S1 - 經典",
         "Release date": "2020-05-18",
         "star": 5,
         "power": 853,
@@ -72934,7 +72934,7 @@ window.allHeroes =
             "反製小兵",
             "狙擊手"
         ],
-        "source": "S1-經典",
+        "source": "S1 - 經典",
         "Release date": "2023-06-12",
         "star": 5,
         "power": 971,
@@ -73021,7 +73021,7 @@ window.allHeroes =
             "額外傷害",
             "狙擊手"
         ],
-        "source": "S1-經典",
+        "source": "S1 - 經典",
         "Release date": "2023-10-30",
         "star": 5,
         "power": 1137,
@@ -73110,7 +73110,7 @@ window.allHeroes =
             "持續傷害",
             "狙擊手"
         ],
-        "source": "S1-經典",
+        "source": "S1 - 經典",
         "Release date": "2024-12-24",
         "star": 5,
         "power": 1242,
@@ -73202,7 +73202,7 @@ window.allHeroes =
             "鬼魂形態與隱藏",
             "反製小兵"
         ],
-        "source": "高塔-忍者",
+        "source": "高塔 - 忍者",
         "Release date": "2025-01-02",
         "star": 5,
         "power": 1141,
@@ -73402,7 +73402,7 @@ window.allHeroes =
             "法力生成增益",
             "持續治療"
         ],
-        "source": "挑戰節-殺手",
+        "source": "挑戰節 II",
         "Release date": "2021-08-05",
         "star": 5,
         "power": 807,
@@ -73498,7 +73498,7 @@ window.allHeroes =
             "法力生成增益",
             "持續治療"
         ],
-        "source": "挑戰節-殺手",
+        "source": "挑戰節 II",
         "Release date": "2025-04-09",
         "star": 5,
         "power": 1207,
@@ -73591,7 +73591,7 @@ window.allHeroes =
             "攻擊減益",
             "持續傷害"
         ],
-        "source": "月活動-海灘派對",
+        "source": "月活動 - 海灘派對",
         "Release date": "2025-06-03",
         "star": 5,
         "power": 1196,
@@ -73869,7 +73869,7 @@ window.allHeroes =
             "法力削減或格擋",
             "召喚小兵"
         ],
-        "source": "S5-沙丘",
+        "source": "S5 - 沙丘",
         "Release date": "2022-09-29",
         "star": 5,
         "power": 864,
@@ -73960,7 +73960,7 @@ window.allHeroes =
             "法力削減或格擋",
             "召喚小兵"
         ],
-        "source": "S5-沙丘",
+        "source": "S5 - 沙丘",
         "Release date": "2025-05-14",
         "star": 5,
         "power": 1210,
@@ -74336,7 +74336,7 @@ window.allHeroes =
             "連鎖與隨機攻擊",
             "狙擊手"
         ],
-        "source": "S5-沙丘",
+        "source": "S5 - 沙丘",
         "Release date": "2023-05-11",
         "star": 5,
         "power": 872,
@@ -74891,7 +74891,7 @@ window.allHeroes =
             "攻擊減益",
             "反製小兵"
         ],
-        "source": "S7-火焰與冰霜的寶藏",
+        "source": "S7 - 火焰與冰霜的寶藏",
         "Release date": "2025-05-16",
         "star": 5,
         "power": 1201,
@@ -74986,7 +74986,7 @@ window.allHeroes =
             "全體攻擊 (打5)",
             "額外傷害"
         ],
-        "source": "高塔-忍者",
+        "source": "高塔 - 忍者",
         "Release date": "2024-08-27",
         "star": 5,
         "power": 1095,
@@ -75176,7 +75176,7 @@ window.allHeroes =
             "防禦減益",
             "法力提升"
         ],
-        "source": "挑戰節-仙境",
+        "source": "挑戰節 I",
         "Release date": "2023-10-05",
         "star": 5,
         "power": 945,
@@ -75268,7 +75268,7 @@ window.allHeroes =
             "反擊",
             "傷害減免"
         ],
-        "source": "S6-深淵謎團",
+        "source": "S6 - 深淵謎團",
         "Release date": "2023-08-02",
         "star": 5,
         "power": 951,
@@ -75367,7 +75367,7 @@ window.allHeroes =
             "傷害減免",
             "額外傷害"
         ],
-        "source": "S6-深淵謎團",
+        "source": "S6 - 深淵謎團",
         "Release date": "2025-05-28",
         "star": 5,
         "power": 1184,
@@ -75465,7 +75465,7 @@ window.allHeroes =
             "狙擊手",
             "持續傷害"
         ],
-        "source": "挑戰-眾神狂歡節",
+        "source": "挑戰 - 眾神狂歡節",
         "Release date": "2023-11-02",
         "star": 5,
         "power": 951,
@@ -75557,7 +75557,7 @@ window.allHeroes =
             "治療削減",
             "反製小兵"
         ],
-        "source": "高塔-忍者",
+        "source": "高塔 - 忍者",
         "Release date": "2024-10-22",
         "star": 5,
         "power": 1108,
@@ -75657,7 +75657,7 @@ window.allHeroes =
             "額外傷害",
             "反射"
         ],
-        "source": "S2-亞特蘭蒂斯",
+        "source": "S2 - 亞特蘭蒂斯",
         "Release date": "2019-02-01",
         "star": 5,
         "power": 775,
@@ -75747,7 +75747,7 @@ window.allHeroes =
             "額外傷害",
             "反射"
         ],
-        "source": "S2-亞特蘭蒂斯",
+        "source": "S2 - 亞特蘭蒂斯",
         "Release date": "2021-11-15",
         "star": 5,
         "power": 946,
@@ -75928,7 +75928,7 @@ window.allHeroes =
             "提供免疫",
             "傷害減免"
         ],
-        "source": "挑戰-石像鬼",
+        "source": "挑戰 - 石像鬼",
         "Release date": "2024-05-16",
         "star": 5,
         "power": 1049,
@@ -76208,7 +76208,7 @@ window.allHeroes =
             "治療削減",
             "狙擊手"
         ],
-        "source": "月活動-莫洛維亞",
+        "source": "月活動 - 莫洛維亞",
         "Release date": "2018-10-25",
         "star": 5,
         "power": 773,
@@ -76302,7 +76302,7 @@ window.allHeroes =
             "特殊治療",
             "治療削減"
         ],
-        "source": "月活動-莫洛維亞",
+        "source": "月活動 - 莫洛維亞",
         "Release date": "2021-10-04",
         "star": 5,
         "power": 918,
@@ -76578,7 +76578,7 @@ window.allHeroes =
             "全體攻擊 (打5)",
             "狀態效果格擋"
         ],
-        "source": "月活動-斯普林維爾",
+        "source": "月活動 - 斯普林維爾",
         "Release date": "2025-03-31",
         "star": 5,
         "power": 1169,
@@ -76761,7 +76761,7 @@ window.allHeroes =
             "沈默",
             "提供免疫"
         ],
-        "source": "挑戰-歌劇秘辛",
+        "source": "挑戰 - 歌劇秘辛",
         "Release date": "2024-08-22",
         "star": 5,
         "power": 1092,
@@ -77040,7 +77040,7 @@ window.allHeroes =
             "治療",
             "法力提升"
         ],
-        "source": "S4-地底荒野",
+        "source": "S4 - 地底荒野",
         "Release date": "2021-09-09",
         "star": 5,
         "power": 809,
@@ -77133,7 +77133,7 @@ window.allHeroes =
             "法力提升",
             "生命強化"
         ],
-        "source": "S4-地底荒野",
+        "source": "S4 - 地底荒野",
         "Release date": "2023-11-09",
         "star": 5,
         "power": 1024,
@@ -77496,7 +77496,7 @@ window.allHeroes =
         "skill_types": [
             "治療"
         ],
-        "source": "S1-經典",
+        "source": "S1 - 經典",
         "Release date": "2017-03-01",
         "star": 1,
         "power": 213,
@@ -77526,7 +77526,7 @@ window.allHeroes =
         "skill_types": [
             "狙擊手"
         ],
-        "source": "S1-經典",
+        "source": "S1 - 經典",
         "Release date": "2017-03-01",
         "star": 1,
         "power": 210,
@@ -77556,7 +77556,7 @@ window.allHeroes =
         "skill_types": [
             "全體攻擊 (打5)"
         ],
-        "source": "S1-經典",
+        "source": "S1 - 經典",
         "Release date": "2017-03-01",
         "star": 2,
         "power": 337,
@@ -77586,7 +77586,7 @@ window.allHeroes =
         "skill_types": [
             "攻擊增益"
         ],
-        "source": "S1-經典",
+        "source": "S1 - 經典",
         "Release date": "2017-03-01",
         "star": 2,
         "power": 332,
@@ -77616,7 +77616,7 @@ window.allHeroes =
         "skill_types": [
             "攻擊增益"
         ],
-        "source": "S1-經典",
+        "source": "S1 - 經典",
         "Release date": "2017-03-01",
         "star": 2,
         "power": 334,
@@ -77646,7 +77646,7 @@ window.allHeroes =
         "skill_types": [
             "範圍攻擊 (打3)"
         ],
-        "source": "S1-經典",
+        "source": "S1 - 經典",
         "Release date": "2017-03-01",
         "star": 2,
         "power": 336,
@@ -77678,7 +77678,7 @@ window.allHeroes =
             "法力削減或格擋",
             "狙擊手"
         ],
-        "source": "S1-經典",
+        "source": "S1 - 經典",
         "Release date": "2017-03-01",
         "star": 3,
         "power": 444,
@@ -77763,7 +77763,7 @@ window.allHeroes =
             "範圍攻擊 (打3)",
             "法力削減或格擋"
         ],
-        "source": "S1-經典",
+        "source": "S1 - 經典",
         "Release date": "2020-05-18",
         "star": 3,
         "power": 473,
@@ -77849,7 +77849,7 @@ window.allHeroes =
             "狙擊手",
             "額外傷害"
         ],
-        "source": "S1-經典",
+        "source": "S1 - 經典",
         "Release date": "2024-03-11",
         "star": 3,
         "power": 506,
@@ -77939,7 +77939,7 @@ window.allHeroes =
             "法力削減或格擋",
             "狙擊手"
         ],
-        "source": "S1-經典",
+        "source": "S1 - 經典",
         "Release date": "2025-04-23",
         "star": 3,
         "power": 514,
@@ -78027,7 +78027,7 @@ window.allHeroes =
             "範圍攻擊 (打3)",
             "防禦減益"
         ],
-        "source": "S6-深淵謎團",
+        "source": "S6 - 深淵謎團",
         "Release date": "2023-06-07",
         "star": 3,
         "power": 486,
@@ -78121,7 +78121,7 @@ window.allHeroes =
             "範圍攻擊 (打3)",
             "防禦減益"
         ],
-        "source": "S6-深淵謎團",
+        "source": "S6 - 深淵謎團",
         "Release date": "2025-04-29",
         "star": 3,
         "power": 498,
@@ -78309,7 +78309,7 @@ window.allHeroes =
             "法力生成增益",
             "法力削減或格擋"
         ],
-        "source": "挑戰節-阿瓦隆",
+        "source": "挑戰節 I",
         "Release date": "2019-09-12",
         "star": 3,
         "power": 455,
@@ -78489,7 +78489,7 @@ window.allHeroes =
             "額外傷害",
             "召喚小兵"
         ],
-        "source": "月活動-冬季",
+        "source": "月活動 - 冬季",
         "Release date": "2022-12-01",
         "star": 3,
         "power": 484,
@@ -78575,7 +78575,7 @@ window.allHeroes =
             "繞過",
             "持續傷害"
         ],
-        "source": "高塔-冥河",
+        "source": "高塔 - 冥河",
         "Release date": "2022-09-21",
         "star": 3,
         "power": 484,
@@ -78673,7 +78673,7 @@ window.allHeroes =
             "範圍攻擊 (打3)",
             "法力削減或格擋"
         ],
-        "source": "S3-瓦爾哈拉",
+        "source": "S3 - 瓦爾哈拉",
         "Release date": "2020-02-27",
         "star": 3,
         "power": 466,
@@ -78758,7 +78758,7 @@ window.allHeroes =
             "全體攻擊 (打5)",
             "法力削減或格擋"
         ],
-        "source": "S3-瓦爾哈拉",
+        "source": "S3 - 瓦爾哈拉",
         "Release date": "2023-02-13",
         "star": 3,
         "power": 481,
@@ -78844,7 +78844,7 @@ window.allHeroes =
             "法力提升",
             "反擊"
         ],
-        "source": "聯盟-騎士衝擊",
+        "source": "聯盟 - 騎士衝擊",
         "Release date": "2023-10-18",
         "star": 3,
         "power": 489,
@@ -78929,7 +78929,7 @@ window.allHeroes =
         "skill_types": [
             "治療"
         ],
-        "source": "S1-經典",
+        "source": "S1 - 經典",
         "Release date": "2017-03-01",
         "star": 3,
         "power": 444,
@@ -79013,7 +79013,7 @@ window.allHeroes =
             "攻擊增益",
             "持續治療"
         ],
-        "source": "S1-經典",
+        "source": "S1 - 經典",
         "Release date": "2020-01-20",
         "star": 3,
         "power": 474,
@@ -79098,7 +79098,7 @@ window.allHeroes =
             "治療",
             "防禦增益"
         ],
-        "source": "S1-經典",
+        "source": "S1 - 經典",
         "Release date": "2024-05-06",
         "star": 3,
         "power": 507,
@@ -79188,7 +79188,7 @@ window.allHeroes =
             "持續傷害",
             "防禦減益"
         ],
-        "source": "S7-火焰與冰霜的寶藏",
+        "source": "S7 - 火焰與冰霜的寶藏",
         "Release date": "2024-12-03",
         "star": 3,
         "power": 499,
@@ -79279,7 +79279,7 @@ window.allHeroes =
             "全體攻擊 (打5)",
             "持續傷害"
         ],
-        "source": "S1-經典",
+        "source": "S1 - 經典",
         "Release date": "2017-03-01",
         "star": 3,
         "power": 445,
@@ -79364,7 +79364,7 @@ window.allHeroes =
             "全體攻擊 (打5)",
             "持續傷害"
         ],
-        "source": "S1-經典",
+        "source": "S1 - 經典",
         "Release date": "2021-01-18",
         "star": 3,
         "power": 473,
@@ -79450,7 +79450,7 @@ window.allHeroes =
             "持續傷害",
             "額外傷害"
         ],
-        "source": "S1-經典",
+        "source": "S1 - 經典",
         "Release date": "2023-12-25",
         "star": 3,
         "power": 506,
@@ -79539,7 +79539,7 @@ window.allHeroes =
             "繞過",
             "持續傷害"
         ],
-        "source": "S1-經典",
+        "source": "S1 - 經典",
         "Release date": "2024-12-25",
         "star": 3,
         "power": 514,
@@ -79628,7 +79628,7 @@ window.allHeroes =
             "攻擊增益",
             "防禦減益"
         ],
-        "source": "高塔-魔法",
+        "source": "高塔 - 魔法",
         "Release date": "2021-09-15",
         "star": 3,
         "power": 479,
@@ -79900,7 +79900,7 @@ window.allHeroes =
             "攻擊增益",
             "狙擊手"
         ],
-        "source": "S2-亞特蘭蒂斯",
+        "source": "S2 - 亞特蘭蒂斯",
         "Release date": "2019-08-01",
         "star": 3,
         "power": 449,
@@ -79985,7 +79985,7 @@ window.allHeroes =
             "持續傷害",
             "狙擊手"
         ],
-        "source": "S1-經典",
+        "source": "S1 - 經典",
         "Release date": "2017-03-01",
         "star": 3,
         "power": 443,
@@ -80070,7 +80070,7 @@ window.allHeroes =
             "持續傷害",
             "狙擊手"
         ],
-        "source": "S1-經典",
+        "source": "S1 - 經典",
         "Release date": "2021-01-18",
         "star": 3,
         "power": 472,
@@ -80156,7 +80156,7 @@ window.allHeroes =
             "狙擊手",
             "額外傷害"
         ],
-        "source": "S1-經典",
+        "source": "S1 - 經典",
         "Release date": "2024-05-31",
         "star": 3,
         "power": 505,
@@ -80244,7 +80244,7 @@ window.allHeroes =
             "攻擊增益",
             "法力生成增益"
         ],
-        "source": "挑戰節-仙境",
+        "source": "挑戰節 I",
         "Release date": "2021-12-15",
         "star": 3,
         "power": 481,
@@ -80332,7 +80332,7 @@ window.allHeroes =
             "閃避",
             "反製小兵"
         ],
-        "source": "聯盟-飛蛾",
+        "source": "聯盟 - 飛蛾",
         "Release date": "2025-01-23",
         "star": 3,
         "power": 503,
@@ -80421,7 +80421,7 @@ window.allHeroes =
             "召喚小兵",
             "狙擊手"
         ],
-        "source": "月活動-冬季",
+        "source": "月活動 - 冬季",
         "Release date": "2018-12-02",
         "star": 3,
         "power": 448,
@@ -80509,7 +80509,7 @@ window.allHeroes =
             "防禦減益",
             "持續傷害"
         ],
-        "source": "挑戰節-強大寵物",
+        "source": "挑戰節 II",
         "Release date": "2022-11-03",
         "star": 3,
         "power": 484,
@@ -80598,7 +80598,7 @@ window.allHeroes =
             "範圍攻擊 (打3)",
             "攻擊增益"
         ],
-        "source": "挑戰節-惡棍",
+        "source": "挑戰節 II",
         "Release date": "2021-02-11",
         "star": 3,
         "power": 476,
@@ -80682,7 +80682,7 @@ window.allHeroes =
             "對自身或友軍負面效果",
             "狙擊手"
         ],
-        "source": "月活動-斯普林維爾",
+        "source": "月活動 - 斯普林維爾",
         "Release date": "2018-03-28",
         "star": 3,
         "power": 445,
@@ -80856,7 +80856,7 @@ window.allHeroes =
             "全體攻擊 (打5)",
             "額外傷害"
         ],
-        "source": "S3-瓦爾哈拉",
+        "source": "S3 - 瓦爾哈拉",
         "Release date": "2020-05-28",
         "star": 3,
         "power": 462,
@@ -80940,7 +80940,7 @@ window.allHeroes =
             "召喚惡魔",
             "持續傷害"
         ],
-        "source": "S4-地底荒野",
+        "source": "S4 - 地底荒野",
         "Release date": "2021-03-25",
         "star": 3,
         "power": 478,
@@ -81026,7 +81026,7 @@ window.allHeroes =
             "召喚惡魔",
             "持續傷害"
         ],
-        "source": "S4-地底荒野",
+        "source": "S4 - 地底荒野",
         "Release date": "2024-04-25",
         "star": 3,
         "power": 488,
@@ -81113,7 +81113,7 @@ window.allHeroes =
             "全體攻擊 (打5)",
             "最大生命削減"
         ],
-        "source": "S5-沙丘",
+        "source": "S5 - 沙丘",
         "Release date": "2022-04-21",
         "star": 3,
         "power": 483,
@@ -81202,7 +81202,7 @@ window.allHeroes =
             "全體攻擊 (打5)",
             "最大生命削減"
         ],
-        "source": "S5-沙丘",
+        "source": "S5 - 沙丘",
         "Release date": "2025-04-14",
         "star": 3,
         "power": 494,
@@ -81299,7 +81299,7 @@ window.allHeroes =
             "法力生成增益",
             "持續治療"
         ],
-        "source": "挑戰節-殺手",
+        "source": "挑戰節 II",
         "Release date": "2021-08-05",
         "star": 4,
         "power": 677,
@@ -81389,7 +81389,7 @@ window.allHeroes =
             "攻擊增益",
             "治療"
         ],
-        "source": "S1-經典",
+        "source": "S1 - 經典",
         "Release date": "2017-03-01",
         "star": 4,
         "power": 644,
@@ -81474,7 +81474,7 @@ window.allHeroes =
             "攻擊增益",
             "治療"
         ],
-        "source": "S1-經典",
+        "source": "S1 - 經典",
         "Release date": "2020-01-20",
         "star": 4,
         "power": 690,
@@ -81560,7 +81560,7 @@ window.allHeroes =
             "持續治療",
             "生命強化"
         ],
-        "source": "S1-經典",
+        "source": "S1 - 經典",
         "Release date": "2023-06-12",
         "star": 4,
         "power": 736,
@@ -81645,7 +81645,7 @@ window.allHeroes =
             "攻擊增益",
             "治療"
         ],
-        "source": "S1-經典",
+        "source": "S1 - 經典",
         "Release date": "2023-12-25",
         "star": 4,
         "power": 748,
@@ -81735,7 +81735,7 @@ window.allHeroes =
             "治療",
             "反射"
         ],
-        "source": "S1-經典",
+        "source": "S1 - 經典",
         "Release date": "2024-12-24",
         "star": 4,
         "power": 761,
@@ -81825,7 +81825,7 @@ window.allHeroes =
             "法力削減或格擋",
             "召喚小兵"
         ],
-        "source": "月活動-冬季",
+        "source": "月活動 - 冬季",
         "Release date": "2020-12-01",
         "star": 4,
         "power": 674,
@@ -81916,7 +81916,7 @@ window.allHeroes =
             "法力生成增益",
             "持續治療"
         ],
-        "source": "挑戰節-殺手",
+        "source": "挑戰節 II",
         "Release date": "2021-08-05",
         "star": 4,
         "power": 677,
@@ -82005,7 +82005,7 @@ window.allHeroes =
             "全體攻擊 (打5)",
             "持續傷害"
         ],
-        "source": "S1-經典",
+        "source": "S1 - 經典",
         "Release date": "2017-03-01",
         "star": 4,
         "power": 643,
@@ -82090,7 +82090,7 @@ window.allHeroes =
             "全體攻擊 (打5)",
             "持續傷害"
         ],
-        "source": "S1-經典",
+        "source": "S1 - 經典",
         "Release date": "2021-01-18",
         "star": 4,
         "power": 688,
@@ -82176,7 +82176,7 @@ window.allHeroes =
             "防禦減益",
             "額外傷害"
         ],
-        "source": "S1-經典",
+        "source": "S1 - 經典",
         "Release date": "2023-06-12",
         "star": 4,
         "power": 733,
@@ -82263,7 +82263,7 @@ window.allHeroes =
             "持續傷害",
             "額外傷害"
         ],
-        "source": "S1-經典",
+        "source": "S1 - 經典",
         "Release date": "2024-03-11",
         "star": 4,
         "power": 746,
@@ -82353,7 +82353,7 @@ window.allHeroes =
             "繞過",
             "持續傷害"
         ],
-        "source": "S1-經典",
+        "source": "S1 - 經典",
         "Release date": "2025-04-08",
         "star": 4,
         "power": 758,
@@ -82441,7 +82441,7 @@ window.allHeroes =
             "防禦減益",
             "狙擊手"
         ],
-        "source": "挑戰節-星隕",
+        "source": "挑戰節 II",
         "Release date": "2021-06-10",
         "star": 4,
         "power": 676,
@@ -82525,7 +82525,7 @@ window.allHeroes =
             "反擊",
             "法力削減或格擋"
         ],
-        "source": "聯盟-騎士衝擊",
+        "source": "聯盟 - 騎士衝擊",
         "Release date": "2021-10-13",
         "star": 4,
         "power": 680,
@@ -82609,7 +82609,7 @@ window.allHeroes =
             "反擊",
             "法力削減或格擋"
         ],
-        "source": "聯盟-騎士衝擊",
+        "source": "聯盟 - 騎士衝擊",
         "Release date": "2024-12-17",
         "star": 4,
         "power": 719,
@@ -82698,7 +82698,7 @@ window.allHeroes =
             "範圍攻擊 (打3)",
             "防禦減益"
         ],
-        "source": "S1-經典",
+        "source": "S1 - 經典",
         "Release date": "2017-03-01",
         "star": 4,
         "power": 642,
@@ -82784,7 +82784,7 @@ window.allHeroes =
             "特殊治療",
             "反製小兵"
         ],
-        "source": "S1-經典",
+        "source": "S1 - 經典",
         "Release date": "2021-01-18",
         "star": 4,
         "power": 689,
@@ -82870,7 +82870,7 @@ window.allHeroes =
             "全體攻擊 (打5)",
             "驅散"
         ],
-        "source": "S1-經典",
+        "source": "S1 - 經典",
         "Release date": "2023-04-17",
         "star": 4,
         "power": 735,
@@ -82956,7 +82956,7 @@ window.allHeroes =
             "防禦減益",
             "額外傷害"
         ],
-        "source": "S1-經典",
+        "source": "S1 - 經典",
         "Release date": "2024-05-06",
         "star": 4,
         "power": 747,
@@ -83046,7 +83046,7 @@ window.allHeroes =
             "繞過",
             "防禦減益"
         ],
-        "source": "S1-經典",
+        "source": "S1 - 經典",
         "Release date": "2025-05-10",
         "star": 4,
         "power": 760,
@@ -83134,7 +83134,7 @@ window.allHeroes =
             "範圍攻擊 (打3)",
             "防禦減益"
         ],
-        "source": "挑戰節-守護者",
+        "source": "挑戰節 I",
         "Release date": "2017-10-05",
         "star": 4,
         "power": 646,
@@ -83220,7 +83220,7 @@ window.allHeroes =
             "增益格擋者",
             "提供免疫"
         ],
-        "source": "月活動-海灘派對",
+        "source": "月活動 - 海灘派對",
         "Release date": "2023-06-12",
         "star": 4,
         "power": 686,
@@ -83309,7 +83309,7 @@ window.allHeroes =
             "特殊治療",
             "狙擊手"
         ],
-        "source": "S5-沙丘",
+        "source": "S5 - 沙丘",
         "Release date": "2022-04-21",
         "star": 4,
         "power": 683,
@@ -83398,7 +83398,7 @@ window.allHeroes =
             "狙擊手",
             "特殊治療"
         ],
-        "source": "S5-沙丘",
+        "source": "S5 - 沙丘",
         "Release date": "2024-11-01",
         "star": 4,
         "power": 700,
@@ -83489,7 +83489,7 @@ window.allHeroes =
             "持續傷害",
             "狙擊手"
         ],
-        "source": "S1-經典",
+        "source": "S1 - 經典",
         "Release date": "2017-03-01",
         "star": 4,
         "power": 644,
@@ -83572,7 +83572,7 @@ window.allHeroes =
         "skill_types": [
             "持續傷害"
         ],
-        "source": "S1-經典",
+        "source": "S1 - 經典",
         "Release date": "2021-01-18",
         "star": 4,
         "power": 688,
@@ -83657,7 +83657,7 @@ window.allHeroes =
             "持續傷害",
             "特殊治療"
         ],
-        "source": "S1-經典",
+        "source": "S1 - 經典",
         "Release date": "2022-09-05",
         "star": 4,
         "power": 734,
@@ -83743,7 +83743,7 @@ window.allHeroes =
             "狙擊手",
             "額外傷害"
         ],
-        "source": "S1-經典",
+        "source": "S1 - 經典",
         "Release date": "2024-04-08",
         "star": 4,
         "power": 746,
@@ -83833,7 +83833,7 @@ window.allHeroes =
             "持續傷害",
             "狙擊手"
         ],
-        "source": "S1-經典",
+        "source": "S1 - 經典",
         "Release date": "2025-04-23",
         "star": 4,
         "power": 758,
@@ -83921,7 +83921,7 @@ window.allHeroes =
             "範圍攻擊 (打3)",
             "持續傷害"
         ],
-        "source": "月活動-卡勒瓦拉",
+        "source": "月活動 - 卡勒瓦拉",
         "Release date": "2022-06-20",
         "star": 4,
         "power": 682,
@@ -84012,7 +84012,7 @@ window.allHeroes =
             "疊加",
             "治療"
         ],
-        "source": "高塔-魔法",
+        "source": "高塔 - 魔法",
         "Release date": "2023-05-03",
         "star": 4,
         "power": 686,
@@ -84105,7 +84105,7 @@ window.allHeroes =
             "攻擊增益",
             "反擊"
         ],
-        "source": "S4-地底荒野",
+        "source": "S4 - 地底荒野",
         "Release date": "2021-03-25",
         "star": 4,
         "power": 677,
@@ -84192,7 +84192,7 @@ window.allHeroes =
             "反擊",
             "攻擊增益"
         ],
-        "source": "S4-地底荒野",
+        "source": "S4 - 地底荒野",
         "Release date": "2024-05-23",
         "star": 4,
         "power": 692,
@@ -84372,7 +84372,7 @@ window.allHeroes =
             "狀態效果格擋",
             "狀態效果轉換"
         ],
-        "source": "高塔-魔法",
+        "source": "高塔 - 魔法",
         "Release date": "2025-04-17",
         "star": 4,
         "power": 737,
@@ -84567,7 +84567,7 @@ window.allHeroes =
             "法力削減或格擋",
             "提供免疫"
         ],
-        "source": "挑戰-歌劇秘辛",
+        "source": "挑戰 - 歌劇秘辛",
         "Release date": "2023-11-30",
         "star": 4,
         "power": 691,
@@ -84661,7 +84661,7 @@ window.allHeroes =
             "持續傷害",
             "對自身或友軍負面效果"
         ],
-        "source": "S4-地底荒野",
+        "source": "S4 - 地底荒野",
         "Release date": "2021-03-25",
         "star": 4,
         "power": 677,
@@ -84749,7 +84749,7 @@ window.allHeroes =
             "持續傷害",
             "對自身或友軍負面效果"
         ],
-        "source": "S4-地底荒野",
+        "source": "S4 - 地底荒野",
         "Release date": "2024-04-25",
         "star": 4,
         "power": 692,
@@ -84836,7 +84836,7 @@ window.allHeroes =
             "範圍攻擊 (打3)",
             "攻擊減益"
         ],
-        "source": "S1-經典",
+        "source": "S1 - 經典",
         "Release date": "2017-03-01",
         "star": 4,
         "power": 640,
@@ -84923,7 +84923,7 @@ window.allHeroes =
             "持續傷害",
             "範圍攻擊 (打3)"
         ],
-        "source": "S1-經典",
+        "source": "S1 - 經典",
         "Release date": "2021-01-18",
         "star": 4,
         "power": 685,
@@ -85010,7 +85010,7 @@ window.allHeroes =
             "攻擊減益",
             "疊加"
         ],
-        "source": "S1-經典",
+        "source": "S1 - 經典",
         "Release date": "2023-10-30",
         "star": 4,
         "power": 731,
@@ -85096,7 +85096,7 @@ window.allHeroes =
             "攻擊減益",
             "額外傷害"
         ],
-        "source": "S1-經典",
+        "source": "S1 - 經典",
         "Release date": "2024-08-11",
         "star": 4,
         "power": 743,
@@ -85184,7 +85184,7 @@ window.allHeroes =
             "攻擊增益",
             "復活"
         ],
-        "source": "S3-瓦爾哈拉",
+        "source": "S3 - 瓦爾哈拉",
         "Release date": "2020-05-28",
         "star": 4,
         "power": 661,
@@ -85275,7 +85275,7 @@ window.allHeroes =
             "凈化",
             "持續治療"
         ],
-        "source": "高塔-忍者",
+        "source": "高塔 - 忍者",
         "Release date": "2020-10-13",
         "star": 4,
         "power": 670,
@@ -85369,7 +85369,7 @@ window.allHeroes =
             "法力生成增益",
             "狙擊手"
         ],
-        "source": "挑戰節-阿瓦隆",
+        "source": "挑戰節 I",
         "Release date": "2018-01-05",
         "star": 4,
         "power": 645,
@@ -85457,7 +85457,7 @@ window.allHeroes =
             "法力提升",
             "狙擊手"
         ],
-        "source": "S2-亞特蘭蒂斯",
+        "source": "S2 - 亞特蘭蒂斯",
         "Release date": "2019-08-01",
         "star": 4,
         "power": 650,
@@ -85545,7 +85545,7 @@ window.allHeroes =
             "法力提升",
             "狙擊手"
         ],
-        "source": "S2-亞特蘭蒂斯",
+        "source": "S2 - 亞特蘭蒂斯",
         "Release date": "2023-04-03",
         "star": 4,
         "power": 671,
@@ -85631,7 +85631,7 @@ window.allHeroes =
             "額外傷害",
             "對自身或友軍負面效果"
         ],
-        "source": "S3-瓦爾哈拉",
+        "source": "S3 - 瓦爾哈拉",
         "Release date": "2020-02-27",
         "star": 4,
         "power": 662,
@@ -85716,7 +85716,7 @@ window.allHeroes =
             "額外傷害",
             "對自身或友軍負面效果"
         ],
-        "source": "S3-瓦爾哈拉",
+        "source": "S3 - 瓦爾哈拉",
         "Release date": "2022-07-04",
         "star": 4,
         "power": 683,
@@ -85890,7 +85890,7 @@ window.allHeroes =
             "傷害減免",
             "提供免疫"
         ],
-        "source": "挑戰-石像鬼",
+        "source": "挑戰 - 石像鬼",
         "Release date": "2024-10-17",
         "star": 4,
         "power": 702,
@@ -85982,7 +85982,7 @@ window.allHeroes =
             "傷害分攤",
             "防禦減益"
         ],
-        "source": "S2-亞特蘭蒂斯",
+        "source": "S2 - 亞特蘭蒂斯",
         "Release date": "2019-08-01",
         "star": 4,
         "power": 649,
@@ -86069,7 +86069,7 @@ window.allHeroes =
             "攻擊增益",
             "持續治療"
         ],
-        "source": "S2-亞特蘭蒂斯",
+        "source": "S2 - 亞特蘭蒂斯",
         "Release date": "2022-05-02",
         "star": 4,
         "power": 671,
@@ -86155,7 +86155,7 @@ window.allHeroes =
             "復活抑製",
             "狙擊手"
         ],
-        "source": "挑戰節-吟遊詩人",
+        "source": "挑戰節 II",
         "Release date": "2022-08-11",
         "star": 4,
         "power": 682,
@@ -86427,7 +86427,7 @@ window.allHeroes =
             "持續傷害",
             "對自身或友軍負面效果"
         ],
-        "source": "神秘-暗影",
+        "source": "神秘 - 暗影",
         "Release date": "2024-05-26",
         "star": 5,
         "power": 1133,
@@ -86526,7 +86526,7 @@ window.allHeroes =
             "法力生成增益",
             "疊加"
         ],
-        "source": "S7-火焰與冰霜的寶藏",
+        "source": "S7 - 火焰與冰霜的寶藏",
         "Release date": "2025-03-23",
         "star": 5,
         "power": 1184,
@@ -86622,7 +86622,7 @@ window.allHeroes =
             "法力提升",
             "反製小兵"
         ],
-        "source": "月活動-莫洛維亞",
+        "source": "月活動 - 莫洛維亞",
         "Release date": "2022-10-03",
         "star": 5,
         "power": 851,
@@ -86716,7 +86716,7 @@ window.allHeroes =
             "法力提升",
             "繞過"
         ],
-        "source": "月活動-莫洛維亞",
+        "source": "月活動 - 莫洛維亞",
         "Release date": "2024-09-23",
         "star": 5,
         "power": 1013,
@@ -86808,7 +86808,7 @@ window.allHeroes =
             "治療削減",
             "狙擊手"
         ],
-        "source": "月活動-莫洛維亞",
+        "source": "月活動 - 莫洛維亞",
         "Release date": "2023-09-25",
         "star": 5,
         "power": 933,
@@ -86897,7 +86897,7 @@ window.allHeroes =
             "舞者",
             "防禦增益"
         ],
-        "source": "月活動-海灘派對",
+        "source": "月活動 - 海灘派對",
         "Release date": "2025-06-03",
         "star": 5,
         "power": 1196,
@@ -87078,7 +87078,7 @@ window.allHeroes =
             "治療削減",
             "最大生命削減"
         ],
-        "source": "挑戰-眾神狂歡節",
+        "source": "挑戰 - 眾神狂歡節",
         "Release date": "2023-07-13",
         "star": 5,
         "power": 936,
@@ -87539,7 +87539,7 @@ window.allHeroes =
             "持續傷害",
             "效果持續重置"
         ],
-        "source": "挑戰節-惡棍",
+        "source": "挑戰節 II",
         "Release date": "2021-02-11",
         "star": 5,
         "power": 802,
@@ -87630,7 +87630,7 @@ window.allHeroes =
             "額外傷害",
             "反製小兵"
         ],
-        "source": "高塔-忍者",
+        "source": "高塔 - 忍者",
         "Release date": "2025-03-05",
         "star": 5,
         "power": 1167,
@@ -87727,7 +87727,7 @@ window.allHeroes =
             "全體攻擊 (打5)",
             "持續傷害"
         ],
-        "source": "S1-經典",
+        "source": "S1 - 經典",
         "Release date": "2017-03-01",
         "star": 5,
         "power": 757,
@@ -87813,7 +87813,7 @@ window.allHeroes =
             "持續傷害",
             "額外傷害"
         ],
-        "source": "S1-經典",
+        "source": "S1 - 經典",
         "Release date": "2020-05-18",
         "star": 5,
         "power": 852,
@@ -87900,7 +87900,7 @@ window.allHeroes =
             "持續傷害",
             "特殊治療"
         ],
-        "source": "S1-經典",
+        "source": "S1 - 經典",
         "Release date": "2023-02-20",
         "star": 5,
         "power": 967,
@@ -87986,7 +87986,7 @@ window.allHeroes =
             "持續傷害",
             "額外傷害"
         ],
-        "source": "S1-經典",
+        "source": "S1 - 經典",
         "Release date": "2023-10-30",
         "star": 5,
         "power": 1135,
@@ -88075,7 +88075,7 @@ window.allHeroes =
             "繞過",
             "持續傷害"
         ],
-        "source": "S1-經典",
+        "source": "S1 - 經典",
         "Release date": "2024-12-24",
         "star": 5,
         "power": 1242,
@@ -88167,7 +88167,7 @@ window.allHeroes =
             "提供免疫",
             "全體攻擊 (打5)"
         ],
-        "source": "S3-瓦爾哈拉",
+        "source": "S3 - 瓦爾哈拉",
         "Release date": "2020-05-28",
         "star": 5,
         "power": 787,
@@ -88259,7 +88259,7 @@ window.allHeroes =
             "狙擊手",
             "全體攻擊 (打5)"
         ],
-        "source": "S3-瓦爾哈拉",
+        "source": "S3 - 瓦爾哈拉",
         "Release date": "2022-11-21",
         "star": 5,
         "power": 986,
@@ -88349,7 +88349,7 @@ window.allHeroes =
             "範圍攻擊 (打3)",
             "持續傷害"
         ],
-        "source": "挑戰節-強大寵物",
+        "source": "挑戰節 II",
         "Release date": "2023-05-18",
         "star": 5,
         "power": 879,
@@ -88441,7 +88441,7 @@ window.allHeroes =
             "全體攻擊 (打5)",
             "狀態效果格擋"
         ],
-        "source": "聯盟-騎士衝擊",
+        "source": "聯盟 - 騎士衝擊",
         "Release date": "2024-07-17",
         "star": 5,
         "power": 1078,
@@ -88538,7 +88538,7 @@ window.allHeroes =
             "繞過",
             "疊加"
         ],
-        "source": "挑戰-貝武夫",
+        "source": "挑戰 - 貝武夫",
         "Release date": "2025-02-13",
         "star": 5,
         "power": 1184,
@@ -88731,7 +88731,7 @@ window.allHeroes =
             "攻擊減益",
             "召喚惡魔"
         ],
-        "source": "挑戰節-海盜",
+        "source": "挑戰節 I",
         "Release date": "2023-12-28",
         "star": 5,
         "power": 987,
@@ -88821,7 +88821,7 @@ window.allHeroes =
             "傷害減免",
             "嘲諷"
         ],
-        "source": "挑戰節-阿瓦隆",
+        "source": "挑戰節 I",
         "Release date": "2021-07-09",
         "star": 5,
         "power": 779,
@@ -88909,7 +88909,7 @@ window.allHeroes =
             "傷害減免",
             "嘲諷"
         ],
-        "source": "挑戰節-阿瓦隆",
+        "source": "挑戰節 I",
         "Release date": "2022-06-16",
         "star": 5,
         "power": 978,
@@ -89278,7 +89278,7 @@ window.allHeroes =
             "範圍攻擊 (打3)",
             "額外傷害"
         ],
-        "source": "挑戰節-海盜",
+        "source": "挑戰節 I",
         "Release date": "2017-09-07",
         "star": 5,
         "power": 765,
@@ -89362,7 +89362,7 @@ window.allHeroes =
             "狙擊手",
             "額外傷害"
         ],
-        "source": "S4-地底荒野",
+        "source": "S4 - 地底荒野",
         "Release date": "2021-08-12",
         "star": 5,
         "power": 809,
@@ -89449,7 +89449,7 @@ window.allHeroes =
             "額外傷害",
             "攻擊增益"
         ],
-        "source": "S4-地底荒野",
+        "source": "S4 - 地底荒野",
         "Release date": "2023-12-07",
         "star": 5,
         "power": 1024,
@@ -89540,7 +89540,7 @@ window.allHeroes =
             "召喚惡魔",
             "持續傷害"
         ],
-        "source": "聯盟-火槍手",
+        "source": "聯盟 - 火槍手",
         "Release date": "2023-09-20",
         "star": 5,
         "power": 928,
@@ -89631,7 +89631,7 @@ window.allHeroes =
             "效果持續重置",
             "凈化"
         ],
-        "source": "挑戰-眾神狂歡節",
+        "source": "挑戰 - 眾神狂歡節",
         "Release date": "2023-09-14",
         "star": 5,
         "power": 940,
@@ -89820,7 +89820,7 @@ window.allHeroes =
             "提供免疫",
             "增益格擋者"
         ],
-        "source": "挑戰-歌劇秘辛",
+        "source": "挑戰 - 歌劇秘辛",
         "Release date": "2024-09-19",
         "star": 5,
         "power": 1100,
@@ -90008,7 +90008,7 @@ window.allHeroes =
             "持續傷害",
             "特殊治療"
         ],
-        "source": "挑戰節-強大寵物",
+        "source": "挑戰節 II",
         "Release date": "2022-11-03",
         "star": 5,
         "power": 876,
@@ -90103,7 +90103,7 @@ window.allHeroes =
             "閃避",
             "反製小兵"
         ],
-        "source": "聯盟-飛蛾",
+        "source": "聯盟 - 飛蛾",
         "Release date": "2025-01-23",
         "star": 5,
         "power": 1178,
@@ -90197,7 +90197,7 @@ window.allHeroes =
             "傷害分攤",
             "防禦減益"
         ],
-        "source": "挑戰節-肅煞森林",
+        "source": "挑戰節 I",
         "Release date": "2024-02-22",
         "star": 5,
         "power": 1007,
@@ -90382,7 +90382,7 @@ window.allHeroes =
             "召喚小兵",
             "範圍攻擊 (打3)"
         ],
-        "source": "月活動-冬季",
+        "source": "月活動 - 冬季",
         "Release date": "2023-12-01",
         "star": 5,
         "power": 949,
@@ -90469,7 +90469,7 @@ window.allHeroes =
             "特殊治療",
             "精神錯亂攻擊&治療"
         ],
-        "source": "月活動-戀愛季節",
+        "source": "月活動 - 戀愛季節",
         "Release date": "2023-02-14",
         "star": 5,
         "power": 862,
@@ -90559,7 +90559,7 @@ window.allHeroes =
             "狙擊手",
             "持續治療"
         ],
-        "source": "聯盟-火槍手",
+        "source": "聯盟 - 火槍手",
         "Release date": "2022-12-14",
         "star": 5,
         "power": 878,
@@ -90651,7 +90651,7 @@ window.allHeroes =
             "狙擊手",
             "狀態效果格擋"
         ],
-        "source": "聯盟-騎士衝擊",
+        "source": "聯盟 - 騎士衝擊",
         "Release date": "2024-01-10",
         "star": 5,
         "power": 1027,
@@ -90836,7 +90836,7 @@ window.allHeroes =
             "防禦減益",
             "持續傷害"
         ],
-        "source": "S6-深淵謎團",
+        "source": "S6 - 深淵謎團",
         "Release date": "2023-12-13",
         "star": 5,
         "power": 999,
@@ -90932,7 +90932,7 @@ window.allHeroes =
             "持續傷害",
             "防禦減益"
         ],
-        "source": "S6-深淵謎團",
+        "source": "S6 - 深淵謎團",
         "Release date": "2024-12-14",
         "star": 5,
         "power": 1245,
@@ -91128,7 +91128,7 @@ window.allHeroes =
             "生命強化",
             "復活抑製"
         ],
-        "source": "挑戰節-吟遊詩人",
+        "source": "挑戰節 II",
         "Release date": "2025-06-15",
         "star": 5,
         "power": 1211,
@@ -91314,7 +91314,7 @@ window.allHeroes =
             "防禦減益",
             "傷害減免"
         ],
-        "source": "挑戰-石像鬼",
+        "source": "挑戰 - 石像鬼",
         "Release date": "2022-05-12",
         "star": 5,
         "power": 841,
@@ -91403,7 +91403,7 @@ window.allHeroes =
             "反擊",
             "治療"
         ],
-        "source": "月活動-戀愛季節",
+        "source": "月活動 - 戀愛季節",
         "Release date": "2024-01-08",
         "star": 5,
         "power": 966,
@@ -91491,7 +91491,7 @@ window.allHeroes =
             "全體攻擊 (打5)",
             "反擊"
         ],
-        "source": "S1-經典",
+        "source": "S1 - 經典",
         "Release date": "2017-03-01",
         "star": 5,
         "power": 753,
@@ -91576,7 +91576,7 @@ window.allHeroes =
             "全體攻擊 (打5)",
             "反擊"
         ],
-        "source": "S1-經典",
+        "source": "S1 - 經典",
         "Release date": "2020-01-20",
         "star": 5,
         "power": 848,
@@ -91661,7 +91661,7 @@ window.allHeroes =
             "全體攻擊 (打5)",
             "反擊"
         ],
-        "source": "S1-經典",
+        "source": "S1 - 經典",
         "Release date": "2023-08-07",
         "star": 5,
         "power": 964,
@@ -91747,7 +91747,7 @@ window.allHeroes =
             "反擊",
             "額外傷害"
         ],
-        "source": "S1-經典",
+        "source": "S1 - 經典",
         "Release date": "2024-05-31",
         "star": 5,
         "power": 1129,
@@ -91931,7 +91931,7 @@ window.allHeroes =
             "法力削減或格擋",
             "持續傷害"
         ],
-        "source": "S4-地底荒野",
+        "source": "S4 - 地底荒野",
         "Release date": "2021-03-25",
         "star": 5,
         "power": 807,
@@ -92025,7 +92025,7 @@ window.allHeroes =
             "額外傷害",
             "攻擊增益"
         ],
-        "source": "S4-地底荒野",
+        "source": "S4 - 地底荒野",
         "Release date": "2023-04-27",
         "star": 5,
         "power": 1021,
@@ -92209,7 +92209,7 @@ window.allHeroes =
             "持續治療",
             "提供免疫"
         ],
-        "source": "挑戰節-星隕",
+        "source": "挑戰節 II",
         "Release date": "2021-06-10",
         "star": 5,
         "power": 809,
@@ -92303,7 +92303,7 @@ window.allHeroes =
             "持續治療",
             "提供免疫"
         ],
-        "source": "挑戰節-星隕",
+        "source": "挑戰節 II",
         "Release date": "2025-04-09",
         "star": 5,
         "power": 1210,
@@ -92397,7 +92397,7 @@ window.allHeroes =
             "反製小兵",
             "狙擊手"
         ],
-        "source": "高塔-冥河",
+        "source": "高塔 - 冥河",
         "Release date": "2022-09-21",
         "star": 5,
         "power": 857,
@@ -92497,7 +92497,7 @@ window.allHeroes =
             "精神錯亂攻擊&治療",
             "防禦減益"
         ],
-        "source": "高塔-貓頭鷹",
+        "source": "高塔 - 貓頭鷹",
         "Release date": "2024-05-08",
         "star": 5,
         "power": 1046,
@@ -92591,7 +92591,7 @@ window.allHeroes =
             "鬼魂形態與隱藏",
             "繞過"
         ],
-        "source": "額外抽獎-秘密召喚",
+        "source": "額外抽獎 - 秘密召喚",
         "Release date": "2025-05-31",
         "star": 5,
         "power": 1200,
@@ -92779,7 +92779,7 @@ window.allHeroes =
             "繞過",
             "治療"
         ],
-        "source": "月活動-海灘派對",
+        "source": "月活動 - 海灘派對",
         "Release date": "2023-06-12",
         "star": 5,
         "power": 873,
@@ -92870,7 +92870,7 @@ window.allHeroes =
             "繞過",
             "治療"
         ],
-        "source": "月活動-海灘派對",
+        "source": "月活動 - 海灘派對",
         "Release date": "2025-06-03",
         "star": 5,
         "power": 1184,
@@ -92962,7 +92962,7 @@ window.allHeroes =
             "治療削減",
             "法力削減或格擋"
         ],
-        "source": "高塔-貓頭鷹",
+        "source": "高塔 - 貓頭鷹",
         "Release date": "2023-12-20",
         "star": 5,
         "power": 985,
@@ -93051,7 +93051,7 @@ window.allHeroes =
             "生命強化",
             "提供免疫"
         ],
-        "source": "高塔-忍者",
+        "source": "高塔 - 忍者",
         "Release date": "2020-10-13",
         "star": 5,
         "power": 798,
@@ -93143,7 +93143,7 @@ window.allHeroes =
             "反製小兵",
             "狙擊手"
         ],
-        "source": "S3-瓦爾哈拉",
+        "source": "S3 - 瓦爾哈拉",
         "Release date": "2020-10-22",
         "star": 5,
         "power": 785,
@@ -93228,7 +93228,7 @@ window.allHeroes =
             "範圍攻擊 (打3)",
             "反製小兵"
         ],
-        "source": "S3-瓦爾哈拉",
+        "source": "S3 - 瓦爾哈拉",
         "Release date": "2022-09-26",
         "star": 5,
         "power": 983,
@@ -93314,7 +93314,7 @@ window.allHeroes =
             "防禦減益",
             "法力削減或格擋"
         ],
-        "source": "S6-深淵謎團",
+        "source": "S6 - 深淵謎團",
         "Release date": "2023-09-27",
         "star": 5,
         "power": 957,
@@ -93415,7 +93415,7 @@ window.allHeroes =
             "防禦減益",
             "法力削減或格擋"
         ],
-        "source": "S6-深淵謎團",
+        "source": "S6 - 深淵謎團",
         "Release date": "2024-06-20",
         "star": 5,
         "power": 1190,
@@ -93880,7 +93880,7 @@ window.allHeroes =
             "防禦增益",
             "凈化"
         ],
-        "source": "挑戰節-守護者",
+        "source": "挑戰節 I",
         "Release date": "2020-05-01",
         "star": 5,
         "power": 765,
@@ -93969,7 +93969,7 @@ window.allHeroes =
             "驅散",
             "反射"
         ],
-        "source": "挑戰節-守護者",
+        "source": "挑戰節 I",
         "Release date": "2022-04-14",
         "star": 5,
         "power": 960,
@@ -94060,7 +94060,7 @@ window.allHeroes =
             "提供免疫",
             "治療"
         ],
-        "source": "挑戰-石像鬼",
+        "source": "挑戰 - 石像鬼",
         "Release date": "2024-07-25",
         "star": 5,
         "power": 1080,
@@ -94243,7 +94243,7 @@ window.allHeroes =
             "生命強化",
             "提供免疫"
         ],
-        "source": "S5-沙丘",
+        "source": "S5 - 沙丘",
         "Release date": "2022-12-22",
         "star": 5,
         "power": 843,
@@ -94334,7 +94334,7 @@ window.allHeroes =
             "持續治療",
             "法力提升"
         ],
-        "source": "S5-沙丘",
+        "source": "S5 - 沙丘",
         "Release date": "2024-02-05",
         "star": 5,
         "power": 1178,
@@ -94428,7 +94428,7 @@ window.allHeroes =
             "狙擊手",
             "傷害減免"
         ],
-        "source": "挑戰-石像鬼",
+        "source": "挑戰 - 石像鬼",
         "Release date": "2022-09-08",
         "star": 5,
         "power": 841,
@@ -94616,7 +94616,7 @@ window.allHeroes =
             "增益格擋者",
             "驅散"
         ],
-        "source": "高塔-冥河",
+        "source": "高塔 - 冥河",
         "Release date": "2022-06-01",
         "star": 5,
         "power": 849,
@@ -95001,7 +95001,7 @@ window.allHeroes =
             "法力削減或格擋",
             "防禦減益"
         ],
-        "source": "月活動-卡勒瓦拉",
+        "source": "月活動 - 卡勒瓦拉",
         "Release date": "2022-06-20",
         "star": 5,
         "power": 937,
@@ -95277,7 +95277,7 @@ window.allHeroes =
             "反擊",
             "法力提升"
         ],
-        "source": "挑戰節-惡棍",
+        "source": "挑戰節 II",
         "Release date": "2021-02-11",
         "star": 5,
         "power": 804,
@@ -95455,7 +95455,7 @@ window.allHeroes =
             "防禦增益",
             "法力生成增益"
         ],
-        "source": "S1-經典",
+        "source": "S1 - 經典",
         "Release date": "2017-03-01",
         "star": 5,
         "power": 757,
@@ -95543,7 +95543,7 @@ window.allHeroes =
             "法力生成增益",
             "狙擊手"
         ],
-        "source": "S1-經典",
+        "source": "S1 - 經典",
         "Release date": "2021-01-18",
         "star": 5,
         "power": 853,
@@ -95631,7 +95631,7 @@ window.allHeroes =
             "法力提升",
             "防禦增益"
         ],
-        "source": "S1-經典",
+        "source": "S1 - 經典",
         "Release date": "2022-09-05",
         "star": 5,
         "power": 969,
@@ -95720,7 +95720,7 @@ window.allHeroes =
             "防禦增益",
             "額外傷害"
         ],
-        "source": "S1-經典",
+        "source": "S1 - 經典",
         "Release date": "2024-04-08",
         "star": 5,
         "power": 1136,
@@ -95813,7 +95813,7 @@ window.allHeroes =
             "繞過",
             "法力生成增益"
         ],
-        "source": "S1-經典",
+        "source": "S1 - 經典",
         "Release date": "2025-06-18",
         "star": 5,
         "power": 1241,
@@ -95904,7 +95904,7 @@ window.allHeroes =
             "防禦減益",
             "狙擊手"
         ],
-        "source": "S5-沙丘",
+        "source": "S5 - 沙丘",
         "Release date": "2022-04-21",
         "star": 5,
         "power": 858,
@@ -95995,7 +95995,7 @@ window.allHeroes =
             "狙擊手",
             "連鎖與隨機攻擊"
         ],
-        "source": "S5-沙丘",
+        "source": "S5 - 沙丘",
         "Release date": "2024-11-01",
         "star": 5,
         "power": 1200,
@@ -96087,7 +96087,7 @@ window.allHeroes =
             "範圍攻擊 (打3)",
             "復活抑製"
         ],
-        "source": "S4-地底荒野",
+        "source": "S4 - 地底荒野",
         "Release date": "2022-02-24",
         "star": 5,
         "power": 814,
@@ -96175,7 +96175,7 @@ window.allHeroes =
             "復活抑製",
             "範圍攻擊 (打3)"
         ],
-        "source": "S4-地底荒野",
+        "source": "S4 - 地底荒野",
         "Release date": "2024-09-26",
         "star": 5,
         "power": 1031,
@@ -96265,7 +96265,7 @@ window.allHeroes =
             "凈化",
             "額外傷害"
         ],
-        "source": "S3-瓦爾哈拉",
+        "source": "S3 - 瓦爾哈拉",
         "Release date": "2020-07-23",
         "star": 5,
         "power": 787,
@@ -96352,7 +96352,7 @@ window.allHeroes =
             "凈化",
             "額外傷害"
         ],
-        "source": "S3-瓦爾哈拉",
+        "source": "S3 - 瓦爾哈拉",
         "Release date": "2023-10-23",
         "star": 5,
         "power": 985,
@@ -96439,7 +96439,7 @@ window.allHeroes =
             "狙擊手",
             "持續傷害"
         ],
-        "source": "S6-深淵謎團",
+        "source": "S6 - 深淵謎團",
         "Release date": "2023-06-07",
         "star": 5,
         "power": 935,
@@ -96539,7 +96539,7 @@ window.allHeroes =
             "召喚惡魔",
             "持續傷害"
         ],
-        "source": "S6-深淵謎團",
+        "source": "S6 - 深淵謎團",
         "Release date": "2024-09-21",
         "star": 5,
         "power": 1163,
@@ -96639,7 +96639,7 @@ window.allHeroes =
             "沈默",
             "狀態效果格擋"
         ],
-        "source": "聯盟-騎士衝擊",
+        "source": "聯盟 - 騎士衝擊",
         "Release date": "2022-01-05",
         "star": 5,
         "power": 822,
@@ -96825,7 +96825,7 @@ window.allHeroes =
             "法力削減或格擋",
             "狙擊手"
         ],
-        "source": "高塔-貓頭鷹",
+        "source": "高塔 - 貓頭鷹",
         "Release date": "2024-02-14",
         "star": 5,
         "power": 1004,
@@ -97014,7 +97014,7 @@ window.allHeroes =
             "治療削減",
             "反製小兵"
         ],
-        "source": "高塔-忍者",
+        "source": "高塔 - 忍者",
         "Release date": "2024-09-24",
         "star": 5,
         "power": 1102,
@@ -97112,7 +97112,7 @@ window.allHeroes =
             "持續傷害",
             "狙擊手"
         ],
-        "source": "S1-經典",
+        "source": "S1 - 經典",
         "Release date": "2017-03-01",
         "star": 5,
         "power": 755,
@@ -97199,7 +97199,7 @@ window.allHeroes =
             "防禦減益",
             "攻擊減益"
         ],
-        "source": "S1-經典",
+        "source": "S1 - 經典",
         "Release date": "2021-01-18",
         "star": 5,
         "power": 849,
@@ -97287,7 +97287,7 @@ window.allHeroes =
             "防禦減益",
             "持續傷害"
         ],
-        "source": "S1-經典",
+        "source": "S1 - 經典",
         "Release date": "2023-06-12",
         "star": 5,
         "power": 965,
@@ -97374,7 +97374,7 @@ window.allHeroes =
             "額外傷害",
             "狙擊手"
         ],
-        "source": "S1-經典",
+        "source": "S1 - 經典",
         "Release date": "2023-12-25",
         "star": 5,
         "power": 1132,
@@ -97464,7 +97464,7 @@ window.allHeroes =
             "持續傷害",
             "狙擊手"
         ],
-        "source": "S1-經典",
+        "source": "S1 - 經典",
         "Release date": "2025-02-10",
         "star": 5,
         "power": 1237,
@@ -97555,7 +97555,7 @@ window.allHeroes =
             "法力削減或格擋",
             "反射"
         ],
-        "source": "S2-亞特蘭蒂斯",
+        "source": "S2 - 亞特蘭蒂斯",
         "Release date": "2019-02-01",
         "star": 5,
         "power": 775,
@@ -97644,7 +97644,7 @@ window.allHeroes =
             "反射",
             "法力削減或格擋"
         ],
-        "source": "S2-亞特蘭蒂斯",
+        "source": "S2 - 亞特蘭蒂斯",
         "Release date": "2023-03-06",
         "star": 5,
         "power": 947,
@@ -97736,7 +97736,7 @@ window.allHeroes =
             "持續治療",
             "復活"
         ],
-        "source": "高塔-魔法",
+        "source": "高塔 - 魔法",
         "Release date": "2021-09-15",
         "star": 5,
         "power": 818,
@@ -97833,7 +97833,7 @@ window.allHeroes =
             "持續傷害",
             "狀態效果轉換"
         ],
-        "source": "高塔-魔法",
+        "source": "高塔 - 魔法",
         "Release date": "2025-04-17",
         "star": 5,
         "power": 1200,
@@ -98390,7 +98390,7 @@ window.allHeroes =
             "法力生成增益",
             "反製小兵"
         ],
-        "source": "高塔-忍者",
+        "source": "高塔 - 忍者",
         "Release date": "2024-08-27",
         "star": 5,
         "power": 1093,
@@ -98672,7 +98672,7 @@ window.allHeroes =
             "攻擊增益",
             "防禦增益"
         ],
-        "source": "S2-亞特蘭蒂斯",
+        "source": "S2 - 亞特蘭蒂斯",
         "Release date": "2022-06-27",
         "star": 5,
         "power": 835,
@@ -98759,7 +98759,7 @@ window.allHeroes =
             "攻擊減益",
             "額外傷害"
         ],
-        "source": "S4-地底荒野",
+        "source": "S4 - 地底荒野",
         "Release date": "2021-10-07",
         "star": 5,
         "power": 810,
@@ -98849,7 +98849,7 @@ window.allHeroes =
             "額外傷害",
             "攻擊增益"
         ],
-        "source": "S4-地底荒野",
+        "source": "S4 - 地底荒野",
         "Release date": "2023-08-17",
         "star": 5,
         "power": 1027,
@@ -98941,7 +98941,7 @@ window.allHeroes =
             "持續傷害",
             "對自身或友軍負面效果"
         ],
-        "source": "神秘-暗影",
+        "source": "神秘 - 暗影",
         "Release date": "2024-04-21",
         "star": 5,
         "power": 1127,
@@ -99128,7 +99128,7 @@ window.allHeroes =
             "特殊治療",
             "召喚小兵"
         ],
-        "source": "月活動-冬季",
+        "source": "月活動 - 冬季",
         "Release date": "2024-12-01",
         "star": 5,
         "power": 1124,
@@ -99311,7 +99311,7 @@ window.allHeroes =
             "治療",
             "復活抑製"
         ],
-        "source": "挑戰節-吟遊詩人",
+        "source": "挑戰節 II",
         "Release date": "2022-08-11",
         "star": 5,
         "power": 869,
@@ -99497,7 +99497,7 @@ window.allHeroes =
             "召喚小兵",
             "對自身或友軍負面效果"
         ],
-        "source": "挑戰節-肅煞森林",
+        "source": "挑戰節 I",
         "Release date": "2019-12-01",
         "star": 5,
         "power": 781,
@@ -99587,7 +99587,7 @@ window.allHeroes =
             "召喚小兵",
             "對自身或友軍負面效果"
         ],
-        "source": "挑戰節-肅煞森林",
+        "source": "挑戰節 I",
         "Release date": "2023-08-10",
         "star": 5,
         "power": 978,
@@ -99677,7 +99677,7 @@ window.allHeroes =
             "召喚小兵",
             "嘲諷"
         ],
-        "source": "挑戰節-仙境",
+        "source": "挑戰節 I",
         "Release date": "2019-02-14",
         "star": 5,
         "power": 768,
@@ -99767,7 +99767,7 @@ window.allHeroes =
             "召喚小兵",
             "嘲諷"
         ],
-        "source": "挑戰節-仙境",
+        "source": "挑戰節 I",
         "Release date": "2023-10-05",
         "star": 5,
         "power": 965,
@@ -99962,7 +99962,7 @@ window.allHeroes =
             "狙擊手",
             "對自身或友軍負面效果"
         ],
-        "source": "神秘-暗影",
+        "source": "神秘 - 暗影",
         "Release date": "2024-07-18",
         "star": 5,
         "power": 1141,
@@ -100063,7 +100063,7 @@ window.allHeroes =
             "法力削減或格擋",
             "法力提升"
         ],
-        "source": "高塔-魔法",
+        "source": "高塔 - 魔法",
         "Release date": "2023-05-03",
         "star": 5,
         "power": 890,
@@ -100160,7 +100160,7 @@ window.allHeroes =
             "持續治療",
             "召喚小兵"
         ],
-        "source": "挑戰節-肅煞森林",
+        "source": "挑戰節 I",
         "Release date": "2019-12-01",
         "star": 5,
         "power": 767,
@@ -100252,7 +100252,7 @@ window.allHeroes =
             "防禦減益",
             "繞過"
         ],
-        "source": "S7-火焰與冰霜的寶藏",
+        "source": "S7 - 火焰與冰霜的寶藏",
         "Release date": "2024-12-03",
         "star": 5,
         "power": 1165,
@@ -100620,7 +100620,7 @@ window.allHeroes =
             "連鎖與隨機攻擊",
             "對自身或友軍負面效果"
         ],
-        "source": "神秘-暗影",
+        "source": "神秘 - 暗影",
         "Release date": "2025-04-03",
         "star": 5,
         "power": 1182,
@@ -100904,7 +100904,7 @@ window.allHeroes =
             "法力削減或格擋",
             "狙擊手"
         ],
-        "source": "高塔-忍者",
+        "source": "高塔 - 忍者",
         "Release date": "2021-11-10",
         "star": 5,
         "power": 818,
@@ -101189,7 +101189,7 @@ window.allHeroes =
             "最大生命削減",
             "治療削減"
         ],
-        "source": "挑戰節-吟遊詩人",
+        "source": "挑戰節 II",
         "Release date": "2024-12-12",
         "star": 5,
         "power": 1151,
@@ -101284,7 +101284,7 @@ window.allHeroes =
             "防禦減益",
             "召喚小兵"
         ],
-        "source": "月活動-冬季",
+        "source": "月活動 - 冬季",
         "Release date": "2018-12-01",
         "star": 5,
         "power": 774,
@@ -101375,7 +101375,7 @@ window.allHeroes =
             "防禦減益",
             "召喚小兵"
         ],
-        "source": "月活動-冬季",
+        "source": "月活動 - 冬季",
         "Release date": "2021-12-01",
         "star": 5,
         "power": 1002,
@@ -101468,7 +101468,7 @@ window.allHeroes =
             "法力生成增益",
             "持續治療"
         ],
-        "source": "挑戰節-殺手",
+        "source": "挑戰節 II",
         "Release date": "2021-08-05",
         "star": 5,
         "power": 810,
@@ -101564,7 +101564,7 @@ window.allHeroes =
             "特殊治療",
             "持續傷害"
         ],
-        "source": "挑戰節-殺手",
+        "source": "挑戰節 II",
         "Release date": "2024-11-14",
         "star": 5,
         "power": 1212,
@@ -101750,7 +101750,7 @@ window.allHeroes =
             "特殊治療",
             "狙擊手"
         ],
-        "source": "S5-沙丘",
+        "source": "S5 - 沙丘",
         "Release date": "2022-09-01",
         "star": 5,
         "power": 863,
@@ -101839,7 +101839,7 @@ window.allHeroes =
             "狙擊手",
             "特殊治療"
         ],
-        "source": "S5-沙丘",
+        "source": "S5 - 沙丘",
         "Release date": "2025-03-17",
         "star": 5,
         "power": 1206,
@@ -101933,7 +101933,7 @@ window.allHeroes =
             "持續傷害",
             "治療削減"
         ],
-        "source": "高塔-忍者",
+        "source": "高塔 - 忍者",
         "Release date": "2023-01-11",
         "star": 5,
         "power": 867,
@@ -102492,7 +102492,7 @@ window.allHeroes =
             "防禦減益",
             "法力提升"
         ],
-        "source": "S5-沙丘",
+        "source": "S5 - 沙丘",
         "Release date": "2022-10-27",
         "star": 5,
         "power": 864,
@@ -102583,7 +102583,7 @@ window.allHeroes =
             "防禦減益",
             "法力提升"
         ],
-        "source": "S5-沙丘",
+        "source": "S5 - 沙丘",
         "Release date": "2024-05-27",
         "star": 5,
         "power": 1207,
@@ -102676,7 +102676,7 @@ window.allHeroes =
             "攻擊增益",
             "對自身或友軍負面效果"
         ],
-        "source": "月活動-斯普林維爾",
+        "source": "月活動 - 斯普林維爾",
         "Release date": "2024-03-18",
         "star": 5,
         "power": 999,
@@ -102765,7 +102765,7 @@ window.allHeroes =
             "持續傷害",
             "傷害分攤"
         ],
-        "source": "聯盟-騎士衝擊",
+        "source": "聯盟 - 騎士衝擊",
         "Release date": "2023-10-18",
         "star": 5,
         "power": 980,
@@ -102859,7 +102859,7 @@ window.allHeroes =
             "復活",
             "狙擊手"
         ],
-        "source": "S3-瓦爾哈拉",
+        "source": "S3 - 瓦爾哈拉",
         "Release date": "2020-02-28",
         "star": 5,
         "power": 790,
@@ -102952,7 +102952,7 @@ window.allHeroes =
             "特殊治療",
             "復活"
         ],
-        "source": "S3-瓦爾哈拉",
+        "source": "S3 - 瓦爾哈拉",
         "Release date": "2023-02-13",
         "star": 5,
         "power": 989,
@@ -103043,7 +103043,7 @@ window.allHeroes =
             "持續治療",
             "提供免疫"
         ],
-        "source": "月活動-卡勒瓦拉",
+        "source": "月活動 - 卡勒瓦拉",
         "Release date": "2023-08-07",
         "star": 5,
         "power": 917,
@@ -103136,7 +103136,7 @@ window.allHeroes =
             "持續治療",
             "提供免疫"
         ],
-        "source": "月活動-卡勒瓦拉",
+        "source": "月活動 - 卡勒瓦拉",
         "Release date": "2024-07-22",
         "star": 5,
         "power": 1189,
@@ -103228,7 +103228,7 @@ window.allHeroes =
             "治療削減",
             "提供免疫"
         ],
-        "source": "月活動-莫洛維亞",
+        "source": "月活動 - 莫洛維亞",
         "Release date": "2020-10-26",
         "star": 5,
         "power": 795,
@@ -103319,7 +103319,7 @@ window.allHeroes =
             "治療削減",
             "提供免疫"
         ],
-        "source": "月活動-莫洛維亞",
+        "source": "月活動 - 莫洛維亞",
         "Release date": "2021-10-04",
         "star": 5,
         "power": 944,
@@ -103502,7 +103502,7 @@ window.allHeroes =
             "法力提升",
             "法力削減或格擋"
         ],
-        "source": "S4-地底荒野",
+        "source": "S4 - 地底荒野",
         "Release date": "2022-12-08",
         "star": 5,
         "power": 852,
@@ -103594,7 +103594,7 @@ window.allHeroes =
             "法力提升",
             "法力削減或格擋"
         ],
-        "source": "S4-地底荒野",
+        "source": "S4 - 地底荒野",
         "Release date": "2024-05-23",
         "star": 5,
         "power": 1081,
@@ -103684,7 +103684,7 @@ window.allHeroes =
             "反製小兵",
             "狙擊手"
         ],
-        "source": "月活動-農曆新年",
+        "source": "月活動 - 農曆新年",
         "Release date": "2023-01-19",
         "star": 5,
         "power": 862,
@@ -104329,7 +104329,7 @@ window.allHeroes =
             "攻擊增益",
             "狙擊手"
         ],
-        "source": "S4-地底荒野",
+        "source": "S4 - 地底荒野",
         "Release date": "2021-09-09",
         "star": 5,
         "power": 809,
@@ -104421,7 +104421,7 @@ window.allHeroes =
             "攻擊增益",
             "額外傷害"
         ],
-        "source": "S4-地底荒野",
+        "source": "S4 - 地底荒野",
         "Release date": "2024-02-29",
         "star": 5,
         "power": 1024,
@@ -104787,7 +104787,7 @@ window.allHeroes =
         "skill_types": [
             "狙擊手"
         ],
-        "source": "S1-經典",
+        "source": "S1 - 經典",
         "Release date": "2017-03-01",
         "star": 1,
         "power": 213,
@@ -104817,7 +104817,7 @@ window.allHeroes =
         "skill_types": [
             "全體攻擊 (打5)"
         ],
-        "source": "S1-經典",
+        "source": "S1 - 經典",
         "Release date": "2017-03-01",
         "star": 1,
         "power": 211,
@@ -104847,7 +104847,7 @@ window.allHeroes =
         "skill_types": [
             "防禦增益"
         ],
-        "source": "S1-經典",
+        "source": "S1 - 經典",
         "Release date": "2017-03-01",
         "star": 2,
         "power": 336,
@@ -104879,7 +104879,7 @@ window.allHeroes =
             "攻擊減益",
             "狙擊手"
         ],
-        "source": "S1-經典",
+        "source": "S1 - 經典",
         "Release date": "2017-03-01",
         "star": 2,
         "power": 335,
@@ -104910,7 +104910,7 @@ window.allHeroes =
         "skill_types": [
             "治療"
         ],
-        "source": "S1-經典",
+        "source": "S1 - 經典",
         "Release date": "2017-03-01",
         "star": 2,
         "power": 334,
@@ -104941,7 +104941,7 @@ window.allHeroes =
             "繞過",
             "狙擊手"
         ],
-        "source": "S3-瓦爾哈拉",
+        "source": "S3 - 瓦爾哈拉",
         "Release date": "2020-05-28",
         "star": 3,
         "power": 464,
@@ -105030,7 +105030,7 @@ window.allHeroes =
             "持續傷害",
             "治療削減"
         ],
-        "source": "月活動-飛沙帝國",
+        "source": "月活動 - 飛沙帝國",
         "Release date": "2018-06-21",
         "star": 3,
         "power": 448,
@@ -105117,7 +105117,7 @@ window.allHeroes =
             "攻擊減益",
             "狙擊手"
         ],
-        "source": "S1-經典",
+        "source": "S1 - 經典",
         "Release date": "2017-03-01",
         "star": 3,
         "power": 440,
@@ -105202,7 +105202,7 @@ window.allHeroes =
             "攻擊減益",
             "狙擊手"
         ],
-        "source": "S1-經典",
+        "source": "S1 - 經典",
         "Release date": "2020-01-20",
         "star": 3,
         "power": 469,
@@ -105288,7 +105288,7 @@ window.allHeroes =
             "攻擊減益",
             "額外傷害"
         ],
-        "source": "S1-經典",
+        "source": "S1 - 經典",
         "Release date": "2024-03-11",
         "star": 3,
         "power": 502,
@@ -105378,7 +105378,7 @@ window.allHeroes =
             "攻擊減益",
             "狙擊手"
         ],
-        "source": "S1-經典",
+        "source": "S1 - 經典",
         "Release date": "2025-05-10",
         "star": 3,
         "power": 511,
@@ -105464,7 +105464,7 @@ window.allHeroes =
         "skill_types": [
             "攻擊增益"
         ],
-        "source": "聯盟-騎士衝擊",
+        "source": "聯盟 - 騎士衝擊",
         "Release date": "2021-10-13",
         "star": 3,
         "power": 480,
@@ -105548,7 +105548,7 @@ window.allHeroes =
             "持續治療",
             "治療"
         ],
-        "source": "挑戰節-星隕",
+        "source": "挑戰節 II",
         "Release date": "2021-06-10",
         "star": 3,
         "power": 477,
@@ -105726,7 +105726,7 @@ window.allHeroes =
             "連鎖與隨機攻擊",
             "對自身或友軍負面效果"
         ],
-        "source": "神秘-暗影",
+        "source": "神秘 - 暗影",
         "Release date": "2025-01-09",
         "star": 3,
         "power": 501,
@@ -105810,7 +105810,7 @@ window.allHeroes =
         "skill_types": [
             "範圍攻擊 (打3)"
         ],
-        "source": "S1-經典",
+        "source": "S1 - 經典",
         "Release date": "2017-03-01",
         "star": 3,
         "power": 440,
@@ -105894,7 +105894,7 @@ window.allHeroes =
             "連鎖與隨機攻擊",
             "額外傷害"
         ],
-        "source": "S1-經典",
+        "source": "S1 - 經典",
         "Release date": "2021-01-25",
         "star": 3,
         "power": 469,
@@ -105978,7 +105978,7 @@ window.allHeroes =
             "範圍攻擊 (打3)",
             "額外傷害"
         ],
-        "source": "S1-經典",
+        "source": "S1 - 經典",
         "Release date": "2024-08-11",
         "star": 3,
         "power": 502,
@@ -106068,7 +106068,7 @@ window.allHeroes =
             "狙擊手",
             "持續傷害"
         ],
-        "source": "月活動-海灘派對",
+        "source": "月活動 - 海灘派對",
         "Release date": "2023-06-12",
         "star": 3,
         "power": 486,
@@ -106250,7 +106250,7 @@ window.allHeroes =
             "狙擊手",
             "持續治療"
         ],
-        "source": "聯盟-火槍手",
+        "source": "聯盟 - 火槍手",
         "Release date": "2023-03-08",
         "star": 3,
         "power": 486,
@@ -106339,7 +106339,7 @@ window.allHeroes =
             "法力削減或格擋",
             "狙擊手"
         ],
-        "source": "S1-經典",
+        "source": "S1 - 經典",
         "Release date": "2017-03-01",
         "star": 3,
         "power": 443,
@@ -106424,7 +106424,7 @@ window.allHeroes =
             "法力削減或格擋",
             "狙擊手"
         ],
-        "source": "S1-經典",
+        "source": "S1 - 經典",
         "Release date": "2021-01-25",
         "star": 3,
         "power": 474,
@@ -106510,7 +106510,7 @@ window.allHeroes =
             "法力削減或格擋",
             "狙擊手"
         ],
-        "source": "S1-經典",
+        "source": "S1 - 經典",
         "Release date": "2023-12-25",
         "star": 3,
         "power": 507,
@@ -106600,7 +106600,7 @@ window.allHeroes =
             "繞過",
             "法力削減或格擋"
         ],
-        "source": "S1-經典",
+        "source": "S1 - 經典",
         "Release date": "2024-12-25",
         "star": 3,
         "power": 516,
@@ -106689,7 +106689,7 @@ window.allHeroes =
             "法力提升",
             "法力削減或格擋"
         ],
-        "source": "S6-深淵謎團",
+        "source": "S6 - 深淵謎團",
         "Release date": "2023-07-05",
         "star": 3,
         "power": 486,
@@ -106784,7 +106784,7 @@ window.allHeroes =
             "範圍攻擊 (打3)",
             "法力提升"
         ],
-        "source": "S6-深淵謎團",
+        "source": "S6 - 深淵謎團",
         "Release date": "2025-02-03",
         "star": 3,
         "power": 497,
@@ -106883,7 +106883,7 @@ window.allHeroes =
             "法力生成增益",
             "召喚小兵"
         ],
-        "source": "月活動-冬季",
+        "source": "月活動 - 冬季",
         "Release date": "2023-12-01",
         "star": 3,
         "power": 487,
@@ -106970,7 +106970,7 @@ window.allHeroes =
             "防禦增益",
             "傷害分攤"
         ],
-        "source": "S1-經典",
+        "source": "S1 - 經典",
         "Release date": "2017-03-01",
         "star": 3,
         "power": 444,
@@ -107055,7 +107055,7 @@ window.allHeroes =
             "攻擊增益",
             "傷害分攤"
         ],
-        "source": "S1-經典",
+        "source": "S1 - 經典",
         "Release date": "2021-01-25",
         "star": 3,
         "power": 473,
@@ -107140,7 +107140,7 @@ window.allHeroes =
             "防禦增益",
             "傷害分攤"
         ],
-        "source": "S1-經典",
+        "source": "S1 - 經典",
         "Release date": "2024-02-12",
         "star": 3,
         "power": 506,
@@ -107230,7 +107230,7 @@ window.allHeroes =
             "防禦增益",
             "反射"
         ],
-        "source": "S1-經典",
+        "source": "S1 - 經典",
         "Release date": "2025-03-11",
         "star": 3,
         "power": 514,
@@ -107316,7 +107316,7 @@ window.allHeroes =
         "skill_types": [
             "連鎖與隨機攻擊"
         ],
-        "source": "高塔-忍者",
+        "source": "高塔 - 忍者",
         "Release date": "2023-01-11",
         "star": 3,
         "power": 486,
@@ -107410,7 +107410,7 @@ window.allHeroes =
             "反製小兵",
             "召喚小兵"
         ],
-        "source": "S3-瓦爾哈拉",
+        "source": "S3 - 瓦爾哈拉",
         "Release date": "2020-02-27",
         "star": 3,
         "power": 461,
@@ -107497,7 +107497,7 @@ window.allHeroes =
             "持續傷害",
             "召喚小兵"
         ],
-        "source": "S3-瓦爾哈拉",
+        "source": "S3 - 瓦爾哈拉",
         "Release date": "2022-07-04",
         "star": 3,
         "power": 477,
@@ -107584,7 +107584,7 @@ window.allHeroes =
             "全體攻擊 (打5)",
             "攻擊增益"
         ],
-        "source": "S2-亞特蘭蒂斯",
+        "source": "S2 - 亞特蘭蒂斯",
         "Release date": "2019-08-01",
         "star": 3,
         "power": 450,
@@ -107669,7 +107669,7 @@ window.allHeroes =
             "全體攻擊 (打5)",
             "攻擊減益"
         ],
-        "source": "S2-亞特蘭蒂斯",
+        "source": "S2 - 亞特蘭蒂斯",
         "Release date": "2022-05-02",
         "star": 3,
         "power": 464,
@@ -107756,7 +107756,7 @@ window.allHeroes =
             "傷害減免",
             "法力生成增益"
         ],
-        "source": "高塔-貓頭鷹",
+        "source": "高塔 - 貓頭鷹",
         "Release date": "2023-12-20",
         "star": 3,
         "power": 489,
@@ -107844,7 +107844,7 @@ window.allHeroes =
             "法力削減或格擋",
             "狙擊手"
         ],
-        "source": "挑戰節-肅煞森林",
+        "source": "挑戰節 I",
         "Release date": "2019-12-01",
         "star": 3,
         "power": 455,
@@ -107928,7 +107928,7 @@ window.allHeroes =
             "連鎖與隨機攻擊",
             "狙擊手"
         ],
-        "source": "S4-地底荒野",
+        "source": "S4 - 地底荒野",
         "Release date": "2021-03-25",
         "star": 3,
         "power": 478,
@@ -108014,7 +108014,7 @@ window.allHeroes =
             "連鎖與隨機攻擊",
             "狙擊手"
         ],
-        "source": "S4-地底荒野",
+        "source": "S4 - 地底荒野",
         "Release date": "2024-02-29",
         "star": 3,
         "power": 488,
@@ -108101,7 +108101,7 @@ window.allHeroes =
             "生命強化",
             "持續治療"
         ],
-        "source": "S5-沙丘",
+        "source": "S5 - 沙丘",
         "Release date": "2022-04-21",
         "star": 3,
         "power": 483,
@@ -108190,7 +108190,7 @@ window.allHeroes =
             "持續治療",
             "防禦增益"
         ],
-        "source": "S5-沙丘",
+        "source": "S5 - 沙丘",
         "Release date": "2025-02-17",
         "star": 3,
         "power": 494,
@@ -108283,7 +108283,7 @@ window.allHeroes =
             "持續傷害",
             "法力削減或格擋"
         ],
-        "source": "挑戰節-強大寵物",
+        "source": "挑戰節 II",
         "Release date": "2022-11-03",
         "star": 3,
         "power": 484,
@@ -108466,7 +108466,7 @@ window.allHeroes =
         "skill_types": [
             "連鎖與隨機攻擊"
         ],
-        "source": "挑戰節-海盜",
+        "source": "挑戰節 I",
         "Release date": "2021-12-15",
         "star": 3,
         "power": 481,
@@ -108646,7 +108646,7 @@ window.allHeroes =
             "特殊治療",
             "持續治療"
         ],
-        "source": "挑戰-貝武夫",
+        "source": "挑戰 - 貝武夫",
         "Release date": "2025-02-13",
         "star": 4,
         "power": 722,
@@ -108741,7 +108741,7 @@ window.allHeroes =
             "持續傷害",
             "法力削減或格擋"
         ],
-        "source": "高塔-魔法",
+        "source": "高塔 - 魔法",
         "Release date": "2021-09-15",
         "star": 4,
         "power": 678,
@@ -108833,7 +108833,7 @@ window.allHeroes =
             "狙擊手",
             "傷害減免"
         ],
-        "source": "挑戰-石像鬼",
+        "source": "挑戰 - 石像鬼",
         "Release date": "2022-05-12",
         "star": 4,
         "power": 682,
@@ -109010,7 +109010,7 @@ window.allHeroes =
             "法力削減或格擋",
             "狙擊手"
         ],
-        "source": "S1-經典",
+        "source": "S1 - 經典",
         "Release date": "2017-03-01",
         "star": 4,
         "power": 642,
@@ -109096,7 +109096,7 @@ window.allHeroes =
             "法力削減或格擋",
             "狙擊手"
         ],
-        "source": "S1-經典",
+        "source": "S1 - 經典",
         "Release date": "2021-01-18",
         "star": 4,
         "power": 686,
@@ -109181,7 +109181,7 @@ window.allHeroes =
             "範圍攻擊 (打3)",
             "法力削減或格擋"
         ],
-        "source": "S1-經典",
+        "source": "S1 - 經典",
         "Release date": "2023-10-30",
         "star": 4,
         "power": 733,
@@ -109267,7 +109267,7 @@ window.allHeroes =
             "狙擊手",
             "額外傷害"
         ],
-        "source": "S1-經典",
+        "source": "S1 - 經典",
         "Release date": "2024-06-28",
         "star": 4,
         "power": 745,
@@ -109356,7 +109356,7 @@ window.allHeroes =
             "治療",
             "法力生成增益"
         ],
-        "source": "挑戰節-星隕",
+        "source": "挑戰節 II",
         "Release date": "2021-06-10",
         "star": 4,
         "power": 676,
@@ -109444,7 +109444,7 @@ window.allHeroes =
             "法力生成增益",
             "對自身或友軍負面效果"
         ],
-        "source": "S2-亞特蘭蒂斯",
+        "source": "S2 - 亞特蘭蒂斯",
         "Release date": "2019-08-01",
         "star": 4,
         "power": 652,
@@ -109540,7 +109540,7 @@ window.allHeroes =
             "法力削減或格擋",
             "對自身或友軍負面效果"
         ],
-        "source": "S2-亞特蘭蒂斯",
+        "source": "S2 - 亞特蘭蒂斯",
         "Release date": "2023-02-06",
         "star": 4,
         "power": 674,
@@ -109729,7 +109729,7 @@ window.allHeroes =
             "持續傷害",
             "防禦減益"
         ],
-        "source": "S7-火焰與冰霜的寶藏",
+        "source": "S7 - 火焰與冰霜的寶藏",
         "Release date": "2024-12-03",
         "star": 4,
         "power": 707,
@@ -109914,7 +109914,7 @@ window.allHeroes =
             "防禦增益",
             "法力削減或格擋"
         ],
-        "source": "挑戰節-肅煞森林",
+        "source": "挑戰節 I",
         "Release date": "2018-06-01",
         "star": 4,
         "power": 646,
@@ -110000,7 +110000,7 @@ window.allHeroes =
             "繞過",
             "狙擊手"
         ],
-        "source": "S4-地底荒野",
+        "source": "S4 - 地底荒野",
         "Release date": "2021-03-25",
         "star": 4,
         "power": 677,
@@ -110087,7 +110087,7 @@ window.allHeroes =
             "繞過",
             "狙擊手"
         ],
-        "source": "S4-地底荒野",
+        "source": "S4 - 地底荒野",
         "Release date": "2023-11-09",
         "star": 4,
         "power": 692,
@@ -110271,7 +110271,7 @@ window.allHeroes =
             "防禦減益",
             "狙擊手"
         ],
-        "source": "挑戰節-守護者",
+        "source": "挑戰節 I",
         "Release date": "2017-10-05",
         "star": 4,
         "power": 645,
@@ -110356,7 +110356,7 @@ window.allHeroes =
             "防禦增益",
             "狙擊手"
         ],
-        "source": "挑戰節-守護者",
+        "source": "挑戰節 I",
         "Release date": "2023-01-26",
         "star": 4,
         "power": 680,
@@ -110442,7 +110442,7 @@ window.allHeroes =
             "生命強化",
             "全體攻擊 (打5)"
         ],
-        "source": "S3-瓦爾哈拉",
+        "source": "S3 - 瓦爾哈拉",
         "Release date": "2020-05-28",
         "star": 4,
         "power": 662,
@@ -110528,7 +110528,7 @@ window.allHeroes =
             "全體攻擊 (打5)",
             "持續治療"
         ],
-        "source": "S3-瓦爾哈拉",
+        "source": "S3 - 瓦爾哈拉",
         "Release date": "2022-07-04",
         "star": 4,
         "power": 685,
@@ -110615,7 +110615,7 @@ window.allHeroes =
             "治療",
             "召喚小兵"
         ],
-        "source": "月活動-冬季",
+        "source": "月活動 - 冬季",
         "Release date": "2022-12-01",
         "star": 4,
         "power": 684,
@@ -110702,7 +110702,7 @@ window.allHeroes =
             "全體攻擊 (打5)",
             "攻擊減益"
         ],
-        "source": "S1-經典",
+        "source": "S1 - 經典",
         "Release date": "2017-03-01",
         "star": 4,
         "power": 638,
@@ -110790,7 +110790,7 @@ window.allHeroes =
             "攻擊減益",
             "治療削減"
         ],
-        "source": "S1-經典",
+        "source": "S1 - 經典",
         "Release date": "2021-01-18",
         "star": 4,
         "power": 683,
@@ -110878,7 +110878,7 @@ window.allHeroes =
             "攻擊減益",
             "法力削減或格擋"
         ],
-        "source": "S1-經典",
+        "source": "S1 - 經典",
         "Release date": "2023-11-27",
         "star": 4,
         "power": 729,
@@ -110965,7 +110965,7 @@ window.allHeroes =
             "攻擊減益",
             "額外傷害"
         ],
-        "source": "S1-經典",
+        "source": "S1 - 經典",
         "Release date": "2024-05-31",
         "star": 4,
         "power": 741,
@@ -111055,7 +111055,7 @@ window.allHeroes =
             "繞過",
             "攻擊減益"
         ],
-        "source": "S1-經典",
+        "source": "S1 - 經典",
         "Release date": "2025-06-18",
         "star": 4,
         "power": 753,
@@ -111142,7 +111142,7 @@ window.allHeroes =
             "治療",
             "對自身或友軍負面效果"
         ],
-        "source": "月活動-斯普林維爾",
+        "source": "月活動 - 斯普林維爾",
         "Release date": "2020-04-06",
         "star": 4,
         "power": 661,
@@ -111227,7 +111227,7 @@ window.allHeroes =
             "全體攻擊 (打5)",
             "法力削減或格擋"
         ],
-        "source": "S1-經典",
+        "source": "S1 - 經典",
         "Release date": "2017-03-01",
         "star": 4,
         "power": 640,
@@ -111312,7 +111312,7 @@ window.allHeroes =
             "全體攻擊 (打5)",
             "法力削減或格擋"
         ],
-        "source": "S1-經典",
+        "source": "S1 - 經典",
         "Release date": "2020-01-20",
         "star": 4,
         "power": 685,
@@ -111397,7 +111397,7 @@ window.allHeroes =
             "範圍攻擊 (打3)",
             "沈默"
         ],
-        "source": "S1-經典",
+        "source": "S1 - 經典",
         "Release date": "2023-02-20",
         "star": 4,
         "power": 731,
@@ -111483,7 +111483,7 @@ window.allHeroes =
             "額外傷害",
             "法力削減或格擋"
         ],
-        "source": "S1-經典",
+        "source": "S1 - 經典",
         "Release date": "2024-02-12",
         "star": 4,
         "power": 743,
@@ -111573,7 +111573,7 @@ window.allHeroes =
             "繞過",
             "法力削減或格擋"
         ],
-        "source": "S1-經典",
+        "source": "S1 - 經典",
         "Release date": "2025-03-11",
         "star": 4,
         "power": 755,
@@ -111664,7 +111664,7 @@ window.allHeroes =
             "防禦減益",
             "法力削減或格擋"
         ],
-        "source": "S3-瓦爾哈拉",
+        "source": "S3 - 瓦爾哈拉",
         "Release date": "2020-02-27",
         "star": 4,
         "power": 661,
@@ -111752,7 +111752,7 @@ window.allHeroes =
             "狙擊手",
             "持續傷害"
         ],
-        "source": "S5-沙丘",
+        "source": "S5 - 沙丘",
         "Release date": "2022-04-21",
         "star": 4,
         "power": 683,
@@ -111844,7 +111844,7 @@ window.allHeroes =
             "召喚惡魔",
             "持續傷害"
         ],
-        "source": "S5-沙丘",
+        "source": "S5 - 沙丘",
         "Release date": "2025-01-20",
         "star": 4,
         "power": 700,
@@ -111938,7 +111938,7 @@ window.allHeroes =
             "生命強化",
             "復活"
         ],
-        "source": "高塔-冥河",
+        "source": "高塔 - 冥河",
         "Release date": "2022-09-21",
         "star": 4,
         "power": 685,
@@ -112032,7 +112032,7 @@ window.allHeroes =
             "反製惡魔",
             "治療"
         ],
-        "source": "月活動-戀愛季節",
+        "source": "月活動 - 戀愛季節",
         "Release date": "2023-02-14",
         "star": 4,
         "power": 686,
@@ -112119,7 +112119,7 @@ window.allHeroes =
             "精神錯亂攻擊&治療",
             "狙擊手"
         ],
-        "source": "挑戰節-強大寵物",
+        "source": "挑戰節 II",
         "Release date": "2022-11-03",
         "star": 4,
         "power": 684,
@@ -112384,7 +112384,7 @@ window.allHeroes =
             "攻擊增益",
             "對自身或友軍負面效果"
         ],
-        "source": "S1-經典",
+        "source": "S1 - 經典",
         "Release date": "2017-03-01",
         "star": 4,
         "power": 644,
@@ -112468,7 +112468,7 @@ window.allHeroes =
             "全體攻擊 (打5)",
             "對自身或友軍負面效果"
         ],
-        "source": "S1-經典",
+        "source": "S1 - 經典",
         "Release date": "2021-01-18",
         "star": 4,
         "power": 690,
@@ -112552,7 +112552,7 @@ window.allHeroes =
             "攻擊增益",
             "對自身或友軍負面效果"
         ],
-        "source": "S1-經典",
+        "source": "S1 - 經典",
         "Release date": "2023-10-30",
         "star": 4,
         "power": 736,
@@ -112635,7 +112635,7 @@ window.allHeroes =
             "攻擊增益",
             "對自身或友軍負面效果"
         ],
-        "source": "S1-經典",
+        "source": "S1 - 經典",
         "Release date": "2024-07-16",
         "star": 4,
         "power": 748,
@@ -112813,7 +112813,7 @@ window.allHeroes =
             "範圍攻擊 (打3)",
             "重排隊伍"
         ],
-        "source": "S4-地底荒野",
+        "source": "S4 - 地底荒野",
         "Release date": "2021-03-25",
         "star": 5,
         "power": 806,
@@ -112903,7 +112903,7 @@ window.allHeroes =
             "防禦增益",
             "重排隊伍"
         ],
-        "source": "S4-地底荒野",
+        "source": "S4 - 地底荒野",
         "Release date": "2024-02-01",
         "star": 5,
         "power": 1021,
@@ -112994,7 +112994,7 @@ window.allHeroes =
             "攻擊增益",
             "對自身或友軍負面效果"
         ],
-        "source": "月活動-冬季",
+        "source": "月活動 - 冬季",
         "Release date": "2024-12-01",
         "star": 5,
         "power": 1122,
@@ -113084,7 +113084,7 @@ window.allHeroes =
             "全體攻擊 (打5)",
             "反射"
         ],
-        "source": "聯盟-騎士衝擊",
+        "source": "聯盟 - 騎士衝擊",
         "Release date": "2024-08-14",
         "star": 5,
         "power": 1084,
@@ -113267,7 +113267,7 @@ window.allHeroes =
             "攻擊減益",
             "防禦減益"
         ],
-        "source": "挑戰節-海盜",
+        "source": "挑戰節 I",
         "Release date": "2022-10-06",
         "star": 5,
         "power": 835,
@@ -113353,7 +113353,7 @@ window.allHeroes =
             "狙擊手",
             "精神錯亂攻擊&治療"
         ],
-        "source": "月活動-戀愛季節",
+        "source": "月活動 - 戀愛季節",
         "Release date": "2025-02-14",
         "star": 5,
         "power": 1163,
@@ -113442,7 +113442,7 @@ window.allHeroes =
             "額外傷害",
             "狙擊手"
         ],
-        "source": "S4-地底荒野",
+        "source": "S4 - 地底荒野",
         "Release date": "2021-07-15",
         "star": 5,
         "power": 808,
@@ -113529,7 +113529,7 @@ window.allHeroes =
             "狙擊手",
             "攻擊增益"
         ],
-        "source": "S4-地底荒野",
+        "source": "S4 - 地底荒野",
         "Release date": "2023-09-07",
         "star": 5,
         "power": 1024,
@@ -113714,7 +113714,7 @@ window.allHeroes =
             "復活",
             "傷害減免"
         ],
-        "source": "挑戰節-吟遊詩人",
+        "source": "挑戰節 II",
         "Release date": "2024-11-14",
         "star": 5,
         "power": 1115,
@@ -113811,7 +113811,7 @@ window.allHeroes =
             "狙擊手",
             "閃避"
         ],
-        "source": "聯盟-飛蛾",
+        "source": "聯盟 - 飛蛾",
         "Release date": "2025-05-01",
         "star": 5,
         "power": 1197,
@@ -114087,7 +114087,7 @@ window.allHeroes =
             "全體攻擊 (打5)",
             "凈化"
         ],
-        "source": "月活動-農曆新年",
+        "source": "月活動 - 農曆新年",
         "Release date": "2025-01-27",
         "star": 5,
         "power": 1152,
@@ -114183,7 +114183,7 @@ window.allHeroes =
             "法力生成增益",
             "持續治療"
         ],
-        "source": "挑戰節-殺手",
+        "source": "挑戰節 II",
         "Release date": "2021-08-05",
         "star": 5,
         "power": 809,
@@ -114281,7 +114281,7 @@ window.allHeroes =
             "持續傷害",
             "特殊治療"
         ],
-        "source": "挑戰節-殺手",
+        "source": "挑戰節 II",
         "Release date": "2024-11-14",
         "star": 5,
         "power": 1210,
@@ -114473,7 +114473,7 @@ window.allHeroes =
             "驅散",
             "凈化"
         ],
-        "source": "挑戰-歌劇秘辛",
+        "source": "挑戰 - 歌劇秘辛",
         "Release date": "2023-11-30",
         "star": 5,
         "power": 957,
@@ -114567,7 +114567,7 @@ window.allHeroes =
             "提供免疫",
             "特殊治療"
         ],
-        "source": "S5-沙丘",
+        "source": "S5 - 沙丘",
         "Release date": "2022-10-27",
         "star": 5,
         "power": 865,
@@ -114659,7 +114659,7 @@ window.allHeroes =
             "生命強化",
             "凈化"
         ],
-        "source": "S5-沙丘",
+        "source": "S5 - 沙丘",
         "Release date": "2024-04-29",
         "star": 5,
         "power": 1210,
@@ -114750,7 +114750,7 @@ window.allHeroes =
             "閃避",
             "反擊"
         ],
-        "source": "聯盟-火槍手",
+        "source": "聯盟 - 火槍手",
         "Release date": "2023-07-26",
         "star": 5,
         "power": 929,
@@ -115202,7 +115202,7 @@ window.allHeroes =
             "治療",
             "召喚小兵"
         ],
-        "source": "挑戰節-星隕",
+        "source": "挑戰節 II",
         "Release date": "2021-06-10",
         "star": 5,
         "power": 808,
@@ -115295,7 +115295,7 @@ window.allHeroes =
             "疊加",
             "對自身或友軍負面效果"
         ],
-        "source": "神秘-暗影",
+        "source": "神秘 - 暗影",
         "Release date": "2024-05-17",
         "star": 5,
         "power": 1098,
@@ -115564,7 +115564,7 @@ window.allHeroes =
             "全體攻擊 (打5)",
             "反製小兵"
         ],
-        "source": "聯盟-騎士衝擊",
+        "source": "聯盟 - 騎士衝擊",
         "Release date": "2022-01-05",
         "star": 5,
         "power": 822,
@@ -115653,7 +115653,7 @@ window.allHeroes =
             "召喚小兵",
             "疊加"
         ],
-        "source": "S6-深淵謎團",
+        "source": "S6 - 深淵謎團",
         "Release date": "2023-06-07",
         "star": 5,
         "power": 934,
@@ -115751,7 +115751,7 @@ window.allHeroes =
             "召喚小兵",
             "疊加"
         ],
-        "source": "S6-深淵謎團",
+        "source": "S6 - 深淵謎團",
         "Release date": "2025-03-31",
         "star": 5,
         "power": 1161,
@@ -115936,7 +115936,7 @@ window.allHeroes =
             "連鎖與隨機攻擊",
             "額外傷害"
         ],
-        "source": "S5-沙丘",
+        "source": "S5 - 沙丘",
         "Release date": "2023-01-19",
         "star": 5,
         "power": 868,
@@ -116030,7 +116030,7 @@ window.allHeroes =
             "連鎖與隨機攻擊",
             "額外傷害"
         ],
-        "source": "S5-沙丘",
+        "source": "S5 - 沙丘",
         "Release date": "2025-06-11",
         "star": 5,
         "power": 1214,
@@ -116128,7 +116128,7 @@ window.allHeroes =
             "鬼魂形態與隱藏",
             "繞過"
         ],
-        "source": "額外抽獎-秘密召喚",
+        "source": "額外抽獎 - 秘密召喚",
         "Release date": "2025-05-31",
         "star": 5,
         "power": 1200,
@@ -116317,7 +116317,7 @@ window.allHeroes =
             "範圍攻擊 (打3)",
             "法力削減或格擋"
         ],
-        "source": "挑戰節-星隕",
+        "source": "挑戰節 II",
         "Release date": "2021-06-10",
         "star": 5,
         "power": 804,
@@ -116500,7 +116500,7 @@ window.allHeroes =
             "反射",
             "防禦增益"
         ],
-        "source": "挑戰節-強大寵物",
+        "source": "挑戰節 II",
         "Release date": "2022-11-03",
         "star": 5,
         "power": 835,
@@ -116598,7 +116598,7 @@ window.allHeroes =
             "防禦減益",
             "反製小兵"
         ],
-        "source": "S7-火焰與冰霜的寶藏",
+        "source": "S7 - 火焰與冰霜的寶藏",
         "Release date": "2024-12-03",
         "star": 5,
         "power": 1165,
@@ -116967,7 +116967,7 @@ window.allHeroes =
             "治療",
             "法力提升"
         ],
-        "source": "月活動-農曆新年",
+        "source": "月活動 - 農曆新年",
         "Release date": "2024-02-08",
         "star": 5,
         "power": 983,
@@ -117255,7 +117255,7 @@ window.allHeroes =
             "提供免疫",
             "凈化格擋者"
         ],
-        "source": "挑戰節-守護者",
+        "source": "挑戰節 I",
         "Release date": "2024-02-22",
         "star": 5,
         "power": 1009,
@@ -117353,7 +117353,7 @@ window.allHeroes =
             "提供免疫",
             "對自身或友軍負面效果"
         ],
-        "source": "挑戰節-守護者",
+        "source": "挑戰節 I",
         "Release date": "2020-01-08",
         "star": 5,
         "power": 780,
@@ -117451,7 +117451,7 @@ window.allHeroes =
             "提供免疫",
             "對自身或友軍負面效果"
         ],
-        "source": "挑戰節-守護者",
+        "source": "挑戰節 I",
         "Release date": "2023-01-26",
         "star": 5,
         "power": 976,
@@ -117544,7 +117544,7 @@ window.allHeroes =
             "額外傷害",
             "持續治療"
         ],
-        "source": "挑戰節-守護者",
+        "source": "挑戰節 I",
         "Release date": "2017-10-05",
         "star": 5,
         "power": 765,
@@ -117633,7 +117633,7 @@ window.allHeroes =
             "持續治療",
             "法力削減或格擋"
         ],
-        "source": "挑戰節-阿瓦隆",
+        "source": "挑戰節 I",
         "Release date": "2018-01-05",
         "star": 5,
         "power": 765,
@@ -117722,7 +117722,7 @@ window.allHeroes =
             "法力削減或格擋",
             "反射"
         ],
-        "source": "挑戰節-阿瓦隆",
+        "source": "挑戰節 I",
         "Release date": "2023-04-20",
         "star": 5,
         "power": 958,
@@ -117905,7 +117905,7 @@ window.allHeroes =
             "攻擊增益",
             "反擊"
         ],
-        "source": "挑戰節-強大寵物",
+        "source": "挑戰節 II",
         "Release date": "2022-11-03",
         "star": 5,
         "power": 876,
@@ -118188,7 +118188,7 @@ window.allHeroes =
             "傷害減免",
             "提供免疫"
         ],
-        "source": "挑戰-石像鬼",
+        "source": "挑戰 - 石像鬼",
         "Release date": "2024-06-13",
         "star": 5,
         "power": 1065,
@@ -118276,7 +118276,7 @@ window.allHeroes =
             "範圍攻擊 (打3)",
             "最大生命削減"
         ],
-        "source": "S5-沙丘",
+        "source": "S5 - 沙丘",
         "Release date": "2022-05-19",
         "star": 5,
         "power": 859,
@@ -118365,7 +118365,7 @@ window.allHeroes =
             "範圍攻擊 (打3)",
             "最大生命削減"
         ],
-        "source": "S5-沙丘",
+        "source": "S5 - 沙丘",
         "Release date": "2024-04-01",
         "star": 5,
         "power": 1200,
@@ -118458,7 +118458,7 @@ window.allHeroes =
             "持續傷害",
             "反製小兵"
         ],
-        "source": "高塔-忍者",
+        "source": "高塔 - 忍者",
         "Release date": "2024-08-27",
         "star": 5,
         "power": 1095,
@@ -118558,7 +118558,7 @@ window.allHeroes =
             "召喚小兵",
             "全體攻擊 (打5)"
         ],
-        "source": "S2-亞特蘭蒂斯",
+        "source": "S2 - 亞特蘭蒂斯",
         "Release date": "2019-02-01",
         "star": 5,
         "power": 772,
@@ -118647,7 +118647,7 @@ window.allHeroes =
             "法力提升",
             "召喚小兵"
         ],
-        "source": "S2-亞特蘭蒂斯",
+        "source": "S2 - 亞特蘭蒂斯",
         "Release date": "2022-05-02",
         "star": 5,
         "power": 943,
@@ -118926,7 +118926,7 @@ window.allHeroes =
             "法力削減或格擋",
             "狙擊手"
         ],
-        "source": "挑戰-眾神狂歡節",
+        "source": "挑戰 - 眾神狂歡節",
         "Release date": "2023-07-13",
         "star": 5,
         "power": 931,
@@ -119017,7 +119017,7 @@ window.allHeroes =
             "持續治療",
             "對自身或友軍負面效果"
         ],
-        "source": "月活動-斯普林維爾",
+        "source": "月活動 - 斯普林維爾",
         "Release date": "2023-03-27",
         "star": 5,
         "power": 868,
@@ -119106,7 +119106,7 @@ window.allHeroes =
             "攻擊增益",
             "對自身或友軍負面效果"
         ],
-        "source": "月活動-斯普林維爾",
+        "source": "月活動 - 斯普林維爾",
         "Release date": "2024-03-18",
         "star": 5,
         "power": 991,
@@ -119385,7 +119385,7 @@ window.allHeroes =
             "攻擊減益",
             "狙擊手"
         ],
-        "source": "S1-經典",
+        "source": "S1 - 經典",
         "Release date": "2017-03-01",
         "star": 5,
         "power": 752,
@@ -119470,7 +119470,7 @@ window.allHeroes =
             "攻擊減益",
             "狙擊手"
         ],
-        "source": "S1-經典",
+        "source": "S1 - 經典",
         "Release date": "2020-01-20",
         "star": 5,
         "power": 847,
@@ -119557,7 +119557,7 @@ window.allHeroes =
             "攻擊減益",
             "持續傷害"
         ],
-        "source": "S1-經典",
+        "source": "S1 - 經典",
         "Release date": "2022-12-26",
         "star": 5,
         "power": 961,
@@ -119644,7 +119644,7 @@ window.allHeroes =
             "額外傷害",
             "狙擊手"
         ],
-        "source": "S1-經典",
+        "source": "S1 - 經典",
         "Release date": "2024-02-12",
         "star": 5,
         "power": 1127,
@@ -119734,7 +119734,7 @@ window.allHeroes =
             "攻擊減益",
             "狙擊手"
         ],
-        "source": "S1-經典",
+        "source": "S1 - 經典",
         "Release date": "2025-04-08",
         "star": 5,
         "power": 1232,
@@ -119824,7 +119824,7 @@ window.allHeroes =
             "治療削減",
             "法力削減或格擋"
         ],
-        "source": "挑戰-眾神狂歡節",
+        "source": "挑戰 - 眾神狂歡節",
         "Release date": "2022-11-22",
         "star": 5,
         "power": 838,
@@ -119912,7 +119912,7 @@ window.allHeroes =
             "全體攻擊 (打5)",
             "攻擊減益"
         ],
-        "source": "S1-經典",
+        "source": "S1 - 經典",
         "Release date": "2017-03-01",
         "star": 5,
         "power": 754,
@@ -119999,7 +119999,7 @@ window.allHeroes =
             "額外傷害",
             "法力生成增益"
         ],
-        "source": "S1-經典",
+        "source": "S1 - 經典",
         "Release date": "2021-01-18",
         "star": 5,
         "power": 849,
@@ -120086,7 +120086,7 @@ window.allHeroes =
             "攻擊減益",
             "額外傷害"
         ],
-        "source": "S1-經典",
+        "source": "S1 - 經典",
         "Release date": "2023-02-20",
         "star": 5,
         "power": 966,
@@ -120173,7 +120173,7 @@ window.allHeroes =
             "攻擊減益",
             "額外傷害"
         ],
-        "source": "S1-經典",
+        "source": "S1 - 經典",
         "Release date": "2024-06-28",
         "star": 5,
         "power": 1132,
@@ -120353,7 +120353,7 @@ window.allHeroes =
             "精神錯亂攻擊&治療",
             "連鎖與隨機攻擊"
         ],
-        "source": "月活動-卡勒瓦拉",
+        "source": "月活動 - 卡勒瓦拉",
         "Release date": "2022-06-20",
         "star": 5,
         "power": 835,
@@ -120442,7 +120442,7 @@ window.allHeroes =
             "連鎖與隨機攻擊",
             "精神錯亂攻擊&治療"
         ],
-        "source": "月活動-卡勒瓦拉",
+        "source": "月活動 - 卡勒瓦拉",
         "Release date": "2023-08-07",
         "star": 5,
         "power": 1078,
@@ -120533,7 +120533,7 @@ window.allHeroes =
             "精神錯亂攻擊&治療",
             "狙擊手"
         ],
-        "source": "高塔-忍者",
+        "source": "高塔 - 忍者",
         "Release date": "2023-05-31",
         "star": 5,
         "power": 875,
@@ -120636,7 +120636,7 @@ window.allHeroes =
             "反製小兵",
             "狙擊手"
         ],
-        "source": "月活動-農曆新年",
+        "source": "月活動 - 農曆新年",
         "Release date": "2023-01-19",
         "star": 5,
         "power": 861,
@@ -120914,7 +120914,7 @@ window.allHeroes =
             "法力削減或格擋",
             "狙擊手"
         ],
-        "source": "S1-經典",
+        "source": "S1 - 經典",
         "Release date": "2017-03-01",
         "star": 5,
         "power": 752,
@@ -121000,7 +121000,7 @@ window.allHeroes =
             "攻擊減益",
             "防禦減益"
         ],
-        "source": "S1-經典",
+        "source": "S1 - 經典",
         "Release date": "2021-01-18",
         "star": 5,
         "power": 845,
@@ -121088,7 +121088,7 @@ window.allHeroes =
             "法力削減或格擋",
             "防禦減益"
         ],
-        "source": "S1-經典",
+        "source": "S1 - 經典",
         "Release date": "2022-12-26",
         "star": 5,
         "power": 960,
@@ -121177,7 +121177,7 @@ window.allHeroes =
             "法力削減或格擋",
             "狙擊手"
         ],
-        "source": "S1-經典",
+        "source": "S1 - 經典",
         "Release date": "2023-12-25",
         "star": 5,
         "power": 1125,
@@ -121270,7 +121270,7 @@ window.allHeroes =
             "法力削減或格擋",
             "狙擊手"
         ],
-        "source": "S1-經典",
+        "source": "S1 - 經典",
         "Release date": "2025-02-10",
         "star": 5,
         "power": 1232,
@@ -121364,7 +121364,7 @@ window.allHeroes =
             "持續治療",
             "反射"
         ],
-        "source": "高塔-貓頭鷹",
+        "source": "高塔 - 貓頭鷹",
         "Release date": "2024-02-14",
         "star": 5,
         "power": 1047,
@@ -121639,7 +121639,7 @@ window.allHeroes =
             "額外傷害",
             "召喚惡魔"
         ],
-        "source": "月活動-莫洛維亞",
+        "source": "月活動 - 莫洛維亞",
         "Release date": "2022-10-03",
         "star": 5,
         "power": 850,
@@ -121826,7 +121826,7 @@ window.allHeroes =
             "治療",
             "防禦增益"
         ],
-        "source": "挑戰-歌劇秘辛",
+        "source": "挑戰 - 歌劇秘辛",
         "Release date": "2024-03-21",
         "star": 5,
         "power": 1079,
@@ -122007,7 +122007,7 @@ window.allHeroes =
             "法力削減或格擋",
             "額外傷害"
         ],
-        "source": "S5-沙丘",
+        "source": "S5 - 沙丘",
         "Release date": "2023-04-13",
         "star": 5,
         "power": 871,
@@ -122100,7 +122100,7 @@ window.allHeroes =
             "額外傷害",
             "法力削減或格擋"
         ],
-        "source": "S5-沙丘",
+        "source": "S5 - 沙丘",
         "Release date": "2024-06-24",
         "star": 5,
         "power": 1219,
@@ -122196,7 +122196,7 @@ window.allHeroes =
             "傷害分攤",
             "法力生成增益"
         ],
-        "source": "高塔-忍者",
+        "source": "高塔 - 忍者",
         "Release date": "2020-10-13",
         "star": 5,
         "power": 798,
@@ -122391,7 +122391,7 @@ window.allHeroes =
             "持續傷害",
             "治療"
         ],
-        "source": "高塔-魔法",
+        "source": "高塔 - 魔法",
         "Release date": "2021-09-15",
         "star": 5,
         "power": 813,
@@ -122756,7 +122756,7 @@ window.allHeroes =
             "法力削減或格擋",
             "狙擊手"
         ],
-        "source": "高塔-冥河",
+        "source": "高塔 - 冥河",
         "Release date": "2022-09-21",
         "star": 5,
         "power": 857,
@@ -122855,7 +122855,7 @@ window.allHeroes =
             "反擊",
             "持續傷害"
         ],
-        "source": "挑戰-貝武夫",
+        "source": "挑戰 - 貝武夫",
         "Release date": "2025-05-18",
         "star": 5,
         "power": 1201,
@@ -122943,7 +122943,7 @@ window.allHeroes =
         "skill_types": [
             "範圍攻擊 (打3)"
         ],
-        "source": "S3-瓦爾哈拉",
+        "source": "S3 - 瓦爾哈拉",
         "Release date": "2020-03-26",
         "star": 5,
         "power": 787,
@@ -123026,7 +123026,7 @@ window.allHeroes =
         "skill_types": [
             "範圍攻擊 (打3)"
         ],
-        "source": "S3-瓦爾哈拉",
+        "source": "S3 - 瓦爾哈拉",
         "Release date": "2023-08-28",
         "star": 5,
         "power": 986,
@@ -123112,7 +123112,7 @@ window.allHeroes =
             "法力生成增益",
             "額外傷害"
         ],
-        "source": "S3-瓦爾哈拉",
+        "source": "S3 - 瓦爾哈拉",
         "Release date": "2020-11-26",
         "star": 5,
         "power": 788,
@@ -123199,7 +123199,7 @@ window.allHeroes =
             "法力生成增益",
             "額外傷害"
         ],
-        "source": "S3-瓦爾哈拉",
+        "source": "S3 - 瓦爾哈拉",
         "Release date": "2023-03-13",
         "star": 5,
         "power": 986,
@@ -123288,7 +123288,7 @@ window.allHeroes =
             "反製小兵",
             "疊加"
         ],
-        "source": "挑戰節-吟遊詩人",
+        "source": "挑戰節 II",
         "Release date": "2022-12-01",
         "star": 5,
         "power": 837,
@@ -123468,7 +123468,7 @@ window.allHeroes =
             "持續傷害",
             "召喚小兵"
         ],
-        "source": "S5-沙丘",
+        "source": "S5 - 沙丘",
         "Release date": "2022-04-21",
         "star": 5,
         "power": 858,
@@ -123560,7 +123560,7 @@ window.allHeroes =
             "生命強化",
             "召喚小兵"
         ],
-        "source": "S5-沙丘",
+        "source": "S5 - 沙丘",
         "Release date": "2024-10-05",
         "star": 5,
         "power": 1200,
@@ -123655,7 +123655,7 @@ window.allHeroes =
             "全體攻擊 (打5)",
             "傷害減免"
         ],
-        "source": "挑戰-石像鬼",
+        "source": "挑戰 - 石像鬼",
         "Release date": "2021-11-24",
         "star": 5,
         "power": 841,
@@ -123746,7 +123746,7 @@ window.allHeroes =
             "持續傷害",
             "法力削減或格擋"
         ],
-        "source": "S6-深淵謎團",
+        "source": "S6 - 深淵謎團",
         "Release date": "2023-10-25",
         "star": 5,
         "power": 964,
@@ -123846,7 +123846,7 @@ window.allHeroes =
             "持續傷害",
             "法力削減或格擋"
         ],
-        "source": "S6-深淵謎團",
+        "source": "S6 - 深淵謎團",
         "Release date": "2025-01-09",
         "star": 5,
         "power": 1200,
@@ -123949,7 +123949,7 @@ window.allHeroes =
             "驅散",
             "鬼魂形態與隱藏"
         ],
-        "source": "高塔-貓頭鷹",
+        "source": "高塔 - 貓頭鷹",
         "Release date": "2025-02-05",
         "star": 5,
         "power": 1159,
@@ -124132,7 +124132,7 @@ window.allHeroes =
             "提供免疫",
             "狙擊手"
         ],
-        "source": "S2-亞特蘭蒂斯",
+        "source": "S2 - 亞特蘭蒂斯",
         "Release date": "2019-02-19",
         "star": 5,
         "power": 775,
@@ -124218,7 +124218,7 @@ window.allHeroes =
             "提供免疫",
             "狙擊手"
         ],
-        "source": "S2-亞特蘭蒂斯",
+        "source": "S2 - 亞特蘭蒂斯",
         "Release date": "2021-11-15",
         "star": 5,
         "power": 947,
@@ -124305,7 +124305,7 @@ window.allHeroes =
             "生命強化",
             "持續治療"
         ],
-        "source": "S4-地底荒野",
+        "source": "S4 - 地底荒野",
         "Release date": "2021-03-25",
         "star": 5,
         "power": 806,
@@ -124395,7 +124395,7 @@ window.allHeroes =
             "生命強化",
             "持續治療"
         ],
-        "source": "S4-地底荒野",
+        "source": "S4 - 地底荒野",
         "Release date": "2023-04-27",
         "star": 5,
         "power": 1020,
@@ -124573,7 +124573,7 @@ window.allHeroes =
             "持續傷害",
             "治療削減"
         ],
-        "source": "月活動-飛沙帝國",
+        "source": "月活動 - 飛沙帝國",
         "Release date": "2018-06-21",
         "star": 5,
         "power": 772,
@@ -124664,7 +124664,7 @@ window.allHeroes =
             "持續傷害",
             "治療削減"
         ],
-        "source": "月活動-飛沙帝國",
+        "source": "月活動 - 飛沙帝國",
         "Release date": "2021-06-21",
         "star": 5,
         "power": 944,
@@ -124847,7 +124847,7 @@ window.allHeroes =
             "凈化",
             "生命強化"
         ],
-        "source": "挑戰節-吟遊詩人",
+        "source": "挑戰節 II",
         "Release date": "2022-08-11",
         "star": 5,
         "power": 849,
@@ -124938,7 +124938,7 @@ window.allHeroes =
             "持續傷害",
             "治療削減"
         ],
-        "source": "月活動-飛沙帝國",
+        "source": "月活動 - 飛沙帝國",
         "Release date": "2020-06-29",
         "star": 5,
         "power": 789,
@@ -125026,7 +125026,7 @@ window.allHeroes =
             "驅散",
             "持續傷害"
         ],
-        "source": "月活動-飛沙帝國",
+        "source": "月活動 - 飛沙帝國",
         "Release date": "2022-05-16",
         "star": 5,
         "power": 964,
@@ -125406,7 +125406,7 @@ window.allHeroes =
             "閃避",
             "反製小兵"
         ],
-        "source": "聯盟-飛蛾",
+        "source": "聯盟 - 飛蛾",
         "Release date": "2025-01-23",
         "star": 5,
         "power": 1178,
@@ -125776,7 +125776,7 @@ window.allHeroes =
             "傷害減免",
             "法力生成增益"
         ],
-        "source": "S3-瓦爾哈拉",
+        "source": "S3 - 瓦爾哈拉",
         "Release date": "2020-02-27",
         "star": 5,
         "power": 788,
@@ -125865,7 +125865,7 @@ window.allHeroes =
             "傷害減免",
             "法力提升"
         ],
-        "source": "S3-瓦爾哈拉",
+        "source": "S3 - 瓦爾哈拉",
         "Release date": "2022-08-29",
         "star": 5,
         "power": 987,
@@ -126042,7 +126042,7 @@ window.allHeroes =
             "連鎖與隨機攻擊",
             "對自身或友軍負面效果"
         ],
-        "source": "月活動-斯普林維爾",
+        "source": "月活動 - 斯普林維爾",
         "Release date": "2020-04-06",
         "star": 5,
         "power": 789,
@@ -126311,7 +126311,7 @@ window.allHeroes =
             "全體攻擊 (打5)",
             "攻擊減益"
         ],
-        "source": "S3-瓦爾哈拉",
+        "source": "S3 - 瓦爾哈拉",
         "Release date": "2021-01-28",
         "star": 5,
         "power": 788,
@@ -126404,7 +126404,7 @@ window.allHeroes =
             "全體攻擊 (打5)",
             "攻擊減益"
         ],
-        "source": "S3-瓦爾哈拉",
+        "source": "S3 - 瓦爾哈拉",
         "Release date": "2022-12-19",
         "star": 5,
         "power": 986,
@@ -126686,7 +126686,7 @@ window.allHeroes =
             "法力提升",
             "反製小兵"
         ],
-        "source": "高塔-忍者",
+        "source": "高塔 - 忍者",
         "Release date": "2022-02-02",
         "star": 5,
         "power": 818,
@@ -126885,7 +126885,7 @@ window.allHeroes =
             "持續傷害",
             "持續治療"
         ],
-        "source": "高塔-魔法",
+        "source": "高塔 - 魔法",
         "Release date": "2023-11-15",
         "star": 5,
         "power": 956,
@@ -126982,7 +126982,7 @@ window.allHeroes =
             "凈化",
             "治療"
         ],
-        "source": "S1-經典",
+        "source": "S1 - 經典",
         "Release date": "2017-03-01",
         "star": 5,
         "power": 755,
@@ -127070,7 +127070,7 @@ window.allHeroes =
             "驅散",
             "治療"
         ],
-        "source": "S1-經典",
+        "source": "S1 - 經典",
         "Release date": "2020-01-20",
         "star": 5,
         "power": 850,
@@ -127158,7 +127158,7 @@ window.allHeroes =
             "驅散",
             "生命強化"
         ],
-        "source": "S1-經典",
+        "source": "S1 - 經典",
         "Release date": "2022-09-05",
         "star": 5,
         "power": 966,
@@ -127246,7 +127246,7 @@ window.allHeroes =
             "凈化",
             "治療"
         ],
-        "source": "S1-經典",
+        "source": "S1 - 經典",
         "Release date": "2023-10-30",
         "star": 5,
         "power": 1132,
@@ -127338,7 +127338,7 @@ window.allHeroes =
             "治療",
             "反射"
         ],
-        "source": "S1-經典",
+        "source": "S1 - 經典",
         "Release date": "2024-12-24",
         "star": 5,
         "power": 1238,
@@ -127428,7 +127428,7 @@ window.allHeroes =
             "特殊治療",
             "治療削減"
         ],
-        "source": "月活動-莫洛維亞",
+        "source": "月活動 - 莫洛維亞",
         "Release date": "2024-09-23",
         "star": 5,
         "power": 1054,
@@ -127519,7 +127519,7 @@ window.allHeroes =
             "攻擊增益",
             "法力生成增益"
         ],
-        "source": "挑戰-貝武夫",
+        "source": "挑戰 - 貝武夫",
         "Release date": "2024-11-25",
         "star": 5,
         "power": 1182,
@@ -127612,7 +127612,7 @@ window.allHeroes =
             "範圍攻擊 (打3)",
             "防禦減益"
         ],
-        "source": "挑戰節-仙境",
+        "source": "挑戰節 I",
         "Release date": "2019-02-14",
         "star": 5,
         "power": 779,
@@ -127697,7 +127697,7 @@ window.allHeroes =
             "範圍攻擊 (打3)",
             "防禦減益"
         ],
-        "source": "挑戰節-仙境",
+        "source": "挑戰節 I",
         "Release date": "2022-02-17",
         "star": 5,
         "power": 977,
@@ -127792,7 +127792,7 @@ window.allHeroes =
             "法力削減或格擋",
             "治療"
         ],
-        "source": "高塔-魔法",
+        "source": "高塔 - 魔法",
         "Release date": "2023-05-03",
         "star": 5,
         "power": 891,
@@ -127890,7 +127890,7 @@ window.allHeroes =
             "生命強化",
             "提供免疫"
         ],
-        "source": "聯盟-騎士衝擊",
+        "source": "聯盟 - 騎士衝擊",
         "Release date": "2024-01-10",
         "star": 5,
         "power": 1027,
@@ -127983,7 +127983,7 @@ window.allHeroes =
             "傷害減免",
             "生命強化"
         ],
-        "source": "聯盟-騎士衝擊",
+        "source": "聯盟 - 騎士衝擊",
         "Release date": "2021-10-13",
         "star": 5,
         "power": 816,
@@ -128072,7 +128072,7 @@ window.allHeroes =
             "生命強化",
             "持續治療"
         ],
-        "source": "聯盟-騎士衝擊",
+        "source": "聯盟 - 騎士衝擊",
         "Release date": "2024-12-17",
         "star": 5,
         "power": 1148,
@@ -128165,7 +128165,7 @@ window.allHeroes =
             "增益竊取者",
             "對自身或友軍負面效果"
         ],
-        "source": "神秘-暗影",
+        "source": "神秘 - 暗影",
         "Release date": "2025-01-09",
         "star": 5,
         "power": 1165,
@@ -128444,7 +128444,7 @@ window.allHeroes =
             "反製小兵",
             "狀態效果轉換"
         ],
-        "source": "高塔-魔法",
+        "source": "高塔 - 魔法",
         "Release date": "2025-05-29",
         "star": 5,
         "power": 1210,
@@ -128538,7 +128538,7 @@ window.allHeroes =
             "防禦減益",
             "額外傷害"
         ],
-        "source": "S4-地底荒野",
+        "source": "S4 - 地底荒野",
         "Release date": "2021-12-02",
         "star": 5,
         "power": 812,
@@ -128629,7 +128629,7 @@ window.allHeroes =
             "額外傷害",
             "防禦減益"
         ],
-        "source": "S4-地底荒野",
+        "source": "S4 - 地底荒野",
         "Release date": "2024-06-20",
         "star": 5,
         "power": 1028,
@@ -128719,7 +128719,7 @@ window.allHeroes =
             "提供免疫",
             "特殊治療"
         ],
-        "source": "月活動-海灘派對",
+        "source": "月活動 - 海灘派對",
         "Release date": "2024-06-03",
         "star": 5,
         "power": 1016,

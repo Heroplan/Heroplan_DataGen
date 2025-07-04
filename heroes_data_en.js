@@ -14,7 +14,7 @@ window.allHeroes =
         "skill_types": [
             "AoE Attackers (Hit-5)"
         ],
-        "source": "S1-Classic",
+        "source": "S1 - Classic",
         "Release date": "2017-03-01",
         "star": 1,
         "power": 210,
@@ -44,7 +44,7 @@ window.allHeroes =
         "skill_types": [
             "Snipers"
         ],
-        "source": "S1-Classic",
+        "source": "S1 - Classic",
         "Release date": "2017-03-01",
         "star": 1,
         "power": 210,
@@ -74,7 +74,7 @@ window.allHeroes =
         "skill_types": [
             "Buffers (DEF)"
         ],
-        "source": "S1-Classic",
+        "source": "S1 - Classic",
         "Release date": "2017-03-01",
         "star": 2,
         "power": 332,
@@ -104,7 +104,7 @@ window.allHeroes =
         "skill_types": [
             "AoE Attackers (Hit-5)"
         ],
-        "source": "S1-Classic",
+        "source": "S1 - Classic",
         "Release date": "2017-03-01",
         "star": 2,
         "power": 334,
@@ -134,7 +134,7 @@ window.allHeroes =
         "skill_types": [
             "Buffers (ATK)"
         ],
-        "source": "S1-Classic",
+        "source": "S1 - Classic",
         "Release date": "2017-03-01",
         "star": 2,
         "power": 333,
@@ -169,7 +169,7 @@ window.allHeroes =
             "Minions Counters",
             "Status Effect Conversion"
         ],
-        "source": "Tower-Magic",
+        "source": "Tower - Magic",
         "Release date": "2025-04-17",
         "star": 3,
         "power": 509,
@@ -260,7 +260,7 @@ window.allHeroes =
             "AoE Attackers (Hit-5)",
             "Negative Effects On Self Or Allies"
         ],
-        "source": "Monthly Event-Springvale",
+        "source": "Monthly Event - Springvale",
         "Release date": "2020-04-06",
         "star": 3,
         "power": 462,
@@ -440,7 +440,7 @@ window.allHeroes =
             "Healers",
             "Minions Summoners"
         ],
-        "source": "Monthly Event-Winter",
+        "source": "Monthly Event - Winter",
         "Release date": "2020-12-01",
         "star": 3,
         "power": 475,
@@ -525,7 +525,7 @@ window.allHeroes =
             "Immunity Providers",
             "Snipers"
         ],
-        "source": "S2-Atlantis",
+        "source": "S2 - Atlantis",
         "Release date": "2019-08-22",
         "star": 3,
         "power": 447,
@@ -610,7 +610,7 @@ window.allHeroes =
             "Healers (Special)",
             "Snipers"
         ],
-        "source": "S1-Classic",
+        "source": "S1 - Classic",
         "Release date": "2017-03-01",
         "star": 3,
         "power": 441,
@@ -697,7 +697,7 @@ window.allHeroes =
             "Immunity Providers",
             "Snipers"
         ],
-        "source": "S1-Classic",
+        "source": "S1 - Classic",
         "Release date": "2021-01-18",
         "star": 3,
         "power": 470,
@@ -784,7 +784,7 @@ window.allHeroes =
             "Snipers",
             "Extra Damage Dealers"
         ],
-        "source": "S1-Classic",
+        "source": "S1 - Classic",
         "Release date": "2024-04-08",
         "star": 3,
         "power": 504,
@@ -874,7 +874,7 @@ window.allHeroes =
             "Healers (Special)",
             "Snipers"
         ],
-        "source": "S1-Classic",
+        "source": "S1 - Classic",
         "Release date": "2025-06-18",
         "star": 3,
         "power": 513,
@@ -961,7 +961,7 @@ window.allHeroes =
             "Buffers (DEF)",
             "Healers"
         ],
-        "source": "Challenge Festival-Guardians",
+        "source": "Challenge Festival I",
         "Release date": "2021-12-15",
         "star": 3,
         "power": 481,
@@ -1046,7 +1046,7 @@ window.allHeroes =
             "Buffers (DEF)",
             "Damage Sharers"
         ],
-        "source": "S1-Classic",
+        "source": "S1 - Classic",
         "Release date": "2017-03-01",
         "star": 3,
         "power": 441,
@@ -1131,7 +1131,7 @@ window.allHeroes =
             "Damage Sharers",
             "Debuffers (DEF)"
         ],
-        "source": "S1-Classic",
+        "source": "S1 - Classic",
         "Release date": "2020-01-20",
         "star": 3,
         "power": 470,
@@ -1216,7 +1216,7 @@ window.allHeroes =
             "Buffers (DEF)",
             "Damage Sharers"
         ],
-        "source": "S1-Classic",
+        "source": "S1 - Classic",
         "Release date": "2024-09-08",
         "star": 3,
         "power": 503,
@@ -1303,7 +1303,7 @@ window.allHeroes =
             "Cleansers",
             "Healers"
         ],
-        "source": "S4-Wilderness",
+        "source": "S4 - Wilderness",
         "Release date": "2021-03-25",
         "star": 3,
         "power": 478,
@@ -1390,7 +1390,7 @@ window.allHeroes =
             "Cleansers",
             "Heal over Time (HoT)"
         ],
-        "source": "S4-Wilderness",
+        "source": "S4 - Wilderness",
         "Release date": "2023-12-07",
         "star": 3,
         "power": 488,
@@ -1477,7 +1477,7 @@ window.allHeroes =
             "Buff Blockers",
             "Snipers"
         ],
-        "source": "S5-Dune",
+        "source": "S5 - Dune",
         "Release date": "2022-04-21",
         "star": 3,
         "power": 483,
@@ -1566,7 +1566,7 @@ window.allHeroes =
             "Buff Blockers",
             "Snipers"
         ],
-        "source": "S5-Dune",
+        "source": "S5 - Dune",
         "Release date": "2025-03-17",
         "star": 3,
         "power": 495,
@@ -1658,7 +1658,7 @@ window.allHeroes =
             "Snipers",
             "Stacking Heroes"
         ],
-        "source": "S3-Valhalla",
+        "source": "S3 - Valhalla",
         "Release date": "2020-05-28",
         "star": 3,
         "power": 466,
@@ -1745,7 +1745,7 @@ window.allHeroes =
             "Buff Blockers",
             "Dispellers"
         ],
-        "source": "Monthly Event-Kalevala",
+        "source": "Monthly Event - Kalevala",
         "Release date": "2022-06-20",
         "star": 3,
         "power": 482,
@@ -1831,7 +1831,7 @@ window.allHeroes =
         "skill_types": [
             "AoE Attackers (Hit-3)"
         ],
-        "source": "S1-Classic",
+        "source": "S1 - Classic",
         "Release date": "2017-03-01",
         "star": 3,
         "power": 442,
@@ -1915,7 +1915,7 @@ window.allHeroes =
             "AoE Attackers (Hit-3)",
             "DoT Attackers"
         ],
-        "source": "S1-Classic",
+        "source": "S1 - Classic",
         "Release date": "2020-05-18",
         "star": 3,
         "power": 472,
@@ -1999,7 +1999,7 @@ window.allHeroes =
             "AoE Attackers (Hit-3)",
             "Extra Damage Dealers"
         ],
-        "source": "S1-Classic",
+        "source": "S1 - Classic",
         "Release date": "2024-06-28",
         "star": 3,
         "power": 505,
@@ -2086,7 +2086,7 @@ window.allHeroes =
             "AoE Attackers (Hit-3)",
             "Debuffers (DEF)"
         ],
-        "source": "S3-Valhalla",
+        "source": "S3 - Valhalla",
         "Release date": "2020-02-27",
         "star": 3,
         "power": 464,
@@ -2171,7 +2171,7 @@ window.allHeroes =
             "AoE Attackers (Hit-3)",
             "Debuffers (DEF)"
         ],
-        "source": "S3-Valhalla",
+        "source": "S3 - Valhalla",
         "Release date": "2023-04-10",
         "star": 3,
         "power": 479,
@@ -2258,7 +2258,7 @@ window.allHeroes =
             "Minions Counters",
             "Snipers"
         ],
-        "source": "Alliance-Musketeers",
+        "source": "Alliance - Musketeers",
         "Release date": "2023-03-08",
         "star": 3,
         "power": 486,
@@ -2346,7 +2346,7 @@ window.allHeroes =
             "Extra Damage Dealers",
             "Damage Reducers"
         ],
-        "source": "Challenge-Gargoyle",
+        "source": "Challenge - Gargoyle",
         "Release date": "2022-05-12",
         "star": 3,
         "power": 482,
@@ -2439,7 +2439,7 @@ window.allHeroes =
             "Heal over Time (HoT)",
             "Immunity Providers"
         ],
-        "source": "Challenge-Secrets of the Opera",
+        "source": "Challenge - Secrets of the Opera",
         "Release date": "2024-01-25",
         "star": 3,
         "power": 514,
@@ -2533,7 +2533,7 @@ window.allHeroes =
             "AoE Attackers (Hit-5)",
             "Debuffers (DEF)"
         ],
-        "source": "S1-Classic",
+        "source": "S1 - Classic",
         "Release date": "2017-03-01",
         "star": 3,
         "power": 445,
@@ -2618,7 +2618,7 @@ window.allHeroes =
             "AoE Attackers (Hit-5)",
             "Buffers (ATK)"
         ],
-        "source": "S1-Classic",
+        "source": "S1 - Classic",
         "Release date": "2021-01-18",
         "star": 3,
         "power": 474,
@@ -2704,7 +2704,7 @@ window.allHeroes =
             "Debuffers (DEF)",
             "Extra Damage Dealers"
         ],
-        "source": "S1-Classic",
+        "source": "S1 - Classic",
         "Release date": "2024-07-16",
         "star": 3,
         "power": 507,
@@ -2792,7 +2792,7 @@ window.allHeroes =
             "Debuffers (DEF)",
             "Snipers"
         ],
-        "source": "S1-Classic",
+        "source": "S1 - Classic",
         "Release date": "2017-03-01",
         "star": 3,
         "power": 442,
@@ -2877,7 +2877,7 @@ window.allHeroes =
             "Buffers (ATK)",
             "Snipers"
         ],
-        "source": "S1-Classic",
+        "source": "S1 - Classic",
         "Release date": "2021-01-18",
         "star": 3,
         "power": 471,
@@ -2963,7 +2963,7 @@ window.allHeroes =
             "Extra Damage Dealers",
             "Snipers"
         ],
-        "source": "S1-Classic",
+        "source": "S1 - Classic",
         "Release date": "2023-12-25",
         "star": 3,
         "power": 503,
@@ -3053,7 +3053,7 @@ window.allHeroes =
             "Healers",
             "Minions Counters"
         ],
-        "source": "Tower-Styx",
+        "source": "Tower - Styx",
         "Release date": "2022-09-21",
         "star": 3,
         "power": 484,
@@ -3149,7 +3149,7 @@ window.allHeroes =
             "Snipers",
             "Extra Damage Dealers"
         ],
-        "source": "Challenge Festival-Pirates",
+        "source": "Challenge Festival I",
         "Release date": "2017-09-07",
         "star": 3,
         "power": 455,
@@ -3321,7 +3321,7 @@ window.allHeroes =
             "AoE Attackers (Hit-5)",
             "Buffers (DEF)"
         ],
-        "source": "S2-Atlantis",
+        "source": "S2 - Atlantis",
         "Release date": "2019-08-01",
         "star": 4,
         "power": 648,
@@ -3406,7 +3406,7 @@ window.allHeroes =
             "AoE Attackers (Hit-5)",
             "DoT Attackers"
         ],
-        "source": "S2-Atlantis",
+        "source": "S2 - Atlantis",
         "Release date": "2023-03-06",
         "star": 4,
         "power": 669,
@@ -3491,7 +3491,7 @@ window.allHeroes =
             "AoE Attackers (Hit-5)",
             "Taunters"
         ],
-        "source": "S6-Mysteries of the Deep",
+        "source": "S6 - Mysteries of the Deep",
         "Release date": "2023-09-27",
         "star": 4,
         "power": 688,
@@ -3585,7 +3585,7 @@ window.allHeroes =
             "AoE Attackers (Hit-5)",
             "Taunters"
         ],
-        "source": "S6-Mysteries of the Deep",
+        "source": "S6 - Mysteries of the Deep",
         "Release date": "2023-09-27",
         "star": 4,
         "power": 704,
@@ -3680,7 +3680,7 @@ window.allHeroes =
             "Counterattackers",
             "Healers"
         ],
-        "source": "S5-Dune",
+        "source": "S5 - Dune",
         "Release date": "2022-04-21",
         "star": 4,
         "power": 683,
@@ -3771,7 +3771,7 @@ window.allHeroes =
             "Health Boosters",
             "Cleansers"
         ],
-        "source": "S5-Dune",
+        "source": "S5 - Dune",
         "Release date": "2024-06-24",
         "star": 4,
         "power": 699,
@@ -3950,7 +3950,7 @@ window.allHeroes =
         "skill_types": [
             "Counterattackers"
         ],
-        "source": "S1-Classic",
+        "source": "S1 - Classic",
         "Release date": "2017-03-01",
         "star": 4,
         "power": 643,
@@ -4032,7 +4032,7 @@ window.allHeroes =
         "skill_types": [
             "Counterattackers"
         ],
-        "source": "S1-Classic",
+        "source": "S1 - Classic",
         "Release date": "2020-05-18",
         "star": 4,
         "power": 689,
@@ -4114,7 +4114,7 @@ window.allHeroes =
         "skill_types": [
             "Counterattackers"
         ],
-        "source": "S1-Classic",
+        "source": "S1 - Classic",
         "Release date": "2023-11-27",
         "star": 4,
         "power": 735,
@@ -4196,7 +4196,7 @@ window.allHeroes =
         "skill_types": [
             "Counterattackers"
         ],
-        "source": "S1-Classic",
+        "source": "S1 - Classic",
         "Release date": "2024-09-08",
         "star": 4,
         "power": 747,
@@ -4284,7 +4284,7 @@ window.allHeroes =
             "Minions Counters",
             "Snipers"
         ],
-        "source": "Challenge Festival-Wonderland",
+        "source": "Challenge Festival I",
         "Release date": "2019-02-14",
         "star": 4,
         "power": 650,
@@ -4373,7 +4373,7 @@ window.allHeroes =
             "Minions Counters",
             "Debuffers (ATK)"
         ],
-        "source": "S7-Treasures of Flame and Frost",
+        "source": "S7 - Treasures of Flame and Frost",
         "Release date": "2025-05-16",
         "star": 4,
         "power": 732,
@@ -4465,7 +4465,7 @@ window.allHeroes =
             "Heal over Time (HoT)",
             "Minions Counters"
         ],
-        "source": "Challenge-Carnival of Gods",
+        "source": "Challenge - Carnival of Gods",
         "Release date": "2023-07-13",
         "star": 4,
         "power": 1238,
@@ -4555,7 +4555,7 @@ window.allHeroes =
             "Debuffers (DEF)",
             "Extra Damage Dealers"
         ],
-        "source": "Monthly Event-Morlovia",
+        "source": "Monthly Event - Morlovia",
         "Release date": "2020-10-26",
         "star": 4,
         "power": 667,
@@ -4646,7 +4646,7 @@ window.allHeroes =
             "Mana Reducers or Blockers",
             "Stacking Heroes"
         ],
-        "source": "Monthly Event-Morlovia",
+        "source": "Monthly Event - Morlovia",
         "Release date": "2021-10-04",
         "star": 4,
         "power": 681,
@@ -4737,7 +4737,7 @@ window.allHeroes =
             "Mana Reducers or Blockers",
             "Snipers"
         ],
-        "source": "Challenge Festival-Bards",
+        "source": "Challenge Festival II",
         "Release date": "2022-12-01",
         "star": 4,
         "power": 685,
@@ -4914,7 +4914,7 @@ window.allHeroes =
             "AoE Attackers (Hit-3)",
             "Debuffers (DEF)"
         ],
-        "source": "S1-Classic",
+        "source": "S1 - Classic",
         "Release date": "2017-03-01",
         "star": 4,
         "power": 642,
@@ -4999,7 +4999,7 @@ window.allHeroes =
             "AoE Attackers (Hit-3)",
             "Buffers (ATK)"
         ],
-        "source": "S1-Classic",
+        "source": "S1 - Classic",
         "Release date": "2021-01-18",
         "star": 4,
         "power": 687,
@@ -5083,7 +5083,7 @@ window.allHeroes =
             "AoE Attackers (Hit-3)",
             "Buffers (ATK)"
         ],
-        "source": "S1-Classic",
+        "source": "S1 - Classic",
         "Release date": "2023-06-12",
         "star": 4,
         "power": 733,
@@ -5169,7 +5169,7 @@ window.allHeroes =
             "Debuffers (DEF)",
             "Extra Damage Dealers"
         ],
-        "source": "S1-Classic",
+        "source": "S1 - Classic",
         "Release date": "2023-12-25",
         "star": 4,
         "power": 746,
@@ -5258,7 +5258,7 @@ window.allHeroes =
             "Bypassers",
             "Debuffers (DEF)"
         ],
-        "source": "S1-Classic",
+        "source": "S1 - Classic",
         "Release date": "2024-12-24",
         "star": 4,
         "power": 758,
@@ -5349,7 +5349,7 @@ window.allHeroes =
             "Cleansers",
             "Immunity Providers"
         ],
-        "source": "Challenge-Gargoyle",
+        "source": "Challenge - Gargoyle",
         "Release date": "2024-05-16",
         "star": 4,
         "power": 701,
@@ -5439,7 +5439,7 @@ window.allHeroes =
             "Debuffers (ATK)",
             "Buffers (ATK)"
         ],
-        "source": "S3-Valhalla",
+        "source": "S3 - Valhalla",
         "Release date": "2020-05-28",
         "star": 4,
         "power": 664,
@@ -5526,7 +5526,7 @@ window.allHeroes =
             "Buffers (DEF)",
             "Healers"
         ],
-        "source": "S1-Classic",
+        "source": "S1 - Classic",
         "Release date": "2017-03-01",
         "star": 4,
         "power": 647,
@@ -5614,7 +5614,7 @@ window.allHeroes =
             "Debuffers (DEF)",
             "Healers"
         ],
-        "source": "S1-Classic",
+        "source": "S1 - Classic",
         "Release date": "2020-05-18",
         "star": 4,
         "power": 692,
@@ -5702,7 +5702,7 @@ window.allHeroes =
             "Debuffers (ATK)",
             "Health Boosters"
         ],
-        "source": "S1-Classic",
+        "source": "S1 - Classic",
         "Release date": "2022-10-31",
         "star": 4,
         "power": 739,
@@ -5790,7 +5790,7 @@ window.allHeroes =
             "Buffers (DEF)",
             "Healers"
         ],
-        "source": "S1-Classic",
+        "source": "S1 - Classic",
         "Release date": "2024-02-12",
         "star": 4,
         "power": 751,
@@ -5883,7 +5883,7 @@ window.allHeroes =
             "Healers",
             "Reflectors"
         ],
-        "source": "S1-Classic",
+        "source": "S1 - Classic",
         "Release date": "2025-03-11",
         "star": 4,
         "power": 763,
@@ -6159,7 +6159,7 @@ window.allHeroes =
             "Buffers (ATK)",
             "Stacking Heroes"
         ],
-        "source": "S3-Valhalla",
+        "source": "S3 - Valhalla",
         "Release date": "2020-02-27",
         "star": 4,
         "power": 660,
@@ -6246,7 +6246,7 @@ window.allHeroes =
             "Snipers",
             "Bypassers"
         ],
-        "source": "Tower-Owls",
+        "source": "Tower - Owls",
         "Release date": "2023-12-19",
         "star": 4,
         "power": 693,
@@ -6335,7 +6335,7 @@ window.allHeroes =
             "Debuffers (DEF)",
             "Mana Raisers"
         ],
-        "source": "Tower-Ninjas",
+        "source": "Tower - Ninjas",
         "Release date": "2024-09-24",
         "star": 4,
         "power": 701,
@@ -6430,7 +6430,7 @@ window.allHeroes =
             "Buffers (DEF)",
             "Health Boosters"
         ],
-        "source": "Challenge Festival-Villains",
+        "source": "Challenge Festival II",
         "Release date": "2021-02-11",
         "star": 4,
         "power": 675,
@@ -6518,7 +6518,7 @@ window.allHeroes =
             "AoE Attackers (Hit-5)",
             "Bypassers"
         ],
-        "source": "Tower-Ninjas",
+        "source": "Tower - Ninjas",
         "Release date": "2020-10-13",
         "star": 4,
         "power": 670,
@@ -6610,7 +6610,7 @@ window.allHeroes =
             "Dispellers",
             "Snipers"
         ],
-        "source": "S1-Classic",
+        "source": "S1 - Classic",
         "Release date": "2017-03-01",
         "star": 4,
         "power": 643,
@@ -6695,7 +6695,7 @@ window.allHeroes =
             "Cleansers",
             "Snipers"
         ],
-        "source": "S1-Classic",
+        "source": "S1 - Classic",
         "Release date": "2020-01-20",
         "star": 4,
         "power": 688,
@@ -6780,7 +6780,7 @@ window.allHeroes =
             "Buff Blockers",
             "Snipers"
         ],
-        "source": "S1-Classic",
+        "source": "S1 - Classic",
         "Release date": "2023-11-27",
         "star": 4,
         "power": 734,
@@ -6866,7 +6866,7 @@ window.allHeroes =
             "Extra Damage Dealers",
             "Dispellers"
         ],
-        "source": "S1-Classic",
+        "source": "S1 - Classic",
         "Release date": "2024-07-16",
         "star": 4,
         "power": 746,
@@ -6954,7 +6954,7 @@ window.allHeroes =
             "Healers (Special)",
             "Snipers"
         ],
-        "source": "S2-Atlantis",
+        "source": "S2 - Atlantis",
         "Release date": "2019-08-01",
         "star": 4,
         "power": 652,
@@ -7039,7 +7039,7 @@ window.allHeroes =
             "AoE Attackers (Hit-3)",
             "Buffers (ATK)"
         ],
-        "source": "S2-Atlantis",
+        "source": "S2 - Atlantis",
         "Release date": "2023-04-03",
         "star": 4,
         "power": 673,
@@ -7127,7 +7127,7 @@ window.allHeroes =
             "Healing Reducers",
             "Snipers"
         ],
-        "source": "Monthly Event-Morlovia",
+        "source": "Monthly Event - Morlovia",
         "Release date": "2018-10-25",
         "star": 4,
         "power": 649,
@@ -7302,7 +7302,7 @@ window.allHeroes =
             "Debuffers (DEF)",
             "Snipers"
         ],
-        "source": "S4-Wilderness",
+        "source": "S4 - Wilderness",
         "Release date": "2021-03-25",
         "star": 4,
         "power": 677,
@@ -7389,7 +7389,7 @@ window.allHeroes =
             "Debuffers (DEF)",
             "Snipers"
         ],
-        "source": "S4-Wilderness",
+        "source": "S4 - Wilderness",
         "Release date": "2024-01-04",
         "star": 4,
         "power": 692,
@@ -7753,7 +7753,7 @@ window.allHeroes =
             "Healers",
             "Mana Reducers or Blockers"
         ],
-        "source": "Monthly Event-Kalevala",
+        "source": "Monthly Event - Kalevala",
         "Release date": "2022-06-20",
         "star": 5,
         "power": 835,
@@ -7843,7 +7843,7 @@ window.allHeroes =
             "Healers",
             "Mana Reducers or Blockers"
         ],
-        "source": "Monthly Event-Kalevala",
+        "source": "Monthly Event - Kalevala",
         "Release date": "2023-08-07",
         "star": 5,
         "power": 1079,
@@ -8205,7 +8205,7 @@ window.allHeroes =
             "Debuffers (ATK)",
             "Snipers"
         ],
-        "source": "Challenge Festival-Wonderland",
+        "source": "Challenge Festival I",
         "Release date": "2019-02-14",
         "star": 5,
         "power": 769,
@@ -8294,7 +8294,7 @@ window.allHeroes =
             "Healing Reducers",
             "DoT Attackers"
         ],
-        "source": "Tower-Styx",
+        "source": "Tower - Styx",
         "Release date": "2023-07-19",
         "star": 5,
         "power": 927,
@@ -8399,7 +8399,7 @@ window.allHeroes =
             "Damage Reducers",
             "Debuffers (DEF)"
         ],
-        "source": "S7-Treasures of Flame and Frost",
+        "source": "S7 - Treasures of Flame and Frost",
         "Release date": "2024-12-28",
         "star": 5,
         "power": 1169,
@@ -8678,7 +8678,7 @@ window.allHeroes =
             "Healers",
             "Mana Generation Buffers"
         ],
-        "source": "S2-Atlantis",
+        "source": "S2 - Atlantis",
         "Release date": "2019-02-01",
         "star": 5,
         "power": 772,
@@ -8766,7 +8766,7 @@ window.allHeroes =
             "Health Boosters",
             "Mana Raisers"
         ],
-        "source": "S2-Atlantis",
+        "source": "S2 - Atlantis",
         "Release date": "2021-11-15",
         "star": 5,
         "power": 942,
@@ -8854,7 +8854,7 @@ window.allHeroes =
             "Max Health Reducers",
             "DoT Attackers"
         ],
-        "source": "Alliance-Knights Clash",
+        "source": "Alliance - Knights Clash",
         "Release date": "2024-04-10",
         "star": 5,
         "power": 1030,
@@ -9223,7 +9223,7 @@ window.allHeroes =
             "Mana Raisers",
             "Mana Reducers or Blockers"
         ],
-        "source": "S6-Mysteries of the Deep",
+        "source": "S6 - Mysteries of the Deep",
         "Release date": "2023-11-22",
         "star": 5,
         "power": 999,
@@ -9319,7 +9319,7 @@ window.allHeroes =
             "Mana Raisers",
             "Mana Reducers or Blockers"
         ],
-        "source": "S6-Mysteries of the Deep",
+        "source": "S6 - Mysteries of the Deep",
         "Release date": "2024-11-21",
         "star": 5,
         "power": 1244,
@@ -9415,7 +9415,7 @@ window.allHeroes =
             "AoE Attackers (Hit-3)",
             "Debuffers (ATK)"
         ],
-        "source": "Tower-Ninjas",
+        "source": "Tower - Ninjas",
         "Release date": "2023-05-31",
         "star": 5,
         "power": 877,
@@ -9602,7 +9602,7 @@ window.allHeroes =
             "Damage Reducers",
             "Counterattackers"
         ],
-        "source": "S5-Dune",
+        "source": "S5 - Dune",
         "Release date": "2022-07-07",
         "star": 5,
         "power": 861,
@@ -9692,7 +9692,7 @@ window.allHeroes =
             "Health Boosters",
             "Cleansers"
         ],
-        "source": "S5-Dune",
+        "source": "S5 - Dune",
         "Release date": "2024-12-10",
         "star": 5,
         "power": 1203,
@@ -9787,7 +9787,7 @@ window.allHeroes =
             "Max Health Reducers",
             "Mana Generation Buffers"
         ],
-        "source": "Challenge Festival-Bards",
+        "source": "Challenge Festival II",
         "Release date": "2025-01-16",
         "star": 5,
         "power": 1171,
@@ -9880,7 +9880,7 @@ window.allHeroes =
             "Debuffers (ATK)",
             "Debuffers (DEF)"
         ],
-        "source": "Challenge Festival-Starfall",
+        "source": "Challenge Festival II",
         "Release date": "2021-06-10",
         "star": 5,
         "power": 805,
@@ -9968,7 +9968,7 @@ window.allHeroes =
             "Mindless Attack & Mindless Heal",
             "Snipers"
         ],
-        "source": "Challenge Festival-Pets",
+        "source": "Challenge Festival II",
         "Release date": "2022-11-03",
         "star": 5,
         "power": 876,
@@ -10059,7 +10059,7 @@ window.allHeroes =
             "Damage Reducers",
             "Negative Effects On Self Or Allies"
         ],
-        "source": "Mystery-Shadow",
+        "source": "Mystery - Shadow",
         "Release date": "2025-03-06",
         "star": 5,
         "power": 1177,
@@ -10243,7 +10243,7 @@ window.allHeroes =
             "Stacking Heroes",
             "Mana Reducers or Blockers"
         ],
-        "source": "Tower-Magic",
+        "source": "Tower - Magic",
         "Release date": "2023-05-03",
         "star": 5,
         "power": 867,
@@ -10527,7 +10527,7 @@ window.allHeroes =
             "Mana Generation Buffers",
             "Heal over Time (HoT)"
         ],
-        "source": "Challenge Festival-Slayers",
+        "source": "Challenge Festival II",
         "Release date": "2021-08-05",
         "star": 5,
         "power": 811,
@@ -10616,7 +10616,7 @@ window.allHeroes =
             "Minions Summoners",
             "Damage Reducers"
         ],
-        "source": "Challenge-Carnival of Gods",
+        "source": "Challenge - Carnival of Gods",
         "Release date": "2023-07-13",
         "star": 5,
         "power": 933,
@@ -10707,7 +10707,7 @@ window.allHeroes =
             "Cleanse Blockers",
             "Debuffers (DEF)"
         ],
-        "source": "Challenge Festival-Bards",
+        "source": "Challenge Festival II",
         "Release date": "2023-06-15",
         "star": 5,
         "power": 902,
@@ -10800,7 +10800,7 @@ window.allHeroes =
             "Mana Reducers or Blockers",
             "Snipers"
         ],
-        "source": "S6-Mysteries of the Deep",
+        "source": "S6 - Mysteries of the Deep",
         "Release date": "2023-07-05",
         "star": 5,
         "power": 936,
@@ -10900,7 +10900,7 @@ window.allHeroes =
             "DoT Attackers",
             "Healers (Special)"
         ],
-        "source": "S6-Mysteries of the Deep",
+        "source": "S6 - Mysteries of the Deep",
         "Release date": "2025-03-03",
         "star": 5,
         "power": 1164,
@@ -11088,7 +11088,7 @@ window.allHeroes =
             "DoT Attackers",
             "Silencers"
         ],
-        "source": "Monthly Event-Morlovia",
+        "source": "Monthly Event - Morlovia",
         "Release date": "2024-09-23",
         "star": 5,
         "power": 1052,
@@ -11182,7 +11182,7 @@ window.allHeroes =
             "Dodgers",
             "Minions Counters"
         ],
-        "source": "Alliance-Moths",
+        "source": "Alliance - Moths",
         "Release date": "2025-06-25",
         "star": 5,
         "power": 1183,
@@ -11463,7 +11463,7 @@ window.allHeroes =
             "Debuffers (DEF)",
             "DoT Attackers"
         ],
-        "source": "Challenge Festival-Pets",
+        "source": "Challenge Festival II",
         "Release date": "2023-02-23",
         "star": 5,
         "power": 878,
@@ -11645,7 +11645,7 @@ window.allHeroes =
             "Bypassers",
             "Snipers"
         ],
-        "source": "Tower-Ninjas",
+        "source": "Tower - Ninjas",
         "Release date": "2020-10-13",
         "star": 5,
         "power": 798,
@@ -11835,7 +11835,7 @@ window.allHeroes =
             "DoT Attackers",
             "Effect Duration Resetters"
         ],
-        "source": "Challenge Festival-Villains",
+        "source": "Challenge Festival II",
         "Release date": "2021-02-11",
         "star": 5,
         "power": 801,
@@ -11925,7 +11925,7 @@ window.allHeroes =
             "Heal over Time (HoT)",
             "DoT Attackers"
         ],
-        "source": "Monthly Event-Beach Party",
+        "source": "Monthly Event - Beach Party",
         "Release date": "2024-06-03",
         "star": 5,
         "power": 1016,
@@ -12017,7 +12017,7 @@ window.allHeroes =
             "Immunity Providers",
             "Health Boosters"
         ],
-        "source": "Alliance-Knights Clash",
+        "source": "Alliance - Knights Clash",
         "Release date": "2021-10-13",
         "star": 5,
         "power": 816,
@@ -12102,7 +12102,7 @@ window.allHeroes =
             "DoT Attackers",
             "Extra Damage Dealers"
         ],
-        "source": "S4-Wilderness",
+        "source": "S4 - Wilderness",
         "Release date": "2021-12-30",
         "star": 5,
         "power": 813,
@@ -12189,7 +12189,7 @@ window.allHeroes =
             "Extra Damage Dealers",
             "Buffers (ATK)"
         ],
-        "source": "S4-Wilderness",
+        "source": "S4 - Wilderness",
         "Release date": "2024-09-26",
         "star": 5,
         "power": 1030,
@@ -12283,7 +12283,7 @@ window.allHeroes =
             "Ghost Form & Hiding",
             "Bypassers"
         ],
-        "source": "Extra Draw-Secret Summon",
+        "source": "Extra Draw - Secret Summon",
         "Release date": "2025-05-31",
         "star": 5,
         "power": 1200,
@@ -12381,7 +12381,7 @@ window.allHeroes =
             "Extra Damage Dealers",
             "Healers (Special)"
         ],
-        "source": "S3-Valhalla",
+        "source": "S3 - Valhalla",
         "Release date": "2020-02-27",
         "star": 5,
         "power": 785,
@@ -12471,7 +12471,7 @@ window.allHeroes =
             "Snipers",
             "Extra Damage Dealers"
         ],
-        "source": "S3-Valhalla",
+        "source": "S3 - Valhalla",
         "Release date": "2023-04-10",
         "star": 5,
         "power": 982,
@@ -12653,7 +12653,7 @@ window.allHeroes =
             "Debuffers (DEF)",
             "Snipers"
         ],
-        "source": "Challenge Festival-Pirates",
+        "source": "Challenge Festival I",
         "Release date": "2019-11-11",
         "star": 5,
         "power": 781,
@@ -12742,7 +12742,7 @@ window.allHeroes =
             "Snipers",
             "DoT Attackers"
         ],
-        "source": "Challenge Festival-Pirates",
+        "source": "Challenge Festival I",
         "Release date": "2022-04-14",
         "star": 5,
         "power": 978,
@@ -12833,7 +12833,7 @@ window.allHeroes =
             "Buffers (ATK)",
             "Buffers (DEF)"
         ],
-        "source": "Challenge-Secrets of the Opera",
+        "source": "Challenge - Secrets of the Opera",
         "Release date": "2023-11-30",
         "star": 5,
         "power": 957,
@@ -13019,7 +13019,7 @@ window.allHeroes =
             "Fiends Summoners",
             "DoT Attackers"
         ],
-        "source": "Challenge-Carnival of Gods",
+        "source": "Challenge - Carnival of Gods",
         "Release date": "2022-11-22",
         "star": 5,
         "power": 873,
@@ -13385,7 +13385,7 @@ window.allHeroes =
             "Snipers",
             "Damage Reducers"
         ],
-        "source": "Challenge-Gargoyle",
+        "source": "Challenge - Gargoyle",
         "Release date": "2021-11-24",
         "star": 5,
         "power": 841,
@@ -13844,7 +13844,7 @@ window.allHeroes =
             "AoE Attackers (Hit-5)",
             "Mana Generation Buffers"
         ],
-        "source": "Challenge Festival-Guardians",
+        "source": "Challenge Festival I",
         "Release date": "2023-01-26",
         "star": 5,
         "power": 841,
@@ -13931,7 +13931,7 @@ window.allHeroes =
             "Debuffers (ATK)",
             "Healers"
         ],
-        "source": "S5-Dune",
+        "source": "S5 - Dune",
         "Release date": "2023-02-16",
         "star": 5,
         "power": 869,
@@ -14024,7 +14024,7 @@ window.allHeroes =
             "Debuffers (ATK)",
             "AoE Attackers (Hit-5)"
         ],
-        "source": "S5-Dune",
+        "source": "S5 - Dune",
         "Release date": "2024-03-04",
         "star": 5,
         "power": 1214,
@@ -14117,7 +14117,7 @@ window.allHeroes =
             "Dispellers",
             "Snipers"
         ],
-        "source": "Monthly Event-Love Season",
+        "source": "Monthly Event - Love Season",
         "Release date": "2023-02-14",
         "star": 5,
         "power": 861,
@@ -14212,7 +14212,7 @@ window.allHeroes =
             "Debuffers (ATK)",
             "Minions Counters"
         ],
-        "source": "S7-Treasures of Flame and Frost",
+        "source": "S7 - Treasures of Flame and Frost",
         "Release date": "2025-04-14",
         "star": 5,
         "power": 1194,
@@ -14308,7 +14308,7 @@ window.allHeroes =
             "Buffers (ATK)",
             "Buffers (DEF)"
         ],
-        "source": "Challenge-Beowulf",
+        "source": "Challenge - Beowulf",
         "Release date": "2024-11-25",
         "star": 5,
         "power": 1182,
@@ -14403,7 +14403,7 @@ window.allHeroes =
             "Taunters",
             "Negative Effects On Self Or Allies"
         ],
-        "source": "Mystery-Shadow",
+        "source": "Mystery - Shadow",
         "Release date": "2025-06-10",
         "star": 5,
         "power": 1201,
@@ -14581,7 +14581,7 @@ window.allHeroes =
             "AoE Attackers (Hit-5)",
             "Debuffers (DEF)"
         ],
-        "source": "S1-Classic",
+        "source": "S1 - Classic",
         "Release date": "2017-03-01",
         "star": 5,
         "power": 755,
@@ -14666,7 +14666,7 @@ window.allHeroes =
             "AoE Attackers (Hit-5)",
             "Debuffers (DEF)"
         ],
-        "source": "S1-Classic",
+        "source": "S1 - Classic",
         "Release date": "2020-01-20",
         "star": 5,
         "power": 848,
@@ -14752,7 +14752,7 @@ window.allHeroes =
             "Debuffers (ATK)",
             "Extra Damage Dealers"
         ],
-        "source": "S1-Classic",
+        "source": "S1 - Classic",
         "Release date": "2022-09-05",
         "star": 5,
         "power": 962,
@@ -14839,7 +14839,7 @@ window.allHeroes =
             "Debuffers (DEF)",
             "Extra Damage Dealers"
         ],
-        "source": "S1-Classic",
+        "source": "S1 - Classic",
         "Release date": "2024-05-06",
         "star": 5,
         "power": 1128,
@@ -14929,7 +14929,7 @@ window.allHeroes =
             "Bypassers",
             "Debuffers (DEF)"
         ],
-        "source": "S1-Classic",
+        "source": "S1 - Classic",
         "Release date": "2025-06-18",
         "star": 5,
         "power": 1236,
@@ -15308,7 +15308,7 @@ window.allHeroes =
             "Mindless Attack & Mindless Heal",
             "Snipers"
         ],
-        "source": "Monthly Event-Love Season",
+        "source": "Monthly Event - Love Season",
         "Release date": "2024-01-08",
         "star": 5,
         "power": 966,
@@ -15500,7 +15500,7 @@ window.allHeroes =
             "Debuffers (DEF)",
             "Snipers"
         ],
-        "source": "Challenge Festival-Avalon",
+        "source": "Challenge Festival I",
         "Release date": "2018-01-05",
         "star": 5,
         "power": 765,
@@ -15682,7 +15682,7 @@ window.allHeroes =
             "Minions Summoners",
             "Taunters"
         ],
-        "source": "Monthly Event-Winter",
+        "source": "Monthly Event - Winter",
         "Release date": "2020-12-01",
         "star": 5,
         "power": 802,
@@ -15773,7 +15773,7 @@ window.allHeroes =
             "Minions Summoners",
             "Taunters"
         ],
-        "source": "Monthly Event-Winter",
+        "source": "Monthly Event - Winter",
         "Release date": "2021-12-01",
         "star": 5,
         "power": 1039,
@@ -15961,7 +15961,7 @@ window.allHeroes =
         "skill_types": [
             "Snipers"
         ],
-        "source": "S3-Valhalla",
+        "source": "S3 - Valhalla",
         "Release date": "2020-12-24",
         "star": 5,
         "power": 787,
@@ -16048,7 +16048,7 @@ window.allHeroes =
             "Buff Stealers",
             "Snipers"
         ],
-        "source": "S3-Valhalla",
+        "source": "S3 - Valhalla",
         "Release date": "2023-05-08",
         "star": 5,
         "power": 986,
@@ -16139,7 +16139,7 @@ window.allHeroes =
             "Revivers",
             "Heal over Time (HoT)"
         ],
-        "source": "Alliance-Knights Clash",
+        "source": "Alliance - Knights Clash",
         "Release date": "2023-10-18",
         "star": 5,
         "power": 980,
@@ -16321,7 +16321,7 @@ window.allHeroes =
             "Buffers (DEF)",
             "Snipers"
         ],
-        "source": "S1-Classic",
+        "source": "S1 - Classic",
         "Release date": "2017-03-01",
         "star": 5,
         "power": 754,
@@ -16406,7 +16406,7 @@ window.allHeroes =
             "Debuffers (DEF)",
             "Snipers"
         ],
-        "source": "S1-Classic",
+        "source": "S1 - Classic",
         "Release date": "2020-05-18",
         "star": 5,
         "power": 849,
@@ -16491,7 +16491,7 @@ window.allHeroes =
             "AoE Attackers (Hit-3)",
             "Debuffers (DEF)"
         ],
-        "source": "S1-Classic",
+        "source": "S1 - Classic",
         "Release date": "2022-10-31",
         "star": 5,
         "power": 964,
@@ -16577,7 +16577,7 @@ window.allHeroes =
             "Extra Damage Dealers",
             "Snipers"
         ],
-        "source": "S1-Classic",
+        "source": "S1 - Classic",
         "Release date": "2024-01-22",
         "star": 5,
         "power": 1130,
@@ -16667,7 +16667,7 @@ window.allHeroes =
             "Bypassers",
             "Snipers"
         ],
-        "source": "S1-Classic",
+        "source": "S1 - Classic",
         "Release date": "2025-03-11",
         "star": 5,
         "power": 1236,
@@ -16757,7 +16757,7 @@ window.allHeroes =
             "Damage Reducers",
             "Cleansers"
         ],
-        "source": "Tower-Owls",
+        "source": "Tower - Owls",
         "Release date": "2024-03-13",
         "star": 5,
         "power": 1047,
@@ -16845,7 +16845,7 @@ window.allHeroes =
             "AoE Attackers (Hit-3)",
             "Negative Effects On Self Or Allies"
         ],
-        "source": "Monthly Event-Springvale",
+        "source": "Monthly Event - Springvale",
         "Release date": "2018-03-28",
         "star": 5,
         "power": 763,
@@ -16930,7 +16930,7 @@ window.allHeroes =
             "AoE Attackers (Hit-5)",
             "Negative Effects On Self Or Allies"
         ],
-        "source": "Monthly Event-Springvale",
+        "source": "Monthly Event - Springvale",
         "Release date": "2022-03-21",
         "star": 5,
         "power": 867,
@@ -17017,7 +17017,7 @@ window.allHeroes =
             "AoE Attackers (Hit-3)",
             "Damage Reducers"
         ],
-        "source": "Challenge-Gargoyle",
+        "source": "Challenge - Gargoyle",
         "Release date": "2022-12-29",
         "star": 5,
         "power": 850,
@@ -17290,7 +17290,7 @@ window.allHeroes =
             "Heal over Time (HoT)",
             "Reflectors"
         ],
-        "source": "Alliance-Musketeers",
+        "source": "Alliance - Musketeers",
         "Release date": "2023-03-08",
         "star": 5,
         "power": 866,
@@ -17385,7 +17385,7 @@ window.allHeroes =
             "Healers",
             "Mana Raisers"
         ],
-        "source": "Tower-Magic",
+        "source": "Tower - Magic",
         "Release date": "2021-09-15",
         "star": 5,
         "power": 813,
@@ -17483,7 +17483,7 @@ window.allHeroes =
             "Healers",
             "Mana Raisers"
         ],
-        "source": "Tower-Magic",
+        "source": "Tower - Magic",
         "Release date": "2025-04-17",
         "star": 5,
         "power": 1206,
@@ -17580,7 +17580,7 @@ window.allHeroes =
             "Heal over Time (HoT)",
             "Minions Summoners"
         ],
-        "source": "Monthly Event-Morlovia",
+        "source": "Monthly Event - Morlovia",
         "Release date": "2022-10-03",
         "star": 5,
         "power": 850,
@@ -17670,7 +17670,7 @@ window.allHeroes =
             "Mana Raisers",
             "Snipers"
         ],
-        "source": "S2-Atlantis",
+        "source": "S2 - Atlantis",
         "Release date": "2019-08-01",
         "star": 5,
         "power": 774,
@@ -17758,7 +17758,7 @@ window.allHeroes =
             "Mindless Attack & Mindless Heal",
             "Snipers"
         ],
-        "source": "S2-Atlantis",
+        "source": "S2 - Atlantis",
         "Release date": "2023-01-09",
         "star": 5,
         "power": 946,
@@ -17845,7 +17845,7 @@ window.allHeroes =
             "Chain & Random Attackers",
             "Negative Effects On Self Or Allies"
         ],
-        "source": "Monthly Event-Springvale",
+        "source": "Monthly Event - Springvale",
         "Release date": "2024-03-18",
         "star": 5,
         "power": 999,
@@ -18027,7 +18027,7 @@ window.allHeroes =
             "Max Health Reducers",
             "DoT Attackers"
         ],
-        "source": "Monthly Event-Beach Party",
+        "source": "Monthly Event - Beach Party",
         "Release date": "2023-06-12",
         "star": 5,
         "power": 875,
@@ -18120,7 +18120,7 @@ window.allHeroes =
             "Mana Generation Buffers",
             "Stacking Heroes"
         ],
-        "source": "Challenge-Beowulf",
+        "source": "Challenge - Beowulf",
         "Release date": "2025-02-13",
         "star": 5,
         "power": 1183,
@@ -18310,7 +18310,7 @@ window.allHeroes =
             "AoE Attackers (Hit-5)",
             "Debuffers (DEF)"
         ],
-        "source": "S4-Wilderness",
+        "source": "S4 - Wilderness",
         "Release date": "2021-06-17",
         "star": 5,
         "power": 807,
@@ -18401,7 +18401,7 @@ window.allHeroes =
             "Extra Damage Dealers",
             "Buffers (ATK)"
         ],
-        "source": "S4-Wilderness",
+        "source": "S4 - Wilderness",
         "Release date": "2023-07-20",
         "star": 5,
         "power": 1021,
@@ -18493,7 +18493,7 @@ window.allHeroes =
             "Snipers",
             "Minions Summoners"
         ],
-        "source": "Monthly Event-Winter",
+        "source": "Monthly Event - Winter",
         "Release date": "2021-12-01",
         "star": 5,
         "power": 821,
@@ -18584,7 +18584,7 @@ window.allHeroes =
             "DoT Attackers",
             "Minions Summoners"
         ],
-        "source": "Monthly Event-Winter",
+        "source": "Monthly Event - Winter",
         "Release date": "2024-12-01",
         "star": 5,
         "power": 1064,
@@ -18964,7 +18964,7 @@ window.allHeroes =
             "Heal over Time (HoT)",
             "Immunity Providers"
         ],
-        "source": "Challenge-Secrets of the Opera",
+        "source": "Challenge - Secrets of the Opera",
         "Release date": "2023-06-20",
         "star": 5,
         "power": 955,
@@ -19060,7 +19060,7 @@ window.allHeroes =
             "Health Boosters",
             "Taunters"
         ],
-        "source": "Tower-Ninjas",
+        "source": "Tower - Ninjas",
         "Release date": "2023-01-11",
         "star": 5,
         "power": 866,
@@ -19252,7 +19252,7 @@ window.allHeroes =
             "Stacking Heroes",
             "Extra Damage Dealers"
         ],
-        "source": "Monthly Event-Kalevala",
+        "source": "Monthly Event - Kalevala",
         "Release date": "2024-07-22",
         "star": 5,
         "power": 1034,
@@ -19343,7 +19343,7 @@ window.allHeroes =
             "Healers",
             "Healers (Special)"
         ],
-        "source": "S4-Wilderness",
+        "source": "S4 - Wilderness",
         "Release date": "2021-12-02",
         "star": 5,
         "power": 811,
@@ -19435,7 +19435,7 @@ window.allHeroes =
             "Health Boosters",
             "Healers (Special)"
         ],
-        "source": "S4-Wilderness",
+        "source": "S4 - Wilderness",
         "Release date": "2023-10-12",
         "star": 5,
         "power": 1026,
@@ -19529,7 +19529,7 @@ window.allHeroes =
             "Dodgers",
             "Minions Counters"
         ],
-        "source": "Alliance-Moths",
+        "source": "Alliance - Moths",
         "Release date": "2025-02-20",
         "star": 5,
         "power": 1185,
@@ -19805,7 +19805,7 @@ window.allHeroes =
             "Immunity Providers",
             "Debuffers (DEF)"
         ],
-        "source": "Challenge-Gargoyle",
+        "source": "Challenge - Gargoyle",
         "Release date": "2024-02-27",
         "star": 5,
         "power": 1048,
@@ -19898,7 +19898,7 @@ window.allHeroes =
             "Extra Damage Dealers",
             "Heal over Time (HoT)"
         ],
-        "source": "Alliance-Musketeers",
+        "source": "Alliance - Musketeers",
         "Release date": "2022-12-14",
         "star": 5,
         "power": 876,
@@ -20183,7 +20183,7 @@ window.allHeroes =
             "Snipers",
             "Damage Sharers"
         ],
-        "source": "Alliance-Knights Clash",
+        "source": "Alliance - Knights Clash",
         "Release date": "2022-01-05",
         "star": 5,
         "power": 822,
@@ -20367,7 +20367,7 @@ window.allHeroes =
             "Mana Generation Buffers",
             "Heal over Time (HoT)"
         ],
-        "source": "Challenge Festival-Slayers",
+        "source": "Challenge Festival II",
         "Release date": "2021-08-05",
         "star": 5,
         "power": 808,
@@ -20457,7 +20457,7 @@ window.allHeroes =
             "AoE Attackers (Hit-3)",
             "Debuffers (ATK)"
         ],
-        "source": "S1-Classic",
+        "source": "S1 - Classic",
         "Release date": "2017-03-01",
         "star": 5,
         "power": 755,
@@ -20542,7 +20542,7 @@ window.allHeroes =
             "AoE Attackers (Hit-3)",
             "Debuffers (ATK)"
         ],
-        "source": "S1-Classic",
+        "source": "S1 - Classic",
         "Release date": "2020-01-20",
         "star": 5,
         "power": 849,
@@ -20628,7 +20628,7 @@ window.allHeroes =
             "Debuffers (ATK)",
             "Stacking Heroes"
         ],
-        "source": "S1-Classic",
+        "source": "S1 - Classic",
         "Release date": "2023-09-04",
         "star": 5,
         "power": 965,
@@ -20714,7 +20714,7 @@ window.allHeroes =
             "Debuffers (ATK)",
             "Extra Damage Dealers"
         ],
-        "source": "S1-Classic",
+        "source": "S1 - Classic",
         "Release date": "2023-10-30",
         "star": 5,
         "power": 1130,
@@ -20804,7 +20804,7 @@ window.allHeroes =
             "Bypassers",
             "Debuffers (ATK)"
         ],
-        "source": "S1-Classic",
+        "source": "S1 - Classic",
         "Release date": "2024-12-24",
         "star": 5,
         "power": 1235,
@@ -20895,7 +20895,7 @@ window.allHeroes =
             "DoT Attackers",
             "Healers"
         ],
-        "source": "Challenge Festival-Grim Forest",
+        "source": "Challenge Festival I",
         "Release date": "2019-12-01",
         "star": 5,
         "power": 767,
@@ -20995,7 +20995,7 @@ window.allHeroes =
             "Mana Reducers or Blockers",
             "Max Health Reducers"
         ],
-        "source": "Challenge Festival-Grim Forest",
+        "source": "Challenge Festival I",
         "Release date": "2022-06-16",
         "star": 5,
         "power": 961,
@@ -21091,7 +21091,7 @@ window.allHeroes =
             "Ghost Form & Hiding",
             "Snipers"
         ],
-        "source": "S4-Wilderness",
+        "source": "S4 - Wilderness",
         "Release date": "2021-05-20",
         "star": 5,
         "power": 807,
@@ -21185,7 +21185,7 @@ window.allHeroes =
             "Extra Damage Dealers",
             "Buffers (ATK)"
         ],
-        "source": "S4-Wilderness",
+        "source": "S4 - Wilderness",
         "Release date": "2024-01-04",
         "star": 5,
         "power": 1021,
@@ -21468,7 +21468,7 @@ window.allHeroes =
             "Healers (Special)",
             "Minions Counters"
         ],
-        "source": "Tower-Ninjas",
+        "source": "Tower - Ninjas",
         "Release date": "2024-11-19",
         "star": 5,
         "power": 1116,
@@ -21756,7 +21756,7 @@ window.allHeroes =
             "Debuffers (ATK)",
             "Healing Reducers"
         ],
-        "source": "Alliance-Knights Clash",
+        "source": "Alliance - Knights Clash",
         "Release date": "2024-06-05",
         "star": 5,
         "power": 1060,
@@ -21849,7 +21849,7 @@ window.allHeroes =
             "Mana Reducers or Blockers",
             "Stacking Heroes"
         ],
-        "source": "S3-Valhalla",
+        "source": "S3 - Valhalla",
         "Release date": "2020-06-25",
         "star": 5,
         "power": 788,
@@ -21940,7 +21940,7 @@ window.allHeroes =
             "Mana Reducers or Blockers",
             "Stacking Heroes"
         ],
-        "source": "S3-Valhalla",
+        "source": "S3 - Valhalla",
         "Release date": "2022-07-04",
         "star": 5,
         "power": 987,
@@ -22217,7 +22217,7 @@ window.allHeroes =
             "Negative Effects On Self Or Allies",
             "Extra Damage Dealers"
         ],
-        "source": "Challenge Festival-Grim Forest",
+        "source": "Challenge Festival I",
         "Release date": "2019-12-01",
         "star": 5,
         "power": 780,
@@ -22306,7 +22306,7 @@ window.allHeroes =
             "Negative Effects On Self Or Allies",
             "Extra Damage Dealers"
         ],
-        "source": "Challenge Festival-Grim Forest",
+        "source": "Challenge Festival I",
         "Release date": "2021-12-15",
         "star": 5,
         "power": 976,
@@ -22392,7 +22392,7 @@ window.allHeroes =
             "AoE Attackers (Hit-5)",
             "Bypassers"
         ],
-        "source": "S5-Dune",
+        "source": "S5 - Dune",
         "Release date": "2022-04-21",
         "star": 5,
         "power": 858,
@@ -22482,7 +22482,7 @@ window.allHeroes =
             "AoE Attackers (Hit-5)",
             "Bypassers"
         ],
-        "source": "S5-Dune",
+        "source": "S5 - Dune",
         "Release date": "2024-07-13",
         "star": 5,
         "power": 1201,
@@ -22957,7 +22957,7 @@ window.allHeroes =
             "Dodgers",
             "Minions Counters"
         ],
-        "source": "Alliance-Moths",
+        "source": "Alliance - Moths",
         "Release date": "2025-03-20",
         "star": 5,
         "power": 1189,
@@ -23047,7 +23047,7 @@ window.allHeroes =
             "Buffers (ATK)",
             "DoT Attackers"
         ],
-        "source": "S2-Atlantis",
+        "source": "S2 - Atlantis",
         "Release date": "2022-05-30",
         "star": 5,
         "power": 835,
@@ -23136,7 +23136,7 @@ window.allHeroes =
             "Health Boosters",
             "Immunity Providers"
         ],
-        "source": "S6-Mysteries of the Deep",
+        "source": "S6 - Mysteries of the Deep",
         "Release date": "2023-06-07",
         "star": 5,
         "power": 952,
@@ -23234,7 +23234,7 @@ window.allHeroes =
             "Immunity Providers",
             "Effect Duration Resetters"
         ],
-        "source": "S6-Mysteries of the Deep",
+        "source": "S6 - Mysteries of the Deep",
         "Release date": "2024-08-24",
         "star": 5,
         "power": 1184,
@@ -23333,7 +23333,7 @@ window.allHeroes =
             "Mana Raisers",
             "Minions Counters"
         ],
-        "source": "Tower-Styx",
+        "source": "Tower - Styx",
         "Release date": "2023-02-08",
         "star": 5,
         "power": 861,
@@ -23434,7 +23434,7 @@ window.allHeroes =
             "Snipers",
             "AoE Attackers (Hit-5)"
         ],
-        "source": "Challenge Festival-Starfall",
+        "source": "Challenge Festival II",
         "Release date": "2021-06-10",
         "star": 5,
         "power": 803,
@@ -23518,7 +23518,7 @@ window.allHeroes =
         "skill_types": [
             "AoE Attackers (Hit-3)"
         ],
-        "source": "S1-Classic",
+        "source": "S1 - Classic",
         "Release date": "2017-03-01",
         "star": 5,
         "power": 757,
@@ -23602,7 +23602,7 @@ window.allHeroes =
             "Mana Generation Buffers",
             "Snipers"
         ],
-        "source": "S1-Classic",
+        "source": "S1 - Classic",
         "Release date": "2021-01-18",
         "star": 5,
         "power": 852,
@@ -23689,7 +23689,7 @@ window.allHeroes =
             "Mana Raisers",
             "Mana Reducers or Blockers"
         ],
-        "source": "S1-Classic",
+        "source": "S1 - Classic",
         "Release date": "2023-07-10",
         "star": 5,
         "power": 968,
@@ -23774,7 +23774,7 @@ window.allHeroes =
             "AoE Attackers (Hit-3)",
             "Extra Damage Dealers"
         ],
-        "source": "S1-Classic",
+        "source": "S1 - Classic",
         "Release date": "2024-09-08",
         "star": 5,
         "power": 1135,
@@ -23866,7 +23866,7 @@ window.allHeroes =
             "Snipers",
             "Bypassers"
         ],
-        "source": "Tower-Owls",
+        "source": "Tower - Owls",
         "Release date": "2023-12-20",
         "star": 5,
         "power": 985,
@@ -23958,7 +23958,7 @@ window.allHeroes =
             "Debuffers (DEF)",
             "Minions Summoners"
         ],
-        "source": "Monthly Event-Winter",
+        "source": "Monthly Event - Winter",
         "Release date": "2022-12-01",
         "star": 5,
         "power": 851,
@@ -24143,7 +24143,7 @@ window.allHeroes =
             "Minions Summoners",
             "Stacking Heroes"
         ],
-        "source": "Tower-Magic",
+        "source": "Tower - Magic",
         "Release date": "2023-08-23",
         "star": 5,
         "power": 936,
@@ -24428,7 +24428,7 @@ window.allHeroes =
             "Damage Reducers",
             "Immunity Providers"
         ],
-        "source": "Challenge-Gargoyle",
+        "source": "Challenge - Gargoyle",
         "Release date": "2024-10-17",
         "star": 5,
         "power": 1107,
@@ -24707,7 +24707,7 @@ window.allHeroes =
             "Minions Summoners",
             "Snipers"
         ],
-        "source": "Monthly Event-Winter",
+        "source": "Monthly Event - Winter",
         "Release date": "2023-12-01",
         "star": 5,
         "power": 949,
@@ -24893,7 +24893,7 @@ window.allHeroes =
             "Immunity Providers",
             "Heal over Time (HoT)"
         ],
-        "source": "Tower-Ninjas",
+        "source": "Tower - Ninjas",
         "Release date": "2021-11-10",
         "star": 5,
         "power": 818,
@@ -24987,7 +24987,7 @@ window.allHeroes =
         "skill_types": [
             "Snipers"
         ],
-        "source": "S1-Classic",
+        "source": "S1 - Classic",
         "Release date": "2017-03-01",
         "star": 1,
         "power": 209,
@@ -25017,7 +25017,7 @@ window.allHeroes =
         "skill_types": [
             "Snipers"
         ],
-        "source": "S1-Classic",
+        "source": "S1 - Classic",
         "Release date": "2017-03-01",
         "star": 1,
         "power": 210,
@@ -25047,7 +25047,7 @@ window.allHeroes =
         "skill_types": [
             "AoE Attackers (Hit-3)"
         ],
-        "source": "S1-Classic",
+        "source": "S1 - Classic",
         "Release date": "2017-03-01",
         "star": 2,
         "power": 335,
@@ -25077,7 +25077,7 @@ window.allHeroes =
         "skill_types": [
             "Snipers"
         ],
-        "source": "S1-Classic",
+        "source": "S1 - Classic",
         "Release date": "2017-03-01",
         "star": 2,
         "power": 335,
@@ -25107,7 +25107,7 @@ window.allHeroes =
         "skill_types": [
             "Snipers"
         ],
-        "source": "S1-Classic",
+        "source": "S1 - Classic",
         "Release date": "2017-03-01",
         "star": 2,
         "power": 333,
@@ -25139,7 +25139,7 @@ window.allHeroes =
             "AoE Attackers (Hit-3)",
             "Max Health Reducers"
         ],
-        "source": "Challenge-Carnival of Gods",
+        "source": "Challenge - Carnival of Gods",
         "Release date": "2023-07-13",
         "star": 3,
         "power": 804,
@@ -25226,7 +25226,7 @@ window.allHeroes =
             "Dispellers",
             "Healers"
         ],
-        "source": "S1-Classic",
+        "source": "S1 - Classic",
         "Release date": "2017-03-01",
         "star": 3,
         "power": 441,
@@ -25311,7 +25311,7 @@ window.allHeroes =
             "Heal over Time (HoT)",
             "Immunity Providers"
         ],
-        "source": "S1-Classic",
+        "source": "S1 - Classic",
         "Release date": "2020-05-18",
         "star": 3,
         "power": 471,
@@ -25398,7 +25398,7 @@ window.allHeroes =
             "Healers",
             "Buffers (DEF)"
         ],
-        "source": "S1-Classic",
+        "source": "S1 - Classic",
         "Release date": "2024-04-08",
         "star": 3,
         "power": 504,
@@ -25488,7 +25488,7 @@ window.allHeroes =
             "Reflectors",
             "Dispellers"
         ],
-        "source": "S1-Classic",
+        "source": "S1 - Classic",
         "Release date": "2025-04-23",
         "star": 3,
         "power": 513,
@@ -25576,7 +25576,7 @@ window.allHeroes =
             "Debuffers (ATK)",
             "Snipers"
         ],
-        "source": "S1-Classic",
+        "source": "S1 - Classic",
         "Release date": "2017-03-01",
         "star": 3,
         "power": 444,
@@ -25661,7 +25661,7 @@ window.allHeroes =
             "Debuffers (DEF)",
             "Snipers"
         ],
-        "source": "S1-Classic",
+        "source": "S1 - Classic",
         "Release date": "2020-05-18",
         "star": 3,
         "power": 473,
@@ -25747,7 +25747,7 @@ window.allHeroes =
             "Snipers",
             "Extra Damage Dealers"
         ],
-        "source": "S1-Classic",
+        "source": "S1 - Classic",
         "Release date": "2024-05-06",
         "star": 3,
         "power": 506,
@@ -25837,7 +25837,7 @@ window.allHeroes =
             "Debuffers (ATK)",
             "Snipers"
         ],
-        "source": "S1-Classic",
+        "source": "S1 - Classic",
         "Release date": "2025-05-10",
         "star": 3,
         "power": 515,
@@ -25923,7 +25923,7 @@ window.allHeroes =
         "skill_types": [
             "Buffers (ATK)"
         ],
-        "source": "S1-Classic",
+        "source": "S1 - Classic",
         "Release date": "2017-03-01",
         "star": 3,
         "power": 440,
@@ -26005,7 +26005,7 @@ window.allHeroes =
         "skill_types": [
             "Debuffers (DEF)"
         ],
-        "source": "S1-Classic",
+        "source": "S1 - Classic",
         "Release date": "2020-01-20",
         "star": 3,
         "power": 469,
@@ -26087,7 +26087,7 @@ window.allHeroes =
         "skill_types": [
             "Buffers (ATK)"
         ],
-        "source": "S1-Classic",
+        "source": "S1 - Classic",
         "Release date": "2024-01-22",
         "star": 3,
         "power": 502,
@@ -26174,7 +26174,7 @@ window.allHeroes =
             "Buffers (ATK)",
             "Reflectors"
         ],
-        "source": "S1-Classic",
+        "source": "S1 - Classic",
         "Release date": "2025-03-11",
         "star": 3,
         "power": 510,
@@ -26264,7 +26264,7 @@ window.allHeroes =
             "Heal over Time (HoT)",
             "Negative Effects On Self Or Allies"
         ],
-        "source": "S3-Valhalla",
+        "source": "S3 - Valhalla",
         "Release date": "2020-02-27",
         "star": 3,
         "power": 463,
@@ -26356,7 +26356,7 @@ window.allHeroes =
             "AoE Attackers (Hit-5)",
             "Mana Reducers or Blockers"
         ],
-        "source": "S1-Classic",
+        "source": "S1 - Classic",
         "Release date": "2017-03-01",
         "star": 3,
         "power": 444,
@@ -26441,7 +26441,7 @@ window.allHeroes =
             "AoE Attackers (Hit-5)",
             "Mana Reducers or Blockers"
         ],
-        "source": "S1-Classic",
+        "source": "S1 - Classic",
         "Release date": "2020-05-18",
         "star": 3,
         "power": 473,
@@ -26527,7 +26527,7 @@ window.allHeroes =
             "Mana Reducers or Blockers",
             "Extra Damage Dealers"
         ],
-        "source": "S1-Classic",
+        "source": "S1 - Classic",
         "Release date": "2024-06-28",
         "star": 3,
         "power": 506,
@@ -26710,7 +26710,7 @@ window.allHeroes =
             "Debuffers (DEF)",
             "Mana Reducers or Blockers"
         ],
-        "source": "Tower-Magic",
+        "source": "Tower - Magic",
         "Release date": "2021-09-15",
         "star": 3,
         "power": 479,
@@ -26804,7 +26804,7 @@ window.allHeroes =
             "Health Boosters",
             "Immunity Providers"
         ],
-        "source": "S5-Dune",
+        "source": "S5 - Dune",
         "Release date": "2022-04-21",
         "star": 3,
         "power": 483,
@@ -26893,7 +26893,7 @@ window.allHeroes =
             "Buffers (DEF)",
             "Cleansers"
         ],
-        "source": "S5-Dune",
+        "source": "S5 - Dune",
         "Release date": "2024-09-07",
         "star": 3,
         "power": 495,
@@ -26985,7 +26985,7 @@ window.allHeroes =
             "Extra Damage Dealers",
             "Bypassers"
         ],
-        "source": "Tower-Owls",
+        "source": "Tower - Owls",
         "Release date": "2023-12-20",
         "star": 3,
         "power": 489,
@@ -27161,7 +27161,7 @@ window.allHeroes =
             "Healers",
             "Mana Generation Buffers"
         ],
-        "source": "S1-Classic",
+        "source": "S1 - Classic",
         "Release date": "2017-03-01",
         "star": 3,
         "power": 446,
@@ -27246,7 +27246,7 @@ window.allHeroes =
             "Healers",
             "Mana Generation Buffers"
         ],
-        "source": "S1-Classic",
+        "source": "S1 - Classic",
         "Release date": "2020-05-18",
         "star": 3,
         "power": 476,
@@ -27331,7 +27331,7 @@ window.allHeroes =
             "Healers",
             "Mana Generation Buffers"
         ],
-        "source": "S1-Classic",
+        "source": "S1 - Classic",
         "Release date": "2024-05-31",
         "star": 3,
         "power": 509,
@@ -27420,7 +27420,7 @@ window.allHeroes =
             "Mana Generation Buffers",
             "Reflectors"
         ],
-        "source": "S1-Classic",
+        "source": "S1 - Classic",
         "Release date": "2025-06-18",
         "star": 3,
         "power": 517,
@@ -27595,7 +27595,7 @@ window.allHeroes =
             "DoT Attackers",
             "Snipers"
         ],
-        "source": "Challenge Festival-Grim Forest",
+        "source": "Challenge Festival I",
         "Release date": "2021-12-15",
         "star": 3,
         "power": 481,
@@ -27681,7 +27681,7 @@ window.allHeroes =
             "Mana Reducers or Blockers",
             "Extra Damage Dealers"
         ],
-        "source": "Monthly Event-Morlovia",
+        "source": "Monthly Event - Morlovia",
         "Release date": "2022-10-03",
         "star": 3,
         "power": 483,
@@ -27769,7 +27769,7 @@ window.allHeroes =
             "Revivers",
             "Mana Raisers"
         ],
-        "source": "S4-Wilderness",
+        "source": "S4 - Wilderness",
         "Release date": "2021-03-25",
         "star": 3,
         "power": 478,
@@ -27856,7 +27856,7 @@ window.allHeroes =
             "Heal over Time (HoT)",
             "Revivers"
         ],
-        "source": "S4-Wilderness",
+        "source": "S4 - Wilderness",
         "Release date": "2023-11-09",
         "star": 3,
         "power": 488,
@@ -27944,7 +27944,7 @@ window.allHeroes =
             "Healers",
             "Health Boosters"
         ],
-        "source": "S3-Valhalla",
+        "source": "S3 - Valhalla",
         "Release date": "2020-05-28",
         "star": 3,
         "power": 464,
@@ -28034,7 +28034,7 @@ window.allHeroes =
             "Snipers",
             "Healing Reducers"
         ],
-        "source": "Monthly Event-Sand Empire",
+        "source": "Monthly Event - Sand Empire",
         "Release date": "2018-06-21",
         "star": 3,
         "power": 448,
@@ -28119,7 +28119,7 @@ window.allHeroes =
         "skill_types": [
             "AoE Attackers (Hit-3)"
         ],
-        "source": "S1-Classic",
+        "source": "S1 - Classic",
         "Release date": "2017-03-01",
         "star": 3,
         "power": 447,
@@ -28203,7 +28203,7 @@ window.allHeroes =
             "AoE Attackers (Hit-3)",
             "Debuffers (DEF)"
         ],
-        "source": "S1-Classic",
+        "source": "S1 - Classic",
         "Release date": "2020-05-18",
         "star": 3,
         "power": 476,
@@ -28287,7 +28287,7 @@ window.allHeroes =
             "AoE Attackers (Hit-3)",
             "Extra Damage Dealers"
         ],
-        "source": "S1-Classic",
+        "source": "S1 - Classic",
         "Release date": "2024-07-16",
         "star": 3,
         "power": 510,
@@ -28461,7 +28461,7 @@ window.allHeroes =
             "Dispellers",
             "Snipers"
         ],
-        "source": "S2-Atlantis",
+        "source": "S2 - Atlantis",
         "Release date": "2019-08-01",
         "star": 3,
         "power": 448,
@@ -28546,7 +28546,7 @@ window.allHeroes =
             "Cleansers",
             "Snipers"
         ],
-        "source": "S2-Atlantis",
+        "source": "S2 - Atlantis",
         "Release date": "2022-05-02",
         "star": 3,
         "power": 462,
@@ -28629,7 +28629,7 @@ window.allHeroes =
         "skill_types": [
             "Revivers"
         ],
-        "source": "S2-Atlantis",
+        "source": "S2 - Atlantis",
         "Release date": "2019-08-01",
         "star": 3,
         "power": 450,
@@ -28723,7 +28723,7 @@ window.allHeroes =
             "Mana Generation Buffers",
             "Heal over Time (HoT)"
         ],
-        "source": "Challenge Festival-Slayers",
+        "source": "Challenge Festival II",
         "Release date": "2021-08-05",
         "star": 3,
         "power": 478,
@@ -28817,7 +28817,7 @@ window.allHeroes =
             "Mana Reducers or Blockers",
             "Mana Raisers"
         ],
-        "source": "Tower-Magic",
+        "source": "Tower - Magic",
         "Release date": "2023-05-03",
         "star": 3,
         "power": 486,
@@ -28909,7 +28909,7 @@ window.allHeroes =
             "Buffers (DEF)",
             "Taunters"
         ],
-        "source": "Challenge Festival-Wonderland",
+        "source": "Challenge Festival I",
         "Release date": "2019-12-01",
         "star": 3,
         "power": 455,
@@ -28995,7 +28995,7 @@ window.allHeroes =
             "Debuffers (ATK)",
             "Snipers"
         ],
-        "source": "Challenge Festival-Starfall",
+        "source": "Challenge Festival II",
         "Release date": "2021-06-10",
         "star": 3,
         "power": 477,
@@ -29176,7 +29176,7 @@ window.allHeroes =
             "Health Boosters",
             "Max Health Reducers"
         ],
-        "source": "Alliance-Knights Clash",
+        "source": "Alliance - Knights Clash",
         "Release date": "2024-01-10",
         "star": 3,
         "power": 490,
@@ -29270,7 +29270,7 @@ window.allHeroes =
             "Cleanse Blockers",
             "Debuffers (ATK)"
         ],
-        "source": "Challenge Festival-Bards",
+        "source": "Challenge Festival II",
         "Release date": "2022-12-01",
         "star": 3,
         "power": 485,
@@ -29357,7 +29357,7 @@ window.allHeroes =
             "AoE Attackers (Hit-3)",
             "Extra Damage Dealers"
         ],
-        "source": "Monthly Event-Love Season",
+        "source": "Monthly Event - Love Season",
         "Release date": "2023-02-14",
         "star": 3,
         "power": 486,
@@ -29542,7 +29542,7 @@ window.allHeroes =
             "Debuffers (DEF)",
             "Max Health Reducers"
         ],
-        "source": "S3-Valhalla",
+        "source": "S3 - Valhalla",
         "Release date": "2020-05-28",
         "star": 4,
         "power": 662,
@@ -29630,7 +29630,7 @@ window.allHeroes =
             "Mana Reducers or Blockers",
             "Snipers"
         ],
-        "source": "S3-Valhalla",
+        "source": "S3 - Valhalla",
         "Release date": "2023-03-13",
         "star": 4,
         "power": 684,
@@ -29723,7 +29723,7 @@ window.allHeroes =
             "Revivers",
             "Healers"
         ],
-        "source": "Tower-Magic",
+        "source": "Tower - Magic",
         "Release date": "2021-09-15",
         "star": 4,
         "power": 678,
@@ -29816,7 +29816,7 @@ window.allHeroes =
             "Mana Raisers",
             "Minions Counters"
         ],
-        "source": "Tower-Styx",
+        "source": "Tower - Styx",
         "Release date": "2022-09-21",
         "star": 4,
         "power": 685,
@@ -29916,7 +29916,7 @@ window.allHeroes =
             "Immunity Providers",
             "Mana Generation Buffers"
         ],
-        "source": "S3-Valhalla",
+        "source": "S3 - Valhalla",
         "Release date": "2020-02-27",
         "star": 4,
         "power": 660,
@@ -30007,7 +30007,7 @@ window.allHeroes =
             "Debuffers (DEF)",
             "Minions Summoners"
         ],
-        "source": "Monthly Event-Winter",
+        "source": "Monthly Event - Winter",
         "Release date": "2018-12-02",
         "star": 4,
         "power": 649,
@@ -30094,7 +30094,7 @@ window.allHeroes =
             "Dispellers",
             "Snipers"
         ],
-        "source": "S1-Classic",
+        "source": "S1 - Classic",
         "Release date": "2017-03-01",
         "star": 4,
         "power": 643,
@@ -30179,7 +30179,7 @@ window.allHeroes =
             "Cleansers",
             "Snipers"
         ],
-        "source": "S1-Classic",
+        "source": "S1 - Classic",
         "Release date": "2020-05-18",
         "star": 4,
         "power": 688,
@@ -30265,7 +30265,7 @@ window.allHeroes =
             "Buff Blockers",
             "Dispellers"
         ],
-        "source": "S1-Classic",
+        "source": "S1 - Classic",
         "Release date": "2022-12-26",
         "star": 4,
         "power": 734,
@@ -30352,7 +30352,7 @@ window.allHeroes =
             "Extra Damage Dealers",
             "Snipers"
         ],
-        "source": "S1-Classic",
+        "source": "S1 - Classic",
         "Release date": "2024-01-22",
         "star": 4,
         "power": 746,
@@ -30443,7 +30443,7 @@ window.allHeroes =
             "Dispellers",
             "Snipers"
         ],
-        "source": "S1-Classic",
+        "source": "S1 - Classic",
         "Release date": "2025-01-14",
         "star": 4,
         "power": 759,
@@ -30534,7 +30534,7 @@ window.allHeroes =
             "Buff Blockers",
             "Extra Damage Dealers"
         ],
-        "source": "Alliance-Knights Clash",
+        "source": "Alliance - Knights Clash",
         "Release date": "2022-01-05",
         "star": 4,
         "power": 681,
@@ -30622,7 +30622,7 @@ window.allHeroes =
             "Buffers (ATK)",
             "Heal over Time (HoT)"
         ],
-        "source": "S2-Atlantis",
+        "source": "S2 - Atlantis",
         "Release date": "2019-08-01",
         "star": 4,
         "power": 647,
@@ -30711,7 +30711,7 @@ window.allHeroes =
             "Health Boosters",
             "Heal over Time (HoT)"
         ],
-        "source": "S2-Atlantis",
+        "source": "S2 - Atlantis",
         "Release date": "2022-05-02",
         "star": 4,
         "power": 668,
@@ -30798,7 +30798,7 @@ window.allHeroes =
             "Healers (Special)",
             "Minions Counters"
         ],
-        "source": "S2-Atlantis",
+        "source": "S2 - Atlantis",
         "Release date": "2019-08-01",
         "star": 4,
         "power": 651,
@@ -30886,7 +30886,7 @@ window.allHeroes =
             "Minions Counters",
             "Snipers"
         ],
-        "source": "S2-Atlantis",
+        "source": "S2 - Atlantis",
         "Release date": "2023-04-03",
         "star": 4,
         "power": 673,
@@ -30973,7 +30973,7 @@ window.allHeroes =
             "Mana Reducers or Blockers",
             "Snipers"
         ],
-        "source": "Challenge Festival-Grim Forest",
+        "source": "Challenge Festival I",
         "Release date": "2019-12-01",
         "star": 4,
         "power": 646,
@@ -31060,7 +31060,7 @@ window.allHeroes =
             "Mana Reducers or Blockers",
             "Snipers"
         ],
-        "source": "Challenge Festival-Grim Forest",
+        "source": "Challenge Festival I",
         "Release date": "2023-08-10",
         "star": 4,
         "power": 682,
@@ -31145,7 +31145,7 @@ window.allHeroes =
             "AoE Attackers (Hit-5)",
             "Negative Effects On Self Or Allies"
         ],
-        "source": "Monthly Event-Springvale",
+        "source": "Monthly Event - Springvale",
         "Release date": "2018-03-28",
         "star": 4,
         "power": 648,
@@ -31231,7 +31231,7 @@ window.allHeroes =
             "Negative Effects On Self Or Allies",
             "Snipers"
         ],
-        "source": "Monthly Event-Springvale",
+        "source": "Monthly Event - Springvale",
         "Release date": "2022-03-21",
         "star": 4,
         "power": 669,
@@ -31317,7 +31317,7 @@ window.allHeroes =
             "AoE Attackers (Hit-5)",
             "Damage Reducers"
         ],
-        "source": "Challenge-Gargoyle",
+        "source": "Challenge - Gargoyle",
         "Release date": "2022-05-12",
         "star": 4,
         "power": 677,
@@ -31406,7 +31406,7 @@ window.allHeroes =
             "Buffers (DEF)",
             "Healers"
         ],
-        "source": "S1-Classic",
+        "source": "S1 - Classic",
         "Release date": "2017-03-01",
         "star": 4,
         "power": 643,
@@ -31492,7 +31492,7 @@ window.allHeroes =
             "Healers",
             "Health Boosters"
         ],
-        "source": "S1-Classic",
+        "source": "S1 - Classic",
         "Release date": "2020-05-18",
         "star": 4,
         "power": 690,
@@ -31577,7 +31577,7 @@ window.allHeroes =
             "Buffers (DEF)",
             "Heal over Time (HoT)"
         ],
-        "source": "S1-Classic",
+        "source": "S1 - Classic",
         "Release date": "2023-11-27",
         "star": 4,
         "power": 736,
@@ -31662,7 +31662,7 @@ window.allHeroes =
             "Buffers (DEF)",
             "Healers"
         ],
-        "source": "S1-Classic",
+        "source": "S1 - Classic",
         "Release date": "2024-05-31",
         "star": 4,
         "power": 748,
@@ -31751,7 +31751,7 @@ window.allHeroes =
             "Healers",
             "Reflectors"
         ],
-        "source": "S1-Classic",
+        "source": "S1 - Classic",
         "Release date": "2025-06-18",
         "star": 4,
         "power": 761,
@@ -31933,7 +31933,7 @@ window.allHeroes =
             "AoE Attackers (Hit-5)",
             "Mana Reducers or Blockers"
         ],
-        "source": "S1-Classic",
+        "source": "S1 - Classic",
         "Release date": "2017-03-01",
         "star": 4,
         "power": 641,
@@ -32019,7 +32019,7 @@ window.allHeroes =
             "Dodgers",
             "Mana Raisers"
         ],
-        "source": "S1-Classic",
+        "source": "S1 - Classic",
         "Release date": "2020-05-18",
         "star": 4,
         "power": 686,
@@ -32104,7 +32104,7 @@ window.allHeroes =
             "AoE Attackers (Hit-5)",
             "Mana Generation Buffers"
         ],
-        "source": "S1-Classic",
+        "source": "S1 - Classic",
         "Release date": "2023-10-30",
         "star": 4,
         "power": 732,
@@ -32190,7 +32190,7 @@ window.allHeroes =
             "Mana Reducers or Blockers",
             "Extra Damage Dealers"
         ],
-        "source": "S1-Classic",
+        "source": "S1 - Classic",
         "Release date": "2024-05-06",
         "star": 4,
         "power": 744,
@@ -32280,7 +32280,7 @@ window.allHeroes =
             "Bypassers",
             "Mana Reducers or Blockers"
         ],
-        "source": "S1-Classic",
+        "source": "S1 - Classic",
         "Release date": "2025-05-10",
         "star": 4,
         "power": 756,
@@ -32371,7 +32371,7 @@ window.allHeroes =
             "Debuffers (DEF)",
             "Status Effect Conversion"
         ],
-        "source": "Challenge Festival-Starfall",
+        "source": "Challenge Festival II",
         "Release date": "2021-06-10",
         "star": 4,
         "power": 676,
@@ -32457,7 +32457,7 @@ window.allHeroes =
             "Dispellers",
             "Healers"
         ],
-        "source": "S1-Classic",
+        "source": "S1 - Classic",
         "Release date": "2017-03-01",
         "star": 4,
         "power": 638,
@@ -32544,7 +32544,7 @@ window.allHeroes =
             "Dispellers",
             "Heal over Time (HoT)"
         ],
-        "source": "S1-Classic",
+        "source": "S1 - Classic",
         "Release date": "2020-01-20",
         "star": 4,
         "power": 683,
@@ -32632,7 +32632,7 @@ window.allHeroes =
             "Dispellers",
             "Heal over Time (HoT)"
         ],
-        "source": "S1-Classic",
+        "source": "S1 - Classic",
         "Release date": "2023-10-30",
         "star": 4,
         "power": 729,
@@ -32720,7 +32720,7 @@ window.allHeroes =
             "Dispellers",
             "Healers"
         ],
-        "source": "S1-Classic",
+        "source": "S1 - Classic",
         "Release date": "2024-01-22",
         "star": 4,
         "power": 741,
@@ -32811,7 +32811,7 @@ window.allHeroes =
             "Healers",
             "Reflectors"
         ],
-        "source": "S1-Classic",
+        "source": "S1 - Classic",
         "Release date": "2025-03-11",
         "star": 4,
         "power": 753,
@@ -32900,7 +32900,7 @@ window.allHeroes =
             "Mana Generation Buffers",
             "Minions Summoners"
         ],
-        "source": "Monthly Event-Kalevala",
+        "source": "Monthly Event - Kalevala",
         "Release date": "2022-06-20",
         "star": 4,
         "power": 682,
@@ -32989,7 +32989,7 @@ window.allHeroes =
             "Mana Generation Buffers",
             "Minions Summoners"
         ],
-        "source": "Monthly Event-Kalevala",
+        "source": "Monthly Event - Kalevala",
         "Release date": "2023-08-07",
         "star": 4,
         "power": 706,
@@ -33079,7 +33079,7 @@ window.allHeroes =
             "Mana Reducers or Blockers",
             "Snipers"
         ],
-        "source": "S6-Mysteries of the Deep",
+        "source": "S6 - Mysteries of the Deep",
         "Release date": "2023-06-07",
         "star": 4,
         "power": 688,
@@ -33178,7 +33178,7 @@ window.allHeroes =
             "DoT Attackers",
             "Healers (Special)"
         ],
-        "source": "S6-Mysteries of the Deep",
+        "source": "S6 - Mysteries of the Deep",
         "Release date": "2025-03-31",
         "star": 4,
         "power": 704,
@@ -33464,7 +33464,7 @@ window.allHeroes =
             "Mana Generation Buffers",
             "Heal over Time (HoT)"
         ],
-        "source": "Challenge Festival-Slayers",
+        "source": "Challenge Festival II",
         "Release date": "2021-08-05",
         "star": 4,
         "power": 677,
@@ -33554,7 +33554,7 @@ window.allHeroes =
             "Silencers",
             "Snipers"
         ],
-        "source": "Challenge Festival-Pirates",
+        "source": "Challenge Festival I",
         "Release date": "2017-09-07",
         "star": 4,
         "power": 645,
@@ -33641,7 +33641,7 @@ window.allHeroes =
             "Silencers",
             "Snipers"
         ],
-        "source": "Challenge Festival-Pirates",
+        "source": "Challenge Festival I",
         "Release date": "2023-12-28",
         "star": 4,
         "power": 681,
@@ -33728,7 +33728,7 @@ window.allHeroes =
             "Immunity Providers",
             "Healers (Special)"
         ],
-        "source": "S5-Dune",
+        "source": "S5 - Dune",
         "Release date": "2022-04-21",
         "star": 4,
         "power": 683,
@@ -33820,7 +33820,7 @@ window.allHeroes =
             "Health Boosters",
             "Cleansers"
         ],
-        "source": "S5-Dune",
+        "source": "S5 - Dune",
         "Release date": "2024-10-05",
         "star": 4,
         "power": 699,
@@ -33913,7 +33913,7 @@ window.allHeroes =
             "Health Boosters",
             "Mana Generation Buffers"
         ],
-        "source": "Alliance-Knights Clash",
+        "source": "Alliance - Knights Clash",
         "Release date": "2024-01-10",
         "star": 4,
         "power": 692,
@@ -34001,7 +34001,7 @@ window.allHeroes =
             "AoE Attackers (Hit-5)",
             "Debuffers (ATK)"
         ],
-        "source": "S1-Classic",
+        "source": "S1 - Classic",
         "Release date": "2017-03-01",
         "star": 4,
         "power": 644,
@@ -34086,7 +34086,7 @@ window.allHeroes =
             "AoE Attackers (Hit-5)",
             "Debuffers (ATK)"
         ],
-        "source": "S1-Classic",
+        "source": "S1 - Classic",
         "Release date": "2020-01-20",
         "star": 4,
         "power": 688,
@@ -34171,7 +34171,7 @@ window.allHeroes =
             "AoE Attackers (Hit-5)",
             "Debuffers (DEF)"
         ],
-        "source": "S1-Classic",
+        "source": "S1 - Classic",
         "Release date": "2023-04-17",
         "star": 4,
         "power": 735,
@@ -34257,7 +34257,7 @@ window.allHeroes =
             "Debuffers (ATK)",
             "Extra Damage Dealers"
         ],
-        "source": "S1-Classic",
+        "source": "S1 - Classic",
         "Release date": "2024-03-11",
         "star": 4,
         "power": 746,
@@ -34347,7 +34347,7 @@ window.allHeroes =
             "Bypassers",
             "Debuffers (ATK)"
         ],
-        "source": "S1-Classic",
+        "source": "S1 - Classic",
         "Release date": "2025-04-08",
         "star": 4,
         "power": 759,
@@ -34437,7 +34437,7 @@ window.allHeroes =
             "Silencers",
             "Snipers"
         ],
-        "source": "S4-Wilderness",
+        "source": "S4 - Wilderness",
         "Release date": "2021-03-25",
         "star": 4,
         "power": 677,
@@ -34527,7 +34527,7 @@ window.allHeroes =
             "Silencers",
             "Snipers"
         ],
-        "source": "S4-Wilderness",
+        "source": "S4 - Wilderness",
         "Release date": "2023-12-07",
         "star": 4,
         "power": 692,
@@ -34619,7 +34619,7 @@ window.allHeroes =
             "DoT Attackers",
             "Heal over Time (HoT)"
         ],
-        "source": "Alliance-Musketeers",
+        "source": "Alliance - Musketeers",
         "Release date": "2022-12-14",
         "star": 4,
         "power": 686,
@@ -34710,7 +34710,7 @@ window.allHeroes =
             "Debuffers (ATK)",
             "Snipers"
         ],
-        "source": "Alliance-Knights Clash",
+        "source": "Alliance - Knights Clash",
         "Release date": "2021-10-13",
         "star": 4,
         "power": 680,
@@ -34797,7 +34797,7 @@ window.allHeroes =
             "AoE Attackers (Hit-5)",
             "Reflectors"
         ],
-        "source": "S5-Dune",
+        "source": "S5 - Dune",
         "Release date": "2022-11-24",
         "star": 5,
         "power": 866,
@@ -34887,7 +34887,7 @@ window.allHeroes =
             "AoE Attackers (Hit-5)",
             "Reflectors"
         ],
-        "source": "S5-Dune",
+        "source": "S5 - Dune",
         "Release date": "2024-03-04",
         "star": 5,
         "power": 1211,
@@ -35261,7 +35261,7 @@ window.allHeroes =
             "Buff Blockers",
             "Negative Effects On Self Or Allies"
         ],
-        "source": "Monthly Event-Springvale",
+        "source": "Monthly Event - Springvale",
         "Release date": "2023-03-27",
         "star": 5,
         "power": 865,
@@ -35349,7 +35349,7 @@ window.allHeroes =
             "Buff Blockers",
             "Negative Effects On Self Or Allies"
         ],
-        "source": "Monthly Event-Springvale",
+        "source": "Monthly Event - Springvale",
         "Release date": "2024-03-18",
         "star": 5,
         "power": 986,
@@ -35438,7 +35438,7 @@ window.allHeroes =
             "Minions Summoners",
             "Damage Reducers"
         ],
-        "source": "Challenge-Gargoyle",
+        "source": "Challenge - Gargoyle",
         "Release date": "2022-05-12",
         "star": 5,
         "power": 841,
@@ -35527,7 +35527,7 @@ window.allHeroes =
             "Mega Minions Summoners",
             "Sleepweavers"
         ],
-        "source": "Challenge-Secrets of the Opera",
+        "source": "Challenge - Secrets of the Opera",
         "Release date": "2024-08-22",
         "star": 5,
         "power": 1090,
@@ -35620,7 +35620,7 @@ window.allHeroes =
             "Snipers",
             "Heal over Time (HoT)"
         ],
-        "source": "Alliance-Musketeers",
+        "source": "Alliance - Musketeers",
         "Release date": "2022-12-14",
         "star": 5,
         "power": 864,
@@ -35711,7 +35711,7 @@ window.allHeroes =
             "Revivers",
             "Extra Damage Dealers"
         ],
-        "source": "S2-Atlantis",
+        "source": "S2 - Atlantis",
         "Release date": "2019-02-01",
         "star": 5,
         "power": 772,
@@ -35798,7 +35798,7 @@ window.allHeroes =
             "Revivers",
             "Extra Damage Dealers"
         ],
-        "source": "S2-Atlantis",
+        "source": "S2 - Atlantis",
         "Release date": "2023-04-03",
         "star": 5,
         "power": 942,
@@ -35889,7 +35889,7 @@ window.allHeroes =
             "Immunity Providers",
             "Negative Effects On Self Or Allies"
         ],
-        "source": "Mystery-Shadow",
+        "source": "Mystery - Shadow",
         "Release date": "2024-04-11",
         "star": 5,
         "power": 1105,
@@ -35983,7 +35983,7 @@ window.allHeroes =
             "Minions Summoners",
             "Healers (Special)"
         ],
-        "source": "Monthly Event-Winter",
+        "source": "Monthly Event - Winter",
         "Release date": "2022-12-01",
         "star": 5,
         "power": 851,
@@ -36352,7 +36352,7 @@ window.allHeroes =
             "Minions Counters",
             "Bypassers"
         ],
-        "source": "Challenge Festival-Bards",
+        "source": "Challenge Festival II",
         "Release date": "2024-11-14",
         "star": 5,
         "power": 1147,
@@ -36628,7 +36628,7 @@ window.allHeroes =
             "Snipers",
             "Minions Counters"
         ],
-        "source": "Tower-Ninjas",
+        "source": "Tower - Ninjas",
         "Release date": "2024-08-27",
         "star": 5,
         "power": 1093,
@@ -36910,7 +36910,7 @@ window.allHeroes =
             "Debuffers (ATK)",
             "Stacking Heroes"
         ],
-        "source": "S4-Wilderness",
+        "source": "S4 - Wilderness",
         "Release date": "2022-01-27",
         "star": 5,
         "power": 815,
@@ -36998,7 +36998,7 @@ window.allHeroes =
             "Debuffers (ATK)",
             "Stacking Heroes"
         ],
-        "source": "S4-Wilderness",
+        "source": "S4 - Wilderness",
         "Release date": "2024-08-01",
         "star": 5,
         "power": 1031,
@@ -37184,7 +37184,7 @@ window.allHeroes =
             "Snipers",
             "Mana Reducers or Blockers"
         ],
-        "source": "Tower-Magic",
+        "source": "Tower - Magic",
         "Release date": "2021-09-15",
         "star": 5,
         "power": 813,
@@ -37281,7 +37281,7 @@ window.allHeroes =
             "Bypassers",
             "Debuffers (DEF)"
         ],
-        "source": "S7-Treasures of Flame and Frost",
+        "source": "S7 - Treasures of Flame and Frost",
         "Release date": "2025-01-26",
         "star": 5,
         "power": 1173,
@@ -37377,7 +37377,7 @@ window.allHeroes =
             "Stacking Heroes",
             "Buffers (ATK)"
         ],
-        "source": "Challenge-Secrets of the Opera",
+        "source": "Challenge - Secrets of the Opera",
         "Release date": "2024-03-21",
         "star": 5,
         "power": 1022,
@@ -37563,7 +37563,7 @@ window.allHeroes =
             "Damage Reducers",
             "Taunters"
         ],
-        "source": "Monthly Event-Love Season",
+        "source": "Monthly Event - Love Season",
         "Release date": "2025-02-14",
         "star": 5,
         "power": 1163,
@@ -37652,7 +37652,7 @@ window.allHeroes =
             "Mana Reducers or Blockers",
             "Bypassers"
         ],
-        "source": "Challenge-Beowulf",
+        "source": "Challenge - Beowulf",
         "Release date": "2025-03-13",
         "star": 5,
         "power": 1188,
@@ -37743,7 +37743,7 @@ window.allHeroes =
             "Bypassers",
             "Cleanse Blockers"
         ],
-        "source": "Monthly Event-Morlovia",
+        "source": "Monthly Event - Morlovia",
         "Release date": "2023-09-25",
         "star": 5,
         "power": 933,
@@ -37833,7 +37833,7 @@ window.allHeroes =
             "Minions Counters",
             "Snipers"
         ],
-        "source": "Challenge Festival-Starfall",
+        "source": "Challenge Festival II",
         "Release date": "2021-06-10",
         "star": 5,
         "power": 806,
@@ -37921,7 +37921,7 @@ window.allHeroes =
             "Counterattackers",
             "Minions Summoners"
         ],
-        "source": "Tower-Ninjas",
+        "source": "Tower - Ninjas",
         "Release date": "2023-01-11",
         "star": 5,
         "power": 866,
@@ -38017,7 +38017,7 @@ window.allHeroes =
             "AoE Attackers (Hit-3)",
             "Buff Blockers"
         ],
-        "source": "S5-Dune",
+        "source": "S5 - Dune",
         "Release date": "2022-04-21",
         "star": 5,
         "power": 858,
@@ -38107,7 +38107,7 @@ window.allHeroes =
             "Buff Blockers",
             "Dispellers"
         ],
-        "source": "S5-Dune",
+        "source": "S5 - Dune",
         "Release date": "2025-01-20",
         "star": 5,
         "power": 1199,
@@ -38198,7 +38198,7 @@ window.allHeroes =
             "AoE Attackers (Hit-3)",
             "Healers (Special)"
         ],
-        "source": "S1-Classic",
+        "source": "S1 - Classic",
         "Release date": "2017-03-01",
         "star": 5,
         "power": 758,
@@ -38284,7 +38284,7 @@ window.allHeroes =
             "Healers (Special)",
             "Healing Reducers"
         ],
-        "source": "S1-Classic",
+        "source": "S1 - Classic",
         "Release date": "2020-05-18",
         "star": 5,
         "power": 852,
@@ -38369,7 +38369,7 @@ window.allHeroes =
             "AoE Attackers (Hit-5)",
             "Healing Reducers"
         ],
-        "source": "S1-Classic",
+        "source": "S1 - Classic",
         "Release date": "2022-09-05",
         "star": 5,
         "power": 968,
@@ -38455,7 +38455,7 @@ window.allHeroes =
             "Extra Damage Dealers",
             "Healers (Special)"
         ],
-        "source": "S1-Classic",
+        "source": "S1 - Classic",
         "Release date": "2023-11-27",
         "star": 5,
         "power": 1135,
@@ -38544,7 +38544,7 @@ window.allHeroes =
             "Bypassers",
             "Healers (Special)"
         ],
-        "source": "S1-Classic",
+        "source": "S1 - Classic",
         "Release date": "2025-01-14",
         "star": 5,
         "power": 1242,
@@ -38728,7 +38728,7 @@ window.allHeroes =
             "Mana Raisers",
             "Status Effect Conversion"
         ],
-        "source": "Tower-Magic",
+        "source": "Tower - Magic",
         "Release date": "2025-04-17",
         "star": 5,
         "power": 1200,
@@ -38824,7 +38824,7 @@ window.allHeroes =
             "Minions Summoners",
             "Fiends Summoners"
         ],
-        "source": "Extra Draw-Secret Summon",
+        "source": "Extra Draw - Secret Summon",
         "Release date": "2022-11-22",
         "star": 5,
         "power": 853,
@@ -39102,7 +39102,7 @@ window.allHeroes =
             "Ghost Form & Hiding",
             "Bypassers"
         ],
-        "source": "Extra Draw-Secret Summon",
+        "source": "Extra Draw - Secret Summon",
         "Release date": "2025-05-31",
         "star": 5,
         "power": 1200,
@@ -39203,7 +39203,7 @@ window.allHeroes =
             "Bypassers",
             "Minions Counters"
         ],
-        "source": "S7-Treasures of Flame and Frost",
+        "source": "S7 - Treasures of Flame and Frost",
         "Release date": "2025-06-13",
         "star": 5,
         "power": 1211,
@@ -39298,7 +39298,7 @@ window.allHeroes =
             "Fiends Counters",
             "Heal over Time (HoT)"
         ],
-        "source": "Challenge-Carnival of Gods",
+        "source": "Challenge - Carnival of Gods",
         "Release date": "2023-11-02",
         "star": 5,
         "power": 952,
@@ -39666,7 +39666,7 @@ window.allHeroes =
             "Cleansers",
             "Extra Damage Dealers"
         ],
-        "source": "Monthly Event-Morlovia",
+        "source": "Monthly Event - Morlovia",
         "Release date": "2020-10-26",
         "star": 5,
         "power": 795,
@@ -39755,7 +39755,7 @@ window.allHeroes =
             "Cleansers",
             "Debuffers (DEF)"
         ],
-        "source": "Monthly Event-Morlovia",
+        "source": "Monthly Event - Morlovia",
         "Release date": "2021-10-04",
         "star": 5,
         "power": 944,
@@ -39844,7 +39844,7 @@ window.allHeroes =
             "Debuffers (DEF)",
             "Extra Damage Dealers"
         ],
-        "source": "S3-Valhalla",
+        "source": "S3 - Valhalla",
         "Release date": "2020-08-27",
         "star": 5,
         "power": 786,
@@ -39931,7 +39931,7 @@ window.allHeroes =
             "Extra Damage Dealers",
             "Debuffers (DEF)"
         ],
-        "source": "S3-Valhalla",
+        "source": "S3 - Valhalla",
         "Release date": "2023-01-16",
         "star": 5,
         "power": 983,
@@ -40021,7 +40021,7 @@ window.allHeroes =
             "Mana Raisers",
             "Mana Reducers or Blockers"
         ],
-        "source": "Challenge Festival-Grim Forest",
+        "source": "Challenge Festival I",
         "Release date": "2023-08-10",
         "star": 5,
         "power": 931,
@@ -40297,7 +40297,7 @@ window.allHeroes =
             "Stacking Heroes",
             "Heal over Time (HoT)"
         ],
-        "source": "S6-Mysteries of the Deep",
+        "source": "S6 - Mysteries of the Deep",
         "Release date": "2023-06-07",
         "star": 5,
         "power": 933,
@@ -40399,7 +40399,7 @@ window.allHeroes =
             "Heal over Time (HoT)",
             "Stacking Heroes"
         ],
-        "source": "S6-Mysteries of the Deep",
+        "source": "S6 - Mysteries of the Deep",
         "Release date": "2024-07-27",
         "star": 5,
         "power": 1161,
@@ -40497,7 +40497,7 @@ window.allHeroes =
             "Heal over Time (HoT)",
             "Snipers"
         ],
-        "source": "S4-Wilderness",
+        "source": "S4 - Wilderness",
         "Release date": "2021-04-22",
         "star": 5,
         "power": 807,
@@ -40586,7 +40586,7 @@ window.allHeroes =
             "Buffers (ATK)",
             "Extra Damage Dealers"
         ],
-        "source": "S4-Wilderness",
+        "source": "S4 - Wilderness",
         "Release date": "2023-06-22",
         "star": 5,
         "power": 1021,
@@ -40679,7 +40679,7 @@ window.allHeroes =
             "Immunity Providers",
             "Max Health Reducers"
         ],
-        "source": "Challenge-Gargoyle",
+        "source": "Challenge - Gargoyle",
         "Release date": "2024-02-27",
         "star": 5,
         "power": 1048,
@@ -40772,7 +40772,7 @@ window.allHeroes =
             "Snipers",
             "Extra Damage Dealers"
         ],
-        "source": "S6-Mysteries of the Deep",
+        "source": "S6 - Mysteries of the Deep",
         "Release date": "2023-08-30",
         "star": 5,
         "power": 976,
@@ -40874,7 +40874,7 @@ window.allHeroes =
             "Snipers",
             "Extra Damage Dealers"
         ],
-        "source": "S6-Mysteries of the Deep",
+        "source": "S6 - Mysteries of the Deep",
         "Release date": "2025-06-26",
         "star": 5,
         "power": 1214,
@@ -40975,7 +40975,7 @@ window.allHeroes =
             "Chain & Random Attackers",
             "Minions Summoners"
         ],
-        "source": "Monthly Event-Winter",
+        "source": "Monthly Event - Winter",
         "Release date": "2023-12-01",
         "star": 5,
         "power": 949,
@@ -41254,7 +41254,7 @@ window.allHeroes =
             "Debuffers (DEF)",
             "Revivers"
         ],
-        "source": "Challenge Festival-Avalon",
+        "source": "Challenge Festival I",
         "Release date": "2023-04-20",
         "star": 5,
         "power": 864,
@@ -41521,7 +41521,7 @@ window.allHeroes =
             "Heal over Time (HoT)",
             "Debuffers (DEF)"
         ],
-        "source": "Challenge-Beowulf",
+        "source": "Challenge - Beowulf",
         "Release date": "2025-02-13",
         "star": 5,
         "power": 1183,
@@ -41616,7 +41616,7 @@ window.allHeroes =
             "Dodgers",
             "Minions Counters"
         ],
-        "source": "Alliance-Moths",
+        "source": "Alliance - Moths",
         "Release date": "2025-01-23",
         "star": 5,
         "power": 1178,
@@ -41890,7 +41890,7 @@ window.allHeroes =
             "Cleansers",
             "Status Effects Blockers"
         ],
-        "source": "Challenge Festival-Guardians",
+        "source": "Challenge Festival I",
         "Release date": "2020-01-08",
         "star": 5,
         "power": 780,
@@ -42162,7 +42162,7 @@ window.allHeroes =
             "Health Boosters",
             "Revivers"
         ],
-        "source": "S3-Valhalla",
+        "source": "S3 - Valhalla",
         "Release date": "2020-02-27",
         "star": 5,
         "power": 788,
@@ -42251,7 +42251,7 @@ window.allHeroes =
             "Revivers",
             "Heal over Time (HoT)"
         ],
-        "source": "S3-Valhalla",
+        "source": "S3 - Valhalla",
         "Release date": "2022-10-24",
         "star": 5,
         "power": 988,
@@ -42337,7 +42337,7 @@ window.allHeroes =
             "AoE Attackers (Hit-5)",
             "Debuffers (ATK)"
         ],
-        "source": "S1-Classic",
+        "source": "S1 - Classic",
         "Release date": "2017-03-01",
         "star": 5,
         "power": 753,
@@ -42422,7 +42422,7 @@ window.allHeroes =
             "AoE Attackers (Hit-5)",
             "Debuffers (ATK)"
         ],
-        "source": "S1-Classic",
+        "source": "S1 - Classic",
         "Release date": "2020-01-20",
         "star": 5,
         "power": 849,
@@ -42511,7 +42511,7 @@ window.allHeroes =
             "Debuffers (DEF)",
             "DoT Attackers"
         ],
-        "source": "S1-Classic",
+        "source": "S1 - Classic",
         "Release date": "2022-10-31",
         "star": 5,
         "power": 966,
@@ -42599,7 +42599,7 @@ window.allHeroes =
             "Debuffers (ATK)",
             "Extra Damage Dealers"
         ],
-        "source": "S1-Classic",
+        "source": "S1 - Classic",
         "Release date": "2024-07-16",
         "star": 5,
         "power": 1131,
@@ -42690,7 +42690,7 @@ window.allHeroes =
             "Buffers (DEF)",
             "Health Boosters"
         ],
-        "source": "Alliance-Knights Clash",
+        "source": "Alliance - Knights Clash",
         "Release date": "2024-06-05",
         "star": 5,
         "power": 1079,
@@ -42781,7 +42781,7 @@ window.allHeroes =
             "Healers (Special)",
             "Healing Reducers"
         ],
-        "source": "Monthly Event-Kalevala",
+        "source": "Monthly Event - Kalevala",
         "Release date": "2022-06-20",
         "star": 5,
         "power": 836,
@@ -42875,7 +42875,7 @@ window.allHeroes =
             "Health Boosters",
             "Minions Counters"
         ],
-        "source": "Tower-Ninjas",
+        "source": "Tower - Ninjas",
         "Release date": "2024-12-05",
         "star": 5,
         "power": 1130,
@@ -42976,7 +42976,7 @@ window.allHeroes =
             "Mana Reducers or Blockers",
             "AoE Attackers (Hit-5)"
         ],
-        "source": "Tower-Ninjas",
+        "source": "Tower - Ninjas",
         "Release date": "2020-10-13",
         "star": 5,
         "power": 798,
@@ -43071,7 +43071,7 @@ window.allHeroes =
             "AoE Attackers (Hit-5)",
             "Buffers (DEF)"
         ],
-        "source": "S1-Classic",
+        "source": "S1 - Classic",
         "Release date": "2017-03-01",
         "star": 5,
         "power": 757,
@@ -43157,7 +43157,7 @@ window.allHeroes =
             "Dodgers",
             "Minions Summoners"
         ],
-        "source": "S1-Classic",
+        "source": "S1 - Classic",
         "Release date": "2020-05-18",
         "star": 5,
         "power": 851,
@@ -43244,7 +43244,7 @@ window.allHeroes =
             "Minions Summoners",
             "AoE Attackers (Hit-5)"
         ],
-        "source": "S1-Classic",
+        "source": "S1 - Classic",
         "Release date": "2023-04-17",
         "star": 5,
         "power": 966,
@@ -43331,7 +43331,7 @@ window.allHeroes =
             "Buffers (DEF)",
             "Extra Damage Dealers"
         ],
-        "source": "S1-Classic",
+        "source": "S1 - Classic",
         "Release date": "2024-10-06",
         "star": 5,
         "power": 1133,
@@ -43699,7 +43699,7 @@ window.allHeroes =
             "Cleansers",
             "DoT Attackers"
         ],
-        "source": "Challenge Festival-Pirates",
+        "source": "Challenge Festival I",
         "Release date": "2017-09-07",
         "star": 5,
         "power": 765,
@@ -43786,7 +43786,7 @@ window.allHeroes =
             "Cleansers",
             "DoT Attackers"
         ],
-        "source": "Challenge Festival-Pirates",
+        "source": "Challenge Festival I",
         "Release date": "2023-12-28",
         "star": 5,
         "power": 956,
@@ -43876,7 +43876,7 @@ window.allHeroes =
             "Mana Reducers or Blockers",
             "Minions Summoners"
         ],
-        "source": "Challenge Festival-Avalon",
+        "source": "Challenge Festival I",
         "Release date": "2019-09-12",
         "star": 5,
         "power": 780,
@@ -43963,7 +43963,7 @@ window.allHeroes =
             "Mana Reducers or Blockers",
             "Minions Summoners"
         ],
-        "source": "Challenge Festival-Avalon",
+        "source": "Challenge Festival I",
         "Release date": "2021-12-15",
         "star": 5,
         "power": 977,
@@ -44326,7 +44326,7 @@ window.allHeroes =
         "skill_types": [
             "Snipers"
         ],
-        "source": "S1-Classic",
+        "source": "S1 - Classic",
         "Release date": "2017-03-01",
         "star": 5,
         "power": 755,
@@ -44410,7 +44410,7 @@ window.allHeroes =
             "Mana Reducers or Blockers",
             "Snipers"
         ],
-        "source": "S1-Classic",
+        "source": "S1 - Classic",
         "Release date": "2020-01-20",
         "star": 5,
         "power": 849,
@@ -44495,7 +44495,7 @@ window.allHeroes =
             "Silencers",
             "Snipers"
         ],
-        "source": "S1-Classic",
+        "source": "S1 - Classic",
         "Release date": "2023-04-17",
         "star": 5,
         "power": 964,
@@ -44579,7 +44579,7 @@ window.allHeroes =
             "Extra Damage Dealers",
             "Snipers"
         ],
-        "source": "S1-Classic",
+        "source": "S1 - Classic",
         "Release date": "2024-02-12",
         "star": 5,
         "power": 1130,
@@ -44666,7 +44666,7 @@ window.allHeroes =
             "Bypassers",
             "Snipers"
         ],
-        "source": "S1-Classic",
+        "source": "S1 - Classic",
         "Release date": "2025-05-10",
         "star": 5,
         "power": 1237,
@@ -44759,7 +44759,7 @@ window.allHeroes =
             "Dodgers",
             "Minions Counters"
         ],
-        "source": "Alliance-Moths",
+        "source": "Alliance - Moths",
         "Release date": "2025-06-02",
         "star": 5,
         "power": 1206,
@@ -45035,7 +45035,7 @@ window.allHeroes =
             "Cleansers",
             "Health Boosters"
         ],
-        "source": "S4-Wilderness",
+        "source": "S4 - Wilderness",
         "Release date": "2021-11-04",
         "star": 5,
         "power": 810,
@@ -45131,7 +45131,7 @@ window.allHeroes =
             "Cleansers",
             "Health Boosters"
         ],
-        "source": "S4-Wilderness",
+        "source": "S4 - Wilderness",
         "Release date": "2024-08-29",
         "star": 5,
         "power": 1026,
@@ -45223,7 +45223,7 @@ window.allHeroes =
             "Debuffers (ATK)",
             "Debuffers (DEF)"
         ],
-        "source": "S5-Dune",
+        "source": "S5 - Dune",
         "Release date": "2022-09-29",
         "star": 5,
         "power": 865,
@@ -45314,7 +45314,7 @@ window.allHeroes =
             "Debuffers (ATK)",
             "Debuffers (DEF)"
         ],
-        "source": "S5-Dune",
+        "source": "S5 - Dune",
         "Release date": "2024-02-05",
         "star": 5,
         "power": 1209,
@@ -45588,7 +45588,7 @@ window.allHeroes =
             "Healers",
             "Minions Summoners"
         ],
-        "source": "Challenge Festival-Pets",
+        "source": "Challenge Festival II",
         "Release date": "2022-11-03",
         "star": 5,
         "power": 875,
@@ -45679,7 +45679,7 @@ window.allHeroes =
             "Extra Damage Dealers",
             "DoT Attackers"
         ],
-        "source": "Monthly Event-Beach Party",
+        "source": "Monthly Event - Beach Party",
         "Release date": "2024-06-03",
         "star": 5,
         "power": 1018,
@@ -45771,7 +45771,7 @@ window.allHeroes =
             "Immunity Providers",
             "AoE Attackers (Hit-3)"
         ],
-        "source": "Challenge-Gargoyle",
+        "source": "Challenge - Gargoyle",
         "Release date": "2024-05-16",
         "star": 5,
         "power": 1049,
@@ -46041,7 +46041,7 @@ window.allHeroes =
             "Buffers (DEF)",
             "DoT Attackers"
         ],
-        "source": "Challenge Festival-Avalon",
+        "source": "Challenge Festival I",
         "Release date": "2018-01-05",
         "star": 5,
         "power": 765,
@@ -46128,7 +46128,7 @@ window.allHeroes =
             "Minions Summoners",
             "Revivers"
         ],
-        "source": "Monthly Event-Winter",
+        "source": "Monthly Event - Winter",
         "Release date": "2018-12-02",
         "star": 5,
         "power": 770,
@@ -46216,7 +46216,7 @@ window.allHeroes =
             "Minions Summoners",
             "Revivers"
         ],
-        "source": "Monthly Event-Winter",
+        "source": "Monthly Event - Winter",
         "Release date": "2021-12-01",
         "star": 5,
         "power": 996,
@@ -46397,7 +46397,7 @@ window.allHeroes =
             "Health Boosters",
             "Mana Generation Buffers"
         ],
-        "source": "Tower-Ninjas",
+        "source": "Tower - Ninjas",
         "Release date": "2023-04-05",
         "star": 5,
         "power": 873,
@@ -46682,7 +46682,7 @@ window.allHeroes =
             "DoT Attackers",
             "Debuffers (DEF)"
         ],
-        "source": "S7-Treasures of Flame and Frost",
+        "source": "S7 - Treasures of Flame and Frost",
         "Release date": "2024-12-03",
         "star": 5,
         "power": 1165,
@@ -46778,7 +46778,7 @@ window.allHeroes =
             "Dodgers",
             "Negative Effects On Self Or Allies"
         ],
-        "source": "Mystery-Shadow",
+        "source": "Mystery - Shadow",
         "Release date": "2025-02-06",
         "star": 5,
         "power": 1170,
@@ -46962,7 +46962,7 @@ window.allHeroes =
             "DoT Attackers",
             "Snipers"
         ],
-        "source": "Tower-Ninjas",
+        "source": "Tower - Ninjas",
         "Release date": "2022-02-02",
         "star": 5,
         "power": 818,
@@ -47060,7 +47060,7 @@ window.allHeroes =
             "Dispellers",
             "Snipers"
         ],
-        "source": "S4-Wilderness",
+        "source": "S4 - Wilderness",
         "Release date": "2021-03-25",
         "star": 5,
         "power": 807,
@@ -47152,7 +47152,7 @@ window.allHeroes =
             "Extra Damage Dealers",
             "Buffers (ATK)"
         ],
-        "source": "S4-Wilderness",
+        "source": "S4 - Wilderness",
         "Release date": "2023-05-25",
         "star": 5,
         "power": 1020,
@@ -47339,7 +47339,7 @@ window.allHeroes =
             "Dancers",
             "Revivers"
         ],
-        "source": "Challenge-Secrets of the Opera",
+        "source": "Challenge - Secrets of the Opera",
         "Release date": "2024-01-25",
         "star": 5,
         "power": 996,
@@ -47435,7 +47435,7 @@ window.allHeroes =
             "Buffers (ATK)",
             "Minions Counters"
         ],
-        "source": "Monthly Event-Lunar Year",
+        "source": "Monthly Event - Lunar Year",
         "Release date": "2024-02-08",
         "star": 5,
         "power": 983,
@@ -47527,7 +47527,7 @@ window.allHeroes =
             "Mana Generation Buffers",
             "Taunters"
         ],
-        "source": "Alliance-Musketeers",
+        "source": "Alliance - Musketeers",
         "Release date": "2022-12-14",
         "star": 5,
         "power": 877,
@@ -47618,7 +47618,7 @@ window.allHeroes =
             "Buffers (ATK)",
             "Heal over Time (HoT)"
         ],
-        "source": "Alliance-Knights Clash",
+        "source": "Alliance - Knights Clash",
         "Release date": "2021-10-13",
         "star": 5,
         "power": 816,
@@ -47706,7 +47706,7 @@ window.allHeroes =
             "Buffers (ATK)",
             "Heal over Time (HoT)"
         ],
-        "source": "Alliance-Knights Clash",
+        "source": "Alliance - Knights Clash",
         "Release date": "2024-12-17",
         "star": 5,
         "power": 1148,
@@ -47798,7 +47798,7 @@ window.allHeroes =
             "Buffers (ATK)",
             "Healers"
         ],
-        "source": "S3-Valhalla",
+        "source": "S3 - Valhalla",
         "Release date": "2020-02-27",
         "star": 5,
         "power": 785,
@@ -47885,7 +47885,7 @@ window.allHeroes =
             "Buffers (ATK)",
             "Heal over Time (HoT)"
         ],
-        "source": "S3-Valhalla",
+        "source": "S3 - Valhalla",
         "Release date": "2023-09-25",
         "star": 5,
         "power": 982,
@@ -47972,7 +47972,7 @@ window.allHeroes =
             "Healers",
             "Revivers"
         ],
-        "source": "Tower-Owls",
+        "source": "Tower - Owls",
         "Release date": "2023-12-20",
         "star": 5,
         "power": 984,
@@ -48250,7 +48250,7 @@ window.allHeroes =
             "Cleanse Blockers",
             "Negative Effects On Self Or Allies"
         ],
-        "source": "Monthly Event-Springvale",
+        "source": "Monthly Event - Springvale",
         "Release date": "2025-03-31",
         "star": 5,
         "power": 1169,
@@ -48616,7 +48616,7 @@ window.allHeroes =
             "Fiends Summoners",
             "DoT Attackers"
         ],
-        "source": "Challenge Festival-Pets",
+        "source": "Challenge Festival II",
         "Release date": "2023-05-18",
         "star": 5,
         "power": 878,
@@ -48707,7 +48707,7 @@ window.allHeroes =
             "Fiends Summoners",
             "DoT Attackers"
         ],
-        "source": "S6-Mysteries of the Deep",
+        "source": "S6 - Mysteries of the Deep",
         "Release date": "2024-02-01",
         "star": 5,
         "power": 998,
@@ -48805,7 +48805,7 @@ window.allHeroes =
             "Fiends Summoners",
             "DoT Attackers"
         ],
-        "source": "S6-Mysteries of the Deep",
+        "source": "S6 - Mysteries of the Deep",
         "Release date": "2025-02-03",
         "star": 5,
         "power": 1246,
@@ -49272,7 +49272,7 @@ window.allHeroes =
             "Extra Damage Dealers",
             "Snipers"
         ],
-        "source": "Tower-Ninjas",
+        "source": "Tower - Ninjas",
         "Release date": "2023-07-26",
         "star": 5,
         "power": 1006,
@@ -49371,7 +49371,7 @@ window.allHeroes =
             "Buffers (ATK)",
             "Heal over Time (HoT)"
         ],
-        "source": "S2-Atlantis",
+        "source": "S2 - Atlantis",
         "Release date": "2019-08-01",
         "star": 5,
         "power": 773,
@@ -49456,7 +49456,7 @@ window.allHeroes =
             "Buffers (ATK)",
             "Health Boosters"
         ],
-        "source": "S2-Atlantis",
+        "source": "S2 - Atlantis",
         "Release date": "2022-12-12",
         "star": 5,
         "power": 944,
@@ -49545,7 +49545,7 @@ window.allHeroes =
             "Sleepweavers",
             "AoE Attackers (Hit-5)"
         ],
-        "source": "Alliance-Knights Clash",
+        "source": "Alliance - Knights Clash",
         "Release date": "2023-10-18",
         "star": 5,
         "power": 980,
@@ -49738,7 +49738,7 @@ window.allHeroes =
             "Stacking Heroes",
             "Mana Reducers or Blockers"
         ],
-        "source": "Tower-Magic",
+        "source": "Tower - Magic",
         "Release date": "2023-05-03",
         "star": 5,
         "power": 890,
@@ -49831,7 +49831,7 @@ window.allHeroes =
             "AoE Attackers (Hit-3)",
             "Buff Stealers"
         ],
-        "source": "Challenge Festival-Wonderland",
+        "source": "Challenge Festival I",
         "Release date": "2019-02-14",
         "star": 5,
         "power": 768,
@@ -49918,7 +49918,7 @@ window.allHeroes =
             "Buff Stealers",
             "Minions Summoners"
         ],
-        "source": "Challenge Festival-Wonderland",
+        "source": "Challenge Festival I",
         "Release date": "2024-04-18",
         "star": 5,
         "power": 963,
@@ -50105,7 +50105,7 @@ window.allHeroes =
             "Healers",
             "Mana Raisers"
         ],
-        "source": "Challenge Festival-Villains",
+        "source": "Challenge Festival II",
         "Release date": "2021-02-11",
         "star": 5,
         "power": 800,
@@ -50194,7 +50194,7 @@ window.allHeroes =
             "Health Boosters",
             "Mana Raisers"
         ],
-        "source": "Challenge Festival-Villains",
+        "source": "Challenge Festival II",
         "Release date": "2025-06-15",
         "star": 5,
         "power": 1196,
@@ -50282,7 +50282,7 @@ window.allHeroes =
             "AoE Attackers (Hit-3)",
             "Debuffers (ATK)"
         ],
-        "source": "Monthly Event-Kalevala",
+        "source": "Monthly Event - Kalevala",
         "Release date": "2022-06-20",
         "star": 5,
         "power": 837,
@@ -50369,7 +50369,7 @@ window.allHeroes =
             "AoE Attackers (Hit-3)",
             "Debuffers (ATK)"
         ],
-        "source": "Monthly Event-Kalevala",
+        "source": "Monthly Event - Kalevala",
         "Release date": "2024-07-22",
         "star": 5,
         "power": 1083,
@@ -50458,7 +50458,7 @@ window.allHeroes =
             "DoT Attackers",
             "Debuffers (ATK)"
         ],
-        "source": "Tower-Owls",
+        "source": "Tower - Owls",
         "Release date": "2024-03-13",
         "star": 5,
         "power": 1047,
@@ -50643,7 +50643,7 @@ window.allHeroes =
             "Debuffers (ATK)",
             "Snipers"
         ],
-        "source": "Challenge Festival-Bards",
+        "source": "Challenge Festival II",
         "Release date": "2022-08-11",
         "star": 5,
         "power": 869,
@@ -50829,7 +50829,7 @@ window.allHeroes =
             "Buffers (ATK)",
             "Mana Corruption"
         ],
-        "source": "Alliance-Knights Clash",
+        "source": "Alliance - Knights Clash",
         "Release date": "2023-10-18",
         "star": 5,
         "power": 980,
@@ -50920,7 +50920,7 @@ window.allHeroes =
             "Reflectors",
             "Minions Counters"
         ],
-        "source": "Monthly Event-Lunar Year",
+        "source": "Monthly Event - Lunar Year",
         "Release date": "2025-01-27",
         "star": 5,
         "power": 1154,
@@ -51012,7 +51012,7 @@ window.allHeroes =
             "DoT Attackers",
             "Healing Reducers"
         ],
-        "source": "Monthly Event-Sand Empire",
+        "source": "Monthly Event - Sand Empire",
         "Release date": "2018-06-21",
         "star": 5,
         "power": 770,
@@ -51103,7 +51103,7 @@ window.allHeroes =
             "DoT Attackers",
             "Mana Generation Buffers"
         ],
-        "source": "Monthly Event-Sand Empire",
+        "source": "Monthly Event - Sand Empire",
         "Release date": "2021-06-21",
         "star": 5,
         "power": 941,
@@ -51193,7 +51193,7 @@ window.allHeroes =
             "Snipers",
             "Negative Effects On Self Or Allies"
         ],
-        "source": "Mystery-Shadow",
+        "source": "Mystery - Shadow",
         "Release date": "2024-06-30",
         "star": 5,
         "power": 1109,
@@ -51654,7 +51654,7 @@ window.allHeroes =
         "skill_types": [
             "Snipers"
         ],
-        "source": "S1-Classic",
+        "source": "S1 - Classic",
         "Release date": "2017-03-01",
         "star": 1,
         "power": 210,
@@ -51684,7 +51684,7 @@ window.allHeroes =
         "skill_types": [
             "Snipers"
         ],
-        "source": "S1-Classic",
+        "source": "S1 - Classic",
         "Release date": "2017-03-01",
         "star": 1,
         "power": 212,
@@ -51714,7 +51714,7 @@ window.allHeroes =
         "skill_types": [
             "Snipers"
         ],
-        "source": "S1-Classic",
+        "source": "S1 - Classic",
         "Release date": "2017-03-01",
         "star": 2,
         "power": 335,
@@ -51744,7 +51744,7 @@ window.allHeroes =
         "skill_types": [
             "DoT Attackers"
         ],
-        "source": "S1-Classic",
+        "source": "S1 - Classic",
         "Release date": "2017-03-01",
         "star": 2,
         "power": 338,
@@ -51774,7 +51774,7 @@ window.allHeroes =
         "skill_types": [
             "Buffers (ATK)"
         ],
-        "source": "S1-Classic",
+        "source": "S1 - Classic",
         "Release date": "2017-03-01",
         "star": 2,
         "power": 333,
@@ -51806,7 +51806,7 @@ window.allHeroes =
             "Healers",
             "Healing Reducers"
         ],
-        "source": "Alliance-Knights Clash",
+        "source": "Alliance - Knights Clash",
         "Release date": "2021-10-13",
         "star": 3,
         "power": 480,
@@ -51889,7 +51889,7 @@ window.allHeroes =
         "skill_types": [
             "Buffers (ATK)"
         ],
-        "source": "S3-Valhalla",
+        "source": "S3 - Valhalla",
         "Release date": "2020-05-28",
         "star": 3,
         "power": 465,
@@ -51975,7 +51975,7 @@ window.allHeroes =
             "Dodgers",
             "Stacking Heroes"
         ],
-        "source": "S5-Dune",
+        "source": "S5 - Dune",
         "Release date": "2022-04-21",
         "star": 3,
         "power": 483,
@@ -52064,7 +52064,7 @@ window.allHeroes =
             "Stacking Heroes",
             "Buffers (DEF)"
         ],
-        "source": "S5-Dune",
+        "source": "S5 - Dune",
         "Release date": "2024-08-10",
         "star": 3,
         "power": 494,
@@ -52151,7 +52151,7 @@ window.allHeroes =
         "skill_types": [
             "Snipers"
         ],
-        "source": "S1-Classic",
+        "source": "S1 - Classic",
         "Release date": "2017-03-01",
         "star": 3,
         "power": 442,
@@ -52235,7 +52235,7 @@ window.allHeroes =
             "DoT Attackers",
             "Snipers"
         ],
-        "source": "S1-Classic",
+        "source": "S1 - Classic",
         "Release date": "2020-05-18",
         "star": 3,
         "power": 472,
@@ -52319,7 +52319,7 @@ window.allHeroes =
             "Extra Damage Dealers",
             "Snipers"
         ],
-        "source": "S1-Classic",
+        "source": "S1 - Classic",
         "Release date": "2024-01-22",
         "star": 3,
         "power": 505,
@@ -52406,7 +52406,7 @@ window.allHeroes =
             "Bypassers",
             "Snipers"
         ],
-        "source": "S1-Classic",
+        "source": "S1 - Classic",
         "Release date": "2025-03-11",
         "star": 3,
         "power": 513,
@@ -52494,7 +52494,7 @@ window.allHeroes =
             "Damage Reducers",
             "Immunity Providers"
         ],
-        "source": "Challenge-Gargoyle",
+        "source": "Challenge - Gargoyle",
         "Release date": "2024-05-16",
         "star": 3,
         "power": 493,
@@ -52582,7 +52582,7 @@ window.allHeroes =
             "Extra Damage Dealers",
             "Snipers"
         ],
-        "source": "S3-Valhalla",
+        "source": "S3 - Valhalla",
         "Release date": "2020-02-27",
         "star": 3,
         "power": 463,
@@ -52669,7 +52669,7 @@ window.allHeroes =
             "Mana Reducers or Blockers",
             "Snipers"
         ],
-        "source": "S3-Valhalla",
+        "source": "S3 - Valhalla",
         "Release date": "2022-07-04",
         "star": 3,
         "power": 478,
@@ -52756,7 +52756,7 @@ window.allHeroes =
             "Mana Reducers or Blockers",
             "Damage Reducers"
         ],
-        "source": "Challenge-Gargoyle",
+        "source": "Challenge - Gargoyle",
         "Release date": "2022-05-12",
         "star": 3,
         "power": 482,
@@ -52842,7 +52842,7 @@ window.allHeroes =
             "AoE Attackers (Hit-3)",
             "Mana Reducers or Blockers"
         ],
-        "source": "S2-Atlantis",
+        "source": "S2 - Atlantis",
         "Release date": "2019-08-01",
         "star": 3,
         "power": 448,
@@ -52926,7 +52926,7 @@ window.allHeroes =
             "Buff Blockers",
             "Snipers"
         ],
-        "source": "Challenge Festival-Villains",
+        "source": "Challenge Festival II",
         "Release date": "2021-02-11",
         "star": 3,
         "power": 476,
@@ -53013,7 +53013,7 @@ window.allHeroes =
             "Debuffers (ATK)",
             "Debuffers (DEF)"
         ],
-        "source": "S2-Atlantis",
+        "source": "S2 - Atlantis",
         "Release date": "2019-08-01",
         "star": 3,
         "power": 449,
@@ -53101,7 +53101,7 @@ window.allHeroes =
             "Buffers (DEF)",
             "Dispellers"
         ],
-        "source": "S2-Atlantis",
+        "source": "S2 - Atlantis",
         "Release date": "2023-04-03",
         "star": 3,
         "power": 463,
@@ -53277,7 +53277,7 @@ window.allHeroes =
             "AoE Attackers (Hit-3)",
             "Extra Damage Dealers"
         ],
-        "source": "Challenge Festival-Guardians",
+        "source": "Challenge Festival I",
         "Release date": "2020-01-08",
         "star": 3,
         "power": 455,
@@ -53362,7 +53362,7 @@ window.allHeroes =
             "Snipers",
             "AoE Attackers (Hit-3)"
         ],
-        "source": "Monthly Event-Morlovia",
+        "source": "Monthly Event - Morlovia",
         "Release date": "2020-10-26",
         "star": 3,
         "power": 468,
@@ -53454,7 +53454,7 @@ window.allHeroes =
             "Mana Generation Buffers",
             "Heal over Time (HoT)"
         ],
-        "source": "Challenge Festival-Slayers",
+        "source": "Challenge Festival II",
         "Release date": "2021-08-05",
         "star": 3,
         "power": 478,
@@ -53543,7 +53543,7 @@ window.allHeroes =
             "Debuffers (ATK)",
             "DoT Attackers"
         ],
-        "source": "Tower-Ninjas",
+        "source": "Tower - Ninjas",
         "Release date": "2023-07-26",
         "star": 3,
         "power": 486,
@@ -53641,7 +53641,7 @@ window.allHeroes =
             "Stacking Heroes",
             "Chain & Random Attackers"
         ],
-        "source": "S4-Wilderness",
+        "source": "S4 - Wilderness",
         "Release date": "2021-03-25",
         "star": 3,
         "power": 478,
@@ -53737,7 +53737,7 @@ window.allHeroes =
             "Cleansers",
             "Chain & Random Attackers"
         ],
-        "source": "S4-Wilderness",
+        "source": "S4 - Wilderness",
         "Release date": "2024-05-23",
         "star": 3,
         "power": 488,
@@ -53828,7 +53828,7 @@ window.allHeroes =
             "AoE Attackers (Hit-5)",
             "DoT Attackers"
         ],
-        "source": "S1-Classic",
+        "source": "S1 - Classic",
         "Release date": "2017-03-01",
         "star": 3,
         "power": 445,
@@ -53911,7 +53911,7 @@ window.allHeroes =
         "skill_types": [
             "DoT Attackers"
         ],
-        "source": "S1-Classic",
+        "source": "S1 - Classic",
         "Release date": "2021-01-18",
         "star": 3,
         "power": 474,
@@ -53996,7 +53996,7 @@ window.allHeroes =
             "DoT Attackers",
             "Extra Damage Dealers"
         ],
-        "source": "S1-Classic",
+        "source": "S1 - Classic",
         "Release date": "2024-08-11",
         "star": 3,
         "power": 508,
@@ -54084,7 +54084,7 @@ window.allHeroes =
             "Debuffers (ATK)",
             "Healers"
         ],
-        "source": "Monthly Event-Kalevala",
+        "source": "Monthly Event - Kalevala",
         "Release date": "2022-06-20",
         "star": 3,
         "power": 482,
@@ -54171,7 +54171,7 @@ window.allHeroes =
             "Healers (Special)",
             "Snipers"
         ],
-        "source": "S1-Classic",
+        "source": "S1 - Classic",
         "Release date": "2017-03-01",
         "star": 3,
         "power": 446,
@@ -54256,7 +54256,7 @@ window.allHeroes =
             "AoE Attackers (Hit-3)",
             "Healers (Special)"
         ],
-        "source": "S1-Classic",
+        "source": "S1 - Classic",
         "Release date": "2020-05-18",
         "star": 3,
         "power": 476,
@@ -54342,7 +54342,7 @@ window.allHeroes =
             "Healers (Special)",
             "Snipers"
         ],
-        "source": "S1-Classic",
+        "source": "S1 - Classic",
         "Release date": "2024-02-12",
         "star": 3,
         "power": 510,
@@ -54432,7 +54432,7 @@ window.allHeroes =
             "Healers (Special)",
             "Snipers"
         ],
-        "source": "S1-Classic",
+        "source": "S1 - Classic",
         "Release date": "2025-04-08",
         "star": 3,
         "power": 519,
@@ -54520,7 +54520,7 @@ window.allHeroes =
             "Healers (Special)",
             "Snipers"
         ],
-        "source": "S1-Classic",
+        "source": "S1 - Classic",
         "Release date": "2017-03-01",
         "star": 3,
         "power": 445,
@@ -54606,7 +54606,7 @@ window.allHeroes =
             "Mana Reducers or Blockers",
             "Snipers"
         ],
-        "source": "S1-Classic",
+        "source": "S1 - Classic",
         "Release date": "2020-05-18",
         "star": 3,
         "power": 474,
@@ -54692,7 +54692,7 @@ window.allHeroes =
             "Healers (Special)",
             "Extra Damage Dealers"
         ],
-        "source": "S1-Classic",
+        "source": "S1 - Classic",
         "Release date": "2024-09-08",
         "star": 3,
         "power": 507,
@@ -54784,7 +54784,7 @@ window.allHeroes =
             "Debuffers (DEF)",
             "Mana Reducers or Blockers"
         ],
-        "source": "Challenge Festival-Avalon",
+        "source": "Challenge Festival I",
         "Release date": "2021-12-15",
         "star": 3,
         "power": 481,
@@ -54871,7 +54871,7 @@ window.allHeroes =
             "Dispellers",
             "Snipers"
         ],
-        "source": "S1-Classic",
+        "source": "S1 - Classic",
         "Release date": "2017-03-01",
         "star": 3,
         "power": 441,
@@ -54956,7 +54956,7 @@ window.allHeroes =
             "Cleansers",
             "Snipers"
         ],
-        "source": "S1-Classic",
+        "source": "S1 - Classic",
         "Release date": "2020-01-20",
         "star": 3,
         "power": 470,
@@ -55042,7 +55042,7 @@ window.allHeroes =
             "Snipers",
             "Extra Damage Dealers"
         ],
-        "source": "S1-Classic",
+        "source": "S1 - Classic",
         "Release date": "2024-10-06",
         "star": 3,
         "power": 505,
@@ -55131,7 +55131,7 @@ window.allHeroes =
             "Extra Damage Dealers",
             "Debuffers (DEF)"
         ],
-        "source": "Challenge-Beowulf",
+        "source": "Challenge - Beowulf",
         "Release date": "2025-02-13",
         "star": 3,
         "power": 505,
@@ -55223,7 +55223,7 @@ window.allHeroes =
             "Healers (Special)",
             "Healing Reducers"
         ],
-        "source": "Monthly Event-Morlovia",
+        "source": "Monthly Event - Morlovia",
         "Release date": "2018-10-25",
         "star": 3,
         "power": 449,
@@ -55309,7 +55309,7 @@ window.allHeroes =
             "AoE Attackers (Hit-3)",
             "Mana Raisers"
         ],
-        "source": "S5-Dune",
+        "source": "S5 - Dune",
         "Release date": "2022-04-21",
         "star": 4,
         "power": 683,
@@ -55397,7 +55397,7 @@ window.allHeroes =
             "AoE Attackers (Hit-3)",
             "Mana Raisers"
         ],
-        "source": "S5-Dune",
+        "source": "S5 - Dune",
         "Release date": "2024-07-13",
         "star": 4,
         "power": 699,
@@ -55489,7 +55489,7 @@ window.allHeroes =
             "Cleansers",
             "Ghost Form & Hiding"
         ],
-        "source": "S2-Atlantis",
+        "source": "S2 - Atlantis",
         "Release date": "2019-08-01",
         "star": 4,
         "power": 649,
@@ -55580,7 +55580,7 @@ window.allHeroes =
             "Stacking Heroes",
             "Cleansers"
         ],
-        "source": "S2-Atlantis",
+        "source": "S2 - Atlantis",
         "Release date": "2022-05-02",
         "star": 4,
         "power": 671,
@@ -55670,7 +55670,7 @@ window.allHeroes =
             "Dispellers",
             "Snipers"
         ],
-        "source": "Tower-Ninjas",
+        "source": "Tower - Ninjas",
         "Release date": "2020-10-13",
         "star": 4,
         "power": 670,
@@ -55766,7 +55766,7 @@ window.allHeroes =
             "Healers (Special)",
             "Negative Effects On Self Or Allies"
         ],
-        "source": "Monthly Event-Morlovia",
+        "source": "Monthly Event - Morlovia",
         "Release date": "2022-10-03",
         "star": 4,
         "power": 683,
@@ -55854,7 +55854,7 @@ window.allHeroes =
             "Buffers (ATK)",
             "Debuffers (DEF)"
         ],
-        "source": "Tower-Styx",
+        "source": "Tower - Styx",
         "Release date": "2022-09-21",
         "star": 4,
         "power": 685,
@@ -55950,7 +55950,7 @@ window.allHeroes =
             "AoE Attackers (Hit-5)",
             "Buffers (DEF)"
         ],
-        "source": "Challenge Festival-Pirates",
+        "source": "Challenge Festival I",
         "Release date": "2017-09-07",
         "star": 4,
         "power": 645,
@@ -56036,7 +56036,7 @@ window.allHeroes =
             "DoT Attackers",
             "Random Position"
         ],
-        "source": "Challenge Festival-Wonderland",
+        "source": "Challenge Festival I",
         "Release date": "2019-02-14",
         "star": 4,
         "power": 649,
@@ -56123,7 +56123,7 @@ window.allHeroes =
             "DoT Attackers",
             "Random Position"
         ],
-        "source": "Challenge Festival-Wonderland",
+        "source": "Challenge Festival I",
         "Release date": "2023-10-05",
         "star": 4,
         "power": 684,
@@ -56210,7 +56210,7 @@ window.allHeroes =
             "Minions Counters",
             "Snipers"
         ],
-        "source": "Challenge Festival-Pets",
+        "source": "Challenge Festival II",
         "Release date": "2022-11-03",
         "star": 4,
         "power": 684,
@@ -56297,7 +56297,7 @@ window.allHeroes =
         "skill_types": [
             "Counterattackers"
         ],
-        "source": "S1-Classic",
+        "source": "S1 - Classic",
         "Release date": "2017-03-01",
         "star": 4,
         "power": 642,
@@ -56379,7 +56379,7 @@ window.allHeroes =
         "skill_types": [
             "Counterattackers"
         ],
-        "source": "S1-Classic",
+        "source": "S1 - Classic",
         "Release date": "2021-01-18",
         "star": 4,
         "power": 688,
@@ -56465,7 +56465,7 @@ window.allHeroes =
             "Damage Reducers",
             "Mana Raisers"
         ],
-        "source": "S1-Classic",
+        "source": "S1 - Classic",
         "Release date": "2023-04-17",
         "star": 4,
         "power": 735,
@@ -56549,7 +56549,7 @@ window.allHeroes =
         "skill_types": [
             "Counterattackers"
         ],
-        "source": "S1-Classic",
+        "source": "S1 - Classic",
         "Release date": "2024-04-08",
         "star": 4,
         "power": 747,
@@ -56634,7 +56634,7 @@ window.allHeroes =
         "skill_types": [
             "Counterattackers"
         ],
-        "source": "S1-Classic",
+        "source": "S1 - Classic",
         "Release date": "2025-04-23",
         "star": 4,
         "power": 759,
@@ -56724,7 +56724,7 @@ window.allHeroes =
             "Minions Summoners",
             "Reflectors"
         ],
-        "source": "Monthly Event-Winter",
+        "source": "Monthly Event - Winter",
         "Release date": "2023-12-01",
         "star": 4,
         "power": 687,
@@ -56812,7 +56812,7 @@ window.allHeroes =
             "Healing Reducers",
             "Max Health Reducers"
         ],
-        "source": "S3-Valhalla",
+        "source": "S3 - Valhalla",
         "Release date": "2020-05-28",
         "star": 4,
         "power": 660,
@@ -56898,7 +56898,7 @@ window.allHeroes =
             "Healing Reducers",
             "Mana Reducers or Blockers"
         ],
-        "source": "S3-Valhalla",
+        "source": "S3 - Valhalla",
         "Release date": "2023-01-16",
         "star": 4,
         "power": 681,
@@ -56988,7 +56988,7 @@ window.allHeroes =
             "Healing Reducers",
             "Snipers"
         ],
-        "source": "Monthly Event-Sand Empire",
+        "source": "Monthly Event - Sand Empire",
         "Release date": "2018-06-21",
         "star": 4,
         "power": 649,
@@ -57164,7 +57164,7 @@ window.allHeroes =
             "Mana Reducers or Blockers",
             "Effect Duration Resetters"
         ],
-        "source": "Challenge Festival-Villains",
+        "source": "Challenge Festival II",
         "Release date": "2021-02-11",
         "star": 4,
         "power": 675,
@@ -57254,7 +57254,7 @@ window.allHeroes =
             "DoT Attackers",
             "Healing Reducers"
         ],
-        "source": "Monthly Event-Sand Empire",
+        "source": "Monthly Event - Sand Empire",
         "Release date": "2018-06-21",
         "star": 4,
         "power": 649,
@@ -57343,7 +57343,7 @@ window.allHeroes =
             "Extra Damage Dealers",
             "Healers (Special)"
         ],
-        "source": "Tower-Owls",
+        "source": "Tower - Owls",
         "Release date": "2024-02-14",
         "star": 4,
         "power": 695,
@@ -57434,7 +57434,7 @@ window.allHeroes =
             "Reflectors",
             "Heal over Time (HoT)"
         ],
-        "source": "Alliance-Musketeers",
+        "source": "Alliance - Musketeers",
         "Release date": "2023-03-08",
         "star": 4,
         "power": 686,
@@ -57522,7 +57522,7 @@ window.allHeroes =
             "Debuffers (DEF)",
             "Snipers"
         ],
-        "source": "Alliance-Knights Clash",
+        "source": "Alliance - Knights Clash",
         "Release date": "2023-10-18",
         "star": 4,
         "power": 688,
@@ -57795,7 +57795,7 @@ window.allHeroes =
             "Snipers",
             "Extra Damage Dealers"
         ],
-        "source": "Challenge Festival-Avalon",
+        "source": "Challenge Festival I",
         "Release date": "2018-01-05",
         "star": 4,
         "power": 645,
@@ -57882,7 +57882,7 @@ window.allHeroes =
             "Mindless Attack & Mindless Heal",
             "Extra Damage Dealers"
         ],
-        "source": "Challenge Festival-Avalon",
+        "source": "Challenge Festival I",
         "Release date": "2023-04-20",
         "star": 4,
         "power": 679,
@@ -57968,7 +57968,7 @@ window.allHeroes =
             "DoT Attackers",
             "Mana Reducers or Blockers"
         ],
-        "source": "S2-Atlantis",
+        "source": "S2 - Atlantis",
         "Release date": "2019-08-01",
         "star": 4,
         "power": 650,
@@ -58053,7 +58053,7 @@ window.allHeroes =
             "DoT Attackers",
             "Mana Reducers or Blockers"
         ],
-        "source": "S2-Atlantis",
+        "source": "S2 - Atlantis",
         "Release date": "2023-04-03",
         "star": 4,
         "power": 671,
@@ -58138,7 +58138,7 @@ window.allHeroes =
             "Cleansers",
             "Healers"
         ],
-        "source": "S1-Classic",
+        "source": "S1 - Classic",
         "Release date": "2017-03-01",
         "star": 4,
         "power": 644,
@@ -58225,7 +58225,7 @@ window.allHeroes =
             "Cleansers",
             "Heal over Time (HoT)"
         ],
-        "source": "S1-Classic",
+        "source": "S1 - Classic",
         "Release date": "2020-01-20",
         "star": 4,
         "power": 690,
@@ -58313,7 +58313,7 @@ window.allHeroes =
             "Cleansers",
             "Health Boosters"
         ],
-        "source": "S1-Classic",
+        "source": "S1 - Classic",
         "Release date": "2023-04-17",
         "star": 4,
         "power": 736,
@@ -58401,7 +58401,7 @@ window.allHeroes =
             "Healers",
             "Buffers (DEF)"
         ],
-        "source": "S1-Classic",
+        "source": "S1 - Classic",
         "Release date": "2024-06-28",
         "star": 4,
         "power": 749,
@@ -58489,7 +58489,7 @@ window.allHeroes =
             "Dispellers",
             "Healers"
         ],
-        "source": "S1-Classic",
+        "source": "S1 - Classic",
         "Release date": "2017-03-01",
         "star": 4,
         "power": 639,
@@ -58576,7 +58576,7 @@ window.allHeroes =
             "Dispellers",
             "Heal over Time (HoT)"
         ],
-        "source": "S1-Classic",
+        "source": "S1 - Classic",
         "Release date": "2021-01-18",
         "star": 4,
         "power": 684,
@@ -58664,7 +58664,7 @@ window.allHeroes =
             "Heal over Time (HoT)",
             "Immunity Providers"
         ],
-        "source": "S1-Classic",
+        "source": "S1 - Classic",
         "Release date": "2023-11-27",
         "star": 4,
         "power": 730,
@@ -58752,7 +58752,7 @@ window.allHeroes =
             "Dispellers",
             "Healers"
         ],
-        "source": "S1-Classic",
+        "source": "S1 - Classic",
         "Release date": "2024-10-06",
         "star": 4,
         "power": 742,
@@ -58842,7 +58842,7 @@ window.allHeroes =
             "Debuffers (DEF)",
             "AoE Attackers (Hit-5)"
         ],
-        "source": "Tower-Magic",
+        "source": "Tower - Magic",
         "Release date": "2021-09-15",
         "star": 4,
         "power": 678,
@@ -58931,7 +58931,7 @@ window.allHeroes =
         "skill_types": [
             "Buffers (ATK)"
         ],
-        "source": "S6-Mysteries of the Deep",
+        "source": "S6 - Mysteries of the Deep",
         "Release date": "2023-06-07",
         "star": 4,
         "power": 688,
@@ -59025,7 +59025,7 @@ window.allHeroes =
         "skill_types": [
             "Buffers (ATK)"
         ],
-        "source": "S6-Mysteries of the Deep",
+        "source": "S6 - Mysteries of the Deep",
         "Release date": "2025-02-03",
         "star": 4,
         "power": 704,
@@ -59124,7 +59124,7 @@ window.allHeroes =
             "AoE Attackers (Hit-5)",
             "Negative Effects On Self Or Allies"
         ],
-        "source": "Mystery-Shadow",
+        "source": "Mystery - Shadow",
         "Release date": "2025-01-09",
         "star": 4,
         "power": 712,
@@ -59213,7 +59213,7 @@ window.allHeroes =
             "Dodgers",
             "Minions Counters"
         ],
-        "source": "Alliance-Moths",
+        "source": "Alliance - Moths",
         "Release date": "2025-01-23",
         "star": 4,
         "power": 717,
@@ -59302,7 +59302,7 @@ window.allHeroes =
             "Stacking Heroes",
             "AoE Attackers (Hit-5)"
         ],
-        "source": "S3-Valhalla",
+        "source": "S3 - Valhalla",
         "Release date": "2020-02-27",
         "star": 4,
         "power": 661,
@@ -59390,7 +59390,7 @@ window.allHeroes =
             "AoE Attackers (Hit-3)",
             "Debuffers (DEF)"
         ],
-        "source": "S1-Classic",
+        "source": "S1 - Classic",
         "Release date": "2017-03-01",
         "star": 4,
         "power": 639,
@@ -59475,7 +59475,7 @@ window.allHeroes =
             "AoE Attackers (Hit-5)",
             "Debuffers (DEF)"
         ],
-        "source": "S1-Classic",
+        "source": "S1 - Classic",
         "Release date": "2020-01-20",
         "star": 4,
         "power": 684,
@@ -59560,7 +59560,7 @@ window.allHeroes =
             "AoE Attackers (Hit-3)",
             "Max Health Reducers"
         ],
-        "source": "S1-Classic",
+        "source": "S1 - Classic",
         "Release date": "2023-10-30",
         "star": 4,
         "power": 729,
@@ -59646,7 +59646,7 @@ window.allHeroes =
             "Debuffers (DEF)",
             "Extra Damage Dealers"
         ],
-        "source": "S1-Classic",
+        "source": "S1 - Classic",
         "Release date": "2024-08-11",
         "star": 4,
         "power": 742,
@@ -60109,7 +60109,7 @@ window.allHeroes =
             "DoT Attackers",
             "Heal over Time (HoT)"
         ],
-        "source": "Tower-Magic",
+        "source": "Tower - Magic",
         "Release date": "2021-09-15",
         "star": 5,
         "power": 813,
@@ -60212,7 +60212,7 @@ window.allHeroes =
             "DoT Attackers",
             "Health Boosters"
         ],
-        "source": "Tower-Magic",
+        "source": "Tower - Magic",
         "Release date": "2025-05-29",
         "star": 5,
         "power": 1208,
@@ -60402,7 +60402,7 @@ window.allHeroes =
             "Max Health Reducers",
             "Mindless Attack & Mindless Heal"
         ],
-        "source": "S3-Valhalla",
+        "source": "S3 - Valhalla",
         "Release date": "2020-04-23",
         "star": 5,
         "power": 790,
@@ -60491,7 +60491,7 @@ window.allHeroes =
             "Max Health Reducers",
             "Mindless Attack & Mindless Heal"
         ],
-        "source": "S3-Valhalla",
+        "source": "S3 - Valhalla",
         "Release date": "2023-07-03",
         "star": 5,
         "power": 991,
@@ -60579,7 +60579,7 @@ window.allHeroes =
             "AoE Attackers (Hit-5)",
             "DoT Attackers"
         ],
-        "source": "Tower-Ninjas",
+        "source": "Tower - Ninjas",
         "Release date": "2023-01-11",
         "star": 5,
         "power": 867,
@@ -60773,7 +60773,7 @@ window.allHeroes =
             "Debuffers (DEF)",
             "DoT Attackers"
         ],
-        "source": "S5-Dune",
+        "source": "S5 - Dune",
         "Release date": "2023-03-16",
         "star": 5,
         "power": 870,
@@ -60865,7 +60865,7 @@ window.allHeroes =
             "Debuffers (DEF)",
             "DoT Attackers"
         ],
-        "source": "S5-Dune",
+        "source": "S5 - Dune",
         "Release date": "2024-02-05",
         "star": 5,
         "power": 1216,
@@ -60961,7 +60961,7 @@ window.allHeroes =
             "Immunity Providers",
             "Healers (Special)"
         ],
-        "source": "Alliance-Musketeers",
+        "source": "Alliance - Musketeers",
         "Release date": "2022-12-14",
         "star": 5,
         "power": 845,
@@ -61144,7 +61144,7 @@ window.allHeroes =
             "Cleanse Blockers",
             "Negative Effects On Self Or Allies"
         ],
-        "source": "Mystery-Shadow",
+        "source": "Mystery - Shadow",
         "Release date": "2025-05-13",
         "star": 5,
         "power": 1190,
@@ -61232,7 +61232,7 @@ window.allHeroes =
             "Dodgers",
             "Stacking Heroes"
         ],
-        "source": "S5-Dune",
+        "source": "S5 - Dune",
         "Release date": "2022-08-04",
         "star": 5,
         "power": 862,
@@ -61323,7 +61323,7 @@ window.allHeroes =
             "Buffers (DEF)",
             "Stacking Heroes"
         ],
-        "source": "S5-Dune",
+        "source": "S5 - Dune",
         "Release date": "2024-08-10",
         "star": 5,
         "power": 1206,
@@ -61418,7 +61418,7 @@ window.allHeroes =
             "Stacking Heroes",
             "Healers"
         ],
-        "source": "Tower-Magic",
+        "source": "Tower - Magic",
         "Release date": "2023-06-28",
         "star": 5,
         "power": 907,
@@ -61514,7 +61514,7 @@ window.allHeroes =
             "Immunity Providers",
             "Healers (Special)"
         ],
-        "source": "Challenge Festival-Bards",
+        "source": "Challenge Festival II",
         "Release date": "2023-03-23",
         "star": 5,
         "power": 881,
@@ -61605,7 +61605,7 @@ window.allHeroes =
             "Minions Counters",
             "Minions Summoners"
         ],
-        "source": "S3-Valhalla",
+        "source": "S3 - Valhalla",
         "Release date": "2020-09-24",
         "star": 5,
         "power": 786,
@@ -61694,7 +61694,7 @@ window.allHeroes =
             "Minions Counters",
             "Minions Summoners"
         ],
-        "source": "S3-Valhalla",
+        "source": "S3 - Valhalla",
         "Release date": "2023-06-05",
         "star": 5,
         "power": 984,
@@ -61783,7 +61783,7 @@ window.allHeroes =
             "Mana Generation Buffers",
             "Mana Reducers or Blockers"
         ],
-        "source": "Challenge Festival-Grim Forest",
+        "source": "Challenge Festival I",
         "Release date": "2018-06-01",
         "star": 5,
         "power": 767,
@@ -61964,7 +61964,7 @@ window.allHeroes =
             "Dodgers",
             "Health Boosters"
         ],
-        "source": "Alliance-Knights Clash",
+        "source": "Alliance - Knights Clash",
         "Release date": "2024-04-10",
         "star": 5,
         "power": 1028,
@@ -62053,7 +62053,7 @@ window.allHeroes =
             "Snipers",
             "Bypassers"
         ],
-        "source": "Tower-Owls",
+        "source": "Tower - Owls",
         "Release date": "2024-07-02",
         "star": 5,
         "power": 1079,
@@ -62339,7 +62339,7 @@ window.allHeroes =
             "Revivers",
             "Heal over Time (HoT)"
         ],
-        "source": "Tower-Styx",
+        "source": "Tower - Styx",
         "Release date": "2022-11-16",
         "star": 5,
         "power": 858,
@@ -62530,7 +62530,7 @@ window.allHeroes =
             "Snipers",
             "Effect Duration Resetters"
         ],
-        "source": "Challenge Festival-Villains",
+        "source": "Challenge Festival II",
         "Release date": "2021-02-11",
         "star": 5,
         "power": 805,
@@ -62620,7 +62620,7 @@ window.allHeroes =
             "Mana Reducers or Blockers",
             "Snipers"
         ],
-        "source": "Challenge Festival-Villains",
+        "source": "Challenge Festival II",
         "Release date": "2024-11-14",
         "star": 5,
         "power": 1205,
@@ -62712,7 +62712,7 @@ window.allHeroes =
             "AoE Attackers (Hit-5)",
             "Immunity Providers"
         ],
-        "source": "Challenge Festival-Bards",
+        "source": "Challenge Festival II",
         "Release date": "2025-04-09",
         "star": 5,
         "power": 1188,
@@ -63262,7 +63262,7 @@ window.allHeroes =
             "Dispellers",
             "Snipers"
         ],
-        "source": "S1-Classic",
+        "source": "S1 - Classic",
         "Release date": "2017-03-01",
         "star": 5,
         "power": 757,
@@ -63350,7 +63350,7 @@ window.allHeroes =
             "DoT Attackers",
             "Snipers"
         ],
-        "source": "S1-Classic",
+        "source": "S1 - Classic",
         "Release date": "2020-05-18",
         "star": 5,
         "power": 851,
@@ -63437,7 +63437,7 @@ window.allHeroes =
             "Debuffers (DEF)",
             "Extra Damage Dealers"
         ],
-        "source": "S1-Classic",
+        "source": "S1 - Classic",
         "Release date": "2022-10-31",
         "star": 5,
         "power": 967,
@@ -63526,7 +63526,7 @@ window.allHeroes =
             "Extra Damage Dealers",
             "Dispellers"
         ],
-        "source": "S1-Classic",
+        "source": "S1 - Classic",
         "Release date": "2024-03-11",
         "star": 5,
         "power": 1134,
@@ -63619,7 +63619,7 @@ window.allHeroes =
             "Dispellers",
             "Snipers"
         ],
-        "source": "S1-Classic",
+        "source": "S1 - Classic",
         "Release date": "2025-04-23",
         "star": 5,
         "power": 1241,
@@ -63708,7 +63708,7 @@ window.allHeroes =
             "AoE Attackers (Hit-3)",
             "Debuffers (ATK)"
         ],
-        "source": "S4-Wilderness",
+        "source": "S4 - Wilderness",
         "Release date": "2021-03-25",
         "star": 5,
         "power": 807,
@@ -63795,7 +63795,7 @@ window.allHeroes =
             "AoE Attackers (Hit-3)",
             "Debuffers (ATK)"
         ],
-        "source": "S4-Wilderness",
+        "source": "S4 - Wilderness",
         "Release date": "2023-04-27",
         "star": 5,
         "power": 1022,
@@ -64072,7 +64072,7 @@ window.allHeroes =
             "Damage Reducers",
             "Immunity Providers"
         ],
-        "source": "S7-Treasures of Flame and Frost",
+        "source": "S7 - Treasures of Flame and Frost",
         "Release date": "2024-12-03",
         "star": 5,
         "power": 1165,
@@ -64164,7 +64164,7 @@ window.allHeroes =
             "Extra Damage Dealers",
             "Snipers"
         ],
-        "source": "Monthly Event-Love Season",
+        "source": "Monthly Event - Love Season",
         "Release date": "2024-01-08",
         "star": 5,
         "power": 966,
@@ -64257,7 +64257,7 @@ window.allHeroes =
             "Ghost Form & Hiding",
             "Bypassers"
         ],
-        "source": "Extra Draw-Secret Summon",
+        "source": "Extra Draw - Secret Summon",
         "Release date": "2025-05-31",
         "star": 5,
         "power": 1200,
@@ -64447,7 +64447,7 @@ window.allHeroes =
             "Minions Boosters",
             "Minions Summoners"
         ],
-        "source": "S3-Valhalla",
+        "source": "S3 - Valhalla",
         "Release date": "2020-02-27",
         "star": 5,
         "power": 792,
@@ -64534,7 +64534,7 @@ window.allHeroes =
             "Minions Boosters",
             "Minions Summoners"
         ],
-        "source": "S3-Valhalla",
+        "source": "S3 - Valhalla",
         "Release date": "2022-08-01",
         "star": 5,
         "power": 991,
@@ -64988,7 +64988,7 @@ window.allHeroes =
             "Extra Damage Dealers",
             "Damage Reducers"
         ],
-        "source": "Challenge-Gargoyle",
+        "source": "Challenge - Gargoyle",
         "Release date": "2022-05-12",
         "star": 5,
         "power": 841,
@@ -65259,7 +65259,7 @@ window.allHeroes =
             "Debuffers (DEF)",
             "Dispellers"
         ],
-        "source": "Challenge Festival-Guardians",
+        "source": "Challenge Festival I",
         "Release date": "2017-10-05",
         "star": 5,
         "power": 765,
@@ -65346,7 +65346,7 @@ window.allHeroes =
             "Debuffers (DEF)",
             "AoE Attackers (Hit-5)"
         ],
-        "source": "Challenge Festival-Guardians",
+        "source": "Challenge Festival I",
         "Release date": "2022-06-16",
         "star": 5,
         "power": 958,
@@ -65533,7 +65533,7 @@ window.allHeroes =
             "Fiends Summoners",
             "DoT Attackers"
         ],
-        "source": "S4-Wilderness",
+        "source": "S4 - Wilderness",
         "Release date": "2021-06-17",
         "star": 5,
         "power": 807,
@@ -65624,7 +65624,7 @@ window.allHeroes =
             "Fiends Summoners",
             "DoT Attackers"
         ],
-        "source": "S4-Wilderness",
+        "source": "S4 - Wilderness",
         "Release date": "2024-04-25",
         "star": 5,
         "power": 1022,
@@ -65995,7 +65995,7 @@ window.allHeroes =
             "Debuffers (DEF)",
             "Minions Counters"
         ],
-        "source": "S7-Treasures of Flame and Frost",
+        "source": "S7 - Treasures of Flame and Frost",
         "Release date": "2025-02-23",
         "star": 5,
         "power": 1180,
@@ -66088,7 +66088,7 @@ window.allHeroes =
             "Mana Generation Buffers",
             "Minions Summoners"
         ],
-        "source": "S4-Wilderness",
+        "source": "S4 - Wilderness",
         "Release date": "2022-03-24",
         "star": 5,
         "power": 816,
@@ -66177,7 +66177,7 @@ window.allHeroes =
             "Mana Generation Buffers",
             "Minions Summoners"
         ],
-        "source": "S4-Wilderness",
+        "source": "S4 - Wilderness",
         "Release date": "2024-03-28",
         "star": 5,
         "power": 1034,
@@ -66268,7 +66268,7 @@ window.allHeroes =
             "Snipers",
             "Negative Effects On Self Or Allies"
         ],
-        "source": "Mystery-Shadow",
+        "source": "Mystery - Shadow",
         "Release date": "2024-06-04",
         "star": 5,
         "power": 1134,
@@ -66453,7 +66453,7 @@ window.allHeroes =
             "DoT Attackers",
             "Snipers"
         ],
-        "source": "Challenge Festival-Wonderland",
+        "source": "Challenge Festival I",
         "Release date": "2019-02-14",
         "star": 5,
         "power": 780,
@@ -66539,7 +66539,7 @@ window.allHeroes =
             "Mana Reducers or Blockers",
             "Snipers"
         ],
-        "source": "Challenge Festival-Wonderland",
+        "source": "Challenge Festival I",
         "Release date": "2021-12-15",
         "star": 5,
         "power": 977,
@@ -66635,7 +66635,7 @@ window.allHeroes =
             "Mana Reducers or Blockers",
             "Healers"
         ],
-        "source": "Tower-Magic",
+        "source": "Tower - Magic",
         "Release date": "2023-11-15",
         "star": 5,
         "power": 954,
@@ -66729,7 +66729,7 @@ window.allHeroes =
             "Extra Damage Dealers",
             "Snipers"
         ],
-        "source": "S2-Atlantis",
+        "source": "S2 - Atlantis",
         "Release date": "2018-12-01",
         "star": 5,
         "power": 772,
@@ -66819,7 +66819,7 @@ window.allHeroes =
             "Dispellers",
             "Snipers"
         ],
-        "source": "S2-Atlantis",
+        "source": "S2 - Atlantis",
         "Release date": "2021-11-15",
         "star": 5,
         "power": 942,
@@ -66908,7 +66908,7 @@ window.allHeroes =
             "Debuffers (ATK)",
             "Buffers (ATK)"
         ],
-        "source": "Challenge Festival-Villains",
+        "source": "Challenge Festival II",
         "Release date": "2021-02-11",
         "star": 5,
         "power": 803,
@@ -66995,7 +66995,7 @@ window.allHeroes =
             "Extra Damage Dealers",
             "DoT Attackers"
         ],
-        "source": "Challenge Festival-Villains",
+        "source": "Challenge Festival II",
         "Release date": "2025-06-15",
         "star": 5,
         "power": 1201,
@@ -67083,7 +67083,7 @@ window.allHeroes =
             "Extra Damage Dealers",
             "Damage Reducers"
         ],
-        "source": "Challenge-Gargoyle",
+        "source": "Challenge - Gargoyle",
         "Release date": "2022-12-29",
         "star": 5,
         "power": 850,
@@ -67171,7 +67171,7 @@ window.allHeroes =
             "Fiends Summoners",
             "DoT Attackers"
         ],
-        "source": "S5-Dune",
+        "source": "S5 - Dune",
         "Release date": "2022-06-09",
         "star": 5,
         "power": 860,
@@ -67263,7 +67263,7 @@ window.allHeroes =
             "Fiends Summoners",
             "DoT Attackers"
         ],
-        "source": "S5-Dune",
+        "source": "S5 - Dune",
         "Release date": "2025-02-17",
         "star": 5,
         "power": 1205,
@@ -67532,7 +67532,7 @@ window.allHeroes =
             "Mana Raisers",
             "Snipers"
         ],
-        "source": "S5-Dune",
+        "source": "S5 - Dune",
         "Release date": "2022-04-21",
         "star": 5,
         "power": 858,
@@ -67620,7 +67620,7 @@ window.allHeroes =
             "Mana Raisers",
             "Snipers"
         ],
-        "source": "S5-Dune",
+        "source": "S5 - Dune",
         "Release date": "2024-09-07",
         "star": 5,
         "power": 1199,
@@ -67710,7 +67710,7 @@ window.allHeroes =
             "AoE Attackers (Hit-5)",
             "Negative Effects On Self Or Allies"
         ],
-        "source": "Monthly Event-Springvale",
+        "source": "Monthly Event - Springvale",
         "Release date": "2020-04-06",
         "star": 5,
         "power": 789,
@@ -67794,7 +67794,7 @@ window.allHeroes =
             "AoE Attackers (Hit-5)",
             "Negative Effects On Self Or Allies"
         ],
-        "source": "Monthly Event-Springvale",
+        "source": "Monthly Event - Springvale",
         "Release date": "2022-03-21",
         "star": 5,
         "power": 898,
@@ -67882,7 +67882,7 @@ window.allHeroes =
             "Minions Summoners",
             "Healers (Special)"
         ],
-        "source": "Challenge Festival-Wonderland",
+        "source": "Challenge Festival I",
         "Release date": "2024-04-18",
         "star": 5,
         "power": 1037,
@@ -68162,7 +68162,7 @@ window.allHeroes =
             "Cleansers",
             "Ghost Form & Hiding"
         ],
-        "source": "S4-Wilderness",
+        "source": "S4 - Wilderness",
         "Release date": "2021-03-25",
         "star": 5,
         "power": 806,
@@ -68259,7 +68259,7 @@ window.allHeroes =
             "Ghost Form & Hiding",
             "Health Boosters"
         ],
-        "source": "S4-Wilderness",
+        "source": "S4 - Wilderness",
         "Release date": "2023-04-27",
         "star": 5,
         "power": 1018,
@@ -68352,7 +68352,7 @@ window.allHeroes =
             "Debuffers (DEF)",
             "Dispellers"
         ],
-        "source": "Monthly Event-Kalevala",
+        "source": "Monthly Event - Kalevala",
         "Release date": "2022-06-20",
         "star": 5,
         "power": 937,
@@ -68629,7 +68629,7 @@ window.allHeroes =
             "Debuffers (DEF)",
             "Heal over Time (HoT)"
         ],
-        "source": "Monthly Event-Morlovia",
+        "source": "Monthly Event - Morlovia",
         "Release date": "2023-09-25",
         "star": 5,
         "power": 933,
@@ -68719,7 +68719,7 @@ window.allHeroes =
             "Mana Raisers",
             "Taunters"
         ],
-        "source": "Alliance-Knights Clash",
+        "source": "Alliance - Knights Clash",
         "Release date": "2021-10-13",
         "star": 5,
         "power": 816,
@@ -68805,7 +68805,7 @@ window.allHeroes =
             "Healers",
             "Mana Reducers or Blockers"
         ],
-        "source": "Challenge Festival-Pets",
+        "source": "Challenge Festival II",
         "Release date": "2023-09-04",
         "star": 5,
         "power": 938,
@@ -68900,7 +68900,7 @@ window.allHeroes =
             "Fiends Summoners",
             "DoT Attackers"
         ],
-        "source": "Challenge-Secrets of the Opera",
+        "source": "Challenge - Secrets of the Opera",
         "Release date": "2023-11-30",
         "star": 5,
         "power": 957,
@@ -69188,7 +69188,7 @@ window.allHeroes =
             "Heal over Time (HoT)",
             "Revivers"
         ],
-        "source": "Challenge Festival-Pirates",
+        "source": "Challenge Festival I",
         "Release date": "2017-09-07",
         "star": 5,
         "power": 780,
@@ -69283,7 +69283,7 @@ window.allHeroes =
             "Revivers",
             "DoT Attackers"
         ],
-        "source": "Challenge Festival-Pirates",
+        "source": "Challenge Festival I",
         "Release date": "2022-02-17",
         "star": 5,
         "power": 977,
@@ -69470,7 +69470,7 @@ window.allHeroes =
             "Healing Reducers",
             "Mindless Attack & Mindless Heal"
         ],
-        "source": "S6-Mysteries of the Deep",
+        "source": "S6 - Mysteries of the Deep",
         "Release date": "2024-01-17",
         "star": 5,
         "power": 999,
@@ -69569,7 +69569,7 @@ window.allHeroes =
             "Healing Reducers",
             "Mindless Attack & Mindless Heal"
         ],
-        "source": "S6-Mysteries of the Deep",
+        "source": "S6 - Mysteries of the Deep",
         "Release date": "2024-10-19",
         "star": 5,
         "power": 1244,
@@ -69670,7 +69670,7 @@ window.allHeroes =
             "DoT Attackers",
             "Negative Effects On Self Or Allies"
         ],
-        "source": "Mystery-Shadow",
+        "source": "Mystery - Shadow",
         "Release date": "2024-05-01",
         "star": 5,
         "power": 1129,
@@ -69760,7 +69760,7 @@ window.allHeroes =
             "Extra Damage Dealers",
             "Negative Effects On Self Or Allies"
         ],
-        "source": "S2-Atlantis",
+        "source": "S2 - Atlantis",
         "Release date": "2018-02-01",
         "star": 5,
         "power": 772,
@@ -69851,7 +69851,7 @@ window.allHeroes =
             "Extra Damage Dealers",
             "Negative Effects On Self Or Allies"
         ],
-        "source": "S2-Atlantis",
+        "source": "S2 - Atlantis",
         "Release date": "2023-02-06",
         "star": 5,
         "power": 944,
@@ -70040,7 +70040,7 @@ window.allHeroes =
             "Dodgers",
             "Minions Counters"
         ],
-        "source": "Alliance-Moths",
+        "source": "Alliance - Moths",
         "Release date": "2025-01-23",
         "star": 5,
         "power": 1178,
@@ -70132,7 +70132,7 @@ window.allHeroes =
             "Immunity Providers",
             "Silencers"
         ],
-        "source": "Monthly Event-Beach Party",
+        "source": "Monthly Event - Beach Party",
         "Release date": "2023-06-12",
         "star": 5,
         "power": 873,
@@ -70219,7 +70219,7 @@ window.allHeroes =
         "skill_types": [
             "AoE Attackers (Hit-5)"
         ],
-        "source": "Extra Draw-Secret Summon",
+        "source": "Extra Draw - Secret Summon",
         "Release date": "2020-05-01",
         "star": 5,
         "power": 799,
@@ -70308,7 +70308,7 @@ window.allHeroes =
             "Debuffers (ATK)",
             "Effect Duration Resetters"
         ],
-        "source": "Challenge Festival-Bards",
+        "source": "Challenge Festival II",
         "Release date": "2022-08-11",
         "star": 5,
         "power": 849,
@@ -70398,7 +70398,7 @@ window.allHeroes =
             "Buffers (ATK)",
             "Debuffers (DEF)"
         ],
-        "source": "Tower-Styx",
+        "source": "Tower - Styx",
         "Release date": "2022-06-01",
         "star": 5,
         "power": 854,
@@ -70495,7 +70495,7 @@ window.allHeroes =
             "AoE Attackers (Hit-3)",
             "Counterattackers"
         ],
-        "source": "S1-Classic",
+        "source": "S1 - Classic",
         "Release date": "2017-03-01",
         "star": 5,
         "power": 756,
@@ -70580,7 +70580,7 @@ window.allHeroes =
             "AoE Attackers (Hit-5)",
             "Counterattackers"
         ],
-        "source": "S1-Classic",
+        "source": "S1 - Classic",
         "Release date": "2021-01-18",
         "star": 5,
         "power": 851,
@@ -70667,7 +70667,7 @@ window.allHeroes =
             "Counterattackers",
             "Mana Raisers"
         ],
-        "source": "S1-Classic",
+        "source": "S1 - Classic",
         "Release date": "2022-09-05",
         "star": 5,
         "power": 966,
@@ -70754,7 +70754,7 @@ window.allHeroes =
             "Counterattackers",
             "Extra Damage Dealers"
         ],
-        "source": "S1-Classic",
+        "source": "S1 - Classic",
         "Release date": "2023-11-27",
         "star": 5,
         "power": 1132,
@@ -70844,7 +70844,7 @@ window.allHeroes =
             "Bypassers",
             "Counterattackers"
         ],
-        "source": "S1-Classic",
+        "source": "S1 - Classic",
         "Release date": "2025-01-14",
         "star": 5,
         "power": 1237,
@@ -70936,7 +70936,7 @@ window.allHeroes =
             "Healers (Special)",
             "Immunity Providers"
         ],
-        "source": "Challenge-Secrets of the Opera",
+        "source": "Challenge - Secrets of the Opera",
         "Release date": "2024-03-21",
         "star": 5,
         "power": 1023,
@@ -71032,7 +71032,7 @@ window.allHeroes =
             "Mana Raisers",
             "Bypassers"
         ],
-        "source": "Tower-Owls",
+        "source": "Tower - Owls",
         "Release date": "2023-12-20",
         "star": 5,
         "power": 984,
@@ -71125,7 +71125,7 @@ window.allHeroes =
             "Dispellers",
             "Snipers"
         ],
-        "source": "Tower-Ninjas",
+        "source": "Tower - Ninjas",
         "Release date": "2020-10-13",
         "star": 5,
         "power": 798,
@@ -71223,7 +71223,7 @@ window.allHeroes =
             "Minions Summoners",
             "Extra Damage Dealers"
         ],
-        "source": "Monthly Event-Winter",
+        "source": "Monthly Event - Winter",
         "Release date": "2022-12-01",
         "star": 5,
         "power": 851,
@@ -71317,7 +71317,7 @@ window.allHeroes =
             "Mana Reducers or Blockers",
             "Silencers"
         ],
-        "source": "Challenge-Secrets of the Opera",
+        "source": "Challenge - Secrets of the Opera",
         "Release date": "2023-06-20",
         "star": 5,
         "power": 955,
@@ -71414,7 +71414,7 @@ window.allHeroes =
             "Stacking Heroes",
             "Taunters"
         ],
-        "source": "S6-Mysteries of the Deep",
+        "source": "S6 - Mysteries of the Deep",
         "Release date": "2023-06-07",
         "star": 5,
         "power": 906,
@@ -71516,7 +71516,7 @@ window.allHeroes =
             "Taunters",
             "Mana Raisers"
         ],
-        "source": "S6-Mysteries of the Deep",
+        "source": "S6 - Mysteries of the Deep",
         "Release date": "2024-05-23",
         "star": 5,
         "power": 1124,
@@ -71616,7 +71616,7 @@ window.allHeroes =
             "Dispellers",
             "Healers (Special)"
         ],
-        "source": "Monthly Event-Love Season",
+        "source": "Monthly Event - Love Season",
         "Release date": "2023-02-14",
         "star": 5,
         "power": 861,
@@ -71707,7 +71707,7 @@ window.allHeroes =
             "Cleansers",
             "Heal over Time (HoT)"
         ],
-        "source": "Tower-Ninjas",
+        "source": "Tower - Ninjas",
         "Release date": "2021-11-10",
         "star": 5,
         "power": 818,
@@ -71801,7 +71801,7 @@ window.allHeroes =
         "skill_types": [
             "AoE Attackers (Hit-5)"
         ],
-        "source": "S1-Classic",
+        "source": "S1 - Classic",
         "Release date": "2017-03-01",
         "star": 5,
         "power": 757,
@@ -71885,7 +71885,7 @@ window.allHeroes =
             "AoE Attackers (Hit-5)",
             "Debuffers (ATK)"
         ],
-        "source": "S1-Classic",
+        "source": "S1 - Classic",
         "Release date": "2020-01-01",
         "star": 5,
         "power": 852,
@@ -71970,7 +71970,7 @@ window.allHeroes =
             "Mindless Attack & Mindless Heal",
             "AoE Attackers (Hit-3)"
         ],
-        "source": "S1-Classic",
+        "source": "S1 - Classic",
         "Release date": "2022-12-26",
         "star": 5,
         "power": 969,
@@ -72054,7 +72054,7 @@ window.allHeroes =
             "AoE Attackers (Hit-5)",
             "Extra Damage Dealers"
         ],
-        "source": "S1-Classic",
+        "source": "S1 - Classic",
         "Release date": "2024-08-11",
         "star": 5,
         "power": 1135,
@@ -72234,7 +72234,7 @@ window.allHeroes =
             "DoT Attackers",
             "Snipers"
         ],
-        "source": "Alliance-Knights Clash",
+        "source": "Alliance - Knights Clash",
         "Release date": "2022-01-05",
         "star": 5,
         "power": 822,
@@ -72318,7 +72318,7 @@ window.allHeroes =
             "AoE Attackers (Hit-3)",
             "AoE Attackers (Hit-5)"
         ],
-        "source": "Alliance-Musketeers",
+        "source": "Alliance - Musketeers",
         "Release date": "2023-09-20",
         "star": 5,
         "power": 928,
@@ -72405,7 +72405,7 @@ window.allHeroes =
             "Chain & Random Attackers",
             "Extra Damage Dealers"
         ],
-        "source": "S3-Valhalla",
+        "source": "S3 - Valhalla",
         "Release date": "2021-07-04",
         "star": 5,
         "power": 788,
@@ -72492,7 +72492,7 @@ window.allHeroes =
             "Chain & Random Attackers",
             "Extra Damage Dealers"
         ],
-        "source": "S3-Valhalla",
+        "source": "S3 - Valhalla",
         "Release date": "2023-07-31",
         "star": 5,
         "power": 987,
@@ -72579,7 +72579,7 @@ window.allHeroes =
             "AoE Attackers (Hit-3)",
             "Healing Reducers"
         ],
-        "source": "Challenge Festival-Pirates",
+        "source": "Challenge Festival I",
         "Release date": "2017-09-07",
         "star": 5,
         "power": 765,
@@ -72666,7 +72666,7 @@ window.allHeroes =
             "DoT Attackers",
             "Healing Reducers"
         ],
-        "source": "Challenge Festival-Pirates",
+        "source": "Challenge Festival I",
         "Release date": "2023-12-28",
         "star": 5,
         "power": 957,
@@ -72754,7 +72754,7 @@ window.allHeroes =
             "DoT Attackers",
             "Snipers"
         ],
-        "source": "S1-Classic",
+        "source": "S1 - Classic",
         "Release date": "2017-03-01",
         "star": 5,
         "power": 757,
@@ -72837,7 +72837,7 @@ window.allHeroes =
         "skill_types": [
             "Snipers"
         ],
-        "source": "S1-Classic",
+        "source": "S1 - Classic",
         "Release date": "2020-05-18",
         "star": 5,
         "power": 853,
@@ -72922,7 +72922,7 @@ window.allHeroes =
             "Minions Counters",
             "Snipers"
         ],
-        "source": "S1-Classic",
+        "source": "S1 - Classic",
         "Release date": "2023-06-12",
         "star": 5,
         "power": 971,
@@ -73009,7 +73009,7 @@ window.allHeroes =
             "Extra Damage Dealers",
             "Snipers"
         ],
-        "source": "S1-Classic",
+        "source": "S1 - Classic",
         "Release date": "2023-10-30",
         "star": 5,
         "power": 1137,
@@ -73098,7 +73098,7 @@ window.allHeroes =
             "DoT Attackers",
             "Snipers"
         ],
-        "source": "S1-Classic",
+        "source": "S1 - Classic",
         "Release date": "2024-12-24",
         "star": 5,
         "power": 1242,
@@ -73190,7 +73190,7 @@ window.allHeroes =
             "Ghost Form & Hiding",
             "Minions Counters"
         ],
-        "source": "Tower-Ninjas",
+        "source": "Tower - Ninjas",
         "Release date": "2025-01-02",
         "star": 5,
         "power": 1141,
@@ -73388,7 +73388,7 @@ window.allHeroes =
             "Mana Generation Buffers",
             "Heal over Time (HoT)"
         ],
-        "source": "Challenge Festival-Slayers",
+        "source": "Challenge Festival II",
         "Release date": "2021-08-05",
         "star": 5,
         "power": 807,
@@ -73484,7 +73484,7 @@ window.allHeroes =
             "Mana Generation Buffers",
             "Heal over Time (HoT)"
         ],
-        "source": "Challenge Festival-Slayers",
+        "source": "Challenge Festival II",
         "Release date": "2025-04-09",
         "star": 5,
         "power": 1207,
@@ -73577,7 +73577,7 @@ window.allHeroes =
             "Debuffers (ATK)",
             "DoT Attackers"
         ],
-        "source": "Monthly Event-Beach Party",
+        "source": "Monthly Event - Beach Party",
         "Release date": "2025-06-03",
         "star": 5,
         "power": 1196,
@@ -73855,7 +73855,7 @@ window.allHeroes =
             "Mana Reducers or Blockers",
             "Minions Summoners"
         ],
-        "source": "S5-Dune",
+        "source": "S5 - Dune",
         "Release date": "2022-09-29",
         "star": 5,
         "power": 864,
@@ -73946,7 +73946,7 @@ window.allHeroes =
             "Mana Reducers or Blockers",
             "Minions Summoners"
         ],
-        "source": "S5-Dune",
+        "source": "S5 - Dune",
         "Release date": "2025-05-14",
         "star": 5,
         "power": 1210,
@@ -74320,7 +74320,7 @@ window.allHeroes =
             "Chain & Random Attackers",
             "Snipers"
         ],
-        "source": "S5-Dune",
+        "source": "S5 - Dune",
         "Release date": "2023-05-11",
         "star": 5,
         "power": 872,
@@ -74875,7 +74875,7 @@ window.allHeroes =
             "Debuffers (ATK)",
             "Minions Counters"
         ],
-        "source": "S7-Treasures of Flame and Frost",
+        "source": "S7 - Treasures of Flame and Frost",
         "Release date": "2025-05-16",
         "star": 5,
         "power": 1201,
@@ -74970,7 +74970,7 @@ window.allHeroes =
             "AoE Attackers (Hit-5)",
             "Extra Damage Dealers"
         ],
-        "source": "Tower-Ninjas",
+        "source": "Tower - Ninjas",
         "Release date": "2024-08-27",
         "star": 5,
         "power": 1095,
@@ -75160,7 +75160,7 @@ window.allHeroes =
             "Debuffers (DEF)",
             "Mana Raisers"
         ],
-        "source": "Challenge Festival-Wonderland",
+        "source": "Challenge Festival I",
         "Release date": "2023-10-05",
         "star": 5,
         "power": 945,
@@ -75252,7 +75252,7 @@ window.allHeroes =
             "Counterattackers",
             "Damage Reducers"
         ],
-        "source": "S6-Mysteries of the Deep",
+        "source": "S6 - Mysteries of the Deep",
         "Release date": "2023-08-02",
         "star": 5,
         "power": 951,
@@ -75351,7 +75351,7 @@ window.allHeroes =
             "Damage Reducers",
             "Extra Damage Dealers"
         ],
-        "source": "S6-Mysteries of the Deep",
+        "source": "S6 - Mysteries of the Deep",
         "Release date": "2025-05-28",
         "star": 5,
         "power": 1184,
@@ -75449,7 +75449,7 @@ window.allHeroes =
             "Snipers",
             "DoT Attackers"
         ],
-        "source": "Challenge-Carnival of Gods",
+        "source": "Challenge - Carnival of Gods",
         "Release date": "2023-11-02",
         "star": 5,
         "power": 951,
@@ -75541,7 +75541,7 @@ window.allHeroes =
             "Healing Reducers",
             "Minions Counters"
         ],
-        "source": "Tower-Ninjas",
+        "source": "Tower - Ninjas",
         "Release date": "2024-10-22",
         "star": 5,
         "power": 1108,
@@ -75641,7 +75641,7 @@ window.allHeroes =
             "Extra Damage Dealers",
             "Reflectors"
         ],
-        "source": "S2-Atlantis",
+        "source": "S2 - Atlantis",
         "Release date": "2019-02-01",
         "star": 5,
         "power": 775,
@@ -75731,7 +75731,7 @@ window.allHeroes =
             "Extra Damage Dealers",
             "Reflectors"
         ],
-        "source": "S2-Atlantis",
+        "source": "S2 - Atlantis",
         "Release date": "2021-11-15",
         "star": 5,
         "power": 946,
@@ -75912,7 +75912,7 @@ window.allHeroes =
             "Immunity Providers",
             "Damage Reducers"
         ],
-        "source": "Challenge-Gargoyle",
+        "source": "Challenge - Gargoyle",
         "Release date": "2024-05-16",
         "star": 5,
         "power": 1049,
@@ -76192,7 +76192,7 @@ window.allHeroes =
             "Healing Reducers",
             "Snipers"
         ],
-        "source": "Monthly Event-Morlovia",
+        "source": "Monthly Event - Morlovia",
         "Release date": "2018-10-25",
         "star": 5,
         "power": 773,
@@ -76286,7 +76286,7 @@ window.allHeroes =
             "Healers (Special)",
             "Healing Reducers"
         ],
-        "source": "Monthly Event-Morlovia",
+        "source": "Monthly Event - Morlovia",
         "Release date": "2021-10-04",
         "star": 5,
         "power": 918,
@@ -76562,7 +76562,7 @@ window.allHeroes =
             "AoE Attackers (Hit-5)",
             "Status Effects Blockers"
         ],
-        "source": "Monthly Event-Springvale",
+        "source": "Monthly Event - Springvale",
         "Release date": "2025-03-31",
         "star": 5,
         "power": 1169,
@@ -76745,7 +76745,7 @@ window.allHeroes =
             "Silencers",
             "Immunity Providers"
         ],
-        "source": "Challenge-Secrets of the Opera",
+        "source": "Challenge - Secrets of the Opera",
         "Release date": "2024-08-22",
         "star": 5,
         "power": 1092,
@@ -77026,7 +77026,7 @@ window.allHeroes =
             "Healers",
             "Mana Raisers"
         ],
-        "source": "S4-Wilderness",
+        "source": "S4 - Wilderness",
         "Release date": "2021-09-09",
         "star": 5,
         "power": 809,
@@ -77119,7 +77119,7 @@ window.allHeroes =
             "Mana Raisers",
             "Health Boosters"
         ],
-        "source": "S4-Wilderness",
+        "source": "S4 - Wilderness",
         "Release date": "2023-11-09",
         "star": 5,
         "power": 1024,
@@ -77482,7 +77482,7 @@ window.allHeroes =
         "skill_types": [
             "Healers"
         ],
-        "source": "S1-Classic",
+        "source": "S1 - Classic",
         "Release date": "2017-03-01",
         "star": 1,
         "power": 213,
@@ -77512,7 +77512,7 @@ window.allHeroes =
         "skill_types": [
             "Snipers"
         ],
-        "source": "S1-Classic",
+        "source": "S1 - Classic",
         "Release date": "2017-03-01",
         "star": 1,
         "power": 210,
@@ -77542,7 +77542,7 @@ window.allHeroes =
         "skill_types": [
             "AoE Attackers (Hit-5)"
         ],
-        "source": "S1-Classic",
+        "source": "S1 - Classic",
         "Release date": "2017-03-01",
         "star": 2,
         "power": 337,
@@ -77572,7 +77572,7 @@ window.allHeroes =
         "skill_types": [
             "Buffers (ATK)"
         ],
-        "source": "S1-Classic",
+        "source": "S1 - Classic",
         "Release date": "2017-03-01",
         "star": 2,
         "power": 332,
@@ -77602,7 +77602,7 @@ window.allHeroes =
         "skill_types": [
             "Buffers (ATK)"
         ],
-        "source": "S1-Classic",
+        "source": "S1 - Classic",
         "Release date": "2017-03-01",
         "star": 2,
         "power": 334,
@@ -77632,7 +77632,7 @@ window.allHeroes =
         "skill_types": [
             "AoE Attackers (Hit-3)"
         ],
-        "source": "S1-Classic",
+        "source": "S1 - Classic",
         "Release date": "2017-03-01",
         "star": 2,
         "power": 336,
@@ -77664,7 +77664,7 @@ window.allHeroes =
             "Mana Reducers or Blockers",
             "Snipers"
         ],
-        "source": "S1-Classic",
+        "source": "S1 - Classic",
         "Release date": "2017-03-01",
         "star": 3,
         "power": 444,
@@ -77749,7 +77749,7 @@ window.allHeroes =
             "AoE Attackers (Hit-3)",
             "Mana Reducers or Blockers"
         ],
-        "source": "S1-Classic",
+        "source": "S1 - Classic",
         "Release date": "2020-05-18",
         "star": 3,
         "power": 473,
@@ -77835,7 +77835,7 @@ window.allHeroes =
             "Snipers",
             "Extra Damage Dealers"
         ],
-        "source": "S1-Classic",
+        "source": "S1 - Classic",
         "Release date": "2024-03-11",
         "star": 3,
         "power": 506,
@@ -77925,7 +77925,7 @@ window.allHeroes =
             "Mana Reducers or Blockers",
             "Snipers"
         ],
-        "source": "S1-Classic",
+        "source": "S1 - Classic",
         "Release date": "2025-04-23",
         "star": 3,
         "power": 514,
@@ -78013,7 +78013,7 @@ window.allHeroes =
             "AoE Attackers (Hit-3)",
             "Debuffers (DEF)"
         ],
-        "source": "S6-Mysteries of the Deep",
+        "source": "S6 - Mysteries of the Deep",
         "Release date": "2023-06-07",
         "star": 3,
         "power": 486,
@@ -78107,7 +78107,7 @@ window.allHeroes =
             "AoE Attackers (Hit-3)",
             "Debuffers (DEF)"
         ],
-        "source": "S6-Mysteries of the Deep",
+        "source": "S6 - Mysteries of the Deep",
         "Release date": "2025-04-29",
         "star": 3,
         "power": 498,
@@ -78295,7 +78295,7 @@ window.allHeroes =
             "Mana Generation Buffers",
             "Mana Reducers or Blockers"
         ],
-        "source": "Challenge Festival-Avalon",
+        "source": "Challenge Festival I",
         "Release date": "2019-09-12",
         "star": 3,
         "power": 455,
@@ -78475,7 +78475,7 @@ window.allHeroes =
             "Extra Damage Dealers",
             "Minions Summoners"
         ],
-        "source": "Monthly Event-Winter",
+        "source": "Monthly Event - Winter",
         "Release date": "2022-12-01",
         "star": 3,
         "power": 484,
@@ -78561,7 +78561,7 @@ window.allHeroes =
             "Bypassers",
             "DoT Attackers"
         ],
-        "source": "Tower-Styx",
+        "source": "Tower - Styx",
         "Release date": "2022-09-21",
         "star": 3,
         "power": 484,
@@ -78659,7 +78659,7 @@ window.allHeroes =
             "AoE Attackers (Hit-3)",
             "Mana Reducers or Blockers"
         ],
-        "source": "S3-Valhalla",
+        "source": "S3 - Valhalla",
         "Release date": "2020-02-27",
         "star": 3,
         "power": 466,
@@ -78744,7 +78744,7 @@ window.allHeroes =
             "AoE Attackers (Hit-5)",
             "Mana Reducers or Blockers"
         ],
-        "source": "S3-Valhalla",
+        "source": "S3 - Valhalla",
         "Release date": "2023-02-13",
         "star": 3,
         "power": 481,
@@ -78830,7 +78830,7 @@ window.allHeroes =
             "Mana Raisers",
             "Counterattackers"
         ],
-        "source": "Alliance-Knights Clash",
+        "source": "Alliance - Knights Clash",
         "Release date": "2023-10-18",
         "star": 3,
         "power": 489,
@@ -78915,7 +78915,7 @@ window.allHeroes =
         "skill_types": [
             "Healers"
         ],
-        "source": "S1-Classic",
+        "source": "S1 - Classic",
         "Release date": "2017-03-01",
         "star": 3,
         "power": 444,
@@ -78999,7 +78999,7 @@ window.allHeroes =
             "Buffers (ATK)",
             "Heal over Time (HoT)"
         ],
-        "source": "S1-Classic",
+        "source": "S1 - Classic",
         "Release date": "2020-01-20",
         "star": 3,
         "power": 474,
@@ -79084,7 +79084,7 @@ window.allHeroes =
             "Healers",
             "Buffers (DEF)"
         ],
-        "source": "S1-Classic",
+        "source": "S1 - Classic",
         "Release date": "2024-05-06",
         "star": 3,
         "power": 507,
@@ -79174,7 +79174,7 @@ window.allHeroes =
             "DoT Attackers",
             "Debuffers (DEF)"
         ],
-        "source": "S7-Treasures of Flame and Frost",
+        "source": "S7 - Treasures of Flame and Frost",
         "Release date": "2024-12-03",
         "star": 3,
         "power": 499,
@@ -79265,7 +79265,7 @@ window.allHeroes =
             "AoE Attackers (Hit-5)",
             "DoT Attackers"
         ],
-        "source": "S1-Classic",
+        "source": "S1 - Classic",
         "Release date": "2017-03-01",
         "star": 3,
         "power": 445,
@@ -79350,7 +79350,7 @@ window.allHeroes =
             "AoE Attackers (Hit-5)",
             "DoT Attackers"
         ],
-        "source": "S1-Classic",
+        "source": "S1 - Classic",
         "Release date": "2021-01-18",
         "star": 3,
         "power": 473,
@@ -79436,7 +79436,7 @@ window.allHeroes =
             "DoT Attackers",
             "Extra Damage Dealers"
         ],
-        "source": "S1-Classic",
+        "source": "S1 - Classic",
         "Release date": "2023-12-25",
         "star": 3,
         "power": 506,
@@ -79525,7 +79525,7 @@ window.allHeroes =
             "Bypassers",
             "DoT Attackers"
         ],
-        "source": "S1-Classic",
+        "source": "S1 - Classic",
         "Release date": "2024-12-25",
         "star": 3,
         "power": 514,
@@ -79614,7 +79614,7 @@ window.allHeroes =
             "Buffers (ATK)",
             "Debuffers (DEF)"
         ],
-        "source": "Tower-Magic",
+        "source": "Tower - Magic",
         "Release date": "2021-09-15",
         "star": 3,
         "power": 479,
@@ -79886,7 +79886,7 @@ window.allHeroes =
             "Buffers (ATK)",
             "Snipers"
         ],
-        "source": "S2-Atlantis",
+        "source": "S2 - Atlantis",
         "Release date": "2019-08-01",
         "star": 3,
         "power": 449,
@@ -79971,7 +79971,7 @@ window.allHeroes =
             "DoT Attackers",
             "Snipers"
         ],
-        "source": "S1-Classic",
+        "source": "S1 - Classic",
         "Release date": "2017-03-01",
         "star": 3,
         "power": 443,
@@ -80056,7 +80056,7 @@ window.allHeroes =
             "DoT Attackers",
             "Snipers"
         ],
-        "source": "S1-Classic",
+        "source": "S1 - Classic",
         "Release date": "2021-01-18",
         "star": 3,
         "power": 472,
@@ -80142,7 +80142,7 @@ window.allHeroes =
             "Snipers",
             "Extra Damage Dealers"
         ],
-        "source": "S1-Classic",
+        "source": "S1 - Classic",
         "Release date": "2024-05-31",
         "star": 3,
         "power": 505,
@@ -80230,7 +80230,7 @@ window.allHeroes =
             "Buffers (ATK)",
             "Mana Generation Buffers"
         ],
-        "source": "Challenge Festival-Wonderland",
+        "source": "Challenge Festival I",
         "Release date": "2021-12-15",
         "star": 3,
         "power": 481,
@@ -80318,7 +80318,7 @@ window.allHeroes =
             "Dodgers",
             "Minions Counters"
         ],
-        "source": "Alliance-Moths",
+        "source": "Alliance - Moths",
         "Release date": "2025-01-23",
         "star": 3,
         "power": 503,
@@ -80407,7 +80407,7 @@ window.allHeroes =
             "Minions Summoners",
             "Snipers"
         ],
-        "source": "Monthly Event-Winter",
+        "source": "Monthly Event - Winter",
         "Release date": "2018-12-02",
         "star": 3,
         "power": 448,
@@ -80495,7 +80495,7 @@ window.allHeroes =
             "Debuffers (DEF)",
             "DoT Attackers"
         ],
-        "source": "Challenge Festival-Pets",
+        "source": "Challenge Festival II",
         "Release date": "2022-11-03",
         "star": 3,
         "power": 484,
@@ -80584,7 +80584,7 @@ window.allHeroes =
             "AoE Attackers (Hit-3)",
             "Buffers (ATK)"
         ],
-        "source": "Challenge Festival-Villains",
+        "source": "Challenge Festival II",
         "Release date": "2021-02-11",
         "star": 3,
         "power": 476,
@@ -80668,7 +80668,7 @@ window.allHeroes =
             "Negative Effects On Self Or Allies",
             "Snipers"
         ],
-        "source": "Monthly Event-Springvale",
+        "source": "Monthly Event - Springvale",
         "Release date": "2018-03-28",
         "star": 3,
         "power": 445,
@@ -80842,7 +80842,7 @@ window.allHeroes =
             "AoE Attackers (Hit-5)",
             "Extra Damage Dealers"
         ],
-        "source": "S3-Valhalla",
+        "source": "S3 - Valhalla",
         "Release date": "2020-05-28",
         "star": 3,
         "power": 462,
@@ -80926,7 +80926,7 @@ window.allHeroes =
             "Fiends Summoners",
             "DoT Attackers"
         ],
-        "source": "S4-Wilderness",
+        "source": "S4 - Wilderness",
         "Release date": "2021-03-25",
         "star": 3,
         "power": 478,
@@ -81012,7 +81012,7 @@ window.allHeroes =
             "Fiends Summoners",
             "DoT Attackers"
         ],
-        "source": "S4-Wilderness",
+        "source": "S4 - Wilderness",
         "Release date": "2024-04-25",
         "star": 3,
         "power": 488,
@@ -81099,7 +81099,7 @@ window.allHeroes =
             "AoE Attackers (Hit-5)",
             "Max Health Reducers"
         ],
-        "source": "S5-Dune",
+        "source": "S5 - Dune",
         "Release date": "2022-04-21",
         "star": 3,
         "power": 483,
@@ -81188,7 +81188,7 @@ window.allHeroes =
             "AoE Attackers (Hit-5)",
             "Max Health Reducers"
         ],
-        "source": "S5-Dune",
+        "source": "S5 - Dune",
         "Release date": "2025-04-14",
         "star": 3,
         "power": 494,
@@ -81285,7 +81285,7 @@ window.allHeroes =
             "Mana Generation Buffers",
             "Heal over Time (HoT)"
         ],
-        "source": "Challenge Festival-Slayers",
+        "source": "Challenge Festival II",
         "Release date": "2021-08-05",
         "star": 4,
         "power": 677,
@@ -81375,7 +81375,7 @@ window.allHeroes =
             "Buffers (ATK)",
             "Healers"
         ],
-        "source": "S1-Classic",
+        "source": "S1 - Classic",
         "Release date": "2017-03-01",
         "star": 4,
         "power": 644,
@@ -81460,7 +81460,7 @@ window.allHeroes =
             "Buffers (ATK)",
             "Healers"
         ],
-        "source": "S1-Classic",
+        "source": "S1 - Classic",
         "Release date": "2020-01-20",
         "star": 4,
         "power": 690,
@@ -81546,7 +81546,7 @@ window.allHeroes =
             "Heal over Time (HoT)",
             "Health Boosters"
         ],
-        "source": "S1-Classic",
+        "source": "S1 - Classic",
         "Release date": "2023-06-12",
         "star": 4,
         "power": 736,
@@ -81631,7 +81631,7 @@ window.allHeroes =
             "Buffers (ATK)",
             "Healers"
         ],
-        "source": "S1-Classic",
+        "source": "S1 - Classic",
         "Release date": "2023-12-25",
         "star": 4,
         "power": 748,
@@ -81721,7 +81721,7 @@ window.allHeroes =
             "Healers",
             "Reflectors"
         ],
-        "source": "S1-Classic",
+        "source": "S1 - Classic",
         "Release date": "2024-12-24",
         "star": 4,
         "power": 761,
@@ -81811,7 +81811,7 @@ window.allHeroes =
             "Mana Reducers or Blockers",
             "Minions Summoners"
         ],
-        "source": "Monthly Event-Winter",
+        "source": "Monthly Event - Winter",
         "Release date": "2020-12-01",
         "star": 4,
         "power": 674,
@@ -81902,7 +81902,7 @@ window.allHeroes =
             "Mana Generation Buffers",
             "Heal over Time (HoT)"
         ],
-        "source": "Challenge Festival-Slayers",
+        "source": "Challenge Festival II",
         "Release date": "2021-08-05",
         "star": 4,
         "power": 677,
@@ -81991,7 +81991,7 @@ window.allHeroes =
             "AoE Attackers (Hit-5)",
             "DoT Attackers"
         ],
-        "source": "S1-Classic",
+        "source": "S1 - Classic",
         "Release date": "2017-03-01",
         "star": 4,
         "power": 643,
@@ -82076,7 +82076,7 @@ window.allHeroes =
             "AoE Attackers (Hit-5)",
             "DoT Attackers"
         ],
-        "source": "S1-Classic",
+        "source": "S1 - Classic",
         "Release date": "2021-01-18",
         "star": 4,
         "power": 688,
@@ -82162,7 +82162,7 @@ window.allHeroes =
             "Debuffers (DEF)",
             "Extra Damage Dealers"
         ],
-        "source": "S1-Classic",
+        "source": "S1 - Classic",
         "Release date": "2023-06-12",
         "star": 4,
         "power": 733,
@@ -82249,7 +82249,7 @@ window.allHeroes =
             "DoT Attackers",
             "Extra Damage Dealers"
         ],
-        "source": "S1-Classic",
+        "source": "S1 - Classic",
         "Release date": "2024-03-11",
         "star": 4,
         "power": 746,
@@ -82339,7 +82339,7 @@ window.allHeroes =
             "Bypassers",
             "DoT Attackers"
         ],
-        "source": "S1-Classic",
+        "source": "S1 - Classic",
         "Release date": "2025-04-08",
         "star": 4,
         "power": 758,
@@ -82427,7 +82427,7 @@ window.allHeroes =
             "Debuffers (DEF)",
             "Snipers"
         ],
-        "source": "Challenge Festival-Starfall",
+        "source": "Challenge Festival II",
         "Release date": "2021-06-10",
         "star": 4,
         "power": 676,
@@ -82511,7 +82511,7 @@ window.allHeroes =
             "Counterattackers",
             "Mana Reducers or Blockers"
         ],
-        "source": "Alliance-Knights Clash",
+        "source": "Alliance - Knights Clash",
         "Release date": "2021-10-13",
         "star": 4,
         "power": 680,
@@ -82595,7 +82595,7 @@ window.allHeroes =
             "Counterattackers",
             "Mana Reducers or Blockers"
         ],
-        "source": "Alliance-Knights Clash",
+        "source": "Alliance - Knights Clash",
         "Release date": "2024-12-17",
         "star": 4,
         "power": 719,
@@ -82682,7 +82682,7 @@ window.allHeroes =
             "AoE Attackers (Hit-3)",
             "Debuffers (DEF)"
         ],
-        "source": "S1-Classic",
+        "source": "S1 - Classic",
         "Release date": "2017-03-01",
         "star": 4,
         "power": 642,
@@ -82768,7 +82768,7 @@ window.allHeroes =
             "Healers (Special)",
             "Minions Counters"
         ],
-        "source": "S1-Classic",
+        "source": "S1 - Classic",
         "Release date": "2021-01-18",
         "star": 4,
         "power": 689,
@@ -82854,7 +82854,7 @@ window.allHeroes =
             "AoE Attackers (Hit-5)",
             "Dispellers"
         ],
-        "source": "S1-Classic",
+        "source": "S1 - Classic",
         "Release date": "2023-04-17",
         "star": 4,
         "power": 735,
@@ -82940,7 +82940,7 @@ window.allHeroes =
             "Debuffers (DEF)",
             "Extra Damage Dealers"
         ],
-        "source": "S1-Classic",
+        "source": "S1 - Classic",
         "Release date": "2024-05-06",
         "star": 4,
         "power": 747,
@@ -83030,7 +83030,7 @@ window.allHeroes =
             "Bypassers",
             "Debuffers (DEF)"
         ],
-        "source": "S1-Classic",
+        "source": "S1 - Classic",
         "Release date": "2025-05-10",
         "star": 4,
         "power": 760,
@@ -83118,7 +83118,7 @@ window.allHeroes =
             "AoE Attackers (Hit-3)",
             "Debuffers (DEF)"
         ],
-        "source": "Challenge Festival-Guardians",
+        "source": "Challenge Festival I",
         "Release date": "2017-10-05",
         "star": 4,
         "power": 646,
@@ -83204,7 +83204,7 @@ window.allHeroes =
             "Buff Blockers",
             "Immunity Providers"
         ],
-        "source": "Monthly Event-Beach Party",
+        "source": "Monthly Event - Beach Party",
         "Release date": "2023-06-12",
         "star": 4,
         "power": 686,
@@ -83293,7 +83293,7 @@ window.allHeroes =
             "Healers (Special)",
             "Snipers"
         ],
-        "source": "S5-Dune",
+        "source": "S5 - Dune",
         "Release date": "2022-04-21",
         "star": 4,
         "power": 683,
@@ -83382,7 +83382,7 @@ window.allHeroes =
             "Snipers",
             "Healers (Special)"
         ],
-        "source": "S5-Dune",
+        "source": "S5 - Dune",
         "Release date": "2024-11-01",
         "star": 4,
         "power": 700,
@@ -83473,7 +83473,7 @@ window.allHeroes =
             "DoT Attackers",
             "Snipers"
         ],
-        "source": "S1-Classic",
+        "source": "S1 - Classic",
         "Release date": "2017-03-01",
         "star": 4,
         "power": 644,
@@ -83556,7 +83556,7 @@ window.allHeroes =
         "skill_types": [
             "DoT Attackers"
         ],
-        "source": "S1-Classic",
+        "source": "S1 - Classic",
         "Release date": "2021-01-18",
         "star": 4,
         "power": 688,
@@ -83641,7 +83641,7 @@ window.allHeroes =
             "DoT Attackers",
             "Healers (Special)"
         ],
-        "source": "S1-Classic",
+        "source": "S1 - Classic",
         "Release date": "2022-09-05",
         "star": 4,
         "power": 734,
@@ -83727,7 +83727,7 @@ window.allHeroes =
             "Snipers",
             "Extra Damage Dealers"
         ],
-        "source": "S1-Classic",
+        "source": "S1 - Classic",
         "Release date": "2024-04-08",
         "star": 4,
         "power": 746,
@@ -83817,7 +83817,7 @@ window.allHeroes =
             "DoT Attackers",
             "Snipers"
         ],
-        "source": "S1-Classic",
+        "source": "S1 - Classic",
         "Release date": "2025-04-23",
         "star": 4,
         "power": 758,
@@ -83905,7 +83905,7 @@ window.allHeroes =
             "AoE Attackers (Hit-3)",
             "DoT Attackers"
         ],
-        "source": "Monthly Event-Kalevala",
+        "source": "Monthly Event - Kalevala",
         "Release date": "2022-06-20",
         "star": 4,
         "power": 682,
@@ -83996,7 +83996,7 @@ window.allHeroes =
             "Stacking Heroes",
             "Healers"
         ],
-        "source": "Tower-Magic",
+        "source": "Tower - Magic",
         "Release date": "2023-05-03",
         "star": 4,
         "power": 686,
@@ -84089,7 +84089,7 @@ window.allHeroes =
             "Buffers (ATK)",
             "Counterattackers"
         ],
-        "source": "S4-Wilderness",
+        "source": "S4 - Wilderness",
         "Release date": "2021-03-25",
         "star": 4,
         "power": 677,
@@ -84176,7 +84176,7 @@ window.allHeroes =
             "Counterattackers",
             "Buffers (ATK)"
         ],
-        "source": "S4-Wilderness",
+        "source": "S4 - Wilderness",
         "Release date": "2024-05-23",
         "star": 4,
         "power": 692,
@@ -84356,7 +84356,7 @@ window.allHeroes =
             "Status Effects Blockers",
             "Status Effect Conversion"
         ],
-        "source": "Tower-Magic",
+        "source": "Tower - Magic",
         "Release date": "2025-04-17",
         "star": 4,
         "power": 737,
@@ -84551,7 +84551,7 @@ window.allHeroes =
             "Mana Reducers or Blockers",
             "Immunity Providers"
         ],
-        "source": "Challenge-Secrets of the Opera",
+        "source": "Challenge - Secrets of the Opera",
         "Release date": "2023-11-30",
         "star": 4,
         "power": 691,
@@ -84645,7 +84645,7 @@ window.allHeroes =
             "DoT Attackers",
             "Negative Effects On Self Or Allies"
         ],
-        "source": "S4-Wilderness",
+        "source": "S4 - Wilderness",
         "Release date": "2021-03-25",
         "star": 4,
         "power": 677,
@@ -84733,7 +84733,7 @@ window.allHeroes =
             "DoT Attackers",
             "Negative Effects On Self Or Allies"
         ],
-        "source": "S4-Wilderness",
+        "source": "S4 - Wilderness",
         "Release date": "2024-04-25",
         "star": 4,
         "power": 692,
@@ -84820,7 +84820,7 @@ window.allHeroes =
             "AoE Attackers (Hit-3)",
             "Debuffers (ATK)"
         ],
-        "source": "S1-Classic",
+        "source": "S1 - Classic",
         "Release date": "2017-03-01",
         "star": 4,
         "power": 640,
@@ -84907,7 +84907,7 @@ window.allHeroes =
             "DoT Attackers",
             "AoE Attackers (Hit-3)"
         ],
-        "source": "S1-Classic",
+        "source": "S1 - Classic",
         "Release date": "2021-01-18",
         "star": 4,
         "power": 685,
@@ -84994,7 +84994,7 @@ window.allHeroes =
             "Debuffers (ATK)",
             "Stacking Heroes"
         ],
-        "source": "S1-Classic",
+        "source": "S1 - Classic",
         "Release date": "2023-10-30",
         "star": 4,
         "power": 731,
@@ -85080,7 +85080,7 @@ window.allHeroes =
             "Debuffers (ATK)",
             "Extra Damage Dealers"
         ],
-        "source": "S1-Classic",
+        "source": "S1 - Classic",
         "Release date": "2024-08-11",
         "star": 4,
         "power": 743,
@@ -85168,7 +85168,7 @@ window.allHeroes =
             "Buffers (ATK)",
             "Revivers"
         ],
-        "source": "S3-Valhalla",
+        "source": "S3 - Valhalla",
         "Release date": "2020-05-28",
         "star": 4,
         "power": 661,
@@ -85259,7 +85259,7 @@ window.allHeroes =
             "Cleansers",
             "Heal over Time (HoT)"
         ],
-        "source": "Tower-Ninjas",
+        "source": "Tower - Ninjas",
         "Release date": "2020-10-13",
         "star": 4,
         "power": 670,
@@ -85353,7 +85353,7 @@ window.allHeroes =
             "Mana Generation Buffers",
             "Snipers"
         ],
-        "source": "Challenge Festival-Avalon",
+        "source": "Challenge Festival I",
         "Release date": "2018-01-05",
         "star": 4,
         "power": 645,
@@ -85441,7 +85441,7 @@ window.allHeroes =
             "Mana Raisers",
             "Snipers"
         ],
-        "source": "S2-Atlantis",
+        "source": "S2 - Atlantis",
         "Release date": "2019-08-01",
         "star": 4,
         "power": 650,
@@ -85529,7 +85529,7 @@ window.allHeroes =
             "Mana Raisers",
             "Snipers"
         ],
-        "source": "S2-Atlantis",
+        "source": "S2 - Atlantis",
         "Release date": "2023-04-03",
         "star": 4,
         "power": 671,
@@ -85615,7 +85615,7 @@ window.allHeroes =
             "Extra Damage Dealers",
             "Negative Effects On Self Or Allies"
         ],
-        "source": "S3-Valhalla",
+        "source": "S3 - Valhalla",
         "Release date": "2020-02-27",
         "star": 4,
         "power": 662,
@@ -85700,7 +85700,7 @@ window.allHeroes =
             "Extra Damage Dealers",
             "Negative Effects On Self Or Allies"
         ],
-        "source": "S3-Valhalla",
+        "source": "S3 - Valhalla",
         "Release date": "2022-07-04",
         "star": 4,
         "power": 683,
@@ -85874,7 +85874,7 @@ window.allHeroes =
             "Damage Reducers",
             "Immunity Providers"
         ],
-        "source": "Challenge-Gargoyle",
+        "source": "Challenge - Gargoyle",
         "Release date": "2024-10-17",
         "star": 4,
         "power": 702,
@@ -85966,7 +85966,7 @@ window.allHeroes =
             "Damage Sharers",
             "Debuffers (DEF)"
         ],
-        "source": "S2-Atlantis",
+        "source": "S2 - Atlantis",
         "Release date": "2019-08-01",
         "star": 4,
         "power": 649,
@@ -86053,7 +86053,7 @@ window.allHeroes =
             "Buffers (ATK)",
             "Heal over Time (HoT)"
         ],
-        "source": "S2-Atlantis",
+        "source": "S2 - Atlantis",
         "Release date": "2022-05-02",
         "star": 4,
         "power": 671,
@@ -86139,7 +86139,7 @@ window.allHeroes =
             "Resurrection Inhibitors",
             "Snipers"
         ],
-        "source": "Challenge Festival-Bards",
+        "source": "Challenge Festival II",
         "Release date": "2022-08-11",
         "star": 4,
         "power": 682,
@@ -86411,7 +86411,7 @@ window.allHeroes =
             "DoT Attackers",
             "Negative Effects On Self Or Allies"
         ],
-        "source": "Mystery-Shadow",
+        "source": "Mystery - Shadow",
         "Release date": "2024-05-26",
         "star": 5,
         "power": 1133,
@@ -86510,7 +86510,7 @@ window.allHeroes =
             "Mana Generation Buffers",
             "Stacking Heroes"
         ],
-        "source": "S7-Treasures of Flame and Frost",
+        "source": "S7 - Treasures of Flame and Frost",
         "Release date": "2025-03-23",
         "star": 5,
         "power": 1184,
@@ -86606,7 +86606,7 @@ window.allHeroes =
             "Mana Raisers",
             "Minions Counters"
         ],
-        "source": "Monthly Event-Morlovia",
+        "source": "Monthly Event - Morlovia",
         "Release date": "2022-10-03",
         "star": 5,
         "power": 851,
@@ -86700,7 +86700,7 @@ window.allHeroes =
             "Mana Raisers",
             "Bypassers"
         ],
-        "source": "Monthly Event-Morlovia",
+        "source": "Monthly Event - Morlovia",
         "Release date": "2024-09-23",
         "star": 5,
         "power": 1013,
@@ -86792,7 +86792,7 @@ window.allHeroes =
             "Healing Reducers",
             "Snipers"
         ],
-        "source": "Monthly Event-Morlovia",
+        "source": "Monthly Event - Morlovia",
         "Release date": "2023-09-25",
         "star": 5,
         "power": 933,
@@ -86881,7 +86881,7 @@ window.allHeroes =
             "Dancers",
             "Buffers (DEF)"
         ],
-        "source": "Monthly Event-Beach Party",
+        "source": "Monthly Event - Beach Party",
         "Release date": "2025-06-03",
         "star": 5,
         "power": 1196,
@@ -87062,7 +87062,7 @@ window.allHeroes =
             "Healing Reducers",
             "Max Health Reducers"
         ],
-        "source": "Challenge-Carnival of Gods",
+        "source": "Challenge - Carnival of Gods",
         "Release date": "2023-07-13",
         "star": 5,
         "power": 936,
@@ -87523,7 +87523,7 @@ window.allHeroes =
             "DoT Attackers",
             "Effect Duration Resetters"
         ],
-        "source": "Challenge Festival-Villains",
+        "source": "Challenge Festival II",
         "Release date": "2021-02-11",
         "star": 5,
         "power": 802,
@@ -87614,7 +87614,7 @@ window.allHeroes =
             "Extra Damage Dealers",
             "Minions Counters"
         ],
-        "source": "Tower-Ninjas",
+        "source": "Tower - Ninjas",
         "Release date": "2025-03-05",
         "star": 5,
         "power": 1167,
@@ -87711,7 +87711,7 @@ window.allHeroes =
             "AoE Attackers (Hit-5)",
             "DoT Attackers"
         ],
-        "source": "S1-Classic",
+        "source": "S1 - Classic",
         "Release date": "2017-03-01",
         "star": 5,
         "power": 757,
@@ -87797,7 +87797,7 @@ window.allHeroes =
             "DoT Attackers",
             "Extra Damage Dealers"
         ],
-        "source": "S1-Classic",
+        "source": "S1 - Classic",
         "Release date": "2020-05-18",
         "star": 5,
         "power": 852,
@@ -87884,7 +87884,7 @@ window.allHeroes =
             "DoT Attackers",
             "Healers (Special)"
         ],
-        "source": "S1-Classic",
+        "source": "S1 - Classic",
         "Release date": "2023-02-20",
         "star": 5,
         "power": 967,
@@ -87970,7 +87970,7 @@ window.allHeroes =
             "DoT Attackers",
             "Extra Damage Dealers"
         ],
-        "source": "S1-Classic",
+        "source": "S1 - Classic",
         "Release date": "2023-10-30",
         "star": 5,
         "power": 1135,
@@ -88059,7 +88059,7 @@ window.allHeroes =
             "Bypassers",
             "DoT Attackers"
         ],
-        "source": "S1-Classic",
+        "source": "S1 - Classic",
         "Release date": "2024-12-24",
         "star": 5,
         "power": 1242,
@@ -88151,7 +88151,7 @@ window.allHeroes =
             "Immunity Providers",
             "AoE Attackers (Hit-5)"
         ],
-        "source": "S3-Valhalla",
+        "source": "S3 - Valhalla",
         "Release date": "2020-05-28",
         "star": 5,
         "power": 787,
@@ -88243,7 +88243,7 @@ window.allHeroes =
             "Snipers",
             "AoE Attackers (Hit-5)"
         ],
-        "source": "S3-Valhalla",
+        "source": "S3 - Valhalla",
         "Release date": "2022-11-21",
         "star": 5,
         "power": 986,
@@ -88333,7 +88333,7 @@ window.allHeroes =
             "AoE Attackers (Hit-3)",
             "DoT Attackers"
         ],
-        "source": "Challenge Festival-Pets",
+        "source": "Challenge Festival II",
         "Release date": "2023-05-18",
         "star": 5,
         "power": 879,
@@ -88425,7 +88425,7 @@ window.allHeroes =
             "AoE Attackers (Hit-5)",
             "Status Effects Blockers"
         ],
-        "source": "Alliance-Knights Clash",
+        "source": "Alliance - Knights Clash",
         "Release date": "2024-07-17",
         "star": 5,
         "power": 1078,
@@ -88522,7 +88522,7 @@ window.allHeroes =
             "Bypassers",
             "Stacking Heroes"
         ],
-        "source": "Challenge-Beowulf",
+        "source": "Challenge - Beowulf",
         "Release date": "2025-02-13",
         "star": 5,
         "power": 1184,
@@ -88715,7 +88715,7 @@ window.allHeroes =
             "Debuffers (ATK)",
             "Fiends Summoners"
         ],
-        "source": "Challenge Festival-Pirates",
+        "source": "Challenge Festival I",
         "Release date": "2023-12-28",
         "star": 5,
         "power": 987,
@@ -88805,7 +88805,7 @@ window.allHeroes =
             "Damage Reducers",
             "Taunters"
         ],
-        "source": "Challenge Festival-Avalon",
+        "source": "Challenge Festival I",
         "Release date": "2021-07-09",
         "star": 5,
         "power": 779,
@@ -88893,7 +88893,7 @@ window.allHeroes =
             "Damage Reducers",
             "Taunters"
         ],
-        "source": "Challenge Festival-Avalon",
+        "source": "Challenge Festival I",
         "Release date": "2022-06-16",
         "star": 5,
         "power": 978,
@@ -89260,7 +89260,7 @@ window.allHeroes =
             "AoE Attackers (Hit-3)",
             "Extra Damage Dealers"
         ],
-        "source": "Challenge Festival-Pirates",
+        "source": "Challenge Festival I",
         "Release date": "2017-09-07",
         "star": 5,
         "power": 765,
@@ -89344,7 +89344,7 @@ window.allHeroes =
             "Snipers",
             "Extra Damage Dealers"
         ],
-        "source": "S4-Wilderness",
+        "source": "S4 - Wilderness",
         "Release date": "2021-08-12",
         "star": 5,
         "power": 809,
@@ -89431,7 +89431,7 @@ window.allHeroes =
             "Extra Damage Dealers",
             "Buffers (ATK)"
         ],
-        "source": "S4-Wilderness",
+        "source": "S4 - Wilderness",
         "Release date": "2023-12-07",
         "star": 5,
         "power": 1024,
@@ -89522,7 +89522,7 @@ window.allHeroes =
             "Fiends Summoners",
             "DoT Attackers"
         ],
-        "source": "Alliance-Musketeers",
+        "source": "Alliance - Musketeers",
         "Release date": "2023-09-20",
         "star": 5,
         "power": 928,
@@ -89613,7 +89613,7 @@ window.allHeroes =
             "Effect Duration Resetters",
             "Cleansers"
         ],
-        "source": "Challenge-Carnival of Gods",
+        "source": "Challenge - Carnival of Gods",
         "Release date": "2023-09-14",
         "star": 5,
         "power": 940,
@@ -89802,7 +89802,7 @@ window.allHeroes =
             "Immunity Providers",
             "Buff Blockers"
         ],
-        "source": "Challenge-Secrets of the Opera",
+        "source": "Challenge - Secrets of the Opera",
         "Release date": "2024-09-19",
         "star": 5,
         "power": 1100,
@@ -89990,7 +89990,7 @@ window.allHeroes =
             "DoT Attackers",
             "Healers (Special)"
         ],
-        "source": "Challenge Festival-Pets",
+        "source": "Challenge Festival II",
         "Release date": "2022-11-03",
         "star": 5,
         "power": 876,
@@ -90085,7 +90085,7 @@ window.allHeroes =
             "Dodgers",
             "Minions Counters"
         ],
-        "source": "Alliance-Moths",
+        "source": "Alliance - Moths",
         "Release date": "2025-01-23",
         "star": 5,
         "power": 1178,
@@ -90179,7 +90179,7 @@ window.allHeroes =
             "Damage Sharers",
             "Debuffers (DEF)"
         ],
-        "source": "Challenge Festival-Grim Forest",
+        "source": "Challenge Festival I",
         "Release date": "2024-02-22",
         "star": 5,
         "power": 1007,
@@ -90364,7 +90364,7 @@ window.allHeroes =
             "Minions Summoners",
             "AoE Attackers (Hit-3)"
         ],
-        "source": "Monthly Event-Winter",
+        "source": "Monthly Event - Winter",
         "Release date": "2023-12-01",
         "star": 5,
         "power": 949,
@@ -90451,7 +90451,7 @@ window.allHeroes =
             "Healers (Special)",
             "Mindless Attack & Mindless Heal"
         ],
-        "source": "Monthly Event-Love Season",
+        "source": "Monthly Event - Love Season",
         "Release date": "2023-02-14",
         "star": 5,
         "power": 862,
@@ -90541,7 +90541,7 @@ window.allHeroes =
             "Snipers",
             "Heal over Time (HoT)"
         ],
-        "source": "Alliance-Musketeers",
+        "source": "Alliance - Musketeers",
         "Release date": "2022-12-14",
         "star": 5,
         "power": 878,
@@ -90633,7 +90633,7 @@ window.allHeroes =
             "Snipers",
             "Status Effects Blockers"
         ],
-        "source": "Alliance-Knights Clash",
+        "source": "Alliance - Knights Clash",
         "Release date": "2024-01-10",
         "star": 5,
         "power": 1027,
@@ -90818,7 +90818,7 @@ window.allHeroes =
             "Debuffers (DEF)",
             "DoT Attackers"
         ],
-        "source": "S6-Mysteries of the Deep",
+        "source": "S6 - Mysteries of the Deep",
         "Release date": "2023-12-13",
         "star": 5,
         "power": 999,
@@ -90914,7 +90914,7 @@ window.allHeroes =
             "DoT Attackers",
             "Debuffers (DEF)"
         ],
-        "source": "S6-Mysteries of the Deep",
+        "source": "S6 - Mysteries of the Deep",
         "Release date": "2024-12-14",
         "star": 5,
         "power": 1245,
@@ -91110,7 +91110,7 @@ window.allHeroes =
             "Health Boosters",
             "Resurrection Inhibitors"
         ],
-        "source": "Challenge Festival-Bards",
+        "source": "Challenge Festival II",
         "Release date": "2025-06-15",
         "star": 5,
         "power": 1211,
@@ -91296,7 +91296,7 @@ window.allHeroes =
             "Debuffers (DEF)",
             "Damage Reducers"
         ],
-        "source": "Challenge-Gargoyle",
+        "source": "Challenge - Gargoyle",
         "Release date": "2022-05-12",
         "star": 5,
         "power": 841,
@@ -91385,7 +91385,7 @@ window.allHeroes =
             "Counterattackers",
             "Healers"
         ],
-        "source": "Monthly Event-Love Season",
+        "source": "Monthly Event - Love Season",
         "Release date": "2024-01-08",
         "star": 5,
         "power": 966,
@@ -91473,7 +91473,7 @@ window.allHeroes =
             "AoE Attackers (Hit-5)",
             "Counterattackers"
         ],
-        "source": "S1-Classic",
+        "source": "S1 - Classic",
         "Release date": "2017-03-01",
         "star": 5,
         "power": 753,
@@ -91558,7 +91558,7 @@ window.allHeroes =
             "AoE Attackers (Hit-5)",
             "Counterattackers"
         ],
-        "source": "S1-Classic",
+        "source": "S1 - Classic",
         "Release date": "2020-01-20",
         "star": 5,
         "power": 848,
@@ -91643,7 +91643,7 @@ window.allHeroes =
             "AoE Attackers (Hit-5)",
             "Counterattackers"
         ],
-        "source": "S1-Classic",
+        "source": "S1 - Classic",
         "Release date": "2023-08-07",
         "star": 5,
         "power": 964,
@@ -91729,7 +91729,7 @@ window.allHeroes =
             "Counterattackers",
             "Extra Damage Dealers"
         ],
-        "source": "S1-Classic",
+        "source": "S1 - Classic",
         "Release date": "2024-05-31",
         "star": 5,
         "power": 1129,
@@ -91913,7 +91913,7 @@ window.allHeroes =
             "Mana Reducers or Blockers",
             "DoT Attackers"
         ],
-        "source": "S4-Wilderness",
+        "source": "S4 - Wilderness",
         "Release date": "2021-03-25",
         "star": 5,
         "power": 807,
@@ -92007,7 +92007,7 @@ window.allHeroes =
             "Extra Damage Dealers",
             "Buffers (ATK)"
         ],
-        "source": "S4-Wilderness",
+        "source": "S4 - Wilderness",
         "Release date": "2023-04-27",
         "star": 5,
         "power": 1021,
@@ -92191,7 +92191,7 @@ window.allHeroes =
             "Heal over Time (HoT)",
             "Immunity Providers"
         ],
-        "source": "Challenge Festival-Starfall",
+        "source": "Challenge Festival II",
         "Release date": "2021-06-10",
         "star": 5,
         "power": 809,
@@ -92286,7 +92286,7 @@ window.allHeroes =
             "Heal over Time (HoT)",
             "Immunity Providers"
         ],
-        "source": "Challenge Festival-Starfall",
+        "source": "Challenge Festival II",
         "Release date": "2025-04-09",
         "star": 5,
         "power": 1210,
@@ -92381,7 +92381,7 @@ window.allHeroes =
             "Minions Counters",
             "Snipers"
         ],
-        "source": "Tower-Styx",
+        "source": "Tower - Styx",
         "Release date": "2022-09-21",
         "star": 5,
         "power": 857,
@@ -92481,7 +92481,7 @@ window.allHeroes =
             "Mindless Attack & Mindless Heal",
             "Debuffers (DEF)"
         ],
-        "source": "Tower-Owls",
+        "source": "Tower - Owls",
         "Release date": "2024-05-08",
         "star": 5,
         "power": 1046,
@@ -92575,7 +92575,7 @@ window.allHeroes =
             "Ghost Form & Hiding",
             "Bypassers"
         ],
-        "source": "Extra Draw-Secret Summon",
+        "source": "Extra Draw - Secret Summon",
         "Release date": "2025-05-31",
         "star": 5,
         "power": 1200,
@@ -92763,7 +92763,7 @@ window.allHeroes =
             "Bypassers",
             "Healers"
         ],
-        "source": "Monthly Event-Beach Party",
+        "source": "Monthly Event - Beach Party",
         "Release date": "2023-06-12",
         "star": 5,
         "power": 873,
@@ -92854,7 +92854,7 @@ window.allHeroes =
             "Bypassers",
             "Healers"
         ],
-        "source": "Monthly Event-Beach Party",
+        "source": "Monthly Event - Beach Party",
         "Release date": "2025-06-03",
         "star": 5,
         "power": 1184,
@@ -92946,7 +92946,7 @@ window.allHeroes =
             "Healing Reducers",
             "Mana Reducers or Blockers"
         ],
-        "source": "Tower-Owls",
+        "source": "Tower - Owls",
         "Release date": "2023-12-20",
         "star": 5,
         "power": 985,
@@ -93035,7 +93035,7 @@ window.allHeroes =
             "Health Boosters",
             "Immunity Providers"
         ],
-        "source": "Tower-Ninjas",
+        "source": "Tower - Ninjas",
         "Release date": "2020-10-13",
         "star": 5,
         "power": 798,
@@ -93127,7 +93127,7 @@ window.allHeroes =
             "Minions Counters",
             "Snipers"
         ],
-        "source": "S3-Valhalla",
+        "source": "S3 - Valhalla",
         "Release date": "2020-10-22",
         "star": 5,
         "power": 785,
@@ -93212,7 +93212,7 @@ window.allHeroes =
             "AoE Attackers (Hit-3)",
             "Minions Counters"
         ],
-        "source": "S3-Valhalla",
+        "source": "S3 - Valhalla",
         "Release date": "2022-09-26",
         "star": 5,
         "power": 983,
@@ -93298,7 +93298,7 @@ window.allHeroes =
             "Debuffers (DEF)",
             "Mana Reducers or Blockers"
         ],
-        "source": "S6-Mysteries of the Deep",
+        "source": "S6 - Mysteries of the Deep",
         "Release date": "2023-09-27",
         "star": 5,
         "power": 957,
@@ -93399,7 +93399,7 @@ window.allHeroes =
             "Debuffers (DEF)",
             "Mana Reducers or Blockers"
         ],
-        "source": "S6-Mysteries of the Deep",
+        "source": "S6 - Mysteries of the Deep",
         "Release date": "2024-06-20",
         "star": 5,
         "power": 1190,
@@ -93864,7 +93864,7 @@ window.allHeroes =
             "Buffers (DEF)",
             "Cleansers"
         ],
-        "source": "Challenge Festival-Guardians",
+        "source": "Challenge Festival I",
         "Release date": "2020-05-01",
         "star": 5,
         "power": 765,
@@ -93953,7 +93953,7 @@ window.allHeroes =
             "Dispellers",
             "Reflectors"
         ],
-        "source": "Challenge Festival-Guardians",
+        "source": "Challenge Festival I",
         "Release date": "2022-04-14",
         "star": 5,
         "power": 960,
@@ -94044,7 +94044,7 @@ window.allHeroes =
             "Immunity Providers",
             "Healers"
         ],
-        "source": "Challenge-Gargoyle",
+        "source": "Challenge - Gargoyle",
         "Release date": "2024-07-25",
         "star": 5,
         "power": 1080,
@@ -94227,7 +94227,7 @@ window.allHeroes =
             "Health Boosters",
             "Immunity Providers"
         ],
-        "source": "S5-Dune",
+        "source": "S5 - Dune",
         "Release date": "2022-12-22",
         "star": 5,
         "power": 843,
@@ -94318,7 +94318,7 @@ window.allHeroes =
             "Heal over Time (HoT)",
             "Mana Raisers"
         ],
-        "source": "S5-Dune",
+        "source": "S5 - Dune",
         "Release date": "2024-02-05",
         "star": 5,
         "power": 1178,
@@ -94412,7 +94412,7 @@ window.allHeroes =
             "Snipers",
             "Damage Reducers"
         ],
-        "source": "Challenge-Gargoyle",
+        "source": "Challenge - Gargoyle",
         "Release date": "2022-09-08",
         "star": 5,
         "power": 841,
@@ -94598,7 +94598,7 @@ window.allHeroes =
             "Buff Blockers",
             "Dispellers"
         ],
-        "source": "Tower-Styx",
+        "source": "Tower - Styx",
         "Release date": "2022-06-01",
         "star": 5,
         "power": 849,
@@ -94983,7 +94983,7 @@ window.allHeroes =
             "Mana Reducers or Blockers",
             "Debuffers (DEF)"
         ],
-        "source": "Monthly Event-Kalevala",
+        "source": "Monthly Event - Kalevala",
         "Release date": "2022-06-20",
         "star": 5,
         "power": 937,
@@ -95259,7 +95259,7 @@ window.allHeroes =
             "Counterattackers",
             "Mana Raisers"
         ],
-        "source": "Challenge Festival-Villains",
+        "source": "Challenge Festival II",
         "Release date": "2021-02-11",
         "star": 5,
         "power": 804,
@@ -95437,7 +95437,7 @@ window.allHeroes =
             "Buffers (DEF)",
             "Mana Generation Buffers"
         ],
-        "source": "S1-Classic",
+        "source": "S1 - Classic",
         "Release date": "2017-03-01",
         "star": 5,
         "power": 757,
@@ -95525,7 +95525,7 @@ window.allHeroes =
             "Mana Generation Buffers",
             "Snipers"
         ],
-        "source": "S1-Classic",
+        "source": "S1 - Classic",
         "Release date": "2021-01-18",
         "star": 5,
         "power": 853,
@@ -95613,7 +95613,7 @@ window.allHeroes =
             "Mana Raisers",
             "Buffers (DEF)"
         ],
-        "source": "S1-Classic",
+        "source": "S1 - Classic",
         "Release date": "2022-09-05",
         "star": 5,
         "power": 969,
@@ -95702,7 +95702,7 @@ window.allHeroes =
             "Buffers (DEF)",
             "Extra Damage Dealers"
         ],
-        "source": "S1-Classic",
+        "source": "S1 - Classic",
         "Release date": "2024-04-08",
         "star": 5,
         "power": 1136,
@@ -95795,7 +95795,7 @@ window.allHeroes =
             "Bypassers",
             "Mana Generation Buffers"
         ],
-        "source": "S1-Classic",
+        "source": "S1 - Classic",
         "Release date": "2025-06-18",
         "star": 5,
         "power": 1241,
@@ -95886,7 +95886,7 @@ window.allHeroes =
             "Debuffers (DEF)",
             "Snipers"
         ],
-        "source": "S5-Dune",
+        "source": "S5 - Dune",
         "Release date": "2022-04-21",
         "star": 5,
         "power": 858,
@@ -95977,7 +95977,7 @@ window.allHeroes =
             "Snipers",
             "Chain & Random Attackers"
         ],
-        "source": "S5-Dune",
+        "source": "S5 - Dune",
         "Release date": "2024-11-01",
         "star": 5,
         "power": 1200,
@@ -96069,7 +96069,7 @@ window.allHeroes =
             "AoE Attackers (Hit-3)",
             "Resurrection Inhibitors"
         ],
-        "source": "S4-Wilderness",
+        "source": "S4 - Wilderness",
         "Release date": "2022-02-24",
         "star": 5,
         "power": 814,
@@ -96157,7 +96157,7 @@ window.allHeroes =
             "Resurrection Inhibitors",
             "AoE Attackers (Hit-3)"
         ],
-        "source": "S4-Wilderness",
+        "source": "S4 - Wilderness",
         "Release date": "2024-09-26",
         "star": 5,
         "power": 1031,
@@ -96247,7 +96247,7 @@ window.allHeroes =
             "Cleansers",
             "Extra Damage Dealers"
         ],
-        "source": "S3-Valhalla",
+        "source": "S3 - Valhalla",
         "Release date": "2020-07-23",
         "star": 5,
         "power": 787,
@@ -96334,7 +96334,7 @@ window.allHeroes =
             "Cleansers",
             "Extra Damage Dealers"
         ],
-        "source": "S3-Valhalla",
+        "source": "S3 - Valhalla",
         "Release date": "2023-10-23",
         "star": 5,
         "power": 985,
@@ -96421,7 +96421,7 @@ window.allHeroes =
             "Snipers",
             "DoT Attackers"
         ],
-        "source": "S6-Mysteries of the Deep",
+        "source": "S6 - Mysteries of the Deep",
         "Release date": "2023-06-07",
         "star": 5,
         "power": 935,
@@ -96521,7 +96521,7 @@ window.allHeroes =
             "Fiends Summoners",
             "DoT Attackers"
         ],
-        "source": "S6-Mysteries of the Deep",
+        "source": "S6 - Mysteries of the Deep",
         "Release date": "2024-09-21",
         "star": 5,
         "power": 1163,
@@ -96621,7 +96621,7 @@ window.allHeroes =
             "Silencers",
             "Status Effects Blockers"
         ],
-        "source": "Alliance-Knights Clash",
+        "source": "Alliance - Knights Clash",
         "Release date": "2022-01-05",
         "star": 5,
         "power": 822,
@@ -96807,7 +96807,7 @@ window.allHeroes =
             "Mana Reducers or Blockers",
             "Snipers"
         ],
-        "source": "Tower-Owls",
+        "source": "Tower - Owls",
         "Release date": "2024-02-14",
         "star": 5,
         "power": 1004,
@@ -96996,7 +96996,7 @@ window.allHeroes =
             "Healing Reducers",
             "Minions Counters"
         ],
-        "source": "Tower-Ninjas",
+        "source": "Tower - Ninjas",
         "Release date": "2024-09-24",
         "star": 5,
         "power": 1102,
@@ -97094,7 +97094,7 @@ window.allHeroes =
             "DoT Attackers",
             "Snipers"
         ],
-        "source": "S1-Classic",
+        "source": "S1 - Classic",
         "Release date": "2017-03-01",
         "star": 5,
         "power": 755,
@@ -97181,7 +97181,7 @@ window.allHeroes =
             "Debuffers (DEF)",
             "Debuffers (ATK)"
         ],
-        "source": "S1-Classic",
+        "source": "S1 - Classic",
         "Release date": "2021-01-18",
         "star": 5,
         "power": 849,
@@ -97269,7 +97269,7 @@ window.allHeroes =
             "Debuffers (DEF)",
             "DoT Attackers"
         ],
-        "source": "S1-Classic",
+        "source": "S1 - Classic",
         "Release date": "2023-06-12",
         "star": 5,
         "power": 965,
@@ -97356,7 +97356,7 @@ window.allHeroes =
             "Extra Damage Dealers",
             "Snipers"
         ],
-        "source": "S1-Classic",
+        "source": "S1 - Classic",
         "Release date": "2023-12-25",
         "star": 5,
         "power": 1132,
@@ -97446,7 +97446,7 @@ window.allHeroes =
             "DoT Attackers",
             "Snipers"
         ],
-        "source": "S1-Classic",
+        "source": "S1 - Classic",
         "Release date": "2025-02-10",
         "star": 5,
         "power": 1237,
@@ -97537,7 +97537,7 @@ window.allHeroes =
             "Mana Reducers or Blockers",
             "Reflectors"
         ],
-        "source": "S2-Atlantis",
+        "source": "S2 - Atlantis",
         "Release date": "2019-02-01",
         "star": 5,
         "power": 775,
@@ -97626,7 +97626,7 @@ window.allHeroes =
             "Reflectors",
             "Mana Reducers or Blockers"
         ],
-        "source": "S2-Atlantis",
+        "source": "S2 - Atlantis",
         "Release date": "2023-03-06",
         "star": 5,
         "power": 947,
@@ -97718,7 +97718,7 @@ window.allHeroes =
             "Heal over Time (HoT)",
             "Revivers"
         ],
-        "source": "Tower-Magic",
+        "source": "Tower - Magic",
         "Release date": "2021-09-15",
         "star": 5,
         "power": 818,
@@ -97815,7 +97815,7 @@ window.allHeroes =
             "DoT Attackers",
             "Status Effect Conversion"
         ],
-        "source": "Tower-Magic",
+        "source": "Tower - Magic",
         "Release date": "2025-04-17",
         "star": 5,
         "power": 1200,
@@ -98372,7 +98372,7 @@ window.allHeroes =
             "Mana Generation Buffers",
             "Minions Counters"
         ],
-        "source": "Tower-Ninjas",
+        "source": "Tower - Ninjas",
         "Release date": "2024-08-27",
         "star": 5,
         "power": 1093,
@@ -98654,7 +98654,7 @@ window.allHeroes =
             "Buffers (ATK)",
             "Buffers (DEF)"
         ],
-        "source": "S2-Atlantis",
+        "source": "S2 - Atlantis",
         "Release date": "2022-06-27",
         "star": 5,
         "power": 835,
@@ -98741,7 +98741,7 @@ window.allHeroes =
             "Debuffers (ATK)",
             "Extra Damage Dealers"
         ],
-        "source": "S4-Wilderness",
+        "source": "S4 - Wilderness",
         "Release date": "2021-10-07",
         "star": 5,
         "power": 810,
@@ -98831,7 +98831,7 @@ window.allHeroes =
             "Extra Damage Dealers",
             "Buffers (ATK)"
         ],
-        "source": "S4-Wilderness",
+        "source": "S4 - Wilderness",
         "Release date": "2023-08-17",
         "star": 5,
         "power": 1027,
@@ -98923,7 +98923,7 @@ window.allHeroes =
             "DoT Attackers",
             "Negative Effects On Self Or Allies"
         ],
-        "source": "Mystery-Shadow",
+        "source": "Mystery - Shadow",
         "Release date": "2024-04-21",
         "star": 5,
         "power": 1127,
@@ -99110,7 +99110,7 @@ window.allHeroes =
             "Healers (Special)",
             "Minions Summoners"
         ],
-        "source": "Monthly Event-Winter",
+        "source": "Monthly Event - Winter",
         "Release date": "2024-12-01",
         "star": 5,
         "power": 1124,
@@ -99293,7 +99293,7 @@ window.allHeroes =
             "Healers",
             "Resurrection Inhibitors"
         ],
-        "source": "Challenge Festival-Bards",
+        "source": "Challenge Festival II",
         "Release date": "2022-08-11",
         "star": 5,
         "power": 869,
@@ -99479,7 +99479,7 @@ window.allHeroes =
             "Minions Summoners",
             "Negative Effects On Self Or Allies"
         ],
-        "source": "Challenge Festival-Grim Forest",
+        "source": "Challenge Festival I",
         "Release date": "2019-12-01",
         "star": 5,
         "power": 781,
@@ -99569,7 +99569,7 @@ window.allHeroes =
             "Minions Summoners",
             "Negative Effects On Self Or Allies"
         ],
-        "source": "Challenge Festival-Grim Forest",
+        "source": "Challenge Festival I",
         "Release date": "2023-08-10",
         "star": 5,
         "power": 978,
@@ -99659,7 +99659,7 @@ window.allHeroes =
             "Minions Summoners",
             "Taunters"
         ],
-        "source": "Challenge Festival-Wonderland",
+        "source": "Challenge Festival I",
         "Release date": "2019-02-14",
         "star": 5,
         "power": 768,
@@ -99749,7 +99749,7 @@ window.allHeroes =
             "Minions Summoners",
             "Taunters"
         ],
-        "source": "Challenge Festival-Wonderland",
+        "source": "Challenge Festival I",
         "Release date": "2023-10-05",
         "star": 5,
         "power": 965,
@@ -99944,7 +99944,7 @@ window.allHeroes =
             "Snipers",
             "Negative Effects On Self Or Allies"
         ],
-        "source": "Mystery-Shadow",
+        "source": "Mystery - Shadow",
         "Release date": "2024-07-18",
         "star": 5,
         "power": 1141,
@@ -100045,7 +100045,7 @@ window.allHeroes =
             "Mana Reducers or Blockers",
             "Mana Raisers"
         ],
-        "source": "Tower-Magic",
+        "source": "Tower - Magic",
         "Release date": "2023-05-03",
         "star": 5,
         "power": 890,
@@ -100142,7 +100142,7 @@ window.allHeroes =
             "Heal over Time (HoT)",
             "Minions Summoners"
         ],
-        "source": "Challenge Festival-Grim Forest",
+        "source": "Challenge Festival I",
         "Release date": "2019-12-01",
         "star": 5,
         "power": 767,
@@ -100234,7 +100234,7 @@ window.allHeroes =
             "Debuffers (DEF)",
             "Bypassers"
         ],
-        "source": "S7-Treasures of Flame and Frost",
+        "source": "S7 - Treasures of Flame and Frost",
         "Release date": "2024-12-03",
         "star": 5,
         "power": 1165,
@@ -100602,7 +100602,7 @@ window.allHeroes =
             "Chain & Random Attackers",
             "Negative Effects On Self Or Allies"
         ],
-        "source": "Mystery-Shadow",
+        "source": "Mystery - Shadow",
         "Release date": "2025-04-03",
         "star": 5,
         "power": 1182,
@@ -100886,7 +100886,7 @@ window.allHeroes =
             "Mana Reducers or Blockers",
             "Snipers"
         ],
-        "source": "Tower-Ninjas",
+        "source": "Tower - Ninjas",
         "Release date": "2021-11-10",
         "star": 5,
         "power": 818,
@@ -101171,7 +101171,7 @@ window.allHeroes =
             "Max Health Reducers",
             "Healing Reducers"
         ],
-        "source": "Challenge Festival-Bards",
+        "source": "Challenge Festival II",
         "Release date": "2024-12-12",
         "star": 5,
         "power": 1151,
@@ -101266,7 +101266,7 @@ window.allHeroes =
             "Debuffers (DEF)",
             "Minions Summoners"
         ],
-        "source": "Monthly Event-Winter",
+        "source": "Monthly Event - Winter",
         "Release date": "2018-12-01",
         "star": 5,
         "power": 774,
@@ -101357,7 +101357,7 @@ window.allHeroes =
             "Debuffers (DEF)",
             "Minions Summoners"
         ],
-        "source": "Monthly Event-Winter",
+        "source": "Monthly Event - Winter",
         "Release date": "2021-12-01",
         "star": 5,
         "power": 1002,
@@ -101450,7 +101450,7 @@ window.allHeroes =
             "Mana Generation Buffers",
             "Heal over Time (HoT)"
         ],
-        "source": "Challenge Festival-Slayers",
+        "source": "Challenge Festival II",
         "Release date": "2021-08-05",
         "star": 5,
         "power": 810,
@@ -101546,7 +101546,7 @@ window.allHeroes =
             "Healers (Special)",
             "DoT Attackers"
         ],
-        "source": "Challenge Festival-Slayers",
+        "source": "Challenge Festival II",
         "Release date": "2024-11-14",
         "star": 5,
         "power": 1212,
@@ -101732,7 +101732,7 @@ window.allHeroes =
             "Healers (Special)",
             "Snipers"
         ],
-        "source": "S5-Dune",
+        "source": "S5 - Dune",
         "Release date": "2022-09-01",
         "star": 5,
         "power": 863,
@@ -101821,7 +101821,7 @@ window.allHeroes =
             "Snipers",
             "Healers (Special)"
         ],
-        "source": "S5-Dune",
+        "source": "S5 - Dune",
         "Release date": "2025-03-17",
         "star": 5,
         "power": 1206,
@@ -101915,7 +101915,7 @@ window.allHeroes =
             "DoT Attackers",
             "Healing Reducers"
         ],
-        "source": "Tower-Ninjas",
+        "source": "Tower - Ninjas",
         "Release date": "2023-01-11",
         "star": 5,
         "power": 867,
@@ -102474,7 +102474,7 @@ window.allHeroes =
             "Debuffers (DEF)",
             "Mana Raisers"
         ],
-        "source": "S5-Dune",
+        "source": "S5 - Dune",
         "Release date": "2022-10-27",
         "star": 5,
         "power": 864,
@@ -102565,7 +102565,7 @@ window.allHeroes =
             "Debuffers (DEF)",
             "Mana Raisers"
         ],
-        "source": "S5-Dune",
+        "source": "S5 - Dune",
         "Release date": "2024-05-27",
         "star": 5,
         "power": 1207,
@@ -102658,7 +102658,7 @@ window.allHeroes =
             "Buffers (ATK)",
             "Negative Effects On Self Or Allies"
         ],
-        "source": "Monthly Event-Springvale",
+        "source": "Monthly Event - Springvale",
         "Release date": "2024-03-18",
         "star": 5,
         "power": 999,
@@ -102747,7 +102747,7 @@ window.allHeroes =
             "DoT Attackers",
             "Damage Sharers"
         ],
-        "source": "Alliance-Knights Clash",
+        "source": "Alliance - Knights Clash",
         "Release date": "2023-10-18",
         "star": 5,
         "power": 980,
@@ -102841,7 +102841,7 @@ window.allHeroes =
             "Revivers",
             "Snipers"
         ],
-        "source": "S3-Valhalla",
+        "source": "S3 - Valhalla",
         "Release date": "2020-02-28",
         "star": 5,
         "power": 790,
@@ -102934,7 +102934,7 @@ window.allHeroes =
             "Healers (Special)",
             "Revivers"
         ],
-        "source": "S3-Valhalla",
+        "source": "S3 - Valhalla",
         "Release date": "2023-02-13",
         "star": 5,
         "power": 989,
@@ -103025,7 +103025,7 @@ window.allHeroes =
             "Heal over Time (HoT)",
             "Immunity Providers"
         ],
-        "source": "Monthly Event-Kalevala",
+        "source": "Monthly Event - Kalevala",
         "Release date": "2023-08-07",
         "star": 5,
         "power": 917,
@@ -103118,7 +103118,7 @@ window.allHeroes =
             "Heal over Time (HoT)",
             "Immunity Providers"
         ],
-        "source": "Monthly Event-Kalevala",
+        "source": "Monthly Event - Kalevala",
         "Release date": "2024-07-22",
         "star": 5,
         "power": 1189,
@@ -103210,7 +103210,7 @@ window.allHeroes =
             "Healing Reducers",
             "Immunity Providers"
         ],
-        "source": "Monthly Event-Morlovia",
+        "source": "Monthly Event - Morlovia",
         "Release date": "2020-10-26",
         "star": 5,
         "power": 795,
@@ -103301,7 +103301,7 @@ window.allHeroes =
             "Healing Reducers",
             "Immunity Providers"
         ],
-        "source": "Monthly Event-Morlovia",
+        "source": "Monthly Event - Morlovia",
         "Release date": "2021-10-04",
         "star": 5,
         "power": 944,
@@ -103484,7 +103484,7 @@ window.allHeroes =
             "Mana Raisers",
             "Mana Reducers or Blockers"
         ],
-        "source": "S4-Wilderness",
+        "source": "S4 - Wilderness",
         "Release date": "2022-12-08",
         "star": 5,
         "power": 852,
@@ -103576,7 +103576,7 @@ window.allHeroes =
             "Mana Raisers",
             "Mana Reducers or Blockers"
         ],
-        "source": "S4-Wilderness",
+        "source": "S4 - Wilderness",
         "Release date": "2024-05-23",
         "star": 5,
         "power": 1081,
@@ -103666,7 +103666,7 @@ window.allHeroes =
             "Minions Counters",
             "Snipers"
         ],
-        "source": "Monthly Event-Lunar Year",
+        "source": "Monthly Event - Lunar Year",
         "Release date": "2023-01-19",
         "star": 5,
         "power": 862,
@@ -104311,7 +104311,7 @@ window.allHeroes =
             "Buffers (ATK)",
             "Snipers"
         ],
-        "source": "S4-Wilderness",
+        "source": "S4 - Wilderness",
         "Release date": "2021-09-09",
         "star": 5,
         "power": 809,
@@ -104403,7 +104403,7 @@ window.allHeroes =
             "Buffers (ATK)",
             "Extra Damage Dealers"
         ],
-        "source": "S4-Wilderness",
+        "source": "S4 - Wilderness",
         "Release date": "2024-02-29",
         "star": 5,
         "power": 1024,
@@ -104769,7 +104769,7 @@ window.allHeroes =
         "skill_types": [
             "Snipers"
         ],
-        "source": "S1-Classic",
+        "source": "S1 - Classic",
         "Release date": "2017-03-01",
         "star": 1,
         "power": 213,
@@ -104799,7 +104799,7 @@ window.allHeroes =
         "skill_types": [
             "AoE Attackers (Hit-5)"
         ],
-        "source": "S1-Classic",
+        "source": "S1 - Classic",
         "Release date": "2017-03-01",
         "star": 1,
         "power": 211,
@@ -104829,7 +104829,7 @@ window.allHeroes =
         "skill_types": [
             "Buffers (DEF)"
         ],
-        "source": "S1-Classic",
+        "source": "S1 - Classic",
         "Release date": "2017-03-01",
         "star": 2,
         "power": 336,
@@ -104861,7 +104861,7 @@ window.allHeroes =
             "Debuffers (ATK)",
             "Snipers"
         ],
-        "source": "S1-Classic",
+        "source": "S1 - Classic",
         "Release date": "2017-03-01",
         "star": 2,
         "power": 335,
@@ -104892,7 +104892,7 @@ window.allHeroes =
         "skill_types": [
             "Healers"
         ],
-        "source": "S1-Classic",
+        "source": "S1 - Classic",
         "Release date": "2017-03-01",
         "star": 2,
         "power": 334,
@@ -104923,7 +104923,7 @@ window.allHeroes =
             "Bypassers",
             "Snipers"
         ],
-        "source": "S3-Valhalla",
+        "source": "S3 - Valhalla",
         "Release date": "2020-05-28",
         "star": 3,
         "power": 464,
@@ -105012,7 +105012,7 @@ window.allHeroes =
             "DoT Attackers",
             "Healing Reducers"
         ],
-        "source": "Monthly Event-Sand Empire",
+        "source": "Monthly Event - Sand Empire",
         "Release date": "2018-06-21",
         "star": 3,
         "power": 448,
@@ -105099,7 +105099,7 @@ window.allHeroes =
             "Debuffers (ATK)",
             "Snipers"
         ],
-        "source": "S1-Classic",
+        "source": "S1 - Classic",
         "Release date": "2017-03-01",
         "star": 3,
         "power": 440,
@@ -105184,7 +105184,7 @@ window.allHeroes =
             "Debuffers (ATK)",
             "Snipers"
         ],
-        "source": "S1-Classic",
+        "source": "S1 - Classic",
         "Release date": "2020-01-20",
         "star": 3,
         "power": 469,
@@ -105270,7 +105270,7 @@ window.allHeroes =
             "Debuffers (ATK)",
             "Extra Damage Dealers"
         ],
-        "source": "S1-Classic",
+        "source": "S1 - Classic",
         "Release date": "2024-03-11",
         "star": 3,
         "power": 502,
@@ -105360,7 +105360,7 @@ window.allHeroes =
             "Debuffers (ATK)",
             "Snipers"
         ],
-        "source": "S1-Classic",
+        "source": "S1 - Classic",
         "Release date": "2025-05-10",
         "star": 3,
         "power": 511,
@@ -105446,7 +105446,7 @@ window.allHeroes =
         "skill_types": [
             "Buffers (ATK)"
         ],
-        "source": "Alliance-Knights Clash",
+        "source": "Alliance - Knights Clash",
         "Release date": "2021-10-13",
         "star": 3,
         "power": 480,
@@ -105530,7 +105530,7 @@ window.allHeroes =
             "Heal over Time (HoT)",
             "Healers"
         ],
-        "source": "Challenge Festival-Starfall",
+        "source": "Challenge Festival II",
         "Release date": "2021-06-10",
         "star": 3,
         "power": 477,
@@ -105708,7 +105708,7 @@ window.allHeroes =
             "Chain & Random Attackers",
             "Negative Effects On Self Or Allies"
         ],
-        "source": "Mystery-Shadow",
+        "source": "Mystery - Shadow",
         "Release date": "2025-01-09",
         "star": 3,
         "power": 501,
@@ -105792,7 +105792,7 @@ window.allHeroes =
         "skill_types": [
             "AoE Attackers (Hit-3)"
         ],
-        "source": "S1-Classic",
+        "source": "S1 - Classic",
         "Release date": "2017-03-01",
         "star": 3,
         "power": 440,
@@ -105876,7 +105876,7 @@ window.allHeroes =
             "Chain & Random Attackers",
             "Extra Damage Dealers"
         ],
-        "source": "S1-Classic",
+        "source": "S1 - Classic",
         "Release date": "2021-01-25",
         "star": 3,
         "power": 469,
@@ -105960,7 +105960,7 @@ window.allHeroes =
             "AoE Attackers (Hit-3)",
             "Extra Damage Dealers"
         ],
-        "source": "S1-Classic",
+        "source": "S1 - Classic",
         "Release date": "2024-08-11",
         "star": 3,
         "power": 502,
@@ -106050,7 +106050,7 @@ window.allHeroes =
             "Snipers",
             "DoT Attackers"
         ],
-        "source": "Monthly Event-Beach Party",
+        "source": "Monthly Event - Beach Party",
         "Release date": "2023-06-12",
         "star": 3,
         "power": 486,
@@ -106232,7 +106232,7 @@ window.allHeroes =
             "Snipers",
             "Heal over Time (HoT)"
         ],
-        "source": "Alliance-Musketeers",
+        "source": "Alliance - Musketeers",
         "Release date": "2023-03-08",
         "star": 3,
         "power": 486,
@@ -106321,7 +106321,7 @@ window.allHeroes =
             "Mana Reducers or Blockers",
             "Snipers"
         ],
-        "source": "S1-Classic",
+        "source": "S1 - Classic",
         "Release date": "2017-03-01",
         "star": 3,
         "power": 443,
@@ -106406,7 +106406,7 @@ window.allHeroes =
             "Mana Reducers or Blockers",
             "Snipers"
         ],
-        "source": "S1-Classic",
+        "source": "S1 - Classic",
         "Release date": "2021-01-25",
         "star": 3,
         "power": 474,
@@ -106492,7 +106492,7 @@ window.allHeroes =
             "Mana Reducers or Blockers",
             "Snipers"
         ],
-        "source": "S1-Classic",
+        "source": "S1 - Classic",
         "Release date": "2023-12-25",
         "star": 3,
         "power": 507,
@@ -106582,7 +106582,7 @@ window.allHeroes =
             "Bypassers",
             "Mana Reducers or Blockers"
         ],
-        "source": "S1-Classic",
+        "source": "S1 - Classic",
         "Release date": "2024-12-25",
         "star": 3,
         "power": 516,
@@ -106671,7 +106671,7 @@ window.allHeroes =
             "Mana Raisers",
             "Mana Reducers or Blockers"
         ],
-        "source": "S6-Mysteries of the Deep",
+        "source": "S6 - Mysteries of the Deep",
         "Release date": "2023-07-05",
         "star": 3,
         "power": 486,
@@ -106766,7 +106766,7 @@ window.allHeroes =
             "AoE Attackers (Hit-3)",
             "Mana Raisers"
         ],
-        "source": "S6-Mysteries of the Deep",
+        "source": "S6 - Mysteries of the Deep",
         "Release date": "2025-02-03",
         "star": 3,
         "power": 497,
@@ -106865,7 +106865,7 @@ window.allHeroes =
             "Mana Generation Buffers",
             "Minions Summoners"
         ],
-        "source": "Monthly Event-Winter",
+        "source": "Monthly Event - Winter",
         "Release date": "2023-12-01",
         "star": 3,
         "power": 487,
@@ -106952,7 +106952,7 @@ window.allHeroes =
             "Buffers (DEF)",
             "Damage Sharers"
         ],
-        "source": "S1-Classic",
+        "source": "S1 - Classic",
         "Release date": "2017-03-01",
         "star": 3,
         "power": 444,
@@ -107037,7 +107037,7 @@ window.allHeroes =
             "Buffers (ATK)",
             "Damage Sharers"
         ],
-        "source": "S1-Classic",
+        "source": "S1 - Classic",
         "Release date": "2021-01-25",
         "star": 3,
         "power": 473,
@@ -107122,7 +107122,7 @@ window.allHeroes =
             "Buffers (DEF)",
             "Damage Sharers"
         ],
-        "source": "S1-Classic",
+        "source": "S1 - Classic",
         "Release date": "2024-02-12",
         "star": 3,
         "power": 506,
@@ -107212,7 +107212,7 @@ window.allHeroes =
             "Buffers (DEF)",
             "Reflectors"
         ],
-        "source": "S1-Classic",
+        "source": "S1 - Classic",
         "Release date": "2025-03-11",
         "star": 3,
         "power": 514,
@@ -107298,7 +107298,7 @@ window.allHeroes =
         "skill_types": [
             "Chain & Random Attackers"
         ],
-        "source": "Tower-Ninjas",
+        "source": "Tower - Ninjas",
         "Release date": "2023-01-11",
         "star": 3,
         "power": 486,
@@ -107392,7 +107392,7 @@ window.allHeroes =
             "Minions Counters",
             "Minions Summoners"
         ],
-        "source": "S3-Valhalla",
+        "source": "S3 - Valhalla",
         "Release date": "2020-02-27",
         "star": 3,
         "power": 461,
@@ -107479,7 +107479,7 @@ window.allHeroes =
             "DoT Attackers",
             "Minions Summoners"
         ],
-        "source": "S3-Valhalla",
+        "source": "S3 - Valhalla",
         "Release date": "2022-07-04",
         "star": 3,
         "power": 477,
@@ -107566,7 +107566,7 @@ window.allHeroes =
             "AoE Attackers (Hit-5)",
             "Buffers (ATK)"
         ],
-        "source": "S2-Atlantis",
+        "source": "S2 - Atlantis",
         "Release date": "2019-08-01",
         "star": 3,
         "power": 450,
@@ -107651,7 +107651,7 @@ window.allHeroes =
             "AoE Attackers (Hit-5)",
             "Debuffers (ATK)"
         ],
-        "source": "S2-Atlantis",
+        "source": "S2 - Atlantis",
         "Release date": "2022-05-02",
         "star": 3,
         "power": 464,
@@ -107738,7 +107738,7 @@ window.allHeroes =
             "Damage Reducers",
             "Mana Generation Buffers"
         ],
-        "source": "Tower-Owls",
+        "source": "Tower - Owls",
         "Release date": "2023-12-20",
         "star": 3,
         "power": 489,
@@ -107826,7 +107826,7 @@ window.allHeroes =
             "Mana Reducers or Blockers",
             "Snipers"
         ],
-        "source": "Challenge Festival-Grim Forest",
+        "source": "Challenge Festival I",
         "Release date": "2019-12-01",
         "star": 3,
         "power": 455,
@@ -107910,7 +107910,7 @@ window.allHeroes =
             "Chain & Random Attackers",
             "Snipers"
         ],
-        "source": "S4-Wilderness",
+        "source": "S4 - Wilderness",
         "Release date": "2021-03-25",
         "star": 3,
         "power": 478,
@@ -107996,7 +107996,7 @@ window.allHeroes =
             "Chain & Random Attackers",
             "Snipers"
         ],
-        "source": "S4-Wilderness",
+        "source": "S4 - Wilderness",
         "Release date": "2024-02-29",
         "star": 3,
         "power": 488,
@@ -108083,7 +108083,7 @@ window.allHeroes =
             "Health Boosters",
             "Heal over Time (HoT)"
         ],
-        "source": "S5-Dune",
+        "source": "S5 - Dune",
         "Release date": "2022-04-21",
         "star": 3,
         "power": 483,
@@ -108172,7 +108172,7 @@ window.allHeroes =
             "Heal over Time (HoT)",
             "Buffers (DEF)"
         ],
-        "source": "S5-Dune",
+        "source": "S5 - Dune",
         "Release date": "2025-02-17",
         "star": 3,
         "power": 494,
@@ -108265,7 +108265,7 @@ window.allHeroes =
             "DoT Attackers",
             "Mana Reducers or Blockers"
         ],
-        "source": "Challenge Festival-Pets",
+        "source": "Challenge Festival II",
         "Release date": "2022-11-03",
         "star": 3,
         "power": 484,
@@ -108448,7 +108448,7 @@ window.allHeroes =
         "skill_types": [
             "Chain & Random Attackers"
         ],
-        "source": "Challenge Festival-Pirates",
+        "source": "Challenge Festival I",
         "Release date": "2021-12-15",
         "star": 3,
         "power": 481,
@@ -108628,7 +108628,7 @@ window.allHeroes =
             "Healers (Special)",
             "Heal over Time (HoT)"
         ],
-        "source": "Challenge-Beowulf",
+        "source": "Challenge - Beowulf",
         "Release date": "2025-02-13",
         "star": 4,
         "power": 722,
@@ -108723,7 +108723,7 @@ window.allHeroes =
             "DoT Attackers",
             "Mana Reducers or Blockers"
         ],
-        "source": "Tower-Magic",
+        "source": "Tower - Magic",
         "Release date": "2021-09-15",
         "star": 4,
         "power": 678,
@@ -108815,7 +108815,7 @@ window.allHeroes =
             "Snipers",
             "Damage Reducers"
         ],
-        "source": "Challenge-Gargoyle",
+        "source": "Challenge - Gargoyle",
         "Release date": "2022-05-12",
         "star": 4,
         "power": 682,
@@ -108992,7 +108992,7 @@ window.allHeroes =
             "Mana Reducers or Blockers",
             "Snipers"
         ],
-        "source": "S1-Classic",
+        "source": "S1 - Classic",
         "Release date": "2017-03-01",
         "star": 4,
         "power": 642,
@@ -109078,7 +109078,7 @@ window.allHeroes =
             "Mana Reducers or Blockers",
             "Snipers"
         ],
-        "source": "S1-Classic",
+        "source": "S1 - Classic",
         "Release date": "2021-01-18",
         "star": 4,
         "power": 686,
@@ -109163,7 +109163,7 @@ window.allHeroes =
             "AoE Attackers (Hit-3)",
             "Mana Reducers or Blockers"
         ],
-        "source": "S1-Classic",
+        "source": "S1 - Classic",
         "Release date": "2023-10-30",
         "star": 4,
         "power": 733,
@@ -109249,7 +109249,7 @@ window.allHeroes =
             "Snipers",
             "Extra Damage Dealers"
         ],
-        "source": "S1-Classic",
+        "source": "S1 - Classic",
         "Release date": "2024-06-28",
         "star": 4,
         "power": 745,
@@ -109338,7 +109338,7 @@ window.allHeroes =
             "Healers",
             "Mana Generation Buffers"
         ],
-        "source": "Challenge Festival-Starfall",
+        "source": "Challenge Festival II",
         "Release date": "2021-06-10",
         "star": 4,
         "power": 676,
@@ -109426,7 +109426,7 @@ window.allHeroes =
             "Mana Generation Buffers",
             "Negative Effects On Self Or Allies"
         ],
-        "source": "S2-Atlantis",
+        "source": "S2 - Atlantis",
         "Release date": "2019-08-01",
         "star": 4,
         "power": 652,
@@ -109522,7 +109522,7 @@ window.allHeroes =
             "Mana Reducers or Blockers",
             "Negative Effects On Self Or Allies"
         ],
-        "source": "S2-Atlantis",
+        "source": "S2 - Atlantis",
         "Release date": "2023-02-06",
         "star": 4,
         "power": 674,
@@ -109711,7 +109711,7 @@ window.allHeroes =
             "DoT Attackers",
             "Debuffers (DEF)"
         ],
-        "source": "S7-Treasures of Flame and Frost",
+        "source": "S7 - Treasures of Flame and Frost",
         "Release date": "2024-12-03",
         "star": 4,
         "power": 707,
@@ -109896,7 +109896,7 @@ window.allHeroes =
             "Buffers (DEF)",
             "Mana Reducers or Blockers"
         ],
-        "source": "Challenge Festival-Grim Forest",
+        "source": "Challenge Festival I",
         "Release date": "2018-06-01",
         "star": 4,
         "power": 646,
@@ -109982,7 +109982,7 @@ window.allHeroes =
             "Bypassers",
             "Snipers"
         ],
-        "source": "S4-Wilderness",
+        "source": "S4 - Wilderness",
         "Release date": "2021-03-25",
         "star": 4,
         "power": 677,
@@ -110069,7 +110069,7 @@ window.allHeroes =
             "Bypassers",
             "Snipers"
         ],
-        "source": "S4-Wilderness",
+        "source": "S4 - Wilderness",
         "Release date": "2023-11-09",
         "star": 4,
         "power": 692,
@@ -110253,7 +110253,7 @@ window.allHeroes =
             "Debuffers (DEF)",
             "Snipers"
         ],
-        "source": "Challenge Festival-Guardians",
+        "source": "Challenge Festival I",
         "Release date": "2017-10-05",
         "star": 4,
         "power": 645,
@@ -110338,7 +110338,7 @@ window.allHeroes =
             "Buffers (DEF)",
             "Snipers"
         ],
-        "source": "Challenge Festival-Guardians",
+        "source": "Challenge Festival I",
         "Release date": "2023-01-26",
         "star": 4,
         "power": 680,
@@ -110424,7 +110424,7 @@ window.allHeroes =
             "Health Boosters",
             "AoE Attackers (Hit-5)"
         ],
-        "source": "S3-Valhalla",
+        "source": "S3 - Valhalla",
         "Release date": "2020-05-28",
         "star": 4,
         "power": 662,
@@ -110510,7 +110510,7 @@ window.allHeroes =
             "AoE Attackers (Hit-5)",
             "Heal over Time (HoT)"
         ],
-        "source": "S3-Valhalla",
+        "source": "S3 - Valhalla",
         "Release date": "2022-07-04",
         "star": 4,
         "power": 685,
@@ -110597,7 +110597,7 @@ window.allHeroes =
             "Healers",
             "Minions Summoners"
         ],
-        "source": "Monthly Event-Winter",
+        "source": "Monthly Event - Winter",
         "Release date": "2022-12-01",
         "star": 4,
         "power": 684,
@@ -110684,7 +110684,7 @@ window.allHeroes =
             "AoE Attackers (Hit-5)",
             "Debuffers (ATK)"
         ],
-        "source": "S1-Classic",
+        "source": "S1 - Classic",
         "Release date": "2017-03-01",
         "star": 4,
         "power": 638,
@@ -110772,7 +110772,7 @@ window.allHeroes =
             "Debuffers (ATK)",
             "Healing Reducers"
         ],
-        "source": "S1-Classic",
+        "source": "S1 - Classic",
         "Release date": "2021-01-18",
         "star": 4,
         "power": 683,
@@ -110860,7 +110860,7 @@ window.allHeroes =
             "Debuffers (ATK)",
             "Mana Reducers or Blockers"
         ],
-        "source": "S1-Classic",
+        "source": "S1 - Classic",
         "Release date": "2023-11-27",
         "star": 4,
         "power": 729,
@@ -110947,7 +110947,7 @@ window.allHeroes =
             "Debuffers (ATK)",
             "Extra Damage Dealers"
         ],
-        "source": "S1-Classic",
+        "source": "S1 - Classic",
         "Release date": "2024-05-31",
         "star": 4,
         "power": 741,
@@ -111037,7 +111037,7 @@ window.allHeroes =
             "Bypassers",
             "Debuffers (ATK)"
         ],
-        "source": "S1-Classic",
+        "source": "S1 - Classic",
         "Release date": "2025-06-18",
         "star": 4,
         "power": 753,
@@ -111124,7 +111124,7 @@ window.allHeroes =
             "Healers",
             "Negative Effects On Self Or Allies"
         ],
-        "source": "Monthly Event-Springvale",
+        "source": "Monthly Event - Springvale",
         "Release date": "2020-04-06",
         "star": 4,
         "power": 661,
@@ -111209,7 +111209,7 @@ window.allHeroes =
             "AoE Attackers (Hit-5)",
             "Mana Reducers or Blockers"
         ],
-        "source": "S1-Classic",
+        "source": "S1 - Classic",
         "Release date": "2017-03-01",
         "star": 4,
         "power": 640,
@@ -111294,7 +111294,7 @@ window.allHeroes =
             "AoE Attackers (Hit-5)",
             "Mana Reducers or Blockers"
         ],
-        "source": "S1-Classic",
+        "source": "S1 - Classic",
         "Release date": "2020-01-20",
         "star": 4,
         "power": 685,
@@ -111379,7 +111379,7 @@ window.allHeroes =
             "AoE Attackers (Hit-3)",
             "Silencers"
         ],
-        "source": "S1-Classic",
+        "source": "S1 - Classic",
         "Release date": "2023-02-20",
         "star": 4,
         "power": 731,
@@ -111465,7 +111465,7 @@ window.allHeroes =
             "Extra Damage Dealers",
             "Mana Reducers or Blockers"
         ],
-        "source": "S1-Classic",
+        "source": "S1 - Classic",
         "Release date": "2024-02-12",
         "star": 4,
         "power": 743,
@@ -111555,7 +111555,7 @@ window.allHeroes =
             "Bypassers",
             "Mana Reducers or Blockers"
         ],
-        "source": "S1-Classic",
+        "source": "S1 - Classic",
         "Release date": "2025-03-11",
         "star": 4,
         "power": 755,
@@ -111646,7 +111646,7 @@ window.allHeroes =
             "Debuffers (DEF)",
             "Mana Reducers or Blockers"
         ],
-        "source": "S3-Valhalla",
+        "source": "S3 - Valhalla",
         "Release date": "2020-02-27",
         "star": 4,
         "power": 661,
@@ -111734,7 +111734,7 @@ window.allHeroes =
             "Snipers",
             "DoT Attackers"
         ],
-        "source": "S5-Dune",
+        "source": "S5 - Dune",
         "Release date": "2022-04-21",
         "star": 4,
         "power": 683,
@@ -111826,7 +111826,7 @@ window.allHeroes =
             "Fiends Summoners",
             "DoT Attackers"
         ],
-        "source": "S5-Dune",
+        "source": "S5 - Dune",
         "Release date": "2025-01-20",
         "star": 4,
         "power": 700,
@@ -111920,7 +111920,7 @@ window.allHeroes =
             "Health Boosters",
             "Revivers"
         ],
-        "source": "Tower-Styx",
+        "source": "Tower - Styx",
         "Release date": "2022-09-21",
         "star": 4,
         "power": 685,
@@ -112014,7 +112014,7 @@ window.allHeroes =
             "Fiends Counters",
             "Healers"
         ],
-        "source": "Monthly Event-Love Season",
+        "source": "Monthly Event - Love Season",
         "Release date": "2023-02-14",
         "star": 4,
         "power": 686,
@@ -112101,7 +112101,7 @@ window.allHeroes =
             "Mindless Attack & Mindless Heal",
             "Snipers"
         ],
-        "source": "Challenge Festival-Pets",
+        "source": "Challenge Festival II",
         "Release date": "2022-11-03",
         "star": 4,
         "power": 684,
@@ -112366,7 +112366,7 @@ window.allHeroes =
             "Buffers (ATK)",
             "Negative Effects On Self Or Allies"
         ],
-        "source": "S1-Classic",
+        "source": "S1 - Classic",
         "Release date": "2017-03-01",
         "star": 4,
         "power": 644,
@@ -112450,7 +112450,7 @@ window.allHeroes =
             "AoE Attackers (Hit-5)",
             "Negative Effects On Self Or Allies"
         ],
-        "source": "S1-Classic",
+        "source": "S1 - Classic",
         "Release date": "2021-01-18",
         "star": 4,
         "power": 690,
@@ -112534,7 +112534,7 @@ window.allHeroes =
             "Buffers (ATK)",
             "Negative Effects On Self Or Allies"
         ],
-        "source": "S1-Classic",
+        "source": "S1 - Classic",
         "Release date": "2023-10-30",
         "star": 4,
         "power": 736,
@@ -112617,7 +112617,7 @@ window.allHeroes =
             "Buffers (ATK)",
             "Negative Effects On Self Or Allies"
         ],
-        "source": "S1-Classic",
+        "source": "S1 - Classic",
         "Release date": "2024-07-16",
         "star": 4,
         "power": 748,
@@ -112795,7 +112795,7 @@ window.allHeroes =
             "AoE Attackers (Hit-3)",
             "Random Position"
         ],
-        "source": "S4-Wilderness",
+        "source": "S4 - Wilderness",
         "Release date": "2021-03-25",
         "star": 5,
         "power": 806,
@@ -112885,7 +112885,7 @@ window.allHeroes =
             "Buffers (DEF)",
             "Random Position"
         ],
-        "source": "S4-Wilderness",
+        "source": "S4 - Wilderness",
         "Release date": "2024-02-01",
         "star": 5,
         "power": 1021,
@@ -112976,7 +112976,7 @@ window.allHeroes =
             "Buffers (ATK)",
             "Negative Effects On Self Or Allies"
         ],
-        "source": "Monthly Event-Winter",
+        "source": "Monthly Event - Winter",
         "Release date": "2024-12-01",
         "star": 5,
         "power": 1122,
@@ -113066,7 +113066,7 @@ window.allHeroes =
             "AoE Attackers (Hit-5)",
             "Reflectors"
         ],
-        "source": "Alliance-Knights Clash",
+        "source": "Alliance - Knights Clash",
         "Release date": "2024-08-14",
         "star": 5,
         "power": 1084,
@@ -113249,7 +113249,7 @@ window.allHeroes =
             "Debuffers (ATK)",
             "Debuffers (DEF)"
         ],
-        "source": "Challenge Festival-Pirates",
+        "source": "Challenge Festival I",
         "Release date": "2022-10-06",
         "star": 5,
         "power": 835,
@@ -113335,7 +113335,7 @@ window.allHeroes =
             "Snipers",
             "Mindless Attack & Mindless Heal"
         ],
-        "source": "Monthly Event-Love Season",
+        "source": "Monthly Event - Love Season",
         "Release date": "2025-02-14",
         "star": 5,
         "power": 1163,
@@ -113424,7 +113424,7 @@ window.allHeroes =
             "Extra Damage Dealers",
             "Snipers"
         ],
-        "source": "S4-Wilderness",
+        "source": "S4 - Wilderness",
         "Release date": "2021-07-15",
         "star": 5,
         "power": 808,
@@ -113511,7 +113511,7 @@ window.allHeroes =
             "Snipers",
             "Buffers (ATK)"
         ],
-        "source": "S4-Wilderness",
+        "source": "S4 - Wilderness",
         "Release date": "2023-09-07",
         "star": 5,
         "power": 1024,
@@ -113696,7 +113696,7 @@ window.allHeroes =
             "Revivers",
             "Damage Reducers"
         ],
-        "source": "Challenge Festival-Bards",
+        "source": "Challenge Festival II",
         "Release date": "2024-11-14",
         "star": 5,
         "power": 1115,
@@ -113793,7 +113793,7 @@ window.allHeroes =
             "Snipers",
             "Dodgers"
         ],
-        "source": "Alliance-Moths",
+        "source": "Alliance - Moths",
         "Release date": "2025-05-01",
         "star": 5,
         "power": 1197,
@@ -114069,7 +114069,7 @@ window.allHeroes =
             "AoE Attackers (Hit-5)",
             "Cleansers"
         ],
-        "source": "Monthly Event-Lunar Year",
+        "source": "Monthly Event - Lunar Year",
         "Release date": "2025-01-27",
         "star": 5,
         "power": 1152,
@@ -114165,7 +114165,7 @@ window.allHeroes =
             "Mana Generation Buffers",
             "Heal over Time (HoT)"
         ],
-        "source": "Challenge Festival-Slayers",
+        "source": "Challenge Festival II",
         "Release date": "2021-08-05",
         "star": 5,
         "power": 809,
@@ -114263,7 +114263,7 @@ window.allHeroes =
             "DoT Attackers",
             "Healers (Special)"
         ],
-        "source": "Challenge Festival-Slayers",
+        "source": "Challenge Festival II",
         "Release date": "2024-11-14",
         "star": 5,
         "power": 1210,
@@ -114455,7 +114455,7 @@ window.allHeroes =
             "Dispellers",
             "Cleansers"
         ],
-        "source": "Challenge-Secrets of the Opera",
+        "source": "Challenge - Secrets of the Opera",
         "Release date": "2023-11-30",
         "star": 5,
         "power": 957,
@@ -114549,7 +114549,7 @@ window.allHeroes =
             "Immunity Providers",
             "Healers (Special)"
         ],
-        "source": "S5-Dune",
+        "source": "S5 - Dune",
         "Release date": "2022-10-27",
         "star": 5,
         "power": 865,
@@ -114641,7 +114641,7 @@ window.allHeroes =
             "Health Boosters",
             "Cleansers"
         ],
-        "source": "S5-Dune",
+        "source": "S5 - Dune",
         "Release date": "2024-04-29",
         "star": 5,
         "power": 1210,
@@ -114732,7 +114732,7 @@ window.allHeroes =
             "Dodgers",
             "Counterattackers"
         ],
-        "source": "Alliance-Musketeers",
+        "source": "Alliance - Musketeers",
         "Release date": "2023-07-26",
         "star": 5,
         "power": 929,
@@ -115184,7 +115184,7 @@ window.allHeroes =
             "Healers",
             "Minions Summoners"
         ],
-        "source": "Challenge Festival-Starfall",
+        "source": "Challenge Festival II",
         "Release date": "2021-06-10",
         "star": 5,
         "power": 808,
@@ -115277,7 +115277,7 @@ window.allHeroes =
             "Stacking Heroes",
             "Negative Effects On Self Or Allies"
         ],
-        "source": "Mystery-Shadow",
+        "source": "Mystery - Shadow",
         "Release date": "2024-05-17",
         "star": 5,
         "power": 1098,
@@ -115546,7 +115546,7 @@ window.allHeroes =
             "AoE Attackers (Hit-5)",
             "Minions Counters"
         ],
-        "source": "Alliance-Knights Clash",
+        "source": "Alliance - Knights Clash",
         "Release date": "2022-01-05",
         "star": 5,
         "power": 822,
@@ -115635,7 +115635,7 @@ window.allHeroes =
             "Minions Summoners",
             "Stacking Heroes"
         ],
-        "source": "S6-Mysteries of the Deep",
+        "source": "S6 - Mysteries of the Deep",
         "Release date": "2023-06-07",
         "star": 5,
         "power": 934,
@@ -115733,7 +115733,7 @@ window.allHeroes =
             "Minions Summoners",
             "Stacking Heroes"
         ],
-        "source": "S6-Mysteries of the Deep",
+        "source": "S6 - Mysteries of the Deep",
         "Release date": "2025-03-31",
         "star": 5,
         "power": 1161,
@@ -115918,7 +115918,7 @@ window.allHeroes =
             "Chain & Random Attackers",
             "Extra Damage Dealers"
         ],
-        "source": "S5-Dune",
+        "source": "S5 - Dune",
         "Release date": "2023-01-19",
         "star": 5,
         "power": 868,
@@ -116012,7 +116012,7 @@ window.allHeroes =
             "Chain & Random Attackers",
             "Extra Damage Dealers"
         ],
-        "source": "S5-Dune",
+        "source": "S5 - Dune",
         "Release date": "2025-06-11",
         "star": 5,
         "power": 1214,
@@ -116110,7 +116110,7 @@ window.allHeroes =
             "Ghost Form & Hiding",
             "Bypassers"
         ],
-        "source": "Extra Draw-Secret Summon",
+        "source": "Extra Draw - Secret Summon",
         "Release date": "2025-05-31",
         "star": 5,
         "power": 1200,
@@ -116299,7 +116299,7 @@ window.allHeroes =
             "AoE Attackers (Hit-3)",
             "Mana Reducers or Blockers"
         ],
-        "source": "Challenge Festival-Starfall",
+        "source": "Challenge Festival II",
         "Release date": "2021-06-10",
         "star": 5,
         "power": 804,
@@ -116482,7 +116482,7 @@ window.allHeroes =
             "Reflectors",
             "Buffers (DEF)"
         ],
-        "source": "Challenge Festival-Pets",
+        "source": "Challenge Festival II",
         "Release date": "2022-11-03",
         "star": 5,
         "power": 835,
@@ -116580,7 +116580,7 @@ window.allHeroes =
             "Debuffers (DEF)",
             "Minions Counters"
         ],
-        "source": "S7-Treasures of Flame and Frost",
+        "source": "S7 - Treasures of Flame and Frost",
         "Release date": "2024-12-03",
         "star": 5,
         "power": 1165,
@@ -116949,7 +116949,7 @@ window.allHeroes =
             "Healers",
             "Mana Raisers"
         ],
-        "source": "Monthly Event-Lunar Year",
+        "source": "Monthly Event - Lunar Year",
         "Release date": "2024-02-08",
         "star": 5,
         "power": 983,
@@ -117237,7 +117237,7 @@ window.allHeroes =
             "Immunity Providers",
             "Cleanse Blockers"
         ],
-        "source": "Challenge Festival-Guardians",
+        "source": "Challenge Festival I",
         "Release date": "2024-02-22",
         "star": 5,
         "power": 1009,
@@ -117335,7 +117335,7 @@ window.allHeroes =
             "Immunity Providers",
             "Negative Effects On Self Or Allies"
         ],
-        "source": "Challenge Festival-Guardians",
+        "source": "Challenge Festival I",
         "Release date": "2020-01-08",
         "star": 5,
         "power": 780,
@@ -117433,7 +117433,7 @@ window.allHeroes =
             "Immunity Providers",
             "Negative Effects On Self Or Allies"
         ],
-        "source": "Challenge Festival-Guardians",
+        "source": "Challenge Festival I",
         "Release date": "2023-01-26",
         "star": 5,
         "power": 976,
@@ -117526,7 +117526,7 @@ window.allHeroes =
             "Extra Damage Dealers",
             "Heal over Time (HoT)"
         ],
-        "source": "Challenge Festival-Guardians",
+        "source": "Challenge Festival I",
         "Release date": "2017-10-05",
         "star": 5,
         "power": 765,
@@ -117615,7 +117615,7 @@ window.allHeroes =
             "Heal over Time (HoT)",
             "Mana Reducers or Blockers"
         ],
-        "source": "Challenge Festival-Avalon",
+        "source": "Challenge Festival I",
         "Release date": "2018-01-05",
         "star": 5,
         "power": 765,
@@ -117704,7 +117704,7 @@ window.allHeroes =
             "Mana Reducers or Blockers",
             "Reflectors"
         ],
-        "source": "Challenge Festival-Avalon",
+        "source": "Challenge Festival I",
         "Release date": "2023-04-20",
         "star": 5,
         "power": 958,
@@ -117885,7 +117885,7 @@ window.allHeroes =
             "Buffers (ATK)",
             "Counterattackers"
         ],
-        "source": "Challenge Festival-Pets",
+        "source": "Challenge Festival II",
         "Release date": "2022-11-03",
         "star": 5,
         "power": 876,
@@ -118168,7 +118168,7 @@ window.allHeroes =
             "Damage Reducers",
             "Immunity Providers"
         ],
-        "source": "Challenge-Gargoyle",
+        "source": "Challenge - Gargoyle",
         "Release date": "2024-06-13",
         "star": 5,
         "power": 1065,
@@ -118256,7 +118256,7 @@ window.allHeroes =
             "AoE Attackers (Hit-3)",
             "Max Health Reducers"
         ],
-        "source": "S5-Dune",
+        "source": "S5 - Dune",
         "Release date": "2022-05-19",
         "star": 5,
         "power": 859,
@@ -118343,7 +118343,7 @@ window.allHeroes =
             "AoE Attackers (Hit-3)",
             "Max Health Reducers"
         ],
-        "source": "S5-Dune",
+        "source": "S5 - Dune",
         "Release date": "2024-04-01",
         "star": 5,
         "power": 1200,
@@ -118434,7 +118434,7 @@ window.allHeroes =
             "DoT Attackers",
             "Minions Counters"
         ],
-        "source": "Tower-Ninjas",
+        "source": "Tower - Ninjas",
         "Release date": "2024-08-27",
         "star": 5,
         "power": 1095,
@@ -118534,7 +118534,7 @@ window.allHeroes =
             "Minions Summoners",
             "AoE Attackers (Hit-5)"
         ],
-        "source": "S2-Atlantis",
+        "source": "S2 - Atlantis",
         "Release date": "2019-02-01",
         "star": 5,
         "power": 772,
@@ -118623,7 +118623,7 @@ window.allHeroes =
             "Mana Raisers",
             "Minions Summoners"
         ],
-        "source": "S2-Atlantis",
+        "source": "S2 - Atlantis",
         "Release date": "2022-05-02",
         "star": 5,
         "power": 943,
@@ -118902,7 +118902,7 @@ window.allHeroes =
             "Mana Reducers or Blockers",
             "Snipers"
         ],
-        "source": "Challenge-Carnival of Gods",
+        "source": "Challenge - Carnival of Gods",
         "Release date": "2023-07-13",
         "star": 5,
         "power": 931,
@@ -118993,7 +118993,7 @@ window.allHeroes =
             "Heal over Time (HoT)",
             "Negative Effects On Self Or Allies"
         ],
-        "source": "Monthly Event-Springvale",
+        "source": "Monthly Event - Springvale",
         "Release date": "2023-03-27",
         "star": 5,
         "power": 868,
@@ -119082,7 +119082,7 @@ window.allHeroes =
             "Buffers (ATK)",
             "Negative Effects On Self Or Allies"
         ],
-        "source": "Monthly Event-Springvale",
+        "source": "Monthly Event - Springvale",
         "Release date": "2024-03-18",
         "star": 5,
         "power": 991,
@@ -119361,7 +119361,7 @@ window.allHeroes =
             "Debuffers (ATK)",
             "Snipers"
         ],
-        "source": "S1-Classic",
+        "source": "S1 - Classic",
         "Release date": "2017-03-01",
         "star": 5,
         "power": 752,
@@ -119446,7 +119446,7 @@ window.allHeroes =
             "Debuffers (ATK)",
             "Snipers"
         ],
-        "source": "S1-Classic",
+        "source": "S1 - Classic",
         "Release date": "2020-01-20",
         "star": 5,
         "power": 847,
@@ -119533,7 +119533,7 @@ window.allHeroes =
             "Debuffers (ATK)",
             "DoT Attackers"
         ],
-        "source": "S1-Classic",
+        "source": "S1 - Classic",
         "Release date": "2022-12-26",
         "star": 5,
         "power": 961,
@@ -119620,7 +119620,7 @@ window.allHeroes =
             "Extra Damage Dealers",
             "Snipers"
         ],
-        "source": "S1-Classic",
+        "source": "S1 - Classic",
         "Release date": "2024-02-12",
         "star": 5,
         "power": 1127,
@@ -119710,7 +119710,7 @@ window.allHeroes =
             "Debuffers (ATK)",
             "Snipers"
         ],
-        "source": "S1-Classic",
+        "source": "S1 - Classic",
         "Release date": "2025-04-08",
         "star": 5,
         "power": 1232,
@@ -119800,7 +119800,7 @@ window.allHeroes =
             "Healing Reducers",
             "Mana Reducers or Blockers"
         ],
-        "source": "Challenge-Carnival of Gods",
+        "source": "Challenge - Carnival of Gods",
         "Release date": "2022-11-22",
         "star": 5,
         "power": 838,
@@ -119888,7 +119888,7 @@ window.allHeroes =
             "AoE Attackers (Hit-5)",
             "Debuffers (ATK)"
         ],
-        "source": "S1-Classic",
+        "source": "S1 - Classic",
         "Release date": "2017-03-01",
         "star": 5,
         "power": 754,
@@ -119975,7 +119975,7 @@ window.allHeroes =
             "Extra Damage Dealers",
             "Mana Generation Buffers"
         ],
-        "source": "S1-Classic",
+        "source": "S1 - Classic",
         "Release date": "2021-01-18",
         "star": 5,
         "power": 849,
@@ -120062,7 +120062,7 @@ window.allHeroes =
             "Debuffers (ATK)",
             "Extra Damage Dealers"
         ],
-        "source": "S1-Classic",
+        "source": "S1 - Classic",
         "Release date": "2023-02-20",
         "star": 5,
         "power": 966,
@@ -120149,7 +120149,7 @@ window.allHeroes =
             "Debuffers (ATK)",
             "Extra Damage Dealers"
         ],
-        "source": "S1-Classic",
+        "source": "S1 - Classic",
         "Release date": "2024-06-28",
         "star": 5,
         "power": 1132,
@@ -120329,7 +120329,7 @@ window.allHeroes =
             "Mindless Attack & Mindless Heal",
             "Chain & Random Attackers"
         ],
-        "source": "Monthly Event-Kalevala",
+        "source": "Monthly Event - Kalevala",
         "Release date": "2022-06-20",
         "star": 5,
         "power": 835,
@@ -120418,7 +120418,7 @@ window.allHeroes =
             "Chain & Random Attackers",
             "Mindless Attack & Mindless Heal"
         ],
-        "source": "Monthly Event-Kalevala",
+        "source": "Monthly Event - Kalevala",
         "Release date": "2023-08-07",
         "star": 5,
         "power": 1078,
@@ -120509,7 +120509,7 @@ window.allHeroes =
             "Mindless Attack & Mindless Heal",
             "Snipers"
         ],
-        "source": "Tower-Ninjas",
+        "source": "Tower - Ninjas",
         "Release date": "2023-05-31",
         "star": 5,
         "power": 875,
@@ -120612,7 +120612,7 @@ window.allHeroes =
             "Minions Counters",
             "Snipers"
         ],
-        "source": "Monthly Event-Lunar Year",
+        "source": "Monthly Event - Lunar Year",
         "Release date": "2023-01-19",
         "star": 5,
         "power": 861,
@@ -120890,7 +120890,7 @@ window.allHeroes =
             "Mana Reducers or Blockers",
             "Snipers"
         ],
-        "source": "S1-Classic",
+        "source": "S1 - Classic",
         "Release date": "2017-03-01",
         "star": 5,
         "power": 752,
@@ -120976,7 +120976,7 @@ window.allHeroes =
             "Debuffers (ATK)",
             "Debuffers (DEF)"
         ],
-        "source": "S1-Classic",
+        "source": "S1 - Classic",
         "Release date": "2021-01-18",
         "star": 5,
         "power": 845,
@@ -121064,7 +121064,7 @@ window.allHeroes =
             "Mana Reducers or Blockers",
             "Debuffers (DEF)"
         ],
-        "source": "S1-Classic",
+        "source": "S1 - Classic",
         "Release date": "2022-12-26",
         "star": 5,
         "power": 960,
@@ -121153,7 +121153,7 @@ window.allHeroes =
             "Mana Reducers or Blockers",
             "Snipers"
         ],
-        "source": "S1-Classic",
+        "source": "S1 - Classic",
         "Release date": "2023-12-25",
         "star": 5,
         "power": 1125,
@@ -121246,7 +121246,7 @@ window.allHeroes =
             "Mana Reducers or Blockers",
             "Snipers"
         ],
-        "source": "S1-Classic",
+        "source": "S1 - Classic",
         "Release date": "2025-02-10",
         "star": 5,
         "power": 1232,
@@ -121340,7 +121340,7 @@ window.allHeroes =
             "Heal over Time (HoT)",
             "Reflectors"
         ],
-        "source": "Tower-Owls",
+        "source": "Tower - Owls",
         "Release date": "2024-02-14",
         "star": 5,
         "power": 1047,
@@ -121615,7 +121615,7 @@ window.allHeroes =
             "Extra Damage Dealers",
             "Fiends Summoners"
         ],
-        "source": "Monthly Event-Morlovia",
+        "source": "Monthly Event - Morlovia",
         "Release date": "2022-10-03",
         "star": 5,
         "power": 850,
@@ -121802,7 +121802,7 @@ window.allHeroes =
             "Healers",
             "Buffers (DEF)"
         ],
-        "source": "Challenge-Secrets of the Opera",
+        "source": "Challenge - Secrets of the Opera",
         "Release date": "2024-03-21",
         "star": 5,
         "power": 1079,
@@ -121983,7 +121983,7 @@ window.allHeroes =
             "Mana Reducers or Blockers",
             "Extra Damage Dealers"
         ],
-        "source": "S5-Dune",
+        "source": "S5 - Dune",
         "Release date": "2023-04-13",
         "star": 5,
         "power": 871,
@@ -122076,7 +122076,7 @@ window.allHeroes =
             "Extra Damage Dealers",
             "Mana Reducers or Blockers"
         ],
-        "source": "S5-Dune",
+        "source": "S5 - Dune",
         "Release date": "2024-06-24",
         "star": 5,
         "power": 1219,
@@ -122172,7 +122172,7 @@ window.allHeroes =
             "Damage Sharers",
             "Mana Generation Buffers"
         ],
-        "source": "Tower-Ninjas",
+        "source": "Tower - Ninjas",
         "Release date": "2020-10-13",
         "star": 5,
         "power": 798,
@@ -122367,7 +122367,7 @@ window.allHeroes =
             "DoT Attackers",
             "Healers"
         ],
-        "source": "Tower-Magic",
+        "source": "Tower - Magic",
         "Release date": "2021-09-15",
         "star": 5,
         "power": 813,
@@ -122732,7 +122732,7 @@ window.allHeroes =
             "Mana Reducers or Blockers",
             "Snipers"
         ],
-        "source": "Tower-Styx",
+        "source": "Tower - Styx",
         "Release date": "2022-09-21",
         "star": 5,
         "power": 857,
@@ -122831,7 +122831,7 @@ window.allHeroes =
             "Counterattackers",
             "DoT Attackers"
         ],
-        "source": "Challenge-Beowulf",
+        "source": "Challenge - Beowulf",
         "Release date": "2025-05-18",
         "star": 5,
         "power": 1201,
@@ -122919,7 +122919,7 @@ window.allHeroes =
         "skill_types": [
             "AoE Attackers (Hit-3)"
         ],
-        "source": "S3-Valhalla",
+        "source": "S3 - Valhalla",
         "Release date": "2020-03-26",
         "star": 5,
         "power": 787,
@@ -123002,7 +123002,7 @@ window.allHeroes =
         "skill_types": [
             "AoE Attackers (Hit-3)"
         ],
-        "source": "S3-Valhalla",
+        "source": "S3 - Valhalla",
         "Release date": "2023-08-28",
         "star": 5,
         "power": 986,
@@ -123088,7 +123088,7 @@ window.allHeroes =
             "Mana Generation Buffers",
             "Extra Damage Dealers"
         ],
-        "source": "S3-Valhalla",
+        "source": "S3 - Valhalla",
         "Release date": "2020-11-26",
         "star": 5,
         "power": 788,
@@ -123175,7 +123175,7 @@ window.allHeroes =
             "Mana Generation Buffers",
             "Extra Damage Dealers"
         ],
-        "source": "S3-Valhalla",
+        "source": "S3 - Valhalla",
         "Release date": "2023-03-13",
         "star": 5,
         "power": 986,
@@ -123264,7 +123264,7 @@ window.allHeroes =
             "Minions Counters",
             "Stacking Heroes"
         ],
-        "source": "Challenge Festival-Bards",
+        "source": "Challenge Festival II",
         "Release date": "2022-12-01",
         "star": 5,
         "power": 837,
@@ -123444,7 +123444,7 @@ window.allHeroes =
             "DoT Attackers",
             "Minions Summoners"
         ],
-        "source": "S5-Dune",
+        "source": "S5 - Dune",
         "Release date": "2022-04-21",
         "star": 5,
         "power": 858,
@@ -123536,7 +123536,7 @@ window.allHeroes =
             "Health Boosters",
             "Minions Summoners"
         ],
-        "source": "S5-Dune",
+        "source": "S5 - Dune",
         "Release date": "2024-10-05",
         "star": 5,
         "power": 1200,
@@ -123631,7 +123631,7 @@ window.allHeroes =
             "AoE Attackers (Hit-5)",
             "Damage Reducers"
         ],
-        "source": "Challenge-Gargoyle",
+        "source": "Challenge - Gargoyle",
         "Release date": "2021-11-24",
         "star": 5,
         "power": 841,
@@ -123722,7 +123722,7 @@ window.allHeroes =
             "DoT Attackers",
             "Mana Reducers or Blockers"
         ],
-        "source": "S6-Mysteries of the Deep",
+        "source": "S6 - Mysteries of the Deep",
         "Release date": "2023-10-25",
         "star": 5,
         "power": 964,
@@ -123822,7 +123822,7 @@ window.allHeroes =
             "DoT Attackers",
             "Mana Reducers or Blockers"
         ],
-        "source": "S6-Mysteries of the Deep",
+        "source": "S6 - Mysteries of the Deep",
         "Release date": "2025-01-09",
         "star": 5,
         "power": 1200,
@@ -123925,7 +123925,7 @@ window.allHeroes =
             "Dispellers",
             "Ghost Form & Hiding"
         ],
-        "source": "Tower-Owls",
+        "source": "Tower - Owls",
         "Release date": "2025-02-05",
         "star": 5,
         "power": 1159,
@@ -124108,7 +124108,7 @@ window.allHeroes =
             "Immunity Providers",
             "Snipers"
         ],
-        "source": "S2-Atlantis",
+        "source": "S2 - Atlantis",
         "Release date": "2019-02-19",
         "star": 5,
         "power": 775,
@@ -124194,7 +124194,7 @@ window.allHeroes =
             "Immunity Providers",
             "Snipers"
         ],
-        "source": "S2-Atlantis",
+        "source": "S2 - Atlantis",
         "Release date": "2021-11-15",
         "star": 5,
         "power": 947,
@@ -124281,7 +124281,7 @@ window.allHeroes =
             "Health Boosters",
             "Heal over Time (HoT)"
         ],
-        "source": "S4-Wilderness",
+        "source": "S4 - Wilderness",
         "Release date": "2021-03-25",
         "star": 5,
         "power": 806,
@@ -124371,7 +124371,7 @@ window.allHeroes =
             "Health Boosters",
             "Heal over Time (HoT)"
         ],
-        "source": "S4-Wilderness",
+        "source": "S4 - Wilderness",
         "Release date": "2023-04-27",
         "star": 5,
         "power": 1020,
@@ -124549,7 +124549,7 @@ window.allHeroes =
             "DoT Attackers",
             "Healing Reducers"
         ],
-        "source": "Monthly Event-Sand Empire",
+        "source": "Monthly Event - Sand Empire",
         "Release date": "2018-06-21",
         "star": 5,
         "power": 772,
@@ -124640,7 +124640,7 @@ window.allHeroes =
             "DoT Attackers",
             "Healing Reducers"
         ],
-        "source": "Monthly Event-Sand Empire",
+        "source": "Monthly Event - Sand Empire",
         "Release date": "2021-06-21",
         "star": 5,
         "power": 944,
@@ -124823,7 +124823,7 @@ window.allHeroes =
             "Cleansers",
             "Health Boosters"
         ],
-        "source": "Challenge Festival-Bards",
+        "source": "Challenge Festival II",
         "Release date": "2022-08-11",
         "star": 5,
         "power": 849,
@@ -124914,7 +124914,7 @@ window.allHeroes =
             "DoT Attackers",
             "Healing Reducers"
         ],
-        "source": "Monthly Event-Sand Empire",
+        "source": "Monthly Event - Sand Empire",
         "Release date": "2020-06-29",
         "star": 5,
         "power": 789,
@@ -125002,7 +125002,7 @@ window.allHeroes =
             "Dispellers",
             "DoT Attackers"
         ],
-        "source": "Monthly Event-Sand Empire",
+        "source": "Monthly Event - Sand Empire",
         "Release date": "2022-05-16",
         "star": 5,
         "power": 964,
@@ -125382,7 +125382,7 @@ window.allHeroes =
             "Dodgers",
             "Minions Counters"
         ],
-        "source": "Alliance-Moths",
+        "source": "Alliance - Moths",
         "Release date": "2025-01-23",
         "star": 5,
         "power": 1178,
@@ -125750,7 +125750,7 @@ window.allHeroes =
             "Damage Reducers",
             "Mana Generation Buffers"
         ],
-        "source": "S3-Valhalla",
+        "source": "S3 - Valhalla",
         "Release date": "2020-02-27",
         "star": 5,
         "power": 788,
@@ -125839,7 +125839,7 @@ window.allHeroes =
             "Damage Reducers",
             "Mana Raisers"
         ],
-        "source": "S3-Valhalla",
+        "source": "S3 - Valhalla",
         "Release date": "2022-08-29",
         "star": 5,
         "power": 987,
@@ -126016,7 +126016,7 @@ window.allHeroes =
             "Chain & Random Attackers",
             "Negative Effects On Self Or Allies"
         ],
-        "source": "Monthly Event-Springvale",
+        "source": "Monthly Event - Springvale",
         "Release date": "2020-04-06",
         "star": 5,
         "power": 789,
@@ -126285,7 +126285,7 @@ window.allHeroes =
             "AoE Attackers (Hit-5)",
             "Debuffers (ATK)"
         ],
-        "source": "S3-Valhalla",
+        "source": "S3 - Valhalla",
         "Release date": "2021-01-28",
         "star": 5,
         "power": 788,
@@ -126378,7 +126378,7 @@ window.allHeroes =
             "AoE Attackers (Hit-5)",
             "Debuffers (ATK)"
         ],
-        "source": "S3-Valhalla",
+        "source": "S3 - Valhalla",
         "Release date": "2022-12-19",
         "star": 5,
         "power": 986,
@@ -126660,7 +126660,7 @@ window.allHeroes =
             "Mana Raisers",
             "Minions Counters"
         ],
-        "source": "Tower-Ninjas",
+        "source": "Tower - Ninjas",
         "Release date": "2022-02-02",
         "star": 5,
         "power": 818,
@@ -126859,7 +126859,7 @@ window.allHeroes =
             "DoT Attackers",
             "Heal over Time (HoT)"
         ],
-        "source": "Tower-Magic",
+        "source": "Tower - Magic",
         "Release date": "2023-11-15",
         "star": 5,
         "power": 956,
@@ -126956,7 +126956,7 @@ window.allHeroes =
             "Cleansers",
             "Healers"
         ],
-        "source": "S1-Classic",
+        "source": "S1 - Classic",
         "Release date": "2017-03-01",
         "star": 5,
         "power": 755,
@@ -127044,7 +127044,7 @@ window.allHeroes =
             "Dispellers",
             "Healers"
         ],
-        "source": "S1-Classic",
+        "source": "S1 - Classic",
         "Release date": "2020-01-20",
         "star": 5,
         "power": 850,
@@ -127132,7 +127132,7 @@ window.allHeroes =
             "Dispellers",
             "Health Boosters"
         ],
-        "source": "S1-Classic",
+        "source": "S1 - Classic",
         "Release date": "2022-09-05",
         "star": 5,
         "power": 966,
@@ -127220,7 +127220,7 @@ window.allHeroes =
             "Cleansers",
             "Healers"
         ],
-        "source": "S1-Classic",
+        "source": "S1 - Classic",
         "Release date": "2023-10-30",
         "star": 5,
         "power": 1132,
@@ -127312,7 +127312,7 @@ window.allHeroes =
             "Healers",
             "Reflectors"
         ],
-        "source": "S1-Classic",
+        "source": "S1 - Classic",
         "Release date": "2024-12-24",
         "star": 5,
         "power": 1238,
@@ -127402,7 +127402,7 @@ window.allHeroes =
             "Healers (Special)",
             "Healing Reducers"
         ],
-        "source": "Monthly Event-Morlovia",
+        "source": "Monthly Event - Morlovia",
         "Release date": "2024-09-23",
         "star": 5,
         "power": 1054,
@@ -127493,7 +127493,7 @@ window.allHeroes =
             "Buffers (ATK)",
             "Mana Generation Buffers"
         ],
-        "source": "Challenge-Beowulf",
+        "source": "Challenge - Beowulf",
         "Release date": "2024-11-25",
         "star": 5,
         "power": 1182,
@@ -127586,7 +127586,7 @@ window.allHeroes =
             "AoE Attackers (Hit-3)",
             "Debuffers (DEF)"
         ],
-        "source": "Challenge Festival-Wonderland",
+        "source": "Challenge Festival I",
         "Release date": "2019-02-14",
         "star": 5,
         "power": 779,
@@ -127671,7 +127671,7 @@ window.allHeroes =
             "AoE Attackers (Hit-3)",
             "Debuffers (DEF)"
         ],
-        "source": "Challenge Festival-Wonderland",
+        "source": "Challenge Festival I",
         "Release date": "2022-02-17",
         "star": 5,
         "power": 977,
@@ -127766,7 +127766,7 @@ window.allHeroes =
             "Mana Reducers or Blockers",
             "Healers"
         ],
-        "source": "Tower-Magic",
+        "source": "Tower - Magic",
         "Release date": "2023-05-03",
         "star": 5,
         "power": 891,
@@ -127864,7 +127864,7 @@ window.allHeroes =
             "Health Boosters",
             "Immunity Providers"
         ],
-        "source": "Alliance-Knights Clash",
+        "source": "Alliance - Knights Clash",
         "Release date": "2024-01-10",
         "star": 5,
         "power": 1027,
@@ -127957,7 +127957,7 @@ window.allHeroes =
             "Damage Reducers",
             "Health Boosters"
         ],
-        "source": "Alliance-Knights Clash",
+        "source": "Alliance - Knights Clash",
         "Release date": "2021-10-13",
         "star": 5,
         "power": 816,
@@ -128046,7 +128046,7 @@ window.allHeroes =
             "Health Boosters",
             "Heal over Time (HoT)"
         ],
-        "source": "Alliance-Knights Clash",
+        "source": "Alliance - Knights Clash",
         "Release date": "2024-12-17",
         "star": 5,
         "power": 1148,
@@ -128139,7 +128139,7 @@ window.allHeroes =
             "Buff Stealers",
             "Negative Effects On Self Or Allies"
         ],
-        "source": "Mystery-Shadow",
+        "source": "Mystery - Shadow",
         "Release date": "2025-01-09",
         "star": 5,
         "power": 1165,
@@ -128418,7 +128418,7 @@ window.allHeroes =
             "Minions Counters",
             "Status Effect Conversion"
         ],
-        "source": "Tower-Magic",
+        "source": "Tower - Magic",
         "Release date": "2025-05-29",
         "star": 5,
         "power": 1210,
@@ -128512,7 +128512,7 @@ window.allHeroes =
             "Debuffers (DEF)",
             "Extra Damage Dealers"
         ],
-        "source": "S4-Wilderness",
+        "source": "S4 - Wilderness",
         "Release date": "2021-12-02",
         "star": 5,
         "power": 812,
@@ -128603,7 +128603,7 @@ window.allHeroes =
             "Extra Damage Dealers",
             "Debuffers (DEF)"
         ],
-        "source": "S4-Wilderness",
+        "source": "S4 - Wilderness",
         "Release date": "2024-06-20",
         "star": 5,
         "power": 1028,
@@ -128693,7 +128693,7 @@ window.allHeroes =
             "Immunity Providers",
             "Healers (Special)"
         ],
-        "source": "Monthly Event-Beach Party",
+        "source": "Monthly Event - Beach Party",
         "Release date": "2024-06-03",
         "star": 5,
         "power": 1016,
