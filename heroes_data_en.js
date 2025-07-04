@@ -17932,7 +17932,7 @@ window.allHeroes =
             "Extra Damage Dealers",
             "Healers (Special)"
         ],
-        "source": "Myth Summon",
+        "source": "Legends Summon",
         "Release date": "2024-05-03",
         "star": 5,
         "power": 1042,
@@ -21375,7 +21375,7 @@ window.allHeroes =
             "Extra Damage Dealers",
             "Dispellers"
         ],
-        "source": "Myth Summon",
+        "source": "Legends Summon",
         "Release date": "2023-11-29",
         "star": 5,
         "power": 982,
@@ -38824,7 +38824,7 @@ window.allHeroes =
             "Minions Summoners",
             "Fiends Summoners"
         ],
-        "source": "Extra Draw - Secret Summon",
+        "source": "Legends Summon - Extra Draw",
         "Release date": "2022-11-22",
         "star": 5,
         "power": 853,
@@ -46587,7 +46587,7 @@ window.allHeroes =
             "AoE Attackers (Hit-3)",
             "Max Health Reducers"
         ],
-        "source": "Myth Summon",
+        "source": "Legends Summon",
         "Release date": "2024-02-09",
         "star": 5,
         "power": 1000,
@@ -70219,7 +70219,7 @@ window.allHeroes =
         "skill_types": [
             "AoE Attackers (Hit-5)"
         ],
-        "source": "Extra Draw - Secret Summon",
+        "source": "Legends Summon - Extra Draw",
         "Release date": "2020-05-01",
         "star": 5,
         "power": 799,
@@ -72143,7 +72143,7 @@ window.allHeroes =
             "Healers (Special)",
             "Snipers"
         ],
-        "source": "Myth Summon",
+        "source": "Legends Summon",
         "Release date": "2024-04-05",
         "star": 5,
         "power": 1026,
@@ -98562,7 +98562,7 @@ window.allHeroes =
             "AoE Attackers (Hit-5)",
             "Bypassers"
         ],
-        "source": "Myth Summon",
+        "source": "Legends Summon",
         "Release date": "2024-01-11",
         "star": 5,
         "power": 993,
@@ -120703,7 +120703,7 @@ window.allHeroes =
             "Healing Reducers",
             "Cleanse Blockers"
         ],
-        "source": "Myth Summon",
+        "source": "Legends Summon",
         "Release date": "2024-03-08",
         "star": 5,
         "power": 1015,

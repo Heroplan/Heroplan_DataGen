@@ -1,6 +1,6 @@
-2025-07-04 21:30:55,997 - INFO - 成功加载并规范化 1414 条英雄属性数据。
-2025-07-04 21:30:57,953 - WARNING - 
+2025-07-04 23:20:09,894 - INFO - 成功加载并规范化 1414 条英雄属性数据。
+2025-07-04 23:20:12,583 - WARNING - 
 --- 以下 hero_stats.json 中的条目未被使用 ---
-2025-07-04 21:30:57,953 - WARNING - - Ascension Mimic (规范化为: ascensionmimic)
-2025-07-04 21:30:57,953 - WARNING - - Fruitio (规范化为: fruitio)
-2025-07-04 21:30:57,953 - WARNING - - Verdigoo (规范化为: verdigoo)
+2025-07-04 23:20:12,583 - WARNING - - Ascension Mimic (规范化为: ascensionmimic)
+2025-07-04 23:20:12,583 - WARNING - - Fruitio (规范化为: fruitio)
+2025-07-04 23:20:12,584 - WARNING - - Verdigoo (规范化为: verdigoo)

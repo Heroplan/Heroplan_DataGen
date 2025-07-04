@@ -356,7 +356,7 @@ def generate_js_data_with_translation(heroes_base_dir, output_path_cn, output_pa
             elif hero_family in ['investigator', 'cultist']:
                 source_to_translate = 'shadow'
             elif hero_family in ['mystery']:
-                source_to_translate = 'secretsummon'
+                source_to_translate = 'tavernoflegendssecret'
             elif hero_family in ['avalon', 'corellia', 'grimforest', 'guardiansteltoc', 'wonderland']:
                 source_to_translate = 'challengefestival1'
             elif hero_family in ['villains', 'starfall', 'slayer', 'bard', 'pets']:
