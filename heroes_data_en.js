@@ -4468,7 +4468,7 @@ window.allHeroes =
         "source": "Challenge - Carnival of Gods",
         "Release date": "2023-07-13",
         "star": 4,
-        "power": 1238,
+        "power": 689,
         "attack": 673,
         "defense": 697,
         "health": 1238,
@@ -4499,7 +4499,7 @@ window.allHeroes =
         },
         "attack_priority_stats": {
             "base": {
-                "power": 1338,
+                "power": 789,
                 "attack": 768,
                 "defense": 769,
                 "health": 1347
@@ -4519,7 +4519,7 @@ window.allHeroes =
         },
         "defense_priority_stats": {
             "base": {
-                "power": 1338,
+                "power": 789,
                 "attack": 703,
                 "defense": 843,
                 "health": 1347
@@ -25142,7 +25142,7 @@ window.allHeroes =
         "source": "Challenge - Carnival of Gods",
         "Release date": "2023-07-13",
         "star": 3,
-        "power": 804,
+        "power": 488,
         "attack": 505,
         "defense": 481,
         "health": 804,
@@ -25171,7 +25171,7 @@ window.allHeroes =
         },
         "attack_priority_stats": {
             "base": {
-                "power": 904,
+                "power": 588,
                 "attack": 625,
                 "defense": 531,
                 "health": 900
@@ -25191,7 +25191,7 @@ window.allHeroes =
         },
         "defense_priority_stats": {
             "base": {
-                "power": 904,
+                "power": 588,
                 "attack": 535,
                 "defense": 585,
                 "health": 984
@@ -112708,7 +112708,7 @@ window.allHeroes =
         "source": "Super Elementals",
         "Release date": "2023-07-17",
         "star": 4,
-        "power": 1234,
+        "power": 688,
         "attack": 680,
         "defense": 690,
         "health": 1234,
@@ -112741,7 +112741,7 @@ window.allHeroes =
         },
         "attack_priority_stats": {
             "base": {
-                "power": 1334,
+                "power": 788,
                 "attack": 760,
                 "defense": 780,
                 "health": 1343
@@ -112761,7 +112761,7 @@ window.allHeroes =
         },
         "defense_priority_stats": {
             "base": {
-                "power": 1334,
+                "power": 788,
                 "attack": 725,
                 "defense": 800,
                 "health": 1379
@@ -128230,7 +128230,7 @@ window.allHeroes =
         "source": "Super Elementals",
         "Release date": "2023-07-17",
         "star": 5,
-        "power": 1672,
+        "power": 940,
         "attack": 951,
         "defense": 887,
         "health": 1672,
@@ -128265,7 +128265,7 @@ window.allHeroes =
         },
         "attack_priority_stats": {
             "base": {
-                "power": 1772,
+                "power": 1040,
                 "attack": 1084,
                 "defense": 949,
                 "health": 1794
@@ -128285,7 +128285,7 @@ window.allHeroes =
         },
         "defense_priority_stats": {
             "base": {
-                "power": 1772,
+                "power": 1040,
                 "attack": 994,
                 "defense": 1003,
                 "health": 1852
