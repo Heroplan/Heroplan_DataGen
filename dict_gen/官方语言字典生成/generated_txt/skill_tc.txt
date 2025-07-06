@@ -825,7 +825,7 @@
 "specials.v2.property.removestatuseffects.minordebuff.all.allies.customremovalcount","淨化所有盟友的1個狀態異常。"
 "specials.v2.property.removestatuseffects.minordebuff.all.allies.customremovalcount.bypassremoveeffects","安全淨化所有盟友的1個狀態異常。"
 "specials.v2.property.removestatuseffects.minordebuff.all.allies.customremovalcount.multiple","淨化所有盟友的{REMOVALCOUNT}個狀態異常。"
-"specials.v2.property.removestatuseffects.minordebuff.all.allies.effectonremoval.addmana.single","淨化所有盟友的所有狀態異常，根據每個淨化的異常，提升所有盟友的法力5%。"
+"specials.v2.property.removestatuseffects.minordebuff.all.allies.effectonremoval.addmana.single","淨化所有盟友的所有狀態異常，根據每個淨化的異常，提升所有盟友的法力{POWER}%。"
 "specials.v2.property.removestatuseffects.minordebuff.customremovalcount.extra","狀態異常會依照獲得的順序遭到淨化。最新的狀態異常會先被淨化。"
 "specials.v2.property.removestatuseffects.minordebuff.extra","安全淨化無視已移除狀態異常的第二效果，如移除時造成的傷害。外部效果如被動技能和家族效果仍可發動。"
 "specials.v2.property.removestatuseffects.minordebuff.neartotarget.allies.bypassremoveeffects","安全淨化施法者與附近盟友的狀態異常。"

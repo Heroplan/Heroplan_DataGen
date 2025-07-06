@@ -16547,5 +16547,29 @@ window.allHeroesExtra = [
             "AoE Attackers (Hit-3)",
             "Buff Stealers"
         ]
+    },
+    {
+        "name": "Foxglove",
+        "fancy name": "The Sly Bat-eared Fox    ",
+        "Release date": "2025-07-06",
+        "AetherPower": "Special Boost",
+        "skill_types": [
+            "AoE Attackers (Hit-3)",
+            "DoT Attackers",
+            "Mana Reducers or Blockers",
+            "Healing Reducers"
+        ]
+    },
+    {
+        "name": "Halcyon",
+        "fancy name": "The Sentinel Gray Fox",
+        "Release date": "2025-07-06",
+        "AetherPower": "Regen",
+        "skill_types": [
+            "Healing Reducers",
+            "Minions Counters",
+            "Chain & Random Attackers",
+            "Counterattackers"
+        ]
     }
 ];

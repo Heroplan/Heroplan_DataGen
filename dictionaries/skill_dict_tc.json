@@ -535,7 +535,7 @@
   "Cleanses 1 status ailment from all allies.": "淨化所有盟友的1個狀態異常。",
   "Safely cleanses 1 status ailment from all allies.": "安全淨化所有盟友的1個狀態異常。",
   "Cleanses {REMOVALCOUNT} status ailments from all allies.": "淨化所有盟友的{REMOVALCOUNT}個狀態異常。",
-  "Cleanses all status ailments from all allies, and increases all allies' mana by 5% for each cleansed ailment.": "淨化所有盟友的所有狀態異常，根據每個淨化的異常，提升所有盟友的法力5%。",
+  "Cleanses all status ailments from all allies, and increases all allies' mana by {POWER}% for each cleansed ailment.": "淨化所有盟友的所有狀態異常，根據每個淨化的異常，提升所有盟友的法力{POWER}%。",
   "Status ailments are cleansed in the order they have been received. The latest status ailments are cleansed first.": "狀態異常會依照獲得的順序遭到淨化。最新的狀態異常會先被淨化。",
   "Safely cleanses status ailments from the caster and nearby allies.": "安全淨化施法者與附近盟友的狀態異常。",
   "Cleanses 1 status ailment from the caster.": "淨化施法者的1個狀態異常。",

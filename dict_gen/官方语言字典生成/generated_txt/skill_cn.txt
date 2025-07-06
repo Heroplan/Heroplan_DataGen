@@ -830,7 +830,7 @@
 "specials.v2.property.removestatuseffects.minordebuff.all.allies.customremovalcount","净化所有盟友身上的1个状态异常。"
 "specials.v2.property.removestatuseffects.minordebuff.all.allies.customremovalcount.bypassremoveeffects","安全净化所有盟友身上的1个状态异常。"
 "specials.v2.property.removestatuseffects.minordebuff.all.allies.customremovalcount.multiple","净化所有盟友身上的{REMOVALCOUNT}个状态异常。"
-"specials.v2.property.removestatuseffects.minordebuff.all.allies.effectonremoval.addmana.single","净化所有盟友身上的状态异常，且每净化一个状态异常，使所有盟友的法力增加5%。"
+"specials.v2.property.removestatuseffects.minordebuff.all.allies.effectonremoval.addmana.single","净化所有盟友身上的状态异常，且每净化一个状态异常，使所有盟友的法力增加{POWER}%。"
 "specials.v2.property.removestatuseffects.minordebuff.customremovalcount.extra","状态异常会按照获得的先后顺序被净化。最后获得的状态异常最先被净化。"
 "specials.v2.property.removestatuseffects.minordebuff.extra","安全净化会无视状态异常被移除时的副作用，例如移除时的伤害。被动技能和家族效果等外来效果仍会生效。"
 "specials.v2.property.removestatuseffects.minordebuff.neartotarget.allies.bypassremoveeffects","安全净化施法者与附近盟友的状态异常。"

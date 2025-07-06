@@ -830,7 +830,7 @@ Buffs and status ailments affecting attack and defense do not affect damage scal
 "specials.v2.property.removestatuseffects.minordebuff.all.allies.customremovalcount","Cleanses 1 status ailment from all allies."
 "specials.v2.property.removestatuseffects.minordebuff.all.allies.customremovalcount.bypassremoveeffects","Safely cleanses 1 status ailment from all allies."
 "specials.v2.property.removestatuseffects.minordebuff.all.allies.customremovalcount.multiple","Cleanses {REMOVALCOUNT} status ailments from all allies."
-"specials.v2.property.removestatuseffects.minordebuff.all.allies.effectonremoval.addmana.single","Cleanses all status ailments from all allies, and increases all allies' mana by 5% for each cleansed ailment."
+"specials.v2.property.removestatuseffects.minordebuff.all.allies.effectonremoval.addmana.single","Cleanses all status ailments from all allies, and increases all allies' mana by {POWER}% for each cleansed ailment."
 "specials.v2.property.removestatuseffects.minordebuff.customremovalcount.extra","Status ailments are cleansed in the order they have been received. The latest status ailments are cleansed first."
 "specials.v2.property.removestatuseffects.minordebuff.extra","Safe cleanse bypasses secondary effects, such as damage on removal, from the removed status ailment. External effects such as passive skills and family effects can still activate."
 "specials.v2.property.removestatuseffects.minordebuff.neartotarget.allies.bypassremoveeffects","Safely cleanses status ailments from the caster and nearby allies."

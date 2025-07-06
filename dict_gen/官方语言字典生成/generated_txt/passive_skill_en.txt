@@ -270,6 +270,12 @@ The Repair Core activates each time this character's Special Skill is cast:
 "herocard.passive_skill.description.resist.alldebuffs.manareduction.buffdispels.with_chance","{CHANCE}% extra chance to resist all status ailments, mana reductions and buff dispels."
 "herocard.passive_skill.description.resist.alldebuffs.with_chance","{CHANCE}% extra chance to resist all status ailments."
 "herocard.passive_skill.description.resist.alldefensemodifiers.alldebuffs","This character has innate resistance against status ailments that affect defense. Applies also to status ailments that affect elemental defense."
+"herocard.passive_skill.description.resist.alldefensemodifiers.defensewither.defensegrowth.allstatuseffectsandstacks","This character is not affected by effects that increase or reduce defense.
+
+This includes 
+ Status effect buffs and ailments
+ Positive and negative Stacks
+ Growth and Wither effects"
 "herocard.passive_skill.description.resist.alldefensemodifiersincludingwither.alldebuffs","This character has innate resistance against status ailments, stacks and Wither effects that affect defense."
 "herocard.passive_skill.description.resist.alldefensemodifiersincludingwither.allstatuseffects","This character is not affected by effects that increase or reduce defense.
 
@@ -290,12 +296,6 @@ This includes status effect buffs and ailments, positive and negative Stacks as 
 "herocard.passive_skill.description.resist.can_stack.alldebuffs.with_chance","{CHANCE}% extra chance to resist all status ailments."
 "herocard.passive_skill.description.resist.defensemodifierdebuffs","This character has innate resistance against status ailments that affect defense. Doesn't apply to status ailments that affect elemental defense."
 "herocard.passive_skill.description.resist.defensemodifiers.alldebuffs","This character has innate resistance against status ailments and negative stacks that affect defense. Doesn't apply to status ailments that affect elemental defense."
-"herocard.passive_skill.description.resist.defensemodifiers.defensewither.defensegrowth.allstatuseffectsandstacks","This character is not affected by effects that increase or reduce defense.
-
-This includes 
- Status effect buffs and ailments
- Positive and negative Stacks
- Growth and Wither effects"
 "herocard.passive_skill.description.resist.familiarremoval.familiarsilence.familiarreceivingblocking.minion"," Resistance against Minion removal.
  Can't be prevented from receiving Minions.
  Minion attacks and abilities can't be disabled."

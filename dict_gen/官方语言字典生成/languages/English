@@ -2158,6 +2158,7 @@ Are you sure you want to destroy these resources?"
 "button.ok","Ok"
 "button.options","Options"
 "button.practice","Troops"
+"button.proceed","Proceed"
 "button.raids","Raids"
 "button.relocate","Relocate"
 "button.reply","Reply"
@@ -2759,6 +2760,9 @@ Are you sure?"
 "dialog.consumegems.title","Please confirm"
 "dialog.diskfull.message","Your device is running out of storage! To ensure the game runs without any issues, please free up some space by removing unused apps and files!"
 "dialog.diskfull.title","Out of storage"
+"dialog.download_all.message","This download is very large and may incur additional fees on metered connections.
+
+Are you sure?"
 "dialog.facebooklike.greatprizes","Great prizes!"
 "dialog.facebooklike.subtitle","Tips and tricks"
 "dialog.facebooklike.subtitlealt","Weekly competitions"
@@ -3911,7 +3915,7 @@ The [#!]Power Gem[#] deals [#!]{FIXEDPOWER}[#] damage to a random enemy each tur
 "familybonuses.description.short.damage_gem_per_turn.match_damage","Replaces [#!]{TILESPERTURN}[#] regular shields with same color as this Hero with [#!]Power Gems[#] each turn. Only [#!]{MAXTILESONBOARD} Power Gems[#] per element can be on the board at the same time."
 "familybonuses.description.short.damage_gem_per_turn.match_effect.directeffect.damage.all.enemies","Replaces [#!]{TILESPERTURN}[#] regular shields with same color as this Hero with [#!]Power Gems[#] each turn. Only [#!]{MAXTILESONBOARD} Power Gems[#] per element can be on the board at the same time."
 "familybonuses.description.short.damage_gem_per_turn.match_effect.directeffect.damage.random.enemies","Replaces [#!]{TILESPERTURN}[#] regular shields with same color as this Hero with [#!]Power Gems[#] each turn. Only [#!]{MAXTILESONBOARD} Power Gems[#] per element can be on the board at the same time."
-"familybonuses.description.short.damage_on_special_dodge_wild_cat","Each Special Skill dodged damages the attacker for [#!]{1MEMBERFIXEDVALUE}/{2MEMBERSFIXEDVALUE}/{3MEMBERSFIXEDVALUE} damage."
+"familybonuses.description.short.damage_on_special_dodge_wild_cat","Each Special Skill dodged damages the attacker for [#!]{FIXEDVALUE} damage"
 "familybonuses.description.short.defense_multiplier","[#!]{MULTIPLIERPERCENTCHANGE}%[#] defense"
 "familybonuses.description.short.defense_multiplier_atlantis","[#!]{MULTIPLIERPERCENTCHANGE}%[#] defense"
 "familybonuses.description.short.defense_multiplier_classic","[#!]{MULTIPLIERPERCENTCHANGE}%[#] defense"
@@ -3925,7 +3929,7 @@ The [#!]Power Gem[#] deals [#!]{FIXEDPOWER}[#] damage to a random enemy each tur
 "familybonuses.description.short.dispel_random_buff_on_special_damage_received","When an enemy deals Special Skill damage to this character, there is a [#!]{CHANCE}%[#] chance for this character to dispel a  random dispellable status effect buff from the enemy."
 "familybonuses.description.short.dodge_ninja","[#!]{CHANCE}%[#] chance to dodge normal attacks and Special Skills"
 "familybonuses.description.short.dodge_ninja2","[#!]{CHANCE}%[#] chance to dodge normal attacks and Special Skills"
-"familybonuses.description.short.dodge_specials_wild_cat","[#!]{CHANCE}%[#] chance to dodge Special Skills"
+"familybonuses.description.short.dodge_specials_wild_cat","[#!]{CHANCE}%[#] chance to dodge Special Skills."
 "familybonuses.description.short.eat_boosted_health_when_damaged_by_special","Each time this Hero takes damage from an enemy's Special Skill, removes [#!]{MULTIPLIERPERCENTCHANGE}%[#] boosted health from all enemies."
 "familybonuses.description.short.element_link_to_all","[#!]Element Link[#] affects all allies"
 "familybonuses.description.short.flight_momentum","This character receives Flight Momentum when casting their Special Skill."
@@ -5089,6 +5093,12 @@ The [#!]Repair Core[#] activates each time this character's Special Skill is cas
 "herocard.passive_skill.description.resist.alldebuffs.manareduction.buffdispels.with_chance","[#!]{CHANCE}%[#] extra chance to resist all status ailments, mana reductions and buff dispels."
 "herocard.passive_skill.description.resist.alldebuffs.with_chance","[#!]{CHANCE}%[#] extra chance to resist all status ailments."
 "herocard.passive_skill.description.resist.alldefensemodifiers.alldebuffs","This character has innate resistance against status ailments that affect [#!]defense[#]. Applies also to status ailments that affect [#!]elemental defense[#]."
+"herocard.passive_skill.description.resist.alldefensemodifiers.defensewither.defensegrowth.allstatuseffectsandstacks","This character is not affected by effects that increase or reduce [#!]defense[#].
+
+This includes 
+[*] Status effect buffs and ailments
+[*] Positive and negative Stacks
+[*] Growth and Wither effects"
 "herocard.passive_skill.description.resist.alldefensemodifiersincludingwither.alldebuffs","This character has innate resistance against status ailments, stacks and Wither effects that affect [#!]defense[#]."
 "herocard.passive_skill.description.resist.alldefensemodifiersincludingwither.allstatuseffects","This character is not affected by effects that increase or reduce [#!]defense[#].
 
@@ -5109,12 +5119,6 @@ This includes status effect buffs and ailments, positive and negative Stacks as 
 "herocard.passive_skill.description.resist.can_stack.alldebuffs.with_chance","[#!]{CHANCE}%[#] extra chance to resist all status ailments."
 "herocard.passive_skill.description.resist.defensemodifierdebuffs","This character has innate resistance against status ailments that affect [#!]defense[#]. Doesn't apply to status ailments that affect elemental defense."
 "herocard.passive_skill.description.resist.defensemodifiers.alldebuffs","This character has innate resistance against status ailments and negative stacks that affect [#!]defense[#]. Doesn't apply to status ailments that affect elemental defense."
-"herocard.passive_skill.description.resist.defensemodifiers.defensewither.defensegrowth.allstatuseffectsandstacks","This character is not affected by effects that increase or reduce [#!]defense[#].
-
-This includes 
-[*] Status effect buffs and ailments
-[*] Positive and negative Stacks
-[*] Growth and Wither effects"
 "herocard.passive_skill.description.resist.familiarremoval.familiarsilence.familiarreceivingblocking.minion","[*] Resistance against Minion removal.
 [*] Can't be prevented from receiving Minions.
 [*] Minion attacks and abilities can't be disabled."
@@ -14586,6 +14590,7 @@ Included Season 3 Heroes are from Jotunheim, Muspelheim and Svartalfheim Realms[
 "options.button.ccpa","Do Not Sell Or Share My Personal Information"
 "options.button.color_blind","High Contrast Mode"
 "options.button.delete_account","Delete Account"
+"options.button.download_all_content","Download all content"
 "options.button.link_from.android","Link to an iOS device"
 "options.button.link_from.ios","Link to a new device"
 "options.button.lostaccount","Lost Account"
@@ -14614,6 +14619,7 @@ Included Season 3 Heroes are from Jotunheim, Muspelheim and Svartalfheim Realms[
 "options.label.delaywarning","We answer each ticket as soon as possible but please note that response might take a few business days."
 "options.label.delete_account","Initiate permanent account deletion."
 "options.label.device","Device"
+"options.label.download_all_content","Initiates download for all game content. Use this only if you're experiencing frequent connectivity issues."
 "options.label.language","Language"
 "options.label.notifications","Notifications"
 "options.label.recent_activity","Review recently consumed and gained items and resources."
@@ -21974,7 +21980,7 @@ Limits for modified Ability Scores.
 "specials.v2.property.removestatuseffects.minordebuff.all.allies.customremovalcount","Cleanses 1 status ailment from all allies."
 "specials.v2.property.removestatuseffects.minordebuff.all.allies.customremovalcount.bypassremoveeffects","Safely cleanses 1 status ailment from all allies."
 "specials.v2.property.removestatuseffects.minordebuff.all.allies.customremovalcount.multiple","Cleanses {REMOVALCOUNT} status ailments from all allies."
-"specials.v2.property.removestatuseffects.minordebuff.all.allies.effectonremoval.addmana.single","Cleanses all status ailments from all allies, and increases all allies' mana by 5% for each cleansed ailment."
+"specials.v2.property.removestatuseffects.minordebuff.all.allies.effectonremoval.addmana.single","Cleanses all status ailments from all allies, and increases all allies' mana by {POWER}% for each cleansed ailment."
 "specials.v2.property.removestatuseffects.minordebuff.customremovalcount.extra","Status ailments are cleansed in the order they have been received. The latest status ailments are cleansed first."
 "specials.v2.property.removestatuseffects.minordebuff.extra","Safe cleanse bypasses secondary effects, such as damage on removal, from the removed status ailment. External effects such as passive skills and family effects can still activate."
 "specials.v2.property.removestatuseffects.minordebuff.neartotarget.allies.bypassremoveeffects","Safely cleanses status ailments from the caster and nearby allies."

@@ -270,6 +270,12 @@
 "herocard.passive_skill.description.resist.alldebuffs.manareduction.buffdispels.with_chance","有{CHANCE}%額外機率可抵禦所有狀態異常、法力減損與增益驅散。"
 "herocard.passive_skill.description.resist.alldebuffs.with_chance","有{CHANCE}%額外機率可抵禦所有狀態異常。"
 "herocard.passive_skill.description.resist.alldefensemodifiers.alldebuffs","此角色對影響防禦的狀態異常具有天生抗性。同樣適用影響元素防禦的狀態異常。"
+"herocard.passive_skill.description.resist.alldefensemodifiers.defensewither.defensegrowth.allstatuseffectsandstacks","此角色不受增加或減少防禦的效果影響。
+
+這包括
+狀態效果增益以及異常
+正面與負面疊加
+成長和枯萎效果"
 "herocard.passive_skill.description.resist.alldefensemodifiersincludingwither.alldebuffs","該角色對影響防禦的狀態異常、疊加和枯萎效果具有天生抗性。"
 "herocard.passive_skill.description.resist.alldefensemodifiersincludingwither.allstatuseffects","此角色不受增加或減少防禦的效果影響。
 
@@ -290,12 +296,6 @@
 "herocard.passive_skill.description.resist.can_stack.alldebuffs.with_chance","有{CHANCE}%額外機率可抵禦所有狀態異常。"
 "herocard.passive_skill.description.resist.defensemodifierdebuffs","此角色對影響防禦的狀態異常具有天生抗性。不適用影響元素防禦的狀態異常。"
 "herocard.passive_skill.description.resist.defensemodifiers.alldebuffs","此角色對影響防禦的狀態異常和負面疊加具有天生抗性。不適用影響元素防禦的狀態異常。"
-"herocard.passive_skill.description.resist.defensemodifiers.defensewither.defensegrowth.allstatuseffectsandstacks","此角色不受增加或減少防禦的效果影響。
-
-這包括
-狀態效果增益以及異常
-正面與負面疊加
-成長和枯萎效果"
 "herocard.passive_skill.description.resist.familiarremoval.familiarsilence.familiarreceivingblocking.minion","對小兵移除的抗性。
 無法阻止其獲得小兵。
  小兵攻擊與能力無法關閉。"

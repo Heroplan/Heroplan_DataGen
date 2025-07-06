@@ -807,5 +807,7 @@
     "Damage Reduction All": "全体伤害减免",
     "Transform Ailments All": "全体状态异常转换",
     "Delayed Damage All": "全体延迟伤害",
-    "Transform Ailments Self": "自我状态异常转换"
+    "Transform Ailments Self": "自我状态异常转换",
+    "Distroy Minions on Hit": "命中时摧毁小兵",
+    "Lasting Counterattack Self": "自我持续反击"
 }

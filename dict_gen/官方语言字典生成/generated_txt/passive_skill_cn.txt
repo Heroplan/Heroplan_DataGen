@@ -270,6 +270,12 @@
 "herocard.passive_skill.description.resist.alldebuffs.manareduction.buffdispels.with_chance","额外{CHANCE}%几率抵抗所有状态异常、法力减损以及增益驱散。"
 "herocard.passive_skill.description.resist.alldebuffs.with_chance","额外{CHANCE}%几率抵抗所有状态异常。"
 "herocard.passive_skill.description.resist.alldefensemodifiers.alldebuffs","此角色的天赋可抵抗影响防御的状态异常，包括影响元素人防御的状态异常。"
+"herocard.passive_skill.description.resist.alldefensemodifiers.defensewither.defensegrowth.allstatuseffectsandstacks","此角色不会受到增强或削弱防御效果的影响。
+
+包括 
+状态效果增益和异常
+正面和负面效果叠加
+衰退和成长效果。"
 "herocard.passive_skill.description.resist.alldefensemodifiersincludingwither.alldebuffs","此角色的天赋可抵抗影响防御的状态异常、叠加以及衰退效果。"
 "herocard.passive_skill.description.resist.alldefensemodifiersincludingwither.allstatuseffects","此角色不会受到增强或削弱防御效果的影响。
 
@@ -290,12 +296,6 @@
 "herocard.passive_skill.description.resist.can_stack.alldebuffs.with_chance","额外{CHANCE}%几率抵抗所有状态异常。"
 "herocard.passive_skill.description.resist.defensemodifierdebuffs","此角色的天赋可抵抗影响防御的状态异常。不包括影响元素人防御的状态异常。"
 "herocard.passive_skill.description.resist.defensemodifiers.alldebuffs","此角色的天赋可抵抗影响防御的状态异常和负面效果叠加。不包括影响元素人防御的状态异常。"
-"herocard.passive_skill.description.resist.defensemodifiers.defensewither.defensegrowth.allstatuseffectsandstacks","此角色不会受到增强或削弱防御效果的影响。
-
-包括 
-状态效果增益和异常
-正面和负面效果叠加
-衰退和成长效果。"
 "herocard.passive_skill.description.resist.familiarremoval.familiarsilence.familiarreceivingblocking.minion","抵抗小兵移除。
 无法阻止此英雄获得小兵。
 小兵攻击和技能无法被禁用。"

@@ -1,4 +1,4 @@
-2025-07-06 13:52:03,070 - INFO - 成功加载并规范化 1416 条英雄属性数据。
-2025-07-06 13:52:05,919 - WARNING - 
+2025-07-06 23:18:17,911 - INFO - 成功加载并规范化 1418 条英雄属性数据。
+2025-07-06 23:18:20,176 - WARNING - 
 --- 以下 hero_stats.json 中的条目未被使用 ---
-2025-07-06 13:52:05,919 - WARNING - - Ascension Mimic (规范化为: ascensionmimic)
+2025-07-06 23:18:20,177 - WARNING - - Ascension Mimic (规范化为: ascensionmimic)
