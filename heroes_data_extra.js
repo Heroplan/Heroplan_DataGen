@@ -551,6 +551,7 @@ window.allHeroesExtra = [
             "Buffers (ATK)",
             "Damage Reducers",
             "DoT Attackers",
+            "Extra Damage Dealers",
             "Minions Counters",
             "Debuffers (ATK)"
         ]
@@ -1056,6 +1057,7 @@ window.allHeroesExtra = [
         "skill_types": [
             "DoT Attackers",
             "Fiends Counters",
+            "Extra Damage Dealers",
             "Minions Counters",
             "Mana Generation Buffers",
             "Damage Reducers",
@@ -1165,7 +1167,9 @@ window.allHeroesExtra = [
             "Debuffers (ATK)",
             "DoT Attackers",
             "Mana Raisers",
-            "Mana Reducers or Blockers"
+            "Mana Reducers or Blockers",
+            "Extra Damage Dealers",
+            "Minions Counters"
         ]
     },
     {
@@ -1177,7 +1181,9 @@ window.allHeroesExtra = [
             "Debuffers (ATK)",
             "DoT Attackers",
             "Mana Raisers",
-            "Mana Reducers or Blockers"
+            "Mana Reducers or Blockers",
+            "Extra Damage Dealers",
+            "Minions Counters"
         ]
     },
     {
@@ -1500,7 +1506,9 @@ window.allHeroesExtra = [
             "AoE Attackers (Hit-5)",
             "Debuffers (ATK)",
             "DoT Attackers",
-            "Effect Duration Resetters"
+            "Effect Duration Resetters",
+            "Extra Damage Dealers",
+            "Minions Counters"
         ]
     },
     {
@@ -1808,6 +1816,7 @@ window.allHeroesExtra = [
             "Bypassers",
             "DoT Attackers",
             "Debuffers (ATK)",
+            "Extra Damage Dealers",
             "Minions Counters"
         ]
     },
@@ -2653,7 +2662,9 @@ window.allHeroesExtra = [
             "Health Boosters",
             "Immunity Providers",
             "Mana Reducers or Blockers",
-            "Max Health Reducers"
+            "Max Health Reducers",
+            "Extra Damage Dealers",
+            "Minions Counters"
         ]
     },
     {
@@ -2795,6 +2806,7 @@ window.allHeroesExtra = [
         "skill_types": [
             "Debuffers (DEF)",
             "DoT Attackers",
+            "Extra Damage Dealers",
             "Minions Counters",
             "AoE Attackers (Hit-5)",
             "Mana Reducers or Blockers"
@@ -4973,10 +4985,10 @@ window.allHeroesExtra = [
         "skill_types": [
             "AoE Attackers (Hit-3)",
             "DoT Attackers",
-            "Extra Damage Dealers",
             "Debuffers (ATK)",
             "Reflectors",
             "Bypassers",
+            "Extra Damage Dealers",
             "Minions Counters"
         ]
     },
@@ -5002,6 +5014,7 @@ window.allHeroesExtra = [
             "Debuffers (DEF)",
             "DoT Attackers",
             "Mana Reducers or Blockers",
+            "Extra Damage Dealers",
             "Minions Counters"
         ]
     },
@@ -5899,6 +5912,7 @@ window.allHeroesExtra = [
         "skill_types": [
             "Health Boosters",
             "Immunity Providers",
+            "Extra Damage Dealers",
             "Minions Counters",
             "Damage Reducers",
             "DoT Attackers",
@@ -7236,7 +7250,9 @@ window.allHeroesExtra = [
             "AoE Attackers (Hit-5)",
             "DoT Attackers",
             "Mana Reducers or Blockers",
-            "Effect Duration Resetters"
+            "Effect Duration Resetters",
+            "Extra Damage Dealers",
+            "Minions Counters"
         ]
     },
     {
@@ -7891,7 +7907,9 @@ window.allHeroesExtra = [
             "DoT Attackers",
             "Mana Reducers or Blockers",
             "Snipers",
-            "Effect Duration Resetters"
+            "Effect Duration Resetters",
+            "Extra Damage Dealers",
+            "Minions Counters"
         ]
     },
     {
@@ -7903,7 +7921,9 @@ window.allHeroesExtra = [
             "DoT Attackers",
             "Effect Duration Resetters",
             "Mana Reducers or Blockers",
-            "Snipers"
+            "Snipers",
+            "Extra Damage Dealers",
+            "Minions Counters"
         ]
     },
     {
@@ -8086,8 +8106,11 @@ window.allHeroesExtra = [
         "AetherPower": "Special Armor",
         "skill_types": [
             "Healers",
+            "Debuffers (DEF)",
             "Damage Reducers",
-            "Immunity Providers"
+            "Immunity Providers",
+            "Extra Damage Dealers",
+            "Minions Counters"
         ]
     },
     {
@@ -8469,7 +8492,9 @@ window.allHeroesExtra = [
             "AoE Attackers (Hit-5)",
             "Board Alterers",
             "Extra Damage Dealers",
-            "DoT Attackers"
+            "DoT Attackers",
+            "Debuffers (ATK)",
+            "Buffers (ATK)"
         ]
     },
     {
@@ -9431,6 +9456,7 @@ window.allHeroesExtra = [
         "AetherPower": "Attack Up",
         "skill_types": [
             "DoT Attackers",
+            "Extra Damage Dealers",
             "Minions Counters",
             "Snipers",
             "Damage Sharers",
@@ -10038,6 +10064,7 @@ window.allHeroesExtra = [
         "skill_types": [
             "Chain & Random Attackers",
             "Effect Duration Resetters",
+            "Extra Damage Dealers",
             "Minions Counters",
             "DoT Attackers",
             "Debuffers (DEF)"
@@ -11072,7 +11099,9 @@ window.allHeroesExtra = [
             "AoE Attackers (Hit-3)",
             "Debuffers (DEF)",
             "DoT Attackers",
-            "Effect Duration Resetters"
+            "Effect Duration Resetters",
+            "Extra Damage Dealers",
+            "Minions Counters"
         ]
     },
     {
@@ -11500,7 +11529,9 @@ window.allHeroesExtra = [
         "skill_types": [
             "AoE Attackers (Hit-3)",
             "Debuffers (DEF)",
-            "DoT Attackers"
+            "DoT Attackers",
+            "Extra Damage Dealers",
+            "Minions Counters"
         ]
     },
     {
@@ -11511,7 +11542,9 @@ window.allHeroesExtra = [
         "skill_types": [
             "AoE Attackers (Hit-3)",
             "DoT Attackers",
-            "Debuffers (DEF)"
+            "Debuffers (DEF)",
+            "Extra Damage Dealers",
+            "Minions Counters"
         ]
     },
     {
@@ -11537,7 +11570,9 @@ window.allHeroesExtra = [
             "Mana Generation Buffers",
             "Debuffers (DEF)",
             "Health Boosters",
-            "Resurrection Inhibitors"
+            "Resurrection Inhibitors",
+            "Extra Damage Dealers",
+            "Minions Counters"
         ]
     },
     {
@@ -11665,7 +11700,9 @@ window.allHeroesExtra = [
             "DoT Attackers",
             "Minions Summoners",
             "Debuffers (DEF)",
-            "Healing Reducers"
+            "Healing Reducers",
+            "Extra Damage Dealers",
+            "Minions Counters"
         ]
     },
     {
@@ -12355,7 +12392,8 @@ window.allHeroesExtra = [
             "Damage Reducers",
             "DoT Attackers",
             "Heal over Time (HoT)",
-            "Revivers"
+            "Revivers",
+            "Healers"
         ]
     },
     {
@@ -12873,6 +12911,7 @@ window.allHeroesExtra = [
         "skill_types": [
             "DoT Attackers",
             "Mana Reducers or Blockers",
+            "Extra Damage Dealers",
             "Minions Counters",
             "AoE Attackers (Hit-5)",
             "Silencers",
@@ -13912,6 +13951,7 @@ window.allHeroesExtra = [
         "Release date": "2024-12-03",
         "AetherPower": "Defense Up",
         "skill_types": [
+            "Extra Damage Dealers",
             "Minions Counters",
             "Snipers",
             "Extra Damage Dealers",
@@ -14947,6 +14987,7 @@ window.allHeroesExtra = [
         "AetherPower": "Attack Up",
         "skill_types": [
             "AoE Attackers (Hit-5)",
+            "Mana Reducers or Blockers",
             "Minions Counters",
             "DoT Attackers",
             "Extra Damage Dealers"
@@ -15698,7 +15739,9 @@ window.allHeroesExtra = [
             "Snipers",
             "Buff Stealers",
             "DoT Attackers",
-            "Mana Reducers or Blockers"
+            "Mana Reducers or Blockers",
+            "Extra Damage Dealers",
+            "Minions Counters"
         ]
     },
     {
@@ -15710,7 +15753,9 @@ window.allHeroesExtra = [
             "Snipers",
             "Buff Stealers",
             "DoT Attackers",
-            "Mana Reducers or Blockers"
+            "Mana Reducers or Blockers",
+            "Extra Damage Dealers",
+            "Minions Counters"
         ]
     },
     {
@@ -16453,6 +16498,54 @@ window.allHeroesExtra = [
             "Healers (Special)",
             "Ability Scores Modifiers",
             "Fiends Counters"
+        ]
+    },
+    {
+        "name": "Fruitio",
+        "fancy name": "Fruit Loving Slime",
+        "Release date": "2025-07-04",
+        "AetherPower": "Regen",
+        "skill_types": [
+            "Snipers",
+            "Extra Damage Dealers",
+            "Mana Reducers or Blockers"
+        ]
+    },
+    {
+        "name": "Lando",
+        "fancy name": "Magic Carpet Charmer",
+        "Release date": "2025-07-05",
+        "AetherPower": "Special Armor",
+        "skill_types": [
+            "Status Effect Conversion",
+            "Cleansers",
+            "AoE Attackers (Hit-5)",
+            "Minions Counters",
+            "Chain & Random Attackers"
+        ]
+    },
+    {
+        "name": "Nadezhda costume1",
+        "fancy name": "Tower Postmaster",
+        "Release date": "2025-07-05",
+        "AetherPower": "Special Armor",
+        "skill_types": [
+            "Damage Reducers",
+            "DoT Attackers",
+            "Heal over Time (HoT)",
+            "Minions Counters",
+            "Revivers",
+            "Healers"
+        ]
+    },
+    {
+        "name": "Verdigoo",
+        "fancy name": "Gooey Emerald Arbiter",
+        "Release date": "2025-07-04",
+        "AetherPower": "Rage",
+        "skill_types": [
+            "AoE Attackers (Hit-3)",
+            "Buff Stealers"
         ]
     }
 ];

@@ -801,5 +801,11 @@
     "Self Ghost": "自我幽灵形态",
     "Critical Chance Buff All": "全体暴击几率增益",
     "Cleanse Immunity 1": "单体净化免疫",
-    "Delayed Boosted Health All": "全体延迟生命值加成"
+    "Delayed Boosted Health All": "全体延迟生命值加成",
+    "Delayed Paralyzed 1": "单体延迟麻痹",
+    "Sticky Surface All": "全体粘性表面",
+    "Damage Reduction All": "全体伤害减免",
+    "Transform Ailments All": "全体状态异常转换",
+    "Delayed Damage All": "全体延迟伤害",
+    "Transform Ailments Self": "自我状态异常转换"
 }

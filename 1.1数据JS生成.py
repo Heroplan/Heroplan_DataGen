@@ -52,7 +52,7 @@ HEROES_DATA_EXTRA_FILE = 'heroes_data_extra.js'
 OUTPUT_JS_FILE_CN = 'heroes_data_cn.js'
 OUTPUT_JS_FILE_TC = 'heroes_data_tc.js'
 OUTPUT_JS_FILE_EN = 'heroes_data_en.js'
-HERO_STATS_FILE = 'hero_stats.json'
+HERO_STATS_FILE = '../突破数据爬取/hero_stats.json'
 
 # --- 全局变量 ---
 LANGUAGES = ['cn', 'tc', 'en']
