@@ -457,7 +457,7 @@ window.allHeroes =
             "提供免疫",
             "狙击手"
         ],
-        "source": "S1 - 经典",
+        "source": "服装间",
         "Release date": "2021-01-18",
         "star": 3,
         "power": 470,
@@ -504,7 +504,7 @@ window.allHeroes =
             "狙击手",
             "额外伤害"
         ],
-        "source": "S1 - 经典",
+        "source": "服装间",
         "Release date": "2024-04-08",
         "star": 3,
         "power": 504,
@@ -554,7 +554,7 @@ window.allHeroes =
             "特殊治疗",
             "狙击手"
         ],
-        "source": "S1 - 经典",
+        "source": "服装间",
         "Release date": "2025-06-18",
         "star": 3,
         "power": 513,
@@ -691,7 +691,7 @@ window.allHeroes =
             "伤害分摊",
             "防御减益"
         ],
-        "source": "S1 - 经典",
+        "source": "服装间",
         "Release date": "2020-01-20",
         "star": 3,
         "power": 470,
@@ -736,7 +736,7 @@ window.allHeroes =
             "防御增益",
             "伤害分摊"
         ],
-        "source": "S1 - 经典",
+        "source": "服装间",
         "Release date": "2024-09-08",
         "star": 3,
         "power": 503,
@@ -1115,7 +1115,7 @@ window.allHeroes =
             "范围攻击 (打3)",
             "持续伤害"
         ],
-        "source": "S1 - 经典",
+        "source": "服装间",
         "Release date": "2020-05-18",
         "star": 3,
         "power": 472,
@@ -1159,7 +1159,7 @@ window.allHeroes =
             "范围攻击 (打3)",
             "额外伤害"
         ],
-        "source": "S1 - 经典",
+        "source": "服装间",
         "Release date": "2024-06-28",
         "star": 3,
         "power": 505,
@@ -1498,7 +1498,7 @@ window.allHeroes =
             "全体攻击 (打5)",
             "攻击增益"
         ],
-        "source": "S1 - 经典",
+        "source": "服装间",
         "Release date": "2021-01-18",
         "star": 3,
         "power": 474,
@@ -1544,7 +1544,7 @@ window.allHeroes =
             "防御减益",
             "额外伤害"
         ],
-        "source": "S1 - 经典",
+        "source": "服装间",
         "Release date": "2024-07-16",
         "star": 3,
         "power": 507,
@@ -1637,7 +1637,7 @@ window.allHeroes =
             "攻击增益",
             "狙击手"
         ],
-        "source": "S1 - 经典",
+        "source": "服装间",
         "Release date": "2021-01-18",
         "star": 3,
         "power": 471,
@@ -1683,7 +1683,7 @@ window.allHeroes =
             "额外伤害",
             "狙击手"
         ],
-        "source": "S1 - 经典",
+        "source": "服装间",
         "Release date": "2023-12-25",
         "star": 3,
         "power": 503,
@@ -2274,7 +2274,7 @@ window.allHeroes =
         "skill_types": [
             "反击"
         ],
-        "source": "S1 - 经典",
+        "source": "服装间",
         "Release date": "2020-05-18",
         "star": 4,
         "power": 689,
@@ -2316,7 +2316,7 @@ window.allHeroes =
         "skill_types": [
             "反击"
         ],
-        "source": "S1 - 经典",
+        "source": "服装间",
         "Release date": "2023-11-27",
         "star": 4,
         "power": 735,
@@ -2358,7 +2358,7 @@ window.allHeroes =
         "skill_types": [
             "反击"
         ],
-        "source": "S1 - 经典",
+        "source": "服装间",
         "Release date": "2024-09-08",
         "star": 4,
         "power": 747,
@@ -2802,7 +2802,7 @@ window.allHeroes =
             "范围攻击 (打3)",
             "攻击增益"
         ],
-        "source": "S1 - 经典",
+        "source": "服装间",
         "Release date": "2021-01-18",
         "star": 4,
         "power": 687,
@@ -2846,7 +2846,7 @@ window.allHeroes =
             "范围攻击 (打3)",
             "攻击增益"
         ],
-        "source": "S1 - 经典",
+        "source": "服装间",
         "Release date": "2023-06-12",
         "star": 4,
         "power": 733,
@@ -2892,7 +2892,7 @@ window.allHeroes =
             "防御减益",
             "额外伤害"
         ],
-        "source": "S1 - 经典",
+        "source": "服装间",
         "Release date": "2023-12-25",
         "star": 4,
         "power": 746,
@@ -2941,7 +2941,7 @@ window.allHeroes =
             "绕过",
             "防御减益"
         ],
-        "source": "S1 - 经典",
+        "source": "服装间",
         "Release date": "2024-12-24",
         "star": 4,
         "power": 758,
@@ -3137,7 +3137,7 @@ window.allHeroes =
             "防御减益",
             "治疗"
         ],
-        "source": "S1 - 经典",
+        "source": "服装间",
         "Release date": "2020-05-18",
         "star": 4,
         "power": 692,
@@ -3185,7 +3185,7 @@ window.allHeroes =
             "攻击减益",
             "生命强化"
         ],
-        "source": "S1 - 经典",
+        "source": "服装间",
         "Release date": "2022-10-31",
         "star": 4,
         "power": 739,
@@ -3233,7 +3233,7 @@ window.allHeroes =
             "防御增益",
             "治疗"
         ],
-        "source": "S1 - 经典",
+        "source": "服装间",
         "Release date": "2024-02-12",
         "star": 4,
         "power": 751,
@@ -3286,7 +3286,7 @@ window.allHeroes =
             "治疗",
             "反射"
         ],
-        "source": "S1 - 经典",
+        "source": "服装间",
         "Release date": "2025-03-11",
         "star": 4,
         "power": 763,
@@ -3382,7 +3382,7 @@ window.allHeroes =
         "speed": "快速",
         "skill": "海之枷锁",
         "types": [
-            "攻击1/3/所有目标"
+            "攻击 (1/3/所有) 目标"
         ],
         "skill_types": [
             "范围攻击 (打3)",
@@ -3738,7 +3738,7 @@ window.allHeroes =
             "净化",
             "狙击手"
         ],
-        "source": "S1 - 经典",
+        "source": "服装间",
         "Release date": "2020-01-20",
         "star": 4,
         "power": 688,
@@ -3783,7 +3783,7 @@ window.allHeroes =
             "增益格挡者",
             "狙击手"
         ],
-        "source": "S1 - 经典",
+        "source": "服装间",
         "Release date": "2023-11-27",
         "star": 4,
         "power": 734,
@@ -3829,7 +3829,7 @@ window.allHeroes =
             "额外伤害",
             "驱散"
         ],
-        "source": "S1 - 经典",
+        "source": "服装间",
         "Release date": "2024-07-16",
         "star": 4,
         "power": 746,
@@ -8237,7 +8237,7 @@ window.allHeroes =
             "全体攻击 (打5)",
             "防御减益"
         ],
-        "source": "S1 - 经典",
+        "source": "服装间",
         "Release date": "2020-01-20",
         "star": 5,
         "power": 848,
@@ -8283,7 +8283,7 @@ window.allHeroes =
             "攻击减益",
             "额外伤害"
         ],
-        "source": "S1 - 经典",
+        "source": "服装间",
         "Release date": "2022-09-05",
         "star": 5,
         "power": 962,
@@ -8330,7 +8330,7 @@ window.allHeroes =
             "防御减益",
             "额外伤害"
         ],
-        "source": "S1 - 经典",
+        "source": "服装间",
         "Release date": "2024-05-06",
         "star": 5,
         "power": 1128,
@@ -8380,7 +8380,7 @@ window.allHeroes =
             "绕过",
             "防御减益"
         ],
-        "source": "S1 - 经典",
+        "source": "服装间",
         "Release date": "2025-06-18",
         "star": 5,
         "power": 1236,
@@ -9217,7 +9217,7 @@ window.allHeroes =
             "防御减益",
             "狙击手"
         ],
-        "source": "S1 - 经典",
+        "source": "服装间",
         "Release date": "2020-05-18",
         "star": 5,
         "power": 849,
@@ -9262,7 +9262,7 @@ window.allHeroes =
             "范围攻击 (打3)",
             "防御减益"
         ],
-        "source": "S1 - 经典",
+        "source": "服装间",
         "Release date": "2022-10-31",
         "star": 5,
         "power": 964,
@@ -9308,7 +9308,7 @@ window.allHeroes =
             "额外伤害",
             "狙击手"
         ],
-        "source": "S1 - 经典",
+        "source": "服装间",
         "Release date": "2024-01-22",
         "star": 5,
         "power": 1130,
@@ -9358,7 +9358,7 @@ window.allHeroes =
             "绕过",
             "狙击手"
         ],
-        "source": "S1 - 经典",
+        "source": "服装间",
         "Release date": "2025-03-11",
         "star": 5,
         "power": 1236,
@@ -11553,7 +11553,7 @@ window.allHeroes =
             "范围攻击 (打3)",
             "攻击减益"
         ],
-        "source": "S1 - 经典",
+        "source": "服装间",
         "Release date": "2020-01-20",
         "star": 5,
         "power": 849,
@@ -11599,7 +11599,7 @@ window.allHeroes =
             "攻击减益",
             "叠加"
         ],
-        "source": "S1 - 经典",
+        "source": "服装间",
         "Release date": "2023-09-04",
         "star": 5,
         "power": 965,
@@ -11645,7 +11645,7 @@ window.allHeroes =
             "攻击减益",
             "额外伤害"
         ],
-        "source": "S1 - 经典",
+        "source": "服装间",
         "Release date": "2023-10-30",
         "star": 5,
         "power": 1130,
@@ -11695,7 +11695,7 @@ window.allHeroes =
             "绕过",
             "攻击减益"
         ],
-        "source": "S1 - 经典",
+        "source": "服装间",
         "Release date": "2024-12-24",
         "star": 5,
         "power": 1235,
@@ -13296,7 +13296,7 @@ window.allHeroes =
             "法力生成增益",
             "狙击手"
         ],
-        "source": "S1 - 经典",
+        "source": "服装间",
         "Release date": "2021-01-18",
         "star": 5,
         "power": 852,
@@ -13343,7 +13343,7 @@ window.allHeroes =
             "法力提升",
             "法力削减或格挡"
         ],
-        "source": "S1 - 经典",
+        "source": "服装间",
         "Release date": "2023-07-10",
         "star": 5,
         "power": 968,
@@ -13388,7 +13388,7 @@ window.allHeroes =
             "范围攻击 (打3)",
             "额外伤害"
         ],
-        "source": "S1 - 经典",
+        "source": "服装间",
         "Release date": "2024-09-08",
         "star": 5,
         "power": 1135,
@@ -14325,7 +14325,7 @@ window.allHeroes =
             "持续治疗",
             "提供免疫"
         ],
-        "source": "S1 - 经典",
+        "source": "服装间",
         "Release date": "2020-05-18",
         "star": 3,
         "power": 471,
@@ -14372,7 +14372,7 @@ window.allHeroes =
             "治疗",
             "防御增益"
         ],
-        "source": "S1 - 经典",
+        "source": "服装间",
         "Release date": "2024-04-08",
         "star": 3,
         "power": 504,
@@ -14422,7 +14422,7 @@ window.allHeroes =
             "反射",
             "驱散"
         ],
-        "source": "S1 - 经典",
+        "source": "服装间",
         "Release date": "2025-04-23",
         "star": 3,
         "power": 513,
@@ -14515,7 +14515,7 @@ window.allHeroes =
             "防御减益",
             "狙击手"
         ],
-        "source": "S1 - 经典",
+        "source": "服装间",
         "Release date": "2020-05-18",
         "star": 3,
         "power": 473,
@@ -14561,7 +14561,7 @@ window.allHeroes =
             "狙击手",
             "额外伤害"
         ],
-        "source": "S1 - 经典",
+        "source": "服装间",
         "Release date": "2024-05-06",
         "star": 3,
         "power": 506,
@@ -14611,7 +14611,7 @@ window.allHeroes =
             "攻击减益",
             "狙击手"
         ],
-        "source": "S1 - 经典",
+        "source": "服装间",
         "Release date": "2025-05-10",
         "star": 3,
         "power": 515,
@@ -14699,7 +14699,7 @@ window.allHeroes =
         "skill_types": [
             "防御减益"
         ],
-        "source": "S1 - 经典",
+        "source": "服装间",
         "Release date": "2020-01-20",
         "star": 3,
         "power": 469,
@@ -14741,7 +14741,7 @@ window.allHeroes =
         "skill_types": [
             "攻击增益"
         ],
-        "source": "S1 - 经典",
+        "source": "服装间",
         "Release date": "2024-01-22",
         "star": 3,
         "power": 502,
@@ -14788,7 +14788,7 @@ window.allHeroes =
             "攻击增益",
             "反射"
         ],
-        "source": "S1 - 经典",
+        "source": "服装间",
         "Release date": "2025-03-11",
         "star": 3,
         "power": 510,
@@ -14934,7 +14934,7 @@ window.allHeroes =
             "全体攻击 (打5)",
             "法力削减或格挡"
         ],
-        "source": "S1 - 经典",
+        "source": "服装间",
         "Release date": "2020-05-18",
         "star": 3,
         "power": 473,
@@ -14980,7 +14980,7 @@ window.allHeroes =
             "法力削减或格挡",
             "额外伤害"
         ],
-        "source": "S1 - 经典",
+        "source": "服装间",
         "Release date": "2024-06-28",
         "star": 3,
         "power": 506,
@@ -15379,7 +15379,7 @@ window.allHeroes =
             "治疗",
             "法力生成增益"
         ],
-        "source": "S1 - 经典",
+        "source": "服装间",
         "Release date": "2020-05-18",
         "star": 3,
         "power": 476,
@@ -15424,7 +15424,7 @@ window.allHeroes =
             "治疗",
             "法力生成增益"
         ],
-        "source": "S1 - 经典",
+        "source": "服装间",
         "Release date": "2024-05-31",
         "star": 3,
         "power": 509,
@@ -15473,7 +15473,7 @@ window.allHeroes =
             "法力生成增益",
             "反射"
         ],
-        "source": "S1 - 经典",
+        "source": "服装间",
         "Release date": "2025-06-18",
         "star": 3,
         "power": 517,
@@ -15896,7 +15896,7 @@ window.allHeroes =
             "范围攻击 (打3)",
             "防御减益"
         ],
-        "source": "S1 - 经典",
+        "source": "服装间",
         "Release date": "2020-05-18",
         "star": 3,
         "power": 476,
@@ -15940,7 +15940,7 @@ window.allHeroes =
             "范围攻击 (打3)",
             "额外伤害"
         ],
-        "source": "S1 - 经典",
+        "source": "服装间",
         "Release date": "2024-07-16",
         "star": 3,
         "power": 510,
@@ -16992,7 +16992,7 @@ window.allHeroes =
             "净化",
             "狙击手"
         ],
-        "source": "S1 - 经典",
+        "source": "服装间",
         "Release date": "2020-05-18",
         "star": 4,
         "power": 688,
@@ -17038,7 +17038,7 @@ window.allHeroes =
             "增益格挡者",
             "驱散"
         ],
-        "source": "S1 - 经典",
+        "source": "服装间",
         "Release date": "2022-12-26",
         "star": 4,
         "power": 734,
@@ -17085,7 +17085,7 @@ window.allHeroes =
             "额外伤害",
             "狙击手"
         ],
-        "source": "S1 - 经典",
+        "source": "服装间",
         "Release date": "2024-01-22",
         "star": 4,
         "power": 746,
@@ -17136,7 +17136,7 @@ window.allHeroes =
             "驱散",
             "狙击手"
         ],
-        "source": "S1 - 经典",
+        "source": "服装间",
         "Release date": "2025-01-14",
         "star": 4,
         "power": 759,
@@ -17754,7 +17754,7 @@ window.allHeroes =
             "治疗",
             "生命强化"
         ],
-        "source": "S1 - 经典",
+        "source": "服装间",
         "Release date": "2020-05-18",
         "star": 4,
         "power": 690,
@@ -17799,7 +17799,7 @@ window.allHeroes =
             "防御增益",
             "持续治疗"
         ],
-        "source": "S1 - 经典",
+        "source": "服装间",
         "Release date": "2023-11-27",
         "star": 4,
         "power": 736,
@@ -17844,7 +17844,7 @@ window.allHeroes =
             "防御增益",
             "治疗"
         ],
-        "source": "S1 - 经典",
+        "source": "服装间",
         "Release date": "2024-05-31",
         "star": 4,
         "power": 748,
@@ -17893,7 +17893,7 @@ window.allHeroes =
             "治疗",
             "反射"
         ],
-        "source": "S1 - 经典",
+        "source": "服装间",
         "Release date": "2025-06-18",
         "star": 4,
         "power": 761,
@@ -18041,7 +18041,7 @@ window.allHeroes =
             "闪避",
             "法力提升"
         ],
-        "source": "S1 - 经典",
+        "source": "服装间",
         "Release date": "2020-05-18",
         "star": 4,
         "power": 686,
@@ -18086,7 +18086,7 @@ window.allHeroes =
             "全体攻击 (打5)",
             "法力生成增益"
         ],
-        "source": "S1 - 经典",
+        "source": "服装间",
         "Release date": "2023-10-30",
         "star": 4,
         "power": 732,
@@ -18132,7 +18132,7 @@ window.allHeroes =
             "法力削减或格挡",
             "额外伤害"
         ],
-        "source": "S1 - 经典",
+        "source": "服装间",
         "Release date": "2024-05-06",
         "star": 4,
         "power": 744,
@@ -18182,7 +18182,7 @@ window.allHeroes =
             "绕过",
             "法力削减或格挡"
         ],
-        "source": "S1 - 经典",
+        "source": "服装间",
         "Release date": "2025-05-10",
         "star": 4,
         "power": 756,
@@ -18326,7 +18326,7 @@ window.allHeroes =
             "驱散",
             "持续治疗"
         ],
-        "source": "S1 - 经典",
+        "source": "服装间",
         "Release date": "2020-01-20",
         "star": 4,
         "power": 683,
@@ -18374,7 +18374,7 @@ window.allHeroes =
             "驱散",
             "持续治疗"
         ],
-        "source": "S1 - 经典",
+        "source": "服装间",
         "Release date": "2023-10-30",
         "star": 4,
         "power": 729,
@@ -18422,7 +18422,7 @@ window.allHeroes =
             "驱散",
             "治疗"
         ],
-        "source": "S1 - 经典",
+        "source": "服装间",
         "Release date": "2024-01-22",
         "star": 4,
         "power": 741,
@@ -18473,7 +18473,7 @@ window.allHeroes =
             "治疗",
             "反射"
         ],
-        "source": "S1 - 经典",
+        "source": "服装间",
         "Release date": "2025-03-11",
         "star": 4,
         "power": 753,
@@ -19188,7 +19188,7 @@ window.allHeroes =
             "全体攻击 (打5)",
             "攻击减益"
         ],
-        "source": "S1 - 经典",
+        "source": "服装间",
         "Release date": "2020-01-20",
         "star": 4,
         "power": 688,
@@ -19233,7 +19233,7 @@ window.allHeroes =
             "全体攻击 (打5)",
             "防御减益"
         ],
-        "source": "S1 - 经典",
+        "source": "服装间",
         "Release date": "2023-04-17",
         "star": 4,
         "power": 735,
@@ -19279,7 +19279,7 @@ window.allHeroes =
             "攻击减益",
             "额外伤害"
         ],
-        "source": "S1 - 经典",
+        "source": "服装间",
         "Release date": "2024-03-11",
         "star": 4,
         "power": 746,
@@ -19329,7 +19329,7 @@ window.allHeroes =
             "绕过",
             "攻击减益"
         ],
-        "source": "S1 - 经典",
+        "source": "服装间",
         "Release date": "2025-04-08",
         "star": 4,
         "power": 759,
@@ -21546,7 +21546,7 @@ window.allHeroes =
             "特殊治疗",
             "治疗削减"
         ],
-        "source": "S1 - 经典",
+        "source": "服装间",
         "Release date": "2020-05-18",
         "star": 5,
         "power": 852,
@@ -21591,7 +21591,7 @@ window.allHeroes =
             "全体攻击 (打5)",
             "治疗削减"
         ],
-        "source": "S1 - 经典",
+        "source": "服装间",
         "Release date": "2022-09-05",
         "star": 5,
         "power": 968,
@@ -21637,7 +21637,7 @@ window.allHeroes =
             "额外伤害",
             "特殊治疗"
         ],
-        "source": "S1 - 经典",
+        "source": "服装间",
         "Release date": "2023-11-27",
         "star": 5,
         "power": 1135,
@@ -21686,7 +21686,7 @@ window.allHeroes =
             "绕过",
             "特殊治疗"
         ],
-        "source": "S1 - 经典",
+        "source": "服装间",
         "Release date": "2025-01-14",
         "star": 5,
         "power": 1242,
@@ -23891,7 +23891,7 @@ window.allHeroes =
             "全体攻击 (打5)",
             "攻击减益"
         ],
-        "source": "S1 - 经典",
+        "source": "服装间",
         "Release date": "2020-01-20",
         "star": 5,
         "power": 849,
@@ -23940,7 +23940,7 @@ window.allHeroes =
             "防御减益",
             "持续伤害"
         ],
-        "source": "S1 - 经典",
+        "source": "服装间",
         "Release date": "2022-10-31",
         "star": 5,
         "power": 966,
@@ -23988,7 +23988,7 @@ window.allHeroes =
             "攻击减益",
             "额外伤害"
         ],
-        "source": "S1 - 经典",
+        "source": "服装间",
         "Release date": "2024-07-16",
         "star": 5,
         "power": 1131,
@@ -24306,7 +24306,7 @@ window.allHeroes =
             "闪避",
             "召唤小兵"
         ],
-        "source": "S1 - 经典",
+        "source": "服装间",
         "Release date": "2020-05-18",
         "star": 5,
         "power": 851,
@@ -24353,7 +24353,7 @@ window.allHeroes =
             "召唤小兵",
             "全体攻击 (打5)"
         ],
-        "source": "S1 - 经典",
+        "source": "服装间",
         "Release date": "2023-04-17",
         "star": 5,
         "power": 966,
@@ -24400,7 +24400,7 @@ window.allHeroes =
             "防御增益",
             "额外伤害"
         ],
-        "source": "S1 - 经典",
+        "source": "服装间",
         "Release date": "2024-10-06",
         "star": 5,
         "power": 1133,
@@ -24999,7 +24999,7 @@ window.allHeroes =
             "法力削减或格挡",
             "狙击手"
         ],
-        "source": "S1 - 经典",
+        "source": "服装间",
         "Release date": "2020-01-20",
         "star": 5,
         "power": 849,
@@ -25044,7 +25044,7 @@ window.allHeroes =
             "沉默",
             "狙击手"
         ],
-        "source": "S1 - 经典",
+        "source": "服装间",
         "Release date": "2023-04-17",
         "star": 5,
         "power": 964,
@@ -25088,7 +25088,7 @@ window.allHeroes =
             "额外伤害",
             "狙击手"
         ],
-        "source": "S1 - 经典",
+        "source": "服装间",
         "Release date": "2024-02-12",
         "star": 5,
         "power": 1130,
@@ -25135,7 +25135,7 @@ window.allHeroes =
             "绕过",
             "狙击手"
         ],
-        "source": "S1 - 经典",
+        "source": "服装间",
         "Release date": "2025-05-10",
         "star": 5,
         "power": 1237,
@@ -29520,7 +29520,7 @@ window.allHeroes =
             "持续伤害",
             "狙击手"
         ],
-        "source": "S1 - 经典",
+        "source": "服装间",
         "Release date": "2020-05-18",
         "star": 3,
         "power": 472,
@@ -29564,7 +29564,7 @@ window.allHeroes =
             "额外伤害",
             "狙击手"
         ],
-        "source": "S1 - 经典",
+        "source": "服装间",
         "Release date": "2024-01-22",
         "star": 3,
         "power": 505,
@@ -29611,7 +29611,7 @@ window.allHeroes =
             "绕过",
             "狙击手"
         ],
-        "source": "S1 - 经典",
+        "source": "服装间",
         "Release date": "2025-03-11",
         "star": 3,
         "power": 513,
@@ -30436,7 +30436,7 @@ window.allHeroes =
         "skill_types": [
             "持续伤害"
         ],
-        "source": "S1 - 经典",
+        "source": "服装间",
         "Release date": "2021-01-18",
         "star": 3,
         "power": 474,
@@ -30481,7 +30481,7 @@ window.allHeroes =
             "持续伤害",
             "额外伤害"
         ],
-        "source": "S1 - 经典",
+        "source": "服装间",
         "Release date": "2024-08-11",
         "star": 3,
         "power": 508,
@@ -30621,7 +30621,7 @@ window.allHeroes =
             "范围攻击 (打3)",
             "特殊治疗"
         ],
-        "source": "S1 - 经典",
+        "source": "服装间",
         "Release date": "2020-05-18",
         "star": 3,
         "power": 476,
@@ -30667,7 +30667,7 @@ window.allHeroes =
             "特殊治疗",
             "狙击手"
         ],
-        "source": "S1 - 经典",
+        "source": "服装间",
         "Release date": "2024-02-12",
         "star": 3,
         "power": 510,
@@ -30717,7 +30717,7 @@ window.allHeroes =
             "特殊治疗",
             "狙击手"
         ],
-        "source": "S1 - 经典",
+        "source": "服装间",
         "Release date": "2025-04-08",
         "star": 3,
         "power": 519,
@@ -30811,7 +30811,7 @@ window.allHeroes =
             "法力削减或格挡",
             "狙击手"
         ],
-        "source": "S1 - 经典",
+        "source": "服装间",
         "Release date": "2020-05-18",
         "star": 3,
         "power": 474,
@@ -30857,7 +30857,7 @@ window.allHeroes =
             "特殊治疗",
             "额外伤害"
         ],
-        "source": "S1 - 经典",
+        "source": "服装间",
         "Release date": "2024-09-08",
         "star": 3,
         "power": 507,
@@ -31001,7 +31001,7 @@ window.allHeroes =
             "净化",
             "狙击手"
         ],
-        "source": "S1 - 经典",
+        "source": "服装间",
         "Release date": "2020-01-20",
         "star": 3,
         "power": 470,
@@ -31047,7 +31047,7 @@ window.allHeroes =
             "狙击手",
             "额外伤害"
         ],
-        "source": "S1 - 经典",
+        "source": "服装间",
         "Release date": "2024-10-06",
         "star": 3,
         "power": 505,
@@ -31784,7 +31784,7 @@ window.allHeroes =
         "skill_types": [
             "反击"
         ],
-        "source": "S1 - 经典",
+        "source": "服装间",
         "Release date": "2021-01-18",
         "star": 4,
         "power": 688,
@@ -31830,7 +31830,7 @@ window.allHeroes =
             "伤害减免",
             "法力提升"
         ],
-        "source": "S1 - 经典",
+        "source": "服装间",
         "Release date": "2023-04-17",
         "star": 4,
         "power": 735,
@@ -31874,7 +31874,7 @@ window.allHeroes =
         "skill_types": [
             "反击"
         ],
-        "source": "S1 - 经典",
+        "source": "服装间",
         "Release date": "2024-04-08",
         "star": 4,
         "power": 747,
@@ -31919,7 +31919,7 @@ window.allHeroes =
         "skill_types": [
             "反击"
         ],
-        "source": "S1 - 经典",
+        "source": "服装间",
         "Release date": "2025-04-23",
         "star": 4,
         "power": 759,
@@ -32001,7 +32001,7 @@ window.allHeroes =
     },
     {
         "name": "福克斯格洛夫 (Foxglove)",
-        "fancy_name": "The Sly Bat-eared Fox    ",
+        "fancy_name": "狡猾的蝙蝠耳狐",
         "AetherPower": "特殊技能加成",
         "color": "紫",
         "class": "巫师",
@@ -32843,7 +32843,7 @@ window.allHeroes =
             "净化",
             "持续治疗"
         ],
-        "source": "S1 - 经典",
+        "source": "服装间",
         "Release date": "2020-01-20",
         "star": 4,
         "power": 690,
@@ -32891,7 +32891,7 @@ window.allHeroes =
             "净化",
             "生命强化"
         ],
-        "source": "S1 - 经典",
+        "source": "服装间",
         "Release date": "2023-04-17",
         "star": 4,
         "power": 736,
@@ -32939,7 +32939,7 @@ window.allHeroes =
             "治疗",
             "防御增益"
         ],
-        "source": "S1 - 经典",
+        "source": "服装间",
         "Release date": "2024-06-28",
         "star": 4,
         "power": 749,
@@ -33034,7 +33034,7 @@ window.allHeroes =
             "驱散",
             "持续治疗"
         ],
-        "source": "S1 - 经典",
+        "source": "服装间",
         "Release date": "2021-01-18",
         "star": 4,
         "power": 684,
@@ -33082,7 +33082,7 @@ window.allHeroes =
             "持续治疗",
             "提供免疫"
         ],
-        "source": "S1 - 经典",
+        "source": "服装间",
         "Release date": "2023-11-27",
         "star": 4,
         "power": 730,
@@ -33130,7 +33130,7 @@ window.allHeroes =
             "驱散",
             "治疗"
         ],
-        "source": "S1 - 经典",
+        "source": "服装间",
         "Release date": "2024-10-06",
         "star": 4,
         "power": 742,
@@ -33533,7 +33533,7 @@ window.allHeroes =
             "全体攻击 (打5)",
             "防御减益"
         ],
-        "source": "S1 - 经典",
+        "source": "服装间",
         "Release date": "2020-01-20",
         "star": 4,
         "power": 684,
@@ -33578,7 +33578,7 @@ window.allHeroes =
             "范围攻击 (打3)",
             "最大生命削减"
         ],
-        "source": "S1 - 经典",
+        "source": "服装间",
         "Release date": "2023-10-30",
         "star": 4,
         "power": 729,
@@ -33624,7 +33624,7 @@ window.allHeroes =
             "防御减益",
             "额外伤害"
         ],
-        "source": "S1 - 经典",
+        "source": "服装间",
         "Release date": "2024-08-11",
         "star": 4,
         "power": 742,
@@ -35732,7 +35732,7 @@ window.allHeroes =
             "持续伤害",
             "狙击手"
         ],
-        "source": "S1 - 经典",
+        "source": "服装间",
         "Release date": "2020-05-18",
         "star": 5,
         "power": 851,
@@ -35779,7 +35779,7 @@ window.allHeroes =
             "防御减益",
             "额外伤害"
         ],
-        "source": "S1 - 经典",
+        "source": "服装间",
         "Release date": "2022-10-31",
         "star": 5,
         "power": 967,
@@ -35828,7 +35828,7 @@ window.allHeroes =
             "额外伤害",
             "驱散"
         ],
-        "source": "S1 - 经典",
+        "source": "服装间",
         "Release date": "2024-03-11",
         "star": 5,
         "power": 1134,
@@ -35881,7 +35881,7 @@ window.allHeroes =
             "驱散",
             "狙击手"
         ],
-        "source": "S1 - 经典",
+        "source": "服装间",
         "Release date": "2025-04-23",
         "star": 5,
         "power": 1241,
@@ -39806,7 +39806,7 @@ window.allHeroes =
             "全体攻击 (打5)",
             "反击"
         ],
-        "source": "S1 - 经典",
+        "source": "服装间",
         "Release date": "2021-01-18",
         "star": 5,
         "power": 851,
@@ -39853,7 +39853,7 @@ window.allHeroes =
             "反击",
             "法力提升"
         ],
-        "source": "S1 - 经典",
+        "source": "服装间",
         "Release date": "2022-09-05",
         "star": 5,
         "power": 966,
@@ -39900,7 +39900,7 @@ window.allHeroes =
             "反击",
             "额外伤害"
         ],
-        "source": "S1 - 经典",
+        "source": "服装间",
         "Release date": "2023-11-27",
         "star": 5,
         "power": 1132,
@@ -39950,7 +39950,7 @@ window.allHeroes =
             "绕过",
             "反击"
         ],
-        "source": "S1 - 经典",
+        "source": "服装间",
         "Release date": "2025-01-14",
         "star": 5,
         "power": 1237,
@@ -40551,7 +40551,7 @@ window.allHeroes =
             "全体攻击 (打5)",
             "攻击减益"
         ],
-        "source": "S1 - 经典",
+        "source": "服装间",
         "Release date": "2020-01-01",
         "star": 5,
         "power": 852,
@@ -40596,7 +40596,7 @@ window.allHeroes =
             "精神错乱攻击&治疗",
             "范围攻击 (打3)"
         ],
-        "source": "S1 - 经典",
+        "source": "服装间",
         "Release date": "2022-12-26",
         "star": 5,
         "power": 969,
@@ -40640,7 +40640,7 @@ window.allHeroes =
             "全体攻击 (打5)",
             "额外伤害"
         ],
-        "source": "S1 - 经典",
+        "source": "服装间",
         "Release date": "2024-08-11",
         "star": 5,
         "power": 1135,
@@ -41063,7 +41063,7 @@ window.allHeroes =
         "skill_types": [
             "狙击手"
         ],
-        "source": "S1 - 经典",
+        "source": "服装间",
         "Release date": "2020-05-18",
         "star": 5,
         "power": 853,
@@ -41108,7 +41108,7 @@ window.allHeroes =
             "反制小兵",
             "狙击手"
         ],
-        "source": "S1 - 经典",
+        "source": "服装间",
         "Release date": "2023-06-12",
         "star": 5,
         "power": 971,
@@ -41155,7 +41155,7 @@ window.allHeroes =
             "额外伤害",
             "狙击手"
         ],
-        "source": "S1 - 经典",
+        "source": "服装间",
         "Release date": "2023-10-30",
         "star": 5,
         "power": 1137,
@@ -41204,7 +41204,7 @@ window.allHeroes =
             "持续伤害",
             "狙击手"
         ],
-        "source": "S1 - 经典",
+        "source": "服装间",
         "Release date": "2024-12-24",
         "star": 5,
         "power": 1242,
@@ -43938,7 +43938,7 @@ window.allHeroes =
             "范围攻击 (打3)",
             "法力削减或格挡"
         ],
-        "source": "S1 - 经典",
+        "source": "服装间",
         "Release date": "2020-05-18",
         "star": 3,
         "power": 473,
@@ -43984,7 +43984,7 @@ window.allHeroes =
             "狙击手",
             "额外伤害"
         ],
-        "source": "S1 - 经典",
+        "source": "服装间",
         "Release date": "2024-03-11",
         "star": 3,
         "power": 506,
@@ -44034,7 +44034,7 @@ window.allHeroes =
             "法力削减或格挡",
             "狙击手"
         ],
-        "source": "S1 - 经典",
+        "source": "服装间",
         "Release date": "2025-04-23",
         "star": 3,
         "power": 514,
@@ -44628,7 +44628,7 @@ window.allHeroes =
             "攻击增益",
             "持续治疗"
         ],
-        "source": "S1 - 经典",
+        "source": "服装间",
         "Release date": "2020-01-20",
         "star": 3,
         "power": 474,
@@ -44673,7 +44673,7 @@ window.allHeroes =
             "治疗",
             "防御增益"
         ],
-        "source": "S1 - 经典",
+        "source": "服装间",
         "Release date": "2024-05-06",
         "star": 3,
         "power": 507,
@@ -44820,7 +44820,7 @@ window.allHeroes =
             "全体攻击 (打5)",
             "持续伤害"
         ],
-        "source": "S1 - 经典",
+        "source": "服装间",
         "Release date": "2021-01-18",
         "star": 3,
         "power": 473,
@@ -44866,7 +44866,7 @@ window.allHeroes =
             "持续伤害",
             "额外伤害"
         ],
-        "source": "S1 - 经典",
+        "source": "服装间",
         "Release date": "2023-12-25",
         "star": 3,
         "power": 506,
@@ -44915,7 +44915,7 @@ window.allHeroes =
             "绕过",
             "持续伤害"
         ],
-        "source": "S1 - 经典",
+        "source": "服装间",
         "Release date": "2024-12-25",
         "star": 3,
         "power": 514,
@@ -45206,7 +45206,7 @@ window.allHeroes =
             "持续伤害",
             "狙击手"
         ],
-        "source": "S1 - 经典",
+        "source": "服装间",
         "Release date": "2021-01-18",
         "star": 3,
         "power": 472,
@@ -45252,7 +45252,7 @@ window.allHeroes =
             "狙击手",
             "额外伤害"
         ],
-        "source": "S1 - 经典",
+        "source": "服装间",
         "Release date": "2024-05-31",
         "star": 3,
         "power": 505,
@@ -45970,7 +45970,7 @@ window.allHeroes =
             "攻击增益",
             "治疗"
         ],
-        "source": "S1 - 经典",
+        "source": "服装间",
         "Release date": "2020-01-20",
         "star": 4,
         "power": 690,
@@ -46016,7 +46016,7 @@ window.allHeroes =
             "持续治疗",
             "生命强化"
         ],
-        "source": "S1 - 经典",
+        "source": "服装间",
         "Release date": "2023-06-12",
         "star": 4,
         "power": 736,
@@ -46061,7 +46061,7 @@ window.allHeroes =
             "攻击增益",
             "治疗"
         ],
-        "source": "S1 - 经典",
+        "source": "服装间",
         "Release date": "2023-12-25",
         "star": 4,
         "power": 748,
@@ -46111,7 +46111,7 @@ window.allHeroes =
             "治疗",
             "反射"
         ],
-        "source": "S1 - 经典",
+        "source": "服装间",
         "Release date": "2024-12-24",
         "star": 4,
         "power": 761,
@@ -46306,7 +46306,7 @@ window.allHeroes =
             "全体攻击 (打5)",
             "持续伤害"
         ],
-        "source": "S1 - 经典",
+        "source": "服装间",
         "Release date": "2021-01-18",
         "star": 4,
         "power": 688,
@@ -46352,7 +46352,7 @@ window.allHeroes =
             "防御减益",
             "额外伤害"
         ],
-        "source": "S1 - 经典",
+        "source": "服装间",
         "Release date": "2023-06-12",
         "star": 4,
         "power": 733,
@@ -46399,7 +46399,7 @@ window.allHeroes =
             "持续伤害",
             "额外伤害"
         ],
-        "source": "S1 - 经典",
+        "source": "服装间",
         "Release date": "2024-03-11",
         "star": 4,
         "power": 746,
@@ -46449,7 +46449,7 @@ window.allHeroes =
             "绕过",
             "持续伤害"
         ],
-        "source": "S1 - 经典",
+        "source": "服装间",
         "Release date": "2025-04-08",
         "star": 4,
         "power": 758,
@@ -46680,7 +46680,7 @@ window.allHeroes =
             "特殊治疗",
             "反制小兵"
         ],
-        "source": "S1 - 经典",
+        "source": "服装间",
         "Release date": "2021-01-18",
         "star": 4,
         "power": 689,
@@ -46726,7 +46726,7 @@ window.allHeroes =
             "全体攻击 (打5)",
             "驱散"
         ],
-        "source": "S1 - 经典",
+        "source": "服装间",
         "Release date": "2023-04-17",
         "star": 4,
         "power": 735,
@@ -46772,7 +46772,7 @@ window.allHeroes =
             "防御减益",
             "额外伤害"
         ],
-        "source": "S1 - 经典",
+        "source": "服装间",
         "Release date": "2024-05-06",
         "star": 4,
         "power": 747,
@@ -46822,7 +46822,7 @@ window.allHeroes =
             "绕过",
             "防御减益"
         ],
-        "source": "S1 - 经典",
+        "source": "服装间",
         "Release date": "2025-05-10",
         "star": 4,
         "power": 760,
@@ -47108,7 +47108,7 @@ window.allHeroes =
         "skill_types": [
             "持续伤害"
         ],
-        "source": "S1 - 经典",
+        "source": "服装间",
         "Release date": "2021-01-18",
         "star": 4,
         "power": 688,
@@ -47153,7 +47153,7 @@ window.allHeroes =
             "持续伤害",
             "特殊治疗"
         ],
-        "source": "S1 - 经典",
+        "source": "服装间",
         "Release date": "2022-09-05",
         "star": 4,
         "power": 734,
@@ -47199,7 +47199,7 @@ window.allHeroes =
             "狙击手",
             "额外伤害"
         ],
-        "source": "S1 - 经典",
+        "source": "服装间",
         "Release date": "2024-04-08",
         "star": 4,
         "power": 746,
@@ -47249,7 +47249,7 @@ window.allHeroes =
             "持续伤害",
             "狙击手"
         ],
-        "source": "S1 - 经典",
+        "source": "服装间",
         "Release date": "2025-04-23",
         "star": 4,
         "power": 758,
@@ -47859,7 +47859,7 @@ window.allHeroes =
             "持续伤害",
             "范围攻击 (打3)"
         ],
-        "source": "S1 - 经典",
+        "source": "服装间",
         "Release date": "2021-01-18",
         "star": 4,
         "power": 685,
@@ -47906,7 +47906,7 @@ window.allHeroes =
             "攻击减益",
             "叠加"
         ],
-        "source": "S1 - 经典",
+        "source": "服装间",
         "Release date": "2023-10-30",
         "star": 4,
         "power": 731,
@@ -47952,7 +47952,7 @@ window.allHeroes =
             "攻击减益",
             "额外伤害"
         ],
-        "source": "S1 - 经典",
+        "source": "服装间",
         "Release date": "2024-08-11",
         "star": 4,
         "power": 743,
@@ -49471,7 +49471,7 @@ window.allHeroes =
             "持续伤害",
             "额外伤害"
         ],
-        "source": "S1 - 经典",
+        "source": "服装间",
         "Release date": "2020-05-18",
         "star": 5,
         "power": 852,
@@ -49518,7 +49518,7 @@ window.allHeroes =
             "持续伤害",
             "特殊治疗"
         ],
-        "source": "S1 - 经典",
+        "source": "服装间",
         "Release date": "2023-02-20",
         "star": 5,
         "power": 967,
@@ -49564,7 +49564,7 @@ window.allHeroes =
             "持续伤害",
             "额外伤害"
         ],
-        "source": "S1 - 经典",
+        "source": "服装间",
         "Release date": "2023-10-30",
         "star": 5,
         "power": 1135,
@@ -49613,7 +49613,7 @@ window.allHeroes =
             "绕过",
             "持续伤害"
         ],
-        "source": "S1 - 经典",
+        "source": "服装间",
         "Release date": "2024-12-24",
         "star": 5,
         "power": 1242,
@@ -51600,7 +51600,7 @@ window.allHeroes =
             "全体攻击 (打5)",
             "反击"
         ],
-        "source": "S1 - 经典",
+        "source": "服装间",
         "Release date": "2020-01-20",
         "star": 5,
         "power": 848,
@@ -51645,7 +51645,7 @@ window.allHeroes =
             "全体攻击 (打5)",
             "反击"
         ],
-        "source": "S1 - 经典",
+        "source": "服装间",
         "Release date": "2023-08-07",
         "star": 5,
         "power": 964,
@@ -51691,7 +51691,7 @@ window.allHeroes =
             "反击",
             "额外伤害"
         ],
-        "source": "S1 - 经典",
+        "source": "服装间",
         "Release date": "2024-05-31",
         "star": 5,
         "power": 1129,
@@ -53849,7 +53849,7 @@ window.allHeroes =
             "法力生成增益",
             "狙击手"
         ],
-        "source": "S1 - 经典",
+        "source": "服装间",
         "Release date": "2021-01-18",
         "star": 5,
         "power": 853,
@@ -53897,7 +53897,7 @@ window.allHeroes =
             "法力提升",
             "防御增益"
         ],
-        "source": "S1 - 经典",
+        "source": "服装间",
         "Release date": "2022-09-05",
         "star": 5,
         "power": 969,
@@ -53946,7 +53946,7 @@ window.allHeroes =
             "防御增益",
             "额外伤害"
         ],
-        "source": "S1 - 经典",
+        "source": "服装间",
         "Release date": "2024-04-08",
         "star": 5,
         "power": 1136,
@@ -53999,7 +53999,7 @@ window.allHeroes =
             "绕过",
             "法力生成增益"
         ],
-        "source": "S1 - 经典",
+        "source": "服装间",
         "Release date": "2025-06-18",
         "star": 5,
         "power": 1241,
@@ -54785,7 +54785,7 @@ window.allHeroes =
             "防御减益",
             "攻击减益"
         ],
-        "source": "S1 - 经典",
+        "source": "服装间",
         "Release date": "2021-01-18",
         "star": 5,
         "power": 849,
@@ -54833,7 +54833,7 @@ window.allHeroes =
             "防御减益",
             "持续伤害"
         ],
-        "source": "S1 - 经典",
+        "source": "服装间",
         "Release date": "2023-06-12",
         "star": 5,
         "power": 965,
@@ -54880,7 +54880,7 @@ window.allHeroes =
             "额外伤害",
             "狙击手"
         ],
-        "source": "S1 - 经典",
+        "source": "服装间",
         "Release date": "2023-12-25",
         "star": 5,
         "power": 1132,
@@ -54930,7 +54930,7 @@ window.allHeroes =
             "持续伤害",
             "狙击手"
         ],
-        "source": "S1 - 经典",
+        "source": "服装间",
         "Release date": "2025-02-10",
         "star": 5,
         "power": 1237,
@@ -59452,7 +59452,7 @@ window.allHeroes =
             "攻击减益",
             "狙击手"
         ],
-        "source": "S1 - 经典",
+        "source": "服装间",
         "Release date": "2020-01-20",
         "star": 3,
         "power": 469,
@@ -59498,7 +59498,7 @@ window.allHeroes =
             "攻击减益",
             "额外伤害"
         ],
-        "source": "S1 - 经典",
+        "source": "服装间",
         "Release date": "2024-03-11",
         "star": 3,
         "power": 502,
@@ -59548,7 +59548,7 @@ window.allHeroes =
             "攻击减益",
             "狙击手"
         ],
-        "source": "S1 - 经典",
+        "source": "服装间",
         "Release date": "2025-05-10",
         "star": 3,
         "power": 511,
@@ -59824,7 +59824,7 @@ window.allHeroes =
             "连锁与随机攻击",
             "额外伤害"
         ],
-        "source": "S1 - 经典",
+        "source": "服装间",
         "Release date": "2021-01-25",
         "star": 3,
         "power": 469,
@@ -59868,7 +59868,7 @@ window.allHeroes =
             "范围攻击 (打3)",
             "额外伤害"
         ],
-        "source": "S1 - 经典",
+        "source": "服装间",
         "Release date": "2024-08-11",
         "star": 3,
         "power": 502,
@@ -60114,7 +60114,7 @@ window.allHeroes =
             "法力削减或格挡",
             "狙击手"
         ],
-        "source": "S1 - 经典",
+        "source": "服装间",
         "Release date": "2021-01-25",
         "star": 3,
         "power": 474,
@@ -60160,7 +60160,7 @@ window.allHeroes =
             "法力削减或格挡",
             "狙击手"
         ],
-        "source": "S1 - 经典",
+        "source": "服装间",
         "Release date": "2023-12-25",
         "star": 3,
         "power": 507,
@@ -60210,7 +60210,7 @@ window.allHeroes =
             "绕过",
             "法力削减或格挡"
         ],
-        "source": "S1 - 经典",
+        "source": "服装间",
         "Release date": "2024-12-25",
         "star": 3,
         "power": 516,
@@ -60465,7 +60465,7 @@ window.allHeroes =
             "攻击增益",
             "伤害分摊"
         ],
-        "source": "S1 - 经典",
+        "source": "服装间",
         "Release date": "2021-01-25",
         "star": 3,
         "power": 473,
@@ -60510,7 +60510,7 @@ window.allHeroes =
             "防御增益",
             "伤害分摊"
         ],
-        "source": "S1 - 经典",
+        "source": "服装间",
         "Release date": "2024-02-12",
         "star": 3,
         "power": 506,
@@ -60560,7 +60560,7 @@ window.allHeroes =
             "防御增益",
             "反射"
         ],
-        "source": "S1 - 经典",
+        "source": "服装间",
         "Release date": "2025-03-11",
         "star": 3,
         "power": 514,
@@ -61586,7 +61586,7 @@ window.allHeroes =
             "法力削减或格挡",
             "狙击手"
         ],
-        "source": "S1 - 经典",
+        "source": "服装间",
         "Release date": "2021-01-18",
         "star": 4,
         "power": 686,
@@ -61631,7 +61631,7 @@ window.allHeroes =
             "范围攻击 (打3)",
             "法力削减或格挡"
         ],
-        "source": "S1 - 经典",
+        "source": "服装间",
         "Release date": "2023-10-30",
         "star": 4,
         "power": 733,
@@ -61677,7 +61677,7 @@ window.allHeroes =
             "狙击手",
             "额外伤害"
         ],
-        "source": "S1 - 经典",
+        "source": "服装间",
         "Release date": "2024-06-28",
         "star": 4,
         "power": 745,
@@ -62521,7 +62521,7 @@ window.allHeroes =
             "攻击减益",
             "治疗削减"
         ],
-        "source": "S1 - 经典",
+        "source": "服装间",
         "Release date": "2021-01-18",
         "star": 4,
         "power": 683,
@@ -62569,7 +62569,7 @@ window.allHeroes =
             "攻击减益",
             "法力削减或格挡"
         ],
-        "source": "S1 - 经典",
+        "source": "服装间",
         "Release date": "2023-11-27",
         "star": 4,
         "power": 729,
@@ -62616,7 +62616,7 @@ window.allHeroes =
             "攻击减益",
             "额外伤害"
         ],
-        "source": "S1 - 经典",
+        "source": "服装间",
         "Release date": "2024-05-31",
         "star": 4,
         "power": 741,
@@ -62666,7 +62666,7 @@ window.allHeroes =
             "绕过",
             "攻击减益"
         ],
-        "source": "S1 - 经典",
+        "source": "服装间",
         "Release date": "2025-06-18",
         "star": 4,
         "power": 753,
@@ -62803,7 +62803,7 @@ window.allHeroes =
             "全体攻击 (打5)",
             "法力削减或格挡"
         ],
-        "source": "S1 - 经典",
+        "source": "服装间",
         "Release date": "2020-01-20",
         "star": 4,
         "power": 685,
@@ -62848,7 +62848,7 @@ window.allHeroes =
             "范围攻击 (打3)",
             "沉默"
         ],
-        "source": "S1 - 经典",
+        "source": "服装间",
         "Release date": "2023-02-20",
         "star": 4,
         "power": 731,
@@ -62894,7 +62894,7 @@ window.allHeroes =
             "额外伤害",
             "法力削减或格挡"
         ],
-        "source": "S1 - 经典",
+        "source": "服装间",
         "Release date": "2024-02-12",
         "star": 4,
         "power": 743,
@@ -62944,7 +62944,7 @@ window.allHeroes =
             "绕过",
             "法力削减或格挡"
         ],
-        "source": "S1 - 经典",
+        "source": "服装间",
         "Release date": "2025-03-11",
         "star": 4,
         "power": 755,
@@ -63439,7 +63439,7 @@ window.allHeroes =
             "全体攻击 (打5)",
             "对自身或友军负面效果"
         ],
-        "source": "S1 - 经典",
+        "source": "服装间",
         "Release date": "2021-01-18",
         "star": 4,
         "power": 690,
@@ -63483,7 +63483,7 @@ window.allHeroes =
             "攻击增益",
             "对自身或友军负面效果"
         ],
-        "source": "S1 - 经典",
+        "source": "服装间",
         "Release date": "2023-10-30",
         "star": 4,
         "power": 736,
@@ -63526,7 +63526,7 @@ window.allHeroes =
             "攻击增益",
             "对自身或友军负面效果"
         ],
-        "source": "S1 - 经典",
+        "source": "服装间",
         "Release date": "2024-07-16",
         "star": 4,
         "power": 748,
@@ -67455,7 +67455,7 @@ window.allHeroes =
             "攻击减益",
             "狙击手"
         ],
-        "source": "S1 - 经典",
+        "source": "服装间",
         "Release date": "2020-01-20",
         "star": 5,
         "power": 847,
@@ -67502,7 +67502,7 @@ window.allHeroes =
             "攻击减益",
             "持续伤害"
         ],
-        "source": "S1 - 经典",
+        "source": "服装间",
         "Release date": "2022-12-26",
         "star": 5,
         "power": 961,
@@ -67549,7 +67549,7 @@ window.allHeroes =
             "额外伤害",
             "狙击手"
         ],
-        "source": "S1 - 经典",
+        "source": "服装间",
         "Release date": "2024-02-12",
         "star": 5,
         "power": 1127,
@@ -67599,7 +67599,7 @@ window.allHeroes =
             "攻击减益",
             "狙击手"
         ],
-        "source": "S1 - 经典",
+        "source": "服装间",
         "Release date": "2025-04-08",
         "star": 5,
         "power": 1232,
@@ -67744,7 +67744,7 @@ window.allHeroes =
             "额外伤害",
             "法力生成增益"
         ],
-        "source": "S1 - 经典",
+        "source": "服装间",
         "Release date": "2021-01-18",
         "star": 5,
         "power": 849,
@@ -67791,7 +67791,7 @@ window.allHeroes =
             "攻击减益",
             "额外伤害"
         ],
-        "source": "S1 - 经典",
+        "source": "服装间",
         "Release date": "2023-02-20",
         "star": 5,
         "power": 966,
@@ -67838,7 +67838,7 @@ window.allHeroes =
             "攻击减益",
             "额外伤害"
         ],
-        "source": "S1 - 经典",
+        "source": "服装间",
         "Release date": "2024-06-28",
         "star": 5,
         "power": 1132,
@@ -68363,7 +68363,7 @@ window.allHeroes =
             "攻击减益",
             "防御减益"
         ],
-        "source": "S1 - 经典",
+        "source": "服装间",
         "Release date": "2021-01-18",
         "star": 5,
         "power": 845,
@@ -68411,7 +68411,7 @@ window.allHeroes =
             "法力削减或格挡",
             "防御减益"
         ],
-        "source": "S1 - 经典",
+        "source": "服装间",
         "Release date": "2022-12-26",
         "star": 5,
         "power": 960,
@@ -68460,7 +68460,7 @@ window.allHeroes =
             "法力削减或格挡",
             "狙击手"
         ],
-        "source": "S1 - 经典",
+        "source": "服装间",
         "Release date": "2023-12-25",
         "star": 5,
         "power": 1125,
@@ -68513,7 +68513,7 @@ window.allHeroes =
             "法力削减或格挡",
             "狙击手"
         ],
-        "source": "S1 - 经典",
+        "source": "服装间",
         "Release date": "2025-02-10",
         "star": 5,
         "power": 1232,
@@ -71797,7 +71797,7 @@ window.allHeroes =
             "驱散",
             "治疗"
         ],
-        "source": "S1 - 经典",
+        "source": "服装间",
         "Release date": "2020-01-20",
         "star": 5,
         "power": 850,
@@ -71845,7 +71845,7 @@ window.allHeroes =
             "驱散",
             "生命强化"
         ],
-        "source": "S1 - 经典",
+        "source": "服装间",
         "Release date": "2022-09-05",
         "star": 5,
         "power": 966,
@@ -71893,7 +71893,7 @@ window.allHeroes =
             "净化",
             "治疗"
         ],
-        "source": "S1 - 经典",
+        "source": "服装间",
         "Release date": "2023-10-30",
         "star": 5,
         "power": 1132,
@@ -71945,7 +71945,7 @@ window.allHeroes =
             "治疗",
             "反射"
         ],
-        "source": "S1 - 经典",
+        "source": "服装间",
         "Release date": "2024-12-24",
         "star": 5,
         "power": 1238,

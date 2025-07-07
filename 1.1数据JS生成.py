@@ -16,10 +16,11 @@ def normalize_for_hero_name(text):
     return text.lower()
 
 def normalize_for_generic_lookup(text):
-    """通用值的规范化，保留空格。"""
+    """通用值的规范化，移除空格和部分标点。"""
     if not isinstance(text, str): return ""
     text = unicodedata.normalize('NFKD', text).encode('ascii', 'ignore').decode('utf-8')
-    text = re.sub(r"[-.'´\[\]]", "", text)
+    # 修正: 将连字符'-'移动到字符集的末尾，以避免被解释为无效范围
+    text = re.sub(r"[\s.'´\[\]-]", "", text)
     return text.lower()
 
 # --- 内置拼写纠正字典 ---
@@ -87,14 +88,32 @@ IGNORABLE_SUFFIXES = {'dark', 'holy', 'ice', 'nature', 'red'}
 
 # --- 功能函数 ---
 def setup_logging():
+    """设置日志记录，一个用于通用流程，一个专门用于记录翻译失败。"""
     log_dir = 'logs'
     if not os.path.exists(log_dir): os.makedirs(log_dir)
-    logging.basicConfig(filename=os.path.join(log_dir, "generation.log"), level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s', encoding='utf-8', filemode='w')
+
+    # --- 主日志记录器 (generation.log 和 控制台) ---
+    logging.basicConfig(
+        level=logging.INFO,
+        format='%(asctime)s - %(levelname)s - %(message)s',
+        filename=os.path.join(log_dir, "generation.log"),
+        encoding='utf-8',
+        filemode='w'
+    )
     console = logging.StreamHandler()
     console.setLevel(logging.INFO)
     console.setFormatter(logging.Formatter('%(levelname)s - %(message)s'))
     logging.getLogger('').addHandler(console)
 
+    # --- 翻译失败专用日志记录器 (translation_failures.log) ---
+    failure_logger = logging.getLogger('failures')
+    failure_logger.setLevel(logging.WARNING)
+    failure_handler = logging.FileHandler(os.path.join(log_dir, "translation_failures.log"), mode='w', encoding='utf-8')
+    failure_handler.setFormatter(logging.Formatter('%(asctime)s - %(message)s'))
+    failure_logger.addHandler(failure_handler)
+    
+    # 移除或注释掉下面这行，允许日志传播到控制台
+    # failure_logger.propagate = False
 def clean_string_for_output(text):
     if not isinstance(text, str): return text
     return text.replace('[', '').replace(']', '')
@@ -204,11 +223,13 @@ def translate_name(name_en):
     if not isinstance(name_en, str): return {lang: str(name_en) for lang in LANGUAGES}
     original_name_no_accents_full = unicodedata.normalize('NFKD', name_en).encode('ascii', 'ignore').decode('utf-8')
     normalized_input = normalize_for_hero_name(original_name_no_accents_full)
+    
     found_hero_base_translations, original_base_name_no_accents = None, ""
     for norm_key in hero_keys_sorted:
         if normalized_input.startswith(norm_key):
             original_base_name_no_accents, found_hero_base_translations = hero_map_processed[norm_key]
             break
+            
     if found_hero_base_translations:
         suffix_part = name_en[len(original_base_name_no_accents):].strip()
         cleaned_english_name = clean_string_for_output(original_base_name_no_accents)
@@ -218,29 +239,40 @@ def translate_name(name_en):
             else:
                 cn_base = clean_string_for_output(found_hero_base_translations.get(lang, ''))
                 base_name_trans = f"{cn_base} ({cleaned_english_name})".strip() if cn_base else cleaned_english_name
+            
             translated_suffix = ""
             if suffix_part:
                 current_map = appearance_map_en if lang == 'en' else appearance_map_zh
                 normalized_suffix_part = suffix_part.lower().replace(" ", "")
                 translated_suffix = current_map.get(normalized_suffix_part, suffix_part)
+            
             final_names[lang] = f"{base_name_trans} {translated_suffix}".strip() if translated_suffix else base_name_trans
         return final_names
+        
     cleaned_full_name = clean_string_for_output(original_name_no_accents_full)
-    logging.warning(f"[英雄名未匹配] 在字典中找不到英雄: '{name_en}' (规范化为: '{normalized_input}')")
+    # 使用 'failures' 日志记录器
+    logging.getLogger('failures').warning(f"英雄名未匹配: '{name_en}' (规范化为: '{normalized_input}')")
     return {lang: cleaned_full_name for lang in LANGUAGES}
 
 def translate_single_value(value, dict_key):
     if not isinstance(value, str) or not value: return {lang: value for lang in LANGUAGES}
+    
     normalized_value = normalize_for_generic_lookup(value)
     translations_out, found_any = {}, False
+    
     for lang in LANGUAGES:
         tolerant_map = translations.get(f"{dict_key}_tolerant", {}).get(lang, {})
         translated = tolerant_map.get(normalized_value)
         if translated is not None:
             translations_out[lang], found_any = translated, True
-        else: translations_out[lang] = value
-    if not found_any and dict_key not in ['heroes_name_fancy', 'aether_powers']:
-        logging.warning(f"[翻译缺失] 在字典 '{dict_key}' 中找不到值: '{value}' (规范化为: '{normalized_value}')")
+        else:
+            translations_out[lang] = value
+            
+    # 修改: 移除了对 'heroes_name_fancy' 或 'aether_powers' 的检查，现在会记录所有失败
+    if not found_any:
+        # 使用 'failures' 日志记录器
+        logging.getLogger('failures').warning(f"翻译缺失: 字典='{dict_key}', 值='{value}' (规范化为: '{normalized_value}')")
+        
     return translations_out
 
 def correct_and_translate_skill(skill_name_raw):
@@ -251,17 +283,23 @@ def correct_and_translate_skill(skill_name_raw):
 
 def translate_list(items_list, dict_key):
     if not isinstance(items_list, list): return {lang: items_list for lang in LANGUAGES}
+    
     translated_items = {lang: [] for lang in LANGUAGES}
     for item in items_list:
         if isinstance(item, str) and item:
             normalized_item = normalize_for_generic_lookup(item)
             found_in_any_lang = any(normalized_item in translations.get(f"{dict_key}_tolerant", {}).get(lang_check, {}) for lang_check in LANGUAGES)
-            if not found_in_any_lang: logging.warning(f"[列表翻译缺失] 在字典 '{dict_key}' 中找不到值: '{item}' (规范化为: '{normalized_item}')")
+            
+            if not found_in_any_lang:
+                 # 使用 'failures' 日志记录器
+                logging.getLogger('failures').warning(f"列表翻译缺失: 字典='{dict_key}', 值='{item}' (规范化为: '{normalized_item}')")
+            
             for lang in LANGUAGES:
                 tolerant_map = translations.get(f"{dict_key}_tolerant", {}).get(lang, {})
                 translated_items[lang].append(tolerant_map.get(normalized_item, item))
         else:
             for lang in LANGUAGES: translated_items[lang].append(item)
+            
     return translated_items
 
 def flatten_list(nested_list):
@@ -427,6 +465,11 @@ def generate_js_data_with_translation(heroes_base_dir, output_path_cn, output_pa
                     skill_trans_c = correct_and_translate_skill(costume_data.get('skill'))
                     types_trans_c = translate_list(flatten_list(costume_data.get('types', [])), 'types')
                     skill_types_trans_c = translate_list(extra_c.get('skill_types', []), 'skill_types')
+                    source_trans_c = source_trans  # 默认情况下，服装继承基础英雄的起源
+                    if hero_data.get('source') == 'season1':
+                        # 如果基础英雄是S1，则强制将服装的起源设置为“服装间”
+                        # 注意：这里我们直接翻译 'costume' 这个key
+                        source_trans_c = translate_single_value('costume', 'source_values')
 
                     common_data_c = {'Release date': extra_c.get('Release date', ''), 'star': current_star, 'power': costume_data.get('power'), 'attack': costume_data.get('attack'), 'defense': costume_data.get('defense'), 'health': costume_data.get('health'), 'effects': flatten_list(costume_data.get('effects', [])), 'passives': flatten_list(costume_data.get('passives', [])), 'family': hero_family, 'image': costume_data.get('image'), 'costume_id': costume_id, 'originalIndex': original_index_counter}
                     lb_data_c = {}
@@ -448,7 +491,7 @@ def generate_js_data_with_translation(heroes_base_dir, output_path_cn, output_pa
                             unmatched_yml_heroes.append(full_name)
 
                     for lang in LANGUAGES:
-                        all_hero_data[lang].append({'name': name_trans_c[lang], 'fancy_name': fancy_name_trans_c[lang], 'AetherPower': aether_power_trans_c[lang], 'color': color_trans[lang], 'class': class_trans_c[lang], 'speed': speed_trans[lang], 'skill': skill_trans_c[lang], 'types': types_trans_c[lang], 'skill_types': skill_types_trans_c[lang], 'source': source_trans[lang], **common_data_c, **lb_data_c})
+                        all_hero_data[lang].append({'name': name_trans_c[lang], 'fancy_name': fancy_name_trans_c[lang], 'AetherPower': aether_power_trans_c[lang], 'color': color_trans[lang], 'class': class_trans_c[lang], 'speed': speed_trans[lang], 'skill': skill_trans_c[lang], 'types': types_trans_c[lang], 'skill_types': skill_types_trans_c[lang], 'source': source_trans_c[lang], **common_data_c, **lb_data_c})
                     original_index_counter += 1
         except Exception as e:
             logging.error(f"处理文件 '{os.path.basename(filepath)}' 时发生严重错误: {e}", exc_info=True)
@@ -556,21 +599,27 @@ if __name__ == '__main__':
             OUTPUT_JS_FILE_TC, 
             OUTPUT_JS_FILE_EN
         )
+        
+        # 检查是否有任何翻译失败
+        failure_log_path = os.path.join('logs', 'translation_failures.log')
+        if os.path.exists(failure_log_path) and os.path.getsize(failure_log_path) > 0:
+            print(f"\n警告: 检测到翻译失败。详情请查看日志文件: {failure_log_path}")
+
         if missing_extra:
-            # 1. 仍然在日志中打印警告，让用户知晓
             logging.warning("\n--- 以下英雄未找到 heroes_data_extra.js 中的额外数据 ---")
             for info in missing_extra:
                 logging.warning(info)
             
-            # 2. 调用新函数，自动追加缺失的条目
             append_missing_heroes_to_extra_data(missing_extra, HEROES_DATA_EXTRA_FILE)
             
             print("\n请注意: heroes_data_extra.js 已更新。")
             print("建议重新运行此脚本，以确保所有数据（包括刚刚添加的）都被正确加载和处理。")
+            
         if unmatched_yml:
-                print(f"警告: {len(unmatched_yml)} 个本地英雄文件未能在 hero_stats.json 中找到匹配属性。详情请查看 generation.log 文件。")
+            print(f"警告: {len(unmatched_yml)} 个本地英雄文件未能在 hero_stats.json 中找到匹配属性。详情请查看 generation.log 文件。")
         if unmatched_stats:
-                print(f"警告: hero_stats.json 中有 {len(unmatched_stats)} 个条目未被使用。详情请查看 generation.log 文件。")
+            print(f"警告: hero_stats.json 中有 {len(unmatched_stats)} 个条目未被使用。详情请查看 generation.log 文件。")
+            
     else:
         logging.critical(f"错误: 英雄数据目录不存在: '{HEROES_DATA_DIR}'")
         print(f"错误: 英雄数据目录不存在: '{HEROES_DATA_DIR}'")

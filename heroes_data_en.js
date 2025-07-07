@@ -457,7 +457,7 @@ window.allHeroes =
             "Immunity Providers",
             "Snipers"
         ],
-        "source": "S1 - Classic",
+        "source": "Costume Quest",
         "Release date": "2021-01-18",
         "star": 3,
         "power": 470,
@@ -504,7 +504,7 @@ window.allHeroes =
             "Snipers",
             "Extra Damage Dealers"
         ],
-        "source": "S1 - Classic",
+        "source": "Costume Quest",
         "Release date": "2024-04-08",
         "star": 3,
         "power": 504,
@@ -554,7 +554,7 @@ window.allHeroes =
             "Healers (Special)",
             "Snipers"
         ],
-        "source": "S1 - Classic",
+        "source": "Costume Quest",
         "Release date": "2025-06-18",
         "star": 3,
         "power": 513,
@@ -691,7 +691,7 @@ window.allHeroes =
             "Damage Sharers",
             "Debuffers (DEF)"
         ],
-        "source": "S1 - Classic",
+        "source": "Costume Quest",
         "Release date": "2020-01-20",
         "star": 3,
         "power": 470,
@@ -736,7 +736,7 @@ window.allHeroes =
             "Buffers (DEF)",
             "Damage Sharers"
         ],
-        "source": "S1 - Classic",
+        "source": "Costume Quest",
         "Release date": "2024-09-08",
         "star": 3,
         "power": 503,
@@ -1115,7 +1115,7 @@ window.allHeroes =
             "AoE Attackers (Hit-3)",
             "DoT Attackers"
         ],
-        "source": "S1 - Classic",
+        "source": "Costume Quest",
         "Release date": "2020-05-18",
         "star": 3,
         "power": 472,
@@ -1159,7 +1159,7 @@ window.allHeroes =
             "AoE Attackers (Hit-3)",
             "Extra Damage Dealers"
         ],
-        "source": "S1 - Classic",
+        "source": "Costume Quest",
         "Release date": "2024-06-28",
         "star": 3,
         "power": 505,
@@ -1498,7 +1498,7 @@ window.allHeroes =
             "AoE Attackers (Hit-5)",
             "Buffers (ATK)"
         ],
-        "source": "S1 - Classic",
+        "source": "Costume Quest",
         "Release date": "2021-01-18",
         "star": 3,
         "power": 474,
@@ -1544,7 +1544,7 @@ window.allHeroes =
             "Debuffers (DEF)",
             "Extra Damage Dealers"
         ],
-        "source": "S1 - Classic",
+        "source": "Costume Quest",
         "Release date": "2024-07-16",
         "star": 3,
         "power": 507,
@@ -1637,7 +1637,7 @@ window.allHeroes =
             "Buffers (ATK)",
             "Snipers"
         ],
-        "source": "S1 - Classic",
+        "source": "Costume Quest",
         "Release date": "2021-01-18",
         "star": 3,
         "power": 471,
@@ -1683,7 +1683,7 @@ window.allHeroes =
             "Extra Damage Dealers",
             "Snipers"
         ],
-        "source": "S1 - Classic",
+        "source": "Costume Quest",
         "Release date": "2023-12-25",
         "star": 3,
         "power": 503,
@@ -2272,7 +2272,7 @@ window.allHeroes =
         "skill_types": [
             "Counterattackers"
         ],
-        "source": "S1 - Classic",
+        "source": "Costume Quest",
         "Release date": "2020-05-18",
         "star": 4,
         "power": 689,
@@ -2314,7 +2314,7 @@ window.allHeroes =
         "skill_types": [
             "Counterattackers"
         ],
-        "source": "S1 - Classic",
+        "source": "Costume Quest",
         "Release date": "2023-11-27",
         "star": 4,
         "power": 735,
@@ -2356,7 +2356,7 @@ window.allHeroes =
         "skill_types": [
             "Counterattackers"
         ],
-        "source": "S1 - Classic",
+        "source": "Costume Quest",
         "Release date": "2024-09-08",
         "star": 4,
         "power": 747,
@@ -2800,7 +2800,7 @@ window.allHeroes =
             "AoE Attackers (Hit-3)",
             "Buffers (ATK)"
         ],
-        "source": "S1 - Classic",
+        "source": "Costume Quest",
         "Release date": "2021-01-18",
         "star": 4,
         "power": 687,
@@ -2844,7 +2844,7 @@ window.allHeroes =
             "AoE Attackers (Hit-3)",
             "Buffers (ATK)"
         ],
-        "source": "S1 - Classic",
+        "source": "Costume Quest",
         "Release date": "2023-06-12",
         "star": 4,
         "power": 733,
@@ -2890,7 +2890,7 @@ window.allHeroes =
             "Debuffers (DEF)",
             "Extra Damage Dealers"
         ],
-        "source": "S1 - Classic",
+        "source": "Costume Quest",
         "Release date": "2023-12-25",
         "star": 4,
         "power": 746,
@@ -2939,7 +2939,7 @@ window.allHeroes =
             "Bypassers",
             "Debuffers (DEF)"
         ],
-        "source": "S1 - Classic",
+        "source": "Costume Quest",
         "Release date": "2024-12-24",
         "star": 4,
         "power": 758,
@@ -3135,7 +3135,7 @@ window.allHeroes =
             "Debuffers (DEF)",
             "Healers"
         ],
-        "source": "S1 - Classic",
+        "source": "Costume Quest",
         "Release date": "2020-05-18",
         "star": 4,
         "power": 692,
@@ -3183,7 +3183,7 @@ window.allHeroes =
             "Debuffers (ATK)",
             "Health Boosters"
         ],
-        "source": "S1 - Classic",
+        "source": "Costume Quest",
         "Release date": "2022-10-31",
         "star": 4,
         "power": 739,
@@ -3231,7 +3231,7 @@ window.allHeroes =
             "Buffers (DEF)",
             "Healers"
         ],
-        "source": "S1 - Classic",
+        "source": "Costume Quest",
         "Release date": "2024-02-12",
         "star": 4,
         "power": 751,
@@ -3284,7 +3284,7 @@ window.allHeroes =
             "Healers",
             "Reflectors"
         ],
-        "source": "S1 - Classic",
+        "source": "Costume Quest",
         "Release date": "2025-03-11",
         "star": 4,
         "power": 763,
@@ -3736,7 +3736,7 @@ window.allHeroes =
             "Cleansers",
             "Snipers"
         ],
-        "source": "S1 - Classic",
+        "source": "Costume Quest",
         "Release date": "2020-01-20",
         "star": 4,
         "power": 688,
@@ -3781,7 +3781,7 @@ window.allHeroes =
             "Buff Blockers",
             "Snipers"
         ],
-        "source": "S1 - Classic",
+        "source": "Costume Quest",
         "Release date": "2023-11-27",
         "star": 4,
         "power": 734,
@@ -3827,7 +3827,7 @@ window.allHeroes =
             "Extra Damage Dealers",
             "Dispellers"
         ],
-        "source": "S1 - Classic",
+        "source": "Costume Quest",
         "Release date": "2024-07-16",
         "star": 4,
         "power": 746,
@@ -8235,7 +8235,7 @@ window.allHeroes =
             "AoE Attackers (Hit-5)",
             "Debuffers (DEF)"
         ],
-        "source": "S1 - Classic",
+        "source": "Costume Quest",
         "Release date": "2020-01-20",
         "star": 5,
         "power": 848,
@@ -8281,7 +8281,7 @@ window.allHeroes =
             "Debuffers (ATK)",
             "Extra Damage Dealers"
         ],
-        "source": "S1 - Classic",
+        "source": "Costume Quest",
         "Release date": "2022-09-05",
         "star": 5,
         "power": 962,
@@ -8328,7 +8328,7 @@ window.allHeroes =
             "Debuffers (DEF)",
             "Extra Damage Dealers"
         ],
-        "source": "S1 - Classic",
+        "source": "Costume Quest",
         "Release date": "2024-05-06",
         "star": 5,
         "power": 1128,
@@ -8378,7 +8378,7 @@ window.allHeroes =
             "Bypassers",
             "Debuffers (DEF)"
         ],
-        "source": "S1 - Classic",
+        "source": "Costume Quest",
         "Release date": "2025-06-18",
         "star": 5,
         "power": 1236,
@@ -9215,7 +9215,7 @@ window.allHeroes =
             "Debuffers (DEF)",
             "Snipers"
         ],
-        "source": "S1 - Classic",
+        "source": "Costume Quest",
         "Release date": "2020-05-18",
         "star": 5,
         "power": 849,
@@ -9260,7 +9260,7 @@ window.allHeroes =
             "AoE Attackers (Hit-3)",
             "Debuffers (DEF)"
         ],
-        "source": "S1 - Classic",
+        "source": "Costume Quest",
         "Release date": "2022-10-31",
         "star": 5,
         "power": 964,
@@ -9306,7 +9306,7 @@ window.allHeroes =
             "Extra Damage Dealers",
             "Snipers"
         ],
-        "source": "S1 - Classic",
+        "source": "Costume Quest",
         "Release date": "2024-01-22",
         "star": 5,
         "power": 1130,
@@ -9356,7 +9356,7 @@ window.allHeroes =
             "Bypassers",
             "Snipers"
         ],
-        "source": "S1 - Classic",
+        "source": "Costume Quest",
         "Release date": "2025-03-11",
         "star": 5,
         "power": 1236,
@@ -11551,7 +11551,7 @@ window.allHeroes =
             "AoE Attackers (Hit-3)",
             "Debuffers (ATK)"
         ],
-        "source": "S1 - Classic",
+        "source": "Costume Quest",
         "Release date": "2020-01-20",
         "star": 5,
         "power": 849,
@@ -11597,7 +11597,7 @@ window.allHeroes =
             "Debuffers (ATK)",
             "Stacking Heroes"
         ],
-        "source": "S1 - Classic",
+        "source": "Costume Quest",
         "Release date": "2023-09-04",
         "star": 5,
         "power": 965,
@@ -11643,7 +11643,7 @@ window.allHeroes =
             "Debuffers (ATK)",
             "Extra Damage Dealers"
         ],
-        "source": "S1 - Classic",
+        "source": "Costume Quest",
         "Release date": "2023-10-30",
         "star": 5,
         "power": 1130,
@@ -11693,7 +11693,7 @@ window.allHeroes =
             "Bypassers",
             "Debuffers (ATK)"
         ],
-        "source": "S1 - Classic",
+        "source": "Costume Quest",
         "Release date": "2024-12-24",
         "star": 5,
         "power": 1235,
@@ -13294,7 +13294,7 @@ window.allHeroes =
             "Mana Generation Buffers",
             "Snipers"
         ],
-        "source": "S1 - Classic",
+        "source": "Costume Quest",
         "Release date": "2021-01-18",
         "star": 5,
         "power": 852,
@@ -13341,7 +13341,7 @@ window.allHeroes =
             "Mana Raisers",
             "Mana Reducers or Blockers"
         ],
-        "source": "S1 - Classic",
+        "source": "Costume Quest",
         "Release date": "2023-07-10",
         "star": 5,
         "power": 968,
@@ -13386,7 +13386,7 @@ window.allHeroes =
             "AoE Attackers (Hit-3)",
             "Extra Damage Dealers"
         ],
-        "source": "S1 - Classic",
+        "source": "Costume Quest",
         "Release date": "2024-09-08",
         "star": 5,
         "power": 1135,
@@ -14323,7 +14323,7 @@ window.allHeroes =
             "Heal over Time (HoT)",
             "Immunity Providers"
         ],
-        "source": "S1 - Classic",
+        "source": "Costume Quest",
         "Release date": "2020-05-18",
         "star": 3,
         "power": 471,
@@ -14370,7 +14370,7 @@ window.allHeroes =
             "Healers",
             "Buffers (DEF)"
         ],
-        "source": "S1 - Classic",
+        "source": "Costume Quest",
         "Release date": "2024-04-08",
         "star": 3,
         "power": 504,
@@ -14420,7 +14420,7 @@ window.allHeroes =
             "Reflectors",
             "Dispellers"
         ],
-        "source": "S1 - Classic",
+        "source": "Costume Quest",
         "Release date": "2025-04-23",
         "star": 3,
         "power": 513,
@@ -14513,7 +14513,7 @@ window.allHeroes =
             "Debuffers (DEF)",
             "Snipers"
         ],
-        "source": "S1 - Classic",
+        "source": "Costume Quest",
         "Release date": "2020-05-18",
         "star": 3,
         "power": 473,
@@ -14559,7 +14559,7 @@ window.allHeroes =
             "Snipers",
             "Extra Damage Dealers"
         ],
-        "source": "S1 - Classic",
+        "source": "Costume Quest",
         "Release date": "2024-05-06",
         "star": 3,
         "power": 506,
@@ -14609,7 +14609,7 @@ window.allHeroes =
             "Debuffers (ATK)",
             "Snipers"
         ],
-        "source": "S1 - Classic",
+        "source": "Costume Quest",
         "Release date": "2025-05-10",
         "star": 3,
         "power": 515,
@@ -14697,7 +14697,7 @@ window.allHeroes =
         "skill_types": [
             "Debuffers (DEF)"
         ],
-        "source": "S1 - Classic",
+        "source": "Costume Quest",
         "Release date": "2020-01-20",
         "star": 3,
         "power": 469,
@@ -14739,7 +14739,7 @@ window.allHeroes =
         "skill_types": [
             "Buffers (ATK)"
         ],
-        "source": "S1 - Classic",
+        "source": "Costume Quest",
         "Release date": "2024-01-22",
         "star": 3,
         "power": 502,
@@ -14786,7 +14786,7 @@ window.allHeroes =
             "Buffers (ATK)",
             "Reflectors"
         ],
-        "source": "S1 - Classic",
+        "source": "Costume Quest",
         "Release date": "2025-03-11",
         "star": 3,
         "power": 510,
@@ -14933,7 +14933,7 @@ window.allHeroes =
             "AoE Attackers (Hit-5)",
             "Mana Reducers or Blockers"
         ],
-        "source": "S1 - Classic",
+        "source": "Costume Quest",
         "Release date": "2020-05-18",
         "star": 3,
         "power": 473,
@@ -14979,7 +14979,7 @@ window.allHeroes =
             "Mana Reducers or Blockers",
             "Extra Damage Dealers"
         ],
-        "source": "S1 - Classic",
+        "source": "Costume Quest",
         "Release date": "2024-06-28",
         "star": 3,
         "power": 506,
@@ -15378,7 +15378,7 @@ window.allHeroes =
             "Healers",
             "Mana Generation Buffers"
         ],
-        "source": "S1 - Classic",
+        "source": "Costume Quest",
         "Release date": "2020-05-18",
         "star": 3,
         "power": 476,
@@ -15423,7 +15423,7 @@ window.allHeroes =
             "Healers",
             "Mana Generation Buffers"
         ],
-        "source": "S1 - Classic",
+        "source": "Costume Quest",
         "Release date": "2024-05-31",
         "star": 3,
         "power": 509,
@@ -15472,7 +15472,7 @@ window.allHeroes =
             "Mana Generation Buffers",
             "Reflectors"
         ],
-        "source": "S1 - Classic",
+        "source": "Costume Quest",
         "Release date": "2025-06-18",
         "star": 3,
         "power": 517,
@@ -15895,7 +15895,7 @@ window.allHeroes =
             "AoE Attackers (Hit-3)",
             "Debuffers (DEF)"
         ],
-        "source": "S1 - Classic",
+        "source": "Costume Quest",
         "Release date": "2020-05-18",
         "star": 3,
         "power": 476,
@@ -15939,7 +15939,7 @@ window.allHeroes =
             "AoE Attackers (Hit-3)",
             "Extra Damage Dealers"
         ],
-        "source": "S1 - Classic",
+        "source": "Costume Quest",
         "Release date": "2024-07-16",
         "star": 3,
         "power": 510,
@@ -16991,7 +16991,7 @@ window.allHeroes =
             "Cleansers",
             "Snipers"
         ],
-        "source": "S1 - Classic",
+        "source": "Costume Quest",
         "Release date": "2020-05-18",
         "star": 4,
         "power": 688,
@@ -17037,7 +17037,7 @@ window.allHeroes =
             "Buff Blockers",
             "Dispellers"
         ],
-        "source": "S1 - Classic",
+        "source": "Costume Quest",
         "Release date": "2022-12-26",
         "star": 4,
         "power": 734,
@@ -17084,7 +17084,7 @@ window.allHeroes =
             "Extra Damage Dealers",
             "Snipers"
         ],
-        "source": "S1 - Classic",
+        "source": "Costume Quest",
         "Release date": "2024-01-22",
         "star": 4,
         "power": 746,
@@ -17135,7 +17135,7 @@ window.allHeroes =
             "Dispellers",
             "Snipers"
         ],
-        "source": "S1 - Classic",
+        "source": "Costume Quest",
         "Release date": "2025-01-14",
         "star": 4,
         "power": 759,
@@ -17753,7 +17753,7 @@ window.allHeroes =
             "Healers",
             "Health Boosters"
         ],
-        "source": "S1 - Classic",
+        "source": "Costume Quest",
         "Release date": "2020-05-18",
         "star": 4,
         "power": 690,
@@ -17798,7 +17798,7 @@ window.allHeroes =
             "Buffers (DEF)",
             "Heal over Time (HoT)"
         ],
-        "source": "S1 - Classic",
+        "source": "Costume Quest",
         "Release date": "2023-11-27",
         "star": 4,
         "power": 736,
@@ -17843,7 +17843,7 @@ window.allHeroes =
             "Buffers (DEF)",
             "Healers"
         ],
-        "source": "S1 - Classic",
+        "source": "Costume Quest",
         "Release date": "2024-05-31",
         "star": 4,
         "power": 748,
@@ -17892,7 +17892,7 @@ window.allHeroes =
             "Healers",
             "Reflectors"
         ],
-        "source": "S1 - Classic",
+        "source": "Costume Quest",
         "Release date": "2025-06-18",
         "star": 4,
         "power": 761,
@@ -18040,7 +18040,7 @@ window.allHeroes =
             "Dodgers",
             "Mana Raisers"
         ],
-        "source": "S1 - Classic",
+        "source": "Costume Quest",
         "Release date": "2020-05-18",
         "star": 4,
         "power": 686,
@@ -18085,7 +18085,7 @@ window.allHeroes =
             "AoE Attackers (Hit-5)",
             "Mana Generation Buffers"
         ],
-        "source": "S1 - Classic",
+        "source": "Costume Quest",
         "Release date": "2023-10-30",
         "star": 4,
         "power": 732,
@@ -18131,7 +18131,7 @@ window.allHeroes =
             "Mana Reducers or Blockers",
             "Extra Damage Dealers"
         ],
-        "source": "S1 - Classic",
+        "source": "Costume Quest",
         "Release date": "2024-05-06",
         "star": 4,
         "power": 744,
@@ -18181,7 +18181,7 @@ window.allHeroes =
             "Bypassers",
             "Mana Reducers or Blockers"
         ],
-        "source": "S1 - Classic",
+        "source": "Costume Quest",
         "Release date": "2025-05-10",
         "star": 4,
         "power": 756,
@@ -18325,7 +18325,7 @@ window.allHeroes =
             "Dispellers",
             "Heal over Time (HoT)"
         ],
-        "source": "S1 - Classic",
+        "source": "Costume Quest",
         "Release date": "2020-01-20",
         "star": 4,
         "power": 683,
@@ -18373,7 +18373,7 @@ window.allHeroes =
             "Dispellers",
             "Heal over Time (HoT)"
         ],
-        "source": "S1 - Classic",
+        "source": "Costume Quest",
         "Release date": "2023-10-30",
         "star": 4,
         "power": 729,
@@ -18421,7 +18421,7 @@ window.allHeroes =
             "Dispellers",
             "Healers"
         ],
-        "source": "S1 - Classic",
+        "source": "Costume Quest",
         "Release date": "2024-01-22",
         "star": 4,
         "power": 741,
@@ -18472,7 +18472,7 @@ window.allHeroes =
             "Healers",
             "Reflectors"
         ],
-        "source": "S1 - Classic",
+        "source": "Costume Quest",
         "Release date": "2025-03-11",
         "star": 4,
         "power": 753,
@@ -19187,7 +19187,7 @@ window.allHeroes =
             "AoE Attackers (Hit-5)",
             "Debuffers (ATK)"
         ],
-        "source": "S1 - Classic",
+        "source": "Costume Quest",
         "Release date": "2020-01-20",
         "star": 4,
         "power": 688,
@@ -19232,7 +19232,7 @@ window.allHeroes =
             "AoE Attackers (Hit-5)",
             "Debuffers (DEF)"
         ],
-        "source": "S1 - Classic",
+        "source": "Costume Quest",
         "Release date": "2023-04-17",
         "star": 4,
         "power": 735,
@@ -19278,7 +19278,7 @@ window.allHeroes =
             "Debuffers (ATK)",
             "Extra Damage Dealers"
         ],
-        "source": "S1 - Classic",
+        "source": "Costume Quest",
         "Release date": "2024-03-11",
         "star": 4,
         "power": 746,
@@ -19328,7 +19328,7 @@ window.allHeroes =
             "Bypassers",
             "Debuffers (ATK)"
         ],
-        "source": "S1 - Classic",
+        "source": "Costume Quest",
         "Release date": "2025-04-08",
         "star": 4,
         "power": 759,
@@ -21545,7 +21545,7 @@ window.allHeroes =
             "Healers (Special)",
             "Healing Reducers"
         ],
-        "source": "S1 - Classic",
+        "source": "Costume Quest",
         "Release date": "2020-05-18",
         "star": 5,
         "power": 852,
@@ -21590,7 +21590,7 @@ window.allHeroes =
             "AoE Attackers (Hit-5)",
             "Healing Reducers"
         ],
-        "source": "S1 - Classic",
+        "source": "Costume Quest",
         "Release date": "2022-09-05",
         "star": 5,
         "power": 968,
@@ -21636,7 +21636,7 @@ window.allHeroes =
             "Extra Damage Dealers",
             "Healers (Special)"
         ],
-        "source": "S1 - Classic",
+        "source": "Costume Quest",
         "Release date": "2023-11-27",
         "star": 5,
         "power": 1135,
@@ -21685,7 +21685,7 @@ window.allHeroes =
             "Bypassers",
             "Healers (Special)"
         ],
-        "source": "S1 - Classic",
+        "source": "Costume Quest",
         "Release date": "2025-01-14",
         "star": 5,
         "power": 1242,
@@ -23884,7 +23884,7 @@ window.allHeroes =
             "AoE Attackers (Hit-5)",
             "Debuffers (ATK)"
         ],
-        "source": "S1 - Classic",
+        "source": "Costume Quest",
         "Release date": "2020-01-20",
         "star": 5,
         "power": 849,
@@ -23933,7 +23933,7 @@ window.allHeroes =
             "Debuffers (DEF)",
             "DoT Attackers"
         ],
-        "source": "S1 - Classic",
+        "source": "Costume Quest",
         "Release date": "2022-10-31",
         "star": 5,
         "power": 966,
@@ -23981,7 +23981,7 @@ window.allHeroes =
             "Debuffers (ATK)",
             "Extra Damage Dealers"
         ],
-        "source": "S1 - Classic",
+        "source": "Costume Quest",
         "Release date": "2024-07-16",
         "star": 5,
         "power": 1131,
@@ -24299,7 +24299,7 @@ window.allHeroes =
             "Dodgers",
             "Minions Summoners"
         ],
-        "source": "S1 - Classic",
+        "source": "Costume Quest",
         "Release date": "2020-05-18",
         "star": 5,
         "power": 851,
@@ -24346,7 +24346,7 @@ window.allHeroes =
             "Minions Summoners",
             "AoE Attackers (Hit-5)"
         ],
-        "source": "S1 - Classic",
+        "source": "Costume Quest",
         "Release date": "2023-04-17",
         "star": 5,
         "power": 966,
@@ -24393,7 +24393,7 @@ window.allHeroes =
             "Buffers (DEF)",
             "Extra Damage Dealers"
         ],
-        "source": "S1 - Classic",
+        "source": "Costume Quest",
         "Release date": "2024-10-06",
         "star": 5,
         "power": 1133,
@@ -24992,7 +24992,7 @@ window.allHeroes =
             "Mana Reducers or Blockers",
             "Snipers"
         ],
-        "source": "S1 - Classic",
+        "source": "Costume Quest",
         "Release date": "2020-01-20",
         "star": 5,
         "power": 849,
@@ -25037,7 +25037,7 @@ window.allHeroes =
             "Silencers",
             "Snipers"
         ],
-        "source": "S1 - Classic",
+        "source": "Costume Quest",
         "Release date": "2023-04-17",
         "star": 5,
         "power": 964,
@@ -25081,7 +25081,7 @@ window.allHeroes =
             "Extra Damage Dealers",
             "Snipers"
         ],
-        "source": "S1 - Classic",
+        "source": "Costume Quest",
         "Release date": "2024-02-12",
         "star": 5,
         "power": 1130,
@@ -25128,7 +25128,7 @@ window.allHeroes =
             "Bypassers",
             "Snipers"
         ],
-        "source": "S1 - Classic",
+        "source": "Costume Quest",
         "Release date": "2025-05-10",
         "star": 5,
         "power": 1237,
@@ -29507,7 +29507,7 @@ window.allHeroes =
             "DoT Attackers",
             "Snipers"
         ],
-        "source": "S1 - Classic",
+        "source": "Costume Quest",
         "Release date": "2020-05-18",
         "star": 3,
         "power": 472,
@@ -29551,7 +29551,7 @@ window.allHeroes =
             "Extra Damage Dealers",
             "Snipers"
         ],
-        "source": "S1 - Classic",
+        "source": "Costume Quest",
         "Release date": "2024-01-22",
         "star": 3,
         "power": 505,
@@ -29598,7 +29598,7 @@ window.allHeroes =
             "Bypassers",
             "Snipers"
         ],
-        "source": "S1 - Classic",
+        "source": "Costume Quest",
         "Release date": "2025-03-11",
         "star": 3,
         "power": 513,
@@ -30423,7 +30423,7 @@ window.allHeroes =
         "skill_types": [
             "DoT Attackers"
         ],
-        "source": "S1 - Classic",
+        "source": "Costume Quest",
         "Release date": "2021-01-18",
         "star": 3,
         "power": 474,
@@ -30468,7 +30468,7 @@ window.allHeroes =
             "DoT Attackers",
             "Extra Damage Dealers"
         ],
-        "source": "S1 - Classic",
+        "source": "Costume Quest",
         "Release date": "2024-08-11",
         "star": 3,
         "power": 508,
@@ -30608,7 +30608,7 @@ window.allHeroes =
             "AoE Attackers (Hit-3)",
             "Healers (Special)"
         ],
-        "source": "S1 - Classic",
+        "source": "Costume Quest",
         "Release date": "2020-05-18",
         "star": 3,
         "power": 476,
@@ -30654,7 +30654,7 @@ window.allHeroes =
             "Healers (Special)",
             "Snipers"
         ],
-        "source": "S1 - Classic",
+        "source": "Costume Quest",
         "Release date": "2024-02-12",
         "star": 3,
         "power": 510,
@@ -30704,7 +30704,7 @@ window.allHeroes =
             "Healers (Special)",
             "Snipers"
         ],
-        "source": "S1 - Classic",
+        "source": "Costume Quest",
         "Release date": "2025-04-08",
         "star": 3,
         "power": 519,
@@ -30798,7 +30798,7 @@ window.allHeroes =
             "Mana Reducers or Blockers",
             "Snipers"
         ],
-        "source": "S1 - Classic",
+        "source": "Costume Quest",
         "Release date": "2020-05-18",
         "star": 3,
         "power": 474,
@@ -30844,7 +30844,7 @@ window.allHeroes =
             "Healers (Special)",
             "Extra Damage Dealers"
         ],
-        "source": "S1 - Classic",
+        "source": "Costume Quest",
         "Release date": "2024-09-08",
         "star": 3,
         "power": 507,
@@ -30988,7 +30988,7 @@ window.allHeroes =
             "Cleansers",
             "Snipers"
         ],
-        "source": "S1 - Classic",
+        "source": "Costume Quest",
         "Release date": "2020-01-20",
         "star": 3,
         "power": 470,
@@ -31034,7 +31034,7 @@ window.allHeroes =
             "Snipers",
             "Extra Damage Dealers"
         ],
-        "source": "S1 - Classic",
+        "source": "Costume Quest",
         "Release date": "2024-10-06",
         "star": 3,
         "power": 505,
@@ -31771,7 +31771,7 @@ window.allHeroes =
         "skill_types": [
             "Counterattackers"
         ],
-        "source": "S1 - Classic",
+        "source": "Costume Quest",
         "Release date": "2021-01-18",
         "star": 4,
         "power": 688,
@@ -31817,7 +31817,7 @@ window.allHeroes =
             "Damage Reducers",
             "Mana Raisers"
         ],
-        "source": "S1 - Classic",
+        "source": "Costume Quest",
         "Release date": "2023-04-17",
         "star": 4,
         "power": 735,
@@ -31861,7 +31861,7 @@ window.allHeroes =
         "skill_types": [
             "Counterattackers"
         ],
-        "source": "S1 - Classic",
+        "source": "Costume Quest",
         "Release date": "2024-04-08",
         "star": 4,
         "power": 747,
@@ -31906,7 +31906,7 @@ window.allHeroes =
         "skill_types": [
             "Counterattackers"
         ],
-        "source": "S1 - Classic",
+        "source": "Costume Quest",
         "Release date": "2025-04-23",
         "star": 4,
         "power": 759,
@@ -32830,7 +32830,7 @@ window.allHeroes =
             "Cleansers",
             "Heal over Time (HoT)"
         ],
-        "source": "S1 - Classic",
+        "source": "Costume Quest",
         "Release date": "2020-01-20",
         "star": 4,
         "power": 690,
@@ -32878,7 +32878,7 @@ window.allHeroes =
             "Cleansers",
             "Health Boosters"
         ],
-        "source": "S1 - Classic",
+        "source": "Costume Quest",
         "Release date": "2023-04-17",
         "star": 4,
         "power": 736,
@@ -32926,7 +32926,7 @@ window.allHeroes =
             "Healers",
             "Buffers (DEF)"
         ],
-        "source": "S1 - Classic",
+        "source": "Costume Quest",
         "Release date": "2024-06-28",
         "star": 4,
         "power": 749,
@@ -33021,7 +33021,7 @@ window.allHeroes =
             "Dispellers",
             "Heal over Time (HoT)"
         ],
-        "source": "S1 - Classic",
+        "source": "Costume Quest",
         "Release date": "2021-01-18",
         "star": 4,
         "power": 684,
@@ -33069,7 +33069,7 @@ window.allHeroes =
             "Heal over Time (HoT)",
             "Immunity Providers"
         ],
-        "source": "S1 - Classic",
+        "source": "Costume Quest",
         "Release date": "2023-11-27",
         "star": 4,
         "power": 730,
@@ -33117,7 +33117,7 @@ window.allHeroes =
             "Dispellers",
             "Healers"
         ],
-        "source": "S1 - Classic",
+        "source": "Costume Quest",
         "Release date": "2024-10-06",
         "star": 4,
         "power": 742,
@@ -33520,7 +33520,7 @@ window.allHeroes =
             "AoE Attackers (Hit-5)",
             "Debuffers (DEF)"
         ],
-        "source": "S1 - Classic",
+        "source": "Costume Quest",
         "Release date": "2020-01-20",
         "star": 4,
         "power": 684,
@@ -33565,7 +33565,7 @@ window.allHeroes =
             "AoE Attackers (Hit-3)",
             "Max Health Reducers"
         ],
-        "source": "S1 - Classic",
+        "source": "Costume Quest",
         "Release date": "2023-10-30",
         "star": 4,
         "power": 729,
@@ -33611,7 +33611,7 @@ window.allHeroes =
             "Debuffers (DEF)",
             "Extra Damage Dealers"
         ],
-        "source": "S1 - Classic",
+        "source": "Costume Quest",
         "Release date": "2024-08-11",
         "star": 4,
         "power": 742,
@@ -35719,7 +35719,7 @@ window.allHeroes =
             "DoT Attackers",
             "Snipers"
         ],
-        "source": "S1 - Classic",
+        "source": "Costume Quest",
         "Release date": "2020-05-18",
         "star": 5,
         "power": 851,
@@ -35766,7 +35766,7 @@ window.allHeroes =
             "Debuffers (DEF)",
             "Extra Damage Dealers"
         ],
-        "source": "S1 - Classic",
+        "source": "Costume Quest",
         "Release date": "2022-10-31",
         "star": 5,
         "power": 967,
@@ -35815,7 +35815,7 @@ window.allHeroes =
             "Extra Damage Dealers",
             "Dispellers"
         ],
-        "source": "S1 - Classic",
+        "source": "Costume Quest",
         "Release date": "2024-03-11",
         "star": 5,
         "power": 1134,
@@ -35868,7 +35868,7 @@ window.allHeroes =
             "Dispellers",
             "Snipers"
         ],
-        "source": "S1 - Classic",
+        "source": "Costume Quest",
         "Release date": "2025-04-23",
         "star": 5,
         "power": 1241,
@@ -39794,7 +39794,7 @@ window.allHeroes =
             "AoE Attackers (Hit-5)",
             "Counterattackers"
         ],
-        "source": "S1 - Classic",
+        "source": "Costume Quest",
         "Release date": "2021-01-18",
         "star": 5,
         "power": 851,
@@ -39841,7 +39841,7 @@ window.allHeroes =
             "Counterattackers",
             "Mana Raisers"
         ],
-        "source": "S1 - Classic",
+        "source": "Costume Quest",
         "Release date": "2022-09-05",
         "star": 5,
         "power": 966,
@@ -39888,7 +39888,7 @@ window.allHeroes =
             "Counterattackers",
             "Extra Damage Dealers"
         ],
-        "source": "S1 - Classic",
+        "source": "Costume Quest",
         "Release date": "2023-11-27",
         "star": 5,
         "power": 1132,
@@ -39938,7 +39938,7 @@ window.allHeroes =
             "Bypassers",
             "Counterattackers"
         ],
-        "source": "S1 - Classic",
+        "source": "Costume Quest",
         "Release date": "2025-01-14",
         "star": 5,
         "power": 1237,
@@ -40539,7 +40539,7 @@ window.allHeroes =
             "AoE Attackers (Hit-5)",
             "Debuffers (ATK)"
         ],
-        "source": "S1 - Classic",
+        "source": "Costume Quest",
         "Release date": "2020-01-01",
         "star": 5,
         "power": 852,
@@ -40584,7 +40584,7 @@ window.allHeroes =
             "Mindless Attack & Mindless Heal",
             "AoE Attackers (Hit-3)"
         ],
-        "source": "S1 - Classic",
+        "source": "Costume Quest",
         "Release date": "2022-12-26",
         "star": 5,
         "power": 969,
@@ -40628,7 +40628,7 @@ window.allHeroes =
             "AoE Attackers (Hit-5)",
             "Extra Damage Dealers"
         ],
-        "source": "S1 - Classic",
+        "source": "Costume Quest",
         "Release date": "2024-08-11",
         "star": 5,
         "power": 1135,
@@ -41051,7 +41051,7 @@ window.allHeroes =
         "skill_types": [
             "Snipers"
         ],
-        "source": "S1 - Classic",
+        "source": "Costume Quest",
         "Release date": "2020-05-18",
         "star": 5,
         "power": 853,
@@ -41096,7 +41096,7 @@ window.allHeroes =
             "Minions Counters",
             "Snipers"
         ],
-        "source": "S1 - Classic",
+        "source": "Costume Quest",
         "Release date": "2023-06-12",
         "star": 5,
         "power": 971,
@@ -41143,7 +41143,7 @@ window.allHeroes =
             "Extra Damage Dealers",
             "Snipers"
         ],
-        "source": "S1 - Classic",
+        "source": "Costume Quest",
         "Release date": "2023-10-30",
         "star": 5,
         "power": 1137,
@@ -41192,7 +41192,7 @@ window.allHeroes =
             "DoT Attackers",
             "Snipers"
         ],
-        "source": "S1 - Classic",
+        "source": "Costume Quest",
         "Release date": "2024-12-24",
         "star": 5,
         "power": 1242,
@@ -43924,7 +43924,7 @@ window.allHeroes =
             "AoE Attackers (Hit-3)",
             "Mana Reducers or Blockers"
         ],
-        "source": "S1 - Classic",
+        "source": "Costume Quest",
         "Release date": "2020-05-18",
         "star": 3,
         "power": 473,
@@ -43970,7 +43970,7 @@ window.allHeroes =
             "Snipers",
             "Extra Damage Dealers"
         ],
-        "source": "S1 - Classic",
+        "source": "Costume Quest",
         "Release date": "2024-03-11",
         "star": 3,
         "power": 506,
@@ -44020,7 +44020,7 @@ window.allHeroes =
             "Mana Reducers or Blockers",
             "Snipers"
         ],
-        "source": "S1 - Classic",
+        "source": "Costume Quest",
         "Release date": "2025-04-23",
         "star": 3,
         "power": 514,
@@ -44614,7 +44614,7 @@ window.allHeroes =
             "Buffers (ATK)",
             "Heal over Time (HoT)"
         ],
-        "source": "S1 - Classic",
+        "source": "Costume Quest",
         "Release date": "2020-01-20",
         "star": 3,
         "power": 474,
@@ -44659,7 +44659,7 @@ window.allHeroes =
             "Healers",
             "Buffers (DEF)"
         ],
-        "source": "S1 - Classic",
+        "source": "Costume Quest",
         "Release date": "2024-05-06",
         "star": 3,
         "power": 507,
@@ -44806,7 +44806,7 @@ window.allHeroes =
             "AoE Attackers (Hit-5)",
             "DoT Attackers"
         ],
-        "source": "S1 - Classic",
+        "source": "Costume Quest",
         "Release date": "2021-01-18",
         "star": 3,
         "power": 473,
@@ -44852,7 +44852,7 @@ window.allHeroes =
             "DoT Attackers",
             "Extra Damage Dealers"
         ],
-        "source": "S1 - Classic",
+        "source": "Costume Quest",
         "Release date": "2023-12-25",
         "star": 3,
         "power": 506,
@@ -44901,7 +44901,7 @@ window.allHeroes =
             "Bypassers",
             "DoT Attackers"
         ],
-        "source": "S1 - Classic",
+        "source": "Costume Quest",
         "Release date": "2024-12-25",
         "star": 3,
         "power": 514,
@@ -45192,7 +45192,7 @@ window.allHeroes =
             "DoT Attackers",
             "Snipers"
         ],
-        "source": "S1 - Classic",
+        "source": "Costume Quest",
         "Release date": "2021-01-18",
         "star": 3,
         "power": 472,
@@ -45238,7 +45238,7 @@ window.allHeroes =
             "Snipers",
             "Extra Damage Dealers"
         ],
-        "source": "S1 - Classic",
+        "source": "Costume Quest",
         "Release date": "2024-05-31",
         "star": 3,
         "power": 505,
@@ -45956,7 +45956,7 @@ window.allHeroes =
             "Buffers (ATK)",
             "Healers"
         ],
-        "source": "S1 - Classic",
+        "source": "Costume Quest",
         "Release date": "2020-01-20",
         "star": 4,
         "power": 690,
@@ -46002,7 +46002,7 @@ window.allHeroes =
             "Heal over Time (HoT)",
             "Health Boosters"
         ],
-        "source": "S1 - Classic",
+        "source": "Costume Quest",
         "Release date": "2023-06-12",
         "star": 4,
         "power": 736,
@@ -46047,7 +46047,7 @@ window.allHeroes =
             "Buffers (ATK)",
             "Healers"
         ],
-        "source": "S1 - Classic",
+        "source": "Costume Quest",
         "Release date": "2023-12-25",
         "star": 4,
         "power": 748,
@@ -46097,7 +46097,7 @@ window.allHeroes =
             "Healers",
             "Reflectors"
         ],
-        "source": "S1 - Classic",
+        "source": "Costume Quest",
         "Release date": "2024-12-24",
         "star": 4,
         "power": 761,
@@ -46292,7 +46292,7 @@ window.allHeroes =
             "AoE Attackers (Hit-5)",
             "DoT Attackers"
         ],
-        "source": "S1 - Classic",
+        "source": "Costume Quest",
         "Release date": "2021-01-18",
         "star": 4,
         "power": 688,
@@ -46338,7 +46338,7 @@ window.allHeroes =
             "Debuffers (DEF)",
             "Extra Damage Dealers"
         ],
-        "source": "S1 - Classic",
+        "source": "Costume Quest",
         "Release date": "2023-06-12",
         "star": 4,
         "power": 733,
@@ -46385,7 +46385,7 @@ window.allHeroes =
             "DoT Attackers",
             "Extra Damage Dealers"
         ],
-        "source": "S1 - Classic",
+        "source": "Costume Quest",
         "Release date": "2024-03-11",
         "star": 4,
         "power": 746,
@@ -46435,7 +46435,7 @@ window.allHeroes =
             "Bypassers",
             "DoT Attackers"
         ],
-        "source": "S1 - Classic",
+        "source": "Costume Quest",
         "Release date": "2025-04-08",
         "star": 4,
         "power": 758,
@@ -46664,7 +46664,7 @@ window.allHeroes =
             "Healers (Special)",
             "Minions Counters"
         ],
-        "source": "S1 - Classic",
+        "source": "Costume Quest",
         "Release date": "2021-01-18",
         "star": 4,
         "power": 689,
@@ -46710,7 +46710,7 @@ window.allHeroes =
             "AoE Attackers (Hit-5)",
             "Dispellers"
         ],
-        "source": "S1 - Classic",
+        "source": "Costume Quest",
         "Release date": "2023-04-17",
         "star": 4,
         "power": 735,
@@ -46756,7 +46756,7 @@ window.allHeroes =
             "Debuffers (DEF)",
             "Extra Damage Dealers"
         ],
-        "source": "S1 - Classic",
+        "source": "Costume Quest",
         "Release date": "2024-05-06",
         "star": 4,
         "power": 747,
@@ -46806,7 +46806,7 @@ window.allHeroes =
             "Bypassers",
             "Debuffers (DEF)"
         ],
-        "source": "S1 - Classic",
+        "source": "Costume Quest",
         "Release date": "2025-05-10",
         "star": 4,
         "power": 760,
@@ -47092,7 +47092,7 @@ window.allHeroes =
         "skill_types": [
             "DoT Attackers"
         ],
-        "source": "S1 - Classic",
+        "source": "Costume Quest",
         "Release date": "2021-01-18",
         "star": 4,
         "power": 688,
@@ -47137,7 +47137,7 @@ window.allHeroes =
             "DoT Attackers",
             "Healers (Special)"
         ],
-        "source": "S1 - Classic",
+        "source": "Costume Quest",
         "Release date": "2022-09-05",
         "star": 4,
         "power": 734,
@@ -47183,7 +47183,7 @@ window.allHeroes =
             "Snipers",
             "Extra Damage Dealers"
         ],
-        "source": "S1 - Classic",
+        "source": "Costume Quest",
         "Release date": "2024-04-08",
         "star": 4,
         "power": 746,
@@ -47233,7 +47233,7 @@ window.allHeroes =
             "DoT Attackers",
             "Snipers"
         ],
-        "source": "S1 - Classic",
+        "source": "Costume Quest",
         "Release date": "2025-04-23",
         "star": 4,
         "power": 758,
@@ -47843,7 +47843,7 @@ window.allHeroes =
             "DoT Attackers",
             "AoE Attackers (Hit-3)"
         ],
-        "source": "S1 - Classic",
+        "source": "Costume Quest",
         "Release date": "2021-01-18",
         "star": 4,
         "power": 685,
@@ -47890,7 +47890,7 @@ window.allHeroes =
             "Debuffers (ATK)",
             "Stacking Heroes"
         ],
-        "source": "S1 - Classic",
+        "source": "Costume Quest",
         "Release date": "2023-10-30",
         "star": 4,
         "power": 731,
@@ -47936,7 +47936,7 @@ window.allHeroes =
             "Debuffers (ATK)",
             "Extra Damage Dealers"
         ],
-        "source": "S1 - Classic",
+        "source": "Costume Quest",
         "Release date": "2024-08-11",
         "star": 4,
         "power": 743,
@@ -49455,7 +49455,7 @@ window.allHeroes =
             "DoT Attackers",
             "Extra Damage Dealers"
         ],
-        "source": "S1 - Classic",
+        "source": "Costume Quest",
         "Release date": "2020-05-18",
         "star": 5,
         "power": 852,
@@ -49502,7 +49502,7 @@ window.allHeroes =
             "DoT Attackers",
             "Healers (Special)"
         ],
-        "source": "S1 - Classic",
+        "source": "Costume Quest",
         "Release date": "2023-02-20",
         "star": 5,
         "power": 967,
@@ -49548,7 +49548,7 @@ window.allHeroes =
             "DoT Attackers",
             "Extra Damage Dealers"
         ],
-        "source": "S1 - Classic",
+        "source": "Costume Quest",
         "Release date": "2023-10-30",
         "star": 5,
         "power": 1135,
@@ -49597,7 +49597,7 @@ window.allHeroes =
             "Bypassers",
             "DoT Attackers"
         ],
-        "source": "S1 - Classic",
+        "source": "Costume Quest",
         "Release date": "2024-12-24",
         "star": 5,
         "power": 1242,
@@ -51582,7 +51582,7 @@ window.allHeroes =
             "AoE Attackers (Hit-5)",
             "Counterattackers"
         ],
-        "source": "S1 - Classic",
+        "source": "Costume Quest",
         "Release date": "2020-01-20",
         "star": 5,
         "power": 848,
@@ -51627,7 +51627,7 @@ window.allHeroes =
             "AoE Attackers (Hit-5)",
             "Counterattackers"
         ],
-        "source": "S1 - Classic",
+        "source": "Costume Quest",
         "Release date": "2023-08-07",
         "star": 5,
         "power": 964,
@@ -51673,7 +51673,7 @@ window.allHeroes =
             "Counterattackers",
             "Extra Damage Dealers"
         ],
-        "source": "S1 - Classic",
+        "source": "Costume Quest",
         "Release date": "2024-05-31",
         "star": 5,
         "power": 1129,
@@ -53831,7 +53831,7 @@ window.allHeroes =
             "Mana Generation Buffers",
             "Snipers"
         ],
-        "source": "S1 - Classic",
+        "source": "Costume Quest",
         "Release date": "2021-01-18",
         "star": 5,
         "power": 853,
@@ -53879,7 +53879,7 @@ window.allHeroes =
             "Mana Raisers",
             "Buffers (DEF)"
         ],
-        "source": "S1 - Classic",
+        "source": "Costume Quest",
         "Release date": "2022-09-05",
         "star": 5,
         "power": 969,
@@ -53928,7 +53928,7 @@ window.allHeroes =
             "Buffers (DEF)",
             "Extra Damage Dealers"
         ],
-        "source": "S1 - Classic",
+        "source": "Costume Quest",
         "Release date": "2024-04-08",
         "star": 5,
         "power": 1136,
@@ -53981,7 +53981,7 @@ window.allHeroes =
             "Bypassers",
             "Mana Generation Buffers"
         ],
-        "source": "S1 - Classic",
+        "source": "Costume Quest",
         "Release date": "2025-06-18",
         "star": 5,
         "power": 1241,
@@ -54767,7 +54767,7 @@ window.allHeroes =
             "Debuffers (DEF)",
             "Debuffers (ATK)"
         ],
-        "source": "S1 - Classic",
+        "source": "Costume Quest",
         "Release date": "2021-01-18",
         "star": 5,
         "power": 849,
@@ -54815,7 +54815,7 @@ window.allHeroes =
             "Debuffers (DEF)",
             "DoT Attackers"
         ],
-        "source": "S1 - Classic",
+        "source": "Costume Quest",
         "Release date": "2023-06-12",
         "star": 5,
         "power": 965,
@@ -54862,7 +54862,7 @@ window.allHeroes =
             "Extra Damage Dealers",
             "Snipers"
         ],
-        "source": "S1 - Classic",
+        "source": "Costume Quest",
         "Release date": "2023-12-25",
         "star": 5,
         "power": 1132,
@@ -54912,7 +54912,7 @@ window.allHeroes =
             "DoT Attackers",
             "Snipers"
         ],
-        "source": "S1 - Classic",
+        "source": "Costume Quest",
         "Release date": "2025-02-10",
         "star": 5,
         "power": 1237,
@@ -59434,7 +59434,7 @@ window.allHeroes =
             "Debuffers (ATK)",
             "Snipers"
         ],
-        "source": "S1 - Classic",
+        "source": "Costume Quest",
         "Release date": "2020-01-20",
         "star": 3,
         "power": 469,
@@ -59480,7 +59480,7 @@ window.allHeroes =
             "Debuffers (ATK)",
             "Extra Damage Dealers"
         ],
-        "source": "S1 - Classic",
+        "source": "Costume Quest",
         "Release date": "2024-03-11",
         "star": 3,
         "power": 502,
@@ -59530,7 +59530,7 @@ window.allHeroes =
             "Debuffers (ATK)",
             "Snipers"
         ],
-        "source": "S1 - Classic",
+        "source": "Costume Quest",
         "Release date": "2025-05-10",
         "star": 3,
         "power": 511,
@@ -59806,7 +59806,7 @@ window.allHeroes =
             "Chain & Random Attackers",
             "Extra Damage Dealers"
         ],
-        "source": "S1 - Classic",
+        "source": "Costume Quest",
         "Release date": "2021-01-25",
         "star": 3,
         "power": 469,
@@ -59850,7 +59850,7 @@ window.allHeroes =
             "AoE Attackers (Hit-3)",
             "Extra Damage Dealers"
         ],
-        "source": "S1 - Classic",
+        "source": "Costume Quest",
         "Release date": "2024-08-11",
         "star": 3,
         "power": 502,
@@ -60096,7 +60096,7 @@ window.allHeroes =
             "Mana Reducers or Blockers",
             "Snipers"
         ],
-        "source": "S1 - Classic",
+        "source": "Costume Quest",
         "Release date": "2021-01-25",
         "star": 3,
         "power": 474,
@@ -60142,7 +60142,7 @@ window.allHeroes =
             "Mana Reducers or Blockers",
             "Snipers"
         ],
-        "source": "S1 - Classic",
+        "source": "Costume Quest",
         "Release date": "2023-12-25",
         "star": 3,
         "power": 507,
@@ -60192,7 +60192,7 @@ window.allHeroes =
             "Bypassers",
             "Mana Reducers or Blockers"
         ],
-        "source": "S1 - Classic",
+        "source": "Costume Quest",
         "Release date": "2024-12-25",
         "star": 3,
         "power": 516,
@@ -60447,7 +60447,7 @@ window.allHeroes =
             "Buffers (ATK)",
             "Damage Sharers"
         ],
-        "source": "S1 - Classic",
+        "source": "Costume Quest",
         "Release date": "2021-01-25",
         "star": 3,
         "power": 473,
@@ -60492,7 +60492,7 @@ window.allHeroes =
             "Buffers (DEF)",
             "Damage Sharers"
         ],
-        "source": "S1 - Classic",
+        "source": "Costume Quest",
         "Release date": "2024-02-12",
         "star": 3,
         "power": 506,
@@ -60542,7 +60542,7 @@ window.allHeroes =
             "Buffers (DEF)",
             "Reflectors"
         ],
-        "source": "S1 - Classic",
+        "source": "Costume Quest",
         "Release date": "2025-03-11",
         "star": 3,
         "power": 514,
@@ -61568,7 +61568,7 @@ window.allHeroes =
             "Mana Reducers or Blockers",
             "Snipers"
         ],
-        "source": "S1 - Classic",
+        "source": "Costume Quest",
         "Release date": "2021-01-18",
         "star": 4,
         "power": 686,
@@ -61613,7 +61613,7 @@ window.allHeroes =
             "AoE Attackers (Hit-3)",
             "Mana Reducers or Blockers"
         ],
-        "source": "S1 - Classic",
+        "source": "Costume Quest",
         "Release date": "2023-10-30",
         "star": 4,
         "power": 733,
@@ -61659,7 +61659,7 @@ window.allHeroes =
             "Snipers",
             "Extra Damage Dealers"
         ],
-        "source": "S1 - Classic",
+        "source": "Costume Quest",
         "Release date": "2024-06-28",
         "star": 4,
         "power": 745,
@@ -62503,7 +62503,7 @@ window.allHeroes =
             "Debuffers (ATK)",
             "Healing Reducers"
         ],
-        "source": "S1 - Classic",
+        "source": "Costume Quest",
         "Release date": "2021-01-18",
         "star": 4,
         "power": 683,
@@ -62551,7 +62551,7 @@ window.allHeroes =
             "Debuffers (ATK)",
             "Mana Reducers or Blockers"
         ],
-        "source": "S1 - Classic",
+        "source": "Costume Quest",
         "Release date": "2023-11-27",
         "star": 4,
         "power": 729,
@@ -62598,7 +62598,7 @@ window.allHeroes =
             "Debuffers (ATK)",
             "Extra Damage Dealers"
         ],
-        "source": "S1 - Classic",
+        "source": "Costume Quest",
         "Release date": "2024-05-31",
         "star": 4,
         "power": 741,
@@ -62648,7 +62648,7 @@ window.allHeroes =
             "Bypassers",
             "Debuffers (ATK)"
         ],
-        "source": "S1 - Classic",
+        "source": "Costume Quest",
         "Release date": "2025-06-18",
         "star": 4,
         "power": 753,
@@ -62785,7 +62785,7 @@ window.allHeroes =
             "AoE Attackers (Hit-5)",
             "Mana Reducers or Blockers"
         ],
-        "source": "S1 - Classic",
+        "source": "Costume Quest",
         "Release date": "2020-01-20",
         "star": 4,
         "power": 685,
@@ -62830,7 +62830,7 @@ window.allHeroes =
             "AoE Attackers (Hit-3)",
             "Silencers"
         ],
-        "source": "S1 - Classic",
+        "source": "Costume Quest",
         "Release date": "2023-02-20",
         "star": 4,
         "power": 731,
@@ -62876,7 +62876,7 @@ window.allHeroes =
             "Extra Damage Dealers",
             "Mana Reducers or Blockers"
         ],
-        "source": "S1 - Classic",
+        "source": "Costume Quest",
         "Release date": "2024-02-12",
         "star": 4,
         "power": 743,
@@ -62926,7 +62926,7 @@ window.allHeroes =
             "Bypassers",
             "Mana Reducers or Blockers"
         ],
-        "source": "S1 - Classic",
+        "source": "Costume Quest",
         "Release date": "2025-03-11",
         "star": 4,
         "power": 755,
@@ -63421,7 +63421,7 @@ window.allHeroes =
             "AoE Attackers (Hit-5)",
             "Negative Effects On Self Or Allies"
         ],
-        "source": "S1 - Classic",
+        "source": "Costume Quest",
         "Release date": "2021-01-18",
         "star": 4,
         "power": 690,
@@ -63465,7 +63465,7 @@ window.allHeroes =
             "Buffers (ATK)",
             "Negative Effects On Self Or Allies"
         ],
-        "source": "S1 - Classic",
+        "source": "Costume Quest",
         "Release date": "2023-10-30",
         "star": 4,
         "power": 736,
@@ -63508,7 +63508,7 @@ window.allHeroes =
             "Buffers (ATK)",
             "Negative Effects On Self Or Allies"
         ],
-        "source": "S1 - Classic",
+        "source": "Costume Quest",
         "Release date": "2024-07-16",
         "star": 4,
         "power": 748,
@@ -67431,7 +67431,7 @@ window.allHeroes =
             "Debuffers (ATK)",
             "Snipers"
         ],
-        "source": "S1 - Classic",
+        "source": "Costume Quest",
         "Release date": "2020-01-20",
         "star": 5,
         "power": 847,
@@ -67478,7 +67478,7 @@ window.allHeroes =
             "Debuffers (ATK)",
             "DoT Attackers"
         ],
-        "source": "S1 - Classic",
+        "source": "Costume Quest",
         "Release date": "2022-12-26",
         "star": 5,
         "power": 961,
@@ -67525,7 +67525,7 @@ window.allHeroes =
             "Extra Damage Dealers",
             "Snipers"
         ],
-        "source": "S1 - Classic",
+        "source": "Costume Quest",
         "Release date": "2024-02-12",
         "star": 5,
         "power": 1127,
@@ -67575,7 +67575,7 @@ window.allHeroes =
             "Debuffers (ATK)",
             "Snipers"
         ],
-        "source": "S1 - Classic",
+        "source": "Costume Quest",
         "Release date": "2025-04-08",
         "star": 5,
         "power": 1232,
@@ -67720,7 +67720,7 @@ window.allHeroes =
             "Extra Damage Dealers",
             "Mana Generation Buffers"
         ],
-        "source": "S1 - Classic",
+        "source": "Costume Quest",
         "Release date": "2021-01-18",
         "star": 5,
         "power": 849,
@@ -67767,7 +67767,7 @@ window.allHeroes =
             "Debuffers (ATK)",
             "Extra Damage Dealers"
         ],
-        "source": "S1 - Classic",
+        "source": "Costume Quest",
         "Release date": "2023-02-20",
         "star": 5,
         "power": 966,
@@ -67814,7 +67814,7 @@ window.allHeroes =
             "Debuffers (ATK)",
             "Extra Damage Dealers"
         ],
-        "source": "S1 - Classic",
+        "source": "Costume Quest",
         "Release date": "2024-06-28",
         "star": 5,
         "power": 1132,
@@ -68339,7 +68339,7 @@ window.allHeroes =
             "Debuffers (ATK)",
             "Debuffers (DEF)"
         ],
-        "source": "S1 - Classic",
+        "source": "Costume Quest",
         "Release date": "2021-01-18",
         "star": 5,
         "power": 845,
@@ -68387,7 +68387,7 @@ window.allHeroes =
             "Mana Reducers or Blockers",
             "Debuffers (DEF)"
         ],
-        "source": "S1 - Classic",
+        "source": "Costume Quest",
         "Release date": "2022-12-26",
         "star": 5,
         "power": 960,
@@ -68436,7 +68436,7 @@ window.allHeroes =
             "Mana Reducers or Blockers",
             "Snipers"
         ],
-        "source": "S1 - Classic",
+        "source": "Costume Quest",
         "Release date": "2023-12-25",
         "star": 5,
         "power": 1125,
@@ -68489,7 +68489,7 @@ window.allHeroes =
             "Mana Reducers or Blockers",
             "Snipers"
         ],
-        "source": "S1 - Classic",
+        "source": "Costume Quest",
         "Release date": "2025-02-10",
         "star": 5,
         "power": 1232,
@@ -71771,7 +71771,7 @@ window.allHeroes =
             "Dispellers",
             "Healers"
         ],
-        "source": "S1 - Classic",
+        "source": "Costume Quest",
         "Release date": "2020-01-20",
         "star": 5,
         "power": 850,
@@ -71819,7 +71819,7 @@ window.allHeroes =
             "Dispellers",
             "Health Boosters"
         ],
-        "source": "S1 - Classic",
+        "source": "Costume Quest",
         "Release date": "2022-09-05",
         "star": 5,
         "power": 966,
@@ -71867,7 +71867,7 @@ window.allHeroes =
             "Cleansers",
             "Healers"
         ],
-        "source": "S1 - Classic",
+        "source": "Costume Quest",
         "Release date": "2023-10-30",
         "star": 5,
         "power": 1132,
@@ -71919,7 +71919,7 @@ window.allHeroes =
             "Healers",
             "Reflectors"
         ],
-        "source": "S1 - Classic",
+        "source": "Costume Quest",
         "Release date": "2024-12-24",
         "star": 5,
         "power": 1238,
