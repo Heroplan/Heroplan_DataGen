@@ -54,6 +54,8 @@ OUTPUT_JS_FILE_CN = 'heroes_data_cn.js'
 OUTPUT_JS_FILE_TC = 'heroes_data_tc.js'
 OUTPUT_JS_FILE_EN = 'heroes_data_en.js'
 HERO_STATS_FILE = '../突破数据爬取/hero_stats.json'
+EXTRA_HEROES_JSON_FILE = 'extra_heroes.json'
+
 
 # --- 全局变量 ---
 LANGUAGES = ['cn', 'tc', 'en']
@@ -92,7 +94,6 @@ def setup_logging():
     log_dir = 'logs'
     if not os.path.exists(log_dir): os.makedirs(log_dir)
 
-    # --- 主日志记录器 (generation.log 和 控制台) ---
     logging.basicConfig(
         level=logging.INFO,
         format='%(asctime)s - %(levelname)s - %(message)s',
@@ -105,15 +106,12 @@ def setup_logging():
     console.setFormatter(logging.Formatter('%(levelname)s - %(message)s'))
     logging.getLogger('').addHandler(console)
 
-    # --- 翻译失败专用日志记录器 (translation_failures.log) ---
     failure_logger = logging.getLogger('failures')
     failure_logger.setLevel(logging.WARNING)
     failure_handler = logging.FileHandler(os.path.join(log_dir, "translation_failures.log"), mode='w', encoding='utf-8')
     failure_handler.setFormatter(logging.Formatter('%(asctime)s - %(message)s'))
     failure_logger.addHandler(failure_handler)
     
-    # 移除或注释掉下面这行，允许日志传播到控制台
-    # failure_logger.propagate = False
 def clean_string_for_output(text):
     if not isinstance(text, str): return text
     return text.replace('[', '').replace(']', '')
@@ -250,7 +248,6 @@ def translate_name(name_en):
         return final_names
         
     cleaned_full_name = clean_string_for_output(original_name_no_accents_full)
-    # 使用 'failures' 日志记录器
     logging.getLogger('failures').warning(f"英雄名未匹配: '{name_en}' (规范化为: '{normalized_input}')")
     return {lang: cleaned_full_name for lang in LANGUAGES}
 
@@ -268,9 +265,7 @@ def translate_single_value(value, dict_key):
         else:
             translations_out[lang] = value
             
-    # 修改: 移除了对 'heroes_name_fancy' 或 'aether_powers' 的检查，现在会记录所有失败
     if not found_any:
-        # 使用 'failures' 日志记录器
         logging.getLogger('failures').warning(f"翻译缺失: 字典='{dict_key}', 值='{value}' (规范化为: '{normalized_value}')")
         
     return translations_out
@@ -291,7 +286,6 @@ def translate_list(items_list, dict_key):
             found_in_any_lang = any(normalized_item in translations.get(f"{dict_key}_tolerant", {}).get(lang_check, {}) for lang_check in LANGUAGES)
             
             if not found_in_any_lang:
-                 # 使用 'failures' 日志记录器
                 logging.getLogger('failures').warning(f"列表翻译缺失: 字典='{dict_key}', 值='{item}' (规范化为: '{normalized_item}')")
             
             for lang in LANGUAGES:
@@ -329,23 +323,24 @@ def load_heroes_data_extra():
         data = json.loads(json_str)
         for entry in data:
             if name_raw := entry.get('name'):
-                # 在查找extra数据时也应该剥离后缀
                 lookup_name = strip_ignorable_suffix(name_raw)
                 heroes_extra_lookup[normalize_for_hero_name(lookup_name)] = entry
     except Exception as e: logging.error(f"处理 '{HEROES_DATA_EXTRA_FILE}' 时发生未知错误: {e}", exc_info=True)
 
 
 def generate_js_data_with_translation(heroes_base_dir, output_path_cn, output_path_tc, output_path_en):
-    """主处理函数，结构已还原，所有修正都在此函数内联完成。"""
+    """主处理函数，包含从YML和额外JSON文件加载和翻译英雄数据的逻辑。"""
     all_hero_data = {lang: [] for lang in LANGUAGES}
     missing_extra_info = []
     unmatched_yml_heroes = []
     unmatched_stats_keys = set(hero_stats_lookup.keys())
     original_index_counter = 0
+    
+    # --- 新增: 用于存储已处理英雄名称的集合，以检测重复 ---
+    processed_hero_names = set()
 
     print("开始扫描英雄文件...")
     hero_files_to_process = []
-    # 扫描文件的逻辑，与您的原始脚本完全一致
     for color in ['blue', 'green', 'purple', 'red', 'yellow']:
         for star in range(1, 6):
             star_path = os.path.join(heroes_base_dir, color, str(star))
@@ -362,44 +357,28 @@ def generate_js_data_with_translation(heroes_base_dir, output_path_cn, output_pa
                 hero_data = yaml.safe_load(f.read().replace('\t', '    '))
             if not hero_data or 'name' not in hero_data: continue
             
-            # --- 基础英雄处理 ---
             hero_name_raw = hero_data.get('name')
+            
+            # --- 添加基础英雄到已处理集合 ---
+            processed_hero_names.add(normalize_for_hero_name(strip_ignorable_suffix(hero_name_raw)))
+            
             hero_family = hero_data.get('family')
-
-            # ------------------- 脚本修改开始 -------------------
-            # 优先使用 yml 文件中的 source 作为默认值
             source_to_translate = hero_data.get('source')
             
-            # 根据 family 覆盖 source
-            if hero_family == 'slime':
-                source_to_translate = 'superelemental'
-            elif hero_family == 'opera':
-                source_to_translate = 'opera'
-            elif hero_family in ['defendersofatlantis', 'nightmaresofatlantis']:
-                source_to_translate = 'untoldtales1'
-            elif hero_family in ['nidavellir', 'myrkheim']:
-                source_to_translate = 'untoldtales2'
-            elif hero_family in ['plainshunter', 'myrkhjunglehuntereim', 'abysshunter', 'junglehunter']:
-                source_to_translate = 'monsterisland'
-            elif hero_family in ['fox']:
-                source_to_translate = 'covenant'
-            elif hero_family in ['wildcat']:
-                source_to_translate = 'wilderness'
-            elif hero_family in ['beowulf']:
-                source_to_translate = 'beowulf'
-            elif hero_family in ['astralelves', 'astraldwarfs']:
-                source_to_translate = 'astral'
-            elif hero_family in ['gargoyle']:
-                source_to_translate = 'gargoyle'
-            elif hero_family in ['investigator', 'cultist']:
-                source_to_translate = 'shadow'
-            elif hero_family in ['mystery']:
-                source_to_translate = 'tavernoflegendssecret'
-            elif hero_family in ['avalon', 'corellia', 'grimforest', 'guardiansteltoc', 'wonderland']:
-                source_to_translate = 'challengefestival1'
-            elif hero_family in ['villains', 'starfall', 'slayer', 'bard', 'pets']:
-                source_to_translate = 'challengefestival2'
-            # ------------------- 脚本修改结束 -------------------
+            if hero_family == 'slime': source_to_translate = 'superelemental'
+            elif hero_family == 'opera': source_to_translate = 'opera'
+            elif hero_family in ['defendersofatlantis', 'nightmaresofatlantis']: source_to_translate = 'untoldtales1'
+            elif hero_family in ['nidavellir', 'myrkheim']: source_to_translate = 'untoldtales2'
+            elif hero_family in ['plainshunter', 'myrkhjunglehuntereim', 'abysshunter', 'junglehunter']: source_to_translate = 'monsterisland'
+            elif hero_family in ['fox']: source_to_translate = 'covenant'
+            elif hero_family in ['wildcat']: source_to_translate = 'wilderness'
+            elif hero_family in ['beowulf']: source_to_translate = 'beowulf'
+            elif hero_family in ['astralelves', 'astraldwarfs']: source_to_translate = 'astral'
+            elif hero_family in ['gargoyle']: source_to_translate = 'gargoyle'
+            elif hero_family in ['investigator', 'cultist']: source_to_translate = 'shadow'
+            elif hero_family in ['mystery']: source_to_translate = 'tavernoflegendssecret'
+            elif hero_family in ['avalon', 'corellia', 'grimforest', 'guardiansteltoc', 'wonderland']: source_to_translate = 'challengefestival1'
+            elif hero_family in ['villains', 'starfall', 'slayer', 'bard', 'pets']: source_to_translate = 'challengefestival2'
 
             extra = heroes_extra_lookup.get(normalize_for_hero_name(strip_ignorable_suffix(hero_name_raw)), {})
             if not extra: missing_extra_info.append(f"基础英雄: '{hero_name_raw}'")
@@ -455,6 +434,10 @@ def generate_js_data_with_translation(heroes_base_dir, output_path_cn, output_pa
                     
                     costume_id = int(re.match(r'costume(\d*)', key).group(1) or 1)
                     full_name = f"{hero_name_raw} {final_suffix}".strip()
+
+                    # --- 添加皮肤英雄到已处理集合 ---
+                    processed_hero_names.add(normalize_for_hero_name(strip_ignorable_suffix(full_name)))
+
                     extra_c = heroes_extra_lookup.get(normalize_for_hero_name(strip_ignorable_suffix(full_name)), {})
                     if not extra_c: missing_extra_info.append(f"时装英雄: '{full_name}'")
                     
@@ -465,10 +448,8 @@ def generate_js_data_with_translation(heroes_base_dir, output_path_cn, output_pa
                     skill_trans_c = correct_and_translate_skill(costume_data.get('skill'))
                     types_trans_c = translate_list(flatten_list(costume_data.get('types', [])), 'types')
                     skill_types_trans_c = translate_list(extra_c.get('skill_types', []), 'skill_types')
-                    source_trans_c = source_trans  # 默认情况下，服装继承基础英雄的起源
+                    source_trans_c = source_trans
                     if hero_data.get('source') == 'season1':
-                        # 如果基础英雄是S1，则强制将服装的起源设置为“服装间”
-                        # 注意：这里我们直接翻译 'costume' 这个key
                         source_trans_c = translate_single_value('costume', 'source_values')
 
                     common_data_c = {'Release date': extra_c.get('Release date', ''), 'star': current_star, 'power': costume_data.get('power'), 'attack': costume_data.get('attack'), 'defense': costume_data.get('defense'), 'health': costume_data.get('health'), 'effects': flatten_list(costume_data.get('effects', [])), 'passives': flatten_list(costume_data.get('passives', [])), 'family': hero_family, 'image': costume_data.get('image'), 'costume_id': costume_id, 'originalIndex': original_index_counter}
@@ -495,6 +476,88 @@ def generate_js_data_with_translation(heroes_base_dir, output_path_cn, output_pa
                     original_index_counter += 1
         except Exception as e:
             logging.error(f"处理文件 '{os.path.basename(filepath)}' 时发生严重错误: {e}", exc_info=True)
+            
+    # --- 从额外JSON文件处理英雄数据 ---
+    print(f"\n正在从 {EXTRA_HEROES_JSON_FILE} 加载并处理附加英雄数据...")
+    extra_heroes_list = []
+    if os.path.exists(EXTRA_HEROES_JSON_FILE):
+        try:
+            with open(EXTRA_HEROES_JSON_FILE, 'r', encoding='utf-8') as f:
+                extra_heroes_list = json.load(f)
+            print(f"成功加载 {len(extra_heroes_list)} 个附加英雄。")
+        except Exception as e:
+            logging.error(f"加载或解析 '{EXTRA_HEROES_JSON_FILE}' 时出错: {e}")
+    else:
+        logging.warning(f"警告: 附加英雄JSON文件未找到: {EXTRA_HEROES_JSON_FILE}")
+
+    for hero_data in tqdm(extra_heroes_list, desc="处理附加英雄进度"):
+        try:
+            hero_name_raw = hero_data.get('name', '')
+            if not hero_name_raw:
+                continue
+
+            # --- 新增: 检查英雄是否重复 ---
+            normalized_name_to_check = normalize_for_hero_name(strip_ignorable_suffix(hero_name_raw))
+            if normalized_name_to_check in processed_hero_names:
+                print(f"\n提示: 检测到重复英雄 '{hero_name_raw}'。将跳过添加。")
+                logging.warning(f"检测到重复英雄 '{hero_name_raw}'，该英雄已存在于YML数据中，将跳过从 {EXTRA_HEROES_JSON_FILE} 添加。")
+                continue # 跳过此英雄，处理下一个
+
+            normalized_name_extra = normalize_for_hero_name(strip_ignorable_suffix(hero_name_raw))
+            unmatched_stats_keys.discard(normalized_name_extra)
+
+            current_star = hero_data.get('star', 0)
+            
+            name_trans = translate_name(hero_name_raw)
+            fancy_name_trans = translate_single_value(hero_data.get('fancy_name', ''), 'heroes_name_fancy')
+            aether_power_trans = translate_single_value(hero_data.get('AetherPower', ''), 'aether_powers')
+            color_trans = translate_single_value(hero_data.get('color', ''), 'base_values')
+            class_trans = translate_single_value(hero_data.get('class', ''), 'base_values')
+            speed_trans = translate_single_value(hero_data.get('speed', ''), 'base_values')
+            skill_trans = correct_and_translate_skill(hero_data.get('skill', ''))
+            source_trans = translate_single_value(hero_data.get('source', ''), 'source_values')
+            types_trans = translate_list(hero_data.get('types', []), 'types')
+            skill_types_trans = translate_list(hero_data.get('skill_types', []), 'skill_types')
+
+            common_data = {
+                'Release date': hero_data.get('Release date', ''),
+                'star': current_star,
+                'power': hero_data.get('power'),
+                'attack': hero_data.get('attack'),
+                'defense': hero_data.get('defense'),
+                'health': hero_data.get('health'),
+                'effects': hero_data.get('effects', []),
+                'passives': hero_data.get('passives', []),
+                'family': hero_data.get('family', ''),
+                'image': hero_data.get('image', ''),
+                'costume_id': hero_data.get('costume_id', 0),
+                'originalIndex': original_index_counter
+            }
+            lb_data = {
+                'lb1': hero_data.get('lb1'),
+                'lb2': hero_data.get('lb2')
+            }
+            
+            lb_data = {k: v for k, v in lb_data.items() if v is not None}
+
+            for lang in LANGUAGES:
+                all_hero_data[lang].append({
+                    'name': name_trans[lang],
+                    'fancy_name': fancy_name_trans[lang],
+                    'AetherPower': aether_power_trans[lang],
+                    'color': color_trans[lang],
+                    'class': class_trans[lang],
+                    'speed': speed_trans[lang],
+                    'skill': skill_trans[lang],
+                    'types': types_trans[lang],
+                    'skill_types': skill_types_trans[lang],
+                    'source': source_trans[lang],
+                    **common_data,
+                    **lb_data
+                })
+            original_index_counter += 1
+        except Exception as e:
+            logging.error(f"处理来自JSON的英雄 '{hero_data.get('name', 'N/A')}' 时发生错误: {e}", exc_info=True)
     
     # --- 日志和文件写入 ---
     if unmatched_yml_heroes:
@@ -520,16 +583,12 @@ def generate_js_data_with_translation(heroes_base_dir, output_path_cn, output_pa
             
     return missing_extra_info, unmatched_yml_heroes, list(unmatched_stats_keys)
 
-# ==============================================================================
-#  ★★ 新增函数 ★★: 自动追加缺失的英雄到 heroes_data_extra.js
-# ==============================================================================
 def append_missing_heroes_to_extra_data(missing_info_list, file_path):
     """
     当检测到有英雄缺少额外数据时，自动生成空白条目并追加到 heroes_data_extra.js 文件中。
     """
     logging.info(f"检测到 {len(missing_info_list)} 个缺失的英雄数据，准备自动追加到 '{file_path}'...")
     
-    # 1. 从日志信息中提取英雄名称
     pattern = re.compile(r"'(.*?)'")
     found_names = set()
     for line in missing_info_list:
@@ -542,9 +601,8 @@ def append_missing_heroes_to_extra_data(missing_info_list, file_path):
         logging.warning("尝试追加数据，但未能从缺失信息中提取到任何有效的英雄名。")
         return
 
-    # 2. 为提取到的英雄名构建空白条目
     blank_entries = []
-    for name in sorted(list(found_names)): # 排序以保证文件内容的稳定性
+    for name in sorted(list(found_names)):
         blank_entries.append({
             "name": name,
             "fancy name": "",
@@ -553,7 +611,6 @@ def append_missing_heroes_to_extra_data(missing_info_list, file_path):
             "skill_types": []
         })
 
-    # 3. 读取现有的 heroes_data_extra.js 文件
     existing_data = []
     try:
         if os.path.exists(file_path):
@@ -563,7 +620,7 @@ def append_missing_heroes_to_extra_data(missing_info_list, file_path):
             match = re.search(r'=\s*(\[[\s\S]*?\])\s*;', js_content)
             if match:
                 json_str = match.group(1)
-                json_str = re.sub(r',\s*([\]}])', r'\1', json_str) # 移除尾随逗号
+                json_str = re.sub(r',\s*([\]}])', r'\1', json_str)
                 existing_data = json.loads(json_str)
             else:
                 logging.warning(f"在 '{file_path}' 中未找到数据数组。将创建一个新的数组。")
@@ -574,11 +631,9 @@ def append_missing_heroes_to_extra_data(missing_info_list, file_path):
         logging.error(f"读取或解析 '{file_path}' 时出错: {e}。将以一个空列表开始。")
         existing_data = []
 
-    # 4. 合并并写入新文件
     updated_data = existing_data + blank_entries
     try:
         with open(file_path, 'w', encoding='utf-8') as f:
-            # 使用 indent=4 以获得与 prettier 类似的格式化效果
             json_string = json.dumps(updated_data, indent=4, ensure_ascii=False)
             f.write(f"window.allHeroesExtra = {json_string};")
         print(f"成功！已将 {len(blank_entries)} 个新的空白英雄条目追加到 '{file_path}'。")
@@ -600,7 +655,6 @@ if __name__ == '__main__':
             OUTPUT_JS_FILE_EN
         )
         
-        # 检查是否有任何翻译失败
         failure_log_path = os.path.join('logs', 'translation_failures.log')
         if os.path.exists(failure_log_path) and os.path.getsize(failure_log_path) > 0:
             print(f"\n警告: 检测到翻译失败。详情请查看日志文件: {failure_log_path}")

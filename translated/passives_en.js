@@ -10064,5 +10064,22 @@ const allTranslations =
             "Resist Mana Reduction: This character has innate resistance against mana reduction.",
             "Mana on Status Ailment Received: This character gains 5% mana when they receive a status ailment or negative stack."
         ]
+    },
+    {
+        "originalIndex": 1447,
+        "name": "进阶拟态兽 (Ascension Mimic)",
+        "passives": [
+            "Perfect Accuracy: This character’s Special Skill never misses its targets.",
+            "Mimic Loot: This Mimic gives a chance for extra loot when completing stages",
+            " * Tall Boots",
+            " * Fine Gloves",
+            " * Compass",
+            " * Damascus Blade",
+            " * Tome of Tactics",
+            " * Fine Leather",
+            " * Chainmail Shirt",
+            " * FHidden Blade",
+            " * Mystic Rings"
+        ]
     }
 ];

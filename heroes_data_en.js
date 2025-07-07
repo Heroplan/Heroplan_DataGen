@@ -72985,5 +72985,68 @@ window.allHeroes =
             "defense": 1231,
             "health": 2151
         }
+    },
+    {
+        "name": "Ascension Mimic",
+        "fancy_name": "Grinning Cache of Evil",
+        "AetherPower": "Bulwark",
+        "color": "Red",
+        "class": "Rogue",
+        "speed": "Average",
+        "skill": "Gorging Chew",
+        "types": [
+            "Minion Destroyer 3",
+            "Hit 3",
+            "Mimic Chest"
+        ],
+        "skill_types": [
+            "Healers (Special)",
+            "Minions Counters",
+            "AoE Attackers (Hit-3)",
+            "Mana Raisers",
+            "Immunity Providers",
+            "Ghost Form & Hiding",
+            "Bypassers"
+        ],
+        "source": "Extra Draw - Secret Summon",
+        "Release date": "2025-07-04",
+        "star": 5,
+        "power": 1225,
+        "attack": 1269,
+        "defense": 1269,
+        "health": 2152,
+        "effects": [
+            "Deals 380% damage to the target and nearby enemies.",
+            "If an enemy is defeated by the attack, the caster recovers +50% health and gains +33% mana.",
+            "The target and nearby enemies receive 608 Bleed damage over 4 turns.",
+            "The Mimic chest closes for 2 turns. (The Mimic is immune to damage and new status ailments while closed.)"
+        ],
+        "passives": [
+            "Perfect Accuracy: This character’s Special Skill never misses its targets.",
+            "Mimic Loot: This Mimic gives a chance for extra loot when completing stages",
+            " * Tall Boots",
+            " * Fine Gloves",
+            " * Compass",
+            " * Damascus Blade",
+            " * Tome of Tactics",
+            " * Fine Leather",
+            " * Chainmail Shirt",
+            " * FHidden Blade",
+            " * Mystic Rings"
+        ],
+        "family": "mimic",
+        "image": "https://imgur.com/extra1.jpg",
+        "costume_id": 0,
+        "originalIndex": 1447,
+        "lb1": {
+            "attack": 1367,
+            "defense": 1367,
+            "health": 2319
+        },
+        "lb2": {
+            "attack": 1564,
+            "defense": 1564,
+            "health": 2664
+        }
     }
 ];

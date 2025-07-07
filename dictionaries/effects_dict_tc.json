@@ -329,7 +329,7 @@
     "^Mindless\\s+Heal:\\s+Recovers([+-]?\\s*\\d+\\s*%?)\\s+health\\s+for\\s+the\\s+character\\s+on\\s+the\\s+opposing\\s+side\\s+with\\s+the\\s+lowest\\s+remaining\\s+HP\\.?\\s*$": "莽夫治療：為剩餘生命值最低的敵方角色恢復\\1 生命值。",
     "^Cook\\s+random\\s+foord\\s+for\\s+special\\s+effect\\s+\\(Activation\\s+chance\\s+for\\s+each\\s+effect\\):$": "烹煮隨機食物，獲得特殊效果（每次效果的啟用機率）：",
     "^\\-\\s+Exquiste\\s+Food$": "- 精緻食物：",
-    "^\\(([+-]?\\s*\\d+\\s*%?)\\)$": "（\\1）",
+    "^\\(([+-]?\\s*\\d+\\s*%?)\\)$": "（\\1 ）",
     "^\\*\\s+Growth:\\s+All\\s+allies\\s+get([+-]?\\s*\\d+\\s*%?)defense\\.?\\s*$": "* 成長：所有盟友獲得\\1點防禦。",
     "^\\-\\s+Rotten\\s+Food$": "- 腐敗食物：",
     "^\\*\\s+All\\s+enemies\\s+receive([+-]?\\s*\\d+\\s*%?)Poison\\s+damage\\s+over([+-]?\\s*\\d+\\s*%?)turns\\.?\\s*$": "* 所有敵人在\\2回合內受到共計\\1點劇毒傷害。",
@@ -2085,7 +2085,7 @@
     "^All\\s+allies\\s+counterattack\\s+with([+-]?\\s*\\d+\\s*%?)\\s+of\\s+the\\s+damage\\s+received\\s+for([+-]?\\s*\\d+\\s*%?)turns\\.?\\s*\\s+The\\s+counterattack\\s+damage\\s+increases\\s+by\\s+([+-]?\\s*\\d+\\s*%?)\\s+each\\s+turn,\\s+up\\s+to([+-]?\\s*\\d+\\s*%?)\\.?\\s*$": "所有盟友以所受傷害的\\1 進行反擊，持續\\2回合。反擊傷害每回合增加 \\3，最高至\\4。",
     "^Destroys\\s+all\\s+Minions\\s+from\\s+the\\s+target\\.?\\s*\\s+This\\s+effect\\s+damage\\s+Mega\\s+Minions\\.?\\s*$": "摧毀目標的全部小兵。此效果會對超級小兵造成傷害。",
     "^\\(This\\s+effect\\s+applies\\s+to\\s+Mega\\s+Minions\\s+as\\s+well\\s+but\\s+instead\\s+of\\s+destroying,\\s+damage\\s+equal\\s+to([+-]?\\s*\\d+\\s*%?)\\s+of\\s+the\\s+Mega\\s+Minion['’]?s\\s+max\\s+health\\s+is\\s+dealt\\s+to\\s+the\\s+Mega\\s+Minion\\.?\\s*\\)$": "（這個效果也會套用到超級小兵身上，但不會摧毀，而是對超級小兵造成等同超級小兵最大生命值\\1 的傷害。）",
-    "^The\\s+caster\\s+gets\\s+lasting\\s+counterattack\\s+with([+-]?\\s*\\d+\\s*%?)\\s+of\\s+the\\s+damage\\s+received\\.?\\s*$": "施法者以所受傷害的\\1持續反擊。",
+    "^The\\s+caster\\s+gets\\s+lasting\\s+counterattack\\s+with([+-]?\\s*\\d+\\s*%?)\\s+of\\s+the\\s+damage\\s+received\\.?\\s*$": "施法者以所受傷害的\\1 持續反擊。",
     "^All\\s+allies\\s+get\\s+([+-]?\\s*\\d+\\s*%?)\\s+chance\\s+to\\s+dodge\\s+Special\\s+SKills\\s+for([+-]?\\s*\\d+\\s*%?)turns\\.?\\s*\\s+Each\\s+dodge\\s+boosts\\s+max\\s+health\\s+by([+-]?\\s*\\d+\\s*%?)\\.?\\s*\\s+Boosted\\s+health\\s+cand\\s+exceed\\s+max\\s+HP\\.?\\s*$": "所有盟友有 \\1 機率閃避特殊技能，持續\\2回合。每次閃避都能使生命值提高\\3點。加成生命值能夠超過最大生命值。",
     "^All\\s+allies\\s+resist\\s+max\\s+health\\s+reduction\\s+for([+-]?\\s*\\d+\\s*%?)turns\\.?\\s*$": "所有盟友可抵禦最大生命值降低，持續\\1回合。",
     "^Element\\s+Link\\s+gives\\s+([+-]?\\s*\\d+\\s*%?)\\s+increase\\s+for\\s+any\\s+healing\\s+received\\s+for\\s+all\\s+Holy\\s+allies\\s+for([+-]?\\s*\\d+\\s*%?)turns\\.?\\s*\\s+This\\s+effect\\s+can['’]?t\\s+be\\s+dispelled\\.?\\s*$": "元素鏈使所有神聖盟友獲得的任何治療提高 \\1，持續\\2個回合。此效果無法驅散。",
@@ -2277,5 +2277,6 @@
     "^When\\s+summoned,\\s+the\\s+Shu\\s+Soldier\\s+Minion\\s+gives\\s+its\\s+owner\\s+the\\s+ability\\s+to\\s+counterattack\\s+with([+-]?\\s*\\d+\\s*%?)\\s+of\\s+the\\s+damage\\s+received\\s+as\\s+long\\s+as\\s+the\\s+owner\\s+has\\s+a\\s+Shu\\s+Soldier\\s+Minion\\.?\\s*\\s+This\\s+effect\\s+can['’]?t\\s+be\\s+dispelled\\.?\\s*$": "蜀軍小兵被召喚後，只要其所有者擁有蜀軍小兵，其所有者就能以所受傷害的\\1 作出反擊。此效果無法驅散。",
     "^The\\s+Shu\\s+Guerrilla\\s+Fiend\\s+absorbs\\s+healing\\.?\\s*\\s+It\\s+disappears\\s+after\\s+absorbing\\s+a\\s+healing\\s+amount\\s+equal\\s+to([+-]?\\s*\\d+\\s*%?)\\s+of\\s+its\\s+target['’]?s\\s+max\\s+health\\.?\\s*$": "蜀軍游擊惡魔會吸收治療，当吸收的治疗量达到其目标最大生命值的\\1 时，它便会消失。",
     "^All\\s+allies\\s+get\\s+([+-]?\\s*\\d+\\s*%?)\\s+attack,\\s+and\\s+a\\s+further\\s+([+-]?\\s*\\d+\\s*%?)\\s+increase\\s+per\\s+each\\s+removed\\s+status\\s+effect\\s+up\\s+to\\s+([+-]?\\s*\\d+\\s*%?)\\s+in\\s+total,\\s+for([+-]?\\s*\\d+\\s*%?)turns\\.?\\s*$": "所有盟友獲得 \\1 攻擊力，且每移除一個狀態效果便再增加 \\2 攻擊力，最高可達 \\3，持續\\4回合。",
-    "^Element\\s+Link\\s+gives\\s+all\\s+Holy\\s+allies\\s+([+-]?\\s*\\d+\\s*%?)\\s+additional\\s+Special\\s+Skill\\s+damage\\s+for([+-]?\\s*\\d+\\s*%?)turns\\.?\\s*\\s+This\\s+effect\\s+cannot\\s+be\\s+dispelled\\.?\\s*$": "元素鏈為全體神聖系盟友提供額外 \\1 的特殊技能傷害，持續\\2回合。此效果無法驅散。"
+    "^Element\\s+Link\\s+gives\\s+all\\s+Holy\\s+allies\\s+([+-]?\\s*\\d+\\s*%?)\\s+additional\\s+Special\\s+Skill\\s+damage\\s+for([+-]?\\s*\\d+\\s*%?)turns\\.?\\s*\\s+This\\s+effect\\s+cannot\\s+be\\s+dispelled\\.?\\s*$": "元素鏈為全體神聖系盟友提供額外 \\1 的特殊技能傷害，持續\\2回合。此效果無法驅散。",
+    "^If\\s+an\\s+enemy\\s+is\\s+defeated\\s+by\\s+the\\s+attack,\\s+the\\s+caster\\s+recovers\\s+([+-]?\\s*\\d+\\s*%?)\\s+health\\s+and\\s+gains\\s+([+-]?\\s*\\d+\\s*%?)\\s+mana\\.?\\s*$": "若敵人被該攻擊所打敗，施法者恢復 \\1 生命值並獲得 \\2 法力。"
 }
