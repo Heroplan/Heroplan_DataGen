@@ -10081,5 +10081,10 @@ const allTranslations =
             " * FHidden Blade",
             " * Mystic Rings"
         ]
+    },
+    {
+        "originalIndex": 1448,
+        "name": "萨尔瓦多 (Salvatore)",
+        "passives": []
     }
 ];

@@ -10113,5 +10113,10 @@ const translatedPassivesCN =
             "* 袖剑。",
             "* 神秘戒指。"
         ]
+    },
+    {
+        "originalIndex": 1448,
+        "name": "Salvatore",
+        "passives": []
     }
 ];

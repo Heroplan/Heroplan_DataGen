@@ -13996,5 +13996,16 @@ const allTranslations =
             "The target and nearby enemies receive 608 Bleed damage over 4 turns.",
             "The Mimic chest closes for 2 turns. (The Mimic is immune to damage and new status ailments while closed.)"
         ]
+    },
+    {
+        "originalIndex": 1448,
+        "name": "萨尔瓦多 (Salvatore)",
+        "effects": [
+            "Casts Full Removal on the caster.(Full Removal removes all status effects, stacks and Growth and Wither effects. Removes even status effects and stacks that are otherwise undispellable or uncleansable.)",
+            "The caster shifts into Deranged Dire Ghost form for 5 turns.",
+            "While in Deranged Dire Ghost form, the caster automatically deals 300% damage and inflicts 30 Insanity on a random enemy each turn.",
+            "While in Deranged Dire Ghost form, the caster can take damage from enemies whose element is strong against them.",
+            "Inflicts 30 Insanity on all allies except the caster."
+        ]
     }
 ];

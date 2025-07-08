@@ -4213,7 +4213,7 @@ window.allHeroes =
             "Healers (Special)",
             "Heal over Time (HoT)"
         ],
-        "source": "Hero of the Month",
+        "source": "Legends Summon - Hero of the Month",
         "Release date": "2018-10-01",
         "star": 5,
         "power": 768,
@@ -4263,7 +4263,7 @@ window.allHeroes =
             "Heal over Time (HoT)",
             "Cleansers"
         ],
-        "source": "Hero of the Month",
+        "source": "Legends Summon - Hero of the Month",
         "Release date": "2023-01-23",
         "star": 5,
         "power": 978,
@@ -4414,7 +4414,7 @@ window.allHeroes =
             "Buffers (ATK)",
             "Buffers (DEF)"
         ],
-        "source": "Hero of the Month",
+        "source": "Legends Summon - Hero of the Month",
         "Release date": "2018-05-01",
         "star": 5,
         "power": 768,
@@ -4464,7 +4464,7 @@ window.allHeroes =
             "Buffers (DEF)",
             "Cleansers"
         ],
-        "source": "Hero of the Month",
+        "source": "Legends Summon - Hero of the Month",
         "Release date": "2021-12-23",
         "star": 5,
         "power": 976,
@@ -4516,7 +4516,7 @@ window.allHeroes =
             "Healers",
             "Healers (Special)"
         ],
-        "source": "Hero of the Month",
+        "source": "Legends Summon - Hero of the Month",
         "Release date": "2021-09-01",
         "star": 5,
         "power": 794,
@@ -4788,7 +4788,7 @@ window.allHeroes =
             "Snipers",
             "Mana Generation Buffers"
         ],
-        "source": "Hero of the Month",
+        "source": "Legends Summon - Hero of the Month",
         "Release date": "2023-09-01",
         "star": 5,
         "power": 875,
@@ -5043,7 +5043,7 @@ window.allHeroes =
             "Buffers (ATK)",
             "Buffers (DEF)"
         ],
-        "source": "Hero of the Month",
+        "source": "Legends Summon - Hero of the Month",
         "Release date": "2017-07-01",
         "star": 5,
         "power": 765,
@@ -5094,7 +5094,7 @@ window.allHeroes =
             "Buffers (ATK)",
             "Buffers (DEF)"
         ],
-        "source": "Hero of the Month",
+        "source": "Legends Summon - Hero of the Month",
         "Release date": "2021-12-23",
         "star": 5,
         "power": 972,
@@ -5320,7 +5320,7 @@ window.allHeroes =
             "Immunity Providers",
             "Snipers"
         ],
-        "source": "Hero of the Month",
+        "source": "Legends Summon - Hero of the Month",
         "Release date": "2022-12-01",
         "star": 5,
         "power": 813,
@@ -5625,7 +5625,7 @@ window.allHeroes =
             "Damage Reducers",
             "Negative Effects On Self Or Allies"
         ],
-        "source": "Mystery - Shadow",
+        "source": "Mystery - Shadow Summon",
         "Release date": "2025-03-06",
         "star": 5,
         "power": 1177,
@@ -6479,7 +6479,7 @@ window.allHeroes =
             "Cleansers",
             "Buffers (DEF)"
         ],
-        "source": "Hero of the Month",
+        "source": "Legends Summon - Hero of the Month",
         "Release date": "2025-04-01",
         "star": 5,
         "power": 1072,
@@ -7360,7 +7360,7 @@ window.allHeroes =
             "Dispellers",
             "Buffers (DEF)"
         ],
-        "source": "Hero of the Month",
+        "source": "Legends Summon - Hero of the Month",
         "Release date": "2019-03-01",
         "star": 5,
         "power": 770,
@@ -7411,7 +7411,7 @@ window.allHeroes =
             "Minions Boosters",
             "Minions Summoners"
         ],
-        "source": "Hero of the Month",
+        "source": "Legends Summon - Hero of the Month",
         "Release date": "2021-04-01",
         "star": 5,
         "power": 789,
@@ -7619,7 +7619,7 @@ window.allHeroes =
             "Snipers",
             "Stacking Heroes"
         ],
-        "source": "Hero of the Month",
+        "source": "Legends Summon - Hero of the Month",
         "Release date": "2024-02-01",
         "star": 5,
         "power": 960,
@@ -7671,7 +7671,7 @@ window.allHeroes =
             "Cleansers",
             "Minions Summoners"
         ],
-        "source": "Hero of the Month",
+        "source": "Legends Summon - Hero of the Month",
         "Release date": "2020-11-01",
         "star": 5,
         "power": 780,
@@ -8092,7 +8092,7 @@ window.allHeroes =
             "Taunters",
             "Negative Effects On Self Or Allies"
         ],
-        "source": "Mystery - Shadow",
+        "source": "Mystery - Shadow Summon",
         "Release date": "2025-06-10",
         "star": 5,
         "power": 1201,
@@ -8140,7 +8140,7 @@ window.allHeroes =
             "Extra Damage Dealers",
             "Buffers (ATK)"
         ],
-        "source": "Hero of the Month",
+        "source": "Legends Summon - Hero of the Month",
         "Release date": "2022-02-01",
         "star": 5,
         "power": 804,
@@ -8758,7 +8758,7 @@ window.allHeroes =
             "Healers (Special)",
             "Buffers (DEF)"
         ],
-        "source": "Hero of the Month",
+        "source": "Legends Summon - Hero of the Month",
         "Release date": "2022-07-01",
         "star": 5,
         "power": 809,
@@ -9597,7 +9597,7 @@ window.allHeroes =
             "Buff Blockers",
             "Buffers (ATK)"
         ],
-        "source": "Hero of the Month",
+        "source": "Legends Summon - Hero of the Month",
         "Release date": "2024-11-01",
         "star": 5,
         "power": 1034,
@@ -9648,7 +9648,7 @@ window.allHeroes =
             "Mana Generation Buffers",
             "Silencers"
         ],
-        "source": "Hero of the Month",
+        "source": "Legends Summon - Hero of the Month",
         "Release date": "2019-08-01",
         "star": 5,
         "power": 770,
@@ -11031,7 +11031,7 @@ window.allHeroes =
             "Mana Generation Buffers",
             "Snipers"
         ],
-        "source": "Hero of the Month",
+        "source": "Legends Summon - Hero of the Month",
         "Release date": "2017-12-01",
         "star": 5,
         "power": 765,
@@ -11082,7 +11082,7 @@ window.allHeroes =
             "Mana Generation Buffers",
             "Dispellers"
         ],
-        "source": "Hero of the Month",
+        "source": "Legends Summon - Hero of the Month",
         "Release date": "2022-11-28",
         "star": 5,
         "power": 973,
@@ -11400,7 +11400,7 @@ window.allHeroes =
             "Healers",
             "Buffers (DEF)"
         ],
-        "source": "Hero of the Month",
+        "source": "Legends Summon - Hero of the Month",
         "Release date": "2020-06-01",
         "star": 5,
         "power": 773,
@@ -12193,7 +12193,7 @@ window.allHeroes =
             "Extra Damage Dealers",
             "Dodgers"
         ],
-        "source": "Hero of the Month",
+        "source": "Legends Summon - Hero of the Month",
         "Release date": "2024-07-01",
         "star": 5,
         "power": 999,
@@ -12875,7 +12875,7 @@ window.allHeroes =
             "Heal over Time (HoT)",
             "Reflectors"
         ],
-        "source": "Hero of the Month",
+        "source": "Legends Summon - Hero of the Month",
         "Release date": "2023-05-01",
         "star": 5,
         "power": 823,
@@ -13653,7 +13653,7 @@ window.allHeroes =
             "DoT Attackers",
             "Extra Damage Dealers"
         ],
-        "source": "Hero of the Month",
+        "source": "Legends Summon - Hero of the Month",
         "Release date": "2020-01-01",
         "star": 5,
         "power": 771,
@@ -19683,7 +19683,7 @@ window.allHeroes =
             "Revivers",
             "Heal over Time (HoT)"
         ],
-        "source": "Hero of the Month",
+        "source": "Legends Summon - Hero of the Month",
         "Release date": "2017-10-01",
         "star": 5,
         "power": 765,
@@ -19735,7 +19735,7 @@ window.allHeroes =
             "Buffers (ATK)",
             "Buffers (DEF)"
         ],
-        "source": "Hero of the Month",
+        "source": "Legends Summon - Hero of the Month",
         "Release date": "2021-10-20",
         "star": 5,
         "power": 970,
@@ -20190,7 +20190,7 @@ window.allHeroes =
             "Immunity Providers",
             "Negative Effects On Self Or Allies"
         ],
-        "source": "Mystery - Shadow",
+        "source": "Mystery - Shadow Summon",
         "Release date": "2024-04-11",
         "star": 5,
         "power": 1105,
@@ -20295,7 +20295,7 @@ window.allHeroes =
             "Snipers",
             "Healers (Special)"
         ],
-        "source": "Hero of the Month",
+        "source": "Legends Summon - Hero of the Month",
         "Release date": "2021-11-01",
         "star": 5,
         "power": 796,
@@ -20349,7 +20349,7 @@ window.allHeroes =
             "Cleansers",
             "Minions Summoners"
         ],
-        "source": "Hero of the Month",
+        "source": "Legends Summon - Hero of the Month",
         "Release date": "2021-01-01",
         "star": 5,
         "power": 784,
@@ -20398,7 +20398,7 @@ window.allHeroes =
             "Minions Summoners",
             "Mana Raisers"
         ],
-        "source": "Hero of the Month",
+        "source": "Legends Summon - Hero of the Month",
         "Release date": "2024-05-01",
         "star": 5,
         "power": 981,
@@ -20667,7 +20667,7 @@ window.allHeroes =
             "Heal over Time (HoT)",
             "Buffers (ATK)"
         ],
-        "source": "Hero of the Month",
+        "source": "Legends Summon - Hero of the Month",
         "Release date": "2024-09-01",
         "star": 5,
         "power": 1017,
@@ -20720,7 +20720,7 @@ window.allHeroes =
             "Healing Reducers",
             "Mana Generation Buffers"
         ],
-        "source": "Hero of the Month",
+        "source": "Legends Summon - Hero of the Month",
         "Release date": "2023-07-01",
         "star": 5,
         "power": 825,
@@ -21735,7 +21735,7 @@ window.allHeroes =
             "Mana Raisers",
             "Reflectors"
         ],
-        "source": "Hero of the Month",
+        "source": "Legends Summon - Hero of the Month",
         "Release date": "2021-06-01",
         "star": 5,
         "power": 791,
@@ -21897,7 +21897,7 @@ window.allHeroes =
             "Dispellers",
             "Heal over Time (HoT)"
         ],
-        "source": "Hero of the Month",
+        "source": "Legends Summon - Hero of the Month",
         "Release date": "2018-12-01",
         "star": 5,
         "power": 768,
@@ -21948,7 +21948,7 @@ window.allHeroes =
             "Heal over Time (HoT)",
             "Cleansers"
         ],
-        "source": "Hero of the Month",
+        "source": "Legends Summon - Hero of the Month",
         "Release date": "2023-10-02",
         "star": 5,
         "power": 976,
@@ -22226,7 +22226,7 @@ window.allHeroes =
             "DoT Attackers",
             "Cleanse Blockers"
         ],
-        "source": "Hero of the Month",
+        "source": "Legends Summon - Hero of the Month",
         "Release date": "2025-07-01",
         "star": 5,
         "power": 1116,
@@ -23184,7 +23184,7 @@ window.allHeroes =
             "Immunity Providers",
             "Taunters"
         ],
-        "source": "Hero of the Month",
+        "source": "Legends Summon - Hero of the Month",
         "Release date": "2022-09-01",
         "star": 5,
         "power": 811,
@@ -23283,7 +23283,7 @@ window.allHeroes =
             "Snipers",
             "Buffers (DEF)"
         ],
-        "source": "Hero of the Month",
+        "source": "Legends Summon - Hero of the Month",
         "Release date": "2018-07-01",
         "star": 5,
         "power": 768,
@@ -23331,7 +23331,7 @@ window.allHeroes =
             "Buffers (DEF)",
             "Dispellers"
         ],
-        "source": "Hero of the Month",
+        "source": "Legends Summon - Hero of the Month",
         "Release date": "2024-03-08",
         "star": 5,
         "power": 976,
@@ -24498,7 +24498,7 @@ window.allHeroes =
             "Mana Generation Buffers",
             "Snipers"
         ],
-        "source": "Hero of the Month",
+        "source": "Legends Summon - Hero of the Month",
         "Release date": "2019-10-01",
         "star": 5,
         "power": 770,
@@ -24792,7 +24792,7 @@ window.allHeroes =
             "Health Boosters",
             "Minions Summoners"
         ],
-        "source": "Hero of the Month",
+        "source": "Legends Summon - Hero of the Month",
         "Release date": "2023-12-01",
         "star": 5,
         "power": 899,
@@ -25601,7 +25601,7 @@ window.allHeroes =
             "Dodgers",
             "Mana Raisers"
         ],
-        "source": "Hero of the Month",
+        "source": "Legends Summon - Hero of the Month",
         "Release date": "2019-05-01",
         "star": 5,
         "power": 770,
@@ -26158,7 +26158,7 @@ window.allHeroes =
             "Debuffers (DEF)",
             "Reflectors"
         ],
-        "source": "Hero of the Month",
+        "source": "Legends Summon - Hero of the Month",
         "Release date": "2025-02-01",
         "star": 5,
         "power": 1063,
@@ -26321,7 +26321,7 @@ window.allHeroes =
             "Dodgers",
             "Negative Effects On Self Or Allies"
         ],
-        "source": "Mystery - Shadow",
+        "source": "Mystery - Shadow Summon",
         "Release date": "2025-02-06",
         "star": 5,
         "power": 1170,
@@ -27254,7 +27254,7 @@ window.allHeroes =
             "Minions Summoners",
             "Snipers"
         ],
-        "source": "Hero of the Month",
+        "source": "Legends Summon - Hero of the Month",
         "Release date": "2022-04-01",
         "star": 5,
         "power": 806,
@@ -27944,7 +27944,7 @@ window.allHeroes =
             "Mana Reducers or Blockers",
             "Minions Summoners"
         ],
-        "source": "Hero of the Month",
+        "source": "Legends Summon - Hero of the Month",
         "Release date": "2020-03-01",
         "star": 5,
         "power": 772,
@@ -28501,7 +28501,7 @@ window.allHeroes =
             "Minions Counters",
             "Dodgers"
         ],
-        "source": "Hero of the Month",
+        "source": "Legends Summon - Hero of the Month",
         "Release date": "2023-02-01",
         "star": 5,
         "power": 820,
@@ -28865,7 +28865,7 @@ window.allHeroes =
             "Snipers",
             "Negative Effects On Self Or Allies"
         ],
-        "source": "Mystery - Shadow",
+        "source": "Mystery - Shadow Summon",
         "Release date": "2024-06-30",
         "star": 5,
         "power": 1109,
@@ -28918,7 +28918,7 @@ window.allHeroes =
             "Extra Damage Dealers",
             "Mana Generation Buffers"
         ],
-        "source": "Hero of the Month",
+        "source": "Legends Summon - Hero of the Month",
         "Release date": "2018-02-01",
         "star": 5,
         "power": 768,
@@ -28971,7 +28971,7 @@ window.allHeroes =
             "Cleansers",
             "Mana Generation Buffers"
         ],
-        "source": "Hero of the Month",
+        "source": "Legends Summon - Hero of the Month",
         "Release date": "2023-12-19",
         "star": 5,
         "power": 975,
@@ -29022,7 +29022,7 @@ window.allHeroes =
             "Snipers",
             "Mana Raisers"
         ],
-        "source": "Hero of the Month",
+        "source": "Legends Summon - Hero of the Month",
         "Release date": "2020-08-01",
         "star": 5,
         "power": 775,
@@ -33329,7 +33329,7 @@ window.allHeroes =
             "AoE Attackers (Hit-5)",
             "Negative Effects On Self Or Allies"
         ],
-        "source": "Mystery - Shadow",
+        "source": "Mystery - Shadow Summon",
         "Release date": "2025-01-09",
         "star": 4,
         "power": 712,
@@ -33768,7 +33768,7 @@ window.allHeroes =
             "Buffers (ATK)",
             "Buffers (DEF)"
         ],
-        "source": "Hero of the Month",
+        "source": "Legends Summon - Hero of the Month",
         "Release date": "2018-04-01",
         "star": 5,
         "power": 768,
@@ -33817,7 +33817,7 @@ window.allHeroes =
             "Buffers (ATK)",
             "Buffers (DEF)"
         ],
-        "source": "Hero of the Month",
+        "source": "Legends Summon - Hero of the Month",
         "Release date": "2023-01-23",
         "star": 5,
         "power": 976,
@@ -33995,7 +33995,7 @@ window.allHeroes =
             "Snipers",
             "Buffers (DEF)"
         ],
-        "source": "Hero of the Month",
+        "source": "Legends Summon - Hero of the Month",
         "Release date": "2025-06-01",
         "star": 5,
         "power": 1085,
@@ -34203,7 +34203,7 @@ window.allHeroes =
             "Sleepweavers",
             "Buffers (ATK)"
         ],
-        "source": "Hero of the Month",
+        "source": "Legends Summon - Hero of the Month",
         "Release date": "2024-03-01",
         "star": 5,
         "power": 966,
@@ -34417,7 +34417,7 @@ window.allHeroes =
             "Extra Damage Dealers",
             "Buffers (DEF)"
         ],
-        "source": "Hero of the Month",
+        "source": "Legends Summon - Hero of the Month",
         "Release date": "2022-06-01",
         "star": 5,
         "power": 808,
@@ -34469,7 +34469,7 @@ window.allHeroes =
             "Cleanse Blockers",
             "Negative Effects On Self Or Allies"
         ],
-        "source": "Mystery - Shadow",
+        "source": "Mystery - Shadow Summon",
         "Release date": "2025-05-13",
         "star": 5,
         "power": 1190,
@@ -35030,7 +35030,7 @@ window.allHeroes =
             "Healers (Special)",
             "Mana Reducers or Blockers"
         ],
-        "source": "Hero of the Month",
+        "source": "Legends Summon - Hero of the Month",
         "Release date": "2021-08-01",
         "star": 5,
         "power": 793,
@@ -35202,7 +35202,7 @@ window.allHeroes =
             "Extra Damage Dealers",
             "Buffers (DEF)"
         ],
-        "source": "Hero of the Month",
+        "source": "Legends Summon - Hero of the Month",
         "Release date": "2020-05-01",
         "star": 5,
         "power": 772,
@@ -36740,7 +36740,7 @@ window.allHeroes =
             "Mana Raisers",
             "Minions Counters"
         ],
-        "source": "Hero of the Month",
+        "source": "Legends Summon - Hero of the Month",
         "Release date": "2019-12-01",
         "star": 5,
         "power": 770,
@@ -37103,7 +37103,7 @@ window.allHeroes =
             "Buffers (ATK)",
             "Buffers (DEF)"
         ],
-        "source": "Hero of the Month",
+        "source": "Legends Summon - Hero of the Month",
         "Release date": "2017-06-01",
         "star": 5,
         "power": 765,
@@ -37154,7 +37154,7 @@ window.allHeroes =
             "Buffers (ATK)",
             "Dispellers"
         ],
-        "source": "Hero of the Month",
+        "source": "Legends Summon - Hero of the Month",
         "Release date": "2022-11-28",
         "star": 5,
         "power": 971,
@@ -37360,7 +37360,7 @@ window.allHeroes =
             "Snipers",
             "Negative Effects On Self Or Allies"
         ],
-        "source": "Mystery - Shadow",
+        "source": "Mystery - Shadow Summon",
         "Release date": "2024-06-04",
         "star": 5,
         "power": 1134,
@@ -37971,7 +37971,7 @@ window.allHeroes =
             "Snipers",
             "Heal over Time (HoT)"
         ],
-        "source": "Hero of the Month",
+        "source": "Legends Summon - Hero of the Month",
         "Release date": "2018-09-01",
         "star": 5,
         "power": 768,
@@ -38019,7 +38019,7 @@ window.allHeroes =
             "Heal over Time (HoT)",
             "Dispellers"
         ],
-        "source": "Hero of the Month",
+        "source": "Legends Summon - Hero of the Month",
         "Release date": "2024-02-09",
         "star": 5,
         "power": 976,
@@ -38361,7 +38361,7 @@ window.allHeroes =
             "Healers",
             "Buffers (DEF)"
         ],
-        "source": "Hero of the Month",
+        "source": "Legends Summon - Hero of the Month",
         "Release date": "2019-02-01",
         "star": 5,
         "power": 770,
@@ -38940,7 +38940,7 @@ window.allHeroes =
             "Mana Raisers",
             "Mana Reducers or Blockers"
         ],
-        "source": "Hero of the Month",
+        "source": "Legends Summon - Hero of the Month",
         "Release date": "2021-03-01",
         "star": 5,
         "power": 788,
@@ -39284,7 +39284,7 @@ window.allHeroes =
             "DoT Attackers",
             "Negative Effects On Self Or Allies"
         ],
-        "source": "Mystery - Shadow",
+        "source": "Mystery - Shadow Summon",
         "Release date": "2024-05-01",
         "star": 5,
         "power": 1129,
@@ -39436,7 +39436,7 @@ window.allHeroes =
             "Mana Reducers or Blockers",
             "Max Health Reducers"
         ],
-        "source": "Hero of the Month",
+        "source": "Legends Summon - Hero of the Month",
         "Release date": "2022-11-01",
         "star": 5,
         "power": 812,
@@ -41525,7 +41525,7 @@ window.allHeroes =
             "Minions Summoners",
             "Snipers"
         ],
-        "source": "Hero of the Month",
+        "source": "Legends Summon - Hero of the Month",
         "Release date": "2019-07-01",
         "star": 5,
         "power": 770,
@@ -41578,7 +41578,7 @@ window.allHeroes =
             "Snipers",
             "Cleansers"
         ],
-        "source": "Hero of the Month",
+        "source": "Legends Summon - Hero of the Month",
         "Release date": "2021-10-20",
         "star": 5,
         "power": 979,
@@ -41842,7 +41842,7 @@ window.allHeroes =
             "Chain & Random Attackers",
             "Dodgers"
         ],
-        "source": "Hero of the Month",
+        "source": "Legends Summon - Hero of the Month",
         "Release date": "2024-08-01",
         "star": 5,
         "power": 1008,
@@ -42109,7 +42109,7 @@ window.allHeroes =
             "Dispellers",
             "Mana Generation Buffers"
         ],
-        "source": "Hero of the Month",
+        "source": "Legends Summon - Hero of the Month",
         "Release date": "2017-11-01",
         "star": 5,
         "power": 765,
@@ -42155,7 +42155,7 @@ window.allHeroes =
             "AoE Attackers (Hit-3)",
             "Minions Summoners"
         ],
-        "source": "Hero of the Month",
+        "source": "Legends Summon - Hero of the Month",
         "Release date": "2024-01-11",
         "star": 5,
         "power": 973,
@@ -42323,7 +42323,7 @@ window.allHeroes =
             "Snipers",
             "Stacking Heroes"
         ],
-        "source": "Hero of the Month",
+        "source": "Legends Summon - Hero of the Month",
         "Release date": "2023-04-01",
         "star": 5,
         "power": 822,
@@ -42755,7 +42755,7 @@ window.allHeroes =
             "Healers (Special)",
             "Snipers"
         ],
-        "source": "Hero of the Month",
+        "source": "Legends Summon - Hero of the Month",
         "Release date": "2023-10-01",
         "star": 5,
         "power": 883,
@@ -43123,7 +43123,7 @@ window.allHeroes =
             "Fiends Summoners",
             "Minions Counters"
         ],
-        "source": "Hero of the Month",
+        "source": "Legends Summon - Hero of the Month",
         "Release date": "2022-01-01",
         "star": 5,
         "power": 803,
@@ -43599,7 +43599,7 @@ window.allHeroes =
             "Debuffers (DEF)",
             "Healing Reducers"
         ],
-        "source": "Hero of the Month",
+        "source": "Legends Summon - Hero of the Month",
         "Release date": "2025-01-01",
         "star": 5,
         "power": 1052,
@@ -43650,7 +43650,7 @@ window.allHeroes =
             "Heal over Time (HoT)",
             "Minions Summoners"
         ],
-        "source": "Hero of the Month",
+        "source": "Legends Summon - Hero of the Month",
         "Release date": "2020-10-01",
         "star": 5,
         "power": 778,
@@ -48667,7 +48667,7 @@ window.allHeroes =
             "DoT Attackers",
             "Negative Effects On Self Or Allies"
         ],
-        "source": "Mystery - Shadow",
+        "source": "Mystery - Shadow Summon",
         "Release date": "2024-05-26",
         "star": 5,
         "power": 1133,
@@ -48989,7 +48989,7 @@ window.allHeroes =
             "Healers (Special)",
             "Buffers (DEF)"
         ],
-        "source": "Hero of the Month",
+        "source": "Legends Summon - Hero of the Month",
         "Release date": "2019-04-01",
         "star": 5,
         "power": 770,
@@ -49142,7 +49142,7 @@ window.allHeroes =
             "Heal over Time (HoT)",
             "Buffers (DEF)"
         ],
-        "source": "Hero of the Month",
+        "source": "Legends Summon - Hero of the Month",
         "Release date": "2017-08-01",
         "star": 5,
         "power": 765,
@@ -49193,7 +49193,7 @@ window.allHeroes =
             "Heal over Time (HoT)",
             "Health Boosters"
         ],
-        "source": "Hero of the Month",
+        "source": "Legends Summon - Hero of the Month",
         "Release date": "2023-03-20",
         "star": 5,
         "power": 974,
@@ -51724,7 +51724,7 @@ window.allHeroes =
             "Dispellers",
             "Buffers (DEF)"
         ],
-        "source": "Hero of the Month",
+        "source": "Legends Summon - Hero of the Month",
         "Release date": "2025-03-01",
         "star": 5,
         "power": 1077,
@@ -52741,7 +52741,7 @@ window.allHeroes =
             "Buffers (ATK)",
             "Buffers (DEF)"
         ],
-        "source": "Hero of the Month",
+        "source": "Legends Summon - Hero of the Month",
         "Release date": "2018-06-01",
         "star": 5,
         "power": 768,
@@ -52791,7 +52791,7 @@ window.allHeroes =
             "Buffers (ATK)",
             "Buffers (DEF)"
         ],
-        "source": "Hero of the Month",
+        "source": "Legends Summon - Hero of the Month",
         "Release date": "2021-10-20",
         "star": 5,
         "power": 976,
@@ -52840,7 +52840,7 @@ window.allHeroes =
             "Immunity Providers",
             "Mana Generation Buffers"
         ],
-        "source": "Hero of the Month",
+        "source": "Legends Summon - Hero of the Month",
         "Release date": "2019-09-01",
         "star": 5,
         "power": 770,
@@ -53732,7 +53732,7 @@ window.allHeroes =
             "DoT Attackers",
             "Immunity Providers"
         ],
-        "source": "Hero of the Month",
+        "source": "Legends Summon - Hero of the Month",
         "Release date": "2020-02-01",
         "star": 5,
         "power": 771,
@@ -55239,7 +55239,7 @@ window.allHeroes =
             "Mana Generation Buffers",
             "Mana Reducers or Blockers"
         ],
-        "source": "Hero of the Month",
+        "source": "Legends Summon - Hero of the Month",
         "Release date": "2018-01-01",
         "star": 5,
         "power": 765,
@@ -55289,7 +55289,7 @@ window.allHeroes =
             "Mana Reducers or Blockers",
             "Dispellers"
         ],
-        "source": "Hero of the Month",
+        "source": "Legends Summon - Hero of the Month",
         "Release date": "2023-05-15",
         "star": 5,
         "power": 973,
@@ -55342,7 +55342,7 @@ window.allHeroes =
             "DoT Attackers",
             "Buffers (ATK)"
         ],
-        "source": "Hero of the Month",
+        "source": "Legends Summon - Hero of the Month",
         "Release date": "2023-11-01",
         "star": 5,
         "power": 891,
@@ -55561,7 +55561,7 @@ window.allHeroes =
             "Minions Summoners",
             "Buffers (DEF)"
         ],
-        "source": "Hero of the Month",
+        "source": "Legends Summon - Hero of the Month",
         "Release date": "2020-07-01",
         "star": 5,
         "power": 774,
@@ -55812,7 +55812,7 @@ window.allHeroes =
             "DoT Attackers",
             "Negative Effects On Self Or Allies"
         ],
-        "source": "Mystery - Shadow",
+        "source": "Mystery - Shadow Summon",
         "Release date": "2024-04-21",
         "star": 5,
         "power": 1127,
@@ -56393,7 +56393,7 @@ window.allHeroes =
             "Snipers",
             "Negative Effects On Self Or Allies"
         ],
-        "source": "Mystery - Shadow",
+        "source": "Mystery - Shadow Summon",
         "Release date": "2024-07-18",
         "star": 5,
         "power": 1141,
@@ -56616,7 +56616,7 @@ window.allHeroes =
             "Damage Reducers",
             "Minions Summoners"
         ],
-        "source": "Hero of the Month",
+        "source": "Legends Summon - Hero of the Month",
         "Release date": "2020-12-01",
         "star": 5,
         "power": 782,
@@ -56771,7 +56771,7 @@ window.allHeroes =
             "Chain & Random Attackers",
             "Negative Effects On Self Or Allies"
         ],
-        "source": "Mystery - Shadow",
+        "source": "Mystery - Shadow Summon",
         "Release date": "2025-04-03",
         "star": 5,
         "power": 1182,
@@ -56822,7 +56822,7 @@ window.allHeroes =
             "Extra Damage Dealers",
             "Dodgers"
         ],
-        "source": "Hero of the Month",
+        "source": "Legends Summon - Hero of the Month",
         "Release date": "2023-01-01",
         "star": 5,
         "power": 819,
@@ -56993,7 +56993,7 @@ window.allHeroes =
             "Bypassers",
             "Healers (Special)"
         ],
-        "source": "Hero of the Month",
+        "source": "Legends Summon - Hero of the Month",
         "Release date": "2021-10-01",
         "star": 5,
         "power": 795,
@@ -57584,7 +57584,7 @@ window.allHeroes =
             "Mana Reducers or Blockers",
             "Mana Generation Buffers"
         ],
-        "source": "Hero of the Month",
+        "source": "Legends Summon - Hero of the Month",
         "Release date": "2023-06-01",
         "star": 5,
         "power": 824,
@@ -57792,7 +57792,7 @@ window.allHeroes =
             "Snipers",
             "Extra Damage Dealers"
         ],
-        "source": "Hero of the Month",
+        "source": "Legends Summon - Hero of the Month",
         "Release date": "2022-08-01",
         "star": 5,
         "power": 810,
@@ -58617,7 +58617,7 @@ window.allHeroes =
             "Stacking Heroes",
             "Snipers"
         ],
-        "source": "Hero of the Month",
+        "source": "Legends Summon - Hero of the Month",
         "Release date": "2021-05-01",
         "star": 5,
         "power": 790,
@@ -58723,7 +58723,7 @@ window.allHeroes =
             "Mana Raisers",
             "Buffers (DEF)"
         ],
-        "source": "Hero of the Month",
+        "source": "Legends Summon - Hero of the Month",
         "Release date": "2022-03-01",
         "star": 5,
         "power": 805,
@@ -58776,7 +58776,7 @@ window.allHeroes =
             "Stacking Heroes",
             "Dodgers"
         ],
-        "source": "Hero of the Month",
+        "source": "Legends Summon - Hero of the Month",
         "Release date": "2024-04-01",
         "star": 5,
         "power": 973,
@@ -58984,7 +58984,7 @@ window.allHeroes =
             "DoT Attackers",
             "Buffers (ATK)"
         ],
-        "source": "Hero of the Month",
+        "source": "Legends Summon - Hero of the Month",
         "Release date": "2024-10-01",
         "star": 5,
         "power": 1025,
@@ -59043,7 +59043,7 @@ window.allHeroes =
             "Cleansers",
             "Heal over Time (HoT)"
         ],
-        "source": "Hero of the Month",
+        "source": "Legends Summon - Hero of the Month",
         "Release date": "2018-11-01",
         "star": 5,
         "power": 769,
@@ -59092,7 +59092,7 @@ window.allHeroes =
             "Extra Damage Dealers",
             "Heal over Time (HoT)"
         ],
-        "source": "Hero of the Month",
+        "source": "Legends Summon - Hero of the Month",
         "Release date": "2023-03-20",
         "star": 5,
         "power": 979,
@@ -59718,7 +59718,7 @@ window.allHeroes =
             "Chain & Random Attackers",
             "Negative Effects On Self Or Allies"
         ],
-        "source": "Mystery - Shadow",
+        "source": "Mystery - Shadow Summon",
         "Release date": "2025-01-09",
         "star": 3,
         "power": 501,
@@ -64216,7 +64216,7 @@ window.allHeroes =
             "Buffers (ATK)",
             "Dodgers"
         ],
-        "source": "Hero of the Month",
+        "source": "Legends Summon - Hero of the Month",
         "Release date": "2024-06-01",
         "star": 5,
         "power": 990,
@@ -64269,7 +64269,7 @@ window.allHeroes =
             "Snipers",
             "Buffers (DEF)"
         ],
-        "source": "Hero of the Month",
+        "source": "Legends Summon - Hero of the Month",
         "Release date": "2020-09-01",
         "star": 5,
         "power": 776,
@@ -64488,7 +64488,7 @@ window.allHeroes =
             "Health Boosters",
             "Immunity Providers"
         ],
-        "source": "Hero of the Month",
+        "source": "Legends Summon - Hero of the Month",
         "Release date": "2022-10-01",
         "star": 5,
         "power": 812,
@@ -64802,7 +64802,7 @@ window.allHeroes =
             "Mana Generation Buffers",
             "Minions Summoners"
         ],
-        "source": "Hero of the Month",
+        "source": "Legends Summon - Hero of the Month",
         "Release date": "2018-03-01",
         "star": 5,
         "power": 768,
@@ -64850,7 +64850,7 @@ window.allHeroes =
             "Minions Summoners",
             "Cleansers"
         ],
-        "source": "Hero of the Month",
+        "source": "Legends Summon - Hero of the Month",
         "Release date": "2023-05-15",
         "star": 5,
         "power": 974,
@@ -64902,7 +64902,7 @@ window.allHeroes =
             "Minions Counters",
             "Minions Summoners"
         ],
-        "source": "Hero of the Month",
+        "source": "Legends Summon - Hero of the Month",
         "Release date": "2021-07-01",
         "star": 5,
         "power": 792,
@@ -65008,7 +65008,7 @@ window.allHeroes =
             "Stacking Heroes",
             "Negative Effects On Self Or Allies"
         ],
-        "source": "Mystery - Shadow",
+        "source": "Mystery - Shadow Summon",
         "Release date": "2024-05-17",
         "star": 5,
         "power": 1098,
@@ -65059,7 +65059,7 @@ window.allHeroes =
             "Buffers (ATK)",
             "Buffers (DEF)"
         ],
-        "source": "Hero of the Month",
+        "source": "Legends Summon - Hero of the Month",
         "Release date": "2018-08-01",
         "star": 5,
         "power": 768,
@@ -65108,7 +65108,7 @@ window.allHeroes =
             "Buffers (DEF)",
             "Dispellers"
         ],
-        "source": "Hero of the Month",
+        "source": "Legends Summon - Hero of the Month",
         "Release date": "2021-12-23",
         "star": 5,
         "power": 976,
@@ -65540,7 +65540,7 @@ window.allHeroes =
             "Stacking Heroes",
             "Buffers (ATK)"
         ],
-        "source": "Hero of the Month",
+        "source": "Legends Summon - Hero of the Month",
         "Release date": "2024-12-01",
         "star": 5,
         "power": 1042,
@@ -65857,7 +65857,7 @@ window.allHeroes =
             "Buffers (DEF)",
             "Bypassers"
         ],
-        "source": "Hero of the Month",
+        "source": "Legends Summon - Hero of the Month",
         "Release date": "2023-03-01",
         "star": 5,
         "power": 821,
@@ -66600,7 +66600,7 @@ window.allHeroes =
             "Health Boosters",
             "Immunity Providers"
         ],
-        "source": "Hero of the Month",
+        "source": "Legends Summon - Hero of the Month",
         "Release date": "2021-12-01",
         "star": 5,
         "power": 797,
@@ -67074,7 +67074,7 @@ window.allHeroes =
             "Mana Raisers",
             "Mana Reducers or Blockers"
         ],
-        "source": "Hero of the Month",
+        "source": "Legends Summon - Hero of the Month",
         "Release date": "2023-08-01",
         "star": 5,
         "power": 867,
@@ -67863,7 +67863,7 @@ window.allHeroes =
             "Buffers (DEF)",
             "Taunters"
         ],
-        "source": "Hero of the Month",
+        "source": "Legends Summon - Hero of the Month",
         "Release date": "2022-05-01",
         "star": 5,
         "power": 807,
@@ -68649,7 +68649,7 @@ window.allHeroes =
             "Snipers",
             "Status Effects Blockers"
         ],
-        "source": "Hero of the Month",
+        "source": "Legends Summon - Hero of the Month",
         "Release date": "2020-04-01",
         "star": 5,
         "power": 771,
@@ -68751,7 +68751,7 @@ window.allHeroes =
             "Mana Generation Buffers",
             "Minions Summoners"
         ],
-        "source": "Hero of the Month",
+        "source": "Legends Summon - Hero of the Month",
         "Release date": "2025-05-01",
         "star": 5,
         "power": 1077,
@@ -69186,7 +69186,7 @@ window.allHeroes =
             "Buffers (ATK)",
             "Buffers (DEF)"
         ],
-        "source": "Hero of the Month",
+        "source": "Legends Summon - Hero of the Month",
         "Release date": "2017-09-01",
         "star": 5,
         "power": 764,
@@ -69235,7 +69235,7 @@ window.allHeroes =
             "Buffers (ATK)",
             "Buffers (DEF)"
         ],
-        "source": "Hero of the Month",
+        "source": "Legends Summon - Hero of the Month",
         "Release date": "2023-10-02",
         "star": 5,
         "power": 969,
@@ -69286,7 +69286,7 @@ window.allHeroes =
             "Mana Generation Buffers",
             "Mana Reducers or Blockers"
         ],
-        "source": "Hero of the Month",
+        "source": "Legends Summon - Hero of the Month",
         "Release date": "2019-11-01",
         "star": 5,
         "power": 770,
@@ -69678,7 +69678,7 @@ window.allHeroes =
             "Mana Reducers or Blockers",
             "Heal over Time (HoT)"
         ],
-        "source": "Hero of the Month",
+        "source": "Legends Summon - Hero of the Month",
         "Release date": "2019-01-01",
         "star": 5,
         "power": 770,
@@ -70456,7 +70456,7 @@ window.allHeroes =
             "Snipers",
             "Buffers (DEF)"
         ],
-        "source": "Hero of the Month",
+        "source": "Legends Summon - Hero of the Month",
         "Release date": "2019-06-01",
         "star": 5,
         "power": 770,
@@ -71608,7 +71608,7 @@ window.allHeroes =
             "Minions Summoners",
             "Snipers"
         ],
-        "source": "Hero of the Month",
+        "source": "Legends Summon - Hero of the Month",
         "Release date": "2021-02-01",
         "star": 5,
         "power": 786,
@@ -72386,7 +72386,7 @@ window.allHeroes =
             "Buff Stealers",
             "Negative Effects On Self Or Allies"
         ],
-        "source": "Mystery - Shadow",
+        "source": "Mystery - Shadow Summon",
         "Release date": "2025-01-09",
         "star": 5,
         "power": 1165,
@@ -72952,7 +72952,7 @@ window.allHeroes =
             "Buffers (ATK)",
             "Cleansers"
         ],
-        "source": "Hero of the Month",
+        "source": "Legends Summon - Hero of the Month",
         "Release date": "2024-01-01",
         "star": 5,
         "power": 953,
@@ -73047,6 +73047,55 @@ window.allHeroes =
             "attack": 1564,
             "defense": 1564,
             "health": 2664
+        }
+    },
+    {
+        "name": "Salvatore",
+        "fancy_name": "Twisted Medium",
+        "AetherPower": "Ailment Immunity",
+        "color": "Blue",
+        "class": "Fighter",
+        "speed": "Slow",
+        "skill": "Deranged Existence",
+        "types": [
+            "Self Ghost",
+            "random hits",
+            "insanity"
+        ],
+        "skill_types": [
+            "Ghost Form & Hiding",
+            "Chain & Random Attackers",
+            "Negative Effects On Self Or Allies",
+            "Damage Reducers"
+        ],
+        "source": "Mystery - Shadow Summon",
+        "Release date": "2025-07-08",
+        "star": 5,
+        "power": 1218,
+        "attack": 1184,
+        "defense": 1246,
+        "health": 2360,
+        "effects": [
+            "Casts Full Removal on the caster.(Full Removal removes all status effects, stacks and Growth and Wither effects. Removes even status effects and stacks that are otherwise undispellable or uncleansable.)",
+            "The caster shifts into Deranged Dire Ghost form for 5 turns.",
+            "While in Deranged Dire Ghost form, the caster automatically deals 300% damage and inflicts 30 Insanity on a random enemy each turn.",
+            "While in Deranged Dire Ghost form, the caster can take damage from enemies whose element is strong against them.",
+            "Inflicts 30 Insanity on all allies except the caster."
+        ],
+        "passives": [],
+        "family": "Cultist",
+        "image": "https://imgur.com/extra2.jpg",
+        "costume_id": 0,
+        "originalIndex": 1448,
+        "lb1": {
+            "attack": 1276,
+            "defense": 1343,
+            "health": 2544
+        },
+        "lb2": {
+            "attack": 1460,
+            "defense": 1536,
+            "health": 2910
         }
     }
 ];

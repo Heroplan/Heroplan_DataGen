@@ -4215,7 +4215,7 @@ window.allHeroes =
             "特殊治療",
             "持續治療"
         ],
-        "source": "月英",
+        "source": "傳奇召喚 - 月英",
         "Release date": "2018-10-01",
         "star": 5,
         "power": 768,
@@ -4265,7 +4265,7 @@ window.allHeroes =
             "持續治療",
             "凈化"
         ],
-        "source": "月英",
+        "source": "傳奇召喚 - 月英",
         "Release date": "2023-01-23",
         "star": 5,
         "power": 978,
@@ -4416,7 +4416,7 @@ window.allHeroes =
             "攻擊增益",
             "防禦增益"
         ],
-        "source": "月英",
+        "source": "傳奇召喚 - 月英",
         "Release date": "2018-05-01",
         "star": 5,
         "power": 768,
@@ -4466,7 +4466,7 @@ window.allHeroes =
             "防禦增益",
             "凈化"
         ],
-        "source": "月英",
+        "source": "傳奇召喚 - 月英",
         "Release date": "2021-12-23",
         "star": 5,
         "power": 976,
@@ -4518,7 +4518,7 @@ window.allHeroes =
             "治療",
             "特殊治療"
         ],
-        "source": "月英",
+        "source": "傳奇召喚 - 月英",
         "Release date": "2021-09-01",
         "star": 5,
         "power": 794,
@@ -4790,7 +4790,7 @@ window.allHeroes =
             "狙擊手",
             "法力生成增益"
         ],
-        "source": "月英",
+        "source": "傳奇召喚 - 月英",
         "Release date": "2023-09-01",
         "star": 5,
         "power": 875,
@@ -5045,7 +5045,7 @@ window.allHeroes =
             "攻擊增益",
             "防禦增益"
         ],
-        "source": "月英",
+        "source": "傳奇召喚 - 月英",
         "Release date": "2017-07-01",
         "star": 5,
         "power": 765,
@@ -5096,7 +5096,7 @@ window.allHeroes =
             "攻擊增益",
             "防禦增益"
         ],
-        "source": "月英",
+        "source": "傳奇召喚 - 月英",
         "Release date": "2021-12-23",
         "star": 5,
         "power": 972,
@@ -5322,7 +5322,7 @@ window.allHeroes =
             "提供免疫",
             "狙擊手"
         ],
-        "source": "月英",
+        "source": "傳奇召喚 - 月英",
         "Release date": "2022-12-01",
         "star": 5,
         "power": 813,
@@ -5627,7 +5627,7 @@ window.allHeroes =
             "傷害減免",
             "對自身或友軍負面效果"
         ],
-        "source": "神秘 - 暗影",
+        "source": "神秘 - 暗影召喚",
         "Release date": "2025-03-06",
         "star": 5,
         "power": 1177,
@@ -6481,7 +6481,7 @@ window.allHeroes =
             "凈化",
             "防禦增益"
         ],
-        "source": "月英",
+        "source": "傳奇召喚 - 月英",
         "Release date": "2025-04-01",
         "star": 5,
         "power": 1072,
@@ -7362,7 +7362,7 @@ window.allHeroes =
             "驅散",
             "防禦增益"
         ],
-        "source": "月英",
+        "source": "傳奇召喚 - 月英",
         "Release date": "2019-03-01",
         "star": 5,
         "power": 770,
@@ -7413,7 +7413,7 @@ window.allHeroes =
             "小兵強化",
             "召喚小兵"
         ],
-        "source": "月英",
+        "source": "傳奇召喚 - 月英",
         "Release date": "2021-04-01",
         "star": 5,
         "power": 789,
@@ -7621,7 +7621,7 @@ window.allHeroes =
             "狙擊手",
             "疊加"
         ],
-        "source": "月英",
+        "source": "傳奇召喚 - 月英",
         "Release date": "2024-02-01",
         "star": 5,
         "power": 960,
@@ -7673,7 +7673,7 @@ window.allHeroes =
             "凈化",
             "召喚小兵"
         ],
-        "source": "月英",
+        "source": "傳奇召喚 - 月英",
         "Release date": "2020-11-01",
         "star": 5,
         "power": 780,
@@ -8094,7 +8094,7 @@ window.allHeroes =
             "嘲諷",
             "對自身或友軍負面效果"
         ],
-        "source": "神秘 - 暗影",
+        "source": "神秘 - 暗影召喚",
         "Release date": "2025-06-10",
         "star": 5,
         "power": 1201,
@@ -8142,7 +8142,7 @@ window.allHeroes =
             "額外傷害",
             "攻擊增益"
         ],
-        "source": "月英",
+        "source": "傳奇召喚 - 月英",
         "Release date": "2022-02-01",
         "star": 5,
         "power": 804,
@@ -8760,7 +8760,7 @@ window.allHeroes =
             "特殊治療",
             "防禦增益"
         ],
-        "source": "月英",
+        "source": "傳奇召喚 - 月英",
         "Release date": "2022-07-01",
         "star": 5,
         "power": 809,
@@ -9599,7 +9599,7 @@ window.allHeroes =
             "增益格擋者",
             "攻擊增益"
         ],
-        "source": "月英",
+        "source": "傳奇召喚 - 月英",
         "Release date": "2024-11-01",
         "star": 5,
         "power": 1034,
@@ -9650,7 +9650,7 @@ window.allHeroes =
             "法力生成增益",
             "沈默"
         ],
-        "source": "月英",
+        "source": "傳奇召喚 - 月英",
         "Release date": "2019-08-01",
         "star": 5,
         "power": 770,
@@ -11033,7 +11033,7 @@ window.allHeroes =
             "法力生成增益",
             "狙擊手"
         ],
-        "source": "月英",
+        "source": "傳奇召喚 - 月英",
         "Release date": "2017-12-01",
         "star": 5,
         "power": 765,
@@ -11084,7 +11084,7 @@ window.allHeroes =
             "法力生成增益",
             "驅散"
         ],
-        "source": "月英",
+        "source": "傳奇召喚 - 月英",
         "Release date": "2022-11-28",
         "star": 5,
         "power": 973,
@@ -11402,7 +11402,7 @@ window.allHeroes =
             "治療",
             "防禦增益"
         ],
-        "source": "月英",
+        "source": "傳奇召喚 - 月英",
         "Release date": "2020-06-01",
         "star": 5,
         "power": 773,
@@ -12195,7 +12195,7 @@ window.allHeroes =
             "額外傷害",
             "閃避"
         ],
-        "source": "月英",
+        "source": "傳奇召喚 - 月英",
         "Release date": "2024-07-01",
         "star": 5,
         "power": 999,
@@ -12877,7 +12877,7 @@ window.allHeroes =
             "持續治療",
             "反射"
         ],
-        "source": "月英",
+        "source": "傳奇召喚 - 月英",
         "Release date": "2023-05-01",
         "star": 5,
         "power": 823,
@@ -13655,7 +13655,7 @@ window.allHeroes =
             "持續傷害",
             "額外傷害"
         ],
-        "source": "月英",
+        "source": "傳奇召喚 - 月英",
         "Release date": "2020-01-01",
         "star": 5,
         "power": 771,
@@ -19684,7 +19684,7 @@ window.allHeroes =
             "復活",
             "持續治療"
         ],
-        "source": "月英",
+        "source": "傳奇召喚 - 月英",
         "Release date": "2017-10-01",
         "star": 5,
         "power": 765,
@@ -19736,7 +19736,7 @@ window.allHeroes =
             "攻擊增益",
             "防禦增益"
         ],
-        "source": "月英",
+        "source": "傳奇召喚 - 月英",
         "Release date": "2021-10-20",
         "star": 5,
         "power": 970,
@@ -20191,7 +20191,7 @@ window.allHeroes =
             "提供免疫",
             "對自身或友軍負面效果"
         ],
-        "source": "神秘 - 暗影",
+        "source": "神秘 - 暗影召喚",
         "Release date": "2024-04-11",
         "star": 5,
         "power": 1105,
@@ -20296,7 +20296,7 @@ window.allHeroes =
             "狙擊手",
             "特殊治療"
         ],
-        "source": "月英",
+        "source": "傳奇召喚 - 月英",
         "Release date": "2021-11-01",
         "star": 5,
         "power": 796,
@@ -20350,7 +20350,7 @@ window.allHeroes =
             "凈化",
             "召喚小兵"
         ],
-        "source": "月英",
+        "source": "傳奇召喚 - 月英",
         "Release date": "2021-01-01",
         "star": 5,
         "power": 784,
@@ -20399,7 +20399,7 @@ window.allHeroes =
             "召喚小兵",
             "法力提升"
         ],
-        "source": "月英",
+        "source": "傳奇召喚 - 月英",
         "Release date": "2024-05-01",
         "star": 5,
         "power": 981,
@@ -20668,7 +20668,7 @@ window.allHeroes =
             "持續治療",
             "攻擊增益"
         ],
-        "source": "月英",
+        "source": "傳奇召喚 - 月英",
         "Release date": "2024-09-01",
         "star": 5,
         "power": 1017,
@@ -20721,7 +20721,7 @@ window.allHeroes =
             "治療削減",
             "法力生成增益"
         ],
-        "source": "月英",
+        "source": "傳奇召喚 - 月英",
         "Release date": "2023-07-01",
         "star": 5,
         "power": 825,
@@ -21736,7 +21736,7 @@ window.allHeroes =
             "法力提升",
             "反射"
         ],
-        "source": "月英",
+        "source": "傳奇召喚 - 月英",
         "Release date": "2021-06-01",
         "star": 5,
         "power": 791,
@@ -21898,7 +21898,7 @@ window.allHeroes =
             "驅散",
             "持續治療"
         ],
-        "source": "月英",
+        "source": "傳奇召喚 - 月英",
         "Release date": "2018-12-01",
         "star": 5,
         "power": 768,
@@ -21949,7 +21949,7 @@ window.allHeroes =
             "持續治療",
             "凈化"
         ],
-        "source": "月英",
+        "source": "傳奇召喚 - 月英",
         "Release date": "2023-10-02",
         "star": 5,
         "power": 976,
@@ -22229,7 +22229,7 @@ window.allHeroes =
             "持續傷害",
             "凈化格擋者"
         ],
-        "source": "月英",
+        "source": "傳奇召喚 - 月英",
         "Release date": "2025-07-01",
         "star": 5,
         "power": 1116,
@@ -23189,7 +23189,7 @@ window.allHeroes =
             "提供免疫",
             "嘲諷"
         ],
-        "source": "月英",
+        "source": "傳奇召喚 - 月英",
         "Release date": "2022-09-01",
         "star": 5,
         "power": 811,
@@ -23288,7 +23288,7 @@ window.allHeroes =
             "狙擊手",
             "防禦增益"
         ],
-        "source": "月英",
+        "source": "傳奇召喚 - 月英",
         "Release date": "2018-07-01",
         "star": 5,
         "power": 768,
@@ -23336,7 +23336,7 @@ window.allHeroes =
             "防禦增益",
             "驅散"
         ],
-        "source": "月英",
+        "source": "傳奇召喚 - 月英",
         "Release date": "2024-03-08",
         "star": 5,
         "power": 976,
@@ -24505,7 +24505,7 @@ window.allHeroes =
             "法力生成增益",
             "狙擊手"
         ],
-        "source": "月英",
+        "source": "傳奇召喚 - 月英",
         "Release date": "2019-10-01",
         "star": 5,
         "power": 770,
@@ -24799,7 +24799,7 @@ window.allHeroes =
             "生命強化",
             "召喚小兵"
         ],
-        "source": "月英",
+        "source": "傳奇召喚 - 月英",
         "Release date": "2023-12-01",
         "star": 5,
         "power": 899,
@@ -25608,7 +25608,7 @@ window.allHeroes =
             "閃避",
             "法力提升"
         ],
-        "source": "月英",
+        "source": "傳奇召喚 - 月英",
         "Release date": "2019-05-01",
         "star": 5,
         "power": 770,
@@ -26165,7 +26165,7 @@ window.allHeroes =
             "防禦減益",
             "反射"
         ],
-        "source": "月英",
+        "source": "傳奇召喚 - 月英",
         "Release date": "2025-02-01",
         "star": 5,
         "power": 1063,
@@ -26328,7 +26328,7 @@ window.allHeroes =
             "閃避",
             "對自身或友軍負面效果"
         ],
-        "source": "神秘 - 暗影",
+        "source": "神秘 - 暗影召喚",
         "Release date": "2025-02-06",
         "star": 5,
         "power": 1170,
@@ -27263,7 +27263,7 @@ window.allHeroes =
             "召喚小兵",
             "狙擊手"
         ],
-        "source": "月英",
+        "source": "傳奇召喚 - 月英",
         "Release date": "2022-04-01",
         "star": 5,
         "power": 806,
@@ -27953,7 +27953,7 @@ window.allHeroes =
             "法力削減或格擋",
             "召喚小兵"
         ],
-        "source": "月英",
+        "source": "傳奇召喚 - 月英",
         "Release date": "2020-03-01",
         "star": 5,
         "power": 772,
@@ -28510,7 +28510,7 @@ window.allHeroes =
             "反製小兵",
             "閃避"
         ],
-        "source": "月英",
+        "source": "傳奇召喚 - 月英",
         "Release date": "2023-02-01",
         "star": 5,
         "power": 820,
@@ -28874,7 +28874,7 @@ window.allHeroes =
             "狙擊手",
             "對自身或友軍負面效果"
         ],
-        "source": "神秘 - 暗影",
+        "source": "神秘 - 暗影召喚",
         "Release date": "2024-06-30",
         "star": 5,
         "power": 1109,
@@ -28927,7 +28927,7 @@ window.allHeroes =
             "額外傷害",
             "法力生成增益"
         ],
-        "source": "月英",
+        "source": "傳奇召喚 - 月英",
         "Release date": "2018-02-01",
         "star": 5,
         "power": 768,
@@ -28980,7 +28980,7 @@ window.allHeroes =
             "凈化",
             "法力生成增益"
         ],
-        "source": "月英",
+        "source": "傳奇召喚 - 月英",
         "Release date": "2023-12-19",
         "star": 5,
         "power": 975,
@@ -29031,7 +29031,7 @@ window.allHeroes =
             "狙擊手",
             "法力提升"
         ],
-        "source": "月英",
+        "source": "傳奇召喚 - 月英",
         "Release date": "2020-08-01",
         "star": 5,
         "power": 775,
@@ -33342,7 +33342,7 @@ window.allHeroes =
             "全體攻擊 (打5)",
             "對自身或友軍負面效果"
         ],
-        "source": "神秘 - 暗影",
+        "source": "神秘 - 暗影召喚",
         "Release date": "2025-01-09",
         "star": 4,
         "power": 712,
@@ -33781,7 +33781,7 @@ window.allHeroes =
             "攻擊增益",
             "防禦增益"
         ],
-        "source": "月英",
+        "source": "傳奇召喚 - 月英",
         "Release date": "2018-04-01",
         "star": 5,
         "power": 768,
@@ -33830,7 +33830,7 @@ window.allHeroes =
             "攻擊增益",
             "防禦增益"
         ],
-        "source": "月英",
+        "source": "傳奇召喚 - 月英",
         "Release date": "2023-01-23",
         "star": 5,
         "power": 976,
@@ -34008,7 +34008,7 @@ window.allHeroes =
             "狙擊手",
             "防禦增益"
         ],
-        "source": "月英",
+        "source": "傳奇召喚 - 月英",
         "Release date": "2025-06-01",
         "star": 5,
         "power": 1085,
@@ -34216,7 +34216,7 @@ window.allHeroes =
             "沈睡",
             "攻擊增益"
         ],
-        "source": "月英",
+        "source": "傳奇召喚 - 月英",
         "Release date": "2024-03-01",
         "star": 5,
         "power": 966,
@@ -34430,7 +34430,7 @@ window.allHeroes =
             "額外傷害",
             "防禦增益"
         ],
-        "source": "月英",
+        "source": "傳奇召喚 - 月英",
         "Release date": "2022-06-01",
         "star": 5,
         "power": 808,
@@ -34482,7 +34482,7 @@ window.allHeroes =
             "凈化格擋者",
             "對自身或友軍負面效果"
         ],
-        "source": "神秘 - 暗影",
+        "source": "神秘 - 暗影召喚",
         "Release date": "2025-05-13",
         "star": 5,
         "power": 1190,
@@ -35043,7 +35043,7 @@ window.allHeroes =
             "特殊治療",
             "法力削減或格擋"
         ],
-        "source": "月英",
+        "source": "傳奇召喚 - 月英",
         "Release date": "2021-08-01",
         "star": 5,
         "power": 793,
@@ -35215,7 +35215,7 @@ window.allHeroes =
             "額外傷害",
             "防禦增益"
         ],
-        "source": "月英",
+        "source": "傳奇召喚 - 月英",
         "Release date": "2020-05-01",
         "star": 5,
         "power": 772,
@@ -36753,7 +36753,7 @@ window.allHeroes =
             "法力提升",
             "反製小兵"
         ],
-        "source": "月英",
+        "source": "傳奇召喚 - 月英",
         "Release date": "2019-12-01",
         "star": 5,
         "power": 770,
@@ -37116,7 +37116,7 @@ window.allHeroes =
             "攻擊增益",
             "防禦增益"
         ],
-        "source": "月英",
+        "source": "傳奇召喚 - 月英",
         "Release date": "2017-06-01",
         "star": 5,
         "power": 765,
@@ -37167,7 +37167,7 @@ window.allHeroes =
             "攻擊增益",
             "驅散"
         ],
-        "source": "月英",
+        "source": "傳奇召喚 - 月英",
         "Release date": "2022-11-28",
         "star": 5,
         "power": 971,
@@ -37373,7 +37373,7 @@ window.allHeroes =
             "狙擊手",
             "對自身或友軍負面效果"
         ],
-        "source": "神秘 - 暗影",
+        "source": "神秘 - 暗影召喚",
         "Release date": "2024-06-04",
         "star": 5,
         "power": 1134,
@@ -37984,7 +37984,7 @@ window.allHeroes =
             "狙擊手",
             "持續治療"
         ],
-        "source": "月英",
+        "source": "傳奇召喚 - 月英",
         "Release date": "2018-09-01",
         "star": 5,
         "power": 768,
@@ -38032,7 +38032,7 @@ window.allHeroes =
             "持續治療",
             "驅散"
         ],
-        "source": "月英",
+        "source": "傳奇召喚 - 月英",
         "Release date": "2024-02-09",
         "star": 5,
         "power": 976,
@@ -38374,7 +38374,7 @@ window.allHeroes =
             "治療",
             "防禦增益"
         ],
-        "source": "月英",
+        "source": "傳奇召喚 - 月英",
         "Release date": "2019-02-01",
         "star": 5,
         "power": 770,
@@ -38953,7 +38953,7 @@ window.allHeroes =
             "法力提升",
             "法力削減或格擋"
         ],
-        "source": "月英",
+        "source": "傳奇召喚 - 月英",
         "Release date": "2021-03-01",
         "star": 5,
         "power": 788,
@@ -39296,7 +39296,7 @@ window.allHeroes =
             "持續傷害",
             "對自身或友軍負面效果"
         ],
-        "source": "神秘 - 暗影",
+        "source": "神秘 - 暗影召喚",
         "Release date": "2024-05-01",
         "star": 5,
         "power": 1129,
@@ -39448,7 +39448,7 @@ window.allHeroes =
             "法力削減或格擋",
             "最大生命削減"
         ],
-        "source": "月英",
+        "source": "傳奇召喚 - 月英",
         "Release date": "2022-11-01",
         "star": 5,
         "power": 812,
@@ -41539,7 +41539,7 @@ window.allHeroes =
             "召喚小兵",
             "狙擊手"
         ],
-        "source": "月英",
+        "source": "傳奇召喚 - 月英",
         "Release date": "2019-07-01",
         "star": 5,
         "power": 770,
@@ -41592,7 +41592,7 @@ window.allHeroes =
             "狙擊手",
             "凈化"
         ],
-        "source": "月英",
+        "source": "傳奇召喚 - 月英",
         "Release date": "2021-10-20",
         "star": 5,
         "power": 979,
@@ -41858,7 +41858,7 @@ window.allHeroes =
             "連鎖與隨機攻擊",
             "閃避"
         ],
-        "source": "月英",
+        "source": "傳奇召喚 - 月英",
         "Release date": "2024-08-01",
         "star": 5,
         "power": 1008,
@@ -42125,7 +42125,7 @@ window.allHeroes =
             "驅散",
             "法力生成增益"
         ],
-        "source": "月英",
+        "source": "傳奇召喚 - 月英",
         "Release date": "2017-11-01",
         "star": 5,
         "power": 765,
@@ -42171,7 +42171,7 @@ window.allHeroes =
             "範圍攻擊 (打3)",
             "召喚小兵"
         ],
-        "source": "月英",
+        "source": "傳奇召喚 - 月英",
         "Release date": "2024-01-11",
         "star": 5,
         "power": 973,
@@ -42339,7 +42339,7 @@ window.allHeroes =
             "狙擊手",
             "疊加"
         ],
-        "source": "月英",
+        "source": "傳奇召喚 - 月英",
         "Release date": "2023-04-01",
         "star": 5,
         "power": 822,
@@ -42771,7 +42771,7 @@ window.allHeroes =
             "特殊治療",
             "狙擊手"
         ],
-        "source": "月英",
+        "source": "傳奇召喚 - 月英",
         "Release date": "2023-10-01",
         "star": 5,
         "power": 883,
@@ -43139,7 +43139,7 @@ window.allHeroes =
             "召喚惡魔",
             "反製小兵"
         ],
-        "source": "月英",
+        "source": "傳奇召喚 - 月英",
         "Release date": "2022-01-01",
         "star": 5,
         "power": 803,
@@ -43613,7 +43613,7 @@ window.allHeroes =
             "防禦減益",
             "治療削減"
         ],
-        "source": "月英",
+        "source": "傳奇召喚 - 月英",
         "Release date": "2025-01-01",
         "star": 5,
         "power": 1052,
@@ -43664,7 +43664,7 @@ window.allHeroes =
             "持續治療",
             "召喚小兵"
         ],
-        "source": "月英",
+        "source": "傳奇召喚 - 月英",
         "Release date": "2020-10-01",
         "star": 5,
         "power": 778,
@@ -48683,7 +48683,7 @@ window.allHeroes =
             "持續傷害",
             "對自身或友軍負面效果"
         ],
-        "source": "神秘 - 暗影",
+        "source": "神秘 - 暗影召喚",
         "Release date": "2024-05-26",
         "star": 5,
         "power": 1133,
@@ -49005,7 +49005,7 @@ window.allHeroes =
             "特殊治療",
             "防禦增益"
         ],
-        "source": "月英",
+        "source": "傳奇召喚 - 月英",
         "Release date": "2019-04-01",
         "star": 5,
         "power": 770,
@@ -49158,7 +49158,7 @@ window.allHeroes =
             "持續治療",
             "防禦增益"
         ],
-        "source": "月英",
+        "source": "傳奇召喚 - 月英",
         "Release date": "2017-08-01",
         "star": 5,
         "power": 765,
@@ -49209,7 +49209,7 @@ window.allHeroes =
             "持續治療",
             "生命強化"
         ],
-        "source": "月英",
+        "source": "傳奇召喚 - 月英",
         "Release date": "2023-03-20",
         "star": 5,
         "power": 974,
@@ -51742,7 +51742,7 @@ window.allHeroes =
             "驅散",
             "防禦增益"
         ],
-        "source": "月英",
+        "source": "傳奇召喚 - 月英",
         "Release date": "2025-03-01",
         "star": 5,
         "power": 1077,
@@ -52757,7 +52757,7 @@ window.allHeroes =
             "攻擊增益",
             "防禦增益"
         ],
-        "source": "月英",
+        "source": "傳奇召喚 - 月英",
         "Release date": "2018-06-01",
         "star": 5,
         "power": 768,
@@ -52807,7 +52807,7 @@ window.allHeroes =
             "攻擊增益",
             "防禦增益"
         ],
-        "source": "月英",
+        "source": "傳奇召喚 - 月英",
         "Release date": "2021-10-20",
         "star": 5,
         "power": 976,
@@ -52856,7 +52856,7 @@ window.allHeroes =
             "提供免疫",
             "法力生成增益"
         ],
-        "source": "月英",
+        "source": "傳奇召喚 - 月英",
         "Release date": "2019-09-01",
         "star": 5,
         "power": 770,
@@ -53750,7 +53750,7 @@ window.allHeroes =
             "持續傷害",
             "提供免疫"
         ],
-        "source": "月英",
+        "source": "傳奇召喚 - 月英",
         "Release date": "2020-02-01",
         "star": 5,
         "power": 771,
@@ -55257,7 +55257,7 @@ window.allHeroes =
             "法力生成增益",
             "法力削減或格擋"
         ],
-        "source": "月英",
+        "source": "傳奇召喚 - 月英",
         "Release date": "2018-01-01",
         "star": 5,
         "power": 765,
@@ -55307,7 +55307,7 @@ window.allHeroes =
             "法力削減或格擋",
             "驅散"
         ],
-        "source": "月英",
+        "source": "傳奇召喚 - 月英",
         "Release date": "2023-05-15",
         "star": 5,
         "power": 973,
@@ -55360,7 +55360,7 @@ window.allHeroes =
             "持續傷害",
             "攻擊增益"
         ],
-        "source": "月英",
+        "source": "傳奇召喚 - 月英",
         "Release date": "2023-11-01",
         "star": 5,
         "power": 891,
@@ -55579,7 +55579,7 @@ window.allHeroes =
             "召喚小兵",
             "防禦增益"
         ],
-        "source": "月英",
+        "source": "傳奇召喚 - 月英",
         "Release date": "2020-07-01",
         "star": 5,
         "power": 774,
@@ -55830,7 +55830,7 @@ window.allHeroes =
             "持續傷害",
             "對自身或友軍負面效果"
         ],
-        "source": "神秘 - 暗影",
+        "source": "神秘 - 暗影召喚",
         "Release date": "2024-04-21",
         "star": 5,
         "power": 1127,
@@ -56411,7 +56411,7 @@ window.allHeroes =
             "狙擊手",
             "對自身或友軍負面效果"
         ],
-        "source": "神秘 - 暗影",
+        "source": "神秘 - 暗影召喚",
         "Release date": "2024-07-18",
         "star": 5,
         "power": 1141,
@@ -56634,7 +56634,7 @@ window.allHeroes =
             "傷害減免",
             "召喚小兵"
         ],
-        "source": "月英",
+        "source": "傳奇召喚 - 月英",
         "Release date": "2020-12-01",
         "star": 5,
         "power": 782,
@@ -56789,7 +56789,7 @@ window.allHeroes =
             "連鎖與隨機攻擊",
             "對自身或友軍負面效果"
         ],
-        "source": "神秘 - 暗影",
+        "source": "神秘 - 暗影召喚",
         "Release date": "2025-04-03",
         "star": 5,
         "power": 1182,
@@ -56840,7 +56840,7 @@ window.allHeroes =
             "額外傷害",
             "閃避"
         ],
-        "source": "月英",
+        "source": "傳奇召喚 - 月英",
         "Release date": "2023-01-01",
         "star": 5,
         "power": 819,
@@ -57011,7 +57011,7 @@ window.allHeroes =
             "繞過",
             "特殊治療"
         ],
-        "source": "月英",
+        "source": "傳奇召喚 - 月英",
         "Release date": "2021-10-01",
         "star": 5,
         "power": 795,
@@ -57602,7 +57602,7 @@ window.allHeroes =
             "法力削減或格擋",
             "法力生成增益"
         ],
-        "source": "月英",
+        "source": "傳奇召喚 - 月英",
         "Release date": "2023-06-01",
         "star": 5,
         "power": 824,
@@ -57810,7 +57810,7 @@ window.allHeroes =
             "狙擊手",
             "額外傷害"
         ],
-        "source": "月英",
+        "source": "傳奇召喚 - 月英",
         "Release date": "2022-08-01",
         "star": 5,
         "power": 810,
@@ -58635,7 +58635,7 @@ window.allHeroes =
             "疊加",
             "狙擊手"
         ],
-        "source": "月英",
+        "source": "傳奇召喚 - 月英",
         "Release date": "2021-05-01",
         "star": 5,
         "power": 790,
@@ -58741,7 +58741,7 @@ window.allHeroes =
             "法力提升",
             "防禦增益"
         ],
-        "source": "月英",
+        "source": "傳奇召喚 - 月英",
         "Release date": "2022-03-01",
         "star": 5,
         "power": 805,
@@ -58794,7 +58794,7 @@ window.allHeroes =
             "疊加",
             "閃避"
         ],
-        "source": "月英",
+        "source": "傳奇召喚 - 月英",
         "Release date": "2024-04-01",
         "star": 5,
         "power": 973,
@@ -59002,7 +59002,7 @@ window.allHeroes =
             "持續傷害",
             "攻擊增益"
         ],
-        "source": "月英",
+        "source": "傳奇召喚 - 月英",
         "Release date": "2024-10-01",
         "star": 5,
         "power": 1025,
@@ -59061,7 +59061,7 @@ window.allHeroes =
             "凈化",
             "持續治療"
         ],
-        "source": "月英",
+        "source": "傳奇召喚 - 月英",
         "Release date": "2018-11-01",
         "star": 5,
         "power": 769,
@@ -59110,7 +59110,7 @@ window.allHeroes =
             "額外傷害",
             "持續治療"
         ],
-        "source": "月英",
+        "source": "傳奇召喚 - 月英",
         "Release date": "2023-03-20",
         "star": 5,
         "power": 979,
@@ -59736,7 +59736,7 @@ window.allHeroes =
             "連鎖與隨機攻擊",
             "對自身或友軍負面效果"
         ],
-        "source": "神秘 - 暗影",
+        "source": "神秘 - 暗影召喚",
         "Release date": "2025-01-09",
         "star": 3,
         "power": 501,
@@ -64234,7 +64234,7 @@ window.allHeroes =
             "攻擊增益",
             "閃避"
         ],
-        "source": "月英",
+        "source": "傳奇召喚 - 月英",
         "Release date": "2024-06-01",
         "star": 5,
         "power": 990,
@@ -64287,7 +64287,7 @@ window.allHeroes =
             "狙擊手",
             "防禦增益"
         ],
-        "source": "月英",
+        "source": "傳奇召喚 - 月英",
         "Release date": "2020-09-01",
         "star": 5,
         "power": 776,
@@ -64506,7 +64506,7 @@ window.allHeroes =
             "生命強化",
             "提供免疫"
         ],
-        "source": "月英",
+        "source": "傳奇召喚 - 月英",
         "Release date": "2022-10-01",
         "star": 5,
         "power": 812,
@@ -64820,7 +64820,7 @@ window.allHeroes =
             "法力生成增益",
             "召喚小兵"
         ],
-        "source": "月英",
+        "source": "傳奇召喚 - 月英",
         "Release date": "2018-03-01",
         "star": 5,
         "power": 768,
@@ -64868,7 +64868,7 @@ window.allHeroes =
             "召喚小兵",
             "凈化"
         ],
-        "source": "月英",
+        "source": "傳奇召喚 - 月英",
         "Release date": "2023-05-15",
         "star": 5,
         "power": 974,
@@ -64920,7 +64920,7 @@ window.allHeroes =
             "反製小兵",
             "召喚小兵"
         ],
-        "source": "月英",
+        "source": "傳奇召喚 - 月英",
         "Release date": "2021-07-01",
         "star": 5,
         "power": 792,
@@ -65026,7 +65026,7 @@ window.allHeroes =
             "疊加",
             "對自身或友軍負面效果"
         ],
-        "source": "神秘 - 暗影",
+        "source": "神秘 - 暗影召喚",
         "Release date": "2024-05-17",
         "star": 5,
         "power": 1098,
@@ -65077,7 +65077,7 @@ window.allHeroes =
             "攻擊增益",
             "防禦增益"
         ],
-        "source": "月英",
+        "source": "傳奇召喚 - 月英",
         "Release date": "2018-08-01",
         "star": 5,
         "power": 768,
@@ -65126,7 +65126,7 @@ window.allHeroes =
             "防禦增益",
             "驅散"
         ],
-        "source": "月英",
+        "source": "傳奇召喚 - 月英",
         "Release date": "2021-12-23",
         "star": 5,
         "power": 976,
@@ -65558,7 +65558,7 @@ window.allHeroes =
             "疊加",
             "攻擊增益"
         ],
-        "source": "月英",
+        "source": "傳奇召喚 - 月英",
         "Release date": "2024-12-01",
         "star": 5,
         "power": 1042,
@@ -65875,7 +65875,7 @@ window.allHeroes =
             "防禦增益",
             "繞過"
         ],
-        "source": "月英",
+        "source": "傳奇召喚 - 月英",
         "Release date": "2023-03-01",
         "star": 5,
         "power": 821,
@@ -66620,7 +66620,7 @@ window.allHeroes =
             "生命強化",
             "提供免疫"
         ],
-        "source": "月英",
+        "source": "傳奇召喚 - 月英",
         "Release date": "2021-12-01",
         "star": 5,
         "power": 797,
@@ -67098,7 +67098,7 @@ window.allHeroes =
             "法力提升",
             "法力削減或格擋"
         ],
-        "source": "月英",
+        "source": "傳奇召喚 - 月英",
         "Release date": "2023-08-01",
         "star": 5,
         "power": 867,
@@ -67887,7 +67887,7 @@ window.allHeroes =
             "防禦增益",
             "嘲諷"
         ],
-        "source": "月英",
+        "source": "傳奇召喚 - 月英",
         "Release date": "2022-05-01",
         "star": 5,
         "power": 807,
@@ -68673,7 +68673,7 @@ window.allHeroes =
             "狙擊手",
             "狀態效果格擋"
         ],
-        "source": "月英",
+        "source": "傳奇召喚 - 月英",
         "Release date": "2020-04-01",
         "star": 5,
         "power": 771,
@@ -68775,7 +68775,7 @@ window.allHeroes =
             "法力生成增益",
             "召喚小兵"
         ],
-        "source": "月英",
+        "source": "傳奇召喚 - 月英",
         "Release date": "2025-05-01",
         "star": 5,
         "power": 1077,
@@ -69210,7 +69210,7 @@ window.allHeroes =
             "攻擊增益",
             "防禦增益"
         ],
-        "source": "月英",
+        "source": "傳奇召喚 - 月英",
         "Release date": "2017-09-01",
         "star": 5,
         "power": 764,
@@ -69259,7 +69259,7 @@ window.allHeroes =
             "攻擊增益",
             "防禦增益"
         ],
-        "source": "月英",
+        "source": "傳奇召喚 - 月英",
         "Release date": "2023-10-02",
         "star": 5,
         "power": 969,
@@ -69310,7 +69310,7 @@ window.allHeroes =
             "法力生成增益",
             "法力削減或格擋"
         ],
-        "source": "月英",
+        "source": "傳奇召喚 - 月英",
         "Release date": "2019-11-01",
         "star": 5,
         "power": 770,
@@ -69702,7 +69702,7 @@ window.allHeroes =
             "法力削減或格擋",
             "持續治療"
         ],
-        "source": "月英",
+        "source": "傳奇召喚 - 月英",
         "Release date": "2019-01-01",
         "star": 5,
         "power": 770,
@@ -70480,7 +70480,7 @@ window.allHeroes =
             "狙擊手",
             "防禦增益"
         ],
-        "source": "月英",
+        "source": "傳奇召喚 - 月英",
         "Release date": "2019-06-01",
         "star": 5,
         "power": 770,
@@ -71634,7 +71634,7 @@ window.allHeroes =
             "召喚小兵",
             "狙擊手"
         ],
-        "source": "月英",
+        "source": "傳奇召喚 - 月英",
         "Release date": "2021-02-01",
         "star": 5,
         "power": 786,
@@ -72412,7 +72412,7 @@ window.allHeroes =
             "增益竊取者",
             "對自身或友軍負面效果"
         ],
-        "source": "神秘 - 暗影",
+        "source": "神秘 - 暗影召喚",
         "Release date": "2025-01-09",
         "star": 5,
         "power": 1165,
@@ -72978,7 +72978,7 @@ window.allHeroes =
             "攻擊增益",
             "凈化"
         ],
-        "source": "月英",
+        "source": "傳奇召喚 - 月英",
         "Release date": "2024-01-01",
         "star": 5,
         "power": 953,
@@ -73073,6 +73073,55 @@ window.allHeroes =
             "attack": 1564,
             "defense": 1564,
             "health": 2664
+        }
+    },
+    {
+        "name": "薩瓦多雷 (Salvatore)",
+        "fancy_name": "扭曲媒體",
+        "AetherPower": "異常免疫",
+        "color": "藍",
+        "class": "戰士",
+        "speed": "慢速",
+        "skill": "瘋狂存在",
+        "types": [
+            "自我幽靈形態",
+            "隨機攻擊",
+            "狂亂"
+        ],
+        "skill_types": [
+            "鬼魂形態與隱藏",
+            "連鎖與隨機攻擊",
+            "對自身或友軍負面效果",
+            "傷害減免"
+        ],
+        "source": "神秘 - 暗影召喚",
+        "Release date": "2025-07-08",
+        "star": 5,
+        "power": 1218,
+        "attack": 1184,
+        "defense": 1246,
+        "health": 2360,
+        "effects": [
+            "對施法者施放完整移除。（完整移除移除目標的全部狀態效果、疊加與成長及枯萎效果。即使是無法驅散或凈化的狀態效果，也會移除。）",
+            "施法者轉變為瘋狂恐怖幽靈形態，持續 5 回合。",
+            "在變為瘋狂恐怖幽靈形態時，施法者每回合自動對隨機敵人造成 300% 傷害，並造成 30 瘋狂。",
+            "在變為瘋狂恐怖幽靈形態時，施法者可以承受相衝元素敵人的傷害。",
+            "除了施法者，對所有盟友造成 30 點瘋狂。"
+        ],
+        "passives": [],
+        "family": "Cultist",
+        "image": "https://imgur.com/extra2.jpg",
+        "costume_id": 0,
+        "originalIndex": 1448,
+        "lb1": {
+            "attack": 1276,
+            "defense": 1343,
+            "health": 2544
+        },
+        "lb2": {
+            "attack": 1460,
+            "defense": 1536,
+            "health": 2910
         }
     }
 ];

@@ -10113,5 +10113,10 @@ const translatedPassivesTC =
             "* 袖剑。",
             "* 神妙戒指。"
         ]
+    },
+    {
+        "originalIndex": 1448,
+        "name": "Salvatore",
+        "passives": []
     }
 ];

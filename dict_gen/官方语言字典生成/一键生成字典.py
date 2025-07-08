@@ -22,6 +22,8 @@ EXTRACTION_RULES = {
     "herocard.family.title.":"family_title",
     "lottery.title.":"lottery_title",
     "event.name.":"event_name",
+    "quests.special_rule.name":"quests_name",
+    
     
 }
 
