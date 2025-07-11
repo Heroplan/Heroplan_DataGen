@@ -16571,5 +16571,43 @@ window.allHeroesExtra = [
             "Chain & Random Attackers",
             "Counterattackers"
         ]
+    },
+    {
+        "name": "Fimafeng",
+        "fancy name": "Dwarven Survivalist",
+        "Release date": "2025-07-11",
+        "AetherPower": "Regen",
+        "skill_types": [
+            "Cleansers",
+            "Snipers",
+            "DoT Attackers",
+            "Debuffers (ATK)",
+            "Stacking Heroes",
+            "Mana Generation Buffers",
+            "Buffers (DEF)"
+        ]
+    },
+    {
+        "name": "Salvatore",
+        "fancy name": "Twisted Medium",
+        "Release date": "2025-07-08",
+        "AetherPower": "Ailment Immunity",
+        "skill_types": [
+            "Ghost Form & Hiding",
+            "Chain & Random Attackers",
+            "Negative Effects On Self Or Allies",
+            "Damage Reducers"
+        ]
+    },
+    {
+        "name": "Sneferu costume1",
+        "fancy name": "Vanquisher of the Moon",
+        "Release date": "2025-07-10",
+        "AetherPower": "Defense Up",
+        "skill_types": [
+            "Buff Blockers",
+            "Chain & Random Attackers",
+            "Snipers"
+        ]
     }
 ];

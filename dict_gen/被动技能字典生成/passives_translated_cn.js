@@ -1662,6 +1662,11 @@ const translatedPassivesCN =
         },
         {
             "originalIndex": 239,
+            "name": "Salvatore",
+            "passives": []
+        },
+        {
+            "originalIndex": 240,
             "name": "Satori",
             "passives": [
                 "受到状态异常时获得法力增益：持有此技能的角色在受到任何状态异常或负面效果叠加时，获得 +24% 的法力生成，持续 3 回合。",
@@ -1670,14 +1675,14 @@ const translatedPassivesCN =
             ]
         },
         {
-            "originalIndex": 240,
+            "originalIndex": 241,
             "name": "Sawano",
             "passives": [
                 "降低小兵生命值：敌方小兵被召唤时继承的生命值减少 -50%。"
             ]
         },
         {
-            "originalIndex": 241,
+            "originalIndex": 242,
             "name": "Sigyn",
             "passives": [
                 "特殊技能伤害减免：该角色有 10% 的几率将受到的特殊技能直接伤害降至 1 点。",
@@ -1685,7 +1690,7 @@ const translatedPassivesCN =
             ]
         },
         {
-            "originalIndex": 242,
+            "originalIndex": 243,
             "name": "Sini",
             "passives": [
                 "抵抗特殊技能格挡：该角色天生对格挡特殊技能的状态异常有抵抗能力。",
@@ -1693,24 +1698,24 @@ const translatedPassivesCN =
             ]
         },
         {
-            "originalIndex": 243,
+            "originalIndex": 244,
             "name": "Siofra",
             "passives": [
                 "受到增益时恢复生命：该角色在获得增益或正面效果叠加时恢复 5% 的生命值。"
             ]
         },
         {
-            "originalIndex": 244,
+            "originalIndex": 245,
             "name": "Skadi",
             "passives": []
         },
         {
-            "originalIndex": 245,
+            "originalIndex": 246,
             "name": "Skadi C1",
             "passives": []
         },
         {
-            "originalIndex": 246,
+            "originalIndex": 247,
             "name": "Skarn",
             "passives": [
                 "抵抗特殊技能格挡：该角色天生对格挡特殊技能的状态异常有抵抗能力。",
@@ -1720,7 +1725,7 @@ const translatedPassivesCN =
             ]
         },
         {
-            "originalIndex": 247,
+            "originalIndex": 248,
             "name": "Slimgo",
             "passives": [
                 "被击败时召唤史莱姆小兵：当该角色被击败时，为附近的盟友召唤继承其 50% 生命值和 40% 攻击力的史莱姆巨大体型小兵。",
@@ -1728,17 +1733,17 @@ const translatedPassivesCN =
             ]
         },
         {
-            "originalIndex": 248,
+            "originalIndex": 249,
             "name": "Snow White",
             "passives": []
         },
         {
-            "originalIndex": 249,
+            "originalIndex": 250,
             "name": "Snow White C1",
             "passives": []
         },
         {
-            "originalIndex": 250,
+            "originalIndex": 251,
             "name": "Sobek",
             "passives": [
                 "特殊技能效果：当该角色施放其特殊技能时，有 60% 几率执行以下操作：",
@@ -1747,7 +1752,7 @@ const translatedPassivesCN =
             ]
         },
         {
-            "originalIndex": 251,
+            "originalIndex": 252,
             "name": "Sobek C1",
             "passives": [
                 "特殊技能效果：当该角色施放其特殊技能时，有 60% 几率执行以下操作：",
@@ -1758,7 +1763,7 @@ const translatedPassivesCN =
             ]
         },
         {
-            "originalIndex": 252,
+            "originalIndex": 253,
             "name": "Song Jiang",
             "passives": [
                 "特殊攻击暴击时净化：当该角色用特殊技能造成暴击时，会安全地净化所有盟友最新的可净化状态效果。此效果每回合可激活一次。",
@@ -1770,7 +1775,7 @@ const translatedPassivesCN =
             ]
         },
         {
-            "originalIndex": 253,
+            "originalIndex": 254,
             "name": "Sorrow",
             "passives": [
                 "猎手感知：当该角色施放其特殊技能时，会将自身最新的可净化状态异常转移给目标。如果其特殊技能无法选择敌方目标，则会随机转移至一名敌人。若此角色没有可净化的状态异常，则恢复自身 8% 的生命。",
@@ -1778,7 +1783,7 @@ const translatedPassivesCN =
             ]
         },
         {
-            "originalIndex": 254,
+            "originalIndex": 255,
             "name": "Starwalker",
             "passives": [
                 "分摊所受伤害：该角色所受伤害的 20% 将由其他盟友分摊。",
@@ -1786,7 +1791,7 @@ const translatedPassivesCN =
             ]
         },
         {
-            "originalIndex": 255,
+            "originalIndex": 256,
             "name": "Suzuna",
             "passives": [
                 "抵抗治疗异常：该角色天生对影响治疗的状态异常有抵抗能力。",
@@ -1794,19 +1799,19 @@ const translatedPassivesCN =
             ]
         },
         {
-            "originalIndex": 256,
+            "originalIndex": 257,
             "name": "Tealmoine",
             "passives": [
                 "闪避特殊技能伤害：该角色有 15% 的几率闪避造成伤害的特殊技能。"
             ]
         },
         {
-            "originalIndex": 257,
+            "originalIndex": 258,
             "name": "Tethys",
             "passives": []
         },
         {
-            "originalIndex": 258,
+            "originalIndex": 259,
             "name": "Thalassa",
             "passives": [
                 "特殊技能效果：当该角色施放其特殊技能时，有 50% 几率执行以下操作：",
@@ -1816,7 +1821,7 @@ const translatedPassivesCN =
             ]
         },
         {
-            "originalIndex": 259,
+            "originalIndex": 260,
             "name": "Thalassa C1",
             "passives": [
                 "特殊技能效果：当该角色施放其特殊技能时，有 50% 几率执行以下操作：",
@@ -1826,7 +1831,7 @@ const translatedPassivesCN =
             ]
         },
         {
-            "originalIndex": 260,
+            "originalIndex": 261,
             "name": "Thanatos",
             "passives": [
                 "降低小兵生命值：敌方小兵被召唤时继承的生命值减少 -50%。",
@@ -1834,46 +1839,46 @@ const translatedPassivesCN =
             ]
         },
         {
-            "originalIndex": 261,
+            "originalIndex": 262,
             "name": "Theobald",
             "passives": []
         },
         {
-            "originalIndex": 262,
+            "originalIndex": 263,
             "name": "Thorne",
             "passives": []
         },
         {
-            "originalIndex": 263,
+            "originalIndex": 264,
             "name": "Thorne C1",
             "passives": []
         },
         {
-            "originalIndex": 264,
+            "originalIndex": 265,
             "name": "Thorne C2",
             "passives": []
         },
         {
-            "originalIndex": 265,
+            "originalIndex": 266,
             "name": "Thorne Toon",
             "passives": [
                 "卡通：额外 75% 几率抵抗所有状态异常、法力削减和增益驱散。"
             ]
         },
         {
-            "originalIndex": 266,
+            "originalIndex": 267,
             "name": "Timius",
             "passives": [
                 "降低通过特殊技能获得的法力：通过特殊技能增加的法力值降低 -80%。此效果对战场上的所有敌人生效。"
             ]
         },
         {
-            "originalIndex": 267,
+            "originalIndex": 268,
             "name": "Tinsel",
             "passives": []
         },
         {
-            "originalIndex": 268,
+            "originalIndex": 269,
             "name": "Tremor",
             "passives": [
                 "特殊技能附带持续伤害：当该角色施放其特殊技能时，会给一个随机敌人施加猎人印记。目标在 3 回合内受到 150 点伤害。如果目标已有此效果，则持续时间刷新，伤害增加 150 点，总伤害最高可达 1500 点。",
@@ -1881,7 +1886,7 @@ const translatedPassivesCN =
             ]
         },
         {
-            "originalIndex": 269,
+            "originalIndex": 270,
             "name": "Ulius",
             "passives": [
                 "特殊技能造成伤害：当该角色施放其特殊技能时，有 50% 的几率对所有敌人造成 100% 的伤害。如果特殊技能完全充能，则几率为 100%。",
@@ -1889,14 +1894,14 @@ const translatedPassivesCN =
             ]
         },
         {
-            "originalIndex": 270,
+            "originalIndex": 271,
             "name": "Vela",
             "passives": [
                 "抵抗负面小兵效果：该角色天生对来自小兵的负面效果及伤害有抵抗能力。"
             ]
         },
         {
-            "originalIndex": 271,
+            "originalIndex": 272,
             "name": "Verity",
             "passives": [
                 "致盲小兵：所有敌方小兵拥有 -60% 精准度。所有敌方超级小兵拥有 -50% 精准度。",
@@ -1905,14 +1910,14 @@ const translatedPassivesCN =
             ]
         },
         {
-            "originalIndex": 272,
+            "originalIndex": 273,
             "name": "Vincent",
             "passives": [
                 "石像鬼的软化皮肤：每当此石像鬼施放特殊技能时，其软化皮肤会激活。接下来受到的 3 次伤害降低 -90%，并抵抗所有状态异常和法力削减。此效果无法被驱散。"
             ]
         },
         {
-            "originalIndex": 273,
+            "originalIndex": 274,
             "name": "Waterpipe",
             "passives": [
                 "特殊技能附带持续伤害：当该角色施放其特殊技能时，会给一个随机敌人施加猎人印记。目标在 3 回合内受到 150 点伤害。如果目标已有此效果，则持续时间刷新，伤害增加 150 点，总伤害最高可达 1500 点。",
@@ -1920,19 +1925,19 @@ const translatedPassivesCN =
             ]
         },
         {
-            "originalIndex": 274,
+            "originalIndex": 275,
             "name": "Whitefang",
             "passives": [
                 "降低治疗量：所有敌人获得的治疗量降低 -50%。"
             ]
         },
         {
-            "originalIndex": 275,
+            "originalIndex": 276,
             "name": "Zappa",
             "passives": []
         },
         {
-            "originalIndex": 276,
+            "originalIndex": 277,
             "name": "Zengar",
             "passives": [
                 "队伍大师：",
@@ -1943,138 +1948,138 @@ const translatedPassivesCN =
             ]
         },
         {
-            "originalIndex": 277,
+            "originalIndex": 278,
             "name": "Zircon",
             "passives": []
         },
         {
-            "originalIndex": 278,
+            "originalIndex": 279,
             "name": "Aife",
             "passives": []
         },
         {
-            "originalIndex": 279,
+            "originalIndex": 280,
             "name": "Derric",
             "passives": []
         },
         {
-            "originalIndex": 280,
+            "originalIndex": 281,
             "name": "Brogan",
             "passives": []
         },
         {
-            "originalIndex": 281,
+            "originalIndex": 282,
             "name": "Jenneh",
             "passives": []
         },
         {
-            "originalIndex": 282,
+            "originalIndex": 283,
             "name": "Needler",
             "passives": []
         },
         {
-            "originalIndex": 283,
+            "originalIndex": 284,
             "name": "Alessia",
             "passives": [
                 "小兵死亡时净化：当该角色拥有的小兵被摧毁时，该角色身上的状态异常会被净化。"
             ]
         },
         {
-            "originalIndex": 284,
+            "originalIndex": 285,
             "name": "Belith",
             "passives": []
         },
         {
-            "originalIndex": 285,
+            "originalIndex": 286,
             "name": "Belith C1",
             "passives": []
         },
         {
-            "originalIndex": 286,
+            "originalIndex": 287,
             "name": "Belith Toon",
             "passives": [
                 "卡通：额外 75% 几率抵抗所有状态异常、法力削减和增益驱散。"
             ]
         },
         {
-            "originalIndex": 287,
+            "originalIndex": 288,
             "name": "Belith Glass",
             "passives": [
                 "玻璃：额外 60% 几率将状态异常反弹给攻击者。"
             ]
         },
         {
-            "originalIndex": 288,
+            "originalIndex": 289,
             "name": "Berden",
             "passives": []
         },
         {
-            "originalIndex": 289,
+            "originalIndex": 290,
             "name": "Berden C1",
             "passives": []
         },
         {
-            "originalIndex": 290,
+            "originalIndex": 291,
             "name": "Berden Toon",
             "passives": [
                 "卡通：额外 75% 几率抵抗所有状态异常、法力削减和增益驱散。"
             ]
         },
         {
-            "originalIndex": 291,
+            "originalIndex": 292,
             "name": "Berden Glass",
             "passives": [
                 "玻璃：额外 60% 几率将状态异常反弹给攻击者。"
             ]
         },
         {
-            "originalIndex": 292,
+            "originalIndex": 293,
             "name": "Brienne",
             "passives": []
         },
         {
-            "originalIndex": 293,
+            "originalIndex": 294,
             "name": "Brienne C1",
             "passives": []
         },
         {
-            "originalIndex": 294,
+            "originalIndex": 295,
             "name": "Brienne Toon",
             "passives": [
                 "卡通：额外 75% 几率抵抗所有状态异常、法力削减和增益驱散。"
             ]
         },
         {
-            "originalIndex": 295,
+            "originalIndex": 296,
             "name": "Brienne Glass",
             "passives": [
                 "玻璃：额外 60% 几率将状态异常反弹给攻击者。"
             ]
         },
         {
-            "originalIndex": 296,
+            "originalIndex": 297,
             "name": "By-Ulf",
             "passives": []
         },
         {
-            "originalIndex": 297,
+            "originalIndex": 298,
             "name": "Carver",
             "passives": []
         },
         {
-            "originalIndex": 298,
+            "originalIndex": 299,
             "name": "Carver C1",
             "passives": []
         },
         {
-            "originalIndex": 299,
+            "originalIndex": 300,
             "name": "Carver Toon",
             "passives": [
                 "卡通：额外 75% 几率抵抗所有状态异常、法力削减和增益驱散。"
             ]
         },
         {
-            "originalIndex": 300,
+            "originalIndex": 301,
             "name": "Chires",
             "passives": [
                 "进阶无视小兵：该角色造成的所有伤害无视小兵和巨大体型小兵。",
@@ -2083,14 +2088,14 @@ const translatedPassivesCN =
             ]
         },
         {
-            "originalIndex": 301,
+            "originalIndex": 302,
             "name": "Dolgoon",
             "passives": [
                 "特殊技能附加状态效果：当该角色施放其特殊技能时，有 50% 的几率为所有敌人施加 -25% 的法力生成，持续 3 回合。如果特殊技能完全充能，则几率为 100%。"
             ]
         },
         {
-            "originalIndex": 302,
+            "originalIndex": 303,
             "name": "Faiez",
             "passives": [
                 "特殊技能效果：当该角色施放其特殊技能时，有 70% 几率执行以下操作：",
@@ -2099,7 +2104,7 @@ const translatedPassivesCN =
             ]
         },
         {
-            "originalIndex": 303,
+            "originalIndex": 304,
             "name": "Faiez C1",
             "passives": [
                 "特殊技能效果：当该角色施放其特殊技能时，有 70% 几率执行以下操作：",
@@ -2110,14 +2115,14 @@ const translatedPassivesCN =
             ]
         },
         {
-            "originalIndex": 304,
+            "originalIndex": 305,
             "name": "Featherino",
             "passives": [
                 "降低通过特殊技能获得的法力：通过特殊技能增加的法力值降低 -80%。此效果对战场上的所有敌人生效。"
             ]
         },
         {
-            "originalIndex": 305,
+            "originalIndex": 306,
             "name": "Fianna",
             "passives": [
                 "特殊技能附加状态效果：当该角色施放其特殊技能时，会给一个随机敌人施加猎人印记。目标在 3 回合内受到 150 点伤害。如果目标已有此效果，则持续时间刷新，伤害增加 150 点，总伤害最高可达 1500 点。",
@@ -2125,116 +2130,116 @@ const translatedPassivesCN =
             ]
         },
         {
-            "originalIndex": 306,
+            "originalIndex": 307,
             "name": "Friar Tuck",
             "passives": []
         },
         {
-            "originalIndex": 307,
+            "originalIndex": 308,
             "name": "Friar Tuck C1",
             "passives": []
         },
         {
-            "originalIndex": 308,
+            "originalIndex": 309,
             "name": "Friar Tuck Toon",
             "passives": [
                 "卡通：额外 75% 几率抵抗所有状态异常、法力削减和增益驱散。"
             ]
         },
         {
-            "originalIndex": 309,
+            "originalIndex": 310,
             "name": "Friar Tuck Glass",
             "passives": [
                 "玻璃：额外 60% 几率将状态异常反弹给攻击者。"
             ]
         },
         {
-            "originalIndex": 310,
+            "originalIndex": 311,
             "name": "General Yin",
             "passives": []
         },
         {
-            "originalIndex": 311,
+            "originalIndex": 312,
             "name": "Gnomer",
             "passives": []
         },
         {
-            "originalIndex": 312,
+            "originalIndex": 313,
             "name": "Goopy",
             "passives": [
                 "窃取增益 - 当该角色施放其特殊技能时，有 50% 的几率从一个带有增益的随机敌人身上窃取最新的可驱散增益。如果没有敌人带有增益，则对所有敌人造成 70% 的伤害。"
             ]
         },
         {
-            "originalIndex": 313,
+            "originalIndex": 314,
             "name": "Gramps",
             "passives": [
                 "特殊技能伤害减免：该角色受到的特殊技能伤害降低 -20%。"
             ]
         },
         {
-            "originalIndex": 314,
+            "originalIndex": 315,
             "name": "Gramps C1",
             "passives": [
                 "特殊技能伤害减免：该角色受到的特殊技能伤害降低 -20%。"
             ]
         },
         {
-            "originalIndex": 315,
+            "originalIndex": 316,
             "name": "Grevle",
             "passives": []
         },
         {
-            "originalIndex": 316,
+            "originalIndex": 317,
             "name": "Hisan",
             "passives": []
         },
         {
-            "originalIndex": 317,
+            "originalIndex": 318,
             "name": "Isshtak",
             "passives": []
         },
         {
-            "originalIndex": 318,
+            "originalIndex": 319,
             "name": "Isshtak C1",
             "passives": []
         },
         {
-            "originalIndex": 319,
+            "originalIndex": 320,
             "name": "Isshtak Toon",
             "passives": [
                 "卡通：额外 75% 几率抵抗所有状态异常、法力削减和增益驱散。"
             ]
         },
         {
-            "originalIndex": 320,
+            "originalIndex": 321,
             "name": "Jing",
             "passives": []
         },
         {
-            "originalIndex": 321,
+            "originalIndex": 322,
             "name": "Mnesseus",
             "passives": []
         },
         {
-            "originalIndex": 322,
+            "originalIndex": 323,
             "name": "Mnesseus C1",
             "passives": []
         },
         {
-            "originalIndex": 323,
+            "originalIndex": 324,
             "name": "Muggy",
             "passives": []
         },
         {
-            "originalIndex": 324,
+            "originalIndex": 325,
             "name": "Noril",
             "passives": [
                 "抵抗状态效果伤害：该角色天生对来自状态效果的伤害有抵抗能力。"
             ]
         },
         {
-            "originalIndex": 325,
+            "originalIndex": 326,
             "name": "Roxia",
             "passives": [
                 "特殊技能获得法力：当该角色施放其特殊技能时，有 50% 的几率为所有队友提供 10% 的法力。如果特殊技能完全充能，则几率为 100%。",
@@ -2242,17 +2247,17 @@ const translatedPassivesCN =
             ]
         },
         {
-            "originalIndex": 326,
+            "originalIndex": 327,
             "name": "Shrubbear",
             "passives": []
         },
         {
-            "originalIndex": 327,
+            "originalIndex": 328,
             "name": "Whacker",
             "passives": []
         },
         {
-            "originalIndex": 328,
+            "originalIndex": 329,
             "name": "William",
             "passives": [
                 "抵抗法力削减：该角色天生对法力削减有抵抗能力。",
@@ -2260,28 +2265,28 @@ const translatedPassivesCN =
             ]
         },
         {
-            "originalIndex": 329,
+            "originalIndex": 330,
             "name": "Yona",
             "passives": [
                 "受到增益时恢复生命：该角色在获得增益或正面效果叠加时恢复 5% 的生命值。"
             ]
         },
         {
-            "originalIndex": 330,
+            "originalIndex": 331,
             "name": "Zarel",
             "passives": [
                 "防御异常削减：将影响防御的异常状态效果降低 -80%。此效果适用于该角色及其在战场上的所有盟友。"
             ]
         },
         {
-            "originalIndex": 331,
+            "originalIndex": 332,
             "name": "Zarola",
             "passives": [
                 "抵抗特殊技能格挡：该角色天生对格挡特殊技能的状态异常有抵抗能力。"
             ]
         },
         {
-            "originalIndex": 332,
+            "originalIndex": 333,
             "name": "Alfie",
             "passives": [
                 "队伍大师：",
@@ -2292,24 +2297,24 @@ const translatedPassivesCN =
             ]
         },
         {
-            "originalIndex": 333,
+            "originalIndex": 334,
             "name": "Almur",
             "passives": []
         },
         {
-            "originalIndex": 334,
+            "originalIndex": 335,
             "name": "Almur C1",
             "passives": []
         },
         {
-            "originalIndex": 335,
+            "originalIndex": 336,
             "name": "Anton",
             "passives": [
                 "特殊技能恢复生命：当该角色施放其特殊技能时，有 50% 的几率为所有队友恢复 15% 的生命值。如果特殊技能完全充能，则几率为 100%。"
             ]
         },
         {
-            "originalIndex": 336,
+            "originalIndex": 337,
             "name": "Brontes",
             "passives": [
                 "降低小兵生命值：敌方小兵被召唤时继承的生命值减少 -50%。",
@@ -2317,51 +2322,51 @@ const translatedPassivesCN =
             ]
         },
         {
-            "originalIndex": 337,
+            "originalIndex": 338,
             "name": "Brynhild",
             "passives": []
         },
         {
-            "originalIndex": 338,
+            "originalIndex": 339,
             "name": "Buddy",
             "passives": []
         },
         {
-            "originalIndex": 339,
+            "originalIndex": 340,
             "name": "Caedmon",
             "passives": []
         },
         {
-            "originalIndex": 340,
+            "originalIndex": 341,
             "name": "Caedmon C1",
             "passives": []
         },
         {
-            "originalIndex": 341,
+            "originalIndex": 342,
             "name": "Caedmon C2",
             "passives": []
         },
         {
-            "originalIndex": 342,
+            "originalIndex": 343,
             "name": "Caedmon Toon",
             "passives": [
                 "卡通：额外 75% 几率抵抗所有状态异常、法力削减和增益驱散。"
             ]
         },
         {
-            "originalIndex": 343,
+            "originalIndex": 344,
             "name": "Caedmon Glass",
             "passives": [
                 "玻璃：额外 60% 几率将状态异常反弹给攻击者。"
             ]
         },
         {
-            "originalIndex": 344,
+            "originalIndex": 345,
             "name": "Franz",
             "passives": []
         },
         {
-            "originalIndex": 345,
+            "originalIndex": 346,
             "name": "Fruitio",
             "passives": [
                 "被击败时召唤史莱姆小兵：当该角色被击败时，为附近的盟友召唤继承其 50% 生命值和 40% 攻击力的史莱姆巨大体型小兵。",
@@ -2369,83 +2374,83 @@ const translatedPassivesCN =
             ]
         },
         {
-            "originalIndex": 346,
+            "originalIndex": 347,
             "name": "Gadeirus",
             "passives": []
         },
         {
-            "originalIndex": 347,
+            "originalIndex": 348,
             "name": "Gadeirus C1",
             "passives": []
         },
         {
-            "originalIndex": 348,
+            "originalIndex": 349,
             "name": "Gobbler",
             "passives": []
         },
         {
-            "originalIndex": 349,
+            "originalIndex": 350,
             "name": "Gobbler C1",
             "passives": []
         },
         {
-            "originalIndex": 350,
+            "originalIndex": 351,
             "name": "Hansel",
             "passives": []
         },
         {
-            "originalIndex": 351,
+            "originalIndex": 352,
             "name": "Hansel C1",
             "passives": []
         },
         {
-            "originalIndex": 352,
+            "originalIndex": 353,
             "name": "Jack O'Hare",
             "passives": []
         },
         {
-            "originalIndex": 353,
+            "originalIndex": 354,
             "name": "Jack O'Hare C1",
             "passives": []
         },
         {
-            "originalIndex": 354,
+            "originalIndex": 355,
             "name": "Kalo",
             "passives": [
                 "石像鬼之肤：每当此石像鬼施放特殊技能时，其石肤会变硬。接下来受到的 5 次伤害将降至 1 点。此效果无法被驱散。"
             ]
         },
         {
-            "originalIndex": 355,
+            "originalIndex": 356,
             "name": "Kashhrek",
             "passives": []
         },
         {
-            "originalIndex": 356,
+            "originalIndex": 357,
             "name": "Kashhrek C1",
             "passives": []
         },
         {
-            "originalIndex": 357,
+            "originalIndex": 358,
             "name": "Kashhrek C2",
             "passives": []
         },
         {
-            "originalIndex": 358,
+            "originalIndex": 359,
             "name": "Kashhrek Toon",
             "passives": [
                 "卡通：额外 75% 几率抵抗所有状态异常、法力削减和增益驱散。"
             ]
         },
         {
-            "originalIndex": 359,
+            "originalIndex": 360,
             "name": "Kashhrek Glass",
             "passives": [
                 "玻璃：额外 60% 几率将状态异常反弹给攻击者。"
             ]
         },
         {
-            "originalIndex": 360,
+            "originalIndex": 361,
             "name": "Lionstring",
             "passives": [
                 "抵抗剧毒：该角色天生对剧毒有抵抗能力。",
@@ -2453,82 +2458,82 @@ const translatedPassivesCN =
             ]
         },
         {
-            "originalIndex": 361,
+            "originalIndex": 362,
             "name": "Little John",
             "passives": []
         },
         {
-            "originalIndex": 362,
+            "originalIndex": 363,
             "name": "Little John C1",
             "passives": []
         },
         {
-            "originalIndex": 363,
+            "originalIndex": 364,
             "name": "Little John C2",
             "passives": []
         },
         {
-            "originalIndex": 364,
+            "originalIndex": 365,
             "name": "Little John Toon",
             "passives": [
                 "卡通：额外 75% 几率抵抗所有状态异常、法力削减和增益驱散。"
             ]
         },
         {
-            "originalIndex": 365,
+            "originalIndex": 366,
             "name": "Little John Glass",
             "passives": [
                 "玻璃：额外 60% 几率将状态异常反弹给攻击者。"
             ]
         },
         {
-            "originalIndex": 366,
+            "originalIndex": 367,
             "name": "Marcel",
             "passives": []
         },
         {
-            "originalIndex": 367,
+            "originalIndex": 368,
             "name": "Melendor",
             "passives": []
         },
         {
-            "originalIndex": 368,
+            "originalIndex": 369,
             "name": "Melendor C1",
             "passives": []
         },
         {
-            "originalIndex": 369,
+            "originalIndex": 370,
             "name": "Melendor C2",
             "passives": []
         },
         {
-            "originalIndex": 370,
+            "originalIndex": 371,
             "name": "Melendor Toon",
             "passives": [
                 "卡通：额外 75% 几率抵抗所有状态异常、法力削减和增益驱散。"
             ]
         },
         {
-            "originalIndex": 371,
+            "originalIndex": 372,
             "name": "Melendor Glass",
             "passives": [
                 "玻璃：额外 60% 几率将状态异常反弹给攻击者。"
             ]
         },
         {
-            "originalIndex": 372,
+            "originalIndex": 373,
             "name": "Mielikki",
             "passives": [
                 "西苏之力 - 当该角色在战斗中首次以低生命值开始回合时，他们会恢复 15% 的生命值并获得 15% 的法力。"
             ]
         },
         {
-            "originalIndex": 373,
+            "originalIndex": 374,
             "name": "Mielikki C1",
             "passives": []
         },
         {
-            "originalIndex": 374,
+            "originalIndex": 375,
             "name": "Mulgog",
             "passives": [
                 "特殊技能效果：当该角色施放其特殊技能时，有 50% 几率执行以下操作：",
@@ -2537,7 +2542,7 @@ const translatedPassivesCN =
             ]
         },
         {
-            "originalIndex": 375,
+            "originalIndex": 376,
             "name": "Mulgog C1",
             "passives": [
                 "特殊技能效果：当该角色施放其特殊技能时，有 50% 几率执行以下操作：",
@@ -2547,7 +2552,7 @@ const translatedPassivesCN =
             ]
         },
         {
-            "originalIndex": 376,
+            "originalIndex": 377,
             "name": "Myrtle",
             "passives": [
                 "致盲小兵：所有敌方小兵拥有 -60% 精准度。所有敌方超级小兵拥有 -50% 精准度。",
@@ -2556,7 +2561,7 @@ const translatedPassivesCN =
             ]
         },
         {
-            "originalIndex": 377,
+            "originalIndex": 378,
             "name": "Numbskull",
             "passives": [
                 "特殊技能附带持续伤害：当该角色施放其特殊技能时，会给一个随机敌人施加猎人印记。目标在 3 回合内受到 150 点伤害。如果目标已有此效果，则持续时间刷新，伤害增加 150 点，总伤害最高可达 1500 点。",
@@ -2564,24 +2569,24 @@ const translatedPassivesCN =
             ]
         },
         {
-            "originalIndex": 378,
+            "originalIndex": 379,
             "name": "Orla",
             "passives": [
                 "抵抗状态效果伤害：该角色天生对来自状态效果的伤害有抵抗能力。"
             ]
         },
         {
-            "originalIndex": 379,
+            "originalIndex": 380,
             "name": "Peters",
             "passives": []
         },
         {
-            "originalIndex": 380,
+            "originalIndex": 381,
             "name": "Peters C1",
             "passives": []
         },
         {
-            "originalIndex": 381,
+            "originalIndex": 382,
             "name": "Ptolemy",
             "passives": [
                 "特殊技能效果：当该角色施放其特殊技能时，有 60% 几率执行以下操作：",
@@ -2590,7 +2595,7 @@ const translatedPassivesCN =
             ]
         },
         {
-            "originalIndex": 382,
+            "originalIndex": 383,
             "name": "Ptolemy C1",
             "passives": [
                 "受到增益时恢复生命：该角色在获得增益或正面效果叠加时恢复 5% 的生命值。",
@@ -2601,69 +2606,69 @@ const translatedPassivesCN =
             ]
         },
         {
-            "originalIndex": 383,
+            "originalIndex": 384,
             "name": "Raleigh",
             "passives": [
                 "受到增益时恢复生命：该角色在获得增益或正面效果叠加时恢复 5% 的生命值。"
             ]
         },
         {
-            "originalIndex": 384,
+            "originalIndex": 385,
             "name": "Skittleskull",
             "passives": []
         },
         {
-            "originalIndex": 385,
+            "originalIndex": 386,
             "name": "Skittleskull C1",
             "passives": []
         },
         {
-            "originalIndex": 386,
+            "originalIndex": 387,
             "name": "Skittleskull C2",
             "passives": []
         },
         {
-            "originalIndex": 387,
+            "originalIndex": 388,
             "name": "Skittleskull Toon",
             "passives": [
                 "卡通：额外 75% 几率抵抗所有状态异常、法力削减和增益驱散。"
             ]
         },
         {
-            "originalIndex": 388,
+            "originalIndex": 389,
             "name": "Skittleskull Glass",
             "passives": [
                 "玻璃：额外 60% 几率将状态异常反弹给攻击者。"
             ]
         },
         {
-            "originalIndex": 389,
+            "originalIndex": 390,
             "name": "Tettukh",
             "passives": [
                 "特殊技能伤害减免：该角色受到的特殊技能伤害降低 -20%。"
             ]
         },
         {
-            "originalIndex": 390,
+            "originalIndex": 391,
             "name": "Tettukh C1",
             "passives": [
                 "特殊技能伤害减免：该角色受到的特殊技能伤害降低 -20%。"
             ]
         },
         {
-            "originalIndex": 391,
+            "originalIndex": 392,
             "name": "Villiers",
             "passives": [
                 "特殊技能造成伤害：当该角色受到特殊技能伤害或替处于掩护状态的角色承受伤害时，有 60% 的几率对所有敌人造成所受伤害 20% 的伤害。"
             ]
         },
         {
-            "originalIndex": 392,
+            "originalIndex": 393,
             "name": "Wren",
             "passives": []
         },
         {
-            "originalIndex": 393,
+            "originalIndex": 394,
             "name": "Ahmose",
             "passives": [
                 "特殊技能效果：当该角色施放其特殊技能时，有 70% 几率执行以下操作：",
@@ -2672,7 +2677,7 @@ const translatedPassivesCN =
             ]
         },
         {
-            "originalIndex": 394,
+            "originalIndex": 395,
             "name": "Ahmose C1",
             "passives": [
                 "特殊技能效果：当该角色施放其特殊技能时，有 70% 几率执行以下操作。",
@@ -2683,19 +2688,19 @@ const translatedPassivesCN =
             ]
         },
         {
-            "originalIndex": 395,
+            "originalIndex": 396,
             "name": "Alberich",
             "passives": []
         },
         {
-            "originalIndex": 396,
+            "originalIndex": 397,
             "name": "Alberich C1",
             "passives": [
                 "特殊技能净化：当该角色施放其特殊技能时，会净化所有队友身上最新的状态异常。"
             ]
         },
         {
-            "originalIndex": 397,
+            "originalIndex": 398,
             "name": "Archibald",
             "passives": [
                 "抵抗法力削减：该角色天生对法力削减有抵抗能力。",
@@ -2703,24 +2708,24 @@ const translatedPassivesCN =
             ]
         },
         {
-            "originalIndex": 398,
+            "originalIndex": 399,
             "name": "Archie",
             "passives": []
         },
         {
-            "originalIndex": 399,
+            "originalIndex": 400,
             "name": "Archie C1",
             "passives": []
         },
         {
-            "originalIndex": 400,
+            "originalIndex": 401,
             "name": "Arco",
             "passives": [
                 "石像鬼之肤：每当此石像鬼施放特殊技能时，其石肤会变硬。接下来受到的 4 次伤害将降至 1 点。此效果无法被驱散。"
             ]
         },
         {
-            "originalIndex": 401,
+            "originalIndex": 402,
             "name": "Armand Moncharmin",
             "passives": [
                 "抵抗攻击异常：该角色天生对影响攻击力的状态异常有抵抗能力。",
@@ -2728,36 +2733,36 @@ const translatedPassivesCN =
             ]
         },
         {
-            "originalIndex": 402,
+            "originalIndex": 403,
             "name": "Athos",
             "passives": [
                 "特殊技能造成伤害：当该角色受到特殊技能伤害或替处于掩护状态的角色承受伤害时，有 60% 的几率对所有敌人造成所受伤害 20% 的伤害。"
             ]
         },
         {
-            "originalIndex": 403,
+            "originalIndex": 404,
             "name": "Atomos",
             "passives": []
         },
         {
-            "originalIndex": 404,
+            "originalIndex": 405,
             "name": "Atomos C1",
             "passives": []
         },
         {
-            "originalIndex": 405,
+            "originalIndex": 406,
             "name": "Atwood",
             "passives": [
                 "古神的标记：该角色每拥有 5% 点狂乱，受到的所有伤害便降低 10，最多可降低 50%。"
             ]
         },
         {
-            "originalIndex": 406,
+            "originalIndex": 407,
             "name": "Augustus",
             "passives": []
         },
         {
-            "originalIndex": 407,
+            "originalIndex": 408,
             "name": "Balbar",
             "passives": [
                 "抵抗增益免疫：该角色天生对提供新增益免疫的状态异常有抵抗能力。",
@@ -2765,12 +2770,12 @@ const translatedPassivesCN =
             ]
         },
         {
-            "originalIndex": 408,
+            "originalIndex": 409,
             "name": "Bertila",
             "passives": []
         },
         {
-            "originalIndex": 409,
+            "originalIndex": 410,
             "name": "Bo & Runt",
             "passives": [
                 "抵抗小兵移除：该角色天生对小兵移除有抵抗能力。",
@@ -2778,7 +2783,7 @@ const translatedPassivesCN =
             ]
         },
         {
-            "originalIndex": 410,
+            "originalIndex": 411,
             "name": "Bonzo",
             "passives": [
                 "快节奏：民谣。",
@@ -2788,7 +2793,7 @@ const translatedPassivesCN =
             ]
         },
         {
-            "originalIndex": 411,
+            "originalIndex": 412,
             "name": "Boom & Fang",
             "passives": [
                 "特殊技能效果：当该角色施放其特殊技能时，有 50% 几率执行以下操作。",
@@ -2797,7 +2802,7 @@ const translatedPassivesCN =
             ]
         },
         {
-            "originalIndex": 412,
+            "originalIndex": 413,
             "name": "Bramble",
             "passives": [
                 "致盲小兵：所有敌方小兵拥有 -60% 精准度。所有敌方超级小兵拥有 -50% 精准度。",
@@ -2806,14 +2811,14 @@ const translatedPassivesCN =
             ]
         },
         {
-            "originalIndex": 413,
+            "originalIndex": 414,
             "name": "Chikao",
             "passives": [
                 "降低小兵生命值：敌方小兵被召唤时继承的生命值减少 -50%。"
             ]
         },
         {
-            "originalIndex": 414,
+            "originalIndex": 415,
             "name": "Chloris",
             "passives": [
                 "抵抗治疗异常：该角色天生对影响治疗的异常状态有抵抗能力。",
@@ -2821,7 +2826,7 @@ const translatedPassivesCN =
             ]
         },
         {
-            "originalIndex": 415,
+            "originalIndex": 416,
             "name": "Cinisia",
             "passives": [
                 "根据非自然系敌人数量提高攻击力：每场战斗开始时，每存在一个非自然系元素的敌人，此角色的攻击力都会提高 5%。在多个波次的战斗中，该效果将在每一波开始时刷新。",
@@ -2829,14 +2834,14 @@ const translatedPassivesCN =
             ]
         },
         {
-            "originalIndex": 416,
+            "originalIndex": 417,
             "name": "Congalach",
             "passives": [
                 "特殊技能伤害减免：该角色受到的特殊技能伤害降低 -20%。"
             ]
         },
         {
-            "originalIndex": 417,
+            "originalIndex": 418,
             "name": "Congalach C1",
             "passives": [
                 "特殊技能伤害减免：该角色受到的特殊技能伤害降低 -20%。",
@@ -2844,7 +2849,7 @@ const translatedPassivesCN =
             ]
         },
         {
-            "originalIndex": 418,
+            "originalIndex": 419,
             "name": "Craum",
             "passives": [
                 "队伍大师：",
@@ -2855,14 +2860,14 @@ const translatedPassivesCN =
             ]
         },
         {
-            "originalIndex": 419,
+            "originalIndex": 420,
             "name": "Cristobal",
             "passives": [
                 "特殊技能附加状态效果：当该角色施放其特殊技能时，有 50% 的几率为所有敌人施加 -25% 的法力生成，持续 3 回合。如果特殊技能完全充能，则几率为 100%。"
             ]
         },
         {
-            "originalIndex": 420,
+            "originalIndex": 421,
             "name": "Dagr",
             "passives": [
                 "强化抵抗燃烧：该角色天生对燃烧有抵抗能力，并且每次抵抗时获得 450 点生命加成和 5% 的法力。",
@@ -2873,7 +2878,7 @@ const translatedPassivesCN =
             ]
         },
         {
-            "originalIndex": 421,
+            "originalIndex": 422,
             "name": "Daroga",
             "passives": [
                 "抵抗攻击异常：该角色天生对影响攻击力的状态异常有抵抗能力。",
@@ -2881,7 +2886,7 @@ const translatedPassivesCN =
             ]
         },
         {
-            "originalIndex": 422,
+            "originalIndex": 423,
             "name": "Desmond",
             "passives": [
                 "队伍大师：",
@@ -2892,14 +2897,14 @@ const translatedPassivesCN =
             ]
         },
         {
-            "originalIndex": 423,
+            "originalIndex": 424,
             "name": "Dodgrom",
             "passives": [
                 "抵抗特殊技能格挡：该角色天生对格挡特殊技能的状态异常有抵抗能力。"
             ]
         },
         {
-            "originalIndex": 424,
+            "originalIndex": 425,
             "name": "Ecgtheow",
             "passives": [
                 "完美精准度：该角色的特殊技能必定命中目标。",
@@ -2908,24 +2913,24 @@ const translatedPassivesCN =
             ]
         },
         {
-            "originalIndex": 425,
+            "originalIndex": 426,
             "name": "Edwin",
             "passives": [
                 "窃取增益：当该角色施放其特殊技能时，有 50% 的几率从一个带有增益的随机敌人身上窃取最新的可驱散增益。如果没有敌人带有增益，则对所有敌人造成 70% 的伤害。"
             ]
         },
         {
-            "originalIndex": 426,
+            "originalIndex": 427,
             "name": "Eiora & Fluffy",
             "passives": []
         },
         {
-            "originalIndex": 427,
+            "originalIndex": 428,
             "name": "Ekanite",
             "passives": []
         },
         {
-            "originalIndex": 428,
+            "originalIndex": 429,
             "name": "El Naddaha",
             "passives": [
                 "特殊技能效果：当该角色施放其特殊技能时，有 50% 几率执行以下操作：",
@@ -2934,7 +2939,7 @@ const translatedPassivesCN =
             ]
         },
         {
-            "originalIndex": 429,
+            "originalIndex": 430,
             "name": "El Naddaha C1",
             "passives": [
                 "特殊技能效果：当该角色施放其特殊技能时，有 50% 几率执行以下操作：",
@@ -2945,36 +2950,36 @@ const translatedPassivesCN =
             ]
         },
         {
-            "originalIndex": 430,
+            "originalIndex": 431,
             "name": "Elkanen",
             "passives": []
         },
         {
-            "originalIndex": 431,
+            "originalIndex": 432,
             "name": "Elkanen C1",
             "passives": []
         },
         {
-            "originalIndex": 432,
+            "originalIndex": 433,
             "name": "Elkanen C2",
             "passives": []
         },
         {
-            "originalIndex": 433,
+            "originalIndex": 434,
             "name": "Elkanen Toon",
             "passives": [
                 "卡通：额外 75% 几率抵抗所有状态异常、法力削减和增益驱散。"
             ]
         },
         {
-            "originalIndex": 434,
+            "originalIndex": 435,
             "name": "Elkanen Glass",
             "passives": [
                 "玻璃：额外 60% 几率将状态异常反弹给攻击者。"
             ]
         },
         {
-            "originalIndex": 435,
+            "originalIndex": 436,
             "name": "Elradir",
             "passives": [
                 "抵抗特殊技能格挡：该角色天生对格挡特殊技能的状态异常有抵抗能力。",
@@ -2982,7 +2987,7 @@ const translatedPassivesCN =
             ]
         },
         {
-            "originalIndex": 436,
+            "originalIndex": 437,
             "name": "Elyssa",
             "passives": [
                 "飞行动量：如果该角色拥有任意数量的飞行动量，其将获得：",
@@ -2993,26 +2998,26 @@ const translatedPassivesCN =
             ]
         },
         {
-            "originalIndex": 437,
+            "originalIndex": 438,
             "name": "Enigmo",
             "passives": [
                 "回溯敌方小兵和恶魔：该角色天生能够回溯敌人通过特殊技能召唤的任何小兵或恶魔。敌人召唤的最后一个小兵和恶魔会被回溯，直到施放特殊技能为止。"
             ]
         },
         {
-            "originalIndex": 438,
+            "originalIndex": 439,
             "name": "Evelyn",
             "passives": []
         },
         {
-            "originalIndex": 439,
+            "originalIndex": 440,
             "name": "Evelyn C1",
             "passives": [
                 "特殊技能净化：当该角色施放其特殊技能时，会净化所有队友身上最新的状态异常。"
             ]
         },
         {
-            "originalIndex": 440,
+            "originalIndex": 441,
             "name": "Experience Mimic Nature",
             "passives": [
                 "完美精准度：该角色的特殊技能必定命中目标。",
@@ -3025,7 +3030,7 @@ const translatedPassivesCN =
             ]
         },
         {
-            "originalIndex": 441,
+            "originalIndex": 442,
             "name": "Fafnir",
             "passives": [
                 "强化抵抗冰冻：该角色天生对冰冻有抵抗能力，并且每次抵抗时获得 450 点生命加成和 5% 的法力。",
@@ -3035,7 +3040,7 @@ const translatedPassivesCN =
             ]
         },
         {
-            "originalIndex": 442,
+            "originalIndex": 443,
             "name": "Februus",
             "passives": [
                 "小兵死亡时净化：当该角色拥有的小兵被摧毁时，该角色身上的状态异常会被净化。",
@@ -3043,7 +3048,7 @@ const translatedPassivesCN =
             ]
         },
         {
-            "originalIndex": 443,
+            "originalIndex": 444,
             "name": "Ferrus",
             "passives": [
                 "抵抗特殊技能格挡：该角色天生对格挡特殊技能的状态异常有抵抗能力。",
@@ -3053,7 +3058,7 @@ const translatedPassivesCN =
             ]
         },
         {
-            "originalIndex": 444,
+            "originalIndex": 445,
             "name": "Florenna",
             "passives": [
                 "受到状态异常时获得法力：该角色在受到状态异常或负面效果叠加时获得 5% 的法力。",
@@ -3061,43 +3066,43 @@ const translatedPassivesCN =
             ]
         },
         {
-            "originalIndex": 445,
+            "originalIndex": 446,
             "name": "Foxley",
             "passives": [
                 "降低治疗量：所有敌人获得的治疗量降低 -50%。"
             ]
         },
         {
-            "originalIndex": 446,
+            "originalIndex": 447,
             "name": "Francine",
             "passives": [
                 "窃取增益：当该角色施放其特殊技能时，有 50% 的几率从一个带有增益的随机敌人身上窃取最新的可驱散增益。如果没有敌人带有增益，则对所有敌人造成 70% 的伤害。"
             ]
         },
         {
-            "originalIndex": 447,
+            "originalIndex": 448,
             "name": "Francine C1",
             "passives": [
                 "窃取增益：当该角色施放其特殊技能时，有 50% 的几率从一个带有增益的随机敌人身上窃取最新的可驱散增益。如果没有敌人带有增益，则对所有敌人造成 70% 的伤害。"
             ]
         },
         {
-            "originalIndex": 448,
+            "originalIndex": 449,
             "name": "Frigg",
             "passives": []
         },
         {
-            "originalIndex": 449,
+            "originalIndex": 450,
             "name": "Frigg C1",
             "passives": []
         },
         {
-            "originalIndex": 450,
+            "originalIndex": 451,
             "name": "Frog Prince",
             "passives": []
         },
         {
-            "originalIndex": 451,
+            "originalIndex": 452,
             "name": "Frond",
             "passives": [
                 "抵抗特殊技能格挡：该角色天生对格挡特殊技能的状态异常有抵抗能力。",
@@ -3107,7 +3112,7 @@ const translatedPassivesCN =
             ]
         },
         {
-            "originalIndex": 452,
+            "originalIndex": 453,
             "name": "Fungustine",
             "passives": [
                 "被击败时召唤史莱姆小兵：当该角色被击败时，为附近的盟友召唤继承其 50% 生命值和 40% 攻击力的史莱姆巨大体型小兵。",
@@ -3115,7 +3120,7 @@ const translatedPassivesCN =
             ]
         },
         {
-            "originalIndex": 453,
+            "originalIndex": 454,
             "name": "Galapago",
             "passives": [
                 "特殊技能效果：当该角色施放其特殊技能时，有 50% 几率执行以下操作：",
@@ -3125,7 +3130,7 @@ const translatedPassivesCN =
             ]
         },
         {
-            "originalIndex": 454,
+            "originalIndex": 455,
             "name": "Galapago C1",
             "passives": [
                 "特殊技能效果：当该角色施放其特殊技能时，有 50% 几率执行以下操作：",
@@ -3135,14 +3140,14 @@ const translatedPassivesCN =
             ]
         },
         {
-            "originalIndex": 455,
+            "originalIndex": 456,
             "name": "Garjammal",
             "passives": [
                 "减少异常持续时间：该角色从特殊技能中收到的前 3 个状态异常的持续时间减少 1 回合。"
             ]
         },
         {
-            "originalIndex": 456,
+            "originalIndex": 457,
             "name": "Garjammal C1",
             "passives": [
                 "减少异常持续时间：该角色从特殊技能中收到的前 3 个状态异常的持续时间减少 1 回合。",
@@ -3150,14 +3155,14 @@ const translatedPassivesCN =
             ]
         },
         {
-            "originalIndex": 457,
+            "originalIndex": 458,
             "name": "Garten",
             "passives": [
                 "石像鬼的软化皮肤：每当此石像鬼施放特殊技能时，其软化皮肤会激活。接下来受到的 4 次伤害降低 -90%，并抵抗所有状态异常和法力削减。此效果无法被驱散。"
             ]
         },
         {
-            "originalIndex": 458,
+            "originalIndex": 459,
             "name": "Gelert",
             "passives": [
                 "特殊技能效果：当该角色施放其特殊技能时，有 50% 几率执行以下操作：",
@@ -3166,7 +3171,7 @@ const translatedPassivesCN =
             ]
         },
         {
-            "originalIndex": 459,
+            "originalIndex": 460,
             "name": "Gelert C1",
             "passives": [
                 "特殊技能效果：当该角色施放其特殊技能时，有 50% 几率执行以下操作：",
@@ -3176,12 +3181,12 @@ const translatedPassivesCN =
             ]
         },
         {
-            "originalIndex": 460,
+            "originalIndex": 461,
             "name": "Ginger",
             "passives": []
         },
         {
-            "originalIndex": 461,
+            "originalIndex": 462,
             "name": "Goorian",
             "passives": [
                 "被击败时召唤史莱姆小兵：当该角色被击败时，为附近的盟友召唤继承其 50% 生命值和 40% 攻击力的史莱姆巨大体型小兵。",
@@ -3189,7 +3194,7 @@ const translatedPassivesCN =
             ]
         },
         {
-            "originalIndex": 462,
+            "originalIndex": 463,
             "name": "Grace",
             "passives": [
                 "抵抗燃烧：该角色天生对燃烧有抵抗能力。",
@@ -3197,24 +3202,24 @@ const translatedPassivesCN =
             ]
         },
         {
-            "originalIndex": 463,
+            "originalIndex": 464,
             "name": "Green Knight",
             "passives": []
         },
         {
-            "originalIndex": 464,
+            "originalIndex": 465,
             "name": "Gregorion",
             "passives": []
         },
         {
-            "originalIndex": 465,
+            "originalIndex": 466,
             "name": "Gregorion C1",
             "passives": [
                 "特殊技能驱散：当该角色施放其特殊技能时，会驱散所有敌人身上最新的状态效果增益。"
             ]
         },
         {
-            "originalIndex": 466,
+            "originalIndex": 467,
             "name": "Grendel",
             "passives": [
                 "完美精准度：该角色的特殊技能必定命中目标。",
@@ -3223,19 +3228,19 @@ const translatedPassivesCN =
             ]
         },
         {
-            "originalIndex": 467,
+            "originalIndex": 468,
             "name": "Grovevert",
             "passives": [
                 "闪避特殊技能伤害：该角色有 15% 的几率闪避造成伤害的特殊技能。"
             ]
         },
         {
-            "originalIndex": 468,
+            "originalIndex": 469,
             "name": "Guan Yu",
             "passives": []
         },
         {
-            "originalIndex": 469,
+            "originalIndex": 470,
             "name": "Guan Yu C1",
             "passives": [
                 "无法阻止的小兵：",
@@ -3245,12 +3250,12 @@ const translatedPassivesCN =
             ]
         },
         {
-            "originalIndex": 470,
+            "originalIndex": 471,
             "name": "Guardian Chameleon",
             "passives": []
         },
         {
-            "originalIndex": 471,
+            "originalIndex": 472,
             "name": "Hammertusk",
             "passives": [
                 "特殊技能伤害减免：该角色有 10% 的几率将受到的特殊技能直接伤害降至 1 点。",
@@ -3258,7 +3263,7 @@ const translatedPassivesCN =
             ]
         },
         {
-            "originalIndex": 472,
+            "originalIndex": 473,
             "name": "Haulstone",
             "passives": [
                 "抵抗特殊技能格挡：该角色天生对格挡特殊技能的状态异常有抵抗能力。",
@@ -3268,87 +3273,87 @@ const translatedPassivesCN =
             ]
         },
         {
-            "originalIndex": 473,
+            "originalIndex": 474,
             "name": "Heimdall",
             "passives": []
         },
         {
-            "originalIndex": 474,
+            "originalIndex": 475,
             "name": "Heimdall C1",
             "passives": []
         },
         {
-            "originalIndex": 475,
+            "originalIndex": 476,
             "name": "Horghall",
             "passives": []
         },
         {
-            "originalIndex": 476,
+            "originalIndex": 477,
             "name": "Horghall C1",
             "passives": []
         },
         {
-            "originalIndex": 477,
+            "originalIndex": 478,
             "name": "Horghall C2",
             "passives": []
         },
         {
-            "originalIndex": 478,
+            "originalIndex": 479,
             "name": "Horghall Toon",
             "passives": [
                 "卡通：额外 75% 几率抵抗所有状态异常、法力削减和增益驱散。"
             ]
         },
         {
-            "originalIndex": 479,
+            "originalIndex": 480,
             "name": "Humbert",
             "passives": [
                 "受到增益时恢复生命：该角色在获得增益或正面效果叠加时恢复 5% 的生命值。"
             ]
         },
         {
-            "originalIndex": 480,
+            "originalIndex": 481,
             "name": "Iku-Turso",
             "passives": [
                 "西苏之力：当该角色在战斗中首次以低生命值开始回合时，他们会恢复 15% 的生命值并获得 15% 的法力。"
             ]
         },
         {
-            "originalIndex": 481,
+            "originalIndex": 482,
             "name": "Ito",
             "passives": [
                 "降低小兵生命值：敌方小兵被召唤时继承的生命值减少 -50%。"
             ]
         },
         {
-            "originalIndex": 482,
+            "originalIndex": 483,
             "name": "Jade",
             "passives": []
         },
         {
-            "originalIndex": 483,
+            "originalIndex": 484,
             "name": "Kadilen",
             "passives": []
         },
         {
-            "originalIndex": 484,
+            "originalIndex": 485,
             "name": "Kadilen C1",
             "passives": []
         },
         {
-            "originalIndex": 485,
+            "originalIndex": 486,
             "name": "Kadilen C2",
             "passives": []
         },
         {
-            "originalIndex": 486,
+            "originalIndex": 487,
             "name": "Kadilen Toon",
             "passives": [
                 "卡通：额外 75% 几率抵抗所有状态异常、法力削减和增益驱散。"
             ]
         },
         {
-            "originalIndex": 487,
+            "originalIndex": 488,
             "name": "Kai",
             "passives": [
                 "特殊技能附带持续伤害：当该角色施放其特殊技能时，会给一个随机敌人施加猎人印记。目标在 3 回合内受到 150 点伤害。如果目标已有此效果，则持续时间刷新，伤害增加 150 点，总伤害最高可达 1500 点。",
@@ -3356,14 +3361,14 @@ const translatedPassivesCN =
             ]
         },
         {
-            "originalIndex": 488,
+            "originalIndex": 489,
             "name": "Kingston",
             "passives": [
                 "抵抗燃烧：该角色天生对燃烧有抵抗能力。"
             ]
         },
         {
-            "originalIndex": 489,
+            "originalIndex": 490,
             "name": "Kolya",
             "passives": [
                 "抵抗法力削减：该角色天生对法力削减有抵抗能力。",
@@ -3371,29 +3376,29 @@ const translatedPassivesCN =
             ]
         },
         {
-            "originalIndex": 490,
+            "originalIndex": 491,
             "name": "Lady Locke",
             "passives": []
         },
         {
-            "originalIndex": 491,
+            "originalIndex": 492,
             "name": "Lady Locke C1",
             "passives": [
                 "特殊技能附带剧毒：当该角色施放其特殊技能时，所有敌人会在 4 回合内受到 540 点剧毒伤害。"
             ]
         },
         {
-            "originalIndex": 492,
+            "originalIndex": 493,
             "name": "Lady of the Lake",
             "passives": []
         },
         {
-            "originalIndex": 493,
+            "originalIndex": 494,
             "name": "Lady of the Lake C1",
             "passives": []
         },
         {
-            "originalIndex": 494,
+            "originalIndex": 495,
             "name": "Leadria",
             "passives": [
                 "抵抗最大生命值削减：该角色天生对最大生命值削减有抵抗能力。",
@@ -3401,7 +3406,7 @@ const translatedPassivesCN =
             ]
         },
         {
-            "originalIndex": 495,
+            "originalIndex": 496,
             "name": "Leafwhisk",
             "passives": [
                 "特殊技能效果：当该角色施放其特殊技能时，有 50% 几率执行以下操作。",
@@ -3410,7 +3415,7 @@ const translatedPassivesCN =
             ]
         },
         {
-            "originalIndex": 496,
+            "originalIndex": 497,
             "name": "Leonie",
             "passives": [
                 "九条命：",
@@ -3425,48 +3430,48 @@ const translatedPassivesCN =
             ]
         },
         {
-            "originalIndex": 497,
+            "originalIndex": 498,
             "name": "Lianna",
             "passives": []
         },
         {
-            "originalIndex": 498,
+            "originalIndex": 499,
             "name": "Lianna C1",
             "passives": []
         },
         {
-            "originalIndex": 499,
+            "originalIndex": 500,
             "name": "Lianna C2",
             "passives": []
         },
         {
-            "originalIndex": 500,
+            "originalIndex": 501,
             "name": "Lianna Toon",
             "passives": [
                 "卡通：额外 75% 几率抵抗所有状态异常、法力削减和增益驱散。"
             ]
         },
         {
-            "originalIndex": 501,
+            "originalIndex": 502,
             "name": "Lianna Glass",
             "passives": [
                 "玻璃：额外 60% 几率将状态异常反弹给攻击者。"
             ]
         },
         {
-            "originalIndex": 502,
+            "originalIndex": 503,
             "name": "Limeboire",
             "passives": [
                 "闪避特殊技能伤害：该角色有 15% 的几率闪避造成伤害的特殊技能。"
             ]
         },
         {
-            "originalIndex": 503,
+            "originalIndex": 504,
             "name": "Liu Bei",
             "passives": []
         },
         {
-            "originalIndex": 504,
+            "originalIndex": 505,
             "name": "Liu Bei C1",
             "passives": [
                 "无法阻止的小兵：",
@@ -3476,14 +3481,14 @@ const translatedPassivesCN =
             ]
         },
         {
-            "originalIndex": 505,
+            "originalIndex": 506,
             "name": "Lughaidh",
             "passives": [
                 "特殊技能伤害减免：该角色受到的特殊技能伤害降低 -20%。"
             ]
         },
         {
-            "originalIndex": 506,
+            "originalIndex": 507,
             "name": "Lughaidh C1",
             "passives": [
                 "特殊技能伤害减免：该角色受到的特殊技能伤害降低 -20%。",
@@ -3491,7 +3496,7 @@ const translatedPassivesCN =
             ]
         },
         {
-            "originalIndex": 507,
+            "originalIndex": 508,
             "name": "Ma'at",
             "passives": [
                 "特殊技能效果：当该角色施放其特殊技能时，有 50% 几率执行以下操作：",
@@ -3500,7 +3505,7 @@ const translatedPassivesCN =
             ]
         },
         {
-            "originalIndex": 508,
+            "originalIndex": 509,
             "name": "Ma'at C1",
             "passives": [
                 "特殊技能效果：当该角色施放其特殊技能时，有 50% 几率执行以下操作：",
@@ -3511,7 +3516,7 @@ const translatedPassivesCN =
             ]
         },
         {
-            "originalIndex": 509,
+            "originalIndex": 510,
             "name": "Maegwyn",
             "passives": [
                 "特殊技能摧毁恶魔：当该角色施放其特殊技能时，其身上的所有恶魔都会被摧毁。",
@@ -3520,14 +3525,14 @@ const translatedPassivesCN =
             ]
         },
         {
-            "originalIndex": 510,
+            "originalIndex": 511,
             "name": "Margaret",
             "passives": [
                 "抵抗驱散：该角色天生对增益驱散有抵抗能力。"
             ]
         },
         {
-            "originalIndex": 511,
+            "originalIndex": 512,
             "name": "Max",
             "passives": [
                 "萌宠之怒：当恶魔被召唤到任何敌人身上时，该角色对所有敌人造成 85% 的伤害。此效果每回合只能激活一次。",
@@ -3535,7 +3540,7 @@ const translatedPassivesCN =
             ]
         },
         {
-            "originalIndex": 512,
+            "originalIndex": 513,
             "name": "Mazoga",
             "passives": [
                 "抵抗水系伤害：该角色天生对水系伤害有抵抗能力。",
@@ -3543,14 +3548,14 @@ const translatedPassivesCN =
             ]
         },
         {
-            "originalIndex": 513,
+            "originalIndex": 514,
             "name": "Mena",
             "passives": [
                 "石像鬼的软化皮肤：每当此石像鬼施放特殊技能时，其软化皮肤会激活。接下来受到的 3 次伤害降低 -90%，并抵抗所有状态异常和法力削减。此效果无法被驱散。"
             ]
         },
         {
-            "originalIndex": 514,
+            "originalIndex": 515,
             "name": "Mistweaver",
             "passives": [
                 "特殊技能附带持续伤害：当该角色施放其特殊技能时，会给一个随机敌人施加猎人印记。目标在 3 回合内受到 150 点伤害。如果目标已有此效果，则持续时间刷新，伤害增加 150 点，总伤害最高可达 1500 点。",
@@ -3558,7 +3563,7 @@ const translatedPassivesCN =
             ]
         },
         {
-            "originalIndex": 515,
+            "originalIndex": 516,
             "name": "Moonflower",
             "passives": [
                 "抵抗剧毒：该角色天生对剧毒有抵抗能力。",
@@ -3566,22 +3571,22 @@ const translatedPassivesCN =
             ]
         },
         {
-            "originalIndex": 516,
+            "originalIndex": 517,
             "name": "Morgan Le Fay",
             "passives": []
         },
         {
-            "originalIndex": 517,
+            "originalIndex": 518,
             "name": "Mother North",
             "passives": []
         },
         {
-            "originalIndex": 518,
+            "originalIndex": 519,
             "name": "Mother North C1",
             "passives": []
         },
         {
-            "originalIndex": 519,
+            "originalIndex": 520,
             "name": "Mucktus",
             "passives": [
                 "被击败时召唤史莱姆小兵：当该角色被击败时，为附近的盟友召唤继承其 50% 生命值和 40% 攻击力的史莱姆巨大体型小兵。",
@@ -3589,12 +3594,12 @@ const translatedPassivesCN =
             ]
         },
         {
-            "originalIndex": 520,
+            "originalIndex": 521,
             "name": "Myoin-ni",
             "passives": []
         },
         {
-            "originalIndex": 521,
+            "originalIndex": 522,
             "name": "Mystia",
             "passives": [
                 "抵抗特殊技能格挡：该角色天生对格挡特殊技能的状态异常有抵抗能力。",
@@ -3602,7 +3607,7 @@ const translatedPassivesCN =
             ]
         },
         {
-            "originalIndex": 522,
+            "originalIndex": 523,
             "name": "Nogu",
             "passives": [
                 "受到状态异常时获得法力增益：持有此技能的角色在受到任何状态异常或负面效果叠加时，获得 +24% 的法力生成，持续 3 回合。",
@@ -3611,7 +3616,7 @@ const translatedPassivesCN =
             ]
         },
         {
-            "originalIndex": 523,
+            "originalIndex": 524,
             "name": "Ott",
             "passives": [
                 "强化抵抗燃烧：该角色天生对燃烧有抵抗能力，并且每次抵抗时获得 450 点生命加成和 5% 的法力。",
@@ -3622,12 +3627,12 @@ const translatedPassivesCN =
             ]
         },
         {
-            "originalIndex": 524,
+            "originalIndex": 525,
             "name": "Penelope",
             "passives": []
         },
         {
-            "originalIndex": 525,
+            "originalIndex": 526,
             "name": "Peregrine",
             "passives": [
                 "致盲小兵：所有敌方小兵拥有 -60% 精准度。所有敌方超级小兵拥有 -50% 精准度。",
@@ -3636,19 +3641,19 @@ const translatedPassivesCN =
             ]
         },
         {
-            "originalIndex": 526,
+            "originalIndex": 527,
             "name": "Peridot",
             "passives": []
         },
         {
-            "originalIndex": 527,
+            "originalIndex": 528,
             "name": "Phileas Fogg",
             "passives": [
                 "特殊技能伤害减免：该角色受到的特殊技能伤害降低 -20%。"
             ]
         },
         {
-            "originalIndex": 528,
+            "originalIndex": 529,
             "name": "Phileas Fogg C1",
             "passives": [
                 "特殊技能伤害减免：该角色受到的特殊技能伤害降低 -20%。",
@@ -3656,7 +3661,7 @@ const translatedPassivesCN =
             ]
         },
         {
-            "originalIndex": 529,
+            "originalIndex": 530,
             "name": "Pip",
             "passives": [
                 "抵抗法力削减：该角色天生对法力削减有抵抗能力。",
@@ -3664,7 +3669,7 @@ const translatedPassivesCN =
             ]
         },
         {
-            "originalIndex": 530,
+            "originalIndex": 531,
             "name": "Prince Siegfried",
             "passives": [
                 "抵抗防御异常：该角色天生对影响防御的状态异常有抵抗能力。不适用于影响元素防御的状态异常。",
@@ -3672,26 +3677,26 @@ const translatedPassivesCN =
             ]
         },
         {
-            "originalIndex": 531,
+            "originalIndex": 532,
             "name": "Qinglong",
             "passives": [
                 "禁用小兵技能：所有敌方小兵的攻击和技能都被禁用。"
             ]
         },
         {
-            "originalIndex": 532,
+            "originalIndex": 533,
             "name": "Queen Anne",
             "passives": [
                 "特殊技能造成伤害：当该角色受到特殊技能伤害或替处于掩护状态的角色承受伤害时，有 60% 的几率对所有敌人造成所受伤害 20% 的伤害。"
             ]
         },
         {
-            "originalIndex": 533,
+            "originalIndex": 534,
             "name": "Quenell",
             "passives": []
         },
         {
-            "originalIndex": 534,
+            "originalIndex": 535,
             "name": "Quenell C1",
             "passives": [
                 "能力：延长状态效果持续时间。有机会延长所施放状态效果的持续时间。",
@@ -3700,24 +3705,24 @@ const translatedPassivesCN =
             ]
         },
         {
-            "originalIndex": 535,
+            "originalIndex": 536,
             "name": "Ratatoskr",
             "passives": []
         },
         {
-            "originalIndex": 536,
+            "originalIndex": 537,
             "name": "Ratatoskr C1",
             "passives": []
         },
         {
-            "originalIndex": 537,
+            "originalIndex": 538,
             "name": "Relius",
             "passives": [
                 "降低通过特殊技能获得的法力：通过特殊技能增加的法力值降低 -80%。此效果对战场上的所有敌人生效。"
             ]
         },
         {
-            "originalIndex": 538,
+            "originalIndex": 539,
             "name": "Rhineglow",
             "passives": [
                 "抵抗特殊技能格挡：该角色天生对格挡特殊技能的状态异常有抵抗能力。",
@@ -3727,7 +3732,7 @@ const translatedPassivesCN =
             ]
         },
         {
-            "originalIndex": 539,
+            "originalIndex": 540,
             "name": "Roz",
             "passives": [
                 "队伍大师：",
@@ -3738,12 +3743,12 @@ const translatedPassivesCN =
             ]
         },
         {
-            "originalIndex": 540,
+            "originalIndex": 541,
             "name": "Sadie",
             "passives": []
         },
         {
-            "originalIndex": 541,
+            "originalIndex": 542,
             "name": "Sha Wujing",
             "passives": [
                 "受到增益时获得法力：该角色在获得增益或正面效果叠加时，有 50% 的几率获得 10% 的法力。",
@@ -3751,7 +3756,7 @@ const translatedPassivesCN =
             ]
         },
         {
-            "originalIndex": 542,
+            "originalIndex": 543,
             "name": "Silvaria",
             "passives": [
                 "抵抗小兵移除：该角色天生对小兵移除有抵抗能力。",
@@ -3759,7 +3764,7 @@ const translatedPassivesCN =
             ]
         },
         {
-            "originalIndex": 543,
+            "originalIndex": 544,
             "name": "Smarttongue",
             "passives": [
                 "特殊技能效果：当该角色施放其特殊技能时，有 50% 几率执行以下操作。",
@@ -3768,7 +3773,7 @@ const translatedPassivesCN =
             ]
         },
         {
-            "originalIndex": 544,
+            "originalIndex": 545,
             "name": "Snowball",
             "passives": [
                 "萌宠之怒：当恶魔被召唤到任何敌人身上时，该角色对所有敌人造成 85% 的伤害。此效果每回合只能激活一次。",
@@ -3776,7 +3781,7 @@ const translatedPassivesCN =
             ]
         },
         {
-            "originalIndex": 545,
+            "originalIndex": 546,
             "name": "Spartoi",
             "passives": [
                 "特殊技能效果：",
@@ -3786,7 +3791,7 @@ const translatedPassivesCN =
             ]
         },
         {
-            "originalIndex": 546,
+            "originalIndex": 547,
             "name": "Spartoi C1",
             "passives": [
                 "特殊技能效果：",
@@ -3797,14 +3802,14 @@ const translatedPassivesCN =
             ]
         },
         {
-            "originalIndex": 547,
+            "originalIndex": 548,
             "name": "Spiff",
             "passives": [
                 "降低治疗量：所有敌人获得的治疗量降低 -50%。"
             ]
         },
         {
-            "originalIndex": 548,
+            "originalIndex": 549,
             "name": "Staintongue",
             "passives": [
                 "猎手感知：当该角色施放其特殊技能时，有 100% 的几率将自身最新的状态异常转移给目标。如果其特殊技能无法选择敌方目标，则会随机转移至一名敌人。若此角色没有状态异常，则恢复自身 12% 的生命。",
@@ -3812,7 +3817,7 @@ const translatedPassivesCN =
             ]
         },
         {
-            "originalIndex": 549,
+            "originalIndex": 550,
             "name": "Starlass",
             "passives": [
                 "抵抗剧毒：该角色天生对剧毒有抵抗能力。",
@@ -3820,7 +3825,7 @@ const translatedPassivesCN =
             ]
         },
         {
-            "originalIndex": 550,
+            "originalIndex": 551,
             "name": "Sune",
             "passives": [
                 "特殊技能伤害减免：该角色有 10% 的几率将受到的特殊技能直接伤害降至 1 点。",
@@ -3828,36 +3833,36 @@ const translatedPassivesCN =
             ]
         },
         {
-            "originalIndex": 551,
+            "originalIndex": 552,
             "name": "Tametomo",
             "passives": []
         },
         {
-            "originalIndex": 552,
+            "originalIndex": 553,
             "name": "Tarlak",
             "passives": []
         },
         {
-            "originalIndex": 553,
+            "originalIndex": 554,
             "name": "Tarlak C1",
             "passives": []
         },
         {
-            "originalIndex": 554,
+            "originalIndex": 555,
             "name": "Teddy",
             "passives": [
                 "受到增益时恢复生命：该角色在获得增益或正面效果叠加时恢复 5% 的生命值。"
             ]
         },
         {
-            "originalIndex": 555,
+            "originalIndex": 556,
             "name": "Telluria",
             "passives": [
                 "抵抗小兵移除：该英雄天生对小兵移除有抵抗能力。"
             ]
         },
         {
-            "originalIndex": 556,
+            "originalIndex": 557,
             "name": "Telonius",
             "passives": [
                 "特殊技能造成伤害：当该角色施放其特殊技能时，有 50% 的几率对所有敌人造成 100% 的伤害。如果特殊技能完全充能，则几率为 100%。",
@@ -3865,19 +3870,19 @@ const translatedPassivesCN =
             ]
         },
         {
-            "originalIndex": 557,
+            "originalIndex": 558,
             "name": "The Hatter",
             "passives": []
         },
         {
-            "originalIndex": 558,
+            "originalIndex": 559,
             "name": "The Hatter C1",
             "passives": [
                 "特殊技能附带莽夫乱拳：当该角色施放其特殊技能时，有 50% 的几率对一个随机敌人施加莽夫乱拳，持续 3 回合。"
             ]
         },
         {
-            "originalIndex": 559,
+            "originalIndex": 560,
             "name": "Theodosius",
             "passives": [
                 "受到状态异常时获得法力：该角色在受到状态异常或负面效果叠加时获得 5% 的法力。",
@@ -3886,33 +3891,33 @@ const translatedPassivesCN =
             ]
         },
         {
-            "originalIndex": 560,
+            "originalIndex": 561,
             "name": "Toxicandra",
             "passives": []
         },
         {
-            "originalIndex": 561,
+            "originalIndex": 562,
             "name": "Toxicandra C1",
             "passives": [
                 "特殊技能附带诅咒：当该角色施放其特殊技能时，所有敌人受到 461 点诅咒伤害，持续 4 回合，伤害逐回合递增。"
             ]
         },
         {
-            "originalIndex": 562,
+            "originalIndex": 563,
             "name": "Vainamoinen",
             "passives": [
                 "西苏之力：当该角色在战斗中首次以低生命值开始回合时，他们会恢复 15% 的生命值并获得 15% 的法力。"
             ]
         },
         {
-            "originalIndex": 563,
+            "originalIndex": 564,
             "name": "Vainamoinen C1",
             "passives": [
                 "西苏之力：当该角色在战斗中首次以低生命值开始回合时，他们会恢复 15% 的生命值并获得 15% 的法力。"
             ]
         },
         {
-            "originalIndex": 564,
+            "originalIndex": 565,
             "name": "Verdigoo",
             "passives": [
                 "被击败时召唤史莱姆小兵：当该角色被击败时，为附近的盟友召唤继承其 50% 生命值和 40% 攻击力的史莱姆巨大体型小兵。",
@@ -3920,14 +3925,14 @@ const translatedPassivesCN =
             ]
         },
         {
-            "originalIndex": 565,
+            "originalIndex": 566,
             "name": "Verus",
             "passives": [
                 "降低通过特殊技能获得的法力：通过特殊技能增加的法力值降低 -80%。此效果对战场上的所有敌人生效。"
             ]
         },
         {
-            "originalIndex": 566,
+            "originalIndex": 567,
             "name": "Viselus",
             "passives": [
                 "抵抗剧毒：该角色天生对剧毒有抵抗能力。",
@@ -3935,14 +3940,14 @@ const translatedPassivesCN =
             ]
         },
         {
-            "originalIndex": 567,
+            "originalIndex": 568,
             "name": "Winifred",
             "passives": [
                 "防御异常削减：将影响防御的异常状态效果降低 80%。此效果适用于该角色及其在战场上的所有盟友。"
             ]
         },
         {
-            "originalIndex": 568,
+            "originalIndex": 569,
             "name": "Xandrella",
             "passives": [
                 "队伍大师：",
@@ -3953,57 +3958,57 @@ const translatedPassivesCN =
             ]
         },
         {
-            "originalIndex": 569,
+            "originalIndex": 570,
             "name": "Xiamara",
             "passives": [
                 "受到增益时恢复生命：该角色在获得增益或正面效果叠加时恢复 5% 的生命值。"
             ]
         },
         {
-            "originalIndex": 570,
+            "originalIndex": 571,
             "name": "Xiaoqing",
             "passives": [
                 "禁用小兵技能：所有敌方小兵的攻击和技能都被禁用。"
             ]
         },
         {
-            "originalIndex": 571,
+            "originalIndex": 572,
             "name": "Yunan",
             "passives": []
         },
         {
-            "originalIndex": 572,
+            "originalIndex": 573,
             "name": "Yunan C1",
             "passives": []
         },
         {
-            "originalIndex": 573,
+            "originalIndex": 574,
             "name": "Zavinia",
             "passives": [
                 "古神的标记：该角色每拥有 5% 点狂乱，受到的所有伤害便降低 10，最多可降低 50%。"
             ]
         },
         {
-            "originalIndex": 574,
+            "originalIndex": 575,
             "name": "Zeline",
             "passives": []
         },
         {
-            "originalIndex": 575,
+            "originalIndex": 576,
             "name": "Zeline C1",
             "passives": [
                 "特殊技能净化：当该角色施放其特殊技能时，会净化所有队友身上最新的状态异常。"
             ]
         },
         {
-            "originalIndex": 576,
+            "originalIndex": 577,
             "name": "Zocc",
             "passives": [
                 "抵抗水系伤害：该角色天生对水系伤害有抵抗能力。"
             ]
         },
         {
-            "originalIndex": 577,
+            "originalIndex": 578,
             "name": "Zuni",
             "passives": [
                 "队伍大师：",
@@ -4014,42 +4019,42 @@ const translatedPassivesCN =
             ]
         },
         {
-            "originalIndex": 578,
+            "originalIndex": 579,
             "name": "Fletcher",
             "passives": []
         },
         {
-            "originalIndex": 579,
+            "originalIndex": 580,
             "name": "Nightshade",
             "passives": []
         },
         {
-            "originalIndex": 580,
+            "originalIndex": 581,
             "name": "Julius",
             "passives": []
         },
         {
-            "originalIndex": 581,
+            "originalIndex": 582,
             "name": "Layla",
             "passives": []
         },
         {
-            "originalIndex": 582,
+            "originalIndex": 583,
             "name": "Silthus",
             "passives": []
         },
         {
-            "originalIndex": 583,
+            "originalIndex": 584,
             "name": "Aderyn",
             "passives": []
         },
         {
-            "originalIndex": 584,
+            "originalIndex": 585,
             "name": "An-Windr",
             "passives": []
         },
         {
-            "originalIndex": 585,
+            "originalIndex": 586,
             "name": "Aqeela",
             "passives": [
                 "特殊技能效果：当该角色施放其特殊技能时，有 50% 几率执行以下操作：",
@@ -4058,7 +4063,7 @@ const translatedPassivesCN =
             ]
         },
         {
-            "originalIndex": 586,
+            "originalIndex": 587,
             "name": "Aqeela C1",
             "passives": [
                 "特殊技能效果：当该角色施放其特殊技能时，有 50% 几率执行以下操作：",
@@ -4069,75 +4074,75 @@ const translatedPassivesCN =
             ]
         },
         {
-            "originalIndex": 587,
+            "originalIndex": 588,
             "name": "Balthazar",
             "passives": []
         },
         {
-            "originalIndex": 588,
+            "originalIndex": 589,
             "name": "Balthazar C1",
             "passives": []
         },
         {
-            "originalIndex": 589,
+            "originalIndex": 590,
             "name": "Balthazar Toon",
             "passives": [
                 "卡通：额外 75% 几率抵抗所有状态异常、法力削减和增益驱散。"
             ]
         },
         {
-            "originalIndex": 590,
+            "originalIndex": 591,
             "name": "Balthazar Glass",
             "passives": [
                 "玻璃：额外 60% 几率将状态异常反弹给攻击者。"
             ]
         },
         {
-            "originalIndex": 591,
+            "originalIndex": 592,
             "name": "Betty",
             "passives": [
                 "石像鬼的软化皮肤：每当此石像鬼施放特殊技能时，其软化皮肤会激活。接下来受到的 4 次伤害降低 -90%，并抵抗所有状态异常和法力削减。此效果无法被驱散。"
             ]
         },
         {
-            "originalIndex": 592,
+            "originalIndex": 593,
             "name": "Bjorn",
             "passives": []
         },
         {
-            "originalIndex": 593,
+            "originalIndex": 594,
             "name": "Bjorn C1",
             "passives": []
         },
         {
-            "originalIndex": 594,
+            "originalIndex": 595,
             "name": "Budatin",
             "passives": [
                 "石像鬼之肤：每当此石像鬼施放特殊技能时，其石肤会变硬。接下来受到的 4 次伤害将降至 1 点。此效果无法被驱散。"
             ]
         },
         {
-            "originalIndex": 595,
+            "originalIndex": 596,
             "name": "Chochin",
             "passives": []
         },
         {
-            "originalIndex": 596,
+            "originalIndex": 597,
             "name": "Edd",
             "passives": []
         },
         {
-            "originalIndex": 597,
+            "originalIndex": 598,
             "name": "Gill-Ra",
             "passives": []
         },
         {
-            "originalIndex": 598,
+            "originalIndex": 599,
             "name": "Gill-Ra C1",
             "passives": []
         },
         {
-            "originalIndex": 599,
+            "originalIndex": 600,
             "name": "Greel",
             "passives": [
                 "猎手感知：当该角色施放其特殊技能时，有 100% 的几率将自身最新的状态异常转移给目标。如果其特殊技能无法选择敌方目标，则会随机转移至一名敌人。若此角色没有状态异常，则恢复自身 12% 的生命。",
@@ -4145,132 +4150,132 @@ const translatedPassivesCN =
             ]
         },
         {
-            "originalIndex": 600,
+            "originalIndex": 601,
             "name": "Guardian Bat",
             "passives": []
         },
         {
-            "originalIndex": 601,
+            "originalIndex": 602,
             "name": "Jack",
             "passives": [
                 "窃取增益：当该角色施放其特殊技能时，有 50% 的几率从一个带有增益的随机敌人身上窃取最新的可驱散增益。如果没有敌人带有增益，则对所有敌人造成 70% 的伤害。"
             ]
         },
         {
-            "originalIndex": 602,
+            "originalIndex": 603,
             "name": "Maeve",
             "passives": [
                 "抵抗状态效果伤害：该角色天生对来自状态效果的伤害有抵抗能力。"
             ]
         },
         {
-            "originalIndex": 603,
+            "originalIndex": 604,
             "name": "Morganite",
             "passives": []
         },
         {
-            "originalIndex": 604,
+            "originalIndex": 605,
             "name": "Morris",
             "passives": [
                 "减少异常持续时间：该角色从特殊技能中收到的前 3 个状态异常的持续时间减少 1 回合。"
             ]
         },
         {
-            "originalIndex": 605,
+            "originalIndex": 606,
             "name": "Morris C1",
             "passives": [
                 "减少异常持续时间：该角色从特殊技能中收到的前 3 个状态异常的持续时间减少 1 回合。"
             ]
         },
         {
-            "originalIndex": 606,
+            "originalIndex": 607,
             "name": "Oberon",
             "passives": []
         },
         {
-            "originalIndex": 607,
+            "originalIndex": 608,
             "name": "Oberon C1",
             "passives": []
         },
         {
-            "originalIndex": 608,
+            "originalIndex": 609,
             "name": "Oberon Toon",
             "passives": [
                 "卡通：额外 75% 几率抵抗所有状态异常、法力削减和增益驱散。"
             ]
         },
         {
-            "originalIndex": 609,
+            "originalIndex": 610,
             "name": "Para",
             "passives": [
                 "当该角色在战斗中首次以低生命值开始回合时，他们会恢复 15% 的生命值并获得 15% 的法力。"
             ]
         },
         {
-            "originalIndex": 610,
+            "originalIndex": 611,
             "name": "Prisca",
             "passives": []
         },
         {
-            "originalIndex": 611,
+            "originalIndex": 612,
             "name": "Prisca C1",
             "passives": []
         },
         {
-            "originalIndex": 612,
+            "originalIndex": 613,
             "name": "Prisca Toon",
             "passives": [
                 "卡通：额外 75% 几率抵抗所有状态异常、法力削减和增益驱散。"
             ]
         },
         {
-            "originalIndex": 613,
+            "originalIndex": 614,
             "name": "Prisca Glass",
             "passives": [
                 "玻璃：额外 60% 几率将状态异常反弹给攻击者。"
             ]
         },
         {
-            "originalIndex": 614,
+            "originalIndex": 615,
             "name": "Renfeld",
             "passives": []
         },
         {
-            "originalIndex": 615,
+            "originalIndex": 616,
             "name": "Renfeld C1",
             "passives": []
         },
         {
-            "originalIndex": 616,
+            "originalIndex": 617,
             "name": "Renfeld Toon",
             "passives": [
                 "卡通：额外 75% 几率抵抗所有状态异常、法力削减和增益驱散。"
             ]
         },
         {
-            "originalIndex": 617,
+            "originalIndex": 618,
             "name": "Treevil",
             "passives": []
         },
         {
-            "originalIndex": 618,
+            "originalIndex": 619,
             "name": "Tyrum",
             "passives": []
         },
         {
-            "originalIndex": 619,
+            "originalIndex": 620,
             "name": "Tyrum C1",
             "passives": []
         },
         {
-            "originalIndex": 620,
+            "originalIndex": 621,
             "name": "Tyrum Toon",
             "passives": [
                 "卡通：额外 75% 几率抵抗所有状态异常、法力削减和增益驱散。"
             ]
         },
         {
-            "originalIndex": 621,
+            "originalIndex": 622,
             "name": "Unferth",
             "passives": [
                 "强化抵抗法力削减：该角色天生对法力削减有抵抗能力。每次抵抗时还会获得 600 点生命加成和 10% 的法力。",
@@ -4278,14 +4283,14 @@ const translatedPassivesCN =
             ]
         },
         {
-            "originalIndex": 622,
+            "originalIndex": 623,
             "name": "Vlad",
             "passives": [
                 "窃取增益：当该角色施放其特殊技能时，有 50% 的几率从一个带有增益的随机敌人身上窃取最新的可驱散增益。如果没有敌人带有增益，则对所有敌人造成 70% 的伤害。"
             ]
         },
         {
-            "originalIndex": 623,
+            "originalIndex": 624,
             "name": "Ahhotep",
             "passives": [
                 "特殊技能效果：当该角色施放其特殊技能时，有 60% 几率执行以下操作：",
@@ -4294,7 +4299,7 @@ const translatedPassivesCN =
             ]
         },
         {
-            "originalIndex": 624,
+            "originalIndex": 625,
             "name": "Ahhotep C1",
             "passives": [
                 "特殊技能效果：当该角色施放其特殊技能时，有 60% 几率执行以下操作：",
@@ -4305,29 +4310,29 @@ const translatedPassivesCN =
             ]
         },
         {
-            "originalIndex": 625,
+            "originalIndex": 626,
             "name": "Ameonna",
             "passives": []
         },
         {
-            "originalIndex": 626,
+            "originalIndex": 627,
             "name": "Ameonna C1",
             "passives": []
         },
         {
-            "originalIndex": 627,
+            "originalIndex": 628,
             "name": "Ametrine",
             "passives": []
         },
         {
-            "originalIndex": 628,
+            "originalIndex": 629,
             "name": "Ana-Belle",
             "passives": [
                 "窃取增益 - 当该角色施放其特殊技能时，有 50% 的几率从一个带有增益的随机敌人身上窃取最新的可驱散增益。如果没有敌人带有增益，则对所有敌人造成 70% 的伤害。"
             ]
         },
         {
-            "originalIndex": 629,
+            "originalIndex": 630,
             "name": "Arges",
             "passives": [
                 "降低小兵生命值：敌方小兵被召唤时继承的生命值减少 -50%。",
@@ -4335,22 +4340,22 @@ const translatedPassivesCN =
             ]
         },
         {
-            "originalIndex": 630,
+            "originalIndex": 631,
             "name": "Boomer",
             "passives": []
         },
         {
-            "originalIndex": 631,
+            "originalIndex": 632,
             "name": "Cheshire Cat",
             "passives": []
         },
         {
-            "originalIndex": 632,
+            "originalIndex": 633,
             "name": "Cheshire Cat C1",
             "passives": []
         },
         {
-            "originalIndex": 633,
+            "originalIndex": 634,
             "name": "Cupcake",
             "passives": [
                 "当一个盟友召唤小兵时，该角色获得 5% 的生命值和 5% 的法力。此效果每回合只能激活一次。",
@@ -4358,99 +4363,99 @@ const translatedPassivesCN =
             ]
         },
         {
-            "originalIndex": 634,
+            "originalIndex": 635,
             "name": "Cyprian",
             "passives": []
         },
         {
-            "originalIndex": 635,
+            "originalIndex": 636,
             "name": "Cyprian C1",
             "passives": []
         },
         {
-            "originalIndex": 636,
+            "originalIndex": 637,
             "name": "Cyprian C2",
             "passives": []
         },
         {
-            "originalIndex": 637,
+            "originalIndex": 638,
             "name": "Cyprian Toon",
             "passives": [
                 "卡通：额外 75% 几率抵抗所有状态异常、法力削减和增益驱散。"
             ]
         },
         {
-            "originalIndex": 638,
+            "originalIndex": 639,
             "name": "Cyprian Glass",
             "passives": [
                 "玻璃：额外 60% 几率将状态异常反弹给攻击者。"
             ]
         },
         {
-            "originalIndex": 639,
+            "originalIndex": 640,
             "name": "Dizzy",
             "passives": []
         },
         {
-            "originalIndex": 640,
+            "originalIndex": 641,
             "name": "Foxglove",
             "passives": [
                 "降低治疗量：所有敌人获得的治疗量降低 -50%。"
             ]
         },
         {
-            "originalIndex": 641,
+            "originalIndex": 642,
             "name": "Fura",
             "passives": []
         },
         {
-            "originalIndex": 642,
+            "originalIndex": 643,
             "name": "Fura C1",
             "passives": []
         },
         {
-            "originalIndex": 643,
+            "originalIndex": 644,
             "name": "Gafar",
             "passives": []
         },
         {
-            "originalIndex": 644,
+            "originalIndex": 645,
             "name": "Heifeng Guai",
             "passives": []
         },
         {
-            "originalIndex": 645,
+            "originalIndex": 646,
             "name": "Ingolf",
             "passives": []
         },
         {
-            "originalIndex": 646,
+            "originalIndex": 647,
             "name": "Jabbar",
             "passives": []
         },
         {
-            "originalIndex": 647,
+            "originalIndex": 648,
             "name": "Juliani",
             "passives": [
                 "降低通过特殊技能获得的法力：通过特殊技能增加的法力值降低 -80%。此效果对战场上的所有敌人生效。"
             ]
         },
         {
-            "originalIndex": 648,
+            "originalIndex": 649,
             "name": "Kitty",
             "passives": [
                 "特殊技能造成伤害：当该角色受到特殊技能伤害或替处于掩护状态的角色承受伤害时，有 60% 的几率对所有敌人造成所受伤害 20% 的伤害。"
             ]
         },
         {
-            "originalIndex": 649,
+            "originalIndex": 650,
             "name": "Koda",
             "passives": [
                 "受到增益时恢复生命：该角色在获得增益或正面效果叠加时恢复 5% 的生命值。"
             ]
         },
         {
-            "originalIndex": 650,
+            "originalIndex": 651,
             "name": "Lexi",
             "passives": [
                 "队伍大师：",
@@ -4461,7 +4466,7 @@ const translatedPassivesCN =
             ]
         },
         {
-            "originalIndex": 651,
+            "originalIndex": 652,
             "name": "Meadow",
             "passives": [
                 "特殊技能附加状态效果：当该角色施放其特殊技能时，会给一个随机敌人施加猎人印记。目标在 3 回合内受到 150 点伤害。如果目标已有此效果，则持续时间刷新，伤害增加 150 点，总伤害最高可达 1500 点。",
@@ -4469,78 +4474,78 @@ const translatedPassivesCN =
             ]
         },
         {
-            "originalIndex": 652,
+            "originalIndex": 653,
             "name": "Merlin",
             "passives": []
         },
         {
-            "originalIndex": 653,
+            "originalIndex": 654,
             "name": "Merlin C1",
             "passives": []
         },
         {
-            "originalIndex": 654,
+            "originalIndex": 655,
             "name": "Proteus",
             "passives": []
         },
         {
-            "originalIndex": 655,
+            "originalIndex": 656,
             "name": "Proteus C1",
             "passives": []
         },
         {
-            "originalIndex": 656,
+            "originalIndex": 657,
             "name": "Rigard",
             "passives": []
         },
         {
-            "originalIndex": 657,
+            "originalIndex": 658,
             "name": "Rigard C1",
             "passives": []
         },
         {
-            "originalIndex": 658,
+            "originalIndex": 659,
             "name": "Rigard C2",
             "passives": []
         },
         {
-            "originalIndex": 659,
+            "originalIndex": 660,
             "name": "Rigard Toon",
             "passives": [
                 "卡通：额外 75% 几率抵抗所有状态异常、法力削减和增益驱散。"
             ]
         },
         {
-            "originalIndex": 660,
+            "originalIndex": 661,
             "name": "Sabina",
             "passives": []
         },
         {
-            "originalIndex": 661,
+            "originalIndex": 662,
             "name": "Sabina C1",
             "passives": []
         },
         {
-            "originalIndex": 662,
+            "originalIndex": 663,
             "name": "Sabina C2",
             "passives": []
         },
         {
-            "originalIndex": 663,
+            "originalIndex": 664,
             "name": "Sabina Toon",
             "passives": [
                 "卡通：额外 75% 几率抵抗所有状态异常、法力削减和增益驱散。"
             ]
         },
         {
-            "originalIndex": 664,
+            "originalIndex": 665,
             "name": "Sergei",
             "passives": [
                 "当该角色施放其特殊技能时，有 50% 的几率对所有敌人造成 100% 的伤害。如果特殊技能完全充能，则几率为 100%。"
             ]
         },
         {
-            "originalIndex": 665,
+            "originalIndex": 666,
             "name": "Shar'Khai",
             "passives": [
                 "特殊技能效果：",
@@ -4550,7 +4555,7 @@ const translatedPassivesCN =
             ]
         },
         {
-            "originalIndex": 666,
+            "originalIndex": 667,
             "name": "Shar'Khai C1",
             "passives": [
                 "特殊技能效果：",
@@ -4561,46 +4566,46 @@ const translatedPassivesCN =
             ]
         },
         {
-            "originalIndex": 667,
+            "originalIndex": 668,
             "name": "Shoggo",
             "passives": []
         },
         {
-            "originalIndex": 668,
+            "originalIndex": 669,
             "name": "Shyombre",
             "passives": [
                 "闪避特殊技能伤害：该角色有 15% 的几率闪避造成伤害的特殊技能。"
             ]
         },
         {
-            "originalIndex": 669,
+            "originalIndex": 670,
             "name": "Stonecleave",
             "passives": []
         },
         {
-            "originalIndex": 670,
+            "originalIndex": 671,
             "name": "Tiburtus",
             "passives": []
         },
         {
-            "originalIndex": 671,
+            "originalIndex": 672,
             "name": "Tiburtus C1",
             "passives": []
         },
         {
-            "originalIndex": 672,
+            "originalIndex": 673,
             "name": "Tiburtus C2",
             "passives": []
         },
         {
-            "originalIndex": 673,
+            "originalIndex": 674,
             "name": "Tiburtus Toon",
             "passives": [
                 "卡通：额外 75% 几率抵抗所有状态异常、法力削减和增益驱散。"
             ]
         },
         {
-            "originalIndex": 674,
+            "originalIndex": 675,
             "name": "Acidfire",
             "passives": [
                 "特殊技能效果：当该角色施放其特殊技能时，有 40% 几率执行以下操作。",
@@ -4609,7 +4614,7 @@ const translatedPassivesCN =
             ]
         },
         {
-            "originalIndex": 675,
+            "originalIndex": 676,
             "name": "Aconia",
             "passives": [
                 "队伍大师：",
@@ -4620,26 +4625,26 @@ const translatedPassivesCN =
             ]
         },
         {
-            "originalIndex": 676,
+            "originalIndex": 677,
             "name": "Aeron",
             "passives": []
         },
         {
-            "originalIndex": 677,
+            "originalIndex": 678,
             "name": "Aeron C1",
             "passives": [
                 "特殊技能净化：当该角色施放其特殊技能时，会净化所有队友身上最新的状态异常。"
             ]
         },
         {
-            "originalIndex": 678,
+            "originalIndex": 679,
             "name": "Agrafena",
             "passives": [
                 "特殊技能造成伤害：当该角色施放其特殊技能时，有 50% 的几率对所有敌人造成 100% 的伤害。如果特殊技能完全充能，则几率为 100%。"
             ]
         },
         {
-            "originalIndex": 679,
+            "originalIndex": 680,
             "name": "Agrafena C1",
             "passives": [
                 "特殊技能造成伤害：当该角色施放其特殊技能时，有 60% 的几率对所有敌人造成 150% 的伤害。如果特殊技能完全充能，则几率为 100%。",
@@ -4647,7 +4652,7 @@ const translatedPassivesCN =
             ]
         },
         {
-            "originalIndex": 680,
+            "originalIndex": 681,
             "name": "Akilius",
             "passives": [
                 "抵抗负面小兵效果：该角色天生对来自小兵的负面效果及伤害有抵抗能力。",
@@ -4655,22 +4660,22 @@ const translatedPassivesCN =
             ]
         },
         {
-            "originalIndex": 681,
+            "originalIndex": 682,
             "name": "Alfrike",
             "passives": []
         },
         {
-            "originalIndex": 682,
+            "originalIndex": 683,
             "name": "Alfrike C1",
             "passives": []
         },
         {
-            "originalIndex": 683,
+            "originalIndex": 684,
             "name": "Amethyst",
             "passives": []
         },
         {
-            "originalIndex": 684,
+            "originalIndex": 685,
             "name": "Anoushka",
             "passives": [
                 "抵抗致盲：该角色天生对影响精准度的状态异常有抵抗能力。不适用于来自盟友的原始状态效果。",
@@ -4678,7 +4683,7 @@ const translatedPassivesCN =
             ]
         },
         {
-            "originalIndex": 685,
+            "originalIndex": 686,
             "name": "Anubis",
             "passives": [
                 "特殊技能效果：当该角色施放其特殊技能时，有 60% 几率执行以下操作：",
@@ -4687,7 +4692,7 @@ const translatedPassivesCN =
             ]
         },
         {
-            "originalIndex": 686,
+            "originalIndex": 687,
             "name": "Anubis C1",
             "passives": [
                 "特殊技能效果：当该角色施放其特殊技能时，有 60% 几率执行以下操作：",
@@ -4698,14 +4703,14 @@ const translatedPassivesCN =
             ]
         },
         {
-            "originalIndex": 687,
+            "originalIndex": 688,
             "name": "Aramis",
             "passives": [
                 "当该角色受到特殊技能伤害或替处于掩护状态的角色承受伤害时，有 60% 的几率对所有敌人造成所受伤害 20% 的伤害。"
             ]
         },
         {
-            "originalIndex": 688,
+            "originalIndex": 689,
             "name": "Arfanias",
             "passives": [
                 "法力削减时获得状态效果：当该角色的法力被削减时，其获得 +30% 的攻击力，持续 3 回合。",
@@ -4713,12 +4718,12 @@ const translatedPassivesCN =
             ]
         },
         {
-            "originalIndex": 689,
+            "originalIndex": 690,
             "name": "Asketel",
             "passives": []
         },
         {
-            "originalIndex": 690,
+            "originalIndex": 691,
             "name": "Bastet",
             "passives": [
                 "特殊技能效果：当该角色施放其特殊技能时，有 50% 几率执行以下操作：",
@@ -4727,7 +4732,7 @@ const translatedPassivesCN =
             ]
         },
         {
-            "originalIndex": 691,
+            "originalIndex": 692,
             "name": "Bastet C1",
             "passives": [
                 "特殊技能效果：当该角色施放其特殊技能时，有 50% 几率执行以下操作：",
@@ -4738,7 +4743,7 @@ const translatedPassivesCN =
             ]
         },
         {
-            "originalIndex": 692,
+            "originalIndex": 693,
             "name": "Becky",
             "passives": [
                 "特殊技能叠加：当该角色施放其特殊技能时，所有敌人获得 -5% 的法力生成叠加。如果特殊技能完全充能，则所有敌人获得两层叠加。一个敌人最多可以有 10 层叠加。",
@@ -4746,29 +4751,29 @@ const translatedPassivesCN =
             ]
         },
         {
-            "originalIndex": 693,
+            "originalIndex": 694,
             "name": "Belladonna",
             "passives": [
                 "法力增加削减：通过特殊技能增加的法力值降低 -80%。此效果对战场上的所有敌人生效。"
             ]
         },
         {
-            "originalIndex": 694,
+            "originalIndex": 695,
             "name": "Bera",
             "passives": []
         },
         {
-            "originalIndex": 695,
+            "originalIndex": 696,
             "name": "Bera C1",
             "passives": []
         },
         {
-            "originalIndex": 696,
+            "originalIndex": 697,
             "name": "Boss Wolf",
             "passives": []
         },
         {
-            "originalIndex": 697,
+            "originalIndex": 698,
             "name": "Carta",
             "passives": [
                 "抵抗特殊技能格挡：该角色天生对格挡特殊技能的状态异常有抵抗能力。",
@@ -4778,21 +4783,21 @@ const translatedPassivesCN =
             ]
         },
         {
-            "originalIndex": 698,
+            "originalIndex": 699,
             "name": "Cecilia",
             "passives": [
                 "受到增益时恢复生命：该角色在获得增益或正面效果叠加时恢复 5% 的生命值。"
             ]
         },
         {
-            "originalIndex": 699,
+            "originalIndex": 700,
             "name": "Cennius",
             "passives": [
                 "降低通过特殊技能获得的法力：通过特殊技能增加的法力值降低 -80%。此效果对战场上的所有敌人生效。"
             ]
         },
         {
-            "originalIndex": 700,
+            "originalIndex": 701,
             "name": "Chakkoszrot",
             "passives": [
                 "抵抗法力削减：该角色天生对法力削减有抵抗能力。",
@@ -4800,7 +4805,7 @@ const translatedPassivesCN =
             ]
         },
         {
-            "originalIndex": 701,
+            "originalIndex": 702,
             "name": "Chao Gai",
             "passives": [
                 "特殊攻击暴击时净化：当该角色用特殊技能造成暴击时，会安全地净化所有盟友最新的可净化状态效果。此效果每回合可激活一次。",
@@ -4812,7 +4817,7 @@ const translatedPassivesCN =
             ]
         },
         {
-            "originalIndex": 702,
+            "originalIndex": 703,
             "name": "Charon",
             "passives": [
                 "抵抗防御异常：该英雄天生对影响防御的状态异常有抵抗能力。此效果同样适用于影响元素防御的状态异常。",
@@ -4820,33 +4825,33 @@ const translatedPassivesCN =
             ]
         },
         {
-            "originalIndex": 703,
+            "originalIndex": 704,
             "name": "Clarissa",
             "passives": [
                 "抵抗剧毒：该角色天生对剧毒有抵抗能力。"
             ]
         },
         {
-            "originalIndex": 704,
+            "originalIndex": 705,
             "name": "Dark Lord",
             "passives": []
         },
         {
-            "originalIndex": 705,
+            "originalIndex": 706,
             "name": "Dark Lord C1",
             "passives": [
                 "特殊技能附带诅咒：当该角色施放其特殊技能时，所有敌人受到 473 点诅咒伤害，持续 4 回合，伤害逐回合递增。"
             ]
         },
         {
-            "originalIndex": 706,
+            "originalIndex": 707,
             "name": "Darkbeat",
             "passives": [
                 "降低复活几率：战场上所有敌人的复活几率降低。几率为原始值的 20%。"
             ]
         },
         {
-            "originalIndex": 707,
+            "originalIndex": 708,
             "name": "Darkfeather",
             "passives": [
                 "特殊技能效果：当该角色施放其特殊技能时，有 50% 几率执行以下操作。",
@@ -4855,7 +4860,7 @@ const translatedPassivesCN =
             ]
         },
         {
-            "originalIndex": 708,
+            "originalIndex": 709,
             "name": "Deadboot",
             "passives": [
                 "特殊技能效果：当该角色施放其特殊技能时，有 30% 几率执行以下操作。",
@@ -4864,7 +4869,7 @@ const translatedPassivesCN =
             ]
         },
         {
-            "originalIndex": 709,
+            "originalIndex": 710,
             "name": "Demilune",
             "passives": [
                 "抵抗剧毒：该角色天生对剧毒有抵抗能力。",
@@ -4872,12 +4877,12 @@ const translatedPassivesCN =
             ]
         },
         {
-            "originalIndex": 710,
+            "originalIndex": 711,
             "name": "Diaochan",
             "passives": []
         },
         {
-            "originalIndex": 711,
+            "originalIndex": 712,
             "name": "Diaochan C1",
             "passives": [
                 "无法阻止的小兵：",
@@ -4887,43 +4892,43 @@ const translatedPassivesCN =
             ]
         },
         {
-            "originalIndex": 712,
+            "originalIndex": 713,
             "name": "Domitia",
             "passives": []
         },
         {
-            "originalIndex": 713,
+            "originalIndex": 714,
             "name": "Domitia C1",
             "passives": []
         },
         {
-            "originalIndex": 714,
+            "originalIndex": 715,
             "name": "Domitia C2",
             "passives": []
         },
         {
-            "originalIndex": 715,
+            "originalIndex": 716,
             "name": "Domitia Toon",
             "passives": [
                 "卡通：额外 75% 几率抵抗所有状态异常、法力削减和增益驱散。"
             ]
         },
         {
-            "originalIndex": 716,
+            "originalIndex": 717,
             "name": "Domitia Glass",
             "passives": [
                 "玻璃：额外 60% 几率将状态异常反弹给攻击者。"
             ]
         },
         {
-            "originalIndex": 717,
+            "originalIndex": 718,
             "name": "Dr. Moreau",
             "passives": [
                 "特殊技能伤害减免：该角色受到的特殊技能伤害降低 -20%。"
             ]
         },
         {
-            "originalIndex": 718,
+            "originalIndex": 719,
             "name": "Dr. Moreau C1",
             "passives": [
                 "特殊技能伤害减免：该角色受到的特殊技能伤害降低 -20%。",
@@ -4931,7 +4936,7 @@ const translatedPassivesCN =
             ]
         },
         {
-            "originalIndex": 719,
+            "originalIndex": 720,
             "name": "Dreadstar",
             "passives": [
                 "抵抗剧毒：该角色天生对剧毒有抵抗能力。",
@@ -4939,7 +4944,7 @@ const translatedPassivesCN =
             ]
         },
         {
-            "originalIndex": 720,
+            "originalIndex": 721,
             "name": "Dubhan",
             "passives": [
                 "特殊技能伤害减免：该角色有 10% 的几率将受到的特殊技能直接伤害降至 1 点。",
@@ -4947,7 +4952,7 @@ const translatedPassivesCN =
             ]
         },
         {
-            "originalIndex": 721,
+            "originalIndex": 722,
             "name": "Dularfulr",
             "passives": [
                 "强化抵抗燃烧：该角色天生对燃烧有抵抗能力，并且每次抵抗时获得 450 点生命加成和 5% 的法力。",
@@ -4958,14 +4963,14 @@ const translatedPassivesCN =
             ]
         },
         {
-            "originalIndex": 722,
+            "originalIndex": 723,
             "name": "Eros",
             "passives": [
                 "抵抗特殊技能格挡：该角色天生对格挡特殊技能的状态异常有抵抗能力。"
             ]
         },
         {
-            "originalIndex": 723,
+            "originalIndex": 724,
             "name": "Experience Mimic Dark",
             "passives": [
                 "完美精准度：该角色的特殊技能必定命中目标。",
@@ -4978,7 +4983,7 @@ const translatedPassivesCN =
             ]
         },
         {
-            "originalIndex": 724,
+            "originalIndex": 725,
             "name": "Farrah",
             "passives": [
                 "队伍大师：",
@@ -4989,17 +4994,17 @@ const translatedPassivesCN =
             ]
         },
         {
-            "originalIndex": 725,
+            "originalIndex": 726,
             "name": "Freya",
             "passives": []
         },
         {
-            "originalIndex": 726,
+            "originalIndex": 727,
             "name": "Freya C1",
             "passives": []
         },
         {
-            "originalIndex": 727,
+            "originalIndex": 728,
             "name": "Gastille",
             "passives": [
                 "队伍大师：",
@@ -5010,7 +5015,7 @@ const translatedPassivesCN =
             ]
         },
         {
-            "originalIndex": 728,
+            "originalIndex": 729,
             "name": "Gongoth",
             "passives": [
                 "进阶无视小兵：该角色造成的所有伤害无视小兵和巨大体型小兵。",
@@ -5019,7 +5024,7 @@ const translatedPassivesCN =
             ]
         },
         {
-            "originalIndex": 729,
+            "originalIndex": 730,
             "name": "Gooldron",
             "passives": [
                 "被击败时召唤史莱姆小兵：当该角色被击败时，为附近的盟友召唤继承其 50% 生命值和 40% 攻击力的史莱姆巨大体型小兵。",
@@ -5027,7 +5032,7 @@ const translatedPassivesCN =
             ]
         },
         {
-            "originalIndex": 730,
+            "originalIndex": 731,
             "name": "Goretooth",
             "passives": [
                 "猎手感知：当该角色施放其特殊技能时，会将自身最新的可净化状态异常转移给目标。如果其特殊技能无法选择敌方目标，则会随机转移至一名敌人。若此角色没有状态异常，则恢复自身 3% 的生命。",
@@ -5035,14 +5040,14 @@ const translatedPassivesCN =
             ]
         },
         {
-            "originalIndex": 731,
+            "originalIndex": 732,
             "name": "Goseck",
             "passives": [
                 "石像鬼之肤：每当此石像鬼施放特殊技能时，其石肤会变硬。接下来受到的 5 次伤害将降至 1 点。此效果无法被驱散。"
             ]
         },
         {
-            "originalIndex": 732,
+            "originalIndex": 733,
             "name": "Griffex",
             "passives": [
                 "队伍大师：",
@@ -5053,24 +5058,24 @@ const translatedPassivesCN =
             ]
         },
         {
-            "originalIndex": 733,
+            "originalIndex": 734,
             "name": "Grimble",
             "passives": [
                 "抵抗致盲：该角色天生对影响精准度的状态异常有抵抗能力。不适用于来自盟友的状态效果。"
             ]
         },
         {
-            "originalIndex": 734,
+            "originalIndex": 735,
             "name": "Guardian Panther",
             "passives": []
         },
         {
-            "originalIndex": 735,
+            "originalIndex": 736,
             "name": "Guardian Panther C1",
             "passives": []
         },
         {
-            "originalIndex": 736,
+            "originalIndex": 737,
             "name": "Gunktus",
             "passives": [
                 "被击败时召唤史莱姆小兵：当该角色被击败时，为附近的盟友召唤继承其 50% 生命值和 40% 攻击力的史莱姆巨大体型小兵。",
@@ -5078,14 +5083,14 @@ const translatedPassivesCN =
             ]
         },
         {
-            "originalIndex": 737,
+            "originalIndex": 738,
             "name": "Hannah",
             "passives": [
                 "战斗开始时获得法力：该角色在战斗开始时获得 20% 的法力。"
             ]
         },
         {
-            "originalIndex": 738,
+            "originalIndex": 739,
             "name": "Hannah C1",
             "passives": [
                 "战斗开始时获得法力：该英雄在战斗开始时获得 20% 的法力。",
@@ -5093,7 +5098,7 @@ const translatedPassivesCN =
             ]
         },
         {
-            "originalIndex": 739,
+            "originalIndex": 740,
             "name": "Hawthorn",
             "passives": [
                 "特殊技能伤害减免：该角色有 10% 的几率将受到的特殊技能直接伤害降至 1 点。",
@@ -5101,19 +5106,19 @@ const translatedPassivesCN =
             ]
         },
         {
-            "originalIndex": 740,
+            "originalIndex": 741,
             "name": "Hel",
             "passives": []
         },
         {
-            "originalIndex": 741,
+            "originalIndex": 742,
             "name": "Hel C1",
             "passives": [
                 "特殊技能驱散：当该角色施放其特殊技能时，会驱散所有敌人身上最新的状态效果增益。"
             ]
         },
         {
-            "originalIndex": 742,
+            "originalIndex": 743,
             "name": "Hreidmarr",
             "passives": [
                 "强化抵抗燃烧：该角色天生对燃烧有抵抗能力，并且每次抵抗时获得 450 点生命加成和 5% 的法力。",
@@ -5124,14 +5129,14 @@ const translatedPassivesCN =
             ]
         },
         {
-            "originalIndex": 743,
+            "originalIndex": 744,
             "name": "Hulda",
             "passives": [
                 "延长增益持续时间：该角色从特殊技能中获得的前 3 个增益效果的持续时间增加 1 回合。"
             ]
         },
         {
-            "originalIndex": 744,
+            "originalIndex": 745,
             "name": "Hulda C1",
             "passives": [
                 "延长增益持续时间：该角色从特殊技能中获得的前 3 个增益效果的持续时间增加 1 回合。",
@@ -5139,14 +5144,14 @@ const translatedPassivesCN =
             ]
         },
         {
-            "originalIndex": 745,
+            "originalIndex": 746,
             "name": "Hunter",
             "passives": [
                 "古神的标记：该角色每拥有 5% 点狂乱，受到的所有伤害便降低 10，最多可降低 50%。"
             ]
         },
         {
-            "originalIndex": 746,
+            "originalIndex": 747,
             "name": "Hurricane",
             "passives": [
                 "猎人之毅：当该角色施放其特殊技能时，获得 +20% 的攻击力，持续 3 回合。此效果可与其他改变攻击力的效果并存。",
@@ -5154,19 +5159,19 @@ const translatedPassivesCN =
             ]
         },
         {
-            "originalIndex": 747,
+            "originalIndex": 748,
             "name": "Jabberwock",
             "passives": []
         },
         {
-            "originalIndex": 748,
+            "originalIndex": 749,
             "name": "Jabberwock C1",
             "passives": [
                 "特殊技能附带莽夫乱拳：施放特殊技能时， 50% 几率对一个随机敌人施加莽夫乱拳，持续 3 回合。"
             ]
         },
         {
-            "originalIndex": 749,
+            "originalIndex": 750,
             "name": "Jett",
             "passives": [
                 "特殊技能叠加：当该角色施放其特殊技能时，所有敌人获得 -5% 的法力生成叠加。如果特殊技能完全充能，则所有敌人获得两层叠加。一个敌人最多可以有 10 层叠加。",
@@ -5174,36 +5179,36 @@ const translatedPassivesCN =
             ]
         },
         {
-            "originalIndex": 750,
+            "originalIndex": 751,
             "name": "Kageburado",
             "passives": []
         },
         {
-            "originalIndex": 751,
+            "originalIndex": 752,
             "name": "Kageburado C1",
             "passives": []
         },
         {
-            "originalIndex": 752,
+            "originalIndex": 753,
             "name": "Karnov",
             "passives": []
         },
         {
-            "originalIndex": 753,
+            "originalIndex": 754,
             "name": "Karnov C1",
             "passives": [
                 "特殊技能附带诅咒：当该角色施放其特殊技能时，所有敌人受到 461 点诅咒伤害，持续 4 回合，伤害逐回合递增。"
             ]
         },
         {
-            "originalIndex": 754,
+            "originalIndex": 755,
             "name": "Kemeny",
             "passives": [
                 "石像鬼之肤：每当此石像鬼施放特殊技能时，其石肤会变硬。接下来受到的 4 次伤害将降至 1 点。此效果无法被驱散。"
             ]
         },
         {
-            "originalIndex": 755,
+            "originalIndex": 756,
             "name": "Khepri",
             "passives": [
                 "特殊技能效果：当该角色施放其特殊技能时，有 60% 几率执行以下操作：",
@@ -5212,7 +5217,7 @@ const translatedPassivesCN =
             ]
         },
         {
-            "originalIndex": 756,
+            "originalIndex": 757,
             "name": "Khepri C1",
             "passives": [
                 "特殊技能效果：当该角色施放其特殊技能时，有 60% 几率执行以下操作：",
@@ -5223,19 +5228,19 @@ const translatedPassivesCN =
             ]
         },
         {
-            "originalIndex": 757,
+            "originalIndex": 758,
             "name": "Khiona",
             "passives": []
         },
         {
-            "originalIndex": 758,
+            "originalIndex": 759,
             "name": "Khiona C1",
             "passives": [
                 "特殊技能驱散：当该角色施放其特殊技能时，会驱散所有敌人身上最新的状态效果增益。"
             ]
         },
         {
-            "originalIndex": 759,
+            "originalIndex": 760,
             "name": "Khonshu",
             "passives": [
                 "特殊技能效果：当该角色施放其特殊技能时，有 40% 几率执行以下操作：",
@@ -5244,7 +5249,7 @@ const translatedPassivesCN =
             ]
         },
         {
-            "originalIndex": 760,
+            "originalIndex": 761,
             "name": "Khonshu C1",
             "passives": [
                 "特殊技能效果：当该角色施放其特殊技能时，有 40% 几率执行以下操作：",
@@ -5255,22 +5260,22 @@ const translatedPassivesCN =
             ]
         },
         {
-            "originalIndex": 761,
+            "originalIndex": 762,
             "name": "Killhare",
             "passives": []
         },
         {
-            "originalIndex": 762,
+            "originalIndex": 763,
             "name": "Killhare C1",
             "passives": []
         },
         {
-            "originalIndex": 763,
+            "originalIndex": 764,
             "name": "Knave of Hearts",
             "passives": []
         },
         {
-            "originalIndex": 764,
+            "originalIndex": 765,
             "name": "Knightus",
             "passives": [
                 "被击败时召唤史莱姆小兵：当该角色被击败时，为附近的盟友召唤继承其 50% 生命值和 40% 攻击力的史莱姆巨大体型小兵。",
@@ -5278,21 +5283,21 @@ const translatedPassivesCN =
             ]
         },
         {
-            "originalIndex": 765,
+            "originalIndex": 766,
             "name": "Kunchen",
             "passives": [
                 "抵抗防御异常：该角色天生对影响防御的状态异常和负面叠加有抵抗能力。不适用于影响元素防御的状态异常。"
             ]
         },
         {
-            "originalIndex": 766,
+            "originalIndex": 767,
             "name": "Lepiota",
             "passives": [
                 "特殊技能伤害减免：该角色受到的特殊技能伤害降低 -20%。"
             ]
         },
         {
-            "originalIndex": 767,
+            "originalIndex": 768,
             "name": "Lepiota C1",
             "passives": [
                 "特殊技能伤害减免：该角色受到的特殊技能伤害降低 -20%。",
@@ -5300,19 +5305,19 @@ const translatedPassivesCN =
             ]
         },
         {
-            "originalIndex": 768,
+            "originalIndex": 769,
             "name": "Louhi",
             "passives": [
                 "西苏之力：当该角色在战斗中首次以低生命值开始回合时，他们会恢复 15% 的生命值并获得 15% 的法力。"
             ]
         },
         {
-            "originalIndex": 769,
+            "originalIndex": 770,
             "name": "Lu Bu",
             "passives": []
         },
         {
-            "originalIndex": 770,
+            "originalIndex": 771,
             "name": "Lu Bu C1",
             "passives": [
                 "无法阻止的小兵：",
@@ -5322,19 +5327,19 @@ const translatedPassivesCN =
             ]
         },
         {
-            "originalIndex": 771,
+            "originalIndex": 772,
             "name": "Lucinda",
             "passives": [
                 "窃取增益：当该角色施放其特殊技能时，有 50% 的几率从一个带有增益的随机敌人身上窃取最新的可驱散增益。如果没有敌人带有增益，则对所有敌人造成 70% 的伤害。"
             ]
         },
         {
-            "originalIndex": 772,
+            "originalIndex": 773,
             "name": "Ludwig",
             "passives": []
         },
         {
-            "originalIndex": 773,
+            "originalIndex": 774,
             "name": "Luna",
             "passives": [
                 "魔宠之友：当小兵被召唤到任何盟友身上时，该角色获得 5% 的生命值和 5% 的法力。此效果每回合只能激活一次。",
@@ -5342,7 +5347,7 @@ const translatedPassivesCN =
             ]
         },
         {
-            "originalIndex": 774,
+            "originalIndex": 775,
             "name": "Madame Giry",
             "passives": [
                 "状态异常失效或被清除时恢复生命：每当一个状态异常从该角色身上失效、被净化、移除或重新分配时，该角色会恢复 20% 的生命值。此效果每回合只能激活一次。",
@@ -5350,7 +5355,7 @@ const translatedPassivesCN =
             ]
         },
         {
-            "originalIndex": 775,
+            "originalIndex": 776,
             "name": "Maisie",
             "passives": [
                 "抵抗法力削减：该角色天生对法力削减有抵抗能力。",
@@ -5358,7 +5363,7 @@ const translatedPassivesCN =
             ]
         },
         {
-            "originalIndex": 776,
+            "originalIndex": 777,
             "name": "Malicna",
             "passives": [
                 "抵抗生命偷取异常：该角色天生对偷取生命的状态异常有抵抗能力。",
@@ -5366,19 +5371,19 @@ const translatedPassivesCN =
             ]
         },
         {
-            "originalIndex": 777,
+            "originalIndex": 778,
             "name": "Marie-Therese",
             "passives": []
         },
         {
-            "originalIndex": 778,
+            "originalIndex": 779,
             "name": "Marie-Therese C1",
             "passives": [
                 "特殊技能附带剧毒：当该角色施放其特殊技能时，所有敌人会在 4 回合内受到 504 点剧毒伤害。"
             ]
         },
         {
-            "originalIndex": 779,
+            "originalIndex": 780,
             "name": "Maud",
             "passives": [
                 "致盲小兵：所有敌方小兵拥有 -60% 精准度。所有敌方超级小兵拥有 -50% 精准度。",
@@ -5387,7 +5392,7 @@ const translatedPassivesCN =
             ]
         },
         {
-            "originalIndex": 780,
+            "originalIndex": 781,
             "name": "Medea",
             "passives": [
                 "特殊技能效果：当该角色施放其特殊技能时，有 50% 几率执行以下操作：",
@@ -5397,7 +5402,7 @@ const translatedPassivesCN =
             ]
         },
         {
-            "originalIndex": 781,
+            "originalIndex": 782,
             "name": "Medea C1",
             "passives": [
                 "特殊技能效果：当该角色施放其特殊技能时，有 50% 几率执行以下操作：",
@@ -5407,24 +5412,24 @@ const translatedPassivesCN =
             ]
         },
         {
-            "originalIndex": 782,
+            "originalIndex": 783,
             "name": "Melancholia",
             "passives": [
                 "古神的标记：该角色每拥有 5% 点狂乱，受到的所有伤害便降低 10，最多可降低 50%。"
             ]
         },
         {
-            "originalIndex": 783,
+            "originalIndex": 784,
             "name": "Mok-Arr",
             "passives": []
         },
         {
-            "originalIndex": 784,
+            "originalIndex": 785,
             "name": "Mok-Arr C1",
             "passives": []
         },
         {
-            "originalIndex": 785,
+            "originalIndex": 786,
             "name": "Morax",
             "passives": [
                 "抵抗法力生成异常：该角色天生对影响法力生成的状态异常和负面叠加有抵抗能力。不适用于阻止法力生成或偷取法力的状态异常。",
@@ -5432,14 +5437,14 @@ const translatedPassivesCN =
             ]
         },
         {
-            "originalIndex": 786,
+            "originalIndex": 787,
             "name": "Mortewitch",
             "passives": [
                 "闪避特殊技能伤害：该角色有 15% 的几率闪避造成伤害的特殊技能。"
             ]
         },
         {
-            "originalIndex": 787,
+            "originalIndex": 788,
             "name": "Mortimer",
             "passives": [
                 "特殊技能附带持续伤害：当该角色施放其特殊技能时，所有敌人会在 2 回合内受到 202 点水系伤害。",
@@ -5447,21 +5452,21 @@ const translatedPassivesCN =
             ]
         },
         {
-            "originalIndex": 788,
+            "originalIndex": 789,
             "name": "Myztero",
             "passives": [
                 "回溯状态异常：该英雄天生能够回溯状态异常。施加在该英雄身上的最近 5 个状态异常会被回溯，直到施放特殊技能为止。"
             ]
         },
         {
-            "originalIndex": 789,
+            "originalIndex": 790,
             "name": "Narcisa",
             "passives": [
                 "法力增加削减：通过特殊技能增加的法力值降低 -80%。此效果对战场上的所有敌人生效。"
             ]
         },
         {
-            "originalIndex": 790,
+            "originalIndex": 791,
             "name": "Nyx",
             "passives": [
                 "降低小兵生命值：敌方小兵被召唤时继承的生命值减少 -50%。",
@@ -5469,36 +5474,36 @@ const translatedPassivesCN =
             ]
         },
         {
-            "originalIndex": 791,
+            "originalIndex": 792,
             "name": "Obakan",
             "passives": []
         },
         {
-            "originalIndex": 792,
+            "originalIndex": 793,
             "name": "Obakan C1",
             "passives": []
         },
         {
-            "originalIndex": 793,
+            "originalIndex": 794,
             "name": "Obakan C2",
             "passives": []
         },
         {
-            "originalIndex": 794,
+            "originalIndex": 795,
             "name": "Obakan Toon",
             "passives": [
                 "卡通：额外 75% 几率抵抗所有状态异常、法力削减和增益驱散。"
             ]
         },
         {
-            "originalIndex": 795,
+            "originalIndex": 796,
             "name": "Obakan Glass",
             "passives": [
                 "玻璃：额外 60% 几率将状态异常反弹给攻击者。"
             ]
         },
         {
-            "originalIndex": 796,
+            "originalIndex": 797,
             "name": "Odile",
             "passives": [
                 "抵抗防御异常：该角色天生对影响防御的状态异常有抵抗能力。不适用于影响元素防御的状态异常。",
@@ -5506,24 +5511,24 @@ const translatedPassivesCN =
             ]
         },
         {
-            "originalIndex": 797,
+            "originalIndex": 798,
             "name": "Ommodus",
             "passives": [
                 "降低通过特殊技能获得的法力：通过特殊技能增加的法力值降低 -80%。此效果对战场上的所有敌人生效。"
             ]
         },
         {
-            "originalIndex": 798,
+            "originalIndex": 799,
             "name": "Onyx",
             "passives": []
         },
         {
-            "originalIndex": 799,
+            "originalIndex": 800,
             "name": "Peppermint",
             "passives": []
         },
         {
-            "originalIndex": 800,
+            "originalIndex": 801,
             "name": "Phantom of the Opera",
             "passives": [
                 "状态异常失效或被清除时恢复生命：每当一个状态异常从该角色身上失效、被净化、移除或重新分配时，该角色会恢复 10% 的生命值。此效果每回合只能激活一次。",
@@ -5531,7 +5536,7 @@ const translatedPassivesCN =
             ]
         },
         {
-            "originalIndex": 801,
+            "originalIndex": 802,
             "name": "Phorcys",
             "passives": [
                 "特殊技能效果：当该角色施放其特殊技能时，有 50% 几率执行以下操作：",
@@ -5541,7 +5546,7 @@ const translatedPassivesCN =
             ]
         },
         {
-            "originalIndex": 802,
+            "originalIndex": 803,
             "name": "Phorcys C1",
             "passives": [
                 "特殊技能效果：当该角色施放其特殊技能时，有 50% 几率执行以下操作：",
@@ -5551,41 +5556,41 @@ const translatedPassivesCN =
             ]
         },
         {
-            "originalIndex": 803,
+            "originalIndex": 804,
             "name": "Phthonus",
             "passives": [
                 "抵抗特殊技能格挡：该角色天生对格挡特殊技能的状态异常有抵抗能力。"
             ]
         },
         {
-            "originalIndex": 804,
+            "originalIndex": 805,
             "name": "Quartz",
             "passives": []
         },
         {
-            "originalIndex": 805,
+            "originalIndex": 806,
             "name": "Quintus",
             "passives": []
         },
         {
-            "originalIndex": 806,
+            "originalIndex": 807,
             "name": "Quintus C1",
             "passives": []
         },
         {
-            "originalIndex": 807,
+            "originalIndex": 808,
             "name": "Quintus C2",
             "passives": []
         },
         {
-            "originalIndex": 808,
+            "originalIndex": 809,
             "name": "Quintus Toon",
             "passives": [
                 "卡通：额外 75% 几率抵抗所有状态异常、法力削减和增益驱散。"
             ]
         },
         {
-            "originalIndex": 809,
+            "originalIndex": 810,
             "name": "Ramona",
             "passives": [
                 "受到状态异常时获得法力增益：持有此技能的角色在受到任何状态异常或负面效果叠加时，获得 +24% 的法力生成，持续 3 回合。",
@@ -5594,77 +5599,77 @@ const translatedPassivesCN =
             ]
         },
         {
-            "originalIndex": 810,
+            "originalIndex": 811,
             "name": "Rayne",
             "passives": []
         },
         {
-            "originalIndex": 811,
+            "originalIndex": 812,
             "name": "Rochefort",
             "passives": [
                 "特殊技能和掩护伤害时造成伤害：当该角色受到特殊技能伤害或替处于掩护状态的角色承受伤害时，有 60% 的几率对所有敌人造成所受伤害 20% 的伤害。"
             ]
         },
         {
-            "originalIndex": 812,
+            "originalIndex": 813,
             "name": "Salmon Loki",
             "passives": []
         },
         {
-            "originalIndex": 813,
+            "originalIndex": 814,
             "name": "Salmon Loki C1",
             "passives": []
         },
         {
-            "originalIndex": 814,
+            "originalIndex": 815,
             "name": "Sargasso",
             "passives": []
         },
         {
-            "originalIndex": 815,
+            "originalIndex": 816,
             "name": "Sargasso C1",
             "passives": [
                 "特殊技能附带剧毒：当该角色施放其特殊技能时，所有敌人会在 4 回合内受到 476 点剧毒伤害。"
             ]
         },
         {
-            "originalIndex": 816,
+            "originalIndex": 817,
             "name": "Sartana",
             "passives": []
         },
         {
-            "originalIndex": 817,
+            "originalIndex": 818,
             "name": "Sartana C1",
             "passives": []
         },
         {
-            "originalIndex": 818,
+            "originalIndex": 819,
             "name": "Sartana C2",
             "passives": []
         },
         {
-            "originalIndex": 819,
+            "originalIndex": 820,
             "name": "Sartana Toon",
             "passives": [
                 "卡通：额外 75% 几率抵抗所有状态异常、法力削减和增益驱散。"
             ]
         },
         {
-            "originalIndex": 820,
+            "originalIndex": 821,
             "name": "Sartana Glass",
             "passives": [
                 "玻璃：额外 60% 几率将状态异常反弹给攻击者。"
             ]
         },
         {
-            "originalIndex": 821,
+            "originalIndex": 822,
             "name": "Satsui",
             "passives": [
                 "降低小兵生命值：敌方小兵被召唤时继承的生命值减少 -50%。"
             ]
         },
         {
-            "originalIndex": 822,
+            "originalIndex": 823,
             "name": "Scath",
             "passives": [
                 "抵抗特殊技能格挡：该角色天生对格挡特殊技能的状态异常有抵抗能力。",
@@ -5674,14 +5679,14 @@ const translatedPassivesCN =
             ]
         },
         {
-            "originalIndex": 823,
+            "originalIndex": 824,
             "name": "Senan",
             "passives": [
                 "抵抗状态效果伤害：该角色天生对来自状态效果的伤害有抵抗能力。"
             ]
         },
         {
-            "originalIndex": 824,
+            "originalIndex": 825,
             "name": "Senan C1",
             "passives": [
                 "抵抗状态效果伤害：该角色天生对来自状态效果的伤害有抵抗能力。",
@@ -5689,7 +5694,7 @@ const translatedPassivesCN =
             ]
         },
         {
-            "originalIndex": 825,
+            "originalIndex": 826,
             "name": "Serena",
             "passives": [
                 "特殊技能附带持续伤害：当该角色施放其特殊技能时，所有敌人会在 2 回合内受到 278 点水系伤害。",
@@ -5697,14 +5702,14 @@ const translatedPassivesCN =
             ]
         },
         {
-            "originalIndex": 826,
+            "originalIndex": 827,
             "name": "Seshat",
             "passives": [
                 "抵抗法力削减：该角色天生对法力削减有抵抗能力。"
             ]
         },
         {
-            "originalIndex": 827,
+            "originalIndex": 828,
             "name": "Seshat C1",
             "passives": [
                 "抵抗法力削减：该角色天生对法力削减有抵抗能力。",
@@ -5712,7 +5717,7 @@ const translatedPassivesCN =
             ]
         },
         {
-            "originalIndex": 828,
+            "originalIndex": 829,
             "name": "Set",
             "passives": [
                 "特殊技能效果：当该角色施放其特殊技能时，有 70% 几率执行以下操作：",
@@ -5721,7 +5726,7 @@ const translatedPassivesCN =
             ]
         },
         {
-            "originalIndex": 829,
+            "originalIndex": 830,
             "name": "Set C1",
             "passives": [
                 "特殊技能效果：当该角色施放其特殊技能时，有 70% 几率执行以下操作：",
@@ -5732,7 +5737,7 @@ const translatedPassivesCN =
             ]
         },
         {
-            "originalIndex": 830,
+            "originalIndex": 831,
             "name": "Shacklebolt",
             "passives": [
                 "抵抗特殊技能格挡：该角色天生对格挡特殊技能的状态异常有抵抗能力。",
@@ -5742,14 +5747,14 @@ const translatedPassivesCN =
             ]
         },
         {
-            "originalIndex": 831,
+            "originalIndex": 832,
             "name": "Shadowfang",
             "passives": [
                 "降低治疗量：所有敌人获得的治疗量降低 -50%。"
             ]
         },
         {
-            "originalIndex": 832,
+            "originalIndex": 833,
             "name": "Sir Casmir",
             "passives": [
                 "抵抗法力生成异常：该角色天生对影响法力生成的异常状态和负面叠加有抵抗能力。不适用于阻止法力生成或偷取法力的状态异常。",
@@ -5757,23 +5762,34 @@ const translatedPassivesCN =
             ]
         },
         {
-            "originalIndex": 833,
+            "originalIndex": 834,
             "name": "Sneferu",
             "passives": [
                 "特殊技能效果：当该角色施放其特殊技能时，有 70% 几率执行以下操作：",
                 "* 对所有敌人造成 70% 的伤害。",
-                "* 驱散所有敌人最新的可驱散增益。"
+                "* 驱散所有敌人身上最新施加的可驱散增益。"
             ]
         },
         {
-            "originalIndex": 834,
+            "originalIndex": 835,
+            "name": "Sneferu C1",
+            "passives": [
+                "特殊技能效果：当该角色施放其特殊技能时，有 70% 几率执行以下操作：",
+                "* 对所有敌人造成 70% 的伤害。",
+                "* 驱散所有敌人身上最新施加的可驱散增益。",
+                "特殊技能额外效果几率：当该角色施放其特殊技能时，其任何提供额外施法效果的被动技能都有 3 次激活机会。",
+                "受到状态异常时获得法力：该角色在受到状态异常或负面效果叠加时获得 5% 的法力。"
+            ]
+        },
+        {
+            "originalIndex": 836,
             "name": "Swiftpaw",
             "passives": [
                 "降低治疗量：所有敌人获得的治疗量降低 -50%。"
             ]
         },
         {
-            "originalIndex": 835,
+            "originalIndex": 837,
             "name": "Tamlin",
             "passives": [
                 "抵抗狂乱：该角色天生对狂乱有抵抗能力。",
@@ -5782,7 +5798,7 @@ const translatedPassivesCN =
             ]
         },
         {
-            "originalIndex": 836,
+            "originalIndex": 838,
             "name": "Tenebrae",
             "passives": [
                 "抵抗特殊技能格挡：该角色天生对格挡特殊技能的状态异常有抵抗能力。",
@@ -5792,19 +5808,19 @@ const translatedPassivesCN =
             ]
         },
         {
-            "originalIndex": 837,
+            "originalIndex": 839,
             "name": "Thoth-Amun",
             "passives": []
         },
         {
-            "originalIndex": 838,
+            "originalIndex": 840,
             "name": "Thoth-Amun C1",
             "passives": [
                 "特殊技能驱散：当该角色施放其特殊技能时，会驱散所有敌人身上最新的状态效果增益。"
             ]
         },
         {
-            "originalIndex": 839,
+            "originalIndex": 841,
             "name": "Thrivaldi",
             "passives": [
                 "强化抵抗冰冻：该角色天生对冰冻有抵抗能力，并且每次抵抗时获得 450 点生命加成和 5% 的法力。",
@@ -5814,14 +5830,14 @@ const translatedPassivesCN =
             ]
         },
         {
-            "originalIndex": 840,
+            "originalIndex": 842,
             "name": "Tora",
             "passives": [
                 "降低小兵生命值：敌方小兵被召唤时继承的生命值减少 -50%。"
             ]
         },
         {
-            "originalIndex": 841,
+            "originalIndex": 843,
             "name": "Turgruk",
             "passives": [
                 "提升特殊技能伤害：该角色首次施放造成伤害的特殊技能时，其威力额外增加 50%。",
@@ -5829,14 +5845,14 @@ const translatedPassivesCN =
             ]
         },
         {
-            "originalIndex": 842,
+            "originalIndex": 844,
             "name": "Tweedles",
             "passives": [
                 "抵抗状态效果伤害：该角色天生对来自状态效果的伤害有抵抗能力。"
             ]
         },
         {
-            "originalIndex": 843,
+            "originalIndex": 845,
             "name": "Ultrox",
             "passives": [
                 "特殊技能效果：当该角色施放其特殊技能时，有 50% 几率执行以下操作：",
@@ -5845,7 +5861,7 @@ const translatedPassivesCN =
             ]
         },
         {
-            "originalIndex": 844,
+            "originalIndex": 846,
             "name": "Ultrox C1",
             "passives": [
                 "特殊技能效果：当该角色施放其特殊技能时，有 50% 几率执行以下操作：",
@@ -5855,31 +5871,31 @@ const translatedPassivesCN =
             ]
         },
         {
-            "originalIndex": 845,
+            "originalIndex": 847,
             "name": "Umbria",
             "passives": [
                 "小兵死亡时净化：当该角色拥有的小兵被摧毁时，该角色身上的状态异常会被净化。"
             ]
         },
         {
-            "originalIndex": 846,
+            "originalIndex": 848,
             "name": "Umeko",
             "passives": [
                 "降低小兵生命值：敌方小兵被召唤时继承的生命值减少 -50%。"
             ]
         },
         {
-            "originalIndex": 847,
+            "originalIndex": 849,
             "name": "Ursena",
             "passives": []
         },
         {
-            "originalIndex": 848,
+            "originalIndex": 850,
             "name": "Ursena C1",
             "passives": []
         },
         {
-            "originalIndex": 849,
+            "originalIndex": 851,
             "name": "Uthragan",
             "passives": [
                 "抵抗法力生成停止：该角色天生对阻止法力生成的状态异常有抵抗能力。",
@@ -5887,14 +5903,14 @@ const translatedPassivesCN =
             ]
         },
         {
-            "originalIndex": 850,
+            "originalIndex": 852,
             "name": "Uwe",
             "passives": [
                 "石像鬼的软化皮肤：每当此石像鬼施放特殊技能时，其软化皮肤会激活。接下来受到的 5 次伤害降低 -90%，并抵抗所有状态异常和法力削减。此效果无法被驱散。"
             ]
         },
         {
-            "originalIndex": 851,
+            "originalIndex": 853,
             "name": "Vander",
             "passives": [
                 "队伍大师：",
@@ -5905,7 +5921,7 @@ const translatedPassivesCN =
             ]
         },
         {
-            "originalIndex": 852,
+            "originalIndex": 854,
             "name": "Vard",
             "passives": [
                 "进阶无视小兵：该角色造成的所有伤害无视小兵和巨大体型小兵。",
@@ -5914,19 +5930,19 @@ const translatedPassivesCN =
             ]
         },
         {
-            "originalIndex": 853,
+            "originalIndex": 855,
             "name": "Victor",
             "passives": [
                 "窃取增益：当该角色施放其特殊技能时，有 50% 的几率从一个带有增益的随机敌人身上窃取最新的可驱散增益。如果没有敌人带有增益，则对所有敌人造成 70% 的伤害。"
             ]
         },
         {
-            "originalIndex": 854,
+            "originalIndex": 856,
             "name": "Victor C1",
             "passives": []
         },
         {
-            "originalIndex": 855,
+            "originalIndex": 857,
             "name": "Violet Potts",
             "passives": [
                 "抵抗法力削减：该角色天生对法力削减有抵抗能力。",
@@ -5934,7 +5950,7 @@ const translatedPassivesCN =
             ]
         },
         {
-            "originalIndex": 856,
+            "originalIndex": 858,
             "name": "Viscaro",
             "passives": [
                 "厄运树苗召唤师：当一名敌人使用特殊技能召唤任意小兵时，此角色会召唤厄运树苗恶魔附身于该敌人。",
@@ -5942,12 +5958,12 @@ const translatedPassivesCN =
             ]
         },
         {
-            "originalIndex": 857,
+            "originalIndex": 859,
             "name": "Viscount Cluckwood",
             "passives": []
         },
         {
-            "originalIndex": 858,
+            "originalIndex": 860,
             "name": "Voidstar",
             "passives": [
                 "抵抗剧毒：该角色天生对剧毒有抵抗能力。",
@@ -5955,7 +5971,7 @@ const translatedPassivesCN =
             ]
         },
         {
-            "originalIndex": 859,
+            "originalIndex": 861,
             "name": "Von Rothbart",
             "passives": [
                 "抵抗防御异常：该角色天生对影响防御的状态异常有抵抗能力。不适用于影响元素防御的状态异常。",
@@ -5963,7 +5979,7 @@ const translatedPassivesCN =
             ]
         },
         {
-            "originalIndex": 860,
+            "originalIndex": 862,
             "name": "Xie Zi Jing",
             "passives": [
                 "受到增益时获得法力：该角色在获得增益或正面效果叠加时，有 50% 的几率获得 10% 的法力。",
@@ -5971,19 +5987,19 @@ const translatedPassivesCN =
             ]
         },
         {
-            "originalIndex": 861,
+            "originalIndex": 863,
             "name": "Xiong Shanjun",
             "passives": []
         },
         {
-            "originalIndex": 862,
+            "originalIndex": 864,
             "name": "Xnolphod",
             "passives": [
                 "减少异常持续时间：该角色从特殊技能中收到的前 3 个状态异常的持续时间减少 1 回合。"
             ]
         },
         {
-            "originalIndex": 863,
+            "originalIndex": 865,
             "name": "Xnolphod C1",
             "passives": [
                 "减少异常持续时间：该角色从特殊技能中收到的前 3 个状态异常的持续时间减少 1 回合。",
@@ -5991,7 +6007,7 @@ const translatedPassivesCN =
             ]
         },
         {
-            "originalIndex": 864,
+            "originalIndex": 866,
             "name": "Ysabel",
             "passives": [
                 "致盲小兵：所有敌方小兵拥有 -60% 精准度。所有敌方超级小兵拥有 -50% 精准度。",
@@ -6000,7 +6016,7 @@ const translatedPassivesCN =
             ]
         },
         {
-            "originalIndex": 865,
+            "originalIndex": 867,
             "name": "Zed",
             "passives": [
                 "抵抗致盲：该角色天生对影响精准度的状态异常有抵抗能力。不包括来自盟友的原始状态效果。",
@@ -6008,68 +6024,68 @@ const translatedPassivesCN =
             ]
         },
         {
-            "originalIndex": 866,
+            "originalIndex": 868,
             "name": "Zulag",
             "passives": [
                 "抵抗沙系伤害：该角色天生对沙系伤害有抵抗能力。"
             ]
         },
         {
-            "originalIndex": 867,
+            "originalIndex": 869,
             "name": "Sharan",
             "passives": []
         },
         {
-            "originalIndex": 868,
+            "originalIndex": 870,
             "name": "Tudan",
             "passives": []
         },
         {
-            "originalIndex": 869,
+            "originalIndex": 871,
             "name": "Farid",
             "passives": []
         },
         {
-            "originalIndex": 870,
+            "originalIndex": 872,
             "name": "Jill",
             "passives": []
         },
         {
-            "originalIndex": 871,
+            "originalIndex": 873,
             "name": "Shaarkot",
             "passives": []
         },
         {
-            "originalIndex": 872,
+            "originalIndex": 874,
             "name": "Zudak",
             "passives": []
         },
         {
-            "originalIndex": 873,
+            "originalIndex": 875,
             "name": "Azar",
             "passives": []
         },
         {
-            "originalIndex": 874,
+            "originalIndex": 876,
             "name": "Azar C1",
             "passives": []
         },
         {
-            "originalIndex": 875,
+            "originalIndex": 877,
             "name": "Azar Toon",
             "passives": [
                 "卡通：额外 75% 几率抵抗所有状态异常、法力削减和增益驱散。"
             ]
         },
         {
-            "originalIndex": 876,
+            "originalIndex": 878,
             "name": "Azar Glass",
             "passives": [
                 "玻璃：额外 60% 几率将状态异常反弹给攻击者。"
             ]
         },
         {
-            "originalIndex": 877,
+            "originalIndex": 879,
             "name": "Bagreg",
             "passives": [
                 "特殊技能效果：当该角色施放其特殊技能时，有 50% 几率执行以下操作：",
@@ -6078,7 +6094,7 @@ const translatedPassivesCN =
             ]
         },
         {
-            "originalIndex": 878,
+            "originalIndex": 880,
             "name": "Bagreg C1",
             "passives": [
                 "特殊技能效果：当该角色施放其特殊技能时，有 50% 几率执行以下操作：",
@@ -6088,7 +6104,7 @@ const translatedPassivesCN =
             ]
         },
         {
-            "originalIndex": 879,
+            "originalIndex": 881,
             "name": "Basil",
             "passives": [
                 "特殊技能附带持续伤害：当该角色施放其特殊技能时，会给一个随机敌人施加猎人印记。目标在 3 回合内受到 150 点伤害。如果目标已有此效果，则持续时间刷新，伤害增加 150 点，总伤害最高可达 1500 点。",
@@ -6096,12 +6112,12 @@ const translatedPassivesCN =
             ]
         },
         {
-            "originalIndex": 880,
+            "originalIndex": 882,
             "name": "Bauchan",
             "passives": []
         },
         {
-            "originalIndex": 881,
+            "originalIndex": 883,
             "name": "Boots",
             "passives": [
                 "特殊技能效果：当该角色施放其特殊技能时，有 50% 几率执行以下操作。",
@@ -6110,12 +6126,12 @@ const translatedPassivesCN =
             ]
         },
         {
-            "originalIndex": 882,
+            "originalIndex": 884,
             "name": "Buster",
             "passives": []
         },
         {
-            "originalIndex": 883,
+            "originalIndex": 885,
             "name": "Dante",
             "passives": [
                 "降低小兵生命值：敌方小兵被召唤时继承的生命值减少 -50%。",
@@ -6123,41 +6139,41 @@ const translatedPassivesCN =
             ]
         },
         {
-            "originalIndex": 884,
+            "originalIndex": 886,
             "name": "Ei-Dunn",
             "passives": []
         },
         {
-            "originalIndex": 885,
+            "originalIndex": 887,
             "name": "Ei-Dunn C1",
             "passives": []
         },
         {
-            "originalIndex": 886,
+            "originalIndex": 888,
             "name": "Fawn",
             "passives": [
                 "受到增益时恢复生命：该角色在获得增益或正面效果叠加时恢复 5% 的生命值。"
             ]
         },
         {
-            "originalIndex": 887,
+            "originalIndex": 889,
             "name": "Hawkmoon",
             "passives": []
         },
         {
-            "originalIndex": 888,
+            "originalIndex": 890,
             "name": "Hawkmoon C1",
             "passives": []
         },
         {
-            "originalIndex": 889,
+            "originalIndex": 891,
             "name": "Hawkmoon Toon",
             "passives": [
                 "卡通：额外 75% 几率抵抗所有状态异常、法力削减和增益驱散。"
             ]
         },
         {
-            "originalIndex": 890,
+            "originalIndex": 892,
             "name": "Helgi",
             "passives": [
                 "强化抵抗燃烧：该角色天生对燃烧有抵抗能力，并且每次抵抗时获得 450 点生命加成和 5% 的法力。",
@@ -6168,43 +6184,43 @@ const translatedPassivesCN =
             ]
         },
         {
-            "originalIndex": 891,
+            "originalIndex": 893,
             "name": "Jahangir",
             "passives": []
         },
         {
-            "originalIndex": 892,
+            "originalIndex": 894,
             "name": "Jahangir C1",
             "passives": []
         },
         {
-            "originalIndex": 893,
+            "originalIndex": 895,
             "name": "Jahangir Toon",
             "passives": [
                 "卡通：额外 75% 几率抵抗所有状态异常、法力削减和增益驱散。"
             ]
         },
         {
-            "originalIndex": 894,
+            "originalIndex": 896,
             "name": "Jahangir Glass",
             "passives": [
                 "玻璃：额外 60% 几率将状态异常反弹给攻击者。"
             ]
         },
         {
-            "originalIndex": 895,
+            "originalIndex": 897,
             "name": "Kornel",
             "passives": [
                 "特殊技能造成伤害：当该角色施放其特殊技能时，有 50% 的几率对所有敌人造成 100% 的伤害。如果特殊技能完全充能，则几率为 100%。"
             ]
         },
         {
-            "originalIndex": 896,
+            "originalIndex": 898,
             "name": "Li",
             "passives": []
         },
         {
-            "originalIndex": 897,
+            "originalIndex": 899,
             "name": "Liu Tang",
             "passives": [
                 "特殊攻击暴击时净化：当该角色用特殊技能造成暴击时，会安全地净化所有盟友最新的可净化状态效果。此效果每回合可激活一次。",
@@ -6216,46 +6232,46 @@ const translatedPassivesCN =
             ]
         },
         {
-            "originalIndex": 898,
+            "originalIndex": 900,
             "name": "Namahage",
             "passives": []
         },
         {
-            "originalIndex": 899,
+            "originalIndex": 901,
             "name": "Nashgar",
             "passives": []
         },
         {
-            "originalIndex": 900,
+            "originalIndex": 902,
             "name": "Nashgar C1",
             "passives": []
         },
         {
-            "originalIndex": 901,
+            "originalIndex": 903,
             "name": "Nashgar Toon",
             "passives": [
                 "卡通：额外 75% 几率抵抗所有状态异常、法力削减和增益驱散。"
             ]
         },
         {
-            "originalIndex": 902,
+            "originalIndex": 904,
             "name": "Phoenicus",
             "passives": []
         },
         {
-            "originalIndex": 903,
+            "originalIndex": 905,
             "name": "Rosepetite",
             "passives": [
                 "闪避特殊技能伤害：该角色有 15% 的几率闪避造成伤害的特殊技能。"
             ]
         },
         {
-            "originalIndex": 904,
+            "originalIndex": 906,
             "name": "Rudolph",
             "passives": []
         },
         {
-            "originalIndex": 905,
+            "originalIndex": 907,
             "name": "Rufus",
             "passives": [
                 "当一个盟友召唤小兵时，该角色获得 5% 的生命值和 5% 的法力。此效果每回合只能激活一次。",
@@ -6263,17 +6279,17 @@ const translatedPassivesCN =
             ]
         },
         {
-            "originalIndex": 906,
+            "originalIndex": 908,
             "name": "Skrekok",
             "passives": []
         },
         {
-            "originalIndex": 907,
+            "originalIndex": 909,
             "name": "Squire Wabbit",
             "passives": []
         },
         {
-            "originalIndex": 908,
+            "originalIndex": 910,
             "name": "Starswift",
             "passives": [
                 "抵抗剧毒：该角色天生对剧毒有抵抗能力。",
@@ -6281,26 +6297,26 @@ const translatedPassivesCN =
             ]
         },
         {
-            "originalIndex": 909,
+            "originalIndex": 911,
             "name": "Sudri",
             "passives": []
         },
         {
-            "originalIndex": 910,
+            "originalIndex": 912,
             "name": "Vollermork",
             "passives": [
                 "战斗开始时获得法力：该角色在战斗开始时获得 20% 的法力。"
             ]
         },
         {
-            "originalIndex": 911,
+            "originalIndex": 913,
             "name": "Vollermork C1",
             "passives": [
                 "战斗开始时获得法力：该角色在战斗开始时获得 20% 的法力。"
             ]
         },
         {
-            "originalIndex": 912,
+            "originalIndex": 914,
             "name": "Waqas",
             "passives": [
                 "特殊技能效果：当该角色施放其特殊技能时，有 70% 几率执行以下操作：",
@@ -6309,7 +6325,7 @@ const translatedPassivesCN =
             ]
         },
         {
-            "originalIndex": 913,
+            "originalIndex": 915,
             "name": "Waqas C1",
             "passives": [
                 "特殊技能效果：当该角色施放其特殊技能时，有 70% 几率执行以下操作：",
@@ -6320,94 +6336,94 @@ const translatedPassivesCN =
             ]
         },
         {
-            "originalIndex": 914,
+            "originalIndex": 916,
             "name": "Aodhan",
             "passives": [
                 "抵抗状态效果伤害：该角色天生对来自状态效果的伤害有抵抗能力。"
             ]
         },
         {
-            "originalIndex": 915,
+            "originalIndex": 917,
             "name": "Boldtusk",
             "passives": []
         },
         {
-            "originalIndex": 916,
+            "originalIndex": 918,
             "name": "Boldtusk C1",
             "passives": []
         },
         {
-            "originalIndex": 917,
+            "originalIndex": 919,
             "name": "Boldtusk C2",
             "passives": []
         },
         {
-            "originalIndex": 918,
+            "originalIndex": 920,
             "name": "Boldtusk Toon",
             "passives": [
                 "卡通：额外 75% 几率抵抗所有状态异常、法力削减和增益驱散。"
             ]
         },
         {
-            "originalIndex": 919,
+            "originalIndex": 921,
             "name": "Boldtusk Glass",
             "passives": [
                 "玻璃：额外 60% 几率将状态异常反弹给攻击者。"
             ]
         },
         {
-            "originalIndex": 920,
+            "originalIndex": 922,
             "name": "Carol",
             "passives": []
         },
         {
-            "originalIndex": 921,
+            "originalIndex": 923,
             "name": "Cillian",
             "passives": [
                 "抵抗状态效果伤害：该角色天生对来自状态效果的伤害有抵抗能力。"
             ]
         },
         {
-            "originalIndex": 922,
+            "originalIndex": 924,
             "name": "Colen",
             "passives": []
         },
         {
-            "originalIndex": 923,
+            "originalIndex": 925,
             "name": "Colen C1",
             "passives": []
         },
         {
-            "originalIndex": 924,
+            "originalIndex": 926,
             "name": "Colen C2",
             "passives": []
         },
         {
-            "originalIndex": 925,
+            "originalIndex": 927,
             "name": "Colen Toon",
             "passives": [
                 "卡通：额外 75% 几率抵抗所有状态异常、法力削减和增益驱散。"
             ]
         },
         {
-            "originalIndex": 926,
+            "originalIndex": 928,
             "name": "Colen Glass",
             "passives": [
                 "玻璃：额外 60% 几率将状态异常反弹给攻击者。"
             ]
         },
         {
-            "originalIndex": 927,
+            "originalIndex": 929,
             "name": "Eichbelborg",
             "passives": []
         },
         {
-            "originalIndex": 928,
+            "originalIndex": 930,
             "name": "Ferant",
             "passives": []
         },
         {
-            "originalIndex": 929,
+            "originalIndex": 931,
             "name": "Ferant C1",
             "passives": [
                 "能力：延长状态效果持续时间。有机会延长所施放状态效果的持续时间。",
@@ -6416,41 +6432,41 @@ const translatedPassivesCN =
             ]
         },
         {
-            "originalIndex": 930,
+            "originalIndex": 932,
             "name": "Gormek",
             "passives": []
         },
         {
-            "originalIndex": 931,
+            "originalIndex": 933,
             "name": "Gormek C1",
             "passives": []
         },
         {
-            "originalIndex": 932,
+            "originalIndex": 934,
             "name": "Gormek C2",
             "passives": []
         },
         {
-            "originalIndex": 933,
+            "originalIndex": 935,
             "name": "Gormek Toon",
             "passives": [
                 "卡通：额外 75% 几率抵抗所有状态异常、法力削减和增益驱散。"
             ]
         },
         {
-            "originalIndex": 934,
+            "originalIndex": 936,
             "name": "Gormek Glass",
             "passives": [
                 "玻璃：额外 60% 几率将状态异常反弹给攻击者。"
             ]
         },
         {
-            "originalIndex": 935,
+            "originalIndex": 937,
             "name": "Guardian Falcon",
             "passives": []
         },
         {
-            "originalIndex": 936,
+            "originalIndex": 938,
             "name": "Itham",
             "passives": [
                 "特殊技能附带持续伤害：当该角色施放其特殊技能时，所有敌人会在 2 回合内受到 160 点水系伤害。",
@@ -6458,7 +6474,7 @@ const translatedPassivesCN =
             ]
         },
         {
-            "originalIndex": 937,
+            "originalIndex": 939,
             "name": "Junaid",
             "passives": [
                 "特殊技能效果：当该角色施放其特殊技能时，有 50% 几率执行以下操作：",
@@ -6467,7 +6483,7 @@ const translatedPassivesCN =
             ]
         },
         {
-            "originalIndex": 938,
+            "originalIndex": 940,
             "name": "Junaid C1",
             "passives": [
                 "特殊技能效果：当该角色施放其特殊技能时，有 50% 几率执行以下操作：",
@@ -6478,43 +6494,43 @@ const translatedPassivesCN =
             ]
         },
         {
-            "originalIndex": 939,
+            "originalIndex": 941,
             "name": "Kelile",
             "passives": []
         },
         {
-            "originalIndex": 940,
+            "originalIndex": 942,
             "name": "Kelile C1",
             "passives": []
         },
         {
-            "originalIndex": 941,
+            "originalIndex": 943,
             "name": "Kelile C2",
             "passives": []
         },
         {
-            "originalIndex": 942,
+            "originalIndex": 944,
             "name": "Kelile Toon",
             "passives": [
                 "卡通：额外 75% 几率抵抗所有状态异常、法力削减和增益驱散。"
             ]
         },
         {
-            "originalIndex": 943,
+            "originalIndex": 945,
             "name": "Kelile Glass",
             "passives": [
                 "玻璃：额外 60% 几率将状态异常反弹给攻击者。"
             ]
         },
         {
-            "originalIndex": 944,
+            "originalIndex": 946,
             "name": "Lemminkainen",
             "passives": [
                 "当该角色在战斗中首次以低生命值开始回合时，他们会恢复 15% 的生命值并获得 15% 的法力。"
             ]
         },
         {
-            "originalIndex": 945,
+            "originalIndex": 947,
             "name": "Lucy",
             "passives": [
                 "当该角色施放其特殊技能时，所有敌人获得 -5% 的法力生成叠加。如果特殊技能完全充能，则所有敌人获得两层叠加。一个敌人最多可以有 10 层叠加。",
@@ -6522,21 +6538,21 @@ const translatedPassivesCN =
             ]
         },
         {
-            "originalIndex": 946,
+            "originalIndex": 948,
             "name": "Mack",
             "passives": [
                 "延长增益持续时间：该英雄从特殊技能中获得的前 3 个增益效果的持续时间增加 1 回合。"
             ]
         },
         {
-            "originalIndex": 947,
+            "originalIndex": 949,
             "name": "Mack C1",
             "passives": [
                 "延长增益持续时间：该英雄从特殊技能中获得的前 3 个增益效果的持续时间增加 1 回合。"
             ]
         },
         {
-            "originalIndex": 948,
+            "originalIndex": 950,
             "name": "Maheegan",
             "passives": [
                 "特殊技能附带持续伤害：当该角色施放其特殊技能时，会给一个随机敌人施加猎人印记。目标在 3 回合内受到 150 点伤害。如果目标已有此效果，则持续时间刷新，伤害增加 150 点，总伤害最高可达 1500 点。",
@@ -6544,7 +6560,7 @@ const translatedPassivesCN =
             ]
         },
         {
-            "originalIndex": 949,
+            "originalIndex": 951,
             "name": "Manpip",
             "passives": [
                 "飞行动量：如果该角色拥有任意数量的飞行动量，其将获得：",
@@ -6555,7 +6571,7 @@ const translatedPassivesCN =
             ]
         },
         {
-            "originalIndex": 950,
+            "originalIndex": 952,
             "name": "Nova",
             "passives": [
                 "队伍大师：",
@@ -6566,7 +6582,7 @@ const translatedPassivesCN =
             ]
         },
         {
-            "originalIndex": 951,
+            "originalIndex": 953,
             "name": "Raul",
             "passives": [
                 "状态异常失效或被清除时恢复生命：每当一个状态异常从该角色身上失效、被净化、移除或重新分配时，该角色会恢复 10% 的生命值。此效果每回合只能激活一次。",
@@ -6574,112 +6590,112 @@ const translatedPassivesCN =
             ]
         },
         {
-            "originalIndex": 952,
+            "originalIndex": 954,
             "name": "Rokkamush",
             "passives": [
                 "减少异常持续时间：该角色从特殊技能中收到的前 3 个状态异常的持续时间减少 1 回合。"
             ]
         },
         {
-            "originalIndex": 953,
+            "originalIndex": 955,
             "name": "Rokkamush C1",
             "passives": [
                 "减少异常持续时间：该角色从特殊技能中收到的前 3 个状态异常的持续时间减少 1 回合。"
             ]
         },
         {
-            "originalIndex": 954,
+            "originalIndex": 956,
             "name": "Scarlett",
             "passives": []
         },
         {
-            "originalIndex": 955,
+            "originalIndex": 957,
             "name": "Scarlett C1",
             "passives": []
         },
         {
-            "originalIndex": 956,
+            "originalIndex": 958,
             "name": "Scarlett C2",
             "passives": []
         },
         {
-            "originalIndex": 957,
+            "originalIndex": 959,
             "name": "Scarlett Toon",
             "passives": [
                 "卡通：额外 75% 几率抵抗所有状态异常、法力削减和增益驱散。"
             ]
         },
         {
-            "originalIndex": 958,
+            "originalIndex": 960,
             "name": "Shadereave",
             "passives": []
         },
         {
-            "originalIndex": 959,
+            "originalIndex": 961,
             "name": "Shale",
             "passives": []
         },
         {
-            "originalIndex": 960,
+            "originalIndex": 962,
             "name": "Sir Lancelot",
             "passives": []
         },
         {
-            "originalIndex": 961,
+            "originalIndex": 963,
             "name": "Sumitomo",
             "passives": []
         },
         {
-            "originalIndex": 962,
+            "originalIndex": 964,
             "name": "Sumitomo C1",
             "passives": []
         },
         {
-            "originalIndex": 963,
+            "originalIndex": 965,
             "name": "Sumle",
             "passives": []
         },
         {
-            "originalIndex": 964,
+            "originalIndex": 966,
             "name": "Sumle C1",
             "passives": []
         },
         {
-            "originalIndex": 965,
+            "originalIndex": 967,
             "name": "Sun Shangxiang",
             "passives": []
         },
         {
-            "originalIndex": 966,
+            "originalIndex": 968,
             "name": "Vonreine",
             "passives": [
                 "石像鬼之肤：每当此石像鬼施放特殊技能时，其石肤会变硬。接下来受到的 4 次伤害降低 -90%，并抵抗所有状态异常和法力削减。此效果无法被驱散。"
             ]
         },
         {
-            "originalIndex": 967,
+            "originalIndex": 969,
             "name": "Wilbur",
             "passives": []
         },
         {
-            "originalIndex": 968,
+            "originalIndex": 970,
             "name": "Wilbur C1",
             "passives": []
         },
         {
-            "originalIndex": 969,
+            "originalIndex": 971,
             "name": "Zhabog",
             "passives": [
                 "降低复活几率：战场上所有敌人的复活几率降低。几率为原始值的 20%。"
             ]
         },
         {
-            "originalIndex": 970,
+            "originalIndex": 972,
             "name": "Zhou Yu",
             "passives": []
         },
         {
-            "originalIndex": 971,
+            "originalIndex": 973,
             "name": "Zhou Yu C1",
             "passives": [
                 "无法阻止的小兵：",
@@ -6689,14 +6705,14 @@ const translatedPassivesCN =
             ]
         },
         {
-            "originalIndex": 972,
+            "originalIndex": 974,
             "name": "Abigail",
             "passives": [
                 "古神的标记：该角色每拥有 5% 点狂乱，受到的所有伤害便降低 10，最多可降低 50%。"
             ]
         },
         {
-            "originalIndex": 973,
+            "originalIndex": 975,
             "name": "Aethslegaur",
             "passives": [
                 "强化抵抗燃烧：该角色天生对燃烧有抵抗能力，并且每次抵抗时获得 450 点生命加成和 5% 的法力。",
@@ -6707,28 +6723,28 @@ const translatedPassivesCN =
             ]
         },
         {
-            "originalIndex": 974,
+            "originalIndex": 976,
             "name": "Alucard",
             "passives": [
                 "窃取增益：当该角色施放其特殊技能时，有 50% 的几率从一个带有增益的随机敌人身上窃取最新的可驱散增益。如果没有敌人带有增益，则对所有敌人造成 70% 的伤害。"
             ]
         },
         {
-            "originalIndex": 975,
+            "originalIndex": 977,
             "name": "Alucard C1",
             "passives": [
                 "窃取增益：当该角色施放其特殊技能时，有 50% 的几率从一个带有增益的随机敌人身上窃取最新的可驱散增益。如果没有敌人带有增益，则对所有敌人造成 70% 的伤害。"
             ]
         },
         {
-            "originalIndex": 976,
+            "originalIndex": 978,
             "name": "Amber",
             "passives": [
                 "窃取增益：当该角色施放其特殊技能时，有 50% 的几率从一个带有增益的随机敌人身上窃取最新的可驱散增益。如果没有敌人带有增益，则对所有敌人造成 70% 的伤害。"
             ]
         },
         {
-            "originalIndex": 977,
+            "originalIndex": 979,
             "name": "Andy Jay",
             "passives": [
                 "特殊技能附带持续伤害：当该角色施放其特殊技能时，所有敌人会在 2 回合内受到 292 点水系伤害。",
@@ -6736,21 +6752,21 @@ const translatedPassivesCN =
             ]
         },
         {
-            "originalIndex": 978,
+            "originalIndex": 980,
             "name": "Anzogh",
             "passives": [
                 "抵抗法力生成异常：该角色天生对影响法力生成的状态异常和负面叠加有抵抗能力。不适用于阻止法力生成或偷取法力的状态异常。"
             ]
         },
         {
-            "originalIndex": 979,
+            "originalIndex": 981,
             "name": "Aradia",
             "passives": [
                 "小兵死亡时净化：当该角色拥有的小兵被摧毁时，该角色身上的状态异常会被净化。"
             ]
         },
         {
-            "originalIndex": 980,
+            "originalIndex": 982,
             "name": "Araminta",
             "passives": [
                 "致盲小兵：所有敌方小兵拥有 -60% 精准度。所有敌方超级小兵拥有 -50% 精准度。",
@@ -6759,19 +6775,19 @@ const translatedPassivesCN =
             ]
         },
         {
-            "originalIndex": 981,
+            "originalIndex": 983,
             "name": "Ares",
             "passives": []
         },
         {
-            "originalIndex": 982,
+            "originalIndex": 984,
             "name": "Ares C1",
             "passives": [
                 "特殊技能净化：当该角色施放其特殊技能时，会净化所有队友身上最新的状态异常。"
             ]
         },
         {
-            "originalIndex": 983,
+            "originalIndex": 985,
             "name": "Ash",
             "passives": [
                 "队伍大师：",
@@ -6782,58 +6798,58 @@ const translatedPassivesCN =
             ]
         },
         {
-            "originalIndex": 984,
+            "originalIndex": 986,
             "name": "Asterius",
             "passives": []
         },
         {
-            "originalIndex": 985,
+            "originalIndex": 987,
             "name": "Aurum",
             "passives": [
                 "降低小兵生命值：敌方小兵被召唤时继承的生命值减少 -50%。"
             ]
         },
         {
-            "originalIndex": 986,
+            "originalIndex": 988,
             "name": "Azlar",
             "passives": []
         },
         {
-            "originalIndex": 987,
+            "originalIndex": 989,
             "name": "Azlar C1",
             "passives": []
         },
         {
-            "originalIndex": 988,
+            "originalIndex": 990,
             "name": "Azlar C2",
             "passives": []
         },
         {
-            "originalIndex": 989,
+            "originalIndex": 991,
             "name": "Azlar Toon",
             "passives": [
                 "卡通：额外 75% 几率抵抗所有状态异常、法力削减和增益驱散。"
             ]
         },
         {
-            "originalIndex": 990,
+            "originalIndex": 992,
             "name": "Azlar Glass",
             "passives": [
                 "玻璃：额外 60% 几率将状态异常反弹给攻击者。"
             ]
         },
         {
-            "originalIndex": 991,
+            "originalIndex": 993,
             "name": "Baldur",
             "passives": []
         },
         {
-            "originalIndex": 992,
+            "originalIndex": 994,
             "name": "Baldur C1",
             "passives": []
         },
         {
-            "originalIndex": 993,
+            "originalIndex": 995,
             "name": "Barkley",
             "passives": [
                 "萌宠之怒：当恶魔被召唤到任何敌人身上时，该角色对所有敌人造成 85% 的伤害。此效果每回合只能激活一次。",
@@ -6841,14 +6857,14 @@ const translatedPassivesCN =
             ]
         },
         {
-            "originalIndex": 994,
+            "originalIndex": 996,
             "name": "Bearnadette",
             "passives": [
                 "受到增益时恢复生命：该角色在获得增益或正面效果叠加时恢复 5% 的生命值。"
             ]
         },
         {
-            "originalIndex": 995,
+            "originalIndex": 997,
             "name": "Beowulf",
             "passives": [
                 "完美精准度：该角色的特殊技能必定命中目标。",
@@ -6857,7 +6873,7 @@ const translatedPassivesCN =
             ]
         },
         {
-            "originalIndex": 996,
+            "originalIndex": 998,
             "name": "Bhima",
             "passives": [
                 "受到伤害时获得法力：",
@@ -6867,24 +6883,24 @@ const translatedPassivesCN =
             ]
         },
         {
-            "originalIndex": 997,
+            "originalIndex": 999,
             "name": "Black Caesar",
             "passives": [
                 "抵抗状态效果伤害：该角色天生对来自状态效果的伤害有抵抗能力。"
             ]
         },
         {
-            "originalIndex": 998,
+            "originalIndex": 1000,
             "name": "Black Knight",
             "passives": []
         },
         {
-            "originalIndex": 999,
+            "originalIndex": 1001,
             "name": "Black Knight C1",
             "passives": []
         },
         {
-            "originalIndex": 1000,
+            "originalIndex": 1002,
             "name": "Blossom",
             "passives": [
                 "抵抗特殊技能格挡：该角色天生对格挡特殊技能的状态异常有抵抗能力。",
@@ -6894,7 +6910,7 @@ const translatedPassivesCN =
             ]
         },
         {
-            "originalIndex": 1001,
+            "originalIndex": 1003,
             "name": "Bonecrusher",
             "passives": [
                 "猎人之毅：当该角色施放其特殊技能时，获得 +20% 的攻击力，持续 3 回合。此效果可与其他改变攻击力的效果并存。",
@@ -6902,7 +6918,7 @@ const translatedPassivesCN =
             ]
         },
         {
-            "originalIndex": 1002,
+            "originalIndex": 1004,
             "name": "Brimstone",
             "passives": [
                 "抵抗特殊技能格挡：该角色天生对格挡特殊技能的状态异常有抵抗能力。",
@@ -6913,19 +6929,19 @@ const translatedPassivesCN =
             ]
         },
         {
-            "originalIndex": 1003,
+            "originalIndex": 1005,
             "name": "Captain Kestrel",
             "passives": []
         },
         {
-            "originalIndex": 1004,
+            "originalIndex": 1006,
             "name": "Captain Nemo",
             "passives": [
                 "该角色在战斗开始时获得 20% 的法力。"
             ]
         },
         {
-            "originalIndex": 1005,
+            "originalIndex": 1007,
             "name": "Captain Nemo C1",
             "passives": [
                 "战斗开始时获得法力：该角色在战斗开始时获得 20% 的法力。",
@@ -6933,21 +6949,21 @@ const translatedPassivesCN =
             ]
         },
         {
-            "originalIndex": 1006,
+            "originalIndex": 1008,
             "name": "Cardinal Richelieu",
             "passives": [
                 "特殊技能造成伤害：当该角色受到特殊技能伤害或替处于掩护状态的角色承受伤害时，有 60% 的几率对所有敌人造成所受伤害 20% 的伤害。"
             ]
         },
         {
-            "originalIndex": 1007,
+            "originalIndex": 1009,
             "name": "Carmenta",
             "passives": [
                 "小兵死亡时净化：当该角色拥有的小兵被摧毁时，该角色身上的状态异常会被净化。"
             ]
         },
         {
-            "originalIndex": 1008,
+            "originalIndex": 1010,
             "name": "Ceris",
             "passives": [
                 "进阶无视小兵：该角色造成的所有伤害无视小兵和巨大体型小兵。",
@@ -6956,7 +6972,7 @@ const translatedPassivesCN =
             ]
         },
         {
-            "originalIndex": 1009,
+            "originalIndex": 1011,
             "name": "Charlotta",
             "passives": [
                 "抵抗攻击异常：该角色天生对影响攻击力的状态异常有抵抗能力。",
@@ -6964,7 +6980,7 @@ const translatedPassivesCN =
             ]
         },
         {
-            "originalIndex": 1010,
+            "originalIndex": 1012,
             "name": "Charmione",
             "passives": [
                 "被击败时召唤史莱姆小兵：当该角色被击败时，为附近的盟友召唤继承其 50% 生命值和 40% 攻击力的史莱姆巨大体型小兵。",
@@ -6972,7 +6988,7 @@ const translatedPassivesCN =
             ]
         },
         {
-            "originalIndex": 1011,
+            "originalIndex": 1013,
             "name": "Chomper",
             "passives": [
                 "萌宠之怒：当恶魔被召唤到任何敌人身上时，该角色对所有敌人造成 85% 的伤害。此效果每回合只能激活一次。",
@@ -6980,21 +6996,21 @@ const translatedPassivesCN =
             ]
         },
         {
-            "originalIndex": 1012,
+            "originalIndex": 1014,
             "name": "Chunkyroi",
             "passives": [
                 "闪避特殊技能伤害：该角色有 15% 的几率闪避造成伤害的特殊技能。"
             ]
         },
         {
-            "originalIndex": 1013,
+            "originalIndex": 1015,
             "name": "Cinderella",
             "passives": [
                 "抵抗状态效果伤害：该角色天生对来自状态效果的伤害有抵抗能力。"
             ]
         },
         {
-            "originalIndex": 1014,
+            "originalIndex": 1016,
             "name": "Cleaver",
             "passives": [
                 "特殊技能伤害减免：该角色有 10% 的几率将受到的特殊技能直接伤害降至 1 点。",
@@ -7002,33 +7018,33 @@ const translatedPassivesCN =
             ]
         },
         {
-            "originalIndex": 1015,
+            "originalIndex": 1017,
             "name": "Cookie",
             "passives": []
         },
         {
-            "originalIndex": 1016,
+            "originalIndex": 1018,
             "name": "Cupido",
             "passives": [
                 "抵抗特殊技能格挡：该角色天生对格挡特殊技能的状态异常有抵抗能力。"
             ]
         },
         {
-            "originalIndex": 1017,
+            "originalIndex": 1019,
             "name": "D Artagnan",
             "passives": [
                 "特殊技能和掩护伤害时造成伤害：当该角色受到特殊技能伤害或替处于掩护状态的角色承受伤害时，有 60% 的几率对所有敌人造成所受伤害 20% 的伤害。"
             ]
         },
         {
-            "originalIndex": 1018,
+            "originalIndex": 1020,
             "name": "Daemon",
             "passives": [
                 "受到增益时恢复生命：该角色在获得增益或正面效果叠加时恢复 5% 的生命值。"
             ]
         },
         {
-            "originalIndex": 1019,
+            "originalIndex": 1021,
             "name": "Dima",
             "passives": [
                 "抵抗法力削减：该角色天生对法力削减有抵抗能力。",
@@ -7036,7 +7052,7 @@ const translatedPassivesCN =
             ]
         },
         {
-            "originalIndex": 1020,
+            "originalIndex": 1022,
             "name": "Domiventus",
             "passives": [
                 "特殊技能效果：当该角色施放其特殊技能时，有 50% 几率执行以下操作：",
@@ -7045,7 +7061,7 @@ const translatedPassivesCN =
             ]
         },
         {
-            "originalIndex": 1021,
+            "originalIndex": 1023,
             "name": "Domiventus C1",
             "passives": [
                 "特殊技能效果：当该角色施放其特殊技能时，有 50% 几率执行以下操作：",
@@ -7055,7 +7071,7 @@ const translatedPassivesCN =
             ]
         },
         {
-            "originalIndex": 1022,
+            "originalIndex": 1024,
             "name": "Doxan",
             "passives": [
                 "队伍大师：",
@@ -7066,14 +7082,14 @@ const translatedPassivesCN =
             ]
         },
         {
-            "originalIndex": 1023,
+            "originalIndex": 1025,
             "name": "Dunnar Hart",
             "passives": [
                 "降低复活几率：战场上所有敌人的复活几率降低。几率为原始值的 20%。"
             ]
         },
         {
-            "originalIndex": 1024,
+            "originalIndex": 1026,
             "name": "Ebba",
             "passives": [
                 "特殊技能伤害减免：该角色有 10% 的几率将受到的特殊技能直接伤害降至 1 点。",
@@ -7081,43 +7097,43 @@ const translatedPassivesCN =
             ]
         },
         {
-            "originalIndex": 1025,
+            "originalIndex": 1027,
             "name": "El Duque",
             "passives": [
                 "石像鬼之肤：每当此石像鬼施放特殊技能时，其石肤会变硬。接下来受到的 2 次伤害将降至 1 点。此效果无法被驱散。"
             ]
         },
         {
-            "originalIndex": 1026,
+            "originalIndex": 1028,
             "name": "Elba",
             "passives": [
                 "抵抗特殊技能格挡：该角色天生对格挡特殊技能的状态异常有抵抗能力。"
             ]
         },
         {
-            "originalIndex": 1027,
+            "originalIndex": 1029,
             "name": "Elena",
             "passives": []
         },
         {
-            "originalIndex": 1028,
+            "originalIndex": 1030,
             "name": "Elena C1",
             "passives": []
         },
         {
-            "originalIndex": 1029,
+            "originalIndex": 1031,
             "name": "Elena C2",
             "passives": []
         },
         {
-            "originalIndex": 1030,
+            "originalIndex": 1032,
             "name": "Elena Toon",
             "passives": [
                 "卡通：额外 75% 几率抵抗所有状态异常、法力削减和增益驱散。"
             ]
         },
         {
-            "originalIndex": 1031,
+            "originalIndex": 1033,
             "name": "Eliane",
             "passives": [
                 "抵抗燃烧：该角色天生对燃烧有抵抗能力。",
@@ -7125,14 +7141,14 @@ const translatedPassivesCN =
             ]
         },
         {
-            "originalIndex": 1032,
+            "originalIndex": 1034,
             "name": "Elizabeth",
             "passives": [
                 "延长增益持续时间：该英雄从特殊技能中获得的前 3 个增益效果的持续时间增加 1 回合。"
             ]
         },
         {
-            "originalIndex": 1033,
+            "originalIndex": 1035,
             "name": "Elizabeth C1",
             "passives": [
                 "延长增益持续时间：该英雄从特殊技能中获得的前 3 个增益效果的持续时间增加 1 回合。",
@@ -7140,26 +7156,26 @@ const translatedPassivesCN =
             ]
         },
         {
-            "originalIndex": 1034,
+            "originalIndex": 1036,
             "name": "Ember",
             "passives": [
                 "降低治疗量：所有敌人获得的治疗量降低 -50%。"
             ]
         },
         {
-            "originalIndex": 1035,
+            "originalIndex": 1037,
             "name": "Emilio",
             "passives": []
         },
         {
-            "originalIndex": 1036,
+            "originalIndex": 1038,
             "name": "Emilio C1",
             "passives": [
                 "净化时复制异常：当该英雄身上的状态异常被净化时，会将一个被净化的状态异常的新副本施加给一个随机敌人。"
             ]
         },
         {
-            "originalIndex": 1037,
+            "originalIndex": 1039,
             "name": "Erebus",
             "passives": [
                 "抵抗防御异常：该角色天生对影响防御的状态异常有抵抗能力。此效果同样适用于影响元素防御的状态异常。",
@@ -7167,14 +7183,14 @@ const translatedPassivesCN =
             ]
         },
         {
-            "originalIndex": 1038,
+            "originalIndex": 1040,
             "name": "Eron",
             "passives": [
                 "降低通过特殊技能获得的法力：通过特殊技能增加的法力值降低 -80%。此效果对战场上的所有敌人生效。"
             ]
         },
         {
-            "originalIndex": 1039,
+            "originalIndex": 1041,
             "name": "Experience Mimic",
             "passives": [
                 "完美精准度：该角色的特殊技能必定命中目标。",
@@ -7187,7 +7203,17 @@ const translatedPassivesCN =
             ]
         },
         {
-            "originalIndex": 1040,
+            "originalIndex": 1042,
+            "name": "Fimafeng",
+            "passives": [
+                "强化抵抗冰冻：该角色天生对冰冻有抵抗能力，并且每次抵抗时获得 450 点生命加成和 5% 的法力。",
+                "极地核心：极地核心在该角色每次施放特殊技能时激活。",
+                "* 所有敌人受到腐蚀冰冻效果，持续 3 回合。当极地核心完全充能时，腐蚀冰冻造成 338 点冰冻伤害，并每回合降低目标 -15% 的攻击力。对拥有小兵或巨大体型小兵的英雄造成额外伤害。",
+                "* 冰冻伤害量根据核心的充能程度计算，核心激活时消耗所有充能。"
+            ]
+        },
+        {
+            "originalIndex": 1043,
             "name": "Flamehide",
             "passives": [
                 "抵抗法力削减：该角色天生对法力削减有抵抗能力。",
@@ -7195,7 +7221,7 @@ const translatedPassivesCN =
             ]
         },
         {
-            "originalIndex": 1041,
+            "originalIndex": 1044,
             "name": "Flip",
             "passives": [
                 "抵抗水系伤害：该角色天生对水系伤害有抵抗能力。",
@@ -7203,7 +7229,7 @@ const translatedPassivesCN =
             ]
         },
         {
-            "originalIndex": 1042,
+            "originalIndex": 1045,
             "name": "Flip C1",
             "passives": [
                 "特殊技能附带持续伤害：当该角色施放其特殊技能时，所有敌人会在 2 回合内受到 272 点水系伤害。",
@@ -7211,29 +7237,29 @@ const translatedPassivesCN =
             ]
         },
         {
-            "originalIndex": 1043,
+            "originalIndex": 1046,
             "name": "Fulvia",
             "passives": [
                 "降低通过特殊技能获得的法力：通过特殊技能增加的法力值降低 -80%。此效果对战场上的所有敌人生效。"
             ]
         },
         {
-            "originalIndex": 1044,
+            "originalIndex": 1047,
             "name": "Garnet",
             "passives": []
         },
         {
-            "originalIndex": 1045,
+            "originalIndex": 1048,
             "name": "Gefjon",
             "passives": []
         },
         {
-            "originalIndex": 1046,
+            "originalIndex": 1049,
             "name": "Gefjon C1",
             "passives": []
         },
         {
-            "originalIndex": 1047,
+            "originalIndex": 1050,
             "name": "Gestalt",
             "passives": [
                 "特殊技能效果：当该角色施放其特殊技能时，有 50% 几率执行以下操作：",
@@ -7242,7 +7268,7 @@ const translatedPassivesCN =
             ]
         },
         {
-            "originalIndex": 1048,
+            "originalIndex": 1051,
             "name": "Gestalt C1",
             "passives": [
                 "特殊技能效果：当该角色施放其特殊技能时，有 50% 几率执行以下操作：",
@@ -7252,7 +7278,7 @@ const translatedPassivesCN =
             ]
         },
         {
-            "originalIndex": 1049,
+            "originalIndex": 1052,
             "name": "Gooze",
             "passives": [
                 "被击败时召唤史莱姆小兵：当该角色被击败时，为附近的盟友召唤继承其 50% 生命值和 40% 攻击力的史莱姆巨大体型小兵。",
@@ -7260,43 +7286,43 @@ const translatedPassivesCN =
             ]
         },
         {
-            "originalIndex": 1050,
+            "originalIndex": 1053,
             "name": "Gravemaker",
             "passives": []
         },
         {
-            "originalIndex": 1051,
+            "originalIndex": 1054,
             "name": "Gravemaker C1",
             "passives": [
                 "特殊技能驱散：当该角色施放其特殊技能时，会驱散所有敌人身上最新的状态效果增益。"
             ]
         },
         {
-            "originalIndex": 1052,
+            "originalIndex": 1055,
             "name": "Grazul",
             "passives": [
                 "抵抗治疗异常：该角色天生对影响治疗的异常状态有抵抗能力。"
             ]
         },
         {
-            "originalIndex": 1053,
+            "originalIndex": 1056,
             "name": "Guardian Kong",
             "passives": []
         },
         {
-            "originalIndex": 1054,
+            "originalIndex": 1057,
             "name": "Guardian Kong C1",
             "passives": []
         },
         {
-            "originalIndex": 1055,
+            "originalIndex": 1058,
             "name": "Guffa",
             "passives": [
                 "石像鬼之肤：每当此石像鬼施放特殊技能时，其石肤会变硬。接下来受到的 5 次伤害降低 -90%，并抵抗所有状态异常和法力削减。此效果无法被驱散。"
             ]
         },
         {
-            "originalIndex": 1056,
+            "originalIndex": 1059,
             "name": "Hammerclang",
             "passives": [
                 "抵抗剧毒：该角色天生对剧毒有抵抗能力。",
@@ -7304,7 +7330,7 @@ const translatedPassivesCN =
             ]
         },
         {
-            "originalIndex": 1057,
+            "originalIndex": 1060,
             "name": "Hathor",
             "passives": [
                 "特殊技能效果：当该角色施放其特殊技能时，有 50% 几率执行以下操作。",
@@ -7313,7 +7339,7 @@ const translatedPassivesCN =
             ]
         },
         {
-            "originalIndex": 1058,
+            "originalIndex": 1061,
             "name": "Hathor C1",
             "passives": [
                 "特殊技能效果：当该角色施放其特殊技能时，有 50% 几率执行以下操作。",
@@ -7324,14 +7350,14 @@ const translatedPassivesCN =
             ]
         },
         {
-            "originalIndex": 1059,
+            "originalIndex": 1062,
             "name": "Hohenwerf",
             "passives": [
                 "石像鬼之肤：每当此石像鬼施放特殊技能时，其石肤会变硬。接下来受到的 3 次伤害将降至 1 点。此效果无法被驱散。"
             ]
         },
         {
-            "originalIndex": 1060,
+            "originalIndex": 1063,
             "name": "Hornfel",
             "passives": [
                 "抵抗特殊技能格挡：该角色天生对格挡特殊技能的状态异常有抵抗能力。",
@@ -7341,7 +7367,7 @@ const translatedPassivesCN =
             ]
         },
         {
-            "originalIndex": 1061,
+            "originalIndex": 1064,
             "name": "Hypnos",
             "passives": [
                 "抵抗防御异常：该角色天生对影响防御的状态异常有抵抗能力。此效果同样适用于影响元素防御的状态异常。",
@@ -7349,7 +7375,7 @@ const translatedPassivesCN =
             ]
         },
         {
-            "originalIndex": 1062,
+            "originalIndex": 1065,
             "name": "Iarlaith",
             "passives": [
                 "抵抗法力削减：该角色天生对法力削减有抵抗能力。",
@@ -7357,7 +7383,7 @@ const translatedPassivesCN =
             ]
         },
         {
-            "originalIndex": 1063,
+            "originalIndex": 1066,
             "name": "Ignazio",
             "passives": [
                 "队伍大师：",
@@ -7368,7 +7394,7 @@ const translatedPassivesCN =
             ]
         },
         {
-            "originalIndex": 1064,
+            "originalIndex": 1067,
             "name": "Ignazio C1",
             "passives": [
                 "队伍大师：",
@@ -7379,14 +7405,14 @@ const translatedPassivesCN =
             ]
         },
         {
-            "originalIndex": 1065,
+            "originalIndex": 1068,
             "name": "Ilmarinen",
             "passives": [
                 "西苏之力：当该角色在战斗中首次以低生命值开始回合时，他们会恢复 15% 的生命值并获得 15% 的法力。"
             ]
         },
         {
-            "originalIndex": 1066,
+            "originalIndex": 1069,
             "name": "Iocantha",
             "passives": [
                 "抵抗法力削减：该角色天生对法力削减有抵抗能力。",
@@ -7394,7 +7420,7 @@ const translatedPassivesCN =
             ]
         },
         {
-            "originalIndex": 1067,
+            "originalIndex": 1070,
             "name": "Isidore",
             "passives": [
                 "致盲小兵：所有敌方小兵拥有 -60% 精准度。所有敌方超级小兵拥有 -50% 精准度。",
@@ -7403,48 +7429,48 @@ const translatedPassivesCN =
             ]
         },
         {
-            "originalIndex": 1068,
+            "originalIndex": 1071,
             "name": "Isrod",
             "passives": []
         },
         {
-            "originalIndex": 1069,
+            "originalIndex": 1072,
             "name": "Jean-Francois",
             "passives": [
                 "抵抗生命偷取异常：该英雄天生对偷取生命的状态异常有抵抗能力。"
             ]
         },
         {
-            "originalIndex": 1070,
+            "originalIndex": 1073,
             "name": "Khagan",
             "passives": []
         },
         {
-            "originalIndex": 1071,
+            "originalIndex": 1074,
             "name": "Khagan C1",
             "passives": []
         },
         {
-            "originalIndex": 1072,
+            "originalIndex": 1075,
             "name": "Khagan C2",
             "passives": []
         },
         {
-            "originalIndex": 1073,
+            "originalIndex": 1076,
             "name": "Khagan Toon",
             "passives": [
                 "卡通：额外 75% 几率抵抗所有状态异常、法力削减和增益驱散。"
             ]
         },
         {
-            "originalIndex": 1074,
+            "originalIndex": 1077,
             "name": "Khagan Glass",
             "passives": [
                 "玻璃：额外 60% 几率将状态异常反弹给攻击者。"
             ]
         },
         {
-            "originalIndex": 1075,
+            "originalIndex": 1078,
             "name": "Khufu",
             "passives": [
                 "特殊技能效果：当该角色施放其特殊技能时，有 70% 几率执行以下操作：",
@@ -7453,7 +7479,7 @@ const translatedPassivesCN =
             ]
         },
         {
-            "originalIndex": 1076,
+            "originalIndex": 1079,
             "name": "Khufu C1",
             "passives": [
                 "特殊技能效果：当该角色施放其特殊技能时，有 70% 几率执行以下操作：",
@@ -7464,14 +7490,14 @@ const translatedPassivesCN =
             ]
         },
         {
-            "originalIndex": 1077,
+            "originalIndex": 1080,
             "name": "Kravekrush",
             "passives": [
                 "战斗开始时获得法力：该角色在战斗开始时获得 20% 的法力。"
             ]
         },
         {
-            "originalIndex": 1078,
+            "originalIndex": 1081,
             "name": "Kravekrush C1",
             "passives": [
                 "战斗开始时获得法力：该角色在战斗开始时获得 20% 的法力。",
@@ -7479,17 +7505,17 @@ const translatedPassivesCN =
             ]
         },
         {
-            "originalIndex": 1079,
+            "originalIndex": 1082,
             "name": "Lady Loki",
             "passives": []
         },
         {
-            "originalIndex": 1080,
+            "originalIndex": 1083,
             "name": "Lady Loki C1",
             "passives": []
         },
         {
-            "originalIndex": 1081,
+            "originalIndex": 1084,
             "name": "Lasalle",
             "passives": [
                 "特殊技能效果：当该角色施放其特殊技能时，有 50% 几率执行以下操作：",
@@ -7499,7 +7525,7 @@ const translatedPassivesCN =
             ]
         },
         {
-            "originalIndex": 1082,
+            "originalIndex": 1085,
             "name": "Lasalle C1",
             "passives": [
                 "特殊技能效果：当该角色施放其特殊技能时，有 50% 几率执行以下操作：",
@@ -7509,12 +7535,12 @@ const translatedPassivesCN =
             ]
         },
         {
-            "originalIndex": 1083,
+            "originalIndex": 1086,
             "name": "Lewena",
             "passives": []
         },
         {
-            "originalIndex": 1084,
+            "originalIndex": 1087,
             "name": "Li Kui",
             "passives": [
                 "特殊攻击暴击时净化：当该角色用特殊技能造成暴击时，会安全地净化所有盟友最新的可净化状态效果。此效果每回合可激活一次。",
@@ -7526,14 +7552,14 @@ const translatedPassivesCN =
             ]
         },
         {
-            "originalIndex": 1085,
+            "originalIndex": 1088,
             "name": "Lodius",
             "passives": [
                 "降低通过特殊技能获得的法力：通过特殊技能增加的法力值降低 -80%。此效果对战场上的所有敌人生效。"
             ]
         },
         {
-            "originalIndex": 1086,
+            "originalIndex": 1089,
             "name": "Madhammer",
             "passives": [
                 "特殊技能效果：当该角色施放其特殊技能时，有 50% 几率执行以下操作。",
@@ -7542,60 +7568,60 @@ const translatedPassivesCN =
             ]
         },
         {
-            "originalIndex": 1087,
+            "originalIndex": 1090,
             "name": "Malum",
             "passives": [
                 "降低小兵生命值：敌方小兵被召唤时继承的生命值减少 -50%。"
             ]
         },
         {
-            "originalIndex": 1088,
+            "originalIndex": 1091,
             "name": "Marjana",
             "passives": []
         },
         {
-            "originalIndex": 1089,
+            "originalIndex": 1092,
             "name": "Marjana C1",
             "passives": []
         },
         {
-            "originalIndex": 1090,
+            "originalIndex": 1093,
             "name": "Marjana C2",
             "passives": []
         },
         {
-            "originalIndex": 1091,
+            "originalIndex": 1094,
             "name": "Marjana Toon",
             "passives": [
                 "卡通：额外 75% 几率抵抗所有状态异常、法力削减和增益驱散。"
             ]
         },
         {
-            "originalIndex": 1092,
+            "originalIndex": 1095,
             "name": "Marjana Glass",
             "passives": [
                 "玻璃：额外 60% 几率将状态异常反弹给攻击者。"
             ]
         },
         {
-            "originalIndex": 1093,
+            "originalIndex": 1096,
             "name": "Mitsuko",
             "passives": []
         },
         {
-            "originalIndex": 1094,
+            "originalIndex": 1097,
             "name": "Mitsuko C1",
             "passives": []
         },
         {
-            "originalIndex": 1095,
+            "originalIndex": 1098,
             "name": "Nadezhda",
             "passives": [
                 "此角色在施放特殊技能时，有 50% 的几率为所有盟友恢复 15% 的生命值。若该特殊技能已完全充满，则几率为 100%。"
             ]
         },
         {
-            "originalIndex": 1096,
+            "originalIndex": 1099,
             "name": "Nadezhda C1",
             "passives": [
                 "此角色在施放特殊技能时，有 60% 的几率为所有盟友恢复 20% 的生命值。若该特殊技能已完全充满，则几率为 100%。",
@@ -7603,7 +7629,7 @@ const translatedPassivesCN =
             ]
         },
         {
-            "originalIndex": 1097,
+            "originalIndex": 1100,
             "name": "Naeem",
             "passives": [
                 "飞行动量：如果该角色拥有任意数量的飞行动量，其将获得：",
@@ -7614,19 +7640,19 @@ const translatedPassivesCN =
             ]
         },
         {
-            "originalIndex": 1098,
+            "originalIndex": 1101,
             "name": "Natalya",
             "passives": []
         },
         {
-            "originalIndex": 1099,
+            "originalIndex": 1102,
             "name": "Natalya C1",
             "passives": [
                 "特殊技能驱散：当该角色施放其特殊技能时，会驱散所有敌人身上最新的状态效果增益。"
             ]
         },
         {
-            "originalIndex": 1100,
+            "originalIndex": 1103,
             "name": "Neema",
             "passives": [
                 "无视嘲讽：该角色的特殊技能不受嘲讽影响。",
@@ -7634,14 +7660,14 @@ const translatedPassivesCN =
             ]
         },
         {
-            "originalIndex": 1101,
+            "originalIndex": 1104,
             "name": "Nibbles",
             "passives": [
                 "降低治疗量：所有敌人获得的治疗量降低 -50%。"
             ]
         },
         {
-            "originalIndex": 1102,
+            "originalIndex": 1105,
             "name": "Niki",
             "passives": [
                 "队伍大师：",
@@ -7652,21 +7678,21 @@ const translatedPassivesCN =
             ]
         },
         {
-            "originalIndex": 1103,
+            "originalIndex": 1106,
             "name": "Nomad",
             "passives": [
                 "降低小兵生命值：敌方小兵被召唤时继承的生命值减少 -50%。"
             ]
         },
         {
-            "originalIndex": 1104,
+            "originalIndex": 1107,
             "name": "Noor",
             "passives": [
                 "麻雀召唤师：当一名敌人使用特殊技能召唤任意小兵时，为自身召唤一只麻雀小兵。"
             ]
         },
         {
-            "originalIndex": 1105,
+            "originalIndex": 1108,
             "name": "Norman",
             "passives": [
                 "受到状态异常时获得法力增益：持有此技能的角色在受到任何状态异常或负面效果叠加时，获得 +24% 的法力生成，持续 3 回合。",
@@ -7675,19 +7701,19 @@ const translatedPassivesCN =
             ]
         },
         {
-            "originalIndex": 1106,
+            "originalIndex": 1109,
             "name": "Oceanus",
             "passives": []
         },
         {
-            "originalIndex": 1107,
+            "originalIndex": 1110,
             "name": "Octros",
             "passives": [
                 "延长增益持续时间：该英雄从特殊技能中获得的前 3 个增益效果的持续时间增加 1 回合。"
             ]
         },
         {
-            "originalIndex": 1108,
+            "originalIndex": 1111,
             "name": "Octros C1",
             "passives": [
                 "延长增益持续时间：该英雄从特殊技能中获得的前 3 个增益效果的持续时间增加 1 回合。",
@@ -7695,14 +7721,14 @@ const translatedPassivesCN =
             ]
         },
         {
-            "originalIndex": 1109,
+            "originalIndex": 1112,
             "name": "Omen",
             "passives": [
                 "古神的标记：该角色每拥有 5% 点狂乱，受到的所有伤害便降低 10，最多可降低 50%。"
             ]
         },
         {
-            "originalIndex": 1110,
+            "originalIndex": 1113,
             "name": "Otis",
             "passives": [
                 "猎手感知：当该角色施放其特殊技能时，有 100% 的几率将自身最新的状态异常转移给目标。如果其特殊技能无法选择敌方目标，则会随机转移至一名敌人。若此角色没有状态异常，则恢复自身 12% 的生命。",
@@ -7710,12 +7736,12 @@ const translatedPassivesCN =
             ]
         },
         {
-            "originalIndex": 1111,
+            "originalIndex": 1114,
             "name": "Ottilia",
             "passives": []
         },
         {
-            "originalIndex": 1112,
+            "originalIndex": 1115,
             "name": "Pepperflame",
             "passives": [
                 "特殊技能效果：当该角色施放其特殊技能时，有 40% 几率执行以下操作。",
@@ -7724,14 +7750,14 @@ const translatedPassivesCN =
             ]
         },
         {
-            "originalIndex": 1113,
+            "originalIndex": 1116,
             "name": "Phenexa",
             "passives": [
                 "降低复活几率：战场上所有敌人的复活几率降低。几率为原始值的 20%。"
             ]
         },
         {
-            "originalIndex": 1114,
+            "originalIndex": 1117,
             "name": "Pluth",
             "passives": [
                 "进阶无视小兵：该角色造成的所有伤害无视小兵和巨大体型小兵。",
@@ -7740,29 +7766,29 @@ const translatedPassivesCN =
             ]
         },
         {
-            "originalIndex": 1115,
+            "originalIndex": 1118,
             "name": "Puss in Boots",
             "passives": []
         },
         {
-            "originalIndex": 1116,
+            "originalIndex": 1119,
             "name": "Puss in Boots C1",
             "passives": []
         },
         {
-            "originalIndex": 1117,
+            "originalIndex": 1120,
             "name": "Queen of Hearts",
             "passives": []
         },
         {
-            "originalIndex": 1118,
+            "originalIndex": 1121,
             "name": "Queen of Hearts C1",
             "passives": [
                 "特殊技能附带莽夫乱拳：施放特殊技能时， 50% 几率对一个随机敌人施加莽夫乱拳，持续 3 回合。"
             ]
         },
         {
-            "originalIndex": 1119,
+            "originalIndex": 1122,
             "name": "Rajesh",
             "passives": [
                 "九条命：",
@@ -7777,14 +7803,14 @@ const translatedPassivesCN =
             ]
         },
         {
-            "originalIndex": 1120,
+            "originalIndex": 1123,
             "name": "Rashan",
             "passives": [
                 "古神的标记：该角色每拥有 5% 点狂乱，受到的所有伤害便降低 10，最多可降低 50%。"
             ]
         },
         {
-            "originalIndex": 1121,
+            "originalIndex": 1124,
             "name": "Ray",
             "passives": [
                 "特殊技能获得法力：当该角色施放其特殊技能时，所有敌人获得 -5% 的法力生成叠加。如果特殊技能完全充能，则所有敌人获得两层叠加。一个敌人最多可以有 10 层叠加。",
@@ -7792,12 +7818,12 @@ const translatedPassivesCN =
             ]
         },
         {
-            "originalIndex": 1122,
+            "originalIndex": 1125,
             "name": "Red Hood",
             "passives": []
         },
         {
-            "originalIndex": 1123,
+            "originalIndex": 1126,
             "name": "Regin",
             "passives": [
                 "强化抵抗燃烧：该角色天生对燃烧有抵抗能力，并且每次抵抗时获得 450 点生命加成和 5% 的法力。",
@@ -7808,14 +7834,14 @@ const translatedPassivesCN =
             ]
         },
         {
-            "originalIndex": 1124,
+            "originalIndex": 1127,
             "name": "Reuben",
             "passives": [
                 "抵抗法力生成异常：该角色天生对影响法力生成的状态异常和负面叠加有抵抗能力。不适用于阻止法力生成或偷取法力的状态异常。"
             ]
         },
         {
-            "originalIndex": 1125,
+            "originalIndex": 1128,
             "name": "Revna",
             "passives": [
                 "特殊技能伤害减免：该角色有 10% 的几率将受到的特殊技能直接伤害降至 1 点。",
@@ -7823,7 +7849,7 @@ const translatedPassivesCN =
             ]
         },
         {
-            "originalIndex": 1126,
+            "originalIndex": 1129,
             "name": "Rocket",
             "passives": [
                 "特殊技能效果：当该角色施放其特殊技能时，有 40% 几率执行以下操作。",
@@ -7832,12 +7858,12 @@ const translatedPassivesCN =
             ]
         },
         {
-            "originalIndex": 1127,
+            "originalIndex": 1130,
             "name": "Rosanna",
             "passives": []
         },
         {
-            "originalIndex": 1128,
+            "originalIndex": 1131,
             "name": "Roughian & Nurgib",
             "passives": [
                 "持续吞噬小兵并获得法力：每 3 回合吞噬一个随机敌人的所有小兵，并为每个被吞噬的小兵获得少量法力。",
@@ -7845,7 +7871,7 @@ const translatedPassivesCN =
             ]
         },
         {
-            "originalIndex": 1129,
+            "originalIndex": 1132,
             "name": "Ruadh",
             "passives": [
                 "特殊技能伤害减免：该角色有 10% 的几率将受到的特殊技能直接伤害降至 1 点。",
@@ -7853,12 +7879,12 @@ const translatedPassivesCN =
             ]
         },
         {
-            "originalIndex": 1130,
+            "originalIndex": 1133,
             "name": "Ruby",
             "passives": []
         },
         {
-            "originalIndex": 1131,
+            "originalIndex": 1134,
             "name": "Russell",
             "passives": [
                 "抵抗攻击异常：该角色天生对影响攻击力的状态异常有抵抗能力。",
@@ -7866,14 +7892,14 @@ const translatedPassivesCN =
             ]
         },
         {
-            "originalIndex": 1132,
+            "originalIndex": 1135,
             "name": "Rust",
             "passives": [
                 "降低治疗量：所有敌人获得的治疗量降低 -50%。"
             ]
         },
         {
-            "originalIndex": 1133,
+            "originalIndex": 1136,
             "name": "Salimata",
             "passives": [
                 "快节奏民谣：所有由敌人施放的民谣仅持续 1 回合。",
@@ -7881,24 +7907,24 @@ const translatedPassivesCN =
             ]
         },
         {
-            "originalIndex": 1134,
+            "originalIndex": 1137,
             "name": "Santa Claus",
             "passives": []
         },
         {
-            "originalIndex": 1135,
+            "originalIndex": 1138,
             "name": "Santa Claus C1",
             "passives": []
         },
         {
-            "originalIndex": 1136,
+            "originalIndex": 1139,
             "name": "Saoirse",
             "passives": [
                 "抵抗状态效果伤害：该角色天生对来自状态效果的伤害有抵抗能力。"
             ]
         },
         {
-            "originalIndex": 1137,
+            "originalIndex": 1140,
             "name": "Saoirse C1",
             "passives": [
                 "抵抗状态效果伤害：该角色天生对来自状态效果的伤害有抵抗能力。",
@@ -7906,7 +7932,7 @@ const translatedPassivesCN =
             ]
         },
         {
-            "originalIndex": 1138,
+            "originalIndex": 1141,
             "name": "Scoria",
             "passives": [
                 "抵抗特殊技能格挡：该角色天生对格挡特殊技能的状态异常有抵抗能力。",
@@ -7916,7 +7942,7 @@ const translatedPassivesCN =
             ]
         },
         {
-            "originalIndex": 1139,
+            "originalIndex": 1142,
             "name": "Sekhmet",
             "passives": [
                 "特殊技能效果：当该角色施放其特殊技能时，有 50% 几率执行以下操作：",
@@ -7925,7 +7951,7 @@ const translatedPassivesCN =
             ]
         },
         {
-            "originalIndex": 1140,
+            "originalIndex": 1143,
             "name": "Sekhmet C1",
             "passives": [
                 "特殊技能效果：当该角色施放其特殊技能时，有 50% 几率执行以下操作：",
@@ -7936,12 +7962,12 @@ const translatedPassivesCN =
             ]
         },
         {
-            "originalIndex": 1141,
+            "originalIndex": 1144,
             "name": "Serandite",
             "passives": []
         },
         {
-            "originalIndex": 1142,
+            "originalIndex": 1145,
             "name": "Skargremar",
             "passives": [
                 "抵抗特殊技能格挡：该角色天生对格挡特殊技能的异常状态有抵抗能力。",
@@ -7949,7 +7975,7 @@ const translatedPassivesCN =
             ]
         },
         {
-            "originalIndex": 1143,
+            "originalIndex": 1146,
             "name": "Sparklight",
             "passives": [
                 "抵抗剧毒：该角色天生对剧毒有抵抗能力。",
@@ -7957,12 +7983,12 @@ const translatedPassivesCN =
             ]
         },
         {
-            "originalIndex": 1144,
+            "originalIndex": 1147,
             "name": "Sun Quan",
             "passives": []
         },
         {
-            "originalIndex": 1145,
+            "originalIndex": 1148,
             "name": "Sun Quan C1",
             "passives": [
                 "无法阻止的小兵：",
@@ -7972,7 +7998,7 @@ const translatedPassivesCN =
             ]
         },
         {
-            "originalIndex": 1146,
+            "originalIndex": 1149,
             "name": "Tahir",
             "passives": [
                 "受到状态异常时恢复生命：该角色在受到状态异常或负面效果叠加时恢复 50 点生命值。",
@@ -7980,7 +8006,7 @@ const translatedPassivesCN =
             ]
         },
         {
-            "originalIndex": 1147,
+            "originalIndex": 1150,
             "name": "Tetisheri",
             "passives": [
                 "特殊技能效果：当该角色施放其特殊技能时，有 50% 几率执行以下操作：",
@@ -7989,7 +8015,7 @@ const translatedPassivesCN =
             ]
         },
         {
-            "originalIndex": 1148,
+            "originalIndex": 1151,
             "name": "Tetisheri C1",
             "passives": [
                 "特殊技能效果：当该角色施放其特殊技能时，有 50% 几率执行以下操作：",
@@ -8000,57 +8026,57 @@ const translatedPassivesCN =
             ]
         },
         {
-            "originalIndex": 1149,
+            "originalIndex": 1152,
             "name": "Timothy",
             "passives": []
         },
         {
-            "originalIndex": 1150,
+            "originalIndex": 1153,
             "name": "Torben",
             "passives": [
                 "受到增益时恢复生命：该角色在获得增益或正面效果叠加时恢复 5% 的生命值。"
             ]
         },
         {
-            "originalIndex": 1151,
+            "originalIndex": 1154,
             "name": "Tyr",
             "passives": []
         },
         {
-            "originalIndex": 1152,
+            "originalIndex": 1155,
             "name": "Tyr C1",
             "passives": []
         },
         {
-            "originalIndex": 1153,
+            "originalIndex": 1156,
             "name": "Ukkonen",
             "passives": [
                 "西苏之力：当该角色在战斗中首次以低生命值开始回合时，他们会恢复 15% 的生命值并获得 15% 的法力。"
             ]
         },
         {
-            "originalIndex": 1154,
+            "originalIndex": 1157,
             "name": "Ukkonen C1",
             "passives": [
                 "西苏之力：当该角色在战斗中首次以低生命值开始回合时，他们会恢复 15% 的生命值并获得 15% 的法力。"
             ]
         },
         {
-            "originalIndex": 1155,
+            "originalIndex": 1158,
             "name": "Vanda",
             "passives": [
                 "窃取增益：当该角色施放其特殊技能时，有 50% 的几率从一个带有增益的随机敌人身上窃取最新的可驱散增益。如果没有敌人带有增益，则对所有敌人造成 70% 的伤害。"
             ]
         },
         {
-            "originalIndex": 1156,
+            "originalIndex": 1159,
             "name": "Vanda C1",
             "passives": [
                 "窃取增益：当该角色施放其特殊技能时，有 50% 的几率从一个带有增益的随机敌人身上窃取最新的可驱散增益。如果没有敌人带有增益，则对所有敌人造成 70% 的伤害。"
             ]
         },
         {
-            "originalIndex": 1157,
+            "originalIndex": 1160,
             "name": "Vanya",
             "passives": [
                 "抵抗法力削减：该角色天生对法力削减有抵抗能力。",
@@ -8059,14 +8085,14 @@ const translatedPassivesCN =
             ]
         },
         {
-            "originalIndex": 1158,
+            "originalIndex": 1161,
             "name": "Xenda",
             "passives": [
                 "特殊技能伤害减免：该角色受到的特殊技能伤害降低 -20%。"
             ]
         },
         {
-            "originalIndex": 1159,
+            "originalIndex": 1162,
             "name": "Xenda C1",
             "passives": [
                 "特殊技能伤害减免：该角色受到的特殊技能伤害降低 -20%。",
@@ -8074,14 +8100,14 @@ const translatedPassivesCN =
             ]
         },
         {
-            "originalIndex": 1160,
+            "originalIndex": 1163,
             "name": "Xiaotu",
             "passives": [
                 "禁用小兵技能：所有敌方小兵的攻击和技能都被禁用。"
             ]
         },
         {
-            "originalIndex": 1161,
+            "originalIndex": 1164,
             "name": "Xiwangmu",
             "passives": [
                 "受到增益时获得法力：该角色在获得增益或正面效果叠加时，有 50% 的几率获得 10% 的法力。",
@@ -8089,7 +8115,7 @@ const translatedPassivesCN =
             ]
         },
         {
-            "originalIndex": 1162,
+            "originalIndex": 1165,
             "name": "Yang Mai",
             "passives": [
                 "法力削减时获得状态效果：当施法者的法力被削减时，其获得 +30% 的攻击力，持续 3 回合。",
@@ -8097,7 +8123,7 @@ const translatedPassivesCN =
             ]
         },
         {
-            "originalIndex": 1163,
+            "originalIndex": 1166,
             "name": "Yolanda",
             "passives": [
                 "致盲小兵：所有敌方小兵拥有 -60% 精准度。所有敌方超级小兵拥有 -50% 精准度。",
@@ -8106,7 +8132,7 @@ const translatedPassivesCN =
             ]
         },
         {
-            "originalIndex": 1164,
+            "originalIndex": 1167,
             "name": "Zagrog",
             "passives": [
                 "抵抗攻击状态效果：该角色天生对所有影响攻击力的状态效果与叠加有抵抗能力。包括增益效果。",
@@ -8114,7 +8140,7 @@ const translatedPassivesCN =
             ]
         },
         {
-            "originalIndex": 1165,
+            "originalIndex": 1168,
             "name": "Zarga",
             "passives": [
                 "流血时治疗：每当敌人受到流血伤害时，该角色恢复 50 点生命值。",
@@ -8122,7 +8148,7 @@ const translatedPassivesCN =
             ]
         },
         {
-            "originalIndex": 1166,
+            "originalIndex": 1169,
             "name": "Zaria",
             "passives": [
                 "队伍大师：",
@@ -8133,14 +8159,14 @@ const translatedPassivesCN =
             ]
         },
         {
-            "originalIndex": 1167,
+            "originalIndex": 1170,
             "name": "Zenobia",
             "passives": [
                 "延长增益持续时间：该英雄从特殊技能中获得的前 3 个增益效果的持续时间增加 1 回合。"
             ]
         },
         {
-            "originalIndex": 1168,
+            "originalIndex": 1171,
             "name": "Zenobia C1",
             "passives": [
                 "延长增益持续时间：该角色从特殊技能中获得的前 3 个增益效果的持续时间增加 1 回合。",
@@ -8148,7 +8174,7 @@ const translatedPassivesCN =
             ]
         },
         {
-            "originalIndex": 1169,
+            "originalIndex": 1172,
             "name": "Zidane",
             "passives": [
                 "根据非烈火系敌人数量提高攻击力：每场战斗开始时，每存在一个非烈火系元素的敌人，此角色的攻击力都会提高 +5%。在多个波次的战斗中，该效果将在每一波开始时刷新。",
@@ -8156,88 +8182,88 @@ const translatedPassivesCN =
             ]
         },
         {
-            "originalIndex": 1170,
+            "originalIndex": 1173,
             "name": "Zimkitha",
             "passives": []
         },
         {
-            "originalIndex": 1171,
+            "originalIndex": 1174,
             "name": "Zimkitha C1",
             "passives": [
                 "特殊技能驱散：当该角色施放其特殊技能时，会驱散所有敌人身上最新的状态效果增益。"
             ]
         },
         {
-            "originalIndex": 1172,
+            "originalIndex": 1175,
             "name": "Hikaru",
             "passives": []
         },
         {
-            "originalIndex": 1173,
+            "originalIndex": 1176,
             "name": "Kenjiro",
             "passives": []
         },
         {
-            "originalIndex": 1174,
+            "originalIndex": 1177,
             "name": "Hou",
             "passives": []
         },
         {
-            "originalIndex": 1175,
+            "originalIndex": 1178,
             "name": "Nash",
             "passives": []
         },
         {
-            "originalIndex": 1176,
+            "originalIndex": 1179,
             "name": "Sha Ji",
             "passives": []
         },
         {
-            "originalIndex": 1177,
+            "originalIndex": 1180,
             "name": "Agnes",
             "passives": []
         },
         {
-            "originalIndex": 1178,
+            "originalIndex": 1181,
             "name": "Arman",
             "passives": []
         },
         {
-            "originalIndex": 1179,
+            "originalIndex": 1182,
             "name": "Bane",
             "passives": []
         },
         {
-            "originalIndex": 1180,
+            "originalIndex": 1183,
             "name": "Bane C1",
             "passives": []
         },
         {
-            "originalIndex": 1181,
+            "originalIndex": 1184,
             "name": "Bane Toon",
             "passives": [
                 "卡通：额外 75% 几率抵抗所有状态异常、法力削减和增益驱散。"
             ]
         },
         {
-            "originalIndex": 1182,
+            "originalIndex": 1185,
             "name": "Bane Glass",
             "passives": [
                 "玻璃：额外 60% 几率将状态异常反弹给攻击者。"
             ]
         },
         {
-            "originalIndex": 1183,
+            "originalIndex": 1186,
             "name": "Bertulf",
             "passives": []
         },
         {
-            "originalIndex": 1184,
+            "originalIndex": 1187,
             "name": "Candy",
             "passives": []
         },
         {
-            "originalIndex": 1185,
+            "originalIndex": 1188,
             "name": "Cedar",
             "passives": [
                 "特殊技能附带持续伤害：当该角色施放其特殊技能时，会给一个随机敌人施加猎人印记。目标在 3 回合内受到 150 点伤害。如果目标已有此效果，则持续时间刷新，伤害增加 150 点，总伤害最高可达 1500 点。",
@@ -8245,29 +8271,29 @@ const translatedPassivesCN =
             ]
         },
         {
-            "originalIndex": 1186,
+            "originalIndex": 1189,
             "name": "Cthuwu",
             "passives": []
         },
         {
-            "originalIndex": 1187,
+            "originalIndex": 1190,
             "name": "Dawa",
             "passives": []
         },
         {
-            "originalIndex": 1188,
+            "originalIndex": 1191,
             "name": "Dawa C1",
             "passives": []
         },
         {
-            "originalIndex": 1189,
+            "originalIndex": 1192,
             "name": "Dawa Toon",
             "passives": [
                 "卡通：额外 75% 几率抵抗所有状态异常、法力削减和增益驱散。"
             ]
         },
         {
-            "originalIndex": 1190,
+            "originalIndex": 1193,
             "name": "Dolrak",
             "passives": [
                 "特殊技能附带持续伤害：当该角色施放其特殊技能时，所有敌人会在 2 回合内受到 124 点水系伤害。",
@@ -8275,7 +8301,7 @@ const translatedPassivesCN =
             ]
         },
         {
-            "originalIndex": 1191,
+            "originalIndex": 1194,
             "name": "Edelaide",
             "passives": [
                 "特殊技能附带持续伤害：当该角色施放其特殊技能时，会给一个随机敌人施加猎人印记。目标在 3 回合内受到 150 点伤害。如果目标已有此效果，则持续时间刷新，伤害增加 150 点，总伤害最高可达 1500 点。",
@@ -8283,38 +8309,38 @@ const translatedPassivesCN =
             ]
         },
         {
-            "originalIndex": 1192,
+            "originalIndex": 1195,
             "name": "Felton",
             "passives": [
                 "特殊技能造成伤害：当该角色受到特殊技能伤害或替处于掩护状态的角色承受伤害时，有 60% 的几率对所有敌人造成所受伤害 20% 的伤害。"
             ]
         },
         {
-            "originalIndex": 1193,
+            "originalIndex": 1196,
             "name": "Gan Ju",
             "passives": []
         },
         {
-            "originalIndex": 1194,
+            "originalIndex": 1197,
             "name": "Gan Ju C1",
             "passives": []
         },
         {
-            "originalIndex": 1195,
+            "originalIndex": 1198,
             "name": "Gan Ju Toon",
             "passives": [
                 "卡通：额外 75% 几率抵抗所有状态异常、法力削减和增益驱散。"
             ]
         },
         {
-            "originalIndex": 1196,
+            "originalIndex": 1199,
             "name": "Gan Ju Glass",
             "passives": [
                 "玻璃：额外 60% 几率将状态异常反弹给攻击者。"
             ]
         },
         {
-            "originalIndex": 1197,
+            "originalIndex": 1200,
             "name": "Jaco",
             "passives": [
                 "特殊技能效果：当该角色施放其特殊技能时，有 50% 几率执行以下操作：",
@@ -8323,7 +8349,7 @@ const translatedPassivesCN =
             ]
         },
         {
-            "originalIndex": 1198,
+            "originalIndex": 1201,
             "name": "Jaco C1",
             "passives": [
                 "特殊技能效果：当该角色施放其特殊技能时，有 50% 几率执行以下操作：",
@@ -8333,87 +8359,87 @@ const translatedPassivesCN =
             ]
         },
         {
-            "originalIndex": 1199,
+            "originalIndex": 1202,
             "name": "Jolly",
             "passives": []
         },
         {
-            "originalIndex": 1200,
+            "originalIndex": 1203,
             "name": "Kailani",
             "passives": []
         },
         {
-            "originalIndex": 1201,
+            "originalIndex": 1204,
             "name": "Kailani C1",
             "passives": []
         },
         {
-            "originalIndex": 1202,
+            "originalIndex": 1205,
             "name": "Kailani Toon",
             "passives": [
                 "卡通：额外 75% 几率抵抗所有状态异常、法力削减和增益驱散。"
             ]
         },
         {
-            "originalIndex": 1203,
+            "originalIndex": 1206,
             "name": "Kailani Glass",
             "passives": [
                 "玻璃：额外 60% 几率将状态异常反弹给攻击者。"
             ]
         },
         {
-            "originalIndex": 1204,
+            "originalIndex": 1207,
             "name": "Kinsaishi",
             "passives": []
         },
         {
-            "originalIndex": 1205,
+            "originalIndex": 1208,
             "name": "Kvasir",
             "passives": []
         },
         {
-            "originalIndex": 1206,
+            "originalIndex": 1209,
             "name": "Kvasir C1",
             "passives": []
         },
         {
-            "originalIndex": 1207,
+            "originalIndex": 1210,
             "name": "Melia",
             "passives": []
         },
         {
-            "originalIndex": 1208,
+            "originalIndex": 1211,
             "name": "Melia C1",
             "passives": []
         },
         {
-            "originalIndex": 1209,
+            "originalIndex": 1212,
             "name": "Paeia",
             "passives": [
                 "降低通过特殊技能获得的法力：通过特殊技能增加的法力值降低 -80%。此效果对战场上的所有敌人生效。"
             ]
         },
         {
-            "originalIndex": 1210,
+            "originalIndex": 1213,
             "name": "Pixie",
             "passives": []
         },
         {
-            "originalIndex": 1211,
+            "originalIndex": 1214,
             "name": "Poppy",
             "passives": [
                 "提升特殊技能伤害：该角色首次施放造成伤害的特殊技能时，其威力额外增加 30%。"
             ]
         },
         {
-            "originalIndex": 1212,
+            "originalIndex": 1215,
             "name": "Poppy C1",
             "passives": [
                 "提升特殊技能伤害：该角色首次施放造成伤害的特殊技能时，其威力额外增加 30%。"
             ]
         },
         {
-            "originalIndex": 1213,
+            "originalIndex": 1216,
             "name": "Rekhetre",
             "passives": [
                 "特殊技能效果：当该角色施放其特殊技能时，有 60% 几率执行以下操作：",
@@ -8422,7 +8448,7 @@ const translatedPassivesCN =
             ]
         },
         {
-            "originalIndex": 1214,
+            "originalIndex": 1217,
             "name": "Rekhetre C1",
             "passives": [
                 "特殊技能效果：当该角色施放其特殊技能时，有 60% 几率执行以下操作：",
@@ -8433,7 +8459,7 @@ const translatedPassivesCN =
             ]
         },
         {
-            "originalIndex": 1215,
+            "originalIndex": 1218,
             "name": "Ribbit",
             "passives": [
                 "当一个盟友召唤小兵时，该角色获得 5% 的生命值和 5% 的法力。此效果每回合只能激活一次。",
@@ -8441,7 +8467,7 @@ const translatedPassivesCN =
             ]
         },
         {
-            "originalIndex": 1216,
+            "originalIndex": 1219,
             "name": "Rustbeak",
             "passives": [
                 "抵抗特殊技能格挡：该角色天生对格挡特殊技能的状态异常有抵抗能力。",
@@ -8452,12 +8478,12 @@ const translatedPassivesCN =
             ]
         },
         {
-            "originalIndex": 1217,
+            "originalIndex": 1220,
             "name": "Sally",
             "passives": []
         },
         {
-            "originalIndex": 1218,
+            "originalIndex": 1221,
             "name": "Saskia",
             "passives": [
                 "致盲小兵：所有敌方小兵拥有 -60% 精准度。所有敌方超级小兵拥有 -50% 精准度。",
@@ -8466,7 +8492,7 @@ const translatedPassivesCN =
             ]
         },
         {
-            "originalIndex": 1219,
+            "originalIndex": 1222,
             "name": "Aeschere",
             "passives": [
                 "强化抵抗法力削减：该角色天生对法力削减有抵抗能力。每次抵抗时还会获得 600 点生命加成和 10% 的法力。",
@@ -8474,21 +8500,21 @@ const translatedPassivesCN =
             ]
         },
         {
-            "originalIndex": 1220,
+            "originalIndex": 1223,
             "name": "Anastasia",
             "passives": [
                 "特殊技能附加状态效果：当该角色施放其特殊技能时，有 50% 的几率为所有敌人施加 -25% 的法力生成，持续 3 回合。如果特殊技能完全充能，则几率为 100%。"
             ]
         },
         {
-            "originalIndex": 1221,
+            "originalIndex": 1224,
             "name": "Bellerive",
             "passives": [
                 "石像鬼之肤：每当此石像鬼施放特殊技能时，其石肤会变硬。接下来受到的 4 次伤害将降至 1 点。此效果无法被驱散。"
             ]
         },
         {
-            "originalIndex": 1222,
+            "originalIndex": 1225,
             "name": "Bogart",
             "passives": [
                 "特殊技能附带持续伤害：当该角色施放其特殊技能时，会给一个随机敌人施加猎人印记。目标在 3 回合内受到 150 点伤害。如果目标已有此效果，则持续时间刷新，伤害增加 150 点，总伤害最高可达 1500 点。",
@@ -8496,44 +8522,44 @@ const translatedPassivesCN =
             ]
         },
         {
-            "originalIndex": 1223,
+            "originalIndex": 1226,
             "name": "Chao",
             "passives": []
         },
         {
-            "originalIndex": 1224,
+            "originalIndex": 1227,
             "name": "Chao C1",
             "passives": []
         },
         {
-            "originalIndex": 1225,
+            "originalIndex": 1228,
             "name": "Chao C2",
             "passives": []
         },
         {
-            "originalIndex": 1226,
+            "originalIndex": 1229,
             "name": "Chao Toon",
             "passives": [
                 "卡通：额外 75% 几率抵抗所有状态异常、法力削减和增益驱散。"
             ]
         },
         {
-            "originalIndex": 1227,
+            "originalIndex": 1230,
             "name": "D'Andre",
             "passives": []
         },
         {
-            "originalIndex": 1228,
+            "originalIndex": 1231,
             "name": "Danzaburo",
             "passives": []
         },
         {
-            "originalIndex": 1229,
+            "originalIndex": 1232,
             "name": "Danzaburo C1",
             "passives": []
         },
         {
-            "originalIndex": 1230,
+            "originalIndex": 1233,
             "name": "Errin",
             "passives": [
                 "进阶无视小兵：该角色造成的所有伤害无视小兵和巨大体型小兵。",
@@ -8542,7 +8568,7 @@ const translatedPassivesCN =
             ]
         },
         {
-            "originalIndex": 1231,
+            "originalIndex": 1234,
             "name": "Fjalar",
             "passives": [
                 "强化抵抗燃烧：该角色天生对燃烧有抵抗能力，并且每次抵抗时获得 450 点生命加成和 5% 的法力。",
@@ -8553,7 +8579,7 @@ const translatedPassivesCN =
             ]
         },
         {
-            "originalIndex": 1232,
+            "originalIndex": 1235,
             "name": "Goldie",
             "passives": [
                 "特殊技能效果：当该角色施放其特殊技能时，有 50% 几率执行以下操作。",
@@ -8562,26 +8588,26 @@ const translatedPassivesCN =
             ]
         },
         {
-            "originalIndex": 1233,
+            "originalIndex": 1236,
             "name": "Gretel",
             "passives": []
         },
         {
-            "originalIndex": 1234,
+            "originalIndex": 1237,
             "name": "Griffin",
             "passives": [
                 "提升特殊技能伤害：该角色首次施放造成伤害的特殊技能时，其威力额外增加 30%。"
             ]
         },
         {
-            "originalIndex": 1235,
+            "originalIndex": 1238,
             "name": "Griffin C1",
             "passives": [
                 "提升特殊技能伤害：该角色首次施放造成伤害的特殊技能时，其威力额外增加 30%。"
             ]
         },
         {
-            "originalIndex": 1236,
+            "originalIndex": 1239,
             "name": "Gu Dasao",
             "passives": [
                 "特殊攻击暴击时净化：当该角色用特殊技能造成暴击时，会安全地净化所有盟友最新的可净化状态效果。此效果每回合可激活一次。",
@@ -8593,100 +8619,100 @@ const translatedPassivesCN =
             ]
         },
         {
-            "originalIndex": 1237,
+            "originalIndex": 1240,
             "name": "Guardian Jackal",
             "passives": []
         },
         {
-            "originalIndex": 1238,
+            "originalIndex": 1241,
             "name": "Guardian Jackal C1",
             "passives": []
         },
         {
-            "originalIndex": 1239,
+            "originalIndex": 1242,
             "name": "Gullinbursti",
             "passives": []
         },
         {
-            "originalIndex": 1240,
+            "originalIndex": 1243,
             "name": "Gullinbursti C1",
             "passives": []
         },
         {
-            "originalIndex": 1241,
+            "originalIndex": 1244,
             "name": "Holly",
             "passives": []
         },
         {
-            "originalIndex": 1242,
+            "originalIndex": 1245,
             "name": "Hu Tao",
             "passives": []
         },
         {
-            "originalIndex": 1243,
+            "originalIndex": 1246,
             "name": "Hu Tao C1",
             "passives": []
         },
         {
-            "originalIndex": 1244,
+            "originalIndex": 1247,
             "name": "Hu Tao C2",
             "passives": []
         },
         {
-            "originalIndex": 1245,
+            "originalIndex": 1248,
             "name": "Hu Tao Toon",
             "passives": [
                 "卡通：额外 75% 几率抵抗所有状态异常、法力削减和增益驱散。"
             ]
         },
         {
-            "originalIndex": 1246,
+            "originalIndex": 1249,
             "name": "Hu Tao Glass",
             "passives": [
                 "玻璃：额外 60% 几率将状态异常反弹给攻击者。"
             ]
         },
         {
-            "originalIndex": 1247,
+            "originalIndex": 1250,
             "name": "Lady Woolerton",
             "passives": []
         },
         {
-            "originalIndex": 1248,
+            "originalIndex": 1251,
             "name": "Li Xiu",
             "passives": []
         },
         {
-            "originalIndex": 1249,
+            "originalIndex": 1252,
             "name": "Li Xiu C1",
             "passives": []
         },
         {
-            "originalIndex": 1250,
+            "originalIndex": 1253,
             "name": "Li Xiu C2",
             "passives": []
         },
         {
-            "originalIndex": 1251,
+            "originalIndex": 1254,
             "name": "Li Xiu Toon",
             "passives": [
                 "卡通：额外 75% 几率抵抗所有状态异常、法力削减和增益驱散。"
             ]
         },
         {
-            "originalIndex": 1252,
+            "originalIndex": 1255,
             "name": "Li Xiu Glass",
             "passives": [
                 "玻璃：额外 60% 几率将状态异常反弹给攻击者。"
             ]
         },
         {
-            "originalIndex": 1253,
+            "originalIndex": 1256,
             "name": "Mist",
             "passives": []
         },
         {
-            "originalIndex": 1254,
+            "originalIndex": 1257,
             "name": "Scoratek",
             "passives": [
                 "特殊技能效果：当该角色施放其特殊技能时，有 50% 几率执行以下操作：",
@@ -8695,7 +8721,7 @@ const translatedPassivesCN =
             ]
         },
         {
-            "originalIndex": 1255,
+            "originalIndex": 1258,
             "name": "Scoratek C1",
             "passives": [
                 "特殊技能效果：当该角色施放其特殊技能时，有 50% 几率执行以下操作：",
@@ -8706,7 +8732,7 @@ const translatedPassivesCN =
             ]
         },
         {
-            "originalIndex": 1256,
+            "originalIndex": 1259,
             "name": "Steropes",
             "passives": [
                 "降低小兵生命值：敌方小兵被召唤时继承的生命值减少 -50%。",
@@ -8714,14 +8740,14 @@ const translatedPassivesCN =
             ]
         },
         {
-            "originalIndex": 1257,
+            "originalIndex": 1260,
             "name": "Voluptas",
             "passives": [
                 "抵抗特殊技能格挡：该角色天生对格挡特殊技能的状态异常有抵抗能力。"
             ]
         },
         {
-            "originalIndex": 1258,
+            "originalIndex": 1261,
             "name": "Waddles",
             "passives": [
                 "当一个盟友召唤小兵时，该角色获得 5% 的生命值和 5% 的法力。此效果每回合只能激活一次。",
@@ -8729,12 +8755,12 @@ const translatedPassivesCN =
             ]
         },
         {
-            "originalIndex": 1259,
+            "originalIndex": 1262,
             "name": "Wang Yuanji",
             "passives": []
         },
         {
-            "originalIndex": 1260,
+            "originalIndex": 1263,
             "name": "Wang Yuanji C1",
             "passives": [
                 "无法阻止的小兵：",
@@ -8744,29 +8770,29 @@ const translatedPassivesCN =
             ]
         },
         {
-            "originalIndex": 1261,
+            "originalIndex": 1264,
             "name": "Wu Kong",
             "passives": []
         },
         {
-            "originalIndex": 1262,
+            "originalIndex": 1265,
             "name": "Wu Kong C1",
             "passives": []
         },
         {
-            "originalIndex": 1263,
+            "originalIndex": 1266,
             "name": "Wu Kong C2",
             "passives": []
         },
         {
-            "originalIndex": 1264,
+            "originalIndex": 1267,
             "name": "Wu Kong Toon",
             "passives": [
                 "卡通：额外 75% 几率抵抗所有状态异常、法力削减和增益驱散。"
             ]
         },
         {
-            "originalIndex": 1265,
+            "originalIndex": 1268,
             "name": "Zione",
             "passives": [
                 "队伍大师：",
@@ -8777,14 +8803,14 @@ const translatedPassivesCN =
             ]
         },
         {
-            "originalIndex": 1266,
+            "originalIndex": 1269,
             "name": "Akkorog",
             "passives": [
                 "提升特殊技能伤害：该角色首次施放造成伤害的特殊技能时，其威力额外增加 30%。"
             ]
         },
         {
-            "originalIndex": 1267,
+            "originalIndex": 1270,
             "name": "Akkorog C1",
             "passives": [
                 "提升特殊技能伤害：该角色首次施放造成伤害的特殊技能时，其威力额外增加 30%。",
@@ -8792,19 +8818,19 @@ const translatedPassivesCN =
             ]
         },
         {
-            "originalIndex": 1268,
+            "originalIndex": 1271,
             "name": "Albin",
             "passives": []
         },
         {
-            "originalIndex": 1269,
+            "originalIndex": 1272,
             "name": "Alvar",
             "passives": [
                 "受到增益时恢复生命：该角色在获得增益或正面效果叠加时恢复 5% 的生命值。"
             ]
         },
         {
-            "originalIndex": 1270,
+            "originalIndex": 1273,
             "name": "Amund",
             "passives": [
                 "特殊技能伤害减免：该角色有 10% 的几率将受到的特殊技能直接伤害降至 1 点。",
@@ -8812,26 +8838,26 @@ const translatedPassivesCN =
             ]
         },
         {
-            "originalIndex": 1271,
+            "originalIndex": 1274,
             "name": "Anne",
             "passives": []
         },
         {
-            "originalIndex": 1272,
+            "originalIndex": 1275,
             "name": "Anteros",
             "passives": [
                 "抵抗特殊技能格挡：该角色天生对格挡特殊技能的状态异常有抵抗能力。"
             ]
         },
         {
-            "originalIndex": 1273,
+            "originalIndex": 1276,
             "name": "Aouda",
             "passives": [
                 "提升特殊技能伤害：该英雄首次施放造成伤害的特殊技能时，其威力额外增加 30%。"
             ]
         },
         {
-            "originalIndex": 1274,
+            "originalIndex": 1277,
             "name": "Aouda C1",
             "passives": [
                 "提升特殊技能伤害：该角色首次施放造成伤害的特殊技能时，其威力额外增加 30%。",
@@ -8839,14 +8865,14 @@ const translatedPassivesCN =
             ]
         },
         {
-            "originalIndex": 1275,
+            "originalIndex": 1278,
             "name": "Ashen",
             "passives": [
                 "降低治疗量：所有敌人获得的治疗量降低 -50%。"
             ]
         },
         {
-            "originalIndex": 1276,
+            "originalIndex": 1279,
             "name": "Astrid",
             "passives": [
                 "快节奏：民谣。",
@@ -8856,14 +8882,14 @@ const translatedPassivesCN =
             ]
         },
         {
-            "originalIndex": 1277,
+            "originalIndex": 1280,
             "name": "Auricarc",
             "passives": [
                 "闪避特殊技能伤害：该角色有 15% 的几率闪避造成伤害的特殊技能。"
             ]
         },
         {
-            "originalIndex": 1278,
+            "originalIndex": 1281,
             "name": "Aviana",
             "passives": [
                 "抵抗流血伤害：该角色天生对流血有抵抗能力。",
@@ -8871,28 +8897,28 @@ const translatedPassivesCN =
             ]
         },
         {
-            "originalIndex": 1279,
+            "originalIndex": 1282,
             "name": "Bai Yeong",
             "passives": [
                 "抵抗来自小兵的状态异常：该角色天生对来自小兵的状态异常有抵抗能力。"
             ]
         },
         {
-            "originalIndex": 1280,
+            "originalIndex": 1283,
             "name": "Baishu",
             "passives": [
                 "禁用小兵技能：所有敌方小兵的攻击和技能都被禁用。"
             ]
         },
         {
-            "originalIndex": 1281,
+            "originalIndex": 1284,
             "name": "Caitlin",
             "passives": [
                 "抵抗状态效果伤害：该角色天生对来自状态效果的伤害有抵抗能力。"
             ]
         },
         {
-            "originalIndex": 1282,
+            "originalIndex": 1285,
             "name": "Caitlin C1",
             "passives": [
                 "抵抗状态效果伤害：该角色天生对来自状态效果的伤害有抵抗能力。",
@@ -8900,7 +8926,7 @@ const translatedPassivesCN =
             ]
         },
         {
-            "originalIndex": 1283,
+            "originalIndex": 1286,
             "name": "Celidana",
             "passives": [
                 "抵抗最大生命值削减：该角色天生对最大生命值削减有抵抗能力。",
@@ -8908,7 +8934,7 @@ const translatedPassivesCN =
             ]
         },
         {
-            "originalIndex": 1284,
+            "originalIndex": 1287,
             "name": "Christine Daae",
             "passives": [
                 "抵抗攻击异常：该角色天生对影响攻击力的状态异常有抵抗能力。",
@@ -8916,7 +8942,7 @@ const translatedPassivesCN =
             ]
         },
         {
-            "originalIndex": 1285,
+            "originalIndex": 1288,
             "name": "Cleopatra",
             "passives": [
                 "特殊技能效果：当该角色施放其特殊技能时，有 60% 几率执行以下操作：",
@@ -8925,7 +8951,7 @@ const translatedPassivesCN =
             ]
         },
         {
-            "originalIndex": 1286,
+            "originalIndex": 1289,
             "name": "Cleopatra C1",
             "passives": [
                 "特殊技能效果：当该角色施放其特殊技能时，有 60% 几率执行以下操作：",
@@ -8936,14 +8962,14 @@ const translatedPassivesCN =
             ]
         },
         {
-            "originalIndex": 1287,
+            "originalIndex": 1290,
             "name": "Constance",
             "passives": [
                 "特殊技能和掩护伤害时造成伤害：当该角色受到特殊技能伤害或替处于掩护状态的角色承受伤害时，有 60% 的几率对所有敌人造成所受伤害 20% 的伤害。"
             ]
         },
         {
-            "originalIndex": 1288,
+            "originalIndex": 1291,
             "name": "Dabria",
             "passives": [
                 "特殊技能附带持续伤害：当该角色施放其特殊技能时，会给一个随机敌人施加猎人印记。目标在 3 回合内受到 150 点伤害。如果目标已有此效果，则持续时间刷新，伤害增加 150 点，总伤害最高可达 1500 点。",
@@ -8951,19 +8977,19 @@ const translatedPassivesCN =
             ]
         },
         {
-            "originalIndex": 1289,
+            "originalIndex": 1292,
             "name": "Delilah",
             "passives": []
         },
         {
-            "originalIndex": 1290,
+            "originalIndex": 1293,
             "name": "Delilah C1",
             "passives": [
                 "特殊技能净化：当该角色施放其特殊技能时，会净化所有队友身上最新的状态异常。"
             ]
         },
         {
-            "originalIndex": 1291,
+            "originalIndex": 1294,
             "name": "Devana",
             "passives": [
                 "抵抗驱散：该角色天生对增益驱散有抵抗能力。",
@@ -8971,36 +8997,36 @@ const translatedPassivesCN =
             ]
         },
         {
-            "originalIndex": 1292,
+            "originalIndex": 1295,
             "name": "Director Zuri",
             "passives": []
         },
         {
-            "originalIndex": 1293,
+            "originalIndex": 1296,
             "name": "Dolores",
             "passives": [
                 "古神的标记：该角色每拥有 5% 点狂乱，受到的所有伤害便降低 10，最多可降低 50%。"
             ]
         },
         {
-            "originalIndex": 1294,
+            "originalIndex": 1297,
             "name": "Drake Fong",
             "passives": []
         },
         {
-            "originalIndex": 1295,
+            "originalIndex": 1298,
             "name": "Drake Fong C1",
             "passives": [
                 "特殊技能驱散：当该角色施放其特殊技能时，会驱散所有敌人身上最新的状态效果增益。"
             ]
         },
         {
-            "originalIndex": 1296,
+            "originalIndex": 1299,
             "name": "Eloise",
             "passives": []
         },
         {
-            "originalIndex": 1297,
+            "originalIndex": 1300,
             "name": "Ephyra",
             "passives": [
                 "特殊技能效果：当该角色施放其特殊技能时，有 50% 几率执行以下操作：",
@@ -9009,7 +9035,7 @@ const translatedPassivesCN =
             ]
         },
         {
-            "originalIndex": 1298,
+            "originalIndex": 1301,
             "name": "Ephyra C1",
             "passives": [
                 "特殊技能效果：当该角色施放其特殊技能时，有 50% 几率执行以下操作：",
@@ -9019,12 +9045,12 @@ const translatedPassivesCN =
             ]
         },
         {
-            "originalIndex": 1299,
+            "originalIndex": 1302,
             "name": "Erlang Shen",
             "passives": []
         },
         {
-            "originalIndex": 1300,
+            "originalIndex": 1303,
             "name": "Eset",
             "passives": [
                 "特殊技能效果：当该角色施放其特殊技能时，有 70% 几率执行以下操作。",
@@ -9033,7 +9059,7 @@ const translatedPassivesCN =
             ]
         },
         {
-            "originalIndex": 1301,
+            "originalIndex": 1304,
             "name": "Eset C1",
             "passives": [
                 "特殊技能效果：当该角色施放其特殊技能时，有 70% 几率执行以下操作。",
@@ -9044,7 +9070,7 @@ const translatedPassivesCN =
             ]
         },
         {
-            "originalIndex": 1302,
+            "originalIndex": 1305,
             "name": "Experience Mimic Holy",
             "passives": [
                 "完美精准度：该角色的特殊技能必定命中目标。",
@@ -9057,7 +9083,7 @@ const translatedPassivesCN =
             ]
         },
         {
-            "originalIndex": 1303,
+            "originalIndex": 1306,
             "name": "Faeona",
             "passives": [
                 "抵抗法力削减：该角色天生对法力削减有抵抗能力。",
@@ -9065,12 +9091,12 @@ const translatedPassivesCN =
             ]
         },
         {
-            "originalIndex": 1304,
+            "originalIndex": 1307,
             "name": "Faline",
             "passives": []
         },
         {
-            "originalIndex": 1305,
+            "originalIndex": 1308,
             "name": "Frank 'Fangs' Brimwell",
             "passives": [
                 "抵抗法力削减：该角色天生对法力削减有抵抗能力。",
@@ -9078,7 +9104,7 @@ const translatedPassivesCN =
             ]
         },
         {
-            "originalIndex": 1306,
+            "originalIndex": 1309,
             "name": "Furdinand",
             "passives": [
                 "萌宠之怒：当恶魔被召唤到任何敌人身上时，该角色对所有敌人造成 85% 的伤害。此效果每回合只能激活一次。",
@@ -9086,7 +9112,7 @@ const translatedPassivesCN =
             ]
         },
         {
-            "originalIndex": 1307,
+            "originalIndex": 1310,
             "name": "Gandr",
             "passives": [
                 "强化抵抗燃烧：该角色天生对燃烧有抵抗能力，并且每次抵抗时获得 450 点生命加成和 5% 的法力。",
@@ -9097,7 +9123,7 @@ const translatedPassivesCN =
             ]
         },
         {
-            "originalIndex": 1308,
+            "originalIndex": 1311,
             "name": "Gideon",
             "passives": [
                 "抵抗防御削减：该角色天生对影响防御的状态异常、叠加和衰退效果有抵抗能力。",
@@ -9106,7 +9132,7 @@ const translatedPassivesCN =
             ]
         },
         {
-            "originalIndex": 1309,
+            "originalIndex": 1312,
             "name": "Gilligan",
             "passives": [
                 "抵抗法力异常：该角色天生对影响法力的异常状态有抵抗能力。",
@@ -9114,7 +9140,7 @@ const translatedPassivesCN =
             ]
         },
         {
-            "originalIndex": 1310,
+            "originalIndex": 1313,
             "name": "Goldrip",
             "passives": [
                 "被击败时召唤史莱姆小兵：当该角色被击败时，为附近的盟友召唤继承其 50% 生命值和 40% 攻击力的史莱姆巨大体型小兵。",
@@ -9122,7 +9148,7 @@ const translatedPassivesCN =
             ]
         },
         {
-            "originalIndex": 1311,
+            "originalIndex": 1314,
             "name": "Gongniu",
             "passives": [
                 "受到状态异常时恢复生命：该角色在受到状态异常或负面效果叠加时恢复 10% 的生命值。",
@@ -9130,7 +9156,7 @@ const translatedPassivesCN =
             ]
         },
         {
-            "originalIndex": 1312,
+            "originalIndex": 1315,
             "name": "Gooric",
             "passives": [
                 "被击败时召唤史莱姆小兵：当该角色被击败时，为附近的盟友召唤继承其 50% 生命值和 40% 攻击力的史莱姆巨大体型小兵。",
@@ -9138,7 +9164,7 @@ const translatedPassivesCN =
             ]
         },
         {
-            "originalIndex": 1313,
+            "originalIndex": 1316,
             "name": "Grilka",
             "passives": [
                 "队伍大师：",
@@ -9149,39 +9175,39 @@ const translatedPassivesCN =
             ]
         },
         {
-            "originalIndex": 1314,
+            "originalIndex": 1317,
             "name": "Guardian Elephant",
             "passives": [
                 "抵抗状态效果伤害：该角色天生对来自状态效果的伤害有抵抗能力。"
             ]
         },
         {
-            "originalIndex": 1315,
+            "originalIndex": 1318,
             "name": "Guardian Gazelle",
             "passives": []
         },
         {
-            "originalIndex": 1316,
+            "originalIndex": 1319,
             "name": "Guardian Gazelle C1",
             "passives": []
         },
         {
-            "originalIndex": 1317,
+            "originalIndex": 1320,
             "name": "Guardian Owl",
             "passives": []
         },
         {
-            "originalIndex": 1318,
+            "originalIndex": 1321,
             "name": "Guinevere",
             "passives": []
         },
         {
-            "originalIndex": 1319,
+            "originalIndex": 1322,
             "name": "Guinevere C1",
             "passives": []
         },
         {
-            "originalIndex": 1320,
+            "originalIndex": 1323,
             "name": "Gwynn",
             "passives": [
                 "抵抗特殊技能格挡：该角色天生对格挡特殊技能的状态异常有抵抗能力。",
@@ -9191,7 +9217,7 @@ const translatedPassivesCN =
             ]
         },
         {
-            "originalIndex": 1321,
+            "originalIndex": 1324,
             "name": "Hachiko",
             "passives": [
                 "魔宠之友：当小兵被召唤到任何盟友身上时，该角色获得 5% 的生命值和 5% 的法力。此效果每回合只能激活一次。",
@@ -9199,14 +9225,14 @@ const translatedPassivesCN =
             ]
         },
         {
-            "originalIndex": 1322,
+            "originalIndex": 1325,
             "name": "Halcyon",
             "passives": [
                 "降低治疗量：所有敌人获得的治疗量降低 -50%。"
             ]
         },
         {
-            "originalIndex": 1323,
+            "originalIndex": 1326,
             "name": "Hanitra",
             "passives": [
                 "抵抗特殊技能格挡：该角色天生对格挡特殊技能的状态异常有抵抗能力。",
@@ -9214,7 +9240,7 @@ const translatedPassivesCN =
             ]
         },
         {
-            "originalIndex": 1324,
+            "originalIndex": 1327,
             "name": "Haumri",
             "passives": [
                 "进阶无视小兵：该角色造成的所有伤害无视小兵和巨大体型小兵。",
@@ -9223,14 +9249,14 @@ const translatedPassivesCN =
             ]
         },
         {
-            "originalIndex": 1325,
+            "originalIndex": 1328,
             "name": "Hilda",
             "passives": [
                 "石像鬼的软化皮肤：每当此石像鬼施放特殊技能时，其软化皮肤会激活。接下来受到的 4 次伤害降低 -90%，并抵抗所有状态异常和法力削减。此效果无法被驱散。"
             ]
         },
         {
-            "originalIndex": 1326,
+            "originalIndex": 1329,
             "name": "Horus",
             "passives": [
                 "特殊技能效果：当该角色施放其特殊技能时，有 40% 几率执行以下操作：",
@@ -9239,7 +9265,7 @@ const translatedPassivesCN =
             ]
         },
         {
-            "originalIndex": 1327,
+            "originalIndex": 1330,
             "name": "Horus C1",
             "passives": [
                 "特殊技能效果：当该角色施放其特殊技能时，有 40% 几率执行以下操作：",
@@ -9250,24 +9276,24 @@ const translatedPassivesCN =
             ]
         },
         {
-            "originalIndex": 1328,
+            "originalIndex": 1331,
             "name": "Iga",
             "passives": [
                 "降低小兵生命值：敌方小兵被召唤时继承的生命值减少 -50%。"
             ]
         },
         {
-            "originalIndex": 1329,
+            "originalIndex": 1332,
             "name": "Inari",
             "passives": []
         },
         {
-            "originalIndex": 1330,
+            "originalIndex": 1333,
             "name": "Inari C1",
             "passives": []
         },
         {
-            "originalIndex": 1331,
+            "originalIndex": 1334,
             "name": "Ironmaw",
             "passives": [
                 "队伍大师：",
@@ -9278,7 +9304,7 @@ const translatedPassivesCN =
             ]
         },
         {
-            "originalIndex": 1332,
+            "originalIndex": 1335,
             "name": "Ithar",
             "passives": [
                 "闪避特殊技能伤害：该角色有 15% 的几率闪避造成伤害的特殊技能。",
@@ -9286,24 +9312,24 @@ const translatedPassivesCN =
             ]
         },
         {
-            "originalIndex": 1333,
+            "originalIndex": 1336,
             "name": "Jana",
             "passives": [
                 "小兵死亡时净化：当该角色拥有的小兵被摧毁时，该角色身上的状态异常会被净化。"
             ]
         },
         {
-            "originalIndex": 1334,
+            "originalIndex": 1337,
             "name": "Jasper",
             "passives": []
         },
         {
-            "originalIndex": 1335,
+            "originalIndex": 1338,
             "name": "Jasper C1",
             "passives": []
         },
         {
-            "originalIndex": 1336,
+            "originalIndex": 1339,
             "name": "Jequn",
             "passives": [
                 "队伍大师：",
@@ -9314,7 +9340,7 @@ const translatedPassivesCN =
             ]
         },
         {
-            "originalIndex": 1337,
+            "originalIndex": 1340,
             "name": "Jequn C1",
             "passives": [
                 "队伍大师：",
@@ -9325,65 +9351,65 @@ const translatedPassivesCN =
             ]
         },
         {
-            "originalIndex": 1338,
+            "originalIndex": 1341,
             "name": "Joon",
             "passives": []
         },
         {
-            "originalIndex": 1339,
+            "originalIndex": 1342,
             "name": "Joon C1",
             "passives": []
         },
         {
-            "originalIndex": 1340,
+            "originalIndex": 1343,
             "name": "Joon C2",
             "passives": []
         },
         {
-            "originalIndex": 1341,
+            "originalIndex": 1344,
             "name": "Joon Toon",
             "passives": [
                 "卡通：额外 75% 几率抵抗所有状态异常、法力削减和增益驱散。"
             ]
         },
         {
-            "originalIndex": 1342,
+            "originalIndex": 1345,
             "name": "Joon Glass",
             "passives": [
                 "玻璃：额外 60% 几率将状态异常反弹给攻击者。"
             ]
         },
         {
-            "originalIndex": 1343,
+            "originalIndex": 1346,
             "name": "Jove",
             "passives": [
                 "小兵死亡时净化：当该角色拥有的小兵被摧毁时，该角色身上的状态异常会被净化。"
             ]
         },
         {
-            "originalIndex": 1344,
+            "originalIndex": 1347,
             "name": "Justice",
             "passives": []
         },
         {
-            "originalIndex": 1345,
+            "originalIndex": 1348,
             "name": "Justice C1",
             "passives": []
         },
         {
-            "originalIndex": 1346,
+            "originalIndex": 1349,
             "name": "Justice C2",
             "passives": []
         },
         {
-            "originalIndex": 1347,
+            "originalIndex": 1350,
             "name": "Justice Toon",
             "passives": [
                 "卡通：额外 75% 几率抵抗所有状态异常、法力削减和增益驱散。"
             ]
         },
         {
-            "originalIndex": 1348,
+            "originalIndex": 1351,
             "name": "Kara",
             "passives": [
                 "增益被驱散时获得法力：每当该角色的一个增益效果被驱散时，其会获得 10% 的法力。",
@@ -9391,26 +9417,26 @@ const translatedPassivesCN =
             ]
         },
         {
-            "originalIndex": 1349,
+            "originalIndex": 1352,
             "name": "Kullervo",
             "passives": [
                 "西苏之力：当该角色在战斗中首次以低生命值开始回合时，他们会恢复 15% 的生命值并获得 15% 的法力。"
             ]
         },
         {
-            "originalIndex": 1350,
+            "originalIndex": 1353,
             "name": "Kullervo C1",
             "passives": [
                 "西苏之力：当该角色在战斗中首次以低生命值开始回合时，他们会恢复 15% 的生命值并获得 15% 的法力。"
             ]
         },
         {
-            "originalIndex": 1351,
+            "originalIndex": 1354,
             "name": "Kushanku",
             "passives": []
         },
         {
-            "originalIndex": 1352,
+            "originalIndex": 1355,
             "name": "Lando",
             "passives": [
                 "飞行动量：如果该角色拥有任意数量的飞行动量，其将获得：",
@@ -9421,14 +9447,14 @@ const translatedPassivesCN =
             ]
         },
         {
-            "originalIndex": 1353,
+            "originalIndex": 1356,
             "name": "Laohu",
             "passives": [
                 "禁用小兵技能：所有敌方小兵的攻击和技能都被禁用。"
             ]
         },
         {
-            "originalIndex": 1354,
+            "originalIndex": 1357,
             "name": "Lazara",
             "passives": [
                 "受到状态异常时获得法力增益：持有此技能的角色在受到任何状态异常或负面效果叠加时，获得 +24% 的法力生成，持续 3 回合。",
@@ -9437,7 +9463,7 @@ const translatedPassivesCN =
             ]
         },
         {
-            "originalIndex": 1355,
+            "originalIndex": 1358,
             "name": "Lemonwood",
             "passives": [
                 "抵抗剧毒：该角色天生对剧毒有抵抗能力。",
@@ -9445,43 +9471,43 @@ const translatedPassivesCN =
             ]
         },
         {
-            "originalIndex": 1356,
+            "originalIndex": 1359,
             "name": "Leonidas",
             "passives": []
         },
         {
-            "originalIndex": 1357,
+            "originalIndex": 1360,
             "name": "Leonidas C1",
             "passives": []
         },
         {
-            "originalIndex": 1358,
+            "originalIndex": 1361,
             "name": "Leonidas C2",
             "passives": []
         },
         {
-            "originalIndex": 1359,
+            "originalIndex": 1362,
             "name": "Leonidas Toon",
             "passives": [
                 "卡通：额外 75% 几率抵抗所有状态异常、法力削减和增益驱散。"
             ]
         },
         {
-            "originalIndex": 1360,
+            "originalIndex": 1363,
             "name": "Leonidas Glass",
             "passives": [
                 "玻璃：额外 60% 几率将状态异常反弹给攻击者。"
             ]
         },
         {
-            "originalIndex": 1361,
+            "originalIndex": 1364,
             "name": "Livia",
             "passives": [
                 "降低通过特殊技能获得的法力：通过特殊技能增加的法力值降低 -80%。此效果对战场上的所有敌人生效。"
             ]
         },
         {
-            "originalIndex": 1362,
+            "originalIndex": 1365,
             "name": "Malin",
             "passives": [
                 "特殊技能伤害减免：该角色有 10% 的几率将受到的特殊技能直接伤害降至 1 点。",
@@ -9489,21 +9515,21 @@ const translatedPassivesCN =
             ]
         },
         {
-            "originalIndex": 1363,
+            "originalIndex": 1366,
             "name": "Malosi",
             "passives": [
                 "抵抗防御异常：该英雄天生对影响防御的状态异常和负面叠加有抵抗能力。不适用于影响元素防御的状态异常。"
             ]
         },
         {
-            "originalIndex": 1364,
+            "originalIndex": 1367,
             "name": "Matilda",
             "passives": [
                 "窃取增益：当该角色施放其特殊技能时，有 50% 的几率从一个带有增益的随机敌人身上窃取最新的可驱散增益。如果没有敌人带有增益，则对所有敌人造成 70% 的伤害。"
             ]
         },
         {
-            "originalIndex": 1365,
+            "originalIndex": 1368,
             "name": "May",
             "passives": [
                 "抵抗小兵移除：该角色天生对小兵移除有抵抗能力。",
@@ -9511,7 +9537,7 @@ const translatedPassivesCN =
             ]
         },
         {
-            "originalIndex": 1366,
+            "originalIndex": 1369,
             "name": "Meg Giry",
             "passives": [
                 "抵抗防御异常：该角色天生对影响防御的状态异常有抵抗能力。",
@@ -9519,7 +9545,7 @@ const translatedPassivesCN =
             ]
         },
         {
-            "originalIndex": 1367,
+            "originalIndex": 1370,
             "name": "Melodymuse",
             "passives": [
                 "抵抗剧毒：该角色天生对剧毒有抵抗能力。",
@@ -9527,7 +9553,7 @@ const translatedPassivesCN =
             ]
         },
         {
-            "originalIndex": 1368,
+            "originalIndex": 1371,
             "name": "Meresankh",
             "passives": [
                 "特殊技能效果：当该角色施放其特殊技能时，有 60% 几率执行以下操作：",
@@ -9536,7 +9562,7 @@ const translatedPassivesCN =
             ]
         },
         {
-            "originalIndex": 1369,
+            "originalIndex": 1372,
             "name": "Meresankh C1",
             "passives": [
                 "特殊技能效果：当该角色施放其特殊技能时，有 60% 几率执行以下操作：",
@@ -9547,12 +9573,12 @@ const translatedPassivesCN =
             ]
         },
         {
-            "originalIndex": 1370,
+            "originalIndex": 1373,
             "name": "Mica",
             "passives": []
         },
         {
-            "originalIndex": 1371,
+            "originalIndex": 1374,
             "name": "Moonbell",
             "passives": [
                 "抵抗剧毒：该角色天生对剧毒有抵抗能力。",
@@ -9560,33 +9586,33 @@ const translatedPassivesCN =
             ]
         },
         {
-            "originalIndex": 1372,
+            "originalIndex": 1375,
             "name": "Motega",
             "passives": [
                 "特殊技能恢复生命：当该角色施放其特殊技能时，有 50% 的几率为所有队友恢复 15% 的生命值。如果特殊技能完全充能，则几率为 100%。"
             ]
         },
         {
-            "originalIndex": 1373,
+            "originalIndex": 1376,
             "name": "Musashi",
             "passives": []
         },
         {
-            "originalIndex": 1374,
+            "originalIndex": 1377,
             "name": "Musashi C1",
             "passives": [
                 "特殊技能驱散：当该角色施放其特殊技能时，会驱散所有敌人身上最新的状态效果增益。"
             ]
         },
         {
-            "originalIndex": 1375,
+            "originalIndex": 1378,
             "name": "Neith",
             "passives": [
                 "抵抗法力生成停止：该角色天生对阻止法力生成的状态异常有抵抗能力。"
             ]
         },
         {
-            "originalIndex": 1376,
+            "originalIndex": 1379,
             "name": "Nemesis",
             "passives": [
                 "减少防御异常持续时间：该角色从特殊技能中收到的防御状态异常的持续时间减少 2 回合。",
@@ -9594,7 +9620,7 @@ const translatedPassivesCN =
             ]
         },
         {
-            "originalIndex": 1377,
+            "originalIndex": 1380,
             "name": "Nithgaest",
             "passives": [
                 "完美精准度：该角色的特殊技能必定命中目标。",
@@ -9603,41 +9629,41 @@ const translatedPassivesCN =
             ]
         },
         {
-            "originalIndex": 1378,
+            "originalIndex": 1381,
             "name": "Norns",
             "passives": []
         },
         {
-            "originalIndex": 1379,
+            "originalIndex": 1382,
             "name": "Norns C1",
             "passives": []
         },
         {
-            "originalIndex": 1380,
+            "originalIndex": 1383,
             "name": "Odin",
             "passives": []
         },
         {
-            "originalIndex": 1381,
+            "originalIndex": 1384,
             "name": "Odin C1",
             "passives": []
         },
         {
-            "originalIndex": 1382,
+            "originalIndex": 1385,
             "name": "Ogima",
             "passives": [
                 "法力增加削减：通过特殊技能增加的法力值降低 -80%。此效果对战场上的所有敌人生效。"
             ]
         },
         {
-            "originalIndex": 1383,
+            "originalIndex": 1386,
             "name": "Onatel",
             "passives": [
                 "抵抗致盲：该角色天生对影响精准度的状态异常有抵抗能力。不适用于来自盟友的状态效果。"
             ]
         },
         {
-            "originalIndex": 1384,
+            "originalIndex": 1387,
             "name": "Papyros",
             "passives": [
                 "特殊技能效果：当该角色施放其特殊技能时，有 60% 几率执行以下操作：",
@@ -9646,7 +9672,7 @@ const translatedPassivesCN =
             ]
         },
         {
-            "originalIndex": 1385,
+            "originalIndex": 1388,
             "name": "Papyros C1",
             "passives": [
                 "特殊技能效果：当该角色施放其特殊技能时，有 60% 几率执行以下操作：",
@@ -9657,14 +9683,14 @@ const translatedPassivesCN =
             ]
         },
         {
-            "originalIndex": 1386,
+            "originalIndex": 1389,
             "name": "Penolite",
             "passives": [
                 "石像鬼之肤：每当此石像鬼施放特殊技能时，其石肤会变硬。接下来受到的 4 次伤害将降至 1 点。此效果无法被驱散。"
             ]
         },
         {
-            "originalIndex": 1387,
+            "originalIndex": 1390,
             "name": "Persa",
             "passives": [
                 "特殊技能效果：",
@@ -9674,7 +9700,7 @@ const translatedPassivesCN =
             ]
         },
         {
-            "originalIndex": 1388,
+            "originalIndex": 1391,
             "name": "Persa C1",
             "passives": [
                 "特殊技能效果：",
@@ -9685,14 +9711,14 @@ const translatedPassivesCN =
             ]
         },
         {
-            "originalIndex": 1389,
+            "originalIndex": 1392,
             "name": "Pertinax",
             "passives": [
                 "降低通过特殊技能获得的法力：通过特殊技能增加的法力值降低 -80%。此效果对战场上的所有敌人生效。"
             ]
         },
         {
-            "originalIndex": 1390,
+            "originalIndex": 1393,
             "name": "Philomena",
             "passives": [
                 "致盲小兵：所有敌方小兵拥有 -60% 精准度。所有敌方超级小兵拥有 -50% 精准度。",
@@ -9701,24 +9727,24 @@ const translatedPassivesCN =
             ]
         },
         {
-            "originalIndex": 1391,
+            "originalIndex": 1394,
             "name": "Poseidon",
             "passives": []
         },
         {
-            "originalIndex": 1392,
+            "originalIndex": 1395,
             "name": "Poseidon C1",
             "passives": []
         },
         {
-            "originalIndex": 1393,
+            "originalIndex": 1396,
             "name": "Prof. Lidenbrock",
             "passives": [
                 "战斗开始时获得法力：该角色在战斗开始时获得 20% 的法力。"
             ]
         },
         {
-            "originalIndex": 1394,
+            "originalIndex": 1397,
             "name": "Prof. Lidenbrock C1",
             "passives": [
                 "战斗开始时获得法力：该角色在战斗开始时获得 20% 的法力。",
@@ -9726,46 +9752,46 @@ const translatedPassivesCN =
             ]
         },
         {
-            "originalIndex": 1395,
+            "originalIndex": 1398,
             "name": "Queen Guowang",
             "passives": []
         },
         {
-            "originalIndex": 1396,
+            "originalIndex": 1399,
             "name": "Rana",
             "passives": []
         },
         {
-            "originalIndex": 1397,
+            "originalIndex": 1400,
             "name": "Rana C1",
             "passives": []
         },
         {
-            "originalIndex": 1398,
+            "originalIndex": 1401,
             "name": "Ranvir",
             "passives": [
                 "抵抗剧毒：该角色天生对剧毒有抵抗能力。"
             ]
         },
         {
-            "originalIndex": 1399,
+            "originalIndex": 1402,
             "name": "Rhys",
             "passives": [
                 "法力增加削减：通过特殊技能增加的法力值降低 -80%。此效果对战场上的所有敌人生效。"
             ]
         },
         {
-            "originalIndex": 1400,
+            "originalIndex": 1403,
             "name": "Roc",
             "passives": []
         },
         {
-            "originalIndex": 1401,
+            "originalIndex": 1404,
             "name": "Roc C1",
             "passives": []
         },
         {
-            "originalIndex": 1402,
+            "originalIndex": 1405,
             "name": "Rosalind",
             "passives": [
                 "抵抗法力削减：该角色天生对法力削减有抵抗能力。",
@@ -9773,7 +9799,7 @@ const translatedPassivesCN =
             ]
         },
         {
-            "originalIndex": 1403,
+            "originalIndex": 1406,
             "name": "Ruan Xiaoqi",
             "passives": [
                 "特殊攻击暴击时净化：当该角色用特殊技能造成暴击时，会安全地净化所有盟友最新的可净化状态效果。此效果每回合可激活一次。",
@@ -9785,7 +9811,7 @@ const translatedPassivesCN =
             ]
         },
         {
-            "originalIndex": 1404,
+            "originalIndex": 1407,
             "name": "Salniss",
             "passives": [
                 "进阶无视小兵：该角色造成的所有伤害无视小兵和巨大体型小兵。",
@@ -9794,14 +9820,14 @@ const translatedPassivesCN =
             ]
         },
         {
-            "originalIndex": 1405,
+            "originalIndex": 1408,
             "name": "Satinpimenter",
             "passives": [
                 "闪避特殊技能伤害：该角色有 15% 的几率闪避造成伤害的特殊技能。"
             ]
         },
         {
-            "originalIndex": 1406,
+            "originalIndex": 1409,
             "name": "Scrollbeast",
             "passives": [
                 "特殊技能效果：当该角色施放其特殊技能时，有 60% 几率执行以下操作。",
@@ -9810,7 +9836,7 @@ const translatedPassivesCN =
             ]
         },
         {
-            "originalIndex": 1407,
+            "originalIndex": 1410,
             "name": "Shaal",
             "passives": [
                 "抵抗特殊技能格挡：该角色天生对格挡特殊技能的状态异常有抵抗能力。",
@@ -9820,7 +9846,7 @@ const translatedPassivesCN =
             ]
         },
         {
-            "originalIndex": 1408,
+            "originalIndex": 1411,
             "name": "Shimmerscale",
             "passives": [
                 "抵抗法力削减：该角色天生对法力削减有抵抗能力。",
@@ -9828,29 +9854,29 @@ const translatedPassivesCN =
             ]
         },
         {
-            "originalIndex": 1409,
+            "originalIndex": 1412,
             "name": "Sif",
             "passives": []
         },
         {
-            "originalIndex": 1410,
+            "originalIndex": 1413,
             "name": "Sif C1",
             "passives": []
         },
         {
-            "originalIndex": 1411,
+            "originalIndex": 1414,
             "name": "Silverpaw",
             "passives": [
                 "降低治疗量：所有敌人获得的治疗量降低 -50%。"
             ]
         },
         {
-            "originalIndex": 1412,
+            "originalIndex": 1415,
             "name": "Sir Roostley",
             "passives": []
         },
         {
-            "originalIndex": 1413,
+            "originalIndex": 1416,
             "name": "Sludgus",
             "passives": [
                 "被击败时召唤史莱姆小兵：当该角色被击败时，为附近的盟友召唤继承其 50% 生命值和 40% 攻击力的史莱姆巨大体型小兵。",
@@ -9858,7 +9884,7 @@ const translatedPassivesCN =
             ]
         },
         {
-            "originalIndex": 1414,
+            "originalIndex": 1417,
             "name": "Tang Sanzang",
             "passives": [
                 "受到增益时获得法力：该角色在获得增益或正面效果叠加时，有 50% 的几率获得 10% 的法力。",
@@ -9866,17 +9892,17 @@ const translatedPassivesCN =
             ]
         },
         {
-            "originalIndex": 1415,
+            "originalIndex": 1418,
             "name": "Thor",
             "passives": []
         },
         {
-            "originalIndex": 1416,
+            "originalIndex": 1419,
             "name": "Thor C1",
             "passives": []
         },
         {
-            "originalIndex": 1417,
+            "originalIndex": 1420,
             "name": "Thunderclap",
             "passives": [
                 "特殊技能附带持续伤害：当该角色施放其特殊技能时，会给一个随机敌人施加猎人印记。目标在 3 回合内受到 150 点伤害。如果目标已有此效果，则持续时间刷新，伤害增加 150 点，总伤害最高可达 1500 点。",
@@ -9884,7 +9910,7 @@ const translatedPassivesCN =
             ]
         },
         {
-            "originalIndex": 1418,
+            "originalIndex": 1421,
             "name": "Thura",
             "passives": [
                 "特殊技能伤害减免：该角色有 10% 的几率将受到的特殊技能直接伤害降至 1 点。",
@@ -9892,12 +9918,12 @@ const translatedPassivesCN =
             ]
         },
         {
-            "originalIndex": 1419,
+            "originalIndex": 1422,
             "name": "Topaz",
             "passives": []
         },
         {
-            "originalIndex": 1420,
+            "originalIndex": 1423,
             "name": "Uraeus",
             "passives": [
                 "抵抗沙系伤害：该角色天生对沙系伤害有抵抗能力。",
@@ -9905,7 +9931,7 @@ const translatedPassivesCN =
             ]
         },
         {
-            "originalIndex": 1421,
+            "originalIndex": 1424,
             "name": "Vaishali",
             "passives": [
                 "特殊技能叠加：当该角色施放其特殊技能时，所有敌人获得 -5% 的法力生成叠加。如果特殊技能完全充能，则所有敌人获得两层叠加。一个敌人最多可以有 10 层叠加。",
@@ -9913,43 +9939,43 @@ const translatedPassivesCN =
             ]
         },
         {
-            "originalIndex": 1422,
+            "originalIndex": 1425,
             "name": "Vivica",
             "passives": []
         },
         {
-            "originalIndex": 1423,
+            "originalIndex": 1426,
             "name": "Vivica C1",
             "passives": []
         },
         {
-            "originalIndex": 1424,
+            "originalIndex": 1427,
             "name": "Vivica C2",
             "passives": []
         },
         {
-            "originalIndex": 1425,
+            "originalIndex": 1428,
             "name": "Vivica Toon",
             "passives": [
                 "卡通：额外 75% 几率抵抗所有状态异常、法力削减和增益驱散。"
             ]
         },
         {
-            "originalIndex": 1426,
+            "originalIndex": 1429,
             "name": "Vivica Glass",
             "passives": [
                 "玻璃：额外 60% 几率将状态异常反弹给攻击者。"
             ]
         },
         {
-            "originalIndex": 1427,
+            "originalIndex": 1430,
             "name": "Wayne",
             "passives": [
                 "窃取增益：当该角色施放其特殊技能时，有 50% 的几率从一个带有增益的随机敌人身上窃取最新的可驱散增益。如果没有敌人带有增益，则对所有敌人造成 70% 的伤害。"
             ]
         },
         {
-            "originalIndex": 1428,
+            "originalIndex": 1431,
             "name": "Wealhtheow",
             "passives": [
                 "受到增益时获得法力：该角色在获得增益或正面效果叠加时获得 5% 的法力。",
@@ -9958,19 +9984,19 @@ const translatedPassivesCN =
             ]
         },
         {
-            "originalIndex": 1429,
+            "originalIndex": 1432,
             "name": "White Rabbit",
             "passives": []
         },
         {
-            "originalIndex": 1430,
+            "originalIndex": 1433,
             "name": "White Rabbit C1",
             "passives": [
                 "特殊技能附带莽夫乱拳：施放特殊技能时， 50% 几率对一个随机敌人施加莽夫乱拳，持续 3 回合。"
             ]
         },
         {
-            "originalIndex": 1431,
+            "originalIndex": 1434,
             "name": "Willow",
             "passives": [
                 "特殊技能恢复生命：当该角色施放其特殊技能时，有 50% 的几率为所有队友恢复 15% 的生命值。如果特殊技能完全充能，则几率为 100%。",
@@ -9978,7 +10004,7 @@ const translatedPassivesCN =
             ]
         },
         {
-            "originalIndex": 1432,
+            "originalIndex": 1435,
             "name": "Winnie",
             "passives": [
                 "受到增益时获得法力：在获得增益或正面效果叠加时获得 5% 的法力。",
@@ -9986,12 +10012,12 @@ const translatedPassivesCN =
             ]
         },
         {
-            "originalIndex": 1433,
+            "originalIndex": 1436,
             "name": "Wolfgang",
             "passives": []
         },
         {
-            "originalIndex": 1434,
+            "originalIndex": 1437,
             "name": "Wolfgang C1",
             "passives": [
                 "延长状态效果持续时间：增加施放状态效果持续时间的几率。",
@@ -10000,12 +10026,12 @@ const translatedPassivesCN =
             ]
         },
         {
-            "originalIndex": 1435,
+            "originalIndex": 1438,
             "name": "Wulfstan",
             "passives": []
         },
         {
-            "originalIndex": 1436,
+            "originalIndex": 1439,
             "name": "Xavier",
             "passives": [
                 "队伍大师：",
@@ -10016,7 +10042,7 @@ const translatedPassivesCN =
             ]
         },
         {
-            "originalIndex": 1437,
+            "originalIndex": 1440,
             "name": "Zandria",
             "passives": [
                 "队伍大师：",
@@ -10027,7 +10053,7 @@ const translatedPassivesCN =
             ]
         },
         {
-            "originalIndex": 1438,
+            "originalIndex": 1441,
             "name": "Zazha",
             "passives": [
                 "飞行动量：如果该角色拥有任意数量的飞行动量，其将获得：",
@@ -10038,21 +10064,21 @@ const translatedPassivesCN =
             ]
         },
         {
-            "originalIndex": 1439,
+            "originalIndex": 1442,
             "name": "Zekena",
             "passives": [
                 "延长增益持续时间：该英雄从特殊技能中获得的前 3 个增益效果的持续时间增加 1 回合。"
             ]
         },
         {
-            "originalIndex": 1440,
+            "originalIndex": 1443,
             "name": "Zekena C1",
             "passives": [
                 "对生命加成目标造成更高伤害：在该角色施放特殊技能后，所有盟友对具有生命加成的目标造成的普通攻击和特殊技能伤害提高 +70%，持续 4 回合。"
             ]
         },
         {
-            "originalIndex": 1441,
+            "originalIndex": 1444,
             "name": "Zenuk'wa",
             "passives": [
                 "特殊技能附带持续伤害：当该角色施放其特殊技能时，所有敌人会在 2 回合内受到 238 点水系伤害。",
@@ -10060,12 +10086,12 @@ const translatedPassivesCN =
             ]
         },
         {
-            "originalIndex": 1442,
+            "originalIndex": 1445,
             "name": "Zhang Fei",
             "passives": []
         },
         {
-            "originalIndex": 1443,
+            "originalIndex": 1446,
             "name": "Zhang Fei C1",
             "passives": [
                 "无法阻止的小兵：",
@@ -10075,12 +10101,12 @@ const translatedPassivesCN =
             ]
         },
         {
-            "originalIndex": 1444,
+            "originalIndex": 1447,
             "name": "Zhuge Liang",
             "passives": []
         },
         {
-            "originalIndex": 1445,
+            "originalIndex": 1448,
             "name": "Zhuge Liang C1",
             "passives": [
                 "无法阻止的小兵：",
@@ -10090,7 +10116,7 @@ const translatedPassivesCN =
             ]
         },
         {
-            "originalIndex": 1446,
+            "originalIndex": 1449,
             "name": "Zora",
             "passives": [
                 "抵抗法力削减：该角色天生对法力削减有抵抗能力。",
@@ -10098,20 +10124,20 @@ const translatedPassivesCN =
             ]
         },
         {
-            "originalIndex": 1447,
+            "originalIndex": 1450,
             "name": "Ascension Mimic",
             "passives": [
                 "完美精准度：该角色的特殊技能必定命中目标。",
                 "拟态兽战利品：该拟态兽在完成关卡时有几率获得额外战利品。",
-                "* 高筒靴",
-                "* 精致手套",
-                "* 指南针",
-                "* 大马士革刀",
-                "* 策略书卷",
-                "* 秘能手卷",
-                "* 链甲衫",
-                "* 袖剑",
-                "* 神秘戒指"
+                "* 高筒靴。",
+                "* 精致手套。",
+                "* 指南针。",
+                "* 大马士革刀。",
+                "* 策略书卷。",
+                "* 秘能手卷。",
+                "* 链甲衫。",
+                "* 袖剑。",
+                "* 神秘戒指。"
             ]
         }
     ];

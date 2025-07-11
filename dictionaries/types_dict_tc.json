@@ -809,5 +809,10 @@
     "Delayed Damage All": "全體延遲傷害",
     "Transform Ailments Self": "自我狀態異常轉換",
     "Distroy Minions on Hit": "命中時摧毀小兵",
-    "Lasting Counterattack Self": "自我持續反擊"
+    "Lasting Counterattack Self": "自我持續反擊",
+    "Self Deranged Dire Ghost": "自我瘋狂恐怖幽靈形態",
+    "Insanity to allies": "對盟友施加狂亂",
+    "Buff Immunity on Hit target": "對命中目標施加增益免疫",
+    "Frostfall Strike 1": "霜降打擊 (單體)",
+    "Self Mana Generation Stack": "自我法力生成疊加"
 }

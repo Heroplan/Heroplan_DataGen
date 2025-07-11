@@ -60,54 +60,5 @@
             "defense": 1564,
             "health": 2664
         }
-    },
-    {
-        "name": "Salvatore",
-        "fancy_name": "Twisted Medium",
-        "AetherPower": "Ailment Immunity",
-        "color": "Blue",
-        "class": "Fighter",
-        "speed": "Slow",
-        "skill": "Deranged Existence",
-        "types": [
-            "Self Ghost",
-            "random hits",
-            "insanity"
-        ],
-        "skill_types": [
-            "Ghost Form & Hiding",
-            "Chain & Random Attackers",
-            "Negative Effects On Self Or Allies",
-            "Damage Reducers"
-        ],
-        "source": "shadow",
-        "Release date": "2025-07-08",
-        "star": 5,
-        "power": 1218,
-        "attack": 1184,
-        "defense": 1246,
-        "health": 2360,
-        "effects": [
-            "Casts Full Removal on the caster.(Full Removal removes all status effects, stacks and Growth and Wither effects. Removes even status effects and stacks that are otherwise undispellable or uncleansable.)",
-            "The caster shifts into Deranged Dire Ghost form for 5 turns.",
-            "While in Deranged Dire Ghost form, the caster automatically deals 300% damage and inflicts 30 Insanity on a random enemy each turn.",
-            "While in Deranged Dire Ghost form, the caster can take damage from enemies whose element is strong against them.",
-            "Inflicts 30 Insanity on all allies except the caster."
-        ],
-        "passives": [
-        ],
-        "family": "Cultist",
-        "image": "https://imgur.com/extra2.jpg",
-        "costume_id": 0,
-        "lb1": {
-            "attack": 1276,
-            "defense": 1343,
-            "health": 2544
-        },
-        "lb2": {
-            "attack": 1460,
-            "defense": 1536,
-            "health": 2910
-        }
     }
 ]
