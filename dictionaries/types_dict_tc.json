@@ -814,5 +814,7 @@
     "Insanity to allies": "對盟友施加狂亂",
     "Buff Immunity on Hit target": "對命中目標施加增益免疫",
     "Frostfall Strike 1": "霜降打擊 (單體)",
-    "Self Mana Generation Stack": "自我法力生成疊加"
+    "Self Mana Generation Stack": "自我法力生成疊加",
+    "Source of Ailments": "狀態異常之源",
+    "Mana Generation Stack All": "全體法力生成疊加"
 }

@@ -19,9 +19,44 @@ def normalize_for_generic_lookup(text):
     """通用值的规范化，移除空格和部分标点。"""
     if not isinstance(text, str): return ""
     text = unicodedata.normalize('NFKD', text).encode('ascii', 'ignore').decode('utf-8')
-    # 修正: 将连字符'-'移动到字符集的末尾，以避免被解释为无效范围
     text = re.sub(r"[\s.'´\[\]-]", "", text)
     return text.lower()
+
+def format_skill_description(description_str):
+    """
+    根据复杂的嵌套规则格式化长技能描述字符串。
+    仅当字符串同时包含 ':' 和 '*' 时才执行格式化。
+    """
+    if not isinstance(description_str, str) or not description_str or ':' not in description_str or '*' not in description_str:
+        return [description_str]
+
+    parts = description_str.split(' * ')
+    final_lines = []
+
+    if parts[0]:
+        first_part_lines = parts[0].replace(': ', ':\n').split('\n')
+        final_lines.extend([line.strip() for line in first_part_lines if line.strip()])
+
+    if len(parts) > 1:
+        for part in parts[1:]:
+            part = part.strip()
+            if not part: continue
+            
+            line = "* " + part
+            
+            last_period_index = line.rfind('.')
+            last_colon_index = line.rfind(':')
+
+            if last_colon_index > last_period_index and last_period_index != -1:
+                actual_bullet = line[:last_period_index + 1].strip()
+                sub_heading = line[last_period_index + 1:].strip()
+                final_lines.append(actual_bullet)
+                if sub_heading:
+                    final_lines.append(sub_heading)
+            else:
+                final_lines.append(line)
+                
+    return final_lines
 
 # --- 内置拼写纠正字典 ---
 typo_corrections = {
@@ -50,6 +85,7 @@ key_corrections = {'Kalø': 'Kalo'}
 HEROES_DATA_DIR = '../heroplan_data/data/heroes'
 DICTIONARY_DIR = 'dictionaries'
 HEROES_DATA_EXTRA_FILE = 'heroes_data_extra.js'
+HEROES_DATA_EXTRA_CN_FILE = 'heroes_data_extra_skill_cn.json'
 OUTPUT_JS_FILE_CN = 'heroes_data_cn.js'
 OUTPUT_JS_FILE_TC = 'heroes_data_tc.js'
 OUTPUT_JS_FILE_EN = 'heroes_data_en.js'
@@ -64,13 +100,20 @@ hero_map_processed = {}
 hero_keys_sorted = []
 heroes_extra_lookup = {}
 hero_stats_lookup = {}
+heroes_extra_cn_lookup = {}
 appearance_map_zh = {"costume": "C1", "costume1": "C1", "costume2": "C2", "costume3": "C3", "toon": "卡通", "glass": "玻璃"}
 appearance_map_en = {"costume": "C1", "costume1": "C1", "costume2": "C2", "costume3": "C3", "toon": "Toon", "glass": "Glass"}
 
+SKILL_CATEGORY_ORDER = ["基础技能", "特殊效果", "增益效果", "负面效果"]
+
 SIMPLE_DICT_CONFIG = {
-    'hero_names': 'heroes_name_dict', 'types': 'types_dict', 'skill_types': 'skill_types_dict',
-    'skillname': 'skill_name_dict', 'heroes_name_fancy': 'heroes_name_fancy_dict',
+    'hero_names': 'heroes_name_dict', 
+    'types': 'types_dict', 
+    'skill_types': 'skill_types_dict',
+    'skillname': 'skill_name_dict', 
+    'heroes_name_fancy': 'heroes_name_fancy_dict',
     'aether_powers': 'aether_power_dict',
+    'skill_types_cn': 'skill_types_cn_dict',
 }
 BASE_DICT_FILE_STEM = 'base_values_dict'
 
@@ -90,10 +133,8 @@ IGNORABLE_SUFFIXES = {'dark', 'holy', 'ice', 'nature', 'red'}
 
 # --- 功能函数 ---
 def setup_logging():
-    """设置日志记录，一个用于通用流程，一个专门用于记录翻译失败。"""
     log_dir = 'logs'
     if not os.path.exists(log_dir): os.makedirs(log_dir)
-
     logging.basicConfig(
         level=logging.INFO,
         format='%(asctime)s - %(levelname)s - %(message)s',
@@ -105,13 +146,12 @@ def setup_logging():
     console.setLevel(logging.INFO)
     console.setFormatter(logging.Formatter('%(levelname)s - %(message)s'))
     logging.getLogger('').addHandler(console)
-
     failure_logger = logging.getLogger('failures')
     failure_logger.setLevel(logging.WARNING)
     failure_handler = logging.FileHandler(os.path.join(log_dir, "translation_failures.log"), mode='w', encoding='utf-8')
     failure_handler.setFormatter(logging.Formatter('%(asctime)s - %(message)s'))
     failure_logger.addHandler(failure_handler)
-    
+
 def clean_string_for_output(text):
     if not isinstance(text, str): return text
     return text.replace('[', '').replace(']', '')
@@ -141,7 +181,6 @@ def load_hero_stats():
     except Exception as e:
         logging.error(f"加载或解析 '{HERO_STATS_FILE}' 时出错: {e}")
         return
-    
     stats_suffix_map = {" C": " costume1", " C2": " costume2", " C3": " toon", " C4": " glass"}
     temp_lookup = {}
     for raw_name, stats in stats_data.items():
@@ -181,6 +220,7 @@ def load_all_dictionaries(dictionary_base_dir):
                     corrected_data = {key_corrections.get(k, k): v for k, v in original_data.items()}
                     translations[key][lang] = corrected_data
                 except Exception as e: logging.error(f"加载字典文件 '{filepath}' 时出错: {e}")
+
     for lang in LANGUAGES:
         filepath = os.path.join(dictionary_base_dir, f"{BASE_DICT_FILE_STEM}_{lang}.json")
         if os.path.exists(filepath):
@@ -196,13 +236,18 @@ def load_all_dictionaries(dictionary_base_dir):
                     if key not in translations: translations[key] = {lang: {} for lang in LANGUAGES}
                     translations[key][lang] = value_dict
             except Exception as e: logging.error(f"加载基础数据文件 '{filepath}' 时出错: {e}")
+            
     print("正在创建宽容匹配字典...")
     for key in list(translations.keys()):
         if key.endswith('_tolerant'): continue
         tolerant_key = f"{key}_tolerant"
         translations[tolerant_key] = {lang: {} for lang in LANGUAGES}
         for lang in LANGUAGES:
-            translations[tolerant_key][lang] = {normalize_for_generic_lookup(ik): v for ik, v in translations.get(key, {}).get(lang, {}).items()}
+            if key == 'skill_types_cn':
+                translations[tolerant_key][lang] = {ik: v for ik, v in translations.get(key, {}).get(lang, {}).items()}
+            else:
+                translations[tolerant_key][lang] = {normalize_for_generic_lookup(ik): v for ik, v in translations.get(key, {}).get(lang, {}).items()}
+
     print("正在预处理英雄名称以供快速查找...")
     temp_hero_map = {}
     all_hero_keys = set()
@@ -221,13 +266,11 @@ def translate_name(name_en):
     if not isinstance(name_en, str): return {lang: str(name_en) for lang in LANGUAGES}
     original_name_no_accents_full = unicodedata.normalize('NFKD', name_en).encode('ascii', 'ignore').decode('utf-8')
     normalized_input = normalize_for_hero_name(original_name_no_accents_full)
-    
     found_hero_base_translations, original_base_name_no_accents = None, ""
     for norm_key in hero_keys_sorted:
         if normalized_input.startswith(norm_key):
             original_base_name_no_accents, found_hero_base_translations = hero_map_processed[norm_key]
             break
-            
     if found_hero_base_translations:
         suffix_part = name_en[len(original_base_name_no_accents):].strip()
         cleaned_english_name = clean_string_for_output(original_base_name_no_accents)
@@ -237,26 +280,21 @@ def translate_name(name_en):
             else:
                 cn_base = clean_string_for_output(found_hero_base_translations.get(lang, ''))
                 base_name_trans = f"{cn_base} ({cleaned_english_name})".strip() if cn_base else cleaned_english_name
-            
             translated_suffix = ""
             if suffix_part:
-                current_map = appearance_map_en if lang == 'en' else appearance_map_zh
+                current_map = appearance_map_en if lang == 'en' else appearance_map_zh 
                 normalized_suffix_part = suffix_part.lower().replace(" ", "")
                 translated_suffix = current_map.get(normalized_suffix_part, suffix_part)
-            
             final_names[lang] = f"{base_name_trans} {translated_suffix}".strip() if translated_suffix else base_name_trans
         return final_names
-        
     cleaned_full_name = clean_string_for_output(original_name_no_accents_full)
     logging.getLogger('failures').warning(f"英雄名未匹配: '{name_en}' (规范化为: '{normalized_input}')")
     return {lang: cleaned_full_name for lang in LANGUAGES}
 
 def translate_single_value(value, dict_key):
     if not isinstance(value, str) or not value: return {lang: value for lang in LANGUAGES}
-    
     normalized_value = normalize_for_generic_lookup(value)
     translations_out, found_any = {}, False
-    
     for lang in LANGUAGES:
         tolerant_map = translations.get(f"{dict_key}_tolerant", {}).get(lang, {})
         translated = tolerant_map.get(normalized_value)
@@ -264,10 +302,8 @@ def translate_single_value(value, dict_key):
             translations_out[lang], found_any = translated, True
         else:
             translations_out[lang] = value
-            
     if not found_any:
         logging.getLogger('failures').warning(f"翻译缺失: 字典='{dict_key}', 值='{value}' (规范化为: '{normalized_value}')")
-        
     return translations_out
 
 def correct_and_translate_skill(skill_name_raw):
@@ -278,22 +314,18 @@ def correct_and_translate_skill(skill_name_raw):
 
 def translate_list(items_list, dict_key):
     if not isinstance(items_list, list): return {lang: items_list for lang in LANGUAGES}
-    
     translated_items = {lang: [] for lang in LANGUAGES}
     for item in items_list:
         if isinstance(item, str) and item:
             normalized_item = normalize_for_generic_lookup(item)
             found_in_any_lang = any(normalized_item in translations.get(f"{dict_key}_tolerant", {}).get(lang_check, {}) for lang_check in LANGUAGES)
-            
             if not found_in_any_lang:
                 logging.getLogger('failures').warning(f"列表翻译缺失: 字典='{dict_key}', 值='{item}' (规范化为: '{normalized_item}')")
-            
             for lang in LANGUAGES:
                 tolerant_map = translations.get(f"{dict_key}_tolerant", {}).get(lang, {})
                 translated_items[lang].append(tolerant_map.get(normalized_item, item))
         else:
             for lang in LANGUAGES: translated_items[lang].append(item)
-            
     return translated_items
 
 def flatten_list(nested_list):
@@ -327,16 +359,46 @@ def load_heroes_data_extra():
                 heroes_extra_lookup[normalize_for_hero_name(lookup_name)] = entry
     except Exception as e: logging.error(f"处理 '{HEROES_DATA_EXTRA_FILE}' 时发生未知错误: {e}", exc_info=True)
 
+def load_heroes_data_extra_cn():
+    global heroes_extra_cn_lookup
+    if not os.path.exists(HEROES_DATA_EXTRA_CN_FILE):
+        logging.warning(f"警告: 中文额外数据文件未找到: {HEROES_DATA_EXTRA_CN_FILE}")
+        return
+    try:
+        with open(HEROES_DATA_EXTRA_CN_FILE, 'r', encoding='utf-8') as f:
+            data = json.load(f)
+    except Exception as e:
+        logging.error(f"加载或解析 '{HEROES_DATA_EXTRA_CN_FILE}' 时出错: {e}")
+        return
+    stats_suffix_map = {" C": " costume1", " C2": " costume2", " C3": " toon", " C4": " glass"}
+    temp_lookup = {}
+    for name_raw, entry in data.items():
+        processed_name = strip_ignorable_suffix(name_raw)
+        base_name, suffix_in = processed_name, ""
+        for s in [" C", " C2", " C3", " C4"]:
+            if processed_name.endswith(s):
+                suffix_in, base_name = s, processed_name[:-len(s)]
+                break
+        base_name_normalized = normalize_for_hero_name(base_name)
+        suffix_out = ""
+        if base_name_normalized in SPECIAL_COSTUME_HEROES:
+            if suffix_in == " C2": suffix_out = " toon"
+            elif suffix_in == " C3": suffix_out = " glass"
+        if not suffix_out:
+            suffix_out = stats_suffix_map.get(suffix_in, "")
+        corrected_name = base_name + suffix_out
+        normalized_key = normalize_for_hero_name(corrected_name)
+        temp_lookup[normalized_key] = entry
+    heroes_extra_cn_lookup = temp_lookup
+    logging.info(f"成功加载并规范化 {len(heroes_extra_cn_lookup)} 条中文额外数据。")
+
 
 def generate_js_data_with_translation(heroes_base_dir, output_path_cn, output_path_tc, output_path_en):
-    """主处理函数，包含从YML和额外JSON文件加载和翻译英雄数据的逻辑。"""
     all_hero_data = {lang: [] for lang in LANGUAGES}
     missing_extra_info = []
     unmatched_yml_heroes = []
     unmatched_stats_keys = set(hero_stats_lookup.keys())
     original_index_counter = 0
-    
-    # --- 新增: 用于存储已处理英雄名称的集合，以检测重复 ---
     processed_hero_names = set()
 
     print("开始扫描英雄文件...")
@@ -358,10 +420,7 @@ def generate_js_data_with_translation(heroes_base_dir, output_path_cn, output_pa
             if not hero_data or 'name' not in hero_data: continue
             
             hero_name_raw = hero_data.get('name')
-            
-            # --- 添加基础英雄到已处理集合 ---
             processed_hero_names.add(normalize_for_hero_name(strip_ignorable_suffix(hero_name_raw)))
-            
             hero_family = hero_data.get('family')
             source_to_translate = hero_data.get('source')
             
@@ -395,7 +454,12 @@ def generate_js_data_with_translation(heroes_base_dir, output_path_cn, output_pa
             types_trans = translate_list(flatten_list(hero_data.get('types', [])), 'types')
             skill_types_trans = translate_list(extra.get('skill_types', []), 'skill_types')
 
-            common_data = {'Release date': extra.get('Release date', ''), 'star': current_star, 'power': hero_data.get('power'), 'attack': hero_data.get('attack'), 'defense': hero_data.get('defense'), 'health': hero_data.get('health'), 'effects': flatten_list(hero_data.get('effects', [])), 'passives': flatten_list(hero_data.get('passives', [])), 'family': hero_family, 'image': hero_data.get('image'), 'costume_id': 0, 'originalIndex': original_index_counter}
+            raw_effects = flatten_list(hero_data.get('effects', []))
+            formatted_effects = []
+            for effect in raw_effects:
+                formatted_effects.extend(format_skill_description(effect))
+
+            common_data = {'Release date': extra.get('Release date', ''), 'star': current_star, 'power': hero_data.get('power'), 'attack': hero_data.get('attack'), 'defense': hero_data.get('defense'), 'health': hero_data.get('health'), 'effects': formatted_effects, 'passives': flatten_list(hero_data.get('passives', [])), 'family': hero_family, 'image': hero_data.get('image'), 'costume_id': 0, 'originalIndex': original_index_counter}
             lb_data = {}
 
             if current_star not in [1, 2]:
@@ -413,9 +477,35 @@ def generate_js_data_with_translation(heroes_base_dir, output_path_cn, output_pa
                     if lb2_stats: lb_data['lb2'] = {'power': calculate_power(lb2_stats.get('Attack'), lb2_stats.get('Defense'), lb2_stats.get('Life'), current_star), 'attack': lb2_stats.get('Attack'), 'defense': lb2_stats.get('Defense'), 'health': lb2_stats.get('Life')}
                 else:
                     unmatched_yml_heroes.append(hero_name_raw)
+            
+            cn_skill_info_for_hero = []
+            cn_lookup_key = normalize_for_hero_name(strip_ignorable_suffix(hero_name_raw))
+            cn_extra_data = heroes_extra_cn_lookup.get(cn_lookup_key, {})
+
+            for cn_category in SKILL_CATEGORY_ORDER:
+                if cn_category in cn_extra_data:
+                    cn_values_raw = cn_extra_data[cn_category]
+                    translated_values_cn, translated_values_tc, translated_values_en = [], [], []
+                    values_to_process = cn_values_raw if isinstance(cn_values_raw, list) else [cn_values_raw]
+                    for val in values_to_process:
+                        translated_values_cn.append(translations.get('skill_types_cn_tolerant', {}).get('cn', {}).get(val, val))
+                        translated_values_tc.append(translations.get('skill_types_cn_tolerant', {}).get('tc', {}).get(val, val))
+                        translated_values_en.append(translations.get('skill_types_cn_tolerant', {}).get('en', {}).get(val, val))
+                    if translated_values_cn or translated_values_tc or translated_values_en:
+                        cn_skill_info_for_hero.append({'cn': {cn_category: translated_values_cn}, 'tc': {cn_category: translated_values_tc}, 'en': {cn_category: translated_values_en}})
 
             for lang in LANGUAGES:
-                all_hero_data[lang].append({'name': name_trans[lang], 'fancy_name': fancy_name_trans[lang], 'AetherPower': aether_power_trans[lang], 'color': color_trans[lang], 'class': class_trans[lang], 'speed': speed_trans[lang], 'skill': skill_trans[lang], 'types': types_trans[lang], 'skill_types': skill_types_trans[lang], 'source': source_trans[lang], **common_data, **lb_data})
+                hero_entry = {
+                    'name': name_trans[lang], 'fancy_name': fancy_name_trans[lang], 'AetherPower': aether_power_trans[lang],
+                    'color': color_trans[lang], 'class': class_trans[lang], 'speed': speed_trans[lang],
+                    'skill': skill_trans[lang], 'types': types_trans[lang], 'skill_types': skill_types_trans[lang],
+                    'source': source_trans[lang], **common_data, **lb_data
+                }
+                if cn_skill_info_for_hero:
+                    hero_entry['cn_skill_info'] = [entry[lang] for entry in cn_skill_info_for_hero]
+                else:
+                    hero_entry['cn_skill_info'] = []
+                all_hero_data[lang].append(hero_entry)
             original_index_counter += 1
 
             for key in hero_data:
@@ -423,8 +513,6 @@ def generate_js_data_with_translation(heroes_base_dir, output_path_cn, output_pa
                     costume_data = hero_data[key]
                     yml_suffix = costume_data.get('design', key)
                     if yml_suffix == "costume": yml_suffix = "costume1"
-                    
-                    final_suffix = yml_suffix
                     base_name_normalized = normalize_for_hero_name(hero_name_raw)
                     if base_name_normalized in SPECIAL_COSTUME_HEROES:
                         if yml_suffix == 'costume2': final_suffix = 'toon'
@@ -433,15 +521,11 @@ def generate_js_data_with_translation(heroes_base_dir, output_path_cn, output_pa
                         if yml_suffix == 'costume3': final_suffix = 'toon'
                     
                     costume_id = int(re.match(r'costume(\d*)', key).group(1) or 1)
-                    full_name = f"{hero_name_raw} {final_suffix}".strip()
-
-                    # --- 添加皮肤英雄到已处理集合 ---
-                    processed_hero_names.add(normalize_for_hero_name(strip_ignorable_suffix(full_name)))
-
-                    extra_c = heroes_extra_lookup.get(normalize_for_hero_name(strip_ignorable_suffix(full_name)), {})
-                    if not extra_c: missing_extra_info.append(f"时装英雄: '{full_name}'")
+                    yml_costume_full_name = f"{hero_name_raw} {yml_suffix}".strip()
+                    extra_c = heroes_extra_lookup.get(normalize_for_hero_name(yml_costume_full_name), {})
+                    if not extra_c: missing_extra_info.append(f"时装英雄: '{yml_costume_full_name}'")
                     
-                    name_trans_c = translate_name(full_name)
+                    name_trans_c = translate_name(yml_costume_full_name)
                     fancy_name_trans_c = translate_single_value(extra_c.get('fancy name', ''), 'heroes_name_fancy')
                     aether_power_trans_c = translate_single_value(extra_c.get('AetherPower', ''), 'aether_powers')
                     class_trans_c = translate_single_value(costume_data.get('class'), 'base_values')
@@ -452,11 +536,16 @@ def generate_js_data_with_translation(heroes_base_dir, output_path_cn, output_pa
                     if hero_data.get('source') == 'season1':
                         source_trans_c = translate_single_value('costume', 'source_values')
 
-                    common_data_c = {'Release date': extra_c.get('Release date', ''), 'star': current_star, 'power': costume_data.get('power'), 'attack': costume_data.get('attack'), 'defense': costume_data.get('defense'), 'health': costume_data.get('health'), 'effects': flatten_list(costume_data.get('effects', [])), 'passives': flatten_list(costume_data.get('passives', [])), 'family': hero_family, 'image': costume_data.get('image'), 'costume_id': costume_id, 'originalIndex': original_index_counter}
+                    raw_effects_c = flatten_list(costume_data.get('effects', []))
+                    formatted_effects_c = []
+                    for effect in raw_effects_c:
+                        formatted_effects_c.extend(format_skill_description(effect))
+                    
+                    common_data_c = {'Release date': extra_c.get('Release date', ''), 'star': current_star, 'power': costume_data.get('power'), 'attack': costume_data.get('attack'), 'defense': costume_data.get('defense'), 'health': costume_data.get('health'), 'effects': formatted_effects_c, 'passives': flatten_list(costume_data.get('passives', [])), 'family': hero_family, 'image': costume_data.get('image'), 'costume_id': costume_id, 'originalIndex': original_index_counter}
                     lb_data_c = {}
                     
                     if current_star not in [1, 2]:
-                        name_for_lookup_c = strip_ignorable_suffix(full_name)
+                        name_for_lookup_c = strip_ignorable_suffix(yml_costume_full_name)
                         normalized_name_c = normalize_for_hero_name(name_for_lookup_c)
                         stats_entry_c = hero_stats_lookup.get(normalized_name_c)
                         if stats_entry_c:
@@ -464,20 +553,43 @@ def generate_js_data_with_translation(heroes_base_dir, output_path_cn, output_pa
                             stats_c = stats_entry_c['stats']
                             base_stats_c = stats_c.get('base', {})
                             if base_stats_c: common_data_c.update({'attack': base_stats_c.get('Attack'), 'defense': base_stats_c.get('Defense'), 'health': base_stats_c.get('Life'), 'power': base_stats_c.get('Power')})
-                            lb1_stats_c = stats_c.get('lb1')
+                            lb1_stats_c, lb2_stats_c = stats_c.get('lb1'), stats_c.get('lb2')
                             if lb1_stats_c: lb_data_c['lb1'] = {'power': calculate_power(lb1_stats_c.get('Attack'), lb1_stats_c.get('Defense'), lb1_stats_c.get('Life'), current_star), 'attack': lb1_stats_c.get('Attack'), 'defense': lb1_stats_c.get('Defense'), 'health': lb1_stats_c.get('Life')}
-                            lb2_stats_c = stats_c.get('lb2')
                             if lb2_stats_c: lb_data_c['lb2'] = {'power': calculate_power(lb2_stats_c.get('Attack'), lb2_stats_c.get('Defense'), lb2_stats_c.get('Life'), current_star), 'attack': lb2_stats_c.get('Attack'), 'defense': lb2_stats_c.get('Defense'), 'health': lb2_stats_c.get('Life')}
                         else:
-                            unmatched_yml_heroes.append(full_name)
+                            unmatched_yml_heroes.append(yml_costume_full_name)
+
+                    cn_skill_info_for_costume = []
+                    cn_extra_data_c = heroes_extra_cn_lookup.get(normalize_for_hero_name(yml_costume_full_name), {})
+                    
+                    for cn_category in SKILL_CATEGORY_ORDER:
+                        if cn_category in cn_extra_data_c:
+                            cn_values_raw = cn_extra_data_c[cn_category]
+                            translated_values_cn, translated_values_tc, translated_values_en = [], [], []
+                            values_to_process = cn_values_raw if isinstance(cn_values_raw, list) else [cn_values_raw]
+                            for val in values_to_process:
+                                translated_values_cn.append(translations.get('skill_types_cn_tolerant', {}).get('cn', {}).get(val, val))
+                                translated_values_tc.append(translations.get('skill_types_cn_tolerant', {}).get('tc', {}).get(val, val))
+                                translated_values_en.append(translations.get('skill_types_cn_tolerant', {}).get('en', {}).get(val, val))
+                            if translated_values_cn or translated_values_tc or translated_values_en:
+                                cn_skill_info_for_costume.append({'cn': {cn_category: translated_values_cn}, 'tc': {cn_category: translated_values_tc}, 'en': {cn_category: translated_values_en}})
 
                     for lang in LANGUAGES:
-                        all_hero_data[lang].append({'name': name_trans_c[lang], 'fancy_name': fancy_name_trans_c[lang], 'AetherPower': aether_power_trans_c[lang], 'color': color_trans[lang], 'class': class_trans_c[lang], 'speed': speed_trans[lang], 'skill': skill_trans_c[lang], 'types': types_trans_c[lang], 'skill_types': skill_types_trans_c[lang], 'source': source_trans_c[lang], **common_data_c, **lb_data_c})
+                        hero_entry_c = {
+                            'name': name_trans_c[lang], 'fancy_name': fancy_name_trans_c[lang], 'AetherPower': aether_power_trans_c[lang],
+                            'color': color_trans[lang], 'class': class_trans_c[lang], 'speed': speed_trans[lang],
+                            'skill': skill_trans_c[lang], 'types': types_trans_c[lang], 'skill_types': skill_types_trans_c[lang],
+                            'source': source_trans_c[lang], **common_data_c, **lb_data_c
+                        }
+                        if cn_skill_info_for_costume:
+                            hero_entry_c['cn_skill_info'] = [entry[lang] for entry in cn_skill_info_for_costume]
+                        else:
+                            hero_entry_c['cn_skill_info'] = []
+                        all_hero_data[lang].append(hero_entry_c)
                     original_index_counter += 1
         except Exception as e:
             logging.error(f"处理文件 '{os.path.basename(filepath)}' 时发生严重错误: {e}", exc_info=True)
             
-    # --- 从额外JSON文件处理英雄数据 ---
     print(f"\n正在从 {EXTRA_HEROES_JSON_FILE} 加载并处理附加英雄数据...")
     extra_heroes_list = []
     if os.path.exists(EXTRA_HEROES_JSON_FILE):
@@ -493,21 +605,15 @@ def generate_js_data_with_translation(heroes_base_dir, output_path_cn, output_pa
     for hero_data in tqdm(extra_heroes_list, desc="处理附加英雄进度"):
         try:
             hero_name_raw = hero_data.get('name', '')
-            if not hero_name_raw:
-                continue
-
-            # --- 新增: 检查英雄是否重复 ---
+            if not hero_name_raw: continue
             normalized_name_to_check = normalize_for_hero_name(strip_ignorable_suffix(hero_name_raw))
             if normalized_name_to_check in processed_hero_names:
                 print(f"\n提示: 检测到重复英雄 '{hero_name_raw}'。将跳过添加。")
                 logging.warning(f"检测到重复英雄 '{hero_name_raw}'，该英雄已存在于YML数据中，将跳过从 {EXTRA_HEROES_JSON_FILE} 添加。")
-                continue # 跳过此英雄，处理下一个
-
+                continue
             normalized_name_extra = normalize_for_hero_name(strip_ignorable_suffix(hero_name_raw))
             unmatched_stats_keys.discard(normalized_name_extra)
-
             current_star = hero_data.get('star', 0)
-            
             name_trans = translate_name(hero_name_raw)
             fancy_name_trans = translate_single_value(hero_data.get('fancy_name', ''), 'heroes_name_fancy')
             aether_power_trans = translate_single_value(hero_data.get('AetherPower', ''), 'aether_powers')
@@ -518,48 +624,48 @@ def generate_js_data_with_translation(heroes_base_dir, output_path_cn, output_pa
             source_trans = translate_single_value(hero_data.get('source', ''), 'source_values')
             types_trans = translate_list(hero_data.get('types', []), 'types')
             skill_types_trans = translate_list(hero_data.get('skill_types', []), 'skill_types')
-
-            common_data = {
-                'Release date': hero_data.get('Release date', ''),
-                'star': current_star,
-                'power': hero_data.get('power'),
-                'attack': hero_data.get('attack'),
-                'defense': hero_data.get('defense'),
-                'health': hero_data.get('health'),
-                'effects': hero_data.get('effects', []),
-                'passives': hero_data.get('passives', []),
-                'family': hero_data.get('family', ''),
-                'image': hero_data.get('image', ''),
-                'costume_id': hero_data.get('costume_id', 0),
-                'originalIndex': original_index_counter
-            }
-            lb_data = {
-                'lb1': hero_data.get('lb1'),
-                'lb2': hero_data.get('lb2')
-            }
             
+            raw_effects_extra = hero_data.get('effects', [])
+            formatted_effects_extra = []
+            for effect in raw_effects_extra:
+                formatted_effects_extra.extend(format_skill_description(effect))
+            
+            common_data = {'Release date': hero_data.get('Release date', ''), 'star': current_star, 'power': hero_data.get('power'), 'attack': hero_data.get('attack'), 'defense': hero_data.get('defense'), 'health': hero_data.get('health'), 'effects': formatted_effects_extra, 'passives': hero_data.get('passives', []), 'family': hero_data.get('family', ''), 'image': hero_data.get('image', ''), 'costume_id': hero_data.get('costume_id', 0), 'originalIndex': original_index_counter}
+            lb_data = {'lb1': hero_data.get('lb1'), 'lb2': hero_data.get('lb2')}
             lb_data = {k: v for k, v in lb_data.items() if v is not None}
 
+            cn_skill_info_for_extra_hero = []
+            cn_lookup_key_e = normalize_for_hero_name(strip_ignorable_suffix(hero_name_raw))
+            cn_extra_data_e = heroes_extra_cn_lookup.get(cn_lookup_key_e, {})
+            
+            for cn_category in SKILL_CATEGORY_ORDER:
+                if cn_category in cn_extra_data_e:
+                    cn_values_raw = cn_extra_data_e[cn_category]
+                    translated_values_cn, translated_values_tc, translated_values_en = [], [], []
+                    values_to_process = cn_values_raw if isinstance(cn_values_raw, list) else [cn_values_raw]
+                    for val in values_to_process:
+                        translated_values_cn.append(translations.get('skill_types_cn_tolerant', {}).get('cn', {}).get(val, val))
+                        translated_values_tc.append(translations.get('skill_types_cn_tolerant', {}).get('tc', {}).get(val, val))
+                        translated_values_en.append(translations.get('skill_types_cn_tolerant', {}).get('en', {}).get(val, val))
+                    if translated_values_cn or translated_values_tc or translated_values_en:
+                        cn_skill_info_for_extra_hero.append({'cn': {cn_category: translated_values_cn}, 'tc': {cn_category: translated_values_tc}, 'en': {cn_category: translated_values_en}})
+
             for lang in LANGUAGES:
-                all_hero_data[lang].append({
-                    'name': name_trans[lang],
-                    'fancy_name': fancy_name_trans[lang],
-                    'AetherPower': aether_power_trans[lang],
-                    'color': color_trans[lang],
-                    'class': class_trans[lang],
-                    'speed': speed_trans[lang],
-                    'skill': skill_trans[lang],
-                    'types': types_trans[lang],
-                    'skill_types': skill_types_trans[lang],
-                    'source': source_trans[lang],
-                    **common_data,
-                    **lb_data
-                })
+                hero_entry = {
+                    'name': name_trans[lang], 'fancy_name': fancy_name_trans[lang], 'AetherPower': aether_power_trans[lang],
+                    'color': color_trans[lang], 'class': class_trans[lang], 'speed': speed_trans[lang],
+                    'skill': skill_trans[lang], 'types': types_trans[lang], 'skill_types': skill_types_trans[lang],
+                    'source': source_trans[lang], **common_data, **lb_data
+                }
+                if cn_skill_info_for_extra_hero:
+                    hero_entry['cn_skill_info'] = [entry[lang] for entry in cn_skill_info_for_extra_hero]
+                else:
+                    hero_entry['cn_skill_info'] = []
+                all_hero_data[lang].append(hero_entry)
             original_index_counter += 1
         except Exception as e:
             logging.error(f"处理来自JSON的英雄 '{hero_data.get('name', 'N/A')}' 时发生错误: {e}", exc_info=True)
     
-    # --- 日志和文件写入 ---
     if unmatched_yml_heroes:
         logging.warning("\n--- 以下YML英雄未在 hero_stats.json 中匹配到属性 ---")
         for name in sorted(unmatched_yml_heroes):
@@ -580,16 +686,17 @@ def generate_js_data_with_translation(heroes_base_dir, output_path_cn, output_pa
             print(f"完成！{lang_names[lang]}文件 '{path}' 已更新，共 {len(all_hero_data[lang])} 条数据。")
         except Exception as e:
             logging.error(f"写入{lang_names[lang]}文件时发生错误: {e}")
-            
     return missing_extra_info, unmatched_yml_heroes, list(unmatched_stats_keys)
 
+# MODIFIED / 已修改: 修正了正则表达式，以正确提取包含撇号的英雄名称
 def append_missing_heroes_to_extra_data(missing_info_list, file_path):
     """
     当检测到有英雄缺少额外数据时，自动生成空白条目并追加到 heroes_data_extra.js 文件中。
     """
     logging.info(f"检测到 {len(missing_info_list)} 个缺失的英雄数据，准备自动追加到 '{file_path}'...")
     
-    pattern = re.compile(r"'(.*?)'")
+    # 这个“贪婪”模式的正则表达式会匹配到最后一个单引号，确保能完整提取名字
+    pattern = re.compile(r"'(.*)'")
     found_names = set()
     for line in missing_info_list:
         match = pattern.search(line)
@@ -645,6 +752,7 @@ if __name__ == '__main__':
     setup_logging()
     load_hero_stats()
     load_heroes_data_extra()
+    load_heroes_data_extra_cn() 
     load_all_dictionaries(DICTIONARY_DIR) 
 
     if os.path.isdir(HEROES_DATA_DIR):
@@ -654,26 +762,20 @@ if __name__ == '__main__':
             OUTPUT_JS_FILE_TC, 
             OUTPUT_JS_FILE_EN
         )
-        
         failure_log_path = os.path.join('logs', 'translation_failures.log')
         if os.path.exists(failure_log_path) and os.path.getsize(failure_log_path) > 0:
             print(f"\n警告: 检测到翻译失败。详情请查看日志文件: {failure_log_path}")
-
         if missing_extra:
             logging.warning("\n--- 以下英雄未找到 heroes_data_extra.js 中的额外数据 ---")
             for info in missing_extra:
                 logging.warning(info)
-            
             append_missing_heroes_to_extra_data(missing_extra, HEROES_DATA_EXTRA_FILE)
-            
             print("\n请注意: heroes_data_extra.js 已更新。")
             print("建议重新运行此脚本，以确保所有数据（包括刚刚添加的）都被正确加载和处理。")
-            
         if unmatched_yml:
             print(f"警告: {len(unmatched_yml)} 个本地英雄文件未能在 hero_stats.json 中找到匹配属性。详情请查看 generation.log 文件。")
         if unmatched_stats:
             print(f"警告: hero_stats.json 中有 {len(unmatched_stats)} 个条目未被使用。详情请查看 generation.log 文件。")
-            
     else:
         logging.critical(f"错误: 英雄数据目录不存在: '{HEROES_DATA_DIR}'")
         print(f"错误: 英雄数据目录不存在: '{HEROES_DATA_DIR}'")

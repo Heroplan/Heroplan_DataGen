@@ -16609,5 +16609,17 @@ window.allHeroesExtra = [
             "Chain & Random Attackers",
             "Snipers"
         ]
+    },
+    {
+        "name": "Grendel's Mother",
+        "fancy name": "Terror-Spreading Tarn-Hag",
+        "Release date": "2025-07-13",
+        "AetherPower": "Fiend Resist",
+        "skill_types": [
+            "AoE Attackers (Hit-5)",
+            "DoT Attackers",
+            "Extra Damage Dealers",
+            "Healing Reducers"
+        ]
     }
 ];
