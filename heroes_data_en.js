@@ -212,13 +212,13 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Over Time (HoT)",
-                    "Revive"
+                    "Heal: Over Time",
+                    "Heal: Revive"
                 ]
             },
             {
-                "增益效果": [
-                    "Convert to Buff"
+                "特殊效果": [
+                    "Status - Replace with Buff"
                 ]
             }
         ]
@@ -269,12 +269,12 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: All"
+                    "Atk: All"
                 ]
             },
             {
                 "负面效果": [
-                    "Self-Debuff"
+                    "Status - Self-Debuff"
                 ]
             }
         ]
@@ -336,14 +336,18 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "特殊效果": [
-                    "Cleanse Status Ailments",
-                    "Mana Cut",
-                    "Minion"
+                    "Mana - Mana Cut",
+                    "Summon - Minion"
                 ]
             },
             {
                 "增益效果": [
-                    "Defense ↑ : Special Skills"
+                    "Def - Def ↑ : Special"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Status - Cleanse Ailments"
                 ]
             }
         ]
@@ -400,7 +404,7 @@ window.allHeroes =
             },
             {
                 "特殊效果": [
-                    "Minion"
+                    "Summon - Minion"
                 ]
             }
         ]
@@ -452,12 +456,12 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Single"
+                    "Atk: Single"
                 ]
             },
             {
                 "增益效果": [
-                    "Immunity to Status Ailments"
+                    "Status - Ailment Immunity"
                 ]
             }
         ]
@@ -509,12 +513,12 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Single"
+                    "Atk: Single"
                 ]
             },
             {
                 "特殊效果": [
-                    "Heal from Damage"
+                    "Heal - From Dmg"
                 ]
             }
         ]
@@ -569,13 +573,13 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Single"
+                    "Atk: Single"
                 ]
             },
             {
                 "增益效果": [
-                    "Immunity to Status Ailments",
-                    "Attack ↑"
+                    "Status - Ailment Immunity",
+                    "Atk - Attack ↑"
                 ]
             }
         ]
@@ -631,13 +635,13 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Single"
+                    "Atk: Single"
                 ]
             },
             {
                 "特殊效果": [
-                    "Heal from Damage",
-                    "Damage ↑ : Fire"
+                    "Heal - From Dmg",
+                    "Dmg - Dmg ↑ : Fire"
                 ]
             }
         ]
@@ -694,13 +698,13 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Single"
+                    "Atk: Single"
                 ]
             },
             {
                 "特殊效果": [
-                    "Heal from Damage",
-                    "Bypass (Defensive Buffs)"
+                    "Heal - From Dmg",
+                    "Atk - Bypass / Ignore"
                 ]
             }
         ]
@@ -756,7 +760,7 @@ window.allHeroes =
             },
             {
                 "增益效果": [
-                    "Defense ↑ : Nature"
+                    "Def - Def ↑ : Nature"
                 ]
             }
         ]
@@ -808,8 +812,8 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "增益效果": [
-                    "Damage Share",
-                    "Defense ↑"
+                    "Def - Dmg Share",
+                    "Def - Defense ↑"
                 ]
             }
         ]
@@ -861,12 +865,12 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "增益效果": [
-                    "Damage Share"
+                    "Def - Dmg Share"
                 ]
             },
             {
                 "负面效果": [
-                    "Defense ↓"
+                    "Def - Defense ↓"
                 ]
             }
         ]
@@ -920,8 +924,8 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "增益效果": [
-                    "Damage Share",
-                    "Defense ↑"
+                    "Def - Dmg Share",
+                    "Def - Defense ↑"
                 ]
             }
         ]
@@ -979,8 +983,8 @@ window.allHeroes =
                 ]
             },
             {
-                "特殊效果": [
-                    "Cleanse Status Ailments"
+                "负面效果": [
+                    "Status - Cleanse Ailments"
                 ]
             }
         ]
@@ -1034,12 +1038,12 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Over Time (HoT)"
+                    "Heal: Over Time"
                 ]
             },
             {
-                "特殊效果": [
-                    "Cleanse Status Ailments"
+                "负面效果": [
+                    "Status - Cleanse Ailments"
                 ]
             }
         ]
@@ -1095,12 +1099,12 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Single"
+                    "Atk: Single"
                 ]
             },
             {
                 "负面效果": [
-                    "Buff Immunity / Block Buffs"
+                    "Status - Buff Immunity"
                 ]
             }
         ]
@@ -1158,12 +1162,12 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Single"
+                    "Atk: Single"
                 ]
             },
             {
                 "负面效果": [
-                    "Buff Immunity / Block Buffs"
+                    "Status - Buff Immunity"
                 ]
             }
         ]
@@ -1216,12 +1220,12 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Single"
+                    "Atk: Single"
                 ]
             },
             {
                 "增益效果": [
-                    "Stack: Attack ↑"
+                    "Atk - Stack : Atk ↑"
                 ]
             }
         ]
@@ -1278,17 +1282,17 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: All"
+                    "Atk: All"
                 ]
             },
             {
-                "特殊效果": [
-                    "Dispel Buffs"
+                "增益效果": [
+                    "Status - Dispel Buffs"
                 ]
             },
             {
                 "负面效果": [
-                    "Buff Immunity / Block Buffs"
+                    "Status - Buff Immunity"
                 ]
             }
         ]
@@ -1337,7 +1341,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Target and Nearby"
+                    "Atk: Minor to Nearby"
                 ]
             }
         ]
@@ -1389,13 +1393,13 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Target and Nearby",
-                    "Attack: Damage over Time (DoT)"
+                    "Atk: Minor to Nearby",
+                    "Dmg: DoT"
                 ]
             },
             {
                 "负面效果": [
-                    "DoT: Burn"
+                    "Dmg - DoT : Burn"
                 ]
             }
         ]
@@ -1448,12 +1452,12 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Target and Nearby"
+                    "Atk: Minor to Nearby"
                 ]
             },
             {
                 "特殊效果": [
-                    "Damage ↑ : Fire"
+                    "Dmg - Dmg ↑ : Fire"
                 ]
             }
         ]
@@ -1505,12 +1509,12 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Small Area / Minor"
+                    "Atk: Area"
                 ]
             },
             {
                 "负面效果": [
-                    "Defense ↓ : Ice"
+                    "Def - Def ↓ : Ice"
                 ]
             }
         ]
@@ -1562,12 +1566,12 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Small Area / Minor"
+                    "Atk: Area"
                 ]
             },
             {
                 "负面效果": [
-                    "Defense ↓ : Ice"
+                    "Def - Def ↓ : Ice"
                 ]
             }
         ]
@@ -1624,13 +1628,13 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Single"
+                    "Atk: Single"
                 ]
             },
             {
                 "特殊效果": [
-                    "Destroy Minions",
-                    "Self-Heal"
+                    "Atk - Destroy Minions",
+                    "Heal - Self Recovery"
                 ]
             }
         ]
@@ -1684,12 +1688,12 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Single"
+                    "Atk: Single"
                 ]
             },
             {
                 "特殊效果": [
-                    "Extra Damage"
+                    "Dmg - Extra"
                 ]
             }
         ]
@@ -1756,17 +1760,17 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Over Time (HoT)"
+                    "Heal: Over Time"
                 ]
             },
             {
                 "特殊效果": [
-                    "Extra Attack"
+                    "Atk - Extra Attack"
                 ]
             },
             {
                 "增益效果": [
-                    "Dodge"
+                    "Def - Dodge"
                 ]
             }
         ]
@@ -1818,12 +1822,12 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: All"
+                    "Atk: All"
                 ]
             },
             {
                 "负面效果": [
-                    "Defense ↓"
+                    "Def - Defense ↓"
                 ]
             }
         ]
@@ -1875,12 +1879,12 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: All"
+                    "Atk: All"
                 ]
             },
             {
                 "增益效果": [
-                    "Attack ↑"
+                    "Atk - Attack ↑"
                 ]
             }
         ]
@@ -1936,17 +1940,17 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: All"
+                    "Atk: All"
                 ]
             },
             {
                 "特殊效果": [
-                    "Damage ↑ : Fire"
+                    "Dmg - Dmg ↑ : Fire"
                 ]
             },
             {
                 "负面效果": [
-                    "Defense ↓"
+                    "Def - Defense ↓"
                 ]
             }
         ]
@@ -1998,12 +2002,12 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Single"
+                    "Atk: Single"
                 ]
             },
             {
                 "负面效果": [
-                    "Defense ↓"
+                    "Def - Defense ↓"
                 ]
             }
         ]
@@ -2055,12 +2059,12 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Single"
+                    "Atk: Single"
                 ]
             },
             {
                 "增益效果": [
-                    "Attack ↑"
+                    "Atk - Attack ↑"
                 ]
             }
         ]
@@ -2116,17 +2120,17 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Single"
+                    "Atk: Single"
                 ]
             },
             {
                 "特殊效果": [
-                    "Damage ↑ : Fire"
+                    "Dmg - Dmg ↑ : Fire"
                 ]
             },
             {
                 "负面效果": [
-                    "Defense ↓"
+                    "Def - Defense ↓"
                 ]
             }
         ]
@@ -2197,8 +2201,8 @@ window.allHeroes =
             },
             {
                 "增益效果": [
-                    "Defense ↑ : Special Skills",
-                    "Defense ↑ : Nature"
+                    "Def - Def ↑ : Special",
+                    "Def - Def ↑ : Nature"
                 ]
             }
         ]
@@ -2249,12 +2253,12 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Single"
+                    "Atk: Single"
                 ]
             },
             {
                 "特殊效果": [
-                    "Extra Damage"
+                    "Dmg - Extra"
                 ]
             }
         ]
@@ -2308,13 +2312,17 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Small Area / Minor"
+                    "Atk: Area"
                 ]
             },
             {
                 "特殊效果": [
-                    "Minion",
-                    "Dispel Buffs"
+                    "Summon - Minion"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Status - Dispel Buffs"
                 ]
             }
         ]
@@ -2366,12 +2374,12 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: All"
+                    "Atk: All"
                 ]
             },
             {
                 "增益效果": [
-                    "Defense ↑ : Nature"
+                    "Def - Def ↑ : Nature"
                 ]
             }
         ]
@@ -2423,13 +2431,13 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: All",
-                    "Attack: Damage over Time (DoT)"
+                    "Atk: All",
+                    "Dmg: DoT"
                 ]
             },
             {
                 "负面效果": [
-                    "DoT: Burn"
+                    "Dmg - DoT : Burn"
                 ]
             }
         ]
@@ -2490,12 +2498,12 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "特殊效果": [
-                    "Explosion / Detonation"
+                    "Dmg - Explosion"
                 ]
             },
             {
                 "增益效果": [
-                    "Taunt"
+                    "Def - Taunt"
                 ]
             }
         ]
@@ -2557,12 +2565,12 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "特殊效果": [
-                    "Explosion / Detonation"
+                    "Dmg - Explosion"
                 ]
             },
             {
                 "增益效果": [
-                    "Taunt"
+                    "Def - Taunt"
                 ]
             }
         ]
@@ -2623,7 +2631,7 @@ window.allHeroes =
             },
             {
                 "增益效果": [
-                    "Counterattack / Reflect"
+                    "Def - Counterattack"
                 ]
             }
         ]
@@ -2688,7 +2696,7 @@ window.allHeroes =
             },
             {
                 "增益效果": [
-                    "Counterattack / Reflect"
+                    "Def - Counterattack"
                 ]
             }
         ]
@@ -2745,17 +2753,17 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Small Area / Minor"
+                    "Atk: Area"
                 ]
             },
             {
                 "增益效果": [
-                    "Defense ↑ : Nature"
+                    "Def - Def ↑ : Nature"
                 ]
             },
             {
                 "负面效果": [
-                    "Defense ↓ : Special Skills"
+                    "Def - Def ↓ : Special"
                 ]
             }
         ]
@@ -2804,7 +2812,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "增益效果": [
-                    "Counterattack / Reflect"
+                    "Def - Counterattack"
                 ]
             }
         ]
@@ -2853,7 +2861,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "增益效果": [
-                    "Counterattack / Reflect"
+                    "Def - Counterattack"
                 ]
             }
         ]
@@ -2902,7 +2910,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "增益效果": [
-                    "Counterattack / Reflect"
+                    "Def - Counterattack"
                 ]
             }
         ]
@@ -2953,7 +2961,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "增益效果": [
-                    "Counterattack / Reflect"
+                    "Def - Counterattack"
                 ]
             }
         ]
@@ -3008,13 +3016,13 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Single"
+                    "Atk: Single"
                 ]
             },
             {
                 "特殊效果": [
-                    "Destroy Minions",
-                    "Extra Attack"
+                    "Atk - Destroy Minions",
+                    "Atk - Extra Attack"
                 ]
             }
         ]
@@ -3075,8 +3083,8 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "增益效果": [
-                    "Damage Reduction",
-                    "Attack ↑"
+                    "Def - Dmg Reduction",
+                    "Atk - Attack ↑"
                 ]
             }
         ]
@@ -3134,13 +3142,17 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Over Time (HoT)"
+                    "Heal: Over Time"
                 ]
             },
             {
                 "特殊效果": [
-                    "Destroy Minions",
-                    "Dispel Buffs"
+                    "Atk - Destroy Minions"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Status - Dispel Buffs"
                 ]
             }
         ]
@@ -3196,17 +3208,17 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: All"
+                    "Atk: All"
                 ]
             },
             {
                 "特殊效果": [
-                    "Extra Damage"
+                    "Dmg - Extra"
                 ]
             },
             {
                 "负面效果": [
-                    "Defense ↓"
+                    "Def - Defense ↓"
                 ]
             }
         ]
@@ -3265,25 +3277,25 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: All",
-                    "Attack: Damage over Time (DoT)"
+                    "Atk: All",
+                    "Dmg: DoT"
                 ]
             },
             {
                 "特殊效果": [
-                    "Extra Damage"
+                    "Dmg - Extra"
                 ]
             },
             {
                 "增益效果": [
-                    "Stack: Mana Generation"
+                    "Mana - Stack : Mana Gen ↑"
                 ]
             },
             {
                 "负面效果": [
-                    "Defense ↓ : Ice",
-                    "Stack: DOT",
-                    "DoT: Frost"
+                    "Def - Def ↓ : Ice",
+                    "Dmg - Stack : DoT",
+                    "Dmg - DoT : Frost"
                 ]
             }
         ]
@@ -3339,12 +3351,12 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Single"
+                    "Atk: Single"
                 ]
             },
             {
                 "特殊效果": [
-                    "Transform: Mana Generation"
+                    "Mana - Tile : Gen"
                 ]
             }
         ]
@@ -3401,18 +3413,18 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: All",
-                    "Attack: Damage over Time (DoT)"
+                    "Atk: All",
+                    "Dmg: DoT"
                 ]
             },
             {
                 "特殊效果": [
-                    "Mega Minion"
+                    "Summon - Mega Minion"
                 ]
             },
             {
                 "负面效果": [
-                    "DoT: Bleed"
+                    "Dmg - DoT : Bleed"
                 ]
             }
         ]
@@ -3464,12 +3476,12 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Small Area / Minor"
+                    "Atk: Area"
                 ]
             },
             {
                 "负面效果": [
-                    "Defense ↓"
+                    "Def - Defense ↓"
                 ]
             }
         ]
@@ -3521,12 +3533,12 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Small Area / Minor"
+                    "Atk: Area"
                 ]
             },
             {
                 "增益效果": [
-                    "Attack ↑"
+                    "Atk - Attack ↑"
                 ]
             }
         ]
@@ -3577,12 +3589,12 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Single"
+                    "Atk: Single"
                 ]
             },
             {
                 "特殊效果": [
-                    "Extra Damage"
+                    "Dmg - Extra"
                 ]
             }
         ]
@@ -3638,17 +3650,17 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Target and Nearby"
+                    "Atk: Minor to Nearby"
                 ]
             },
             {
                 "特殊效果": [
-                    "Damage ↑ : Fire"
+                    "Dmg - Dmg ↑ : Fire"
                 ]
             },
             {
                 "负面效果": [
-                    "Defense ↓"
+                    "Def - Defense ↓"
                 ]
             }
         ]
@@ -3704,17 +3716,17 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Target and Nearby"
+                    "Atk: Minor to Nearby"
                 ]
             },
             {
                 "特殊效果": [
-                    "Bypass (Defensive Buffs)"
+                    "Atk - Bypass / Ignore"
                 ]
             },
             {
                 "负面效果": [
-                    "Defense ↓"
+                    "Def - Defense ↓"
                 ]
             }
         ]
@@ -3772,17 +3784,17 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Over Time (HoT)"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "Cleanse Status Ailments"
+                    "Heal: Over Time"
                 ]
             },
             {
                 "增益效果": [
-                    "Damage Reduction"
+                    "Def - Dmg Reduction"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Status - Cleanse Ailments"
                 ]
             }
         ]
@@ -3836,12 +3848,12 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: All"
+                    "Atk: All"
                 ]
             },
             {
                 "特殊效果": [
-                    "Transform: Attack"
+                    "Atk - Tile : Attack"
                 ]
             }
         ]
@@ -3901,8 +3913,8 @@ window.allHeroes =
             },
             {
                 "增益效果": [
-                    "Attack ↑",
-                    "Defense ↑"
+                    "Atk - Attack ↑",
+                    "Def - Defense ↑"
                 ]
             }
         ]
@@ -3962,8 +3974,8 @@ window.allHeroes =
             },
             {
                 "负面效果": [
-                    "Attack ↓",
-                    "Defense ↓"
+                    "Atk - Attack ↓",
+                    "Def - Defense ↓"
                 ]
             }
         ]
@@ -4018,17 +4030,17 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Boost"
+                    "Heal: Boost Health"
                 ]
             },
             {
                 "增益效果": [
-                    "Defense ↑"
+                    "Def - Defense ↑"
                 ]
             },
             {
                 "负面效果": [
-                    "Attack ↓"
+                    "Atk - Attack ↓"
                 ]
             }
         ]
@@ -4090,8 +4102,8 @@ window.allHeroes =
             },
             {
                 "增益效果": [
-                    "Attack ↑",
-                    "Defense ↑"
+                    "Atk - Attack ↑",
+                    "Def - Defense ↑"
                 ]
             }
         ]
@@ -4157,9 +4169,9 @@ window.allHeroes =
             },
             {
                 "增益效果": [
-                    "Reflect Ailments",
-                    "Attack ↑",
-                    "Defense ↑"
+                    "Status - Reflect Ailments",
+                    "Atk - Attack ↑",
+                    "Def - Defense ↑"
                 ]
             }
         ]
@@ -4220,9 +4232,9 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "增益效果": [
-                    "Reflect Ailments",
-                    "Defense ↑",
-                    "Stack: Attack ↑"
+                    "Status - Reflect Ailments",
+                    "Def - Defense ↑",
+                    "Atk - Stack : Atk ↑"
                 ]
             }
         ]
@@ -4281,13 +4293,13 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Single"
+                    "Atk: Single"
                 ]
             },
             {
                 "特殊效果": [
-                    "Extra Attack",
-                    "Extra Damage"
+                    "Atk - Extra Attack",
+                    "Dmg - Extra"
                 ]
             }
         ]
@@ -4340,12 +4352,12 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Small Area / Minor"
+                    "Atk: Area"
                 ]
             },
             {
                 "增益效果": [
-                    "Stack: Attack ↑"
+                    "Atk - Stack : Atk ↑"
                 ]
             }
         ]
@@ -4401,19 +4413,19 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Single"
+                    "Atk: Single"
                 ]
             },
             {
                 "特殊效果": [
-                    "Mana Cut",
-                    "Bypass Dodge",
-                    "Damage ↑ : Holy"
+                    "Mana - Mana Cut",
+                    "Atk - Bypass Dodge",
+                    "Dmg - Dmg ↑ : Holy"
                 ]
             },
             {
                 "增益效果": [
-                    "Damage Reduction"
+                    "Def - Dmg Reduction"
                 ]
             }
         ]
@@ -4477,17 +4489,17 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Single"
+                    "Atk: Single"
                 ]
             },
             {
                 "特殊效果": [
-                    "Mana on Kill"
+                    "Mana - Mana Gain (on Kill)"
                 ]
             },
             {
                 "负面效果": [
-                    "Defense ↓"
+                    "Def - Defense ↓"
                 ]
             }
         ]
@@ -4539,12 +4551,12 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Boost"
+                    "Heal: Boost Health"
                 ]
             },
             {
                 "增益效果": [
-                    "Defense ↑ : Nature"
+                    "Def - Def ↑ : Nature"
                 ]
             }
         ]
@@ -4606,12 +4618,12 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Variable"
+                    "Atk: Variable Targets"
                 ]
             },
             {
                 "特殊效果": [
-                    "Bypass (Defensive Buffs)"
+                    "Atk - Bypass / Ignore"
                 ]
             }
         ]
@@ -4663,12 +4675,12 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Single"
+                    "Atk: Single"
                 ]
             },
             {
-                "特殊效果": [
-                    "Dispel Buffs"
+                "增益效果": [
+                    "Status - Dispel Buffs"
                 ]
             }
         ]
@@ -4720,12 +4732,12 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Single"
+                    "Atk: Single"
                 ]
             },
             {
-                "特殊效果": [
-                    "Cleanse Status Ailments"
+                "负面效果": [
+                    "Status - Cleanse Ailments"
                 ]
             }
         ]
@@ -4777,12 +4789,12 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Single"
+                    "Atk: Single"
                 ]
             },
             {
                 "负面效果": [
-                    "Buff Immunity / Block Buffs"
+                    "Status - Buff Immunity"
                 ]
             }
         ]
@@ -4838,13 +4850,17 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Single"
+                    "Atk: Single"
                 ]
             },
             {
                 "特殊效果": [
-                    "Dispel Buffs",
-                    "Damage ↑ : Fire"
+                    "Dmg - Dmg ↑ : Fire"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Status - Dispel Buffs"
                 ]
             }
         ]
@@ -4896,12 +4912,12 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Single"
+                    "Atk: Single"
                 ]
             },
             {
                 "增益效果": [
-                    "Healing Amount ↑"
+                    "Heal - Healing ↑"
                 ]
             }
         ]
@@ -4953,12 +4969,12 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Target and Nearby"
+                    "Atk: Minor to Nearby"
                 ]
             },
             {
                 "增益效果": [
-                    "Attack ↑"
+                    "Atk - Attack ↑"
                 ]
             }
         ]
@@ -5016,13 +5032,13 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Single",
-                    "Attack: Damage over Time (DoT)"
+                    "Atk: Single",
+                    "Dmg: DoT"
                 ]
             },
             {
                 "负面效果": [
-                    "Steal Healing"
+                    "Heal - Steal Healing"
                 ]
             }
         ]
@@ -5076,13 +5092,17 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Single"
+                    "Atk: Single"
                 ]
             },
             {
                 "特殊效果": [
-                    "Minion",
-                    "Dispel Buffs"
+                    "Summon - Minion"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Status - Dispel Buffs"
                 ]
             }
         ]
@@ -5136,12 +5156,12 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Both Ends"
+                    "Atk: Edges"
                 ]
             },
             {
                 "负面效果": [
-                    "Defense ↓"
+                    "Def - Defense ↓"
                 ]
             }
         ]
@@ -5195,12 +5215,12 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Both Ends"
+                    "Atk: Edges"
                 ]
             },
             {
                 "负面效果": [
-                    "Defense ↓"
+                    "Def - Defense ↓"
                 ]
             }
         ]
@@ -5260,17 +5280,17 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Small Area / Minor"
+                    "Atk: Area"
                 ]
             },
             {
                 "特殊效果": [
-                    "Fiend"
+                    "Summon - Fiend"
                 ]
             },
             {
                 "负面效果": [
-                    "Defense ↓"
+                    "Def - Defense ↓"
                 ]
             }
         ]
@@ -5327,13 +5347,13 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "特殊效果": [
-                    "Heal from Damage"
+                    "Heal - From Dmg"
                 ]
             },
             {
                 "增益效果": [
-                    "Damage Share",
-                    "Defense ↑"
+                    "Def - Dmg Share",
+                    "Def - Defense ↑"
                 ]
             }
         ]
@@ -5392,13 +5412,13 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Over Time (HoT)"
+                    "Heal: Over Time"
                 ]
             },
             {
                 "增益效果": [
-                    "Damage Share",
-                    "Defense ↑"
+                    "Def - Dmg Share",
+                    "Def - Defense ↑"
                 ]
             }
         ]
@@ -5459,13 +5479,9 @@ window.allHeroes =
                 ]
             },
             {
-                "特殊效果": [
-                    "Cleanse Status Ailments"
-                ]
-            },
-            {
                 "负面效果": [
-                    "Mana Generation ↓ / Block"
+                    "Mana - Mana Gen ↓/Block",
+                    "Status - Cleanse Ailments"
                 ]
             }
         ]
@@ -5526,13 +5542,9 @@ window.allHeroes =
                 ]
             },
             {
-                "特殊效果": [
-                    "Cleanse Status Ailments"
-                ]
-            },
-            {
                 "负面效果": [
-                    "Mana Generation ↓ / Block"
+                    "Mana - Mana Gen ↓/Block",
+                    "Status - Cleanse Ailments"
                 ]
             }
         ]
@@ -5587,12 +5599,12 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Single"
+                    "Atk: Single"
                 ]
             },
             {
                 "负面效果": [
-                    "Mana Generation ↓ / Block"
+                    "Mana - Mana Gen ↓/Block"
                 ]
             }
         ]
@@ -5652,17 +5664,17 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Target and Nearby"
+                    "Atk: Minor to Nearby"
                 ]
             },
             {
                 "特殊效果": [
-                    "Mana Cut"
+                    "Mana - Mana Cut"
                 ]
             },
             {
                 "负面效果": [
-                    "Mana Generation ↓ / Block"
+                    "Mana - Mana Gen ↓/Block"
                 ]
             }
         ]
@@ -5728,12 +5740,12 @@ window.allHeroes =
             },
             {
                 "特殊效果": [
-                    "Transform: Critical Chance"
+                    "Atk - Tile : Critical"
                 ]
             },
             {
                 "负面效果": [
-                    "Accuracy ↓"
+                    "Atk - Accuracy ↓"
                 ]
             }
         ]
@@ -5785,12 +5797,12 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Single"
+                    "Atk: Single"
                 ]
             },
             {
                 "负面效果": [
-                    "Attack ↓"
+                    "Atk - Attack ↓"
                 ]
             }
         ]
@@ -5860,17 +5872,17 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: All"
+                    "Atk: All"
                 ]
             },
             {
                 "特殊效果": [
-                    "Fiend"
+                    "Summon - Fiend"
                 ]
             },
             {
                 "负面效果": [
-                    "Healing Amount ↓"
+                    "Heal - Healing ↓"
                 ]
             }
         ]
@@ -5937,14 +5949,14 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "特殊效果": [
-                    "Destroy Fiends",
-                    "Destroy Minions"
+                    "Summon - Destroy Fiends",
+                    "Atk - Destroy Minions"
                 ]
             },
             {
                 "增益效果": [
-                    "Damage Reduction",
-                    "Mana Generation ↑"
+                    "Def - Dmg Reduction",
+                    "Mana - Mana Gen ↑"
                 ]
             }
         ]
@@ -6002,8 +6014,8 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "增益效果": [
-                    "Counterattack / Reflect",
-                    "Mana Recovery"
+                    "Def - Counterattack",
+                    "Mana - Mana Gain"
                 ]
             }
         ]
@@ -6063,18 +6075,18 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Single",
-                    "Attack: Damage over Time (DoT)"
+                    "Atk: Single",
+                    "Dmg: DoT"
                 ]
             },
             {
                 "特殊效果": [
-                    "Chain Attack"
+                    "Atk - Chain"
                 ]
             },
             {
                 "负面效果": [
-                    "DoT: Frost"
+                    "Dmg - DoT : Frost"
                 ]
             }
         ]
@@ -6133,13 +6145,13 @@ window.allHeroes =
                 ]
             },
             {
-                "特殊效果": [
-                    "Cleanse Status Ailments"
+                "增益效果": [
+                    "Mana - Mana Gen ↑"
                 ]
             },
             {
-                "增益效果": [
-                    "Mana Generation ↑"
+                "负面效果": [
+                    "Status - Cleanse Ailments"
                 ]
             }
         ]
@@ -6194,17 +6206,17 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Boost"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "Cleanse Status Ailments"
+                    "Heal: Boost Health"
                 ]
             },
             {
                 "增益效果": [
-                    "Mana Recovery"
+                    "Mana - Mana Gain"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Status - Cleanse Ailments"
                 ]
             }
         ]
@@ -6261,18 +6273,18 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Damage over Time (DoT)"
+                    "Dmg: DoT"
                 ]
             },
             {
-                "特殊效果": [
-                    "Dispel Buffs"
+                "增益效果": [
+                    "Status - Dispel Buffs"
                 ]
             },
             {
                 "负面效果": [
-                    "Max Health ↓",
-                    "DoT: Frost"
+                    "Heal - Max Health ↓",
+                    "Dmg - DoT : Frost"
                 ]
             }
         ]
@@ -6335,22 +6347,22 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: All"
+                    "Atk: All"
                 ]
             },
             {
                 "特殊效果": [
-                    "Mana Cut"
+                    "Mana - Mana Cut"
                 ]
             },
             {
                 "增益效果": [
-                    "Mana Recovery"
+                    "Mana - Mana Gain"
                 ]
             },
             {
                 "负面效果": [
-                    "Defense ↓ : Special Skills"
+                    "Def - Def ↓ : Special"
                 ]
             }
         ]
@@ -6407,17 +6419,17 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Target and Nearby"
+                    "Atk: Minor to Nearby"
                 ]
             },
             {
                 "特殊效果": [
-                    "Damage ↑ : Fire"
+                    "Dmg - Dmg ↑ : Fire"
                 ]
             },
             {
                 "负面效果": [
-                    "Defense ↓"
+                    "Def - Defense ↓"
                 ]
             }
         ]
@@ -6477,13 +6489,13 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Target and Nearby"
+                    "Atk: Minor to Nearby"
                 ]
             },
             {
                 "负面效果": [
-                    "Defense ↓ : Ice",
-                    "Defense ↓"
+                    "Def - Def ↓ : Ice",
+                    "Def - Defense ↓"
                 ]
             }
         ]
@@ -6548,14 +6560,14 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "特殊效果": [
-                    "Extra Damage"
+                    "Dmg - Extra"
                 ]
             },
             {
                 "负面效果": [
-                    "Mana Drain",
-                    "Attack ↓",
-                    "DoT: Frost"
+                    "Mana - Mana Steal",
+                    "Atk - Attack ↓",
+                    "Dmg - DoT : Frost"
                 ]
             }
         ]
@@ -6621,14 +6633,14 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "特殊效果": [
-                    "Extra Damage"
+                    "Dmg - Extra"
                 ]
             },
             {
                 "负面效果": [
-                    "Mana Drain",
-                    "Attack ↓",
-                    "DoT: Frost"
+                    "Mana - Mana Steal",
+                    "Atk - Attack ↓",
+                    "Dmg - DoT : Frost"
                 ]
             }
         ]
@@ -6692,17 +6704,17 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Variable"
+                    "Atk: Variable Targets"
                 ]
             },
             {
                 "特殊效果": [
-                    "Extra Damage"
+                    "Dmg - Extra"
                 ]
             },
             {
                 "负面效果": [
-                    "Accuracy ↓"
+                    "Atk - Accuracy ↓"
                 ]
             }
         ]
@@ -6761,13 +6773,13 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Single",
-                    "Attack: Damage over Time (DoT)"
+                    "Atk: Single",
+                    "Dmg: DoT"
                 ]
             },
             {
                 "负面效果": [
-                    "DoT: Bleed"
+                    "Dmg - DoT : Bleed"
                 ]
             }
         ]
@@ -6822,8 +6834,8 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "增益效果": [
-                    "Counterattack / Reflect",
-                    "Damage Reduction"
+                    "Def - Counterattack",
+                    "Def - Dmg Reduction"
                 ]
             }
         ]
@@ -6882,8 +6894,8 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "增益效果": [
-                    "Counterattack / Reflect",
-                    "Damage Reduction"
+                    "Def - Counterattack",
+                    "Def - Dmg Reduction"
                 ]
             }
         ]
@@ -6945,18 +6957,18 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: From Damage Dealt",
-                    "Attack: All"
+                    "Heal: From Dmg",
+                    "Atk: All"
                 ]
             },
             {
                 "增益效果": [
-                    "Mana Generation ↑"
+                    "Mana - Mana Gen ↑"
                 ]
             },
             {
                 "负面效果": [
-                    "Block Minions"
+                    "Status - Block Minions"
                 ]
             }
         ]
@@ -7011,13 +7023,13 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: All"
+                    "Atk: All"
                 ]
             },
             {
                 "负面效果": [
-                    "Attack ↓",
-                    "Defense ↓"
+                    "Atk - Attack ↓",
+                    "Def - Defense ↓"
                 ]
             }
         ]
@@ -7075,13 +7087,13 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Single"
+                    "Atk: Single"
                 ]
             },
             {
                 "负面效果": [
-                    "Confusion / Silence / Sleep",
-                    "Defense ↓"
+                    "Mana - Mindless/Silence/Sleep",
+                    "Def - Defense ↓"
                 ]
             }
         ]
@@ -7136,18 +7148,18 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Small Area / Minor"
+                    "Atk: Area"
                 ]
             },
             {
                 "增益效果": [
-                    "Damage Reduction"
+                    "Def - Dmg Reduction"
                 ]
             },
             {
                 "负面效果": [
-                    "Madness",
-                    "Self-Debuff"
+                    "Status - Insanity",
+                    "Status - Self-Debuff"
                 ]
             }
         ]
@@ -7207,14 +7219,14 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "特殊效果": [
-                    "Mega Minion",
-                    "Cleanse Status Ailments"
+                    "Summon - Mega Minion"
                 ]
             },
             {
                 "负面效果": [
-                    "Confusion / Silence / Sleep",
-                    "Increased Damage Taken ↑"
+                    "Mana - Mindless/Silence/Sleep",
+                    "Def - Dmg Taken ↑",
+                    "Status - Cleanse Ailments"
                 ]
             }
         ]
@@ -7279,18 +7291,18 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Boost"
+                    "Heal: Boost Health"
                 ]
             },
             {
                 "增益效果": [
-                    "Defense ↑ : Special Skills"
+                    "Def - Def ↑ : Special"
                 ]
             },
             {
                 "负面效果": [
-                    "Max Health ↓",
-                    "Defense ↓ : Special Skills"
+                    "Heal - Max Health ↓",
+                    "Def - Def ↓ : Special"
                 ]
             }
         ]
@@ -7347,18 +7359,18 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: All"
+                    "Atk: All"
                 ]
             },
             {
                 "特殊效果": [
-                    "Dispel Buffs",
-                    "Minion"
+                    "Summon - Minion"
                 ]
             },
             {
                 "增益效果": [
-                    "Defense ↑"
+                    "Def - Defense ↑",
+                    "Status - Dispel Buffs"
                 ]
             }
         ]
@@ -7420,18 +7432,18 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: All"
+                    "Atk: All"
                 ]
             },
             {
                 "特殊效果": [
-                    "Dispel Buffs",
-                    "Minion"
+                    "Summon - Minion"
                 ]
             },
             {
                 "增益效果": [
-                    "Defense ↑"
+                    "Def - Defense ↑",
+                    "Status - Dispel Buffs"
                 ]
             }
         ]
@@ -7493,18 +7505,18 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Single"
+                    "Atk: Single"
                 ]
             },
             {
                 "特殊效果": [
-                    "Bypass (Defensive Buffs)"
+                    "Atk - Bypass / Ignore"
                 ]
             },
             {
                 "增益效果": [
-                    "Stack: Mana Generation",
-                    "Stack: Health Recovery"
+                    "Mana - Stack : Mana Gen ↑",
+                    "Heal - Stack : Regen"
                 ]
             }
         ]
@@ -7560,12 +7572,12 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "特殊效果": [
-                    "Minion"
+                    "Summon - Minion"
                 ]
             },
             {
                 "增益效果": [
-                    "Damage Reduction"
+                    "Def - Dmg Reduction"
                 ]
             }
         ]
@@ -7622,13 +7634,13 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Small Area / Minor"
+                    "Atk: Area"
                 ]
             },
             {
                 "负面效果": [
-                    "Block Cleanse",
-                    "Defense ↓"
+                    "Status - Block Cleanse",
+                    "Def - Defense ↓"
                 ]
             }
         ]
@@ -7695,22 +7707,22 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: All",
-                    "Attack: Single",
-                    "Attack: Damage over Time (DoT)"
+                    "Atk: All",
+                    "Atk: Single",
+                    "Dmg: DoT"
                 ]
             },
             {
                 "特殊效果": [
-                    "Heal from Damage"
+                    "Heal - From Dmg"
                 ]
             },
             {
                 "负面效果": [
-                    "Mana Generation ↓ / Block",
-                    "Attack ↓",
-                    "Defense ↓",
-                    "DoT: Water"
+                    "Mana - Mana Gen ↓/Block",
+                    "Atk - Attack ↓",
+                    "Def - Defense ↓",
+                    "Dmg - DoT : Water"
                 ]
             }
         ]
@@ -7778,21 +7790,21 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: All",
-                    "Attack: Damage over Time (DoT)"
+                    "Atk: All",
+                    "Dmg: DoT"
                 ]
             },
             {
                 "特殊效果": [
-                    "Heal from Damage"
+                    "Heal - From Dmg"
                 ]
             },
             {
                 "负面效果": [
-                    "Mana Generation ↓ / Block",
-                    "Attack ↓",
-                    "Defense ↓",
-                    "DoT: Water"
+                    "Mana - Mana Gen ↓/Block",
+                    "Atk - Attack ↓",
+                    "Def - Defense ↓",
+                    "Dmg - DoT : Water"
                 ]
             }
         ]
@@ -7849,17 +7861,17 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: All"
+                    "Atk: All"
                 ]
             },
             {
                 "增益效果": [
-                    "Defense ↑ : Special Skills"
+                    "Def - Def ↑ : Special"
                 ]
             },
             {
                 "负面效果": [
-                    "Buff Immunity / Block Buffs"
+                    "Status - Buff Immunity"
                 ]
             }
         ]
@@ -7916,14 +7928,14 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Small Area / Minor",
-                    "Attack: Damage over Time (DoT)"
+                    "Atk: Area",
+                    "Dmg: DoT"
                 ]
             },
             {
                 "负面效果": [
-                    "DoT: Curse",
-                    "Confusion / Silence / Sleep"
+                    "Dmg - DoT : Curse",
+                    "Mana - Mindless/Silence/Sleep"
                 ]
             }
         ]
@@ -7988,19 +8000,23 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Boost",
-                    "Heal: Over Time (HoT)"
+                    "Heal: Boost Health",
+                    "Heal: Over Time"
                 ]
             },
             {
                 "特殊效果": [
-                    "Dispel Buffs",
-                    "Gamble / Random Effect"
+                    "Atk - Gamble / Random"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Status - Dispel Buffs"
                 ]
             },
             {
                 "负面效果": [
-                    "DoT: Poison"
+                    "Dmg - DoT : Poison"
                 ]
             }
         ]
@@ -8065,13 +8081,13 @@ window.allHeroes =
             {
                 "基础技能": [
                     "Heal: Instant",
-                    "Revive",
+                    "Heal: Revive",
                     "Heal: Special"
                 ]
             },
             {
-                "特殊效果": [
-                    "Cleanse Status Ailments"
+                "负面效果": [
+                    "Status - Cleanse Ailments"
                 ]
             }
         ]
@@ -8128,13 +8144,17 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: All"
+                    "Atk: All"
                 ]
             },
             {
                 "特殊效果": [
-                    "Dispel Buffs",
-                    "Mega Minion"
+                    "Summon - Mega Minion"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Status - Dispel Buffs"
                 ]
             }
         ]
@@ -8192,14 +8212,14 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: All",
-                    "Attack: Damage over Time (DoT)"
+                    "Atk: All",
+                    "Dmg: DoT"
                 ]
             },
             {
                 "负面效果": [
-                    "DoT: Frost",
-                    "Defense ↓ : Ice"
+                    "Dmg - DoT : Frost",
+                    "Def - Def ↓ : Ice"
                 ]
             }
         ]
@@ -8261,8 +8281,8 @@ window.allHeroes =
                 ]
             },
             {
-                "特殊效果": [
-                    "Cleanse Status Ailments"
+                "负面效果": [
+                    "Status - Cleanse Ailments"
                 ]
             }
         ]
@@ -8324,12 +8344,12 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Variable"
+                    "Atk: Variable Targets"
                 ]
             },
             {
                 "特殊效果": [
-                    "Bypass (Defensive Buffs)"
+                    "Atk - Bypass / Ignore"
                 ]
             }
         ]
@@ -8390,17 +8410,17 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: All"
+                    "Atk: All"
                 ]
             },
             {
                 "增益效果": [
-                    "Immunity to Status Ailments"
+                    "Status - Ailment Immunity"
                 ]
             },
             {
                 "负面效果": [
-                    "Buff Immunity / Block Buffs"
+                    "Status - Buff Immunity"
                 ]
             }
         ]
@@ -8459,20 +8479,20 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: All",
-                    "Attack: Damage over Time (DoT)"
+                    "Atk: All",
+                    "Dmg: DoT"
                 ]
             },
             {
                 "特殊效果": [
-                    "Extra Damage"
+                    "Dmg - Extra",
+                    "Status - Reduce Buff Duration"
                 ]
             },
             {
                 "负面效果": [
-                    "Reduce Buff Duration",
-                    "Attack ↓",
-                    "DoT: Frost"
+                    "Atk - Attack ↓",
+                    "Dmg - DoT : Frost"
                 ]
             }
         ]
@@ -8532,13 +8552,13 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Over Time (HoT)"
+                    "Heal: Over Time"
                 ]
             },
             {
                 "增益效果": [
-                    "Mana Generation ↑",
-                    "Defense ↑"
+                    "Mana - Mana Gen ↑",
+                    "Def - Defense ↑"
                 ]
             }
         ]
@@ -8594,17 +8614,17 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Boost"
+                    "Heal: Boost Health"
                 ]
             },
             {
                 "特殊效果": [
-                    "Destroy Fiends"
+                    "Summon - Destroy Fiends"
                 ]
             },
             {
                 "增益效果": [
-                    "Block Fiends"
+                    "Status - Block Fiends"
                 ]
             }
         ]
@@ -8657,18 +8677,18 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: All",
-                    "Attack: Damage over Time (DoT)"
+                    "Atk: All",
+                    "Dmg: DoT"
                 ]
             },
             {
                 "特殊效果": [
-                    "Transform: Attack Power"
+                    "Dmg - Tile : Up"
                 ]
             },
             {
                 "负面效果": [
-                    "DoT: Water"
+                    "Dmg - DoT : Water"
                 ]
             }
         ]
@@ -8723,18 +8743,18 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: All",
-                    "Attack: Damage over Time (DoT)"
+                    "Atk: All",
+                    "Dmg: DoT"
                 ]
             },
             {
                 "特殊效果": [
-                    "Transform: Attack Power"
+                    "Dmg - Tile : Up"
                 ]
             },
             {
                 "负面效果": [
-                    "DoT: Water"
+                    "Dmg - DoT : Water"
                 ]
             }
         ]
@@ -8802,19 +8822,19 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Single"
+                    "Atk: Single"
                 ]
             },
             {
                 "特殊效果": [
-                    "Destroy Minions",
-                    "Mana on Kill",
-                    "Self-Heal"
+                    "Atk - Destroy Minions",
+                    "Mana - Mana Gain (on Kill)",
+                    "Heal - Self Recovery"
                 ]
             },
             {
                 "增益效果": [
-                    "Mimic"
+                    "Def - Mimic"
                 ]
             }
         ]
@@ -8871,14 +8891,14 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Single"
+                    "Atk: Single"
                 ]
             },
             {
                 "特殊效果": [
-                    "Extra Damage",
-                    "Mana on Kill",
-                    "Heal from Damage"
+                    "Dmg - Extra",
+                    "Mana - Mana Gain (on Kill)",
+                    "Heal - From Dmg"
                 ]
             }
         ]
@@ -8935,14 +8955,14 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Single"
+                    "Atk: Single"
                 ]
             },
             {
                 "特殊效果": [
-                    "Extra Damage",
-                    "Mana on Kill",
-                    "Self-Heal"
+                    "Dmg - Extra",
+                    "Mana - Mana Gain (on Kill)",
+                    "Heal - Self Recovery"
                 ]
             }
         ]
@@ -9002,19 +9022,19 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Damage over Time (DoT)"
+                    "Dmg: DoT"
                 ]
             },
             {
                 "特殊效果": [
-                    "Mana Cut",
-                    "Mega Minion"
+                    "Mana - Mana Cut",
+                    "Summon - Mega Minion"
                 ]
             },
             {
                 "负面效果": [
-                    "Mana Generation ↓ / Block",
-                    "DoT: Bleed"
+                    "Mana - Mana Gen ↓/Block",
+                    "Dmg - DoT : Bleed"
                 ]
             }
         ]
@@ -9069,17 +9089,17 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Single"
+                    "Atk: Single"
                 ]
             },
             {
                 "特殊效果": [
-                    "Chain Attack"
+                    "Atk - Chain"
                 ]
             },
             {
                 "负面效果": [
-                    "Defense ↓"
+                    "Def - Defense ↓"
                 ]
             }
         ]
@@ -9137,17 +9157,17 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Single"
+                    "Atk: Single"
                 ]
             },
             {
                 "特殊效果": [
-                    "Chain Attack"
+                    "Atk - Chain"
                 ]
             },
             {
                 "负面效果": [
-                    "Defense ↓"
+                    "Def - Defense ↓"
                 ]
             }
         ]
@@ -9206,13 +9226,13 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: All"
+                    "Atk: All"
                 ]
             },
             {
                 "增益效果": [
-                    "Stack: Attack ↑",
-                    "Stack: Defense ↑"
+                    "Atk - Stack : Atk ↑",
+                    "Def - Stack : Def ↑"
                 ]
             }
         ]
@@ -9271,14 +9291,14 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: All"
+                    "Atk: All"
                 ]
             },
             {
                 "负面效果": [
-                    "Mana Generation ↓ / Block",
-                    "Weaken: Attack",
-                    "Weaken: Defense"
+                    "Mana - Mana Gen ↓/Block",
+                    "Atk - Wither : Atk↓",
+                    "Def - Wither : Def↓"
                 ]
             }
         ]
@@ -9340,18 +9360,22 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: All"
+                    "Atk: All"
                 ]
             },
             {
                 "特殊效果": [
-                    "Dispel Buffs",
-                    "Fiend"
+                    "Summon - Fiend"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Status - Dispel Buffs"
                 ]
             },
             {
                 "负面效果": [
-                    "Attack ↓"
+                    "Atk - Attack ↓"
                 ]
             }
         ]
@@ -9410,17 +9434,17 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Small Area / Minor"
+                    "Atk: Area"
                 ]
             },
             {
-                "特殊效果": [
-                    "Dispel Buffs"
+                "增益效果": [
+                    "Status - Dispel Buffs"
                 ]
             },
             {
                 "负面效果": [
-                    "Defense ↓ : Ice"
+                    "Def - Def ↓ : Ice"
                 ]
             }
         ]
@@ -9478,8 +9502,8 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "特殊效果": [
-                    "Minion",
-                    "Mega Minion"
+                    "Summon - Minion",
+                    "Summon - Mega Minion"
                 ]
             }
         ]
@@ -9537,17 +9561,17 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Small Area / Minor"
+                    "Atk: Area"
                 ]
             },
             {
                 "特殊效果": [
-                    "Reduce Ailment Duration"
+                    "Status - Reduce Ailment Duration"
                 ]
             },
             {
                 "增益效果": [
-                    "Critical Chance ↑"
+                    "Atk - Crit Chance ↑"
                 ]
             }
         ]
@@ -9604,12 +9628,12 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Single"
+                    "Atk: Single"
                 ]
             },
             {
                 "增益效果": [
-                    "Block Fiends"
+                    "Status - Block Fiends"
                 ]
             }
         ]
@@ -9672,17 +9696,17 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Small Area / Minor"
+                    "Atk: Area"
                 ]
             },
             {
                 "特殊效果": [
-                    "Fiend"
+                    "Summon - Fiend"
                 ]
             },
             {
                 "负面效果": [
-                    "Mana Drain"
+                    "Mana - Mana Steal"
                 ]
             }
         ]
@@ -9741,17 +9765,17 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Single"
+                    "Atk: Single"
                 ]
             },
             {
                 "特殊效果": [
-                    "Bypass Dodge"
+                    "Atk - Bypass Dodge"
                 ]
             },
             {
                 "负面效果": [
-                    "Stack: Damage Taken ↑"
+                    "Def - Stack : Dmg Taken ↑"
                 ]
             }
         ]
@@ -9809,13 +9833,17 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Small Area / Minor"
+                    "Atk: Area"
                 ]
             },
             {
                 "特殊效果": [
-                    "Cleanse Status Ailments",
-                    "Extra Damage"
+                    "Dmg - Extra"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Status - Cleanse Ailments"
                 ]
             }
         ]
@@ -9879,9 +9907,9 @@ window.allHeroes =
             },
             {
                 "增益效果": [
-                    "Growth: Attack",
-                    "Growth: Defense",
-                    "Mana Generation ↑"
+                    "Def - Growth : Def↑",
+                    "防御-成长：防御力↑",
+                    "Mana - Mana Gen ↑"
                 ]
             }
         ]
@@ -9933,12 +9961,12 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: All"
+                    "Atk: All"
                 ]
             },
             {
                 "增益效果": [
-                    "Mana Generation ↑"
+                    "Mana - Mana Gen ↑"
                 ]
             }
         ]
@@ -10002,12 +10030,12 @@ window.allHeroes =
             },
             {
                 "增益效果": [
-                    "Defense ↑ : Nature"
+                    "Def - Def ↑ : Nature"
                 ]
             },
             {
                 "负面效果": [
-                    "Accuracy ↓"
+                    "Atk - Accuracy ↓"
                 ]
             }
         ]
@@ -10074,12 +10102,12 @@ window.allHeroes =
             },
             {
                 "增益效果": [
-                    "Defense ↑ : Nature"
+                    "Def - Def ↑ : Nature"
                 ]
             },
             {
                 "负面效果": [
-                    "Accuracy ↓"
+                    "Atk - Accuracy ↓"
                 ]
             }
         ]
@@ -10135,13 +10163,17 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Single"
+                    "Atk: Single"
                 ]
             },
             {
                 "特殊效果": [
-                    "Dispel Buffs",
-                    "Extra Damage"
+                    "Dmg - Extra"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Status - Dispel Buffs"
                 ]
             }
         ]
@@ -10207,19 +10239,19 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Small Area / Minor"
+                    "Atk: Area"
                 ]
             },
             {
                 "特殊效果": [
-                    "Bypass Dodge",
-                    "Damage ↑ : Fire"
+                    "Atk - Bypass Dodge",
+                    "Dmg - Dmg ↑ : Fire"
                 ]
             },
             {
                 "负面效果": [
-                    "Max Health ↓",
-                    "Healing Amount ↓"
+                    "Heal - Max Health ↓",
+                    "Heal - Healing ↓"
                 ]
             }
         ]
@@ -10285,18 +10317,18 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: All"
+                    "Atk: All"
                 ]
             },
             {
                 "特殊效果": [
-                    "Mana Cut"
+                    "Mana - Mana Cut"
                 ]
             },
             {
                 "增益效果": [
-                    "Attack ↑",
-                    "Defense ↑"
+                    "Atk - Attack ↑",
+                    "Def - Defense ↑"
                 ]
             }
         ]
@@ -10350,13 +10382,13 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "增益效果": [
-                    "Taunt"
+                    "Def - Taunt"
                 ]
             },
             {
                 "负面效果": [
-                    "Madness",
-                    "Self-Debuff"
+                    "Status - Insanity",
+                    "Status - Self-Debuff"
                 ]
             }
         ]
@@ -10415,13 +10447,17 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Small Area / Minor"
+                    "Atk: Area"
                 ]
             },
             {
                 "特殊效果": [
-                    "Dispel Buffs",
-                    "Damage ↑ : Fire"
+                    "Dmg - Dmg ↑ : Fire"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Status - Dispel Buffs"
                 ]
             }
         ]
@@ -10473,12 +10509,12 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: All"
+                    "Atk: All"
                 ]
             },
             {
                 "负面效果": [
-                    "Defense ↓"
+                    "Def - Defense ↓"
                 ]
             }
         ]
@@ -10530,12 +10566,12 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: All"
+                    "Atk: All"
                 ]
             },
             {
                 "负面效果": [
-                    "Defense ↓"
+                    "Def - Defense ↓"
                 ]
             }
         ]
@@ -10589,17 +10625,17 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: All"
+                    "Atk: All"
                 ]
             },
             {
                 "特殊效果": [
-                    "Damage ↑ : Fire"
+                    "Dmg - Dmg ↑ : Fire"
                 ]
             },
             {
                 "负面效果": [
-                    "Attack ↓"
+                    "Atk - Attack ↓"
                 ]
             }
         ]
@@ -10655,17 +10691,17 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: All"
+                    "Atk: All"
                 ]
             },
             {
                 "特殊效果": [
-                    "Damage ↑ : Fire"
+                    "Dmg - Dmg ↑ : Fire"
                 ]
             },
             {
                 "负面效果": [
-                    "Defense ↓"
+                    "Def - Defense ↓"
                 ]
             }
         ]
@@ -10722,17 +10758,17 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: All"
+                    "Atk: All"
                 ]
             },
             {
                 "特殊效果": [
-                    "Bypass (Defensive Buffs)"
+                    "Atk - Bypass / Ignore"
                 ]
             },
             {
                 "负面效果": [
-                    "Defense ↓"
+                    "Def - Defense ↓"
                 ]
             }
         ]
@@ -10796,18 +10832,18 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Single"
+                    "Atk: Single"
                 ]
             },
             {
                 "特殊效果": [
-                    "Chain Attack"
+                    "Atk - Chain"
                 ]
             },
             {
                 "负面效果": [
-                    "Increased Damage Taken ↑",
-                    "Weaken: Attack"
+                    "Def - Dmg Taken ↑",
+                    "Atk - Wither : Atk↓"
                 ]
             }
         ]
@@ -10871,22 +10907,22 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Single"
+                    "Atk: Single"
                 ]
             },
             {
                 "特殊效果": [
-                    "Chain Attack"
+                    "Atk - Chain"
                 ]
             },
             {
                 "增益效果": [
-                    "Attack ↑"
+                    "Atk - Attack ↑"
                 ]
             },
             {
                 "负面效果": [
-                    "Accuracy ↓"
+                    "Atk - Accuracy ↓"
                 ]
             }
         ]
@@ -10947,13 +10983,13 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "特殊效果": [
-                    "Minion"
+                    "Summon - Minion"
                 ]
             },
             {
                 "增益效果": [
-                    "Immunity to Status Ailments",
-                    "Dodge"
+                    "Status - Ailment Immunity",
+                    "Def - Dodge"
                 ]
             }
         ]
@@ -11013,13 +11049,13 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Single",
-                    "Attack: Random"
+                    "Atk: Single",
+                    "Atk: Random"
                 ]
             },
             {
                 "负面效果": [
-                    "Confusion / Silence / Sleep"
+                    "Mana - Mindless/Silence/Sleep"
                 ]
             }
         ]
@@ -11085,23 +11121,23 @@ window.allHeroes =
             {
                 "基础技能": [
                     "Heal: Instant",
-                    "Attack: All",
-                    "Attack: Damage over Time (DoT)"
+                    "Atk: All",
+                    "Dmg: DoT"
                 ]
             },
             {
                 "特殊效果": [
-                    "Gamble / Random Effect"
+                    "Atk - Gamble / Random"
                 ]
             },
             {
                 "增益效果": [
-                    "Growth: Defense"
+                    "防御-成长：防御力↑"
                 ]
             },
             {
                 "负面效果": [
-                    "DoT: Poison"
+                    "Dmg - DoT : Poison"
                 ]
             }
         ]
@@ -11159,18 +11195,18 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Single"
+                    "Atk: Single"
                 ]
             },
             {
                 "增益效果": [
-                    "Defense ↑ : Special Skills"
+                    "Def - Def ↑ : Special"
                 ]
             },
             {
                 "负面效果": [
-                    "Attack ↓",
-                    "Defense ↓ : Ice"
+                    "Atk - Attack ↓",
+                    "Def - Def ↓ : Ice"
                 ]
             }
         ]
@@ -11228,18 +11264,18 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: All",
-                    "Attack: Damage over Time (DoT)"
+                    "Atk: All",
+                    "Dmg: DoT"
                 ]
             },
             {
                 "特殊效果": [
-                    "Heal from Damage"
+                    "Heal - From Dmg"
                 ]
             },
             {
                 "负面效果": [
-                    "DoT: Water"
+                    "Dmg - DoT : Water"
                 ]
             }
         ]
@@ -11297,14 +11333,14 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "特殊效果": [
-                    "Minion"
+                    "Summon - Minion"
                 ]
             },
             {
                 "增益效果": [
-                    "Taunt",
-                    "Attack ↑",
-                    "Defense ↑"
+                    "Def - Taunt",
+                    "Atk - Attack ↑",
+                    "Def - Defense ↑"
                 ]
             }
         ]
@@ -11362,14 +11398,14 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "特殊效果": [
-                    "Minion"
+                    "Summon - Minion"
                 ]
             },
             {
                 "增益效果": [
-                    "Taunt",
-                    "Attack ↑",
-                    "Defense ↑"
+                    "Def - Taunt",
+                    "Atk - Attack ↑",
+                    "Def - Defense ↑"
                 ]
             }
         ]
@@ -11438,15 +11474,15 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Single",
-                    "Attack: Damage over Time (DoT)"
+                    "Atk: Single",
+                    "Dmg: DoT"
                 ]
             },
             {
                 "负面效果": [
-                    "DoT: Bleed",
-                    "Increased Damage Taken ↑",
-                    "Block Healing"
+                    "Dmg - DoT : Bleed",
+                    "Def - Dmg Taken ↑",
+                    "Heal - Block Healing"
                 ]
             }
         ]
@@ -11499,7 +11535,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "特殊效果": [
-                    "Copy / Steal Skill"
+                    "Atk - Copy/Steal Skill"
                 ]
             }
         ]
@@ -11554,8 +11590,8 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "特殊效果": [
-                    "Steal Buffs",
-                    "Copy / Steal Skill"
+                    "Status - Steal Buffs",
+                    "Atk - Copy/Steal Skill"
                 ]
             }
         ]
@@ -11614,14 +11650,14 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Boost",
-                    "Heal: Over Time (HoT)",
-                    "Revive"
+                    "Heal: Boost Health",
+                    "Heal: Over Time",
+                    "Heal: Revive"
                 ]
             },
             {
                 "增益效果": [
-                    "Attack ↑"
+                    "Atk - Attack ↑"
                 ]
             }
         ]
@@ -11681,17 +11717,17 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: All"
+                    "Atk: All"
                 ]
             },
             {
                 "特殊效果": [
-                    "Extra Damage"
+                    "Dmg - Extra"
                 ]
             },
             {
                 "负面效果": [
-                    "Devouring Goo"
+                    "Status - Devouring Goo"
                 ]
             }
         ]
@@ -11743,12 +11779,12 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Single"
+                    "Atk: Single"
                 ]
             },
             {
                 "增益效果": [
-                    "Defense ↑"
+                    "Def - Defense ↑"
                 ]
             }
         ]
@@ -11800,12 +11836,12 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Single"
+                    "Atk: Single"
                 ]
             },
             {
                 "负面效果": [
-                    "Defense ↓"
+                    "Def - Defense ↓"
                 ]
             }
         ]
@@ -11857,12 +11893,12 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Small Area / Minor"
+                    "Atk: Area"
                 ]
             },
             {
                 "负面效果": [
-                    "Defense ↓ : Special Skills"
+                    "Def - Def ↓ : Special"
                 ]
             }
         ]
@@ -11918,17 +11954,17 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Single"
+                    "Atk: Single"
                 ]
             },
             {
                 "特殊效果": [
-                    "Damage ↑ : Fire"
+                    "Dmg - Dmg ↑ : Fire"
                 ]
             },
             {
                 "增益效果": [
-                    "Defense ↑"
+                    "Def - Defense ↑"
                 ]
             }
         ]
@@ -11985,17 +12021,17 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Single"
+                    "Atk: Single"
                 ]
             },
             {
                 "特殊效果": [
-                    "Bypass (Defensive Buffs)"
+                    "Atk - Bypass / Ignore"
                 ]
             },
             {
                 "增益效果": [
-                    "Defense ↑"
+                    "Def - Defense ↑"
                 ]
             }
         ]
@@ -12052,17 +12088,17 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Boost"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "Cleanse Status Ailments"
+                    "Heal: Boost Health"
                 ]
             },
             {
                 "增益效果": [
-                    "Damage Reduction"
+                    "Def - Dmg Reduction"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Status - Cleanse Ailments"
                 ]
             }
         ]
@@ -12114,12 +12150,12 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Target and Nearby"
+                    "Atk: Minor to Nearby"
                 ]
             },
             {
                 "负面效果": [
-                    "Self-Debuff"
+                    "Status - Self-Debuff"
                 ]
             }
         ]
@@ -12171,12 +12207,12 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: All"
+                    "Atk: All"
                 ]
             },
             {
                 "负面效果": [
-                    "Self-Debuff"
+                    "Status - Self-Debuff"
                 ]
             }
         ]
@@ -12233,17 +12269,17 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Single"
+                    "Atk: Single"
                 ]
             },
             {
                 "特殊效果": [
-                    "Extra Damage"
+                    "Dmg - Extra"
                 ]
             },
             {
                 "负面效果": [
-                    "Attack ↓"
+                    "Atk - Attack ↓"
                 ]
             }
         ]
@@ -12303,14 +12339,14 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Small Area / Minor",
-                    "Attack: Damage over Time (DoT)"
+                    "Atk: Area",
+                    "Dmg: DoT"
                 ]
             },
             {
                 "负面效果": [
-                    "Buff Immunity / Block Buffs",
-                    "DoT: Frost"
+                    "Status - Buff Immunity",
+                    "Dmg - DoT : Frost"
                 ]
             }
         ]
@@ -12366,12 +12402,12 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "增益效果": [
-                    "Attack ↑"
+                    "Atk - Attack ↑"
                 ]
             },
             {
                 "负面效果": [
-                    "Confusion / Silence / Sleep"
+                    "Mana - Mindless/Silence/Sleep"
                 ]
             }
         ]
@@ -12430,18 +12466,18 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Over Time (HoT)",
-                    "Attack: All"
+                    "Heal: Over Time",
+                    "Atk: All"
                 ]
             },
             {
                 "增益效果": [
-                    "Reflect Ailments"
+                    "Status - Reflect Ailments"
                 ]
             },
             {
                 "负面效果": [
-                    "Reflect Buff"
+                    "Status - Reflect Buffs"
                 ]
             }
         ]
@@ -12507,13 +12543,17 @@ window.allHeroes =
             {
                 "基础技能": [
                     "Heal: Instant",
-                    "Attack: All"
+                    "Atk: All"
                 ]
             },
             {
-                "特殊效果": [
-                    "Cleanse Status Ailments",
-                    "Dispel Buffs"
+                "增益效果": [
+                    "Status - Dispel Buffs"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Status - Cleanse Ailments"
                 ]
             }
         ]
@@ -12580,13 +12620,17 @@ window.allHeroes =
             {
                 "基础技能": [
                     "Heal: Instant",
-                    "Attack: All"
+                    "Atk: All"
                 ]
             },
             {
-                "特殊效果": [
-                    "Cleanse Status Ailments",
-                    "Dispel Buffs"
+                "增益效果": [
+                    "Status - Dispel Buffs"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Status - Cleanse Ailments"
                 ]
             }
         ]
@@ -12645,14 +12689,14 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "特殊效果": [
-                    "Minion",
-                    "Redistribute Ailments",
-                    "Heal from Minions"
+                    "Summon - Minion",
+                    "Status - Redistribute Ailments",
+                    "Heal - From Minions"
                 ]
             },
             {
                 "增益效果": [
-                    "Attack ↑"
+                    "Atk - Attack ↑"
                 ]
             }
         ]
@@ -12707,13 +12751,17 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Single"
+                    "Atk: Single"
                 ]
             },
             {
                 "特殊效果": [
-                    "Mana Recovery",
-                    "Extra Attack"
+                    "Atk - Extra Attack"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Mana - Mana Gain"
                 ]
             }
         ]
@@ -12768,17 +12816,17 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Single"
+                    "Atk: Single"
                 ]
             },
             {
                 "特殊效果": [
-                    "Extra Attack"
+                    "Atk - Extra Attack"
                 ]
             },
             {
                 "负面效果": [
-                    "Confusion / Silence / Sleep"
+                    "Mana - Mindless/Silence/Sleep"
                 ]
             }
         ]
@@ -12832,17 +12880,17 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Single"
+                    "Atk: Single"
                 ]
             },
             {
                 "特殊效果": [
-                    "Chain Attack"
+                    "Atk - Chain"
                 ]
             },
             {
                 "负面效果": [
-                    "Self-Debuff"
+                    "Status - Self-Debuff"
                 ]
             }
         ]
@@ -12902,13 +12950,13 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: All"
+                    "Atk: All"
                 ]
             },
             {
                 "特殊效果": [
-                    "Heal from Damage",
-                    "Extra Damage"
+                    "Heal - From Dmg",
+                    "Dmg - Extra"
                 ]
             }
         ]
@@ -12967,13 +13015,13 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Boost",
-                    "Attack: All"
+                    "Heal: Boost Health",
+                    "Atk: All"
                 ]
             },
             {
                 "负面效果": [
-                    "Max Health ↓"
+                    "Heal - Max Health ↓"
                 ]
             }
         ]
@@ -13038,15 +13086,15 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "特殊效果": [
-                    "Mana Cut",
-                    "Extra Damage"
+                    "Mana - Mana Cut",
+                    "Dmg - Extra"
                 ]
             },
             {
                 "增益效果": [
-                    "Counterattack / Reflect",
-                    "Mana Generation ↑",
-                    "Stack: Attack ↑"
+                    "Def - Counterattack",
+                    "Mana - Mana Gen ↑",
+                    "Atk - Stack : Atk ↑"
                 ]
             }
         ]
@@ -13114,13 +13162,13 @@ window.allHeroes =
             },
             {
                 "增益效果": [
-                    "Mana Recovery"
+                    "Mana - Mana Gain"
                 ]
             },
             {
                 "负面效果": [
-                    "Steal Healing",
-                    "Attack ↓"
+                    "Heal - Steal Healing",
+                    "Atk - Attack ↓"
                 ]
             }
         ]
@@ -13174,12 +13222,12 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: All"
+                    "Atk: All"
                 ]
             },
             {
                 "负面效果": [
-                    "Defense ↓"
+                    "Def - Defense ↓"
                 ]
             }
         ]
@@ -13239,13 +13287,13 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Over Time (HoT)",
-                    "Attack: All"
+                    "Heal: Over Time",
+                    "Atk: All"
                 ]
             },
             {
                 "负面效果": [
-                    "Defense ↓"
+                    "Def - Defense ↓"
                 ]
             }
         ]
@@ -13302,19 +13350,19 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Single",
-                    "Attack: Random",
-                    "Attack: Damage over Time (DoT)"
+                    "Atk: Single",
+                    "Atk: Random",
+                    "Dmg: DoT"
                 ]
             },
             {
                 "特殊效果": [
-                    "Minion"
+                    "Summon - Minion"
                 ]
             },
             {
                 "负面效果": [
-                    "DoT: Frost"
+                    "Dmg - DoT : Frost"
                 ]
             }
         ]
@@ -13372,19 +13420,19 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: All",
-                    "Attack: Random",
-                    "Attack: Damage over Time (DoT)"
+                    "Atk: All",
+                    "Atk: Random",
+                    "Dmg: DoT"
                 ]
             },
             {
                 "特殊效果": [
-                    "Minion"
+                    "Summon - Minion"
                 ]
             },
             {
                 "负面效果": [
-                    "DoT: Frost"
+                    "Dmg - DoT : Frost"
                 ]
             }
         ]
@@ -13452,14 +13500,10 @@ window.allHeroes =
                 ]
             },
             {
-                "特殊效果": [
-                    "Mana Recovery"
-                ]
-            },
-            {
                 "增益效果": [
-                    "Critical Chance ↑",
-                    "Mana Generation ↑"
+                    "Atk - Crit Chance ↑",
+                    "Mana - Mana Gen ↑",
+                    "Mana - Mana Gain"
                 ]
             }
         ]
@@ -13522,23 +13566,23 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Random"
+                    "Atk: Random"
                 ]
             },
             {
                 "特殊效果": [
-                    "Reset Buff Duration"
+                    "Status - Reset Buff Duration",
+                    "Status - Reset Ailment Duration"
                 ]
             },
             {
                 "增益效果": [
-                    "Attack ↑"
+                    "Atk - Attack ↑"
                 ]
             },
             {
                 "负面效果": [
-                    "Attack ↓",
-                    "Reset Ailment Duration"
+                    "Atk - Attack ↓"
                 ]
             }
         ]
@@ -13598,13 +13642,13 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Single"
+                    "Atk: Single"
                 ]
             },
             {
                 "负面效果": [
-                    "Change Color / Position",
-                    "Defense ↓ : Ice"
+                    "Def - Change Position",
+                    "Def - Def ↓ : Ice"
                 ]
             }
         ]
@@ -13672,19 +13716,19 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "特殊效果": [
-                    "Extra Attack",
-                    "Self-Heal"
+                    "Atk - Extra Attack",
+                    "Heal - Self Recovery"
                 ]
             },
             {
                 "增益效果": [
-                    "Dodge",
-                    "Self-Revive"
+                    "Def - Dodge",
+                    "Heal - Self Revive"
                 ]
             },
             {
                 "负面效果": [
-                    "Buff Immunity / Block Buffs"
+                    "Status - Buff Immunity"
                 ]
             }
         ]
@@ -13749,13 +13793,13 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Boost"
+                    "Heal: Boost Health"
                 ]
             },
             {
                 "增益效果": [
-                    "Counterattack / Reflect",
-                    "Taunt"
+                    "Def - Counterattack",
+                    "Def - Taunt"
                 ]
             }
         ]
@@ -13815,12 +13859,12 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Boost"
+                    "Heal: Boost Health"
                 ]
             },
             {
                 "增益效果": [
-                    "Growth: Attack"
+                    "Def - Growth : Def↑"
                 ]
             }
         ]
@@ -13878,13 +13922,13 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Over Time (HoT)",
-                    "Attack: All"
+                    "Heal: Over Time",
+                    "Atk: All"
                 ]
             },
             {
                 "负面效果": [
-                    "Stack: Damage Taken ↑"
+                    "Def - Stack : Dmg Taken ↑"
                 ]
             }
         ]
@@ -13943,13 +13987,13 @@ window.allHeroes =
             {
                 "基础技能": [
                     "Heal: Instant",
-                    "Heal: Over Time (HoT)",
+                    "Heal: Over Time",
                     "Heal: Special"
                 ]
             },
             {
                 "增益效果": [
-                    "Defense ↑"
+                    "Def - Defense ↑"
                 ]
             }
         ]
@@ -14010,13 +14054,13 @@ window.allHeroes =
             {
                 "基础技能": [
                     "Heal: Instant",
-                    "Heal: Over Time (HoT)",
+                    "Heal: Over Time",
                     "Heal: Special"
                 ]
             },
             {
                 "增益效果": [
-                    "Defense ↑"
+                    "Def - Defense ↑"
                 ]
             }
         ]
@@ -14078,18 +14122,22 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Single"
+                    "Atk: Single"
                 ]
             },
             {
                 "特殊效果": [
-                    "Dispel Buffs",
-                    "Mega Fiend"
+                    "Summon - Mega Fiend"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Status - Dispel Buffs"
                 ]
             },
             {
                 "负面效果": [
-                    "Buff Immunity / Block Buffs"
+                    "Status - Buff Immunity"
                 ]
             }
         ]
@@ -14146,17 +14194,17 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Single"
+                    "Atk: Single"
                 ]
             },
             {
                 "增益效果": [
-                    "Defense ↑ : Nature"
+                    "Def - Def ↑ : Nature"
                 ]
             },
             {
                 "负面效果": [
-                    "Block Healing"
+                    "Heal - Block Healing"
                 ]
             }
         ]
@@ -14216,13 +14264,13 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Small Area / Minor"
+                    "Atk: Area"
                 ]
             },
             {
                 "负面效果": [
-                    "Block Healing",
-                    "Defense ↓ : Ice"
+                    "Heal - Block Healing",
+                    "Def - Def ↓ : Ice"
                 ]
             }
         ]
@@ -14280,18 +14328,22 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Small Area / Minor"
+                    "Atk: Area"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Dmg - Explosion"
                 ]
             },
             {
                 "增益效果": [
-                    "Damage Reduction"
+                    "Def - Dmg Reduction"
                 ]
             },
             {
                 "负面效果": [
-                    "Damage on Ailment Cleanse",
-                    "Defense ↓"
+                    "Def - Defense ↓"
                 ]
             }
         ]
@@ -14352,14 +14404,14 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: All"
+                    "Atk: All"
                 ]
             },
             {
                 "特殊效果": [
-                    "Transform: Attack",
-                    "Self-Heal",
-                    "Damage ↑ : Fire"
+                    "Atk - Tile : Attack",
+                    "Heal - Self Recovery",
+                    "Dmg - Dmg ↑ : Fire"
                 ]
             }
         ]
@@ -14420,21 +14472,21 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Boost",
-                    "Attack: Small Area / Minor",
-                    "Heal: From Damage Dealt",
-                    "Attack: Damage over Time (DoT)"
+                    "Heal: Boost Health",
+                    "Atk: Area",
+                    "Heal: From Dmg",
+                    "Dmg: DoT"
                 ]
             },
             {
                 "增益效果": [
-                    "Growth: Attack",
-                    "Growth: Defense"
+                    "Def - Growth : Def↑",
+                    "防御-成长：防御力↑"
                 ]
             },
             {
                 "负面效果": [
-                    "DoT: Water"
+                    "Dmg - DoT : Water"
                 ]
             }
         ]
@@ -14503,15 +14555,15 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Boost"
+                    "Heal: Boost Health"
                 ]
             },
             {
                 "负面效果": [
-                    "Buff Immunity / Block Buffs",
-                    "Mana Generation ↓ / Block",
-                    "Accuracy ↓",
-                    "Defense ↓"
+                    "Status - Buff Immunity",
+                    "Mana - Mana Gen ↓/Block",
+                    "Atk - Accuracy ↓",
+                    "Def - Defense ↓"
                 ]
             }
         ]
@@ -14563,12 +14615,12 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Single"
+                    "Atk: Single"
                 ]
             },
             {
                 "特殊效果": [
-                    "Extra Damage"
+                    "Dmg - Extra"
                 ]
             }
         ]
@@ -14628,13 +14680,13 @@ window.allHeroes =
             {
                 "基础技能": [
                     "Heal: Instant",
-                    "Heal: Over Time (HoT)",
+                    "Heal: Over Time",
                     "Heal: Special"
                 ]
             },
             {
-                "特殊效果": [
-                    "Cleanse Status Ailments"
+                "负面效果": [
+                    "Status - Cleanse Ailments"
                 ]
             }
         ]
@@ -14698,19 +14750,23 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: All"
+                    "Atk: All"
                 ]
             },
             {
                 "特殊效果": [
-                    "Cleanse Status Ailments",
-                    "Extra Damage"
+                    "Dmg - Extra"
                 ]
             },
             {
                 "增益效果": [
-                    "Stack: Mana Generation",
-                    "Stack: Health Recovery"
+                    "Mana - Stack : Mana Gen ↑",
+                    "Heal - Stack : Regen"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Status - Cleanse Ailments"
                 ]
             }
         ]
@@ -14762,12 +14818,12 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Target and Nearby"
+                    "Atk: Minor to Nearby"
                 ]
             },
             {
                 "负面效果": [
-                    "Attack ↓"
+                    "Atk - Attack ↓"
                 ]
             }
         ]
@@ -14819,12 +14875,12 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Target and Nearby"
+                    "Atk: Minor to Nearby"
                 ]
             },
             {
                 "负面效果": [
-                    "Attack ↓"
+                    "Atk - Attack ↓"
                 ]
             }
         ]
@@ -14877,12 +14933,12 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Target and Nearby"
+                    "Atk: Minor to Nearby"
                 ]
             },
             {
                 "负面效果": [
-                    "Attack ↓"
+                    "Atk - Attack ↓"
                 ]
             }
         ]
@@ -14938,17 +14994,17 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Target and Nearby"
+                    "Atk: Minor to Nearby"
                 ]
             },
             {
                 "特殊效果": [
-                    "Damage ↑ : Fire"
+                    "Dmg - Dmg ↑ : Fire"
                 ]
             },
             {
                 "负面效果": [
-                    "Attack ↓"
+                    "Atk - Attack ↓"
                 ]
             }
         ]
@@ -15005,17 +15061,17 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Target and Nearby"
+                    "Atk: Minor to Nearby"
                 ]
             },
             {
                 "特殊效果": [
-                    "Bypass (Defensive Buffs)"
+                    "Atk - Bypass / Ignore"
                 ]
             },
             {
                 "负面效果": [
-                    "Attack ↓"
+                    "Atk - Attack ↓"
                 ]
             }
         ]
@@ -15079,25 +15135,25 @@ window.allHeroes =
             {
                 "基础技能": [
                     "Heal: Instant",
-                    "Attack: All",
-                    "Attack: Damage over Time (DoT)"
+                    "Atk: All",
+                    "Dmg: DoT"
                 ]
             },
             {
                 "特殊效果": [
-                    "Cleanse Status Ailments",
-                    "Gamble / Random Effect"
+                    "Atk - Gamble / Random"
                 ]
             },
             {
                 "增益效果": [
-                    "Attack ↑"
+                    "Atk - Attack ↑"
                 ]
             },
             {
                 "负面效果": [
-                    "DoT: Poison",
-                    "Defense ↓"
+                    "Dmg - DoT : Poison",
+                    "Def - Defense ↓",
+                    "Status - Cleanse Ailments"
                 ]
             }
         ]
@@ -15166,26 +15222,26 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Boost",
-                    "Attack: Damage over Time (DoT)"
+                    "Heal: Boost Health",
+                    "Dmg: DoT"
                 ]
             },
             {
                 "特殊效果": [
-                    "Gamble / Random Effect"
+                    "Atk - Gamble / Random"
                 ]
             },
             {
                 "增益效果": [
-                    "Immunity to Status Ailments"
+                    "Status - Ailment Immunity"
                 ]
             },
             {
                 "负面效果": [
-                    "Mana Generation ↓ / Block",
-                    "Buff Immunity / Block Buffs",
-                    "DoT: Poison",
-                    "Max Health ↓"
+                    "Mana - Mana Gen ↓/Block",
+                    "Status - Buff Immunity",
+                    "Dmg - DoT : Poison",
+                    "Heal - Max Health ↓"
                 ]
             }
         ]
@@ -15244,17 +15300,17 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Single"
+                    "Atk: Single"
                 ]
             },
             {
                 "特殊效果": [
-                    "Extra Damage"
+                    "Dmg - Extra"
                 ]
             },
             {
                 "增益效果": [
-                    "hidden / Ghost Form"
+                    "Status - Hide/Ghost Form"
                 ]
             }
         ]
@@ -15316,17 +15372,17 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Single"
+                    "Atk: Single"
                 ]
             },
             {
                 "特殊效果": [
-                    "Extra Damage"
+                    "Dmg - Extra"
                 ]
             },
             {
                 "增益效果": [
-                    "hidden / Ghost Form"
+                    "Status - Hide/Ghost Form"
                 ]
             }
         ]
@@ -15392,18 +15448,18 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Over Time (HoT)",
-                    "Revive"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "Cleanse Status Ailments"
+                    "Heal: Over Time",
+                    "Heal: Revive"
                 ]
             },
             {
                 "增益效果": [
-                    "hidden / Ghost Form"
+                    "Status - Hide/Ghost Form"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Status - Cleanse Ailments"
                 ]
             }
         ]
@@ -15463,22 +15519,18 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Random"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "Cleanse Status Ailments"
+                    "Atk: Random"
                 ]
             },
             {
                 "增益效果": [
-                    "hidden / Ghost Form"
+                    "Status - Hide/Ghost Form"
                 ]
             },
             {
                 "负面效果": [
-                    "Madness"
+                    "Status - Insanity",
+                    "Status - Cleanse Ailments"
                 ]
             }
         ]
@@ -15536,17 +15588,17 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: All"
+                    "Atk: All"
                 ]
             },
             {
                 "特殊效果": [
-                    "Extra Damage"
+                    "Dmg - Extra"
                 ]
             },
             {
                 "增益效果": [
-                    "Damage Reduction"
+                    "Def - Dmg Reduction"
                 ]
             }
         ]
@@ -15618,8 +15670,8 @@ window.allHeroes =
                 ]
             },
             {
-                "特殊效果": [
-                    "Cleanse Status Ailments"
+                "负面效果": [
+                    "Status - Cleanse Ailments"
                 ]
             }
         ]
@@ -15679,13 +15731,13 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Both Ends"
+                    "Atk: Edges"
                 ]
             },
             {
                 "特殊效果": [
-                    "Fiend",
-                    "Mana Cut"
+                    "Summon - Fiend",
+                    "Mana - Mana Cut"
                 ]
             }
         ]
@@ -15746,18 +15798,18 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: All"
+                    "Atk: All"
                 ]
             },
             {
                 "特殊效果": [
-                    "Transform: Attack Power",
-                    "Damage ↑ : Fire"
+                    "Dmg - Tile : Up",
+                    "Dmg - Dmg ↑ : Fire"
                 ]
             },
             {
                 "增益效果": [
-                    "Dodge"
+                    "Def - Dodge"
                 ]
             }
         ]
@@ -15817,18 +15869,18 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Small Area / Minor"
+                    "Atk: Area"
                 ]
             },
             {
                 "特殊效果": [
-                    "Bypass (Defensive Buffs)"
+                    "Atk - Bypass / Ignore"
                 ]
             },
             {
                 "负面效果": [
-                    "Attack ↓",
-                    "Healing Amount ↓"
+                    "Atk - Attack ↓",
+                    "Heal - Healing ↓"
                 ]
             }
         ]
@@ -15886,20 +15938,20 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: All",
-                    "Attack: Damage over Time (DoT)"
+                    "Atk: All",
+                    "Dmg: DoT"
                 ]
             },
             {
                 "特殊效果": [
-                    "Extra Damage"
+                    "Dmg - Extra"
                 ]
             },
             {
                 "负面效果": [
-                    "Stack: DOT",
-                    "Stack: Mana Generation ↓",
-                    "DoT: Frost"
+                    "Dmg - Stack : DoT",
+                    "Mana - Stack : Mana Gen ↓",
+                    "Dmg - DoT : Frost"
                 ]
             }
         ]
@@ -15957,19 +16009,19 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Small Area / Minor"
+                    "Atk: Area"
                 ]
             },
             {
                 "特殊效果": [
-                    "Extra Damage"
+                    "Dmg - Extra"
                 ]
             },
             {
                 "负面效果": [
-                    "Stack: DOT",
-                    "Stack: Mana Generation ↓",
-                    "DoT: Frost"
+                    "Dmg - Stack : DoT",
+                    "Mana - Stack : Mana Gen ↓",
+                    "Dmg - DoT : Frost"
                 ]
             }
         ]
@@ -16032,14 +16084,14 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: All",
-                    "Attack: Damage over Time (DoT)"
+                    "Atk: All",
+                    "Dmg: DoT"
                 ]
             },
             {
                 "负面效果": [
-                    "DoT: Frost",
-                    "Defense ↓ : Ice"
+                    "Dmg - DoT : Frost",
+                    "Def - Def ↓ : Ice"
                 ]
             }
         ]
@@ -16097,14 +16149,14 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: All",
-                    "Attack: Damage over Time (DoT)"
+                    "Atk: All",
+                    "Dmg: DoT"
                 ]
             },
             {
                 "负面效果": [
-                    "Mana Generation ↓ / Block",
-                    "DoT: Water"
+                    "Mana - Mana Gen ↓/Block",
+                    "Dmg - DoT : Water"
                 ]
             }
         ]
@@ -16160,14 +16212,22 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: All"
+                    "Atk: All"
                 ]
             },
             {
                 "特殊效果": [
-                    "Cleanse Status Ailments",
-                    "Dispel Buffs",
-                    "Extra Damage"
+                    "Dmg - Extra"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Status - Dispel Buffs"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Status - Cleanse Ailments"
                 ]
             }
         ]
@@ -16224,14 +16284,22 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: All"
+                    "Atk: All"
                 ]
             },
             {
                 "特殊效果": [
-                    "Cleanse Status Ailments",
-                    "Dispel Buffs",
-                    "Extra Damage"
+                    "Dmg - Extra"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Status - Dispel Buffs"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Status - Cleanse Ailments"
                 ]
             }
         ]
@@ -16287,12 +16355,12 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: All"
+                    "Atk: All"
                 ]
             },
             {
                 "特殊效果": [
-                    "Bypass (Defensive Buffs)"
+                    "Atk - Bypass / Ignore"
                 ]
             }
         ]
@@ -16352,18 +16420,18 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: All",
-                    "Attack: Damage over Time (DoT)"
+                    "Atk: All",
+                    "Dmg: DoT"
                 ]
             },
             {
                 "特殊效果": [
-                    "Bypass (Defensive Buffs)"
+                    "Atk - Bypass / Ignore"
                 ]
             },
             {
                 "负面效果": [
-                    "DoT: Bleed"
+                    "Dmg - DoT : Bleed"
                 ]
             }
         ]
@@ -16431,19 +16499,19 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Small Area / Minor",
-                    "Heal: From Damage Dealt"
+                    "Atk: Area",
+                    "Heal: From Dmg"
                 ]
             },
             {
                 "增益效果": [
-                    "Critical Chance ↑"
+                    "Atk - Crit Chance ↑"
                 ]
             },
             {
                 "负面效果": [
-                    "Confusion / Silence / Sleep",
-                    "Defense ↓"
+                    "Mana - Mindless/Silence/Sleep",
+                    "Def - Defense ↓"
                 ]
             }
         ]
@@ -16502,13 +16570,13 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "特殊效果": [
-                    "Minion",
-                    "Damage on Minion Removal"
+                    "Summon - Minion",
+                    "Dmg - On Minion Removal"
                 ]
             },
             {
                 "增益效果": [
-                    "Attack ↑"
+                    "Atk - Attack ↑"
                 ]
             }
         ]
@@ -16568,19 +16636,19 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: All"
+                    "Atk: All"
                 ]
             },
             {
                 "特殊效果": [
-                    "Bypass Dodge",
-                    "Extra Damage"
+                    "Atk - Bypass Dodge",
+                    "Dmg - Extra",
+                    "Dmg - Explosion"
                 ]
             },
             {
                 "负面效果": [
-                    "Damage on Ailment Cleanse",
-                    "Defense ↓"
+                    "Def - Defense ↓"
                 ]
             }
         ]
@@ -16640,17 +16708,17 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Over Time (HoT)"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "Cleanse Status Ailments"
+                    "Heal: Over Time"
                 ]
             },
             {
                 "增益效果": [
-                    "Reflect Ailments"
+                    "Status - Reflect Ailments"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Status - Cleanse Ailments"
                 ]
             }
         ]
@@ -16714,13 +16782,13 @@ window.allHeroes =
             },
             {
                 "特殊效果": [
-                    "Steal Buffs"
+                    "Status - Steal Buffs"
                 ]
             },
             {
                 "负面效果": [
-                    "Confusion / Silence / Sleep",
-                    "Increased Damage Taken ↑"
+                    "Mana - Mindless/Silence/Sleep",
+                    "Def - Dmg Taken ↑"
                 ]
             }
         ]
@@ -16776,18 +16844,18 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Small Area / Minor",
-                    "Attack: Damage over Time (DoT)"
+                    "Atk: Area",
+                    "Dmg: DoT"
                 ]
             },
             {
                 "增益效果": [
-                    "Attack ↑"
+                    "Atk - Attack ↑"
                 ]
             },
             {
                 "负面效果": [
-                    "DoT: Water"
+                    "Dmg - DoT : Water"
                 ]
             }
         ]
@@ -16852,17 +16920,17 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Boost"
+                    "Heal: Boost Health"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Status - Reset Ailment Duration"
                 ]
             },
             {
                 "增益效果": [
-                    "Immunity to Status Ailments"
-                ]
-            },
-            {
-                "负面效果": [
-                    "Reset Ailment Duration"
+                    "Status - Ailment Immunity"
                 ]
             }
         ]
@@ -16927,17 +16995,17 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Boost"
+                    "Heal: Boost Health"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Status - Reset Ailment Duration"
                 ]
             },
             {
                 "增益效果": [
-                    "Immunity to Status Ailments"
-                ]
-            },
-            {
-                "负面效果": [
-                    "Reset Ailment Duration"
+                    "Status - Ailment Immunity"
                 ]
             }
         ]
@@ -17008,13 +17076,9 @@ window.allHeroes =
                 ]
             },
             {
-                "特殊效果": [
-                    "Mana Recovery"
-                ]
-            },
-            {
                 "增益效果": [
-                    "Mana Generation ↑"
+                    "Mana - Mana Gen ↑",
+                    "Mana - Mana Gain"
                 ]
             }
         ]
@@ -17071,13 +17135,13 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: All"
+                    "Atk: All"
                 ]
             },
             {
                 "增益效果": [
-                    "Counterattack / Reflect : Nature",
-                    "Attack ↑"
+                    "Def - Reflect : Nature",
+                    "Atk - Attack ↑"
                 ]
             }
         ]
@@ -17126,7 +17190,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Target and Nearby"
+                    "Atk: Minor to Nearby"
                 ]
             }
         ]
@@ -17178,12 +17242,12 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Single"
+                    "Atk: Single"
                 ]
             },
             {
                 "增益效果": [
-                    "Mana Generation ↑"
+                    "Mana - Mana Gen ↑"
                 ]
             }
         ]
@@ -17238,17 +17302,17 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Small Area / Minor"
+                    "Atk: Area"
                 ]
             },
             {
                 "特殊效果": [
-                    "Mana Cut"
+                    "Mana - Mana Cut"
                 ]
             },
             {
                 "增益效果": [
-                    "Mana Recovery"
+                    "Mana - Mana Gain"
                 ]
             }
         ]
@@ -17301,12 +17365,12 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Target and Nearby"
+                    "Atk: Minor to Nearby"
                 ]
             },
             {
                 "特殊效果": [
-                    "Damage ↑ : Fire"
+                    "Dmg - Dmg ↑ : Fire"
                 ]
             }
         ]
@@ -17366,18 +17430,22 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Small Area / Minor"
+                    "Atk: Area"
                 ]
             },
             {
                 "特殊效果": [
-                    "Dispel Buffs",
-                    "Damage ↑ : Holy"
+                    "Dmg - Dmg ↑ : Holy"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Status - Dispel Buffs"
                 ]
             },
             {
                 "负面效果": [
-                    "Buff Immunity / Block Buffs"
+                    "Status - Buff Immunity"
                 ]
             }
         ]
@@ -17435,18 +17503,18 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Small Area / Minor"
+                    "Atk: Area"
                 ]
             },
             {
                 "特殊效果": [
-                    "Minion"
+                    "Summon - Minion"
                 ]
             },
             {
                 "负面效果": [
-                    "Accuracy ↓",
-                    "Defense ↓"
+                    "Atk - Accuracy ↓",
+                    "Def - Defense ↓"
                 ]
             }
         ]
@@ -17506,17 +17574,17 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Over Time (HoT)"
+                    "Heal: Over Time"
                 ]
             },
             {
                 "特殊效果": [
-                    "Explosion / Detonation"
+                    "Dmg - Explosion"
                 ]
             },
             {
                 "增益效果": [
-                    "Stack: Attack ↑"
+                    "Atk - Stack : Atk ↑"
                 ]
             }
         ]
@@ -17582,18 +17650,18 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "特殊效果": [
-                    "Fiend",
-                    "Minion"
+                    "Summon - Fiend",
+                    "Summon - Minion"
                 ]
             },
             {
                 "增益效果": [
-                    "Mana Generation ↑"
+                    "Mana - Mana Gen ↑"
                 ]
             },
             {
                 "负面效果": [
-                    "Mana Generation ↓ / Block"
+                    "Mana - Mana Gen ↓/Block"
                 ]
             }
         ]
@@ -17654,19 +17722,19 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: All",
-                    "Attack: Damage over Time (DoT)"
+                    "Atk: All",
+                    "Dmg: DoT"
                 ]
             },
             {
                 "特殊效果": [
-                    "Damage ↑ : Fire"
+                    "Dmg - Dmg ↑ : Fire"
                 ]
             },
             {
                 "负面效果": [
-                    "DoT: Water",
-                    "Defense ↓"
+                    "Dmg - DoT : Water",
+                    "Def - Defense ↓"
                 ]
             }
         ]
@@ -17726,13 +17794,13 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Small Area / Minor"
+                    "Atk: Area"
                 ]
             },
             {
                 "负面效果": [
-                    "Mana Generation ↓ / Block",
-                    "Defense ↓ : Special Skills"
+                    "Mana - Mana Gen ↓/Block",
+                    "Def - Def ↓ : Special"
                 ]
             }
         ]
@@ -17794,19 +17862,19 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: All",
-                    "Attack: Damage over Time (DoT)"
+                    "Atk: All",
+                    "Dmg: DoT"
                 ]
             },
             {
                 "特殊效果": [
-                    "Gamble / Random Effect"
+                    "Atk - Gamble / Random"
                 ]
             },
             {
                 "负面效果": [
-                    "DoT: Frost",
-                    "Defense ↓ : Ice"
+                    "Dmg - DoT : Frost",
+                    "Def - Def ↓ : Ice"
                 ]
             }
         ]
@@ -17868,14 +17936,14 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "特殊效果": [
-                    "Minion",
-                    "Mana Cut"
+                    "Summon - Minion",
+                    "Mana - Mana Cut"
                 ]
             },
             {
                 "负面效果": [
-                    "Buff Immunity / Block Buffs",
-                    "Defense ↓ : Special Skills"
+                    "Status - Buff Immunity",
+                    "Def - Def ↓ : Special"
                 ]
             }
         ]
@@ -17933,18 +18001,18 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Single",
-                    "Attack: Damage over Time (DoT)"
+                    "Atk: Single",
+                    "Dmg: DoT"
                 ]
             },
             {
-                "特殊效果": [
-                    "Dispel Buffs"
+                "增益效果": [
+                    "Status - Dispel Buffs"
                 ]
             },
             {
                 "负面效果": [
-                    "DoT: Frost"
+                    "Dmg - DoT : Frost"
                 ]
             }
         ]
@@ -17999,18 +18067,18 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Single",
-                    "Attack: Damage over Time (DoT)"
+                    "Atk: Single",
+                    "Dmg: DoT"
                 ]
             },
             {
                 "特殊效果": [
-                    "Minion"
+                    "Summon - Minion"
                 ]
             },
             {
                 "负面效果": [
-                    "DoT: Frost"
+                    "Dmg - DoT : Frost"
                 ]
             }
         ]
@@ -18073,14 +18141,14 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Single",
-                    "Attack: Damage over Time (DoT)",
-                    "Attack: Variable"
+                    "Atk: Single",
+                    "Dmg: DoT",
+                    "Atk: Variable Targets"
                 ]
             },
             {
                 "负面效果": [
-                    "DoT: Frost"
+                    "Dmg - DoT : Frost"
                 ]
             }
         ]
@@ -18147,14 +18215,14 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Over Time (HoT)",
-                    "Heal: Boost"
+                    "Heal: Over Time",
+                    "Heal: Boost Health"
                 ]
             },
             {
                 "增益效果": [
-                    "Defense ↑",
-                    "Block Buff Dispelling"
+                    "Def - Defense ↑",
+                    "Status - Block Buff Dispel"
                 ]
             }
         ]
@@ -18363,12 +18431,12 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Small Area / Minor"
+                    "Atk: Area"
                 ]
             },
             {
                 "负面效果": [
-                    "Max Health ↓"
+                    "Heal - Max Health ↓"
                 ]
             }
         ]
@@ -18424,8 +18492,8 @@ window.allHeroes =
                 ]
             },
             {
-                "特殊效果": [
-                    "Dispel Buffs"
+                "增益效果": [
+                    "Status - Dispel Buffs"
                 ]
             }
         ]
@@ -18477,12 +18545,12 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Over Time (HoT)"
+                    "Heal: Over Time"
                 ]
             },
             {
                 "增益效果": [
-                    "Block Buff Dispelling"
+                    "Status - Block Buff Dispel"
                 ]
             }
         ]
@@ -18543,13 +18611,9 @@ window.allHeroes =
                 ]
             },
             {
-                "特殊效果": [
-                    "Dispel Buffs"
-                ]
-            },
-            {
                 "增益效果": [
-                    "Defense ↑"
+                    "Def - Defense ↑",
+                    "Status - Dispel Buffs"
                 ]
             }
         ]
@@ -18610,13 +18674,9 @@ window.allHeroes =
                 ]
             },
             {
-                "特殊效果": [
-                    "Dispel Buffs"
-                ]
-            },
-            {
                 "增益效果": [
-                    "Reflect Ailments"
+                    "Status - Reflect Ailments",
+                    "Status - Dispel Buffs"
                 ]
             }
         ]
@@ -18668,12 +18728,12 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Single"
+                    "Atk: Single"
                 ]
             },
             {
                 "负面效果": [
-                    "Attack ↓"
+                    "Atk - Attack ↓"
                 ]
             }
         ]
@@ -18725,12 +18785,12 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Single"
+                    "Atk: Single"
                 ]
             },
             {
                 "负面效果": [
-                    "Defense ↓"
+                    "Def - Defense ↓"
                 ]
             }
         ]
@@ -18786,17 +18846,17 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Single"
+                    "Atk: Single"
                 ]
             },
             {
                 "特殊效果": [
-                    "Damage ↑ : Ice"
+                    "Dmg - Dmg ↑ : Ice"
                 ]
             },
             {
                 "负面效果": [
-                    "Attack ↓"
+                    "Atk - Attack ↓"
                 ]
             }
         ]
@@ -18853,17 +18913,17 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Single"
+                    "Atk: Single"
                 ]
             },
             {
                 "特殊效果": [
-                    "Bypass (Defensive Buffs)"
+                    "Atk - Bypass / Ignore"
                 ]
             },
             {
                 "负面效果": [
-                    "Attack ↓"
+                    "Atk - Attack ↓"
                 ]
             }
         ]
@@ -18912,7 +18972,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "增益效果": [
-                    "Attack ↑"
+                    "Atk - Attack ↑"
                 ]
             }
         ]
@@ -18961,7 +19021,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "负面效果": [
-                    "Defense ↓"
+                    "Def - Defense ↓"
                 ]
             }
         ]
@@ -19012,7 +19072,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "增益效果": [
-                    "Attack ↑"
+                    "Atk - Attack ↑"
                 ]
             }
         ]
@@ -19067,8 +19127,8 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "增益效果": [
-                    "Reflect Ailments",
-                    "Attack ↑"
+                    "Status - Reflect Ailments",
+                    "Atk - Attack ↑"
                 ]
             }
         ]
@@ -19130,18 +19190,18 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Over Time (HoT)"
+                    "Heal: Over Time"
                 ]
             },
             {
                 "增益效果": [
-                    "Attack ↑",
-                    "Defense ↑"
+                    "Atk - Attack ↑",
+                    "Def - Defense ↑"
                 ]
             },
             {
                 "负面效果": [
-                    "Self-Debuff"
+                    "Status - Self-Debuff"
                 ]
             }
         ]
@@ -19193,12 +19253,12 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: All"
+                    "Atk: All"
                 ]
             },
             {
                 "特殊效果": [
-                    "Mana Cut"
+                    "Mana - Mana Cut"
                 ]
             }
         ]
@@ -19250,12 +19310,12 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: All"
+                    "Atk: All"
                 ]
             },
             {
                 "负面效果": [
-                    "Mana Generation ↓ / Block"
+                    "Mana - Mana Gen ↓/Block"
                 ]
             }
         ]
@@ -19311,13 +19371,13 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: All"
+                    "Atk: All"
                 ]
             },
             {
                 "特殊效果": [
-                    "Mana Cut",
-                    "Damage ↑ : Ice"
+                    "Mana - Mana Cut",
+                    "Dmg - Dmg ↑ : Ice"
                 ]
             }
         ]
@@ -19374,13 +19434,13 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Boost"
+                    "Heal: Boost Health"
                 ]
             },
             {
                 "增益效果": [
-                    "Growth: Attack",
-                    "Growth: Defense"
+                    "Def - Growth : Def↑",
+                    "防御-成长：防御力↑"
                 ]
             }
         ]
@@ -19444,13 +19504,13 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "增益效果": [
-                    "Damage Share",
-                    "Defense ↑"
+                    "Def - Dmg Share",
+                    "Def - Defense ↑"
                 ]
             },
             {
                 "负面效果": [
-                    "Defense ↓"
+                    "Def - Defense ↓"
                 ]
             }
         ]
@@ -19509,13 +19569,13 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Boost"
+                    "Heal: Boost Health"
                 ]
             },
             {
                 "增益效果": [
-                    "Immunity to Status Ailments",
-                    "Defense ↑"
+                    "Status - Ailment Immunity",
+                    "Def - Defense ↑"
                 ]
             }
         ]
@@ -19573,13 +19633,13 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Boost"
+                    "Heal: Boost Health"
                 ]
             },
             {
                 "增益效果": [
-                    "Immunity to Status Ailments",
-                    "Defense ↑"
+                    "Status - Ailment Immunity",
+                    "Def - Defense ↑"
                 ]
             }
         ]
@@ -19632,13 +19692,13 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Small Area / Minor"
+                    "Atk: Area"
                 ]
             },
             {
                 "特殊效果": [
-                    "Bypass Dodge",
-                    "Damage ↑ : Holy"
+                    "Atk - Bypass Dodge",
+                    "Dmg - Dmg ↑ : Holy"
                 ]
             }
         ]
@@ -19695,12 +19755,12 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Small Area / Minor"
+                    "Atk: Area"
                 ]
             },
             {
                 "特殊效果": [
-                    "Fiend"
+                    "Summon - Fiend"
                 ]
             }
         ]
@@ -19757,7 +19817,7 @@ window.allHeroes =
             },
             {
                 "增益效果": [
-                    "Mana Generation ↑"
+                    "Mana - Mana Gen ↑"
                 ]
             }
         ]
@@ -19814,7 +19874,7 @@ window.allHeroes =
             },
             {
                 "增益效果": [
-                    "Mana Generation ↑"
+                    "Mana - Mana Gen ↑"
                 ]
             }
         ]
@@ -19873,7 +19933,7 @@ window.allHeroes =
             },
             {
                 "增益效果": [
-                    "Mana Generation ↑"
+                    "Mana - Mana Gen ↑"
                 ]
             }
         ]
@@ -19935,8 +19995,8 @@ window.allHeroes =
             },
             {
                 "增益效果": [
-                    "Reflect Ailments",
-                    "Mana Generation ↑"
+                    "Status - Reflect Ailments",
+                    "Mana - Mana Gen ↑"
                 ]
             }
         ]
@@ -19990,13 +20050,17 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: All"
+                    "Atk: All"
                 ]
             },
             {
                 "特殊效果": [
-                    "Dispel Buffs",
-                    "Extra Damage"
+                    "Dmg - Extra"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Status - Dispel Buffs"
                 ]
             }
         ]
@@ -20048,13 +20112,13 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Single",
-                    "Attack: Damage over Time (DoT)"
+                    "Atk: Single",
+                    "Dmg: DoT"
                 ]
             },
             {
                 "负面效果": [
-                    "DoT: Bleed"
+                    "Dmg - DoT : Bleed"
                 ]
             }
         ]
@@ -20110,17 +20174,17 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: All"
+                    "Atk: All"
                 ]
             },
             {
                 "特殊效果": [
-                    "Extra Damage"
+                    "Dmg - Extra"
                 ]
             },
             {
                 "负面效果": [
-                    "Mana Generation ↓ / Block"
+                    "Mana - Mana Gen ↓/Block"
                 ]
             }
         ]
@@ -20174,12 +20238,12 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Revive"
+                    "Heal: Revive"
                 ]
             },
             {
                 "增益效果": [
-                    "Mana Recovery"
+                    "Mana - Mana Gain"
                 ]
             }
         ]
@@ -20233,8 +20297,8 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Over Time (HoT)",
-                    "Revive"
+                    "Heal: Over Time",
+                    "Heal: Revive"
                 ]
             }
         ]
@@ -20287,12 +20351,12 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Boost"
+                    "Heal: Boost Health"
                 ]
             },
             {
                 "增益效果": [
-                    "Attack ↑"
+                    "Atk - Attack ↑"
                 ]
             }
         ]
@@ -20351,19 +20415,15 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Single",
-                    "Attack: Damage over Time (DoT)"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "Cleanse Status Ailments"
+                    "Atk: Single",
+                    "Dmg: DoT"
                 ]
             },
             {
                 "负面效果": [
-                    "Block Healing",
-                    "DoT: Sand"
+                    "Heal - Block Healing",
+                    "Dmg - DoT : Sand",
+                    "Status - Cleanse Ailments"
                 ]
             }
         ]
@@ -20412,7 +20472,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Target and Nearby"
+                    "Atk: Minor to Nearby"
                 ]
             }
         ]
@@ -20464,12 +20524,12 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Target and Nearby"
+                    "Atk: Minor to Nearby"
                 ]
             },
             {
                 "负面效果": [
-                    "Defense ↓"
+                    "Def - Defense ↓"
                 ]
             }
         ]
@@ -20522,12 +20582,12 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Target and Nearby"
+                    "Atk: Minor to Nearby"
                 ]
             },
             {
                 "特殊效果": [
-                    "Damage ↑ : Ice"
+                    "Dmg - Dmg ↑ : Ice"
                 ]
             }
         ]
@@ -20581,17 +20641,17 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Single"
+                    "Atk: Single"
                 ]
             },
             {
                 "特殊效果": [
-                    "Minion"
+                    "Summon - Minion"
                 ]
             },
             {
                 "增益效果": [
-                    "Counterattack / Reflect"
+                    "Def - Counterattack"
                 ]
             }
         ]
@@ -20643,12 +20703,12 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Single"
+                    "Atk: Single"
                 ]
             },
             {
-                "特殊效果": [
-                    "Dispel Buffs"
+                "增益效果": [
+                    "Status - Dispel Buffs"
                 ]
             }
         ]
@@ -20700,12 +20760,12 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Single"
+                    "Atk: Single"
                 ]
             },
             {
-                "特殊效果": [
-                    "Cleanse Status Ailments"
+                "负面效果": [
+                    "Status - Cleanse Ailments"
                 ]
             }
         ]
@@ -20759,7 +20819,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Revive"
+                    "Heal: Revive"
                 ]
             }
         ]
@@ -20820,19 +20880,19 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Single"
+                    "Atk: Single"
                 ]
             },
             {
                 "特殊效果": [
-                    "Extra Attack",
-                    "Damage ↑ : Ice"
+                    "Atk - Extra Attack",
+                    "Dmg - Dmg ↑ : Ice"
                 ]
             },
             {
                 "增益效果": [
-                    "Stack: Mana Generation",
-                    "Stack: Health Recovery"
+                    "Mana - Stack : Mana Gen ↑",
+                    "Heal - Stack : Regen"
                 ]
             }
         ]
@@ -20897,18 +20957,18 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Single"
+                    "Atk: Single"
                 ]
             },
             {
                 "特殊效果": [
-                    "Extra Damage"
+                    "Dmg - Extra"
                 ]
             },
             {
                 "增益效果": [
-                    "Bypass (Defensive Buffs)",
-                    "Critical Chance ↑"
+                    "Atk - Bypass / Ignore",
+                    "Atk - Crit Chance ↑"
                 ]
             }
         ]
@@ -20960,9 +21020,9 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "增益效果": [
-                    "Taunt",
-                    "Defense ↑ : Special Skills",
-                    "Defense ↑"
+                    "Def - Taunt",
+                    "Def - Def ↑ : Special",
+                    "Def - Defense ↑"
                 ]
             }
         ]
@@ -21014,12 +21074,12 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Single"
+                    "Atk: Single"
                 ]
             },
             {
                 "负面效果": [
-                    "Attack ↓"
+                    "Atk - Attack ↓"
                 ]
             }
         ]
@@ -21077,13 +21137,13 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Small Area / Minor"
+                    "Atk: Area"
                 ]
             },
             {
                 "增益效果": [
-                    "Critical Chance ↑",
-                    "Defense ↑"
+                    "Atk - Crit Chance ↑",
+                    "Def - Defense ↑"
                 ]
             }
         ]
@@ -21147,23 +21207,23 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Boost"
+                    "Heal: Boost Health"
                 ]
             },
             {
                 "特殊效果": [
-                    "Gamble / Random Effect"
+                    "Atk - Gamble / Random"
                 ]
             },
             {
                 "增益效果": [
-                    "Defense ↑"
+                    "Def - Defense ↑"
                 ]
             },
             {
                 "负面效果": [
-                    "Max Health ↓",
-                    "Defense ↓"
+                    "Heal - Max Health ↓",
+                    "Def - Defense ↓"
                 ]
             }
         ]
@@ -21220,13 +21280,13 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: All"
+                    "Atk: All"
                 ]
             },
             {
                 "负面效果": [
-                    "Block Cleanse",
-                    "Attack ↓"
+                    "Status - Block Cleanse",
+                    "Atk - Attack ↓"
                 ]
             }
         ]
@@ -21279,12 +21339,12 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Small Area / Minor"
+                    "Atk: Area"
                 ]
             },
             {
                 "特殊效果": [
-                    "Extra Damage"
+                    "Dmg - Extra"
                 ]
             }
         ]
@@ -21347,15 +21407,15 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: All"
+                    "Atk: All"
                 ]
             },
             {
                 "负面效果": [
-                    "Mana Generation ↓ / Block",
-                    "Accuracy ↓",
-                    "Attack ↓",
-                    "Defense ↓"
+                    "Mana - Mana Gen ↓/Block",
+                    "Atk - Accuracy ↓",
+                    "Atk - Attack ↓",
+                    "Def - Defense ↓"
                 ]
             }
         ]
@@ -21410,13 +21470,13 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Small Area / Minor"
+                    "Atk: Area"
                 ]
             },
             {
                 "负面效果": [
-                    "Max Health ↓",
-                    "Defense ↓ : Nature"
+                    "Heal - Max Health ↓",
+                    "Def - Def ↓ : Nature"
                 ]
             }
         ]
@@ -21471,17 +21531,17 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Single"
+                    "Atk: Single"
                 ]
             },
             {
                 "特殊效果": [
-                    "Mana Cut"
+                    "Mana - Mana Cut"
                 ]
             },
             {
                 "负面效果": [
-                    "Defense ↓ : Nature"
+                    "Def - Def ↓ : Nature"
                 ]
             }
         ]
@@ -21547,15 +21607,15 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Over Time (HoT)",
-                    "Revive",
-                    "Attack: All",
-                    "Attack: Damage over Time (DoT)"
+                    "Heal: Over Time",
+                    "Heal: Revive",
+                    "Atk: All",
+                    "Dmg: DoT"
                 ]
             },
             {
                 "负面效果": [
-                    "DoT: Poison"
+                    "Dmg - DoT : Poison"
                 ]
             }
         ]
@@ -21624,13 +21684,9 @@ window.allHeroes =
                 ]
             },
             {
-                "特殊效果": [
-                    "Mana Recovery"
-                ]
-            },
-            {
                 "增益效果": [
-                    "Mana Generation ↑"
+                    "Mana - Mana Gen ↑",
+                    "Mana - Mana Gain"
                 ]
             }
         ]
@@ -21692,9 +21748,9 @@ window.allHeroes =
             },
             {
                 "增益效果": [
-                    "Block Buff Dispelling",
-                    "Mana Generation ↑",
-                    "Defense ↑ : Special Skills"
+                    "Status - Block Buff Dispel",
+                    "Mana - Mana Gen ↑",
+                    "Def - Def ↑ : Special"
                 ]
             }
         ]
@@ -21752,18 +21808,18 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Small Area / Minor"
+                    "Atk: Area"
                 ]
             },
             {
                 "特殊效果": [
-                    "Minion"
+                    "Summon - Minion"
                 ]
             },
             {
                 "负面效果": [
-                    "Attack ↓",
-                    "Defense ↓"
+                    "Atk - Attack ↓",
+                    "Def - Defense ↓"
                 ]
             }
         ]
@@ -21815,12 +21871,12 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Single"
+                    "Atk: Single"
                 ]
             },
             {
-                "特殊效果": [
-                    "Dispel Buffs"
+                "增益效果": [
+                    "Status - Dispel Buffs"
                 ]
             }
         ]
@@ -21872,12 +21928,12 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Single"
+                    "Atk: Single"
                 ]
             },
             {
-                "特殊效果": [
-                    "Cleanse Status Ailments"
+                "负面效果": [
+                    "Status - Cleanse Ailments"
                 ]
             }
         ]
@@ -21931,17 +21987,17 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Small Area / Minor"
+                    "Atk: Area"
                 ]
             },
             {
-                "特殊效果": [
-                    "Dispel Buffs"
+                "增益效果": [
+                    "Status - Dispel Buffs"
                 ]
             },
             {
                 "负面效果": [
-                    "Buff Immunity / Block Buffs"
+                    "Status - Buff Immunity"
                 ]
             }
         ]
@@ -21997,13 +22053,17 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Single"
+                    "Atk: Single"
                 ]
             },
             {
                 "特殊效果": [
-                    "Dispel Buffs",
-                    "Damage ↑ : Ice"
+                    "Dmg - Dmg ↑ : Ice"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Status - Dispel Buffs"
                 ]
             }
         ]
@@ -22062,18 +22122,22 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Single"
+                    "Atk: Single"
                 ]
             },
             {
                 "特殊效果": [
-                    "Bypass (Defensive Buffs)",
-                    "Dispel Buffs"
+                    "Atk - Bypass / Ignore"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Status - Dispel Buffs"
                 ]
             },
             {
                 "负面效果": [
-                    "Attack ↓"
+                    "Atk - Attack ↓"
                 ]
             }
         ]
@@ -22128,13 +22192,13 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: All"
+                    "Atk: All"
                 ]
             },
             {
                 "负面效果": [
-                    "Buff Immunity / Block Buffs",
-                    "Increased Damage Taken ↑"
+                    "Status - Buff Immunity",
+                    "Def - Dmg Taken ↑"
                 ]
             }
         ]
@@ -22190,12 +22254,12 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Single"
+                    "Atk: Single"
                 ]
             },
             {
                 "负面效果": [
-                    "Paralysis"
+                    "Mana - Paralyze"
                 ]
             }
         ]
@@ -22250,13 +22314,13 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Target and Nearby",
-                    "Heal: Over Time (HoT)"
+                    "Atk: Minor to Nearby",
+                    "Heal: Over Time"
                 ]
             },
             {
                 "增益效果": [
-                    "Attack ↑"
+                    "Atk - Attack ↑"
                 ]
             }
         ]
@@ -22312,14 +22376,14 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: All",
-                    "Heal: Over Time (HoT)",
-                    "Heal: Boost"
+                    "Atk: All",
+                    "Heal: Over Time",
+                    "Heal: Boost Health"
                 ]
             },
             {
                 "增益效果": [
-                    "Attack ↑"
+                    "Atk - Attack ↑"
                 ]
             }
         ]
@@ -22374,12 +22438,12 @@ window.allHeroes =
             {
                 "基础技能": [
                     "Heal: Special",
-                    "Attack: All"
+                    "Atk: All"
                 ]
             },
             {
                 "特殊效果": [
-                    "Destroy Minions"
+                    "Atk - Destroy Minions"
                 ]
             }
         ]
@@ -22434,18 +22498,18 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Single",
-                    "Attack: Damage over Time (DoT)"
+                    "Atk: Single",
+                    "Dmg: DoT"
                 ]
             },
             {
                 "特殊效果": [
-                    "Steal Minions"
+                    "Atk - Steal Minions"
                 ]
             },
             {
                 "负面效果": [
-                    "DoT: Sand"
+                    "Dmg - DoT : Sand"
                 ]
             }
         ]
@@ -22499,18 +22563,18 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Single"
+                    "Atk: Single"
                 ]
             },
             {
                 "特殊效果": [
-                    "Mana Cut",
-                    "Extra Damage"
+                    "Mana - Mana Cut",
+                    "Dmg - Extra"
                 ]
             },
             {
                 "增益效果": [
-                    "Defense ↑ : Special Skills"
+                    "Def - Def ↑ : Special"
                 ]
             }
         ]
@@ -22564,18 +22628,18 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Single"
+                    "Atk: Single"
                 ]
             },
             {
                 "特殊效果": [
-                    "Mana Cut",
-                    "Extra Damage"
+                    "Mana - Mana Cut",
+                    "Dmg - Extra"
                 ]
             },
             {
                 "增益效果": [
-                    "Defense ↑ : Special Skills"
+                    "Def - Def ↑ : Special"
                 ]
             }
         ]
@@ -22626,12 +22690,12 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: All"
+                    "Atk: All"
                 ]
             },
             {
                 "负面效果": [
-                    "Self-Debuff"
+                    "Status - Self-Debuff"
                 ]
             }
         ]
@@ -22685,17 +22749,17 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Single"
+                    "Atk: Single"
                 ]
             },
             {
                 "特殊效果": [
-                    "Chain Attack"
+                    "Atk - Chain"
                 ]
             },
             {
                 "负面效果": [
-                    "Self-Debuff"
+                    "Status - Self-Debuff"
                 ]
             }
         ]
@@ -22802,7 +22866,7 @@ window.allHeroes =
             },
             {
                 "增益效果": [
-                    "Defense ↑ : Fire"
+                    "Def - Def ↑ : Fire"
                 ]
             }
         ]
@@ -22855,12 +22919,12 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Boost"
+                    "Heal: Boost Health"
                 ]
             },
             {
                 "增益效果": [
-                    "Defense ↑ : Fire"
+                    "Def - Def ↑ : Fire"
                 ]
             }
         ]
@@ -22912,12 +22976,12 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Over Time (HoT)"
+                    "Heal: Over Time"
                 ]
             },
             {
                 "增益效果": [
-                    "Defense ↑ : Special Skills"
+                    "Def - Def ↑ : Special"
                 ]
             }
         ]
@@ -22976,7 +23040,7 @@ window.allHeroes =
             },
             {
                 "增益效果": [
-                    "Defense ↑ : Fire"
+                    "Def - Def ↑ : Fire"
                 ]
             }
         ]
@@ -23038,8 +23102,8 @@ window.allHeroes =
             },
             {
                 "增益效果": [
-                    "Reflect Ailments",
-                    "Defense ↑ : Fire"
+                    "Status - Reflect Ailments",
+                    "Def - Def ↑ : Fire"
                 ]
             }
         ]
@@ -23100,17 +23164,17 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Target and Nearby"
+                    "Atk: Minor to Nearby"
                 ]
             },
             {
                 "增益效果": [
-                    "Dodge"
+                    "Def - Dodge"
                 ]
             },
             {
                 "负面效果": [
-                    "Steal Healing"
+                    "Heal - Steal Healing"
                 ]
             }
         ]
@@ -23162,12 +23226,12 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: All"
+                    "Atk: All"
                 ]
             },
             {
                 "负面效果": [
-                    "Mana Generation ↓ / Block"
+                    "Mana - Mana Gen ↓/Block"
                 ]
             }
         ]
@@ -23220,13 +23284,13 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: All"
+                    "Atk: All"
                 ]
             },
             {
                 "增益效果": [
-                    "Dodge",
-                    "Mana Recovery"
+                    "Def - Dodge",
+                    "Mana - Mana Gain"
                 ]
             }
         ]
@@ -23278,12 +23342,12 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: All"
+                    "Atk: All"
                 ]
             },
             {
                 "增益效果": [
-                    "Mana Generation ↑"
+                    "Mana - Mana Gen ↑"
                 ]
             }
         ]
@@ -23339,17 +23403,17 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: All"
+                    "Atk: All"
                 ]
             },
             {
                 "特殊效果": [
-                    "Damage ↑ : Ice"
+                    "Dmg - Dmg ↑ : Ice"
                 ]
             },
             {
                 "负面效果": [
-                    "Mana Generation ↓ / Block"
+                    "Mana - Mana Gen ↓/Block"
                 ]
             }
         ]
@@ -23406,17 +23470,17 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: All"
+                    "Atk: All"
                 ]
             },
             {
                 "特殊效果": [
-                    "Bypass (Defensive Buffs)"
+                    "Atk - Bypass / Ignore"
                 ]
             },
             {
                 "负面效果": [
-                    "Mana Generation ↓ / Block"
+                    "Mana - Mana Gen ↓/Block"
                 ]
             }
         ]
@@ -23472,17 +23536,17 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Small Area / Minor"
+                    "Atk: Area"
                 ]
             },
             {
                 "增益效果": [
-                    "Attack ↑"
+                    "Atk - Attack ↑"
                 ]
             },
             {
                 "负面效果": [
-                    "Defense ↓"
+                    "Def - Defense ↓"
                 ]
             }
         ]
@@ -23538,8 +23602,8 @@ window.allHeroes =
                 ]
             },
             {
-                "特殊效果": [
-                    "Dispel Buffs"
+                "增益效果": [
+                    "Status - Dispel Buffs"
                 ]
             }
         ]
@@ -23594,17 +23658,13 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Over Time (HoT)"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "Dispel Buffs"
+                    "Heal: Over Time"
                 ]
             },
             {
                 "增益效果": [
-                    "Defense ↑"
+                    "Def - Defense ↑",
+                    "Status - Dispel Buffs"
                 ]
             }
         ]
@@ -23659,17 +23719,13 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Over Time (HoT)"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "Dispel Buffs"
+                    "Heal: Over Time"
                 ]
             },
             {
                 "增益效果": [
-                    "Attack ↑"
+                    "Atk - Attack ↑",
+                    "Status - Dispel Buffs"
                 ]
             }
         ]
@@ -23730,13 +23786,9 @@ window.allHeroes =
                 ]
             },
             {
-                "特殊效果": [
-                    "Dispel Buffs"
-                ]
-            },
-            {
                 "增益效果": [
-                    "Defense ↑"
+                    "Def - Defense ↑",
+                    "Status - Dispel Buffs"
                 ]
             }
         ]
@@ -23798,13 +23850,9 @@ window.allHeroes =
                 ]
             },
             {
-                "特殊效果": [
-                    "Dispel Buffs"
-                ]
-            },
-            {
                 "增益效果": [
-                    "Reflect Ailments"
+                    "Status - Reflect Ailments",
+                    "Status - Dispel Buffs"
                 ]
             }
         ]
@@ -23860,17 +23908,17 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "特殊效果": [
-                    "Minion"
+                    "Summon - Minion"
                 ]
             },
             {
                 "增益效果": [
-                    "Mana Generation ↑"
+                    "Mana - Mana Gen ↑"
                 ]
             },
             {
                 "负面效果": [
-                    "Attack ↓"
+                    "Atk - Attack ↓"
                 ]
             }
         ]
@@ -23924,17 +23972,17 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "特殊效果": [
-                    "Minion"
+                    "Summon - Minion"
                 ]
             },
             {
                 "增益效果": [
-                    "Mana Generation ↑"
+                    "Mana - Mana Gen ↑"
                 ]
             },
             {
                 "负面效果": [
-                    "Attack ↓"
+                    "Atk - Attack ↓"
                 ]
             }
         ]
@@ -24000,19 +24048,19 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Small Area / Minor",
-                    "Attack: Damage over Time (DoT)"
+                    "Atk: Area",
+                    "Dmg: DoT"
                 ]
             },
             {
                 "特殊效果": [
-                    "Health Drain",
-                    "Mana Cut"
+                    "Heal - From Dmg",
+                    "Mana - Mana Cut"
                 ]
             },
             {
                 "负面效果": [
-                    "DoT: Poison"
+                    "Dmg - DoT : Poison"
                 ]
             }
         ]
@@ -24079,19 +24127,19 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: All",
-                    "Attack: Damage over Time (DoT)"
+                    "Atk: All",
+                    "Dmg: DoT"
                 ]
             },
             {
                 "特殊效果": [
-                    "Health Drain",
-                    "Mana Cut"
+                    "Heal - From Dmg",
+                    "Mana - Mana Cut"
                 ]
             },
             {
                 "负面效果": [
-                    "DoT: Poison"
+                    "Dmg - DoT : Poison"
                 ]
             }
         ]
@@ -24151,15 +24199,19 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Target and Nearby",
-                    "Attack: Damage over Time (DoT)"
+                    "Atk: Minor to Nearby",
+                    "Dmg: DoT"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Dmg - Explosion"
                 ]
             },
             {
                 "负面效果": [
-                    "DoT: Poison",
-                    "Defense ↓ : Special Skills",
-                    "Damage on Ailment Cleanse"
+                    "Dmg - DoT : Poison",
+                    "Def - Def ↓ : Special"
                 ]
             }
         ]
@@ -24217,13 +24269,13 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: All"
+                    "Atk: All"
                 ]
             },
             {
                 "特殊效果": [
-                    "Minion",
-                    "Damage on Minion Removal"
+                    "Summon - Minion",
+                    "Dmg - On Minion Removal"
                 ]
             }
         ]
@@ -24286,23 +24338,23 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Single"
+                    "Atk: Single"
                 ]
             },
             {
                 "特殊效果": [
-                    "Extra Damage"
+                    "Dmg - Extra"
                 ]
             },
             {
                 "增益效果": [
-                    "Stack: Mana Generation",
-                    "Stack: Health Recovery"
+                    "Mana - Stack : Mana Gen ↑",
+                    "Heal - Stack : Regen"
                 ]
             },
             {
                 "负面效果": [
-                    "Mana Generation ↓ / Block"
+                    "Mana - Mana Gen ↓/Block"
                 ]
             }
         ]
@@ -24354,12 +24406,12 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Single"
+                    "Atk: Single"
                 ]
             },
             {
                 "负面效果": [
-                    "Confusion / Silence / Sleep"
+                    "Mana - Mindless/Silence/Sleep"
                 ]
             }
         ]
@@ -24414,13 +24466,13 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Single"
+                    "Atk: Single"
                 ]
             },
             {
                 "负面效果": [
-                    "Confusion / Silence / Sleep",
-                    "Defense ↓"
+                    "Mana - Mindless/Silence/Sleep",
+                    "Def - Defense ↓"
                 ]
             }
         ]
@@ -24483,7 +24535,7 @@ window.allHeroes =
             },
             {
                 "增益效果": [
-                    "Block Ailments"
+                    "Status - Block Ailments"
                 ]
             }
         ]
@@ -24550,7 +24602,7 @@ window.allHeroes =
             },
             {
                 "增益效果": [
-                    "Immunity to Status Ailments"
+                    "Status - Ailment Immunity"
                 ]
             }
         ]
@@ -24607,13 +24659,13 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Boost"
+                    "Heal: Boost Health"
                 ]
             },
             {
                 "增益效果": [
-                    "Mana Generation ↑",
-                    "Attack ↑"
+                    "Mana - Mana Gen ↑",
+                    "Atk - Attack ↑"
                 ]
             }
         ]
@@ -24665,12 +24717,12 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: All"
+                    "Atk: All"
                 ]
             },
             {
                 "负面效果": [
-                    "Attack ↓"
+                    "Atk - Attack ↓"
                 ]
             }
         ]
@@ -24722,12 +24774,12 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: All"
+                    "Atk: All"
                 ]
             },
             {
                 "负面效果": [
-                    "Attack ↓"
+                    "Atk - Attack ↓"
                 ]
             }
         ]
@@ -24779,12 +24831,12 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: All"
+                    "Atk: All"
                 ]
             },
             {
                 "负面效果": [
-                    "Defense ↓"
+                    "Def - Defense ↓"
                 ]
             }
         ]
@@ -24840,17 +24892,17 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: All"
+                    "Atk: All"
                 ]
             },
             {
                 "特殊效果": [
-                    "Damage ↑ : Ice"
+                    "Dmg - Dmg ↑ : Ice"
                 ]
             },
             {
                 "负面效果": [
-                    "Attack ↓"
+                    "Atk - Attack ↓"
                 ]
             }
         ]
@@ -24907,17 +24959,17 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: All"
+                    "Atk: All"
                 ]
             },
             {
                 "特殊效果": [
-                    "Bypass (Defensive Buffs)"
+                    "Atk - Bypass / Ignore"
                 ]
             },
             {
                 "负面效果": [
-                    "Attack ↓"
+                    "Atk - Attack ↓"
                 ]
             }
         ]
@@ -24974,14 +25026,14 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Single",
-                    "Attack: Damage over Time (DoT)"
+                    "Atk: Single",
+                    "Dmg: DoT"
                 ]
             },
             {
                 "负面效果": [
-                    "Confusion / Silence / Sleep",
-                    "DoT: Poison"
+                    "Mana - Mindless/Silence/Sleep",
+                    "Dmg - DoT : Poison"
                 ]
             }
         ]
@@ -25038,14 +25090,14 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Single",
-                    "Attack: Damage over Time (DoT)"
+                    "Atk: Single",
+                    "Dmg: DoT"
                 ]
             },
             {
                 "负面效果": [
-                    "Confusion / Silence / Sleep",
-                    "DoT: Poison"
+                    "Mana - Mindless/Silence/Sleep",
+                    "Dmg - DoT : Poison"
                 ]
             }
         ]
@@ -25106,14 +25158,14 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Over Time (HoT)"
+                    "Heal: Over Time"
                 ]
             },
             {
                 "特殊效果": [
-                    "Fiend",
-                    "Steal Buffs",
-                    "Self-Heal"
+                    "Summon - Fiend",
+                    "Status - Steal Buffs",
+                    "Heal - Self Recovery"
                 ]
             }
         ]
@@ -25167,17 +25219,17 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Single"
+                    "Atk: Single"
                 ]
             },
             {
                 "特殊效果": [
-                    "Chain Attack"
+                    "Atk - Chain"
                 ]
             },
             {
                 "负面效果": [
-                    "Attack ↓"
+                    "Atk - Attack ↓"
                 ]
             }
         ]
@@ -25234,12 +25286,12 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: All"
+                    "Atk: All"
                 ]
             },
             {
                 "增益效果": [
-                    "Counterattack / Reflect : Fire"
+                    "Def - Reflect : Fire"
                 ]
             }
         ]
@@ -25298,12 +25350,12 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: All"
+                    "Atk: All"
                 ]
             },
             {
                 "增益效果": [
-                    "Counterattack / Reflect : Fire"
+                    "Def - Reflect : Fire"
                 ]
             }
         ]
@@ -25361,13 +25413,13 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Over Time (HoT)",
-                    "Revive"
+                    "Heal: Over Time",
+                    "Heal: Revive"
                 ]
             },
             {
                 "增益效果": [
-                    "Mana Recovery"
+                    "Mana - Mana Gain"
                 ]
             }
         ]
@@ -25428,13 +25480,13 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Over Time (HoT)",
-                    "Revive"
+                    "Heal: Over Time",
+                    "Heal: Revive"
                 ]
             },
             {
                 "增益效果": [
-                    "Mana Generation ↑"
+                    "Mana - Mana Gen ↑"
                 ]
             }
         ]
@@ -25497,20 +25549,20 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: All",
-                    "Attack: Damage over Time (DoT)"
+                    "Atk: All",
+                    "Dmg: DoT"
                 ]
             },
             {
                 "特殊效果": [
-                    "Bypass Minions",
-                    "Mega Minion"
+                    "Atk - Bypass Minions",
+                    "Summon - Mega Minion"
                 ]
             },
             {
                 "负面效果": [
-                    "DoT: Bleed",
-                    "Defense ↓ : Nature"
+                    "Dmg - DoT : Bleed",
+                    "Def - Def ↓ : Nature"
                 ]
             }
         ]
@@ -25565,13 +25617,13 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: All"
+                    "Atk: All"
                 ]
             },
             {
                 "负面效果": [
-                    "Buff Immunity / Block Buffs",
-                    "Self-Debuff"
+                    "Status - Buff Immunity",
+                    "Status - Self-Debuff"
                 ]
             }
         ]
@@ -25626,13 +25678,13 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: All"
+                    "Atk: All"
                 ]
             },
             {
                 "负面效果": [
-                    "Buff Immunity / Block Buffs",
-                    "Self-Debuff"
+                    "Status - Buff Immunity",
+                    "Status - Self-Debuff"
                 ]
             }
         ]
@@ -25690,9 +25742,9 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "特殊效果": [
-                    "Destroy Fiends",
-                    "Minion",
-                    "Heal from Minions"
+                    "Summon - Destroy Fiends",
+                    "Summon - Minion",
+                    "Heal - From Minions"
                 ]
             }
         ]
@@ -25749,18 +25801,18 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: All"
+                    "Atk: All"
                 ]
             },
             {
                 "特殊效果": [
-                    "Mega Minion"
+                    "Summon - Mega Minion"
                 ]
             },
             {
                 "负面效果": [
-                    "Confusion / Silence / Sleep",
-                    "Increased Damage Taken ↑"
+                    "Mana - Mindless/Silence/Sleep",
+                    "Def - Dmg Taken ↑"
                 ]
             }
         ]
@@ -25821,15 +25873,15 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Over Time (HoT)",
-                    "Attack: Single"
+                    "Heal: Over Time",
+                    "Atk: Single"
                 ]
             },
             {
                 "特殊效果": [
-                    "Bypass (Defensive Buffs)",
-                    "Destroy Minions",
-                    "Mana from Destroyed Minions"
+                    "Atk - Bypass / Ignore",
+                    "Atk - Destroy Minions",
+                    "Mana - Gain on Minion Destruction"
                 ]
             }
         ]
@@ -25883,17 +25935,17 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: All"
+                    "Atk: All"
                 ]
             },
             {
                 "特殊效果": [
-                    "Extra Damage"
+                    "Dmg - Extra"
                 ]
             },
             {
                 "增益效果": [
-                    "Self-Revive"
+                    "Heal - Self Revive"
                 ]
             }
         ]
@@ -25947,17 +25999,17 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: All"
+                    "Atk: All"
                 ]
             },
             {
                 "特殊效果": [
-                    "Extra Damage"
+                    "Dmg - Extra"
                 ]
             },
             {
                 "增益效果": [
-                    "Self-Revive"
+                    "Heal - Self Revive"
                 ]
             }
         ]
@@ -26018,23 +26070,19 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Small Area / Minor"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "Dispel Buffs"
+                    "Atk: Area"
                 ]
             },
             {
                 "增益效果": [
-                    "Immunity to Status Ailments"
+                    "Status - Ailment Immunity",
+                    "Status - Dispel Buffs"
                 ]
             },
             {
                 "负面效果": [
-                    "Madness",
-                    "Self-Debuff"
+                    "Status - Insanity",
+                    "Status - Self-Debuff"
                 ]
             }
         ]
@@ -26094,19 +26142,23 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Boost",
+                    "Heal: Boost Health",
                     "Heal: Special"
                 ]
             },
             {
                 "特殊效果": [
-                    "Cleanse Status Ailments",
-                    "Minion"
+                    "Summon - Minion"
                 ]
             },
             {
                 "增益效果": [
-                    "Defense ↑"
+                    "Def - Defense ↑"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Status - Cleanse Ailments"
                 ]
             }
         ]
@@ -26168,13 +26220,13 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Single"
+                    "Atk: Single"
                 ]
             },
             {
                 "负面效果": [
-                    "Confusion / Silence / Sleep",
-                    "Increased Damage Taken ↑"
+                    "Mana - Mindless/Silence/Sleep",
+                    "Def - Dmg Taken ↑"
                 ]
             }
         ]
@@ -26229,12 +26281,12 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: All"
+                    "Atk: All"
                 ]
             },
             {
                 "特殊效果": [
-                    "Redistribute Ailments"
+                    "Status - Redistribute Ailments"
                 ]
             }
         ]
@@ -26295,18 +26347,18 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Single"
+                    "Atk: Single"
                 ]
             },
             {
                 "特殊效果": [
-                    "Extra Damage",
-                    "Minion"
+                    "Dmg - Extra",
+                    "Summon - Minion"
                 ]
             },
             {
                 "增益效果": [
-                    "Attack ↑"
+                    "Atk - Attack ↑"
                 ]
             }
         ]
@@ -26369,18 +26421,18 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: All"
+                    "Atk: All"
                 ]
             },
             {
                 "特殊效果": [
-                    "Bypass Minions",
-                    "Bypass (Defensive Buffs)"
+                    "Atk - Bypass Minions",
+                    "Atk - Bypass / Ignore"
                 ]
             },
             {
                 "负面效果": [
-                    "Change Color / Position"
+                    "Def - Change Position"
                 ]
             }
         ]
@@ -26435,12 +26487,12 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "特殊效果": [
-                    "Mega Minion"
+                    "Summon - Mega Minion"
                 ]
             },
             {
                 "增益效果": [
-                    "Counterattack / Reflect"
+                    "Def - Counterattack"
                 ]
             }
         ]
@@ -26503,13 +26555,13 @@ window.allHeroes =
                 ]
             },
             {
-                "特殊效果": [
-                    "Cleanse Status Ailments"
+                "增益效果": [
+                    "Mana - Mana Gain"
                 ]
             },
             {
-                "增益效果": [
-                    "Mana Recovery"
+                "负面效果": [
+                    "Status - Cleanse Ailments"
                 ]
             }
         ]
@@ -26577,18 +26629,18 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Both Ends"
+                    "Atk: Edges"
                 ]
             },
             {
-                "特殊效果": [
-                    "Dispel Buffs"
+                "增益效果": [
+                    "Status - Dispel Buffs"
                 ]
             },
             {
                 "负面效果": [
-                    "Confusion / Silence / Sleep",
-                    "Increased Damage Taken ↑"
+                    "Mana - Mindless/Silence/Sleep",
+                    "Def - Dmg Taken ↑"
                 ]
             }
         ]
@@ -26646,13 +26698,13 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Boost",
-                    "Heal: Over Time (HoT)"
+                    "Heal: Boost Health",
+                    "Heal: Over Time"
                 ]
             },
             {
                 "增益效果": [
-                    "Attack ↑"
+                    "Atk - Attack ↑"
                 ]
             }
         ]
@@ -26712,14 +26764,14 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: All",
-                    "Attack: Damage over Time (DoT)"
+                    "Atk: All",
+                    "Dmg: DoT"
                 ]
             },
             {
                 "负面效果": [
-                    "Healing Amount ↓",
-                    "DoT: Bleed"
+                    "Heal - Healing ↓",
+                    "Dmg - DoT : Bleed"
                 ]
             }
         ]
@@ -26774,12 +26826,12 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Random"
+                    "Atk: Random"
                 ]
             },
             {
                 "负面效果": [
-                    "Stack: Attack ↓"
+                    "Atk - Stack : Atk ↓"
                 ]
             }
         ]
@@ -26835,12 +26887,12 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Random"
+                    "Atk: Random"
                 ]
             },
             {
                 "负面效果": [
-                    "Stack: Attack ↓"
+                    "Atk - Stack : Atk ↓"
                 ]
             }
         ]
@@ -26902,17 +26954,17 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Damage over Time (DoT)",
-                    "Heal: Boost",
+                    "Dmg: DoT",
+                    "Heal: Boost Health",
                     "Heal: Special"
                 ]
             },
             {
                 "负面效果": [
-                    "DoT: Water",
-                    "DoT: Sand",
-                    "DoT: Burn",
-                    "DoT: Poison"
+                    "Dmg - DoT : Water",
+                    "Dmg - DoT : Sand",
+                    "Dmg - DoT : Burn",
+                    "Dmg - DoT : Poison"
                 ]
             }
         ]
@@ -26974,13 +27026,13 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Single",
-                    "Attack: All"
+                    "Atk: Single",
+                    "Atk: All"
                 ]
             },
             {
                 "特殊效果": [
-                    "Extra Damage"
+                    "Dmg - Extra"
                 ]
             }
         ]
@@ -27045,20 +27097,20 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: All",
-                    "Attack: Damage over Time (DoT)"
+                    "Atk: All",
+                    "Dmg: DoT"
                 ]
             },
             {
                 "特殊效果": [
-                    "Bypass Minions",
-                    "Damage ↑ : Nature"
+                    "Atk - Bypass Minions",
+                    "Dmg - Dmg ↑ : Nature"
                 ]
             },
             {
                 "负面效果": [
-                    "DoT: Poison",
-                    "Increased Damage Taken ↑"
+                    "Dmg - DoT : Poison",
+                    "Def - Dmg Taken ↑"
                 ]
             }
         ]
@@ -27117,18 +27169,18 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Single",
-                    "Attack: Damage over Time (DoT)"
+                    "Atk: Single",
+                    "Dmg: DoT"
                 ]
             },
             {
                 "增益效果": [
-                    "Stack: Attack ↑"
+                    "Atk - Stack : Atk ↑"
                 ]
             },
             {
                 "负面效果": [
-                    "DoT: Bleed"
+                    "Dmg - DoT : Bleed"
                 ]
             }
         ]
@@ -27190,13 +27242,13 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Boost",
-                    "Attack: Both Ends"
+                    "Heal: Boost Health",
+                    "Atk: Edges"
                 ]
             },
             {
                 "负面效果": [
-                    "Confusion / Silence / Sleep"
+                    "Mana - Mindless/Silence/Sleep"
                 ]
             }
         ]
@@ -27253,9 +27305,9 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "增益效果": [
-                    "Counterattack / Reflect",
-                    "Damage Reduction",
-                    "Taunt"
+                    "Def - Counterattack",
+                    "Def - Dmg Reduction",
+                    "Def - Taunt"
                 ]
             }
         ]
@@ -27312,12 +27364,12 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: All"
+                    "Atk: All"
                 ]
             },
             {
                 "特殊效果": [
-                    "Mana Cut"
+                    "Mana - Mana Cut"
                 ]
             }
         ]
@@ -27374,17 +27426,17 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: All"
+                    "Atk: All"
                 ]
             },
             {
                 "特殊效果": [
-                    "Bypass (Defensive Buffs)"
+                    "Atk - Bypass / Ignore"
                 ]
             },
             {
                 "负面效果": [
-                    "Block Cleanse"
+                    "Status - Block Cleanse"
                 ]
             }
         ]
@@ -27439,17 +27491,17 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Single"
+                    "Atk: Single"
                 ]
             },
             {
                 "特殊效果": [
-                    "Destroy Minions"
+                    "Atk - Destroy Minions"
                 ]
             },
             {
                 "负面效果": [
-                    "Max Health ↓"
+                    "Heal - Max Health ↓"
                 ]
             }
         ]
@@ -27514,17 +27566,17 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: All"
+                    "Atk: All"
                 ]
             },
             {
                 "特殊效果": [
-                    "Minion"
+                    "Summon - Minion"
                 ]
             },
             {
                 "增益效果": [
-                    "Counterattack / Reflect"
+                    "Def - Counterattack"
                 ]
             }
         ]
@@ -27580,12 +27632,12 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Small Area / Minor"
+                    "Atk: Area"
                 ]
             },
             {
                 "负面效果": [
-                    "Buff Immunity / Block Buffs"
+                    "Status - Buff Immunity"
                 ]
             }
         ]
@@ -27644,12 +27696,12 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Small Area / Minor"
+                    "Atk: Area"
                 ]
             },
             {
                 "负面效果": [
-                    "Buff Immunity / Block Buffs"
+                    "Status - Buff Immunity"
                 ]
             }
         ]
@@ -27701,12 +27753,12 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Target and Nearby"
+                    "Atk: Minor to Nearby"
                 ]
             },
             {
                 "特殊效果": [
-                    "Heal from Damage"
+                    "Heal - From Dmg"
                 ]
             }
         ]
@@ -27759,12 +27811,12 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Small Area / Minor"
+                    "Atk: Area"
                 ]
             },
             {
                 "负面效果": [
-                    "Steal Healing"
+                    "Heal - Steal Healing"
                 ]
             }
         ]
@@ -27816,12 +27868,12 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: All"
+                    "Atk: All"
                 ]
             },
             {
                 "负面效果": [
-                    "Healing Amount ↓"
+                    "Heal - Healing ↓"
                 ]
             }
         ]
@@ -27877,13 +27929,13 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Target and Nearby"
+                    "Atk: Minor to Nearby"
                 ]
             },
             {
                 "特殊效果": [
-                    "Heal from Damage",
-                    "Damage ↑ : Ice"
+                    "Heal - From Dmg",
+                    "Dmg - Dmg ↑ : Ice"
                 ]
             }
         ]
@@ -27939,13 +27991,13 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Target and Nearby"
+                    "Atk: Minor to Nearby"
                 ]
             },
             {
                 "特殊效果": [
-                    "Heal from Damage",
-                    "Bypass (Defensive Buffs)"
+                    "Heal - From Dmg",
+                    "Atk - Bypass / Ignore"
                 ]
             }
         ]
@@ -28003,12 +28055,12 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Small Area / Minor"
+                    "Atk: Area"
                 ]
             },
             {
                 "增益效果": [
-                    "Counterattack / Reflect"
+                    "Def - Counterattack"
                 ]
             }
         ]
@@ -28071,9 +28123,13 @@ window.allHeroes =
         },
         "cn_skill_info": [
             {
+                "特殊效果": [
+                    "Status - Replace with Buff"
+                ]
+            },
+            {
                 "增益效果": [
-                    "Convert to Buff",
-                    "Block Ailments"
+                    "Status - Block Ailments"
                 ]
             }
         ]
@@ -28134,14 +28190,14 @@ window.allHeroes =
             {
                 "基础技能": [
                     "Heal: Instant",
-                    "Attack: All"
+                    "Atk: All"
                 ]
             },
             {
                 "特殊效果": [
-                    "Fiend",
-                    "Minion",
-                    "Copy / Steal Skill"
+                    "Summon - Fiend",
+                    "Summon - Minion",
+                    "Atk - Copy/Steal Skill"
                 ]
             }
         ]
@@ -28198,17 +28254,17 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Small Area / Minor"
+                    "Atk: Area"
                 ]
             },
             {
-                "特殊效果": [
-                    "Dispel Buffs"
+                "增益效果": [
+                    "Status - Dispel Buffs"
                 ]
             },
             {
                 "负面效果": [
-                    "Defense ↓ : Nature"
+                    "Def - Def ↓ : Nature"
                 ]
             }
         ]
@@ -28268,17 +28324,17 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Small Area / Minor"
+                    "Atk: Area"
                 ]
             },
             {
-                "特殊效果": [
-                    "Dispel Buffs"
+                "增益效果": [
+                    "Status - Dispel Buffs"
                 ]
             },
             {
                 "负面效果": [
-                    "Defense ↓ : Nature"
+                    "Def - Def ↓ : Nature"
                 ]
             }
         ]
@@ -28346,19 +28402,19 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Single"
+                    "Atk: Single"
                 ]
             },
             {
                 "特殊效果": [
-                    "Destroy Minions",
-                    "Mana on Kill",
-                    "Self-Heal"
+                    "Atk - Destroy Minions",
+                    "Mana - Mana Gain (on Kill)",
+                    "Heal - Self Recovery"
                 ]
             },
             {
                 "增益效果": [
-                    "Mimic"
+                    "Def - Mimic"
                 ]
             }
         ]
@@ -28422,18 +28478,18 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Small Area / Minor"
+                    "Atk: Area"
                 ]
             },
             {
                 "特殊效果": [
-                    "Damage ↑ : Fire"
+                    "Dmg - Dmg ↑ : Fire"
                 ]
             },
             {
                 "负面效果": [
-                    "Reflect Buff",
-                    "Increased Damage Taken ↑"
+                    "Status - Reflect Buffs",
+                    "Def - Dmg Taken ↑"
                 ]
             }
         ]
@@ -28494,19 +28550,19 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Over Time (HoT)",
-                    "Attack: Damage over Time (DoT)"
+                    "Heal: Over Time",
+                    "Dmg: DoT"
                 ]
             },
             {
                 "特殊效果": [
-                    "Destroy Fiends",
-                    "Cleanse Status Ailments"
+                    "Summon - Destroy Fiends"
                 ]
             },
             {
                 "负面效果": [
-                    "DoT: Poison"
+                    "Dmg - DoT : Poison",
+                    "Status - Cleanse Ailments"
                 ]
             }
         ]
@@ -28567,14 +28623,14 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Small Area / Minor",
-                    "Attack: Damage over Time (DoT)"
+                    "Atk: Area",
+                    "Dmg: DoT"
                 ]
             },
             {
                 "负面效果": [
-                    "DoT: Bleed",
-                    "Defense ↓ : Nature"
+                    "Dmg - DoT : Bleed",
+                    "Def - Def ↓ : Nature"
                 ]
             }
         ]
@@ -28634,14 +28690,14 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Single",
-                    "Attack: Damage over Time (DoT)"
+                    "Atk: Single",
+                    "Dmg: DoT"
                 ]
             },
             {
                 "负面效果": [
-                    "Block Cleanse",
-                    "DoT: Poison"
+                    "Status - Block Cleanse",
+                    "Dmg - DoT : Poison"
                 ]
             }
         ]
@@ -28699,14 +28755,14 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Small Area / Minor",
-                    "Attack: Damage over Time (DoT)"
+                    "Atk: Area",
+                    "Dmg: DoT"
                 ]
             },
             {
                 "负面效果": [
-                    "Paralysis",
-                    "DoT: Bleed"
+                    "Mana - Paralyze",
+                    "Dmg - DoT : Bleed"
                 ]
             }
         ]
@@ -28762,13 +28818,17 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Small Area / Minor"
+                    "Atk: Area"
                 ]
             },
             {
                 "特殊效果": [
-                    "Cleanse Status Ailments",
-                    "Damage ↑ : Ice"
+                    "Dmg - Dmg ↑ : Ice"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Status - Cleanse Ailments"
                 ]
             }
         ]
@@ -28824,17 +28884,13 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Small Area / Minor"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "Cleanse Status Ailments"
+                    "Atk: Area"
                 ]
             },
             {
                 "负面效果": [
-                    "Defense ↓ : Nature"
+                    "Def - Def ↓ : Nature",
+                    "Status - Cleanse Ailments"
                 ]
             }
         ]
@@ -28888,17 +28944,17 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: All"
+                    "Atk: All"
                 ]
             },
             {
                 "特殊效果": [
-                    "Extra Damage"
+                    "Dmg - Extra"
                 ]
             },
             {
                 "负面效果": [
-                    "Defense ↓"
+                    "Def - Defense ↓"
                 ]
             }
         ]
@@ -28952,17 +29008,17 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: All"
+                    "Atk: All"
                 ]
             },
             {
                 "特殊效果": [
-                    "Extra Damage"
+                    "Dmg - Extra"
                 ]
             },
             {
                 "负面效果": [
-                    "Defense ↓"
+                    "Def - Defense ↓"
                 ]
             }
         ]
@@ -29020,25 +29076,21 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: All",
-                    "Attack: Damage over Time (DoT)"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "Mana Recovery"
+                    "Atk: All",
+                    "Dmg: DoT"
                 ]
             },
             {
                 "增益效果": [
-                    "Damage Share"
+                    "Def - Dmg Share",
+                    "Mana - Mana Gain"
                 ]
             },
             {
                 "负面效果": [
-                    "DoT: Poison",
-                    "Mana Generation ↓ / Block",
-                    "Self-Debuff"
+                    "Dmg - DoT : Poison",
+                    "Mana - Mana Gen ↓/Block",
+                    "Status - Self-Debuff"
                 ]
             }
         ]
@@ -29095,12 +29147,12 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Small Area / Minor"
+                    "Atk: Area"
                 ]
             },
             {
                 "特殊效果": [
-                    "Extra Damage"
+                    "Dmg - Extra"
                 ]
             }
         ]
@@ -29162,18 +29214,18 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Boost"
+                    "Heal: Boost Health"
                 ]
             },
             {
                 "特殊效果": [
-                    "Steal Buffs"
+                    "Status - Steal Buffs"
                 ]
             },
             {
                 "增益效果": [
-                    "Block Buff Dispelling",
-                    "Defense ↑"
+                    "Status - Block Buff Dispel",
+                    "Def - Defense ↑"
                 ]
             }
         ]
@@ -29242,18 +29294,18 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: All"
+                    "Atk: All"
                 ]
             },
             {
                 "特殊效果": [
-                    "Destroy Minions"
+                    "Atk - Destroy Minions"
                 ]
             },
             {
                 "增益效果": [
-                    "Defense ↑",
-                    "Stack: Health Recovery"
+                    "Def - Defense ↑",
+                    "Heal - Stack : Regen"
                 ]
             }
         ]
@@ -29322,18 +29374,18 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: All"
+                    "Atk: All"
                 ]
             },
             {
                 "特殊效果": [
-                    "Destroy Minions"
+                    "Atk - Destroy Minions"
                 ]
             },
             {
                 "增益效果": [
-                    "Defense ↑",
-                    "Stack: Health Recovery"
+                    "Def - Defense ↑",
+                    "Heal - Stack : Regen"
                 ]
             }
         ]
@@ -29387,12 +29439,12 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Single"
+                    "Atk: Single"
                 ]
             },
             {
                 "特殊效果": [
-                    "Self-Heal"
+                    "Heal - Self Recovery"
                 ]
             }
         ]
@@ -29449,12 +29501,12 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Over Time (HoT)"
+                    "Heal: Over Time"
                 ]
             },
             {
                 "特殊效果": [
-                    "Self-Heal"
+                    "Heal - Self Recovery"
                 ]
             }
         ]
@@ -29515,12 +29567,12 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Boost"
+                    "Heal: Boost Health"
                 ]
             },
             {
                 "负面效果": [
-                    "Max Health ↓"
+                    "Heal - Max Health ↓"
                 ]
             }
         ]
@@ -29589,22 +29641,22 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Single"
+                    "Atk: Single"
                 ]
             },
             {
                 "特殊效果": [
-                    "Extra Damage"
+                    "Dmg - Extra"
                 ]
             },
             {
                 "增益效果": [
-                    "Mana Generation ↑"
+                    "Mana - Mana Gen ↑"
                 ]
             },
             {
                 "负面效果": [
-                    "Mana Drain"
+                    "Mana - Mana Steal"
                 ]
             }
         ]
@@ -29674,18 +29726,22 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Single"
+                    "Atk: Single"
                 ]
             },
             {
                 "特殊效果": [
-                    "Extra Damage",
-                    "Mana Drain"
+                    "Dmg - Extra"
                 ]
             },
             {
                 "增益效果": [
-                    "Mana Generation ↑"
+                    "Mana - Mana Gen ↑"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Mana - Mana Steal"
                 ]
             }
         ]
@@ -29740,13 +29796,13 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Random"
+                    "Atk: Random"
                 ]
             },
             {
                 "特殊效果": [
-                    "Minion",
-                    "Extra Damage"
+                    "Summon - Minion",
+                    "Dmg - Extra"
                 ]
             }
         ]
@@ -29810,17 +29866,17 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: All"
+                    "Atk: All"
                 ]
             },
             {
                 "增益效果": [
-                    "Self-Revive"
+                    "Heal - Self Revive"
                 ]
             },
             {
                 "负面效果": [
-                    "Defense ↓"
+                    "Def - Defense ↓"
                 ]
             }
         ]
@@ -29881,13 +29937,13 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Small Area / Minor"
+                    "Atk: Area"
                 ]
             },
             {
                 "负面效果": [
-                    "Buff Immunity / Block Buffs",
-                    "Defense ↓ : Special Skills"
+                    "Status - Buff Immunity",
+                    "Def - Def ↓ : Special"
                 ]
             }
         ]
@@ -29942,22 +29998,22 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: All"
+                    "Atk: All"
                 ]
             },
             {
                 "特殊效果": [
-                    "Explosion / Detonation"
+                    "Dmg - Explosion"
                 ]
             },
             {
                 "增益效果": [
-                    "Self-Revive"
+                    "Heal - Self Revive"
                 ]
             },
             {
                 "负面效果": [
-                    "Defense ↓"
+                    "Def - Defense ↓"
                 ]
             }
         ]
@@ -30011,12 +30067,12 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Single"
+                    "Atk: Single"
                 ]
             },
             {
                 "增益效果": [
-                    "Critical Chance ↑"
+                    "Atk - Crit Chance ↑"
                 ]
             }
         ]
@@ -30073,12 +30129,12 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Single"
+                    "Atk: Single"
                 ]
             },
             {
                 "增益效果": [
-                    "Critical Chance ↑"
+                    "Atk - Crit Chance ↑"
                 ]
             }
         ]
@@ -30140,19 +30196,19 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Small Area / Minor",
-                    "Attack: Damage over Time (DoT)"
+                    "Atk: Area",
+                    "Dmg: DoT"
                 ]
             },
             {
                 "特殊效果": [
-                    "Self-Heal"
+                    "Heal - Self Recovery"
                 ]
             },
             {
                 "负面效果": [
-                    "DoT: Bleed",
-                    "Defense ↓ : Nature"
+                    "Dmg - DoT : Bleed",
+                    "Def - Def ↓ : Nature"
                 ]
             }
         ]
@@ -30212,13 +30268,17 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "特殊效果": [
-                    "Mana Recovery",
-                    "Mega Fiend"
+                    "Summon - Mega Fiend"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Mana - Mana Gain"
                 ]
             },
             {
                 "负面效果": [
-                    "Mana Generation ↓ / Block"
+                    "Mana - Mana Gen ↓/Block"
                 ]
             }
         ]
@@ -30273,17 +30333,17 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Small Area / Minor"
+                    "Atk: Area"
                 ]
             },
             {
                 "特殊效果": [
-                    "Bypass Minions"
+                    "Atk - Bypass Minions"
                 ]
             },
             {
                 "负面效果": [
-                    "Defense ↓"
+                    "Def - Defense ↓"
                 ]
             }
         ]
@@ -30343,17 +30403,17 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Small Area / Minor"
+                    "Atk: Area"
                 ]
             },
             {
                 "特殊效果": [
-                    "Bypass (Defensive Buffs)"
+                    "Atk - Bypass / Ignore"
                 ]
             },
             {
                 "负面效果": [
-                    "Defense ↓"
+                    "Def - Defense ↓"
                 ]
             }
         ]
@@ -30410,20 +30470,16 @@ window.allHeroes =
         },
         "cn_skill_info": [
             {
-                "特殊效果": [
-                    "Cleanse Status Ailments",
-                    "Dispel Buffs"
-                ]
-            },
-            {
                 "增益效果": [
-                    "Critical Chance ↑",
-                    "Attack ↑"
+                    "Atk - Crit Chance ↑",
+                    "Atk - Attack ↑",
+                    "Status - Dispel Buffs"
                 ]
             },
             {
                 "负面效果": [
-                    "Change Color / Position"
+                    "Def - Change Position",
+                    "Status - Cleanse Ailments"
                 ]
             }
         ]
@@ -30479,12 +30535,12 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Small Area / Minor"
+                    "Atk: Area"
                 ]
             },
             {
                 "负面效果": [
-                    "Increased Damage Taken ↑"
+                    "Def - Dmg Taken ↑"
                 ]
             }
         ]
@@ -30555,20 +30611,20 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Over Time (HoT)",
+                    "Heal: Over Time",
                     "Heal: Special"
                 ]
             },
             {
                 "特殊效果": [
-                    "Gamble / Random Effect",
-                    "Minion"
+                    "Atk - Gamble / Random",
+                    "Summon - Minion"
                 ]
             },
             {
                 "增益效果": [
-                    "Attack ↑",
-                    "Defense ↑"
+                    "Atk - Attack ↑",
+                    "Def - Defense ↑"
                 ]
             }
         ]
@@ -30623,13 +30679,13 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Boost",
-                    "Revive"
+                    "Heal: Boost Health",
+                    "Heal: Revive"
                 ]
             },
             {
                 "增益效果": [
-                    "Attack ↑"
+                    "Atk - Attack ↑"
                 ]
             }
         ]
@@ -30685,13 +30741,13 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Boost",
-                    "Revive"
+                    "Heal: Boost Health",
+                    "Heal: Revive"
                 ]
             },
             {
                 "增益效果": [
-                    "Attack ↑"
+                    "Atk - Attack ↑"
                 ]
             }
         ]
@@ -30743,12 +30799,12 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: All"
+                    "Atk: All"
                 ]
             },
             {
                 "负面效果": [
-                    "Attack ↓"
+                    "Atk - Attack ↓"
                 ]
             }
         ]
@@ -30800,12 +30856,12 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: All"
+                    "Atk: All"
                 ]
             },
             {
                 "负面效果": [
-                    "Attack ↓"
+                    "Atk - Attack ↓"
                 ]
             }
         ]
@@ -30863,15 +30919,15 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: All",
-                    "Attack: Damage over Time (DoT)"
+                    "Atk: All",
+                    "Dmg: DoT"
                 ]
             },
             {
                 "负面效果": [
-                    "Attack ↓",
-                    "Defense ↓",
-                    "DoT: Poison"
+                    "Atk - Attack ↓",
+                    "Def - Defense ↓",
+                    "Dmg - DoT : Poison"
                 ]
             }
         ]
@@ -30927,17 +30983,17 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: All"
+                    "Atk: All"
                 ]
             },
             {
                 "特殊效果": [
-                    "Damage ↑ : Ice"
+                    "Dmg - Dmg ↑ : Ice"
                 ]
             },
             {
                 "负面效果": [
-                    "Attack ↓"
+                    "Atk - Attack ↓"
                 ]
             }
         ]
@@ -30995,14 +31051,14 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: All",
-                    "Heal: From Damage Dealt",
-                    "Heal: Boost"
+                    "Atk: All",
+                    "Heal: From Dmg",
+                    "Heal: Boost Health"
                 ]
             },
             {
                 "增益效果": [
-                    "Defense ↑"
+                    "Def - Defense ↑"
                 ]
             }
         ]
@@ -31060,14 +31116,14 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Small Area / Minor",
-                    "Attack: Damage over Time (DoT)"
+                    "Atk: Area",
+                    "Dmg: DoT"
                 ]
             },
             {
                 "负面效果": [
-                    "Steal Healing",
-                    "DoT: Water"
+                    "Heal - Steal Healing",
+                    "Dmg - DoT : Water"
                 ]
             }
         ]
@@ -31138,14 +31194,14 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Variable",
-                    "Heal: From Damage Dealt",
-                    "Heal: Boost"
+                    "Atk: Variable Targets",
+                    "Heal: From Dmg",
+                    "Heal: Boost Health"
                 ]
             },
             {
                 "负面效果": [
-                    "Mana Generation ↓ / Block"
+                    "Mana - Mana Gen ↓/Block"
                 ]
             }
         ]
@@ -31210,17 +31266,17 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Variable"
+                    "Atk: Variable Targets"
                 ]
             },
             {
                 "特殊效果": [
-                    "Mana Cut"
+                    "Mana - Mana Cut"
                 ]
             },
             {
                 "增益效果": [
-                    "Dodge"
+                    "Def - Dodge"
                 ]
             }
         ]
@@ -31272,12 +31328,12 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: All"
+                    "Atk: All"
                 ]
             },
             {
                 "增益效果": [
-                    "Defense ↑ : Special Skills"
+                    "Def - Def ↑ : Special"
                 ]
             }
         ]
@@ -31331,17 +31387,17 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: All"
+                    "Atk: All"
                 ]
             },
             {
                 "特殊效果": [
-                    "Minion"
+                    "Summon - Minion"
                 ]
             },
             {
                 "增益效果": [
-                    "Dodge"
+                    "Def - Dodge"
                 ]
             }
         ]
@@ -31395,17 +31451,17 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: All"
+                    "Atk: All"
                 ]
             },
             {
                 "特殊效果": [
-                    "Minion"
+                    "Summon - Minion"
                 ]
             },
             {
                 "增益效果": [
-                    "Dodge"
+                    "Def - Dodge"
                 ]
             }
         ]
@@ -31461,17 +31517,17 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: All"
+                    "Atk: All"
                 ]
             },
             {
                 "特殊效果": [
-                    "Damage ↑ : Ice"
+                    "Dmg - Dmg ↑ : Ice"
                 ]
             },
             {
                 "增益效果": [
-                    "Defense ↑ : Special Skills"
+                    "Def - Def ↑ : Special"
                 ]
             }
         ]
@@ -31534,18 +31590,22 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Single"
+                    "Atk: Single"
                 ]
             },
             {
                 "特殊效果": [
-                    "Fiend",
-                    "Dispel Buffs"
+                    "Summon - Fiend"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Status - Dispel Buffs"
                 ]
             },
             {
                 "负面效果": [
-                    "Healing Amount ↓"
+                    "Heal - Healing ↓"
                 ]
             }
         ]
@@ -31601,12 +31661,12 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Single"
+                    "Atk: Single"
                 ]
             },
             {
                 "负面效果": [
-                    "Attack ↓"
+                    "Atk - Attack ↓"
                 ]
             }
         ]
@@ -31668,15 +31728,23 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: All"
+                    "Atk: All"
                 ]
             },
             {
                 "特殊效果": [
-                    "Cleanse Status Ailments",
-                    "Dispel Buffs",
-                    "Mega Minion",
-                    "Extra Damage"
+                    "Summon - Mega Minion",
+                    "Dmg - Extra"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Status - Dispel Buffs"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Status - Cleanse Ailments"
                 ]
             }
         ]
@@ -31728,13 +31796,13 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Small Area / Minor",
-                    "Attack: Damage over Time (DoT)"
+                    "Atk: Area",
+                    "Dmg: DoT"
                 ]
             },
             {
-                "特殊效果": [
-                    "Cleanse Status Ailments"
+                "负面效果": [
+                    "Status - Cleanse Ailments"
                 ]
             }
         ]
@@ -31791,13 +31859,13 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Target and Nearby",
-                    "Attack: Damage over Time (DoT)"
+                    "Atk: Minor to Nearby",
+                    "Dmg: DoT"
                 ]
             },
             {
-                "特殊效果": [
-                    "Cleanse Status Ailments"
+                "负面效果": [
+                    "Status - Cleanse Ailments"
                 ]
             }
         ]
@@ -31857,8 +31925,8 @@ window.allHeroes =
             },
             {
                 "特殊效果": [
-                    "Minion",
-                    "Mana Cut"
+                    "Summon - Minion",
+                    "Mana - Mana Cut"
                 ]
             }
         ]
@@ -31913,17 +31981,17 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Boost"
+                    "Heal: Boost Health"
                 ]
             },
             {
                 "特殊效果": [
-                    "Minion"
+                    "Summon - Minion"
                 ]
             },
             {
                 "负面效果": [
-                    "Mana Generation ↓ / Block"
+                    "Mana - Mana Gen ↓/Block"
                 ]
             }
         ]
@@ -31980,14 +32048,14 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Boost"
+                    "Heal: Boost Health"
                 ]
             },
             {
                 "特殊效果": [
-                    "Minion",
-                    "Extra Damage",
-                    "Heal from Minions"
+                    "Summon - Minion",
+                    "Dmg - Extra",
+                    "Heal - From Minions"
                 ]
             }
         ]
@@ -32045,13 +32113,13 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "特殊效果": [
-                    "Mega Minion"
+                    "Summon - Mega Minion"
                 ]
             },
             {
                 "增益效果": [
-                    "Growth: Defense",
-                    "Block Buff Dispelling"
+                    "防御-成长：防御力↑",
+                    "Status - Block Buff Dispel"
                 ]
             }
         ]
@@ -32115,12 +32183,12 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Small Area / Minor"
+                    "Atk: Area"
                 ]
             },
             {
                 "负面效果": [
-                    "DoT: Bleed"
+                    "Dmg - DoT : Bleed"
                 ]
             }
         ]
@@ -32169,7 +32237,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Single"
+                    "Atk: Single"
                 ]
             }
         ]
@@ -32221,12 +32289,12 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Single"
+                    "Atk: Single"
                 ]
             },
             {
                 "负面效果": [
-                    "Mana Generation ↓ / Block"
+                    "Mana - Mana Gen ↓/Block"
                 ]
             }
         ]
@@ -32278,12 +32346,12 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Single"
+                    "Atk: Single"
                 ]
             },
             {
                 "负面效果": [
-                    "Confusion / Silence / Sleep"
+                    "Mana - Mindless/Silence/Sleep"
                 ]
             }
         ]
@@ -32336,12 +32404,12 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Single"
+                    "Atk: Single"
                 ]
             },
             {
                 "特殊效果": [
-                    "Damage ↑ : Ice"
+                    "Dmg - Dmg ↑ : Ice"
                 ]
             }
         ]
@@ -32395,12 +32463,12 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Single"
+                    "Atk: Single"
                 ]
             },
             {
                 "特殊效果": [
-                    "Bypass (Defensive Buffs)"
+                    "Atk - Bypass / Ignore"
                 ]
             }
         ]
@@ -32462,20 +32530,24 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Over Time (HoT)",
-                    "Attack: All"
+                    "Heal: Over Time",
+                    "Atk: All"
                 ]
             },
             {
                 "特殊效果": [
-                    "Steal Buffs",
-                    "Mana Recovery"
+                    "Status - Steal Buffs"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Mana - Mana Gain"
                 ]
             },
             {
                 "负面效果": [
-                    "Confusion / Silence / Sleep",
-                    "Increased Damage Taken ↑"
+                    "Mana - Mindless/Silence/Sleep",
+                    "Def - Dmg Taken ↑"
                 ]
             }
         ]
@@ -32530,17 +32602,17 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Small Area / Minor"
+                    "Atk: Area"
                 ]
             },
             {
                 "特殊效果": [
-                    "Minion"
+                    "Summon - Minion"
                 ]
             },
             {
                 "增益效果": [
-                    "Counterattack / Reflect"
+                    "Def - Counterattack"
                 ]
             }
         ]
@@ -32600,17 +32672,17 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Small Area / Minor"
+                    "Atk: Area"
                 ]
             },
             {
                 "特殊效果": [
-                    "Minion"
+                    "Summon - Minion"
                 ]
             },
             {
                 "增益效果": [
-                    "Counterattack / Reflect"
+                    "Def - Counterattack"
                 ]
             }
         ]
@@ -32674,13 +32746,13 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Over Time (HoT)"
+                    "Heal: Over Time"
                 ]
             },
             {
                 "增益效果": [
-                    "Defense ↑",
-                    "hidden / Ghost Form"
+                    "Def - Defense ↑",
+                    "Status - Hide/Ghost Form"
                 ]
             }
         ]
@@ -32743,13 +32815,13 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Over Time (HoT)"
+                    "Heal: Over Time"
                 ]
             },
             {
                 "增益效果": [
-                    "Defense ↑",
-                    "hidden / Ghost Form"
+                    "Def - Defense ↑",
+                    "Status - Hide/Ghost Form"
                 ]
             }
         ]
@@ -32807,13 +32879,13 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: All"
+                    "Atk: All"
                 ]
             },
             {
                 "负面效果": [
-                    "Attack ↓",
-                    "Defense ↓"
+                    "Atk - Attack ↓",
+                    "Def - Defense ↓"
                 ]
             }
         ]
@@ -32873,13 +32945,13 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: All"
+                    "Atk: All"
                 ]
             },
             {
                 "负面效果": [
-                    "Attack ↓",
-                    "Defense ↓"
+                    "Atk - Attack ↓",
+                    "Def - Defense ↓"
                 ]
             }
         ]
@@ -32939,13 +33011,13 @@ window.allHeroes =
             {
                 "基础技能": [
                     "Heal: Instant",
-                    "Heal: Over Time (HoT)",
-                    "Heal: Boost"
+                    "Heal: Over Time",
+                    "Heal: Boost Health"
                 ]
             },
             {
                 "增益效果": [
-                    "Damage Reduction"
+                    "Def - Dmg Reduction"
                 ]
             }
         ]
@@ -33001,13 +33073,13 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Small Area / Minor"
+                    "Atk: Area"
                 ]
             },
             {
                 "增益效果": [
-                    "Dodge",
-                    "Mana Recovery"
+                    "Def - Dodge",
+                    "Mana - Mana Gain"
                 ]
             }
         ]
@@ -33069,12 +33141,12 @@ window.allHeroes =
             },
             {
                 "特殊效果": [
-                    "Minion"
+                    "Summon - Minion"
                 ]
             },
             {
                 "增益效果": [
-                    "Damage Reduction"
+                    "Def - Dmg Reduction"
                 ]
             }
         ]
@@ -33132,17 +33204,17 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Small Area / Minor"
+                    "Atk: Area"
                 ]
             },
             {
                 "特殊效果": [
-                    "Damage ↑ : Ice"
+                    "Dmg - Dmg ↑ : Ice"
                 ]
             },
             {
                 "负面效果": [
-                    "Defense ↓"
+                    "Def - Defense ↓"
                 ]
             }
         ]
@@ -33201,13 +33273,13 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Target and Nearby"
+                    "Atk: Minor to Nearby"
                 ]
             },
             {
                 "特殊效果": [
-                    "Mana Cut",
-                    "Extra Attack"
+                    "Mana - Mana Cut",
+                    "Atk - Extra Attack"
                 ]
             }
         ]
@@ -33267,17 +33339,17 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Small Area / Minor"
+                    "Atk: Area"
                 ]
             },
             {
                 "增益效果": [
-                    "Stack: Attack ↑"
+                    "Atk - Stack : Atk ↑"
                 ]
             },
             {
                 "负面效果": [
-                    "Block Healing"
+                    "Heal - Block Healing"
                 ]
             }
         ]
@@ -33333,12 +33405,12 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: All"
+                    "Atk: All"
                 ]
             },
             {
                 "增益效果": [
-                    "Mana Generation ↑"
+                    "Mana - Mana Gen ↑"
                 ]
             }
         ]
@@ -33389,22 +33461,22 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Damage over Time (DoT)"
+                    "Dmg: DoT"
                 ]
             },
             {
                 "特殊效果": [
-                    "Heal from Damage"
+                    "Heal - From Dmg"
                 ]
             },
             {
                 "增益效果": [
-                    "Defense ↑ : Fire"
+                    "Def - Def ↑ : Fire"
                 ]
             },
             {
                 "负面效果": [
-                    "Health Drain"
+                    "Dmg - DoT : Health Steal"
                 ]
             }
         ]
@@ -33460,12 +33532,12 @@ window.allHeroes =
             {
                 "基础技能": [
                     "Heal: Instant",
-                    "Revive"
+                    "Heal: Revive"
                 ]
             },
             {
                 "特殊效果": [
-                    "Minion"
+                    "Summon - Minion"
                 ]
             }
         ]
@@ -33520,13 +33592,13 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Over Time (HoT)",
-                    "Revive"
+                    "Heal: Over Time",
+                    "Heal: Revive"
                 ]
             },
             {
                 "特殊效果": [
-                    "Minion"
+                    "Summon - Minion"
                 ]
             }
         ]
@@ -33586,13 +33658,13 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: All"
+                    "Atk: All"
                 ]
             },
             {
                 "特殊效果": [
-                    "Fiend",
-                    "Steal Buffs"
+                    "Summon - Fiend",
+                    "Status - Steal Buffs"
                 ]
             }
         ]
@@ -33657,13 +33729,13 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Boost"
+                    "Heal: Boost Health"
                 ]
             },
             {
                 "增益效果": [
-                    "Mana Generation ↑",
-                    "Defense ↑"
+                    "Mana - Mana Gen ↑",
+                    "Def - Defense ↑"
                 ]
             }
         ]
@@ -33723,13 +33795,13 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "增益效果": [
-                    "Counterattack / Reflect : Fire",
-                    "Damage Share"
+                    "Def - Reflect : Fire",
+                    "Def - Dmg Share"
                 ]
             },
             {
                 "负面效果": [
-                    "Defense ↓"
+                    "Def - Defense ↓"
                 ]
             }
         ]
@@ -33787,14 +33859,14 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Target and Nearby",
-                    "Attack: Damage over Time (DoT)"
+                    "Atk: Minor to Nearby",
+                    "Dmg: DoT"
                 ]
             },
             {
                 "负面效果": [
-                    "Max Health ↓",
-                    "DoT: Bleed"
+                    "Heal - Max Health ↓",
+                    "Dmg - DoT : Bleed"
                 ]
             }
         ]
@@ -33859,13 +33931,13 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Boost"
+                    "Heal: Boost Health"
                 ]
             },
             {
                 "增益效果": [
-                    "Block Buff Dispelling",
-                    "Damage Reduction"
+                    "Status - Block Buff Dispel",
+                    "Def - Dmg Reduction"
                 ]
             }
         ]
@@ -33923,18 +33995,18 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: From Damage Dealt",
-                    "Attack: All"
+                    "Heal: From Dmg",
+                    "Atk: All"
                 ]
             },
             {
                 "增益效果": [
-                    "Dodge"
+                    "Def - Dodge"
                 ]
             },
             {
                 "负面效果": [
-                    "Madness"
+                    "Status - Insanity"
                 ]
             }
         ]
@@ -33994,13 +34066,13 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Small Area / Minor"
+                    "Atk: Area"
                 ]
             },
             {
                 "增益效果": [
-                    "Dodge",
-                    "Attack ↑"
+                    "Def - Dodge",
+                    "Atk - Attack ↑"
                 ]
             }
         ]
@@ -34067,14 +34139,14 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Variable",
-                    "Attack: Damage over Time (DoT)"
+                    "Atk: Variable Targets",
+                    "Dmg: DoT"
                 ]
             },
             {
                 "负面效果": [
-                    "Accuracy ↓",
-                    "DoT: Poison"
+                    "Atk - Accuracy ↓",
+                    "Dmg - DoT : Poison"
                 ]
             }
         ]
@@ -34131,17 +34203,17 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Single"
+                    "Atk: Single"
                 ]
             },
             {
-                "特殊效果": [
-                    "Dispel Buffs"
+                "增益效果": [
+                    "Status - Dispel Buffs"
                 ]
             },
             {
                 "负面效果": [
-                    "Defense ↓ : Nature"
+                    "Def - Def ↓ : Nature"
                 ]
             }
         ]
@@ -34201,17 +34273,17 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Single"
+                    "Atk: Single"
                 ]
             },
             {
-                "特殊效果": [
-                    "Dispel Buffs"
+                "增益效果": [
+                    "Status - Dispel Buffs"
                 ]
             },
             {
                 "负面效果": [
-                    "Defense ↓ : Nature"
+                    "Def - Def ↓ : Nature"
                 ]
             }
         ]
@@ -34271,19 +34343,19 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Single",
-                    "Attack: Damage over Time (DoT)"
+                    "Atk: Single",
+                    "Dmg: DoT"
                 ]
             },
             {
                 "特殊效果": [
-                    "Extra Attack"
+                    "Atk - Extra Attack"
                 ]
             },
             {
                 "负面效果": [
-                    "DoT: Bleed",
-                    "Increased Damage Taken ↑"
+                    "Dmg - DoT : Bleed",
+                    "Def - Dmg Taken ↑"
                 ]
             }
         ]
@@ -34348,14 +34420,14 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "增益效果": [
-                    "Counterattack / Reflect",
-                    "Damage Reduction",
-                    "Self-Revive"
+                    "Def - Counterattack",
+                    "Def - Dmg Reduction",
+                    "Heal - Self Revive"
                 ]
             },
             {
                 "负面效果": [
-                    "Buff Immunity / Block Buffs"
+                    "Status - Buff Immunity"
                 ]
             }
         ]
@@ -34413,17 +34485,17 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: All"
+                    "Atk: All"
                 ]
             },
             {
                 "特殊效果": [
-                    "Steal Buffs"
+                    "Status - Steal Buffs"
                 ]
             },
             {
                 "增益效果": [
-                    "Attack ↑"
+                    "Atk - Attack ↑"
                 ]
             }
         ]
@@ -34483,14 +34555,14 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Over Time (HoT)"
+                    "Heal: Over Time"
                 ]
             },
             {
                 "增益效果": [
-                    "Taunt",
-                    "Defense ↑",
-                    "Mana Generation ↑"
+                    "Def - Taunt",
+                    "Def - Defense ↑",
+                    "Mana - Mana Gen ↑"
                 ]
             }
         ]
@@ -34545,13 +34617,13 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Small Area / Minor"
+                    "Atk: Area"
                 ]
             },
             {
                 "特殊效果": [
-                    "Extra Damage",
-                    "Self-Heal"
+                    "Dmg - Extra",
+                    "Heal - Self Recovery"
                 ]
             }
         ]
@@ -34610,13 +34682,13 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Small Area / Minor"
+                    "Atk: Area"
                 ]
             },
             {
                 "特殊效果": [
-                    "Extra Damage",
-                    "Self-Heal"
+                    "Dmg - Extra",
+                    "Heal - Self Recovery"
                 ]
             }
         ]
@@ -34675,7 +34747,7 @@ window.allHeroes =
             },
             {
                 "特殊效果": [
-                    "Transform: Attack"
+                    "Atk - Tile : Attack"
                 ]
             }
         ]
@@ -34729,12 +34801,12 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Over Time (HoT)"
+                    "Heal: Over Time"
                 ]
             },
             {
                 "特殊效果": [
-                    "Transform: Attack"
+                    "Atk - Tile : Attack"
                 ]
             }
         ]
@@ -34792,12 +34864,12 @@ window.allHeroes =
             {
                 "基础技能": [
                     "Heal: Instant",
-                    "Revive"
+                    "Heal: Revive"
                 ]
             },
             {
                 "增益效果": [
-                    "Damage Reduction"
+                    "Def - Dmg Reduction"
                 ]
             }
         ]
@@ -34856,17 +34928,17 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Over Time (HoT)"
+                    "Heal: Over Time"
                 ]
             },
             {
                 "特殊效果": [
-                    "Explosion / Detonation"
+                    "Dmg - Explosion"
                 ]
             },
             {
                 "增益效果": [
-                    "Taunt"
+                    "Def - Taunt"
                 ]
             }
         ]
@@ -34925,13 +34997,13 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Single"
+                    "Atk: Single"
                 ]
             },
             {
                 "特殊效果": [
-                    "Extra Attack",
-                    "Extra Damage"
+                    "Atk - Extra Attack",
+                    "Dmg - Extra"
                 ]
             }
         ]
@@ -34992,16 +35064,16 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Single"
+                    "Atk: Single"
                 ]
             },
             {
                 "负面效果": [
-                    "Max Health ↓",
-                    "Confusion / Silence / Sleep",
-                    "Defense ↓ : Special Skills",
-                    "Block Cleanse",
-                    "Self-Debuff"
+                    "Heal - Max Health ↓",
+                    "Mana - Mindless/Silence/Sleep",
+                    "Def - Def ↓ : Special",
+                    "Status - Block Cleanse",
+                    "Status - Self-Debuff"
                 ]
             }
         ]
@@ -35059,17 +35131,17 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Single"
+                    "Atk: Single"
                 ]
             },
             {
                 "特殊效果": [
-                    "Heal from Damage"
+                    "Heal - From Dmg"
                 ]
             },
             {
                 "增益效果": [
-                    "Dodge"
+                    "Def - Dodge"
                 ]
             }
         ]
@@ -35128,17 +35200,17 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Single"
+                    "Atk: Single"
                 ]
             },
             {
                 "特殊效果": [
-                    "Minion"
+                    "Summon - Minion"
                 ]
             },
             {
                 "负面效果": [
-                    "Defense ↓"
+                    "Def - Defense ↓"
                 ]
             }
         ]
@@ -35197,9 +35269,9 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "负面效果": [
-                    "Weaken: Attack",
-                    "Max Health ↓",
-                    "Defense ↓ : Special Skills"
+                    "Atk - Wither : Atk↓",
+                    "Heal - Max Health ↓",
+                    "Def - Def ↓ : Special"
                 ]
             }
         ]
@@ -35259,17 +35331,17 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Small Area / Minor"
+                    "Atk: Area"
                 ]
             },
             {
                 "特殊效果": [
-                    "Fiend"
+                    "Summon - Fiend"
                 ]
             },
             {
                 "负面效果": [
-                    "Increased Damage Taken ↑"
+                    "Def - Dmg Taken ↑"
                 ]
             }
         ]
@@ -35334,12 +35406,12 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: All"
+                    "Atk: All"
                 ]
             },
             {
                 "特殊效果": [
-                    "Fiend"
+                    "Summon - Fiend"
                 ]
             }
         ]
@@ -35405,12 +35477,12 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: All"
+                    "Atk: All"
                 ]
             },
             {
                 "特殊效果": [
-                    "Fiend"
+                    "Summon - Fiend"
                 ]
             }
         ]
@@ -35468,17 +35540,17 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Single"
+                    "Atk: Single"
                 ]
             },
             {
                 "特殊效果": [
-                    "Bypass (Defensive Buffs)"
+                    "Atk - Bypass / Ignore"
                 ]
             },
             {
                 "增益效果": [
-                    "Dodge"
+                    "Def - Dodge"
                 ]
             }
         ]
@@ -35537,14 +35609,14 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Small Area / Minor",
-                    "Attack: Damage over Time (DoT)"
+                    "Atk: Area",
+                    "Dmg: DoT"
                 ]
             },
             {
                 "负面效果": [
-                    "Accuracy ↓",
-                    "DoT: Poison"
+                    "Atk - Accuracy ↓",
+                    "Dmg - DoT : Poison"
                 ]
             }
         ]
@@ -35602,14 +35674,14 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Small Area / Minor"
+                    "Atk: Area"
                 ]
             },
             {
                 "特殊效果": [
-                    "Bypass Dodge",
-                    "Mana Cut",
-                    "Explosion / Detonation"
+                    "Atk - Bypass Dodge",
+                    "Mana - Mana Cut",
+                    "Dmg - Explosion"
                 ]
             }
         ]
@@ -35671,15 +35743,19 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Single"
+                    "Atk: Single"
                 ]
             },
             {
                 "特殊效果": [
-                    "Dispel Buffs",
-                    "Mana Cut",
-                    "Extra Attack",
-                    "Damage ↑ : Ice"
+                    "Mana - Mana Cut",
+                    "Atk - Extra Attack",
+                    "Dmg - Dmg ↑ : Ice"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Status - Dispel Buffs"
                 ]
             }
         ]
@@ -35745,14 +35821,14 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Variable"
+                    "Atk: Variable Targets"
                 ]
             },
             {
                 "特殊效果": [
-                    "Extra Damage",
-                    "Bypass Dodge",
-                    "Extra Attack"
+                    "Dmg - Extra",
+                    "Atk - Bypass Dodge",
+                    "Atk - Extra Attack"
                 ]
             }
         ]
@@ -35804,12 +35880,12 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Over Time (HoT)"
+                    "Heal: Over Time"
                 ]
             },
             {
                 "增益效果": [
-                    "Attack ↑"
+                    "Atk - Attack ↑"
                 ]
             }
         ]
@@ -35861,12 +35937,12 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Boost"
+                    "Heal: Boost Health"
                 ]
             },
             {
                 "增益效果": [
-                    "Attack ↑"
+                    "Atk - Attack ↑"
                 ]
             }
         ]
@@ -35928,14 +36004,14 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Over Time (HoT)",
-                    "Attack: All"
+                    "Heal: Over Time",
+                    "Atk: All"
                 ]
             },
             {
                 "负面效果": [
-                    "Confusion / Silence / Sleep",
-                    "Increased Damage Taken ↑"
+                    "Mana - Mindless/Silence/Sleep",
+                    "Def - Dmg Taken ↑"
                 ]
             }
         ]
@@ -35997,18 +36073,18 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Over Time (HoT)",
-                    "Attack: All"
+                    "Heal: Over Time",
+                    "Atk: All"
                 ]
             },
             {
                 "特殊效果": [
-                    "Minion"
+                    "Summon - Minion"
                 ]
             },
             {
                 "负面效果": [
-                    "Mana Generation ↓ / Block"
+                    "Mana - Mana Gen ↓/Block"
                 ]
             }
         ]
@@ -36076,18 +36152,18 @@ window.allHeroes =
             {
                 "基础技能": [
                     "Heal: Instant",
-                    "Attack: Damage over Time (DoT)"
+                    "Dmg: DoT"
                 ]
             },
             {
                 "增益效果": [
-                    "Immunity to Status Ailments"
+                    "Status - Ailment Immunity"
                 ]
             },
             {
                 "负面效果": [
-                    "DoT: Poison",
-                    "Increased Damage Taken ↑"
+                    "Dmg - DoT : Poison",
+                    "Def - Dmg Taken ↑"
                 ]
             }
         ]
@@ -36139,12 +36215,12 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Small Area / Minor"
+                    "Atk: Area"
                 ]
             },
             {
                 "特殊效果": [
-                    "Steal Buffs"
+                    "Status - Steal Buffs"
                 ]
             }
         ]
@@ -36201,13 +36277,13 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Target and Nearby"
+                    "Atk: Minor to Nearby"
                 ]
             },
             {
                 "特殊效果": [
-                    "Steal Buffs",
-                    "Minion"
+                    "Status - Steal Buffs",
+                    "Summon - Minion"
                 ]
             }
         ]
@@ -36271,23 +36347,23 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: All"
+                    "Atk: All"
                 ]
             },
             {
                 "特殊效果": [
-                    "Reduce Ailment Duration"
+                    "Status - Reduce Ailment Duration",
+                    "Status - Reduce Buff Duration"
                 ]
             },
             {
                 "增益效果": [
-                    "Defense ↑"
+                    "Def - Defense ↑"
                 ]
             },
             {
                 "负面效果": [
-                    "Reduce Buff Duration",
-                    "Defense ↓"
+                    "Def - Defense ↓"
                 ]
             }
         ]
@@ -36346,13 +36422,13 @@ window.allHeroes =
                 ]
             },
             {
-                "特殊效果": [
-                    "Cleanse Status Ailments"
+                "增益效果": [
+                    "Mana - Mana Gain"
                 ]
             },
             {
-                "增益效果": [
-                    "Mana Recovery"
+                "负面效果": [
+                    "Status - Cleanse Ailments"
                 ]
             }
         ]
@@ -36410,17 +36486,17 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Boost"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "Cleanse Status Ailments"
+                    "Heal: Boost Health"
                 ]
             },
             {
                 "增益效果": [
-                    "Mana Recovery"
+                    "Mana - Mana Gain"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Status - Cleanse Ailments"
                 ]
             }
         ]
@@ -36474,12 +36550,12 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Small Area / Minor"
+                    "Atk: Area"
                 ]
             },
             {
                 "负面效果": [
-                    "Accuracy ↓"
+                    "Atk - Accuracy ↓"
                 ]
             }
         ]
@@ -36533,12 +36609,12 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Small Area / Minor"
+                    "Atk: Area"
                 ]
             },
             {
                 "负面效果": [
-                    "Accuracy ↓"
+                    "Atk - Accuracy ↓"
                 ]
             }
         ]
@@ -36594,12 +36670,12 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Small Area / Minor"
+                    "Atk: Area"
                 ]
             },
             {
                 "特殊效果": [
-                    "Steal Buffs"
+                    "Status - Steal Buffs"
                 ]
             }
         ]
@@ -36656,19 +36732,19 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: All",
-                    "Attack: Damage over Time (DoT)"
+                    "Atk: All",
+                    "Dmg: DoT"
                 ]
             },
             {
                 "特殊效果": [
-                    "Damage ↑ : Holy"
+                    "Dmg - Dmg ↑ : Holy"
                 ]
             },
             {
                 "负面效果": [
-                    "Accuracy ↓",
-                    "DoT: Bleed"
+                    "Atk - Accuracy ↓",
+                    "Dmg - DoT : Bleed"
                 ]
             }
         ]
@@ -36728,18 +36804,18 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Small Area / Minor",
-                    "Attack: Damage over Time (DoT)"
+                    "Atk: Area",
+                    "Dmg: DoT"
                 ]
             },
             {
                 "特殊效果": [
-                    "Destroy Minions"
+                    "Atk - Destroy Minions"
                 ]
             },
             {
                 "负面效果": [
-                    "DoT: Poison"
+                    "Dmg - DoT : Poison"
                 ]
             }
         ]
@@ -36799,18 +36875,18 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Single"
+                    "Atk: Single"
                 ]
             },
             {
                 "特殊效果": [
-                    "Chain Attack"
+                    "Atk - Chain"
                 ]
             },
             {
                 "负面效果": [
-                    "Buff Immunity / Block Buffs",
-                    "Attack ↓"
+                    "Status - Buff Immunity",
+                    "Atk - Attack ↓"
                 ]
             }
         ]
@@ -36872,15 +36948,15 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Variable"
+                    "Atk: Variable Targets"
                 ]
             },
             {
                 "特殊效果": [
-                    "Transform: Mana Generation",
-                    "Extra Damage",
-                    "Explosion / Detonation",
-                    "Mana Cut"
+                    "Mana - Tile : Gen",
+                    "Dmg - Extra",
+                    "Dmg - Explosion",
+                    "Mana - Mana Cut"
                 ]
             }
         ]
@@ -36937,18 +37013,18 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: All"
+                    "Atk: All"
                 ]
             },
             {
                 "特殊效果": [
-                    "Extra Damage",
-                    "Explosion / Detonation"
+                    "Dmg - Extra",
+                    "Dmg - Explosion"
                 ]
             },
             {
                 "负面效果": [
-                    "Mana Generation ↓ / Block"
+                    "Mana - Mana Gen ↓/Block"
                 ]
             }
         ]
@@ -37011,12 +37087,12 @@ window.allHeroes =
             },
             {
                 "特殊效果": [
-                    "Redistribute Ailments"
+                    "Status - Redistribute Ailments"
                 ]
             },
             {
                 "增益效果": [
-                    "Reflect Ailments"
+                    "Status - Reflect Ailments"
                 ]
             }
         ]
@@ -37074,19 +37150,15 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: All",
-                    "Attack: Damage over Time (DoT)"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "Cleanse Status Ailments"
+                    "Atk: All",
+                    "Dmg: DoT"
                 ]
             },
             {
                 "负面效果": [
-                    "Block Healing",
-                    "DoT: Sand"
+                    "Heal - Block Healing",
+                    "Dmg - DoT : Sand",
+                    "Status - Cleanse Ailments"
                 ]
             }
         ]
@@ -37144,23 +37216,19 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: All",
-                    "Attack: Damage over Time (DoT)"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "Cleanse Status Ailments"
+                    "Atk: All",
+                    "Dmg: DoT"
                 ]
             },
             {
                 "增益效果": [
-                    "Mana Generation ↑"
+                    "Mana - Mana Gen ↑"
                 ]
             },
             {
                 "负面效果": [
-                    "DoT: Sand"
+                    "Dmg - DoT : Sand",
+                    "Status - Cleanse Ailments"
                 ]
             }
         ]
@@ -37219,14 +37287,14 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Single",
-                    "Attack: Variable"
+                    "Atk: Single",
+                    "Atk: Variable Targets"
                 ]
             },
             {
                 "负面效果": [
-                    "Madness",
-                    "Self-Debuff"
+                    "Status - Insanity",
+                    "Status - Self-Debuff"
                 ]
             }
         ]
@@ -37285,18 +37353,22 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: All"
+                    "Atk: All"
                 ]
             },
             {
                 "特殊效果": [
-                    "Dispel Buffs",
-                    "Damage ↑ : Ice"
+                    "Dmg - Dmg ↑ : Ice"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Status - Dispel Buffs"
                 ]
             },
             {
                 "负面效果": [
-                    "Attack ↓"
+                    "Atk - Attack ↓"
                 ]
             }
         ]
@@ -37358,18 +37430,22 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: All"
+                    "Atk: All"
                 ]
             },
             {
                 "特殊效果": [
-                    "Dispel Buffs",
-                    "Damage ↑ : Ice"
+                    "Dmg - Dmg ↑ : Ice"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Status - Dispel Buffs"
                 ]
             },
             {
                 "负面效果": [
-                    "Attack ↓"
+                    "Atk - Attack ↓"
                 ]
             }
         ]
@@ -37426,12 +37502,12 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Single"
+                    "Atk: Single"
                 ]
             },
             {
                 "负面效果": [
-                    "Confusion / Silence / Sleep"
+                    "Mana - Mindless/Silence/Sleep"
                 ]
             }
         ]
@@ -37495,14 +37571,14 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Single",
-                    "Attack: Variable"
+                    "Atk: Single",
+                    "Atk: Variable Targets"
                 ]
             },
             {
                 "负面效果": [
-                    "Attack ↓",
-                    "Defense ↓"
+                    "Atk - Attack ↓",
+                    "Def - Defense ↓"
                 ]
             }
         ]
@@ -37714,7 +37790,7 @@ window.allHeroes =
             },
             {
                 "负面效果": [
-                    "Healing Amount ↓"
+                    "Heal - Healing ↓"
                 ]
             }
         ]
@@ -37763,12 +37839,12 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "特殊效果": [
-                    "Explosion / Detonation"
+                    "Dmg - Explosion"
                 ]
             },
             {
                 "增益效果": [
-                    "Attack ↑"
+                    "Atk - Attack ↑"
                 ]
             }
         ]
@@ -37824,13 +37900,13 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Small Area / Minor"
+                    "Atk: Area"
                 ]
             },
             {
                 "增益效果": [
-                    "Dodge",
-                    "Stack: Defense ↑"
+                    "Def - Dodge",
+                    "Def - Stack : Def ↑"
                 ]
             }
         ]
@@ -37888,13 +37964,13 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Small Area / Minor"
+                    "Atk: Area"
                 ]
             },
             {
                 "增益效果": [
-                    "Dodge",
-                    "Stack: Defense ↑"
+                    "Def - Dodge",
+                    "Def - Stack : Def ↑"
                 ]
             }
         ]
@@ -37943,7 +38019,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Single"
+                    "Atk: Single"
                 ]
             }
         ]
@@ -37995,13 +38071,13 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Single",
-                    "Attack: Damage over Time (DoT)"
+                    "Atk: Single",
+                    "Dmg: DoT"
                 ]
             },
             {
                 "负面效果": [
-                    "DoT: Poison"
+                    "Dmg - DoT : Poison"
                 ]
             }
         ]
@@ -38054,12 +38130,12 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Single"
+                    "Atk: Single"
                 ]
             },
             {
                 "特殊效果": [
-                    "Damage ↑ : Holy"
+                    "Dmg - Dmg ↑ : Holy"
                 ]
             }
         ]
@@ -38113,12 +38189,12 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Single"
+                    "Atk: Single"
                 ]
             },
             {
                 "特殊效果": [
-                    "Bypass (Defensive Buffs)"
+                    "Atk - Bypass / Ignore"
                 ]
             }
         ]
@@ -38173,12 +38249,12 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Small Area / Minor"
+                    "Atk: Area"
                 ]
             },
             {
                 "增益效果": [
-                    "Damage Reduction"
+                    "Def - Dmg Reduction"
                 ]
             }
         ]
@@ -38231,13 +38307,13 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Single"
+                    "Atk: Single"
                 ]
             },
             {
                 "特殊效果": [
-                    "Extra Attack",
-                    "Damage ↑ : Holy"
+                    "Atk - Extra Attack",
+                    "Dmg - Dmg ↑ : Holy"
                 ]
             }
         ]
@@ -38292,18 +38368,18 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Single"
+                    "Atk: Single"
                 ]
             },
             {
                 "特殊效果": [
-                    "Extra Attack",
-                    "Damage ↑ : Holy"
+                    "Atk - Extra Attack",
+                    "Dmg - Dmg ↑ : Holy"
                 ]
             },
             {
                 "负面效果": [
-                    "Mana Generation ↓ / Block"
+                    "Mana - Mana Gen ↓/Block"
                 ]
             }
         ]
@@ -38357,7 +38433,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "特殊效果": [
-                    "Transform: Mana Generation"
+                    "Mana - Tile : Gen"
                 ]
             }
         ]
@@ -38409,12 +38485,12 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Small Area / Minor"
+                    "Atk: Area"
                 ]
             },
             {
                 "负面效果": [
-                    "Mana Generation ↓ / Block"
+                    "Mana - Mana Gen ↓/Block"
                 ]
             }
         ]
@@ -38465,13 +38541,13 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Single",
-                    "Attack: Variable"
+                    "Atk: Single",
+                    "Atk: Variable Targets"
                 ]
             },
             {
                 "负面效果": [
-                    "Buff Immunity / Block Buffs"
+                    "Status - Buff Immunity"
                 ]
             }
         ]
@@ -38525,14 +38601,10 @@ window.allHeroes =
         },
         "cn_skill_info": [
             {
-                "特殊效果": [
-                    "Cleanse Status Ailments"
-                ]
-            },
-            {
                 "负面效果": [
-                    "Attack ↓",
-                    "Defense ↓"
+                    "Atk - Attack ↓",
+                    "Def - Defense ↓",
+                    "Status - Cleanse Ailments"
                 ]
             }
         ]
@@ -38586,18 +38658,14 @@ window.allHeroes =
         },
         "cn_skill_info": [
             {
-                "特殊效果": [
-                    "Dispel Buffs"
-                ]
-            },
-            {
                 "增益效果": [
-                    "Attack ↑"
+                    "Atk - Attack ↑",
+                    "Status - Dispel Buffs"
                 ]
             },
             {
                 "负面效果": [
-                    "Defense ↓"
+                    "Def - Defense ↓"
                 ]
             }
         ]
@@ -38655,13 +38723,13 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: All"
+                    "Atk: All"
                 ]
             },
             {
                 "特殊效果": [
-                    "Extra Damage",
-                    "Mana on Kill"
+                    "Dmg - Extra",
+                    "Mana - Mana Gain (on Kill)"
                 ]
             }
         ]
@@ -38712,12 +38780,12 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Target and Nearby"
+                    "Atk: Minor to Nearby"
                 ]
             },
             {
                 "特殊效果": [
-                    "Extra Damage"
+                    "Dmg - Extra"
                 ]
             }
         ]
@@ -38771,12 +38839,12 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Single"
+                    "Atk: Single"
                 ]
             },
             {
                 "特殊效果": [
-                    "Explosion / Detonation"
+                    "Dmg - Explosion"
                 ]
             }
         ]
@@ -38837,18 +38905,18 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Small Area / Minor"
+                    "Atk: Area"
                 ]
             },
             {
                 "增益效果": [
-                    "Stack: Mana Generation",
-                    "Stack: Health Recovery"
+                    "Mana - Stack : Mana Gen ↑",
+                    "Heal - Stack : Regen"
                 ]
             },
             {
                 "负面效果": [
-                    "Defense ↓"
+                    "Def - Defense ↓"
                 ]
             }
         ]
@@ -38908,14 +38976,14 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: All",
-                    "Attack: Damage over Time (DoT)"
+                    "Atk: All",
+                    "Dmg: DoT"
                 ]
             },
             {
                 "负面效果": [
-                    "Accuracy ↓",
-                    "DoT: Poison"
+                    "Atk - Accuracy ↓",
+                    "Dmg - DoT : Poison"
                 ]
             }
         ]
@@ -38978,22 +39046,18 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Random"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "Cleanse Status Ailments"
+                    "Atk: Random"
                 ]
             },
             {
                 "增益效果": [
-                    "hidden / Ghost Form"
+                    "Status - Hide/Ghost Form"
                 ]
             },
             {
                 "负面效果": [
-                    "Mana Generation ↓ / Block"
+                    "Mana - Mana Gen ↓/Block",
+                    "Status - Cleanse Ailments"
                 ]
             }
         ]
@@ -39056,22 +39120,18 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Random"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "Cleanse Status Ailments"
+                    "Atk: Random"
                 ]
             },
             {
                 "增益效果": [
-                    "hidden / Ghost Form"
+                    "Status - Hide/Ghost Form"
                 ]
             },
             {
                 "负面效果": [
-                    "Mana Generation ↓ / Block"
+                    "Mana - Mana Gen ↓/Block",
+                    "Status - Cleanse Ailments"
                 ]
             }
         ]
@@ -39123,13 +39183,13 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: All",
-                    "Attack: Damage over Time (DoT)"
+                    "Atk: All",
+                    "Dmg: DoT"
                 ]
             },
             {
                 "负面效果": [
-                    "DoT: Poison"
+                    "Dmg - DoT : Poison"
                 ]
             }
         ]
@@ -39178,12 +39238,12 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Damage over Time (DoT)"
+                    "Dmg: DoT"
                 ]
             },
             {
                 "负面效果": [
-                    "DoT: Poison"
+                    "Dmg - DoT : Poison"
                 ]
             }
         ]
@@ -39239,18 +39299,18 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: All",
-                    "Attack: Damage over Time (DoT)"
+                    "Atk: All",
+                    "Dmg: DoT"
                 ]
             },
             {
                 "特殊效果": [
-                    "Damage ↑ : Holy"
+                    "Dmg - Dmg ↑ : Holy"
                 ]
             },
             {
                 "负面效果": [
-                    "DoT: Poison"
+                    "Dmg - DoT : Poison"
                 ]
             }
         ]
@@ -39309,7 +39369,7 @@ window.allHeroes =
             },
             {
                 "负面效果": [
-                    "Attack ↓"
+                    "Atk - Attack ↓"
                 ]
             }
         ]
@@ -39361,12 +39421,12 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Single"
+                    "Atk: Single"
                 ]
             },
             {
                 "特殊效果": [
-                    "Heal from Damage"
+                    "Heal - From Dmg"
                 ]
             }
         ]
@@ -39418,12 +39478,12 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Target and Nearby"
+                    "Atk: Minor to Nearby"
                 ]
             },
             {
                 "特殊效果": [
-                    "Heal from Damage"
+                    "Heal - From Dmg"
                 ]
             }
         ]
@@ -39479,13 +39539,13 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Single"
+                    "Atk: Single"
                 ]
             },
             {
                 "特殊效果": [
-                    "Heal from Damage",
-                    "Damage ↑ : Holy"
+                    "Heal - From Dmg",
+                    "Dmg - Dmg ↑ : Holy"
                 ]
             }
         ]
@@ -39542,13 +39602,13 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Single"
+                    "Atk: Single"
                 ]
             },
             {
                 "特殊效果": [
-                    "Heal from Damage",
-                    "Bypass (Defensive Buffs)"
+                    "Heal - From Dmg",
+                    "Atk - Bypass / Ignore"
                 ]
             }
         ]
@@ -39600,12 +39660,12 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Single"
+                    "Atk: Single"
                 ]
             },
             {
                 "特殊效果": [
-                    "Heal from Damage"
+                    "Heal - From Dmg"
                 ]
             }
         ]
@@ -39658,12 +39718,12 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Single"
+                    "Atk: Single"
                 ]
             },
             {
                 "负面效果": [
-                    "Mana Drain"
+                    "Mana - Mana Steal"
                 ]
             }
         ]
@@ -39719,13 +39779,13 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Single"
+                    "Atk: Single"
                 ]
             },
             {
                 "特殊效果": [
-                    "Heal from Damage",
-                    "Damage ↑ : Holy"
+                    "Heal - From Dmg",
+                    "Dmg - Dmg ↑ : Holy"
                 ]
             }
         ]
@@ -39783,14 +39843,14 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: All"
+                    "Atk: All"
                 ]
             },
             {
                 "负面效果": [
-                    "Mana Generation ↓ / Block",
-                    "Attack ↓",
-                    "Defense ↓"
+                    "Mana - Mana Gen ↓/Block",
+                    "Atk - Attack ↓",
+                    "Def - Defense ↓"
                 ]
             }
         ]
@@ -39842,12 +39902,12 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Single"
+                    "Atk: Single"
                 ]
             },
             {
-                "特殊效果": [
-                    "Dispel Buffs"
+                "增益效果": [
+                    "Status - Dispel Buffs"
                 ]
             }
         ]
@@ -39899,12 +39959,12 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Single"
+                    "Atk: Single"
                 ]
             },
             {
-                "特殊效果": [
-                    "Cleanse Status Ailments"
+                "负面效果": [
+                    "Status - Cleanse Ailments"
                 ]
             }
         ]
@@ -39960,13 +40020,17 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Single"
+                    "Atk: Single"
                 ]
             },
             {
                 "特殊效果": [
-                    "Dispel Buffs",
-                    "Damage ↑ : Holy"
+                    "Dmg - Dmg ↑ : Holy"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Status - Dispel Buffs"
                 ]
             }
         ]
@@ -40025,17 +40089,17 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Single"
+                    "Atk: Single"
                 ]
             },
             {
                 "特殊效果": [
-                    "Extra Damage"
+                    "Dmg - Extra"
                 ]
             },
             {
                 "负面效果": [
-                    "Defense ↓ : Special Skills"
+                    "Def - Def ↓ : Special"
                 ]
             }
         ]
@@ -40090,12 +40154,12 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Damage over Time (DoT)"
+                    "Dmg: DoT"
                 ]
             },
             {
                 "负面效果": [
-                    "Steal Healing"
+                    "Heal - Steal Healing"
                 ]
             }
         ]
@@ -40150,12 +40214,12 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Target and Nearby"
+                    "Atk: Minor to Nearby"
                 ]
             },
             {
                 "特殊效果": [
-                    "Mana on Kill"
+                    "Mana - Mana Gain (on Kill)"
                 ]
             }
         ]
@@ -40212,12 +40276,12 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Target and Nearby"
+                    "Atk: Minor to Nearby"
                 ]
             },
             {
                 "特殊效果": [
-                    "Mana on Kill"
+                    "Mana - Mana Gain (on Kill)"
                 ]
             }
         ]
@@ -40271,8 +40335,8 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "增益效果": [
-                    "Attack ↑",
-                    "hidden / Ghost Form"
+                    "Atk - Attack ↑",
+                    "Status - Hide/Ghost Form"
                 ]
             }
         ]
@@ -40331,13 +40395,13 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Over Time (HoT)"
+                    "Heal: Over Time"
                 ]
             },
             {
                 "增益效果": [
-                    "hidden / Ghost Form",
-                    "Defense ↑"
+                    "Status - Hide/Ghost Form",
+                    "Def - Defense ↑"
                 ]
             }
         ]
@@ -40399,12 +40463,12 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Variable"
+                    "Atk: Variable Targets"
                 ]
             },
             {
-                "特殊效果": [
-                    "Dispel Buffs"
+                "增益效果": [
+                    "Status - Dispel Buffs"
                 ]
             }
         ]
@@ -40468,9 +40532,13 @@ window.allHeroes =
                 ]
             },
             {
-                "特殊效果": [
-                    "Cleanse Status Ailments",
-                    "Dispel Buffs"
+                "增益效果": [
+                    "Status - Dispel Buffs"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Status - Cleanse Ailments"
                 ]
             }
         ]
@@ -40534,17 +40602,17 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Small Area / Minor"
+                    "Atk: Area"
                 ]
             },
             {
                 "增益效果": [
-                    "Attack ↑"
+                    "Atk - Attack ↑"
                 ]
             },
             {
                 "负面效果": [
-                    "Defense ↓"
+                    "Def - Defense ↓"
                 ]
             }
         ]
@@ -40595,12 +40663,12 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: All"
+                    "Atk: All"
                 ]
             },
             {
                 "增益效果": [
-                    "Defense ↑ : Holy"
+                    "Def - Def ↑ : Holy"
                 ]
             }
         ]
@@ -40654,14 +40722,14 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Damage over Time (DoT)"
+                    "Dmg: DoT"
                 ]
             },
             {
                 "负面效果": [
-                    "DoT: Poison",
-                    "Change Color / Position",
-                    "Defense ↓ : Holy"
+                    "Dmg - DoT : Poison",
+                    "Def - Change Position",
+                    "Def - Def ↓ : Holy"
                 ]
             }
         ]
@@ -40715,14 +40783,14 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Damage over Time (DoT)"
+                    "Dmg: DoT"
                 ]
             },
             {
                 "负面效果": [
-                    "DoT: Bleed",
-                    "Change Color / Position",
-                    "Defense ↓ : Holy"
+                    "Dmg - DoT : Bleed",
+                    "Def - Change Position",
+                    "Def - Def ↓ : Holy"
                 ]
             }
         ]
@@ -40779,17 +40847,17 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Single"
+                    "Atk: Single"
                 ]
             },
             {
                 "特殊效果": [
-                    "Steal Minions"
+                    "Atk - Steal Minions"
                 ]
             },
             {
                 "负面效果": [
-                    "Block Minions"
+                    "Status - Block Minions"
                 ]
             }
         ]
@@ -40838,7 +40906,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "增益效果": [
-                    "Counterattack / Reflect"
+                    "Def - Counterattack"
                 ]
             }
         ]
@@ -40887,7 +40955,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "增益效果": [
-                    "Counterattack / Reflect"
+                    "Def - Counterattack"
                 ]
             }
         ]
@@ -40942,9 +41010,9 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "增益效果": [
-                    "Counterattack / Reflect",
-                    "Damage Reduction",
-                    "Mana Recovery"
+                    "Def - Counterattack",
+                    "Def - Dmg Reduction",
+                    "Mana - Mana Gain"
                 ]
             }
         ]
@@ -40995,7 +41063,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "增益效果": [
-                    "Counterattack / Reflect"
+                    "Def - Counterattack"
                 ]
             }
         ]
@@ -41048,8 +41116,8 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "增益效果": [
-                    "Counterattack / Reflect",
-                    "Reflect Ailments"
+                    "Def - Counterattack",
+                    "Status - Reflect Ailments"
                 ]
             }
         ]
@@ -41105,17 +41173,17 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Small Area / Minor"
+                    "Atk: Area"
                 ]
             },
             {
                 "特殊效果": [
-                    "Minion"
+                    "Summon - Minion"
                 ]
             },
             {
                 "增益效果": [
-                    "Counterattack / Reflect : Holy"
+                    "Def - Reflect : Holy"
                 ]
             }
         ]
@@ -41173,14 +41241,14 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Small Area / Minor",
-                    "Attack: Damage over Time (DoT)"
+                    "Atk: Area",
+                    "Dmg: DoT"
                 ]
             },
             {
                 "负面效果": [
-                    "Mana Generation ↓ / Block",
-                    "DoT: Poison"
+                    "Mana - Mana Gen ↓/Block",
+                    "Dmg - DoT : Poison"
                 ]
             }
         ]
@@ -41235,13 +41303,13 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: All"
+                    "Atk: All"
                 ]
             },
             {
                 "负面效果": [
-                    "Max Health ↓",
-                    "Healing Amount ↓"
+                    "Heal - Max Health ↓",
+                    "Heal - Healing ↓"
                 ]
             }
         ]
@@ -41294,17 +41362,17 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Small Area / Minor"
+                    "Atk: Area"
                 ]
             },
             {
                 "特殊效果": [
-                    "Mana Cut"
+                    "Mana - Mana Cut"
                 ]
             },
             {
                 "负面效果": [
-                    "Healing Amount ↓"
+                    "Heal - Healing ↓"
                 ]
             }
         ]
@@ -41362,19 +41430,15 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Single",
-                    "Attack: Damage over Time (DoT)"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "Cleanse Status Ailments"
+                    "Atk: Single",
+                    "Dmg: DoT"
                 ]
             },
             {
                 "负面效果": [
-                    "Block Healing",
-                    "DoT: Sand"
+                    "Heal - Block Healing",
+                    "Dmg - DoT : Sand",
+                    "Status - Cleanse Ailments"
                 ]
             }
         ]
@@ -41428,17 +41492,17 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Single"
+                    "Atk: Single"
                 ]
             },
             {
                 "特殊效果": [
-                    "Reset Ailment Duration"
+                    "Status - Reset Ailment Duration"
                 ]
             },
             {
                 "负面效果": [
-                    "Defense ↓"
+                    "Def - Defense ↓"
                 ]
             }
         ]
@@ -41495,15 +41559,19 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: All",
-                    "Attack: Damage over Time (DoT)"
+                    "Atk: All",
+                    "Dmg: DoT"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Status - Reduce Buff Duration"
                 ]
             },
             {
                 "负面效果": [
-                    "Reduce Buff Duration",
-                    "DoT: Poison",
-                    "Mana Generation ↓ / Block"
+                    "Dmg - DoT : Poison",
+                    "Mana - Mana Gen ↓/Block"
                 ]
             }
         ]
@@ -41561,19 +41629,15 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Target and Nearby",
-                    "Attack: Damage over Time (DoT)"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "Cleanse Status Ailments"
+                    "Atk: Minor to Nearby",
+                    "Dmg: DoT"
                 ]
             },
             {
                 "负面效果": [
-                    "Healing Amount ↓",
-                    "DoT: Sand"
+                    "Heal - Healing ↓",
+                    "Dmg - DoT : Sand",
+                    "Status - Cleanse Ailments"
                 ]
             }
         ]
@@ -41630,20 +41694,20 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Small Area / Minor",
-                    "Heal: From Damage Dealt",
-                    "Attack: Damage over Time (DoT)"
+                    "Atk: Area",
+                    "Heal: From Dmg",
+                    "Dmg: DoT"
                 ]
             },
             {
                 "特殊效果": [
-                    "Bypass Dodge",
-                    "Damage ↑ : Holy"
+                    "Atk - Bypass Dodge",
+                    "Dmg - Dmg ↑ : Holy"
                 ]
             },
             {
                 "负面效果": [
-                    "DoT: Poison"
+                    "Dmg - DoT : Poison"
                 ]
             }
         ]
@@ -41701,13 +41765,13 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Over Time (HoT)"
+                    "Heal: Over Time"
                 ]
             },
             {
                 "增益效果": [
-                    "Reflect Ailments",
-                    "Defense ↑"
+                    "Status - Reflect Ailments",
+                    "Def - Defense ↑"
                 ]
             }
         ]
@@ -41762,12 +41826,12 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Single"
+                    "Atk: Single"
                 ]
             },
             {
                 "负面效果": [
-                    "Defense ↓"
+                    "Def - Defense ↓"
                 ]
             }
         ]
@@ -41830,13 +41894,13 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "增益效果": [
-                    "Damage Share",
-                    "Defense ↑ : Holy"
+                    "Def - Dmg Share",
+                    "Def - Def ↑ : Holy"
                 ]
             },
             {
                 "负面效果": [
-                    "Defense ↓ : Dark"
+                    "Def - Def ↓ : Dark"
                 ]
             }
         ]
@@ -41891,13 +41955,13 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Single",
-                    "Attack: Damage over Time (DoT)"
+                    "Atk: Single",
+                    "Dmg: DoT"
                 ]
             },
             {
                 "负面效果": [
-                    "DoT: Poison"
+                    "Dmg - DoT : Poison"
                 ]
             }
         ]
@@ -41951,17 +42015,17 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Single"
+                    "Atk: Single"
                 ]
             },
             {
                 "特殊效果": [
-                    "Extra Damage"
+                    "Dmg - Extra"
                 ]
             },
             {
                 "负面效果": [
-                    "Confusion / Silence / Sleep"
+                    "Mana - Mindless/Silence/Sleep"
                 ]
             }
         ]
@@ -42015,17 +42079,17 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Small Area / Minor"
+                    "Atk: Area"
                 ]
             },
             {
                 "特殊效果": [
-                    "Extra Damage"
+                    "Dmg - Extra"
                 ]
             },
             {
                 "负面效果": [
-                    "Confusion / Silence / Sleep"
+                    "Mana - Mindless/Silence/Sleep"
                 ]
             }
         ]
@@ -42077,13 +42141,13 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Damage over Time (DoT)"
+                    "Dmg: DoT"
                 ]
             },
             {
                 "负面效果": [
-                    "Mana Generation ↓ / Block",
-                    "DoT: Poison"
+                    "Mana - Mana Gen ↓/Block",
+                    "Dmg - DoT : Poison"
                 ]
             }
         ]
@@ -42135,13 +42199,13 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Damage over Time (DoT)"
+                    "Dmg: DoT"
                 ]
             },
             {
                 "负面效果": [
-                    "Mana Generation ↓ / Block",
-                    "DoT: Poison"
+                    "Mana - Mana Gen ↓/Block",
+                    "Dmg - DoT : Poison"
                 ]
             }
         ]
@@ -42197,8 +42261,8 @@ window.allHeroes =
                 ]
             },
             {
-                "特殊效果": [
-                    "Cleanse Status Ailments"
+                "负面效果": [
+                    "Status - Cleanse Ailments"
                 ]
             }
         ]
@@ -42253,17 +42317,17 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Over Time (HoT)"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "Cleanse Status Ailments"
+                    "Heal: Over Time"
                 ]
             },
             {
                 "增益效果": [
-                    "Attack ↑"
+                    "Atk - Attack ↑"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Status - Cleanse Ailments"
                 ]
             }
         ]
@@ -42318,17 +42382,17 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Boost"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "Cleanse Status Ailments"
+                    "Heal: Boost Health"
                 ]
             },
             {
                 "增益效果": [
-                    "Defense ↑"
+                    "Def - Defense ↑"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Status - Cleanse Ailments"
                 ]
             }
         ]
@@ -42389,13 +42453,13 @@ window.allHeroes =
                 ]
             },
             {
-                "特殊效果": [
-                    "Cleanse Status Ailments"
+                "增益效果": [
+                    "Def - Defense ↑"
                 ]
             },
             {
-                "增益效果": [
-                    "Defense ↑"
+                "负面效果": [
+                    "Status - Cleanse Ailments"
                 ]
             }
         ]
@@ -42451,8 +42515,8 @@ window.allHeroes =
                 ]
             },
             {
-                "特殊效果": [
-                    "Dispel Buffs"
+                "增益效果": [
+                    "Status - Dispel Buffs"
                 ]
             }
         ]
@@ -42507,17 +42571,17 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Over Time (HoT)"
+                    "Heal: Over Time"
                 ]
             },
             {
-                "特殊效果": [
-                    "Dispel Buffs"
+                "增益效果": [
+                    "Status - Dispel Buffs"
                 ]
             },
             {
                 "负面效果": [
-                    "Buff Immunity / Block Buffs"
+                    "Status - Buff Immunity"
                 ]
             }
         ]
@@ -42572,17 +42636,17 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Over Time (HoT)"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "Cleanse Status Ailments"
+                    "Heal: Over Time"
                 ]
             },
             {
                 "增益效果": [
-                    "Immunity to Status Ailments"
+                    "Status - Ailment Immunity"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Status - Cleanse Ailments"
                 ]
             }
         ]
@@ -42643,14 +42707,14 @@ window.allHeroes =
                 ]
             },
             {
-                "特殊效果": [
-                    "Dispel Buffs",
-                    "Cleanse Status Ailments"
+                "增益效果": [
+                    "Def - Defense ↑",
+                    "Status - Dispel Buffs"
                 ]
             },
             {
-                "增益效果": [
-                    "Defense ↑"
+                "负面效果": [
+                    "Status - Cleanse Ailments"
                 ]
             }
         ]
@@ -42709,12 +42773,12 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "增益效果": [
-                    "Attack ↑"
+                    "Atk - Attack ↑"
                 ]
             },
             {
                 "负面效果": [
-                    "Defense ↓ : Dark"
+                    "Def - Def ↓ : Dark"
                 ]
             }
         ]
@@ -42775,8 +42839,8 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "增益效果": [
-                    "Critical Chance ↑",
-                    "Attack ↑"
+                    "Atk - Crit Chance ↑",
+                    "Atk - Attack ↑"
                 ]
             }
         ]
@@ -42838,8 +42902,8 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "增益效果": [
-                    "Critical Chance ↑",
-                    "Attack ↑"
+                    "Atk - Crit Chance ↑",
+                    "Atk - Attack ↑"
                 ]
             }
         ]
@@ -42895,14 +42959,14 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: All"
+                    "Atk: All"
                 ]
             },
             {
                 "负面效果": [
-                    "Buff Immunity / Block Buffs",
-                    "Madness",
-                    "Self-Debuff"
+                    "Status - Buff Immunity",
+                    "Status - Insanity",
+                    "Status - Self-Debuff"
                 ]
             }
         ]
@@ -42959,13 +43023,13 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Both Ends",
-                    "Attack: Damage over Time (DoT)"
+                    "Atk: Edges",
+                    "Dmg: DoT"
                 ]
             },
             {
                 "负面效果": [
-                    "DoT: Poison"
+                    "Dmg - DoT : Poison"
                 ]
             }
         ]
@@ -43022,12 +43086,12 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Random"
+                    "Atk: Random"
                 ]
             },
             {
                 "增益效果": [
-                    "hidden / Ghost Form"
+                    "Status - Hide/Ghost Form"
                 ]
             }
         ]
@@ -43079,12 +43143,12 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Target and Nearby"
+                    "Atk: Minor to Nearby"
                 ]
             },
             {
                 "负面效果": [
-                    "Defense ↓"
+                    "Def - Defense ↓"
                 ]
             }
         ]
@@ -43136,12 +43200,12 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: All"
+                    "Atk: All"
                 ]
             },
             {
                 "负面效果": [
-                    "Defense ↓"
+                    "Def - Defense ↓"
                 ]
             }
         ]
@@ -43193,12 +43257,12 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Target and Nearby"
+                    "Atk: Minor to Nearby"
                 ]
             },
             {
                 "负面效果": [
-                    "Max Health ↓"
+                    "Heal - Max Health ↓"
                 ]
             }
         ]
@@ -43254,17 +43318,17 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Target and Nearby"
+                    "Atk: Minor to Nearby"
                 ]
             },
             {
                 "特殊效果": [
-                    "Damage ↑ : Holy"
+                    "Dmg - Dmg ↑ : Holy"
                 ]
             },
             {
                 "负面效果": [
-                    "Defense ↓"
+                    "Def - Defense ↓"
                 ]
             }
         ]
@@ -43324,14 +43388,14 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Small Area / Minor"
+                    "Atk: Area"
                 ]
             },
             {
                 "负面效果": [
-                    "Reflect Buff",
-                    "Weaken: Attack",
-                    "Weaken: Defense"
+                    "Status - Reflect Buffs",
+                    "Atk - Wither : Atk↓",
+                    "Def - Wither : Def↓"
                 ]
             }
         ]
@@ -43390,17 +43454,17 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Damage over Time (DoT)"
+                    "Dmg: DoT"
                 ]
             },
             {
                 "特殊效果": [
-                    "Fiend"
+                    "Summon - Fiend"
                 ]
             },
             {
                 "负面效果": [
-                    "DoT: Bleed"
+                    "Dmg - DoT : Bleed"
                 ]
             }
         ]
@@ -43458,17 +43522,17 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Over Time (HoT)"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "Cleanse Status Ailments"
+                    "Heal: Over Time"
                 ]
             },
             {
                 "增益效果": [
-                    "Block Ailments"
+                    "Status - Block Ailments"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Status - Cleanse Ailments"
                 ]
             }
         ]
@@ -43530,7 +43594,7 @@ window.allHeroes =
             },
             {
                 "特殊效果": [
-                    "Redistribute Ailments"
+                    "Status - Redistribute Ailments"
                 ]
             }
         ]
@@ -43600,21 +43664,21 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Over Time (HoT)",
-                    "Attack: Damage over Time (DoT)"
+                    "Heal: Over Time",
+                    "Dmg: DoT"
                 ]
             },
             {
                 "增益效果": [
-                    "Attack ↑",
-                    "Defense ↑"
+                    "Atk - Attack ↑",
+                    "Def - Defense ↑"
                 ]
             },
             {
                 "负面效果": [
-                    "Attack ↓",
-                    "Defense ↓",
-                    "DoT: Poison"
+                    "Atk - Attack ↓",
+                    "Def - Defense ↓",
+                    "Dmg - DoT : Poison"
                 ]
             }
         ]
@@ -43685,22 +43749,22 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Boost",
-                    "Heal: Over Time (HoT)",
-                    "Attack: Damage over Time (DoT)"
+                    "Heal: Boost Health",
+                    "Heal: Over Time",
+                    "Dmg: DoT"
                 ]
             },
             {
                 "增益效果": [
-                    "Attack ↑",
-                    "Defense ↑"
+                    "Atk - Attack ↑",
+                    "Def - Defense ↑"
                 ]
             },
             {
                 "负面效果": [
-                    "Attack ↓",
-                    "Defense ↓",
-                    "DoT: Poison"
+                    "Atk - Attack ↓",
+                    "Def - Defense ↓",
+                    "Dmg - DoT : Poison"
                 ]
             }
         ]
@@ -43760,17 +43824,17 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Single"
+                    "Atk: Single"
                 ]
             },
             {
                 "特殊效果": [
-                    "Steal Minions"
+                    "Atk - Steal Minions"
                 ]
             },
             {
                 "负面效果": [
-                    "Accuracy ↓"
+                    "Atk - Accuracy ↓"
                 ]
             }
         ]
@@ -43826,13 +43890,13 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Random"
+                    "Atk: Random"
                 ]
             },
             {
                 "负面效果": [
-                    "Max Health ↓",
-                    "Confusion / Silence / Sleep"
+                    "Heal - Max Health ↓",
+                    "Mana - Mindless/Silence/Sleep"
                 ]
             }
         ]
@@ -43888,13 +43952,13 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Random"
+                    "Atk: Random"
                 ]
             },
             {
                 "负面效果": [
-                    "Max Health ↓",
-                    "Confusion / Silence / Sleep"
+                    "Heal - Max Health ↓",
+                    "Mana - Mindless/Silence/Sleep"
                 ]
             }
         ]
@@ -43958,12 +44022,12 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: All"
+                    "Atk: All"
                 ]
             },
             {
                 "特殊效果": [
-                    "Fiend"
+                    "Summon - Fiend"
                 ]
             }
         ]
@@ -44031,13 +44095,13 @@ window.allHeroes =
             },
             {
                 "特殊效果": [
-                    "Steal Buffs"
+                    "Status - Steal Buffs"
                 ]
             },
             {
                 "负面效果": [
-                    "Confusion / Silence / Sleep",
-                    "Increased Damage Taken ↑"
+                    "Mana - Mindless/Silence/Sleep",
+                    "Def - Dmg Taken ↑"
                 ]
             }
         ]
@@ -44096,14 +44160,14 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Damage over Time (DoT)"
+                    "Dmg: DoT"
                 ]
             },
             {
                 "负面效果": [
-                    "Buff Immunity / Block Buffs",
-                    "DoT: Poison",
-                    "Defense ↓"
+                    "Status - Buff Immunity",
+                    "Dmg - DoT : Poison",
+                    "Def - Defense ↓"
                 ]
             }
         ]
@@ -44164,14 +44228,14 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Damage over Time (DoT)"
+                    "Dmg: DoT"
                 ]
             },
             {
                 "负面效果": [
-                    "Buff Immunity / Block Buffs",
-                    "DoT: Poison",
-                    "Defense ↓"
+                    "Status - Buff Immunity",
+                    "Dmg - DoT : Poison",
+                    "Def - Defense ↓"
                 ]
             }
         ]
@@ -44231,14 +44295,14 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Boost",
-                    "Attack: Small Area / Minor"
+                    "Heal: Boost Health",
+                    "Atk: Area"
                 ]
             },
             {
                 "增益效果": [
-                    "Immunity to Status Ailments",
-                    "Defense ↑"
+                    "Status - Ailment Immunity",
+                    "Def - Defense ↑"
                 ]
             }
         ]
@@ -44297,17 +44361,17 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Single"
+                    "Atk: Single"
                 ]
             },
             {
                 "特殊效果": [
-                    "Extra Damage"
+                    "Dmg - Extra"
                 ]
             },
             {
                 "增益效果": [
-                    "Dodge"
+                    "Def - Dodge"
                 ]
             }
         ]
@@ -44362,14 +44426,14 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Small Area / Minor"
+                    "Atk: Area"
                 ]
             },
             {
                 "负面效果": [
-                    "Block Cleanse",
-                    "Madness",
-                    "Self-Debuff"
+                    "Status - Block Cleanse",
+                    "Status - Insanity",
+                    "Status - Self-Debuff"
                 ]
             }
         ]
@@ -44427,13 +44491,13 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: All"
+                    "Atk: All"
                 ]
             },
             {
                 "增益效果": [
-                    "Dodge",
-                    "Stack: Defense ↑"
+                    "Def - Dodge",
+                    "Def - Stack : Def ↑"
                 ]
             }
         ]
@@ -44493,13 +44557,13 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: All"
+                    "Atk: All"
                 ]
             },
             {
                 "增益效果": [
-                    "Dodge",
-                    "Stack: Defense ↑"
+                    "Def - Dodge",
+                    "Def - Stack : Def ↑"
                 ]
             }
         ]
@@ -44563,22 +44627,22 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Single"
+                    "Atk: Single"
                 ]
             },
             {
                 "特殊效果": [
-                    "Extra Attack"
+                    "Atk - Extra Attack"
                 ]
             },
             {
                 "增益效果": [
-                    "Mana Recovery"
+                    "Mana - Mana Gain"
                 ]
             },
             {
                 "负面效果": [
-                    "Mana Generation ↓ / Block"
+                    "Mana - Mana Gen ↓/Block"
                 ]
             }
         ]
@@ -44643,8 +44707,8 @@ window.allHeroes =
             },
             {
                 "增益效果": [
-                    "Block Buff Dispelling",
-                    "Attack ↑"
+                    "Status - Block Buff Dispel",
+                    "Atk - Attack ↑"
                 ]
             }
         ]
@@ -44700,18 +44764,18 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Damage over Time (DoT)"
+                    "Dmg: DoT"
                 ]
             },
             {
                 "特殊效果": [
-                    "Minion"
+                    "Summon - Minion"
                 ]
             },
             {
                 "负面效果": [
-                    "Block Minions",
-                    "DoT: Poison"
+                    "Status - Block Minions",
+                    "Dmg - DoT : Poison"
                 ]
             }
         ]
@@ -44767,18 +44831,18 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Damage over Time (DoT)"
+                    "Dmg: DoT"
                 ]
             },
             {
                 "特殊效果": [
-                    "Minion"
+                    "Summon - Minion"
                 ]
             },
             {
                 "负面效果": [
-                    "Block Minions",
-                    "DoT: Poison"
+                    "Status - Block Minions",
+                    "Dmg - DoT : Poison"
                 ]
             }
         ]
@@ -44832,19 +44896,15 @@ window.allHeroes =
         },
         "cn_skill_info": [
             {
-                "特殊效果": [
-                    "Dispel Buffs"
-                ]
-            },
-            {
                 "增益效果": [
-                    "Counterattack / Reflect",
-                    "Mana Generation ↑"
+                    "Def - Counterattack",
+                    "Mana - Mana Gen ↑",
+                    "Status - Dispel Buffs"
                 ]
             },
             {
                 "负面效果": [
-                    "Mana Generation ↓ / Block"
+                    "Mana - Mana Gen ↓/Block"
                 ]
             }
         ]
@@ -44910,12 +44970,12 @@ window.allHeroes =
             },
             {
                 "特殊效果": [
-                    "Redistribute Ailments"
+                    "Status - Redistribute Ailments"
                 ]
             },
             {
                 "增益效果": [
-                    "Mana Generation ↑"
+                    "Mana - Mana Gen ↑"
                 ]
             }
         ]
@@ -44970,13 +45030,13 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: All",
-                    "Heal: Boost"
+                    "Atk: All",
+                    "Heal: Boost Health"
                 ]
             },
             {
                 "增益效果": [
-                    "Dodge"
+                    "Def - Dodge"
                 ]
             }
         ]
@@ -45034,18 +45094,18 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Single"
+                    "Atk: Single"
                 ]
             },
             {
                 "特殊效果": [
-                    "Extra Attack",
-                    "Damage ↑ : Holy"
+                    "Atk - Extra Attack",
+                    "Dmg - Dmg ↑ : Holy"
                 ]
             },
             {
                 "增益效果": [
-                    "Damage Reduction"
+                    "Def - Dmg Reduction"
                 ]
             }
         ]
@@ -45105,13 +45165,13 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: All"
+                    "Atk: All"
                 ]
             },
             {
                 "负面效果": [
-                    "Buff Immunity / Block Buffs",
-                    "Mana Generation ↓ / Block"
+                    "Status - Buff Immunity",
+                    "Mana - Mana Gen ↓/Block"
                 ]
             }
         ]
@@ -45179,19 +45239,19 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Single"
+                    "Atk: Single"
                 ]
             },
             {
                 "特殊效果": [
-                    "Extra Damage"
+                    "Dmg - Extra"
                 ]
             },
             {
                 "增益效果": [
-                    "Critical Chance ↑",
-                    "Attack ↑",
-                    "hidden / Ghost Form"
+                    "Atk - Crit Chance ↑",
+                    "Atk - Attack ↑",
+                    "Status - Hide/Ghost Form"
                 ]
             }
         ]
@@ -45257,10 +45317,10 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Boost",
+                    "Heal: Boost Health",
                     "Heal: Instant",
-                    "Heal: Over Time (HoT)",
-                    "Revive"
+                    "Heal: Over Time",
+                    "Heal: Revive"
                 ]
             }
         ]
@@ -45318,18 +45378,18 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Small Area / Minor",
-                    "Attack: Damage over Time (DoT)"
+                    "Atk: Area",
+                    "Dmg: DoT"
                 ]
             },
             {
                 "特殊效果": [
-                    "Damage ↑ : Holy"
+                    "Dmg - Dmg ↑ : Holy"
                 ]
             },
             {
                 "负面效果": [
-                    "DoT: Poison"
+                    "Dmg - DoT : Poison"
                 ]
             }
         ]
@@ -45388,15 +45448,19 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Single",
-                    "Attack: Damage over Time (DoT)"
+                    "Atk: Single",
+                    "Dmg: DoT"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Status - Reduce Buff Duration"
                 ]
             },
             {
                 "负面效果": [
-                    "Reduce Buff Duration",
-                    "Mana Generation ↓ / Block",
-                    "DoT: Poison"
+                    "Mana - Mana Gen ↓/Block",
+                    "Dmg - DoT : Poison"
                 ]
             }
         ]
@@ -45457,15 +45521,19 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Single",
-                    "Attack: Damage over Time (DoT)"
+                    "Atk: Single",
+                    "Dmg: DoT"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Status - Reduce Buff Duration"
                 ]
             },
             {
                 "负面效果": [
-                    "Reduce Buff Duration",
-                    "Mana Generation ↓ / Block",
-                    "DoT: Poison"
+                    "Mana - Mana Gen ↓/Block",
+                    "Dmg - DoT : Poison"
                 ]
             }
         ]
@@ -45525,22 +45593,18 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: All"
+                    "Atk: All"
                 ]
             },
             {
                 "特殊效果": [
-                    "Reduce Ailment Duration"
+                    "Status - Reduce Ailment Duration",
+                    "Status - Reduce Buff Duration"
                 ]
             },
             {
                 "增益效果": [
-                    "Block Buff Dispelling"
-                ]
-            },
-            {
-                "负面效果": [
-                    "Reduce Buff Duration"
+                    "Status - Block Buff Dispel"
                 ]
             }
         ]
@@ -45604,13 +45668,13 @@ window.allHeroes =
             },
             {
                 "特殊效果": [
-                    "Extra Attack"
+                    "Atk - Extra Attack"
                 ]
             },
             {
                 "增益效果": [
-                    "Growth: Attack",
-                    "Growth: Defense"
+                    "Def - Growth : Def↑",
+                    "防御-成长：防御力↑"
                 ]
             }
         ]
@@ -45671,18 +45735,18 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Single"
+                    "Atk: Single"
                 ]
             },
             {
                 "特殊效果": [
-                    "Redistribute Buffs",
-                    "Extra Damage"
+                    "Status - Redistribute Buffs",
+                    "Dmg - Extra"
                 ]
             },
             {
                 "负面效果": [
-                    "Weaken: Defense"
+                    "Def - Wither : Def↓"
                 ]
             }
         ]
@@ -45743,17 +45807,17 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Small Area / Minor"
+                    "Atk: Area"
                 ]
             },
             {
                 "特殊效果": [
-                    "Steal Buffs"
+                    "Status - Steal Buffs"
                 ]
             },
             {
                 "增益效果": [
-                    "Growth: Attack"
+                    "Def - Growth : Def↑"
                 ]
             }
         ]
@@ -45812,8 +45876,8 @@ window.allHeroes =
             },
             {
                 "特殊效果": [
-                    "Minion",
-                    "Steal Buffs"
+                    "Summon - Minion",
+                    "Status - Steal Buffs"
                 ]
             }
         ]
@@ -45877,8 +45941,8 @@ window.allHeroes =
             },
             {
                 "特殊效果": [
-                    "Minion",
-                    "Steal Buffs"
+                    "Summon - Minion",
+                    "Status - Steal Buffs"
                 ]
             }
         ]
@@ -45933,17 +45997,13 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Single"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "Dispel Buffs"
+                    "Atk: Single"
                 ]
             },
             {
                 "增益效果": [
-                    "Defense ↑ : Holy"
+                    "Def - Def ↑ : Holy",
+                    "Status - Dispel Buffs"
                 ]
             }
         ]
@@ -45998,18 +46058,14 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Single",
-                    "Attack: Damage over Time (DoT)"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "Cleanse Status Ailments"
+                    "Atk: Single",
+                    "Dmg: DoT"
                 ]
             },
             {
                 "负面效果": [
-                    "DoT: Poison"
+                    "Dmg - DoT : Poison",
+                    "Status - Cleanse Ailments"
                 ]
             }
         ]
@@ -46063,17 +46119,17 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Small Area / Minor"
+                    "Atk: Area"
                 ]
             },
             {
                 "特殊效果": [
-                    "Damage ↑ : Holy"
+                    "Dmg - Dmg ↑ : Holy"
                 ]
             },
             {
                 "负面效果": [
-                    "Defense ↓ : Dark"
+                    "Def - Def ↓ : Dark"
                 ]
             }
         ]
@@ -46132,18 +46188,18 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Single"
+                    "Atk: Single"
                 ]
             },
             {
                 "特殊效果": [
-                    "Dispel Buffs",
-                    "Damage ↑ : Holy"
+                    "Dmg - Dmg ↑ : Holy"
                 ]
             },
             {
                 "增益效果": [
-                    "Defense ↑ : Holy"
+                    "Def - Def ↑ : Holy",
+                    "Status - Dispel Buffs"
                 ]
             }
         ]
@@ -46203,17 +46259,17 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Single"
+                    "Atk: Single"
                 ]
             },
             {
                 "特殊效果": [
-                    "Bypass (Defensive Buffs)"
+                    "Atk - Bypass / Ignore"
                 ]
             },
             {
                 "增益效果": [
-                    "Defense ↑ : Holy"
+                    "Def - Def ↑ : Holy"
                 ]
             }
         ]
@@ -46267,12 +46323,12 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Small Area / Minor"
+                    "Atk: Area"
                 ]
             },
             {
                 "负面效果": [
-                    "Accuracy ↓"
+                    "Atk - Accuracy ↓"
                 ]
             }
         ]
@@ -46327,12 +46383,12 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Small Area / Minor"
+                    "Atk: Area"
                 ]
             },
             {
                 "负面效果": [
-                    "Accuracy ↓"
+                    "Atk - Accuracy ↓"
                 ]
             }
         ]
@@ -46394,18 +46450,18 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: All"
+                    "Atk: All"
                 ]
             },
             {
                 "特殊效果": [
-                    "Bypass Dodge"
+                    "Atk - Bypass Dodge"
                 ]
             },
             {
                 "负面效果": [
-                    "Mana Generation ↓ / Block",
-                    "Healing Amount ↓"
+                    "Mana - Mana Gen ↓/Block",
+                    "Heal - Healing ↓"
                 ]
             }
         ]
@@ -46464,19 +46520,19 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Single",
-                    "Attack: Damage over Time (DoT)",
-                    "Heal: From Damage Dealt"
+                    "Atk: Single",
+                    "Dmg: DoT",
+                    "Heal: From Dmg"
                 ]
             },
             {
                 "特殊效果": [
-                    "Extra Attack"
+                    "Atk - Extra Attack"
                 ]
             },
             {
                 "负面效果": [
-                    "DoT: Bleed"
+                    "Dmg - DoT : Bleed"
                 ]
             }
         ]
@@ -46545,8 +46601,8 @@ window.allHeroes =
             },
             {
                 "增益效果": [
-                    "Immunity to Status Ailments",
-                    "Damage Reduction"
+                    "Status - Ailment Immunity",
+                    "Def - Dmg Reduction"
                 ]
             }
         ]
@@ -46600,12 +46656,12 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Single"
+                    "Atk: Single"
                 ]
             },
             {
                 "负面效果": [
-                    "Increased Damage Taken ↑"
+                    "Def - Dmg Taken ↑"
                 ]
             }
         ]
@@ -46673,19 +46729,19 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Single"
+                    "Atk: Single"
                 ]
             },
             {
                 "特殊效果": [
-                    "Destroy Minions",
-                    "Mana on Kill",
-                    "Self-Heal"
+                    "Atk - Destroy Minions",
+                    "Mana - Mana Gain (on Kill)",
+                    "Heal - Self Recovery"
                 ]
             },
             {
                 "增益效果": [
-                    "Mimic"
+                    "Def - Mimic"
                 ]
             }
         ]
@@ -46746,13 +46802,13 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Single",
-                    "Attack: Random"
+                    "Atk: Single",
+                    "Atk: Random"
                 ]
             },
             {
                 "负面效果": [
-                    "Defense ↓ : Dark"
+                    "Def - Def ↓ : Dark"
                 ]
             }
         ]
@@ -46806,13 +46862,13 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "特殊效果": [
-                    "Minion",
-                    "Mega Minion"
+                    "Summon - Minion",
+                    "Summon - Mega Minion"
                 ]
             },
             {
                 "增益效果": [
-                    "Defense ↑"
+                    "Def - Defense ↑"
                 ]
             }
         ]
@@ -46866,13 +46922,13 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "特殊效果": [
-                    "Minion",
-                    "Mega Minion"
+                    "Summon - Minion",
+                    "Summon - Mega Minion"
                 ]
             },
             {
                 "增益效果": [
-                    "Dodge"
+                    "Def - Dodge"
                 ]
             }
         ]
@@ -46930,12 +46986,12 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "增益效果": [
-                    "Attack ↑"
+                    "Atk - Attack ↑"
                 ]
             },
             {
                 "负面效果": [
-                    "Increased Damage Taken ↑"
+                    "Def - Dmg Taken ↑"
                 ]
             }
         ]
@@ -46994,13 +47050,13 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Small Area / Minor"
+                    "Atk: Area"
                 ]
             },
             {
                 "负面效果": [
-                    "Weaken: Attack",
-                    "Increased Damage Taken ↑"
+                    "Atk - Wither : Atk↓",
+                    "Def - Dmg Taken ↑"
                 ]
             }
         ]
@@ -47061,13 +47117,13 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Small Area / Minor"
+                    "Atk: Area"
                 ]
             },
             {
                 "特殊效果": [
-                    "Fiend",
-                    "Steal Buffs"
+                    "Summon - Fiend",
+                    "Status - Steal Buffs"
                 ]
             }
         ]
@@ -47125,13 +47181,13 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Single"
+                    "Atk: Single"
                 ]
             },
             {
                 "负面效果": [
-                    "Mana Generation ↓ / Block",
-                    "Defense ↓"
+                    "Mana - Mana Gen ↓/Block",
+                    "Def - Defense ↓"
                 ]
             }
         ]
@@ -47185,12 +47241,12 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: All"
+                    "Atk: All"
                 ]
             },
             {
                 "特殊效果": [
-                    "Extra Damage"
+                    "Dmg - Extra"
                 ]
             }
         ]
@@ -47253,15 +47309,15 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: All",
-                    "Attack: Damage over Time (DoT)"
+                    "Atk: All",
+                    "Dmg: DoT"
                 ]
             },
             {
                 "负面效果": [
-                    "Healing Amount ↓",
-                    "Increased Damage Taken ↑",
-                    "DoT: Curse"
+                    "Heal - Healing ↓",
+                    "Def - Dmg Taken ↑",
+                    "Dmg - DoT : Curse"
                 ]
             }
         ]
@@ -47319,8 +47375,12 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "特殊效果": [
-                    "Mana Cut",
-                    "Mana Recovery"
+                    "Mana - Mana Cut"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Mana - Mana Gain"
                 ]
             }
         ]
@@ -47378,13 +47438,17 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: All"
+                    "Atk: All"
                 ]
             },
             {
                 "特殊效果": [
-                    "Mana Recovery",
-                    "Destroy Minions"
+                    "Atk - Destroy Minions"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Mana - Mana Gain"
                 ]
             }
         ]
@@ -47439,17 +47503,17 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Small Area / Minor"
+                    "Atk: Area"
                 ]
             },
             {
-                "特殊效果": [
-                    "Dispel Buffs"
+                "增益效果": [
+                    "Status - Dispel Buffs"
                 ]
             },
             {
                 "负面效果": [
-                    "Defense ↓ : Dark"
+                    "Def - Def ↓ : Dark"
                 ]
             }
         ]
@@ -47503,13 +47567,13 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: All"
+                    "Atk: All"
                 ]
             },
             {
                 "负面效果": [
-                    "Buff Immunity / Block Buffs",
-                    "Defense ↓ : Dark"
+                    "Status - Buff Immunity",
+                    "Def - Def ↓ : Dark"
                 ]
             }
         ]
@@ -47575,13 +47639,13 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Small Area / Minor"
+                    "Atk: Area"
                 ]
             },
             {
                 "增益效果": [
-                    "Attack ↑",
-                    "Self-Revive"
+                    "Atk - Attack ↑",
+                    "Heal - Self Revive"
                 ]
             }
         ]
@@ -47640,17 +47704,17 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Small Area / Minor"
+                    "Atk: Area"
                 ]
             },
             {
                 "特殊效果": [
-                    "Fiend"
+                    "Summon - Fiend"
                 ]
             },
             {
                 "负面效果": [
-                    "Attack ↓"
+                    "Atk - Attack ↓"
                 ]
             }
         ]
@@ -47709,17 +47773,17 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Small Area / Minor"
+                    "Atk: Area"
                 ]
             },
             {
                 "特殊效果": [
-                    "Fiend"
+                    "Summon - Fiend"
                 ]
             },
             {
                 "负面效果": [
-                    "Attack ↓"
+                    "Atk - Attack ↓"
                 ]
             }
         ]
@@ -47780,14 +47844,14 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Boost",
-                    "Heal: Over Time (HoT)"
+                    "Heal: Boost Health",
+                    "Heal: Over Time"
                 ]
             },
             {
                 "增益效果": [
-                    "Mana Recovery",
-                    "Reflect Ailments"
+                    "Mana - Mana Gain",
+                    "Status - Reflect Ailments"
                 ]
             }
         ]
@@ -47844,17 +47908,17 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Target and Nearby"
+                    "Atk: Minor to Nearby"
                 ]
             },
             {
                 "特殊效果": [
-                    "Damage ↑ : Holy"
+                    "Dmg - Dmg ↑ : Holy"
                 ]
             },
             {
                 "负面效果": [
-                    "Mana Generation ↓ / Block"
+                    "Mana - Mana Gen ↓/Block"
                 ]
             }
         ]
@@ -47914,17 +47978,17 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: All"
+                    "Atk: All"
                 ]
             },
             {
                 "特殊效果": [
-                    "Damage ↑ : Holy"
+                    "Dmg - Dmg ↑ : Holy"
                 ]
             },
             {
                 "负面效果": [
-                    "Mana Drain"
+                    "Mana - Mana Steal"
                 ]
             }
         ]
@@ -47987,14 +48051,18 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: All"
+                    "Atk: All"
                 ]
             },
             {
                 "特殊效果": [
-                    "Mana Drain",
-                    "Steal Buffs",
-                    "Damage ↑ : Nature"
+                    "Status - Steal Buffs",
+                    "Dmg - Dmg ↑ : Nature"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Mana - Mana Steal"
                 ]
             }
         ]
@@ -48050,14 +48118,14 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "特殊效果": [
-                    "Minion",
-                    "Heal from Minions"
+                    "Summon - Minion",
+                    "Heal - From Minions"
                 ]
             },
             {
                 "增益效果": [
-                    "Mana Generation ↑",
-                    "Defense ↑"
+                    "Mana - Mana Gen ↑",
+                    "Def - Defense ↑"
                 ]
             }
         ]
@@ -48114,14 +48182,14 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "特殊效果": [
-                    "Minion",
-                    "Heal from Minions"
+                    "Summon - Minion",
+                    "Heal - From Minions"
                 ]
             },
             {
                 "增益效果": [
-                    "Mana Generation ↑",
-                    "Defense ↑"
+                    "Mana - Mana Gen ↑",
+                    "Def - Defense ↑"
                 ]
             }
         ]
@@ -48180,19 +48248,19 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Single"
+                    "Atk: Single"
                 ]
             },
             {
                 "特殊效果": [
-                    "Bypass Dodge"
+                    "Atk - Bypass Dodge"
                 ]
             },
             {
                 "负面效果": [
-                    "Madness",
-                    "Defense ↓",
-                    "Self-Debuff"
+                    "Status - Insanity",
+                    "Def - Defense ↓",
+                    "Status - Self-Debuff"
                 ]
             }
         ]
@@ -48254,24 +48322,24 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Small Area / Minor",
-                    "Attack: Damage over Time (DoT)"
+                    "Atk: Area",
+                    "Dmg: DoT"
                 ]
             },
             {
                 "特殊效果": [
-                    "Heal from Damage",
-                    "Reset Ailment Duration"
+                    "Heal - From Dmg",
+                    "Status - Reset Ailment Duration"
                 ]
             },
             {
                 "增益效果": [
-                    "Attack ↑"
+                    "Atk - Attack ↑"
                 ]
             },
             {
                 "负面效果": [
-                    "DoT: Burn"
+                    "Dmg - DoT : Burn"
                 ]
             }
         ]
@@ -48323,13 +48391,13 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Both Ends",
-                    "Attack: Damage over Time (DoT)"
+                    "Atk: Edges",
+                    "Dmg: DoT"
                 ]
             },
             {
                 "负面效果": [
-                    "DoT: Poison"
+                    "Dmg - DoT : Poison"
                 ]
             }
         ]
@@ -48384,14 +48452,14 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Both Ends",
-                    "Attack: Damage over Time (DoT)"
+                    "Atk: Edges",
+                    "Dmg: DoT"
                 ]
             },
             {
                 "负面效果": [
-                    "Mana Generation ↓ / Block",
-                    "DoT: Poison"
+                    "Mana - Mana Gen ↓/Block",
+                    "Dmg - DoT : Poison"
                 ]
             }
         ]
@@ -48460,19 +48528,19 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Single",
-                    "Attack: Damage over Time (DoT)",
-                    "Heal: From Damage Dealt"
+                    "Atk: Single",
+                    "Dmg: DoT",
+                    "Heal: From Dmg"
                 ]
             },
             {
                 "特殊效果": [
-                    "Heal from Damage"
+                    "Heal - From Dmg"
                 ]
             },
             {
                 "负面效果": [
-                    "DoT: Poison"
+                    "Dmg - DoT : Poison"
                 ]
             }
         ]
@@ -48526,13 +48594,17 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Single"
+                    "Atk: Single"
                 ]
             },
             {
                 "特殊效果": [
-                    "Extra Damage",
-                    "Dispel Buffs"
+                    "Dmg - Extra"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Status - Dispel Buffs"
                 ]
             }
         ]
@@ -48590,18 +48662,18 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Single"
+                    "Atk: Single"
                 ]
             },
             {
-                "特殊效果": [
-                    "Dispel Buffs"
+                "增益效果": [
+                    "Status - Dispel Buffs"
                 ]
             },
             {
                 "负面效果": [
-                    "Buff Immunity / Block Buffs",
-                    "Defense ↓"
+                    "Status - Buff Immunity",
+                    "Def - Defense ↓"
                 ]
             }
         ]
@@ -48655,12 +48727,12 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: All"
+                    "Atk: All"
                 ]
             },
             {
                 "特殊效果": [
-                    "Transform: Attack Power"
+                    "Dmg - Tile : Up"
                 ]
             }
         ]
@@ -48719,13 +48791,13 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: All"
+                    "Atk: All"
                 ]
             },
             {
                 "特殊效果": [
-                    "Transform: Attack Power",
-                    "Damage ↑ : Holy"
+                    "Dmg - Tile : Up",
+                    "Dmg - Dmg ↑ : Holy"
                 ]
             }
         ]
@@ -48779,12 +48851,12 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: All"
+                    "Atk: All"
                 ]
             },
             {
                 "特殊效果": [
-                    "Extra Damage"
+                    "Dmg - Extra"
                 ]
             }
         ]
@@ -48843,13 +48915,13 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Small Area / Minor"
+                    "Atk: Area"
                 ]
             },
             {
                 "特殊效果": [
-                    "Fiend",
-                    "Explosion / Detonation"
+                    "Summon - Fiend",
+                    "Dmg - Explosion"
                 ]
             }
         ]
@@ -48910,13 +48982,13 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Small Area / Minor"
+                    "Atk: Area"
                 ]
             },
             {
                 "特殊效果": [
-                    "Fiend",
-                    "Explosion / Detonation"
+                    "Summon - Fiend",
+                    "Dmg - Explosion"
                 ]
             }
         ]
@@ -48970,12 +49042,12 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Single"
+                    "Atk: Single"
                 ]
             },
             {
                 "增益效果": [
-                    "Attack ↑"
+                    "Atk - Attack ↑"
                 ]
             }
         ]
@@ -49032,12 +49104,12 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Single"
+                    "Atk: Single"
                 ]
             },
             {
                 "增益效果": [
-                    "Attack ↑"
+                    "Atk - Attack ↑"
                 ]
             }
         ]
@@ -49092,12 +49164,12 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Single"
+                    "Atk: Single"
                 ]
             },
             {
                 "特殊效果": [
-                    "Mana on Kill"
+                    "Mana - Mana Gain (on Kill)"
                 ]
             }
         ]
@@ -49154,12 +49226,12 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Single"
+                    "Atk: Single"
                 ]
             },
             {
                 "特殊效果": [
-                    "Mana on Kill"
+                    "Mana - Mana Gain (on Kill)"
                 ]
             }
         ]
@@ -49210,12 +49282,12 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: All"
+                    "Atk: All"
                 ]
             },
             {
                 "负面效果": [
-                    "Self-Debuff"
+                    "Status - Self-Debuff"
                 ]
             }
         ]
@@ -49266,12 +49338,12 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: All"
+                    "Atk: All"
                 ]
             },
             {
                 "负面效果": [
-                    "Self-Debuff"
+                    "Status - Self-Debuff"
                 ]
             }
         ]
@@ -49327,18 +49399,18 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Small Area / Minor"
+                    "Atk: Area"
                 ]
             },
             {
                 "特殊效果": [
-                    "Minion",
-                    "Heal from Minions"
+                    "Summon - Minion",
+                    "Heal - From Minions"
                 ]
             },
             {
                 "负面效果": [
-                    "Confusion / Silence / Sleep"
+                    "Mana - Mindless/Silence/Sleep"
                 ]
             }
         ]
@@ -49401,14 +49473,14 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Single"
+                    "Atk: Single"
                 ]
             },
             {
                 "负面效果": [
-                    "Paralysis",
-                    "Defense ↓ : Dark",
-                    "Devouring Goo"
+                    "Mana - Paralyze",
+                    "Def - Def ↓ : Dark",
+                    "Status - Devouring Goo"
                 ]
             }
         ]
@@ -49471,13 +49543,9 @@ window.allHeroes =
                 ]
             },
             {
-                "特殊效果": [
-                    "Cleanse Status Ailments"
-                ]
-            },
-            {
                 "负面效果": [
-                    "Defense ↓"
+                    "Def - Defense ↓",
+                    "Status - Cleanse Ailments"
                 ]
             }
         ]
@@ -49541,13 +49609,13 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Single",
-                    "Attack: Damage over Time (DoT)"
+                    "Atk: Single",
+                    "Dmg: DoT"
                 ]
             },
             {
                 "增益效果": [
-                    "hidden / Ghost Form"
+                    "Status - Hide/Ghost Form"
                 ]
             }
         ]
@@ -49612,13 +49680,13 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Single",
-                    "Attack: Damage over Time (DoT)"
+                    "Atk: Single",
+                    "Dmg: DoT"
                 ]
             },
             {
                 "增益效果": [
-                    "hidden / Ghost Form"
+                    "Status - Hide/Ghost Form"
                 ]
             }
         ]
@@ -49674,17 +49742,17 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: All"
+                    "Atk: All"
                 ]
             },
             {
-                "特殊效果": [
-                    "Dispel Buffs"
+                "增益效果": [
+                    "Status - Dispel Buffs"
                 ]
             },
             {
                 "负面效果": [
-                    "Defense ↓"
+                    "Def - Defense ↓"
                 ]
             }
         ]
@@ -49741,17 +49809,17 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: All"
+                    "Atk: All"
                 ]
             },
             {
                 "特殊效果": [
-                    "Fiend"
+                    "Summon - Fiend"
                 ]
             },
             {
                 "负面效果": [
-                    "Buff Immunity / Block Buffs"
+                    "Status - Buff Immunity"
                 ]
             }
         ]
@@ -49813,17 +49881,17 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: All"
+                    "Atk: All"
                 ]
             },
             {
                 "特殊效果": [
-                    "Fiend"
+                    "Summon - Fiend"
                 ]
             },
             {
                 "负面效果": [
-                    "Buff Immunity / Block Buffs"
+                    "Status - Buff Immunity"
                 ]
             }
         ]
@@ -49883,19 +49951,19 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Over Time (HoT)",
-                    "Attack: Small Area / Minor"
+                    "Heal: Over Time",
+                    "Atk: Area"
                 ]
             },
             {
                 "特殊效果": [
-                    "Self-Heal"
+                    "Heal - Self Recovery"
                 ]
             },
             {
                 "负面效果": [
-                    "Accuracy ↓",
-                    "Defense ↓"
+                    "Atk - Accuracy ↓",
+                    "Def - Defense ↓"
                 ]
             }
         ]
@@ -49949,9 +50017,9 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "增益效果": [
-                    "Mana Recovery",
-                    "Taunt",
-                    "Defense ↑ : Special Skills"
+                    "Mana - Mana Gain",
+                    "Def - Taunt",
+                    "Def - Def ↑ : Special"
                 ]
             }
         ]
@@ -50013,8 +50081,8 @@ window.allHeroes =
             },
             {
                 "特殊效果": [
-                    "Mana Cut",
-                    "Extra Attack"
+                    "Mana - Mana Cut",
+                    "Atk - Extra Attack"
                 ]
             }
         ]
@@ -50077,18 +50145,18 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: All"
+                    "Atk: All"
                 ]
             },
             {
                 "特殊效果": [
-                    "Fiend"
+                    "Summon - Fiend"
                 ]
             },
             {
                 "负面效果": [
-                    "Buff Immunity / Block Buffs",
-                    "Defense ↓ : Dark"
+                    "Status - Buff Immunity",
+                    "Def - Def ↓ : Dark"
                 ]
             }
         ]
@@ -50147,14 +50215,18 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Boost",
+                    "Heal: Boost Health",
                     "Heal: Special"
                 ]
             },
             {
                 "特殊效果": [
-                    "Cleanse Status Ailments",
-                    "Mega Minion"
+                    "Summon - Mega Minion"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Status - Cleanse Ailments"
                 ]
             }
         ]
@@ -50222,19 +50294,19 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Small Area / Minor"
+                    "Atk: Area"
                 ]
             },
             {
                 "特殊效果": [
-                    "Gamble / Random Effect"
+                    "Atk - Gamble / Random"
                 ]
             },
             {
                 "负面效果": [
-                    "Mana Generation ↓ / Block",
-                    "Attack ↓",
-                    "Defense ↓"
+                    "Mana - Mana Gen ↓/Block",
+                    "Atk - Attack ↓",
+                    "Def - Defense ↓"
                 ]
             }
         ]
@@ -50297,14 +50369,14 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Over Time (HoT)",
-                    "Attack: All",
-                    "Revive"
+                    "Heal: Over Time",
+                    "Atk: All",
+                    "Heal: Revive"
                 ]
             },
             {
                 "增益效果": [
-                    "Defense ↑"
+                    "Def - Defense ↑"
                 ]
             }
         ]
@@ -50368,14 +50440,14 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Boost",
-                    "Attack: All",
-                    "Revive"
+                    "Heal: Boost Health",
+                    "Atk: All",
+                    "Heal: Revive"
                 ]
             },
             {
                 "增益效果": [
-                    "Defense ↑"
+                    "Def - Defense ↑"
                 ]
             }
         ]
@@ -50434,13 +50506,13 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: All"
+                    "Atk: All"
                 ]
             },
             {
                 "增益效果": [
-                    "Mana Recovery",
-                    "Dodge"
+                    "Mana - Mana Gain",
+                    "Def - Dodge"
                 ]
             }
         ]
@@ -50506,13 +50578,13 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Small Area / Minor"
+                    "Atk: Area"
                 ]
             },
             {
                 "负面效果": [
-                    "Healing Amount ↓",
-                    "Confusion / Silence / Sleep"
+                    "Heal - Healing ↓",
+                    "Mana - Mindless/Silence/Sleep"
                 ]
             }
         ]
@@ -50578,13 +50650,13 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Small Area / Minor"
+                    "Atk: Area"
                 ]
             },
             {
                 "负面效果": [
-                    "Healing Amount ↓",
-                    "Confusion / Silence / Sleep"
+                    "Heal - Healing ↓",
+                    "Mana - Mindless/Silence/Sleep"
                 ]
             }
         ]
@@ -50644,22 +50716,22 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Revive"
+                    "Heal: Revive"
                 ]
             },
             {
                 "特殊效果": [
-                    "Extra Damage"
+                    "Dmg - Extra"
                 ]
             },
             {
                 "增益效果": [
-                    "Defense ↑ : Special Skills"
+                    "Def - Def ↑ : Special"
                 ]
             },
             {
                 "负面效果": [
-                    "Madness"
+                    "Status - Insanity"
                 ]
             }
         ]
@@ -50714,17 +50786,17 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: All"
+                    "Atk: All"
                 ]
             },
             {
                 "特殊效果": [
-                    "Damage ↑ : Holy"
+                    "Dmg - Dmg ↑ : Holy"
                 ]
             },
             {
                 "负面效果": [
-                    "Self-Debuff"
+                    "Status - Self-Debuff"
                 ]
             }
         ]
@@ -50782,22 +50854,22 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: All"
+                    "Atk: All"
                 ]
             },
             {
                 "特殊效果": [
-                    "Damage ↑ : Holy"
+                    "Dmg - Dmg ↑ : Holy"
                 ]
             },
             {
                 "增益效果": [
-                    "Attack ↑"
+                    "Atk - Attack ↑"
                 ]
             },
             {
                 "负面效果": [
-                    "Attack ↓"
+                    "Atk - Attack ↓"
                 ]
             }
         ]
@@ -50858,13 +50930,13 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Target and Nearby"
+                    "Atk: Minor to Nearby"
                 ]
             },
             {
                 "负面效果": [
-                    "Mana Generation ↓ / Block",
-                    "Max Health ↓"
+                    "Mana - Mana Gen ↓/Block",
+                    "Heal - Max Health ↓"
                 ]
             }
         ]
@@ -50930,19 +51002,19 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: From Damage Dealt",
-                    "Attack: Single"
+                    "Heal: From Dmg",
+                    "Atk: Single"
                 ]
             },
             {
                 "特殊效果": [
-                    "Bypass (Defensive Buffs)",
-                    "Mega Minion"
+                    "Atk - Bypass / Ignore",
+                    "Summon - Mega Minion"
                 ]
             },
             {
                 "负面效果": [
-                    "Increased Damage Taken ↑"
+                    "Def - Dmg Taken ↑"
                 ]
             }
         ]
@@ -50999,17 +51071,17 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Target and Nearby"
+                    "Atk: Minor to Nearby"
                 ]
             },
             {
                 "增益效果": [
-                    "Block Ailments"
+                    "Status - Block Ailments"
                 ]
             },
             {
                 "负面效果": [
-                    "Confusion / Silence / Sleep"
+                    "Mana - Mindless/Silence/Sleep"
                 ]
             }
         ]
@@ -51061,12 +51133,12 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: All"
+                    "Atk: All"
                 ]
             },
             {
                 "特殊效果": [
-                    "Copy / Steal Skill"
+                    "Atk - Copy/Steal Skill"
                 ]
             }
         ]
@@ -51123,13 +51195,17 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: All"
+                    "Atk: All"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Status - Reset Ailment Duration"
                 ]
             },
             {
                 "负面效果": [
-                    "Reset Ailment Duration",
-                    "Attack ↓"
+                    "Atk - Attack ↓"
                 ]
             }
         ]
@@ -51195,17 +51271,17 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: All"
+                    "Atk: All"
                 ]
             },
             {
                 "增益效果": [
-                    "Attack ↑"
+                    "Atk - Attack ↑"
                 ]
             },
             {
                 "负面效果": [
-                    "Defense ↓"
+                    "Def - Defense ↓"
                 ]
             }
         ]
@@ -51257,12 +51333,12 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Target and Nearby"
+                    "Atk: Minor to Nearby"
                 ]
             },
             {
                 "增益效果": [
-                    "Counterattack / Reflect"
+                    "Def - Counterattack"
                 ]
             }
         ]
@@ -51314,12 +51390,12 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: All"
+                    "Atk: All"
                 ]
             },
             {
                 "增益效果": [
-                    "Counterattack / Reflect"
+                    "Def - Counterattack"
                 ]
             }
         ]
@@ -51374,13 +51450,13 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Small Area / Minor"
+                    "Atk: Area"
                 ]
             },
             {
                 "增益效果": [
-                    "Counterattack / Reflect",
-                    "Mana Recovery"
+                    "Def - Counterattack",
+                    "Mana - Mana Gain"
                 ]
             }
         ]
@@ -51436,17 +51512,17 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Target and Nearby"
+                    "Atk: Minor to Nearby"
                 ]
             },
             {
                 "特殊效果": [
-                    "Damage ↑ : Holy"
+                    "Dmg - Dmg ↑ : Holy"
                 ]
             },
             {
                 "增益效果": [
-                    "Counterattack / Reflect"
+                    "Def - Counterattack"
                 ]
             }
         ]
@@ -51503,17 +51579,17 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Target and Nearby"
+                    "Atk: Minor to Nearby"
                 ]
             },
             {
                 "特殊效果": [
-                    "Bypass (Defensive Buffs)"
+                    "Atk - Bypass / Ignore"
                 ]
             },
             {
                 "增益效果": [
-                    "Counterattack / Reflect"
+                    "Def - Counterattack"
                 ]
             }
         ]
@@ -51576,18 +51652,18 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Boost"
+                    "Heal: Boost Health"
                 ]
             },
             {
                 "特殊效果": [
-                    "Heal from Damage",
-                    "Extra Attack"
+                    "Heal - From Dmg",
+                    "Atk - Extra Attack"
                 ]
             },
             {
                 "负面效果": [
-                    "Buff Immunity / Block Buffs"
+                    "Status - Buff Immunity"
                 ]
             }
         ]
@@ -51647,20 +51723,20 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: All"
+                    "Atk: All"
                 ]
             },
             {
                 "特殊效果": [
-                    "Destroy Fiends",
-                    "Mana Recovery",
-                    "Bypass Dodge",
-                    "Damage ↑ : Holy"
+                    "Summon - Destroy Fiends",
+                    "Atk - Bypass Dodge",
+                    "Dmg - Dmg ↑ : Holy"
                 ]
             },
             {
                 "增益效果": [
-                    "Damage Reduction"
+                    "Def - Dmg Reduction",
+                    "Mana - Mana Gain"
                 ]
             }
         ]
@@ -51726,17 +51802,17 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Variable"
+                    "Atk: Variable Targets"
                 ]
             },
             {
-                "特殊效果": [
-                    "Dispel Buffs"
+                "增益效果": [
+                    "Status - Dispel Buffs"
                 ]
             },
             {
                 "负面效果": [
-                    "Buff Immunity / Block Buffs"
+                    "Status - Buff Immunity"
                 ]
             }
         ]
@@ -51792,18 +51868,18 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: All",
-                    "Attack: Damage over Time (DoT)"
+                    "Atk: All",
+                    "Dmg: DoT"
                 ]
             },
             {
                 "特殊效果": [
-                    "Minion"
+                    "Summon - Minion"
                 ]
             },
             {
                 "负面效果": [
-                    "DoT: Poison"
+                    "Dmg - DoT : Poison"
                 ]
             }
         ]
@@ -51871,14 +51947,14 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Small Area / Minor"
+                    "Atk: Area"
                 ]
             },
             {
                 "负面效果": [
-                    "Mana Generation ↓ / Block",
-                    "Healing Amount ↓",
-                    "Buff Immunity / Block Buffs"
+                    "Mana - Mana Gen ↓/Block",
+                    "Heal - Healing ↓",
+                    "Status - Buff Immunity"
                 ]
             }
         ]
@@ -51947,13 +52023,13 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "特殊效果": [
-                    "Minion"
+                    "Summon - Minion"
                 ]
             },
             {
                 "增益效果": [
-                    "Taunt",
-                    "Stack: Attack ↑"
+                    "Def - Taunt",
+                    "Atk - Stack : Atk ↑"
                 ]
             }
         ]
@@ -52022,13 +52098,13 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "特殊效果": [
-                    "Minion"
+                    "Summon - Minion"
                 ]
             },
             {
                 "增益效果": [
-                    "Taunt",
-                    "Stack: Attack ↑"
+                    "Def - Taunt",
+                    "Atk - Stack : Atk ↑"
                 ]
             }
         ]
@@ -52086,12 +52162,12 @@ window.allHeroes =
             {
                 "基础技能": [
                     "Heal: Special",
-                    "Attack: All"
+                    "Atk: All"
                 ]
             },
             {
-                "特殊效果": [
-                    "Dispel Buffs"
+                "增益效果": [
+                    "Status - Dispel Buffs"
                 ]
             }
         ]
@@ -52157,17 +52233,17 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Over Time (HoT)"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "Cleanse Status Ailments"
+                    "Heal: Over Time"
                 ]
             },
             {
                 "增益效果": [
-                    "Attack ↑"
+                    "Atk - Attack ↑"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Status - Cleanse Ailments"
                 ]
             }
         ]
@@ -52216,7 +52292,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: All"
+                    "Atk: All"
                 ]
             }
         ]
@@ -52268,12 +52344,12 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: All"
+                    "Atk: All"
                 ]
             },
             {
                 "负面效果": [
-                    "Attack ↓"
+                    "Atk - Attack ↓"
                 ]
             }
         ]
@@ -52325,12 +52401,12 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Small Area / Minor"
+                    "Atk: Area"
                 ]
             },
             {
                 "负面效果": [
-                    "Confusion / Silence / Sleep"
+                    "Mana - Mindless/Silence/Sleep"
                 ]
             }
         ]
@@ -52383,12 +52459,12 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: All"
+                    "Atk: All"
                 ]
             },
             {
                 "特殊效果": [
-                    "Damage ↑ : Holy"
+                    "Dmg - Dmg ↑ : Holy"
                 ]
             }
         ]
@@ -52448,13 +52524,13 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Single",
+                    "Atk: Single",
                     "Heal: Special"
                 ]
             },
             {
                 "特殊效果": [
-                    "Fiend"
+                    "Summon - Fiend"
                 ]
             }
         ]
@@ -52506,13 +52582,13 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Single",
-                    "Attack: Damage over Time (DoT)"
+                    "Atk: Single",
+                    "Dmg: DoT"
                 ]
             },
             {
                 "负面效果": [
-                    "DoT: Poison"
+                    "Dmg - DoT : Poison"
                 ]
             }
         ]
@@ -52565,12 +52641,12 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Target and Nearby"
+                    "Atk: Minor to Nearby"
                 ]
             },
             {
                 "特殊效果": [
-                    "Explosion / Detonation"
+                    "Dmg - Explosion"
                 ]
             }
         ]
@@ -52624,17 +52700,17 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Variable"
+                    "Atk: Variable Targets"
                 ]
             },
             {
                 "特殊效果": [
-                    "Extra Damage"
+                    "Dmg - Extra"
                 ]
             },
             {
                 "负面效果": [
-                    "Change Color / Position"
+                    "Def - Change Position"
                 ]
             }
         ]
@@ -52688,17 +52764,17 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Variable"
+                    "Atk: Variable Targets"
                 ]
             },
             {
                 "特殊效果": [
-                    "Extra Damage"
+                    "Dmg - Extra"
                 ]
             },
             {
                 "负面效果": [
-                    "Change Color / Position"
+                    "Def - Change Position"
                 ]
             }
         ]
@@ -52750,12 +52826,12 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Target and Nearby"
+                    "Atk: Minor to Nearby"
                 ]
             },
             {
                 "负面效果": [
-                    "Healing Amount ↓"
+                    "Heal - Healing ↓"
                 ]
             }
         ]
@@ -52812,14 +52888,14 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Small Area / Minor",
-                    "Attack: Damage over Time (DoT)"
+                    "Atk: Area",
+                    "Dmg: DoT"
                 ]
             },
             {
                 "负面效果": [
-                    "Block Healing",
-                    "DoT: Water"
+                    "Heal - Block Healing",
+                    "Dmg - DoT : Water"
                 ]
             }
         ]
@@ -52871,13 +52947,13 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Single",
-                    "Attack: Damage over Time (DoT)"
+                    "Atk: Single",
+                    "Dmg: DoT"
                 ]
             },
             {
                 "负面效果": [
-                    "DoT: Poison"
+                    "Dmg - DoT : Poison"
                 ]
             }
         ]
@@ -52926,7 +53002,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Single"
+                    "Atk: Single"
                 ]
             }
         ]
@@ -52980,17 +53056,17 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Single"
+                    "Atk: Single"
                 ]
             },
             {
                 "特殊效果": [
-                    "Destroy Minions"
+                    "Atk - Destroy Minions"
                 ]
             },
             {
                 "负面效果": [
-                    "Block Minions"
+                    "Status - Block Minions"
                 ]
             }
         ]
@@ -53046,18 +53122,18 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Single",
-                    "Attack: Damage over Time (DoT)"
+                    "Atk: Single",
+                    "Dmg: DoT"
                 ]
             },
             {
                 "特殊效果": [
-                    "Damage ↑ : Holy"
+                    "Dmg - Dmg ↑ : Holy"
                 ]
             },
             {
                 "负面效果": [
-                    "DoT: Poison"
+                    "Dmg - DoT : Poison"
                 ]
             }
         ]
@@ -53113,18 +53189,18 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Single",
-                    "Attack: Damage over Time (DoT)"
+                    "Atk: Single",
+                    "Dmg: DoT"
                 ]
             },
             {
                 "特殊效果": [
-                    "Bypass (Defensive Buffs)"
+                    "Atk - Bypass / Ignore"
                 ]
             },
             {
                 "负面效果": [
-                    "DoT: Poison"
+                    "Dmg - DoT : Poison"
                 ]
             }
         ]
@@ -53195,17 +53271,17 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Variable"
+                    "Atk: Variable Targets"
                 ]
             },
             {
                 "特殊效果": [
-                    "Extra Damage"
+                    "Dmg - Extra"
                 ]
             },
             {
                 "增益效果": [
-                    "hidden / Ghost Form"
+                    "Status - Hide/Ghost Form"
                 ]
             }
         ]
@@ -53264,17 +53340,17 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Over Time (HoT)"
+                    "Heal: Over Time"
                 ]
             },
             {
                 "特殊效果": [
-                    "Explosion / Detonation"
+                    "Dmg - Explosion"
                 ]
             },
             {
                 "增益效果": [
-                    "Counterattack / Reflect"
+                    "Def - Counterattack"
                 ]
             }
         ]
@@ -53337,18 +53413,18 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: All"
+                    "Atk: All"
                 ]
             },
             {
                 "特殊效果": [
-                    "Fiend"
+                    "Summon - Fiend"
                 ]
             },
             {
                 "增益效果": [
-                    "Stack: Mana Generation",
-                    "Stack: Health Recovery"
+                    "Mana - Stack : Mana Gen ↑",
+                    "Heal - Stack : Regen"
                 ]
             }
         ]
@@ -53412,18 +53488,18 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: All"
+                    "Atk: All"
                 ]
             },
             {
                 "特殊效果": [
-                    "Fiend"
+                    "Summon - Fiend"
                 ]
             },
             {
                 "增益效果": [
-                    "Stack: Mana Generation",
-                    "Stack: Health Recovery"
+                    "Mana - Stack : Mana Gen ↑",
+                    "Heal - Stack : Regen"
                 ]
             }
         ]
@@ -53483,17 +53559,17 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Single"
+                    "Atk: Single"
                 ]
             },
             {
                 "特殊效果": [
-                    "Fiend"
+                    "Summon - Fiend"
                 ]
             },
             {
                 "负面效果": [
-                    "Accuracy ↓"
+                    "Atk - Accuracy ↓"
                 ]
             }
         ]
@@ -53552,13 +53628,17 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Single"
+                    "Atk: Single"
                 ]
             },
             {
                 "特殊效果": [
-                    "Dispel Buffs",
-                    "Minion"
+                    "Summon - Minion"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Status - Dispel Buffs"
                 ]
             }
         ]
@@ -53619,13 +53699,17 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Single"
+                    "Atk: Single"
                 ]
             },
             {
                 "特殊效果": [
-                    "Dispel Buffs",
-                    "Minion"
+                    "Summon - Minion"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Status - Dispel Buffs"
                 ]
             }
         ]
@@ -53683,13 +53767,13 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "特殊效果": [
-                    "Minion",
-                    "Mana Cut"
+                    "Summon - Minion",
+                    "Mana - Mana Cut"
                 ]
             },
             {
                 "负面效果": [
-                    "DoT: Poison"
+                    "Dmg - DoT : Poison"
                 ]
             }
         ]
@@ -53749,13 +53833,13 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "特殊效果": [
-                    "Minion",
-                    "Mana Cut"
+                    "Summon - Minion",
+                    "Mana - Mana Cut"
                 ]
             },
             {
                 "负面效果": [
-                    "DoT: Poison"
+                    "Dmg - DoT : Poison"
                 ]
             }
         ]
@@ -53814,13 +53898,17 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Small Area / Minor"
+                    "Atk: Area"
                 ]
             },
             {
                 "特殊效果": [
-                    "Steal Buffs",
-                    "Mana Drain"
+                    "Status - Steal Buffs"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Mana - Mana Steal"
                 ]
             }
         ]
@@ -53881,13 +53969,13 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: All"
+                    "Atk: All"
                 ]
             },
             {
                 "特殊效果": [
-                    "Fiend",
-                    "Extra Attack"
+                    "Summon - Fiend",
+                    "Atk - Extra Attack"
                 ]
             }
         ]
@@ -53948,14 +54036,18 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "特殊效果": [
-                    "Cleanse Status Ailments",
-                    "Gamble / Random Effect",
-                    "Extra Damage"
+                    "Atk - Gamble / Random",
+                    "Dmg - Extra"
                 ]
             },
             {
                 "增益效果": [
-                    "Reflect Ailments"
+                    "Status - Reflect Ailments"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Status - Cleanse Ailments"
                 ]
             }
         ]
@@ -54014,17 +54106,17 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Single"
+                    "Atk: Single"
                 ]
             },
             {
                 "特殊效果": [
-                    "Chain Attack"
+                    "Atk - Chain"
                 ]
             },
             {
                 "负面效果": [
-                    "Buff Immunity / Block Buffs"
+                    "Status - Buff Immunity"
                 ]
             }
         ]
@@ -54085,17 +54177,17 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Single"
+                    "Atk: Single"
                 ]
             },
             {
                 "特殊效果": [
-                    "Chain Attack"
+                    "Atk - Chain"
                 ]
             },
             {
                 "负面效果": [
-                    "Buff Immunity / Block Buffs"
+                    "Status - Buff Immunity"
                 ]
             }
         ]
@@ -54157,23 +54249,23 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Single"
+                    "Atk: Single"
                 ]
             },
             {
                 "特殊效果": [
-                    "Minion",
-                    "Steal Buffs"
+                    "Summon - Minion",
+                    "Status - Steal Buffs"
                 ]
             },
             {
                 "增益效果": [
-                    "Dodge"
+                    "Def - Dodge"
                 ]
             },
             {
                 "负面效果": [
-                    "Confusion / Silence / Sleep"
+                    "Mana - Mindless/Silence/Sleep"
                 ]
             }
         ]
@@ -54232,13 +54324,13 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: All"
+                    "Atk: All"
                 ]
             },
             {
                 "负面效果": [
-                    "Confusion / Silence / Sleep",
-                    "Defense ↓ : Special Skills"
+                    "Mana - Mindless/Silence/Sleep",
+                    "Def - Def ↓ : Special"
                 ]
             }
         ]
@@ -54300,12 +54392,12 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Single"
+                    "Atk: Single"
                 ]
             },
             {
                 "特殊效果": [
-                    "Extra Damage"
+                    "Dmg - Extra"
                 ]
             }
         ]
@@ -54361,12 +54453,12 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Small Area / Minor"
+                    "Atk: Area"
                 ]
             },
             {
                 "特殊效果": [
-                    "Minion"
+                    "Summon - Minion"
                 ]
             }
         ]
@@ -54421,12 +54513,12 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Small Area / Minor"
+                    "Atk: Area"
                 ]
             },
             {
                 "特殊效果": [
-                    "Minion"
+                    "Summon - Minion"
                 ]
             }
         ]
@@ -54491,19 +54583,19 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: All"
+                    "Atk: All"
                 ]
             },
             {
                 "特殊效果": [
-                    "Bypass Dodge",
-                    "Damage ↑ : Fire"
+                    "Atk - Bypass Dodge",
+                    "Dmg - Dmg ↑ : Fire"
                 ]
             },
             {
                 "增益效果": [
-                    "Immunity to Status Ailments",
-                    "Defense ↑"
+                    "Status - Ailment Immunity",
+                    "Def - Defense ↑"
                 ]
             }
         ]
@@ -54572,13 +54664,13 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Variable"
+                    "Atk: Variable Targets"
                 ]
             },
             {
                 "特殊效果": [
-                    "Extra Damage",
-                    "Bypass (Defensive Buffs)"
+                    "Dmg - Extra",
+                    "Atk - Bypass / Ignore"
                 ]
             }
         ]
@@ -54634,12 +54726,12 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Single"
+                    "Atk: Single"
                 ]
             },
             {
                 "负面效果": [
-                    "Stack: Damage Taken ↑"
+                    "Def - Stack : Dmg Taken ↑"
                 ]
             }
         ]
@@ -54699,18 +54791,18 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Random"
+                    "Atk: Random"
                 ]
             },
             {
-                "特殊效果": [
-                    "Mana Recovery"
+                "增益效果": [
+                    "Mana - Mana Gain"
                 ]
             },
             {
                 "负面效果": [
-                    "Attack ↓",
-                    "Defense ↓"
+                    "Atk - Attack ↓",
+                    "Def - Defense ↓"
                 ]
             }
         ]
@@ -54775,18 +54867,18 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: All"
+                    "Atk: All"
                 ]
             },
             {
                 "特殊效果": [
-                    "Transform: Attack Power"
+                    "Dmg - Tile : Up"
                 ]
             },
             {
                 "增益效果": [
-                    "Counterattack / Reflect",
-                    "Damage Reduction"
+                    "Def - Counterattack",
+                    "Def - Dmg Reduction"
                 ]
             }
         ]
@@ -54853,18 +54945,18 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: All"
+                    "Atk: All"
                 ]
             },
             {
                 "特殊效果": [
-                    "Transform: Attack Power"
+                    "Dmg - Tile : Up"
                 ]
             },
             {
                 "增益效果": [
-                    "Counterattack / Reflect",
-                    "Damage Reduction"
+                    "Def - Counterattack",
+                    "Def - Dmg Reduction"
                 ]
             }
         ]
@@ -54921,12 +55013,12 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Single"
+                    "Atk: Single"
                 ]
             },
             {
                 "特殊效果": [
-                    "Fiend"
+                    "Summon - Fiend"
                 ]
             }
         ]
@@ -54994,18 +55086,18 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Damage over Time (DoT)"
+                    "Dmg: DoT"
                 ]
             },
             {
-                "特殊效果": [
-                    "Dispel Buffs"
+                "增益效果": [
+                    "Status - Dispel Buffs"
                 ]
             },
             {
                 "负面效果": [
-                    "Healing Amount ↓",
-                    "DoT: Poison"
+                    "Heal - Healing ↓",
+                    "Dmg - DoT : Poison"
                 ]
             }
         ]
@@ -55061,18 +55153,18 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: All"
+                    "Atk: All"
                 ]
             },
             {
                 "特殊效果": [
-                    "Extra Damage",
-                    "Damage ↑ : Holy"
+                    "Dmg - Extra",
+                    "Dmg - Dmg ↑ : Holy"
                 ]
             },
             {
                 "增益效果": [
-                    "Counterattack / Reflect : Holy"
+                    "Def - Reflect : Holy"
                 ]
             }
         ]
@@ -55129,22 +55221,22 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: All"
+                    "Atk: All"
                 ]
             },
             {
                 "特殊效果": [
-                    "Extra Damage"
+                    "Dmg - Extra"
                 ]
             },
             {
                 "增益效果": [
-                    "Counterattack / Reflect : Holy"
+                    "Def - Reflect : Holy"
                 ]
             },
             {
                 "负面效果": [
-                    "Defense ↓ : Dark"
+                    "Def - Def ↓ : Dark"
                 ]
             }
         ]
@@ -55202,18 +55294,18 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Single",
-                    "Attack: Damage over Time (DoT)"
+                    "Atk: Single",
+                    "Dmg: DoT"
                 ]
             },
             {
                 "特殊效果": [
-                    "Heal from Damage"
+                    "Heal - From Dmg"
                 ]
             },
             {
                 "负面效果": [
-                    "DoT: Poison"
+                    "Dmg - DoT : Poison"
                 ]
             }
         ]
@@ -55271,19 +55363,19 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Single",
-                    "Attack: Damage over Time (DoT)"
+                    "Atk: Single",
+                    "Dmg: DoT"
                 ]
             },
             {
                 "特殊效果": [
-                    "Chain Attack",
-                    "Explosion / Detonation"
+                    "Atk - Chain",
+                    "Dmg - Explosion"
                 ]
             },
             {
                 "负面效果": [
-                    "DoT: Poison"
+                    "Dmg - DoT : Poison"
                 ]
             }
         ]
@@ -55345,12 +55437,12 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Variable"
+                    "Atk: Variable Targets"
                 ]
             },
             {
                 "负面效果": [
-                    "Confusion / Silence / Sleep"
+                    "Mana - Mindless/Silence/Sleep"
                 ]
             }
         ]
@@ -55409,14 +55501,14 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: All"
+                    "Atk: All"
                 ]
             },
             {
                 "负面效果": [
-                    "Weaken: Attack",
-                    "Weaken: Defense",
-                    "Mana Generation ↓ / Block"
+                    "Atk - Wither : Atk↓",
+                    "Def - Wither : Def↓",
+                    "Mana - Mana Gen ↓/Block"
                 ]
             }
         ]
@@ -55477,18 +55569,18 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Single",
-                    "Attack: Damage over Time (DoT)"
+                    "Atk: Single",
+                    "Dmg: DoT"
                 ]
             },
             {
                 "增益效果": [
-                    "Defense ↑"
+                    "Def - Defense ↑"
                 ]
             },
             {
                 "负面效果": [
-                    "Steal Healing"
+                    "Heal - Steal Healing"
                 ]
             }
         ]
@@ -55547,14 +55639,14 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Small Area / Minor",
-                    "Attack: Damage over Time (DoT)"
+                    "Atk: Area",
+                    "Dmg: DoT"
                 ]
             },
             {
                 "负面效果": [
-                    "Steal Healing",
-                    "Defense ↓"
+                    "Heal - Steal Healing",
+                    "Def - Defense ↓"
                 ]
             }
         ]
@@ -55614,19 +55706,23 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Damage over Time (DoT)"
+                    "Dmg: DoT"
                 ]
             },
             {
                 "特殊效果": [
-                    "Dispel Buffs",
-                    "Mega Minion"
+                    "Summon - Mega Minion"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Status - Dispel Buffs"
                 ]
             },
             {
                 "负面效果": [
-                    "Buff Immunity / Block Buffs",
-                    "DoT: Bleed"
+                    "Status - Buff Immunity",
+                    "Dmg - DoT : Bleed"
                 ]
             }
         ]
@@ -55687,14 +55783,14 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: All"
+                    "Atk: All"
                 ]
             },
             {
                 "特殊效果": [
-                    "Fiend",
-                    "Bypass Minions",
-                    "Extra Damage"
+                    "Summon - Fiend",
+                    "Atk - Bypass Minions",
+                    "Dmg - Extra"
                 ]
             }
         ]
@@ -55750,12 +55846,12 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: All"
+                    "Atk: All"
                 ]
             },
             {
                 "负面效果": [
-                    "Change Color / Position"
+                    "Def - Change Position"
                 ]
             }
         ]
@@ -55816,18 +55912,18 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Single",
-                    "Heal: From Damage Dealt"
+                    "Atk: Single",
+                    "Heal: From Dmg"
                 ]
             },
             {
                 "特殊效果": [
-                    "Bypass Dodge"
+                    "Atk - Bypass Dodge"
                 ]
             },
             {
                 "增益效果": [
-                    "Defense ↑ : Holy"
+                    "Def - Def ↑ : Holy"
                 ]
             }
         ]
@@ -55892,17 +55988,17 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Single"
+                    "Atk: Single"
                 ]
             },
             {
                 "特殊效果": [
-                    "Explosion / Detonation"
+                    "Dmg - Explosion"
                 ]
             },
             {
                 "负面效果": [
-                    "Confusion / Silence / Sleep"
+                    "Mana - Mindless/Silence/Sleep"
                 ]
             }
         ]
@@ -55959,18 +56055,22 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Damage over Time (DoT)"
+                    "Dmg: DoT"
                 ]
             },
             {
                 "特殊效果": [
-                    "Dispel Buffs",
-                    "Bypass Dodge"
+                    "Atk - Bypass Dodge"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Status - Dispel Buffs"
                 ]
             },
             {
                 "负面效果": [
-                    "DoT: Poison"
+                    "Dmg - DoT : Poison"
                 ]
             }
         ]
@@ -56028,19 +56128,19 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Over Time (HoT)",
-                    "Heal: Boost"
+                    "Heal: Over Time",
+                    "Heal: Boost Health"
                 ]
             },
             {
                 "增益效果": [
-                    "Mana Generation ↑"
+                    "Mana - Mana Gen ↑"
                 ]
             },
             {
                 "负面效果": [
-                    "Max Health ↓",
-                    "Mana Generation ↓ / Block"
+                    "Heal - Max Health ↓",
+                    "Mana - Mana Gen ↓/Block"
                 ]
             }
         ]
@@ -56104,8 +56204,12 @@ window.allHeroes =
             },
             {
                 "特殊效果": [
-                    "Mana Recovery",
-                    "Transform: Mana Generation"
+                    "Mana - Tile : Gen"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Mana - Mana Gain"
                 ]
             }
         ]
@@ -56166,17 +56270,17 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Over Time (HoT)"
+                    "Heal: Over Time"
                 ]
             },
             {
                 "特殊效果": [
-                    "Transform: Mana Generation"
+                    "Mana - Tile : Gen"
                 ]
             },
             {
                 "增益效果": [
-                    "Mana Recovery"
+                    "Mana - Mana Gain"
                 ]
             }
         ]
@@ -56236,17 +56340,17 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: All"
+                    "Atk: All"
                 ]
             },
             {
-                "特殊效果": [
-                    "Dispel Buffs"
+                "增益效果": [
+                    "Status - Dispel Buffs"
                 ]
             },
             {
                 "负面效果": [
-                    "Defense ↓ : Special Skills"
+                    "Def - Def ↓ : Special"
                 ]
             }
         ]
@@ -56306,18 +56410,18 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Single"
+                    "Atk: Single"
                 ]
             },
             {
                 "增益效果": [
-                    "Critical Chance ↑"
+                    "Atk - Crit Chance ↑"
                 ]
             },
             {
                 "负面效果": [
-                    "Healing Amount ↓",
-                    "Defense ↓"
+                    "Heal - Healing ↓",
+                    "Def - Defense ↓"
                 ]
             }
         ]
@@ -56374,13 +56478,13 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Over Time (HoT)"
+                    "Heal: Over Time"
                 ]
             },
             {
                 "增益效果": [
-                    "Defense ↑",
-                    "Defense ↑ : Special Skills"
+                    "Def - Defense ↑",
+                    "Def - Def ↑ : Special"
                 ]
             }
         ]
@@ -56618,12 +56722,12 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Single"
+                    "Atk: Single"
                 ]
             },
             {
                 "特殊效果": [
-                    "Mana Cut"
+                    "Mana - Mana Cut"
                 ]
             }
         ]
@@ -56675,12 +56779,12 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Small Area / Minor"
+                    "Atk: Area"
                 ]
             },
             {
                 "特殊效果": [
-                    "Mana Cut"
+                    "Mana - Mana Cut"
                 ]
             }
         ]
@@ -56736,13 +56840,13 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Single"
+                    "Atk: Single"
                 ]
             },
             {
                 "特殊效果": [
-                    "Mana Cut",
-                    "Damage ↑ : Nature"
+                    "Mana - Mana Cut",
+                    "Dmg - Dmg ↑ : Nature"
                 ]
             }
         ]
@@ -56799,13 +56903,13 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Single"
+                    "Atk: Single"
                 ]
             },
             {
                 "特殊效果": [
-                    "Bypass (Defensive Buffs)",
-                    "Mana Cut"
+                    "Atk - Bypass / Ignore",
+                    "Mana - Mana Cut"
                 ]
             }
         ]
@@ -56866,12 +56970,12 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Small Area / Minor"
+                    "Atk: Area"
                 ]
             },
             {
                 "负面效果": [
-                    "Defense ↓ : Fire"
+                    "Def - Def ↓ : Fire"
                 ]
             }
         ]
@@ -56933,12 +57037,12 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: All"
+                    "Atk: All"
                 ]
             },
             {
                 "负面效果": [
-                    "Defense ↓ : Fire"
+                    "Def - Def ↓ : Fire"
                 ]
             }
         ]
@@ -56996,9 +57100,9 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "增益效果": [
-                    "Counterattack / Reflect",
-                    "Damage Share",
-                    "Defense ↑"
+                    "Def - Counterattack",
+                    "Def - Dmg Share",
+                    "Def - Defense ↑"
                 ]
             }
         ]
@@ -57053,17 +57157,17 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: All"
+                    "Atk: All"
                 ]
             },
             {
                 "特殊效果": [
-                    "Mana Cut"
+                    "Mana - Mana Cut"
                 ]
             },
             {
                 "增益效果": [
-                    "Mana Generation ↑"
+                    "Mana - Mana Gen ↑"
                 ]
             }
         ]
@@ -57122,15 +57226,19 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Small Area / Minor"
+                    "Atk: Area"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Dmg - Explosion"
                 ]
             },
             {
                 "负面效果": [
-                    "Weaken: Attack",
-                    "Weaken: Defense",
-                    "Defense ↓",
-                    "Damage on Ailment Cleanse"
+                    "Atk - Wither : Atk↓",
+                    "Def - Wither : Def↓",
+                    "Def - Defense ↓"
                 ]
             }
         ]
@@ -57185,17 +57293,17 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Small Area / Minor"
+                    "Atk: Area"
                 ]
             },
             {
                 "特殊效果": [
-                    "Minion"
+                    "Summon - Minion"
                 ]
             },
             {
                 "负面效果": [
-                    "Increased Damage Taken ↑"
+                    "Def - Dmg Taken ↑"
                 ]
             }
         ]
@@ -57260,18 +57368,18 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: All",
-                    "Attack: Damage over Time (DoT)"
+                    "Atk: All",
+                    "Dmg: DoT"
                 ]
             },
             {
                 "特殊效果": [
-                    "Bypass (Defensive Buffs)"
+                    "Atk - Bypass / Ignore"
                 ]
             },
             {
                 "负面效果": [
-                    "DoT: Burn"
+                    "Dmg - DoT : Burn"
                 ]
             }
         ]
@@ -57323,12 +57431,12 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Small Area / Minor"
+                    "Atk: Area"
                 ]
             },
             {
                 "负面效果": [
-                    "Mana Generation ↓ / Block"
+                    "Mana - Mana Gen ↓/Block"
                 ]
             }
         ]
@@ -57380,12 +57488,12 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: All"
+                    "Atk: All"
                 ]
             },
             {
                 "特殊效果": [
-                    "Mana Cut"
+                    "Mana - Mana Cut"
                 ]
             }
         ]
@@ -57440,13 +57548,13 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "特殊效果": [
-                    "Explosion / Detonation"
+                    "Dmg - Explosion"
                 ]
             },
             {
                 "增益效果": [
-                    "Dodge",
-                    "Mana Recovery"
+                    "Def - Dodge",
+                    "Mana - Mana Gain"
                 ]
             }
         ]
@@ -57547,12 +57655,12 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Over Time (HoT)"
+                    "Heal: Over Time"
                 ]
             },
             {
                 "增益效果": [
-                    "Attack ↑"
+                    "Atk - Attack ↑"
                 ]
             }
         ]
@@ -57611,7 +57719,7 @@ window.allHeroes =
             },
             {
                 "增益效果": [
-                    "Defense ↑"
+                    "Def - Defense ↑"
                 ]
             }
         ]
@@ -57673,12 +57781,12 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Random"
+                    "Atk: Random"
                 ]
             },
             {
                 "特殊效果": [
-                    "Reset Buff Duration"
+                    "Status - Reset Buff Duration"
                 ]
             }
         ]
@@ -57730,13 +57838,13 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: All",
-                    "Attack: Damage over Time (DoT)"
+                    "Atk: All",
+                    "Dmg: DoT"
                 ]
             },
             {
                 "负面效果": [
-                    "DoT: Burn"
+                    "Dmg - DoT : Burn"
                 ]
             }
         ]
@@ -57788,13 +57896,13 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: All",
-                    "Attack: Damage over Time (DoT)"
+                    "Atk: All",
+                    "Dmg: DoT"
                 ]
             },
             {
                 "负面效果": [
-                    "DoT: Burn"
+                    "Dmg - DoT : Burn"
                 ]
             }
         ]
@@ -57850,18 +57958,18 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: All",
-                    "Attack: Damage over Time (DoT)"
+                    "Atk: All",
+                    "Dmg: DoT"
                 ]
             },
             {
                 "特殊效果": [
-                    "Damage ↑ : Nature"
+                    "Dmg - Dmg ↑ : Nature"
                 ]
             },
             {
                 "负面效果": [
-                    "DoT: Burn"
+                    "Dmg - DoT : Burn"
                 ]
             }
         ]
@@ -57917,18 +58025,18 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: All",
-                    "Attack: Damage over Time (DoT)"
+                    "Atk: All",
+                    "Dmg: DoT"
                 ]
             },
             {
                 "特殊效果": [
-                    "Bypass (Defensive Buffs)"
+                    "Atk - Bypass / Ignore"
                 ]
             },
             {
                 "负面效果": [
-                    "DoT: Burn"
+                    "Dmg - DoT : Burn"
                 ]
             }
         ]
@@ -57986,12 +58094,12 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "增益效果": [
-                    "Attack ↑"
+                    "Atk - Attack ↑"
                 ]
             },
             {
                 "负面效果": [
-                    "Defense ↓"
+                    "Def - Defense ↓"
                 ]
             }
         ]
@@ -58045,18 +58153,18 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: All",
-                    "Attack: Damage over Time (DoT)"
+                    "Atk: All",
+                    "Dmg: DoT"
                 ]
             },
             {
                 "特殊效果": [
-                    "Minion"
+                    "Summon - Minion"
                 ]
             },
             {
                 "负面效果": [
-                    "DoT: Burn"
+                    "Dmg - DoT : Burn"
                 ]
             }
         ]
@@ -58118,13 +58226,13 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Target and Nearby"
+                    "Atk: Minor to Nearby"
                 ]
             },
             {
                 "增益效果": [
-                    "Taunt",
-                    "Critical Chance ↑"
+                    "Def - Taunt",
+                    "Atk - Crit Chance ↑"
                 ]
             }
         ]
@@ -58176,12 +58284,12 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Single"
+                    "Atk: Single"
                 ]
             },
             {
                 "增益效果": [
-                    "Attack ↑"
+                    "Atk - Attack ↑"
                 ]
             }
         ]
@@ -58233,13 +58341,13 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Single",
-                    "Attack: Damage over Time (DoT)"
+                    "Atk: Single",
+                    "Dmg: DoT"
                 ]
             },
             {
                 "负面效果": [
-                    "DoT: Burn"
+                    "Dmg - DoT : Burn"
                 ]
             }
         ]
@@ -58291,13 +58399,13 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Single",
-                    "Attack: Damage over Time (DoT)"
+                    "Atk: Single",
+                    "Dmg: DoT"
                 ]
             },
             {
                 "负面效果": [
-                    "DoT: Burn"
+                    "Dmg - DoT : Burn"
                 ]
             }
         ]
@@ -58353,18 +58461,18 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Single",
-                    "Attack: Damage over Time (DoT)"
+                    "Atk: Single",
+                    "Dmg: DoT"
                 ]
             },
             {
                 "特殊效果": [
-                    "Damage ↑ : Nature"
+                    "Dmg - Dmg ↑ : Nature"
                 ]
             },
             {
                 "负面效果": [
-                    "DoT: Burn"
+                    "Dmg - DoT : Burn"
                 ]
             }
         ]
@@ -58416,8 +58524,8 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "增益效果": [
-                    "Mana Generation ↑",
-                    "Attack ↑"
+                    "Mana - Mana Gen ↑",
+                    "Atk - Attack ↑"
                 ]
             }
         ]
@@ -58474,18 +58582,18 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Small Area / Minor",
-                    "Attack: Damage over Time (DoT)"
+                    "Atk: Area",
+                    "Dmg: DoT"
                 ]
             },
             {
                 "特殊效果": [
-                    "Extra Damage"
+                    "Dmg - Extra"
                 ]
             },
             {
                 "负面效果": [
-                    "DoT: Poison"
+                    "Dmg - DoT : Poison"
                 ]
             }
         ]
@@ -58540,13 +58648,13 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Single"
+                    "Atk: Single"
                 ]
             },
             {
                 "特殊效果": [
-                    "Mana Cut",
-                    "Minion"
+                    "Mana - Mana Cut",
+                    "Summon - Minion"
                 ]
             }
         ]
@@ -58604,14 +58712,14 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: All",
-                    "Attack: Damage over Time (DoT)"
+                    "Atk: All",
+                    "Dmg: DoT"
                 ]
             },
             {
                 "负面效果": [
-                    "DoT: Bleed",
-                    "Defense ↓"
+                    "Dmg - DoT : Bleed",
+                    "Def - Defense ↓"
                 ]
             }
         ]
@@ -58663,12 +58771,12 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Small Area / Minor"
+                    "Atk: Area"
                 ]
             },
             {
                 "增益效果": [
-                    "Attack ↑"
+                    "Atk - Attack ↑"
                 ]
             }
         ]
@@ -58719,12 +58827,12 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Single"
+                    "Atk: Single"
                 ]
             },
             {
                 "负面效果": [
-                    "Self-Debuff"
+                    "Status - Self-Debuff"
                 ]
             }
         ]
@@ -58781,17 +58889,17 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Small Area / Minor"
+                    "Atk: Area"
                 ]
             },
             {
                 "特殊效果": [
-                    "Bypass Dodge"
+                    "Atk - Bypass Dodge"
                 ]
             },
             {
                 "增益效果": [
-                    "Mana Generation ↑"
+                    "Mana - Mana Gen ↑"
                 ]
             }
         ]
@@ -58842,12 +58950,12 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: All"
+                    "Atk: All"
                 ]
             },
             {
                 "特殊效果": [
-                    "Extra Damage"
+                    "Dmg - Extra"
                 ]
             }
         ]
@@ -58900,7 +59008,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "特殊效果": [
-                    "Fiend"
+                    "Summon - Fiend"
                 ]
             }
         ]
@@ -58953,7 +59061,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "特殊效果": [
-                    "Fiend"
+                    "Summon - Fiend"
                 ]
             }
         ]
@@ -59009,12 +59117,12 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: All"
+                    "Atk: All"
                 ]
             },
             {
                 "负面效果": [
-                    "Max Health ↓"
+                    "Heal - Max Health ↓"
                 ]
             }
         ]
@@ -59072,12 +59180,12 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: All"
+                    "Atk: All"
                 ]
             },
             {
                 "负面效果": [
-                    "Max Health ↓"
+                    "Heal - Max Health ↓"
                 ]
             }
         ]
@@ -59140,18 +59248,18 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: All"
+                    "Atk: All"
                 ]
             },
             {
                 "特殊效果": [
-                    "Fiend"
+                    "Summon - Fiend"
                 ]
             },
             {
                 "增益效果": [
-                    "Stack: Mana Generation",
-                    "Stack: Health Recovery"
+                    "Mana - Stack : Mana Gen ↑",
+                    "Heal - Stack : Regen"
                 ]
             }
         ]
@@ -59208,7 +59316,7 @@ window.allHeroes =
             },
             {
                 "增益效果": [
-                    "Attack ↑"
+                    "Atk - Attack ↑"
                 ]
             }
         ]
@@ -59265,7 +59373,7 @@ window.allHeroes =
             },
             {
                 "增益效果": [
-                    "Attack ↑"
+                    "Atk - Attack ↑"
                 ]
             }
         ]
@@ -59318,13 +59426,13 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Boost",
-                    "Heal: Over Time (HoT)"
+                    "Heal: Boost Health",
+                    "Heal: Over Time"
                 ]
             },
             {
                 "增益效果": [
-                    "Attack ↑"
+                    "Atk - Attack ↑"
                 ]
             }
         ]
@@ -59383,7 +59491,7 @@ window.allHeroes =
             },
             {
                 "增益效果": [
-                    "Attack ↑"
+                    "Atk - Attack ↑"
                 ]
             }
         ]
@@ -59446,8 +59554,8 @@ window.allHeroes =
             },
             {
                 "增益效果": [
-                    "Reflect Ailments",
-                    "Attack ↑"
+                    "Status - Reflect Ailments",
+                    "Atk - Attack ↑"
                 ]
             }
         ]
@@ -59502,9 +59610,9 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "特殊效果": [
-                    "Mana Cut",
-                    "Minion",
-                    "Explosion / Detonation"
+                    "Mana - Mana Cut",
+                    "Summon - Minion",
+                    "Dmg - Explosion"
                 ]
             }
         ]
@@ -59565,14 +59673,14 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Small Area / Minor"
+                    "Atk: Area"
                 ]
             },
             {
                 "增益效果": [
-                    "Stack: Mana Generation",
-                    "Stack: Health Recovery",
-                    "Self-Revive"
+                    "Mana - Stack : Mana Gen ↑",
+                    "Heal - Stack : Regen",
+                    "Heal - Self Revive"
                 ]
             }
         ]
@@ -59624,13 +59732,13 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: All",
-                    "Attack: Damage over Time (DoT)"
+                    "Atk: All",
+                    "Dmg: DoT"
                 ]
             },
             {
                 "负面效果": [
-                    "DoT: Burn"
+                    "Dmg - DoT : Burn"
                 ]
             }
         ]
@@ -59682,13 +59790,13 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: All",
-                    "Attack: Damage over Time (DoT)"
+                    "Atk: All",
+                    "Dmg: DoT"
                 ]
             },
             {
                 "负面效果": [
-                    "DoT: Burn"
+                    "Dmg - DoT : Burn"
                 ]
             }
         ]
@@ -59742,17 +59850,17 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Small Area / Minor"
+                    "Atk: Area"
                 ]
             },
             {
                 "特殊效果": [
-                    "Damage ↑ : Nature"
+                    "Dmg - Dmg ↑ : Nature"
                 ]
             },
             {
                 "负面效果": [
-                    "Defense ↓ : Fire"
+                    "Def - Def ↓ : Fire"
                 ]
             }
         ]
@@ -59808,18 +59916,18 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: All",
-                    "Attack: Damage over Time (DoT)"
+                    "Atk: All",
+                    "Dmg: DoT"
                 ]
             },
             {
                 "特殊效果": [
-                    "Damage ↑ : Nature"
+                    "Dmg - Dmg ↑ : Nature"
                 ]
             },
             {
                 "负面效果": [
-                    "DoT: Burn"
+                    "Dmg - DoT : Burn"
                 ]
             }
         ]
@@ -59876,18 +59984,18 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: All",
-                    "Attack: Damage over Time (DoT)"
+                    "Atk: All",
+                    "Dmg: DoT"
                 ]
             },
             {
                 "特殊效果": [
-                    "Bypass (Defensive Buffs)"
+                    "Atk - Bypass / Ignore"
                 ]
             },
             {
                 "负面效果": [
-                    "DoT: Burn"
+                    "Dmg - DoT : Burn"
                 ]
             }
         ]
@@ -59939,12 +60047,12 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Single"
+                    "Atk: Single"
                 ]
             },
             {
                 "负面效果": [
-                    "Defense ↓"
+                    "Def - Defense ↓"
                 ]
             }
         ]
@@ -59995,12 +60103,12 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "特殊效果": [
-                    "Mana Cut"
+                    "Mana - Mana Cut"
                 ]
             },
             {
                 "增益效果": [
-                    "Counterattack / Reflect"
+                    "Def - Counterattack"
                 ]
             }
         ]
@@ -60053,12 +60161,12 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "特殊效果": [
-                    "Mana Cut"
+                    "Mana - Mana Cut"
                 ]
             },
             {
                 "增益效果": [
-                    "Counterattack / Reflect"
+                    "Def - Counterattack"
                 ]
             }
         ]
@@ -60110,12 +60218,12 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Small Area / Minor"
+                    "Atk: Area"
                 ]
             },
             {
                 "负面效果": [
-                    "Defense ↓"
+                    "Def - Defense ↓"
                 ]
             }
         ]
@@ -60169,13 +60277,13 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: All",
+                    "Atk: All",
                     "Heal: Special"
                 ]
             },
             {
                 "特殊效果": [
-                    "Destroy Minions"
+                    "Atk - Destroy Minions"
                 ]
             }
         ]
@@ -60227,12 +60335,12 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: All"
+                    "Atk: All"
                 ]
             },
             {
-                "特殊效果": [
-                    "Dispel Buffs"
+                "增益效果": [
+                    "Status - Dispel Buffs"
                 ]
             }
         ]
@@ -60288,18 +60396,18 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Small Area / Minor"
+                    "Atk: Area"
                 ]
             },
             {
                 "特殊效果": [
-                    "Dispel Buffs",
-                    "Damage ↑ : Nature"
+                    "Dmg - Dmg ↑ : Nature"
                 ]
             },
             {
                 "增益效果": [
-                    "Attack ↑"
+                    "Atk - Attack ↑",
+                    "Status - Dispel Buffs"
                 ]
             }
         ]
@@ -60356,17 +60464,17 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Target and Nearby"
+                    "Atk: Minor to Nearby"
                 ]
             },
             {
                 "特殊效果": [
-                    "Bypass (Defensive Buffs)"
+                    "Atk - Bypass / Ignore"
                 ]
             },
             {
                 "负面效果": [
-                    "Defense ↓"
+                    "Def - Defense ↓"
                 ]
             }
         ]
@@ -60418,12 +60526,12 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Small Area / Minor"
+                    "Atk: Area"
                 ]
             },
             {
                 "负面效果": [
-                    "Defense ↓ : Fire"
+                    "Def - Def ↓ : Fire"
                 ]
             }
         ]
@@ -60480,17 +60588,17 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Small Area / Minor"
+                    "Atk: Area"
                 ]
             },
             {
                 "增益效果": [
-                    "Block Ailments"
+                    "Status - Block Ailments"
                 ]
             },
             {
                 "负面效果": [
-                    "Buff Immunity / Block Buffs"
+                    "Status - Buff Immunity"
                 ]
             }
         ]
@@ -60546,8 +60654,8 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: From Damage Dealt",
-                    "Attack: Single"
+                    "Heal: From Dmg",
+                    "Atk: Single"
                 ]
             }
         ]
@@ -60605,8 +60713,8 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: From Damage Dealt",
-                    "Attack: Single"
+                    "Heal: From Dmg",
+                    "Atk: Single"
                 ]
             }
         ]
@@ -60658,13 +60766,13 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Single",
-                    "Attack: Damage over Time (DoT)"
+                    "Atk: Single",
+                    "Dmg: DoT"
                 ]
             },
             {
                 "负面效果": [
-                    "DoT: Burn"
+                    "Dmg - DoT : Burn"
                 ]
             }
         ]
@@ -60713,13 +60821,13 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: All",
-                    "Attack: Damage over Time (DoT)"
+                    "Atk: All",
+                    "Dmg: DoT"
                 ]
             },
             {
                 "负面效果": [
-                    "DoT: Burn"
+                    "Dmg - DoT : Burn"
                 ]
             }
         ]
@@ -60772,18 +60880,18 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Small Area / Minor",
-                    "Attack: Damage over Time (DoT)"
+                    "Atk: Area",
+                    "Dmg: DoT"
                 ]
             },
             {
                 "特殊效果": [
-                    "Heal from Damage"
+                    "Heal - From Dmg"
                 ]
             },
             {
                 "负面效果": [
-                    "DoT: Burn"
+                    "Dmg - DoT : Burn"
                 ]
             }
         ]
@@ -60839,18 +60947,18 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Single",
-                    "Attack: Damage over Time (DoT)"
+                    "Atk: Single",
+                    "Dmg: DoT"
                 ]
             },
             {
                 "特殊效果": [
-                    "Damage ↑ : Nature"
+                    "Dmg - Dmg ↑ : Nature"
                 ]
             },
             {
                 "负面效果": [
-                    "DoT: Burn"
+                    "Dmg - DoT : Burn"
                 ]
             }
         ]
@@ -60907,18 +61015,18 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Single",
-                    "Attack: Damage over Time (DoT)"
+                    "Atk: Single",
+                    "Dmg: DoT"
                 ]
             },
             {
                 "特殊效果": [
-                    "Bypass (Defensive Buffs)"
+                    "Atk - Bypass / Ignore"
                 ]
             },
             {
                 "负面效果": [
-                    "DoT: Burn"
+                    "Dmg - DoT : Burn"
                 ]
             }
         ]
@@ -60972,13 +61080,13 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Small Area / Minor",
-                    "Attack: Damage over Time (DoT)"
+                    "Atk: Area",
+                    "Dmg: DoT"
                 ]
             },
             {
                 "负面效果": [
-                    "DoT: Burn"
+                    "Dmg - DoT : Burn"
                 ]
             }
         ]
@@ -61042,19 +61150,19 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: All",
-                    "Attack: Single"
+                    "Atk: All",
+                    "Atk: Single"
                 ]
             },
             {
                 "特殊效果": [
-                    "Mana Cut",
-                    "Extra Attack"
+                    "Mana - Mana Cut",
+                    "Atk - Extra Attack"
                 ]
             },
             {
                 "增益效果": [
-                    "Mana Generation ↑"
+                    "Mana - Mana Gen ↑"
                 ]
             }
         ]
@@ -61108,8 +61216,8 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "增益效果": [
-                    "Counterattack / Reflect",
-                    "Attack ↑"
+                    "Def - Counterattack",
+                    "Atk - Attack ↑"
                 ]
             }
         ]
@@ -61163,8 +61271,8 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "增益效果": [
-                    "Counterattack / Reflect",
-                    "Attack ↑"
+                    "Def - Counterattack",
+                    "Atk - Attack ↑"
                 ]
             }
         ]
@@ -61221,12 +61329,12 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Target and Nearby"
+                    "Atk: Minor to Nearby"
                 ]
             },
             {
                 "特殊效果": [
-                    "Fiend"
+                    "Summon - Fiend"
                 ]
             }
         ]
@@ -61288,14 +61396,18 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Small Area / Minor",
-                    "Attack: Damage over Time (DoT)"
+                    "Atk: Area",
+                    "Dmg: DoT"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Status - Replace with Ailment"
                 ]
             },
             {
                 "负面效果": [
-                    "DoT: Burn",
-                    "Convert to Ailment"
+                    "Dmg - DoT : Burn"
                 ]
             }
         ]
@@ -61361,8 +61473,8 @@ window.allHeroes =
                 ]
             },
             {
-                "特殊效果": [
-                    "Cleanse Status Ailments"
+                "负面效果": [
+                    "Status - Cleanse Ailments"
                 ]
             }
         ]
@@ -61431,14 +61543,14 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Small Area / Minor"
+                    "Atk: Area"
                 ]
             },
             {
                 "负面效果": [
-                    "Mana Generation ↓ / Block",
-                    "Healing Amount ↓",
-                    "Buff Immunity / Block Buffs"
+                    "Mana - Mana Gen ↓/Block",
+                    "Heal - Healing ↓",
+                    "Status - Buff Immunity"
                 ]
             }
         ]
@@ -61493,13 +61605,13 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: All",
-                    "Attack: Damage over Time (DoT)"
+                    "Atk: All",
+                    "Dmg: DoT"
                 ]
             },
             {
                 "负面效果": [
-                    "DoT: Bleed"
+                    "Dmg - DoT : Bleed"
                 ]
             }
         ]
@@ -61554,13 +61666,13 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: All",
-                    "Attack: Damage over Time (DoT)"
+                    "Atk: All",
+                    "Dmg: DoT"
                 ]
             },
             {
                 "负面效果": [
-                    "DoT: Bleed"
+                    "Dmg - DoT : Bleed"
                 ]
             }
         ]
@@ -61612,12 +61724,12 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Small Area / Minor"
+                    "Atk: Area"
                 ]
             },
             {
                 "负面效果": [
-                    "Attack ↓"
+                    "Atk - Attack ↓"
                 ]
             }
         ]
@@ -61672,18 +61784,18 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Small Area / Minor",
-                    "Attack: Damage over Time (DoT)"
+                    "Atk: Area",
+                    "Dmg: DoT"
                 ]
             },
             {
                 "增益效果": [
-                    "Attack ↑"
+                    "Atk - Attack ↑"
                 ]
             },
             {
                 "负面效果": [
-                    "DoT: Poison"
+                    "Dmg - DoT : Poison"
                 ]
             }
         ]
@@ -61736,12 +61848,12 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Target and Nearby"
+                    "Atk: Minor to Nearby"
                 ]
             },
             {
                 "负面效果": [
-                    "Attack ↓"
+                    "Atk - Attack ↓"
                 ]
             }
         ]
@@ -61797,17 +61909,17 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Target and Nearby"
+                    "Atk: Minor to Nearby"
                 ]
             },
             {
                 "特殊效果": [
-                    "Damage ↑ : Nature"
+                    "Dmg - Dmg ↑ : Nature"
                 ]
             },
             {
                 "负面效果": [
-                    "Attack ↓"
+                    "Atk - Attack ↓"
                 ]
             }
         ]
@@ -61864,13 +61976,13 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Revive"
+                    "Heal: Revive"
                 ]
             },
             {
                 "增益效果": [
-                    "Critical Chance ↑",
-                    "Attack ↑"
+                    "Atk - Crit Chance ↑",
+                    "Atk - Attack ↑"
                 ]
             }
         ]
@@ -61930,12 +62042,12 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Over Time (HoT)"
+                    "Heal: Over Time"
                 ]
             },
             {
-                "特殊效果": [
-                    "Cleanse Status Ailments"
+                "负面效果": [
+                    "Status - Cleanse Ailments"
                 ]
             }
         ]
@@ -61990,13 +62102,13 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Single"
+                    "Atk: Single"
                 ]
             },
             {
                 "增益效果": [
-                    "Mana Generation ↑",
-                    "Attack ↑"
+                    "Mana - Mana Gen ↑",
+                    "Atk - Attack ↑"
                 ]
             }
         ]
@@ -62051,13 +62163,13 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Single"
+                    "Atk: Single"
                 ]
             },
             {
                 "增益效果": [
-                    "Counterattack / Reflect",
-                    "Mana Recovery"
+                    "Def - Counterattack",
+                    "Mana - Mana Gain"
                 ]
             }
         ]
@@ -62112,13 +62224,13 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Single"
+                    "Atk: Single"
                 ]
             },
             {
                 "增益效果": [
-                    "Counterattack / Reflect",
-                    "Mana Recovery"
+                    "Def - Counterattack",
+                    "Mana - Mana Gain"
                 ]
             }
         ]
@@ -62170,12 +62282,12 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: All"
+                    "Atk: All"
                 ]
             },
             {
                 "特殊效果": [
-                    "Extra Damage"
+                    "Dmg - Extra"
                 ]
             }
         ]
@@ -62227,12 +62339,12 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Small Area / Minor"
+                    "Atk: Area"
                 ]
             },
             {
                 "特殊效果": [
-                    "Extra Damage"
+                    "Dmg - Extra"
                 ]
             }
         ]
@@ -62284,12 +62396,12 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Target and Nearby"
+                    "Atk: Minor to Nearby"
                 ]
             },
             {
                 "负面效果": [
-                    "Defense ↓"
+                    "Def - Defense ↓"
                 ]
             }
         ]
@@ -62349,17 +62461,17 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Small Area / Minor"
+                    "Atk: Area"
                 ]
             },
             {
                 "特殊效果": [
-                    "Fiend"
+                    "Summon - Fiend"
                 ]
             },
             {
                 "负面效果": [
-                    "Mana Drain"
+                    "Mana - Mana Steal"
                 ]
             }
         ]
@@ -62416,13 +62528,13 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "增益效果": [
-                    "Damage Share",
-                    "Defense ↑"
+                    "Def - Dmg Share",
+                    "Def - Defense ↑"
                 ]
             },
             {
                 "负面效果": [
-                    "Defense ↓"
+                    "Def - Defense ↓"
                 ]
             }
         ]
@@ -62474,12 +62586,12 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Over Time (HoT)"
+                    "Heal: Over Time"
                 ]
             },
             {
                 "增益效果": [
-                    "Attack ↑"
+                    "Atk - Attack ↑"
                 ]
             }
         ]
@@ -62534,12 +62646,12 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Single"
+                    "Atk: Single"
                 ]
             },
             {
                 "特殊效果": [
-                    "Reset Ailment Duration"
+                    "Status - Reset Ailment Duration"
                 ]
             }
         ]
@@ -62594,18 +62706,18 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Single",
-                    "Attack: Damage over Time (DoT)"
+                    "Atk: Single",
+                    "Dmg: DoT"
                 ]
             },
             {
                 "特殊效果": [
-                    "Minion"
+                    "Summon - Minion"
                 ]
             },
             {
                 "负面效果": [
-                    "DoT: Burn"
+                    "Dmg - DoT : Burn"
                 ]
             }
         ]
@@ -62665,18 +62777,18 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Single",
-                    "Attack: Damage over Time (DoT)"
+                    "Atk: Single",
+                    "Dmg: DoT"
                 ]
             },
             {
                 "特殊效果": [
-                    "Minion"
+                    "Summon - Minion"
                 ]
             },
             {
                 "负面效果": [
-                    "DoT: Burn"
+                    "Dmg - DoT : Burn"
                 ]
             }
         ]
@@ -62738,20 +62850,20 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: All",
-                    "Attack: Damage over Time (DoT)"
+                    "Atk: All",
+                    "Dmg: DoT"
                 ]
             },
             {
                 "特殊效果": [
-                    "Minion"
+                    "Summon - Minion"
                 ]
             },
             {
                 "负面效果": [
-                    "DoT: Bleed",
-                    "Madness",
-                    "Self-Debuff"
+                    "Dmg - DoT : Bleed",
+                    "Status - Insanity",
+                    "Status - Self-Debuff"
                 ]
             }
         ]
@@ -62818,19 +62930,19 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Single"
+                    "Atk: Single"
                 ]
             },
             {
                 "特殊效果": [
-                    "Damage ↑ : Nature",
-                    "Bypass Dodge"
+                    "Dmg - Dmg ↑ : Nature",
+                    "Atk - Bypass Dodge"
                 ]
             },
             {
                 "增益效果": [
-                    "Dodge",
-                    "Stack: Mana Generation"
+                    "Def - Dodge",
+                    "Mana - Stack : Mana Gen ↑"
                 ]
             }
         ]
@@ -62891,15 +63003,15 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Small Area / Minor"
+                    "Atk: Area"
                 ]
             },
             {
                 "特殊效果": [
-                    "Bypass (Defensive Buffs)",
-                    "Destroy Minions",
-                    "Mana from Destroyed Minions",
-                    "Heal from Minions"
+                    "Atk - Bypass / Ignore",
+                    "Atk - Destroy Minions",
+                    "Mana - Gain on Minion Destruction",
+                    "Heal - From Minions"
                 ]
             }
         ]
@@ -62960,15 +63072,15 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Small Area / Minor"
+                    "Atk: Area"
                 ]
             },
             {
                 "特殊效果": [
-                    "Bypass (Defensive Buffs)",
-                    "Destroy Minions",
-                    "Mana from Destroyed Minions",
-                    "Heal from Minions"
+                    "Atk - Bypass / Ignore",
+                    "Atk - Destroy Minions",
+                    "Mana - Gain on Minion Destruction",
+                    "Heal - From Minions"
                 ]
             }
         ]
@@ -63025,17 +63137,17 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Single"
+                    "Atk: Single"
                 ]
             },
             {
                 "特殊效果": [
-                    "Heal from Damage"
+                    "Heal - From Dmg"
                 ]
             },
             {
                 "负面效果": [
-                    "Block Healing"
+                    "Heal - Block Healing"
                 ]
             }
         ]
@@ -63094,12 +63206,12 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: All"
+                    "Atk: All"
                 ]
             },
             {
                 "增益效果": [
-                    "Defense ↑"
+                    "Def - Defense ↑"
                 ]
             }
         ]
@@ -63155,8 +63267,8 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: From Damage Dealt",
-                    "Attack: All"
+                    "Heal: From Dmg",
+                    "Atk: All"
                 ]
             }
         ]
@@ -63212,14 +63324,14 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Damage over Time (DoT)"
+                    "Dmg: DoT"
                 ]
             },
             {
                 "负面效果": [
-                    "Max Health ↓",
-                    "Healing Amount ↓",
-                    "DoT: Burn"
+                    "Heal - Max Health ↓",
+                    "Heal - Healing ↓",
+                    "Dmg - DoT : Burn"
                 ]
             }
         ]
@@ -63280,17 +63392,17 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: All"
+                    "Atk: All"
                 ]
             },
             {
                 "增益效果": [
-                    "Mana Recovery"
+                    "Mana - Mana Gain"
                 ]
             },
             {
                 "负面效果": [
-                    "Stack: Damage Taken ↑"
+                    "Def - Stack : Dmg Taken ↑"
                 ]
             }
         ]
@@ -63346,13 +63458,13 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Over Time (HoT)"
+                    "Heal: Over Time"
                 ]
             },
             {
                 "增益效果": [
-                    "Critical Chance ↑",
-                    "Attack ↑"
+                    "Atk - Crit Chance ↑",
+                    "Atk - Attack ↑"
                 ]
             }
         ]
@@ -63412,14 +63524,14 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Boost",
-                    "Heal: Over Time (HoT)"
+                    "Heal: Boost Health",
+                    "Heal: Over Time"
                 ]
             },
             {
                 "增益效果": [
-                    "Counterattack / Reflect",
-                    "Attack ↑"
+                    "Def - Counterattack",
+                    "Atk - Attack ↑"
                 ]
             }
         ]
@@ -63479,17 +63591,17 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Random"
+                    "Atk: Random"
                 ]
             },
             {
                 "特殊效果": [
-                    "Transform: Attack Power"
+                    "Dmg - Tile : Up"
                 ]
             },
             {
                 "负面效果": [
-                    "Defense ↓ : Fire"
+                    "Def - Def ↓ : Fire"
                 ]
             }
         ]
@@ -63548,21 +63660,21 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Small Area / Minor",
-                    "Attack: Damage over Time (DoT)"
+                    "Atk: Area",
+                    "Dmg: DoT"
                 ]
             },
             {
                 "特殊效果": [
-                    "Extra Damage"
+                    "Dmg - Extra",
+                    "Dmg - Extra",
+                    "Status - Reduce Buff Duration"
                 ]
             },
             {
                 "负面效果": [
-                    "Reduce Buff Duration",
-                    "DoT: Burn",
-                    "Defense ↓",
-                    "Extra Damage"
+                    "Dmg - DoT : Burn",
+                    "Def - Defense ↓"
                 ]
             }
         ]
@@ -63631,14 +63743,14 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Variable",
-                    "Attack: Damage over Time (DoT)"
+                    "Atk: Variable Targets",
+                    "Dmg: DoT"
                 ]
             },
             {
                 "负面效果": [
-                    "DoT: Bleed",
-                    "Stack: Damage Taken ↑"
+                    "Dmg - DoT : Bleed",
+                    "Def - Stack : Dmg Taken ↑"
                 ]
             }
         ]
@@ -63690,13 +63802,13 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: All",
-                    "Attack: Damage over Time (DoT)"
+                    "Atk: All",
+                    "Dmg: DoT"
                 ]
             },
             {
                 "负面效果": [
-                    "DoT: Burn"
+                    "Dmg - DoT : Burn"
                 ]
             }
         ]
@@ -63750,18 +63862,18 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Small Area / Minor",
-                    "Attack: Damage over Time (DoT)"
+                    "Atk: Area",
+                    "Dmg: DoT"
                 ]
             },
             {
                 "特殊效果": [
-                    "Extra Damage"
+                    "Dmg - Extra"
                 ]
             },
             {
                 "负面效果": [
-                    "DoT: Burn"
+                    "Dmg - DoT : Burn"
                 ]
             }
         ]
@@ -63814,18 +63926,18 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Small Area / Minor",
-                    "Attack: Damage over Time (DoT)"
+                    "Atk: Area",
+                    "Dmg: DoT"
                 ]
             },
             {
                 "特殊效果": [
-                    "Heal from Damage"
+                    "Heal - From Dmg"
                 ]
             },
             {
                 "负面效果": [
-                    "DoT: Burn"
+                    "Dmg - DoT : Burn"
                 ]
             }
         ]
@@ -63881,18 +63993,18 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: All",
-                    "Attack: Damage over Time (DoT)"
+                    "Atk: All",
+                    "Dmg: DoT"
                 ]
             },
             {
                 "特殊效果": [
-                    "Damage ↑ : Nature"
+                    "Dmg - Dmg ↑ : Nature"
                 ]
             },
             {
                 "负面效果": [
-                    "DoT: Burn"
+                    "Dmg - DoT : Burn"
                 ]
             }
         ]
@@ -63948,18 +64060,18 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: All",
-                    "Attack: Damage over Time (DoT)"
+                    "Atk: All",
+                    "Dmg: DoT"
                 ]
             },
             {
                 "特殊效果": [
-                    "Bypass (Defensive Buffs)"
+                    "Atk - Bypass / Ignore"
                 ]
             },
             {
                 "负面效果": [
-                    "DoT: Burn"
+                    "Dmg - DoT : Burn"
                 ]
             }
         ]
@@ -64017,13 +64129,13 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Random",
-                    "Heal: Boost"
+                    "Atk: Random",
+                    "Heal: Boost Health"
                 ]
             },
             {
                 "特殊效果": [
-                    "Extra Attack"
+                    "Atk - Extra Attack"
                 ]
             }
         ]
@@ -64082,13 +64194,13 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Single",
-                    "Heal: Boost"
+                    "Atk: Single",
+                    "Heal: Boost Health"
                 ]
             },
             {
                 "特殊效果": [
-                    "Extra Attack"
+                    "Atk - Extra Attack"
                 ]
             }
         ]
@@ -64148,14 +64260,14 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Small Area / Minor",
-                    "Attack: Random"
+                    "Atk: Area",
+                    "Atk: Random"
                 ]
             },
             {
                 "特殊效果": [
-                    "Fiend",
-                    "Explosion / Detonation"
+                    "Summon - Fiend",
+                    "Dmg - Explosion"
                 ]
             }
         ]
@@ -64215,17 +64327,17 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: All"
+                    "Atk: All"
                 ]
             },
             {
-                "特殊效果": [
-                    "Dispel Buffs"
+                "增益效果": [
+                    "Status - Dispel Buffs"
                 ]
             },
             {
                 "负面效果": [
-                    "Change Color / Position"
+                    "Def - Change Position"
                 ]
             }
         ]
@@ -64290,17 +64402,13 @@ window.allHeroes =
             {
                 "基础技能": [
                     "Heal: Instant",
-                    "Attack: Single"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "Mana Recovery"
+                    "Atk: Single"
                 ]
             },
             {
                 "增益效果": [
-                    "Stack: Attack ↑"
+                    "Atk - Stack : Atk ↑",
+                    "Mana - Mana Gain"
                 ]
             }
         ]
@@ -64367,19 +64475,19 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Small Area / Minor"
+                    "Atk: Area"
                 ]
             },
             {
                 "特殊效果": [
-                    "Bypass Dodge",
-                    "Extra Damage"
+                    "Atk - Bypass Dodge",
+                    "Dmg - Extra"
                 ]
             },
             {
                 "负面效果": [
-                    "Max Health ↓",
-                    "Accuracy ↓"
+                    "Heal - Max Health ↓",
+                    "Atk - Accuracy ↓"
                 ]
             }
         ]
@@ -64437,17 +64545,17 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: All"
+                    "Atk: All"
                 ]
             },
             {
                 "特殊效果": [
-                    "Fiend"
+                    "Summon - Fiend"
                 ]
             },
             {
                 "负面效果": [
-                    "Attack ↓"
+                    "Atk - Attack ↓"
                 ]
             }
         ]
@@ -64501,9 +64609,9 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "增益效果": [
-                    "Damage Reduction",
-                    "Taunt",
-                    "Attack ↑"
+                    "Def - Dmg Reduction",
+                    "Def - Taunt",
+                    "Atk - Attack ↑"
                 ]
             }
         ]
@@ -64558,9 +64666,9 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "增益效果": [
-                    "Damage Reduction",
-                    "Taunt",
-                    "Attack ↑"
+                    "Def - Dmg Reduction",
+                    "Def - Taunt",
+                    "Atk - Attack ↑"
                 ]
             }
         ]
@@ -64623,8 +64731,8 @@ window.allHeroes =
                 ]
             },
             {
-                "特殊效果": [
-                    "Dispel Buffs"
+                "增益效果": [
+                    "Status - Dispel Buffs"
                 ]
             }
         ]
@@ -64683,12 +64791,12 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Single"
+                    "Atk: Single"
                 ]
             },
             {
                 "增益效果": [
-                    "Stack: Attack ↑"
+                    "Atk - Stack : Atk ↑"
                 ]
             }
         ]
@@ -64754,22 +64862,22 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: All"
+                    "Atk: All"
                 ]
             },
             {
                 "特殊效果": [
-                    "Fiend"
+                    "Summon - Fiend"
                 ]
             },
             {
                 "增益效果": [
-                    "Defense ↑ : Ice"
+                    "Def - Def ↑ : Ice"
                 ]
             },
             {
                 "负面效果": [
-                    "Defense ↓ : Fire"
+                    "Def - Def ↓ : Fire"
                 ]
             }
         ]
@@ -64820,12 +64928,12 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Small Area / Minor"
+                    "Atk: Area"
                 ]
             },
             {
                 "特殊效果": [
-                    "Extra Damage"
+                    "Dmg - Extra"
                 ]
             }
         ]
@@ -64878,12 +64986,12 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Single"
+                    "Atk: Single"
                 ]
             },
             {
                 "特殊效果": [
-                    "Extra Damage"
+                    "Dmg - Extra"
                 ]
             }
         ]
@@ -64938,12 +65046,12 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Single"
+                    "Atk: Single"
                 ]
             },
             {
                 "特殊效果": [
-                    "Extra Damage"
+                    "Dmg - Extra"
                 ]
             }
         ]
@@ -65002,13 +65110,13 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: All"
+                    "Atk: All"
                 ]
             },
             {
                 "特殊效果": [
-                    "Fiend",
-                    "Steal Buffs"
+                    "Summon - Fiend",
+                    "Status - Steal Buffs"
                 ]
             }
         ]
@@ -65065,17 +65173,13 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Target and Nearby"
+                    "Atk: Minor to Nearby"
                 ]
             },
             {
                 "特殊效果": [
-                    "Redistribute Ailments"
-                ]
-            },
-            {
-                "负面效果": [
-                    "Reset Ailment Duration"
+                    "Status - Redistribute Ailments",
+                    "Status - Reset Ailment Duration"
                 ]
             }
         ]
@@ -65139,19 +65243,19 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Single"
+                    "Atk: Single"
                 ]
             },
             {
                 "特殊效果": [
-                    "Chain Attack"
+                    "Atk - Chain"
                 ]
             },
             {
                 "负面效果": [
-                    "Confusion / Silence / Sleep",
-                    "Weaken: Attack",
-                    "Weaken: Defense"
+                    "Mana - Mindless/Silence/Sleep",
+                    "Atk - Wither : Atk↓",
+                    "Def - Wither : Def↓"
                 ]
             }
         ]
@@ -65214,18 +65318,18 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Small Area / Minor"
+                    "Atk: Area"
                 ]
             },
             {
                 "特殊效果": [
-                    "Explosion / Detonation"
+                    "Dmg - Explosion"
                 ]
             },
             {
                 "负面效果": [
-                    "Mana Generation ↓ / Block",
-                    "Healing Amount ↓"
+                    "Mana - Mana Gen ↓/Block",
+                    "Heal - Healing ↓"
                 ]
             }
         ]
@@ -65286,13 +65390,13 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Small Area / Minor"
+                    "Atk: Area"
                 ]
             },
             {
                 "负面效果": [
-                    "Paralysis",
-                    "Devouring Goo"
+                    "Mana - Paralyze",
+                    "Status - Devouring Goo"
                 ]
             }
         ]
@@ -65350,14 +65454,14 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: From Damage Dealt",
-                    "Attack: Small Area / Minor",
-                    "Attack: Damage over Time (DoT)"
+                    "Heal: From Dmg",
+                    "Atk: Area",
+                    "Dmg: DoT"
                 ]
             },
             {
                 "负面效果": [
-                    "DoT: Bleed"
+                    "Dmg - DoT : Bleed"
                 ]
             }
         ]
@@ -65419,14 +65523,14 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Boost",
+                    "Heal: Boost Health",
                     "Heal: Instant",
                     "Heal: Special"
                 ]
             },
             {
-                "特殊效果": [
-                    "Cleanse Status Ailments"
+                "负面效果": [
+                    "Status - Cleanse Ailments"
                 ]
             }
         ]
@@ -65487,19 +65591,15 @@ window.allHeroes =
         },
         "cn_skill_info": [
             {
-                "特殊效果": [
-                    "Cleanse Status Ailments"
-                ]
-            },
-            {
                 "增益效果": [
-                    "Damage Share",
-                    "Defense ↑"
+                    "Def - Dmg Share",
+                    "Def - Defense ↑"
                 ]
             },
             {
                 "负面效果": [
-                    "Defense ↓"
+                    "Def - Defense ↓",
+                    "Status - Cleanse Ailments"
                 ]
             }
         ]
@@ -65559,17 +65659,17 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: All"
+                    "Atk: All"
                 ]
             },
             {
                 "特殊效果": [
-                    "Fiend"
+                    "Summon - Fiend"
                 ]
             },
             {
                 "负面效果": [
-                    "Attack ↓"
+                    "Atk - Attack ↓"
                 ]
             }
         ]
@@ -65624,14 +65724,14 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "特殊效果": [
-                    "Mana Cut",
-                    "Minion",
-                    "Explosion / Detonation"
+                    "Mana - Mana Cut",
+                    "Summon - Minion",
+                    "Dmg - Explosion"
                 ]
             },
             {
                 "负面效果": [
-                    "Mana Generation ↓ / Block"
+                    "Mana - Mana Gen ↓/Block"
                 ]
             }
         ]
@@ -65687,12 +65787,12 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Small Area / Minor"
+                    "Atk: Area"
                 ]
             },
             {
                 "负面效果": [
-                    "Confusion / Silence / Sleep"
+                    "Mana - Mindless/Silence/Sleep"
                 ]
             }
         ]
@@ -65749,14 +65849,14 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Over Time (HoT)",
-                    "Attack: Single",
-                    "Attack: Damage over Time (DoT)"
+                    "Heal: Over Time",
+                    "Atk: Single",
+                    "Dmg: DoT"
                 ]
             },
             {
                 "负面效果": [
-                    "DoT: Burn"
+                    "Dmg - DoT : Burn"
                 ]
             }
         ]
@@ -65816,18 +65916,18 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Single"
+                    "Atk: Single"
                 ]
             },
             {
-                "特殊效果": [
-                    "Dispel Buffs"
+                "增益效果": [
+                    "Status - Dispel Buffs"
                 ]
             },
             {
                 "负面效果": [
-                    "Buff Immunity / Block Buffs",
-                    "Disable Special Skill"
+                    "Status - Buff Immunity",
+                    "Status - Block Talent"
                 ]
             }
         ]
@@ -65888,19 +65988,19 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Small Area / Minor",
-                    "Attack: Damage over Time (DoT)"
+                    "Atk: Area",
+                    "Dmg: DoT"
                 ]
             },
             {
                 "特殊效果": [
-                    "Mega Minion"
+                    "Summon - Mega Minion"
                 ]
             },
             {
                 "负面效果": [
-                    "DoT: Bleed",
-                    "Defense ↓"
+                    "Dmg - DoT : Bleed",
+                    "Def - Defense ↓"
                 ]
             }
         ]
@@ -65965,14 +66065,14 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Small Area / Minor",
-                    "Attack: Damage over Time (DoT)"
+                    "Atk: Area",
+                    "Dmg: DoT"
                 ]
             },
             {
                 "负面效果": [
-                    "DoT: Burn",
-                    "Defense ↓"
+                    "Dmg - DoT : Burn",
+                    "Def - Defense ↓"
                 ]
             }
         ]
@@ -66038,14 +66138,14 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Small Area / Minor",
-                    "Attack: Damage over Time (DoT)"
+                    "Atk: Area",
+                    "Dmg: DoT"
                 ]
             },
             {
                 "负面效果": [
-                    "DoT: Burn",
-                    "Defense ↓"
+                    "Dmg - DoT : Burn",
+                    "Def - Defense ↓"
                 ]
             }
         ]
@@ -66105,13 +66205,13 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Single",
-                    "Attack: Damage over Time (DoT)"
+                    "Atk: Single",
+                    "Dmg: DoT"
                 ]
             },
             {
                 "负面效果": [
-                    "DoT: Burn"
+                    "Dmg - DoT : Burn"
                 ]
             }
         ]
@@ -66177,20 +66277,24 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: All",
-                    "Attack: Damage over Time (DoT)"
+                    "Atk: All",
+                    "Dmg: DoT"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Heal - Self Recovery"
                 ]
             },
             {
                 "增益效果": [
-                    "Mana Generation ↑",
-                    "Self-Heal"
+                    "Mana - Mana Gen ↑"
                 ]
             },
             {
                 "负面效果": [
-                    "DoT: Burn",
-                    "Defense ↓"
+                    "Dmg - DoT : Burn",
+                    "Def - Defense ↓"
                 ]
             }
         ]
@@ -66252,18 +66356,18 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Single"
+                    "Atk: Single"
                 ]
             },
             {
                 "特殊效果": [
-                    "Extra Attack"
+                    "Atk - Extra Attack"
                 ]
             },
             {
                 "负面效果": [
-                    "Buff Immunity / Block Buffs",
-                    "Attack ↓"
+                    "Status - Buff Immunity",
+                    "Atk - Attack ↓"
                 ]
             }
         ]
@@ -66319,12 +66423,12 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Target and Nearby"
+                    "Atk: Minor to Nearby"
                 ]
             },
             {
                 "负面效果": [
-                    "Stack: Defense ↓"
+                    "Def - Stack : Def ↓"
                 ]
             }
         ]
@@ -66382,12 +66486,12 @@ window.allHeroes =
             {
                 "基础技能": [
                     "Heal: Special",
-                    "Attack: Small Area / Minor"
+                    "Atk: Area"
                 ]
             },
             {
                 "增益效果": [
-                    "Counterattack / Reflect"
+                    "Def - Counterattack"
                 ]
             }
         ]
@@ -66439,12 +66543,12 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: All"
+                    "Atk: All"
                 ]
             },
             {
                 "增益效果": [
-                    "Counterattack / Reflect"
+                    "Def - Counterattack"
                 ]
             }
         ]
@@ -66496,12 +66600,12 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: All"
+                    "Atk: All"
                 ]
             },
             {
                 "增益效果": [
-                    "Counterattack / Reflect"
+                    "Def - Counterattack"
                 ]
             }
         ]
@@ -66553,12 +66657,12 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: All"
+                    "Atk: All"
                 ]
             },
             {
                 "增益效果": [
-                    "Counterattack / Reflect"
+                    "Def - Counterattack"
                 ]
             }
         ]
@@ -66614,17 +66718,17 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: All"
+                    "Atk: All"
                 ]
             },
             {
                 "特殊效果": [
-                    "Damage ↑ : Nature"
+                    "Dmg - Dmg ↑ : Nature"
                 ]
             },
             {
                 "增益效果": [
-                    "Counterattack / Reflect"
+                    "Def - Counterattack"
                 ]
             }
         ]
@@ -66684,18 +66788,18 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: All",
-                    "Attack: Damage over Time (DoT)"
+                    "Atk: All",
+                    "Dmg: DoT"
                 ]
             },
             {
-                "特殊效果": [
-                    "Dispel Buffs"
+                "增益效果": [
+                    "Status - Dispel Buffs"
                 ]
             },
             {
                 "负面效果": [
-                    "DoT: Burn"
+                    "Dmg - DoT : Burn"
                 ]
             }
         ]
@@ -66754,17 +66858,17 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: All"
+                    "Atk: All"
                 ]
             },
             {
                 "特殊效果": [
-                    "Fiend"
+                    "Summon - Fiend"
                 ]
             },
             {
                 "负面效果": [
-                    "Mana Generation ↓ / Block"
+                    "Mana - Mana Gen ↓/Block"
                 ]
             }
         ]
@@ -66826,17 +66930,17 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: All"
+                    "Atk: All"
                 ]
             },
             {
                 "特殊效果": [
-                    "Fiend"
+                    "Summon - Fiend"
                 ]
             },
             {
                 "负面效果": [
-                    "Mana Generation ↓ / Block"
+                    "Mana - Mana Gen ↓/Block"
                 ]
             }
         ]
@@ -66896,19 +67000,19 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: All",
-                    "Attack: Damage over Time (DoT)"
+                    "Atk: All",
+                    "Dmg: DoT"
                 ]
             },
             {
                 "特殊效果": [
-                    "Minion"
+                    "Summon - Minion"
                 ]
             },
             {
                 "负面效果": [
-                    "DoT: Burn",
-                    "Defense ↓"
+                    "Dmg - DoT : Burn",
+                    "Def - Defense ↓"
                 ]
             }
         ]
@@ -66970,23 +67074,23 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Over Time (HoT)",
-                    "Attack: Damage over Time (DoT)"
+                    "Heal: Over Time",
+                    "Dmg: DoT"
                 ]
             },
             {
                 "特殊效果": [
-                    "Gamble / Random Effect"
+                    "Atk - Gamble / Random"
                 ]
             },
             {
                 "增益效果": [
-                    "Immunity to Status Ailments"
+                    "Status - Ailment Immunity"
                 ]
             },
             {
                 "负面效果": [
-                    "DoT: Burn"
+                    "Dmg - DoT : Burn"
                 ]
             }
         ]
@@ -67050,23 +67154,23 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Over Time (HoT)",
-                    "Attack: Damage over Time (DoT)"
+                    "Heal: Over Time",
+                    "Dmg: DoT"
                 ]
             },
             {
                 "特殊效果": [
-                    "Gamble / Random Effect"
+                    "Atk - Gamble / Random"
                 ]
             },
             {
                 "增益效果": [
-                    "Immunity to Status Ailments"
+                    "Status - Ailment Immunity"
                 ]
             },
             {
                 "负面效果": [
-                    "DoT: Burn"
+                    "Dmg - DoT : Burn"
                 ]
             }
         ]
@@ -67132,17 +67236,17 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Single"
+                    "Atk: Single"
                 ]
             },
             {
                 "特殊效果": [
-                    "Destroy Minions"
+                    "Atk - Destroy Minions"
                 ]
             },
             {
                 "负面效果": [
-                    "Block Minions"
+                    "Status - Block Minions"
                 ]
             }
         ]
@@ -67199,18 +67303,18 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Single"
+                    "Atk: Single"
                 ]
             },
             {
                 "特殊效果": [
-                    "Damage ↑ : Holy"
+                    "Dmg - Dmg ↑ : Holy"
                 ]
             },
             {
                 "负面效果": [
-                    "Confusion / Silence / Sleep",
-                    "Defense ↓"
+                    "Mana - Mindless/Silence/Sleep",
+                    "Def - Defense ↓"
                 ]
             }
         ]
@@ -67278,19 +67382,19 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Single"
+                    "Atk: Single"
                 ]
             },
             {
                 "特殊效果": [
-                    "Destroy Minions",
-                    "Mana on Kill",
-                    "Self-Heal"
+                    "Atk - Destroy Minions",
+                    "Mana - Mana Gain (on Kill)",
+                    "Heal - Self Recovery"
                 ]
             },
             {
                 "增益效果": [
-                    "Mimic"
+                    "Def - Mimic"
                 ]
             }
         ]
@@ -67356,20 +67460,24 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Single"
+                    "Atk: Single"
                 ]
             },
             {
                 "特殊效果": [
-                    "Cleanse Status Ailments",
-                    "Bypass Dodge",
-                    "Damage ↑ : Fire"
+                    "Atk - Bypass Dodge",
+                    "Dmg - Dmg ↑ : Fire"
                 ]
             },
             {
                 "增益效果": [
-                    "Stack: Mana Generation",
-                    "Stack: Defense ↑"
+                    "Mana - Stack : Mana Gen ↑",
+                    "Def - Stack : Def ↑"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Status - Cleanse Ailments"
                 ]
             }
         ]
@@ -67427,18 +67535,18 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Single",
-                    "Attack: Damage over Time (DoT)"
+                    "Atk: Single",
+                    "Dmg: DoT"
                 ]
             },
             {
                 "特殊效果": [
-                    "Mega Minion"
+                    "Summon - Mega Minion"
                 ]
             },
             {
                 "负面效果": [
-                    "DoT: Bleed"
+                    "Dmg - DoT : Bleed"
                 ]
             }
         ]
@@ -67501,12 +67609,12 @@ window.allHeroes =
             },
             {
                 "特殊效果": [
-                    "Bypass (Defensive Buffs)"
+                    "Atk - Bypass / Ignore"
                 ]
             },
             {
                 "增益效果": [
-                    "Critical Chance ↑"
+                    "Atk - Crit Chance ↑"
                 ]
             }
         ]
@@ -67569,12 +67677,12 @@ window.allHeroes =
             },
             {
                 "特殊效果": [
-                    "Bypass (Defensive Buffs)"
+                    "Atk - Bypass / Ignore"
                 ]
             },
             {
                 "增益效果": [
-                    "Critical Chance ↑"
+                    "Atk - Crit Chance ↑"
                 ]
             }
         ]
@@ -67632,18 +67740,18 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Small Area / Minor"
+                    "Atk: Area"
                 ]
             },
             {
                 "特殊效果": [
-                    "Damage ↑ : Holy"
+                    "Dmg - Dmg ↑ : Holy"
                 ]
             },
             {
                 "负面效果": [
-                    "Healing Amount ↓",
-                    "Mana Generation ↓ / Block"
+                    "Heal - Healing ↓",
+                    "Mana - Mana Gen ↓/Block"
                 ]
             }
         ]
@@ -67703,12 +67811,12 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Boost"
+                    "Heal: Boost Health"
                 ]
             },
             {
                 "增益效果": [
-                    "Immunity to Status Ailments"
+                    "Status - Ailment Immunity"
                 ]
             }
         ]
@@ -67760,12 +67868,12 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Single"
+                    "Atk: Single"
                 ]
             },
             {
                 "特殊效果": [
-                    "Steal Minions"
+                    "Atk - Steal Minions"
                 ]
             }
         ]
@@ -67817,12 +67925,12 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Small Area / Minor"
+                    "Atk: Area"
                 ]
             },
             {
                 "特殊效果": [
-                    "Destroy Minions"
+                    "Atk - Destroy Minions"
                 ]
             }
         ]
@@ -67890,18 +67998,18 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Random"
+                    "Atk: Random"
                 ]
             },
             {
                 "特殊效果": [
-                    "Explosion / Detonation"
+                    "Dmg - Explosion"
                 ]
             },
             {
                 "负面效果": [
-                    "Mana Generation ↓ / Block",
-                    "Defense ↓"
+                    "Mana - Mana Gen ↓/Block",
+                    "Def - Defense ↓"
                 ]
             }
         ]
@@ -67970,18 +68078,18 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Random"
+                    "Atk: Random"
                 ]
             },
             {
                 "特殊效果": [
-                    "Explosion / Detonation"
+                    "Dmg - Explosion"
                 ]
             },
             {
                 "负面效果": [
-                    "Mana Generation ↓ / Block",
-                    "Defense ↓"
+                    "Mana - Mana Gen ↓/Block",
+                    "Def - Defense ↓"
                 ]
             }
         ]
@@ -68040,17 +68148,17 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "特殊效果": [
-                    "Steal Buffs"
+                    "Status - Steal Buffs"
                 ]
             },
             {
                 "增益效果": [
-                    "Defense ↑"
+                    "Def - Defense ↑"
                 ]
             },
             {
                 "负面效果": [
-                    "Madness"
+                    "Status - Insanity"
                 ]
             }
         ]
@@ -68107,17 +68215,17 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Small Area / Minor"
+                    "Atk: Area"
                 ]
             },
             {
                 "特殊效果": [
-                    "Damage ↑ : Nature"
+                    "Dmg - Dmg ↑ : Nature"
                 ]
             },
             {
                 "负面效果": [
-                    "DoT: Burn"
+                    "Dmg - DoT : Burn"
                 ]
             }
         ]
@@ -68175,17 +68283,17 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: All"
+                    "Atk: All"
                 ]
             },
             {
                 "特殊效果": [
-                    "Damage ↑ : Nature"
+                    "Dmg - Dmg ↑ : Nature"
                 ]
             },
             {
                 "负面效果": [
-                    "DoT: Burn"
+                    "Dmg - DoT : Burn"
                 ]
             }
         ]
@@ -68246,7 +68354,7 @@ window.allHeroes =
             },
             {
                 "增益效果": [
-                    "Immunity to Status Ailments"
+                    "Status - Ailment Immunity"
                 ]
             }
         ]
@@ -68301,17 +68409,17 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: All"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "Cleanse Status Ailments"
+                    "Atk: All"
                 ]
             },
             {
                 "增益效果": [
-                    "Defense ↑ : Ice"
+                    "Def - Def ↑ : Ice"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Status - Cleanse Ailments"
                 ]
             }
         ]
@@ -68367,17 +68475,13 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: All"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "Dispel Buffs"
+                    "Atk: All"
                 ]
             },
             {
                 "增益效果": [
-                    "Counterattack / Reflect : Ice"
+                    "Def - Reflect : Ice",
+                    "Status - Dispel Buffs"
                 ]
             }
         ]
@@ -68443,8 +68547,8 @@ window.allHeroes =
             },
             {
                 "增益效果": [
-                    "Damage Reduction",
-                    "Taunt"
+                    "Def - Dmg Reduction",
+                    "Def - Taunt"
                 ]
             }
         ]
@@ -68505,18 +68609,18 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Target and Nearby"
+                    "Atk: Minor to Nearby"
                 ]
             },
             {
                 "特殊效果": [
-                    "Bypass Dodge"
+                    "Atk - Bypass Dodge"
                 ]
             },
             {
                 "负面效果": [
-                    "Increased Damage Taken ↑",
-                    "Attack ↓"
+                    "Def - Dmg Taken ↑",
+                    "Atk - Attack ↓"
                 ]
             }
         ]
@@ -68577,7 +68681,7 @@ window.allHeroes =
             },
             {
                 "增益效果": [
-                    "Immunity to Status Ailments"
+                    "Status - Ailment Immunity"
                 ]
             }
         ]
@@ -68637,13 +68741,13 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Over Time (HoT)",
-                    "Heal: Boost"
+                    "Heal: Over Time",
+                    "Heal: Boost Health"
                 ]
             },
             {
                 "增益效果": [
-                    "Immunity to Status Ailments"
+                    "Status - Ailment Immunity"
                 ]
             }
         ]
@@ -68702,18 +68806,18 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Single"
+                    "Atk: Single"
                 ]
             },
             {
                 "特殊效果": [
-                    "Fiend",
-                    "Explosion / Detonation"
+                    "Summon - Fiend",
+                    "Dmg - Explosion"
                 ]
             },
             {
                 "负面效果": [
-                    "Confusion / Silence / Sleep"
+                    "Mana - Mindless/Silence/Sleep"
                 ]
             }
         ]
@@ -68774,12 +68878,12 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Target and Nearby"
+                    "Atk: Minor to Nearby"
                 ]
             },
             {
                 "增益效果": [
-                    "Attack ↑"
+                    "Atk - Attack ↑"
                 ]
             }
         ]
@@ -68847,17 +68951,17 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: All"
+                    "Atk: All"
                 ]
             },
             {
-                "特殊效果": [
-                    "Dispel Buffs"
+                "增益效果": [
+                    "Status - Dispel Buffs"
                 ]
             },
             {
                 "负面效果": [
-                    "Buff Immunity / Block Buffs"
+                    "Status - Buff Immunity"
                 ]
             }
         ]
@@ -68915,17 +69019,17 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Single"
+                    "Atk: Single"
                 ]
             },
             {
                 "特殊效果": [
-                    "Extra Damage"
+                    "Dmg - Extra"
                 ]
             },
             {
                 "负面效果": [
-                    "Stack: Damage Taken ↑"
+                    "Def - Stack : Dmg Taken ↑"
                 ]
             }
         ]
@@ -68994,13 +69098,13 @@ window.allHeroes =
                 ]
             },
             {
-                "特殊效果": [
-                    "Cleanse Status Ailments"
+                "增益效果": [
+                    "Def - Defense ↑"
                 ]
             },
             {
-                "增益效果": [
-                    "Defense ↑"
+                "负面效果": [
+                    "Status - Cleanse Ailments"
                 ]
             }
         ]
@@ -69069,13 +69173,13 @@ window.allHeroes =
                 ]
             },
             {
-                "特殊效果": [
-                    "Cleanse Status Ailments"
+                "增益效果": [
+                    "Atk - Attack ↑"
                 ]
             },
             {
-                "增益效果": [
-                    "Attack ↑"
+                "负面效果": [
+                    "Status - Cleanse Ailments"
                 ]
             }
         ]
@@ -69132,17 +69236,17 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "特殊效果": [
-                    "Mana Cut"
+                    "Mana - Mana Cut"
                 ]
             },
             {
                 "增益效果": [
-                    "Damage Share"
+                    "Def - Dmg Share"
                 ]
             },
             {
                 "负面效果": [
-                    "Defense ↓"
+                    "Def - Defense ↓"
                 ]
             }
         ]
@@ -69201,17 +69305,13 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Random"
+                    "Atk: Random"
                 ]
             },
             {
                 "特殊效果": [
-                    "Bypass (Defensive Buffs)"
-                ]
-            },
-            {
-                "负面效果": [
-                    "Reduce Buff Duration"
+                    "Atk - Bypass / Ignore",
+                    "Status - Reduce Buff Duration"
                 ]
             }
         ]
@@ -69272,13 +69372,13 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Random"
+                    "Atk: Random"
                 ]
             },
             {
                 "负面效果": [
-                    "Defense ↓ : Special Skills",
-                    "Healing Amount ↓"
+                    "Def - Def ↓ : Special",
+                    "Heal - Healing ↓"
                 ]
             }
         ]
@@ -69333,13 +69433,13 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Small Area / Minor"
+                    "Atk: Area"
                 ]
             },
             {
                 "增益效果": [
-                    "Counterattack / Reflect",
-                    "Mana Recovery"
+                    "Def - Counterattack",
+                    "Mana - Mana Gain"
                 ]
             }
         ]
@@ -69396,19 +69496,19 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Damage over Time (DoT)"
+                    "Dmg: DoT"
                 ]
             },
             {
                 "增益效果": [
-                    "Block Ailments",
-                    "Defense ↑ : Ice",
-                    "Defense ↑"
+                    "Status - Block Ailments",
+                    "Def - Def ↑ : Ice",
+                    "Def - Defense ↑"
                 ]
             },
             {
                 "负面效果": [
-                    "DoT: Burn"
+                    "Dmg - DoT : Burn"
                 ]
             }
         ]
@@ -69463,13 +69563,13 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Small Area / Minor"
+                    "Atk: Area"
                 ]
             },
             {
                 "增益效果": [
-                    "Mana Generation ↑",
-                    "Defense ↑"
+                    "Mana - Mana Gen ↑",
+                    "Def - Defense ↑"
                 ]
             }
         ]
@@ -69524,13 +69624,13 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Single"
+                    "Atk: Single"
                 ]
             },
             {
                 "增益效果": [
-                    "Mana Generation ↑",
-                    "Defense ↑"
+                    "Mana - Mana Gen ↑",
+                    "Def - Defense ↑"
                 ]
             }
         ]
@@ -69585,13 +69685,13 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: All"
+                    "Atk: All"
                 ]
             },
             {
                 "增益效果": [
-                    "Mana Recovery",
-                    "Defense ↑"
+                    "Mana - Mana Gain",
+                    "Def - Defense ↑"
                 ]
             }
         ]
@@ -69650,18 +69750,18 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Small Area / Minor"
+                    "Atk: Area"
                 ]
             },
             {
                 "特殊效果": [
-                    "Damage ↑ : Nature"
+                    "Dmg - Dmg ↑ : Nature"
                 ]
             },
             {
                 "增益效果": [
-                    "Mana Generation ↑",
-                    "Defense ↑"
+                    "Mana - Mana Gen ↑",
+                    "Def - Defense ↑"
                 ]
             }
         ]
@@ -69721,18 +69821,18 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Small Area / Minor"
+                    "Atk: Area"
                 ]
             },
             {
                 "特殊效果": [
-                    "Bypass (Defensive Buffs)"
+                    "Atk - Bypass / Ignore"
                 ]
             },
             {
                 "增益效果": [
-                    "Mana Generation ↑",
-                    "Defense ↑"
+                    "Mana - Mana Gen ↑",
+                    "Def - Defense ↑"
                 ]
             }
         ]
@@ -69791,17 +69891,17 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Single"
+                    "Atk: Single"
                 ]
             },
             {
                 "特殊效果": [
-                    "Chain Attack"
+                    "Atk - Chain"
                 ]
             },
             {
                 "负面效果": [
-                    "Defense ↓ : Fire"
+                    "Def - Def ↓ : Fire"
                 ]
             }
         ]
@@ -69861,17 +69961,17 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Single"
+                    "Atk: Single"
                 ]
             },
             {
                 "特殊效果": [
-                    "Chain Attack"
+                    "Atk - Chain"
                 ]
             },
             {
                 "负面效果": [
-                    "Defense ↓ : Fire"
+                    "Def - Def ↓ : Fire"
                 ]
             }
         ]
@@ -69926,12 +70026,12 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Target and Nearby"
+                    "Atk: Minor to Nearby"
                 ]
             },
             {
                 "负面效果": [
-                    "Block Revive"
+                    "Heal - Block Revive"
                 ]
             }
         ]
@@ -69987,12 +70087,12 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Target and Nearby"
+                    "Atk: Minor to Nearby"
                 ]
             },
             {
                 "负面效果": [
-                    "Block Revive"
+                    "Heal - Block Revive"
                 ]
             }
         ]
@@ -70046,13 +70146,13 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: All"
+                    "Atk: All"
                 ]
             },
             {
                 "特殊效果": [
-                    "Redistribute Ailments",
-                    "Extra Damage"
+                    "Status - Redistribute Ailments",
+                    "Dmg - Extra"
                 ]
             }
         ]
@@ -70106,13 +70206,13 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: All"
+                    "Atk: All"
                 ]
             },
             {
                 "特殊效果": [
-                    "Redistribute Ailments",
-                    "Extra Damage"
+                    "Status - Redistribute Ailments",
+                    "Dmg - Extra"
                 ]
             }
         ]
@@ -70179,12 +70279,12 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Single"
+                    "Atk: Single"
                 ]
             },
             {
                 "特殊效果": [
-                    "Fiend"
+                    "Summon - Fiend"
                 ]
             }
         ]
@@ -70251,12 +70351,12 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: All"
+                    "Atk: All"
                 ]
             },
             {
                 "特殊效果": [
-                    "Fiend"
+                    "Summon - Fiend"
                 ]
             }
         ]
@@ -70309,12 +70409,12 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: All"
+                    "Atk: All"
                 ]
             },
             {
                 "负面效果": [
-                    "Disable Special Skill"
+                    "Status - Block Talent"
                 ]
             }
         ]
@@ -70380,14 +70480,14 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Random"
+                    "Atk: Random"
                 ]
             },
             {
                 "增益效果": [
-                    "Damage Reduction",
-                    "Taunt",
-                    "Critical Chance ↑"
+                    "Def - Dmg Reduction",
+                    "Def - Taunt",
+                    "Atk - Crit Chance ↑"
                 ]
             }
         ]
@@ -70444,24 +70544,24 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Single",
-                    "Heal: From Damage Dealt"
+                    "Atk: Single",
+                    "Heal: From Dmg"
                 ]
             },
             {
                 "特殊效果": [
-                    "Damage ↑ : Holy",
-                    "Bypass Dodge"
+                    "Dmg - Dmg ↑ : Holy",
+                    "Atk - Bypass Dodge"
                 ]
             },
             {
                 "增益效果": [
-                    "Counterattack / Reflect"
+                    "Def - Counterattack"
                 ]
             },
             {
                 "负面效果": [
-                    "Mana Generation ↓ / Block"
+                    "Mana - Mana Gen ↓/Block"
                 ]
             }
         ]
@@ -70522,19 +70622,19 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Single"
+                    "Atk: Single"
                 ]
             },
             {
                 "特殊效果": [
-                    "Extra Attack",
-                    "Mega Minion",
-                    "Gamble / Random Effect"
+                    "Atk - Extra Attack",
+                    "Summon - Mega Minion",
+                    "Atk - Gamble / Random"
                 ]
             },
             {
                 "负面效果": [
-                    "Block Cleanse"
+                    "Status - Block Cleanse"
                 ]
             }
         ]
@@ -70606,19 +70706,19 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Small Area / Minor",
-                    "Attack: Damage over Time (DoT)"
+                    "Atk: Area",
+                    "Dmg: DoT"
                 ]
             },
             {
                 "特殊效果": [
-                    "Bypass (Defensive Buffs)"
+                    "Atk - Bypass / Ignore"
                 ]
             },
             {
                 "负面效果": [
-                    "Max Health ↓",
-                    "Block Healing"
+                    "Heal - Max Health ↓",
+                    "Heal - Block Healing"
                 ]
             }
         ]
@@ -70670,12 +70770,12 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Single"
+                    "Atk: Single"
                 ]
             },
             {
                 "负面效果": [
-                    "DoT: Burn"
+                    "Dmg - DoT : Burn"
                 ]
             }
         ]
@@ -70730,13 +70830,13 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Small Area / Minor"
+                    "Atk: Area"
                 ]
             },
             {
                 "负面效果": [
-                    "Attack ↓",
-                    "Defense ↓ : Fire"
+                    "Atk - Attack ↓",
+                    "Def - Def ↓ : Fire"
                 ]
             }
         ]
@@ -70791,13 +70891,13 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Small Area / Minor"
+                    "Atk: Area"
                 ]
             },
             {
                 "负面效果": [
-                    "DoT: Burn",
-                    "Defense ↓"
+                    "Dmg - DoT : Burn",
+                    "Def - Defense ↓"
                 ]
             }
         ]
@@ -70853,17 +70953,17 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Single"
+                    "Atk: Single"
                 ]
             },
             {
                 "特殊效果": [
-                    "Damage ↑ : Nature"
+                    "Dmg - Dmg ↑ : Nature"
                 ]
             },
             {
                 "负面效果": [
-                    "DoT: Burn"
+                    "Dmg - DoT : Burn"
                 ]
             }
         ]
@@ -70920,17 +71020,17 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Single"
+                    "Atk: Single"
                 ]
             },
             {
                 "特殊效果": [
-                    "Bypass (Defensive Buffs)"
+                    "Atk - Bypass / Ignore"
                 ]
             },
             {
                 "负面效果": [
-                    "DoT: Burn"
+                    "Dmg - DoT : Burn"
                 ]
             }
         ]
@@ -70986,17 +71086,17 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Small Area / Minor"
+                    "Atk: Area"
                 ]
             },
             {
                 "特殊效果": [
-                    "Mana Cut"
+                    "Mana - Mana Cut"
                 ]
             },
             {
                 "增益效果": [
-                    "Counterattack / Reflect : Ice"
+                    "Def - Reflect : Ice"
                 ]
             }
         ]
@@ -71052,17 +71152,17 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: All"
+                    "Atk: All"
                 ]
             },
             {
                 "增益效果": [
-                    "Counterattack / Reflect : Ice"
+                    "Def - Reflect : Ice"
                 ]
             },
             {
                 "负面效果": [
-                    "Mana Generation ↓ / Block"
+                    "Mana - Mana Gen ↓/Block"
                 ]
             }
         ]
@@ -71129,21 +71229,21 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Over Time (HoT)",
-                    "Revive",
-                    "Attack: Small Area / Minor",
-                    "Attack: Damage over Time (DoT)"
+                    "Heal: Over Time",
+                    "Heal: Revive",
+                    "Atk: Area",
+                    "Dmg: DoT"
                 ]
             },
             {
                 "增益效果": [
-                    "Self-Revive",
-                    "Damage Reduction"
+                    "Heal - Self Revive",
+                    "Def - Dmg Reduction"
                 ]
             },
             {
                 "负面效果": [
-                    "DoT: Burn"
+                    "Dmg - DoT : Burn"
                 ]
             }
         ]
@@ -71212,19 +71312,19 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Over Time (HoT)",
-                    "Revive"
+                    "Heal: Over Time",
+                    "Heal: Revive"
                 ]
             },
             {
                 "增益效果": [
-                    "Damage Reduction",
-                    "Self-Revive"
+                    "Def - Dmg Reduction",
+                    "Heal - Self Revive"
                 ]
             },
             {
                 "负面效果": [
-                    "DoT: Burn"
+                    "Dmg - DoT : Burn"
                 ]
             }
         ]
@@ -71288,19 +71388,23 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Small Area / Minor",
-                    "Attack: Damage over Time (DoT)"
+                    "Atk: Area",
+                    "Dmg: DoT"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Status - Replace with Ailment"
                 ]
             },
             {
                 "增益效果": [
-                    "Counterattack / Reflect"
+                    "Def - Counterattack"
                 ]
             },
             {
                 "负面效果": [
-                    "DoT: Sand",
-                    "Convert to Ailment"
+                    "Dmg - DoT : Sand"
                 ]
             }
         ]
@@ -71356,18 +71460,18 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Damage over Time (DoT)"
+                    "Dmg: DoT"
                 ]
             },
             {
                 "特殊效果": [
-                    "Damage ↑ : Nature"
+                    "Dmg - Dmg ↑ : Nature"
                 ]
             },
             {
                 "负面效果": [
-                    "Mana Generation ↓ / Block",
-                    "DoT: Burn"
+                    "Mana - Mana Gen ↓/Block",
+                    "Dmg - DoT : Burn"
                 ]
             }
         ]
@@ -71426,18 +71530,18 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Damage over Time (DoT)"
+                    "Dmg: DoT"
                 ]
             },
             {
                 "特殊效果": [
-                    "Damage ↑ : Nature"
+                    "Dmg - Dmg ↑ : Nature"
                 ]
             },
             {
                 "负面效果": [
-                    "Mana Generation ↓ / Block",
-                    "DoT: Burn"
+                    "Mana - Mana Gen ↓/Block",
+                    "Dmg - DoT : Burn"
                 ]
             }
         ]
@@ -71499,17 +71603,17 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: All"
+                    "Atk: All"
                 ]
             },
             {
                 "特殊效果": [
-                    "Fiend"
+                    "Summon - Fiend"
                 ]
             },
             {
                 "负面效果": [
-                    "Buff Immunity / Block Buffs"
+                    "Status - Buff Immunity"
                 ]
             }
         ]
@@ -71568,12 +71672,12 @@ window.allHeroes =
             {
                 "基础技能": [
                     "Heal: Instant",
-                    "Heal: Over Time (HoT)"
+                    "Heal: Over Time"
                 ]
             },
             {
                 "特殊效果": [
-                    "Steal Buffs"
+                    "Status - Steal Buffs"
                 ]
             }
         ]
@@ -71633,13 +71737,13 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: All",
+                    "Atk: All",
                     "Heal: Special"
                 ]
             },
             {
                 "特殊效果": [
-                    "Bypass Dodge"
+                    "Atk - Bypass Dodge"
                 ]
             }
         ]
@@ -71707,18 +71811,18 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Variable"
+                    "Atk: Variable Targets"
                 ]
             },
             {
                 "特殊效果": [
-                    "Extra Damage",
-                    "Bypass Minions"
+                    "Dmg - Extra",
+                    "Atk - Bypass Minions"
                 ]
             },
             {
                 "增益效果": [
-                    "Mana Generation ↑"
+                    "Mana - Mana Gen ↑"
                 ]
             }
         ]
@@ -71782,8 +71886,8 @@ window.allHeroes =
             },
             {
                 "特殊效果": [
-                    "Minion",
-                    "Destroy Minions"
+                    "Summon - Minion",
+                    "Atk - Destroy Minions"
                 ]
             }
         ]
@@ -71841,13 +71945,13 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: All"
+                    "Atk: All"
                 ]
             },
             {
                 "特殊效果": [
-                    "Bypass (Defensive Buffs)",
-                    "Bypass Dodge"
+                    "Atk - Bypass / Ignore",
+                    "Atk - Bypass Dodge"
                 ]
             }
         ]
@@ -71902,13 +72006,13 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: All"
+                    "Atk: All"
                 ]
             },
             {
                 "增益效果": [
-                    "Attack ↑",
-                    "Defense ↑"
+                    "Atk - Attack ↑",
+                    "Def - Defense ↑"
                 ]
             }
         ]
@@ -71964,17 +72068,17 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: All"
+                    "Atk: All"
                 ]
             },
             {
                 "特殊效果": [
-                    "Extra Damage"
+                    "Dmg - Extra"
                 ]
             },
             {
                 "负面效果": [
-                    "Attack ↓"
+                    "Atk - Attack ↓"
                 ]
             }
         ]
@@ -72032,17 +72136,17 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: All"
+                    "Atk: All"
                 ]
             },
             {
                 "特殊效果": [
-                    "Extra Damage"
+                    "Dmg - Extra"
                 ]
             },
             {
                 "负面效果": [
-                    "Attack ↓"
+                    "Atk - Attack ↓"
                 ]
             }
         ]
@@ -72103,17 +72207,17 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Single"
+                    "Atk: Single"
                 ]
             },
             {
                 "特殊效果": [
-                    "Fiend"
+                    "Summon - Fiend"
                 ]
             },
             {
                 "负面效果": [
-                    "Madness"
+                    "Status - Insanity"
                 ]
             }
         ]
@@ -72172,14 +72276,14 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: All",
-                    "Attack: Damage over Time (DoT)"
+                    "Atk: All",
+                    "Dmg: DoT"
                 ]
             },
             {
                 "负面效果": [
-                    "Healing Amount ↓",
-                    "DoT: Bleed"
+                    "Heal - Healing ↓",
+                    "Dmg - DoT : Bleed"
                 ]
             }
         ]
@@ -72237,18 +72341,14 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Single"
+                    "Atk: Single"
                 ]
             },
             {
                 "特殊效果": [
-                    "Steal Buffs",
-                    "Minion"
-                ]
-            },
-            {
-                "增益效果": [
-                    "Self-Heal"
+                    "Status - Steal Buffs",
+                    "Summon - Minion",
+                    "Heal - Self Recovery"
                 ]
             }
         ]
@@ -72307,18 +72407,22 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Target and Nearby"
+                    "Atk: Minor to Nearby"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Dmg - Explosion"
                 ]
             },
             {
                 "增益效果": [
-                    "Growth: Attack"
+                    "Def - Growth : Def↑"
                 ]
             },
             {
                 "负面效果": [
-                    "Damage on Ailment Cleanse",
-                    "Defense ↓"
+                    "Def - Defense ↓"
                 ]
             }
         ]
@@ -72383,13 +72487,13 @@ window.allHeroes =
             },
             {
                 "特殊效果": [
-                    "Reset Buff Duration"
+                    "Status - Reset Buff Duration"
                 ]
             },
             {
                 "增益效果": [
-                    "Critical Chance ↑",
-                    "Attack ↑"
+                    "Atk - Crit Chance ↑",
+                    "Atk - Attack ↑"
                 ]
             }
         ]
@@ -72450,13 +72554,17 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: All"
+                    "Atk: All"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Status - Reset Ailment Duration"
                 ]
             },
             {
                 "负面效果": [
-                    "Reset Ailment Duration",
-                    "Change Color / Position"
+                    "Def - Change Position"
                 ]
             }
         ]
@@ -72513,17 +72621,17 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Over Time (HoT)"
+                    "Heal: Over Time"
                 ]
             },
             {
                 "特殊效果": [
-                    "Minion"
+                    "Summon - Minion"
                 ]
             },
             {
                 "增益效果": [
-                    "Attack ↑"
+                    "Atk - Attack ↑"
                 ]
             }
         ]
@@ -72580,17 +72688,17 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Over Time (HoT)"
+                    "Heal: Over Time"
                 ]
             },
             {
                 "特殊效果": [
-                    "Minion"
+                    "Summon - Minion"
                 ]
             },
             {
                 "增益效果": [
-                    "Attack ↑"
+                    "Atk - Attack ↑"
                 ]
             }
         ]
@@ -72647,18 +72755,18 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Small Area / Minor"
+                    "Atk: Area"
                 ]
             },
             {
                 "特殊效果": [
-                    "Minion"
+                    "Summon - Minion"
                 ]
             },
             {
                 "增益效果": [
-                    "Taunt",
-                    "Defense ↑ : Special Skills"
+                    "Def - Taunt",
+                    "Def - Def ↑ : Special"
                 ]
             }
         ]
@@ -72717,18 +72825,18 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Small Area / Minor"
+                    "Atk: Area"
                 ]
             },
             {
                 "特殊效果": [
-                    "Minion"
+                    "Summon - Minion"
                 ]
             },
             {
                 "增益效果": [
-                    "Taunt",
-                    "Defense ↑ : Special Skills"
+                    "Def - Taunt",
+                    "Def - Def ↑ : Special"
                 ]
             }
         ]
@@ -72799,15 +72907,19 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "特殊效果": [
-                    "Cleanse Status Ailments",
-                    "Bypass (Defensive Buffs)",
-                    "Mana Recovery"
+                    "Atk - Bypass / Ignore"
                 ]
             },
             {
                 "增益效果": [
-                    "Block Ailments",
-                    "Stack: Attack ↑"
+                    "Status - Block Ailments",
+                    "Atk - Stack : Atk ↑",
+                    "Mana - Mana Gain"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Status - Cleanse Ailments"
                 ]
             }
         ]
@@ -72864,13 +72976,13 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Both Ends"
+                    "Atk: Edges"
                 ]
             },
             {
                 "负面效果": [
-                    "Block Healing",
-                    "Madness"
+                    "Heal - Block Healing",
+                    "Status - Insanity"
                 ]
             }
         ]
@@ -72945,24 +73057,20 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Over Time (HoT)",
-                    "Attack: Damage over Time (DoT)"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "Cleanse Status Ailments"
+                    "Heal: Over Time",
+                    "Dmg: DoT"
                 ]
             },
             {
                 "增益效果": [
-                    "Attack ↑"
+                    "Atk - Attack ↑"
                 ]
             },
             {
                 "负面效果": [
-                    "DoT: Burn",
-                    "Defense ↓ : Fire"
+                    "Dmg - DoT : Burn",
+                    "Def - Def ↓ : Fire",
+                    "Status - Cleanse Ailments"
                 ]
             }
         ]
@@ -73016,18 +73124,18 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: All",
-                    "Heal: Over Time (HoT)"
+                    "Atk: All",
+                    "Heal: Over Time"
                 ]
             },
             {
                 "特殊效果": [
-                    "Minion"
+                    "Summon - Minion"
                 ]
             },
             {
                 "负面效果": [
-                    "Mana Generation ↓ / Block"
+                    "Mana - Mana Gen ↓/Block"
                 ]
             }
         ]
@@ -73093,19 +73201,23 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Small Area / Minor"
+                    "Atk: Area"
                 ]
             },
             {
                 "特殊效果": [
-                    "Dispel Buffs",
-                    "Bypass Dodge",
-                    "Damage ↑ : Nature"
+                    "Atk - Bypass Dodge",
+                    "Dmg - Dmg ↑ : Nature"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Status - Dispel Buffs"
                 ]
             },
             {
                 "负面效果": [
-                    "Buff Immunity / Block Buffs"
+                    "Status - Buff Immunity"
                 ]
             }
         ]
@@ -73161,12 +73273,12 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Small Area / Minor"
+                    "Atk: Area"
                 ]
             },
             {
                 "增益效果": [
-                    "Damage Reduction"
+                    "Def - Dmg Reduction"
                 ]
             }
         ]
@@ -73230,13 +73342,13 @@ window.allHeroes =
                 ]
             },
             {
-                "特殊效果": [
-                    "Cleanse Status Ailments"
+                "增益效果": [
+                    "Status - Reflect Ailments"
                 ]
             },
             {
-                "增益效果": [
-                    "Reflect Ailments"
+                "负面效果": [
+                    "Status - Cleanse Ailments"
                 ]
             }
         ]
@@ -73295,19 +73407,19 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Small Area / Minor",
-                    "Attack: Damage over Time (DoT)"
+                    "Atk: Area",
+                    "Dmg: DoT"
                 ]
             },
             {
                 "特殊效果": [
-                    "Fiend"
+                    "Summon - Fiend"
                 ]
             },
             {
                 "负面效果": [
-                    "DoT: Burn",
-                    "Weaken: Defense"
+                    "Dmg - DoT : Burn",
+                    "Def - Wither : Def↓"
                 ]
             }
         ]
@@ -73363,17 +73475,17 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Single"
+                    "Atk: Single"
                 ]
             },
             {
                 "特殊效果": [
-                    "Extra Attack"
+                    "Atk - Extra Attack"
                 ]
             },
             {
                 "负面效果": [
-                    "Madness"
+                    "Status - Insanity"
                 ]
             }
         ]
@@ -73434,13 +73546,17 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Single"
+                    "Atk: Single"
                 ]
             },
             {
                 "特殊效果": [
-                    "Extra Damage",
-                    "Mana Drain"
+                    "Dmg - Extra"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Mana - Mana Steal"
                 ]
             }
         ]
@@ -73506,21 +73622,21 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: All",
-                    "Heal: Boost"
+                    "Atk: All",
+                    "Heal: Boost Health"
                 ]
             },
             {
                 "特殊效果": [
-                    "Dispel Buffs",
-                    "Extra Damage",
-                    "Self-Heal"
+                    "Dmg - Extra",
+                    "Heal - Self Recovery"
                 ]
             },
             {
                 "增益效果": [
-                    "Attack ↑",
-                    "Defense ↑"
+                    "Atk - Attack ↑",
+                    "Def - Defense ↑",
+                    "Status - Dispel Buffs"
                 ]
             }
         ]
@@ -73587,17 +73703,17 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Variable"
+                    "Atk: Variable Targets"
                 ]
             },
             {
                 "特殊效果": [
-                    "Mana Cut"
+                    "Mana - Mana Cut"
                 ]
             },
             {
                 "负面效果": [
-                    "Mana Generation ↓ / Block"
+                    "Mana - Mana Gen ↓/Block"
                 ]
             }
         ]
@@ -73656,18 +73772,18 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Single",
-                    "Attack: Damage over Time (DoT)"
+                    "Atk: Single",
+                    "Dmg: DoT"
                 ]
             },
             {
                 "特殊效果": [
-                    "Bypass Dodge"
+                    "Atk - Bypass Dodge"
                 ]
             },
             {
                 "负面效果": [
-                    "DoT: Burn"
+                    "Dmg - DoT : Burn"
                 ]
             }
         ]
@@ -73727,23 +73843,23 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Small Area / Minor",
-                    "Attack: Damage over Time (DoT)"
+                    "Atk: Area",
+                    "Dmg: DoT"
                 ]
             },
             {
                 "特殊效果": [
-                    "Self-Heal"
+                    "Heal - Self Recovery"
                 ]
             },
             {
                 "增益效果": [
-                    "Damage Reduction"
+                    "Def - Dmg Reduction"
                 ]
             },
             {
                 "负面效果": [
-                    "DoT: Bleed"
+                    "Dmg - DoT : Bleed"
                 ]
             }
         ]
@@ -73805,18 +73921,18 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Small Area / Minor"
+                    "Atk: Area"
                 ]
             },
             {
-                "特殊效果": [
-                    "Dispel Buffs"
+                "增益效果": [
+                    "Status - Dispel Buffs"
                 ]
             },
             {
                 "负面效果": [
-                    "Block Minions",
-                    "Healing Amount ↓"
+                    "Status - Block Minions",
+                    "Heal - Healing ↓"
                 ]
             }
         ]
@@ -73874,18 +73990,18 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: All"
+                    "Atk: All"
                 ]
             },
             {
                 "特殊效果": [
-                    "Minion"
+                    "Summon - Minion"
                 ]
             },
             {
                 "负面效果": [
-                    "Attack ↓",
-                    "Defense ↓"
+                    "Atk - Attack ↓",
+                    "Def - Defense ↓"
                 ]
             }
         ]
@@ -73943,18 +74059,18 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: All"
+                    "Atk: All"
                 ]
             },
             {
                 "特殊效果": [
-                    "Minion"
+                    "Summon - Minion"
                 ]
             },
             {
                 "负面效果": [
-                    "Attack ↓",
-                    "Defense ↓"
+                    "Atk - Attack ↓",
+                    "Def - Defense ↓"
                 ]
             }
         ]
@@ -74016,18 +74132,18 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Small Area / Minor"
+                    "Atk: Area"
                 ]
             },
             {
                 "增益效果": [
-                    "Stack: Mana Generation",
-                    "Stack: Health Recovery"
+                    "Mana - Stack : Mana Gen ↑",
+                    "Heal - Stack : Regen"
                 ]
             },
             {
                 "负面效果": [
-                    "Defense ↓"
+                    "Def - Defense ↓"
                 ]
             }
         ]
@@ -74091,18 +74207,18 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Small Area / Minor"
+                    "Atk: Area"
                 ]
             },
             {
                 "增益效果": [
-                    "Stack: Mana Generation",
-                    "Stack: Health Recovery"
+                    "Mana - Stack : Mana Gen ↑",
+                    "Heal - Stack : Regen"
                 ]
             },
             {
                 "负面效果": [
-                    "Defense ↓"
+                    "Def - Defense ↓"
                 ]
             }
         ]
@@ -74166,13 +74282,13 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: All"
+                    "Atk: All"
                 ]
             },
             {
                 "负面效果": [
-                    "Confusion / Silence / Sleep",
-                    "Weaken: Attack"
+                    "Mana - Mindless/Silence/Sleep",
+                    "Atk - Wither : Atk↓"
                 ]
             }
         ]
@@ -74228,8 +74344,8 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: From Damage Dealt",
-                    "Attack: Single"
+                    "Heal: From Dmg",
+                    "Atk: Single"
                 ]
             }
         ]
@@ -74287,8 +74403,8 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: From Damage Dealt",
-                    "Attack: Single"
+                    "Heal: From Dmg",
+                    "Atk: Single"
                 ]
             }
         ]
@@ -74354,13 +74470,13 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: All"
+                    "Atk: All"
                 ]
             },
             {
                 "负面效果": [
-                    "Healing Amount ↓",
-                    "DoT: Burn"
+                    "Heal - Healing ↓",
+                    "Dmg - DoT : Burn"
                 ]
             }
         ]
@@ -74420,17 +74536,17 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Small Area / Minor"
+                    "Atk: Area"
                 ]
             },
             {
                 "特殊效果": [
-                    "Mana Cut"
+                    "Mana - Mana Cut"
                 ]
             },
             {
                 "负面效果": [
-                    "Accuracy ↓"
+                    "Atk - Accuracy ↓"
                 ]
             }
         ]
@@ -74491,21 +74607,21 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Small Area / Minor",
-                    "Attack: Damage over Time (DoT)",
-                    "Heal: From Damage Dealt",
-                    "Heal: Boost"
+                    "Atk: Area",
+                    "Dmg: DoT",
+                    "Heal: From Dmg",
+                    "Heal: Boost Health"
                 ]
             },
             {
                 "特殊效果": [
-                    "Bypass Dodge"
+                    "Atk - Bypass Dodge"
                 ]
             },
             {
                 "负面效果": [
-                    "Reflect Buff",
-                    "DoT: Burn"
+                    "Status - Reflect Buffs",
+                    "Dmg - DoT : Burn"
                 ]
             }
         ]
@@ -74560,18 +74676,18 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Small Area / Minor",
-                    "Attack: Damage over Time (DoT)"
+                    "Atk: Area",
+                    "Dmg: DoT"
                 ]
             },
             {
                 "特殊效果": [
-                    "Minion"
+                    "Summon - Minion"
                 ]
             },
             {
                 "负面效果": [
-                    "DoT: Burn"
+                    "Dmg - DoT : Burn"
                 ]
             }
         ]
@@ -74631,18 +74747,18 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Small Area / Minor",
-                    "Attack: Damage over Time (DoT)"
+                    "Atk: Area",
+                    "Dmg: DoT"
                 ]
             },
             {
                 "特殊效果": [
-                    "Minion"
+                    "Summon - Minion"
                 ]
             },
             {
                 "负面效果": [
-                    "DoT: Burn"
+                    "Dmg - DoT : Burn"
                 ]
             }
         ]
@@ -74702,18 +74818,18 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Single",
-                    "Attack: Damage over Time (DoT)"
+                    "Atk: Single",
+                    "Dmg: DoT"
                 ]
             },
             {
                 "特殊效果": [
-                    "Extra Damage"
+                    "Dmg - Extra"
                 ]
             },
             {
                 "负面效果": [
-                    "DoT: Bleed"
+                    "Dmg - DoT : Bleed"
                 ]
             }
         ]
@@ -74772,17 +74888,17 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Target and Nearby"
+                    "Atk: Minor to Nearby"
                 ]
             },
             {
                 "特殊效果": [
-                    "Mana on Kill"
+                    "Mana - Mana Gain (on Kill)"
                 ]
             },
             {
                 "负面效果": [
-                    "Defense ↓"
+                    "Def - Defense ↓"
                 ]
             }
         ]
@@ -74842,17 +74958,17 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Target and Nearby"
+                    "Atk: Minor to Nearby"
                 ]
             },
             {
                 "特殊效果": [
-                    "Mana on Kill"
+                    "Mana - Mana Gain (on Kill)"
                 ]
             },
             {
                 "负面效果": [
-                    "Defense ↓"
+                    "Def - Defense ↓"
                 ]
             }
         ]
@@ -74906,17 +75022,17 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Boost"
+                    "Heal: Boost Health"
                 ]
             },
             {
                 "增益效果": [
-                    "Attack ↑"
+                    "Atk - Attack ↑"
                 ]
             },
             {
                 "负面效果": [
-                    "Self-Debuff"
+                    "Status - Self-Debuff"
                 ]
             }
         ]
@@ -74974,13 +75090,13 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Small Area / Minor"
+                    "Atk: Area"
                 ]
             },
             {
                 "负面效果": [
-                    "Increased Damage Taken ↑",
-                    "Defense ↓"
+                    "Def - Dmg Taken ↑",
+                    "Def - Defense ↓"
                 ]
             }
         ]
@@ -75041,19 +75157,19 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Single",
-                    "Attack: Damage over Time (DoT)"
+                    "Atk: Single",
+                    "Dmg: DoT"
                 ]
             },
             {
                 "特殊效果": [
-                    "Bypass (Defensive Buffs)",
-                    "Self-Heal"
+                    "Atk - Bypass / Ignore",
+                    "Heal - Self Recovery"
                 ]
             },
             {
                 "增益效果": [
-                    "Self-Revive"
+                    "Heal - Self Revive"
                 ]
             }
         ]
@@ -75112,24 +75228,24 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Small Area / Minor",
-                    "Attack: Damage over Time (DoT)"
+                    "Atk: Area",
+                    "Dmg: DoT"
                 ]
             },
             {
                 "特殊效果": [
-                    "Heal from Damage",
-                    "Dispel Buffs"
+                    "Heal - From Dmg"
                 ]
             },
             {
                 "增益效果": [
-                    "Self-Revive"
+                    "Heal - Self Revive",
+                    "Status - Dispel Buffs"
                 ]
             },
             {
                 "负面效果": [
-                    "DoT: Bleed"
+                    "Dmg - DoT : Bleed"
                 ]
             }
         ]
@@ -75189,18 +75305,18 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Over Time (HoT)",
-                    "Attack: All"
+                    "Heal: Over Time",
+                    "Atk: All"
                 ]
             },
             {
                 "增益效果": [
-                    "Block Buff Dispelling"
+                    "Status - Block Buff Dispel"
                 ]
             },
             {
                 "负面效果": [
-                    "Attack ↓"
+                    "Atk - Attack ↓"
                 ]
             }
         ]
@@ -75260,18 +75376,18 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Over Time (HoT)",
-                    "Attack: All"
+                    "Heal: Over Time",
+                    "Atk: All"
                 ]
             },
             {
                 "增益效果": [
-                    "Block Buff Dispelling"
+                    "Status - Block Buff Dispel"
                 ]
             },
             {
                 "负面效果": [
-                    "Attack ↓"
+                    "Atk - Attack ↓"
                 ]
             }
         ]
@@ -75329,17 +75445,17 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: All"
+                    "Atk: All"
                 ]
             },
             {
                 "增益效果": [
-                    "Immunity to Status Ailments"
+                    "Status - Ailment Immunity"
                 ]
             },
             {
                 "负面效果": [
-                    "Steal Healing"
+                    "Heal - Steal Healing"
                 ]
             }
         ]
@@ -75397,17 +75513,17 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: All"
+                    "Atk: All"
                 ]
             },
             {
                 "增益效果": [
-                    "Immunity to Status Ailments"
+                    "Status - Ailment Immunity"
                 ]
             },
             {
                 "负面效果": [
-                    "Steal Healing"
+                    "Heal - Steal Healing"
                 ]
             }
         ]
@@ -75470,8 +75586,12 @@ window.allHeroes =
             },
             {
                 "特殊效果": [
-                    "Cleanse Status Ailments",
-                    "Mega Minion"
+                    "Summon - Mega Minion"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Status - Cleanse Ailments"
                 ]
             }
         ]
@@ -75530,19 +75650,19 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: All",
-                    "Attack: Damage over Time (DoT)"
+                    "Atk: All",
+                    "Dmg: DoT"
                 ]
             },
             {
                 "特殊效果": [
-                    "Heal from Damage"
+                    "Heal - From Dmg"
                 ]
             },
             {
                 "负面效果": [
-                    "Mana Drain",
-                    "DoT: Burn"
+                    "Mana - Mana Steal",
+                    "Dmg - DoT : Burn"
                 ]
             }
         ]
@@ -75602,19 +75722,19 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: All",
-                    "Attack: Damage over Time (DoT)"
+                    "Atk: All",
+                    "Dmg: DoT"
                 ]
             },
             {
                 "特殊效果": [
-                    "Heal from Damage"
+                    "Heal - From Dmg"
                 ]
             },
             {
                 "负面效果": [
-                    "Mana Drain",
-                    "DoT: Burn"
+                    "Mana - Mana Steal",
+                    "Dmg - DoT : Burn"
                 ]
             }
         ]
@@ -75669,12 +75789,12 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Single"
+                    "Atk: Single"
                 ]
             },
             {
                 "负面效果": [
-                    "Block Healing"
+                    "Heal - Block Healing"
                 ]
             }
         ]
@@ -75732,9 +75852,9 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "增益效果": [
-                    "Critical Chance ↑",
-                    "Stack: Attack ↑",
-                    "Self-Revive"
+                    "Atk - Crit Chance ↑",
+                    "Atk - Stack : Atk ↑",
+                    "Heal - Self Revive"
                 ]
             }
         ]
@@ -75795,17 +75915,17 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Single"
+                    "Atk: Single"
                 ]
             },
             {
                 "特殊效果": [
-                    "Extra Attack"
+                    "Atk - Extra Attack"
                 ]
             },
             {
                 "增益效果": [
-                    "Stack: Attack ↑"
+                    "Atk - Stack : Atk ↑"
                 ]
             }
         ]
@@ -75865,19 +75985,19 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Small Area / Minor",
-                    "Attack: Damage over Time (DoT)"
+                    "Atk: Area",
+                    "Dmg: DoT"
                 ]
             },
             {
                 "增益效果": [
-                    "Dodge"
+                    "Def - Dodge"
                 ]
             },
             {
                 "负面效果": [
-                    "Accuracy ↓",
-                    "DoT: Bleed"
+                    "Atk - Accuracy ↓",
+                    "Dmg - DoT : Bleed"
                 ]
             }
         ]
@@ -75936,17 +76056,17 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Target and Nearby"
+                    "Atk: Minor to Nearby"
                 ]
             },
             {
                 "特殊效果": [
-                    "Bypass (Defensive Buffs)"
+                    "Atk - Bypass / Ignore"
                 ]
             },
             {
                 "增益效果": [
-                    "Mana Recovery"
+                    "Mana - Mana Gain"
                 ]
             }
         ]
@@ -76006,19 +76126,19 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Single",
-                    "Attack: Damage over Time (DoT)"
+                    "Atk: Single",
+                    "Dmg: DoT"
                 ]
             },
             {
                 "特殊效果": [
-                    "Gamble / Random Effect"
+                    "Atk - Gamble / Random"
                 ]
             },
             {
                 "负面效果": [
-                    "DoT: Bleed",
-                    "Stack: Damage Taken ↑"
+                    "Dmg - DoT : Bleed",
+                    "Def - Stack : Dmg Taken ↑"
                 ]
             }
         ]
@@ -76076,12 +76196,12 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: All"
+                    "Atk: All"
                 ]
             },
             {
                 "特殊效果": [
-                    "Transform: Attack Power"
+                    "Dmg - Tile : Up"
                 ]
             }
         ]
@@ -76139,12 +76259,12 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Both Ends"
+                    "Atk: Edges"
                 ]
             },
             {
                 "特殊效果": [
-                    "Transform: Attack"
+                    "Atk - Tile : Attack"
                 ]
             }
         ]
@@ -76204,12 +76324,12 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Both Ends"
+                    "Atk: Edges"
                 ]
             },
             {
                 "特殊效果": [
-                    "Transform: Attack"
+                    "Atk - Tile : Attack"
                 ]
             }
         ]
@@ -76275,21 +76395,21 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Single",
-                    "Attack: Damage over Time (DoT)"
+                    "Atk: Single",
+                    "Dmg: DoT"
                 ]
             },
             {
                 "特殊效果": [
-                    "Steal Buffs",
-                    "Gamble / Random Effect"
+                    "Status - Steal Buffs",
+                    "Atk - Gamble / Random"
                 ]
             },
             {
                 "负面效果": [
-                    "DoT: Bleed",
-                    "DoT: Burn",
-                    "DoT: Poison"
+                    "Dmg - DoT : Bleed",
+                    "Dmg - DoT : Burn",
+                    "Dmg - DoT : Poison"
                 ]
             }
         ]
@@ -76346,17 +76466,17 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: All"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "Cleanse Status Ailments"
+                    "Atk: All"
                 ]
             },
             {
                 "增益效果": [
-                    "Attack ↑"
+                    "Atk - Attack ↑"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Status - Cleanse Ailments"
                 ]
             }
         ]
@@ -76414,13 +76534,17 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: All"
+                    "Atk: All"
                 ]
             },
             {
                 "特殊效果": [
-                    "Dispel Buffs",
-                    "Extra Damage"
+                    "Dmg - Extra"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Status - Dispel Buffs"
                 ]
             }
         ]
@@ -76629,12 +76753,12 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Single"
+                    "Atk: Single"
                 ]
             },
             {
                 "特殊效果": [
-                    "Bypass (Defensive Buffs)"
+                    "Atk - Bypass / Ignore"
                 ]
             }
         ]
@@ -76692,19 +76816,15 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: All",
-                    "Attack: Damage over Time (DoT)"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "Cleanse Status Ailments"
+                    "Atk: All",
+                    "Dmg: DoT"
                 ]
             },
             {
                 "负面效果": [
-                    "Healing Amount ↓",
-                    "DoT: Sand"
+                    "Heal - Healing ↓",
+                    "Dmg - DoT : Sand",
+                    "Status - Cleanse Ailments"
                 ]
             }
         ]
@@ -76756,12 +76876,12 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Single"
+                    "Atk: Single"
                 ]
             },
             {
                 "负面效果": [
-                    "Accuracy ↓"
+                    "Atk - Accuracy ↓"
                 ]
             }
         ]
@@ -76813,12 +76933,12 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Single"
+                    "Atk: Single"
                 ]
             },
             {
                 "负面效果": [
-                    "Accuracy ↓"
+                    "Atk - Accuracy ↓"
                 ]
             }
         ]
@@ -76874,17 +76994,17 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Single"
+                    "Atk: Single"
                 ]
             },
             {
                 "特殊效果": [
-                    "Damage ↑ : Dark"
+                    "Dmg - Dmg ↑ : Dark"
                 ]
             },
             {
                 "负面效果": [
-                    "Accuracy ↓"
+                    "Atk - Accuracy ↓"
                 ]
             }
         ]
@@ -76941,17 +77061,17 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Single"
+                    "Atk: Single"
                 ]
             },
             {
                 "特殊效果": [
-                    "Bypass (Defensive Buffs)"
+                    "Atk - Bypass / Ignore"
                 ]
             },
             {
                 "负面效果": [
-                    "Accuracy ↓"
+                    "Atk - Accuracy ↓"
                 ]
             }
         ]
@@ -77000,7 +77120,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "增益效果": [
-                    "Attack ↑"
+                    "Atk - Attack ↑"
                 ]
             }
         ]
@@ -77053,7 +77173,7 @@ window.allHeroes =
             {
                 "基础技能": [
                     "Heal: Special",
-                    "Heal: Over Time (HoT)"
+                    "Heal: Over Time"
                 ]
             }
         ]
@@ -77112,17 +77232,17 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: All"
+                    "Atk: All"
                 ]
             },
             {
                 "增益效果": [
-                    "Stack: Attack ↑"
+                    "Atk - Stack : Atk ↑"
                 ]
             },
             {
                 "负面效果": [
-                    "Accuracy ↓"
+                    "Atk - Accuracy ↓"
                 ]
             }
         ]
@@ -77176,18 +77296,18 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Single"
+                    "Atk: Single"
                 ]
             },
             {
-                "增益效果": [
-                    "Extra Attack"
+                "特殊效果": [
+                    "Atk - Extra Attack"
                 ]
             },
             {
                 "负面效果": [
-                    "Madness",
-                    "Self-Debuff"
+                    "Status - Insanity",
+                    "Status - Self-Debuff"
                 ]
             }
         ]
@@ -77236,7 +77356,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Target and Nearby"
+                    "Atk: Minor to Nearby"
                 ]
             }
         ]
@@ -77288,13 +77408,13 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Single"
+                    "Atk: Single"
                 ]
             },
             {
                 "特殊效果": [
-                    "Extra Attack",
-                    "Damage ↑ : Dark"
+                    "Atk - Extra Attack",
+                    "Dmg - Dmg ↑ : Dark"
                 ]
             }
         ]
@@ -77347,12 +77467,12 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Target and Nearby"
+                    "Atk: Minor to Nearby"
                 ]
             },
             {
                 "特殊效果": [
-                    "Damage ↑ : Dark"
+                    "Dmg - Dmg ↑ : Dark"
                 ]
             }
         ]
@@ -77411,13 +77531,13 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Single"
+                    "Atk: Single"
                 ]
             },
             {
                 "负面效果": [
-                    "Healing Amount ↓",
-                    "Defense ↓"
+                    "Heal - Healing ↓",
+                    "Def - Defense ↓"
                 ]
             }
         ]
@@ -77479,12 +77599,12 @@ window.allHeroes =
             },
             {
                 "增益效果": [
-                    "Attack ↑"
+                    "Atk - Attack ↑"
                 ]
             },
             {
                 "负面效果": [
-                    "Self-Debuff"
+                    "Status - Self-Debuff"
                 ]
             }
         ]
@@ -77543,18 +77663,18 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Single"
+                    "Atk: Single"
                 ]
             },
             {
                 "特殊效果": [
-                    "Extra Damage",
-                    "Self-Heal"
+                    "Dmg - Extra",
+                    "Heal - Self Recovery"
                 ]
             },
             {
                 "负面效果": [
-                    "Reflect Buff"
+                    "Status - Reflect Buffs"
                 ]
             }
         ]
@@ -77606,12 +77726,12 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Single"
+                    "Atk: Single"
                 ]
             },
             {
                 "特殊效果": [
-                    "Mana Cut"
+                    "Mana - Mana Cut"
                 ]
             }
         ]
@@ -77663,12 +77783,12 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Single"
+                    "Atk: Single"
                 ]
             },
             {
                 "特殊效果": [
-                    "Mana Cut"
+                    "Mana - Mana Cut"
                 ]
             }
         ]
@@ -77724,13 +77844,13 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Single"
+                    "Atk: Single"
                 ]
             },
             {
                 "特殊效果": [
-                    "Mana Cut",
-                    "Damage ↑ : Dark"
+                    "Mana - Mana Cut",
+                    "Dmg - Dmg ↑ : Dark"
                 ]
             }
         ]
@@ -77787,13 +77907,13 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Single"
+                    "Atk: Single"
                 ]
             },
             {
                 "特殊效果": [
-                    "Bypass (Defensive Buffs)",
-                    "Mana Cut"
+                    "Atk - Bypass / Ignore",
+                    "Mana - Mana Cut"
                 ]
             }
         ]
@@ -77855,12 +77975,12 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Target and Nearby"
+                    "Atk: Minor to Nearby"
                 ]
             },
             {
-                "特殊效果": [
-                    "Mana Drain"
+                "负面效果": [
+                    "Mana - Mana Steal"
                 ]
             }
         ]
@@ -77923,12 +78043,12 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Target and Nearby"
+                    "Atk: Minor to Nearby"
                 ]
             },
             {
-                "特殊效果": [
-                    "Mana Drain"
+                "负面效果": [
+                    "Mana - Mana Steal"
                 ]
             }
         ]
@@ -77986,18 +78106,18 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Boost"
+                    "Heal: Boost Health"
                 ]
             },
             {
                 "特殊效果": [
-                    "Minion"
+                    "Summon - Minion"
                 ]
             },
             {
                 "增益效果": [
-                    "Damage Reduction",
-                    "Mana Generation ↑"
+                    "Def - Dmg Reduction",
+                    "Mana - Mana Gen ↑"
                 ]
             }
         ]
@@ -78049,8 +78169,8 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "增益效果": [
-                    "Damage Share",
-                    "Defense ↑"
+                    "Def - Dmg Share",
+                    "Def - Defense ↑"
                 ]
             }
         ]
@@ -78102,8 +78222,8 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "增益效果": [
-                    "Damage Share",
-                    "Attack ↑"
+                    "Def - Dmg Share",
+                    "Atk - Attack ↑"
                 ]
             }
         ]
@@ -78157,8 +78277,8 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "增益效果": [
-                    "Damage Share",
-                    "Defense ↑"
+                    "Def - Dmg Share",
+                    "Def - Defense ↑"
                 ]
             }
         ]
@@ -78216,9 +78336,9 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "增益效果": [
-                    "Damage Share",
-                    "Reflect Ailments",
-                    "Defense ↑"
+                    "Def - Dmg Share",
+                    "Status - Reflect Ailments",
+                    "Def - Defense ↑"
                 ]
             }
         ]
@@ -78276,7 +78396,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Random"
+                    "Atk: Random"
                 ]
             }
         ]
@@ -78331,18 +78451,18 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Damage over Time (DoT)"
+                    "Dmg: DoT"
                 ]
             },
             {
                 "特殊效果": [
-                    "Minion"
+                    "Summon - Minion"
                 ]
             },
             {
                 "负面效果": [
-                    "Block Minions",
-                    "DoT: Poison"
+                    "Status - Block Minions",
+                    "Dmg - DoT : Poison"
                 ]
             }
         ]
@@ -78396,18 +78516,18 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Damage over Time (DoT)"
+                    "Dmg: DoT"
                 ]
             },
             {
                 "特殊效果": [
-                    "Minion"
+                    "Summon - Minion"
                 ]
             },
             {
                 "负面效果": [
-                    "Buff Immunity / Block Buffs",
-                    "DoT: Poison"
+                    "Status - Buff Immunity",
+                    "Dmg - DoT : Poison"
                 ]
             }
         ]
@@ -78459,12 +78579,12 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: All"
+                    "Atk: All"
                 ]
             },
             {
                 "增益效果": [
-                    "Critical Chance ↑"
+                    "Atk - Crit Chance ↑"
                 ]
             }
         ]
@@ -78516,12 +78636,12 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: All"
+                    "Atk: All"
                 ]
             },
             {
                 "负面效果": [
-                    "Accuracy ↓"
+                    "Atk - Accuracy ↓"
                 ]
             }
         ]
@@ -78578,9 +78698,9 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "增益效果": [
-                    "Damage Reduction",
-                    "Attack ↑",
-                    "Mana Generation ↑"
+                    "Def - Dmg Reduction",
+                    "Atk - Attack ↑",
+                    "Mana - Mana Gen ↑"
                 ]
             }
         ]
@@ -78632,13 +78752,13 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Single"
+                    "Atk: Single"
                 ]
             },
             {
                 "特殊效果": [
-                    "Mana Cut",
-                    "Extra Damage"
+                    "Mana - Mana Cut",
+                    "Dmg - Extra"
                 ]
             }
         ]
@@ -78691,12 +78811,12 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Single"
+                    "Atk: Single"
                 ]
             },
             {
                 "特殊效果": [
-                    "Extra Attack"
+                    "Atk - Extra Attack"
                 ]
             }
         ]
@@ -78749,12 +78869,12 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Single"
+                    "Atk: Single"
                 ]
             },
             {
                 "特殊效果": [
-                    "Extra Attack"
+                    "Atk - Extra Attack"
                 ]
             }
         ]
@@ -78810,13 +78930,13 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Over Time (HoT)",
-                    "Heal: Boost"
+                    "Heal: Over Time",
+                    "Heal: Boost Health"
                 ]
             },
             {
                 "增益效果": [
-                    "Defense ↑ : Dark"
+                    "Def - Def ↑ : Dark"
                 ]
             }
         ]
@@ -78874,13 +78994,13 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Over Time (HoT)",
-                    "Heal: Boost"
+                    "Heal: Over Time",
+                    "Heal: Boost Health"
                 ]
             },
             {
                 "增益效果": [
-                    "Defense ↑ : Dark"
+                    "Def - Def ↑ : Dark"
                 ]
             }
         ]
@@ -78938,18 +79058,18 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Small Area / Minor",
-                    "Attack: Damage over Time (DoT)"
+                    "Atk: Area",
+                    "Dmg: DoT"
                 ]
             },
             {
                 "特殊效果": [
-                    "Mana Cut"
+                    "Mana - Mana Cut"
                 ]
             },
             {
                 "负面效果": [
-                    "DoT: Poison"
+                    "Dmg - DoT : Poison"
                 ]
             }
         ]
@@ -79011,13 +79131,13 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Over Time (HoT)"
+                    "Heal: Over Time"
                 ]
             },
             {
                 "增益效果": [
-                    "Critical Chance ↑",
-                    "Dodge"
+                    "Atk - Crit Chance ↑",
+                    "Def - Dodge"
                 ]
             }
         ]
@@ -79068,12 +79188,12 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Single"
+                    "Atk: Single"
                 ]
             },
             {
                 "特殊效果": [
-                    "Chain Attack"
+                    "Atk - Chain"
                 ]
             }
         ]
@@ -79133,12 +79253,12 @@ window.allHeroes =
             {
                 "基础技能": [
                     "Heal: Instant",
-                    "Heal: Over Time (HoT)"
+                    "Heal: Over Time"
                 ]
             },
             {
                 "增益效果": [
-                    "Dodge"
+                    "Def - Dodge"
                 ]
             }
         ]
@@ -79200,18 +79320,14 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Over Time (HoT)"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "Dispel Buffs"
+                    "Heal: Over Time"
                 ]
             },
             {
                 "增益效果": [
-                    "Mana Generation ↑",
-                    "Healing Amount ↑"
+                    "Mana - Mana Gen ↑",
+                    "Heal - Healing ↑",
+                    "Status - Dispel Buffs"
                 ]
             }
         ]
@@ -79273,13 +79389,13 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: All"
+                    "Atk: All"
                 ]
             },
             {
                 "特殊效果": [
-                    "Fiend",
-                    "Minion"
+                    "Summon - Fiend",
+                    "Summon - Minion"
                 ]
             }
         ]
@@ -79333,12 +79449,12 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Single"
+                    "Atk: Single"
                 ]
             },
             {
                 "特殊效果": [
-                    "Extra Damage"
+                    "Dmg - Extra"
                 ]
             }
         ]
@@ -79395,12 +79511,12 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Target and Nearby"
+                    "Atk: Minor to Nearby"
                 ]
             },
             {
                 "负面效果": [
-                    "Defense ↓"
+                    "Def - Defense ↓"
                 ]
             }
         ]
@@ -79452,12 +79568,12 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Single"
+                    "Atk: Single"
                 ]
             },
             {
                 "特殊效果": [
-                    "Mana Cut"
+                    "Mana - Mana Cut"
                 ]
             }
         ]
@@ -79510,12 +79626,12 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Single"
+                    "Atk: Single"
                 ]
             },
             {
                 "负面效果": [
-                    "Mana Drain"
+                    "Mana - Mana Steal"
                 ]
             }
         ]
@@ -79567,12 +79683,12 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Small Area / Minor"
+                    "Atk: Area"
                 ]
             },
             {
                 "负面效果": [
-                    "Mana Generation ↓ / Block"
+                    "Mana - Mana Gen ↓/Block"
                 ]
             }
         ]
@@ -79628,13 +79744,13 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Single"
+                    "Atk: Single"
                 ]
             },
             {
                 "特殊效果": [
-                    "Mana Cut",
-                    "Damage ↑ : Dark"
+                    "Mana - Mana Cut",
+                    "Dmg - Dmg ↑ : Dark"
                 ]
             }
         ]
@@ -79693,8 +79809,8 @@ window.allHeroes =
             },
             {
                 "增益效果": [
-                    "Mana Generation ↑",
-                    "Defense ↑"
+                    "Mana - Mana Gen ↑",
+                    "Def - Defense ↑"
                 ]
             }
         ]
@@ -79756,24 +79872,24 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: All"
+                    "Atk: All"
                 ]
             },
             {
                 "特殊效果": [
-                    "Gamble / Random Effect"
+                    "Atk - Gamble / Random"
                 ]
             },
             {
                 "增益效果": [
-                    "Mana Generation ↑",
-                    "Defense ↑"
+                    "Mana - Mana Gen ↑",
+                    "Def - Defense ↑"
                 ]
             },
             {
                 "负面效果": [
-                    "Accuracy ↓",
-                    "Self-Debuff"
+                    "Atk - Accuracy ↓",
+                    "Status - Self-Debuff"
                 ]
             }
         ]
@@ -79836,21 +79952,25 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: All"
+                    "Atk: All"
                 ]
             },
             {
                 "特殊效果": [
-                    "Mana Recovery",
-                    "Gamble / Random Effect"
+                    "Atk - Gamble / Random"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Mana - Mana Gain"
                 ]
             },
             {
                 "负面效果": [
-                    "Attack ↓",
-                    "Defense ↓",
-                    "Mana Generation ↓ / Block",
-                    "Self-Debuff"
+                    "Atk - Attack ↓",
+                    "Def - Defense ↓",
+                    "Mana - Mana Gen ↓/Block",
+                    "Status - Self-Debuff"
                 ]
             }
         ]
@@ -79908,12 +80028,12 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "增益效果": [
-                    "Damage Share"
+                    "Def - Dmg Share"
                 ]
             },
             {
                 "负面效果": [
-                    "Increased Damage Taken ↑"
+                    "Def - Dmg Taken ↑"
                 ]
             }
         ]
@@ -79978,19 +80098,19 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Single"
+                    "Atk: Single"
                 ]
             },
             {
                 "特殊效果": [
-                    "Bypass Minions",
-                    "Bypass Dodge",
-                    "Damage ↑ : Nature"
+                    "Atk - Bypass Minions",
+                    "Atk - Bypass Dodge",
+                    "Dmg - Dmg ↑ : Nature"
                 ]
             },
             {
                 "负面效果": [
-                    "Block Minions"
+                    "Status - Block Minions"
                 ]
             }
         ]
@@ -80054,8 +80174,8 @@ window.allHeroes =
             },
             {
                 "增益效果": [
-                    "Reflect Ailments",
-                    "Growth: Attack"
+                    "Status - Reflect Ailments",
+                    "Def - Growth : Def↑"
                 ]
             }
         ]
@@ -80109,18 +80229,18 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Small Area / Minor"
+                    "Atk: Area"
                 ]
             },
             {
                 "特殊效果": [
-                    "Mana Cut",
-                    "Extra Damage"
+                    "Mana - Mana Cut",
+                    "Dmg - Extra"
                 ]
             },
             {
                 "增益效果": [
-                    "Defense ↑ : Special Skills"
+                    "Def - Def ↑ : Special"
                 ]
             }
         ]
@@ -80174,12 +80294,12 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Single"
+                    "Atk: Single"
                 ]
             },
             {
                 "特殊效果": [
-                    "Bypass (Defensive Buffs)"
+                    "Atk - Bypass / Ignore"
                 ]
             }
         ]
@@ -80233,12 +80353,12 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Single"
+                    "Atk: Single"
                 ]
             },
             {
                 "特殊效果": [
-                    "Bypass (Defensive Buffs)"
+                    "Atk - Bypass / Ignore"
                 ]
             }
         ]
@@ -80302,18 +80422,18 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Target and Nearby"
+                    "Atk: Minor to Nearby"
                 ]
             },
             {
                 "特殊效果": [
-                    "Mana Cut"
+                    "Mana - Mana Cut"
                 ]
             },
             {
                 "增益效果": [
-                    "Counterattack / Reflect",
-                    "Critical Chance ↑"
+                    "Def - Counterattack",
+                    "Atk - Crit Chance ↑"
                 ]
             }
         ]
@@ -80365,12 +80485,12 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Single"
+                    "Atk: Single"
                 ]
             },
             {
                 "负面效果": [
-                    "Defense ↓ : Holy"
+                    "Def - Def ↓ : Holy"
                 ]
             }
         ]
@@ -80422,12 +80542,12 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Single"
+                    "Atk: Single"
                 ]
             },
             {
                 "增益效果": [
-                    "Defense ↑ : Dark"
+                    "Def - Def ↑ : Dark"
                 ]
             }
         ]
@@ -80480,17 +80600,17 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Boost"
+                    "Heal: Boost Health"
                 ]
             },
             {
                 "特殊效果": [
-                    "Explosion / Detonation"
+                    "Dmg - Explosion"
                 ]
             },
             {
                 "增益效果": [
-                    "Attack ↑"
+                    "Atk - Attack ↑"
                 ]
             }
         ]
@@ -80543,18 +80663,18 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Over Time (HoT)",
-                    "Heal: Boost"
+                    "Heal: Over Time",
+                    "Heal: Boost Health"
                 ]
             },
             {
                 "特殊效果": [
-                    "Explosion / Detonation"
+                    "Dmg - Explosion"
                 ]
             },
             {
                 "增益效果": [
-                    "Attack ↑"
+                    "Atk - Attack ↑"
                 ]
             }
         ]
@@ -80616,12 +80736,12 @@ window.allHeroes =
             },
             {
                 "特殊效果": [
-                    "Minion"
+                    "Summon - Minion"
                 ]
             },
             {
                 "增益效果": [
-                    "Attack ↑"
+                    "Atk - Attack ↑"
                 ]
             }
         ]
@@ -80674,12 +80794,12 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: All"
+                    "Atk: All"
                 ]
             },
             {
                 "负面效果": [
-                    "Accuracy ↓"
+                    "Atk - Accuracy ↓"
                 ]
             }
         ]
@@ -80734,13 +80854,13 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: All"
+                    "Atk: All"
                 ]
             },
             {
                 "负面效果": [
-                    "Accuracy ↓",
-                    "Healing Amount ↓"
+                    "Atk - Accuracy ↓",
+                    "Heal - Healing ↓"
                 ]
             }
         ]
@@ -80795,13 +80915,13 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: All"
+                    "Atk: All"
                 ]
             },
             {
                 "负面效果": [
-                    "Mana Generation ↓ / Block",
-                    "Accuracy ↓"
+                    "Mana - Mana Gen ↓/Block",
+                    "Atk - Accuracy ↓"
                 ]
             }
         ]
@@ -80857,17 +80977,17 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: All"
+                    "Atk: All"
                 ]
             },
             {
                 "特殊效果": [
-                    "Damage ↑ : Dark"
+                    "Dmg - Dmg ↑ : Dark"
                 ]
             },
             {
                 "负面效果": [
-                    "Accuracy ↓"
+                    "Atk - Accuracy ↓"
                 ]
             }
         ]
@@ -80924,17 +81044,17 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: All"
+                    "Atk: All"
                 ]
             },
             {
                 "特殊效果": [
-                    "Bypass (Defensive Buffs)"
+                    "Atk - Bypass / Ignore"
                 ]
             },
             {
                 "负面效果": [
-                    "Accuracy ↓"
+                    "Atk - Accuracy ↓"
                 ]
             }
         ]
@@ -80990,7 +81110,7 @@ window.allHeroes =
             },
             {
                 "负面效果": [
-                    "Self-Debuff"
+                    "Status - Self-Debuff"
                 ]
             }
         ]
@@ -81042,12 +81162,12 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: All"
+                    "Atk: All"
                 ]
             },
             {
                 "特殊效果": [
-                    "Mana Cut"
+                    "Mana - Mana Cut"
                 ]
             }
         ]
@@ -81099,12 +81219,12 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: All"
+                    "Atk: All"
                 ]
             },
             {
                 "特殊效果": [
-                    "Mana Cut"
+                    "Mana - Mana Cut"
                 ]
             }
         ]
@@ -81156,12 +81276,12 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Small Area / Minor"
+                    "Atk: Area"
                 ]
             },
             {
                 "负面效果": [
-                    "Confusion / Silence / Sleep"
+                    "Mana - Mindless/Silence/Sleep"
                 ]
             }
         ]
@@ -81217,13 +81337,13 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: All"
+                    "Atk: All"
                 ]
             },
             {
                 "特殊效果": [
-                    "Mana Cut",
-                    "Damage ↑ : Dark"
+                    "Mana - Mana Cut",
+                    "Dmg - Dmg ↑ : Dark"
                 ]
             }
         ]
@@ -81280,13 +81400,13 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: All"
+                    "Atk: All"
                 ]
             },
             {
                 "特殊效果": [
-                    "Bypass (Defensive Buffs)",
-                    "Mana Cut"
+                    "Atk - Bypass / Ignore",
+                    "Mana - Mana Cut"
                 ]
             }
         ]
@@ -81343,14 +81463,14 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Small Area / Minor"
+                    "Atk: Area"
                 ]
             },
             {
                 "负面效果": [
-                    "Buff Immunity / Block Buffs",
-                    "Mana Generation ↓ / Block",
-                    "Defense ↓ : Special Skills"
+                    "Status - Buff Immunity",
+                    "Mana - Mana Gen ↓/Block",
+                    "Def - Def ↓ : Special"
                 ]
             }
         ]
@@ -81409,13 +81529,13 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Single"
+                    "Atk: Single"
                 ]
             },
             {
                 "特殊效果": [
-                    "Fiend",
-                    "Explosion / Detonation"
+                    "Summon - Fiend",
+                    "Dmg - Explosion"
                 ]
             }
         ]
@@ -81476,13 +81596,13 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Single"
+                    "Atk: Single"
                 ]
             },
             {
                 "特殊效果": [
-                    "Fiend",
-                    "Explosion / Detonation"
+                    "Summon - Fiend",
+                    "Dmg - Explosion"
                 ]
             }
         ]
@@ -81544,9 +81664,9 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Boost",
-                    "Heal: Over Time (HoT)",
-                    "Revive"
+                    "Heal: Boost Health",
+                    "Heal: Over Time",
+                    "Heal: Revive"
                 ]
             }
         ]
@@ -81605,7 +81725,7 @@ window.allHeroes =
             },
             {
                 "特殊效果": [
-                    "Destroy Fiends"
+                    "Summon - Destroy Fiends"
                 ]
             }
         ]
@@ -81660,12 +81780,12 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Single"
+                    "Atk: Single"
                 ]
             },
             {
                 "负面效果": [
-                    "Confusion / Silence / Sleep"
+                    "Mana - Mindless/Silence/Sleep"
                 ]
             }
         ]
@@ -81717,12 +81837,12 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Boost"
+                    "Heal: Boost Health"
                 ]
             },
             {
                 "特殊效果": [
-                    "Destroy Fiends"
+                    "Summon - Destroy Fiends"
                 ]
             }
         ]
@@ -81782,17 +81902,17 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Boost"
+                    "Heal: Boost Health"
                 ]
             },
             {
                 "特殊效果": [
-                    "Destroy Fiends"
+                    "Summon - Destroy Fiends"
                 ]
             },
             {
                 "增益效果": [
-                    "Defense ↑"
+                    "Def - Defense ↑"
                 ]
             }
         ]
@@ -81843,12 +81963,12 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "增益效果": [
-                    "Attack ↑"
+                    "Atk - Attack ↑"
                 ]
             },
             {
                 "负面效果": [
-                    "Self-Debuff"
+                    "Status - Self-Debuff"
                 ]
             }
         ]
@@ -81899,12 +82019,12 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: All"
+                    "Atk: All"
                 ]
             },
             {
                 "负面效果": [
-                    "Self-Debuff"
+                    "Status - Self-Debuff"
                 ]
             }
         ]
@@ -81954,12 +82074,12 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "增益效果": [
-                    "Attack ↑"
+                    "Atk - Attack ↑"
                 ]
             },
             {
                 "负面效果": [
-                    "Self-Debuff"
+                    "Status - Self-Debuff"
                 ]
             }
         ]
@@ -82011,12 +82131,12 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "增益效果": [
-                    "Attack ↑"
+                    "Atk - Attack ↑"
                 ]
             },
             {
                 "负面效果": [
-                    "Self-Debuff"
+                    "Status - Self-Debuff"
                 ]
             }
         ]
@@ -82076,12 +82196,12 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "特殊效果": [
-                    "Transform: Mana Generation"
+                    "Mana - Tile : Gen"
                 ]
             },
             {
                 "增益效果": [
-                    "Attack ↑"
+                    "Atk - Attack ↑"
                 ]
             }
         ]
@@ -82134,12 +82254,12 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Small Area / Minor"
+                    "Atk: Area"
                 ]
             },
             {
                 "负面效果": [
-                    "Change Color / Position"
+                    "Def - Change Position"
                 ]
             }
         ]
@@ -82198,18 +82318,18 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Small Area / Minor"
+                    "Atk: Area"
                 ]
             },
             {
                 "增益效果": [
-                    "Dodge",
-                    "Stack: Defense ↑"
+                    "Def - Dodge",
+                    "Def - Stack : Def ↑"
                 ]
             },
             {
                 "负面效果": [
-                    "Change Color / Position"
+                    "Def - Change Position"
                 ]
             }
         ]
@@ -82264,13 +82384,13 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: All"
+                    "Atk: All"
                 ]
             },
             {
                 "特殊效果": [
-                    "Reset Buff Duration",
-                    "Minion"
+                    "Status - Reset Buff Duration",
+                    "Summon - Minion"
                 ]
             }
         ]
@@ -82330,18 +82450,18 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: All"
+                    "Atk: All"
                 ]
             },
             {
                 "特殊效果": [
-                    "Redistribute Ailments"
+                    "Status - Redistribute Ailments",
+                    "Status - Reset Ailment Duration"
                 ]
             },
             {
                 "负面效果": [
-                    "Reset Ailment Duration",
-                    "Reflect Buff"
+                    "Status - Reflect Buffs"
                 ]
             }
         ]
@@ -82400,17 +82520,17 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: All"
+                    "Atk: All"
                 ]
             },
             {
                 "特殊效果": [
-                    "Fiend"
+                    "Summon - Fiend"
                 ]
             },
             {
                 "负面效果": [
-                    "Block Cleanse"
+                    "Status - Block Cleanse"
                 ]
             }
         ]
@@ -82465,19 +82585,19 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Single"
+                    "Atk: Single"
                 ]
             },
             {
                 "特殊效果": [
-                    "Chain Attack"
+                    "Atk - Chain"
                 ]
             },
             {
                 "负面效果": [
-                    "Mana Generation ↓ / Block",
-                    "Attack ↓",
-                    "Defense ↓"
+                    "Mana - Mana Gen ↓/Block",
+                    "Atk - Attack ↓",
+                    "Def - Defense ↓"
                 ]
             }
         ]
@@ -82534,17 +82654,17 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Single"
+                    "Atk: Single"
                 ]
             },
             {
                 "特殊效果": [
-                    "Bypass Dodge"
+                    "Atk - Bypass Dodge"
                 ]
             },
             {
                 "负面效果": [
-                    "Confusion / Silence / Sleep"
+                    "Mana - Mindless/Silence/Sleep"
                 ]
             }
         ]
@@ -82597,12 +82717,12 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Single"
+                    "Atk: Single"
                 ]
             },
             {
                 "特殊效果": [
-                    "Extra Damage"
+                    "Dmg - Extra"
                 ]
             }
         ]
@@ -82657,12 +82777,12 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Single"
+                    "Atk: Single"
                 ]
             },
             {
                 "特殊效果": [
-                    "Extra Damage"
+                    "Dmg - Extra"
                 ]
             }
         ]
@@ -82725,23 +82845,23 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Over Time (HoT)",
-                    "Attack: All"
+                    "Heal: Over Time",
+                    "Atk: All"
                 ]
             },
             {
                 "特殊效果": [
-                    "Gamble / Random Effect"
+                    "Atk - Gamble / Random"
                 ]
             },
             {
                 "增益效果": [
-                    "Attack ↑"
+                    "Atk - Attack ↑"
                 ]
             },
             {
                 "负面效果": [
-                    "Attack ↓"
+                    "Atk - Attack ↓"
                 ]
             }
         ]
@@ -82801,12 +82921,12 @@ window.allHeroes =
             {
                 "基础技能": [
                     "Heal: Instant",
-                    "Revive"
+                    "Heal: Revive"
                 ]
             },
             {
                 "增益效果": [
-                    "Damage Reduction"
+                    "Def - Dmg Reduction"
                 ]
             }
         ]
@@ -82868,20 +82988,20 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Single"
+                    "Atk: Single"
                 ]
             },
             {
                 "特殊效果": [
-                    "Mana Drain",
-                    "Steal Minions",
-                    "Mega Minion"
+                    "Atk - Steal Minions",
+                    "Summon - Mega Minion"
                 ]
             },
             {
                 "负面效果": [
-                    "Confusion / Silence / Sleep",
-                    "Increased Damage Taken ↑"
+                    "Mana - Mindless/Silence/Sleep",
+                    "Def - Dmg Taken ↑",
+                    "Mana - Mana Steal"
                 ]
             }
         ]
@@ -82941,17 +83061,17 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Small Area / Minor"
+                    "Atk: Area"
                 ]
             },
             {
                 "增益效果": [
-                    "Critical Chance ↑"
+                    "Atk - Crit Chance ↑"
                 ]
             },
             {
                 "负面效果": [
-                    "Buff Immunity / Block Buffs"
+                    "Status - Buff Immunity"
                 ]
             }
         ]
@@ -83010,13 +83130,13 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Single"
+                    "Atk: Single"
                 ]
             },
             {
                 "负面效果": [
-                    "Accuracy ↓",
-                    "Healing Amount ↓"
+                    "Atk - Accuracy ↓",
+                    "Heal - Healing ↓"
                 ]
             }
         ]
@@ -83074,13 +83194,13 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: All"
+                    "Atk: All"
                 ]
             },
             {
                 "特殊效果": [
-                    "Redistribute Ailments",
-                    "Steal Buffs"
+                    "Status - Redistribute Ailments",
+                    "Status - Steal Buffs"
                 ]
             }
         ]
@@ -83144,19 +83264,19 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: All"
+                    "Atk: All"
                 ]
             },
             {
                 "特殊效果": [
-                    "Dispel Buffs",
-                    "Extra Damage"
+                    "Dmg - Extra"
                 ]
             },
             {
                 "增益效果": [
-                    "Stack: Mana Generation",
-                    "Stack: Health Recovery"
+                    "Mana - Stack : Mana Gen ↑",
+                    "Heal - Stack : Regen",
+                    "Status - Dispel Buffs"
                 ]
             }
         ]
@@ -83222,19 +83342,19 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: All"
+                    "Atk: All"
                 ]
             },
             {
                 "特殊效果": [
-                    "Dispel Buffs",
-                    "Extra Damage"
+                    "Dmg - Extra"
                 ]
             },
             {
                 "增益效果": [
-                    "Stack: Mana Generation",
-                    "Stack: Health Recovery"
+                    "Mana - Stack : Mana Gen ↑",
+                    "Heal - Stack : Regen",
+                    "Status - Dispel Buffs"
                 ]
             }
         ]
@@ -83294,13 +83414,13 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Boost"
+                    "Heal: Boost Health"
                 ]
             },
             {
                 "增益效果": [
-                    "Block Max Health ↓",
-                    "Defense ↑"
+                    "Heal - Block Max Health ↓",
+                    "Def - Defense ↑"
                 ]
             }
         ]
@@ -83368,19 +83488,15 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Small Area / Minor"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "Cleanse Status Ailments"
+                    "Atk: Area"
                 ]
             },
             {
                 "负面效果": [
-                    "Accuracy ↓",
-                    "Defense ↓",
-                    "Buff Immunity / Block Buffs"
+                    "Atk - Accuracy ↓",
+                    "Def - Defense ↓",
+                    "Status - Buff Immunity",
+                    "Status - Cleanse Ailments"
                 ]
             }
         ]
@@ -83443,7 +83559,7 @@ window.allHeroes =
             },
             {
                 "增益效果": [
-                    "Immunity to Status Ailments"
+                    "Status - Ailment Immunity"
                 ]
             }
         ]
@@ -83510,7 +83626,7 @@ window.allHeroes =
             },
             {
                 "增益效果": [
-                    "Immunity to Status Ailments"
+                    "Status - Ailment Immunity"
                 ]
             }
         ]
@@ -83564,17 +83680,17 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: All"
+                    "Atk: All"
                 ]
             },
             {
                 "特殊效果": [
-                    "Explosion / Detonation"
+                    "Dmg - Explosion"
                 ]
             },
             {
                 "增益效果": [
-                    "Dodge"
+                    "Def - Dodge"
                 ]
             }
         ]
@@ -83632,13 +83748,13 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Over Time (HoT)",
-                    "Revive"
+                    "Heal: Over Time",
+                    "Heal: Revive"
                 ]
             },
             {
                 "增益效果": [
-                    "Defense ↑"
+                    "Def - Defense ↑"
                 ]
             }
         ]
@@ -83697,7 +83813,7 @@ window.allHeroes =
             },
             {
                 "特殊效果": [
-                    "Minion"
+                    "Summon - Minion"
                 ]
             }
         ]
@@ -83759,7 +83875,7 @@ window.allHeroes =
             },
             {
                 "特殊效果": [
-                    "Minion"
+                    "Summon - Minion"
                 ]
             }
         ]
@@ -83821,14 +83937,18 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Small Area / Minor"
+                    "Atk: Area"
                 ]
             },
             {
                 "特殊效果": [
-                    "Dispel Buffs",
-                    "Minion",
-                    "Destroy Minions"
+                    "Summon - Minion",
+                    "Atk - Destroy Minions"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Status - Dispel Buffs"
                 ]
             }
         ]
@@ -83888,8 +84008,12 @@ window.allHeroes =
             },
             {
                 "特殊效果": [
-                    "Cleanse Status Ailments",
-                    "Minion"
+                    "Summon - Minion"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Status - Cleanse Ailments"
                 ]
             }
         ]
@@ -83952,23 +84076,23 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Small Area / Minor"
+                    "Atk: Area"
                 ]
             },
             {
                 "特殊效果": [
-                    "Extra Attack"
+                    "Atk - Extra Attack"
                 ]
             },
             {
                 "增益效果": [
-                    "Stack: Mana Generation",
-                    "Attack ↑"
+                    "Mana - Stack : Mana Gen ↑",
+                    "Atk - Attack ↑"
                 ]
             },
             {
                 "负面效果": [
-                    "Madness"
+                    "Status - Insanity"
                 ]
             }
         ]
@@ -84023,12 +84147,12 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Small Area / Minor"
+                    "Atk: Area"
                 ]
             },
             {
                 "负面效果": [
-                    "Accuracy ↓"
+                    "Atk - Accuracy ↓"
                 ]
             }
         ]
@@ -84086,12 +84210,12 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Small Area / Minor"
+                    "Atk: Area"
                 ]
             },
             {
                 "负面效果": [
-                    "Accuracy ↓"
+                    "Atk - Accuracy ↓"
                 ]
             }
         ]
@@ -84145,17 +84269,17 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: All"
+                    "Atk: All"
                 ]
             },
             {
                 "特殊效果": [
-                    "Destroy Minions"
+                    "Atk - Destroy Minions"
                 ]
             },
             {
                 "负面效果": [
-                    "Block Minions"
+                    "Status - Block Minions"
                 ]
             }
         ]
@@ -84220,13 +84344,13 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "特殊效果": [
-                    "Destroy Fiends",
-                    "Minion"
+                    "Summon - Destroy Fiends",
+                    "Summon - Minion"
                 ]
             },
             {
                 "增益效果": [
-                    "Stack: Health Recovery"
+                    "Heal - Stack : Regen"
                 ]
             }
         ]
@@ -84292,13 +84416,13 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "特殊效果": [
-                    "Destroy Fiends",
-                    "Minion"
+                    "Summon - Destroy Fiends",
+                    "Summon - Minion"
                 ]
             },
             {
                 "增益效果": [
-                    "Stack: Health Recovery"
+                    "Heal - Stack : Regen"
                 ]
             }
         ]
@@ -84350,13 +84474,17 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Target and Nearby"
+                    "Atk: Minor to Nearby"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Dmg - Explosion"
                 ]
             },
             {
                 "负面效果": [
-                    "Damage on Ailment Cleanse",
-                    "Attack ↓"
+                    "Atk - Attack ↓"
                 ]
             }
         ]
@@ -84417,14 +84545,14 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Single",
-                    "Attack: Random"
+                    "Atk: Single",
+                    "Atk: Random"
                 ]
             },
             {
                 "特殊效果": [
-                    "Transform: Attack Power",
-                    "Damage ↑ : Dark"
+                    "Dmg - Tile : Up",
+                    "Dmg - Dmg ↑ : Dark"
                 ]
             }
         ]
@@ -84487,14 +84615,14 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Single",
-                    "Attack: Random"
+                    "Atk: Single",
+                    "Atk: Random"
                 ]
             },
             {
                 "特殊效果": [
-                    "Transform: Attack Power",
-                    "Damage ↑ : Dark"
+                    "Dmg - Tile : Up",
+                    "Dmg - Dmg ↑ : Dark"
                 ]
             }
         ]
@@ -84562,19 +84690,19 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Single"
+                    "Atk: Single"
                 ]
             },
             {
                 "特殊效果": [
-                    "Destroy Minions",
-                    "Mana on Kill",
-                    "Self-Heal"
+                    "Atk - Destroy Minions",
+                    "Mana - Mana Gain (on Kill)",
+                    "Heal - Self Recovery"
                 ]
             },
             {
                 "增益效果": [
-                    "Mimic"
+                    "Def - Mimic"
                 ]
             }
         ]
@@ -84640,9 +84768,9 @@ window.allHeroes =
             },
             {
                 "增益效果": [
-                    "Stack: Mana Generation",
-                    "Healing Amount ↑",
-                    "Critical Chance ↑"
+                    "Mana - Stack : Mana Gen ↑",
+                    "Heal - Healing ↑",
+                    "Atk - Crit Chance ↑"
                 ]
             }
         ]
@@ -84694,12 +84822,12 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Small Area / Minor"
+                    "Atk: Area"
                 ]
             },
             {
                 "负面效果": [
-                    "Mana Generation ↓ / Block"
+                    "Mana - Mana Gen ↓/Block"
                 ]
             }
         ]
@@ -84757,13 +84885,13 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Small Area / Minor",
-                    "Attack: All"
+                    "Atk: Area",
+                    "Atk: All"
                 ]
             },
             {
                 "特殊效果": [
-                    "Mega Minion"
+                    "Summon - Mega Minion"
                 ]
             }
         ]
@@ -84828,19 +84956,19 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Over Time (HoT)"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "Cleanse Status Ailments"
+                    "Heal: Over Time"
                 ]
             },
             {
                 "增益效果": [
-                    "Damage Share",
-                    "Reflect Ailments",
-                    "Defense ↑"
+                    "Def - Dmg Share",
+                    "Status - Reflect Ailments",
+                    "Def - Defense ↑"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Status - Cleanse Ailments"
                 ]
             }
         ]
@@ -84906,19 +85034,19 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: All",
-                    "Heal: From Damage Dealt"
+                    "Atk: All",
+                    "Heal: From Dmg"
                 ]
             },
             {
                 "特殊效果": [
-                    "Bypass Dodge",
-                    "Damage ↑ : Nature"
+                    "Atk - Bypass Dodge",
+                    "Dmg - Dmg ↑ : Nature"
                 ]
             },
             {
                 "增益效果": [
-                    "Counterattack / Reflect"
+                    "Def - Counterattack"
                 ]
             }
         ]
@@ -84982,14 +85110,14 @@ window.allHeroes =
                 ]
             },
             {
-                "特殊效果": [
-                    "Cleanse Status Ailments"
+                "增益效果": [
+                    "Def - Dodge",
+                    "Def - Defense ↑"
                 ]
             },
             {
-                "增益效果": [
-                    "Dodge",
-                    "Defense ↑"
+                "负面效果": [
+                    "Status - Cleanse Ailments"
                 ]
             }
         ]
@@ -85047,17 +85175,17 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Small Area / Minor"
+                    "Atk: Area"
                 ]
             },
             {
                 "特殊效果": [
-                    "Bypass (Defensive Buffs)"
+                    "Atk - Bypass / Ignore"
                 ]
             },
             {
                 "增益效果": [
-                    "Defense ↑"
+                    "Def - Defense ↑"
                 ]
             }
         ]
@@ -85115,14 +85243,14 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Single",
-                    "Attack: Damage over Time (DoT)"
+                    "Atk: Single",
+                    "Dmg: DoT"
                 ]
             },
             {
                 "负面效果": [
-                    "Buff Immunity / Block Buffs",
-                    "DoT: Bleed"
+                    "Status - Buff Immunity",
+                    "Dmg - DoT : Bleed"
                 ]
             }
         ]
@@ -85184,13 +85312,9 @@ window.allHeroes =
                 ]
             },
             {
-                "特殊效果": [
-                    "Mana Recovery"
-                ]
-            },
-            {
                 "增益效果": [
-                    "Defense ↑"
+                    "Def - Defense ↑",
+                    "Mana - Mana Gain"
                 ]
             }
         ]
@@ -85254,13 +85378,13 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Revive"
+                    "Heal: Revive"
                 ]
             },
             {
                 "增益效果": [
-                    "Attack ↑",
-                    "Mana Generation ↑"
+                    "Atk - Attack ↑",
+                    "Mana - Mana Gen ↑"
                 ]
             }
         ]
@@ -85323,14 +85447,14 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Boost",
-                    "Heal: Over Time (HoT)"
+                    "Heal: Boost Health",
+                    "Heal: Over Time"
                 ]
             },
             {
                 "增益效果": [
-                    "Mana Generation ↑",
-                    "Taunt"
+                    "Mana - Mana Gen ↑",
+                    "Def - Taunt"
                 ]
             }
         ]
@@ -85393,19 +85517,19 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Random"
+                    "Atk: Random"
                 ]
             },
             {
                 "增益效果": [
-                    "Block Buff Dispelling"
+                    "Status - Block Buff Dispel"
                 ]
             },
             {
                 "负面效果": [
-                    "Block Cleanse",
-                    "Stack: Attack ↓",
-                    "Stack: Defense ↓"
+                    "Status - Block Cleanse",
+                    "Atk - Stack : Atk ↓",
+                    "Def - Stack : Def ↓"
                 ]
             }
         ]
@@ -85470,19 +85594,19 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Over Time (HoT)"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "Cleanse Status Ailments"
+                    "Heal: Over Time"
                 ]
             },
             {
                 "增益效果": [
-                    "Block Ailments",
-                    "Damage Reduction",
-                    "Attack ↑"
+                    "Status - Block Ailments",
+                    "Def - Dmg Reduction",
+                    "Atk - Attack ↑"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Status - Cleanse Ailments"
                 ]
             }
         ]
@@ -85551,15 +85675,15 @@ window.allHeroes =
                 ]
             },
             {
-                "特殊效果": [
-                    "Cleanse Status Ailments"
+                "增益效果": [
+                    "Status - Block Ailments",
+                    "Def - Dmg Reduction",
+                    "Atk - Attack ↑"
                 ]
             },
             {
-                "增益效果": [
-                    "Block Ailments",
-                    "Damage Reduction",
-                    "Attack ↑"
+                "负面效果": [
+                    "Status - Cleanse Ailments"
                 ]
             }
         ]
@@ -85616,18 +85740,18 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: All",
-                    "Heal: Over Time (HoT)"
+                    "Atk: All",
+                    "Heal: Over Time"
                 ]
             },
             {
                 "特殊效果": [
-                    "Extra Damage"
+                    "Dmg - Extra"
                 ]
             },
             {
                 "增益效果": [
-                    "Defense ↑"
+                    "Def - Defense ↑"
                 ]
             }
         ]
@@ -85682,18 +85806,18 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Over Time (HoT)"
+                    "Heal: Over Time"
                 ]
             },
             {
                 "特殊效果": [
-                    "Mana Cut"
+                    "Mana - Mana Cut"
                 ]
             },
             {
                 "增益效果": [
-                    "Defense ↑",
-                    "Defense ↑ : Dark"
+                    "Def - Defense ↑",
+                    "Def - Def ↑ : Dark"
                 ]
             }
         ]
@@ -85754,12 +85878,12 @@ window.allHeroes =
             },
             {
                 "特殊效果": [
-                    "Mana Cut"
+                    "Mana - Mana Cut"
                 ]
             },
             {
                 "增益效果": [
-                    "Counterattack / Reflect : Dark"
+                    "Def - Reflect : Dark"
                 ]
             }
         ]
@@ -85820,14 +85944,14 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: All",
-                    "Attack: Damage over Time (DoT)"
+                    "Atk: All",
+                    "Dmg: DoT"
                 ]
             },
             {
                 "负面效果": [
-                    "DoT: Burn",
-                    "Increased Damage Taken ↑"
+                    "Dmg - DoT : Burn",
+                    "Def - Dmg Taken ↑"
                 ]
             }
         ]
@@ -85885,13 +86009,13 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: All"
+                    "Atk: All"
                 ]
             },
             {
                 "增益效果": [
-                    "Counterattack / Reflect",
-                    "Critical Chance ↑"
+                    "Def - Counterattack",
+                    "Atk - Crit Chance ↑"
                 ]
             }
         ]
@@ -85951,18 +86075,18 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Single"
+                    "Atk: Single"
                 ]
             },
             {
                 "特殊效果": [
-                    "Destroy Minions",
-                    "Extra Attack"
+                    "Atk - Destroy Minions",
+                    "Atk - Extra Attack"
                 ]
             },
             {
                 "增益效果": [
-                    "Counterattack / Reflect"
+                    "Def - Counterattack"
                 ]
             }
         ]
@@ -86019,14 +86143,14 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Boost",
+                    "Heal: Boost Health",
                     "Heal: Special"
                 ]
             },
             {
                 "增益效果": [
-                    "Dodge",
-                    "Block Max Health ↓"
+                    "Def - Dodge",
+                    "Heal - Block Max Health ↓"
                 ]
             }
         ]
@@ -86091,18 +86215,22 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Single"
+                    "Atk: Single"
                 ]
             },
             {
                 "特殊效果": [
-                    "Dispel Buffs",
-                    "Chain Attack"
+                    "Atk - Chain"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Status - Dispel Buffs"
                 ]
             },
             {
                 "负面效果": [
-                    "Weaken: Defense"
+                    "Def - Wither : Def↓"
                 ]
             }
         ]
@@ -86163,16 +86291,16 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Boost",
-                    "Attack: Small Area / Minor",
-                    "Attack: Damage over Time (DoT)",
-                    "Heal: From Damage Dealt"
+                    "Heal: Boost Health",
+                    "Atk: Area",
+                    "Dmg: DoT",
+                    "Heal: From Dmg"
                 ]
             },
             {
                 "负面效果": [
-                    "Buff Immunity / Block Buffs",
-                    "DoT: Bleed"
+                    "Status - Buff Immunity",
+                    "Dmg - DoT : Bleed"
                 ]
             }
         ]
@@ -86226,12 +86354,12 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Small Area / Minor"
+                    "Atk: Area"
                 ]
             },
             {
                 "负面效果": [
-                    "Max Health ↓"
+                    "Heal - Max Health ↓"
                 ]
             }
         ]
@@ -86287,12 +86415,12 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Small Area / Minor"
+                    "Atk: Area"
                 ]
             },
             {
                 "负面效果": [
-                    "Max Health ↓"
+                    "Heal - Max Health ↓"
                 ]
             }
         ]
@@ -86358,8 +86486,8 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "特殊效果": [
-                    "Fiend",
-                    "Explosion / Detonation"
+                    "Summon - Fiend",
+                    "Dmg - Explosion"
                 ]
             }
         ]
@@ -86415,18 +86543,18 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: All"
+                    "Atk: All"
                 ]
             },
             {
                 "特殊效果": [
-                    "Minion"
+                    "Summon - Minion"
                 ]
             },
             {
                 "增益效果": [
-                    "Dodge",
-                    "Mana Recovery"
+                    "Def - Dodge",
+                    "Mana - Mana Gain"
                 ]
             }
         ]
@@ -86482,22 +86610,22 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: All"
+                    "Atk: All"
                 ]
             },
             {
                 "特殊效果": [
-                    "Minion"
+                    "Summon - Minion"
                 ]
             },
             {
                 "增益效果": [
-                    "Mana Recovery"
+                    "Mana - Mana Gain"
                 ]
             },
             {
                 "负面效果": [
-                    "Accuracy ↓"
+                    "Atk - Accuracy ↓"
                 ]
             }
         ]
@@ -86560,17 +86688,17 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: All"
+                    "Atk: All"
                 ]
             },
             {
                 "特殊效果": [
-                    "Damage ↑ : Dark"
+                    "Dmg - Dmg ↑ : Dark"
                 ]
             },
             {
                 "负面效果": [
-                    "Mana Generation ↓ / Block"
+                    "Mana - Mana Gen ↓/Block"
                 ]
             }
         ]
@@ -86631,13 +86759,17 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "特殊效果": [
-                    "Steal Buffs",
-                    "Mana Drain"
+                    "Status - Steal Buffs"
                 ]
             },
             {
                 "增益效果": [
-                    "Attack ↑"
+                    "Atk - Attack ↑"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Mana - Mana Steal"
                 ]
             }
         ]
@@ -86696,18 +86828,18 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Single"
+                    "Atk: Single"
                 ]
             },
             {
                 "特殊效果": [
-                    "Extra Attack"
+                    "Atk - Extra Attack"
                 ]
             },
             {
                 "负面效果": [
-                    "Mana Generation ↓ / Block",
-                    "Defense ↓"
+                    "Mana - Mana Gen ↓/Block",
+                    "Def - Defense ↓"
                 ]
             }
         ]
@@ -86763,18 +86895,18 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Over Time (HoT)"
+                    "Heal: Over Time"
                 ]
             },
             {
                 "增益效果": [
-                    "Critical Chance ↑",
-                    "Attack ↑"
+                    "Atk - Crit Chance ↑",
+                    "Atk - Attack ↑"
                 ]
             },
             {
                 "负面效果": [
-                    "Self-Debuff"
+                    "Status - Self-Debuff"
                 ]
             }
         ]
@@ -86830,18 +86962,18 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Over Time (HoT)"
+                    "Heal: Over Time"
                 ]
             },
             {
                 "增益效果": [
-                    "Critical Chance ↑",
-                    "Attack ↑"
+                    "Atk - Crit Chance ↑",
+                    "Atk - Attack ↑"
                 ]
             },
             {
                 "负面效果": [
-                    "Self-Debuff"
+                    "Status - Self-Debuff"
                 ]
             }
         ]
@@ -86904,15 +87036,15 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: All"
+                    "Atk: All"
                 ]
             },
             {
                 "负面效果": [
-                    "Mana Generation ↓ / Block",
-                    "Accuracy ↓",
-                    "Attack ↓",
-                    "Defense ↓"
+                    "Mana - Mana Gen ↓/Block",
+                    "Atk - Accuracy ↓",
+                    "Atk - Attack ↓",
+                    "Def - Defense ↓"
                 ]
             }
         ]
@@ -86975,15 +87107,15 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: All"
+                    "Atk: All"
                 ]
             },
             {
                 "负面效果": [
-                    "Mana Generation ↓ / Block",
-                    "Accuracy ↓",
-                    "Attack ↓",
-                    "Defense ↓"
+                    "Mana - Mana Gen ↓/Block",
+                    "Atk - Accuracy ↓",
+                    "Atk - Attack ↓",
+                    "Def - Defense ↓"
                 ]
             }
         ]
@@ -87035,12 +87167,12 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Single"
+                    "Atk: Single"
                 ]
             },
             {
                 "负面效果": [
-                    "Accuracy ↓"
+                    "Atk - Accuracy ↓"
                 ]
             }
         ]
@@ -87092,12 +87224,12 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Single"
+                    "Atk: Single"
                 ]
             },
             {
                 "负面效果": [
-                    "Accuracy ↓"
+                    "Atk - Accuracy ↓"
                 ]
             }
         ]
@@ -87152,14 +87284,14 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Small Area / Minor",
-                    "Attack: Damage over Time (DoT)"
+                    "Atk: Area",
+                    "Dmg: DoT"
                 ]
             },
             {
                 "负面效果": [
-                    "Accuracy ↓",
-                    "DoT: Burn"
+                    "Atk - Accuracy ↓",
+                    "Dmg - DoT : Burn"
                 ]
             }
         ]
@@ -87215,17 +87347,17 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Single"
+                    "Atk: Single"
                 ]
             },
             {
                 "特殊效果": [
-                    "Damage ↑ : Dark"
+                    "Dmg - Dmg ↑ : Dark"
                 ]
             },
             {
                 "负面效果": [
-                    "Accuracy ↓"
+                    "Atk - Accuracy ↓"
                 ]
             }
         ]
@@ -87282,17 +87414,17 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Single"
+                    "Atk: Single"
                 ]
             },
             {
                 "特殊效果": [
-                    "Bypass (Defensive Buffs)"
+                    "Atk - Bypass / Ignore"
                 ]
             },
             {
                 "负面效果": [
-                    "Accuracy ↓"
+                    "Atk - Accuracy ↓"
                 ]
             }
         ]
@@ -87349,13 +87481,13 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Small Area / Minor"
+                    "Atk: Area"
                 ]
             },
             {
                 "负面效果": [
-                    "Mana Generation ↓ / Block",
-                    "Healing Amount ↓"
+                    "Mana - Mana Gen ↓/Block",
+                    "Heal - Healing ↓"
                 ]
             }
         ]
@@ -87408,17 +87540,17 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: All"
+                    "Atk: All"
                 ]
             },
             {
                 "增益效果": [
-                    "Mana Generation ↑"
+                    "Mana - Mana Gen ↑"
                 ]
             },
             {
                 "负面效果": [
-                    "Accuracy ↓"
+                    "Atk - Accuracy ↓"
                 ]
             }
         ]
@@ -87472,17 +87604,17 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: All"
+                    "Atk: All"
                 ]
             },
             {
                 "特殊效果": [
-                    "Extra Damage"
+                    "Dmg - Extra"
                 ]
             },
             {
                 "增益效果": [
-                    "Mana Generation ↑"
+                    "Mana - Mana Gen ↑"
                 ]
             }
         ]
@@ -87536,17 +87668,17 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: All"
+                    "Atk: All"
                 ]
             },
             {
                 "特殊效果": [
-                    "Extra Damage"
+                    "Dmg - Extra"
                 ]
             },
             {
                 "负面效果": [
-                    "Accuracy ↓"
+                    "Atk - Accuracy ↓"
                 ]
             }
         ]
@@ -87602,17 +87734,17 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: All"
+                    "Atk: All"
                 ]
             },
             {
                 "特殊效果": [
-                    "Damage ↑ : Dark"
+                    "Dmg - Dmg ↑ : Dark"
                 ]
             },
             {
                 "负面效果": [
-                    "Accuracy ↓"
+                    "Atk - Accuracy ↓"
                 ]
             }
         ]
@@ -87670,9 +87802,9 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "增益效果": [
-                    "Taunt",
-                    "Attack ↑",
-                    "Defense ↑ : Special Skills"
+                    "Def - Taunt",
+                    "Atk - Attack ↑",
+                    "Def - Def ↑ : Special"
                 ]
             }
         ]
@@ -87728,17 +87860,17 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Single"
+                    "Atk: Single"
                 ]
             },
             {
                 "特殊效果": [
-                    "Extra Attack"
+                    "Atk - Extra Attack"
                 ]
             },
             {
                 "负面效果": [
-                    "Confusion / Silence / Sleep"
+                    "Mana - Mindless/Silence/Sleep"
                 ]
             }
         ]
@@ -87794,17 +87926,17 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Single"
+                    "Atk: Single"
                 ]
             },
             {
                 "特殊效果": [
-                    "Extra Attack"
+                    "Atk - Extra Attack"
                 ]
             },
             {
                 "负面效果": [
-                    "Confusion / Silence / Sleep"
+                    "Mana - Mindless/Silence/Sleep"
                 ]
             }
         ]
@@ -87876,22 +88008,22 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Single"
+                    "Atk: Single"
                 ]
             },
             {
                 "特殊效果": [
-                    "Explosion / Detonation"
+                    "Dmg - Explosion"
                 ]
             },
             {
                 "增益效果": [
-                    "hidden / Ghost Form"
+                    "Status - Hide/Ghost Form"
                 ]
             },
             {
                 "负面效果": [
-                    "Confusion / Silence / Sleep"
+                    "Mana - Mindless/Silence/Sleep"
                 ]
             }
         ]
@@ -87956,18 +88088,18 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: All"
+                    "Atk: All"
                 ]
             },
             {
                 "特殊效果": [
-                    "Cleanse Status Ailments",
-                    "Explosion / Detonation"
+                    "Dmg - Explosion",
+                    "Status - Replace with Buff"
                 ]
             },
             {
-                "增益效果": [
-                    "Convert to Buff"
+                "负面效果": [
+                    "Status - Cleanse Ailments"
                 ]
             }
         ]
@@ -88022,12 +88154,12 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Single"
+                    "Atk: Single"
                 ]
             },
             {
                 "特殊效果": [
-                    "Heal from Damage"
+                    "Heal - From Dmg"
                 ]
             }
         ]
@@ -88089,18 +88221,14 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: All"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "Cleanse Status Ailments"
+                    "Atk: All"
                 ]
             },
             {
                 "负面效果": [
-                    "Healing Amount ↓",
-                    "Block Cleanse"
+                    "Heal - Healing ↓",
+                    "Status - Block Cleanse",
+                    "Status - Cleanse Ailments"
                 ]
             }
         ]
@@ -88161,13 +88289,13 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Single"
+                    "Atk: Single"
                 ]
             },
             {
                 "特殊效果": [
-                    "Mana Cut",
-                    "Extra Attack"
+                    "Mana - Mana Cut",
+                    "Atk - Extra Attack"
                 ]
             }
         ]
@@ -88222,13 +88350,13 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Single"
+                    "Atk: Single"
                 ]
             },
             {
                 "特殊效果": [
-                    "Heal from Damage",
-                    "Mana Cut"
+                    "Heal - From Dmg",
+                    "Mana - Mana Cut"
                 ]
             }
         ]
@@ -88281,13 +88409,13 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Small Area / Minor"
+                    "Atk: Area"
                 ]
             },
             {
                 "负面效果": [
-                    "Attack ↓",
-                    "Defense ↓ : Holy"
+                    "Atk - Attack ↓",
+                    "Def - Def ↓ : Holy"
                 ]
             }
         ]
@@ -88342,17 +88470,17 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: All"
+                    "Atk: All"
                 ]
             },
             {
                 "特殊效果": [
-                    "Mana Cut"
+                    "Mana - Mana Cut"
                 ]
             },
             {
                 "负面效果": [
-                    "Defense ↓"
+                    "Def - Defense ↓"
                 ]
             }
         ]
@@ -88411,14 +88539,14 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Single"
+                    "Atk: Single"
                 ]
             },
             {
                 "特殊效果": [
-                    "Heal from Damage",
-                    "Mana Cut",
-                    "Damage ↑ : Dark"
+                    "Heal - From Dmg",
+                    "Mana - Mana Cut",
+                    "Dmg - Dmg ↑ : Dark"
                 ]
             }
         ]
@@ -88478,13 +88606,17 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Single"
+                    "Atk: Single"
                 ]
             },
             {
                 "特殊效果": [
-                    "Dispel Buffs",
-                    "Mana Cut"
+                    "Mana - Mana Cut"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Status - Dispel Buffs"
                 ]
             }
         ]
@@ -88545,19 +88677,19 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Over Time (HoT)",
+                    "Heal: Over Time",
                     "Heal: Special"
                 ]
             },
             {
                 "特殊效果": [
-                    "Redistribute Ailments"
+                    "Status - Redistribute Ailments"
                 ]
             },
             {
                 "增益效果": [
-                    "Damage Reduction",
-                    "Reflect Ailments"
+                    "Def - Dmg Reduction",
+                    "Status - Reflect Ailments"
                 ]
             }
         ]
@@ -88620,20 +88752,20 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: All",
-                    "Attack: Damage over Time (DoT)"
+                    "Atk: All",
+                    "Dmg: DoT"
                 ]
             },
             {
                 "特殊效果": [
-                    "Damage ↑ : Dark"
+                    "Dmg - Dmg ↑ : Dark"
                 ]
             },
             {
                 "负面效果": [
-                    "Accuracy ↓",
-                    "Healing Amount ↓",
-                    "DoT: Bleed"
+                    "Atk - Accuracy ↓",
+                    "Heal - Healing ↓",
+                    "Dmg - DoT : Bleed"
                 ]
             }
         ]
@@ -88689,12 +88821,12 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Single"
+                    "Atk: Single"
                 ]
             },
             {
                 "负面效果": [
-                    "Buff Immunity / Block Buffs"
+                    "Status - Buff Immunity"
                 ]
             }
         ]
@@ -88753,19 +88885,19 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Damage over Time (DoT)"
+                    "Dmg: DoT"
                 ]
             },
             {
                 "特殊效果": [
-                    "Reset Ailment Duration",
-                    "Fiend"
+                    "Status - Reset Ailment Duration",
+                    "Summon - Fiend"
                 ]
             },
             {
                 "负面效果": [
-                    "DoT: Poison",
-                    "Increased Damage Taken ↑"
+                    "Dmg - DoT : Poison",
+                    "Def - Dmg Taken ↑"
                 ]
             }
         ]
@@ -88824,15 +88956,15 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "特殊效果": [
-                    "Minion"
+                    "Summon - Minion"
                 ]
             },
             {
                 "增益效果": [
-                    "Growth: Attack",
-                    "Growth: Defense",
-                    "Mana Generation ↑",
-                    "Defense ↑ : Special Skills"
+                    "Def - Growth : Def↑",
+                    "防御-成长：防御力↑",
+                    "Mana - Mana Gen ↑",
+                    "Def - Def ↑ : Special"
                 ]
             }
         ]
@@ -88898,17 +89030,17 @@ window.allHeroes =
             },
             {
                 "特殊效果": [
-                    "Redistribute Ailments"
+                    "Status - Redistribute Ailments"
                 ]
             },
             {
                 "增益效果": [
-                    "Defense ↑"
+                    "Def - Defense ↑"
                 ]
             },
             {
                 "负面效果": [
-                    "Block Cleanse"
+                    "Status - Block Cleanse"
                 ]
             }
         ]
@@ -88964,12 +89096,12 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Boost"
+                    "Heal: Boost Health"
                 ]
             },
             {
                 "增益效果": [
-                    "Immunity to Status Ailments"
+                    "Status - Ailment Immunity"
                 ]
             }
         ]
@@ -89029,18 +89161,18 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: All"
+                    "Atk: All"
                 ]
             },
             {
                 "特殊效果": [
-                    "Mana Cut",
-                    "Extra Damage"
+                    "Mana - Mana Cut",
+                    "Dmg - Extra"
                 ]
             },
             {
                 "负面效果": [
-                    "Mana Generation ↓ / Block"
+                    "Mana - Mana Gen ↓/Block"
                 ]
             }
         ]
@@ -89102,18 +89234,18 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: All"
+                    "Atk: All"
                 ]
             },
             {
                 "特殊效果": [
-                    "Mana Cut",
-                    "Extra Damage"
+                    "Mana - Mana Cut",
+                    "Dmg - Extra"
                 ]
             },
             {
                 "负面效果": [
-                    "Mana Generation ↓ / Block"
+                    "Mana - Mana Gen ↓/Block"
                 ]
             }
         ]
@@ -89178,9 +89310,9 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "增益效果": [
-                    "Damage Share",
-                    "Mana Generation ↑",
-                    "Defense ↑"
+                    "Def - Dmg Share",
+                    "Mana - Mana Gen ↑",
+                    "Def - Defense ↑"
                 ]
             }
         ]
@@ -89240,13 +89372,13 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "特殊效果": [
-                    "Minion"
+                    "Summon - Minion"
                 ]
             },
             {
                 "增益效果": [
-                    "Mana Generation ↑",
-                    "Damage Reduction"
+                    "Mana - Mana Gen ↑",
+                    "Def - Dmg Reduction"
                 ]
             }
         ]
@@ -89314,14 +89446,14 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "特殊效果": [
-                    "Fiend",
-                    "Minion"
+                    "Summon - Fiend",
+                    "Summon - Minion"
                 ]
             },
             {
                 "负面效果": [
-                    "Accuracy ↓",
-                    "Increased Damage Taken ↑"
+                    "Atk - Accuracy ↓",
+                    "Def - Dmg Taken ↑"
                 ]
             }
         ]
@@ -89376,12 +89508,12 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Target and Nearby"
+                    "Atk: Minor to Nearby"
                 ]
             },
             {
                 "特殊效果": [
-                    "Heal from Damage"
+                    "Heal - From Dmg"
                 ]
             }
         ]
@@ -89439,12 +89571,12 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Target and Nearby"
+                    "Atk: Minor to Nearby"
                 ]
             },
             {
                 "特殊效果": [
-                    "Heal from Damage"
+                    "Heal - From Dmg"
                 ]
             }
         ]
@@ -89503,17 +89635,17 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: All"
+                    "Atk: All"
                 ]
             },
             {
                 "特殊效果": [
-                    "Mana Cut"
+                    "Mana - Mana Cut"
                 ]
             },
             {
                 "负面效果": [
-                    "Accuracy ↓"
+                    "Atk - Accuracy ↓"
                 ]
             }
         ]
@@ -89577,18 +89709,18 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Single"
+                    "Atk: Single"
                 ]
             },
             {
                 "特殊效果": [
-                    "Extra Damage"
+                    "Dmg - Extra"
                 ]
             },
             {
                 "负面效果": [
-                    "Buff Immunity / Block Buffs",
-                    "Mana Generation ↓ / Block"
+                    "Status - Buff Immunity",
+                    "Mana - Mana Gen ↓/Block"
                 ]
             }
         ]
@@ -89647,18 +89779,18 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Small Area / Minor",
-                    "Attack: Damage over Time (DoT)"
+                    "Atk: Area",
+                    "Dmg: DoT"
                 ]
             },
             {
                 "增益效果": [
-                    "Counterattack / Reflect"
+                    "Def - Counterattack"
                 ]
             },
             {
                 "负面效果": [
-                    "DoT: Burn"
+                    "Dmg - DoT : Burn"
                 ]
             }
         ]
@@ -89708,12 +89840,12 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Small Area / Minor"
+                    "Atk: Area"
                 ]
             },
             {
                 "负面效果": [
-                    "Change Color / Position"
+                    "Def - Change Position"
                 ]
             }
         ]
@@ -89763,12 +89895,12 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Small Area / Minor"
+                    "Atk: Area"
                 ]
             },
             {
                 "负面效果": [
-                    "Change Color / Position"
+                    "Def - Change Position"
                 ]
             }
         ]
@@ -89822,17 +89954,17 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: All"
+                    "Atk: All"
                 ]
             },
             {
                 "特殊效果": [
-                    "Extra Damage"
+                    "Dmg - Extra"
                 ]
             },
             {
                 "增益效果": [
-                    "Mana Generation ↑"
+                    "Mana - Mana Gen ↑"
                 ]
             }
         ]
@@ -89886,17 +90018,17 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: All"
+                    "Atk: All"
                 ]
             },
             {
                 "特殊效果": [
-                    "Extra Damage"
+                    "Dmg - Extra"
                 ]
             },
             {
                 "增益效果": [
-                    "Mana Generation ↑"
+                    "Mana - Mana Gen ↑"
                 ]
             }
         ]
@@ -89955,18 +90087,18 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: All"
+                    "Atk: All"
                 ]
             },
             {
                 "特殊效果": [
-                    "Destroy Minions",
-                    "Extra Damage"
+                    "Atk - Destroy Minions",
+                    "Dmg - Extra"
                 ]
             },
             {
                 "负面效果": [
-                    "Stack: Mana Generation ↓"
+                    "Mana - Stack : Mana Gen ↓"
                 ]
             }
         ]
@@ -90023,12 +90155,12 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Small Area / Minor"
+                    "Atk: Area"
                 ]
             },
             {
                 "负面效果": [
-                    "Mana Drain"
+                    "Mana - Mana Steal"
                 ]
             }
         ]
@@ -90085,22 +90217,22 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Damage over Time (DoT)"
+                    "Dmg: DoT"
                 ]
             },
             {
                 "特殊效果": [
-                    "Minion"
+                    "Summon - Minion"
                 ]
             },
             {
                 "增益效果": [
-                    "Defense ↑"
+                    "Def - Defense ↑"
                 ]
             },
             {
                 "负面效果": [
-                    "DoT: Sand"
+                    "Dmg - DoT : Sand"
                 ]
             }
         ]
@@ -90162,22 +90294,22 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Damage over Time (DoT)"
+                    "Dmg: DoT"
                 ]
             },
             {
                 "特殊效果": [
-                    "Minion"
+                    "Summon - Minion"
                 ]
             },
             {
                 "增益效果": [
-                    "Defense ↑"
+                    "Def - Defense ↑"
                 ]
             },
             {
                 "负面效果": [
-                    "DoT: Sand"
+                    "Dmg - DoT : Sand"
                 ]
             }
         ]
@@ -90235,17 +90367,17 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Single"
+                    "Atk: Single"
                 ]
             },
             {
                 "特殊效果": [
-                    "Extra Damage"
+                    "Dmg - Extra"
                 ]
             },
             {
                 "负面效果": [
-                    "Healing Amount ↓"
+                    "Heal - Healing ↓"
                 ]
             }
         ]
@@ -90314,19 +90446,19 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Single",
-                    "Attack: Damage over Time (DoT)"
+                    "Atk: Single",
+                    "Dmg: DoT"
                 ]
             },
             {
                 "特殊效果": [
-                    "Steal Buffs"
+                    "Status - Steal Buffs"
                 ]
             },
             {
                 "负面效果": [
-                    "DoT: Poison",
-                    "Mana Generation ↓ / Block"
+                    "Dmg - DoT : Poison",
+                    "Mana - Mana Gen ↓/Block"
                 ]
             }
         ]
@@ -90396,19 +90528,19 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Single",
-                    "Attack: Damage over Time (DoT)"
+                    "Atk: Single",
+                    "Dmg: DoT"
                 ]
             },
             {
                 "特殊效果": [
-                    "Steal Buffs"
+                    "Status - Steal Buffs"
                 ]
             },
             {
                 "负面效果": [
-                    "DoT: Poison",
-                    "Mana Generation ↓ / Block"
+                    "Dmg - DoT : Poison",
+                    "Mana - Mana Gen ↓/Block"
                 ]
             }
         ]
@@ -90470,19 +90602,19 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Small Area / Minor"
+                    "Atk: Area"
                 ]
             },
             {
                 "特殊效果": [
-                    "Minion",
-                    "Bypass Dodge",
-                    "Damage ↑ : Holy"
+                    "Summon - Minion",
+                    "Atk - Bypass Dodge",
+                    "Dmg - Dmg ↑ : Holy"
                 ]
             },
             {
                 "增益效果": [
-                    "hidden / Ghost Form"
+                    "Status - Hide/Ghost Form"
                 ]
             }
         ]
@@ -90542,15 +90674,19 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Target and Nearby"
+                    "Atk: Minor to Nearby"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Dmg - Explosion"
                 ]
             },
             {
                 "负面效果": [
-                    "Confusion / Silence / Sleep",
-                    "Defense ↓ : Special Skills",
-                    "Increased Damage Taken ↑",
-                    "Damage on Ailment Cleanse"
+                    "Mana - Mindless/Silence/Sleep",
+                    "Def - Def ↓ : Special",
+                    "Def - Dmg Taken ↑"
                 ]
             }
         ]
@@ -90603,12 +90739,12 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Single"
+                    "Atk: Single"
                 ]
             },
             {
                 "增益效果": [
-                    "Block Ailments"
+                    "Status - Block Ailments"
                 ]
             }
         ]
@@ -90660,12 +90796,12 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Single"
+                    "Atk: Single"
                 ]
             },
             {
                 "增益效果": [
-                    "Immunity to Status Ailments"
+                    "Status - Ailment Immunity"
                 ]
             }
         ]
@@ -90722,13 +90858,13 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Boost",
-                    "Heal: Over Time (HoT)"
+                    "Heal: Boost Health",
+                    "Heal: Over Time"
                 ]
             },
             {
-                "特殊效果": [
-                    "Cleanse Status Ailments"
+                "负面效果": [
+                    "Status - Cleanse Ailments"
                 ]
             }
         ]
@@ -90786,13 +90922,13 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Boost",
-                    "Heal: Over Time (HoT)"
+                    "Heal: Boost Health",
+                    "Heal: Over Time"
                 ]
             },
             {
-                "特殊效果": [
-                    "Cleanse Status Ailments"
+                "负面效果": [
+                    "Status - Cleanse Ailments"
                 ]
             }
         ]
@@ -90844,18 +90980,18 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: All"
+                    "Atk: All"
                 ]
             },
             {
                 "特殊效果": [
-                    "Extra Damage",
-                    "Damage on Ailment Cleanse"
+                    "Dmg - Extra",
+                    "Dmg - Explosion"
                 ]
             },
             {
                 "增益效果": [
-                    "Mana Recovery"
+                    "Mana - Mana Gain"
                 ]
             }
         ]
@@ -90913,19 +91049,15 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Small Area / Minor",
-                    "Attack: Damage over Time (DoT)"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "Cleanse Status Ailments"
+                    "Atk: Area",
+                    "Dmg: DoT"
                 ]
             },
             {
                 "负面效果": [
-                    "Healing Amount ↓",
-                    "DoT: Sand"
+                    "Heal - Healing ↓",
+                    "Dmg - DoT : Sand",
+                    "Status - Cleanse Ailments"
                 ]
             }
         ]
@@ -90983,19 +91115,15 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Small Area / Minor",
-                    "Attack: Damage over Time (DoT)"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "Cleanse Status Ailments"
+                    "Atk: Area",
+                    "Dmg: DoT"
                 ]
             },
             {
                 "负面效果": [
-                    "Healing Amount ↓",
-                    "DoT: Water"
+                    "Heal - Healing ↓",
+                    "Dmg - DoT : Water",
+                    "Status - Cleanse Ailments"
                 ]
             }
         ]
@@ -91052,17 +91180,17 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Single"
+                    "Atk: Single"
                 ]
             },
             {
                 "增益效果": [
-                    "Attack ↑"
+                    "Atk - Attack ↑"
                 ]
             },
             {
                 "负面效果": [
-                    "Self-Debuff"
+                    "Status - Self-Debuff"
                 ]
             }
         ]
@@ -91124,18 +91252,22 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Boost"
+                    "Heal: Boost Health"
                 ]
             },
             {
                 "特殊效果": [
-                    "Cleanse Status Ailments",
-                    "Transform: Mana Generation"
+                    "Mana - Tile : Gen"
                 ]
             },
             {
                 "增益效果": [
-                    "Attack ↑"
+                    "Atk - Attack ↑"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Status - Cleanse Ailments"
                 ]
             }
         ]
@@ -91190,18 +91322,14 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Damage over Time (DoT)"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "Cleanse Status Ailments"
+                    "Dmg: DoT"
                 ]
             },
             {
                 "负面效果": [
-                    "Block Healing",
-                    "DoT: Sand"
+                    "Heal - Block Healing",
+                    "Dmg - DoT : Sand",
+                    "Status - Cleanse Ailments"
                 ]
             }
         ]
@@ -91256,18 +91384,18 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Damage over Time (DoT)"
+                    "Dmg: DoT"
                 ]
             },
             {
-                "特殊效果": [
-                    "Dispel Buffs"
+                "增益效果": [
+                    "Status - Dispel Buffs"
                 ]
             },
             {
                 "负面效果": [
-                    "Defense ↓",
-                    "DoT: Sand"
+                    "Def - Defense ↓",
+                    "Dmg - DoT : Sand"
                 ]
             }
         ]
@@ -91333,12 +91461,12 @@ window.allHeroes =
             },
             {
                 "特殊效果": [
-                    "Mega Minion"
+                    "Summon - Mega Minion"
                 ]
             },
             {
                 "增益效果": [
-                    "Damage Reduction"
+                    "Def - Dmg Reduction"
                 ]
             }
         ]
@@ -91403,23 +91531,19 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: All",
-                    "Attack: Damage over Time (DoT)"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "Dispel Buffs"
+                    "Atk: All",
+                    "Dmg: DoT"
                 ]
             },
             {
                 "增益效果": [
-                    "Critical Chance ↑"
+                    "Atk - Crit Chance ↑",
+                    "Status - Dispel Buffs"
                 ]
             },
             {
                 "负面效果": [
-                    "DoT: Water"
+                    "Dmg - DoT : Water"
                 ]
             }
         ]
@@ -91482,18 +91606,18 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Single"
+                    "Atk: Single"
                 ]
             },
             {
                 "特殊效果": [
-                    "Extra Attack"
+                    "Atk - Extra Attack"
                 ]
             },
             {
                 "负面效果": [
-                    "Confusion / Silence / Sleep",
-                    "Increased Damage Taken ↑"
+                    "Mana - Mindless/Silence/Sleep",
+                    "Def - Dmg Taken ↑"
                 ]
             }
         ]
@@ -91555,20 +91679,24 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Over Time (HoT)",
-                    "Attack: Small Area / Minor",
-                    "Attack: Damage over Time (DoT)"
+                    "Heal: Over Time",
+                    "Atk: Area",
+                    "Dmg: DoT"
                 ]
             },
             {
                 "特殊效果": [
-                    "Dispel Buffs",
-                    "Self-Heal"
+                    "Heal - Self Recovery"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Status - Dispel Buffs"
                 ]
             },
             {
                 "负面效果": [
-                    "DoT: Poison"
+                    "Dmg - DoT : Poison"
                 ]
             }
         ]
@@ -91628,22 +91756,22 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: All"
+                    "Atk: All"
                 ]
             },
             {
                 "特殊效果": [
-                    "Mega Minion"
+                    "Summon - Mega Minion"
                 ]
             },
             {
                 "增益效果": [
-                    "Counterattack / Reflect"
+                    "Def - Counterattack"
                 ]
             },
             {
                 "负面效果": [
-                    "Weaken: Attack"
+                    "Atk - Wither : Atk↓"
                 ]
             }
         ]
@@ -91704,14 +91832,18 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: From Damage Dealt",
-                    "Attack: All"
+                    "Heal: From Dmg",
+                    "Atk: All"
                 ]
             },
             {
                 "特殊效果": [
-                    "Cleanse Status Ailments",
-                    "Damage ↑ : Holy"
+                    "Dmg - Dmg ↑ : Holy"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Status - Cleanse Ailments"
                 ]
             }
         ]
@@ -91768,18 +91900,18 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Small Area / Minor",
-                    "Attack: Damage over Time (DoT)"
+                    "Atk: Area",
+                    "Dmg: DoT"
                 ]
             },
             {
                 "特殊效果": [
-                    "Mega Minion"
+                    "Summon - Mega Minion"
                 ]
             },
             {
                 "负面效果": [
-                    "DoT: Bleed"
+                    "Dmg - DoT : Bleed"
                 ]
             }
         ]
@@ -91834,9 +91966,9 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "增益效果": [
-                    "Counterattack / Reflect",
-                    "Damage Reduction",
-                    "Mana Generation ↑"
+                    "Def - Counterattack",
+                    "Def - Dmg Reduction",
+                    "Mana - Mana Gen ↑"
                 ]
             }
         ]
@@ -91891,14 +92023,10 @@ window.allHeroes =
         },
         "cn_skill_info": [
             {
-                "特殊效果": [
-                    "Mana Recovery"
-                ]
-            },
-            {
                 "增益效果": [
-                    "Counterattack / Reflect",
-                    "Damage Reduction"
+                    "Def - Counterattack",
+                    "Def - Dmg Reduction",
+                    "Mana - Mana Gain"
                 ]
             }
         ]
@@ -91956,18 +92084,18 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Damage over Time (DoT)"
+                    "Dmg: DoT"
                 ]
             },
             {
                 "特殊效果": [
-                    "Steal Minions"
+                    "Atk - Steal Minions"
                 ]
             },
             {
                 "负面效果": [
-                    "Buff Immunity / Block Buffs",
-                    "DoT: Curse"
+                    "Status - Buff Immunity",
+                    "Dmg - DoT : Curse"
                 ]
             }
         ]
@@ -92020,17 +92148,17 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Single"
+                    "Atk: Single"
                 ]
             },
             {
                 "特殊效果": [
-                    "Chain Attack"
+                    "Atk - Chain"
                 ]
             },
             {
                 "负面效果": [
-                    "Self-Debuff"
+                    "Status - Self-Debuff"
                 ]
             }
         ]
@@ -92094,12 +92222,12 @@ window.allHeroes =
             },
             {
                 "特殊效果": [
-                    "Explosion / Detonation"
+                    "Dmg - Explosion"
                 ]
             },
             {
                 "增益效果": [
-                    "Dodge"
+                    "Def - Dodge"
                 ]
             }
         ]
@@ -92157,17 +92285,17 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Boost"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "Cleanse Status Ailments"
+                    "Heal: Boost Health"
                 ]
             },
             {
                 "增益效果": [
-                    "Defense ↑"
+                    "Def - Defense ↑"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Status - Cleanse Ailments"
                 ]
             }
         ]
@@ -92228,12 +92356,12 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Variable"
+                    "Atk: Variable Targets"
                 ]
             },
             {
                 "负面效果": [
-                    "Accuracy ↓"
+                    "Atk - Accuracy ↓"
                 ]
             }
         ]
@@ -92293,12 +92421,12 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: All"
+                    "Atk: All"
                 ]
             },
             {
                 "负面效果": [
-                    "Accuracy ↓"
+                    "Atk - Accuracy ↓"
                 ]
             }
         ]
@@ -92359,19 +92487,19 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Boost"
+                    "Heal: Boost Health"
                 ]
             },
             {
                 "特殊效果": [
-                    "Explosion / Detonation",
-                    "Self-Heal"
+                    "Dmg - Explosion",
+                    "Heal - Self Recovery"
                 ]
             },
             {
                 "增益效果": [
-                    "Taunt",
-                    "Stack: Attack ↑"
+                    "Def - Taunt",
+                    "Atk - Stack : Atk ↑"
                 ]
             }
         ]
@@ -92431,13 +92559,13 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Small Area / Minor"
+                    "Atk: Area"
                 ]
             },
             {
                 "特殊效果": [
-                    "Bypass (Defensive Buffs)",
-                    "Extra Damage"
+                    "Atk - Bypass / Ignore",
+                    "Dmg - Extra"
                 ]
             }
         ]
@@ -92502,13 +92630,17 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Variable"
+                    "Atk: Variable Targets"
                 ]
             },
             {
                 "特殊效果": [
-                    "Mana Recovery",
-                    "Destroy Minions"
+                    "Atk - Destroy Minions"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Mana - Mana Gain"
                 ]
             }
         ]
@@ -92570,18 +92702,18 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Single",
-                    "Attack: Damage over Time (DoT)"
+                    "Atk: Single",
+                    "Dmg: DoT"
                 ]
             },
             {
                 "特殊效果": [
-                    "Bypass Minions"
+                    "Atk - Bypass Minions"
                 ]
             },
             {
                 "负面效果": [
-                    "DoT: Sand"
+                    "Dmg - DoT : Sand"
                 ]
             }
         ]
@@ -92651,25 +92783,21 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Over Time (HoT)",
-                    "Attack: Damage over Time (DoT)"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "Cleanse Status Ailments",
-                    "Dispel Buffs"
+                    "Heal: Over Time",
+                    "Dmg: DoT"
                 ]
             },
             {
                 "增益效果": [
-                    "Attack ↑"
+                    "Atk - Attack ↑",
+                    "Status - Dispel Buffs"
                 ]
             },
             {
                 "负面效果": [
-                    "Attack ↓",
-                    "DoT: Sand"
+                    "Atk - Attack ↓",
+                    "Dmg - DoT : Sand",
+                    "Status - Cleanse Ailments"
                 ]
             }
         ]
@@ -92728,13 +92856,13 @@ window.allHeroes =
                 ]
             },
             {
-                "特殊效果": [
-                    "Cleanse Status Ailments"
+                "增益效果": [
+                    "Def - Defense ↑"
                 ]
             },
             {
-                "增益效果": [
-                    "Defense ↑"
+                "负面效果": [
+                    "Status - Cleanse Ailments"
                 ]
             }
         ]
@@ -92793,13 +92921,13 @@ window.allHeroes =
                 ]
             },
             {
-                "特殊效果": [
-                    "Dispel Buffs"
+                "增益效果": [
+                    "Status - Dispel Buffs"
                 ]
             },
             {
                 "负面效果": [
-                    "Defense ↓"
+                    "Def - Defense ↓"
                 ]
             }
         ]
@@ -92854,17 +92982,17 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Boost"
+                    "Heal: Boost Health"
                 ]
             },
             {
-                "特殊效果": [
-                    "Dispel Buffs"
+                "增益效果": [
+                    "Status - Dispel Buffs"
                 ]
             },
             {
                 "负面效果": [
-                    "Attack ↓"
+                    "Atk - Attack ↓"
                 ]
             }
         ]
@@ -92925,13 +93053,13 @@ window.allHeroes =
                 ]
             },
             {
-                "特殊效果": [
-                    "Cleanse Status Ailments"
+                "增益效果": [
+                    "Def - Defense ↑"
                 ]
             },
             {
-                "增益效果": [
-                    "Defense ↑"
+                "负面效果": [
+                    "Status - Cleanse Ailments"
                 ]
             }
         ]
@@ -92995,14 +93123,14 @@ window.allHeroes =
                 ]
             },
             {
-                "特殊效果": [
-                    "Cleanse Status Ailments"
+                "增益效果": [
+                    "Status - Reflect Ailments",
+                    "Def - Defense ↑"
                 ]
             },
             {
-                "增益效果": [
-                    "Reflect Ailments",
-                    "Defense ↑"
+                "负面效果": [
+                    "Status - Cleanse Ailments"
                 ]
             }
         ]
@@ -93057,18 +93185,18 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Damage over Time (DoT)"
+                    "Dmg: DoT"
                 ]
             },
             {
                 "特殊效果": [
-                    "Heal from Damage"
+                    "Heal - From Dmg"
                 ]
             },
             {
                 "负面效果": [
-                    "Steal Healing",
-                    "DoT: Bleed"
+                    "Heal - Steal Healing",
+                    "Dmg - DoT : Bleed"
                 ]
             }
         ]
@@ -93133,18 +93261,18 @@ window.allHeroes =
             {
                 "基础技能": [
                     "Heal: Special",
-                    "Heal: Over Time (HoT)",
-                    "Heal: Boost"
+                    "Heal: Over Time",
+                    "Heal: Boost Health"
                 ]
             },
             {
                 "特殊效果": [
-                    "Extra Damage"
+                    "Dmg - Extra"
                 ]
             },
             {
                 "增益效果": [
-                    "Mana Generation ↑"
+                    "Mana - Mana Gen ↑"
                 ]
             }
         ]
@@ -93196,12 +93324,12 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Small Area / Minor"
+                    "Atk: Area"
                 ]
             },
             {
                 "负面效果": [
-                    "Defense ↓"
+                    "Def - Defense ↓"
                 ]
             }
         ]
@@ -93255,12 +93383,12 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Small Area / Minor"
+                    "Atk: Area"
                 ]
             },
             {
                 "负面效果": [
-                    "Defense ↓"
+                    "Def - Defense ↓"
                 ]
             }
         ]
@@ -93330,24 +93458,24 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: All"
+                    "Atk: All"
                 ]
             },
             {
                 "特殊效果": [
-                    "Dispel Buffs",
-                    "Bypass (Defensive Buffs)"
+                    "Atk - Bypass / Ignore"
                 ]
             },
             {
                 "增益效果": [
-                    "Counterattack / Reflect",
-                    "Damage Reduction"
+                    "Def - Counterattack",
+                    "Def - Dmg Reduction",
+                    "Status - Dispel Buffs"
                 ]
             },
             {
                 "负面效果": [
-                    "Buff Immunity / Block Buffs"
+                    "Status - Buff Immunity"
                 ]
             }
         ]
@@ -93407,18 +93535,18 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Boost"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "Cleanse Status Ailments"
+                    "Heal: Boost Health"
                 ]
             },
             {
                 "增益效果": [
-                    "Block Max Health ↓",
-                    "Defense ↑"
+                    "Heal - Block Max Health ↓",
+                    "Def - Defense ↑"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Status - Cleanse Ailments"
                 ]
             }
         ]
@@ -93474,14 +93602,14 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Boost",
-                    "Attack: All",
-                    "Heal: Over Time (HoT)"
+                    "Heal: Boost Health",
+                    "Atk: All",
+                    "Heal: Over Time"
                 ]
             },
             {
                 "增益效果": [
-                    "Damage Reduction"
+                    "Def - Dmg Reduction"
                 ]
             }
         ]
@@ -93541,14 +93669,14 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: Boost",
-                    "Attack: All",
-                    "Heal: Over Time (HoT)"
+                    "Heal: Boost Health",
+                    "Atk: All",
+                    "Heal: Over Time"
                 ]
             },
             {
                 "增益效果": [
-                    "Damage Reduction"
+                    "Def - Dmg Reduction"
                 ]
             }
         ]
@@ -93604,18 +93732,18 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: All"
+                    "Atk: All"
                 ]
             },
             {
                 "特殊效果": [
-                    "Steal Buffs"
+                    "Status - Steal Buffs"
                 ]
             },
             {
                 "负面效果": [
-                    "Madness",
-                    "Self-Debuff"
+                    "Status - Insanity",
+                    "Status - Self-Debuff"
                 ]
             }
         ]
@@ -93677,12 +93805,12 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Variable"
+                    "Atk: Variable Targets"
                 ]
             },
             {
                 "特殊效果": [
-                    "Mana Cut"
+                    "Mana - Mana Cut"
                 ]
             }
         ]
@@ -93743,13 +93871,13 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: All",
-                    "Revive"
+                    "Atk: All",
+                    "Heal: Revive"
                 ]
             },
             {
                 "特殊效果": [
-                    "Transform: Attack Power"
+                    "Dmg - Tile : Up"
                 ]
             }
         ]
@@ -93812,13 +93940,13 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Heal: From Damage Dealt",
-                    "Attack: Single"
+                    "Heal: From Dmg",
+                    "Atk: Single"
                 ]
             },
             {
-                "增益效果": [
-                    "Convert to Buff"
+                "特殊效果": [
+                    "Status - Replace with Buff"
                 ]
             }
         ]
@@ -93875,18 +94003,18 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Single"
+                    "Atk: Single"
                 ]
             },
             {
                 "特殊效果": [
-                    "Extra Attack",
-                    "Damage ↑ : Dark"
+                    "Atk - Extra Attack",
+                    "Dmg - Dmg ↑ : Dark"
                 ]
             },
             {
                 "负面效果": [
-                    "Defense ↓"
+                    "Def - Defense ↓"
                 ]
             }
         ]
@@ -93944,18 +94072,18 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Random"
+                    "Atk: Random"
                 ]
             },
             {
                 "特殊效果": [
-                    "Extra Attack",
-                    "Damage ↑ : Dark"
+                    "Atk - Extra Attack",
+                    "Dmg - Dmg ↑ : Dark"
                 ]
             },
             {
                 "负面效果": [
-                    "Defense ↓"
+                    "Def - Defense ↓"
                 ]
             }
         ]
@@ -94013,17 +94141,17 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Small Area / Minor"
+                    "Atk: Area"
                 ]
             },
             {
                 "特殊效果": [
-                    "Extra Damage"
+                    "Dmg - Extra"
                 ]
             },
             {
                 "增益效果": [
-                    "Immunity to Status Ailments"
+                    "Status - Ailment Immunity"
                 ]
             }
         ]
@@ -94075,12 +94203,12 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Single"
+                    "Atk: Single"
                 ]
             },
             {
                 "增益效果": [
-                    "Reflect Ailments"
+                    "Status - Reflect Ailments"
                 ]
             }
         ]
@@ -94140,18 +94268,18 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Single",
-                    "Attack: Damage over Time (DoT)"
+                    "Atk: Single",
+                    "Dmg: DoT"
                 ]
             },
             {
                 "增益效果": [
-                    "Reflect Ailments"
+                    "Status - Reflect Ailments"
                 ]
             },
             {
                 "负面效果": [
-                    "DoT: Bleed"
+                    "Dmg - DoT : Bleed"
                 ]
             }
         ]
@@ -94207,13 +94335,13 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "特殊效果": [
-                    "Fiend",
-                    "Minion"
+                    "Summon - Fiend",
+                    "Summon - Minion"
                 ]
             },
             {
                 "增益效果": [
-                    "Counterattack / Reflect"
+                    "Def - Counterattack"
                 ]
             }
         ]
@@ -94274,13 +94402,13 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "特殊效果": [
-                    "Fiend",
-                    "Minion"
+                    "Summon - Fiend",
+                    "Summon - Minion"
                 ]
             },
             {
                 "增益效果": [
-                    "Counterattack / Reflect"
+                    "Def - Counterattack"
                 ]
             }
         ]
@@ -94339,17 +94467,17 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: All"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "Cleanse Status Ailments"
+                    "Atk: All"
                 ]
             },
             {
                 "增益效果": [
-                    "Attack ↑"
+                    "Atk - Attack ↑"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Status - Cleanse Ailments"
                 ]
             }
         ]
@@ -94419,24 +94547,24 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Attack: Small Area / Minor",
-                    "Attack: Damage over Time (DoT)"
+                    "Atk: Area",
+                    "Dmg: DoT"
                 ]
             },
             {
                 "特殊效果": [
-                    "Self-Heal",
-                    "Mana on Kill"
+                    "Heal - Self Recovery",
+                    "Mana - Mana Gain (on Kill)"
                 ]
             },
             {
                 "增益效果": [
-                    "Mimic"
+                    "Def - Mimic"
                 ]
             },
             {
                 "负面效果": [
-                    "DoT: Bleed"
+                    "Dmg - DoT : Bleed"
                 ]
             }
         ]
