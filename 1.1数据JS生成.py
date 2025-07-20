@@ -386,7 +386,7 @@ def load_heroes_data_extra_cn():
             elif suffix_in == " C3": suffix_out = " glass"
         if not suffix_out:
             suffix_out = stats_suffix_map.get(suffix_in, "")
-        corrected_name = base_name + suffix_out
+        corrected_name = f"{base_name}{suffix_out}".strip() if not suffix_out.startswith(' ') else f"{base_name}{suffix_out}"
         normalized_key = normalize_for_hero_name(corrected_name)
         temp_lookup[normalized_key] = entry
     heroes_extra_cn_lookup = temp_lookup
@@ -396,6 +396,7 @@ def load_heroes_data_extra_cn():
 def generate_js_data_with_translation(heroes_base_dir, output_path_cn, output_path_tc, output_path_en):
     all_hero_data = {lang: [] for lang in LANGUAGES}
     missing_extra_info = []
+    missing_cn_skill_info = []
     unmatched_yml_heroes = []
     unmatched_stats_keys = set(hero_stats_lookup.keys())
     original_index_counter = 0
@@ -481,6 +482,9 @@ def generate_js_data_with_translation(heroes_base_dir, output_path_cn, output_pa
             cn_skill_info_for_hero = []
             cn_lookup_key = normalize_for_hero_name(strip_ignorable_suffix(hero_name_raw))
             cn_extra_data = heroes_extra_cn_lookup.get(cn_lookup_key, {})
+            # MODIFIED / 已修改: 增加星级判断，1/2星英雄不补充
+            if not cn_extra_data and current_star not in [1, 2]:
+                missing_cn_skill_info.append(hero_name_raw)
 
             for cn_category in SKILL_CATEGORY_ORDER:
                 if cn_category in cn_extra_data:
@@ -513,15 +517,19 @@ def generate_js_data_with_translation(heroes_base_dir, output_path_cn, output_pa
                     costume_data = hero_data[key]
                     yml_suffix = costume_data.get('design', key)
                     if yml_suffix == "costume": yml_suffix = "costume1"
+                    
                     base_name_normalized = normalize_for_hero_name(hero_name_raw)
+                    final_suffix = yml_suffix 
                     if base_name_normalized in SPECIAL_COSTUME_HEROES:
                         if yml_suffix == 'costume2': final_suffix = 'toon'
                         elif yml_suffix == 'costume3': final_suffix = 'glass'
                     else:
                         if yml_suffix == 'costume3': final_suffix = 'toon'
-                    
+                        elif yml_suffix == 'costume4': final_suffix = 'glass'
+
                     costume_id = int(re.match(r'costume(\d*)', key).group(1) or 1)
-                    yml_costume_full_name = f"{hero_name_raw} {yml_suffix}".strip()
+                    yml_costume_full_name = f"{hero_name_raw} {final_suffix}".strip()
+                    
                     extra_c = heroes_extra_lookup.get(normalize_for_hero_name(yml_costume_full_name), {})
                     if not extra_c: missing_extra_info.append(f"时装英雄: '{yml_costume_full_name}'")
                     
@@ -560,7 +568,11 @@ def generate_js_data_with_translation(heroes_base_dir, output_path_cn, output_pa
                             unmatched_yml_heroes.append(yml_costume_full_name)
 
                     cn_skill_info_for_costume = []
-                    cn_extra_data_c = heroes_extra_cn_lookup.get(normalize_for_hero_name(yml_costume_full_name), {})
+                    cn_lookup_key_c = normalize_for_hero_name(yml_costume_full_name)
+                    cn_extra_data_c = heroes_extra_cn_lookup.get(cn_lookup_key_c, {})
+                    # MODIFIED / 已修改: 增加星级判断，1/2星英雄不补充
+                    if not cn_extra_data_c and current_star not in [1, 2]:
+                         missing_cn_skill_info.append(yml_costume_full_name)
                     
                     for cn_category in SKILL_CATEGORY_ORDER:
                         if cn_category in cn_extra_data_c:
@@ -637,7 +649,10 @@ def generate_js_data_with_translation(heroes_base_dir, output_path_cn, output_pa
             cn_skill_info_for_extra_hero = []
             cn_lookup_key_e = normalize_for_hero_name(strip_ignorable_suffix(hero_name_raw))
             cn_extra_data_e = heroes_extra_cn_lookup.get(cn_lookup_key_e, {})
-            
+            # MODIFIED / 已修改: 增加星级判断，1/2星英雄不补充
+            if not cn_extra_data_e and current_star not in [1, 2]:
+                missing_cn_skill_info.append(hero_name_raw)
+
             for cn_category in SKILL_CATEGORY_ORDER:
                 if cn_category in cn_extra_data_e:
                     cn_values_raw = cn_extra_data_e[cn_category]
@@ -686,16 +701,14 @@ def generate_js_data_with_translation(heroes_base_dir, output_path_cn, output_pa
             print(f"完成！{lang_names[lang]}文件 '{path}' 已更新，共 {len(all_hero_data[lang])} 条数据。")
         except Exception as e:
             logging.error(f"写入{lang_names[lang]}文件时发生错误: {e}")
-    return missing_extra_info, unmatched_yml_heroes, list(unmatched_stats_keys)
+    return missing_extra_info, unmatched_yml_heroes, list(unmatched_stats_keys), missing_cn_skill_info
 
-# MODIFIED / 已修改: 修正了正则表达式，以正确提取包含撇号的英雄名称
 def append_missing_heroes_to_extra_data(missing_info_list, file_path):
     """
     当检测到有英雄缺少额外数据时，自动生成空白条目并追加到 heroes_data_extra.js 文件中。
     """
     logging.info(f"检测到 {len(missing_info_list)} 个缺失的英雄数据，准备自动追加到 '{file_path}'...")
     
-    # 这个“贪婪”模式的正则表达式会匹配到最后一个单引号，确保能完整提取名字
     pattern = re.compile(r"'(.*)'")
     found_names = set()
     for line in missing_info_list:
@@ -748,6 +761,75 @@ def append_missing_heroes_to_extra_data(missing_info_list, file_path):
     except Exception as e:
         logging.error(f"写入更新后的数据到 '{file_path}' 时失败: {e}")
 
+def append_missing_heroes_to_cn_skill_data(missing_names_list, file_path):
+    """
+    检测缺失中文技能分类数据的英雄，并将其以空白格式追加到指定的JSON文件中。
+    会自动处理服装名称，将其转换为 'C', 'C2', 'C3', 'C4' 后缀格式。
+    """
+    logging.info(f"检测到 {len(missing_names_list)} 个英雄可能在 '{file_path}' 中缺少条目。正在检查并准备追加...")
+    
+    existing_data = {}
+    if os.path.exists(file_path):
+        with open(file_path, 'r', encoding='utf-8') as f:
+            try:
+                existing_data = json.load(f)
+            except json.JSONDecodeError:
+                logging.error(f"无法解析 '{file_path}'。将创建一个新文件。")
+    
+    new_entries_count = 0
+    for hero_name_full in sorted(list(set(missing_names_list))):
+        parts = hero_name_full.split()
+        base_name = hero_name_full
+        suffix = ""
+        
+        if len(parts) > 1:
+            possible_suffixes = {"costume1", "costume2", "toon", "glass"}
+            if parts[-1].lower() in possible_suffixes:
+                base_name = ' '.join(parts[:-1])
+                suffix = parts[-1].lower()
+
+        output_key = ""
+        normalized_base = normalize_for_hero_name(base_name)
+        
+        if not suffix:
+            output_key = base_name
+        elif normalized_base in SPECIAL_COSTUME_HEROES:
+            if suffix == "costume1": output_key = f"{base_name} C"
+            elif suffix == "toon": output_key = f"{base_name} C2"
+            elif suffix == "glass": output_key = f"{base_name} C3"
+        else:
+            if suffix == "costume1": output_key = f"{base_name} C"
+            elif suffix == "costume2": output_key = f"{base_name} C2"
+            elif suffix == "toon": output_key = f"{base_name} C3"
+            elif suffix == "glass": output_key = f"{base_name} C4"
+        
+        if not output_key:
+            logging.warning(f"无法为 '{hero_name_full}' 确定输出键名。已跳过。")
+            continue
+
+        if output_key not in existing_data:
+            existing_data[output_key] = {
+                "基础技能": [],
+                "特殊效果": [],
+                "增益效果": [],
+                "负面效果": []
+            }
+            new_entries_count += 1
+            logging.info(f"准备为 '{hero_name_full}' 添加新条目，键名为 '{output_key}'。")
+
+    if new_entries_count > 0:
+        try:
+            sorted_data = dict(sorted(existing_data.items()))
+            with open(file_path, 'w', encoding='utf-8') as f:
+                json.dump(sorted_data, f, ensure_ascii=False, indent=4)
+            print(f"成功！已将 {new_entries_count} 个新的空白英雄条目追加到 '{file_path}'。")
+            logging.info(f"成功！已将 {new_entries_count} 个新的空白英雄条目追加到 '{file_path}'。")
+        except Exception as e:
+            logging.error(f"写入更新后的数据到 '{file_path}' 时失败: {e}")
+    else:
+        logging.info(f"无需向 '{file_path}' 追加新条目，文件已是最新。")
+
+
 if __name__ == '__main__':
     setup_logging()
     load_hero_stats()
@@ -756,7 +838,7 @@ if __name__ == '__main__':
     load_all_dictionaries(DICTIONARY_DIR) 
 
     if os.path.isdir(HEROES_DATA_DIR):
-        missing_extra, unmatched_yml, unmatched_stats = generate_js_data_with_translation(
+        missing_extra, unmatched_yml, unmatched_stats, missing_cn_info = generate_js_data_with_translation(
             HEROES_DATA_DIR, 
             OUTPUT_JS_FILE_CN, 
             OUTPUT_JS_FILE_TC, 
@@ -765,13 +847,21 @@ if __name__ == '__main__':
         failure_log_path = os.path.join('logs', 'translation_failures.log')
         if os.path.exists(failure_log_path) and os.path.getsize(failure_log_path) > 0:
             print(f"\n警告: 检测到翻译失败。详情请查看日志文件: {failure_log_path}")
+        
         if missing_extra:
             logging.warning("\n--- 以下英雄未找到 heroes_data_extra.js 中的额外数据 ---")
             for info in missing_extra:
                 logging.warning(info)
             append_missing_heroes_to_extra_data(missing_extra, HEROES_DATA_EXTRA_FILE)
-            print("\n请注意: heroes_data_extra.js 已更新。")
+            print(f"\n请注意: {HEROES_DATA_EXTRA_FILE} 已更新。")
             print("建议重新运行此脚本，以确保所有数据（包括刚刚添加的）都被正确加载和处理。")
+        
+        if missing_cn_info:
+            logging.warning(f"\n--- 发现 {len(set(missing_cn_info))} 个3-5星英雄在 {HEROES_DATA_EXTRA_CN_FILE} 中缺少数据 ---")
+            append_missing_heroes_to_cn_skill_data(missing_cn_info, HEROES_DATA_EXTRA_CN_FILE)
+            print(f"\n请注意: {HEROES_DATA_EXTRA_CN_FILE} 已更新。")
+            print("建议重新运行此脚本，以确保所有数据（包括刚刚添加的）都被正确加载和处理。")
+
         if unmatched_yml:
             print(f"警告: {len(unmatched_yml)} 个本地英雄文件未能在 hero_stats.json 中找到匹配属性。详情请查看 generation.log 文件。")
         if unmatched_stats:

@@ -816,5 +816,8 @@
     "Frostfall Strike 1": "霜降打击 (单体)",
     "Self Mana Generation Stack": "自我法力生成叠加",
     "Source of Ailments": "状态异常之源",
-    "Mana Generation Stack All": "全体法力生成叠加"
+    "Mana Generation Stack All": "全体法力生成叠加",
+    "Debuff Reflect for Dark Allies": "暗黑系盟友反射减益",
+    "Debuff Reflect All Fire Allies": "全体火焰系盟友反射减益",
+    "Lifts 1 Status Ailments All": "全体转移1个状态异常"
 }

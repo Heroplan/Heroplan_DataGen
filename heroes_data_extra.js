@@ -16621,5 +16621,80 @@ window.allHeroesExtra = [
             "Extra Damage Dealers",
             "Healing Reducers"
         ]
+    },
+    {
+        "name": "Carver glass",
+        "fancy name": "Glass Cutpurse",
+        "Release date": "2025-07-16",
+        "AetherPower": "Attack Up",
+        "skill_types": [
+            "AoE Attackers (Hit-5)",
+            "Bypassers",
+            "Mana Reducers or Blockers"
+        ]
+    },
+    {
+        "name": "Chao glass",
+        "fancy name": "Glass Tactician",
+        "Release date": "2025-07-16",
+        "AetherPower": "Ailment Immunity",
+        "skill_types": [
+            "Snipers",
+            "Bypassers",
+            "Mana Reducers or Blockers"
+        ]
+    },
+    {
+        "name": "Elena glass",
+        "fancy name": "Captain of the Glass Guard",
+        "Release date": "2025-07-16",
+        "AetherPower": "Regen",
+        "skill_types": [
+            "AoE Attackers (Hit-5)",
+            "Bypassers",
+            "Counterattackers"
+        ]
+    },
+    {
+        "name": "Hawkmoon glass",
+        "fancy name": "Ascendant Vitrail",
+        "Release date": "2025-07-16",
+        "AetherPower": "Defense Up",
+        "skill_types": [
+            "Healers",
+            "Reflectors"
+        ]
+    },
+    {
+        "name": "Rigard glass",
+        "fancy name": "Glass Cavalier",
+        "Release date": "2025-07-16",
+        "AetherPower": "Defense Up",
+        "skill_types": [
+            "Healers",
+            "Reflectors",
+            "Cleansers"
+        ]
+    },
+    {
+        "name": "Imagus",
+        "fancy name": "Fluffy Constellationist",
+        "Release date": "2025-07-18",
+        "AetherPower": "Boosted Regen",
+        "skill_types": [
+            "Ability Scores Modifiers",
+            "Cleansers",
+            "Healing Reducers"
+        ]
+    },
+    {
+        "name": "Roz costume1",
+        "fancy name": "Disco Sharpshooter",
+        "Release date": "2025-07-18",
+        "AetherPower": "Attack Up",
+        "skill_types": [
+            "AoE Attackers (Hit-3)",
+            "AoE Attackers (Hit-5)",
+            "Snipers"]
     }
 ];
