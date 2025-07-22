@@ -819,5 +819,6 @@
     "Mana Generation Stack All": "全體法力生成疊加",
     "Debuff Reflect for Dark Allies": "暗黑系盟友反射減益",
     "Debuff Reflect All Fire Allies": "全體火焰系盟友反射減益",
-    "Lifts 1 Status Ailments All": "全體轉移1個狀態異常"
+    "Lifts 1 Status Ailments All": "全體轉移1個狀態異常",
+    "Ailments Immunity All": "全體狀態異常免疫"
 }

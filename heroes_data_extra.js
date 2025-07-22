@@ -16695,6 +16695,34 @@ window.allHeroesExtra = [
         "skill_types": [
             "AoE Attackers (Hit-3)",
             "AoE Attackers (Hit-5)",
-            "Snipers"]
+            "Snipers"
+        ]
+    },
+    {
+        "name": "Ascension Mimic",
+        "fancy name": "Grinning Cache of Evil",
+        "Release date": "2025-07-04",
+        "AetherPower": "Bulwark",
+        "skill_types": [
+            "Healers (Special)",
+            "Minions Counters",
+            "AoE Attackers (Hit-3)",
+            "Mana Raisers",
+            "Immunity Providers",
+            "Ghost Form & Hiding",
+            "Bypassers"
+        ]
+    },
+    {
+        "name": "Godfrey",
+        "fancy name": "Garrulous Guardsman",
+        "Release date": "2025-07-22",
+        "AetherPower": "Defense Up",
+        "skill_types": [
+            "Healers",
+            "Status Effects Blockers",
+            "Minions Summoners",
+            "Dispellers"
+        ]
     }
 ];

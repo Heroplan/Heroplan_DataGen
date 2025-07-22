@@ -29881,6 +29881,77 @@ window.allHeroes =
         ]
     },
     {
+        "name": "Godfrey",
+        "fancy_name": "Garrulous Guardsman",
+        "AetherPower": "Defense Up",
+        "color": "Green",
+        "class": "Fighter",
+        "speed": "Average",
+        "skill": "Holding Down the Fort",
+        "types": [
+            "Healer All",
+            "Ailments Immunity All",
+            "Spear Guard Mega Minion"
+        ],
+        "skill_types": [
+            "Healers",
+            "Status Effects Blockers",
+            "Minions Summoners",
+            "Dispellers"
+        ],
+        "source": "Goblin Summon",
+        "Release date": "2025-07-22",
+        "star": 5,
+        "power": 1222,
+        "attack": 1213,
+        "defense": 1275,
+        "health": 2255,
+        "effects": [
+            "Recovers 35% health for all allies.",
+            "All allies are immune to new status ailments for 4 turns.",
+            "Summons a Spear Guard Mega Minion with 35% HP and 300% attack inherited from the caster.",
+            "Each hit from the Spear Guard Mega Minion dispels all dispellable buffs from the target."
+        ],
+        "passives": [
+            "Resist Mana reduction: This character has an innate resistance against mana Reduction.",
+            "Guard Rally: Every 4 turns, removes all Wither effects from all allies."
+        ],
+        "family": "garrisonguard",
+        "image": "https://imgur.com/vijr1Kv.jpg",
+        "costume_id": 0,
+        "originalIndex": 463,
+        "lb1": {
+            "power": 1307,
+            "attack": 1307,
+            "defense": 1374,
+            "health": 2430
+        },
+        "lb2": {
+            "power": 1478,
+            "attack": 1496,
+            "defense": 1572,
+            "health": 2781
+        },
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Heal: Instant"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Summon - Mega Minion"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Status - Ailment Immunity",
+                    "Status - Dispel Buffs"
+                ]
+            }
+        ]
+    },
+    {
         "name": "Goorian",
         "fancy_name": "Barbaric Sludge",
         "AetherPower": "Rage",
@@ -29923,7 +29994,7 @@ window.allHeroes =
         "family": "slime",
         "image": "https://i.imgur.com/e1nrPfv.jpg",
         "costume_id": 0,
-        "originalIndex": 463,
+        "originalIndex": 464,
         "lb1": {
             "power": 1267,
             "attack": 1365,
@@ -29994,7 +30065,7 @@ window.allHeroes =
         "family": 2022,
         "image": "https://i.imgur.com/GvwTLSo.jpg",
         "costume_id": 0,
-        "originalIndex": 464,
+        "originalIndex": 465,
         "lb1": {
             "power": 864,
             "attack": 819,
@@ -30055,7 +30126,7 @@ window.allHeroes =
         "family": "avalon",
         "image": "https://i.imgur.com/4LKxVef.jpg",
         "costume_id": 0,
-        "originalIndex": 465,
+        "originalIndex": 466,
         "lb1": {
             "power": 922,
             "attack": 954,
@@ -30124,7 +30195,7 @@ window.allHeroes =
         "family": 2018,
         "image": "https://i.imgur.com/Vz5Hvbn.jpg",
         "costume_id": 0,
-        "originalIndex": 466,
+        "originalIndex": 467,
         "lb1": {
             "power": 818,
             "attack": 785,
@@ -30186,7 +30257,7 @@ window.allHeroes =
         "family": 2018,
         "image": "https://i.imgur.com/ONemvil.jpg",
         "costume_id": 1,
-        "originalIndex": 467,
+        "originalIndex": 468,
         "lb1": {
             "power": 1048,
             "attack": 1034,
@@ -30253,7 +30324,7 @@ window.allHeroes =
         "family": "beowulf",
         "image": "https://i.imgur.com/ijEHGWi.jpg",
         "costume_id": 0,
-        "originalIndex": 468,
+        "originalIndex": 469,
         "lb1": {
             "power": 1266,
             "attack": 1307,
@@ -30325,7 +30396,7 @@ window.allHeroes =
         "family": "moth",
         "image": "https://i.imgur.com/0Q3pYS0.jpg",
         "costume_id": 0,
-        "originalIndex": 469,
+        "originalIndex": 470,
         "lb1": {
             "power": 1261,
             "attack": 1320,
@@ -30390,7 +30461,7 @@ window.allHeroes =
         "family": "kingdom",
         "image": "https://i.imgur.com/nDiRoqi.jpg",
         "costume_id": 0,
-        "originalIndex": 470,
+        "originalIndex": 471,
         "lb1": {
             "power": 891,
             "attack": 890,
@@ -30460,7 +30531,7 @@ window.allHeroes =
         "family": "kingdom",
         "image": "https://i.imgur.com/GP4J8r3.jpg",
         "costume_id": 1,
-        "originalIndex": 471,
+        "originalIndex": 472,
         "lb1": {
             "power": 1181,
             "attack": 1233,
@@ -30528,7 +30599,7 @@ window.allHeroes =
         "family": "guardiansteltoc",
         "image": "https://i.imgur.com/Q04Vvnt.jpg",
         "costume_id": 0,
-        "originalIndex": 472,
+        "originalIndex": 473,
         "lb1": {
             "power": 832,
             "attack": 770,
@@ -30592,7 +30663,7 @@ window.allHeroes =
         "family": "plainshunter",
         "image": "https://i.imgur.com/pL7PYXM.jpg",
         "costume_id": 0,
-        "originalIndex": 473,
+        "originalIndex": 474,
         "lb1": {
             "power": 946,
             "attack": 883,
@@ -30668,7 +30739,7 @@ window.allHeroes =
         "family": "construct",
         "image": "https://i.imgur.com/nDQGLk9.jpg",
         "costume_id": 0,
-        "originalIndex": 474,
+        "originalIndex": 475,
         "lb1": {
             "power": 988,
             "attack": 819,
@@ -30736,7 +30807,7 @@ window.allHeroes =
         "family": "asgard",
         "image": "https://i.imgur.com/bjKzbra.jpg",
         "costume_id": 0,
-        "originalIndex": 475,
+        "originalIndex": 476,
         "lb1": {
             "power": 840,
             "attack": 705,
@@ -30798,7 +30869,7 @@ window.allHeroes =
         "family": "asgard",
         "image": "https://i.imgur.com/YoTKnv0.jpg",
         "costume_id": 1,
-        "originalIndex": 476,
+        "originalIndex": 477,
         "lb1": {
             "power": 1055,
             "attack": 897,
@@ -30856,7 +30927,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/6787feX.jpg",
         "costume_id": 0,
-        "originalIndex": 477,
+        "originalIndex": 478,
         "lb1": {
             "power": 802,
             "attack": 708,
@@ -30913,7 +30984,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/AffGFoZ.jpg",
         "costume_id": 1,
-        "originalIndex": 478,
+        "originalIndex": 479,
         "lb1": {
             "power": 890,
             "attack": 802,
@@ -30976,7 +31047,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/IfQ1lHo.jpg",
         "costume_id": 2,
-        "originalIndex": 479,
+        "originalIndex": 480,
         "lb1": {
             "power": 1032,
             "attack": 906,
@@ -31040,7 +31111,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/VkOyyRt.jpg",
         "costume_id": 3,
-        "originalIndex": 480,
+        "originalIndex": 481,
         "lb1": {
             "power": 1210,
             "attack": 1013,
@@ -31108,7 +31179,7 @@ window.allHeroes =
         "family": "bear",
         "image": "https://i.imgur.com/wk8es22.jpg",
         "costume_id": 0,
-        "originalIndex": 481,
+        "originalIndex": 482,
         "lb1": {
             "power": 1154,
             "attack": 1132,
@@ -31173,7 +31244,7 @@ window.allHeroes =
         "family": "kalevala",
         "image": "https://i.imgur.com/wOeJMxg.jpg",
         "costume_id": 0,
-        "originalIndex": 482,
+        "originalIndex": 483,
         "lb1": {
             "power": 892,
             "attack": 874,
@@ -31251,7 +31322,7 @@ window.allHeroes =
         "family": "ninja",
         "image": "https://i.imgur.com/TBhE7C4.jpg",
         "costume_id": 0,
-        "originalIndex": 483,
+        "originalIndex": 484,
         "lb1": {
             "power": 1209,
             "attack": 1276,
@@ -31323,7 +31394,7 @@ window.allHeroes =
         "family": "ninja",
         "image": "https://i.imgur.com/tVOg6Mz.jpg",
         "costume_id": 0,
-        "originalIndex": 484,
+        "originalIndex": 485,
         "lb1": {
             "power": 851,
             "attack": 745,
@@ -31385,7 +31456,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/Gjh3PRB.jpg",
         "costume_id": 0,
-        "originalIndex": 485,
+        "originalIndex": 486,
         "lb1": {
             "power": 807,
             "attack": 750,
@@ -31444,7 +31515,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/N7LZ2EP.jpg",
         "costume_id": 1,
-        "originalIndex": 486,
+        "originalIndex": 487,
         "lb1": {
             "power": 894,
             "attack": 810,
@@ -31508,7 +31579,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/hEckaC5.jpg",
         "costume_id": 2,
-        "originalIndex": 487,
+        "originalIndex": 488,
         "lb1": {
             "power": 1032,
             "attack": 904,
@@ -31574,7 +31645,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/I1ETLXX.jpg",
         "costume_id": 3,
-        "originalIndex": 488,
+        "originalIndex": 489,
         "lb1": {
             "power": 1212,
             "attack": 1264,
@@ -31647,7 +31718,7 @@ window.allHeroes =
         "family": "plainshunter",
         "image": "https://i.imgur.com/D9rMcBZ.jpg",
         "costume_id": 0,
-        "originalIndex": 489,
+        "originalIndex": 490,
         "lb1": {
             "power": 948,
             "attack": 959,
@@ -31718,7 +31789,7 @@ window.allHeroes =
         "family": 2019,
         "image": "https://i.imgur.com/rlpoKXr.jpg",
         "costume_id": 0,
-        "originalIndex": 490,
+        "originalIndex": 491,
         "lb1": {
             "power": 821,
             "attack": 808,
@@ -31785,7 +31856,7 @@ window.allHeroes =
         "family": "garrisonguard",
         "image": "https://i.imgur.com/joEtnuS.jpg",
         "costume_id": 0,
-        "originalIndex": 491,
+        "originalIndex": 492,
         "lb1": {
             "power": 1196,
             "attack": 1216,
@@ -31853,7 +31924,7 @@ window.allHeroes =
         "family": "corellia",
         "image": "https://i.imgur.com/rSEO0Xi.jpg",
         "costume_id": 0,
-        "originalIndex": 492,
+        "originalIndex": 493,
         "lb1": {
             "power": 815,
             "attack": 868,
@@ -31916,7 +31987,7 @@ window.allHeroes =
         "family": "corellia",
         "image": "https://i.imgur.com/mpM0YIf.jpg",
         "costume_id": 1,
-        "originalIndex": 493,
+        "originalIndex": 494,
         "lb1": {
             "power": 1022,
             "attack": 1102,
@@ -31977,7 +32048,7 @@ window.allHeroes =
         "family": "avalon",
         "image": "https://i.imgur.com/hlRFlMx.jpg",
         "costume_id": 0,
-        "originalIndex": 494,
+        "originalIndex": 495,
         "lb1": {
             "power": 832,
             "attack": 814,
@@ -32038,7 +32109,7 @@ window.allHeroes =
         "family": "avalon",
         "image": "https://i.imgur.com/T9XV0yp.jpg",
         "costume_id": 1,
-        "originalIndex": 495,
+        "originalIndex": 496,
         "lb1": {
             "power": 1044,
             "attack": 1019,
@@ -32105,7 +32176,7 @@ window.allHeroes =
         "family": 2023,
         "image": "https://i.imgur.com/YdTKSoW.jpg",
         "costume_id": 0,
-        "originalIndex": 496,
+        "originalIndex": 497,
         "lb1": {
             "power": 960,
             "attack": 896,
@@ -32170,7 +32241,7 @@ window.allHeroes =
         "family": "goblin",
         "image": "https://i.imgur.com/Y6zioBg.jpg",
         "costume_id": 0,
-        "originalIndex": 497,
+        "originalIndex": 498,
         "lb1": {
             "power": 1047,
             "attack": 1072,
@@ -32240,7 +32311,7 @@ window.allHeroes =
         "family": "wildcat",
         "image": "https://i.imgur.com/nW3onBB.jpg",
         "costume_id": 0,
-        "originalIndex": 498,
+        "originalIndex": 499,
         "lb1": {
             "power": 1299,
             "attack": 1456,
@@ -32294,7 +32365,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/uJj6MQb.jpg",
         "costume_id": 0,
-        "originalIndex": 499,
+        "originalIndex": 500,
         "lb1": {
             "power": 805,
             "attack": 785,
@@ -32346,7 +32417,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/ieaiSor.jpg",
         "costume_id": 1,
-        "originalIndex": 500,
+        "originalIndex": 501,
         "lb1": {
             "power": 892,
             "attack": 897,
@@ -32403,7 +32474,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/UwDUNi0.jpg",
         "costume_id": 2,
-        "originalIndex": 501,
+        "originalIndex": 502,
         "lb1": {
             "power": 1030,
             "attack": 1047,
@@ -32461,7 +32532,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/yEECSzl.jpg",
         "costume_id": 3,
-        "originalIndex": 502,
+        "originalIndex": 503,
         "lb1": {
             "power": 1209,
             "attack": 1227,
@@ -32520,7 +32591,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://imgur.com/Ad7sIug.jpg",
         "costume_id": 4,
-        "originalIndex": 503,
+        "originalIndex": 504,
         "lb1": {
             "power": 1323,
             "attack": 1424,
@@ -32587,7 +32658,7 @@ window.allHeroes =
         "family": "moth",
         "image": "https://imgur.com/OeIVrwK.jpg",
         "costume_id": 0,
-        "originalIndex": 504,
+        "originalIndex": 505,
         "lb1": {
             "power": 1291,
             "attack": 1327,
@@ -32659,7 +32730,7 @@ window.allHeroes =
         "family": "kingdom",
         "image": "https://i.imgur.com/Uq8cKe7.jpg",
         "costume_id": 0,
-        "originalIndex": 505,
+        "originalIndex": 506,
         "lb1": {
             "power": 892,
             "attack": 879,
@@ -32729,7 +32800,7 @@ window.allHeroes =
         "family": "kingdom",
         "image": "https://i.imgur.com/rjnMev7.jpg",
         "costume_id": 1,
-        "originalIndex": 506,
+        "originalIndex": 507,
         "lb1": {
             "power": 1184,
             "attack": 1221,
@@ -32803,7 +32874,7 @@ window.allHeroes =
         "family": "underwild",
         "image": "https://i.imgur.com/RFjr7Fi.jpg",
         "costume_id": 0,
-        "originalIndex": 507,
+        "originalIndex": 508,
         "lb1": {
             "power": 864,
             "attack": 777,
@@ -32872,7 +32943,7 @@ window.allHeroes =
         "family": "underwild",
         "image": "https://i.imgur.com/EAwYCZr.jpg",
         "costume_id": 1,
-        "originalIndex": 508,
+        "originalIndex": 509,
         "lb1": {
             "power": 1097,
             "attack": 1001,
@@ -32936,7 +33007,7 @@ window.allHeroes =
         "family": "sun",
         "image": "https://i.imgur.com/Lc6n5Vz.jpg",
         "costume_id": 0,
-        "originalIndex": 509,
+        "originalIndex": 510,
         "lb1": {
             "power": 923,
             "attack": 896,
@@ -33002,7 +33073,7 @@ window.allHeroes =
         "family": "sun",
         "image": "https://i.imgur.com/mjmiIt0.jpg",
         "costume_id": 1,
-        "originalIndex": 510,
+        "originalIndex": 511,
         "lb1": {
             "power": 1253,
             "attack": 1254,
@@ -33067,7 +33138,7 @@ window.allHeroes =
         "family": "astraldwarfs",
         "image": "https://i.imgur.com/ZHoR1Fc.jpg",
         "costume_id": 0,
-        "originalIndex": 511,
+        "originalIndex": 512,
         "lb1": {
             "power": 1241,
             "attack": 1263,
@@ -33130,7 +33201,7 @@ window.allHeroes =
         "family": 2019,
         "image": "https://i.imgur.com/3T1uKuW.jpg",
         "costume_id": 0,
-        "originalIndex": 512,
+        "originalIndex": 513,
         "lb1": {
             "power": 821,
             "attack": 885,
@@ -33193,7 +33264,7 @@ window.allHeroes =
         "family": "pets",
         "image": "https://i.imgur.com/V0qUVNH.jpg",
         "costume_id": 0,
-        "originalIndex": 513,
+        "originalIndex": 514,
         "lb1": {
             "power": 934,
             "attack": 901,
@@ -33261,7 +33332,7 @@ window.allHeroes =
         "family": "beachparty",
         "image": "https://i.imgur.com/1FUEzbL.jpg",
         "costume_id": 0,
-        "originalIndex": 514,
+        "originalIndex": 515,
         "lb1": {
             "power": 1088,
             "attack": 1147,
@@ -33330,7 +33401,7 @@ window.allHeroes =
         "family": "gargoyle",
         "image": "https://i.imgur.com/y4ORfSh.jpg",
         "costume_id": 0,
-        "originalIndex": 515,
+        "originalIndex": 516,
         "lb1": {
             "power": 1122,
             "attack": 1187,
@@ -33396,7 +33467,7 @@ window.allHeroes =
         "family": "junglehunter",
         "image": "https://i.imgur.com/F4ide5S.jpg",
         "costume_id": 0,
-        "originalIndex": 516,
+        "originalIndex": 517,
         "lb1": {
             "power": 955,
             "attack": 954,
@@ -33462,7 +33533,7 @@ window.allHeroes =
         "family": "astralelves",
         "image": "https://i.imgur.com/0xgP0mx.jpg",
         "costume_id": 0,
-        "originalIndex": 517,
+        "originalIndex": 518,
         "lb1": {
             "power": 1080,
             "attack": 1072,
@@ -33518,7 +33589,7 @@ window.allHeroes =
         "family": "avalon",
         "image": "https://i.imgur.com/JIPoRD4.jpg",
         "costume_id": 0,
-        "originalIndex": 518,
+        "originalIndex": 519,
         "lb1": {
             "power": 815,
             "attack": 772,
@@ -33588,7 +33659,7 @@ window.allHeroes =
         "family": "christmas",
         "image": "https://i.imgur.com/463IXXp.jpg",
         "costume_id": 0,
-        "originalIndex": 519,
+        "originalIndex": 520,
         "lb1": {
             "power": 821,
             "attack": 652,
@@ -33649,7 +33720,7 @@ window.allHeroes =
         "family": "christmas",
         "image": "https://i.imgur.com/0QsTiw8.jpg",
         "costume_id": 1,
-        "originalIndex": 520,
+        "originalIndex": 521,
         "lb1": {
             "power": 1064,
             "attack": 850,
@@ -33715,7 +33786,7 @@ window.allHeroes =
         "family": "slime",
         "image": "https://i.imgur.com/eKwzh2k.jpg",
         "costume_id": 0,
-        "originalIndex": 521,
+        "originalIndex": 522,
         "lb1": {
             "power": 1220,
             "attack": 1258,
@@ -33786,7 +33857,7 @@ window.allHeroes =
         "family": "ninja",
         "image": "https://i.imgur.com/tXk6QNw.jpg",
         "costume_id": 0,
-        "originalIndex": 522,
+        "originalIndex": 523,
         "lb1": {
             "power": 932,
             "attack": 881,
@@ -33852,7 +33923,7 @@ window.allHeroes =
         "family": 2025,
         "image": "https://i.imgur.com/igntudt.jpg",
         "costume_id": 0,
-        "originalIndex": 523,
+        "originalIndex": 524,
         "lb1": {
             "power": 1136,
             "attack": 1181,
@@ -33916,7 +33987,7 @@ window.allHeroes =
         "family": "champions",
         "image": "https://i.imgur.com/CtidFGk.jpg",
         "costume_id": 0,
-        "originalIndex": 524,
+        "originalIndex": 525,
         "lb1": {
             "power": 1069,
             "attack": 1107,
@@ -33988,7 +34059,7 @@ window.allHeroes =
         "family": "nidavellir",
         "image": "https://i.imgur.com/XIyQFXu.jpg",
         "costume_id": 0,
-        "originalIndex": 525,
+        "originalIndex": 526,
         "lb1": {
             "power": 1246,
             "attack": 1218,
@@ -34052,7 +34123,7 @@ window.allHeroes =
         "family": "investigator",
         "image": "https://i.imgur.com/mxewGNK.jpg",
         "costume_id": 0,
-        "originalIndex": 526,
+        "originalIndex": 527,
         "lb1": {
             "power": 1252,
             "attack": 1267,
@@ -34123,7 +34194,7 @@ window.allHeroes =
         "family": "woodlandfaun",
         "image": "https://i.imgur.com/1bOrH83.jpg",
         "costume_id": 0,
-        "originalIndex": 527,
+        "originalIndex": 528,
         "lb1": {
             "power": 1216,
             "attack": 1223,
@@ -34196,7 +34267,7 @@ window.allHeroes =
         "family": "ninja",
         "image": "https://i.imgur.com/E1kxfPE.jpg",
         "costume_id": 0,
-        "originalIndex": 528,
+        "originalIndex": 529,
         "lb1": {
             "power": 872,
             "attack": 879,
@@ -34260,7 +34331,7 @@ window.allHeroes =
         "family": "underwild",
         "image": "https://i.imgur.com/L3xRyB9.jpg",
         "costume_id": 0,
-        "originalIndex": 529,
+        "originalIndex": 530,
         "lb1": {
             "power": 860,
             "attack": 896,
@@ -34330,7 +34401,7 @@ window.allHeroes =
         "family": "underwild",
         "image": "https://i.imgur.com/xWb34BS.jpg",
         "costume_id": 1,
-        "originalIndex": 530,
+        "originalIndex": 531,
         "lb1": {
             "power": 1091,
             "attack": 1145,
@@ -34400,7 +34471,7 @@ window.allHeroes =
         "family": "garrisonguard",
         "image": "https://i.imgur.com/ExQF65A.jpg",
         "costume_id": 0,
-        "originalIndex": 531,
+        "originalIndex": 532,
         "lb1": {
             "power": 1195,
             "attack": 1263,
@@ -34477,7 +34548,7 @@ window.allHeroes =
         "family": "opera",
         "image": "https://i.imgur.com/WwCBlh0.jpg",
         "costume_id": 0,
-        "originalIndex": 532,
+        "originalIndex": 533,
         "lb1": {
             "power": 1064,
             "attack": 1061,
@@ -34542,7 +34613,7 @@ window.allHeroes =
         "family": "lunaryear",
         "image": "https://i.imgur.com/PjBP5aw.jpg",
         "costume_id": 0,
-        "originalIndex": 533,
+        "originalIndex": 534,
         "lb1": {
             "power": 1050,
             "attack": 1078,
@@ -34612,7 +34683,7 @@ window.allHeroes =
         "family": "musketeer",
         "image": "https://i.imgur.com/BoTIbhq.jpg",
         "costume_id": 0,
-        "originalIndex": 534,
+        "originalIndex": 535,
         "lb1": {
             "power": 936,
             "attack": 799,
@@ -34674,7 +34745,7 @@ window.allHeroes =
         "family": "wolf",
         "image": "https://i.imgur.com/iWwRJlT.jpg",
         "costume_id": 0,
-        "originalIndex": 535,
+        "originalIndex": 536,
         "lb1": {
             "power": 870,
             "attack": 856,
@@ -34739,7 +34810,7 @@ window.allHeroes =
         "family": "wolf",
         "image": "https://i.imgur.com/vtZxZ4o.jpg",
         "costume_id": 1,
-        "originalIndex": 536,
+        "originalIndex": 537,
         "lb1": {
             "power": 1228,
             "attack": 1274,
@@ -34799,7 +34870,7 @@ window.allHeroes =
         "family": "alfheim",
         "image": "https://i.imgur.com/IwBPUx4.jpg",
         "costume_id": 0,
-        "originalIndex": 537,
+        "originalIndex": 538,
         "lb1": {
             "power": 837,
             "attack": 812,
@@ -34858,7 +34929,7 @@ window.allHeroes =
         "family": "alfheim",
         "image": "https://i.imgur.com/AZRDhg4.jpg",
         "costume_id": 1,
-        "originalIndex": 538,
+        "originalIndex": 539,
         "lb1": {
             "power": 1049,
             "attack": 1164,
@@ -34920,7 +34991,7 @@ window.allHeroes =
         "family": "owl",
         "image": "https://i.imgur.com/6ngbYLA.jpg",
         "costume_id": 0,
-        "originalIndex": 539,
+        "originalIndex": 540,
         "lb1": {
             "power": 1051,
             "attack": 1021,
@@ -34985,7 +35056,7 @@ window.allHeroes =
         "family": "construct",
         "image": "https://i.imgur.com/SQkVr8H.jpg",
         "costume_id": 0,
-        "originalIndex": 540,
+        "originalIndex": 541,
         "lb1": {
             "power": 1135,
             "attack": 1056,
@@ -35054,7 +35125,7 @@ window.allHeroes =
         "family": "superelemental",
         "image": "https://i.imgur.com/5xvOFq1.jpg",
         "costume_id": 0,
-        "originalIndex": 541,
+        "originalIndex": 542,
         "lb1": {
             "power": 1036,
             "attack": 1012,
@@ -35113,7 +35184,7 @@ window.allHeroes =
         "family": "superelemental",
         "image": "https://imgur.com/iob8I3P.jpg",
         "costume_id": 1,
-        "originalIndex": 542,
+        "originalIndex": 543,
         "lb1": {
             "power": 1306,
             "attack": 1310,
@@ -35174,7 +35245,7 @@ window.allHeroes =
         "family": "springvale",
         "image": "https://imgur.com/p0UA9id.jpg",
         "costume_id": 0,
-        "originalIndex": 543,
+        "originalIndex": 544,
         "lb1": {
             "power": 1250,
             "attack": 1336,
@@ -35241,7 +35312,7 @@ window.allHeroes =
         "family": "journey",
         "image": "https://i.imgur.com/zNMCJKX.jpg",
         "costume_id": 0,
-        "originalIndex": 544,
+        "originalIndex": 545,
         "lb1": {
             "power": 997,
             "attack": 996,
@@ -35310,7 +35381,7 @@ window.allHeroes =
         "family": 2022,
         "image": "https://i.imgur.com/bmUsK1J.jpg",
         "costume_id": 0,
-        "originalIndex": 545,
+        "originalIndex": 546,
         "lb1": {
             "power": 860,
             "attack": 839,
@@ -35379,7 +35450,7 @@ window.allHeroes =
         "family": "goblin",
         "image": "https://i.imgur.com/reMeS9l.jpg",
         "costume_id": 0,
-        "originalIndex": 546,
+        "originalIndex": 547,
         "lb1": {
             "power": 1006,
             "attack": 979,
@@ -35441,7 +35512,7 @@ window.allHeroes =
         "family": "pets",
         "image": "https://i.imgur.com/kEMlZAo.jpg",
         "costume_id": 0,
-        "originalIndex": 547,
+        "originalIndex": 548,
         "lb1": {
             "power": 936,
             "attack": 947,
@@ -35516,7 +35587,7 @@ window.allHeroes =
         "family": "nightmaresofatlantis",
         "image": "https://i.imgur.com/OJh8GR8.jpg",
         "costume_id": 0,
-        "originalIndex": 548,
+        "originalIndex": 549,
         "lb1": {
             "power": 1066,
             "attack": 1050,
@@ -35587,7 +35658,7 @@ window.allHeroes =
         "family": "nightmaresofatlantis",
         "image": "https://i.imgur.com/uRq8uoY.jpg",
         "costume_id": 1,
-        "originalIndex": 549,
+        "originalIndex": 550,
         "lb1": {
             "power": 1334,
             "attack": 1292,
@@ -35650,7 +35721,7 @@ window.allHeroes =
         "family": "fox",
         "image": "https://i.imgur.com/XnfQKGA.jpg",
         "costume_id": 0,
-        "originalIndex": 550,
+        "originalIndex": 551,
         "lb1": {
             "power": 1228,
             "attack": 1320,
@@ -35719,7 +35790,7 @@ window.allHeroes =
         "family": "abysshunter",
         "image": "https://i.imgur.com/obJIXMO.jpg",
         "costume_id": 0,
-        "originalIndex": 551,
+        "originalIndex": 552,
         "lb1": {
             "power": 951,
             "attack": 967,
@@ -35784,7 +35855,7 @@ window.allHeroes =
         "family": "astralelves",
         "image": "https://i.imgur.com/VtRf87E.jpg",
         "costume_id": 0,
-        "originalIndex": 552,
+        "originalIndex": 553,
         "lb1": {
             "power": 1136,
             "attack": 1112,
@@ -35856,7 +35927,7 @@ window.allHeroes =
         "family": "plainshunter",
         "image": "https://i.imgur.com/Uw6kgXB.jpg",
         "costume_id": 0,
-        "originalIndex": 553,
+        "originalIndex": 554,
         "lb1": {
             "power": 1210,
             "attack": 1232,
@@ -35934,7 +36005,7 @@ window.allHeroes =
         "family": "ninja",
         "image": "https://i.imgur.com/QuMcU9O.jpg",
         "costume_id": 0,
-        "originalIndex": 554,
+        "originalIndex": 555,
         "lb1": {
             "power": 1075,
             "attack": 1127,
@@ -35993,7 +36064,7 @@ window.allHeroes =
         "family": "lagoon",
         "image": "https://i.imgur.com/VmIENFl.jpg",
         "costume_id": 0,
-        "originalIndex": 555,
+        "originalIndex": 556,
         "lb1": {
             "power": 824,
             "attack": 888,
@@ -36050,7 +36121,7 @@ window.allHeroes =
         "family": "lagoon",
         "image": "https://i.imgur.com/UPOaKMz.jpg",
         "costume_id": 1,
-        "originalIndex": 556,
+        "originalIndex": 557,
         "lb1": {
             "power": 1008,
             "attack": 935,
@@ -36117,7 +36188,7 @@ window.allHeroes =
         "family": "bear",
         "image": "https://i.imgur.com/Aaf3CZX.jpg",
         "costume_id": 0,
-        "originalIndex": 557,
+        "originalIndex": 558,
         "lb1": {
             "power": 1047,
             "attack": 1074,
@@ -36186,7 +36257,7 @@ window.allHeroes =
         "family": 2020,
         "image": "https://i.imgur.com/xKwfgME.jpg",
         "costume_id": 0,
-        "originalIndex": 558,
+        "originalIndex": 559,
         "lb1": {
             "power": 822,
             "attack": 661,
@@ -36264,7 +36335,7 @@ window.allHeroes =
         "family": "magic",
         "image": "https://i.imgur.com/WMPKV4S.jpg",
         "costume_id": 0,
-        "originalIndex": 559,
+        "originalIndex": 560,
         "lb1": {
             "power": 950,
             "attack": 954,
@@ -36328,7 +36399,7 @@ window.allHeroes =
         "family": "wonderland",
         "image": "https://i.imgur.com/Fs3u4wr.jpg",
         "costume_id": 0,
-        "originalIndex": 560,
+        "originalIndex": 561,
         "lb1": {
             "power": 819,
             "attack": 792,
@@ -36390,7 +36461,7 @@ window.allHeroes =
         "family": "wonderland",
         "image": "https://i.imgur.com/SDtr1yp.jpg",
         "costume_id": 1,
-        "originalIndex": 561,
+        "originalIndex": 562,
         "lb1": {
             "power": 1029,
             "attack": 1028,
@@ -36460,7 +36531,7 @@ window.allHeroes =
         "family": "garrisonguard",
         "image": "https://i.imgur.com/tr0BEoG.jpg",
         "costume_id": 0,
-        "originalIndex": 562,
+        "originalIndex": 563,
         "lb1": {
             "power": 1177,
             "attack": 1174,
@@ -36531,7 +36602,7 @@ window.allHeroes =
         "family": "villains",
         "image": "https://i.imgur.com/m5DCDHL.jpg",
         "costume_id": 0,
-        "originalIndex": 563,
+        "originalIndex": 564,
         "lb1": {
             "power": 853,
             "attack": 834,
@@ -36599,7 +36670,7 @@ window.allHeroes =
         "family": "villains",
         "image": "https://imgur.com/6ZuZX5t.jpg",
         "costume_id": 1,
-        "originalIndex": 564,
+        "originalIndex": 565,
         "lb1": {
             "power": 1280,
             "attack": 1246,
@@ -36663,7 +36734,7 @@ window.allHeroes =
         "family": "kalevala",
         "image": "https://i.imgur.com/gY0vQZu.jpg",
         "costume_id": 0,
-        "originalIndex": 565,
+        "originalIndex": 566,
         "lb1": {
             "power": 893,
             "attack": 861,
@@ -36722,7 +36793,7 @@ window.allHeroes =
         "family": "kalevala",
         "image": "https://i.imgur.com/eTqe3pF.jpg",
         "costume_id": 1,
-        "originalIndex": 566,
+        "originalIndex": 567,
         "lb1": {
             "power": 1158,
             "attack": 1183,
@@ -36783,7 +36854,7 @@ window.allHeroes =
         "family": "slime",
         "image": "https://imgur.com/cFHh06y.jpg",
         "costume_id": 0,
-        "originalIndex": 567,
+        "originalIndex": 568,
         "lb1": {
             "power": 1303,
             "attack": 1345,
@@ -36845,7 +36916,7 @@ window.allHeroes =
         "family": "owl",
         "image": "https://i.imgur.com/Klnv0Ue.jpg",
         "costume_id": 0,
-        "originalIndex": 568,
+        "originalIndex": 569,
         "lb1": {
             "power": 1119,
             "attack": 1158,
@@ -36917,7 +36988,7 @@ window.allHeroes =
         "family": 2023,
         "image": "https://i.imgur.com/SWrRjRX.jpg",
         "costume_id": 0,
-        "originalIndex": 569,
+        "originalIndex": 570,
         "lb1": {
             "power": 874,
             "attack": 772,
@@ -36988,7 +37059,7 @@ window.allHeroes =
         "family": "bard",
         "image": "https://i.imgur.com/keg45a3.jpg",
         "costume_id": 0,
-        "originalIndex": 570,
+        "originalIndex": 571,
         "lb1": {
             "power": 927,
             "attack": 894,
@@ -37061,7 +37132,7 @@ window.allHeroes =
         "family": "superelemental",
         "image": "https://i.imgur.com/KaW9HIP.jpg",
         "costume_id": 0,
-        "originalIndex": 571,
+        "originalIndex": 572,
         "lb1": {
             "power": 962,
             "attack": 910,
@@ -37129,7 +37200,7 @@ window.allHeroes =
         "family": "stag",
         "image": "https://i.imgur.com/En0uUcx.jpg",
         "costume_id": 0,
-        "originalIndex": 572,
+        "originalIndex": 573,
         "lb1": {
             "power": 1047,
             "attack": 1125,
@@ -37198,7 +37269,7 @@ window.allHeroes =
         "family": "lunaryear",
         "image": "https://i.imgur.com/XmTf3zL.jpg",
         "costume_id": 0,
-        "originalIndex": 573,
+        "originalIndex": 574,
         "lb1": {
             "power": 1235,
             "attack": 1207,
@@ -37266,7 +37337,7 @@ window.allHeroes =
         "family": "sand",
         "image": "https://i.imgur.com/jUayUm6.jpg",
         "costume_id": 0,
-        "originalIndex": 574,
+        "originalIndex": 575,
         "lb1": {
             "power": 821,
             "attack": 666,
@@ -37332,7 +37403,7 @@ window.allHeroes =
         "family": "sand",
         "image": "https://i.imgur.com/vpqf6zq.jpg",
         "costume_id": 1,
-        "originalIndex": 575,
+        "originalIndex": 576,
         "lb1": {
             "power": 1005,
             "attack": 862,
@@ -37403,7 +37474,7 @@ window.allHeroes =
         "family": "investigator",
         "image": "https://i.imgur.com/F1mKhpD.jpg",
         "costume_id": 0,
-        "originalIndex": 576,
+        "originalIndex": 577,
         "lb1": {
             "power": 1186,
             "attack": 1272,
@@ -37469,7 +37540,7 @@ window.allHeroes =
         "family": 2018,
         "image": "https://i.imgur.com/lrpsqzO.jpg",
         "costume_id": 0,
-        "originalIndex": 577,
+        "originalIndex": 578,
         "lb1": {
             "power": 818,
             "attack": 823,
@@ -37546,7 +37617,7 @@ window.allHeroes =
         "family": 2018,
         "image": "https://i.imgur.com/QJNIkdZ.jpg",
         "costume_id": 1,
-        "originalIndex": 578,
+        "originalIndex": 579,
         "lb1": {
             "power": 1046,
             "attack": 1036,
@@ -37618,7 +37689,7 @@ window.allHeroes =
         "family": 2020,
         "image": "https://i.imgur.com/XA1fhlp.jpg",
         "costume_id": 0,
-        "originalIndex": 579,
+        "originalIndex": 580,
         "lb1": {
             "power": 826,
             "attack": 796,
@@ -37687,7 +37758,7 @@ window.allHeroes =
         "family": "superelemental",
         "image": "https://i.imgur.com/cAdigcK.jpg",
         "costume_id": 0,
-        "originalIndex": 580,
+        "originalIndex": 581,
         "lb1": {
             "power": 1001,
             "attack": 1007,
@@ -37743,7 +37814,7 @@ window.allHeroes =
         "family": null,
         "image": "https://i.imgur.com/Xe6KTRG.jpg",
         "costume_id": 0,
-        "originalIndex": 581,
+        "originalIndex": 582,
         "cn_skill_info": []
     },
     {
@@ -37774,7 +37845,7 @@ window.allHeroes =
         "family": null,
         "image": "https://i.imgur.com/TChsKw7.jpg",
         "costume_id": 0,
-        "originalIndex": 582,
+        "originalIndex": 583,
         "cn_skill_info": []
     },
     {
@@ -37805,7 +37876,7 @@ window.allHeroes =
         "family": null,
         "image": "https://i.imgur.com/J6kO15m.jpg",
         "costume_id": 0,
-        "originalIndex": 583,
+        "originalIndex": 584,
         "cn_skill_info": []
     },
     {
@@ -37836,7 +37907,7 @@ window.allHeroes =
         "family": null,
         "image": "https://i.imgur.com/bWdwLhP.jpg",
         "costume_id": 0,
-        "originalIndex": 584,
+        "originalIndex": 585,
         "cn_skill_info": []
     },
     {
@@ -37867,7 +37938,7 @@ window.allHeroes =
         "family": null,
         "image": "https://i.imgur.com/toVI2j1.jpg",
         "costume_id": 0,
-        "originalIndex": 585,
+        "originalIndex": 586,
         "cn_skill_info": []
     },
     {
@@ -37901,7 +37972,7 @@ window.allHeroes =
         "family": "raven",
         "image": "https://i.imgur.com/7kv6ZGx.jpg",
         "costume_id": 0,
-        "originalIndex": 586,
+        "originalIndex": 587,
         "lb1": {
             "power": 536,
             "attack": 512,
@@ -37955,7 +38026,7 @@ window.allHeroes =
         "family": "niflheim",
         "image": "https://i.imgur.com/MSmQZNX.jpg",
         "costume_id": 0,
-        "originalIndex": 587,
+        "originalIndex": 588,
         "lb1": {
             "power": 519,
             "attack": 480,
@@ -38016,7 +38087,7 @@ window.allHeroes =
         "family": "moon",
         "image": "https://i.imgur.com/N5k1s9j.jpg",
         "costume_id": 0,
-        "originalIndex": 588,
+        "originalIndex": 589,
         "lb1": {
             "power": 540,
             "attack": 510,
@@ -38080,7 +38151,7 @@ window.allHeroes =
         "family": "moon",
         "image": "https://i.imgur.com/kbKyRq1.jpg",
         "costume_id": 1,
-        "originalIndex": 589,
+        "originalIndex": 590,
         "lb1": {
             "power": 552,
             "attack": 539,
@@ -38135,7 +38206,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/OSefjqG.jpg",
         "costume_id": 0,
-        "originalIndex": 590,
+        "originalIndex": 591,
         "lb1": {
             "power": 493,
             "attack": 547,
@@ -38187,7 +38258,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/PBzwskK.jpg",
         "costume_id": 1,
-        "originalIndex": 591,
+        "originalIndex": 592,
         "lb1": {
             "power": 528,
             "attack": 604,
@@ -38246,7 +38317,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/TVzeF5e.jpg",
         "costume_id": 2,
-        "originalIndex": 592,
+        "originalIndex": 593,
         "lb1": {
             "power": 564,
             "attack": 635,
@@ -38305,7 +38376,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/GyPOLEn.jpg",
         "costume_id": 3,
-        "originalIndex": 593,
+        "originalIndex": 594,
         "lb1": {
             "power": 573,
             "attack": 665,
@@ -38365,7 +38436,7 @@ window.allHeroes =
         "family": "gargoyle",
         "image": "https://i.imgur.com/Ni9fM9U.jpg",
         "costume_id": 0,
-        "originalIndex": 594,
+        "originalIndex": 595,
         "lb1": {
             "power": 551,
             "attack": 600,
@@ -38423,7 +38494,7 @@ window.allHeroes =
         "family": "midgard",
         "image": "https://i.imgur.com/vOaNkHC.jpg",
         "costume_id": 0,
-        "originalIndex": 595,
+        "originalIndex": 596,
         "lb1": {
             "power": 516,
             "attack": 520,
@@ -38484,7 +38555,7 @@ window.allHeroes =
         "family": "midgard",
         "image": "https://i.imgur.com/KuvURzu.jpg",
         "costume_id": 1,
-        "originalIndex": 596,
+        "originalIndex": 597,
         "lb1": {
             "power": 534,
             "attack": 527,
@@ -38549,7 +38620,7 @@ window.allHeroes =
         "family": "gargoyle",
         "image": "https://i.imgur.com/NFVk9Gf.jpg",
         "costume_id": 0,
-        "originalIndex": 597,
+        "originalIndex": 598,
         "lb1": {
             "power": 539,
             "attack": 567,
@@ -38601,7 +38672,7 @@ window.allHeroes =
         "family": "sakura",
         "image": "https://i.imgur.com/L668UQC.jpg",
         "costume_id": 0,
-        "originalIndex": 598,
+        "originalIndex": 599,
         "lb1": {
             "power": 500,
             "attack": 468,
@@ -38657,7 +38728,7 @@ window.allHeroes =
         "family": "villains",
         "image": "https://i.imgur.com/OuUgvKY.jpg",
         "costume_id": 0,
-        "originalIndex": 599,
+        "originalIndex": 600,
         "lb1": {
             "power": 531,
             "attack": 596,
@@ -38718,7 +38789,7 @@ window.allHeroes =
         "family": "lagoon",
         "image": "https://i.imgur.com/5yoZu18.jpg",
         "costume_id": 0,
-        "originalIndex": 600,
+        "originalIndex": 601,
         "lb1": {
             "power": 500,
             "attack": 494,
@@ -38775,7 +38846,7 @@ window.allHeroes =
         "family": "lagoon",
         "image": "https://i.imgur.com/bezss9U.jpg",
         "costume_id": 1,
-        "originalIndex": 601,
+        "originalIndex": 602,
         "lb1": {
             "power": 516,
             "attack": 542,
@@ -38839,7 +38910,7 @@ window.allHeroes =
         "family": "abysshunter",
         "image": "https://i.imgur.com/GbQldWm.jpg",
         "costume_id": 0,
-        "originalIndex": 602,
+        "originalIndex": 603,
         "lb1": {
             "power": 544,
             "attack": 596,
@@ -38896,7 +38967,7 @@ window.allHeroes =
         "family": "guardiansteltoc",
         "image": "https://i.imgur.com/yMD2ogt.jpg",
         "costume_id": 0,
-        "originalIndex": 603,
+        "originalIndex": 604,
         "lb1": {
             "power": 508,
             "attack": 496,
@@ -38955,7 +39026,7 @@ window.allHeroes =
         "family": "morlovia",
         "image": "https://i.imgur.com/1pbBKiM.jpg",
         "costume_id": 0,
-        "originalIndex": 604,
+        "originalIndex": 605,
         "lb1": {
             "power": 522,
             "attack": 557,
@@ -39021,7 +39092,7 @@ window.allHeroes =
         "family": "slayer",
         "image": "https://i.imgur.com/vEp3yLs.jpg",
         "costume_id": 0,
-        "originalIndex": 605,
+        "originalIndex": 606,
         "lb1": {
             "power": 535,
             "attack": 520,
@@ -39092,7 +39163,7 @@ window.allHeroes =
         "family": "ninja",
         "image": "https://i.imgur.com/lHtD195.jpg",
         "costume_id": 0,
-        "originalIndex": 606,
+        "originalIndex": 607,
         "lb1": {
             "power": 543,
             "attack": 612,
@@ -39162,7 +39233,7 @@ window.allHeroes =
         "family": "underwild",
         "image": "https://i.imgur.com/RXYQ548.jpg",
         "costume_id": 0,
-        "originalIndex": 607,
+        "originalIndex": 608,
         "lb1": {
             "power": 534,
             "attack": 575,
@@ -39236,7 +39307,7 @@ window.allHeroes =
         "family": "underwild",
         "image": "https://i.imgur.com/CrJaSuf.jpg",
         "costume_id": 1,
-        "originalIndex": 608,
+        "originalIndex": 609,
         "lb1": {
             "power": 545,
             "attack": 557,
@@ -39299,7 +39370,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/FkvOQpS.jpg",
         "costume_id": 0,
-        "originalIndex": 609,
+        "originalIndex": 610,
         "lb1": {
             "power": 496,
             "attack": 478,
@@ -39354,7 +39425,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/4wjqw3M.jpg",
         "costume_id": 1,
-        "originalIndex": 610,
+        "originalIndex": 611,
         "lb1": {
             "power": 532,
             "attack": 478,
@@ -39415,7 +39486,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/z96lxl3.jpg",
         "costume_id": 2,
-        "originalIndex": 611,
+        "originalIndex": 612,
         "lb1": {
             "power": 568,
             "attack": 581,
@@ -39480,7 +39551,7 @@ window.allHeroes =
         "family": "kalevala",
         "image": "https://i.imgur.com/n5BGh1Y.jpg",
         "costume_id": 0,
-        "originalIndex": 612,
+        "originalIndex": 613,
         "lb1": {
             "power": 538,
             "attack": 518,
@@ -39537,7 +39608,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/IoRPZNA.jpg",
         "costume_id": 0,
-        "originalIndex": 613,
+        "originalIndex": 614,
         "lb1": {
             "power": 496,
             "attack": 468,
@@ -39594,7 +39665,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/q3Ddqi6.jpg",
         "costume_id": 1,
-        "originalIndex": 614,
+        "originalIndex": 615,
         "lb1": {
             "power": 533,
             "attack": 480,
@@ -39655,7 +39726,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/6mcArhg.jpg",
         "costume_id": 2,
-        "originalIndex": 615,
+        "originalIndex": 616,
         "lb1": {
             "power": 570,
             "attack": 540,
@@ -39718,7 +39789,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://imgur.com/SdXnKqi.jpg",
         "costume_id": 3,
-        "originalIndex": 616,
+        "originalIndex": 617,
         "lb1": {
             "power": 580,
             "attack": 570,
@@ -39776,7 +39847,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/6HwABCg.jpg",
         "costume_id": 0,
-        "originalIndex": 617,
+        "originalIndex": 618,
         "lb1": {
             "power": 496,
             "attack": 553,
@@ -39834,7 +39905,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/7QkxYAf.jpg",
         "costume_id": 1,
-        "originalIndex": 618,
+        "originalIndex": 619,
         "lb1": {
             "power": 530,
             "attack": 494,
@@ -39895,7 +39966,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/D4cVPMi.jpg",
         "costume_id": 2,
-        "originalIndex": 619,
+        "originalIndex": 620,
         "lb1": {
             "power": 567,
             "attack": 542,
@@ -39959,7 +40030,7 @@ window.allHeroes =
         "family": "avalon",
         "image": "https://i.imgur.com/8ZDDLNG.jpg",
         "costume_id": 0,
-        "originalIndex": 620,
+        "originalIndex": 621,
         "lb1": {
             "power": 537,
             "attack": 492,
@@ -40018,7 +40089,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/HKuMtXT.jpg",
         "costume_id": 0,
-        "originalIndex": 621,
+        "originalIndex": 622,
         "lb1": {
             "power": 492,
             "attack": 439,
@@ -40075,7 +40146,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/Rir8owz.jpg",
         "costume_id": 1,
-        "originalIndex": 622,
+        "originalIndex": 623,
         "lb1": {
             "power": 527,
             "attack": 480,
@@ -40136,7 +40207,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/MBq6uJ0.jpg",
         "costume_id": 2,
-        "originalIndex": 623,
+        "originalIndex": 624,
         "lb1": {
             "power": 565,
             "attack": 547,
@@ -40205,7 +40276,7 @@ window.allHeroes =
         "family": "beowulf",
         "image": "https://i.imgur.com/EwK86qB.jpg",
         "costume_id": 0,
-        "originalIndex": 624,
+        "originalIndex": 625,
         "lb1": {
             "power": 564,
             "attack": 608,
@@ -40270,7 +40341,7 @@ window.allHeroes =
         "family": "morlovia",
         "image": "https://i.imgur.com/BKgxWVA.jpg",
         "costume_id": 0,
-        "originalIndex": 625,
+        "originalIndex": 626,
         "lb1": {
             "power": 501,
             "attack": 417,
@@ -40330,7 +40401,7 @@ window.allHeroes =
         "family": "moon",
         "image": "https://i.imgur.com/MLXGUOi.jpg",
         "costume_id": 0,
-        "originalIndex": 626,
+        "originalIndex": 627,
         "lb1": {
             "power": 736,
             "attack": 752,
@@ -40392,7 +40463,7 @@ window.allHeroes =
         "family": "moon",
         "image": "https://i.imgur.com/ph6Gczr.jpg",
         "costume_id": 1,
-        "originalIndex": 627,
+        "originalIndex": 628,
         "lb1": {
             "power": 753,
             "attack": 718,
@@ -40451,7 +40522,7 @@ window.allHeroes =
         "family": "sakura",
         "image": "https://i.imgur.com/VkDdipF.jpg",
         "costume_id": 0,
-        "originalIndex": 628,
+        "originalIndex": 629,
         "lb1": {
             "power": 699,
             "attack": 838,
@@ -40511,7 +40582,7 @@ window.allHeroes =
         "family": "sakura",
         "image": "https://i.imgur.com/VZyVFDJ.jpg",
         "costume_id": 1,
-        "originalIndex": 629,
+        "originalIndex": 630,
         "lb1": {
             "power": 723,
             "attack": 760,
@@ -40579,7 +40650,7 @@ window.allHeroes =
         "family": "ninja",
         "image": "https://i.imgur.com/6AFRaiq.jpg",
         "costume_id": 0,
-        "originalIndex": 630,
+        "originalIndex": 631,
         "lb1": {
             "power": 721,
             "attack": 778,
@@ -40643,7 +40714,7 @@ window.allHeroes =
         "family": "morlovia",
         "image": "https://i.imgur.com/FvJxtPO.jpg",
         "costume_id": 0,
-        "originalIndex": 631,
+        "originalIndex": 632,
         "lb1": {
             "power": 736,
             "attack": 681,
@@ -40718,7 +40789,7 @@ window.allHeroes =
         "family": "styx",
         "image": "https://i.imgur.com/yK7UFvQ.jpg",
         "costume_id": 0,
-        "originalIndex": 632,
+        "originalIndex": 633,
         "lb1": {
             "power": 737,
             "attack": 720,
@@ -40779,7 +40850,7 @@ window.allHeroes =
         "family": "corellia",
         "image": "https://i.imgur.com/BLKBB2F.jpg",
         "costume_id": 0,
-        "originalIndex": 633,
+        "originalIndex": 634,
         "lb1": {
             "power": 694,
             "attack": 588,
@@ -40838,7 +40909,7 @@ window.allHeroes =
         "family": "wonderland",
         "image": "https://i.imgur.com/Js5mqAr.jpg",
         "costume_id": 0,
-        "originalIndex": 634,
+        "originalIndex": 635,
         "lb1": {
             "power": 698,
             "attack": 715,
@@ -40899,7 +40970,7 @@ window.allHeroes =
         "family": "wonderland",
         "image": "https://i.imgur.com/ImaCQvI.jpg",
         "costume_id": 1,
-        "originalIndex": 635,
+        "originalIndex": 636,
         "lb1": {
             "power": 736,
             "attack": 813,
@@ -40963,7 +41034,7 @@ window.allHeroes =
         "family": "pets",
         "image": "https://i.imgur.com/p15TPST.jpg",
         "costume_id": 0,
-        "originalIndex": 636,
+        "originalIndex": 637,
         "lb1": {
             "power": 737,
             "attack": 750,
@@ -41022,7 +41093,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/wpGUug5.jpg",
         "costume_id": 0,
-        "originalIndex": 637,
+        "originalIndex": 638,
         "lb1": {
             "power": 690,
             "attack": 611,
@@ -41071,7 +41142,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/sJK7XXq.jpg",
         "costume_id": 1,
-        "originalIndex": 638,
+        "originalIndex": 639,
         "lb1": {
             "power": 740,
             "attack": 614,
@@ -41126,7 +41197,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/oDvjeQX.jpg",
         "costume_id": 2,
-        "originalIndex": 639,
+        "originalIndex": 640,
         "lb1": {
             "power": 792,
             "attack": 716,
@@ -41179,7 +41250,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/NlALPlg.jpg",
         "costume_id": 3,
-        "originalIndex": 640,
+        "originalIndex": 641,
         "lb1": {
             "power": 805,
             "attack": 712,
@@ -41232,7 +41303,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://imgur.com/NcRhwAX.jpg",
         "costume_id": 4,
-        "originalIndex": 641,
+        "originalIndex": 642,
         "lb1": {
             "power": 818,
             "attack": 722,
@@ -41289,7 +41360,7 @@ window.allHeroes =
         "family": "christmas",
         "image": "https://i.imgur.com/84anXmA.jpg",
         "costume_id": 0,
-        "originalIndex": 642,
+        "originalIndex": 643,
         "lb1": {
             "power": 740,
             "attack": 734,
@@ -41357,7 +41428,7 @@ window.allHeroes =
         "family": "fox",
         "image": "https://imgur.com/pr50hyU.jpg",
         "costume_id": 0,
-        "originalIndex": 643,
+        "originalIndex": 644,
         "lb1": {
             "power": 805,
             "attack": 854,
@@ -41419,7 +41490,7 @@ window.allHeroes =
         "family": "svartalfheim",
         "image": "https://i.imgur.com/RvN7nUK.jpg",
         "costume_id": 0,
-        "originalIndex": 644,
+        "originalIndex": 645,
         "lb1": {
             "power": 710,
             "attack": 768,
@@ -41478,7 +41549,7 @@ window.allHeroes =
         "family": "svartalfheim",
         "image": "https://i.imgur.com/ibwrmzt.jpg",
         "costume_id": 1,
-        "originalIndex": 645,
+        "originalIndex": 646,
         "lb1": {
             "power": 733,
             "attack": 814,
@@ -41546,7 +41617,7 @@ window.allHeroes =
         "family": "sand",
         "image": "https://i.imgur.com/xyMaVfi.jpg",
         "costume_id": 0,
-        "originalIndex": 646,
+        "originalIndex": 647,
         "lb1": {
             "power": 698,
             "attack": 773,
@@ -41608,7 +41679,7 @@ window.allHeroes =
         "family": "journey",
         "image": "https://i.imgur.com/cY9fvY1.jpg",
         "costume_id": 0,
-        "originalIndex": 647,
+        "originalIndex": 648,
         "lb1": {
             "power": 739,
             "attack": 727,
@@ -41675,7 +41746,7 @@ window.allHeroes =
         "family": "villains",
         "image": "https://i.imgur.com/EjtbILF.jpg",
         "costume_id": 0,
-        "originalIndex": 648,
+        "originalIndex": 649,
         "lb1": {
             "power": 727,
             "attack": 688,
@@ -41745,7 +41816,7 @@ window.allHeroes =
         "family": "sand",
         "image": "https://i.imgur.com/3RqMEeN.jpg",
         "costume_id": 0,
-        "originalIndex": 649,
+        "originalIndex": 650,
         "lb1": {
             "power": 698,
             "attack": 577,
@@ -41810,7 +41881,7 @@ window.allHeroes =
         "family": "owl",
         "image": "https://i.imgur.com/UhbZaxw.jpg",
         "costume_id": 0,
-        "originalIndex": 650,
+        "originalIndex": 651,
         "lb1": {
             "power": 748,
             "attack": 736,
@@ -41881,7 +41952,7 @@ window.allHeroes =
         "family": "musketeer",
         "image": "https://i.imgur.com/2nOJ3dV.jpg",
         "costume_id": 0,
-        "originalIndex": 651,
+        "originalIndex": 652,
         "lb1": {
             "power": 738,
             "attack": 699,
@@ -41942,7 +42013,7 @@ window.allHeroes =
         "family": "bear",
         "image": "https://i.imgur.com/QTVEQjn.jpg",
         "costume_id": 0,
-        "originalIndex": 652,
+        "originalIndex": 653,
         "lb1": {
             "power": 741,
             "attack": 773,
@@ -42010,7 +42081,7 @@ window.allHeroes =
         "family": "superelemental",
         "image": "https://i.imgur.com/Jtfysu9.jpg",
         "costume_id": 0,
-        "originalIndex": 653,
+        "originalIndex": 654,
         "lb1": {
             "power": 745,
             "attack": 736,
@@ -42071,7 +42142,7 @@ window.allHeroes =
         "family": "plainshunter",
         "image": "https://i.imgur.com/rm17UZ5.jpg",
         "costume_id": 0,
-        "originalIndex": 654,
+        "originalIndex": 655,
         "lb1": {
             "power": 737,
             "attack": 771,
@@ -42131,7 +42202,7 @@ window.allHeroes =
         "family": "avalon",
         "image": "https://i.imgur.com/z8mBTci.jpg",
         "costume_id": 0,
-        "originalIndex": 655,
+        "originalIndex": 656,
         "lb1": {
             "power": 694,
             "attack": 741,
@@ -42195,7 +42266,7 @@ window.allHeroes =
         "family": "avalon",
         "image": "https://i.imgur.com/VwvFKmH.jpg",
         "costume_id": 1,
-        "originalIndex": 656,
+        "originalIndex": 657,
         "lb1": {
             "power": 792,
             "attack": 888,
@@ -42257,7 +42328,7 @@ window.allHeroes =
         "family": "atlantis",
         "image": "https://i.imgur.com/m2PmJmo.jpg",
         "costume_id": 0,
-        "originalIndex": 657,
+        "originalIndex": 658,
         "lb1": {
             "power": 699,
             "attack": 768,
@@ -42315,7 +42386,7 @@ window.allHeroes =
         "family": "atlantis",
         "image": "https://i.imgur.com/5sfSAJC.jpg",
         "costume_id": 1,
-        "originalIndex": 658,
+        "originalIndex": 659,
         "lb1": {
             "power": 722,
             "attack": 841,
@@ -42373,7 +42444,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/epzxGwy.jpg",
         "costume_id": 0,
-        "originalIndex": 659,
+        "originalIndex": 660,
         "lb1": {
             "power": 693,
             "attack": 646,
@@ -42433,7 +42504,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/9nzkBMP.jpg",
         "costume_id": 1,
-        "originalIndex": 660,
+        "originalIndex": 661,
         "lb1": {
             "power": 743,
             "attack": 700,
@@ -42498,7 +42569,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/0dWPfN4.jpg",
         "costume_id": 2,
-        "originalIndex": 661,
+        "originalIndex": 662,
         "lb1": {
             "power": 793,
             "attack": 779,
@@ -42565,7 +42636,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/rCKWMnx.jpg",
         "costume_id": 3,
-        "originalIndex": 662,
+        "originalIndex": 663,
         "lb1": {
             "power": 807,
             "attack": 875,
@@ -42632,7 +42703,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://imgur.com/3o76oi9.jpg",
         "costume_id": 4,
-        "originalIndex": 663,
+        "originalIndex": 664,
         "lb1": {
             "power": 820,
             "attack": 1007,
@@ -42694,7 +42765,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/G6mmZNN.jpg",
         "costume_id": 0,
-        "originalIndex": 664,
+        "originalIndex": 665,
         "lb1": {
             "power": 688,
             "attack": 759,
@@ -42754,7 +42825,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/flsZEGB.jpg",
         "costume_id": 1,
-        "originalIndex": 665,
+        "originalIndex": 666,
         "lb1": {
             "power": 736,
             "attack": 821,
@@ -42819,7 +42890,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/EBmu86N.jpg",
         "costume_id": 2,
-        "originalIndex": 666,
+        "originalIndex": 667,
         "lb1": {
             "power": 787,
             "attack": 801,
@@ -42886,7 +42957,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/8kaUg4T.jpg",
         "costume_id": 3,
-        "originalIndex": 667,
+        "originalIndex": 668,
         "lb1": {
             "power": 799,
             "attack": 871,
@@ -42956,7 +43027,7 @@ window.allHeroes =
         "family": "magic",
         "image": "https://i.imgur.com/2gnuaoM.jpg",
         "costume_id": 0,
-        "originalIndex": 668,
+        "originalIndex": 669,
         "lb1": {
             "power": 729,
             "attack": 715,
@@ -43022,7 +43093,7 @@ window.allHeroes =
         "family": "nightmaresofatlantis",
         "image": "https://i.imgur.com/pCqXNHO.jpg",
         "costume_id": 0,
-        "originalIndex": 669,
+        "originalIndex": 670,
         "lb1": {
             "power": 741,
             "attack": 706,
@@ -43085,7 +43156,7 @@ window.allHeroes =
         "family": "nightmaresofatlantis",
         "image": "https://i.imgur.com/ER0xDRX.jpg",
         "costume_id": 1,
-        "originalIndex": 670,
+        "originalIndex": 671,
         "lb1": {
             "power": 758,
             "attack": 797,
@@ -43142,7 +43213,7 @@ window.allHeroes =
         "family": "cultist",
         "image": "https://i.imgur.com/tl6HZEf.jpg",
         "costume_id": 0,
-        "originalIndex": 671,
+        "originalIndex": 672,
         "lb1": {
             "power": 766,
             "attack": 773,
@@ -43206,7 +43277,7 @@ window.allHeroes =
         "family": "moth",
         "image": "https://i.imgur.com/Gn8sJfi.jpg",
         "costume_id": 0,
-        "originalIndex": 672,
+        "originalIndex": 673,
         "lb1": {
             "power": 772,
             "attack": 842,
@@ -43269,7 +43340,7 @@ window.allHeroes =
         "family": "helheim",
         "image": "https://i.imgur.com/7VLylDF.jpg",
         "costume_id": 0,
-        "originalIndex": 673,
+        "originalIndex": 674,
         "lb1": {
             "power": 711,
             "attack": 789,
@@ -43326,7 +43397,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/XQUgnc6.jpg",
         "costume_id": 0,
-        "originalIndex": 674,
+        "originalIndex": 675,
         "lb1": {
             "power": 688,
             "attack": 718,
@@ -43383,7 +43454,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/IyFUCM0.jpg",
         "costume_id": 1,
-        "originalIndex": 675,
+        "originalIndex": 676,
         "lb1": {
             "power": 736,
             "attack": 762,
@@ -43440,7 +43511,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/Yc1tBJ1.jpg",
         "costume_id": 2,
-        "originalIndex": 676,
+        "originalIndex": 677,
         "lb1": {
             "power": 786,
             "attack": 793,
@@ -43501,7 +43572,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/XlVXDYe.jpg",
         "costume_id": 3,
-        "originalIndex": 677,
+        "originalIndex": 678,
         "lb1": {
             "power": 799,
             "attack": 820,
@@ -43571,7 +43642,7 @@ window.allHeroes =
         "family": "goblin",
         "image": "https://i.imgur.com/KXpETJ0.jpg",
         "costume_id": 0,
-        "originalIndex": 678,
+        "originalIndex": 679,
         "lb1": {
             "power": 1046,
             "attack": 1114,
@@ -43637,7 +43708,7 @@ window.allHeroes =
         "family": "superelemental",
         "image": "https://i.imgur.com/VT78aoB.jpg",
         "costume_id": 0,
-        "originalIndex": 679,
+        "originalIndex": 680,
         "lb1": {
             "power": 970,
             "attack": 939,
@@ -43705,7 +43776,7 @@ window.allHeroes =
         "family": 2018,
         "image": "https://i.imgur.com/9AxepJ9.jpg",
         "costume_id": 0,
-        "originalIndex": 680,
+        "originalIndex": 681,
         "lb1": {
             "power": 819,
             "attack": 790,
@@ -43772,7 +43843,7 @@ window.allHeroes =
         "family": 2018,
         "image": "https://i.imgur.com/WvBRV3O.jpg",
         "costume_id": 1,
-        "originalIndex": 681,
+        "originalIndex": 682,
         "lb1": {
             "power": 1047,
             "attack": 968,
@@ -43847,7 +43918,7 @@ window.allHeroes =
         "family": "magic",
         "image": "https://i.imgur.com/19jbbwr.jpg",
         "costume_id": 0,
-        "originalIndex": 682,
+        "originalIndex": 683,
         "lb1": {
             "power": 867,
             "attack": 814,
@@ -43932,7 +44003,7 @@ window.allHeroes =
         "family": "magic",
         "image": "https://imgur.com/QIlXtnC.jpg",
         "costume_id": 1,
-        "originalIndex": 683,
+        "originalIndex": 684,
         "lb1": {
             "power": 1123,
             "attack": 1093,
@@ -44007,7 +44078,7 @@ window.allHeroes =
         "family": 2025,
         "image": "https://imgur.com/jq0Lgzp.jpg",
         "costume_id": 0,
-        "originalIndex": 684,
+        "originalIndex": 685,
         "lb1": {
             "power": 1160,
             "attack": 1240,
@@ -44073,7 +44144,7 @@ window.allHeroes =
         "family": "svartalfheim",
         "image": "https://i.imgur.com/O54lA6V.jpg",
         "costume_id": 0,
-        "originalIndex": 685,
+        "originalIndex": 686,
         "lb1": {
             "power": 843,
             "attack": 710,
@@ -44135,7 +44206,7 @@ window.allHeroes =
         "family": "svartalfheim",
         "image": "https://i.imgur.com/2AJeAry.jpg",
         "costume_id": 1,
-        "originalIndex": 686,
+        "originalIndex": 687,
         "lb1": {
             "power": 1059,
             "attack": 840,
@@ -44205,7 +44276,7 @@ window.allHeroes =
         "family": "ninja",
         "image": "https://i.imgur.com/OBE1Glz.jpg",
         "costume_id": 0,
-        "originalIndex": 687,
+        "originalIndex": 688,
         "lb1": {
             "power": 925,
             "attack": 936,
@@ -44273,7 +44344,7 @@ window.allHeroes =
         "family": 2024,
         "image": "https://i.imgur.com/mDRIe3A.jpg",
         "costume_id": 0,
-        "originalIndex": 688,
+        "originalIndex": 689,
         "lb1": {
             "power": 1032,
             "attack": 972,
@@ -44343,7 +44414,7 @@ window.allHeroes =
         "family": "moon",
         "image": "https://i.imgur.com/QQQGz6W.jpg",
         "costume_id": 0,
-        "originalIndex": 689,
+        "originalIndex": 690,
         "lb1": {
             "power": 928,
             "attack": 879,
@@ -44411,7 +44482,7 @@ window.allHeroes =
         "family": "moon",
         "image": "https://i.imgur.com/8BGU68M.jpg",
         "costume_id": 1,
-        "originalIndex": 690,
+        "originalIndex": 691,
         "lb1": {
             "power": 1260,
             "attack": 1245,
@@ -44478,7 +44549,7 @@ window.allHeroes =
         "family": "musketeer",
         "image": "https://i.imgur.com/7DRTWTb.jpg",
         "costume_id": 0,
-        "originalIndex": 691,
+        "originalIndex": 692,
         "lb1": {
             "power": 901,
             "attack": 941,
@@ -44544,7 +44615,7 @@ window.allHeroes =
         "family": 2022,
         "image": "https://i.imgur.com/VIzTbRE.jpg",
         "costume_id": 0,
-        "originalIndex": 692,
+        "originalIndex": 693,
         "lb1": {
             "power": 862,
             "attack": 848,
@@ -44609,7 +44680,7 @@ window.allHeroes =
         "family": "cultist",
         "image": "https://imgur.com/l1cl4kl.jpg",
         "costume_id": 0,
-        "originalIndex": 693,
+        "originalIndex": 694,
         "lb1": {
             "power": 1274,
             "attack": 1314,
@@ -44674,7 +44745,7 @@ window.allHeroes =
         "family": "moon",
         "image": "https://i.imgur.com/4N9tjf5.jpg",
         "costume_id": 0,
-        "originalIndex": 694,
+        "originalIndex": 695,
         "lb1": {
             "power": 920,
             "attack": 872,
@@ -44740,7 +44811,7 @@ window.allHeroes =
         "family": "moon",
         "image": "https://i.imgur.com/21HSfR4.jpg",
         "costume_id": 1,
-        "originalIndex": 695,
+        "originalIndex": 696,
         "lb1": {
             "power": 1249,
             "attack": 1201,
@@ -44810,7 +44881,7 @@ window.allHeroes =
         "family": "magic",
         "image": "https://i.imgur.com/xqlrby4.jpg",
         "costume_id": 0,
-        "originalIndex": 696,
+        "originalIndex": 697,
         "lb1": {
             "power": 969,
             "attack": 950,
@@ -44884,7 +44955,7 @@ window.allHeroes =
         "family": "bard",
         "image": "https://i.imgur.com/sGuDCiH.jpg",
         "costume_id": 0,
-        "originalIndex": 697,
+        "originalIndex": 698,
         "lb1": {
             "power": 939,
             "attack": 925,
@@ -44947,7 +45018,7 @@ window.allHeroes =
         "family": "vanaheim",
         "image": "https://i.imgur.com/NBFcAXz.jpg",
         "costume_id": 0,
-        "originalIndex": 698,
+        "originalIndex": 699,
         "lb1": {
             "power": 838,
             "attack": 801,
@@ -45014,7 +45085,7 @@ window.allHeroes =
         "family": "vanaheim",
         "image": "https://i.imgur.com/jUs21jO.jpg",
         "costume_id": 1,
-        "originalIndex": 699,
+        "originalIndex": 700,
         "lb1": {
             "power": 1051,
             "attack": 1025,
@@ -45080,7 +45151,7 @@ window.allHeroes =
         "family": "grimforest",
         "image": "https://i.imgur.com/iVvmOFs.jpg",
         "costume_id": 0,
-        "originalIndex": 700,
+        "originalIndex": 701,
         "lb1": {
             "power": 818,
             "attack": 610,
@@ -45148,7 +45219,7 @@ window.allHeroes =
         "family": "construct",
         "image": "https://i.imgur.com/uiGjBrD.jpg",
         "costume_id": 0,
-        "originalIndex": 701,
+        "originalIndex": 702,
         "lb1": {
             "power": 1128,
             "attack": 1105,
@@ -45213,7 +45284,7 @@ window.allHeroes =
         "family": "stag",
         "image": "https://i.imgur.com/FjOt9jJ.jpg",
         "costume_id": 0,
-        "originalIndex": 702,
+        "originalIndex": 703,
         "lb1": {
             "power": 1099,
             "attack": 1110,
@@ -45277,7 +45348,7 @@ window.allHeroes =
         "family": "owl",
         "image": "https://i.imgur.com/FJtndTk.jpg",
         "costume_id": 0,
-        "originalIndex": 703,
+        "originalIndex": 704,
         "lb1": {
             "power": 1154,
             "attack": 1218,
@@ -45348,7 +45419,7 @@ window.allHeroes =
         "family": 2021,
         "image": "https://i.imgur.com/tvzGcka.jpg",
         "costume_id": 0,
-        "originalIndex": 704,
+        "originalIndex": 705,
         "lb1": {
             "power": 846,
             "attack": 803,
@@ -45422,7 +45493,7 @@ window.allHeroes =
         "family": "outlaws",
         "image": "https://imgur.com/6s8pdik.jpg",
         "costume_id": 0,
-        "originalIndex": 705,
+        "originalIndex": 706,
         "lb1": {
             "power": 1300,
             "attack": 1338,
@@ -45500,7 +45571,7 @@ window.allHeroes =
         "family": "styx",
         "image": "https://i.imgur.com/eSyywNh.jpg",
         "costume_id": 0,
-        "originalIndex": 706,
+        "originalIndex": 707,
         "lb1": {
             "power": 916,
             "attack": 799,
@@ -45561,7 +45632,7 @@ window.allHeroes =
         "family": 2020,
         "image": "https://i.imgur.com/YBAuibe.jpg",
         "costume_id": 0,
-        "originalIndex": 707,
+        "originalIndex": 708,
         "lb1": {
             "power": 823,
             "attack": 790,
@@ -45631,7 +45702,7 @@ window.allHeroes =
         "family": "villains",
         "image": "https://i.imgur.com/ja50n6G.jpg",
         "costume_id": 0,
-        "originalIndex": 708,
+        "originalIndex": 709,
         "lb1": {
             "power": 858,
             "attack": 863,
@@ -45704,7 +45775,7 @@ window.allHeroes =
         "family": "villains",
         "image": "https://i.imgur.com/Mz4axni.jpg",
         "costume_id": 1,
-        "originalIndex": 709,
+        "originalIndex": 710,
         "lb1": {
             "power": 1289,
             "attack": 1438,
@@ -45776,7 +45847,7 @@ window.allHeroes =
         "family": "bard",
         "image": "https://imgur.com/ypDGkpC.jpg",
         "costume_id": 0,
-        "originalIndex": 710,
+        "originalIndex": 711,
         "lb1": {
             "power": 1272,
             "attack": 1285,
@@ -45846,7 +45917,7 @@ window.allHeroes =
         "family": "goblin",
         "image": "https://i.imgur.com/9UklXhJ.jpg",
         "costume_id": 0,
-        "originalIndex": 711,
+        "originalIndex": 712,
         "lb1": {
             "power": 1005,
             "attack": 976,
@@ -45918,7 +45989,7 @@ window.allHeroes =
         "family": "goblin",
         "image": "https://i.imgur.com/6DFOAwr.jpg",
         "costume_id": 0,
-        "originalIndex": 712,
+        "originalIndex": 713,
         "lb1": {
             "power": 1004,
             "attack": 1038,
@@ -45990,7 +46061,7 @@ window.allHeroes =
         "family": "astralelves",
         "image": "https://i.imgur.com/h0XJ3CG.jpg",
         "costume_id": 0,
-        "originalIndex": 713,
+        "originalIndex": 714,
         "lb1": {
             "power": 1124,
             "attack": 1181,
@@ -46054,7 +46125,7 @@ window.allHeroes =
         "family": "kingdom",
         "image": "https://i.imgur.com/PBEksgr.jpg",
         "costume_id": 0,
-        "originalIndex": 714,
+        "originalIndex": 715,
         "lb1": {
             "power": 891,
             "attack": 868,
@@ -46119,7 +46190,7 @@ window.allHeroes =
         "family": "kingdom",
         "image": "https://i.imgur.com/ZWN9v1V.jpg",
         "costume_id": 1,
-        "originalIndex": 715,
+        "originalIndex": 716,
         "lb1": {
             "power": 1181,
             "attack": 1155,
@@ -46180,7 +46251,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/t244Fcr.jpg",
         "costume_id": 0,
-        "originalIndex": 716,
+        "originalIndex": 717,
         "lb1": {
             "power": 806,
             "attack": 781,
@@ -46241,7 +46312,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/mpRxFeU.jpg",
         "costume_id": 1,
-        "originalIndex": 717,
+        "originalIndex": 718,
         "lb1": {
             "power": 894,
             "attack": 902,
@@ -46302,7 +46373,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/36NtLB6.jpg",
         "costume_id": 2,
-        "originalIndex": 718,
+        "originalIndex": 719,
         "lb1": {
             "power": 1032,
             "attack": 1012,
@@ -46371,7 +46442,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/q7quKlm.jpg",
         "costume_id": 3,
-        "originalIndex": 719,
+        "originalIndex": 720,
         "lb1": {
             "power": 1213,
             "attack": 1258,
@@ -46442,7 +46513,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://imgur.com/gwMXUDN.jpg",
         "costume_id": 4,
-        "originalIndex": 720,
+        "originalIndex": 721,
         "lb1": {
             "power": 1327,
             "attack": 1440,
@@ -46506,7 +46577,7 @@ window.allHeroes =
         "family": "underwild",
         "image": "https://i.imgur.com/fpP6oo2.jpg",
         "costume_id": 0,
-        "originalIndex": 721,
+        "originalIndex": 722,
         "lb1": {
             "power": 861,
             "attack": 834,
@@ -46566,7 +46637,7 @@ window.allHeroes =
         "family": "underwild",
         "image": "https://i.imgur.com/WWxEz6I.jpg",
         "costume_id": 1,
-        "originalIndex": 722,
+        "originalIndex": 723,
         "lb1": {
             "power": 1091,
             "attack": 1064,
@@ -46633,7 +46704,7 @@ window.allHeroes =
         "family": "astralelves",
         "image": "https://i.imgur.com/XzGqN00.jpg",
         "costume_id": 0,
-        "originalIndex": 723,
+        "originalIndex": 724,
         "lb1": {
             "power": 1081,
             "attack": 1094,
@@ -46703,7 +46774,7 @@ window.allHeroes =
         "family": "plainshunter",
         "image": "https://i.imgur.com/erlDPi2.jpg",
         "costume_id": 0,
-        "originalIndex": 724,
+        "originalIndex": 725,
         "lb1": {
             "power": 1200,
             "attack": 1181,
@@ -46779,7 +46850,7 @@ window.allHeroes =
         "family": "nidavellir",
         "image": "https://i.imgur.com/mO16Dj6.jpg",
         "costume_id": 0,
-        "originalIndex": 725,
+        "originalIndex": 726,
         "lb1": {
             "power": 1247,
             "attack": 1232,
@@ -46839,7 +46910,7 @@ window.allHeroes =
         "family": "cupid",
         "image": "https://i.imgur.com/5JDsRr2.jpg",
         "costume_id": 0,
-        "originalIndex": 726,
+        "originalIndex": 727,
         "lb1": {
             "power": 1032,
             "attack": 1087,
@@ -46912,7 +46983,7 @@ window.allHeroes =
         "family": "mimic",
         "image": "https://imgur.com/HBoOGrf.jpg",
         "costume_id": 0,
-        "originalIndex": 727,
+        "originalIndex": 728,
         "lb1": {
             "power": 1284,
             "attack": 1332,
@@ -46985,7 +47056,7 @@ window.allHeroes =
         "family": "superelemental",
         "image": "https://i.imgur.com/ciEXCLt.jpg",
         "costume_id": 0,
-        "originalIndex": 728,
+        "originalIndex": 729,
         "lb1": {
             "power": 1037,
             "attack": 1085,
@@ -47045,7 +47116,7 @@ window.allHeroes =
         "family": "vanaheim",
         "image": "https://i.imgur.com/4iJaoi6.jpg",
         "costume_id": 0,
-        "originalIndex": 729,
+        "originalIndex": 730,
         "lb1": {
             "power": 844,
             "attack": 836,
@@ -47105,7 +47176,7 @@ window.allHeroes =
         "family": "vanaheim",
         "image": "https://i.imgur.com/Ye3Esdg.jpg",
         "costume_id": 1,
-        "originalIndex": 730,
+        "originalIndex": 731,
         "lb1": {
             "power": 1058,
             "attack": 1041,
@@ -47169,7 +47240,7 @@ window.allHeroes =
         "family": "superelemental",
         "image": "https://i.imgur.com/Hq9OxQ2.jpg",
         "costume_id": 0,
-        "originalIndex": 731,
+        "originalIndex": 732,
         "lb1": {
             "power": 1094,
             "attack": 1158,
@@ -47233,7 +47304,7 @@ window.allHeroes =
         "family": "astraldwarfs",
         "image": "https://imgur.com/qkGDpyg.jpg",
         "costume_id": 0,
-        "originalIndex": 732,
+        "originalIndex": 733,
         "lb1": {
             "power": 1267,
             "attack": 1325,
@@ -47300,7 +47371,7 @@ window.allHeroes =
         "family": "slime",
         "image": "https://i.imgur.com/pQjaPYL.jpg",
         "costume_id": 0,
-        "originalIndex": 733,
+        "originalIndex": 734,
         "lb1": {
             "power": 1229,
             "attack": 1289,
@@ -47364,7 +47435,7 @@ window.allHeroes =
         "family": "abysshunter",
         "image": "https://i.imgur.com/gtuGK1d.jpg",
         "costume_id": 0,
-        "originalIndex": 734,
+        "originalIndex": 735,
         "lb1": {
             "power": 950,
             "attack": 979,
@@ -47424,7 +47495,7 @@ window.allHeroes =
         "family": "gargoyle",
         "image": "https://i.imgur.com/OKV9H3h.jpg",
         "costume_id": 0,
-        "originalIndex": 735,
+        "originalIndex": 736,
         "lb1": {
             "power": 897,
             "attack": 888,
@@ -47492,7 +47563,7 @@ window.allHeroes =
         "family": "beowulf",
         "image": "https://imgur.com/gAwcLIi.jpg",
         "costume_id": 0,
-        "originalIndex": 736,
+        "originalIndex": 737,
         "lb1": {
             "power": 1306,
             "attack": 1329,
@@ -47558,7 +47629,7 @@ window.allHeroes =
         "family": "superelemental",
         "image": "https://i.imgur.com/uvhkpHJ.jpg",
         "costume_id": 0,
-        "originalIndex": 737,
+        "originalIndex": 738,
         "lb1": {
             "power": 969,
             "attack": 925,
@@ -47621,7 +47692,7 @@ window.allHeroes =
         "family": 2019,
         "image": "https://i.imgur.com/1sMnXH3.jpg",
         "costume_id": 0,
-        "originalIndex": 738,
+        "originalIndex": 739,
         "lb1": {
             "power": 821,
             "attack": 663,
@@ -47686,7 +47757,7 @@ window.allHeroes =
         "family": "guardiansteltoc",
         "image": "https://i.imgur.com/DIjmjpT.jpg",
         "costume_id": 0,
-        "originalIndex": 739,
+        "originalIndex": 740,
         "lb1": {
             "power": 815,
             "attack": 848,
@@ -47750,7 +47821,7 @@ window.allHeroes =
         "family": "guardiansteltoc",
         "image": "https://i.imgur.com/ZdPyBw5.jpg",
         "costume_id": 1,
-        "originalIndex": 740,
+        "originalIndex": 741,
         "lb1": {
             "power": 1023,
             "attack": 1047,
@@ -47822,7 +47893,7 @@ window.allHeroes =
         "family": "slime",
         "image": "https://i.imgur.com/gYtmXoK.jpg",
         "costume_id": 0,
-        "originalIndex": 741,
+        "originalIndex": 742,
         "lb1": {
             "power": 1212,
             "attack": 1283,
@@ -47887,7 +47958,7 @@ window.allHeroes =
         "family": "underwild",
         "image": "https://i.imgur.com/adxVUbU.jpg",
         "costume_id": 0,
-        "originalIndex": 742,
+        "originalIndex": 743,
         "lb1": {
             "power": 861,
             "attack": 841,
@@ -47956,7 +48027,7 @@ window.allHeroes =
         "family": "underwild",
         "image": "https://i.imgur.com/uhuj4Z5.jpg",
         "costume_id": 1,
-        "originalIndex": 743,
+        "originalIndex": 744,
         "lb1": {
             "power": 1092,
             "attack": 1110,
@@ -48027,7 +48098,7 @@ window.allHeroes =
         "family": "plainshunter",
         "image": "https://i.imgur.com/fbtStrK.jpg",
         "costume_id": 0,
-        "originalIndex": 744,
+        "originalIndex": 745,
         "lb1": {
             "power": 948,
             "attack": 883,
@@ -48091,7 +48162,7 @@ window.allHeroes =
         "family": 2017,
         "image": "https://i.imgur.com/5oaRVxv.jpg",
         "costume_id": 0,
-        "originalIndex": 745,
+        "originalIndex": 746,
         "lb1": {
             "power": 815,
             "attack": 803,
@@ -48161,7 +48232,7 @@ window.allHeroes =
         "family": 2017,
         "image": "https://i.imgur.com/8SUbwUY.jpg",
         "costume_id": 1,
-        "originalIndex": 746,
+        "originalIndex": 747,
         "lb1": {
             "power": 1042,
             "attack": 1027,
@@ -48234,7 +48305,7 @@ window.allHeroes =
         "family": "nidavellir",
         "image": "https://i.imgur.com/UInCnGF.jpg",
         "costume_id": 0,
-        "originalIndex": 747,
+        "originalIndex": 748,
         "lb1": {
             "power": 1263,
             "attack": 1247,
@@ -48301,7 +48372,7 @@ window.allHeroes =
         "family": "underwild",
         "image": "https://i.imgur.com/J9OOPtS.jpg",
         "costume_id": 0,
-        "originalIndex": 748,
+        "originalIndex": 749,
         "lb1": {
             "power": 870,
             "attack": 816,
@@ -48365,7 +48436,7 @@ window.allHeroes =
         "family": "underwild",
         "image": "https://i.imgur.com/sPMKsgr.jpg",
         "costume_id": 1,
-        "originalIndex": 749,
+        "originalIndex": 750,
         "lb1": {
             "power": 1104,
             "attack": 1058,
@@ -48431,7 +48502,7 @@ window.allHeroes =
         "family": "cultist",
         "image": "https://i.imgur.com/4a7tvJs.jpg",
         "costume_id": 0,
-        "originalIndex": 750,
+        "originalIndex": 751,
         "lb1": {
             "power": 1214,
             "attack": 1276,
@@ -48505,7 +48576,7 @@ window.allHeroes =
         "family": "junglehunter",
         "image": "https://i.imgur.com/ts6r2iS.jpg",
         "costume_id": 0,
-        "originalIndex": 751,
+        "originalIndex": 752,
         "lb1": {
             "power": 956,
             "attack": 970,
@@ -48589,7 +48660,7 @@ window.allHeroes =
         "family": "wildcat",
         "image": "https://imgur.com/JT91nLv.jpg",
         "costume_id": 0,
-        "originalIndex": 752,
+        "originalIndex": 753,
         "lb1": {
             "power": 1307,
             "attack": 1323,
@@ -48643,7 +48714,7 @@ window.allHeroes =
         "family": "wonderland",
         "image": "https://i.imgur.com/ODUCn9s.jpg",
         "costume_id": 0,
-        "originalIndex": 753,
+        "originalIndex": 754,
         "lb1": {
             "power": 831,
             "attack": 801,
@@ -48704,7 +48775,7 @@ window.allHeroes =
         "family": "wonderland",
         "image": "https://i.imgur.com/Y9oF73p.jpg",
         "costume_id": 1,
-        "originalIndex": 754,
+        "originalIndex": 755,
         "lb1": {
             "power": 1043,
             "attack": 1031,
@@ -48780,7 +48851,7 @@ window.allHeroes =
         "family": "magic",
         "image": "https://i.imgur.com/bHuMYnz.jpg",
         "costume_id": 0,
-        "originalIndex": 755,
+        "originalIndex": 756,
         "lb1": {
             "power": 1019,
             "attack": 1034,
@@ -48846,7 +48917,7 @@ window.allHeroes =
         "family": "sakura",
         "image": "https://i.imgur.com/OUhEZUJ.jpg",
         "costume_id": 0,
-        "originalIndex": 756,
+        "originalIndex": 757,
         "lb1": {
             "power": 823,
             "attack": 841,
@@ -48914,7 +48985,7 @@ window.allHeroes =
         "family": "sakura",
         "image": "https://i.imgur.com/3Xk7Vld.jpg",
         "costume_id": 1,
-        "originalIndex": 757,
+        "originalIndex": 758,
         "lb1": {
             "power": 1006,
             "attack": 1023,
@@ -48979,7 +49050,7 @@ window.allHeroes =
         "family": "villains",
         "image": "https://i.imgur.com/uCM3DQT.jpg",
         "costume_id": 0,
-        "originalIndex": 758,
+        "originalIndex": 759,
         "lb1": {
             "power": 856,
             "attack": 825,
@@ -49043,7 +49114,7 @@ window.allHeroes =
         "family": "villains",
         "image": "https://imgur.com/atHtLfK.jpg",
         "costume_id": 1,
-        "originalIndex": 759,
+        "originalIndex": 760,
         "lb1": {
             "power": 1286,
             "attack": 1386,
@@ -49103,7 +49174,7 @@ window.allHeroes =
         "family": "gargoyle",
         "image": "https://i.imgur.com/PmkgBzd.jpg",
         "costume_id": 0,
-        "originalIndex": 760,
+        "originalIndex": 761,
         "lb1": {
             "power": 907,
             "attack": 892,
@@ -49167,7 +49238,7 @@ window.allHeroes =
         "family": "moon",
         "image": "https://i.imgur.com/Z6trZDL.jpg",
         "costume_id": 0,
-        "originalIndex": 761,
+        "originalIndex": 762,
         "lb1": {
             "power": 918,
             "attack": 863,
@@ -49234,7 +49305,7 @@ window.allHeroes =
         "family": "moon",
         "image": "https://i.imgur.com/j3u49nY.jpg",
         "costume_id": 1,
-        "originalIndex": 762,
+        "originalIndex": 763,
         "lb1": {
             "power": 1248,
             "attack": 1276,
@@ -49294,7 +49365,7 @@ window.allHeroes =
         "family": 2018,
         "image": "https://i.imgur.com/1C4Lajq.jpg",
         "costume_id": 0,
-        "originalIndex": 763,
+        "originalIndex": 764,
         "lb1": {
             "power": 819,
             "attack": 796,
@@ -49356,7 +49427,7 @@ window.allHeroes =
         "family": 2018,
         "image": "https://i.imgur.com/mLc9HWv.jpg",
         "costume_id": 1,
-        "originalIndex": 764,
+        "originalIndex": 765,
         "lb1": {
             "power": 1047,
             "attack": 1039,
@@ -49416,7 +49487,7 @@ window.allHeroes =
         "family": "moon",
         "image": "https://i.imgur.com/qiCq8Jo.jpg",
         "costume_id": 0,
-        "originalIndex": 765,
+        "originalIndex": 766,
         "lb1": {
             "power": 916,
             "attack": 930,
@@ -49478,7 +49549,7 @@ window.allHeroes =
         "family": "moon",
         "image": "https://i.imgur.com/dLlMk1f.jpg",
         "costume_id": 1,
-        "originalIndex": 766,
+        "originalIndex": 767,
         "lb1": {
             "power": 1242,
             "attack": 1332,
@@ -49534,7 +49605,7 @@ window.allHeroes =
         "family": "springvale",
         "image": "https://i.imgur.com/WU18HC0.jpg",
         "costume_id": 0,
-        "originalIndex": 767,
+        "originalIndex": 768,
         "lb1": {
             "power": 841,
             "attack": 799,
@@ -49590,7 +49661,7 @@ window.allHeroes =
         "family": "springvale",
         "image": "https://i.imgur.com/vAkZp36.jpg",
         "costume_id": 1,
-        "originalIndex": 768,
+        "originalIndex": 769,
         "lb1": {
             "power": 1000,
             "attack": 947,
@@ -49651,7 +49722,7 @@ window.allHeroes =
         "family": "wonderland",
         "image": "https://i.imgur.com/BQViteC.jpg",
         "costume_id": 0,
-        "originalIndex": 769,
+        "originalIndex": 770,
         "lb1": {
             "power": 1108,
             "attack": 1163,
@@ -49725,7 +49796,7 @@ window.allHeroes =
         "family": "slime",
         "image": "https://i.imgur.com/b5SLdod.jpg",
         "costume_id": 0,
-        "originalIndex": 770,
+        "originalIndex": 771,
         "lb1": {
             "power": 1263,
             "attack": 1338,
@@ -49791,7 +49862,7 @@ window.allHeroes =
         "family": 2019,
         "image": "https://i.imgur.com/4sKh1TW.jpg",
         "costume_id": 0,
-        "originalIndex": 771,
+        "originalIndex": 772,
         "lb1": {
             "power": 821,
             "attack": 666,
@@ -49861,7 +49932,7 @@ window.allHeroes =
         "family": "underwild",
         "image": "https://i.imgur.com/eea7u0v.jpg",
         "costume_id": 0,
-        "originalIndex": 772,
+        "originalIndex": 773,
         "lb1": {
             "power": 859,
             "attack": 841,
@@ -49932,7 +50003,7 @@ window.allHeroes =
         "family": "underwild",
         "image": "https://i.imgur.com/MgzgOOM.jpg",
         "costume_id": 1,
-        "originalIndex": 773,
+        "originalIndex": 774,
         "lb1": {
             "power": 1088,
             "attack": 1058,
@@ -49994,7 +50065,7 @@ window.allHeroes =
         "family": "kalevala",
         "image": "https://i.imgur.com/RQWKyOA.jpg",
         "costume_id": 0,
-        "originalIndex": 774,
+        "originalIndex": 775,
         "lb1": {
             "power": 1001,
             "attack": 999,
@@ -50061,7 +50132,7 @@ window.allHeroes =
         "family": "kingdom",
         "image": "https://i.imgur.com/pOnV8Et.jpg",
         "costume_id": 0,
-        "originalIndex": 775,
+        "originalIndex": 776,
         "lb1": {
             "power": 891,
             "attack": 850,
@@ -50133,7 +50204,7 @@ window.allHeroes =
         "family": "kingdom",
         "image": "https://i.imgur.com/9cuTL09.jpg",
         "costume_id": 1,
-        "originalIndex": 776,
+        "originalIndex": 777,
         "lb1": {
             "power": 1182,
             "attack": 1147,
@@ -50203,7 +50274,7 @@ window.allHeroes =
         "family": "morlovia",
         "image": "https://i.imgur.com/tBoxHA4.jpg",
         "costume_id": 0,
-        "originalIndex": 777,
+        "originalIndex": 778,
         "lb1": {
             "power": 996,
             "attack": 932,
@@ -50269,7 +50340,7 @@ window.allHeroes =
         "family": "wolf",
         "image": "https://i.imgur.com/VV20w6e.jpg",
         "costume_id": 0,
-        "originalIndex": 778,
+        "originalIndex": 779,
         "lb1": {
             "power": 870,
             "attack": 779,
@@ -50328,7 +50399,7 @@ window.allHeroes =
         "family": "pets",
         "image": "https://i.imgur.com/jt6SH4f.jpg",
         "costume_id": 0,
-        "originalIndex": 779,
+        "originalIndex": 780,
         "lb1": {
             "power": 1001,
             "attack": 985,
@@ -50397,7 +50468,7 @@ window.allHeroes =
         "family": "opera",
         "image": "https://i.imgur.com/jLIIusc.jpg",
         "costume_id": 0,
-        "originalIndex": 780,
+        "originalIndex": 781,
         "lb1": {
             "power": 1022,
             "attack": 999,
@@ -50467,7 +50538,7 @@ window.allHeroes =
         "family": "garrisonguard",
         "image": "https://i.imgur.com/aJDM9qb.jpg",
         "costume_id": 0,
-        "originalIndex": 781,
+        "originalIndex": 782,
         "lb1": {
             "power": 1244,
             "attack": 1212,
@@ -50546,7 +50617,7 @@ window.allHeroes =
         "family": 2021,
         "image": "https://i.imgur.com/ZMAYhxa.jpg",
         "costume_id": 0,
-        "originalIndex": 782,
+        "originalIndex": 783,
         "lb1": {
             "power": 839,
             "attack": 825,
@@ -50621,7 +50692,7 @@ window.allHeroes =
         "family": "corellia",
         "image": "https://i.imgur.com/sKXoFnG.jpg",
         "costume_id": 0,
-        "originalIndex": 783,
+        "originalIndex": 784,
         "lb1": {
             "power": 831,
             "attack": 834,
@@ -50692,7 +50763,7 @@ window.allHeroes =
         "family": "corellia",
         "image": "https://i.imgur.com/cwv2NUd.jpg",
         "costume_id": 1,
-        "originalIndex": 784,
+        "originalIndex": 785,
         "lb1": {
             "power": 1043,
             "attack": 1031,
@@ -50758,7 +50829,7 @@ window.allHeroes =
         "family": "woodlandfaun",
         "image": "https://imgur.com/eOKRXit.jpg",
         "costume_id": 0,
-        "originalIndex": 785,
+        "originalIndex": 786,
         "lb1": {
             "power": 1252,
             "attack": 1318,
@@ -50830,7 +50901,7 @@ window.allHeroes =
         "family": "nightmaresofatlantis",
         "image": "https://i.imgur.com/RtOVjbp.jpg",
         "costume_id": 0,
-        "originalIndex": 786,
+        "originalIndex": 787,
         "lb1": {
             "power": 1067,
             "attack": 1076,
@@ -50902,7 +50973,7 @@ window.allHeroes =
         "family": "nightmaresofatlantis",
         "image": "https://i.imgur.com/CadXjHa.jpg",
         "costume_id": 1,
-        "originalIndex": 787,
+        "originalIndex": 788,
         "lb1": {
             "power": 1332,
             "attack": 1414,
@@ -50968,7 +51039,7 @@ window.allHeroes =
         "family": "cultist",
         "image": "https://i.imgur.com/okcHBcF.jpg",
         "costume_id": 0,
-        "originalIndex": 788,
+        "originalIndex": 789,
         "lb1": {
             "power": 1208,
             "attack": 1178,
@@ -51038,7 +51109,7 @@ window.allHeroes =
         "family": "lagoon",
         "image": "https://i.imgur.com/f9fc9eh.jpg",
         "costume_id": 0,
-        "originalIndex": 789,
+        "originalIndex": 790,
         "lb1": {
             "power": 823,
             "attack": 799,
@@ -51106,7 +51177,7 @@ window.allHeroes =
         "family": "lagoon",
         "image": "https://i.imgur.com/EOk0EO8.jpg",
         "costume_id": 1,
-        "originalIndex": 790,
+        "originalIndex": 791,
         "lb1": {
             "power": 1008,
             "attack": 1012,
@@ -51182,7 +51253,7 @@ window.allHeroes =
         "family": 2022,
         "image": "https://i.imgur.com/9tJznmy.jpg",
         "costume_id": 0,
-        "originalIndex": 791,
+        "originalIndex": 792,
         "lb1": {
             "power": 866,
             "attack": 828,
@@ -51254,7 +51325,7 @@ window.allHeroes =
         "family": "moth",
         "image": "https://i.imgur.com/jvJDkdc.jpg",
         "costume_id": 0,
-        "originalIndex": 792,
+        "originalIndex": 793,
         "lb1": {
             "power": 1261,
             "attack": 1292,
@@ -51323,7 +51394,7 @@ window.allHeroes =
         "family": "beachparty",
         "image": "https://i.imgur.com/J2WmnG0.jpg",
         "costume_id": 0,
-        "originalIndex": 793,
+        "originalIndex": 794,
         "lb1": {
             "power": 931,
             "attack": 912,
@@ -51385,7 +51456,7 @@ window.allHeroes =
         "family": "mystery",
         "image": "https://i.imgur.com/J37iEs6.jpg",
         "costume_id": 0,
-        "originalIndex": 794,
+        "originalIndex": 795,
         "lb1": {
             "power": 852,
             "attack": 839,
@@ -51447,7 +51518,7 @@ window.allHeroes =
         "family": "bard",
         "image": "https://i.imgur.com/ZW5xxnu.jpg",
         "costume_id": 0,
-        "originalIndex": 795,
+        "originalIndex": 796,
         "lb1": {
             "power": 906,
             "attack": 910,
@@ -51523,7 +51594,7 @@ window.allHeroes =
         "family": "styx",
         "image": "https://i.imgur.com/aQwzAEQ.jpg",
         "costume_id": 0,
-        "originalIndex": 796,
+        "originalIndex": 797,
         "lb1": {
             "power": 912,
             "attack": 883,
@@ -51585,7 +51656,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/0JU9Ii1.jpg",
         "costume_id": 0,
-        "originalIndex": 797,
+        "originalIndex": 798,
         "lb1": {
             "power": 805,
             "attack": 821,
@@ -51642,7 +51713,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/SB2N0Vj.jpg",
         "costume_id": 1,
-        "originalIndex": 798,
+        "originalIndex": 799,
         "lb1": {
             "power": 894,
             "attack": 899,
@@ -51702,7 +51773,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/jA79vt4.jpg",
         "costume_id": 2,
-        "originalIndex": 799,
+        "originalIndex": 800,
         "lb1": {
             "power": 1032,
             "attack": 1002,
@@ -51764,7 +51835,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/YICnCq4.jpg",
         "costume_id": 3,
-        "originalIndex": 800,
+        "originalIndex": 801,
         "lb1": {
             "power": 1211,
             "attack": 1241,
@@ -51831,7 +51902,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/pN1Axne.jpg",
         "costume_id": 4,
-        "originalIndex": 801,
+        "originalIndex": 802,
         "lb1": {
             "power": 1325,
             "attack": 1405,
@@ -51904,7 +51975,7 @@ window.allHeroes =
         "family": "opera",
         "image": "https://i.imgur.com/4D2V5En.jpg",
         "costume_id": 0,
-        "originalIndex": 802,
+        "originalIndex": 803,
         "lb1": {
             "power": 1093,
             "attack": 1147,
@@ -51975,7 +52046,7 @@ window.allHeroes =
         "family": "owl",
         "image": "https://i.imgur.com/QzvMG5C.jpg",
         "costume_id": 0,
-        "originalIndex": 803,
+        "originalIndex": 804,
         "lb1": {
             "power": 1051,
             "attack": 1063,
@@ -52054,7 +52125,7 @@ window.allHeroes =
         "family": "ninja",
         "image": "https://i.imgur.com/r2WPn3d.jpg",
         "costume_id": 0,
-        "originalIndex": 804,
+        "originalIndex": 805,
         "lb1": {
             "power": 851,
             "attack": 865,
@@ -52120,7 +52191,7 @@ window.allHeroes =
         "family": "christmas",
         "image": "https://i.imgur.com/egM1t1a.jpg",
         "costume_id": 0,
-        "originalIndex": 805,
+        "originalIndex": 806,
         "lb1": {
             "power": 908,
             "attack": 888,
@@ -52199,7 +52270,7 @@ window.allHeroes =
         "family": "opera",
         "image": "https://i.imgur.com/7nuGOll.jpg",
         "costume_id": 0,
-        "originalIndex": 806,
+        "originalIndex": 807,
         "lb1": {
             "power": 1020,
             "attack": 1018,
@@ -52275,7 +52346,7 @@ window.allHeroes =
         "family": "defendersofatlantis",
         "image": "https://i.imgur.com/6o3KSeL.jpg",
         "costume_id": 0,
-        "originalIndex": 807,
+        "originalIndex": 808,
         "lb1": {
             "power": 967,
             "attack": 994,
@@ -52350,7 +52421,7 @@ window.allHeroes =
         "family": "defendersofatlantis",
         "image": "https://i.imgur.com/FXIdE4S.jpg",
         "costume_id": 1,
-        "originalIndex": 808,
+        "originalIndex": 809,
         "lb1": {
             "power": 967,
             "attack": 1012,
@@ -52413,7 +52484,7 @@ window.allHeroes =
         "family": "cupid",
         "image": "https://i.imgur.com/OE7cx2p.jpg",
         "costume_id": 0,
-        "originalIndex": 809,
+        "originalIndex": 810,
         "lb1": {
             "power": 918,
             "attack": 888,
@@ -52485,7 +52556,7 @@ window.allHeroes =
         "family": "ninja",
         "image": "https://i.imgur.com/DHtXxDR.jpg",
         "costume_id": 0,
-        "originalIndex": 810,
+        "originalIndex": 811,
         "lb1": {
             "power": 872,
             "attack": 810,
@@ -52544,7 +52615,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/250UPh4.jpg",
         "costume_id": 0,
-        "originalIndex": 811,
+        "originalIndex": 812,
         "lb1": {
             "power": 807,
             "attack": 805,
@@ -52596,7 +52667,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/TBwlwOC.jpg",
         "costume_id": 1,
-        "originalIndex": 812,
+        "originalIndex": 813,
         "lb1": {
             "power": 895,
             "attack": 932,
@@ -52653,7 +52724,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/BmY4xiU.jpg",
         "costume_id": 2,
-        "originalIndex": 813,
+        "originalIndex": 814,
         "lb1": {
             "power": 1035,
             "attack": 1047,
@@ -52711,7 +52782,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/ff1uvHj.jpg",
         "costume_id": 3,
-        "originalIndex": 814,
+        "originalIndex": 815,
         "lb1": {
             "power": 1213,
             "attack": 1151,
@@ -52776,7 +52847,7 @@ window.allHeroes =
         "family": "champions",
         "image": "https://i.imgur.com/ZBNdURG.jpg",
         "costume_id": 0,
-        "originalIndex": 815,
+        "originalIndex": 816,
         "lb1": {
             "power": 1097,
             "attack": 1101,
@@ -52834,7 +52905,7 @@ window.allHeroes =
         "family": "raven",
         "image": "https://i.imgur.com/wMh0j5F.jpg",
         "costume_id": 0,
-        "originalIndex": 816,
+        "originalIndex": 817,
         "lb1": {
             "power": 877,
             "attack": 879,
@@ -52893,7 +52964,7 @@ window.allHeroes =
         "family": "musketeer",
         "image": "https://i.imgur.com/cnURK1S.jpg",
         "costume_id": 0,
-        "originalIndex": 817,
+        "originalIndex": 818,
         "lb1": {
             "power": 992,
             "attack": 952,
@@ -52952,7 +53023,7 @@ window.allHeroes =
         "family": "niflheim",
         "image": "https://i.imgur.com/fVTl018.jpg",
         "costume_id": 0,
-        "originalIndex": 818,
+        "originalIndex": 819,
         "lb1": {
             "power": 840,
             "attack": 803,
@@ -53016,7 +53087,7 @@ window.allHeroes =
         "family": "niflheim",
         "image": "https://i.imgur.com/mbPRCrB.jpg",
         "costume_id": 1,
-        "originalIndex": 819,
+        "originalIndex": 820,
         "lb1": {
             "power": 1055,
             "attack": 1027,
@@ -53078,7 +53149,7 @@ window.allHeroes =
         "family": "corellia",
         "image": "https://i.imgur.com/6s6FE8i.jpg",
         "costume_id": 0,
-        "originalIndex": 820,
+        "originalIndex": 821,
         "lb1": {
             "power": 815,
             "attack": 785,
@@ -53140,7 +53211,7 @@ window.allHeroes =
         "family": "corellia",
         "image": "https://i.imgur.com/lR0HaHa.jpg",
         "costume_id": 1,
-        "originalIndex": 821,
+        "originalIndex": 822,
         "lb1": {
             "power": 1022,
             "attack": 996,
@@ -53199,7 +53270,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/YBEHGb0.jpg",
         "costume_id": 0,
-        "originalIndex": 822,
+        "originalIndex": 823,
         "lb1": {
             "power": 806,
             "attack": 748,
@@ -53254,7 +53325,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/gwzMUaT.jpg",
         "costume_id": 1,
-        "originalIndex": 823,
+        "originalIndex": 824,
         "lb1": {
             "power": 895,
             "attack": 794,
@@ -53308,7 +53379,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/I8cTetD.jpg",
         "costume_id": 2,
-        "originalIndex": 824,
+        "originalIndex": 825,
         "lb1": {
             "power": 1037,
             "attack": 970,
@@ -53374,7 +53445,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/V3r9sPS.jpg",
         "costume_id": 3,
-        "originalIndex": 825,
+        "originalIndex": 826,
         "lb1": {
             "power": 1216,
             "attack": 1176,
@@ -53441,7 +53512,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/fdUWQiQ.jpg",
         "costume_id": 4,
-        "originalIndex": 826,
+        "originalIndex": 827,
         "lb1": {
             "power": 1330,
             "attack": 1331,
@@ -53523,7 +53594,7 @@ window.allHeroes =
         "family": "ninja",
         "image": "https://i.imgur.com/xzr9Szx.jpg",
         "costume_id": 0,
-        "originalIndex": 827,
+        "originalIndex": 828,
         "lb1": {
             "power": 1220,
             "attack": 1274,
@@ -53592,7 +53663,7 @@ window.allHeroes =
         "family": "construct",
         "image": "https://i.imgur.com/pX4j62c.jpg",
         "costume_id": 0,
-        "originalIndex": 828,
+        "originalIndex": 829,
         "lb1": {
             "power": 1086,
             "attack": 1016,
@@ -53665,7 +53736,7 @@ window.allHeroes =
         "family": "slayer",
         "image": "https://i.imgur.com/PYhKsHp.jpg",
         "costume_id": 0,
-        "originalIndex": 829,
+        "originalIndex": 830,
         "lb1": {
             "power": 860,
             "attack": 788,
@@ -53740,7 +53811,7 @@ window.allHeroes =
         "family": "slayer",
         "image": "https://imgur.com/CNY72vk.jpg",
         "costume_id": 1,
-        "originalIndex": 830,
+        "originalIndex": 831,
         "lb1": {
             "power": 1291,
             "attack": 1340,
@@ -53811,7 +53882,7 @@ window.allHeroes =
         "family": "beachparty",
         "image": "https://imgur.com/ebdt5jw.jpg",
         "costume_id": 0,
-        "originalIndex": 831,
+        "originalIndex": 832,
         "lb1": {
             "power": 1280,
             "attack": 1265,
@@ -53880,7 +53951,7 @@ window.allHeroes =
         "family": 2019,
         "image": "https://i.imgur.com/FioNeBy.jpg",
         "costume_id": 0,
-        "originalIndex": 832,
+        "originalIndex": 833,
         "lb1": {
             "power": 821,
             "attack": 819,
@@ -53951,7 +54022,7 @@ window.allHeroes =
         "family": 2019,
         "image": "https://i.imgur.com/qNMuMVA.jpg",
         "costume_id": 1,
-        "originalIndex": 833,
+        "originalIndex": 834,
         "lb1": {
             "power": 1050,
             "attack": 1056,
@@ -54019,7 +54090,7 @@ window.allHeroes =
         "family": "moon",
         "image": "https://i.imgur.com/8kUB8ir.jpg",
         "costume_id": 0,
-        "originalIndex": 834,
+        "originalIndex": 835,
         "lb1": {
             "power": 922,
             "attack": 870,
@@ -54085,7 +54156,7 @@ window.allHeroes =
         "family": "moon",
         "image": "https://imgur.com/olt8i8H.jpg",
         "costume_id": 1,
-        "originalIndex": 835,
+        "originalIndex": 836,
         "lb1": {
             "power": 1253,
             "attack": 1270,
@@ -54150,7 +54221,7 @@ window.allHeroes =
         "family": "construct",
         "image": "https://i.imgur.com/kHFYa2T.jpg",
         "costume_id": 0,
-        "originalIndex": 836,
+        "originalIndex": 837,
         "lb1": {
             "power": 1054,
             "attack": 1072,
@@ -54221,7 +54292,7 @@ window.allHeroes =
         "family": "fox",
         "image": "https://i.imgur.com/WRT0fPv.jpg",
         "costume_id": 0,
-        "originalIndex": 837,
+        "originalIndex": 838,
         "lb1": {
             "power": 1233,
             "attack": 1232,
@@ -54288,7 +54359,7 @@ window.allHeroes =
         "family": 2024,
         "image": "https://i.imgur.com/7f9DRkN.jpg",
         "costume_id": 0,
-        "originalIndex": 838,
+        "originalIndex": 839,
         "lb1": {
             "power": 1077,
             "attack": 1065,
@@ -54358,7 +54429,7 @@ window.allHeroes =
         "family": "moon",
         "image": "https://i.imgur.com/xRHanch.jpg",
         "costume_id": 0,
-        "originalIndex": 839,
+        "originalIndex": 840,
         "lb1": {
             "power": 931,
             "attack": 899,
@@ -54429,7 +54500,7 @@ window.allHeroes =
         "family": "moon",
         "image": "https://imgur.com/3FfUfwE.jpg",
         "costume_id": 1,
-        "originalIndex": 840,
+        "originalIndex": 841,
         "lb1": {
             "power": 1263,
             "attack": 1267,
@@ -54501,7 +54572,7 @@ window.allHeroes =
         "family": "fox",
         "image": "https://i.imgur.com/s7agDwW.jpg",
         "costume_id": 0,
-        "originalIndex": 841,
+        "originalIndex": 842,
         "lb1": {
             "power": 1222,
             "attack": 1287,
@@ -54576,7 +54647,7 @@ window.allHeroes =
         "family": "woodlandfaun",
         "image": "https://i.imgur.com/eHe26XM.jpg",
         "costume_id": 0,
-        "originalIndex": 842,
+        "originalIndex": 843,
         "lb1": {
             "power": 1218,
             "attack": 1214,
@@ -54644,7 +54715,7 @@ window.allHeroes =
         "family": "construct",
         "image": "https://i.imgur.com/det8edh.jpg",
         "costume_id": 0,
-        "originalIndex": 843,
+        "originalIndex": 844,
         "lb1": {
             "power": 1030,
             "attack": 1085,
@@ -54705,7 +54776,7 @@ window.allHeroes =
         "family": 2017,
         "image": "https://i.imgur.com/qJmJu2G.jpg",
         "costume_id": 0,
-        "originalIndex": 844,
+        "originalIndex": 845,
         "lb1": {
             "power": 816,
             "attack": 788,
@@ -54765,7 +54836,7 @@ window.allHeroes =
         "family": 2017,
         "image": "https://i.imgur.com/3rXphxC.jpg",
         "costume_id": 1,
-        "originalIndex": 845,
+        "originalIndex": 846,
         "lb1": {
             "power": 1044,
             "attack": 983,
@@ -54835,7 +54906,7 @@ window.allHeroes =
         "family": "myrkheim",
         "image": "https://imgur.com/GPSIC9I.jpg",
         "costume_id": 0,
-        "originalIndex": 846,
+        "originalIndex": 847,
         "lb1": {
             "power": 1286,
             "attack": 1323,
@@ -54916,7 +54987,7 @@ window.allHeroes =
         "family": "ninja",
         "image": "https://i.imgur.com/SWoTRp0.jpg",
         "costume_id": 0,
-        "originalIndex": 847,
+        "originalIndex": 848,
         "lb1": {
             "power": 1171,
             "attack": 1329,
@@ -54978,7 +55049,7 @@ window.allHeroes =
         "family": 2023,
         "image": "https://i.imgur.com/ktMsNKD.jpg",
         "costume_id": 0,
-        "originalIndex": 848,
+        "originalIndex": 849,
         "lb1": {
             "power": 877,
             "attack": 912,
@@ -55043,7 +55114,7 @@ window.allHeroes =
         "family": "wonderland",
         "image": "https://i.imgur.com/oaSASQ4.jpg",
         "costume_id": 0,
-        "originalIndex": 849,
+        "originalIndex": 850,
         "lb1": {
             "power": 1010,
             "attack": 1036,
@@ -55119,7 +55190,7 @@ window.allHeroes =
         "family": "nightmaresofatlantis",
         "image": "https://i.imgur.com/7xKKQnM.jpg",
         "costume_id": 0,
-        "originalIndex": 850,
+        "originalIndex": 851,
         "lb1": {
             "power": 1016,
             "attack": 1063,
@@ -55197,7 +55268,7 @@ window.allHeroes =
         "family": "nightmaresofatlantis",
         "image": "https://imgur.com/p30NrpJ.jpg",
         "costume_id": 1,
-        "originalIndex": 851,
+        "originalIndex": 852,
         "lb1": {
             "power": 1267,
             "attack": 1386,
@@ -55265,7 +55336,7 @@ window.allHeroes =
         "family": "maskedgod",
         "image": "https://i.imgur.com/3VyJcT7.jpg",
         "costume_id": 0,
-        "originalIndex": 852,
+        "originalIndex": 853,
         "lb1": {
             "power": 1016,
             "attack": 990,
@@ -55338,7 +55409,7 @@ window.allHeroes =
         "family": "ninja",
         "image": "https://i.imgur.com/2sWnlMn.jpg",
         "costume_id": 0,
-        "originalIndex": 853,
+        "originalIndex": 854,
         "lb1": {
             "power": 1185,
             "attack": 1314,
@@ -55405,7 +55476,7 @@ window.allHeroes =
         "family": "atlantis",
         "image": "https://i.imgur.com/OQ8iQcf.jpg",
         "costume_id": 0,
-        "originalIndex": 854,
+        "originalIndex": 855,
         "lb1": {
             "power": 826,
             "attack": 819,
@@ -55473,7 +55544,7 @@ window.allHeroes =
         "family": "atlantis",
         "image": "https://i.imgur.com/HefSfvM.jpg",
         "costume_id": 1,
-        "originalIndex": 855,
+        "originalIndex": 856,
         "lb1": {
             "power": 1011,
             "attack": 1010,
@@ -55546,7 +55617,7 @@ window.allHeroes =
         "family": 2023,
         "image": "https://i.imgur.com/Pb3fJn3.jpg",
         "costume_id": 0,
-        "originalIndex": 856,
+        "originalIndex": 857,
         "lb1": {
             "power": 942,
             "attack": 1001,
@@ -55615,7 +55686,7 @@ window.allHeroes =
         "family": "gargoyle",
         "image": "https://i.imgur.com/KNSk9mz.jpg",
         "costume_id": 0,
-        "originalIndex": 857,
+        "originalIndex": 858,
         "lb1": {
             "power": 1122,
             "attack": 1161,
@@ -55689,7 +55760,7 @@ window.allHeroes =
         "family": "superelemental",
         "image": "https://i.imgur.com/4cx1DT9.jpg",
         "costume_id": 0,
-        "originalIndex": 858,
+        "originalIndex": 859,
         "lb1": {
             "power": 1157,
             "attack": 1201,
@@ -55753,7 +55824,7 @@ window.allHeroes =
         "family": "astraldwarfs",
         "image": "https://i.imgur.com/pddigSQ.jpg",
         "costume_id": 0,
-        "originalIndex": 859,
+        "originalIndex": 860,
         "lb1": {
             "power": 1244,
             "attack": 1298,
@@ -55821,7 +55892,7 @@ window.allHeroes =
         "family": "morlovia",
         "image": "https://i.imgur.com/Trss5zi.jpg",
         "costume_id": 0,
-        "originalIndex": 860,
+        "originalIndex": 861,
         "lb1": {
             "power": 824,
             "attack": 839,
@@ -55891,7 +55962,7 @@ window.allHeroes =
         "family": "morlovia",
         "image": "https://i.imgur.com/bKghYKS.jpg",
         "costume_id": 1,
-        "originalIndex": 861,
+        "originalIndex": 862,
         "lb1": {
             "power": 1070,
             "attack": 1120,
@@ -55958,7 +56029,7 @@ window.allHeroes =
         "family": "garrisonguard",
         "image": "https://i.imgur.com/ByQ3x5M.jpg",
         "costume_id": 0,
-        "originalIndex": 862,
+        "originalIndex": 863,
         "lb1": {
             "power": 1169,
             "attack": 1236,
@@ -56035,7 +56106,7 @@ window.allHeroes =
         "family": 2022,
         "image": "https://i.imgur.com/tgvzp56.jpg",
         "costume_id": 0,
-        "originalIndex": 863,
+        "originalIndex": 864,
         "lb1": {
             "power": 856,
             "attack": 788,
@@ -56098,7 +56169,7 @@ window.allHeroes =
         "family": "springvale",
         "image": "https://imgur.com/ifuZ96L.jpg",
         "costume_id": 0,
-        "originalIndex": 864,
+        "originalIndex": 865,
         "lb1": {
             "power": 1251,
             "attack": 1294,
@@ -56164,7 +56235,7 @@ window.allHeroes =
         "family": "astralelves",
         "image": "https://i.imgur.com/ry0GZRR.jpg",
         "costume_id": 0,
-        "originalIndex": 865,
+        "originalIndex": 866,
         "lb1": {
             "power": 1113,
             "attack": 1081,
@@ -56240,7 +56311,7 @@ window.allHeroes =
         "family": "opera",
         "image": "https://i.imgur.com/DZgjbkS.jpg",
         "costume_id": 0,
-        "originalIndex": 866,
+        "originalIndex": 867,
         "lb1": {
             "power": 1168,
             "attack": 1265,
@@ -56307,7 +56378,7 @@ window.allHeroes =
         "family": "journey",
         "image": "https://i.imgur.com/jJUezPr.jpg",
         "costume_id": 0,
-        "originalIndex": 867,
+        "originalIndex": 868,
         "lb1": {
             "power": 1067,
             "attack": 1105,
@@ -56380,7 +56451,7 @@ window.allHeroes =
         "family": "journey",
         "image": "https://i.imgur.com/WyjU3s9.jpg",
         "costume_id": 0,
-        "originalIndex": 868,
+        "originalIndex": 869,
         "lb1": {
             "power": 932,
             "attack": 825,
@@ -56451,7 +56522,7 @@ window.allHeroes =
         "family": "underwild",
         "image": "https://i.imgur.com/RF7rniv.jpg",
         "costume_id": 0,
-        "originalIndex": 869,
+        "originalIndex": 870,
         "lb1": {
             "power": 862,
             "attack": 828,
@@ -56522,7 +56593,7 @@ window.allHeroes =
         "family": "underwild",
         "image": "https://i.imgur.com/s1HpuGG.jpg",
         "costume_id": 1,
-        "originalIndex": 870,
+        "originalIndex": 871,
         "lb1": {
             "power": 1094,
             "attack": 1076,
@@ -56592,7 +56663,7 @@ window.allHeroes =
         "family": "woodlandfaun",
         "image": "https://i.imgur.com/jhCBaUo.jpg",
         "costume_id": 0,
-        "originalIndex": 871,
+        "originalIndex": 872,
         "lb1": {
             "power": 1225,
             "attack": 1267,
@@ -56662,7 +56733,7 @@ window.allHeroes =
         "family": 2025,
         "image": "https://i.imgur.com/G0RFHTr.jpg",
         "costume_id": 0,
-        "originalIndex": 872,
+        "originalIndex": 873,
         "lb1": {
             "power": 1124,
             "attack": 1245,
@@ -56730,7 +56801,7 @@ window.allHeroes =
         "family": 2020,
         "image": "https://i.imgur.com/oEPqMWI.jpg",
         "costume_id": 0,
-        "originalIndex": 873,
+        "originalIndex": 874,
         "lb1": {
             "power": 830,
             "attack": 721,
@@ -56785,7 +56856,7 @@ window.allHeroes =
         "family": null,
         "image": "https://i.imgur.com/PC7yXFg.jpg",
         "costume_id": 0,
-        "originalIndex": 874,
+        "originalIndex": 875,
         "cn_skill_info": []
     },
     {
@@ -56816,7 +56887,7 @@ window.allHeroes =
         "family": null,
         "image": "https://i.imgur.com/cL8WR2O.jpg",
         "costume_id": 0,
-        "originalIndex": 875,
+        "originalIndex": 876,
         "cn_skill_info": []
     },
     {
@@ -56847,7 +56918,7 @@ window.allHeroes =
         "family": null,
         "image": "https://i.imgur.com/MeeFayZ.jpg",
         "costume_id": 0,
-        "originalIndex": 876,
+        "originalIndex": 877,
         "cn_skill_info": []
     },
     {
@@ -56878,7 +56949,7 @@ window.allHeroes =
         "family": null,
         "image": "https://i.imgur.com/FTGm2in.jpg",
         "costume_id": 0,
-        "originalIndex": 877,
+        "originalIndex": 878,
         "cn_skill_info": []
     },
     {
@@ -56909,7 +56980,7 @@ window.allHeroes =
         "family": null,
         "image": "https://i.imgur.com/TOP4jvU.jpg",
         "costume_id": 0,
-        "originalIndex": 878,
+        "originalIndex": 879,
         "cn_skill_info": []
     },
     {
@@ -56940,7 +57011,7 @@ window.allHeroes =
         "family": null,
         "image": "https://i.imgur.com/O3JN2m9.jpg",
         "costume_id": 0,
-        "originalIndex": 879,
+        "originalIndex": 880,
         "cn_skill_info": []
     },
     {
@@ -56974,7 +57045,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/sizxBDX.jpg",
         "costume_id": 0,
-        "originalIndex": 880,
+        "originalIndex": 881,
         "lb1": {
             "power": 495,
             "attack": 559,
@@ -57031,7 +57102,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/tInZp5F.jpg",
         "costume_id": 1,
-        "originalIndex": 881,
+        "originalIndex": 882,
         "lb1": {
             "power": 529,
             "attack": 572,
@@ -57092,7 +57163,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/Mwzt0jr.jpg",
         "costume_id": 2,
-        "originalIndex": 882,
+        "originalIndex": 883,
         "lb1": {
             "power": 566,
             "attack": 665,
@@ -57155,7 +57226,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://imgur.com/rj0CDGr.jpg",
         "costume_id": 3,
-        "originalIndex": 883,
+        "originalIndex": 884,
         "lb1": {
             "power": 575,
             "attack": 682,
@@ -57222,7 +57293,7 @@ window.allHeroes =
         "family": "nightmaresofatlantis",
         "image": "https://i.imgur.com/rzvavLk.jpg",
         "costume_id": 0,
-        "originalIndex": 884,
+        "originalIndex": 885,
         "lb1": {
             "power": 544,
             "attack": 648,
@@ -57289,7 +57360,7 @@ window.allHeroes =
         "family": "nightmaresofatlantis",
         "image": "https://imgur.com/ZuRts32.jpg",
         "costume_id": 1,
-        "originalIndex": 885,
+        "originalIndex": 886,
         "lb1": {
             "power": 556,
             "attack": 580,
@@ -57352,7 +57423,7 @@ window.allHeroes =
         "family": "abysshunter",
         "image": "https://i.imgur.com/WxAALcm.jpg",
         "costume_id": 0,
-        "originalIndex": 886,
+        "originalIndex": 887,
         "lb1": {
             "power": 543,
             "attack": 522,
@@ -57409,7 +57480,7 @@ window.allHeroes =
         "family": "avalon",
         "image": "https://i.imgur.com/EA1ItRL.jpg",
         "costume_id": 0,
-        "originalIndex": 887,
+        "originalIndex": 888,
         "lb1": {
             "power": 507,
             "attack": 476,
@@ -57478,7 +57549,7 @@ window.allHeroes =
         "family": "goblin",
         "image": "https://i.imgur.com/JAko0SJ.jpg",
         "costume_id": 0,
-        "originalIndex": 888,
+        "originalIndex": 889,
         "lb1": {
             "power": 543,
             "attack": 516,
@@ -57545,7 +57616,7 @@ window.allHeroes =
         "family": "christmas",
         "image": "https://i.imgur.com/LgUJQa9.jpg",
         "costume_id": 0,
-        "originalIndex": 889,
+        "originalIndex": 890,
         "lb1": {
             "power": 541,
             "attack": 577,
@@ -57620,7 +57691,7 @@ window.allHeroes =
         "family": "styx",
         "image": "https://i.imgur.com/FNkLC6z.jpg",
         "costume_id": 0,
-        "originalIndex": 890,
+        "originalIndex": 891,
         "lb1": {
             "power": 540,
             "attack": 608,
@@ -57683,7 +57754,7 @@ window.allHeroes =
         "family": "niflheim",
         "image": "https://i.imgur.com/RabUqBI.jpg",
         "costume_id": 0,
-        "originalIndex": 891,
+        "originalIndex": 892,
         "lb1": {
             "power": 520,
             "attack": 478,
@@ -57740,7 +57811,7 @@ window.allHeroes =
         "family": "niflheim",
         "image": "https://i.imgur.com/Zi5MdT5.jpg",
         "costume_id": 1,
-        "originalIndex": 892,
+        "originalIndex": 893,
         "lb1": {
             "power": 537,
             "attack": 569,
@@ -57800,7 +57871,7 @@ window.allHeroes =
         "family": "stag",
         "image": "https://i.imgur.com/qV2EnaJ.jpg",
         "costume_id": 0,
-        "originalIndex": 893,
+        "originalIndex": 894,
         "lb1": {
             "power": 547,
             "attack": 518,
@@ -57855,7 +57926,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/6ZyfSsX.jpg",
         "costume_id": 0,
-        "originalIndex": 894,
+        "originalIndex": 895,
         "lb1": {
             "power": 496,
             "attack": 537,
@@ -57907,7 +57978,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/FY7tylo.jpg",
         "costume_id": 1,
-        "originalIndex": 895,
+        "originalIndex": 896,
         "lb1": {
             "power": 530,
             "attack": 568,
@@ -57966,7 +58037,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/hDOgs06.jpg",
         "costume_id": 2,
-        "originalIndex": 896,
+        "originalIndex": 897,
         "lb1": {
             "power": 567,
             "attack": 617,
@@ -58025,7 +58096,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://imgur.com/4UQcx05.jpg",
         "costume_id": 3,
-        "originalIndex": 897,
+        "originalIndex": 898,
         "lb1": {
             "power": 578,
             "attack": 663,
@@ -58092,7 +58163,7 @@ window.allHeroes =
         "family": "nidavellir",
         "image": "https://i.imgur.com/URDTarn.jpg",
         "costume_id": 0,
-        "originalIndex": 898,
+        "originalIndex": 899,
         "lb1": {
             "power": 557,
             "attack": 618,
@@ -58149,7 +58220,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/7oZTOqz.jpg",
         "costume_id": 0,
-        "originalIndex": 899,
+        "originalIndex": 900,
         "lb1": {
             "power": 496,
             "attack": 565,
@@ -58207,7 +58278,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/IPO19rX.jpg",
         "costume_id": 1,
-        "originalIndex": 900,
+        "originalIndex": 901,
         "lb1": {
             "power": 528,
             "attack": 593,
@@ -58269,7 +58340,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/nGXpTVa.jpg",
         "costume_id": 2,
-        "originalIndex": 901,
+        "originalIndex": 902,
         "lb1": {
             "power": 566,
             "attack": 629,
@@ -58336,7 +58407,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/r8eT1gi.jpg",
         "costume_id": 3,
-        "originalIndex": 902,
+        "originalIndex": 903,
         "lb1": {
             "power": 575,
             "attack": 642,
@@ -58405,7 +58476,7 @@ window.allHeroes =
         "family": "magic",
         "image": "https://i.imgur.com/mQovZC2.jpg",
         "costume_id": 0,
-        "originalIndex": 903,
+        "originalIndex": 904,
         "lb1": {
             "power": 535,
             "attack": 535,
@@ -58464,7 +58535,7 @@ window.allHeroes =
         "family": "kingdom",
         "image": "https://i.imgur.com/6qcUvA0.jpg",
         "costume_id": 0,
-        "originalIndex": 904,
+        "originalIndex": 905,
         "lb1": {
             "power": 539,
             "attack": 545,
@@ -58537,7 +58608,7 @@ window.allHeroes =
         "family": "outlaws",
         "image": "https://imgur.com/7kDzUpm.jpg",
         "costume_id": 0,
-        "originalIndex": 905,
+        "originalIndex": 906,
         "lb1": {
             "power": 567,
             "attack": 563,
@@ -58595,7 +58666,7 @@ window.allHeroes =
         "family": "sakura",
         "image": "https://i.imgur.com/7ovDLzi.jpg",
         "costume_id": 0,
-        "originalIndex": 906,
+        "originalIndex": 907,
         "lb1": {
             "power": 501,
             "attack": 596,
@@ -58652,7 +58723,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/DrsAnEe.jpg",
         "costume_id": 0,
-        "originalIndex": 907,
+        "originalIndex": 908,
         "lb1": {
             "power": 494,
             "attack": 583,
@@ -58710,7 +58781,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/DZd6oKm.jpg",
         "costume_id": 1,
-        "originalIndex": 908,
+        "originalIndex": 909,
         "lb1": {
             "power": 527,
             "attack": 654,
@@ -58772,7 +58843,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/SWdSWFa.jpg",
         "costume_id": 2,
-        "originalIndex": 909,
+        "originalIndex": 910,
         "lb1": {
             "power": 564,
             "attack": 706,
@@ -58835,7 +58906,7 @@ window.allHeroes =
         "family": "wonderland",
         "image": "https://i.imgur.com/zBoeoLf.jpg",
         "costume_id": 0,
-        "originalIndex": 910,
+        "originalIndex": 911,
         "lb1": {
             "power": 537,
             "attack": 506,
@@ -58893,7 +58964,7 @@ window.allHeroes =
         "family": "moth",
         "image": "https://i.imgur.com/1hAn4iO.jpg",
         "costume_id": 0,
-        "originalIndex": 911,
+        "originalIndex": 912,
         "lb1": {
             "power": 562,
             "attack": 581,
@@ -58959,7 +59030,7 @@ window.allHeroes =
         "family": "christmas",
         "image": "https://i.imgur.com/mEYb8Ac.jpg",
         "costume_id": 0,
-        "originalIndex": 912,
+        "originalIndex": 913,
         "lb1": {
             "power": 500,
             "attack": 612,
@@ -59023,7 +59094,7 @@ window.allHeroes =
         "family": "pets",
         "image": "https://i.imgur.com/nTxGQkg.jpg",
         "costume_id": 0,
-        "originalIndex": 913,
+        "originalIndex": 914,
         "lb1": {
             "power": 541,
             "attack": 569,
@@ -59082,7 +59153,7 @@ window.allHeroes =
         "family": "villains",
         "image": "https://i.imgur.com/e258l3c.jpg",
         "costume_id": 0,
-        "originalIndex": 914,
+        "originalIndex": 915,
         "lb1": {
             "power": 531,
             "attack": 559,
@@ -59138,7 +59209,7 @@ window.allHeroes =
         "family": "springvale",
         "image": "https://i.imgur.com/545SVXP.jpg",
         "costume_id": 0,
-        "originalIndex": 915,
+        "originalIndex": 916,
         "lb1": {
             "power": 496,
             "attack": 610,
@@ -59200,7 +59271,7 @@ window.allHeroes =
         "family": "astralelves",
         "image": "https://i.imgur.com/M18GizO.jpg",
         "costume_id": 0,
-        "originalIndex": 916,
+        "originalIndex": 917,
         "lb1": {
             "power": 547,
             "attack": 589,
@@ -59261,7 +59332,7 @@ window.allHeroes =
         "family": "muspelheim",
         "image": "https://i.imgur.com/kbwg0o2.jpg",
         "costume_id": 0,
-        "originalIndex": 917,
+        "originalIndex": 918,
         "lb1": {
             "power": 516,
             "attack": 498,
@@ -59319,7 +59390,7 @@ window.allHeroes =
         "family": "underwild",
         "image": "https://i.imgur.com/mAw3KL3.jpg",
         "costume_id": 0,
-        "originalIndex": 918,
+        "originalIndex": 919,
         "lb1": {
             "power": 534,
             "attack": 539,
@@ -59372,7 +59443,7 @@ window.allHeroes =
         "family": "underwild",
         "image": "https://i.imgur.com/RK5dZz5.jpg",
         "costume_id": 1,
-        "originalIndex": 919,
+        "originalIndex": 920,
         "lb1": {
             "power": 545,
             "attack": 549,
@@ -59428,7 +59499,7 @@ window.allHeroes =
         "family": "sun",
         "image": "https://i.imgur.com/CWQ9rw6.jpg",
         "costume_id": 0,
-        "originalIndex": 920,
+        "originalIndex": 921,
         "lb1": {
             "power": 539,
             "attack": 606,
@@ -59491,7 +59562,7 @@ window.allHeroes =
         "family": "sun",
         "image": "https://imgur.com/W7OyLyj.jpg",
         "costume_id": 1,
-        "originalIndex": 921,
+        "originalIndex": 922,
         "lb1": {
             "power": 552,
             "attack": 652,
@@ -59559,7 +59630,7 @@ window.allHeroes =
         "family": "slayer",
         "image": "https://i.imgur.com/81JNp9d.jpg",
         "costume_id": 0,
-        "originalIndex": 922,
+        "originalIndex": 923,
         "lb1": {
             "power": 729,
             "attack": 681,
@@ -59622,7 +59693,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/K7cfOtS.jpg",
         "costume_id": 0,
-        "originalIndex": 923,
+        "originalIndex": 924,
         "lb1": {
             "power": 693,
             "attack": 639,
@@ -59679,7 +59750,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/ZFrdT4t.jpg",
         "costume_id": 1,
-        "originalIndex": 924,
+        "originalIndex": 925,
         "lb1": {
             "power": 743,
             "attack": 689,
@@ -59737,7 +59808,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/T4p2FAB.jpg",
         "costume_id": 2,
-        "originalIndex": 925,
+        "originalIndex": 926,
         "lb1": {
             "power": 793,
             "attack": 748,
@@ -59797,7 +59868,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/ufJrKaD.jpg",
         "costume_id": 3,
-        "originalIndex": 926,
+        "originalIndex": 927,
         "lb1": {
             "power": 806,
             "attack": 758,
@@ -59860,7 +59931,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/lVwUo5n.jpg",
         "costume_id": 4,
-        "originalIndex": 927,
+        "originalIndex": 928,
         "lb1": {
             "power": 819,
             "attack": 768,
@@ -59921,7 +59992,7 @@ window.allHeroes =
         "family": "christmas",
         "image": "https://i.imgur.com/rj2dz3k.jpg",
         "costume_id": 0,
-        "originalIndex": 928,
+        "originalIndex": 929,
         "lb1": {
             "power": 725,
             "attack": 678,
@@ -59984,7 +60055,7 @@ window.allHeroes =
         "family": "slayer",
         "image": "https://i.imgur.com/ema4TPc.jpg",
         "costume_id": 0,
-        "originalIndex": 929,
+        "originalIndex": 930,
         "lb1": {
             "power": 729,
             "attack": 685,
@@ -60043,7 +60114,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/eqgOQXS.jpg",
         "costume_id": 0,
-        "originalIndex": 930,
+        "originalIndex": 931,
         "lb1": {
             "power": 692,
             "attack": 791,
@@ -60101,7 +60172,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/pAWbbb8.jpg",
         "costume_id": 1,
-        "originalIndex": 931,
+        "originalIndex": 932,
         "lb1": {
             "power": 740,
             "attack": 853,
@@ -60161,7 +60232,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/2DIxTGe.jpg",
         "costume_id": 2,
-        "originalIndex": 932,
+        "originalIndex": 933,
         "lb1": {
             "power": 790,
             "attack": 899,
@@ -60227,7 +60298,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/swTTE4N.jpg",
         "costume_id": 3,
-        "originalIndex": 933,
+        "originalIndex": 934,
         "lb1": {
             "power": 803,
             "attack": 914,
@@ -60295,7 +60366,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://imgur.com/7dLF49j.jpg",
         "costume_id": 4,
-        "originalIndex": 934,
+        "originalIndex": 935,
         "lb1": {
             "power": 817,
             "attack": 955,
@@ -60358,7 +60429,7 @@ window.allHeroes =
         "family": "starfall",
         "image": "https://i.imgur.com/B0oW04d.jpg",
         "costume_id": 0,
-        "originalIndex": 935,
+        "originalIndex": 936,
         "lb1": {
             "power": 727,
             "attack": 692,
@@ -60414,7 +60485,7 @@ window.allHeroes =
         "family": "wolf",
         "image": "https://i.imgur.com/iJhZeCK.jpg",
         "costume_id": 0,
-        "originalIndex": 936,
+        "originalIndex": 937,
         "lb1": {
             "power": 732,
             "attack": 690,
@@ -60472,7 +60543,7 @@ window.allHeroes =
         "family": "wolf",
         "image": "https://i.imgur.com/f9WxEPE.jpg",
         "costume_id": 1,
-        "originalIndex": 937,
+        "originalIndex": 938,
         "lb1": {
             "power": 775,
             "attack": 722,
@@ -60529,7 +60600,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/A5zsfun.jpg",
         "costume_id": 0,
-        "originalIndex": 938,
+        "originalIndex": 939,
         "lb1": {
             "power": 691,
             "attack": 618,
@@ -60588,7 +60659,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/OxaIMH8.jpg",
         "costume_id": 1,
-        "originalIndex": 939,
+        "originalIndex": 940,
         "lb1": {
             "power": 741,
             "attack": 676,
@@ -60646,7 +60717,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/6XbZQ2N.jpg",
         "costume_id": 2,
-        "originalIndex": 940,
+        "originalIndex": 941,
         "lb1": {
             "power": 791,
             "attack": 795,
@@ -60707,7 +60778,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/WFeaXms.jpg",
         "costume_id": 3,
-        "originalIndex": 941,
+        "originalIndex": 942,
         "lb1": {
             "power": 805,
             "attack": 696,
@@ -60775,7 +60846,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://imgur.com/k3y9GLJ.jpg",
         "costume_id": 4,
-        "originalIndex": 942,
+        "originalIndex": 943,
         "lb1": {
             "power": 820,
             "attack": 714,
@@ -60837,7 +60908,7 @@ window.allHeroes =
         "family": "guardiansteltoc",
         "image": "https://i.imgur.com/osWU4RP.jpg",
         "costume_id": 0,
-        "originalIndex": 943,
+        "originalIndex": 944,
         "lb1": {
             "power": 696,
             "attack": 600,
@@ -60899,7 +60970,7 @@ window.allHeroes =
         "family": "beachparty",
         "image": "https://i.imgur.com/7w0kLrp.jpg",
         "costume_id": 0,
-        "originalIndex": 944,
+        "originalIndex": 945,
         "lb1": {
             "power": 738,
             "attack": 729,
@@ -60965,7 +61036,7 @@ window.allHeroes =
         "family": "moon",
         "image": "https://i.imgur.com/9XxU54s.jpg",
         "costume_id": 0,
-        "originalIndex": 945,
+        "originalIndex": 946,
         "lb1": {
             "power": 735,
             "attack": 812,
@@ -61024,7 +61095,7 @@ window.allHeroes =
         "family": "moon",
         "image": "https://i.imgur.com/4PhQKkZ.jpg",
         "costume_id": 1,
-        "originalIndex": 946,
+        "originalIndex": 947,
         "lb1": {
             "power": 753,
             "attack": 781,
@@ -61077,7 +61148,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/g0FkZzQ.jpg",
         "costume_id": 0,
-        "originalIndex": 947,
+        "originalIndex": 948,
         "lb1": {
             "power": 693,
             "attack": 734,
@@ -61132,7 +61203,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/EFoCGqV.jpg",
         "costume_id": 1,
-        "originalIndex": 948,
+        "originalIndex": 949,
         "lb1": {
             "power": 741,
             "attack": 827,
@@ -61191,7 +61262,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/46HnfAG.jpg",
         "costume_id": 2,
-        "originalIndex": 949,
+        "originalIndex": 950,
         "lb1": {
             "power": 791,
             "attack": 856,
@@ -61258,7 +61329,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/nj44opt.jpg",
         "costume_id": 3,
-        "originalIndex": 950,
+        "originalIndex": 951,
         "lb1": {
             "power": 803,
             "attack": 885,
@@ -61326,7 +61397,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://imgur.com/yqIwVAP.jpg",
         "costume_id": 4,
-        "originalIndex": 951,
+        "originalIndex": 952,
         "lb1": {
             "power": 817,
             "attack": 911,
@@ -61391,7 +61462,7 @@ window.allHeroes =
         "family": "kalevala",
         "image": "https://i.imgur.com/f4cHfqp.jpg",
         "costume_id": 0,
-        "originalIndex": 952,
+        "originalIndex": 953,
         "lb1": {
             "power": 734,
             "attack": 701,
@@ -61461,7 +61532,7 @@ window.allHeroes =
         "family": "magic",
         "image": "https://i.imgur.com/j3M4iy4.jpg",
         "costume_id": 0,
-        "originalIndex": 953,
+        "originalIndex": 954,
         "lb1": {
             "power": 739,
             "attack": 715,
@@ -61527,7 +61598,7 @@ window.allHeroes =
         "family": "underwild",
         "image": "https://i.imgur.com/nafpwvj.jpg",
         "costume_id": 0,
-        "originalIndex": 954,
+        "originalIndex": 955,
         "lb1": {
             "power": 729,
             "attack": 701,
@@ -61582,7 +61653,7 @@ window.allHeroes =
         "family": "underwild",
         "image": "https://i.imgur.com/piqOqpg.jpg",
         "costume_id": 1,
-        "originalIndex": 955,
+        "originalIndex": 956,
         "lb1": {
             "power": 745,
             "attack": 715,
@@ -61640,7 +61711,7 @@ window.allHeroes =
         "family": "plainshunter",
         "image": "https://i.imgur.com/c554xVo.jpg",
         "costume_id": 0,
-        "originalIndex": 956,
+        "originalIndex": 957,
         "lb1": {
             "power": 737,
             "attack": 713,
@@ -61707,7 +61778,7 @@ window.allHeroes =
         "family": "magiccarpet",
         "image": "https://imgur.com/xf2xQFV.jpg",
         "costume_id": 0,
-        "originalIndex": 957,
+        "originalIndex": 958,
         "lb1": {
             "power": 794,
             "attack": 819,
@@ -61779,7 +61850,7 @@ window.allHeroes =
         "family": "superelemental",
         "image": "https://i.imgur.com/bsearKJ.jpg",
         "costume_id": 0,
-        "originalIndex": 958,
+        "originalIndex": 959,
         "lb1": {
             "power": 744,
             "attack": 699,
@@ -61854,7 +61925,7 @@ window.allHeroes =
         "family": "opera",
         "image": "https://i.imgur.com/QmSXHcR.jpg",
         "costume_id": 0,
-        "originalIndex": 959,
+        "originalIndex": 960,
         "lb1": {
             "power": 744,
             "attack": 815,
@@ -61916,7 +61987,7 @@ window.allHeroes =
         "family": "underwild",
         "image": "https://i.imgur.com/dOWSQgd.jpg",
         "costume_id": 0,
-        "originalIndex": 960,
+        "originalIndex": 961,
         "lb1": {
             "power": 728,
             "attack": 768,
@@ -61977,7 +62048,7 @@ window.allHeroes =
         "family": "underwild",
         "image": "https://i.imgur.com/AXlFl5t.jpg",
         "costume_id": 1,
-        "originalIndex": 961,
+        "originalIndex": 962,
         "lb1": {
             "power": 745,
             "attack": 788,
@@ -62035,7 +62106,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/rridBLP.jpg",
         "costume_id": 0,
-        "originalIndex": 962,
+        "originalIndex": 963,
         "lb1": {
             "power": 689,
             "attack": 833,
@@ -62095,7 +62166,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/t5Qcm7v.jpg",
         "costume_id": 1,
-        "originalIndex": 963,
+        "originalIndex": 964,
         "lb1": {
             "power": 737,
             "attack": 851,
@@ -62159,7 +62230,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/Zxh18lV.jpg",
         "costume_id": 2,
-        "originalIndex": 964,
+        "originalIndex": 965,
         "lb1": {
             "power": 787,
             "attack": 937,
@@ -62220,7 +62291,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/uv68SUQ.jpg",
         "costume_id": 3,
-        "originalIndex": 965,
+        "originalIndex": 966,
         "lb1": {
             "power": 800,
             "attack": 914,
@@ -62287,7 +62358,7 @@ window.allHeroes =
         "family": "helheim",
         "image": "https://i.imgur.com/t4qsaZf.jpg",
         "costume_id": 0,
-        "originalIndex": 966,
+        "originalIndex": 967,
         "lb1": {
             "power": 711,
             "attack": 646,
@@ -62353,7 +62424,7 @@ window.allHeroes =
         "family": "ninja",
         "image": "https://i.imgur.com/MtPyEOT.jpg",
         "costume_id": 0,
-        "originalIndex": 967,
+        "originalIndex": 968,
         "lb1": {
             "power": 722,
             "attack": 655,
@@ -62413,7 +62484,7 @@ window.allHeroes =
         "family": "avalon",
         "image": "https://i.imgur.com/zyZ5m0r.jpg",
         "costume_id": 0,
-        "originalIndex": 968,
+        "originalIndex": 969,
         "lb1": {
             "power": 694,
             "attack": 822,
@@ -62474,7 +62545,7 @@ window.allHeroes =
         "family": "sakura",
         "image": "https://i.imgur.com/qnIyV2j.jpg",
         "costume_id": 0,
-        "originalIndex": 969,
+        "originalIndex": 970,
         "lb1": {
             "power": 700,
             "attack": 722,
@@ -62535,7 +62606,7 @@ window.allHeroes =
         "family": "sakura",
         "image": "https://i.imgur.com/kQW2sKb.jpg",
         "costume_id": 1,
-        "originalIndex": 970,
+        "originalIndex": 971,
         "lb1": {
             "power": 722,
             "attack": 705,
@@ -62593,7 +62664,7 @@ window.allHeroes =
         "family": "muspelheim",
         "image": "https://i.imgur.com/yxQi63p.jpg",
         "costume_id": 0,
-        "originalIndex": 971,
+        "originalIndex": 972,
         "lb1": {
             "power": 712,
             "attack": 778,
@@ -62650,7 +62721,7 @@ window.allHeroes =
         "family": "muspelheim",
         "image": "https://i.imgur.com/BBcd7nx.jpg",
         "costume_id": 1,
-        "originalIndex": 972,
+        "originalIndex": 973,
         "lb1": {
             "power": 735,
             "attack": 783,
@@ -62707,7 +62778,7 @@ window.allHeroes =
         "family": "kingdom",
         "image": "https://i.imgur.com/H5PMlvf.jpg",
         "costume_id": 0,
-        "originalIndex": 973,
+        "originalIndex": 974,
         "lb1": {
             "power": 734,
             "attack": 849,
@@ -62772,7 +62843,7 @@ window.allHeroes =
         "family": "gargoyle",
         "image": "https://i.imgur.com/rPeRNSA.jpg",
         "costume_id": 0,
-        "originalIndex": 974,
+        "originalIndex": 975,
         "lb1": {
             "power": 756,
             "attack": 768,
@@ -62839,7 +62910,7 @@ window.allHeroes =
         "family": "lagoon",
         "image": "https://i.imgur.com/EjclF3b.jpg",
         "costume_id": 0,
-        "originalIndex": 975,
+        "originalIndex": 976,
         "lb1": {
             "power": 699,
             "attack": 658,
@@ -62897,7 +62968,7 @@ window.allHeroes =
         "family": "lagoon",
         "image": "https://i.imgur.com/BehrpwT.jpg",
         "costume_id": 1,
-        "originalIndex": 976,
+        "originalIndex": 977,
         "lb1": {
             "power": 722,
             "attack": 712,
@@ -62957,7 +63028,7 @@ window.allHeroes =
         "family": "bard",
         "image": "https://i.imgur.com/GX1p5W9.jpg",
         "costume_id": 0,
-        "originalIndex": 977,
+        "originalIndex": 978,
         "lb1": {
             "power": 735,
             "attack": 715,
@@ -63017,7 +63088,7 @@ window.allHeroes =
         "family": "kingdom",
         "image": "https://i.imgur.com/KiDn1jL.jpg",
         "costume_id": 0,
-        "originalIndex": 978,
+        "originalIndex": 979,
         "lb1": {
             "power": 736,
             "attack": 695,
@@ -63088,7 +63159,7 @@ window.allHeroes =
         "family": "kingdom",
         "image": "https://i.imgur.com/Uiw1osb.jpg",
         "costume_id": 1,
-        "originalIndex": 979,
+        "originalIndex": 980,
         "lb1": {
             "power": 774,
             "attack": 765,
@@ -63161,7 +63232,7 @@ window.allHeroes =
         "family": "investigator",
         "image": "https://i.imgur.com/dHcPPcr.jpg",
         "costume_id": 0,
-        "originalIndex": 980,
+        "originalIndex": 981,
         "lb1": {
             "power": 1212,
             "attack": 1227,
@@ -63241,7 +63312,7 @@ window.allHeroes =
         "family": "nidavellir",
         "image": "https://i.imgur.com/rCRyftg.jpg",
         "costume_id": 0,
-        "originalIndex": 981,
+        "originalIndex": 982,
         "lb1": {
             "power": 1267,
             "attack": 1249,
@@ -63314,7 +63385,7 @@ window.allHeroes =
         "family": "morlovia",
         "image": "https://i.imgur.com/ZDIKUNx.jpg",
         "costume_id": 0,
-        "originalIndex": 982,
+        "originalIndex": 983,
         "lb1": {
             "power": 908,
             "attack": 919,
@@ -63383,7 +63454,7 @@ window.allHeroes =
         "family": "morlovia",
         "image": "https://i.imgur.com/ed8i62p.jpg",
         "costume_id": 1,
-        "originalIndex": 983,
+        "originalIndex": 984,
         "lb1": {
             "power": 1182,
             "attack": 1344,
@@ -63448,7 +63519,7 @@ window.allHeroes =
         "family": "morlovia",
         "image": "https://i.imgur.com/PmKUK6y.jpg",
         "costume_id": 0,
-        "originalIndex": 984,
+        "originalIndex": 985,
         "lb1": {
             "power": 997,
             "attack": 999,
@@ -63517,7 +63588,7 @@ window.allHeroes =
         "family": "beachparty",
         "image": "https://imgur.com/ZWcSNEl.jpg",
         "costume_id": 0,
-        "originalIndex": 985,
+        "originalIndex": 986,
         "lb1": {
             "power": 1280,
             "attack": 1325,
@@ -63578,7 +63649,7 @@ window.allHeroes =
         "family": 2019,
         "image": "https://i.imgur.com/1Kkc15H.jpg",
         "costume_id": 0,
-        "originalIndex": 986,
+        "originalIndex": 987,
         "lb1": {
             "power": 820,
             "attack": 752,
@@ -63635,7 +63706,7 @@ window.allHeroes =
         "family": "maskedgod",
         "image": "https://i.imgur.com/KU4YzVK.jpg",
         "costume_id": 0,
-        "originalIndex": 987,
+        "originalIndex": 988,
         "lb1": {
             "power": 999,
             "attack": 956,
@@ -63703,7 +63774,7 @@ window.allHeroes =
         "family": "woodlandfaun",
         "image": "https://i.imgur.com/52hX4ns.jpg",
         "costume_id": 0,
-        "originalIndex": 988,
+        "originalIndex": 989,
         "lb1": {
             "power": 1224,
             "attack": 1249,
@@ -63769,7 +63840,7 @@ window.allHeroes =
         "family": 2017,
         "image": "https://i.imgur.com/KvZBThZ.jpg",
         "costume_id": 0,
-        "originalIndex": 989,
+        "originalIndex": 990,
         "lb1": {
             "power": 815,
             "attack": 710,
@@ -63835,7 +63906,7 @@ window.allHeroes =
         "family": 2017,
         "image": "https://i.imgur.com/Pf1h54r.jpg",
         "costume_id": 1,
-        "originalIndex": 990,
+        "originalIndex": 991,
         "lb1": {
             "power": 1045,
             "attack": 943,
@@ -63859,6 +63930,95 @@ window.allHeroes =
                 "增益效果": [
                     "Def - Counterattack",
                     "Atk - Attack ↑"
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Ascension Mimic",
+        "fancy_name": "Grinning Cache of Evil",
+        "AetherPower": "Bulwark",
+        "color": "Red",
+        "class": "Rogue",
+        "speed": "Average",
+        "skill": "Gorging Chew",
+        "types": [
+            "Hit 3",
+            "DoT 3",
+            "Mimic Chest"
+        ],
+        "skill_types": [
+            "Healers (Special)",
+            "Minions Counters",
+            "AoE Attackers (Hit-3)",
+            "Mana Raisers",
+            "Immunity Providers",
+            "Ghost Form & Hiding",
+            "Bypassers"
+        ],
+        "source": "Extra Draw - Secret Summon",
+        "Release date": "2025-07-04",
+        "star": 5,
+        "power": 1225,
+        "attack": 1268,
+        "defense": 1268,
+        "health": 2152,
+        "effects": [
+            "Deals 380% damage to the target and nearby enemies.",
+            "If an enemy is defeated by the attack, the caster recovers +50% health and gains +33% mana.",
+            "The target and nearby enemies receive 668 Bleed damage over 4 turns.",
+            "The Mimic chest closes for 2 turns. (The Mimic is immune to damage and new status ailments while closed.)"
+        ],
+        "passives": [
+            "Perfect Accuracy: This character’s Special Skill never misses its targets.",
+            "Mimic Loot: This Mimic gives a chance for extra loot when completing stages",
+            " * Tall Boots",
+            " * Fine Gloves",
+            " * Compass",
+            " * Damascus Blade",
+            " * Tome Of Tactics",
+            " * Arcane Scipt",
+            " * Chainmail Shirt",
+            " * Hidden Blade",
+            " * Mystic Rings"
+        ],
+        "family": "mimic",
+        "image": "https://imgur.com/J3WvDh7.jpg",
+        "costume_id": 0,
+        "originalIndex": 992,
+        "lb1": {
+            "power": 1311,
+            "attack": 1367,
+            "defense": 1367,
+            "health": 2319
+        },
+        "lb2": {
+            "power": 1482,
+            "attack": 1564,
+            "defense": 1564,
+            "health": 2654
+        },
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Area",
+                    "Dmg: DoT"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Heal - Self Recovery",
+                    "Mana - Mana Gain (on Kill)"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Def - Mimic"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Dmg - DoT : Bleed"
                 ]
             }
         ]
@@ -63902,7 +64062,7 @@ window.allHeroes =
         "family": "superelemental",
         "image": "https://i.imgur.com/Vb0jBsm.jpg",
         "costume_id": 0,
-        "originalIndex": 991,
+        "originalIndex": 993,
         "lb1": {
             "power": 1152,
             "attack": 1221,
@@ -63971,7 +64131,7 @@ window.allHeroes =
         "family": "villains",
         "image": "https://i.imgur.com/i9C7vjL.jpg",
         "costume_id": 0,
-        "originalIndex": 992,
+        "originalIndex": 994,
         "lb1": {
             "power": 855,
             "attack": 845,
@@ -64054,7 +64214,7 @@ window.allHeroes =
         "family": "ninja",
         "image": "https://i.imgur.com/ti2OFXj.jpg",
         "costume_id": 0,
-        "originalIndex": 993,
+        "originalIndex": 995,
         "lb1": {
             "power": 1249,
             "attack": 1427,
@@ -64113,7 +64273,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/wAibSFk.jpg",
         "costume_id": 0,
-        "originalIndex": 994,
+        "originalIndex": 996,
         "lb1": {
             "power": 807,
             "attack": 854,
@@ -64173,7 +64333,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/TDGgAGz.jpg",
         "costume_id": 1,
-        "originalIndex": 995,
+        "originalIndex": 997,
         "lb1": {
             "power": 895,
             "attack": 952,
@@ -64237,7 +64397,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/6N4jIyy.jpg",
         "costume_id": 2,
-        "originalIndex": 996,
+        "originalIndex": 998,
         "lb1": {
             "power": 1033,
             "attack": 1115,
@@ -64304,7 +64464,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/yS5bHHw.jpg",
         "costume_id": 3,
-        "originalIndex": 997,
+        "originalIndex": 999,
         "lb1": {
             "power": 1213,
             "attack": 1272,
@@ -64371,7 +64531,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/S5acyh9.jpg",
         "costume_id": 4,
-        "originalIndex": 998,
+        "originalIndex": 1000,
         "lb1": {
             "power": 1329,
             "attack": 1440,
@@ -64440,7 +64600,7 @@ window.allHeroes =
         "family": "muspelheim",
         "image": "https://i.imgur.com/bmdaK3F.jpg",
         "costume_id": 0,
-        "originalIndex": 999,
+        "originalIndex": 1001,
         "lb1": {
             "power": 840,
             "attack": 870,
@@ -64505,7 +64665,7 @@ window.allHeroes =
         "family": "muspelheim",
         "image": "https://i.imgur.com/oTqqeuM.jpg",
         "costume_id": 1,
-        "originalIndex": 1000,
+        "originalIndex": 1002,
         "lb1": {
             "power": 1053,
             "attack": 1064,
@@ -64571,7 +64731,7 @@ window.allHeroes =
         "family": "pets",
         "image": "https://i.imgur.com/X0UJRC3.jpg",
         "costume_id": 0,
-        "originalIndex": 1001,
+        "originalIndex": 1003,
         "lb1": {
             "power": 938,
             "attack": 963,
@@ -64638,7 +64798,7 @@ window.allHeroes =
         "family": "bear",
         "image": "https://i.imgur.com/jsqcXVs.jpg",
         "costume_id": 0,
-        "originalIndex": 1002,
+        "originalIndex": 1004,
         "lb1": {
             "power": 1153,
             "attack": 1090,
@@ -64712,7 +64872,7 @@ window.allHeroes =
         "family": "beowulf",
         "image": "https://i.imgur.com/KcWPSJ3.jpg",
         "costume_id": 0,
-        "originalIndex": 1003,
+        "originalIndex": 1005,
         "lb1": {
             "power": 1267,
             "attack": 1394,
@@ -64786,7 +64946,7 @@ window.allHeroes =
         "family": "mahayoddha",
         "image": "https://imgur.com/4yUfzza.jpg",
         "costume_id": 0,
-        "originalIndex": 1004,
+        "originalIndex": 1006,
         "lb1": {
             "power": 1298,
             "attack": 1389,
@@ -64856,7 +65016,7 @@ window.allHeroes =
         "family": "corellia",
         "image": "https://i.imgur.com/5f8UOBL.jpg",
         "costume_id": 0,
-        "originalIndex": 1005,
+        "originalIndex": 1007,
         "lb1": {
             "power": 1054,
             "attack": 1018,
@@ -64920,7 +65080,7 @@ window.allHeroes =
         "family": "avalon",
         "image": "https://i.imgur.com/6so0gHz.jpg",
         "costume_id": 0,
-        "originalIndex": 1006,
+        "originalIndex": 1008,
         "lb1": {
             "power": 831,
             "attack": 659,
@@ -64977,7 +65137,7 @@ window.allHeroes =
         "family": "avalon",
         "image": "https://i.imgur.com/BH9J6dC.jpg",
         "costume_id": 1,
-        "originalIndex": 1007,
+        "originalIndex": 1009,
         "lb1": {
             "power": 1045,
             "attack": 853,
@@ -65037,7 +65197,7 @@ window.allHeroes =
         "family": "construct",
         "image": "https://i.imgur.com/4805acd.jpg",
         "costume_id": 0,
-        "originalIndex": 1008,
+        "originalIndex": 1010,
         "lb1": {
             "power": 1046,
             "attack": 954,
@@ -65102,7 +65262,7 @@ window.allHeroes =
         "family": "junglehunter",
         "image": "https://i.imgur.com/sBMiou9.jpg",
         "costume_id": 0,
-        "originalIndex": 1009,
+        "originalIndex": 1011,
         "lb1": {
             "power": 953,
             "attack": 983,
@@ -65173,7 +65333,7 @@ window.allHeroes =
         "family": "construct",
         "image": "https://i.imgur.com/HWR83YI.jpg",
         "costume_id": 0,
-        "originalIndex": 1010,
+        "originalIndex": 1012,
         "lb1": {
             "power": 1018,
             "attack": 1012,
@@ -65239,7 +65399,7 @@ window.allHeroes =
         "family": "corellia",
         "image": "https://i.imgur.com/RcRP80T.jpg",
         "costume_id": 0,
-        "originalIndex": 1011,
+        "originalIndex": 1013,
         "lb1": {
             "power": 815,
             "attack": 783,
@@ -65297,7 +65457,7 @@ window.allHeroes =
         "family": "underwild",
         "image": "https://i.imgur.com/lNl4PPg.jpg",
         "costume_id": 0,
-        "originalIndex": 1012,
+        "originalIndex": 1014,
         "lb1": {
             "power": 863,
             "attack": 885,
@@ -65357,7 +65517,7 @@ window.allHeroes =
         "family": "underwild",
         "image": "https://i.imgur.com/UjiSmNx.jpg",
         "costume_id": 1,
-        "originalIndex": 1013,
+        "originalIndex": 1015,
         "lb1": {
             "power": 1094,
             "attack": 1164,
@@ -65421,7 +65581,7 @@ window.allHeroes =
         "family": "musketeer",
         "image": "https://i.imgur.com/fhxShwu.jpg",
         "costume_id": 0,
-        "originalIndex": 1014,
+        "originalIndex": 1016,
         "lb1": {
             "power": 990,
             "attack": 950,
@@ -65484,7 +65644,7 @@ window.allHeroes =
         "family": "maskedgod",
         "image": "https://i.imgur.com/Ud8nASe.jpg",
         "costume_id": 0,
-        "originalIndex": 1015,
+        "originalIndex": 1017,
         "lb1": {
             "power": 1004,
             "attack": 976,
@@ -65554,7 +65714,7 @@ window.allHeroes =
         "family": "astraldwarfs",
         "image": "https://imgur.com/RSa7LWa.jpg",
         "costume_id": 0,
-        "originalIndex": 1016,
+        "originalIndex": 1018,
         "lb1": {
             "power": 1261,
             "attack": 1307,
@@ -65629,7 +65789,7 @@ window.allHeroes =
         "family": "opera",
         "image": "https://i.imgur.com/SZzrHhg.jpg",
         "costume_id": 0,
-        "originalIndex": 1017,
+        "originalIndex": 1019,
         "lb1": {
             "power": 1176,
             "attack": 1243,
@@ -65701,7 +65861,7 @@ window.allHeroes =
         "family": "slime",
         "image": "https://i.imgur.com/4w6oCQ7.jpg",
         "costume_id": 0,
-        "originalIndex": 1018,
+        "originalIndex": 1020,
         "lb1": {
             "power": 1251,
             "attack": 1194,
@@ -65765,7 +65925,7 @@ window.allHeroes =
         "family": "pets",
         "image": "https://i.imgur.com/5iYa63c.jpg",
         "costume_id": 0,
-        "originalIndex": 1019,
+        "originalIndex": 1021,
         "lb1": {
             "power": 935,
             "attack": 916,
@@ -65834,7 +65994,7 @@ window.allHeroes =
         "family": "moth",
         "image": "https://i.imgur.com/APgO5NR.jpg",
         "costume_id": 0,
-        "originalIndex": 1020,
+        "originalIndex": 1022,
         "lb1": {
             "power": 1261,
             "attack": 1247,
@@ -65903,7 +66063,7 @@ window.allHeroes =
         "family": "grimforest",
         "image": "https://i.imgur.com/8MZHUmV.jpg",
         "costume_id": 0,
-        "originalIndex": 1021,
+        "originalIndex": 1023,
         "lb1": {
             "power": 1076,
             "attack": 1112,
@@ -65970,7 +66130,7 @@ window.allHeroes =
         "family": "plainshunter",
         "image": "https://i.imgur.com/BcrdLDo.jpg",
         "costume_id": 0,
-        "originalIndex": 1022,
+        "originalIndex": 1024,
         "lb1": {
             "power": 948,
             "attack": 919,
@@ -66035,7 +66195,7 @@ window.allHeroes =
         "family": "christmas",
         "image": "https://i.imgur.com/n61JoD1.jpg",
         "costume_id": 0,
-        "originalIndex": 1023,
+        "originalIndex": 1025,
         "lb1": {
             "power": 1014,
             "attack": 987,
@@ -66098,7 +66258,7 @@ window.allHeroes =
         "family": "cupid",
         "image": "https://i.imgur.com/4hhCXCA.jpg",
         "costume_id": 0,
-        "originalIndex": 1024,
+        "originalIndex": 1026,
         "lb1": {
             "power": 920,
             "attack": 910,
@@ -66160,7 +66320,7 @@ window.allHeroes =
         "family": "musketeer",
         "image": "https://i.imgur.com/cwvEsxY.jpg",
         "costume_id": 0,
-        "originalIndex": 1025,
+        "originalIndex": 1027,
         "lb1": {
             "power": 937,
             "attack": 934,
@@ -66227,7 +66387,7 @@ window.allHeroes =
         "family": "stag",
         "image": "https://i.imgur.com/uaxeVEQ.jpg",
         "costume_id": 0,
-        "originalIndex": 1026,
+        "originalIndex": 1028,
         "lb1": {
             "power": 1097,
             "attack": 1187,
@@ -66299,7 +66459,7 @@ window.allHeroes =
         "family": "garrisonguard",
         "image": "https://i.imgur.com/z5rjaIR.jpg",
         "costume_id": 0,
-        "originalIndex": 1027,
+        "originalIndex": 1029,
         "lb1": {
             "power": 1199,
             "attack": 1265,
@@ -66376,7 +66536,7 @@ window.allHeroes =
         "family": "nightmaresofatlantis",
         "image": "https://i.imgur.com/kgTv3pm.jpg",
         "costume_id": 0,
-        "originalIndex": 1028,
+        "originalIndex": 1030,
         "lb1": {
             "power": 1067,
             "attack": 1061,
@@ -66449,7 +66609,7 @@ window.allHeroes =
         "family": "nightmaresofatlantis",
         "image": "https://i.imgur.com/Bwbja0V.jpg",
         "costume_id": 1,
-        "originalIndex": 1029,
+        "originalIndex": 1031,
         "lb1": {
             "power": 1332,
             "attack": 1326,
@@ -66516,7 +66676,7 @@ window.allHeroes =
         "family": "superelemental",
         "image": "https://i.imgur.com/aM5vSU2.jpg",
         "costume_id": 0,
-        "originalIndex": 1030,
+        "originalIndex": 1032,
         "lb1": {
             "power": 967,
             "attack": 956,
@@ -66588,7 +66748,7 @@ window.allHeroes =
         "family": "bard",
         "image": "https://imgur.com/Yf46q7H.jpg",
         "costume_id": 0,
-        "originalIndex": 1031,
+        "originalIndex": 1033,
         "lb1": {
             "power": 1296,
             "attack": 1312,
@@ -66667,7 +66827,7 @@ window.allHeroes =
         "family": "plainshunter",
         "image": "https://i.imgur.com/TiOunHw.jpg",
         "costume_id": 0,
-        "originalIndex": 1032,
+        "originalIndex": 1034,
         "lb1": {
             "power": 947,
             "attack": 914,
@@ -66734,7 +66894,7 @@ window.allHeroes =
         "family": "gargoyle",
         "image": "https://i.imgur.com/37akyr2.jpg",
         "costume_id": 0,
-        "originalIndex": 1033,
+        "originalIndex": 1035,
         "lb1": {
             "power": 898,
             "attack": 896,
@@ -66796,7 +66956,7 @@ window.allHeroes =
         "family": "cupid",
         "image": "https://i.imgur.com/H1vwtsQ.jpg",
         "costume_id": 0,
-        "originalIndex": 1034,
+        "originalIndex": 1036,
         "lb1": {
             "power": 1032,
             "attack": 1065,
@@ -66854,7 +67014,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/DJkMDg0.jpg",
         "costume_id": 0,
-        "originalIndex": 1035,
+        "originalIndex": 1037,
         "lb1": {
             "power": 803,
             "attack": 872,
@@ -66911,7 +67071,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/rs8S0na.jpg",
         "costume_id": 1,
-        "originalIndex": 1036,
+        "originalIndex": 1038,
         "lb1": {
             "power": 890,
             "attack": 980,
@@ -66968,7 +67128,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/mKIsd5g.jpg",
         "costume_id": 2,
-        "originalIndex": 1037,
+        "originalIndex": 1039,
         "lb1": {
             "power": 1030,
             "attack": 995,
@@ -67029,7 +67189,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/6Zu6Ag7.jpg",
         "costume_id": 3,
-        "originalIndex": 1038,
+        "originalIndex": 1040,
         "lb1": {
             "power": 1207,
             "attack": 1100,
@@ -67096,7 +67256,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://imgur.com/ttrlvih.jpg",
         "costume_id": 4,
-        "originalIndex": 1039,
+        "originalIndex": 1041,
         "lb1": {
             "power": 1319,
             "attack": 1529,
@@ -67166,7 +67326,7 @@ window.allHeroes =
         "family": 2025,
         "image": "https://i.imgur.com/MByoToE.jpg",
         "costume_id": 0,
-        "originalIndex": 1040,
+        "originalIndex": 1042,
         "lb1": {
             "power": 1151,
             "attack": 1201,
@@ -67236,7 +67396,7 @@ window.allHeroes =
         "family": "underwild",
         "image": "https://i.imgur.com/5redygr.jpg",
         "costume_id": 0,
-        "originalIndex": 1041,
+        "originalIndex": 1043,
         "lb1": {
             "power": 861,
             "attack": 828,
@@ -67308,7 +67468,7 @@ window.allHeroes =
         "family": "underwild",
         "image": "https://i.imgur.com/aGoeueo.jpg",
         "costume_id": 1,
-        "originalIndex": 1042,
+        "originalIndex": 1044,
         "lb1": {
             "power": 1091,
             "attack": 1095,
@@ -67378,7 +67538,7 @@ window.allHeroes =
         "family": "fox",
         "image": "https://imgur.com/dTQNPFE.jpg",
         "costume_id": 0,
-        "originalIndex": 1043,
+        "originalIndex": 1045,
         "lb1": {
             "power": 1261,
             "attack": 1358,
@@ -67452,7 +67612,7 @@ window.allHeroes =
         "family": "starfall",
         "image": "https://i.imgur.com/iAnFGWC.jpg",
         "costume_id": 0,
-        "originalIndex": 1044,
+        "originalIndex": 1046,
         "lb1": {
             "power": 863,
             "attack": 810,
@@ -67532,7 +67692,7 @@ window.allHeroes =
         "family": "starfall",
         "image": "https://imgur.com/Jiz6BXT.jpg",
         "costume_id": 1,
-        "originalIndex": 1045,
+        "originalIndex": 1047,
         "lb1": {
             "power": 1295,
             "attack": 1334,
@@ -67614,7 +67774,7 @@ window.allHeroes =
         "family": "styx",
         "image": "https://i.imgur.com/gnNXm6f.jpg",
         "costume_id": 0,
-        "originalIndex": 1046,
+        "originalIndex": 1048,
         "lb1": {
             "power": 915,
             "attack": 896,
@@ -67681,7 +67841,7 @@ window.allHeroes =
         "family": "owl",
         "image": "https://i.imgur.com/THCrCkN.jpg",
         "costume_id": 0,
-        "originalIndex": 1047,
+        "originalIndex": 1049,
         "lb1": {
             "power": 1119,
             "attack": 1192,
@@ -67760,7 +67920,7 @@ window.allHeroes =
         "family": "mimic",
         "image": "https://imgur.com/RRFijVL.jpg",
         "costume_id": 0,
-        "originalIndex": 1048,
+        "originalIndex": 1050,
         "lb1": {
             "power": 1284,
             "attack": 1332,
@@ -67838,7 +67998,7 @@ window.allHeroes =
         "family": "myrkheim",
         "image": "https://imgur.com/TXnhxAk.jpg",
         "costume_id": 0,
-        "originalIndex": 1049,
+        "originalIndex": 1051,
         "lb1": {
             "power": 1306,
             "attack": 1351,
@@ -67913,7 +68073,7 @@ window.allHeroes =
         "family": "garrisonguard",
         "image": "https://imgur.com/6fcJPYy.jpg",
         "costume_id": 0,
-        "originalIndex": 1050,
+        "originalIndex": 1052,
         "lb1": {
             "power": 1255,
             "attack": 1294,
@@ -67982,7 +68142,7 @@ window.allHeroes =
         "family": "beachparty",
         "image": "https://i.imgur.com/VLECZaD.jpg",
         "costume_id": 0,
-        "originalIndex": 1051,
+        "originalIndex": 1053,
         "lb1": {
             "power": 932,
             "attack": 899,
@@ -68050,7 +68210,7 @@ window.allHeroes =
         "family": "beachparty",
         "image": "https://imgur.com/r5YqJOC.jpg",
         "costume_id": 1,
-        "originalIndex": 1052,
+        "originalIndex": 1054,
         "lb1": {
             "power": 1267,
             "attack": 1230,
@@ -68118,7 +68278,7 @@ window.allHeroes =
         "family": "owl",
         "image": "https://i.imgur.com/Z2G4Lwa.jpg",
         "costume_id": 0,
-        "originalIndex": 1053,
+        "originalIndex": 1055,
         "lb1": {
             "power": 1052,
             "attack": 1112,
@@ -68189,7 +68349,7 @@ window.allHeroes =
         "family": "ninja",
         "image": "https://i.imgur.com/Vxe7UpD.jpg",
         "costume_id": 0,
-        "originalIndex": 1054,
+        "originalIndex": 1056,
         "lb1": {
             "power": 851,
             "attack": 788,
@@ -68246,7 +68406,7 @@ window.allHeroes =
         "family": "muspelheim",
         "image": "https://i.imgur.com/BYGrEEN.jpg",
         "costume_id": 0,
-        "originalIndex": 1055,
+        "originalIndex": 1057,
         "lb1": {
             "power": 837,
             "attack": 832,
@@ -68303,7 +68463,7 @@ window.allHeroes =
         "family": "muspelheim",
         "image": "https://i.imgur.com/ZoOkEJb.jpg",
         "costume_id": 1,
-        "originalIndex": 1056,
+        "originalIndex": 1058,
         "lb1": {
             "power": 1049,
             "attack": 1044,
@@ -68376,7 +68536,7 @@ window.allHeroes =
         "family": "nightmaresofatlantis",
         "image": "https://i.imgur.com/vMt41XY.jpg",
         "costume_id": 0,
-        "originalIndex": 1057,
+        "originalIndex": 1059,
         "lb1": {
             "power": 1021,
             "attack": 967,
@@ -68456,7 +68616,7 @@ window.allHeroes =
         "family": "nightmaresofatlantis",
         "image": "https://i.imgur.com/WnfoNeZ.jpg",
         "costume_id": 1,
-        "originalIndex": 1058,
+        "originalIndex": 1060,
         "lb1": {
             "power": 1022,
             "attack": 1023,
@@ -68526,7 +68686,7 @@ window.allHeroes =
         "family": "slime",
         "image": "https://imgur.com/GSjZbQW.jpg",
         "costume_id": 0,
-        "originalIndex": 1059,
+        "originalIndex": 1061,
         "lb1": {
             "power": 1277,
             "attack": 1227,
@@ -68593,7 +68753,7 @@ window.allHeroes =
         "family": 2018,
         "image": "https://i.imgur.com/pPTSbFy.jpg",
         "costume_id": 0,
-        "originalIndex": 1060,
+        "originalIndex": 1062,
         "lb1": {
             "power": 818,
             "attack": 783,
@@ -68661,7 +68821,7 @@ window.allHeroes =
         "family": 2018,
         "image": "https://i.imgur.com/qMb0Vgk.jpg",
         "costume_id": 1,
-        "originalIndex": 1061,
+        "originalIndex": 1063,
         "lb1": {
             "power": 1047,
             "attack": 994,
@@ -68727,7 +68887,7 @@ window.allHeroes =
         "family": 2019,
         "image": "https://i.imgur.com/URTQAvF.jpg",
         "costume_id": 0,
-        "originalIndex": 1062,
+        "originalIndex": 1064,
         "lb1": {
             "power": 821,
             "attack": 677,
@@ -68787,7 +68947,7 @@ window.allHeroes =
         "family": "guardiansteltoc",
         "image": "https://i.imgur.com/4n0L387.jpg",
         "costume_id": 0,
-        "originalIndex": 1063,
+        "originalIndex": 1065,
         "lb1": {
             "power": 815,
             "attack": 848,
@@ -68853,7 +69013,7 @@ window.allHeroes =
         "family": "guardiansteltoc",
         "image": "https://i.imgur.com/cXwWGpL.jpg",
         "costume_id": 1,
-        "originalIndex": 1064,
+        "originalIndex": 1066,
         "lb1": {
             "power": 1025,
             "attack": 1084,
@@ -68920,7 +69080,7 @@ window.allHeroes =
         "family": "gargoyle",
         "image": "https://i.imgur.com/i3PGL4o.jpg",
         "costume_id": 0,
-        "originalIndex": 1065,
+        "originalIndex": 1067,
         "lb1": {
             "power": 1155,
             "attack": 1061,
@@ -68987,7 +69147,7 @@ window.allHeroes =
         "family": "astralelves",
         "image": "https://i.imgur.com/ujdL1Bx.jpg",
         "costume_id": 0,
-        "originalIndex": 1066,
+        "originalIndex": 1068,
         "lb1": {
             "power": 1083,
             "attack": 1107,
@@ -69054,7 +69214,7 @@ window.allHeroes =
         "family": "moon",
         "image": "https://i.imgur.com/sV7BVbk.jpg",
         "costume_id": 0,
-        "originalIndex": 1067,
+        "originalIndex": 1069,
         "lb1": {
             "power": 900,
             "attack": 834,
@@ -69119,7 +69279,7 @@ window.allHeroes =
         "family": "moon",
         "image": "https://i.imgur.com/blidD7L.jpg",
         "costume_id": 1,
-        "originalIndex": 1068,
+        "originalIndex": 1070,
         "lb1": {
             "power": 1220,
             "attack": 1170,
@@ -69184,7 +69344,7 @@ window.allHeroes =
         "family": "gargoyle",
         "image": "https://i.imgur.com/mNDZ6lN.jpg",
         "costume_id": 0,
-        "originalIndex": 1069,
+        "originalIndex": 1071,
         "lb1": {
             "power": 897,
             "attack": 868,
@@ -69256,7 +69416,7 @@ window.allHeroes =
         "family": "construct",
         "image": "https://i.imgur.com/ScWEXwn.jpg",
         "costume_id": 0,
-        "originalIndex": 1070,
+        "originalIndex": 1072,
         "lb1": {
             "power": 1128,
             "attack": 1101,
@@ -69329,7 +69489,7 @@ window.allHeroes =
         "family": "styx",
         "image": "https://i.imgur.com/HPFyboz.jpg",
         "costume_id": 0,
-        "originalIndex": 1071,
+        "originalIndex": 1073,
         "lb1": {
             "power": 906,
             "attack": 912,
@@ -69397,7 +69557,7 @@ window.allHeroes =
         "family": "garrisonguard",
         "image": "https://imgur.com/ruIGzTu.jpg",
         "costume_id": 0,
-        "originalIndex": 1072,
+        "originalIndex": 1074,
         "lb1": {
             "power": 1259,
             "attack": 1294,
@@ -69471,7 +69631,7 @@ window.allHeroes =
         "family": "superelemental",
         "image": "https://i.imgur.com/y6oi4Yq.jpg",
         "costume_id": 0,
-        "originalIndex": 1073,
+        "originalIndex": 1075,
         "lb1": {
             "power": 1018,
             "attack": 956,
@@ -69546,7 +69706,7 @@ window.allHeroes =
         "family": "superelemental",
         "image": "https://imgur.com/jf9JtOu.jpg",
         "costume_id": 1,
-        "originalIndex": 1074,
+        "originalIndex": 1076,
         "lb1": {
             "power": 1325,
             "attack": 1266,
@@ -69614,7 +69774,7 @@ window.allHeroes =
         "family": "kalevala",
         "image": "https://i.imgur.com/WriV7pU.jpg",
         "costume_id": 0,
-        "originalIndex": 1075,
+        "originalIndex": 1077,
         "lb1": {
             "power": 1001,
             "attack": 930,
@@ -69683,7 +69843,7 @@ window.allHeroes =
         "family": "garrisonguard",
         "image": "https://i.imgur.com/mk7552K.jpg",
         "costume_id": 0,
-        "originalIndex": 1076,
+        "originalIndex": 1078,
         "lb1": {
             "power": 1178,
             "attack": 1260,
@@ -69750,7 +69910,7 @@ window.allHeroes =
         "family": "woodlandfaun",
         "image": "https://i.imgur.com/sj8AKxx.jpg",
         "costume_id": 0,
-        "originalIndex": 1077,
+        "originalIndex": 1079,
         "lb1": {
             "power": 1235,
             "attack": 1276,
@@ -69811,7 +69971,7 @@ window.allHeroes =
         "family": "villains",
         "image": "https://i.imgur.com/LVoPJQp.jpg",
         "costume_id": 0,
-        "originalIndex": 1078,
+        "originalIndex": 1080,
         "lb1": {
             "power": 857,
             "attack": 816,
@@ -69874,7 +70034,7 @@ window.allHeroes =
         "family": 2020,
         "image": "https://i.imgur.com/Fq9orae.jpg",
         "costume_id": 0,
-        "originalIndex": 1079,
+        "originalIndex": 1081,
         "lb1": {
             "power": 822,
             "attack": 794,
@@ -69941,7 +70101,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/Qk5TZ17.jpg",
         "costume_id": 0,
-        "originalIndex": 1080,
+        "originalIndex": 1082,
         "lb1": {
             "power": 806,
             "attack": 765,
@@ -70002,7 +70162,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/Wuav96d.jpg",
         "costume_id": 1,
-        "originalIndex": 1081,
+        "originalIndex": 1083,
         "lb1": {
             "power": 895,
             "attack": 882,
@@ -70063,7 +70223,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/Az13Jne.jpg",
         "costume_id": 2,
-        "originalIndex": 1082,
+        "originalIndex": 1084,
         "lb1": {
             "power": 1035,
             "attack": 1002,
@@ -70128,7 +70288,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/tV5jaYy.jpg",
         "costume_id": 3,
-        "originalIndex": 1083,
+        "originalIndex": 1085,
         "lb1": {
             "power": 1215,
             "attack": 1244,
@@ -70199,7 +70359,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://imgur.com/gv5Agq9.jpg",
         "costume_id": 4,
-        "originalIndex": 1084,
+        "originalIndex": 1086,
         "lb1": {
             "power": 1329,
             "attack": 1414,
@@ -70269,7 +70429,7 @@ window.allHeroes =
         "family": "sun",
         "image": "https://i.imgur.com/waF0HXl.jpg",
         "costume_id": 0,
-        "originalIndex": 1085,
+        "originalIndex": 1087,
         "lb1": {
             "power": 915,
             "attack": 883,
@@ -70339,7 +70499,7 @@ window.allHeroes =
         "family": "sun",
         "image": "https://i.imgur.com/5tsbayA.jpg",
         "costume_id": 1,
-        "originalIndex": 1086,
+        "originalIndex": 1088,
         "lb1": {
             "power": 1243,
             "attack": 1288,
@@ -70404,7 +70564,7 @@ window.allHeroes =
         "family": "underwild",
         "image": "https://i.imgur.com/xMJYpsy.jpg",
         "costume_id": 0,
-        "originalIndex": 1087,
+        "originalIndex": 1089,
         "lb1": {
             "power": 868,
             "attack": 848,
@@ -70465,7 +70625,7 @@ window.allHeroes =
         "family": "underwild",
         "image": "https://i.imgur.com/m5PtQ2l.jpg",
         "costume_id": 1,
-        "originalIndex": 1088,
+        "originalIndex": 1090,
         "lb1": {
             "power": 1102,
             "attack": 1098,
@@ -70524,7 +70684,7 @@ window.allHeroes =
         "family": "helheim",
         "image": "https://i.imgur.com/NzRPKjE.jpg",
         "costume_id": 0,
-        "originalIndex": 1089,
+        "originalIndex": 1091,
         "lb1": {
             "power": 839,
             "attack": 805,
@@ -70584,7 +70744,7 @@ window.allHeroes =
         "family": "helheim",
         "image": "https://i.imgur.com/R89Eh1b.jpg",
         "costume_id": 1,
-        "originalIndex": 1090,
+        "originalIndex": 1092,
         "lb1": {
             "power": 1053,
             "attack": 945,
@@ -70657,7 +70817,7 @@ window.allHeroes =
         "family": "defendersofatlantis",
         "image": "https://i.imgur.com/bpyUqBe.jpg",
         "costume_id": 0,
-        "originalIndex": 1091,
+        "originalIndex": 1093,
         "lb1": {
             "power": 998,
             "attack": 1072,
@@ -70729,7 +70889,7 @@ window.allHeroes =
         "family": "defendersofatlantis",
         "image": "https://imgur.com/SU2agg6.jpg",
         "costume_id": 1,
-        "originalIndex": 1092,
+        "originalIndex": 1094,
         "lb1": {
             "power": 1329,
             "attack": 1417,
@@ -70787,7 +70947,7 @@ window.allHeroes =
         "family": "raven",
         "image": "https://i.imgur.com/gUcWHX0.jpg",
         "costume_id": 0,
-        "originalIndex": 1093,
+        "originalIndex": 1095,
         "lb1": {
             "power": 877,
             "attack": 856,
@@ -70858,7 +71018,7 @@ window.allHeroes =
         "family": "outlaws",
         "image": "https://imgur.com/lLZBxt1.jpg",
         "costume_id": 0,
-        "originalIndex": 1094,
+        "originalIndex": 1096,
         "lb1": {
             "power": 1287,
             "attack": 1245,
@@ -70922,7 +71082,7 @@ window.allHeroes =
         "family": "owl",
         "image": "https://i.imgur.com/SHNhyqR.jpg",
         "costume_id": 0,
-        "originalIndex": 1095,
+        "originalIndex": 1097,
         "lb1": {
             "power": 1072,
             "attack": 1123,
@@ -71000,7 +71160,7 @@ window.allHeroes =
         "family": "goblin",
         "image": "https://i.imgur.com/dPF8ESH.jpg",
         "costume_id": 0,
-        "originalIndex": 1096,
+        "originalIndex": 1098,
         "lb1": {
             "power": 1014,
             "attack": 1012,
@@ -71084,7 +71244,7 @@ window.allHeroes =
         "family": "ninja",
         "image": "https://i.imgur.com/bcCvi3b.jpg",
         "costume_id": 0,
-        "originalIndex": 1097,
+        "originalIndex": 1099,
         "lb1": {
             "power": 1178,
             "attack": 1411,
@@ -71148,7 +71308,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/H8u69R9.jpg",
         "costume_id": 0,
-        "originalIndex": 1098,
+        "originalIndex": 1100,
         "lb1": {
             "power": 804,
             "attack": 721,
@@ -71208,7 +71368,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/E1sWcp1.jpg",
         "costume_id": 1,
-        "originalIndex": 1099,
+        "originalIndex": 1101,
         "lb1": {
             "power": 892,
             "attack": 874,
@@ -71269,7 +71429,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/onSikNW.jpg",
         "costume_id": 2,
-        "originalIndex": 1100,
+        "originalIndex": 1102,
         "lb1": {
             "power": 1031,
             "attack": 998,
@@ -71331,7 +71491,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/CuDeIo0.jpg",
         "costume_id": 3,
-        "originalIndex": 1101,
+        "originalIndex": 1103,
         "lb1": {
             "power": 1211,
             "attack": 1165,
@@ -71398,7 +71558,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/wWSeZW9.jpg",
         "costume_id": 4,
-        "originalIndex": 1102,
+        "originalIndex": 1104,
         "lb1": {
             "power": 1324,
             "attack": 1414,
@@ -71464,7 +71624,7 @@ window.allHeroes =
         "family": "sakura",
         "image": "https://i.imgur.com/xMxFVwW.jpg",
         "costume_id": 0,
-        "originalIndex": 1103,
+        "originalIndex": 1105,
         "lb1": {
             "power": 825,
             "attack": 750,
@@ -71530,7 +71690,7 @@ window.allHeroes =
         "family": "sakura",
         "image": "https://i.imgur.com/8AHvvyw.jpg",
         "costume_id": 1,
-        "originalIndex": 1104,
+        "originalIndex": 1106,
         "lb1": {
             "power": 1011,
             "attack": 965,
@@ -71607,7 +71767,7 @@ window.allHeroes =
         "family": "magic",
         "image": "https://i.imgur.com/i5g8Fr0.jpg",
         "costume_id": 0,
-        "originalIndex": 1105,
+        "originalIndex": 1107,
         "lb1": {
             "power": 872,
             "attack": 836,
@@ -71690,7 +71850,7 @@ window.allHeroes =
         "family": "magic",
         "image": "https://imgur.com/bdS7gtT.jpg",
         "costume_id": 1,
-        "originalIndex": 1106,
+        "originalIndex": 1108,
         "lb1": {
             "power": 1300,
             "attack": 1340,
@@ -71766,7 +71926,7 @@ window.allHeroes =
         "family": "magiccarpet",
         "image": "https://imgur.com/F7qBR0P.jpg",
         "costume_id": 0,
-        "originalIndex": 1107,
+        "originalIndex": 1109,
         "lb1": {
             "power": 1285,
             "attack": 1316,
@@ -71838,7 +71998,7 @@ window.allHeroes =
         "family": 2018,
         "image": "https://i.imgur.com/vuOEJDC.jpg",
         "costume_id": 0,
-        "originalIndex": 1108,
+        "originalIndex": 1110,
         "lb1": {
             "power": 815,
             "attack": 774,
@@ -71908,7 +72068,7 @@ window.allHeroes =
         "family": 2018,
         "image": "https://i.imgur.com/IO9WHYd.jpg",
         "costume_id": 1,
-        "originalIndex": 1109,
+        "originalIndex": 1111,
         "lb1": {
             "power": 1044,
             "attack": 1008,
@@ -71981,7 +72141,7 @@ window.allHeroes =
         "family": 2023,
         "image": "https://i.imgur.com/hih0AUp.jpg",
         "costume_id": 0,
-        "originalIndex": 1110,
+        "originalIndex": 1112,
         "lb1": {
             "power": 951,
             "attack": 888,
@@ -72049,7 +72209,7 @@ window.allHeroes =
         "family": "fox",
         "image": "https://imgur.com/i6CnqeB.jpg",
         "costume_id": 0,
-        "originalIndex": 1111,
+        "originalIndex": 1113,
         "lb1": {
             "power": 1269,
             "attack": 1325,
@@ -72115,7 +72275,7 @@ window.allHeroes =
         "family": "superelemental",
         "image": "https://i.imgur.com/yN68oIc.jpg",
         "costume_id": 0,
-        "originalIndex": 1112,
+        "originalIndex": 1114,
         "lb1": {
             "power": 1079,
             "attack": 1043,
@@ -72189,7 +72349,7 @@ window.allHeroes =
         "family": "ninja",
         "image": "https://i.imgur.com/k0TDdBr.jpg",
         "costume_id": 0,
-        "originalIndex": 1113,
+        "originalIndex": 1115,
         "lb1": {
             "power": 1168,
             "attack": 1345,
@@ -72259,7 +72419,7 @@ window.allHeroes =
         "family": 2020,
         "image": "https://i.imgur.com/GEznO1b.jpg",
         "costume_id": 0,
-        "originalIndex": 1114,
+        "originalIndex": 1116,
         "lb1": {
             "power": 825,
             "attack": 759,
@@ -72323,7 +72483,7 @@ window.allHeroes =
         "family": "champions",
         "image": "https://i.imgur.com/xFLIwuu.jpg",
         "costume_id": 0,
-        "originalIndex": 1115,
+        "originalIndex": 1117,
         "lb1": {
             "power": 1061,
             "attack": 1092,
@@ -72384,7 +72544,7 @@ window.allHeroes =
         "family": "atlantis",
         "image": "https://i.imgur.com/BZVWKzM.jpg",
         "costume_id": 0,
-        "originalIndex": 1116,
+        "originalIndex": 1118,
         "lb1": {
             "power": 891,
             "attack": 952,
@@ -72446,7 +72606,7 @@ window.allHeroes =
         "family": "underwild",
         "image": "https://i.imgur.com/zGSnaa1.jpg",
         "costume_id": 0,
-        "originalIndex": 1117,
+        "originalIndex": 1119,
         "lb1": {
             "power": 864,
             "attack": 821,
@@ -72514,7 +72674,7 @@ window.allHeroes =
         "family": "underwild",
         "image": "https://i.imgur.com/uAzDRXt.jpg",
         "costume_id": 1,
-        "originalIndex": 1118,
+        "originalIndex": 1120,
         "lb1": {
             "power": 1098,
             "attack": 1142,
@@ -72585,7 +72745,7 @@ window.allHeroes =
         "family": "cultist",
         "image": "https://i.imgur.com/lX6ylxv.jpg",
         "costume_id": 0,
-        "originalIndex": 1119,
+        "originalIndex": 1121,
         "lb1": {
             "power": 1206,
             "attack": 1267,
@@ -72654,7 +72814,7 @@ window.allHeroes =
         "family": "abysshunter",
         "image": "https://i.imgur.com/z2xqRCU.jpg",
         "costume_id": 0,
-        "originalIndex": 1120,
+        "originalIndex": 1122,
         "lb1": {
             "power": 947,
             "attack": 927,
@@ -72719,7 +72879,7 @@ window.allHeroes =
         "family": "christmas",
         "image": "https://i.imgur.com/Y8kn5Mx.jpg",
         "costume_id": 0,
-        "originalIndex": 1121,
+        "originalIndex": 1123,
         "lb1": {
             "power": 1202,
             "attack": 1256,
@@ -72785,7 +72945,7 @@ window.allHeroes =
         "family": "goblin",
         "image": "https://i.imgur.com/O681MYE.jpg",
         "costume_id": 0,
-        "originalIndex": 1122,
+        "originalIndex": 1124,
         "lb1": {
             "power": 1057,
             "attack": 1132,
@@ -72860,7 +73020,7 @@ window.allHeroes =
         "family": "bard",
         "image": "https://i.imgur.com/LzmbqjK.jpg",
         "costume_id": 0,
-        "originalIndex": 1123,
+        "originalIndex": 1125,
         "lb1": {
             "power": 927,
             "attack": 883,
@@ -72932,7 +73092,7 @@ window.allHeroes =
         "family": "astraldwarfs",
         "image": "https://i.imgur.com/OSAvxSD.jpg",
         "costume_id": 0,
-        "originalIndex": 1124,
+        "originalIndex": 1126,
         "lb1": {
             "power": 1253,
             "attack": 1343,
@@ -72999,7 +73159,7 @@ window.allHeroes =
         "family": "grimforest",
         "image": "https://i.imgur.com/H73nb1h.jpg",
         "costume_id": 0,
-        "originalIndex": 1125,
+        "originalIndex": 1127,
         "lb1": {
             "power": 832,
             "attack": 823,
@@ -73066,7 +73226,7 @@ window.allHeroes =
         "family": "grimforest",
         "image": "https://i.imgur.com/emXl6nU.jpg",
         "costume_id": 1,
-        "originalIndex": 1126,
+        "originalIndex": 1128,
         "lb1": {
             "power": 1044,
             "attack": 1149,
@@ -73133,7 +73293,7 @@ window.allHeroes =
         "family": "wonderland",
         "image": "https://i.imgur.com/12RLqSK.jpg",
         "costume_id": 0,
-        "originalIndex": 1127,
+        "originalIndex": 1129,
         "lb1": {
             "power": 819,
             "attack": 688,
@@ -73203,7 +73363,7 @@ window.allHeroes =
         "family": "wonderland",
         "image": "https://i.imgur.com/q5xoHJ1.jpg",
         "costume_id": 1,
-        "originalIndex": 1128,
+        "originalIndex": 1130,
         "lb1": {
             "power": 1031,
             "attack": 805,
@@ -73285,7 +73445,7 @@ window.allHeroes =
         "family": "wildcat",
         "image": "https://i.imgur.com/8rK2qLv.jpg",
         "costume_id": 0,
-        "originalIndex": 1129,
+        "originalIndex": 1131,
         "lb1": {
             "power": 1299,
             "attack": 1423,
@@ -73354,7 +73514,7 @@ window.allHeroes =
         "family": "cultist",
         "image": "https://i.imgur.com/WJH09pj.jpg",
         "costume_id": 0,
-        "originalIndex": 1130,
+        "originalIndex": 1132,
         "lb1": {
             "power": 1220,
             "attack": 1298,
@@ -73435,7 +73595,7 @@ window.allHeroes =
         "family": "magic",
         "image": "https://i.imgur.com/0vSBWSh.jpg",
         "costume_id": 0,
-        "originalIndex": 1131,
+        "originalIndex": 1133,
         "lb1": {
             "power": 950,
             "attack": 934,
@@ -73502,7 +73662,7 @@ window.allHeroes =
         "family": "grimforest",
         "image": "https://i.imgur.com/P4he1aZ.jpg",
         "costume_id": 0,
-        "originalIndex": 1132,
+        "originalIndex": 1134,
         "lb1": {
             "power": 818,
             "attack": 785,
@@ -73579,7 +73739,7 @@ window.allHeroes =
         "family": "nidavellir",
         "image": "https://i.imgur.com/IX7uDP5.jpg",
         "costume_id": 0,
-        "originalIndex": 1133,
+        "originalIndex": 1135,
         "lb1": {
             "power": 1247,
             "attack": 1276,
@@ -73651,7 +73811,7 @@ window.allHeroes =
         "family": 2020,
         "image": "https://i.imgur.com/0xyk3F5.jpg",
         "costume_id": 0,
-        "originalIndex": 1134,
+        "originalIndex": 1136,
         "lb1": {
             "power": 834,
             "attack": 825,
@@ -73716,7 +73876,7 @@ window.allHeroes =
         "family": "plainshunter",
         "image": "https://i.imgur.com/Uu7gHck.jpg",
         "costume_id": 0,
-        "originalIndex": 1135,
+        "originalIndex": 1137,
         "lb1": {
             "power": 1223,
             "attack": 1212,
@@ -73785,7 +73945,7 @@ window.allHeroes =
         "family": "goblin",
         "image": "https://i.imgur.com/BGl8jIC.jpg",
         "costume_id": 0,
-        "originalIndex": 1136,
+        "originalIndex": 1138,
         "lb1": {
             "power": 1090,
             "attack": 1156,
@@ -73853,7 +74013,7 @@ window.allHeroes =
         "family": "investigator",
         "image": "https://imgur.com/nHDvy8i.jpg",
         "costume_id": 0,
-        "originalIndex": 1137,
+        "originalIndex": 1139,
         "lb1": {
             "power": 1265,
             "attack": 1329,
@@ -73924,7 +74084,7 @@ window.allHeroes =
         "family": 2023,
         "image": "https://i.imgur.com/zCcV9K1.jpg",
         "costume_id": 0,
-        "originalIndex": 1138,
+        "originalIndex": 1140,
         "lb1": {
             "power": 873,
             "attack": 872,
@@ -74000,7 +74160,7 @@ window.allHeroes =
         "family": "plainshunter",
         "image": "https://i.imgur.com/O01zlXm.jpg",
         "costume_id": 0,
-        "originalIndex": 1139,
+        "originalIndex": 1141,
         "lb1": {
             "power": 1206,
             "attack": 1174,
@@ -74081,7 +74241,7 @@ window.allHeroes =
         "family": "ninja",
         "image": "https://i.imgur.com/LIQiSIc.jpg",
         "costume_id": 0,
-        "originalIndex": 1140,
+        "originalIndex": 1142,
         "lb1": {
             "power": 872,
             "attack": 883,
@@ -74150,7 +74310,7 @@ window.allHeroes =
         "family": 2021,
         "image": "https://i.imgur.com/EoY0Pni.jpg",
         "costume_id": 0,
-        "originalIndex": 1141,
+        "originalIndex": 1143,
         "lb1": {
             "power": 847,
             "attack": 856,
@@ -74221,7 +74381,7 @@ window.allHeroes =
         "family": "fox",
         "image": "https://i.imgur.com/4i0UTeY.jpg",
         "costume_id": 0,
-        "originalIndex": 1142,
+        "originalIndex": 1144,
         "lb1": {
             "power": 1215,
             "attack": 1203,
@@ -74299,7 +74459,7 @@ window.allHeroes =
         "family": "bard",
         "image": "https://i.imgur.com/UX2vcRH.jpg",
         "costume_id": 0,
-        "originalIndex": 1143,
+        "originalIndex": 1145,
         "lb1": {
             "power": 1232,
             "attack": 1349,
@@ -74368,7 +74528,7 @@ window.allHeroes =
         "family": "christmas",
         "image": "https://i.imgur.com/gDDhARF.jpg",
         "costume_id": 0,
-        "originalIndex": 1144,
+        "originalIndex": 1146,
         "lb1": {
             "power": 825,
             "attack": 666,
@@ -74437,7 +74597,7 @@ window.allHeroes =
         "family": "christmas",
         "image": "https://i.imgur.com/3zbVEXc.jpg",
         "costume_id": 1,
-        "originalIndex": 1145,
+        "originalIndex": 1147,
         "lb1": {
             "power": 1071,
             "attack": 928,
@@ -74510,7 +74670,7 @@ window.allHeroes =
         "family": "slayer",
         "image": "https://i.imgur.com/pHj3rld.jpg",
         "costume_id": 0,
-        "originalIndex": 1146,
+        "originalIndex": 1148,
         "lb1": {
             "power": 863,
             "attack": 794,
@@ -74585,7 +74745,7 @@ window.allHeroes =
         "family": "slayer",
         "image": "https://i.imgur.com/yHVhyhO.jpg",
         "costume_id": 1,
-        "originalIndex": 1147,
+        "originalIndex": 1149,
         "lb1": {
             "power": 1297,
             "attack": 1106,
@@ -74660,7 +74820,7 @@ window.allHeroes =
         "family": "construct",
         "image": "https://i.imgur.com/wqf6SNR.jpg",
         "costume_id": 0,
-        "originalIndex": 1148,
+        "originalIndex": 1150,
         "lb1": {
             "power": 1122,
             "attack": 1127,
@@ -74722,7 +74882,7 @@ window.allHeroes =
         "family": "sun",
         "image": "https://i.imgur.com/8oISZes.jpg",
         "costume_id": 0,
-        "originalIndex": 1149,
+        "originalIndex": 1151,
         "lb1": {
             "power": 921,
             "attack": 959,
@@ -74781,7 +74941,7 @@ window.allHeroes =
         "family": "sun",
         "image": "https://i.imgur.com/ykQVLB2.jpg",
         "costume_id": 1,
-        "originalIndex": 1150,
+        "originalIndex": 1152,
         "lb1": {
             "power": 1250,
             "attack": 1391,
@@ -74848,7 +75008,7 @@ window.allHeroes =
         "family": "ninja",
         "image": "https://i.imgur.com/3lmxyeL.jpg",
         "costume_id": 0,
-        "originalIndex": 1151,
+        "originalIndex": 1153,
         "lb1": {
             "power": 925,
             "attack": 987,
@@ -74914,7 +75074,7 @@ window.allHeroes =
         "family": 2023,
         "image": "https://i.imgur.com/biXpSCt.jpg",
         "costume_id": 0,
-        "originalIndex": 1152,
+        "originalIndex": 1154,
         "lb1": {
             "power": 878,
             "attack": 825,
@@ -74985,7 +75145,7 @@ window.allHeroes =
         "family": "astralelves",
         "image": "https://i.imgur.com/wnVpRMp.jpg",
         "costume_id": 0,
-        "originalIndex": 1153,
+        "originalIndex": 1155,
         "lb1": {
             "power": 1081,
             "attack": 1143,
@@ -75054,7 +75214,7 @@ window.allHeroes =
         "family": "kingdom",
         "image": "https://i.imgur.com/EShG44Z.jpg",
         "costume_id": 0,
-        "originalIndex": 1154,
+        "originalIndex": 1156,
         "lb1": {
             "power": 894,
             "attack": 852,
@@ -75125,7 +75285,7 @@ window.allHeroes =
         "family": "kingdom",
         "image": "https://i.imgur.com/FrxOT5n.jpg",
         "costume_id": 1,
-        "originalIndex": 1155,
+        "originalIndex": 1157,
         "lb1": {
             "power": 1187,
             "attack": 1213,
@@ -75196,7 +75356,7 @@ window.allHeroes =
         "family": 2022,
         "image": "https://i.imgur.com/CooQRgw.jpg",
         "costume_id": 0,
-        "originalIndex": 1156,
+        "originalIndex": 1158,
         "lb1": {
             "power": 863,
             "attack": 856,
@@ -75266,7 +75426,7 @@ window.allHeroes =
         "family": "moon",
         "image": "https://i.imgur.com/vkAXXiK.jpg",
         "costume_id": 0,
-        "originalIndex": 1157,
+        "originalIndex": 1159,
         "lb1": {
             "power": 922,
             "attack": 894,
@@ -75336,7 +75496,7 @@ window.allHeroes =
         "family": "moon",
         "image": "https://i.imgur.com/TVr5JnF.jpg",
         "costume_id": 1,
-        "originalIndex": 1158,
+        "originalIndex": 1160,
         "lb1": {
             "power": 1250,
             "attack": 1314,
@@ -75400,7 +75560,7 @@ window.allHeroes =
         "family": "springvale",
         "image": "https://i.imgur.com/64Tdmgl.jpg",
         "costume_id": 0,
-        "originalIndex": 1159,
+        "originalIndex": 1161,
         "lb1": {
             "power": 1068,
             "attack": 1054,
@@ -75468,7 +75628,7 @@ window.allHeroes =
         "family": "bear",
         "image": "https://i.imgur.com/bzqfe23.jpg",
         "costume_id": 0,
-        "originalIndex": 1160,
+        "originalIndex": 1162,
         "lb1": {
             "power": 1046,
             "attack": 1114,
@@ -75535,7 +75695,7 @@ window.allHeroes =
         "family": "helheim",
         "image": "https://i.imgur.com/tjoH1nb.jpg",
         "costume_id": 0,
-        "originalIndex": 1161,
+        "originalIndex": 1163,
         "lb1": {
             "power": 842,
             "attack": 832,
@@ -75606,7 +75766,7 @@ window.allHeroes =
         "family": "helheim",
         "image": "https://i.imgur.com/7UO34fo.jpg",
         "costume_id": 1,
-        "originalIndex": 1162,
+        "originalIndex": 1164,
         "lb1": {
             "power": 1056,
             "attack": 1064,
@@ -75683,7 +75843,7 @@ window.allHeroes =
         "family": "kalevala",
         "image": "https://i.imgur.com/tAIchka.jpg",
         "costume_id": 0,
-        "originalIndex": 1163,
+        "originalIndex": 1165,
         "lb1": {
             "power": 979,
             "attack": 912,
@@ -75754,7 +75914,7 @@ window.allHeroes =
         "family": "kalevala",
         "image": "https://i.imgur.com/0QCrvIl.jpg",
         "costume_id": 1,
-        "originalIndex": 1164,
+        "originalIndex": 1166,
         "lb1": {
             "power": 1272,
             "attack": 1248,
@@ -75823,7 +75983,7 @@ window.allHeroes =
         "family": "morlovia",
         "image": "https://i.imgur.com/FsFObHs.jpg",
         "costume_id": 0,
-        "originalIndex": 1165,
+        "originalIndex": 1167,
         "lb1": {
             "power": 847,
             "attack": 834,
@@ -75891,7 +76051,7 @@ window.allHeroes =
         "family": "morlovia",
         "image": "https://i.imgur.com/yADk9kZ.jpg",
         "costume_id": 1,
-        "originalIndex": 1166,
+        "originalIndex": 1168,
         "lb1": {
             "power": 1100,
             "attack": 1117,
@@ -75959,7 +76119,7 @@ window.allHeroes =
         "family": "garrisonguard",
         "image": "https://i.imgur.com/1zUxxx9.jpg",
         "costume_id": 0,
-        "originalIndex": 1167,
+        "originalIndex": 1169,
         "lb1": {
             "power": 1149,
             "attack": 1214,
@@ -76028,7 +76188,7 @@ window.allHeroes =
         "family": "underwild",
         "image": "https://i.imgur.com/pr4mBGS.jpg",
         "costume_id": 0,
-        "originalIndex": 1168,
+        "originalIndex": 1170,
         "lb1": {
             "power": 909,
             "attack": 899,
@@ -76100,7 +76260,7 @@ window.allHeroes =
         "family": "underwild",
         "image": "https://i.imgur.com/QhwvGtU.jpg",
         "costume_id": 1,
-        "originalIndex": 1169,
+        "originalIndex": 1171,
         "lb1": {
             "power": 1156,
             "attack": 1157,
@@ -76167,7 +76327,7 @@ window.allHeroes =
         "family": "lunaryear",
         "image": "https://i.imgur.com/BFeoiOp.jpg",
         "costume_id": 0,
-        "originalIndex": 1170,
+        "originalIndex": 1172,
         "lb1": {
             "power": 920,
             "attack": 921,
@@ -76230,7 +76390,7 @@ window.allHeroes =
         "family": "journey",
         "image": "https://i.imgur.com/f2m1LGV.jpg",
         "costume_id": 0,
-        "originalIndex": 1171,
+        "originalIndex": 1173,
         "lb1": {
             "power": 1012,
             "attack": 1058,
@@ -76293,7 +76453,7 @@ window.allHeroes =
         "family": 2021,
         "image": "https://i.imgur.com/vzzuVpu.jpg",
         "costume_id": 0,
-        "originalIndex": 1172,
+        "originalIndex": 1174,
         "lb1": {
             "power": 842,
             "attack": 801,
@@ -76363,7 +76523,7 @@ window.allHeroes =
         "family": "woodlandfaun",
         "image": "https://imgur.com/5U97Fz9.jpg",
         "costume_id": 0,
-        "originalIndex": 1173,
+        "originalIndex": 1175,
         "lb1": {
             "power": 1252,
             "attack": 1338,
@@ -76434,7 +76594,7 @@ window.allHeroes =
         "family": 2022,
         "image": "https://i.imgur.com/jTxW191.jpg",
         "costume_id": 0,
-        "originalIndex": 1174,
+        "originalIndex": 1176,
         "lb1": {
             "power": 858,
             "attack": 836,
@@ -76504,7 +76664,7 @@ window.allHeroes =
         "family": 2024,
         "image": "https://i.imgur.com/Xh5bTXR.jpg",
         "costume_id": 0,
-        "originalIndex": 1175,
+        "originalIndex": 1177,
         "lb1": {
             "power": 1039,
             "attack": 1152,
@@ -76574,7 +76734,7 @@ window.allHeroes =
         "family": "superelemental",
         "image": "https://i.imgur.com/kfVoysd.jpg",
         "costume_id": 0,
-        "originalIndex": 1176,
+        "originalIndex": 1178,
         "lb1": {
             "power": 1026,
             "attack": 1076,
@@ -76637,7 +76797,7 @@ window.allHeroes =
         "family": "underwild",
         "image": "https://i.imgur.com/H6eN1G6.jpg",
         "costume_id": 0,
-        "originalIndex": 1177,
+        "originalIndex": 1179,
         "lb1": {
             "power": 862,
             "attack": 888,
@@ -76702,7 +76862,7 @@ window.allHeroes =
         "family": "underwild",
         "image": "https://i.imgur.com/lrLa3g9.jpg",
         "costume_id": 1,
-        "originalIndex": 1178,
+        "originalIndex": 1180,
         "lb1": {
             "power": 1094,
             "attack": 1171,
@@ -76773,7 +76933,7 @@ window.allHeroes =
         "family": 2024,
         "image": "https://i.imgur.com/csrWBuw.jpg",
         "costume_id": 0,
-        "originalIndex": 1179,
+        "originalIndex": 1181,
         "lb1": {
             "power": 1095,
             "attack": 1223,
@@ -76844,7 +77004,7 @@ window.allHeroes =
         "family": 2018,
         "image": "https://i.imgur.com/ZnoCx4D.jpg",
         "costume_id": 0,
-        "originalIndex": 1180,
+        "originalIndex": 1182,
         "lb1": {
             "power": 819,
             "attack": 770,
@@ -76912,7 +77072,7 @@ window.allHeroes =
         "family": 2018,
         "image": "https://i.imgur.com/M65Mn9a.jpg",
         "costume_id": 1,
-        "originalIndex": 1181,
+        "originalIndex": 1183,
         "lb1": {
             "power": 1050,
             "attack": 979,
@@ -76971,7 +77131,7 @@ window.allHeroes =
         "family": null,
         "image": "https://i.imgur.com/siyozo3.jpg",
         "costume_id": 0,
-        "originalIndex": 1182,
+        "originalIndex": 1184,
         "cn_skill_info": []
     },
     {
@@ -77002,7 +77162,7 @@ window.allHeroes =
         "family": null,
         "image": "https://i.imgur.com/C6MAFbk.jpg",
         "costume_id": 0,
-        "originalIndex": 1183,
+        "originalIndex": 1185,
         "cn_skill_info": []
     },
     {
@@ -77033,7 +77193,7 @@ window.allHeroes =
         "family": null,
         "image": "https://i.imgur.com/twn2sqC.jpg",
         "costume_id": 0,
-        "originalIndex": 1184,
+        "originalIndex": 1186,
         "cn_skill_info": []
     },
     {
@@ -77067,7 +77227,7 @@ window.allHeroes =
         "family": null,
         "image": "https://i.imgur.com/HfePtEe.jpg",
         "costume_id": 0,
-        "originalIndex": 1185,
+        "originalIndex": 1187,
         "cn_skill_info": []
     },
     {
@@ -77098,7 +77258,7 @@ window.allHeroes =
         "family": null,
         "image": "https://i.imgur.com/OCarZIF.jpg",
         "costume_id": 0,
-        "originalIndex": 1186,
+        "originalIndex": 1188,
         "cn_skill_info": []
     },
     {
@@ -77131,7 +77291,7 @@ window.allHeroes =
         "family": "asgard",
         "image": "https://i.imgur.com/epjHmoJ.jpg",
         "costume_id": 0,
-        "originalIndex": 1187,
+        "originalIndex": 1189,
         "lb1": {
             "power": 518,
             "attack": 630,
@@ -77194,7 +77354,7 @@ window.allHeroes =
         "family": "sand",
         "image": "https://i.imgur.com/N88uqSK.jpg",
         "costume_id": 0,
-        "originalIndex": 1188,
+        "originalIndex": 1190,
         "lb1": {
             "power": 500,
             "attack": 541,
@@ -77254,7 +77414,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/9aCbPHu.jpg",
         "costume_id": 0,
-        "originalIndex": 1189,
+        "originalIndex": 1191,
         "lb1": {
             "power": 491,
             "attack": 531,
@@ -77311,7 +77471,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/oMyq8FB.jpg",
         "costume_id": 1,
-        "originalIndex": 1190,
+        "originalIndex": 1192,
         "lb1": {
             "power": 524,
             "attack": 610,
@@ -77372,7 +77532,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/IQ13bAv.jpg",
         "costume_id": 2,
-        "originalIndex": 1191,
+        "originalIndex": 1193,
         "lb1": {
             "power": 561,
             "attack": 622,
@@ -77439,7 +77599,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://imgur.com/GXkDkIq.jpg",
         "costume_id": 3,
-        "originalIndex": 1192,
+        "originalIndex": 1194,
         "lb1": {
             "power": 571,
             "attack": 637,
@@ -77498,7 +77658,7 @@ window.allHeroes =
         "family": "raven",
         "image": "https://i.imgur.com/0zQumOG.jpg",
         "costume_id": 0,
-        "originalIndex": 1193,
+        "originalIndex": 1195,
         "lb1": {
             "power": 536,
             "attack": 557,
@@ -77550,7 +77710,7 @@ window.allHeroes =
         "family": "starfall",
         "image": "https://i.imgur.com/JMKpOq5.jpg",
         "costume_id": 0,
-        "originalIndex": 1194,
+        "originalIndex": 1196,
         "lb1": {
             "power": 533,
             "attack": 527,
@@ -77610,7 +77770,7 @@ window.allHeroes =
         "family": "junglehunter",
         "image": "https://i.imgur.com/occTuk0.jpg",
         "costume_id": 0,
-        "originalIndex": 1195,
+        "originalIndex": 1197,
         "lb1": {
             "power": 544,
             "attack": 606,
@@ -77674,7 +77834,7 @@ window.allHeroes =
         "family": "cultist",
         "image": "https://i.imgur.com/I6zT7jd.jpg",
         "costume_id": 0,
-        "originalIndex": 1196,
+        "originalIndex": 1198,
         "lb1": {
             "power": 559,
             "attack": 551,
@@ -77734,7 +77894,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/p1FG8Av.jpg",
         "costume_id": 0,
-        "originalIndex": 1197,
+        "originalIndex": 1199,
         "lb1": {
             "power": 490,
             "attack": 553,
@@ -77786,7 +77946,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/4JD88JW.jpg",
         "costume_id": 1,
-        "originalIndex": 1198,
+        "originalIndex": 1200,
         "lb1": {
             "power": 524,
             "attack": 608,
@@ -77845,7 +78005,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/O05gU50.jpg",
         "costume_id": 2,
-        "originalIndex": 1199,
+        "originalIndex": 1201,
         "lb1": {
             "power": 561,
             "attack": 608,
@@ -77909,7 +78069,7 @@ window.allHeroes =
         "family": "beachparty",
         "image": "https://i.imgur.com/0vQaoVS.jpg",
         "costume_id": 0,
-        "originalIndex": 1200,
+        "originalIndex": 1202,
         "lb1": {
             "power": 543,
             "attack": 594,
@@ -77972,7 +78132,7 @@ window.allHeroes =
         "family": "plainshunter",
         "image": "https://i.imgur.com/BfXS6GU.jpg",
         "costume_id": 0,
-        "originalIndex": 1201,
+        "originalIndex": 1203,
         "lb1": {
             "power": 540,
             "attack": 494,
@@ -78041,7 +78201,7 @@ window.allHeroes =
         "family": "musketeer",
         "image": "https://i.imgur.com/KO2VqaC.jpg",
         "costume_id": 0,
-        "originalIndex": 1202,
+        "originalIndex": 1204,
         "lb1": {
             "power": 543,
             "attack": 608,
@@ -78104,7 +78264,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/Eor4cBc.jpg",
         "costume_id": 0,
-        "originalIndex": 1203,
+        "originalIndex": 1205,
         "lb1": {
             "power": 494,
             "attack": 529,
@@ -78161,7 +78321,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/UfGiJQd.jpg",
         "costume_id": 1,
-        "originalIndex": 1204,
+        "originalIndex": 1206,
         "lb1": {
             "power": 530,
             "attack": 600,
@@ -78222,7 +78382,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/IOY3xaA.jpg",
         "costume_id": 2,
-        "originalIndex": 1205,
+        "originalIndex": 1207,
         "lb1": {
             "power": 566,
             "attack": 610,
@@ -78285,7 +78445,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/yqqbcRa.jpg",
         "costume_id": 3,
-        "originalIndex": 1206,
+        "originalIndex": 1208,
         "lb1": {
             "power": 577,
             "attack": 625,
@@ -78353,7 +78513,7 @@ window.allHeroes =
         "family": "defendersofatlantis",
         "image": "https://i.imgur.com/ne5YJve.jpg",
         "costume_id": 0,
-        "originalIndex": 1207,
+        "originalIndex": 1209,
         "lb1": {
             "power": 543,
             "attack": 579,
@@ -78421,7 +78581,7 @@ window.allHeroes =
         "family": "defendersofatlantis",
         "image": "https://i.imgur.com/frMuxcb.jpg",
         "costume_id": 1,
-        "originalIndex": 1208,
+        "originalIndex": 1210,
         "lb1": {
             "power": 556,
             "attack": 510,
@@ -78484,7 +78644,7 @@ window.allHeroes =
         "family": "christmas",
         "image": "https://i.imgur.com/G067kns.jpg",
         "costume_id": 0,
-        "originalIndex": 1209,
+        "originalIndex": 1211,
         "lb1": {
             "power": 544,
             "attack": 512,
@@ -78547,7 +78707,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/h7fAkgX.jpg",
         "costume_id": 0,
-        "originalIndex": 1210,
+        "originalIndex": 1212,
         "lb1": {
             "power": 495,
             "attack": 486,
@@ -78600,7 +78760,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/OOF8ysq.jpg",
         "costume_id": 1,
-        "originalIndex": 1211,
+        "originalIndex": 1213,
         "lb1": {
             "power": 529,
             "attack": 488,
@@ -78655,7 +78815,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/6HNw9i7.jpg",
         "costume_id": 2,
-        "originalIndex": 1212,
+        "originalIndex": 1214,
         "lb1": {
             "power": 565,
             "attack": 556,
@@ -78714,7 +78874,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/jRBcqpn.jpg",
         "costume_id": 3,
-        "originalIndex": 1213,
+        "originalIndex": 1215,
         "lb1": {
             "power": 574,
             "attack": 549,
@@ -78774,7 +78934,7 @@ window.allHeroes =
         "family": "ninja",
         "image": "https://i.imgur.com/X6RI3nP.jpg",
         "costume_id": 0,
-        "originalIndex": 1214,
+        "originalIndex": 1216,
         "lb1": {
             "power": 543,
             "attack": 616,
@@ -78829,7 +78989,7 @@ window.allHeroes =
         "family": "alfheim",
         "image": "https://i.imgur.com/iXRJ2NZ.jpg",
         "costume_id": 0,
-        "originalIndex": 1215,
+        "originalIndex": 1217,
         "lb1": {
             "power": 515,
             "attack": 486,
@@ -78894,7 +79054,7 @@ window.allHeroes =
         "family": "alfheim",
         "image": "https://i.imgur.com/3EEFeIL.jpg",
         "costume_id": 1,
-        "originalIndex": 1216,
+        "originalIndex": 1218,
         "lb1": {
             "power": 532,
             "attack": 486,
@@ -78957,7 +79117,7 @@ window.allHeroes =
         "family": "atlantis",
         "image": "https://i.imgur.com/4LFidrS.jpg",
         "costume_id": 0,
-        "originalIndex": 1217,
+        "originalIndex": 1219,
         "lb1": {
             "power": 503,
             "attack": 573,
@@ -79014,7 +79174,7 @@ window.allHeroes =
         "family": "atlantis",
         "image": "https://i.imgur.com/M7NWE48.jpg",
         "costume_id": 1,
-        "originalIndex": 1218,
+        "originalIndex": 1220,
         "lb1": {
             "power": 518,
             "attack": 606,
@@ -79076,7 +79236,7 @@ window.allHeroes =
         "family": "owl",
         "image": "https://i.imgur.com/R9551ZQ.jpg",
         "costume_id": 0,
-        "originalIndex": 1219,
+        "originalIndex": 1221,
         "lb1": {
             "power": 546,
             "attack": 490,
@@ -79130,7 +79290,7 @@ window.allHeroes =
         "family": "grimforest",
         "image": "https://i.imgur.com/jFlvi1a.jpg",
         "costume_id": 0,
-        "originalIndex": 1220,
+        "originalIndex": 1222,
         "lb1": {
             "power": 507,
             "attack": 484,
@@ -79188,7 +79348,7 @@ window.allHeroes =
         "family": "underwild",
         "image": "https://i.imgur.com/pxiscDG.jpg",
         "costume_id": 0,
-        "originalIndex": 1221,
+        "originalIndex": 1223,
         "lb1": {
             "power": 534,
             "attack": 563,
@@ -79246,7 +79406,7 @@ window.allHeroes =
         "family": "underwild",
         "image": "https://i.imgur.com/nCfovhZ.jpg",
         "costume_id": 1,
-        "originalIndex": 1222,
+        "originalIndex": 1224,
         "lb1": {
             "power": 546,
             "attack": 578,
@@ -79307,7 +79467,7 @@ window.allHeroes =
         "family": "sun",
         "image": "https://i.imgur.com/nkaWucV.jpg",
         "costume_id": 0,
-        "originalIndex": 1223,
+        "originalIndex": 1225,
         "lb1": {
             "power": 539,
             "attack": 533,
@@ -79371,7 +79531,7 @@ window.allHeroes =
         "family": "sun",
         "image": "https://i.imgur.com/K31ZD8P.jpg",
         "costume_id": 1,
-        "originalIndex": 1224,
+        "originalIndex": 1226,
         "lb1": {
             "power": 552,
             "attack": 557,
@@ -79435,7 +79595,7 @@ window.allHeroes =
         "family": "pets",
         "image": "https://i.imgur.com/2fpNcNU.jpg",
         "costume_id": 0,
-        "originalIndex": 1225,
+        "originalIndex": 1227,
         "lb1": {
             "power": 541,
             "attack": 551,
@@ -79508,7 +79668,7 @@ window.allHeroes =
         "family": "construct",
         "image": "https://i.imgur.com/OFz97hb.jpg",
         "costume_id": 0,
-        "originalIndex": 1226,
+        "originalIndex": 1228,
         "lb1": {
             "power": 554,
             "attack": 561,
@@ -79565,7 +79725,7 @@ window.allHeroes =
         "family": "corellia",
         "image": "https://i.imgur.com/wpH6Nrx.jpg",
         "costume_id": 0,
-        "originalIndex": 1227,
+        "originalIndex": 1229,
         "lb1": {
             "power": 537,
             "attack": 549,
@@ -79629,7 +79789,7 @@ window.allHeroes =
         "family": "woodlandfaun",
         "image": "https://i.imgur.com/GNLbvP6.jpg",
         "costume_id": 0,
-        "originalIndex": 1228,
+        "originalIndex": 1230,
         "lb1": {
             "power": 553,
             "attack": 606,
@@ -79697,7 +79857,7 @@ window.allHeroes =
         "family": "beowulf",
         "image": "https://i.imgur.com/b8raA4w.jpg",
         "costume_id": 0,
-        "originalIndex": 1229,
+        "originalIndex": 1231,
         "lb1": {
             "power": 778,
             "attack": 771,
@@ -79766,7 +79926,7 @@ window.allHeroes =
         "family": "magic",
         "image": "https://i.imgur.com/ADu9siF.jpg",
         "costume_id": 0,
-        "originalIndex": 1230,
+        "originalIndex": 1232,
         "lb1": {
             "power": 730,
             "attack": 725,
@@ -79826,7 +79986,7 @@ window.allHeroes =
         "family": "gargoyle",
         "image": "https://i.imgur.com/VIPkm6l.jpg",
         "costume_id": 0,
-        "originalIndex": 1231,
+        "originalIndex": 1233,
         "lb1": {
             "power": 734,
             "attack": 759,
@@ -79888,7 +80048,7 @@ window.allHeroes =
         "family": "abysshunter",
         "image": "https://i.imgur.com/Z4N4G0e.jpg",
         "costume_id": 0,
-        "originalIndex": 1232,
+        "originalIndex": 1234,
         "lb1": {
             "power": 738,
             "attack": 708,
@@ -79945,7 +80105,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/akseq6D.jpg",
         "costume_id": 0,
-        "originalIndex": 1233,
+        "originalIndex": 1235,
         "lb1": {
             "power": 691,
             "attack": 660,
@@ -80003,7 +80163,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/iiLBfC1.jpg",
         "costume_id": 1,
-        "originalIndex": 1234,
+        "originalIndex": 1236,
         "lb1": {
             "power": 739,
             "attack": 745,
@@ -80060,7 +80220,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/AhEe43s.jpg",
         "costume_id": 2,
-        "originalIndex": 1235,
+        "originalIndex": 1237,
         "lb1": {
             "power": 790,
             "attack": 844,
@@ -80121,7 +80281,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/SdLEIc0.jpg",
         "costume_id": 3,
-        "originalIndex": 1236,
+        "originalIndex": 1238,
         "lb1": {
             "power": 803,
             "attack": 877,
@@ -80184,7 +80344,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://imgur.com/s68xCDI.jpg",
         "costume_id": 4,
-        "originalIndex": 1237,
+        "originalIndex": 1239,
         "lb1": {
             "power": 815,
             "attack": 913,
@@ -80249,7 +80409,7 @@ window.allHeroes =
         "family": "starfall",
         "image": "https://i.imgur.com/XnqMU7V.jpg",
         "costume_id": 0,
-        "originalIndex": 1238,
+        "originalIndex": 1240,
         "lb1": {
             "power": 728,
             "attack": 683,
@@ -80317,7 +80477,7 @@ window.allHeroes =
         "family": "sakura",
         "image": "https://i.imgur.com/jP1BF2A.jpg",
         "costume_id": 0,
-        "originalIndex": 1239,
+        "originalIndex": 1241,
         "lb1": {
             "power": 701,
             "attack": 676,
@@ -80397,7 +80557,7 @@ window.allHeroes =
         "family": "sakura",
         "image": "https://i.imgur.com/HppFUSU.jpg",
         "costume_id": 1,
-        "originalIndex": 1240,
+        "originalIndex": 1242,
         "lb1": {
             "power": 726,
             "attack": 663,
@@ -80473,7 +80633,7 @@ window.allHeroes =
         "family": "astraldwarfs",
         "image": "https://imgur.com/iOji58B.jpg",
         "costume_id": 0,
-        "originalIndex": 1241,
+        "originalIndex": 1243,
         "lb1": {
             "power": 799,
             "attack": 785,
@@ -80543,7 +80703,7 @@ window.allHeroes =
         "family": "nidavellir",
         "image": "https://i.imgur.com/iXEEsKX.jpg",
         "costume_id": 0,
-        "originalIndex": 1242,
+        "originalIndex": 1244,
         "lb1": {
             "power": 761,
             "attack": 780,
@@ -80614,7 +80774,7 @@ window.allHeroes =
         "family": "goblin",
         "image": "https://i.imgur.com/9Zjrelm.jpg",
         "costume_id": 0,
-        "originalIndex": 1243,
+        "originalIndex": 1245,
         "lb1": {
             "power": 741,
             "attack": 699,
@@ -80674,7 +80834,7 @@ window.allHeroes =
         "family": "grimforest",
         "image": "https://i.imgur.com/cq0lzx6.jpg",
         "costume_id": 0,
-        "originalIndex": 1244,
+        "originalIndex": 1246,
         "lb1": {
             "power": 695,
             "attack": 764,
@@ -80738,7 +80898,7 @@ window.allHeroes =
         "family": "underwild",
         "image": "https://i.imgur.com/MRV1QX0.jpg",
         "costume_id": 0,
-        "originalIndex": 1245,
+        "originalIndex": 1247,
         "lb1": {
             "power": 729,
             "attack": 803,
@@ -80797,7 +80957,7 @@ window.allHeroes =
         "family": "underwild",
         "image": "https://i.imgur.com/bhRfq5i.jpg",
         "costume_id": 1,
-        "originalIndex": 1246,
+        "originalIndex": 1248,
         "lb1": {
             "power": 746,
             "attack": 824,
@@ -80866,7 +81026,7 @@ window.allHeroes =
         "family": "outlaws",
         "image": "https://imgur.com/rTKzhQE.jpg",
         "costume_id": 0,
-        "originalIndex": 1247,
+        "originalIndex": 1249,
         "lb1": {
             "power": 795,
             "attack": 815,
@@ -80929,7 +81089,7 @@ window.allHeroes =
         "family": "guardiansteltoc",
         "image": "https://i.imgur.com/yQuuDkU.jpg",
         "costume_id": 0,
-        "originalIndex": 1248,
+        "originalIndex": 1250,
         "lb1": {
             "power": 694,
             "attack": 831,
@@ -80986,7 +81146,7 @@ window.allHeroes =
         "family": "guardiansteltoc",
         "image": "https://i.imgur.com/SmImrcW.jpg",
         "costume_id": 1,
-        "originalIndex": 1249,
+        "originalIndex": 1251,
         "lb1": {
             "power": 793,
             "attack": 803,
@@ -81044,7 +81204,7 @@ window.allHeroes =
         "family": "asgard",
         "image": "https://i.imgur.com/sx7Ooj7.jpg",
         "costume_id": 0,
-        "originalIndex": 1250,
+        "originalIndex": 1252,
         "lb1": {
             "power": 713,
             "attack": 660,
@@ -81107,7 +81267,7 @@ window.allHeroes =
         "family": "asgard",
         "image": "https://i.imgur.com/0fW6S7f.jpg",
         "costume_id": 1,
-        "originalIndex": 1251,
+        "originalIndex": 1253,
         "lb1": {
             "power": 737,
             "attack": 665,
@@ -81174,7 +81334,7 @@ window.allHeroes =
         "family": "christmas",
         "image": "https://i.imgur.com/n6rgqje.jpg",
         "costume_id": 0,
-        "originalIndex": 1252,
+        "originalIndex": 1254,
         "lb1": {
             "power": 737,
             "attack": 676,
@@ -81238,7 +81398,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/uyASMQ6.jpg",
         "costume_id": 0,
-        "originalIndex": 1253,
+        "originalIndex": 1255,
         "lb1": {
             "power": 686,
             "attack": 655,
@@ -81298,7 +81458,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/vPJgzTp.jpg",
         "costume_id": 1,
-        "originalIndex": 1254,
+        "originalIndex": 1256,
         "lb1": {
             "power": 736,
             "attack": 644,
@@ -81359,7 +81519,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/3xo1OZT.jpg",
         "costume_id": 2,
-        "originalIndex": 1255,
+        "originalIndex": 1257,
         "lb1": {
             "power": 786,
             "attack": 716,
@@ -81421,7 +81581,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/J3KLB3K.jpg",
         "costume_id": 3,
-        "originalIndex": 1256,
+        "originalIndex": 1258,
         "lb1": {
             "power": 799,
             "attack": 809,
@@ -81488,7 +81648,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://imgur.com/V32B1dq.jpg",
         "costume_id": 4,
-        "originalIndex": 1257,
+        "originalIndex": 1259,
         "lb1": {
             "power": 812,
             "attack": 884,
@@ -81549,7 +81709,7 @@ window.allHeroes =
         "family": "springvale",
         "image": "https://i.imgur.com/qf9ikj1.jpg",
         "costume_id": 0,
-        "originalIndex": 1258,
+        "originalIndex": 1260,
         "lb1": {
             "power": 712,
             "attack": 681,
@@ -81606,7 +81766,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/flDK18I.jpg",
         "costume_id": 0,
-        "originalIndex": 1259,
+        "originalIndex": 1261,
         "lb1": {
             "power": 688,
             "attack": 669,
@@ -81663,7 +81823,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/6LRP9pF.jpg",
         "costume_id": 1,
-        "originalIndex": 1260,
+        "originalIndex": 1262,
         "lb1": {
             "power": 737,
             "attack": 730,
@@ -81720,7 +81880,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/kSRi1Vn.jpg",
         "costume_id": 2,
-        "originalIndex": 1261,
+        "originalIndex": 1263,
         "lb1": {
             "power": 787,
             "attack": 787,
@@ -81781,7 +81941,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/9y6lz7h.jpg",
         "costume_id": 3,
-        "originalIndex": 1262,
+        "originalIndex": 1264,
         "lb1": {
             "power": 801,
             "attack": 788,
@@ -81844,7 +82004,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/uvZCfR2.jpg",
         "costume_id": 4,
-        "originalIndex": 1263,
+        "originalIndex": 1265,
         "lb1": {
             "power": 814,
             "attack": 873,
@@ -81907,7 +82067,7 @@ window.allHeroes =
         "family": "midgard",
         "image": "https://i.imgur.com/1FjRHHb.jpg",
         "costume_id": 0,
-        "originalIndex": 1264,
+        "originalIndex": 1266,
         "lb1": {
             "power": 711,
             "attack": 745,
@@ -81973,7 +82133,7 @@ window.allHeroes =
         "family": "moon",
         "image": "https://i.imgur.com/cEv4g9a.jpg",
         "costume_id": 0,
-        "originalIndex": 1265,
+        "originalIndex": 1267,
         "lb1": {
             "power": 736,
             "attack": 688,
@@ -82040,7 +82200,7 @@ window.allHeroes =
         "family": "moon",
         "image": "https://i.imgur.com/uNnOzl3.jpg",
         "costume_id": 1,
-        "originalIndex": 1266,
+        "originalIndex": 1268,
         "lb1": {
             "power": 754,
             "attack": 732,
@@ -82108,7 +82268,7 @@ window.allHeroes =
         "family": "styx",
         "image": "https://i.imgur.com/JQkhZ6P.jpg",
         "costume_id": 0,
-        "originalIndex": 1267,
+        "originalIndex": 1269,
         "lb1": {
             "power": 737,
             "attack": 669,
@@ -82164,7 +82324,7 @@ window.allHeroes =
         "family": "cupid",
         "image": "https://i.imgur.com/FUJWm4U.jpg",
         "costume_id": 0,
-        "originalIndex": 1268,
+        "originalIndex": 1270,
         "lb1": {
             "power": 739,
             "attack": 706,
@@ -82224,7 +82384,7 @@ window.allHeroes =
         "family": "pets",
         "image": "https://i.imgur.com/acvvh6o.jpg",
         "costume_id": 0,
-        "originalIndex": 1269,
+        "originalIndex": 1271,
         "lb1": {
             "power": 736,
             "attack": 681,
@@ -82281,7 +82441,7 @@ window.allHeroes =
         "family": "kingdom",
         "image": "https://i.imgur.com/SwBxlgF.jpg",
         "costume_id": 0,
-        "originalIndex": 1270,
+        "originalIndex": 1272,
         "lb1": {
             "power": 736,
             "attack": 734,
@@ -82346,7 +82506,7 @@ window.allHeroes =
         "family": "kingdom",
         "image": "https://i.imgur.com/EPCCR66.jpg",
         "costume_id": 1,
-        "originalIndex": 1271,
+        "originalIndex": 1273,
         "lb1": {
             "power": 775,
             "attack": 753,
@@ -82407,7 +82567,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/EZfzNHv.jpg",
         "costume_id": 0,
-        "originalIndex": 1272,
+        "originalIndex": 1274,
         "lb1": {
             "power": 693,
             "attack": 768,
@@ -82463,7 +82623,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/Xt9qUWm.jpg",
         "costume_id": 1,
-        "originalIndex": 1273,
+        "originalIndex": 1275,
         "lb1": {
             "power": 743,
             "attack": 807,
@@ -82518,7 +82678,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/gZEff9Z.jpg",
         "costume_id": 2,
-        "originalIndex": 1274,
+        "originalIndex": 1276,
         "lb1": {
             "power": 793,
             "attack": 868,
@@ -82575,7 +82735,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/3dV4crJ.jpg",
         "costume_id": 3,
-        "originalIndex": 1275,
+        "originalIndex": 1277,
         "lb1": {
             "power": 806,
             "attack": 809,
@@ -82640,7 +82800,7 @@ window.allHeroes =
         "family": "superelemental",
         "image": "https://i.imgur.com/b0f7111.jpg",
         "costume_id": 0,
-        "originalIndex": 1276,
+        "originalIndex": 1278,
         "lb1": {
             "power": 741,
             "attack": 738,
@@ -82698,7 +82858,7 @@ window.allHeroes =
         "family": "underwild",
         "image": "https://i.imgur.com/gMyh86R.jpg",
         "costume_id": 0,
-        "originalIndex": 1277,
+        "originalIndex": 1279,
         "lb1": {
             "power": 860,
             "attack": 843,
@@ -82762,7 +82922,7 @@ window.allHeroes =
         "family": "underwild",
         "image": "https://i.imgur.com/VvDq081.jpg",
         "costume_id": 1,
-        "originalIndex": 1278,
+        "originalIndex": 1280,
         "lb1": {
             "power": 1091,
             "attack": 1060,
@@ -82828,7 +82988,7 @@ window.allHeroes =
         "family": "christmas",
         "image": "https://i.imgur.com/x9XJFnx.jpg",
         "costume_id": 0,
-        "originalIndex": 1279,
+        "originalIndex": 1281,
         "lb1": {
             "power": 1200,
             "attack": 1194,
@@ -82894,7 +83054,7 @@ window.allHeroes =
         "family": "stag",
         "image": "https://i.imgur.com/dIFfVvr.jpg",
         "costume_id": 0,
-        "originalIndex": 1280,
+        "originalIndex": 1282,
         "lb1": {
             "power": 1159,
             "attack": 1256,
@@ -82964,7 +83124,7 @@ window.allHeroes =
         "family": "plainshunter",
         "image": "https://i.imgur.com/Cr6rYpC.jpg",
         "costume_id": 0,
-        "originalIndex": 1281,
+        "originalIndex": 1283,
         "lb1": {
             "power": 1247,
             "attack": 1287,
@@ -83029,7 +83189,7 @@ window.allHeroes =
         "family": "corellia",
         "image": "https://i.imgur.com/YcbkyW1.jpg",
         "costume_id": 0,
-        "originalIndex": 1282,
+        "originalIndex": 1284,
         "lb1": {
             "power": 891,
             "attack": 883,
@@ -83098,7 +83258,7 @@ window.allHeroes =
         "family": "cupid",
         "image": "https://i.imgur.com/ZH2Xuuj.jpg",
         "costume_id": 0,
-        "originalIndex": 1283,
+        "originalIndex": 1285,
         "lb1": {
             "power": 1244,
             "attack": 1320,
@@ -83161,7 +83321,7 @@ window.allHeroes =
         "family": "underwild",
         "image": "https://i.imgur.com/Ri4pkcS.jpg",
         "costume_id": 0,
-        "originalIndex": 1284,
+        "originalIndex": 1286,
         "lb1": {
             "power": 862,
             "attack": 874,
@@ -83221,7 +83381,7 @@ window.allHeroes =
         "family": "underwild",
         "image": "https://i.imgur.com/8bE9bAk.jpg",
         "costume_id": 1,
-        "originalIndex": 1285,
+        "originalIndex": 1287,
         "lb1": {
             "power": 1094,
             "attack": 1220,
@@ -83289,7 +83449,7 @@ window.allHeroes =
         "family": "fox",
         "image": "https://i.imgur.com/JxS30IU.jpg",
         "costume_id": 0,
-        "originalIndex": 1286,
+        "originalIndex": 1288,
         "lb1": {
             "power": 1248,
             "attack": 1305,
@@ -83364,7 +83524,7 @@ window.allHeroes =
         "family": "bard",
         "image": "https://i.imgur.com/efuZ1Xu.jpg",
         "costume_id": 0,
-        "originalIndex": 1287,
+        "originalIndex": 1289,
         "lb1": {
             "power": 1192,
             "attack": 999,
@@ -83432,7 +83592,7 @@ window.allHeroes =
         "family": "moth",
         "image": "https://imgur.com/U5vFSXy.jpg",
         "costume_id": 0,
-        "originalIndex": 1288,
+        "originalIndex": 1290,
         "lb1": {
             "power": 1281,
             "attack": 1434,
@@ -83505,7 +83665,7 @@ window.allHeroes =
         "family": 2024,
         "image": "https://i.imgur.com/0zHJdCL.jpg",
         "costume_id": 0,
-        "originalIndex": 1289,
+        "originalIndex": 1291,
         "lb1": {
             "power": 1057,
             "attack": 1110,
@@ -83574,7 +83734,7 @@ window.allHeroes =
         "family": 2020,
         "image": "https://i.imgur.com/4FIVAWy.jpg",
         "costume_id": 0,
-        "originalIndex": 1290,
+        "originalIndex": 1292,
         "lb1": {
             "power": 828,
             "attack": 808,
@@ -83638,7 +83798,7 @@ window.allHeroes =
         "family": "lunaryear",
         "image": "https://i.imgur.com/hMx4yq8.jpg",
         "costume_id": 0,
-        "originalIndex": 1291,
+        "originalIndex": 1293,
         "lb1": {
             "power": 1232,
             "attack": 1267,
@@ -83708,7 +83868,7 @@ window.allHeroes =
         "family": "slayer",
         "image": "https://i.imgur.com/ERb7z96.jpg",
         "costume_id": 0,
-        "originalIndex": 1292,
+        "originalIndex": 1294,
         "lb1": {
             "power": 863,
             "attack": 777,
@@ -83786,7 +83946,7 @@ window.allHeroes =
         "family": "slayer",
         "image": "https://i.imgur.com/JgYBU3i.jpg",
         "costume_id": 1,
-        "originalIndex": 1293,
+        "originalIndex": 1295,
         "lb1": {
             "power": 1295,
             "attack": 1299,
@@ -83858,7 +84018,7 @@ window.allHeroes =
         "family": 2022,
         "image": "https://i.imgur.com/fzHIBe5.jpg",
         "costume_id": 0,
-        "originalIndex": 1294,
+        "originalIndex": 1296,
         "lb1": {
             "power": 866,
             "attack": 790,
@@ -83932,7 +84092,7 @@ window.allHeroes =
         "family": "opera",
         "image": "https://i.imgur.com/x8CUwhf.jpg",
         "costume_id": 0,
-        "originalIndex": 1295,
+        "originalIndex": 1297,
         "lb1": {
             "power": 1022,
             "attack": 1072,
@@ -83997,7 +84157,7 @@ window.allHeroes =
         "family": "sun",
         "image": "https://i.imgur.com/pyEHRBi.jpg",
         "costume_id": 0,
-        "originalIndex": 1296,
+        "originalIndex": 1298,
         "lb1": {
             "power": 923,
             "attack": 828,
@@ -84064,7 +84224,7 @@ window.allHeroes =
         "family": "sun",
         "image": "https://i.imgur.com/BWI4O98.jpg",
         "costume_id": 1,
-        "originalIndex": 1297,
+        "originalIndex": 1299,
         "lb1": {
             "power": 1253,
             "attack": 1139,
@@ -84124,7 +84284,7 @@ window.allHeroes =
         "family": "musketeer",
         "image": "https://i.imgur.com/MWL4e5h.jpg",
         "costume_id": 0,
-        "originalIndex": 1298,
+        "originalIndex": 1300,
         "lb1": {
             "power": 992,
             "attack": 939,
@@ -84192,7 +84352,7 @@ window.allHeroes =
         "family": "abysshunter",
         "image": "https://i.imgur.com/EUt5N6q.jpg",
         "costume_id": 0,
-        "originalIndex": 1299,
+        "originalIndex": 1301,
         "lb1": {
             "power": 950,
             "attack": 916,
@@ -84252,7 +84412,7 @@ window.allHeroes =
         "family": 2018,
         "image": "https://i.imgur.com/gbHdhVI.jpg",
         "costume_id": 0,
-        "originalIndex": 1300,
+        "originalIndex": 1302,
         "lb1": {
             "power": 818,
             "attack": 794,
@@ -84314,7 +84474,7 @@ window.allHeroes =
         "family": 2018,
         "image": "https://i.imgur.com/muqHGtI.jpg",
         "costume_id": 1,
-        "originalIndex": 1301,
+        "originalIndex": 1303,
         "lb1": {
             "power": 1046,
             "attack": 988,
@@ -84381,7 +84541,7 @@ window.allHeroes =
         "family": 2021,
         "image": "https://i.imgur.com/kOGhPnC.jpg",
         "costume_id": 0,
-        "originalIndex": 1302,
+        "originalIndex": 1304,
         "lb1": {
             "power": 845,
             "attack": 799,
@@ -84447,7 +84607,7 @@ window.allHeroes =
         "family": "starfall",
         "image": "https://i.imgur.com/NrSrxkV.jpg",
         "costume_id": 0,
-        "originalIndex": 1303,
+        "originalIndex": 1305,
         "lb1": {
             "power": 861,
             "attack": 825,
@@ -84520,7 +84680,7 @@ window.allHeroes =
         "family": "investigator",
         "image": "https://i.imgur.com/sAavBEB.jpg",
         "costume_id": 0,
-        "originalIndex": 1304,
+        "originalIndex": 1306,
         "lb1": {
             "power": 1174,
             "attack": 1223,
@@ -84591,7 +84751,7 @@ window.allHeroes =
         "family": 2018,
         "image": "https://i.imgur.com/DfnVeiC.jpg",
         "costume_id": 0,
-        "originalIndex": 1305,
+        "originalIndex": 1307,
         "lb1": {
             "power": 818,
             "attack": 783,
@@ -84654,7 +84814,7 @@ window.allHeroes =
         "family": 2018,
         "image": "https://i.imgur.com/31loghP.jpg",
         "costume_id": 1,
-        "originalIndex": 1306,
+        "originalIndex": 1308,
         "lb1": {
             "power": 1047,
             "attack": 1016,
@@ -84713,7 +84873,7 @@ window.allHeroes =
         "family": "raven",
         "image": "https://i.imgur.com/x2Zz9OK.jpg",
         "costume_id": 0,
-        "originalIndex": 1307,
+        "originalIndex": 1309,
         "lb1": {
             "power": 877,
             "attack": 865,
@@ -84788,7 +84948,7 @@ window.allHeroes =
         "family": "defendersofatlantis",
         "image": "https://i.imgur.com/nL4nDAx.jpg",
         "costume_id": 0,
-        "originalIndex": 1308,
+        "originalIndex": 1310,
         "lb1": {
             "power": 997,
             "attack": 976,
@@ -84860,7 +85020,7 @@ window.allHeroes =
         "family": "defendersofatlantis",
         "image": "https://imgur.com/CAlgEAJ.jpg",
         "costume_id": 1,
-        "originalIndex": 1309,
+        "originalIndex": 1311,
         "lb1": {
             "power": 1242,
             "attack": 1227,
@@ -84918,7 +85078,7 @@ window.allHeroes =
         "family": "journey",
         "image": "https://i.imgur.com/vft4guR.jpg",
         "costume_id": 0,
-        "originalIndex": 1310,
+        "originalIndex": 1312,
         "lb1": {
             "power": 918,
             "attack": 910,
@@ -84989,7 +85149,7 @@ window.allHeroes =
         "family": "sun",
         "image": "https://i.imgur.com/0YdsTMt.jpg",
         "costume_id": 0,
-        "originalIndex": 1311,
+        "originalIndex": 1313,
         "lb1": {
             "power": 926,
             "attack": 896,
@@ -85059,7 +85219,7 @@ window.allHeroes =
         "family": "sun",
         "image": "https://imgur.com/4M257qJ.jpg",
         "costume_id": 1,
-        "originalIndex": 1312,
+        "originalIndex": 1314,
         "lb1": {
             "power": 1258,
             "attack": 1298,
@@ -85134,7 +85294,7 @@ window.allHeroes =
         "family": "mimic",
         "image": "https://imgur.com/WAwhfFp.jpg",
         "costume_id": 0,
-        "originalIndex": 1313,
+        "originalIndex": 1315,
         "lb1": {
             "power": 1284,
             "attack": 1332,
@@ -85207,7 +85367,7 @@ window.allHeroes =
         "family": 2024,
         "image": "https://i.imgur.com/plLMCMU.jpg",
         "costume_id": 0,
-        "originalIndex": 1314,
+        "originalIndex": 1316,
         "lb1": {
             "power": 1114,
             "attack": 1123,
@@ -85266,7 +85426,7 @@ window.allHeroes =
         "family": "starfall",
         "image": "https://i.imgur.com/8rLI8nK.jpg",
         "costume_id": 0,
-        "originalIndex": 1315,
+        "originalIndex": 1317,
         "lb1": {
             "power": 858,
             "attack": 845,
@@ -85329,7 +85489,7 @@ window.allHeroes =
         "family": "garrisonguard",
         "image": "https://i.imgur.com/N2blWos.jpg",
         "costume_id": 0,
-        "originalIndex": 1316,
+        "originalIndex": 1318,
         "lb1": {
             "power": 1184,
             "attack": 1258,
@@ -85400,7 +85560,7 @@ window.allHeroes =
         "family": "pets",
         "image": "https://i.imgur.com/xJBNOD9.jpg",
         "costume_id": 0,
-        "originalIndex": 1317,
+        "originalIndex": 1319,
         "lb1": {
             "power": 890,
             "attack": 843,
@@ -85478,7 +85638,7 @@ window.allHeroes =
         "family": "nidavellir",
         "image": "https://i.imgur.com/hNiWYCE.jpg",
         "costume_id": 0,
-        "originalIndex": 1318,
+        "originalIndex": 1320,
         "lb1": {
             "power": 1247,
             "attack": 1258,
@@ -85550,7 +85710,7 @@ window.allHeroes =
         "family": "woodlandfaun",
         "image": "https://i.imgur.com/5Tx3rNq.jpg",
         "costume_id": 0,
-        "originalIndex": 1319,
+        "originalIndex": 1321,
         "lb1": {
             "power": 1231,
             "attack": 1209,
@@ -85619,7 +85779,7 @@ window.allHeroes =
         "family": 2023,
         "image": "https://i.imgur.com/gcaSLmN.jpg",
         "costume_id": 0,
-        "originalIndex": 1320,
+        "originalIndex": 1322,
         "lb1": {
             "power": 876,
             "attack": 812,
@@ -85687,7 +85847,7 @@ window.allHeroes =
         "family": "slime",
         "image": "https://imgur.com/iqx1d2N.jpg",
         "costume_id": 0,
-        "originalIndex": 1321,
+        "originalIndex": 1323,
         "lb1": {
             "power": 1287,
             "attack": 1465,
@@ -85752,7 +85912,7 @@ window.allHeroes =
         "family": "lunaryear",
         "image": "https://i.imgur.com/BDNFVzo.jpg",
         "costume_id": 0,
-        "originalIndex": 1322,
+        "originalIndex": 1324,
         "lb1": {
             "power": 1051,
             "attack": 943,
@@ -85822,7 +85982,7 @@ window.allHeroes =
         "family": "slime",
         "image": "https://i.imgur.com/QoTjDm5.jpg",
         "costume_id": 0,
-        "originalIndex": 1323,
+        "originalIndex": 1325,
         "lb1": {
             "power": 1254,
             "attack": 1343,
@@ -85891,7 +86051,7 @@ window.allHeroes =
         "family": "superelemental",
         "image": "https://i.imgur.com/71dNXYj.jpg",
         "costume_id": 0,
-        "originalIndex": 1324,
+        "originalIndex": 1326,
         "lb1": {
             "power": 1111,
             "attack": 1085,
@@ -85961,7 +86121,7 @@ window.allHeroes =
         "family": "guardiansteltoc",
         "image": "https://i.imgur.com/oi9Vymu.jpg",
         "costume_id": 0,
-        "originalIndex": 1325,
+        "originalIndex": 1327,
         "lb1": {
             "power": 1079,
             "attack": 1067,
@@ -86038,7 +86198,7 @@ window.allHeroes =
         "family": "guardiansteltoc",
         "image": "https://i.imgur.com/B2LpVrC.jpg",
         "costume_id": 0,
-        "originalIndex": 1326,
+        "originalIndex": 1328,
         "lb1": {
             "power": 832,
             "attack": 810,
@@ -86115,7 +86275,7 @@ window.allHeroes =
         "family": "guardiansteltoc",
         "image": "https://i.imgur.com/E5qL0sl.jpg",
         "costume_id": 1,
-        "originalIndex": 1327,
+        "originalIndex": 1329,
         "lb1": {
             "power": 1043,
             "attack": 1059,
@@ -86184,7 +86344,7 @@ window.allHeroes =
         "family": "guardiansteltoc",
         "image": "https://i.imgur.com/XO3HIxy.jpg",
         "costume_id": 0,
-        "originalIndex": 1328,
+        "originalIndex": 1330,
         "lb1": {
             "power": 815,
             "attack": 648,
@@ -86250,7 +86410,7 @@ window.allHeroes =
         "family": "avalon",
         "image": "https://i.imgur.com/dYjW9Xa.jpg",
         "costume_id": 0,
-        "originalIndex": 1329,
+        "originalIndex": 1331,
         "lb1": {
             "power": 815,
             "attack": 721,
@@ -86317,7 +86477,7 @@ window.allHeroes =
         "family": "avalon",
         "image": "https://i.imgur.com/IeQY7xx.jpg",
         "costume_id": 1,
-        "originalIndex": 1330,
+        "originalIndex": 1332,
         "lb1": {
             "power": 1023,
             "attack": 859,
@@ -86388,7 +86548,7 @@ window.allHeroes =
         "family": "construct",
         "image": "https://i.imgur.com/94OEbs6.jpg",
         "costume_id": 0,
-        "originalIndex": 1331,
+        "originalIndex": 1333,
         "lb1": {
             "power": 1150,
             "attack": 1167,
@@ -86453,7 +86613,7 @@ window.allHeroes =
         "family": "pets",
         "image": "https://i.imgur.com/SMSyQXB.jpg",
         "costume_id": 0,
-        "originalIndex": 1332,
+        "originalIndex": 1334,
         "lb1": {
             "power": 935,
             "attack": 945,
@@ -86519,7 +86679,7 @@ window.allHeroes =
         "family": "fox",
         "image": "https://imgur.com/spHpfyL.jpg",
         "costume_id": 0,
-        "originalIndex": 1333,
+        "originalIndex": 1335,
         "lb1": {
             "power": 1303,
             "attack": 1363,
@@ -86587,7 +86747,7 @@ window.allHeroes =
         "family": 2021,
         "image": "https://i.imgur.com/Q6iWdU3.jpg",
         "costume_id": 0,
-        "originalIndex": 1334,
+        "originalIndex": 1336,
         "lb1": {
             "power": 850,
             "attack": 777,
@@ -86659,7 +86819,7 @@ window.allHeroes =
         "family": "astraldwarfs",
         "image": "https://imgur.com/VuxizwX.jpg",
         "costume_id": 0,
-        "originalIndex": 1335,
+        "originalIndex": 1337,
         "lb1": {
             "power": 1275,
             "attack": 1367,
@@ -86735,7 +86895,7 @@ window.allHeroes =
         "family": "gargoyle",
         "image": "https://i.imgur.com/Urzke5i.jpg",
         "costume_id": 0,
-        "originalIndex": 1336,
+        "originalIndex": 1338,
         "lb1": {
             "power": 1139,
             "attack": 1183,
@@ -86798,7 +86958,7 @@ window.allHeroes =
         "family": "sun",
         "image": "https://i.imgur.com/0Yedhet.jpg",
         "costume_id": 0,
-        "originalIndex": 1337,
+        "originalIndex": 1339,
         "lb1": {
             "power": 917,
             "attack": 888,
@@ -86859,7 +87019,7 @@ window.allHeroes =
         "family": "sun",
         "image": "https://i.imgur.com/fLHpPl2.jpg",
         "costume_id": 1,
-        "originalIndex": 1338,
+        "originalIndex": 1340,
         "lb1": {
             "power": 1243,
             "attack": 1247,
@@ -86930,7 +87090,7 @@ window.allHeroes =
         "family": "ninja",
         "image": "https://i.imgur.com/y4ft1xP.jpg",
         "costume_id": 0,
-        "originalIndex": 1339,
+        "originalIndex": 1341,
         "lb1": {
             "power": 1171,
             "attack": 1374,
@@ -86987,7 +87147,7 @@ window.allHeroes =
         "family": "sakura",
         "image": "https://i.imgur.com/MjynoiD.jpg",
         "costume_id": 0,
-        "originalIndex": 1340,
+        "originalIndex": 1342,
         "lb1": {
             "power": 823,
             "attack": 876,
@@ -87054,7 +87214,7 @@ window.allHeroes =
         "family": "sakura",
         "image": "https://i.imgur.com/Q0YpLSK.jpg",
         "costume_id": 1,
-        "originalIndex": 1341,
+        "originalIndex": 1343,
         "lb1": {
             "power": 1008,
             "attack": 1040,
@@ -87132,7 +87292,7 @@ window.allHeroes =
         "family": "superelemental",
         "image": "https://i.imgur.com/7BkCCl9.jpg",
         "costume_id": 0,
-        "originalIndex": 1342,
+        "originalIndex": 1344,
         "lb1": {
             "power": 1044,
             "attack": 1078,
@@ -87203,7 +87363,7 @@ window.allHeroes =
         "family": 2023,
         "image": "https://i.imgur.com/DDTIPj2.jpg",
         "costume_id": 0,
-        "originalIndex": 1343,
+        "originalIndex": 1345,
         "lb1": {
             "power": 925,
             "attack": 974,
@@ -87272,7 +87432,7 @@ window.allHeroes =
         "family": "maskedgod",
         "image": "https://i.imgur.com/4FOeHzK.jpg",
         "costume_id": 0,
-        "originalIndex": 1344,
+        "originalIndex": 1346,
         "lb1": {
             "power": 995,
             "attack": 992,
@@ -87339,7 +87499,7 @@ window.allHeroes =
         "family": "springvale",
         "image": "https://i.imgur.com/Fqmw2ti.jpg",
         "costume_id": 0,
-        "originalIndex": 1345,
+        "originalIndex": 1347,
         "lb1": {
             "power": 926,
             "attack": 859,
@@ -87406,7 +87566,7 @@ window.allHeroes =
         "family": "springvale",
         "image": "https://i.imgur.com/iHZz8KB.jpg",
         "costume_id": 1,
-        "originalIndex": 1346,
+        "originalIndex": 1348,
         "lb1": {
             "power": 1105,
             "attack": 1019,
@@ -87480,7 +87640,7 @@ window.allHeroes =
         "family": "superelemental",
         "image": "https://i.imgur.com/sJ0rROO.jpg",
         "costume_id": 0,
-        "originalIndex": 1347,
+        "originalIndex": 1349,
         "lb1": {
             "power": 1033,
             "attack": 1025,
@@ -87551,7 +87711,7 @@ window.allHeroes =
         "family": "superelemental",
         "image": "https://imgur.com/bIp33Sf.jpg",
         "costume_id": 1,
-        "originalIndex": 1348,
+        "originalIndex": 1350,
         "lb1": {
             "power": 1298,
             "attack": 1308,
@@ -87611,7 +87771,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/d5mevmf.jpg",
         "costume_id": 0,
-        "originalIndex": 1349,
+        "originalIndex": 1351,
         "lb1": {
             "power": 802,
             "attack": 808,
@@ -87668,7 +87828,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/YXbYHIl.jpg",
         "costume_id": 1,
-        "originalIndex": 1350,
+        "originalIndex": 1352,
         "lb1": {
             "power": 890,
             "attack": 907,
@@ -87728,7 +87888,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/rJxyTcK.jpg",
         "costume_id": 2,
-        "originalIndex": 1351,
+        "originalIndex": 1353,
         "lb1": {
             "power": 1028,
             "attack": 1047,
@@ -87791,7 +87951,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/6UDBHvu.jpg",
         "costume_id": 3,
-        "originalIndex": 1352,
+        "originalIndex": 1354,
         "lb1": {
             "power": 1206,
             "attack": 1255,
@@ -87858,7 +88018,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://imgur.com/7d9tXzA.jpg",
         "costume_id": 4,
-        "originalIndex": 1353,
+        "originalIndex": 1355,
         "lb1": {
             "power": 1318,
             "attack": 1443,
@@ -87925,7 +88085,7 @@ window.allHeroes =
         "family": "maskedgod",
         "image": "https://i.imgur.com/YFCeTvj.jpg",
         "costume_id": 0,
-        "originalIndex": 1354,
+        "originalIndex": 1356,
         "lb1": {
             "power": 894,
             "attack": 907,
@@ -87984,7 +88144,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/nIFbFrG.jpg",
         "costume_id": 0,
-        "originalIndex": 1355,
+        "originalIndex": 1357,
         "lb1": {
             "power": 804,
             "attack": 657,
@@ -88048,7 +88208,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/KCL7Y0s.jpg",
         "costume_id": 1,
-        "originalIndex": 1356,
+        "originalIndex": 1358,
         "lb1": {
             "power": 892,
             "attack": 819,
@@ -88112,7 +88272,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/feWdynO.jpg",
         "costume_id": 2,
-        "originalIndex": 1357,
+        "originalIndex": 1359,
         "lb1": {
             "power": 1032,
             "attack": 958,
@@ -88178,7 +88338,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/ChEEEeb.jpg",
         "costume_id": 3,
-        "originalIndex": 1358,
+        "originalIndex": 1360,
         "lb1": {
             "power": 1210,
             "attack": 1269,
@@ -88246,7 +88406,7 @@ window.allHeroes =
         "family": 2022,
         "image": "https://i.imgur.com/ltyTaFe.jpg",
         "costume_id": 0,
-        "originalIndex": 1359,
+        "originalIndex": 1361,
         "lb1": {
             "power": 860,
             "attack": 814,
@@ -88304,7 +88464,7 @@ window.allHeroes =
         "family": "kalevala",
         "image": "https://i.imgur.com/tmvOfKK.jpg",
         "costume_id": 0,
-        "originalIndex": 1360,
+        "originalIndex": 1362,
         "lb1": {
             "power": 891,
             "attack": 879,
@@ -88370,7 +88530,7 @@ window.allHeroes =
         "family": "kalevala",
         "image": "https://i.imgur.com/llU8XwL.jpg",
         "costume_id": 1,
-        "originalIndex": 1361,
+        "originalIndex": 1363,
         "lb1": {
             "power": 1153,
             "attack": 1144,
@@ -88452,7 +88612,7 @@ window.allHeroes =
         "family": "ninja",
         "image": "https://i.imgur.com/4sSfY3A.jpg",
         "costume_id": 0,
-        "originalIndex": 1362,
+        "originalIndex": 1364,
         "lb1": {
             "power": 934,
             "attack": 874,
@@ -88532,7 +88692,7 @@ window.allHeroes =
         "family": "magiccarpet",
         "image": "https://imgur.com/vcJysVw.jpg",
         "costume_id": 0,
-        "originalIndex": 1363,
+        "originalIndex": 1365,
         "lb1": {
             "power": 1303,
             "attack": 1283,
@@ -88598,7 +88758,7 @@ window.allHeroes =
         "family": "lunaryear",
         "image": "https://i.imgur.com/3mERqj0.jpg",
         "costume_id": 0,
-        "originalIndex": 1364,
+        "originalIndex": 1366,
         "lb1": {
             "power": 919,
             "attack": 910,
@@ -88665,7 +88825,7 @@ window.allHeroes =
         "family": "champions",
         "image": "https://i.imgur.com/mxOSRGe.jpg",
         "costume_id": 0,
-        "originalIndex": 1365,
+        "originalIndex": 1367,
         "lb1": {
             "power": 1085,
             "attack": 1121,
@@ -88733,7 +88893,7 @@ window.allHeroes =
         "family": "astralelves",
         "image": "https://i.imgur.com/P0rxyPZ.jpg",
         "costume_id": 0,
-        "originalIndex": 1366,
+        "originalIndex": 1368,
         "lb1": {
             "power": 1082,
             "attack": 1123,
@@ -88794,7 +88954,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/SPyWzYD.jpg",
         "costume_id": 0,
-        "originalIndex": 1367,
+        "originalIndex": 1369,
         "lb1": {
             "power": 802,
             "attack": 788,
@@ -88853,7 +89013,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/c7cvRg8.jpg",
         "costume_id": 1,
-        "originalIndex": 1368,
+        "originalIndex": 1370,
         "lb1": {
             "power": 889,
             "attack": 870,
@@ -88914,7 +89074,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/6haP2Yz.jpg",
         "costume_id": 2,
-        "originalIndex": 1369,
+        "originalIndex": 1371,
         "lb1": {
             "power": 1026,
             "attack": 998,
@@ -88983,7 +89143,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/PKsAK4b.jpg",
         "costume_id": 3,
-        "originalIndex": 1370,
+        "originalIndex": 1372,
         "lb1": {
             "power": 1203,
             "attack": 1227,
@@ -89050,7 +89210,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/7lvHaTO.jpg",
         "costume_id": 4,
-        "originalIndex": 1371,
+        "originalIndex": 1373,
         "lb1": {
             "power": 1318,
             "attack": 1440,
@@ -89121,7 +89281,7 @@ window.allHeroes =
         "family": "owl",
         "image": "https://i.imgur.com/JTBt0dY.jpg",
         "costume_id": 0,
-        "originalIndex": 1372,
+        "originalIndex": 1374,
         "lb1": {
             "power": 1119,
             "attack": 1045,
@@ -89196,7 +89356,7 @@ window.allHeroes =
         "family": "plainshunter",
         "image": "https://i.imgur.com/7OmJaIC.jpg",
         "costume_id": 0,
-        "originalIndex": 1373,
+        "originalIndex": 1375,
         "lb1": {
             "power": 945,
             "attack": 901,
@@ -89265,7 +89425,7 @@ window.allHeroes =
         "family": 2020,
         "image": "https://i.imgur.com/ttNHqjc.jpg",
         "costume_id": 0,
-        "originalIndex": 1374,
+        "originalIndex": 1376,
         "lb1": {
             "power": 822,
             "attack": 801,
@@ -89329,7 +89489,7 @@ window.allHeroes =
         "family": "morlovia",
         "image": "https://i.imgur.com/Lb4Sdwp.jpg",
         "costume_id": 0,
-        "originalIndex": 1375,
+        "originalIndex": 1377,
         "lb1": {
             "power": 907,
             "attack": 881,
@@ -89400,7 +89560,7 @@ window.allHeroes =
         "family": 2025,
         "image": "https://imgur.com/KK6zHLN.jpg",
         "costume_id": 0,
-        "originalIndex": 1376,
+        "originalIndex": 1378,
         "lb1": {
             "power": 1151,
             "attack": 1154,
@@ -89469,7 +89629,7 @@ window.allHeroes =
         "family": "opera",
         "image": "https://i.imgur.com/GJH1yAl.jpg",
         "costume_id": 0,
-        "originalIndex": 1377,
+        "originalIndex": 1379,
         "lb1": {
             "power": 1154,
             "attack": 1065,
@@ -89540,7 +89700,7 @@ window.allHeroes =
         "family": "astralelves",
         "image": "https://i.imgur.com/PSc9HJP.jpg",
         "costume_id": 0,
-        "originalIndex": 1378,
+        "originalIndex": 1380,
         "lb1": {
             "power": 1176,
             "attack": 1134,
@@ -89605,7 +89765,7 @@ window.allHeroes =
         "family": "sun",
         "image": "https://i.imgur.com/PIgKmeD.jpg",
         "costume_id": 0,
-        "originalIndex": 1379,
+        "originalIndex": 1381,
         "lb1": {
             "power": 929,
             "attack": 832,
@@ -89678,7 +89838,7 @@ window.allHeroes =
         "family": "sun",
         "image": "https://i.imgur.com/4IURwj4.jpg",
         "costume_id": 1,
-        "originalIndex": 1380,
+        "originalIndex": 1382,
         "lb1": {
             "power": 1263,
             "attack": 1252,
@@ -89754,7 +89914,7 @@ window.allHeroes =
         "family": "ninja",
         "image": "https://i.imgur.com/T4WxYxG.jpg",
         "costume_id": 0,
-        "originalIndex": 1381,
+        "originalIndex": 1383,
         "lb1": {
             "power": 851,
             "attack": 772,
@@ -89816,7 +89976,7 @@ window.allHeroes =
         "family": "astralelves",
         "image": "https://i.imgur.com/EiBBCez.jpg",
         "costume_id": 0,
-        "originalIndex": 1382,
+        "originalIndex": 1384,
         "lb1": {
             "power": 1159,
             "attack": 1112,
@@ -89890,7 +90050,7 @@ window.allHeroes =
         "family": "magic",
         "image": "https://i.imgur.com/87toXMW.jpg",
         "costume_id": 0,
-        "originalIndex": 1383,
+        "originalIndex": 1385,
         "lb1": {
             "power": 866,
             "attack": 814,
@@ -89952,7 +90112,7 @@ window.allHeroes =
         "family": 2017,
         "image": "https://i.imgur.com/1PxVmlq.jpg",
         "costume_id": 0,
-        "originalIndex": 1384,
+        "originalIndex": 1386,
         "lb1": {
             "power": 815,
             "attack": 848,
@@ -90015,7 +90175,7 @@ window.allHeroes =
         "family": 2017,
         "image": "https://i.imgur.com/dt3i5jN.jpg",
         "costume_id": 1,
-        "originalIndex": 1385,
+        "originalIndex": 1387,
         "lb1": {
             "power": 1039,
             "attack": 1064,
@@ -90079,7 +90239,7 @@ window.allHeroes =
         "family": 2019,
         "image": "https://i.imgur.com/5p5UjK8.jpg",
         "costume_id": 0,
-        "originalIndex": 1386,
+        "originalIndex": 1388,
         "lb1": {
             "power": 821,
             "attack": 792,
@@ -90153,7 +90313,7 @@ window.allHeroes =
         "family": "styx",
         "image": "https://i.imgur.com/erwVVF0.jpg",
         "costume_id": 0,
-        "originalIndex": 1387,
+        "originalIndex": 1389,
         "lb1": {
             "power": 915,
             "attack": 945,
@@ -90223,7 +90383,7 @@ window.allHeroes =
         "family": "beowulf",
         "image": "https://imgur.com/25R91G2.jpg",
         "costume_id": 0,
-        "originalIndex": 1388,
+        "originalIndex": 1390,
         "lb1": {
             "power": 1285,
             "attack": 1396,
@@ -90284,7 +90444,7 @@ window.allHeroes =
         "family": "vanaheim",
         "image": "https://i.imgur.com/evikfGP.jpg",
         "costume_id": 0,
-        "originalIndex": 1389,
+        "originalIndex": 1391,
         "lb1": {
             "power": 839,
             "attack": 830,
@@ -90339,7 +90499,7 @@ window.allHeroes =
         "family": "vanaheim",
         "image": "https://i.imgur.com/aH5vllh.jpg",
         "costume_id": 1,
-        "originalIndex": 1390,
+        "originalIndex": 1392,
         "lb1": {
             "power": 1053,
             "attack": 1144,
@@ -90398,7 +90558,7 @@ window.allHeroes =
         "family": "midgard",
         "image": "https://i.imgur.com/WpdZnYI.jpg",
         "costume_id": 0,
-        "originalIndex": 1391,
+        "originalIndex": 1393,
         "lb1": {
             "power": 840,
             "attack": 821,
@@ -90462,7 +90622,7 @@ window.allHeroes =
         "family": "midgard",
         "image": "https://i.imgur.com/guLxDJt.jpg",
         "costume_id": 1,
-        "originalIndex": 1392,
+        "originalIndex": 1394,
         "lb1": {
             "power": 1053,
             "attack": 1030,
@@ -90531,7 +90691,7 @@ window.allHeroes =
         "family": "bard",
         "image": "https://i.imgur.com/8WZ5oVt.jpg",
         "costume_id": 0,
-        "originalIndex": 1393,
+        "originalIndex": 1395,
         "lb1": {
             "power": 893,
             "attack": 899,
@@ -90599,7 +90759,7 @@ window.allHeroes =
         "family": 2019,
         "image": "https://i.imgur.com/wCLflfr.jpg",
         "costume_id": 0,
-        "originalIndex": 1394,
+        "originalIndex": 1396,
         "lb1": {
             "power": 821,
             "attack": 666,
@@ -90661,7 +90821,7 @@ window.allHeroes =
         "family": "moon",
         "image": "https://i.imgur.com/cV84mq0.jpg",
         "costume_id": 0,
-        "originalIndex": 1395,
+        "originalIndex": 1397,
         "lb1": {
             "power": 916,
             "attack": 876,
@@ -90738,7 +90898,7 @@ window.allHeroes =
         "family": "moon",
         "image": "https://i.imgur.com/jWPUwhw.jpg",
         "costume_id": 1,
-        "originalIndex": 1396,
+        "originalIndex": 1398,
         "lb1": {
             "power": 1243,
             "attack": 1188,
@@ -90811,7 +90971,7 @@ window.allHeroes =
         "family": "gargoyle",
         "image": "https://i.imgur.com/ifFiCU7.jpg",
         "costume_id": 0,
-        "originalIndex": 1397,
+        "originalIndex": 1399,
         "lb1": {
             "power": 897,
             "attack": 896,
@@ -90890,7 +91050,7 @@ window.allHeroes =
         "family": "nightmaresofatlantis",
         "image": "https://i.imgur.com/XWgWbVt.jpg",
         "costume_id": 0,
-        "originalIndex": 1398,
+        "originalIndex": 1400,
         "lb1": {
             "power": 1030,
             "attack": 1054,
@@ -90972,7 +91132,7 @@ window.allHeroes =
         "family": "nightmaresofatlantis",
         "image": "https://i.imgur.com/nKfadia.jpg",
         "costume_id": 1,
-        "originalIndex": 1399,
+        "originalIndex": 1401,
         "lb1": {
             "power": 1284,
             "attack": 1363,
@@ -91046,7 +91206,7 @@ window.allHeroes =
         "family": "owl",
         "image": "https://i.imgur.com/LyzgS9S.jpg",
         "costume_id": 0,
-        "originalIndex": 1400,
+        "originalIndex": 1402,
         "lb1": {
             "power": 1241,
             "attack": 1252,
@@ -91118,7 +91278,7 @@ window.allHeroes =
         "family": "woodlandfaun",
         "image": "https://imgur.com/zZJxSMo.jpg",
         "costume_id": 0,
-        "originalIndex": 1401,
+        "originalIndex": 1403,
         "lb1": {
             "power": 1256,
             "attack": 1351,
@@ -91183,7 +91343,7 @@ window.allHeroes =
         "family": "atlantis",
         "image": "https://i.imgur.com/4yAjxl7.jpg",
         "costume_id": 0,
-        "originalIndex": 1402,
+        "originalIndex": 1404,
         "lb1": {
             "power": 826,
             "attack": 803,
@@ -91240,7 +91400,7 @@ window.allHeroes =
         "family": "atlantis",
         "image": "https://i.imgur.com/jU6Z8JO.jpg",
         "costume_id": 1,
-        "originalIndex": 1403,
+        "originalIndex": 1405,
         "lb1": {
             "power": 1012,
             "attack": 990,
@@ -91302,7 +91462,7 @@ window.allHeroes =
         "family": "underwild",
         "image": "https://i.imgur.com/1q7ZFV3.jpg",
         "costume_id": 0,
-        "originalIndex": 1404,
+        "originalIndex": 1406,
         "lb1": {
             "power": 860,
             "attack": 803,
@@ -91366,7 +91526,7 @@ window.allHeroes =
         "family": "underwild",
         "image": "https://i.imgur.com/CwQ3ejX.jpg",
         "costume_id": 1,
-        "originalIndex": 1405,
+        "originalIndex": 1407,
         "lb1": {
             "power": 1090,
             "attack": 1038,
@@ -91424,7 +91584,7 @@ window.allHeroes =
         "family": "journey",
         "image": "https://i.imgur.com/CNKl3X2.jpg",
         "costume_id": 0,
-        "originalIndex": 1406,
+        "originalIndex": 1408,
         "lb1": {
             "power": 919,
             "attack": 859,
@@ -91493,7 +91653,7 @@ window.allHeroes =
         "family": "sand",
         "image": "https://i.imgur.com/XCRwmmP.jpg",
         "costume_id": 0,
-        "originalIndex": 1407,
+        "originalIndex": 1409,
         "lb1": {
             "power": 823,
             "attack": 792,
@@ -91559,7 +91719,7 @@ window.allHeroes =
         "family": "sand",
         "image": "https://i.imgur.com/ETB8w9H.jpg",
         "costume_id": 1,
-        "originalIndex": 1408,
+        "originalIndex": 1410,
         "lb1": {
             "power": 1007,
             "attack": 1003,
@@ -91624,7 +91784,7 @@ window.allHeroes =
         "family": 2019,
         "image": "https://i.imgur.com/pCzfhdF.jpg",
         "costume_id": 0,
-        "originalIndex": 1409,
+        "originalIndex": 1411,
         "lb1": {
             "power": 821,
             "attack": 828,
@@ -91696,7 +91856,7 @@ window.allHeroes =
         "family": "bard",
         "image": "https://i.imgur.com/CuNew0r.jpg",
         "costume_id": 0,
-        "originalIndex": 1410,
+        "originalIndex": 1412,
         "lb1": {
             "power": 906,
             "attack": 910,
@@ -91766,7 +91926,7 @@ window.allHeroes =
         "family": "sand",
         "image": "https://i.imgur.com/jRrOk7n.jpg",
         "costume_id": 0,
-        "originalIndex": 1411,
+        "originalIndex": 1413,
         "lb1": {
             "power": 841,
             "attack": 821,
@@ -91828,7 +91988,7 @@ window.allHeroes =
         "family": "sand",
         "image": "https://i.imgur.com/wRsoDQK.jpg",
         "costume_id": 1,
-        "originalIndex": 1412,
+        "originalIndex": 1414,
         "lb1": {
             "power": 1030,
             "attack": 1023,
@@ -91900,7 +92060,7 @@ window.allHeroes =
         "family": "garrisonguard",
         "image": "https://i.imgur.com/founMKj.jpg",
         "costume_id": 0,
-        "originalIndex": 1413,
+        "originalIndex": 1415,
         "lb1": {
             "power": 1188,
             "attack": 1167,
@@ -91975,7 +92135,7 @@ window.allHeroes =
         "family": "outlaws",
         "image": "https://imgur.com/YX2qCp0.jpg",
         "costume_id": 0,
-        "originalIndex": 1414,
+        "originalIndex": 1416,
         "lb1": {
             "power": 1288,
             "attack": 1345,
@@ -92050,7 +92210,7 @@ window.allHeroes =
         "family": "astraldwarfs",
         "image": "https://i.imgur.com/iWjHJHA.jpg",
         "costume_id": 0,
-        "originalIndex": 1415,
+        "originalIndex": 1417,
         "lb1": {
             "power": 1238,
             "attack": 1329,
@@ -92123,7 +92283,7 @@ window.allHeroes =
         "family": "moth",
         "image": "https://i.imgur.com/S7h6aSM.jpg",
         "costume_id": 0,
-        "originalIndex": 1416,
+        "originalIndex": 1418,
         "lb1": {
             "power": 1260,
             "attack": 1338,
@@ -92200,7 +92360,7 @@ window.allHeroes =
         "family": "goblin",
         "image": "https://i.imgur.com/oI9QMY8.jpg",
         "costume_id": 0,
-        "originalIndex": 1417,
+        "originalIndex": 1419,
         "lb1": {
             "power": 1136,
             "attack": 1125,
@@ -92276,7 +92436,7 @@ window.allHeroes =
         "family": "construct",
         "image": "https://i.imgur.com/elVlVhm.jpg",
         "costume_id": 0,
-        "originalIndex": 1418,
+        "originalIndex": 1420,
         "lb1": {
             "power": 1046,
             "attack": 976,
@@ -92344,7 +92504,7 @@ window.allHeroes =
         "family": "garrisonguard",
         "image": "https://i.imgur.com/5LBrUnk.jpg",
         "costume_id": 0,
-        "originalIndex": 1419,
+        "originalIndex": 1421,
         "lb1": {
             "power": 1126,
             "attack": 1136,
@@ -92410,7 +92570,7 @@ window.allHeroes =
         "family": "midgard",
         "image": "https://i.imgur.com/IEuL57g.jpg",
         "costume_id": 0,
-        "originalIndex": 1420,
+        "originalIndex": 1422,
         "lb1": {
             "power": 841,
             "attack": 850,
@@ -92468,7 +92628,7 @@ window.allHeroes =
         "family": "midgard",
         "image": "https://i.imgur.com/L0IBEq2.jpg",
         "costume_id": 1,
-        "originalIndex": 1421,
+        "originalIndex": 1423,
         "lb1": {
             "power": 1054,
             "attack": 1036,
@@ -92528,7 +92688,7 @@ window.allHeroes =
         "family": "fox",
         "image": "https://i.imgur.com/Cj9sBht.jpg",
         "costume_id": 0,
-        "originalIndex": 1422,
+        "originalIndex": 1424,
         "lb1": {
             "power": 1235,
             "attack": 1334,
@@ -92592,7 +92752,7 @@ window.allHeroes =
         "family": "springvale",
         "image": "https://i.imgur.com/YbdZndT.jpg",
         "costume_id": 0,
-        "originalIndex": 1423,
+        "originalIndex": 1425,
         "lb1": {
             "power": 841,
             "attack": 839,
@@ -92660,7 +92820,7 @@ window.allHeroes =
         "family": "slime",
         "image": "https://i.imgur.com/IpdLyXH.jpg",
         "costume_id": 0,
-        "originalIndex": 1424,
+        "originalIndex": 1426,
         "lb1": {
             "power": 1174,
             "attack": 1209,
@@ -92729,7 +92889,7 @@ window.allHeroes =
         "family": "kingdom",
         "image": "https://i.imgur.com/y2EYio1.jpg",
         "costume_id": 0,
-        "originalIndex": 1425,
+        "originalIndex": 1427,
         "lb1": {
             "power": 1095,
             "attack": 1090,
@@ -92800,7 +92960,7 @@ window.allHeroes =
         "family": "midgard",
         "image": "https://i.imgur.com/Cls9o26.jpg",
         "costume_id": 0,
-        "originalIndex": 1426,
+        "originalIndex": 1428,
         "lb1": {
             "power": 840,
             "attack": 808,
@@ -92865,7 +93025,7 @@ window.allHeroes =
         "family": "midgard",
         "image": "https://i.imgur.com/LYyDsUh.jpg",
         "costume_id": 1,
-        "originalIndex": 1427,
+        "originalIndex": 1429,
         "lb1": {
             "power": 1054,
             "attack": 1008,
@@ -92931,7 +93091,7 @@ window.allHeroes =
         "family": "junglehunter",
         "image": "https://i.imgur.com/8fPiMj3.jpg",
         "costume_id": 0,
-        "originalIndex": 1428,
+        "originalIndex": 1430,
         "lb1": {
             "power": 956,
             "attack": 927,
@@ -93003,7 +93163,7 @@ window.allHeroes =
         "family": "plainshunter",
         "image": "https://i.imgur.com/3kaZWy1.jpg",
         "costume_id": 0,
-        "originalIndex": 1429,
+        "originalIndex": 1431,
         "lb1": {
             "power": 1199,
             "attack": 1258,
@@ -93074,7 +93234,7 @@ window.allHeroes =
         "family": "ninja",
         "image": "https://i.imgur.com/yKvm70P.jpg",
         "costume_id": 0,
-        "originalIndex": 1430,
+        "originalIndex": 1432,
         "lb1": {
             "power": 872,
             "attack": 885,
@@ -93146,7 +93306,7 @@ window.allHeroes =
         "family": 2021,
         "image": "https://i.imgur.com/1T6P7Be.jpg",
         "costume_id": 0,
-        "originalIndex": 1431,
+        "originalIndex": 1433,
         "lb1": {
             "power": 838,
             "attack": 839,
@@ -93227,7 +93387,7 @@ window.allHeroes =
         "family": "magic",
         "image": "https://i.imgur.com/Ssu3ay2.jpg",
         "costume_id": 0,
-        "originalIndex": 1432,
+        "originalIndex": 1434,
         "lb1": {
             "power": 1022,
             "attack": 1012,
@@ -93296,7 +93456,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/aHsNbej.jpg",
         "costume_id": 0,
-        "originalIndex": 1433,
+        "originalIndex": 1435,
         "lb1": {
             "power": 804,
             "attack": 770,
@@ -93361,7 +93521,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/pm7wcbP.jpg",
         "costume_id": 1,
-        "originalIndex": 1434,
+        "originalIndex": 1436,
         "lb1": {
             "power": 893,
             "attack": 859,
@@ -93426,7 +93586,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/J8lGs8A.jpg",
         "costume_id": 2,
-        "originalIndex": 1435,
+        "originalIndex": 1437,
         "lb1": {
             "power": 1032,
             "attack": 967,
@@ -93493,7 +93653,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/zJxvLuN.jpg",
         "costume_id": 3,
-        "originalIndex": 1436,
+        "originalIndex": 1438,
         "lb1": {
             "power": 1210,
             "attack": 1185,
@@ -93563,7 +93723,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/Vcxpsu2.jpg",
         "costume_id": 4,
-        "originalIndex": 1437,
+        "originalIndex": 1439,
         "lb1": {
             "power": 1325,
             "attack": 1335,
@@ -93629,7 +93789,7 @@ window.allHeroes =
         "family": "morlovia",
         "image": "https://i.imgur.com/ogAtunM.jpg",
         "costume_id": 0,
-        "originalIndex": 1438,
+        "originalIndex": 1440,
         "lb1": {
             "power": 1127,
             "attack": 1276,
@@ -93704,7 +93864,7 @@ window.allHeroes =
         "family": "beowulf",
         "image": "https://i.imgur.com/yG43ChX.jpg",
         "costume_id": 0,
-        "originalIndex": 1439,
+        "originalIndex": 1441,
         "lb1": {
             "power": 1265,
             "attack": 1198,
@@ -93768,7 +93928,7 @@ window.allHeroes =
         "family": "wonderland",
         "image": "https://i.imgur.com/00qNGOk.jpg",
         "costume_id": 0,
-        "originalIndex": 1440,
+        "originalIndex": 1442,
         "lb1": {
             "power": 831,
             "attack": 788,
@@ -93827,7 +93987,7 @@ window.allHeroes =
         "family": "wonderland",
         "image": "https://i.imgur.com/qj3SAsZ.jpg",
         "costume_id": 1,
-        "originalIndex": 1441,
+        "originalIndex": 1443,
         "lb1": {
             "power": 1043,
             "attack": 1014,
@@ -93902,7 +94062,7 @@ window.allHeroes =
         "family": "magic",
         "image": "https://i.imgur.com/Njfyzmw.jpg",
         "costume_id": 0,
-        "originalIndex": 1442,
+        "originalIndex": 1444,
         "lb1": {
             "power": 951,
             "attack": 896,
@@ -93979,7 +94139,7 @@ window.allHeroes =
         "family": "stag",
         "image": "https://i.imgur.com/Dx6MykQ.jpg",
         "costume_id": 0,
-        "originalIndex": 1443,
+        "originalIndex": 1445,
         "lb1": {
             "power": 1098,
             "attack": 1036,
@@ -94046,7 +94206,7 @@ window.allHeroes =
         "family": "wolf",
         "image": "https://i.imgur.com/8Qu4qUF.jpg",
         "costume_id": 0,
-        "originalIndex": 1444,
+        "originalIndex": 1446,
         "lb1": {
             "power": 870,
             "attack": 828,
@@ -94113,7 +94273,7 @@ window.allHeroes =
         "family": "wolf",
         "image": "https://i.imgur.com/2DLIDng.jpg",
         "costume_id": 1,
-        "originalIndex": 1445,
+        "originalIndex": 1447,
         "lb1": {
             "power": 1228,
             "attack": 1221,
@@ -94176,7 +94336,7 @@ window.allHeroes =
         "family": "cultist",
         "image": "https://i.imgur.com/EHlubEr.jpg",
         "costume_id": 0,
-        "originalIndex": 1446,
+        "originalIndex": 1448,
         "lb1": {
             "power": 1247,
             "attack": 1305,
@@ -94249,7 +94409,7 @@ window.allHeroes =
         "family": "superelemental",
         "image": "https://i.imgur.com/DZtGVoI.jpg",
         "costume_id": 0,
-        "originalIndex": 1447,
+        "originalIndex": 1449,
         "lb1": {
             "power": 1004,
             "attack": 1025,
@@ -94315,7 +94475,7 @@ window.allHeroes =
         "family": "superelemental",
         "image": "https://i.imgur.com/h5xLq71.jpg",
         "costume_id": 0,
-        "originalIndex": 1448,
+        "originalIndex": 1450,
         "lb1": {
             "power": 956,
             "attack": 879,
@@ -94384,7 +94544,7 @@ window.allHeroes =
         "family": "magiccarpet",
         "image": "https://imgur.com/da8x4gT.jpg",
         "costume_id": 0,
-        "originalIndex": 1449,
+        "originalIndex": 1451,
         "lb1": {
             "power": 1295,
             "attack": 1398,
@@ -94447,7 +94607,7 @@ window.allHeroes =
         "family": "underwild",
         "image": "https://i.imgur.com/hsqxizP.jpg",
         "costume_id": 0,
-        "originalIndex": 1450,
+        "originalIndex": 1452,
         "lb1": {
             "power": 866,
             "attack": 863,
@@ -94516,7 +94676,7 @@ window.allHeroes =
         "family": "underwild",
         "image": "https://i.imgur.com/KswtgYH.jpg",
         "costume_id": 1,
-        "originalIndex": 1451,
+        "originalIndex": 1453,
         "lb1": {
             "power": 1099,
             "attack": 1128,
@@ -94585,7 +94745,7 @@ window.allHeroes =
         "family": "beachparty",
         "image": "https://i.imgur.com/wpHKBfv.jpg",
         "costume_id": 0,
-        "originalIndex": 1452,
+        "originalIndex": 1454,
         "lb1": {
             "power": 1086,
             "attack": 1070,
@@ -94647,7 +94807,7 @@ window.allHeroes =
         "family": "kingdom",
         "image": "https://i.imgur.com/stJf0Qg.jpg",
         "costume_id": 0,
-        "originalIndex": 1453,
+        "originalIndex": 1455,
         "lb1": {
             "power": 890,
             "attack": 923,
@@ -94712,7 +94872,7 @@ window.allHeroes =
         "family": "kingdom",
         "image": "https://i.imgur.com/LeENxWF.jpg",
         "costume_id": 1,
-        "originalIndex": 1454,
+        "originalIndex": 1456,
         "lb1": {
             "power": 1181,
             "attack": 1287,
@@ -94779,7 +94939,7 @@ window.allHeroes =
         "family": "kingdom",
         "image": "https://i.imgur.com/jjSBiGT.jpg",
         "costume_id": 0,
-        "originalIndex": 1455,
+        "originalIndex": 1457,
         "lb1": {
             "power": 891,
             "attack": 765,
@@ -94846,7 +95006,7 @@ window.allHeroes =
         "family": "kingdom",
         "image": "https://i.imgur.com/zdjoPv7.jpg",
         "costume_id": 1,
-        "originalIndex": 1456,
+        "originalIndex": 1458,
         "lb1": {
             "power": 1181,
             "attack": 1024,
@@ -94911,7 +95071,7 @@ window.allHeroes =
         "family": 2024,
         "image": "https://i.imgur.com/wf4Kvkm.jpg",
         "costume_id": 0,
-        "originalIndex": 1457,
+        "originalIndex": 1459,
         "lb1": {
             "power": 1018,
             "attack": 939,
@@ -94938,93 +95098,6 @@ window.allHeroes =
             {
                 "负面效果": [
                     "Status - Cleanse Ailments"
-                ]
-            }
-        ]
-    },
-    {
-        "name": "Ascension Mimic",
-        "fancy_name": "Grinning Cache of Evil",
-        "AetherPower": "Bulwark",
-        "color": "Red",
-        "class": "Rogue",
-        "speed": "Average",
-        "skill": "Gorging Chew",
-        "types": [
-            "Minion Destroyer 3",
-            "Hit 3",
-            "Mimic Chest"
-        ],
-        "skill_types": [
-            "Healers (Special)",
-            "Minions Counters",
-            "AoE Attackers (Hit-3)",
-            "Mana Raisers",
-            "Immunity Providers",
-            "Ghost Form & Hiding",
-            "Bypassers"
-        ],
-        "source": "Extra Draw - Secret Summon",
-        "Release date": "2025-07-04",
-        "star": 5,
-        "power": 1225,
-        "attack": 1269,
-        "defense": 1269,
-        "health": 2152,
-        "effects": [
-            "Deals 380% damage to the target and nearby enemies.",
-            "If an enemy is defeated by the attack, the caster recovers +50% health and gains +33% mana.",
-            "The target and nearby enemies receive 608 Bleed damage over 4 turns.",
-            "The Mimic chest closes for 2 turns. (The Mimic is immune to damage and new status ailments while closed.)"
-        ],
-        "passives": [
-            "Perfect Accuracy: This character’s Special Skill never misses its targets.",
-            "Mimic Loot: This Mimic gives a chance for extra loot when completing stages",
-            " * Tall Boots",
-            " * Fine Gloves",
-            " * Compass",
-            " * Damascus Blade",
-            " * Tome of Tactics",
-            " * Fine Leather",
-            " * Chainmail Shirt",
-            " * FHidden Blade",
-            " * Mystic Rings"
-        ],
-        "family": "mimic",
-        "image": "https://imgur.com/extra1.jpg",
-        "costume_id": 0,
-        "originalIndex": 1458,
-        "lb1": {
-            "attack": 1367,
-            "defense": 1367,
-            "health": 2319
-        },
-        "lb2": {
-            "attack": 1564,
-            "defense": 1564,
-            "health": 2664
-        },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "Atk: Area",
-                    "Dmg: DoT"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "Heal - Self Recovery",
-                    "Mana - Mana Gain (on Kill)"
-                ]
-            },
-            {
-                "增益效果": [
-                    "Def - Mimic"
-                ]
-            },
-            {
-                "负面效果": [
-                    "Dmg - DoT : Bleed"
                 ]
             }
         ]
