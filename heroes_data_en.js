@@ -209,7 +209,19 @@ window.allHeroes =
             "defense": 720,
             "health": 1095
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Heal: Over Time",
+                    "Heal: Revive"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Status - Replace with Buff"
+                ]
+            }
+        ]
     },
     {
         "name": "Chick Jr.",
@@ -254,7 +266,18 @@ window.allHeroes =
             "defense": 579,
             "health": 985
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: All"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Status - Self-Debuff"
+                ]
+            }
+        ]
     },
     {
         "name": "Dawn",
@@ -310,7 +333,24 @@ window.allHeroes =
             "defense": 669,
             "health": 1277
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "特殊效果": [
+                    "Mana - Mana Cut",
+                    "Summon - Minion"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Def - Def ↑ : Special"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Status - Cleanse Ailments"
+                ]
+            }
+        ]
     },
     {
         "name": "Frosty",
@@ -356,7 +396,18 @@ window.allHeroes =
             "defense": 732,
             "health": 1097
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Heal: Instant"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Summon - Minion"
+                ]
+            }
+        ]
     },
     {
         "name": "Gato",
@@ -402,7 +453,18 @@ window.allHeroes =
             "defense": 562,
             "health": 895
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Single"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Status - Ailment Immunity"
+                ]
+            }
+        ]
     },
     {
         "name": "Graymane",
@@ -448,7 +510,18 @@ window.allHeroes =
             "defense": 516,
             "health": 1105
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Single"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Heal - From Dmg"
+                ]
+            }
+        ]
     },
     {
         "name": "Graymane C1",
@@ -497,7 +570,19 @@ window.allHeroes =
             "defense": 588,
             "health": 1266
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Single"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Status - Ailment Immunity",
+                    "Atk - Attack ↑"
+                ]
+            }
+        ]
     },
     {
         "name": "Graymane Toon",
@@ -547,7 +632,19 @@ window.allHeroes =
             "defense": 558,
             "health": 1326
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Single"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Heal - From Dmg",
+                    "Dmg - Dmg ↑ : Fire"
+                ]
+            }
+        ]
     },
     {
         "name": "Graymane Glass",
@@ -598,7 +695,19 @@ window.allHeroes =
             "defense": 625,
             "health": 1373
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Single"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Heal - From Dmg",
+                    "Atk - Bypass / Ignore"
+                ]
+            }
+        ]
     },
     {
         "name": "Guardian Lemur",
@@ -643,7 +752,18 @@ window.allHeroes =
             "defense": 688,
             "health": 1195
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Heal: Instant"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Def - Def ↑ : Nature"
+                ]
+            }
+        ]
     },
     {
         "name": "Gunnar",
@@ -689,7 +809,14 @@ window.allHeroes =
             "defense": 747,
             "health": 920
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "增益效果": [
+                    "Def - Dmg Share",
+                    "Def - Defense ↑"
+                ]
+            }
+        ]
     },
     {
         "name": "Gunnar C1",
@@ -735,7 +862,18 @@ window.allHeroes =
             "defense": 777,
             "health": 1031
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "增益效果": [
+                    "Def - Dmg Share"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Def - Defense ↓"
+                ]
+            }
+        ]
     },
     {
         "name": "Gunnar Toon",
@@ -783,7 +921,14 @@ window.allHeroes =
             "defense": 746,
             "health": 1144
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "增益效果": [
+                    "Def - Dmg Share",
+                    "Def - Defense ↑"
+                ]
+            }
+        ]
     },
     {
         "name": "Helo",
@@ -831,7 +976,18 @@ window.allHeroes =
             "defense": 708,
             "health": 1119
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Heal: Instant"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Status - Cleanse Ailments"
+                ]
+            }
+        ]
     },
     {
         "name": "Helo C1",
@@ -879,7 +1035,18 @@ window.allHeroes =
             "defense": 734,
             "health": 1140
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Heal: Over Time"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Status - Cleanse Ailments"
+                ]
+            }
+        ]
     },
     {
         "name": "Jarif",
@@ -929,7 +1096,18 @@ window.allHeroes =
             "defense": 571,
             "health": 1272
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Single"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Status - Buff Immunity"
+                ]
+            }
+        ]
     },
     {
         "name": "Jarif C1",
@@ -981,7 +1159,18 @@ window.allHeroes =
             "defense": 557,
             "health": 1262
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Single"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Status - Buff Immunity"
+                ]
+            }
+        ]
     },
     {
         "name": "Jarvur",
@@ -1028,7 +1217,18 @@ window.allHeroes =
             "defense": 591,
             "health": 1085
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Single"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Atk - Stack : Atk ↑"
+                ]
+            }
+        ]
     },
     {
         "name": "Joukahainen",
@@ -1079,7 +1279,23 @@ window.allHeroes =
             "defense": 662,
             "health": 1229
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: All"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Status - Dispel Buffs"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Status - Buff Immunity"
+                ]
+            }
+        ]
     },
     {
         "name": "Karil",
@@ -1122,7 +1338,13 @@ window.allHeroes =
             "defense": 530,
             "health": 1027
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Minor to Nearby"
+                ]
+            }
+        ]
     },
     {
         "name": "Karil C1",
@@ -1168,7 +1390,19 @@ window.allHeroes =
             "defense": 541,
             "health": 1121
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Minor to Nearby",
+                    "Dmg: DoT"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Dmg - DoT : Burn"
+                ]
+            }
+        ]
     },
     {
         "name": "Karil Toon",
@@ -1215,7 +1449,18 @@ window.allHeroes =
             "defense": 581,
             "health": 1212
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Minor to Nearby"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Dmg - Dmg ↑ : Fire"
+                ]
+            }
+        ]
     },
     {
         "name": "Nordri",
@@ -1261,7 +1506,18 @@ window.allHeroes =
             "defense": 569,
             "health": 1146
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Minor to Nearby"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Def - Def ↓ : Ice"
+                ]
+            }
+        ]
     },
     {
         "name": "Nordri C1",
@@ -1307,7 +1563,18 @@ window.allHeroes =
             "defense": 606,
             "health": 1263
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Area"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Def - Def ↓ : Ice"
+                ]
+            }
+        ]
     },
     {
         "name": "Planchet",
@@ -1358,7 +1625,19 @@ window.allHeroes =
             "defense": 635,
             "health": 1136
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Single"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Atk - Destroy Minions",
+                    "Heal - Self Recovery"
+                ]
+            }
+        ]
     },
     {
         "name": "Soroca",
@@ -1406,7 +1685,18 @@ window.allHeroes =
             "defense": 700,
             "health": 985
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Single"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Dmg - Extra"
+                ]
+            }
+        ]
     },
     {
         "name": "Swan Maiden",
@@ -1467,7 +1757,23 @@ window.allHeroes =
             "defense": 730,
             "health": 1217
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Heal: Over Time"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Atk - Extra Attack"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Def - Dodge"
+                ]
+            }
+        ]
     },
     {
         "name": "Ulmer",
@@ -1513,7 +1819,18 @@ window.allHeroes =
             "defense": 503,
             "health": 949
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: All"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Def - Defense ↓"
+                ]
+            }
+        ]
     },
     {
         "name": "Ulmer C1",
@@ -1559,7 +1876,18 @@ window.allHeroes =
             "defense": 574,
             "health": 1091
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: All"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Atk - Attack ↑"
+                ]
+            }
+        ]
     },
     {
         "name": "Ulmer Toon",
@@ -1609,7 +1937,23 @@ window.allHeroes =
             "defense": 707,
             "health": 1149
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: All"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Dmg - Dmg ↑ : Fire"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Def - Defense ↓"
+                ]
+            }
+        ]
     },
     {
         "name": "Valen",
@@ -1655,7 +1999,18 @@ window.allHeroes =
             "defense": 576,
             "health": 951
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Single"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Def - Defense ↓"
+                ]
+            }
+        ]
     },
     {
         "name": "Valen C1",
@@ -1701,7 +2056,18 @@ window.allHeroes =
             "defense": 632,
             "health": 1072
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Single"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Atk - Attack ↑"
+                ]
+            }
+        ]
     },
     {
         "name": "Valen Toon",
@@ -1751,7 +2117,23 @@ window.allHeroes =
             "defense": 673,
             "health": 1147
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Single"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Dmg - Dmg ↑ : Fire"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Def - Defense ↓"
+                ]
+            }
+        ]
     },
     {
         "name": "Virgil",
@@ -1811,7 +2193,19 @@ window.allHeroes =
             "defense": 693,
             "health": 1367
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Heal: Instant"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Def - Def ↑ : Special",
+                    "Def - Def ↑ : Nature"
+                ]
+            }
+        ]
     },
     {
         "name": "Vodnik",
@@ -1856,7 +2250,18 @@ window.allHeroes =
             "defense": 601,
             "health": 1168
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Single"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Dmg - Extra"
+                ]
+            }
+        ]
     },
     {
         "name": "Yao",
@@ -1904,7 +2309,23 @@ window.allHeroes =
             "defense": 696,
             "health": 1090
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Area"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Summon - Minion"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Status - Dispel Buffs"
+                ]
+            }
+        ]
     },
     {
         "name": "Agwe",
@@ -1950,7 +2371,18 @@ window.allHeroes =
             "defense": 776,
             "health": 1359
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: All"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Def - Def ↑ : Nature"
+                ]
+            }
+        ]
     },
     {
         "name": "Agwe C1",
@@ -1996,7 +2428,19 @@ window.allHeroes =
             "defense": 896,
             "health": 1396
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: All",
+                    "Dmg: DoT"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Dmg - DoT : Burn"
+                ]
+            }
+        ]
     },
     {
         "name": "Aqualith",
@@ -2051,7 +2495,18 @@ window.allHeroes =
             "defense": 867,
             "health": 1574
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "特殊效果": [
+                    "Dmg - Explosion"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Def - Taunt"
+                ]
+            }
+        ]
     },
     {
         "name": "Aqualith C1",
@@ -2107,7 +2562,18 @@ window.allHeroes =
             "defense": 900,
             "health": 1647
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "特殊效果": [
+                    "Dmg - Explosion"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Def - Taunt"
+                ]
+            }
+        ]
     },
     {
         "name": "Azmia",
@@ -2157,7 +2623,18 @@ window.allHeroes =
             "defense": 939,
             "health": 1670
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Heal: Instant"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Def - Counterattack"
+                ]
+            }
+        ]
     },
     {
         "name": "Azmia C1",
@@ -2211,7 +2688,18 @@ window.allHeroes =
             "defense": 903,
             "health": 1725
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Heal: Instant"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Def - Counterattack"
+                ]
+            }
+        ]
     },
     {
         "name": "Bonechill",
@@ -2262,7 +2750,23 @@ window.allHeroes =
             "defense": 958,
             "health": 1563
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Area"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Def - Def ↑ : Nature"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Def - Def ↓ : Special"
+                ]
+            }
+        ]
     },
     {
         "name": "Boril",
@@ -2305,7 +2809,13 @@ window.allHeroes =
             "defense": 998,
             "health": 1450
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "增益效果": [
+                    "Def - Counterattack"
+                ]
+            }
+        ]
     },
     {
         "name": "Boril C1",
@@ -2348,7 +2858,13 @@ window.allHeroes =
             "defense": 1093,
             "health": 1637
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "增益效果": [
+                    "Def - Counterattack"
+                ]
+            }
+        ]
     },
     {
         "name": "Boril C2",
@@ -2391,7 +2907,13 @@ window.allHeroes =
             "defense": 1114,
             "health": 1770
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "增益效果": [
+                    "Def - Counterattack"
+                ]
+            }
+        ]
     },
     {
         "name": "Boril Toon",
@@ -2436,7 +2958,13 @@ window.allHeroes =
             "defense": 1076,
             "health": 1766
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "增益效果": [
+                    "Def - Counterattack"
+                ]
+            }
+        ]
     },
     {
         "name": "Captain of Diamonds",
@@ -2485,7 +3013,19 @@ window.allHeroes =
             "defense": 859,
             "health": 1418
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Single"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Atk - Destroy Minions",
+                    "Atk - Extra Attack"
+                ]
+            }
+        ]
     },
     {
         "name": "Dain",
@@ -2540,7 +3080,14 @@ window.allHeroes =
             "defense": 936,
             "health": 1697
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "增益效果": [
+                    "Def - Dmg Reduction",
+                    "Atk - Attack ↑"
+                ]
+            }
+        ]
     },
     {
         "name": "Fosco",
@@ -2592,7 +3139,23 @@ window.allHeroes =
             "defense": 878,
             "health": 1560
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Heal: Over Time"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Atk - Destroy Minions"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Status - Dispel Buffs"
+                ]
+            }
+        ]
     },
     {
         "name": "Frank",
@@ -2642,7 +3205,23 @@ window.allHeroes =
             "defense": 805,
             "health": 1627
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: All"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Dmg - Extra"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Def - Defense ↓"
+                ]
+            }
+        ]
     },
     {
         "name": "Frank C1",
@@ -2695,7 +3274,31 @@ window.allHeroes =
             "defense": 820,
             "health": 1712
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: All",
+                    "Dmg: DoT"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Dmg - Extra"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Mana - Stack : Mana Gen ↑"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Def - Def ↓ : Ice",
+                    "Dmg - Stack : DoT",
+                    "Dmg - DoT : Frost"
+                ]
+            }
+        ]
     },
     {
         "name": "Garyas",
@@ -2745,7 +3348,18 @@ window.allHeroes =
             "defense": 840,
             "health": 1624
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Single"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Mana - Tile : Gen"
+                ]
+            }
+        ]
     },
     {
         "name": "Greg",
@@ -2796,7 +3410,24 @@ window.allHeroes =
             "defense": 888,
             "health": 1582
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: All",
+                    "Dmg: DoT"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Summon - Mega Minion"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Dmg - DoT : Bleed"
+                ]
+            }
+        ]
     },
     {
         "name": "Grimm",
@@ -2842,7 +3473,18 @@ window.allHeroes =
             "defense": 669,
             "health": 1426
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Minor to Nearby"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Def - Defense ↓"
+                ]
+            }
+        ]
     },
     {
         "name": "Grimm C1",
@@ -2888,7 +3530,18 @@ window.allHeroes =
             "defense": 753,
             "health": 1625
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Minor to Nearby"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Atk - Attack ↑"
+                ]
+            }
+        ]
     },
     {
         "name": "Grimm C2",
@@ -2933,7 +3586,18 @@ window.allHeroes =
             "defense": 760,
             "health": 1672
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Single"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Dmg - Extra"
+                ]
+            }
+        ]
     },
     {
         "name": "Grimm Toon",
@@ -2983,7 +3647,23 @@ window.allHeroes =
             "defense": 803,
             "health": 1739
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Minor to Nearby"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Dmg - Dmg ↑ : Fire"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Def - Defense ↓"
+                ]
+            }
+        ]
     },
     {
         "name": "Grimm Glass",
@@ -3033,7 +3713,23 @@ window.allHeroes =
             "defense": 815,
             "health": 1778
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Minor to Nearby"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Atk - Bypass / Ignore"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Def - Defense ↓"
+                ]
+            }
+        ]
     },
     {
         "name": "Grumbl",
@@ -3085,7 +3781,23 @@ window.allHeroes =
             "defense": 861,
             "health": 1632
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Heal: Over Time"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Def - Dmg Reduction"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Status - Cleanse Ailments"
+                ]
+            }
+        ]
     },
     {
         "name": "Jott",
@@ -3133,7 +3845,18 @@ window.allHeroes =
             "defense": 765,
             "health": 1418
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: All"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Atk - Tile : Attack"
+                ]
+            }
+        ]
     },
     {
         "name": "Kiril",
@@ -3182,7 +3905,19 @@ window.allHeroes =
             "defense": 848,
             "health": 1303
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Heal: Instant"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Atk - Attack ↑",
+                    "Def - Defense ↑"
+                ]
+            }
+        ]
     },
     {
         "name": "Kiril C1",
@@ -3231,7 +3966,19 @@ window.allHeroes =
             "defense": 873,
             "health": 1467
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Heal: Instant"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Atk - Attack ↓",
+                    "Def - Defense ↓"
+                ]
+            }
+        ]
     },
     {
         "name": "Kiril C2",
@@ -3280,7 +4027,23 @@ window.allHeroes =
             "defense": 984,
             "health": 1611
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Heal: Boost Health"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Def - Defense ↑"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Atk - Attack ↓"
+                ]
+            }
+        ]
     },
     {
         "name": "Kiril Toon",
@@ -3331,7 +4094,19 @@ window.allHeroes =
             "defense": 986,
             "health": 1603
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Heal: Instant"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Atk - Attack ↑",
+                    "Def - Defense ↑"
+                ]
+            }
+        ]
     },
     {
         "name": "Kiril Glass",
@@ -3386,7 +4161,20 @@ window.allHeroes =
             "defense": 1024,
             "health": 1672
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Heal: Instant"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Status - Reflect Ailments",
+                    "Atk - Attack ↑",
+                    "Def - Defense ↑"
+                ]
+            }
+        ]
     },
     {
         "name": "Knuckles",
@@ -3441,7 +4229,15 @@ window.allHeroes =
             "defense": 843,
             "health": 1766
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "增益效果": [
+                    "Status - Reflect Ailments",
+                    "Def - Defense ↑",
+                    "Atk - Stack : Atk ↑"
+                ]
+            }
+        ]
     },
     {
         "name": "Linus",
@@ -3494,7 +4290,19 @@ window.allHeroes =
             "defense": 853,
             "health": 1544
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Single"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Atk - Extra Attack",
+                    "Dmg - Extra"
+                ]
+            }
+        ]
     },
     {
         "name": "Mireweave",
@@ -3541,7 +4349,18 @@ window.allHeroes =
             "defense": 752,
             "health": 1480
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Area"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Atk - Stack : Atk ↑"
+                ]
+            }
+        ]
     },
     {
         "name": "Olbec",
@@ -3591,7 +4410,25 @@ window.allHeroes =
             "defense": 808,
             "health": 1579
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Single"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Mana - Mana Cut",
+                    "Atk - Bypass Dodge",
+                    "Dmg - Dmg ↑ : Holy"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Def - Dmg Reduction"
+                ]
+            }
+        ]
     },
     {
         "name": "Osamu",
@@ -3649,7 +4486,23 @@ window.allHeroes =
             "defense": 803,
             "health": 1552
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Single"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Mana - Mana Gain (on Kill)"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Def - Defense ↓"
+                ]
+            }
+        ]
     },
     {
         "name": "Sanngrior",
@@ -3695,7 +4548,18 @@ window.allHeroes =
             "defense": 856,
             "health": 1823
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Heal: Boost Health"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Def - Def ↑ : Nature"
+                ]
+            }
+        ]
     },
     {
         "name": "Sapphire",
@@ -3751,7 +4615,18 @@ window.allHeroes =
             "defense": 682,
             "health": 1619
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Variable Targets"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Atk - Bypass / Ignore"
+                ]
+            }
+        ]
     },
     {
         "name": "Sonya",
@@ -3797,7 +4672,18 @@ window.allHeroes =
             "defense": 920,
             "health": 1274
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Single"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Status - Dispel Buffs"
+                ]
+            }
+        ]
     },
     {
         "name": "Sonya C1",
@@ -3843,7 +4729,18 @@ window.allHeroes =
             "defense": 979,
             "health": 1401
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Single"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Status - Cleanse Ailments"
+                ]
+            }
+        ]
     },
     {
         "name": "Sonya C2",
@@ -3889,7 +4786,18 @@ window.allHeroes =
             "defense": 892,
             "health": 1486
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Single"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Status - Buff Immunity"
+                ]
+            }
+        ]
     },
     {
         "name": "Sonya Toon",
@@ -3939,7 +4847,23 @@ window.allHeroes =
             "defense": 954,
             "health": 1505
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Single"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Dmg - Dmg ↑ : Fire"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Status - Dispel Buffs"
+                ]
+            }
+        ]
     },
     {
         "name": "Triton",
@@ -3985,7 +4909,18 @@ window.allHeroes =
             "defense": 757,
             "health": 1322
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Single"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Heal - Healing ↑"
+                ]
+            }
+        ]
     },
     {
         "name": "Triton C1",
@@ -4031,7 +4966,18 @@ window.allHeroes =
             "defense": 860,
             "health": 1409
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Minor to Nearby"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Atk - Attack ↑"
+                ]
+            }
+        ]
     },
     {
         "name": "Valeria",
@@ -4083,7 +5029,19 @@ window.allHeroes =
             "defense": 827,
             "health": 1507
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Single",
+                    "Dmg: DoT"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Heal - Steal Healing"
+                ]
+            }
+        ]
     },
     {
         "name": "Xiahou Dun",
@@ -4131,7 +5089,23 @@ window.allHeroes =
             "defense": 942,
             "health": 1485
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Single"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Summon - Minion"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Status - Dispel Buffs"
+                ]
+            }
+        ]
     },
     {
         "name": "Zila Lei",
@@ -4179,7 +5153,18 @@ window.allHeroes =
             "defense": 821,
             "health": 1555
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Edges"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Def - Defense ↓"
+                ]
+            }
+        ]
     },
     {
         "name": "Zila Lei C1",
@@ -4227,7 +5212,18 @@ window.allHeroes =
             "defense": 840,
             "health": 1580
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Edges"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Def - Defense ↓"
+                ]
+            }
+        ]
     },
     {
         "name": "Adalinda",
@@ -4281,7 +5277,23 @@ window.allHeroes =
             "defense": 1082,
             "health": 2090
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Area"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Summon - Fiend"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Def - Defense ↓"
+                ]
+            }
+        ]
     },
     {
         "name": "Aegir",
@@ -4332,7 +5344,19 @@ window.allHeroes =
             "defense": 993,
             "health": 1783
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "特殊效果": [
+                    "Heal - From Dmg"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Def - Dmg Share",
+                    "Def - Defense ↑"
+                ]
+            }
+        ]
     },
     {
         "name": "Aegir C1",
@@ -4385,7 +5409,19 @@ window.allHeroes =
             "defense": 1214,
             "health": 2625
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Heal: Over Time"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Def - Dmg Share",
+                    "Def - Defense ↑"
+                ]
+            }
+        ]
     },
     {
         "name": "Aino",
@@ -4436,7 +5472,19 @@ window.allHeroes =
             "defense": 1000,
             "health": 1831
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Heal: Instant"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Mana - Mana Gen ↓/Block",
+                    "Status - Cleanse Ailments"
+                ]
+            }
+        ]
     },
     {
         "name": "Aino C1",
@@ -4487,7 +5535,19 @@ window.allHeroes =
             "defense": 1384,
             "health": 2465
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Heal: Instant"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Mana - Mana Gen ↓/Block",
+                    "Status - Cleanse Ailments"
+                ]
+            }
+        ]
     },
     {
         "name": "Alasie",
@@ -4536,7 +5596,18 @@ window.allHeroes =
             "defense": 871,
             "health": 1648
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Single"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Mana - Mana Gen ↓/Block"
+                ]
+            }
+        ]
     },
     {
         "name": "Alasie C1",
@@ -4590,7 +5661,23 @@ window.allHeroes =
             "defense": 1123,
             "health": 2408
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Minor to Nearby"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Mana - Mana Cut"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Mana - Mana Gen ↓/Block"
+                ]
+            }
+        ]
     },
     {
         "name": "Alexandrine",
@@ -4644,7 +5731,24 @@ window.allHeroes =
             "defense": 922,
             "health": 1755
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Heal: Instant",
+                    "Heal: Special"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Atk - Tile : Critical"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Atk - Accuracy ↓"
+                ]
+            }
+        ]
     },
     {
         "name": "Alice",
@@ -4690,7 +5794,18 @@ window.allHeroes =
             "defense": 881,
             "health": 1635
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Single"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Atk - Attack ↓"
+                ]
+            }
+        ]
     },
     {
         "name": "Amphitrite",
@@ -4754,7 +5869,23 @@ window.allHeroes =
             "defense": 1071,
             "health": 2184
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: All"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Summon - Fiend"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Heal - Healing ↓"
+                ]
+            }
+        ]
     },
     {
         "name": "Andvari",
@@ -4815,7 +5946,20 @@ window.allHeroes =
             "defense": 1450,
             "health": 2766
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "特殊效果": [
+                    "Summon - Destroy Fiends",
+                    "Atk - Destroy Minions"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Def - Dmg Reduction",
+                    "Mana - Mana Gen ↑"
+                ]
+            }
+        ]
     },
     {
         "name": "Anzia",
@@ -4867,7 +6011,14 @@ window.allHeroes =
             "defense": 1036,
             "health": 2240
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "增益效果": [
+                    "Def - Counterattack",
+                    "Mana - Mana Gain"
+                ]
+            }
+        ]
     },
     {
         "name": "Areax",
@@ -4921,7 +6072,24 @@ window.allHeroes =
             "defense": 922,
             "health": 2080
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Single",
+                    "Dmg: DoT"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Atk - Chain"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Dmg - DoT : Frost"
+                ]
+            }
+        ]
     },
     {
         "name": "Ariel",
@@ -4970,7 +6138,23 @@ window.allHeroes =
             "defense": 947,
             "health": 1554
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Heal: Instant"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Mana - Mana Gen ↑"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Status - Cleanse Ailments"
+                ]
+            }
+        ]
     },
     {
         "name": "Ariel C1",
@@ -5019,7 +6203,23 @@ window.allHeroes =
             "defense": 1167,
             "health": 2000
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Heal: Boost Health"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Mana - Mana Gain"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Status - Cleanse Ailments"
+                ]
+            }
+        ]
     },
     {
         "name": "Armel",
@@ -5070,7 +6270,24 @@ window.allHeroes =
             "defense": 1270,
             "health": 2159
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Dmg: DoT"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Status - Dispel Buffs"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Heal - Max Health ↓",
+                    "Dmg - DoT : Frost"
+                ]
+            }
+        ]
     },
     {
         "name": "Ascian",
@@ -5127,7 +6344,28 @@ window.allHeroes =
             "defense": 1374,
             "health": 2733
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: All"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Mana - Mana Cut"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Mana - Mana Gain"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Def - Def ↓ : Special"
+                ]
+            }
+        ]
     },
     {
         "name": "Athena",
@@ -5178,7 +6416,23 @@ window.allHeroes =
             "defense": 853,
             "health": 1663
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Minor to Nearby"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Dmg - Dmg ↑ : Fire"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Def - Defense ↓"
+                ]
+            }
+        ]
     },
     {
         "name": "Athena C1",
@@ -5232,7 +6486,19 @@ window.allHeroes =
             "defense": 1102,
             "health": 2422
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Minor to Nearby"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Def - Def ↓ : Ice",
+                    "Def - Defense ↓"
+                ]
+            }
+        ]
     },
     {
         "name": "Atlanteia",
@@ -5291,7 +6557,25 @@ window.allHeroes =
             "defense": 1275,
             "health": 1887
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Dmg: DoT"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Dmg - Extra"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Mana - Mana Steal",
+                    "Atk - Attack ↓",
+                    "Dmg - DoT : Frost"
+                ]
+            }
+        ]
     },
     {
         "name": "Atlanteia C1",
@@ -5351,7 +6635,25 @@ window.allHeroes =
             "defense": 1693,
             "health": 2382
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Dmg: DoT"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Dmg - Extra"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Mana - Mana Steal",
+                    "Atk - Attack ↓",
+                    "Dmg - DoT : Frost"
+                ]
+            }
+        ]
     },
     {
         "name": "Azurite",
@@ -5409,7 +6711,23 @@ window.allHeroes =
             "defense": 955,
             "health": 1821
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Variable Targets"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Dmg - Extra"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Atk - Accuracy ↓"
+                ]
+            }
+        ]
     },
     {
         "name": "Balur",
@@ -5462,7 +6780,19 @@ window.allHeroes =
             "defense": 947,
             "health": 1775
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Single",
+                    "Dmg: DoT"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Dmg - DoT : Bleed"
+                ]
+            }
+        ]
     },
     {
         "name": "Bennu",
@@ -5511,7 +6841,14 @@ window.allHeroes =
             "defense": 1059,
             "health": 1927
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "增益效果": [
+                    "Def - Counterattack",
+                    "Def - Dmg Reduction"
+                ]
+            }
+        ]
     },
     {
         "name": "Bennu C1",
@@ -5564,7 +6901,14 @@ window.allHeroes =
             "defense": 1493,
             "health": 2736
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "增益效果": [
+                    "Def - Counterattack",
+                    "Def - Dmg Reduction"
+                ]
+            }
+        ]
     },
     {
         "name": "Bhaltair",
@@ -5620,7 +6964,24 @@ window.allHeroes =
             "defense": 1643,
             "health": 2458
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Heal: From Dmg",
+                    "Atk: All"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Mana - Mana Gen ↑"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Status - Block Minions"
+                ]
+            }
+        ]
     },
     {
         "name": "Bobo",
@@ -5669,7 +7030,19 @@ window.allHeroes =
             "defense": 988,
             "health": 1701
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: All"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Atk - Attack ↓",
+                    "Def - Defense ↓"
+                ]
+            }
+        ]
     },
     {
         "name": "Bubbles",
@@ -5721,7 +7094,19 @@ window.allHeroes =
             "defense": 1023,
             "health": 1897
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Single"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Mana - Mindless/Silence/Sleep",
+                    "Def - Defense ↓"
+                ]
+            }
+        ]
     },
     {
         "name": "Burton",
@@ -5770,7 +7155,24 @@ window.allHeroes =
             "defense": 1435,
             "health": 2623
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Area"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Def - Dmg Reduction"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Status - Insanity",
+                    "Status - Self-Debuff"
+                ]
+            }
+        ]
     },
     {
         "name": "Caelen",
@@ -5824,7 +7226,20 @@ window.allHeroes =
             "defense": 1371,
             "health": 2164
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "特殊效果": [
+                    "Summon - Mega Minion"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Mana - Mindless/Silence/Sleep",
+                    "Def - Dmg Taken ↑",
+                    "Status - Cleanse Ailments"
+                ]
+            }
+        ]
     },
     {
         "name": "Camilla",
@@ -5883,7 +7298,24 @@ window.allHeroes =
             "defense": 1059,
             "health": 1828
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Heal: Boost Health"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Def - Def ↑ : Special"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Heal - Max Health ↓",
+                    "Def - Def ↓ : Special"
+                ]
+            }
+        ]
     },
     {
         "name": "Cao Cao",
@@ -5934,7 +7366,24 @@ window.allHeroes =
             "defense": 1003,
             "health": 1811
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: All"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Summon - Minion"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Def - Defense ↑",
+                    "Status - Dispel Buffs"
+                ]
+            }
+        ]
     },
     {
         "name": "Cao Cao C1",
@@ -5990,7 +7439,24 @@ window.allHeroes =
             "defense": 1381,
             "health": 2610
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: All"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Summon - Minion"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Def - Defense ↑",
+                    "Status - Dispel Buffs"
+                ]
+            }
+        ]
     },
     {
         "name": "Cathal",
@@ -6046,7 +7512,24 @@ window.allHeroes =
             "defense": 990,
             "health": 1760
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Single"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Atk - Bypass / Ignore"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Mana - Stack : Mana Gen ↑",
+                    "Heal - Stack : Regen"
+                ]
+            }
+        ]
     },
     {
         "name": "Cel",
@@ -6096,7 +7579,18 @@ window.allHeroes =
             "defense": 1117,
             "health": 2189
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "特殊效果": [
+                    "Summon - Minion"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Def - Dmg Reduction"
+                ]
+            }
+        ]
     },
     {
         "name": "Celimene",
@@ -6147,7 +7641,19 @@ window.allHeroes =
             "defense": 1059,
             "health": 1981
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Area"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Status - Block Cleanse",
+                    "Def - Defense ↓"
+                ]
+            }
+        ]
     },
     {
         "name": "Ceto",
@@ -6208,7 +7714,28 @@ window.allHeroes =
             "defense": 1036,
             "health": 2014
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: All",
+                    "Atk: Single",
+                    "Dmg: DoT"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Heal - From Dmg"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Mana - Mana Gen ↓/Block",
+                    "Atk - Attack ↓",
+                    "Def - Defense ↓",
+                    "Dmg - DoT : Water"
+                ]
+            }
+        ]
     },
     {
         "name": "Ceto C1",
@@ -6270,7 +7797,27 @@ window.allHeroes =
             "defense": 1315,
             "health": 2571
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: All",
+                    "Dmg: DoT"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Heal - From Dmg"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Mana - Mana Gen ↓/Block",
+                    "Atk - Attack ↓",
+                    "Def - Defense ↓",
+                    "Dmg - DoT : Water"
+                ]
+            }
+        ]
     },
     {
         "name": "Chang'e",
@@ -6321,7 +7868,23 @@ window.allHeroes =
             "defense": 1221,
             "health": 2070
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: All"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Def - Def ↑ : Special"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Status - Buff Immunity"
+                ]
+            }
+        ]
     },
     {
         "name": "Chester",
@@ -6372,7 +7935,20 @@ window.allHeroes =
             "defense": 1562,
             "health": 2189
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Area",
+                    "Dmg: DoT"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Dmg - DoT : Curse",
+                    "Mana - Mindless/Silence/Sleep"
+                ]
+            }
+        ]
     },
     {
         "name": "Chimister",
@@ -6431,7 +8007,30 @@ window.allHeroes =
             "defense": 1422,
             "health": 2540
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Heal: Boost Health",
+                    "Heal: Over Time",
+                    "Dmg: DoT"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Atk - Gamble / Random"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Status - Dispel Buffs"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Dmg - DoT : Poison"
+                ]
+            }
+        ]
     },
     {
         "name": "Chitrangada",
@@ -6489,7 +8088,20 @@ window.allHeroes =
             "defense": 1590,
             "health": 2750
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Heal: Instant",
+                    "Heal: Revive",
+                    "Heal: Special"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Status - Cleanse Ailments"
+                ]
+            }
+        ]
     },
     {
         "name": "Ciara",
@@ -6540,7 +8152,23 @@ window.allHeroes =
             "defense": 1455,
             "health": 2578
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: All"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Summon - Mega Minion"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Status - Dispel Buffs"
+                ]
+            }
+        ]
     },
     {
         "name": "Cinnamon",
@@ -6592,7 +8220,20 @@ window.allHeroes =
             "defense": 1049,
             "health": 1948
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: All",
+                    "Dmg: DoT"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Dmg - DoT : Frost",
+                    "Def - Def ↓ : Ice"
+                ]
+            }
+        ]
     },
     {
         "name": "Claeg",
@@ -6643,7 +8284,19 @@ window.allHeroes =
             "defense": 1333,
             "health": 2392
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Heal: Instant",
+                    "Heal: Special"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Status - Cleanse Ailments"
+                ]
+            }
+        ]
     },
     {
         "name": "Cobalt",
@@ -6699,7 +8352,18 @@ window.allHeroes =
             "defense": 845,
             "health": 1770
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Variable Targets"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Atk - Bypass / Ignore"
+                ]
+            }
+        ]
     },
     {
         "name": "Cosmicspeaker",
@@ -6754,7 +8418,23 @@ window.allHeroes =
             "defense": 1394,
             "health": 2255
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: All"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Status - Ailment Immunity"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Status - Buff Immunity"
+                ]
+            }
+        ]
     },
     {
         "name": "Crystalis",
@@ -6807,7 +8487,26 @@ window.allHeroes =
             "defense": 932,
             "health": 1694
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: All",
+                    "Dmg: DoT"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Dmg - Extra",
+                    "Status - Reduce Buff Duration"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Atk - Attack ↓",
+                    "Dmg - DoT : Frost"
+                ]
+            }
+        ]
     },
     {
         "name": "Davey Wavey",
@@ -6861,7 +8560,19 @@ window.allHeroes =
             "defense": 1206,
             "health": 2364
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Heal: Over Time"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Mana - Mana Gen ↑",
+                    "Def - Defense ↑"
+                ]
+            }
+        ]
     },
     {
         "name": "Esme",
@@ -6911,7 +8622,23 @@ window.allHeroes =
             "defense": 962,
             "health": 1821
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Heal: Boost Health"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Summon - Destroy Fiends"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Status - Block Fiends"
+                ]
+            }
+        ]
     },
     {
         "name": "Exeera",
@@ -6958,7 +8685,24 @@ window.allHeroes =
             "defense": 957,
             "health": 1714
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: All",
+                    "Dmg: DoT"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Dmg - Tile : Up"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Dmg - DoT : Water"
+                ]
+            }
+        ]
     },
     {
         "name": "Exeera C1",
@@ -7007,7 +8751,24 @@ window.allHeroes =
             "defense": 1224,
             "health": 2293
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: All",
+                    "Dmg: DoT"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Dmg - Tile : Up"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Dmg - DoT : Water"
+                ]
+            }
+        ]
     },
     {
         "name": "Experience Mimic Ice",
@@ -7069,7 +8830,25 @@ window.allHeroes =
             "defense": 1524,
             "health": 2616
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Single"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Atk - Destroy Minions",
+                    "Mana - Mana Gain (on Kill)",
+                    "Heal - Self Recovery"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Def - Mimic"
+                ]
+            }
+        ]
     },
     {
         "name": "Fenrir",
@@ -7120,7 +8899,20 @@ window.allHeroes =
             "defense": 909,
             "health": 1600
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Single"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Dmg - Extra",
+                    "Mana - Mana Gain (on Kill)",
+                    "Heal - From Dmg"
+                ]
+            }
+        ]
     },
     {
         "name": "Fenrir C1",
@@ -7171,7 +8963,20 @@ window.allHeroes =
             "defense": 1144,
             "health": 2138
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Single"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Dmg - Extra",
+                    "Mana - Mana Gain (on Kill)",
+                    "Heal - Self Recovery"
+                ]
+            }
+        ]
     },
     {
         "name": "Fergus",
@@ -7225,7 +9030,25 @@ window.allHeroes =
             "defense": 1452,
             "health": 2697
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Dmg: DoT"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Mana - Mana Cut",
+                    "Summon - Mega Minion"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Mana - Mana Gen ↓/Block",
+                    "Dmg - DoT : Bleed"
+                ]
+            }
+        ]
     },
     {
         "name": "Finley",
@@ -7274,7 +9097,23 @@ window.allHeroes =
             "defense": 919,
             "health": 1620
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Single"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Atk - Chain"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Def - Defense ↓"
+                ]
+            }
+        ]
     },
     {
         "name": "Finley C1",
@@ -7326,7 +9165,23 @@ window.allHeroes =
             "defense": 1120,
             "health": 2196
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Single"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Atk - Chain"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Def - Defense ↓"
+                ]
+            }
+        ]
     },
     {
         "name": "Firmin Richard",
@@ -7379,7 +9234,19 @@ window.allHeroes =
             "defense": 1094,
             "health": 2252
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: All"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Atk - Stack : Atk ↑",
+                    "Def - Stack : Def ↑"
+                ]
+            }
+        ]
     },
     {
         "name": "Fizzcoil",
@@ -7432,7 +9299,20 @@ window.allHeroes =
             "defense": 1148,
             "health": 1927
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: All"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Mana - Mana Gen ↓/Block",
+                    "Atk - Wither : Atk↓",
+                    "Def - Wither : Def↓"
+                ]
+            }
+        ]
     },
     {
         "name": "Fortuna",
@@ -7488,7 +9368,28 @@ window.allHeroes =
             "defense": 1056,
             "health": 1953
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: All"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Summon - Fiend"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Status - Dispel Buffs"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Atk - Attack ↓"
+                ]
+            }
+        ]
     },
     {
         "name": "Frida",
@@ -7541,7 +9442,23 @@ window.allHeroes =
             "defense": 891,
             "health": 1640
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Area"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Status - Dispel Buffs"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Def - Def ↓ : Ice"
+                ]
+            }
+        ]
     },
     {
         "name": "Frosth",
@@ -7593,7 +9510,14 @@ window.allHeroes =
             "defense": 901,
             "health": 1661
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "特殊效果": [
+                    "Summon - Minion",
+                    "Summon - Mega Minion"
+                ]
+            }
+        ]
     },
     {
         "name": "Frostsnout",
@@ -7645,7 +9569,23 @@ window.allHeroes =
             "defense": 1432,
             "health": 2631
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Area"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Status - Reduce Ailment Duration"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Atk - Crit Chance ↑"
+                ]
+            }
+        ]
     },
     {
         "name": "Gaillard",
@@ -7696,7 +9636,18 @@ window.allHeroes =
             "defense": 911,
             "health": 1851
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Single"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Status - Block Fiends"
+                ]
+            }
+        ]
     },
     {
         "name": "Ghealach",
@@ -7753,7 +9704,23 @@ window.allHeroes =
             "defense": 1173,
             "health": 2115
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Area"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Summon - Fiend"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Mana - Mana Steal"
+                ]
+            }
+        ]
     },
     {
         "name": "Gladius",
@@ -7806,7 +9773,23 @@ window.allHeroes =
             "defense": 1132,
             "health": 2103
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Single"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Atk - Bypass Dodge"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Def - Stack : Dmg Taken ↑"
+                ]
+            }
+        ]
     },
     {
         "name": "Glenda",
@@ -7858,7 +9841,23 @@ window.allHeroes =
             "defense": 891,
             "health": 1678
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Area"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Dmg - Extra"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Status - Cleanse Ailments"
+                ]
+            }
+        ]
     },
     {
         "name": "Grimsteel",
@@ -7911,7 +9910,20 @@ window.allHeroes =
             "defense": 1369,
             "health": 2283
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Heal: Instant"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Def - Growth : Def↑",
+                    "防御-成长：防御力↑",
+                    "Mana - Mana Gen ↑"
+                ]
+            }
+        ]
     },
     {
         "name": "Guardian Hippo",
@@ -7957,7 +9969,18 @@ window.allHeroes =
             "defense": 965,
             "health": 1828
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: All"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Mana - Mana Gen ↑"
+                ]
+            }
+        ]
     },
     {
         "name": "Hetepheres",
@@ -8010,7 +10033,23 @@ window.allHeroes =
             "defense": 1089,
             "health": 2009
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Heal: Instant"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Def - Def ↑ : Nature"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Atk - Accuracy ↓"
+                ]
+            }
+        ]
     },
     {
         "name": "Hetepheres C1",
@@ -8066,7 +10105,23 @@ window.allHeroes =
             "defense": 1542,
             "health": 2845
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Heal: Instant"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Def - Def ↑ : Nature"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Atk - Accuracy ↓"
+                ]
+            }
+        ]
     },
     {
         "name": "Himeros",
@@ -8116,7 +10171,23 @@ window.allHeroes =
             "defense": 993,
             "health": 1838
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Single"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Dmg - Extra"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Status - Dispel Buffs"
+                ]
+            }
+        ]
     },
     {
         "name": "Hogne",
@@ -8176,7 +10247,25 @@ window.allHeroes =
             "defense": 1480,
             "health": 2852
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Area"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Atk - Bypass Dodge",
+                    "Dmg - Dmg ↑ : Fire"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Heal - Max Health ↓",
+                    "Heal - Healing ↓"
+                ]
+            }
+        ]
     },
     {
         "name": "Hrothgar",
@@ -8236,7 +10325,24 @@ window.allHeroes =
             "defense": 1343,
             "health": 2651
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: All"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Mana - Mana Cut"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Atk - Attack ↑",
+                    "Def - Defense ↑"
+                ]
+            }
+        ]
     },
     {
         "name": "Hysteria",
@@ -8284,7 +10390,19 @@ window.allHeroes =
             "defense": 1529,
             "health": 2786
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "增益效果": [
+                    "Def - Taunt"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Status - Insanity",
+                    "Status - Self-Debuff"
+                ]
+            }
+        ]
     },
     {
         "name": "Iris",
@@ -8337,7 +10455,23 @@ window.allHeroes =
             "defense": 927,
             "health": 1699
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Minor to Nearby"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Dmg - Dmg ↑ : Fire"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Status - Dispel Buffs"
+                ]
+            }
+        ]
     },
     {
         "name": "Isarnia",
@@ -8383,7 +10517,18 @@ window.allHeroes =
             "defense": 807,
             "health": 1480
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: All"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Def - Defense ↓"
+                ]
+            }
+        ]
     },
     {
         "name": "Isarnia C1",
@@ -8429,7 +10574,18 @@ window.allHeroes =
             "defense": 874,
             "health": 1638
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: All"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Def - Defense ↓"
+                ]
+            }
+        ]
     },
     {
         "name": "Isarnia C2",
@@ -8477,7 +10633,23 @@ window.allHeroes =
             "defense": 1015,
             "health": 2121
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: All"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Dmg - Dmg ↑ : Fire"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Atk - Attack ↓"
+                ]
+            }
+        ]
     },
     {
         "name": "Isarnia Toon",
@@ -8527,7 +10699,23 @@ window.allHeroes =
             "defense": 1298,
             "health": 2546
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: All"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Dmg - Dmg ↑ : Fire"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Def - Defense ↓"
+                ]
+            }
+        ]
     },
     {
         "name": "Isarnia Glass",
@@ -8578,7 +10766,23 @@ window.allHeroes =
             "defense": 1342,
             "health": 2593
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: All"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Atk - Bypass / Ignore"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Def - Defense ↓"
+                ]
+            }
+        ]
     },
     {
         "name": "Ixinn",
@@ -8636,7 +10840,24 @@ window.allHeroes =
             "defense": 1557,
             "health": 2545
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Single"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Atk - Chain"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Def - Dmg Taken ↑",
+                    "Atk - Wither : Atk↓"
+                ]
+            }
+        ]
     },
     {
         "name": "Jolt",
@@ -8694,7 +10915,28 @@ window.allHeroes =
             "defense": 1206,
             "health": 1968
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Single"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Atk - Chain"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Atk - Attack ↑"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Atk - Accuracy ↓"
+                ]
+            }
+        ]
     },
     {
         "name": "Jolyon",
@@ -8749,7 +10991,19 @@ window.allHeroes =
             "defense": 1508,
             "health": 2791
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "特殊效果": [
+                    "Summon - Minion"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Status - Ailment Immunity",
+                    "Def - Dodge"
+                ]
+            }
+        ]
     },
     {
         "name": "Kabeiroi",
@@ -8803,7 +11057,19 @@ window.allHeroes =
             "defense": 1193,
             "health": 2082
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Single",
+                    "Atk: Random"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Mana - Mindless/Silence/Sleep"
+                ]
+            }
+        ]
     },
     {
         "name": "Kettle",
@@ -8862,7 +11128,30 @@ window.allHeroes =
             "defense": 1109,
             "health": 2037
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Heal: Instant",
+                    "Atk: All",
+                    "Dmg: DoT"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Atk - Gamble / Random"
+                ]
+            },
+            {
+                "增益效果": [
+                    "防御-成长：防御力↑"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Dmg - DoT : Poison"
+                ]
+            }
+        ]
     },
     {
         "name": "King Arthur",
@@ -8914,7 +11203,24 @@ window.allHeroes =
             "defense": 904,
             "health": 1648
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Single"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Def - Def ↑ : Special"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Atk - Attack ↓",
+                    "Def - Def ↓ : Ice"
+                ]
+            }
+        ]
     },
     {
         "name": "Klaern",
@@ -8966,7 +11272,24 @@ window.allHeroes =
             "defense": 952,
             "health": 1760
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: All",
+                    "Dmg: DoT"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Heal - From Dmg"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Dmg - DoT : Water"
+                ]
+            }
+        ]
     },
     {
         "name": "Krampus",
@@ -9018,7 +11341,20 @@ window.allHeroes =
             "defense": 1051,
             "health": 1811
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "特殊效果": [
+                    "Summon - Minion"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Def - Taunt",
+                    "Atk - Attack ↑",
+                    "Def - Defense ↑"
+                ]
+            }
+        ]
     },
     {
         "name": "Krampus C1",
@@ -9070,7 +11406,20 @@ window.allHeroes =
             "defense": 1305,
             "health": 2324
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "特殊效果": [
+                    "Summon - Minion"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Def - Taunt",
+                    "Atk - Attack ↑",
+                    "Def - Defense ↑"
+                ]
+            }
+        ]
     },
     {
         "name": "Lennart",
@@ -9133,7 +11482,21 @@ window.allHeroes =
             "defense": 1450,
             "health": 2616
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Single",
+                    "Dmg: DoT"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Dmg - DoT : Bleed",
+                    "Def - Dmg Taken ↑",
+                    "Heal - Block Healing"
+                ]
+            }
+        ]
     },
     {
         "name": "Lord Loki",
@@ -9180,7 +11543,13 @@ window.allHeroes =
             "defense": 916,
             "health": 1617
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "特殊效果": [
+                    "Atk - Copy/Steal Skill"
+                ]
+            }
+        ]
     },
     {
         "name": "Lord Loki C1",
@@ -9229,7 +11598,14 @@ window.allHeroes =
             "defense": 1208,
             "health": 2122
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "特殊效果": [
+                    "Status - Steal Buffs",
+                    "Atk - Copy/Steal Skill"
+                ]
+            }
+        ]
     },
     {
         "name": "Lysanor",
@@ -9282,7 +11658,20 @@ window.allHeroes =
             "defense": 1252,
             "health": 2230
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Heal: Boost Health",
+                    "Heal: Over Time",
+                    "Heal: Revive"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Atk - Attack ↑"
+                ]
+            }
+        ]
     },
     {
         "name": "Magistine",
@@ -9336,7 +11725,23 @@ window.allHeroes =
             "defense": 1511,
             "health": 2517
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: All"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Dmg - Extra"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Status - Devouring Goo"
+                ]
+            }
+        ]
     },
     {
         "name": "Magni",
@@ -9382,7 +11787,18 @@ window.allHeroes =
             "defense": 728,
             "health": 1645
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Single"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Def - Defense ↑"
+                ]
+            }
+        ]
     },
     {
         "name": "Magni C1",
@@ -9428,7 +11844,18 @@ window.allHeroes =
             "defense": 972,
             "health": 1858
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Single"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Def - Defense ↓"
+                ]
+            }
+        ]
     },
     {
         "name": "Magni C2",
@@ -9474,7 +11901,18 @@ window.allHeroes =
             "defense": 1021,
             "health": 2413
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Area"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Def - Def ↓ : Special"
+                ]
+            }
+        ]
     },
     {
         "name": "Magni Toon",
@@ -9524,7 +11962,23 @@ window.allHeroes =
             "defense": 1191,
             "health": 2840
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Single"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Dmg - Dmg ↑ : Fire"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Def - Defense ↑"
+                ]
+            }
+        ]
     },
     {
         "name": "Magni Glass",
@@ -9575,7 +12029,23 @@ window.allHeroes =
             "defense": 1333,
             "health": 2956
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Single"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Atk - Bypass / Ignore"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Def - Defense ↑"
+                ]
+            }
+        ]
     },
     {
         "name": "Mariol",
@@ -9626,7 +12096,23 @@ window.allHeroes =
             "defense": 1330,
             "health": 2197
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Heal: Boost Health"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Def - Dmg Reduction"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Status - Cleanse Ailments"
+                ]
+            }
+        ]
     },
     {
         "name": "Master Lepus",
@@ -9672,7 +12158,18 @@ window.allHeroes =
             "defense": 850,
             "health": 1473
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Minor to Nearby"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Status - Self-Debuff"
+                ]
+            }
+        ]
     },
     {
         "name": "Master Lepus C1",
@@ -9718,7 +12215,18 @@ window.allHeroes =
             "defense": 1045,
             "health": 1866
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: All"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Status - Self-Debuff"
+                ]
+            }
+        ]
     },
     {
         "name": "Matrera",
@@ -9769,7 +12277,23 @@ window.allHeroes =
             "defense": 993,
             "health": 1866
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Single"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Dmg - Extra"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Atk - Attack ↓"
+                ]
+            }
+        ]
     },
     {
         "name": "Mene",
@@ -9823,7 +12347,20 @@ window.allHeroes =
             "defense": 1272,
             "health": 2108
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Area",
+                    "Dmg: DoT"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Status - Buff Immunity",
+                    "Dmg - DoT : Frost"
+                ]
+            }
+        ]
     },
     {
         "name": "Miki",
@@ -9873,7 +12410,18 @@ window.allHeroes =
             "defense": 960,
             "health": 1572
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "增益效果": [
+                    "Atk - Attack ↑"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Mana - Mindless/Silence/Sleep"
+                ]
+            }
+        ]
     },
     {
         "name": "Milady de Winter",
@@ -9926,7 +12474,24 @@ window.allHeroes =
             "defense": 1018,
             "health": 1927
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Heal: Over Time",
+                    "Atk: All"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Status - Reflect Ailments"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Status - Reflect Buffs"
+                ]
+            }
+        ]
     },
     {
         "name": "Milena",
@@ -9985,7 +12550,24 @@ window.allHeroes =
             "defense": 955,
             "health": 1737
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Heal: Instant",
+                    "Atk: All"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Status - Dispel Buffs"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Status - Cleanse Ailments"
+                ]
+            }
+        ]
     },
     {
         "name": "Milena C1",
@@ -10045,7 +12627,24 @@ window.allHeroes =
             "defense": 1275,
             "health": 2331
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Heal: Instant",
+                    "Atk: All"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Status - Dispel Buffs"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Status - Cleanse Ailments"
+                ]
+            }
+        ]
     },
     {
         "name": "Miriam & Midnight",
@@ -10098,7 +12697,20 @@ window.allHeroes =
             "defense": 1033,
             "health": 1882
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "特殊效果": [
+                    "Summon - Minion",
+                    "Status - Redistribute Ailments",
+                    "Heal - From Minions"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Atk - Attack ↑"
+                ]
+            }
+        ]
     },
     {
         "name": "Misandra",
@@ -10147,7 +12759,23 @@ window.allHeroes =
             "defense": 927,
             "health": 1640
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Single"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Atk - Extra Attack"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Mana - Mana Gain"
+                ]
+            }
+        ]
     },
     {
         "name": "Misandra C1",
@@ -10196,7 +12824,23 @@ window.allHeroes =
             "defense": 1113,
             "health": 2119
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Single"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Atk - Extra Attack"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Mana - Mindless/Silence/Sleep"
+                ]
+            }
+        ]
     },
     {
         "name": "Miss Ethel",
@@ -10244,7 +12888,23 @@ window.allHeroes =
             "defense": 1178,
             "health": 2240
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Single"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Atk - Chain"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Status - Self-Debuff"
+                ]
+            }
+        ]
     },
     {
         "name": "Mistra",
@@ -10298,7 +12958,19 @@ window.allHeroes =
             "defense": 1358,
             "health": 2286
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: All"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Heal - From Dmg",
+                    "Dmg - Extra"
+                ]
+            }
+        ]
     },
     {
         "name": "Misty",
@@ -10351,7 +13023,19 @@ window.allHeroes =
             "defense": 1041,
             "health": 1813
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Heal: Boost Health",
+                    "Atk: All"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Heal - Max Health ↓"
+                ]
+            }
+        ]
     },
     {
         "name": "Modthryth",
@@ -10410,7 +13094,21 @@ window.allHeroes =
             "defense": 1526,
             "health": 2656
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "特殊效果": [
+                    "Mana - Mana Cut",
+                    "Dmg - Extra"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Def - Counterattack",
+                    "Mana - Mana Gen ↑",
+                    "Atk - Stack : Atk ↑"
+                ]
+            }
+        ]
     },
     {
         "name": "Mooncure",
@@ -10467,7 +13165,24 @@ window.allHeroes =
             "defense": 1442,
             "health": 2303
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Heal: Instant"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Mana - Mana Gain"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Heal - Steal Healing",
+                    "Atk - Attack ↓"
+                ]
+            }
+        ]
     },
     {
         "name": "Morel",
@@ -10515,7 +13230,18 @@ window.allHeroes =
             "defense": 919,
             "health": 1790
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: All"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Def - Defense ↓"
+                ]
+            }
+        ]
     },
     {
         "name": "Morel C1",
@@ -10569,7 +13295,19 @@ window.allHeroes =
             "defense": 1092,
             "health": 2413
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Heal: Over Time",
+                    "Atk: All"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Def - Defense ↓"
+                ]
+            }
+        ]
     },
     {
         "name": "Mr. Pengi",
@@ -10620,7 +13358,25 @@ window.allHeroes =
             "defense": 962,
             "health": 1732
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Single",
+                    "Atk: Random",
+                    "Dmg: DoT"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Summon - Minion"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Dmg - DoT : Frost"
+                ]
+            }
+        ]
     },
     {
         "name": "Mr. Pengi C1",
@@ -10672,7 +13428,25 @@ window.allHeroes =
             "defense": 1298,
             "health": 2338
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: All",
+                    "Atk: Random",
+                    "Dmg: DoT"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Summon - Minion"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Dmg - DoT : Frost"
+                ]
+            }
+        ]
     },
     {
         "name": "Nautica",
@@ -10730,7 +13504,20 @@ window.allHeroes =
             "defense": 1229,
             "health": 2133
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Heal: Instant"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Atk - Crit Chance ↑",
+                    "Mana - Mana Gen ↑",
+                    "Mana - Mana Gain"
+                ]
+            }
+        ]
     },
     {
         "name": "Nine-Headed Beast",
@@ -10787,7 +13574,29 @@ window.allHeroes =
             "defense": 1173,
             "health": 2065
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Random"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Status - Reset Buff Duration",
+                    "Status - Reset Ailment Duration"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Atk - Attack ↑"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Atk - Attack ↓"
+                ]
+            }
+        ]
     },
     {
         "name": "Nylora",
@@ -10841,7 +13650,19 @@ window.allHeroes =
             "defense": 1270,
             "health": 2260
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Single"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Def - Change Position",
+                    "Def - Def ↓ : Ice"
+                ]
+            }
+        ]
     },
     {
         "name": "Odette",
@@ -10903,7 +13724,25 @@ window.allHeroes =
             "defense": 1183,
             "health": 2214
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "特殊效果": [
+                    "Atk - Extra Attack",
+                    "Heal - Self Recovery"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Def - Dodge",
+                    "Heal - Self Revive"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Status - Buff Immunity"
+                ]
+            }
+        ]
     },
     {
         "name": "Oniwakamaru",
@@ -10962,7 +13801,19 @@ window.allHeroes =
             "defense": 1099,
             "health": 2054
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Heal: Boost Health"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Def - Counterattack",
+                    "Def - Taunt"
+                ]
+            }
+        ]
     },
     {
         "name": "Orcur",
@@ -11016,7 +13867,18 @@ window.allHeroes =
             "defense": 1590,
             "health": 2796
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Heal: Boost Health"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Def - Growth : Def↑"
+                ]
+            }
+        ]
     },
     {
         "name": "Otso",
@@ -11068,7 +13930,19 @@ window.allHeroes =
             "defense": 1333,
             "health": 2486
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Heal: Over Time",
+                    "Atk: All"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Def - Stack : Dmg Taken ↑"
+                ]
+            }
+        ]
     },
     {
         "name": "Passepartout",
@@ -11120,7 +13994,20 @@ window.allHeroes =
             "defense": 990,
             "health": 1739
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Heal: Instant",
+                    "Heal: Over Time",
+                    "Heal: Special"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Def - Defense ↑"
+                ]
+            }
+        ]
     },
     {
         "name": "Passepartout C1",
@@ -11174,7 +14061,20 @@ window.allHeroes =
             "defense": 1435,
             "health": 2347
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Heal: Instant",
+                    "Heal: Over Time",
+                    "Heal: Special"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Def - Defense ↑"
+                ]
+            }
+        ]
     },
     {
         "name": "Pepperbleu",
@@ -11230,7 +14130,28 @@ window.allHeroes =
             "defense": 1511,
             "health": 2534
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Single"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Summon - Mega Fiend"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Status - Dispel Buffs"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Status - Buff Immunity"
+                ]
+            }
+        ]
     },
     {
         "name": "Perseus",
@@ -11281,7 +14202,23 @@ window.allHeroes =
             "defense": 861,
             "health": 1686
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Single"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Def - Def ↑ : Nature"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Heal - Block Healing"
+                ]
+            }
+        ]
     },
     {
         "name": "Perseus C1",
@@ -11335,7 +14272,19 @@ window.allHeroes =
             "defense": 1102,
             "health": 2444
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Area"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Heal - Block Healing",
+                    "Def - Def ↓ : Ice"
+                ]
+            }
+        ]
     },
     {
         "name": "Pophit",
@@ -11387,7 +14336,28 @@ window.allHeroes =
             "defense": 1315,
             "health": 2021
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Area"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Dmg - Explosion"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Def - Dmg Reduction"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Def - Defense ↓"
+                ]
+            }
+        ]
     },
     {
         "name": "Porthos",
@@ -11442,7 +14412,20 @@ window.allHeroes =
             "defense": 1018,
             "health": 1953
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: All"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Atk - Tile : Attack",
+                    "Heal - Self Recovery",
+                    "Dmg - Dmg ↑ : Fire"
+                ]
+            }
+        ]
     },
     {
         "name": "Quari",
@@ -11497,7 +14480,27 @@ window.allHeroes =
             "defense": 1450,
             "health": 2428
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Heal: Boost Health",
+                    "Atk: Area",
+                    "Heal: From Dmg",
+                    "Dmg: DoT"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Def - Growth : Def↑",
+                    "防御-成长：防御力↑"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Dmg - DoT : Water"
+                ]
+            }
+        ]
     },
     {
         "name": "Quinn",
@@ -11560,7 +14563,21 @@ window.allHeroes =
             "defense": 1193,
             "health": 2136
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Heal: Boost Health"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Status - Buff Immunity",
+                    "Mana - Mana Gen ↓/Block",
+                    "Atk - Accuracy ↓",
+                    "Def - Defense ↓"
+                ]
+            }
+        ]
     },
     {
         "name": "Quintin",
@@ -11606,7 +14623,18 @@ window.allHeroes =
             "defense": 944,
             "health": 1722
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Single"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Dmg - Extra"
+                ]
+            }
+        ]
     },
     {
         "name": "Raffaele",
@@ -11659,7 +14687,20 @@ window.allHeroes =
             "defense": 990,
             "health": 1729
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Heal: Instant",
+                    "Heal: Over Time",
+                    "Heal: Special"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Status - Cleanse Ailments"
+                ]
+            }
+        ]
     },
     {
         "name": "Rian",
@@ -11717,7 +14758,29 @@ window.allHeroes =
             "defense": 1008,
             "health": 1775
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: All"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Dmg - Extra"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Mana - Stack : Mana Gen ↑",
+                    "Heal - Stack : Regen"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Status - Cleanse Ailments"
+                ]
+            }
+        ]
     },
     {
         "name": "Richard",
@@ -11763,7 +14826,18 @@ window.allHeroes =
             "defense": 1008,
             "health": 1554
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Minor to Nearby"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Atk - Attack ↓"
+                ]
+            }
+        ]
     },
     {
         "name": "Richard C1",
@@ -11809,7 +14883,18 @@ window.allHeroes =
             "defense": 1144,
             "health": 1724
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Minor to Nearby"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Atk - Attack ↓"
+                ]
+            }
+        ]
     },
     {
         "name": "Richard C2",
@@ -11856,7 +14941,18 @@ window.allHeroes =
             "defense": 1047,
             "health": 2380
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Area"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Atk - Attack ↓"
+                ]
+            }
+        ]
     },
     {
         "name": "Richard Toon",
@@ -11906,7 +15002,23 @@ window.allHeroes =
             "defense": 1258,
             "health": 2810
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Minor to Nearby"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Dmg - Dmg ↑ : Fire"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Atk - Attack ↓"
+                ]
+            }
+        ]
     },
     {
         "name": "Richard Glass",
@@ -11957,7 +15069,23 @@ window.allHeroes =
             "defense": 1417,
             "health": 2951
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Minor to Nearby"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Atk - Bypass / Ignore"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Atk - Attack ↓"
+                ]
+            }
+        ]
     },
     {
         "name": "Rumpelstiltskin",
@@ -12014,7 +15142,32 @@ window.allHeroes =
             "defense": 861,
             "health": 1676
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Heal: Instant",
+                    "Atk: All",
+                    "Dmg: DoT"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Atk - Gamble / Random"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Atk - Attack ↑"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Dmg - DoT : Poison",
+                    "Def - Defense ↓",
+                    "Status - Cleanse Ailments"
+                ]
+            }
+        ]
     },
     {
         "name": "Rumpelstiltskin C1",
@@ -12077,7 +15230,32 @@ window.allHeroes =
             "defense": 1088,
             "health": 2360
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Heal: Boost Health",
+                    "Dmg: DoT"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Atk - Gamble / Random"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Status - Ailment Immunity"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Mana - Mana Gen ↓/Block",
+                    "Status - Buff Immunity",
+                    "Dmg - DoT : Poison",
+                    "Heal - Max Health ↓"
+                ]
+            }
+        ]
     },
     {
         "name": "Russula",
@@ -12130,7 +15308,23 @@ window.allHeroes =
             "defense": 965,
             "health": 1638
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Single"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Dmg - Extra"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Status - Hide/Ghost Form"
+                ]
+            }
+        ]
     },
     {
         "name": "Russula C1",
@@ -12186,7 +15380,23 @@ window.allHeroes =
             "defense": 1254,
             "health": 2142
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Single"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Dmg - Extra"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Status - Hide/Ghost Form"
+                ]
+            }
+        ]
     },
     {
         "name": "Sable",
@@ -12246,7 +15456,24 @@ window.allHeroes =
             "defense": 1496,
             "health": 2032
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Heal: Over Time",
+                    "Heal: Revive"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Status - Hide/Ghost Form"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Status - Cleanse Ailments"
+                ]
+            }
+        ]
     },
     {
         "name": "Salvatore",
@@ -12300,7 +15527,24 @@ window.allHeroes =
             "defense": 1536,
             "health": 2910
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Random"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Status - Hide/Ghost Form"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Status - Insanity",
+                    "Status - Cleanse Ailments"
+                ]
+            }
+        ]
     },
     {
         "name": "Satori",
@@ -12352,7 +15596,23 @@ window.allHeroes =
             "defense": 1221,
             "health": 2054
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: All"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Dmg - Extra"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Def - Dmg Reduction"
+                ]
+            }
+        ]
     },
     {
         "name": "Sawano",
@@ -12413,7 +15673,19 @@ window.allHeroes =
             "defense": 1600,
             "health": 2103
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Heal: Instant",
+                    "Heal: Special"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Status - Cleanse Ailments"
+                ]
+            }
+        ]
     },
     {
         "name": "Sigyn",
@@ -12467,7 +15739,19 @@ window.allHeroes =
             "defense": 1330,
             "health": 2656
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Edges"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Summon - Fiend",
+                    "Mana - Mana Cut"
+                ]
+            }
+        ]
     },
     {
         "name": "Sini",
@@ -12522,7 +15806,24 @@ window.allHeroes =
             "defense": 1201,
             "health": 2009
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: All"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Dmg - Tile : Up",
+                    "Dmg - Dmg ↑ : Fire"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Def - Dodge"
+                ]
+            }
+        ]
     },
     {
         "name": "Siofra",
@@ -12576,7 +15877,24 @@ window.allHeroes =
             "defense": 1310,
             "health": 2258
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Area"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Atk - Bypass / Ignore"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Atk - Attack ↓",
+                    "Heal - Healing ↓"
+                ]
+            }
+        ]
     },
     {
         "name": "Skadi",
@@ -12628,7 +15946,26 @@ window.allHeroes =
             "defense": 977,
             "health": 1739
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: All",
+                    "Dmg: DoT"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Dmg - Extra"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Dmg - Stack : DoT",
+                    "Mana - Stack : Mana Gen ↓",
+                    "Dmg - DoT : Frost"
+                ]
+            }
+        ]
     },
     {
         "name": "Skadi C1",
@@ -12680,7 +16017,26 @@ window.allHeroes =
             "defense": 1201,
             "health": 2300
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Area",
+                    "Dmg: DoT"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Dmg - Extra"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Dmg - Stack : DoT",
+                    "Mana - Stack : Mana Gen ↓",
+                    "Dmg - DoT : Frost"
+                ]
+            }
+        ]
     },
     {
         "name": "Skarn",
@@ -12737,7 +16093,20 @@ window.allHeroes =
             "defense": 1270,
             "health": 2519
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: All",
+                    "Dmg: DoT"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Dmg - DoT : Frost",
+                    "Def - Def ↓ : Ice"
+                ]
+            }
+        ]
     },
     {
         "name": "Slimgo",
@@ -12789,7 +16158,20 @@ window.allHeroes =
             "defense": 1435,
             "health": 2402
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: All",
+                    "Dmg: DoT"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Mana - Mana Gen ↓/Block",
+                    "Dmg - DoT : Water"
+                ]
+            }
+        ]
     },
     {
         "name": "Snow White",
@@ -12839,7 +16221,28 @@ window.allHeroes =
             "defense": 922,
             "health": 1602
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: All"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Dmg - Extra"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Status - Dispel Buffs"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Status - Cleanse Ailments"
+                ]
+            }
+        ]
     },
     {
         "name": "Snow White C1",
@@ -12890,7 +16293,28 @@ window.allHeroes =
             "defense": 1120,
             "health": 2210
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: All"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Dmg - Extra"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Status - Dispel Buffs"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Status - Cleanse Ailments"
+                ]
+            }
+        ]
     },
     {
         "name": "Sobek",
@@ -12940,7 +16364,18 @@ window.allHeroes =
             "defense": 922,
             "health": 1973
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: All"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Atk - Bypass / Ignore"
+                ]
+            }
+        ]
     },
     {
         "name": "Sobek C1",
@@ -12994,7 +16429,24 @@ window.allHeroes =
             "defense": 1331,
             "health": 2845
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: All",
+                    "Dmg: DoT"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Atk - Bypass / Ignore"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Dmg - DoT : Bleed"
+                ]
+            }
+        ]
     },
     {
         "name": "Song Jiang",
@@ -13056,7 +16508,25 @@ window.allHeroes =
             "defense": 1488,
             "health": 2715
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Area",
+                    "Heal: From Dmg"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Atk - Crit Chance ↑"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Mana - Mindless/Silence/Sleep",
+                    "Def - Defense ↓"
+                ]
+            }
+        ]
     },
     {
         "name": "Sorrow",
@@ -13109,7 +16579,19 @@ window.allHeroes =
             "defense": 1127,
             "health": 2095
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "特殊效果": [
+                    "Summon - Minion",
+                    "Dmg - On Minion Removal"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Atk - Attack ↑"
+                ]
+            }
+        ]
     },
     {
         "name": "Starwalker",
@@ -13163,7 +16645,25 @@ window.allHeroes =
             "defense": 1242,
             "health": 2108
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: All"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Atk - Bypass Dodge",
+                    "Dmg - Extra",
+                    "Dmg - Explosion"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Def - Defense ↓"
+                ]
+            }
+        ]
     },
     {
         "name": "Suzuna",
@@ -13217,7 +16717,23 @@ window.allHeroes =
             "defense": 942,
             "health": 1803
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Heal: Over Time"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Status - Reflect Ailments"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Status - Cleanse Ailments"
+                ]
+            }
+        ]
     },
     {
         "name": "Tealmoine",
@@ -13270,7 +16786,24 @@ window.allHeroes =
             "defense": 1595,
             "health": 2570
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Heal: Instant"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Status - Steal Buffs"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Mana - Mindless/Silence/Sleep",
+                    "Def - Dmg Taken ↑"
+                ]
+            }
+        ]
     },
     {
         "name": "Tethys",
@@ -13320,7 +16853,24 @@ window.allHeroes =
             "defense": 949,
             "health": 1811
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Area",
+                    "Dmg: DoT"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Atk - Attack ↑"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Dmg - DoT : Water"
+                ]
+            }
+        ]
     },
     {
         "name": "Thalassa",
@@ -13379,7 +16929,23 @@ window.allHeroes =
             "defense": 1229,
             "health": 2065
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Heal: Boost Health"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Status - Reset Ailment Duration"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Status - Ailment Immunity"
+                ]
+            }
+        ]
     },
     {
         "name": "Thalassa C1",
@@ -13438,7 +17004,23 @@ window.allHeroes =
             "defense": 1181,
             "health": 2039
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Heal: Boost Health"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Status - Reset Ailment Duration"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Status - Ailment Immunity"
+                ]
+            }
+        ]
     },
     {
         "name": "Thanatos",
@@ -13499,7 +17081,19 @@ window.allHeroes =
             "defense": 1051,
             "health": 1877
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Heal: Instant"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Mana - Mana Gen ↑",
+                    "Mana - Mana Gain"
+                ]
+            }
+        ]
     },
     {
         "name": "Theobald",
@@ -13550,7 +17144,19 @@ window.allHeroes =
             "defense": 990,
             "health": 1732
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: All"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Def - Reflect : Nature",
+                    "Atk - Attack ↑"
+                ]
+            }
+        ]
     },
     {
         "name": "Thorne",
@@ -13593,7 +17199,13 @@ window.allHeroes =
             "defense": 977,
             "health": 1651
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Minor to Nearby"
+                ]
+            }
+        ]
     },
     {
         "name": "Thorne C1",
@@ -13639,7 +17251,18 @@ window.allHeroes =
             "defense": 1044,
             "health": 1804
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Single"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Mana - Mana Gen ↑"
+                ]
+            }
+        ]
     },
     {
         "name": "Thorne C2",
@@ -13688,7 +17311,23 @@ window.allHeroes =
             "defense": 1191,
             "health": 2299
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Area"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Mana - Mana Cut"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Mana - Mana Gain"
+                ]
+            }
+        ]
     },
     {
         "name": "Thorne Toon",
@@ -13735,7 +17374,18 @@ window.allHeroes =
             "defense": 1436,
             "health": 2740
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Minor to Nearby"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Dmg - Dmg ↑ : Fire"
+                ]
+            }
+        ]
     },
     {
         "name": "Timius",
@@ -13789,7 +17439,28 @@ window.allHeroes =
             "defense": 1226,
             "health": 2026
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Area"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Dmg - Dmg ↑ : Holy"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Status - Dispel Buffs"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Status - Buff Immunity"
+                ]
+            }
+        ]
     },
     {
         "name": "Tinsel",
@@ -13841,7 +17512,24 @@ window.allHeroes =
             "defense": 995,
             "health": 1780
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Area"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Summon - Minion"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Atk - Accuracy ↓",
+                    "Def - Defense ↓"
+                ]
+            }
+        ]
     },
     {
         "name": "Tremor",
@@ -13895,7 +17583,23 @@ window.allHeroes =
             "defense": 1176,
             "health": 2143
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Heal: Over Time"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Dmg - Explosion"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Atk - Stack : Atk ↑"
+                ]
+            }
+        ]
     },
     {
         "name": "Ulius",
@@ -13955,7 +17659,24 @@ window.allHeroes =
             "defense": 1102,
             "health": 1102
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "特殊效果": [
+                    "Summon - Fiend",
+                    "Summon - Minion"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Mana - Mana Gen ↑"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Mana - Mana Gen ↓/Block"
+                ]
+            }
+        ]
     },
     {
         "name": "Vela",
@@ -14010,7 +17731,25 @@ window.allHeroes =
             "defense": 899,
             "health": 1607
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: All",
+                    "Dmg: DoT"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Dmg - Dmg ↑ : Fire"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Dmg - DoT : Water",
+                    "Def - Defense ↓"
+                ]
+            }
+        ]
     },
     {
         "name": "Verity",
@@ -14064,7 +17803,19 @@ window.allHeroes =
             "defense": 1323,
             "health": 2649
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Area"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Mana - Mana Gen ↓/Block",
+                    "Def - Def ↓ : Special"
+                ]
+            }
+        ]
     },
     {
         "name": "Vincent",
@@ -14120,7 +17871,25 @@ window.allHeroes =
             "defense": 1330,
             "health": 2362
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: All",
+                    "Dmg: DoT"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Atk - Gamble / Random"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Dmg - DoT : Frost",
+                    "Def - Def ↓ : Ice"
+                ]
+            }
+        ]
     },
     {
         "name": "Waterpipe",
@@ -14176,7 +17945,20 @@ window.allHeroes =
             "defense": 1013,
             "health": 2029
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "特殊效果": [
+                    "Summon - Minion",
+                    "Mana - Mana Cut"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Status - Buff Immunity",
+                    "Def - Def ↓ : Special"
+                ]
+            }
+        ]
     },
     {
         "name": "Whitefang",
@@ -14228,7 +18010,24 @@ window.allHeroes =
             "defense": 1450,
             "health": 2639
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Single",
+                    "Dmg: DoT"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Status - Dispel Buffs"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Dmg - DoT : Frost"
+                ]
+            }
+        ]
     },
     {
         "name": "Zappa",
@@ -14277,7 +18076,24 @@ window.allHeroes =
             "defense": 1132,
             "health": 1955
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Single",
+                    "Dmg: DoT"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Summon - Minion"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Dmg - DoT : Frost"
+                ]
+            }
+        ]
     },
     {
         "name": "Zengar",
@@ -14334,7 +18150,20 @@ window.allHeroes =
             "defense": 1000,
             "health": 2133
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Single",
+                    "Dmg: DoT",
+                    "Atk: Variable Targets"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Dmg - DoT : Frost"
+                ]
+            }
+        ]
     },
     {
         "name": "Zircon",
@@ -14395,7 +18224,20 @@ window.allHeroes =
             "defense": 1036,
             "health": 1770
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Heal: Over Time",
+                    "Heal: Boost Health"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Def - Defense ↑",
+                    "Status - Block Buff Dispel"
+                ]
+            }
+        ]
     },
     {
         "name": "Aife",
@@ -14598,7 +18440,18 @@ window.allHeroes =
             "defense": 674,
             "health": 1126
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Area"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Heal - Max Health ↓"
+                ]
+            }
+        ]
     },
     {
         "name": "Belith",
@@ -14644,7 +18497,18 @@ window.allHeroes =
             "defense": 630,
             "health": 1022
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Heal: Instant"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Status - Dispel Buffs"
+                ]
+            }
+        ]
     },
     {
         "name": "Belith C1",
@@ -14690,7 +18554,18 @@ window.allHeroes =
             "defense": 658,
             "health": 1198
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Heal: Over Time"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Status - Block Buff Dispel"
+                ]
+            }
+        ]
     },
     {
         "name": "Belith Toon",
@@ -14741,7 +18616,19 @@ window.allHeroes =
             "defense": 696,
             "health": 1226
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Heal: Instant"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Def - Defense ↑",
+                    "Status - Dispel Buffs"
+                ]
+            }
+        ]
     },
     {
         "name": "Belith Glass",
@@ -14792,7 +18679,19 @@ window.allHeroes =
             "defense": 705,
             "health": 1252
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Heal: Instant"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Status - Reflect Ailments",
+                    "Status - Dispel Buffs"
+                ]
+            }
+        ]
     },
     {
         "name": "Berden",
@@ -14838,7 +18737,18 @@ window.allHeroes =
             "defense": 596,
             "health": 963
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Single"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Atk - Attack ↓"
+                ]
+            }
+        ]
     },
     {
         "name": "Berden C1",
@@ -14884,7 +18794,18 @@ window.allHeroes =
             "defense": 679,
             "health": 1112
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Single"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Def - Defense ↓"
+                ]
+            }
+        ]
     },
     {
         "name": "Berden Toon",
@@ -14934,7 +18855,23 @@ window.allHeroes =
             "defense": 685,
             "health": 1155
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Single"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Dmg - Dmg ↑ : Ice"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Atk - Attack ↓"
+                ]
+            }
+        ]
     },
     {
         "name": "Berden Glass",
@@ -14985,7 +18922,23 @@ window.allHeroes =
             "defense": 691,
             "health": 1180
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Single"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Atk - Bypass / Ignore"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Atk - Attack ↓"
+                ]
+            }
+        ]
     },
     {
         "name": "Brienne",
@@ -15028,7 +18981,13 @@ window.allHeroes =
             "defense": 627,
             "health": 944
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "增益效果": [
+                    "Atk - Attack ↑"
+                ]
+            }
+        ]
     },
     {
         "name": "Brienne C1",
@@ -15071,7 +19030,13 @@ window.allHeroes =
             "defense": 668,
             "health": 1061
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "负面效果": [
+                    "Def - Defense ↓"
+                ]
+            }
+        ]
     },
     {
         "name": "Brienne Toon",
@@ -15116,7 +19081,13 @@ window.allHeroes =
             "defense": 685,
             "health": 1238
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "增益效果": [
+                    "Atk - Attack ↑"
+                ]
+            }
+        ]
     },
     {
         "name": "Brienne Glass",
@@ -15165,7 +19136,14 @@ window.allHeroes =
             "defense": 745,
             "health": 1317
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "增益效果": [
+                    "Status - Reflect Ailments",
+                    "Atk - Attack ↑"
+                ]
+            }
+        ]
     },
     {
         "name": "By-Ulf",
@@ -15221,7 +19199,24 @@ window.allHeroes =
             "defense": 625,
             "health": 1212
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Heal: Over Time"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Atk - Attack ↑",
+                    "Def - Defense ↑"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Status - Self-Debuff"
+                ]
+            }
+        ]
     },
     {
         "name": "Carver",
@@ -15267,7 +19262,18 @@ window.allHeroes =
             "defense": 627,
             "health": 915
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: All"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Mana - Mana Cut"
+                ]
+            }
+        ]
     },
     {
         "name": "Carver C1",
@@ -15313,7 +19319,18 @@ window.allHeroes =
             "defense": 645,
             "health": 1002
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: All"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Mana - Mana Gen ↓/Block"
+                ]
+            }
+        ]
     },
     {
         "name": "Carver Toon",
@@ -15363,7 +19380,19 @@ window.allHeroes =
             "defense": 721,
             "health": 1098
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: All"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Mana - Mana Cut",
+                    "Dmg - Dmg ↑ : Ice"
+                ]
+            }
+        ]
     },
     {
         "name": "Carver Glass",
@@ -15414,7 +19443,19 @@ window.allHeroes =
             "defense": 597,
             "health": 1143
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: All"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Mana - Mana Cut",
+                    "Atk - Bypass / Ignore"
+                ]
+            }
+        ]
     },
     {
         "name": "Chires",
@@ -15465,7 +19506,19 @@ window.allHeroes =
             "defense": 756,
             "health": 1163
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Heal: Boost Health"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Def - Growth : Def↑",
+                    "防御-成长：防御力↑"
+                ]
+            }
+        ]
     },
     {
         "name": "Dolgoon",
@@ -15523,7 +19576,19 @@ window.allHeroes =
             "defense": 705,
             "health": 1114
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "增益效果": [
+                    "Def - Dmg Share",
+                    "Def - Defense ↑"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Def - Defense ↓"
+                ]
+            }
+        ]
     },
     {
         "name": "Faiez",
@@ -15576,7 +19641,19 @@ window.allHeroes =
             "defense": 686,
             "health": 1190
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Heal: Boost Health"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Status - Ailment Immunity",
+                    "Def - Defense ↑"
+                ]
+            }
+        ]
     },
     {
         "name": "Faiez C1",
@@ -15628,7 +19705,19 @@ window.allHeroes =
             "defense": 710,
             "health": 1212
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Heal: Boost Health"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Status - Ailment Immunity",
+                    "Def - Defense ↑"
+                ]
+            }
+        ]
     },
     {
         "name": "Featherino",
@@ -15675,7 +19764,19 @@ window.allHeroes =
             "defense": 596,
             "health": 1061
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Area"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Atk - Bypass Dodge",
+                    "Dmg - Dmg ↑ : Holy"
+                ]
+            }
+        ]
     },
     {
         "name": "Fianna",
@@ -15726,7 +19827,18 @@ window.allHeroes =
             "defense": 635,
             "health": 1100
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Area"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Summon - Fiend"
+                ]
+            }
+        ]
     },
     {
         "name": "Friar Tuck",
@@ -15772,7 +19884,18 @@ window.allHeroes =
             "defense": 630,
             "health": 954
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Heal: Instant"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Mana - Mana Gen ↑"
+                ]
+            }
+        ]
     },
     {
         "name": "Friar Tuck C1",
@@ -15818,7 +19941,18 @@ window.allHeroes =
             "defense": 668,
             "health": 1102
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Heal: Instant"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Mana - Mana Gen ↑"
+                ]
+            }
+        ]
     },
     {
         "name": "Friar Tuck Toon",
@@ -15866,7 +20000,18 @@ window.allHeroes =
             "defense": 730,
             "health": 1144
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Heal: Instant"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Mana - Mana Gen ↑"
+                ]
+            }
+        ]
     },
     {
         "name": "Friar Tuck Glass",
@@ -15917,7 +20062,19 @@ window.allHeroes =
             "defense": 733,
             "health": 1143
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Heal: Instant"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Status - Reflect Ailments",
+                    "Mana - Mana Gen ↑"
+                ]
+            }
+        ]
     },
     {
         "name": "General Yin",
@@ -15965,7 +20122,23 @@ window.allHeroes =
             "defense": 710,
             "health": 980
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: All"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Dmg - Extra"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Status - Dispel Buffs"
+                ]
+            }
+        ]
     },
     {
         "name": "Gnomer",
@@ -16011,7 +20184,19 @@ window.allHeroes =
             "defense": 632,
             "health": 1182
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Single",
+                    "Dmg: DoT"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Dmg - DoT : Bleed"
+                ]
+            }
+        ]
     },
     {
         "name": "Goopy",
@@ -16061,7 +20246,23 @@ window.allHeroes =
             "defense": 654,
             "health": 1131
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: All"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Dmg - Extra"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Mana - Mana Gen ↓/Block"
+                ]
+            }
+        ]
     },
     {
         "name": "Gramps",
@@ -16109,7 +20310,18 @@ window.allHeroes =
             "defense": 720,
             "health": 1126
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Heal: Revive"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Mana - Mana Gain"
+                ]
+            }
+        ]
     },
     {
         "name": "Gramps C1",
@@ -16157,7 +20369,14 @@ window.allHeroes =
             "defense": 722,
             "health": 1191
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Heal: Over Time",
+                    "Heal: Revive"
+                ]
+            }
+        ]
     },
     {
         "name": "Grevle",
@@ -16204,7 +20423,18 @@ window.allHeroes =
             "defense": 859,
             "health": 873
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Heal: Boost Health"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Atk - Attack ↑"
+                ]
+            }
+        ]
     },
     {
         "name": "Hisan",
@@ -16257,7 +20487,21 @@ window.allHeroes =
             "defense": 547,
             "health": 851
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Single",
+                    "Dmg: DoT"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Heal - Block Healing",
+                    "Dmg - DoT : Sand",
+                    "Status - Cleanse Ailments"
+                ]
+            }
+        ]
     },
     {
         "name": "Isshtak",
@@ -16300,7 +20544,13 @@ window.allHeroes =
             "defense": 584,
             "health": 1070
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Minor to Nearby"
+                ]
+            }
+        ]
     },
     {
         "name": "Isshtak C1",
@@ -16346,7 +20596,18 @@ window.allHeroes =
             "defense": 559,
             "health": 1312
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Minor to Nearby"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Def - Defense ↓"
+                ]
+            }
+        ]
     },
     {
         "name": "Isshtak Toon",
@@ -16393,7 +20654,18 @@ window.allHeroes =
             "defense": 654,
             "health": 1460
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Minor to Nearby"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Dmg - Dmg ↑ : Ice"
+                ]
+            }
+        ]
     },
     {
         "name": "Jing",
@@ -16441,7 +20713,23 @@ window.allHeroes =
             "defense": 679,
             "health": 1073
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Single"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Summon - Minion"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Def - Counterattack"
+                ]
+            }
+        ]
     },
     {
         "name": "Mnesseus",
@@ -16487,7 +20775,18 @@ window.allHeroes =
             "defense": 603,
             "health": 968
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Single"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Status - Dispel Buffs"
+                ]
+            }
+        ]
     },
     {
         "name": "Mnesseus C1",
@@ -16533,7 +20832,18 @@ window.allHeroes =
             "defense": 613,
             "health": 1002
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Single"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Status - Cleanse Ailments"
+                ]
+            }
+        ]
     },
     {
         "name": "Muggy",
@@ -16581,7 +20891,13 @@ window.allHeroes =
             "defense": 523,
             "health": 589
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Heal: Revive"
+                ]
+            }
+        ]
     },
     {
         "name": "Noril",
@@ -16636,7 +20952,25 @@ window.allHeroes =
             "defense": 715,
             "health": 1119
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Single"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Atk - Extra Attack",
+                    "Dmg - Dmg ↑ : Ice"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Mana - Stack : Mana Gen ↑",
+                    "Heal - Stack : Regen"
+                ]
+            }
+        ]
     },
     {
         "name": "Roxia",
@@ -16695,7 +21029,24 @@ window.allHeroes =
             "defense": 742,
             "health": 929
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Single"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Dmg - Extra"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Atk - Bypass / Ignore",
+                    "Atk - Crit Chance ↑"
+                ]
+            }
+        ]
     },
     {
         "name": "Shrubbear",
@@ -16741,7 +21092,15 @@ window.allHeroes =
             "defense": 718,
             "health": 1243
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "增益效果": [
+                    "Def - Taunt",
+                    "Def - Def ↑ : Special",
+                    "Def - Defense ↑"
+                ]
+            }
+        ]
     },
     {
         "name": "Whacker",
@@ -16787,7 +21146,18 @@ window.allHeroes =
             "defense": 569,
             "health": 1046
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Single"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Atk - Attack ↓"
+                ]
+            }
+        ]
     },
     {
         "name": "William",
@@ -16839,7 +21209,19 @@ window.allHeroes =
             "defense": 700,
             "health": 997
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Area"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Atk - Crit Chance ↑",
+                    "Def - Defense ↑"
+                ]
+            }
+        ]
     },
     {
         "name": "Yona",
@@ -16897,7 +21279,29 @@ window.allHeroes =
             "defense": 666,
             "health": 1343
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Heal: Boost Health"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Atk - Gamble / Random"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Def - Defense ↑"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Heal - Max Health ↓",
+                    "Def - Defense ↓"
+                ]
+            }
+        ]
     },
     {
         "name": "Zarel",
@@ -16948,7 +21352,19 @@ window.allHeroes =
             "defense": 698,
             "health": 1085
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: All"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Status - Block Cleanse",
+                    "Atk - Attack ↓"
+                ]
+            }
+        ]
     },
     {
         "name": "Zarola",
@@ -16995,7 +21411,18 @@ window.allHeroes =
             "defense": 664,
             "health": 978
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Area"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Dmg - Extra"
+                ]
+            }
+        ]
     },
     {
         "name": "Alfie",
@@ -17052,7 +21479,21 @@ window.allHeroes =
             "defense": 816,
             "health": 1579
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: All"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Mana - Mana Gen ↓/Block",
+                    "Atk - Accuracy ↓",
+                    "Atk - Attack ↓",
+                    "Def - Defense ↓"
+                ]
+            }
+        ]
     },
     {
         "name": "Almur",
@@ -17101,7 +21542,19 @@ window.allHeroes =
             "defense": 816,
             "health": 1590
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Area"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Heal - Max Health ↓",
+                    "Def - Def ↓ : Nature"
+                ]
+            }
+        ]
     },
     {
         "name": "Almur C1",
@@ -17150,7 +21603,23 @@ window.allHeroes =
             "defense": 799,
             "health": 1699
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Single"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Mana - Mana Cut"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Def - Def ↓ : Nature"
+                ]
+            }
+        ]
     },
     {
         "name": "Anton",
@@ -17210,7 +21679,21 @@ window.allHeroes =
             "defense": 805,
             "health": 1681
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Heal: Over Time",
+                    "Heal: Revive",
+                    "Atk: All",
+                    "Dmg: DoT"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Dmg - DoT : Poison"
+                ]
+            }
+        ]
     },
     {
         "name": "Brontes",
@@ -17269,7 +21752,19 @@ window.allHeroes =
             "defense": 902,
             "health": 1424
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Heal: Instant"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Mana - Mana Gen ↑",
+                    "Mana - Mana Gain"
+                ]
+            }
+        ]
     },
     {
         "name": "Brynhild",
@@ -17320,7 +21815,20 @@ window.allHeroes =
             "defense": 768,
             "health": 1491
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Heal: Instant"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Status - Block Buff Dispel",
+                    "Mana - Mana Gen ↑",
+                    "Def - Def ↑ : Special"
+                ]
+            }
+        ]
     },
     {
         "name": "Buddy",
@@ -17372,7 +21880,24 @@ window.allHeroes =
             "defense": 870,
             "health": 1667
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Area"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Summon - Minion"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Atk - Attack ↓",
+                    "Def - Defense ↓"
+                ]
+            }
+        ]
     },
     {
         "name": "Caedmon",
@@ -17418,7 +21943,18 @@ window.allHeroes =
             "defense": 803,
             "health": 1421
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Single"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Status - Dispel Buffs"
+                ]
+            }
+        ]
     },
     {
         "name": "Caedmon C1",
@@ -17464,7 +22000,18 @@ window.allHeroes =
             "defense": 852,
             "health": 1571
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Single"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Status - Cleanse Ailments"
+                ]
+            }
+        ]
     },
     {
         "name": "Caedmon C2",
@@ -17512,7 +22059,23 @@ window.allHeroes =
             "defense": 907,
             "health": 1689
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Area"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Status - Dispel Buffs"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Status - Buff Immunity"
+                ]
+            }
+        ]
     },
     {
         "name": "Caedmon Toon",
@@ -17562,7 +22125,23 @@ window.allHeroes =
             "defense": 936,
             "health": 1694
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Single"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Dmg - Dmg ↑ : Ice"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Status - Dispel Buffs"
+                ]
+            }
+        ]
     },
     {
         "name": "Caedmon Glass",
@@ -17615,7 +22194,28 @@ window.allHeroes =
             "defense": 948,
             "health": 1728
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Single"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Atk - Bypass / Ignore"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Status - Dispel Buffs"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Atk - Attack ↓"
+                ]
+            }
+        ]
     },
     {
         "name": "Franz",
@@ -17664,7 +22264,19 @@ window.allHeroes =
             "defense": 859,
             "health": 1914
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: All"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Status - Buff Immunity",
+                    "Def - Dmg Taken ↑"
+                ]
+            }
+        ]
     },
     {
         "name": "Fruitio",
@@ -17714,7 +22326,18 @@ window.allHeroes =
             "defense": 942,
             "health": 1748
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Single"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Mana - Paralyze"
+                ]
+            }
+        ]
     },
     {
         "name": "Gadeirus",
@@ -17763,7 +22386,19 @@ window.allHeroes =
             "defense": 870,
             "health": 1381
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Minor to Nearby",
+                    "Heal: Over Time"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Atk - Attack ↑"
+                ]
+            }
+        ]
     },
     {
         "name": "Gadeirus C1",
@@ -17813,7 +22448,20 @@ window.allHeroes =
             "defense": 909,
             "health": 1506
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: All",
+                    "Heal: Over Time",
+                    "Heal: Boost Health"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Atk - Attack ↑"
+                ]
+            }
+        ]
     },
     {
         "name": "Gobbler",
@@ -17861,7 +22509,19 @@ window.allHeroes =
             "defense": 773,
             "health": 1531
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Heal: Special",
+                    "Atk: All"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Atk - Destroy Minions"
+                ]
+            }
+        ]
     },
     {
         "name": "Gobbler C1",
@@ -17910,7 +22570,24 @@ window.allHeroes =
             "defense": 832,
             "health": 1790
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Single",
+                    "Dmg: DoT"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Atk - Steal Minions"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Dmg - DoT : Sand"
+                ]
+            }
+        ]
     },
     {
         "name": "Hansel",
@@ -17958,7 +22635,23 @@ window.allHeroes =
             "defense": 757,
             "health": 1341
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Single"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Def - Def ↑ : Special"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Mana - Mindless/Silence/Sleep"
+                ]
+            }
+        ]
     },
     {
         "name": "Hansel C1",
@@ -18006,7 +22699,23 @@ window.allHeroes =
             "defense": 893,
             "health": 1483
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Single"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Def - Def ↑ : Special"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Mana - Mindless/Silence/Sleep"
+                ]
+            }
+        ]
     },
     {
         "name": "Jack O'Hare",
@@ -18051,7 +22760,18 @@ window.allHeroes =
             "defense": 760,
             "health": 1210
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: All"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Status - Self-Debuff"
+                ]
+            }
+        ]
     },
     {
         "name": "Jack O'Hare C1",
@@ -18099,7 +22819,23 @@ window.allHeroes =
             "defense": 820,
             "health": 1387
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Single"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Atk - Chain"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Status - Self-Debuff"
+                ]
+            }
+        ]
     },
     {
         "name": "Kalo",
@@ -18149,7 +22885,19 @@ window.allHeroes =
             "defense": 816,
             "health": 1723
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: All"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Atk - Copy/Steal Skill",
+                    "Dmg - Extra"
+                ]
+            }
+        ]
     },
     {
         "name": "Kashhrek",
@@ -18195,7 +22943,18 @@ window.allHeroes =
             "defense": 816,
             "health": 1665
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Heal: Instant"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Def - Def ↑ : Fire"
+                ]
+            }
+        ]
     },
     {
         "name": "Kashhrek C1",
@@ -18242,7 +23001,18 @@ window.allHeroes =
             "defense": 887,
             "health": 1791
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Heal: Boost Health"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Def - Def ↑ : Fire"
+                ]
+            }
+        ]
     },
     {
         "name": "Kashhrek C2",
@@ -18288,7 +23058,18 @@ window.allHeroes =
             "defense": 962,
             "health": 2055
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Heal: Over Time"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Def - Def ↑ : Special"
+                ]
+            }
+        ]
     },
     {
         "name": "Kashhrek Toon",
@@ -18336,7 +23117,18 @@ window.allHeroes =
             "defense": 870,
             "health": 2089
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Heal: Instant"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Def - Def ↑ : Fire"
+                ]
+            }
+        ]
     },
     {
         "name": "Kashhrek Glass",
@@ -18387,7 +23179,19 @@ window.allHeroes =
             "defense": 853,
             "health": 2057
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Heal: Instant"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Status - Reflect Ailments",
+                    "Def - Def ↑ : Fire"
+                ]
+            }
+        ]
     },
     {
         "name": "Lionstring",
@@ -18442,7 +23246,23 @@ window.allHeroes =
             "defense": 867,
             "health": 1627
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Area"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Def - Dodge"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Heal - Steal Healing"
+                ]
+            }
+        ]
     },
     {
         "name": "Little John",
@@ -18488,7 +23308,18 @@ window.allHeroes =
             "defense": 717,
             "health": 1244
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: All"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Mana - Mana Gen ↓/Block"
+                ]
+            }
+        ]
     },
     {
         "name": "Little John C1",
@@ -18535,7 +23366,19 @@ window.allHeroes =
             "defense": 801,
             "health": 1380
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: All"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Def - Dodge",
+                    "Mana - Mana Gain"
+                ]
+            }
+        ]
     },
     {
         "name": "Little John C2",
@@ -18581,7 +23424,18 @@ window.allHeroes =
             "defense": 802,
             "health": 1576
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: All"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Mana - Mana Gen ↑"
+                ]
+            }
+        ]
     },
     {
         "name": "Little John Toon",
@@ -18631,7 +23485,23 @@ window.allHeroes =
             "defense": 876,
             "health": 1527
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: All"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Dmg - Dmg ↑ : Ice"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Mana - Mana Gen ↓/Block"
+                ]
+            }
+        ]
     },
     {
         "name": "Little John Glass",
@@ -18682,7 +23552,23 @@ window.allHeroes =
             "defense": 887,
             "health": 1559
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: All"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Atk - Bypass / Ignore"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Mana - Mana Gen ↓/Block"
+                ]
+            }
+        ]
     },
     {
         "name": "Marcel",
@@ -18732,7 +23618,23 @@ window.allHeroes =
             "defense": 789,
             "health": 1686
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Area"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Atk - Attack ↑"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Def - Defense ↓"
+                ]
+            }
+        ]
     },
     {
         "name": "Melendor",
@@ -18778,7 +23680,18 @@ window.allHeroes =
             "defense": 738,
             "health": 1260
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Heal: Instant"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Status - Dispel Buffs"
+                ]
+            }
+        ]
     },
     {
         "name": "Melendor C1",
@@ -18827,7 +23740,19 @@ window.allHeroes =
             "defense": 842,
             "health": 1464
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Heal: Over Time"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Def - Defense ↑",
+                    "Status - Dispel Buffs"
+                ]
+            }
+        ]
     },
     {
         "name": "Melendor C2",
@@ -18876,7 +23801,19 @@ window.allHeroes =
             "defense": 1046,
             "health": 1550
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Heal: Over Time"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Atk - Attack ↑",
+                    "Status - Dispel Buffs"
+                ]
+            }
+        ]
     },
     {
         "name": "Melendor Toon",
@@ -18927,7 +23864,19 @@ window.allHeroes =
             "defense": 917,
             "health": 1554
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Heal: Instant"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Def - Defense ↑",
+                    "Status - Dispel Buffs"
+                ]
+            }
+        ]
     },
     {
         "name": "Melendor Glass",
@@ -18979,7 +23928,19 @@ window.allHeroes =
             "defense": 936,
             "health": 1592
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Heal: Instant"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Status - Reflect Ailments",
+                    "Status - Dispel Buffs"
+                ]
+            }
+        ]
     },
     {
         "name": "Mielikki",
@@ -19029,7 +23990,23 @@ window.allHeroes =
             "defense": 816,
             "health": 1815
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "特殊效果": [
+                    "Summon - Minion"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Mana - Mana Gen ↑"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Atk - Attack ↓"
+                ]
+            }
+        ]
     },
     {
         "name": "Mielikki C1",
@@ -19077,7 +24054,23 @@ window.allHeroes =
             "defense": 848,
             "health": 1980
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "特殊效果": [
+                    "Summon - Minion"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Mana - Mana Gen ↑"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Atk - Attack ↓"
+                ]
+            }
+        ]
     },
     {
         "name": "Mulgog",
@@ -19137,7 +24130,25 @@ window.allHeroes =
             "defense": 811,
             "health": 1547
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Area",
+                    "Dmg: DoT"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Heal - From Dmg",
+                    "Mana - Mana Cut"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Dmg - DoT : Poison"
+                ]
+            }
+        ]
     },
     {
         "name": "Mulgog C1",
@@ -19198,7 +24209,25 @@ window.allHeroes =
             "defense": 920,
             "health": 1636
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: All",
+                    "Dmg: DoT"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Heal - From Dmg",
+                    "Mana - Mana Cut"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Dmg - DoT : Poison"
+                ]
+            }
+        ]
     },
     {
         "name": "Myrtle",
@@ -19252,7 +24281,25 @@ window.allHeroes =
             "defense": 835,
             "health": 1638
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Minor to Nearby",
+                    "Dmg: DoT"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Dmg - Explosion"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Dmg - DoT : Poison",
+                    "Def - Def ↓ : Special"
+                ]
+            }
+        ]
     },
     {
         "name": "Numbskull",
@@ -19304,7 +24351,19 @@ window.allHeroes =
             "defense": 840,
             "health": 1624
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: All"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Summon - Minion",
+                    "Dmg - On Minion Removal"
+                ]
+            }
+        ]
     },
     {
         "name": "Orla",
@@ -19361,7 +24420,29 @@ window.allHeroes =
             "defense": 856,
             "health": 1619
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Single"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Dmg - Extra"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Mana - Stack : Mana Gen ↑",
+                    "Heal - Stack : Regen"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Mana - Mana Gen ↓/Block"
+                ]
+            }
+        ]
     },
     {
         "name": "Peters",
@@ -19407,7 +24488,18 @@ window.allHeroes =
             "defense": 808,
             "health": 1402
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Single"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Mana - Mindless/Silence/Sleep"
+                ]
+            }
+        ]
     },
     {
         "name": "Peters C1",
@@ -19456,7 +24548,19 @@ window.allHeroes =
             "defense": 898,
             "health": 1439
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Single"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Mana - Mindless/Silence/Sleep",
+                    "Def - Defense ↓"
+                ]
+            }
+        ]
     },
     {
         "name": "Ptolemy",
@@ -19507,7 +24611,19 @@ window.allHeroes =
             "defense": 864,
             "health": 1809
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Heal: Instant",
+                    "Heal: Special"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Status - Block Ailments"
+                ]
+            }
+        ]
     },
     {
         "name": "Ptolemy C1",
@@ -19562,7 +24678,19 @@ window.allHeroes =
             "defense": 908,
             "health": 1901
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Heal: Instant",
+                    "Heal: Special"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Status - Ailment Immunity"
+                ]
+            }
+        ]
     },
     {
         "name": "Raleigh",
@@ -19613,7 +24741,19 @@ window.allHeroes =
             "defense": 899,
             "health": 1603
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Heal: Boost Health"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Mana - Mana Gen ↑",
+                    "Atk - Attack ↑"
+                ]
+            }
+        ]
     },
     {
         "name": "Skittleskull",
@@ -19659,7 +24799,18 @@ window.allHeroes =
             "defense": 762,
             "health": 1220
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: All"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Atk - Attack ↓"
+                ]
+            }
+        ]
     },
     {
         "name": "Skittleskull C1",
@@ -19705,7 +24856,18 @@ window.allHeroes =
             "defense": 809,
             "health": 1315
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: All"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Atk - Attack ↓"
+                ]
+            }
+        ]
     },
     {
         "name": "Skittleskull C2",
@@ -19751,7 +24913,18 @@ window.allHeroes =
             "defense": 895,
             "health": 1454
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: All"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Def - Defense ↓"
+                ]
+            }
+        ]
     },
     {
         "name": "Skittleskull Toon",
@@ -19801,7 +24974,23 @@ window.allHeroes =
             "defense": 889,
             "health": 1521
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: All"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Dmg - Dmg ↑ : Ice"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Atk - Attack ↓"
+                ]
+            }
+        ]
     },
     {
         "name": "Skittleskull Glass",
@@ -19852,7 +25041,23 @@ window.allHeroes =
             "defense": 894,
             "health": 1512
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: All"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Atk - Bypass / Ignore"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Atk - Attack ↓"
+                ]
+            }
+        ]
     },
     {
         "name": "Tettukh",
@@ -19903,7 +25108,20 @@ window.allHeroes =
             "defense": 840,
             "health": 1563
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Single",
+                    "Dmg: DoT"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Mana - Mindless/Silence/Sleep",
+                    "Dmg - DoT : Poison"
+                ]
+            }
+        ]
     },
     {
         "name": "Tettukh C1",
@@ -19954,7 +25172,20 @@ window.allHeroes =
             "defense": 827,
             "health": 1491
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Single",
+                    "Dmg: DoT"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Mana - Mindless/Silence/Sleep",
+                    "Dmg - DoT : Poison"
+                ]
+            }
+        ]
     },
     {
         "name": "Villiers",
@@ -20009,7 +25240,20 @@ window.allHeroes =
             "defense": 856,
             "health": 1512
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Heal: Over Time"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Summon - Fiend",
+                    "Status - Steal Buffs",
+                    "Heal - Self Recovery"
+                ]
+            }
+        ]
     },
     {
         "name": "Wren",
@@ -20057,7 +25301,23 @@ window.allHeroes =
             "defense": 811,
             "health": 1614
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Single"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Atk - Chain"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Atk - Attack ↓"
+                ]
+            }
+        ]
     },
     {
         "name": "Ahmose",
@@ -20108,7 +25368,18 @@ window.allHeroes =
             "defense": 1061,
             "health": 1935
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: All"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Def - Reflect : Fire"
+                ]
+            }
+        ]
     },
     {
         "name": "Ahmose C1",
@@ -20161,7 +25432,18 @@ window.allHeroes =
             "defense": 1467,
             "health": 2798
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: All"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Def - Reflect : Fire"
+                ]
+            }
+        ]
     },
     {
         "name": "Alberich",
@@ -20213,7 +25495,19 @@ window.allHeroes =
             "defense": 914,
             "health": 1574
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Heal: Over Time",
+                    "Heal: Revive"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Mana - Mana Gain"
+                ]
+            }
+        ]
     },
     {
         "name": "Alberich C1",
@@ -20268,7 +25562,19 @@ window.allHeroes =
             "defense": 1186,
             "health": 2308
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Heal: Over Time",
+                    "Heal: Revive"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Mana - Mana Gen ↑"
+                ]
+            }
+        ]
     },
     {
         "name": "Archibald",
@@ -20325,7 +25631,26 @@ window.allHeroes =
             "defense": 1496,
             "health": 2705
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: All",
+                    "Dmg: DoT"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Atk - Bypass Minions",
+                    "Summon - Mega Minion"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Dmg - DoT : Bleed",
+                    "Def - Def ↓ : Nature"
+                ]
+            }
+        ]
     },
     {
         "name": "Archie",
@@ -20374,7 +25699,19 @@ window.allHeroes =
             "defense": 1021,
             "health": 1798
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: All"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Status - Buff Immunity",
+                    "Status - Self-Debuff"
+                ]
+            }
+        ]
     },
     {
         "name": "Archie C1",
@@ -20423,7 +25760,19 @@ window.allHeroes =
             "defense": 1225,
             "health": 2247
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: All"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Status - Buff Immunity",
+                    "Status - Self-Debuff"
+                ]
+            }
+        ]
     },
     {
         "name": "Arco",
@@ -20475,7 +25824,15 @@ window.allHeroes =
             "defense": 1023,
             "health": 1871
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "特殊效果": [
+                    "Summon - Destroy Fiends",
+                    "Summon - Minion",
+                    "Heal - From Minions"
+                ]
+            }
+        ]
     },
     {
         "name": "Armand Moncharmin",
@@ -20526,7 +25883,24 @@ window.allHeroes =
             "defense": 1457,
             "health": 2260
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: All"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Summon - Mega Minion"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Mana - Mindless/Silence/Sleep",
+                    "Def - Dmg Taken ↑"
+                ]
+            }
+        ]
     },
     {
         "name": "Athos",
@@ -20581,7 +25955,21 @@ window.allHeroes =
             "defense": 922,
             "health": 2001
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Heal: Over Time",
+                    "Atk: Single"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Atk - Bypass / Ignore",
+                    "Atk - Destroy Minions",
+                    "Mana - Gain on Minion Destruction"
+                ]
+            }
+        ]
     },
     {
         "name": "Atomos",
@@ -20629,7 +26017,23 @@ window.allHeroes =
             "defense": 896,
             "health": 1648
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: All"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Dmg - Extra"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Heal - Self Revive"
+                ]
+            }
+        ]
     },
     {
         "name": "Atomos C1",
@@ -20677,7 +26081,23 @@ window.allHeroes =
             "defense": 1120,
             "health": 2142
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: All"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Dmg - Extra"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Heal - Self Revive"
+                ]
+            }
+        ]
     },
     {
         "name": "Atwood",
@@ -20732,7 +26152,25 @@ window.allHeroes =
             "defense": 1369,
             "health": 2440
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Area"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Status - Ailment Immunity",
+                    "Status - Dispel Buffs"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Status - Insanity",
+                    "Status - Self-Debuff"
+                ]
+            }
+        ]
     },
     {
         "name": "Augustus",
@@ -20786,7 +26224,29 @@ window.allHeroes =
             "defense": 1043,
             "health": 1869
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Heal: Boost Health",
+                    "Heal: Special"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Summon - Minion"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Def - Defense ↑"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Status - Cleanse Ailments"
+                ]
+            }
+        ]
     },
     {
         "name": "Balbar",
@@ -20842,7 +26302,19 @@ window.allHeroes =
             "defense": 932,
             "health": 1699
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Single"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Mana - Mindless/Silence/Sleep",
+                    "Def - Dmg Taken ↑"
+                ]
+            }
+        ]
     },
     {
         "name": "Bertila",
@@ -20891,7 +26363,18 @@ window.allHeroes =
             "defense": 955,
             "health": 1686
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: All"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Status - Redistribute Ailments"
+                ]
+            }
+        ]
     },
     {
         "name": "Bo & Runt",
@@ -20946,7 +26429,24 @@ window.allHeroes =
             "defense": 1145,
             "health": 2037
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Single"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Dmg - Extra",
+                    "Summon - Minion"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Atk - Attack ↑"
+                ]
+            }
+        ]
     },
     {
         "name": "Bonzo",
@@ -21003,7 +26503,24 @@ window.allHeroes =
             "defense": 1318,
             "health": 2382
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: All"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Atk - Bypass Minions",
+                    "Atk - Bypass / Ignore"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Def - Change Position"
+                ]
+            }
+        ]
     },
     {
         "name": "Boom & Fang",
@@ -21052,7 +26569,18 @@ window.allHeroes =
             "defense": 1183,
             "health": 2153
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "特殊效果": [
+                    "Summon - Mega Minion"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Def - Counterattack"
+                ]
+            }
+        ]
     },
     {
         "name": "Bramble",
@@ -21105,7 +26633,23 @@ window.allHeroes =
             "defense": 1457,
             "health": 2730
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Heal: Instant"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Mana - Mana Gain"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Status - Cleanse Ailments"
+                ]
+            }
+        ]
     },
     {
         "name": "Chikao",
@@ -21167,7 +26711,24 @@ window.allHeroes =
             "defense": 1407,
             "health": 2006
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Edges"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Status - Dispel Buffs"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Mana - Mindless/Silence/Sleep",
+                    "Def - Dmg Taken ↑"
+                ]
+            }
+        ]
     },
     {
         "name": "Chloris",
@@ -21219,7 +26780,19 @@ window.allHeroes =
             "defense": 1457,
             "health": 2131
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Heal: Boost Health",
+                    "Heal: Over Time"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Atk - Attack ↑"
+                ]
+            }
+        ]
     },
     {
         "name": "Cinisia",
@@ -21273,7 +26846,20 @@ window.allHeroes =
             "defense": 899,
             "health": 1653
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: All",
+                    "Dmg: DoT"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Heal - Healing ↓",
+                    "Dmg - DoT : Bleed"
+                ]
+            }
+        ]
     },
     {
         "name": "Congalach",
@@ -21322,7 +26908,18 @@ window.allHeroes =
             "defense": 965,
             "health": 1714
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Random"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Atk - Stack : Atk ↓"
+                ]
+            }
+        ]
     },
     {
         "name": "Congalach C1",
@@ -21372,7 +26969,18 @@ window.allHeroes =
             "defense": 1237,
             "health": 2354
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Random"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Atk - Stack : Atk ↓"
+                ]
+            }
+        ]
     },
     {
         "name": "Craum",
@@ -21428,7 +27036,23 @@ window.allHeroes =
             "defense": 1330,
             "health": 2260
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Dmg: DoT",
+                    "Heal: Boost Health",
+                    "Heal: Special"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Dmg - DoT : Water",
+                    "Dmg - DoT : Sand",
+                    "Dmg - DoT : Burn",
+                    "Dmg - DoT : Poison"
+                ]
+            }
+        ]
     },
     {
         "name": "Cristobal",
@@ -21484,7 +27108,19 @@ window.allHeroes =
             "defense": 937,
             "health": 1747
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Single",
+                    "Atk: All"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Dmg - Extra"
+                ]
+            }
+        ]
     },
     {
         "name": "Dagr",
@@ -21543,7 +27179,26 @@ window.allHeroes =
             "defense": 1424,
             "health": 2621
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: All",
+                    "Dmg: DoT"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Atk - Bypass Minions",
+                    "Dmg - Dmg ↑ : Nature"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Dmg - DoT : Poison",
+                    "Def - Dmg Taken ↑"
+                ]
+            }
+        ]
     },
     {
         "name": "Daroga",
@@ -21596,7 +27251,24 @@ window.allHeroes =
             "defense": 1310,
             "health": 2001
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Single",
+                    "Dmg: DoT"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Atk - Stack : Atk ↑"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Dmg - DoT : Bleed"
+                ]
+            }
+        ]
     },
     {
         "name": "Desmond",
@@ -21652,7 +27324,19 @@ window.allHeroes =
             "defense": 1201,
             "health": 2103
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Heal: Boost Health",
+                    "Atk: Edges"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Mana - Mindless/Silence/Sleep"
+                ]
+            }
+        ]
     },
     {
         "name": "Dodgrom",
@@ -21703,7 +27387,15 @@ window.allHeroes =
             "defense": 1460,
             "health": 2700
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "增益效果": [
+                    "Def - Counterattack",
+                    "Def - Dmg Reduction",
+                    "Def - Taunt"
+                ]
+            }
+        ]
     },
     {
         "name": "Ecgtheow",
@@ -21754,7 +27446,18 @@ window.allHeroes =
             "defense": 1404,
             "health": 2659
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: All"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Mana - Mana Cut"
+                ]
+            }
+        ]
     },
     {
         "name": "Edwin",
@@ -21805,7 +27508,23 @@ window.allHeroes =
             "defense": 1097,
             "health": 2087
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: All"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Atk - Bypass / Ignore"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Status - Block Cleanse"
+                ]
+            }
+        ]
     },
     {
         "name": "Eiora & Fluffy",
@@ -21854,7 +27573,23 @@ window.allHeroes =
             "defense": 927,
             "health": 1727
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Single"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Atk - Destroy Minions"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Heal - Max Health ↓"
+                ]
+            }
+        ]
     },
     {
         "name": "Ekanite",
@@ -21913,7 +27648,23 @@ window.allHeroes =
             "defense": 990,
             "health": 1927
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: All"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Summon - Minion"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Def - Counterattack"
+                ]
+            }
+        ]
     },
     {
         "name": "El Naddaha",
@@ -21963,7 +27714,18 @@ window.allHeroes =
             "defense": 982,
             "health": 1866
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Area"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Status - Buff Immunity"
+                ]
+            }
+        ]
     },
     {
         "name": "El Naddaha C1",
@@ -22016,7 +27778,18 @@ window.allHeroes =
             "defense": 1360,
             "health": 2632
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Area"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Status - Buff Immunity"
+                ]
+            }
+        ]
     },
     {
         "name": "Elkanen",
@@ -22062,7 +27835,18 @@ window.allHeroes =
             "defense": 967,
             "health": 1562
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Minor to Nearby"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Heal - From Dmg"
+                ]
+            }
+        ]
     },
     {
         "name": "Elkanen C1",
@@ -22109,7 +27893,18 @@ window.allHeroes =
             "defense": 1144,
             "health": 1735
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Area"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Heal - Steal Healing"
+                ]
+            }
+        ]
     },
     {
         "name": "Elkanen C2",
@@ -22155,7 +27950,18 @@ window.allHeroes =
             "defense": 1204,
             "health": 2242
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: All"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Heal - Healing ↓"
+                ]
+            }
+        ]
     },
     {
         "name": "Elkanen Toon",
@@ -22205,7 +28011,19 @@ window.allHeroes =
             "defense": 1334,
             "health": 2619
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Minor to Nearby"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Heal - From Dmg",
+                    "Dmg - Dmg ↑ : Ice"
+                ]
+            }
+        ]
     },
     {
         "name": "Elkanen Glass",
@@ -22255,7 +28073,19 @@ window.allHeroes =
             "defense": 1501,
             "health": 2751
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Minor to Nearby"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Heal - From Dmg",
+                    "Atk - Bypass / Ignore"
+                ]
+            }
+        ]
     },
     {
         "name": "Elradir",
@@ -22307,7 +28137,18 @@ window.allHeroes =
             "defense": 919,
             "health": 1668
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Area"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Def - Counterattack"
+                ]
+            }
+        ]
     },
     {
         "name": "Elyssa",
@@ -22365,7 +28206,18 @@ window.allHeroes =
             "defense": 1600,
             "health": 2689
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "特殊效果": [
+                    "Status - Replace with Buff"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Status - Block Ailments"
+                ]
+            }
+        ]
     },
     {
         "name": "Enigmo",
@@ -22419,7 +28271,21 @@ window.allHeroes =
             "defense": 1010,
             "health": 1859
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Heal: Instant",
+                    "Atk: All"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Summon - Fiend",
+                    "Summon - Minion",
+                    "Atk - Copy/Steal Skill"
+                ]
+            }
+        ]
     },
     {
         "name": "Evelyn",
@@ -22470,7 +28336,23 @@ window.allHeroes =
             "defense": 878,
             "health": 1671
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Area"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Status - Dispel Buffs"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Def - Def ↓ : Nature"
+                ]
+            }
+        ]
     },
     {
         "name": "Evelyn C1",
@@ -22524,7 +28406,23 @@ window.allHeroes =
             "defense": 1121,
             "health": 2360
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Area"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Status - Dispel Buffs"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Def - Def ↓ : Nature"
+                ]
+            }
+        ]
     },
     {
         "name": "Experience Mimic Nature",
@@ -22586,7 +28484,25 @@ window.allHeroes =
             "defense": 1524,
             "health": 2616
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Single"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Atk - Destroy Minions",
+                    "Mana - Mana Gain (on Kill)",
+                    "Heal - Self Recovery"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Def - Mimic"
+                ]
+            }
+        ]
     },
     {
         "name": "Fafnir",
@@ -22644,7 +28560,24 @@ window.allHeroes =
             "defense": 1447,
             "health": 2821
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Area"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Dmg - Dmg ↑ : Fire"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Status - Reflect Buffs",
+                    "Def - Dmg Taken ↑"
+                ]
+            }
+        ]
     },
     {
         "name": "Februus",
@@ -22699,7 +28632,25 @@ window.allHeroes =
             "defense": 1125,
             "health": 2313
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Heal: Over Time",
+                    "Dmg: DoT"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Summon - Destroy Fiends"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Dmg - DoT : Poison",
+                    "Status - Cleanse Ailments"
+                ]
+            }
+        ]
     },
     {
         "name": "Ferrus",
@@ -22754,7 +28705,20 @@ window.allHeroes =
             "defense": 1120,
             "health": 2219
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Area",
+                    "Dmg: DoT"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Dmg - DoT : Bleed",
+                    "Def - Def ↓ : Nature"
+                ]
+            }
+        ]
     },
     {
         "name": "Florenna",
@@ -22808,7 +28772,20 @@ window.allHeroes =
             "defense": 1399,
             "health": 2324
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Single",
+                    "Dmg: DoT"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Status - Block Cleanse",
+                    "Dmg - DoT : Poison"
+                ]
+            }
+        ]
     },
     {
         "name": "Foxley",
@@ -22860,7 +28837,20 @@ window.allHeroes =
             "defense": 1521,
             "health": 2329
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Area",
+                    "Dmg: DoT"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Mana - Paralyze",
+                    "Dmg - DoT : Bleed"
+                ]
+            }
+        ]
     },
     {
         "name": "Francine",
@@ -22910,7 +28900,23 @@ window.allHeroes =
             "defense": 916,
             "health": 1668
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Area"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Dmg - Dmg ↑ : Ice"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Status - Cleanse Ailments"
+                ]
+            }
+        ]
     },
     {
         "name": "Francine C1",
@@ -22960,7 +28966,19 @@ window.allHeroes =
             "defense": 1247,
             "health": 2211
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Area"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Def - Def ↓ : Nature",
+                    "Status - Cleanse Ailments"
+                ]
+            }
+        ]
     },
     {
         "name": "Frigg",
@@ -23008,7 +29026,23 @@ window.allHeroes =
             "defense": 937,
             "health": 1628
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: All"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Dmg - Extra"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Def - Defense ↓"
+                ]
+            }
+        ]
     },
     {
         "name": "Frigg C1",
@@ -23056,7 +29090,23 @@ window.allHeroes =
             "defense": 1192,
             "health": 2191
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: All"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Dmg - Extra"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Def - Defense ↓"
+                ]
+            }
+        ]
     },
     {
         "name": "Frog Prince",
@@ -23108,7 +29158,27 @@ window.allHeroes =
             "defense": 1170,
             "health": 1932
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: All",
+                    "Dmg: DoT"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Def - Dmg Share",
+                    "Mana - Mana Gain"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Dmg - DoT : Poison",
+                    "Mana - Mana Gen ↓/Block",
+                    "Status - Self-Debuff"
+                ]
+            }
+        ]
     },
     {
         "name": "Frond",
@@ -23159,7 +29229,18 @@ window.allHeroes =
             "defense": 1183,
             "health": 2141
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Area"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Dmg - Extra"
+                ]
+            }
+        ]
     },
     {
         "name": "Fungustine",
@@ -23215,7 +29296,24 @@ window.allHeroes =
             "defense": 1490,
             "health": 2451
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Heal: Boost Health"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Status - Steal Buffs"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Status - Block Buff Dispel",
+                    "Def - Defense ↑"
+                ]
+            }
+        ]
     },
     {
         "name": "Galapago",
@@ -23278,7 +29376,24 @@ window.allHeroes =
             "defense": 1181,
             "health": 2288
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: All"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Atk - Destroy Minions"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Def - Defense ↑",
+                    "Heal - Stack : Regen"
+                ]
+            }
+        ]
     },
     {
         "name": "Galapago C1",
@@ -23341,7 +29456,24 @@ window.allHeroes =
             "defense": 1168,
             "health": 2245
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: All"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Atk - Destroy Minions"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Def - Defense ↑",
+                    "Heal - Stack : Regen"
+                ]
+            }
+        ]
     },
     {
         "name": "Garjammal",
@@ -23389,7 +29521,18 @@ window.allHeroes =
             "defense": 955,
             "health": 1663
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Single"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Heal - Self Recovery"
+                ]
+            }
+        ]
     },
     {
         "name": "Garjammal C1",
@@ -23440,7 +29583,18 @@ window.allHeroes =
             "defense": 1254,
             "health": 2296
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Heal: Over Time"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Heal - Self Recovery"
+                ]
+            }
+        ]
     },
     {
         "name": "Garten",
@@ -23495,7 +29649,18 @@ window.allHeroes =
             "defense": 1336,
             "health": 2235
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Heal: Boost Health"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Heal - Max Health ↓"
+                ]
+            }
+        ]
     },
     {
         "name": "Gelert",
@@ -23558,7 +29723,28 @@ window.allHeroes =
             "defense": 1079,
             "health": 2197
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Single"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Dmg - Extra"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Mana - Mana Gen ↑"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Mana - Mana Steal"
+                ]
+            }
+        ]
     },
     {
         "name": "Gelert C1",
@@ -23622,7 +29808,28 @@ window.allHeroes =
             "defense": 1351,
             "health": 2791
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Single"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Dmg - Extra"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Mana - Mana Gen ↑"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Mana - Mana Steal"
+                ]
+            }
+        ]
     },
     {
         "name": "Ginger",
@@ -23671,7 +29878,19 @@ window.allHeroes =
             "defense": 1153,
             "health": 2006
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Random"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Summon - Minion",
+                    "Dmg - Extra"
+                ]
+            }
+        ]
     },
     {
         "name": "Godfrey",
@@ -23725,7 +29944,24 @@ window.allHeroes =
             "defense": 1572,
             "health": 2781
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Heal: Instant"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Summon - Mega Minion"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Status - Ailment Immunity",
+                    "Status - Dispel Buffs"
+                ]
+            }
+        ]
     },
     {
         "name": "Goorian",
@@ -23783,7 +30019,23 @@ window.allHeroes =
             "defense": 1534,
             "health": 2364
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: All"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Heal - Self Revive"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Def - Defense ↓"
+                ]
+            }
+        ]
     },
     {
         "name": "Grace",
@@ -23838,7 +30090,19 @@ window.allHeroes =
             "defense": 949,
             "health": 1800
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Area"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Status - Buff Immunity",
+                    "Def - Def ↓ : Special"
+                ]
+            }
+        ]
     },
     {
         "name": "Green Knight",
@@ -23887,7 +30151,28 @@ window.allHeroes =
             "defense": 1010,
             "health": 1765
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: All"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Dmg - Explosion"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Heal - Self Revive"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Def - Defense ↓"
+                ]
+            }
+        ]
     },
     {
         "name": "Gregorion",
@@ -23935,7 +30220,18 @@ window.allHeroes =
             "defense": 876,
             "health": 1666
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Single"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Atk - Crit Chance ↑"
+                ]
+            }
+        ]
     },
     {
         "name": "Gregorion C1",
@@ -23986,7 +30282,18 @@ window.allHeroes =
             "defense": 1108,
             "health": 2370
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Single"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Atk - Crit Chance ↑"
+                ]
+            }
+        ]
     },
     {
         "name": "Grendel",
@@ -24042,7 +30349,25 @@ window.allHeroes =
             "defense": 1473,
             "health": 2641
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Area",
+                    "Dmg: DoT"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Heal - Self Recovery"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Dmg - DoT : Bleed",
+                    "Def - Def ↓ : Nature"
+                ]
+            }
+        ]
     },
     {
         "name": "Grovevert",
@@ -24096,7 +30421,23 @@ window.allHeroes =
             "defense": 1549,
             "health": 2410
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "特殊效果": [
+                    "Summon - Mega Fiend"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Mana - Mana Gain"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Mana - Mana Gen ↓/Block"
+                ]
+            }
+        ]
     },
     {
         "name": "Guan Yu",
@@ -24145,7 +30486,23 @@ window.allHeroes =
             "defense": 955,
             "health": 1805
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Area"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Atk - Bypass Minions"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Def - Defense ↓"
+                ]
+            }
+        ]
     },
     {
         "name": "Guan Yu C1",
@@ -24199,7 +30556,23 @@ window.allHeroes =
             "defense": 1340,
             "health": 2422
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Area"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Atk - Bypass / Ignore"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Def - Defense ↓"
+                ]
+            }
+        ]
     },
     {
         "name": "Guardian Chameleon",
@@ -24251,7 +30624,21 @@ window.allHeroes =
             "defense": 962,
             "health": 1651
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "增益效果": [
+                    "Atk - Crit Chance ↑",
+                    "Atk - Attack ↑",
+                    "Status - Dispel Buffs"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Def - Change Position",
+                    "Status - Cleanse Ailments"
+                ]
+            }
+        ]
     },
     {
         "name": "Hammertusk",
@@ -24301,7 +30688,18 @@ window.allHeroes =
             "defense": 1089,
             "health": 2009
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Area"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Def - Dmg Taken ↑"
+                ]
+            }
+        ]
     },
     {
         "name": "Haulstone",
@@ -24366,7 +30764,26 @@ window.allHeroes =
             "defense": 1206,
             "health": 2301
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Heal: Over Time",
+                    "Heal: Special"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Atk - Gamble / Random",
+                    "Summon - Minion"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Atk - Attack ↑",
+                    "Def - Defense ↑"
+                ]
+            }
+        ]
     },
     {
         "name": "Heimdall",
@@ -24415,7 +30832,19 @@ window.allHeroes =
             "defense": 1041,
             "health": 1747
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Heal: Boost Health",
+                    "Heal: Revive"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Atk - Attack ↑"
+                ]
+            }
+        ]
     },
     {
         "name": "Heimdall C1",
@@ -24465,7 +30894,19 @@ window.allHeroes =
             "defense": 1355,
             "health": 2327
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Heal: Boost Health",
+                    "Heal: Revive"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Atk - Attack ↑"
+                ]
+            }
+        ]
     },
     {
         "name": "Horghall",
@@ -24511,7 +30952,18 @@ window.allHeroes =
             "defense": 802,
             "health": 1905
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: All"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Atk - Attack ↓"
+                ]
+            }
+        ]
     },
     {
         "name": "Horghall C1",
@@ -24557,7 +31009,18 @@ window.allHeroes =
             "defense": 920,
             "health": 2114
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: All"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Atk - Attack ↓"
+                ]
+            }
+        ]
     },
     {
         "name": "Horghall C2",
@@ -24609,7 +31072,21 @@ window.allHeroes =
             "defense": 1090,
             "health": 2639
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: All",
+                    "Dmg: DoT"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Atk - Attack ↓",
+                    "Def - Defense ↓",
+                    "Dmg - DoT : Poison"
+                ]
+            }
+        ]
     },
     {
         "name": "Horghall Toon",
@@ -24659,7 +31136,23 @@ window.allHeroes =
             "defense": 1345,
             "health": 3281
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: All"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Dmg - Dmg ↑ : Ice"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Atk - Attack ↓"
+                ]
+            }
+        ]
     },
     {
         "name": "Humbert",
@@ -24711,7 +31204,20 @@ window.allHeroes =
             "defense": 1369,
             "health": 2435
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: All",
+                    "Heal: From Dmg",
+                    "Heal: Boost Health"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Def - Defense ↑"
+                ]
+            }
+        ]
     },
     {
         "name": "Iku-Turso",
@@ -24763,7 +31269,20 @@ window.allHeroes =
             "defense": 975,
             "health": 1818
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Area",
+                    "Dmg: DoT"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Heal - Steal Healing",
+                    "Dmg - DoT : Water"
+                ]
+            }
+        ]
     },
     {
         "name": "Ito",
@@ -24828,7 +31347,20 @@ window.allHeroes =
             "defense": 1460,
             "health": 2286
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Variable Targets",
+                    "Heal: From Dmg",
+                    "Heal: Boost Health"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Mana - Mana Gen ↓/Block"
+                ]
+            }
+        ]
     },
     {
         "name": "Jade",
@@ -24887,7 +31419,23 @@ window.allHeroes =
             "defense": 1010,
             "health": 1783
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Variable Targets"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Mana - Mana Cut"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Def - Dodge"
+                ]
+            }
+        ]
     },
     {
         "name": "Kadilen",
@@ -24933,7 +31481,18 @@ window.allHeroes =
             "defense": 944,
             "health": 1536
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: All"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Def - Def ↑ : Special"
+                ]
+            }
+        ]
     },
     {
         "name": "Kadilen C1",
@@ -24981,7 +31540,23 @@ window.allHeroes =
             "defense": 1101,
             "health": 1770
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: All"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Summon - Minion"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Def - Dodge"
+                ]
+            }
+        ]
     },
     {
         "name": "Kadilen C2",
@@ -25029,7 +31604,23 @@ window.allHeroes =
             "defense": 1277,
             "health": 2278
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: All"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Summon - Minion"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Def - Dodge"
+                ]
+            }
+        ]
     },
     {
         "name": "Kadilen Toon",
@@ -25079,7 +31670,23 @@ window.allHeroes =
             "defense": 1325,
             "health": 2611
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: All"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Dmg - Dmg ↑ : Ice"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Def - Def ↑ : Special"
+                ]
+            }
+        ]
     },
     {
         "name": "Kai",
@@ -25136,7 +31743,28 @@ window.allHeroes =
             "defense": 1026,
             "health": 1935
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Single"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Summon - Fiend"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Status - Dispel Buffs"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Heal - Healing ↓"
+                ]
+            }
+        ]
     },
     {
         "name": "Kingston",
@@ -25186,7 +31814,18 @@ window.allHeroes =
             "defense": 906,
             "health": 1562
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Single"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Atk - Attack ↓"
+                ]
+            }
+        ]
     },
     {
         "name": "Kolya",
@@ -25242,7 +31881,29 @@ window.allHeroes =
             "defense": 1376,
             "health": 2524
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: All"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Summon - Mega Minion",
+                    "Dmg - Extra"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Status - Dispel Buffs"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Status - Cleanse Ailments"
+                ]
+            }
+        ]
     },
     {
         "name": "Lady Locke",
@@ -25288,7 +31949,19 @@ window.allHeroes =
             "defense": 820,
             "health": 1518
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Area",
+                    "Dmg: DoT"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Status - Cleanse Ailments"
+                ]
+            }
+        ]
     },
     {
         "name": "Lady Locke C1",
@@ -25339,7 +32012,19 @@ window.allHeroes =
             "defense": 1025,
             "health": 2125
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Minor to Nearby",
+                    "Dmg: DoT"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Status - Cleanse Ailments"
+                ]
+            }
+        ]
     },
     {
         "name": "Lady of the Lake",
@@ -25388,7 +32073,19 @@ window.allHeroes =
             "defense": 914,
             "health": 1617
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Heal: Instant"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Summon - Minion",
+                    "Mana - Mana Cut"
+                ]
+            }
+        ]
     },
     {
         "name": "Lady of the Lake C1",
@@ -25437,7 +32134,23 @@ window.allHeroes =
             "defense": 1155,
             "health": 2282
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Heal: Boost Health"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Summon - Minion"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Mana - Mana Gen ↓/Block"
+                ]
+            }
+        ]
     },
     {
         "name": "Leadria",
@@ -25488,7 +32201,20 @@ window.allHeroes =
             "defense": 1130,
             "health": 2001
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Heal: Boost Health"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Summon - Minion",
+                    "Dmg - Extra",
+                    "Heal - From Minions"
+                ]
+            }
+        ]
     },
     {
         "name": "Leafwhisk",
@@ -25540,7 +32266,19 @@ window.allHeroes =
             "defense": 1259,
             "health": 1953
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "特殊效果": [
+                    "Summon - Mega Minion"
+                ]
+            },
+            {
+                "增益效果": [
+                    "防御-成长：防御力↑",
+                    "Status - Block Buff Dispel"
+                ]
+            }
+        ]
     },
     {
         "name": "Leonie",
@@ -25598,7 +32336,19 @@ window.allHeroes =
             "defense": 1409,
             "health": 2613
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Area",
+                    "Dmg: DoT"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Dmg - DoT : Bleed"
+                ]
+            }
+        ]
     },
     {
         "name": "Lianna",
@@ -25641,7 +32391,13 @@ window.allHeroes =
             "defense": 886,
             "health": 1539
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Single"
+                ]
+            }
+        ]
     },
     {
         "name": "Lianna C1",
@@ -25687,7 +32443,18 @@ window.allHeroes =
             "defense": 989,
             "health": 1727
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Single"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Mana - Mana Gen ↓/Block"
+                ]
+            }
+        ]
     },
     {
         "name": "Lianna C2",
@@ -25733,7 +32500,18 @@ window.allHeroes =
             "defense": 1113,
             "health": 2175
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Single"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Mana - Mindless/Silence/Sleep"
+                ]
+            }
+        ]
     },
     {
         "name": "Lianna Toon",
@@ -25780,7 +32558,18 @@ window.allHeroes =
             "defense": 1368,
             "health": 2611
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Single"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Dmg - Dmg ↑ : Ice"
+                ]
+            }
+        ]
     },
     {
         "name": "Lianna Glass",
@@ -25828,7 +32617,18 @@ window.allHeroes =
             "defense": 1510,
             "health": 2702
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Single"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Atk - Bypass / Ignore"
+                ]
+            }
+        ]
     },
     {
         "name": "Limeboire",
@@ -25884,7 +32684,30 @@ window.allHeroes =
             "defense": 1526,
             "health": 2682
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Heal: Over Time",
+                    "Atk: All"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Status - Steal Buffs"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Mana - Mana Gain"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Mana - Mindless/Silence/Sleep",
+                    "Def - Dmg Taken ↑"
+                ]
+            }
+        ]
     },
     {
         "name": "Liu Bei",
@@ -25933,7 +32756,23 @@ window.allHeroes =
             "defense": 985,
             "health": 1788
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Area"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Summon - Minion"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Def - Counterattack"
+                ]
+            }
+        ]
     },
     {
         "name": "Liu Bei C1",
@@ -25987,7 +32826,23 @@ window.allHeroes =
             "defense": 1312,
             "health": 2537
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Area"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Summon - Minion"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Def - Counterattack"
+                ]
+            }
+        ]
     },
     {
         "name": "Lughaidh",
@@ -26045,7 +32900,19 @@ window.allHeroes =
             "defense": 1026,
             "health": 1767
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Heal: Over Time"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Def - Defense ↑",
+                    "Status - Hide/Ghost Form"
+                ]
+            }
+        ]
     },
     {
         "name": "Lughaidh C1",
@@ -26102,7 +32969,19 @@ window.allHeroes =
             "defense": 1355,
             "health": 2371
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Heal: Over Time"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Def - Defense ↑",
+                    "Status - Hide/Ghost Form"
+                ]
+            }
+        ]
     },
     {
         "name": "Ma'at",
@@ -26154,7 +33033,19 @@ window.allHeroes =
             "defense": 1031,
             "health": 1899
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: All"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Atk - Attack ↓",
+                    "Def - Defense ↓"
+                ]
+            }
+        ]
     },
     {
         "name": "Ma'at C1",
@@ -26208,7 +33099,19 @@ window.allHeroes =
             "defense": 1463,
             "health": 2705
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: All"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Atk - Attack ↓",
+                    "Def - Defense ↓"
+                ]
+            }
+        ]
     },
     {
         "name": "Maegwyn",
@@ -26261,7 +33164,20 @@ window.allHeroes =
             "defense": 1549,
             "health": 2413
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Heal: Instant",
+                    "Heal: Over Time",
+                    "Heal: Boost Health"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Def - Dmg Reduction"
+                ]
+            }
+        ]
     },
     {
         "name": "Margaret",
@@ -26311,7 +33227,19 @@ window.allHeroes =
             "defense": 800,
             "health": 1554
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Area"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Def - Dodge",
+                    "Mana - Mana Gain"
+                ]
+            }
+        ]
     },
     {
         "name": "Max",
@@ -26362,7 +33290,23 @@ window.allHeroes =
             "defense": 1069,
             "health": 1899
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Heal: Instant"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Summon - Minion"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Def - Dmg Reduction"
+                ]
+            }
+        ]
     },
     {
         "name": "Mazoga",
@@ -26414,7 +33358,23 @@ window.allHeroes =
             "defense": 1191,
             "health": 2207
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Area"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Dmg - Dmg ↑ : Ice"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Def - Defense ↓"
+                ]
+            }
+        ]
     },
     {
         "name": "Mena",
@@ -26467,7 +33427,19 @@ window.allHeroes =
             "defense": 1295,
             "health": 2159
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Minor to Nearby"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Mana - Mana Cut",
+                    "Atk - Extra Attack"
+                ]
+            }
+        ]
     },
     {
         "name": "Mistweaver",
@@ -26521,7 +33493,23 @@ window.allHeroes =
             "defense": 1087,
             "health": 1879
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Area"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Atk - Stack : Atk ↑"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Heal - Block Healing"
+                ]
+            }
+        ]
     },
     {
         "name": "Moonflower",
@@ -26571,7 +33559,18 @@ window.allHeroes =
             "defense": 1315,
             "health": 2113
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: All"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Mana - Mana Gen ↑"
+                ]
+            }
+        ]
     },
     {
         "name": "Morgan Le Fay",
@@ -26616,7 +33615,28 @@ window.allHeroes =
             "defense": 889,
             "health": 1656
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Dmg: DoT"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Heal - From Dmg"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Def - Def ↑ : Fire"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Dmg - DoT : Health Steal"
+                ]
+            }
+        ]
     },
     {
         "name": "Mother North",
@@ -26665,7 +33685,19 @@ window.allHeroes =
             "defense": 1010,
             "health": 1803
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Heal: Instant",
+                    "Heal: Revive"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Summon - Minion"
+                ]
+            }
+        ]
     },
     {
         "name": "Mother North C1",
@@ -26714,7 +33746,19 @@ window.allHeroes =
             "defense": 1381,
             "health": 2485
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Heal: Over Time",
+                    "Heal: Revive"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Summon - Minion"
+                ]
+            }
+        ]
     },
     {
         "name": "Mucktus",
@@ -26768,7 +33812,19 @@ window.allHeroes =
             "defense": 1409,
             "health": 2532
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: All"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Summon - Fiend",
+                    "Status - Steal Buffs"
+                ]
+            }
+        ]
     },
     {
         "name": "Myoin-ni",
@@ -26827,7 +33883,19 @@ window.allHeroes =
             "defense": 1102,
             "health": 1869
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Heal: Boost Health"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Mana - Mana Gen ↑",
+                    "Def - Defense ↑"
+                ]
+            }
+        ]
     },
     {
         "name": "Mystia",
@@ -26881,7 +33949,19 @@ window.allHeroes =
             "defense": 1348,
             "health": 2192
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "增益效果": [
+                    "Def - Reflect : Fire",
+                    "Def - Dmg Share"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Def - Defense ↓"
+                ]
+            }
+        ]
     },
     {
         "name": "Nogu",
@@ -26933,7 +34013,20 @@ window.allHeroes =
             "defense": 1231,
             "health": 2082
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Minor to Nearby",
+                    "Dmg: DoT"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Heal - Max Health ↓",
+                    "Dmg - DoT : Bleed"
+                ]
+            }
+        ]
     },
     {
         "name": "Ott",
@@ -26992,7 +34085,19 @@ window.allHeroes =
             "defense": 1463,
             "health": 2755
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Heal: Boost Health"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Status - Block Buff Dispel",
+                    "Def - Dmg Reduction"
+                ]
+            }
+        ]
     },
     {
         "name": "Penelope",
@@ -27044,7 +34149,24 @@ window.allHeroes =
             "defense": 1442,
             "health": 2702
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Heal: From Dmg",
+                    "Atk: All"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Def - Dodge"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Status - Insanity"
+                ]
+            }
+        ]
     },
     {
         "name": "Peregrine",
@@ -27098,7 +34220,19 @@ window.allHeroes =
             "defense": 1369,
             "health": 2684
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Area"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Def - Dodge",
+                    "Atk - Attack ↑"
+                ]
+            }
+        ]
     },
     {
         "name": "Peridot",
@@ -27159,7 +34293,20 @@ window.allHeroes =
             "defense": 911,
             "health": 1770
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Variable Targets",
+                    "Dmg: DoT"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Atk - Accuracy ↓",
+                    "Dmg - DoT : Poison"
+                ]
+            }
+        ]
     },
     {
         "name": "Phileas Fogg",
@@ -27210,7 +34357,23 @@ window.allHeroes =
             "defense": 896,
             "health": 1651
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Single"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Status - Dispel Buffs"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Def - Def ↓ : Nature"
+                ]
+            }
+        ]
     },
     {
         "name": "Phileas Fogg C1",
@@ -27264,7 +34427,23 @@ window.allHeroes =
             "defense": 1188,
             "health": 2242
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Single"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Status - Dispel Buffs"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Def - Def ↓ : Nature"
+                ]
+            }
+        ]
     },
     {
         "name": "Pip",
@@ -27318,7 +34497,25 @@ window.allHeroes =
             "defense": 1351,
             "health": 2428
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Single",
+                    "Dmg: DoT"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Atk - Extra Attack"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Dmg - DoT : Bleed",
+                    "Def - Dmg Taken ↑"
+                ]
+            }
+        ]
     },
     {
         "name": "Prince Siegfried",
@@ -27377,7 +34574,20 @@ window.allHeroes =
             "defense": 1198,
             "health": 2247
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "增益效果": [
+                    "Def - Counterattack",
+                    "Def - Dmg Reduction",
+                    "Heal - Self Revive"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Status - Buff Immunity"
+                ]
+            }
+        ]
     },
     {
         "name": "Qinglong",
@@ -27429,7 +34639,23 @@ window.allHeroes =
             "defense": 1176,
             "health": 2128
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: All"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Status - Steal Buffs"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Atk - Attack ↑"
+                ]
+            }
+        ]
     },
     {
         "name": "Queen Anne",
@@ -27483,7 +34709,20 @@ window.allHeroes =
             "defense": 1137,
             "health": 2067
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Heal: Over Time"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Def - Taunt",
+                    "Def - Defense ↑",
+                    "Mana - Mana Gen ↑"
+                ]
+            }
+        ]
     },
     {
         "name": "Quenell",
@@ -27532,7 +34771,19 @@ window.allHeroes =
             "defense": 937,
             "health": 1767
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Area"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Dmg - Extra",
+                    "Heal - Self Recovery"
+                ]
+            }
+        ]
     },
     {
         "name": "Quenell C1",
@@ -27585,7 +34836,19 @@ window.allHeroes =
             "defense": 1382,
             "health": 2607
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Area"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Dmg - Extra",
+                    "Heal - Self Recovery"
+                ]
+            }
+        ]
     },
     {
         "name": "Ratatoskr",
@@ -27633,7 +34896,18 @@ window.allHeroes =
             "defense": 914,
             "health": 1668
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Heal: Instant"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Atk - Tile : Attack"
+                ]
+            }
+        ]
     },
     {
         "name": "Ratatoskr C1",
@@ -27681,7 +34955,18 @@ window.allHeroes =
             "defense": 1072,
             "health": 2077
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Heal: Over Time"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Atk - Tile : Attack"
+                ]
+            }
+        ]
     },
     {
         "name": "Relius",
@@ -27732,7 +35017,19 @@ window.allHeroes =
             "defense": 1280,
             "health": 2090
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Heal: Instant",
+                    "Heal: Revive"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Def - Dmg Reduction"
+                ]
+            }
+        ]
     },
     {
         "name": "Rhineglow",
@@ -27785,7 +35082,23 @@ window.allHeroes =
             "defense": 1348,
             "health": 2534
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Heal: Over Time"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Dmg - Explosion"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Def - Taunt"
+                ]
+            }
+        ]
     },
     {
         "name": "Roz",
@@ -27838,7 +35151,13 @@ window.allHeroes =
             "defense": 1120,
             "health": 2311
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Variable Targets"
+                ]
+            }
+        ]
     },
     {
         "name": "Roz C1",
@@ -27891,7 +35210,13 @@ window.allHeroes =
             "defense": 1477,
             "health": 2951
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Variable Targets"
+                ]
+            }
+        ]
     },
     {
         "name": "Sadie",
@@ -27946,7 +35271,22 @@ window.allHeroes =
             "defense": 1376,
             "health": 2623
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Single"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Heal - Max Health ↓",
+                    "Mana - Mindless/Silence/Sleep",
+                    "Def - Def ↓ : Special",
+                    "Status - Block Cleanse",
+                    "Status - Self-Debuff"
+                ]
+            }
+        ]
     },
     {
         "name": "Sha Wujing",
@@ -27998,7 +35338,23 @@ window.allHeroes =
             "defense": 1148,
             "health": 1981
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Single"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Heal - From Dmg"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Def - Dodge"
+                ]
+            }
+        ]
     },
     {
         "name": "Silvaria",
@@ -28051,7 +35407,23 @@ window.allHeroes =
             "defense": 924,
             "health": 1757
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Single"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Summon - Minion"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Def - Defense ↓"
+                ]
+            }
+        ]
     },
     {
         "name": "Smarttongue",
@@ -28104,7 +35476,15 @@ window.allHeroes =
             "defense": 1170,
             "health": 2057
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "负面效果": [
+                    "Atk - Wither : Atk↓",
+                    "Heal - Max Health ↓",
+                    "Def - Def ↓ : Special"
+                ]
+            }
+        ]
     },
     {
         "name": "Snowball",
@@ -28158,7 +35538,23 @@ window.allHeroes =
             "defense": 1026,
             "health": 1871
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Area"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Summon - Fiend"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Def - Dmg Taken ↑"
+                ]
+            }
+        ]
     },
     {
         "name": "Spartoi",
@@ -28217,7 +35613,18 @@ window.allHeroes =
             "defense": 1313,
             "health": 2062
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: All"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Summon - Fiend"
+                ]
+            }
+        ]
     },
     {
         "name": "Spartoi C1",
@@ -28277,7 +35684,18 @@ window.allHeroes =
             "defense": 1748,
             "health": 2688
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: All"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Summon - Fiend"
+                ]
+            }
+        ]
     },
     {
         "name": "Spiff",
@@ -28329,7 +35747,23 @@ window.allHeroes =
             "defense": 1511,
             "health": 2219
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Single"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Atk - Bypass / Ignore"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Def - Dodge"
+                ]
+            }
+        ]
     },
     {
         "name": "Staintongue",
@@ -28382,7 +35816,20 @@ window.allHeroes =
             "defense": 1041,
             "health": 1899
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Area",
+                    "Dmg: DoT"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Atk - Accuracy ↓",
+                    "Dmg - DoT : Poison"
+                ]
+            }
+        ]
     },
     {
         "name": "Starlass",
@@ -28434,7 +35881,23 @@ window.allHeroes =
             "defense": 1437,
             "health": 2204
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Area"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Atk - Bypass Dodge"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Mana - Mindless/Silence/Sleep"
+                ]
+            }
+        ]
     },
     {
         "name": "Sune",
@@ -28490,7 +35953,25 @@ window.allHeroes =
             "defense": 1328,
             "health": 2687
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Single"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Mana - Mana Cut",
+                    "Atk - Extra Attack",
+                    "Dmg - Dmg ↑ : Ice"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Status - Dispel Buffs"
+                ]
+            }
+        ]
     },
     {
         "name": "Tametomo",
@@ -28550,7 +36031,20 @@ window.allHeroes =
             "defense": 1092,
             "health": 2354
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Variable Targets"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Dmg - Extra",
+                    "Atk - Bypass Dodge",
+                    "Atk - Extra Attack"
+                ]
+            }
+        ]
     },
     {
         "name": "Tarlak",
@@ -28596,7 +36090,18 @@ window.allHeroes =
             "defense": 822,
             "health": 1529
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Heal: Over Time"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Atk - Attack ↑"
+                ]
+            }
+        ]
     },
     {
         "name": "Tarlak C1",
@@ -28642,7 +36147,18 @@ window.allHeroes =
             "defense": 1270,
             "health": 2007
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Heal: Boost Health"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Atk - Attack ↑"
+                ]
+            }
+        ]
     },
     {
         "name": "Teddy",
@@ -28698,7 +36214,20 @@ window.allHeroes =
             "defense": 1229,
             "health": 2006
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Heal: Over Time",
+                    "Atk: All"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Mana - Mindless/Silence/Sleep",
+                    "Def - Dmg Taken ↑"
+                ]
+            }
+        ]
     },
     {
         "name": "Telluria",
@@ -28754,7 +36283,24 @@ window.allHeroes =
             "defense": 1026,
             "health": 1757
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Heal: Over Time",
+                    "Atk: All"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Summon - Minion"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Mana - Mana Gen ↓/Block"
+                ]
+            }
+        ]
     },
     {
         "name": "Telonius",
@@ -28815,7 +36361,25 @@ window.allHeroes =
             "defense": 1066,
             "health": 1884
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Heal: Instant",
+                    "Dmg: DoT"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Status - Ailment Immunity"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Dmg - DoT : Poison",
+                    "Def - Dmg Taken ↑"
+                ]
+            }
+        ]
     },
     {
         "name": "The Hatter",
@@ -28861,7 +36425,18 @@ window.allHeroes =
             "defense": 876,
             "health": 1653
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Minor to Nearby"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Status - Steal Buffs"
+                ]
+            }
+        ]
     },
     {
         "name": "The Hatter C1",
@@ -28912,7 +36487,19 @@ window.allHeroes =
             "defense": 1078,
             "health": 2289
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Minor to Nearby"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Status - Steal Buffs",
+                    "Summon - Minion"
+                ]
+            }
+        ]
     },
     {
         "name": "Theodosius",
@@ -28970,7 +36557,29 @@ window.allHeroes =
             "defense": 1427,
             "health": 2387
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: All"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Status - Reduce Ailment Duration",
+                    "Status - Reduce Buff Duration"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Def - Defense ↑"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Def - Defense ↓"
+                ]
+            }
+        ]
     },
     {
         "name": "Toxicandra",
@@ -29019,7 +36628,23 @@ window.allHeroes =
             "defense": 937,
             "health": 1689
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Heal: Instant"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Mana - Mana Gain"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Status - Cleanse Ailments"
+                ]
+            }
+        ]
     },
     {
         "name": "Toxicandra C1",
@@ -29071,7 +36696,23 @@ window.allHeroes =
             "defense": 1618,
             "health": 2637
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Heal: Boost Health"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Mana - Mana Gain"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Status - Cleanse Ailments"
+                ]
+            }
+        ]
     },
     {
         "name": "Vainamoinen",
@@ -29119,7 +36760,18 @@ window.allHeroes =
             "defense": 995,
             "health": 1826
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Area"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Atk - Accuracy ↓"
+                ]
+            }
+        ]
     },
     {
         "name": "Vainamoinen C1",
@@ -29167,7 +36819,18 @@ window.allHeroes =
             "defense": 1313,
             "health": 2434
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Area"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Atk - Accuracy ↓"
+                ]
+            }
+        ]
     },
     {
         "name": "Verdigoo",
@@ -29217,7 +36880,18 @@ window.allHeroes =
             "defense": 1389,
             "health": 3002
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Area"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Status - Steal Buffs"
+                ]
+            }
+        ]
     },
     {
         "name": "Verus",
@@ -29268,7 +36942,25 @@ window.allHeroes =
             "defense": 1290,
             "health": 2235
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: All",
+                    "Dmg: DoT"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Dmg - Dmg ↑ : Holy"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Atk - Accuracy ↓",
+                    "Dmg - DoT : Bleed"
+                ]
+            }
+        ]
     },
     {
         "name": "Viselus",
@@ -29322,7 +37014,24 @@ window.allHeroes =
             "defense": 1018,
             "health": 1879
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Area",
+                    "Dmg: DoT"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Atk - Destroy Minions"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Dmg - DoT : Poison"
+                ]
+            }
+        ]
     },
     {
         "name": "Winifred",
@@ -29376,7 +37085,24 @@ window.allHeroes =
             "defense": 1026,
             "health": 1950
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Single"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Atk - Chain"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Status - Buff Immunity",
+                    "Atk - Attack ↓"
+                ]
+            }
+        ]
     },
     {
         "name": "Xandrella",
@@ -29432,7 +37158,24 @@ window.allHeroes =
             "defense": 1054,
             "health": 2125
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Variable Targets"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Mana - Tile : Gen",
+                    "Dmg - Extra"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Mana - Mindless/Silence/Sleep"
+                ]
+            }
+        ]
     },
     {
         "name": "Xiamara",
@@ -29483,7 +37226,24 @@ window.allHeroes =
             "defense": 1153,
             "health": 2009
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: All"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Dmg - Extra",
+                    "Dmg - Explosion"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Mana - Mana Gen ↓/Block"
+                ]
+            }
+        ]
     },
     {
         "name": "Xiaoqing",
@@ -29535,7 +37295,23 @@ window.allHeroes =
             "defense": 1457,
             "health": 2705
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Heal: Instant"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Status - Redistribute Ailments"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Status - Reflect Ailments"
+                ]
+            }
+        ]
     },
     {
         "name": "Yunan",
@@ -29587,7 +37363,21 @@ window.allHeroes =
             "defense": 1005,
             "health": 1772
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: All",
+                    "Dmg: DoT"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Heal - Block Healing",
+                    "Dmg - DoT : Sand",
+                    "Status - Cleanse Ailments"
+                ]
+            }
+        ]
     },
     {
         "name": "Yunan C1",
@@ -29639,7 +37429,25 @@ window.allHeroes =
             "defense": 1225,
             "health": 2277
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: All",
+                    "Dmg: DoT"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Mana - Mana Gen ↑"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Dmg - DoT : Sand",
+                    "Status - Cleanse Ailments"
+                ]
+            }
+        ]
     },
     {
         "name": "Zavinia",
@@ -29692,7 +37500,20 @@ window.allHeroes =
             "defense": 1341,
             "health": 2354
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Single",
+                    "Atk: Variable Targets"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Status - Insanity",
+                    "Status - Self-Debuff"
+                ]
+            }
+        ]
     },
     {
         "name": "Zeline",
@@ -29745,7 +37566,28 @@ window.allHeroes =
             "defense": 848,
             "health": 1612
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: All"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Dmg - Dmg ↑ : Ice"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Status - Dispel Buffs"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Atk - Attack ↓"
+                ]
+            }
+        ]
     },
     {
         "name": "Zeline C1",
@@ -29801,7 +37643,28 @@ window.allHeroes =
             "defense": 1104,
             "health": 2353
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: All"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Dmg - Dmg ↑ : Ice"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Status - Dispel Buffs"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Atk - Attack ↓"
+                ]
+            }
+        ]
     },
     {
         "name": "Zocc",
@@ -29852,7 +37715,18 @@ window.allHeroes =
             "defense": 894,
             "health": 1666
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Single"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Mana - Mindless/Silence/Sleep"
+                ]
+            }
+        ]
     },
     {
         "name": "Zuni",
@@ -29910,7 +37784,20 @@ window.allHeroes =
             "defense": 1127,
             "health": 2026
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Single",
+                    "Atk: Variable Targets"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Atk - Attack ↓",
+                    "Def - Defense ↓"
+                ]
+            }
+        ]
     },
     {
         "name": "Fletcher",
@@ -30111,7 +37998,18 @@ window.allHeroes =
             "defense": 696,
             "health": 1182
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Heal: Instant"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Heal - Healing ↓"
+                ]
+            }
+        ]
     },
     {
         "name": "An-Windr",
@@ -30154,7 +38052,18 @@ window.allHeroes =
             "defense": 705,
             "health": 1109
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "特殊效果": [
+                    "Dmg - Explosion"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Atk - Attack ↑"
+                ]
+            }
+        ]
     },
     {
         "name": "Aqeela",
@@ -30204,7 +38113,19 @@ window.allHeroes =
             "defense": 698,
             "health": 1219
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Area"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Def - Dodge",
+                    "Def - Stack : Def ↑"
+                ]
+            }
+        ]
     },
     {
         "name": "Aqeela C1",
@@ -30256,7 +38177,19 @@ window.allHeroes =
             "defense": 684,
             "health": 1267
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Area"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Def - Dodge",
+                    "Def - Stack : Def ↑"
+                ]
+            }
+        ]
     },
     {
         "name": "Balthazar",
@@ -30299,7 +38232,13 @@ window.allHeroes =
             "defense": 591,
             "health": 907
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Single"
+                ]
+            }
+        ]
     },
     {
         "name": "Balthazar C1",
@@ -30345,7 +38284,19 @@ window.allHeroes =
             "defense": 608,
             "health": 1006
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Single",
+                    "Dmg: DoT"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Dmg - DoT : Poison"
+                ]
+            }
+        ]
     },
     {
         "name": "Balthazar Toon",
@@ -30392,7 +38343,18 @@ window.allHeroes =
             "defense": 665,
             "health": 1112
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Single"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Dmg - Dmg ↑ : Holy"
+                ]
+            }
+        ]
     },
     {
         "name": "Balthazar Glass",
@@ -30440,7 +38402,18 @@ window.allHeroes =
             "defense": 665,
             "health": 1101
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Single"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Atk - Bypass / Ignore"
+                ]
+            }
+        ]
     },
     {
         "name": "Betty",
@@ -30489,7 +38462,18 @@ window.allHeroes =
             "defense": 669,
             "health": 1097
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Area"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Def - Dmg Reduction"
+                ]
+            }
+        ]
     },
     {
         "name": "Bjorn",
@@ -30536,7 +38520,19 @@ window.allHeroes =
             "defense": 610,
             "health": 1158
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Single"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Atk - Extra Attack",
+                    "Dmg - Dmg ↑ : Holy"
+                ]
+            }
+        ]
     },
     {
         "name": "Bjorn C1",
@@ -30585,7 +38581,24 @@ window.allHeroes =
             "defense": 638,
             "health": 1230
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Single"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Atk - Extra Attack",
+                    "Dmg - Dmg ↑ : Holy"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Mana - Mana Gen ↓/Block"
+                ]
+            }
+        ]
     },
     {
         "name": "Budatin",
@@ -30633,7 +38646,13 @@ window.allHeroes =
             "defense": 703,
             "health": 1022
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "特殊效果": [
+                    "Mana - Tile : Gen"
+                ]
+            }
+        ]
     },
     {
         "name": "Chochin",
@@ -30679,7 +38698,18 @@ window.allHeroes =
             "defense": 718,
             "health": 958
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Area"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Mana - Mana Gen ↓/Block"
+                ]
+            }
+        ]
     },
     {
         "name": "Edd",
@@ -30724,7 +38754,19 @@ window.allHeroes =
             "defense": 630,
             "health": 1012
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Single",
+                    "Atk: Variable Targets"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Status - Buff Immunity"
+                ]
+            }
+        ]
     },
     {
         "name": "Gill-Ra",
@@ -30773,7 +38815,15 @@ window.allHeroes =
             "defense": 635,
             "health": 1046
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "负面效果": [
+                    "Atk - Attack ↓",
+                    "Def - Defense ↓",
+                    "Status - Cleanse Ailments"
+                ]
+            }
+        ]
     },
     {
         "name": "Gill-Ra C1",
@@ -30822,7 +38872,19 @@ window.allHeroes =
             "defense": 619,
             "health": 1074
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "增益效果": [
+                    "Atk - Attack ↑",
+                    "Status - Dispel Buffs"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Def - Defense ↓"
+                ]
+            }
+        ]
     },
     {
         "name": "Greel",
@@ -30874,7 +38936,19 @@ window.allHeroes =
             "defense": 669,
             "health": 1046
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: All"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Dmg - Extra",
+                    "Mana - Mana Gain (on Kill)"
+                ]
+            }
+        ]
     },
     {
         "name": "Guardian Bat",
@@ -30919,7 +38993,18 @@ window.allHeroes =
             "defense": 586,
             "health": 1207
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Minor to Nearby"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Dmg - Extra"
+                ]
+            }
+        ]
     },
     {
         "name": "Jack",
@@ -30967,7 +39052,18 @@ window.allHeroes =
             "defense": 630,
             "health": 1053
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Single"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Dmg - Explosion"
+                ]
+            }
+        ]
     },
     {
         "name": "Maeve",
@@ -31022,7 +39118,24 @@ window.allHeroes =
             "defense": 713,
             "health": 1112
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Area"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Mana - Stack : Mana Gen ↑",
+                    "Heal - Stack : Regen"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Def - Defense ↓"
+                ]
+            }
+        ]
     },
     {
         "name": "Morganite",
@@ -31076,7 +39189,20 @@ window.allHeroes =
             "defense": 674,
             "health": 983
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: All",
+                    "Dmg: DoT"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Atk - Accuracy ↓",
+                    "Dmg - DoT : Poison"
+                ]
+            }
+        ]
     },
     {
         "name": "Morris",
@@ -31133,7 +39259,24 @@ window.allHeroes =
             "defense": 676,
             "health": 1010
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Random"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Status - Hide/Ghost Form"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Mana - Mana Gen ↓/Block",
+                    "Status - Cleanse Ailments"
+                ]
+            }
+        ]
     },
     {
         "name": "Morris C1",
@@ -31190,7 +39333,24 @@ window.allHeroes =
             "defense": 717,
             "health": 1080
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Random"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Status - Hide/Ghost Form"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Mana - Mana Gen ↓/Block",
+                    "Status - Cleanse Ailments"
+                ]
+            }
+        ]
     },
     {
         "name": "Oberon",
@@ -31236,7 +39396,19 @@ window.allHeroes =
             "defense": 576,
             "health": 1175
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: All",
+                    "Dmg: DoT"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Dmg - DoT : Poison"
+                ]
+            }
+        ]
     },
     {
         "name": "Oberon C1",
@@ -31279,7 +39451,18 @@ window.allHeroes =
             "defense": 661,
             "health": 1320
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Dmg: DoT"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Dmg - DoT : Poison"
+                ]
+            }
+        ]
     },
     {
         "name": "Oberon Toon",
@@ -31329,7 +39512,24 @@ window.allHeroes =
             "defense": 654,
             "health": 1340
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: All",
+                    "Dmg: DoT"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Dmg - Dmg ↑ : Holy"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Dmg - DoT : Poison"
+                ]
+            }
+        ]
     },
     {
         "name": "Para",
@@ -31377,7 +39577,18 @@ window.allHeroes =
             "defense": 669,
             "health": 1238
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Heal: Instant"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Atk - Attack ↓"
+                ]
+            }
+        ]
     },
     {
         "name": "Prisca",
@@ -31423,7 +39634,18 @@ window.allHeroes =
             "defense": 649,
             "health": 1066
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Single"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Heal - From Dmg"
+                ]
+            }
+        ]
     },
     {
         "name": "Prisca C1",
@@ -31469,7 +39691,18 @@ window.allHeroes =
             "defense": 666,
             "health": 1315
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Minor to Nearby"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Heal - From Dmg"
+                ]
+            }
+        ]
     },
     {
         "name": "Prisca Toon",
@@ -31519,7 +39752,19 @@ window.allHeroes =
             "defense": 746,
             "health": 1299
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Single"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Heal - From Dmg",
+                    "Dmg - Dmg ↑ : Holy"
+                ]
+            }
+        ]
     },
     {
         "name": "Prisca Glass",
@@ -31570,7 +39815,19 @@ window.allHeroes =
             "defense": 739,
             "health": 1302
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Single"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Heal - From Dmg",
+                    "Atk - Bypass / Ignore"
+                ]
+            }
+        ]
     },
     {
         "name": "Renfeld",
@@ -31616,7 +39873,18 @@ window.allHeroes =
             "defense": 557,
             "health": 980
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Single"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Heal - From Dmg"
+                ]
+            }
+        ]
     },
     {
         "name": "Renfeld C1",
@@ -31663,7 +39931,18 @@ window.allHeroes =
             "defense": 650,
             "health": 1277
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Single"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Mana - Mana Steal"
+                ]
+            }
+        ]
     },
     {
         "name": "Renfeld Toon",
@@ -31713,7 +39992,19 @@ window.allHeroes =
             "defense": 685,
             "health": 1387
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Single"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Heal - From Dmg",
+                    "Dmg - Dmg ↑ : Holy"
+                ]
+            }
+        ]
     },
     {
         "name": "Treevil",
@@ -31765,7 +40056,20 @@ window.allHeroes =
             "defense": 713,
             "health": 1219
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: All"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Mana - Mana Gen ↓/Block",
+                    "Atk - Attack ↓",
+                    "Def - Defense ↓"
+                ]
+            }
+        ]
     },
     {
         "name": "Tyrum",
@@ -31811,7 +40115,18 @@ window.allHeroes =
             "defense": 591,
             "health": 1231
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Single"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Status - Dispel Buffs"
+                ]
+            }
+        ]
     },
     {
         "name": "Tyrum C1",
@@ -31857,7 +40172,18 @@ window.allHeroes =
             "defense": 637,
             "health": 1320
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Single"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Status - Cleanse Ailments"
+                ]
+            }
+        ]
     },
     {
         "name": "Tyrum Toon",
@@ -31907,7 +40233,23 @@ window.allHeroes =
             "defense": 652,
             "health": 1418
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Single"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Dmg - Dmg ↑ : Holy"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Status - Dispel Buffs"
+                ]
+            }
+        ]
     },
     {
         "name": "Unferth",
@@ -31960,7 +40302,23 @@ window.allHeroes =
             "defense": 730,
             "health": 1063
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Single"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Dmg - Extra"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Def - Def ↓ : Special"
+                ]
+            }
+        ]
     },
     {
         "name": "Vlad",
@@ -32009,7 +40367,18 @@ window.allHeroes =
             "defense": 681,
             "health": 1197
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Dmg: DoT"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Heal - Steal Healing"
+                ]
+            }
+        ]
     },
     {
         "name": "Ahhotep",
@@ -32058,7 +40427,18 @@ window.allHeroes =
             "defense": 829,
             "health": 1552
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Minor to Nearby"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Mana - Mana Gain (on Kill)"
+                ]
+            }
+        ]
     },
     {
         "name": "Ahhotep C1",
@@ -32109,7 +40489,18 @@ window.allHeroes =
             "defense": 889,
             "health": 1670
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Minor to Nearby"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Mana - Mana Gain (on Kill)"
+                ]
+            }
+        ]
     },
     {
         "name": "Ameonna",
@@ -32157,7 +40548,14 @@ window.allHeroes =
             "defense": 663,
             "health": 1327
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "增益效果": [
+                    "Atk - Attack ↑",
+                    "Status - Hide/Ghost Form"
+                ]
+            }
+        ]
     },
     {
         "name": "Ameonna C1",
@@ -32210,7 +40608,19 @@ window.allHeroes =
             "defense": 820,
             "health": 1435
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Heal: Over Time"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Status - Hide/Ghost Form",
+                    "Def - Defense ↑"
+                ]
+            }
+        ]
     },
     {
         "name": "Ametrine",
@@ -32266,7 +40676,18 @@ window.allHeroes =
             "defense": 706,
             "health": 1598
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Variable Targets"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Status - Dispel Buffs"
+                ]
+            }
+        ]
     },
     {
         "name": "Ana-Belle",
@@ -32319,7 +40740,24 @@ window.allHeroes =
             "defense": 878,
             "health": 1659
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Heal: Instant",
+                    "Heal: Special"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Status - Dispel Buffs"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Status - Cleanse Ailments"
+                ]
+            }
+        ]
     },
     {
         "name": "Arges",
@@ -32377,7 +40815,23 @@ window.allHeroes =
             "defense": 803,
             "health": 1710
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Area"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Atk - Attack ↑"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Def - Defense ↓"
+                ]
+            }
+        ]
     },
     {
         "name": "Boomer",
@@ -32422,7 +40876,18 @@ window.allHeroes =
             "defense": 835,
             "health": 1667
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: All"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Def - Def ↑ : Holy"
+                ]
+            }
+        ]
     },
     {
         "name": "Cheshire Cat",
@@ -32470,7 +40935,20 @@ window.allHeroes =
             "defense": 808,
             "health": 1392
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Dmg: DoT"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Dmg - DoT : Poison",
+                    "Def - Change Position",
+                    "Def - Def ↓ : Holy"
+                ]
+            }
+        ]
     },
     {
         "name": "Cheshire Cat C1",
@@ -32518,7 +40996,20 @@ window.allHeroes =
             "defense": 811,
             "health": 1412
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Dmg: DoT"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Dmg - DoT : Bleed",
+                    "Def - Change Position",
+                    "Def - Def ↓ : Holy"
+                ]
+            }
+        ]
     },
     {
         "name": "Cupcake",
@@ -32569,7 +41060,23 @@ window.allHeroes =
             "defense": 781,
             "health": 1659
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Single"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Atk - Steal Minions"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Status - Block Minions"
+                ]
+            }
+        ]
     },
     {
         "name": "Cyprian",
@@ -32612,7 +41119,13 @@ window.allHeroes =
             "defense": 762,
             "health": 1715
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "增益效果": [
+                    "Def - Counterattack"
+                ]
+            }
+        ]
     },
     {
         "name": "Cyprian C1",
@@ -32655,7 +41168,13 @@ window.allHeroes =
             "defense": 895,
             "health": 1857
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "增益效果": [
+                    "Def - Counterattack"
+                ]
+            }
+        ]
     },
     {
         "name": "Cyprian C2",
@@ -32704,7 +41223,15 @@ window.allHeroes =
             "defense": 923,
             "health": 1933
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "增益效果": [
+                    "Def - Counterattack",
+                    "Def - Dmg Reduction",
+                    "Mana - Mana Gain"
+                ]
+            }
+        ]
     },
     {
         "name": "Cyprian Toon",
@@ -32749,7 +41276,13 @@ window.allHeroes =
             "defense": 885,
             "health": 2125
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "增益效果": [
+                    "Def - Counterattack"
+                ]
+            }
+        ]
     },
     {
         "name": "Cyprian Glass",
@@ -32796,7 +41329,14 @@ window.allHeroes =
             "defense": 906,
             "health": 2167
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "增益效果": [
+                    "Def - Counterattack",
+                    "Status - Reflect Ailments"
+                ]
+            }
+        ]
     },
     {
         "name": "Dizzy",
@@ -32846,7 +41386,23 @@ window.allHeroes =
             "defense": 861,
             "health": 1574
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Area"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Summon - Minion"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Def - Reflect : Holy"
+                ]
+            }
+        ]
     },
     {
         "name": "Foxglove",
@@ -32898,7 +41454,20 @@ window.allHeroes =
             "defense": 883,
             "health": 1726
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Area",
+                    "Dmg: DoT"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Mana - Mana Gen ↓/Block",
+                    "Dmg - DoT : Poison"
+                ]
+            }
+        ]
     },
     {
         "name": "Fura",
@@ -32947,7 +41516,19 @@ window.allHeroes =
             "defense": 792,
             "health": 1365
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: All"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Heal - Max Health ↓",
+                    "Heal - Healing ↓"
+                ]
+            }
+        ]
     },
     {
         "name": "Fura C1",
@@ -32994,7 +41575,23 @@ window.allHeroes =
             "defense": 787,
             "health": 1435
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Area"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Mana - Mana Cut"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Heal - Healing ↓"
+                ]
+            }
+        ]
     },
     {
         "name": "Gafar",
@@ -33046,7 +41643,21 @@ window.allHeroes =
             "defense": 797,
             "health": 1244
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Single",
+                    "Dmg: DoT"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Heal - Block Healing",
+                    "Dmg - DoT : Sand",
+                    "Status - Cleanse Ailments"
+                ]
+            }
+        ]
     },
     {
         "name": "Heifeng Guai",
@@ -33094,7 +41705,23 @@ window.allHeroes =
             "defense": 787,
             "health": 1737
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Single"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Status - Reset Ailment Duration"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Def - Defense ↓"
+                ]
+            }
+        ]
     },
     {
         "name": "Ingolf",
@@ -33145,7 +41772,25 @@ window.allHeroes =
             "defense": 861,
             "health": 1598
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: All",
+                    "Dmg: DoT"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Status - Reduce Buff Duration"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Dmg - DoT : Poison",
+                    "Mana - Mana Gen ↓/Block"
+                ]
+            }
+        ]
     },
     {
         "name": "Jabbar",
@@ -33197,7 +41842,21 @@ window.allHeroes =
             "defense": 870,
             "health": 1667
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Minor to Nearby",
+                    "Dmg: DoT"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Heal - Healing ↓",
+                    "Dmg - DoT : Sand",
+                    "Status - Cleanse Ailments"
+                ]
+            }
+        ]
     },
     {
         "name": "Juliani",
@@ -33248,7 +41907,26 @@ window.allHeroes =
             "defense": 870,
             "health": 1619
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Area",
+                    "Heal: From Dmg",
+                    "Dmg: DoT"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Atk - Bypass Dodge",
+                    "Dmg - Dmg ↑ : Holy"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Dmg - DoT : Poison"
+                ]
+            }
+        ]
     },
     {
         "name": "Kitty",
@@ -33300,7 +41978,19 @@ window.allHeroes =
             "defense": 835,
             "health": 1715
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Heal: Over Time"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Status - Reflect Ailments",
+                    "Def - Defense ↑"
+                ]
+            }
+        ]
     },
     {
         "name": "Koda",
@@ -33349,7 +42039,18 @@ window.allHeroes =
             "defense": 795,
             "health": 1603
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Single"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Def - Defense ↓"
+                ]
+            }
+        ]
     },
     {
         "name": "Lexi",
@@ -33406,7 +42107,19 @@ window.allHeroes =
             "defense": 899,
             "health": 1536
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "增益效果": [
+                    "Def - Dmg Share",
+                    "Def - Def ↑ : Holy"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Def - Def ↓ : Dark"
+                ]
+            }
+        ]
     },
     {
         "name": "Meadow",
@@ -33455,7 +42168,19 @@ window.allHeroes =
             "defense": 779,
             "health": 1606
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Single",
+                    "Dmg: DoT"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Dmg - DoT : Poison"
+                ]
+            }
+        ]
     },
     {
         "name": "Merlin",
@@ -33503,7 +42228,23 @@ window.allHeroes =
             "defense": 832,
             "health": 1228
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Single"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Dmg - Extra"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Mana - Mindless/Silence/Sleep"
+                ]
+            }
+        ]
     },
     {
         "name": "Merlin C1",
@@ -33551,7 +42292,23 @@ window.allHeroes =
             "defense": 873,
             "health": 1538
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Area"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Dmg - Extra"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Mana - Mindless/Silence/Sleep"
+                ]
+            }
+        ]
     },
     {
         "name": "Proteus",
@@ -33597,7 +42354,19 @@ window.allHeroes =
             "defense": 749,
             "health": 1359
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Dmg: DoT"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Mana - Mana Gen ↓/Block",
+                    "Dmg - DoT : Poison"
+                ]
+            }
+        ]
     },
     {
         "name": "Proteus C1",
@@ -33643,7 +42412,19 @@ window.allHeroes =
             "defense": 699,
             "health": 1443
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Dmg: DoT"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Mana - Mana Gen ↓/Block",
+                    "Dmg - DoT : Poison"
+                ]
+            }
+        ]
     },
     {
         "name": "Rigard",
@@ -33689,7 +42470,18 @@ window.allHeroes =
             "defense": 848,
             "health": 1469
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Heal: Instant"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Status - Cleanse Ailments"
+                ]
+            }
+        ]
     },
     {
         "name": "Rigard C1",
@@ -33738,7 +42530,23 @@ window.allHeroes =
             "defense": 902,
             "health": 1616
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Heal: Over Time"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Atk - Attack ↑"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Status - Cleanse Ailments"
+                ]
+            }
+        ]
     },
     {
         "name": "Rigard C2",
@@ -33787,7 +42595,23 @@ window.allHeroes =
             "defense": 1018,
             "health": 1570
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Heal: Boost Health"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Def - Defense ↑"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Status - Cleanse Ailments"
+                ]
+            }
+        ]
     },
     {
         "name": "Rigard Toon",
@@ -33838,7 +42662,23 @@ window.allHeroes =
             "defense": 920,
             "health": 1606
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Heal: Instant"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Def - Defense ↑"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Status - Cleanse Ailments"
+                ]
+            }
+        ]
     },
     {
         "name": "Rigard Glass",
@@ -33889,7 +42729,23 @@ window.allHeroes =
             "defense": 811,
             "health": 1546
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Heal: Instant"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Status - Reflect Ailments"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Status - Cleanse Ailments"
+                ]
+            }
+        ]
     },
     {
         "name": "Sabina",
@@ -33935,7 +42791,18 @@ window.allHeroes =
             "defense": 728,
             "health": 1335
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Heal: Instant"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Status - Dispel Buffs"
+                ]
+            }
+        ]
     },
     {
         "name": "Sabina C1",
@@ -33984,7 +42851,23 @@ window.allHeroes =
             "defense": 823,
             "health": 1366
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Heal: Over Time"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Status - Dispel Buffs"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Status - Buff Immunity"
+                ]
+            }
+        ]
     },
     {
         "name": "Sabina C2",
@@ -34033,7 +42916,23 @@ window.allHeroes =
             "defense": 1024,
             "health": 1441
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Heal: Over Time"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Status - Ailment Immunity"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Status - Cleanse Ailments"
+                ]
+            }
+        ]
     },
     {
         "name": "Sabina Toon",
@@ -34084,7 +42983,24 @@ window.allHeroes =
             "defense": 979,
             "health": 1429
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Heal: Instant"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Def - Defense ↑",
+                    "Status - Dispel Buffs"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Status - Cleanse Ailments"
+                ]
+            }
+        ]
     },
     {
         "name": "Sergei",
@@ -34137,7 +43053,18 @@ window.allHeroes =
             "defense": 781,
             "health": 1702
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "增益效果": [
+                    "Atk - Attack ↑"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Def - Def ↓ : Dark"
+                ]
+            }
+        ]
     },
     {
         "name": "Shar'Khai",
@@ -34192,7 +43119,14 @@ window.allHeroes =
             "defense": 888,
             "health": 1611
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "增益效果": [
+                    "Atk - Crit Chance ↑",
+                    "Atk - Attack ↑"
+                ]
+            }
+        ]
     },
     {
         "name": "Shar'Khai C1",
@@ -34248,7 +43182,14 @@ window.allHeroes =
             "defense": 824,
             "health": 1620
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "增益效果": [
+                    "Atk - Crit Chance ↑",
+                    "Atk - Attack ↑"
+                ]
+            }
+        ]
     },
     {
         "name": "Shoggo",
@@ -34298,7 +43239,20 @@ window.allHeroes =
             "defense": 883,
             "health": 1638
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: All"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Status - Buff Immunity",
+                    "Status - Insanity",
+                    "Status - Self-Debuff"
+                ]
+            }
+        ]
     },
     {
         "name": "Shyombre",
@@ -34349,7 +43303,19 @@ window.allHeroes =
             "defense": 883,
             "health": 1485
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Edges",
+                    "Dmg: DoT"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Dmg - DoT : Poison"
+                ]
+            }
+        ]
     },
     {
         "name": "Stonecleave",
@@ -34400,7 +43366,18 @@ window.allHeroes =
             "defense": 784,
             "health": 1330
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Random"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Status - Hide/Ghost Form"
+                ]
+            }
+        ]
     },
     {
         "name": "Tiburtus",
@@ -34446,7 +43423,18 @@ window.allHeroes =
             "defense": 797,
             "health": 1317
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Minor to Nearby"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Def - Defense ↓"
+                ]
+            }
+        ]
     },
     {
         "name": "Tiburtus C1",
@@ -34492,7 +43480,18 @@ window.allHeroes =
             "defense": 867,
             "health": 1449
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: All"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Def - Defense ↓"
+                ]
+            }
+        ]
     },
     {
         "name": "Tiburtus C2",
@@ -34538,7 +43537,18 @@ window.allHeroes =
             "defense": 956,
             "health": 1592
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Minor to Nearby"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Heal - Max Health ↓"
+                ]
+            }
+        ]
     },
     {
         "name": "Tiburtus Toon",
@@ -34588,7 +43598,23 @@ window.allHeroes =
             "defense": 998,
             "health": 1540
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Minor to Nearby"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Dmg - Dmg ↑ : Holy"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Def - Defense ↓"
+                ]
+            }
+        ]
     },
     {
         "name": "Acidfire",
@@ -34642,7 +43668,20 @@ window.allHeroes =
             "defense": 1183,
             "health": 1978
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Area"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Status - Reflect Buffs",
+                    "Atk - Wither : Atk↓",
+                    "Def - Wither : Def↓"
+                ]
+            }
+        ]
     },
     {
         "name": "Aconia",
@@ -34695,7 +43734,23 @@ window.allHeroes =
             "defense": 1059,
             "health": 2103
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Dmg: DoT"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Summon - Fiend"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Dmg - DoT : Bleed"
+                ]
+            }
+        ]
     },
     {
         "name": "Aeron",
@@ -34747,7 +43802,23 @@ window.allHeroes =
             "defense": 878,
             "health": 1653
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Heal: Over Time"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Status - Block Ailments"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Status - Cleanse Ailments"
+                ]
+            }
+        ]
     },
     {
         "name": "Aeron C1",
@@ -34798,7 +43869,18 @@ window.allHeroes =
             "defense": 1166,
             "health": 2437
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Heal: Instant"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Status - Redistribute Ailments"
+                ]
+            }
+        ]
     },
     {
         "name": "Agrafena",
@@ -34862,7 +43944,27 @@ window.allHeroes =
             "defense": 972,
             "health": 1793
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Heal: Over Time",
+                    "Dmg: DoT"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Atk - Attack ↑",
+                    "Def - Defense ↑"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Atk - Attack ↓",
+                    "Def - Defense ↓",
+                    "Dmg - DoT : Poison"
+                ]
+            }
+        ]
     },
     {
         "name": "Agrafena C1",
@@ -34927,7 +44029,28 @@ window.allHeroes =
             "defense": 1306,
             "health": 2416
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Heal: Boost Health",
+                    "Heal: Over Time",
+                    "Dmg: DoT"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Atk - Attack ↑",
+                    "Def - Defense ↑"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Atk - Attack ↓",
+                    "Def - Defense ↓",
+                    "Dmg - DoT : Poison"
+                ]
+            }
+        ]
     },
     {
         "name": "Akilius",
@@ -34981,7 +44104,23 @@ window.allHeroes =
             "defense": 1330,
             "health": 2247
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Single"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Atk - Steal Minions"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Atk - Accuracy ↓"
+                ]
+            }
+        ]
     },
     {
         "name": "Alfrike",
@@ -35031,7 +44170,19 @@ window.allHeroes =
             "defense": 1041,
             "health": 1752
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Random"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Heal - Max Health ↓",
+                    "Mana - Mindless/Silence/Sleep"
+                ]
+            }
+        ]
     },
     {
         "name": "Alfrike C1",
@@ -35081,7 +44232,19 @@ window.allHeroes =
             "defense": 1429,
             "health": 2369
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Random"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Heal - Max Health ↓",
+                    "Mana - Mindless/Silence/Sleep"
+                ]
+            }
+        ]
     },
     {
         "name": "Amethyst",
@@ -35139,7 +44302,18 @@ window.allHeroes =
             "defense": 995,
             "health": 1871
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: All"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Summon - Fiend"
+                ]
+            }
+        ]
     },
     {
         "name": "Anoushka",
@@ -35196,7 +44370,24 @@ window.allHeroes =
             "defense": 1214,
             "health": 2204
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Heal: Instant"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Status - Steal Buffs"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Mana - Mindless/Silence/Sleep",
+                    "Def - Dmg Taken ↑"
+                ]
+            }
+        ]
     },
     {
         "name": "Anubis",
@@ -35249,7 +44440,20 @@ window.allHeroes =
             "defense": 1049,
             "health": 1955
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Dmg: DoT"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Status - Buff Immunity",
+                    "Dmg - DoT : Poison",
+                    "Def - Defense ↓"
+                ]
+            }
+        ]
     },
     {
         "name": "Anubis C1",
@@ -35304,7 +44508,20 @@ window.allHeroes =
             "defense": 1463,
             "health": 2790
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Dmg: DoT"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Status - Buff Immunity",
+                    "Dmg - DoT : Poison",
+                    "Def - Defense ↓"
+                ]
+            }
+        ]
     },
     {
         "name": "Aramis",
@@ -35358,7 +44575,20 @@ window.allHeroes =
             "defense": 962,
             "health": 1729
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Heal: Boost Health",
+                    "Atk: Area"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Status - Ailment Immunity",
+                    "Def - Defense ↑"
+                ]
+            }
+        ]
     },
     {
         "name": "Arfanias",
@@ -35411,7 +44641,23 @@ window.allHeroes =
             "defense": 927,
             "health": 1742
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Single"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Dmg - Extra"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Def - Dodge"
+                ]
+            }
+        ]
     },
     {
         "name": "Asketel",
@@ -35460,7 +44706,20 @@ window.allHeroes =
             "defense": 1480,
             "health": 2667
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Area"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Status - Block Cleanse",
+                    "Status - Insanity",
+                    "Status - Self-Debuff"
+                ]
+            }
+        ]
     },
     {
         "name": "Bastet",
@@ -35512,7 +44771,19 @@ window.allHeroes =
             "defense": 1038,
             "health": 1925
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: All"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Def - Dodge",
+                    "Def - Stack : Def ↑"
+                ]
+            }
+        ]
     },
     {
         "name": "Bastet C1",
@@ -35566,7 +44837,19 @@ window.allHeroes =
             "defense": 1521,
             "health": 2712
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: All"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Def - Dodge",
+                    "Def - Stack : Def ↑"
+                ]
+            }
+        ]
     },
     {
         "name": "Becky",
@@ -35624,7 +44907,28 @@ window.allHeroes =
             "defense": 1102,
             "health": 1976
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Single"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Atk - Extra Attack"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Mana - Mana Gain"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Mana - Mana Gen ↓/Block"
+                ]
+            }
+        ]
     },
     {
         "name": "Belladonna",
@@ -35677,7 +44981,20 @@ window.allHeroes =
             "defense": 1049,
             "health": 1915
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Heal: Instant",
+                    "Heal: Special"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Status - Block Buff Dispel",
+                    "Atk - Attack ↑"
+                ]
+            }
+        ]
     },
     {
         "name": "Bera",
@@ -35727,7 +45044,24 @@ window.allHeroes =
             "defense": 924,
             "health": 1689
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Dmg: DoT"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Summon - Minion"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Status - Block Minions",
+                    "Dmg - DoT : Poison"
+                ]
+            }
+        ]
     },
     {
         "name": "Bera C1",
@@ -35777,7 +45111,24 @@ window.allHeroes =
             "defense": 1140,
             "health": 2358
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Dmg: DoT"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Summon - Minion"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Status - Block Minions",
+                    "Dmg - DoT : Poison"
+                ]
+            }
+        ]
     },
     {
         "name": "Boss Wolf",
@@ -35826,7 +45177,20 @@ window.allHeroes =
             "defense": 1018,
             "health": 1879
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "增益效果": [
+                    "Def - Counterattack",
+                    "Mana - Mana Gen ↑",
+                    "Status - Dispel Buffs"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Mana - Mana Gen ↓/Block"
+                ]
+            }
+        ]
     },
     {
         "name": "Carta",
@@ -35881,7 +45245,23 @@ window.allHeroes =
             "defense": 1280,
             "health": 2479
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Heal: Instant"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Status - Redistribute Ailments"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Mana - Mana Gen ↑"
+                ]
+            }
+        ]
     },
     {
         "name": "Cecilia",
@@ -35930,7 +45310,19 @@ window.allHeroes =
             "defense": 1300,
             "health": 2184
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: All",
+                    "Heal: Boost Health"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Def - Dodge"
+                ]
+            }
+        ]
     },
     {
         "name": "Cennius",
@@ -35982,7 +45374,24 @@ window.allHeroes =
             "defense": 1356,
             "health": 2212
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Single"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Atk - Extra Attack",
+                    "Dmg - Dmg ↑ : Holy"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Def - Dmg Reduction"
+                ]
+            }
+        ]
     },
     {
         "name": "Chakkoszrot",
@@ -36036,7 +45445,19 @@ window.allHeroes =
             "defense": 962,
             "health": 1671
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: All"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Status - Buff Immunity",
+                    "Mana - Mana Gen ↓/Block"
+                ]
+            }
+        ]
     },
     {
         "name": "Chao Gai",
@@ -36098,7 +45519,25 @@ window.allHeroes =
             "defense": 1531,
             "health": 2717
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Single"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Dmg - Extra"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Atk - Crit Chance ↑",
+                    "Atk - Attack ↑",
+                    "Status - Hide/Ghost Form"
+                ]
+            }
+        ]
     },
     {
         "name": "Charon",
@@ -36158,7 +45597,16 @@ window.allHeroes =
             "defense": 1056,
             "health": 2070
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Heal: Boost Health",
+                    "Heal: Instant",
+                    "Heal: Over Time",
+                    "Heal: Revive"
+                ]
+            }
+        ]
     },
     {
         "name": "Clarissa",
@@ -36210,7 +45658,24 @@ window.allHeroes =
             "defense": 878,
             "health": 1686
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Area",
+                    "Dmg: DoT"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Dmg - Dmg ↑ : Holy"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Dmg - DoT : Poison"
+                ]
+            }
+        ]
     },
     {
         "name": "Dark Lord",
@@ -36263,7 +45728,25 @@ window.allHeroes =
             "defense": 924,
             "health": 1673
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Single",
+                    "Dmg: DoT"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Status - Reduce Buff Duration"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Mana - Mana Gen ↓/Block",
+                    "Dmg - DoT : Poison"
+                ]
+            }
+        ]
     },
     {
         "name": "Dark Lord C1",
@@ -36318,7 +45801,25 @@ window.allHeroes =
             "defense": 1367,
             "health": 2669
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Single",
+                    "Dmg: DoT"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Status - Reduce Buff Duration"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Mana - Mana Gen ↓/Block",
+                    "Dmg - DoT : Poison"
+                ]
+            }
+        ]
     },
     {
         "name": "Darkbeat",
@@ -36372,7 +45873,24 @@ window.allHeroes =
             "defense": 1503,
             "health": 2689
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: All"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Status - Reduce Ailment Duration",
+                    "Status - Reduce Buff Duration"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Status - Block Buff Dispel"
+                ]
+            }
+        ]
     },
     {
         "name": "Darkfeather",
@@ -36425,7 +45943,24 @@ window.allHeroes =
             "defense": 1163,
             "health": 2072
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Heal: Instant"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Atk - Extra Attack"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Def - Growth : Def↑",
+                    "防御-成长：防御力↑"
+                ]
+            }
+        ]
     },
     {
         "name": "Deadboot",
@@ -36480,7 +46015,24 @@ window.allHeroes =
             "defense": 1107,
             "health": 1998
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Single"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Status - Redistribute Buffs",
+                    "Dmg - Extra"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Def - Wither : Def↓"
+                ]
+            }
+        ]
     },
     {
         "name": "Demilune",
@@ -36535,7 +46087,23 @@ window.allHeroes =
             "defense": 1318,
             "health": 2151
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Minor to Nearby"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Status - Steal Buffs"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Def - Growth : Def↑"
+                ]
+            }
+        ]
     },
     {
         "name": "Diaochan",
@@ -36583,7 +46151,19 @@ window.allHeroes =
             "defense": 982,
             "health": 1808
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Heal: Instant"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Summon - Minion",
+                    "Status - Steal Buffs"
+                ]
+            }
+        ]
     },
     {
         "name": "Diaochan C1",
@@ -36636,7 +46216,19 @@ window.allHeroes =
             "defense": 1343,
             "health": 2643
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Heal: Instant"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Summon - Minion",
+                    "Status - Steal Buffs"
+                ]
+            }
+        ]
     },
     {
         "name": "Domitia",
@@ -36685,7 +46277,19 @@ window.allHeroes =
             "defense": 835,
             "health": 1663
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Single"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Def - Def ↑ : Holy",
+                    "Status - Dispel Buffs"
+                ]
+            }
+        ]
     },
     {
         "name": "Domitia C1",
@@ -36734,7 +46338,20 @@ window.allHeroes =
             "defense": 960,
             "health": 1787
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Single",
+                    "Dmg: DoT"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Dmg - DoT : Poison",
+                    "Status - Cleanse Ailments"
+                ]
+            }
+        ]
     },
     {
         "name": "Domitia C2",
@@ -36782,7 +46399,23 @@ window.allHeroes =
             "defense": 1113,
             "health": 2296
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Area"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Dmg - Dmg ↑ : Holy"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Def - Def ↓ : Dark"
+                ]
+            }
+        ]
     },
     {
         "name": "Domitia Toon",
@@ -36835,7 +46468,24 @@ window.allHeroes =
             "defense": 1283,
             "health": 2731
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Single"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Dmg - Dmg ↑ : Holy"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Def - Def ↑ : Holy",
+                    "Status - Dispel Buffs"
+                ]
+            }
+        ]
     },
     {
         "name": "Domitia Glass",
@@ -36889,7 +46539,23 @@ window.allHeroes =
             "defense": 1421,
             "health": 2865
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Single"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Atk - Bypass / Ignore"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Def - Def ↑ : Holy"
+                ]
+            }
+        ]
     },
     {
         "name": "Dr. Moreau",
@@ -36937,7 +46603,18 @@ window.allHeroes =
             "defense": 927,
             "health": 1775
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Area"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Atk - Accuracy ↓"
+                ]
+            }
+        ]
     },
     {
         "name": "Dr. Moreau C1",
@@ -36986,7 +46663,18 @@ window.allHeroes =
             "defense": 1224,
             "health": 2407
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Area"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Atk - Accuracy ↓"
+                ]
+            }
+        ]
     },
     {
         "name": "Dreadstar",
@@ -37042,7 +46730,24 @@ window.allHeroes =
             "defense": 1303,
             "health": 2082
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: All"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Atk - Bypass Dodge"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Mana - Mana Gen ↓/Block",
+                    "Heal - Healing ↓"
+                ]
+            }
+        ]
     },
     {
         "name": "Dubhan",
@@ -37095,7 +46800,25 @@ window.allHeroes =
             "defense": 1333,
             "health": 2740
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Single",
+                    "Dmg: DoT",
+                    "Heal: From Dmg"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Atk - Extra Attack"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Dmg - DoT : Bleed"
+                ]
+            }
+        ]
     },
     {
         "name": "Dularfulr",
@@ -37153,7 +46876,19 @@ window.allHeroes =
             "defense": 1457,
             "health": 2727
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Heal: Instant"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Status - Ailment Immunity",
+                    "Def - Dmg Reduction"
+                ]
+            }
+        ]
     },
     {
         "name": "Eros",
@@ -37201,7 +46936,18 @@ window.allHeroes =
             "defense": 1155,
             "health": 1993
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Single"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Def - Dmg Taken ↑"
+                ]
+            }
+        ]
     },
     {
         "name": "Experience Mimic Dark",
@@ -37263,7 +47009,25 @@ window.allHeroes =
             "defense": 1524,
             "health": 2616
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Single"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Atk - Destroy Minions",
+                    "Mana - Mana Gain (on Kill)",
+                    "Heal - Self Recovery"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Def - Mimic"
+                ]
+            }
+        ]
     },
     {
         "name": "Farrah",
@@ -37318,7 +47082,19 @@ window.allHeroes =
             "defense": 1186,
             "health": 1981
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Single",
+                    "Atk: Random"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Def - Def ↓ : Dark"
+                ]
+            }
+        ]
     },
     {
         "name": "Freya",
@@ -37366,7 +47142,19 @@ window.allHeroes =
             "defense": 916,
             "health": 1651
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "特殊效果": [
+                    "Summon - Minion",
+                    "Summon - Mega Minion"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Def - Defense ↑"
+                ]
+            }
+        ]
     },
     {
         "name": "Freya C1",
@@ -37414,7 +47202,19 @@ window.allHeroes =
             "defense": 1201,
             "health": 2249
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "特殊效果": [
+                    "Summon - Minion",
+                    "Summon - Mega Minion"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Def - Dodge"
+                ]
+            }
+        ]
     },
     {
         "name": "Gastille",
@@ -37466,7 +47266,18 @@ window.allHeroes =
             "defense": 1244,
             "health": 2120
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "增益效果": [
+                    "Atk - Attack ↑"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Def - Dmg Taken ↑"
+                ]
+            }
+        ]
     },
     {
         "name": "Gongoth",
@@ -37519,7 +47330,19 @@ window.allHeroes =
             "defense": 1483,
             "health": 2580
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Area"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Atk - Wither : Atk↓",
+                    "Def - Dmg Taken ↑"
+                ]
+            }
+        ]
     },
     {
         "name": "Gooldron",
@@ -37574,7 +47397,19 @@ window.allHeroes =
             "defense": 1389,
             "health": 2560
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Area"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Summon - Fiend",
+                    "Status - Steal Buffs"
+                ]
+            }
+        ]
     },
     {
         "name": "Goretooth",
@@ -37626,7 +47461,19 @@ window.allHeroes =
             "defense": 1033,
             "health": 1871
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Single"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Mana - Mana Gen ↓/Block",
+                    "Def - Defense ↓"
+                ]
+            }
+        ]
     },
     {
         "name": "Goseck",
@@ -37674,7 +47521,18 @@ window.allHeroes =
             "defense": 988,
             "health": 1798
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: All"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Dmg - Extra"
+                ]
+            }
+        ]
     },
     {
         "name": "Grendel's Mother",
@@ -37731,7 +47589,21 @@ window.allHeroes =
             "defense": 1562,
             "health": 2727
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: All",
+                    "Dmg: DoT"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Heal - Healing ↓",
+                    "Def - Dmg Taken ↑",
+                    "Dmg - DoT : Curse"
+                ]
+            }
+        ]
     },
     {
         "name": "Griffex",
@@ -37783,7 +47655,18 @@ window.allHeroes =
             "defense": 1079,
             "health": 2092
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "特殊效果": [
+                    "Mana - Mana Cut"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Mana - Mana Gain"
+                ]
+            }
+        ]
     },
     {
         "name": "Grimble",
@@ -37835,7 +47718,23 @@ window.allHeroes =
             "defense": 1016,
             "health": 1757
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: All"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Atk - Destroy Minions"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Mana - Mana Gain"
+                ]
+            }
+        ]
     },
     {
         "name": "Guardian Panther",
@@ -37884,7 +47783,23 @@ window.allHeroes =
             "defense": 777,
             "health": 1663
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Area"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Status - Dispel Buffs"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Def - Def ↓ : Dark"
+                ]
+            }
+        ]
     },
     {
         "name": "Guardian Panther C1",
@@ -37932,7 +47847,19 @@ window.allHeroes =
             "defense": 993,
             "health": 2364
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: All"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Status - Buff Immunity",
+                    "Def - Def ↓ : Dark"
+                ]
+            }
+        ]
     },
     {
         "name": "Gunktus",
@@ -37992,7 +47919,19 @@ window.allHeroes =
             "defense": 1397,
             "health": 2420
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Minor to Nearby"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Atk - Attack ↑",
+                    "Heal - Self Revive"
+                ]
+            }
+        ]
     },
     {
         "name": "Hannah",
@@ -38045,7 +47984,23 @@ window.allHeroes =
             "defense": 922,
             "health": 1767
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Area"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Summon - Fiend"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Atk - Attack ↓"
+                ]
+            }
+        ]
     },
     {
         "name": "Hannah C1",
@@ -38098,7 +48053,23 @@ window.allHeroes =
             "defense": 1184,
             "health": 2362
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Area"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Summon - Fiend"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Atk - Attack ↓"
+                ]
+            }
+        ]
     },
     {
         "name": "Hawthorn",
@@ -38153,7 +48124,20 @@ window.allHeroes =
             "defense": 1076,
             "health": 2049
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Heal: Boost Health",
+                    "Heal: Over Time"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Mana - Mana Gain",
+                    "Status - Reflect Ailments"
+                ]
+            }
+        ]
     },
     {
         "name": "Hel",
@@ -38204,7 +48188,23 @@ window.allHeroes =
             "defense": 853,
             "health": 1638
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Minor to Nearby"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Dmg - Dmg ↑ : Holy"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Mana - Mana Gen ↓/Block"
+                ]
+            }
+        ]
     },
     {
         "name": "Hel C1",
@@ -38258,7 +48258,23 @@ window.allHeroes =
             "defense": 1091,
             "health": 2375
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: All"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Dmg - Dmg ↑ : Holy"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Mana - Mana Steal"
+                ]
+            }
+        ]
     },
     {
         "name": "Hreidmarr",
@@ -38315,7 +48331,24 @@ window.allHeroes =
             "defense": 1457,
             "health": 2819
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: All"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Status - Steal Buffs",
+                    "Dmg - Dmg ↑ : Nature"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Mana - Mana Steal"
+                ]
+            }
+        ]
     },
     {
         "name": "Hulda",
@@ -38365,7 +48398,20 @@ window.allHeroes =
             "defense": 965,
             "health": 1823
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "特殊效果": [
+                    "Summon - Minion",
+                    "Heal - From Minions"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Mana - Mana Gen ↑",
+                    "Def - Defense ↑"
+                ]
+            }
+        ]
     },
     {
         "name": "Hulda C1",
@@ -38416,7 +48462,20 @@ window.allHeroes =
             "defense": 1287,
             "health": 2407
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "特殊效果": [
+                    "Summon - Minion",
+                    "Heal - From Minions"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Mana - Mana Gen ↑",
+                    "Def - Defense ↑"
+                ]
+            }
+        ]
     },
     {
         "name": "Hunter",
@@ -38469,7 +48528,25 @@ window.allHeroes =
             "defense": 1391,
             "health": 2463
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Single"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Atk - Bypass Dodge"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Status - Insanity",
+                    "Def - Defense ↓",
+                    "Status - Self-Debuff"
+                ]
+            }
+        ]
     },
     {
         "name": "Hurricane",
@@ -38525,7 +48602,30 @@ window.allHeroes =
             "defense": 1051,
             "health": 1912
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Area",
+                    "Dmg: DoT"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Heal - From Dmg",
+                    "Status - Reset Ailment Duration"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Atk - Attack ↑"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Dmg - DoT : Burn"
+                ]
+            }
+        ]
     },
     {
         "name": "Imagus",
@@ -38586,7 +48686,15 @@ window.allHeroes =
             "defense": 1617,
             "health": 2641
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "负面效果": [
+                    "Atk - Wither : Atk↓",
+                    "Heal - Healing ↓",
+                    "Status - Cleanse Ailments"
+                ]
+            }
+        ]
     },
     {
         "name": "Jabberwock",
@@ -38632,7 +48740,19 @@ window.allHeroes =
             "defense": 922,
             "health": 1638
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Edges",
+                    "Dmg: DoT"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Dmg - DoT : Poison"
+                ]
+            }
+        ]
     },
     {
         "name": "Jabberwock C1",
@@ -38681,7 +48801,20 @@ window.allHeroes =
             "defense": 1142,
             "health": 2275
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Edges",
+                    "Dmg: DoT"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Mana - Mana Gen ↓/Block",
+                    "Dmg - DoT : Poison"
+                ]
+            }
+        ]
     },
     {
         "name": "Jett",
@@ -38744,7 +48877,25 @@ window.allHeroes =
             "defense": 1148,
             "health": 2057
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Single",
+                    "Dmg: DoT",
+                    "Heal: From Dmg"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Heal - From Dmg"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Dmg - DoT : Poison"
+                ]
+            }
+        ]
     },
     {
         "name": "Kageburado",
@@ -38792,7 +48943,23 @@ window.allHeroes =
             "defense": 881,
             "health": 1539
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Single"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Dmg - Extra"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Status - Dispel Buffs"
+                ]
+            }
+        ]
     },
     {
         "name": "Kageburado C1",
@@ -38844,7 +49011,24 @@ window.allHeroes =
             "defense": 1123,
             "health": 2026
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Single"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Status - Dispel Buffs"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Status - Buff Immunity",
+                    "Def - Defense ↓"
+                ]
+            }
+        ]
     },
     {
         "name": "Karnov",
@@ -38892,7 +49076,18 @@ window.allHeroes =
             "defense": 919,
             "health": 1780
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: All"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Dmg - Tile : Up"
+                ]
+            }
+        ]
     },
     {
         "name": "Karnov C1",
@@ -38945,7 +49140,19 @@ window.allHeroes =
             "defense": 1370,
             "health": 2784
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: All"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Dmg - Tile : Up",
+                    "Dmg - Dmg ↑ : Holy"
+                ]
+            }
+        ]
     },
     {
         "name": "Kemeny",
@@ -38993,7 +49200,18 @@ window.allHeroes =
             "defense": 1003,
             "health": 1833
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: All"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Dmg - Extra"
+                ]
+            }
+        ]
     },
     {
         "name": "Khepri",
@@ -39046,7 +49264,19 @@ window.allHeroes =
             "defense": 1028,
             "health": 1955
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Area"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Summon - Fiend",
+                    "Dmg - Explosion"
+                ]
+            }
+        ]
     },
     {
         "name": "Khepri C1",
@@ -39101,7 +49331,19 @@ window.allHeroes =
             "defense": 1414,
             "health": 2705
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Area"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Summon - Fiend",
+                    "Dmg - Explosion"
+                ]
+            }
+        ]
     },
     {
         "name": "Khiona",
@@ -39149,7 +49391,18 @@ window.allHeroes =
             "defense": 873,
             "health": 1648
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Single"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Atk - Attack ↑"
+                ]
+            }
+        ]
     },
     {
         "name": "Khiona C1",
@@ -39200,7 +49453,18 @@ window.allHeroes =
             "defense": 1104,
             "health": 2356
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Single"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Atk - Attack ↑"
+                ]
+            }
+        ]
     },
     {
         "name": "Khonshu",
@@ -39249,7 +49513,18 @@ window.allHeroes =
             "defense": 957,
             "health": 1889
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Single"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Mana - Mana Gain (on Kill)"
+                ]
+            }
+        ]
     },
     {
         "name": "Khonshu C1",
@@ -39300,7 +49575,18 @@ window.allHeroes =
             "defense": 1323,
             "health": 2668
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Single"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Mana - Mana Gain (on Kill)"
+                ]
+            }
+        ]
     },
     {
         "name": "Killhare",
@@ -39345,7 +49631,18 @@ window.allHeroes =
             "defense": 932,
             "health": 1704
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: All"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Status - Self-Debuff"
+                ]
+            }
+        ]
     },
     {
         "name": "Killhare C1",
@@ -39390,7 +49687,18 @@ window.allHeroes =
             "defense": 1138,
             "health": 2161
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: All"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Status - Self-Debuff"
+                ]
+            }
+        ]
     },
     {
         "name": "Knave of Hearts",
@@ -39440,7 +49748,24 @@ window.allHeroes =
             "defense": 1231,
             "health": 2247
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Area"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Summon - Minion",
+                    "Heal - From Minions"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Mana - Mindless/Silence/Sleep"
+                ]
+            }
+        ]
     },
     {
         "name": "Knightus",
@@ -39497,7 +49822,20 @@ window.allHeroes =
             "defense": 1493,
             "health": 2484
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Single"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Mana - Paralyze",
+                    "Def - Def ↓ : Dark",
+                    "Status - Devouring Goo"
+                ]
+            }
+        ]
     },
     {
         "name": "Kunchen",
@@ -39550,7 +49888,19 @@ window.allHeroes =
             "defense": 1005,
             "health": 1772
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Heal: Instant"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Def - Defense ↓",
+                    "Status - Cleanse Ailments"
+                ]
+            }
+        ]
     },
     {
         "name": "Lepiota",
@@ -39608,7 +49958,19 @@ window.allHeroes =
             "defense": 960,
             "health": 1676
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Single",
+                    "Dmg: DoT"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Status - Hide/Ghost Form"
+                ]
+            }
+        ]
     },
     {
         "name": "Lepiota C1",
@@ -39667,7 +50029,19 @@ window.allHeroes =
             "defense": 1270,
             "health": 2303
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Single",
+                    "Dmg: DoT"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Status - Hide/Ghost Form"
+                ]
+            }
+        ]
     },
     {
         "name": "Louhi",
@@ -39717,7 +50091,23 @@ window.allHeroes =
             "defense": 1066,
             "health": 2169
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: All"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Status - Dispel Buffs"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Def - Defense ↓"
+                ]
+            }
+        ]
     },
     {
         "name": "Lu Bu",
@@ -39768,7 +50158,23 @@ window.allHeroes =
             "defense": 988,
             "health": 1856
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: All"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Summon - Fiend"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Status - Buff Immunity"
+                ]
+            }
+        ]
     },
     {
         "name": "Lu Bu C1",
@@ -39824,7 +50230,23 @@ window.allHeroes =
             "defense": 1354,
             "health": 2657
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: All"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Summon - Fiend"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Status - Buff Immunity"
+                ]
+            }
+        ]
     },
     {
         "name": "Lucinda",
@@ -39878,7 +50300,25 @@ window.allHeroes =
             "defense": 1148,
             "health": 2159
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Heal: Over Time",
+                    "Atk: Area"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Heal - Self Recovery"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Atk - Accuracy ↓",
+                    "Def - Defense ↓"
+                ]
+            }
+        ]
     },
     {
         "name": "Ludwig",
@@ -39926,7 +50366,15 @@ window.allHeroes =
             "defense": 1041,
             "health": 1778
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "增益效果": [
+                    "Mana - Mana Gain",
+                    "Def - Taunt",
+                    "Def - Def ↑ : Special"
+                ]
+            }
+        ]
     },
     {
         "name": "Luna",
@@ -39977,7 +50425,19 @@ window.allHeroes =
             "defense": 1107,
             "health": 2131
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Heal: Instant"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Mana - Mana Cut",
+                    "Atk - Extra Attack"
+                ]
+            }
+        ]
     },
     {
         "name": "Madame Giry",
@@ -40034,7 +50494,24 @@ window.allHeroes =
             "defense": 1193,
             "health": 2085
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: All"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Summon - Fiend"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Status - Buff Immunity",
+                    "Def - Def ↓ : Dark"
+                ]
+            }
+        ]
     },
     {
         "name": "Maisie",
@@ -40087,7 +50564,24 @@ window.allHeroes =
             "defense": 1508,
             "health": 2664
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Heal: Boost Health",
+                    "Heal: Special"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Summon - Mega Minion"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Status - Cleanse Ailments"
+                ]
+            }
+        ]
     },
     {
         "name": "Malicna",
@@ -40149,7 +50643,25 @@ window.allHeroes =
             "defense": 914,
             "health": 1651
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Area"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Atk - Gamble / Random"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Mana - Mana Gen ↓/Block",
+                    "Atk - Attack ↓",
+                    "Def - Defense ↓"
+                ]
+            }
+        ]
     },
     {
         "name": "Marie-Therese",
@@ -40206,7 +50718,20 @@ window.allHeroes =
             "defense": 891,
             "health": 1605
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Heal: Over Time",
+                    "Atk: All",
+                    "Heal: Revive"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Def - Defense ↑"
+                ]
+            }
+        ]
     },
     {
         "name": "Marie-Therese C1",
@@ -40264,7 +50789,20 @@ window.allHeroes =
             "defense": 1142,
             "health": 2275
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Heal: Boost Health",
+                    "Atk: All",
+                    "Heal: Revive"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Def - Defense ↑"
+                ]
+            }
+        ]
     },
     {
         "name": "Maud",
@@ -40317,7 +50855,19 @@ window.allHeroes =
             "defense": 1379,
             "health": 2687
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: All"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Mana - Mana Gain",
+                    "Def - Dodge"
+                ]
+            }
+        ]
     },
     {
         "name": "Medea",
@@ -40377,7 +50927,19 @@ window.allHeroes =
             "defense": 1244,
             "health": 2131
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Area"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Heal - Healing ↓",
+                    "Mana - Mindless/Silence/Sleep"
+                ]
+            }
+        ]
     },
     {
         "name": "Medea C1",
@@ -40437,7 +50999,19 @@ window.allHeroes =
             "defense": 1560,
             "health": 2698
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Area"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Heal - Healing ↓",
+                    "Mana - Mindless/Silence/Sleep"
+                ]
+            }
+        ]
     },
     {
         "name": "Melancholia",
@@ -40491,7 +51065,28 @@ window.allHeroes =
             "defense": 1424,
             "health": 2633
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Heal: Revive"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Dmg - Extra"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Def - Def ↑ : Special"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Status - Insanity"
+                ]
+            }
+        ]
     },
     {
         "name": "Mok-Arr",
@@ -40540,7 +51135,23 @@ window.allHeroes =
             "defense": 848,
             "health": 1727
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: All"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Dmg - Dmg ↑ : Holy"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Status - Self-Debuff"
+                ]
+            }
+        ]
     },
     {
         "name": "Mok-Arr C1",
@@ -40592,7 +51203,28 @@ window.allHeroes =
             "defense": 1056,
             "health": 2211
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: All"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Dmg - Dmg ↑ : Holy"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Atk - Attack ↑"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Atk - Attack ↓"
+                ]
+            }
+        ]
     },
     {
         "name": "Morax",
@@ -40647,7 +51279,19 @@ window.allHeroes =
             "defense": 949,
             "health": 1785
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Minor to Nearby"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Mana - Mana Gen ↓/Block",
+                    "Heal - Max Health ↓"
+                ]
+            }
+        ]
     },
     {
         "name": "Mortewitch",
@@ -40707,7 +51351,25 @@ window.allHeroes =
             "defense": 1554,
             "health": 2481
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Heal: From Dmg",
+                    "Atk: Single"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Atk - Bypass / Ignore",
+                    "Summon - Mega Minion"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Def - Dmg Taken ↑"
+                ]
+            }
+        ]
     },
     {
         "name": "Mortimer",
@@ -40758,7 +51420,23 @@ window.allHeroes =
             "defense": 1061,
             "health": 1859
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Minor to Nearby"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Status - Block Ailments"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Mana - Mindless/Silence/Sleep"
+                ]
+            }
+        ]
     },
     {
         "name": "Myztero",
@@ -40804,7 +51482,18 @@ window.allHeroes =
             "defense": 916,
             "health": 1711
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: All"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Atk - Copy/Steal Skill"
+                ]
+            }
+        ]
     },
     {
         "name": "Narcisa",
@@ -40855,7 +51544,23 @@ window.allHeroes =
             "defense": 972,
             "health": 1838
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: All"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Status - Reset Ailment Duration"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Atk - Attack ↓"
+                ]
+            }
+        ]
     },
     {
         "name": "Nyx",
@@ -40915,7 +51620,23 @@ window.allHeroes =
             "defense": 1018,
             "health": 1866
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: All"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Atk - Attack ↑"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Def - Defense ↓"
+                ]
+            }
+        ]
     },
     {
         "name": "Obakan",
@@ -40961,7 +51682,18 @@ window.allHeroes =
             "defense": 787,
             "health": 1638
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Minor to Nearby"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Def - Counterattack"
+                ]
+            }
+        ]
     },
     {
         "name": "Obakan C1",
@@ -41007,7 +51739,18 @@ window.allHeroes =
             "defense": 946,
             "health": 1819
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: All"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Def - Counterattack"
+                ]
+            }
+        ]
     },
     {
         "name": "Obakan C2",
@@ -41056,7 +51799,19 @@ window.allHeroes =
             "defense": 1096,
             "health": 2354
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Area"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Def - Counterattack",
+                    "Mana - Mana Gain"
+                ]
+            }
+        ]
     },
     {
         "name": "Obakan Toon",
@@ -41106,7 +51861,23 @@ window.allHeroes =
             "defense": 1298,
             "health": 2731
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Minor to Nearby"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Dmg - Dmg ↑ : Holy"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Def - Counterattack"
+                ]
+            }
+        ]
     },
     {
         "name": "Obakan Glass",
@@ -41157,7 +51928,23 @@ window.allHeroes =
             "defense": 1457,
             "health": 2869
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Minor to Nearby"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Atk - Bypass / Ignore"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Def - Counterattack"
+                ]
+            }
+        ]
     },
     {
         "name": "Odile",
@@ -41214,7 +52001,24 @@ window.allHeroes =
             "defense": 1176,
             "health": 2280
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Heal: Boost Health"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Heal - From Dmg",
+                    "Atk - Extra Attack"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Status - Buff Immunity"
+                ]
+            }
+        ]
     },
     {
         "name": "Ommodus",
@@ -41268,7 +52072,26 @@ window.allHeroes =
             "defense": 1262,
             "health": 2006
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: All"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Summon - Destroy Fiends",
+                    "Atk - Bypass Dodge",
+                    "Dmg - Dmg ↑ : Holy"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Def - Dmg Reduction",
+                    "Mana - Mana Gain"
+                ]
+            }
+        ]
     },
     {
         "name": "Onyx",
@@ -41328,7 +52151,23 @@ window.allHeroes =
             "defense": 871,
             "health": 1717
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Variable Targets"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Status - Dispel Buffs"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Status - Buff Immunity"
+                ]
+            }
+        ]
     },
     {
         "name": "Peppermint",
@@ -41378,7 +52217,24 @@ window.allHeroes =
             "defense": 1031,
             "health": 1800
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: All",
+                    "Dmg: DoT"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Summon - Minion"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Dmg - DoT : Poison"
+                ]
+            }
+        ]
     },
     {
         "name": "Phantom of the Opera",
@@ -41440,7 +52296,20 @@ window.allHeroes =
             "defense": 1150,
             "health": 2105
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Area"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Mana - Mana Gen ↓/Block",
+                    "Heal - Healing ↓",
+                    "Status - Buff Immunity"
+                ]
+            }
+        ]
     },
     {
         "name": "Phorcys",
@@ -41503,7 +52372,19 @@ window.allHeroes =
             "defense": 1018,
             "health": 2001
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "特殊效果": [
+                    "Summon - Minion"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Def - Taunt",
+                    "Atk - Stack : Atk ↑"
+                ]
+            }
+        ]
     },
     {
         "name": "Phorcys C1",
@@ -41566,7 +52447,19 @@ window.allHeroes =
             "defense": 1013,
             "health": 1963
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "特殊效果": [
+                    "Summon - Minion"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Def - Taunt",
+                    "Atk - Stack : Atk ↑"
+                ]
+            }
+        ]
     },
     {
         "name": "Phthonus",
@@ -41617,7 +52510,19 @@ window.allHeroes =
             "defense": 998,
             "health": 1948
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Heal: Special",
+                    "Atk: All"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Status - Dispel Buffs"
+                ]
+            }
+        ]
     },
     {
         "name": "Quartz",
@@ -41677,7 +52582,23 @@ window.allHeroes =
             "defense": 955,
             "health": 1882
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Heal: Over Time"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Atk - Attack ↑"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Status - Cleanse Ailments"
+                ]
+            }
+        ]
     },
     {
         "name": "Quintus",
@@ -41720,7 +52641,13 @@ window.allHeroes =
             "defense": 784,
             "health": 1701
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: All"
+                ]
+            }
+        ]
     },
     {
         "name": "Quintus C1",
@@ -41766,7 +52693,18 @@ window.allHeroes =
             "defense": 880,
             "health": 1865
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: All"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Atk - Attack ↓"
+                ]
+            }
+        ]
     },
     {
         "name": "Quintus C2",
@@ -41812,7 +52750,18 @@ window.allHeroes =
             "defense": 1025,
             "health": 2394
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Area"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Mana - Mindless/Silence/Sleep"
+                ]
+            }
+        ]
     },
     {
         "name": "Quintus Toon",
@@ -41859,7 +52808,18 @@ window.allHeroes =
             "defense": 1350,
             "health": 2905
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: All"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Dmg - Dmg ↑ : Holy"
+                ]
+            }
+        ]
     },
     {
         "name": "Ramona",
@@ -41913,7 +52873,19 @@ window.allHeroes =
             "defense": 1310,
             "health": 2176
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Single",
+                    "Heal: Special"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Summon - Fiend"
+                ]
+            }
+        ]
     },
     {
         "name": "Rayne",
@@ -41959,7 +52931,19 @@ window.allHeroes =
             "defense": 962,
             "health": 1706
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Single",
+                    "Dmg: DoT"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Dmg - DoT : Poison"
+                ]
+            }
+        ]
     },
     {
         "name": "Rochefort",
@@ -42006,7 +52990,18 @@ window.allHeroes =
             "defense": 1049,
             "health": 2263
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Minor to Nearby"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Dmg - Explosion"
+                ]
+            }
+        ]
     },
     {
         "name": "Salmon Loki",
@@ -42054,7 +53049,23 @@ window.allHeroes =
             "defense": 927,
             "health": 1696
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Variable Targets"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Dmg - Extra"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Def - Change Position"
+                ]
+            }
+        ]
     },
     {
         "name": "Salmon Loki C1",
@@ -42102,7 +53113,23 @@ window.allHeroes =
             "defense": 1248,
             "health": 2166
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Variable Targets"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Dmg - Extra"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Def - Change Position"
+                ]
+            }
+        ]
     },
     {
         "name": "Sargasso",
@@ -42148,7 +53175,18 @@ window.allHeroes =
             "defense": 873,
             "health": 1645
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Minor to Nearby"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Heal - Healing ↓"
+                ]
+            }
+        ]
     },
     {
         "name": "Sargasso C1",
@@ -42199,7 +53237,20 @@ window.allHeroes =
             "defense": 1221,
             "health": 2036
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Minor to Nearby",
+                    "Dmg: DoT"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Heal - Block Healing",
+                    "Dmg - DoT : Water"
+                ]
+            }
+        ]
     },
     {
         "name": "Sartana",
@@ -42245,7 +53296,19 @@ window.allHeroes =
             "defense": 863,
             "health": 1704
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Single",
+                    "Dmg: DoT"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Dmg - DoT : Poison"
+                ]
+            }
+        ]
     },
     {
         "name": "Sartana C1",
@@ -42288,7 +53351,13 @@ window.allHeroes =
             "defense": 1023,
             "health": 1974
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Single"
+                ]
+            }
+        ]
     },
     {
         "name": "Sartana C2",
@@ -42336,7 +53405,23 @@ window.allHeroes =
             "defense": 1068,
             "health": 2544
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Single"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Atk - Destroy Minions"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Status - Block Minions"
+                ]
+            }
+        ]
     },
     {
         "name": "Sartana Toon",
@@ -42386,7 +53471,24 @@ window.allHeroes =
             "defense": 1329,
             "health": 2891
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Single",
+                    "Dmg: DoT"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Dmg - Dmg ↑ : Holy"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Dmg - DoT : Poison"
+                ]
+            }
+        ]
     },
     {
         "name": "Sartana Glass",
@@ -42436,7 +53538,24 @@ window.allHeroes =
             "defense": 1496,
             "health": 3042
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Single",
+                    "Dmg: DoT"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Atk - Bypass / Ignore"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Dmg - DoT : Poison"
+                ]
+            }
+        ]
     },
     {
         "name": "Satsui",
@@ -42501,7 +53620,23 @@ window.allHeroes =
             "defense": 1524,
             "health": 2260
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Variable Targets"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Dmg - Extra"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Status - Hide/Ghost Form"
+                ]
+            }
+        ]
     },
     {
         "name": "Scath",
@@ -42554,7 +53689,23 @@ window.allHeroes =
             "defense": 1221,
             "health": 2506
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Heal: Over Time"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Dmg - Explosion"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Def - Counterattack"
+                ]
+            }
+        ]
     },
     {
         "name": "Senan",
@@ -42611,7 +53762,24 @@ window.allHeroes =
             "defense": 1003,
             "health": 1752
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: All"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Summon - Fiend"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Mana - Stack : Mana Gen ↑",
+                    "Heal - Stack : Regen"
+                ]
+            }
+        ]
     },
     {
         "name": "Senan C1",
@@ -42669,7 +53837,24 @@ window.allHeroes =
             "defense": 1414,
             "health": 2867
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: All"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Summon - Fiend"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Mana - Stack : Mana Gen ↑",
+                    "Heal - Stack : Regen"
+                ]
+            }
+        ]
     },
     {
         "name": "Serena",
@@ -42723,7 +53908,23 @@ window.allHeroes =
             "defense": 1498,
             "health": 2827
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Single"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Summon - Fiend"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Atk - Accuracy ↓"
+                ]
+            }
+        ]
     },
     {
         "name": "Seshat",
@@ -42776,7 +53977,23 @@ window.allHeroes =
             "defense": 843,
             "health": 1658
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Single"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Summon - Minion"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Status - Dispel Buffs"
+                ]
+            }
+        ]
     },
     {
         "name": "Seshat C1",
@@ -42831,7 +54048,23 @@ window.allHeroes =
             "defense": 1068,
             "health": 2401
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Single"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Summon - Minion"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Status - Dispel Buffs"
+                ]
+            }
+        ]
     },
     {
         "name": "Set",
@@ -42883,7 +54116,24 @@ window.allHeroes =
             "defense": 1038,
             "health": 1950
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Dmg: DoT"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Summon - Minion",
+                    "Mana - Mana Cut"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Dmg - DoT : Poison"
+                ]
+            }
+        ]
     },
     {
         "name": "Set C1",
@@ -42937,7 +54187,24 @@ window.allHeroes =
             "defense": 1428,
             "health": 2733
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Dmg: DoT"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Summon - Minion",
+                    "Mana - Mana Cut"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Dmg - DoT : Poison"
+                ]
+            }
+        ]
     },
     {
         "name": "Shacklebolt",
@@ -42990,7 +54257,23 @@ window.allHeroes =
             "defense": 1122,
             "health": 2278
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Area"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Status - Steal Buffs"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Mana - Mana Steal"
+                ]
+            }
+        ]
     },
     {
         "name": "Shadowfang",
@@ -43045,7 +54328,19 @@ window.allHeroes =
             "defense": 1404,
             "health": 2722
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: All"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Summon - Fiend",
+                    "Atk - Extra Attack"
+                ]
+            }
+        ]
     },
     {
         "name": "Sir Casmir",
@@ -43100,7 +54395,24 @@ window.allHeroes =
             "defense": 1292,
             "health": 2153
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "特殊效果": [
+                    "Atk - Gamble / Random",
+                    "Dmg - Extra"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Status - Reflect Ailments"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Status - Cleanse Ailments"
+                ]
+            }
+        ]
     },
     {
         "name": "Sneferu",
@@ -43153,7 +54465,23 @@ window.allHeroes =
             "defense": 1005,
             "health": 2004
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Single"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Atk - Chain"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Status - Buff Immunity"
+                ]
+            }
+        ]
     },
     {
         "name": "Sneferu C1",
@@ -43208,7 +54536,23 @@ window.allHeroes =
             "defense": 1457,
             "health": 3006
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Single"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Atk - Chain"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Status - Buff Immunity"
+                ]
+            }
+        ]
     },
     {
         "name": "Swiftpaw",
@@ -43264,7 +54608,29 @@ window.allHeroes =
             "defense": 1363,
             "health": 2555
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Single"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Summon - Minion",
+                    "Status - Steal Buffs"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Def - Dodge"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Mana - Mindless/Silence/Sleep"
+                ]
+            }
+        ]
     },
     {
         "name": "Tamlin",
@@ -43317,7 +54683,19 @@ window.allHeroes =
             "defense": 1394,
             "health": 2677
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: All"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Mana - Mindless/Silence/Sleep",
+                    "Def - Def ↓ : Special"
+                ]
+            }
+        ]
     },
     {
         "name": "Tenebrae",
@@ -43373,7 +54751,18 @@ window.allHeroes =
             "defense": 1170,
             "health": 1955
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Single"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Dmg - Extra"
+                ]
+            }
+        ]
     },
     {
         "name": "Thoth-Amun",
@@ -43423,7 +54812,18 @@ window.allHeroes =
             "defense": 855,
             "health": 1678
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Area"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Summon - Minion"
+                ]
+            }
+        ]
     },
     {
         "name": "Thoth-Amun C1",
@@ -43472,7 +54872,18 @@ window.allHeroes =
             "defense": 1117,
             "health": 2466
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Area"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Summon - Minion"
+                ]
+            }
+        ]
     },
     {
         "name": "Thrivaldi",
@@ -43531,7 +54942,25 @@ window.allHeroes =
             "defense": 1419,
             "health": 2865
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: All"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Atk - Bypass Dodge",
+                    "Dmg - Dmg ↑ : Fire"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Status - Ailment Immunity",
+                    "Def - Defense ↑"
+                ]
+            }
+        ]
     },
     {
         "name": "Tora",
@@ -43594,7 +55023,19 @@ window.allHeroes =
             "defense": 1358,
             "health": 2032
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Variable Targets"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Dmg - Extra",
+                    "Atk - Bypass / Ignore"
+                ]
+            }
+        ]
     },
     {
         "name": "Turgruk",
@@ -43644,7 +55085,18 @@ window.allHeroes =
             "defense": 904,
             "health": 1732
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Single"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Def - Stack : Dmg Taken ↑"
+                ]
+            }
+        ]
     },
     {
         "name": "Tweedles",
@@ -43698,7 +55150,24 @@ window.allHeroes =
             "defense": 1168,
             "health": 1930
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Random"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Mana - Mana Gain"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Atk - Attack ↓",
+                    "Def - Defense ↓"
+                ]
+            }
+        ]
     },
     {
         "name": "Ultrox",
@@ -43757,7 +55226,24 @@ window.allHeroes =
             "defense": 1094,
             "health": 2057
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: All"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Dmg - Tile : Up"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Def - Counterattack",
+                    "Def - Dmg Reduction"
+                ]
+            }
+        ]
     },
     {
         "name": "Ultrox C1",
@@ -43818,7 +55304,24 @@ window.allHeroes =
             "defense": 1374,
             "health": 2620
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: All"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Dmg - Tile : Up"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Def - Counterattack",
+                    "Def - Dmg Reduction"
+                ]
+            }
+        ]
     },
     {
         "name": "Umbria",
@@ -43869,7 +55372,18 @@ window.allHeroes =
             "defense": 1115,
             "health": 2225
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Single"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Summon - Fiend"
+                ]
+            }
+        ]
     },
     {
         "name": "Umeko",
@@ -43931,7 +55445,24 @@ window.allHeroes =
             "defense": 1409,
             "health": 2082
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Dmg: DoT"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Status - Dispel Buffs"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Heal - Healing ↓",
+                    "Dmg - DoT : Poison"
+                ]
+            }
+        ]
     },
     {
         "name": "Ursena",
@@ -43981,7 +55512,24 @@ window.allHeroes =
             "defense": 901,
             "health": 1582
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: All"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Dmg - Extra",
+                    "Dmg - Dmg ↑ : Holy"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Def - Reflect : Holy"
+                ]
+            }
+        ]
     },
     {
         "name": "Ursena C1",
@@ -44032,7 +55580,28 @@ window.allHeroes =
             "defense": 1138,
             "health": 2073
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: All"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Dmg - Extra"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Def - Reflect : Holy"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Def - Def ↓ : Dark"
+                ]
+            }
+        ]
     },
     {
         "name": "Uthragan",
@@ -44084,7 +55653,24 @@ window.allHeroes =
             "defense": 914,
             "health": 1986
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Single",
+                    "Dmg: DoT"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Heal - From Dmg"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Dmg - DoT : Poison"
+                ]
+            }
+        ]
     },
     {
         "name": "Uwe",
@@ -44136,7 +55722,25 @@ window.allHeroes =
             "defense": 1308,
             "health": 2209
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Single",
+                    "Dmg: DoT"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Atk - Chain",
+                    "Dmg - Explosion"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Dmg - DoT : Poison"
+                ]
+            }
+        ]
     },
     {
         "name": "Vander",
@@ -44192,7 +55796,18 @@ window.allHeroes =
             "defense": 1356,
             "health": 2286
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Variable Targets"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Mana - Mindless/Silence/Sleep"
+                ]
+            }
+        ]
     },
     {
         "name": "Vard",
@@ -44245,7 +55860,20 @@ window.allHeroes =
             "defense": 1518,
             "health": 2400
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: All"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Atk - Wither : Atk↓",
+                    "Def - Wither : Def↓",
+                    "Mana - Mana Gen ↓/Block"
+                ]
+            }
+        ]
     },
     {
         "name": "Victor",
@@ -44300,7 +55928,24 @@ window.allHeroes =
             "defense": 828,
             "health": 1661
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Single",
+                    "Dmg: DoT"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Def - Defense ↑"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Heal - Steal Healing"
+                ]
+            }
+        ]
     },
     {
         "name": "Victor C1",
@@ -44353,7 +55998,20 @@ window.allHeroes =
             "defense": 1144,
             "health": 2228
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Area",
+                    "Dmg: DoT"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Heal - Steal Healing",
+                    "Def - Defense ↓"
+                ]
+            }
+        ]
     },
     {
         "name": "Violet Potts",
@@ -44407,7 +56065,29 @@ window.allHeroes =
             "defense": 1351,
             "health": 2296
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Dmg: DoT"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Summon - Mega Minion"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Status - Dispel Buffs"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Status - Buff Immunity",
+                    "Dmg - DoT : Bleed"
+                ]
+            }
+        ]
     },
     {
         "name": "Viscaro",
@@ -44462,7 +56142,20 @@ window.allHeroes =
             "defense": 998,
             "health": 1724
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: All"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Summon - Fiend",
+                    "Atk - Bypass Minions",
+                    "Dmg - Extra"
+                ]
+            }
+        ]
     },
     {
         "name": "Viscount Cluckwood",
@@ -44512,7 +56205,18 @@ window.allHeroes =
             "defense": 1417,
             "health": 2669
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: All"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Def - Change Position"
+                ]
+            }
+        ]
     },
     {
         "name": "Voidstar",
@@ -44567,7 +56271,24 @@ window.allHeroes =
             "defense": 1374,
             "health": 2237
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Single",
+                    "Heal: From Dmg"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Atk - Bypass Dodge"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Def - Def ↑ : Holy"
+                ]
+            }
+        ]
     },
     {
         "name": "Von Rothbart",
@@ -44626,7 +56347,23 @@ window.allHeroes =
             "defense": 1297,
             "health": 2311
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Single"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Dmg - Explosion"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Mana - Mindless/Silence/Sleep"
+                ]
+            }
+        ]
     },
     {
         "name": "Xie Zi Jing",
@@ -44677,7 +56414,28 @@ window.allHeroes =
             "defense": 1203,
             "health": 2133
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Dmg: DoT"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Atk - Bypass Dodge"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Status - Dispel Buffs"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Dmg - DoT : Poison"
+                ]
+            }
+        ]
     },
     {
         "name": "Xiong Shanjun",
@@ -44729,7 +56487,25 @@ window.allHeroes =
             "defense": 1120,
             "health": 1998
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Heal: Over Time",
+                    "Heal: Boost Health"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Mana - Mana Gen ↑"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Heal - Max Health ↓",
+                    "Mana - Mana Gen ↓/Block"
+                ]
+            }
+        ]
     },
     {
         "name": "Xnolphod",
@@ -44782,7 +56558,23 @@ window.allHeroes =
             "defense": 977,
             "health": 1701
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Heal: Instant"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Mana - Tile : Gen"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Mana - Mana Gain"
+                ]
+            }
+        ]
     },
     {
         "name": "Xnolphod C1",
@@ -44837,7 +56629,23 @@ window.allHeroes =
             "defense": 1327,
             "health": 2191
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Heal: Over Time"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Mana - Tile : Gen"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Mana - Mana Gain"
+                ]
+            }
+        ]
     },
     {
         "name": "Ysabel",
@@ -44891,7 +56699,23 @@ window.allHeroes =
             "defense": 1363,
             "health": 2641
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Minor to Nearby"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Status - Dispel Buffs"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Def - Def ↓ : Special"
+                ]
+            }
+        ]
     },
     {
         "name": "Zed",
@@ -44945,7 +56769,24 @@ window.allHeroes =
             "defense": 1277,
             "health": 2049
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Single"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Atk - Crit Chance ↑"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Heal - Healing ↓",
+                    "Def - Defense ↓"
+                ]
+            }
+        ]
     },
     {
         "name": "Zulag",
@@ -44996,7 +56837,19 @@ window.allHeroes =
             "defense": 965,
             "health": 1767
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Heal: Over Time"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Def - Defense ↑",
+                    "Def - Def ↑ : Special"
+                ]
+            }
+        ]
     },
     {
         "name": "Sharan",
@@ -45228,7 +57081,18 @@ window.allHeroes =
             "defense": 579,
             "health": 912
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Single"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Mana - Mana Cut"
+                ]
+            }
+        ]
     },
     {
         "name": "Azar C1",
@@ -45274,7 +57138,18 @@ window.allHeroes =
             "defense": 648,
             "health": 1031
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Area"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Mana - Mana Cut"
+                ]
+            }
+        ]
     },
     {
         "name": "Azar Toon",
@@ -45324,7 +57199,19 @@ window.allHeroes =
             "defense": 642,
             "health": 1080
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Single"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Mana - Mana Cut",
+                    "Dmg - Dmg ↑ : Nature"
+                ]
+            }
+        ]
     },
     {
         "name": "Azar Glass",
@@ -45375,7 +57262,19 @@ window.allHeroes =
             "defense": 648,
             "health": 1101
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Single"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Atk - Bypass / Ignore",
+                    "Mana - Mana Cut"
+                ]
+            }
+        ]
     },
     {
         "name": "Bagreg",
@@ -45430,7 +57329,18 @@ window.allHeroes =
             "defense": 564,
             "health": 1092
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Area"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Def - Def ↓ : Fire"
+                ]
+            }
+        ]
     },
     {
         "name": "Bagreg C1",
@@ -45486,7 +57396,18 @@ window.allHeroes =
             "defense": 696,
             "health": 1151
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Area"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Def - Def ↓ : Fire"
+                ]
+            }
+        ]
     },
     {
         "name": "Basil",
@@ -45538,7 +57459,15 @@ window.allHeroes =
             "defense": 754,
             "health": 1095
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "增益效果": [
+                    "Def - Counterattack",
+                    "Def - Dmg Share",
+                    "Def - Defense ↑"
+                ]
+            }
+        ]
     },
     {
         "name": "Bauchan",
@@ -45587,7 +57516,23 @@ window.allHeroes =
             "defense": 635,
             "health": 1163
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: All"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Mana - Mana Cut"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Mana - Mana Gen ↑"
+                ]
+            }
+        ]
     },
     {
         "name": "Boots",
@@ -45640,7 +57585,25 @@ window.allHeroes =
             "defense": 642,
             "health": 1343
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Area"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Dmg - Explosion"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Atk - Wither : Atk↓",
+                    "Def - Wither : Def↓",
+                    "Def - Defense ↓"
+                ]
+            }
+        ]
     },
     {
         "name": "Buster",
@@ -45689,7 +57652,23 @@ window.allHeroes =
             "defense": 632,
             "health": 1156
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Area"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Summon - Minion"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Def - Dmg Taken ↑"
+                ]
+            }
+        ]
     },
     {
         "name": "Dante",
@@ -45748,7 +57727,24 @@ window.allHeroes =
             "defense": 662,
             "health": 993
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: All",
+                    "Dmg: DoT"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Atk - Bypass / Ignore"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Dmg - DoT : Burn"
+                ]
+            }
+        ]
     },
     {
         "name": "Ei-Dunn",
@@ -45794,7 +57790,18 @@ window.allHeroes =
             "defense": 674,
             "health": 1192
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Area"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Mana - Mana Gen ↓/Block"
+                ]
+            }
+        ]
     },
     {
         "name": "Ei-Dunn C1",
@@ -45840,7 +57847,18 @@ window.allHeroes =
             "defense": 584,
             "health": 1245
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: All"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Mana - Mana Cut"
+                ]
+            }
+        ]
     },
     {
         "name": "Fawn",
@@ -45889,7 +57907,19 @@ window.allHeroes =
             "defense": 645,
             "health": 1360
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "特殊效果": [
+                    "Dmg - Explosion"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Def - Dodge",
+                    "Mana - Mana Gain"
+                ]
+            }
+        ]
     },
     {
         "name": "Hawkmoon",
@@ -45932,7 +57962,13 @@ window.allHeroes =
             "defense": 625,
             "health": 893
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Heal: Instant"
+                ]
+            }
+        ]
     },
     {
         "name": "Hawkmoon C1",
@@ -45978,7 +58014,18 @@ window.allHeroes =
             "defense": 674,
             "health": 999
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Heal: Over Time"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Atk - Attack ↑"
+                ]
+            }
+        ]
     },
     {
         "name": "Hawkmoon Toon",
@@ -46026,7 +58073,18 @@ window.allHeroes =
             "defense": 726,
             "health": 1071
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Heal: Instant"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Def - Defense ↑"
+                ]
+            }
+        ]
     },
     {
         "name": "Hawkmoon Glass",
@@ -46074,7 +58132,18 @@ window.allHeroes =
             "defense": 725,
             "health": 1027
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Heal: Instant"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Status - Reflect Ailments"
+                ]
+            }
+        ]
     },
     {
         "name": "Helgi",
@@ -46130,7 +58199,18 @@ window.allHeroes =
             "defense": 749,
             "health": 939
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Random"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Status - Reset Buff Duration"
+                ]
+            }
+        ]
     },
     {
         "name": "Jahangir",
@@ -46176,7 +58256,19 @@ window.allHeroes =
             "defense": 610,
             "health": 839
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: All",
+                    "Dmg: DoT"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Dmg - DoT : Burn"
+                ]
+            }
+        ]
     },
     {
         "name": "Jahangir C1",
@@ -46222,7 +58314,19 @@ window.allHeroes =
             "defense": 632,
             "health": 996
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: All",
+                    "Dmg: DoT"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Dmg - DoT : Burn"
+                ]
+            }
+        ]
     },
     {
         "name": "Jahangir Toon",
@@ -46272,7 +58376,24 @@ window.allHeroes =
             "defense": 673,
             "health": 1129
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: All",
+                    "Dmg: DoT"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Dmg - Dmg ↑ : Nature"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Dmg - DoT : Burn"
+                ]
+            }
+        ]
     },
     {
         "name": "Jahangir Glass",
@@ -46322,7 +58443,24 @@ window.allHeroes =
             "defense": 683,
             "health": 1157
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: All",
+                    "Dmg: DoT"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Atk - Bypass / Ignore"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Dmg - DoT : Burn"
+                ]
+            }
+        ]
     },
     {
         "name": "Kornel",
@@ -46374,7 +58512,18 @@ window.allHeroes =
             "defense": 686,
             "health": 1124
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "增益效果": [
+                    "Atk - Attack ↑"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Def - Defense ↓"
+                ]
+            }
+        ]
     },
     {
         "name": "Li",
@@ -46422,7 +58571,24 @@ window.allHeroes =
             "defense": 681,
             "health": 1139
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: All",
+                    "Dmg: DoT"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Summon - Minion"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Dmg - DoT : Burn"
+                ]
+            }
+        ]
     },
     {
         "name": "Liu Tang",
@@ -46478,7 +58644,19 @@ window.allHeroes =
             "defense": 783,
             "health": 1122
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Minor to Nearby"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Def - Taunt",
+                    "Atk - Crit Chance ↑"
+                ]
+            }
+        ]
     },
     {
         "name": "Namahage",
@@ -46524,7 +58702,18 @@ window.allHeroes =
             "defense": 586,
             "health": 837
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Single"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Atk - Attack ↑"
+                ]
+            }
+        ]
     },
     {
         "name": "Nashgar",
@@ -46570,7 +58759,19 @@ window.allHeroes =
             "defense": 513,
             "health": 958
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Single",
+                    "Dmg: DoT"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Dmg - DoT : Burn"
+                ]
+            }
+        ]
     },
     {
         "name": "Nashgar C1",
@@ -46616,7 +58817,19 @@ window.allHeroes =
             "defense": 528,
             "health": 1010
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Single",
+                    "Dmg: DoT"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Dmg - DoT : Burn"
+                ]
+            }
+        ]
     },
     {
         "name": "Nashgar Toon",
@@ -46666,7 +58879,24 @@ window.allHeroes =
             "defense": 568,
             "health": 1092
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Single",
+                    "Dmg: DoT"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Dmg - Dmg ↑ : Nature"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Dmg - DoT : Burn"
+                ]
+            }
+        ]
     },
     {
         "name": "Phoenicus",
@@ -46712,7 +58942,14 @@ window.allHeroes =
             "defense": 730,
             "health": 1141
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "增益效果": [
+                    "Mana - Mana Gen ↑",
+                    "Atk - Attack ↑"
+                ]
+            }
+        ]
     },
     {
         "name": "Rosepetite",
@@ -46763,7 +59000,24 @@ window.allHeroes =
             "defense": 756,
             "health": 1083
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Area",
+                    "Dmg: DoT"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Dmg - Extra"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Dmg - DoT : Poison"
+                ]
+            }
+        ]
     },
     {
         "name": "Rudolph",
@@ -46812,7 +59066,19 @@ window.allHeroes =
             "defense": 547,
             "health": 851
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Single"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Mana - Mana Cut",
+                    "Summon - Minion"
+                ]
+            }
+        ]
     },
     {
         "name": "Rufus",
@@ -46864,7 +59130,20 @@ window.allHeroes =
             "defense": 654,
             "health": 1131
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: All",
+                    "Dmg: DoT"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Dmg - DoT : Bleed",
+                    "Def - Defense ↓"
+                ]
+            }
+        ]
     },
     {
         "name": "Skrekok",
@@ -46910,7 +59189,18 @@ window.allHeroes =
             "defense": 662,
             "health": 1068
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Area"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Atk - Attack ↑"
+                ]
+            }
+        ]
     },
     {
         "name": "Squire Wabbit",
@@ -46955,7 +59245,18 @@ window.allHeroes =
             "defense": 535,
             "health": 851
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Single"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Status - Self-Debuff"
+                ]
+            }
+        ]
     },
     {
         "name": "Starswift",
@@ -47006,7 +59307,23 @@ window.allHeroes =
             "defense": 669,
             "health": 1097
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Area"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Atk - Bypass Dodge"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Mana - Mana Gen ↑"
+                ]
+            }
+        ]
     },
     {
         "name": "Sudri",
@@ -47051,7 +59368,18 @@ window.allHeroes =
             "defense": 679,
             "health": 1085
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: All"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Dmg - Extra"
+                ]
+            }
+        ]
     },
     {
         "name": "Vollermork",
@@ -47098,7 +59426,13 @@ window.allHeroes =
             "defense": 720,
             "health": 1034
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "特殊效果": [
+                    "Summon - Fiend"
+                ]
+            }
+        ]
     },
     {
         "name": "Vollermork C1",
@@ -47145,7 +59479,13 @@ window.allHeroes =
             "defense": 722,
             "health": 1095
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "特殊效果": [
+                    "Summon - Fiend"
+                ]
+            }
+        ]
     },
     {
         "name": "Waqas",
@@ -47195,7 +59535,18 @@ window.allHeroes =
             "defense": 662,
             "health": 993
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: All"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Heal - Max Health ↓"
+                ]
+            }
+        ]
     },
     {
         "name": "Waqas C1",
@@ -47247,7 +59598,18 @@ window.allHeroes =
             "defense": 625,
             "health": 1032
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: All"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Heal - Max Health ↓"
+                ]
+            }
+        ]
     },
     {
         "name": "Aodhan",
@@ -47304,7 +59666,24 @@ window.allHeroes =
             "defense": 861,
             "health": 1635
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: All"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Summon - Fiend"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Mana - Stack : Mana Gen ↑",
+                    "Heal - Stack : Regen"
+                ]
+            }
+        ]
     },
     {
         "name": "Boldtusk",
@@ -47350,7 +59729,18 @@ window.allHeroes =
             "defense": 896,
             "health": 1394
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Heal: Instant"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Atk - Attack ↑"
+                ]
+            }
+        ]
     },
     {
         "name": "Boldtusk C1",
@@ -47396,7 +59786,18 @@ window.allHeroes =
             "defense": 944,
             "health": 1565
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Heal: Instant"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Atk - Attack ↑"
+                ]
+            }
+        ]
     },
     {
         "name": "Boldtusk C2",
@@ -47443,7 +59844,19 @@ window.allHeroes =
             "defense": 1046,
             "health": 1602
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Heal: Boost Health",
+                    "Heal: Over Time"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Atk - Attack ↑"
+                ]
+            }
+        ]
     },
     {
         "name": "Boldtusk Toon",
@@ -47491,7 +59904,18 @@ window.allHeroes =
             "defense": 1055,
             "health": 1667
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Heal: Instant"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Atk - Attack ↑"
+                ]
+            }
+        ]
     },
     {
         "name": "Boldtusk Glass",
@@ -47543,7 +59967,19 @@ window.allHeroes =
             "defense": 1075,
             "health": 1702
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Heal: Instant"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Status - Reflect Ailments",
+                    "Atk - Attack ↑"
+                ]
+            }
+        ]
     },
     {
         "name": "Carol",
@@ -47592,7 +60028,15 @@ window.allHeroes =
             "defense": 813,
             "health": 1710
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "特殊效果": [
+                    "Mana - Mana Cut",
+                    "Summon - Minion",
+                    "Dmg - Explosion"
+                ]
+            }
+        ]
     },
     {
         "name": "Cillian",
@@ -47647,7 +60091,20 @@ window.allHeroes =
             "defense": 859,
             "health": 1627
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Area"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Mana - Stack : Mana Gen ↑",
+                    "Heal - Stack : Regen",
+                    "Heal - Self Revive"
+                ]
+            }
+        ]
     },
     {
         "name": "Colen",
@@ -47693,7 +60150,19 @@ window.allHeroes =
             "defense": 677,
             "health": 1378
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: All",
+                    "Dmg: DoT"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Dmg - DoT : Burn"
+                ]
+            }
+        ]
     },
     {
         "name": "Colen C1",
@@ -47739,7 +60208,19 @@ window.allHeroes =
             "defense": 700,
             "health": 1554
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: All",
+                    "Dmg: DoT"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Dmg - DoT : Burn"
+                ]
+            }
+        ]
     },
     {
         "name": "Colen C2",
@@ -47787,7 +60268,23 @@ window.allHeroes =
             "defense": 787,
             "health": 1657
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Area"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Dmg - Dmg ↑ : Nature"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Def - Def ↓ : Fire"
+                ]
+            }
+        ]
     },
     {
         "name": "Colen Toon",
@@ -47837,7 +60334,24 @@ window.allHeroes =
             "defense": 820,
             "health": 1665
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: All",
+                    "Dmg: DoT"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Dmg - Dmg ↑ : Nature"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Dmg - DoT : Burn"
+                ]
+            }
+        ]
     },
     {
         "name": "Colen Glass",
@@ -47888,7 +60402,24 @@ window.allHeroes =
             "defense": 815,
             "health": 1662
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: All",
+                    "Dmg: DoT"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Atk - Bypass / Ignore"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Dmg - DoT : Burn"
+                ]
+            }
+        ]
     },
     {
         "name": "Eichbelborg",
@@ -47934,7 +60465,18 @@ window.allHeroes =
             "defense": 827,
             "health": 1659
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Single"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Def - Defense ↓"
+                ]
+            }
+        ]
     },
     {
         "name": "Ferant",
@@ -47979,7 +60521,18 @@ window.allHeroes =
             "defense": 749,
             "health": 1857
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "特殊效果": [
+                    "Mana - Mana Cut"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Def - Counterattack"
+                ]
+            }
+        ]
     },
     {
         "name": "Ferant C1",
@@ -48026,7 +60579,18 @@ window.allHeroes =
             "defense": 791,
             "health": 2040
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "特殊效果": [
+                    "Mana - Mana Cut"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Def - Counterattack"
+                ]
+            }
+        ]
     },
     {
         "name": "Gormek",
@@ -48072,7 +60636,18 @@ window.allHeroes =
             "defense": 712,
             "health": 1801
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Minor to Nearby"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Def - Defense ↓"
+                ]
+            }
+        ]
     },
     {
         "name": "Gormek C1",
@@ -48120,7 +60695,19 @@ window.allHeroes =
             "defense": 778,
             "health": 1922
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: All",
+                    "Heal: Special"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Atk - Destroy Minions"
+                ]
+            }
+        ]
     },
     {
         "name": "Gormek C2",
@@ -48166,7 +60753,18 @@ window.allHeroes =
             "defense": 793,
             "health": 1958
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: All"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Status - Dispel Buffs"
+                ]
+            }
+        ]
     },
     {
         "name": "Gormek Toon",
@@ -48216,7 +60814,24 @@ window.allHeroes =
             "defense": 936,
             "health": 2076
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Minor to Nearby"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Dmg - Dmg ↑ : Nature"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Atk - Attack ↑",
+                    "Status - Dispel Buffs"
+                ]
+            }
+        ]
     },
     {
         "name": "Gormek Glass",
@@ -48267,7 +60882,23 @@ window.allHeroes =
             "defense": 948,
             "health": 2116
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Minor to Nearby"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Atk - Bypass / Ignore"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Def - Defense ↓"
+                ]
+            }
+        ]
     },
     {
         "name": "Guardian Falcon",
@@ -48313,7 +60944,18 @@ window.allHeroes =
             "defense": 950,
             "health": 1418
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Area"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Def - Def ↓ : Fire"
+                ]
+            }
+        ]
     },
     {
         "name": "Itham",
@@ -48364,7 +61006,23 @@ window.allHeroes =
             "defense": 886,
             "health": 1525
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Area"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Status - Block Ailments"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Status - Buff Immunity"
+                ]
+            }
+        ]
     },
     {
         "name": "Junaid",
@@ -48414,7 +61072,14 @@ window.allHeroes =
             "defense": 722,
             "health": 1587
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Heal: From Dmg",
+                    "Atk: Single"
+                ]
+            }
+        ]
     },
     {
         "name": "Junaid C1",
@@ -48466,7 +61131,14 @@ window.allHeroes =
             "defense": 796,
             "health": 1678
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Heal: From Dmg",
+                    "Atk: Single"
+                ]
+            }
+        ]
     },
     {
         "name": "Kelile",
@@ -48512,7 +61184,19 @@ window.allHeroes =
             "defense": 864,
             "health": 1177
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Single",
+                    "Dmg: DoT"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Dmg - DoT : Burn"
+                ]
+            }
+        ]
     },
     {
         "name": "Kelile C1",
@@ -48555,7 +61239,19 @@ window.allHeroes =
             "defense": 887,
             "health": 1265
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: All",
+                    "Dmg: DoT"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Dmg - DoT : Burn"
+                ]
+            }
+        ]
     },
     {
         "name": "Kelile C2",
@@ -48602,7 +61298,24 @@ window.allHeroes =
             "defense": 965,
             "health": 1431
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Area",
+                    "Dmg: DoT"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Heal - From Dmg"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Dmg - DoT : Burn"
+                ]
+            }
+        ]
     },
     {
         "name": "Kelile Toon",
@@ -48652,7 +61365,24 @@ window.allHeroes =
             "defense": 958,
             "health": 1468
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Single",
+                    "Dmg: DoT"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Dmg - Dmg ↑ : Nature"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Dmg - DoT : Burn"
+                ]
+            }
+        ]
     },
     {
         "name": "Kelile Glass",
@@ -48703,7 +61433,24 @@ window.allHeroes =
             "defense": 967,
             "health": 1489
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Single",
+                    "Dmg: DoT"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Atk - Bypass / Ignore"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Dmg - DoT : Burn"
+                ]
+            }
+        ]
     },
     {
         "name": "Lemminkainen",
@@ -48751,7 +61498,19 @@ window.allHeroes =
             "defense": 776,
             "health": 1790
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Minor to Nearby",
+                    "Dmg: DoT"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Dmg - DoT : Burn"
+                ]
+            }
+        ]
     },
     {
         "name": "Lucy",
@@ -48809,7 +61568,25 @@ window.allHeroes =
             "defense": 853,
             "health": 1638
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: All",
+                    "Atk: Single"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Mana - Mana Cut",
+                    "Atk - Extra Attack"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Mana - Mana Gen ↑"
+                ]
+            }
+        ]
     },
     {
         "name": "Mack",
@@ -48857,7 +61634,14 @@ window.allHeroes =
             "defense": 864,
             "health": 1571
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "增益效果": [
+                    "Def - Counterattack",
+                    "Atk - Attack ↑"
+                ]
+            }
+        ]
     },
     {
         "name": "Mack C1",
@@ -48905,7 +61689,14 @@ window.allHeroes =
             "defense": 900,
             "health": 1594
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "增益效果": [
+                    "Def - Counterattack",
+                    "Atk - Attack ↑"
+                ]
+            }
+        ]
     },
     {
         "name": "Maheegan",
@@ -48956,7 +61747,18 @@ window.allHeroes =
             "defense": 848,
             "health": 1635
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Minor to Nearby"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Summon - Fiend"
+                ]
+            }
+        ]
     },
     {
         "name": "Manpip",
@@ -49012,7 +61814,24 @@ window.allHeroes =
             "defense": 915,
             "health": 1665
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Area",
+                    "Dmg: DoT"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Status - Replace with Ailment"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Dmg - DoT : Burn"
+                ]
+            }
+        ]
     },
     {
         "name": "Nova",
@@ -49067,7 +61886,19 @@ window.allHeroes =
             "defense": 910,
             "health": 1614
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Heal: Instant",
+                    "Heal: Special"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Status - Cleanse Ailments"
+                ]
+            }
+        ]
     },
     {
         "name": "Raul",
@@ -49130,7 +61961,20 @@ window.allHeroes =
             "defense": 792,
             "health": 1509
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Area"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Mana - Mana Gen ↓/Block",
+                    "Heal - Healing ↓",
+                    "Status - Buff Immunity"
+                ]
+            }
+        ]
     },
     {
         "name": "Rokkamush",
@@ -49179,7 +62023,19 @@ window.allHeroes =
             "defense": 829,
             "health": 1445
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: All",
+                    "Dmg: DoT"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Dmg - DoT : Bleed"
+                ]
+            }
+        ]
     },
     {
         "name": "Rokkamush C1",
@@ -49228,7 +62084,19 @@ window.allHeroes =
             "defense": 853,
             "health": 1472
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: All",
+                    "Dmg: DoT"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Dmg - DoT : Bleed"
+                ]
+            }
+        ]
     },
     {
         "name": "Scarlett",
@@ -49274,7 +62142,18 @@ window.allHeroes =
             "defense": 639,
             "health": 1309
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Minor to Nearby"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Atk - Attack ↓"
+                ]
+            }
+        ]
     },
     {
         "name": "Scarlett C1",
@@ -49323,7 +62202,24 @@ window.allHeroes =
             "defense": 721,
             "health": 1490
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Minor to Nearby",
+                    "Dmg: DoT"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Atk - Attack ↑"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Dmg - DoT : Poison"
+                ]
+            }
+        ]
     },
     {
         "name": "Scarlett C2",
@@ -49370,7 +62266,18 @@ window.allHeroes =
             "defense": 744,
             "health": 1611
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Minor to Nearby"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Atk - Attack ↓"
+                ]
+            }
+        ]
     },
     {
         "name": "Scarlett Toon",
@@ -49420,7 +62327,23 @@ window.allHeroes =
             "defense": 823,
             "health": 1628
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Minor to Nearby"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Dmg - Dmg ↑ : Nature"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Atk - Attack ↓"
+                ]
+            }
+        ]
     },
     {
         "name": "Shadereave",
@@ -49471,7 +62394,19 @@ window.allHeroes =
             "defense": 800,
             "health": 1710
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Heal: Revive"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Atk - Crit Chance ↑",
+                    "Atk - Attack ↑"
+                ]
+            }
+        ]
     },
     {
         "name": "Shale",
@@ -49525,7 +62460,18 @@ window.allHeroes =
             "defense": 789,
             "health": 1793
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Heal: Over Time"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Status - Cleanse Ailments"
+                ]
+            }
+        ]
     },
     {
         "name": "Sir Lancelot",
@@ -49574,7 +62520,19 @@ window.allHeroes =
             "defense": 671,
             "health": 1319
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Single"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Mana - Mana Gen ↑",
+                    "Atk - Attack ↑"
+                ]
+            }
+        ]
     },
     {
         "name": "Sumitomo",
@@ -49623,7 +62581,19 @@ window.allHeroes =
             "defense": 797,
             "health": 1402
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Single"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Def - Counterattack",
+                    "Mana - Mana Gain"
+                ]
+            }
+        ]
     },
     {
         "name": "Sumitomo C1",
@@ -49672,7 +62642,19 @@ window.allHeroes =
             "defense": 873,
             "health": 1492
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Single"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Def - Counterattack",
+                    "Mana - Mana Gain"
+                ]
+            }
+        ]
     },
     {
         "name": "Sumle",
@@ -49718,7 +62700,18 @@ window.allHeroes =
             "defense": 792,
             "health": 1357
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: All"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Dmg - Extra"
+                ]
+            }
+        ]
     },
     {
         "name": "Sumle C1",
@@ -49764,7 +62757,18 @@ window.allHeroes =
             "defense": 827,
             "health": 1463
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Area"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Dmg - Extra"
+                ]
+            }
+        ]
     },
     {
         "name": "Sun Shangxiang",
@@ -49810,7 +62814,18 @@ window.allHeroes =
             "defense": 687,
             "health": 1541
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Minor to Nearby"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Def - Defense ↓"
+                ]
+            }
+        ]
     },
     {
         "name": "Vonreine",
@@ -49864,7 +62879,23 @@ window.allHeroes =
             "defense": 856,
             "health": 1619
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Area"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Summon - Fiend"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Mana - Mana Steal"
+                ]
+            }
+        ]
     },
     {
         "name": "Wilbur",
@@ -49915,7 +62946,19 @@ window.allHeroes =
             "defense": 870,
             "health": 1440
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "增益效果": [
+                    "Def - Dmg Share",
+                    "Def - Defense ↑"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Def - Defense ↓"
+                ]
+            }
+        ]
     },
     {
         "name": "Wilbur C1",
@@ -49961,7 +63004,18 @@ window.allHeroes =
             "defense": 853,
             "health": 1509
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Heal: Over Time"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Atk - Attack ↑"
+                ]
+            }
+        ]
     },
     {
         "name": "Zhabog",
@@ -50010,7 +63064,18 @@ window.allHeroes =
             "defense": 760,
             "health": 1788
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Single"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Status - Reset Ailment Duration"
+                ]
+            }
+        ]
     },
     {
         "name": "Zhou Yu",
@@ -50059,7 +63124,24 @@ window.allHeroes =
             "defense": 845,
             "health": 1683
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Single",
+                    "Dmg: DoT"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Summon - Minion"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Dmg - DoT : Burn"
+                ]
+            }
+        ]
     },
     {
         "name": "Zhou Yu C1",
@@ -50113,7 +63195,24 @@ window.allHeroes =
             "defense": 868,
             "health": 1756
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Single",
+                    "Dmg: DoT"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Summon - Minion"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Dmg - DoT : Burn"
+                ]
+            }
+        ]
     },
     {
         "name": "Abigail",
@@ -50169,7 +63268,26 @@ window.allHeroes =
             "defense": 1435,
             "health": 2506
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: All",
+                    "Dmg: DoT"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Summon - Minion"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Dmg - DoT : Bleed",
+                    "Status - Insanity",
+                    "Status - Self-Debuff"
+                ]
+            }
+        ]
     },
     {
         "name": "Aethslegaur",
@@ -50230,7 +63348,25 @@ window.allHeroes =
             "defense": 1463,
             "health": 2837
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Single"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Dmg - Dmg ↑ : Nature",
+                    "Atk - Bypass Dodge"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Def - Dodge",
+                    "Mana - Stack : Mana Gen ↑"
+                ]
+            }
+        ]
     },
     {
         "name": "Alucard",
@@ -50285,7 +63421,21 @@ window.allHeroes =
             "defense": 990,
             "health": 1793
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Area"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Atk - Bypass / Ignore",
+                    "Atk - Destroy Minions",
+                    "Mana - Gain on Minion Destruction",
+                    "Heal - From Minions"
+                ]
+            }
+        ]
     },
     {
         "name": "Alucard C1",
@@ -50340,7 +63490,21 @@ window.allHeroes =
             "defense": 1200,
             "health": 2396
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Area"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Atk - Bypass / Ignore",
+                    "Atk - Destroy Minions",
+                    "Mana - Gain on Minion Destruction",
+                    "Heal - From Minions"
+                ]
+            }
+        ]
     },
     {
         "name": "Amber",
@@ -50391,7 +63555,23 @@ window.allHeroes =
             "defense": 1092,
             "health": 2082
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Single"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Heal - From Dmg"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Heal - Block Healing"
+                ]
+            }
+        ]
     },
     {
         "name": "Andy Jay",
@@ -50444,7 +63624,18 @@ window.allHeroes =
             "defense": 1473,
             "health": 2705
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: All"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Def - Defense ↑"
+                ]
+            }
+        ]
     },
     {
         "name": "Anzogh",
@@ -50494,7 +63685,14 @@ window.allHeroes =
             "defense": 977,
             "health": 1577
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Heal: From Dmg",
+                    "Atk: All"
+                ]
+            }
+        ]
     },
     {
         "name": "Aradia",
@@ -50544,7 +63742,20 @@ window.allHeroes =
             "defense": 1059,
             "health": 2291
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Dmg: DoT"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Heal - Max Health ↓",
+                    "Heal - Healing ↓",
+                    "Dmg - DoT : Burn"
+                ]
+            }
+        ]
     },
     {
         "name": "Araminta",
@@ -50599,7 +63810,23 @@ window.allHeroes =
             "defense": 1361,
             "health": 2684
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: All"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Mana - Mana Gain"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Def - Stack : Dmg Taken ↑"
+                ]
+            }
+        ]
     },
     {
         "name": "Ares",
@@ -50649,7 +63876,19 @@ window.allHeroes =
             "defense": 914,
             "health": 1778
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Heal: Over Time"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Atk - Crit Chance ↑",
+                    "Atk - Attack ↑"
+                ]
+            }
+        ]
     },
     {
         "name": "Ares C1",
@@ -50703,7 +63942,20 @@ window.allHeroes =
             "defense": 1121,
             "health": 2581
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Heal: Boost Health",
+                    "Heal: Over Time"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Def - Counterattack",
+                    "Atk - Attack ↑"
+                ]
+            }
+        ]
     },
     {
         "name": "Ascension Mimic",
@@ -50769,7 +64021,30 @@ window.allHeroes =
             "defense": 1564,
             "health": 2654
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Area",
+                    "Dmg: DoT"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Heal - Self Recovery",
+                    "Mana - Mana Gain (on Kill)"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Def - Mimic"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Dmg - DoT : Bleed"
+                ]
+            }
+        ]
     },
     {
         "name": "Ash",
@@ -50823,7 +64098,23 @@ window.allHeroes =
             "defense": 1318,
             "health": 2263
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Random"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Dmg - Tile : Up"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Def - Def ↓ : Fire"
+                ]
+            }
+        ]
     },
     {
         "name": "Asterius",
@@ -50876,7 +64167,27 @@ window.allHeroes =
             "defense": 939,
             "health": 1671
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Area",
+                    "Dmg: DoT"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Dmg - Extra",
+                    "Dmg - Extra",
+                    "Status - Reduce Buff Duration"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Dmg - DoT : Burn",
+                    "Def - Defense ↓"
+                ]
+            }
+        ]
     },
     {
         "name": "Aurum",
@@ -50939,7 +64250,20 @@ window.allHeroes =
             "defense": 1407,
             "health": 2288
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Variable Targets",
+                    "Dmg: DoT"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Dmg - DoT : Bleed",
+                    "Def - Stack : Dmg Taken ↑"
+                ]
+            }
+        ]
     },
     {
         "name": "Azlar",
@@ -50985,7 +64309,19 @@ window.allHeroes =
             "defense": 749,
             "health": 1630
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: All",
+                    "Dmg: DoT"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Dmg - DoT : Burn"
+                ]
+            }
+        ]
     },
     {
         "name": "Azlar C1",
@@ -51033,7 +64369,24 @@ window.allHeroes =
             "defense": 880,
             "health": 1813
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Area",
+                    "Dmg: DoT"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Dmg - Extra"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Dmg - DoT : Burn"
+                ]
+            }
+        ]
     },
     {
         "name": "Azlar C2",
@@ -51080,7 +64433,24 @@ window.allHeroes =
             "defense": 998,
             "health": 2230
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Area",
+                    "Dmg: DoT"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Heal - From Dmg"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Dmg - DoT : Burn"
+                ]
+            }
+        ]
     },
     {
         "name": "Azlar Toon",
@@ -51130,7 +64500,24 @@ window.allHeroes =
             "defense": 1302,
             "health": 2655
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: All",
+                    "Dmg: DoT"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Dmg - Dmg ↑ : Nature"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Dmg - DoT : Burn"
+                ]
+            }
+        ]
     },
     {
         "name": "Azlar Glass",
@@ -51180,7 +64567,24 @@ window.allHeroes =
             "defense": 1466,
             "health": 2789
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: All",
+                    "Dmg: DoT"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Atk - Bypass / Ignore"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Dmg - DoT : Burn"
+                ]
+            }
+        ]
     },
     {
         "name": "Baldur",
@@ -51232,7 +64636,19 @@ window.allHeroes =
             "defense": 858,
             "health": 1635
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Random",
+                    "Heal: Boost Health"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Atk - Extra Attack"
+                ]
+            }
+        ]
     },
     {
         "name": "Baldur C1",
@@ -51285,7 +64701,19 @@ window.allHeroes =
             "defense": 1144,
             "health": 2251
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Single",
+                    "Heal: Boost Health"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Atk - Extra Attack"
+                ]
+            }
+        ]
     },
     {
         "name": "Barkley",
@@ -51339,7 +64767,20 @@ window.allHeroes =
             "defense": 1005,
             "health": 1882
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Area",
+                    "Atk: Random"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Summon - Fiend",
+                    "Dmg - Explosion"
+                ]
+            }
+        ]
     },
     {
         "name": "Bearnadette",
@@ -51393,7 +64834,23 @@ window.allHeroes =
             "defense": 1397,
             "health": 2491
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: All"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Status - Dispel Buffs"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Def - Change Position"
+                ]
+            }
+        ]
     },
     {
         "name": "Beowulf",
@@ -51451,7 +64908,20 @@ window.allHeroes =
             "defense": 1366,
             "health": 2616
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Heal: Instant",
+                    "Atk: Single"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Atk - Stack : Atk ↑",
+                    "Mana - Mana Gain"
+                ]
+            }
+        ]
     },
     {
         "name": "Bhima",
@@ -51512,7 +64982,25 @@ window.allHeroes =
             "defense": 1475,
             "health": 2661
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Area"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Atk - Bypass Dodge",
+                    "Dmg - Extra"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Heal - Max Health ↓",
+                    "Atk - Accuracy ↓"
+                ]
+            }
+        ]
     },
     {
         "name": "Black Caesar",
@@ -51564,7 +65052,23 @@ window.allHeroes =
             "defense": 1242,
             "health": 2197
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: All"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Summon - Fiend"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Atk - Attack ↓"
+                ]
+            }
+        ]
     },
     {
         "name": "Black Knight",
@@ -51612,7 +65116,15 @@ window.allHeroes =
             "defense": 1043,
             "health": 1798
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "增益效果": [
+                    "Def - Dmg Reduction",
+                    "Def - Taunt",
+                    "Atk - Attack ↑"
+                ]
+            }
+        ]
     },
     {
         "name": "Black Knight C1",
@@ -51661,7 +65173,15 @@ window.allHeroes =
             "defense": 1288,
             "health": 2499
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "增益效果": [
+                    "Def - Dmg Reduction",
+                    "Def - Taunt",
+                    "Atk - Attack ↑"
+                ]
+            }
+        ]
     },
     {
         "name": "Blossom",
@@ -51713,7 +65233,19 @@ window.allHeroes =
             "defense": 1236,
             "health": 2329
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Heal: Instant",
+                    "Heal: Special"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Status - Dispel Buffs"
+                ]
+            }
+        ]
     },
     {
         "name": "Bonecrusher",
@@ -51766,7 +65298,18 @@ window.allHeroes =
             "defense": 1038,
             "health": 1877
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Single"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Atk - Stack : Atk ↑"
+                ]
+            }
+        ]
     },
     {
         "name": "Brimstone",
@@ -51826,7 +65369,28 @@ window.allHeroes =
             "defense": 1115,
             "health": 2176
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: All"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Summon - Fiend"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Def - Def ↑ : Ice"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Def - Def ↓ : Fire"
+                ]
+            }
+        ]
     },
     {
         "name": "Captain Kestrel",
@@ -51871,7 +65435,18 @@ window.allHeroes =
             "defense": 866,
             "health": 1668
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Area"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Dmg - Extra"
+                ]
+            }
+        ]
     },
     {
         "name": "Captain Nemo",
@@ -51918,7 +65493,18 @@ window.allHeroes =
             "defense": 927,
             "health": 1645
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Single"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Dmg - Extra"
+                ]
+            }
+        ]
     },
     {
         "name": "Captain Nemo C1",
@@ -51967,7 +65553,18 @@ window.allHeroes =
             "defense": 1211,
             "health": 2166
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Single"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Dmg - Extra"
+                ]
+            }
+        ]
     },
     {
         "name": "Cardinal Richelieu",
@@ -52020,7 +65617,19 @@ window.allHeroes =
             "defense": 1071,
             "health": 2214
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: All"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Summon - Fiend",
+                    "Status - Steal Buffs"
+                ]
+            }
+        ]
     },
     {
         "name": "Carmenta",
@@ -52071,7 +65680,19 @@ window.allHeroes =
             "defense": 1087,
             "health": 2219
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Minor to Nearby"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Status - Redistribute Ailments",
+                    "Status - Reset Ailment Duration"
+                ]
+            }
+        ]
     },
     {
         "name": "Ceris",
@@ -52129,7 +65750,25 @@ window.allHeroes =
             "defense": 1488,
             "health": 2573
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Single"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Atk - Chain"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Mana - Mindless/Silence/Sleep",
+                    "Atk - Wither : Atk↓",
+                    "Def - Wither : Def↓"
+                ]
+            }
+        ]
     },
     {
         "name": "Charlotta",
@@ -52186,7 +65825,24 @@ window.allHeroes =
             "defense": 1244,
             "health": 2545
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Area"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Dmg - Explosion"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Mana - Mana Gen ↓/Block",
+                    "Heal - Healing ↓"
+                ]
+            }
+        ]
     },
     {
         "name": "Charmione",
@@ -52241,7 +65897,19 @@ window.allHeroes =
             "defense": 1394,
             "health": 2999
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Area"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Mana - Paralyze",
+                    "Status - Devouring Goo"
+                ]
+            }
+        ]
     },
     {
         "name": "Chomper",
@@ -52293,7 +65961,20 @@ window.allHeroes =
             "defense": 1064,
             "health": 1874
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Heal: From Dmg",
+                    "Atk: Area",
+                    "Dmg: DoT"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Dmg - DoT : Bleed"
+                ]
+            }
+        ]
     },
     {
         "name": "Chunkyroi",
@@ -52349,7 +66030,20 @@ window.allHeroes =
             "defense": 1602,
             "health": 2512
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Heal: Boost Health",
+                    "Heal: Instant",
+                    "Heal: Special"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Status - Cleanse Ailments"
+                ]
+            }
+        ]
     },
     {
         "name": "Cinderella",
@@ -52405,7 +66099,20 @@ window.allHeroes =
             "defense": 1267,
             "health": 2062
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "增益效果": [
+                    "Def - Dmg Share",
+                    "Def - Defense ↑"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Def - Defense ↓",
+                    "Status - Cleanse Ailments"
+                ]
+            }
+        ]
     },
     {
         "name": "Cleaver",
@@ -52459,7 +66166,23 @@ window.allHeroes =
             "defense": 1064,
             "health": 1973
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: All"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Summon - Fiend"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Atk - Attack ↓"
+                ]
+            }
+        ]
     },
     {
         "name": "Cookie",
@@ -52508,7 +66231,20 @@ window.allHeroes =
             "defense": 1193,
             "health": 2054
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "特殊效果": [
+                    "Mana - Mana Cut",
+                    "Summon - Minion",
+                    "Dmg - Explosion"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Mana - Mana Gen ↓/Block"
+                ]
+            }
+        ]
     },
     {
         "name": "Cupido",
@@ -52558,7 +66294,18 @@ window.allHeroes =
             "defense": 993,
             "health": 1905
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Area"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Mana - Mindless/Silence/Sleep"
+                ]
+            }
+        ]
     },
     {
         "name": "D Artagnan",
@@ -52609,7 +66356,20 @@ window.allHeroes =
             "defense": 1028,
             "health": 1905
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Heal: Over Time",
+                    "Atk: Single",
+                    "Dmg: DoT"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Dmg - DoT : Burn"
+                ]
+            }
+        ]
     },
     {
         "name": "Daemon",
@@ -52663,7 +66423,24 @@ window.allHeroes =
             "defense": 1209,
             "health": 2133
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Single"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Status - Dispel Buffs"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Status - Buff Immunity",
+                    "Status - Block Talent"
+                ]
+            }
+        ]
     },
     {
         "name": "Dima",
@@ -52718,7 +66495,25 @@ window.allHeroes =
             "defense": 1371,
             "health": 2420
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Area",
+                    "Dmg: DoT"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Summon - Mega Minion"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Dmg - DoT : Bleed",
+                    "Def - Defense ↓"
+                ]
+            }
+        ]
     },
     {
         "name": "Domiventus",
@@ -52777,7 +66572,20 @@ window.allHeroes =
             "defense": 1221,
             "health": 2225
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Area",
+                    "Dmg: DoT"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Dmg - DoT : Burn",
+                    "Def - Defense ↓"
+                ]
+            }
+        ]
     },
     {
         "name": "Domiventus C1",
@@ -52837,7 +66645,20 @@ window.allHeroes =
             "defense": 1596,
             "health": 2880
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Area",
+                    "Dmg: DoT"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Dmg - DoT : Burn",
+                    "Def - Defense ↓"
+                ]
+            }
+        ]
     },
     {
         "name": "Doxan",
@@ -52891,7 +66712,19 @@ window.allHeroes =
             "defense": 1021,
             "health": 2103
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Single",
+                    "Dmg: DoT"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Dmg - DoT : Burn"
+                ]
+            }
+        ]
     },
     {
         "name": "Dunnar Hart",
@@ -52951,7 +66784,30 @@ window.allHeroes =
             "defense": 1529,
             "health": 2760
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: All",
+                    "Dmg: DoT"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Heal - Self Recovery"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Mana - Mana Gen ↑"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Dmg - DoT : Burn",
+                    "Def - Defense ↓"
+                ]
+            }
+        ]
     },
     {
         "name": "Ebba",
@@ -53007,7 +66863,24 @@ window.allHeroes =
             "defense": 1056,
             "health": 1993
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Single"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Atk - Extra Attack"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Status - Buff Immunity",
+                    "Atk - Attack ↓"
+                ]
+            }
+        ]
     },
     {
         "name": "El Duque",
@@ -53057,7 +66930,18 @@ window.allHeroes =
             "defense": 962,
             "health": 1826
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Minor to Nearby"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Def - Stack : Def ↓"
+                ]
+            }
+        ]
     },
     {
         "name": "Elba",
@@ -53108,7 +66992,19 @@ window.allHeroes =
             "defense": 1168,
             "health": 2032
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Heal: Special",
+                    "Atk: Area"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Def - Counterattack"
+                ]
+            }
+        ]
     },
     {
         "name": "Elena",
@@ -53154,7 +67050,18 @@ window.allHeroes =
             "defense": 713,
             "health": 1617
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: All"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Def - Counterattack"
+                ]
+            }
+        ]
     },
     {
         "name": "Elena C1",
@@ -53200,7 +67107,18 @@ window.allHeroes =
             "defense": 779,
             "health": 1893
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: All"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Def - Counterattack"
+                ]
+            }
+        ]
     },
     {
         "name": "Elena C2",
@@ -53246,7 +67164,18 @@ window.allHeroes =
             "defense": 1047,
             "health": 2456
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: All"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Def - Counterattack"
+                ]
+            }
+        ]
     },
     {
         "name": "Elena Toon",
@@ -53296,7 +67225,23 @@ window.allHeroes =
             "defense": 1385,
             "health": 2930
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: All"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Dmg - Dmg ↑ : Nature"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Def - Counterattack"
+                ]
+            }
+        ]
     },
     {
         "name": "Elena Glass",
@@ -53347,7 +67292,23 @@ window.allHeroes =
             "defense": 1155,
             "health": 3074
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: All"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Atk - Bypass / Ignore"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Def - Counterattack"
+                ]
+            }
+        ]
     },
     {
         "name": "Eliane",
@@ -53401,7 +67362,24 @@ window.allHeroes =
             "defense": 1366,
             "health": 2219
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: All",
+                    "Dmg: DoT"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Status - Dispel Buffs"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Dmg - DoT : Burn"
+                ]
+            }
+        ]
     },
     {
         "name": "Elizabeth",
@@ -53454,7 +67432,23 @@ window.allHeroes =
             "defense": 929,
             "health": 1785
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: All"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Summon - Fiend"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Mana - Mana Gen ↓/Block"
+                ]
+            }
+        ]
     },
     {
         "name": "Elizabeth C1",
@@ -53510,7 +67504,23 @@ window.allHeroes =
             "defense": 1218,
             "health": 2331
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: All"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Summon - Fiend"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Mana - Mana Gen ↓/Block"
+                ]
+            }
+        ]
     },
     {
         "name": "Ember",
@@ -53564,7 +67574,25 @@ window.allHeroes =
             "defense": 1526,
             "health": 2346
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: All",
+                    "Dmg: DoT"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Summon - Minion"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Dmg - DoT : Burn",
+                    "Def - Defense ↓"
+                ]
+            }
+        ]
     },
     {
         "name": "Emilio",
@@ -53620,7 +67648,29 @@ window.allHeroes =
             "defense": 990,
             "health": 1734
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Heal: Over Time",
+                    "Dmg: DoT"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Atk - Gamble / Random"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Status - Ailment Immunity"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Dmg - DoT : Burn"
+                ]
+            }
+        ]
     },
     {
         "name": "Emilio C1",
@@ -53678,7 +67728,29 @@ window.allHeroes =
             "defense": 1434,
             "health": 2880
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Heal: Over Time",
+                    "Dmg: DoT"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Atk - Gamble / Random"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Status - Ailment Immunity"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Dmg - DoT : Burn"
+                ]
+            }
+        ]
     },
     {
         "name": "Erebus",
@@ -53738,7 +67810,23 @@ window.allHeroes =
             "defense": 1008,
             "health": 1874
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Single"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Atk - Destroy Minions"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Status - Block Minions"
+                ]
+            }
+        ]
     },
     {
         "name": "Eron",
@@ -53789,7 +67877,24 @@ window.allHeroes =
             "defense": 1320,
             "health": 2070
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Single"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Dmg - Dmg ↑ : Holy"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Mana - Mindless/Silence/Sleep",
+                    "Def - Defense ↓"
+                ]
+            }
+        ]
     },
     {
         "name": "Experience Mimic",
@@ -53851,7 +67956,25 @@ window.allHeroes =
             "defense": 1524,
             "health": 2616
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Single"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Atk - Destroy Minions",
+                    "Mana - Mana Gain (on Kill)",
+                    "Heal - Self Recovery"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Def - Mimic"
+                ]
+            }
+        ]
     },
     {
         "name": "Fimafeng",
@@ -53911,7 +68034,30 @@ window.allHeroes =
             "defense": 1490,
             "health": 2804
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Single"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Atk - Bypass Dodge",
+                    "Dmg - Dmg ↑ : Fire"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Mana - Stack : Mana Gen ↑",
+                    "Def - Stack : Def ↑"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Status - Cleanse Ailments"
+                ]
+            }
+        ]
     },
     {
         "name": "Flamehide",
@@ -53963,7 +68109,24 @@ window.allHeroes =
             "defense": 1432,
             "health": 2669
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Single",
+                    "Dmg: DoT"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Summon - Mega Minion"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Dmg - DoT : Bleed"
+                ]
+            }
+        ]
     },
     {
         "name": "Flip",
@@ -54015,7 +68178,23 @@ window.allHeroes =
             "defense": 1069,
             "health": 1884
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Heal: Instant"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Atk - Bypass / Ignore"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Atk - Crit Chance ↑"
+                ]
+            }
+        ]
     },
     {
         "name": "Flip C1",
@@ -54067,7 +68246,23 @@ window.allHeroes =
             "defense": 1531,
             "health": 2757
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Heal: Instant"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Atk - Bypass / Ignore"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Atk - Crit Chance ↑"
+                ]
+            }
+        ]
     },
     {
         "name": "Fulvia",
@@ -54119,7 +68314,24 @@ window.allHeroes =
             "defense": 1247,
             "health": 1902
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Area"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Dmg - Dmg ↑ : Holy"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Heal - Healing ↓",
+                    "Mana - Mana Gen ↓/Block"
+                ]
+            }
+        ]
     },
     {
         "name": "Garnet",
@@ -54173,7 +68385,18 @@ window.allHeroes =
             "defense": 927,
             "health": 1826
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Heal: Boost Health"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Status - Ailment Immunity"
+                ]
+            }
+        ]
     },
     {
         "name": "Gefjon",
@@ -54219,7 +68442,18 @@ window.allHeroes =
             "defense": 944,
             "health": 1551
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Single"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Atk - Steal Minions"
+                ]
+            }
+        ]
     },
     {
         "name": "Gefjon C1",
@@ -54265,7 +68499,18 @@ window.allHeroes =
             "defense": 1218,
             "health": 2131
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Area"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Atk - Destroy Minions"
+                ]
+            }
+        ]
     },
     {
         "name": "Gestalt",
@@ -54327,7 +68572,24 @@ window.allHeroes =
             "defense": 1170,
             "health": 2219
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Random"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Dmg - Explosion"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Mana - Mana Gen ↓/Block",
+                    "Def - Defense ↓"
+                ]
+            }
+        ]
     },
     {
         "name": "Gestalt C1",
@@ -54390,7 +68652,24 @@ window.allHeroes =
             "defense": 1120,
             "health": 2169
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Random"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Dmg - Explosion"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Mana - Mana Gen ↓/Block",
+                    "Def - Defense ↓"
+                ]
+            }
+        ]
     },
     {
         "name": "Gooze",
@@ -54443,7 +68722,23 @@ window.allHeroes =
             "defense": 1478,
             "health": 2948
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "特殊效果": [
+                    "Status - Steal Buffs"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Def - Defense ↑"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Status - Insanity"
+                ]
+            }
+        ]
     },
     {
         "name": "Gravemaker",
@@ -54494,7 +68789,24 @@ window.allHeroes =
             "defense": 873,
             "health": 1681
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Area",
+                    "Dmg: DoT"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Dmg - Dmg ↑ : Nature"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Dmg - DoT : Burn"
+                ]
+            }
+        ]
     },
     {
         "name": "Gravemaker C1",
@@ -54546,7 +68858,24 @@ window.allHeroes =
             "defense": 1104,
             "health": 2485
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: All",
+                    "Dmg: DoT"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Dmg - Dmg ↑ : Nature"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Dmg - DoT : Burn"
+                ]
+            }
+        ]
     },
     {
         "name": "Grazul",
@@ -54596,7 +68925,18 @@ window.allHeroes =
             "defense": 1008,
             "health": 1734
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Heal: Instant"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Status - Ailment Immunity"
+                ]
+            }
+        ]
     },
     {
         "name": "Guardian Kong",
@@ -54645,7 +68985,23 @@ window.allHeroes =
             "defense": 723,
             "health": 1767
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: All"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Def - Def ↑ : Ice"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Status - Cleanse Ailments"
+                ]
+            }
+        ]
     },
     {
         "name": "Guardian Kong C1",
@@ -54695,7 +69051,19 @@ window.allHeroes =
             "defense": 917,
             "health": 2420
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: All"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Def - Reflect : Ice",
+                    "Status - Dispel Buffs"
+                ]
+            }
+        ]
     },
     {
         "name": "Guffa",
@@ -54750,7 +69118,19 @@ window.allHeroes =
             "defense": 1371,
             "health": 2641
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Heal: Special"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Def - Dmg Reduction",
+                    "Def - Taunt"
+                ]
+            }
+        ]
     },
     {
         "name": "Hammerclang",
@@ -54805,7 +69185,24 @@ window.allHeroes =
             "defense": 1297,
             "health": 2070
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Minor to Nearby"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Atk - Bypass Dodge"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Def - Dmg Taken ↑",
+                    "Atk - Attack ↓"
+                ]
+            }
+        ]
     },
     {
         "name": "Hathor",
@@ -54855,7 +69252,18 @@ window.allHeroes =
             "defense": 980,
             "health": 1986
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Heal: Instant"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Status - Ailment Immunity"
+                ]
+            }
+        ]
     },
     {
         "name": "Hathor C1",
@@ -54909,7 +69317,19 @@ window.allHeroes =
             "defense": 1395,
             "health": 2813
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Heal: Over Time",
+                    "Heal: Boost Health"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Status - Ailment Immunity"
+                ]
+            }
+        ]
     },
     {
         "name": "Hohenwerf",
@@ -54962,7 +69382,24 @@ window.allHeroes =
             "defense": 988,
             "health": 1851
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Single"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Summon - Fiend",
+                    "Dmg - Explosion"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Mana - Mindless/Silence/Sleep"
+                ]
+            }
+        ]
     },
     {
         "name": "Hornfel",
@@ -55017,7 +69454,18 @@ window.allHeroes =
             "defense": 1369,
             "health": 2308
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Minor to Nearby"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Atk - Attack ↑"
+                ]
+            }
+        ]
     },
     {
         "name": "Hypnos",
@@ -55079,7 +69527,23 @@ window.allHeroes =
             "defense": 962,
             "health": 1854
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: All"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Status - Dispel Buffs"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Status - Buff Immunity"
+                ]
+            }
+        ]
     },
     {
         "name": "Iarlaith",
@@ -55131,7 +69595,23 @@ window.allHeroes =
             "defense": 1445,
             "health": 2679
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Single"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Dmg - Extra"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Def - Stack : Dmg Taken ↑"
+                ]
+            }
+        ]
     },
     {
         "name": "Ignazio",
@@ -55189,7 +69669,24 @@ window.allHeroes =
             "defense": 1140,
             "health": 2283
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Heal: Instant",
+                    "Heal: Special"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Def - Defense ↑"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Status - Cleanse Ailments"
+                ]
+            }
+        ]
     },
     {
         "name": "Ignazio C1",
@@ -55247,7 +69744,24 @@ window.allHeroes =
             "defense": 1547,
             "health": 3092
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Heal: Instant",
+                    "Heal: Special"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Atk - Attack ↑"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Status - Cleanse Ailments"
+                ]
+            }
+        ]
     },
     {
         "name": "Ilmarinen",
@@ -55298,7 +69812,23 @@ window.allHeroes =
             "defense": 1143,
             "health": 2212
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "特殊效果": [
+                    "Mana - Mana Cut"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Def - Dmg Share"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Def - Defense ↓"
+                ]
+            }
+        ]
     },
     {
         "name": "Iocantha",
@@ -55351,7 +69881,19 @@ window.allHeroes =
             "defense": 1330,
             "health": 2341
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Random"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Atk - Bypass / Ignore",
+                    "Status - Reduce Buff Duration"
+                ]
+            }
+        ]
     },
     {
         "name": "Isidore",
@@ -55406,7 +69948,19 @@ window.allHeroes =
             "defense": 1379,
             "health": 2661
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Random"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Def - Def ↓ : Special",
+                    "Heal - Healing ↓"
+                ]
+            }
+        ]
     },
     {
         "name": "Isrod",
@@ -55455,7 +70009,19 @@ window.allHeroes =
             "defense": 947,
             "health": 1755
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Area"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Def - Counterattack",
+                    "Mana - Mana Gain"
+                ]
+            }
+        ]
     },
     {
         "name": "Jean-Francois",
@@ -55506,7 +70072,25 @@ window.allHeroes =
             "defense": 891,
             "health": 1643
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Dmg: DoT"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Status - Block Ailments",
+                    "Def - Def ↑ : Ice",
+                    "Def - Defense ↑"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Dmg - DoT : Burn"
+                ]
+            }
+        ]
     },
     {
         "name": "Khagan",
@@ -55555,7 +70139,19 @@ window.allHeroes =
             "defense": 792,
             "health": 1798
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Area"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Mana - Mana Gen ↑",
+                    "Def - Defense ↑"
+                ]
+            }
+        ]
     },
     {
         "name": "Khagan C1",
@@ -55604,7 +70200,19 @@ window.allHeroes =
             "defense": 917,
             "health": 1936
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Single"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Mana - Mana Gen ↑",
+                    "Def - Defense ↑"
+                ]
+            }
+        ]
     },
     {
         "name": "Khagan C2",
@@ -55653,7 +70261,19 @@ window.allHeroes =
             "defense": 1060,
             "health": 2453
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: All"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Mana - Mana Gain",
+                    "Def - Defense ↑"
+                ]
+            }
+        ]
     },
     {
         "name": "Khagan Toon",
@@ -55706,7 +70326,24 @@ window.allHeroes =
             "defense": 1188,
             "health": 2978
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Area"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Dmg - Dmg ↑ : Nature"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Mana - Mana Gen ↑",
+                    "Def - Defense ↑"
+                ]
+            }
+        ]
     },
     {
         "name": "Khagan Glass",
@@ -55760,7 +70397,24 @@ window.allHeroes =
             "defense": 1333,
             "health": 3127
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Area"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Atk - Bypass / Ignore"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Mana - Mana Gen ↑",
+                    "Def - Defense ↑"
+                ]
+            }
+        ]
     },
     {
         "name": "Khufu",
@@ -55813,7 +70467,23 @@ window.allHeroes =
             "defense": 988,
             "health": 1958
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Single"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Atk - Chain"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Def - Def ↓ : Fire"
+                ]
+            }
+        ]
     },
     {
         "name": "Khufu C1",
@@ -55867,7 +70537,23 @@ window.allHeroes =
             "defense": 1356,
             "health": 2743
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Single"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Atk - Chain"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Def - Def ↓ : Fire"
+                ]
+            }
+        ]
     },
     {
         "name": "Kravekrush",
@@ -55916,7 +70602,18 @@ window.allHeroes =
             "defense": 957,
             "health": 1737
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Minor to Nearby"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Heal - Block Revive"
+                ]
+            }
+        ]
     },
     {
         "name": "Kravekrush C1",
@@ -55966,7 +70663,18 @@ window.allHeroes =
             "defense": 1224,
             "health": 2396
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Minor to Nearby"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Heal - Block Revive"
+                ]
+            }
+        ]
     },
     {
         "name": "Lady Loki",
@@ -56014,7 +70722,19 @@ window.allHeroes =
             "defense": 957,
             "health": 1617
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: All"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Status - Redistribute Ailments",
+                    "Dmg - Extra"
+                ]
+            }
+        ]
     },
     {
         "name": "Lady Loki C1",
@@ -56062,7 +70782,19 @@ window.allHeroes =
             "defense": 1349,
             "health": 2182
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: All"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Status - Redistribute Ailments",
+                    "Dmg - Extra"
+                ]
+            }
+        ]
     },
     {
         "name": "Lasalle",
@@ -56123,7 +70855,18 @@ window.allHeroes =
             "defense": 1049,
             "health": 1976
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Single"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Summon - Fiend"
+                ]
+            }
+        ]
     },
     {
         "name": "Lasalle C1",
@@ -56184,7 +70927,18 @@ window.allHeroes =
             "defense": 1497,
             "health": 2791
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: All"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Summon - Fiend"
+                ]
+            }
+        ]
     },
     {
         "name": "Lewena",
@@ -56231,7 +70985,18 @@ window.allHeroes =
             "defense": 985,
             "health": 1727
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: All"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Status - Block Talent"
+                ]
+            }
+        ]
     },
     {
         "name": "Li Kui",
@@ -56291,7 +71056,20 @@ window.allHeroes =
             "defense": 1590,
             "health": 2758
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Random"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Def - Dmg Reduction",
+                    "Def - Taunt",
+                    "Atk - Crit Chance ↑"
+                ]
+            }
+        ]
     },
     {
         "name": "Lodius",
@@ -56342,7 +71120,30 @@ window.allHeroes =
             "defense": 1280,
             "health": 1973
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Single",
+                    "Heal: From Dmg"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Dmg - Dmg ↑ : Holy",
+                    "Atk - Bypass Dodge"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Def - Counterattack"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Mana - Mana Gen ↓/Block"
+                ]
+            }
+        ]
     },
     {
         "name": "Madhammer",
@@ -56397,7 +71198,25 @@ window.allHeroes =
             "defense": 1143,
             "health": 2085
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Single"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Atk - Extra Attack",
+                    "Summon - Mega Minion",
+                    "Atk - Gamble / Random"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Status - Block Cleanse"
+                ]
+            }
+        ]
     },
     {
         "name": "Malum",
@@ -56463,7 +71282,25 @@ window.allHeroes =
             "defense": 1363,
             "health": 1841
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Area",
+                    "Dmg: DoT"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Atk - Bypass / Ignore"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Heal - Max Health ↓",
+                    "Heal - Block Healing"
+                ]
+            }
+        ]
     },
     {
         "name": "Marjana",
@@ -56509,7 +71346,19 @@ window.allHeroes =
             "defense": 878,
             "health": 1732
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Single",
+                    "Dmg: DoT"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Dmg - DoT : Burn"
+                ]
+            }
+        ]
     },
     {
         "name": "Marjana C1",
@@ -56558,7 +71407,19 @@ window.allHeroes =
             "defense": 935,
             "health": 1899
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Minor to Nearby"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Atk - Attack ↓",
+                    "Def - Def ↓ : Fire"
+                ]
+            }
+        ]
     },
     {
         "name": "Marjana C2",
@@ -56607,7 +71468,20 @@ window.allHeroes =
             "defense": 1068,
             "health": 2420
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Area",
+                    "Dmg: DoT"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Dmg - DoT : Burn",
+                    "Def - Defense ↓"
+                ]
+            }
+        ]
     },
     {
         "name": "Marjana Toon",
@@ -56657,7 +71531,24 @@ window.allHeroes =
             "defense": 1342,
             "health": 2857
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Single",
+                    "Dmg: DoT"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Dmg - Dmg ↑ : Nature"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Dmg - DoT : Burn"
+                ]
+            }
+        ]
     },
     {
         "name": "Marjana Glass",
@@ -56708,7 +71599,24 @@ window.allHeroes =
             "defense": 1426,
             "health": 2906
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Single",
+                    "Dmg: DoT"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Atk - Bypass / Ignore"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Dmg - DoT : Burn"
+                ]
+            }
+        ]
     },
     {
         "name": "Mitsuko",
@@ -56758,7 +71666,23 @@ window.allHeroes =
             "defense": 896,
             "health": 1788
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Area"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Mana - Mana Cut"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Def - Reflect : Ice"
+                ]
+            }
+        ]
     },
     {
         "name": "Mitsuko C1",
@@ -56808,7 +71732,23 @@ window.allHeroes =
             "defense": 1066,
             "health": 2354
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: All"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Def - Reflect : Ice"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Mana - Mana Gen ↓/Block"
+                ]
+            }
+        ]
     },
     {
         "name": "Nadezhda",
@@ -56869,7 +71809,27 @@ window.allHeroes =
             "defense": 965,
             "health": 1783
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Heal: Over Time",
+                    "Heal: Revive",
+                    "Atk: Area",
+                    "Dmg: DoT"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Heal - Self Revive",
+                    "Def - Dmg Reduction"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Dmg - DoT : Burn"
+                ]
+            }
+        ]
     },
     {
         "name": "Nadezhda C1",
@@ -56932,7 +71892,26 @@ window.allHeroes =
             "defense": 1499,
             "health": 2774
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Heal: Over Time",
+                    "Heal: Revive",
+                    "Dmg: DoT"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Def - Dmg Reduction",
+                    "Heal - Self Revive"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Dmg - DoT : Burn"
+                ]
+            }
+        ]
     },
     {
         "name": "Naeem",
@@ -56990,7 +71969,29 @@ window.allHeroes =
             "defense": 1508,
             "health": 2697
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Area",
+                    "Dmg: DoT"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Status - Replace with Ailment"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Def - Counterattack"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Dmg - DoT : Sand"
+                ]
+            }
+        ]
     },
     {
         "name": "Natalya",
@@ -57040,7 +72041,24 @@ window.allHeroes =
             "defense": 838,
             "health": 1750
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Dmg: DoT"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Dmg - Dmg ↑ : Nature"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Mana - Mana Gen ↓/Block",
+                    "Dmg - DoT : Burn"
+                ]
+            }
+        ]
     },
     {
         "name": "Natalya C1",
@@ -57093,7 +72111,24 @@ window.allHeroes =
             "defense": 1066,
             "health": 2496
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Dmg: DoT"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Dmg - Dmg ↑ : Nature"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Mana - Mana Gen ↓/Block",
+                    "Dmg - DoT : Burn"
+                ]
+            }
+        ]
     },
     {
         "name": "Neema",
@@ -57149,7 +72184,23 @@ window.allHeroes =
             "defense": 1117,
             "health": 1981
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: All"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Summon - Fiend"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Status - Buff Immunity"
+                ]
+            }
+        ]
     },
     {
         "name": "Nibbles",
@@ -57201,7 +72252,19 @@ window.allHeroes =
             "defense": 1450,
             "health": 2664
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Heal: Instant",
+                    "Heal: Over Time"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Status - Steal Buffs"
+                ]
+            }
+        ]
     },
     {
         "name": "Niki",
@@ -57255,7 +72318,19 @@ window.allHeroes =
             "defense": 1277,
             "health": 2260
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: All",
+                    "Heal: Special"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Atk - Bypass Dodge"
+                ]
+            }
+        ]
     },
     {
         "name": "Nomad",
@@ -57317,7 +72392,24 @@ window.allHeroes =
             "defense": 1315,
             "health": 2052
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Variable Targets"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Dmg - Extra",
+                    "Atk - Bypass Minions"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Mana - Mana Gen ↑"
+                ]
+            }
+        ]
     },
     {
         "name": "Noor",
@@ -57370,7 +72462,19 @@ window.allHeroes =
             "defense": 965,
             "health": 1620
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Heal: Instant"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Summon - Minion",
+                    "Atk - Destroy Minions"
+                ]
+            }
+        ]
     },
     {
         "name": "Norman",
@@ -57422,7 +72526,19 @@ window.allHeroes =
             "defense": 1224,
             "health": 2077
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: All"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Atk - Bypass / Ignore",
+                    "Atk - Bypass Dodge"
+                ]
+            }
+        ]
     },
     {
         "name": "Oceanus",
@@ -57471,7 +72587,19 @@ window.allHeroes =
             "defense": 906,
             "health": 1724
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: All"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Atk - Attack ↑",
+                    "Def - Defense ↑"
+                ]
+            }
+        ]
     },
     {
         "name": "Octros",
@@ -57521,7 +72649,23 @@ window.allHeroes =
             "defense": 982,
             "health": 1722
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: All"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Dmg - Extra"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Atk - Attack ↓"
+                ]
+            }
+        ]
     },
     {
         "name": "Octros C1",
@@ -57573,7 +72717,23 @@ window.allHeroes =
             "defense": 1280,
             "health": 2122
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: All"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Dmg - Extra"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Atk - Attack ↓"
+                ]
+            }
+        ]
     },
     {
         "name": "Omen",
@@ -57628,7 +72788,23 @@ window.allHeroes =
             "defense": 1369,
             "health": 2471
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Single"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Summon - Fiend"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Status - Insanity"
+                ]
+            }
+        ]
     },
     {
         "name": "Otis",
@@ -57681,7 +72857,20 @@ window.allHeroes =
             "defense": 1071,
             "health": 1925
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: All",
+                    "Dmg: DoT"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Heal - Healing ↓",
+                    "Dmg - DoT : Bleed"
+                ]
+            }
+        ]
     },
     {
         "name": "Ottilia",
@@ -57733,7 +72922,20 @@ window.allHeroes =
             "defense": 1356,
             "health": 2499
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Single"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Status - Steal Buffs",
+                    "Summon - Minion",
+                    "Heal - Self Recovery"
+                ]
+            }
+        ]
     },
     {
         "name": "Pepperflame",
@@ -57786,7 +72988,28 @@ window.allHeroes =
             "defense": 1176,
             "health": 2026
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Minor to Nearby"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Dmg - Explosion"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Def - Growth : Def↑"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Def - Defense ↓"
+                ]
+            }
+        ]
     },
     {
         "name": "Phenexa",
@@ -57840,7 +73063,24 @@ window.allHeroes =
             "defense": 1049,
             "health": 1932
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Heal: Instant"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Status - Reset Buff Duration"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Atk - Crit Chance ↑",
+                    "Atk - Attack ↑"
+                ]
+            }
+        ]
     },
     {
         "name": "Pluth",
@@ -57895,7 +73135,23 @@ window.allHeroes =
             "defense": 1526,
             "health": 2326
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: All"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Status - Reset Ailment Duration"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Def - Change Position"
+                ]
+            }
+        ]
     },
     {
         "name": "Puss in Boots",
@@ -57946,7 +73202,23 @@ window.allHeroes =
             "defense": 896,
             "health": 1630
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Heal: Over Time"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Summon - Minion"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Atk - Attack ↑"
+                ]
+            }
+        ]
     },
     {
         "name": "Puss in Boots C1",
@@ -57997,7 +73269,23 @@ window.allHeroes =
             "defense": 967,
             "health": 2293
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Heal: Over Time"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Summon - Minion"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Atk - Attack ↑"
+                ]
+            }
+        ]
     },
     {
         "name": "Queen of Hearts",
@@ -58048,7 +73336,24 @@ window.allHeroes =
             "defense": 899,
             "health": 1905
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Area"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Summon - Minion"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Def - Taunt",
+                    "Def - Def ↑ : Special"
+                ]
+            }
+        ]
     },
     {
         "name": "Queen of Hearts C1",
@@ -58101,7 +73406,24 @@ window.allHeroes =
             "defense": 1208,
             "health": 2683
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Area"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Summon - Minion"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Def - Taunt",
+                    "Def - Def ↑ : Special"
+                ]
+            }
+        ]
     },
     {
         "name": "Rajesh",
@@ -58166,7 +73488,25 @@ window.allHeroes =
             "defense": 1455,
             "health": 2616
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "特殊效果": [
+                    "Atk - Bypass / Ignore"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Status - Block Ailments",
+                    "Atk - Stack : Atk ↑",
+                    "Mana - Mana Gain"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Status - Cleanse Ailments"
+                ]
+            }
+        ]
     },
     {
         "name": "Rashan",
@@ -58217,7 +73557,19 @@ window.allHeroes =
             "defense": 1391,
             "health": 2458
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Edges"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Heal - Block Healing",
+                    "Status - Insanity"
+                ]
+            }
+        ]
     },
     {
         "name": "Ray",
@@ -58286,7 +73638,26 @@ window.allHeroes =
             "defense": 1120,
             "health": 1833
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Heal: Over Time",
+                    "Dmg: DoT"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Atk - Attack ↑"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Dmg - DoT : Burn",
+                    "Def - Def ↓ : Fire",
+                    "Status - Cleanse Ailments"
+                ]
+            }
+        ]
     },
     {
         "name": "Red Hood",
@@ -58334,7 +73705,24 @@ window.allHeroes =
             "defense": 873,
             "health": 1668
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: All",
+                    "Heal: Over Time"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Summon - Minion"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Mana - Mana Gen ↓/Block"
+                ]
+            }
+        ]
     },
     {
         "name": "Regin",
@@ -58394,7 +73782,29 @@ window.allHeroes =
             "defense": 1407,
             "health": 2705
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Area"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Atk - Bypass Dodge",
+                    "Dmg - Dmg ↑ : Nature"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Status - Dispel Buffs"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Status - Buff Immunity"
+                ]
+            }
+        ]
     },
     {
         "name": "Reuben",
@@ -58444,7 +73854,18 @@ window.allHeroes =
             "defense": 909,
             "health": 1615
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Area"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Def - Dmg Reduction"
+                ]
+            }
+        ]
     },
     {
         "name": "Revna",
@@ -58498,7 +73919,23 @@ window.allHeroes =
             "defense": 1389,
             "health": 2730
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Heal: Instant"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Status - Reflect Ailments"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Status - Cleanse Ailments"
+                ]
+            }
+        ]
     },
     {
         "name": "Rocket",
@@ -58551,7 +73988,25 @@ window.allHeroes =
             "defense": 1262,
             "health": 2057
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Area",
+                    "Dmg: DoT"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Summon - Fiend"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Dmg - DoT : Burn",
+                    "Def - Wither : Def↓"
+                ]
+            }
+        ]
     },
     {
         "name": "Rosanna",
@@ -58601,7 +74056,23 @@ window.allHeroes =
             "defense": 1430,
             "health": 2656
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Single"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Atk - Extra Attack"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Status - Insanity"
+                ]
+            }
+        ]
     },
     {
         "name": "Roughian & Nurgib",
@@ -58656,7 +74127,23 @@ window.allHeroes =
             "defense": 883,
             "health": 1854
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Single"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Dmg - Extra"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Mana - Mana Steal"
+                ]
+            }
+        ]
     },
     {
         "name": "Ruadh",
@@ -58716,7 +74203,27 @@ window.allHeroes =
             "defense": 1374,
             "health": 2730
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: All",
+                    "Heal: Boost Health"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Dmg - Extra",
+                    "Heal - Self Recovery"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Atk - Attack ↑",
+                    "Def - Defense ↑",
+                    "Status - Dispel Buffs"
+                ]
+            }
+        ]
     },
     {
         "name": "Ruby",
@@ -58777,7 +74284,23 @@ window.allHeroes =
             "defense": 901,
             "health": 1778
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Variable Targets"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Mana - Mana Cut"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Mana - Mana Gen ↓/Block"
+                ]
+            }
+        ]
     },
     {
         "name": "Russell",
@@ -58830,7 +74353,24 @@ window.allHeroes =
             "defense": 911,
             "health": 1630
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Single",
+                    "Dmg: DoT"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Atk - Bypass Dodge"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Dmg - DoT : Burn"
+                ]
+            }
+        ]
     },
     {
         "name": "Rust",
@@ -58884,7 +74424,29 @@ window.allHeroes =
             "defense": 1407,
             "health": 2651
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Area",
+                    "Dmg: DoT"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Heal - Self Recovery"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Def - Dmg Reduction"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Dmg - DoT : Bleed"
+                ]
+            }
+        ]
     },
     {
         "name": "Salimata",
@@ -58940,7 +74502,24 @@ window.allHeroes =
             "defense": 1409,
             "health": 2367
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Area"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Status - Dispel Buffs"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Status - Block Minions",
+                    "Heal - Healing ↓"
+                ]
+            }
+        ]
     },
     {
         "name": "Santa Claus",
@@ -58992,7 +74571,24 @@ window.allHeroes =
             "defense": 1023,
             "health": 1772
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: All"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Summon - Minion"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Atk - Attack ↓",
+                    "Def - Defense ↓"
+                ]
+            }
+        ]
     },
     {
         "name": "Santa Claus C1",
@@ -59044,7 +74640,24 @@ window.allHeroes =
             "defense": 1363,
             "health": 2347
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: All"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Summon - Minion"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Atk - Attack ↓",
+                    "Def - Defense ↓"
+                ]
+            }
+        ]
     },
     {
         "name": "Saoirse",
@@ -59100,7 +74713,24 @@ window.allHeroes =
             "defense": 998,
             "health": 1767
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Area"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Mana - Stack : Mana Gen ↑",
+                    "Heal - Stack : Regen"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Def - Defense ↓"
+                ]
+            }
+        ]
     },
     {
         "name": "Saoirse C1",
@@ -59158,7 +74788,24 @@ window.allHeroes =
             "defense": 1698,
             "health": 3019
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Area"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Mana - Stack : Mana Gen ↑",
+                    "Heal - Stack : Regen"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Def - Defense ↓"
+                ]
+            }
+        ]
     },
     {
         "name": "Scoria",
@@ -59216,7 +74863,19 @@ window.allHeroes =
             "defense": 1239,
             "health": 2443
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: All"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Mana - Mindless/Silence/Sleep",
+                    "Atk - Wither : Atk↓"
+                ]
+            }
+        ]
     },
     {
         "name": "Sekhmet",
@@ -59266,7 +74925,14 @@ window.allHeroes =
             "defense": 965,
             "health": 1833
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Heal: From Dmg",
+                    "Atk: Single"
+                ]
+            }
+        ]
     },
     {
         "name": "Sekhmet C1",
@@ -59318,7 +74984,14 @@ window.allHeroes =
             "defense": 1323,
             "health": 2567
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Heal: From Dmg",
+                    "Atk: Single"
+                ]
+            }
+        ]
     },
     {
         "name": "Serandite",
@@ -59378,7 +75051,20 @@ window.allHeroes =
             "defense": 972,
             "health": 1770
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: All",
+                    "Dmg: DoT"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Heal - Healing ↓",
+                    "Dmg - DoT : Burn"
+                ]
+            }
+        ]
     },
     {
         "name": "Skargremar",
@@ -59432,7 +75118,23 @@ window.allHeroes =
             "defense": 975,
             "health": 1846
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Area"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Mana - Mana Cut"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Atk - Accuracy ↓"
+                ]
+            }
+        ]
     },
     {
         "name": "Sparklight",
@@ -59487,7 +75189,27 @@ window.allHeroes =
             "defense": 1234,
             "health": 2080
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Area",
+                    "Dmg: DoT",
+                    "Heal: From Dmg",
+                    "Heal: Boost Health"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Atk - Bypass Dodge"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Status - Reflect Buffs",
+                    "Dmg - DoT : Burn"
+                ]
+            }
+        ]
     },
     {
         "name": "Sun Quan",
@@ -59536,7 +75258,24 @@ window.allHeroes =
             "defense": 982,
             "health": 1884
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Area",
+                    "Dmg: DoT"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Summon - Minion"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Dmg - DoT : Burn"
+                ]
+            }
+        ]
     },
     {
         "name": "Sun Quan C1",
@@ -59590,7 +75329,24 @@ window.allHeroes =
             "defense": 1258,
             "health": 2695
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Area",
+                    "Dmg: DoT"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Summon - Minion"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Dmg - DoT : Burn"
+                ]
+            }
+        ]
     },
     {
         "name": "Tahir",
@@ -59644,7 +75400,24 @@ window.allHeroes =
             "defense": 914,
             "health": 1757
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Single",
+                    "Dmg: DoT"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Dmg - Extra"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Dmg - DoT : Bleed"
+                ]
+            }
+        ]
     },
     {
         "name": "Tetisheri",
@@ -59697,7 +75470,23 @@ window.allHeroes =
             "defense": 995,
             "health": 1963
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Minor to Nearby"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Mana - Mana Gain (on Kill)"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Def - Defense ↓"
+                ]
+            }
+        ]
     },
     {
         "name": "Tetisheri C1",
@@ -59751,7 +75540,23 @@ window.allHeroes =
             "defense": 1349,
             "health": 2743
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Minor to Nearby"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Mana - Mana Gain (on Kill)"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Def - Defense ↓"
+                ]
+            }
+        ]
     },
     {
         "name": "Timothy",
@@ -59799,7 +75604,23 @@ window.allHeroes =
             "defense": 1221,
             "health": 2247
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Heal: Boost Health"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Atk - Attack ↑"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Status - Self-Debuff"
+                ]
+            }
+        ]
     },
     {
         "name": "Torben",
@@ -59851,7 +75672,19 @@ window.allHeroes =
             "defense": 1165,
             "health": 2014
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Area"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Def - Dmg Taken ↑",
+                    "Def - Defense ↓"
+                ]
+            }
+        ]
     },
     {
         "name": "Tyr",
@@ -59906,7 +75739,25 @@ window.allHeroes =
             "defense": 932,
             "health": 1617
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Single",
+                    "Dmg: DoT"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Atk - Bypass / Ignore",
+                    "Heal - Self Recovery"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Heal - Self Revive"
+                ]
+            }
+        ]
     },
     {
         "name": "Tyr C1",
@@ -59959,7 +75810,30 @@ window.allHeroes =
             "defense": 1192,
             "health": 2182
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Area",
+                    "Dmg: DoT"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Heal - From Dmg"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Heal - Self Revive",
+                    "Status - Dispel Buffs"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Dmg - DoT : Bleed"
+                ]
+            }
+        ]
     },
     {
         "name": "Ukkonen",
@@ -60013,7 +75887,24 @@ window.allHeroes =
             "defense": 1153,
             "health": 2065
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Heal: Over Time",
+                    "Atk: All"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Status - Block Buff Dispel"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Atk - Attack ↓"
+                ]
+            }
+        ]
     },
     {
         "name": "Ukkonen C1",
@@ -60067,7 +75958,24 @@ window.allHeroes =
             "defense": 1514,
             "health": 2776
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Heal: Over Time",
+                    "Atk: All"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Status - Block Buff Dispel"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Atk - Attack ↓"
+                ]
+            }
+        ]
     },
     {
         "name": "Vanda",
@@ -60119,7 +76027,23 @@ window.allHeroes =
             "defense": 906,
             "health": 1706
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: All"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Status - Ailment Immunity"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Heal - Steal Healing"
+                ]
+            }
+        ]
     },
     {
         "name": "Vanda C1",
@@ -60171,7 +76095,23 @@ window.allHeroes =
             "defense": 1233,
             "health": 2307
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: All"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Status - Ailment Immunity"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Heal - Steal Healing"
+                ]
+            }
+        ]
     },
     {
         "name": "Vanya",
@@ -60223,7 +76163,23 @@ window.allHeroes =
             "defense": 1363,
             "health": 2169
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Heal: Instant"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Summon - Mega Minion"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Status - Cleanse Ailments"
+                ]
+            }
+        ]
     },
     {
         "name": "Xenda",
@@ -60276,7 +76232,25 @@ window.allHeroes =
             "defense": 990,
             "health": 1859
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: All",
+                    "Dmg: DoT"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Heal - From Dmg"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Mana - Mana Steal",
+                    "Dmg - DoT : Burn"
+                ]
+            }
+        ]
     },
     {
         "name": "Xenda C1",
@@ -60330,7 +76304,25 @@ window.allHeroes =
             "defense": 1303,
             "health": 2512
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: All",
+                    "Dmg: DoT"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Heal - From Dmg"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Mana - Mana Steal",
+                    "Dmg - DoT : Burn"
+                ]
+            }
+        ]
     },
     {
         "name": "Xiaotu",
@@ -60379,7 +76371,18 @@ window.allHeroes =
             "defense": 1010,
             "health": 1846
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Single"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Heal - Block Healing"
+                ]
+            }
+        ]
     },
     {
         "name": "Xiwangmu",
@@ -60431,7 +76434,15 @@ window.allHeroes =
             "defense": 1181,
             "health": 1859
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "增益效果": [
+                    "Atk - Crit Chance ↑",
+                    "Atk - Stack : Atk ↑",
+                    "Heal - Self Revive"
+                ]
+            }
+        ]
     },
     {
         "name": "Yang Mai",
@@ -60486,7 +76497,23 @@ window.allHeroes =
             "defense": 939,
             "health": 1689
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Single"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Atk - Extra Attack"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Atk - Stack : Atk ↑"
+                ]
+            }
+        ]
     },
     {
         "name": "Yolanda",
@@ -60540,7 +76567,25 @@ window.allHeroes =
             "defense": 1353,
             "health": 2679
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Area",
+                    "Dmg: DoT"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Def - Dodge"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Atk - Accuracy ↓",
+                    "Dmg - DoT : Bleed"
+                ]
+            }
+        ]
     },
     {
         "name": "Zagrog",
@@ -60593,7 +76638,23 @@ window.allHeroes =
             "defense": 932,
             "health": 1734
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Minor to Nearby"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Atk - Bypass / Ignore"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Mana - Mana Gain"
+                ]
+            }
+        ]
     },
     {
         "name": "Zarga",
@@ -60647,7 +76708,25 @@ window.allHeroes =
             "defense": 1069,
             "health": 2037
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Single",
+                    "Dmg: DoT"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Atk - Gamble / Random"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Dmg - DoT : Bleed",
+                    "Def - Stack : Dmg Taken ↑"
+                ]
+            }
+        ]
     },
     {
         "name": "Zaria",
@@ -60699,7 +76778,18 @@ window.allHeroes =
             "defense": 1165,
             "health": 1955
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: All"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Dmg - Tile : Up"
+                ]
+            }
+        ]
     },
     {
         "name": "Zenobia",
@@ -60751,7 +76841,18 @@ window.allHeroes =
             "defense": 932,
             "health": 1623
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Edges"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Atk - Tile : Attack"
+                ]
+            }
+        ]
     },
     {
         "name": "Zenobia C1",
@@ -60805,7 +76906,18 @@ window.allHeroes =
             "defense": 1188,
             "health": 2197
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Edges"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Atk - Tile : Attack"
+                ]
+            }
+        ]
     },
     {
         "name": "Zidane",
@@ -60865,7 +76977,27 @@ window.allHeroes =
             "defense": 1198,
             "health": 2034
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Single",
+                    "Dmg: DoT"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Status - Steal Buffs",
+                    "Atk - Gamble / Random"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Dmg - DoT : Bleed",
+                    "Dmg - DoT : Burn",
+                    "Dmg - DoT : Poison"
+                ]
+            }
+        ]
     },
     {
         "name": "Zimkitha",
@@ -60916,7 +77048,23 @@ window.allHeroes =
             "defense": 840,
             "health": 1793
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: All"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Atk - Attack ↑"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Status - Cleanse Ailments"
+                ]
+            }
+        ]
     },
     {
         "name": "Zimkitha C1",
@@ -60968,7 +77116,23 @@ window.allHeroes =
             "defense": 1098,
             "health": 2566
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: All"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Dmg - Extra"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Status - Dispel Buffs"
+                ]
+            }
+        ]
     },
     {
         "name": "Hikaru",
@@ -61171,7 +77335,18 @@ window.allHeroes =
             "defense": 681,
             "health": 688
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Single"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Atk - Bypass / Ignore"
+                ]
+            }
+        ]
     },
     {
         "name": "Arman",
@@ -61223,7 +77398,21 @@ window.allHeroes =
             "defense": 586,
             "health": 997
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: All",
+                    "Dmg: DoT"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Heal - Healing ↓",
+                    "Dmg - DoT : Sand",
+                    "Status - Cleanse Ailments"
+                ]
+            }
+        ]
     },
     {
         "name": "Bane",
@@ -61269,7 +77458,18 @@ window.allHeroes =
             "defense": 574,
             "health": 971
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Single"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Atk - Accuracy ↓"
+                ]
+            }
+        ]
     },
     {
         "name": "Bane C1",
@@ -61315,7 +77515,18 @@ window.allHeroes =
             "defense": 603,
             "health": 963
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Single"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Atk - Accuracy ↓"
+                ]
+            }
+        ]
     },
     {
         "name": "Bane Toon",
@@ -61365,7 +77576,23 @@ window.allHeroes =
             "defense": 634,
             "health": 1191
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Single"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Dmg - Dmg ↑ : Dark"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Atk - Accuracy ↓"
+                ]
+            }
+        ]
     },
     {
         "name": "Bane Glass",
@@ -61416,7 +77643,23 @@ window.allHeroes =
             "defense": 639,
             "health": 1216
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Single"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Atk - Bypass / Ignore"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Atk - Accuracy ↓"
+                ]
+            }
+        ]
     },
     {
         "name": "Bertulf",
@@ -61459,7 +77702,13 @@ window.allHeroes =
             "defense": 645,
             "health": 1148
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "增益效果": [
+                    "Atk - Attack ↑"
+                ]
+            }
+        ]
     },
     {
         "name": "Candy",
@@ -61505,7 +77754,14 @@ window.allHeroes =
             "defense": 683,
             "health": 1134
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Heal: Special",
+                    "Heal: Over Time"
+                ]
+            }
+        ]
     },
     {
         "name": "Cedar",
@@ -61558,7 +77814,23 @@ window.allHeroes =
             "defense": 669,
             "health": 1022
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: All"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Atk - Stack : Atk ↑"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Atk - Accuracy ↓"
+                ]
+            }
+        ]
     },
     {
         "name": "Cthuwu",
@@ -61606,7 +77878,24 @@ window.allHeroes =
             "defense": 654,
             "health": 1353
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Single"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Atk - Extra Attack"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Status - Insanity",
+                    "Status - Self-Debuff"
+                ]
+            }
+        ]
     },
     {
         "name": "Dawa",
@@ -61649,7 +77938,13 @@ window.allHeroes =
             "defense": 547,
             "health": 951
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Minor to Nearby"
+                ]
+            }
+        ]
     },
     {
         "name": "Dawa C1",
@@ -61695,7 +77990,19 @@ window.allHeroes =
             "defense": 603,
             "health": 966
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Single"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Atk - Extra Attack",
+                    "Dmg - Dmg ↑ : Dark"
+                ]
+            }
+        ]
     },
     {
         "name": "Dawa Toon",
@@ -61742,7 +78049,18 @@ window.allHeroes =
             "defense": 718,
             "health": 1065
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Minor to Nearby"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Dmg - Dmg ↑ : Dark"
+                ]
+            }
+        ]
     },
     {
         "name": "Dolrak",
@@ -61795,7 +78113,19 @@ window.allHeroes =
             "defense": 686,
             "health": 1012
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Single"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Heal - Healing ↓",
+                    "Def - Defense ↓"
+                ]
+            }
+        ]
     },
     {
         "name": "Edelaide",
@@ -61846,7 +78176,23 @@ window.allHeroes =
             "defense": 713,
             "health": 1241
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Heal: Instant"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Atk - Attack ↑"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Status - Self-Debuff"
+                ]
+            }
+        ]
     },
     {
         "name": "Felton",
@@ -61899,7 +78245,24 @@ window.allHeroes =
             "defense": 715,
             "health": 907
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Single"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Dmg - Extra",
+                    "Heal - Self Recovery"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Status - Reflect Buffs"
+                ]
+            }
+        ]
     },
     {
         "name": "Gan Ju",
@@ -61945,7 +78308,18 @@ window.allHeroes =
             "defense": 508,
             "health": 1136
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Single"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Mana - Mana Cut"
+                ]
+            }
+        ]
     },
     {
         "name": "Gan Ju C1",
@@ -61991,7 +78365,18 @@ window.allHeroes =
             "defense": 530,
             "health": 1193
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Single"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Mana - Mana Cut"
+                ]
+            }
+        ]
     },
     {
         "name": "Gan Ju Toon",
@@ -62041,7 +78426,19 @@ window.allHeroes =
             "defense": 589,
             "health": 1363
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Single"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Mana - Mana Cut",
+                    "Dmg - Dmg ↑ : Dark"
+                ]
+            }
+        ]
     },
     {
         "name": "Gan Ju Glass",
@@ -62092,7 +78489,19 @@ window.allHeroes =
             "defense": 597,
             "health": 1394
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Single"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Atk - Bypass / Ignore",
+                    "Mana - Mana Cut"
+                ]
+            }
+        ]
     },
     {
         "name": "Jaco",
@@ -62148,7 +78557,18 @@ window.allHeroes =
             "defense": 662,
             "health": 1109
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Minor to Nearby"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Mana - Mana Steal"
+                ]
+            }
+        ]
     },
     {
         "name": "Jaco C1",
@@ -62205,7 +78625,18 @@ window.allHeroes =
             "defense": 789,
             "health": 1179
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Minor to Nearby"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Mana - Mana Steal"
+                ]
+            }
+        ]
     },
     {
         "name": "Jolly",
@@ -62257,7 +78688,24 @@ window.allHeroes =
             "defense": 649,
             "health": 1346
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Heal: Boost Health"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Summon - Minion"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Def - Dmg Reduction",
+                    "Mana - Mana Gen ↑"
+                ]
+            }
+        ]
     },
     {
         "name": "Kailani",
@@ -62303,7 +78751,14 @@ window.allHeroes =
             "defense": 635,
             "health": 1022
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "增益效果": [
+                    "Def - Dmg Share",
+                    "Def - Defense ↑"
+                ]
+            }
+        ]
     },
     {
         "name": "Kailani C1",
@@ -62349,7 +78804,14 @@ window.allHeroes =
             "defense": 710,
             "health": 1166
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "增益效果": [
+                    "Def - Dmg Share",
+                    "Atk - Attack ↑"
+                ]
+            }
+        ]
     },
     {
         "name": "Kailani Toon",
@@ -62397,7 +78859,14 @@ window.allHeroes =
             "defense": 736,
             "health": 1228
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "增益效果": [
+                    "Def - Dmg Share",
+                    "Def - Defense ↑"
+                ]
+            }
+        ]
     },
     {
         "name": "Kailani Glass",
@@ -62449,7 +78918,15 @@ window.allHeroes =
             "defense": 768,
             "health": 1263
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "增益效果": [
+                    "Def - Dmg Share",
+                    "Status - Reflect Ailments",
+                    "Def - Defense ↑"
+                ]
+            }
+        ]
     },
     {
         "name": "Kinsaishi",
@@ -62501,7 +78978,13 @@ window.allHeroes =
             "defense": 720,
             "health": 878
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Random"
+                ]
+            }
+        ]
     },
     {
         "name": "Kvasir",
@@ -62550,7 +79033,24 @@ window.allHeroes =
             "defense": 593,
             "health": 1282
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Dmg: DoT"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Summon - Minion"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Status - Block Minions",
+                    "Dmg - DoT : Poison"
+                ]
+            }
+        ]
     },
     {
         "name": "Kvasir C1",
@@ -62598,7 +79098,24 @@ window.allHeroes =
             "defense": 621,
             "health": 1382
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Dmg: DoT"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Summon - Minion"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Status - Buff Immunity",
+                    "Dmg - DoT : Poison"
+                ]
+            }
+        ]
     },
     {
         "name": "Melia",
@@ -62644,7 +79161,18 @@ window.allHeroes =
             "defense": 567,
             "health": 958
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: All"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Atk - Crit Chance ↑"
+                ]
+            }
+        ]
     },
     {
         "name": "Melia C1",
@@ -62690,7 +79218,18 @@ window.allHeroes =
             "defense": 568,
             "health": 993
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: All"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Atk - Accuracy ↓"
+                ]
+            }
+        ]
     },
     {
         "name": "Paeia",
@@ -62741,7 +79280,15 @@ window.allHeroes =
             "defense": 747,
             "health": 1238
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "增益效果": [
+                    "Def - Dmg Reduction",
+                    "Atk - Attack ↑",
+                    "Mana - Mana Gen ↑"
+                ]
+            }
+        ]
     },
     {
         "name": "Pixie",
@@ -62787,7 +79334,18 @@ window.allHeroes =
             "defense": 610,
             "health": 1187
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Single"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Mana - Mindless/Silence/Sleep"
+                ]
+            }
+        ]
     },
     {
         "name": "Poppy",
@@ -62834,7 +79392,18 @@ window.allHeroes =
             "defense": 635,
             "health": 1126
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Single"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Atk - Extra Attack"
+                ]
+            }
+        ]
     },
     {
         "name": "Poppy C1",
@@ -62881,7 +79450,18 @@ window.allHeroes =
             "defense": 644,
             "health": 1166
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Single"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Atk - Extra Attack"
+                ]
+            }
+        ]
     },
     {
         "name": "Rekhetre",
@@ -62931,7 +79511,19 @@ window.allHeroes =
             "defense": 691,
             "health": 1156
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Heal: Over Time",
+                    "Heal: Boost Health"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Def - Def ↑ : Dark"
+                ]
+            }
+        ]
     },
     {
         "name": "Rekhetre C1",
@@ -62983,7 +79575,19 @@ window.allHeroes =
             "defense": 694,
             "health": 1188
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Heal: Over Time",
+                    "Heal: Boost Health"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Def - Def ↑ : Dark"
+                ]
+            }
+        ]
     },
     {
         "name": "Ribbit",
@@ -63035,7 +79639,24 @@ window.allHeroes =
             "defense": 700,
             "health": 1095
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Area",
+                    "Dmg: DoT"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Mana - Mana Cut"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Dmg - DoT : Poison"
+                ]
+            }
+        ]
     },
     {
         "name": "Rustbeak",
@@ -63091,7 +79712,19 @@ window.allHeroes =
             "defense": 713,
             "health": 1153
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Heal: Over Time"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Atk - Crit Chance ↑",
+                    "Def - Dodge"
+                ]
+            }
+        ]
     },
     {
         "name": "Sally",
@@ -63136,7 +79769,18 @@ window.allHeroes =
             "defense": 654,
             "health": 1163
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Single"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Atk - Chain"
+                ]
+            }
+        ]
     },
     {
         "name": "Saskia",
@@ -63189,7 +79833,19 @@ window.allHeroes =
             "defense": 666,
             "health": 1107
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Heal: Instant",
+                    "Heal: Over Time"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Def - Dodge"
+                ]
+            }
+        ]
     },
     {
         "name": "Aeschere",
@@ -63245,7 +79901,20 @@ window.allHeroes =
             "defense": 928,
             "health": 1649
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Heal: Over Time"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Mana - Mana Gen ↑",
+                    "Heal - Healing ↑",
+                    "Status - Dispel Buffs"
+                ]
+            }
+        ]
     },
     {
         "name": "Anastasia",
@@ -63301,7 +79970,19 @@ window.allHeroes =
             "defense": 789,
             "health": 1662
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: All"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Summon - Fiend",
+                    "Summon - Minion"
+                ]
+            }
+        ]
     },
     {
         "name": "Bellerive",
@@ -63349,7 +80030,18 @@ window.allHeroes =
             "defense": 795,
             "health": 1587
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Single"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Dmg - Extra"
+                ]
+            }
+        ]
     },
     {
         "name": "Bogart",
@@ -63400,7 +80092,18 @@ window.allHeroes =
             "defense": 848,
             "health": 1662
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Minor to Nearby"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Def - Defense ↓"
+                ]
+            }
+        ]
     },
     {
         "name": "Chao",
@@ -63446,7 +80149,18 @@ window.allHeroes =
             "defense": 851,
             "health": 1405
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Single"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Mana - Mana Cut"
+                ]
+            }
+        ]
     },
     {
         "name": "Chao C1",
@@ -63493,7 +80207,18 @@ window.allHeroes =
             "defense": 873,
             "health": 1511
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Single"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Mana - Mana Steal"
+                ]
+            }
+        ]
     },
     {
         "name": "Chao C2",
@@ -63539,7 +80264,18 @@ window.allHeroes =
             "defense": 888,
             "health": 1611
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Area"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Mana - Mana Gen ↓/Block"
+                ]
+            }
+        ]
     },
     {
         "name": "Chao Toon",
@@ -63589,7 +80325,19 @@ window.allHeroes =
             "defense": 885,
             "health": 1632
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Single"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Mana - Mana Cut",
+                    "Dmg - Dmg ↑ : Dark"
+                ]
+            }
+        ]
     },
     {
         "name": "Chao Glass",
@@ -63640,7 +80388,24 @@ window.allHeroes =
             "defense": 875,
             "health": 1652
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Single"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Atk - Bypass / Ignore",
+                    "Mana - Mana Cut"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Def - Counterattack"
+                ]
+            }
+        ]
     },
     {
         "name": "D'Andre",
@@ -63688,7 +80453,19 @@ window.allHeroes =
             "defense": 803,
             "health": 1740
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Heal: Instant"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Mana - Mana Gen ↑",
+                    "Def - Defense ↑"
+                ]
+            }
+        ]
     },
     {
         "name": "Danzaburo",
@@ -63744,7 +80521,30 @@ window.allHeroes =
             "defense": 803,
             "health": 1541
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: All"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Atk - Gamble / Random"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Mana - Mana Gen ↑",
+                    "Def - Defense ↑"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Atk - Accuracy ↓",
+                    "Status - Self-Debuff"
+                ]
+            }
+        ]
     },
     {
         "name": "Danzaburo C1",
@@ -63801,7 +80601,31 @@ window.allHeroes =
             "defense": 840,
             "health": 1702
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: All"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Atk - Gamble / Random"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Mana - Mana Gain"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Atk - Attack ↓",
+                    "Def - Defense ↓",
+                    "Mana - Mana Gen ↓/Block",
+                    "Status - Self-Debuff"
+                ]
+            }
+        ]
     },
     {
         "name": "Errin",
@@ -63853,7 +80677,18 @@ window.allHeroes =
             "defense": 987,
             "health": 1665
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "增益效果": [
+                    "Def - Dmg Share"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Def - Dmg Taken ↑"
+                ]
+            }
+        ]
     },
     {
         "name": "Fjalar",
@@ -63912,7 +80747,25 @@ window.allHeroes =
             "defense": 875,
             "health": 1587
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Single"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Atk - Bypass Minions",
+                    "Atk - Bypass Dodge",
+                    "Dmg - Dmg ↑ : Nature"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Status - Block Minions"
+                ]
+            }
+        ]
     },
     {
         "name": "Goldie",
@@ -63965,7 +80818,19 @@ window.allHeroes =
             "defense": 902,
             "health": 1603
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Heal: Instant"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Status - Reflect Ailments",
+                    "Def - Growth : Def↑"
+                ]
+            }
+        ]
     },
     {
         "name": "Gretel",
@@ -64013,7 +80878,23 @@ window.allHeroes =
             "defense": 754,
             "health": 1330
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Minor to Nearby"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Def - Def ↑ : Special"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Mana - Mindless/Silence/Sleep"
+                ]
+            }
+        ]
     },
     {
         "name": "Griffin",
@@ -64061,7 +80942,18 @@ window.allHeroes =
             "defense": 805,
             "health": 1397
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Single"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Atk - Bypass / Ignore"
+                ]
+            }
+        ]
     },
     {
         "name": "Griffin C1",
@@ -64109,7 +81001,18 @@ window.allHeroes =
             "defense": 843,
             "health": 1399
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Single"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Atk - Bypass / Ignore"
+                ]
+            }
+        ]
     },
     {
         "name": "Gu Dasao",
@@ -64167,7 +81070,24 @@ window.allHeroes =
             "defense": 910,
             "health": 1694
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Minor to Nearby"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Mana - Mana Cut"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Def - Counterattack",
+                    "Atk - Crit Chance ↑"
+                ]
+            }
+        ]
     },
     {
         "name": "Guardian Jackal",
@@ -64213,7 +81133,18 @@ window.allHeroes =
             "defense": 669,
             "health": 1301
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Single"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Def - Def ↓ : Holy"
+                ]
+            }
+        ]
     },
     {
         "name": "Guardian Jackal C1",
@@ -64259,7 +81190,18 @@ window.allHeroes =
             "defense": 919,
             "health": 1699
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Single"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Def - Def ↑ : Dark"
+                ]
+            }
+        ]
     },
     {
         "name": "Gullinbursti",
@@ -64306,7 +81248,23 @@ window.allHeroes =
             "defense": 765,
             "health": 1758
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Heal: Boost Health"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Dmg - Explosion"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Atk - Attack ↑"
+                ]
+            }
+        ]
     },
     {
         "name": "Gullinbursti C1",
@@ -64353,7 +81311,24 @@ window.allHeroes =
             "defense": 802,
             "health": 1871
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Heal: Over Time",
+                    "Heal: Boost Health"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Dmg - Explosion"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Atk - Attack ↑"
+                ]
+            }
+        ]
     },
     {
         "name": "Holly",
@@ -64403,7 +81378,24 @@ window.allHeroes =
             "defense": 902,
             "health": 1635
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Heal: Instant",
+                    "Heal: Special"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Summon - Minion"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Atk - Attack ↑"
+                ]
+            }
+        ]
     },
     {
         "name": "Hu Tao",
@@ -64450,7 +81442,18 @@ window.allHeroes =
             "defense": 795,
             "health": 1491
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: All"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Atk - Accuracy ↓"
+                ]
+            }
+        ]
     },
     {
         "name": "Hu Tao C1",
@@ -64499,7 +81502,19 @@ window.allHeroes =
             "defense": 956,
             "health": 1612
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: All"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Atk - Accuracy ↓",
+                    "Heal - Healing ↓"
+                ]
+            }
+        ]
     },
     {
         "name": "Hu Tao C2",
@@ -64548,7 +81563,19 @@ window.allHeroes =
             "defense": 1006,
             "health": 1714
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: All"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Mana - Mana Gen ↓/Block",
+                    "Atk - Accuracy ↓"
+                ]
+            }
+        ]
     },
     {
         "name": "Hu Tao Toon",
@@ -64598,7 +81625,23 @@ window.allHeroes =
             "defense": 904,
             "health": 1756
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: All"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Dmg - Dmg ↑ : Dark"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Atk - Accuracy ↓"
+                ]
+            }
+        ]
     },
     {
         "name": "Hu Tao Glass",
@@ -64649,7 +81692,23 @@ window.allHeroes =
             "defense": 859,
             "health": 1742
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: All"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Atk - Bypass / Ignore"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Atk - Accuracy ↓"
+                ]
+            }
+        ]
     },
     {
         "name": "Lady Woolerton",
@@ -64694,7 +81753,18 @@ window.allHeroes =
             "defense": 840,
             "health": 1533
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Heal: Instant"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Status - Self-Debuff"
+                ]
+            }
+        ]
     },
     {
         "name": "Li Xiu",
@@ -64740,7 +81810,18 @@ window.allHeroes =
             "defense": 837,
             "health": 1384
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: All"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Mana - Mana Cut"
+                ]
+            }
+        ]
     },
     {
         "name": "Li Xiu C1",
@@ -64786,7 +81867,18 @@ window.allHeroes =
             "defense": 887,
             "health": 1511
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: All"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Mana - Mana Cut"
+                ]
+            }
+        ]
     },
     {
         "name": "Li Xiu C2",
@@ -64832,7 +81924,18 @@ window.allHeroes =
             "defense": 947,
             "health": 1638
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Area"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Mana - Mindless/Silence/Sleep"
+                ]
+            }
+        ]
     },
     {
         "name": "Li Xiu Toon",
@@ -64882,7 +81985,19 @@ window.allHeroes =
             "defense": 982,
             "health": 1677
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: All"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Mana - Mana Cut",
+                    "Dmg - Dmg ↑ : Dark"
+                ]
+            }
+        ]
     },
     {
         "name": "Li Xiu Glass",
@@ -64933,7 +82048,19 @@ window.allHeroes =
             "defense": 936,
             "health": 1639
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: All"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Atk - Bypass / Ignore",
+                    "Mana - Mana Cut"
+                ]
+            }
+        ]
     },
     {
         "name": "Mist",
@@ -64984,7 +82111,20 @@ window.allHeroes =
             "defense": 760,
             "health": 1507
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Area"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Status - Buff Immunity",
+                    "Mana - Mana Gen ↓/Block",
+                    "Def - Def ↓ : Special"
+                ]
+            }
+        ]
     },
     {
         "name": "Scoratek",
@@ -65037,7 +82177,19 @@ window.allHeroes =
             "defense": 824,
             "health": 1748
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Single"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Summon - Fiend",
+                    "Dmg - Explosion"
+                ]
+            }
+        ]
     },
     {
         "name": "Scoratek C1",
@@ -65092,7 +82244,19 @@ window.allHeroes =
             "defense": 816,
             "health": 1789
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Single"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Summon - Fiend",
+                    "Dmg - Explosion"
+                ]
+            }
+        ]
     },
     {
         "name": "Steropes",
@@ -65148,7 +82312,15 @@ window.allHeroes =
             "defense": 928,
             "health": 1603
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Heal: Boost Health",
+                    "Heal: Over Time",
+                    "Heal: Revive"
+                ]
+            }
+        ]
     },
     {
         "name": "Voluptas",
@@ -65196,7 +82368,18 @@ window.allHeroes =
             "defense": 811,
             "health": 1748
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Heal: Instant"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Summon - Destroy Fiends"
+                ]
+            }
+        ]
     },
     {
         "name": "Waddles",
@@ -65245,7 +82428,18 @@ window.allHeroes =
             "defense": 880,
             "health": 1659
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Single"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Mana - Mindless/Silence/Sleep"
+                ]
+            }
+        ]
     },
     {
         "name": "Wang Yuanji",
@@ -65291,7 +82485,18 @@ window.allHeroes =
             "defense": 894,
             "health": 1475
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Heal: Boost Health"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Summon - Destroy Fiends"
+                ]
+            }
+        ]
     },
     {
         "name": "Wang Yuanji C1",
@@ -65345,7 +82550,23 @@ window.allHeroes =
             "defense": 975,
             "health": 1582
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Heal: Boost Health"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Summon - Destroy Fiends"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Def - Defense ↑"
+                ]
+            }
+        ]
     },
     {
         "name": "Wu Kong",
@@ -65390,7 +82611,18 @@ window.allHeroes =
             "defense": 781,
             "health": 1250
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "增益效果": [
+                    "Atk - Attack ↑"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Status - Self-Debuff"
+                ]
+            }
+        ]
     },
     {
         "name": "Wu Kong C1",
@@ -65435,7 +82667,18 @@ window.allHeroes =
             "defense": 887,
             "health": 1339
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: All"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Status - Self-Debuff"
+                ]
+            }
+        ]
     },
     {
         "name": "Wu Kong C2",
@@ -65479,7 +82722,18 @@ window.allHeroes =
             "defense": 914,
             "health": 1525
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "增益效果": [
+                    "Atk - Attack ↑"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Status - Self-Debuff"
+                ]
+            }
+        ]
     },
     {
         "name": "Wu Kong Toon",
@@ -65525,7 +82779,18 @@ window.allHeroes =
             "defense": 1001,
             "health": 1626
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "增益效果": [
+                    "Atk - Attack ↑"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Status - Self-Debuff"
+                ]
+            }
+        ]
     },
     {
         "name": "Zione",
@@ -65579,7 +82844,18 @@ window.allHeroes =
             "defense": 870,
             "health": 1555
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "特殊效果": [
+                    "Mana - Tile : Gen"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Atk - Attack ↑"
+                ]
+            }
+        ]
     },
     {
         "name": "Akkorog",
@@ -65626,7 +82902,18 @@ window.allHeroes =
             "defense": 952,
             "health": 1691
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Area"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Def - Change Position"
+                ]
+            }
+        ]
     },
     {
         "name": "Akkorog C1",
@@ -65679,7 +82966,24 @@ window.allHeroes =
             "defense": 1263,
             "health": 2331
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Area"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Def - Dodge",
+                    "Def - Stack : Def ↑"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Def - Change Position"
+                ]
+            }
+        ]
     },
     {
         "name": "Albin",
@@ -65728,7 +83032,19 @@ window.allHeroes =
             "defense": 1409,
             "health": 2552
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: All"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Status - Reset Buff Duration",
+                    "Summon - Minion"
+                ]
+            }
+        ]
     },
     {
         "name": "Alvar",
@@ -65782,7 +83098,24 @@ window.allHeroes =
             "defense": 1363,
             "health": 2133
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: All"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Status - Redistribute Ailments",
+                    "Status - Reset Ailment Duration"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Status - Reflect Buffs"
+                ]
+            }
+        ]
     },
     {
         "name": "Amund",
@@ -65835,7 +83168,23 @@ window.allHeroes =
             "defense": 1417,
             "health": 2659
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: All"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Summon - Fiend"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Status - Block Cleanse"
+                ]
+            }
+        ]
     },
     {
         "name": "Anne",
@@ -65884,7 +83233,25 @@ window.allHeroes =
             "defense": 982,
             "health": 1772
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Single"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Atk - Chain"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Mana - Mana Gen ↓/Block",
+                    "Atk - Attack ↓",
+                    "Def - Defense ↓"
+                ]
+            }
+        ]
     },
     {
         "name": "Anteros",
@@ -65935,7 +83302,23 @@ window.allHeroes =
             "defense": 1369,
             "health": 2636
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Single"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Atk - Bypass Dodge"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Mana - Mindless/Silence/Sleep"
+                ]
+            }
+        ]
     },
     {
         "name": "Aouda",
@@ -65982,7 +83365,18 @@ window.allHeroes =
             "defense": 965,
             "health": 1595
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Single"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Dmg - Extra"
+                ]
+            }
+        ]
     },
     {
         "name": "Aouda C1",
@@ -66031,7 +83425,18 @@ window.allHeroes =
             "defense": 1254,
             "health": 1926
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Single"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Dmg - Extra"
+                ]
+            }
+        ]
     },
     {
         "name": "Ashen",
@@ -66088,7 +83493,29 @@ window.allHeroes =
             "defense": 1455,
             "health": 2534
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Heal: Over Time",
+                    "Atk: All"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Atk - Gamble / Random"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Atk - Attack ↑"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Atk - Attack ↓"
+                ]
+            }
+        ]
     },
     {
         "name": "Astrid",
@@ -66141,7 +83568,19 @@ window.allHeroes =
             "defense": 1544,
             "health": 2776
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Heal: Instant",
+                    "Heal: Revive"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Def - Dmg Reduction"
+                ]
+            }
+        ]
     },
     {
         "name": "Auricarc",
@@ -66197,7 +83636,26 @@ window.allHeroes =
             "defense": 1376,
             "health": 2595
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Single"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Atk - Steal Minions",
+                    "Summon - Mega Minion"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Mana - Mindless/Silence/Sleep",
+                    "Def - Dmg Taken ↑",
+                    "Mana - Mana Steal"
+                ]
+            }
+        ]
     },
     {
         "name": "Aviana",
@@ -66251,7 +83709,23 @@ window.allHeroes =
             "defense": 1186,
             "health": 2072
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Area"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Atk - Crit Chance ↑"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Status - Buff Immunity"
+                ]
+            }
+        ]
     },
     {
         "name": "Bai Yeong",
@@ -66304,7 +83778,19 @@ window.allHeroes =
             "defense": 906,
             "health": 1620
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Single"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Atk - Accuracy ↓",
+                    "Heal - Healing ↓"
+                ]
+            }
+        ]
     },
     {
         "name": "Baishu",
@@ -66356,7 +83842,19 @@ window.allHeroes =
             "defense": 1381,
             "health": 2664
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: All"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Status - Redistribute Ailments",
+                    "Status - Steal Buffs"
+                ]
+            }
+        ]
     },
     {
         "name": "Caitlin",
@@ -66414,7 +83912,25 @@ window.allHeroes =
             "defense": 1013,
             "health": 1783
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: All"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Dmg - Extra"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Mana - Stack : Mana Gen ↑",
+                    "Heal - Stack : Regen",
+                    "Status - Dispel Buffs"
+                ]
+            }
+        ]
     },
     {
         "name": "Caitlin C1",
@@ -66474,7 +83990,25 @@ window.allHeroes =
             "defense": 1471,
             "health": 2907
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: All"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Dmg - Extra"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Mana - Stack : Mana Gen ↑",
+                    "Heal - Stack : Regen",
+                    "Status - Dispel Buffs"
+                ]
+            }
+        ]
     },
     {
         "name": "Celidana",
@@ -66528,7 +84062,19 @@ window.allHeroes =
             "defense": 982,
             "health": 1828
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Heal: Boost Health"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Heal - Block Max Health ↓",
+                    "Def - Defense ↑"
+                ]
+            }
+        ]
     },
     {
         "name": "Christine Daae",
@@ -66590,7 +84136,21 @@ window.allHeroes =
             "defense": 1102,
             "health": 2062
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Area"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Atk - Accuracy ↓",
+                    "Def - Defense ↓",
+                    "Status - Buff Immunity",
+                    "Status - Cleanse Ailments"
+                ]
+            }
+        ]
     },
     {
         "name": "Cleopatra",
@@ -66641,7 +84201,19 @@ window.allHeroes =
             "defense": 1049,
             "health": 2059
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Heal: Instant",
+                    "Heal: Special"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Status - Ailment Immunity"
+                ]
+            }
+        ]
     },
     {
         "name": "Cleopatra C1",
@@ -66696,7 +84268,19 @@ window.allHeroes =
             "defense": 1500,
             "health": 2960
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Heal: Instant",
+                    "Heal: Special"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Status - Ailment Immunity"
+                ]
+            }
+        ]
     },
     {
         "name": "Constance",
@@ -66744,7 +84328,23 @@ window.allHeroes =
             "defense": 1117,
             "health": 2169
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: All"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Dmg - Explosion"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Def - Dodge"
+                ]
+            }
+        ]
     },
     {
         "name": "Dabria",
@@ -66796,7 +84396,19 @@ window.allHeroes =
             "defense": 1102,
             "health": 1922
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Heal: Over Time",
+                    "Heal: Revive"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Def - Defense ↑"
+                ]
+            }
+        ]
     },
     {
         "name": "Delilah",
@@ -66844,7 +84456,18 @@ window.allHeroes =
             "defense": 868,
             "health": 1658
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Heal: Instant"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Summon - Minion"
+                ]
+            }
+        ]
     },
     {
         "name": "Delilah C1",
@@ -66895,7 +84518,18 @@ window.allHeroes =
             "defense": 1134,
             "health": 2433
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Heal: Instant"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Summon - Minion"
+                ]
+            }
+        ]
     },
     {
         "name": "Devana",
@@ -66951,7 +84585,24 @@ window.allHeroes =
             "defense": 932,
             "health": 1732
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Area"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Summon - Minion",
+                    "Atk - Destroy Minions"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Status - Dispel Buffs"
+                ]
+            }
+        ]
     },
     {
         "name": "Director Zuri",
@@ -67000,7 +84651,23 @@ window.allHeroes =
             "defense": 952,
             "health": 1752
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Heal: Instant"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Summon - Minion"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Status - Cleanse Ailments"
+                ]
+            }
+        ]
     },
     {
         "name": "Dolores",
@@ -67057,7 +84724,29 @@ window.allHeroes =
             "defense": 1361,
             "health": 2357
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Area"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Atk - Extra Attack"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Mana - Stack : Mana Gen ↑",
+                    "Atk - Attack ↑"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Status - Insanity"
+                ]
+            }
+        ]
     },
     {
         "name": "Drake Fong",
@@ -67106,7 +84795,18 @@ window.allHeroes =
             "defense": 878,
             "health": 1668
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Area"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Atk - Accuracy ↓"
+                ]
+            }
+        ]
     },
     {
         "name": "Drake Fong C1",
@@ -67158,7 +84858,18 @@ window.allHeroes =
             "defense": 1114,
             "health": 2401
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Area"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Atk - Accuracy ↓"
+                ]
+            }
+        ]
     },
     {
         "name": "Eloise",
@@ -67206,7 +84917,23 @@ window.allHeroes =
             "defense": 977,
             "health": 1714
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: All"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Atk - Destroy Minions"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Status - Block Minions"
+                ]
+            }
+        ]
     },
     {
         "name": "Ephyra",
@@ -67265,7 +84992,19 @@ window.allHeroes =
             "defense": 1135,
             "health": 2065
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "特殊效果": [
+                    "Summon - Destroy Fiends",
+                    "Summon - Minion"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Heal - Stack : Regen"
+                ]
+            }
+        ]
     },
     {
         "name": "Ephyra C1",
@@ -67325,7 +85064,19 @@ window.allHeroes =
             "defense": 1475,
             "health": 2671
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "特殊效果": [
+                    "Summon - Destroy Fiends",
+                    "Summon - Minion"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Heal - Stack : Regen"
+                ]
+            }
+        ]
     },
     {
         "name": "Erlang Shen",
@@ -67371,7 +85122,23 @@ window.allHeroes =
             "defense": 982,
             "health": 1915
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Minor to Nearby"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Dmg - Explosion"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Atk - Attack ↓"
+                ]
+            }
+        ]
     },
     {
         "name": "Eset",
@@ -67426,7 +85193,20 @@ window.allHeroes =
             "defense": 998,
             "health": 1988
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Single",
+                    "Atk: Random"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Dmg - Tile : Up",
+                    "Dmg - Dmg ↑ : Dark"
+                ]
+            }
+        ]
     },
     {
         "name": "Eset C1",
@@ -67483,7 +85263,20 @@ window.allHeroes =
             "defense": 1374,
             "health": 2798
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Single",
+                    "Atk: Random"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Dmg - Tile : Up",
+                    "Dmg - Dmg ↑ : Dark"
+                ]
+            }
+        ]
     },
     {
         "name": "Experience Mimic Holy",
@@ -67545,7 +85338,25 @@ window.allHeroes =
             "defense": 1524,
             "health": 2616
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Single"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Atk - Destroy Minions",
+                    "Mana - Mana Gain (on Kill)",
+                    "Heal - Self Recovery"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Def - Mimic"
+                ]
+            }
+        ]
     },
     {
         "name": "Faeona",
@@ -67600,7 +85411,20 @@ window.allHeroes =
             "defense": 1366,
             "health": 2138
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Heal: Instant"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Mana - Stack : Mana Gen ↑",
+                    "Heal - Healing ↑",
+                    "Atk - Crit Chance ↑"
+                ]
+            }
+        ]
     },
     {
         "name": "Faline",
@@ -67646,7 +85470,18 @@ window.allHeroes =
             "defense": 927,
             "health": 1719
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Area"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Mana - Mana Gen ↓/Block"
+                ]
+            }
+        ]
     },
     {
         "name": "Frank 'Fangs' Brimwell",
@@ -67698,7 +85533,19 @@ window.allHeroes =
             "defense": 1361,
             "health": 2334
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Area",
+                    "Atk: All"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Summon - Mega Minion"
+                ]
+            }
+        ]
     },
     {
         "name": "Furdinand",
@@ -67757,7 +85604,25 @@ window.allHeroes =
             "defense": 1021,
             "health": 1803
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Heal: Over Time"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Def - Dmg Share",
+                    "Status - Reflect Ailments",
+                    "Def - Defense ↑"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Status - Cleanse Ailments"
+                ]
+            }
+        ]
     },
     {
         "name": "Gandr",
@@ -67817,7 +85682,25 @@ window.allHeroes =
             "defense": 1432,
             "health": 2705
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: All",
+                    "Heal: From Dmg"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Atk - Bypass Dodge",
+                    "Dmg - Dmg ↑ : Nature"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Def - Counterattack"
+                ]
+            }
+        ]
     },
     {
         "name": "Gideon",
@@ -67871,7 +85754,24 @@ window.allHeroes =
             "defense": 1437,
             "health": 2705
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Heal: Special"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Def - Dodge",
+                    "Def - Defense ↑"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Status - Cleanse Ailments"
+                ]
+            }
+        ]
     },
     {
         "name": "Gilligan",
@@ -67923,7 +85823,23 @@ window.allHeroes =
             "defense": 949,
             "health": 1917
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Area"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Atk - Bypass / Ignore"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Def - Defense ↑"
+                ]
+            }
+        ]
     },
     {
         "name": "Goldrip",
@@ -67975,7 +85891,20 @@ window.allHeroes =
             "defense": 1346,
             "health": 2613
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Single",
+                    "Dmg: DoT"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Status - Buff Immunity",
+                    "Dmg - DoT : Bleed"
+                ]
+            }
+        ]
     },
     {
         "name": "Gongniu",
@@ -68027,7 +85956,19 @@ window.allHeroes =
             "defense": 1285,
             "health": 2298
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Heal: Special"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Def - Defense ↑",
+                    "Mana - Mana Gain"
+                ]
+            }
+        ]
     },
     {
         "name": "Gooric",
@@ -68085,7 +86026,19 @@ window.allHeroes =
             "defense": 1430,
             "health": 2529
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Heal: Revive"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Atk - Attack ↑",
+                    "Mana - Mana Gen ↑"
+                ]
+            }
+        ]
     },
     {
         "name": "Grilka",
@@ -68142,7 +86095,20 @@ window.allHeroes =
             "defense": 1333,
             "health": 2286
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Heal: Boost Health",
+                    "Heal: Over Time"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Mana - Mana Gen ↑",
+                    "Def - Taunt"
+                ]
+            }
+        ]
     },
     {
         "name": "Guardian Elephant",
@@ -68199,7 +86165,25 @@ window.allHeroes =
             "defense": 1310,
             "health": 2123
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Random"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Status - Block Buff Dispel"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Status - Block Cleanse",
+                    "Atk - Stack : Atk ↓",
+                    "Def - Stack : Def ↓"
+                ]
+            }
+        ]
     },
     {
         "name": "Guardian Gazelle",
@@ -68258,7 +86242,25 @@ window.allHeroes =
             "defense": 914,
             "health": 1633
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Heal: Over Time"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Status - Block Ailments",
+                    "Def - Dmg Reduction",
+                    "Atk - Attack ↑"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Status - Cleanse Ailments"
+                ]
+            }
+        ]
     },
     {
         "name": "Guardian Gazelle C1",
@@ -68317,7 +86319,25 @@ window.allHeroes =
             "defense": 1152,
             "health": 2171
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Heal: Instant"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Status - Block Ailments",
+                    "Def - Dmg Reduction",
+                    "Atk - Attack ↑"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Status - Cleanse Ailments"
+                ]
+            }
+        ]
     },
     {
         "name": "Guardian Owl",
@@ -68368,7 +86388,24 @@ window.allHeroes =
             "defense": 980,
             "health": 1828
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: All",
+                    "Heal: Over Time"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Dmg - Extra"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Def - Defense ↑"
+                ]
+            }
+        ]
     },
     {
         "name": "Guinevere",
@@ -68417,7 +86454,24 @@ window.allHeroes =
             "defense": 960,
             "health": 1661
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Heal: Over Time"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Mana - Mana Cut"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Def - Defense ↑",
+                    "Def - Def ↑ : Dark"
+                ]
+            }
+        ]
     },
     {
         "name": "Guinevere C1",
@@ -68467,7 +86521,23 @@ window.allHeroes =
             "defense": 1231,
             "health": 2420
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Heal: Instant"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Mana - Mana Cut"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Def - Reflect : Dark"
+                ]
+            }
+        ]
     },
     {
         "name": "Gwynn",
@@ -68522,7 +86592,20 @@ window.allHeroes =
             "defense": 1264,
             "health": 2514
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: All",
+                    "Dmg: DoT"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Dmg - DoT : Burn",
+                    "Def - Dmg Taken ↑"
+                ]
+            }
+        ]
     },
     {
         "name": "Hachiko",
@@ -68574,7 +86657,19 @@ window.allHeroes =
             "defense": 995,
             "health": 1922
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: All"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Def - Counterattack",
+                    "Atk - Crit Chance ↑"
+                ]
+            }
+        ]
     },
     {
         "name": "Halcyon",
@@ -68628,7 +86723,24 @@ window.allHeroes =
             "defense": 1496,
             "health": 2735
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Single"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Atk - Destroy Minions",
+                    "Atk - Extra Attack"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Def - Counterattack"
+                ]
+            }
+        ]
     },
     {
         "name": "Hanitra",
@@ -68679,7 +86791,20 @@ window.allHeroes =
             "defense": 982,
             "health": 1737
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Heal: Boost Health",
+                    "Heal: Special"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Def - Dodge",
+                    "Heal - Block Max Health ↓"
+                ]
+            }
+        ]
     },
     {
         "name": "Haumri",
@@ -68738,7 +86863,28 @@ window.allHeroes =
             "defense": 1455,
             "health": 2578
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Single"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Atk - Chain"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Status - Dispel Buffs"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Def - Wither : Def↓"
+                ]
+            }
+        ]
     },
     {
         "name": "Hilda",
@@ -68793,7 +86939,22 @@ window.allHeroes =
             "defense": 1397,
             "health": 2105
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Heal: Boost Health",
+                    "Atk: Area",
+                    "Dmg: DoT",
+                    "Heal: From Dmg"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Status - Buff Immunity",
+                    "Dmg - DoT : Bleed"
+                ]
+            }
+        ]
     },
     {
         "name": "Horus",
@@ -68841,7 +87002,18 @@ window.allHeroes =
             "defense": 980,
             "health": 1971
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Area"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Heal - Max Health ↓"
+                ]
+            }
+        ]
     },
     {
         "name": "Horus C1",
@@ -68891,7 +87063,18 @@ window.allHeroes =
             "defense": 1388,
             "health": 2794
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Area"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Heal - Max Health ↓"
+                ]
+            }
+        ]
     },
     {
         "name": "Iga",
@@ -68951,7 +87134,14 @@ window.allHeroes =
             "defense": 1300,
             "health": 2021
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "特殊效果": [
+                    "Summon - Fiend",
+                    "Dmg - Explosion"
+                ]
+            }
+        ]
     },
     {
         "name": "Inari",
@@ -69001,7 +87191,24 @@ window.allHeroes =
             "defense": 792,
             "health": 1617
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: All"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Summon - Minion"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Def - Dodge",
+                    "Mana - Mana Gain"
+                ]
+            }
+        ]
     },
     {
         "name": "Inari C1",
@@ -69051,7 +87258,28 @@ window.allHeroes =
             "defense": 1053,
             "health": 2132
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: All"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Summon - Minion"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Mana - Mana Gain"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Atk - Accuracy ↓"
+                ]
+            }
+        ]
     },
     {
         "name": "Ironmaw",
@@ -69108,7 +87336,23 @@ window.allHeroes =
             "defense": 1191,
             "health": 2047
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: All"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Dmg - Dmg ↑ : Dark"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Mana - Mana Gen ↓/Block"
+                ]
+            }
+        ]
     },
     {
         "name": "Ithar",
@@ -69163,7 +87407,23 @@ window.allHeroes =
             "defense": 962,
             "health": 1826
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "特殊效果": [
+                    "Status - Steal Buffs"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Atk - Attack ↑"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Mana - Mana Steal"
+                ]
+            }
+        ]
     },
     {
         "name": "Jana",
@@ -69216,7 +87476,24 @@ window.allHeroes =
             "defense": 1076,
             "health": 2118
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Single"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Atk - Extra Attack"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Mana - Mana Gen ↓/Block",
+                    "Def - Defense ↓"
+                ]
+            }
+        ]
     },
     {
         "name": "Jasper",
@@ -69266,7 +87543,24 @@ window.allHeroes =
             "defense": 1071,
             "health": 1950
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Heal: Over Time"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Atk - Crit Chance ↑",
+                    "Atk - Attack ↑"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Status - Self-Debuff"
+                ]
+            }
+        ]
     },
     {
         "name": "Jasper C1",
@@ -69316,7 +87610,24 @@ window.allHeroes =
             "defense": 1291,
             "health": 2507
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Heal: Over Time"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Atk - Crit Chance ↑",
+                    "Atk - Attack ↑"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Status - Self-Debuff"
+                ]
+            }
+        ]
     },
     {
         "name": "Jequn",
@@ -69373,7 +87684,21 @@ window.allHeroes =
             "defense": 1043,
             "health": 2400
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: All"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Mana - Mana Gen ↓/Block",
+                    "Atk - Accuracy ↓",
+                    "Atk - Attack ↓",
+                    "Def - Defense ↓"
+                ]
+            }
+        ]
     },
     {
         "name": "Jequn C1",
@@ -69430,7 +87755,21 @@ window.allHeroes =
             "defense": 1362,
             "health": 3126
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: All"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Mana - Mana Gen ↓/Block",
+                    "Atk - Accuracy ↓",
+                    "Atk - Attack ↓",
+                    "Def - Defense ↓"
+                ]
+            }
+        ]
     },
     {
         "name": "Joon",
@@ -69476,7 +87815,18 @@ window.allHeroes =
             "defense": 784,
             "health": 1651
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Single"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Atk - Accuracy ↓"
+                ]
+            }
+        ]
     },
     {
         "name": "Joon C1",
@@ -69522,7 +87872,18 @@ window.allHeroes =
             "defense": 900,
             "health": 1856
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Single"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Atk - Accuracy ↓"
+                ]
+            }
+        ]
     },
     {
         "name": "Joon C2",
@@ -69571,7 +87932,20 @@ window.allHeroes =
             "defense": 1017,
             "health": 2344
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Area",
+                    "Dmg: DoT"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Atk - Accuracy ↓",
+                    "Dmg - DoT : Burn"
+                ]
+            }
+        ]
     },
     {
         "name": "Joon Toon",
@@ -69621,7 +87995,23 @@ window.allHeroes =
             "defense": 1222,
             "health": 2796
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Single"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Dmg - Dmg ↑ : Dark"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Atk - Accuracy ↓"
+                ]
+            }
+        ]
     },
     {
         "name": "Joon Glass",
@@ -69672,7 +88062,23 @@ window.allHeroes =
             "defense": 1359,
             "health": 2906
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Single"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Atk - Bypass / Ignore"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Atk - Accuracy ↓"
+                ]
+            }
+        ]
     },
     {
         "name": "Jove",
@@ -69723,7 +88129,19 @@ window.allHeroes =
             "defense": 977,
             "health": 1734
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: All"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Mana - Mana Gen ↓/Block",
+                    "Heal - Healing ↓"
+                ]
+            }
+        ]
     },
     {
         "name": "Justice",
@@ -69770,7 +88188,23 @@ window.allHeroes =
             "defense": 957,
             "health": 1757
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: All"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Mana - Mana Gen ↑"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Atk - Accuracy ↓"
+                ]
+            }
+        ]
     },
     {
         "name": "Justice C1",
@@ -69818,7 +88252,23 @@ window.allHeroes =
             "defense": 1004,
             "health": 1914
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: All"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Dmg - Extra"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Mana - Mana Gen ↑"
+                ]
+            }
+        ]
     },
     {
         "name": "Justice C2",
@@ -69866,7 +88316,23 @@ window.allHeroes =
             "defense": 1110,
             "health": 2449
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: All"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Dmg - Extra"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Atk - Accuracy ↓"
+                ]
+            }
+        ]
     },
     {
         "name": "Justice Toon",
@@ -69916,7 +88382,23 @@ window.allHeroes =
             "defense": 1153,
             "health": 2935
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: All"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Dmg - Dmg ↑ : Dark"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Atk - Accuracy ↓"
+                ]
+            }
+        ]
     },
     {
         "name": "Kara",
@@ -69968,7 +88450,15 @@ window.allHeroes =
             "defense": 944,
             "health": 1788
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "增益效果": [
+                    "Def - Taunt",
+                    "Atk - Attack ↑",
+                    "Def - Def ↑ : Special"
+                ]
+            }
+        ]
     },
     {
         "name": "Kullervo",
@@ -70018,7 +88508,23 @@ window.allHeroes =
             "defense": 975,
             "health": 1798
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Single"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Atk - Extra Attack"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Mana - Mindless/Silence/Sleep"
+                ]
+            }
+        ]
     },
     {
         "name": "Kullervo C1",
@@ -70068,7 +88574,23 @@ window.allHeroes =
             "defense": 1381,
             "health": 2365
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Single"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Atk - Extra Attack"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Mana - Mindless/Silence/Sleep"
+                ]
+            }
+        ]
     },
     {
         "name": "Kushanku",
@@ -70134,7 +88656,28 @@ window.allHeroes =
             "defense": 1074,
             "health": 1960
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Single"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Dmg - Explosion"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Status - Hide/Ghost Form"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Mana - Mindless/Silence/Sleep"
+                ]
+            }
+        ]
     },
     {
         "name": "Lando",
@@ -70193,7 +88736,24 @@ window.allHeroes =
             "defense": 1554,
             "health": 2849
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: All"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Dmg - Explosion",
+                    "Status - Replace with Buff"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Status - Cleanse Ailments"
+                ]
+            }
+        ]
     },
     {
         "name": "Laohu",
@@ -70242,7 +88802,18 @@ window.allHeroes =
             "defense": 993,
             "health": 1897
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Single"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Heal - From Dmg"
+                ]
+            }
+        ]
     },
     {
         "name": "Lazara",
@@ -70298,7 +88869,20 @@ window.allHeroes =
             "defense": 1254,
             "health": 2133
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: All"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Heal - Healing ↓",
+                    "Status - Block Cleanse",
+                    "Status - Cleanse Ailments"
+                ]
+            }
+        ]
     },
     {
         "name": "Lemonwood",
@@ -70353,7 +88937,19 @@ window.allHeroes =
             "defense": 1277,
             "health": 2057
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Single"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Mana - Mana Cut",
+                    "Atk - Extra Attack"
+                ]
+            }
+        ]
     },
     {
         "name": "Leonidas",
@@ -70402,7 +88998,19 @@ window.allHeroes =
             "defense": 886,
             "health": 1506
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Single"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Heal - From Dmg",
+                    "Mana - Mana Cut"
+                ]
+            }
+        ]
     },
     {
         "name": "Leonidas C1",
@@ -70449,7 +89057,19 @@ window.allHeroes =
             "defense": 1027,
             "health": 1707
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Minor to Nearby"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Atk - Attack ↓",
+                    "Def - Def ↓ : Holy"
+                ]
+            }
+        ]
     },
     {
         "name": "Leonidas C2",
@@ -70498,7 +89118,23 @@ window.allHeroes =
             "defense": 1155,
             "health": 2194
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: All"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Mana - Mana Cut"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Def - Defense ↓"
+                ]
+            }
+        ]
     },
     {
         "name": "Leonidas Toon",
@@ -70551,7 +89187,20 @@ window.allHeroes =
             "defense": 1357,
             "health": 2585
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Single"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Heal - From Dmg",
+                    "Mana - Mana Cut",
+                    "Dmg - Dmg ↑ : Dark"
+                ]
+            }
+        ]
     },
     {
         "name": "Leonidas Glass",
@@ -70605,7 +89254,23 @@ window.allHeroes =
             "defense": 1487,
             "health": 2657
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Single"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Mana - Mana Cut"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Status - Dispel Buffs"
+                ]
+            }
+        ]
     },
     {
         "name": "Livia",
@@ -70660,7 +89325,25 @@ window.allHeroes =
             "defense": 1333,
             "health": 2471
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Heal: Over Time",
+                    "Heal: Special"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Status - Redistribute Ailments"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Def - Dmg Reduction",
+                    "Status - Reflect Ailments"
+                ]
+            }
+        ]
     },
     {
         "name": "Malin",
@@ -70717,7 +89400,26 @@ window.allHeroes =
             "defense": 1079,
             "health": 1965
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: All",
+                    "Dmg: DoT"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Dmg - Dmg ↑ : Dark"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Atk - Accuracy ↓",
+                    "Heal - Healing ↓",
+                    "Dmg - DoT : Bleed"
+                ]
+            }
+        ]
     },
     {
         "name": "Malosi",
@@ -70767,7 +89469,18 @@ window.allHeroes =
             "defense": 899,
             "health": 1607
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Single"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Status - Buff Immunity"
+                ]
+            }
+        ]
     },
     {
         "name": "Matilda",
@@ -70820,7 +89533,25 @@ window.allHeroes =
             "defense": 1016,
             "health": 1836
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Dmg: DoT"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Status - Reset Ailment Duration",
+                    "Summon - Fiend"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Dmg - DoT : Poison",
+                    "Def - Dmg Taken ↑"
+                ]
+            }
+        ]
     },
     {
         "name": "May",
@@ -70873,7 +89604,21 @@ window.allHeroes =
             "defense": 1333,
             "health": 2418
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "特殊效果": [
+                    "Summon - Minion"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Def - Growth : Def↑",
+                    "防御-成长：防御力↑",
+                    "Mana - Mana Gen ↑",
+                    "Def - Def ↑ : Special"
+                ]
+            }
+        ]
     },
     {
         "name": "Meg Giry",
@@ -70928,7 +89673,28 @@ window.allHeroes =
             "defense": 1310,
             "health": 2740
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Heal: Instant"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Status - Redistribute Ailments"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Def - Defense ↑"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Status - Block Cleanse"
+                ]
+            }
+        ]
     },
     {
         "name": "Melodymuse",
@@ -70978,7 +89744,18 @@ window.allHeroes =
             "defense": 1424,
             "health": 2496
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Heal: Boost Health"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Status - Ailment Immunity"
+                ]
+            }
+        ]
     },
     {
         "name": "Meresankh",
@@ -71032,7 +89809,24 @@ window.allHeroes =
             "defense": 1084,
             "health": 2026
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: All"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Mana - Mana Cut",
+                    "Dmg - Extra"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Mana - Mana Gen ↓/Block"
+                ]
+            }
+        ]
     },
     {
         "name": "Meresankh C1",
@@ -71088,7 +89882,24 @@ window.allHeroes =
             "defense": 1456,
             "health": 2805
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: All"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Mana - Mana Cut",
+                    "Dmg - Extra"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Mana - Mana Gen ↓/Block"
+                ]
+            }
+        ]
     },
     {
         "name": "Mica",
@@ -71147,7 +89958,15 @@ window.allHeroes =
             "defense": 1013,
             "health": 1701
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "增益效果": [
+                    "Def - Dmg Share",
+                    "Mana - Mana Gen ↑",
+                    "Def - Defense ↑"
+                ]
+            }
+        ]
     },
     {
         "name": "Moonbell",
@@ -71201,7 +90020,19 @@ window.allHeroes =
             "defense": 1485,
             "health": 2303
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "特殊效果": [
+                    "Summon - Minion"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Mana - Mana Gen ↑",
+                    "Def - Dmg Reduction"
+                ]
+            }
+        ]
     },
     {
         "name": "Motega",
@@ -71263,7 +90094,20 @@ window.allHeroes =
             "defense": 977,
             "health": 1775
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "特殊效果": [
+                    "Summon - Fiend",
+                    "Summon - Minion"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Atk - Accuracy ↓",
+                    "Def - Dmg Taken ↑"
+                ]
+            }
+        ]
     },
     {
         "name": "Musashi",
@@ -71312,7 +90156,18 @@ window.allHeroes =
             "defense": 838,
             "health": 1539
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Minor to Nearby"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Heal - From Dmg"
+                ]
+            }
+        ]
     },
     {
         "name": "Musashi C1",
@@ -71364,7 +90219,18 @@ window.allHeroes =
             "defense": 1091,
             "health": 2246
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Minor to Nearby"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Heal - From Dmg"
+                ]
+            }
+        ]
     },
     {
         "name": "Neith",
@@ -71417,7 +90283,23 @@ window.allHeroes =
             "defense": 909,
             "health": 1602
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: All"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Mana - Mana Cut"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Atk - Accuracy ↓"
+                ]
+            }
+        ]
     },
     {
         "name": "Nemesis",
@@ -71475,7 +90357,24 @@ window.allHeroes =
             "defense": 965,
             "health": 1823
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Single"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Dmg - Extra"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Status - Buff Immunity",
+                    "Mana - Mana Gen ↓/Block"
+                ]
+            }
+        ]
     },
     {
         "name": "Nithgaest",
@@ -71528,7 +90427,24 @@ window.allHeroes =
             "defense": 1389,
             "health": 2712
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Area",
+                    "Dmg: DoT"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Def - Counterattack"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Dmg - DoT : Burn"
+                ]
+            }
+        ]
     },
     {
         "name": "Norns",
@@ -71572,7 +90488,18 @@ window.allHeroes =
             "defense": 886,
             "health": 1689
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Area"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Def - Change Position"
+                ]
+            }
+        ]
     },
     {
         "name": "Norns C1",
@@ -71616,7 +90543,18 @@ window.allHeroes =
             "defense": 1134,
             "health": 2049
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Area"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Def - Change Position"
+                ]
+            }
+        ]
     },
     {
         "name": "Odin",
@@ -71664,7 +90602,23 @@ window.allHeroes =
             "defense": 927,
             "health": 1640
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: All"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Dmg - Extra"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Mana - Mana Gen ↑"
+                ]
+            }
+        ]
     },
     {
         "name": "Odin C1",
@@ -71712,7 +90666,23 @@ window.allHeroes =
             "defense": 1205,
             "health": 2231
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: All"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Dmg - Extra"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Mana - Mana Gen ↑"
+                ]
+            }
+        ]
     },
     {
         "name": "Ogima",
@@ -71765,7 +90735,24 @@ window.allHeroes =
             "defense": 985,
             "health": 1732
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: All"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Atk - Destroy Minions",
+                    "Dmg - Extra"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Mana - Stack : Mana Gen ↓"
+                ]
+            }
+        ]
     },
     {
         "name": "Onatel",
@@ -71816,7 +90803,18 @@ window.allHeroes =
             "defense": 1005,
             "health": 1772
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Area"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Mana - Mana Steal"
+                ]
+            }
+        ]
     },
     {
         "name": "Papyros",
@@ -71867,7 +90865,28 @@ window.allHeroes =
             "defense": 1010,
             "health": 1935
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Dmg: DoT"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Summon - Minion"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Def - Defense ↑"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Dmg - DoT : Sand"
+                ]
+            }
+        ]
     },
     {
         "name": "Papyros C1",
@@ -71923,7 +90942,28 @@ window.allHeroes =
             "defense": 1479,
             "health": 2783
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Dmg: DoT"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Summon - Minion"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Def - Defense ↑"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Dmg - DoT : Sand"
+                ]
+            }
+        ]
     },
     {
         "name": "Penolite",
@@ -71975,7 +91015,23 @@ window.allHeroes =
             "defense": 939,
             "health": 1869
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Single"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Dmg - Extra"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Heal - Healing ↓"
+                ]
+            }
+        ]
     },
     {
         "name": "Persa",
@@ -72038,7 +91094,25 @@ window.allHeroes =
             "defense": 1264,
             "health": 1851
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Single",
+                    "Dmg: DoT"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Status - Steal Buffs"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Dmg - DoT : Poison",
+                    "Mana - Mana Gen ↓/Block"
+                ]
+            }
+        ]
     },
     {
         "name": "Persa C1",
@@ -72102,7 +91176,25 @@ window.allHeroes =
             "defense": 1602,
             "health": 2369
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Single",
+                    "Dmg: DoT"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Status - Steal Buffs"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Dmg - DoT : Poison",
+                    "Mana - Mana Gen ↓/Block"
+                ]
+            }
+        ]
     },
     {
         "name": "Pertinax",
@@ -72158,7 +91250,25 @@ window.allHeroes =
             "defense": 1463,
             "health": 2611
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Area"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Summon - Minion",
+                    "Atk - Bypass Dodge",
+                    "Dmg - Dmg ↑ : Holy"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Status - Hide/Ghost Form"
+                ]
+            }
+        ]
     },
     {
         "name": "Philomena",
@@ -72212,7 +91322,25 @@ window.allHeroes =
             "defense": 1374,
             "health": 2633
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Minor to Nearby"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Dmg - Explosion"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Mana - Mindless/Silence/Sleep",
+                    "Def - Def ↓ : Special",
+                    "Def - Dmg Taken ↑"
+                ]
+            }
+        ]
     },
     {
         "name": "Poseidon",
@@ -72259,7 +91387,18 @@ window.allHeroes =
             "defense": 886,
             "health": 1663
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Single"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Status - Block Ailments"
+                ]
+            }
+        ]
     },
     {
         "name": "Poseidon C1",
@@ -72305,7 +91444,18 @@ window.allHeroes =
             "defense": 1095,
             "health": 2228
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Single"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Status - Ailment Immunity"
+                ]
+            }
+        ]
     },
     {
         "name": "Prof. Lidenbrock",
@@ -72356,7 +91506,19 @@ window.allHeroes =
             "defense": 995,
             "health": 1719
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Heal: Boost Health",
+                    "Heal: Over Time"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Status - Cleanse Ailments"
+                ]
+            }
+        ]
     },
     {
         "name": "Prof. Lidenbrock C1",
@@ -72408,7 +91570,19 @@ window.allHeroes =
             "defense": 1287,
             "health": 2347
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Heal: Boost Health",
+                    "Heal: Over Time"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Status - Cleanse Ailments"
+                ]
+            }
+        ]
     },
     {
         "name": "Queen Guowang",
@@ -72454,7 +91628,24 @@ window.allHeroes =
             "defense": 1026,
             "health": 1983
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: All"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Dmg - Extra",
+                    "Dmg - Explosion"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Mana - Mana Gain"
+                ]
+            }
+        ]
     },
     {
         "name": "Rana",
@@ -72506,7 +91697,21 @@ window.allHeroes =
             "defense": 876,
             "health": 1686
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Area",
+                    "Dmg: DoT"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Heal - Healing ↓",
+                    "Dmg - DoT : Sand",
+                    "Status - Cleanse Ailments"
+                ]
+            }
+        ]
     },
     {
         "name": "Rana C1",
@@ -72558,7 +91763,21 @@ window.allHeroes =
             "defense": 1120,
             "health": 2106
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Area",
+                    "Dmg: DoT"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Heal - Healing ↓",
+                    "Dmg - DoT : Water",
+                    "Status - Cleanse Ailments"
+                ]
+            }
+        ]
     },
     {
         "name": "Ranvir",
@@ -72609,7 +91828,23 @@ window.allHeroes =
             "defense": 965,
             "health": 1389
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Single"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Atk - Attack ↑"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Status - Self-Debuff"
+                ]
+            }
+        ]
     },
     {
         "name": "Rhys",
@@ -72665,7 +91900,28 @@ window.allHeroes =
             "defense": 993,
             "health": 1793
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Heal: Boost Health"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Mana - Tile : Gen"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Atk - Attack ↑"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Status - Cleanse Ailments"
+                ]
+            }
+        ]
     },
     {
         "name": "Roc",
@@ -72714,7 +91970,20 @@ window.allHeroes =
             "defense": 911,
             "health": 1678
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Dmg: DoT"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Heal - Block Healing",
+                    "Dmg - DoT : Sand",
+                    "Status - Cleanse Ailments"
+                ]
+            }
+        ]
     },
     {
         "name": "Roc C1",
@@ -72763,7 +92032,24 @@ window.allHeroes =
             "defense": 1155,
             "health": 2159
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Dmg: DoT"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Status - Dispel Buffs"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Def - Defense ↓",
+                    "Dmg - DoT : Sand"
+                ]
+            }
+        ]
     },
     {
         "name": "Rosalind",
@@ -72818,7 +92104,23 @@ window.allHeroes =
             "defense": 1432,
             "health": 2481
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Heal: Instant"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Summon - Mega Minion"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Def - Dmg Reduction"
+                ]
+            }
+        ]
     },
     {
         "name": "Ruan Xiaoqi",
@@ -72877,7 +92179,25 @@ window.allHeroes =
             "defense": 1503,
             "health": 2649
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: All",
+                    "Dmg: DoT"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Atk - Crit Chance ↑",
+                    "Status - Dispel Buffs"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Dmg - DoT : Water"
+                ]
+            }
+        ]
     },
     {
         "name": "Salniss",
@@ -72934,7 +92254,24 @@ window.allHeroes =
             "defense": 1460,
             "health": 2374
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Single"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Atk - Extra Attack"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Mana - Mindless/Silence/Sleep",
+                    "Def - Dmg Taken ↑"
+                ]
+            }
+        ]
     },
     {
         "name": "Satinpimenter",
@@ -72990,7 +92327,30 @@ window.allHeroes =
             "defense": 1506,
             "health": 2440
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Heal: Over Time",
+                    "Atk: Area",
+                    "Dmg: DoT"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Heal - Self Recovery"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Status - Dispel Buffs"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Dmg - DoT : Poison"
+                ]
+            }
+        ]
     },
     {
         "name": "Scrollbeast",
@@ -73044,7 +92404,28 @@ window.allHeroes =
             "defense": 1341,
             "health": 2364
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: All"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Summon - Mega Minion"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Def - Counterattack"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Atk - Wither : Atk↓"
+                ]
+            }
+        ]
     },
     {
         "name": "Shaal",
@@ -73099,7 +92480,24 @@ window.allHeroes =
             "defense": 1267,
             "health": 2199
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Heal: From Dmg",
+                    "Atk: All"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Dmg - Dmg ↑ : Holy"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Status - Cleanse Ailments"
+                ]
+            }
+        ]
     },
     {
         "name": "Shimmerscale",
@@ -73150,7 +92548,24 @@ window.allHeroes =
             "defense": 1417,
             "health": 2100
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Area",
+                    "Dmg: DoT"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Summon - Mega Minion"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Dmg - DoT : Bleed"
+                ]
+            }
+        ]
     },
     {
         "name": "Sif",
@@ -73199,7 +92614,15 @@ window.allHeroes =
             "defense": 883,
             "health": 1651
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "增益效果": [
+                    "Def - Counterattack",
+                    "Def - Dmg Reduction",
+                    "Mana - Mana Gen ↑"
+                ]
+            }
+        ]
     },
     {
         "name": "Sif C1",
@@ -73249,7 +92672,15 @@ window.allHeroes =
             "defense": 1180,
             "health": 2276
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "增益效果": [
+                    "Def - Counterattack",
+                    "Def - Dmg Reduction",
+                    "Mana - Mana Gain"
+                ]
+            }
+        ]
     },
     {
         "name": "Silverpaw",
@@ -73301,7 +92732,24 @@ window.allHeroes =
             "defense": 1498,
             "health": 2260
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Dmg: DoT"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Atk - Steal Minions"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Status - Buff Immunity",
+                    "Dmg - DoT : Curse"
+                ]
+            }
+        ]
     },
     {
         "name": "Sir Roostley",
@@ -73348,7 +92796,23 @@ window.allHeroes =
             "defense": 896,
             "health": 1661
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Single"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Atk - Chain"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Status - Self-Debuff"
+                ]
+            }
+        ]
     },
     {
         "name": "Sludgus",
@@ -73400,7 +92864,24 @@ window.allHeroes =
             "defense": 1333,
             "health": 2451
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Heal: Instant",
+                    "Heal: Special"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Dmg - Explosion"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Def - Dodge"
+                ]
+            }
+        ]
     },
     {
         "name": "Tang Sanzang",
@@ -73452,7 +92933,23 @@ window.allHeroes =
             "defense": 1323,
             "health": 2166
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Heal: Boost Health"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Def - Defense ↑"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Status - Cleanse Ailments"
+                ]
+            }
+        ]
     },
     {
         "name": "Thor",
@@ -73507,7 +93004,18 @@ window.allHeroes =
             "defense": 906,
             "health": 1719
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Variable Targets"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Atk - Accuracy ↓"
+                ]
+            }
+        ]
     },
     {
         "name": "Thor C1",
@@ -73561,7 +93069,18 @@ window.allHeroes =
             "defense": 1166,
             "health": 2378
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: All"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Atk - Accuracy ↓"
+                ]
+            }
+        ]
     },
     {
         "name": "Thunderclap",
@@ -73616,7 +93135,25 @@ window.allHeroes =
             "defense": 1076,
             "health": 1986
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Heal: Boost Health"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Dmg - Explosion",
+                    "Heal - Self Recovery"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Def - Taunt",
+                    "Atk - Stack : Atk ↑"
+                ]
+            }
+        ]
     },
     {
         "name": "Thura",
@@ -73670,7 +93207,19 @@ window.allHeroes =
             "defense": 1313,
             "health": 2555
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Area"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Atk - Bypass / Ignore",
+                    "Dmg - Extra"
+                ]
+            }
+        ]
     },
     {
         "name": "Topaz",
@@ -73729,7 +93278,23 @@ window.allHeroes =
             "defense": 868,
             "health": 1838
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Variable Targets"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Atk - Destroy Minions"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Mana - Mana Gain"
+                ]
+            }
+        ]
     },
     {
         "name": "Uraeus",
@@ -73785,7 +93350,24 @@ window.allHeroes =
             "defense": 896,
             "health": 1633
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Single",
+                    "Dmg: DoT"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Atk - Bypass Minions"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Dmg - DoT : Sand"
+                ]
+            }
+        ]
     },
     {
         "name": "Vaishali",
@@ -73849,7 +93431,27 @@ window.allHeroes =
             "defense": 1165,
             "health": 2103
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Heal: Over Time",
+                    "Dmg: DoT"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Atk - Attack ↑",
+                    "Status - Dispel Buffs"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Atk - Attack ↓",
+                    "Dmg - DoT : Sand",
+                    "Status - Cleanse Ailments"
+                ]
+            }
+        ]
     },
     {
         "name": "Vivica",
@@ -73898,7 +93500,23 @@ window.allHeroes =
             "defense": 855,
             "health": 1638
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Heal: Instant"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Def - Defense ↑"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Status - Cleanse Ailments"
+                ]
+            }
+        ]
     },
     {
         "name": "Vivica C1",
@@ -73947,7 +93565,23 @@ window.allHeroes =
             "defense": 975,
             "health": 1867
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Heal: Instant"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Status - Dispel Buffs"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Def - Defense ↓"
+                ]
+            }
+        ]
     },
     {
         "name": "Vivica C2",
@@ -73996,7 +93630,23 @@ window.allHeroes =
             "defense": 1117,
             "health": 2413
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Heal: Boost Health"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Status - Dispel Buffs"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Atk - Attack ↓"
+                ]
+            }
+        ]
     },
     {
         "name": "Vivica Toon",
@@ -74047,7 +93697,23 @@ window.allHeroes =
             "defense": 1368,
             "health": 2745
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Heal: Instant"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Def - Defense ↑"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Status - Cleanse Ailments"
+                ]
+            }
+        ]
     },
     {
         "name": "Vivica Glass",
@@ -74101,7 +93767,24 @@ window.allHeroes =
             "defense": 1550,
             "health": 2888
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Heal: Instant"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Status - Reflect Ailments",
+                    "Def - Defense ↑"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Status - Cleanse Ailments"
+                ]
+            }
+        ]
     },
     {
         "name": "Wayne",
@@ -74150,7 +93833,24 @@ window.allHeroes =
             "defense": 1381,
             "health": 1778
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Dmg: DoT"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Heal - From Dmg"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Heal - Steal Healing",
+                    "Dmg - DoT : Bleed"
+                ]
+            }
+        ]
     },
     {
         "name": "Wealhtheow",
@@ -74208,7 +93908,25 @@ window.allHeroes =
             "defense": 1524,
             "health": 2842
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Heal: Special",
+                    "Heal: Over Time",
+                    "Heal: Boost Health"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Dmg - Extra"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Mana - Mana Gen ↑"
+                ]
+            }
+        ]
     },
     {
         "name": "White Rabbit",
@@ -74254,7 +93972,18 @@ window.allHeroes =
             "defense": 924,
             "health": 1668
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Area"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Def - Defense ↓"
+                ]
+            }
+        ]
     },
     {
         "name": "White Rabbit C1",
@@ -74302,7 +94031,18 @@ window.allHeroes =
             "defense": 1142,
             "health": 2321
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Area"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Def - Defense ↓"
+                ]
+            }
+        ]
     },
     {
         "name": "Willow",
@@ -74366,7 +94106,30 @@ window.allHeroes =
             "defense": 1109,
             "health": 1971
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: All"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Atk - Bypass / Ignore"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Def - Counterattack",
+                    "Def - Dmg Reduction",
+                    "Status - Dispel Buffs"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Status - Buff Immunity"
+                ]
+            }
+        ]
     },
     {
         "name": "Winnie",
@@ -74420,7 +94183,24 @@ window.allHeroes =
             "defense": 1295,
             "health": 2395
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Heal: Boost Health"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Heal - Block Max Health ↓",
+                    "Def - Defense ↑"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Status - Cleanse Ailments"
+                ]
+            }
+        ]
     },
     {
         "name": "Wolfgang",
@@ -74470,7 +94250,20 @@ window.allHeroes =
             "defense": 967,
             "health": 1788
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Heal: Boost Health",
+                    "Atk: All",
+                    "Heal: Over Time"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Def - Dmg Reduction"
+                ]
+            }
+        ]
     },
     {
         "name": "Wolfgang C1",
@@ -74524,7 +94317,20 @@ window.allHeroes =
             "defense": 1438,
             "health": 2641
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Heal: Boost Health",
+                    "Atk: All",
+                    "Heal: Over Time"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Def - Dmg Reduction"
+                ]
+            }
+        ]
     },
     {
         "name": "Wulfstan",
@@ -74574,7 +94380,24 @@ window.allHeroes =
             "defense": 1437,
             "health": 2560
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: All"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Status - Steal Buffs"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Status - Insanity",
+                    "Status - Self-Debuff"
+                ]
+            }
+        ]
     },
     {
         "name": "Xavier",
@@ -74630,7 +94453,18 @@ window.allHeroes =
             "defense": 1094,
             "health": 2062
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Variable Targets"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Mana - Mana Cut"
+                ]
+            }
+        ]
     },
     {
         "name": "Zandria",
@@ -74685,7 +94519,19 @@ window.allHeroes =
             "defense": 1084,
             "health": 2110
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: All",
+                    "Heal: Revive"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Dmg - Tile : Up"
+                ]
+            }
+        ]
     },
     {
         "name": "Zazha",
@@ -74742,7 +94588,19 @@ window.allHeroes =
             "defense": 1440,
             "health": 2684
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Heal: From Dmg",
+                    "Atk: Single"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Status - Replace with Buff"
+                ]
+            }
+        ]
     },
     {
         "name": "Zekena",
@@ -74793,7 +94651,24 @@ window.allHeroes =
             "defense": 932,
             "health": 1722
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Single"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Atk - Extra Attack",
+                    "Dmg - Dmg ↑ : Dark"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Def - Defense ↓"
+                ]
+            }
+        ]
     },
     {
         "name": "Zekena C1",
@@ -74845,7 +94720,24 @@ window.allHeroes =
             "defense": 1194,
             "health": 2344
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Random"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Atk - Extra Attack",
+                    "Dmg - Dmg ↑ : Dark"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Def - Defense ↓"
+                ]
+            }
+        ]
     },
     {
         "name": "Zenuk'wa",
@@ -74897,7 +94789,23 @@ window.allHeroes =
             "defense": 1234,
             "health": 2329
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Area"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Dmg - Extra"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Status - Ailment Immunity"
+                ]
+            }
+        ]
     },
     {
         "name": "Zhang Fei",
@@ -74943,7 +94851,18 @@ window.allHeroes =
             "defense": 934,
             "health": 1747
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Single"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Status - Reflect Ailments"
+                ]
+            }
+        ]
     },
     {
         "name": "Zhang Fei C1",
@@ -74997,7 +94916,24 @@ window.allHeroes =
             "defense": 1227,
             "health": 2496
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Single",
+                    "Dmg: DoT"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Status - Reflect Ailments"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Dmg - DoT : Bleed"
+                ]
+            }
+        ]
     },
     {
         "name": "Zhuge Liang",
@@ -75047,7 +94983,19 @@ window.allHeroes =
             "defense": 1084,
             "health": 1905
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "特殊效果": [
+                    "Summon - Fiend",
+                    "Summon - Minion"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Def - Counterattack"
+                ]
+            }
+        ]
     },
     {
         "name": "Zhuge Liang C1",
@@ -75102,7 +95050,19 @@ window.allHeroes =
             "defense": 1467,
             "health": 2772
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "特殊效果": [
+                    "Summon - Fiend",
+                    "Summon - Minion"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Def - Counterattack"
+                ]
+            }
+        ]
     },
     {
         "name": "Zora",
@@ -75155,6 +95115,22 @@ window.allHeroes =
             "defense": 1231,
             "health": 2151
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: All"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Atk - Attack ↑"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Status - Cleanse Ailments"
+                ]
+            }
+        ]
     }
 ];
