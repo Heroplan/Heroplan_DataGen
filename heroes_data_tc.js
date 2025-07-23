@@ -209,19 +209,7 @@ window.allHeroes =
             "defense": 720,
             "health": 1095
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "治療：持續",
-                    "治療：復活"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "狀態-替換為增益"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "小奇克 (Chick Jr.)",
@@ -266,18 +254,7 @@ window.allHeroes =
             "defense": 579,
             "health": 985
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：全體"
-                ]
-            },
-            {
-                "负面效果": [
-                    "狀態-自我減益"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "多恩 (Dawn)",
@@ -333,24 +310,7 @@ window.allHeroes =
             "defense": 669,
             "health": 1277
         },
-        "cn_skill_info": [
-            {
-                "特殊效果": [
-                    "法力-削減法力",
-                    "召喚-召喚物"
-                ]
-            },
-            {
-                "增益效果": [
-                    "防禦-防禦↑：特殊技能"
-                ]
-            },
-            {
-                "负面效果": [
-                    "狀態-淨化狀態異常"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "佛斯迪 (Frosty)",
@@ -396,18 +356,7 @@ window.allHeroes =
             "defense": 732,
             "health": 1097
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "治療：即時"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "召喚-召喚物"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "加托 (Gato)",
@@ -453,18 +402,7 @@ window.allHeroes =
             "defense": 562,
             "health": 895
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：單一目標"
-                ]
-            },
-            {
-                "增益效果": [
-                    "狀態-免疫狀態異常"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "灰鬃狼人 (Graymane)",
@@ -510,18 +448,7 @@ window.allHeroes =
             "defense": 516,
             "health": 1105
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：單一目標"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "治療-透過傷害治療"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "灰鬃狼人 (Graymane) C1",
@@ -570,19 +497,7 @@ window.allHeroes =
             "defense": 588,
             "health": 1266
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：單一目標"
-                ]
-            },
-            {
-                "增益效果": [
-                    "狀態-免疫狀態異常",
-                    "攻擊-攻擊力↑"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "灰鬃狼人 (Graymane) 卡通",
@@ -632,19 +547,7 @@ window.allHeroes =
             "defense": 558,
             "health": 1326
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：單一目標"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "治療-透過傷害治療",
-                    "傷害-傷害↑：火焰"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "灰鬃狼人 (Graymane) 玻璃",
@@ -695,19 +598,7 @@ window.allHeroes =
             "defense": 625,
             "health": 1373
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：單一目標"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "治療-透過傷害治療",
-                    "攻擊-穿透/繞過"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "守護者狐猴 (Guardian Lemur)",
@@ -752,18 +643,7 @@ window.allHeroes =
             "defense": 688,
             "health": 1195
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "治療：即時"
-                ]
-            },
-            {
-                "增益效果": [
-                    "防禦-防禦↑：自然"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "古納爾 (Gunnar)",
@@ -809,14 +689,7 @@ window.allHeroes =
             "defense": 747,
             "health": 920
         },
-        "cn_skill_info": [
-            {
-                "增益效果": [
-                    "防禦-傷害分擔",
-                    "防禦-防禦力↑"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "古納爾 (Gunnar) C1",
@@ -862,18 +735,7 @@ window.allHeroes =
             "defense": 777,
             "health": 1031
         },
-        "cn_skill_info": [
-            {
-                "增益效果": [
-                    "防禦-傷害分擔"
-                ]
-            },
-            {
-                "负面效果": [
-                    "防禦-防禦力↓"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "古納爾 (Gunnar) 卡通",
@@ -921,14 +783,7 @@ window.allHeroes =
             "defense": 746,
             "health": 1144
         },
-        "cn_skill_info": [
-            {
-                "增益效果": [
-                    "防禦-傷害分擔",
-                    "防禦-防禦力↑"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "賀洛 (Helo)",
@@ -976,18 +831,7 @@ window.allHeroes =
             "defense": 708,
             "health": 1119
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "治療：即時"
-                ]
-            },
-            {
-                "负面效果": [
-                    "狀態-淨化狀態異常"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "賀洛 (Helo) C1",
@@ -1035,18 +879,7 @@ window.allHeroes =
             "defense": 734,
             "health": 1140
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "治療：持續"
-                ]
-            },
-            {
-                "负面效果": [
-                    "狀態-淨化狀態異常"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "亞里福 (Jarif)",
@@ -1096,18 +929,7 @@ window.allHeroes =
             "defense": 571,
             "health": 1272
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：單一目標"
-                ]
-            },
-            {
-                "负面效果": [
-                    "狀態-增益無效化"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "亞里福 (Jarif) C1",
@@ -1159,18 +981,7 @@ window.allHeroes =
             "defense": 557,
             "health": 1262
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：單一目標"
-                ]
-            },
-            {
-                "负面效果": [
-                    "狀態-增益無效化"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "賈爾弗爾 (Jarvur)",
@@ -1217,18 +1028,7 @@ window.allHeroes =
             "defense": 591,
             "health": 1085
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：單一目標"
-                ]
-            },
-            {
-                "增益效果": [
-                    "攻擊-疊加：攻擊力↑"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "尤卡海寧 (Joukahainen)",
@@ -1279,23 +1079,7 @@ window.allHeroes =
             "defense": 662,
             "health": 1229
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：全體"
-                ]
-            },
-            {
-                "增益效果": [
-                    "狀態-驅散增益"
-                ]
-            },
-            {
-                "负面效果": [
-                    "狀態-增益無效化"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "卡里爾 (Karil)",
@@ -1338,13 +1122,7 @@ window.allHeroes =
             "defense": 530,
             "health": 1027
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：鄰近輕傷"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "卡里爾 (Karil) C1",
@@ -1390,19 +1168,7 @@ window.allHeroes =
             "defense": 541,
             "health": 1121
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：鄰近輕傷",
-                    "傷害：持續傷害"
-                ]
-            },
-            {
-                "负面效果": [
-                    "傷害-持續傷害：燃燒"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "卡里爾 (Karil) 卡通",
@@ -1449,18 +1215,7 @@ window.allHeroes =
             "defense": 581,
             "health": 1212
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：鄰近輕傷"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "傷害-傷害↑：火焰"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "諾德里 (Nordri)",
@@ -1506,18 +1261,7 @@ window.allHeroes =
             "defense": 569,
             "health": 1146
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：鄰近輕傷"
-                ]
-            },
-            {
-                "负面效果": [
-                    "防禦-防禦↓：冰霜"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "諾德里 (Nordri) C1",
@@ -1563,18 +1307,7 @@ window.allHeroes =
             "defense": 606,
             "health": 1263
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：範圍"
-                ]
-            },
-            {
-                "负面效果": [
-                    "防禦-防禦↓：冰霜"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "普藍契 (Planchet)",
@@ -1625,19 +1358,7 @@ window.allHeroes =
             "defense": 635,
             "health": 1136
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：單一目標"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "攻擊-摧毀召喚物",
-                    "治療-自我恢復"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "索羅卡 (Soroca)",
@@ -1685,18 +1406,7 @@ window.allHeroes =
             "defense": 700,
             "health": 985
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：單一目標"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "傷害-額外傷害"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "天鵝少女 (Swan Maiden)",
@@ -1757,23 +1467,7 @@ window.allHeroes =
             "defense": 730,
             "health": 1217
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "治療：持續"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "攻擊-額外攻擊"
-                ]
-            },
-            {
-                "增益效果": [
-                    "防禦-閃避"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "烏爾墨 (Ulmer)",
@@ -1819,18 +1513,7 @@ window.allHeroes =
             "defense": 503,
             "health": 949
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：全體"
-                ]
-            },
-            {
-                "负面效果": [
-                    "防禦-防禦力↓"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "烏爾墨 (Ulmer) C1",
@@ -1876,18 +1559,7 @@ window.allHeroes =
             "defense": 574,
             "health": 1091
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：全體"
-                ]
-            },
-            {
-                "增益效果": [
-                    "攻擊-攻擊力↑"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "烏爾墨 (Ulmer) 卡通",
@@ -1937,23 +1609,7 @@ window.allHeroes =
             "defense": 707,
             "health": 1149
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：全體"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "傷害-傷害↑：火焰"
-                ]
-            },
-            {
-                "负面效果": [
-                    "防禦-防禦力↓"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "瓦倫 (Valen)",
@@ -1999,18 +1655,7 @@ window.allHeroes =
             "defense": 576,
             "health": 951
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：單一目標"
-                ]
-            },
-            {
-                "负面效果": [
-                    "防禦-防禦力↓"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "瓦倫 (Valen) C1",
@@ -2056,18 +1701,7 @@ window.allHeroes =
             "defense": 632,
             "health": 1072
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：單一目標"
-                ]
-            },
-            {
-                "增益效果": [
-                    "攻擊-攻擊力↑"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "瓦倫 (Valen) 卡通",
@@ -2117,23 +1751,7 @@ window.allHeroes =
             "defense": 673,
             "health": 1147
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：單一目標"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "傷害-傷害↑：火焰"
-                ]
-            },
-            {
-                "负面效果": [
-                    "防禦-防禦力↓"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "維吉爾 (Virgil)",
@@ -2193,19 +1811,7 @@ window.allHeroes =
             "defense": 693,
             "health": 1367
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "治療：即時"
-                ]
-            },
-            {
-                "增益效果": [
-                    "防禦-防禦↑：特殊技能",
-                    "防禦-防禦↑：自然"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "沃德尼克 (Vodnik)",
@@ -2250,18 +1856,7 @@ window.allHeroes =
             "defense": 601,
             "health": 1168
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：單一目標"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "傷害-額外傷害"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "姚 (Yao)",
@@ -2309,23 +1904,7 @@ window.allHeroes =
             "defense": 696,
             "health": 1090
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：範圍"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "召喚-召喚物"
-                ]
-            },
-            {
-                "增益效果": [
-                    "狀態-驅散增益"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "艾格威 (Agwe)",
@@ -2371,18 +1950,7 @@ window.allHeroes =
             "defense": 776,
             "health": 1359
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：全體"
-                ]
-            },
-            {
-                "增益效果": [
-                    "防禦-防禦↑：自然"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "艾格威 (Agwe) C1",
@@ -2428,19 +1996,7 @@ window.allHeroes =
             "defense": 896,
             "health": 1396
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：全體",
-                    "傷害：持續傷害"
-                ]
-            },
-            {
-                "负面效果": [
-                    "傷害-持續傷害：燃燒"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "水鎧兵 (Aqualith)",
@@ -2495,18 +2051,7 @@ window.allHeroes =
             "defense": 867,
             "health": 1574
         },
-        "cn_skill_info": [
-            {
-                "特殊效果": [
-                    "傷害-爆炸"
-                ]
-            },
-            {
-                "增益效果": [
-                    "防禦-嘲諷"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "水鎧兵 (Aqualith) C1",
@@ -2562,18 +2107,7 @@ window.allHeroes =
             "defense": 900,
             "health": 1647
         },
-        "cn_skill_info": [
-            {
-                "特殊效果": [
-                    "傷害-爆炸"
-                ]
-            },
-            {
-                "增益效果": [
-                    "防禦-嘲諷"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "艾茲米亞 (Azmia)",
@@ -2623,18 +2157,7 @@ window.allHeroes =
             "defense": 939,
             "health": 1670
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "治療：即時"
-                ]
-            },
-            {
-                "增益效果": [
-                    "防禦-反擊/反彈"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "艾茲米亞 (Azmia) C1",
@@ -2688,18 +2211,7 @@ window.allHeroes =
             "defense": 903,
             "health": 1725
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "治療：即時"
-                ]
-            },
-            {
-                "增益效果": [
-                    "防禦-反擊/反彈"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "澈骨寒地 (Bonechill)",
@@ -2752,23 +2264,7 @@ window.allHeroes =
             "defense": 958,
             "health": 1563
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：範圍"
-                ]
-            },
-            {
-                "增益效果": [
-                    "防禦-防禦↑：自然"
-                ]
-            },
-            {
-                "负面效果": [
-                    "防禦-防禦↓：特殊技能"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "博立爾 (Boril)",
@@ -2811,13 +2307,7 @@ window.allHeroes =
             "defense": 998,
             "health": 1450
         },
-        "cn_skill_info": [
-            {
-                "增益效果": [
-                    "防禦-反擊/反彈"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "博立爾 (Boril) C1",
@@ -2860,13 +2350,7 @@ window.allHeroes =
             "defense": 1093,
             "health": 1637
         },
-        "cn_skill_info": [
-            {
-                "增益效果": [
-                    "防禦-反擊/反彈"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "博立爾 (Boril) C2",
@@ -2909,13 +2393,7 @@ window.allHeroes =
             "defense": 1114,
             "health": 1770
         },
-        "cn_skill_info": [
-            {
-                "增益效果": [
-                    "防禦-反擊/反彈"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "博立爾 (Boril) 卡通",
@@ -2960,13 +2438,7 @@ window.allHeroes =
             "defense": 1076,
             "health": 1766
         },
-        "cn_skill_info": [
-            {
-                "增益效果": [
-                    "防禦-反擊/反彈"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "鑽石上尉 (Captain of Diamonds)",
@@ -3015,19 +2487,7 @@ window.allHeroes =
             "defense": 859,
             "health": 1418
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：單一目標"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "攻擊-摧毀召喚物",
-                    "攻擊-額外攻擊"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "戴恩 (Dain)",
@@ -3082,14 +2542,7 @@ window.allHeroes =
             "defense": 936,
             "health": 1697
         },
-        "cn_skill_info": [
-            {
-                "增益效果": [
-                    "防禦-傷害減免",
-                    "攻擊-攻擊力↑"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "法斯寇 (Fosco)",
@@ -3141,23 +2594,7 @@ window.allHeroes =
             "defense": 878,
             "health": 1560
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "治療：持續"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "攻擊-摧毀召喚物"
-                ]
-            },
-            {
-                "增益效果": [
-                    "狀態-驅散增益"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "法蘭克 (Frank)",
@@ -3207,23 +2644,7 @@ window.allHeroes =
             "defense": 805,
             "health": 1627
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：全體"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "傷害-額外傷害"
-                ]
-            },
-            {
-                "负面效果": [
-                    "防禦-防禦力↓"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "法蘭克 (Frank) C1",
@@ -3276,31 +2697,7 @@ window.allHeroes =
             "defense": 820,
             "health": 1712
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：全體",
-                    "傷害：持續傷害"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "傷害-額外傷害"
-                ]
-            },
-            {
-                "增益效果": [
-                    "法力-疊加：法力生成↑"
-                ]
-            },
-            {
-                "负面效果": [
-                    "防禦-防禦↓：冰霜",
-                    "傷害-疊加：持續傷害",
-                    "傷害-持續傷害：霜凍"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "加萊雅斯 (Garyas)",
@@ -3350,18 +2747,7 @@ window.allHeroes =
             "defense": 840,
             "health": 1624
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：單一目標"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "法力-面板：法力生成"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "葛雷 (Greg)",
@@ -3412,24 +2798,7 @@ window.allHeroes =
             "defense": 888,
             "health": 1582
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：全體",
-                    "傷害：持續傷害"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "召喚-超級召喚物"
-                ]
-            },
-            {
-                "负面效果": [
-                    "傷害-持續傷害：流血"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "格林姆 (Grimm)",
@@ -3475,18 +2844,7 @@ window.allHeroes =
             "defense": 669,
             "health": 1426
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：鄰近輕傷"
-                ]
-            },
-            {
-                "负面效果": [
-                    "防禦-防禦力↓"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "格林姆 (Grimm) C1",
@@ -3532,18 +2890,7 @@ window.allHeroes =
             "defense": 753,
             "health": 1625
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：鄰近輕傷"
-                ]
-            },
-            {
-                "增益效果": [
-                    "攻擊-攻擊力↑"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "格林姆 (Grimm) C2",
@@ -3588,18 +2935,7 @@ window.allHeroes =
             "defense": 760,
             "health": 1672
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：單一目標"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "傷害-額外傷害"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "格林姆 (Grimm) 卡通",
@@ -3649,23 +2985,7 @@ window.allHeroes =
             "defense": 803,
             "health": 1739
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：鄰近輕傷"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "傷害-傷害↑：火焰"
-                ]
-            },
-            {
-                "负面效果": [
-                    "防禦-防禦力↓"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "格林姆 (Grimm) 玻璃",
@@ -3715,23 +3035,7 @@ window.allHeroes =
             "defense": 815,
             "health": 1778
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：鄰近輕傷"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "攻擊-穿透/繞過"
-                ]
-            },
-            {
-                "负面效果": [
-                    "防禦-防禦力↓"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "格魯布爾 (Grumbl)",
@@ -3783,23 +3087,7 @@ window.allHeroes =
             "defense": 861,
             "health": 1632
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "治療：持續"
-                ]
-            },
-            {
-                "增益效果": [
-                    "防禦-傷害減免"
-                ]
-            },
-            {
-                "负面效果": [
-                    "狀態-淨化狀態異常"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "喬特 (Jott)",
@@ -3847,18 +3135,7 @@ window.allHeroes =
             "defense": 765,
             "health": 1418
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：全體"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "攻擊-面板：攻擊力"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "基里爾 (Kiril)",
@@ -3907,19 +3184,7 @@ window.allHeroes =
             "defense": 848,
             "health": 1303
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "治療：即時"
-                ]
-            },
-            {
-                "增益效果": [
-                    "攻擊-攻擊力↑",
-                    "防禦-防禦力↑"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "基里爾 (Kiril) C1",
@@ -3968,19 +3233,7 @@ window.allHeroes =
             "defense": 873,
             "health": 1467
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "治療：即時"
-                ]
-            },
-            {
-                "负面效果": [
-                    "攻擊-攻擊力↓",
-                    "防禦-防禦力↓"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "基里爾 (Kiril) C2",
@@ -4029,23 +3282,7 @@ window.allHeroes =
             "defense": 984,
             "health": 1611
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "治療：提高生命"
-                ]
-            },
-            {
-                "增益效果": [
-                    "防禦-防禦力↑"
-                ]
-            },
-            {
-                "负面效果": [
-                    "攻擊-攻擊力↓"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "基里爾 (Kiril) 卡通",
@@ -4096,19 +3333,7 @@ window.allHeroes =
             "defense": 986,
             "health": 1603
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "治療：即時"
-                ]
-            },
-            {
-                "增益效果": [
-                    "攻擊-攻擊力↑",
-                    "防禦-防禦力↑"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "基里爾 (Kiril) 玻璃",
@@ -4163,20 +3388,7 @@ window.allHeroes =
             "defense": 1024,
             "health": 1672
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "治療：即時"
-                ]
-            },
-            {
-                "增益效果": [
-                    "狀態-反彈負面效果",
-                    "攻擊-攻擊力↑",
-                    "防禦-防禦力↑"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "納寇斯 (Knuckles)",
@@ -4231,15 +3443,7 @@ window.allHeroes =
             "defense": 843,
             "health": 1766
         },
-        "cn_skill_info": [
-            {
-                "增益效果": [
-                    "狀態-反彈負面效果",
-                    "防禦-防禦力↑",
-                    "攻擊-疊加：攻擊力↑"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "利尼斯 (Linus)",
@@ -4292,19 +3496,7 @@ window.allHeroes =
             "defense": 853,
             "health": 1544
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：單一目標"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "攻擊-額外攻擊",
-                    "傷害-額外傷害"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "米列維福 (Mireweave)",
@@ -4351,18 +3543,7 @@ window.allHeroes =
             "defense": 752,
             "health": 1480
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：範圍"
-                ]
-            },
-            {
-                "增益效果": [
-                    "攻擊-疊加：攻擊力↑"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "歐貝克 (Olbec)",
@@ -4412,25 +3593,7 @@ window.allHeroes =
             "defense": 808,
             "health": 1579
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：單一目標"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "法力-削減法力",
-                    "攻擊-無視閃避",
-                    "傷害-傷害↑：神聖"
-                ]
-            },
-            {
-                "增益效果": [
-                    "防禦-傷害減免"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "修 (Osamu)",
@@ -4488,23 +3651,7 @@ window.allHeroes =
             "defense": 803,
             "health": 1552
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：單一目標"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "法力-法力恢復（擊殺）"
-                ]
-            },
-            {
-                "负面效果": [
-                    "防禦-防禦力↓"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "桑格里爾 (Sanngrior)",
@@ -4550,18 +3697,7 @@ window.allHeroes =
             "defense": 856,
             "health": 1823
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "治療：提高生命"
-                ]
-            },
-            {
-                "增益效果": [
-                    "防禦-防禦↑：自然"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "藍寶 (Sapphire)",
@@ -4617,18 +3753,7 @@ window.allHeroes =
             "defense": 682,
             "health": 1619
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：數量變化"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "攻擊-穿透/繞過"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "索尼婭 (Sonya)",
@@ -4674,18 +3799,7 @@ window.allHeroes =
             "defense": 920,
             "health": 1274
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：單一目標"
-                ]
-            },
-            {
-                "增益效果": [
-                    "狀態-驅散增益"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "索尼婭 (Sonya) C1",
@@ -4731,18 +3845,7 @@ window.allHeroes =
             "defense": 979,
             "health": 1401
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：單一目標"
-                ]
-            },
-            {
-                "负面效果": [
-                    "狀態-淨化狀態異常"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "索尼婭 (Sonya) C2",
@@ -4788,18 +3891,7 @@ window.allHeroes =
             "defense": 892,
             "health": 1486
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：單一目標"
-                ]
-            },
-            {
-                "负面效果": [
-                    "狀態-增益無效化"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "索尼婭 (Sonya) 卡通",
@@ -4849,23 +3941,7 @@ window.allHeroes =
             "defense": 954,
             "health": 1505
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：單一目標"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "傷害-傷害↑：火焰"
-                ]
-            },
-            {
-                "增益效果": [
-                    "狀態-驅散增益"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "崔坦 (Triton)",
@@ -4911,18 +3987,7 @@ window.allHeroes =
             "defense": 757,
             "health": 1322
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：單一目標"
-                ]
-            },
-            {
-                "增益效果": [
-                    "治療-治療量↑"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "崔坦 (Triton) C1",
@@ -4968,18 +4033,7 @@ window.allHeroes =
             "defense": 860,
             "health": 1409
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：鄰近輕傷"
-                ]
-            },
-            {
-                "增益效果": [
-                    "攻擊-攻擊力↑"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "法蕾莉 (Valeria)",
@@ -5031,19 +4085,7 @@ window.allHeroes =
             "defense": 827,
             "health": 1507
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：單一目標",
-                    "傷害：持續傷害"
-                ]
-            },
-            {
-                "负面效果": [
-                    "治療-奪取治療"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "夏侯惇 (Xiahou Dun)",
@@ -5091,23 +4133,7 @@ window.allHeroes =
             "defense": 942,
             "health": 1485
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：單一目標"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "召喚-召喚物"
-                ]
-            },
-            {
-                "增益效果": [
-                    "狀態-驅散增益"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "基拉蕾 (Zila Lei)",
@@ -5155,18 +4181,7 @@ window.allHeroes =
             "defense": 821,
             "health": 1555
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：兩側"
-                ]
-            },
-            {
-                "负面效果": [
-                    "防禦-防禦力↓"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "基拉蕾 (Zila Lei) C1",
@@ -5214,18 +4229,7 @@ window.allHeroes =
             "defense": 840,
             "health": 1580
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：兩側"
-                ]
-            },
-            {
-                "负面效果": [
-                    "防禦-防禦力↓"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "安達林達 (Adalinda)",
@@ -5279,23 +4283,7 @@ window.allHeroes =
             "defense": 1082,
             "health": 2090
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：範圍"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "召喚-惡魔"
-                ]
-            },
-            {
-                "负面效果": [
-                    "防禦-防禦力↓"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "艾吉爾 (Aegir)",
@@ -5346,19 +4334,7 @@ window.allHeroes =
             "defense": 993,
             "health": 1783
         },
-        "cn_skill_info": [
-            {
-                "特殊效果": [
-                    "治療-透過傷害治療"
-                ]
-            },
-            {
-                "增益效果": [
-                    "防禦-傷害分擔",
-                    "防禦-防禦力↑"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "艾吉爾 (Aegir) C1",
@@ -5411,19 +4387,7 @@ window.allHeroes =
             "defense": 1214,
             "health": 2625
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "治療：持續"
-                ]
-            },
-            {
-                "增益效果": [
-                    "防禦-傷害分擔",
-                    "防禦-防禦力↑"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "艾諾 (Aino)",
@@ -5474,19 +4438,7 @@ window.allHeroes =
             "defense": 1000,
             "health": 1831
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "治療：即時"
-                ]
-            },
-            {
-                "负面效果": [
-                    "法力-法力生成↓/阻止",
-                    "狀態-淨化狀態異常"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "艾諾 (Aino) C1",
@@ -5537,19 +4489,7 @@ window.allHeroes =
             "defense": 1384,
             "health": 2465
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "治療：即時"
-                ]
-            },
-            {
-                "负面效果": [
-                    "法力-法力生成↓/阻止",
-                    "狀態-淨化狀態異常"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "阿拉希 (Alasie)",
@@ -5598,18 +4538,7 @@ window.allHeroes =
             "defense": 871,
             "health": 1648
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：單一目標"
-                ]
-            },
-            {
-                "负面效果": [
-                    "法力-法力生成↓/阻止"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "阿拉希 (Alasie) C1",
@@ -5663,23 +4592,7 @@ window.allHeroes =
             "defense": 1123,
             "health": 2408
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：鄰近輕傷"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "法力-削減法力"
-                ]
-            },
-            {
-                "负面效果": [
-                    "法力-法力生成↓/阻止"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "亞力山吉恩 (Alexandrine)",
@@ -5733,24 +4646,7 @@ window.allHeroes =
             "defense": 922,
             "health": 1755
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "治療：即時",
-                    "治療：特殊"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "攻擊-面板：暴擊"
-                ]
-            },
-            {
-                "负面效果": [
-                    "攻擊-命中率↓"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "愛麗絲 (Alice)",
@@ -5796,18 +4692,7 @@ window.allHeroes =
             "defense": 881,
             "health": 1635
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：單一目標"
-                ]
-            },
-            {
-                "负面效果": [
-                    "攻擊-攻擊力↓"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "安菲特里忒 (Amphitrite)",
@@ -5871,23 +4756,7 @@ window.allHeroes =
             "defense": 1071,
             "health": 2184
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：全體"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "召喚-惡魔"
-                ]
-            },
-            {
-                "负面效果": [
-                    "治療-治療量↓"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "安德瓦里 (Andvari)",
@@ -5948,20 +4817,7 @@ window.allHeroes =
             "defense": 1450,
             "health": 2766
         },
-        "cn_skill_info": [
-            {
-                "特殊效果": [
-                    "召喚-摧毀惡魔",
-                    "攻擊-摧毀召喚物"
-                ]
-            },
-            {
-                "增益效果": [
-                    "防禦-傷害減免",
-                    "法力-法力生成↑"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "安吉雅 (Anzia)",
@@ -6013,14 +4869,7 @@ window.allHeroes =
             "defense": 1036,
             "health": 2240
         },
-        "cn_skill_info": [
-            {
-                "增益效果": [
-                    "防禦-反擊/反彈",
-                    "法力-法力恢復"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "阿瑞克斯 (Areax)",
@@ -6074,24 +4923,7 @@ window.allHeroes =
             "defense": 922,
             "health": 2080
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：單一目標",
-                    "傷害：持續傷害"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "攻擊-連鎖"
-                ]
-            },
-            {
-                "负面效果": [
-                    "傷害-持續傷害：霜凍"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "艾利爾 (Ariel)",
@@ -6140,23 +4972,7 @@ window.allHeroes =
             "defense": 947,
             "health": 1554
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "治療：即時"
-                ]
-            },
-            {
-                "增益效果": [
-                    "法力-法力生成↑"
-                ]
-            },
-            {
-                "负面效果": [
-                    "狀態-淨化狀態異常"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "艾利爾 (Ariel) C1",
@@ -6205,23 +5021,7 @@ window.allHeroes =
             "defense": 1167,
             "health": 2000
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "治療：提高生命"
-                ]
-            },
-            {
-                "增益效果": [
-                    "法力-法力恢復"
-                ]
-            },
-            {
-                "负面效果": [
-                    "狀態-淨化狀態異常"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "阿梅爾 (Armel)",
@@ -6272,24 +5072,7 @@ window.allHeroes =
             "defense": 1270,
             "health": 2159
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "傷害：持續傷害"
-                ]
-            },
-            {
-                "增益效果": [
-                    "狀態-驅散增益"
-                ]
-            },
-            {
-                "负面效果": [
-                    "治療-最大生命值↓",
-                    "傷害-持續傷害：霜凍"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "艾希恩 (Ascian)",
@@ -6346,28 +5129,7 @@ window.allHeroes =
             "defense": 1374,
             "health": 2733
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：全體"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "法力-削減法力"
-                ]
-            },
-            {
-                "增益效果": [
-                    "法力-法力恢復"
-                ]
-            },
-            {
-                "负面效果": [
-                    "防禦-防禦↓：特殊技能"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "雅典娜 (Athena)",
@@ -6418,23 +5180,7 @@ window.allHeroes =
             "defense": 853,
             "health": 1663
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：鄰近輕傷"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "傷害-傷害↑：火焰"
-                ]
-            },
-            {
-                "负面效果": [
-                    "防禦-防禦力↓"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "雅典娜 (Athena) C1",
@@ -6488,19 +5234,7 @@ window.allHeroes =
             "defense": 1102,
             "health": 2422
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：鄰近輕傷"
-                ]
-            },
-            {
-                "负面效果": [
-                    "防禦-防禦↓：冰霜",
-                    "防禦-防禦力↓"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "雅特蘭提亞 (Atlanteia)",
@@ -6559,20 +5293,7 @@ window.allHeroes =
             "defense": 1275,
             "health": 1887
         },
-        "cn_skill_info": [
-            {
-                "特殊效果": [
-                    "傷害-額外傷害"
-                ]
-            },
-            {
-                "负面效果": [
-                    "法力-法力奪取",
-                    "攻擊-攻擊力↓",
-                    "傷害-持續傷害：霜凍"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "雅特蘭提亞 (Atlanteia) C1",
@@ -6632,20 +5353,7 @@ window.allHeroes =
             "defense": 1693,
             "health": 2382
         },
-        "cn_skill_info": [
-            {
-                "特殊效果": [
-                    "傷害-額外傷害"
-                ]
-            },
-            {
-                "负面效果": [
-                    "法力-法力奪取",
-                    "攻擊-攻擊力↓",
-                    "傷害-持續傷害：霜凍"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "石青 (Azurite)",
@@ -6703,23 +5411,7 @@ window.allHeroes =
             "defense": 955,
             "health": 1821
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：數量變化"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "傷害-額外傷害"
-                ]
-            },
-            {
-                "负面效果": [
-                    "攻擊-命中率↓"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "柏羅 (Balur)",
@@ -6772,19 +5464,7 @@ window.allHeroes =
             "defense": 947,
             "health": 1775
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：單一目標",
-                    "傷害：持續傷害"
-                ]
-            },
-            {
-                "负面效果": [
-                    "傷害-持續傷害：流血"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "貝努 (Bennu)",
@@ -6833,14 +5513,7 @@ window.allHeroes =
             "defense": 1059,
             "health": 1927
         },
-        "cn_skill_info": [
-            {
-                "增益效果": [
-                    "防禦-反擊/反彈",
-                    "防禦-傷害減免"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "貝努 (Bennu) C1",
@@ -6893,14 +5566,7 @@ window.allHeroes =
             "defense": 1493,
             "health": 2736
         },
-        "cn_skill_info": [
-            {
-                "增益效果": [
-                    "防禦-反擊/反彈",
-                    "防禦-傷害減免"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "巴爾泰爾 (Bhaltair)",
@@ -6956,24 +5622,7 @@ window.allHeroes =
             "defense": 1643,
             "health": 2458
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "治療：傷害量",
-                    "攻擊：全體"
-                ]
-            },
-            {
-                "增益效果": [
-                    "法力-法力生成↑"
-                ]
-            },
-            {
-                "负面效果": [
-                    "狀態-阻止召喚物"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "波波 (Bobo)",
@@ -7022,19 +5671,7 @@ window.allHeroes =
             "defense": 988,
             "health": 1701
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：全體"
-                ]
-            },
-            {
-                "负面效果": [
-                    "攻擊-攻擊力↓",
-                    "防禦-防禦力↓"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "泡泡 (Bubbles)",
@@ -7086,19 +5723,7 @@ window.allHeroes =
             "defense": 1023,
             "health": 1897
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：單一目標"
-                ]
-            },
-            {
-                "负面效果": [
-                    "法力-混亂/沉默/睡眠",
-                    "防禦-防禦力↓"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "波頓 (Burton)",
@@ -7147,24 +5772,7 @@ window.allHeroes =
             "defense": 1435,
             "health": 2623
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：範圍"
-                ]
-            },
-            {
-                "增益效果": [
-                    "防禦-傷害減免"
-                ]
-            },
-            {
-                "负面效果": [
-                    "狀態-狂亂",
-                    "狀態-自我減益"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "凱倫 (Caelen)",
@@ -7218,20 +5826,7 @@ window.allHeroes =
             "defense": 1371,
             "health": 2164
         },
-        "cn_skill_info": [
-            {
-                "特殊效果": [
-                    "召喚-超級召喚物"
-                ]
-            },
-            {
-                "负面效果": [
-                    "法力-混亂/沉默/睡眠",
-                    "防禦-受到傷害↑",
-                    "狀態-淨化狀態異常"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "卡米拉 (Camilla)",
@@ -7290,24 +5885,7 @@ window.allHeroes =
             "defense": 1059,
             "health": 1828
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "治療：提高生命"
-                ]
-            },
-            {
-                "增益效果": [
-                    "防禦-防禦↑：特殊技能"
-                ]
-            },
-            {
-                "负面效果": [
-                    "治療-最大生命值↓",
-                    "防禦-防禦↓：特殊技能"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "曹操 (Cao Cao)",
@@ -7358,24 +5936,7 @@ window.allHeroes =
             "defense": 1003,
             "health": 1811
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：全體"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "召喚-召喚物"
-                ]
-            },
-            {
-                "增益效果": [
-                    "防禦-防禦力↑",
-                    "狀態-驅散增益"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "曹操 (Cao Cao) C1",
@@ -7431,24 +5992,7 @@ window.allHeroes =
             "defense": 1381,
             "health": 2610
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：全體"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "召喚-召喚物"
-                ]
-            },
-            {
-                "增益效果": [
-                    "防禦-防禦力↑",
-                    "狀態-驅散增益"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "凱撒 (Cathal)",
@@ -7504,24 +6048,7 @@ window.allHeroes =
             "defense": 990,
             "health": 1760
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：單一目標"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "攻擊-穿透/繞過"
-                ]
-            },
-            {
-                "增益效果": [
-                    "法力-疊加：法力生成↑",
-                    "治療-疊加：生命恢復"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "賽爾 (Cel)",
@@ -7571,18 +6098,7 @@ window.allHeroes =
             "defense": 1117,
             "health": 2189
         },
-        "cn_skill_info": [
-            {
-                "特殊效果": [
-                    "召喚-召喚物"
-                ]
-            },
-            {
-                "增益效果": [
-                    "防禦-傷害減免"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "賽理梅 (Celimene)",
@@ -7633,19 +6149,7 @@ window.allHeroes =
             "defense": 1059,
             "health": 1981
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：範圍"
-                ]
-            },
-            {
-                "负面效果": [
-                    "狀態-阻止淨化",
-                    "防禦-防禦力↓"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "希托 (Ceto)",
@@ -7706,28 +6210,7 @@ window.allHeroes =
             "defense": 1036,
             "health": 2014
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：全體",
-                    "攻擊：單一目標",
-                    "傷害：持續傷害"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "治療-透過傷害治療"
-                ]
-            },
-            {
-                "负面效果": [
-                    "法力-法力生成↓/阻止",
-                    "攻擊-攻擊力↓",
-                    "防禦-防禦力↓",
-                    "傷害-持續傷害：水"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "希托 (Ceto) C1",
@@ -7789,27 +6272,7 @@ window.allHeroes =
             "defense": 1315,
             "health": 2571
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：全體",
-                    "傷害：持續傷害"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "治療-透過傷害治療"
-                ]
-            },
-            {
-                "负面效果": [
-                    "法力-法力生成↓/阻止",
-                    "攻擊-攻擊力↓",
-                    "防禦-防禦力↓",
-                    "傷害-持續傷害：水"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "嫦娥 (Chang'e)",
@@ -7860,23 +6323,7 @@ window.allHeroes =
             "defense": 1221,
             "health": 2070
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：全體"
-                ]
-            },
-            {
-                "增益效果": [
-                    "防禦-防禦↑：特殊技能"
-                ]
-            },
-            {
-                "负面效果": [
-                    "狀態-增益無效化"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "查斯特 (Chester)",
@@ -7927,20 +6374,7 @@ window.allHeroes =
             "defense": 1562,
             "health": 2189
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：範圍",
-                    "傷害：持續傷害"
-                ]
-            },
-            {
-                "负面效果": [
-                    "傷害-持續傷害：詛咒",
-                    "法力-混亂/沉默/睡眠"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "奇米斯特 (Chimister)",
@@ -7999,29 +6433,7 @@ window.allHeroes =
             "defense": 1422,
             "health": 2540
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "治療：提高生命",
-                    "治療：持續"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "攻擊-賭博/隨機效果"
-                ]
-            },
-            {
-                "增益效果": [
-                    "狀態-驅散增益"
-                ]
-            },
-            {
-                "负面效果": [
-                    "傷害-持續傷害：毒"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "奇特拉加達 (Chitrangada)",
@@ -8079,20 +6491,7 @@ window.allHeroes =
             "defense": 1590,
             "health": 2750
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "治療：即時",
-                    "治療：復活",
-                    "治療：特殊"
-                ]
-            },
-            {
-                "负面效果": [
-                    "狀態-淨化狀態異常"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "席亞拉 (Ciara)",
@@ -8143,23 +6542,7 @@ window.allHeroes =
             "defense": 1455,
             "health": 2578
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：全體"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "召喚-超級召喚物"
-                ]
-            },
-            {
-                "增益效果": [
-                    "狀態-驅散增益"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "肉桂 (Cinnamon)",
@@ -8211,20 +6594,7 @@ window.allHeroes =
             "defense": 1049,
             "health": 1948
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：全體",
-                    "傷害：持續傷害"
-                ]
-            },
-            {
-                "负面效果": [
-                    "傷害-持續傷害：霜凍",
-                    "防禦-防禦↓：冰霜"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "克雷格 (Claeg)",
@@ -8275,19 +6645,7 @@ window.allHeroes =
             "defense": 1333,
             "health": 2392
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "治療：即時",
-                    "治療：特殊"
-                ]
-            },
-            {
-                "负面效果": [
-                    "狀態-淨化狀態異常"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "鈷藍 (Cobalt)",
@@ -8343,18 +6701,7 @@ window.allHeroes =
             "defense": 845,
             "health": 1770
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：數量變化"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "攻擊-穿透/繞過"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "宇宙音響 (Cosmicspeaker)",
@@ -8409,23 +6756,7 @@ window.allHeroes =
             "defense": 1394,
             "health": 2255
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：全體"
-                ]
-            },
-            {
-                "增益效果": [
-                    "狀態-免疫狀態異常"
-                ]
-            },
-            {
-                "负面效果": [
-                    "狀態-增益無效化"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "克里斯泰利斯 (Crystalis)",
@@ -8478,26 +6809,7 @@ window.allHeroes =
             "defense": 932,
             "health": 1694
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：全體",
-                    "傷害：持續傷害"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "傷害-額外傷害",
-                    "狀態-減少增益回合"
-                ]
-            },
-            {
-                "负面效果": [
-                    "攻擊-攻擊力↓",
-                    "傷害-持續傷害：霜凍"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "戴利威利 (Davey Wavey)",
@@ -8551,19 +6863,7 @@ window.allHeroes =
             "defense": 1206,
             "health": 2364
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "治療：持續"
-                ]
-            },
-            {
-                "增益效果": [
-                    "法力-法力生成↑",
-                    "防禦-防禦力↑"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "艾絲梅 (Esme)",
@@ -8613,23 +6913,7 @@ window.allHeroes =
             "defense": 962,
             "health": 1821
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "治療：提高生命"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "召喚-摧毀惡魔"
-                ]
-            },
-            {
-                "增益效果": [
-                    "狀態-阻止惡魔"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "伊瑟拉 (Exeera)",
@@ -8676,24 +6960,7 @@ window.allHeroes =
             "defense": 957,
             "health": 1714
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：全體",
-                    "傷害：持續傷害"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "傷害-面板：提高傷害"
-                ]
-            },
-            {
-                "负面效果": [
-                    "傷害-持續傷害：水"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "伊瑟拉 (Exeera) C1",
@@ -8742,24 +7009,7 @@ window.allHeroes =
             "defense": 1224,
             "health": 2293
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：全體",
-                    "傷害：持續傷害"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "傷害-面板：提高傷害"
-                ]
-            },
-            {
-                "负面效果": [
-                    "傷害-持續傷害：水"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "經驗模仿怪 (Experience Mimic) Ice",
@@ -8821,25 +7071,7 @@ window.allHeroes =
             "defense": 1524,
             "health": 2616
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：單一目標"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "攻擊-摧毀召喚物",
-                    "法力-法力恢復（擊殺）",
-                    "治療-自我恢復"
-                ]
-            },
-            {
-                "增益效果": [
-                    "防禦-擬態"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "芬里爾 (Fenrir)",
@@ -8890,20 +7122,7 @@ window.allHeroes =
             "defense": 909,
             "health": 1600
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：單一目標"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "傷害-額外傷害",
-                    "法力-法力恢復（擊殺）",
-                    "治療-透過傷害治療"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "芬里爾 (Fenrir) C1",
@@ -8954,20 +7173,7 @@ window.allHeroes =
             "defense": 1144,
             "health": 2138
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：單一目標"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "傷害-額外傷害",
-                    "法力-法力恢復（擊殺）",
-                    "治療-自我恢復"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "弗格斯 (Fergus)",
@@ -9021,25 +7227,7 @@ window.allHeroes =
             "defense": 1452,
             "health": 2697
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "傷害：持續傷害"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "法力-削減法力",
-                    "召喚-超級召喚物"
-                ]
-            },
-            {
-                "负面效果": [
-                    "法力-法力生成↓/阻止",
-                    "傷害-持續傷害：流血"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "芬利 (Finley)",
@@ -9088,23 +7276,7 @@ window.allHeroes =
             "defense": 919,
             "health": 1620
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：單一目標"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "攻擊-連鎖"
-                ]
-            },
-            {
-                "负面效果": [
-                    "防禦-防禦力↓"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "芬利 (Finley) C1",
@@ -9156,23 +7328,7 @@ window.allHeroes =
             "defense": 1120,
             "health": 2196
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：單一目標"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "攻擊-連鎖"
-                ]
-            },
-            {
-                "负面效果": [
-                    "防禦-防禦力↓"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "費明理查德 (Firmin Richard)",
@@ -9225,19 +7381,7 @@ window.allHeroes =
             "defense": 1094,
             "health": 2252
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：全體"
-                ]
-            },
-            {
-                "增益效果": [
-                    "攻擊-疊加：攻擊力↑",
-                    "防禦-疊加：防禦力↑"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "菲茲奎爾 (Fizzcoil)",
@@ -9290,20 +7434,7 @@ window.allHeroes =
             "defense": 1148,
             "health": 1927
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：全體"
-                ]
-            },
-            {
-                "负面效果": [
-                    "法力-法力生成↓/阻止",
-                    "攻擊-枯萎：攻擊力↓",
-                    "防禦-枯萎：防禦力↓"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "佛圖納 (Fortuna)",
@@ -9359,28 +7490,7 @@ window.allHeroes =
             "defense": 1056,
             "health": 1953
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：全體"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "召喚-惡魔"
-                ]
-            },
-            {
-                "增益效果": [
-                    "狀態-驅散增益"
-                ]
-            },
-            {
-                "负面效果": [
-                    "攻擊-攻擊力↓"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "弗里達 (Frida)",
@@ -9433,23 +7543,7 @@ window.allHeroes =
             "defense": 891,
             "health": 1640
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：範圍"
-                ]
-            },
-            {
-                "增益效果": [
-                    "狀態-驅散增益"
-                ]
-            },
-            {
-                "负面效果": [
-                    "防禦-防禦↓：冰霜"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "佛羅斯 (Frosth)",
@@ -9501,14 +7595,7 @@ window.allHeroes =
             "defense": 901,
             "health": 1661
         },
-        "cn_skill_info": [
-            {
-                "特殊效果": [
-                    "召喚-召喚物",
-                    "召喚-超級召喚物"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "法斯勒特 (Frostsnout)",
@@ -9560,23 +7647,7 @@ window.allHeroes =
             "defense": 1432,
             "health": 2631
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：範圍"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "狀態-減少狀態異常回合"
-                ]
-            },
-            {
-                "增益效果": [
-                    "攻擊-暴擊率↑"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "蓋拉德 (Gaillard)",
@@ -9627,18 +7698,7 @@ window.allHeroes =
             "defense": 911,
             "health": 1851
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：單一目標"
-                ]
-            },
-            {
-                "增益效果": [
-                    "狀態-阻止惡魔"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "果依拉奇 (Ghealach)",
@@ -9695,23 +7755,7 @@ window.allHeroes =
             "defense": 1173,
             "health": 2115
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：範圍"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "召喚-惡魔"
-                ]
-            },
-            {
-                "负面效果": [
-                    "法力-法力奪取"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "格拉迪厄斯 (Gladius)",
@@ -9764,23 +7808,7 @@ window.allHeroes =
             "defense": 1132,
             "health": 2103
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：單一目標"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "攻擊-無視閃避"
-                ]
-            },
-            {
-                "负面效果": [
-                    "防禦-疊加：受到傷害↑"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "格倫達 (Glenda)",
@@ -9832,23 +7860,7 @@ window.allHeroes =
             "defense": 891,
             "health": 1678
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：範圍"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "傷害-額外傷害"
-                ]
-            },
-            {
-                "负面效果": [
-                    "狀態-淨化狀態異常"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "格里姆斯蒂爾 (Grimsteel)",
@@ -9901,20 +7913,7 @@ window.allHeroes =
             "defense": 1369,
             "health": 2283
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "治療：即時"
-                ]
-            },
-            {
-                "增益效果": [
-                    "防禦-成長：防禦力↑",
-                    "防御-成长：防御力↑",
-                    "法力-法力生成↑"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "河馬守護者 (Guardian Hippo)",
@@ -9960,18 +7959,7 @@ window.allHeroes =
             "defense": 965,
             "health": 1828
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：全體"
-                ]
-            },
-            {
-                "增益效果": [
-                    "法力-法力生成↑"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "海特菲莉斯 (Hetepheres)",
@@ -10024,23 +8012,7 @@ window.allHeroes =
             "defense": 1089,
             "health": 2009
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "治療：即時"
-                ]
-            },
-            {
-                "增益效果": [
-                    "防禦-防禦↑：自然"
-                ]
-            },
-            {
-                "负面效果": [
-                    "攻擊-命中率↓"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "海特菲莉斯 (Hetepheres) C1",
@@ -10096,23 +8068,7 @@ window.allHeroes =
             "defense": 1542,
             "health": 2845
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "治療：即時"
-                ]
-            },
-            {
-                "增益效果": [
-                    "防禦-防禦↑：自然"
-                ]
-            },
-            {
-                "负面效果": [
-                    "攻擊-命中率↓"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "西梅洛斯 (Himeros)",
@@ -10162,23 +8118,7 @@ window.allHeroes =
             "defense": 993,
             "health": 1838
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：單一目標"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "傷害-額外傷害"
-                ]
-            },
-            {
-                "增益效果": [
-                    "狀態-驅散增益"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "赫涅 (Hogne)",
@@ -10238,25 +8178,7 @@ window.allHeroes =
             "defense": 1480,
             "health": 2852
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：範圍"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "攻擊-無視閃避",
-                    "傷害-傷害↑：火焰"
-                ]
-            },
-            {
-                "负面效果": [
-                    "治療-最大生命值↓",
-                    "治療-治療量↓"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "赫羅斯加爾 (Hrothgar)",
@@ -10316,24 +8238,7 @@ window.allHeroes =
             "defense": 1343,
             "health": 2651
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：全體"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "法力-削減法力"
-                ]
-            },
-            {
-                "增益效果": [
-                    "攻擊-攻擊力↑",
-                    "防禦-防禦力↑"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "希絲特莉亞 (Hysteria)",
@@ -10381,19 +8286,7 @@ window.allHeroes =
             "defense": 1529,
             "health": 2786
         },
-        "cn_skill_info": [
-            {
-                "增益效果": [
-                    "防禦-嘲諷"
-                ]
-            },
-            {
-                "负面效果": [
-                    "狀態-狂亂",
-                    "狀態-自我減益"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "艾莉絲 (Iris)",
@@ -10446,23 +8339,7 @@ window.allHeroes =
             "defense": 927,
             "health": 1699
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：鄰近輕傷"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "傷害-傷害↑：火焰"
-                ]
-            },
-            {
-                "增益效果": [
-                    "狀態-驅散增益"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "伊薩莉亞 (Isarnia)",
@@ -10508,18 +8385,7 @@ window.allHeroes =
             "defense": 807,
             "health": 1480
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：全體"
-                ]
-            },
-            {
-                "负面效果": [
-                    "防禦-防禦力↓"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "伊薩莉亞 (Isarnia) C1",
@@ -10565,18 +8431,7 @@ window.allHeroes =
             "defense": 874,
             "health": 1638
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：全體"
-                ]
-            },
-            {
-                "负面效果": [
-                    "防禦-防禦力↓"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "伊薩莉亞 (Isarnia) C2",
@@ -10624,23 +8479,7 @@ window.allHeroes =
             "defense": 1015,
             "health": 2121
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：全體"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "傷害-傷害↑：火焰"
-                ]
-            },
-            {
-                "负面效果": [
-                    "攻擊-攻擊力↓"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "伊薩莉亞 (Isarnia) 卡通",
@@ -10690,23 +8529,7 @@ window.allHeroes =
             "defense": 1298,
             "health": 2546
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：全體"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "傷害-傷害↑：火焰"
-                ]
-            },
-            {
-                "负面效果": [
-                    "防禦-防禦力↓"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "伊薩莉亞 (Isarnia) 玻璃",
@@ -10757,23 +8580,7 @@ window.allHeroes =
             "defense": 1342,
             "health": 2593
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：全體"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "攻擊-穿透/繞過"
-                ]
-            },
-            {
-                "负面效果": [
-                    "防禦-防禦力↓"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "易辛 (Ixinn)",
@@ -10831,24 +8638,7 @@ window.allHeroes =
             "defense": 1557,
             "health": 2545
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：單一目標"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "攻擊-連鎖"
-                ]
-            },
-            {
-                "负面效果": [
-                    "防禦-受到傷害↑",
-                    "攻擊-枯萎：攻擊力↓"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "裘特 (Jolt)",
@@ -10906,28 +8696,7 @@ window.allHeroes =
             "defense": 1206,
             "health": 1968
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：單一目標"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "攻擊-連鎖"
-                ]
-            },
-            {
-                "增益效果": [
-                    "攻擊-攻擊力↑"
-                ]
-            },
-            {
-                "负面效果": [
-                    "攻擊-命中率↓"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "喬里昂 (Jolyon)",
@@ -10982,19 +8751,7 @@ window.allHeroes =
             "defense": 1508,
             "health": 2791
         },
-        "cn_skill_info": [
-            {
-                "特殊效果": [
-                    "召喚-召喚物"
-                ]
-            },
-            {
-                "增益效果": [
-                    "狀態-免疫狀態異常",
-                    "防禦-閃避"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "卡比洛斯 (Kabeiroi)",
@@ -11048,19 +8805,7 @@ window.allHeroes =
             "defense": 1193,
             "health": 2082
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：單一目標",
-                    "攻擊：隨機"
-                ]
-            },
-            {
-                "负面效果": [
-                    "法力-混亂/沉默/睡眠"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "水壺 (Kettle)",
@@ -11119,30 +8864,7 @@ window.allHeroes =
             "defense": 1109,
             "health": 2037
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "治療：即時",
-                    "攻擊：全體",
-                    "傷害：持續傷害"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "攻擊-賭博/隨機效果"
-                ]
-            },
-            {
-                "增益效果": [
-                    "防御-成长：防御力↑"
-                ]
-            },
-            {
-                "负面效果": [
-                    "傷害-持續傷害：毒"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "亞瑟王 (King Arthur)",
@@ -11194,24 +8916,7 @@ window.allHeroes =
             "defense": 904,
             "health": 1648
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：單一目標"
-                ]
-            },
-            {
-                "增益效果": [
-                    "防禦-防禦↑：特殊技能"
-                ]
-            },
-            {
-                "负面效果": [
-                    "攻擊-攻擊力↓",
-                    "防禦-防禦↓：冰霜"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "卡爾姆 (Klaern)",
@@ -11263,24 +8968,7 @@ window.allHeroes =
             "defense": 952,
             "health": 1760
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：全體",
-                    "傷害：持續傷害"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "治療-透過傷害治療"
-                ]
-            },
-            {
-                "负面效果": [
-                    "傷害-持續傷害：水"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "坎卜斯 (Krampus)",
@@ -11332,20 +9020,7 @@ window.allHeroes =
             "defense": 1051,
             "health": 1811
         },
-        "cn_skill_info": [
-            {
-                "特殊效果": [
-                    "召喚-召喚物"
-                ]
-            },
-            {
-                "增益效果": [
-                    "防禦-嘲諷",
-                    "攻擊-攻擊力↑",
-                    "防禦-防禦力↑"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "坎卜斯 (Krampus) C1",
@@ -11397,20 +9072,7 @@ window.allHeroes =
             "defense": 1305,
             "health": 2324
         },
-        "cn_skill_info": [
-            {
-                "特殊效果": [
-                    "召喚-召喚物"
-                ]
-            },
-            {
-                "增益效果": [
-                    "防禦-嘲諷",
-                    "攻擊-攻擊力↑",
-                    "防禦-防禦力↑"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "萊納特 (Lennart)",
@@ -11473,21 +9135,7 @@ window.allHeroes =
             "defense": 1450,
             "health": 2616
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：單一目標",
-                    "傷害：持續傷害"
-                ]
-            },
-            {
-                "负面效果": [
-                    "傷害-持續傷害：流血",
-                    "防禦-受到傷害↑",
-                    "治療-阻止治療"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "洛基領主 (Lord Loki)",
@@ -11534,13 +9182,7 @@ window.allHeroes =
             "defense": 916,
             "health": 1617
         },
-        "cn_skill_info": [
-            {
-                "特殊效果": [
-                    "攻擊-回溯/偷取技能"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "洛基領主 (Lord Loki) C1",
@@ -11589,14 +9231,7 @@ window.allHeroes =
             "defense": 1208,
             "health": 2122
         },
-        "cn_skill_info": [
-            {
-                "特殊效果": [
-                    "狀態-偷取增益",
-                    "攻擊-回溯/偷取技能"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "萊薩諾 (Lysanor)",
@@ -11649,20 +9284,7 @@ window.allHeroes =
             "defense": 1252,
             "health": 2230
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "治療：提高生命",
-                    "治療：持續",
-                    "治療：復活"
-                ]
-            },
-            {
-                "增益效果": [
-                    "攻擊-攻擊力↑"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "梅吉斯丁 (Magistine)",
@@ -11716,23 +9338,7 @@ window.allHeroes =
             "defense": 1511,
             "health": 2517
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：全體"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "傷害-額外傷害"
-                ]
-            },
-            {
-                "负面效果": [
-                    "狀態-吞噬黏液"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "馬格尼 (Magni)",
@@ -11778,18 +9384,7 @@ window.allHeroes =
             "defense": 728,
             "health": 1645
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：單一目標"
-                ]
-            },
-            {
-                "增益效果": [
-                    "防禦-防禦力↑"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "馬格尼 (Magni) C1",
@@ -11835,18 +9430,7 @@ window.allHeroes =
             "defense": 972,
             "health": 1858
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：單一目標"
-                ]
-            },
-            {
-                "负面效果": [
-                    "防禦-防禦力↓"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "馬格尼 (Magni) C2",
@@ -11892,18 +9476,7 @@ window.allHeroes =
             "defense": 1021,
             "health": 2413
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：範圍"
-                ]
-            },
-            {
-                "负面效果": [
-                    "防禦-防禦↓：特殊技能"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "馬格尼 (Magni) 卡通",
@@ -11953,23 +9526,7 @@ window.allHeroes =
             "defense": 1191,
             "health": 2840
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：單一目標"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "傷害-傷害↑：火焰"
-                ]
-            },
-            {
-                "增益效果": [
-                    "防禦-防禦力↑"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "馬格尼 (Magni) 玻璃",
@@ -12020,23 +9577,7 @@ window.allHeroes =
             "defense": 1333,
             "health": 2956
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：單一目標"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "攻擊-穿透/繞過"
-                ]
-            },
-            {
-                "增益效果": [
-                    "防禦-防禦力↑"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "瑪瑞兒 (Mariol)",
@@ -12087,23 +9628,7 @@ window.allHeroes =
             "defense": 1330,
             "health": 2197
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "治療：提高生命"
-                ]
-            },
-            {
-                "增益效果": [
-                    "防禦-傷害減免"
-                ]
-            },
-            {
-                "负面效果": [
-                    "狀態-淨化狀態異常"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "天兔大師 (Master Lepus)",
@@ -12149,18 +9674,7 @@ window.allHeroes =
             "defense": 850,
             "health": 1473
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：鄰近輕傷"
-                ]
-            },
-            {
-                "负面效果": [
-                    "狀態-自我減益"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "天兔大師 (Master Lepus) C1",
@@ -12206,18 +9720,7 @@ window.allHeroes =
             "defense": 1045,
             "health": 1866
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：全體"
-                ]
-            },
-            {
-                "负面效果": [
-                    "狀態-自我減益"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "瑪特拉 (Matrera)",
@@ -12268,23 +9771,7 @@ window.allHeroes =
             "defense": 993,
             "health": 1866
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：單一目標"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "傷害-額外傷害"
-                ]
-            },
-            {
-                "负面效果": [
-                    "攻擊-攻擊力↓"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "米奈 (Mene)",
@@ -12338,20 +9825,7 @@ window.allHeroes =
             "defense": 1272,
             "health": 2108
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：範圍",
-                    "傷害：持續傷害"
-                ]
-            },
-            {
-                "负面效果": [
-                    "狀態-增益無效化",
-                    "傷害-持續傷害：霜凍"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "米琪 (Miki)",
@@ -12401,18 +9875,7 @@ window.allHeroes =
             "defense": 960,
             "health": 1572
         },
-        "cn_skill_info": [
-            {
-                "增益效果": [
-                    "攻擊-攻擊力↑"
-                ]
-            },
-            {
-                "负面效果": [
-                    "法力-混亂/沉默/睡眠"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "米萊狄·溫特 (Milady de Winter)",
@@ -12465,24 +9928,7 @@ window.allHeroes =
             "defense": 1018,
             "health": 1927
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "治療：持續",
-                    "攻擊：全體"
-                ]
-            },
-            {
-                "增益效果": [
-                    "狀態-反彈負面效果"
-                ]
-            },
-            {
-                "负面效果": [
-                    "狀態-反彈增益"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "米蓮娜 (Milena)",
@@ -12541,24 +9987,7 @@ window.allHeroes =
             "defense": 955,
             "health": 1737
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "治療：即時",
-                    "攻擊：全體"
-                ]
-            },
-            {
-                "增益效果": [
-                    "狀態-驅散增益"
-                ]
-            },
-            {
-                "负面效果": [
-                    "狀態-淨化狀態異常"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "米蓮娜 (Milena) C1",
@@ -12618,24 +10047,7 @@ window.allHeroes =
             "defense": 1275,
             "health": 2331
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "治療：即時",
-                    "攻擊：全體"
-                ]
-            },
-            {
-                "增益效果": [
-                    "狀態-驅散增益"
-                ]
-            },
-            {
-                "负面效果": [
-                    "狀態-淨化狀態異常"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "米瑞安和密奈特 (Miriam & Midnight)",
@@ -12688,20 +10100,7 @@ window.allHeroes =
             "defense": 1033,
             "health": 1882
         },
-        "cn_skill_info": [
-            {
-                "特殊效果": [
-                    "召喚-召喚物",
-                    "狀態-負面效果重新分配",
-                    "治療-透過召喚物治療"
-                ]
-            },
-            {
-                "增益效果": [
-                    "攻擊-攻擊力↑"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "米桑德拉 (Misandra)",
@@ -12750,23 +10149,7 @@ window.allHeroes =
             "defense": 927,
             "health": 1640
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：單一目標"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "攻擊-額外攻擊"
-                ]
-            },
-            {
-                "增益效果": [
-                    "法力-法力恢復"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "米桑德拉 (Misandra) C1",
@@ -12815,23 +10198,7 @@ window.allHeroes =
             "defense": 1113,
             "health": 2119
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：單一目標"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "攻擊-額外攻擊"
-                ]
-            },
-            {
-                "负面效果": [
-                    "法力-混亂/沉默/睡眠"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "伊索小姐 (Miss Ethel)",
@@ -12879,23 +10246,7 @@ window.allHeroes =
             "defense": 1178,
             "health": 2240
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：單一目標"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "攻擊-連鎖"
-                ]
-            },
-            {
-                "负面效果": [
-                    "狀態-自我減益"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "密絲托菈 (Mistra)",
@@ -12949,19 +10300,7 @@ window.allHeroes =
             "defense": 1358,
             "health": 2286
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：全體"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "治療-透過傷害治療",
-                    "傷害-額外傷害"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "蜜絲蒂 (Misty)",
@@ -13014,19 +10353,7 @@ window.allHeroes =
             "defense": 1041,
             "health": 1813
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "治療：提高生命",
-                    "攻擊：全體"
-                ]
-            },
-            {
-                "负面效果": [
-                    "治療-最大生命值↓"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "摩德莉絲 (Modthryth)",
@@ -13085,21 +10412,7 @@ window.allHeroes =
             "defense": 1526,
             "health": 2656
         },
-        "cn_skill_info": [
-            {
-                "特殊效果": [
-                    "法力-削減法力",
-                    "傷害-額外傷害"
-                ]
-            },
-            {
-                "增益效果": [
-                    "防禦-反擊/反彈",
-                    "法力-法力生成↑",
-                    "攻擊-疊加：攻擊力↑"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "月療者 (Mooncure)",
@@ -13156,24 +10469,7 @@ window.allHeroes =
             "defense": 1442,
             "health": 2303
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "治療：即時"
-                ]
-            },
-            {
-                "增益效果": [
-                    "法力-法力恢復"
-                ]
-            },
-            {
-                "负面效果": [
-                    "治療-奪取治療",
-                    "攻擊-攻擊力↓"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "摩瑞歐 (Morel)",
@@ -13221,18 +10517,7 @@ window.allHeroes =
             "defense": 919,
             "health": 1790
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：全體"
-                ]
-            },
-            {
-                "负面效果": [
-                    "防禦-防禦力↓"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "摩瑞歐 (Morel) C1",
@@ -13286,19 +10571,7 @@ window.allHeroes =
             "defense": 1092,
             "health": 2413
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "治療：持續",
-                    "攻擊：全體"
-                ]
-            },
-            {
-                "负面效果": [
-                    "防禦-防禦力↓"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "企鵝先生 (Mr. Pengi)",
@@ -13349,25 +10622,7 @@ window.allHeroes =
             "defense": 962,
             "health": 1732
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：單一目標",
-                    "攻擊：隨機",
-                    "傷害：持續傷害"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "召喚-召喚物"
-                ]
-            },
-            {
-                "负面效果": [
-                    "傷害-持續傷害：霜凍"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "企鵝先生 (Mr. Pengi) C1",
@@ -13419,25 +10674,7 @@ window.allHeroes =
             "defense": 1298,
             "health": 2338
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：全體",
-                    "攻擊：隨機",
-                    "傷害：持續傷害"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "召喚-召喚物"
-                ]
-            },
-            {
-                "负面效果": [
-                    "傷害-持續傷害：霜凍"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "諾提卡 (Nautica)",
@@ -13495,20 +10732,7 @@ window.allHeroes =
             "defense": 1229,
             "health": 2133
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "治療：即時"
-                ]
-            },
-            {
-                "增益效果": [
-                    "攻擊-暴擊率↑",
-                    "法力-法力生成↑",
-                    "法力-法力恢復"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "九頭獸 (Nine-Headed Beast)",
@@ -13565,29 +10789,7 @@ window.allHeroes =
             "defense": 1173,
             "health": 2065
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：隨機"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "狀態-重置增益回合",
-                    "狀態-重置負面效果回合"
-                ]
-            },
-            {
-                "增益效果": [
-                    "攻擊-攻擊力↑"
-                ]
-            },
-            {
-                "负面效果": [
-                    "攻擊-攻擊力↓"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "尼洛拉 (Nylora)",
@@ -13641,19 +10843,7 @@ window.allHeroes =
             "defense": 1270,
             "health": 2260
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：單一目標"
-                ]
-            },
-            {
-                "负面效果": [
-                    "防禦-改變顏色/位置",
-                    "防禦-防禦↓：冰霜"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "奥黛特 (Odette)",
@@ -13715,25 +10905,7 @@ window.allHeroes =
             "defense": 1183,
             "health": 2214
         },
-        "cn_skill_info": [
-            {
-                "特殊效果": [
-                    "攻擊-額外攻擊",
-                    "治療-自我恢復"
-                ]
-            },
-            {
-                "增益效果": [
-                    "防禦-閃避",
-                    "治療-自我復活"
-                ]
-            },
-            {
-                "负面效果": [
-                    "狀態-增益無效化"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "鬼若丸 (Oniwakamaru)",
@@ -13792,19 +10964,7 @@ window.allHeroes =
             "defense": 1099,
             "health": 2054
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "治療：提高生命"
-                ]
-            },
-            {
-                "增益效果": [
-                    "防禦-反擊/反彈",
-                    "防禦-嘲諷"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "歐爾科 (Orcur)",
@@ -13858,18 +11018,7 @@ window.allHeroes =
             "defense": 1590,
             "health": 2796
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "治療：提高生命"
-                ]
-            },
-            {
-                "增益效果": [
-                    "防禦-成長：防禦力↑"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "歐特索 (Otso)",
@@ -13921,19 +11070,7 @@ window.allHeroes =
             "defense": 1333,
             "health": 2486
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "治療：持續",
-                    "攻擊：全體"
-                ]
-            },
-            {
-                "负面效果": [
-                    "防禦-疊加：受到傷害↑"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "萬事通 (Passepartout)",
@@ -13985,20 +11122,7 @@ window.allHeroes =
             "defense": 990,
             "health": 1739
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "治療：即時",
-                    "治療：持續",
-                    "治療：特殊"
-                ]
-            },
-            {
-                "增益效果": [
-                    "防禦-防禦力↑"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "萬事通 (Passepartout) C1",
@@ -14052,20 +11176,7 @@ window.allHeroes =
             "defense": 1435,
             "health": 2347
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "治療：即時",
-                    "治療：持續",
-                    "治療：特殊"
-                ]
-            },
-            {
-                "增益效果": [
-                    "防禦-防禦力↑"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "佩波布露 (Pepperbleu)",
@@ -14121,28 +11232,7 @@ window.allHeroes =
             "defense": 1511,
             "health": 2534
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：單一目標"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "召喚-超級惡魔"
-                ]
-            },
-            {
-                "增益效果": [
-                    "狀態-驅散增益"
-                ]
-            },
-            {
-                "负面效果": [
-                    "狀態-增益無效化"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "柏休斯 (Perseus)",
@@ -14193,23 +11283,7 @@ window.allHeroes =
             "defense": 861,
             "health": 1686
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：單一目標"
-                ]
-            },
-            {
-                "增益效果": [
-                    "防禦-防禦↑：自然"
-                ]
-            },
-            {
-                "负面效果": [
-                    "治療-阻止治療"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "柏休斯 (Perseus) C1",
@@ -14263,19 +11337,7 @@ window.allHeroes =
             "defense": 1102,
             "health": 2444
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：範圍"
-                ]
-            },
-            {
-                "负面效果": [
-                    "治療-阻止治療",
-                    "防禦-防禦↓：冰霜"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "帕非特 (Pophit)",
@@ -14327,28 +11389,7 @@ window.allHeroes =
             "defense": 1315,
             "health": 2021
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：範圍"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "傷害-爆炸"
-                ]
-            },
-            {
-                "增益效果": [
-                    "防禦-傷害減免"
-                ]
-            },
-            {
-                "负面效果": [
-                    "防禦-防禦力↓"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "波梭司 (Porthos)",
@@ -14403,20 +11444,7 @@ window.allHeroes =
             "defense": 1018,
             "health": 1953
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：全體"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "攻擊-面板：攻擊力",
-                    "治療-自我恢復",
-                    "傷害-傷害↑：火焰"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "奎瑞 (Quari)",
@@ -14471,27 +11499,7 @@ window.allHeroes =
             "defense": 1450,
             "health": 2428
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "治療：提高生命",
-                    "攻擊：範圍",
-                    "治療：傷害量",
-                    "傷害：持續傷害"
-                ]
-            },
-            {
-                "增益效果": [
-                    "防禦-成長：防禦力↑",
-                    "防御-成长：防御力↑"
-                ]
-            },
-            {
-                "负面效果": [
-                    "傷害-持續傷害：水"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "奎因 (Quinn)",
@@ -14554,21 +11562,7 @@ window.allHeroes =
             "defense": 1193,
             "health": 2136
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "治療：提高生命"
-                ]
-            },
-            {
-                "负面效果": [
-                    "狀態-增益無效化",
-                    "法力-法力生成↓/阻止",
-                    "攻擊-命中率↓",
-                    "防禦-防禦力↓"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "昆汀 (Quintin)",
@@ -14614,18 +11608,7 @@ window.allHeroes =
             "defense": 944,
             "health": 1722
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：單一目標"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "傷害-額外傷害"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "拉斐爾 (Raffaele)",
@@ -14678,20 +11661,7 @@ window.allHeroes =
             "defense": 990,
             "health": 1729
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "治療：即時",
-                    "治療：持續",
-                    "治療：特殊"
-                ]
-            },
-            {
-                "负面效果": [
-                    "狀態-淨化狀態異常"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "瑞安 (Rian)",
@@ -14749,29 +11719,7 @@ window.allHeroes =
             "defense": 1008,
             "health": 1775
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：全體"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "傷害-額外傷害"
-                ]
-            },
-            {
-                "增益效果": [
-                    "法力-疊加：法力生成↑",
-                    "治療-疊加：生命恢復"
-                ]
-            },
-            {
-                "负面效果": [
-                    "狀態-淨化狀態異常"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "理查德 (Richard)",
@@ -14817,18 +11765,7 @@ window.allHeroes =
             "defense": 1008,
             "health": 1554
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：鄰近輕傷"
-                ]
-            },
-            {
-                "负面效果": [
-                    "攻擊-攻擊力↓"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "理查德 (Richard) C1",
@@ -14874,18 +11811,7 @@ window.allHeroes =
             "defense": 1144,
             "health": 1724
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：鄰近輕傷"
-                ]
-            },
-            {
-                "负面效果": [
-                    "攻擊-攻擊力↓"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "理查德 (Richard) C2",
@@ -14932,18 +11858,7 @@ window.allHeroes =
             "defense": 1047,
             "health": 2380
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：範圍"
-                ]
-            },
-            {
-                "负面效果": [
-                    "攻擊-攻擊力↓"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "理查德 (Richard) 卡通",
@@ -14993,23 +11908,7 @@ window.allHeroes =
             "defense": 1258,
             "health": 2810
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：鄰近輕傷"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "傷害-傷害↑：火焰"
-                ]
-            },
-            {
-                "负面效果": [
-                    "攻擊-攻擊力↓"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "理查德 (Richard) 玻璃",
@@ -15060,23 +11959,7 @@ window.allHeroes =
             "defense": 1417,
             "health": 2951
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：鄰近輕傷"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "攻擊-穿透/繞過"
-                ]
-            },
-            {
-                "负面效果": [
-                    "攻擊-攻擊力↓"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "侏儒怪 (Rumpelstiltskin)",
@@ -15133,32 +12016,7 @@ window.allHeroes =
             "defense": 861,
             "health": 1676
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "治療：即時",
-                    "攻擊：全體",
-                    "傷害：持續傷害"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "攻擊-賭博/隨機效果"
-                ]
-            },
-            {
-                "增益效果": [
-                    "攻擊-攻擊力↑"
-                ]
-            },
-            {
-                "负面效果": [
-                    "傷害-持續傷害：毒",
-                    "防禦-防禦力↓",
-                    "狀態-淨化狀態異常"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "侏儒怪 (Rumpelstiltskin) C1",
@@ -15221,32 +12079,7 @@ window.allHeroes =
             "defense": 1088,
             "health": 2360
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "治療：提高生命",
-                    "傷害：持續傷害"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "攻擊-賭博/隨機效果"
-                ]
-            },
-            {
-                "增益效果": [
-                    "狀態-免疫狀態異常"
-                ]
-            },
-            {
-                "负面效果": [
-                    "法力-法力生成↓/阻止",
-                    "狀態-增益無效化",
-                    "傷害-持續傷害：毒",
-                    "治療-最大生命值↓"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "盧素拉 (Russula)",
@@ -15299,23 +12132,7 @@ window.allHeroes =
             "defense": 965,
             "health": 1638
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：單一目標"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "傷害-額外傷害"
-                ]
-            },
-            {
-                "增益效果": [
-                    "狀態-躲藏/幽靈形態"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "盧素拉 (Russula) C1",
@@ -15371,23 +12188,7 @@ window.allHeroes =
             "defense": 1254,
             "health": 2142
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：單一目標"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "傷害-額外傷害"
-                ]
-            },
-            {
-                "增益效果": [
-                    "狀態-躲藏/幽靈形態"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "薩波 (Sable)",
@@ -15447,24 +12248,7 @@ window.allHeroes =
             "defense": 1496,
             "health": 2032
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "治療：持續",
-                    "治療：復活"
-                ]
-            },
-            {
-                "增益效果": [
-                    "狀態-躲藏/幽靈形態"
-                ]
-            },
-            {
-                "负面效果": [
-                    "狀態-淨化狀態異常"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "薩瓦多雷 (Salvatore)",
@@ -15518,24 +12302,7 @@ window.allHeroes =
             "defense": 1536,
             "health": 2910
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：隨機"
-                ]
-            },
-            {
-                "增益效果": [
-                    "狀態-躲藏/幽靈形態"
-                ]
-            },
-            {
-                "负面效果": [
-                    "狀態-狂亂",
-                    "狀態-淨化狀態異常"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "悟 (Satori)",
@@ -15587,23 +12354,7 @@ window.allHeroes =
             "defense": 1221,
             "health": 2054
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：全體"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "傷害-額外傷害"
-                ]
-            },
-            {
-                "增益效果": [
-                    "防禦-傷害減免"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "澤野 (Sawano)",
@@ -15664,19 +12415,7 @@ window.allHeroes =
             "defense": 1600,
             "health": 2103
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "治療：即時",
-                    "治療：特殊"
-                ]
-            },
-            {
-                "负面效果": [
-                    "狀態-淨化狀態異常"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "西格恩 (Sigyn)",
@@ -15730,19 +12469,7 @@ window.allHeroes =
             "defense": 1330,
             "health": 2656
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：兩側"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "召喚-惡魔",
-                    "法力-削減法力"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "悉尼 (Sini)",
@@ -15797,24 +12524,7 @@ window.allHeroes =
             "defense": 1201,
             "health": 2009
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：全體"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "傷害-面板：提高傷害",
-                    "傷害-傷害↑：火焰"
-                ]
-            },
-            {
-                "增益效果": [
-                    "防禦-閃避"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "西奧夫拉 (Siofra)",
@@ -15868,24 +12578,7 @@ window.allHeroes =
             "defense": 1310,
             "health": 2258
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：範圍"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "攻擊-穿透/繞過"
-                ]
-            },
-            {
-                "负面效果": [
-                    "攻擊-攻擊力↓",
-                    "治療-治療量↓"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "斯卡迪 (Skadi)",
@@ -15937,26 +12630,7 @@ window.allHeroes =
             "defense": 977,
             "health": 1739
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：全體",
-                    "傷害：持續傷害"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "傷害-額外傷害"
-                ]
-            },
-            {
-                "负面效果": [
-                    "傷害-疊加：持續傷害",
-                    "法力-疊加：法力生成↓",
-                    "傷害-持續傷害：霜凍"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "斯卡迪 (Skadi) C1",
@@ -16008,25 +12682,7 @@ window.allHeroes =
             "defense": 1201,
             "health": 2300
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：範圍"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "傷害-額外傷害"
-                ]
-            },
-            {
-                "负面效果": [
-                    "傷害-疊加：持續傷害",
-                    "法力-疊加：法力生成↓",
-                    "傷害-持續傷害：霜凍"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "斯卡溫 (Skarn)",
@@ -16083,20 +12739,7 @@ window.allHeroes =
             "defense": 1270,
             "health": 2519
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：全體",
-                    "傷害：持續傷害"
-                ]
-            },
-            {
-                "负面效果": [
-                    "傷害-持續傷害：霜凍",
-                    "防禦-防禦↓：冰霜"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "斯利姆戈 (Slimgo)",
@@ -16148,20 +12791,7 @@ window.allHeroes =
             "defense": 1435,
             "health": 2402
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：全體",
-                    "傷害：持續傷害"
-                ]
-            },
-            {
-                "负面效果": [
-                    "法力-法力生成↓/阻止",
-                    "傷害-持續傷害：水"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "白雪公主 (Snow White)",
@@ -16211,28 +12841,7 @@ window.allHeroes =
             "defense": 922,
             "health": 1602
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：全體"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "傷害-額外傷害"
-                ]
-            },
-            {
-                "增益效果": [
-                    "狀態-驅散增益"
-                ]
-            },
-            {
-                "负面效果": [
-                    "狀態-淨化狀態異常"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "白雪公主 (Snow White) C1",
@@ -16283,28 +12892,7 @@ window.allHeroes =
             "defense": 1120,
             "health": 2210
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：全體"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "傷害-額外傷害"
-                ]
-            },
-            {
-                "增益效果": [
-                    "狀態-驅散增益"
-                ]
-            },
-            {
-                "负面效果": [
-                    "狀態-淨化狀態異常"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "索貝克 (Sobek)",
@@ -16354,18 +12942,7 @@ window.allHeroes =
             "defense": 922,
             "health": 1973
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：全體"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "攻擊-穿透/繞過"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "索貝克 (Sobek) C1",
@@ -16419,24 +12996,7 @@ window.allHeroes =
             "defense": 1331,
             "health": 2845
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：全體",
-                    "傷害：持續傷害"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "攻擊-穿透/繞過"
-                ]
-            },
-            {
-                "负面效果": [
-                    "傷害-持續傷害：流血"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "宋江 (Song Jiang)",
@@ -16498,25 +13058,7 @@ window.allHeroes =
             "defense": 1488,
             "health": 2715
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：範圍",
-                    "治療：傷害量"
-                ]
-            },
-            {
-                "增益效果": [
-                    "攻擊-暴擊率↑"
-                ]
-            },
-            {
-                "负面效果": [
-                    "法力-混亂/沉默/睡眠",
-                    "防禦-防禦力↓"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "桑柔 (Sorrow)",
@@ -16569,19 +13111,7 @@ window.allHeroes =
             "defense": 1127,
             "health": 2095
         },
-        "cn_skill_info": [
-            {
-                "特殊效果": [
-                    "召喚-召喚物",
-                    "傷害-移除召喚物造成傷害"
-                ]
-            },
-            {
-                "增益效果": [
-                    "攻擊-攻擊力↑"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "星行者 (Starwalker)",
@@ -16635,25 +13165,7 @@ window.allHeroes =
             "defense": 1242,
             "health": 2108
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：全體"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "攻擊-無視閃避",
-                    "傷害-額外傷害",
-                    "傷害-爆炸"
-                ]
-            },
-            {
-                "负面效果": [
-                    "防禦-防禦力↓"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "蘇祖娜 (Suzuna)",
@@ -16707,23 +13219,7 @@ window.allHeroes =
             "defense": 942,
             "health": 1803
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "治療：持續"
-                ]
-            },
-            {
-                "增益效果": [
-                    "狀態-反彈負面效果"
-                ]
-            },
-            {
-                "负面效果": [
-                    "狀態-淨化狀態異常"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "提尤摩伊 (Tealmoine)",
@@ -16776,24 +13272,7 @@ window.allHeroes =
             "defense": 1595,
             "health": 2570
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "治療：即時"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "狀態-偷取增益"
-                ]
-            },
-            {
-                "负面效果": [
-                    "法力-混亂/沉默/睡眠",
-                    "防禦-受到傷害↑"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "泰西絲 (Tethys)",
@@ -16843,24 +13322,7 @@ window.allHeroes =
             "defense": 949,
             "health": 1811
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：範圍",
-                    "傷害：持續傷害"
-                ]
-            },
-            {
-                "增益效果": [
-                    "攻擊-攻擊力↑"
-                ]
-            },
-            {
-                "负面效果": [
-                    "傷害-持續傷害：水"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "塔拉薩 (Thalassa)",
@@ -16919,23 +13381,7 @@ window.allHeroes =
             "defense": 1229,
             "health": 2065
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "治療：提高生命"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "狀態-重置負面效果回合"
-                ]
-            },
-            {
-                "增益效果": [
-                    "狀態-免疫狀態異常"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "塔拉薩 (Thalassa) C1",
@@ -16994,23 +13440,7 @@ window.allHeroes =
             "defense": 1181,
             "health": 2039
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "治療：提高生命"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "狀態-重置負面效果回合"
-                ]
-            },
-            {
-                "增益效果": [
-                    "狀態-免疫狀態異常"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "桑納托斯 (Thanatos)",
@@ -17071,19 +13501,7 @@ window.allHeroes =
             "defense": 1051,
             "health": 1877
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "治療：即時"
-                ]
-            },
-            {
-                "增益效果": [
-                    "法力-法力生成↑",
-                    "法力-法力恢復"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "提多博 (Theobald)",
@@ -17134,19 +13552,7 @@ window.allHeroes =
             "defense": 990,
             "health": 1732
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：全體"
-                ]
-            },
-            {
-                "增益效果": [
-                    "防禦-反擊/反彈：自然",
-                    "攻擊-攻擊力↑"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "索恩 (Thorne)",
@@ -17189,13 +13595,7 @@ window.allHeroes =
             "defense": 977,
             "health": 1651
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：鄰近輕傷"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "索恩 (Thorne) C1",
@@ -17241,18 +13641,7 @@ window.allHeroes =
             "defense": 1044,
             "health": 1804
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：單一目標"
-                ]
-            },
-            {
-                "增益效果": [
-                    "法力-法力生成↑"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "索恩 (Thorne) C2",
@@ -17301,23 +13690,7 @@ window.allHeroes =
             "defense": 1191,
             "health": 2299
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：範圍"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "法力-削減法力"
-                ]
-            },
-            {
-                "增益效果": [
-                    "法力-法力恢復"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "索恩 (Thorne) 卡通",
@@ -17364,18 +13737,7 @@ window.allHeroes =
             "defense": 1436,
             "health": 2740
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：鄰近輕傷"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "傷害-傷害↑：火焰"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "提米厄斯 (Timius)",
@@ -17429,28 +13791,7 @@ window.allHeroes =
             "defense": 1226,
             "health": 2026
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：範圍"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "傷害-傷害↑：神聖"
-                ]
-            },
-            {
-                "增益效果": [
-                    "狀態-驅散增益"
-                ]
-            },
-            {
-                "负面效果": [
-                    "狀態-增益無效化"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "彩絲 (Tinsel)",
@@ -17502,24 +13843,7 @@ window.allHeroes =
             "defense": 995,
             "health": 1780
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：範圍"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "召喚-召喚物"
-                ]
-            },
-            {
-                "负面效果": [
-                    "攻擊-命中率↓",
-                    "防禦-防禦力↓"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "崔摩 (Tremor)",
@@ -17573,23 +13897,7 @@ window.allHeroes =
             "defense": 1176,
             "health": 2143
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "治療：持續"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "傷害-爆炸"
-                ]
-            },
-            {
-                "增益效果": [
-                    "攻擊-疊加：攻擊力↑"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "烏利厄斯 (Ulius)",
@@ -17649,24 +13957,7 @@ window.allHeroes =
             "defense": 1102,
             "health": 1102
         },
-        "cn_skill_info": [
-            {
-                "特殊效果": [
-                    "召喚-惡魔",
-                    "召喚-召喚物"
-                ]
-            },
-            {
-                "增益效果": [
-                    "法力-法力生成↑"
-                ]
-            },
-            {
-                "负面效果": [
-                    "法力-法力生成↓/阻止"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "薇拉 (Vela)",
@@ -17721,25 +14012,7 @@ window.allHeroes =
             "defense": 899,
             "health": 1607
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：全體",
-                    "傷害：持續傷害"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "傷害-傷害↑：火焰"
-                ]
-            },
-            {
-                "负面效果": [
-                    "傷害-持續傷害：水",
-                    "防禦-防禦力↓"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "維瑞提 (Verity)",
@@ -17793,19 +14066,7 @@ window.allHeroes =
             "defense": 1323,
             "health": 2649
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：範圍"
-                ]
-            },
-            {
-                "负面效果": [
-                    "法力-法力生成↓/阻止",
-                    "防禦-防禦↓：特殊技能"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "文森 (Vincent)",
@@ -17861,25 +14122,7 @@ window.allHeroes =
             "defense": 1330,
             "health": 2362
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：全體",
-                    "傷害：持續傷害"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "攻擊-賭博/隨機效果"
-                ]
-            },
-            {
-                "负面效果": [
-                    "傷害-持續傷害：霜凍",
-                    "防禦-防禦↓：冰霜"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "瓦特派普 (Waterpipe)",
@@ -17935,20 +14178,7 @@ window.allHeroes =
             "defense": 1013,
             "health": 2029
         },
-        "cn_skill_info": [
-            {
-                "特殊效果": [
-                    "召喚-召喚物",
-                    "法力-削減法力"
-                ]
-            },
-            {
-                "负面效果": [
-                    "狀態-增益無效化",
-                    "防禦-防禦↓：特殊技能"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "白牙 (Whitefang)",
@@ -18000,24 +14230,7 @@ window.allHeroes =
             "defense": 1450,
             "health": 2639
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：單一目標",
-                    "傷害：持續傷害"
-                ]
-            },
-            {
-                "增益效果": [
-                    "狀態-驅散增益"
-                ]
-            },
-            {
-                "负面效果": [
-                    "傷害-持續傷害：霜凍"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "薩帕 (Zappa)",
@@ -18066,24 +14279,7 @@ window.allHeroes =
             "defense": 1132,
             "health": 1955
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：單一目標",
-                    "傷害：持續傷害"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "召喚-召喚物"
-                ]
-            },
-            {
-                "负面效果": [
-                    "傷害-持續傷害：霜凍"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "連加 (Zengar)",
@@ -18140,20 +14336,7 @@ window.allHeroes =
             "defense": 1000,
             "health": 2133
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：單一目標",
-                    "傷害：持續傷害",
-                    "攻擊：數量變化"
-                ]
-            },
-            {
-                "负面效果": [
-                    "傷害-持續傷害：霜凍"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "鋯石 (Zircon)",
@@ -18214,20 +14397,7 @@ window.allHeroes =
             "defense": 1036,
             "health": 1770
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "治療：持續",
-                    "治療：提高生命"
-                ]
-            },
-            {
-                "增益效果": [
-                    "防禦-防禦力↑",
-                    "狀態-阻止增益驅散"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "奧伊芙 (Aife)",
@@ -18430,18 +14600,7 @@ window.allHeroes =
             "defense": 674,
             "health": 1126
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：範圍"
-                ]
-            },
-            {
-                "负面效果": [
-                    "治療-最大生命值↓"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "貝麗絲 (Belith)",
@@ -18487,18 +14646,7 @@ window.allHeroes =
             "defense": 630,
             "health": 1022
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "治療：即時"
-                ]
-            },
-            {
-                "增益效果": [
-                    "狀態-驅散增益"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "貝麗絲 (Belith) C1",
@@ -18544,18 +14692,7 @@ window.allHeroes =
             "defense": 658,
             "health": 1198
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "治療：持續"
-                ]
-            },
-            {
-                "增益效果": [
-                    "狀態-阻止增益驅散"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "貝麗絲 (Belith) 卡通",
@@ -18606,19 +14743,7 @@ window.allHeroes =
             "defense": 696,
             "health": 1226
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "治療：即時"
-                ]
-            },
-            {
-                "增益效果": [
-                    "防禦-防禦力↑",
-                    "狀態-驅散增益"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "貝麗絲 (Belith) 玻璃",
@@ -18669,19 +14794,7 @@ window.allHeroes =
             "defense": 705,
             "health": 1252
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "治療：即時"
-                ]
-            },
-            {
-                "增益效果": [
-                    "狀態-反彈負面效果",
-                    "狀態-驅散增益"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "博爾登 (Berden)",
@@ -18727,18 +14840,7 @@ window.allHeroes =
             "defense": 596,
             "health": 963
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：單一目標"
-                ]
-            },
-            {
-                "负面效果": [
-                    "攻擊-攻擊力↓"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "博爾登 (Berden) C1",
@@ -18784,18 +14886,7 @@ window.allHeroes =
             "defense": 679,
             "health": 1112
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：單一目標"
-                ]
-            },
-            {
-                "负面效果": [
-                    "防禦-防禦力↓"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "博爾登 (Berden) 卡通",
@@ -18845,23 +14936,7 @@ window.allHeroes =
             "defense": 685,
             "health": 1155
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：單一目標"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "傷害-傷害↑：冰霜"
-                ]
-            },
-            {
-                "负面效果": [
-                    "攻擊-攻擊力↓"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "博爾登 (Berden) 玻璃",
@@ -18912,23 +14987,7 @@ window.allHeroes =
             "defense": 691,
             "health": 1180
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：單一目標"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "攻擊-穿透/繞過"
-                ]
-            },
-            {
-                "负面效果": [
-                    "攻擊-攻擊力↓"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "布里恩妮 (Brienne)",
@@ -18971,13 +15030,7 @@ window.allHeroes =
             "defense": 627,
             "health": 944
         },
-        "cn_skill_info": [
-            {
-                "增益效果": [
-                    "攻擊-攻擊力↑"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "布里恩妮 (Brienne) C1",
@@ -19020,13 +15073,7 @@ window.allHeroes =
             "defense": 668,
             "health": 1061
         },
-        "cn_skill_info": [
-            {
-                "负面效果": [
-                    "防禦-防禦力↓"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "布里恩妮 (Brienne) 卡通",
@@ -19071,13 +15118,7 @@ window.allHeroes =
             "defense": 685,
             "health": 1238
         },
-        "cn_skill_info": [
-            {
-                "增益效果": [
-                    "攻擊-攻擊力↑"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "布里恩妮 (Brienne) 玻璃",
@@ -19126,14 +15167,7 @@ window.allHeroes =
             "defense": 745,
             "health": 1317
         },
-        "cn_skill_info": [
-            {
-                "增益效果": [
-                    "狀態-反彈負面效果",
-                    "攻擊-攻擊力↑"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "拜-伍弗 (By-Ulf)",
@@ -19188,24 +15222,7 @@ window.allHeroes =
             "defense": 625,
             "health": 1212
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "治療：持續"
-                ]
-            },
-            {
-                "增益效果": [
-                    "攻擊-攻擊力↑",
-                    "防禦-防禦力↑"
-                ]
-            },
-            {
-                "负面效果": [
-                    "狀態-自我減益"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "卡沃 (Carver)",
@@ -19251,18 +15268,7 @@ window.allHeroes =
             "defense": 627,
             "health": 915
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：全體"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "法力-削減法力"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "卡沃 (Carver) C1",
@@ -19308,18 +15314,7 @@ window.allHeroes =
             "defense": 645,
             "health": 1002
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：全體"
-                ]
-            },
-            {
-                "负面效果": [
-                    "法力-法力生成↓/阻止"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "卡沃 (Carver) 卡通",
@@ -19369,19 +15364,7 @@ window.allHeroes =
             "defense": 721,
             "health": 1098
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：全體"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "法力-削減法力",
-                    "傷害-傷害↑：冰霜"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "卡沃 (Carver) 玻璃",
@@ -19432,19 +15415,7 @@ window.allHeroes =
             "defense": 597,
             "health": 1143
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：全體"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "法力-削減法力",
-                    "攻擊-穿透/繞過"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "柴爾斯 (Chires)",
@@ -19495,19 +15466,7 @@ window.allHeroes =
             "defense": 756,
             "health": 1163
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "治療：提高生命"
-                ]
-            },
-            {
-                "增益效果": [
-                    "防禦-成長：防禦力↑",
-                    "防御-成长：防御力↑"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "多爾跟 (Dolgoon)",
@@ -19565,19 +15524,7 @@ window.allHeroes =
             "defense": 705,
             "health": 1114
         },
-        "cn_skill_info": [
-            {
-                "增益效果": [
-                    "防禦-傷害分擔",
-                    "防禦-防禦力↑"
-                ]
-            },
-            {
-                "负面效果": [
-                    "防禦-防禦力↓"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "法斯 (Faiez)",
@@ -19630,19 +15577,7 @@ window.allHeroes =
             "defense": 686,
             "health": 1190
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "治療：提高生命"
-                ]
-            },
-            {
-                "增益效果": [
-                    "狀態-免疫狀態異常",
-                    "防禦-防禦力↑"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "法斯 (Faiez) C1",
@@ -19694,19 +15629,7 @@ window.allHeroes =
             "defense": 710,
             "health": 1212
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "治療：提高生命"
-                ]
-            },
-            {
-                "增益效果": [
-                    "狀態-免疫狀態異常",
-                    "防禦-防禦力↑"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "非樂力毆 (Featherino)",
@@ -19753,19 +15676,7 @@ window.allHeroes =
             "defense": 596,
             "health": 1061
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：範圍"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "攻擊-無視閃避",
-                    "傷害-傷害↑：神聖"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "菲安娜 (Fianna)",
@@ -19816,18 +15727,7 @@ window.allHeroes =
             "defense": 635,
             "health": 1100
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：範圍"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "召喚-惡魔"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "塔克修士 (Friar Tuck)",
@@ -19873,18 +15773,7 @@ window.allHeroes =
             "defense": 630,
             "health": 954
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "治療：即時"
-                ]
-            },
-            {
-                "增益效果": [
-                    "法力-法力生成↑"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "塔克修士 (Friar Tuck) C1",
@@ -19930,18 +15819,7 @@ window.allHeroes =
             "defense": 668,
             "health": 1102
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "治療：即時"
-                ]
-            },
-            {
-                "增益效果": [
-                    "法力-法力生成↑"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "塔克修士 (Friar Tuck) 卡通",
@@ -19989,18 +15867,7 @@ window.allHeroes =
             "defense": 730,
             "health": 1144
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "治療：即時"
-                ]
-            },
-            {
-                "增益效果": [
-                    "法力-法力生成↑"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "塔克修士 (Friar Tuck) 玻璃",
@@ -20051,19 +15918,7 @@ window.allHeroes =
             "defense": 733,
             "health": 1143
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "治療：即時"
-                ]
-            },
-            {
-                "增益效果": [
-                    "狀態-反彈負面效果",
-                    "法力-法力生成↑"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "寅將軍 (General Yin)",
@@ -20111,23 +15966,7 @@ window.allHeroes =
             "defense": 710,
             "health": 980
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：全體"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "傷害-額外傷害"
-                ]
-            },
-            {
-                "增益效果": [
-                    "狀態-驅散增益"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "地精 (Gnomer)",
@@ -20173,19 +16012,7 @@ window.allHeroes =
             "defense": 632,
             "health": 1182
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：單一目標",
-                    "傷害：持續傷害"
-                ]
-            },
-            {
-                "负面效果": [
-                    "傷害-持續傷害：流血"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "古皮 (Goopy)",
@@ -20235,23 +16062,7 @@ window.allHeroes =
             "defense": 654,
             "health": 1131
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：全體"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "傷害-額外傷害"
-                ]
-            },
-            {
-                "负面效果": [
-                    "法力-法力生成↓/阻止"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "葛蘭普 (Gramps)",
@@ -20299,18 +16110,7 @@ window.allHeroes =
             "defense": 720,
             "health": 1126
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "治療：復活"
-                ]
-            },
-            {
-                "增益效果": [
-                    "法力-法力恢復"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "葛蘭普 (Gramps) C1",
@@ -20358,14 +16158,7 @@ window.allHeroes =
             "defense": 722,
             "health": 1191
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "治療：持續",
-                    "治療：復活"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "格利弗 (Grevle)",
@@ -20412,18 +16205,7 @@ window.allHeroes =
             "defense": 859,
             "health": 873
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "治療：提高生命"
-                ]
-            },
-            {
-                "增益效果": [
-                    "攻擊-攻擊力↑"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "阿久 (Hisan)",
@@ -20476,21 +16258,7 @@ window.allHeroes =
             "defense": 547,
             "health": 851
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：單一目標",
-                    "傷害：持續傷害"
-                ]
-            },
-            {
-                "负面效果": [
-                    "治療-阻止治療",
-                    "傷害-持續傷害：沙",
-                    "狀態-淨化狀態異常"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "伊師塔克 (Isshtak)",
@@ -20533,13 +16301,7 @@ window.allHeroes =
             "defense": 584,
             "health": 1070
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：鄰近輕傷"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "伊師塔克 (Isshtak) C1",
@@ -20585,18 +16347,7 @@ window.allHeroes =
             "defense": 559,
             "health": 1312
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：鄰近輕傷"
-                ]
-            },
-            {
-                "负面效果": [
-                    "防禦-防禦力↓"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "伊師塔克 (Isshtak) 卡通",
@@ -20643,18 +16394,7 @@ window.allHeroes =
             "defense": 654,
             "health": 1460
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：鄰近輕傷"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "傷害-傷害↑：冰霜"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "靖 (Jing)",
@@ -20702,23 +16442,7 @@ window.allHeroes =
             "defense": 679,
             "health": 1073
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：單一目標"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "召喚-召喚物"
-                ]
-            },
-            {
-                "增益效果": [
-                    "防禦-反擊/反彈"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "內修斯 (Mnesseus)",
@@ -20764,18 +16488,7 @@ window.allHeroes =
             "defense": 603,
             "health": 968
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：單一目標"
-                ]
-            },
-            {
-                "增益效果": [
-                    "狀態-驅散增益"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "內修斯 (Mnesseus) C1",
@@ -20821,18 +16534,7 @@ window.allHeroes =
             "defense": 613,
             "health": 1002
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：單一目標"
-                ]
-            },
-            {
-                "负面效果": [
-                    "狀態-淨化狀態異常"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "麻吉 (Muggy)",
@@ -20880,13 +16582,7 @@ window.allHeroes =
             "defense": 523,
             "health": 589
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "治療：復活"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "諾麗爾 (Noril)",
@@ -20941,25 +16637,7 @@ window.allHeroes =
             "defense": 715,
             "health": 1119
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：單一目標"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "攻擊-額外攻擊",
-                    "傷害-傷害↑：冰霜"
-                ]
-            },
-            {
-                "增益效果": [
-                    "法力-疊加：法力生成↑",
-                    "治療-疊加：生命恢復"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "拉西雅 (Roxia)",
@@ -21018,24 +16696,7 @@ window.allHeroes =
             "defense": 742,
             "health": 929
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：單一目標"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "傷害-額外傷害"
-                ]
-            },
-            {
-                "增益效果": [
-                    "攻擊-穿透/繞過",
-                    "攻擊-暴擊率↑"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "灌木熊 (Shrubbear)",
@@ -21081,15 +16742,7 @@ window.allHeroes =
             "defense": 718,
             "health": 1243
         },
-        "cn_skill_info": [
-            {
-                "增益效果": [
-                    "防禦-嘲諷",
-                    "防禦-防禦↑：特殊技能",
-                    "防禦-防禦力↑"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "瓦克 (Whacker)",
@@ -21135,18 +16788,7 @@ window.allHeroes =
             "defense": 569,
             "health": 1046
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：單一目標"
-                ]
-            },
-            {
-                "负面效果": [
-                    "攻擊-攻擊力↓"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "威廉 (William)",
@@ -21198,19 +16840,7 @@ window.allHeroes =
             "defense": 700,
             "health": 997
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：範圍"
-                ]
-            },
-            {
-                "增益效果": [
-                    "攻擊-暴擊率↑",
-                    "防禦-防禦力↑"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "約拿 (Yona)",
@@ -21268,29 +16898,7 @@ window.allHeroes =
             "defense": 666,
             "health": 1343
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "治療：提高生命"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "攻擊-賭博/隨機效果"
-                ]
-            },
-            {
-                "增益效果": [
-                    "防禦-防禦力↑"
-                ]
-            },
-            {
-                "负面效果": [
-                    "治療-最大生命值↓",
-                    "防禦-防禦力↓"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "扎瑞爾 (Zarel)",
@@ -21341,19 +16949,7 @@ window.allHeroes =
             "defense": 698,
             "health": 1085
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：全體"
-                ]
-            },
-            {
-                "负面效果": [
-                    "狀態-阻止淨化",
-                    "攻擊-攻擊力↓"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "莎蘿拉 (Zarola)",
@@ -21400,18 +16996,7 @@ window.allHeroes =
             "defense": 664,
             "health": 978
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：範圍"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "傷害-額外傷害"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "艾爾非 (Alfie)",
@@ -21468,21 +17053,7 @@ window.allHeroes =
             "defense": 816,
             "health": 1579
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：全體"
-                ]
-            },
-            {
-                "负面效果": [
-                    "法力-法力生成↓/阻止",
-                    "攻擊-命中率↓",
-                    "攻擊-攻擊力↓",
-                    "防禦-防禦力↓"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "艾姆 (Almur)",
@@ -21531,19 +17102,7 @@ window.allHeroes =
             "defense": 816,
             "health": 1590
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：範圍"
-                ]
-            },
-            {
-                "负面效果": [
-                    "治療-最大生命值↓",
-                    "防禦-防禦↓：自然"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "艾姆 (Almur) C1",
@@ -21592,23 +17151,7 @@ window.allHeroes =
             "defense": 799,
             "health": 1699
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：單一目標"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "法力-削減法力"
-                ]
-            },
-            {
-                "负面效果": [
-                    "防禦-防禦↓：自然"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "安東 (Anton)",
@@ -21668,21 +17211,7 @@ window.allHeroes =
             "defense": 805,
             "health": 1681
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "治療：持續",
-                    "治療：復活",
-                    "攻擊：全體",
-                    "傷害：持續傷害"
-                ]
-            },
-            {
-                "负面效果": [
-                    "傷害-持續傷害：毒"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "伯朗特斯 (Brontes)",
@@ -21741,19 +17270,7 @@ window.allHeroes =
             "defense": 902,
             "health": 1424
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "治療：即時"
-                ]
-            },
-            {
-                "增益效果": [
-                    "法力-法力生成↑",
-                    "法力-法力恢復"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "布倫希爾德 (Brynhild)",
@@ -21804,20 +17321,7 @@ window.allHeroes =
             "defense": 768,
             "health": 1491
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "治療：即時"
-                ]
-            },
-            {
-                "增益效果": [
-                    "狀態-阻止增益驅散",
-                    "法力-法力生成↑",
-                    "防禦-防禦↑：特殊技能"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "巴迪 (Buddy)",
@@ -21869,24 +17373,7 @@ window.allHeroes =
             "defense": 870,
             "health": 1667
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：範圍"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "召喚-召喚物"
-                ]
-            },
-            {
-                "负面效果": [
-                    "攻擊-攻擊力↓",
-                    "防禦-防禦力↓"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "凱德蒙 (Caedmon)",
@@ -21932,18 +17419,7 @@ window.allHeroes =
             "defense": 803,
             "health": 1421
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：單一目標"
-                ]
-            },
-            {
-                "增益效果": [
-                    "狀態-驅散增益"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "凱德蒙 (Caedmon) C1",
@@ -21989,18 +17465,7 @@ window.allHeroes =
             "defense": 852,
             "health": 1571
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：單一目標"
-                ]
-            },
-            {
-                "负面效果": [
-                    "狀態-淨化狀態異常"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "凱德蒙 (Caedmon) C2",
@@ -22048,23 +17513,7 @@ window.allHeroes =
             "defense": 907,
             "health": 1689
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：範圍"
-                ]
-            },
-            {
-                "增益效果": [
-                    "狀態-驅散增益"
-                ]
-            },
-            {
-                "负面效果": [
-                    "狀態-增益無效化"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "凱德蒙 (Caedmon) 卡通",
@@ -22114,23 +17563,7 @@ window.allHeroes =
             "defense": 936,
             "health": 1694
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：單一目標"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "傷害-傷害↑：冰霜"
-                ]
-            },
-            {
-                "增益效果": [
-                    "狀態-驅散增益"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "凱德蒙 (Caedmon) 玻璃",
@@ -22183,28 +17616,7 @@ window.allHeroes =
             "defense": 948,
             "health": 1728
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：單一目標"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "攻擊-穿透/繞過"
-                ]
-            },
-            {
-                "增益效果": [
-                    "狀態-驅散增益"
-                ]
-            },
-            {
-                "负面效果": [
-                    "攻擊-攻擊力↓"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "法蘭茲 (Franz)",
@@ -22253,19 +17665,7 @@ window.allHeroes =
             "defense": 859,
             "health": 1914
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：全體"
-                ]
-            },
-            {
-                "负面效果": [
-                    "狀態-增益無效化",
-                    "防禦-受到傷害↑"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "伏路提歐 (Fruitio)",
@@ -22315,18 +17715,7 @@ window.allHeroes =
             "defense": 942,
             "health": 1748
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：單一目標"
-                ]
-            },
-            {
-                "负面效果": [
-                    "法力-麻痹"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "嘉德利亞斯 (Gadeirus)",
@@ -22375,19 +17764,7 @@ window.allHeroes =
             "defense": 870,
             "health": 1381
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：鄰近輕傷",
-                    "治療：持續"
-                ]
-            },
-            {
-                "增益效果": [
-                    "攻擊-攻擊力↑"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "嘉德利亞斯 (Gadeirus) C1",
@@ -22437,20 +17814,7 @@ window.allHeroes =
             "defense": 909,
             "health": 1506
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：全體",
-                    "治療：持續",
-                    "治療：提高生命"
-                ]
-            },
-            {
-                "增益效果": [
-                    "攻擊-攻擊力↑"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "戈不勒 (Gobbler)",
@@ -22498,19 +17862,7 @@ window.allHeroes =
             "defense": 773,
             "health": 1531
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "治療：特殊",
-                    "攻擊：全體"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "攻擊-摧毀召喚物"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "戈不勒 (Gobbler) C1",
@@ -22559,24 +17911,7 @@ window.allHeroes =
             "defense": 832,
             "health": 1790
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：單一目標",
-                    "傷害：持續傷害"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "攻擊-偷取召喚物"
-                ]
-            },
-            {
-                "负面效果": [
-                    "傷害-持續傷害：沙"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "漢索 (Hansel)",
@@ -22624,23 +17959,7 @@ window.allHeroes =
             "defense": 757,
             "health": 1341
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：單一目標"
-                ]
-            },
-            {
-                "增益效果": [
-                    "防禦-防禦↑：特殊技能"
-                ]
-            },
-            {
-                "负面效果": [
-                    "法力-混亂/沉默/睡眠"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "漢索 (Hansel) C1",
@@ -22688,23 +18007,7 @@ window.allHeroes =
             "defense": 893,
             "health": 1483
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：單一目標"
-                ]
-            },
-            {
-                "增益效果": [
-                    "防禦-防禦↑：特殊技能"
-                ]
-            },
-            {
-                "负面效果": [
-                    "法力-混亂/沉默/睡眠"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "傑克·奧黑爾 (Jack O'Hare)",
@@ -22749,18 +18052,7 @@ window.allHeroes =
             "defense": 760,
             "health": 1210
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：全體"
-                ]
-            },
-            {
-                "负面效果": [
-                    "狀態-自我減益"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "傑克·奧黑爾 (Jack O'Hare) C1",
@@ -22808,23 +18100,7 @@ window.allHeroes =
             "defense": 820,
             "health": 1387
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：單一目標"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "攻擊-連鎖"
-                ]
-            },
-            {
-                "负面效果": [
-                    "狀態-自我減益"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "卡羅 (Kalo)",
@@ -22874,19 +18150,7 @@ window.allHeroes =
             "defense": 816,
             "health": 1723
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：全體"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "攻擊-回溯/偷取技能",
-                    "傷害-額外傷害"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "喀什雷克 (Kashhrek)",
@@ -22932,18 +18196,7 @@ window.allHeroes =
             "defense": 816,
             "health": 1665
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "治療：即時"
-                ]
-            },
-            {
-                "增益效果": [
-                    "防禦-防禦↑：火焰"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "喀什雷克 (Kashhrek) C1",
@@ -22990,18 +18243,7 @@ window.allHeroes =
             "defense": 887,
             "health": 1791
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "治療：提高生命"
-                ]
-            },
-            {
-                "增益效果": [
-                    "防禦-防禦↑：火焰"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "喀什雷克 (Kashhrek) C2",
@@ -23047,18 +18289,7 @@ window.allHeroes =
             "defense": 962,
             "health": 2055
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "治療：持續"
-                ]
-            },
-            {
-                "增益效果": [
-                    "防禦-防禦↑：特殊技能"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "喀什雷克 (Kashhrek) 卡通",
@@ -23106,18 +18337,7 @@ window.allHeroes =
             "defense": 870,
             "health": 2089
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "治療：即時"
-                ]
-            },
-            {
-                "增益效果": [
-                    "防禦-防禦↑：火焰"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "喀什雷克 (Kashhrek) 玻璃",
@@ -23168,19 +18388,7 @@ window.allHeroes =
             "defense": 853,
             "health": 2057
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "治療：即時"
-                ]
-            },
-            {
-                "增益效果": [
-                    "狀態-反彈負面效果",
-                    "防禦-防禦↑：火焰"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "獅弦 (Lionstring)",
@@ -23235,23 +18443,7 @@ window.allHeroes =
             "defense": 867,
             "health": 1627
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：範圍"
-                ]
-            },
-            {
-                "增益效果": [
-                    "防禦-閃避"
-                ]
-            },
-            {
-                "负面效果": [
-                    "治療-奪取治療"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "小約翰 (Little John)",
@@ -23297,18 +18489,7 @@ window.allHeroes =
             "defense": 717,
             "health": 1244
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：全體"
-                ]
-            },
-            {
-                "负面效果": [
-                    "法力-法力生成↓/阻止"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "小約翰 (Little John) C1",
@@ -23355,19 +18536,7 @@ window.allHeroes =
             "defense": 801,
             "health": 1380
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：全體"
-                ]
-            },
-            {
-                "增益效果": [
-                    "防禦-閃避",
-                    "法力-法力恢復"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "小約翰 (Little John) C2",
@@ -23413,18 +18582,7 @@ window.allHeroes =
             "defense": 802,
             "health": 1576
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：全體"
-                ]
-            },
-            {
-                "增益效果": [
-                    "法力-法力生成↑"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "小約翰 (Little John) 卡通",
@@ -23474,23 +18632,7 @@ window.allHeroes =
             "defense": 876,
             "health": 1527
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：全體"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "傷害-傷害↑：冰霜"
-                ]
-            },
-            {
-                "负面效果": [
-                    "法力-法力生成↓/阻止"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "小約翰 (Little John) 玻璃",
@@ -23541,23 +18683,7 @@ window.allHeroes =
             "defense": 887,
             "health": 1559
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：全體"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "攻擊-穿透/繞過"
-                ]
-            },
-            {
-                "负面效果": [
-                    "法力-法力生成↓/阻止"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "馬歇爾 (Marcel)",
@@ -23607,23 +18733,7 @@ window.allHeroes =
             "defense": 789,
             "health": 1686
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：範圍"
-                ]
-            },
-            {
-                "增益效果": [
-                    "攻擊-攻擊力↑"
-                ]
-            },
-            {
-                "负面效果": [
-                    "防禦-防禦力↓"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "米蘭朵 (Melendor)",
@@ -23669,18 +18779,7 @@ window.allHeroes =
             "defense": 738,
             "health": 1260
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "治療：即時"
-                ]
-            },
-            {
-                "增益效果": [
-                    "狀態-驅散增益"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "米蘭朵 (Melendor) C1",
@@ -23729,19 +18828,7 @@ window.allHeroes =
             "defense": 842,
             "health": 1464
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "治療：持續"
-                ]
-            },
-            {
-                "增益效果": [
-                    "防禦-防禦力↑",
-                    "狀態-驅散增益"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "米蘭朵 (Melendor) C2",
@@ -23790,19 +18877,7 @@ window.allHeroes =
             "defense": 1046,
             "health": 1550
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "治療：持續"
-                ]
-            },
-            {
-                "增益效果": [
-                    "攻擊-攻擊力↑",
-                    "狀態-驅散增益"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "米蘭朵 (Melendor) 卡通",
@@ -23853,19 +18928,7 @@ window.allHeroes =
             "defense": 917,
             "health": 1554
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "治療：即時"
-                ]
-            },
-            {
-                "增益效果": [
-                    "防禦-防禦力↑",
-                    "狀態-驅散增益"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "米蘭朵 (Melendor) 玻璃",
@@ -23917,19 +18980,7 @@ window.allHeroes =
             "defense": 936,
             "health": 1592
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "治療：即時"
-                ]
-            },
-            {
-                "增益效果": [
-                    "狀態-反彈負面效果",
-                    "狀態-驅散增益"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "梅莉凱 (Mielikki)",
@@ -23979,23 +19030,7 @@ window.allHeroes =
             "defense": 816,
             "health": 1815
         },
-        "cn_skill_info": [
-            {
-                "特殊效果": [
-                    "召喚-召喚物"
-                ]
-            },
-            {
-                "增益效果": [
-                    "法力-法力生成↑"
-                ]
-            },
-            {
-                "负面效果": [
-                    "攻擊-攻擊力↓"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "梅莉凱 (Mielikki) C1",
@@ -24043,23 +19078,7 @@ window.allHeroes =
             "defense": 848,
             "health": 1980
         },
-        "cn_skill_info": [
-            {
-                "特殊效果": [
-                    "召喚-召喚物"
-                ]
-            },
-            {
-                "增益效果": [
-                    "法力-法力生成↑"
-                ]
-            },
-            {
-                "负面效果": [
-                    "攻擊-攻擊力↓"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "摩嘎格 (Mulgog)",
@@ -24119,25 +19138,7 @@ window.allHeroes =
             "defense": 811,
             "health": 1547
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：範圍",
-                    "傷害：持續傷害"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "治療-透過傷害治療",
-                    "法力-削減法力"
-                ]
-            },
-            {
-                "负面效果": [
-                    "傷害-持續傷害：毒"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "摩嘎格 (Mulgog) C1",
@@ -24198,25 +19199,7 @@ window.allHeroes =
             "defense": 920,
             "health": 1636
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：全體",
-                    "傷害：持續傷害"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "治療-透過傷害治療",
-                    "法力-削減法力"
-                ]
-            },
-            {
-                "负面效果": [
-                    "傷害-持續傷害：毒"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "蜜絲多 (Myrtle)",
@@ -24270,25 +19253,7 @@ window.allHeroes =
             "defense": 835,
             "health": 1638
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：鄰近輕傷",
-                    "傷害：持續傷害"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "傷害-爆炸"
-                ]
-            },
-            {
-                "负面效果": [
-                    "傷害-持續傷害：毒",
-                    "防禦-防禦↓：特殊技能"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "呆頭 (Numbskull)",
@@ -24340,19 +19305,7 @@ window.allHeroes =
             "defense": 840,
             "health": 1624
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：全體"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "召喚-召喚物",
-                    "傷害-移除召喚物造成傷害"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "奧拉 (Orla)",
@@ -24409,29 +19362,7 @@ window.allHeroes =
             "defense": 856,
             "health": 1619
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：單一目標"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "傷害-額外傷害"
-                ]
-            },
-            {
-                "增益效果": [
-                    "法力-疊加：法力生成↑",
-                    "治療-疊加：生命恢復"
-                ]
-            },
-            {
-                "负面效果": [
-                    "法力-法力生成↓/阻止"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "皮特斯 (Peters)",
@@ -24477,18 +19408,7 @@ window.allHeroes =
             "defense": 808,
             "health": 1402
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：單一目標"
-                ]
-            },
-            {
-                "负面效果": [
-                    "法力-混亂/沉默/睡眠"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "皮特斯 (Peters) C1",
@@ -24537,19 +19457,7 @@ window.allHeroes =
             "defense": 898,
             "health": 1439
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：單一目標"
-                ]
-            },
-            {
-                "负面效果": [
-                    "法力-混亂/沉默/睡眠",
-                    "防禦-防禦力↓"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "托勒密 (Ptolemy)",
@@ -24600,19 +19508,7 @@ window.allHeroes =
             "defense": 864,
             "health": 1809
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "治療：即時",
-                    "治療：特殊"
-                ]
-            },
-            {
-                "增益效果": [
-                    "狀態-阻止負面效果"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "托勒密 (Ptolemy) C1",
@@ -24667,19 +19563,7 @@ window.allHeroes =
             "defense": 908,
             "health": 1901
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "治療：即時",
-                    "治療：特殊"
-                ]
-            },
-            {
-                "增益效果": [
-                    "狀態-免疫狀態異常"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "羅利 (Raleigh)",
@@ -24730,19 +19614,7 @@ window.allHeroes =
             "defense": 899,
             "health": 1603
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "治療：提高生命"
-                ]
-            },
-            {
-                "增益效果": [
-                    "法力-法力生成↑",
-                    "攻擊-攻擊力↑"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "柱子骷髏 (Skittleskull)",
@@ -24788,18 +19660,7 @@ window.allHeroes =
             "defense": 762,
             "health": 1220
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：全體"
-                ]
-            },
-            {
-                "负面效果": [
-                    "攻擊-攻擊力↓"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "柱子骷髏 (Skittleskull) C1",
@@ -24845,18 +19706,7 @@ window.allHeroes =
             "defense": 809,
             "health": 1315
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：全體"
-                ]
-            },
-            {
-                "负面效果": [
-                    "攻擊-攻擊力↓"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "柱子骷髏 (Skittleskull) C2",
@@ -24902,18 +19752,7 @@ window.allHeroes =
             "defense": 895,
             "health": 1454
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：全體"
-                ]
-            },
-            {
-                "负面效果": [
-                    "防禦-防禦力↓"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "柱子骷髏 (Skittleskull) 卡通",
@@ -24963,23 +19802,7 @@ window.allHeroes =
             "defense": 889,
             "health": 1521
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：全體"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "傷害-傷害↑：冰霜"
-                ]
-            },
-            {
-                "负面效果": [
-                    "攻擊-攻擊力↓"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "柱子骷髏 (Skittleskull) 玻璃",
@@ -25030,23 +19853,7 @@ window.allHeroes =
             "defense": 894,
             "health": 1512
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：全體"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "攻擊-穿透/繞過"
-                ]
-            },
-            {
-                "负面效果": [
-                    "攻擊-攻擊力↓"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "特圖 (Tettukh)",
@@ -25097,20 +19904,7 @@ window.allHeroes =
             "defense": 840,
             "health": 1563
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：單一目標",
-                    "傷害：持續傷害"
-                ]
-            },
-            {
-                "负面效果": [
-                    "法力-混亂/沉默/睡眠",
-                    "傷害-持續傷害：毒"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "特圖 (Tettukh) C1",
@@ -25161,20 +19955,7 @@ window.allHeroes =
             "defense": 827,
             "health": 1491
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：單一目標",
-                    "傷害：持續傷害"
-                ]
-            },
-            {
-                "负面效果": [
-                    "法力-混亂/沉默/睡眠",
-                    "傷害-持續傷害：毒"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "韋勒 (Villiers)",
@@ -25229,20 +20010,7 @@ window.allHeroes =
             "defense": 856,
             "health": 1512
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "治療：持續"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "召喚-惡魔",
-                    "狀態-偷取增益",
-                    "治療-自我恢復"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "雷恩 (Wren)",
@@ -25290,23 +20058,7 @@ window.allHeroes =
             "defense": 811,
             "health": 1614
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：單一目標"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "攻擊-連鎖"
-                ]
-            },
-            {
-                "负面效果": [
-                    "攻擊-攻擊力↓"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "亞赫摩斯 (Ahmose)",
@@ -25357,18 +20109,7 @@ window.allHeroes =
             "defense": 1061,
             "health": 1935
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：全體"
-                ]
-            },
-            {
-                "增益效果": [
-                    "防禦-反擊/反彈：火焰"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "亞赫摩斯 (Ahmose) C1",
@@ -25421,18 +20162,7 @@ window.allHeroes =
             "defense": 1467,
             "health": 2798
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：全體"
-                ]
-            },
-            {
-                "增益效果": [
-                    "防禦-反擊/反彈：火焰"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "阿爾貝裡希 (Alberich)",
@@ -25484,19 +20214,7 @@ window.allHeroes =
             "defense": 914,
             "health": 1574
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "治療：持續",
-                    "治療：復活"
-                ]
-            },
-            {
-                "增益效果": [
-                    "法力-法力恢復"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "阿爾貝裡希 (Alberich) C1",
@@ -25551,19 +20269,7 @@ window.allHeroes =
             "defense": 1186,
             "health": 2308
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "治療：持續",
-                    "治療：復活"
-                ]
-            },
-            {
-                "增益效果": [
-                    "法力-法力生成↑"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "亞齊柏 (Archibald)",
@@ -25620,26 +20326,7 @@ window.allHeroes =
             "defense": 1496,
             "health": 2705
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：全體",
-                    "傷害：持續傷害"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "攻擊-穿透召喚物",
-                    "召喚-超級召喚物"
-                ]
-            },
-            {
-                "负面效果": [
-                    "傷害-持續傷害：流血",
-                    "防禦-防禦↓：自然"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "阿奇 (Archie)",
@@ -25688,19 +20375,7 @@ window.allHeroes =
             "defense": 1021,
             "health": 1798
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：全體"
-                ]
-            },
-            {
-                "负面效果": [
-                    "狀態-增益無效化",
-                    "狀態-自我減益"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "阿奇 (Archie) C1",
@@ -25749,19 +20424,7 @@ window.allHeroes =
             "defense": 1225,
             "health": 2247
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：全體"
-                ]
-            },
-            {
-                "负面效果": [
-                    "狀態-增益無效化",
-                    "狀態-自我減益"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "阿爾科 (Arco)",
@@ -25813,15 +20476,7 @@ window.allHeroes =
             "defense": 1023,
             "health": 1871
         },
-        "cn_skill_info": [
-            {
-                "特殊效果": [
-                    "召喚-摧毀惡魔",
-                    "召喚-召喚物",
-                    "治療-透過召喚物治療"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "亞曼德蒙加閔 (Armand Moncharmin)",
@@ -25872,24 +20527,7 @@ window.allHeroes =
             "defense": 1457,
             "health": 2260
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：全體"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "召喚-超級召喚物"
-                ]
-            },
-            {
-                "负面效果": [
-                    "法力-混亂/沉默/睡眠",
-                    "防禦-受到傷害↑"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "亞叟斯 (Athos)",
@@ -25944,21 +20582,7 @@ window.allHeroes =
             "defense": 922,
             "health": 2001
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "治療：持續",
-                    "攻擊：單一目標"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "攻擊-穿透/繞過",
-                    "攻擊-摧毀召喚物",
-                    "法力-摧毀召喚物獲得法力"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "阿多莫斯 (Atomos)",
@@ -26006,23 +20630,7 @@ window.allHeroes =
             "defense": 896,
             "health": 1648
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：全體"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "傷害-額外傷害"
-                ]
-            },
-            {
-                "增益效果": [
-                    "治療-自我復活"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "阿多莫斯 (Atomos) C1",
@@ -26070,23 +20678,7 @@ window.allHeroes =
             "defense": 1120,
             "health": 2142
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：全體"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "傷害-額外傷害"
-                ]
-            },
-            {
-                "增益效果": [
-                    "治療-自我復活"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "艾烏 (Atwood)",
@@ -26141,25 +20733,7 @@ window.allHeroes =
             "defense": 1369,
             "health": 2440
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：範圍"
-                ]
-            },
-            {
-                "增益效果": [
-                    "狀態-免疫狀態異常",
-                    "狀態-驅散增益"
-                ]
-            },
-            {
-                "负面效果": [
-                    "狀態-狂亂",
-                    "狀態-自我減益"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "奧古斯都 (Augustus)",
@@ -26213,29 +20787,7 @@ window.allHeroes =
             "defense": 1043,
             "health": 1869
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "治療：提高生命",
-                    "治療：特殊"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "召喚-召喚物"
-                ]
-            },
-            {
-                "增益效果": [
-                    "防禦-防禦力↑"
-                ]
-            },
-            {
-                "负面效果": [
-                    "狀態-淨化狀態異常"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "貝爾巴 (Balbar)",
@@ -26291,19 +20843,7 @@ window.allHeroes =
             "defense": 932,
             "health": 1699
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：單一目標"
-                ]
-            },
-            {
-                "负面效果": [
-                    "法力-混亂/沉默/睡眠",
-                    "防禦-受到傷害↑"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "貝提拉 (Bertila)",
@@ -26352,18 +20892,7 @@ window.allHeroes =
             "defense": 955,
             "health": 1686
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：全體"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "狀態-負面效果重新分配"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "波與朗特 (Bo & Runt)",
@@ -26418,24 +20947,7 @@ window.allHeroes =
             "defense": 1145,
             "health": 2037
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：單一目標"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "傷害-額外傷害",
-                    "召喚-召喚物"
-                ]
-            },
-            {
-                "增益效果": [
-                    "攻擊-攻擊力↑"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "邦佐 (Bonzo)",
@@ -26492,24 +21004,7 @@ window.allHeroes =
             "defense": 1318,
             "health": 2382
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：全體"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "攻擊-穿透召喚物",
-                    "攻擊-穿透/繞過"
-                ]
-            },
-            {
-                "负面效果": [
-                    "防禦-改變顏色/位置"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "布布與牙牙 (Boom & Fang)",
@@ -26558,18 +21053,7 @@ window.allHeroes =
             "defense": 1183,
             "health": 2153
         },
-        "cn_skill_info": [
-            {
-                "特殊效果": [
-                    "召喚-超級召喚物"
-                ]
-            },
-            {
-                "增益效果": [
-                    "防禦-反擊/反彈"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "博安寶 (Bramble)",
@@ -26622,23 +21106,7 @@ window.allHeroes =
             "defense": 1457,
             "health": 2730
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "治療：即時"
-                ]
-            },
-            {
-                "增益效果": [
-                    "法力-法力恢復"
-                ]
-            },
-            {
-                "负面效果": [
-                    "狀態-淨化狀態異常"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "奇考 (Chikao)",
@@ -26700,24 +21168,7 @@ window.allHeroes =
             "defense": 1407,
             "health": 2006
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：兩側"
-                ]
-            },
-            {
-                "增益效果": [
-                    "狀態-驅散增益"
-                ]
-            },
-            {
-                "负面效果": [
-                    "法力-混亂/沉默/睡眠",
-                    "防禦-受到傷害↑"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "克羅里斯 (Chloris)",
@@ -26769,19 +21220,7 @@ window.allHeroes =
             "defense": 1457,
             "health": 2131
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "治療：提高生命",
-                    "治療：持續"
-                ]
-            },
-            {
-                "增益效果": [
-                    "攻擊-攻擊力↑"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "西尼西亞 (Cinisia)",
@@ -26835,20 +21274,7 @@ window.allHeroes =
             "defense": 899,
             "health": 1653
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：全體",
-                    "傷害：持續傷害"
-                ]
-            },
-            {
-                "负面效果": [
-                    "治療-治療量↓",
-                    "傷害-持續傷害：流血"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "康葛拉克 (Congalach)",
@@ -26897,18 +21323,7 @@ window.allHeroes =
             "defense": 965,
             "health": 1714
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：隨機"
-                ]
-            },
-            {
-                "负面效果": [
-                    "攻擊-疊加：攻擊力↓"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "康葛拉克 (Congalach) C1",
@@ -26958,18 +21373,7 @@ window.allHeroes =
             "defense": 1237,
             "health": 2354
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：隨機"
-                ]
-            },
-            {
-                "负面效果": [
-                    "攻擊-疊加：攻擊力↓"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "克羅姆 (Craum)",
@@ -27025,23 +21429,7 @@ window.allHeroes =
             "defense": 1330,
             "health": 2260
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "傷害：持續傷害",
-                    "治療：提高生命",
-                    "治療：特殊"
-                ]
-            },
-            {
-                "负面效果": [
-                    "傷害-持續傷害：水",
-                    "傷害-持續傷害：沙",
-                    "傷害-持續傷害：燃燒",
-                    "傷害-持續傷害：毒"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "克里斯托巴 (Cristobal)",
@@ -27097,19 +21485,7 @@ window.allHeroes =
             "defense": 937,
             "health": 1747
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：單一目標",
-                    "攻擊：全體"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "傷害-額外傷害"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "達格 (Dagr)",
@@ -27168,26 +21544,7 @@ window.allHeroes =
             "defense": 1424,
             "health": 2621
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：全體",
-                    "傷害：持續傷害"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "攻擊-穿透召喚物",
-                    "傷害-傷害↑：自然"
-                ]
-            },
-            {
-                "负面效果": [
-                    "傷害-持續傷害：毒",
-                    "防禦-受到傷害↑"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "達羅加 (Daroga)",
@@ -27240,24 +21597,7 @@ window.allHeroes =
             "defense": 1310,
             "health": 2001
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：單一目標",
-                    "傷害：持續傷害"
-                ]
-            },
-            {
-                "增益效果": [
-                    "攻擊-疊加：攻擊力↑"
-                ]
-            },
-            {
-                "负面效果": [
-                    "傷害-持續傷害：流血"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "戴斯蒙 (Desmond)",
@@ -27313,19 +21653,7 @@ window.allHeroes =
             "defense": 1201,
             "health": 2103
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "治療：提高生命",
-                    "攻擊：兩側"
-                ]
-            },
-            {
-                "负面效果": [
-                    "法力-混亂/沉默/睡眠"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "達格葛姆 (Dodgrom)",
@@ -27376,15 +21704,7 @@ window.allHeroes =
             "defense": 1460,
             "health": 2700
         },
-        "cn_skill_info": [
-            {
-                "增益效果": [
-                    "防禦-反擊/反彈",
-                    "防禦-傷害減免",
-                    "防禦-嘲諷"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "艾吉斯奧 (Ecgtheow)",
@@ -27435,18 +21755,7 @@ window.allHeroes =
             "defense": 1404,
             "health": 2659
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：全體"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "法力-削減法力"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "埃德溫 (Edwin)",
@@ -27497,23 +21806,7 @@ window.allHeroes =
             "defense": 1097,
             "health": 2087
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：全體"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "攻擊-穿透/繞過"
-                ]
-            },
-            {
-                "负面效果": [
-                    "狀態-阻止淨化"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "艾拉和菲菲 (Eiora & Fluffy)",
@@ -27562,23 +21855,7 @@ window.allHeroes =
             "defense": 927,
             "health": 1727
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：單一目標"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "攻擊-摧毀召喚物"
-                ]
-            },
-            {
-                "负面效果": [
-                    "治療-最大生命值↓"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "伊肯耐 (Ekanite)",
@@ -27637,23 +21914,7 @@ window.allHeroes =
             "defense": 990,
             "health": 1927
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：全體"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "召喚-召喚物"
-                ]
-            },
-            {
-                "增益效果": [
-                    "防禦-反擊/反彈"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "艾爾娜妲哈 (El Naddaha)",
@@ -27703,18 +21964,7 @@ window.allHeroes =
             "defense": 982,
             "health": 1866
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：範圍"
-                ]
-            },
-            {
-                "负面效果": [
-                    "狀態-增益無效化"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "艾爾娜妲哈 (El Naddaha) C1",
@@ -27767,18 +22017,7 @@ window.allHeroes =
             "defense": 1360,
             "health": 2632
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：範圍"
-                ]
-            },
-            {
-                "负面效果": [
-                    "狀態-增益無效化"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "埃爾卡能 (Elkanen)",
@@ -27824,18 +22063,7 @@ window.allHeroes =
             "defense": 967,
             "health": 1562
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：鄰近輕傷"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "治療-透過傷害治療"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "埃爾卡能 (Elkanen) C1",
@@ -27882,18 +22110,7 @@ window.allHeroes =
             "defense": 1144,
             "health": 1735
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：範圍"
-                ]
-            },
-            {
-                "负面效果": [
-                    "治療-奪取治療"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "埃爾卡能 (Elkanen) C2",
@@ -27939,18 +22156,7 @@ window.allHeroes =
             "defense": 1204,
             "health": 2242
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：全體"
-                ]
-            },
-            {
-                "负面效果": [
-                    "治療-治療量↓"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "埃爾卡能 (Elkanen) 卡通",
@@ -28000,19 +22206,7 @@ window.allHeroes =
             "defense": 1334,
             "health": 2619
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：鄰近輕傷"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "治療-透過傷害治療",
-                    "傷害-傷害↑：冰霜"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "埃爾卡能 (Elkanen) 玻璃",
@@ -28062,19 +22256,7 @@ window.allHeroes =
             "defense": 1501,
             "health": 2751
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：鄰近輕傷"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "治療-透過傷害治療",
-                    "攻擊-穿透/繞過"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "伊羅德 (Elradir)",
@@ -28126,18 +22308,7 @@ window.allHeroes =
             "defense": 919,
             "health": 1668
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：範圍"
-                ]
-            },
-            {
-                "增益效果": [
-                    "防禦-反擊/反彈"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "伊萊莎 (Elyssa)",
@@ -28195,18 +22366,7 @@ window.allHeroes =
             "defense": 1600,
             "health": 2689
         },
-        "cn_skill_info": [
-            {
-                "特殊效果": [
-                    "狀態-替換為增益"
-                ]
-            },
-            {
-                "增益效果": [
-                    "狀態-阻止負面效果"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "恩尼基摩 (Enigmo)",
@@ -28260,21 +22420,7 @@ window.allHeroes =
             "defense": 1010,
             "health": 1859
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "治療：即時",
-                    "攻擊：全體"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "召喚-惡魔",
-                    "召喚-召喚物",
-                    "攻擊-回溯/偷取技能"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "伊芙琳 (Evelyn)",
@@ -28325,23 +22471,7 @@ window.allHeroes =
             "defense": 878,
             "health": 1671
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：範圍"
-                ]
-            },
-            {
-                "增益效果": [
-                    "狀態-驅散增益"
-                ]
-            },
-            {
-                "负面效果": [
-                    "防禦-防禦↓：自然"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "伊芙琳 (Evelyn) C1",
@@ -28395,23 +22525,7 @@ window.allHeroes =
             "defense": 1121,
             "health": 2360
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：範圍"
-                ]
-            },
-            {
-                "增益效果": [
-                    "狀態-驅散增益"
-                ]
-            },
-            {
-                "负面效果": [
-                    "防禦-防禦↓：自然"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "經驗模仿怪 (Experience Mimic) Nature",
@@ -28473,25 +22587,7 @@ window.allHeroes =
             "defense": 1524,
             "health": 2616
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：單一目標"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "攻擊-摧毀召喚物",
-                    "法力-法力恢復（擊殺）",
-                    "治療-自我恢復"
-                ]
-            },
-            {
-                "增益效果": [
-                    "防禦-擬態"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "法夫納 (Fafnir)",
@@ -28549,24 +22645,7 @@ window.allHeroes =
             "defense": 1447,
             "health": 2821
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：範圍"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "傷害-傷害↑：火焰"
-                ]
-            },
-            {
-                "负面效果": [
-                    "狀態-反彈增益",
-                    "防禦-受到傷害↑"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "非波斯 (Februus)",
@@ -28621,25 +22700,7 @@ window.allHeroes =
             "defense": 1125,
             "health": 2313
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "治療：持續",
-                    "傷害：持續傷害"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "召喚-摧毀惡魔"
-                ]
-            },
-            {
-                "负面效果": [
-                    "傷害-持續傷害：毒",
-                    "狀態-淨化狀態異常"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "費洛斯 (Ferrus)",
@@ -28696,20 +22757,7 @@ window.allHeroes =
             "defense": 1120,
             "health": 2219
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：範圍",
-                    "傷害：持續傷害"
-                ]
-            },
-            {
-                "负面效果": [
-                    "傷害-持續傷害：流血",
-                    "防禦-防禦↓：自然"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "弗蘿瑞娜 (Florenna)",
@@ -28763,20 +22811,7 @@ window.allHeroes =
             "defense": 1399,
             "health": 2324
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：單一目標",
-                    "傷害：持續傷害"
-                ]
-            },
-            {
-                "负面效果": [
-                    "狀態-阻止淨化",
-                    "傷害-持續傷害：毒"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "法克斯利 (Foxley)",
@@ -28828,20 +22863,7 @@ window.allHeroes =
             "defense": 1521,
             "health": 2329
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：範圍",
-                    "傷害：持續傷害"
-                ]
-            },
-            {
-                "负面效果": [
-                    "法力-麻痹",
-                    "傷害-持續傷害：流血"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "方欣 (Francine)",
@@ -28891,23 +22913,7 @@ window.allHeroes =
             "defense": 916,
             "health": 1668
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：範圍"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "傷害-傷害↑：冰霜"
-                ]
-            },
-            {
-                "负面效果": [
-                    "狀態-淨化狀態異常"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "方欣 (Francine) C1",
@@ -28957,19 +22963,7 @@ window.allHeroes =
             "defense": 1247,
             "health": 2211
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：範圍"
-                ]
-            },
-            {
-                "负面效果": [
-                    "防禦-防禦↓：自然",
-                    "狀態-淨化狀態異常"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "芙麗嘉 (Frigg)",
@@ -29017,23 +23011,7 @@ window.allHeroes =
             "defense": 937,
             "health": 1628
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：全體"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "傷害-額外傷害"
-                ]
-            },
-            {
-                "负面效果": [
-                    "防禦-防禦力↓"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "芙麗嘉 (Frigg) C1",
@@ -29081,23 +23059,7 @@ window.allHeroes =
             "defense": 1192,
             "health": 2191
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：全體"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "傷害-額外傷害"
-                ]
-            },
-            {
-                "负面效果": [
-                    "防禦-防禦力↓"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "青蛙王子 (Frog Prince)",
@@ -29149,27 +23111,7 @@ window.allHeroes =
             "defense": 1170,
             "health": 1932
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：全體",
-                    "傷害：持續傷害"
-                ]
-            },
-            {
-                "增益效果": [
-                    "防禦-傷害分擔",
-                    "法力-法力恢復"
-                ]
-            },
-            {
-                "负面效果": [
-                    "傷害-持續傷害：毒",
-                    "法力-法力生成↓/阻止",
-                    "狀態-自我減益"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "福蘭德 (Frond)",
@@ -29222,18 +23164,7 @@ window.allHeroes =
             "defense": 1183,
             "health": 2141
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：範圍"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "傷害-額外傷害"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "方葛斯丁 (Fungustine)",
@@ -29289,24 +23220,7 @@ window.allHeroes =
             "defense": 1490,
             "health": 2451
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "治療：提高生命"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "狀態-偷取增益"
-                ]
-            },
-            {
-                "增益效果": [
-                    "狀態-阻止增益驅散",
-                    "防禦-防禦力↑"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "嘎拉啪果 (Galapago)",
@@ -29369,24 +23283,7 @@ window.allHeroes =
             "defense": 1181,
             "health": 2288
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：全體"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "攻擊-摧毀召喚物"
-                ]
-            },
-            {
-                "增益效果": [
-                    "防禦-防禦力↑",
-                    "治療-疊加：生命恢復"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "嘎拉啪果 (Galapago) C1",
@@ -29449,24 +23346,7 @@ window.allHeroes =
             "defense": 1168,
             "health": 2245
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：全體"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "攻擊-摧毀召喚物"
-                ]
-            },
-            {
-                "增益效果": [
-                    "防禦-防禦力↑",
-                    "治療-疊加：生命恢復"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "伽傑莫 (Garjammal)",
@@ -29514,18 +23394,7 @@ window.allHeroes =
             "defense": 955,
             "health": 1663
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：單一目標"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "治療-自我恢復"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "伽傑莫 (Garjammal) C1",
@@ -29576,18 +23445,7 @@ window.allHeroes =
             "defense": 1254,
             "health": 2296
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "治療：持續"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "治療-自我恢復"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "格丁 (Garten)",
@@ -29642,18 +23500,7 @@ window.allHeroes =
             "defense": 1336,
             "health": 2235
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "治療：提高生命"
-                ]
-            },
-            {
-                "负面效果": [
-                    "治療-最大生命值↓"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "格勒特 (Gelert)",
@@ -29716,28 +23563,7 @@ window.allHeroes =
             "defense": 1079,
             "health": 2197
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：單一目標"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "傷害-額外傷害"
-                ]
-            },
-            {
-                "增益效果": [
-                    "法力-法力生成↑"
-                ]
-            },
-            {
-                "负面效果": [
-                    "法力-法力奪取"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "格勒特 (Gelert) C1",
@@ -29801,28 +23627,7 @@ window.allHeroes =
             "defense": 1351,
             "health": 2791
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：單一目標"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "傷害-額外傷害"
-                ]
-            },
-            {
-                "增益效果": [
-                    "法力-法力生成↑"
-                ]
-            },
-            {
-                "负面效果": [
-                    "法力-法力奪取"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "金吉兒 (Ginger)",
@@ -29871,19 +23676,7 @@ window.allHeroes =
             "defense": 1153,
             "health": 2006
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：隨機"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "召喚-召喚物",
-                    "傷害-額外傷害"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "戈弗雷 (Godfrey)",
@@ -29937,24 +23730,7 @@ window.allHeroes =
             "defense": 1572,
             "health": 2781
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "治療：即時"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "召喚-超級召喚物"
-                ]
-            },
-            {
-                "增益效果": [
-                    "狀態-免疫狀態異常",
-                    "狀態-驅散增益"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "古立恩 (Goorian)",
@@ -30012,23 +23788,7 @@ window.allHeroes =
             "defense": 1534,
             "health": 2364
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：全體"
-                ]
-            },
-            {
-                "增益效果": [
-                    "治療-自我復活"
-                ]
-            },
-            {
-                "负面效果": [
-                    "防禦-防禦力↓"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "葛蕾絲 (Grace)",
@@ -30083,19 +23843,7 @@ window.allHeroes =
             "defense": 949,
             "health": 1800
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：範圍"
-                ]
-            },
-            {
-                "负面效果": [
-                    "狀態-增益無效化",
-                    "防禦-防禦↓：特殊技能"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "翠綠騎士 (Green Knight)",
@@ -30144,28 +23892,7 @@ window.allHeroes =
             "defense": 1010,
             "health": 1765
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：全體"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "傷害-爆炸"
-                ]
-            },
-            {
-                "增益效果": [
-                    "治療-自我復活"
-                ]
-            },
-            {
-                "负面效果": [
-                    "防禦-防禦力↓"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "格雷戈裡恩 (Gregorion)",
@@ -30213,18 +23940,7 @@ window.allHeroes =
             "defense": 876,
             "health": 1666
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：單一目標"
-                ]
-            },
-            {
-                "增益效果": [
-                    "攻擊-暴擊率↑"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "格雷戈裡恩 (Gregorion) C1",
@@ -30275,18 +23991,7 @@ window.allHeroes =
             "defense": 1108,
             "health": 2370
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：單一目標"
-                ]
-            },
-            {
-                "增益效果": [
-                    "攻擊-暴擊率↑"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "格倫戴爾 (Grendel)",
@@ -30342,25 +24047,7 @@ window.allHeroes =
             "defense": 1473,
             "health": 2641
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：範圍",
-                    "傷害：持續傷害"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "治療-自我恢復"
-                ]
-            },
-            {
-                "负面效果": [
-                    "傷害-持續傷害：流血",
-                    "防禦-防禦↓：自然"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "果芙微特 (Grovevert)",
@@ -30414,23 +24101,7 @@ window.allHeroes =
             "defense": 1549,
             "health": 2410
         },
-        "cn_skill_info": [
-            {
-                "特殊效果": [
-                    "召喚-超級惡魔"
-                ]
-            },
-            {
-                "增益效果": [
-                    "法力-法力恢復"
-                ]
-            },
-            {
-                "负面效果": [
-                    "法力-法力生成↓/阻止"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "關羽 (Guan Yu)",
@@ -30479,23 +24150,7 @@ window.allHeroes =
             "defense": 955,
             "health": 1805
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：範圍"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "攻擊-穿透召喚物"
-                ]
-            },
-            {
-                "负面效果": [
-                    "防禦-防禦力↓"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "關羽 (Guan Yu) C1",
@@ -30549,23 +24204,7 @@ window.allHeroes =
             "defense": 1340,
             "health": 2422
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：範圍"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "攻擊-穿透/繞過"
-                ]
-            },
-            {
-                "负面效果": [
-                    "防禦-防禦力↓"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "變色龍守護者 (Guardian Chameleon)",
@@ -30617,21 +24256,7 @@ window.allHeroes =
             "defense": 962,
             "health": 1651
         },
-        "cn_skill_info": [
-            {
-                "增益效果": [
-                    "攻擊-暴擊率↑",
-                    "攻擊-攻擊力↑",
-                    "狀態-驅散增益"
-                ]
-            },
-            {
-                "负面效果": [
-                    "防禦-改變顏色/位置",
-                    "狀態-淨化狀態異常"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "漢摩塔斯克 (Hammertusk)",
@@ -30681,18 +24306,7 @@ window.allHeroes =
             "defense": 1089,
             "health": 2009
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：範圍"
-                ]
-            },
-            {
-                "负面效果": [
-                    "防禦-受到傷害↑"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "駝石人 (Haulstone)",
@@ -30759,26 +24373,7 @@ window.allHeroes =
             "defense": 1206,
             "health": 2301
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "治療：持續",
-                    "治療：特殊"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "攻擊-賭博/隨機效果",
-                    "召喚-召喚物"
-                ]
-            },
-            {
-                "增益效果": [
-                    "攻擊-攻擊力↑",
-                    "防禦-防禦力↑"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "海姆達 (Heimdall)",
@@ -30827,19 +24422,7 @@ window.allHeroes =
             "defense": 1041,
             "health": 1747
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "治療：提高生命",
-                    "治療：復活"
-                ]
-            },
-            {
-                "增益效果": [
-                    "攻擊-攻擊力↑"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "海姆達 (Heimdall) C1",
@@ -30889,19 +24472,7 @@ window.allHeroes =
             "defense": 1355,
             "health": 2327
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "治療：提高生命",
-                    "治療：復活"
-                ]
-            },
-            {
-                "增益效果": [
-                    "攻擊-攻擊力↑"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "霍格火 (Horghall)",
@@ -30947,18 +24518,7 @@ window.allHeroes =
             "defense": 802,
             "health": 1905
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：全體"
-                ]
-            },
-            {
-                "负面效果": [
-                    "攻擊-攻擊力↓"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "霍格火 (Horghall) C1",
@@ -31004,18 +24564,7 @@ window.allHeroes =
             "defense": 920,
             "health": 2114
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：全體"
-                ]
-            },
-            {
-                "负面效果": [
-                    "攻擊-攻擊力↓"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "霍格火 (Horghall) C2",
@@ -31067,21 +24616,7 @@ window.allHeroes =
             "defense": 1090,
             "health": 2639
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：全體",
-                    "傷害：持續傷害"
-                ]
-            },
-            {
-                "负面效果": [
-                    "攻擊-攻擊力↓",
-                    "防禦-防禦力↓",
-                    "傷害-持續傷害：毒"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "霍格火 (Horghall) 卡通",
@@ -31131,23 +24666,7 @@ window.allHeroes =
             "defense": 1345,
             "health": 3281
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：全體"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "傷害-傷害↑：冰霜"
-                ]
-            },
-            {
-                "负面效果": [
-                    "攻擊-攻擊力↓"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "亨伯特 (Humbert)",
@@ -31199,20 +24718,7 @@ window.allHeroes =
             "defense": 1369,
             "health": 2435
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：全體",
-                    "治療：傷害量",
-                    "治療：提高生命"
-                ]
-            },
-            {
-                "增益效果": [
-                    "防禦-防禦力↑"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "伊庫托索 (Iku-Turso)",
@@ -31264,20 +24770,7 @@ window.allHeroes =
             "defense": 975,
             "health": 1818
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：範圍",
-                    "傷害：持續傷害"
-                ]
-            },
-            {
-                "负面效果": [
-                    "治療-奪取治療",
-                    "傷害-持續傷害：水"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "伊藤 (Ito)",
@@ -31342,20 +24835,7 @@ window.allHeroes =
             "defense": 1460,
             "health": 2286
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：數量變化",
-                    "治療：傷害量",
-                    "治療：提高生命"
-                ]
-            },
-            {
-                "负面效果": [
-                    "法力-法力生成↓/阻止"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "翠玉 (Jade)",
@@ -31414,23 +24894,7 @@ window.allHeroes =
             "defense": 1010,
             "health": 1783
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：數量變化"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "法力-削減法力"
-                ]
-            },
-            {
-                "增益效果": [
-                    "防禦-閃避"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "卡迪雷恩 (Kadilen)",
@@ -31476,18 +24940,7 @@ window.allHeroes =
             "defense": 944,
             "health": 1536
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：全體"
-                ]
-            },
-            {
-                "增益效果": [
-                    "防禦-防禦↑：特殊技能"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "卡迪雷恩 (Kadilen) C1",
@@ -31535,23 +24988,7 @@ window.allHeroes =
             "defense": 1101,
             "health": 1770
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：全體"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "召喚-召喚物"
-                ]
-            },
-            {
-                "增益效果": [
-                    "防禦-閃避"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "卡迪雷恩 (Kadilen) C2",
@@ -31599,23 +25036,7 @@ window.allHeroes =
             "defense": 1277,
             "health": 2278
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：全體"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "召喚-召喚物"
-                ]
-            },
-            {
-                "增益效果": [
-                    "防禦-閃避"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "卡迪雷恩 (Kadilen) 卡通",
@@ -31665,23 +25086,7 @@ window.allHeroes =
             "defense": 1325,
             "health": 2611
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：全體"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "傷害-傷害↑：冰霜"
-                ]
-            },
-            {
-                "增益效果": [
-                    "防禦-防禦↑：特殊技能"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "凱 (Kai)",
@@ -31738,28 +25143,7 @@ window.allHeroes =
             "defense": 1026,
             "health": 1935
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：單一目標"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "召喚-惡魔"
-                ]
-            },
-            {
-                "增益效果": [
-                    "狀態-驅散增益"
-                ]
-            },
-            {
-                "负面效果": [
-                    "治療-治療量↓"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "金士頓 (Kingston)",
@@ -31809,18 +25193,7 @@ window.allHeroes =
             "defense": 906,
             "health": 1562
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：單一目標"
-                ]
-            },
-            {
-                "负面效果": [
-                    "攻擊-攻擊力↓"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "科利亞 (Kolya)",
@@ -31876,29 +25249,7 @@ window.allHeroes =
             "defense": 1376,
             "health": 2524
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：全體"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "召喚-超級召喚物",
-                    "傷害-額外傷害"
-                ]
-            },
-            {
-                "增益效果": [
-                    "狀態-驅散增益"
-                ]
-            },
-            {
-                "负面效果": [
-                    "狀態-淨化狀態異常"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "洛克小姐 (Lady Locke)",
@@ -31944,19 +25295,7 @@ window.allHeroes =
             "defense": 820,
             "health": 1518
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：範圍",
-                    "傷害：持續傷害"
-                ]
-            },
-            {
-                "负面效果": [
-                    "狀態-淨化狀態異常"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "洛克小姐 (Lady Locke) C1",
@@ -32007,19 +25346,7 @@ window.allHeroes =
             "defense": 1025,
             "health": 2125
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：鄰近輕傷",
-                    "傷害：持續傷害"
-                ]
-            },
-            {
-                "负面效果": [
-                    "狀態-淨化狀態異常"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "聖湖女神 (Lady of the Lake)",
@@ -32068,19 +25395,7 @@ window.allHeroes =
             "defense": 914,
             "health": 1617
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "治療：即時"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "召喚-召喚物",
-                    "法力-削減法力"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "聖湖女神 (Lady of the Lake) C1",
@@ -32129,23 +25444,7 @@ window.allHeroes =
             "defense": 1155,
             "health": 2282
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "治療：提高生命"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "召喚-召喚物"
-                ]
-            },
-            {
-                "负面效果": [
-                    "法力-法力生成↓/阻止"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "利德里亞 (Leadria)",
@@ -32196,20 +25495,7 @@ window.allHeroes =
             "defense": 1130,
             "health": 2001
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "治療：提高生命"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "召喚-召喚物",
-                    "傷害-額外傷害",
-                    "治療-透過召喚物治療"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "葉撢 (Leafwhisk)",
@@ -32261,19 +25547,7 @@ window.allHeroes =
             "defense": 1259,
             "health": 1953
         },
-        "cn_skill_info": [
-            {
-                "特殊效果": [
-                    "召喚-超級召喚物"
-                ]
-            },
-            {
-                "增益效果": [
-                    "防御-成长：防御力↑",
-                    "狀態-阻止增益驅散"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "莉奧妮 (Leonie)",
@@ -32331,18 +25605,7 @@ window.allHeroes =
             "defense": 1409,
             "health": 2613
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：範圍"
-                ]
-            },
-            {
-                "负面效果": [
-                    "傷害-持續傷害：流血"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "麗阿娜 (Lianna)",
@@ -32385,13 +25648,7 @@ window.allHeroes =
             "defense": 886,
             "health": 1539
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：單一目標"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "麗阿娜 (Lianna) C1",
@@ -32437,18 +25694,7 @@ window.allHeroes =
             "defense": 989,
             "health": 1727
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：單一目標"
-                ]
-            },
-            {
-                "负面效果": [
-                    "法力-法力生成↓/阻止"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "麗阿娜 (Lianna) C2",
@@ -32494,18 +25740,7 @@ window.allHeroes =
             "defense": 1113,
             "health": 2175
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：單一目標"
-                ]
-            },
-            {
-                "负面效果": [
-                    "法力-混亂/沉默/睡眠"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "麗阿娜 (Lianna) 卡通",
@@ -32552,18 +25787,7 @@ window.allHeroes =
             "defense": 1368,
             "health": 2611
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：單一目標"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "傷害-傷害↑：冰霜"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "麗阿娜 (Lianna) 玻璃",
@@ -32611,18 +25835,7 @@ window.allHeroes =
             "defense": 1510,
             "health": 2702
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：單一目標"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "攻擊-穿透/繞過"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "利恩柏伊 (Limeboire)",
@@ -32678,30 +25891,7 @@ window.allHeroes =
             "defense": 1526,
             "health": 2682
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "治療：持續",
-                    "攻擊：全體"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "狀態-偷取增益"
-                ]
-            },
-            {
-                "增益效果": [
-                    "法力-法力恢復"
-                ]
-            },
-            {
-                "负面效果": [
-                    "法力-混亂/沉默/睡眠",
-                    "防禦-受到傷害↑"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "劉備 (Liu Bei)",
@@ -32750,23 +25940,7 @@ window.allHeroes =
             "defense": 985,
             "health": 1788
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：範圍"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "召喚-召喚物"
-                ]
-            },
-            {
-                "增益效果": [
-                    "防禦-反擊/反彈"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "劉備 (Liu Bei) C1",
@@ -32820,23 +25994,7 @@ window.allHeroes =
             "defense": 1312,
             "health": 2537
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：範圍"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "召喚-召喚物"
-                ]
-            },
-            {
-                "增益效果": [
-                    "防禦-反擊/反彈"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "魯海德 (Lughaidh)",
@@ -32894,19 +26052,7 @@ window.allHeroes =
             "defense": 1026,
             "health": 1767
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "治療：持續"
-                ]
-            },
-            {
-                "增益效果": [
-                    "防禦-防禦力↑",
-                    "狀態-躲藏/幽靈形態"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "魯海德 (Lughaidh) C1",
@@ -32963,19 +26109,7 @@ window.allHeroes =
             "defense": 1355,
             "health": 2371
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "治療：持續"
-                ]
-            },
-            {
-                "增益效果": [
-                    "防禦-防禦力↑",
-                    "狀態-躲藏/幽靈形態"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "瑪亞特 (Ma'at)",
@@ -33027,19 +26161,7 @@ window.allHeroes =
             "defense": 1031,
             "health": 1899
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：全體"
-                ]
-            },
-            {
-                "负面效果": [
-                    "攻擊-攻擊力↓",
-                    "防禦-防禦力↓"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "瑪亞特 (Ma'at) C1",
@@ -33093,19 +26215,7 @@ window.allHeroes =
             "defense": 1463,
             "health": 2705
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：全體"
-                ]
-            },
-            {
-                "负面效果": [
-                    "攻擊-攻擊力↓",
-                    "防禦-防禦力↓"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "梅果玟 (Maegwyn)",
@@ -33158,20 +26268,7 @@ window.allHeroes =
             "defense": 1549,
             "health": 2413
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "治療：即時",
-                    "治療：持續",
-                    "治療：提高生命"
-                ]
-            },
-            {
-                "增益效果": [
-                    "防禦-傷害減免"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "瑪格麗特 (Margaret)",
@@ -33221,19 +26318,7 @@ window.allHeroes =
             "defense": 800,
             "health": 1554
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：範圍"
-                ]
-            },
-            {
-                "增益效果": [
-                    "防禦-閃避",
-                    "法力-法力恢復"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "麥克斯 (Max)",
@@ -33284,23 +26369,7 @@ window.allHeroes =
             "defense": 1069,
             "health": 1899
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "治療：即時"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "召喚-召喚物"
-                ]
-            },
-            {
-                "增益效果": [
-                    "防禦-傷害減免"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "馬咒嘎 (Mazoga)",
@@ -33352,23 +26421,7 @@ window.allHeroes =
             "defense": 1191,
             "health": 2207
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：範圍"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "傷害-傷害↑：冰霜"
-                ]
-            },
-            {
-                "负面效果": [
-                    "防禦-防禦力↓"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "梅納 (Mena)",
@@ -33421,19 +26474,7 @@ window.allHeroes =
             "defense": 1295,
             "health": 2159
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：鄰近輕傷"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "法力-削減法力",
-                    "攻擊-額外攻擊"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "織霧女 (Mistweaver)",
@@ -33487,23 +26528,7 @@ window.allHeroes =
             "defense": 1087,
             "health": 1879
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：範圍"
-                ]
-            },
-            {
-                "增益效果": [
-                    "攻擊-疊加：攻擊力↑"
-                ]
-            },
-            {
-                "负面效果": [
-                    "治療-阻止治療"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "月花 (Moonflower)",
@@ -33553,18 +26578,7 @@ window.allHeroes =
             "defense": 1315,
             "health": 2113
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：全體"
-                ]
-            },
-            {
-                "增益效果": [
-                    "法力-法力生成↑"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "摩根女爵 (Morgan Le Fay)",
@@ -33609,28 +26623,7 @@ window.allHeroes =
             "defense": 889,
             "health": 1656
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "傷害：持續傷害"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "治療-透過傷害治療"
-                ]
-            },
-            {
-                "增益效果": [
-                    "防禦-防禦↑：火焰"
-                ]
-            },
-            {
-                "负面效果": [
-                    "傷害-持續傷害：生命奪取"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "北方之母 (Mother North)",
@@ -33679,19 +26672,7 @@ window.allHeroes =
             "defense": 1010,
             "health": 1803
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "治療：即時",
-                    "治療：復活"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "召喚-召喚物"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "北方之母 (Mother North) C1",
@@ -33740,19 +26721,7 @@ window.allHeroes =
             "defense": 1381,
             "health": 2485
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "治療：持續",
-                    "治療：復活"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "召喚-召喚物"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "穆克圖斯 (Mucktus)",
@@ -33806,19 +26775,7 @@ window.allHeroes =
             "defense": 1409,
             "health": 2532
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：全體"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "召喚-惡魔",
-                    "狀態-偷取增益"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "妙印尼 (Myoin-ni)",
@@ -33877,19 +26834,7 @@ window.allHeroes =
             "defense": 1102,
             "health": 1869
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "治療：提高生命"
-                ]
-            },
-            {
-                "增益效果": [
-                    "法力-法力生成↑",
-                    "防禦-防禦力↑"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "蜜絲提雅 (Mystia)",
@@ -33943,19 +26888,7 @@ window.allHeroes =
             "defense": 1348,
             "health": 2192
         },
-        "cn_skill_info": [
-            {
-                "增益效果": [
-                    "防禦-反擊/反彈：火焰",
-                    "防禦-傷害分擔"
-                ]
-            },
-            {
-                "负面效果": [
-                    "防禦-防禦力↓"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "諾古 (Nogu)",
@@ -34007,20 +26940,7 @@ window.allHeroes =
             "defense": 1231,
             "health": 2082
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：鄰近輕傷",
-                    "傷害：持續傷害"
-                ]
-            },
-            {
-                "负面效果": [
-                    "治療-最大生命值↓",
-                    "傷害-持續傷害：流血"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "奧特 (Ott)",
@@ -34079,19 +26999,7 @@ window.allHeroes =
             "defense": 1463,
             "health": 2755
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "治療：提高生命"
-                ]
-            },
-            {
-                "增益效果": [
-                    "狀態-阻止增益驅散",
-                    "防禦-傷害減免"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "潘妮洛普 (Penelope)",
@@ -34143,24 +27051,7 @@ window.allHeroes =
             "defense": 1442,
             "health": 2702
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "治療：傷害量",
-                    "攻擊：全體"
-                ]
-            },
-            {
-                "增益效果": [
-                    "防禦-閃避"
-                ]
-            },
-            {
-                "负面效果": [
-                    "狀態-狂亂"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "遊隼 (Peregrine)",
@@ -34214,19 +27105,7 @@ window.allHeroes =
             "defense": 1369,
             "health": 2684
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：範圍"
-                ]
-            },
-            {
-                "增益效果": [
-                    "防禦-閃避",
-                    "攻擊-攻擊力↑"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "貴橄欖 (Peridot)",
@@ -34287,20 +27166,7 @@ window.allHeroes =
             "defense": 911,
             "health": 1770
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：數量變化",
-                    "傷害：持續傷害"
-                ]
-            },
-            {
-                "负面效果": [
-                    "攻擊-命中率↓",
-                    "傷害-持續傷害：毒"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "菲利亞斯·佛格 (Phileas Fogg)",
@@ -34351,23 +27217,7 @@ window.allHeroes =
             "defense": 896,
             "health": 1651
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：單一目標"
-                ]
-            },
-            {
-                "增益效果": [
-                    "狀態-驅散增益"
-                ]
-            },
-            {
-                "负面效果": [
-                    "防禦-防禦↓：自然"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "菲利亞斯·佛格 (Phileas Fogg) C1",
@@ -34421,23 +27271,7 @@ window.allHeroes =
             "defense": 1188,
             "health": 2242
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：單一目標"
-                ]
-            },
-            {
-                "增益效果": [
-                    "狀態-驅散增益"
-                ]
-            },
-            {
-                "负面效果": [
-                    "防禦-防禦↓：自然"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "皮普 (Pip)",
@@ -34491,25 +27325,7 @@ window.allHeroes =
             "defense": 1351,
             "health": 2428
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：單一目標",
-                    "傷害：持續傷害"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "攻擊-額外攻擊"
-                ]
-            },
-            {
-                "负面效果": [
-                    "傷害-持續傷害：流血",
-                    "防禦-受到傷害↑"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "齊格弗里德王子 (Prince Siegfried)",
@@ -34568,20 +27384,7 @@ window.allHeroes =
             "defense": 1198,
             "health": 2247
         },
-        "cn_skill_info": [
-            {
-                "增益效果": [
-                    "防禦-反擊/反彈",
-                    "防禦-傷害減免",
-                    "治療-自我復活"
-                ]
-            },
-            {
-                "负面效果": [
-                    "狀態-增益無效化"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "青龍 (Qinglong)",
@@ -34633,23 +27436,7 @@ window.allHeroes =
             "defense": 1176,
             "health": 2128
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：全體"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "狀態-偷取增益"
-                ]
-            },
-            {
-                "增益效果": [
-                    "攻擊-攻擊力↑"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "安妮女王 (Queen Anne)",
@@ -34703,20 +27490,7 @@ window.allHeroes =
             "defense": 1137,
             "health": 2067
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "治療：持續"
-                ]
-            },
-            {
-                "增益效果": [
-                    "防禦-嘲諷",
-                    "防禦-防禦力↑",
-                    "法力-法力生成↑"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "昆尼爾 (Quenell)",
@@ -34765,19 +27539,7 @@ window.allHeroes =
             "defense": 937,
             "health": 1767
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：範圍"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "傷害-額外傷害",
-                    "治療-自我恢復"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "昆尼爾 (Quenell) C1",
@@ -34830,19 +27592,7 @@ window.allHeroes =
             "defense": 1382,
             "health": 2607
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：範圍"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "傷害-額外傷害",
-                    "治療-自我恢復"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "拉塔托斯克 (Ratatoskr)",
@@ -34890,18 +27640,7 @@ window.allHeroes =
             "defense": 914,
             "health": 1668
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "治療：即時"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "攻擊-面板：攻擊力"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "拉塔托斯克 (Ratatoskr) C1",
@@ -34949,18 +27688,7 @@ window.allHeroes =
             "defense": 1072,
             "health": 2077
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "治療：持續"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "攻擊-面板：攻擊力"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "雷利厄斯 (Relius)",
@@ -35011,19 +27739,7 @@ window.allHeroes =
             "defense": 1280,
             "health": 2090
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "治療：即時",
-                    "治療：復活"
-                ]
-            },
-            {
-                "增益效果": [
-                    "防禦-傷害減免"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "萊茵葛羅 (Rhineglow)",
@@ -35078,23 +27794,7 @@ window.allHeroes =
             "defense": 1348,
             "health": 2534
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "治療：持續"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "傷害-爆炸"
-                ]
-            },
-            {
-                "增益效果": [
-                    "防禦-嘲諷"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "蘿茲 (Roz)",
@@ -35147,13 +27847,7 @@ window.allHeroes =
             "defense": 1120,
             "health": 2311
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：數量變化"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "蘿茲 (Roz) C1",
@@ -35206,13 +27900,7 @@ window.allHeroes =
             "defense": 1477,
             "health": 2951
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：數量變化"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "薩蒂 (Sadie)",
@@ -35267,22 +27955,7 @@ window.allHeroes =
             "defense": 1376,
             "health": 2623
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：單一目標"
-                ]
-            },
-            {
-                "负面效果": [
-                    "治療-最大生命值↓",
-                    "法力-混亂/沉默/睡眠",
-                    "防禦-防禦↓：特殊技能",
-                    "狀態-阻止淨化",
-                    "狀態-自我減益"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "沙悟淨 (Sha Wujing)",
@@ -35334,23 +28007,7 @@ window.allHeroes =
             "defense": 1148,
             "health": 1981
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：單一目標"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "治療-透過傷害治療"
-                ]
-            },
-            {
-                "增益效果": [
-                    "防禦-閃避"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "希爾維莉亞 (Silvaria)",
@@ -35403,23 +28060,7 @@ window.allHeroes =
             "defense": 924,
             "health": 1757
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：單一目標"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "召喚-召喚物"
-                ]
-            },
-            {
-                "负面效果": [
-                    "防禦-防禦力↓"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "巧舌 (Smarttongue)",
@@ -35472,15 +28113,7 @@ window.allHeroes =
             "defense": 1170,
             "health": 2057
         },
-        "cn_skill_info": [
-            {
-                "负面效果": [
-                    "攻擊-枯萎：攻擊力↓",
-                    "治療-最大生命值↓",
-                    "防禦-防禦↓：特殊技能"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "雪球 (Snowball)",
@@ -35534,23 +28167,7 @@ window.allHeroes =
             "defense": 1026,
             "health": 1871
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：範圍"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "召喚-惡魔"
-                ]
-            },
-            {
-                "负面效果": [
-                    "防禦-受到傷害↑"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "斯巴托伊 (Spartoi)",
@@ -35609,18 +28226,7 @@ window.allHeroes =
             "defense": 1313,
             "health": 2062
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：全體"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "召喚-惡魔"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "斯巴托伊 (Spartoi) C1",
@@ -35680,18 +28286,7 @@ window.allHeroes =
             "defense": 1748,
             "health": 2688
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：全體"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "召喚-惡魔"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "史比夫 (Spiff)",
@@ -35743,23 +28338,7 @@ window.allHeroes =
             "defense": 1511,
             "health": 2219
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：單一目標"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "攻擊-穿透/繞過"
-                ]
-            },
-            {
-                "增益效果": [
-                    "防禦-閃避"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "污舌 (Staintongue)",
@@ -35812,20 +28391,7 @@ window.allHeroes =
             "defense": 1041,
             "health": 1899
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：範圍",
-                    "傷害：持續傷害"
-                ]
-            },
-            {
-                "负面效果": [
-                    "攻擊-命中率↓",
-                    "傷害-持續傷害：毒"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "絲塔拉斯 (Starlass)",
@@ -35877,23 +28443,7 @@ window.allHeroes =
             "defense": 1437,
             "health": 2204
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：範圍"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "攻擊-無視閃避"
-                ]
-            },
-            {
-                "负面效果": [
-                    "法力-混亂/沉默/睡眠"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "蘇內 (Sune)",
@@ -35949,25 +28499,7 @@ window.allHeroes =
             "defense": 1328,
             "health": 2687
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：單一目標"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "法力-削減法力",
-                    "攻擊-額外攻擊",
-                    "傷害-傷害↑：冰霜"
-                ]
-            },
-            {
-                "增益效果": [
-                    "狀態-驅散增益"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "為朝 (Tametomo)",
@@ -36027,20 +28559,7 @@ window.allHeroes =
             "defense": 1092,
             "health": 2354
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：數量變化"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "傷害-額外傷害",
-                    "攻擊-無視閃避",
-                    "攻擊-額外攻擊"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "塔拉克 (Tarlak)",
@@ -36086,18 +28605,7 @@ window.allHeroes =
             "defense": 822,
             "health": 1529
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "治療：持續"
-                ]
-            },
-            {
-                "增益效果": [
-                    "攻擊-攻擊力↑"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "塔拉克 (Tarlak) C1",
@@ -36143,18 +28651,7 @@ window.allHeroes =
             "defense": 1270,
             "health": 2007
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "治療：提高生命"
-                ]
-            },
-            {
-                "增益效果": [
-                    "攻擊-攻擊力↑"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "泰迪 (Teddy)",
@@ -36210,20 +28707,7 @@ window.allHeroes =
             "defense": 1229,
             "health": 2006
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "治療：持續",
-                    "攻擊：全體"
-                ]
-            },
-            {
-                "负面效果": [
-                    "法力-混亂/沉默/睡眠",
-                    "防禦-受到傷害↑"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "特魯利亞 (Telluria)",
@@ -36279,24 +28763,7 @@ window.allHeroes =
             "defense": 1026,
             "health": 1757
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "治療：持續",
-                    "攻擊：全體"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "召喚-召喚物"
-                ]
-            },
-            {
-                "负面效果": [
-                    "法力-法力生成↓/阻止"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "泰洛尼爾斯 (Telonius)",
@@ -36357,25 +28824,7 @@ window.allHeroes =
             "defense": 1066,
             "health": 1884
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "治療：即時",
-                    "傷害：持續傷害"
-                ]
-            },
-            {
-                "增益效果": [
-                    "狀態-免疫狀態異常"
-                ]
-            },
-            {
-                "负面效果": [
-                    "傷害-持續傷害：毒",
-                    "防禦-受到傷害↑"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "帽子先生 (The Hatter)",
@@ -36421,18 +28870,7 @@ window.allHeroes =
             "defense": 876,
             "health": 1653
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：鄰近輕傷"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "狀態-偷取增益"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "帽子先生 (The Hatter) C1",
@@ -36483,19 +28921,7 @@ window.allHeroes =
             "defense": 1078,
             "health": 2289
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：鄰近輕傷"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "狀態-偷取增益",
-                    "召喚-召喚物"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "狄奧多西斯 (Theodosius)",
@@ -36553,29 +28979,7 @@ window.allHeroes =
             "defense": 1427,
             "health": 2387
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：全體"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "狀態-減少狀態異常回合",
-                    "狀態-減少增益回合"
-                ]
-            },
-            {
-                "增益效果": [
-                    "防禦-防禦力↑"
-                ]
-            },
-            {
-                "负面效果": [
-                    "防禦-防禦力↓"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "塔克西肯德拉 (Toxicandra)",
@@ -36624,23 +29028,7 @@ window.allHeroes =
             "defense": 937,
             "health": 1689
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "治療：即時"
-                ]
-            },
-            {
-                "增益效果": [
-                    "法力-法力恢復"
-                ]
-            },
-            {
-                "负面效果": [
-                    "狀態-淨化狀態異常"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "塔克西肯德拉 (Toxicandra) C1",
@@ -36692,23 +29080,7 @@ window.allHeroes =
             "defense": 1618,
             "health": 2637
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "治療：提高生命"
-                ]
-            },
-            {
-                "增益效果": [
-                    "法力-法力恢復"
-                ]
-            },
-            {
-                "负面效果": [
-                    "狀態-淨化狀態異常"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "維納莫寧 (Vainamoinen)",
@@ -36756,18 +29128,7 @@ window.allHeroes =
             "defense": 995,
             "health": 1826
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：範圍"
-                ]
-            },
-            {
-                "负面效果": [
-                    "攻擊-命中率↓"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "維納莫寧 (Vainamoinen) C1",
@@ -36815,18 +29176,7 @@ window.allHeroes =
             "defense": 1313,
             "health": 2434
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：範圍"
-                ]
-            },
-            {
-                "负面效果": [
-                    "攻擊-命中率↓"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "維爾地孤 (Verdigoo)",
@@ -36876,18 +29226,7 @@ window.allHeroes =
             "defense": 1389,
             "health": 3002
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：範圍"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "狀態-偷取增益"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "菲瑞厄斯 (Verus)",
@@ -36938,25 +29277,7 @@ window.allHeroes =
             "defense": 1290,
             "health": 2235
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：全體",
-                    "傷害：持續傷害"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "傷害-傷害↑：神聖"
-                ]
-            },
-            {
-                "负面效果": [
-                    "攻擊-命中率↓",
-                    "傷害-持續傷害：流血"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "維什勒斯 (Viselus)",
@@ -37010,24 +29331,7 @@ window.allHeroes =
             "defense": 1018,
             "health": 1879
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：範圍",
-                    "傷害：持續傷害"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "攻擊-摧毀召喚物"
-                ]
-            },
-            {
-                "负面效果": [
-                    "傷害-持續傷害：毒"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "溫妮弗雷德 (Winifred)",
@@ -37081,24 +29385,7 @@ window.allHeroes =
             "defense": 1026,
             "health": 1950
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：單一目標"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "攻擊-連鎖"
-                ]
-            },
-            {
-                "负面效果": [
-                    "狀態-增益無效化",
-                    "攻擊-攻擊力↓"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "姍卓菈 (Xandrella)",
@@ -37154,24 +29441,7 @@ window.allHeroes =
             "defense": 1054,
             "health": 2125
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：數量變化"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "法力-面板：法力生成",
-                    "傷害-額外傷害"
-                ]
-            },
-            {
-                "负面效果": [
-                    "法力-混亂/沉默/睡眠"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "西亞馬拉 (Xiamara)",
@@ -37222,24 +29492,7 @@ window.allHeroes =
             "defense": 1153,
             "health": 2009
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：全體"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "傷害-額外傷害",
-                    "傷害-爆炸"
-                ]
-            },
-            {
-                "负面效果": [
-                    "法力-法力生成↓/阻止"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "小青 (Xiaoqing)",
@@ -37291,23 +29544,7 @@ window.allHeroes =
             "defense": 1457,
             "health": 2705
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "治療：即時"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "狀態-負面效果重新分配"
-                ]
-            },
-            {
-                "增益效果": [
-                    "狀態-反彈負面效果"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "尤納恩 (Yunan)",
@@ -37359,21 +29596,7 @@ window.allHeroes =
             "defense": 1005,
             "health": 1772
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：全體",
-                    "傷害：持續傷害"
-                ]
-            },
-            {
-                "负面效果": [
-                    "治療-阻止治療",
-                    "傷害-持續傷害：沙",
-                    "狀態-淨化狀態異常"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "尤納恩 (Yunan) C1",
@@ -37425,25 +29648,7 @@ window.allHeroes =
             "defense": 1225,
             "health": 2277
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：全體",
-                    "傷害：持續傷害"
-                ]
-            },
-            {
-                "增益效果": [
-                    "法力-法力生成↑"
-                ]
-            },
-            {
-                "负面效果": [
-                    "傷害-持續傷害：沙",
-                    "狀態-淨化狀態異常"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "薩凡尼亞 (Zavinia)",
@@ -37496,20 +29701,7 @@ window.allHeroes =
             "defense": 1341,
             "health": 2354
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：單一目標",
-                    "攻擊：數量變化"
-                ]
-            },
-            {
-                "负面效果": [
-                    "狀態-狂亂",
-                    "狀態-自我減益"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "西林 (Zeline)",
@@ -37562,28 +29754,7 @@ window.allHeroes =
             "defense": 848,
             "health": 1612
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：全體"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "傷害-傷害↑：冰霜"
-                ]
-            },
-            {
-                "增益效果": [
-                    "狀態-驅散增益"
-                ]
-            },
-            {
-                "负面效果": [
-                    "攻擊-攻擊力↓"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "西林 (Zeline) C1",
@@ -37639,28 +29810,7 @@ window.allHeroes =
             "defense": 1104,
             "health": 2353
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：全體"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "傷害-傷害↑：冰霜"
-                ]
-            },
-            {
-                "增益效果": [
-                    "狀態-驅散增益"
-                ]
-            },
-            {
-                "负面效果": [
-                    "攻擊-攻擊力↓"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "佐克 (Zocc)",
@@ -37711,18 +29861,7 @@ window.allHeroes =
             "defense": 894,
             "health": 1666
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：單一目標"
-                ]
-            },
-            {
-                "负面效果": [
-                    "法力-混亂/沉默/睡眠"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "魯尼 (Zuni)",
@@ -37780,20 +29919,7 @@ window.allHeroes =
             "defense": 1127,
             "health": 2026
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：單一目標",
-                    "攻擊：數量變化"
-                ]
-            },
-            {
-                "负面效果": [
-                    "攻擊-攻擊力↓",
-                    "防禦-防禦力↓"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "弗萊徹 (Fletcher)",
@@ -37994,18 +30120,7 @@ window.allHeroes =
             "defense": 696,
             "health": 1182
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "治療：即時"
-                ]
-            },
-            {
-                "负面效果": [
-                    "治療-治療量↓"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "安-維德 (An-Windr)",
@@ -38048,18 +30163,7 @@ window.allHeroes =
             "defense": 705,
             "health": 1109
         },
-        "cn_skill_info": [
-            {
-                "特殊效果": [
-                    "傷害-爆炸"
-                ]
-            },
-            {
-                "增益效果": [
-                    "攻擊-攻擊力↑"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "艾奇拉 (Aqeela)",
@@ -38111,19 +30215,7 @@ window.allHeroes =
             "defense": 698,
             "health": 1219
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：範圍"
-                ]
-            },
-            {
-                "增益效果": [
-                    "防禦-閃避",
-                    "防禦-疊加：防禦力↑"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "艾奇拉 (Aqeela) C1",
@@ -38177,19 +30269,7 @@ window.allHeroes =
             "defense": 684,
             "health": 1267
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：範圍"
-                ]
-            },
-            {
-                "增益效果": [
-                    "防禦-閃避",
-                    "防禦-疊加：防禦力↑"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "巴特薩 (Balthazar)",
@@ -38232,13 +30312,7 @@ window.allHeroes =
             "defense": 591,
             "health": 907
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：單一目標"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "巴特薩 (Balthazar) C1",
@@ -38284,19 +30358,7 @@ window.allHeroes =
             "defense": 608,
             "health": 1006
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：單一目標",
-                    "傷害：持續傷害"
-                ]
-            },
-            {
-                "负面效果": [
-                    "傷害-持續傷害：毒"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "巴特薩 (Balthazar) 卡通",
@@ -38343,18 +30405,7 @@ window.allHeroes =
             "defense": 665,
             "health": 1112
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：單一目標"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "傷害-傷害↑：神聖"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "巴特薩 (Balthazar) 玻璃",
@@ -38402,18 +30453,7 @@ window.allHeroes =
             "defense": 665,
             "health": 1101
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：單一目標"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "攻擊-穿透/繞過"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "貝蒂 (Betty)",
@@ -38462,18 +30502,7 @@ window.allHeroes =
             "defense": 669,
             "health": 1097
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：範圍"
-                ]
-            },
-            {
-                "增益效果": [
-                    "防禦-傷害減免"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "比約恩 (Bjorn)",
@@ -38520,19 +30549,7 @@ window.allHeroes =
             "defense": 610,
             "health": 1158
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：單一目標"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "攻擊-額外攻擊",
-                    "傷害-傷害↑：神聖"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "比約恩 (Bjorn) C1",
@@ -38581,24 +30598,7 @@ window.allHeroes =
             "defense": 638,
             "health": 1230
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：單一目標"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "攻擊-額外攻擊",
-                    "傷害-傷害↑：神聖"
-                ]
-            },
-            {
-                "负面效果": [
-                    "法力-法力生成↓/阻止"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "布達丁 (Budatin)",
@@ -38646,13 +30646,7 @@ window.allHeroes =
             "defense": 703,
             "health": 1022
         },
-        "cn_skill_info": [
-            {
-                "特殊效果": [
-                    "法力-面板：法力生成"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "提燈 (Chochin)",
@@ -38698,18 +30692,7 @@ window.allHeroes =
             "defense": 718,
             "health": 958
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：範圍"
-                ]
-            },
-            {
-                "负面效果": [
-                    "法力-法力生成↓/阻止"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "艾德 (Edd)",
@@ -38754,19 +30737,7 @@ window.allHeroes =
             "defense": 630,
             "health": 1012
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：單一目標",
-                    "攻擊：數量變化"
-                ]
-            },
-            {
-                "负面效果": [
-                    "狀態-增益無效化"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "吉爾拉 (Gill-Ra)",
@@ -38815,15 +30786,7 @@ window.allHeroes =
             "defense": 635,
             "health": 1046
         },
-        "cn_skill_info": [
-            {
-                "负面效果": [
-                    "攻擊-攻擊力↓",
-                    "防禦-防禦力↓",
-                    "狀態-淨化狀態異常"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "吉爾拉 (Gill-Ra) C1",
@@ -38872,19 +30835,7 @@ window.allHeroes =
             "defense": 619,
             "health": 1074
         },
-        "cn_skill_info": [
-            {
-                "增益效果": [
-                    "攻擊-攻擊力↑",
-                    "狀態-驅散增益"
-                ]
-            },
-            {
-                "负面效果": [
-                    "防禦-防禦力↓"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "格立爾 (Greel)",
@@ -38936,19 +30887,7 @@ window.allHeroes =
             "defense": 669,
             "health": 1046
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：全體"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "傷害-額外傷害",
-                    "法力-法力恢復（擊殺）"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "蝙蝠守護者 (Guardian Bat)",
@@ -38993,18 +30932,7 @@ window.allHeroes =
             "defense": 586,
             "health": 1207
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：鄰近輕傷"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "傷害-額外傷害"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "傑克 (Jack)",
@@ -39052,18 +30980,7 @@ window.allHeroes =
             "defense": 630,
             "health": 1053
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：單一目標"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "傷害-爆炸"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "梅芙 (Maeve)",
@@ -39118,24 +31035,7 @@ window.allHeroes =
             "defense": 713,
             "health": 1112
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：範圍"
-                ]
-            },
-            {
-                "增益效果": [
-                    "法力-疊加：法力生成↑",
-                    "治療-疊加：生命恢復"
-                ]
-            },
-            {
-                "负面效果": [
-                    "防禦-防禦力↓"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "摹根奈 (Morganite)",
@@ -39189,20 +31089,7 @@ window.allHeroes =
             "defense": 674,
             "health": 983
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：全體",
-                    "傷害：持續傷害"
-                ]
-            },
-            {
-                "负面效果": [
-                    "攻擊-命中率↓",
-                    "傷害-持續傷害：毒"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "莫理斯 (Morris)",
@@ -39259,24 +31146,7 @@ window.allHeroes =
             "defense": 676,
             "health": 1010
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：隨機"
-                ]
-            },
-            {
-                "增益效果": [
-                    "狀態-躲藏/幽靈形態"
-                ]
-            },
-            {
-                "负面效果": [
-                    "法力-法力生成↓/阻止",
-                    "狀態-淨化狀態異常"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "莫理斯 (Morris) C1",
@@ -39333,24 +31203,7 @@ window.allHeroes =
             "defense": 717,
             "health": 1080
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：隨機"
-                ]
-            },
-            {
-                "增益效果": [
-                    "狀態-躲藏/幽靈形態"
-                ]
-            },
-            {
-                "负面效果": [
-                    "法力-法力生成↓/阻止",
-                    "狀態-淨化狀態異常"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "奧伯倫 (Oberon)",
@@ -39396,19 +31249,7 @@ window.allHeroes =
             "defense": 576,
             "health": 1175
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：全體",
-                    "傷害：持續傷害"
-                ]
-            },
-            {
-                "负面效果": [
-                    "傷害-持續傷害：毒"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "奧伯倫 (Oberon) C1",
@@ -39451,18 +31292,7 @@ window.allHeroes =
             "defense": 661,
             "health": 1320
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "傷害：持續傷害"
-                ]
-            },
-            {
-                "负面效果": [
-                    "傷害-持續傷害：毒"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "奧伯倫 (Oberon) 卡通",
@@ -39512,24 +31342,7 @@ window.allHeroes =
             "defense": 654,
             "health": 1340
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：全體",
-                    "傷害：持續傷害"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "傷害-傷害↑：神聖"
-                ]
-            },
-            {
-                "负面效果": [
-                    "傷害-持續傷害：毒"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "帕拉 (Para)",
@@ -39577,18 +31390,7 @@ window.allHeroes =
             "defense": 669,
             "health": 1238
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "治療：即時"
-                ]
-            },
-            {
-                "负面效果": [
-                    "攻擊-攻擊力↓"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "普利斯卡 (Prisca)",
@@ -39634,18 +31436,7 @@ window.allHeroes =
             "defense": 649,
             "health": 1066
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：單一目標"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "治療-透過傷害治療"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "普利斯卡 (Prisca) C1",
@@ -39691,18 +31482,7 @@ window.allHeroes =
             "defense": 666,
             "health": 1315
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：鄰近輕傷"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "治療-透過傷害治療"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "普利斯卡 (Prisca) 卡通",
@@ -39752,19 +31532,7 @@ window.allHeroes =
             "defense": 746,
             "health": 1299
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：單一目標"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "治療-透過傷害治療",
-                    "傷害-傷害↑：神聖"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "普利斯卡 (Prisca) 玻璃",
@@ -39815,19 +31583,7 @@ window.allHeroes =
             "defense": 739,
             "health": 1302
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：單一目標"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "治療-透過傷害治療",
-                    "攻擊-穿透/繞過"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "雷恩菲爾德 (Renfeld)",
@@ -39873,18 +31629,7 @@ window.allHeroes =
             "defense": 557,
             "health": 980
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：單一目標"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "治療-透過傷害治療"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "雷恩菲爾德 (Renfeld) C1",
@@ -39931,18 +31676,7 @@ window.allHeroes =
             "defense": 650,
             "health": 1277
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：單一目標"
-                ]
-            },
-            {
-                "负面效果": [
-                    "法力-法力奪取"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "雷恩菲爾德 (Renfeld) 卡通",
@@ -39992,19 +31726,7 @@ window.allHeroes =
             "defense": 685,
             "health": 1387
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：單一目標"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "治療-透過傷害治療",
-                    "傷害-傷害↑：神聖"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "邪惡樹精 (Treevil)",
@@ -40056,20 +31778,7 @@ window.allHeroes =
             "defense": 713,
             "health": 1219
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：全體"
-                ]
-            },
-            {
-                "负面效果": [
-                    "法力-法力生成↓/阻止",
-                    "攻擊-攻擊力↓",
-                    "防禦-防禦力↓"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "泰倫 (Tyrum)",
@@ -40115,18 +31824,7 @@ window.allHeroes =
             "defense": 591,
             "health": 1231
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：單一目標"
-                ]
-            },
-            {
-                "增益效果": [
-                    "狀態-驅散增益"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "泰倫 (Tyrum) C1",
@@ -40172,18 +31870,7 @@ window.allHeroes =
             "defense": 637,
             "health": 1320
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：單一目標"
-                ]
-            },
-            {
-                "负面效果": [
-                    "狀態-淨化狀態異常"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "泰倫 (Tyrum) 卡通",
@@ -40233,23 +31920,7 @@ window.allHeroes =
             "defense": 652,
             "health": 1418
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：單一目標"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "傷害-傷害↑：神聖"
-                ]
-            },
-            {
-                "增益效果": [
-                    "狀態-驅散增益"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "恩費爾特 (Unferth)",
@@ -40302,23 +31973,7 @@ window.allHeroes =
             "defense": 730,
             "health": 1063
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：單一目標"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "傷害-額外傷害"
-                ]
-            },
-            {
-                "负面效果": [
-                    "防禦-防禦↓：特殊技能"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "弗拉德 (Vlad)",
@@ -40367,18 +32022,7 @@ window.allHeroes =
             "defense": 681,
             "health": 1197
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "傷害：持續傷害"
-                ]
-            },
-            {
-                "负面效果": [
-                    "治療-奪取治療"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "亞赫特波 (Ahhotep)",
@@ -40427,18 +32071,7 @@ window.allHeroes =
             "defense": 829,
             "health": 1552
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：鄰近輕傷"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "法力-法力恢復（擊殺）"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "亞赫特波 (Ahhotep) C1",
@@ -40489,18 +32122,7 @@ window.allHeroes =
             "defense": 889,
             "health": 1670
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：鄰近輕傷"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "法力-法力恢復（擊殺）"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "雨女 (Ameonna)",
@@ -40548,14 +32170,7 @@ window.allHeroes =
             "defense": 663,
             "health": 1327
         },
-        "cn_skill_info": [
-            {
-                "增益效果": [
-                    "攻擊-攻擊力↑",
-                    "狀態-躲藏/幽靈形態"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "雨女 (Ameonna) C1",
@@ -40608,19 +32223,7 @@ window.allHeroes =
             "defense": 820,
             "health": 1435
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "治療：持續"
-                ]
-            },
-            {
-                "增益效果": [
-                    "狀態-躲藏/幽靈形態",
-                    "防禦-防禦力↑"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "紫黃晶 (Ametrine)",
@@ -40676,18 +32279,7 @@ window.allHeroes =
             "defense": 706,
             "health": 1598
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：數量變化"
-                ]
-            },
-            {
-                "增益效果": [
-                    "狀態-驅散增益"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "安娜貝爾 (Ana-Belle)",
@@ -40740,24 +32332,7 @@ window.allHeroes =
             "defense": 878,
             "health": 1659
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "治療：即時",
-                    "治療：特殊"
-                ]
-            },
-            {
-                "增益效果": [
-                    "狀態-驅散增益"
-                ]
-            },
-            {
-                "负面效果": [
-                    "狀態-淨化狀態異常"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "阿格斯 (Arges)",
@@ -40815,23 +32390,7 @@ window.allHeroes =
             "defense": 803,
             "health": 1710
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：範圍"
-                ]
-            },
-            {
-                "增益效果": [
-                    "攻擊-攻擊力↑"
-                ]
-            },
-            {
-                "负面效果": [
-                    "防禦-防禦力↓"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "炸彈魔 (Boomer)",
@@ -40876,18 +32435,7 @@ window.allHeroes =
             "defense": 835,
             "health": 1667
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：全體"
-                ]
-            },
-            {
-                "增益效果": [
-                    "防禦-防禦↑：神聖"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "柴郡貓 (Cheshire Cat)",
@@ -40935,20 +32483,7 @@ window.allHeroes =
             "defense": 808,
             "health": 1392
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "傷害：持續傷害"
-                ]
-            },
-            {
-                "负面效果": [
-                    "傷害-持續傷害：毒",
-                    "防禦-改變顏色/位置",
-                    "防禦-防禦↓：神聖"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "柴郡貓 (Cheshire Cat) C1",
@@ -40996,20 +32531,7 @@ window.allHeroes =
             "defense": 811,
             "health": 1412
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "傷害：持續傷害"
-                ]
-            },
-            {
-                "负面效果": [
-                    "傷害-持續傷害：流血",
-                    "防禦-改變顏色/位置",
-                    "防禦-防禦↓：神聖"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "杯子蛋糕 (Cupcake)",
@@ -41060,23 +32582,7 @@ window.allHeroes =
             "defense": 781,
             "health": 1659
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：單一目標"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "攻擊-偷取召喚物"
-                ]
-            },
-            {
-                "负面效果": [
-                    "狀態-阻止召喚物"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "塞普里恩 (Cyprian)",
@@ -41119,13 +32625,7 @@ window.allHeroes =
             "defense": 762,
             "health": 1715
         },
-        "cn_skill_info": [
-            {
-                "增益效果": [
-                    "防禦-反擊/反彈"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "塞普里恩 (Cyprian) C1",
@@ -41168,13 +32668,7 @@ window.allHeroes =
             "defense": 895,
             "health": 1857
         },
-        "cn_skill_info": [
-            {
-                "增益效果": [
-                    "防禦-反擊/反彈"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "塞普里恩 (Cyprian) C2",
@@ -41223,15 +32717,7 @@ window.allHeroes =
             "defense": 923,
             "health": 1933
         },
-        "cn_skill_info": [
-            {
-                "增益效果": [
-                    "防禦-反擊/反彈",
-                    "防禦-傷害減免",
-                    "法力-法力恢復"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "塞普里恩 (Cyprian) 卡通",
@@ -41276,13 +32762,7 @@ window.allHeroes =
             "defense": 885,
             "health": 2125
         },
-        "cn_skill_info": [
-            {
-                "增益效果": [
-                    "防禦-反擊/反彈"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "塞普里恩 (Cyprian) 玻璃",
@@ -41329,14 +32809,7 @@ window.allHeroes =
             "defense": 906,
             "health": 2167
         },
-        "cn_skill_info": [
-            {
-                "增益效果": [
-                    "防禦-反擊/反彈",
-                    "狀態-反彈負面效果"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "帝吉 (Dizzy)",
@@ -41386,23 +32859,7 @@ window.allHeroes =
             "defense": 861,
             "health": 1574
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：範圍"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "召喚-召喚物"
-                ]
-            },
-            {
-                "增益效果": [
-                    "防禦-反擊/反彈：神聖"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "毛地黃 (Foxglove)",
@@ -41454,20 +32911,7 @@ window.allHeroes =
             "defense": 883,
             "health": 1726
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：範圍",
-                    "傷害：持續傷害"
-                ]
-            },
-            {
-                "负面效果": [
-                    "法力-法力生成↓/阻止",
-                    "傷害-持續傷害：毒"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "弗拉 (Fura)",
@@ -41516,19 +32960,7 @@ window.allHeroes =
             "defense": 792,
             "health": 1365
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：全體"
-                ]
-            },
-            {
-                "负面效果": [
-                    "治療-最大生命值↓",
-                    "治療-治療量↓"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "弗拉 (Fura) C1",
@@ -41575,23 +33007,7 @@ window.allHeroes =
             "defense": 787,
             "health": 1435
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：範圍"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "法力-削減法力"
-                ]
-            },
-            {
-                "负面效果": [
-                    "治療-治療量↓"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "賈法爾 (Gafar)",
@@ -41643,21 +33059,7 @@ window.allHeroes =
             "defense": 797,
             "health": 1244
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：單一目標",
-                    "傷害：持續傷害"
-                ]
-            },
-            {
-                "负面效果": [
-                    "治療-阻止治療",
-                    "傷害-持續傷害：沙",
-                    "狀態-淨化狀態異常"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "黑風怪 (Heifeng Guai)",
@@ -41705,23 +33107,7 @@ window.allHeroes =
             "defense": 787,
             "health": 1737
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：單一目標"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "狀態-重置負面效果回合"
-                ]
-            },
-            {
-                "负面效果": [
-                    "防禦-防禦力↓"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "英葛爾夫 (Ingolf)",
@@ -41772,25 +33158,7 @@ window.allHeroes =
             "defense": 861,
             "health": 1598
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：全體",
-                    "傷害：持續傷害"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "狀態-減少增益回合"
-                ]
-            },
-            {
-                "负面效果": [
-                    "傷害-持續傷害：毒",
-                    "法力-法力生成↓/阻止"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "賈巴爾 (Jabbar)",
@@ -41842,21 +33210,7 @@ window.allHeroes =
             "defense": 870,
             "health": 1667
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：鄰近輕傷",
-                    "傷害：持續傷害"
-                ]
-            },
-            {
-                "负面效果": [
-                    "治療-治療量↓",
-                    "傷害-持續傷害：沙",
-                    "狀態-淨化狀態異常"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "尤利亞尼 (Juliani)",
@@ -41907,26 +33261,7 @@ window.allHeroes =
             "defense": 870,
             "health": 1619
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：範圍",
-                    "治療：傷害量",
-                    "傷害：持續傷害"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "攻擊-無視閃避",
-                    "傷害-傷害↑：神聖"
-                ]
-            },
-            {
-                "负面效果": [
-                    "傷害-持續傷害：毒"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "凱蒂 (Kitty)",
@@ -41978,19 +33313,7 @@ window.allHeroes =
             "defense": 835,
             "health": 1715
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "治療：持續"
-                ]
-            },
-            {
-                "增益效果": [
-                    "狀態-反彈負面效果",
-                    "防禦-防禦力↑"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "科達 (Koda)",
@@ -42039,18 +33362,7 @@ window.allHeroes =
             "defense": 795,
             "health": 1603
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：單一目標"
-                ]
-            },
-            {
-                "负面效果": [
-                    "防禦-防禦力↓"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "蕾希 (Lexi)",
@@ -42107,19 +33419,7 @@ window.allHeroes =
             "defense": 899,
             "health": 1536
         },
-        "cn_skill_info": [
-            {
-                "增益效果": [
-                    "防禦-傷害分擔",
-                    "防禦-防禦↑：神聖"
-                ]
-            },
-            {
-                "负面效果": [
-                    "防禦-防禦↓：黑暗"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "米多 (Meadow)",
@@ -42168,19 +33468,7 @@ window.allHeroes =
             "defense": 779,
             "health": 1606
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：單一目標",
-                    "傷害：持續傷害"
-                ]
-            },
-            {
-                "负面效果": [
-                    "傷害-持續傷害：毒"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "梅林 (Merlin)",
@@ -42228,23 +33516,7 @@ window.allHeroes =
             "defense": 832,
             "health": 1228
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：單一目標"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "傷害-額外傷害"
-                ]
-            },
-            {
-                "负面效果": [
-                    "法力-混亂/沉默/睡眠"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "梅林 (Merlin) C1",
@@ -42292,23 +33564,7 @@ window.allHeroes =
             "defense": 873,
             "health": 1538
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：範圍"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "傷害-額外傷害"
-                ]
-            },
-            {
-                "负面效果": [
-                    "法力-混亂/沉默/睡眠"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "普羅透斯 (Proteus)",
@@ -42354,19 +33610,7 @@ window.allHeroes =
             "defense": 749,
             "health": 1359
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "傷害：持續傷害"
-                ]
-            },
-            {
-                "负面效果": [
-                    "法力-法力生成↓/阻止",
-                    "傷害-持續傷害：毒"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "普羅透斯 (Proteus) C1",
@@ -42412,19 +33656,7 @@ window.allHeroes =
             "defense": 699,
             "health": 1443
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "傷害：持續傷害"
-                ]
-            },
-            {
-                "负面效果": [
-                    "法力-法力生成↓/阻止",
-                    "傷害-持續傷害：毒"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "里加 (Rigard)",
@@ -42470,18 +33702,7 @@ window.allHeroes =
             "defense": 848,
             "health": 1469
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "治療：即時"
-                ]
-            },
-            {
-                "负面效果": [
-                    "狀態-淨化狀態異常"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "里加 (Rigard) C1",
@@ -42530,23 +33751,7 @@ window.allHeroes =
             "defense": 902,
             "health": 1616
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "治療：持續"
-                ]
-            },
-            {
-                "增益效果": [
-                    "攻擊-攻擊力↑"
-                ]
-            },
-            {
-                "负面效果": [
-                    "狀態-淨化狀態異常"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "里加 (Rigard) C2",
@@ -42595,23 +33800,7 @@ window.allHeroes =
             "defense": 1018,
             "health": 1570
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "治療：提高生命"
-                ]
-            },
-            {
-                "增益效果": [
-                    "防禦-防禦力↑"
-                ]
-            },
-            {
-                "负面效果": [
-                    "狀態-淨化狀態異常"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "里加 (Rigard) 卡通",
@@ -42662,23 +33851,7 @@ window.allHeroes =
             "defense": 920,
             "health": 1606
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "治療：即時"
-                ]
-            },
-            {
-                "增益效果": [
-                    "防禦-防禦力↑"
-                ]
-            },
-            {
-                "负面效果": [
-                    "狀態-淨化狀態異常"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "里加 (Rigard) 玻璃",
@@ -42729,23 +33902,7 @@ window.allHeroes =
             "defense": 811,
             "health": 1546
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "治療：即時"
-                ]
-            },
-            {
-                "增益效果": [
-                    "狀態-反彈負面效果"
-                ]
-            },
-            {
-                "负面效果": [
-                    "狀態-淨化狀態異常"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "薩比娜 (Sabina)",
@@ -42791,18 +33948,7 @@ window.allHeroes =
             "defense": 728,
             "health": 1335
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "治療：即時"
-                ]
-            },
-            {
-                "增益效果": [
-                    "狀態-驅散增益"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "薩比娜 (Sabina) C1",
@@ -42851,23 +33997,7 @@ window.allHeroes =
             "defense": 823,
             "health": 1366
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "治療：持續"
-                ]
-            },
-            {
-                "增益效果": [
-                    "狀態-驅散增益"
-                ]
-            },
-            {
-                "负面效果": [
-                    "狀態-增益無效化"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "薩比娜 (Sabina) C2",
@@ -42916,23 +34046,7 @@ window.allHeroes =
             "defense": 1024,
             "health": 1441
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "治療：持續"
-                ]
-            },
-            {
-                "增益效果": [
-                    "狀態-免疫狀態異常"
-                ]
-            },
-            {
-                "负面效果": [
-                    "狀態-淨化狀態異常"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "薩比娜 (Sabina) 卡通",
@@ -42983,24 +34097,7 @@ window.allHeroes =
             "defense": 979,
             "health": 1429
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "治療：即時"
-                ]
-            },
-            {
-                "增益效果": [
-                    "防禦-防禦力↑",
-                    "狀態-驅散增益"
-                ]
-            },
-            {
-                "负面效果": [
-                    "狀態-淨化狀態異常"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "瑟蓋 (Sergei)",
@@ -43053,18 +34150,7 @@ window.allHeroes =
             "defense": 781,
             "health": 1702
         },
-        "cn_skill_info": [
-            {
-                "增益效果": [
-                    "攻擊-攻擊力↑"
-                ]
-            },
-            {
-                "负面效果": [
-                    "防禦-防禦↓：黑暗"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "鯊凱 (Shar'Khai)",
@@ -43119,14 +34205,7 @@ window.allHeroes =
             "defense": 888,
             "health": 1611
         },
-        "cn_skill_info": [
-            {
-                "增益效果": [
-                    "攻擊-暴擊率↑",
-                    "攻擊-攻擊力↑"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "鯊凱 (Shar'Khai) C1",
@@ -43182,14 +34261,7 @@ window.allHeroes =
             "defense": 824,
             "health": 1620
         },
-        "cn_skill_info": [
-            {
-                "增益效果": [
-                    "攻擊-暴擊率↑",
-                    "攻擊-攻擊力↑"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "沙果 (Shoggo)",
@@ -43239,20 +34311,7 @@ window.allHeroes =
             "defense": 883,
             "health": 1638
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：全體"
-                ]
-            },
-            {
-                "负面效果": [
-                    "狀態-增益無效化",
-                    "狀態-狂亂",
-                    "狀態-自我減益"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "西尤波 (Shyombre)",
@@ -43303,19 +34362,7 @@ window.allHeroes =
             "defense": 883,
             "health": 1485
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：兩側",
-                    "傷害：持續傷害"
-                ]
-            },
-            {
-                "负面效果": [
-                    "傷害-持續傷害：毒"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "石斬 (Stonecleave)",
@@ -43366,18 +34413,7 @@ window.allHeroes =
             "defense": 784,
             "health": 1330
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：隨機"
-                ]
-            },
-            {
-                "增益效果": [
-                    "狀態-躲藏/幽靈形態"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "迪波特斯 (Tiburtus)",
@@ -43423,18 +34459,7 @@ window.allHeroes =
             "defense": 797,
             "health": 1317
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：鄰近輕傷"
-                ]
-            },
-            {
-                "负面效果": [
-                    "防禦-防禦力↓"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "迪波特斯 (Tiburtus) C1",
@@ -43480,18 +34505,7 @@ window.allHeroes =
             "defense": 867,
             "health": 1449
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：全體"
-                ]
-            },
-            {
-                "负面效果": [
-                    "防禦-防禦力↓"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "迪波特斯 (Tiburtus) C2",
@@ -43537,18 +34551,7 @@ window.allHeroes =
             "defense": 956,
             "health": 1592
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：鄰近輕傷"
-                ]
-            },
-            {
-                "负面效果": [
-                    "治療-最大生命值↓"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "迪波特斯 (Tiburtus) 卡通",
@@ -43598,23 +34601,7 @@ window.allHeroes =
             "defense": 998,
             "health": 1540
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：鄰近輕傷"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "傷害-傷害↑：神聖"
-                ]
-            },
-            {
-                "负面效果": [
-                    "防禦-防禦力↓"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "酸火 (Acidfire)",
@@ -43668,20 +34655,7 @@ window.allHeroes =
             "defense": 1183,
             "health": 1978
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：範圍"
-                ]
-            },
-            {
-                "负面效果": [
-                    "狀態-反彈增益",
-                    "攻擊-枯萎：攻擊力↓",
-                    "防禦-枯萎：防禦力↓"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "安卡尼亞 (Aconia)",
@@ -43734,23 +34708,7 @@ window.allHeroes =
             "defense": 1059,
             "health": 2103
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "傷害：持續傷害"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "召喚-惡魔"
-                ]
-            },
-            {
-                "负面效果": [
-                    "傷害-持續傷害：流血"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "艾龍 (Aeron)",
@@ -43802,23 +34760,7 @@ window.allHeroes =
             "defense": 878,
             "health": 1653
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "治療：持續"
-                ]
-            },
-            {
-                "增益效果": [
-                    "狀態-阻止負面效果"
-                ]
-            },
-            {
-                "负面效果": [
-                    "狀態-淨化狀態異常"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "艾龍 (Aeron) C1",
@@ -43869,18 +34811,7 @@ window.allHeroes =
             "defense": 1166,
             "health": 2437
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "治療：即時"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "狀態-負面效果重新分配"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "阿格拉腓納 (Agrafena)",
@@ -43944,27 +34875,7 @@ window.allHeroes =
             "defense": 972,
             "health": 1793
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "治療：持續",
-                    "傷害：持續傷害"
-                ]
-            },
-            {
-                "增益效果": [
-                    "攻擊-攻擊力↑",
-                    "防禦-防禦力↑"
-                ]
-            },
-            {
-                "负面效果": [
-                    "攻擊-攻擊力↓",
-                    "防禦-防禦力↓",
-                    "傷害-持續傷害：毒"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "阿格拉腓納 (Agrafena) C1",
@@ -44029,28 +34940,7 @@ window.allHeroes =
             "defense": 1306,
             "health": 2416
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "治療：提高生命",
-                    "治療：持續",
-                    "傷害：持續傷害"
-                ]
-            },
-            {
-                "增益效果": [
-                    "攻擊-攻擊力↑",
-                    "防禦-防禦力↑"
-                ]
-            },
-            {
-                "负面效果": [
-                    "攻擊-攻擊力↓",
-                    "防禦-防禦力↓",
-                    "傷害-持續傷害：毒"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "亞基利厄斯 (Akilius)",
@@ -44104,23 +34994,7 @@ window.allHeroes =
             "defense": 1330,
             "health": 2247
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：單一目標"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "攻擊-偷取召喚物"
-                ]
-            },
-            {
-                "负面效果": [
-                    "攻擊-命中率↓"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "阿爾弗里克 (Alfrike)",
@@ -44170,19 +35044,7 @@ window.allHeroes =
             "defense": 1041,
             "health": 1752
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：隨機"
-                ]
-            },
-            {
-                "负面效果": [
-                    "治療-最大生命值↓",
-                    "法力-混亂/沉默/睡眠"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "阿爾弗里克 (Alfrike) C1",
@@ -44232,19 +35094,7 @@ window.allHeroes =
             "defense": 1429,
             "health": 2369
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：隨機"
-                ]
-            },
-            {
-                "负面效果": [
-                    "治療-最大生命值↓",
-                    "法力-混亂/沉默/睡眠"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "紫晶 (Amethyst)",
@@ -44302,18 +35152,7 @@ window.allHeroes =
             "defense": 995,
             "health": 1871
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：全體"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "召喚-惡魔"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "阿洛斯卡 (Anoushka)",
@@ -44370,24 +35209,7 @@ window.allHeroes =
             "defense": 1214,
             "health": 2204
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "治療：即時"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "狀態-偷取增益"
-                ]
-            },
-            {
-                "负面效果": [
-                    "法力-混亂/沉默/睡眠",
-                    "防禦-受到傷害↑"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "阿努比斯 (Anubis)",
@@ -44440,20 +35262,7 @@ window.allHeroes =
             "defense": 1049,
             "health": 1955
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "傷害：持續傷害"
-                ]
-            },
-            {
-                "负面效果": [
-                    "狀態-增益無效化",
-                    "傷害-持續傷害：毒",
-                    "防禦-防禦力↓"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "阿努比斯 (Anubis) C1",
@@ -44508,20 +35317,7 @@ window.allHeroes =
             "defense": 1463,
             "health": 2790
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "傷害：持續傷害"
-                ]
-            },
-            {
-                "负面效果": [
-                    "狀態-增益無效化",
-                    "傷害-持續傷害：毒",
-                    "防禦-防禦力↓"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "阿拉米司 (Aramis)",
@@ -44575,20 +35371,7 @@ window.allHeroes =
             "defense": 962,
             "health": 1729
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "治療：提高生命",
-                    "攻擊：範圍"
-                ]
-            },
-            {
-                "增益效果": [
-                    "狀態-免疫狀態異常",
-                    "防禦-防禦力↑"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "阿爾菲尼亞斯 (Arfanias)",
@@ -44641,23 +35424,7 @@ window.allHeroes =
             "defense": 927,
             "health": 1742
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：單一目標"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "傷害-額外傷害"
-                ]
-            },
-            {
-                "增益效果": [
-                    "防禦-閃避"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "阿斯凱特爾 (Asketel)",
@@ -44706,20 +35473,7 @@ window.allHeroes =
             "defense": 1480,
             "health": 2667
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：範圍"
-                ]
-            },
-            {
-                "负面效果": [
-                    "狀態-阻止淨化",
-                    "狀態-狂亂",
-                    "狀態-自我減益"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "芭絲特 (Bastet)",
@@ -44771,19 +35525,7 @@ window.allHeroes =
             "defense": 1038,
             "health": 1925
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：全體"
-                ]
-            },
-            {
-                "增益效果": [
-                    "防禦-閃避",
-                    "防禦-疊加：防禦力↑"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "芭絲特 (Bastet) C1",
@@ -44837,19 +35579,7 @@ window.allHeroes =
             "defense": 1521,
             "health": 2712
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：全體"
-                ]
-            },
-            {
-                "增益效果": [
-                    "防禦-閃避",
-                    "防禦-疊加：防禦力↑"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "蓓琪 (Becky)",
@@ -44907,28 +35637,7 @@ window.allHeroes =
             "defense": 1102,
             "health": 1976
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：單一目標"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "攻擊-額外攻擊"
-                ]
-            },
-            {
-                "增益效果": [
-                    "法力-法力恢復"
-                ]
-            },
-            {
-                "负面效果": [
-                    "法力-法力生成↓/阻止"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "貝拉多娜 (Belladonna)",
@@ -44981,20 +35690,7 @@ window.allHeroes =
             "defense": 1049,
             "health": 1915
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "治療：即時",
-                    "治療：特殊"
-                ]
-            },
-            {
-                "增益效果": [
-                    "狀態-阻止增益驅散",
-                    "攻擊-攻擊力↑"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "貝拉 (Bera)",
@@ -45044,24 +35740,7 @@ window.allHeroes =
             "defense": 924,
             "health": 1689
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "傷害：持續傷害"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "召喚-召喚物"
-                ]
-            },
-            {
-                "负面效果": [
-                    "狀態-阻止召喚物",
-                    "傷害-持續傷害：毒"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "貝拉 (Bera) C1",
@@ -45111,24 +35790,7 @@ window.allHeroes =
             "defense": 1140,
             "health": 2358
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "傷害：持續傷害"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "召喚-召喚物"
-                ]
-            },
-            {
-                "负面效果": [
-                    "狀態-阻止召喚物",
-                    "傷害-持續傷害：毒"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "狼老大 (Boss Wolf)",
@@ -45177,20 +35839,7 @@ window.allHeroes =
             "defense": 1018,
             "health": 1879
         },
-        "cn_skill_info": [
-            {
-                "增益效果": [
-                    "防禦-反擊/反彈",
-                    "法力-法力生成↑",
-                    "狀態-驅散增益"
-                ]
-            },
-            {
-                "负面效果": [
-                    "法力-法力生成↓/阻止"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "卡塔 (Carta)",
@@ -45245,23 +35894,7 @@ window.allHeroes =
             "defense": 1280,
             "health": 2479
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "治療：即時"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "狀態-負面效果重新分配"
-                ]
-            },
-            {
-                "增益效果": [
-                    "法力-法力生成↑"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "西西莉亞 (Cecilia)",
@@ -45310,19 +35943,7 @@ window.allHeroes =
             "defense": 1300,
             "health": 2184
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：全體",
-                    "治療：提高生命"
-                ]
-            },
-            {
-                "增益效果": [
-                    "防禦-閃避"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "森尼厄斯 (Cennius)",
@@ -45374,24 +35995,7 @@ window.allHeroes =
             "defense": 1356,
             "health": 2212
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：單一目標"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "攻擊-額外攻擊",
-                    "傷害-傷害↑：神聖"
-                ]
-            },
-            {
-                "增益效果": [
-                    "防禦-傷害減免"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "恰克佐洛特 (Chakkoszrot)",
@@ -45445,19 +36049,7 @@ window.allHeroes =
             "defense": 962,
             "health": 1671
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：全體"
-                ]
-            },
-            {
-                "负面效果": [
-                    "狀態-增益無效化",
-                    "法力-法力生成↓/阻止"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "晁蓋 (Chao Gai)",
@@ -45519,25 +36111,7 @@ window.allHeroes =
             "defense": 1531,
             "health": 2717
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：單一目標"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "傷害-額外傷害"
-                ]
-            },
-            {
-                "增益效果": [
-                    "攻擊-暴擊率↑",
-                    "攻擊-攻擊力↑",
-                    "狀態-躲藏/幽靈形態"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "卡戎 (Charon)",
@@ -45597,16 +36171,7 @@ window.allHeroes =
             "defense": 1056,
             "health": 2070
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "治療：提高生命",
-                    "治療：即時",
-                    "治療：持續",
-                    "治療：復活"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "克拉里薩 (Clarissa)",
@@ -45658,24 +36223,7 @@ window.allHeroes =
             "defense": 878,
             "health": 1686
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：範圍",
-                    "傷害：持續傷害"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "傷害-傷害↑：神聖"
-                ]
-            },
-            {
-                "负面效果": [
-                    "傷害-持續傷害：毒"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "暗黑領主 (Dark Lord)",
@@ -45728,25 +36276,7 @@ window.allHeroes =
             "defense": 924,
             "health": 1673
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：單一目標",
-                    "傷害：持續傷害"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "狀態-減少增益回合"
-                ]
-            },
-            {
-                "负面效果": [
-                    "法力-法力生成↓/阻止",
-                    "傷害-持續傷害：毒"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "暗黑領主 (Dark Lord) C1",
@@ -45801,25 +36331,7 @@ window.allHeroes =
             "defense": 1367,
             "health": 2669
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：單一目標",
-                    "傷害：持續傷害"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "狀態-減少增益回合"
-                ]
-            },
-            {
-                "负面效果": [
-                    "法力-法力生成↓/阻止",
-                    "傷害-持續傷害：毒"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "黑暗節奏 (Darkbeat)",
@@ -45873,24 +36385,7 @@ window.allHeroes =
             "defense": 1503,
             "health": 2689
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：全體"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "狀態-減少狀態異常回合",
-                    "狀態-減少增益回合"
-                ]
-            },
-            {
-                "增益效果": [
-                    "狀態-阻止增益驅散"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "暗羽 (Darkfeather)",
@@ -45943,24 +36438,7 @@ window.allHeroes =
             "defense": 1163,
             "health": 2072
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "治療：即時"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "攻擊-額外攻擊"
-                ]
-            },
-            {
-                "增益效果": [
-                    "防禦-成長：防禦力↑",
-                    "防御-成长：防御力↑"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "死亡之靴 (Deadboot)",
@@ -46015,24 +36493,7 @@ window.allHeroes =
             "defense": 1107,
             "health": 1998
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：單一目標"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "狀態-增益重新分配",
-                    "傷害-額外傷害"
-                ]
-            },
-            {
-                "负面效果": [
-                    "防禦-枯萎：防禦力↓"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "戴米路恩 (Demilune)",
@@ -46087,23 +36548,7 @@ window.allHeroes =
             "defense": 1318,
             "health": 2151
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：鄰近輕傷"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "狀態-偷取增益"
-                ]
-            },
-            {
-                "增益效果": [
-                    "防禦-成長：防禦力↑"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "貂蟬 (Diaochan)",
@@ -46151,19 +36596,7 @@ window.allHeroes =
             "defense": 982,
             "health": 1808
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "治療：即時"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "召喚-召喚物",
-                    "狀態-偷取增益"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "貂蟬 (Diaochan) C1",
@@ -46216,19 +36649,7 @@ window.allHeroes =
             "defense": 1343,
             "health": 2643
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "治療：即時"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "召喚-召喚物",
-                    "狀態-偷取增益"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "多米西亞 (Domitia)",
@@ -46277,19 +36698,7 @@ window.allHeroes =
             "defense": 835,
             "health": 1663
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：單一目標"
-                ]
-            },
-            {
-                "增益效果": [
-                    "防禦-防禦↑：神聖",
-                    "狀態-驅散增益"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "多米西亞 (Domitia) C1",
@@ -46338,20 +36747,7 @@ window.allHeroes =
             "defense": 960,
             "health": 1787
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：單一目標",
-                    "傷害：持續傷害"
-                ]
-            },
-            {
-                "负面效果": [
-                    "傷害-持續傷害：毒",
-                    "狀態-淨化狀態異常"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "多米西亞 (Domitia) C2",
@@ -46399,23 +36795,7 @@ window.allHeroes =
             "defense": 1113,
             "health": 2296
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：範圍"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "傷害-傷害↑：神聖"
-                ]
-            },
-            {
-                "负面效果": [
-                    "防禦-防禦↓：黑暗"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "多米西亞 (Domitia) 卡通",
@@ -46468,24 +36848,7 @@ window.allHeroes =
             "defense": 1283,
             "health": 2731
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：單一目標"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "傷害-傷害↑：神聖"
-                ]
-            },
-            {
-                "增益效果": [
-                    "防禦-防禦↑：神聖",
-                    "狀態-驅散增益"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "多米西亞 (Domitia) 玻璃",
@@ -46539,23 +36902,7 @@ window.allHeroes =
             "defense": 1421,
             "health": 2865
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：單一目標"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "攻擊-穿透/繞過"
-                ]
-            },
-            {
-                "增益效果": [
-                    "防禦-防禦↑：神聖"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "莫羅博士 (Dr. Moreau)",
@@ -46603,18 +36950,7 @@ window.allHeroes =
             "defense": 927,
             "health": 1775
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：範圍"
-                ]
-            },
-            {
-                "负面效果": [
-                    "攻擊-命中率↓"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "莫羅博士 (Dr. Moreau) C1",
@@ -46663,18 +36999,7 @@ window.allHeroes =
             "defense": 1224,
             "health": 2407
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：範圍"
-                ]
-            },
-            {
-                "负面效果": [
-                    "攻擊-命中率↓"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "恐懼之星 (Dreadstar)",
@@ -46730,24 +37055,7 @@ window.allHeroes =
             "defense": 1303,
             "health": 2082
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：全體"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "攻擊-無視閃避"
-                ]
-            },
-            {
-                "负面效果": [
-                    "法力-法力生成↓/阻止",
-                    "治療-治療量↓"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "圖安 (Dubhan)",
@@ -46800,25 +37108,7 @@ window.allHeroes =
             "defense": 1333,
             "health": 2740
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：單一目標",
-                    "傷害：持續傷害",
-                    "治療：傷害量"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "攻擊-額外攻擊"
-                ]
-            },
-            {
-                "负面效果": [
-                    "傷害-持續傷害：流血"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "杜拉弗爾 (Dularfulr)",
@@ -46876,19 +37166,7 @@ window.allHeroes =
             "defense": 1457,
             "health": 2727
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "治療：即時"
-                ]
-            },
-            {
-                "增益效果": [
-                    "狀態-免疫狀態異常",
-                    "防禦-傷害減免"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "厄洛斯 (Eros)",
@@ -46936,18 +37214,7 @@ window.allHeroes =
             "defense": 1155,
             "health": 1993
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：單一目標"
-                ]
-            },
-            {
-                "负面效果": [
-                    "防禦-受到傷害↑"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "經驗模仿怪 (Experience Mimic) Dark",
@@ -47009,25 +37276,7 @@ window.allHeroes =
             "defense": 1524,
             "health": 2616
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：單一目標"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "攻擊-摧毀召喚物",
-                    "法力-法力恢復（擊殺）",
-                    "治療-自我恢復"
-                ]
-            },
-            {
-                "增益效果": [
-                    "防禦-擬態"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "法拉 (Farrah)",
@@ -47082,19 +37331,7 @@ window.allHeroes =
             "defense": 1186,
             "health": 1981
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：單一目標",
-                    "攻擊：隨機"
-                ]
-            },
-            {
-                "负面效果": [
-                    "防禦-防禦↓：黑暗"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "弗蕾亞 (Freya)",
@@ -47142,19 +37379,7 @@ window.allHeroes =
             "defense": 916,
             "health": 1651
         },
-        "cn_skill_info": [
-            {
-                "特殊效果": [
-                    "召喚-召喚物",
-                    "召喚-超級召喚物"
-                ]
-            },
-            {
-                "增益效果": [
-                    "防禦-防禦力↑"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "弗蕾亞 (Freya) C1",
@@ -47202,19 +37427,7 @@ window.allHeroes =
             "defense": 1201,
             "health": 2249
         },
-        "cn_skill_info": [
-            {
-                "特殊效果": [
-                    "召喚-召喚物",
-                    "召喚-超級召喚物"
-                ]
-            },
-            {
-                "增益效果": [
-                    "防禦-閃避"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "加斯帝勒 (Gastille)",
@@ -47266,18 +37479,7 @@ window.allHeroes =
             "defense": 1244,
             "health": 2120
         },
-        "cn_skill_info": [
-            {
-                "增益效果": [
-                    "攻擊-攻擊力↑"
-                ]
-            },
-            {
-                "负面效果": [
-                    "防禦-受到傷害↑"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "剛格夫 (Gongoth)",
@@ -47330,19 +37532,7 @@ window.allHeroes =
             "defense": 1483,
             "health": 2580
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：範圍"
-                ]
-            },
-            {
-                "负面效果": [
-                    "攻擊-枯萎：攻擊力↓",
-                    "防禦-受到傷害↑"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "古德隆 (Gooldron)",
@@ -47397,19 +37587,7 @@ window.allHeroes =
             "defense": 1389,
             "health": 2560
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：範圍"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "召喚-惡魔",
-                    "狀態-偷取增益"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "高圖斯 (Goretooth)",
@@ -47461,19 +37639,7 @@ window.allHeroes =
             "defense": 1033,
             "health": 1871
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：單一目標"
-                ]
-            },
-            {
-                "负面效果": [
-                    "法力-法力生成↓/阻止",
-                    "防禦-防禦力↓"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "寇薩克 (Goseck)",
@@ -47521,18 +37687,7 @@ window.allHeroes =
             "defense": 988,
             "health": 1798
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：全體"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "傷害-額外傷害"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "格倫戴爾的母親 (Grendel's Mother)",
@@ -47589,21 +37744,7 @@ window.allHeroes =
             "defense": 1562,
             "health": 2727
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：全體",
-                    "傷害：持續傷害"
-                ]
-            },
-            {
-                "负面效果": [
-                    "治療-治療量↓",
-                    "防禦-受到傷害↑",
-                    "傷害-持續傷害：詛咒"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "格非斯 (Griffex)",
@@ -47655,18 +37796,7 @@ window.allHeroes =
             "defense": 1079,
             "health": 2092
         },
-        "cn_skill_info": [
-            {
-                "特殊效果": [
-                    "法力-削減法力"
-                ]
-            },
-            {
-                "增益效果": [
-                    "法力-法力恢復"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "葛林伯 (Grimble)",
@@ -47718,23 +37848,7 @@ window.allHeroes =
             "defense": 1016,
             "health": 1757
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：全體"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "攻擊-摧毀召喚物"
-                ]
-            },
-            {
-                "增益效果": [
-                    "法力-法力恢復"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "黑豹守護者 (Guardian Panther)",
@@ -47783,23 +37897,7 @@ window.allHeroes =
             "defense": 777,
             "health": 1663
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：範圍"
-                ]
-            },
-            {
-                "增益效果": [
-                    "狀態-驅散增益"
-                ]
-            },
-            {
-                "负面效果": [
-                    "防禦-防禦↓：黑暗"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "黑豹守護者 (Guardian Panther) C1",
@@ -47847,19 +37945,7 @@ window.allHeroes =
             "defense": 993,
             "health": 2364
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：全體"
-                ]
-            },
-            {
-                "负面效果": [
-                    "狀態-增益無效化",
-                    "防禦-防禦↓：黑暗"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "昆圖斯 (Gunktus)",
@@ -47919,19 +38005,7 @@ window.allHeroes =
             "defense": 1397,
             "health": 2420
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：鄰近輕傷"
-                ]
-            },
-            {
-                "增益效果": [
-                    "攻擊-攻擊力↑",
-                    "治療-自我復活"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "漢娜 (Hannah)",
@@ -47984,23 +38058,7 @@ window.allHeroes =
             "defense": 922,
             "health": 1767
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：範圍"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "召喚-惡魔"
-                ]
-            },
-            {
-                "负面效果": [
-                    "攻擊-攻擊力↓"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "漢娜 (Hannah) C1",
@@ -48053,23 +38111,7 @@ window.allHeroes =
             "defense": 1184,
             "health": 2362
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：範圍"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "召喚-惡魔"
-                ]
-            },
-            {
-                "负面效果": [
-                    "攻擊-攻擊力↓"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "霍索恩 (Hawthorn)",
@@ -48124,20 +38166,7 @@ window.allHeroes =
             "defense": 1076,
             "health": 2049
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "治療：提高生命",
-                    "治療：持續"
-                ]
-            },
-            {
-                "增益效果": [
-                    "法力-法力恢復",
-                    "狀態-反彈負面效果"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "赫爾 (Hel)",
@@ -48188,23 +38217,7 @@ window.allHeroes =
             "defense": 853,
             "health": 1638
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：鄰近輕傷"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "傷害-傷害↑：神聖"
-                ]
-            },
-            {
-                "负面效果": [
-                    "法力-法力生成↓/阻止"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "赫爾 (Hel) C1",
@@ -48258,23 +38271,7 @@ window.allHeroes =
             "defense": 1091,
             "health": 2375
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：全體"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "傷害-傷害↑：神聖"
-                ]
-            },
-            {
-                "负面效果": [
-                    "法力-法力奪取"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "赫里德馬爾 (Hreidmarr)",
@@ -48331,24 +38328,7 @@ window.allHeroes =
             "defense": 1457,
             "health": 2819
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：全體"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "狀態-偷取增益",
-                    "傷害-傷害↑：自然"
-                ]
-            },
-            {
-                "负面效果": [
-                    "法力-法力奪取"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "胡達 (Hulda)",
@@ -48398,20 +38378,7 @@ window.allHeroes =
             "defense": 965,
             "health": 1823
         },
-        "cn_skill_info": [
-            {
-                "特殊效果": [
-                    "召喚-召喚物",
-                    "治療-透過召喚物治療"
-                ]
-            },
-            {
-                "增益效果": [
-                    "法力-法力生成↑",
-                    "防禦-防禦力↑"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "胡達 (Hulda) C1",
@@ -48462,20 +38429,7 @@ window.allHeroes =
             "defense": 1287,
             "health": 2407
         },
-        "cn_skill_info": [
-            {
-                "特殊效果": [
-                    "召喚-召喚物",
-                    "治療-透過召喚物治療"
-                ]
-            },
-            {
-                "增益效果": [
-                    "法力-法力生成↑",
-                    "防禦-防禦力↑"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "獵人 (Hunter)",
@@ -48528,25 +38482,7 @@ window.allHeroes =
             "defense": 1391,
             "health": 2463
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：單一目標"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "攻擊-無視閃避"
-                ]
-            },
-            {
-                "负面效果": [
-                    "狀態-狂亂",
-                    "防禦-防禦力↓",
-                    "狀態-自我減益"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "颶風 (Hurricane)",
@@ -48602,30 +38538,7 @@ window.allHeroes =
             "defense": 1051,
             "health": 1912
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：範圍",
-                    "傷害：持續傷害"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "治療-透過傷害治療",
-                    "狀態-重置負面效果回合"
-                ]
-            },
-            {
-                "增益效果": [
-                    "攻擊-攻擊力↑"
-                ]
-            },
-            {
-                "负面效果": [
-                    "傷害-持續傷害：燃燒"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "伊瑪格斯 (Imagus)",
@@ -48686,15 +38599,7 @@ window.allHeroes =
             "defense": 1617,
             "health": 2641
         },
-        "cn_skill_info": [
-            {
-                "负面效果": [
-                    "攻擊-枯萎：攻擊力↓",
-                    "治療-治療量↓",
-                    "狀態-淨化狀態異常"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "炸脖龍 (Jabberwock)",
@@ -48740,19 +38645,7 @@ window.allHeroes =
             "defense": 922,
             "health": 1638
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：兩側",
-                    "傷害：持續傷害"
-                ]
-            },
-            {
-                "负面效果": [
-                    "傷害-持續傷害：毒"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "炸脖龍 (Jabberwock) C1",
@@ -48801,20 +38694,7 @@ window.allHeroes =
             "defense": 1142,
             "health": 2275
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：兩側",
-                    "傷害：持續傷害"
-                ]
-            },
-            {
-                "负面效果": [
-                    "法力-法力生成↓/阻止",
-                    "傷害-持續傷害：毒"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "捷特 (Jett)",
@@ -48877,25 +38757,7 @@ window.allHeroes =
             "defense": 1148,
             "health": 2057
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：單一目標",
-                    "傷害：持續傷害",
-                    "治療：傷害量"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "治療-透過傷害治療"
-                ]
-            },
-            {
-                "负面效果": [
-                    "傷害-持續傷害：毒"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "凱基布拉多 (Kageburado)",
@@ -48943,23 +38805,7 @@ window.allHeroes =
             "defense": 881,
             "health": 1539
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：單一目標"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "傷害-額外傷害"
-                ]
-            },
-            {
-                "增益效果": [
-                    "狀態-驅散增益"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "凱基布拉多 (Kageburado) C1",
@@ -49011,24 +38857,7 @@ window.allHeroes =
             "defense": 1123,
             "health": 2026
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：單一目標"
-                ]
-            },
-            {
-                "增益效果": [
-                    "狀態-驅散增益"
-                ]
-            },
-            {
-                "负面效果": [
-                    "狀態-增益無效化",
-                    "防禦-防禦力↓"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "卡諾夫 (Karnov)",
@@ -49076,18 +38905,7 @@ window.allHeroes =
             "defense": 919,
             "health": 1780
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：全體"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "傷害-面板：提高傷害"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "卡諾夫 (Karnov) C1",
@@ -49140,19 +38958,7 @@ window.allHeroes =
             "defense": 1370,
             "health": 2784
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：全體"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "傷害-面板：提高傷害",
-                    "傷害-傷害↑：神聖"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "凱梅尼 (Kemeny)",
@@ -49200,18 +39006,7 @@ window.allHeroes =
             "defense": 1003,
             "health": 1833
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：全體"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "傷害-額外傷害"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "凱布利 (Khepri)",
@@ -49264,19 +39059,7 @@ window.allHeroes =
             "defense": 1028,
             "health": 1955
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：範圍"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "召喚-惡魔",
-                    "傷害-爆炸"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "凱布利 (Khepri) C1",
@@ -49331,19 +39114,7 @@ window.allHeroes =
             "defense": 1414,
             "health": 2705
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：範圍"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "召喚-惡魔",
-                    "傷害-爆炸"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "基奧娜 (Khiona)",
@@ -49391,18 +39162,7 @@ window.allHeroes =
             "defense": 873,
             "health": 1648
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：單一目標"
-                ]
-            },
-            {
-                "增益效果": [
-                    "攻擊-攻擊力↑"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "基奧娜 (Khiona) C1",
@@ -49453,18 +39213,7 @@ window.allHeroes =
             "defense": 1104,
             "health": 2356
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：單一目標"
-                ]
-            },
-            {
-                "增益效果": [
-                    "攻擊-攻擊力↑"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "孔斯 (Khonshu)",
@@ -49513,18 +39262,7 @@ window.allHeroes =
             "defense": 957,
             "health": 1889
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：單一目標"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "法力-法力恢復（擊殺）"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "孔斯 (Khonshu) C1",
@@ -49575,18 +39313,7 @@ window.allHeroes =
             "defense": 1323,
             "health": 2668
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：單一目標"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "法力-法力恢復（擊殺）"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "克爾哈爾 (Killhare)",
@@ -49631,18 +39358,7 @@ window.allHeroes =
             "defense": 932,
             "health": 1704
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：全體"
-                ]
-            },
-            {
-                "负面效果": [
-                    "狀態-自我減益"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "克爾哈爾 (Killhare) C1",
@@ -49687,18 +39403,7 @@ window.allHeroes =
             "defense": 1138,
             "health": 2161
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：全體"
-                ]
-            },
-            {
-                "负面效果": [
-                    "狀態-自我減益"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "紅心傑克 (Knave of Hearts)",
@@ -49748,24 +39453,7 @@ window.allHeroes =
             "defense": 1231,
             "health": 2247
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：範圍"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "召喚-召喚物",
-                    "治療-透過召喚物治療"
-                ]
-            },
-            {
-                "负面效果": [
-                    "法力-混亂/沉默/睡眠"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "奈特圖斯 (Knightus)",
@@ -49822,20 +39510,7 @@ window.allHeroes =
             "defense": 1493,
             "health": 2484
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：單一目標"
-                ]
-            },
-            {
-                "负面效果": [
-                    "法力-麻痹",
-                    "防禦-防禦↓：黑暗",
-                    "狀態-吞噬黏液"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "坤奇恩 (Kunchen)",
@@ -49888,19 +39563,7 @@ window.allHeroes =
             "defense": 1005,
             "health": 1772
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "治療：即時"
-                ]
-            },
-            {
-                "负面效果": [
-                    "防禦-防禦力↓",
-                    "狀態-淨化狀態異常"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "樂皮歐塔 (Lepiota)",
@@ -49958,19 +39621,7 @@ window.allHeroes =
             "defense": 960,
             "health": 1676
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：單一目標",
-                    "傷害：持續傷害"
-                ]
-            },
-            {
-                "增益效果": [
-                    "狀態-躲藏/幽靈形態"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "樂皮歐塔 (Lepiota) C1",
@@ -50029,19 +39680,7 @@ window.allHeroes =
             "defense": 1270,
             "health": 2303
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：單一目標",
-                    "傷害：持續傷害"
-                ]
-            },
-            {
-                "增益效果": [
-                    "狀態-躲藏/幽靈形態"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "婁希 (Louhi)",
@@ -50091,23 +39730,7 @@ window.allHeroes =
             "defense": 1066,
             "health": 2169
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：全體"
-                ]
-            },
-            {
-                "增益效果": [
-                    "狀態-驅散增益"
-                ]
-            },
-            {
-                "负面效果": [
-                    "防禦-防禦力↓"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "呂布 (Lu Bu)",
@@ -50158,23 +39781,7 @@ window.allHeroes =
             "defense": 988,
             "health": 1856
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：全體"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "召喚-惡魔"
-                ]
-            },
-            {
-                "负面效果": [
-                    "狀態-增益無效化"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "呂布 (Lu Bu) C1",
@@ -50230,23 +39837,7 @@ window.allHeroes =
             "defense": 1354,
             "health": 2657
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：全體"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "召喚-惡魔"
-                ]
-            },
-            {
-                "负面效果": [
-                    "狀態-增益無效化"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "露西妲 (Lucinda)",
@@ -50300,25 +39891,7 @@ window.allHeroes =
             "defense": 1148,
             "health": 2159
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "治療：持續",
-                    "攻擊：範圍"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "治療-自我恢復"
-                ]
-            },
-            {
-                "负面效果": [
-                    "攻擊-命中率↓",
-                    "防禦-防禦力↓"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "路德維希 (Ludwig)",
@@ -50366,15 +39939,7 @@ window.allHeroes =
             "defense": 1041,
             "health": 1778
         },
-        "cn_skill_info": [
-            {
-                "增益效果": [
-                    "法力-法力恢復",
-                    "防禦-嘲諷",
-                    "防禦-防禦↑：特殊技能"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "露娜 (Luna)",
@@ -50425,19 +39990,7 @@ window.allHeroes =
             "defense": 1107,
             "health": 2131
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "治療：即時"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "法力-削減法力",
-                    "攻擊-額外攻擊"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "吉瑞夫人 (Madame Giry)",
@@ -50494,24 +40047,7 @@ window.allHeroes =
             "defense": 1193,
             "health": 2085
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：全體"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "召喚-惡魔"
-                ]
-            },
-            {
-                "负面效果": [
-                    "狀態-增益無效化",
-                    "防禦-防禦↓：黑暗"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "梅希 (Maisie)",
@@ -50564,24 +40100,7 @@ window.allHeroes =
             "defense": 1508,
             "health": 2664
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "治療：提高生命",
-                    "治療：特殊"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "召喚-超級召喚物"
-                ]
-            },
-            {
-                "负面效果": [
-                    "狀態-淨化狀態異常"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "馬利卡納 (Malicna)",
@@ -50642,25 +40161,7 @@ window.allHeroes =
             "defense": 914,
             "health": 1651
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：範圍"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "攻擊-賭博/隨機效果"
-                ]
-            },
-            {
-                "负面效果": [
-                    "法力-法力生成↓/阻止",
-                    "攻擊-攻擊力↓",
-                    "防禦-防禦力↓"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "瑪麗亞-特蕾莎 (Marie-Therese)",
@@ -50717,20 +40218,7 @@ window.allHeroes =
             "defense": 891,
             "health": 1605
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "治療：持續",
-                    "攻擊：全體",
-                    "治療：復活"
-                ]
-            },
-            {
-                "增益效果": [
-                    "防禦-防禦力↑"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "瑪麗亞-特蕾莎 (Marie-Therese) C1",
@@ -50788,20 +40276,7 @@ window.allHeroes =
             "defense": 1142,
             "health": 2275
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "治療：提高生命",
-                    "攻擊：全體",
-                    "治療：復活"
-                ]
-            },
-            {
-                "增益效果": [
-                    "防禦-防禦力↑"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "茉得 (Maud)",
@@ -50854,19 +40329,7 @@ window.allHeroes =
             "defense": 1379,
             "health": 2687
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：全體"
-                ]
-            },
-            {
-                "增益效果": [
-                    "法力-法力恢復",
-                    "防禦-閃避"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "梅狄亞 (Medea)",
@@ -50926,19 +40389,7 @@ window.allHeroes =
             "defense": 1244,
             "health": 2131
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：範圍"
-                ]
-            },
-            {
-                "负面效果": [
-                    "治療-治療量↓",
-                    "法力-混亂/沉默/睡眠"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "梅狄亞 (Medea) C1",
@@ -50998,19 +40449,7 @@ window.allHeroes =
             "defense": 1560,
             "health": 2698
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：範圍"
-                ]
-            },
-            {
-                "负面效果": [
-                    "治療-治療量↓",
-                    "法力-混亂/沉默/睡眠"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "梅蘭丘莉亞 (Melancholia)",
@@ -51064,28 +40503,7 @@ window.allHeroes =
             "defense": 1424,
             "health": 2633
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "治療：復活"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "傷害-額外傷害"
-                ]
-            },
-            {
-                "增益效果": [
-                    "防禦-防禦↑：特殊技能"
-                ]
-            },
-            {
-                "负面效果": [
-                    "狀態-狂亂"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "巨齒鯊 (Mok-Arr)",
@@ -51134,23 +40552,7 @@ window.allHeroes =
             "defense": 848,
             "health": 1727
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：全體"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "傷害-傷害↑：神聖"
-                ]
-            },
-            {
-                "负面效果": [
-                    "狀態-自我減益"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "巨齒鯊 (Mok-Arr) C1",
@@ -51202,28 +40604,7 @@ window.allHeroes =
             "defense": 1056,
             "health": 2211
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：全體"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "傷害-傷害↑：神聖"
-                ]
-            },
-            {
-                "增益效果": [
-                    "攻擊-攻擊力↑"
-                ]
-            },
-            {
-                "负面效果": [
-                    "攻擊-攻擊力↓"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "摩拉克斯 (Morax)",
@@ -51278,19 +40659,7 @@ window.allHeroes =
             "defense": 949,
             "health": 1785
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：鄰近輕傷"
-                ]
-            },
-            {
-                "负面效果": [
-                    "法力-法力生成↓/阻止",
-                    "治療-最大生命值↓"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "魔薇琪 (Mortewitch)",
@@ -51350,25 +40719,7 @@ window.allHeroes =
             "defense": 1554,
             "health": 2481
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "治療：傷害量",
-                    "攻擊：單一目標"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "攻擊-穿透/繞過",
-                    "召喚-超級召喚物"
-                ]
-            },
-            {
-                "负面效果": [
-                    "防禦-受到傷害↑"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "摩爾提梅爾 (Mortimer)",
@@ -51419,23 +40770,7 @@ window.allHeroes =
             "defense": 1061,
             "health": 1859
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：鄰近輕傷"
-                ]
-            },
-            {
-                "增益效果": [
-                    "狀態-阻止負面效果"
-                ]
-            },
-            {
-                "负面效果": [
-                    "法力-混亂/沉默/睡眠"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "米茲特羅 (Myztero)",
@@ -51481,18 +40816,7 @@ window.allHeroes =
             "defense": 916,
             "health": 1711
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：全體"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "攻擊-回溯/偷取技能"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "納西莎 (Narcisa)",
@@ -51543,23 +40867,7 @@ window.allHeroes =
             "defense": 972,
             "health": 1838
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：全體"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "狀態-重置負面效果回合"
-                ]
-            },
-            {
-                "负面效果": [
-                    "攻擊-攻擊力↓"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "尼克斯 (Nyx)",
@@ -51619,23 +40927,7 @@ window.allHeroes =
             "defense": 1018,
             "health": 1866
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：全體"
-                ]
-            },
-            {
-                "增益效果": [
-                    "攻擊-攻擊力↑"
-                ]
-            },
-            {
-                "负面效果": [
-                    "防禦-防禦力↓"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "歐巴坎 (Obakan)",
@@ -51681,18 +40973,7 @@ window.allHeroes =
             "defense": 787,
             "health": 1638
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：鄰近輕傷"
-                ]
-            },
-            {
-                "增益效果": [
-                    "防禦-反擊/反彈"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "歐巴坎 (Obakan) C1",
@@ -51738,18 +41019,7 @@ window.allHeroes =
             "defense": 946,
             "health": 1819
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：全體"
-                ]
-            },
-            {
-                "增益效果": [
-                    "防禦-反擊/反彈"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "歐巴坎 (Obakan) C2",
@@ -51798,19 +41068,7 @@ window.allHeroes =
             "defense": 1096,
             "health": 2354
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：範圍"
-                ]
-            },
-            {
-                "增益效果": [
-                    "防禦-反擊/反彈",
-                    "法力-法力恢復"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "歐巴坎 (Obakan) 卡通",
@@ -51860,23 +41118,7 @@ window.allHeroes =
             "defense": 1298,
             "health": 2731
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：鄰近輕傷"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "傷害-傷害↑：神聖"
-                ]
-            },
-            {
-                "增益效果": [
-                    "防禦-反擊/反彈"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "歐巴坎 (Obakan) 玻璃",
@@ -51927,23 +41169,7 @@ window.allHeroes =
             "defense": 1457,
             "health": 2869
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：鄰近輕傷"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "攻擊-穿透/繞過"
-                ]
-            },
-            {
-                "增益效果": [
-                    "防禦-反擊/反彈"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "歐蒂蔻 (Odile)",
@@ -52000,24 +41226,7 @@ window.allHeroes =
             "defense": 1176,
             "health": 2280
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "治療：提高生命"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "治療-透過傷害治療",
-                    "攻擊-額外攻擊"
-                ]
-            },
-            {
-                "负面效果": [
-                    "狀態-增益無效化"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "歐莫杜斯 (Ommodus)",
@@ -52071,26 +41280,7 @@ window.allHeroes =
             "defense": 1262,
             "health": 2006
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：全體"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "召喚-摧毀惡魔",
-                    "攻擊-無視閃避",
-                    "傷害-傷害↑：神聖"
-                ]
-            },
-            {
-                "增益效果": [
-                    "防禦-傷害減免",
-                    "法力-法力恢復"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "黑寶 (Onyx)",
@@ -52150,23 +41340,7 @@ window.allHeroes =
             "defense": 871,
             "health": 1717
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：數量變化"
-                ]
-            },
-            {
-                "增益效果": [
-                    "狀態-驅散增益"
-                ]
-            },
-            {
-                "负面效果": [
-                    "狀態-增益無效化"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "薄荷 (Peppermint)",
@@ -52216,24 +41390,7 @@ window.allHeroes =
             "defense": 1031,
             "health": 1800
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：全體",
-                    "傷害：持續傷害"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "召喚-召喚物"
-                ]
-            },
-            {
-                "负面效果": [
-                    "傷害-持續傷害：毒"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "歌劇魅影 (Phantom of the Opera)",
@@ -52295,20 +41452,7 @@ window.allHeroes =
             "defense": 1150,
             "health": 2105
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：範圍"
-                ]
-            },
-            {
-                "负面效果": [
-                    "法力-法力生成↓/阻止",
-                    "治療-治療量↓",
-                    "狀態-增益無效化"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "弗歐克斯 (Phorcys)",
@@ -52371,19 +41515,7 @@ window.allHeroes =
             "defense": 1018,
             "health": 2001
         },
-        "cn_skill_info": [
-            {
-                "特殊效果": [
-                    "召喚-召喚物"
-                ]
-            },
-            {
-                "增益效果": [
-                    "防禦-嘲諷",
-                    "攻擊-疊加：攻擊力↑"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "弗歐克斯 (Phorcys) C1",
@@ -52446,19 +41578,7 @@ window.allHeroes =
             "defense": 1013,
             "health": 1963
         },
-        "cn_skill_info": [
-            {
-                "特殊效果": [
-                    "召喚-召喚物"
-                ]
-            },
-            {
-                "增益效果": [
-                    "防禦-嘲諷",
-                    "攻擊-疊加：攻擊力↑"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "佛托諾斯 (Phthonus)",
@@ -52509,19 +41629,7 @@ window.allHeroes =
             "defense": 998,
             "health": 1948
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "治療：特殊",
-                    "攻擊：全體"
-                ]
-            },
-            {
-                "增益效果": [
-                    "狀態-驅散增益"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "石英 (Quartz)",
@@ -52581,23 +41689,7 @@ window.allHeroes =
             "defense": 955,
             "health": 1882
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "治療：持續"
-                ]
-            },
-            {
-                "增益效果": [
-                    "攻擊-攻擊力↑"
-                ]
-            },
-            {
-                "负面效果": [
-                    "狀態-淨化狀態異常"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "昆塔斯 (Quintus)",
@@ -52640,13 +41732,7 @@ window.allHeroes =
             "defense": 784,
             "health": 1701
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：全體"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "昆塔斯 (Quintus) C1",
@@ -52692,18 +41778,7 @@ window.allHeroes =
             "defense": 880,
             "health": 1865
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：全體"
-                ]
-            },
-            {
-                "负面效果": [
-                    "攻擊-攻擊力↓"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "昆塔斯 (Quintus) C2",
@@ -52749,18 +41824,7 @@ window.allHeroes =
             "defense": 1025,
             "health": 2394
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：範圍"
-                ]
-            },
-            {
-                "负面效果": [
-                    "法力-混亂/沉默/睡眠"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "昆塔斯 (Quintus) 卡通",
@@ -52807,18 +41871,7 @@ window.allHeroes =
             "defense": 1350,
             "health": 2905
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：全體"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "傷害-傷害↑：神聖"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "羅瑪納 (Ramona)",
@@ -52872,19 +41925,7 @@ window.allHeroes =
             "defense": 1310,
             "health": 2176
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：單一目標",
-                    "治療：特殊"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "召喚-惡魔"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "芮恩 (Rayne)",
@@ -52930,19 +41971,7 @@ window.allHeroes =
             "defense": 962,
             "health": 1706
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：單一目標",
-                    "傷害：持續傷害"
-                ]
-            },
-            {
-                "负面效果": [
-                    "傷害-持續傷害：毒"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "羅契弗 (Rochefort)",
@@ -52989,18 +42018,7 @@ window.allHeroes =
             "defense": 1049,
             "health": 2263
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：鄰近輕傷"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "傷害-爆炸"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "鮭魚洛基 (Salmon Loki)",
@@ -53048,23 +42066,7 @@ window.allHeroes =
             "defense": 927,
             "health": 1696
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：數量變化"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "傷害-額外傷害"
-                ]
-            },
-            {
-                "负面效果": [
-                    "防禦-改變顏色/位置"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "鮭魚洛基 (Salmon Loki) C1",
@@ -53112,23 +42114,7 @@ window.allHeroes =
             "defense": 1248,
             "health": 2166
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：數量變化"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "傷害-額外傷害"
-                ]
-            },
-            {
-                "负面效果": [
-                    "防禦-改變顏色/位置"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "馬尾藻 (Sargasso)",
@@ -53174,18 +42160,7 @@ window.allHeroes =
             "defense": 873,
             "health": 1645
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：鄰近輕傷"
-                ]
-            },
-            {
-                "负面效果": [
-                    "治療-治療量↓"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "馬尾藻 (Sargasso) C1",
@@ -53236,20 +42211,7 @@ window.allHeroes =
             "defense": 1221,
             "health": 2036
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：鄰近輕傷",
-                    "傷害：持續傷害"
-                ]
-            },
-            {
-                "负面效果": [
-                    "治療-阻止治療",
-                    "傷害-持續傷害：水"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "薩塔娜 (Sartana)",
@@ -53295,19 +42257,7 @@ window.allHeroes =
             "defense": 863,
             "health": 1704
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：單一目標",
-                    "傷害：持續傷害"
-                ]
-            },
-            {
-                "负面效果": [
-                    "傷害-持續傷害：毒"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "薩塔娜 (Sartana) C1",
@@ -53350,13 +42300,7 @@ window.allHeroes =
             "defense": 1023,
             "health": 1974
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：單一目標"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "薩塔娜 (Sartana) C2",
@@ -53404,23 +42348,7 @@ window.allHeroes =
             "defense": 1068,
             "health": 2544
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：單一目標"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "攻擊-摧毀召喚物"
-                ]
-            },
-            {
-                "负面效果": [
-                    "狀態-阻止召喚物"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "薩塔娜 (Sartana) 卡通",
@@ -53470,24 +42398,7 @@ window.allHeroes =
             "defense": 1329,
             "health": 2891
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：單一目標",
-                    "傷害：持續傷害"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "傷害-傷害↑：神聖"
-                ]
-            },
-            {
-                "负面效果": [
-                    "傷害-持續傷害：毒"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "薩塔娜 (Sartana) 玻璃",
@@ -53537,24 +42448,7 @@ window.allHeroes =
             "defense": 1496,
             "health": 3042
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：單一目標",
-                    "傷害：持續傷害"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "攻擊-穿透/繞過"
-                ]
-            },
-            {
-                "负面效果": [
-                    "傷害-持續傷害：毒"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "殺意 (Satsui)",
@@ -53619,23 +42513,7 @@ window.allHeroes =
             "defense": 1524,
             "health": 2260
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：數量變化"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "傷害-額外傷害"
-                ]
-            },
-            {
-                "增益效果": [
-                    "狀態-躲藏/幽靈形態"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "斯卡司 (Scath)",
@@ -53690,23 +42568,7 @@ window.allHeroes =
             "defense": 1221,
             "health": 2506
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "治療：持續"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "傷害-爆炸"
-                ]
-            },
-            {
-                "增益效果": [
-                    "防禦-反擊/反彈"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "塞南 (Senan)",
@@ -53763,24 +42625,7 @@ window.allHeroes =
             "defense": 1003,
             "health": 1752
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：全體"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "召喚-惡魔"
-                ]
-            },
-            {
-                "增益效果": [
-                    "法力-疊加：法力生成↑",
-                    "治療-疊加：生命恢復"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "塞南 (Senan) C1",
@@ -53838,24 +42683,7 @@ window.allHeroes =
             "defense": 1414,
             "health": 2867
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：全體"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "召喚-惡魔"
-                ]
-            },
-            {
-                "增益效果": [
-                    "法力-疊加：法力生成↑",
-                    "治療-疊加：生命恢復"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "瑟琳娜 (Serena)",
@@ -53909,23 +42737,7 @@ window.allHeroes =
             "defense": 1498,
             "health": 2827
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：單一目標"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "召喚-惡魔"
-                ]
-            },
-            {
-                "负面效果": [
-                    "攻擊-命中率↓"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "賽沙特 (Seshat)",
@@ -53978,23 +42790,7 @@ window.allHeroes =
             "defense": 843,
             "health": 1658
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：單一目標"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "召喚-召喚物"
-                ]
-            },
-            {
-                "增益效果": [
-                    "狀態-驅散增益"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "賽沙特 (Seshat) C1",
@@ -54049,23 +42845,7 @@ window.allHeroes =
             "defense": 1068,
             "health": 2401
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：單一目標"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "召喚-召喚物"
-                ]
-            },
-            {
-                "增益效果": [
-                    "狀態-驅散增益"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "賽特 (Set)",
@@ -54117,19 +42897,7 @@ window.allHeroes =
             "defense": 1038,
             "health": 1950
         },
-        "cn_skill_info": [
-            {
-                "特殊效果": [
-                    "召喚-召喚物",
-                    "法力-削減法力"
-                ]
-            },
-            {
-                "负面效果": [
-                    "傷害-持續傷害：毒"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "賽特 (Set) C1",
@@ -54183,19 +42951,7 @@ window.allHeroes =
             "defense": 1428,
             "health": 2733
         },
-        "cn_skill_info": [
-            {
-                "特殊效果": [
-                    "召喚-召喚物",
-                    "法力-削減法力"
-                ]
-            },
-            {
-                "负面效果": [
-                    "傷害-持續傷害：毒"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "薛克柏特 (Shacklebolt)",
@@ -54250,23 +43006,7 @@ window.allHeroes =
             "defense": 1122,
             "health": 2278
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：範圍"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "狀態-偷取增益"
-                ]
-            },
-            {
-                "负面效果": [
-                    "法力-法力奪取"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "影牙 (Shadowfang)",
@@ -54321,19 +43061,7 @@ window.allHeroes =
             "defense": 1404,
             "health": 2722
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：全體"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "召喚-惡魔",
-                    "攻擊-額外攻擊"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "卡斯米爾爵士 (Sir Casmir)",
@@ -54388,24 +43116,7 @@ window.allHeroes =
             "defense": 1292,
             "health": 2153
         },
-        "cn_skill_info": [
-            {
-                "特殊效果": [
-                    "攻擊-賭博/隨機效果",
-                    "傷害-額外傷害"
-                ]
-            },
-            {
-                "增益效果": [
-                    "狀態-反彈負面效果"
-                ]
-            },
-            {
-                "负面效果": [
-                    "狀態-淨化狀態異常"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "斯奈非路 (Sneferu)",
@@ -54458,23 +43169,7 @@ window.allHeroes =
             "defense": 1005,
             "health": 2004
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：單一目標"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "攻擊-連鎖"
-                ]
-            },
-            {
-                "负面效果": [
-                    "狀態-增益無效化"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "斯奈非路 (Sneferu) C1",
@@ -54529,23 +43224,7 @@ window.allHeroes =
             "defense": 1457,
             "health": 3006
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：單一目標"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "攻擊-連鎖"
-                ]
-            },
-            {
-                "负面效果": [
-                    "狀態-增益無效化"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "迅爪 (Swiftpaw)",
@@ -54601,29 +43280,7 @@ window.allHeroes =
             "defense": 1363,
             "health": 2555
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：單一目標"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "召喚-召喚物",
-                    "狀態-偷取增益"
-                ]
-            },
-            {
-                "增益效果": [
-                    "防禦-閃避"
-                ]
-            },
-            {
-                "负面效果": [
-                    "法力-混亂/沉默/睡眠"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "塔姆林 (Tamlin)",
@@ -54676,19 +43333,7 @@ window.allHeroes =
             "defense": 1394,
             "health": 2677
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：全體"
-                ]
-            },
-            {
-                "负面效果": [
-                    "法力-混亂/沉默/睡眠",
-                    "防禦-防禦↓：特殊技能"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "天能布雷兒 (Tenebrae)",
@@ -54744,18 +43389,7 @@ window.allHeroes =
             "defense": 1170,
             "health": 1955
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：單一目標"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "傷害-額外傷害"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "圖特阿蒙 (Thoth-Amun)",
@@ -54805,18 +43439,7 @@ window.allHeroes =
             "defense": 855,
             "health": 1678
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：範圍"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "召喚-召喚物"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "圖特阿蒙 (Thoth-Amun) C1",
@@ -54865,18 +43488,7 @@ window.allHeroes =
             "defense": 1117,
             "health": 2466
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：範圍"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "召喚-召喚物"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "特里瓦爾迪 (Thrivaldi)",
@@ -54935,25 +43547,7 @@ window.allHeroes =
             "defense": 1419,
             "health": 2865
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：全體"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "攻擊-無視閃避",
-                    "傷害-傷害↑：火焰"
-                ]
-            },
-            {
-                "增益效果": [
-                    "狀態-免疫狀態異常",
-                    "防禦-防禦力↑"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "圖拉 (Tora)",
@@ -55016,19 +43610,7 @@ window.allHeroes =
             "defense": 1358,
             "health": 2032
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：數量變化"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "傷害-額外傷害",
-                    "攻擊-穿透/繞過"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "圖古克 (Turgruk)",
@@ -55078,18 +43660,7 @@ window.allHeroes =
             "defense": 904,
             "health": 1732
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：單一目標"
-                ]
-            },
-            {
-                "负面效果": [
-                    "防禦-疊加：受到傷害↑"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "特威德爾斯 (Tweedles)",
@@ -55143,24 +43714,7 @@ window.allHeroes =
             "defense": 1168,
             "health": 1930
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：隨機"
-                ]
-            },
-            {
-                "增益效果": [
-                    "法力-法力恢復"
-                ]
-            },
-            {
-                "负面效果": [
-                    "攻擊-攻擊力↓",
-                    "防禦-防禦力↓"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "烏沃查克斯 (Ultrox)",
@@ -55219,24 +43773,7 @@ window.allHeroes =
             "defense": 1094,
             "health": 2057
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：全體"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "傷害-面板：提高傷害"
-                ]
-            },
-            {
-                "增益效果": [
-                    "防禦-反擊/反彈",
-                    "防禦-傷害減免"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "烏沃查克斯 (Ultrox) C1",
@@ -55297,24 +43834,7 @@ window.allHeroes =
             "defense": 1374,
             "health": 2620
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：全體"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "傷害-面板：提高傷害"
-                ]
-            },
-            {
-                "增益效果": [
-                    "防禦-反擊/反彈",
-                    "防禦-傷害減免"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "安布雷亞 (Umbria)",
@@ -55365,18 +43885,7 @@ window.allHeroes =
             "defense": 1115,
             "health": 2225
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：單一目標"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "召喚-惡魔"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "梅子 (Umeko)",
@@ -55438,24 +43947,7 @@ window.allHeroes =
             "defense": 1409,
             "health": 2082
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "傷害：持續傷害"
-                ]
-            },
-            {
-                "增益效果": [
-                    "狀態-驅散增益"
-                ]
-            },
-            {
-                "负面效果": [
-                    "治療-治療量↓",
-                    "傷害-持續傷害：毒"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "尤塞娜 (Ursena)",
@@ -55505,24 +43997,7 @@ window.allHeroes =
             "defense": 901,
             "health": 1582
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：全體"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "傷害-額外傷害",
-                    "傷害-傷害↑：神聖"
-                ]
-            },
-            {
-                "增益效果": [
-                    "防禦-反擊/反彈：神聖"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "尤塞娜 (Ursena) C1",
@@ -55573,28 +44048,7 @@ window.allHeroes =
             "defense": 1138,
             "health": 2073
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：全體"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "傷害-額外傷害"
-                ]
-            },
-            {
-                "增益效果": [
-                    "防禦-反擊/反彈：神聖"
-                ]
-            },
-            {
-                "负面效果": [
-                    "防禦-防禦↓：黑暗"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "烏爾拉岡 (Uthragan)",
@@ -55646,24 +44100,7 @@ window.allHeroes =
             "defense": 914,
             "health": 1986
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：單一目標",
-                    "傷害：持續傷害"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "治療-透過傷害治療"
-                ]
-            },
-            {
-                "负面效果": [
-                    "傷害-持續傷害：毒"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "烏威 (Uwe)",
@@ -55715,25 +44152,7 @@ window.allHeroes =
             "defense": 1308,
             "health": 2209
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：單一目標",
-                    "傷害：持續傷害"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "攻擊-連鎖",
-                    "傷害-爆炸"
-                ]
-            },
-            {
-                "负面效果": [
-                    "傷害-持續傷害：毒"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "范德 (Vander)",
@@ -55789,18 +44208,7 @@ window.allHeroes =
             "defense": 1356,
             "health": 2286
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：數量變化"
-                ]
-            },
-            {
-                "负面效果": [
-                    "法力-混亂/沉默/睡眠"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "夫瓦德 (Vard)",
@@ -55853,20 +44261,7 @@ window.allHeroes =
             "defense": 1518,
             "health": 2400
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：全體"
-                ]
-            },
-            {
-                "负面效果": [
-                    "攻擊-枯萎：攻擊力↓",
-                    "防禦-枯萎：防禦力↓",
-                    "法力-法力生成↓/阻止"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "維克托 (Victor)",
@@ -55921,24 +44316,7 @@ window.allHeroes =
             "defense": 828,
             "health": 1661
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：單一目標",
-                    "傷害：持續傷害"
-                ]
-            },
-            {
-                "增益效果": [
-                    "防禦-防禦力↑"
-                ]
-            },
-            {
-                "负面效果": [
-                    "治療-奪取治療"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "維克托 (Victor) C1",
@@ -55991,20 +44369,7 @@ window.allHeroes =
             "defense": 1144,
             "health": 2228
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：範圍",
-                    "傷害：持續傷害"
-                ]
-            },
-            {
-                "负面效果": [
-                    "治療-奪取治療",
-                    "防禦-防禦力↓"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "紫羅蘭帕茲 (Violet Potts)",
@@ -56058,29 +44423,7 @@ window.allHeroes =
             "defense": 1351,
             "health": 2296
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "傷害：持續傷害"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "召喚-超級召喚物"
-                ]
-            },
-            {
-                "增益效果": [
-                    "狀態-驅散增益"
-                ]
-            },
-            {
-                "负面效果": [
-                    "狀態-增益無效化",
-                    "傷害-持續傷害：流血"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "威斯卡洛 (Viscaro)",
@@ -56135,20 +44478,7 @@ window.allHeroes =
             "defense": 998,
             "health": 1724
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：全體"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "召喚-惡魔",
-                    "攻擊-穿透召喚物",
-                    "傷害-額外傷害"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "克拉伍德子爵 (Viscount Cluckwood)",
@@ -56198,18 +44528,7 @@ window.allHeroes =
             "defense": 1417,
             "health": 2669
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：全體"
-                ]
-            },
-            {
-                "负面效果": [
-                    "防禦-改變顏色/位置"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "虛無之星 (Voidstar)",
@@ -56264,24 +44583,7 @@ window.allHeroes =
             "defense": 1374,
             "health": 2237
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：單一目標",
-                    "治療：傷害量"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "攻擊-無視閃避"
-                ]
-            },
-            {
-                "增益效果": [
-                    "防禦-防禦↑：神聖"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "羅夫巴特 (Von Rothbart)",
@@ -56338,23 +44640,7 @@ window.allHeroes =
             "defense": 1297,
             "health": 2311
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：單一目標"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "傷害-爆炸"
-                ]
-            },
-            {
-                "负面效果": [
-                    "法力-混亂/沉默/睡眠"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "蠍子精 (Xie Zi Jing)",
@@ -56405,28 +44691,7 @@ window.allHeroes =
             "defense": 1203,
             "health": 2133
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "傷害：持續傷害"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "攻擊-無視閃避"
-                ]
-            },
-            {
-                "增益效果": [
-                    "狀態-驅散增益"
-                ]
-            },
-            {
-                "负面效果": [
-                    "傷害-持續傷害：毒"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "熊山君 (Xiong Shanjun)",
@@ -56478,25 +44743,7 @@ window.allHeroes =
             "defense": 1120,
             "health": 1998
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "治療：持續",
-                    "治療：提高生命"
-                ]
-            },
-            {
-                "增益效果": [
-                    "法力-法力生成↑"
-                ]
-            },
-            {
-                "负面效果": [
-                    "治療-最大生命值↓",
-                    "法力-法力生成↓/阻止"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "伊諾甫 (Xnolphod)",
@@ -56549,23 +44796,7 @@ window.allHeroes =
             "defense": 977,
             "health": 1701
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "治療：即時"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "法力-面板：法力生成"
-                ]
-            },
-            {
-                "增益效果": [
-                    "法力-法力恢復"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "伊諾甫 (Xnolphod) C1",
@@ -56620,23 +44851,7 @@ window.allHeroes =
             "defense": 1327,
             "health": 2191
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "治療：持續"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "法力-面板：法力生成"
-                ]
-            },
-            {
-                "增益效果": [
-                    "法力-法力恢復"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "伊莎貝爾 (Ysabel)",
@@ -56690,23 +44905,7 @@ window.allHeroes =
             "defense": 1363,
             "health": 2641
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：鄰近輕傷"
-                ]
-            },
-            {
-                "增益效果": [
-                    "狀態-驅散增益"
-                ]
-            },
-            {
-                "负面效果": [
-                    "防禦-防禦↓：特殊技能"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "扎耶德 (Zed)",
@@ -56760,24 +44959,7 @@ window.allHeroes =
             "defense": 1277,
             "health": 2049
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：單一目標"
-                ]
-            },
-            {
-                "增益效果": [
-                    "攻擊-暴擊率↑"
-                ]
-            },
-            {
-                "负面效果": [
-                    "治療-治療量↓",
-                    "防禦-防禦力↓"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "祖拉格 (Zulag)",
@@ -56828,19 +45010,7 @@ window.allHeroes =
             "defense": 965,
             "health": 1767
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "治療：持續"
-                ]
-            },
-            {
-                "增益效果": [
-                    "防禦-防禦力↑",
-                    "防禦-防禦↑：特殊技能"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "莎倫 (Sharan)",
@@ -57072,18 +45242,7 @@ window.allHeroes =
             "defense": 579,
             "health": 912
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：單一目標"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "法力-削減法力"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "阿薩爾 (Azar) C1",
@@ -57129,18 +45288,7 @@ window.allHeroes =
             "defense": 648,
             "health": 1031
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：範圍"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "法力-削減法力"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "阿薩爾 (Azar) 卡通",
@@ -57190,19 +45338,7 @@ window.allHeroes =
             "defense": 642,
             "health": 1080
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：單一目標"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "法力-削減法力",
-                    "傷害-傷害↑：自然"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "阿薩爾 (Azar) 玻璃",
@@ -57253,19 +45389,7 @@ window.allHeroes =
             "defense": 648,
             "health": 1101
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：單一目標"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "攻擊-穿透/繞過",
-                    "法力-削減法力"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "巴鬼格 (Bagreg)",
@@ -57320,18 +45444,7 @@ window.allHeroes =
             "defense": 564,
             "health": 1092
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：範圍"
-                ]
-            },
-            {
-                "负面效果": [
-                    "防禦-防禦↓：火焰"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "巴鬼格 (Bagreg) C1",
@@ -57387,18 +45500,7 @@ window.allHeroes =
             "defense": 696,
             "health": 1151
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：範圍"
-                ]
-            },
-            {
-                "负面效果": [
-                    "防禦-防禦↓：火焰"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "貝索 (Basil)",
@@ -57450,15 +45552,7 @@ window.allHeroes =
             "defense": 754,
             "health": 1095
         },
-        "cn_skill_info": [
-            {
-                "增益效果": [
-                    "防禦-反擊/反彈",
-                    "防禦-傷害分擔",
-                    "防禦-防禦力↑"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "波希恩 (Bauchan)",
@@ -57507,23 +45601,7 @@ window.allHeroes =
             "defense": 635,
             "health": 1163
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：全體"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "法力-削減法力"
-                ]
-            },
-            {
-                "增益效果": [
-                    "法力-法力生成↑"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "靴子 (Boots)",
@@ -57576,25 +45654,7 @@ window.allHeroes =
             "defense": 642,
             "health": 1343
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：範圍"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "傷害-爆炸"
-                ]
-            },
-            {
-                "负面效果": [
-                    "攻擊-枯萎：攻擊力↓",
-                    "防禦-枯萎：防禦力↓",
-                    "防禦-防禦力↓"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "剋星 (Buster)",
@@ -57643,23 +45703,7 @@ window.allHeroes =
             "defense": 632,
             "health": 1156
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：範圍"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "召喚-召喚物"
-                ]
-            },
-            {
-                "负面效果": [
-                    "防禦-受到傷害↑"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "但丁 (Dante)",
@@ -57718,24 +45762,7 @@ window.allHeroes =
             "defense": 662,
             "health": 993
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：全體",
-                    "傷害：持續傷害"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "攻擊-穿透/繞過"
-                ]
-            },
-            {
-                "负面效果": [
-                    "傷害-持續傷害：燃燒"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "艾-敦 (Ei-Dunn)",
@@ -57781,18 +45808,7 @@ window.allHeroes =
             "defense": 674,
             "health": 1192
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：範圍"
-                ]
-            },
-            {
-                "负面效果": [
-                    "法力-法力生成↓/阻止"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "艾-敦 (Ei-Dunn) C1",
@@ -57838,18 +45854,7 @@ window.allHeroes =
             "defense": 584,
             "health": 1245
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：全體"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "法力-削減法力"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "小鹿 (Fawn)",
@@ -57898,19 +45903,7 @@ window.allHeroes =
             "defense": 645,
             "health": 1360
         },
-        "cn_skill_info": [
-            {
-                "特殊效果": [
-                    "傷害-爆炸"
-                ]
-            },
-            {
-                "增益效果": [
-                    "防禦-閃避",
-                    "法力-法力恢復"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "霍克萌 (Hawkmoon)",
@@ -57953,13 +45946,7 @@ window.allHeroes =
             "defense": 625,
             "health": 893
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "治療：即時"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "霍克萌 (Hawkmoon) C1",
@@ -58005,18 +45992,7 @@ window.allHeroes =
             "defense": 674,
             "health": 999
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "治療：持續"
-                ]
-            },
-            {
-                "增益效果": [
-                    "攻擊-攻擊力↑"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "霍克萌 (Hawkmoon) 卡通",
@@ -58064,18 +46040,7 @@ window.allHeroes =
             "defense": 726,
             "health": 1071
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "治療：即時"
-                ]
-            },
-            {
-                "增益效果": [
-                    "防禦-防禦力↑"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "霍克萌 (Hawkmoon) 玻璃",
@@ -58123,18 +46088,7 @@ window.allHeroes =
             "defense": 725,
             "health": 1027
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "治療：即時"
-                ]
-            },
-            {
-                "增益效果": [
-                    "狀態-反彈負面效果"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "赫爾吉 (Helgi)",
@@ -58190,18 +46144,7 @@ window.allHeroes =
             "defense": 749,
             "health": 939
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：隨機"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "狀態-重置增益回合"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "賈漢吉 (Jahangir)",
@@ -58247,19 +46190,7 @@ window.allHeroes =
             "defense": 610,
             "health": 839
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：全體",
-                    "傷害：持續傷害"
-                ]
-            },
-            {
-                "负面效果": [
-                    "傷害-持續傷害：燃燒"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "賈漢吉 (Jahangir) C1",
@@ -58305,19 +46236,7 @@ window.allHeroes =
             "defense": 632,
             "health": 996
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：全體",
-                    "傷害：持續傷害"
-                ]
-            },
-            {
-                "负面效果": [
-                    "傷害-持續傷害：燃燒"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "賈漢吉 (Jahangir) 卡通",
@@ -58367,24 +46286,7 @@ window.allHeroes =
             "defense": 673,
             "health": 1129
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：全體",
-                    "傷害：持續傷害"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "傷害-傷害↑：自然"
-                ]
-            },
-            {
-                "负面效果": [
-                    "傷害-持續傷害：燃燒"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "賈漢吉 (Jahangir) 玻璃",
@@ -58434,24 +46336,7 @@ window.allHeroes =
             "defense": 683,
             "health": 1157
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：全體",
-                    "傷害：持續傷害"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "攻擊-穿透/繞過"
-                ]
-            },
-            {
-                "负面效果": [
-                    "傷害-持續傷害：燃燒"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "柯梅爾 (Kornel)",
@@ -58503,18 +46388,7 @@ window.allHeroes =
             "defense": 686,
             "health": 1124
         },
-        "cn_skill_info": [
-            {
-                "增益效果": [
-                    "攻擊-攻擊力↑"
-                ]
-            },
-            {
-                "负面效果": [
-                    "防禦-防禦力↓"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "李 (Li)",
@@ -58562,24 +46436,7 @@ window.allHeroes =
             "defense": 681,
             "health": 1139
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：全體",
-                    "傷害：持續傷害"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "召喚-召喚物"
-                ]
-            },
-            {
-                "负面效果": [
-                    "傷害-持續傷害：燃燒"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "劉唐 (Liu Tang)",
@@ -58635,19 +46492,7 @@ window.allHeroes =
             "defense": 783,
             "health": 1122
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：鄰近輕傷"
-                ]
-            },
-            {
-                "增益效果": [
-                    "防禦-嘲諷",
-                    "攻擊-暴擊率↑"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "生剝 (Namahage)",
@@ -58693,18 +46538,7 @@ window.allHeroes =
             "defense": 586,
             "health": 837
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：單一目標"
-                ]
-            },
-            {
-                "增益效果": [
-                    "攻擊-攻擊力↑"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "納什加 (Nashgar)",
@@ -58750,19 +46584,7 @@ window.allHeroes =
             "defense": 513,
             "health": 958
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：單一目標",
-                    "傷害：持續傷害"
-                ]
-            },
-            {
-                "负面效果": [
-                    "傷害-持續傷害：燃燒"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "納什加 (Nashgar) C1",
@@ -58808,19 +46630,7 @@ window.allHeroes =
             "defense": 528,
             "health": 1010
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：單一目標",
-                    "傷害：持續傷害"
-                ]
-            },
-            {
-                "负面效果": [
-                    "傷害-持續傷害：燃燒"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "納什加 (Nashgar) 卡通",
@@ -58870,24 +46680,7 @@ window.allHeroes =
             "defense": 568,
             "health": 1092
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：單一目標",
-                    "傷害：持續傷害"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "傷害-傷害↑：自然"
-                ]
-            },
-            {
-                "负面效果": [
-                    "傷害-持續傷害：燃燒"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "腓尼克斯 (Phoenicus)",
@@ -58933,14 +46726,7 @@ window.allHeroes =
             "defense": 730,
             "health": 1141
         },
-        "cn_skill_info": [
-            {
-                "增益效果": [
-                    "法力-法力生成↑",
-                    "攻擊-攻擊力↑"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "蘿絲波蒂 (Rosepetite)",
@@ -58991,24 +46777,7 @@ window.allHeroes =
             "defense": 756,
             "health": 1083
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：範圍",
-                    "傷害：持續傷害"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "傷害-額外傷害"
-                ]
-            },
-            {
-                "负面效果": [
-                    "傷害-持續傷害：毒"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "魯道夫 (Rudolph)",
@@ -59057,19 +46826,7 @@ window.allHeroes =
             "defense": 547,
             "health": 851
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：單一目標"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "法力-削減法力",
-                    "召喚-召喚物"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "魯佛斯 (Rufus)",
@@ -59121,20 +46878,7 @@ window.allHeroes =
             "defense": 654,
             "health": 1131
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：全體",
-                    "傷害：持續傷害"
-                ]
-            },
-            {
-                "负面效果": [
-                    "傷害-持續傷害：流血",
-                    "防禦-防禦力↓"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "史卡列科克 (Skrekok)",
@@ -59180,18 +46924,7 @@ window.allHeroes =
             "defense": 662,
             "health": 1068
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：範圍"
-                ]
-            },
-            {
-                "增益效果": [
-                    "攻擊-攻擊力↑"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "兔子侍從 (Squire Wabbit)",
@@ -59236,18 +46969,7 @@ window.allHeroes =
             "defense": 535,
             "health": 851
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：單一目標"
-                ]
-            },
-            {
-                "负面效果": [
-                    "狀態-自我減益"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "敏捷之星 (Starswift)",
@@ -59298,23 +47020,7 @@ window.allHeroes =
             "defense": 669,
             "health": 1097
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：範圍"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "攻擊-無視閃避"
-                ]
-            },
-            {
-                "增益效果": [
-                    "法力-法力生成↑"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "蘇德利 (Sudri)",
@@ -59359,18 +47065,7 @@ window.allHeroes =
             "defense": 679,
             "health": 1085
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：全體"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "傷害-額外傷害"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "伏勒馬 (Vollermork)",
@@ -59417,13 +47112,7 @@ window.allHeroes =
             "defense": 720,
             "health": 1034
         },
-        "cn_skill_info": [
-            {
-                "特殊效果": [
-                    "召喚-惡魔"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "伏勒馬 (Vollermork) C1",
@@ -59470,13 +47159,7 @@ window.allHeroes =
             "defense": 722,
             "health": 1095
         },
-        "cn_skill_info": [
-            {
-                "特殊效果": [
-                    "召喚-惡魔"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "瓦卡斯 (Waqas)",
@@ -59526,18 +47209,7 @@ window.allHeroes =
             "defense": 662,
             "health": 993
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：全體"
-                ]
-            },
-            {
-                "负面效果": [
-                    "治療-最大生命值↓"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "瓦卡斯 (Waqas) C1",
@@ -59589,18 +47261,7 @@ window.allHeroes =
             "defense": 625,
             "health": 1032
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：全體"
-                ]
-            },
-            {
-                "负面效果": [
-                    "治療-最大生命值↓"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "奧丹 (Aodhan)",
@@ -59657,24 +47318,7 @@ window.allHeroes =
             "defense": 861,
             "health": 1635
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：全體"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "召喚-惡魔"
-                ]
-            },
-            {
-                "增益效果": [
-                    "法力-疊加：法力生成↑",
-                    "治療-疊加：生命恢復"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "血牙 (Boldtusk)",
@@ -59720,18 +47364,7 @@ window.allHeroes =
             "defense": 896,
             "health": 1394
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "治療：即時"
-                ]
-            },
-            {
-                "增益效果": [
-                    "攻擊-攻擊力↑"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "血牙 (Boldtusk) C1",
@@ -59777,18 +47410,7 @@ window.allHeroes =
             "defense": 944,
             "health": 1565
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "治療：即時"
-                ]
-            },
-            {
-                "增益效果": [
-                    "攻擊-攻擊力↑"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "血牙 (Boldtusk) C2",
@@ -59835,19 +47457,7 @@ window.allHeroes =
             "defense": 1046,
             "health": 1602
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "治療：提高生命",
-                    "治療：持續"
-                ]
-            },
-            {
-                "增益效果": [
-                    "攻擊-攻擊力↑"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "血牙 (Boldtusk) 卡通",
@@ -59895,18 +47505,7 @@ window.allHeroes =
             "defense": 1055,
             "health": 1667
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "治療：即時"
-                ]
-            },
-            {
-                "增益效果": [
-                    "攻擊-攻擊力↑"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "血牙 (Boldtusk) 玻璃",
@@ -59958,19 +47557,7 @@ window.allHeroes =
             "defense": 1075,
             "health": 1702
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "治療：即時"
-                ]
-            },
-            {
-                "增益效果": [
-                    "狀態-反彈負面效果",
-                    "攻擊-攻擊力↑"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "卡蘿 (Carol)",
@@ -60019,15 +47606,7 @@ window.allHeroes =
             "defense": 813,
             "health": 1710
         },
-        "cn_skill_info": [
-            {
-                "特殊效果": [
-                    "法力-削減法力",
-                    "召喚-召喚物",
-                    "傷害-爆炸"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "西里安 (Cillian)",
@@ -60082,20 +47661,7 @@ window.allHeroes =
             "defense": 859,
             "health": 1627
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：範圍"
-                ]
-            },
-            {
-                "增益效果": [
-                    "法力-疊加：法力生成↑",
-                    "治療-疊加：生命恢復",
-                    "治療-自我復活"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "科倫 (Colen)",
@@ -60141,19 +47707,7 @@ window.allHeroes =
             "defense": 677,
             "health": 1378
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：全體",
-                    "傷害：持續傷害"
-                ]
-            },
-            {
-                "负面效果": [
-                    "傷害-持續傷害：燃燒"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "科倫 (Colen) C1",
@@ -60199,19 +47753,7 @@ window.allHeroes =
             "defense": 700,
             "health": 1554
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：全體",
-                    "傷害：持續傷害"
-                ]
-            },
-            {
-                "负面效果": [
-                    "傷害-持續傷害：燃燒"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "科倫 (Colen) C2",
@@ -60259,23 +47801,7 @@ window.allHeroes =
             "defense": 787,
             "health": 1657
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：範圍"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "傷害-傷害↑：自然"
-                ]
-            },
-            {
-                "负面效果": [
-                    "防禦-防禦↓：火焰"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "科倫 (Colen) 卡通",
@@ -60325,24 +47851,7 @@ window.allHeroes =
             "defense": 820,
             "health": 1665
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：全體",
-                    "傷害：持續傷害"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "傷害-傷害↑：自然"
-                ]
-            },
-            {
-                "负面效果": [
-                    "傷害-持續傷害：燃燒"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "科倫 (Colen) 玻璃",
@@ -60393,24 +47902,7 @@ window.allHeroes =
             "defense": 815,
             "health": 1662
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：全體",
-                    "傷害：持續傷害"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "攻擊-穿透/繞過"
-                ]
-            },
-            {
-                "负面效果": [
-                    "傷害-持續傷害：燃燒"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "易百伯 (Eichbelborg)",
@@ -60456,18 +47948,7 @@ window.allHeroes =
             "defense": 827,
             "health": 1659
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：單一目標"
-                ]
-            },
-            {
-                "负面效果": [
-                    "防禦-防禦力↓"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "費蘭特 (Ferant)",
@@ -60512,18 +47993,7 @@ window.allHeroes =
             "defense": 749,
             "health": 1857
         },
-        "cn_skill_info": [
-            {
-                "特殊效果": [
-                    "法力-削減法力"
-                ]
-            },
-            {
-                "增益效果": [
-                    "防禦-反擊/反彈"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "費蘭特 (Ferant) C1",
@@ -60572,18 +48042,7 @@ window.allHeroes =
             "defense": 791,
             "health": 2040
         },
-        "cn_skill_info": [
-            {
-                "特殊效果": [
-                    "法力-削減法力"
-                ]
-            },
-            {
-                "增益效果": [
-                    "防禦-反擊/反彈"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "戈莫克 (Gormek)",
@@ -60629,18 +48088,7 @@ window.allHeroes =
             "defense": 712,
             "health": 1801
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：鄰近輕傷"
-                ]
-            },
-            {
-                "负面效果": [
-                    "防禦-防禦力↓"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "戈莫克 (Gormek) C1",
@@ -60688,19 +48136,7 @@ window.allHeroes =
             "defense": 778,
             "health": 1922
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：全體",
-                    "治療：特殊"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "攻擊-摧毀召喚物"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "戈莫克 (Gormek) C2",
@@ -60746,18 +48182,7 @@ window.allHeroes =
             "defense": 793,
             "health": 1958
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：全體"
-                ]
-            },
-            {
-                "增益效果": [
-                    "狀態-驅散增益"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "戈莫克 (Gormek) 卡通",
@@ -60807,24 +48232,7 @@ window.allHeroes =
             "defense": 936,
             "health": 2076
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：鄰近輕傷"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "傷害-傷害↑：自然"
-                ]
-            },
-            {
-                "增益效果": [
-                    "攻擊-攻擊力↑",
-                    "狀態-驅散增益"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "戈莫克 (Gormek) 玻璃",
@@ -60875,23 +48283,7 @@ window.allHeroes =
             "defense": 948,
             "health": 2116
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：鄰近輕傷"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "攻擊-穿透/繞過"
-                ]
-            },
-            {
-                "负面效果": [
-                    "防禦-防禦力↓"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "飛鷹守護者 (Guardian Falcon)",
@@ -60937,18 +48329,7 @@ window.allHeroes =
             "defense": 950,
             "health": 1418
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：範圍"
-                ]
-            },
-            {
-                "负面效果": [
-                    "防禦-防禦↓：火焰"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "伊特海姆 (Itham)",
@@ -60999,23 +48380,7 @@ window.allHeroes =
             "defense": 886,
             "health": 1525
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：範圍"
-                ]
-            },
-            {
-                "增益效果": [
-                    "狀態-阻止負面效果"
-                ]
-            },
-            {
-                "负面效果": [
-                    "狀態-增益無效化"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "朱奈德 (Junaid)",
@@ -61065,14 +48430,7 @@ window.allHeroes =
             "defense": 722,
             "health": 1587
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "治療：傷害量",
-                    "攻擊：單一目標"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "朱奈德 (Junaid) C1",
@@ -61124,14 +48482,7 @@ window.allHeroes =
             "defense": 796,
             "health": 1678
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "治療：傷害量",
-                    "攻擊：單一目標"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "卡莉萊 (Kelile)",
@@ -61177,19 +48528,7 @@ window.allHeroes =
             "defense": 864,
             "health": 1177
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：單一目標",
-                    "傷害：持續傷害"
-                ]
-            },
-            {
-                "负面效果": [
-                    "傷害-持續傷害：燃燒"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "卡莉萊 (Kelile) C1",
@@ -61232,19 +48571,7 @@ window.allHeroes =
             "defense": 887,
             "health": 1265
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：全體",
-                    "傷害：持續傷害"
-                ]
-            },
-            {
-                "负面效果": [
-                    "傷害-持續傷害：燃燒"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "卡莉萊 (Kelile) C2",
@@ -61291,24 +48618,7 @@ window.allHeroes =
             "defense": 965,
             "health": 1431
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：範圍",
-                    "傷害：持續傷害"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "治療-透過傷害治療"
-                ]
-            },
-            {
-                "负面效果": [
-                    "傷害-持續傷害：燃燒"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "卡莉萊 (Kelile) 卡通",
@@ -61358,24 +48668,7 @@ window.allHeroes =
             "defense": 958,
             "health": 1468
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：單一目標",
-                    "傷害：持續傷害"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "傷害-傷害↑：自然"
-                ]
-            },
-            {
-                "负面效果": [
-                    "傷害-持續傷害：燃燒"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "卡莉萊 (Kelile) 玻璃",
@@ -61426,24 +48719,7 @@ window.allHeroes =
             "defense": 967,
             "health": 1489
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：單一目標",
-                    "傷害：持續傷害"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "攻擊-穿透/繞過"
-                ]
-            },
-            {
-                "负面效果": [
-                    "傷害-持續傷害：燃燒"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "勒明蓋寧 (Lemminkainen)",
@@ -61491,19 +48767,7 @@ window.allHeroes =
             "defense": 776,
             "health": 1790
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：鄰近輕傷",
-                    "傷害：持續傷害"
-                ]
-            },
-            {
-                "负面效果": [
-                    "傷害-持續傷害：燃燒"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "露西 (Lucy)",
@@ -61561,25 +48825,7 @@ window.allHeroes =
             "defense": 853,
             "health": 1638
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：全體",
-                    "攻擊：單一目標"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "法力-削減法力",
-                    "攻擊-額外攻擊"
-                ]
-            },
-            {
-                "增益效果": [
-                    "法力-法力生成↑"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "麥克 (Mack)",
@@ -61627,14 +48873,7 @@ window.allHeroes =
             "defense": 864,
             "health": 1571
         },
-        "cn_skill_info": [
-            {
-                "增益效果": [
-                    "防禦-反擊/反彈",
-                    "攻擊-攻擊力↑"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "麥克 (Mack) C1",
@@ -61682,14 +48921,7 @@ window.allHeroes =
             "defense": 900,
             "health": 1594
         },
-        "cn_skill_info": [
-            {
-                "增益效果": [
-                    "防禦-反擊/反彈",
-                    "攻擊-攻擊力↑"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "梅西根 (Maheegan)",
@@ -61740,18 +48972,7 @@ window.allHeroes =
             "defense": 848,
             "health": 1635
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：鄰近輕傷"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "召喚-惡魔"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "曼皮普 (Manpip)",
@@ -61807,24 +49028,7 @@ window.allHeroes =
             "defense": 915,
             "health": 1665
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：範圍",
-                    "傷害：持續傷害"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "狀態-替換為負面效果"
-                ]
-            },
-            {
-                "负面效果": [
-                    "傷害-持續傷害：燃燒"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "諾娃 (Nova)",
@@ -61879,19 +49083,7 @@ window.allHeroes =
             "defense": 910,
             "health": 1614
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "治療：即時",
-                    "治療：特殊"
-                ]
-            },
-            {
-                "负面效果": [
-                    "狀態-淨化狀態異常"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "勞爾 (Raul)",
@@ -61954,20 +49146,7 @@ window.allHeroes =
             "defense": 792,
             "health": 1509
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：範圍"
-                ]
-            },
-            {
-                "负面效果": [
-                    "法力-法力生成↓/阻止",
-                    "治療-治療量↓",
-                    "狀態-增益無效化"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "羅卡穆什 (Rokkamush)",
@@ -62016,19 +49195,7 @@ window.allHeroes =
             "defense": 829,
             "health": 1445
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：全體",
-                    "傷害：持續傷害"
-                ]
-            },
-            {
-                "负面效果": [
-                    "傷害-持續傷害：流血"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "羅卡穆什 (Rokkamush) C1",
@@ -62077,19 +49244,7 @@ window.allHeroes =
             "defense": 853,
             "health": 1472
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：全體",
-                    "傷害：持續傷害"
-                ]
-            },
-            {
-                "负面效果": [
-                    "傷害-持續傷害：流血"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "斯嘉麗 (Scarlett)",
@@ -62135,18 +49290,7 @@ window.allHeroes =
             "defense": 639,
             "health": 1309
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：鄰近輕傷"
-                ]
-            },
-            {
-                "负面效果": [
-                    "攻擊-攻擊力↓"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "斯嘉麗 (Scarlett) C1",
@@ -62195,24 +49339,7 @@ window.allHeroes =
             "defense": 721,
             "health": 1490
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：鄰近輕傷",
-                    "傷害：持續傷害"
-                ]
-            },
-            {
-                "增益效果": [
-                    "攻擊-攻擊力↑"
-                ]
-            },
-            {
-                "负面效果": [
-                    "傷害-持續傷害：毒"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "斯嘉麗 (Scarlett) C2",
@@ -62259,18 +49386,7 @@ window.allHeroes =
             "defense": 744,
             "health": 1611
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：鄰近輕傷"
-                ]
-            },
-            {
-                "负面效果": [
-                    "攻擊-攻擊力↓"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "斯嘉麗 (Scarlett) 卡通",
@@ -62320,23 +49436,7 @@ window.allHeroes =
             "defense": 823,
             "health": 1628
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：鄰近輕傷"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "傷害-傷害↑：自然"
-                ]
-            },
-            {
-                "负面效果": [
-                    "攻擊-攻擊力↓"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "影襲 (Shadereave)",
@@ -62387,19 +49487,7 @@ window.allHeroes =
             "defense": 800,
             "health": 1710
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "治療：復活"
-                ]
-            },
-            {
-                "增益效果": [
-                    "攻擊-暴擊率↑",
-                    "攻擊-攻擊力↑"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "頁岩 (Shale)",
@@ -62453,18 +49541,7 @@ window.allHeroes =
             "defense": 789,
             "health": 1793
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "治療：持續"
-                ]
-            },
-            {
-                "负面效果": [
-                    "狀態-淨化狀態異常"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "蘭斯洛特爵士 (Sir Lancelot)",
@@ -62513,19 +49590,7 @@ window.allHeroes =
             "defense": 671,
             "health": 1319
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：單一目標"
-                ]
-            },
-            {
-                "增益效果": [
-                    "法力-法力生成↑",
-                    "攻擊-攻擊力↑"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "住友 (Sumitomo)",
@@ -62574,19 +49639,7 @@ window.allHeroes =
             "defense": 797,
             "health": 1402
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：單一目標"
-                ]
-            },
-            {
-                "增益效果": [
-                    "防禦-反擊/反彈",
-                    "法力-法力恢復"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "住友 (Sumitomo) C1",
@@ -62635,19 +49688,7 @@ window.allHeroes =
             "defense": 873,
             "health": 1492
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：單一目標"
-                ]
-            },
-            {
-                "增益效果": [
-                    "防禦-反擊/反彈",
-                    "法力-法力恢復"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "蘇姆勒 (Sumle)",
@@ -62693,18 +49734,7 @@ window.allHeroes =
             "defense": 792,
             "health": 1357
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：全體"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "傷害-額外傷害"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "蘇姆勒 (Sumle) C1",
@@ -62750,18 +49780,7 @@ window.allHeroes =
             "defense": 827,
             "health": 1463
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：範圍"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "傷害-額外傷害"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "孫尚香 (Sun Shangxiang)",
@@ -62807,18 +49826,7 @@ window.allHeroes =
             "defense": 687,
             "health": 1541
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：鄰近輕傷"
-                ]
-            },
-            {
-                "负面效果": [
-                    "防禦-防禦力↓"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "馮萊納 (Vonreine)",
@@ -62872,23 +49880,7 @@ window.allHeroes =
             "defense": 856,
             "health": 1619
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：範圍"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "召喚-惡魔"
-                ]
-            },
-            {
-                "负面效果": [
-                    "法力-法力奪取"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "威爾伯 (Wilbur)",
@@ -62939,19 +49931,7 @@ window.allHeroes =
             "defense": 870,
             "health": 1440
         },
-        "cn_skill_info": [
-            {
-                "增益效果": [
-                    "防禦-傷害分擔",
-                    "防禦-防禦力↑"
-                ]
-            },
-            {
-                "负面效果": [
-                    "防禦-防禦力↓"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "威爾伯 (Wilbur) C1",
@@ -62997,18 +49977,7 @@ window.allHeroes =
             "defense": 853,
             "health": 1509
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "治療：持續"
-                ]
-            },
-            {
-                "增益效果": [
-                    "攻擊-攻擊力↑"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "扎博格 (Zhabog)",
@@ -63057,18 +50026,7 @@ window.allHeroes =
             "defense": 760,
             "health": 1788
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：單一目標"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "狀態-重置負面效果回合"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "周瑜 (Zhou Yu)",
@@ -63117,24 +50075,7 @@ window.allHeroes =
             "defense": 845,
             "health": 1683
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：單一目標",
-                    "傷害：持續傷害"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "召喚-召喚物"
-                ]
-            },
-            {
-                "负面效果": [
-                    "傷害-持續傷害：燃燒"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "周瑜 (Zhou Yu) C1",
@@ -63188,24 +50129,7 @@ window.allHeroes =
             "defense": 868,
             "health": 1756
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：單一目標",
-                    "傷害：持續傷害"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "召喚-召喚物"
-                ]
-            },
-            {
-                "负面效果": [
-                    "傷害-持續傷害：燃燒"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "阿比蓋爾 (Abigail)",
@@ -63261,26 +50185,7 @@ window.allHeroes =
             "defense": 1435,
             "health": 2506
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：全體",
-                    "傷害：持續傷害"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "召喚-召喚物"
-                ]
-            },
-            {
-                "负面效果": [
-                    "傷害-持續傷害：流血",
-                    "狀態-狂亂",
-                    "狀態-自我減益"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "埃斯勒高爾 (Aethslegaur)",
@@ -63341,25 +50246,7 @@ window.allHeroes =
             "defense": 1463,
             "health": 2837
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：單一目標"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "傷害-傷害↑：自然",
-                    "攻擊-無視閃避"
-                ]
-            },
-            {
-                "增益效果": [
-                    "防禦-閃避",
-                    "法力-疊加：法力生成↑"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "阿魯卡德 (Alucard)",
@@ -63414,21 +50301,7 @@ window.allHeroes =
             "defense": 990,
             "health": 1793
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：範圍"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "攻擊-穿透/繞過",
-                    "攻擊-摧毀召喚物",
-                    "法力-摧毀召喚物獲得法力",
-                    "治療-透過召喚物治療"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "阿魯卡德 (Alucard) C1",
@@ -63483,21 +50356,7 @@ window.allHeroes =
             "defense": 1200,
             "health": 2396
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：範圍"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "攻擊-穿透/繞過",
-                    "攻擊-摧毀召喚物",
-                    "法力-摧毀召喚物獲得法力",
-                    "治療-透過召喚物治療"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "安貝兒 (Amber)",
@@ -63548,23 +50407,7 @@ window.allHeroes =
             "defense": 1092,
             "health": 2082
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：單一目標"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "治療-透過傷害治療"
-                ]
-            },
-            {
-                "负面效果": [
-                    "治療-阻止治療"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "安迪杰 (Andy Jay)",
@@ -63617,18 +50460,7 @@ window.allHeroes =
             "defense": 1473,
             "health": 2705
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：全體"
-                ]
-            },
-            {
-                "增益效果": [
-                    "防禦-防禦力↑"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "安佐 (Anzogh)",
@@ -63678,14 +50510,7 @@ window.allHeroes =
             "defense": 977,
             "health": 1577
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "治療：傷害量",
-                    "攻擊：全體"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "雅拉迪亞 (Aradia)",
@@ -63735,20 +50560,7 @@ window.allHeroes =
             "defense": 1059,
             "health": 2291
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "傷害：持續傷害"
-                ]
-            },
-            {
-                "负面效果": [
-                    "治療-最大生命值↓",
-                    "治療-治療量↓",
-                    "傷害-持續傷害：燃燒"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "阿拉明塔 (Araminta)",
@@ -63803,23 +50615,7 @@ window.allHeroes =
             "defense": 1361,
             "health": 2684
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：全體"
-                ]
-            },
-            {
-                "增益效果": [
-                    "法力-法力恢復"
-                ]
-            },
-            {
-                "负面效果": [
-                    "防禦-疊加：受到傷害↑"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "阿瑞斯 (Ares)",
@@ -63869,19 +50665,7 @@ window.allHeroes =
             "defense": 914,
             "health": 1778
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "治療：持續"
-                ]
-            },
-            {
-                "增益效果": [
-                    "攻擊-暴擊率↑",
-                    "攻擊-攻擊力↑"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "阿瑞斯 (Ares) C1",
@@ -63935,20 +50719,7 @@ window.allHeroes =
             "defense": 1121,
             "health": 2581
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "治療：提高生命",
-                    "治療：持續"
-                ]
-            },
-            {
-                "增益效果": [
-                    "防禦-反擊/反彈",
-                    "攻擊-攻擊力↑"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "升等模仿怪 (Ascension Mimic)",
@@ -64014,30 +50785,7 @@ window.allHeroes =
             "defense": 1564,
             "health": 2654
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：範圍",
-                    "傷害：持續傷害"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "治療-自我恢復",
-                    "法力-法力恢復（擊殺）"
-                ]
-            },
-            {
-                "增益效果": [
-                    "防禦-擬態"
-                ]
-            },
-            {
-                "负面效果": [
-                    "傷害-持續傷害：流血"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "艾許 (Ash)",
@@ -64091,23 +50839,7 @@ window.allHeroes =
             "defense": 1318,
             "health": 2263
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：隨機"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "傷害-面板：提高傷害"
-                ]
-            },
-            {
-                "负面效果": [
-                    "防禦-防禦↓：火焰"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "亞斯泰利厄斯 (Asterius)",
@@ -64160,27 +50892,7 @@ window.allHeroes =
             "defense": 939,
             "health": 1671
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：範圍",
-                    "傷害：持續傷害"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "傷害-額外傷害",
-                    "傷害-額外傷害",
-                    "狀態-減少增益回合"
-                ]
-            },
-            {
-                "负面效果": [
-                    "傷害-持續傷害：燃燒",
-                    "防禦-防禦力↓"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "奧倫 (Aurum)",
@@ -64243,20 +50955,7 @@ window.allHeroes =
             "defense": 1407,
             "health": 2288
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：數量變化",
-                    "傷害：持續傷害"
-                ]
-            },
-            {
-                "负面效果": [
-                    "傷害-持續傷害：流血",
-                    "防禦-疊加：受到傷害↑"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "阿茲拉 (Azlar)",
@@ -64302,19 +51001,7 @@ window.allHeroes =
             "defense": 749,
             "health": 1630
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：全體",
-                    "傷害：持續傷害"
-                ]
-            },
-            {
-                "负面效果": [
-                    "傷害-持續傷害：燃燒"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "阿茲拉 (Azlar) C1",
@@ -64362,24 +51049,7 @@ window.allHeroes =
             "defense": 880,
             "health": 1813
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：範圍",
-                    "傷害：持續傷害"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "傷害-額外傷害"
-                ]
-            },
-            {
-                "负面效果": [
-                    "傷害-持續傷害：燃燒"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "阿茲拉 (Azlar) C2",
@@ -64426,24 +51096,7 @@ window.allHeroes =
             "defense": 998,
             "health": 2230
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：範圍",
-                    "傷害：持續傷害"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "治療-透過傷害治療"
-                ]
-            },
-            {
-                "负面效果": [
-                    "傷害-持續傷害：燃燒"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "阿茲拉 (Azlar) 卡通",
@@ -64493,24 +51146,7 @@ window.allHeroes =
             "defense": 1302,
             "health": 2655
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：全體",
-                    "傷害：持續傷害"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "傷害-傷害↑：自然"
-                ]
-            },
-            {
-                "负面效果": [
-                    "傷害-持續傷害：燃燒"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "阿茲拉 (Azlar) 玻璃",
@@ -64560,24 +51196,7 @@ window.allHeroes =
             "defense": 1466,
             "health": 2789
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：全體",
-                    "傷害：持續傷害"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "攻擊-穿透/繞過"
-                ]
-            },
-            {
-                "负面效果": [
-                    "傷害-持續傷害：燃燒"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "巴德爾 (Baldur)",
@@ -64629,19 +51248,7 @@ window.allHeroes =
             "defense": 858,
             "health": 1635
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：隨機",
-                    "治療：提高生命"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "攻擊-額外攻擊"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "巴德爾 (Baldur) C1",
@@ -64694,19 +51301,7 @@ window.allHeroes =
             "defense": 1144,
             "health": 2251
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：單一目標",
-                    "治療：提高生命"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "攻擊-額外攻擊"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "巴克利 (Barkley)",
@@ -64760,20 +51355,7 @@ window.allHeroes =
             "defense": 1005,
             "health": 1882
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：範圍",
-                    "攻擊：隨機"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "召喚-惡魔",
-                    "傷害-爆炸"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "博爾納德 (Bearnadette)",
@@ -64827,23 +51409,7 @@ window.allHeroes =
             "defense": 1397,
             "health": 2491
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：全體"
-                ]
-            },
-            {
-                "增益效果": [
-                    "狀態-驅散增益"
-                ]
-            },
-            {
-                "负面效果": [
-                    "防禦-改變顏色/位置"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "貝武夫 (Beowulf)",
@@ -64901,20 +51467,7 @@ window.allHeroes =
             "defense": 1366,
             "health": 2616
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "治療：即時",
-                    "攻擊：單一目標"
-                ]
-            },
-            {
-                "增益效果": [
-                    "攻擊-疊加：攻擊力↑",
-                    "法力-法力恢復"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "比瑪 (Bhima)",
@@ -64975,25 +51528,7 @@ window.allHeroes =
             "defense": 1475,
             "health": 2661
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：範圍"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "攻擊-無視閃避",
-                    "傷害-額外傷害"
-                ]
-            },
-            {
-                "负面效果": [
-                    "治療-最大生命值↓",
-                    "攻擊-命中率↓"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "黑凱撒 (Black Caesar)",
@@ -65045,23 +51580,7 @@ window.allHeroes =
             "defense": 1242,
             "health": 2197
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：全體"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "召喚-惡魔"
-                ]
-            },
-            {
-                "负面效果": [
-                    "攻擊-攻擊力↓"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "黑騎士 (Black Knight)",
@@ -65109,15 +51628,7 @@ window.allHeroes =
             "defense": 1043,
             "health": 1798
         },
-        "cn_skill_info": [
-            {
-                "增益效果": [
-                    "防禦-傷害減免",
-                    "防禦-嘲諷",
-                    "攻擊-攻擊力↑"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "黑騎士 (Black Knight) C1",
@@ -65166,15 +51677,7 @@ window.allHeroes =
             "defense": 1288,
             "health": 2499
         },
-        "cn_skill_info": [
-            {
-                "增益效果": [
-                    "防禦-傷害減免",
-                    "防禦-嘲諷",
-                    "攻擊-攻擊力↑"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "花魁 (Blossom)",
@@ -65228,19 +51731,7 @@ window.allHeroes =
             "defense": 1236,
             "health": 2329
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "治療：即時",
-                    "治療：特殊"
-                ]
-            },
-            {
-                "增益效果": [
-                    "狀態-驅散增益"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "碎骨仔 (Bonecrusher)",
@@ -65293,18 +51784,7 @@ window.allHeroes =
             "defense": 1038,
             "health": 1877
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：單一目標"
-                ]
-            },
-            {
-                "增益效果": [
-                    "攻擊-疊加：攻擊力↑"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "硫磺 (Brimstone)",
@@ -65364,28 +51844,7 @@ window.allHeroes =
             "defense": 1115,
             "health": 2176
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：全體"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "召喚-惡魔"
-                ]
-            },
-            {
-                "增益效果": [
-                    "防禦-防禦↑：冰霜"
-                ]
-            },
-            {
-                "负面效果": [
-                    "防禦-防禦↓：火焰"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "科斯特雷爾船長 (Captain Kestrel)",
@@ -65430,18 +51889,7 @@ window.allHeroes =
             "defense": 866,
             "health": 1668
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：範圍"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "傷害-額外傷害"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "尼莫船長 (Captain Nemo)",
@@ -65488,18 +51936,7 @@ window.allHeroes =
             "defense": 927,
             "health": 1645
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：單一目標"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "傷害-額外傷害"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "尼莫船長 (Captain Nemo) C1",
@@ -65548,18 +51985,7 @@ window.allHeroes =
             "defense": 1211,
             "health": 2166
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：單一目標"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "傷害-額外傷害"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "黎希留主教 (Cardinal Richelieu)",
@@ -65612,19 +52038,7 @@ window.allHeroes =
             "defense": 1071,
             "health": 2214
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：全體"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "召喚-惡魔",
-                    "狀態-偷取增益"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "卡麥塔德 (Carmenta)",
@@ -65675,19 +52089,7 @@ window.allHeroes =
             "defense": 1087,
             "health": 2219
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：鄰近輕傷"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "狀態-負面效果重新分配",
-                    "狀態-重置負面效果回合"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "賽瑞絲 (Ceris)",
@@ -65745,25 +52147,7 @@ window.allHeroes =
             "defense": 1488,
             "health": 2573
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：單一目標"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "攻擊-連鎖"
-                ]
-            },
-            {
-                "负面效果": [
-                    "法力-混亂/沉默/睡眠",
-                    "攻擊-枯萎：攻擊力↓",
-                    "防禦-枯萎：防禦力↓"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "夏洛塔 (Charlotta)",
@@ -65820,24 +52204,7 @@ window.allHeroes =
             "defense": 1244,
             "health": 2545
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：範圍"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "傷害-爆炸"
-                ]
-            },
-            {
-                "负面效果": [
-                    "法力-法力生成↓/阻止",
-                    "治療-治療量↓"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "夏米奧尼 (Charmione)",
@@ -65892,19 +52259,7 @@ window.allHeroes =
             "defense": 1394,
             "health": 2999
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：範圍"
-                ]
-            },
-            {
-                "负面效果": [
-                    "法力-麻痹",
-                    "狀態-吞噬黏液"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "強波 (Chomper)",
@@ -65956,20 +52311,7 @@ window.allHeroes =
             "defense": 1064,
             "health": 1874
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "治療：傷害量",
-                    "攻擊：範圍",
-                    "傷害：持續傷害"
-                ]
-            },
-            {
-                "负面效果": [
-                    "傷害-持續傷害：流血"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "查奇羅伊 (Chunkyroi)",
@@ -66025,20 +52367,7 @@ window.allHeroes =
             "defense": 1602,
             "health": 2512
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "治療：提高生命",
-                    "治療：即時",
-                    "治療：特殊"
-                ]
-            },
-            {
-                "负面效果": [
-                    "狀態-淨化狀態異常"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "灰姑娘 (Cinderella)",
@@ -66094,20 +52423,7 @@ window.allHeroes =
             "defense": 1267,
             "health": 2062
         },
-        "cn_skill_info": [
-            {
-                "增益效果": [
-                    "防禦-傷害分擔",
-                    "防禦-防禦力↑"
-                ]
-            },
-            {
-                "负面效果": [
-                    "防禦-防禦力↓",
-                    "狀態-淨化狀態異常"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "克里福 (Cleaver)",
@@ -66161,23 +52477,7 @@ window.allHeroes =
             "defense": 1064,
             "health": 1973
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：全體"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "召喚-惡魔"
-                ]
-            },
-            {
-                "负面效果": [
-                    "攻擊-攻擊力↓"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "庫奇 (Cookie)",
@@ -66226,20 +52526,7 @@ window.allHeroes =
             "defense": 1193,
             "health": 2054
         },
-        "cn_skill_info": [
-            {
-                "特殊效果": [
-                    "法力-削減法力",
-                    "召喚-召喚物",
-                    "傷害-爆炸"
-                ]
-            },
-            {
-                "负面效果": [
-                    "法力-法力生成↓/阻止"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "酷比特 (Cupido)",
@@ -66289,18 +52576,7 @@ window.allHeroes =
             "defense": 993,
             "health": 1905
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：範圍"
-                ]
-            },
-            {
-                "负面效果": [
-                    "法力-混亂/沉默/睡眠"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "達太安 (D Artagnan)",
@@ -66351,20 +52627,7 @@ window.allHeroes =
             "defense": 1028,
             "health": 1905
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "治療：持續",
-                    "攻擊：單一目標",
-                    "傷害：持續傷害"
-                ]
-            },
-            {
-                "负面效果": [
-                    "傷害-持續傷害：燃燒"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "惡魔 (Daemon)",
@@ -66418,24 +52681,7 @@ window.allHeroes =
             "defense": 1209,
             "health": 2133
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：單一目標"
-                ]
-            },
-            {
-                "增益效果": [
-                    "狀態-驅散增益"
-                ]
-            },
-            {
-                "负面效果": [
-                    "狀態-增益無效化",
-                    "狀態-天賦技能無效化"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "迪馬 (Dima)",
@@ -66490,25 +52736,7 @@ window.allHeroes =
             "defense": 1371,
             "health": 2420
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：範圍",
-                    "傷害：持續傷害"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "召喚-超級召喚物"
-                ]
-            },
-            {
-                "负面效果": [
-                    "傷害-持續傷害：流血",
-                    "防禦-防禦力↓"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "丹米維特斯 (Domiventus)",
@@ -66567,20 +52795,7 @@ window.allHeroes =
             "defense": 1221,
             "health": 2225
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：範圍",
-                    "傷害：持續傷害"
-                ]
-            },
-            {
-                "负面效果": [
-                    "傷害-持續傷害：燃燒",
-                    "防禦-防禦力↓"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "丹米維特斯 (Domiventus) C1",
@@ -66640,20 +52855,7 @@ window.allHeroes =
             "defense": 1596,
             "health": 2880
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：範圍",
-                    "傷害：持續傷害"
-                ]
-            },
-            {
-                "负面效果": [
-                    "傷害-持續傷害：燃燒",
-                    "防禦-防禦力↓"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "達森 (Doxan)",
@@ -66707,19 +52909,7 @@ window.allHeroes =
             "defense": 1021,
             "health": 2103
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：單一目標",
-                    "傷害：持續傷害"
-                ]
-            },
-            {
-                "负面效果": [
-                    "傷害-持續傷害：燃燒"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "鄧納爾哈特 (Dunnar Hart)",
@@ -66779,30 +52969,7 @@ window.allHeroes =
             "defense": 1529,
             "health": 2760
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：全體",
-                    "傷害：持續傷害"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "治療-自我恢復"
-                ]
-            },
-            {
-                "增益效果": [
-                    "法力-法力生成↑"
-                ]
-            },
-            {
-                "负面效果": [
-                    "傷害-持續傷害：燃燒",
-                    "防禦-防禦力↓"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "艾巴 (Ebba)",
@@ -66858,24 +53025,7 @@ window.allHeroes =
             "defense": 1056,
             "health": 1993
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：單一目標"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "攻擊-額外攻擊"
-                ]
-            },
-            {
-                "负面效果": [
-                    "狀態-增益無效化",
-                    "攻擊-攻擊力↓"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "艾爾杜克 (El Duque)",
@@ -66925,18 +53075,7 @@ window.allHeroes =
             "defense": 962,
             "health": 1826
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：鄰近輕傷"
-                ]
-            },
-            {
-                "负面效果": [
-                    "防禦-疊加：防禦力↓"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "艾巴 (Elba)",
@@ -66987,19 +53126,7 @@ window.allHeroes =
             "defense": 1168,
             "health": 2032
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "治療：特殊",
-                    "攻擊：範圍"
-                ]
-            },
-            {
-                "增益效果": [
-                    "防禦-反擊/反彈"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "艾琳娜 (Elena)",
@@ -67045,18 +53172,7 @@ window.allHeroes =
             "defense": 713,
             "health": 1617
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：全體"
-                ]
-            },
-            {
-                "增益效果": [
-                    "防禦-反擊/反彈"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "艾琳娜 (Elena) C1",
@@ -67102,18 +53218,7 @@ window.allHeroes =
             "defense": 779,
             "health": 1893
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：全體"
-                ]
-            },
-            {
-                "增益效果": [
-                    "防禦-反擊/反彈"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "艾琳娜 (Elena) C2",
@@ -67159,18 +53264,7 @@ window.allHeroes =
             "defense": 1047,
             "health": 2456
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：全體"
-                ]
-            },
-            {
-                "增益效果": [
-                    "防禦-反擊/反彈"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "艾琳娜 (Elena) 卡通",
@@ -67220,23 +53314,7 @@ window.allHeroes =
             "defense": 1385,
             "health": 2930
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：全體"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "傷害-傷害↑：自然"
-                ]
-            },
-            {
-                "增益效果": [
-                    "防禦-反擊/反彈"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "艾琳娜 (Elena) 玻璃",
@@ -67287,23 +53365,7 @@ window.allHeroes =
             "defense": 1155,
             "health": 3074
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：全體"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "攻擊-穿透/繞過"
-                ]
-            },
-            {
-                "增益效果": [
-                    "防禦-反擊/反彈"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "依蓮 (Eliane)",
@@ -67357,24 +53419,7 @@ window.allHeroes =
             "defense": 1366,
             "health": 2219
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：全體",
-                    "傷害：持續傷害"
-                ]
-            },
-            {
-                "增益效果": [
-                    "狀態-驅散增益"
-                ]
-            },
-            {
-                "负面效果": [
-                    "傷害-持續傷害：燃燒"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "伊麗莎白 (Elizabeth)",
@@ -67427,23 +53472,7 @@ window.allHeroes =
             "defense": 929,
             "health": 1785
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：全體"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "召喚-惡魔"
-                ]
-            },
-            {
-                "负面效果": [
-                    "法力-法力生成↓/阻止"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "伊麗莎白 (Elizabeth) C1",
@@ -67499,23 +53528,7 @@ window.allHeroes =
             "defense": 1218,
             "health": 2331
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：全體"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "召喚-惡魔"
-                ]
-            },
-            {
-                "负面效果": [
-                    "法力-法力生成↓/阻止"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "安玻 (Ember)",
@@ -67569,25 +53582,7 @@ window.allHeroes =
             "defense": 1526,
             "health": 2346
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：全體",
-                    "傷害：持續傷害"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "召喚-召喚物"
-                ]
-            },
-            {
-                "负面效果": [
-                    "傷害-持續傷害：燃燒",
-                    "防禦-防禦力↓"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "愛米洛 (Emilio)",
@@ -67642,29 +53637,7 @@ window.allHeroes =
             "defense": 990,
             "health": 1734
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "治療：持續",
-                    "傷害：持續傷害"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "攻擊-賭博/隨機效果"
-                ]
-            },
-            {
-                "增益效果": [
-                    "狀態-免疫狀態異常"
-                ]
-            },
-            {
-                "负面效果": [
-                    "傷害-持續傷害：燃燒"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "愛米洛 (Emilio) C1",
@@ -67721,29 +53694,7 @@ window.allHeroes =
             "defense": 1434,
             "health": 2880
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "治療：持續",
-                    "傷害：持續傷害"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "攻擊-賭博/隨機效果"
-                ]
-            },
-            {
-                "增益效果": [
-                    "狀態-免疫狀態異常"
-                ]
-            },
-            {
-                "负面效果": [
-                    "傷害-持續傷害：燃燒"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "艾瑞巴斯 (Erebus)",
@@ -67803,23 +53754,7 @@ window.allHeroes =
             "defense": 1008,
             "health": 1874
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：單一目標"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "攻擊-摧毀召喚物"
-                ]
-            },
-            {
-                "负面效果": [
-                    "狀態-阻止召喚物"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "伊朗恩 (Eron)",
@@ -67870,24 +53805,7 @@ window.allHeroes =
             "defense": 1320,
             "health": 2070
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：單一目標"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "傷害-傷害↑：神聖"
-                ]
-            },
-            {
-                "负面效果": [
-                    "法力-混亂/沉默/睡眠",
-                    "防禦-防禦力↓"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "經驗模仿怪 (Experience Mimic)",
@@ -67949,25 +53867,7 @@ window.allHeroes =
             "defense": 1524,
             "health": 2616
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：單一目標"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "攻擊-摧毀召喚物",
-                    "法力-法力恢復（擊殺）",
-                    "治療-自我恢復"
-                ]
-            },
-            {
-                "增益效果": [
-                    "防禦-擬態"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "菲瑪豐 (Fimafeng)",
@@ -68027,30 +53927,7 @@ window.allHeroes =
             "defense": 1490,
             "health": 2804
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：單一目標"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "攻擊-無視閃避",
-                    "傷害-傷害↑：火焰"
-                ]
-            },
-            {
-                "增益效果": [
-                    "法力-疊加：法力生成↑",
-                    "防禦-疊加：防禦力↑"
-                ]
-            },
-            {
-                "负面效果": [
-                    "狀態-淨化狀態異常"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "焰皮 (Flamehide)",
@@ -68102,24 +53979,7 @@ window.allHeroes =
             "defense": 1432,
             "health": 2669
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：單一目標",
-                    "傷害：持續傷害"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "召喚-超級召喚物"
-                ]
-            },
-            {
-                "负面效果": [
-                    "傷害-持續傷害：流血"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "弗利普 (Flip)",
@@ -68171,23 +54031,7 @@ window.allHeroes =
             "defense": 1069,
             "health": 1884
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "治療：即時"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "攻擊-穿透/繞過"
-                ]
-            },
-            {
-                "增益效果": [
-                    "攻擊-暴擊率↑"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "弗利普 (Flip) C1",
@@ -68239,23 +54083,7 @@ window.allHeroes =
             "defense": 1531,
             "health": 2757
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "治療：即時"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "攻擊-穿透/繞過"
-                ]
-            },
-            {
-                "增益效果": [
-                    "攻擊-暴擊率↑"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "芙維亞 (Fulvia)",
@@ -68307,24 +54135,7 @@ window.allHeroes =
             "defense": 1247,
             "health": 1902
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：範圍"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "傷害-傷害↑：神聖"
-                ]
-            },
-            {
-                "负面效果": [
-                    "治療-治療量↓",
-                    "法力-法力生成↓/阻止"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "紅榴 (Garnet)",
@@ -68378,18 +54189,7 @@ window.allHeroes =
             "defense": 927,
             "health": 1826
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "治療：提高生命"
-                ]
-            },
-            {
-                "增益效果": [
-                    "狀態-免疫狀態異常"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "潔芙蓉 (Gefjon)",
@@ -68435,18 +54235,7 @@ window.allHeroes =
             "defense": 944,
             "health": 1551
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：單一目標"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "攻擊-偷取召喚物"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "潔芙蓉 (Gefjon) C1",
@@ -68492,18 +54281,7 @@ window.allHeroes =
             "defense": 1218,
             "health": 2131
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：範圍"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "攻擊-摧毀召喚物"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "蓋斯托特 (Gestalt)",
@@ -68565,24 +54343,7 @@ window.allHeroes =
             "defense": 1170,
             "health": 2219
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：隨機"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "傷害-爆炸"
-                ]
-            },
-            {
-                "负面效果": [
-                    "法力-法力生成↓/阻止",
-                    "防禦-防禦力↓"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "蓋斯托特 (Gestalt) C1",
@@ -68645,24 +54406,7 @@ window.allHeroes =
             "defense": 1120,
             "health": 2169
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：隨機"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "傷害-爆炸"
-                ]
-            },
-            {
-                "负面效果": [
-                    "法力-法力生成↓/阻止",
-                    "防禦-防禦力↓"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "古茲 (Gooze)",
@@ -68715,23 +54459,7 @@ window.allHeroes =
             "defense": 1478,
             "health": 2948
         },
-        "cn_skill_info": [
-            {
-                "特殊效果": [
-                    "狀態-偷取增益"
-                ]
-            },
-            {
-                "增益效果": [
-                    "防禦-防禦力↑"
-                ]
-            },
-            {
-                "负面效果": [
-                    "狀態-狂亂"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "造墓人 (Gravemaker)",
@@ -68782,23 +54510,7 @@ window.allHeroes =
             "defense": 873,
             "health": 1681
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：範圍"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "傷害-傷害↑：自然"
-                ]
-            },
-            {
-                "负面效果": [
-                    "傷害-持續傷害：燃燒"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "造墓人 (Gravemaker) C1",
@@ -68850,23 +54562,7 @@ window.allHeroes =
             "defense": 1104,
             "health": 2485
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：全體"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "傷害-傷害↑：自然"
-                ]
-            },
-            {
-                "负面效果": [
-                    "傷害-持續傷害：燃燒"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "格拉祖 (Grazul)",
@@ -68916,18 +54612,7 @@ window.allHeroes =
             "defense": 1008,
             "health": 1734
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "治療：即時"
-                ]
-            },
-            {
-                "增益效果": [
-                    "狀態-免疫狀態異常"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "金剛守護者 (Guardian Kong)",
@@ -68976,23 +54661,7 @@ window.allHeroes =
             "defense": 723,
             "health": 1767
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：全體"
-                ]
-            },
-            {
-                "增益效果": [
-                    "防禦-防禦↑：冰霜"
-                ]
-            },
-            {
-                "负面效果": [
-                    "狀態-淨化狀態異常"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "金剛守護者 (Guardian Kong) C1",
@@ -69042,19 +54711,7 @@ window.allHeroes =
             "defense": 917,
             "health": 2420
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：全體"
-                ]
-            },
-            {
-                "增益效果": [
-                    "防禦-反擊/反彈：冰霜",
-                    "狀態-驅散增益"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "格法 (Guffa)",
@@ -69109,19 +54766,7 @@ window.allHeroes =
             "defense": 1371,
             "health": 2641
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "治療：特殊"
-                ]
-            },
-            {
-                "增益效果": [
-                    "防禦-傷害減免",
-                    "防禦-嘲諷"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "錘響 (Hammerclang)",
@@ -69176,24 +54821,7 @@ window.allHeroes =
             "defense": 1297,
             "health": 2070
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：鄰近輕傷"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "攻擊-無視閃避"
-                ]
-            },
-            {
-                "负面效果": [
-                    "防禦-受到傷害↑",
-                    "攻擊-攻擊力↓"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "哈索爾 (Hathor)",
@@ -69243,18 +54871,7 @@ window.allHeroes =
             "defense": 980,
             "health": 1986
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "治療：即時"
-                ]
-            },
-            {
-                "增益效果": [
-                    "狀態-免疫狀態異常"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "哈索爾 (Hathor) C1",
@@ -69308,19 +54925,7 @@ window.allHeroes =
             "defense": 1395,
             "health": 2813
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "治療：持續",
-                    "治療：提高生命"
-                ]
-            },
-            {
-                "增益效果": [
-                    "狀態-免疫狀態異常"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "侯漢沃夫 (Hohenwerf)",
@@ -69373,24 +54978,7 @@ window.allHeroes =
             "defense": 988,
             "health": 1851
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：單一目標"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "召喚-惡魔",
-                    "傷害-爆炸"
-                ]
-            },
-            {
-                "负面效果": [
-                    "法力-混亂/沉默/睡眠"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "牛角非爾 (Hornfel)",
@@ -69447,18 +55035,7 @@ window.allHeroes =
             "defense": 1369,
             "health": 2308
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：鄰近輕傷"
-                ]
-            },
-            {
-                "增益效果": [
-                    "攻擊-攻擊力↑"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "希波諾斯 (Hypnos)",
@@ -69520,23 +55097,7 @@ window.allHeroes =
             "defense": 962,
             "health": 1854
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：全體"
-                ]
-            },
-            {
-                "增益效果": [
-                    "狀態-驅散增益"
-                ]
-            },
-            {
-                "负面效果": [
-                    "狀態-增益無效化"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "拉萊斯 (Iarlaith)",
@@ -69588,23 +55149,7 @@ window.allHeroes =
             "defense": 1445,
             "health": 2679
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：單一目標"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "傷害-額外傷害"
-                ]
-            },
-            {
-                "负面效果": [
-                    "防禦-疊加：受到傷害↑"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "伊格納吉歐 (Ignazio)",
@@ -69662,24 +55207,7 @@ window.allHeroes =
             "defense": 1140,
             "health": 2283
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "治療：即時",
-                    "治療：特殊"
-                ]
-            },
-            {
-                "增益效果": [
-                    "防禦-防禦力↑"
-                ]
-            },
-            {
-                "负面效果": [
-                    "狀態-淨化狀態異常"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "伊格納吉歐 (Ignazio) C1",
@@ -69737,24 +55265,7 @@ window.allHeroes =
             "defense": 1547,
             "health": 3092
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "治療：即時",
-                    "治療：特殊"
-                ]
-            },
-            {
-                "增益效果": [
-                    "攻擊-攻擊力↑"
-                ]
-            },
-            {
-                "负面效果": [
-                    "狀態-淨化狀態異常"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "伊瑪利南 (Ilmarinen)",
@@ -69805,23 +55316,7 @@ window.allHeroes =
             "defense": 1143,
             "health": 2212
         },
-        "cn_skill_info": [
-            {
-                "特殊效果": [
-                    "法力-削減法力"
-                ]
-            },
-            {
-                "增益效果": [
-                    "防禦-傷害分擔"
-                ]
-            },
-            {
-                "负面效果": [
-                    "防禦-防禦力↓"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "約坎塔 (Iocantha)",
@@ -69874,19 +55369,7 @@ window.allHeroes =
             "defense": 1330,
             "health": 2341
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：隨機"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "攻擊-穿透/繞過",
-                    "狀態-減少增益回合"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "伊西多爾 (Isidore)",
@@ -69941,19 +55424,7 @@ window.allHeroes =
             "defense": 1379,
             "health": 2661
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：隨機"
-                ]
-            },
-            {
-                "负面效果": [
-                    "防禦-防禦↓：特殊技能",
-                    "治療-治療量↓"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "伊斯羅德 (Isrod)",
@@ -70002,19 +55473,7 @@ window.allHeroes =
             "defense": 947,
             "health": 1755
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：範圍"
-                ]
-            },
-            {
-                "增益效果": [
-                    "防禦-反擊/反彈",
-                    "法力-法力恢復"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "尚-方思瓦 (Jean-Francois)",
@@ -70065,25 +55524,7 @@ window.allHeroes =
             "defense": 891,
             "health": 1643
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "傷害：持續傷害"
-                ]
-            },
-            {
-                "增益效果": [
-                    "狀態-阻止負面效果",
-                    "防禦-防禦↑：冰霜",
-                    "防禦-防禦力↑"
-                ]
-            },
-            {
-                "负面效果": [
-                    "傷害-持續傷害：燃燒"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "卡甘 (Khagan)",
@@ -70132,19 +55573,7 @@ window.allHeroes =
             "defense": 792,
             "health": 1798
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：範圍"
-                ]
-            },
-            {
-                "增益效果": [
-                    "法力-法力生成↑",
-                    "防禦-防禦力↑"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "卡甘 (Khagan) C1",
@@ -70193,19 +55622,7 @@ window.allHeroes =
             "defense": 917,
             "health": 1936
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：單一目標"
-                ]
-            },
-            {
-                "增益效果": [
-                    "法力-法力生成↑",
-                    "防禦-防禦力↑"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "卡甘 (Khagan) C2",
@@ -70254,19 +55671,7 @@ window.allHeroes =
             "defense": 1060,
             "health": 2453
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：全體"
-                ]
-            },
-            {
-                "增益效果": [
-                    "法力-法力恢復",
-                    "防禦-防禦力↑"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "卡甘 (Khagan) 卡通",
@@ -70319,24 +55724,7 @@ window.allHeroes =
             "defense": 1188,
             "health": 2978
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：範圍"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "傷害-傷害↑：自然"
-                ]
-            },
-            {
-                "增益效果": [
-                    "法力-法力生成↑",
-                    "防禦-防禦力↑"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "卡甘 (Khagan) 玻璃",
@@ -70390,24 +55778,7 @@ window.allHeroes =
             "defense": 1333,
             "health": 3127
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：範圍"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "攻擊-穿透/繞過"
-                ]
-            },
-            {
-                "增益效果": [
-                    "法力-法力生成↑",
-                    "防禦-防禦力↑"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "庫夫 (Khufu)",
@@ -70460,23 +55831,7 @@ window.allHeroes =
             "defense": 988,
             "health": 1958
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：單一目標"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "攻擊-連鎖"
-                ]
-            },
-            {
-                "负面效果": [
-                    "防禦-防禦↓：火焰"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "庫夫 (Khufu) C1",
@@ -70530,23 +55885,7 @@ window.allHeroes =
             "defense": 1356,
             "health": 2743
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：單一目標"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "攻擊-連鎖"
-                ]
-            },
-            {
-                "负面效果": [
-                    "防禦-防禦↓：火焰"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "克拉夫克魯許 (Kravekrush)",
@@ -70595,18 +55934,7 @@ window.allHeroes =
             "defense": 957,
             "health": 1737
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：鄰近輕傷"
-                ]
-            },
-            {
-                "负面效果": [
-                    "治療-阻止復活"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "克拉夫克魯許 (Kravekrush) C1",
@@ -70656,18 +55984,7 @@ window.allHeroes =
             "defense": 1224,
             "health": 2396
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：鄰近輕傷"
-                ]
-            },
-            {
-                "负面效果": [
-                    "治療-阻止復活"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "洛基夫人 (Lady Loki)",
@@ -70715,19 +56032,7 @@ window.allHeroes =
             "defense": 957,
             "health": 1617
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：全體"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "狀態-負面效果重新分配",
-                    "傷害-額外傷害"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "洛基夫人 (Lady Loki) C1",
@@ -70775,19 +56080,7 @@ window.allHeroes =
             "defense": 1349,
             "health": 2182
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：全體"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "狀態-負面效果重新分配",
-                    "傷害-額外傷害"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "拉薩爾 (Lasalle)",
@@ -70848,18 +56141,7 @@ window.allHeroes =
             "defense": 1049,
             "health": 1976
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：單一目標"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "召喚-惡魔"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "拉薩爾 (Lasalle) C1",
@@ -70920,18 +56202,7 @@ window.allHeroes =
             "defense": 1497,
             "health": 2791
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：全體"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "召喚-惡魔"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "雷玟娜 (Lewena)",
@@ -70978,18 +56249,7 @@ window.allHeroes =
             "defense": 985,
             "health": 1727
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：全體"
-                ]
-            },
-            {
-                "负面效果": [
-                    "狀態-天賦技能無效化"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "李逵 (Li Kui)",
@@ -71049,20 +56309,7 @@ window.allHeroes =
             "defense": 1590,
             "health": 2758
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：隨機"
-                ]
-            },
-            {
-                "增益效果": [
-                    "防禦-傷害減免",
-                    "防禦-嘲諷",
-                    "攻擊-暴擊率↑"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "羅迪厄斯 (Lodius)",
@@ -71113,30 +56360,7 @@ window.allHeroes =
             "defense": 1280,
             "health": 1973
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：單一目標",
-                    "治療：傷害量"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "傷害-傷害↑：神聖",
-                    "攻擊-無視閃避"
-                ]
-            },
-            {
-                "增益效果": [
-                    "防禦-反擊/反彈"
-                ]
-            },
-            {
-                "负面效果": [
-                    "法力-法力生成↓/阻止"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "瘋狂鐵鎚 (Madhammer)",
@@ -71191,25 +56415,7 @@ window.allHeroes =
             "defense": 1143,
             "health": 2085
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：單一目標"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "攻擊-額外攻擊",
-                    "召喚-超級召喚物",
-                    "攻擊-賭博/隨機效果"
-                ]
-            },
-            {
-                "负面效果": [
-                    "狀態-阻止淨化"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "馬勒姆 (Malum)",
@@ -71275,25 +56481,7 @@ window.allHeroes =
             "defense": 1363,
             "health": 1841
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：範圍",
-                    "傷害：持續傷害"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "攻擊-穿透/繞過"
-                ]
-            },
-            {
-                "负面效果": [
-                    "治療-最大生命值↓",
-                    "治療-阻止治療"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "馬里亞娜 (Marjana)",
@@ -71339,18 +56527,7 @@ window.allHeroes =
             "defense": 878,
             "health": 1732
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：單一目標"
-                ]
-            },
-            {
-                "负面效果": [
-                    "傷害-持續傷害：燃燒"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "馬里亞娜 (Marjana) C1",
@@ -71399,19 +56576,7 @@ window.allHeroes =
             "defense": 935,
             "health": 1899
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：鄰近輕傷"
-                ]
-            },
-            {
-                "负面效果": [
-                    "攻擊-攻擊力↓",
-                    "防禦-防禦↓：火焰"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "馬里亞娜 (Marjana) C2",
@@ -71460,19 +56625,7 @@ window.allHeroes =
             "defense": 1068,
             "health": 2420
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：範圍"
-                ]
-            },
-            {
-                "负面效果": [
-                    "傷害-持續傷害：燃燒",
-                    "防禦-防禦力↓"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "馬里亞娜 (Marjana) 卡通",
@@ -71522,23 +56675,7 @@ window.allHeroes =
             "defense": 1342,
             "health": 2857
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：單一目標"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "傷害-傷害↑：自然"
-                ]
-            },
-            {
-                "负面效果": [
-                    "傷害-持續傷害：燃燒"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "馬里亞娜 (Marjana) 玻璃",
@@ -71589,23 +56726,7 @@ window.allHeroes =
             "defense": 1426,
             "health": 2906
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：單一目標"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "攻擊-穿透/繞過"
-                ]
-            },
-            {
-                "负面效果": [
-                    "傷害-持續傷害：燃燒"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "光子 (Mitsuko)",
@@ -71655,23 +56776,7 @@ window.allHeroes =
             "defense": 896,
             "health": 1788
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：範圍"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "法力-削減法力"
-                ]
-            },
-            {
-                "增益效果": [
-                    "防禦-反擊/反彈：冰霜"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "光子 (Mitsuko) C1",
@@ -71721,23 +56826,7 @@ window.allHeroes =
             "defense": 1066,
             "health": 2354
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：全體"
-                ]
-            },
-            {
-                "增益效果": [
-                    "防禦-反擊/反彈：冰霜"
-                ]
-            },
-            {
-                "负面效果": [
-                    "法力-法力生成↓/阻止"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "納德茲達 (Nadezhda)",
@@ -71798,27 +56887,7 @@ window.allHeroes =
             "defense": 965,
             "health": 1783
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "治療：持續",
-                    "治療：復活",
-                    "攻擊：範圍",
-                    "傷害：持續傷害"
-                ]
-            },
-            {
-                "增益效果": [
-                    "治療-自我復活",
-                    "防禦-傷害減免"
-                ]
-            },
-            {
-                "负面效果": [
-                    "傷害-持續傷害：燃燒"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "納德茲達 (Nadezhda) C1",
@@ -71881,25 +56950,7 @@ window.allHeroes =
             "defense": 1499,
             "health": 2774
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "治療：持續",
-                    "治療：復活"
-                ]
-            },
-            {
-                "增益效果": [
-                    "防禦-傷害減免",
-                    "治療-自我復活"
-                ]
-            },
-            {
-                "负面效果": [
-                    "傷害-持續傷害：燃燒"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "那伊姆 (Naeem)",
@@ -71957,29 +57008,7 @@ window.allHeroes =
             "defense": 1508,
             "health": 2697
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：範圍",
-                    "傷害：持續傷害"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "狀態-替換為負面效果"
-                ]
-            },
-            {
-                "增益效果": [
-                    "防禦-反擊/反彈"
-                ]
-            },
-            {
-                "负面效果": [
-                    "傷害-持續傷害：沙"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "娜塔莉亞 (Natalya)",
@@ -72029,24 +57058,7 @@ window.allHeroes =
             "defense": 838,
             "health": 1750
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "傷害：持續傷害"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "傷害-傷害↑：自然"
-                ]
-            },
-            {
-                "负面效果": [
-                    "法力-法力生成↓/阻止",
-                    "傷害-持續傷害：燃燒"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "娜塔莉亞 (Natalya) C1",
@@ -72099,24 +57111,7 @@ window.allHeroes =
             "defense": 1066,
             "health": 2496
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "傷害：持續傷害"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "傷害-傷害↑：自然"
-                ]
-            },
-            {
-                "负面效果": [
-                    "法力-法力生成↓/阻止",
-                    "傷害-持續傷害：燃燒"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "尼瑪 (Neema)",
@@ -72172,23 +57167,7 @@ window.allHeroes =
             "defense": 1117,
             "health": 1981
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：全體"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "召喚-惡魔"
-                ]
-            },
-            {
-                "负面效果": [
-                    "狀態-增益無效化"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "咬咬 (Nibbles)",
@@ -72240,19 +57219,7 @@ window.allHeroes =
             "defense": 1450,
             "health": 2664
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "治療：即時",
-                    "治療：持續"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "狀態-偷取增益"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "妮基 (Niki)",
@@ -72306,19 +57273,7 @@ window.allHeroes =
             "defense": 1277,
             "health": 2260
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：全體",
-                    "治療：特殊"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "攻擊-無視閃避"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "游牧者 (Nomad)",
@@ -72380,24 +57335,7 @@ window.allHeroes =
             "defense": 1315,
             "health": 2052
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：數量變化"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "傷害-額外傷害",
-                    "攻擊-穿透召喚物"
-                ]
-            },
-            {
-                "增益效果": [
-                    "法力-法力生成↑"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "努爾 (Noor)",
@@ -72450,19 +57388,7 @@ window.allHeroes =
             "defense": 965,
             "health": 1620
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "治療：即時"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "召喚-召喚物",
-                    "攻擊-摧毀召喚物"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "諾曼 (Norman)",
@@ -72514,19 +57440,7 @@ window.allHeroes =
             "defense": 1224,
             "health": 2077
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：全體"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "攻擊-穿透/繞過",
-                    "攻擊-無視閃避"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "歐什努斯 (Oceanus)",
@@ -72575,19 +57489,7 @@ window.allHeroes =
             "defense": 906,
             "health": 1724
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：全體"
-                ]
-            },
-            {
-                "增益效果": [
-                    "攻擊-攻擊力↑",
-                    "防禦-防禦力↑"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "阿克托斯 (Octros)",
@@ -72637,23 +57539,7 @@ window.allHeroes =
             "defense": 982,
             "health": 1722
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：全體"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "傷害-額外傷害"
-                ]
-            },
-            {
-                "负面效果": [
-                    "攻擊-攻擊力↓"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "阿克托斯 (Octros) C1",
@@ -72705,23 +57591,7 @@ window.allHeroes =
             "defense": 1280,
             "health": 2122
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：全體"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "傷害-額外傷害"
-                ]
-            },
-            {
-                "负面效果": [
-                    "攻擊-攻擊力↓"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "預兆 (Omen)",
@@ -72776,23 +57646,7 @@ window.allHeroes =
             "defense": 1369,
             "health": 2471
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：單一目標"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "召喚-惡魔"
-                ]
-            },
-            {
-                "负面效果": [
-                    "狀態-狂亂"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "歐第斯 (Otis)",
@@ -72845,20 +57699,7 @@ window.allHeroes =
             "defense": 1071,
             "health": 1925
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：全體",
-                    "傷害：持續傷害"
-                ]
-            },
-            {
-                "负面效果": [
-                    "治療-治療量↓",
-                    "傷害-持續傷害：流血"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "奧提莉亞 (Ottilia)",
@@ -72910,20 +57751,7 @@ window.allHeroes =
             "defense": 1356,
             "health": 2499
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：單一目標"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "狀態-偷取增益",
-                    "召喚-召喚物",
-                    "治療-自我恢復"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "胡椒火焰 (Pepperflame)",
@@ -72976,28 +57804,7 @@ window.allHeroes =
             "defense": 1176,
             "health": 2026
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：鄰近輕傷"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "傷害-爆炸"
-                ]
-            },
-            {
-                "增益效果": [
-                    "防禦-成長：防禦力↑"
-                ]
-            },
-            {
-                "负面效果": [
-                    "防禦-防禦力↓"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "菲妮克莎 (Phenexa)",
@@ -73051,24 +57858,7 @@ window.allHeroes =
             "defense": 1049,
             "health": 1932
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "治療：即時"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "狀態-重置增益回合"
-                ]
-            },
-            {
-                "增益效果": [
-                    "攻擊-暴擊率↑",
-                    "攻擊-攻擊力↑"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "普勒斯 (Pluth)",
@@ -73123,23 +57913,7 @@ window.allHeroes =
             "defense": 1526,
             "health": 2326
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：全體"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "狀態-重置負面效果回合"
-                ]
-            },
-            {
-                "负面效果": [
-                    "防禦-改變顏色/位置"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "靴子貓咪 (Puss in Boots)",
@@ -73190,23 +57964,7 @@ window.allHeroes =
             "defense": 896,
             "health": 1630
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "治療：持續"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "召喚-召喚物"
-                ]
-            },
-            {
-                "增益效果": [
-                    "攻擊-攻擊力↑"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "靴子貓咪 (Puss in Boots) C1",
@@ -73257,23 +58015,7 @@ window.allHeroes =
             "defense": 967,
             "health": 2293
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "治療：持續"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "召喚-召喚物"
-                ]
-            },
-            {
-                "增益效果": [
-                    "攻擊-攻擊力↑"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "紅心皇后 (Queen of Hearts)",
@@ -73324,24 +58066,7 @@ window.allHeroes =
             "defense": 899,
             "health": 1905
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：範圍"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "召喚-召喚物"
-                ]
-            },
-            {
-                "增益效果": [
-                    "防禦-嘲諷",
-                    "防禦-防禦↑：特殊技能"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "紅心皇后 (Queen of Hearts) C1",
@@ -73394,24 +58119,7 @@ window.allHeroes =
             "defense": 1208,
             "health": 2683
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：範圍"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "召喚-召喚物"
-                ]
-            },
-            {
-                "增益效果": [
-                    "防禦-嘲諷",
-                    "防禦-防禦↑：特殊技能"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "拉傑許 (Rajesh)",
@@ -73476,25 +58184,7 @@ window.allHeroes =
             "defense": 1455,
             "health": 2616
         },
-        "cn_skill_info": [
-            {
-                "特殊效果": [
-                    "攻擊-穿透/繞過"
-                ]
-            },
-            {
-                "增益效果": [
-                    "狀態-阻止負面效果",
-                    "攻擊-疊加：攻擊力↑",
-                    "法力-法力恢復"
-                ]
-            },
-            {
-                "负面效果": [
-                    "狀態-淨化狀態異常"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "瑞森 (Rashan)",
@@ -73545,19 +58235,7 @@ window.allHeroes =
             "defense": 1391,
             "health": 2458
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：兩側"
-                ]
-            },
-            {
-                "负面效果": [
-                    "治療-阻止治療",
-                    "狀態-狂亂"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "雷 (Ray)",
@@ -73626,26 +58304,7 @@ window.allHeroes =
             "defense": 1120,
             "health": 1833
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "治療：持續",
-                    "傷害：持續傷害"
-                ]
-            },
-            {
-                "增益效果": [
-                    "攻擊-攻擊力↑"
-                ]
-            },
-            {
-                "负面效果": [
-                    "傷害-持續傷害：燃燒",
-                    "防禦-防禦↓：火焰",
-                    "狀態-淨化狀態異常"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "小紅帽 (Red Hood)",
@@ -73693,24 +58352,7 @@ window.allHeroes =
             "defense": 873,
             "health": 1668
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：全體",
-                    "治療：持續"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "召喚-召喚物"
-                ]
-            },
-            {
-                "负面效果": [
-                    "法力-法力生成↓/阻止"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "瑞京 (Regin)",
@@ -73770,29 +58412,7 @@ window.allHeroes =
             "defense": 1407,
             "health": 2705
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：範圍"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "攻擊-無視閃避",
-                    "傷害-傷害↑：自然"
-                ]
-            },
-            {
-                "增益效果": [
-                    "狀態-驅散增益"
-                ]
-            },
-            {
-                "负面效果": [
-                    "狀態-增益無效化"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "魯本 (Reuben)",
@@ -73842,18 +58462,7 @@ window.allHeroes =
             "defense": 909,
             "health": 1615
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：範圍"
-                ]
-            },
-            {
-                "增益效果": [
-                    "防禦-傷害減免"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "雷夫納 (Revna)",
@@ -73907,23 +58516,7 @@ window.allHeroes =
             "defense": 1389,
             "health": 2730
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "治療：即時"
-                ]
-            },
-            {
-                "增益效果": [
-                    "狀態-反彈負面效果"
-                ]
-            },
-            {
-                "负面效果": [
-                    "狀態-淨化狀態異常"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "火箭 (Rocket)",
@@ -73976,25 +58569,7 @@ window.allHeroes =
             "defense": 1262,
             "health": 2057
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：範圍",
-                    "傷害：持續傷害"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "召喚-惡魔"
-                ]
-            },
-            {
-                "负面效果": [
-                    "傷害-持續傷害：燃燒",
-                    "防禦-枯萎：防禦力↓"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "羅莎娜 (Rosanna)",
@@ -74044,23 +58619,7 @@ window.allHeroes =
             "defense": 1430,
             "health": 2656
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：單一目標"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "攻擊-額外攻擊"
-                ]
-            },
-            {
-                "负面效果": [
-                    "狀態-狂亂"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "若香與娜吉 (Roughian & Nurgib)",
@@ -74115,23 +58674,7 @@ window.allHeroes =
             "defense": 883,
             "health": 1854
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：單一目標"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "傷害-額外傷害"
-                ]
-            },
-            {
-                "负面效果": [
-                    "法力-法力奪取"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "魯亞 (Ruadh)",
@@ -74191,27 +58734,7 @@ window.allHeroes =
             "defense": 1374,
             "health": 2730
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：全體",
-                    "治療：提高生命"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "傷害-額外傷害",
-                    "治療-自我恢復"
-                ]
-            },
-            {
-                "增益效果": [
-                    "攻擊-攻擊力↑",
-                    "防禦-防禦力↑",
-                    "狀態-驅散增益"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "紅寶 (Ruby)",
@@ -74272,23 +58795,7 @@ window.allHeroes =
             "defense": 901,
             "health": 1778
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：數量變化"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "法力-削減法力"
-                ]
-            },
-            {
-                "负面效果": [
-                    "法力-法力生成↓/阻止"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "羅素 (Russell)",
@@ -74341,24 +58848,7 @@ window.allHeroes =
             "defense": 911,
             "health": 1630
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：單一目標",
-                    "傷害：持續傷害"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "攻擊-無視閃避"
-                ]
-            },
-            {
-                "负面效果": [
-                    "傷害-持續傷害：燃燒"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "拉斯特 (Rust)",
@@ -74412,29 +58902,7 @@ window.allHeroes =
             "defense": 1407,
             "health": 2651
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：範圍",
-                    "傷害：持續傷害"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "治療-自我恢復"
-                ]
-            },
-            {
-                "增益效果": [
-                    "防禦-傷害減免"
-                ]
-            },
-            {
-                "负面效果": [
-                    "傷害-持續傷害：流血"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "薩利馬塔 (Salimata)",
@@ -74490,24 +58958,7 @@ window.allHeroes =
             "defense": 1409,
             "health": 2367
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：範圍"
-                ]
-            },
-            {
-                "增益效果": [
-                    "狀態-驅散增益"
-                ]
-            },
-            {
-                "负面效果": [
-                    "狀態-阻止召喚物",
-                    "治療-治療量↓"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "聖誕老人 (Santa Claus)",
@@ -74559,24 +59010,7 @@ window.allHeroes =
             "defense": 1023,
             "health": 1772
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：全體"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "召喚-召喚物"
-                ]
-            },
-            {
-                "负面效果": [
-                    "攻擊-攻擊力↓",
-                    "防禦-防禦力↓"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "聖誕老人 (Santa Claus) C1",
@@ -74628,24 +59062,7 @@ window.allHeroes =
             "defense": 1363,
             "health": 2347
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：全體"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "召喚-召喚物"
-                ]
-            },
-            {
-                "负面效果": [
-                    "攻擊-攻擊力↓",
-                    "防禦-防禦力↓"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "西爾莎 (Saoirse)",
@@ -74701,24 +59118,7 @@ window.allHeroes =
             "defense": 998,
             "health": 1767
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：範圍"
-                ]
-            },
-            {
-                "增益效果": [
-                    "法力-疊加：法力生成↑",
-                    "治療-疊加：生命恢復"
-                ]
-            },
-            {
-                "负面效果": [
-                    "防禦-防禦力↓"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "西爾莎 (Saoirse) C1",
@@ -74776,24 +59176,7 @@ window.allHeroes =
             "defense": 1698,
             "health": 3019
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：範圍"
-                ]
-            },
-            {
-                "增益效果": [
-                    "法力-疊加：法力生成↑",
-                    "治療-疊加：生命恢復"
-                ]
-            },
-            {
-                "负面效果": [
-                    "防禦-防禦力↓"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "絲蔻利亞 (Scoria)",
@@ -74851,19 +59234,7 @@ window.allHeroes =
             "defense": 1239,
             "health": 2443
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：全體"
-                ]
-            },
-            {
-                "负面效果": [
-                    "法力-混亂/沉默/睡眠",
-                    "攻擊-枯萎：攻擊力↓"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "塞赫麥特 (Sekhmet)",
@@ -74913,14 +59284,7 @@ window.allHeroes =
             "defense": 965,
             "health": 1833
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "治療：傷害量",
-                    "攻擊：單一目標"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "塞赫麥特 (Sekhmet) C1",
@@ -74972,14 +59336,7 @@ window.allHeroes =
             "defense": 1323,
             "health": 2567
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "治療：傷害量",
-                    "攻擊：單一目標"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "桃針鈉 (Serandite)",
@@ -75039,19 +59396,7 @@ window.allHeroes =
             "defense": 972,
             "health": 1770
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：全體"
-                ]
-            },
-            {
-                "负面效果": [
-                    "治療-治療量↓",
-                    "傷害-持續傷害：燃燒"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "斯卡格瑪爾 (Skargremar)",
@@ -75105,23 +59450,7 @@ window.allHeroes =
             "defense": 975,
             "health": 1846
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：範圍"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "法力-削減法力"
-                ]
-            },
-            {
-                "负面效果": [
-                    "攻擊-命中率↓"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "火星光 (Sparklight)",
@@ -75176,27 +59505,7 @@ window.allHeroes =
             "defense": 1234,
             "health": 2080
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：範圍",
-                    "傷害：持續傷害",
-                    "治療：傷害量",
-                    "治療：提高生命"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "攻擊-無視閃避"
-                ]
-            },
-            {
-                "负面效果": [
-                    "狀態-反彈增益",
-                    "傷害-持續傷害：燃燒"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "孫權 (Sun Quan)",
@@ -75245,24 +59554,7 @@ window.allHeroes =
             "defense": 982,
             "health": 1884
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：範圍",
-                    "傷害：持續傷害"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "召喚-召喚物"
-                ]
-            },
-            {
-                "负面效果": [
-                    "傷害-持續傷害：燃燒"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "孫權 (Sun Quan) C1",
@@ -75316,24 +59608,7 @@ window.allHeroes =
             "defense": 1258,
             "health": 2695
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：範圍",
-                    "傷害：持續傷害"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "召喚-召喚物"
-                ]
-            },
-            {
-                "负面效果": [
-                    "傷害-持續傷害：燃燒"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "塔希爾 (Tahir)",
@@ -75387,24 +59662,7 @@ window.allHeroes =
             "defense": 914,
             "health": 1757
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：單一目標",
-                    "傷害：持續傷害"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "傷害-額外傷害"
-                ]
-            },
-            {
-                "负面效果": [
-                    "傷害-持續傷害：流血"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "特提舍麗 (Tetisheri)",
@@ -75457,23 +59715,7 @@ window.allHeroes =
             "defense": 995,
             "health": 1963
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：鄰近輕傷"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "法力-法力恢復（擊殺）"
-                ]
-            },
-            {
-                "负面效果": [
-                    "防禦-防禦力↓"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "特提舍麗 (Tetisheri) C1",
@@ -75527,23 +59769,7 @@ window.allHeroes =
             "defense": 1349,
             "health": 2743
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：鄰近輕傷"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "法力-法力恢復（擊殺）"
-                ]
-            },
-            {
-                "负面效果": [
-                    "防禦-防禦力↓"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "提摩西 (Timothy)",
@@ -75591,23 +59817,7 @@ window.allHeroes =
             "defense": 1221,
             "health": 2247
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "治療：提高生命"
-                ]
-            },
-            {
-                "增益效果": [
-                    "攻擊-攻擊力↑"
-                ]
-            },
-            {
-                "负面效果": [
-                    "狀態-自我減益"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "托爾本 (Torben)",
@@ -75659,19 +59869,7 @@ window.allHeroes =
             "defense": 1165,
             "health": 2014
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：範圍"
-                ]
-            },
-            {
-                "负面效果": [
-                    "防禦-受到傷害↑",
-                    "防禦-防禦力↓"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "泰爾 (Tyr)",
@@ -75726,25 +59924,7 @@ window.allHeroes =
             "defense": 932,
             "health": 1617
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：單一目標",
-                    "傷害：持續傷害"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "攻擊-穿透/繞過",
-                    "治療-自我恢復"
-                ]
-            },
-            {
-                "增益效果": [
-                    "治療-自我復活"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "泰爾 (Tyr) C1",
@@ -75797,30 +59977,7 @@ window.allHeroes =
             "defense": 1192,
             "health": 2182
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：範圍",
-                    "傷害：持續傷害"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "治療-透過傷害治療"
-                ]
-            },
-            {
-                "增益效果": [
-                    "治療-自我復活",
-                    "狀態-驅散增益"
-                ]
-            },
-            {
-                "负面效果": [
-                    "傷害-持續傷害：流血"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "烏克尼 (Ukkonen)",
@@ -75874,24 +60031,7 @@ window.allHeroes =
             "defense": 1153,
             "health": 2065
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "治療：持續",
-                    "攻擊：全體"
-                ]
-            },
-            {
-                "增益效果": [
-                    "狀態-阻止增益驅散"
-                ]
-            },
-            {
-                "负面效果": [
-                    "攻擊-攻擊力↓"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "烏克尼 (Ukkonen) C1",
@@ -75945,24 +60085,7 @@ window.allHeroes =
             "defense": 1514,
             "health": 2776
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "治療：持續",
-                    "攻擊：全體"
-                ]
-            },
-            {
-                "增益效果": [
-                    "狀態-阻止增益驅散"
-                ]
-            },
-            {
-                "负面效果": [
-                    "攻擊-攻擊力↓"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "萬達 (Vanda)",
@@ -76014,23 +60137,7 @@ window.allHeroes =
             "defense": 906,
             "health": 1706
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：全體"
-                ]
-            },
-            {
-                "增益效果": [
-                    "狀態-免疫狀態異常"
-                ]
-            },
-            {
-                "负面效果": [
-                    "治療-奪取治療"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "萬達 (Vanda) C1",
@@ -76082,23 +60189,7 @@ window.allHeroes =
             "defense": 1233,
             "health": 2307
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：全體"
-                ]
-            },
-            {
-                "增益效果": [
-                    "狀態-免疫狀態異常"
-                ]
-            },
-            {
-                "负面效果": [
-                    "治療-奪取治療"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "范尼亞 (Vanya)",
@@ -76150,23 +60241,7 @@ window.allHeroes =
             "defense": 1363,
             "health": 2169
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "治療：即時"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "召喚-超級召喚物"
-                ]
-            },
-            {
-                "负面效果": [
-                    "狀態-淨化狀態異常"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "珊達 (Xenda)",
@@ -76219,25 +60294,7 @@ window.allHeroes =
             "defense": 990,
             "health": 1859
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：全體",
-                    "傷害：持續傷害"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "治療-透過傷害治療"
-                ]
-            },
-            {
-                "负面效果": [
-                    "法力-法力奪取",
-                    "傷害-持續傷害：燃燒"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "珊達 (Xenda) C1",
@@ -76291,25 +60348,7 @@ window.allHeroes =
             "defense": 1303,
             "health": 2512
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：全體",
-                    "傷害：持續傷害"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "治療-透過傷害治療"
-                ]
-            },
-            {
-                "负面效果": [
-                    "法力-法力奪取",
-                    "傷害-持續傷害：燃燒"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "小兔 (Xiaotu)",
@@ -76358,18 +60397,7 @@ window.allHeroes =
             "defense": 1010,
             "health": 1846
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：單一目標"
-                ]
-            },
-            {
-                "负面效果": [
-                    "治療-阻止治療"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "西王母 (Xiwangmu)",
@@ -76421,15 +60449,7 @@ window.allHeroes =
             "defense": 1181,
             "health": 1859
         },
-        "cn_skill_info": [
-            {
-                "增益效果": [
-                    "攻擊-暴擊率↑",
-                    "攻擊-疊加：攻擊力↑",
-                    "治療-自我復活"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "楊美 (Yang Mai)",
@@ -76484,23 +60504,7 @@ window.allHeroes =
             "defense": 939,
             "health": 1689
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：單一目標"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "攻擊-額外攻擊"
-                ]
-            },
-            {
-                "增益效果": [
-                    "攻擊-疊加：攻擊力↑"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "尤蘭妲 (Yolanda)",
@@ -76554,25 +60558,7 @@ window.allHeroes =
             "defense": 1353,
             "health": 2679
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：範圍",
-                    "傷害：持續傷害"
-                ]
-            },
-            {
-                "增益效果": [
-                    "防禦-閃避"
-                ]
-            },
-            {
-                "负面效果": [
-                    "攻擊-命中率↓",
-                    "傷害-持續傷害：流血"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "札格羅格 (Zagrog)",
@@ -76625,23 +60611,7 @@ window.allHeroes =
             "defense": 932,
             "health": 1734
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：鄰近輕傷"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "攻擊-穿透/繞過"
-                ]
-            },
-            {
-                "增益效果": [
-                    "法力-法力恢復"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "札加 (Zarga)",
@@ -76695,25 +60665,7 @@ window.allHeroes =
             "defense": 1069,
             "health": 2037
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：單一目標",
-                    "傷害：持續傷害"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "攻擊-賭博/隨機效果"
-                ]
-            },
-            {
-                "负面效果": [
-                    "傷害-持續傷害：流血",
-                    "防禦-疊加：受到傷害↑"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "薩瑞雅 (Zaria)",
@@ -76765,18 +60717,7 @@ window.allHeroes =
             "defense": 1165,
             "health": 1955
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：全體"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "傷害-面板：提高傷害"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "芝諾比亞 (Zenobia)",
@@ -76828,18 +60769,7 @@ window.allHeroes =
             "defense": 932,
             "health": 1623
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：兩側"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "攻擊-面板：攻擊力"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "芝諾比亞 (Zenobia) C1",
@@ -76893,18 +60823,7 @@ window.allHeroes =
             "defense": 1188,
             "health": 2197
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：兩側"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "攻擊-面板：攻擊力"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "席丹 (Zidane)",
@@ -76964,27 +60883,7 @@ window.allHeroes =
             "defense": 1198,
             "health": 2034
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：單一目標",
-                    "傷害：持續傷害"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "狀態-偷取增益",
-                    "攻擊-賭博/隨機效果"
-                ]
-            },
-            {
-                "负面效果": [
-                    "傷害-持續傷害：流血",
-                    "傷害-持續傷害：燃燒",
-                    "傷害-持續傷害：毒"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "西姆吉塔 (Zimkitha)",
@@ -77035,23 +60934,7 @@ window.allHeroes =
             "defense": 840,
             "health": 1793
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：全體"
-                ]
-            },
-            {
-                "增益效果": [
-                    "攻擊-攻擊力↑"
-                ]
-            },
-            {
-                "负面效果": [
-                    "狀態-淨化狀態異常"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "西姆吉塔 (Zimkitha) C1",
@@ -77103,23 +60986,7 @@ window.allHeroes =
             "defense": 1098,
             "health": 2566
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：全體"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "傷害-額外傷害"
-                ]
-            },
-            {
-                "增益效果": [
-                    "狀態-驅散增益"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "光 (Hikaru)",
@@ -77322,18 +61189,7 @@ window.allHeroes =
             "defense": 681,
             "health": 688
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：單一目標"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "攻擊-穿透/繞過"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "阿爾曼 (Arman)",
@@ -77385,21 +61241,7 @@ window.allHeroes =
             "defense": 586,
             "health": 997
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：全體",
-                    "傷害：持續傷害"
-                ]
-            },
-            {
-                "负面效果": [
-                    "治療-治療量↓",
-                    "傷害-持續傷害：沙",
-                    "狀態-淨化狀態異常"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "貝恩 (Bane)",
@@ -77445,18 +61287,7 @@ window.allHeroes =
             "defense": 574,
             "health": 971
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：單一目標"
-                ]
-            },
-            {
-                "负面效果": [
-                    "攻擊-命中率↓"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "貝恩 (Bane) C1",
@@ -77502,18 +61333,7 @@ window.allHeroes =
             "defense": 603,
             "health": 963
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：單一目標"
-                ]
-            },
-            {
-                "负面效果": [
-                    "攻擊-命中率↓"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "貝恩 (Bane) 卡通",
@@ -77563,23 +61383,7 @@ window.allHeroes =
             "defense": 634,
             "health": 1191
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：單一目標"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "傷害-傷害↑：黑暗"
-                ]
-            },
-            {
-                "负面效果": [
-                    "攻擊-命中率↓"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "貝恩 (Bane) 玻璃",
@@ -77630,23 +61434,7 @@ window.allHeroes =
             "defense": 639,
             "health": 1216
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：單一目標"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "攻擊-穿透/繞過"
-                ]
-            },
-            {
-                "负面效果": [
-                    "攻擊-命中率↓"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "貝爾托夫 (Bertulf)",
@@ -77689,13 +61477,7 @@ window.allHeroes =
             "defense": 645,
             "health": 1148
         },
-        "cn_skill_info": [
-            {
-                "增益效果": [
-                    "攻擊-攻擊力↑"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "糖糖 (Candy)",
@@ -77741,14 +61523,7 @@ window.allHeroes =
             "defense": 683,
             "health": 1134
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "治療：特殊",
-                    "治療：持續"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "西達爾 (Cedar)",
@@ -77801,23 +61576,7 @@ window.allHeroes =
             "defense": 669,
             "health": 1022
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：全體"
-                ]
-            },
-            {
-                "增益效果": [
-                    "攻擊-疊加：攻擊力↑"
-                ]
-            },
-            {
-                "负面效果": [
-                    "攻擊-命中率↓"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "克蘇巫 (Cthuwu)",
@@ -77865,24 +61624,7 @@ window.allHeroes =
             "defense": 654,
             "health": 1353
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：單一目標"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "攻擊-額外攻擊"
-                ]
-            },
-            {
-                "负面效果": [
-                    "狀態-狂亂",
-                    "狀態-自我減益"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "達瓦 (Dawa)",
@@ -77925,13 +61667,7 @@ window.allHeroes =
             "defense": 547,
             "health": 951
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：鄰近輕傷"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "達瓦 (Dawa) C1",
@@ -77977,19 +61713,7 @@ window.allHeroes =
             "defense": 603,
             "health": 966
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：單一目標"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "攻擊-額外攻擊",
-                    "傷害-傷害↑：黑暗"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "達瓦 (Dawa) 卡通",
@@ -78036,18 +61760,7 @@ window.allHeroes =
             "defense": 718,
             "health": 1065
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：鄰近輕傷"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "傷害-傷害↑：黑暗"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "多歐瑞克 (Dolrak)",
@@ -78100,19 +61813,7 @@ window.allHeroes =
             "defense": 686,
             "health": 1012
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：單一目標"
-                ]
-            },
-            {
-                "负面效果": [
-                    "治療-治療量↓",
-                    "防禦-防禦力↓"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "阿德莱德 (Edelaide)",
@@ -78163,23 +61864,7 @@ window.allHeroes =
             "defense": 713,
             "health": 1241
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "治療：即時"
-                ]
-            },
-            {
-                "增益效果": [
-                    "攻擊-攻擊力↑"
-                ]
-            },
-            {
-                "负面效果": [
-                    "狀態-自我減益"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "費爾頓 (Felton)",
@@ -78232,24 +61917,7 @@ window.allHeroes =
             "defense": 715,
             "health": 907
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：單一目標"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "傷害-額外傷害",
-                    "治療-自我恢復"
-                ]
-            },
-            {
-                "负面效果": [
-                    "狀態-反彈增益"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "柑橘 (Gan Ju)",
@@ -78295,18 +61963,7 @@ window.allHeroes =
             "defense": 508,
             "health": 1136
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：單一目標"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "法力-削減法力"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "柑橘 (Gan Ju) C1",
@@ -78352,18 +62009,7 @@ window.allHeroes =
             "defense": 530,
             "health": 1193
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：單一目標"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "法力-削減法力"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "柑橘 (Gan Ju) 卡通",
@@ -78413,19 +62059,7 @@ window.allHeroes =
             "defense": 589,
             "health": 1363
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：單一目標"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "法力-削減法力",
-                    "傷害-傷害↑：黑暗"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "柑橘 (Gan Ju) 玻璃",
@@ -78476,19 +62110,7 @@ window.allHeroes =
             "defense": 597,
             "health": 1394
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：單一目標"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "攻擊-穿透/繞過",
-                    "法力-削減法力"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "賈可 (Jaco)",
@@ -78544,18 +62166,7 @@ window.allHeroes =
             "defense": 662,
             "health": 1109
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：鄰近輕傷"
-                ]
-            },
-            {
-                "负面效果": [
-                    "法力-法力奪取"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "賈可 (Jaco) C1",
@@ -78612,18 +62223,7 @@ window.allHeroes =
             "defense": 789,
             "health": 1179
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：鄰近輕傷"
-                ]
-            },
-            {
-                "负面效果": [
-                    "法力-法力奪取"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "喬里 (Jolly)",
@@ -78675,24 +62275,7 @@ window.allHeroes =
             "defense": 649,
             "health": 1346
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "治療：提高生命"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "召喚-召喚物"
-                ]
-            },
-            {
-                "增益效果": [
-                    "防禦-傷害減免",
-                    "法力-法力生成↑"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "凱蘭尼 (Kailani)",
@@ -78738,14 +62321,7 @@ window.allHeroes =
             "defense": 635,
             "health": 1022
         },
-        "cn_skill_info": [
-            {
-                "增益效果": [
-                    "防禦-傷害分擔",
-                    "防禦-防禦力↑"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "凱蘭尼 (Kailani) C1",
@@ -78791,14 +62367,7 @@ window.allHeroes =
             "defense": 710,
             "health": 1166
         },
-        "cn_skill_info": [
-            {
-                "增益效果": [
-                    "防禦-傷害分擔",
-                    "攻擊-攻擊力↑"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "凱蘭尼 (Kailani) 卡通",
@@ -78846,14 +62415,7 @@ window.allHeroes =
             "defense": 736,
             "health": 1228
         },
-        "cn_skill_info": [
-            {
-                "增益效果": [
-                    "防禦-傷害分擔",
-                    "防禦-防禦力↑"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "凱蘭尼 (Kailani) 玻璃",
@@ -78905,15 +62467,7 @@ window.allHeroes =
             "defense": 768,
             "health": 1263
         },
-        "cn_skill_info": [
-            {
-                "增益效果": [
-                    "防禦-傷害分擔",
-                    "狀態-反彈負面效果",
-                    "防禦-防禦力↑"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "金賽西 (Kinsaishi)",
@@ -78965,13 +62519,7 @@ window.allHeroes =
             "defense": 720,
             "health": 878
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：隨機"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "克瓦希爾 (Kvasir)",
@@ -79020,24 +62568,7 @@ window.allHeroes =
             "defense": 593,
             "health": 1282
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "傷害：持續傷害"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "召喚-召喚物"
-                ]
-            },
-            {
-                "负面效果": [
-                    "狀態-阻止召喚物",
-                    "傷害-持續傷害：毒"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "克瓦希爾 (Kvasir) C1",
@@ -79085,24 +62616,7 @@ window.allHeroes =
             "defense": 621,
             "health": 1382
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "傷害：持續傷害"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "召喚-召喚物"
-                ]
-            },
-            {
-                "负面效果": [
-                    "狀態-增益無效化",
-                    "傷害-持續傷害：毒"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "梅里亞 (Melia)",
@@ -79148,18 +62662,7 @@ window.allHeroes =
             "defense": 567,
             "health": 958
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：全體"
-                ]
-            },
-            {
-                "增益效果": [
-                    "攻擊-暴擊率↑"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "梅里亞 (Melia) C1",
@@ -79205,18 +62708,7 @@ window.allHeroes =
             "defense": 568,
             "health": 993
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：全體"
-                ]
-            },
-            {
-                "负面效果": [
-                    "攻擊-命中率↓"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "裴伊雅 (Paeia)",
@@ -79267,15 +62759,7 @@ window.allHeroes =
             "defense": 747,
             "health": 1238
         },
-        "cn_skill_info": [
-            {
-                "增益效果": [
-                    "防禦-傷害減免",
-                    "攻擊-攻擊力↑",
-                    "法力-法力生成↑"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "皮克西 (Pixie)",
@@ -79321,18 +62805,7 @@ window.allHeroes =
             "defense": 610,
             "health": 1187
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：單一目標"
-                ]
-            },
-            {
-                "负面效果": [
-                    "法力-混亂/沉默/睡眠"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "帕比 (Poppy)",
@@ -79379,18 +62852,7 @@ window.allHeroes =
             "defense": 635,
             "health": 1126
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：單一目標"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "攻擊-額外攻擊"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "帕比 (Poppy) C1",
@@ -79437,18 +62899,7 @@ window.allHeroes =
             "defense": 644,
             "health": 1166
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：單一目標"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "攻擊-額外攻擊"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "蕾克托拉 (Rekhetre)",
@@ -79498,19 +62949,7 @@ window.allHeroes =
             "defense": 691,
             "health": 1156
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "治療：持續",
-                    "治療：提高生命"
-                ]
-            },
-            {
-                "增益效果": [
-                    "防禦-防禦↑：黑暗"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "蕾克托拉 (Rekhetre) C1",
@@ -79562,19 +63001,7 @@ window.allHeroes =
             "defense": 694,
             "health": 1188
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "治療：持續",
-                    "治療：提高生命"
-                ]
-            },
-            {
-                "增益效果": [
-                    "防禦-防禦↑：黑暗"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "利比特 (Ribbit)",
@@ -79626,24 +63053,7 @@ window.allHeroes =
             "defense": 700,
             "health": 1095
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：範圍",
-                    "傷害：持續傷害"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "法力-削減法力"
-                ]
-            },
-            {
-                "负面效果": [
-                    "傷害-持續傷害：毒"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "鏽喙 (Rustbeak)",
@@ -79699,19 +63109,7 @@ window.allHeroes =
             "defense": 713,
             "health": 1153
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "治療：持續"
-                ]
-            },
-            {
-                "增益效果": [
-                    "攻擊-暴擊率↑",
-                    "防禦-閃避"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "莎莉 (Sally)",
@@ -79756,18 +63154,7 @@ window.allHeroes =
             "defense": 654,
             "health": 1163
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：單一目標"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "攻擊-連鎖"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "薩斯基亞 (Saskia)",
@@ -79820,19 +63207,7 @@ window.allHeroes =
             "defense": 666,
             "health": 1107
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "治療：即時",
-                    "治療：持續"
-                ]
-            },
-            {
-                "增益效果": [
-                    "防禦-閃避"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "埃舍爾 (Aeschere)",
@@ -79888,20 +63263,7 @@ window.allHeroes =
             "defense": 928,
             "health": 1649
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "治療：持續"
-                ]
-            },
-            {
-                "增益效果": [
-                    "法力-法力生成↑",
-                    "治療-治療量↑",
-                    "狀態-驅散增益"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "安娜塔西亞 (Anastasia)",
@@ -79957,19 +63319,7 @@ window.allHeroes =
             "defense": 789,
             "health": 1662
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：全體"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "召喚-惡魔",
-                    "召喚-召喚物"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "貝爾瑞福 (Bellerive)",
@@ -80017,18 +63367,7 @@ window.allHeroes =
             "defense": 795,
             "health": 1587
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：單一目標"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "傷害-額外傷害"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "包加 (Bogart)",
@@ -80079,18 +63418,7 @@ window.allHeroes =
             "defense": 848,
             "health": 1662
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：鄰近輕傷"
-                ]
-            },
-            {
-                "负面效果": [
-                    "防禦-防禦力↓"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "趙 (Chao)",
@@ -80136,18 +63464,7 @@ window.allHeroes =
             "defense": 851,
             "health": 1405
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：單一目標"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "法力-削減法力"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "趙 (Chao) C1",
@@ -80194,18 +63511,7 @@ window.allHeroes =
             "defense": 873,
             "health": 1511
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：單一目標"
-                ]
-            },
-            {
-                "负面效果": [
-                    "法力-法力奪取"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "趙 (Chao) C2",
@@ -80251,18 +63557,7 @@ window.allHeroes =
             "defense": 888,
             "health": 1611
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：範圍"
-                ]
-            },
-            {
-                "负面效果": [
-                    "法力-法力生成↓/阻止"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "趙 (Chao) 卡通",
@@ -80312,19 +63607,7 @@ window.allHeroes =
             "defense": 885,
             "health": 1632
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：單一目標"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "法力-削減法力",
-                    "傷害-傷害↑：黑暗"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "趙 (Chao) 玻璃",
@@ -80375,24 +63658,7 @@ window.allHeroes =
             "defense": 875,
             "health": 1652
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：單一目標"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "攻擊-穿透/繞過",
-                    "法力-削減法力"
-                ]
-            },
-            {
-                "增益效果": [
-                    "防禦-反擊/反彈"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "大德 (D'Andre)",
@@ -80440,19 +63706,7 @@ window.allHeroes =
             "defense": 803,
             "health": 1740
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "治療：即時"
-                ]
-            },
-            {
-                "增益效果": [
-                    "法力-法力生成↑",
-                    "防禦-防禦力↑"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "團三郎狸 (Danzaburo)",
@@ -80508,30 +63762,7 @@ window.allHeroes =
             "defense": 803,
             "health": 1541
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：全體"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "攻擊-賭博/隨機效果"
-                ]
-            },
-            {
-                "增益效果": [
-                    "法力-法力生成↑",
-                    "防禦-防禦力↑"
-                ]
-            },
-            {
-                "负面效果": [
-                    "攻擊-命中率↓",
-                    "狀態-自我減益"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "團三郎狸 (Danzaburo) C1",
@@ -80588,31 +63819,7 @@ window.allHeroes =
             "defense": 840,
             "health": 1702
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：全體"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "攻擊-賭博/隨機效果"
-                ]
-            },
-            {
-                "增益效果": [
-                    "法力-法力恢復"
-                ]
-            },
-            {
-                "负面效果": [
-                    "攻擊-攻擊力↓",
-                    "防禦-防禦力↓",
-                    "法力-法力生成↓/阻止",
-                    "狀態-自我減益"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "艾琳 (Errin)",
@@ -80664,18 +63871,7 @@ window.allHeroes =
             "defense": 987,
             "health": 1665
         },
-        "cn_skill_info": [
-            {
-                "增益效果": [
-                    "防禦-傷害分擔"
-                ]
-            },
-            {
-                "负面效果": [
-                    "防禦-受到傷害↑"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "菲亞拉爾 (Fjalar)",
@@ -80734,25 +63930,7 @@ window.allHeroes =
             "defense": 875,
             "health": 1587
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：單一目標"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "攻擊-穿透召喚物",
-                    "攻擊-無視閃避",
-                    "傷害-傷害↑：自然"
-                ]
-            },
-            {
-                "负面效果": [
-                    "狀態-阻止召喚物"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "金兒 (Goldie)",
@@ -80805,19 +63983,7 @@ window.allHeroes =
             "defense": 902,
             "health": 1603
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "治療：即時"
-                ]
-            },
-            {
-                "增益效果": [
-                    "狀態-反彈負面效果",
-                    "防禦-成長：防禦力↑"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "嘉莉桃 (Gretel)",
@@ -80865,23 +64031,7 @@ window.allHeroes =
             "defense": 754,
             "health": 1330
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：鄰近輕傷"
-                ]
-            },
-            {
-                "增益效果": [
-                    "防禦-防禦↑：特殊技能"
-                ]
-            },
-            {
-                "负面效果": [
-                    "法力-混亂/沉默/睡眠"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "葛里芬 (Griffin)",
@@ -80929,18 +64079,7 @@ window.allHeroes =
             "defense": 805,
             "health": 1397
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：單一目標"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "攻擊-穿透/繞過"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "葛里芬 (Griffin) C1",
@@ -80988,18 +64127,7 @@ window.allHeroes =
             "defense": 843,
             "health": 1399
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：單一目標"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "攻擊-穿透/繞過"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "顧大嫂 (Gu Dasao)",
@@ -81057,24 +64185,7 @@ window.allHeroes =
             "defense": 910,
             "health": 1694
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：鄰近輕傷"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "法力-削減法力"
-                ]
-            },
-            {
-                "增益效果": [
-                    "防禦-反擊/反彈",
-                    "攻擊-暴擊率↑"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "豺狼守護者 (Guardian Jackal)",
@@ -81120,18 +64231,7 @@ window.allHeroes =
             "defense": 669,
             "health": 1301
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：單一目標"
-                ]
-            },
-            {
-                "负面效果": [
-                    "防禦-防禦↓：神聖"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "豺狼守護者 (Guardian Jackal) C1",
@@ -81177,18 +64277,7 @@ window.allHeroes =
             "defense": 919,
             "health": 1699
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：單一目標"
-                ]
-            },
-            {
-                "增益效果": [
-                    "防禦-防禦↑：黑暗"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "古林博斯帝 (Gullinbursti)",
@@ -81235,23 +64324,7 @@ window.allHeroes =
             "defense": 765,
             "health": 1758
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "治療：提高生命"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "傷害-爆炸"
-                ]
-            },
-            {
-                "增益效果": [
-                    "攻擊-攻擊力↑"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "古林博斯帝 (Gullinbursti) C1",
@@ -81298,24 +64371,7 @@ window.allHeroes =
             "defense": 802,
             "health": 1871
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "治療：持續",
-                    "治療：提高生命"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "傷害-爆炸"
-                ]
-            },
-            {
-                "增益效果": [
-                    "攻擊-攻擊力↑"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "霍莉 (Holly)",
@@ -81365,24 +64421,7 @@ window.allHeroes =
             "defense": 902,
             "health": 1635
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "治療：即時",
-                    "治療：特殊"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "召喚-召喚物"
-                ]
-            },
-            {
-                "增益效果": [
-                    "攻擊-攻擊力↑"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "胡桃 (Hu Tao)",
@@ -81429,18 +64468,7 @@ window.allHeroes =
             "defense": 795,
             "health": 1491
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：全體"
-                ]
-            },
-            {
-                "负面效果": [
-                    "攻擊-命中率↓"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "胡桃 (Hu Tao) C1",
@@ -81489,19 +64517,7 @@ window.allHeroes =
             "defense": 956,
             "health": 1612
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：全體"
-                ]
-            },
-            {
-                "负面效果": [
-                    "攻擊-命中率↓",
-                    "治療-治療量↓"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "胡桃 (Hu Tao) C2",
@@ -81550,19 +64566,7 @@ window.allHeroes =
             "defense": 1006,
             "health": 1714
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：全體"
-                ]
-            },
-            {
-                "负面效果": [
-                    "法力-法力生成↓/阻止",
-                    "攻擊-命中率↓"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "胡桃 (Hu Tao) 卡通",
@@ -81612,23 +64616,7 @@ window.allHeroes =
             "defense": 904,
             "health": 1756
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：全體"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "傷害-傷害↑：黑暗"
-                ]
-            },
-            {
-                "负面效果": [
-                    "攻擊-命中率↓"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "胡桃 (Hu Tao) 玻璃",
@@ -81679,23 +64667,7 @@ window.allHeroes =
             "defense": 859,
             "health": 1742
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：全體"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "攻擊-穿透/繞過"
-                ]
-            },
-            {
-                "负面效果": [
-                    "攻擊-命中率↓"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "伍勒頓女士 (Lady Woolerton)",
@@ -81740,18 +64712,7 @@ window.allHeroes =
             "defense": 840,
             "health": 1533
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "治療：即時"
-                ]
-            },
-            {
-                "负面效果": [
-                    "狀態-自我減益"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "李繡 (Li Xiu)",
@@ -81797,18 +64758,7 @@ window.allHeroes =
             "defense": 837,
             "health": 1384
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：全體"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "法力-削減法力"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "李繡 (Li Xiu) C1",
@@ -81854,18 +64804,7 @@ window.allHeroes =
             "defense": 887,
             "health": 1511
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：全體"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "法力-削減法力"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "李繡 (Li Xiu) C2",
@@ -81911,18 +64850,7 @@ window.allHeroes =
             "defense": 947,
             "health": 1638
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：範圍"
-                ]
-            },
-            {
-                "负面效果": [
-                    "法力-混亂/沉默/睡眠"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "李繡 (Li Xiu) 卡通",
@@ -81972,19 +64900,7 @@ window.allHeroes =
             "defense": 982,
             "health": 1677
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：全體"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "法力-削減法力",
-                    "傷害-傷害↑：黑暗"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "李繡 (Li Xiu) 玻璃",
@@ -82035,19 +64951,7 @@ window.allHeroes =
             "defense": 936,
             "health": 1639
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：全體"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "攻擊-穿透/繞過",
-                    "法力-削減法力"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "米斯特 (Mist)",
@@ -82098,20 +65002,7 @@ window.allHeroes =
             "defense": 760,
             "health": 1507
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：範圍"
-                ]
-            },
-            {
-                "负面效果": [
-                    "狀態-增益無效化",
-                    "法力-法力生成↓/阻止",
-                    "防禦-防禦↓：特殊技能"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "史庫拉鐵克 (Scoratek)",
@@ -82164,19 +65055,7 @@ window.allHeroes =
             "defense": 824,
             "health": 1748
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：單一目標"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "召喚-惡魔",
-                    "傷害-爆炸"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "史庫拉鐵克 (Scoratek) C1",
@@ -82231,19 +65110,7 @@ window.allHeroes =
             "defense": 816,
             "health": 1789
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：單一目標"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "召喚-惡魔",
-                    "傷害-爆炸"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "斯特羅普斯 (Steropes)",
@@ -82299,15 +65166,7 @@ window.allHeroes =
             "defense": 928,
             "health": 1603
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "治療：提高生命",
-                    "治療：持續",
-                    "治療：復活"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "魯塔斯 (Voluptas)",
@@ -82355,18 +65214,7 @@ window.allHeroes =
             "defense": 811,
             "health": 1748
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "治療：即時"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "召喚-摧毀惡魔"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "威德斯 (Waddles)",
@@ -82415,18 +65263,7 @@ window.allHeroes =
             "defense": 880,
             "health": 1659
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：單一目標"
-                ]
-            },
-            {
-                "负面效果": [
-                    "法力-混亂/沉默/睡眠"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "王元姬 (Wang Yuanji)",
@@ -82472,18 +65309,7 @@ window.allHeroes =
             "defense": 894,
             "health": 1475
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "治療：提高生命"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "召喚-摧毀惡魔"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "王元姬 (Wang Yuanji) C1",
@@ -82537,23 +65363,7 @@ window.allHeroes =
             "defense": 975,
             "health": 1582
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "治療：提高生命"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "召喚-摧毀惡魔"
-                ]
-            },
-            {
-                "增益效果": [
-                    "防禦-防禦力↑"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "悟空 (Wu Kong)",
@@ -82598,18 +65408,7 @@ window.allHeroes =
             "defense": 781,
             "health": 1250
         },
-        "cn_skill_info": [
-            {
-                "增益效果": [
-                    "攻擊-攻擊力↑"
-                ]
-            },
-            {
-                "负面效果": [
-                    "狀態-自我減益"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "悟空 (Wu Kong) C1",
@@ -82654,18 +65453,7 @@ window.allHeroes =
             "defense": 887,
             "health": 1339
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：全體"
-                ]
-            },
-            {
-                "负面效果": [
-                    "狀態-自我減益"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "悟空 (Wu Kong) C2",
@@ -82709,18 +65497,7 @@ window.allHeroes =
             "defense": 914,
             "health": 1525
         },
-        "cn_skill_info": [
-            {
-                "增益效果": [
-                    "攻擊-攻擊力↑"
-                ]
-            },
-            {
-                "负面效果": [
-                    "狀態-自我減益"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "悟空 (Wu Kong) 卡通",
@@ -82766,18 +65543,7 @@ window.allHeroes =
             "defense": 1001,
             "health": 1626
         },
-        "cn_skill_info": [
-            {
-                "增益效果": [
-                    "攻擊-攻擊力↑"
-                ]
-            },
-            {
-                "负面效果": [
-                    "狀態-自我減益"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "利歐涅 (Zione)",
@@ -82831,18 +65597,7 @@ window.allHeroes =
             "defense": 870,
             "health": 1555
         },
-        "cn_skill_info": [
-            {
-                "特殊效果": [
-                    "法力-面板：法力生成"
-                ]
-            },
-            {
-                "增益效果": [
-                    "攻擊-攻擊力↑"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "阿克洛格 (Akkorog)",
@@ -82889,18 +65644,7 @@ window.allHeroes =
             "defense": 952,
             "health": 1691
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：範圍"
-                ]
-            },
-            {
-                "负面效果": [
-                    "防禦-改變顏色/位置"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "阿克洛格 (Akkorog) C1",
@@ -82953,24 +65697,7 @@ window.allHeroes =
             "defense": 1263,
             "health": 2331
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：範圍"
-                ]
-            },
-            {
-                "增益效果": [
-                    "防禦-閃避",
-                    "防禦-疊加：防禦力↑"
-                ]
-            },
-            {
-                "负面效果": [
-                    "防禦-改變顏色/位置"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "艾爾賓 (Albin)",
@@ -83019,19 +65746,7 @@ window.allHeroes =
             "defense": 1409,
             "health": 2552
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：全體"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "狀態-重置增益回合",
-                    "召喚-召喚物"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "阿爾瓦 (Alvar)",
@@ -83085,24 +65800,7 @@ window.allHeroes =
             "defense": 1363,
             "health": 2133
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：全體"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "狀態-負面效果重新分配",
-                    "狀態-重置負面效果回合"
-                ]
-            },
-            {
-                "负面效果": [
-                    "狀態-反彈增益"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "阿蒙德 (Amund)",
@@ -83155,23 +65853,7 @@ window.allHeroes =
             "defense": 1417,
             "health": 2659
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：全體"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "召喚-惡魔"
-                ]
-            },
-            {
-                "负面效果": [
-                    "狀態-阻止淨化"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "安妮 (Anne)",
@@ -83220,25 +65902,7 @@ window.allHeroes =
             "defense": 982,
             "health": 1772
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：單一目標"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "攻擊-連鎖"
-                ]
-            },
-            {
-                "负面效果": [
-                    "法力-法力生成↓/阻止",
-                    "攻擊-攻擊力↓",
-                    "防禦-防禦力↓"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "安忒洛斯 (Anteros)",
@@ -83289,23 +65953,7 @@ window.allHeroes =
             "defense": 1369,
             "health": 2636
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：單一目標"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "攻擊-無視閃避"
-                ]
-            },
-            {
-                "负面效果": [
-                    "法力-混亂/沉默/睡眠"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "奧達 (Aouda)",
@@ -83352,18 +66000,7 @@ window.allHeroes =
             "defense": 965,
             "health": 1595
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：單一目標"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "傷害-額外傷害"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "奧達 (Aouda) C1",
@@ -83412,18 +66049,7 @@ window.allHeroes =
             "defense": 1254,
             "health": 1926
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：單一目標"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "傷害-額外傷害"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "艾炫 (Ashen)",
@@ -83480,29 +66106,7 @@ window.allHeroes =
             "defense": 1455,
             "health": 2534
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "治療：持續",
-                    "攻擊：全體"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "攻擊-賭博/隨機效果"
-                ]
-            },
-            {
-                "增益效果": [
-                    "攻擊-攻擊力↑"
-                ]
-            },
-            {
-                "负面效果": [
-                    "攻擊-攻擊力↓"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "阿斯特麗德 (Astrid)",
@@ -83555,19 +66159,7 @@ window.allHeroes =
             "defense": 1544,
             "health": 2776
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "治療：即時",
-                    "治療：復活"
-                ]
-            },
-            {
-                "增益效果": [
-                    "防禦-傷害減免"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "奧里卡爾克 (Auricarc)",
@@ -83623,26 +66215,7 @@ window.allHeroes =
             "defense": 1376,
             "health": 2595
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：單一目標"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "攻擊-偷取召喚物",
-                    "召喚-超級召喚物"
-                ]
-            },
-            {
-                "负面效果": [
-                    "法力-混亂/沉默/睡眠",
-                    "防禦-受到傷害↑",
-                    "法力-法力奪取"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "亞維俄納 (Aviana)",
@@ -83696,23 +66269,7 @@ window.allHeroes =
             "defense": 1186,
             "health": 2072
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：範圍"
-                ]
-            },
-            {
-                "增益效果": [
-                    "攻擊-暴擊率↑"
-                ]
-            },
-            {
-                "负面效果": [
-                    "狀態-增益無效化"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "白英 (Bai Yeong)",
@@ -83765,19 +66322,7 @@ window.allHeroes =
             "defense": 906,
             "health": 1620
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：單一目標"
-                ]
-            },
-            {
-                "负面效果": [
-                    "攻擊-命中率↓",
-                    "治療-治療量↓"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "白鼠 (Baishu)",
@@ -83829,19 +66374,7 @@ window.allHeroes =
             "defense": 1381,
             "health": 2664
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：全體"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "狀態-負面效果重新分配",
-                    "狀態-偷取增益"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "凱特琳 (Caitlin)",
@@ -83899,25 +66432,7 @@ window.allHeroes =
             "defense": 1013,
             "health": 1783
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：全體"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "傷害-額外傷害"
-                ]
-            },
-            {
-                "增益效果": [
-                    "法力-疊加：法力生成↑",
-                    "治療-疊加：生命恢復",
-                    "狀態-驅散增益"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "凱特琳 (Caitlin) C1",
@@ -83977,25 +66492,7 @@ window.allHeroes =
             "defense": 1471,
             "health": 2907
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：全體"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "傷害-額外傷害"
-                ]
-            },
-            {
-                "增益效果": [
-                    "法力-疊加：法力生成↑",
-                    "治療-疊加：生命恢復",
-                    "狀態-驅散增益"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "希利丹納 (Celidana)",
@@ -84049,19 +66546,7 @@ window.allHeroes =
             "defense": 982,
             "health": 1828
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "治療：提高生命"
-                ]
-            },
-            {
-                "增益效果": [
-                    "治療-阻止最大生命值↓",
-                    "防禦-防禦力↑"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "克莉絲汀多兒 (Christine Daae)",
@@ -84123,21 +66608,7 @@ window.allHeroes =
             "defense": 1102,
             "health": 2062
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：範圍"
-                ]
-            },
-            {
-                "负面效果": [
-                    "攻擊-命中率↓",
-                    "防禦-防禦力↓",
-                    "狀態-增益無效化",
-                    "狀態-淨化狀態異常"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "克麗奧佩脫拉 (Cleopatra)",
@@ -84188,19 +66659,7 @@ window.allHeroes =
             "defense": 1049,
             "health": 2059
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "治療：即時",
-                    "治療：特殊"
-                ]
-            },
-            {
-                "增益效果": [
-                    "狀態-免疫狀態異常"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "克麗奧佩脫拉 (Cleopatra) C1",
@@ -84255,19 +66714,7 @@ window.allHeroes =
             "defense": 1500,
             "health": 2960
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "治療：即時",
-                    "治療：特殊"
-                ]
-            },
-            {
-                "增益效果": [
-                    "狀態-免疫狀態異常"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "康斯坦絲 (Constance)",
@@ -84315,23 +66762,7 @@ window.allHeroes =
             "defense": 1117,
             "health": 2169
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：全體"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "傷害-爆炸"
-                ]
-            },
-            {
-                "增益效果": [
-                    "防禦-閃避"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "黛布雅 (Dabria)",
@@ -84383,19 +66814,7 @@ window.allHeroes =
             "defense": 1102,
             "health": 1922
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "治療：持續",
-                    "治療：復活"
-                ]
-            },
-            {
-                "增益效果": [
-                    "防禦-防禦力↑"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "達利拉 (Delilah)",
@@ -84443,18 +66862,7 @@ window.allHeroes =
             "defense": 868,
             "health": 1658
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "治療：即時"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "召喚-召喚物"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "達利拉 (Delilah) C1",
@@ -84505,18 +66913,7 @@ window.allHeroes =
             "defense": 1134,
             "health": 2433
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "治療：即時"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "召喚-召喚物"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "迪瓦娜 (Devana)",
@@ -84572,24 +66969,7 @@ window.allHeroes =
             "defense": 932,
             "health": 1732
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：範圍"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "召喚-召喚物",
-                    "攻擊-摧毀召喚物"
-                ]
-            },
-            {
-                "增益效果": [
-                    "狀態-驅散增益"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "團長路力 (Director Zuri)",
@@ -84638,23 +67018,7 @@ window.allHeroes =
             "defense": 952,
             "health": 1752
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "治療：即時"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "召喚-召喚物"
-                ]
-            },
-            {
-                "负面效果": [
-                    "狀態-淨化狀態異常"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "多羅莉絲 (Dolores)",
@@ -84711,29 +67075,7 @@ window.allHeroes =
             "defense": 1361,
             "health": 2357
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：範圍"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "攻擊-額外攻擊"
-                ]
-            },
-            {
-                "增益效果": [
-                    "法力-疊加：法力生成↑",
-                    "攻擊-攻擊力↑"
-                ]
-            },
-            {
-                "负面效果": [
-                    "狀態-狂亂"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "德雷克方 (Drake Fong)",
@@ -84782,18 +67124,7 @@ window.allHeroes =
             "defense": 878,
             "health": 1668
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：範圍"
-                ]
-            },
-            {
-                "负面效果": [
-                    "攻擊-命中率↓"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "德雷克方 (Drake Fong) C1",
@@ -84845,18 +67176,7 @@ window.allHeroes =
             "defense": 1114,
             "health": 2401
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：範圍"
-                ]
-            },
-            {
-                "负面效果": [
-                    "攻擊-命中率↓"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "伊洛伊絲 (Eloise)",
@@ -84904,23 +67224,7 @@ window.allHeroes =
             "defense": 977,
             "health": 1714
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：全體"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "攻擊-摧毀召喚物"
-                ]
-            },
-            {
-                "负面效果": [
-                    "狀態-阻止召喚物"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "伊菲菈 (Ephyra)",
@@ -84979,19 +67283,7 @@ window.allHeroes =
             "defense": 1135,
             "health": 2065
         },
-        "cn_skill_info": [
-            {
-                "特殊效果": [
-                    "召喚-摧毀惡魔",
-                    "召喚-召喚物"
-                ]
-            },
-            {
-                "增益效果": [
-                    "治療-疊加：生命恢復"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "伊菲菈 (Ephyra) C1",
@@ -85051,19 +67343,7 @@ window.allHeroes =
             "defense": 1475,
             "health": 2671
         },
-        "cn_skill_info": [
-            {
-                "特殊效果": [
-                    "召喚-摧毀惡魔",
-                    "召喚-召喚物"
-                ]
-            },
-            {
-                "增益效果": [
-                    "治療-疊加：生命恢復"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "二郎神 (Erlang Shen)",
@@ -85109,23 +67389,7 @@ window.allHeroes =
             "defense": 982,
             "health": 1915
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：鄰近輕傷"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "傷害-爆炸"
-                ]
-            },
-            {
-                "负面效果": [
-                    "攻擊-攻擊力↓"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "伊西斯 (Eset)",
@@ -85180,20 +67444,7 @@ window.allHeroes =
             "defense": 998,
             "health": 1988
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：單一目標",
-                    "攻擊：隨機"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "傷害-面板：提高傷害",
-                    "傷害-傷害↑：黑暗"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "伊西斯 (Eset) C1",
@@ -85250,20 +67501,7 @@ window.allHeroes =
             "defense": 1374,
             "health": 2798
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：單一目標",
-                    "攻擊：隨機"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "傷害-面板：提高傷害",
-                    "傷害-傷害↑：黑暗"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "經驗模仿怪 (Experience Mimic) Holy",
@@ -85325,25 +67563,7 @@ window.allHeroes =
             "defense": 1524,
             "health": 2616
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：單一目標"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "攻擊-摧毀召喚物",
-                    "法力-法力恢復（擊殺）",
-                    "治療-自我恢復"
-                ]
-            },
-            {
-                "增益效果": [
-                    "防禦-擬態"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "菲歐娜 (Faeona)",
@@ -85398,20 +67618,7 @@ window.allHeroes =
             "defense": 1366,
             "health": 2138
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "治療：即時"
-                ]
-            },
-            {
-                "增益效果": [
-                    "法力-疊加：法力生成↑",
-                    "治療-治療量↑",
-                    "攻擊-暴擊率↑"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "法林 (Faline)",
@@ -85457,18 +67664,7 @@ window.allHeroes =
             "defense": 927,
             "health": 1719
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：範圍"
-                ]
-            },
-            {
-                "负面效果": [
-                    "法力-法力生成↓/阻止"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "法蘭克「獠牙」布林威爾 (Frank 'Fangs' Brimwell)",
@@ -85520,19 +67716,7 @@ window.allHeroes =
             "defense": 1361,
             "health": 2334
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：範圍",
-                    "攻擊：全體"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "召喚-超級召喚物"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "佛迪納 (Furdinand)",
@@ -85591,25 +67775,7 @@ window.allHeroes =
             "defense": 1021,
             "health": 1803
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "治療：持續"
-                ]
-            },
-            {
-                "增益效果": [
-                    "防禦-傷害分擔",
-                    "狀態-反彈負面效果",
-                    "防禦-防禦力↑"
-                ]
-            },
-            {
-                "负面效果": [
-                    "狀態-淨化狀態異常"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "甘德爾 (Gandr)",
@@ -85669,25 +67835,7 @@ window.allHeroes =
             "defense": 1432,
             "health": 2705
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：全體",
-                    "治療：傷害量"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "攻擊-無視閃避",
-                    "傷害-傷害↑：自然"
-                ]
-            },
-            {
-                "增益效果": [
-                    "防禦-反擊/反彈"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "吉迪恩 (Gideon)",
@@ -85741,24 +67889,7 @@ window.allHeroes =
             "defense": 1437,
             "health": 2705
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "治療：特殊"
-                ]
-            },
-            {
-                "增益效果": [
-                    "防禦-閃避",
-                    "防禦-防禦力↑"
-                ]
-            },
-            {
-                "负面效果": [
-                    "狀態-淨化狀態異常"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "吉利根 (Gilligan)",
@@ -85810,23 +67941,7 @@ window.allHeroes =
             "defense": 949,
             "health": 1917
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：範圍"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "攻擊-穿透/繞過"
-                ]
-            },
-            {
-                "增益效果": [
-                    "防禦-防禦力↑"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "金滴 (Goldrip)",
@@ -85878,20 +67993,7 @@ window.allHeroes =
             "defense": 1346,
             "health": 2613
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：單一目標",
-                    "傷害：持續傷害"
-                ]
-            },
-            {
-                "负面效果": [
-                    "狀態-增益無效化",
-                    "傷害-持續傷害：流血"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "公牛 (Gongniu)",
@@ -85943,19 +68045,7 @@ window.allHeroes =
             "defense": 1285,
             "health": 2298
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "治療：特殊"
-                ]
-            },
-            {
-                "增益效果": [
-                    "防禦-防禦力↑",
-                    "法力-法力恢復"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "古里克 (Gooric)",
@@ -86013,19 +68103,7 @@ window.allHeroes =
             "defense": 1430,
             "health": 2529
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "治療：復活"
-                ]
-            },
-            {
-                "增益效果": [
-                    "攻擊-攻擊力↑",
-                    "法力-法力生成↑"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "格里爾卡 (Grilka)",
@@ -86082,20 +68160,7 @@ window.allHeroes =
             "defense": 1333,
             "health": 2286
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "治療：提高生命",
-                    "治療：持續"
-                ]
-            },
-            {
-                "增益效果": [
-                    "法力-法力生成↑",
-                    "防禦-嘲諷"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "大象守護者 (Guardian Elephant)",
@@ -86152,25 +68217,7 @@ window.allHeroes =
             "defense": 1310,
             "health": 2123
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：隨機"
-                ]
-            },
-            {
-                "增益效果": [
-                    "狀態-阻止增益驅散"
-                ]
-            },
-            {
-                "负面效果": [
-                    "狀態-阻止淨化",
-                    "攻擊-疊加：攻擊力↓",
-                    "防禦-疊加：防禦力↓"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "瞪羚守護者 (Guardian Gazelle)",
@@ -86229,25 +68276,7 @@ window.allHeroes =
             "defense": 914,
             "health": 1633
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "治療：持續"
-                ]
-            },
-            {
-                "增益效果": [
-                    "狀態-阻止負面效果",
-                    "防禦-傷害減免",
-                    "攻擊-攻擊力↑"
-                ]
-            },
-            {
-                "负面效果": [
-                    "狀態-淨化狀態異常"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "瞪羚守護者 (Guardian Gazelle) C1",
@@ -86306,25 +68335,7 @@ window.allHeroes =
             "defense": 1152,
             "health": 2171
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "治療：即時"
-                ]
-            },
-            {
-                "增益效果": [
-                    "狀態-阻止負面效果",
-                    "防禦-傷害減免",
-                    "攻擊-攻擊力↑"
-                ]
-            },
-            {
-                "负面效果": [
-                    "狀態-淨化狀態異常"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "貓頭鷹守護者 (Guardian Owl)",
@@ -86375,24 +68386,7 @@ window.allHeroes =
             "defense": 980,
             "health": 1828
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：全體",
-                    "治療：持續"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "傷害-額外傷害"
-                ]
-            },
-            {
-                "增益效果": [
-                    "防禦-防禦力↑"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "吉娜薇 (Guinevere)",
@@ -86441,24 +68435,7 @@ window.allHeroes =
             "defense": 960,
             "health": 1661
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "治療：持續"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "法力-削減法力"
-                ]
-            },
-            {
-                "增益效果": [
-                    "防禦-防禦力↑",
-                    "防禦-防禦↑：黑暗"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "吉娜薇 (Guinevere) C1",
@@ -86508,23 +68485,7 @@ window.allHeroes =
             "defense": 1231,
             "health": 2420
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "治療：即時"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "法力-削減法力"
-                ]
-            },
-            {
-                "增益效果": [
-                    "防禦-反擊/反彈：黑暗"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "關恩 (Gwynn)",
@@ -86581,20 +68542,7 @@ window.allHeroes =
             "defense": 1264,
             "health": 2514
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：全體",
-                    "傷害：持續傷害"
-                ]
-            },
-            {
-                "负面效果": [
-                    "傷害-持續傷害：燃燒",
-                    "防禦-受到傷害↑"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "哈奇寇 (Hachiko)",
@@ -86646,19 +68594,7 @@ window.allHeroes =
             "defense": 995,
             "health": 1922
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：全體"
-                ]
-            },
-            {
-                "增益效果": [
-                    "防禦-反擊/反彈",
-                    "攻擊-暴擊率↑"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "翠鳥 (Halcyon)",
@@ -86712,24 +68648,7 @@ window.allHeroes =
             "defense": 1496,
             "health": 2735
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：單一目標"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "攻擊-摧毀召喚物",
-                    "攻擊-額外攻擊"
-                ]
-            },
-            {
-                "增益效果": [
-                    "防禦-反擊/反彈"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "漢尼塔拉 (Hanitra)",
@@ -86780,20 +68699,7 @@ window.allHeroes =
             "defense": 982,
             "health": 1737
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "治療：提高生命",
-                    "治療：特殊"
-                ]
-            },
-            {
-                "增益效果": [
-                    "防禦-閃避",
-                    "治療-阻止最大生命值↓"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "哈姆里 (Haumri)",
@@ -86852,28 +68758,7 @@ window.allHeroes =
             "defense": 1455,
             "health": 2578
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：單一目標"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "攻擊-連鎖"
-                ]
-            },
-            {
-                "增益效果": [
-                    "狀態-驅散增益"
-                ]
-            },
-            {
-                "负面效果": [
-                    "防禦-枯萎：防禦力↓"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "希爾達 (Hilda)",
@@ -86928,22 +68813,7 @@ window.allHeroes =
             "defense": 1397,
             "health": 2105
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "治療：提高生命",
-                    "攻擊：範圍",
-                    "傷害：持續傷害",
-                    "治療：傷害量"
-                ]
-            },
-            {
-                "负面效果": [
-                    "狀態-增益無效化",
-                    "傷害-持續傷害：流血"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "荷魯斯 (Horus)",
@@ -86993,18 +68863,7 @@ window.allHeroes =
             "defense": 980,
             "health": 1971
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：範圍"
-                ]
-            },
-            {
-                "负面效果": [
-                    "治療-最大生命值↓"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "荷魯斯 (Horus) C1",
@@ -87056,18 +68915,7 @@ window.allHeroes =
             "defense": 1388,
             "health": 2794
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：範圍"
-                ]
-            },
-            {
-                "负面效果": [
-                    "治療-最大生命值↓"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "伊賀 (Iga)",
@@ -87127,14 +68975,7 @@ window.allHeroes =
             "defense": 1300,
             "health": 2021
         },
-        "cn_skill_info": [
-            {
-                "特殊效果": [
-                    "召喚-惡魔",
-                    "傷害-爆炸"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "伊娜莉 (Inari)",
@@ -87184,24 +69025,7 @@ window.allHeroes =
             "defense": 792,
             "health": 1617
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：全體"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "召喚-召喚物"
-                ]
-            },
-            {
-                "增益效果": [
-                    "防禦-閃避",
-                    "法力-法力恢復"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "伊娜莉 (Inari) C1",
@@ -87251,28 +69075,7 @@ window.allHeroes =
             "defense": 1053,
             "health": 2132
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：全體"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "召喚-召喚物"
-                ]
-            },
-            {
-                "增益效果": [
-                    "法力-法力恢復"
-                ]
-            },
-            {
-                "负面效果": [
-                    "攻擊-命中率↓"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "鐵嘴 (Ironmaw)",
@@ -87329,23 +69132,7 @@ window.allHeroes =
             "defense": 1191,
             "health": 2047
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：全體"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "傷害-傷害↑：黑暗"
-                ]
-            },
-            {
-                "负面效果": [
-                    "法力-法力生成↓/阻止"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "伊撒爾 (Ithar)",
@@ -87400,23 +69187,7 @@ window.allHeroes =
             "defense": 962,
             "health": 1826
         },
-        "cn_skill_info": [
-            {
-                "特殊效果": [
-                    "狀態-偷取增益"
-                ]
-            },
-            {
-                "增益效果": [
-                    "攻擊-攻擊力↑"
-                ]
-            },
-            {
-                "负面效果": [
-                    "法力-法力奪取"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "加那 (Jana)",
@@ -87469,24 +69240,7 @@ window.allHeroes =
             "defense": 1076,
             "health": 2118
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：單一目標"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "攻擊-額外攻擊"
-                ]
-            },
-            {
-                "负面效果": [
-                    "法力-法力生成↓/阻止",
-                    "防禦-防禦力↓"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "賈斯珀 (Jasper)",
@@ -87536,24 +69290,7 @@ window.allHeroes =
             "defense": 1071,
             "health": 1950
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "治療：持續"
-                ]
-            },
-            {
-                "增益效果": [
-                    "攻擊-暴擊率↑",
-                    "攻擊-攻擊力↑"
-                ]
-            },
-            {
-                "负面效果": [
-                    "狀態-自我減益"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "賈斯珀 (Jasper) C1",
@@ -87603,24 +69340,7 @@ window.allHeroes =
             "defense": 1291,
             "health": 2507
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "治療：持續"
-                ]
-            },
-            {
-                "增益效果": [
-                    "攻擊-暴擊率↑",
-                    "攻擊-攻擊力↑"
-                ]
-            },
-            {
-                "负面效果": [
-                    "狀態-自我減益"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "傑昆 (Jequn)",
@@ -87677,21 +69397,7 @@ window.allHeroes =
             "defense": 1043,
             "health": 2400
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：全體"
-                ]
-            },
-            {
-                "负面效果": [
-                    "法力-法力生成↓/阻止",
-                    "攻擊-命中率↓",
-                    "攻擊-攻擊力↓",
-                    "防禦-防禦力↓"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "傑昆 (Jequn) C1",
@@ -87748,21 +69454,7 @@ window.allHeroes =
             "defense": 1362,
             "health": 3126
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：全體"
-                ]
-            },
-            {
-                "负面效果": [
-                    "法力-法力生成↓/阻止",
-                    "攻擊-命中率↓",
-                    "攻擊-攻擊力↓",
-                    "防禦-防禦力↓"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "尤恩 (Joon)",
@@ -87808,18 +69500,7 @@ window.allHeroes =
             "defense": 784,
             "health": 1651
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：單一目標"
-                ]
-            },
-            {
-                "负面效果": [
-                    "攻擊-命中率↓"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "尤恩 (Joon) C1",
@@ -87865,18 +69546,7 @@ window.allHeroes =
             "defense": 900,
             "health": 1856
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：單一目標"
-                ]
-            },
-            {
-                "负面效果": [
-                    "攻擊-命中率↓"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "尤恩 (Joon) C2",
@@ -87925,20 +69595,7 @@ window.allHeroes =
             "defense": 1017,
             "health": 2344
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：範圍",
-                    "傷害：持續傷害"
-                ]
-            },
-            {
-                "负面效果": [
-                    "攻擊-命中率↓",
-                    "傷害-持續傷害：燃燒"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "尤恩 (Joon) 卡通",
@@ -87988,23 +69645,7 @@ window.allHeroes =
             "defense": 1222,
             "health": 2796
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：單一目標"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "傷害-傷害↑：黑暗"
-                ]
-            },
-            {
-                "负面效果": [
-                    "攻擊-命中率↓"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "尤恩 (Joon) 玻璃",
@@ -88055,23 +69696,7 @@ window.allHeroes =
             "defense": 1359,
             "health": 2906
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：單一目標"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "攻擊-穿透/繞過"
-                ]
-            },
-            {
-                "负面效果": [
-                    "攻擊-命中率↓"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "賈夫 (Jove)",
@@ -88122,19 +69747,7 @@ window.allHeroes =
             "defense": 977,
             "health": 1734
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：全體"
-                ]
-            },
-            {
-                "负面效果": [
-                    "法力-法力生成↓/阻止",
-                    "治療-治療量↓"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "賈斯提斯 (Justice)",
@@ -88181,23 +69794,7 @@ window.allHeroes =
             "defense": 957,
             "health": 1757
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：全體"
-                ]
-            },
-            {
-                "增益效果": [
-                    "法力-法力生成↑"
-                ]
-            },
-            {
-                "负面效果": [
-                    "攻擊-命中率↓"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "賈斯提斯 (Justice) C1",
@@ -88245,23 +69842,7 @@ window.allHeroes =
             "defense": 1004,
             "health": 1914
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：全體"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "傷害-額外傷害"
-                ]
-            },
-            {
-                "增益效果": [
-                    "法力-法力生成↑"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "賈斯提斯 (Justice) C2",
@@ -88309,23 +69890,7 @@ window.allHeroes =
             "defense": 1110,
             "health": 2449
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：全體"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "傷害-額外傷害"
-                ]
-            },
-            {
-                "负面效果": [
-                    "攻擊-命中率↓"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "賈斯提斯 (Justice) 卡通",
@@ -88375,23 +69940,7 @@ window.allHeroes =
             "defense": 1153,
             "health": 2935
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：全體"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "傷害-傷害↑：黑暗"
-                ]
-            },
-            {
-                "负面效果": [
-                    "攻擊-命中率↓"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "卡菈 (Kara)",
@@ -88443,15 +69992,7 @@ window.allHeroes =
             "defense": 944,
             "health": 1788
         },
-        "cn_skill_info": [
-            {
-                "增益效果": [
-                    "防禦-嘲諷",
-                    "攻擊-攻擊力↑",
-                    "防禦-防禦↑：特殊技能"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "庫列佛 (Kullervo)",
@@ -88501,23 +70042,7 @@ window.allHeroes =
             "defense": 975,
             "health": 1798
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：單一目標"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "攻擊-額外攻擊"
-                ]
-            },
-            {
-                "负面效果": [
-                    "法力-混亂/沉默/睡眠"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "庫列佛 (Kullervo) C1",
@@ -88567,23 +70092,7 @@ window.allHeroes =
             "defense": 1381,
             "health": 2365
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：單一目標"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "攻擊-額外攻擊"
-                ]
-            },
-            {
-                "负面效果": [
-                    "法力-混亂/沉默/睡眠"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "公相君 (Kushanku)",
@@ -88649,28 +70158,7 @@ window.allHeroes =
             "defense": 1074,
             "health": 1960
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：單一目標"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "傷害-爆炸"
-                ]
-            },
-            {
-                "增益效果": [
-                    "狀態-躲藏/幽靈形態"
-                ]
-            },
-            {
-                "负面效果": [
-                    "法力-混亂/沉默/睡眠"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "蘭多 (Lando)",
@@ -88729,24 +70217,7 @@ window.allHeroes =
             "defense": 1554,
             "health": 2849
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：全體"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "傷害-爆炸",
-                    "狀態-替換為增益"
-                ]
-            },
-            {
-                "负面效果": [
-                    "狀態-淨化狀態異常"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "老虎 (Laohu)",
@@ -88795,18 +70266,7 @@ window.allHeroes =
             "defense": 993,
             "health": 1897
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：單一目標"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "治療-透過傷害治療"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "菈札拉 (Lazara)",
@@ -88862,20 +70322,7 @@ window.allHeroes =
             "defense": 1254,
             "health": 2133
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：全體"
-                ]
-            },
-            {
-                "负面效果": [
-                    "治療-治療量↓",
-                    "狀態-阻止淨化",
-                    "狀態-淨化狀態異常"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "檸檬木 (Lemonwood)",
@@ -88930,19 +70377,7 @@ window.allHeroes =
             "defense": 1277,
             "health": 2057
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：單一目標"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "法力-削減法力",
-                    "攻擊-額外攻擊"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "萊昂尼達斯 (Leonidas)",
@@ -88991,19 +70426,7 @@ window.allHeroes =
             "defense": 886,
             "health": 1506
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：單一目標"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "治療-透過傷害治療",
-                    "法力-削減法力"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "萊昂尼達斯 (Leonidas) C1",
@@ -89050,19 +70473,7 @@ window.allHeroes =
             "defense": 1027,
             "health": 1707
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：鄰近輕傷"
-                ]
-            },
-            {
-                "负面效果": [
-                    "攻擊-攻擊力↓",
-                    "防禦-防禦↓：神聖"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "萊昂尼達斯 (Leonidas) C2",
@@ -89111,23 +70522,7 @@ window.allHeroes =
             "defense": 1155,
             "health": 2194
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：全體"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "法力-削減法力"
-                ]
-            },
-            {
-                "负面效果": [
-                    "防禦-防禦力↓"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "萊昂尼達斯 (Leonidas) 卡通",
@@ -89180,20 +70575,7 @@ window.allHeroes =
             "defense": 1357,
             "health": 2585
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：單一目標"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "治療-透過傷害治療",
-                    "法力-削減法力",
-                    "傷害-傷害↑：黑暗"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "萊昂尼達斯 (Leonidas) 玻璃",
@@ -89247,23 +70629,7 @@ window.allHeroes =
             "defense": 1487,
             "health": 2657
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：單一目標"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "法力-削減法力"
-                ]
-            },
-            {
-                "增益效果": [
-                    "狀態-驅散增益"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "莉維雅 (Livia)",
@@ -89318,25 +70684,7 @@ window.allHeroes =
             "defense": 1333,
             "health": 2471
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "治療：持續",
-                    "治療：特殊"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "狀態-負面效果重新分配"
-                ]
-            },
-            {
-                "增益效果": [
-                    "防禦-傷害減免",
-                    "狀態-反彈負面效果"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "馬林 (Malin)",
@@ -89393,26 +70741,7 @@ window.allHeroes =
             "defense": 1079,
             "health": 1965
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：全體",
-                    "傷害：持續傷害"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "傷害-傷害↑：黑暗"
-                ]
-            },
-            {
-                "负面效果": [
-                    "攻擊-命中率↓",
-                    "治療-治療量↓",
-                    "傷害-持續傷害：流血"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "馬洛西 (Malosi)",
@@ -89462,18 +70791,7 @@ window.allHeroes =
             "defense": 899,
             "health": 1607
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：單一目標"
-                ]
-            },
-            {
-                "负面效果": [
-                    "狀態-增益無效化"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "梅提妲 (Matilda)",
@@ -89526,25 +70844,7 @@ window.allHeroes =
             "defense": 1016,
             "health": 1836
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "傷害：持續傷害"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "狀態-重置負面效果回合",
-                    "召喚-惡魔"
-                ]
-            },
-            {
-                "负面效果": [
-                    "傷害-持續傷害：毒",
-                    "防禦-受到傷害↑"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "梅兒 (May)",
@@ -89597,21 +70897,7 @@ window.allHeroes =
             "defense": 1333,
             "health": 2418
         },
-        "cn_skill_info": [
-            {
-                "特殊效果": [
-                    "召喚-召喚物"
-                ]
-            },
-            {
-                "增益效果": [
-                    "防禦-成長：防禦力↑",
-                    "防御-成长：防御力↑",
-                    "法力-法力生成↑",
-                    "防禦-防禦↑：特殊技能"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "梅潔 (Meg Giry)",
@@ -89666,28 +70952,7 @@ window.allHeroes =
             "defense": 1310,
             "health": 2740
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "治療：即時"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "狀態-負面效果重新分配"
-                ]
-            },
-            {
-                "增益效果": [
-                    "防禦-防禦力↑"
-                ]
-            },
-            {
-                "负面效果": [
-                    "狀態-阻止淨化"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "樂音女神 (Melodymuse)",
@@ -89737,18 +71002,7 @@ window.allHeroes =
             "defense": 1424,
             "health": 2496
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "治療：提高生命"
-                ]
-            },
-            {
-                "增益效果": [
-                    "狀態-免疫狀態異常"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "梅雷桑赫 (Meresankh)",
@@ -89802,24 +71056,7 @@ window.allHeroes =
             "defense": 1084,
             "health": 2026
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：全體"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "法力-削減法力",
-                    "傷害-額外傷害"
-                ]
-            },
-            {
-                "负面效果": [
-                    "法力-法力生成↓/阻止"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "梅雷桑赫 (Meresankh) C1",
@@ -89875,24 +71112,7 @@ window.allHeroes =
             "defense": 1456,
             "health": 2805
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：全體"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "法力-削減法力",
-                    "傷害-額外傷害"
-                ]
-            },
-            {
-                "负面效果": [
-                    "法力-法力生成↓/阻止"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "雲母 (Mica)",
@@ -89951,15 +71171,7 @@ window.allHeroes =
             "defense": 1013,
             "health": 1701
         },
-        "cn_skill_info": [
-            {
-                "增益效果": [
-                    "防禦-傷害分擔",
-                    "法力-法力生成↑",
-                    "防禦-防禦力↑"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "月鈴 (Moonbell)",
@@ -90013,19 +71225,7 @@ window.allHeroes =
             "defense": 1485,
             "health": 2303
         },
-        "cn_skill_info": [
-            {
-                "特殊效果": [
-                    "召喚-召喚物"
-                ]
-            },
-            {
-                "增益效果": [
-                    "法力-法力生成↑",
-                    "防禦-傷害減免"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "墨特加 (Motega)",
@@ -90087,20 +71287,7 @@ window.allHeroes =
             "defense": 977,
             "health": 1775
         },
-        "cn_skill_info": [
-            {
-                "特殊效果": [
-                    "召喚-惡魔",
-                    "召喚-召喚物"
-                ]
-            },
-            {
-                "负面效果": [
-                    "攻擊-命中率↓",
-                    "防禦-受到傷害↑"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "武藏 (Musashi)",
@@ -90149,18 +71336,7 @@ window.allHeroes =
             "defense": 838,
             "health": 1539
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：鄰近輕傷"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "治療-透過傷害治療"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "武藏 (Musashi) C1",
@@ -90212,18 +71388,7 @@ window.allHeroes =
             "defense": 1091,
             "health": 2246
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：鄰近輕傷"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "治療-透過傷害治療"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "涅伊特 (Neith)",
@@ -90276,23 +71441,7 @@ window.allHeroes =
             "defense": 909,
             "health": 1602
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：全體"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "法力-削減法力"
-                ]
-            },
-            {
-                "负面效果": [
-                    "攻擊-命中率↓"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "涅墨西斯 (Nemesis)",
@@ -90350,24 +71499,7 @@ window.allHeroes =
             "defense": 965,
             "health": 1823
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：單一目標"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "傷害-額外傷害"
-                ]
-            },
-            {
-                "负面效果": [
-                    "狀態-增益無效化",
-                    "法力-法力生成↓/阻止"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "尼斯蓋希特 (Nithgaest)",
@@ -90420,24 +71552,7 @@ window.allHeroes =
             "defense": 1389,
             "health": 2712
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：範圍",
-                    "傷害：持續傷害"
-                ]
-            },
-            {
-                "增益效果": [
-                    "防禦-反擊/反彈"
-                ]
-            },
-            {
-                "负面效果": [
-                    "傷害-持續傷害：燃燒"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "諾恩 (Norns)",
@@ -90481,18 +71596,7 @@ window.allHeroes =
             "defense": 886,
             "health": 1689
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：範圍"
-                ]
-            },
-            {
-                "负面效果": [
-                    "防禦-改變顏色/位置"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "諾恩 (Norns) C1",
@@ -90536,18 +71640,7 @@ window.allHeroes =
             "defense": 1134,
             "health": 2049
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：範圍"
-                ]
-            },
-            {
-                "负面效果": [
-                    "防禦-改變顏色/位置"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "歐丁 (Odin)",
@@ -90595,23 +71688,7 @@ window.allHeroes =
             "defense": 927,
             "health": 1640
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：全體"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "傷害-額外傷害"
-                ]
-            },
-            {
-                "增益效果": [
-                    "法力-法力生成↑"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "歐丁 (Odin) C1",
@@ -90659,23 +71736,7 @@ window.allHeroes =
             "defense": 1205,
             "health": 2231
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：全體"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "傷害-額外傷害"
-                ]
-            },
-            {
-                "增益效果": [
-                    "法力-法力生成↑"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "奧基瑪 (Ogima)",
@@ -90728,24 +71789,7 @@ window.allHeroes =
             "defense": 985,
             "health": 1732
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：全體"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "攻擊-摧毀召喚物",
-                    "傷害-額外傷害"
-                ]
-            },
-            {
-                "负面效果": [
-                    "法力-疊加：法力生成↓"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "奧納特而 (Onatel)",
@@ -90796,18 +71840,7 @@ window.allHeroes =
             "defense": 1005,
             "health": 1772
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：範圍"
-                ]
-            },
-            {
-                "负面效果": [
-                    "法力-法力奪取"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "帕派羅斯 (Papyros)",
@@ -90858,28 +71891,7 @@ window.allHeroes =
             "defense": 1010,
             "health": 1935
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "傷害：持續傷害"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "召喚-召喚物"
-                ]
-            },
-            {
-                "增益效果": [
-                    "防禦-防禦力↑"
-                ]
-            },
-            {
-                "负面效果": [
-                    "傷害-持續傷害：沙"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "帕派羅斯 (Papyros) C1",
@@ -90935,28 +71947,7 @@ window.allHeroes =
             "defense": 1479,
             "health": 2783
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "傷害：持續傷害"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "召喚-召喚物"
-                ]
-            },
-            {
-                "增益效果": [
-                    "防禦-防禦力↑"
-                ]
-            },
-            {
-                "负面效果": [
-                    "傷害-持續傷害：沙"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "佩扭莉特 (Penolite)",
@@ -91008,23 +71999,7 @@ window.allHeroes =
             "defense": 939,
             "health": 1869
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：單一目標"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "傷害-額外傷害"
-                ]
-            },
-            {
-                "负面效果": [
-                    "治療-治療量↓"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "佩爾薩 (Persa)",
@@ -91087,25 +72062,7 @@ window.allHeroes =
             "defense": 1264,
             "health": 1851
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：單一目標",
-                    "傷害：持續傷害"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "狀態-偷取增益"
-                ]
-            },
-            {
-                "负面效果": [
-                    "傷害-持續傷害：毒",
-                    "法力-法力生成↓/阻止"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "佩爾薩 (Persa) C1",
@@ -91169,25 +72126,7 @@ window.allHeroes =
             "defense": 1602,
             "health": 2369
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：單一目標",
-                    "傷害：持續傷害"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "狀態-偷取增益"
-                ]
-            },
-            {
-                "负面效果": [
-                    "傷害-持續傷害：毒",
-                    "法力-法力生成↓/阻止"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "柏提南克斯 (Pertinax)",
@@ -91243,25 +72182,7 @@ window.allHeroes =
             "defense": 1463,
             "health": 2611
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：範圍"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "召喚-召喚物",
-                    "攻擊-無視閃避",
-                    "傷害-傷害↑：神聖"
-                ]
-            },
-            {
-                "增益效果": [
-                    "狀態-躲藏/幽靈形態"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "菲洛梅娜 (Philomena)",
@@ -91315,25 +72236,7 @@ window.allHeroes =
             "defense": 1374,
             "health": 2633
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：鄰近輕傷"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "傷害-爆炸"
-                ]
-            },
-            {
-                "负面效果": [
-                    "法力-混亂/沉默/睡眠",
-                    "防禦-防禦↓：特殊技能",
-                    "防禦-受到傷害↑"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "波塞冬 (Poseidon)",
@@ -91380,18 +72283,7 @@ window.allHeroes =
             "defense": 886,
             "health": 1663
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：單一目標"
-                ]
-            },
-            {
-                "增益效果": [
-                    "狀態-阻止負面效果"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "波塞冬 (Poseidon) C1",
@@ -91437,18 +72329,7 @@ window.allHeroes =
             "defense": 1095,
             "health": 2228
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：單一目標"
-                ]
-            },
-            {
-                "增益效果": [
-                    "狀態-免疫狀態異常"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "莉登布洛克教授 (Prof. Lidenbrock)",
@@ -91499,19 +72380,7 @@ window.allHeroes =
             "defense": 995,
             "health": 1719
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "治療：提高生命",
-                    "治療：持續"
-                ]
-            },
-            {
-                "负面效果": [
-                    "狀態-淨化狀態異常"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "莉登布洛克教授 (Prof. Lidenbrock) C1",
@@ -91563,19 +72432,7 @@ window.allHeroes =
             "defense": 1287,
             "health": 2347
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "治療：提高生命",
-                    "治療：持續"
-                ]
-            },
-            {
-                "负面效果": [
-                    "狀態-淨化狀態異常"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "國王皇后 (Queen Guowang)",
@@ -91621,24 +72478,7 @@ window.allHeroes =
             "defense": 1026,
             "health": 1983
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：全體"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "傷害-額外傷害",
-                    "傷害-爆炸"
-                ]
-            },
-            {
-                "增益效果": [
-                    "法力-法力恢復"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "拉娜 (Rana)",
@@ -91690,21 +72530,7 @@ window.allHeroes =
             "defense": 876,
             "health": 1686
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：範圍",
-                    "傷害：持續傷害"
-                ]
-            },
-            {
-                "负面效果": [
-                    "治療-治療量↓",
-                    "傷害-持續傷害：沙",
-                    "狀態-淨化狀態異常"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "拉娜 (Rana) C1",
@@ -91756,21 +72582,7 @@ window.allHeroes =
             "defense": 1120,
             "health": 2106
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：範圍",
-                    "傷害：持續傷害"
-                ]
-            },
-            {
-                "负面效果": [
-                    "治療-治療量↓",
-                    "傷害-持續傷害：水",
-                    "狀態-淨化狀態異常"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "蘭威爾 (Ranvir)",
@@ -91821,23 +72633,7 @@ window.allHeroes =
             "defense": 965,
             "health": 1389
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：單一目標"
-                ]
-            },
-            {
-                "增益效果": [
-                    "攻擊-攻擊力↑"
-                ]
-            },
-            {
-                "负面效果": [
-                    "狀態-自我減益"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "里斯 (Rhys)",
@@ -91893,28 +72689,7 @@ window.allHeroes =
             "defense": 993,
             "health": 1793
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "治療：提高生命"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "法力-面板：法力生成"
-                ]
-            },
-            {
-                "增益效果": [
-                    "攻擊-攻擊力↑"
-                ]
-            },
-            {
-                "负面效果": [
-                    "狀態-淨化狀態異常"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "洛克 (Roc)",
@@ -91963,20 +72738,7 @@ window.allHeroes =
             "defense": 911,
             "health": 1678
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "傷害：持續傷害"
-                ]
-            },
-            {
-                "负面效果": [
-                    "治療-阻止治療",
-                    "傷害-持續傷害：沙",
-                    "狀態-淨化狀態異常"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "洛克 (Roc) C1",
@@ -92025,24 +72787,7 @@ window.allHeroes =
             "defense": 1155,
             "health": 2159
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "傷害：持續傷害"
-                ]
-            },
-            {
-                "增益效果": [
-                    "狀態-驅散增益"
-                ]
-            },
-            {
-                "负面效果": [
-                    "防禦-防禦力↓",
-                    "傷害-持續傷害：沙"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "羅莎琳德 (Rosalind)",
@@ -92097,23 +72842,7 @@ window.allHeroes =
             "defense": 1432,
             "health": 2481
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "治療：即時"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "召喚-超級召喚物"
-                ]
-            },
-            {
-                "增益效果": [
-                    "防禦-傷害減免"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "阮小七 (Ruan Xiaoqi)",
@@ -92172,25 +72901,7 @@ window.allHeroes =
             "defense": 1503,
             "health": 2649
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：全體",
-                    "傷害：持續傷害"
-                ]
-            },
-            {
-                "增益效果": [
-                    "攻擊-暴擊率↑",
-                    "狀態-驅散增益"
-                ]
-            },
-            {
-                "负面效果": [
-                    "傷害-持續傷害：水"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "賽妮絲 (Salniss)",
@@ -92247,24 +72958,7 @@ window.allHeroes =
             "defense": 1460,
             "health": 2374
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：單一目標"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "攻擊-額外攻擊"
-                ]
-            },
-            {
-                "负面效果": [
-                    "法力-混亂/沉默/睡眠",
-                    "防禦-受到傷害↑"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "聖提皮蒙特 (Satinpimenter)",
@@ -92320,30 +73014,7 @@ window.allHeroes =
             "defense": 1506,
             "health": 2440
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "治療：持續",
-                    "攻擊：範圍",
-                    "傷害：持續傷害"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "治療-自我恢復"
-                ]
-            },
-            {
-                "增益效果": [
-                    "狀態-驅散增益"
-                ]
-            },
-            {
-                "负面效果": [
-                    "傷害-持續傷害：毒"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "捲軸怪 (Scrollbeast)",
@@ -92397,28 +73068,7 @@ window.allHeroes =
             "defense": 1341,
             "health": 2364
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：全體"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "召喚-超級召喚物"
-                ]
-            },
-            {
-                "增益效果": [
-                    "防禦-反擊/反彈"
-                ]
-            },
-            {
-                "负面效果": [
-                    "攻擊-枯萎：攻擊力↓"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "薩爾 (Shaal)",
@@ -92475,24 +73125,7 @@ window.allHeroes =
             "defense": 1267,
             "health": 2199
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "治療：傷害量",
-                    "攻擊：全體"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "傷害-傷害↑：神聖"
-                ]
-            },
-            {
-                "负面效果": [
-                    "狀態-淨化狀態異常"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "微光鱗片 (Shimmerscale)",
@@ -92543,24 +73176,7 @@ window.allHeroes =
             "defense": 1417,
             "health": 2100
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：範圍",
-                    "傷害：持續傷害"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "召喚-超級召喚物"
-                ]
-            },
-            {
-                "负面效果": [
-                    "傷害-持續傷害：流血"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "希弗 (Sif)",
@@ -92609,15 +73225,7 @@ window.allHeroes =
             "defense": 883,
             "health": 1651
         },
-        "cn_skill_info": [
-            {
-                "增益效果": [
-                    "防禦-反擊/反彈",
-                    "防禦-傷害減免",
-                    "法力-法力生成↑"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "希弗 (Sif) C1",
@@ -92667,15 +73275,7 @@ window.allHeroes =
             "defense": 1180,
             "health": 2276
         },
-        "cn_skill_info": [
-            {
-                "增益效果": [
-                    "防禦-反擊/反彈",
-                    "防禦-傷害減免",
-                    "法力-法力恢復"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "銀爪 (Silverpaw)",
@@ -92699,10 +73299,10 @@ window.allHeroes =
         "source": "聖約召喚",
         "Release date": "2025-01-11",
         "star": 5,
-        "power": 1155,
-        "attack": 1238,
-        "defense": 1215,
-        "health": 1833,
+        "power": 1144,
+        "attack": 1227,
+        "defense": 1205,
+        "health": 1802,
         "effects": [
             "從目標竊取小兵和超級小兵。",
             "對目標造成持續貪婪。特殊技能的友善效果僅影響具有「貪婪」的角色。（貪婪會阻止所有其他英雄獲得友善效果，包括所有增益、治療和成長效果。此效果持續至被淨化、取代或移除）",
@@ -92727,24 +73327,7 @@ window.allHeroes =
             "defense": 1498,
             "health": 2260
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "傷害：持續傷害"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "攻擊-偷取召喚物"
-                ]
-            },
-            {
-                "负面效果": [
-                    "狀態-增益無效化",
-                    "傷害-持續傷害：詛咒"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "盧斯特力爵士 (Sir Roostley)",
@@ -92791,23 +73374,7 @@ window.allHeroes =
             "defense": 896,
             "health": 1661
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：單一目標"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "攻擊-連鎖"
-                ]
-            },
-            {
-                "负面效果": [
-                    "狀態-自我減益"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "斯拉吉斯 (Sludgus)",
@@ -92859,24 +73426,7 @@ window.allHeroes =
             "defense": 1333,
             "health": 2451
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "治療：即時",
-                    "治療：特殊"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "傷害-爆炸"
-                ]
-            },
-            {
-                "增益效果": [
-                    "防禦-閃避"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "唐三藏 (Tang Sanzang)",
@@ -92928,23 +73478,7 @@ window.allHeroes =
             "defense": 1323,
             "health": 2166
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "治療：提高生命"
-                ]
-            },
-            {
-                "增益效果": [
-                    "防禦-防禦力↑"
-                ]
-            },
-            {
-                "负面效果": [
-                    "狀態-淨化狀態異常"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "索爾 (Thor)",
@@ -92999,18 +73533,7 @@ window.allHeroes =
             "defense": 906,
             "health": 1719
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：數量變化"
-                ]
-            },
-            {
-                "负面效果": [
-                    "攻擊-命中率↓"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "索爾 (Thor) C1",
@@ -93064,18 +73587,7 @@ window.allHeroes =
             "defense": 1166,
             "health": 2378
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：全體"
-                ]
-            },
-            {
-                "负面效果": [
-                    "攻擊-命中率↓"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "雷掌 (Thunderclap)",
@@ -93130,25 +73642,7 @@ window.allHeroes =
             "defense": 1076,
             "health": 1986
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "治療：提高生命"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "傷害-爆炸",
-                    "治療-自我恢復"
-                ]
-            },
-            {
-                "增益效果": [
-                    "防禦-嘲諷",
-                    "攻擊-疊加：攻擊力↑"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "蘇拉 (Thura)",
@@ -93202,19 +73696,7 @@ window.allHeroes =
             "defense": 1313,
             "health": 2555
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：範圍"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "攻擊-穿透/繞過",
-                    "傷害-額外傷害"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "黃玉 (Topaz)",
@@ -93273,23 +73755,7 @@ window.allHeroes =
             "defense": 868,
             "health": 1838
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：數量變化"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "攻擊-摧毀召喚物"
-                ]
-            },
-            {
-                "增益效果": [
-                    "法力-法力恢復"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "烏賴烏斯 (Uraeus)",
@@ -93345,24 +73811,7 @@ window.allHeroes =
             "defense": 896,
             "health": 1633
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：單一目標",
-                    "傷害：持續傷害"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "攻擊-穿透召喚物"
-                ]
-            },
-            {
-                "负面效果": [
-                    "傷害-持續傷害：沙"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "梵莎麗 (Vaishali)",
@@ -93426,27 +73875,7 @@ window.allHeroes =
             "defense": 1165,
             "health": 2103
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "治療：持續",
-                    "傷害：持續傷害"
-                ]
-            },
-            {
-                "增益效果": [
-                    "攻擊-攻擊力↑",
-                    "狀態-驅散增益"
-                ]
-            },
-            {
-                "负面效果": [
-                    "攻擊-攻擊力↓",
-                    "傷害-持續傷害：沙",
-                    "狀態-淨化狀態異常"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "薇薇卡 (Vivica)",
@@ -93495,23 +73924,7 @@ window.allHeroes =
             "defense": 855,
             "health": 1638
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "治療：即時"
-                ]
-            },
-            {
-                "增益效果": [
-                    "防禦-防禦力↑"
-                ]
-            },
-            {
-                "负面效果": [
-                    "狀態-淨化狀態異常"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "薇薇卡 (Vivica) C1",
@@ -93560,23 +73973,7 @@ window.allHeroes =
             "defense": 975,
             "health": 1867
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "治療：即時"
-                ]
-            },
-            {
-                "增益效果": [
-                    "狀態-驅散增益"
-                ]
-            },
-            {
-                "负面效果": [
-                    "防禦-防禦力↓"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "薇薇卡 (Vivica) C2",
@@ -93625,23 +74022,7 @@ window.allHeroes =
             "defense": 1117,
             "health": 2413
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "治療：提高生命"
-                ]
-            },
-            {
-                "增益效果": [
-                    "狀態-驅散增益"
-                ]
-            },
-            {
-                "负面效果": [
-                    "攻擊-攻擊力↓"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "薇薇卡 (Vivica) 卡通",
@@ -93692,23 +74073,7 @@ window.allHeroes =
             "defense": 1368,
             "health": 2745
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "治療：即時"
-                ]
-            },
-            {
-                "增益效果": [
-                    "防禦-防禦力↑"
-                ]
-            },
-            {
-                "负面效果": [
-                    "狀態-淨化狀態異常"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "薇薇卡 (Vivica) 玻璃",
@@ -93762,24 +74127,7 @@ window.allHeroes =
             "defense": 1550,
             "health": 2888
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "治療：即時"
-                ]
-            },
-            {
-                "增益效果": [
-                    "狀態-反彈負面效果",
-                    "防禦-防禦力↑"
-                ]
-            },
-            {
-                "负面效果": [
-                    "狀態-淨化狀態異常"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "韋恩 (Wayne)",
@@ -93828,24 +74176,7 @@ window.allHeroes =
             "defense": 1381,
             "health": 1778
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "傷害：持續傷害"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "治療-透過傷害治療"
-                ]
-            },
-            {
-                "负面效果": [
-                    "治療-奪取治療",
-                    "傷害-持續傷害：流血"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "威西亞 (Wealhtheow)",
@@ -93903,25 +74234,7 @@ window.allHeroes =
             "defense": 1524,
             "health": 2842
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "治療：特殊",
-                    "治療：持續",
-                    "治療：提高生命"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "傷害-額外傷害"
-                ]
-            },
-            {
-                "增益效果": [
-                    "法力-法力生成↑"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "白兔 (White Rabbit)",
@@ -93967,18 +74280,7 @@ window.allHeroes =
             "defense": 924,
             "health": 1668
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：範圍"
-                ]
-            },
-            {
-                "负面效果": [
-                    "防禦-防禦力↓"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "白兔 (White Rabbit) C1",
@@ -94026,18 +74328,7 @@ window.allHeroes =
             "defense": 1142,
             "health": 2321
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：範圍"
-                ]
-            },
-            {
-                "负面效果": [
-                    "防禦-防禦力↓"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "葳若 (Willow)",
@@ -94101,30 +74392,7 @@ window.allHeroes =
             "defense": 1109,
             "health": 1971
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：全體"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "攻擊-穿透/繞過"
-                ]
-            },
-            {
-                "增益效果": [
-                    "防禦-反擊/反彈",
-                    "防禦-傷害減免",
-                    "狀態-驅散增益"
-                ]
-            },
-            {
-                "负面效果": [
-                    "狀態-增益無效化"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "溫妮 (Winnie)",
@@ -94178,24 +74446,7 @@ window.allHeroes =
             "defense": 1295,
             "health": 2395
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "治療：提高生命"
-                ]
-            },
-            {
-                "增益效果": [
-                    "治療-阻止最大生命值↓",
-                    "防禦-防禦力↑"
-                ]
-            },
-            {
-                "负面效果": [
-                    "狀態-淨化狀態異常"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "沃夫崗 (Wolfgang)",
@@ -94245,20 +74496,7 @@ window.allHeroes =
             "defense": 967,
             "health": 1788
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "治療：提高生命",
-                    "攻擊：全體",
-                    "治療：持續"
-                ]
-            },
-            {
-                "增益效果": [
-                    "防禦-傷害減免"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "沃夫崗 (Wolfgang) C1",
@@ -94312,20 +74550,7 @@ window.allHeroes =
             "defense": 1438,
             "health": 2641
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "治療：提高生命",
-                    "攻擊：全體",
-                    "治療：持續"
-                ]
-            },
-            {
-                "增益效果": [
-                    "防禦-傷害減免"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "沃夫斯坦 (Wulfstan)",
@@ -94375,24 +74600,7 @@ window.allHeroes =
             "defense": 1437,
             "health": 2560
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：全體"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "狀態-偷取增益"
-                ]
-            },
-            {
-                "负面效果": [
-                    "狀態-狂亂",
-                    "狀態-自我減益"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "艾薩維爾斯 (Xavier)",
@@ -94448,18 +74656,7 @@ window.allHeroes =
             "defense": 1094,
             "health": 2062
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：數量變化"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "法力-削減法力"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "蘭卓莉雅 (Zandria)",
@@ -94514,19 +74711,7 @@ window.allHeroes =
             "defense": 1084,
             "health": 2110
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：全體",
-                    "治療：復活"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "傷害-面板：提高傷害"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "薩迦 (Zazha)",
@@ -94583,19 +74768,7 @@ window.allHeroes =
             "defense": 1440,
             "health": 2684
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "治療：傷害量",
-                    "攻擊：單一目標"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "狀態-替換為增益"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "瑟肯納 (Zekena)",
@@ -94646,24 +74819,7 @@ window.allHeroes =
             "defense": 932,
             "health": 1722
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：單一目標"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "攻擊-額外攻擊",
-                    "傷害-傷害↑：黑暗"
-                ]
-            },
-            {
-                "负面效果": [
-                    "防禦-防禦力↓"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "瑟肯納 (Zekena) C1",
@@ -94715,24 +74871,7 @@ window.allHeroes =
             "defense": 1194,
             "health": 2344
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：隨機"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "攻擊-額外攻擊",
-                    "傷害-傷害↑：黑暗"
-                ]
-            },
-            {
-                "负面效果": [
-                    "防禦-防禦力↓"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "扎努克瓦 (Zenuk'wa)",
@@ -94784,23 +74923,7 @@ window.allHeroes =
             "defense": 1234,
             "health": 2329
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：範圍"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "傷害-額外傷害"
-                ]
-            },
-            {
-                "增益效果": [
-                    "狀態-免疫狀態異常"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "張飛 (Zhang Fei)",
@@ -94846,18 +74969,7 @@ window.allHeroes =
             "defense": 934,
             "health": 1747
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：單一目標"
-                ]
-            },
-            {
-                "增益效果": [
-                    "狀態-反彈負面效果"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "張飛 (Zhang Fei) C1",
@@ -94911,24 +75023,7 @@ window.allHeroes =
             "defense": 1227,
             "health": 2496
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：單一目標",
-                    "傷害：持續傷害"
-                ]
-            },
-            {
-                "增益效果": [
-                    "狀態-反彈負面效果"
-                ]
-            },
-            {
-                "负面效果": [
-                    "傷害-持續傷害：流血"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "諸葛亮 (Zhuge Liang)",
@@ -94978,19 +75073,7 @@ window.allHeroes =
             "defense": 1084,
             "health": 1905
         },
-        "cn_skill_info": [
-            {
-                "特殊效果": [
-                    "召喚-惡魔",
-                    "召喚-召喚物"
-                ]
-            },
-            {
-                "增益效果": [
-                    "防禦-反擊/反彈"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "諸葛亮 (Zhuge Liang) C1",
@@ -95045,19 +75128,7 @@ window.allHeroes =
             "defense": 1467,
             "health": 2772
         },
-        "cn_skill_info": [
-            {
-                "特殊效果": [
-                    "召喚-惡魔",
-                    "召喚-召喚物"
-                ]
-            },
-            {
-                "增益效果": [
-                    "防禦-反擊/反彈"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "佐拉 (Zora)",
@@ -95110,22 +75181,6 @@ window.allHeroes =
             "defense": 1231,
             "health": 2151
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "攻擊：全體"
-                ]
-            },
-            {
-                "增益效果": [
-                    "攻擊-攻擊力↑"
-                ]
-            },
-            {
-                "负面效果": [
-                    "狀態-淨化狀態異常"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     }
 ];
