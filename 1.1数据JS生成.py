@@ -618,7 +618,7 @@ def generate_js_data_with_translation(heroes_base_dir, output_path_cn, output_pa
         try:
             hero_name_raw = hero_data.get('name', '')
             if not hero_name_raw: continue
-            normalized_name_to_check = normalize_for_hero_name(strip_ignorable_suffix(hero_name_raw))
+            normalized_name_to_check = normalize_for_hero_name(hero_name_raw)
             if normalized_name_to_check in processed_hero_names:
                 print(f"\n提示: 检测到重复英雄 '{hero_name_raw}'。将跳过添加。")
                 logging.warning(f"检测到重复英雄 '{hero_name_raw}'，该英雄已存在于YML数据中，将跳过从 {EXTRA_HEROES_JSON_FILE} 添加。")

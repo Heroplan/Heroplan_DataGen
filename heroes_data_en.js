@@ -95148,5 +95148,353 @@ window.allHeroes =
                 ]
             }
         ]
+    },
+    {
+        "name": "Ascension Mimic Ice",
+        "fancy_name": "Grinning Cache of Evil",
+        "AetherPower": "Bulwark",
+        "color": "Blue",
+        "class": "Rogue",
+        "speed": "Average",
+        "skill": "Gorging Chew",
+        "types": [
+            "Minion Destroyer 3",
+            "Hit 3",
+            "Mimic Chest"
+        ],
+        "skill_types": [
+            "Healers (Special)",
+            "Minions Counters",
+            "AoE Attackers (Hit-3)",
+            "Mana Raisers",
+            "Immunity Providers",
+            "Ghost Form & Hiding",
+            "Bypassers"
+        ],
+        "source": "Extra Draw - Secret Summon",
+        "Release date": "2025-07-26",
+        "star": 5,
+        "power": 1225,
+        "attack": 1269,
+        "defense": 1269,
+        "health": 2152,
+        "effects": [
+            "Deals 380% damage to the target and nearby enemies.",
+            "If an enemy is defeated by the attack, the caster recovers +50% health and gains +33% mana.",
+            "The target and nearby enemies receive 608 Bleed damage over 4 turns.",
+            "The Mimic chest closes for 2 turns. (The Mimic is immune to damage and new status ailments while closed.)"
+        ],
+        "passives": [
+            "Perfect Accuracy: This character’s Special Skill never misses its targets.",
+            "Mimic Loot: This Mimic gives a chance for extra loot when completing stages",
+            " * Tall Boots",
+            " * Fine Gloves",
+            " * Compass",
+            " * Damascus Blade",
+            " * Tome of Tactics",
+            " * Strong Rope",
+            " * Battle Manual",
+            " * Warm Cape",
+            " * Farsight Telescope"
+        ],
+        "family": "mimic",
+        "image": "https://imgur.com/extra1.jpg",
+        "costume_id": 0,
+        "originalIndex": 1462,
+        "lb1": {
+            "attack": 1367,
+            "defense": 1367,
+            "health": 2319
+        },
+        "lb2": {
+            "attack": 1564,
+            "defense": 1564,
+            "health": 2664
+        },
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Area",
+                    "Dmg: DoT"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Heal - Self Recovery",
+                    "Mana - Mana Gain (on Kill)"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Def - Mimic"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Dmg - DoT : Bleed"
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Ascension Mimic Nature",
+        "fancy_name": "Grinning Cache of Evil",
+        "AetherPower": "Bulwark",
+        "color": "Green",
+        "class": "Rogue",
+        "speed": "Average",
+        "skill": "Gorging Chew",
+        "types": [
+            "Minion Destroyer 3",
+            "Hit 3",
+            "Mimic Chest"
+        ],
+        "skill_types": [
+            "Healers (Special)",
+            "Minions Counters",
+            "AoE Attackers (Hit-3)",
+            "Mana Raisers",
+            "Immunity Providers",
+            "Ghost Form & Hiding",
+            "Bypassers"
+        ],
+        "source": "Extra Draw - Secret Summon",
+        "Release date": "",
+        "star": 5,
+        "power": 1225,
+        "attack": 1269,
+        "defense": 1269,
+        "health": 2152,
+        "effects": [
+            "Deals 380% damage to the target and nearby enemies.",
+            "If an enemy is defeated by the attack, the caster recovers +50% health and gains +33% mana.",
+            "The target and nearby enemies receive 608 Bleed damage over 4 turns.",
+            "The Mimic chest closes for 2 turns. (The Mimic is immune to damage and new status ailments while closed.)"
+        ],
+        "passives": [
+            "Perfect Accuracy: This character’s Special Skill never misses its targets.",
+            "Mimic Loot: This Mimic gives a chance for extra loot when completing stages",
+            " * Tall Boots",
+            " * Fine Gloves",
+            " * Compass",
+            " * Damascus Blade",
+            " * Tome of Tactics",
+            " * Dagger",
+            " * Scabbard",
+            " * Study Shield",
+            " * Mysterious Tonic"
+        ],
+        "family": "mimic",
+        "image": "https://imgur.com/Green.jpg",
+        "costume_id": 0,
+        "originalIndex": 1463,
+        "lb1": {
+            "attack": 1367,
+            "defense": 1367,
+            "health": 2319
+        },
+        "lb2": {
+            "attack": 1564,
+            "defense": 1564,
+            "health": 2664
+        },
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Area",
+                    "Dmg: DoT"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Heal - Self Recovery",
+                    "Mana - Mana Gain (on Kill)"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Def - Mimic"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Dmg - DoT : Bleed"
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Ascension Mimic Holy",
+        "fancy_name": "Grinning Cache of Evil",
+        "AetherPower": "Bulwark",
+        "color": "Yellow",
+        "class": "Rogue",
+        "speed": "Average",
+        "skill": "Gorging Chew",
+        "types": [
+            "Minion Destroyer 3",
+            "Hit 3",
+            "Mimic Chest"
+        ],
+        "skill_types": [
+            "Healers (Special)",
+            "Minions Counters",
+            "AoE Attackers (Hit-3)",
+            "Mana Raisers",
+            "Immunity Providers",
+            "Ghost Form & Hiding",
+            "Bypassers"
+        ],
+        "source": "Extra Draw - Secret Summon",
+        "Release date": "",
+        "star": 5,
+        "power": 1225,
+        "attack": 1269,
+        "defense": 1269,
+        "health": 2152,
+        "effects": [
+            "Deals 380% damage to the target and nearby enemies.",
+            "If an enemy is defeated by the attack, the caster recovers +50% health and gains +33% mana.",
+            "The target and nearby enemies receive 608 Bleed damage over 4 turns.",
+            "The Mimic chest closes for 2 turns. (The Mimic is immune to damage and new status ailments while closed.)"
+        ],
+        "passives": [
+            "Perfect Accuracy: This character’s Special Skill never misses its targets.",
+            "Mimic Loot: This Mimic gives a chance for extra loot when completing stages",
+            " * Tall Boots",
+            " * Fine Gloves",
+            " * Compass",
+            " * Damascus Blade",
+            " * Tome of Tactics",
+            " * Arcane Scipt",
+            " * Chainmail Shirt",
+            " * Orb of Magic",
+            " * Poison Darts"
+        ],
+        "family": "mimic",
+        "image": "https://imgur.com/Yellow.jpg",
+        "costume_id": 0,
+        "originalIndex": 1464,
+        "lb1": {
+            "attack": 1367,
+            "defense": 1367,
+            "health": 2319
+        },
+        "lb2": {
+            "attack": 1564,
+            "defense": 1564,
+            "health": 2664
+        },
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Area",
+                    "Dmg: DoT"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Heal - Self Recovery",
+                    "Mana - Mana Gain (on Kill)"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Def - Mimic"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Dmg - DoT : Bleed"
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Ascension Mimic Dark",
+        "fancy_name": "Grinning Cache of Evil",
+        "AetherPower": "Bulwark",
+        "color": "Purple",
+        "class": "Rogue",
+        "speed": "Average",
+        "skill": "Gorging Chew",
+        "types": [
+            "Minion Destroyer 3",
+            "Hit 3",
+            "Mimic Chest"
+        ],
+        "skill_types": [
+            "Healers (Special)",
+            "Minions Counters",
+            "AoE Attackers (Hit-3)",
+            "Mana Raisers",
+            "Immunity Providers",
+            "Ghost Form & Hiding",
+            "Bypassers"
+        ],
+        "source": "Extra Draw - Secret Summon",
+        "Release date": "",
+        "star": 5,
+        "power": 1225,
+        "attack": 1269,
+        "defense": 1269,
+        "health": 2152,
+        "effects": [
+            "Deals 380% damage to the target and nearby enemies.",
+            "If an enemy is defeated by the attack, the caster recovers +50% health and gains +33% mana.",
+            "The target and nearby enemies receive 608 Bleed damage over 4 turns.",
+            "The Mimic chest closes for 2 turns. (The Mimic is immune to damage and new status ailments while closed.)"
+        ],
+        "passives": [
+            "Perfect Accuracy: This character’s Special Skill never misses its targets.",
+            "Mimic Loot: This Mimic gives a chance for extra loot when completing stages",
+            " * Tall Boots",
+            " * Fine Gloves",
+            " * Compass",
+            " * Damascus Blade",
+            " * Tome of Tactics",
+            " * Dagger",
+            " * Scabbard",
+            " * Trap Tools",
+            " * Royal Tabard"
+        ],
+        "family": "mimic",
+        "image": "https://imgur.com/Purple.jpg",
+        "costume_id": 0,
+        "originalIndex": 1465,
+        "lb1": {
+            "attack": 1367,
+            "defense": 1367,
+            "health": 2319
+        },
+        "lb2": {
+            "attack": 1564,
+            "defense": 1564,
+            "health": 2664
+        },
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Area",
+                    "Dmg: DoT"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Heal - Self Recovery",
+                    "Mana - Mana Gain (on Kill)"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Def - Mimic"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Dmg - DoT : Bleed"
+                ]
+            }
+        ]
     }
 ];

@@ -10205,5 +10205,73 @@ const allTranslations =
             "Resist Mana Reduction: This character has innate resistance against mana reduction.",
             "Mana on Status Ailment Received: This character gains 5% mana when they receive a status ailment or negative stack."
         ]
+    },
+    {
+        "originalIndex": 1462,
+        "name": "进阶拟态兽 (Ascension Mimic) Ice",
+        "passives": [
+            "Perfect Accuracy: This character’s Special Skill never misses its targets.",
+            "Mimic Loot: This Mimic gives a chance for extra loot when completing stages",
+            " * Tall Boots",
+            " * Fine Gloves",
+            " * Compass",
+            " * Damascus Blade",
+            " * Tome of Tactics",
+            " * Strong Rope",
+            " * Battle Manual",
+            " * Warm Cape",
+            " * Farsight Telescope"
+        ]
+    },
+    {
+        "originalIndex": 1463,
+        "name": "进阶拟态兽 (Ascension Mimic) Nature",
+        "passives": [
+            "Perfect Accuracy: This character’s Special Skill never misses its targets.",
+            "Mimic Loot: This Mimic gives a chance for extra loot when completing stages",
+            " * Tall Boots",
+            " * Fine Gloves",
+            " * Compass",
+            " * Damascus Blade",
+            " * Tome of Tactics",
+            " * Dagger",
+            " * Scabbard",
+            " * Study Shield",
+            " * Mysterious Tonic"
+        ]
+    },
+    {
+        "originalIndex": 1464,
+        "name": "进阶拟态兽 (Ascension Mimic) Holy",
+        "passives": [
+            "Perfect Accuracy: This character’s Special Skill never misses its targets.",
+            "Mimic Loot: This Mimic gives a chance for extra loot when completing stages",
+            " * Tall Boots",
+            " * Fine Gloves",
+            " * Compass",
+            " * Damascus Blade",
+            " * Tome of Tactics",
+            " * Arcane Scipt",
+            " * Chainmail Shirt",
+            " * Orb of Magic",
+            " * Poison Darts"
+        ]
+    },
+    {
+        "originalIndex": 1465,
+        "name": "进阶拟态兽 (Ascension Mimic) Dark",
+        "passives": [
+            "Perfect Accuracy: This character’s Special Skill never misses its targets.",
+            "Mimic Loot: This Mimic gives a chance for extra loot when completing stages",
+            " * Tall Boots",
+            " * Fine Gloves",
+            " * Compass",
+            " * Damascus Blade",
+            " * Tome of Tactics",
+            " * Dagger",
+            " * Scabbard",
+            " * Trap Tools",
+            " * Royal Tabard"
+        ]
     }
 ];

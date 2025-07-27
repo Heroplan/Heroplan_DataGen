@@ -346,7 +346,7 @@
     "^\\*\\s+Compass$": "* 指南。",
     "^\\*\\s+Damascus\\s+Blade$": "* 大马士革刀。",
     "^\\*\\s+Tome\\s+Of\\s+Tactics$": "* 策略书卷。",
-    "^\\*\\s+Arcane\\s+Scipt$": "* 奥术手稿。",
+    "^\\*\\s+Arcane\\s+Scipt$": "* 奧術手稿。",
     "^\\*\\s+Chainmail\\s+Shirt$": "* 链甲衫。",
     "^\\*\\s+Hidden\\s+Blade$": "* 袖剑。",
     "^\\*\\s+Mystic\\s+Rings$": "* 神妙戒指。",
@@ -427,5 +427,18 @@
     "^Health\\s+recovery\\s+on\\s+Special:\\s+When\\s+this\\s+character\\s+casts\\s+their\\s+Special\\s+Skill,\\s+they\\s+have\\s+a([+-]?\\s*\\d+\\s*%?)\\s+chance\\s+to\\s+recover([+-]?\\s*\\d+\\s*%?)\\s+health\\s+for\\s+all\\s+allies\\.?\\s*\\s+If\\s+the\\s+Special\\s+Skill\\s+is\\s+fully\\s+charged,\\s+the\\s+chance\\s+is([+-]?\\s*\\d+\\s*%?)\\.?\\s*$": "暴增的健康恢復：此角色施放特殊技能時，有\\1 機率讓所有盟友恢復\\2 生命值。若特殊技能已完全暴增，則機率為\\3。",
     "^Mana\\s+on\\s+Buff\\s+Received:\\s+Gain([+-]?\\s*\\d+\\s*%?)\\s+mana\\s+when\\s+receiving\\s+a\\s+buff\\s+or\\s+a\\s+positive\\s+stack$": "獲得增益的法力：獲得增益或正面疊加時可獲得\\1 法力。",
     "^Increased\\s+Status\\s+Effect\\s+Duration:\\s+Chance\\s+to\\s+increase\\s+the\\s+duration\\s+of\\s+cast\\s+status\\s+effects$": "提升狀態效果持續時間：有機率提升施放狀態效果的持續時間。",
-    "^Increased\\s+Damage\\s+Against\\s+Boosted\\s+Health:\\s+After\\s+this\\s+character\\s+casts\\s+their\\s+Special\\s+Skill\\s+cast,\\s+all\\s+allies['’]?\\s+normal\\s+attacks\\s+and\\s+Special\\s+Skills\\s+deal\\s+([+-]?\\s*\\d+\\s*%?)\\s+damage\\s+against\\s+targets\\s+with\\s+boosted\\s+health\\s+for([+-]?\\s*\\d+\\s*%?)turns\\s+\\.?\\s*$": "對加成生命值造成額外傷害：施放特殊技能後，所有盟友的普通攻擊和特殊技能對擁有加成生命值的目標造成 \\1 傷害，持續\\2回合。"
+    "^Increased\\s+Damage\\s+Against\\s+Boosted\\s+Health:\\s+After\\s+this\\s+character\\s+casts\\s+their\\s+Special\\s+Skill\\s+cast,\\s+all\\s+allies['’]?\\s+normal\\s+attacks\\s+and\\s+Special\\s+Skills\\s+deal\\s+([+-]?\\s*\\d+\\s*%?)\\s+damage\\s+against\\s+targets\\s+with\\s+boosted\\s+health\\s+for([+-]?\\s*\\d+\\s*%?)turns\\s+\\.?\\s*$": "對加成生命值造成額外傷害：施放特殊技能後，所有盟友的普通攻擊和特殊技能對擁有加成生命值的目標造成 \\1 傷害，持續\\2回合。",
+    "^\\*\\s+Tome\\s+of\\s+Tactics$": "* 策略书卷。",
+    "^\\*\\s+Strong\\s+Rope$": "* 粗繩。",
+    "^\\*\\s+Battle\\s+Manual$": "* 戰鬥手冊。",
+    "^\\*\\s+Warm\\s+Cape$": "* 保暖披風。",
+    "^\\*\\s+Farsight\\s+Telescope$": "* 望遠鏡。",
+    "^\\*\\s+Dagger$": "* 匕首。",
+    "^\\*\\s+Scabbard$": "* 劍鞘。",
+    "^\\*\\s+Study\\s+Shield$": "* 堅固護盾。",
+    "^\\*\\s+Mysterious\\s+Tonic$": "* 神秘補藥。",
+    "^\\*\\s+Orb\\s+of\\s+Magic$": "* 魔法球。",
+    "^\\*\\s+Poison\\s+Darts$": "* 毒鏢。",
+    "^\\*\\s+Trap\\s+Tools$": "* 陷阱工具。",
+    "^\\*\\s+Royal\\s+Tabard$": "* 皇室戰袍。"
 }
