@@ -144,7 +144,7 @@ def validate_translations(script_output_data, manual_data, lang_code, logger):
 
 def main():
     """主函数，执行家族奖励的双语批量翻译及校验流程。"""
-    logger = setup_logger('../../../logs/families_bonus_bilingual_translation_log.log', 'FamiliesBonusBilingualTranslator')
+    logger = setup_logger('../../logs/families_bonus_bilingual_translation_log.log', 'FamiliesBonusBilingualTranslator')
     logger.info("--- 开始家族奖励（Family Bonus）双语批量翻译任务 ---")
 
     dict_file_cn = '../../dictionaries/families_bonus_dict_cn.json'

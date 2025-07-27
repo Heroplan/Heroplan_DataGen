@@ -170,7 +170,7 @@ def validate_translations(script_output_data, manual_data, lang_code, logger):
 
 def main():
     """(已重写) 主函数，实现最完善的翻译和校验逻辑"""
-    logger = setup_logger('../../../logs/effects_bilingual_translation_log.log', 'EffectsBilingualTranslator')
+    logger = setup_logger('../../logs/effects_bilingual_translation_log.log', 'EffectsBilingualTranslator')
     logger.info("--- 开始技能词条双语批量翻译任务 ---")
 
     dict_file_cn = '../../dictionaries/effects_dict_cn.json'

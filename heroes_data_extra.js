@@ -16724,5 +16724,38 @@ window.allHeroesExtra = [
             "Minions Summoners",
             "Dispellers"
         ]
+    },
+    {
+        "name": "Agadh",
+        "fancy name": "Magic Carpet Assassin",
+        "Release date": "2025-07-23",
+        "AetherPower": "Attack Up",
+        "skill_types": [
+            "Snipers",
+            "Mana Reducers or Blockers",
+            "DoT Attackers",
+            "Resurrection Inhibitors",
+            "Status Effect Conversion",
+            "Minions Counters"
+
+        ]
+    },
+    {
+        "name": "Ray costume1",
+        "fancy name": "Champion of the Bramble",
+        "Release date": "2025-07-23",
+        "AetherPower": "Dodge",
+        "skill_types": [
+            "Minions Counters",
+            "DoT Attackers",
+            "Dispellers",
+            "Debuffers (DEF)",
+            "Heal over Time (HoT)",
+            "Buffers (ATK)",
+            "Cleansers",
+            "Mana Reducers or Blockers",
+            "Mana Raisers"
+        
+        ]
     }
 ];

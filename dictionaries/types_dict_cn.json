@@ -820,5 +820,9 @@
     "Debuff Reflect for Dark Allies": "暗黑系盟友反射减益",
     "Debuff Reflect All Fire Allies": "全体火焰系盟友反射减益",
     "Lifts 1 Status Ailments All": "全体转移1个状态异常",
-    "Ailments Immunity All": "全体状态异常免疫"
+    "Ailments Immunity All": "全体状态异常免疫",
+    "Revive Ability Block 1": "阻止单体复活能力",
+    "Replace Buffs 1": "替换单个目标增益",
+    "Revive Block All": "全体阻止复活",
+    "Replace Ailments All": "全体替换状态异常"
 }

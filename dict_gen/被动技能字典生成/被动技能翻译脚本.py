@@ -174,7 +174,7 @@ def validate_translations(script_output_data, manual_data, lang_code, logger):
 
 def main():
     """主函数，执行被动技能的双语批量翻译及校验流程。"""
-    logger = setup_logger('../../../logs/passives_bilingual_translation_log.log', 'PassivesBilingualTranslator')
+    logger = setup_logger('../../logs/passives_bilingual_translation_log.log', 'PassivesBilingualTranslator')
     logger.info("--- 开始被动技能双语批量翻译任务 ---")
 
     dict_file_cn = '../../dictionaries/passives_dict_cn.json'

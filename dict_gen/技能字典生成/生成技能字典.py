@@ -15,8 +15,8 @@ TRANSLATED_TC_FILE = 'effects_translated_tc.js'
 OUTPUT_DICT_CN = '../../dictionaries/effects_dict_cn.json'
 OUTPUT_DICT_TC = '../../dictionaries/effects_dict_tc.json'
 
-LOG_FILE = '../../../logs/effects_generate_log.log'
-STRUCTURAL_DISCREPANCY_REPORT = '../../../logs/effects_structural_discrepancy_report.txt'
+LOG_FILE = '../../logs/effects_generate_log.log'
+STRUCTURAL_DISCREPANCY_REPORT = '../../logs/effects_structural_discrepancy_report.txt'
 
 
 def setup_logger():

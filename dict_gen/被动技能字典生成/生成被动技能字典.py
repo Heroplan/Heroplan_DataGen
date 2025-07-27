@@ -15,8 +15,8 @@ TRANSLATED_TC_FILE = 'passives_translated_tc.js'
 OUTPUT_DICT_CN = '../../dictionaries/passives_dict_cn.json'
 OUTPUT_DICT_TC = '../../dictionaries/passives_dict_tc.json'
 
-LOG_FILE = '../../../logs/passives_generate_log.log'
-STRUCTURAL_DISCREPANCY_REPORT = '../../../logs/passives_structural_discrepancy_report.txt'
+LOG_FILE = '../../logs/passives_generate_log.log'
+STRUCTURAL_DISCREPANCY_REPORT = '../../logs/passives_structural_discrepancy_report.txt'
 
 
 def setup_logger():

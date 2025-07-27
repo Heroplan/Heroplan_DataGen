@@ -140,7 +140,7 @@ def generate_single_dictionary(original_data, translated_data, lang_code, logger
 
 def main():
     """主函数，用于编排双语家族奖励字典的生成和保存。"""
-    logger = setup_logger('../../../logs/families_bonus_generate_log.log', 'FamiliesBonusGenerator')
+    logger = setup_logger('../../logs/families_bonus_generate_log.log', 'FamiliesBonusGenerator')
     logger.info("--- 开始生成家族奖励（Family Bonus）的双语正则表达式字典 ---")
     
     original_file = '../../to_translate/families_bonus_to_translate.js'
