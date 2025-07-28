@@ -169,6 +169,100 @@ def strip_ignorable_suffix(name):
         return ' '.join(parts[:-1])
     return name
 
+# 新增辅助函数：将英雄全名转换为爬虫所需的格式
+def _convert_name_to_stat_format(hero_name_full):
+    """
+    将脚本内部使用的英雄全名 (例如 'Chao toon', 'Roz costume1') 
+    转换为用于爬虫目标 name.json 的格式 (例如 'Chao C3', 'Roz C')。
+    """
+    parts = hero_name_full.split()
+    base_name = hero_name_full
+    suffix = ""
+
+    if len(parts) > 1:
+        # 识别出全名中的后缀部分
+        possible_suffixes = {"costume1", "costume2", "toon", "glass"}
+        raw_suffix = parts[-1].lower()
+        if raw_suffix in possible_suffixes:
+            base_name = ' '.join(parts[:-1])
+            suffix = raw_suffix
+
+    if not suffix:
+        return base_name # 如果没有后缀，直接返回基础名称
+
+    output_key = hero_name_full # 默认返回原始全名以防万一
+    normalized_base = normalize_for_hero_name(base_name)
+
+    # 根据是否为特殊英雄（S1普通英雄）应用不同的皮肤后缀规则
+    if normalized_base in SPECIAL_COSTUME_HEROES:
+        if suffix == "costume1": output_key = f"{base_name} C"
+        elif suffix == "toon": output_key = f"{base_name} C2"
+        elif suffix == "glass": output_key = f"{base_name} C3"
+    else: # 其他所有英雄的规则
+        if suffix == "costume1": output_key = f"{base_name} C"
+        elif suffix == "costume2": output_key = f"{base_name} C2"
+        elif suffix == "toon": output_key = f"{base_name} C3"
+        elif suffix == "glass": output_key = f"{base_name} C4"
+    
+    return output_key
+
+# 新增核心功能：将缺失数据的英雄名追加到 name.json
+def append_unmatched_heroes_to_name_json(unmatched_names, file_path):
+    """
+    当YML英雄在hero_stats.json中未匹配到属性时，将其名字追加到指定的name.json文件中。
+    """
+    if not unmatched_names:
+        logging.info("所有YML英雄均已在 hero_stats.json 中找到匹配，无需更新 name.json。")
+        return
+
+    logging.info(f"检测到 {len(unmatched_names)} 个YML英雄缺少属性数据，准备更新 '{file_path}'...")
+    
+    # 确定目标文件的完整路径，即使脚本从不同目录运行也能找到
+    target_file = os.path.join(os.path.dirname(__file__), file_path) if not os.path.isabs(file_path) else file_path
+    os.makedirs(os.path.dirname(target_file), exist_ok=True)
+
+    # 读取现有数据
+    try:
+        if os.path.exists(target_file) and os.path.getsize(target_file) > 0:
+            with open(target_file, 'r', encoding='utf-8') as f:
+                existing_names = json.load(f)
+            if not isinstance(existing_names, list):
+                logging.warning(f"'{target_file}' 的内容不是一个列表。将从空列表开始。")
+                existing_names = []
+        else:
+            existing_names = []
+    except (json.JSONDecodeError, FileNotFoundError) as e:
+        logging.error(f"读取或解析 '{target_file}' 时出错: {e}。将从空列表开始。")
+        existing_names = []
+
+    # 准备新数据并去重
+    existing_names_set = set(existing_names)
+    names_to_add_count = 0
+
+    for raw_name in set(unmatched_names): # 使用 set 去除本次运行中重复的缺失名
+        converted_name = _convert_name_to_stat_format(raw_name)
+        if converted_name not in existing_names_set:
+            existing_names.append(converted_name)
+            existing_names_set.add(converted_name)
+            names_to_add_count += 1
+            logging.info(f"准备向 name.json 添加: '{converted_name}' (源于: '{raw_name}')")
+
+    # 如果有新数据，则写回文件
+    if names_to_add_count > 0:
+        try:
+            # 按字母顺序排序以保持文件整洁
+            existing_names.sort()
+            with open(target_file, 'w', encoding='utf-8') as f:
+                json.dump(existing_names, f, ensure_ascii=False, indent=4)
+            print(f"\n成功！已将 {names_to_add_count} 个缺失的英雄名追加到 '{target_file}'。")
+            logging.info(f"成功！已将 {names_to_add_count} 个缺失的英雄名追加到 '{target_file}'。")
+        except Exception as e:
+            logging.error(f"写入 '{target_file}' 时失败: {e}")
+            print(f"\n错误: 写入数据到 '{target_file}' 时失败。")
+    else:
+        logging.info("name.json 文件已包含所有本次检测到的缺失英雄，无需更新。")
+
+
 def load_hero_stats():
     global hero_stats_lookup
     if not os.path.exists(HERO_STATS_FILE):
@@ -685,6 +779,10 @@ def generate_js_data_with_translation(heroes_base_dir, output_path_cn, output_pa
         logging.warning("\n--- 以下YML英雄未在 hero_stats.json 中匹配到属性 ---")
         for name in sorted(unmatched_yml_heroes):
             logging.warning(f"- {name} (规范化查询名称: {normalize_for_hero_name(strip_ignorable_suffix(name))})")
+        # --- 新增功能调用 ---
+        # 将所有在 hero_stats.json 中找不到的英雄名字，添加到 name.json 文件中
+        append_unmatched_heroes_to_name_json(unmatched_yml_heroes, '../突破数据爬取/name.json')
+
     if unmatched_stats_keys:
         logging.warning("\n--- 以下 hero_stats.json 中的条目未被使用 ---")
         for key in sorted(list(unmatched_stats_keys)):

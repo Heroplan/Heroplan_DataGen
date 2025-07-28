@@ -58,7 +58,7 @@
         "lb2": {
             "attack": 1564,
             "defense": 1564,
-            "health": 2664
+            "health": 2654
         }
     },
     
@@ -121,7 +121,7 @@
         "lb2": {
             "attack": 1564,
             "defense": 1564,
-            "health": 2664
+            "health": 2654
         }
     },
     
@@ -184,7 +184,7 @@
         "lb2": {
             "attack": 1564,
             "defense": 1564,
-            "health": 2664
+            "health": 2654
         }
     },
     
@@ -247,7 +247,7 @@
         "lb2": {
             "attack": 1564,
             "defense": 1564,
-            "health": 2664
+            "health": 2654
         }
     }
 ]
