@@ -3259,16 +3259,16 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 56,
         "lb1": {
-            "power": 742,
+            "power": 738,
             "attack": 719,
             "defense": 708,
-            "health": 1477
+            "health": 1450
         },
         "lb2": {
-            "power": 847,
+            "power": 842,
             "attack": 835,
             "defense": 820,
-            "health": 1712
+            "health": 1682
         },
         "cn_skill_info": [
             {
@@ -5394,15 +5394,15 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 90,
         "lb1": {
-            "power": 1049,
+            "power": 1045,
             "attack": 874,
-            "defense": 1062,
+            "defense": 1045,
             "health": 2293
         },
         "lb2": {
-            "power": 1182,
+            "power": 1177,
             "attack": 1000,
-            "defense": 1214,
+            "defense": 1196,
             "health": 2625
         },
         "cn_skill_info": [
@@ -5646,15 +5646,15 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 94,
         "lb1": {
-            "power": 1047,
+            "power": 1043,
             "attack": 1008,
-            "defense": 983,
+            "defense": 967,
             "health": 2103
         },
         "lb2": {
-            "power": 1180,
+            "power": 1176,
             "attack": 1153,
-            "defense": 1123,
+            "defense": 1107,
             "health": 2408
         },
         "cn_skill_info": [
@@ -6467,15 +6467,15 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 106,
         "lb1": {
-            "power": 1042,
+            "power": 1038,
             "attack": 1004,
-            "defense": 962,
+            "defense": 947,
             "health": 2117
         },
         "lb2": {
-            "power": 1175,
+            "power": 1170,
             "attack": 1150,
-            "defense": 1102,
+            "defense": 1084,
             "health": 2422
         },
         "cn_skill_info": [
@@ -10547,16 +10547,16 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 166,
         "lb1": {
-            "power": 892,
+            "power": 904,
             "attack": 1007,
             "defense": 765,
-            "health": 1431
+            "health": 1520
         },
         "lb2": {
-            "power": 1003,
+            "power": 1017,
             "attack": 1153,
             "defense": 874,
-            "health": 1638
+            "health": 1739
         },
         "cn_skill_info": [
             {
@@ -11809,16 +11809,16 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 185,
         "lb1": {
-            "power": 892,
+            "power": 906,
             "attack": 862,
             "defense": 849,
-            "health": 1624
+            "health": 1724
         },
         "lb2": {
-            "power": 1002,
+            "power": 1018,
             "attack": 986,
             "defense": 972,
-            "health": 1858
+            "health": 1973
         },
         "cn_skill_info": [
             {
@@ -12167,9 +12167,9 @@ window.allHeroes =
         "Release date": "2022-03-21",
         "star": 5,
         "power": 867,
-        "attack": 890,
-        "defense": 811,
-        "health": 1453,
+        "attack": 945,
+        "defense": 848,
+        "health": 1515,
         "effects": [
             "Deals 280% damage to all enemies.",
             "The caster gets -24% mana generation for 4 turns. This effect can't be cleansed."
@@ -14229,15 +14229,15 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 221,
         "lb1": {
-            "power": 1043,
+            "power": 1039,
             "attack": 999,
-            "defense": 962,
+            "defense": 947,
             "health": 2137
         },
         "lb2": {
-            "power": 1176,
+            "power": 1171,
             "attack": 1144,
-            "defense": 1102,
+            "defense": 1084,
             "health": 2444
         },
         "cn_skill_info": [
@@ -14293,16 +14293,16 @@ window.allHeroes =
         "costume_id": 0,
         "originalIndex": 222,
         "lb1": {
-            "power": 1101,
+            "power": 1120,
             "attack": 1163,
             "defense": 1149,
-            "health": 1767
+            "health": 1904
         },
         "lb2": {
-            "power": 1242,
+            "power": 1264,
             "attack": 1330,
             "defense": 1315,
-            "health": 2021
+            "health": 2179
         },
         "cn_skill_info": [
             {
@@ -14840,16 +14840,16 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 230,
         "lb1": {
-            "power": 893,
+            "power": 906,
             "attack": 792,
             "defense": 1000,
-            "health": 1507
+            "health": 1600
         },
         "lb2": {
-            "power": 1004,
+            "power": 1019,
             "attack": 906,
             "defense": 1144,
-            "health": 1724
+            "health": 1831
         },
         "cn_skill_info": [
             {
@@ -17208,16 +17208,16 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 264,
         "lb1": {
-            "power": 896,
+            "power": 909,
             "attack": 841,
             "defense": 913,
-            "health": 1577
+            "health": 1674
         },
         "lb2": {
-            "power": 1007,
+            "power": 1023,
             "attack": 963,
             "defense": 1044,
-            "health": 1804
+            "health": 1916
         },
         "cn_skill_info": [
             {
@@ -19662,16 +19662,16 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 305,
         "lb1": {
-            "power": 541,
-            "attack": 508,
-            "defense": 575,
-            "health": 981
+            "power": 553,
+            "attack": 517,
+            "defense": 587,
+            "health": 1020
         },
         "lb2": {
-            "power": 653,
-            "attack": 627,
-            "defense": 710,
-            "health": 1212
+            "power": 668,
+            "attack": 639,
+            "defense": 726,
+            "health": 1261
         },
         "cn_skill_info": [
             {
@@ -20559,10 +20559,10 @@ window.allHeroes =
             "health": 1062
         },
         "lb2": {
-            "power": 644,
+            "power": 642,
             "attack": 681,
             "defense": 559,
-            "health": 1312
+            "health": 1301
         },
         "cn_skill_info": [
             {
@@ -25511,15 +25511,15 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 398,
         "lb1": {
-            "power": 1041,
+            "power": 1037,
             "attack": 983,
-            "defense": 1036,
+            "defense": 1019,
             "health": 2016
         },
         "lb2": {
-            "power": 1173,
+            "power": 1168,
             "attack": 1123,
-            "defense": 1186,
+            "defense": 1166,
             "health": 2308
         },
         "cn_skill_info": [
@@ -25695,9 +25695,9 @@ window.allHeroes =
         "Release date": "2024-03-18",
         "star": 5,
         "power": 986,
-        "attack": 1001,
-        "defense": 952,
-        "health": 1749,
+        "attack": 1063,
+        "defense": 993,
+        "health": 1822,
         "effects": [
             "Deals 240% damage to all enemies.",
             "All enemies are immune to new status effect buffs for 4 turns, and receive 300 damage for each attempted buff.",
@@ -27727,16 +27727,16 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 431,
         "lb1": {
-            "power": 1243,
-            "attack": 1323,
-            "defense": 1188,
-            "health": 2300
+            "power": 1283,
+            "attack": 1360,
+            "defense": 1221,
+            "health": 2428
         },
         "lb2": {
-            "power": 1404,
-            "attack": 1514,
-            "defense": 1360,
-            "health": 2632
+            "power": 1450,
+            "attack": 1556,
+            "defense": 1397,
+            "health": 2778
         },
         "cn_skill_info": [
             {
@@ -27842,16 +27842,16 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 433,
         "lb1": {
-            "power": 896,
+            "power": 909,
             "attack": 796,
             "defense": 1000,
-            "health": 1517
+            "health": 1611
         },
         "lb2": {
-            "power": 1007,
+            "power": 1022,
             "attack": 911,
             "defense": 1144,
-            "health": 1735
+            "health": 1843
         },
         "cn_skill_info": [
             {
@@ -28355,15 +28355,15 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 441,
         "lb1": {
-            "power": 1047,
+            "power": 1042,
             "attack": 1025,
-            "defense": 979,
+            "defense": 963,
             "health": 2063
         },
         "lb2": {
-            "power": 1179,
+            "power": 1174,
             "attack": 1172,
-            "defense": 1121,
+            "defense": 1102,
             "health": 2360
         },
         "cn_skill_info": [
@@ -28915,16 +28915,16 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 449,
         "lb1": {
-            "power": 1101,
-            "attack": 1144,
-            "defense": 1090,
-            "health": 1931
+            "power": 1008,
+            "attack": 1032,
+            "defense": 968,
+            "health": 1788
         },
         "lb2": {
-            "power": 1242,
-            "attack": 1309,
-            "defense": 1247,
-            "health": 2211
+            "power": 1135,
+            "attack": 1181,
+            "defense": 1108,
+            "health": 2046
         },
         "cn_skill_info": [
             {
@@ -30231,15 +30231,15 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 468,
         "lb1": {
-            "power": 1048,
+            "power": 1044,
             "attack": 1034,
-            "defense": 968,
+            "defense": 953,
             "health": 2072
         },
         "lb2": {
-            "power": 1181,
+            "power": 1176,
             "attack": 1182,
-            "defense": 1108,
+            "defense": 1091,
             "health": 2370
         },
         "cn_skill_info": [
@@ -30958,16 +30958,16 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 479,
         "lb1": {
-            "power": 890,
+            "power": 906,
             "attack": 802,
             "defense": 804,
-            "health": 1848
+            "health": 1962
         },
         "lb2": {
-            "power": 1000,
+            "power": 1018,
             "attack": 917,
             "defense": 920,
-            "health": 2114
+            "health": 2245
         },
         "cn_skill_info": [
             {
@@ -31489,16 +31489,16 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 487,
         "lb1": {
-            "power": 894,
+            "power": 908,
             "attack": 810,
             "defense": 962,
-            "health": 1546
+            "health": 1643
         },
         "lb2": {
-            "power": 1005,
+            "power": 1021,
             "attack": 926,
             "defense": 1101,
-            "health": 1770
+            "health": 1880
         },
         "cn_skill_info": [
             {
@@ -32392,16 +32392,16 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 501,
         "lb1": {
-            "power": 892,
+            "power": 905,
             "attack": 897,
             "defense": 864,
-            "health": 1509
+            "health": 1603
         },
         "lb2": {
-            "power": 1003,
+            "power": 1018,
             "attack": 1027,
             "defense": 989,
-            "health": 1727
+            "health": 1834
         },
         "cn_skill_info": [
             {
@@ -33048,16 +33048,16 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 511,
         "lb1": {
-            "power": 1253,
-            "attack": 1254,
-            "defense": 1278,
-            "health": 2364
+            "power": 1294,
+            "attack": 1290,
+            "defense": 1314,
+            "health": 2496
         },
         "lb2": {
-            "power": 1416,
-            "attack": 1435,
-            "defense": 1463,
-            "health": 2705
+            "power": 1463,
+            "attack": 1476,
+            "defense": 1504,
+            "health": 2856
         },
         "cn_skill_info": [
             {
@@ -37584,15 +37584,15 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 579,
         "lb1": {
-            "power": 1046,
+            "power": 1041,
             "attack": 1036,
-            "defense": 965,
+            "defense": 950,
             "health": 2056
         },
         "lb2": {
-            "power": 1179,
+            "power": 1174,
             "attack": 1186,
-            "defense": 1104,
+            "defense": 1087,
             "health": 2353
         },
         "cn_skill_info": [
@@ -39398,10 +39398,10 @@ window.allHeroes =
             "health": 1068
         },
         "lb2": {
-            "power": 641,
+            "power": 640,
             "attack": 590,
             "defense": 661,
-            "health": 1320
+            "health": 1308
         },
         "cn_skill_info": [
             {
@@ -39638,10 +39638,10 @@ window.allHeroes =
             "health": 1064
         },
         "lb2": {
-            "power": 643,
+            "power": 641,
             "attack": 592,
             "defense": 666,
-            "health": 1315
+            "health": 1304
         },
         "cn_skill_info": [
             {
@@ -40119,10 +40119,10 @@ window.allHeroes =
             "health": 1068
         },
         "lb2": {
-            "power": 635,
+            "power": 634,
             "attack": 592,
             "defense": 637,
-            "health": 1320
+            "health": 1308
         },
         "cn_skill_info": [
             {
@@ -42219,9 +42219,9 @@ window.allHeroes =
         "Release date": "2023-04-20",
         "star": 4,
         "power": 679,
-        "attack": 746,
-        "defense": 633,
-        "health": 1118,
+        "attack": 817,
+        "defense": 692,
+        "health": 1221,
         "effects": [
             "Deals 210% damage to the target and nearby enemies.",
             "The more mana the enemies have, the more damage they will receive, up to 270%.",
@@ -43810,15 +43810,15 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 682,
         "lb1": {
-            "power": 1047,
+            "power": 1043,
             "attack": 968,
-            "defense": 1018,
+            "defense": 1003,
             "health": 2130
         },
         "lb2": {
-            "power": 1180,
+            "power": 1175,
             "attack": 1108,
-            "defense": 1166,
+            "defense": 1148,
             "health": 2437
         },
         "cn_skill_info": [
@@ -44853,16 +44853,16 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 697,
         "lb1": {
-            "power": 1249,
-            "attack": 1201,
-            "defense": 1329,
-            "health": 2369
+            "power": 1290,
+            "attack": 1235,
+            "defense": 1366,
+            "health": 2502
         },
         "lb2": {
-            "power": 1411,
-            "attack": 1374,
-            "defense": 1521,
-            "health": 2712
+            "power": 1458,
+            "attack": 1413,
+            "defense": 1563,
+            "health": 2863
         },
         "cn_skill_info": [
             {
@@ -46346,16 +46346,16 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 719,
         "lb1": {
-            "power": 894,
+            "power": 908,
             "attack": 902,
             "defense": 839,
-            "health": 1562
+            "health": 1658
         },
         "lb2": {
-            "power": 1005,
+            "power": 1021,
             "attack": 1032,
             "defense": 960,
-            "health": 1787
+            "health": 1897
         },
         "cn_skill_info": [
             {
@@ -48262,15 +48262,15 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 748,
         "lb1": {
-            "power": 1042,
+            "power": 1038,
             "attack": 1027,
-            "defense": 953,
+            "defense": 939,
             "health": 2074
         },
         "lb2": {
-            "power": 1175,
+            "power": 1170,
             "attack": 1176,
-            "defense": 1091,
+            "defense": 1075,
             "health": 2375
         },
         "cn_skill_info": [
@@ -49335,16 +49335,16 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 764,
         "lb1": {
-            "power": 1248,
-            "attack": 1276,
-            "defense": 1235,
-            "health": 2364
+            "power": 1289,
+            "attack": 1312,
+            "defense": 1269,
+            "health": 2496
         },
         "lb2": {
-            "power": 1411,
-            "attack": 1460,
-            "defense": 1414,
-            "health": 2705
+            "power": 1457,
+            "attack": 1501,
+            "defense": 1452,
+            "health": 2856
         },
         "cn_skill_info": [
             {
@@ -49457,15 +49457,15 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 766,
         "lb1": {
-            "power": 1047,
+            "power": 1043,
             "attack": 1039,
-            "defense": 965,
+            "defense": 950,
             "health": 2059
         },
         "lb2": {
-            "power": 1180,
+            "power": 1175,
             "attack": 1189,
-            "defense": 1104,
+            "defense": 1087,
             "health": 2356
         },
         "cn_skill_info": [
@@ -49579,16 +49579,16 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 768,
         "lb1": {
-            "power": 1242,
-            "attack": 1332,
-            "defense": 1157,
-            "health": 2331
+            "power": 1282,
+            "attack": 1369,
+            "defense": 1190,
+            "health": 2463
         },
         "lb2": {
-            "power": 1403,
-            "attack": 1525,
-            "defense": 1323,
-            "health": 2668
+            "power": 1449,
+            "attack": 1567,
+            "defense": 1362,
+            "health": 2818
         },
         "cn_skill_info": [
             {
@@ -49678,9 +49678,9 @@ window.allHeroes =
         "Release date": "2022-03-21",
         "star": 5,
         "power": 898,
-        "attack": 829,
-        "defense": 885,
-        "health": 1682,
+        "attack": 879,
+        "defense": 924,
+        "health": 1753,
         "effects": [
             "Deals 330% damage to all enemies.",
             "All allies except the caser get -20% attack for 3 turns. This effect can't be cleansed."
@@ -51743,16 +51743,16 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 800,
         "lb1": {
-            "power": 894,
+            "power": 908,
             "attack": 899,
             "defense": 827,
-            "health": 1589
+            "health": 1688
         },
         "lb2": {
-            "power": 1005,
+            "power": 1021,
             "attack": 1029,
             "defense": 946,
-            "health": 1819
+            "health": 1932
         },
         "cn_skill_info": [
             {
@@ -52697,16 +52697,16 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 814,
         "lb1": {
-            "power": 895,
+            "power": 909,
             "attack": 932,
             "defense": 769,
-            "health": 1630
+            "health": 1730
         },
         "lb2": {
-            "power": 1006,
+            "power": 1022,
             "attack": 1066,
             "defense": 880,
-            "health": 1865
+            "health": 1980
         },
         "cn_skill_info": [
             {
@@ -53355,16 +53355,16 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 825,
         "lb1": {
-            "power": 895,
+            "power": 910,
             "attack": 794,
             "defense": 894,
-            "health": 1725
+            "health": 1831
         },
         "lb2": {
-            "power": 1006,
+            "power": 1023,
             "attack": 909,
             "defense": 1023,
-            "health": 1974
+            "health": 2095
         },
         "cn_skill_info": [
             {
@@ -54052,15 +54052,15 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 835,
         "lb1": {
-            "power": 1050,
+            "power": 1046,
             "attack": 1056,
-            "defense": 934,
+            "defense": 919,
             "health": 2098
         },
         "lb2": {
-            "power": 1183,
+            "power": 1178,
             "attack": 1208,
-            "defense": 1068,
+            "defense": 1052,
             "health": 2401
         },
         "cn_skill_info": [
@@ -54191,16 +54191,16 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 837,
         "lb1": {
-            "power": 1253,
-            "attack": 1270,
-            "defense": 1247,
-            "health": 2388
+            "power": 1294,
+            "attack": 1306,
+            "defense": 1282,
+            "health": 2522
         },
         "lb2": {
-            "power": 1416,
-            "attack": 1453,
-            "defense": 1428,
-            "health": 2733
+            "power": 1463,
+            "attack": 1495,
+            "defense": 1467,
+            "health": 2886
         },
         "cn_skill_info": [
             {
@@ -54868,15 +54868,15 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 847,
         "lb1": {
-            "power": 1044,
+            "power": 1040,
             "attack": 983,
-            "defense": 976,
+            "defense": 961,
             "health": 2156
         },
         "lb2": {
-            "power": 1176,
+            "power": 1171,
             "attack": 1123,
-            "defense": 1117,
+            "defense": 1100,
             "health": 2466
         },
         "cn_skill_info": [
@@ -55979,9 +55979,9 @@ window.allHeroes =
         "Release date": "2021-10-04",
         "star": 5,
         "power": 918,
-        "attack": 939,
-        "defense": 825,
-        "health": 1673,
+        "attack": 1040,
+        "defense": 928,
+        "health": 1808,
         "effects": [
             "Deals 155% damage to the target and nearby enemies.",
             "The target and nearby enemies receive 230 damage over 5 turns. If a target already has this effect, the duration will be refreshed and the damage will be increased by 315, up to 855 damage in total.",
@@ -63468,9 +63468,9 @@ window.allHeroes =
         "Release date": "2024-09-23",
         "star": 5,
         "power": 1013,
-        "attack": 1127,
-        "defense": 865,
-        "health": 1798,
+        "attack": 1247,
+        "defense": 973,
+        "health": 1943,
         "effects": [
             "Destroys all Minions from the target and nearby enemies. This effect damages Mega Minions.",
             "Deals 245% damage to the target and nearby enemies.",
@@ -63938,15 +63938,15 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 992,
         "lb1": {
-            "power": 1045,
+            "power": 1041,
             "attack": 943,
-            "defense": 979,
+            "defense": 963,
             "health": 2256
         },
         "lb2": {
-            "power": 1178,
+            "power": 1173,
             "attack": 1079,
-            "defense": 1121,
+            "defense": 1102,
             "health": 2581
         },
         "cn_skill_info": [
@@ -64365,16 +64365,16 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 998,
         "lb1": {
-            "power": 895,
+            "power": 909,
             "attack": 952,
             "defense": 769,
-            "health": 1585
+            "health": 1682
         },
         "lb2": {
-            "power": 1007,
+            "power": 1022,
             "attack": 1090,
             "defense": 880,
-            "health": 1813
+            "health": 1925
         },
         "cn_skill_info": [
             {
@@ -67087,16 +67087,16 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 1039,
         "lb1": {
-            "power": 890,
+            "power": 905,
             "attack": 980,
             "defense": 681,
-            "health": 1655
+            "health": 1756
         },
         "lb2": {
-            "power": 1001,
+            "power": 1017,
             "attack": 1122,
             "defense": 779,
-            "health": 1893
+            "health": 2009
         },
         "cn_skill_info": [
             {
@@ -68838,15 +68838,15 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 1064,
         "lb1": {
-            "power": 1047,
+            "power": 1043,
             "attack": 994,
-            "defense": 965,
+            "defense": 950,
             "health": 2172
         },
         "lb2": {
-            "power": 1180,
+            "power": 1175,
             "attack": 1137,
-            "defense": 1104,
+            "defense": 1087,
             "health": 2485
         },
         "cn_skill_info": [
@@ -69297,16 +69297,16 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 1071,
         "lb1": {
-            "power": 1220,
-            "attack": 1170,
-            "defense": 1219,
-            "health": 2458
+            "power": 1260,
+            "attack": 1202,
+            "defense": 1254,
+            "health": 2595
         },
         "lb2": {
-            "power": 1378,
-            "attack": 1338,
-            "defense": 1395,
-            "health": 2813
+            "power": 1424,
+            "attack": 1376,
+            "defense": 1435,
+            "health": 2969
         },
         "cn_skill_info": [
             {
@@ -69703,9 +69703,9 @@ window.allHeroes =
         "Release date": "2025-05-24",
         "star": 5,
         "power": 1197,
-        "attack": 1131,
-        "defense": 1208,
-        "health": 2415,
+        "attack": 1175,
+        "defense": 1256,
+        "health": 2508,
         "effects": [
             "Recovers 28% health for all allies.",
             "Recovers additional 4% health per each Fire shield on the board, up to 60%.",
@@ -70180,16 +70180,16 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 1084,
         "lb1": {
-            "power": 895,
+            "power": 910,
             "attack": 882,
             "defense": 802,
-            "health": 1692
+            "health": 1797
         },
         "lb2": {
-            "power": 1006,
+            "power": 1023,
             "attack": 1010,
             "defense": 917,
-            "health": 1936
+            "health": 2056
         },
         "cn_skill_info": [
             {
@@ -70513,16 +70513,16 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 1089,
         "lb1": {
-            "power": 1243,
-            "attack": 1288,
-            "defense": 1185,
-            "health": 2398
+            "power": 1284,
+            "attack": 1324,
+            "defense": 1219,
+            "health": 2531
         },
         "lb2": {
-            "power": 1405,
-            "attack": 1474,
-            "defense": 1356,
-            "health": 2743
+            "power": 1451,
+            "attack": 1515,
+            "defense": 1395,
+            "health": 2896
         },
         "cn_skill_info": [
             {
@@ -70899,16 +70899,16 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 1095,
         "lb1": {
-            "power": 1329,
-            "attack": 1417,
-            "defense": 1309,
-            "health": 2438
+            "power": 1243,
+            "attack": 1342,
+            "defense": 1241,
+            "health": 2152
         },
         "lb2": {
-            "power": 1502,
-            "attack": 1621,
-            "defense": 1497,
-            "health": 2791
+            "power": 1405,
+            "attack": 1536,
+            "defense": 1420,
+            "health": 2462
         },
         "cn_skill_info": [
             {
@@ -71379,16 +71379,16 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 1102,
         "lb1": {
-            "power": 892,
+            "power": 906,
             "attack": 874,
             "defense": 816,
-            "health": 1659
+            "health": 1761
         },
         "lb2": {
-            "power": 1003,
+            "power": 1019,
             "attack": 1001,
             "defense": 935,
-            "health": 1899
+            "health": 2015
         },
         "cn_skill_info": [
             {
@@ -72083,15 +72083,15 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 1112,
         "lb1": {
-            "power": 1044,
+            "power": 1040,
             "attack": 1008,
-            "defense": 931,
+            "defense": 916,
             "health": 2182
         },
         "lb2": {
-            "power": 1176,
+            "power": 1171,
             "attack": 1153,
-            "defense": 1066,
+            "defense": 1048,
             "health": 2496
         },
         "cn_skill_info": [
@@ -75041,16 +75041,16 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 1154,
         "lb1": {
-            "power": 1250,
-            "attack": 1391,
-            "defense": 1157,
-            "health": 2243
+            "power": 1291,
+            "attack": 1431,
+            "defense": 1190,
+            "health": 2369
         },
         "lb2": {
-            "power": 1412,
-            "attack": 1593,
-            "defense": 1323,
-            "health": 2567
+            "power": 1459,
+            "attack": 1638,
+            "defense": 1362,
+            "health": 2711
         },
         "cn_skill_info": [
             {
@@ -76152,16 +76152,16 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 1170,
         "lb1": {
-            "power": 1100,
-            "attack": 1117,
-            "defense": 1078,
-            "health": 2016
+            "power": 1008,
+            "attack": 1009,
+            "defense": 958,
+            "health": 1866
         },
         "lb2": {
-            "power": 1241,
-            "attack": 1278,
-            "defense": 1233,
-            "health": 2307
+            "power": 1135,
+            "attack": 1155,
+            "defense": 1096,
+            "health": 2136
         },
         "cn_skill_info": [
             {
@@ -77169,15 +77169,15 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 1185,
         "lb1": {
-            "power": 1050,
+            "power": 1046,
             "attack": 979,
-            "defense": 960,
+            "defense": 944,
             "health": 2243
         },
         "lb2": {
-            "power": 1184,
+            "power": 1179,
             "attack": 1121,
-            "defense": 1098,
+            "defense": 1080,
             "health": 2566
         },
         "cn_skill_info": [
@@ -81227,16 +81227,16 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 1253,
         "lb1": {
-            "power": 793,
-            "attack": 803,
-            "defense": 793,
-            "health": 1465
+            "power": 733,
+            "attack": 734,
+            "defense": 724,
+            "health": 1344
         },
         "lb2": {
-            "power": 906,
-            "attack": 932,
-            "defense": 919,
-            "health": 1699
+            "power": 836,
+            "attack": 851,
+            "defense": 840,
+            "health": 1557
         },
         "cn_skill_info": [
             {
@@ -84551,15 +84551,15 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 1305,
         "lb1": {
-            "power": 1046,
+            "power": 1041,
             "attack": 988,
-            "defense": 990,
+            "defense": 974,
             "health": 2127
         },
         "lb2": {
-            "power": 1179,
+            "power": 1173,
             "attack": 1130,
-            "defense": 1134,
+            "defense": 1115,
             "health": 2433
         },
         "cn_skill_info": [
@@ -84887,15 +84887,15 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 1310,
         "lb1": {
-            "power": 1047,
+            "power": 1043,
             "attack": 1016,
-            "defense": 974,
+            "defense": 958,
             "health": 2098
         },
         "lb2": {
-            "power": 1180,
+            "power": 1175,
             "attack": 1163,
-            "defense": 1114,
+            "defense": 1096,
             "health": 2401
         },
         "cn_skill_info": [
@@ -87616,9 +87616,9 @@ window.allHeroes =
         "Release date": "2024-03-18",
         "star": 5,
         "power": 991,
-        "attack": 892,
-        "defense": 1003,
-        "health": 1952,
+        "attack": 946,
+        "defense": 1048,
+        "health": 2034,
         "effects": [
             "All allies regenerate 1450 HP over 5 turns.",
             "All allies get +60% attack for 5 turns.",
@@ -87893,16 +87893,16 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 1354,
         "lb1": {
-            "power": 890,
+            "power": 904,
             "attack": 907,
             "defense": 787,
-            "health": 1622
+            "health": 1722
         },
         "lb2": {
-            "power": 1000,
+            "power": 1016,
             "attack": 1038,
             "defense": 900,
-            "health": 1856
+            "health": 1970
         },
         "cn_skill_info": [
             {
@@ -88273,16 +88273,16 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 1360,
         "lb1": {
-            "power": 892,
+            "power": 906,
             "attack": 819,
             "defense": 878,
-            "health": 1672
+            "health": 1775
         },
         "lb2": {
-            "power": 1002,
+            "power": 1018,
             "attack": 937,
             "defense": 1004,
-            "health": 1914
+            "health": 2031
         },
         "cn_skill_info": [
             {
@@ -89070,16 +89070,16 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 1372,
         "lb1": {
-            "power": 889,
+            "power": 902,
             "attack": 870,
             "defense": 897,
-            "health": 1491
+            "health": 1584
         },
         "lb2": {
-            "power": 1000,
+            "power": 1015,
             "attack": 995,
             "defense": 1027,
-            "health": 1707
+            "health": 1813
         },
         "cn_skill_info": [
             {
@@ -90232,15 +90232,15 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 1389,
         "lb1": {
-            "power": 1039,
+            "power": 1035,
             "attack": 1064,
-            "defense": 953,
+            "defense": 939,
             "health": 1963
         },
         "lb2": {
-            "power": 1171,
+            "power": 1167,
             "attack": 1218,
-            "defense": 1091,
+            "defense": 1075,
             "health": 2246
         },
         "cn_skill_info": [
@@ -93570,16 +93570,16 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 1438,
         "lb1": {
-            "power": 893,
+            "power": 907,
             "attack": 859,
             "defense": 852,
-            "health": 1632
+            "health": 1733
         },
         "lb2": {
-            "power": 1004,
+            "power": 1020,
             "attack": 984,
             "defense": 975,
-            "health": 1867
+            "health": 1983
         },
         "cn_skill_info": [
             {
