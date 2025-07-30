@@ -16737,7 +16737,6 @@ window.allHeroesExtra = [
             "Resurrection Inhibitors",
             "Status Effect Conversion",
             "Minions Counters"
-
         ]
     },
     {
@@ -16755,7 +16754,112 @@ window.allHeroesExtra = [
             "Cleansers",
             "Mana Reducers or Blockers",
             "Mana Raisers"
-        
+        ]
+    },
+    {
+        "name": "Ascension Mimic Ice",
+        "fancy name": "Grinning Cache of Evil",
+        "Release date": "2025-07-26",
+        "AetherPower": "Bulwark",
+        "skill_types": [
+            "Healers (Special)",
+            "Minions Counters",
+            "AoE Attackers (Hit-3)",
+            "Mana Raisers",
+            "Immunity Providers",
+            "Ghost Form & Hiding",
+            "Bypassers"
+        ]
+    },
+    {
+        "name": "Gwendoline",
+        "fancy name": "Fanatical Archaeologist",
+        "Release date": "2025-07-29",
+        "AetherPower": "Revive",
+        "skill_types": [
+            "Ghost Form & Hiding",
+            "Cleansers",
+            "Healers",
+            "Mana Raisers",
+            "Negative Effects On Self Or Allies",
+            "AoE Attackers (Hit-5)",
+            "Revivers"
+        ]
+    },
+    {
+        "name": "Ilmarinen costume1",
+        "fancy name": "Expert Artificer",
+        "Release date": "2025-07-28",
+        "AetherPower": "Regen",
+        "skill_types": ["Healing Reducers",
+            "Damage Sharers",
+            "Debuffers (DEF)"
+        ]
+    },
+    {
+        "name": "Joukahainen costume1",
+        "fancy name": "Frozen Hunter",
+        "Release date": "2025-07-28",
+        "AetherPower": "Special Boost",
+        "skill_types": [
+            "AoE Attackers (Hit-5)",
+            "Buff Blockers",
+            "Dispellers"]
+    },
+    {
+        "name": "Lemminkainen costume1",
+        "fancy name": "Fading Champion",
+        "Release date": "2025-07-28",
+        "AetherPower": "Attack Up",
+        "skill_types": [
+            "AoE Attackers (Hit-3)",
+            "DoT Attackers"]
+    },
+    {
+        "name": "Louhi costume1",
+        "fancy name": "Mistress of the North",
+        "Release date": "2025-07-28",
+        "AetherPower": "Rage",
+        "skill_types": [
+            "AoE Attackers (Hit-5)",
+            "Debuffers (DEF)",
+            "Dispellers"]
+    },
+    {
+        "name": "Mother Lemminkainen",
+        "fancy name": "Champion’s Savior",
+        "Release date": "2025-07-28",
+        "AetherPower": "Heal Increase",
+        "skill_types": ["Revivers",
+            "Heal over Time (HoT)",
+            "Health Boosters",
+            "Debuffers (DEF)"
+        ]
+    },
+    {
+        "name": "Sedille",
+        "fancy name": "Astral Dwarf Lightbearer",
+        "Release date": "2025-07-27",
+        "AetherPower": "Defense Up",
+        "skill_types": ["AoE Attackers (Hit-5)",
+            "DoT Attackers",
+            "Healers (Special)",
+            "Ability Scores Modifiers",
+            "Bypassers",
+            "Minions Counters"
+        ]
+    },
+    {
+        "name": "Suomuhauki",
+        "fancy name": "Hulking Pike",
+        "Release date": "2025-07-28",
+        "AetherPower": "Fiend Resist",
+        "skill_types": ["Snipers",
+            "Fiends Summoners",
+            "Extra Damage Dealers",
+            "Debuffers (ATK)",
+            "DoT Attackers"
+
         ]
     }
 ];

@@ -59,6 +59,14 @@ def format_skill_description(description_str):
     return final_lines
 
 # --- 内置拼写纠正字典 ---
+# --- 新增功能：YML英雄名字纠正字典 ---
+# 在此添加YML文件中的错误英雄名及其正确的名字
+# 格式为: "YML中的错误名字": "正确的名字"
+hero_name_corrections = {
+    "Ascension Mimic Blue": "Ascension Mimic Ice",
+    # 在这里继续添加其他需要纠正的英雄名字
+}
+
 typo_corrections = {
     "Racoon Bite": "Raccoon Bite", "Slash of the four Blades": "Slash of Four Blades",
     "Enchanted Symptony": "Enchanted Symphony", "Veridant Minor": "Verdant Mirror",
@@ -74,7 +82,7 @@ typo_corrections = {
     "Slash of the Seven Blades": "Slash of Seven Blades", "Slash of the Seven Daggers": "Slash of Seven Daggers",
     "Blade of Bundalkhand": "Blade of Bundelkhand", "Holly Aura": "Holy Aura",
     "Strike of Thousand Howls": "Strike of a Thousand Howls", "Judgement of Sun": "Judgment of Sun",
-    "Ruler of the Seas": "Ruler of Seas",
+    "Ruler of the Seas": "Ruler of Seas","Essense of Queen Nitocris":"Essence of Queen Nitocris","Forged fom Gold":"Forged from Gold","Mending Stiches":"Mending Stitches"
 }
 tolerant_typo_corrections = {normalize_for_generic_lookup(k): v for k, v in typo_corrections.items()}
 
@@ -514,7 +522,16 @@ def generate_js_data_with_translation(heroes_base_dir, output_path_cn, output_pa
                 hero_data = yaml.safe_load(f.read().replace('\t', '    '))
             if not hero_data or 'name' not in hero_data: continue
             
+            # 从YML文件中获取原始英雄名
             hero_name_raw = hero_data.get('name')
+
+            # --- 新增功能：应用英雄名称纠正字典 ---
+            # 检查原始名称是否在纠正字典中，如果在，则使用纠正后的名称
+            corrected_name = hero_name_corrections.get(hero_name_raw, hero_name_raw)
+            if corrected_name != hero_name_raw:
+                logging.info(f"YML英雄名已纠正: '{hero_name_raw}' -> '{corrected_name}' (文件: {os.path.basename(filepath)})")
+                hero_name_raw = corrected_name # 将纠正后的名字赋给主变量
+            
             processed_hero_names.add(normalize_for_hero_name(strip_ignorable_suffix(hero_name_raw)))
             hero_family = hero_data.get('family')
             source_to_translate = hero_data.get('source')

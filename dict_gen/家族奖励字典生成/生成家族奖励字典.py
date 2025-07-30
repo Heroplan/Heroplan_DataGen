@@ -144,8 +144,8 @@ def main():
     logger.info("--- 开始生成家族奖励（Family Bonus）的双语正则表达式字典 ---")
     
     original_file = '../../to_translate/families_bonus_to_translate.js'
-    translated_file_cn = 'families_bonus_translated_cn.js'
-    translated_file_tc = 'families_bonus_translated_tc.js'
+    translated_file_cn = '../../translated/families_bonus_cn.js'
+    translated_file_tc = '../../translated/families_bonus_tc.js'
     output_filename_cn = '../../dictionaries/families_bonus_dict_cn.json'
     output_filename_tc = '../../dictionaries/families_bonus_dict_tc.json'
     

@@ -9,8 +9,8 @@ from collections import defaultdict
 
 # --- 全局配置 ---
 ORIGINAL_FILE = '../../to_translate/passives_to_translate.js'
-TRANSLATED_CN_FILE = 'passives_translated_cn.js'
-TRANSLATED_TC_FILE = 'passives_translated_tc.js'
+TRANSLATED_CN_FILE = '../../translated/passives_cn.js'
+TRANSLATED_TC_FILE = '../../translated/passives_tc.js'
 
 OUTPUT_DICT_CN = '../../dictionaries/passives_dict_cn.json'
 OUTPUT_DICT_TC = '../../dictionaries/passives_dict_tc.json'

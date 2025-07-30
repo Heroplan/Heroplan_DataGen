@@ -4,14189 +4,14260 @@ const allTranslations =
         "originalIndex": 0,
         "name": "布兰德 (Brand)",
         "effects": [
-            "Deals 115% damage to all enemies"
+            "对所有敌人造成 115% 伤害。"
         ]
     },
     {
         "originalIndex": 1,
         "name": "西格鲁恩 (Sigrunn)",
         "effects": [
-            "Deals 275% damage to the target"
+            "对目标造成 275% 伤害。"
         ]
     },
     {
         "originalIndex": 2,
         "name": "奥拉夫 (Olaf)",
         "effects": [
-            "All allies get +63% defense for 4 turns"
+            "所有盟友获得 +63% 防御，持续 4 回合。"
         ]
     },
     {
         "originalIndex": 3,
         "name": "莱西德 (Ragnhild)",
         "effects": [
-            "Deals 115% damage to all enemies"
+            "对所有敌人造成 115% 伤害。"
         ]
     },
     {
         "originalIndex": 4,
         "name": "托里尔 (Toril)",
         "effects": [
-            "All allies get +48% attack for 4 turns"
+            "所有盟友获得 +48% 攻击力，持续 4 回合。"
         ]
     },
     {
         "originalIndex": 5,
         "name": "伯莎 (Bertha)",
         "effects": [
-            "All allies regenerate 425 HP over 5 turns.",
-            "Each defeated ally has a 35% chance to get revived with 25% HP.",
-            "All ailments affecting attack, defense and mana generation on the caster are replaced by matching undispellable buffs. (Replacing cannot be blocked by status effects, family effects or passives. Only status effects that are dispellable or cleansable can be replaced. Replacement effects: Attack ailments are replaced with +40% attack buff for 4 turns. Defense ailments are replaced with +40% defense buff for 4 turns. Mana generation ailments are replaced with +40% mana generation buff for 4 turns.)"
+            "所有盟友在 5 回合内恢复 425 点生命值。",
+            "每名被击败的盟友有 35% 的几率以 25% 的生命值复活。",
+            "施法者身上所有影响攻击、防御和法力生成的状态异常，将替换为对应的不可驱散增益。（替换效果无法被状态效果、家族效果或被动技能阻挡。只有可驱散或可净化的状态效果才可被替换。替换效果：攻击力异常状态将被 +40% 攻击力增益取代，持续 4 回合。防御异常状态将被 +40% 防御增益取代，持续 4 回合。法力生成异常状态将被 +40% 法力生成增益取代，持续 4 回合）"
         ]
     },
     {
         "originalIndex": 6,
         "name": "小鸡 (Chick Jr.)",
         "effects": [
-            "Deals 180% damage to all enemies",
-            "The caster gets -20% attack for 3 turns. This effect can't be cleansed."
+            "对所有敌人造成 180% 伤害。",
+            "施法者获得 -20% 攻击力，持续 3 回合。此效果无法净化。"
         ]
     },
     {
         "originalIndex": 7,
         "name": "旦 (Dawn)",
         "effects": [
-            "Summons a Hunting Owl Minion for the caster and nearby allies with 10% HP and 20% attack inherited from the caster.",
-            "Each hit from a Hunting Owl Minion reduces the mana of the target by -6%.",
-            "The caster and nearby allies get +54% defense against Special Skills for 3 turns.",
-            "Cleanses status ailments from the caster and nearby allies."
+            "为施法者和附近盟友召唤一个猎枭小兵，此小兵继承施法者 10% 的生命值和 20% 的攻击力。",
+            "猎枭小兵的每次攻击都会使目标的法力减少 -6%。",
+            "施法者和附近盟友获得 +54% 特殊技能防御，持续 3 回合。",
+            "净化施法者和附近盟友的状态异常。"
         ]
     },
     {
         "originalIndex": 8,
         "name": "霜冻雪人 (Frosty)",
         "effects": [
-            "Recovers 32% health for all allies.",
-            "Summons an Elf Minion for each ally with 10% HP and 10% attack inherited from the caster."
+            "为所有盟友恢复 32% 生命值。",
+            "为每位盟友召唤一个精灵小兵，此小兵继承施法者 10% 的生命值和 10% 的攻击力。"
         ]
     },
     {
         "originalIndex": 9,
         "name": "加托 (Gato)",
         "effects": [
-            "Deals 300% damage to the target.",
-            "The caster and nearby allies are immune to new status ailments for 3 turns."
+            "对目标造成 300% 伤害。",
+            "施法者和附近盟友对新的状态异常免疫，持续 3 回合。"
         ]
     },
     {
         "originalIndex": 10,
         "name": "灰鬃狼人 (Graymane)",
         "effects": [
-            "Deals 225% damage to the target.",
-            "Heals the caster for 50% of damage dealt."
+            "对目标造成 225% 伤害。",
+            "为施法者恢复等同于所造成伤害 50% 的生命值。"
         ]
     },
     {
         "originalIndex": 11,
         "name": "灰鬃狼人 (Graymane) C1",
         "effects": [
-            "Deals 235% damage to the target.",
-            "The caster is immune to new status ailments for 3 turns.  This effect can't be dispelled.",
-            "The caster gets +50% attack for 3 turns."
+            "对目标造成 235% 伤害。",
+            "施法者对新的状态异常免疫，持续 3 回合。此效果无法驱散。",
+            "施法者获得 +50% 攻击力，持续 3 回合。"
         ]
     },
     {
         "originalIndex": 12,
         "name": "灰鬃狼人 (Graymane) 卡通",
         "effects": [
-            "Deals 255% damage to the target.",
-            "Heals the caster for 45% of damage dealt.",
-            "Deals extra damage against Fire."
+            "对目标造成 255% 伤害。",
+            "为施法者恢复等同于所造成伤害 45% 的生命值。",
+            "对烈火系造成额外伤害。"
         ]
     },
     {
         "originalIndex": 13,
         "name": "灰鬃狼人 (Graymane) 玻璃",
         "effects": [
-            "Deals 265% damage to the target.",
-            "The attack bypasses defensive buffs. (This includes counterattacks.)",
-            "Heals the caster for 48% of damage dealt."
+            "对目标造成 265% 伤害。",
+            "攻击会无视防御增益。（包括反击）",
+            "为施法者恢复等同于所造成伤害 48% 的生命值。"
         ]
     },
     {
         "originalIndex": 14,
         "name": "狐猴守护者 (Guardian Lemur)",
         "effects": [
-            "Recovers 32% health for all allies.",
-            "All allies get +94% defense against Nature for 4 turns."
+            "为所有盟友恢复 32% 生命值。",
+            "所有盟友获得对自然系 +94% 的防御，持续 4 回合。"
         ]
     },
     {
         "originalIndex": 15,
         "name": "古纳尔 (Gunnar)",
         "effects": [
-            "All allies become Soul Connected for 5 turns. Soul Connected allies share received damage.",
-            "All allies get +63% defense for 5 turns"
+            "所有盟友变得灵魂相连，持续 5 回合。灵魂相连的盟友将平摊所受伤害。",
+            "所有盟友获得 +63% 防御，持续 5 回合。"
         ]
     },
     {
         "originalIndex": 16,
         "name": "古纳尔 (Gunnar) C1",
         "effects": [
-            "All enemies become Soul Connected for 5 turns. Soul Connected enemies share received damage.",
-            "All enemies get -44% defense for 5 turns."
+            "所有敌人变得灵魂相连，持续 5 回合。灵魂相连的敌人将平摊所受伤害。",
+            "所有敌人获得 -44% 防御，持续 5 回合。"
         ]
     },
     {
         "originalIndex": 17,
         "name": "古纳尔 (Gunnar) 卡通",
         "effects": [
-            "All allies become Soul Connected for 5 turns. Soul Connected allies share received damage. This status effect is undispellable and lasts 2 turns longer on Ice characters.",
-            "All allies get +51% defense for 5 turns. This status effect is undispellable and lasts 2 turns longer on Ice characters."
+            "所有盟友变得灵魂相连，持续 5 回合。灵魂相连的盟友将平摊所受伤害。此状态效果不可驱散，对冰雪系角色持续时间延长 2 回合。",
+            "所有盟友获得 +51% 防御，持续 5 回合。此状态效果不可驱散，对冰雪系角色持续时间延长 2 回合。"
         ]
     },
     {
         "originalIndex": 18,
         "name": "河洛 (Helo)",
         "effects": [
-            "Recovers 32% health for all allies.",
-            "Cleanses status ailments from all allies."
+            "为所有盟友恢复 32% 生命值。",
+            "净化所有盟友的状态异常。"
         ]
     },
     {
         "originalIndex": 19,
         "name": "河洛 (Helo) C1",
         "effects": [
-            "All allies regenerate 411 HP over 3 turns.",
-            "Cleanses status ailments from all allies."
+            "所有盟友在 3 回合内恢复 411 点生命值。",
+            "净化所有盟友的状态异常。"
         ]
     },
     {
         "originalIndex": 20,
         "name": "加里夫 (Jarif)",
         "effects": [
-            "Deals 335% damage to the target.",
-            "The target is immune to new status effect buffs for 3 turns, and receives 70 damage for each attempted buff."
+            "对目标造成 335% 伤害。",
+            "目标对新的增益状态效果免疫，持续 3 回合，且每当有增益效果尝试施加于其上，其将受到 70 点伤害。"
         ]
     },
     {
         "originalIndex": 21,
         "name": "加里夫 (Jarif) C1",
         "effects": [
-            "Deals 300% damage to the target.",
-            "The target is immune to new status effect buffs for 3 turns, and receives 150 damage for each attempted buff."
+            "对目标造成 300% 伤害。",
+            "目标对新的增益状态效果免疫，持续 3 回合，且每当有增益效果尝试施加于其上，其将受到 150 点伤害。"
         ]
     },
     {
         "originalIndex": 22,
         "name": "亚弗尔 (Jarvur)",
         "effects": [
-            "Deals 285% damage to the target.",
-            "Stack (Max: 10): The caster gets +10% attack."
+            "对目标造成 285% 伤害。",
+            "叠加（最多 10 层）：施法者获得 +10% 攻击力。"
         ]
     },
     {
         "originalIndex": 23,
         "name": "尤卡海宁 (Joukahainen)",
         "effects": [
-            "Dispels buffs from all enemies.",
-            "Deals 165% damage to all enemies.",
-            "All enemies are immune to new status effect buffs for 4 turns. Against Nature characters, this status effect becomes uncleansable and lasts 2 turns longer."
+            "驱散所有敌人的增益。",
+            "对所有敌人造成 165% 伤害。",
+            "所有敌人对新的增益状态效果免疫，持续 4 回合。对自然系角色，此状态效果不可净化且持续时间延长 2 回合。"
         ]
     },
     {
         "originalIndex": 24,
-        "name": "卡里尔 (Karil)",
+        "name": "尤卡海宁 (Joukahainen) C1",
         "effects": [
-            "Deals 260% damage to the target and minor damage to nearby enemies."
+            "驱散所有敌人的增益。",
+            "对所有敌人造成 180% 伤害。",
+            "所有敌人对新的增益状态效果免疫，持续 4 回合。对自然系角色，此状态效果不可净化且持续时间延长 2 回合。"
         ]
     },
     {
         "originalIndex": 25,
-        "name": "卡里尔 (Karil) C1",
+        "name": "卡里尔 (Karil)",
         "effects": [
-            "Deals 240% damage to the target and minor damage to nearby enemies.",
-            "The target and nearby enemies receive 60 Burn damage over 3 turns."
+            "对目标造成 260% 伤害，并对附近敌人造成轻微伤害。"
         ]
     },
     {
         "originalIndex": 26,
-        "name": "卡里尔 (Karil) 卡通",
+        "name": "卡里尔 (Karil) C1",
         "effects": [
-            "Deals 290% damage to the target and minor damage to nearby enemies.",
-            "Deals extra damage against Fire."
+            "对目标造成 240% 伤害，并对附近敌人造成轻微伤害。",
+            "目标与附近敌人在 3 回合内受到共计 60 点燃烧伤害。"
         ]
     },
     {
         "originalIndex": 27,
-        "name": "诺德里 (Nordri)",
+        "name": "卡里尔 (Karil) 卡通",
         "effects": [
-            "Deals 245% damage to the target and minor damage to nearby enemies",
-            "The target and nearby enemies get -54% defense against Ice for 4 turns"
+            "对目标造成 290% 伤害，并对附近敌人造成轻微伤害。",
+            "对烈火系造成额外伤害。"
         ]
     },
     {
         "originalIndex": 28,
-        "name": "诺德里 (Nordri) C1",
+        "name": "诺德里 (Nordri)",
         "effects": [
-            "Deals 230% damage to the target and nearby enemies.",
-            "All enemies get -54% defense against Ice for 3 turns.  Against Fire characters, this status effect becomes uncleansable and lasts 2 turns longer."
+            "对目标造成 245% 伤害，并对附近敌人造成轻微伤害。",
+            "目标与附近敌人获得对冰雪系 -54% 的防御，持续 4 回合。"
         ]
     },
     {
         "originalIndex": 29,
-        "name": "布朗歇 (Planchet)",
+        "name": "诺德里 (Nordri) C1",
         "effects": [
-            "Destroys all Minions from the target.",
-            "Deals 385% damage to the target.",
-            "The caster regenerates 243 HP over 3 turns."
+            "对目标及附近敌人造成 230% 伤害。",
+            "所有敌人获得对冰雪系 -54% 的防御，持续 3 回合。对烈火系角色，此状态效果不可净化且持续时间延长 2 回合。"
         ]
     },
     {
         "originalIndex": 30,
-        "name": "索罗卡 (Soroca)",
+        "name": "布朗歇 (Planchet)",
         "effects": [
-            "Deals 235% damage to the target.",
-            "Deals additional 10% damage per each Ice shield on the board, up to 335%  damage in total."
+            "摧毁目标的所有小兵。",
+            "对目标造成 385% 伤害。",
+            "施法者在 3 回合内恢复 243 点生命值。"
         ]
     },
     {
         "originalIndex": 31,
-        "name": "天鹅室女 (Swan Maiden)",
+        "name": "索罗卡 (Soroca)",
         "effects": [
-            "The caster regenerates 402 HP over 3 turns.",
-            "The caster gets +30% chance to dodge Special Skills that deal damage for 3 turns.",
-            "Casts Dance of the Little Swan to all allies but caster for 3 turns. All existing status effects will be removed when this effect is added.",
-            "Dance of the Little Swan",
-            " * +30% chance to dodge attacks and Special Skills.",
-            " * 35% chance to deal 240% damage to a random enemy after any subsequent allied Special Skill is cast.",
-            " * Gives immunity to new status effects. New dance status effects will replace this effect.",
-            " * This effect cannot be dispelled. The effect is removed when the caster dies."
+            "对目标造成 235% 伤害。",
+            "面板上每存在一个冰雪系盾牌，便造成额外 10% 伤害，最多累计造成 335% 伤害。"
         ]
     },
     {
         "originalIndex": 32,
-        "name": "乌尔墨 (Ulmer)",
+        "name": "天鹅室女 (Swan Maiden)",
         "effects": [
-            "Deals 116% damage to all enemies.",
-            "All enemies get -34% defense for 6 turns."
+            "施法者在 3 回合内恢复 402 点生命值。",
+            "施法者有 +30% 的几率闪避可造成伤害的特殊技能，持续 3 回合。",
+            "对除施法者外的所有盟友施放小天鹅之舞，持续 3 回合。添加此效果时将移除所有现有状态效果。",
+            "小天鹅之舞。",
+            "* +30% 几率闪避攻击和特殊技能。",
+            "* 任何盟友随后施放特殊技能时，有 35% 几率对随机一名敌人造成 240% 伤害。",
+            "* 免疫新的状态效果。新的舞蹈状态效果将取代此效果。",
+            "* 此效果无法驱散。施法者阵亡后效果移除。"
         ]
     },
     {
         "originalIndex": 33,
-        "name": "乌尔墨 (Ulmer) C1",
+        "name": "乌尔墨 (Ulmer)",
         "effects": [
-            "Deals 145% damage to all enemies.",
-            "All allies get +48% attack for 6 turns."
+            "对所有敌人造成 116% 伤害。",
+            "所有敌人获得 -34% 防御，持续 6 回合。"
         ]
     },
     {
         "originalIndex": 34,
-        "name": "乌尔墨 (Ulmer) 卡通",
+        "name": "乌尔墨 (Ulmer) C1",
         "effects": [
-            "Deals 146% damage to all enemies.",
-            "All enemies get -24% defense for 6 turns.",
-            "Deals extra damage against Fire."
+            "对所有敌人造成 145% 伤害。",
+            "所有盟友获得 +48% 攻击力，持续 6 回合。"
         ]
     },
     {
         "originalIndex": 35,
-        "name": "瓦伦 (Valen)",
+        "name": "乌尔墨 (Ulmer) 卡通",
         "effects": [
-            "Deals 300% damage to the target.",
-            "The target gets -34% defense for 6 turns."
+            "对所有敌人造成 146% 伤害。",
+            "所有敌人获得 -24% 防御，持续 6 回合。",
+            "对烈火系造成额外伤害。"
         ]
     },
     {
         "originalIndex": 36,
-        "name": "瓦伦 (Valen) C1",
+        "name": "瓦伦 (Valen)",
         "effects": [
-            "Deals 335% damage to the target.",
-            "The caster getts +54% attack for 6 turns."
+            "对目标造成 300% 伤害。",
+            "目标获得 -34% 防御，持续 6 回合。"
         ]
     },
     {
         "originalIndex": 37,
-        "name": "瓦伦 (Valen) 卡通",
+        "name": "瓦伦 (Valen) C1",
         "effects": [
-            "Deals 330% damage to the target.",
-            "The target gets -28% defense for 6 turns.",
-            "Deals extra damage against Fire."
+            "对目标造成 335% 伤害。",
+            "施法者获得 +54% 攻击力，持续 6 回合。"
         ]
     },
     {
         "originalIndex": 38,
-        "name": "维吉尔 (Virgil)",
+        "name": "瓦伦 (Valen) 卡通",
         "effects": [
-            "Special Skill has a different effect when charged with 100% / 200% / 300% mana:",
-            "1x Mana Charge:",
-            "* Recovers 15% health for all allies.",
-            "* All allies get +40% defense against Nature for 2 turns.",
-            "2x Mana Charge:",
-            "* Recovers 25% health for all allies.",
-            "* All allies get +54% defense against Special Skills for 3 turns.",
-            "3x Mana Charge:",
-            "* Recovers 45% health for all allies.",
-            "* All allies get +94% defense against Nature for 2 turns.",
-            "* All allies get +74% defense against Special Skills for 3 turns."
+            "对目标造成 330% 伤害。",
+            "目标获得 -28% 防御，持续 6 回合。",
+            "对烈火系造成额外伤害。"
         ]
     },
     {
         "originalIndex": 39,
-        "name": "沃德尼克 (Vodnik)",
+        "name": "维吉尔 (Virgil)",
         "effects": [
-            "Deals 280% damage to the target",
-            "The more mana the enemies have, the more damage they will receive, up to 400%."
+            "当特殊技能充能至 100% / 200% / 300% 法力时将拥有不同的效果：",
+            "1 倍法力充能：",
+            "* 为所有盟友恢复 15% 生命值。",
+            "* 所有盟友获得对自然系 +40% 的防御，持续 2 回合。",
+            "2 倍法力充能：",
+            "* 为所有盟友恢复 25% 生命值。",
+            "* 所有盟友获得 +54% 特殊技能防御，持续 3 回合。",
+            "3 倍法力充能：",
+            "* 为所有盟友恢复 45% 生命值。",
+            "* 所有盟友获得对自然系 +94% 的防御，持续 2 回合。",
+            "* 所有盟友获得 +74% 特殊技能防御，持续 3 回合。"
         ]
     },
     {
         "originalIndex": 40,
-        "name": "姚 (Yao)",
+        "name": "沃德尼克 (Vodnik)",
         "effects": [
-            "Deals 215% damage to the target and nearby enemies.",
-            "Summons a Wei Soldier Minion with 20% HP and 25% attack inherited from the caster.",
-            "Each hit from a Wei Soldier Minion dispells all dispellable buffs from the target."
+            "对目标造成 280% 伤害。",
+            "敌人的法力越高，受到的伤害越大，最高可达 400%。"
         ]
     },
     {
         "originalIndex": 41,
-        "name": "艾格威 (Agwe)",
+        "name": "姚 (Yao)",
         "effects": [
-            "Deals 190% damage to all enemies.",
-            "All allies get +54% defense against Nature for 4 turns."
+            "对目标及附近敌人造成 215% 伤害。",
+            "召唤一个魏军小兵，此小兵继承施法者 20% 的生命值和 25% 的攻击力。",
+            "魏军小兵每次击中目标都会驱散目标身上所有可驱散的增益。"
         ]
     },
     {
         "originalIndex": 42,
-        "name": "艾格威 (Agwe) C1",
+        "name": "艾格威 (Agwe)",
         "effects": [
-            "Deals 185% damage to all enemies.",
-            "All Nature enemies receive 536 Burn damage over 4 turns."
+            "对所有敌人造成 190% 伤害。",
+            "所有盟友获得对自然系 +54% 的防御，持续 4 回合。"
         ]
     },
     {
         "originalIndex": 43,
-        "name": "水形魔 (Aqualith)",
+        "name": "艾格威 (Agwe) C1",
         "effects": [
-            "Special Skill need consecutive uses to reach full power, the following order:",
-            "1st:",
-            " * The caster gets Taunt that prevents enemies from using Special Skills on the caster’s allies for 2 turns.",
-            " * Deals 64 - 222 damage on all enemies after 2 turns, based on the damage the caster had taken while this effect was active. Maximum effect is achieved upon taking 50% of max health in damage.",
-            "2nd:",
-            " * The caster gets Taunt that prevents enemies from using Special Skills on the caster’s allies for 3 turns.",
-            " * Deals 124 - 351 damage on all enemies after 3 turns, based on the damage the caster had taken while this effect was active. Maximum effect is achieved upon taking 50% of max health in damage."
+            "对所有敌人造成 185% 伤害。",
+            "所有自然系敌人在 4 回合内受到共计 536 点燃烧伤害。"
         ]
     },
     {
         "originalIndex": 44,
-        "name": "水形魔 (Aqualith) C1",
+        "name": "水形魔 (Aqualith)",
         "effects": [
-            "Special Skill need consecutive uses to reach full power, the following order:",
-            "1st:",
-            " * The caster gets Taunt that prevents enemies from using Special Skills on the caster’s allies for 2 turns.",
-            " * Deals 56 - 214 damage on all enemies after 2 turns, based on the damage the caster had taken while this effect was active. Maximum effect is achieved upon taking 50% of max health in damage.",
-            "2nd:",
-            " * The caster gets Taunt that prevents enemies from using Special Skills on the caster’s allies for 3 turns.",
-            " * Deals 165 - 392 damage on all enemies after 3 turns, based on the damage the caster had taken while this effect was active. Maximum effect is achieved upon taking 50% of max health in damage."
+            "必须连续使用特殊技能才能达到其最大威力，顺序为：",
+            "第一次：",
+            "* 施法者获得嘲讽，可阻止敌人对其盟友使用特殊技能，持续 2 回合。",
+            "* 2 回合后，根据此效果有效期间施法者的所受伤害，对所有敌人造成 64 - 222 点伤害。受到最大生命值 50% 的伤害后可达到最大效果。",
+            "第二次：",
+            "* 施法者获得嘲讽，可阻止敌人对其盟友使用特殊技能，持续 3 回合。",
+            "* 3 回合后，根据此效果有效期间施法者的所受伤害，对所有敌人造成 124 - 351 点伤害。受到最大生命值 50% 的伤害后可达到最大效果。"
         ]
     },
     {
         "originalIndex": 45,
-        "name": "奥兹玛 (Azmia)",
+        "name": "水形魔 (Aqualith) C1",
         "effects": [
-            "Recovers 15% health for all allies.",
-            "The caster and nearby allies counterattack with 100% of the damage received for 4 turns. The damage of the counterattack increases by +5% with each counterattack, maxing out at 130%."
+            "必须连续使用特殊技能才能达到其最大威力，顺序为：",
+            "第一次：",
+            "* 施法者获得嘲讽，可阻止敌人对其盟友使用特殊技能，持续 2 回合。",
+            "* 2 回合后，根据此效果有效期间施法者的所受伤害，对所有敌人造成 56 - 214 点伤害。受到最大生命值 50% 的伤害后可达到最大效果。",
+            "第二次：",
+            "* 施法者获得嘲讽，可阻止敌人对其盟友使用特殊技能，持续 3 回合。",
+            "* 3 回合后，根据此效果有效期间施法者的所受伤害，对所有敌人造成 165 - 392 点伤害。受到最大生命值 50% 的伤害后可达到最大效果。"
         ]
     },
     {
         "originalIndex": 46,
-        "name": "奥兹玛 (Azmia) C1",
+        "name": "奥兹玛 (Azmia)",
         "effects": [
-            "Recovers 10% health for all allies.",
-            "The caster and nearby allies counterattack with 110% of the damage received for 4 turns. The damage of the counterattack increases by +5% with each counterattack, maxing out at 135%."
+            "为所有盟友恢复 15% 生命值。",
+            "施法者和附近盟友会以承受伤害的 100% 进行反击，持续 4 回合。每进行一次反击，反击伤害 +5%，最高为 130%。"
         ]
     },
     {
         "originalIndex": 47,
-        "name": "骨颤 (Bonechill)",
+        "name": "奥兹玛 (Azmia) C1",
         "effects": [
-            "Deals 240% damage to the target and nearby enemies.",
-            "The target and nearby enemies get -34% defense against Special Skills for 3 turns.",
-            "The caster and nearby allies get +86% defense against Nature for 3 turns."
+            "为所有盟友恢复 10% 生命值。",
+            "施法者和附近盟友会以承受伤害的 110% 进行反击，持续 4 回合。每进行一次反击，反击伤害 +5%，最高为 135%。"
         ]
     },
     {
         "originalIndex": 48,
-        "name": "博立尔 (Boril)",
+        "name": "骨颤 (Bonechill)",
         "effects": [
-            "The caster and nearby allies counterattack with 125% of the damage received for 5 turns."
+            "对目标及附近敌人造成 240% 伤害。",
+            "目标与附近敌人获得对特殊技能 -34% 的防御，持续 3 回合。",
+            "施法者和附近盟友获得对自然系 +86% 的防御，持续 3 回合。"
         ]
     },
     {
         "originalIndex": 49,
-        "name": "博立尔 (Boril) C1",
+        "name": "博立尔 (Boril)",
         "effects": [
-            "All allies counterattack with 60% of the damage received for 4 turns."
+            "施法者和附近盟友以所受伤害的 125% 进行反击，持续 5 回合。"
         ]
     },
     {
         "originalIndex": 50,
-        "name": "博立尔 (Boril) C2",
+        "name": "博立尔 (Boril) C1",
         "effects": [
-            "All allies counterattacks with 80% of the damage received for 4 turns. The counterattack damage increases by 20% each turn up to 140%."
+            "所有盟友会以所受伤害的 60% 进行反击，持续 4 回合。"
         ]
     },
     {
         "originalIndex": 51,
-        "name": "博立尔 (Boril) 卡通",
+        "name": "博立尔 (Boril) C2",
         "effects": [
-            "The caster and nearby allies counterattack with 120% of the damage received for 5 turns. This status effect is undispellable and lasts 2 turns longer on Ice characters."
+            "所有盟友会以所受伤害的 80% 进行反击，持续 4 回合。反击伤害每回合增加 20%，最高可达 140%。"
         ]
     },
     {
         "originalIndex": 52,
-        "name": "方块上尉 (Captain of Diamonds)",
+        "name": "博立尔 (Boril) 卡通",
         "effects": [
-            "Destroys all minions from the target.",
-            "Deals 275% damage to hit targets.",
-            "If the target had Minions, attacks another enemy who has Minions. If none of the enemies have Minions, attacks a random enemy. Each enemy can only be attacked once."
+            "施法者和附近盟友以所受伤害的 120% 进行反击，持续 5 回合。此状态效果不可驱散，对冰雪系角色持续时间延长 2 回合。"
         ]
     },
     {
         "originalIndex": 53,
-        "name": "达因 (Dain)",
+        "name": "方块上尉 (Captain of Diamonds)",
         "effects": [
-            "The caster and nearby allies get a Frostfall Ward for 3 turns, that reduces incoming Special Skill damage up to -500. Reduces damage by additional 25% when the attacker is of Fire element.",
-            "The caster and nearby allies get +120% normal attack for 3 turns. This effect can be active in addition to effects that alter attack in general. Normal attacks can have a total maxiumum of +200% increased attack while this effect is active."
+            "摧毁目标的所有小兵。",
+            "对命中的目标造成 275% 伤害。",
+            "如果目标拥有小兵，则攻击另外一个拥有小兵的敌人。如果敌人都没有小兵，则攻击随机一名敌人。每名敌人只能被攻击一次。"
         ]
     },
     {
         "originalIndex": 54,
-        "name": "佛斯考 (Fosco)",
+        "name": "达因 (Dain)",
         "effects": [
-            "Destroys all Minions from all enemies.",
-            "Dispels buffs from all enemies.",
-            "All allies regenerate 540 HP over 3 turns."
+            "施法者和附近盟友获得一个霜降守卫，持续 3 回合，它可使所受的特殊技能伤害降低最多 -500 点。当攻击者为烈火系元素时可额外降低 25% 的伤害。",
+            "施法者和附近盟友获得 +120% 普通攻击，持续 3 回合。即使英雄身上已有其他影响攻击力的效果，此效果仍然有效。此效果有效期间，普通攻击最多可以增加共计 +200% 攻击力。"
         ]
     },
     {
         "originalIndex": 55,
-        "name": "弗兰克 (Frank)",
+        "name": "佛斯考 (Fosco)",
         "effects": [
-            "Deals 200% damage to all enemies.",
-            "The damage is increased by 45% per dead enemy.",
-            "All enemies get -44% defense for 4 turns."
+            "摧毁全部敌人的全部小兵。",
+            "驱散所有敌人的增益。",
+            "所有盟友在 3 回合内恢复 540 点生命值。"
         ]
     },
     {
         "originalIndex": 56,
-        "name": "弗兰克 (Frank) C1",
+        "name": "弗兰克 (Frank)",
         "effects": [
-            "Deals 170% damage to all enemies",
-            "The damage is increased by 45% for each dead enemy.",
-            "Stack (Max:10): All enemies receive 20 Frost damage per each killed enemy or enemy Minion at the end of each turn.",
-            "Stack (Max: 10): All enemies get -4% mana generation per each killed enemy or enemy Minion."
+            "对所有敌人造成 200% 伤害。",
+            "每有一个敌人被击败，伤害增加 45%。",
+            "所有敌人获得 -44% 防御，持续 4 回合。"
         ]
     },
     {
         "originalIndex": 57,
-        "name": "格里亚斯 (Garyas)",
+        "name": "弗兰克 (Frank) C1",
         "effects": [
-            "Deals 330% damage to the target.",
-            "Alter the power of all Ice shields on the board. When an attacking Hero casts the special, the shields become enchance and give +37% more mana. When a defending Hero casts the special, the shields become weakened and give -30% less mana."
+            "对所有敌人造成 170% 伤害。",
+            "每有一个敌人被击败，伤害增加 45%。",
+            "叠加（最多 10 层）：每击败一个敌人或敌人小兵，每回合结束时便会对所有敌人造成 20 点冰冻伤害。",
+            "叠加（最多 10 层）：每击败一个敌人或敌人小兵，所有敌人获得 -4% 法力生成。"
         ]
     },
     {
         "originalIndex": 58,
-        "name": "格雷戈 (Greg)",
+        "name": "格里亚斯 (Garyas)",
         "effects": [
-            "Deals 100% damage to all enemies.",
-            "Summons a Sword Guard Mega Minion with 35% HP and 300% attack inherited from the caster.",
-            "The target hit by the Sword Guard Mega Minion receives 267 Bleed damage over 3 turns. This effect spreads to nearby enemies."
+            "对目标造成 330% 伤害。",
+            "面板中所有冰雪系盾牌受到影响。进攻方英雄施放此特殊技能时，盾牌将会被增强，给予的法力增加 +37% ；而防御方英雄施放此特殊技能时，盾牌则会被削弱，给予的法力减少 -30%。"
         ]
     },
     {
         "originalIndex": 59,
-        "name": "格林姆 (Grimm)",
+        "name": "格雷戈 (Greg)",
         "effects": [
-            "Deals 295% damage to the target and minor damage to nearby enemies.",
-            "The target and nearby enemies get -34% defense for 6 turns."
+            "对所有敌人造成 100% 伤害。",
+            "召唤一个持剑守卫超级小兵，其可从施法者处继承 35% 生命值和 300% 攻击力。",
+            "被持剑守卫超级小兵击中的目标会在 3 回合内受到共计 267 点流血伤害。此效果会蔓延至附近敌人。"
         ]
     },
     {
         "originalIndex": 60,
-        "name": "格林姆 (Grimm) C1",
+        "name": "格林姆 (Grimm)",
         "effects": [
-            "Deals 295% damage to the target and minor damage to nearby enemies.",
-            "The caster and nearby allies get +50% attack for 6 turns."
+            "对目标造成 295% 伤害，并对附近敌人造成轻微伤害。",
+            "目标与附近敌人获得 -34% 防御，持续 6 回合。"
         ]
     },
     {
         "originalIndex": 61,
-        "name": "格林姆 (Grimm) C2",
+        "name": "格林姆 (Grimm) C1",
         "effects": [
-            "Deals 295% damage to the target and minor damage to nearby enemies.",
-            "The caster and nearby allies Special Skill deal an additional +40% damage for 6 turns."
+            "对目标造成 295% 伤害，并对附近敌人造成轻微伤害。",
+            "施法者和附近盟友获得 +50% 攻击力，持续 6 回合。"
         ]
     },
     {
         "originalIndex": 62,
-        "name": "格林姆 (Grimm) 卡通",
+        "name": "格林姆 (Grimm) C2",
         "effects": [
-            "Deals 325% damage to the target and minor damage to nearby enemies.",
-            "The target and nearby enemies get -28% defense for 6 turns.",
-            "Deals extra damage against Fire."
+            "对目标造成 295% 伤害，并对附近敌人造成轻微伤害。",
+            "施法者和附近盟友的特殊技能造成额外 +40% 伤害，持续 6 回合。"
         ]
     },
     {
         "originalIndex": 63,
-        "name": "格林姆 (Grimm) 玻璃",
+        "name": "格林姆 (Grimm) 卡通",
         "effects": [
-            "Deals 335% damage to the target and minor damage to nearby enemies.",
-            "The attack bypasses defensive buffs. (This includes counterattacks.)",
-            "The target and nearby enemies get -30% defense for 6 turns."
+            "对目标造成 325% 伤害，并对附近敌人造成轻微伤害。",
+            "目标与附近敌人获得 -28% 防御，持续 6 回合。",
+            "对烈火系造成额外伤害。"
         ]
     },
     {
         "originalIndex": 64,
-        "name": "格蓝布尔 (Grumbl)",
+        "name": "格林姆 (Grimm) 玻璃",
         "effects": [
-            "All allies except the caster receive Softskin. (The next time they receive damage, it is reduced by -90%, and they resist all status ailment and mana reduction. This effect can’t be dispelled.)",
-            "All allies recover 510 HP over 3 turns. This effect duration is reset if the status effect owner is hit with direct damage from a Special Skill.",
-            "Cleanses status ailments from all allies."
+            "对目标造成 335% 伤害，并对附近敌人造成轻微伤害。",
+            "攻击会无视防御增益。（包括反击）",
+            "目标与附近敌人获得 -30% 防御，持续 6 回合。"
         ]
     },
     {
         "originalIndex": 65,
-        "name": "乔特 (Jott)",
+        "name": "格蓝布尔 (Grumbl)",
         "effects": [
-            "Deals 200% damage to all enemies.",
-            "Alters the power of all Ice shields on the board. When an attacking Hero casts the special, the shields become enhanced with +64% attack. When a defending Hero casts the special, the shields become weakened with -57% attack."
+            "除施法者外所有盟友获得软化皮肤。（他们下次受到的伤害减少 -90%，并抵抗所有状态异常和法力减损。此效果无法驱散）",
+            "所有盟友在 3 回合内恢复 510 点生命值。若身上带有该状态效果时受到特殊技能的直接伤害，则该效果持续时间会重置。",
+            "净化所有盟友的状态异常。"
         ]
     },
     {
         "originalIndex": 66,
-        "name": "基里尔 (Kiril)",
+        "name": "乔特 (Jott)",
         "effects": [
-            "Recovers 28% health for all allies",
-            "All allies get +30% attack for 3 turns",
-            "All allies get +30% defense for 3 turns"
+            "对所有敌人造成 200% 伤害。",
+            "面板中所有冰雪系盾牌受到影响。攻击方英雄施放特殊技能时，盾牌得到增强并额外给予 +64% 攻击力；防御方英雄施放特殊技能时，盾牌会被削弱攻击力 -57%。"
         ]
     },
     {
         "originalIndex": 67,
-        "name": "基里尔 (Kiril) C1",
+        "name": "基里尔 (Kiril)",
         "effects": [
-            "Recovers 28% health for all allies",
-            "All enemies get -34% attack for 3 turns",
-            "All enemies get -34% defense for 3 turns"
+            "为所有盟友恢复 28% 生命值。",
+            "所有盟友获得 +30% 攻击力，持续 3 回合。",
+            "所有盟友获得 +30% 防御，持续 3 回合。"
         ]
     },
     {
         "originalIndex": 68,
-        "name": "基里尔 (Kiril) C2",
+        "name": "基里尔 (Kiril) C1",
         "effects": [
-            "Boosts health of all allies by 400. Boosted health can exceed max HP",
-            "All allies get +30% defense for 3 turns",
-            "All enemies get -34% attack for 3 turns"
+            "为所有盟友恢复 28% 生命值。",
+            "所有敌人获得 -34% 攻击力，持续 3 回合。",
+            "所有敌人获得 -34% 防御，持续 3 回合。"
         ]
     },
     {
         "originalIndex": 69,
-        "name": "基里尔 (Kiril) 卡通",
+        "name": "基里尔 (Kiril) C2",
         "effects": [
-            "Recovers 31% health for all allies.",
-            "All allies get 26% attack for 3 turns. This status effect is undispellable and lasts 2 turns longer on Ice characters.",
-            "All allies get 26% defense for 3 turns. This status effect is undispellable and lasts 2 turns longer on Ice characters."
+            "提高所有盟友 400 点生命值。提高的生命值可以超过最大生命值。",
+            "所有盟友获得 +30% 防御，持续 3 回合。",
+            "所有敌人获得 -34% 攻击力，持续 3 回合。"
         ]
     },
     {
         "originalIndex": 70,
-        "name": "基里尔 (Kiril) 玻璃",
+        "name": "基里尔 (Kiril) 卡通",
         "effects": [
-            "Recovers 32% health for all allies.",
-            "All allies get +28% attack for 3 turns.",
-            "All allies get +28% defense for 3 turns.",
-            "All Ice allies reflect status ailments and negative stacks for 2 turns. (Status effect cast by characters, Minions and Fiends on the same side cannot be reflected.)"
+            "为所有盟友恢复 31% 生命值。",
+            "所有盟友获得 26% 攻击力，持续 3 回合。此状态效果不可驱散，对冰雪系角色持续时间延长 2 回合。",
+            "所有盟友获得 26% 防御，持续 3 回合。此状态效果不可驱散，对冰雪系角色持续时间延长 2 回合。"
         ]
     },
     {
         "originalIndex": 71,
-        "name": "纳克斯 (Knuckles)",
+        "name": "基里尔 (Kiril) 玻璃",
         "effects": [
-            "All allies get +30% defense, and a further 3% increase every time they are hit during 4 turns.",
-            "All allies reflect status ailments and negative stacks for 4 turns. Status effects cast by characters, Minions and Fiends on the same side cannot be reflected.",
-            "Stack (Max: 10): The caster gets +20% attack against the weaker element."
+            "为所有盟友恢复 32% 生命值。",
+            "所有盟友获得 +28% 攻击力，持续 3 回合。",
+            "所有盟友获得 +28% 防御，持续 3 回合。",
+            "所有冰雪系盟友可反弹状态异常和负面效果叠加，持续 2 回合。（同队角色、小兵和恶魔施放的状态效果无法反弹）"
         ]
     },
     {
         "originalIndex": 72,
-        "name": "莱纳斯 (Linus)",
+        "name": "纳克斯 (Knuckles)",
         "effects": [
-            "Deals 315% damage to the target.",
-            "If there are 6 or more Ice shields on the board, damage is dealt to the target and nearby enemies.",
-            "If there are 12 or more Ice shields on the board, damage is dealt to all enemies."
+            "所有盟友获得 +30% 防御，每次被击中后额外增加 3% 防御，持续 4 回合。",
+            "所有盟友可反弹状态异常和负面效果叠加，持续 4 回合。同队角色、小兵和恶魔施放的状态效果无法反弹。",
+            "叠加（最多 10 层）：施法者对所克制元素的攻击力提高 +20%。"
         ]
     },
     {
         "originalIndex": 73,
-        "name": "麦尔威弗 (Mireweave)",
+        "name": "莱纳斯 (Linus)",
         "effects": [
-            "Deals 150% damage to the target and nearby enemies.",
-            "Stack (Max: 10): The caster gets +10% attack."
+            "对目标造成 315% 伤害。",
+            "若面板上有 6 个或以上的冰雪系盾牌，则对目标和附近敌人造成该伤害。",
+            "若面板上有 12 个或以上的冰雪系盾牌，则对所有敌人造成该伤害。"
         ]
     },
     {
         "originalIndex": 74,
-        "name": "奥尔贝克 (Olbec)",
+        "name": "麦尔威弗 (Mireweave)",
         "effects": [
-            "Attacks the target with Moonrise Strike, dealing up to 1020 damage. Deals 30% more damage if the target is Holy. This Special Skill never misses its targets.",
-            "Reduces the mana of the target by 10%."
+            "对目标及附近敌人造成 150% 伤害。",
+            "叠加（最多 10 层）：施法者获得 +10% 攻击力。"
         ]
     },
     {
         "originalIndex": 75,
-        "name": "修 (Osamu)",
+        "name": "奥尔贝克 (Olbec)",
         "effects": [
-            "1x Mana Charge",
-            "* Deals 350% damage to the target.",
-            "* The target gets -35% defense for 2 turns.",
-            "2x Mana Charge",
-            "* Deals 375% damage to the target.",
-            "* The target gets -40% defense for 4 turns.",
-            "3x Mana Charge",
-            "* Deals 400% damage to the target.",
-            "* If the attack defeats the target, the caster gains 100% mana.",
-            "* The target gets -45% defense for 6 turns."
+            "使用月出闪袭攻击目标，造成最多 1020 点伤害。若目标为神圣系元素则额外造成 30% 伤害。该特殊技能必定命中。",
+            "使目标的法力减少 10%。"
         ]
     },
     {
         "originalIndex": 76,
-        "name": "桑格里厄 (Sanngrior)",
+        "name": "修 (Osamu)",
         "effects": [
-            "Boosts health of the caster and nearby allies by 650. Boosted health can exceed max HP.",
-            "The caster and nearby allies get +94% defence against Nature for 3 turns."
+            "1 倍法力充能：",
+            "* 对目标造成 350% 伤害。",
+            "* 目标获得 -35% 防御，持续 2 回合。",
+            "2 倍法力充能：",
+            "* 对目标造成 375% 伤害。",
+            "* 目标获得 -40% 防御，持续 4 回合。",
+            "3 倍法力充能：",
+            "* 对目标造成 400% 伤害。",
+            "* 若该攻击将敌人击败，那么施法者将获得 100% 法力。",
+            "* 目标获得 -45% 防御，持续 6 回合。"
         ]
     },
     {
         "originalIndex": 77,
-        "name": "青玉 (Sapphire)",
+        "name": "桑格里厄 (Sanngrior)",
         "effects": [
-            "1x Mana Charge",
-            "* Deals 225% damage to the target",
-            "* The attack has a 35% chance to bypass defensive buffs. This includes counter attack.",
-            "2x Mana Charge",
-            "* Deals 250% damage to the target and nearby enemies",
-            "* The attack has a 60% chance to bypass defensive buffs. This includes counter attack.",
-            "3x Mana Charge",
-            "* Deals 290% damage to all enemies",
-            "* The attack has a 85% chance to bypass defensive buffs. This includes counter attack."
+            "提高施法者和附近盟友 650 点生命值。提高的生命值可以超过最大生命值。",
+            "施法者和附近盟友获得对自然系 +94% 的防御，持续 3 回合。"
         ]
     },
     {
         "originalIndex": 78,
-        "name": "索尼娅 (Sonya)",
+        "name": "青玉 (Sapphire)",
         "effects": [
-            "Deals 345% damage to the target.",
-            "Dispels buffs from all enemies."
+            "1 倍法力充能：",
+            "* 对目标造成 225% 伤害。",
+            "* 攻击有 35% 的几率无视防御增益（包括反击）。",
+            "2 倍法力充能：",
+            "* 对目标及附近敌人造成 250% 伤害。",
+            "* 攻击有 60% 的几率无视防御增益（包括反击）。",
+            "3 倍法力充能：",
+            "* 对所有敌人造成 290% 伤害。",
+            "* 攻击有 85% 的几率无视防御增益（包括反击）。"
         ]
     },
     {
         "originalIndex": 79,
-        "name": "索尼娅 (Sonya) C1",
+        "name": "索尼娅 (Sonya)",
         "effects": [
-            "Deals 345% damage to the target.",
-            "Cleanses status ailments from all allies."
+            "对目标造成 345% 伤害。",
+            "驱散所有敌人的增益。"
         ]
     },
     {
         "originalIndex": 80,
-        "name": "索尼娅 (Sonya) C2",
+        "name": "索尼娅 (Sonya) C1",
         "effects": [
-            "Deals 345% damage to the target.",
-            "All enemies are immune to new status effect buffs for 2 turns."
+            "对目标造成 345% 伤害。",
+            "净化所有盟友的状态异常。"
         ]
     },
     {
         "originalIndex": 81,
-        "name": "索尼娅 (Sonya) 卡通",
+        "name": "索尼娅 (Sonya) C2",
         "effects": [
-            "Deals 355% damage to the target.",
-            "Deals extra damage against Fire.",
-            "Dispels buffs from the target."
+            "对目标造成 345% 伤害。",
+            "所有敌人对新的增益状态效果免疫，持续 2 回合。"
         ]
     },
     {
         "originalIndex": 82,
-        "name": "崔坦 (Triton)",
+        "name": "索尼娅 (Sonya) 卡通",
         "effects": [
-            "Deals 335% damage to the target",
-            "All allies get +39% increase for any healing received for 4 turns"
+            "对目标造成 355% 伤害。",
+            "对烈火系造成额外伤害。",
+            "驱散目标身上的增益。"
         ]
     },
     {
         "originalIndex": 83,
-        "name": "崔坦 (Triton) C1",
+        "name": "崔坦 (Triton)",
         "effects": [
-            "Deals 295% damage to the target and minor damage to nearby enemies.",
-            "All allies get +30% attack for 4 turns."
+            "对目标造成 335% 伤害。",
+            "所有盟友获得的治疗增加 +39%，持续 4 回合。"
         ]
     },
     {
         "originalIndex": 84,
-        "name": "法蕾莉 (Valeria)",
+        "name": "崔坦 (Triton) C1",
         "effects": [
-            "Deals 235% damage to the target.",
-            "The target receives 150 damage over 5 turns. If a target already has this effect, the duration will be refreshed and the damage will be increased by 220, up to 580 damage in total.",
-            "The caster steals 61% of any healing applied to the target for 3 turns."
+            "对目标造成 295% 伤害，并对附近敌人造成轻微伤害。",
+            "所有盟友获得 +30% 攻击力，持续 4 回合。"
         ]
     },
     {
         "originalIndex": 85,
-        "name": "夏侯惇 (Xiahou Dun)",
+        "name": "法蕾莉 (Valeria)",
         "effects": [
-            "Deals 355% damage to the target.",
-            "Summons a Wei Soldier Minion for the caster and nearby allies with 20% HP and 25% attack inherited from the caster.",
-            "Each hit from a Wei Soldier Minion dispells all dispellable buffs from the target."
+            "对目标造成 235% 伤害。",
+            "目标在 5 回合内受到共计 150 点伤害。若目标身上已有此效果，持续时间将会刷新，并且伤害会提高 220 点，最多共计 580 点伤害。",
+            "施法者偷取目标所获治疗的 61%，持续 3 回合。"
         ]
     },
     {
         "originalIndex": 86,
-        "name": "齐拉蕾 (Zila Lei)",
+        "name": "夏侯惇 (Xiahou Dun)",
         "effects": [
-            "Deals 185% damage to the enemies on the edges of the enemy formation. If there is only one enemy alive, the damage is doubled.",
-            "The enemies on the edges of the enemy formation get -34% defense for 3 turns."
+            "对目标造成 355% 伤害。",
+            "为施法者和附近盟友召唤一个魏军小兵，其可从施法者处继承 20% 生命和 25% 攻击力。",
+            "魏军小兵每次击中目标都会驱散目标身上所有可驱散的增益。"
         ]
     },
     {
         "originalIndex": 87,
-        "name": "齐拉蕾 (Zila Lei) C1",
+        "name": "齐拉蕾 (Zila Lei)",
         "effects": [
-            "Deals 215% damage to the enemies on the edges of the enemy formation. If there is only one enemy alive, the damage is doubled.",
-            "The enemies on the edges of the enemy formation get -30% defence for 3 turns."
+            "对位于敌军阵型边缘的敌人造成 185% 伤害。如果仅有一名敌人，则伤害加倍。",
+            "处于敌人阵型边缘的敌人获得 -34% 防御，持续 3 回合。"
         ]
     },
     {
         "originalIndex": 88,
-        "name": "爱德琳达 (Adalinda)",
+        "name": "齐拉蕾 (Zila Lei) C1",
         "effects": [
-            "Deals 395% damage to the target and nearby enemies.",
-            "Summons a Bone Trap Fiend for the target and nearby enemies. The Fiend damages the enemy with 45% attack every turn. The damage increases by 8% each turn, up to a maximum of 93%.",
-            "The Bone Trap Fiend absorbs healing and disappears when it has absorbed health equal to 35% of its owner’s max health.",
-            "The target and nearby enemies get -56% defense for 4 turns."
+            "对位于敌军阵型边缘的敌人造成 215% 伤害。如果仅有一名敌人，则伤害加倍。",
+            "处于敌人阵型边缘的敌人获得 -30% 防御，持续 3 回合。"
         ]
     },
     {
         "originalIndex": 89,
-        "name": "艾吉尔 (Aegir)",
+        "name": "爱德琳达 (Adalinda)",
         "effects": [
-            "All allies become Soul Connected for 4 turns. Soul Connected allies share received damage.",
-            "All allies get +35% defense for 4 turns.",
-            "All allies heal 100% of dealt normal damage for 4 turns.",
-            "Element Link recovers 4% health for all Ice allies for 6 turns. This effect can't be cleansed."
+            "对目标及附近敌人造成 395% 伤害。",
+            "召唤刺骨陷阱恶魔附身于目标及附近敌人。恶魔每回合对敌人造成 45% 攻击力的伤害。该伤害每回合提高 8%，最高可达 93%。",
+            "刺骨陷阱恶魔会吸收治疗，当吸收的治疗量达到其所有者最大生命值的 35% 时，它便会消失。",
+            "目标与附近敌人获得 -56% 防御，持续 4 回合。"
         ]
     },
     {
         "originalIndex": 90,
-        "name": "艾吉尔 (Aegir) C1",
+        "name": "艾吉尔 (Aegir)",
         "effects": [
-            "All allies become Soul Connected for 4 turns. Soul Connected allies share received damage.",
-            "All allies get +30% defense, and a further 5% increase every time they are hit during 4 turns.",
-            "All allies regenerate 732 HP over 4 turns.",
-            "Element Link recovers 4% health for all Ice allies for 6 turns. This effect can’t be dispelled."
+            "所有盟友变得灵魂相连，持续 4 回合。灵魂相连的盟友将平摊所受伤害。",
+            "所有盟友获得 +35% 防御，持续 4 回合。",
+            "所有盟友恢复相当于所造成普通伤害 100% 的生命值，持续 4 回合。",
+            "元素链为所有冰雪系盟友提供 4% 的生命恢复，持续 6 回合。此效果无法净化。"
         ]
     },
     {
         "originalIndex": 91,
-        "name": "爱诺 (Aino)",
+        "name": "艾吉尔 (Aegir) C1",
         "effects": [
-            "Cleanses status ailments from all allies.",
-            "Recovers 40% health for all allies.",
-            "All enemies get -24% mana generation for 4 turns. Against Nature characters, this status effect becomes uncleansable and lasts 2 turns longer."
+            "所有盟友变得灵魂相连，持续 4 回合。灵魂相连的盟友将平摊所受伤害。",
+            "所有盟友获得 +30% 防御，每次被击中后额外增加 5% 防御，持续 4 回合。",
+            "所有盟友在 4 回合内恢复 732 点生命值。",
+            "元素链为所有冰雪系盟友提供 4% 的生命恢复，持续 6 回合。此效果无法驱散。"
         ]
     },
     {
         "originalIndex": 92,
-        "name": "爱诺 (Aino) C1",
+        "name": "爱诺 (Aino)",
         "effects": [
-            "Cleanses status ailments from all allies.",
-            "Recovers 45% health for all allies.",
-            "All enemies get -20% mana generation for 4 turns. Against Nature characters, this status effect becomes uncleansable and lasts 2 turns longer."
+            "净化所有盟友的状态异常。",
+            "为所有盟友恢复 40% 生命值。",
+            "所有敌人获得 -24% 法力生成，持续 4 回合。对自然系角色，此状态效果不可净化且持续时间延长 2 回合。"
         ]
     },
     {
         "originalIndex": 93,
-        "name": "阿拉希 (Alasie)",
+        "name": "爱诺 (Aino) C1",
         "effects": [
-            "Deals 542% damage to the target",
-            "The target and nearby enemies get -24% mana generation for 3 turns. This effect can't be cleansed",
-            "Elemental Link gives all Ice allies +5% attack and +5% defense for 6 turns. This effect can't be cleansed"
+            "净化所有盟友的状态异常。",
+            "为所有盟友恢复 45% 生命值。",
+            "所有敌人获得 -20% 法力生成，持续 4 回合。对自然系角色，此状态效果不可净化且持续时间延长 2 回合。"
         ]
     },
     {
         "originalIndex": 94,
-        "name": "阿拉希 (Alasie) C1",
+        "name": "阿拉希 (Alasie)",
         "effects": [
-            "Deals 496% damage to the target and minor damage to nearby enemies.",
-            "Reduces the mana of the target and nearby enemies by 10%.",
-            "The target and nearby enemies get -24% mana generation for 3 turns.",
-            "Element Link gives all Ice  allies +5% attack and +5% defense for 6 turns. This effect can’t be dispelled."
+            "对目标造成 542% 伤害。",
+            "目标与附近敌人获得 -24% 法力生成，持续 3 回合。此效果无法净化。",
+            "元素链为全体冰雪系盟友提供 +5% 的攻击和 +5% 的防御，持续 6 回合。此效果无法净化。"
         ]
     },
     {
         "originalIndex": 95,
-        "name": "亚历山德林 (Alexandrine)",
+        "name": "阿拉希 (Alasie) C1",
         "effects": [
-            "Recovers 26% health for all allies.",
-            "Recovers additional 3% health per each Ice shield on the board, up to 50% health in total.",
-            "Alters the critical chance or accuracy of all Ice shields on the board. When attacking Hero casts the special, the shield becomes enhanced with +54% critical chance. When a defending Hero casts the special, he shields become weakened with -47% accuracy.",
-            "Element Link gives +10% increase for any healing received for all Ice allies for 4 turns. This effect can't be dispelled."
+            "对目标造成 496% 伤害，并对附近敌人造成轻微伤害。",
+            "使目标和附近敌人的法力减少 10%。",
+            "目标与附近敌人获得 -24% 法力生成，持续 3 回合。",
+            "元素链为全体冰雪系盟友提供 +5% 的攻击和 +5% 的防御，持续 6 回合。此效果无法驱散。"
         ]
     },
     {
         "originalIndex": 96,
-        "name": "爱丽丝 (Alice)",
+        "name": "亚历山德林 (Alexandrine)",
         "effects": [
-            "Deals 430% damage to the target.",
-            "Target gets -44% attack for 3 turns. The effect duration is reset if the target is healed. This effect cannot be dispelled."
+            "为所有盟友恢复 26% 生命值。",
+            "面板上每存在一个冰雪系盾牌，便额外恢复 3% 生命，最多共计恢复 50% 生命值。",
+            "面板中所有冰雪系盾牌的暴击几率或精准度受到影响。攻击方英雄施放特殊技能时，盾牌得到增强并额外给予 +54% 的暴击几率。防御方英雄施放特殊技能时，盾牌会被削弱精准度 -47%。",
+            "元素链给予所有冰雪系盟友受到的治疗增加 +10%，持续 4 回合。此效果无法驱散。"
         ]
     },
     {
         "originalIndex": 97,
-        "name": "安菲特里忒 (Amphitrite)",
+        "name": "爱丽丝 (Alice)",
         "effects": [
-            "Special Skill has a different effect when charged with 100% / 200% / 300% mana:",
-            "1x Mana Charge:",
-            "* Deals 200% damage to all enemies.",
-            "* All enemies get -25% decrease of any healing received for 3 turns.",
-            "2x Mana Charge:",
-            "* Deals 315% damage to all enemies.",
-            "* Summons a Styx Spirit Fiend for all enemies. The Fiend damages its target with 40% attack every turn.",
-            "* The Styx Spirit Fiend absorbs healing. It disappears after absorbing a healing amount equal to 25% if its target’s max health.",
-            "3x Mana Charge:",
-            "* Deals 365% damage to all enemies.",
-            "* Summons a Styx Spirit Fiend for all enemies. The Fiend damages its target with 40% attack every turn.",
-            "* The Styx Spirit Fiend absorbs healing. It disappears after absorbing a healing amount equal to 25% if its target’s max health.",
-            "* All enemies get -75% decrease of any healing received for 4 turns."
+            "对目标造成 430% 伤害。",
+            "目标获得 -44% 攻击力，持续 3 回合。若目标受到治疗，效果持续时间将重置。此效果无法驱散。"
         ]
     },
     {
         "originalIndex": 98,
-        "name": "安德瓦里 (Andvari)",
+        "name": "安菲特里忒 (Amphitrite)",
         "effects": [
-            "Destroys all Minions from all enemies and damages all Mega Minions.",
-            "Destroys all Fiends from all allies. This effect damages Mega Fiends.",
-            "All allies get a Firestorm Ward for 4 turns, that reduces incoming Special Skill damage by up to -1300. Reduces damage by additional 30% when the attacker is of the Nature element.",
-            "All allies get +40% mana generation for 4 turns. (Affects only mana generated from matching tiles or mana gained by the defense team at the end of their turn.)"
+            "当特殊技能充能至 100% / 200% / 300% 法力时将拥有不同的效果：",
+            "1 倍法力充能：",
+            "* 对所有敌人造成 200% 伤害。",
+            "* 所有敌人获得的治疗减少 -25%，持续 3 回合。",
+            "2 倍法力充能：",
+            "* 对所有敌人造成 315% 伤害。",
+            "* 召唤冥河精魂恶魔附身于所有敌人。恶魔每回合对其目标造成 40% 攻击力的伤害。",
+            "* 冥河精魂恶魔会吸收治疗。它在吸收了相当于其目标最大生命值 25% 的治疗量后便会消失。",
+            "3 倍法力充能：",
+            "* 对所有敌人造成 365% 伤害。",
+            "* 召唤冥河精魂恶魔附身于所有敌人。恶魔每回合对其目标造成 40% 攻击力的伤害。",
+            "* 冥河精魂恶魔会吸收治疗。它在吸收了相当于其目标最大生命值 25% 的治疗量后便会消失。",
+            "* 所有敌人获得的治疗减少 -75%，持续 4 回合。"
         ]
     },
     {
         "originalIndex": 99,
-        "name": "安齐雅 (Anzia)",
+        "name": "安德瓦里 (Andvari)",
         "effects": [
-            "All allies counterattack with 75% of the damage received, and a further 7% increase per each Ice shield on the board for 5 turns, up to 159% damage in total.",
-            "All Ice allies regenerate a moderate amount of mana for each counterattack for 5 turns. This effect gets diminished for consecutive activations during the same turn."
+            "摧毁全部敌人的全部小兵并杀伤所有超级小兵。",
+            "摧毁所有盟友的恶魔。此效果会对超级恶魔造成伤害。",
+            "所有盟友获得一个焰暴守卫，持续 4 回合，它可使所受的特殊技能伤害降低最多 -1300 点。当攻击者为自然系元素时可额外降低 30% 的伤害。",
+            "所有盟友获得 +40% 法力生成，持续 4 回合。（只影响通过消除方块或由防御队伍在其回合结束时获得的法力）"
         ]
     },
     {
         "originalIndex": 100,
-        "name": "艾丽娅珂丝 (Areax)",
+        "name": "安齐雅 (Anzia)",
         "effects": [
-            "Deals 410% damage to the target.",
-            "The attack chains through all enemies who are adjacent to any hit enemy.",
-            "The target receive 374 Frost damage over 2 turns.",
-            "Element Link gives +10% mana generation for all Ice allies for 4 turns. This effect cannot be dispelled."
+            "所有盟友会以所受伤害的 75% 进行反击，面板上每存在一个冰雪系护盾则进一步增加 7%，持续 5 回合，最高可达共计 159% 伤害。",
+            "所有冰雪系盟友每次反击可恢复适量法力，持续 5 回合。同一回合中效果经连续激活会减弱。"
         ]
     },
     {
         "originalIndex": 101,
-        "name": "爱丽儿 (Ariel)",
+        "name": "艾丽娅珂丝 (Areax)",
         "effects": [
-            "Recovers 40% health for all allies.",
-            "All allies get +24% mana generation for 4 turns.",
-            "Cleanses status ailments from all allies."
+            "对目标造成 410% 伤害。",
+            "与被击中敌人相邻的所有敌人都将受到连锁攻击。",
+            "目标在 2 回合内受到共计 374 点冰冻伤害。",
+            "元素链为全体冰雪系盟友提供 +10% 的法力生成，持续 4 回合。此效果无法驱散。"
         ]
     },
     {
         "originalIndex": 102,
-        "name": "爱丽儿 (Ariel) C1",
+        "name": "爱丽儿 (Ariel)",
         "effects": [
-            "Boosts health of all allies by 520. Boosted health can exceed max HP.",
-            "All allies regenerate a moderate amount of mana over 4 turns.",
-            "Cleanses status ailments from all allies."
+            "为所有盟友恢复 40% 生命值。",
+            "所有盟友获得 +24% 法力生成，持续 4 回合。",
+            "净化所有盟友的状态异常。"
         ]
     },
     {
         "originalIndex": 103,
-        "name": "阿梅尔 (Armel)",
+        "name": "爱丽儿 (Ariel) C1",
         "effects": [
-            "Dispels buff from all enemies.",
-            "Reduces max health of all enemies by 400. This effect is stronger against targets with boosted health. (Max health can’t get lower than 30% of the original max health. Any boosted health is reduced by an additional 400.)",
-            "All enemies receive 459 Frost damage over 3 turns."
+            "提高所有盟友 520 点生命值。提高的生命值可以超过最大生命值。",
+            "所有盟友在 4 回合内恢复适量法力。",
+            "净化所有盟友的状态异常。"
         ]
     },
     {
         "originalIndex": 104,
-        "name": "阿西安 (Ascian)",
+        "name": "阿梅尔 (Armel)",
         "effects": [
-            "Deals 270% damage to all enemies.",
-            "Enhanced Defense Ailment: All enemies get -50% defense against Special Skills. This effect lasts until the enemy takes damage from a Special Skill once.",
-            "After the Enhanced Defense Ailment ends or is removed or replaced, reduces the enemy’s mana by -15%.",
-            "All allies gain 15% mana after 2 turns or immediately if the effect is removed before the duration ends."
+            "驱散所有敌人的增益。",
+            "使所有敌人减少 400 点最大生命值。若目标拥有提高的生命值，此效果会增强。（最大生命值不能低于初始最大生命值的 30%。任何生命加成会额外减少 400 点）",
+            "所有敌人在 3 回合内受到共计 459 点冰冻伤害。"
         ]
     },
     {
         "originalIndex": 105,
-        "name": "阿西娜 (Athena)",
+        "name": "进阶拟态兽 (Ascension Mimic) Ice",
         "effects": [
-            "Deals 335% damage to the target and minor damage to nearby enemies.",
-            "The target and nearby enemies get -41% defense and a further -4% decrease every time they are hit for 4 turns.",
-            "Deals extra damage against Fire.",
-            "Element Link gives all Ice  allies +15% attack and +15% defense for 6 turns. This effect can’t be dispelled."
+            "对目标及附近敌人造成 380% 伤害。",
+            "若本次攻击将敌人击败，那么施法者将恢复 +50% 生命并获得 +33% 法力。",
+            "目标与附近敌人在 4 回合内受到共计 608 点流血伤害。",
+            "拟态兽宝箱关闭 2 回合。（拟态兽宝箱关闭时免疫伤害和新的状态异常）"
         ]
     },
     {
         "originalIndex": 106,
-        "name": "阿西娜 (Athena) C1",
+        "name": "阿西安 (Ascian)",
         "effects": [
-            "Deals 320% damage to the target and minor damage to nearby enemies.",
-            "The target and nearby enemies get -41% defense, and a further -4% decrease every time that they are hit for 3 turns.",
-            "All Fire enemies get -34% defense against Ice for 3 turns.",
-            "Element Link gives all Ice  allies +15% attack and +15% defense for 6 turns. This effect can’t be dispelled."
+            "对所有敌人造成 270% 伤害。",
+            "强化防御异常：所有敌人对特殊技能 -50% 的防御。此效果在敌人受到一次特殊技能伤害后消失。",
+            "强化防御异常结束后、被移除或被替换后，敌人的法力减少 -15%。",
+            "所有盟友在 2 回合后获得 15% 法力，或在该效果提前被移除时立即获得。"
         ]
     },
     {
         "originalIndex": 107,
-        "name": "亚特兰蒂亚 (Atlanteia)",
+        "name": "阿西娜 (Athena)",
         "effects": [
-            "Special Skill need consecutive uses to reach full power, the following order:",
-            "1st:",
-            " * All enemies receive Corrosive Frost for 4 turns. Corrosive Frost deals 211 Frost damage and lowers the target’s attack by -8% each turn.",
-            " * The caster steals 28% of generated mana from all enemies over 4 turns. This effect can’t be cleansed, but it gets removed if the caster is defeated.",
-            "2nd:",
-            " * All enemies receive Corrosive Frost for 4 turns. Corrosive Frost deals 275 Frost damage and lowers the target’s attack by -13% each turn. Deals extra damage against heroes with Minions or Mega Minions.",
-            " * The caster steals 28% of generated mana from all enemies over 4 turns. This effect can’t be cleansed, but it gets removed if the caster is defeated."
+            "对目标造成 335% 伤害，并对附近敌人造成轻微伤害。",
+            "目标与附近敌人获得 -41% 防御，且在每次被击中时再降低 -4% 防御，持续 4 回合。",
+            "对烈火系造成额外伤害。",
+            "元素链为全体冰雪系盟友提供 +15% 的攻击和 +15% 的防御，持续 6 回合。此效果无法驱散。"
         ]
     },
     {
         "originalIndex": 108,
-        "name": "亚特兰蒂亚 (Atlanteia) C1",
+        "name": "阿西娜 (Athena) C1",
         "effects": [
-            "Special Skill need consecutive uses to reach full power, the following order:",
-            "1st:",
-            " * All enemies receive Corrosive Frost for 4 turns. The Corrosive Frost deals 258 Frost damage and lowers the target’s attack by -7% each turn. Deals extra damage against heroes with Minions or Mega Minions.",
-            " * The caster steals 27% of generated mana from all enemies over 4 turns. This effect can’t be cleansed, but it gets removed if the caster is defeated.",
-            "2nd:",
-            " * All enemies receive Corrosive Frost for 4 turns. The Corrosive Frost deals 371 Frost damage and lowers the target’s attack by -15% each turn. Deals extra damage against heroes with Minions or Mega Minions.",
-            " * The caster steals 30% of generated mana from all enemies over 4 turns. This effect can’t be cleansed, but it gets removed if the caster is defeated."
+            "对目标造成 320% 伤害，并对附近敌人造成轻微伤害。",
+            "目标与附近敌人获得 -41% 防御，并在每次被击中时再降低 -4% 防御，持续 3 回合。",
+            "所有烈火系敌人获得对冰雪系 -34% 的防御，持续 3 回合。",
+            "元素链为全体冰雪系盟友提供 +15% 的攻击和 +15% 的防御，持续 6 回合。此效果无法驱散。"
         ]
     },
     {
         "originalIndex": 109,
-        "name": "石青 (Azurite)",
+        "name": "亚特兰蒂亚 (Atlanteia)",
         "effects": [
-            "Special Skill has a different effect when charged with 100%/200%/300% mana",
-            "1x Mana Charge",
-            "* Deals 250% damage to the target and nearby enemies.",
-            "* The target and nearby enemies get -35% accuracy for 2 turns. Chance to miss also applies to offensive Special Skills.",
-            "* The target and nearby enemies deal 320 damage to a random ally if they miss Special Skill during 2 turns.",
-            "2x Mana Charge",
-            "* Deals 325% damage to the target and nearby enemies.",
-            "* The target and nearby enemies get -40% accuracy for 3 turns. Chance to miss also applies to offensive Special Skills.",
-            "* The target and nearby enemies deal 390 damage to a random ally if they miss Special Skill during 3 turns.",
-            "3x Mana Charge",
-            "* Deals 400% damage to the target and nearby enemies.",
-            "* The target and nearby enemies get -54% accuracy for 4 turns. Chance to miss also applies to offensive Special Skills.",
-            "* The target and nearby enemies deal 470 damage to a random ally if they miss Special Skill during 4 turns."
+            "必须连续使用特殊技能才能达到其最大威力，顺序为：",
+            "第一次：",
+            "* 所有敌人受到腐蚀性冻伤，持续 4 回合。腐蚀性冻伤每回合造成 211 点冰冻伤害，并使目标的攻击力降低 -8%。",
+            "* 在 4 回合内，施法者从所有敌人身上偷取共计 28% 的生成法力。此效果无法净化，但会在施法者被击败后移除。",
+            "第二次：",
+            "* 所有敌人受到腐蚀性冻伤，持续 4 回合。腐蚀性冻伤每回合造成 275 点冰冻伤害，并使目标的攻击力降低 -13%。对拥有小兵或超级小兵的英雄造成额外伤害。",
+            "* 在 4 回合内，施法者从所有敌人身上偷取共计 28% 的生成法力。此效果无法净化，但会在施法者被击败后移除。"
         ]
     },
     {
         "originalIndex": 110,
-        "name": "巴洛尔 (Balur)",
+        "name": "亚特兰蒂亚 (Atlanteia) C1",
         "effects": [
-            "Deals 530% damage to the target.",
-            "The target receives 519 bleed damage over 3 turns.",
-            "Element Link gives all ice allies immunity to new Fiends for 4 turns. This effect can't be dispelled."
+            "必须连续使用特殊技能才能达到其最大威力，顺序为：",
+            "第一次：",
+            "* 所有敌人受到腐蚀性冻伤，持续 4 回合。腐蚀性冻伤每回合造成 258 点冰冻伤害，并使目标的攻击力降低 -7%。对拥有小兵和超级小兵的英雄造成额外伤害。",
+            "* 在 4 回合内，施法者从所有敌人身上偷取共计 27% 的生成法力。此效果无法净化，但会在施法者被击败后移除。",
+            "第二次：",
+            "* 所有敌人受到腐蚀性冻伤，持续 4 回合。腐蚀性冻伤每回合造成 371 点冰冻伤害，并使目标的攻击力降低 -15%。对拥有小兵和超级小兵的英雄造成额外伤害。",
+            "* 在 4 回合内，施法者从所有敌人身上偷取共计 30% 的生成法力。此效果无法净化，但会在施法者被击败后移除。"
         ]
     },
     {
         "originalIndex": 111,
-        "name": "本努 (Bennu)",
+        "name": "石青 (Azurite)",
         "effects": [
-            "The caster and nearby allies counterattack with 100% of the damage received for 5 turns. The damage of the counterattack increases by +5% with each counterattack, maxing out at 130%.",
-            "The caster and nearby allies reduce all received damage by -50% for 5 turns."
+            "当特殊技能充能至 100% / 200% / 300% 法力时将拥有不同的效果：",
+            "1 倍法力充能：",
+            "* 对目标及附近敌人造成 250% 伤害。",
+            "* 目标与附近敌人获得 -35% 精准度，持续 2 回合。进攻型特殊技能也有相同几率落空。",
+            "* 若目标和附近敌人的特殊技能在 2 回合内落空，则该敌人将对一名随机盟友造成 320 点伤害。",
+            "2 倍法力充能：",
+            "* 对目标及附近敌人造成 325% 伤害。",
+            "* 目标与附近敌人获得 -40% 精准度，持续 3 回合。进攻型特殊技能也有相同几率落空。",
+            "* 若目标和附近敌人的特殊技能在 3 回合内落空，则该敌人将对一名随机盟友造成 390 点伤害。",
+            "3 倍法力充能：",
+            "* 对目标及附近敌人造成 400% 伤害。",
+            "* 目标与附近敌人获得 -54% 精准度，持续 4 回合。进攻型特殊技能也有相同几率落空。",
+            "* 若目标和附近敌人的特殊技能在 4 回合内落空，则该敌人将对一名随机盟友造成 470 点伤害。"
         ]
     },
     {
         "originalIndex": 112,
-        "name": "本努 (Bennu) C1",
+        "name": "巴洛尔 (Balur)",
         "effects": [
-            "The caster and nearby allies counterattack with 100% of the damage received for 5 turns. The damage of the counterattack increases by +10% with each counterattack, maxing out at 160%.",
-            "The caster and nearby allies reduce all received damage by -30% for 5 turns."
+            "对目标造成 530% 伤害。",
+            "目标在 3 回合内受到共计 519 点流血伤害。",
+            "元素链使全体冰雪系盟友对新恶魔免疫，持续 4 回合。此效果无法驱散。"
         ]
     },
     {
         "originalIndex": 113,
-        "name": "巴尔泰尔 (Bhaltair)",
+        "name": "本努 (Bennu)",
         "effects": [
-            "Deals 350% damage to all enemies.",
-            "Heals all allies for 30% of the damage dealt.",
-            "All enemies receive Minion Wound for 5 turns.",
-            "Minion Wound: Target’s minions health is reduced by 50% and mega minions health is reduced by 25% each turn. (Reduction is applied to owned minions and to any received minions while the effect is active. Reduction only affects minions’ current health.)",
-            "All allies get +40% mana generation for 5 turns. (Affects only mana generated from matching tiles or mana gained by the defense team at the end of their turn.)"
+            "施法者和附近盟友会以承受伤害的 100% 进行反击，持续 5 回合。每进行一次反击，反击伤害 +5%，最高为 130%。",
+            "施法者和附近盟友所受的所有伤害减少 -50%，持续 5 回合。"
         ]
     },
     {
         "originalIndex": 114,
-        "name": "波波 (Bobo)",
+        "name": "本努 (Bennu) C1",
         "effects": [
-            "Deals 320% damage to all enemies.",
-            "The enemy with the highest base defense gets -60% defense for 4 turns. This effect can't be cleansed.",
-            "The enemy with the highest base attack gets -60% attack for 4 turns. This effect can't be cleansed."
+            "施法者和附近盟友会以承受伤害的 100% 进行反击，持续 5 回合。每进行一次反击，反击伤害 +10%，最高为 160%。",
+            "施法者和附近盟友所受的所有伤害减少 -30%，持续 5 回合。"
         ]
     },
     {
         "originalIndex": 115,
-        "name": "泡泡 (Bubbles)",
+        "name": "巴尔泰尔 (Bhaltair)",
         "effects": [
-            "Deals 480% damage to the target.",
-            "The target gets -44% defense for 4 turns.",
-            "The target automatically casts Shifting Mindless Attack on a random ally when mana is full at the start of the turn during 4 turns. When this effect is triggered, it shifts to the hit ally, and the duration is refreshed."
+            "对所有敌人造成 350% 伤害。",
+            "为所有盟友恢复等同于所造成伤害 30% 的生命值。",
+            "所有敌人受到小兵创伤，持续 5 回合。",
+            "小兵创伤：目标的小兵生命每回合减少 50%，超级小兵生命每回合减少 25%。（此效果对其拥有的小兵和任何获得的任何小兵皆有效。减损效果只影响小兵当前生命值）",
+            "所有盟友获得 +40% 法力生成，持续 5 回合。（只影响通过消除方块或由防御队伍在其回合结束时获得的法力）"
         ]
     },
     {
         "originalIndex": 116,
-        "name": "伯顿 (Burton)",
+        "name": "波波 (Bobo)",
         "effects": [
-            "Deals 400% damage to the target and nearby enemies and inflicts 25 Insanity on them.",
-            "The caster activates Stoneskin that drops all damage dealt to the caster to 1 but is removed after 5 hits. This affects can’t be dispelled.",
-            "Inflicts 50 Insanity to the caster."
+            "对所有敌人造成 320% 伤害。",
+            "基础防御最高的敌人获得 -60% 防御，持续 4 回合。此效果无法净化。",
+            "基础攻击力最高的敌人获得 -60% 攻击力，持续 4 回合。此效果无法净化。"
         ]
     },
     {
         "originalIndex": 117,
-        "name": "卡伦 (Caelen)",
+        "name": "泡泡 (Bubbles)",
         "effects": [
-            "Summons a Shield Guard Mega Minion with 65% HP and 180% attack inherited from the caster.",
-            "The Shield Guard Mega Minion cleanses the latest cleansable status ailment from all allies each turn. This does not trigger secondary effects.",
-            "All enemies fall asleep.",
-            "While asleep, the target can’t attack or gain mana.",
-            "All damage dealt to the sleeping target is increased by +70%.",
-            "The sleeping target is woken once it take damage. This excludes damage from Minions and Fiends."
+            "对目标造成 480% 伤害。",
+            "目标获得 -44% 防御，持续 4 回合。",
+            "在 4 回合内，若目标在回合开始时法力满格，该目标将自动对一名随机盟友施放莽夫乱拳交错。触发此效果时，该效果将转移到被击中的盟友身上并刷新持续时间。"
         ]
     },
     {
         "originalIndex": 118,
-        "name": "卡蜜拉 (Camilla)",
+        "name": "伯顿 (Burton)",
         "effects": [
-            "Special Skill has a different effect when charged with 100%/200% mana:",
-            "1x Mana Charge:",
-            " * Boosts health of all allies by 400. Boosted health can exceed max HP.",
-            " * All allies get +40% defense against Special Skill for 3 turns.",
-            "2x Mana Charge:",
-            " * Reduce max health of all enemies by 800. Max health can`t get lower than 30% of the original max health. Any boosted health is reduced by an additional 800.",
-            " * All enemies get -54% defense against Special Skill for 5 turns."
+            "对目标和附近敌人造成 400% 伤害，并对其施加 25 点狂乱。",
+            "施法者激活石质皮肤后可以将其受到的所有伤害降为 1 点，但被命中 5 次后该效果将会消失。此效果无法驱散。",
+            "对施法者施加 50 点狂乱。"
         ]
     },
     {
         "originalIndex": 119,
-        "name": "曹操 (Cao Cao)",
+        "name": "卡伦 (Caelen)",
         "effects": [
-            "Deals 330% damage to all enemies.",
-            "Summons a Wei Soldier Minion for each ally with 20% HP and 25% attack inherited from the caster.",
-            "Each hit from a Wei Soldier Minion dispels all dispellable buffs from the target.",
-            "All allies get +30% defense for 4 turns."
+            "召唤一个持盾守卫超级小兵，其可从施法者处继承 65% 生命值和 180% 攻击力。",
+            "每回合持盾守卫超级小兵会净化所有盟友最后获得的可净化状态异常。这不会触发次生效果。",
+            "所有敌人陷入沉睡。",
+            "沉睡期间，目标无法攻击或获得法力。",
+            "对沉睡目标造成的所有伤害增加 +70%。",
+            "沉睡目标受到伤害后便会苏醒。这不包括来自小兵和恶魔的伤害。"
         ]
     },
     {
         "originalIndex": 120,
-        "name": "曹操 (Cao Cao) C1",
+        "name": "卡蜜拉 (Camilla)",
         "effects": [
-            "Deals 320% damage to all enemies.",
-            "Summons a Wei Soldier Minion for each ally with 42% HP and 42% attack inherited from the caster.",
-            "Each hit from a Wei Soldier Minion dispels all dispellable buffs from the target.",
-            "All allies get +40% defense for 5 turns."
+            "当特殊技能充能至 100% / 200% 法力时将拥有不同的效果：",
+            "1 倍法力充能：",
+            "* 提高所有盟友 400 点生命值。提高的生命值可以超过最大生命值。",
+            "* 所有盟友获得 +40% 特殊技能防御，持续 3 回合。",
+            "2 倍法力充能：",
+            "* 使所有敌人减少 800 点最大生命值。最大生命值不能低于初始最大生命值的 30%。任何提高的生命值会额外减少 800 点。",
+            "* 所有敌人获得 -54% 特殊技能防御，持续 5 回合。"
         ]
     },
     {
         "originalIndex": 121,
-        "name": "卡塔尔 (Cathal)",
+        "name": "曹操 (Cao Cao)",
         "effects": [
-            "Deals 570% damage to the target.",
-            "The attack has a 60% chance to bypass defensive buffs. This includes counterattacks.",
-            "Stack +2 (Max: 10): The caster gets +12% mana generation",
-            "Stack (Max: 10): The caster recovers 15 HP each turn."
+            "对所有敌人造成 330% 伤害。",
+            "为每位盟友召唤一个魏军小兵，其可从施法者处继承 20% 生命和 25% 攻击力。",
+            "魏军小兵每次击中目标都会驱散目标身上所有可驱散的增益。",
+            "所有盟友获得 +30% 防御，持续 4 回合。"
         ]
     },
     {
         "originalIndex": 122,
-        "name": "谢尔 (Cel)",
+        "name": "曹操 (Cao Cao) C1",
         "effects": [
-            "Summon a Rock Golem Minion for each ally with 40% HP and 50% attack inherited from the caster.",
-            "The Rock Golem Minion gives its owner Golem’s Stoneskin when summoned, and again every 3 turns. This effect can’t be dispelled.",
-            "Golem’s Stoneskin drops all damage dealt to the owner to 1, but is removed after 1 hit."
+            "对所有敌人造成 320% 伤害。",
+            "为每位盟友召唤一个魏军小兵，其可从施法者处继承 42% 生命和 42% 攻击力。",
+            "魏军小兵每次击中目标都会驱散目标身上所有可驱散的增益。",
+            "所有盟友获得 +40% 防御，持续 5 回合。"
         ]
     },
     {
         "originalIndex": 123,
-        "name": "塞里门妮 (Celimene)",
+        "name": "卡塔尔 (Cathal)",
         "effects": [
-            "Deals 400% damage to the target and nearby enemies.",
-            "The target and nearby enemies can’t get their status ailments cleansed from Special Skills for 3 turns.",
-            "The target and nearby enemies get -44% defense for 3 turns."
+            "对目标造成 570% 伤害。",
+            "攻击有 60% 的几率无视防御增益（包括反击）。",
+            "叠加 +2 （最多 10 层）：施法者获得 +12% 法力生成。",
+            "叠加（最多 10 层）：施法者每回合恢复 15 点生命值。"
         ]
     },
     {
         "originalIndex": 124,
-        "name": "刻托 (Ceto)",
+        "name": "谢尔 (Cel)",
         "effects": [
-            "Special Skill need consecutive uses to reach full power, the following order:",
-            "1st:",
-            " * Deals 350% damage to the target and minor damage to all other enemies.",
-            " * If hit enemies use their Special Skill in the next 4 turns, they get -34% attack, -34% defense and -24% mana generation for 4 turns. Status effects are added at the end of a Special Skill. Status effects will not be added if this status effect is removed during a Special Skill.",
-            "2nd:",
-            " * Deals 470% damage to the target and minor damage to all other enemies.",
-            " * If hit enemies use their Special Skill in the next 4 turns, they get -34% attack, -34% defense and -24% mana generation for 4 turns. Status effects are added at the end of a Special Skill. Status effects will not be added if this status effect is removed during a Special Skill.",
-            " * All enemies receive 436 Water damage over 4 turns. The caster absorbs 50% of the dealt Water damage as health."
+            "为每位盟友召唤一个石魔像小兵，其可从施法者处继承 40% 生命和 50% 攻击力。",
+            "石魔像小兵在被召唤时赋予其主人石魔像的石质皮肤，之后每 3 回合再次赋予。此效果无法驱散。",
+            "石魔像的石质皮肤可将其主人受到的所有伤害降为 1 点，但被命中 1 次后该效果将会消失。"
         ]
     },
     {
         "originalIndex": 125,
-        "name": "刻托 (Ceto) C1",
+        "name": "塞里门妮 (Celimene)",
         "effects": [
-            "Special Skill need consecutive uses to reach full power, the following order:",
-            "1st:",
-            " * Deals 340% damage to the target and minor damage to all other enemies.",
-            " * If hit enemies use their Special Skill in the next 4 turns, they get -24% attack, -24% defense and -14% mana generation for 4 turns. Status effects are added at the end of a Special Skill. Status effects will not be added if this status effect is removed during a Special Skill.",
-            "2nd:",
-            " * Deals 500% damage to the target and minor damage to all other enemies.",
-            " * If hit enemies use their Special Skill in the next 5 turns, they get -39% attack, -44% defense and -24% mana generation for 5 turns. Status effects are added at the end of a Special Skill. Status effects will not be added if this status effect is removed during a Special Skill.",
-            " * All enemies receive 735 Water damage over 5 turns. The caster absorbs 50% of the dealt Water damage as health."
+            "对目标及附近敌人造成 400% 伤害。",
+            "目标和附近敌人无法用特殊技能净化其状态异常，持续 3 回合。",
+            "目标与附近敌人获得 -44% 防御，持续 3 回合。"
         ]
     },
     {
         "originalIndex": 126,
-        "name": "嫦娥 (Chang'e)",
+        "name": "刻托 (Ceto)",
         "effects": [
-            "Deals 310% damage to all enemies.",
-            "All enemies cannot cast any new status effects on enemies or allies for 4 turns. This includes stacks. This only includes status effects cast with Special Skills.",
-            "All allies get +45% defense against Special Skills for 4 turns."
+            "必须连续使用特殊技能才能达到其最大威力，顺序为：",
+            "第一次：",
+            "* 对目标造成 350% 伤害，并对其余敌人造成轻微伤害。",
+            "* 若命中的敌人在接下来的 4 回合内使用特殊技能，该敌人将获得 -34% 攻击力、 -34% 防御以及 -24% 法力生成，持续 4 回合。状态效果将在特殊技能结束后施加。若此状态效果在特殊技能施放期间被移除，则不会施加状态效果。",
+            "第二次：",
+            "* 对目标造成 470% 伤害，并对其余敌人造成轻微伤害。",
+            "* 若命中的敌人在接下来的 4 回合内使用特殊技能，该敌人将获得 -34% 攻击力、 -34% 防御以及 -24% 法力生成，持续 4 回合。状态效果将在特殊技能结束后施加。若此状态效果在特殊技能施放期间被移除，则不会施加状态效果。",
+            "* 所有敌人在 4 回合内受到共计 436 点水系伤害。施法者会吸收所造成水系伤害的 50% 并转化为生命值。"
         ]
     },
     {
         "originalIndex": 127,
-        "name": "切斯特 (Chester)",
+        "name": "刻托 (Ceto) C1",
         "effects": [
-            "Deals 440% damage to the target and nearby enemies.",
-            "The target and nearby enemies receive 730 Curse damage over 5 turns, starting low and increasing every turn.",
-            "The target and nearby enemies get silenced for 5 turns."
+            "必须连续使用特殊技能才能达到其最大威力，顺序为：",
+            "第一次：",
+            "* 对目标造成 340% 伤害，并对其余敌人造成轻微伤害。",
+            "* 若命中的敌人在接下来的 4 回合内使用特殊技能，该敌人将获得 -24% 攻击力、 -24% 防御以及 -14% 法力生成，持续 4 回合。状态效果将在特殊技能结束后施加。若此状态效果在特殊技能施放期间被移除，则不会施加状态效果。",
+            "第二次：",
+            "* 对目标造成 500% 伤害，并对其余敌人造成轻微伤害。",
+            "* 若命中的敌人在接下来的 5 回合内使用特殊技能，该敌人将获得 -39% 攻击力、 -44% 防御以及 -24% 法力生成，持续 5 回合。状态效果将在特殊技能结束后施加。若此状态效果在特殊技能施放期间被移除，则不会施加状态效果。",
+            "* 所有敌人在 5 回合内受到共计 735 点水系伤害。施法者会吸收所造成水系伤害的 50% 并转化为生命值。"
         ]
     },
     {
         "originalIndex": 128,
-        "name": "切米斯特 (Chimister)",
+        "name": "嫦娥 (Chang'e)",
         "effects": [
-            "If any enemy has the Toxin status ailment:",
-            " * All enemies receive 985 Toxin damage over 5 turns. Damage is increased against targets with boosted health, Minions or a Mega Minion. (The Toxin damage is increased by +100% against targets with boosted health. The Toxin damage is increased by +33% per Minion or Mega Minion owned by target. Maximum increased damage is +199%.)",
-            " * Dispels buffs from all enemies.",
-            " * All allies regenerate 1300 bosted health over 5 turns. Boosted health can exceed max HP.",
-            "Otherwise:",
-            " * All enemies receive 790 Toxin damage over 5 turns. Damage is increased against targets with boosted health, Minions or a Mega Minion. (The Toxin damage is increased by +100% against targets with boosted health. The Toxin damage is increased by +33% per Minion or Mega Minion owned by target. Maximum increased damage is +199%.)",
-            " * Dispels buffs from all enemies."
+            "对所有敌人造成 310% 伤害。",
+            "所有敌人无法对敌人或盟友施放任何新的状态效果，持续 4 回合。包括叠加。此效果只对通过特殊技能施放的状态效果有效。",
+            "所有盟友获得 +45% 特殊技能防御，持续 4 回合。"
         ]
     },
     {
         "originalIndex": 129,
-        "name": "齐特拉伽达 (Chitrangada)",
+        "name": "切斯特 (Chester)",
         "effects": [
-            "Recover 20% health for all allies.",
-            "Growth Boon: Recovers 2x extra for each point of modified defense. (Up to a maximum 800 additional  healing. Status effects affecting healing received do affect the healing scaling.)",
-            "Each defeated ally has a 35% chance to get revived with 35% HP.",
-            "Cleanses 1 status ailment from all allies. (Status ailments are cleansed in the order they have been received. The latest status ailments are cleansed first.)"
+            "对目标及附近敌人造成 440% 伤害。",
+            "目标与附近敌人在 5 回合内受到共计 730 点诅咒伤害，一开始伤害较低，之后每个回合会逐渐增加。",
+            "目标与附近敌人陷入沉默，持续 5 回合。"
         ]
     },
     {
         "originalIndex": 130,
-        "name": "席亚拉 (Ciara)",
+        "name": "切米斯特 (Chimister)",
         "effects": [
-            "Deals 200% damage to all enemies.",
-            "Summons a Spear Guard Mega Minion with 35% HP and 300% attack inherited from the caster.",
-            "Each hit from the Spear Guard Mega Minion dispels all dispellable buffs from the target."
+            "若任一敌人身中剧毒状态异常：",
+            "* 所有敌人在 5 回合内受到 985 点剧毒伤害。若目标拥有生命加成、小兵或巨大体型小兵，则伤害增加。（若目标拥有生命加成，则剧毒伤害增加 +100%。目标拥有的每个小兵或巨大体型小兵会使剧毒伤害增加 +33%。伤害增幅最大为 +199%。）",
+            "* 驱散所有敌人的增益。",
+            "* 所有盟友在 5 回合内获得 1300 点生命加成。提高的生命值可以超过最大生命值。",
+            "否则：",
+            "* 所有敌人在 5 回合内受到 790 点剧毒伤害。若目标拥有生命加成、小兵或巨大体型小兵，则伤害增加。（若目标拥有生命加成，则剧毒伤害增加 +100%。目标拥有的每个小兵或巨大体型小兵会使剧毒伤害增加 +33%。伤害增幅最大为 +199%。）",
+            "* 驱散所有敌人的增益。"
         ]
     },
     {
         "originalIndex": 131,
-        "name": "肉桂 (Cinnamon)",
+        "name": "齐特拉伽达 (Chitrangada)",
         "effects": [
-            "Deals 250% damage to all enemies.",
-            "All enemies receive 524 Frost damage over 4 turns.",
-            "All enemies get -54% defense against Ice for 4 turns."
+            "为所有盟友恢复 20% 生命值。",
+            "成长恩赐：根据每点调整后的防御，恢复 2 倍额外生命值。（最多额外治疗 800 点,影响所受治疗的状态效果会影响此治疗的加成）",
+            "每名被击败的盟友有 35% 的几率以 35% 的生命值复活。",
+            "净化所有盟友的 1 个状态异常。（状态异常会按照获得的先后顺序被净化。最后获得的状态异常最先被净化）"
         ]
     },
     {
         "originalIndex": 132,
-        "name": "克拉格 (Claeg)",
+        "name": "席亚拉 (Ciara)",
         "effects": [
-            "Recovers 20% health for all allies. Recovers extra 5% for each status ailment the ally has, up to 35% health in total.",
-            "Cleanses 3 status ailments from all allies. (Status ailments are cleansed in the order they have been received. The latest status ailments are cleansed first.)",
-            "Elemental Link gives all Ice allies +30% defense against Special Skills for 4 turns. This effect can’t be dispelled."
+            "对所有敌人造成 200% 伤害。",
+            "召唤一个长枪守卫超级小兵，其可从施法者处继承 35% 生命值和 300% 攻击力。",
+            "长枪守卫超级小兵每次击中目标都会驱散目标身上所有可驱散的增益。"
         ]
     },
     {
         "originalIndex": 133,
-        "name": "钴蓝 (Cobalt)",
+        "name": "肉桂 (Cinnamon)",
         "effects": [
-            "1x Mana Charge",
-            "* Deals 320% damage to the target",
-            "* The attack has a 60% chance to bypass defensive buffs. This includes counterattacks.",
-            "2x Mana Charge",
-            "* Deals 355% damage to the target and nearby enemies",
-            "* The attack has a 85% chance to bypass defensive buffs. This includes counterattacks.",
-            "3x Mana Charge",
-            "* Deals 390% damage to all enemies",
-            "* The attack has a 100% chance to bypass defensive buffs. This includes counterattacks."
+            "对所有敌人造成 250% 伤害。",
+            "所有敌人在 4 回合内受到共计 524 点冰冻伤害。",
+            "所有敌人获得对冰雪系 -54% 的防御，持续 4 回合。"
         ]
     },
     {
         "originalIndex": 134,
-        "name": "宇宙讲者 (Cosmicspeaker)",
+        "name": "克拉格 (Claeg)",
         "effects": [
-            "This Special Skill never misses its targets.",
-            "Deals 350% damage to all enemies.",
-            "Dispels buffs from all enemies at the end of each turn for 4 turns.",
-            "Cleanses status ailments from all allies at the end of each turn for 4 turns."
+            "为所有盟友恢复 20% 生命值。盟友每拥有一个状态异常，则额外恢复 5% 生命值，至多恢复总计 35% 生命值。",
+            "净化所有盟友身上的 3 个状态异常。（状态异常会按照获得的先后顺序被净化。最后获得的状态异常最先被净化）",
+            "元素链为全体冰雪系盟友提供针对特殊技能的 +30% 防御，持续 4 回合。此效果无法驱散。"
         ]
     },
     {
         "originalIndex": 135,
-        "name": "克里斯托里斯 (Crystalis)",
+        "name": "钴蓝 (Cobalt)",
         "effects": [
-            "Deals 190% damage to all enemies.",
-            "Reduces the duration of all enemies’ active buffs by 1 turn.",
-            "All enemies receive Corrosive Frost for 4 turns. The Corrosive Frost deals 70 Frosth damage and lowers the target’s attack by -11% each turn. Deals extra damage against heroes with Minions or a Mega Minion."
+            "1 倍法力充能：",
+            "* 对目标造成 320% 伤害。",
+            "* 攻击有 60% 的几率无视防御增益（包括反击）。",
+            "2 倍法力充能：",
+            "* 对目标及附近敌人造成 355% 伤害。",
+            "* 攻击有 85% 的几率无视防御增益（包括反击）。",
+            "3 倍法力充能：",
+            "* 对所有敌人造成 390% 伤害。",
+            "* 攻击有 100% 的几率无视防御增益（包括反击）。"
         ]
     },
     {
         "originalIndex": 136,
-        "name": "戴维·韦威 (Davey Wavey)",
+        "name": "宇宙讲者 (Cosmicspeaker)",
         "effects": [
-            "All allies regenerate 500 boosted health over 4 turns. Boosted health can exceed max HP. The effect duration resets if the status effect owner is hit with direct damage from a Special Skill.",
-            "All allies get +30% defense for 4 turns.",
-            "All allies get +20% mana generation for 4 turns. (Affects only mana generated from matching tiles or mana gained by the defense team at the end of their turn."
+            "此特殊技能必定命中。",
+            "对所有敌人造成 350% 伤害。",
+            "每回合结束时驱散所有敌人身上的增益效果，持续 4 回合。",
+            "在回合结束时净化所有队友的状态异常，持续 4 回合。"
         ]
     },
     {
         "originalIndex": 137,
-        "name": "埃斯米 (Esme)",
+        "name": "克里斯托里斯 (Crystalis)",
         "effects": [
-            "Destroys all Fiends from all allies.",
-            "Boosts health of all allies by 650. Boosted health can exceed max HP.",
-            "If an ally had fiends they will be immune to new Fiends for 4 turns."
+            "对所有敌人造成 190% 伤害。",
+            "所有敌人身上的增益持续时间减少 1 回合。",
+            "所有敌人受到腐蚀性冻伤，持续 4 回合。腐蚀性冻伤每回合造成 70 点冰冻伤害，并使目标的攻击力降低 -11%。对拥有小兵或超级小兵的英雄造成额外伤害。"
         ]
     },
     {
         "originalIndex": 138,
-        "name": "艾克塞拉 (Exeera)",
+        "name": "戴维·韦威 (Davey Wavey)",
         "effects": [
-            "All enemies receive 237 Water damage, and an increase of 33 damage per each Ice shield on the board over 3 turns, up to 633 damage. This effect is uncleansable for all Fire enemies.",
-            "All Ice enemies are immune to this attack"
+            "所有盟友在 4 回合内获得共计 500 点生命加成。提高的生命值可以超过最大生命值。若身上带有该状态效果时受到特殊技能的直接伤害，则该效果持续时间会重置。",
+            "所有盟友获得 +30% 防御，持续 4 回合。",
+            "所有盟友获得 +20% 法力生成，持续 4 回合（只影响通过消除方块或由防御队伍在其回合结束时获得的法力）。"
         ]
     },
     {
         "originalIndex": 139,
-        "name": "艾克塞拉 (Exeera) C1",
+        "name": "埃斯米 (Esme)",
         "effects": [
-            "All enemies receive 258 Water damage, and an increase of 54 damage per each Ice shield on the board over 3 turns, up to 906 damage. This effect is uncleansable for all Fire enemies.",
-            "All Ice enemies are immune to this attack."
+            "摧毁所有盟友的恶魔。",
+            "提高所有盟友 650 点生命值。提高的生命值可以超过最大生命值。",
+            "原本被恶魔附身的盟友将免疫新的恶魔，持续 4 回合。"
         ]
     },
     {
         "originalIndex": 140,
-        "name": "经验拟态兽 (Experience Mimic) Ice",
+        "name": "艾克塞拉 (Exeera)",
         "effects": [
-            "Destroys all Minions from the target. This effect damages Mega Minions.",
-            "Deals 530% damage to the target.",
-            "If the target is defeated by the attack, the caster recovers +50% health and gains 33% mana.",
-            "The Mimic chest closes for 2 turns. (The Mimic is immune to damage and new status ailments while closed.)"
+            "所有敌人在 3 回合内受到共计 237 点水系伤害，而面板上每存在一个冰雪系盾牌则额外增加 33 点伤害，最高共计 633 点伤害。所有烈火系敌人无法净化此效果。",
+            "所有冰雪系敌人对此攻击免疫。"
         ]
     },
     {
         "originalIndex": 141,
-        "name": "芬里厄 (Fenrir)",
+        "name": "艾克塞拉 (Exeera) C1",
         "effects": [
-            "Deals 320% damage to the target.",
-            "Deals 640% damage if the target has less than 50% health remaining.",
-            "The caster gains a moderate amount of mana for each enemy killed and a small amount of mana for each enemy minion killed.",
-            "Heals the caster for 50% of damage dealt."
+            "所有敌人在 3 回合内受到共计 258 点水系伤害，而面板上每存在一个冰雪系盾牌则额外增加 54 点伤害，最高共计 906 点伤害。所有烈火系敌人无法净化此效果。",
+            "所有冰雪系敌人对此攻击免疫。"
         ]
     },
     {
         "originalIndex": 142,
-        "name": "芬里厄 (Fenrir) C1",
+        "name": "经验拟态兽 (Experience Mimic) Ice",
         "effects": [
-            "Deals 350% damage to the target.",
-            "Deals 700% damage if the target has less than 50% health remaining.",
-            "The caster recovers 35% health for each enemy killed and 15% health for each enemy Minion killed.",
-            "Increases the mana of the caster by 15%."
+            "摧毁目标的全部小兵。此效果会对超级小兵造成伤害。",
+            "对目标造成 530% 伤害。",
+            "若本次攻击将敌人击败，那么施法者将恢复 +50% 生命并获得 33% 法力。",
+            "拟态兽宝箱关闭 2 回合。（拟态兽宝箱关闭时免疫伤害和新的状态异常）"
         ]
     },
     {
         "originalIndex": 143,
-        "name": "费格斯 (Fergus)",
+        "name": "芬里厄 (Fenrir)",
         "effects": [
-            "Reduces the mana of the enemy with the most mana by 70%. Reduces the mana of all other enemies by 40%.",
-            "All enemies get -30% mana generation for 6 turns. (Affects only mana generated from matching tiles or mana gained by the defense team at the end of their turn.)",
-            "Summnos a Sword Guard Mega Minion with 35% HP and 300% attack inherited from the caster.",
-            "The target hit by the Sword Guard Mega Minion recieves 414 Bleed damage over 3 turns. This effect spreads to nearby enemies."
+            "对目标造成 320% 伤害。",
+            "如果目标剩余生命少于 50%，可对其造成 640% 伤害。",
+            "施法者每击败一个敌人即可获得适量法力，每摧毁一个小兵即可获得少量法力。",
+            "为施法者恢复等同于所造成伤害 50% 的生命值。"
         ]
     },
     {
         "originalIndex": 144,
-        "name": "芬利 (Finley)",
+        "name": "芬里厄 (Fenrir) C1",
         "effects": [
-            "Deals 385% damage to the target",
-            "If the target has buffs, targets another enemy with buffs. If none of the other enemies have buffs, targets a random enemy. The damage is reduced on each consecutive hit. Each enemy can only be hit once",
-            "All hit targets get -34% defense for 3 turns"
+            "对目标造成 350% 伤害。",
+            "如果目标剩余生命少于 50%，可对其造成 700% 伤害。",
+            "施法者每击败一个敌人即可恢复 35% 生命，每摧毁一个敌方小兵即可恢复 15% 生命值。",
+            "使施法者的法力增加 15%。"
         ]
     },
     {
         "originalIndex": 145,
-        "name": "芬利 (Finley) C1",
+        "name": "费格斯 (Fergus)",
         "effects": [
-            "Deals 420% damage to the target.",
-            "If the target has buffs, targets another enemy with buffs. If none of the other enemies have buffs, targets a random enemy. The damage is reduced on each consecutive hit. Each enemy can only be hit once.",
-            "All hit targets get -56% defense for 3 turns."
+            "令法力最多的敌人降低 70% 法力。令其他所有敌人降低 40% 法力。",
+            "所有敌人获得 -30% 法力生成，持续 6 回合。（只影响通过消除方块或由防御队伍在其回合结束时获得的法力）",
+            "召唤一个持剑守卫超级小兵，其可从施法者处继承 35% 生命值和 300% 攻击力。",
+            "被持剑守卫超级小兵击中的目标会在 3 回合内受到共计 414 点流血伤害。此效果会蔓延至附近敌人。"
         ]
     },
     {
         "originalIndex": 146,
-        "name": "费尔明·理查德 (Firmin Richard)",
+        "name": "芬利 (Finley)",
         "effects": [
-            "Deals 175% damage to the all enemies.",
-            "Stack (Max: 10): All allies get +20% attack.",
-            "Stack (Max: 10): All alies get +20% defense."
+            "对目标造成 385% 伤害。",
+            "如果目标有增益效果，则瞄准另一个有增益效果的敌人。如果其他敌人均没有增益效果，则随机瞄准一个敌人。每下攻击的伤害都会递减。每个敌人只能被击中一次。",
+            "所有命中的目标获得 -34% 防御，持续 3 回合。"
         ]
     },
     {
         "originalIndex": 147,
-        "name": "丝弦 (Fizzcoil)",
+        "name": "芬利 (Finley) C1",
         "effects": [
-            "Deals 240% damage to all enemies.",
-            "Wither: All enemies get -200 attack and -200 defense.",
-            "All enemies get -30% mana generation for 3 turns. If the effect is removed before the duration ends, the mana of the target with the effect is reduced by -5% mana."
+            "对目标造成 420% 伤害。",
+            "如果目标有增益效果，则瞄准另一个有增益效果的敌人。如果其他敌人均没有增益效果，则随机瞄准一个敌人。每下攻击的伤害都会递减。每个敌人只能被击中一次。",
+            "所有命中的目标获得 -56% 防御，持续 3 回合。"
         ]
     },
     {
         "originalIndex": 148,
-        "name": "福尔图娜 (Fortuna)",
+        "name": "费尔明·理查德 (Firmin Richard)",
         "effects": [
-            "Dispels buffs from all enemies.",
-            "Deals 150% damage to all enemies.",
-            "Summons a Corrupted Mask Fiend to all enemies. The Fiend damages the enemies with 55% attack every turn.",
-            "The Corrupted Mask Fiend absorbs healing. It disappears after absorbing a healing amount equal to 22% of its target’s max health.",
-            "When summoned, the Corrupted Mask Fiend gives -36% attack for its owner for as long as the owner has Corrupted Mask Fiends. This effect can’t be cleansed."
+            "对所有敌人造成 175% 伤害。",
+            "叠加（最多 10 层）：所有盟友获得 +20% 攻击力。",
+            "叠加（最多 10 层）：所有盟友获得 +20% 防御。"
         ]
     },
     {
         "originalIndex": 149,
-        "name": "弗里达 (Frida)",
+        "name": "丝弦 (Fizzcoil)",
         "effects": [
-            "Deals 350% damage to the target and nearby enemies.",
-            "The target and nearby enemies get -54% defense against Ice for 4 turns.",
-            "Dispels buffs from the target and nearby enemies.",
-            "Element Link gives all Ice allies +46% defense against Nature for 4 turns. This effect can't be cleansed."
+            "对所有敌人造成 240% 伤害。",
+            "衰退：所有敌人获得 -200 点攻击力和 -200 点防御。",
+            "所有敌人获得 -30% 法力生成，持续 3 回合。若该效果在持续时间结束前被移除，其拥有者将减少 -5% 法力。"
         ]
     },
     {
         "originalIndex": 150,
-        "name": "弗洛斯 (Frosth)",
+        "name": "福尔图娜 (Fortuna)",
         "effects": [
-            "Summons a Frost Sprite Minion for each ally with 18% HP and 20% attack inherited from the caster.",
-            "All allies' Minions get +40% HP and +40% attack. This special can increase HP and attack up to +200% of the Minion's original HP and attack.",
-            "Element Link gives all Ice allies small amounts of mana at the end of the turn for 4 turns. This effect can't be dispelled."
+            "驱散所有敌人的增益。",
+            "对所有敌人造成 150% 伤害。",
+            "召唤腐化面具恶魔附身于所有敌人。恶魔每回合对敌人造成 55% 攻击力的伤害。",
+            "腐化面具恶魔会吸收治疗。它在吸收了相当于其目标最大生命值 22% 的治疗量后便会消失。",
+            "腐化面具恶魔被召唤后，只要其所有者拥有腐化面具恶魔，其所有者就会获得 -36% 攻击力。此效果无法净化。"
         ]
     },
     {
         "originalIndex": 151,
-        "name": "冰嗅 (Frostsnout)",
+        "name": "弗里达 (Frida)",
         "effects": [
-            "Deals 380% damage to the target and nearby enemies.",
-            "Reduces the duration for the caster and nearby alllies’ active status ailments by 2 turns. (The duration reductionaffects both cleansable and uncleansable effects. If the durarion of any effect is reduced to zero, the effect is considered as having expired naturally.",
-            "The caster and nearby allies get +40% critical chance for 3 turns."
+            "对目标及附近敌人造成 350% 伤害。",
+            "目标与附近敌人获得对冰雪系 -54% 的防御，持续 4 回合。",
+            "驱散目标和附近敌人身上的增益。",
+            "元素链为冰雪系盟友提供针对自然系 +46% 的防御，持续 4 回合。此效果无法净化。"
         ]
     },
     {
         "originalIndex": 152,
-        "name": "盖拉德 (Gaillard)",
+        "name": "弗洛斯 (Frosth)",
         "effects": [
-            "Deals 540% damage to the target.",
-            "All allies are immune to incoming negative effects and damage from Fiends for 4 turns.",
-            "All allies are immune to new Fiends for 4 turns."
+            "为每位盟友召唤一个冰霜妖精，其可从施法者处继承 18% 生命和 20% 攻击力。",
+            "所有盟友的小兵获得 +40% 生命值和 +40% 攻击力。此特殊技能最多可增加相当于小兵初始生命值与攻击力 +200% 的生命值与攻击力。",
+            "元素链在回合结束时为所有冰雪系盟友恢复少量法力，持续 4 回合。此效果无法驱散。"
         ]
     },
     {
         "originalIndex": 153,
-        "name": "涯拉克 (Ghealach)",
+        "name": "冰嗅 (Frostsnout)",
         "effects": [
-            "Deals 385% damage to the target and nearby enemies.",
-            "Summons a Fallen Star Fiend to the target and nearby enemies.",
-            "The Fallen Star Fiend absorbs healing. It disappears after absorbing a healing amount equal to 45% of its target max health.",
-            "The caster steals 45% of the generated mana from the target and nearby enemies. The effect lasts as long as the target has Fallen Star Fiends. This effect can’t be cleansed, but it gets removed if the caster dies."
+            "对目标及附近敌人造成 380% 伤害。",
+            "施法者和附近盟友身上的状态异常持续时间减少 2 回合（持续时间调整对可净化效果和不可净化效果皆有影响。若任何效果的持续时间降为零，则该效果视为自然过期）。",
+            "施法者和附近盟友获得 +40% 暴击几率，持续 3 回合。"
         ]
     },
     {
         "originalIndex": 154,
-        "name": "格拉迪乌斯 (Gladius)",
+        "name": "盖拉德 (Gaillard)",
         "effects": [
-            "This Special Skill never misses its targets.",
-            "Deals 550% damage to the target.",
-            "The target becomes marked for 3 turns. Whenever a marked target dodges, they gain a stack (Max: 10). Each stack increases all damage the target receives by +5%.",
-            "Element Link gives all Ice allies +10% additional Special Skill damage for 4 turns. This effect can't be dispelled."
+            "对目标造成 540% 伤害。",
+            "所有盟友免疫来自恶魔的负面效果和伤害，持续 4 回合。",
+            "所有盟友对新的恶魔免疫，持续 4 回合。"
         ]
     },
     {
         "originalIndex": 155,
-        "name": "格伦达 (Glenda)",
+        "name": "涯拉克 (Ghealach)",
         "effects": [
-            "Deals 300% damage to the target and nearby enemies.",
-            "The caster and nearby allies' Special Skills deal an additional +40% damage for 4 turns.",
-            "Cleanses status ailements from all allies.",
-            "Element Link summons an Ice Minion for all Ice allies with 6% HP and 10% attack inherited from the caster."
+            "对目标及附近敌人造成 385% 伤害。",
+            "召唤陨星恶魔附身于目标及附近敌人。",
+            "陨星恶魔会吸收治疗。它在吸收了相当于其目标最大生命值 45% 的治疗量后便会消失。",
+            "施法者偷取目标与附近敌人生成法力的 45%。只要目标拥有陨星恶魔，此效果将会持续，并且无法净化，但会在施法者被击败后移除。"
         ]
     },
     {
         "originalIndex": 156,
-        "name": "寒铁 (Grimsteel)",
+        "name": "格拉迪乌斯 (Gladius)",
         "effects": [
-            "Recovers 54% health for all allies.",
-            "Growth: All allies get 450 attack and 450 defense.",
-            "All allies get +30% mana generation for 4 turns. If the effect is removed before the durantion ends, the target with effect gets +10% mana."
+            "此特殊技能必定命中。",
+            "对目标造成 550% 伤害。",
+            "目标获得闪避标记，持续 3 回合。被标记的目标每次闪避时都将获得一层叠加（最多 10 层）。每层叠加会使目标受到的所有伤害增加 +5% 傷害。",
+            "元素链为全体冰雪系盟友提供额外 +10% 的特殊技能伤害，持续 4 回合。此效果无法驱散。"
         ]
     },
     {
         "originalIndex": 157,
-        "name": "河马守护者 (Guardian Hippo)",
+        "name": "格伦达 (Glenda)",
         "effects": [
-            "For the next 3 turns, this character deals 225% damage to all enemies each time any other ally casts their Special skill. Damage is dealt on the first Special Skill cast of each character per turn. Damage is dealt on the first Special Skill cast of each character per turn.",
-            "All allies get +34% mana generation for 3 turns."
+            "对目标及附近敌人造成 300% 伤害。",
+            "施法者和附近盟友的特殊技能造成额外 +40% 伤害，持续 4 回合。",
+            "净化所有盟友的状态异常。",
+            "元素链为所有冰雪系盟友召唤出一名冰雪小兵，其可从施法者处继承 6% 生命和 10% 攻击力。"
         ]
     },
     {
         "originalIndex": 158,
-        "name": "赫特费雷斯 (Hetepheres)",
+        "name": "寒铁 (Grimsteel)",
         "effects": [
-            "Recovers 50% health for all allies.",
-            "All allies get +84% defense agains Nature, and a further 2% increase every time they are hit during 4 turns.",
-            "All enemies get -40% accuracy for 4 turns. Chance to miss also applies to offensive Special Skill."
+            "为所有盟友恢复 54% 生命值。",
+            "成长：所有盟友获得 450 点攻击力和 450 点防御。",
+            "所有盟友获得 +30% 法力生成，持续 4 回合。若该效果在持续时间结束前被移除，其拥有者将获得 +10% 法力。"
         ]
     },
     {
         "originalIndex": 159,
-        "name": "赫特费雷斯 (Hetepheres) C1",
+        "name": "河马守护者 (Guardian Hippo)",
         "effects": [
-            "Recovers 54% health for all allies.",
-            "All allies get +64% defense against Nature, and a further 3% increase every time they are hit during 4 turns.",
-            "All enemies get -45% accuracy for 4 turns. Chance to miss also applies to offensive Special Skills."
+            "在后续 3 回合中，每当其他盟友施放特殊技能后，此角色将对所有敌人造成 225% 伤害。每个角色施放特殊技能时，每回合只造成一次伤害。",
+            "所有盟友获得 +34% 法力生成，持续 3 回合。"
         ]
     },
     {
         "originalIndex": 160,
-        "name": "希莫洛斯 (Himeros)",
+        "name": "赫特费雷斯 (Hetepheres)",
         "effects": [
-            "Dispels buffs from the target.",
-            "Deals 460% damage to the target.",
-            "The caster and nearby allies’ Special Skills deal an additional +40% damage for 3 turns."
+            "为所有盟友恢复 50% 生命值。",
+            "所有盟友获得对自然系 +84% 的防御，每次被击中后额外增加 2% 防御，持续 4 回合。",
+            "所有敌人获得 -40% 精准度，持续 4 回合。进攻型特殊技能也有相同几率落空。"
         ]
     },
     {
         "originalIndex": 161,
-        "name": "赫格内 (Hogne)",
+        "name": "赫特费雷斯 (Hetepheres) C1",
         "effects": [
-            "Attacks the target and nearby enemies with Frostfall Strike, dealing up to 2300 damage. Deals 40% more if the target is of the Fire element. This Special Skill never misses its targets.",
-            "Reduces the max health of the target and nearby enemies with 800. This effec is strong against targets with boosted health. (Max health can’t get lower than 30% of the original max health. Any boosted health is reduced by an additional 600.)",
-            "The target and nearby enemies get -70% decrease of any healing received for 4 turns."
+            "为所有盟友恢复 54% 生命值。",
+            "所有盟友获得对自然系 +64% 的防御，每次被击中后额外增加 3% 防御，持续 4 回合。",
+            "所有敌人获得 -45% 精准度，持续 4 回合。进攻型特殊技能也有相同几率落空。"
         ]
     },
     {
         "originalIndex": 162,
-        "name": "赫罗斯加 (Hrothgar)",
+        "name": "希莫洛斯 (Himeros)",
         "effects": [
-            "Deals 340% damage to all enemies.",
-            "Reduces the mana of all enemies by 20%.",
-            "All enemies get -24% mana generation for 4 turns. (Affects only mana generated from matching tiles or mana gained by the defense team at the end of their turn.)",
-            "Source of Buffs: The following effects are cast on a random ally at the start of each turn",
-            " * +70% attack for 5 turns.",
-            " * +50% defense for 5 turns.",
-            " * The Source of Buffs will activate 4 times. Each attempt to dispel it removes one activation."
+            "驱散目标身上的增益。",
+            "对目标造成 460% 伤害。",
+            "施法者和附近盟友的特殊技能造成额外 +40% 伤害，持续 3 回合。"
         ]
     },
     {
         "originalIndex": 163,
-        "name": "希丝特莉亚 (Hysteria)",
+        "name": "赫格内 (Hogne)",
         "effects": [
-            "The caster gets Taunt that prevents enemies from using Special Skills on the caster’s allies for 4 turns.",
-            "For the next 4 turns, the caster inflicts 10 Insanity to all enemies each time the caster is hit. The effect is triggered when the enemy deals damage through Special Skills. Tiles and normal attacks are limited to once per turn.",
-            "Inflicts 55 Insanity on the caster."
+            "使用霜降打击攻击目标和附近敌人，造成最多 2300 点伤害。若目标为火焰系元素则额外造成 40% 伤害。该特殊技能必定命中。",
+            "使目标和附近敌人减少 800 点最大生命值。若目标拥有加成的生命值，此效果会增强。（最大生命值不能低于初始最大生命值的 30%。任何生命加成会额外减少 600 点）",
+            "目标与附近敌人获得的治疗减少 -70%，持续 4 回合。"
         ]
     },
     {
         "originalIndex": 164,
-        "name": "艾莉丝 (Iris)",
+        "name": "赫罗斯加 (Hrothgar)",
         "effects": [
-            "Deals 405% damage to the target and minor damage to the nearby enemies.",
-            "Dispells buffs from the target and nearby enemies at the end of each turn for 3 turns.",
-            "Deals extra damage against Fire.",
-            "Element Link gives all Ice allies +10% attack for 4 turns. This effect can’t be dispelled."
+            "对所有敌人造成 340% 伤害。",
+            "使所有敌人的法力减少 20%。",
+            "所有敌人获得 -24% 法力生成，持续 4 回合。（只影响通过消除方块或由防御队伍在其回合结束时获得的法力）",
+            "增益之源：每回合开始时，对随机一名盟友施放以下效果。",
+            "* +70% 攻击力，持续 5 回合。",
+            "* +50% 防御，持续 5 回合。",
+            "* 增益之源将触发 4 次。每次驱散尝试都会移除一次触发。"
         ]
     },
     {
         "originalIndex": 165,
-        "name": "伊萨莉亚 (Isarnia)",
+        "name": "希丝特莉亚 (Hysteria)",
         "effects": [
-            "Deals 235% damage to all enemies.",
-            "All enemies get -44% defense for 6 turns."
+            "施法者获得嘲讽，可阻止敌人对其盟友使用特殊技能，持续 4 回合。",
+            "在后续 4 回合中，施法者每被击中一次便会对所有敌人施加 10 点狂乱。敌人通过特殊技能造成伤害时将触发此效果。方块和普通攻击则每回合只限触发此效果一次。",
+            "对施法者施加 55 点狂乱。"
         ]
     },
     {
         "originalIndex": 166,
-        "name": "伊萨莉亚 (Isarnia) C1",
+        "name": "艾莉丝 (Iris)",
         "effects": [
-            "Deals 255% damage to all enemies.",
-            "All enemies get -34% defense for 6 turns."
+            "对目标造成 405% 伤害，并对附近敌人造成轻微伤害。",
+            "每回合结束时驱散目标与附近敌人身上的增益效果，持续 3 回合。",
+            "对烈火系造成额外伤害。",
+            "元素链给予所有冰雪系盟友 +10% 攻击力，持续 4 回合。此效果无法驱散。"
         ]
     },
     {
         "originalIndex": 167,
-        "name": "伊萨莉亚 (Isarnia) C2",
+        "name": "伊萨莉亚 (Isarnia)",
         "effects": [
-            "Deals 270% damage to all enemies.",
-            "All enemies get -34% attack for 4 turns. Against Nature characters, this status effect becomes uncleansable and lasts 2 turns longer.",
-            "Deals extra damage against Fire."
+            "对所有敌人造成 235% 伤害。",
+            "所有敌人获得 -44% 防御，持续 6 回合。"
         ]
     },
     {
         "originalIndex": 168,
-        "name": "伊萨莉亚 (Isarnia) 卡通",
+        "name": "伊萨莉亚 (Isarnia) C1",
         "effects": [
-            "Deals 385% damage to all enemies.",
-            "All enemies get -34% defense for 6 turns.",
-            "Deals extra damage against Fire."
+            "对所有敌人造成 255% 伤害。",
+            "所有敌人获得 -34% 防御，持续 6 回合。"
         ]
     },
     {
         "originalIndex": 169,
-        "name": "伊萨莉亚 (Isarnia) 玻璃",
+        "name": "伊萨莉亚 (Isarnia) C2",
         "effects": [
-            "Deals 395% damage to all enemies.",
-            "The attack bypasses defensive buffs. (This includes counterattacks.)",
-            "All enemies get -40% defense for 6 turns."
+            "对所有敌人造成 270% 伤害。",
+            "所有敌人获得 -34% 攻击力，持续 4 回合。对自然系角色，此状态效果不可净化且持续时间延长 2 回合。",
+            "对烈火系造成额外伤害。"
         ]
     },
     {
         "originalIndex": 170,
-        "name": "艾辛 (Ixinn)",
+        "name": "伊萨莉亚 (Isarnia) 卡通",
         "effects": [
-            "Deals 530% damage to the target.",
-            "The attack chains through all the enemies who are adjacent to any hit enemy.",
-            "All hit targets receive +50% increased damage for 5 turns. The effect is increased by +10% for each Minion or Mega Minion owned by all enemies, up to +100% in total.",
-            "Wither: All enemies get -450 attack."
+            "对所有敌人造成 385% 伤害。",
+            "所有敌人获得 -34% 防御，持续 6 回合。",
+            "对烈火系造成额外伤害。"
         ]
     },
     {
         "originalIndex": 171,
-        "name": "珠尔特 (Jolt)",
+        "name": "伊萨莉亚 (Isarnia) 玻璃",
         "effects": [
-            "Deals 215% damage to the target.",
-            "The attack chains through all the enemies who are adjacent to any hit enemy.",
-            "All enemies get -34% accuracy for 3 turns. (Chance to miss also applies to offensive Special Skills)",
-            "All Ice allies get +60% attack for 3 turns."
+            "对所有敌人造成 395% 伤害。",
+            "攻击会无视防御增益。（包括反击）",
+            "所有敌人获得 -40% 防御，持续 6 回合。"
         ]
     },
     {
         "originalIndex": 172,
-        "name": "乔利恩 (Jolyon)",
+        "name": "艾辛 (Ixinn)",
         "effects": [
-            "Enhanced Dodge: All allies get +75% chance to dodge Special Skills that deal damage. This effect lasts until the ally succesfully dodges once.",
-            "After the Enhanced Dodge ends or is removed or replaced, the ally gets a Wooden Doll Minion.",
-            "The Wooden Doll Minion has 30% HP and 30% attack inherited from the caster.",
-            "When summoned the Wooden Doll Minion gives its owner immunity to new status ailments for as long as the owner has Wooden Doll Minion."
+            "对目标造成 530% 伤害。",
+            "与被击中敌人相邻的所有敌人都将受到连锁攻击。",
+            "所有被击中的目标受到的伤害增加 +50%，持续 5 回合。所有敌人每拥有一个小兵或超级小兵，则该效果提高 +10%，最多可提高 +100%。",
+            "衰退：所有敌人获得 -450 点攻击力。"
         ]
     },
     {
         "originalIndex": 173,
-        "name": "卡比洛斯 (Kabeiroi)",
+        "name": "珠尔特 (Jolt)",
         "effects": [
-            "Deals 200% damage to the target.",
-            "For 3 turns, the target is forced to cast Mindless Heal when at full mana.",
-            "Deals 200% damage to 3 other random enemies. (This effect target the same enemy as the first hit if there are no other valid targets)",
-            "For 3 turns, all hit enemies are forced to cast Mindless Heal when at full mana.",
-            "Mindless Heal: Recovers 20% health for the character on the opposing side with the lowest remaining HP."
+            "对目标造成 215% 伤害。",
+            "与被击中敌人相邻的所有敌人都将受到连锁攻击。",
+            "所有敌人获得 -34% 精准度，持续 3 回合。（进攻型特殊技能也有相同几率落空）",
+            "所有冰雪系盟友获得 +60% 攻击力，持续 3 回合。"
         ]
     },
     {
         "originalIndex": 174,
-        "name": "凯特尔 (Kettle)",
+        "name": "乔利恩 (Jolyon)",
         "effects": [
-            "Cook random foord for special effect (Activation chance for each effect):",
-            "- Exquiste Food (45%)",
-            "  * Recovers 50% health for all allies.",
-            "* Growth: All allies get 400 defense.",
-            "- Rotten Food (45%)",
-            "  * Deals 350% damage to all enemies.",
-            "  * All enemies receive 965 Poison damage over 5 turns.",
-            "- Catastrophic Kitchen Failure (10%)",
-            "  * Deals 100% damage to all allies and all enemies."
+            "强化闪避:所有盟友获得 +75% 概率闪避造成伤害的特殊技能。此效果持续至该盟友成功闪避一次为止。",
+            "当强化闪避效果结束、被移除或被替换后，该盟友将获得一个木偶傀儡召唤物。",
+            "木偶傀儡召唤物继承施法者 30% 的生命值和 30% 的攻击力。",
+            "当木偶傀儡召唤物被召唤时,只要拥有者持有该召唤物，即可获得对新状态异常的免疫效果。"
         ]
     },
     {
         "originalIndex": 175,
-        "name": "亚瑟王 (King Arthur)",
+        "name": "卡比洛斯 (Kabeiroi)",
         "effects": [
-            "Deals 468% damage to the target.",
-            "The target gets -39% attack for 4 turns.",
-            "The target gets -54% defense against Ice for 4 turns.",
-            "The caster gets +74% defense against Special Skills for 4 turns."
+            "对目标造成 200% 伤害。",
+            "目标在法力满格时会被强制施放盲目治疗，此效果持续 3 回合。",
+            "对另外 3 名随机敌人造成 200% 伤害。（如果没有其他有效目标，则此效果瞄准第一次击中的该名敌人）",
+            "被击中的所有敌人在法力满格时会被强制施放盲目治疗，此效果持续 3 回合。",
+            "盲目治疗：为剩余生命值最低的敌方角色恢复 20% 生命值。"
         ]
     },
     {
         "originalIndex": 176,
-        "name": "克拉恩 (Klaern)",
+        "name": "凯特尔 (Kettle)",
         "effects": [
-            "Deals 270% damage to all enemies.",
-            "All enemies receive 325 Water damage over 5 turns. The caster absorbs 30% of dealt Water damage as health.",
-            "Element Link gives all ice allies +10% defense for 4 turns. This effect can't be dispelled."
+            "随机烹饪出带有特殊效果的食物（各项效果的激活几率）：",
+            "- 精致食物：(45%)",
+            "* 为所有盟友恢复 50% 生命值。",
+            "* 成长：所有盟友获得 400 点防御。",
+            "- 腐烂食物：(45%)",
+            "* 对所有敌人造成 350% 伤害。",
+            "* 所有敌人在 5 回合内受到共计 965 点剧毒伤害。",
+            "- 末日厨房：(10%)",
+            "* 对所有盟友和敌人造成 100% 伤害。"
         ]
     },
     {
         "originalIndex": 177,
-        "name": "克朗普斯 (Krampus)",
+        "name": "亚瑟王 (King Arthur)",
         "effects": [
-            "Summons an Elf Minion for each ally with 10% HP and 10% attack inherited from the caster.",
-            "The caster gets Taunt that prevents enemies from using Special Skills on the caster's allies for 3 turns.",
-            "The caster gets +44% defense, and a further 10% increase every time they are hit during 3 turns.  This effect can't be dispelled.",
-            "All allies get +50% attack for 3 turns"
+            "对目标造成 468% 伤害。",
+            "目标获得 -39% 攻击力，持续 4 回合。",
+            "目标获得对冰雪系 -54% 的防御，持续 4 回合。",
+            "施法者获得 +74% 特殊技能防御，持续 4 回合。"
         ]
     },
     {
         "originalIndex": 178,
-        "name": "克朗普斯 (Krampus) C1",
+        "name": "克拉恩 (Klaern)",
         "effects": [
-            "Summons an Elf Minion for each ally with 10% HP and 10% attack inherited from the caster.",
-            "The caster gets Taunt that prevents enemies from using Special Skills on the caster's allies for 3 turns.",
-            "The caster gets +30% defense for 3 turns.",
-            "All allies get +45% attack, and a further 20% increase every time they are hit during 3 turns."
+            "对所有敌人造成 270% 伤害。",
+            "所有敌人在 5 回合内受到共计 325 点水系伤害。施法者会吸收所造成水系伤害的 30% 并转化为生命值。",
+            "元素链赋予所有冰雪系盟友 +10% 的防御，持续 4 回合。此效果无法驱散。"
         ]
     },
     {
         "originalIndex": 179,
-        "name": "伦纳特 (Lennart)",
+        "name": "克朗普斯 (Krampus)",
         "effects": [
-            "Deals 500% damage to the target.",
-            "The target receives 1500 Surge Bleed damage over 6 turns. (If the target already has this effect, the duration will be refreshed and the damage will be increased by 300. Max total damage: 2400.)",
-            "The target takes +40% increased damage from status ailments for 6 turns.",
-            "The target resists healing and receives 300 damage per each resisted healing for 6 turns."
+            "为每位盟友召唤一个精灵小兵，此小兵继承施法者 10% 的生命值和 10% 的攻击力。",
+            "施法者获得嘲讽，可阻止敌人对其盟友使用特殊技能，持续 3 回合。",
+            "施法者获得 +44% 防御，每次被击中后额外增加 10% 防御，持续 3 回合。此效果无法驱散。",
+            "所有盟友获得 +50% 攻击力，持续 3 回合。"
         ]
     },
     {
         "originalIndex": 180,
-        "name": "洛基领主 (Lord Loki)",
+        "name": "克朗普斯 (Krampus) C1",
         "effects": [
-            "Copies target's Special Skill and uses it as if it was the caster's own Special Skill.",
-            "If the target does not have a Special Skill or it can't be copied, the following special skill will be cast",
-            "Villain Swing:",
-            " * Deals 275% damage to the target"
+            "为每位盟友召唤一个精灵小兵，此小兵继承施法者 10% 的生命值和 10% 的攻击力。",
+            "施法者获得嘲讽，可阻止敌人对其盟友使用特殊技能，持续 3 回合。",
+            "施法者获得 +30% 防御，持续 3 回合。",
+            "所有盟友获得 +45% 攻击力，每次被击中后额外增加 20% 攻击力，持续 3 回合。"
         ]
     },
     {
         "originalIndex": 181,
-        "name": "洛基领主 (Lord Loki) C1",
+        "name": "伦纳特 (Lennart)",
         "effects": [
-            "Copies all dispellable buffs from the target.",
-            "Copies target's Special Skill and uses it in addition to the caster's own Special Skill.",
-            "If the target does not have a Special Skill, or it can't be copied, the following Special Skill will be cast:",
-            "Scoundrel Swing:",
-            " * Deals 265% damage to the target."
+            "对目标造成 500% 伤害。",
+            "目标在 6 回合内受到 1500 点奔涌流血伤害。（若目标已拥有此效果，持续时间会被刷新，且伤害增加 300 点。最大总伤害： 2400。）",
+            "目标在 6 回合内承受的状态异常伤害增加 +40%。",
+            "目标将抵抗治疗且每次抵抗治疗时都将受到 300 点伤害，持续 6 回合。"
         ]
     },
     {
         "originalIndex": 182,
-        "name": "莱莎诺 (Lysanor)",
+        "name": "洛基领主 (Lord Loki)",
         "effects": [
-            "Each defeated ally has a 60% chance to get revived with 20% HP.",
-            "All allies get +50% attack for 5 turns. The attack increases by 5% each turn, up to +70%.",
-            "All allies regenerate 1270 boosted health over 5 turns. Boosted health can exceed max HP."
+            "复制目标的特殊技能，并如同施法者自己的特殊技能一样使用。",
+            "如果目标没有特殊技能或无法复制，将施放以下特殊技能：",
+            "邪恶摇摆：",
+            "* 对目标造成 275% 伤害。"
         ]
     },
     {
         "originalIndex": 183,
-        "name": "玛吉斯汀 (Magistine)",
+        "name": "洛基领主 (Lord Loki) C1",
         "effects": [
-            "Deals 325% damage to all enemies.",
-            "If the enemy team has any Mega Minions, this Special Skill deals 375% damage to all enemies instead.",
-            "All enemies receive Devouring Goo status ailment for 3 turns.",
-            "Devouring Goo: Removes all dispellable buffs and Growth effects, deals 200 damage per turn and 50 damage per each removed effect. (If the target already has this effect, the duration will be refreshed and an extra damage from the removed effects will be added to the new effect. Damage per turn can’t exceed 700.)"
+            "从目标身上复制所有可驱散的增益。",
+            "复制目标的特殊技能，并与施法者自身的特殊技能一起使用。",
+            "如果目标没有特殊技能，或无法复制，将施放以下特殊技能：",
+            "流氓挥砍：",
+            "* 对目标造成 265% 伤害。"
         ]
     },
     {
         "originalIndex": 184,
-        "name": "马格尼 (Magni)",
+        "name": "莱莎诺 (Lysanor)",
         "effects": [
-            "Deals 420% damage to the target.",
-            "The caster and nearby allies get +63% defense for 4 turns."
+            "每名被击败的盟友有 60% 的几率以 20% 的生命值复活。",
+            "所有盟友获得 +50% 攻击力，持续 5 回合。攻击力每回合增加 5%，最高为 +70%。",
+            "所有盟友在 5 回合内获得共计 1270 点生命加成。提高的生命值可以超过最大生命值。"
         ]
     },
     {
         "originalIndex": 185,
-        "name": "马格尼 (Magni) C1",
+        "name": "玛吉斯汀 (Magistine)",
         "effects": [
-            "Deals 420% damage to the target.",
-            "The target and nearby enemies get -34% defense for 4 turns."
+            "对所有敌人造成 325% 伤害。",
+            "如果敌方队伍拥有超级小兵，则此特殊技能转而对所有敌人造成 375% 伤害。",
+            "所有敌人受到吞噬粘物状态异常，持续 3 回合。",
+            "吞噬粘物：移除所有可驱散的增益和成长效果，每回合造成 200 点伤害，并为每个移除的效果额外造成 50 点伤害。（若目标已有此效果，将刷新持续时间，并从移除的效果中获得的额外伤害将添加到新效果中。每回合伤害不超过 700 点）"
         ]
     },
     {
         "originalIndex": 186,
-        "name": "马格尼 (Magni) C2",
+        "name": "马格尼 (Magni)",
         "effects": [
-            "Deals 285% damage to target and nearby enemies.",
-            "The target and nearby enemies get -64% defense against Special Skills for 4 turns."
+            "对目标造成 420% 伤害。",
+            "施法者和附近盟友获得 +63% 防御，持续 4 回合。"
         ]
     },
     {
         "originalIndex": 187,
-        "name": "马格尼 (Magni) 卡通",
+        "name": "马格尼 (Magni) C1",
         "effects": [
-            "Deals 500% damage to the target.",
-            "The caster and nearby allies get 56% defense for 4 turns.",
-            "Deals extra damage against Fire."
+            "对目标造成 420% 伤害。",
+            "目标与附近敌人获得 -34% 防御，持续 4 回合。"
         ]
     },
     {
         "originalIndex": 188,
-        "name": "马格尼 (Magni) 玻璃",
+        "name": "马格尼 (Magni) C2",
         "effects": [
-            "Deals 510% damage to the target.",
-            "The attack bypasses defensive buffs. (This includes counterattacks.)",
-            "The caster and nearby allies get +60% defense for 4 turns."
+            "对目标及附近敌人造成 285% 伤害。",
+            "目标与附近敌人获得对特殊技能 -64% 的防御，持续 4 回合。"
         ]
     },
     {
         "originalIndex": 189,
-        "name": "马莉奥尔 (Mariol)",
+        "name": "马格尼 (Magni) 卡通",
         "effects": [
-            "Boosts health of all allies by 700. Boosted health can exceed max HP.",
-            "All allies get Moonrise Ward for 3 turns, that reduces incoming Special Skill damage by -700. Reduces damage by additional 30% when attacker is Holy.",
-            "Cleanses status ailments from all allies."
+            "对目标造成 500% 伤害。",
+            "施法者和附近盟友获得 56% 防御，持续 4 回合。",
+            "对烈火系造成额外伤害。"
         ]
     },
     {
         "originalIndex": 190,
-        "name": "天兔大师 (Master Lepus)",
+        "name": "马格尼 (Magni) 玻璃",
         "effects": [
-            "Deals 410% damage to the target and minor damage to nearby enemies.",
-            "The caster gets -20% defense for 3 turns. This effect can't be cleansed."
+            "对目标造成 510% 伤害。",
+            "攻击会无视防御增益。（包括反击）",
+            "施法者和附近盟友获得 +60% 防御，持续 4 回合。"
         ]
     },
     {
         "originalIndex": 191,
-        "name": "天兔大师 (Master Lepus) C1",
+        "name": "马莉奥尔 (Mariol)",
         "effects": [
-            "Deals 280% damage to all enemies.",
-            "The caster gets -24% mana generation for 4 turns. This effect can't be cleansed."
+            "提高所有盟友 700 点生命值。提高的生命值可以超过最大生命值。",
+            "所有盟友获得一个月出守卫，持续 3 回合，它可使所受的特殊技能伤害降低 -700 点。当攻击者为神圣系元素时可额外降低 30% 的伤害。",
+            "净化所有盟友的状态异常。"
         ]
     },
     {
         "originalIndex": 192,
-        "name": "马特雷拉 (Matrera)",
+        "name": "天兔大师 (Master Lepus)",
         "effects": [
-            "Deals 650% damage to the target.",
-            "If the target is defeated, the excess damage is dealt to each nearby enemy.",
-            "The target and nearby enemies get -40% attack for 4 turns."
+            "对目标造成 410% 伤害，并对附近敌人造成轻微伤害。",
+            "施法者获得 -20% 防御，持续 3 回合。此效果无法净化。"
         ]
     },
     {
         "originalIndex": 193,
-        "name": "梅内 (Mene)",
+        "name": "天兔大师 (Master Lepus) C1",
         "effects": [
-            "Deals 280% damage to the target and nearby enemies.",
-            "The target and nearby enemies receive 824 Frost damage over 4 turns.",
-            "The target and nearby enemies are immune to new status effect buffs for 4 turns, and receive 300 damage for each attempted buff.",
-            "Element Link gives all Ice allies +20% critical chance for 6 turns. This effect cannot be dispelled."
+            "对所有敌人造成 280% 伤害。",
+            "施法者获得 -24% 法力生成，持续 4 回合。此效果无法净化。"
         ]
     },
     {
         "originalIndex": 194,
-        "name": "米琪 (Miki)",
+        "name": "马特雷拉 (Matrera)",
         "effects": [
-            "All allies get +130% normal attack that only applies when the enemy has more HP than the attacker. This effect can be active in addition to effects that alter attack in general. Normal attacks can have a total maximum of +170% increased power while this efect is active. The effect lasts for 5 turns.",
-            "The target and nearby enemies get silenced for 5 turns",
-            "Element Link gives +4% mana regeneration for all Ice allies for 4 turns. This effect can't be dispelled."
+            "对目标造成 650% 伤害。",
+            "若目标被击败，将对每名附近的敌人造成所溢出的伤害。",
+            "目标与附近敌人获得 -40% 攻击力，持续 4 回合。"
         ]
     },
     {
         "originalIndex": 195,
-        "name": "米莱狄·德·温特 (Milady de Winter)",
+        "name": "梅内 (Mene)",
         "effects": [
-            "Deals 385% damage to all enemies.",
-            "The caster regenerates 918 HP over 6 turns.",
-            "All enemies reflect status effect buffs to a random character on the opposing team for 6 turns. Only dispellable buffs are reflected.",
-            "All allies reflect cleansable status ailments to a random character on the opposing team for 6 turns. Only cleansable ailments are reflected."
+            "对目标及附近敌人造成 280% 伤害。",
+            "目标与附近敌人在 4 回合内受到共计 824 点冰冻伤害。",
+            "目标与附近敌人对新的增益状态效果免疫，持续 4 回合，且每当有增益效果尝试施加于其上，他们都将受到 300 点伤害。",
+            "元素链为全体冰雪系盟友提供 +20% 的暴击几率，持续 6 回合。此效果无法驱散。"
         ]
     },
     {
         "originalIndex": 196,
-        "name": "米莱娜 (Milena)",
+        "name": "米琪 (Miki)",
         "effects": [
-            "Special Skill has a different effect when charged with 100%/200% mana:",
-            "1x Mana Charge:",
-            " * Recovers 25% health for all allies.",
-            " * Cleanses status ailments from all allies.",
-            "2x Mana Charge:",
-            " * Deals 420% damage to all enemies.",
-            " * Dispels buffs from all enemies."
+            "所有盟友获得 +130% 普通攻击，只有在敌方生命值高于攻击者时才有效。即使英雄身上已有其他影响攻击力的效果，此效果仍然有效。此效果有效期间，普通攻击最多可以增加共计 +170% 攻击力。此效果持续 5 回合。",
+            "目标与附近敌人陷入沉默，持续 5 回合。",
+            "元素链为全体冰雪系盟友提供 +4% 的法力生成，持续 4 回合。此效果无法驱散。"
         ]
     },
     {
         "originalIndex": 197,
-        "name": "米莱娜 (Milena) C1",
+        "name": "米莱狄·德·温特 (Milady de Winter)",
         "effects": [
-            "Special Skill has a different effect when charged with 100% / 200% mana:",
-            "1x Mana Charge:",
-            " * Recovers 26% health for all allies.",
-            " * Cleanses status ailments from all allies.",
-            "2x Mana Charge:",
-            " * Deals 440% damage to all enemies.",
-            " * Dispels buffs from all enemies."
+            "对所有敌人造成 385% 伤害。",
+            "施法者在 6 回合内恢复 918 点生命值。",
+            "所有敌人将反弹增益状态效果至我方战队的一名随机角色，持续 6 回合。只反弹可驱散的增益。",
+            "所有盟友将反弹可净化的状态异常至敌方战队的一名随机角色，持续 6 回合。只反弹可净化的异常。"
         ]
     },
     {
         "originalIndex": 198,
-        "name": "米丽安与午夜 (Miriam & Midnight)",
+        "name": "米莱娜 (Milena)",
         "effects": [
-            "Summons a Blue Kitten Minion for the caster and nearby allies. Blue Kitten Minion inherits 30% HP and 30% attack from the caster. The Minion recovers 22% health for its owner at the end of each turn.",
-            "The Blue Kitten Minion lifts the newest cleansable status ailment from its owner and adds it to the hit target.",
-            "The caster and nearby allies get +50% attack for 3 turns."
+            "当特殊技能充能至 100% / 200% 法力时将拥有不同的效果：",
+            "1 倍法力充能：",
+            "* 为所有盟友恢复 25% 生命值。",
+            "* 净化所有盟友的状态异常。",
+            "2 倍法力充能：",
+            "* 对所有敌人造成 420% 伤害。",
+            "* 驱散所有敌人的增益。"
         ]
     },
     {
         "originalIndex": 199,
-        "name": "米桑德拉 (Misandra)",
+        "name": "米莱娜 (Milena) C1",
         "effects": [
-            "Deals 310% damage to the target.",
-            "Has a 42% chance for additional hits on random enemies up to 3 times. Additional hits deal minor damage.",
-            "All allies gain a small amount of mana for each hit."
+            "当特殊技能充能至 100% / 200% 法力时将拥有不同的效果：",
+            "1 倍法力充能：",
+            "* 为所有盟友恢复 26% 生命值。",
+            "* 净化所有盟友的状态异常。",
+            "2 倍法力充能：",
+            "* 对所有敌人造成 440% 伤害。",
+            "* 驱散所有敌人的增益。"
         ]
     },
     {
         "originalIndex": 200,
-        "name": "米桑德拉 (Misandra) C1",
+        "name": "米丽安与午夜 (Miriam & Midnight)",
         "effects": [
-            "Deals 280% damage to the target.",
-            "Has a 42% chance for additional hits on random enemies up to 3 times.",
-            "Enemies hit automatically cast Mindless Attack on a random ally when mana is full at the start of a turn during 3 turns."
+            "为施法者和附近盟友召唤一名蓝色猫咪小兵。蓝色猫咪小兵可从施法者处继承 30% 生命值和 30% 攻击力。该小兵可在每回合结束时为其所有者恢复 22% 生命值。",
+            "蓝色猫咪小兵会将其所有者身上最新的可净化状态异常转移至命中目标身上。",
+            "施法者和附近盟友获得 +50% 攻击力，持续 3 回合。"
         ]
     },
     {
         "originalIndex": 201,
-        "name": "艾瑟尔小姐 (Miss Ethel)",
+        "name": "米桑德拉 (Misandra)",
         "effects": [
-            "Deals 600% damage to the target.",
-            "If the target had more then 40% health before receiving damage targets another enemy who had over 40% health before receiving any damage from this Special Skill. If none of the other enemies have 40% health targets a random enemy. The damage is reduced on each consecutive hits. Each enemy can only be hit once.",
-            "The caster gets -15% mana generation for 3 turns. This effect can’t be cleansed."
+            "对目标造成 310% 伤害。",
+            "有 42% 的几率可额外攻击随机敌人最多 3 次。额外攻击造成轻微伤害。",
+            "所有盟友因每次命中获得少量法力。"
         ]
     },
     {
         "originalIndex": 202,
-        "name": "米斯特拉 (Mistra)",
+        "name": "米桑德拉 (Misandra) C1",
         "effects": [
-            "Deals 350% damage to all enemies.",
-            "If the target is Average mana speed, deals an additional 50% damage.",
-            "If the target is Fast mana speed, deals an additional 100% damage.",
-            "If the target is Very Fast mana speed, deals an additional 150% damage. (In Rush Attack tournaments and wars enemies are considered as Very Fast mana speed. All monsters are considered as Average mana speed.",
-            "Heals all allies for 10% of damage dealt."
+            "对目标造成 280% 伤害。",
+            "有 42% 的几率可额外攻击随机敌人最多 3 次。",
+            "在 3 回合内，若所命中的目标在回合开始时法力满格，该目标将自动对一名随机盟友施放莽夫乱拳。"
         ]
     },
     {
         "originalIndex": 203,
-        "name": "蜜丝缇 (Misty)",
+        "name": "艾瑟尔小姐 (Miss Ethel)",
         "effects": [
-            "Boosts health of all allies by 180. Boosted health can exceed max HP.",
-            "Reduces the max health of all enemies by 180. This effect is stronger against targets with boosted health. Max health can’t get lower than 30% of the original max health. Any boosted health is reduced by an additional 180.",
-            "Deals 180% damage to all enemies."
+            "对目标造成 600% 伤害。",
+            "若目标在受到伤害前有超过 40% 的生命，则多瞄准一名在受到此特殊技能伤害前有超过 40% 生命的敌人。若其他敌人的生命都在 40% 以下，则多瞄准一名随机敌人。每下攻击的伤害都会递减。每个敌人只能被击中一次。",
+            "施法者获得 -15% 法力生成，持续 3 回合。此效果无法净化。"
         ]
     },
     {
         "originalIndex": 204,
-        "name": "莫德瑞丝 (Modthryth)",
+        "name": "米斯特拉 (Mistra)",
         "effects": [
-            "The caster and nearby allies counterattack with 135% of the damage received for 3 turns.",
-            "The caster and nearby allies decrease -10% mana from the attacker on each counterattack for 3 turns. The effect get diminished for consecutive activations during the same turn.",
-            "Stack (Max: 10): All allies get +15% attack.",
-            "Source of Buffs: The following effects are cast on a random ally at the start of each turn",
-            " * +100% Special Skill damage for 4 turns.",
-            " * +33% mana generation for 4 turns.",
-            " * The Source of Buffs will activate 4 times. Each attempt to dispel it removes one activation."
+            "对所有敌人造成 350% 伤害。",
+            "如果目标是中等法力速度，则额外造成 50% 伤害。",
+            "如果目标是快速法力速度，则额外造成 100% 伤害。",
+            "如果目标是非常快速法力速度，则额外造成 150% 伤害（在极速突袭锦标赛和战争中，敌人被视为非常快速法力速度。所有怪物被视为中等法力速度）。",
+            "为所有盟友恢复等同于所造成伤害 10% 的生命值。"
         ]
     },
     {
         "originalIndex": 205,
-        "name": "月医 (Mooncure)",
+        "name": "蜜丝缇 (Misty)",
         "effects": [
-            "Recovers 55% health for all allies.",
-            "All allies get +10% mana every time an enemy uses their Special skill during 5 turns.",
-            "The caster steals 50% of any healing applied to all enemies for 5 turns.",
-            "All enemies get -40% attack for 5 turns."
+            "提高所有盟友 180 点生命值。提高的生命值可以超过最大生命值。",
+            "使所有敌人减少 180 点最大生命值。若目标拥有提高的生命值，此效果会增强。最大生命值不能低于初始最大生命值的 30%。任何提高的生命值会额外减少 180 点。",
+            "对所有敌人造成 180% 伤害。"
         ]
     },
     {
         "originalIndex": 206,
-        "name": "莫雷尔 (Morel)",
+        "name": "莫德瑞丝 (Modthryth)",
         "effects": [
-            "Deals 180% damage to all enemies",
-            "All enemis get -34% defense for 3 turns."
+            "施法者和附近盟友以所受伤害的 135% 进行反击，持续 3 回合。",
+            "施法者和附近盟友每次反击可降低攻击者 -10% 的法力，持续 3 回合。同一回合中效果经连续激活会减弱。",
+            "叠加（最多 10 层）：所有盟友获得 +15% 攻击力。",
+            "增益之源：每回合开始时，对随机一名盟友施放以下效果。",
+            "* +100% 特殊技能伤害，持续 4 回合。",
+            "* +33% 法力生成，持续 4 回合。",
+            "* 增益之源将触发 4 次。每次驱散尝试都会移除一次触发。"
         ]
     },
     {
         "originalIndex": 207,
-        "name": "莫雷尔 (Morel) C1",
+        "name": "月医 (Mooncure)",
         "effects": [
-            "Deals 145% damage to all enemies.",
-            "All enemies get -34% defense for 3 turns.",
-            "All allies regenerate 411 HP over 3 turns."
+            "为所有盟友恢复 55% 生命值。",
+            "每次敌人使用其特殊技能时，所有盟友获得 +10% 法力，并持续 5 回合。",
+            "施法者偷取所有敌人所获治疗的 50%，持续 5 回合。",
+            "所有敌人获得 -40% 攻击力，持续 5 回合。"
         ]
     },
     {
         "originalIndex": 208,
-        "name": "潘吉先生 (Mr. Pengi)",
+        "name": "莫雷尔 (Morel)",
         "effects": [
-            "Deals 450% damage to the target.",
-            "Deals an additional 130% damage to as many random enemies as there are Minions owned by allies. The damage is reduced on each consecutive hit.",
-            "All hit targets receive 132 Frost damage.",
-            "Summons an Elf Minion for the caster and nearby allies with 10% HP and 10% attack inheried from the caster."
+            "对所有敌人造成 180% 伤害。",
+            "所有敌人获得 -34% 防御，持续 3 回合。"
         ]
     },
     {
         "originalIndex": 209,
-        "name": "潘吉先生 (Mr. Pengi) C1",
+        "name": "莫雷尔 (Morel) C1",
         "effects": [
-            "Deals 400% damage to the target.",
-            "Deals an additional 160% damage to as many random enemies as there are Minions owned by allies. The damage is reduced on each consecutive hit.",
-            "All hit targets receive 225 Frost damage over 3 turns.",
-            "Summons an Elf minion for the caster and nearby allies with 10% HP and 10% attack inherited from the caster."
+            "对所有敌人造成 145% 伤害。",
+            "所有敌人获得 -34% 防御，持续 3 回合。",
+            "所有盟友在 3 回合内恢复 411 点生命值。"
         ]
     },
     {
         "originalIndex": 210,
-        "name": "诺第卡 (Nautica)",
+        "name": "潘吉先生 (Mr. Pengi)",
         "effects": [
-            "Recovers 45% health for all allies.",
-            "Increases the mana of nearby allies by 33%.",
-            "Nearby allies get +40% mana generation for 4 turns.",
-            "The caster and nearby allies get +50% critical chance for 4 turns."
+            "对目标造成 450% 伤害。",
+            "友军拥有多少个小兵，就随机对同样数量的敌人造成额外 130% 伤害。每下攻击的伤害都会递减。",
+            "所有被击中的目标受到 132 点冰冻伤害。",
+            "为施法者和附近盟友召唤一个精灵小兵，其可从施法者处继承 10% 生命和 10% 攻击力。"
         ]
     },
     {
         "originalIndex": 211,
-        "name": "九头兽 (Nine-Headed Beast)",
+        "name": "潘吉先生 (Mr. Pengi) C1",
         "effects": [
-            "160% damage to 9 random enemies.",
-            "The duration of buffs is reset for all allies.",
-            "The duration of status ailments is reset for all enemies.",
-            "All allies get +40% attack for 4 turns.",
-            "All enemies get -40% attack for 4 turns."
+            "对目标造成 400% 伤害。",
+            "友军拥有多少个小兵，就随机对同样数量的敌人造成额外 160% 伤害。每下攻击的伤害都会递减。",
+            "所有被击中的目标在 3 回合内受到共计 225 点冰冻伤害。",
+            "为施法者和附近盟友召唤一个精灵小兵，其可从施法者处继承 10% 生命和 10% 攻击力。"
         ]
     },
     {
         "originalIndex": 212,
-        "name": "尼洛拉 (Nylora)",
+        "name": "诺第卡 (Nautica)",
         "effects": [
-            "Targets element is changed to Fire for 3 turns. (Titans and Mythic Titans are not affected by Element Swap)",
-            "Deals 550% damage to the target.",
-            "The target get -68% defense against Ice for 3 turns."
+            "为所有盟友恢复 45% 生命值。",
+            "使附近盟友的法力增加 33%。",
+            "附近盟友获得 +40% 法力生成，持续 4 回合。",
+            "施法者和附近盟友获得 +50% 暴击几率，持续 4 回合。"
         ]
     },
     {
         "originalIndex": 213,
-        "name": "奥黛特 (Odette)",
+        "name": "九头兽 (Nine-Headed Beast)",
         "effects": [
-            "The caster regenerates 609 HP over 3 turns.",
-            "The caster gets +45% chance to dodge Special Skills that deal damage for 3 turns.",
-            "Casts Dance of the Swan to all allies but caster for 3 turns. All existing status effects will be removed when this effect is added.",
-            "Dance of the Swan",
-            " * +45% chance to dodge attacks and Special Skills.",
-            " * 50% chance to deal 360 % damage to a random enemy after any subsequent allied Special Skill is cast.",
-            " * Gives immunity to new status effects. New dance status effects will replace this effect.",
-            " * This effect cannot be dispelled. This effect is removed when the caster is defeated."
+            "对 9 名随机敌人造成 160% 伤害。",
+            "重置所有盟友的增益持续时间。",
+            "重置所有敌人的状态异常持续时间。",
+            "所有盟友获得 +40% 攻击力，持续 4 回合。",
+            "所有敌人获得 -40% 攻击力，持续 4 回合。"
         ]
     },
     {
         "originalIndex": 214,
-        "name": "鬼若丸 (Oniwakamaru)",
+        "name": "尼洛拉 (Nylora)",
         "effects": [
-            "Special Skill has a different effect when charged with 100%/200%/300% mana:",
-            "x1 Mana Charge:",
-            " - Boosts health of caster by 390. Boosted health can exceed max HP.",
-            " - The caster gets Taunt that prevents enemies from using Special Skill on the caster’s allies for 2 turns. This effect can’t be dispelled.",
-            " - The caster counterattacks with 50% of the damage received for 2 turns.",
-            "x2 Mana Charge:",
-            " - Boosts health of caster by 490. Boosted health can exceed max HP.",
-            " - The caster gets Taunt that prevents enemies from using Special Skill on the caster’s allies for 3 turns. This effect can’t be dispelled.",
-            " - The caster counterattacks with 105% of the damage received for 3 turns.",
-            "x3 Mana Charge:",
-            " - Boosts health of caster by 540. Boosted health can exceed max HP.",
-            " - The caster gets Taunt that prevents enemies from using Special Skill on the caster’s allies for 4 turns. This effect can’t be dispelled.",
-            " - The caster counterattacks with 133% of the damage received for 3 turns."
+            "目标的元素更改为烈火，持续 3 回合。（泰坦和神话泰坦不受元素交换影响）",
+            "对目标造成 550% 伤害。",
+            "目标获得对冰雪系 -68% 的防御，持续 3 回合。"
         ]
     },
     {
         "originalIndex": 215,
-        "name": "奥科 (Orcur)",
+        "name": "奥黛特 (Odette)",
         "effects": [
-            "Recovers 30% health for all allies.",
-            "Growth: All allies get 250 attack.",
-            "Boosts health of all allies by 300 health after 3 turns, or immediatelly if the effect is removed before the duration ends. Boosted health can exceed max HP."
+            "施法者在 3 回合内恢复 609 点生命值。",
+            "施法者有 +45% 的几率闪避可造成伤害的特殊技能，持续 3 回合。",
+            "对除施法者外的所有盟友施放天鹅之舞，持续 3 回合。添加此效果时将移除所有现有状态效果。",
+            "天鹅之舞：",
+            "* +45% 几率闪避攻击和特殊技能。",
+            "* 任何盟友随后施放特殊技能时，有 50% 几率对随机一名敌人造成 360% 伤害。",
+            "* 免疫新的状态效果。新的舞蹈状态效果将取代此效果。",
+            "* 此效果无法驱散。施法者阵亡后效果移除。"
         ]
     },
     {
         "originalIndex": 216,
-        "name": "奥德索 (Otso)",
+        "name": "鬼若丸 (Oniwakamaru)",
         "effects": [
-            "Deals 380% damage to all enemies.",
-            "The caster regenerates 870 HP over 6 turns.",
-            "All enemies get a Special Skill mark for 6 turns. Whenever marked target casts their Special Skill, they gain a Stack (Max 10). Each stack increases all damage the target receives by +5%. Against Nature characters, this status effect becomes uncleansable and lasts 2 turns longer."
+            "当特殊技能充能至 100% / 200% / 300% 法力时将拥有不同的效果：",
+            "1 倍法力充能：",
+            "- 提高施法者 390 点生命值。提高的生命值可以超过最大生命值。",
+            "- 施法者获得嘲讽，可阻止敌人对其盟友使用特殊技能，持续 2 回合。此效果不可驱散。",
+            "- 施法者以所受伤害的 50% 进行反击，持续 2 回合。",
+            "2 倍法力充能：",
+            "- 提高施法者 490 点生命值。提高的生命值可以超过最大生命值。",
+            "- 施法者获得嘲讽，可阻止敌人对其盟友使用特殊技能，持续 3 回合。此效果不可驱散。",
+            "- 施法者以所受伤害的 105% 进行反击，持续 3 回合。",
+            "3 倍法力充能：",
+            "- 提高施法者 540 点生命值。提高的生命值可以超过最大生命值。",
+            "- 施法者获得嘲讽，可阻止敌人对其盟友使用特殊技能，持续 4 回合。此效果不可驱散。",
+            "- 施法者以所受伤害的 133% 进行反击，持续 3 回合。"
         ]
     },
     {
         "originalIndex": 217,
-        "name": "帕瑟帕特奥 (Passepartout)",
+        "name": "奥科 (Orcur)",
         "effects": [
-            "Recovers 25% health for all allies.",
-            "All allies regenerate 400 HP over 4 turns, and a further increase of 100 HP per each Nature shield on the board, up to 1200 HP total.",
-            "All allies get +20% defense, and a further 7% increase for each Nature shield on the board for 4 turns, up to 76% defense."
+            "为所有盟友恢复 30% 生命值。",
+            "成长：所有盟友获得 250 点攻击力。",
+            "3 回合后，提高所有盟友 300 点生命值。而若此效果在持续时间结束前被移除，则立即生效。提高的生命值可以超过最大生命值。"
         ]
     },
     {
         "originalIndex": 218,
-        "name": "帕瑟帕特奥 (Passepartout) C1",
+        "name": "奥德索 (Otso)",
         "effects": [
-            "Recover 40% health for all allies.",
-            "All allies regenerate 260 HP over 4 turns and a further increase of 76 HP per each Nature shield on the board, up to 868 HP total.",
-            "All allies get +30% defense, and a further 8% increase per each Nature shield on the board for 4 turns, up to +94% defense."
+            "对所有敌人造成 380% 伤害。",
+            "施法者在 6 回合内恢复 870 点生命值。",
+            "所有敌人获得特殊技能标记，持续 6 回合。被标记的目标每次施放特殊技能时都将获得一层叠加（最多 10 层）。每层叠加会使目标受到的所有伤害增加 +5%。对自然系角色，此状态效果不可净化且持续时间延长 2 回合。"
         ]
     },
     {
         "originalIndex": 219,
-        "name": "佩普布勒 (Pepperbleu)",
+        "name": "帕瑟帕特奥 (Passepartout)",
         "effects": [
-            "Deals 450% damage to the target.",
-            "Safely dispels status effect buffs from the target. (Safe dispel bypasses secondary effects, such as damage on removal, from the removed status effect buffs. External effects such as passive skills and family effects can still activate.)",
-            "Summons a Dusk Mothling Mega Fiend for the target. The Fiend damages the enemy with 270% attack every turn.",
-            "The Dusk Mothling Mega Fiend absorbs healing and disappears when it has absorbed health equal to 75% of its owner’s max health.",
-            "When summoned, the Dusk Mothling Mega Fiend causes its target to be immune to new buffs. The effect lasts as long as the target has Dusk Mothling Mega Fiend."
+            "为所有盟友恢复 25% 生命值。",
+            "所有盟友在 4 回合内恢复共计 400 点生命值，面板中每存在一个自然系盾牌则额外提升 100 点生命值，最多提升至 1200 点生命值。",
+            "所有盟友的获得 +20% 防御，面板中每个自然系盾牌额外提升 7%，持续 4 回合，最多累计至 76% 防御。"
         ]
     },
     {
         "originalIndex": 220,
-        "name": "柏休斯 (Perseus)",
+        "name": "帕瑟帕特奥 (Passepartout) C1",
         "effects": [
-            "Deal 455% damage to the target.",
-            "The target gets -100% decrease for any healing received for 4 turns.  This effect can’t be cleansed.",
-            "The caster and nearby allies get +94% defense against Nature for 4 turns.",
-            "Elemental Link gives 10% mana generation for all Ice allies for 4 turns. This effect can’t be displelled."
+            "为所有盟友恢复 40% 生命值。",
+            "所有盟友在 4 回合内恢复共计 260 点生命值，面板中每存在一个自然系盾牌则额外提升 76 点生命值，最多提升至 868 点生命值。",
+            "所有盟友的获得 +30% 防御，面板中每个自然系盾牌额外提升 8%，持续 4 回合，最多累计至 +94% 防御。"
         ]
     },
     {
         "originalIndex": 221,
-        "name": "柏休斯 (Perseus) C1",
+        "name": "佩普布勒 (Pepperbleu)",
         "effects": [
-            "Deals 405% damage to the target and nearby enemies.",
-            "The target and nearby enemies get -100% decrease of any healing received for 4 turns. This effect can’t be cleansed.",
-            "The target and nearby enemies get -68% defense against Ice for 4 turns.",
-            "Elemental Link gives +10% mana generation for all Ice allies for 4 turns. This effect can’t be displelled."
+            "对目标造成 450% 伤害。",
+            "安全驱散目标身上的状态效果增益。（安全驱散会无视状态效果增益被移除时的副作用，例如移除时的伤害。被动技能和家族效果等外来效果仍会生效）",
+            "召唤暮蛾幼虫超级恶魔附身于目标。恶魔每回合对敌人造成 270% 攻击力的伤害。",
+            "暮蛾幼虫超级恶魔会吸收治疗，当吸收的治疗量达到其所有者最大生命值的 75% 时，它便会消失。",
+            "暮蛾幼虫超级恶魔被召唤后，只要其所有者拥有暮蛾幼虫超级恶魔，其所有者就会对新的增益免疫。"
         ]
     },
     {
         "originalIndex": 222,
-        "name": "金曲 (Pophit)",
+        "name": "柏休斯 (Perseus)",
         "effects": [
-            "The target and nearby enemies get -30% defense for 3 turns. If the effect is removed before the duration ends, the target with the effect suffers 668 damage.",
-            "Deals 390% damage to the target and nearby enemies.",
-            "Nearby allies receive Softskin. The next time they receive damage, it is reduced by -90%, and they resist all status ailments and mana reduction. This effect can’t be dispelled."
+            "对目标造成 455% 伤害。",
+            "目标获得的治疗减少 -100%，持续 4 回合。此效果无法净化。",
+            "施法者和附近盟友获得对自然系 +94% 的防御，持续 4 回合。",
+            "元素链为全体冰雪系盟友提供 10% 的法力生成，持续 4 回合。此效果无法驱散。"
         ]
     },
     {
         "originalIndex": 223,
-        "name": "波尔多斯 (Porthos)",
+        "name": "柏休斯 (Perseus) C1",
         "effects": [
-            "Deals 380% damage to all enemies.",
-            "Alters the power of all Ice shields on the board. When an attacking Hero casts the special, the shields become enchanced with +64% attack. When a defending Hero casts the special, the shields become weakened with -57% attack.",
-            "The caster regenerates 918 HP over 6 turns.",
-            "Deals extra damage against Fire."
+            "对目标及附近敌人造成 405% 伤害。",
+            "目标与附近敌人获得的治疗减少 -100%，持续 4 回合。此效果无法净化。",
+            "目标与附近敌人获得对冰雪系 -68% 的防御，持续 4 回合。",
+            "元素链为全体冰雪系盟友提供 +10% 的法力生成，持续 4 回合。此效果无法驱散。"
         ]
     },
     {
         "originalIndex": 224,
-        "name": "夸里 (Quari)",
+        "name": "金曲 (Pophit)",
         "effects": [
-            "Deals 450% damage to the target and nearby enemies.",
-            "The target and nearby enemies receive 788 Water damage over 4 turns. All allies absorb 50% of dealt Water damage as boosted health.",
-            "Growth: All allies get 200 attack and 200 defense."
+            "目标与附近敌人获得 -30% 防御，持续 3 回合。若该效果在持续时间结束前被移除，其拥有者将受到 668 点伤害。",
+            "对目标及附近敌人造成 390% 伤害。",
+            "附近盟友获得软化皮肤效果（他们下次受到的伤害减少 -90%，并抵抗所有状态异常和法力减损。此效果无法驱散）。"
         ]
     },
     {
         "originalIndex": 225,
-        "name": "奎恩 (Quinn)",
+        "name": "波尔多斯 (Porthos)",
         "effects": [
-            "Boosts health of all allies by 400. Boosted health can be exceed max HP.",
-            "All enemies are immune to new status effect buffs for 3 turns.",
-            "All Fire enemies get -38 accuracy for 3 turns. Chance to miss applies to offensive Special Skills.",
-            "All Dark enemies get -38% mana generation for 3 turns.",
-            "All Holy enemies get -38% defense for 3 turns.",
-            "All Nature enemies get -38% attack for 3 turns."
+            "对所有敌人造成 380% 伤害。",
+            "面板中所有冰雪系盾牌受到影响。攻击方英雄施放特殊技能时，盾牌得到增强并额外给予 +64% 攻击力；防御方英雄施放特殊技能时，盾牌会被削弱攻击力 -57%。",
+            "施法者在 6 回合内恢复 918 点生命值。",
+            "对烈火系造成额外伤害。"
         ]
     },
     {
         "originalIndex": 226,
-        "name": "昆汀 (Quintin)",
+        "name": "夸里 (Quari)",
         "effects": [
-            "Deals 420% damage to the target.",
-            "The target receives 100% damage for all the damage their allies receive for 4 turns."
+            "对目标及附近敌人造成 450% 伤害。",
+            "目标和附近敌人在 4 回合内受到共计 788 点水系伤害。所有盟友会吸收所造成水系伤害的 50% 并转化为生命值加成。",
+            "成长：所有盟友获得 200 点攻击力和 200 点防御。"
         ]
     },
     {
         "originalIndex": 227,
-        "name": "拉菲尔 (Raffaele)",
+        "name": "奎恩 (Quinn)",
         "effects": [
-            "Heals all allies who have less than 50% HP left to 50% health.",
-            "All allies regenerate 1080 HP over 4 turns.",
-            "Cleanses status ailments from all allies.",
-            "Element Link gives all Ice allies +30% defense against Special Skills for 4 turns. This effect can't be cleansed."
+            "提高所有盟友 400 点生命值。提高的生命值可以超过最大生命值。",
+            "所有敌人对新的增益状态效果免疫，持续 3 回合。",
+            "所有烈火系敌人获得 -38 精准度，持续 3 回合。进攻型特殊技能也有相同几率落空。",
+            "所有暗黑系敌人获得 -38% 法力生成，持续 3 回合。",
+            "所有神圣系敌人获得 -38% 防御，持续 3 回合。",
+            "所有自然系敌人获得 -38% 攻击力，持续 3 回合。"
         ]
     },
     {
         "originalIndex": 228,
-        "name": "里安 (Rian)",
+        "name": "昆汀 (Quintin)",
         "effects": [
-            "Cleanses status ailments from all allies.",
-            "Deals 210% damage to all enemies.",
-            "Deals additional 25% damage per removed status effect, up to 410% damage in total.",
-            "Stack (Max: 10): The caster gets +5% mana generation",
-            "Stack +2 (Max: 10): The caster recovers 20 HP each turn."
+            "对目标造成 420% 伤害。",
+            "目标所有的盟友遭受伤害时，目标受到 100% 的伤害，持续 4 回合。"
         ]
     },
     {
         "originalIndex": 229,
-        "name": "理查德 (Richard)",
+        "name": "拉菲尔 (Raffaele)",
         "effects": [
-            "Deals 415% damage to the target and minor damage to nearby enemies.",
-            "The target and nearby enemies get -34% attack for 6 turns."
+            "将所有剩余血量低于 50% 的盟友的血量恢复至 50% 生命值。",
+            "所有盟友在 4 回合内恢复 1080 点生命值。",
+            "净化所有盟友的状态异常。",
+            "元素链为全体冰雪系盟友提供针对特殊技能的 +30% 防御，持续 4 回合。此效果无法净化。"
         ]
     },
     {
         "originalIndex": 230,
-        "name": "理查德 (Richard) C1",
+        "name": "里安 (Rian)",
         "effects": [
-            "Deals 435% damage to the target and minor damage to nearby enemies.",
-            "The target and nearby enemies get -34% attack for 4 turns."
+            "净化所有盟友的状态异常。",
+            "对所有敌人造成 210% 伤害。",
+            "每移除一个状态效果便造成额外 25% 伤害，最多累计造成 410% 伤害。",
+            "叠加（最多 10 层）：施法者获得 +5% 法力生成。",
+            "叠加 +2 （最多 10 层）：施法者每回合恢复 20 点生命值。"
         ]
     },
     {
         "originalIndex": 231,
-        "name": "理查德 (Richard) C2",
+        "name": "理查德 (Richard)",
         "effects": [
-            "Deals 300% damage to the target and nearby enemies.",
-            "The target and nearby enemies get -30% attack, and a further -2% decrease every time they are hit during 4 turns."
+            "对目标造成 415% 伤害，并对附近敌人造成轻微伤害。",
+            "目标与附近敌人获得 -34% 攻击力，持续 6 回合。"
         ]
     },
     {
         "originalIndex": 232,
-        "name": "理查德 (Richard) 卡通",
+        "name": "理查德 (Richard) C1",
         "effects": [
-            "Deals 565% damage to the target and minor damage to nearby enemies.",
-            "The target and nearby enemies get -24% attack for 6 turns.",
-            "Deals extra damage against Fire."
+            "对目标造成 435% 伤害，并对附近敌人造成轻微伤害。",
+            "目标与附近敌人获得 -34% 攻击力，持续 4 回合。"
         ]
     },
     {
         "originalIndex": 233,
-        "name": "理查德 (Richard) 玻璃",
+        "name": "理查德 (Richard) C2",
         "effects": [
-            "Deals 575% damage to the target and minor damage to nearby enemies.",
-            "The attack bypasses defensive buffs. (This includes counterattacks.)",
-            "The target and nearby enemies get -30% attack for 6 turns."
+            "对目标及附近敌人造成 300% 伤害。",
+            "目标与附近敌人获得 -30% 攻击力，并在每次被击中时再降低 -2% 攻击力，持续 4 回合。"
         ]
     },
     {
         "originalIndex": 234,
-        "name": "龙佩尔斯迪尔钦 (Rumpelstiltskin)",
+        "name": "理查德 (Richard) 卡通",
         "effects": [
-            "Draw a card for a special effect:",
-            "Skull",
-            " * Deals 270% damage to all enemies.",
-            " * All enemies receive 156 damage over 3 turns.",
-            "Cross",
-            " * Recovers 27% health for all allies.",
-            " * Cleanses status ailments from all allies.",
-            "Stars",
-            " * All enemies get -34% defense for 3 turns.",
-            " * All allies get +48% attack for 3 turns."
+            "对目标造成 565% 伤害，并对附近敌人造成轻微伤害。",
+            "目标与附近敌人获得 -24% 攻击力，持续 6 回合。",
+            "对烈火系造成额外伤害。"
         ]
     },
     {
         "originalIndex": 235,
-        "name": "龙佩尔斯迪尔钦 (Rumpelstiltskin) C1",
+        "name": "理查德 (Richard) 玻璃",
         "effects": [
-            "Draw a card for a special effect:",
-            "Skull",
-            " * Reduces max health of all enemies by 550. Max health can’t get lower than 30% of the original max health.",
-            " * All enemies receive Corrosive Poison for 4 turns. The Corrosive Poison deals 69 Poison damage and lowers the target’s mana generation by -9% each turn. Deals extra damage against heroes with Minions or a Mega Minion.",
-            "Cross",
-            " * Boosts health of all allies by 620. Boosted health can exceed max HP.",
-            " * All allies are immune to new status ailments for 4 turns.",
-            "Stars",
-            " * All enemies get -54% mana generation for 4 turns. This effect can’t be cleansed.",
-            " * All enemies are immune to new status effect buffs for 4 turns."
+            "对目标造成 575% 伤害，并对附近敌人造成轻微伤害。",
+            "攻击会无视防御增益。（包括反击）",
+            "目标与附近敌人获得 -30% 攻击力，持续 6 回合。"
         ]
     },
     {
         "originalIndex": 236,
-        "name": "鲁苏拉 (Russula)",
+        "name": "龙佩尔斯迪尔钦 (Rumpelstiltskin)",
         "effects": [
-            "Deals 330% damage to the target.",
-            "The caster goes into hiding for 2 turns.",
-            "While hidden, the caster can't receive new status effects or stacks and all received damage is reduced by -30%.",
-            "When the caster comes out of hiding, it deals 277 damage to all enemies that used Special SKills while it was hiding."
+            "抽取一张特殊效果卡片：",
+            "骨骼：",
+            "* 对所有敌人造成 270% 伤害。",
+            "* 所有敌人在 3 回合内受到共计 156 点伤害。",
+            "十字架：",
+            "* 为所有盟友恢复 27% 生命值。",
+            "* 净化所有盟友的状态异常。",
+            "星星：",
+            "* 所有敌人获得 -34% 防御，持续 3 回合。",
+            "* 所有盟友获得 +48% 攻击力，持续 3 回合。"
         ]
     },
     {
         "originalIndex": 237,
-        "name": "鲁苏拉 (Russula) C1",
+        "name": "龙佩尔斯迪尔钦 (Rumpelstiltskin) C1",
         "effects": [
-            "Deals 300% damage to the target.",
-            "The caster goes into hiding for 2 turns.",
-            "While hidden, the caster can’t receive new status effects or stacks, and all received damage is reduced by -30%.",
-            "When the caster comes out of hiding, it deals 391 damage to all enemies that used Special Skills while the caster was hiding."
+            "抽取一张特殊效果卡片：",
+            "骨骼：",
+            "* 使所有敌人减少 550 点最大生命值。最大生命值不能低于初始最大生命值的 30%。",
+            "* 所有敌人受到腐蚀性毒伤，持续 4 回合。腐蚀性毒伤每回合造成 69 点剧毒伤害，并使目标的法力生成降低 -9%。对拥有小兵或超级小兵的英雄造成额外伤害。",
+            "十字架：",
+            "* 提高所有盟友 620 点生命值。提高的生命值可以超过最大生命值。",
+            "* 所有盟友对新的状态异常免疫，持续 4 回合。",
+            "星星：",
+            "* 所有敌人获得 -54% 法力生成，持续 4 回合。此效果无法净化。",
+            "* 所有敌人对新的增益状态效果免疫，持续 4 回合。"
         ]
     },
     {
         "originalIndex": 238,
-        "name": "紫貂 (Sable)",
+        "name": "鲁苏拉 (Russula)",
         "effects": [
-            "Casts Full Removal on the caster. (Full Removal removes all status effects, stacks and Growth and Wither effects. Removes even status effects and stack that are otherwise undispelalble and uncleasable.",
-            "The caster shifts into Ghost form for 3 turns. (While in Ghost form, Character can’t gain mana, and can’t be healed by Special Skills, but is immune to normal attacks, Special Skill attacks, damage dealing passives, status effects and stacks. Immune to new Growth and Wither effects.)",
-            "When the Ghost form expires:",
-            "The caster revives a random defeated ally with 40% HP.",
-            "All allies regenerate 900 health over 3 turns.",
-            "Cleanses status ailments from all allies at then end of each turn for 3 turns."
+            "对目标造成 330% 伤害。",
+            "施法者进入潜行状态，持续 2 回合。",
+            "潜行期间，施法者无法获得新的状态效果或叠加效果，且受到的所有伤害减少 -30%。",
+            "施法者脱离潜行状态时，对所有在潜行期间使用特殊技能的敌人造成 277 点伤害。"
         ]
     },
     {
         "originalIndex": 239,
-        "name": "萨尔瓦多 (Salvatore)",
+        "name": "鲁苏拉 (Russula) C1",
         "effects": [
-            "Casts Full Removal on the caster. (Full Removal removes all status effects, stacks and Gowth and Wither effects. Removes even status effects and stacks that are otherwise undispellable or uncleansable. )",
-            "The caster shifts into Deranged Dire Ghost form for 5 turns.",
-            "While in Deranged Dire Ghost form the caster automatically deal 300% damage and inflict 30 Insanity on a random enemy each turn.",
-            "While in Deranged Dire Ghost form the caster and nearby allies can take damage from enemies whose element is stronger against them. (While in Ghost form, Character can’t gain mana and can’t be healed by Special Skills, but is immune to normal attacks, Special Skill attacks, damage dealing passives, status effects and stacks. Immune to new Growth and Wither effects.)",
-            "Inflicts 30 Insanity on all allies except the caster."
+            "对目标造成 300% 伤害。",
+            "施法者进入潜行状态，持续 2 回合。",
+            "潜行期间，施法者无法获得新的状态效果或叠加效果，且受到的所有伤害减少 -30%。",
+            "施法者脱离潜行状态时，对所有在潜行期间使用特殊技能的敌人造成 391 点伤害。"
         ]
     },
     {
         "originalIndex": 240,
-        "name": "开悟 (Satori)",
+        "name": "紫貂 (Sable)",
         "effects": [
-            "Deals 315% damage to all enemies.",
-            "Deals 630% damage against characters that cleanse or dispel using Special Skills. (Only direct Dispel and Cleanse effects from Special Skills are considered. This excludes Remove effects, Passives, Minions, Family effects, Talents and Status effects.)",
-            "The caster and nearby allies have 55% chance to drop any received damage to 1 for 4 turns. If this effect is dispelled, it dispels buffs from all enemies."
+            "对施放者释放完全移除（完全移除可以移除目标的所有状态效果、叠加效果、成长效果和衰退效果。包含不可驱散或不可净化的状态效果和叠加效果）。",
+            "施法者转变为幽灵形态，持续 3 回合。（处于幽灵形态期间，角色无法获得法力或被特殊技能治疗，但免疫普通攻击、特殊技能攻击、造成伤害的被动技能、状态效果和叠加效果。免疫新的成长和衰退效果）",
+            "幽灵形态到期时：",
+            "施法者随机复活一名被击败的盟友，使其以 40% 生命值返回战场。",
+            "所有盟友在 3 回合内恢复 900 点生命值。",
+            "在回合结束时净化所有队友的状态异常，持续 3 回合。"
         ]
     },
     {
         "originalIndex": 241,
-        "name": "泽野 (Sawano)",
+        "name": "萨尔瓦多 (Salvatore)",
         "effects": [
-            "1x Mana Charge",
-            "* Recovers 25% health for all allies.",
-            "* For the next 2 turns this character recovers 300 health to all allies after an enemy casts their Special Skill. (Each enemy can trigger this effect once per turn.)",
-            "* Cleanses status ailments from the caster.",
-            "2x Mana Charge",
-            "* Recovers 30% health for all allies.",
-            "* For the next 4 turns this character recovers 350 health to all allies after an enemy casts their Special Skill. (Each enemy can trigger this effect once per turn.)",
-            "* Cleanses status ailments from the caster and nearby allies.",
-            "3x Mana Charge",
-            "* Recovers 35% health for all allies.",
-            "* For the next 6 turns this character recovers 400 health to all allies after an enemy casts their Special Skill. (Each enemy can trigger this effect once per turn.)",
-            "* Cleanses status ailments from all allies."
+            "对施放者释放完全移除。完全移除可以移除目标的所有状态效果、叠加效果、成长效果和衰退效果。（包含不可驱散或不可净化的状态效果和叠加效果）",
+            "施法者转变为疯狂恐怖幽灵形态，持续 5 回合。",
+            "处于疯狂恐怖幽灵形态期间，施法者每回合会自动对随机一名敌人造成 300% 伤害，并对其施加 30 点狂乱。",
+            "处于疯狂恐怖幽灵形态期间，施法者可受到来自较强元素敌人的伤害。（处于幽灵形态期间，角色无法获得法力，且无法被特殊技能治疗，但是对普通攻击、特殊技能攻击、造成伤害的被动效果、状态效果和叠加免疫， 对新的成长和衰退效果免疫。）",
+            "对除施法者外的所有盟友施加 30 点狂乱。"
         ]
     },
     {
         "originalIndex": 242,
-        "name": "西格恩 (Sigyn)",
+        "name": "开悟 (Satori)",
         "effects": [
-            "Deals 500% damage to the enemies on the edges of the enemy formation. If there is only one enemy alive, the damage is doubled.",
-            "Reduces the mana of the enemies on the edges of the enemy formation by 50%.",
-            "Summons a Bone Trap Fiend for the enemies on the edges of the enemy formation. The Fiend damages the enemy with 45% attack every turn. The damage increases by 8% each turn, up to a maximum 93%.",
-            "The Bone Trap Fiend absorbs healing and disappears when it has absorbed health equal to 35% of its owner’s max health."
+            "对所有敌人造成 315% 伤害。",
+            "对使用特殊技能进行净化或驱散的角色造成 630% 伤害。（只有在特殊技能直接造成驱散和净化时有效。不包括效果移除、被动、小兵、家族效果、天赋以及状态效果）",
+            "施法者和附近盟友有 55% 几率可将受到的一切伤害降至 1 点，持续 4 回合。若该效果遭到驱散，则驱散所有敌人的增益。"
         ]
     },
     {
         "originalIndex": 243,
-        "name": "西尼 (Sini)",
+        "name": "泽野 (Sawano)",
         "effects": [
-            "Deals 250% damage to all enemies.",
-            "Alters the power of all Ice shields on the board. When an attacking hero casts the special, the shields become enhanced with +54% attack. When a defending Hero casts the special, the shields becme weakened with -47% attack.",
-            "Deals extra damage against Fire.",
-            "Element Link gives all Ice allies +5% dodge chance for 6 turns. This effect cannot be dispelled."
+            "1 倍法力充能：",
+            "* 为所有盟友恢复 25% 生命值。",
+            "* 在后续 2 回合中，当一名敌人施放特殊技能后，此角色将使所有盟友恢复 300 点生命值。（每个敌人每回合只能触发一次此效果）",
+            "* 净化施法者的状态异常。",
+            "2 倍法力充能：",
+            "* 为所有盟友恢复 30% 生命值。",
+            "* 在后续 4 回合中，当一名敌人施放特殊技能后，此角色将使所有盟友恢复 350 点生命值。（每个敌人每回合只能触发一次此效果）",
+            "* 净化施法者和附近盟友的状态异常。",
+            "3 倍法力充能：",
+            "* 为所有盟友恢复 35% 生命值。",
+            "* 在后续 6 回合中，当一名敌人施放特殊技能后，此角色将使所有盟友恢复 400 点生命值。（每个敌人每回合只能触发一次此效果）",
+            "* 净化所有盟友的状态异常。"
         ]
     },
     {
         "originalIndex": 244,
-        "name": "希奥弗拉 (Siofra)",
+        "name": "西格恩 (Sigyn)",
         "effects": [
-            "Deals 290% damage to the target and nearby enemies.",
-            "The attack bypasses defensive buffs. This includes counterattacks.",
-            "The target and nearby enemies get -40% attack for 3 turns. The attack decreases by -5% each turn, up to -50%.",
-            "The target and nearby enemies get -80% decrease for any healing received for 3 turns."
+            "对位于敌军阵型边缘的敌人造成 500% 伤害。如果仅有一名敌人，则伤害加倍。",
+            "使敌阵边缘的敌人法力减少 50%。",
+            "召唤刺骨陷阱恶魔附身于敌方阵型边缘的敌人。恶魔每回合对敌人造成 45% 攻击力的伤害。该伤害每回合提高 8%，最高可达 93%。",
+            "刺骨陷阱恶魔会吸收治疗，当吸收的治疗量达到其所有者最大生命值的 35% 时，它便会消失。"
         ]
     },
     {
         "originalIndex": 245,
-        "name": "斯嘉蒂 (Skadi)",
+        "name": "西尼 (Sini)",
         "effects": [
-            "Deals 220% damage to all enemies.",
-            "The damage is increased by 50% per each dead enemy.",
-            "Stack (Max: 10): All enemies receive 35 Frost damage per each killed enemy or enemy minion at the end of each turn.",
-            "Stack (Max: 10): All enemies get -6% mana generation per each killed enemy or enemy minion."
+            "对所有敌人造成 250% 伤害。",
+            "面板中所有冰雪系盾牌受到影响。攻击方英雄施放特殊技能时，盾牌得到增强并额外给予 +54% 攻击力；防御方英雄施放特殊技能时，盾牌会被削弱攻击力 -47%。",
+            "对烈火系造成额外伤害。",
+            "元素链赋予所有冰雪系盟友 +5% 闪避几率，持续 6 回合。此效果无法驱散。"
         ]
     },
     {
         "originalIndex": 246,
-        "name": "斯嘉蒂 (Skadi) C1",
+        "name": "希奥弗拉 (Siofra)",
         "effects": [
-            "Deals 320% damage to the target and nearby enemies.",
-            "The damage is increased by 35% per each dead enemy.",
-            "Stack (Max: 10): All enemies receive 49 Frost damage per each killed enemy or enemy Minion at the end of each turn.",
-            "Stack (Max: 10): All enemies get -7% mana generation per each killed enemy or enemy Minion."
+            "对目标及附近敌人造成 290% 伤害。",
+            "攻击会无视防御增益（包括反击）。",
+            "目标与附近敌人获得 -40% 攻击力，持续 3 回合。攻击力每回合减少 -5%，最高可达 -50%。",
+            "目标与附近敌人获得的治疗减少 -80%，持续 3 回合。"
         ]
     },
     {
         "originalIndex": 247,
-        "name": "斯卡恩 (Skarn)",
+        "name": "斯嘉蒂 (Skadi)",
         "effects": [
-            "Deals 185% damage to all enemies.",
-            "All enemies get -30% defense against Ice for 3 turns.",
-            "All enemies receive 378 Frost damage over 3 turns."
+            "对所有敌人造成 220% 伤害。",
+            "每有一个敌人被击败，伤害增加 50%。",
+            "叠加（最多 10 层）：每击败一个敌人或敌人小兵，每回合结束时便会对所有敌人造成 35 点冰冻伤害。",
+            "叠加（最多 10 层）：每击败一个敌人或敌人小兵，所有敌人获得 -6% 法力生成。"
         ]
     },
     {
         "originalIndex": 248,
-        "name": "史莱姆戈 (Slimgo)",
+        "name": "斯嘉蒂 (Skadi) C1",
         "effects": [
-            "Deals 270% damage to all enemies.",
-            "All enemies receive 627 Water damage over 3 turns.",
-            "All enemies get -35% mana generation for 3 turns. (Affects only mana generated from matching tiles or mana gained by the defense team at the end of their turn.)"
+            "对目标及附近敌人造成 320% 伤害。",
+            "每有一个敌人被击败，伤害增加 35%。",
+            "叠加（最多 10 层）：每击败一个敌人或敌人小兵，每回合结束时便会对所有敌人造成 49 点冰冻伤害。",
+            "叠加（最多 10 层）：每击败一个敌人或敌人小兵，所有敌人获得 -7% 法力生成。"
         ]
     },
     {
         "originalIndex": 249,
-        "name": "白雪公主 (Snow White)",
+        "name": "斯卡恩 (Skarn)",
         "effects": [
-            "Cleanses all buffs and status ailments from all allies and enemies.",
-            "Deals 180% damage to all enemies, and additional 15% damage per removed status effect, up to 420% damage in total."
+            "对所有敌人造成 185% 伤害。",
+            "所有敌人获得对冰雪系 -30% 的防御，持续 3 回合。",
+            "所有敌人在 3 回合内受到共计 378 点冰冻伤害。"
         ]
     },
     {
         "originalIndex": 250,
-        "name": "白雪公主 (Snow White) C1",
+        "name": "史莱姆戈 (Slimgo)",
         "effects": [
-            "Dispels and cleanses all buffs and status ailments from all allies and enemies.",
-            "Deals 140% damage to all enemies.",
-            "Deals additional 30% damage per removed status effect, up to 500% damage in total."
+            "对所有敌人造成 270% 伤害。",
+            "所有敌人在 3 回合内受到共计 627 点水系伤害。",
+            "所有敌人获得 -35% 法力生成，持续 3 回合。（只影响通过消除方块或由防御队伍在其回合结束时获得的法力）"
         ]
     },
     {
         "originalIndex": 251,
-        "name": "索贝克 (Sobek)",
+        "name": "白雪公主 (Snow White)",
         "effects": [
-            "Deals 290% damage to all enemies.",
-            "The attack bypasses defensive buffs. This includes counterattacks."
+            "净化所有盟友和敌人的所有增益和状态异常。",
+            "对所有敌人造成 180% 伤害，每移除一个状态效果则额外造成 15% 伤害，最多累计造成 420% 伤害。"
         ]
     },
     {
         "originalIndex": 252,
-        "name": "索贝克 (Sobek) C1",
+        "name": "白雪公主 (Snow White) C1",
         "effects": [
-            "Deals 280% damage to all enemies.",
-            "The attack bypasses defensive buffs. (This includes counterattacks.)",
-            "All enemies receive 528 Bleed damage over 4 turns."
+            "驱散并净化所有盟友和敌人的所有增益和状态异常。",
+            "对所有敌人造成 140% 伤害。",
+            "每移除一个状态效果便造成额外 30% 伤害，最多累计造成 500% 伤害。"
         ]
     },
     {
         "originalIndex": 253,
-        "name": "宋江 (Song Jiang)",
+        "name": "索贝克 (Sobek)",
         "effects": [
-            "This Special Skill has a chance to deal Critical hits. (The chance of dealing a Critical hit is based on Hero’s overall critical chance when the damage is dealt. Critical hits caused by this Special Skill deal 50% more damage. Critical hits can reduces enemies’ max health on PVP battles. This effect is stronger against boosted health.)",
-            "Deals 450% damage to the target and nearby enemies.",
-            "Heals the caster and nearby allies for 20% of damage dealt.",
-            "The target and nearby enemies get silenced for 4 turns.",
-            "The target and nearby enemies get -30% defense for 4 turns."
+            "对所有敌人造成 290% 伤害。",
+            "攻击会无视防御增益（包括反击）。"
         ]
     },
     {
         "originalIndex": 254,
-        "name": "娑柔 (Sorrow)",
+        "name": "索贝克 (Sobek) C1",
         "effects": [
-            "Summons 2 Icebound Sickle Minions for the caster and nearby allies with 18% HP and 30% attack inherited from the caster.",
-            "When summoned, the Icebound Sickle Minion gives +45% attack for its owner for as long as the owner has Icebound Sickle Minions. The attack increases by 5% each turn, up to 60%. This effect can't be cleansed.",
-            "When the Icebound Sickle Minion is destroyed, it deals 135 damage to all enemies."
+            "对所有敌人造成 280% 伤害。",
+            "攻击会无视防御增益。（包括反击）",
+            "所有敌人在 4 回合内受到共计 528 点流血伤害。"
         ]
     },
     {
         "originalIndex": 255,
-        "name": "星游者 (Starwalker)",
+        "name": "宋江 (Song Jiang)",
         "effects": [
-            "This Special Skill never misses its targets.",
-            "Deals 200% damage to all enemies.",
-            "Deals 450 extra damage if the target has boosted health.",
-            "All enemies get -35% defense for 3 turns. If the effect is removed before the duration ends, the target with effect suffers 577 damage."
+            "此特殊技能有几率造成暴击。（造成暴击的几率取决于英雄在造成伤害时的总暴击几率。此特殊技能造成的暴击会额外造成 50% 伤害。暴击可以减少PvP战斗中敌人的最大生命值。此效果对拥有生命加成的目标更强）",
+            "对目标及附近敌人造成 450% 伤害。",
+            "为施法者及附近盟友恢复等同于所造成伤害 20% 的生命值。",
+            "目标与附近敌人陷入沉默，持续 4 回合。",
+            "目标与附近敌人获得 -30% 防御，持续 4 回合。"
         ]
     },
     {
         "originalIndex": 256,
-        "name": "铃奈 (Suzuna)",
+        "name": "娑柔 (Sorrow)",
         "effects": [
-            "Cleanses status ailments from the caster and nearby allies.",
-            "The caster and nearby allies reflect status ailments and negative stacks for 3 turns. Status effects casts by characters, Minions and fiends on the same side cannot be reflected.",
-            "The caster and nearby allies regenerate 855 HP over 3 turns.",
-            "Element Link recovers 4% health for all Ice allies for 4 turns. This effect can't be dispelled."
+            "为施法者和附近盟友召唤 2 个冰封镰刀小兵，其可从施法者处继承 18% 生命和 30% 攻击力。",
+            "冰封镰刀小兵被召唤后，只要其所有者拥有冰封镰刀小兵，其所有者就会获得 +45% 攻击力。攻击力每回合增加 5%，最高可达 60%。此效果无法净化。",
+            "冰封镰刀小兵被摧毁时将对所有敌人造成 135 点伤害。"
         ]
     },
     {
         "originalIndex": 257,
-        "name": "提尔莫因 (Tealmoine)",
+        "name": "星游者 (Starwalker)",
         "effects": [
-            "Steals all dispellable buffs from the target and randomly distributes them on allies.",
-            "The target falls into Deep Sleep and receives +80% increased damage while in Deep Sleep. (The character in Deep Sleep cannot gain mana or attack. The character in Deep Sleep is woken once it takes 500 damage. This effect is uncleasable.)",
-            "Recovers 30% health for all allies."
+            "此特殊技能必定命中。",
+            "对所有敌人造成 200% 伤害。",
+            "如果目标拥有生命加成，则造成 450 点额外伤害。",
+            "所有敌人获得 -35% 防御，持续 3 回合。若该效果在持续时间结束前被移除，其拥有者将受到 577 点伤害。"
         ]
     },
     {
         "originalIndex": 258,
-        "name": "忒提丝 (Tethys)",
+        "name": "铃奈 (Suzuna)",
         "effects": [
-            "Deals 300% damage to target and nearby enemies.",
-            "The target and nearby enemies receive 396 Water damage over 3 turns.",
-            "All allies that are not of Ice element get +30% attack of 3 turns.",
-            "All Ice allies get +60% attack for 3 turns."
+            "净化施法者和附近盟友的状态异常。",
+            "施法者和附近盟友可反弹状态异常和负面效果叠加，持续 3 回合。同队角色、小兵和恶魔施放的状态效果无法反弹。",
+            "施法者和附近盟友在 3 回合内恢复 855 点生命值。",
+            "元素链为所有冰雪系盟友提供 4% 的生命恢复，持续 4 回合。此效果无法驱散。"
         ]
     },
     {
         "originalIndex": 259,
-        "name": "塔拉萨 (Thalassa)",
+        "name": "提尔莫因 (Tealmoine)",
         "effects": [
-            "Special Skill need consecutive uses to reach full power, the following order:",
-            "1st:",
-            " * Boosts health of all allies by 550. Boosted health can exceed max HP.",
-            " * All allies are immune to new status ailments for 3 turns.",
-            "2nd:",
-            " * Boosts health of all allies by 650. Boosted health can exceed max HP.",
-            " * The duration of status ailments is reset for all enemies.",
-            " * All allies are immune to new status ailments for 3 turns."
+            "偷取目标的全部可驱散增益并随机施放给盟友。",
+            "目标陷入深眠且深眠期间受到的伤害增加 +80%。（处于深眠状态的角色无法获得法力或攻击。深眠状态的角色受到 500 点伤害后便会苏醒。此效果不可净化）",
+            "为所有盟友恢复 30% 生命值。"
         ]
     },
     {
         "originalIndex": 260,
-        "name": "塔拉萨 (Thalassa) C1",
+        "name": "忒提丝 (Tethys)",
         "effects": [
-            "Special Skill need consecutive uses to reach full power, the following order:",
-            "1st",
-            " * Boosts health of all allies by 500. Boosted health can exceed max HP.",
-            " * All allies are immune to new status ailments for 3 turns.",
-            "2nd",
-            " * Boosts health of all allies by 800. Boosted health can exceed max HP.",
-            " * The duration of status ailments is reset for all enemies.",
-            " * All allies are immune to new status ailments for 4 turns."
+            "对目标及附近敌人造成 300% 伤害。",
+            "目标与附近敌人在 3 回合内受到共计 396 点水系伤害。",
+            "所有不属于冰雪系的盟友获得 +30% 攻击力，持续 3 回合。",
+            "所有冰雪系盟友获得 +60% 攻击力，持续 3 回合。"
         ]
     },
     {
         "originalIndex": 261,
-        "name": "塔纳托斯 (Thanatos)",
+        "name": "塔拉萨 (Thalassa)",
         "effects": [
-            "Special Skill has a different effect when charged with 100% / 200% / 300% mana:",
-            "1x Mana Charge:",
-            "* Recovers 20% health for all allies.",
-            "* All allies get +24% mana generation for 2 turns.",
-            "2x Mana Charge:",
-            "* Recovers 30% health for all allies.",
-            "* Increases the mana of all allies by 10%.",
-            "3x Mana Charge:",
-            "* Recovers 50% health for all allies.",
-            "* Increases the mana of all allies by 20%.",
-            "* All allies get +40% mana generation for 4 turns."
+            "必须连续使用特殊技能才能达到其最大威力，顺序为：",
+            "第一次：",
+            "* 提高所有盟友 550 点生命值。提高的生命值可以超过最大生命值。",
+            "* 所有盟友对新的状态异常免疫，持续 3 回合。",
+            "第二次：",
+            "* 提高所有盟友 650 点生命值。提高的生命值可以超过最大生命值。",
+            "* 重置所有敌人的状态异常持续时间。",
+            "* 所有盟友对新的状态异常免疫，持续 3 回合。"
         ]
     },
     {
         "originalIndex": 262,
-        "name": "西奥博尔德 (Theobald)",
+        "name": "塔拉萨 (Thalassa) C1",
         "effects": [
-            "Deals 405% damage to the enemy with the highest remaining HP. Deals 260% damage to all other enemies.",
-            "All allies reflect all status effects and 115% damage back to the attacker and block other negative effects from enemies' Nature Special Skills for 4 turns. Status effects cast by characters, Minions and Fiends on the same side cannot be reflected.",
-            "All allies get +45% attack, and a further increase of +20% every time they are hit, for 4 turns."
+            "必须连续使用特殊技能才能达到其最大威力，顺序为：",
+            "第一次：",
+            "* 提高所有盟友 500 点生命值。提高的生命值可以超过最大生命值。",
+            "* 所有盟友对新的状态异常免疫，持续 3 回合。",
+            "第二次：",
+            "* 提高所有盟友 800 点生命值。提高的生命值可以超过最大生命值。",
+            "* 重置所有敌人的状态异常持续时间。",
+            "* 所有盟友对新的状态异常免疫，持续 4 回合。"
         ]
     },
     {
         "originalIndex": 263,
-        "name": "索恩 (Thorne)",
+        "name": "塔纳托斯 (Thanatos)",
         "effects": [
-            "Deals 490% damage to the target and minor damage to nearby enemies"
+            "当特殊技能充能至 100% / 200% / 300% 法力时将拥有不同的效果：",
+            "1 倍法力充能：",
+            "* 为所有盟友恢复 20% 生命值。",
+            "* 所有盟友获得 +24% 法力生成，持续 2 回合。",
+            "2 倍法力充能：",
+            "* 为所有盟友恢复 30% 生命值。",
+            "* 使所有盟友的法力增加 10%。",
+            "3 倍法力充能：",
+            "* 为所有盟友恢复 50% 生命值。",
+            "* 使所有盟友的法力增加 20%。",
+            "* 所有盟友获得 +40% 法力生成，持续 4 回合。"
         ]
     },
     {
         "originalIndex": 264,
-        "name": "索恩 (Thorne) C1",
+        "name": "西奥博尔德 (Theobald)",
         "effects": [
-            "Deals 540% damage to the target.",
-            "The caster gets +24% mana generation for 3 turns. This effect can't be dispelled."
+            "对剩余生命值最高的敌人造成 405% 伤害。对其他所有敌人造成 260% 伤害。",
+            "所有盟友会将来自自然系敌人特殊技能的全部状态效果和 115% 伤害反弹至进攻者，并阻挡该技能的其它负面效果，持续 4 回合。同队角色、小兵和恶魔施放的状态效果无法反弹。",
+            "所有盟友获得 +45% 攻击力，每次被击中后额外增加 +20% 攻击力，持续 4 回合。"
         ]
     },
     {
         "originalIndex": 265,
-        "name": "索恩 (Thorne) C2",
+        "name": "索恩 (Thorne)",
         "effects": [
-            "Deals 360% damage to the target and nearby enemies.",
-            "Reduces the mana of the target and nearby enemies by 15%.",
-            "The caster receives moderate amount of mana over 4 turns."
+            "对目标造成 490% 伤害，并对附近敌人造成轻微伤害。"
         ]
     },
     {
         "originalIndex": 266,
-        "name": "索恩 (Thorne) 卡通",
+        "name": "索恩 (Thorne) C1",
         "effects": [
-            "Deals 640% damage to the target and minor damage to nearby enemies.",
-            "Deals extra damage against Fire."
+            "对目标造成 540% 伤害。",
+            "施法者获得 +24% 法力生成，持续 3 回合。此效果无法驱散。"
         ]
     },
     {
         "originalIndex": 267,
-        "name": "蒂米乌斯 (Timius)",
+        "name": "索恩 (Thorne) C2",
         "effects": [
-            "Dispels buffs from the target and nearby enemies.",
-            "Attacks the target and nearby enemies with Moonrise Strike, dealing up to 1500 damage. Deals 40% more damage if the target is Holy.",
-            "The target and nearby enemies are immune to new status effect buffs for 3 turns."
+            "对目标及附近敌人造成 360% 伤害。",
+            "使目标和附近敌人的法力减少 15%。",
+            "施法者在 4 回合内恢复适量法力。"
         ]
     },
     {
         "originalIndex": 268,
-        "name": "金丝儿 (Tinsel)",
+        "name": "索恩 (Thorne) 卡通",
         "effects": [
-            "Deals 340% damage to the target and nearby enemies.",
-            "Summons an Elf Minion for each ally with 10% HP and 10% attack inherited from the caster.",
-            "The target and nearby enemies get -14% defense, and a further -5% decrease per each Ice shield on the board for 4 turns, up to -54% defense.",
-            "The target and nearby enemies get -10% accuracy, and a further -5% decrease per each Ice shield on the board for 4 turns, up to -50% accuracy."
+            "对目标造成 640% 伤害，并对附近敌人造成轻微伤害。",
+            "对烈火系造成额外伤害。"
         ]
     },
     {
         "originalIndex": 269,
-        "name": "特烈末 (Tremor)",
+        "name": "蒂米乌斯 (Timius)",
         "effects": [
-            "All allies recover 500 health after 3 turns. If this effect is removed before the duration ends, recovers 800 health instead.",
-            "The caster deals 500 damage to all enemies after 3 turns. If this effect is removed or replaced before the duration ends, deals 800 damage instead.",
-            "Stack (Max: 10): The caster gets +15% attack against the weaker element."
+            "驱散目标和附近敌人身上的增益。",
+            "使用月出闪袭攻击目标和附近敌人，造成最多 1500 点伤害。若目标为神圣系元素则额外造成 40% 伤害。",
+            "目标和附近敌人对新的增益状态效果免疫，持续 3 回合。"
         ]
     },
     {
         "originalIndex": 270,
-        "name": "尤留思 (Ulius)",
+        "name": "金丝儿 (Tinsel)",
         "effects": [
-            "Special Skill has a different effect when charged with 100%/200% mana:",
-            "1x Mana Charge:",
-            " * Summons an Enchanted Sigil Minion for each ally with 15% HP and 20% attack inherited from the caster.",
-            " * When summoned, the Enchanted Sigil Minion gives +20% mana generation for its owner for as long as the owner has Enchanted Sigil Minions. This effect can’t be dispelled.",
-            "2x Mana Charge:",
-            " * Summons a Cursed Sigil Field to all enemies. The Fiend damages its target with 100% attack every turn.",
-            " * The Cursed Sigil Fiend absorbs healing. It disappers after absorbing a healing amount equal to 60% of its target’s max health.",
-            " * When summoned, the Cursed Sigil Fiend give -38% mana generation for its owner for as long as the owner has Cursed Sigil Fiends. This effect can’t be cleansed."
+            "对目标及附近敌人造成 340% 伤害。",
+            "为每位盟友召唤一个精灵小兵，此小兵继承施法者 10% 的生命值和 10% 的攻击力。",
+            "目标与附近敌人获得 -14% 防御，且面板上每有一面冰雪系盾牌则进一步降低 -5%，持续 4 回合，最多累计至 -54% 防御。",
+            "目标与附近敌人获得 -10% 精准度，且面板上每有一面冰雪系盾牌则进一步降低 -5%，持续 4 回合，最多累计至 -50% 精准度。"
         ]
     },
     {
         "originalIndex": 271,
-        "name": "维拉 (Vela)",
+        "name": "特烈末 (Tremor)",
         "effects": [
-            "Deals 230% damage to all enemies.",
-            "All enemies receive 318 Water damage over 3 turns.",
-            "All enemies get -34% attack for 3 turns.",
-            "Deals extra damage against Fire.",
-            "Element link gives all Ice allies +10% critical chance for 6 turns. This effect can't be dispelled."
+            "所有盟友在 3 回合后恢复 500 点生命值。若该效果在持续时间结束前被移除，则改为恢复 800 点生命值。",
+            "3 回合后，施法者对所有敌人造成 500 点伤害。若该效果在持续时间结束前被移除或取代，则改为造成 800 点伤害。",
+            "叠加（最多 10 层）：施法者对所克制元素的攻击力提高 +15%。"
         ]
     },
     {
         "originalIndex": 272,
-        "name": "维里蒂 (Verity)",
+        "name": "尤留思 (Ulius)",
         "effects": [
-            "Deals 350% damage to the target and nearby enemies.",
-            "Enhanced Defense Ailment: The target and nearby enemies get -50% defense against Special Skills. This effect lasts until the enemy takes damage from Special Skill 3 times.",
-            "After the Enhanced Defense Ailment ends or is removed or replaced, the enemy gets -40% mana generation for 3 turns."
+            "当特殊技能充能至 100% / 200% 法力时将拥有不同的效果：",
+            "1 倍法力充能：",
+            "* 为每位盟友召唤一个迷幻印记小兵，其可从施法者处继承 15% 生命和 20% 攻击力。",
+            "* 迷幻印记小兵被召唤后，只要其所有者拥有迷幻印记小兵，其所有者就会获得 +20% 法力生成。此效果无法驱散。",
+            "2 倍法力充能：",
+            "* 召唤一个诅咒印记恶魔附身于所有敌人。恶魔每回合对其目标造成 100% 攻击力的伤害。",
+            "* 诅咒印记恶魔会吸收治疗。它在吸收了相当于其目标最大生命值 60% 的治疗量后便会消失。",
+            "* 诅咒印记恶魔被召唤后，只要其所有者拥有诅咒印记恶魔，其所有者就会获得 -38% 法力生成。此效果无法净化。"
         ]
     },
     {
         "originalIndex": 273,
-        "name": "文森特 (Vincent)",
+        "name": "维拉 (Vela)",
         "effects": [
-            "If the enemy has the Frost status ailment:",
-            " * All enemies get -30% defense against Ice for 5 turns.",
-            " * Deals 270% damage to all enemies.",
-            "Otherwise:",
-            " * Deals 200% damage to all enemies.",
-            " * All enemies receive 705 Frost damage over 5 turns."
+            "对所有敌人造成 230% 伤害。",
+            "所有敌人在 3 回合内受到共计 318 点水系伤害。",
+            "所有敌人获得 -34% 攻击力，持续 3 回合。",
+            "对烈火系造成额外伤害。",
+            "元素链为全体冰雪系盟友提供 +10% 的暴击几率，持续 6 回合。此效果无法驱散。"
         ]
     },
     {
         "originalIndex": 274,
-        "name": "水贯 (Waterpipe)",
+        "name": "维里蒂 (Verity)",
         "effects": [
-            "Summons a Harpoon Sentry Minion for each ally with 12% HP and 20% attack inherited from the caster.",
-            "Each hit from a Harpoon Sentry Minion reduces the mana of the target by -5% and gives the target the following status ailments:",
-            " * The target gets -30% defense against Special Skills for 2 turns.",
-            " * The target is immune to new status effect buffs for 2 turns."
+            "对目标及附近敌人造成 350% 伤害。",
+            "强化防御异常：目标与附近敌人获得对特殊技能 -50% 的防御。此效果在敌人受到 3 次特殊技能伤害后消失。",
+            "强化防御异常结束后、被移除或被替换后，敌人获得 -40% 法力生成，持续 3 回合。"
         ]
     },
     {
         "originalIndex": 275,
-        "name": "白牙 (Whitefang)",
+        "name": "文森特 (Vincent)",
         "effects": [
-            "Dispels buffs from the target.",
-            "Deals 550% damage to the target.",
-            "The target receives lasting 300 Frost damage per turn. This effect spreads to nearby enemies. (This effect lasts until it is cleansed or removed."
+            "如果敌人有冰冻状态异常：",
+            "* 所有敌人获得对冰雪系 -30% 的防御，持续 5 回合。",
+            "* 对所有敌人造成 270% 伤害。",
+            "否则：",
+            "* 对所有敌人造成 200% 伤害。",
+            "* 所有敌人在 5 回合内受到共计 705 点冰冻伤害。"
         ]
     },
     {
         "originalIndex": 276,
-        "name": "扎帕 (Zappa)",
+        "name": "水贯 (Waterpipe)",
         "effects": [
-            "Deals 350% damage to the target.",
-            "Summons an Elf Minion with 10% HP and 10% attack inherited from the caster.",
-            "The target receives 531 Frost damage over 3 turns. This effect spreads to nearby enemies."
+            "为每位盟友召唤一个鱼叉岗哨小兵，其可从施法者处继承 12% 生命和 20% 攻击力。",
+            "鱼叉岗哨小兵每次击中目标都会使目标的法力减少 -5%，并给予目标以下状态异常：",
+            "* 目标获得对特殊技能 -30% 的防御，持续 2 回合。",
+            "* 目标对新的增益状态效果免疫，持续 2 回合。"
         ]
     },
     {
         "originalIndex": 277,
-        "name": "曾迦 (Zengar)",
+        "name": "白牙 (Whitefang)",
         "effects": [
-            "Deals 200% damage to the target.",
-            "If the target is of Fire element, deals 450% damage to nearby enemies.",
-            "The target receives 447 Frost damage over 3 turns.",
-            "If the target is of Fire element, nearby enemies receive 579 Frost damage over 3 turns."
+            "驱散目标身上的增益。",
+            "对目标造成 550% 伤害。",
+            "目标每回合受到 300 点冰冻伤害，持续无限回合。此效果会蔓延至附近敌人（此效果会一直持续到被净化或移除为止）。"
         ]
     },
     {
         "originalIndex": 278,
-        "name": "锆英 (Zircon)",
+        "name": "扎帕 (Zappa)",
         "effects": [
-            "Special Skill has a different effect when charged with 100%/200%/300% mana:",
-            "1x Mana Charge:",
-            " - All allies regenerate 144 boosted health over 2 turns. Boosted health can exceed max HP.",
-            " - All allies get +24% defense, and a further 5% increase every time they are hit during 2 turns.",
-            " - All allies are immune to buff dispels for 2 turns.",
-            "2x Mana Charge:",
-            " - All allies regenerate 504 boosted health over 3 turns. Boosted health can exceed max HP.",
-            " - All allies get +34% defense, and a further 5% increase every time they are hit during 3 turns.",
-            " - All allies are immune to buff dispels for 3 turns.",
-            "3x Mana Charge:",
-            " - All allies regenerate 980 boosted health over 4 turns. Boosted health can exceed max HP.",
-            " - All allies get +54% defense, and a further 5% increase every time they are hit during 4 turns.",
-            " - All allies are immune to buff dispels for 4 turns."
+            "对目标造成 350% 伤害。",
+            "召唤一个精灵小兵，此小兵继承施法者 10% 的生命值和 10% 的攻击力。",
+            "目标在 3 回合内受到共计 531 点冰冻伤害。此效果会蔓延至附近敌人。"
         ]
     },
     {
         "originalIndex": 279,
-        "name": "奥伊芙 (Aife)",
+        "name": "曾迦 (Zengar)",
         "effects": [
-            "Deals 275% damage to the target"
+            "对目标造成 200% 伤害。",
+            "若目标为烈火系元素，则对附近敌人造成 450% 伤害。",
+            "目标在 3 回合内受到共计 447 点冰冻伤害。",
+            "若目标为烈火系，则其附近敌人将在 3 回合内受到共计 579 点冰冻伤害。"
         ]
     },
     {
         "originalIndex": 280,
-        "name": "德里克 (Derric)",
+        "name": "锆英 (Zircon)",
         "effects": [
-            "Deals 255% damage to the target"
+            "当特殊技能充能至 100% / 200% / 300% 法力时将拥有不同的效果：",
+            "1 倍法力充能：",
+            "- 所有盟友在 2 回合内获得共计 144 点生命加成。提高的生命值可以超过最大生命值。",
+            "- 所有盟友获得 +24% 防御，每次被击中后额外增加 5% 防御，持续 2 回合。",
+            "- 所有盟友对增益驱散免疫，持续 2 回合。",
+            "2 倍法力充能：",
+            "- 所有盟友在 3 回合内获得共计 504 点生命加成。提高的生命值可以超过最大生命值。",
+            "- 所有盟友获得 +34% 防御，每次被击中后额外增加 5% 防御，持续 3 回合。",
+            "- 所有盟友对增益驱散免疫，持续 3 回合。",
+            "3 倍法力充能：",
+            "- 所有盟友在 4 回合内获得共计 980 点生命加成。提高的生命值可以超过最大生命值。",
+            "- 所有盟友获得 +54% 防御，每次被击中后额外增加 5% 防御，持续 4 回合。",
+            "- 所有盟友对增益驱散免疫，持续 4 回合。"
         ]
     },
     {
         "originalIndex": 281,
-        "name": "布洛根 (Brogan)",
+        "name": "奥伊芙 (Aife)",
         "effects": [
-            "Deals 200% damage to the target and minor damage to nearby enemies"
+            "对目标造成 275% 伤害。"
         ]
     },
     {
         "originalIndex": 282,
-        "name": "詹内 (Jenneh)",
+        "name": "德里克 (Derric)",
         "effects": [
-            "Deals 245% damage to the target"
+            "对目标造成 255% 伤害。"
         ]
     },
     {
         "originalIndex": 283,
-        "name": "刺头 (Needler)",
+        "name": "布洛根 (Brogan)",
         "effects": [
-            "Deals 250% damage to the target"
+            "对目标造成 200% 伤害，并对附近敌人造成轻微伤害。"
         ]
     },
     {
         "originalIndex": 284,
-        "name": "阿莱西亚 (Alessia)",
+        "name": "詹内 (Jenneh)",
         "effects": [
-            "Deals 250% damage to the target and nearby enemies.",
-            "Reduces max health of the target and nearby enemies by 204 over 3 turns. The effect is stronger against targets with boosted health. Max health can’t get lower than 30% of max health. Any boosted health is reduced by an additional 68 per turn."
+            "对目标造成 245% 伤害。"
         ]
     },
     {
         "originalIndex": 285,
-        "name": "贝丽丝 (Belith)",
+        "name": "刺头 (Needler)",
         "effects": [
-            "Recovers 32% health for all allies.",
-            "Dispels buffs from all enemies."
+            "对目标造成 250% 伤害。"
         ]
     },
     {
         "originalIndex": 286,
-        "name": "贝丽丝 (Belith) C1",
+        "name": "阿莱西亚 (Alessia)",
         "effects": [
-            "All allies regenerate 459 HP over 3 turns.",
-            "All allies are immune to buff dispells for 3 turns."
+            "对目标及附近敌人造成 250% 伤害。",
+            "使目标和附近敌人在 3 回合内减少共计 204 点最大生命值。若目标拥有提高的生命值，此效果会增强。最大生命值不能低于初始最大生命值的 30%。任何提高的生命值会额外减少每回合 68 点。"
         ]
     },
     {
         "originalIndex": 287,
-        "name": "贝丽丝 (Belith) 卡通",
+        "name": "贝丽丝 (Belith)",
         "effects": [
-            "Recovers 35% health for all allies.",
-            "All allies get +34% defense for 3 turns. For all Nature characters, this status effect becomes undispellable and lasts 2 turns longer.",
-            "Dispels buffs from all enemies."
+            "为所有盟友恢复 32% 生命值。",
+            "驱散所有敌人的增益。"
         ]
     },
     {
         "originalIndex": 288,
-        "name": "贝丽丝 (Belith) 玻璃",
+        "name": "贝丽丝 (Belith) C1",
         "effects": [
-            "Recovers 36% health for all allies.",
-            "All Nature allies reflect status ailments and negative stacks for 2 turns. (Status effect cast by characters, Minions and Fiends on the same side cannot be reflected.)",
-            "Dispels buffs from all enemies."
+            "所有盟友在 3 回合内恢复 459 点生命值。",
+            "所有盟友对增益驱散免疫，持续 3 回合。"
         ]
     },
     {
         "originalIndex": 289,
-        "name": "博尔登 (Berden)",
+        "name": "贝丽丝 (Belith) 卡通",
         "effects": [
-            "Deals 325% damage to the target.",
-            "The target gets -34% attack for 6 turns."
+            "为所有盟友恢复 35% 生命值。",
+            "所有盟友获得 +34% 防御，持续 3 回合。对所有自然系角色，此状态效果不可驱散且持续时间延长 2 回合。",
+            "驱散所有敌人的增益。"
         ]
     },
     {
         "originalIndex": 290,
-        "name": "博尔登 (Berden) C1",
+        "name": "贝丽丝 (Belith) 玻璃",
         "effects": [
-            "Deals 325% damage to the target.",
-            "The target gets -34% defense for 6 turns."
+            "为所有盟友恢复 36% 生命值。",
+            "所有自然系盟友可反弹状态异常和负面效果叠加，持续 2 回合。（同队角色、小兵和恶魔施放的状态效果无法反弹）",
+            "驱散所有敌人的增益。"
         ]
     },
     {
         "originalIndex": 291,
-        "name": "博尔登 (Berden) 卡通",
+        "name": "博尔登 (Berden)",
         "effects": [
-            "Deals 330% damage to the target.",
-            "The target gets -24% attack for 6 turns.",
-            "Deals extra damage against Ice."
+            "对目标造成 325% 伤害。",
+            "目标获得 -34% 攻击力，持续 6 回合。"
         ]
     },
     {
         "originalIndex": 292,
-        "name": "博尔登 (Berden) 玻璃",
+        "name": "博尔登 (Berden) C1",
         "effects": [
-            "Deals 340% damage to the target.",
-            "The attack bypasses defensive buffs. (This includes counterattacks.)",
-            "The target gets -29% attack for 6 turns."
+            "对目标造成 325% 伤害。",
+            "目标获得 -34% 防御，持续 6 回合。"
         ]
     },
     {
         "originalIndex": 293,
-        "name": "布里恩妮 (Brienne)",
+        "name": "博尔登 (Berden) 卡通",
         "effects": [
-            "All allies get +45% attack and a further 20% increase every time they are hit during 5 turns"
+            "对目标造成 330% 伤害。",
+            "目标获得 -24% 攻击力，持续 6 回合。",
+            "对冰雪系造成额外伤害。"
         ]
     },
     {
         "originalIndex": 294,
-        "name": "布里恩妮 (Brienne) C1",
+        "name": "博尔登 (Berden) 玻璃",
         "effects": [
-            "All enemies get -41% defense and a further -4% decrease every time they are hit for 4 turns"
+            "对目标造成 340% 伤害。",
+            "攻击会无视防御增益。（包括反击）",
+            "目标获得 -29% 攻击力，持续 6 回合。"
         ]
     },
     {
         "originalIndex": 295,
-        "name": "布里恩妮 (Brienne) 卡通",
+        "name": "布里恩妮 (Brienne)",
         "effects": [
-            "All allies get 45% attack, and a further 20% increase every time they are hit during 5 turns. For all Nature characters, this status effect becomes undispellable and lasts 2 turns longer."
+            "所有盟友获得 +45% 攻击力，每次被击中后额外增加 20% 攻击力，持续 5 回合。"
         ]
     },
     {
         "originalIndex": 296,
-        "name": "布里恩妮 (Brienne) 玻璃",
+        "name": "布里恩妮 (Brienne) C1",
         "effects": [
-            "All allies get +50% attack, and a further 20% increase every time they are hit during 5 turns.",
-            "All Nature allies reflect status ailments and negative stacks for 2 turns. (Status effect cast by characters, Minions and Fiends on the same side cannot be reflected.)"
+            "所有敌人获得 -41% 防御，且在每次被击中时再降低 -4% 防御，持续 4 回合。"
         ]
     },
     {
         "originalIndex": 297,
-        "name": "拜伍尔夫 (By-Ulf)",
+        "name": "布里恩妮 (Brienne) 卡通",
         "effects": [
-            "The caster and nearby allies get +48% attack for 4 turns.",
-            "The caster and nearby allies get +46% defense for 4 turns.",
-            "The caster and nearby allies regenerate 612 HP over 4 turns.",
-            "After 4 turns the caster gets status ailments.",
-            " ",
-            "The status ailments that the caster gets after 4 turns are:",
-            "The caster gets -34% attack for 4 turns. This effect can't be cleansed.",
-            "The caster gets -34% defense for 4 turns. This effect can't be cleansed.",
-            "The caster gets -24% mana generation for 4 turns. This effect can't be cleansed."
+            "所有盟友获得 45% 攻击力，每次被击中后额外增加 20% 攻击力，持续 5 回合。对所有自然系角色，此状态效果不可驱散且持续时间延长 2 回合。"
         ]
     },
     {
         "originalIndex": 298,
-        "name": "卡沃 (Carver)",
+        "name": "布里恩妮 (Brienne) 玻璃",
         "effects": [
-            "Deals 125% damage to all enemies.",
-            "Reduces the mana of all enemies by 16%."
+            "所有盟友获得 +50% 攻击力，每次被击中后额外增加 20% 攻击力，持续 5 回合。",
+            "所有自然系盟友可反弹状态异常和负面效果叠加，持续 2 回合。（同队角色、小兵和恶魔施放的状态效果无法反弹）"
         ]
     },
     {
         "originalIndex": 299,
-        "name": "卡沃 (Carver) C1",
+        "name": "拜伍尔夫 (By-Ulf)",
         "effects": [
-            "Deals 125% damage to all enemies.",
-            "All enemies get -24% mana generation for 3 turns. This effect can't be cleansed."
+            "施法者和附近盟友获得 +48% 攻击力，持续 4 回合。",
+            "施法者和附近盟友获得 +46% 防御，持续 4 回合。",
+            "施法者和附近盟友在 4 回合内恢复 612 点生命值。",
+            "4 回合后施法者获得状态异常。",
+            "施法者在 4 回合后获得的状态异常为：",
+            "施法者获得 -34% 攻击力，持续 4 回合。此效果无法净化。",
+            "施法者获得 -34% 防御，持续 4 回合。此效果无法净化。",
+            "施法者获得 -24% 法力生成，持续 4 回合。此效果无法净化。"
         ]
     },
     {
         "originalIndex": 300,
-        "name": "卡沃 (Carver) 卡通",
+        "name": "卡沃 (Carver)",
         "effects": [
-            "Deals 155% damage to all enemies.",
-            "Reduces the mana of all enemies by 10%.",
-            "Deals extra damage against Ice."
+            "对所有敌人造成 125% 伤害。",
+            "使所有敌人的法力减少 16%。"
         ]
     },
     {
         "originalIndex": 301,
-        "name": "卡沃 (Carver) 玻璃",
+        "name": "卡沃 (Carver) C1",
         "effects": [
-            "Deals 165% damage to all enemies.",
-            "The attack bypasses defensive buffs. (This includes counterattacks.)",
-            "Reduces the mana of all enemies by -15%."
+            "对所有敌人造成 125% 伤害。",
+            "所有敌人获得 -24% 法力生成，持续 3 回合。此效果无法净化。"
         ]
     },
     {
         "originalIndex": 302,
-        "name": "奇雷斯 (Chires)",
+        "name": "卡沃 (Carver) 卡通",
         "effects": [
-            "Boosts health for the caster and nearby allies by 350. Boosted health can exceed max HP.",
-            "Growth: the caster and nearby allies get 50 attack and 50 defense."
+            "对所有敌人造成 155% 伤害。",
+            "使所有敌人的法力减少 10%。",
+            "对冰雪系造成额外伤害。"
         ]
     },
     {
         "originalIndex": 303,
-        "name": "多尔根 (Dolgoon)",
+        "name": "卡沃 (Carver) 玻璃",
         "effects": [
-            "Special Skill has a different effect when charged with 100%/200% mana:",
-            "1x Mana Charge:",
-            " * All allies become Soul Connected for 3 turns. Soul Connected allies share received damage.",
-            " * All allies get +63% defense for 3 turns.",
-            "2x Mana Charge:",
-            " * All allies become Soul Connected for 5 turns. Soul Connected allies share received damage.",
-            " * All enemies get -56% defense for 5 turns."
+            "对所有敌人造成 165% 伤害。",
+            "攻击会无视防御增益。（包括反击）",
+            "使所有敌人的法力减少 -15%。"
         ]
     },
     {
         "originalIndex": 304,
-        "name": "法伊兹 (Faiez)",
+        "name": "奇雷斯 (Chires)",
         "effects": [
-            "Boost health of all allies by 350. Boosted health can exceed max HP.",
-            "All allies are immune to new status ailments for 4 turns.",
-            "All allies get +30% defense for 4 turns"
+            "提高施法者和附近盟友 350 点生命值。提高的生命值可以超过最大生命值。",
+            "成长：施法者和附近盟友获得 50 点攻击力和 50 点防御。"
         ]
     },
     {
         "originalIndex": 305,
-        "name": "法伊兹 (Faiez) C1",
+        "name": "多尔根 (Dolgoon)",
         "effects": [
-            "Boost health of all allies by 300. Boosted health can exceed max HP.",
-            "All allies are immune to new status ailments for 4 turns.",
-            "All allies get +40% defense for 4 turns."
+            "当特殊技能充能至 100% / 200% 法力时将拥有不同的效果：",
+            "1 倍法力充能：",
+            "* 所有盟友变得灵魂相连，持续 3 回合。灵魂相连的盟友将平摊所受伤害。",
+            "* 所有盟友获得 +63% 防御，持续 3 回合。",
+            "2 倍法力充能：",
+            "* 所有盟友变得灵魂相连，持续 5 回合。灵魂相连的盟友将平摊所受伤害。",
+            "* 所有敌人获得 -56% 防御，持续 5 回合。"
         ]
     },
     {
         "originalIndex": 306,
-        "name": "费瑟里诺 (Featherino)",
+        "name": "法伊兹 (Faiez)",
         "effects": [
-            "Attacks the target and nearby enemies with Moonrise Strike, dealing up to 700 damage. Deals 20% more damage if the target is of the Holy element. This Special Skill never misses its targets."
+            "提高所有盟友 350 点生命值。提高的生命值可以超过最大生命值。",
+            "所有盟友对新的状态异常免疫，持续 4 回合。",
+            "所有盟友获得 +30% 防御，持续 4 回合。"
         ]
     },
     {
         "originalIndex": 307,
-        "name": "菲安娜 (Fianna)",
+        "name": "法伊兹 (Faiez) C1",
         "effects": [
-            "Deals 225% damage to the target and nearby enemies.",
-            "Summons a Bone Trap Fiend for the target and nearby enemies. The Fiend damages the enemy with 45% attack each turn. The damage increases by 8% each turn, up to a maximum of 93%.",
-            "The Bone Trap Fiend absorbs healing and disappears when it has absorbed health equal to 35% of its owner’s max health."
+            "提高所有盟友 300 点生命值。提高的生命值可以超过最大生命值。",
+            "所有盟友对新的状态异常免疫，持续 4 回合。",
+            "所有盟友获得 +40% 防御，持续 4 回合。"
         ]
     },
     {
         "originalIndex": 308,
-        "name": "塔克修士 (Friar Tuck)",
+        "name": "费瑟里诺 (Featherino)",
         "effects": [
-            "Recovers 37% health for the caster and nearby allies.",
-            "The caster and nearby allies get +24% mana generation for 3 turns."
+            "使用月出闪袭攻击目标和附近敌人，造成最多 700 点伤害。若目标为神圣系元素则额外造成 20% 伤害。该攻击必定命中。"
         ]
     },
     {
         "originalIndex": 309,
-        "name": "塔克修士 (Friar Tuck) C1",
+        "name": "菲安娜 (Fianna)",
         "effects": [
-            "Recovers 22% health for all allies.",
-            "All allies get +24% mana generation for 3 turns."
+            "对目标及附近敌人造成 225% 伤害。",
+            "召唤刺骨陷阱恶魔附身于目标及附近敌人。恶魔每回合对敌人造成 45% 攻击力的伤害。该伤害每回合提高 8%，最高可达 93%。",
+            "刺骨陷阱恶魔会吸收治疗，当吸收的治疗量达到其所有者最大生命值的 35% 时，它便会消失。"
         ]
     },
     {
         "originalIndex": 310,
-        "name": "塔克修士 (Friar Tuck) 卡通",
+        "name": "塔克修士 (Friar Tuck)",
         "effects": [
-            "Recovers 40% health for the caster and nearby allies.",
-            "The caster and nearby allies get +12% mana generation for 3 turns. For all Nature characters, this status effect becomes undispellable and lasts 2 turns longer."
+            "为施法者和附近盟友恢复 37% 生命值。",
+            "施法者和附近盟友获得 +24% 法力生成，持续 3 回合。"
         ]
     },
     {
         "originalIndex": 311,
-        "name": "塔克修士 (Friar Tuck) 玻璃",
+        "name": "塔克修士 (Friar Tuck) C1",
         "effects": [
-            "Recovers 42% health for the caster and nearby allies.",
-            "The caster and nearby allies get +15% mana generation for 3 turns.",
-            "All Nature allies reflect status ailments and negative stacks for 2 turns. (Status effect cast by characters, Minions and Fiends on the same side cannot be reflected.)"
+            "为所有盟友恢复 22% 生命值。",
+            "所有盟友获得 +24% 法力生成，持续 3 回合。"
         ]
     },
     {
         "originalIndex": 312,
-        "name": "寅将军 (General Yin)",
+        "name": "塔克修士 (Friar Tuck) 卡通",
         "effects": [
-            "Dispels buffs from all enemies.",
-            "Deals 180% damage to all enemies.",
-            "Deals additional 8% damage per removed status effect, up to 276% damage in total."
+            "为施法者和附近盟友恢复 40% 生命值。",
+            "施法者和附近盟友获得 +12% 法力生成，持续 3 回合。对所有自然系角色，此状态效果不可驱散且持续时间延长 2 回合。"
         ]
     },
     {
         "originalIndex": 313,
-        "name": "诺莫尔 (Gnomer)",
+        "name": "塔克修士 (Friar Tuck) 玻璃",
         "effects": [
-            "Deals 250% damage to the target.",
-            "The target receives 94 Bleed damage over 2 turns."
+            "为施法者和附近盟友恢复 42% 生命值。",
+            "施法者和附近盟友获得 +15% 法力生成，持续 3 回合。",
+            "所有自然系盟友可反弹状态异常和负面效果叠加，持续 2 回合。（同队角色、小兵和恶魔施放的状态效果无法反弹）"
         ]
     },
     {
         "originalIndex": 314,
-        "name": "小黏糊 (Goopy)",
+        "name": "寅将军 (General Yin)",
         "effects": [
-            "Deals 125% damage to all enemies.",
-            "Deals additional 12% damage per each Nature shield on the board, up to 221% damage in total.",
-            "All enemies get -24% mana generation, and a further 2% decrease per each Nature shield on the board for 3 turns, up to -40% mana generation."
+            "驱散所有敌人的增益。",
+            "对所有敌人造成 180% 伤害。",
+            "每移除一个状态效果便造成额外 8% 伤害，最多累计造成 276% 伤害。"
         ]
     },
     {
         "originalIndex": 315,
-        "name": "格兰普斯 (Gramps)",
+        "name": "诺莫尔 (Gnomer)",
         "effects": [
-            "Each fallen ally has a 33% chance to get revived with 23% HP.",
-            "All allies receive a small ammount of mana over 4 turns."
+            "对目标造成 250% 伤害。",
+            "目标在 2 回合内受到共计 94 点流血伤害。"
         ]
     },
     {
         "originalIndex": 316,
-        "name": "格兰普斯 (Gramps) C1",
+        "name": "小黏糊 (Goopy)",
         "effects": [
-            "Each fallen ally has a 33% chance to get revived with 23% HP.",
-            "All allies regenerate 324 HP over 4 turns."
+            "对所有敌人造成 125% 伤害。",
+            "面板上每存在一个自然系盾牌，便额外造成 12% 伤害，最多累计造成 221% 伤害。",
+            "所有敌人获得 -24% 法力生成，且面板上每有一面自然系盾牌则进一步降低 2%，持续 3 回合，最多累计至 -40% 法力生成。"
         ]
     },
     {
         "originalIndex": 317,
-        "name": "格里弗 (Grevle)",
+        "name": "格兰普斯 (Gramps)",
         "effects": [
-            "Boosts health of all allies by 250. Boosted health can exceed max HP.",
-            "All allies get +30% attack for 4 turns."
+            "每名阵亡的盟友有 33% 的几率以 23% 的生命值复活。",
+            "所有盟友在 4 回合内恢复少量法力。"
         ]
     },
     {
         "originalIndex": 318,
-        "name": "阿骏 (Hisan)",
+        "name": "格兰普斯 (Gramps) C1",
         "effects": [
-            "Deals 280% damage to the target.",
-            "The target receives 104 damage over 4 turns.",
-            "The target gets -100% increase for any healing received for 2 turns. This effect can't be cleansed.",
-            "Cleanses status ailments from the caster."
+            "每名阵亡的盟友有 33% 的几率以 23% 的生命值复活。",
+            "所有盟友在 4 回合内恢复 324 点生命值。"
         ]
     },
     {
         "originalIndex": 319,
-        "name": "伊师塔克 (Isshtak)",
+        "name": "格里弗 (Grevle)",
         "effects": [
-            "Deals 260% damage to the target and minor damage to nearby enemies."
+            "提高所有盟友 250 点生命值。提高的生命值可以超过最大生命值。",
+            "所有盟友获得 +30% 攻击力，持续 4 回合。"
         ]
     },
     {
         "originalIndex": 320,
-        "name": "伊师塔克 (Isshtak) C1",
+        "name": "阿骏 (Hisan)",
         "effects": [
-            "Deals 185% damage to the target and minor damage to nearby enemies.",
-            "The target and nearby enemies get -44% defense for 4 turns."
+            "对目标造成 280% 伤害。",
+            "目标在 4 回合内受到共计 104 点伤害。",
+            "目标获得的治疗增加 -100%，持续 2 回合。此效果无法净化。",
+            "净化施法者的状态异常。"
         ]
     },
     {
         "originalIndex": 321,
-        "name": "伊师塔克 (Isshtak) 卡通",
+        "name": "伊师塔克 (Isshtak)",
         "effects": [
-            "Deals 290% damage to the target and minor damage to nearby enemies.",
-            "Deals extra damage against Ice."
+            "对目标造成 260% 伤害，并对附近敌人造成轻微伤害。"
         ]
     },
     {
         "originalIndex": 322,
-        "name": "荆 (Jing)",
+        "name": "伊师塔克 (Isshtak) C1",
         "effects": [
-            "Deals 340% damage to the target.",
-            "Summons a Shu Soldier Minion with 16% HP and 17% attack inherited from the caster.",
-            "When summoned, the Shu Soldier Minion gives its owner the ability to counterattack with 60% of the damage received for as long as the owner has a Shu Soldier Minion. This effect can’t be dispelled."
+            "对目标造成 185% 伤害，并对附近敌人造成轻微伤害。",
+            "目标与附近敌人获得 -44% 防御，持续 4 回合。"
         ]
     },
     {
         "originalIndex": 323,
-        "name": "内修斯 (Mnesseus)",
+        "name": "伊师塔克 (Isshtak) 卡通",
         "effects": [
-            "Deals 320% damage to the target.",
-            "Dispels buffs from all enemies."
+            "对目标造成 290% 伤害，并对附近敌人造成轻微伤害。",
+            "对冰雪系造成额外伤害。"
         ]
     },
     {
         "originalIndex": 324,
-        "name": "内修斯 (Mnesseus) C1",
+        "name": "荆 (Jing)",
         "effects": [
-            "Deals 320% damage to the target.",
-            "Cleanses status ailments from all allies."
+            "对目标造成 340% 伤害。",
+            "召唤一个蜀军小兵，其可从施法者处继承 16% 生命和 17% 攻击力。",
+            "蜀军小兵被召唤后，在拥有该小兵期间，该小兵使其所有者能以所受伤害的 60% 作出反击。此效果无法驱散。"
         ]
     },
     {
         "originalIndex": 325,
-        "name": "麻吉 (Muggy)",
+        "name": "内修斯 (Mnesseus)",
         "effects": [
-            "All allies become Bruiser Bros for 4 turns. If an ally is defeated while being a Bruiser Bro they will be reborn as a Chameleon with:",
-            " * 66% health.",
-            " * Increased attack.",
-            " * Decreased defense.",
-            "* Devastating Special Skill: Fierce Slash.",
-            " * This effect cannot be dispelled."
+            "对目标造成 320% 伤害。",
+            "驱散所有敌人的增益。"
         ]
     },
     {
         "originalIndex": 326,
-        "name": "诺里尔 (Noril)",
+        "name": "内修斯 (Mnesseus) C1",
         "effects": [
-            "Deals 240% damage to the target.",
-            "Deals 390% damage to a random different enemy. Deals extra damage if the target is ice.",
-            "Stack (Max: 10): The caster gets +5% mana generation",
-            "Stack (Max: 10): The caster recovers 5 HP each turn"
+            "对目标造成 320% 伤害。",
+            "净化所有盟友的状态异常。"
         ]
     },
     {
         "originalIndex": 327,
-        "name": "洛茜娅 (Roxia)",
+        "name": "麻吉 (Muggy)",
         "effects": [
-            "Special Skill has a different effect when charged with 100%/200% mana:",
-            "1x Mana Charge:",
-            " * Deals 175% damage to the target.",
-            " * The target receives 35% damage for all the damage their allies receive for 3 turns.",
-            "2x Mana Charge:",
-            " * All allies get 50% chance to bypass defensive buffs with their attacks for 5 turns. Defensive buffs include counterattacks.",
-            " * All allies get +30% critical chance for 5 turns."
+            "所有盟友获得彪悍兄弟效果，持续 4 回合。如果盟友在彪悍兄弟状态下被击败，将重生为变色龙，拥有：",
+            "* 66% 生命值。",
+            "* 提高攻击力。",
+            "* 降低防御。",
+            "* 毁灭性特殊技能：残暴斩。",
+            "* 此效果无法驱散。"
         ]
     },
     {
         "originalIndex": 328,
-        "name": "灌木熊 (Shrubbear)",
+        "name": "诺里尔 (Noril)",
         "effects": [
-            "The caster gets Taunt that prevents enemies from using Special Skills on the caster's allies for 4 turns",
-            "The caster gets +63% defense for 4 turns",
-            "the caster gets +74% defense against Special Skills for 4 turns"
+            "对目标造成 240% 伤害。",
+            "对任一不同的敌人造成 390% 伤害。如果目标为冰雪系可造成额外伤害。",
+            "叠加（最多 10 层）：施法者获得 +5% 法力生成。",
+            "叠加（最多 10 层）：施法者每回合恢复 5 点生命值。"
         ]
     },
     {
         "originalIndex": 329,
-        "name": "哈克 (Whacker)",
+        "name": "洛茜娅 (Roxia)",
         "effects": [
-            "Deals 315% damage to the target.",
-            "The enemy with the highest base attack gets -54% attack for 3 turns."
+            "当特殊技能充能至 100% / 200% 法力时将拥有不同的效果：",
+            "1 倍法力充能：",
+            "* 对目标造成 175% 伤害。",
+            "* 目标所有的盟友遭受伤害时，目标受到 35% 的伤害，持续 3 回合。",
+            "2 倍法力充能：",
+            "* 所有盟友攻击时有 50% 的几率无视防御增益（包括反击），持续 5 回合。",
+            "* 所有盟友获得 +30% 暴击几率，持续 5 回合。"
         ]
     },
     {
         "originalIndex": 330,
-        "name": "威廉 (William)",
+        "name": "灌木熊 (Shrubbear)",
         "effects": [
-            "Deals 210% damage to the target and nearby enemies.",
-            "The caster and nearby allies get +36% defense for 3 turns.",
-            "The caster and nearby allies get +36% critical chance for 3 turns."
+            "施法者获得嘲讽，可阻止敌人对其盟友使用特殊技能，持续 4 回合。",
+            "施法者获得 +63% 防御，持续 4 回合。",
+            "施法者获得 +74% 特殊技能防御，持续 4 回合。"
         ]
     },
     {
         "originalIndex": 331,
-        "name": "尤娜 (Yona)",
+        "name": "哈克 (Whacker)",
         "effects": [
-            "Draw a card for a special effect:",
-            "Gentle Paw",
-            " * Boosts health for all allies by 300, Boosted health can exceed max HP.",
-            "' * All allies get +20% defense for 3 turns. The defense increases by 10% ' 'each turn, up to +40%.'",
-            "Deadly Claw",
-            "' * Reduces the max health of all enemies by 300. This effect is stronger ' 'against targets with boosted health. (Max health can’t get lower than 30%' 'of the original max health. Any boosted health is reduced by an additional 300.)'",
-            "' * All enemies get -20% defense for 3 tuns. The defense decreases by ' '-10% each turn, up to -40%.'"
+            "对目标造成 315% 伤害。",
+            "基础攻击力最高的敌人获得 -54% 攻击力，持续 3 回合。"
         ]
     },
     {
         "originalIndex": 332,
-        "name": "扎丽尔 (Zarel)",
+        "name": "威廉 (William)",
         "effects": [
-            "Deals 260% damage to all enemies.",
-            "All enemies get -34% attack for 5 turns.",
-            "All enemies can’t get their status ailments cleansed from Special Skill for 5 turns."
+            "对目标及附近敌人造成 210% 伤害。",
+            "施法者和附近盟友获得 +36% 防御，持续 3 回合。",
+            "施法者和附近盟友获得 +36% 暴击几率，持续 3 回合。"
         ]
     },
     {
         "originalIndex": 333,
-        "name": "查罗拉 (Zarola)",
+        "name": "尤娜 (Yona)",
         "effects": [
-            "Deals 200% damage to the target and nearby enemies.",
-            "The less mana the enemies have, the more damage they will receive, up to 300%."
+            "抽取一张特殊效果卡片：",
+            "温和之爪：",
+            "* 提高所有盟友 300 点生命值，提高的生命值可以超过最大生命值。",
+            "* 所有盟友获得 +20% 防御，持续 3 回合。防御每回合增加 10%，最高为 +40%。",
+            "致命利爪：",
+            "* 使所有敌人减少 300 点最大生命值。若目标拥有提高的生命值，此效果会增强（最大生命值不能低于初始最大生命值的 30%。任何提高的生命值会额外减少 300 点）'。",
+            "* 所有敌人获得 -20% 防御，持续 3 回合。防御每回合减少 -10%，最高为 -40%。"
         ]
     },
     {
         "originalIndex": 334,
-        "name": "阿尔翡 (Alfie)",
+        "name": "扎丽尔 (Zarel)",
         "effects": [
-            "Deals 200% damage to all enemies.",
-            "All Ice enemies get -30% accuracy for 4 turns. Chance to miss apllies to  offensive Special Skills.",
-            "All Holy enemies get -30% mana generation for 4 turns.",
-            "All Dark enemies get -30% defense for 4 turns.",
-            "All Fire enemies get -30% attack for 4 turns."
+            "对所有敌人造成 260% 伤害。",
+            "所有敌人获得 -34% 攻击力，持续 5 回合。",
+            "所有敌人无法用特殊技能净化其状态异常，持续 5 回合。"
         ]
     },
     {
         "originalIndex": 335,
-        "name": "阿穆尔 (Almur)",
+        "name": "查罗拉 (Zarola)",
         "effects": [
-            "Deals 150% damage to the target and nearby enemies.",
-            "Reduces max health from the target and nearby enemies by 75. The effect is stronger against targets with boosted health. Max health can't get lower than 30% of the original max health. Any boosted health is reduced by an additional 75.",
-            "The target and nearby enemies get -54% defense against Nature for 4 turns."
+            "对目标及附近敌人造成 200% 伤害。",
+            "敌人的法力越低，受到的伤害越大，最高可达 300%。"
         ]
     },
     {
         "originalIndex": 336,
-        "name": "阿穆尔 (Almur) C1",
+        "name": "阿尔翡 (Alfie)",
         "effects": [
-            "Deals 290% damage to the target.",
-            "Reduces the mana of teh target by 20%.",
-            "The target gets -58% defense against Nature for 3 turns."
+            "对所有敌人造成 200% 伤害。",
+            "所有冰雪系敌人获得 -30% 精准度，持续 4 回合。进攻型特殊技能也有相同几率落空。",
+            "所有神圣系敌人获得 -30% 法力生成，持续 4 回合。",
+            "所有暗黑系敌人获得 -30% 防御，持续 4 回合。",
+            "所有烈火系敌人获得 -30% 攻击力，持续 4 回合。"
         ]
     },
     {
         "originalIndex": 337,
-        "name": "安东 (Anton)",
+        "name": "阿穆尔 (Almur)",
         "effects": [
-            "Special Skill has a different effect when charged with 100%/200% mana:",
-            "1x Mana Charge:",
-            " * Deals 250% damage to all enemies. Each hit has 60% accuracy.",
-            " * All hit enemies receive 92 Poison damage over 2 turns.",
-            "2x Mana Charge:",
-            " * Each fallen ally has a 44% chance to get revived with 40% HP.",
-            " * All allies regenerate 405 HP over 5 turns"
+            "对目标及附近敌人造成 150% 伤害。",
+            "使目标和附近敌人减少 75 点最大生命值。若目标拥有加成的生命值，此效果会增强。最大生命值不能低于初始最大生命值的 30%。任何加成的生命值会额外减少 75 点。",
+            "目标与附近敌人获得对自然系 -54% 的防御，持续 4 回合。"
         ]
     },
     {
         "originalIndex": 338,
-        "name": "布隆特斯 (Brontes)",
+        "name": "阿穆尔 (Almur) C1",
         "effects": [
-            "Special Skill has a different effect when charged with 100% / 200% / 300% mana:",
-            "1x Mana Charge:",
-            "* Recovers 25% health for the caster and nearby allies.",
-            "* The caster and nearby allies get +24% mana generation for 2 turns.",
-            "2x Mana Charge:",
-            "* Recovers 35% health for the caster and nearby allies.",
-            "* Increases the mana of the caster and nearby allies by 10%.",
-            "3x Mana Charge:",
-            "* Recovers 55% health for the caster and nearby allies.",
-            "* Increases the mana of the caster and nearby allies by 30%.",
-            "* The caster and nearby allies get +40% mana generation for 4 turns."
+            "对目标造成 290% 伤害。",
+            "使目标的法力减少 20%。",
+            "目标获得对自然系 -58% 的防御，持续 3 回合。"
         ]
     },
     {
         "originalIndex": 339,
-        "name": "布琳希尔德 (Brynhild)",
+        "name": "安东 (Anton)",
         "effects": [
-            "Recovers 37% health for the caster and nearby allies.",
-            "The caster and nearby allies are immune to buff dispels for 3 turns.",
-            "The caster and nearby allies get +74% defense against Special Skills for 3 turns.",
-            "The caster and nearby allies get +24% mana generation for 3 turns."
+            "当特殊技能充能至 100% / 200% 法力时将拥有不同的效果：",
+            "1 倍法力充能：",
+            "* 对所有敌人造成 250% 伤害。每下攻击的精准度为 60%。",
+            "* 所有被击中的敌人在 2 回合内受到共计 92 点剧毒伤害。",
+            "2 倍法力充能：",
+            "* 每名被击败的盟友有 44% 的几率以 40% 的生命值复活。",
+            "* 所有盟友在 5 回合内恢复 405 点生命值。"
         ]
     },
     {
         "originalIndex": 340,
-        "name": "巴迪 (Buddy)",
+        "name": "布隆特斯 (Brontes)",
         "effects": [
-            "Deals 205% damage to the target and nearby enemies.",
-            "Summons an Elf Minion for the caster and nearby allies with 10% HP and 10% attack inherited from the caster.",
-            "The target and nearby enemies get -24% attack for 3 turns.",
-            "The target and nearby enemies get -34% defense for 3 turns."
+            "当特殊技能充能至 100% / 200% / 300% 法力时将拥有不同的效果：",
+            "1 倍法力充能：",
+            "* 为施法者和附近盟友恢复 25% 生命值。",
+            "* 施法者和附近盟友获得 +24% 法力生成，持续 2 回合。",
+            "2 倍法力充能：",
+            "* 为施法者和附近盟友恢复 35% 生命值。",
+            "* 使施法者和附近盟友的法力增加 10%。",
+            "3 倍法力充能：",
+            "* 为施法者和附近盟友恢复 55% 生命值。",
+            "* 使施法者和附近盟友的法力增加 30%。",
+            "* 施法者和附近盟友获得 +40% 法力生成，持续 4 回合。"
         ]
     },
     {
         "originalIndex": 341,
-        "name": "凯德蒙 (Caedmon)",
+        "name": "布琳希尔德 (Brynhild)",
         "effects": [
-            "Deals 345% damage to the target.",
-            "Dispels buffs from all enemies."
+            "为施法者和附近盟友恢复 37% 生命值。",
+            "施法者和附近盟友对增益驱散免疫，持续 3 回合。",
+            "施法者和附近盟友获得 +74% 特殊技能防御，持续 3 回合。",
+            "施法者和附近盟友获得 +24% 法力生成，持续 3 回合。"
         ]
     },
     {
         "originalIndex": 342,
-        "name": "凯德蒙 (Caedmon) C1",
+        "name": "巴迪 (Buddy)",
         "effects": [
-            "Deals 345% damage to the target.",
-            "Cleanses status ailments from all allies."
+            "对目标及附近敌人造成 205% 伤害。",
+            "为施法者和附近盟友召唤一个精灵小兵，此小兵继承施法者 10% 的生命值和 10% 的攻击力。",
+            "目标与附近敌人获得 -24% 攻击力，持续 3 回合。",
+            "目标与附近敌人获得 -34% 防御，持续 3 回合。"
         ]
     },
     {
         "originalIndex": 343,
-        "name": "凯德蒙 (Caedmon) C2",
+        "name": "凯德蒙 (Caedmon)",
         "effects": [
-            "Deals 275% damage to the target and nearby enemies.",
-            "The target and nearby enemies are immune to new status effect buffs for 3 turns.",
-            "Dispels buffs from the target and nearby enemies."
+            "对目标造成 345% 伤害。",
+            "驱散所有敌人的增益。"
         ]
     },
     {
         "originalIndex": 344,
-        "name": "凯德蒙 (Caedmon) 卡通",
+        "name": "凯德蒙 (Caedmon) C1",
         "effects": [
-            "Deals 350% damage to the target.",
-            "Deals extra damage against Ice.",
-            "Dispels buffs from all enemies."
+            "对目标造成 345% 伤害。",
+            "净化所有盟友的状态异常。"
         ]
     },
     {
         "originalIndex": 345,
-        "name": "凯德蒙 (Caedmon) 玻璃",
+        "name": "凯德蒙 (Caedmon) C2",
         "effects": [
-            "Deals 360% damage to the target.",
-            "The attack bypasses defensive buffs. (This includes counterattacks.)",
-            "All enemies get -34% attack for 3 turns.",
-            "Dispels buffs from all enemies."
+            "对目标及附近敌人造成 275% 伤害。",
+            "目标和附近敌人对新的增益状态效果免疫，持续 3 回合。",
+            "驱散目标和附近敌人身上的增益。"
         ]
     },
     {
         "originalIndex": 346,
-        "name": "弗朗茨 (Franz)",
+        "name": "凯德蒙 (Caedmon) 卡通",
         "effects": [
-            "Deals 215% damage to all enemies.",
-            "All damage all enemies receive is increased by +50% for 6 turns.",
-            "All enemies are immune to new status effect buffs for 6 turns."
+            "对目标造成 350% 伤害。",
+            "对冰雪系造成额外伤害。",
+            "驱散所有敌人的增益。"
         ]
     },
     {
         "originalIndex": 347,
-        "name": "弗鲁提奥 (Fruitio)",
+        "name": "凯德蒙 (Caedmon) 玻璃",
         "effects": [
-            "Deals 380% damage to tha target.",
-            "After 1 turn the target gets Paralyzed for 4 turns. (Paralyzed enemies can’t attack or gain man and receive +50% increased damage. Once Paralyzed, the effect can’t be cleansed. Bosses, Titans and Mythic Titans are not affected by this status effect.)"
+            "对目标造成 360% 伤害。",
+            "攻击会无视防御增益。（包括反击）",
+            "所有敌人获得 -34% 攻击力，持续 3 回合。",
+            "驱散所有敌人的增益。"
         ]
     },
     {
         "originalIndex": 348,
-        "name": "嘉德利亚斯 (Gadeirus)",
+        "name": "弗朗茨 (Franz)",
         "effects": [
-            "Deals 165% damage to the target and minor damage to nearby enemies.",
-            "The caster and nearby allies get +48% attack for 4 turns.",
-            "The caster and nearby allies regenerate 617 HP over 4 turns."
+            "对所有敌人造成 215% 伤害。",
+            "所有敌人受到的所有伤害增加 +50%，持续 6 回合。",
+            "所有敌人对新的增益状态效果免疫，持续 6 回合。"
         ]
     },
     {
         "originalIndex": 349,
-        "name": "嘉德利亚斯 (Gadeirus) C1",
+        "name": "弗鲁提奥 (Fruitio)",
         "effects": [
-            "Deals 130% damage to all enemies.",
-            "All allies get +48% attack for 4 turns.",
-            "All allies regenerate 480 boosted health over 4 turns. Boosted health can exceed max HP."
+            "对目标造成 380% 伤害。",
+            "1 回合后，目标获得麻木，持续 4 回合。（麻木的敌人无法攻击或获得法力，并且受到的伤害增加 +50%。 一旦被麻木，效果无法被净化。 头目、泰坦和神话泰坦不受此状态效果影响。）"
         ]
     },
     {
         "originalIndex": 350,
-        "name": "戈布勒 (Gobbler)",
+        "name": "嘉德利亚斯 (Gadeirus)",
         "effects": [
-            "Destroys all Minions from all enemies and damages all Mega Minions.",
-            "Deals 170% damage to all enemies.",
-            "All allies recover 80 HP for each destroyed Minion."
+            "对目标造成 165% 伤害，并对附近敌人造成轻微伤害。",
+            "施法者和附近盟友获得 +48% 攻击力，持续 4 回合。",
+            "施法者和附近盟友在 4 回合内恢复 617 点生命值。"
         ]
     },
     {
         "originalIndex": 351,
-        "name": "戈布勒 (Gobbler) C1",
+        "name": "嘉德利亚斯 (Gadeirus) C1",
         "effects": [
-            "Steals Minions from the target.",
-            "Deals 310% damage to the target.",
-            "The target receives 213 Sand damage over 3 turns. This effect spreads to nearby enemies."
+            "对所有敌人造成 130% 伤害。",
+            "所有盟友获得 +48% 攻击力，持续 4 回合。",
+            "所有盟友在 4 回合内获得共计 480 点生命加成。提高的生命值可以超过最大生命值。"
         ]
     },
     {
         "originalIndex": 352,
-        "name": "韩塞尔 (Hansel)",
+        "name": "戈布勒 (Gobbler)",
         "effects": [
-            "Deals 255% damage to the target",
-            "Automatically does 146 damage to the target and consumes 50% mana from the  target when the target’s mana is full for 3 turns.",
-            "The caster gets +74% defense against Special Skills for 3 turns"
+            "摧毁全部敌人的全部小兵并杀伤所有超级小兵。",
+            "对所有敌人造成 170% 伤害。",
+            "每摧毁一名小兵所有盟友恢复 80 点生命值。"
         ]
     },
     {
         "originalIndex": 353,
-        "name": "韩塞尔 (Hansel) C1",
+        "name": "戈布勒 (Gobbler) C1",
         "effects": [
-            "Deals 209% damage to the target.",
-            "Automatically does 341 damage to the target and consumes 50% mana from  the target when the target’s mana is full for 3 turns.",
-            "The caster gets +84% defense against Special Skills for 3 turns."
+            "从目标处偷取小兵。",
+            "对目标造成 310% 伤害。",
+            "目标在 3 回合内受到共计 213 点沙系伤害。此效果会蔓延至附近敌人。"
         ]
     },
     {
         "originalIndex": 354,
-        "name": "杰克·奥黑尔 (Jack O'Hare)",
+        "name": "韩塞尔 (Hansel)",
         "effects": [
-            "Deal 180% damage to all enemies",
-            "The caster gets -20% defense for 3 turns. This effect can't be cleansed"
+            "对目标造成 255% 伤害。",
+            "目标法力满格时，自动对目标造成 146 点伤害，并使其法力减少 50%，持续 3 回合。",
+            "施法者获得 +74% 特殊技能防御，持续 3 回合。"
         ]
     },
     {
         "originalIndex": 355,
-        "name": "杰克·奥黑尔 (Jack O'Hare) C1",
+        "name": "韩塞尔 (Hansel) C1",
         "effects": [
-            "Deals 230% damage to the target.",
-            "The attack chains through all enemies who are adjacent to any hit enemy.",
-            "All allies except the caster get -20% attack for 3 turns. This effect can't be dispelled."
+            "对目标造成 209% 伤害。",
+            "目标法力满格时，自动对目标造成 341 点伤害，并使其法力减少 50%，持续 3 回合。",
+            "施法者获得 +84% 特殊技能防御，持续 3 回合。"
         ]
     },
     {
         "originalIndex": 356,
-        "name": "卡勒 (Kalo)",
+        "name": "杰克·奥黑尔 (Jack O'Hare)",
         "effects": [
-            "Deals 70% damage to all enemies.",
-            "If no allies have fallen, deals twice the amount of damage to all enemies.",
-            "Cast the Special Skills of all defeated allies.",
-            "This Special Skill can't be copied."
+            "对所有敌人造成 180% 伤害。",
+            "施法者获得 -20% 防御，持续 3 回合。此效果无法净化。"
         ]
     },
     {
         "originalIndex": 357,
-        "name": "喀什雷克 (Kashhrek)",
+        "name": "杰克·奥黑尔 (Jack O'Hare) C1",
         "effects": [
-            "Recovers 45% health for the caster and nearby allies.",
-            "The caster and nearby allies get +94% defense against Fire for 3 turns."
+            "对目标造成 230% 伤害。",
+            "与被击中敌人相邻的所有敌人都将受到连锁攻击。",
+            "除施法者外的所有盟友获得 -20% 攻击力，持续 3 回合。此效果无法驱散。"
         ]
     },
     {
         "originalIndex": 358,
-        "name": "喀什雷克 (Kashhrek) C1",
+        "name": "卡勒 (Kalo)",
         "effects": [
-            "Boosts health of the caster and nearby allies by 450. Bosted health can exceed max HP.",
-            "The caster and nearby allies get +64% defense against Fire for 3 turns."
+            "对所有敌人造成 70% 伤害。",
+            "如果没有盟友被击败，则对所有敌人造成双倍伤害。",
+            "施放所有被击败盟友的特殊技能。",
+            "此特殊技能无法被复制。"
         ]
     },
     {
         "originalIndex": 359,
-        "name": "喀什雷克 (Kashhrek) C2",
+        "name": "喀什雷克 (Kashhrek)",
         "effects": [
-            "The caster and nearby allies regenerate 459 HP over 3 turns.",
-            "The caster and nearby allies get +54% defense against Special Skills for 3 turns."
+            "为施法者和附近盟友恢复 45% 生命值。",
+            "施法者和附近盟友获得对烈火系 +94% 的防御，持续 3 回合。"
         ]
     },
     {
         "originalIndex": 360,
-        "name": "喀什雷克 (Kashhrek) 卡通",
+        "name": "喀什雷克 (Kashhrek) C1",
         "effects": [
-            "Recovers 48% health for the caster and nearby allies.",
-            "The caster and nearby allies get +84% defense against Fire for 3 turns. For all Nature characters, this status effect becomes undispellable and lasts 2 turns longer."
+            "提高施法者和附近盟友 450 点生命值。提高的生命值可以超过最大生命值。",
+            "施法者和附近盟友获得对烈火系 +64% 的防御，持续 3 回合。"
         ]
     },
     {
         "originalIndex": 361,
-        "name": "喀什雷克 (Kashhrek) 玻璃",
+        "name": "喀什雷克 (Kashhrek) C2",
         "effects": [
-            "Recovers 49% health for the caster and nearby allies.",
-            "All Nature allies reflect status ailments and negative stacks for 2 turns. (Status effect cast by characters, Minions and Fiends on the same side cannot be reflected.)",
-            "The caster and nearby allies get +88% defense against Fire for 3 turns."
+            "施法者和附近盟友在 3 回合内恢复 459 点生命值。",
+            "施法者和附近盟友获得 +54% 特殊技能防御，持续 3 回合。"
         ]
     },
     {
         "originalIndex": 362,
-        "name": "星纱 (Lionstring)",
+        "name": "喀什雷克 (Kashhrek) 卡通",
         "effects": [
-            "This Special Skill never misses its targets.",
-            "Deal 245% damage to the target and minor damage to nearby enemies.",
-            "The caster steals 50% of any healing applied to the target and nearby enemies in 2 turns.",
-            "The caster and nearby allies get +45% chance to dodge Special Skills that deal damage for 2 turns."
+            "为施法者和附近盟友恢复 48% 生命值。",
+            "施法者和附近盟友获得对烈火系 +84% 的防御，持续 3 回合。对所有自然系角色，此状态效果不可驱散且持续时间延长 2 回合。"
         ]
     },
     {
         "originalIndex": 363,
-        "name": "小约翰 (Little John)",
+        "name": "喀什雷克 (Kashhrek) 玻璃",
         "effects": [
-            "Deals 185% damage to all enemies.",
-            "All enemies get -64% mana generation for 3 turns."
+            "为施法者和附近盟友恢复 49% 生命值。",
+            "所有自然系盟友可反弹状态异常和负面效果叠加，持续 2 回合。（同队角色、小兵和恶魔施放的状态效果无法反弹）",
+            "施法者和附近盟友获得对烈火系 +88% 的防御，持续 3 回合。"
         ]
     },
     {
         "originalIndex": 364,
-        "name": "小约翰 (Little John) C1",
+        "name": "星纱 (Lionstring)",
         "effects": [
-            "Deals 185% damage to all enemies",
-            "The caster and nearby allies have from +30% to +70% chance of dodging special attacks that do damage.  The higher the damage from the special is, the higher the chance to dodge it. Each dodge gives +24% mana to the target. The effect lasts for 4 turns."
+            "此特殊技能必定命中。",
+            "对目标及附近敌人造成 245% 伤害。",
+            "施法者偷取目标及其附近敌人所获治疗的 50%，持续 2 回合。",
+            "施法者和附近的盟友拥有 +45% 几率闪避可以造成伤害的特殊技能，持续 2 回合。"
         ]
     },
     {
         "originalIndex": 365,
-        "name": "小约翰 (Little John) C2",
+        "name": "小约翰 (Little John)",
         "effects": [
-            "Deals 185% damage to all enemies.",
-            "All allies get +33% mana generation for 3 turns."
+            "对所有敌人造成 185% 伤害。",
+            "所有敌人获得 -64% 法力生成，持续 3 回合。"
         ]
     },
     {
         "originalIndex": 366,
-        "name": "小约翰 (Little John) 卡通",
+        "name": "小约翰 (Little John) C1",
         "effects": [
-            "Deals 215% damage to all enemies.",
-            "All enemies get -54% mana generation for 3 turns.",
-            "Deals extra damage against Ice."
+            "对所有敌人造成 185% 伤害。",
+            "施法者和附近盟友有 +30% 至 +70% 的几率躲避可造成伤害的特殊技能。特殊技能的伤害越高，闪避的几率也越高。每次闪避可给予目标 +24% 法力。此效果持续 4 回合。"
         ]
     },
     {
         "originalIndex": 367,
-        "name": "小约翰 (Little John) 玻璃",
+        "name": "小约翰 (Little John) C2",
         "effects": [
-            "Deals 225% damage to all enemies.",
-            "The attack bypasses defensive buffs. (This includes counterattacks.)",
-            "All enemies get -59% mana generation for 3 turns."
+            "对所有敌人造成 185% 伤害。",
+            "所有盟友获得 +33% 法力生成，持续 3 回合。"
         ]
     },
     {
         "originalIndex": 368,
-        "name": "马塞尔 (Marcel)",
+        "name": "小约翰 (Little John) 卡通",
         "effects": [
-            "Deals 300% damage to the target and nearby enemies.",
-            "All allies with a cleansable status ailment that affects attack get +50% attack for 3 turns.",
-            "The target and nearby enemies get -34% defense for 3 turns."
+            "对所有敌人造成 215% 伤害。",
+            "所有敌人获得 -54% 法力生成，持续 3 回合。",
+            "对冰雪系造成额外伤害。"
         ]
     },
     {
         "originalIndex": 369,
-        "name": "米兰朵 (Melendor)",
+        "name": "小约翰 (Little John) 玻璃",
         "effects": [
-            "Recovers 42% health for all allies",
-            "Dispels buffs from all enemies"
+            "对所有敌人造成 225% 伤害。",
+            "攻击会无视防御增益。（包括反击）",
+            "所有敌人获得 -59% 法力生成，持续 3 回合。"
         ]
     },
     {
         "originalIndex": 370,
-        "name": "米兰朵 (Melendor) C1",
+        "name": "马塞尔 (Marcel)",
         "effects": [
-            "All allies regenerate 609 HP over 3 turns",
-            "All allies get +46% defense for 3 turns",
-            "Dispels buffs from all enemies"
+            "对目标及附近敌人造成 300% 伤害。",
+            "若任何盟友身上带有影响攻击的可净化状态异常，该盟友将获得 +50% 攻击力，持续 3 回合。",
+            "目标与附近敌人获得 -34% 防御，持续 3 回合。"
         ]
     },
     {
         "originalIndex": 371,
-        "name": "米兰朵 (Melendor) C2",
+        "name": "米兰朵 (Melendor)",
         "effects": [
-            "All allies regenerate 609 HP over 3 turns.",
-            "All allies get +50% attack for 3 turns.",
-            "Dispels buffs from all enemies."
+            "为所有盟友恢复 42% 生命值。",
+            "驱散所有敌人的增益。"
         ]
     },
     {
         "originalIndex": 372,
-        "name": "米兰朵 (Melendor) 卡通",
+        "name": "米兰朵 (Melendor) C1",
         "effects": [
-            "Recovers 45% health for all allies.",
-            "All allies get 34% defense for 3 turns. For all Nature characters, this status effect becomes undispellable and lasts 2 turns longer.",
-            "Dispels buffs from all enemies."
+            "所有盟友在 3 回合内恢复 609 点生命值。",
+            "所有盟友获得 +46% 防御，持续 3 回合。",
+            "驱散所有敌人的增益。"
         ]
     },
     {
         "originalIndex": 373,
-        "name": "米兰朵 (Melendor) 玻璃",
+        "name": "米兰朵 (Melendor) C2",
         "effects": [
-            "Recovers 46% health for all allies.",
-            "All Nature allies reflect status ailments and negative stacks for 2 turns. (Status effect cast by characters, Minions and Fiends on the same side cannot be reflected.)",
-            "Dispels buffs from all enemies."
+            "所有盟友在 3 回合内恢复 609 点生命值。",
+            "所有盟友获得 +50% 攻击力，持续 3 回合。",
+            "驱散所有敌人的增益。"
         ]
     },
     {
         "originalIndex": 374,
-        "name": "蔑里基 (Mielikki)",
+        "name": "米兰朵 (Melendor) 卡通",
         "effects": [
-            "Summons a Sprite of the Forest Minion for all allies with 15% HP and 10% attack inherited from the caster.",
-            "The Sprite of the Forest Minion gives +20% mana generation for its owner for as long as the owner has the Sprite of the Forest Minions. This effect can't be dispelled.",
-            "All enemies get -24% attack for 4 turns. Against Fire characters, this status effect becomes uncleansable and lasts 2 turns."
+            "为所有盟友恢复 45% 生命值。",
+            "所有盟友获得 34% 防御，持续 3 回合。对所有自然系角色，此状态效果不可驱散且持续时间延长 2 回合。",
+            "驱散所有敌人的增益。"
         ]
     },
     {
         "originalIndex": 375,
-        "name": "蔑里基 (Mielikki) C1",
+        "name": "米兰朵 (Melendor) 玻璃",
         "effects": [
-            "Summons a Sprite of the Forest Minion for all allies with 18% HP  and 8% attack inherited from the caster.",
-            "When summoned, the Sprite of the Forest Minion gives +24% mana generation for its owner for as long as the owner has Sprite of the Forest Minions.  This effect can’t be dispelled.",
-            "All enemies get -26% attack for 4 turns. Against Fire characters,  this status effect becomes uncleansable and lasts 2 turns longer."
+            "为所有盟友恢复 46% 生命值。",
+            "所有自然系盟友可反弹状态异常和负面效果叠加，持续 2 回合。（同队角色、小兵和恶魔施放的状态效果无法反弹）",
+            "驱散所有敌人的增益。"
         ]
     },
     {
         "originalIndex": 376,
-        "name": "木果 (Mulgog)",
+        "name": "蔑里基 (Mielikki)",
         "effects": [
-            "Special Skill need consecutive uses to reach full power, the following order:",
-            "1st:",
-            " * Deals 230% damage to target and nearby enemies.",
-            " * Reduces the mana of the target and nearby enemies by 10%.",
-            "2nd:",
-            " * Deals 260% damage to target and nearby enemies.",
-            " * Reduces the mana of the target and nearby enemies by 15%.",
-            " * All enemies receive 570 Poison damage over 5 turns. The caster absorbs 50% of dealt Posion damage as health."
+            "为所有盟友召唤一个森林精灵小兵，此小兵继承施法者 15% 的生命值和 10% 的攻击力。",
+            "森林精灵小兵被召唤后，只要其所有者拥有该小兵，其所有者就会获得 +20% 法力生成。此效果无法驱散。",
+            "所有敌人获得 -24% 攻击力，持续 4 回合。对烈火系角色，此状态效果不可净化且持续时间延长 2 回合。"
         ]
     },
     {
         "originalIndex": 377,
-        "name": "木果 (Mulgog) C1",
+        "name": "蔑里基 (Mielikki) C1",
         "effects": [
-            "Special Skill need consecutive uses to reach full power, the following order:",
-            "1st:",
-            " * Deals 220% damage to target and nearby enemies.",
-            " * Reduces the mana of the target and nearby enemies by 8%.",
-            "2nd:",
-            " * Deals 280% damage to target and nearby enemies.",
-            " * Reduces the mana of the target and nearby enemies by 18%.",
-            " * All enemies receive 665 Poison damage over 5 turns. The caster absorbs 55% of dealt Posion damage as health."
+            "为所有盟友召唤一个森林精灵小兵，此小兵继承施法者 18% 的生命值和 8% 的攻击力。",
+            "森林精灵小兵被召唤后，只要其所有者拥有该小兵，其所有者就会获得 +24% 法力生成。此效果无法驱散。",
+            "所有敌人获得 -26% 攻击力，持续 4 回合。对烈火系角色，此状态效果不可净化且持续时间延长 2 回合。"
         ]
     },
     {
         "originalIndex": 378,
-        "name": "米尔特 (Myrtle)",
+        "name": "木果 (Mulgog)",
         "effects": [
-            "Deals 280% damage to the target and minor damage to nearby enemies.",
-            "Enhanced Defense Ailment: The target and nearby enemies get -40% defense against Special Skills. This effect lasts until the enemy takes damage from a Special Skill once.",
-            "After the Enhanced Defense Ailment ends or is removed or replaced, the enemy receives 630 Poison Damage over 3 turns. This effect spreads to nearby enemies."
+            "必须连续使用特殊技能才能达到其最大威力，顺序为：",
+            "第一次：",
+            "* 对目标及附近敌人造成 230% 伤害。",
+            "* 使目标和附近敌人的法力减少 10%。",
+            "第二次：",
+            "* 对目标及附近敌人造成 260% 伤害。",
+            "* 使目标和附近敌人的法力减少 15%。",
+            "* 所有敌人在 5 回合内受到共计 570 点剧毒伤害。施法者会吸收所造成剧毒伤害的 50% 并转化为生命值。"
         ]
     },
     {
         "originalIndex": 379,
-        "name": "僵骨 (Numbskull)",
+        "name": "木果 (Mulgog) C1",
         "effects": [
-            "Deals 150% damage to all enemies.",
-            "Summons a Bone Skull Minion for each ally with 12% HP and 20% attack  inherited from the caster.",
-            "When the Bone Skull Minion is destroyed, it deals 85 damage to all enemies."
+            "必须连续使用特殊技能才能达到其最大威力，顺序为：",
+            "第一次：",
+            "* 对目标及附近敌人造成 220% 伤害。",
+            "* 使目标和附近敌人的法力减少 8%。",
+            "第二次：",
+            "* 对目标及附近敌人造成 280% 伤害。",
+            "* 使目标和附近敌人的法力减少 18%。",
+            "* 所有敌人在 5 回合内受到共计 665 点剧毒伤害。施法者会吸收所造成剧毒伤害的 55% 并转化为生命值。"
         ]
     },
     {
         "originalIndex": 380,
-        "name": "奥拉 (Orla)",
+        "name": "米尔特 (Myrtle)",
         "effects": [
-            "Deals 230% damage to the target.",
-            "Deals 450% damage if the target has less than 50% health remaining.",
-            "The target and nearby enemies get -24% mana generation for 3 turns.",
-            "Stack +2 (Max: 10): The caster gets +10% mana generation.",
-            "Stack (Max: 10): The caster recovers 10 HP each turn."
+            "对目标造成 280% 伤害，并对附近敌人造成轻微伤害。",
+            "强化防御异常：目标与附近敌人获得对特殊技能 -40% 的防御。此效果在敌人受到一次特殊技能伤害后消失。",
+            "强化防御异常结束后、被移除或被替换后，敌人会在 3 回合内受到共计 630 点剧毒伤害。此效果会蔓延至附近敌人。"
         ]
     },
     {
         "originalIndex": 381,
-        "name": "皮特斯 (Peters)",
+        "name": "僵骨 (Numbskull)",
         "effects": [
-            "Deals 320% damage to the target",
-            "The target gets silenced for 3 turns"
+            "对所有敌人造成 150% 伤害。",
+            "为每位盟友召唤一个亡灵小兵，其可从施法者处继承 12% 生命和 20% 攻击力。",
+            "亡灵小兵因受到伤害而阵亡时，将对所有敌人造成 85 点伤害。"
         ]
     },
     {
         "originalIndex": 382,
-        "name": "皮特斯 (Peters) C1",
+        "name": "奥拉 (Orla)",
         "effects": [
-            "Deals 320% damage to the target.",
-            "The target gets silenced for 3 turns.",
-            "The target gets -24% defense for 3 turns."
+            "对目标造成 230% 伤害。",
+            "如果目标剩余生命少于 50%，可对其造成 450% 伤害。",
+            "目标与附近敌人获得 -24% 法力生成，持续 3 回合。",
+            "叠加 +2 （最多 10 层）：施法者获得 +10% 法力生成。",
+            "叠加（最多 10 层）：施法者每回合恢复 10 点生命值。"
         ]
     },
     {
         "originalIndex": 383,
-        "name": "托勒密 (Ptolemy)",
+        "name": "皮特斯 (Peters)",
         "effects": [
-            "Recovers 30% health for all allies.",
-            "The caster and nearby allies are immune to new status ailments for 3 turns, and recover 175 health for each attempted status ailments."
+            "对目标造成 320% 伤害。",
+            "目标陷入沉默，持续 3 回合。"
         ]
     },
     {
         "originalIndex": 384,
-        "name": "托勒密 (Ptolemy) C1",
+        "name": "皮特斯 (Peters) C1",
         "effects": [
-            "Recovers 35% health for all allies.",
-            "The caster and nearby allies are immune to new status ailments for 3 turns, and recover 100 health for each attempted status ailment."
+            "对目标造成 320% 伤害。",
+            "目标陷入沉默，持续 3 回合。",
+            "目标获得 -24% 防御，持续 3 回合。"
         ]
     },
     {
         "originalIndex": 385,
-        "name": "劳利 (Raleigh)",
+        "name": "托勒密 (Ptolemy)",
         "effects": [
-            "Boosts health of all allies by 500. Boosted health can exceed max HP.",
-            "All allies get +30% attack for 5 turns. The attack increases by 5% each  turn up to 50%.",
-            "All allies get +24% mana generation for 5 turns."
+            "为所有盟友恢复 30% 生命值。",
+            "施法者和附近盟友对新的状态异常免疫，持续 3 回合，且每当有状态异常尝试施加于其上，他们都将恢复 175 点生命值。"
         ]
     },
     {
         "originalIndex": 386,
-        "name": "柱子骨骼 (Skittleskull)",
+        "name": "托勒密 (Ptolemy) C1",
         "effects": [
-            "Deals 185% damage to all enemies",
-            "All enemies get -34% attack for 6 turns"
+            "为所有盟友恢复 35% 生命值。",
+            "施法者和附近盟友对新的状态异常免疫，持续 3 回合，且每当有状态异常尝试施加于其上，他们都将恢复 100 点生命值。"
         ]
     },
     {
         "originalIndex": 387,
-        "name": "柱子骨骼 (Skittleskull) C1",
+        "name": "劳利 (Raleigh)",
         "effects": [
-            "Deals 175% damage to all enemies",
-            "All enemies get -39% attack for 6 turns"
+            "提高所有盟友 500 点生命值。提高的生命值可以超过最大生命值。",
+            "所有盟友获得 +30% 攻击力，持续 5 回合。攻击力每回合增加 5%，最高为 50%。",
+            "所有盟友获得 +24% 法力生成，持续 5 回合。"
         ]
     },
     {
         "originalIndex": 388,
-        "name": "柱子骨骼 (Skittleskull) C2",
+        "name": "柱子骨骼 (Skittleskull)",
         "effects": [
-            "Deals 195% damage to all enemies.",
-            "All enemies get -34% defense for 6 turns."
+            "对所有敌人造成 185% 伤害。",
+            "所有敌人获得 -34% 攻击力，持续 6 回合。"
         ]
     },
     {
         "originalIndex": 389,
-        "name": "柱子骨骼 (Skittleskull) 卡通",
+        "name": "柱子骨骼 (Skittleskull) C1",
         "effects": [
-            "Deals 215% damage to all enemies.",
-            "All enemies get -24% attack for 6 turns.",
-            "Deals extra damage against Ice."
+            "对所有敌人造成 175% 伤害。",
+            "所有敌人获得 -39% 攻击力，持续 6 回合。"
         ]
     },
     {
         "originalIndex": 390,
-        "name": "柱子骨骼 (Skittleskull) 玻璃",
+        "name": "柱子骨骼 (Skittleskull) C2",
         "effects": [
-            "Deals 225% damage to all enemies.",
-            "The attack bypasses defensive buffs. (This includes counterattacks.)",
-            "All enemies get -30% attack for 6 turns."
+            "对所有敌人造成 195% 伤害。",
+            "所有敌人获得 -34% 防御，持续 6 回合。"
         ]
     },
     {
         "originalIndex": 391,
-        "name": "特图克 (Tettukh)",
+        "name": "柱子骨骼 (Skittleskull) 卡通",
         "effects": [
-            "Deals 320% damage to the target",
-            "The target gets silenced for 4 turns",
-            "The target receives 100 Poison damage over 4 turns"
+            "对所有敌人造成 215% 伤害。",
+            "所有敌人获得 -24% 攻击力，持续 6 回合。",
+            "对冰雪系造成额外伤害。"
         ]
     },
     {
         "originalIndex": 392,
-        "name": "特图克 (Tettukh) C1",
+        "name": "柱子骨骼 (Skittleskull) 玻璃",
         "effects": [
-            "Deals 280% damage to the target.",
-            "The target gets silence for 4 turns.",
-            "The target receives 228 Poison damage over 4 turns."
+            "对所有敌人造成 225% 伤害。",
+            "攻击会无视防御增益。（包括反击）",
+            "所有敌人获得 -30% 攻击力，持续 6 回合。"
         ]
     },
     {
         "originalIndex": 393,
-        "name": "维利尔斯 (Villiers)",
+        "name": "特图克 (Tettukh)",
         "effects": [
-            "Deals 165% damage to the target and nearby enemies.",
-            "Summon a Spy Fiend for the target and nearby enemies. The Fiend damages the enemy with 45% attack every turn.",
-            "The Spy Fiend absorbs healing and disappears when it has absorbed health equal to 30% of its owner’s max health.",
-            "At the end of each turn, the Spy Fiend steals one of its target’s dispellable buffs and gives it to one character on the opposite team.",
-            "The caster regenerates 324 HP over 4 turns."
+            "对目标造成 320% 伤害。",
+            "目标陷入沉默，持续 4 回合。",
+            "目标在 4 回合内受到共计 100 点剧毒伤害。"
         ]
     },
     {
         "originalIndex": 394,
-        "name": "雷恩 (Wren)",
+        "name": "特图克 (Tettukh) C1",
         "effects": [
-            "Deals 240% damage to the target.",
-            "If the target has buffs and is hit, targets another enemy with buffs. If none of the other enemies have buffs, targets a random enemy. The damage is reduced on each consecutive hit. Each enemy can only be hit once.",
-            "All hit targets get -34% attack for 3 turns."
+            "对目标造成 280% 伤害。",
+            "目标陷入沉默，持续 4 回合。",
+            "目标在 4 回合内受到共计 228 点剧毒伤害。"
         ]
     },
     {
         "originalIndex": 395,
-        "name": "雅赫摩斯 (Ahmose)",
+        "name": "维利尔斯 (Villiers)",
         "effects": [
-            "Deals 400% damage to all enemies.",
-            "All allies reflect all status effects and 150% damage back to the attacker and block other negative effects from enemies’ Fire Special Skill for 4 turns. This effect can’t be dispelled. (Status effects cast by characters, Minions and Fiends on the same side cannot be reflected.)"
+            "对目标及附近敌人造成 165% 伤害。",
+            "召唤间谍恶魔附身于目标及附近敌人。恶魔每回合对敌人造成 45% 攻击力的伤害。",
+            "间谍恶魔会吸收治疗。它在吸收了相当于其所有者最大生命值 30% 的治疗量后便会消失。",
+            "每回合结束时，间谍恶魔将偷取其目标的其中一个可驱散增益，并将该增益施加于另一战队的一名角色身上。",
+            "施法者在 4 回合内恢复 324 点生命值。"
         ]
     },
     {
         "originalIndex": 396,
-        "name": "雅赫摩斯 (Ahmose) C1",
+        "name": "雷恩 (Wren)",
         "effects": [
-            "Deals 410% damage to all enemies.",
-            "All allies reflect all status effects and 160% damage back to the attacker and block other negative effects from enemies’ Fire Special Skill for 3 turns. This effect can’t be dispelled. (Status effects cast by characters, Minions and Fiends on the same side cannot be reflected.)"
+            "对目标造成 240% 伤害。",
+            "如果目标有增益效果且受到攻击，则瞄准另一个有增益效果的敌人。如果其他敌人均没有增益效果，则随机瞄准一个敌人。每下攻击的伤害都会递减。每个敌人只能被击中一次。",
+            "所有命中的目标获得 -34% 攻击力，持续 3 回合。"
         ]
     },
     {
         "originalIndex": 397,
-        "name": "阿尔贝里希 (Alberich)",
+        "name": "雅赫摩斯 (Ahmose)",
         "effects": [
-            "Each fallen ally has a 33% chance to get revived with 23% HP.",
-            "All allies regenerate 712 HP over 4 turns.",
-            "All allies regenerate a moderate amount of mana over 4 turns.",
-            "Element Link gives all Nature allies +15% attack and +15 defense for 6 turns. This effect can't be dispelled."
+            "对所有敌人造成 400% 伤害。",
+            "所有盟友会将来自烈火系敌人特殊技能的全部状态效果和 150% 伤害反弹至进攻者，并阻挡该技能的其它负面效果，持续 4 回合。此效果无法驱散。（同队角色、小兵和恶魔施放的状态效果无法反弹）"
         ]
     },
     {
         "originalIndex": 398,
-        "name": "阿尔贝里希 (Alberich) C1",
+        "name": "雅赫摩斯 (Ahmose) C1",
         "effects": [
-            "Each fallen ally has a 38% chance to get revived with 28% HP.",
-            "All allies regenerate 648 HP over 4 turns.",
-            "All allies ge +38% mana generation for 4 turns.",
-            "Element Link gives all Nature allies +15% attack and +15 defense for 6 turns. This effect can't be dispelled."
+            "对所有敌人造成 410% 伤害。",
+            "所有盟友会将来自烈火系敌人特殊技能的全部状态效果和 160% 伤害反弹至进攻者，并阻挡该技能的其它负面效果，持续 3 回合。此效果无法驱散。（同队角色、小兵和恶魔施放的状态效果无法反弹）"
         ]
     },
     {
         "originalIndex": 399,
-        "name": "阿奇巴尔德 (Archibald)",
+        "name": "阿尔贝里希 (Alberich)",
         "effects": [
-            "Deals 300% damage to all enemies.",
-            "Damage bypasses target’s Minions.",
-            "All enemies get -40% defense against Nature for 4 turns.",
-            "Summnos a Sword Guard Mega Minion with 35% HP and 300% attack inherited from the caster.",
-            "The target hit by the Sword Guard Mega Minion receives 441 Bleed damage over 3 turns. This effect spreads to nearby enemies."
+            "每名阵亡的盟友有 33% 的几率以 23% 的生命值复活。",
+            "所有盟友在 4 回合内恢复 712 点生命值。",
+            "所有盟友在 4 回合内恢复适量法力。",
+            "元素链为全体自然系盟友提供 +15% 的攻击和 +15 的防御，持续 6 回合。此效果无法驱散。"
         ]
     },
     {
         "originalIndex": 400,
-        "name": "亚奇 (Archie)",
+        "name": "阿尔贝里希 (Alberich) C1",
         "effects": [
-            "Deal 250% damage to all enemies.",
-            "All enemies are immune to new status effect buffs for 4 turns, and receive 150 damage for each attempted buff.",
-            "The caster gets -10% accuracy for 4 turns. This effect can't be cleansed. Chance to miss also applies to offensive Special Skills."
+            "每名阵亡的盟友有 38% 的几率以 28% 的生命值复活。",
+            "所有盟友在 4 回合内恢复 648 点生命值。",
+            "所有盟友获得 +38% 法力生成，持续 4 回合。",
+            "元素链为全体自然系盟友提供 +15% 的攻击和 +15 的防御，持续 6 回合。此效果无法驱散。"
         ]
     },
     {
         "originalIndex": 401,
-        "name": "亚奇 (Archie) C1",
+        "name": "阿奇巴尔德 (Archibald)",
         "effects": [
-            "Deals 240% damage to all enemies.",
-            "All enemies are immune to new status effect buffs for 4 turns, and receive 300 damage for each attempted buff.",
-            "The caster gets -10% accuracy for 4 turns. This effect can’t be cleansed. (Chance to miss also applies to offensive Special Skills."
+            "对所有敌人造成 300% 伤害。",
+            "伤害无视目标的小兵。",
+            "所有敌人获得对自然系 -40% 的防御，持续 4 回合。",
+            "召唤一个持剑守卫超级小兵，其可从施法者处继承 35% 生命值和 300% 攻击力。",
+            "被持剑守卫超级小兵击中的目标会在 3 回合内受到共计 441 点流血伤害。此效果会蔓延至附近敌人。"
         ]
     },
     {
         "originalIndex": 402,
-        "name": "阿尔科 (Arco)",
+        "name": "亚奇 (Archie)",
         "effects": [
-            "Replaces all Fiends on all allies with Gargoyle Minions.",
-            "Summons a Gargoyle Minion for each ally. The Gargoyle Minion inherits 30% HP and 20% attack for the caster.",
-            "All allies’ health is boosted by 75 HP for each Minion owned by the allies."
+            "对所有敌人造成 250% 伤害。",
+            "所有敌人对新的增益状态效果免疫，持续 4 回合，且每当有增益效果尝试施加于其上，他们都将受到 150 点伤害。",
+            "施法者获得 -10% 精准度，持续 4 回合。此效果无法净化。进攻型特殊技能也有相同几率落空。"
         ]
     },
     {
         "originalIndex": 403,
-        "name": "阿曼德·孟夏曼 (Armand Moncharmin)",
+        "name": "亚奇 (Archie) C1",
         "effects": [
-            "Deals 300% damage to all enemies.",
-            "Summons a Bodyguard Mega Minion with 50% HP and 250% attack inherited from the caster.",
-            "The target hit by the Bodyguard Mega Minion falls asleep and receives +60% increased damage when sleeping. (A sleeping target cannot gain mana. The sleeping target is woken once it takes damage. This excludes dmaage from Minions and Fiends. The effect is uncleansable.)"
+            "对所有敌人造成 240% 伤害。",
+            "所有敌人对新的增益状态效果免疫，持续 4 回合，且每当有增益效果尝试施加于其上，他们都将受到 300 点伤害。",
+            "施法者获得 -10% 精准度，持续 4 回合。此效果无法净化（进攻型特殊技能也有相同几率落空）。"
         ]
     },
     {
         "originalIndex": 404,
-        "name": "阿多斯 (Athos)",
+        "name": "阿尔科 (Arco)",
         "effects": [
-            "Destroys all Minions from the target.",
-            "Deals 470% damage to the target.",
-            "The caster gets 20% mana for each destroyed Minion.",
-            "The attack bypasses defensive buffs. This includes counterattacks.",
-            "Caster regenerates 306 HP over 2 turns."
+            "用石像鬼小兵取代附身于全体盟友的所有恶魔。",
+            "为每位盟友召唤一个石像鬼，此石像鬼小兵继承施法者 30% 生命和 20% 攻击力。",
+            "盟友每拥有一名小兵，便为所有盟友提高 75 点生命值。"
         ]
     },
     {
         "originalIndex": 405,
-        "name": "阿多莫斯 (Atomos)",
+        "name": "阿曼德·孟夏曼 (Armand Moncharmin)",
         "effects": [
-            "Deals 170% damage to all enemies.",
-            "The more mana the enemies have, the more damage they will receive, up to 290%.",
-            "If the caster is defeated during the next 5 turns they are resurrected in the beginning of their next turn with 32% health. All status effects are removed when the caster is defeated."
+            "对所有敌人造成 300% 伤害。",
+            "召唤一个保镖超级小兵，其可从施法者处继承 50% 生命值和 250% 攻击力。",
+            "被保镖超级小兵击中的目标陷入沉睡，且沉睡期间受到的伤害增加 +60%。（沉睡的目标无法获得法力。沉睡目标受到伤害后便会苏醒。这不包括来自小兵和恶魔的伤害。此效果不可净化）"
         ]
     },
     {
         "originalIndex": 406,
-        "name": "阿多莫斯 (Atomos) C1",
+        "name": "阿多斯 (Athos)",
         "effects": [
-            "Deals 160% damage to all enemies.",
-            "The less mana the enemies have, the more damage they will receive, up to 310%.",
-            "If the caster is defeated during the next 5 turns, they are resurrected in the beginning of their next turn with 40% health. All status effects and stacks are removed when the caster is defeated."
+            "摧毁目标的所有小兵。",
+            "对目标造成 470% 伤害。",
+            "每摧毁一名小兵，施法者获得 20% 法力。",
+            "攻击会无视防御增益（包括反击）。",
+            "施法者在 2 回合内恢复 306 点生命值。"
         ]
     },
     {
         "originalIndex": 407,
-        "name": "阿特伍德 (Atwood)",
+        "name": "阿多莫斯 (Atomos)",
         "effects": [
-            "Dispels buffs from the target and nearby enemies.",
-            "Deals 380% damage to the target and nearby enemies and inflicts 45 Insanity on them.",
-            "All allies are immune to damage from status ailments for 4 turns.",
-            "Inflicts 55 Insanity to the caster."
+            "对所有敌人造成 170% 伤害。",
+            "敌人的法力越高，受到的伤害越大，最高可达 290%。",
+            "如果施法者在后续 5 回合中被击败，该施法者将于下一个回合开始时以 32% 的生命复活。施法者被击败时所有状态效果会被移除。"
         ]
     },
     {
         "originalIndex": 408,
-        "name": "奥古斯都 (Augustus)",
+        "name": "阿多莫斯 (Atomos) C1",
         "effects": [
-            "Cleanses status ailments from all allies.",
-            "Boosts health for all allies by 690. Boosted health can exceed max HP.",
-            "Boosts health by additional 30 per each Nature shield on the board, up to 930 boosted health.",
-            "Summons an Elf Minion for each ally with 10% HP and 10% attack inherited from the caster.",
-            "All allies get +34% defense and a further 6% increase per each Nature shields on the board for 5 turns, up to +82% defense."
+            "对所有敌人造成 160% 伤害。",
+            "敌人的法力越低，受到的伤害越大，最高可达 310%。",
+            "如果施法者在后续 5 回合中被击败，该施法者将于下一个回合开始时以 40% 的生命复活。施法者被击败时所有状态和叠加效果会被移除。"
         ]
     },
     {
         "originalIndex": 409,
-        "name": "巴尔巴 (Balbar)",
+        "name": "阿特伍德 (Atwood)",
         "effects": [
-            "Deals 320% damage to the target.",
-            "The target falls asleep.",
-            "While asleep, the target can't attack or gain mana.",
-            "All damage dealt to the sleeping target is increased by +60%.",
-            "The sleeping target is woken once it takes damage. This excludes damage from minions and fiends.",
-            "Element Link gives +10% increase for any healing received for all Nature allies for 4 turns. This effect can't be dispelled."
+            "驱散目标和附近敌人身上的增益。",
+            "对目标和附近敌人造成 380% 伤害，并对其施加 45 点狂乱。",
+            "所有盟友对来自状态异常的伤害免疫，持续 4 回合。",
+            "对施法者施加 55 点狂乱。"
         ]
     },
     {
         "originalIndex": 410,
-        "name": "贝蒂拉 (Bertila)",
+        "name": "奥古斯都 (Augustus)",
         "effects": [
-            "Deals 370% damage to all enemies.",
-            "Lifts all cleansable status ailments that affect attack or defense from all allies and randomly distributes them on enemies.",
-            "Element Link summons a Nature Minion for all Nature allies with 6% HP and 10% attack inherited from the caster."
+            "净化所有盟友的状态异常。",
+            "提高所有盟友 690 点生命值。提高的生命值可以超过最大生命值。",
+            "面板上每存在一个自然系盾牌，便额外提高 30 点生命加成，最高可达 930 点生命加成。",
+            "为每位盟友召唤一个精灵小兵，此小兵继承施法者 10% 的生命值和 10% 的攻击力。",
+            "所有盟友的获得 +34% 防御，面板中每个自然系盾牌额外提升 6% 防御，持续 5 回合，最多累计至 +82% 防御。"
         ]
     },
     {
         "originalIndex": 411,
-        "name": "博与朗特 (Bo & Runt)",
+        "name": "巴尔巴 (Balbar)",
         "effects": [
-            "Deals 450% damage to the target.",
-            "Deals additional 25% damage for each Minion owned by the allies, up to 650% damage in total.",
-            "Summons a Loyal Hound Minion for the caster with 35% HP and 35% attack inherited from the caster.",
-            "When summoned the Loyal Hound Minion give +50% attack for tis owner as long as the owner has Loyal Hound Minions. This effect can’t be dispelled.",
-            "Element Link gives all Nature allies +5% dodge chance for 6 turns. This effect cannot be dispelled."
+            "对目标造成 320% 伤害。",
+            "目标陷入沉睡。",
+            "沉睡期间，目标无法攻击或获得法力。",
+            "对沉睡目标造成的所有伤害增加 +60%。",
+            "沉睡目标受到伤害后便会苏醒。这不包括来自小兵和恶魔的伤害。",
+            "元素链给予所有自然系盟友受到的治疗增加 +10%，持续 4 回合。此效果无法驱散。"
         ]
     },
     {
         "originalIndex": 412,
-        "name": "邦佐 (Bonzo)",
+        "name": "贝蒂拉 (Bertila)",
         "effects": [
-            "Rearranges the enemy positions randomly.",
-            "Deals 250% damage to all enemies.",
-            "Damage bypasses target’s Minions.",
-            "The attack bypasses defensive buffs. (This includes counterattacks)"
+            "对所有敌人造成 370% 伤害。",
+            "解除影响全体盟友攻击或防御的全部可净化状态异常，并随机施放给敌人。",
+            "元素链为所有自然系盟友召唤出一名自然小兵，其可从施法者处继承 6% 生命和 10% 攻击力。"
         ]
     },
     {
         "originalIndex": 413,
-        "name": "哼哼和尖牙 (Boom & Fang)",
+        "name": "博与朗特 (Bo & Runt)",
         "effects": [
-            "Summons a White Boar Mega Minion with 65% HP and 250% attack inherited from the caster.",
-            "When summoned the White Boar Mega Minion gives its owner the ability to counterattack with 100% of the received damage as long as the owner has a White Boar Mega Minion. This effect can’t be dispelled."
+            "对目标造成 450% 伤害。",
+            "盟友每拥有一名小兵，便造成额外 25% 伤害，最多累计造成 650% 伤害。",
+            "为施法者召唤一个忠诚猎犬小兵，其可从施法者处继承 35% 生命值和 35% 攻击力。",
+            "忠诚猎犬小兵被召唤后，只要其所有者拥有该小兵，其所有者就会获得 +50% 攻击力。此效果无法净化。",
+            "元素链赋予所有自然系盟友 +5% 的闪避几率，持续 6 回合。此效果无法驱散。"
         ]
     },
     {
         "originalIndex": 414,
-        "name": "布兰博 (Bramble)",
+        "name": "邦佐 (Bonzo)",
         "effects": [
-            "Recovers 50% health for all allies.",
-            "All allies gain 25% mana after 3 turns or immediately if the effect is removed before the duration ends.",
-            "Safely cleanses status ailmentsfrom all allies. (Safe cleanse bypasses secondary effects, such as damage on removal, from removed status ailment. External effects such as passive skills and family effects can still activate.)"
+            "随机重新排列敌人位置。",
+            "对所有敌人造成 250% 伤害。",
+            "伤害无视目标的小兵。",
+            "攻击会无视防御增益。（包括反击）"
         ]
     },
     {
         "originalIndex": 415,
-        "name": "知贺雄 (Chikao)",
+        "name": "哼哼和尖牙 (Boom & Fang)",
         "effects": [
-            "1x Mana Charge",
-            " * Dispels buffs from the enemies on the edges of the enemy formation.",
-            " * Deals 300% damage to the enemies on the edges of the enemy formation. If there is only one enemy aive, the damage is doubled.",
-            " * The enemy on the edges of the formation fall asleep and receive +60% increased damage while sleeping. (A sleeping character cannot gain mana. The sleeping target is woken once it takes damage. This excludes damage from Minions and Fiends. This effect is uncleansable.)",
-            "2x Mana Charge",
-            " * Dispels buffs from the enemies on the edges of the enemy formation.",
-            " * Deals 485% damage to the enemies on the edges of the enemy formation. If there is only one enemy aive, the damage is doubled.",
-            " * The enemy on the edges of the formation fall asleep and receive +80% increased damage while sleeping. (A sleeping character cannot gain mana. The sleeping target is woken once it takes damage. This excludes damage from Minions and Fiends. This effect is uncleansable.)",
-            "3x Mana Charge",
-            " * Dispels buffs from the enemies on the edges of the enemy formation.",
-            " * Deals 900% damage to the enemies on the edges of the enemy formation. If there is only one enemy aive, the damage is doubled.",
-            " * The enemy on the edges of the formation fall asleep and receive +100% increased damage while sleeping. (A sleeping character cannot gain mana. The sleeping target is woken once it takes damage. This excludes damage from Minions and Fiends. This effect is uncleansable.)"
+            "召唤一个白野猪超级小兵，其可从施法者处继承 65% 生命值和 250% 攻击力。",
+            "白野猪超级小兵被召唤后，在拥有该小兵期间，该小兵使其所有者能以所受伤害的 100% 作出反击。此效果无法驱散。"
         ]
     },
     {
         "originalIndex": 416,
-        "name": "克洛丽丝 (Chloris)",
+        "name": "布兰博 (Bramble)",
         "effects": [
-            "Boosts health for all allies by 600. Boosted health can exceed max HP.",
-            "All allies regenerate 400 Bosted health over 4 turns. Boosted health can exceed max HP.",
-            "All allies get +50% attack as long as the caster has boosted health. This effect can’t be cleansed.",
-            "Element Link gives all Nature allies +20% critical chance for 6 turns. This effect cannot be dispelled."
+            "为所有盟友恢复 50% 生命值。",
+            "所有盟友在 3 回合后获得 25% 法力，或在该效果提前被移除时立即获得。",
+            "安全净化所有盟友身上的状态异常。（安全净化会无视状态异常被移除时的副作用，例如移除时的伤害。被动技能和家族效果等外来效果仍会生效）"
         ]
     },
     {
         "originalIndex": 417,
-        "name": "西尼希雅 (Cinisia)",
+        "name": "知贺雄 (Chikao)",
         "effects": [
-            "Deals 270% damage to all enemies.",
-            "All enemies get -60% decrease of any healing received for 3 turns.",
-            "All enemies receive 414 Bleed damage over 2 turns. Against Ice characters, this status effect becomes uncleansable and lasts 2 turns longer.",
-            "Element Link gives +10% mana generation for all Nature allies for 4 turns. This effect cannot be dispelled."
+            "1 倍法力充能：",
+            "* 驱散敌方阵型边缘敌人身上的增益。",
+            "* 对位于敌军阵型边缘的敌人造成 300% 伤害。如果仅有一名敌人，则伤害加倍。",
+            "* 敌方阵型边缘的敌人陷入沉睡，且沉睡期间受到的伤害增加 +60%。（沉睡的目标无法获得法力。沉睡目标受到伤害后便会苏醒。这不包括来自小兵和恶魔的伤害。此效果不可净化）",
+            "2 倍法力充能：",
+            "* 驱散敌方阵型边缘敌人身上的增益。",
+            "* 对位于敌军阵型边缘的敌人造成 485% 伤害。如果仅有一名敌人，则伤害加倍。",
+            "* 敌方阵型边缘的敌人陷入沉睡，且沉睡期间受到的伤害增加 +80%。（沉睡的目标无法获得法力。沉睡目标受到伤害后便会苏醒。这不包括来自小兵和恶魔的伤害。此效果不可净化）",
+            "3 倍法力充能：",
+            "* 驱散敌方阵型边缘敌人身上的增益。",
+            "* 对位于敌军阵型边缘的敌人造成 900% 伤害。如果仅有一名敌人，则伤害加倍。",
+            "* 敌方阵型边缘的敌人陷入沉睡，且沉睡期间受到的伤害增加 +100%。（沉睡的目标无法获得法力。沉睡目标受到伤害后便会苏醒。这不包括来自小兵和恶魔的伤害。此效果不可净化）"
         ]
     },
     {
         "originalIndex": 418,
-        "name": "康伽拉赫 (Congalach)",
+        "name": "克洛丽丝 (Chloris)",
         "effects": [
-            "Deals 310% damage to 5 random enemies.",
-            "Stack (Max: 10): Each hit gives its target -9% attack."
+            "提高所有盟友 600 点生命值。提高的生命值可以超过最大生命值。",
+            "所有盟友在 4 回合内获得 400 点生命加成。提高的生命值可以超过最大生命值。",
+            "施法者拥有生命值加成期间，所有盟友均获得 +50% 攻击力。此效果无法净化。",
+            "元素链为全体自然系盟友提供 +20% 的暴击几率，持续 6 回合。此效果无法驱散。"
         ]
     },
     {
         "originalIndex": 419,
-        "name": "康伽拉赫 (Congalach) C1",
+        "name": "西尼希雅 (Cinisia)",
         "effects": [
-            "Deals 325% damage to 5 random enemies.",
-            "Stack (Max: 10): Each hit gives its target -8% attack."
+            "对所有敌人造成 270% 伤害。",
+            "所有敌人获得的治疗减少 -60%，持续 3 回合。",
+            "所有敌人在 2 回合内受到共计 414 点流血伤害。对冰雪系角色，此状态效果不可净化且持续时间延长 2 回合。",
+            "元素链为全体自然系盟友提供 +10% 的法力生成，持续 4 回合。此效果无法驱散。"
         ]
     },
     {
         "originalIndex": 420,
-        "name": "克拉姆 (Craum)",
+        "name": "康伽拉赫 (Congalach)",
         "effects": [
-            "Recovers 800 boosted health for all allies.",
-            "Recovers additional 50 boosted heath for each Nature shield, up to 1400.",
-            "All Ice enemies receive 972 Sand damage over 4 turns.",
-            "All Fire enemies receive 972 Water damage over 4 turns.",
-            "All Dark enemies receive 972 Burn damage over 4 turns.",
-            "All Holy enemies receive 972 Poison damage over 4 turns."
+            "对 5 名随机敌人造成 310% 伤害。",
+            "叠加（最多 10 层）：每次命中给予目标 -9% 攻击力。"
         ]
     },
     {
         "originalIndex": 421,
-        "name": "克里斯托巴尔 (Cristobal)",
+        "name": "康伽拉赫 (Congalach) C1",
         "effects": [
-            "Special Skill has a different effect when charged with 100%/200% mana:",
-            "1x Mana Charge:",
-            " * Deals 250% damage to the target.",
-            " * Deals 500% damage if the target has less than 50% health remaining.",
-            "2x Mana Charge:",
-            " * Deals 215% damage to all enemies.",
-            " * Deals 430% damage to enemies with more than 50% health remaining."
+            "对 5 名随机敌人造成 325% 伤害。",
+            "叠加（最多 10 层）：每次命中给予目标 -8% 攻击力。"
         ]
     },
     {
         "originalIndex": 422,
-        "name": "达格 (Dagr)",
+        "name": "克拉姆 (Craum)",
         "effects": [
-            "Attacks all enemies with Firestorm Strike, dealing up to 1500 damage. Deals 40% more if the target is of the Nature element. This Special Skill never misses its targets.",
-            "Damage bypasses target’s Minions.",
-            "All enemies receive 388 Poison damage over 4 turns.",
-            "All enemies take +50% increased damage from Burn and Poison status ailments for 4 turns."
+            "为所有盟友恢复 800 点生命加成。",
+            "每有一面自然系盾牌额外恢复 50 点生命加成，最高 1400 点。",
+            "所有冰雪系敌人在 4 回合内受到共计 972 点沙系伤害。",
+            "所有烈火系敌人在 4 回合内受到共计 972 点水系伤害。",
+            "所有暗黑系敌人在 4 回合内受到共计 972 点燃烧伤害。",
+            "所有神圣系敌人在 4 回合内受到共计 972 点剧毒伤害。"
         ]
     },
     {
         "originalIndex": 423,
-        "name": "达洛加 (Daroga)",
+        "name": "克里斯托巴尔 (Cristobal)",
         "effects": [
-            "Deals 535% damage to the target.",
-            "The targets receives 1245 Bleeding damage over 3 turns. This effect spreads to nearby enemies.",
-            "Stack (Max 10): All allies get +25% attack."
+            "当特殊技能充能至 100% / 200% 法力时将拥有不同的效果：",
+            "1 倍法力充能：",
+            "* 对目标造成 250% 伤害。",
+            "* 如果目标剩余生命少于 50%，可对其造成 500% 伤害。",
+            "2 倍法力充能：",
+            "* 对所有敌人造成 215% 伤害。",
+            "* 对剩余生命值超过 50% 的敌人造成 430% 伤害。"
         ]
     },
     {
         "originalIndex": 424,
-        "name": "德斯蒙德 (Desmond)",
+        "name": "达格 (Dagr)",
         "effects": [
-            "Deals 480% damage to the enemies of the edges of the enemy formation. If there is only one enemy alive, the damage is doubled.",
-            "Boosts the caster’s and nearby allies’ health by 20% of the damage dealt.",
-            "For each hit Ice enemy, the boosted health is 40% of the damage dealt to them.",
-            "The enemies on the edges of the enemy formation get silenced for 3 turns. Against Ice characters, this status effect becomes uncleasable and lasts 2 turns longer."
+            "使用焰暴闪袭攻击所有敌人，造成最多 1500 点伤害。若目标为自然系元素则额外造成 40% 伤害。该特殊技能必定命中。",
+            "伤害无视目标的小兵。",
+            "所有敌人在 4 回合内受到共计 388 点剧毒伤害。",
+            "所有敌人从燃烧和剧毒状态异常所受到的伤害增加 +50%，持续 4 回合。"
         ]
     },
     {
         "originalIndex": 425,
-        "name": "多戈洛姆 (Dodgrom)",
+        "name": "达洛加 (Daroga)",
         "effects": [
-            "The caster gets Taunt that prevents enemies from using Special Skills on the caster’s allies for 4 turns.",
-            "The caster counterattacks a random enemy with 80% of the damage received for 4 turns.",
-            "The caster reduces all received damage by -35% for 4 turns."
+            "对目标造成 535% 伤害。",
+            "目标在 3 回合内受到共计 1245 点流血伤害。此效果会蔓延至附近敌人。",
+            "叠加（最多 10 层）：所有盟友获得 +25% 攻击力。"
         ]
     },
     {
         "originalIndex": 426,
-        "name": "艾格齐乌 (Ecgtheow)",
+        "name": "德斯蒙德 (Desmond)",
         "effects": [
-            "Deals 500% damage to the enemy with the highest remaining HP. Deals 300% damage to all other enemies.",
-            "Reduces the mana of the enemy with the most mana by 50%. Reduces the mana of all other enemies by 30%."
+            "对位于敌军阵型边缘的敌人造成 480% 伤害。如果仅有一名敌人，则伤害加倍。",
+            "为施法者和附近盟友提高相当于所造成伤害 20% 的生命值。",
+            "每命中一名冰雪系敌人，提高的生命值为对其造成伤害的 40%。",
+            "处于敌人阵型边缘的敌人会被沉默，持续 3 回合。对冰雪系角色，此状态效果不可净化且持续时间延长 2 回合。"
         ]
     },
     {
         "originalIndex": 427,
-        "name": "艾德文 (Edwin)",
+        "name": "多戈洛姆 (Dodgrom)",
         "effects": [
-            "Deals 250% damage to all enemies.",
-            "The attack bypasses defensive buffs. This includes counterattacks.",
-            "The enemies can’t get their status ailments cleansed or reallocated by Special Skills for 3 turns."
+            "施法者获得嘲讽，可阻止敌人对其盟友使用特殊技能，持续 4 回合。",
+            "施法者以所受伤害的 80% 进行反击，随机一名敌人，持续 4 回合。",
+            "施法者所受的所有伤害减少 -35%，持续 4 回合。"
         ]
     },
     {
         "originalIndex": 428,
-        "name": "埃奥拉与毛毛 (Eiora & Fluffy)",
+        "name": "艾格齐乌 (Ecgtheow)",
         "effects": [
-            "Destroys all minions from the target. This effect damages Mega Minions.",
-            "Deals 600% damage to the target.",
-            "Reduces max health from all enemies who own Minions by 404. Max health can't get lower than 30% of the original max health."
+            "对剩余生命值最高的敌人造成 500% 伤害。对其他所有敌人造成 300% 伤害。",
+            "令法力最多的敌人降低 50% 法力。令其他所有敌人降低 30% 法力。"
         ]
     },
     {
         "originalIndex": 429,
-        "name": "埃卡奈特 (Ekanite)",
+        "name": "艾德文 (Edwin)",
         "effects": [
-            "Special Skill has a different effect when charged with 100%/200%/300% mana:",
-            "x1 Mana Charge:",
-            " - Deals 200% damage to all enemies.",
-            " - Summons a Shinobi Minion for each ally with 8% HP and 10% attack inherited from the caster.",
-            " - When summoned, the Shinobi Minion gives its owner the ability to counterattack with 60% of the damage received for as long as the owner has a Shinobi Minion. The effect can’t be dispelled.",
-            "x2 Mana Charge:",
-            " - Deals 280% damage to all enemies.",
-            " - Summons a Shinobi Minion for each ally with 16% HP and 16% attack inherited from the caster.",
-            " - When summoned, the Shinobi Minion gives its owner the ability to counterattack with 60% of the damage received for as long as the owner has a Shinobi Minion. The effect can’t be dispelled.",
-            "x3 Mana Charge:",
-            " - Deals 360% damage to all enemies.",
-            " - Summons a Shinobi Minion for each ally with 22% HP and 26% attack inherited from the caster.",
-            " - When summoned, the Shinobi Minion gives its owner the ability to counterattack with 60% of the damage received for as long as the owner has a Shinobi Minion. The effect can’t be dispelled."
+            "对所有敌人造成 250% 伤害。",
+            "攻击会无视防御增益（包括反击）。",
+            "敌人无法用特殊技能净化或转移其状态异常，持续 3 回合。"
         ]
     },
     {
         "originalIndex": 430,
-        "name": "埃纳达哈 (El Naddaha)",
+        "name": "埃奥拉与毛毛 (Eiora & Fluffy)",
         "effects": [
-            "Deals 305% damage to the target and nearby enemies.",
-            "The target and nearby enemies are immune to new status effect buff for 3 turns, and receive 200 damage for each attempted buff."
+            "摧毁目标的所有小兵。此效果会对巨大体型小兵造成伤害。",
+            "对目标造成 600% 伤害。",
+            "使全部拥有小兵的敌人减少 404 点最大生命值。最大生命值不能低于初始最大生命值的 30%。"
         ]
     },
     {
         "originalIndex": 431,
-        "name": "埃纳达哈 (El Naddaha) C1",
+        "name": "埃卡奈特 (Ekanite)",
         "effects": [
-            "Deals 295% damage to the target and nearby enemies.",
-            "The target and nearby enemies are immune to new status effect buffs for 3 turns, and receive 400 damage for each attempted buff."
+            "当特殊技能充能至 100% / 200% / 300% 法力时将拥有不同的效果：",
+            "1 倍法力充能：",
+            "- 对所有敌人造成 200% 伤害。",
+            "- 为每位盟友召唤一个忍者小兵，其可从施法者处继承 8% 生命和 10% 攻击力。",
+            "- 忍者小兵被召唤后，在拥有该小兵期间，该小兵使其所有者能以所受伤害的 60% 作出反击。此效果无法驱散。",
+            "2 倍法力充能：",
+            "- 对所有敌人造成 280% 伤害。",
+            "- 为每位盟友召唤一个忍者小兵，其可从施法者处继承 16% 生命和 16% 攻击力。",
+            "- 忍者小兵被召唤后，在拥有该小兵期间，该小兵使其所有者能以所受伤害的 60% 作出反击。此效果无法驱散。",
+            "3 倍法力充能：",
+            "- 对所有敌人造成 360% 伤害。",
+            "- 为每位盟友召唤一个忍者小兵，其可从施法者处继承 22% 生命和 26% 攻击力。",
+            "- 忍者小兵被召唤后，在拥有该小兵期间，该小兵使其所有者能以所受伤害的 60% 作出反击。此效果无法驱散。"
         ]
     },
     {
         "originalIndex": 432,
-        "name": "埃尔卡能 (Elkanen)",
+        "name": "埃纳达哈 (El Naddaha)",
         "effects": [
-            "Deals 330% damage to the target and minor damage to nearby enemies",
-            "Heals the caster for 38% or damage dealt"
+            "对目标及附近敌人造成 305% 伤害。",
+            "目标与附近敌人对新的增益状态效果免疫，持续 3 回合，且每当有增益效果尝试施加于其上，他们都将受到 200 点伤害。"
         ]
     },
     {
         "originalIndex": 433,
-        "name": "埃尔卡能 (Elkanen) C1",
+        "name": "埃纳达哈 (El Naddaha) C1",
         "effects": [
-            "Deals 280% damage to the target and nearby enemies",
-            "The caster steals 61% of any healing applied to the target and nearby enemies for 3 turns"
+            "对目标及附近敌人造成 295% 伤害。",
+            "目标与附近敌人对新的增益状态效果免疫，持续 3 回合，且每当有增益效果尝试施加于其上，他们都将受到 400 点伤害。"
         ]
     },
     {
         "originalIndex": 434,
-        "name": "埃尔卡能 (Elkanen) C2",
+        "name": "埃尔卡能 (Elkanen)",
         "effects": [
-            "Deals 230% damage to all enemies",
-            "All enemies get -50% decrease for any healing received for 3 turns. This effect can't be cleansed."
+            "对目标造成 330% 伤害，并对附近敌人造成轻微伤害。",
+            "为施法者恢复等同于所造成伤害 38% 的生命值。"
         ]
     },
     {
         "originalIndex": 435,
-        "name": "埃尔卡能 (Elkanen) 卡通",
+        "name": "埃尔卡能 (Elkanen) C1",
         "effects": [
-            "Deals 410% damage to the target and minor damage to nearby enemies.",
-            "Heals the caster for 35% of damage dealt.",
-            "Deals extra damage against Ice."
+            "对目标及附近敌人造成 280% 伤害。",
+            "施法者偷取目标及其附近敌人所获治疗的 61%，持续 3 回合。"
         ]
     },
     {
         "originalIndex": 436,
-        "name": "埃尔卡能 (Elkanen) 玻璃",
+        "name": "埃尔卡能 (Elkanen) C2",
         "effects": [
-            "Deals 420% damage to the target and minor damage to nearby enemies.",
-            "The attack bypasses defensive buffs. (This includes counterattacks.)",
-            "Heals the caster for 37% of damage dealt."
+            "对所有敌人造成 230% 伤害。",
+            "所有敌人获得的治疗减少 -50%，持续 3 回合。此效果无法净化。"
         ]
     },
     {
         "originalIndex": 437,
-        "name": "埃拉德 (Elradir)",
+        "name": "埃尔卡能 (Elkanen) 卡通",
         "effects": [
-            "Deals 345% damage to the target and nearby enemies.",
-            "The caster reflects 130% of the damage received from their status ailments and negative stacks to all enemies for 4 turns.",
-            "Element Link gives all Nature allies small amount of mana at the end of the turn for 4 turns. This effect can't be dispelled."
+            "对目标造成 410% 伤害，并对附近敌人造成轻微伤害。",
+            "为施法者恢复等同于所造成伤害 35% 的生命值。",
+            "对冰雪系造成额外伤害。"
         ]
     },
     {
         "originalIndex": 438,
-        "name": "艾莉莎 (Elyssa)",
+        "name": "埃尔卡能 (Elkanen) 玻璃",
         "effects": [
-            "Recovers 50% health for all allies.",
-            "All ailments affecting attack, defense and mana generation on the caster and nearby allies are replaced by matching undispellable buffs. (Replacing cannot be blocked by status effects, family effects or passives. Only status effects that are dispellable or cleansable can be replaced. Replacement effects: Attack ailments are replaced with +40% attack buff for 4 turns. Defense ailments are replaced with +40% defense buff for 4 turns. Mana generation ailments are replaced with +40% mana generation buff for 4 turns.)",
-            "Caster and nearby allies resist new negative mana effects for 4 turns, and their mana is increased by 10% for each resisted effect."
+            "对目标造成 420% 伤害，并对附近敌人造成轻微伤害。",
+            "攻击会无视防御增益。（包括反击）",
+            "为施法者恢复等同于所造成伤害 37% 的生命值。"
         ]
     },
     {
         "originalIndex": 439,
-        "name": "恩尼格莫 (Enigmo)",
+        "name": "埃拉德 (Elradir)",
         "effects": [
-            "Recovers 25% health for all allies.",
-            "Deals 150% damage to all enemies.",
-            "All Minions memorized by the innate abilty are summoned to all allies.",
-            "All Fiends memorized by the innate abilty are summoned to all enemies."
+            "对目标及附近敌人造成 345% 伤害。",
+            "施法者将自身状态异常及负面效果叠加所造成伤害的 130% 反弹给所有敌人，持续 4 回合。",
+            "元素链在回合结束时为所有自然系盟友恢复少量法力，持续 4 回合。此效果无法驱散。"
         ]
     },
     {
         "originalIndex": 440,
-        "name": "伊夫林 (Evelyn)",
+        "name": "艾莉莎 (Elyssa)",
         "effects": [
-            "Deals 290% damage to the target and nearby enemies",
-            "The target and nearby enemies get -54% defense against Nature for 4 turns",
-            "Dispels buffs from the target and nearby enemies",
-            "Element Link recovers 4% health for all Nature allies for 6 turns. This effect can't be cleansed"
+            "为所有盟友恢复 50% 生命值。",
+            "影响施法者和附近盟友的攻击、防御和法力生成的所有状态异常，替换为对应的不可驱散增益。（替换效果无法被状态效果、家族效果或被动技能阻挡。只有可驱散或可净化的状态效果才可被替换。替换效果：攻击力异常状态将被 +40% 攻击力增益取代，持续 4 回合。防御异常状态将被 +40% 防御增益取代，持续 4 回合。法力生成异常状态将被 +40% 法力生成增益取代，持续 4 回合）",
+            "施法者和附近盟友可抵御新的负面法力效果，持续 4 回合，每抵御一个效果法力增加 10%。"
         ]
     },
     {
         "originalIndex": 441,
-        "name": "伊夫林 (Evelyn) C1",
+        "name": "恩尼格莫 (Enigmo)",
         "effects": [
-            "Deals 280% damage to the target and nearby enemies.",
-            "The target and nearby enemies get -56% defense against Nature for 4 turns.",
-            "Dispels buffs from target and nearby enemies.",
-            "Element Link recovers 4% health for all Nature allies for 6 turns. This effect can’t be dispelled."
+            "为所有盟友恢复 25% 生命值。",
+            "对所有敌人造成 150% 伤害。",
+            "对其所有盟友召唤天赋所回溯的所有小兵。",
+            "对所有敌人召唤其天赋所回溯的所有恶魔。"
         ]
     },
     {
         "originalIndex": 442,
-        "name": "经验拟态兽 (Experience Mimic) Nature",
+        "name": "伊夫林 (Evelyn)",
         "effects": [
-            "Destroys all Minions from the target. This effect damages Mega Minions.",
-            "Deals 530% damage to the target.",
-            "If the target is defeated by the attack, the caster recovers +50% health and gains 33% mana.",
-            "The Mimic chest closes for 2 turns. (The Mimic is immune to damage and new status ailments while closed.)"
+            "对目标及附近敌人造成 290% 伤害。",
+            "目标与附近敌人获得对自然系 -54% 的防御，持续 4 回合。",
+            "驱散目标和附近敌人身上的增益。",
+            "元素链为全体自然系盟友提供 4% 的生命恢复，持续 6 回合。此效果无法净化。"
         ]
     },
     {
         "originalIndex": 443,
-        "name": "法夫纳 (Fafnir)",
+        "name": "伊夫林 (Evelyn) C1",
         "effects": [
-            "Attacks the target and nearby enemies with Frostfall Strike, dealing up to 2100 damage. Deals 40% more if the target is of the Fire element. This Special Skill never misses its targets.",
-            "All damage the target and nearby enemies receive is increased by +35% for 3 turns.",
-            "The target and nearby enemies reflect status effect buffs to a random character on the opposing team for 3 turns. (Only dispellable buffs are reflected.)"
+            "对目标及附近敌人造成 280% 伤害。",
+            "目标与附近敌人获得对自然系 -56% 的防御，持续 4 回合。",
+            "驱散目标和附近敌人身上的增益。",
+            "元素链为全体自然系盟友提供 4% 的生命恢复，持续 6 回合。此效果无法驱散。"
         ]
     },
     {
         "originalIndex": 444,
-        "name": "菲布路斯 (Februus)",
+        "name": "经验拟态兽 (Experience Mimic) Nature",
         "effects": [
-            "Destroys all Fiends from all allies.",
-            "Cleanses status ailments from all allies.",
-            "All allies regenerate 1190 HP over 5 turns. This effect can’t be dispelled.",
-            "All enemies receive 815 Poison damage over 5 turns. This effect can’t be cleansed."
+            "摧毁目标的全部小兵。此效果会对超级小兵造成伤害。",
+            "对目标造成 530% 伤害。",
+            "若本次攻击将敌人击败，那么施法者将恢复 +50% 生命并获得 33% 法力。",
+            "拟态兽宝箱关闭 2 回合。（拟态兽宝箱关闭时免疫伤害和新的状态异常）"
         ]
     },
     {
         "originalIndex": 445,
-        "name": "费洛斯 (Ferrus)",
+        "name": "法夫纳 (Fafnir)",
         "effects": [
-            "Deals 390% damage to the target and nearby enemies.",
-            "The target and nearby enemies receive 576 Bleed damage over 3 turns.",
-            "The target and nearby enemies get -60% defense against Nature for 3 turns."
+            "使用霜降打击攻击目标和附近敌人，造成最多 2100 点伤害。若目标为火焰系元素则额外造成 40% 伤害。该特殊技能必定命中。",
+            "目标与附近敌人受到的所有伤害增加 +35%，持续 3 回合。",
+            "目标和附近敌人将反弹增益状态效果至我方战队的一名随机角色，持续 3 回合。（只有可驱散的增益才可反弹）"
         ]
     },
     {
         "originalIndex": 446,
-        "name": "弗洛伦娜 (Florenna)",
+        "name": "菲布路斯 (Februus)",
         "effects": [
-            "Deals 435% damage to the target.",
-            "The target can’t get their status ailments cleansed or reallocated by Special Skills for 3 turns. (This effect also prevents cleansing and reallocating of itself.)",
-            "The target receives 912 Poison damage over 3 turn. This effect spreads to nearby enemies.",
-            "Elemental Link gives all Nature allies +20% attack for 4 turns. This effect can’t be dispelled."
+            "摧毁所有盟友的恶魔。",
+            "净化所有盟友的状态异常。",
+            "所有盟友在 5 回合内恢复 1190 点生命值。此效果无法驱散。",
+            "所有敌人在 5 回合内受到共计 815 点剧毒伤害。此效果无法净化。"
         ]
     },
     {
         "originalIndex": 447,
-        "name": "狐斯利 (Foxley)",
+        "name": "费洛斯 (Ferrus)",
         "effects": [
-            "Deals 375% damage to the target and nearby enemies.",
-            "The target and nearby enemies receive lasting 250 Bleed damage per turn. (This effect lasts until it is cleaned, replaced or removed.)",
-            "After 2 turn the target and nearby enemies get Paralyzed for 1 turn. (Paralyzed enemies can’t attack, or gain mana and receive +50% increased damage. Bosses, Titans and Mythic Titans are not affeced by this status effect.)"
+            "对目标及附近敌人造成 390% 伤害。",
+            "目标与附近敌人在 3 回合内受到共计 576 点流血伤害。",
+            "目标与附近敌人获得对自然系 -60% 的防御，持续 3 回合。"
         ]
     },
     {
         "originalIndex": 448,
-        "name": "弗朗辛 (Francine)",
+        "name": "弗洛伦娜 (Florenna)",
         "effects": [
-            "Deals 225% damage to the target and nearby enemies.",
-            "Cleanses status ailments from all allies at the end of each turn for 3 turns.",
-            "Deals extra damage against Ice."
+            "对目标造成 435% 伤害。",
+            "目标无法用特殊技能净化或转移其状态异常，持续 3 回合。（此效果也无法被净化或转移）",
+            "目标在 3 回合内受到共计 912 点剧毒伤害。此效果会蔓延至附近敌人。",
+            "元素链为全体自然系盟友提供 +20% 攻击力，持续 4 回合。此效果无法驱散。"
         ]
     },
     {
         "originalIndex": 449,
-        "name": "弗朗辛 (Francine) C1",
+        "name": "狐斯利 (Foxley)",
         "effects": [
-            "Deals 225% damage to the target and nearby enemies.",
-            "Cleanses status ailments from all allies at the end of each turn for 3 turns. This effect can't be dispelled.",
-            "All Ice enemies get -54% defense against Nature for 3 turns."
+            "对目标及附近敌人造成 375% 伤害。",
+            "目标与附近敌人每回合受到 250 点流血伤害，持续无限回合。（此效果持续至被净化、替换或移除）",
+            "2 回合后目标和附近敌人被施加麻木，持续 1 回合。（麻木的敌人无法攻击或获得法力，并且受到的伤害提升 +50%。首领、泰坦和神话泰坦不受此状态效果影响）"
         ]
     },
     {
         "originalIndex": 450,
-        "name": "弗丽嘉 (Frigg)",
+        "name": "弗朗辛 (Francine)",
         "effects": [
-            "Deals 100% damage to all enemies.",
-            "Deals additional 18% damage per each Nature shield on the board, up to 244% damage in total.",
-            "All enemies get -8% defense, and a further -3% decrease per each Nature shield on the board for 3 turns, up to -44% defense."
+            "对目标及附近敌人造成 225% 伤害。",
+            "在回合结束时净化所有队友的状态异常，持续 3 回合。",
+            "对冰雪系造成额外伤害。"
         ]
     },
     {
         "originalIndex": 451,
-        "name": "弗丽嘉 (Frigg) C1",
+        "name": "弗朗辛 (Francine) C1",
         "effects": [
-            "Deals 90% damage to all enemies.",
-            "Deals additional 18% damage per each Nature shield on the board, up to 234% damage in total.",
-            "All enemies get -12% defense, and a further -3% decrease per each Nature shield on the board for 3 turns, up to -48% defense."
+            "对目标及附近敌人造成 225% 伤害。",
+            "在回合结束时净化所有队友的状态异常，持续 3 回合。此效果无法驱散。",
+            "所有冰雪系敌人获得对自然系 -54% 的防御，持续 3 回合。"
         ]
     },
     {
         "originalIndex": 452,
-        "name": "青蛙王子 (Frog Prince)",
+        "name": "弗丽嘉 (Frigg)",
         "effects": [
-            "Deals 230% damage to all enemies.",
-            "All enemies receive 1285 Poison damage over 5 turns. The caster receives  a small amount of mana each time Poison damage is applied.",
-            "All enemies get -34% mana generation for 5 turns.",
-            "Allies share the damage this character would receive from Special Skill  attacks and normal attacks for 5 turns."
+            "对所有敌人造成 100% 伤害。",
+            "面板上每存在一个自然系盾牌，便额外造成 18% 伤害，最多累计造成 244% 伤害。",
+            "所有敌人获得 -8% 防御，且面板上每有一个自然系盾牌则额外降低 -3%，持续 3 回合，最多累计至 -44% 防御。"
         ]
     },
     {
         "originalIndex": 453,
-        "name": "伏榕德 (Frond)",
+        "name": "弗丽嘉 (Frigg) C1",
         "effects": [
-            "Deals 375% damage to the target and nearby enemies.",
-            "Deals 900 extra damage if the target has boosted health.",
-            "All allies’ normal attacks and Special Skills deals +85% damage against targets with boosted health for 3 turns."
+            "对所有敌人造成 90% 伤害。",
+            "面板上每存在一个自然系盾牌，便额外造成 18% 伤害，最多累计造成 234% 伤害。",
+            "所有敌人获得 -12% 防御，且面板上每有一个自然系盾牌则额外降低 -3%，持续 3 回合，最多累计至 -48% 防御。"
         ]
     },
     {
         "originalIndex": 454,
-        "name": "香菇斯丁 (Fungustine)",
+        "name": "青蛙王子 (Frog Prince)",
         "effects": [
-            "Boosts health of all allies by 1250. Boosted health can exceed max HP.",
-            "All allies get Sticky surface for 4 turns. This effect can`t be dispelled.",
-            "Sticky surface: Steals 1 random dispellable buff or Growth effect from an attacking enemy. (Each hero with Sticky Surface can only steal one status effect buff or Growth effect per turn from normal attacks.)",
-            "All allies get +30% defense for 4 turns.",
-            "All allies are immune to buff dispels and relocations for 4 turns. (This immunity also includes this effect itself.)"
+            "对所有敌人造成 230% 伤害。",
+            "所有敌人在 5 回合内受到共计 1285 点剧毒伤害。每当剧毒伤害触发时，施法者都会获得少量法力。",
+            "所有敌人获得 -34% 法力生成，持续 5 回合。",
+            "盟友将共同承受此角色本应受到的特殊技能攻击和普通攻击，持续 5 回合。"
         ]
     },
     {
         "originalIndex": 455,
-        "name": "加拉帕戈 (Galapago)",
+        "name": "伏榕德 (Frond)",
         "effects": [
-            "Special Skill need consecutive uses to reach full power, the following order:",
-            "1st:",
-            " * Destroys all Minions from all enemies.",
-            " * Deals 280% damage to all enemies.",
-            " * All allies get +30% defense for 3 turns.",
-            "2nd:",
-            " * Destroys all Minions from all enemies.",
-            " * Deals 370% damage to all enemies.",
-            "* Stack (Max 10): The caster recovers 24 HP each turn for each destroyed Minion.",
-            " * All allies get +50% defense for 3 turns."
+            "对目标及附近敌人造成 375% 伤害。",
+            "如果目标拥有生命加成，则造成 900 点额外伤害。",
+            "所有盟友的普通攻击和特殊技能可对拥有生命加成的目标造成 +85% 伤害，持续 3 回合。"
         ]
     },
     {
         "originalIndex": 456,
-        "name": "加拉帕戈 (Galapago) C1",
+        "name": "香菇斯丁 (Fungustine)",
         "effects": [
-            "Special Skill need consecutive uses to reach full power, the following order:",
-            "1st:",
-            " * Destroys all Minions from all enemies.",
-            " * Deals 270% damage to all enemies.",
-            " * All allies get +25% defense for 3 turns.",
-            "2nd:",
-            " * Destroys all Minions from all enemies.",
-            " * Deals 400% damage to all enemies.",
-            "* Stack (Max 10): The caster recovers 30 HP each turn for each destroyed Minion.",
-            " * All allies get +55% defense for 3 turns."
+            "提高所有盟友 1250 点生命值。提高的生命值可以超过最大生命值。",
+            "所有盟友获得粘性表面，持续 4 回合。此效果无法驱散。",
+            "粘性表面：从攻击的敌人身上窃取 1 个随机可驱散增益或成长效果。（每个拥有粘性表面的英雄每回合只能从普通攻击中窃取一个状态效果增益或成长效果）",
+            "所有盟友获得 +30% 防御，持续 4 回合。",
+            "所有盟友对增益驱散和转移免疫，持续 4 回合。（此免疫效果也包含此效果本身）"
         ]
     },
     {
         "originalIndex": 457,
-        "name": "卡加莫 (Garjammal)",
+        "name": "加拉帕戈 (Galapago)",
         "effects": [
-            "Deals 430% damage to the target.",
-            "The caster regenerates 675 HP over 3 turns. The effect duration is reset if the caster is hit with direct damage from a special skill."
+            "必须连续使用特殊技能才能达到其最大威力，顺序为：",
+            "第一次：",
+            "* 摧毁全部敌人的全部小兵。",
+            "* 对所有敌人造成 280% 伤害。",
+            "* 所有盟友获得 +30% 防御，持续 3 回合。",
+            "第二次：",
+            "* 摧毁全部敌人的全部小兵。",
+            "* 对所有敌人造成 370% 伤害。",
+            "* 叠加（最多 10 层）：每摧毁一名小兵，施法者每回合恢复 24 点生命值。",
+            "* 所有盟友获得 +50% 防御，持续 3 回合。"
         ]
     },
     {
         "originalIndex": 458,
-        "name": "卡加莫 (Garjammal) C1",
+        "name": "加拉帕戈 (Galapago) C1",
         "effects": [
-            "Deals 410% damage to the target.",
-            "The caster regenerates 800 HP over 4 turns. The duration is reset if the caster is hit with direct damage from a special skill."
+            "必须连续使用特殊技能才能达到其最大威力，顺序为：",
+            "第一次：",
+            "* 摧毁全部敌人的全部小兵。",
+            "* 对所有敌人造成 270% 伤害。",
+            "* 所有盟友获得 +25% 防御，持续 3 回合。",
+            "第二次：",
+            "* 摧毁全部敌人的全部小兵。",
+            "* 对所有敌人造成 400% 伤害。",
+            "* 叠加（最多 10 层）：每摧毁一名小兵，施法者每回合恢复 30 点生命值。",
+            "* 所有盟友获得 +55% 防御，持续 3 回合。"
         ]
     },
     {
         "originalIndex": 459,
-        "name": "加滕 (Garten)",
+        "name": "卡加莫 (Garjammal)",
         "effects": [
-            "Boosts health of all allies by 700. Boosted health can exceed max HP.",
-            "Reduces max health of all enemies by 700. The effect is stronger against targets with boosted health. (Max health can’t get lower than 30% of the original max health. Any boosted health is reduced by an additional 700.",
-            "All allies except the caster receive Softskin. (The next time they receive damage, it is reduced by -90%, and they resist all status ailments and mana reduction. This effect can’t be dispelled.)",
-            "All allies are immune to new status ailments that affect healing for 4 turns. Removes status ailments that affect healing from allies."
+            "对目标造成 430% 伤害。",
+            "施法者在 3 回合内恢复 675 点生命值。如果施法者受到特殊技能的直接伤害，效果持续时间则会重置。"
         ]
     },
     {
         "originalIndex": 460,
-        "name": "杰勒 (Gelert)",
+        "name": "卡加莫 (Garjammal) C1",
         "effects": [
-            "Special Skill need consecutive uses to reach full power, the following order:",
-            "1st:",
-            " * Caster steals 10% mana from the target.",
-            " * Deals 460% damage to the target.",
-            " * The less mana the enemies have, the more damage they will receive, up to 600%.",
-            " * All allies get +25% mana generation for 3 turns.",
-            "2nd:",
-            " * Caster steals 20% mana from the target.",
-            " * Deals 530% damage to the target.",
-            " * The less mana the enemies have, the more damage they will receive, up to 700%.",
-            " * All allies get +30% mana generation for 3 turns."
+            "对目标造成 410% 伤害。",
+            "施法者在 4 回合内恢复 800 点生命值。如果施法者受到特殊技能的直接伤害，则持续时间会重置。"
         ]
     },
     {
         "originalIndex": 461,
-        "name": "杰勒 (Gelert) C1",
+        "name": "加滕 (Garten)",
         "effects": [
-            "Special Skill need consecutive uses to reach full power, the following order:",
-            "1st:",
-            " * Caster steals 15% mana from the target.",
-            " * Deals 500% damage to the target.",
-            " * The less mana the enemies have, the more damage they will receive, up to 650%.",
-            " * All allies get +26% mana generation for 3 turns. (Affects only mana generated from matching tiles or mana gained by the defense team at the end of their turn.)",
-            "2nd:",
-            " * Caster steals 25% mana from the target.",
-            " * Deals 550% damage to the target.",
-            " * The less mana the enemies have, the more damage they will receive, up to 720%.",
-            " * All allies get +35% mana generation for 3 turns. (Affects only mana generated from matching tiles or mana gained by the defense team at the end of their turn.)"
+            "提高所有盟友 700 点生命值。提高的生命值可以超过最大生命值。",
+            "使所有敌人减少 700 点最大生命值。若目标拥有提高的生命值，此效果会增强（最大生命值不能低于初始最大生命值的 30%。任何提高的生命值会额外减少 700 点）。",
+            "除施法者外所有盟友获得软化皮肤。（他们下次受到的伤害减少 -90%，并抵抗所有状态异常和法力减损。此效果无法驱散）",
+            "所有盟友对影响治疗的新状态异常免疫，持续 4 回合。移除所有盟友身上影响治疗的状态异常。"
         ]
     },
     {
         "originalIndex": 462,
-        "name": "金姬 (Ginger)",
+        "name": "杰勒 (Gelert)",
         "effects": [
-            "Summons an Elf Minion for each ally with 10% HP and 10% attack inherited from the caster.",
-            "For the next 3 turns, this character deals 500% damage to a random enemy each time any other ally casts their Special Skill. (Damage is dealt on the first Special Skill cast of each character per turn.)",
-            "All allies’ except the caster’s Special Skill deal an additional +20% damage for 3 turns."
+            "必须连续使用特殊技能才能达到其最大威力，顺序为：",
+            "第一次：",
+            "* 施法者从目标身上窃取 10% 法力。",
+            "* 对目标造成 460% 伤害。",
+            "* 敌人的法力越低，受到的伤害越大，最高可达 600%。",
+            "* 所有盟友获得 +25% 法力生成，持续 3 回合。",
+            "第二次：",
+            "* 施法者从目标身上窃取 20% 法力。",
+            "* 对目标造成 530% 伤害。",
+            "* 敌人的法力越低，受到的伤害越大，最高可达 700%。",
+            "* 所有盟友获得 +30% 法力生成，持续 3 回合。"
         ]
     },
     {
         "originalIndex": 463,
-        "name": "戈弗雷 (Godfrey)",
+        "name": "杰勒 (Gelert) C1",
         "effects": [
-            "Recovers 35% health for all allies.",
-            "All allies are immune to new status ailments for 4 turns.",
-            "Summons a Spear Guard Mega Minion with 35% HP and 300% attack inherited from the caster.",
-            "Each hit from the Spear Guard Mega Minion dispels all dispellable buffs from the target."
+            "必须连续使用特殊技能才能达到其最大威力，顺序为：",
+            "第一次：",
+            "* 施法者从目标身上窃取 15% 法力。",
+            "* 对目标造成 500% 伤害。",
+            "* 敌人的法力越低，受到的伤害越大，最高可达 650%。",
+            "* 所有盟友获得 +26% 法力生成，持续 3 回合。（只影响通过消除方块或由防御队伍在其回合结束时获得的法力）",
+            "第二次：",
+            "* 施法者从目标身上窃取 25% 法力。",
+            "* 对目标造成 550% 伤害。",
+            "* 敌人的法力越低，受到的伤害越大，最高可达 720%。",
+            "* 所有盟友获得 +35% 法力生成，持续 3 回合。（只影响通过消除方块或由防御队伍在其回合结束时获得的法力）"
         ]
     },
     {
         "originalIndex": 464,
-        "name": "古利安 (Goorian)",
+        "name": "金姬 (Ginger)",
         "effects": [
-            "Deals 480% damage to all enemies.",
-            "All hit targets get -40% defense and a further -5% decrease every time they are hit during 5 turns, to max -60%.",
-            "The caster receives Slime Revive status effect for 2 turns. If defeated while Slime Revive is active, the character will be reborn as a Slime with:",
-            " * 100% inherited health.",
-            " * 50% attack.",
-            " * 50% defense.",
-            "* Special Skill: Slime Slap. (Deals 350% damage to the target.)",
-            " * This effect can’t be dispelled.",
-            "If the Slime is not defeated in 3 turns, it will be reborn as the character’s original form inheriting the Slime’s health and mana."
+            "为每位盟友召唤一个精灵小兵，此小兵继承施法者 10% 的生命值和 10% 的攻击力。",
+            "在后续 3 回合中，每当任何盟友施放特殊技能后，此角色将随机对一个敌人造成 500% 伤害。（每个角色施放特殊技能时，每回合只造成一次伤害）",
+            "除施法者外所有盟友的特殊技能将造成额外 +20% 伤害，持续 3 回合。"
         ]
     },
     {
         "originalIndex": 465,
-        "name": "格蕾丝 (Grace)",
+        "name": "戈弗雷 (Godfrey)",
         "effects": [
-            "Deals 365% damage to the target and nearby enemies.",
-            "The target and nearby enemies cannot cast any new Taunt status effects for 3 turns.",
-            "The target and nearby enemies get -34% defense against Special Skills for 3 turns.",
-            "Element Link gives all Nature allies immunity to new Fiends for 4 turns."
+            "为所有盟友恢复 35% 生命值。",
+            "所有盟友对新的状态异常免疫，持续 4 回合。",
+            "召唤一个长枪守卫超级小兵，其可从施法者处继承 35% 生命值和 300% 攻击力。",
+            "长枪守卫超级小兵每次击中目标都会驱散目标身上所有可驱散的增益。"
         ]
     },
     {
         "originalIndex": 466,
-        "name": "绿骑士 (Green Knight)",
+        "name": "古利安 (Goorian)",
         "effects": [
-            "All enemies get -24% defense for 3 turns.",
-            "Deals 265% damage to all enemies.",
-            "If the caster dies during the next 5 turns, they are resurrected in the beginning of their next turn with 45% health and 765 damage is dealt to all enemies. All status effects and stacks are removed when the caster dies."
+            "对所有敌人造成 480% 伤害。",
+            "所有被击中的目标获得 -40% 防御，且在每次被击中时再降低 -5% 防御，持续 5 回合，最多 -60%。",
+            "施法者获得史莱姆复活状态效果，持续 2 回合。若在史莱姆复活状态下被击败，角色将以史莱姆形态重生，并拥有：",
+            "* 100% 继承生命值。",
+            "* 50% 攻击力。",
+            "* 50% 防御。",
+            "* 特殊技能：史莱姆拍击。（对目标造成 350% 伤害）",
+            "* 此效果无法驱散。",
+            "若史莱姆在 3 回合内未被击败，则会变回角色原型，并继承史莱姆的生命值和法力。"
         ]
     },
     {
         "originalIndex": 467,
-        "name": "格雷戈里恩 (Gregorion)",
+        "name": "格蕾丝 (Grace)",
         "effects": [
-            "Deals 500% damage to the target.",
-            "All allies get +30% critical chance for 3 turns.",
-            "Element Link gives all Nature allies +5% attack and +5% defense for 6 turns. This effect can't be cleansed."
+            "对目标及附近敌人造成 365% 伤害。",
+            "目标和附近敌人无法施放任何新的嘲讽状态效果，持续 3 回合。",
+            "目标与附近敌人获得对特殊技能 -34% 的防御，持续 3 回合。",
+            "元素链使全体自然系盟友对新恶魔免疫，持续 4 回合。"
         ]
     },
     {
         "originalIndex": 468,
-        "name": "格雷戈里恩 (Gregorion) C1",
+        "name": "绿骑士 (Green Knight)",
         "effects": [
-            "Deals 485% damage to the target.",
-            "All allies get +40% critical chance for 4 turns.",
-            "Element Link gives all Nature allies +5% attack and +5% defense for 6 turns. This effect can’t be dispelled."
+            "所有敌人获得 -24% 防御，持续 3 回合。",
+            "对所有敌人造成 265% 伤害。",
+            "如果施法者在后续 5 回合中被击败，该施法者将于下一个回合开始时以 45% 的生命复活，并对所有敌人造成 765 点伤害。施法者被击败时所有状态和叠加效果会被移除。"
         ]
     },
     {
         "originalIndex": 469,
-        "name": "格伦德尔 (Grendel)",
+        "name": "格雷戈里恩 (Gregorion)",
         "effects": [
-            "The target and nearby enemies get -40% defense against Nature for 3 turns.",
-            "Deals 320% damage to the target and nearby enemies.",
-            "The target and nearby enemies receive 591 Bleed damage over 3 turns.",
-            "The caster regenerates 810 HP over 3 turns."
+            "对目标造成 500% 伤害。",
+            "所有盟友获得 +30% 暴击几率，持续 3 回合。",
+            "元素链为全体自然系盟友提供 +5% 的攻击和 +5% 的防御，持续 6 回合。此效果无法净化。"
         ]
     },
     {
         "originalIndex": 470,
-        "name": "格罗沃特 (Grovevert)",
+        "name": "格雷戈里恩 (Gregorion) C1",
         "effects": [
-            "After the Special Skill has been cast increases the mana of the caster by 20%.",
-            "Summons a Moss Mothling Mega Fiend for the target. The Fiend damages the enemy with 275% attack every turn.",
-            "The Moss Mothling Mega Fiend absorbs healing and disappears when it has absorbed health equal to 70% of its owner’s max health.",
-            "When summoned, the Moss Mothling Mega Fiend gives -50% mana generation for its owner for as long as the owner has Moss Mothling Mega Fiend. (Affects only mana generated from matching tiles or mana gained by the defense team at the end of their turn.)"
+            "对目标造成 485% 伤害。",
+            "所有盟友获得 +40% 暴击几率，持续 4 回合。",
+            "元素链为全体自然系盟友提供 +5% 的攻击和 +5% 的防御，持续 6 回合。此效果无法驱散。"
         ]
     },
     {
         "originalIndex": 471,
-        "name": "关羽 (Guan Yu)",
+        "name": "格伦德尔 (Grendel)",
         "effects": [
-            "Deals 390% damage to the target and nearby enemies.",
-            "Damage bypasses target’s Minions.",
-            "The target and nearby enemies get -25% defense and a further -3 defense for each Minion owned by the enemies for 3 turns, up to -70% defense. This effect can’t be cleansed."
+            "目标与附近敌人获得对自然系 -40% 的防御，持续 3 回合。",
+            "对目标及附近敌人造成 320% 伤害。",
+            "目标与附近敌人在 3 回合内受到共计 591 点流血伤害。",
+            "施法者在 3 回合内恢复 810 点生命值。"
         ]
     },
     {
         "originalIndex": 472,
-        "name": "关羽 (Guan Yu) C1",
+        "name": "格罗沃特 (Grovevert)",
         "effects": [
-            "Deals 400% damage to the target and nearby enemies.",
-            "Damage bypasses target’s Minions.",
-            "The target and nearby enemies get -30% defense and a further -5% decrease for each Minion owned by enemies for 4 turns, up to -65% defense. This effect can’t be cleansed."
+            "在施展该特殊技能后，施法者的法力将增加 20%。",
+            "召唤苔藓蛾超级恶魔附身于目标。恶魔每回合对敌人造成 275% 攻击力的伤害。",
+            "苔藓蛾超级恶魔会吸收治疗，当吸收的治疗量达到其所有者最大生命值的 70% 时，它便会消失。",
+            "苔藓蛾超级恶魔被召唤后，只要其所有者拥有苔藓蛾超级恶魔，其所有者就会获得 -50% 法力生成。（只影响通过消除方块或由防御队伍在其回合结束时获得的法力）"
         ]
     },
     {
         "originalIndex": 473,
-        "name": "变色龙守护者 (Guardian Chameleon)",
+        "name": "关羽 (Guan Yu)",
         "effects": [
-            "Removes all status effects from all enemies. Removes even status effects that are otherwise undispellable or uncleansable.",
-            "Changes the element of all enemies to the element they are strong against for 4 turns.",
-            "All allies get +54% attack for 4 turns.",
-            "All allies get +36% critical chance for 4 turns."
+            "对目标及附近敌人造成 390% 伤害。",
+            "伤害无视目标的小兵。",
+            "目标和附近敌人获得 -25% 防御，且敌人每拥有一个小兵则额外降低 -3 防御，持续 3 回合，最多可达 -70% 防御。此效果无法净化。"
         ]
     },
     {
         "originalIndex": 474,
-        "name": "锤牙 (Hammertusk)",
+        "name": "关羽 (Guan Yu) C1",
         "effects": [
-            "Deals 360% damage to the target and nearby enemies.",
-            "All damage the target and nearby enemies receives is increased by +50% for 4 turns."
+            "对目标及附近敌人造成 400% 伤害。",
+            "伤害无视目标的小兵。",
+            "目标和附近敌人获得 -30% 防御，且敌人每拥有一个小兵则额外降低 -5% 防御，持续 4 回合，最多可达 -65% 防御。此效果无法净化。"
         ]
     },
     {
         "originalIndex": 475,
-        "name": "运输石 (Haulstone)",
+        "name": "变色龙守护者 (Guardian Chameleon)",
         "effects": [
-            "Each ally receives buffs based on their current health:",
-            "Full HP:",
-            "* The ally gets +50% attack for 3 turns.",
-            "* The ally gets +30% defense for 3 turns.",
-            "Above or equal to 50%:",
-            "* The ally gets +50% defense for 3 turns.",
-            "* The ally gets +34% mana generation for 3 turns.",
-            "Bellow 50% HP:",
-            "* The ally regenerates 810 HP over 3 turns.",
-            "* The ally gets +50% defense for 3 turns.",
-            "* The ally counterattacks with 130% of the damage received for 3 turns."
+            "移除全体敌人的所有状态效果，包括不可驱散或不可净化的状态效果。",
+            "将所有敌人的元素改为他们所克制的元素，持续 4 回合。",
+            "所有盟友获得 +54% 攻击力，持续 4 回合。",
+            "所有盟友获得 +36% 暴击几率，持续 4 回合。"
         ]
     },
     {
         "originalIndex": 476,
-        "name": "海姆达 (Heimdall)",
+        "name": "锤牙 (Hammertusk)",
         "effects": [
-            "Boosts health of all allies by 500. Boosted health can exceed max HP.",
-            "Each fallen ally has a 20% chance to get revived with 30% HP.",
-            "All allies get +30% attack for 4 turns."
+            "对目标及附近敌人造成 360% 伤害。",
+            "目标与附近敌人受到的所有伤害增加 +50%，持续 4 回合。"
         ]
     },
     {
         "originalIndex": 477,
-        "name": "海姆达 (Heimdall) C1",
+        "name": "运输石 (Haulstone)",
         "effects": [
-            "Each fallen ally has 50% chance to get revived with 20% HP.",
-            "All allies get +50% attack for 4 turns.",
-            "All allies regenerate 672 boosted health over 4 turns. Boosted health can exceed max HP."
+            "每名盟友将根据其当前生命值获得增益：",
+            "生命值满：",
+            "* 该盟友获得 +50% 攻击力，持续 3 回合。",
+            "* 该盟友获得 +30% 防御，持续 3 回合。",
+            "生命值高于或等于 50%：",
+            "* 该盟友获得 +50% 防御，持续 3 回合。",
+            "* 该盟友获得 +34% 法力生成，持续 3 回合。",
+            "生命值低于 50%：",
+            "* 该盟友在 3 回合内恢复共计 810 点生命值。",
+            "* 该盟友获得 +50% 防御，持续 3 回合。",
+            "* 该盟友以所受伤害的 130% 进行反击，持续 3 回合。"
         ]
     },
     {
         "originalIndex": 478,
-        "name": "霍格火 (Horghall)",
+        "name": "海姆达 (Heimdall)",
         "effects": [
-            "Deals 280% damage to all enemies",
-            "All enemies get -34% attack for 6 turns"
+            "提高所有盟友 500 点生命值。提高的生命值可以超过最大生命值。",
+            "每名阵亡的盟友有 20% 的几率以 30% 的生命值复活。",
+            "所有盟友获得 +30% 攻击力，持续 4 回合。"
         ]
     },
     {
         "originalIndex": 479,
-        "name": "霍格火 (Horghall) C1",
+        "name": "海姆达 (Heimdall) C1",
         "effects": [
-            "Deals 250% damage to all enemies",
-            "All enemies get -54% attack for 6 turns"
+            "每名被击败的盟友有 50% 的几率以 20% 的生命值复活。",
+            "所有盟友获得 +50% 攻击力，持续 4 回合。",
+            "所有盟友在 4 回合内获得共计 672 点生命加成。提高的生命值可以超过最大生命值。"
         ]
     },
     {
         "originalIndex": 480,
-        "name": "霍格火 (Horghall) C2",
+        "name": "霍格火 (Horghall)",
         "effects": [
-            "Deals 260% damage to all enemies.",
-            "All enemies get -31% attack, and a further 4% decrease any time they are hit during 4 turns.",
-            "All enemies get -24% defense for 4 turns.",
-            "All enemies receive 228 Poison damage over 4 turns."
+            "对所有敌人造成 280% 伤害。",
+            "所有敌人获得 -34% 攻击力，持续 6 回合。"
         ]
     },
     {
         "originalIndex": 481,
-        "name": "霍格火 (Horghall) 卡通",
+        "name": "霍格火 (Horghall) C1",
         "effects": [
-            "Deals 430% damage to all enemies.",
-            "All enemies get -24% attack for 6 turns.",
-            "Deals extra damage against Ice."
+            "对所有敌人造成 250% 伤害。",
+            "所有敌人获得 -54% 攻击力，持续 6 回合。"
         ]
     },
     {
         "originalIndex": 482,
-        "name": "亨伯特 (Humbert)",
+        "name": "霍格火 (Horghall) C2",
         "effects": [
-            "Deals 350% damage to all enemies.",
-            "Boosts all allies’ health by 25% of damage dealt.",
-            "All allies get +30% defense for 4 turns. The defense increases by 10% each turn up to 60%."
+            "对所有敌人造成 260% 伤害。",
+            "所有敌人获得 -31% 攻击力，并在每次被击中时再降低 4% 攻击力，持续 4 回合。",
+            "所有敌人获得 -24% 防御，持续 4 回合。",
+            "所有敌人在 4 回合内受到共计 228 点剧毒伤害。"
         ]
     },
     {
         "originalIndex": 483,
-        "name": "伊古·杜尔索 (Iku-Turso)",
+        "name": "霍格火 (Horghall) 卡通",
         "effects": [
-            "Deals 280% damage to the target and nearby enemies.",
-            "The target and nearby enemies receive 243 Water damage over 3 turns. Against Fire characters, this status effect becomes uncleansable and lasts 2 turns longer.",
-            "The caster steals 51% of any healing applied to the target and nearby enemies for 3 turns. Against Fire characters, this status effect becomes uncleansable and lasts 2 turns longer."
+            "对所有敌人造成 430% 伤害。",
+            "所有敌人获得 -24% 攻击力，持续 6 回合。",
+            "对冰雪系造成额外伤害。"
         ]
     },
     {
         "originalIndex": 484,
-        "name": "伊藤 (Ito)",
+        "name": "亨伯特 (Humbert)",
         "effects": [
-            "Special Skill has a different effect when charged with 100%/200%/300% mana:",
-            "x1 Mana Charge:",
-            " - Deals 430% damage to the target.",
-            " - Boosts all allies’ health by 25% of damage dealt.",
-            " - The target gets -35% mana generation for 2 turns. (Affects only mana generated from matching tiles or mana gained by the defense team at the end of their turn.)",
-            "x2 Mana Charge:",
-            " - Deals 440% damage to the target and nearby enemies.",
-            " - Boosts all allies’ health by 25% of damage dealt.",
-            " - The target and nearby enemies get -40% mana generation for 4 turns. (Affects only mana generated from matching tiles or mana gained by the defense team at the end of their turn.)",
-            "x3 Mana Charge:",
-            " - Deals 450% damage to all enemies.",
-            " - Boosts all allies’ health by 25% of damage dealt.",
-            " - All enemies get -45% mana generation for 6 turns. (Affects only mana generated from matching tiles or mana gained by the defense team at the end of their turn.)"
+            "对所有敌人造成 350% 伤害。",
+            "为所有盟友提高相当于所造成伤害 25% 的生命值。",
+            "所有盟友获得 +30% 防御，持续 4 回合。防御每回合增加 10%，最高为 60%。"
         ]
     },
     {
         "originalIndex": 485,
-        "name": "碧玉 (Jade)",
+        "name": "伊古·杜尔索 (Iku-Turso)",
         "effects": [
-            "1x Mana Charge",
-            " * Deals 115% damage to all enemies.",
-            " * Reduces the mana of all enemies by 10%.",
-            " * The caster gets +25% chance of dodging special attacks that deal damage for 3 turns.",
-            "2x Mana Charge",
-            " * Deals 210% damage to all enemies.",
-            " * Reduces the mana of all enemies by 15%.",
-            " * The caster and nearby allies get +50% chance of dodging special attacks that deal damage for 4 turns.",
-            "3x Mana Charge",
-            " * Deals 300% damage to all enemies.",
-            " * Reduces the mana of all enemies by 25%.",
-            " * All allies get +75% chance of dodging special attacks that deal damage for 5 turns."
+            "对目标及附近敌人造成 280% 伤害。",
+            "目标与附近敌人在 3 回合内受到共计 243 点水系伤害。对烈火系角色，此状态效果不可净化且持续时间延长 2 回合。",
+            "施法者偷取目标及其附近敌人所获治疗的 51%，持续 3 回合。对烈火系角色，此状态效果不可净化且持续时间延长 2 回合。"
         ]
     },
     {
         "originalIndex": 486,
-        "name": "卡迪雷恩 (Kadilen)",
+        "name": "伊藤 (Ito)",
         "effects": [
-            "Deals 190% damage to all enemies",
-            "All allies get +74% defense against Special Skills for 3 turns"
+            "当特殊技能充能至 100% / 200% / 300% 法力时将拥有不同的效果：",
+            "1 倍法力充能：",
+            "- 对目标造成 430% 伤害。",
+            "- 为所有盟友提高相当于所造成伤害 25% 的生命值。",
+            "- 目标获得 -35% 法力生成，持续 2 回合。（只影响通过消除方块或由防御队伍在其回合结束时获得的法力）",
+            "2 倍法力充能：",
+            "- 对目标及附近敌人造成 440% 伤害。",
+            "- 为所有盟友提高相当于所造成伤害 25% 的生命值。",
+            "- 目标与附近敌人获得 -40% 法力生成，持续 4 回合。（只影响通过消除方块或由防御队伍在其回合结束时获得的法力）",
+            "3 倍法力充能：",
+            "- 对所有敌人造成 450% 伤害。",
+            "- 为所有盟友提高相当于所造成伤害 25% 的生命值。",
+            "- 所有敌人获得 -45% 法力生成，持续 6 回合。（只影响通过消除方块或由防御队伍在其回合结束时获得的法力）"
         ]
     },
     {
         "originalIndex": 487,
-        "name": "卡迪雷恩 (Kadilen) C1",
+        "name": "碧玉 (Jade)",
         "effects": [
-            "Deals 170% damage to all enemies.",
-            "All allies get +45% chance to dodge special skills for 3 turns. Each dodge summons a thorn minion.",
-            "Thorn minion has 15% HP and 15% attack inherited from the caster"
+            "1 倍法力充能：",
+            "* 对所有敌人造成 115% 伤害。",
+            "* 使所有敌人的法力减少 10%。",
+            "* 施法者有 +25% 的几率躲避可造成伤害的特殊技能，持续 3 回合。",
+            "2 倍法力充能：",
+            "* 对所有敌人造成 210% 伤害。",
+            "* 使所有敌人的法力减少 15%。",
+            "* 施法者和附近的盟友拥有 +50% 几率闪避可以造成伤害的特殊技能，持续 4 回合。",
+            "3 倍法力充能：",
+            "* 对所有敌人造成 300% 伤害。",
+            "* 使所有敌人的法力减少 25%。",
+            "* 所有盟友拥有 +75% 几率闪避可以造成伤害的特殊技能，持续 5 回合。"
         ]
     },
     {
         "originalIndex": 488,
-        "name": "卡迪雷恩 (Kadilen) C2",
+        "name": "卡迪雷恩 (Kadilen)",
         "effects": [
-            "Deals 210% damage to all enemies.",
-            "All allies get +40% chance to dodge Special Skills for 3 turns. Each dodge summons an Empowered Thorn Minion.",
-            "Empowered Thorn Minion has 25% HP and 25% attack inherited from the caster"
+            "对所有敌人造成 190% 伤害。",
+            "所有盟友获得 +74% 特殊技能防御，持续 3 回合。"
         ]
     },
     {
         "originalIndex": 489,
-        "name": "卡迪雷恩 (Kadilen) 卡通",
+        "name": "卡迪雷恩 (Kadilen) C1",
         "effects": [
-            "Deals 270% damage to all enemies.",
-            "All allies get +64% defense against Special Skills for 3 turns.",
-            "Deals extra damage against Ice."
+            "对所有敌人造成 170% 伤害。",
+            "所有盟友有 +45% 几率闪避特殊技能，持续 3 回合。每次闪避会召唤一名荆刺小兵。",
+            "荆刺小兵可从施法者处继承 15% 生命和 15% 攻击力。"
         ]
     },
     {
         "originalIndex": 490,
-        "name": "凯 (Kai)",
+        "name": "卡迪雷恩 (Kadilen) C2",
         "effects": [
-            "Deals 435% damage to the target.",
-            "Summons a Bone Trap Fiend for the target. The Fiend damages the enemy with 45% attack each turn. The damage increases by 8% each turn, up to a maximum of 93%.",
-            "The Bone Trap Fiend absorbs healing and disappears when it has absorbed health equal to 35% of its owner’s max health.",
-            "The target gets -50% decrease of any healing received for 3 turns.",
-            "Dispels buffs from the target at the end of each turn for 3 turns"
+            "对所有敌人造成 210% 伤害。",
+            "所有盟友有 +40% 几率闪避特殊技能，持续 3 回合。每次闪避会召唤一名强化荆刺小兵。",
+            "强化荆刺小兵可从施法者处继承 25% 生命和 25% 攻击力。"
         ]
     },
     {
         "originalIndex": 491,
-        "name": "金士顿 (Kingston)",
+        "name": "卡迪雷恩 (Kadilen) 卡通",
         "effects": [
-            "Deals 445% damage to the target.",
-            "The target and nearby enemies get - 31% attack, and a further -4% decrease every time they are hit during 4 turns.",
-            "Element Link gives +4% mana generation for all Nature allies for 4 turns. This effect can't be cleansed."
+            "对所有敌人造成 270% 伤害。",
+            "所有盟友获得 +64% 特殊技能防御，持续 3 回合。",
+            "对冰雪系造成额外伤害。"
         ]
     },
     {
         "originalIndex": 492,
-        "name": "柯利亚 (Kolya)",
+        "name": "凯 (Kai)",
         "effects": [
-            "Dispels 1 buff from all enemies. (The latest buffs are dispelled first.)",
-            "Deals 300% damage to all enemies.",
-            "Deals additional 6% damage per removed status effect, up to 330% damage in total.",
-            "Summnos a Shield Guard Mega Minion with 65% HP and 180% attack inherited from the caster.",
-            "The Shield Guard Mega Minion safely cleanses the latest cleansable status ailment from all allies each turn. (Safe cleanse bypasses secondary effects, such as damage on removal, from the remove status ailment. External effects such as passive skills and family effects can still activate.)"
+            "对目标造成 435% 伤害。",
+            "召唤刺骨陷阱恶魔附身于目标。恶魔每回合对敌人造成 45% 攻击力的伤害。该伤害每回合提高 8%，最高可达 93%。",
+            "刺骨陷阱恶魔会吸收治疗，当吸收的治疗量达到其所有者最大生命值的 35% 时，它便会消失。",
+            "目标获得的治疗减少 -50%，持续 3 回合。",
+            "每回合结束时驱散目标身上的增益效果，持续 3 回合。"
         ]
     },
     {
         "originalIndex": 493,
-        "name": "洛克小姐 (Lady Locke)",
+        "name": "金士顿 (Kingston)",
         "effects": [
-            "The target and nearby enemies receive 932 damage over 4 turns, starting low and increasing with every turn",
-            "Cleanses status ailments from all allies"
+            "对目标造成 445% 伤害。",
+            "目标与附近敌人获得 - 31% 攻击力，并在每次被击中时再降低 -4% 攻击力，持续 4 回合。",
+            "元素链为全体自然系盟友提供 +4% 的法力生成，持续 4 回合。此效果无法净化。"
         ]
     },
     {
         "originalIndex": 494,
-        "name": "洛克小姐 (Lady Locke) C1",
+        "name": "柯利亚 (Kolya)",
         "effects": [
-            "Deals 120% damage to the target and minor damage to nearby enemies.",
-            "The target and nearby enemies receive 1118 damage over 4 turns, starting low and increasing with every turn.",
-            "Cleanses status ailments from all allies."
+            "从所有敌人身上驱散 1 个增益。（最后获得的增益最先被驱散）",
+            "对所有敌人造成 300% 伤害。",
+            "每移除一个状态效果便造成额外 6% 伤害，最多累计造成 330% 伤害。",
+            "召唤一个持盾守卫超级小兵，其可从施法者处继承 65% 生命值和 180% 攻击力。",
+            "每回合持盾守卫超级小兵会安全净化所有盟友最后获得的可净化状态异常。（安全净化会无视状态异常被移除时的副作用，例如移除时的伤害。被动技能和家族效果等外来效果仍会生效）"
         ]
     },
     {
         "originalIndex": 495,
-        "name": "圣湖女神 (Lady of the Lake)",
+        "name": "洛克小姐 (Lady Locke)",
         "effects": [
-            "Recovers 42% health for all allies",
-            "Summons a Magic Sword Minion for the caster and nearby allies with 14% HP and 15% attack inherited from the caster",
-            "The Minion removes -10% mana from the target when it hits them"
+            "目标与附近敌人在 4 回合内受到共计 932 点伤害，一开始伤害较低，之后每个回合会逐渐增加。",
+            "净化所有盟友的状态异常。"
         ]
     },
     {
         "originalIndex": 496,
-        "name": "圣湖女神 (Lady of the Lake) C1",
+        "name": "洛克小姐 (Lady Locke) C1",
         "effects": [
-            "Boosts health of all allies by 550. Boosted health can exceed max HP.",
-            "Summons a Magical Sword Minion for the caster and nearby allies with 14% HP and 15% attack inherited from the caster.",
-            "Each hit from the Magical Sword Minion gives the target the following status ailment:",
-            "* -24% mana generation for 3 turns. This effect can’t be cleansed."
+            "对目标造成 120% 伤害，并对附近敌人造成轻微伤害。",
+            "目标与附近敌人在 4 回合内受到共计 1118 点伤害，一开始伤害较低，之后每个回合会逐渐增加。",
+            "净化所有盟友的状态异常。"
         ]
     },
     {
         "originalIndex": 497,
-        "name": "丽德里娅 (Leadria)",
+        "name": "圣湖女神 (Lady of the Lake)",
         "effects": [
-            "Summons a Spirit of Spring Minion for all allies with 30% HP inherited from the caster.",
-            "When summoned, the Spirit of Spring Minion boosts 100 health for its owner at the end of each turn for as long as the owner has a Spirit of Spring Minion. This effect can’t be dispelled.",
-            "All allies’ Special Skill deal an additional 25% damage for 4 turn.",
-            "Element Link gives all Nature allies +10% additional Special Skill damage for 4 turns. This effect cannot be dispelled."
+            "为所有盟友恢复 42% 生命值。",
+            "为施法者和附近盟友召唤一个神奇宝剑小兵，其可从施法者处继承 14% 生命值和 15% 攻击力。",
+            "小兵在击中目标时，会使目标的法力减少 -10%。"
         ]
     },
     {
         "originalIndex": 498,
-        "name": "叶拂 (Leafwhisk)",
+        "name": "圣湖女神 (Lady of the Lake) C1",
         "effects": [
-            "Growth: All allies get 355 defense.",
-            "Summons a Spotted Boar Mega Minion with 65% HP and 260% attack inherited from the caster.",
-            "When summoned the Spotted Boar Mega Minion gives its owner immunity to buff dispels and reallocation for as long as the owner has a Spotted Boar Mega Minion. This immunity also includes this effect itself."
+            "提高所有盟友 550 点生命值。提高的生命值可以超过最大生命值。",
+            "为施法者和附近盟友召唤一个神奇宝剑小兵，其可从施法者处继承 14% 生命值和 15% 攻击力。",
+            "神奇宝剑小兵每次击中目标都会给予目标以下状态异常：",
+            "* -24% 法力生成，持续 3 回合。此效果无法净化。"
         ]
     },
     {
         "originalIndex": 499,
-        "name": "雷奥妮 (Leonie)",
+        "name": "丽德里娅 (Leadria)",
         "effects": [
-            "Deals 250% Clawing damage to the target and nearby enemies. (Deals 400% damage against enemies with any defensive buffs, Minions or Mega Minions. Enemies with any defensive buffs, Minions or Mega Minions receive -35% defense for 6 turns.)",
-            "The target and nearby enemies receive lasting 1500 Surge Bleed damage over 6 turns. (If the target already has this effect, the duration will be refreshed and the damage will be increased by 300. Max total damage 3000.)"
+            "为所有盟友召唤一个春日英灵小兵，其可从施法者处继承 30% 生命值。",
+            "春日英灵小兵被召唤后，只要其所有者拥有该小兵，其所有者就会在每回合结束时提高 100 点生命值。此效果无法驱散。",
+            "所有盟友的特殊技能将造成额外 25% 伤害，持续 4 回合。",
+            "元素链为全体自然系盟友提供额外 +10% 的特殊技能伤害，持续 4 回合。此效果无法驱散。"
         ]
     },
     {
         "originalIndex": 500,
-        "name": "丽阿娜 (Lianna)",
+        "name": "叶拂 (Leafwhisk)",
         "effects": [
-            "Deals 512% damage to the target"
+            "成长：所有盟友获得 355 点防御。",
+            "召唤一个斑点野猪超级小兵，其可从施法者处继承 65% 生命值和 260% 攻击力。",
+            "斑点野猪超级小兵被召唤后，只要其所有者拥有该小兵，其所有者就会对增益驱散和转移免疫。此免疫效果也包含此效果本身。"
         ]
     },
     {
         "originalIndex": 501,
-        "name": "丽阿娜 (Lianna) C1",
+        "name": "雷奥妮 (Leonie)",
         "effects": [
-            "Deals 482% damage to the target",
-            "The targe gets -34% mana generation for 3 turns"
+            "对目标和附近敌人造成 250% 抓挠伤害。（对拥有任何防御增益、小兵或超级小兵的敌人造成 400% 伤害。拥有任何防御增益、小兵或超级小兵的敌人获得 -35% 防御，持续 6 回合）",
+            "目标与附近敌人在 6 回合内受到共计 1500 点奔涌流血流血伤害。（若目标身上已有此效果，持续时间将会刷新，并且伤害会提高 300 点。最多共计 3000 点伤害）"
         ]
     },
     {
         "originalIndex": 502,
-        "name": "丽阿娜 (Lianna) C2",
+        "name": "丽阿娜 (Lianna)",
         "effects": [
-            "Deals 500% damage to the target",
-            "The targe gets silenced for 3 turns"
+            "对目标造成 512% 伤害。"
         ]
     },
     {
         "originalIndex": 503,
-        "name": "丽阿娜 (Lianna) 卡通",
+        "name": "丽阿娜 (Lianna) C1",
         "effects": [
-            "Deals 592% damage to the target.",
-            "Deals extra damage against Ice."
+            "对目标造成 482% 伤害。",
+            "目标获得 -34% 法力生成，持续 3 回合。"
         ]
     },
     {
         "originalIndex": 504,
-        "name": "丽阿娜 (Lianna) 玻璃",
+        "name": "丽阿娜 (Lianna) C2",
         "effects": [
-            "Deals 602% damage to the target.",
-            "The attack bypasses defensive buffs. (This includes counterattacks.)"
+            "对目标造成 500% 伤害。",
+            "目标陷入沉默，持续 3 回合。"
         ]
     },
     {
         "originalIndex": 505,
-        "name": "莱姆博尔 (Limeboire)",
+        "name": "丽阿娜 (Lianna) 卡通",
         "effects": [
-            "Deals 260% damage to all enemies.",
-            "All enemies fall into Deep Sleep and receive +80% increased damage while in Deep Sleep. (This character in Deep Sleep cannot gain mana or attack. The character in Deep Sleep is woken once it takes 500 damage. This effect is uncleansable.)",
-            "Steals all dispellable buffs from the target and randomly distributes them on allies.",
-            "Caster gains 3% mana for each stolen buff, up to a maximum of 30% mana."
+            "对目标造成 592% 伤害。",
+            "对冰雪系造成额外伤害。"
         ]
     },
     {
         "originalIndex": 506,
-        "name": "刘备 (Liu Bei)",
+        "name": "丽阿娜 (Lianna) 玻璃",
         "effects": [
-            "Deals 360% damage to the target and nearby enemies.",
-            "Summons a Shu Soldier Minion for each ally with 16% HP and 17% attack inherited from the caster.",
-            "When summoned, the Shu Soldier Minion gives its owner the ability to  counterattack with 60% of the damage received for as long as the owner has a Shu Soldier Minion. This effect can’t be dispelled."
+            "对目标造成 602% 伤害。",
+            "攻击会无视防御增益。（包括反击）"
         ]
     },
     {
         "originalIndex": 507,
-        "name": "刘备 (Liu Bei) C1",
+        "name": "莱姆博尔 (Limeboire)",
         "effects": [
-            "Deals 350% damage to the target and nearby enemies.",
-            "Summons a Shu Soldier Minion for each ally with 33% HP and 33% attack inherited from the caster.",
-            "When summoned, the Shu Soldier Minion gives its owner the ability to counterattack with 55% of the damage received for as long as the owner has a Shu Soldier Minion. This effect can’t be dispelled."
+            "对所有敌人造成 260% 伤害。",
+            "所有敌人陷入深眠，且深眠期间受到的伤害增加 +80%。（深眠中的角色无法获得法力或攻击。深眠目标受到 500 点伤害后便会苏醒。此效果不可净化）",
+            "偷取目标的全部可驱散增益并随机施放给盟友。",
+            "施法者每偷取一个增益会获得 3% 法力，最多 30% 法力。"
         ]
     },
     {
         "originalIndex": 508,
-        "name": "鲁海德 (Lughaidh)",
+        "name": "刘备 (Liu Bei)",
         "effects": [
-            "Cast Full Removal on the caster. (Full Removal removes all status efects, stacks and Growth and Wither effects. Removes even status effects and stacks that are otherwise undispellable or uncleasable.)",
-            "The caster shifts into Ghost form for 4 turns.",
-            "While in Ghost form, Character can’t gain mana and can’t be healed by Special Skills, but it is immune to normal attacks, Special Skill attacks, status effects and stacks. Immune to new Growth and Wither effects.",
-            "While in Ghost form the caster can’t gain mana and can’t be healed by Special Skills, but it is immune to normal attacks, Special Skill attacks, status effects and stacks.",
-            "While in Ghost form, all allies except the caster get +64% defense",
-            "While in Ghost form, all allies' except the caster's HP is boosted by 180 HP every turn."
+            "对目标及附近敌人造成 360% 伤害。",
+            "为每位盟友召唤一个蜀军小兵，其可从施法者处继承 16% 生命和 17% 攻击力。",
+            "蜀军小兵被召唤后，在拥有该小兵期间，该小兵使其所有者能以所受伤害的 60% 作出反击。此效果无法驱散。"
         ]
     },
     {
         "originalIndex": 509,
-        "name": "鲁海德 (Lughaidh) C1",
+        "name": "刘备 (Liu Bei) C1",
         "effects": [
-            "Cast Full Removal on the caster. (Full Removal removes all status efects, stacks and Growth and Wither effects. Removes even status effects and stacks that are otherwise undispellable or uncleasable.)",
-            "The caster shifts into Ghost form for 4 turns.",
-            "While in Ghost form, Character can’t gain mana and can’t be healed by Special Skills, but it is immune to normal attacks, Special Skill attacks, status effects and stacks. Immune to new Growth and Wither effects.",
-            "While in Ghost form, all allies except the caster have +56% defense.",
-            "While in Ghost form, all allies except the caster regenerate 300 boosted health every turn. Boosted health can exceed max HP."
+            "对目标及附近敌人造成 350% 伤害。",
+            "为每位盟友召唤一个蜀军小兵，其可从施法者处继承 33% 生命和 33% 攻击力。",
+            "蜀军小兵被召唤后，在拥有该小兵期间，该小兵使其所有者能以所受伤害的 55% 作出反击。此效果无法驱散。"
         ]
     },
     {
         "originalIndex": 510,
-        "name": "玛阿特 (Ma'at)",
+        "name": "鲁海德 (Lughaidh)",
         "effects": [
-            "Deals 195% damage to all enemies.",
-            "All enemies get -34% defense for 3 turns.",
-            "All Fire enemies get -24% attack for 3 turns."
+            "对施放者释放完全移除。（完全移除可以移除目标的所有状态效果、叠加效果、成长效果和衰退效果。包含不可驱散或不可净化的状态效果和叠加效果）",
+            "施法者转变为幽灵形态，持续 4 回合。",
+            "处于幽灵形态期间，角色无法获得法力，也不能被特殊技能治疗，但免疫普通攻击、特殊技能攻击、状态效果和叠加效果。免疫新的成长和衰退效果。",
+            "处于幽灵形态期间，施法者不能获得法力，也不能被特殊技能治疗，但对普通攻击、特殊技能攻击、状态效果和叠加效果免疫。",
+            "处于幽灵形态期间，除施法者外的所有盟友获得 +64% 防御。",
+            "处于幽灵形态期间，除施法者外的所有盟友每回合提高 180 点生命值。"
         ]
     },
     {
         "originalIndex": 511,
-        "name": "玛阿特 (Ma'at) C1",
+        "name": "鲁海德 (Lughaidh) C1",
         "effects": [
-            "Deals 220% damage to all enemies.",
-            "All enemies get -35% defense for 3 turns.",
-            "All Fire enemies get -20% attack for 3 turns."
+            "对施放者释放完全移除。（完全移除可以移除目标的所有状态效果、叠加效果、成长效果和衰退效果。包含不可驱散或不可净化的状态效果和叠加效果）",
+            "施法者转变为幽灵形态，持续 4 回合。",
+            "处于幽灵形态期间，角色无法获得法力，也不能被特殊技能治疗，但免疫普通攻击、特殊技能攻击、状态效果和叠加效果。免疫新的成长和衰退效果。",
+            "处于幽灵形态期间，除施法者外的所有盟友获得 +56% 防御。",
+            "处于幽灵形态期间，除施法者外的所有盟友每回合增加 300 点生命加成。提高的生命值可以超过最大生命值。"
         ]
     },
     {
         "originalIndex": 512,
-        "name": "麦戈文 (Maegwyn)",
+        "name": "玛阿特 (Ma'at)",
         "effects": [
-            "Recovers 50% health for all allies.",
-            "All allies regenerate 800 boosted health over 4 turns. Boosted health can exceed max HP.",
-            "All allies reduce all received damage by -40% for 4 turns."
+            "对所有敌人造成 195% 伤害。",
+            "所有敌人获得 -34% 防御，持续 3 回合。",
+            "所有烈火系敌人获得 -24% 攻击力，持续 3 回合。"
         ]
     },
     {
         "originalIndex": 513,
-        "name": "玛格丽特 (Margaret)",
+        "name": "玛阿特 (Ma'at) C1",
         "effects": [
-            "Deals 150% damage to the target and nearby enemies.",
-            "The caster and nearby allies have from +30% to +90% chance of dodging special attacks that do damage. The higher the damage from the special is, the higher the chance to dodge it. Each dodge gives +24% mana to the target. Effect lasts 3 turns.",
-            "Elemental Link gives all Nature allies +46% defense against Fire for 4 turns. This effect cannot be dispelled."
+            "对所有敌人造成 220% 伤害。",
+            "所有敌人获得 -35% 防御，持续 3 回合。",
+            "所有烈火系敌人获得 -20% 攻击力，持续 3 回合。"
         ]
     },
     {
         "originalIndex": 514,
-        "name": "麦克思 (Max)",
+        "name": "麦戈文 (Maegwyn)",
         "effects": [
-            "Recovers 45% health for all allies.",
-            "Summons a Brown Puppy Minion for each ally with 35% HP and 55% attack inherited from the caster.",
-            "All allies reduce all received damage from the attacks and special skills of the stronger enemy by -80% for 5 turns."
+            "为所有盟友恢复 50% 生命值。",
+            "所有盟友在 4 回合内获得共计 800 点生命加成。提高的生命值可以超过最大生命值。",
+            "所有盟友受到的所有伤害减少 -40%，持续 4 回合。"
         ]
     },
     {
         "originalIndex": 515,
-        "name": "马佐加 (Mazoga)",
+        "name": "玛格丽特 (Margaret)",
         "effects": [
-            "Deals 280% damage to the target and nearby enemies.",
-            "The target and nearby enemies get -24% defense for 3 turns. The effect duration resets if the character receives status ailments.",
-            "Deals extra damage against Ice."
+            "对目标及附近敌人造成 150% 伤害。",
+            "施法者和附近盟友有 +30% 至 +90% 的几率躲避可造成伤害的特殊技能。特殊技能的伤害越高，闪避的几率也越高。每次闪避可给予目标 +24% 法力。此效果持续 3 回合。",
+            "元素链为全体自然系盟友提供针对烈火系 +46% 的防御，持续 4 回合。此效果无法驱散。"
         ]
     },
     {
         "originalIndex": 516,
-        "name": "米纳 (Mena)",
+        "name": "麦克思 (Max)",
         "effects": [
-            "Deals 390% damage to the target and minor damage to nearby enemies.",
-            "At the end of each turn, the caster and nearby allies shoot a Fluff Volley at a random enemy for 3 turns.",
-            "Each Fluff Volley deals 150% damage.",
-            "Each Fluff Volley reduces the mana of the hit enemy by 5%."
+            "为所有盟友恢复 45% 生命值。",
+            "为每位盟友召唤一个棕色狗狗小兵，其可从施法者处继承 35% 生命和 55% 攻击力。",
+            "所有盟友受到来自较强元素的攻击和特殊技能伤害时，所受伤害减少 -80%，持续 5 回合。"
         ]
     },
     {
         "originalIndex": 517,
-        "name": "布雾者 (Mistweaver)",
+        "name": "马佐加 (Mazoga)",
         "effects": [
-            "Deals 350% damage to the target and nearby enemies.",
-            "The target and nearby enemies resist healing and receive 220 damage per each resisted healing for 3 turns.",
-            "Stack (Max: 10): The caster gets +15% attack against the weaker element."
+            "对目标及附近敌人造成 280% 伤害。",
+            "目标获得 -24% 防御，持续 3 回合。若该角色获得状态异常，则效果持续时间会重置。",
+            "对冰雪系造成额外伤害。"
         ]
     },
     {
         "originalIndex": 518,
-        "name": "月之花 (Moonflower)",
+        "name": "米纳 (Mena)",
         "effects": [
-            "For the next 3 turns, this character deals 235% damage to all enemies after an enemy casts their Special Skill.",
-            "All allies get +35% mana generation for 3 turns."
+            "对目标造成 390% 伤害，并对附近敌人造成轻微伤害。",
+            "每回合结束时，施法者和附近盟友对随机一名敌人发射毛球齐射，持续 3 回合。",
+            "每次毛球齐射造成 150% 伤害。",
+            "每次毛球齐射使被击中的敌人法力减少 5%。"
         ]
     },
     {
         "originalIndex": 519,
-        "name": "摩根勒菲 (Morgan Le Fay)",
+        "name": "布雾者 (Mistweaver)",
         "effects": [
-            "The caster drains 772 HP from the target over 4 turns. This effect can't be cleansed, but gets removed if this caster dies",
-            "The caster and nearby allies gets +94% defense against Fire for 4 turns."
+            "对目标及附近敌人造成 350% 伤害。",
+            "目标和附近敌人将抵抗治疗，且每次抵抗治疗时都将受到 220 点伤害，持续 3 回合。",
+            "叠加（最多 10 层）：施法者对所克制元素的攻击力提高 +15%。"
         ]
     },
     {
         "originalIndex": 520,
-        "name": "北方之母 (Mother North)",
+        "name": "月之花 (Moonflower)",
         "effects": [
-            "Recovers 30% health for all allies.",
-            "Each fallen ally has a 50% chance to get revived with 10% HP.",
-            "Summons an Elf Minion for each ally with 10% HP and 10% attack inherited from the caster."
+            "在后续 3 回合中，当一名敌人施放特殊技能后，此角色将对所有敌人造成 235% 伤害。",
+            "所有盟友获得 +35% 法力生成，持续 3 回合。"
         ]
     },
     {
         "originalIndex": 521,
-        "name": "北方之母 (Mother North) C1",
+        "name": "摩根勒菲 (Morgan Le Fay)",
         "effects": [
-            "Each fallen ally has a 55% chance to get revived with 15% HP.",
-            "Summons an Elf Minion for each ally with 10% HP and 10% attack inherited from the caster.",
-            "All allies regenerate 612 HP over 4 turns."
+            "施法者在 4 回合内吸走目标共计 772 点生命值。此效果不可净化，但会在施法者被击败后移除。",
+            "施法者和附近盟友获得对烈火系 +94% 的防御，持续 4 回合。"
         ]
     },
     {
         "originalIndex": 522,
-        "name": "马克特司 (Mucktus)",
+        "name": "北方之母 (Mother North)",
         "effects": [
-            "Deals 290% damage to all enemies.",
-            "Summons a Slime Fiend for all enemies. The Fiend damage the enemy with 50% attack every turn.",
-            "The Slime Fiend absorbs healing. It disappears after absorbing health equal to 40% of its target’s max health.",
-            "At the end of each turn the Slime Fiend steals one of the dispellable buffs or Growth effect and gives it to a random character on the opposite team."
+            "为所有盟友恢复 30% 生命值。",
+            "每名阵亡的盟友有 50% 的几率以 10% 的生命值复活。",
+            "为每位盟友召唤一个精灵小兵，此小兵继承施法者 10% 的生命值和 10% 的攻击力。"
         ]
     },
     {
         "originalIndex": 523,
-        "name": "妙印尼 (Myoin-ni)",
+        "name": "北方之母 (Mother North) C1",
         "effects": [
-            "Special Skill has a different effect when charged with 100%/200%/300% mana:",
-            "x1 Mana Charge:",
-            " - Boosts health of all allies by 370. Boosted health can exceed max HP.",
-            " - All allies get +33% mana generation for 2 turns.",
-            " - All allies get +25% defense for 2 turns.",
-            "x2 Mana Charge:",
-            " - Boosts health of all allies by 530. Boosted health can exceed max HP.",
-            " - All allies get +33% mana generation for 3 turns.",
-            " - All allies get +40% defense for 3 turns.",
-            "x3 Mana Charge:",
-            " - Boosts health of all allies by 600. Boosted health can exceed max HP.",
-            " - All allies get +33% mana generation for 4 turns.",
-            " - All allies get +65% defense for 4 turns."
+            "每名阵亡的盟友有 55% 的几率以 15% 的生命值复活。",
+            "为每位盟友召唤一个精灵小兵，此小兵继承施法者 10% 的生命值和 10% 的攻击力。",
+            "所有盟友在 4 回合内恢复 612 点生命值。"
         ]
     },
     {
         "originalIndex": 524,
-        "name": "米斯蒂亚 (Mystia)",
+        "name": "马克特司 (Mucktus)",
         "effects": [
-            "All enemies become Soul Connected for 4 turns. Soul Connected enemies share received damage.",
-            "All enemies get -34% defense for 4 turns.",
-            "All allies reflect all status effects and 145% damage back to the attacker and block other negative effects from enemies’ Fire Special Skill for 4 turns. (Status effects cast by characters, Minions and Fiends on the same side cannot be reflected.)",
-            "Element Link gives all Nature allies +30% defense against Special Skills for 4 turns. This effect can't be dispelled."
+            "对所有敌人造成 290% 伤害。",
+            "召唤史莱姆恶魔附身于所有敌人。恶魔每回合对敌人造成 50% 攻击力的伤害。",
+            "史莱姆恶魔会吸收治疗。它在吸收了相当于其所有者最大生命值 40% 的治疗量后便会消失。",
+            "每回合结束时，史莱姆恶魔将偷取其目标的可驱散增益或成长效果，并将该增益施加于另一战队的随机一名角色身上。"
         ]
     },
     {
         "originalIndex": 525,
-        "name": "诺古 (Nogu)",
+        "name": "妙印尼 (Myoin-ni)",
         "effects": [
-            "Deals 460% damage to the target and minor damage to nearby enemies.",
-            "The target and nearby enemies receive 504 Bleed damage over 3 turns.",
-            "For the next 3 turns, the target and nearby enemies convert all boosted  health received to max health reduction. Max health is reduced more for  targets that already have boosted health. (Max health can’t get lower than 30% of the original max health. When boosted healing is converted, the max health reduction is doubled if the target already has boosted health.)"
+            "当特殊技能充能至 100% / 200% / 300% 法力时将拥有不同的效果：",
+            "1 倍法力充能：",
+            "- 提高所有盟友 370 点生命值。提高的生命值可以超过最大生命值。",
+            "- 所有盟友获得 +33% 法力生成，持续 2 回合。",
+            "- 所有盟友获得 +25% 防御，持续 2 回合。",
+            "2 倍法力充能：",
+            "- 提高所有盟友 530 点生命值。提高的生命值可以超过最大生命值。",
+            "- 所有盟友获得 +33% 法力生成，持续 3 回合。",
+            "- 所有盟友获得 +40% 防御，持续 3 回合。",
+            "3 倍法力充能：",
+            "- 提高所有盟友 600 点生命值。提高的生命值可以超过最大生命值。",
+            "- 所有盟友获得 +33% 法力生成，持续 4 回合。",
+            "- 所有盟友获得 +65% 防御，持续 4 回合。"
         ]
     },
     {
         "originalIndex": 526,
-        "name": "奥特 (Ott)",
+        "name": "米斯蒂亚 (Mystia)",
         "effects": [
-            "Boosts health of all allies by 600. Boosted health can exceed max HP.",
-            "All allies get a Firestorm Ward for 3 turns, that reduces incoming Special Skill damage by up to -1100. Reduces damage by additional 30% when the attacker is of the Nature element.",
-            "All allies are immune to buff dispels and reallocations for 3 turns. (The immunity also includes this effect itself.)"
+            "所有敌人变得灵魂相连，持续 4 回合。灵魂相连的敌人将平摊所受伤害。",
+            "所有敌人获得 -34% 防御，持续 4 回合。",
+            "所有盟友会将来自烈火系敌人特殊技能的全部状态效果和 145% 伤害反弹至进攻者，并阻挡该技能的其它负面效果，持续 4 回合。（同队角色、小兵和恶魔施放的状态效果无法反弹）",
+            "元素链为全体自然系盟友提供针对特殊技能的 +30% 防御，持续 4 回合。此效果无法驱散。"
         ]
     },
     {
         "originalIndex": 527,
-        "name": "珀涅罗珀 (Penelope)",
+        "name": "诺古 (Nogu)",
         "effects": [
-            "Deals 440% damage to all enemies.",
-            "Heals all allies for 35% of the damage dealth.",
-            "All allies get +45% chance to dodge Special Skills for 5 turns. Each dodge inflicts 10 Insanity on the attacker.",
-            "Inflicts 55 Insanity to the caster."
+            "对目标造成 460% 伤害，并对附近敌人造成轻微伤害。",
+            "目标与附近敌人在 3 回合内受到共计 504 点流血伤害。",
+            "接下来 3 回合内，将目标和附近敌人获得的所有生命加成转化为最大生命值减损。已经获得生命加成的目标会减损更多最大生命值。（最大生命值不能低于初始最大生命值的 30%。转化生命加成时，如果目标已经拥有生命加成，则最大生命值减损翻倍）"
         ]
     },
     {
         "originalIndex": 528,
-        "name": "裴雷格林 (Peregrine)",
+        "name": "奥特 (Ott)",
         "effects": [
-            "Deals 450% damage to the target and nearby enemies.",
-            "Enhanced Dodge: The caster and nearby allies get +55% chance to dodge Special Skills that deal damage. This effect lasts until the ally succesfully dodges 5 times.",
-            "After the Enhanced Dodge ends or is removed or replaced, the ally gets +70% attack for 5 turns."
+            "提高所有盟友 600 点生命值。提高的生命值可以超过最大生命值。",
+            "所有盟友获得一个焰暴守卫，持续 3 回合，它可使所受的特殊技能伤害降低最多 -1100 点。当攻击者为自然系元素时可额外降低 30% 的伤害。",
+            "所有盟友对增益驱散和转移免疫，持续 3 回合。（此免疫效果也包含此效果本身）"
         ]
     },
     {
         "originalIndex": 529,
-        "name": "珮绿朵 (Peridot)",
+        "name": "珀涅罗珀 (Penelope)",
         "effects": [
-            "Special Skill has a different effect when charged with 100%/200%/300% mana:",
-            "x1 Mana Charge:",
-            " * Deals 240% damage to the target.",
-            " • The target receives 220 Poison damage over 2 turns.",
-            " • The target gets -35% accuracy for 2 turns. Chance to miss also applies to offensive Special Skills.",
-            "x2 Mana Charge:",
-            " * Deals 280% damage to the target and nearby enemies.",
-            " * The target and nearby enemies receive 438 Poison damage over 3 turns.",
-            " * The target and nearby enemies get -40% accuracy for 3 turns. Chance to miss also applies to offensive Special Skills.",
-            "x3 Mana Charge:",
-            " * Deals 320% damage to all enemies.",
-            " * All enemies receive 764 Poison damage over 4 turns.",
-            " * All enemies get -54% accuracy for 4 turns. Chance to miss also applies to offensive Special Skills."
+            "对所有敌人造成 440% 伤害。",
+            "为所有盟友恢复等同于所造成伤害 35% 的生命值。",
+            "所有盟友有 +45% 几率闪避特殊技能，持续 5 回合。每次闪避都会对攻击者施加 10 点狂乱。",
+            "对施法者施加 55 点狂乱。"
         ]
     },
     {
         "originalIndex": 530,
-        "name": "斐利亚·福格 (Phileas Fogg)",
+        "name": "裴雷格林 (Peregrine)",
         "effects": [
-            "Dispels buffs from target.",
-            "Deals 420% damage to the target.",
-            "The target gets -58% defense against Nature for 4 turns."
+            "对目标及附近敌人造成 450% 伤害。",
+            "强化闪避：施法者和附近盟友有 +55% 的几率闪避可造成伤害的特殊技能。此效果在盟友成功闪避 5 次后消失。",
+            "强化闪避结束后、被移除或被替换后，盟友获得 +70% 攻击力，持续 5 回合。"
         ]
     },
     {
         "originalIndex": 531,
-        "name": "斐利亚·福格 (Phileas Fogg) C1",
+        "name": "珮绿朵 (Peridot)",
         "effects": [
-            "Dispels buffs from target.",
-            "Deals 410% damage to the target.",
-            "The target gets -60% defense against Nature for 4 turns."
+            "当特殊技能充能至 100% / 200% / 300% 法力时将拥有不同的效果：",
+            "1 倍法力充能：",
+            "* 对目标造成 240% 伤害。",
+            "* 目标在 2 回合内受到共计 220 点剧毒伤害。",
+            "* 目标获得 -35% 精准度，持续 2 回合。进攻型特殊技能也有相同几率落空。",
+            "2 倍法力充能：",
+            "* 对目标及附近敌人造成 280% 伤害。",
+            "* 目标与附近敌人在 3 回合内受到共计 438 点剧毒伤害。",
+            "* 目标与附近敌人获得 -40% 精准度，持续 3 回合。进攻型特殊技能也有相同几率落空。",
+            "3 倍法力充能：",
+            "* 对所有敌人造成 320% 伤害。",
+            "* 所有敌人在 4 回合内受到共计 764 点剧毒伤害。",
+            "* 所有敌人获得 -54% 精准度，持续 4 回合。进攻型特殊技能也有相同几率落空。"
         ]
     },
     {
         "originalIndex": 532,
-        "name": "皮普 (Pip)",
+        "name": "斐利亚·福格 (Phileas Fogg)",
         "effects": [
-            "Deals 350% damage to the target.",
-            "Deals additional 350% damage to 2 random enemies.",
-            "All hit targets receive 456 Bleed damage over 3 turns.",
-            "All hit targets take +50% increased damage from Bleed status ailments for 3 turns."
+            "驱散目标身上的增益。",
+            "对目标造成 420% 伤害。",
+            "目标获得对自然系 -58% 的防御，持续 4 回合。"
         ]
     },
     {
         "originalIndex": 533,
-        "name": "齐格弗里德王子 (Prince Siegfried)",
+        "name": "斐利亚·福格 (Phileas Fogg) C1",
         "effects": [
-            "If the caster is defeated during the next 5 turns, they are resurrected in the beginning of their next turn with 30% health and all allies recover 1100 HP. (All status effects and stacks are removed when the caster is defeated)",
-            "Casts Dance of the Heron to all allies but caster for 5 turns. All existing status effects will be removed when this effect is added.",
-            "Dance of the Heron",
-            " * Counterattack with 130% of the damage received.",
-            " * Received damage is reduced by -35%.",
-            " * Gives immunity to new status effects. New dance status effects will replace this effect.",
-            " * This effect cannot be dispelled. The effect is removed when the caster is defeated."
+            "驱散目标身上的增益。",
+            "对目标造成 410% 伤害。",
+            "目标获得对自然系 -60% 的防御，持续 4 回合。"
         ]
     },
     {
         "originalIndex": 534,
-        "name": "青龙 (Qinglong)",
+        "name": "皮普 (Pip)",
         "effects": [
-            "Deals 160% damage to all enemies.",
-            "Steals the latest dispellable buff from all enemies and randomly distributes them on allies.",
-            "All allies get +8% attack per transferred status effect buff for 2 turns."
+            "对目标造成 350% 伤害。",
+            "对随机 2 名敌人造成额外 350% 伤害。",
+            "所有被击中的目标在 3 回合内受到共计 456 点流血伤害。",
+            "所有被击中的目标从流血状态异常受到的伤害增加 +50%，持续 3 回合。"
         ]
     },
     {
         "originalIndex": 535,
-        "name": "安娜王后 (Queen Anne)",
+        "name": "齐格弗里德王子 (Prince Siegfried)",
         "effects": [
-            "The caster gets Taunt that prevents enemies from using Special Skills on the caster’s allies for 6 turns.",
-            "The caster regenerates 918 HP over 6 turns.",
-            "All allies get +65% defense for 6 turns.",
-            "All allies get +44% mana generation for 6 turns."
+            "如果施法者在后续 5 回合中被击败，该施法者将于下一个回合开始时以 30% 的生命复活，且所有盟友恢复 1100 点生命值。（施法者被击败时所有状态和叠加效果会被移除）",
+            "对除施法者外的所有盟友施放苍鹭之舞，持续 5 回合。添加此效果时将移除所有现有状态效果。",
+            "苍鹭之舞：",
+            "* 以所受伤害的 130% 进行反击。",
+            "* 所受伤害减少 -35%。",
+            "* 免疫新的状态效果。新的舞蹈状态效果将取代此效果。",
+            "* 此效果无法驱散。施法者阵亡后效果移除。"
         ]
     },
     {
         "originalIndex": 536,
-        "name": "奎奈尔 (Quenell)",
+        "name": "青龙 (Qinglong)",
         "effects": [
-            "Deals 320% damage to the target and nearby enemies.",
-            "The caster gets additional +40% power for the next Special Skill they cast. The additional power increases +40% each turn, up to a maximum of 200% in total.",
-            "The caster regenerates 600 HP over 3 turns."
+            "对所有敌人造成 160% 伤害。",
+            "偷取全体敌人最新施加的可驱散增益并随机施放给盟友。",
+            "每转移一个增益状态效果，所有盟友便获得 +8% 攻击力，持续 2 回合。"
         ]
     },
     {
         "originalIndex": 537,
-        "name": "奎奈尔 (Quenell) C1",
+        "name": "安娜王后 (Queen Anne)",
         "effects": [
-            "Deals 360% damage to the target and nearby enemies.",
-            "The caster gets additional +30% power for the next Special Skill they cast. The additional power increases +30% each turn, up to +150% in total.",
-            "The caster regenerates 600 HP over 3 turns."
+            "施法者获得嘲讽，可阻止敌人对其盟友使用特殊技能，持续 6 回合。",
+            "施法者在 6 回合内恢复 918 点生命值。",
+            "所有盟友获得 +65% 防御，持续 6 回合。",
+            "所有盟友获得 +44% 法力生成，持续 6 回合。"
         ]
     },
     {
         "originalIndex": 538,
-        "name": "拉塔托斯克 (Ratatoskr)",
+        "name": "奎奈尔 (Quenell)",
         "effects": [
-            "Recovers 44% health for all allies.",
-            "Alters the power of All Nature shields on the board. When an attacking Hero casts the special, the shields become enhanced with +64% attack. When a defending Hero casts the special, the shields become weakened with -57% attack."
+            "对目标及附近敌人造成 320% 伤害。",
+            "施法者下一次使用特殊技能时，其特殊技能的威力会增加 +40%，之后每回合都会额外增加 +40%，最多加到 200%。",
+            "施法者在 3 回合内恢复 600 点生命值。"
         ]
     },
     {
         "originalIndex": 539,
-        "name": "拉塔托斯克 (Ratatoskr) C1",
+        "name": "奎奈尔 (Quenell) C1",
         "effects": [
-            "All allies regenerate 795 HP over 3 turns.",
-            "Alters the power of all Nature shields on the board. When an attacking Hero casts the special, the shields become enhance with +64% attack. When a defending Hero casts the special, the shields become weakened with -57% attack."
+            "对目标及附近敌人造成 360% 伤害。",
+            "施法者下一次使用特殊技能时，其特殊技能的威力会增加 +30%，之后每回合都会额外增加 +30%，最多加到 +150%。",
+            "施法者在 3 回合内恢复 600 点生命值。"
         ]
     },
     {
         "originalIndex": 540,
-        "name": "雷利乌斯 (Relius)",
+        "name": "拉塔托斯克 (Ratatoskr)",
         "effects": [
-            "Recovers 30% health for all allies.",
-            "Each fallen ally has a 40% chance to get revived with 30% HP.",
-            "All allies a get Moonrise Ward for 4 turns, that reduces incoming Special Skill damage by -800. Reduces by additional 30% when attacker is Holy."
+            "为所有盟友恢复 44% 生命值。",
+            "面板中所有自然系盾牌受到影响。攻击方英雄施放特殊技能时，盾牌得到增强并额外给予 +64% 攻击力；防御方英雄施放特殊技能时，盾牌会被削弱攻击力 -57%。"
         ]
     },
     {
         "originalIndex": 541,
-        "name": "莱茵辉光 (Rhineglow)",
+        "name": "拉塔托斯克 (Ratatoskr) C1",
         "effects": [
-            "The caster gets Taunt that prevents enemies from using Special Skills on the caster’s allies for 3 turns.",
-            "All allies regenerates 1200 boosted health over 3 turns. Boosted health can exceed max HP. This effect can’t be dispelled.",
-            "Stores all damage dealt to the caster for 3 turns. When the effect ends, stored damage is dealth to all enemies, up to a maximum 1200 damage. This effect can’t be dispelled."
+            "所有盟友在 3 回合内恢复 795 点生命值。",
+            "面板中所有自然系盾牌受到影响。攻击方英雄施放特殊技能时，盾牌得到增强并额外给予 +64% 攻击力；防御方英雄施放特殊技能时，盾牌会被削弱攻击力 -57%。"
         ]
     },
     {
         "originalIndex": 542,
-        "name": "罗兹 (Roz)",
+        "name": "雷利乌斯 (Relius)",
         "effects": [
-            "Deals 530% damage to the target.",
-            "If there are 6 or more Nature shields on the board damage is dealt to the target and nearby enemies.",
-            "If there are 12 or more Nature shields on the board damage is dealt to all enemies."
+            "为所有盟友恢复 30% 生命值。",
+            "每名阵亡的盟友有 40% 的几率以 30% 的生命值复活。",
+            "所有盟友获得一个月出守卫，持续 4 回合，它可使所受的特殊技能伤害降低 -800 点。当攻击者为神圣系时可额外降低 30% 的伤害。"
         ]
     },
     {
         "originalIndex": 543,
-        "name": "罗兹 (Roz) C1",
+        "name": "莱茵辉光 (Rhineglow)",
         "effects": [
-            "Deals 540% damage to the target.",
-            "If there are 5 or more Nature shields on the board damage is dealt to the target and nearby enemies.",
-            "If there are 10 or more Nature shields on the board damage is dealt to all enemies."
+            "施法者获得嘲讽，可阻止敌人对其盟友使用特殊技能，持续 3 回合。",
+            "所有盟友在 3 回合内获得共计 1200 点生命加成。提高的生命值可以超过最大生命值。此效果无法驱散。",
+            "储存所有对施法者造成的伤害，持续 3 回合。该效果结束时，对所有敌人造成所储存的伤害，最多可储存 1200 点伤害。此效果无法驱散。"
         ]
     },
     {
         "originalIndex": 544,
-        "name": "萨迪 (Sadie)",
+        "name": "罗兹 (Roz)",
         "effects": [
-            "Deals 550% damage to the target.",
-            "The target gets silenced for 3 turns.",
-            "The target gets -64% defense against Special Skills for 3 turns.",
-            "The target can’t get their status ailments cleansed or reallocated by Special Skills for 3 turns. (This effect is also prevents cleansing and reallocating of itself.)",
-            "Reduces max health of the caster by 400. The effect is stronger against targets with boosted health. (Max health can’t get lower than 30% of the original max health. Any boosted health is reduced by an additional 400.)"
+            "对目标造成 530% 伤害。",
+            "若面板上有 6 个或以上的自然系盾牌，则对目标和附近敌人造成该伤害。",
+            "若面板上有 12 个或以上的自然系盾牌，则对所有敌人造成该伤害。"
         ]
     },
     {
         "originalIndex": 545,
-        "name": "沙悟净 (Sha Wujing)",
+        "name": "罗兹 (Roz) C1",
         "effects": [
-            "Deals 610% damage to the target.",
-            "Heals all allies for 40% of damage dealt.",
-            "All allies get +45% chance to dodge Special Skills that deal damage for 4 turns."
+            "对目标造成 540% 伤害。",
+            "若面板上有 5 个或以上的自然系盾牌，则对目标和附近敌人造成该伤害。",
+            "若面板上有 10 个或以上的自然系盾牌，则对所有敌人造成该伤害。"
         ]
     },
     {
         "originalIndex": 546,
-        "name": "西尔瓦丽亚 (Silvaria)",
+        "name": "萨迪 (Sadie)",
         "effects": [
-            "The target and nearby enemies get -34% defense for 3 turns.",
-            "Deals 380% damage to the target.",
-            "Summons a Forest Familiar Minion for all allies with 15% HP and 15% attack inherited from the caster.",
-            "Element Link gives all Nature allies +10% atack for 4 turns. This effect can't be dispelled."
+            "对目标造成 550% 伤害。",
+            "目标陷入沉默，持续 3 回合。",
+            "目标获得对特殊技能 -64% 的防御，持续 3 回合。",
+            "目标无法用特殊技能净化或转移其状态异常，持续 3 回合。（此效果也无法被净化或转移）",
+            "使施法者减少 400 点最大生命值。若目标拥有加成的生命值，此效果会增强。（最大生命值不能低于初始最大生命值的 30%。任何生命加成会额外减少 400 点）"
         ]
     },
     {
         "originalIndex": 547,
-        "name": "巧舌妇 (Smarttongue)",
+        "name": "沙悟净 (Sha Wujing)",
         "effects": [
-            "Wither: All enemies get -350 attack.",
-            "Reduces max health for all enemies by 700. This effect is stronger against targets with boosted health. (Max health can’t be lower than the 30% of the original max health. Any boosted health is reduced by an additional 700.)",
-            "All enemies get -45% defense against Special Skills for 4 turns."
+            "对目标造成 610% 伤害。",
+            "为所有盟友恢复等同于所造成伤害 40% 的生命值。",
+            "所有盟友有 +45% 几率闪避可造成伤害的特殊技能，持续 4 回合。"
         ]
     },
     {
         "originalIndex": 548,
-        "name": "雪球 (Snowball)",
+        "name": "西尔瓦丽亚 (Silvaria)",
         "effects": [
-            "Deals 250% damage to the target and nearby enemies.",
-            "Summons a Barbed Arrow Fiend to the target and nearby enemies. The Fiend damages the enemies with 43% attack every turn.",
-            "The Barbed Arrow Fiend absorbs healing. It disappears after absorbing a healing amount equal to 28% of its target's max health.",
-            "When summoned, the Barbed Arrow Fiend increases the damage dealt to its target from all sources by +40%. The effect lasts as long as the target has Barbed Arrow Fiends. This effect can't be cleansed."
+            "目标与附近敌人获得 -34% 防御，持续 3 回合。",
+            "对目标造成 380% 伤害。",
+            "为所有盟友召唤一个森林密友小兵，其可从施法者处继承 15% 生命和 15% 攻击力。",
+            "元素链给予所有自然系盟友 +10% 攻击力，持续 4 回合。此效果无法驱散。"
         ]
     },
     {
         "originalIndex": 549,
-        "name": "斯帕托依 (Spartoi)",
+        "name": "巧舌妇 (Smarttongue)",
         "effects": [
-            "Special Skill need consecutive uses to reach full power, the following order:",
-            "1st:",
-            " * Deals 240% damage to all enemies.",
-            " * Summons a Naga Warrior Fiend for all enemies. The Fiend damage its target with 75% attack every turn.",
-            " * The Naga Warrior Fiend absorbs healing. It disappears after absorbing a healing amount equal to 40% of its target’s max health.",
-            "2nd:",
-            " * Deals 320% damage to all enemies.",
-            " * Summons a Naga Warrior Fiend for all enemies. The Fiend damage its target with 110% attack every turn.",
-            " * The Naga Warrior Fiend absorbs healing. It disappears after absorbing a healing amount equal to 50% of its target’s max health."
+            "衰退：所有敌人获得 -350 点攻击力。",
+            "使所有敌人减少 700 点最大生命值。若目标拥有提高的生命值，此效果会增强。（最大生命值不能低于初始最大生命值的 30%。任何提高的生命值会额外减少 700 点）",
+            "所有敌人获得 -45% 特殊技能防御，持续 4 回合。"
         ]
     },
     {
         "originalIndex": 550,
-        "name": "斯帕托依 (Spartoi) C1",
+        "name": "雪球 (Snowball)",
         "effects": [
-            "Special Skill need consecutive uses to reach full power, the following order:",
-            "1st:",
-            " * Deals 230% damage to all enemies.",
-            " * Summons a Naga Warrior Fiend for all enemies. The Fiend damage its target with 70% attack every turn.",
-            " * The Naga Warrior Fiend absorbs healing. It disappears after absorbing a healing amount equal to 35% of its target’s max health.",
-            "2nd:",
-            " * Deals 350% damage to all enemies.",
-            " * Summons a Naga Warrior Fiend for all enemies. The Fiend damage its target with 125% attack every turn.",
-            " * The Naga Warrior Fiend absorbs healing. It disappears after absorbing a healing amount equal to 60% of its target’s max health."
+            "对目标及附近敌人造成 250% 伤害。",
+            "召唤棘刺箭恶魔附身于目标及附近敌人。恶魔每回合对敌人造成 43% 攻击力的伤害。",
+            "棘刺箭恶魔会吸收治疗。它在吸收了相当于其所有者最大生命值 28% 的治疗量后便会消失。",
+            "棘刺箭恶魔被召唤后，只要其所有者拥有该恶魔，其所有者受到的所有伤害增加 +40%。此效果无法净化。"
         ]
     },
     {
         "originalIndex": 551,
-        "name": "斯皮夫 (Spiff)",
+        "name": "斯帕托依 (Spartoi)",
         "effects": [
-            "The caster gets lasting bypass for defensive buffs. (Defensive buffs include counterattacks. This effect lasts until it is cleansed, replaced or removed.)",
-            "Deals 585% damage to the target.",
-            "The caster gets lasting +50% chance to dodge Special Skills. (This effect lasts until it is cleansed, replaced or removed.)"
+            "必须连续使用特殊技能才能达到其最大威力，顺序为：",
+            "第一次：",
+            "* 对所有敌人造成 240% 伤害。",
+            "* 召唤娜迦战士恶魔附身于所有敌人。恶魔每回合对其目标造成 75% 攻击力的伤害。",
+            "* 娜迦战士恶魔会吸收治疗。它在吸收了相当于其目标最大生命值 40% 的治疗量后便会消失。",
+            "第二次：",
+            "* 对所有敌人造成 320% 伤害。",
+            "* 召唤娜迦战士恶魔附身于所有敌人。恶魔每回合对其目标造成 110% 攻击力的伤害。",
+            "* 娜迦战士恶魔会吸收治疗。它在吸收了相当于其目标最大生命值 50% 的治疗量后便会消失。"
         ]
     },
     {
         "originalIndex": 552,
-        "name": "斯特因堂 (Staintongue)",
+        "name": "斯帕托依 (Spartoi) C1",
         "effects": [
-            "Deals 330% damage to the target and nearby enemies.",
-            "The target and nearby enemies get -30% accuracy for 3 turns. The accuracy decreases by -10% each turn, up to -50%.",
-            "The target and nearby enemies receive 363 Poison damage over 3 turns."
+            "必须连续使用特殊技能才能达到其最大威力，顺序为：",
+            "第一次：",
+            "* 对所有敌人造成 230% 伤害。",
+            "* 召唤娜迦战士恶魔附身于所有敌人。恶魔每回合对其目标造成 70% 攻击力的伤害。",
+            "* 娜迦战士恶魔会吸收治疗。它在吸收了相当于其目标最大生命值 35% 的治疗量后便会消失。",
+            "第二次：",
+            "* 对所有敌人造成 350% 伤害。",
+            "* 召唤娜迦战士恶魔附身于所有敌人。恶魔每回合对其目标造成 125% 攻击力的伤害。",
+            "* 娜迦战士恶魔会吸收治疗。它在吸收了相当于其目标最大生命值 60% 的治疗量后便会消失。"
         ]
     },
     {
         "originalIndex": 553,
-        "name": "星瞳 (Starlass)",
+        "name": "斯皮夫 (Spiff)",
         "effects": [
-            "This Special Skill never misses its targets.",
-            "Deals 550% damage to target and nearby enemies",
-            "Automatically does 701 damage to the hit enemy and consumes 75% mana from hit enemy every time when the hit enemy’s mana gets full for 3 tuns."
+            "施法者无视防御增益（包括反击），持续无限回合。（此效果持续至被净化、替换或移除）",
+            "对目标造成 585% 伤害。",
+            "施法者获得 +50% 几率闪避特殊技能，持续无限回合。（此效果将持续，直至被驱散、替代或移除。）"
         ]
     },
     {
         "originalIndex": 554,
-        "name": "苏涅 (Sune)",
+        "name": "斯特因堂 (Staintongue)",
         "effects": [
-            "Deals 550% damage to the target.",
-            "If the target is of Ice element, deals 300% damage to nearby enemies.",
-            "Dispels buffs from the target and nearby enemies.",
-            "Reduces the mana of the target and nearby enemies by -5% per each removed status effect, up to -20% in total.",
-            "Deals extra damage against Ice."
+            "对目标及附近敌人造成 330% 伤害。",
+            "目标和附近敌人获得 -30% 精准度，持续 3 回合。该精准度每回合减少 -10%，最高可达 -50%。",
+            "目标与附近敌人在 3 回合内受到共计 363 点剧毒伤害。"
         ]
     },
     {
         "originalIndex": 555,
-        "name": "为朝 (Tametomo)",
+        "name": "星瞳 (Starlass)",
         "effects": [
-            "Special Skill has a different effect when charged with 100%/200%/300% mana:",
-            "x1 Mana Charge:",
-            " - This Special Skill never misses its targets.",
-            " - Deals 250% damage to the target.",
-            " - Deals 450% damage if the target has more than 50% health remaining.",
-            " - Deals an additional 250% damage to the nearby enemies.",
-            "x2 Mana Charge:",
-            " - This Special Skill never misses its targets.",
-            " - Deals 350% damage to the target.",
-            " - Deals 550% damage if the target has more than 50% health remaining.",
-            " - Deals an additional 350% damage to the nearby enemies.",
-            "x3 Mana Charge:",
-            " - This Special Skill never misses its targets.",
-            " - Deals 400% damage to the target.",
-            " - Deals 700% damage if the target has more than 50% health remaining.",
-            " - Deals an additional 400% damage to the nearby enemies."
+            "此特殊技能必定命中。",
+            "对目标及附近敌人造成 550% 伤害。",
+            "每当被击中的敌人法力满格时，自动对其造成 701 点伤害，并使其法力减少 75%，持续 3 回合。"
         ]
     },
     {
         "originalIndex": 556,
-        "name": "塔拉克 (Tarlak)",
+        "name": "苏涅 (Sune)",
         "effects": [
-            "All allies get +100% normal attack for 4 turns. Stacks with similar status effects up to a maximum of +160% normal attack.",
-            "All allies regenerate 324 HP over 4 turns."
+            "对目标造成 550% 伤害。",
+            "若目标为冰雪系，则对其附近敌人造成 300% 伤害。",
+            "驱散目标和附近敌人身上的增益。",
+            "每移除一项状态效果，就使目标和附近敌人的法力减少 -5%，最高可减少 -20%。",
+            "对冰雪系造成额外伤害。"
         ]
     },
     {
         "originalIndex": 557,
-        "name": "塔拉克 (Tarlak) C1",
+        "name": "鳞梭鱼 (Suomuhauki)",
         "effects": [
-            "Boosts health for all allies by 470. Boosted health can exceed max HP.",
-            "All allies get +80% normal attack for 5 turns. The normal attack is increased by +20% each turn. This effect can be active with addition to effect that alter attack in general. Normal attacks can have a total maximum of +160% increased power while this effect is active."
+            "对目标造成 400% 伤害。",
+            "召唤狗鱼超级恶魔附身于目标。恶魔每回合对敌人造成 270% 攻击力的伤害。对烈火系角色造成强袭伤害。",
+            "狗鱼超级恶魔会吸收治疗，当吸收的生命值达到其目标最大生命值的 70% 时，它便会消失。",
+            "狗鱼超级恶魔被召唤后，该恶魔会给予其目标 -45% 攻击力。针对烈火系角色，狗鱼超级恶魔给予 -55% 攻击力。该效果会持续，直到目标身上的狗鱼超级恶魔消失为止。"
         ]
     },
     {
         "originalIndex": 558,
-        "name": "泰迪 (Teddy)",
+        "name": "为朝 (Tametomo)",
         "effects": [
-            "Deals 180% damage to all enemies.",
-            "All enemies fall asleep.",
-            "While asleep, the target can’t attack or gain mana.",
-            "All damage dealt to the sleeping target is increased by +70%.",
-            "The sleeping target is woken once it takes damage. The excudes damage from Minions or Fiends.",
-            "All allies regenerate 1200 HP over 4 turns."
+            "当特殊技能充能至 100% / 200% / 300% 法力时将拥有不同的效果：",
+            "1 倍法力充能：",
+            "- 此特殊技能必定命中。",
+            "- 对目标造成 250% 伤害。",
+            "- 对剩余生命值超过 50% 的敌人造成 450% 伤害。",
+            "- 对附近敌人造成额外 250% 伤害。",
+            "2 倍法力充能：",
+            "- 此特殊技能必定命中。",
+            "- 对目标造成 350% 伤害。",
+            "- 对剩余生命值超过 50% 的敌人造成 550% 伤害。",
+            "- 对附近敌人造成额外 350% 伤害。",
+            "3 倍法力充能：",
+            "- 此特殊技能必定命中。",
+            "- 对目标造成 400% 伤害。",
+            "- 对剩余生命值超过 50% 的敌人造成 700% 伤害。",
+            "- 对附近敌人造成额外 400% 伤害。"
         ]
     },
     {
         "originalIndex": 559,
-        "name": "特鲁利亚 (Telluria)",
+        "name": "塔拉克 (Tarlak)",
         "effects": [
-            "Deals 160% damage to all enemies.",
-            "Summons a Forest Familiar Minion for all allies with 15% HP and 15% attack inherited from the caster.",
-            "All allies regenerate 506 HP over 2 turns.",
-            "All enemies get -24% mana generation for 2 turns.",
-            "Element Link gives all Nature allies +10% critical chance for 6 turns. This effect can't be cleansed."
+            "所有盟友获得 +100% 普通攻击，持续 4 回合。此效果可与同类效果叠加，普通攻击最多可增加共计 +160% 攻击力。",
+            "所有盟友在 4 回合内恢复 324 点生命值。"
         ]
     },
     {
         "originalIndex": 560,
-        "name": "特罗纽斯 (Telonius)",
+        "name": "塔拉克 (Tarlak) C1",
         "effects": [
-            "Special Skill has a different effect when charged with 100%/200% mana:",
-            "1x Mana Charge:",
-            " * All enemies take +50% increased damage from status ailments for 3 turns.",
-            " * All enemies receive 357 Poison damage over 3 turns.",
-            "2x Mana Charge:",
-            " * Recovers 75% health for the caster and nearby allies.",
-            " * The caster and nearby allies are immune to damage from status ailments for 5 turns."
+            "提高所有盟友 470 点生命值。提高的生命值可以超过最大生命值。",
+            "所有盟友获得 +80% 普通攻击，持续 5 回合。每回合普通攻击都会增加 +20%。即使英雄身上已有其他影响攻击力的效果，此效果仍然有效。此效果有效期间，普通攻击最多可以增加共计 +160% 攻击力。"
         ]
     },
     {
         "originalIndex": 561,
-        "name": "疯帽子 (The Hatter)",
+        "name": "泰迪 (Teddy)",
         "effects": [
-            "Deals 400% damage to the target and minor damage to nearby enemies",
-            "Steals all the dispellable buffs from all enemies and randomly allocates them on all allies"
+            "对所有敌人造成 180% 伤害。",
+            "所有敌人陷入沉睡。",
+            "沉睡期间，目标无法攻击或获得法力。",
+            "对沉睡目标造成的所有伤害增加 +70%。",
+            "沉睡目标受到伤害后便会苏醒。这不包括来自小兵或恶魔的伤害。",
+            "所有盟友在 4 回合内恢复 1200 点生命值。"
         ]
     },
     {
         "originalIndex": 562,
-        "name": "疯帽子 (The Hatter) C1",
+        "name": "特鲁利亚 (Telluria)",
         "effects": [
-            "Deals 400% damage to the target and minor damage to nearby enemies.",
-            "Steals all the dispellable buffs from all enemies and randomly allocates them on the allies.",
-            "Summons a Playing Card Minion with 25% HP and 40% attack inherited from the caster."
+            "对所有敌人造成 160% 伤害。",
+            "为所有盟友召唤一个森林密友小兵，其可从施法者处继承 15% 生命和 15% 攻击力。",
+            "所有盟友在 2 回合内恢复 506 点生命值。",
+            "所有敌人获得 -24% 法力生成，持续 2 回合。",
+            "元素链为全体自然系盟友提供 +10% 的暴击几率，持续 6 回合。此效果无法净化。"
         ]
     },
     {
         "originalIndex": 563,
-        "name": "狄奥多西 (Theodosius)",
+        "name": "特罗纽斯 (Telonius)",
         "effects": [
-            "Deals 450% damage to all enemies.",
-            "Reduces the duration of all allies’ active status ailments by 3 turn. (The duration reduction affects both cleansable and uncleansable status ailments. If the duration on any ailment is reduced to zero, the effect is considered as having expired naturally.)",
-            "Reduces the duration of all enemies’ active buffs by 3 turns.(The duration reduction affects both dispellable and undispellable status effect buffs. If the duration on any buff is reduced to zero, the effect is considered as having expired naturally.)",
-            "All allies get +35% defense for 5 turns.",
-            "All enemies get -35% defense for 5 turns."
+            "当特殊技能充能至 100% / 200% 法力时将拥有不同的效果：",
+            "1 倍法力充能：",
+            "* 所有敌人从状态异常受到的伤害增加 +50%，持续 3 回合。",
+            "* 所有敌人在 3 回合内受到共计 357 点剧毒伤害。",
+            "2 倍法力充能：",
+            "* 为施法者和附近盟友恢复 75% 生命值。",
+            "* 施法者和附近盟友对来自状态异常的伤害免疫，持续 5 回合。"
         ]
     },
     {
         "originalIndex": 564,
-        "name": "托克斯坎德拉 (Toxicandra)",
+        "name": "疯帽子 (The Hatter)",
         "effects": [
-            "Recovers 30% health for all allies.",
-            "All allies regenerate a moderate amount of mana over 3 turns.",
-            "Cleanses status ailments from all allies."
+            "对目标造成 400% 伤害，并对附近敌人造成轻微伤害。",
+            "偷取全体敌人的全部可驱散增益并随机施放给所有盟友。"
         ]
     },
     {
         "originalIndex": 565,
-        "name": "托克斯坎德拉 (Toxicandra) C1",
+        "name": "疯帽子 (The Hatter) C1",
         "effects": [
-            "Boosts health of all allies by 750. Boosted health can exceed max HP.",
-            "All allies regenerate a moderate amount of mana over 3 turns.",
-            "Cleanses status ailments from all allies."
+            "对目标造成 400% 伤害，并对附近敌人造成轻微伤害。",
+            "偷取全体敌人的全部可驱散增益并随机施放给盟友。",
+            "召唤一个扑克小兵，其可从施法者处继承 25% 生命值和 40% 攻击力。"
         ]
     },
     {
         "originalIndex": 566,
-        "name": "万奈摩宁 (Vainamoinen)",
+        "name": "狄奥多西 (Theodosius)",
         "effects": [
-            "Deals 270% damage to the target and nearby enemies.",
-            "All enemies get -30% accuracy for 3 turns. Against Fire characters, this status effect becomes uncleansable and lasts 2 turns longer. Chance to miss also applies to offensive Special Skills."
+            "对所有敌人造成 450% 伤害。",
+            "所有盟友身上的状态异常持续时间减少 3 回合。（持续时间调整对可净化效果和不可净化效果皆有影响。若任何效果的持续时间降为零，则该效果视为自然过期）",
+            "所有敌人身上的增益持续时间减少 3 回合。（持续时间调整对可驱散效果和不可驱散效果皆有影响。若任何效果的持续时间降为零，则该效果视为自然过期）",
+            "所有盟友获得 +35% 防御，持续 5 回合。",
+            "所有敌人获得 -35% 防御，持续 5 回合。"
         ]
     },
     {
         "originalIndex": 567,
-        "name": "万奈摩宁 (Vainamoinen) C1",
+        "name": "托克斯坎德拉 (Toxicandra)",
         "effects": [
-            "Deals 300% damage to the target and nearby enemies.",
-            "All enemies get -25% accuracy for 3 turns. Against Fire characters, this status effect becomes uncleansable and lasts 2 turns longer. Chance to miss also applies to offensive Special Skills."
+            "为所有盟友恢复 30% 生命值。",
+            "所有盟友在 3 回合内恢复适量法力。",
+            "净化所有盟友的状态异常。"
         ]
     },
     {
         "originalIndex": 568,
-        "name": "维迪古 (Verdigoo)",
+        "name": "托克斯坎德拉 (Toxicandra) C1",
         "effects": [
-            "Deals 380% damage to the target and nearby enemies.",
-            "All allies get Sticky Surface for 3 turns. This effect can’t be dispelled.",
-            "Sticky Surface: Steals 1 random dispellable buff from an attacking enemy. (Stolen dispellable buff or Growth effect is chosen by random. Sticky Surface is activated when any damage is received from an enemy. Each character with Sticky Surface can only steal one status effect buff or Growth effect per turn from normal attacks.)"
+            "提高所有盟友 750 点生命值。提高的生命值可以超过最大生命值。",
+            "所有盟友在 3 回合内恢复适量法力。",
+            "净化所有盟友的状态异常。"
         ]
     },
     {
         "originalIndex": 569,
-        "name": "韦鲁斯 (Verus)",
+        "name": "万奈摩宁 (Vainamoinen)",
         "effects": [
-            "Attacks all enemies with Moonrise Strike, dealing up to 1200 damage. Deals 40% more damage if the target is Holy.",
-            "All enemies receive 924 Bleed damage over 4 turns.",
-            "All enemies get -45% accuracy for 4 turns. Chance to miss also applies to offensive Special Skills."
+            "对目标及附近敌人造成 270% 伤害。",
+            "所有敌人获得 -30% 精准度，持续 3 回合。对烈火系角色，此状态效果不可净化且持续时间延长 2 回合。进攻型特殊技能也有相同几率落空。"
         ]
     },
     {
         "originalIndex": 570,
-        "name": "维赛勒斯 (Viselus)",
+        "name": "万奈摩宁 (Vainamoinen) C1",
         "effects": [
-            "Destroys all Minions from the target and nearby enemies. This effect damages Mega Minions.",
-            "Deals 340% damage to the target and nearby enemies.",
-            "The target and nearby enemies receive 572 Poison damage over 4 turns.",
-            "Element Link gives all Nature allies +5% chance to dodge status ailments for 4 turns. This effect cannot be dispelled."
+            "对目标及附近敌人造成 300% 伤害。",
+            "所有敌人获得 -25% 精准度，持续 3 回合。对烈火系角色，此状态效果不可净化且持续时间延长 2 回合。进攻型特殊技能也有相同几率落空。"
         ]
     },
     {
         "originalIndex": 571,
-        "name": "威妮弗蕾德 (Winifred)",
+        "name": "维迪古 (Verdigoo)",
         "effects": [
-            "Deals 550% damage to the target.",
-            "The attack chains through all the enemies who are adjacent to any hit enemy and deals minor damage.",
-            "All hit targets get -54% attack for 5 turns.",
-            "All hit targets are immune to new status effect buffs for 5 turns."
+            "对目标及附近敌人造成 380% 伤害。",
+            "所有盟友获得粘糊表面，持续 3 回合。此效果无法驱散。",
+            "粘性表面：从一名发动攻击的敌人身上随机窃取 1 个可驱散增益或成长效果。（窃取的可驱散增益或成长效果均为随机选择。 敌人造成任何伤害时，将触发粘性表面效果。 每名拥有粘性表面的角色，通过受到普通攻击来窃取的增益状态效果或成长效果，每回合最多为一个。）"
         ]
     },
     {
         "originalIndex": 572,
-        "name": "赞德瑞拉 (Xandrella)",
+        "name": "韦鲁斯 (Verus)",
         "effects": [
-            "Deals 450% damage to target and all Ice enemies.",
-            "Automatically does 438 damage to the target and all Ice enemies, when their mana is full and reduces their mana by 50% for 4 turns.",
-            "Alters the power of all Nature shields on the board. When an attacking Hero casts the special, the shields become enhanced and give +37% more mana. When a defending Hero casts the special, the shields become weakened and give -30% less mana."
+            "使用月出闪袭攻击所有敌人，造成最多 1200 点伤害。若目标为神圣系元素则额外造成 40% 伤害。",
+            "所有敌人在 4 回合内受到共计 924 点流血伤害。",
+            "所有敌人获得 -45% 精准度，持续 4 回合。进攻型特殊技能也有相同几率落空。"
         ]
     },
     {
         "originalIndex": 573,
-        "name": "夏玛拉 (Xiamara)",
+        "name": "维赛勒斯 (Viselus)",
         "effects": [
-            "Deals 300% damage to all enemies.",
-            "The caster gets additional +100% power for the next Special Skill they cast. The additional power increases +25% each turn, up to a maximum of +200% in total.",
-            "All enemies receive Mana Corruption for 4 turns. Each time an afflicted enemy receives mana from an additional source, they receive 400 damage. Additional sources include direct mana addition from Special Skills, status effects, level properties, passive skills, family effects, tile effects and Minions. Mana added for defense team at the end of their turn or from matching tiles is included only if the target has a mana generation bufff or a posive mana generation stack."
+            "摧毁目标和附近敌人的全部小兵。此效果会对超级小兵造成伤害。",
+            "对目标及附近敌人造成 340% 伤害。",
+            "目标与附近敌人在 4 回合内受到共计 572 点剧毒伤害。",
+            "元素链赋予所有自然系盟友 +5% 几率闪避状态异常，持续 4 回合。此效果无法驱散。"
         ]
     },
     {
         "originalIndex": 574,
-        "name": "小青 (Xiaoqing)",
+        "name": "威妮弗蕾德 (Winifred)",
         "effects": [
-            "Recovers 40% health for all allies.",
-            "Lifts the latest cleansable status ailment from all allies and randomly distributes them on enemies.",
-            "All allies have a 60% chance to reflect any status ailment to a random character on the opposing team for 3 turns. (Status effects cast by characters, Minions and Fiends on the same side cannot be reflected.)"
+            "对目标造成 550% 伤害。",
+            "与被击中敌人相邻的所有敌人都将受到连锁攻击，并造成轻微伤害。",
+            "所有命中的目标获得 -54% 攻击力，持续 5 回合。",
+            "所有命中的目标都将对新的增益状态效果免疫，持续 5 回合。"
         ]
     },
     {
         "originalIndex": 575,
-        "name": "尤纳恩 (Yunan)",
+        "name": "赞德瑞拉 (Xandrella)",
         "effects": [
-            "Deals 200% damage to all enemies",
-            "All enemies receive 381 damage over 3 turns",
-            "All enemies get -50% decrease for any healing received for 3 turns.  This effect can't be cleansed.",
-            "Cleanses status ailments from all allies."
+            "对目标和所有冰雪系敌人造成 450% 伤害。",
+            "目标和任何冰雪系敌人法力满格时，自动对其造成 438 点伤害，并使其法力减少 50%，持续 4 回合。",
+            "面板中所有自然系盾牌受到影响。进攻方英雄施放此特殊技能时，盾牌将会被增强，给予的法力增加 +37% ；而防御方英雄施放此特殊技能时，盾牌则会被削弱，给予的法力减少 -30%。"
         ]
     },
     {
         "originalIndex": 576,
-        "name": "尤纳恩 (Yunan) C1",
+        "name": "夏玛拉 (Xiamara)",
         "effects": [
-            "Deals 215% damage to all enemies.",
-            "All enemies receive 815 Sand damage over 5 turns.",
-            "All allies get +33% mana generation for 5 turns.",
-            "Cleanses status ailments from all allies."
+            "对所有敌人造成 300% 伤害。",
+            "施法者下一次使用特殊技能时，其特殊技能的威力会增加 +100%，之后每回合都会额外增加 +25%，最多加到 +200%。",
+            "所有敌人受到法力腐蚀，持续 4 回合。受到该状态效果的敌人每次从额外来源获得法力时，都会受到 400 点伤害。额外来源包括来自特殊技能的直接法力增加、状态效果、关卡属性、被动技能、家族效果、方块效果和小兵。只有在目标拥有法力生成增益或正法力生成叠加时，防御队伍在回合结束时或通过消除方块获得的法力才会被计算在内。"
         ]
     },
     {
         "originalIndex": 577,
-        "name": "扎维尼亚 (Zavinia)",
+        "name": "小青 (Xiaoqing)",
         "effects": [
-            "Deals 450% damage to the target.",
-            "Deals additional 180% damage to as many random enemies as there are Nature tiles on the board, up to a maximum of 12 hits. The damage is reduced on each consecutive hit.",
-            "All hit targets get 10 Insanity every time they are hit.",
-            "Inflicts 50 Insanity on the caster."
+            "为所有盟友恢复 40% 生命值。",
+            "解除所有盟友的全部可净化状态异常，并随机施放给敌人。",
+            "所有盟友有 60% 几率将所有状态异常反弹至敌方战队的一名随机角色，持续 3 回合。（同队角色、小兵和恶魔施放的状态效果无法反弹）"
         ]
     },
     {
         "originalIndex": 578,
-        "name": "西林 (Zeline)",
+        "name": "尤纳恩 (Yunan)",
         "effects": [
-            "Deals 225% damage to all enemies",
-            "All enemies get -34% attack for 4 turns",
-            "Deals extra damage against Ice",
-            "Dispels buffs from all enemies",
-            "Elemental Link gives +10% mana generation for all Nature allies for 4 turns. This effect can't be dispelled."
+            "对所有敌人造成 200% 伤害。",
+            "所有敌人在 3 回合内受到共计 381 点伤害。",
+            "所有敌人获得的治疗减少 -50%，持续 3 回合。此效果无法净化。",
+            "净化所有盟友的状态异常。"
         ]
     },
     {
         "originalIndex": 579,
-        "name": "西林 (Zeline) C1",
+        "name": "尤纳恩 (Yunan) C1",
         "effects": [
-            "Dispels buffs from all enemies.",
-            "Deals 210% damage to all enemies.",
-            "All enemies get -38% attack for 4 turns.",
-            "Deals extra damage against Ice",
-            "Elemental Link gives +10% mana generation for all Nature allies for 4 turns. This effect can’t be dispelled."
+            "对所有敌人造成 215% 伤害。",
+            "所有敌人在 5 回合内受到共计 815 点沙系伤害。",
+            "所有盟友获得 +33% 法力生成，持续 5 回合。",
+            "净化所有盟友的状态异常。"
         ]
     },
     {
         "originalIndex": 580,
-        "name": "佐卡 (Zocc)",
+        "name": "扎维尼亚 (Zavinia)",
         "effects": [
-            "Deals 320% damage to the target",
-            "Increases the mana of the target by 50%",
-            "The target automatically casts Mindless Attack on a random ally when mana is full at the start of a turn during 3 turns.",
-            "Element Link gives all Nature allies +30% defense against Special Skills for 4 turns. This effect can’t be dispelled."
+            "对目标造成 450% 伤害。",
+            "面板上有多少个自然系方块，就随机对同样数量的敌人造成额外 180% 的伤害，最多可命中 12 次。每下攻击的伤害都会递减。",
+            "技能命中的所有目标每当被击中时就会获得 10 点狂乱。",
+            "对施法者施加 50 点狂乱。"
         ]
     },
     {
         "originalIndex": 581,
-        "name": "祖妮 (Zuni)",
+        "name": "西林 (Zeline)",
         "effects": [
-            "Deals 300% damage to the target.",
-            "If the target is of Ice element, deals 275% damage to all other enemes.",
-            "Hit enemies get -34% attack for 3 turns. Against Ice characters, this status effect becomes uncleasable and lasts 2 turns longer.",
-            "Hit enemies get -34% defense for 3 turns. Against Ice characters, this status effect becomes uncleasable and lasts 2 turns longer."
+            "对所有敌人造成 225% 伤害。",
+            "所有敌人获得 -34% 攻击力，持续 4 回合。",
+            "对冰雪系造成额外伤害。",
+            "驱散所有敌人的增益。",
+            "元素链为全体自然系盟友提供 +10% 的法力生成，持续 4 回合。此效果无法驱散。"
         ]
     },
     {
         "originalIndex": 582,
-        "name": "弗莱彻 (Fletcher)",
+        "name": "西林 (Zeline) C1",
         "effects": [
-            "Deals 265% damage to the target"
+            "驱散所有敌人的增益。",
+            "对所有敌人造成 210% 伤害。",
+            "所有敌人获得 -38% 攻击力，持续 4 回合。",
+            "对冰雪系造成额外伤害。",
+            "元素链为全体自然系盟友提供 +10% 的法力生成，持续 4 回合。此效果无法驱散。"
         ]
     },
     {
         "originalIndex": 583,
-        "name": "夜影 (Nightshade)",
+        "name": "佐卡 (Zocc)",
         "effects": [
-            "Deals 250% damage to the target"
+            "对目标造成 320% 伤害。",
+            "使目标的法力增加 50%。",
+            "在 3 回合内，若目标在回合开始时法力满格，该目标将自动对一名随机盟友施放莽夫乱拳。",
+            "元素链为全体自然系盟友提供针对特殊技能的 +30% 防御，持续 4 回合。此效果无法驱散。"
         ]
     },
     {
         "originalIndex": 584,
-        "name": "朱利叶斯 (Julius)",
+        "name": "祖妮 (Zuni)",
         "effects": [
-            "Deals 250% damage to the target"
+            "对目标造成 300% 伤害。",
+            "若目标为冰雪系，则对其余敌人造成 275% 伤害。",
+            "被击中的敌人获得 -34% 攻击力，持续 3 回合。对冰雪系角色，此状态效果不可净化且持续时间延长 2 回合。",
+            "被击中的敌人获得 -34% 防御，持续 3 回合。对冰雪系角色，此状态效果不可净化且持续时间延长 2 回合。"
         ]
     },
     {
         "originalIndex": 585,
-        "name": "蕾拉 (Layla)",
+        "name": "弗莱彻 (Fletcher)",
         "effects": [
-            "The target receives 78 damage over 6 turns"
+            "对目标造成 265% 伤害。"
         ]
     },
     {
         "originalIndex": 586,
-        "name": "希利苏斯 (Silthus)",
+        "name": "夜影 (Nightshade)",
         "effects": [
-            "All allies get +48% attack for 4 turns"
+            "对目标造成 250% 伤害。"
         ]
     },
     {
         "originalIndex": 587,
-        "name": "阿德琳 (Aderyn)",
+        "name": "朱利叶斯 (Julius)",
         "effects": [
-            "Recovers 32% health for all allies.",
-            "All enemies get -50% decrease for any healing received for 4 turns."
+            "对目标造成 250% 伤害。"
         ]
     },
     {
         "originalIndex": 588,
-        "name": "安文德尔 (An-Windr)",
+        "name": "蕾拉 (Layla)",
         "effects": [
-            "The caster gets +45% attack, and a further 20% increase every time they or any of their allies are hit during 3 turns. When the effect ends, all enemies receive 119 damage. Each hit on the caster or their allies during the duration increases the damage by 8 to a maximum of 215 damage."
+            "目标在 6 回合内受到共计 78 点伤害。"
         ]
     },
     {
         "originalIndex": 589,
-        "name": "阿奎拉 (Aqeela)",
+        "name": "希利苏斯 (Silthus)",
         "effects": [
-            "Deals 155% damage to the target and nearby enemies.",
-            "The caster and nearby allies get +45% chance to dodge Special Skills for 3 turns. Each dodge gives +5% defense stack (Max: 10)."
+            "所有盟友获得 +48% 攻击力，持续 4 回合。"
         ]
     },
     {
         "originalIndex": 590,
-        "name": "阿奎拉 (Aqeela) C1",
+        "name": "阿德琳 (Aderyn)",
         "effects": [
-            "Deals 145% damage to the target and nearby enemies.",
-            "The caster and nearby allies get +45% chance to dodge Special Skills for 3 turns. Each dodge gives +10% defense stack (Max: 10)."
+            "为所有盟友恢复 32% 生命值。",
+            "所有敌人获得的治疗减少 -50%，持续 4 回合。"
         ]
     },
     {
         "originalIndex": 591,
-        "name": "巴特萨 (Balthazar)",
+        "name": "安文德尔 (An-Windr)",
         "effects": [
-            "Deals 335% damage to the target"
+            "施法者获得 +45% 攻击力，自己或其盟友每次被击中后额外增加 20% 攻击力，持续 3 回合。该效果结束时，所有敌人受到 119 点伤害。在此期间，施法者或其盟友所受每次攻击可使施法者造成的伤害提高 8 点，最高达到 215 点伤害。"
         ]
     },
     {
         "originalIndex": 592,
-        "name": "巴特萨 (Balthazar) C1",
+        "name": "阿奎拉 (Aqeela)",
         "effects": [
-            "Deals 315% damage to the target",
-            "The target receives 60 Poison damage over 3 turns"
+            "对目标及附近敌人造成 155% 伤害。",
+            "施法者和附近的盟友拥有 +45% 几率闪避特殊技能，持续 3 回合。每次闪避可获得 +5% 防御叠加。（最多 10 层）"
         ]
     },
     {
         "originalIndex": 593,
-        "name": "巴特萨 (Balthazar) 卡通",
+        "name": "阿奎拉 (Aqeela) C1",
         "effects": [
-            "Deals 365% damage to the target.",
-            "Deals extra damage if the target is Holy."
+            "对目标及附近敌人造成 145% 伤害。",
+            "施法者和附近的盟友拥有 +45% 几率闪避特殊技能，持续 3 回合。每次闪避可获得 +10% 防御叠加。（最多 10 层）"
         ]
     },
     {
         "originalIndex": 594,
-        "name": "巴特萨 (Balthazar) 玻璃",
+        "name": "巴特萨 (Balthazar)",
         "effects": [
-            "Deals 375% damage to the target.",
-            "The attack bypasses defensive buffs. (This includes counterattacks.)"
+            "对目标造成 335% 伤害。"
         ]
     },
     {
         "originalIndex": 595,
-        "name": "贝第 (Betty)",
+        "name": "巴特萨 (Balthazar) C1",
         "effects": [
-            "Deals 210% damage to target and nearby enemies.",
-            "Nearby allies receive Softskin. (The next time they receive damage, it is reduced by -90%, and they resist all status ailment and mana reduction. This effect can’t be dispelled.)"
+            "对目标造成 315% 伤害。",
+            "目标在 3 回合内受到共计 60 点剧毒伤害。"
         ]
     },
     {
         "originalIndex": 596,
-        "name": "比约恩 (Bjorn)",
+        "name": "巴特萨 (Balthazar) 卡通",
         "effects": [
-            "Deals 200% damage to the target.",
-            "Deals 350% damage to a random different enemy. Deals extra damage if the target is Holy. This effect targets the same enemy as the first hit if there are no other valid targets."
+            "对目标造成 365% 伤害。",
+            "对神圣系造成额外伤害。"
         ]
     },
     {
         "originalIndex": 597,
-        "name": "比约恩 (Bjorn) C1",
+        "name": "巴特萨 (Balthazar) 玻璃",
         "effects": [
-            "Deals 180% damage to the target.",
-            "Deals 380% damage to a random different enemy.",
-            "Enemies hit get -24% mana generation for 3 turns. Against Holy characters, this status effect becomes uncleansable and lasts 2 turns longer."
+            "对目标造成 375% 伤害。",
+            "攻击会无视防御增益。（包括反击）"
         ]
     },
     {
         "originalIndex": 598,
-        "name": "布达廷 (Budatin)",
+        "name": "贝第 (Betty)",
         "effects": [
-            "Alters the power of all Dark shields on the board. When an attacking Hero casts the special, the shields become enhanced and give +37% more mana. When a defending Hero casts the special, the shields become weakened and give -30% less mana."
+            "对目标及附近敌人造成 210% 伤害。",
+            "附近盟友获得软化皮肤效果。（他们下次受到的伤害减少 -90%，并抵抗所有状态异常和法力减损。此效果无法驱散）"
         ]
     },
     {
         "originalIndex": 599,
-        "name": "提灯 (Chochin)",
+        "name": "比约恩 (Bjorn)",
         "effects": [
-            "Deals 215% damage to the target and nearby enemies.",
-            "The target and nearby enemies get -24% mana generation for 3 turns."
+            "对目标造成 200% 伤害。",
+            "随机对一个不同的敌人造成 350% 的伤害。如果目标为神圣系，可造成额外伤害。如果没有其他有效目标，则此效果瞄准第一次击中的该名敌人。"
         ]
     },
     {
         "originalIndex": 600,
-        "name": "艾德 (Edd)",
+        "name": "比约恩 (Bjorn) C1",
         "effects": [
-            "Deal 335% damage to the target.",
-            "The target is immune to new status effect buffs for 3 turns."
+            "对目标造成 180% 伤害。",
+            "对随机一个不同的敌人造成 380% 伤害。",
+            "被击中的敌人获得 -24% 法力生成，持续 3 回合。对神圣系角色，此状态效果不可净化且持续时间延长 2 回合。"
         ]
     },
     {
         "originalIndex": 601,
-        "name": "鳃拉 (Gill-Ra)",
+        "name": "布达廷 (Budatin)",
         "effects": [
-            "All enemies get -34% defense for 4 turns.",
-            "All enemies get -34% attack for 4 turns.",
-            "Cleanses status ailments from all allies."
+            "面板中所有暗黑系盾牌受到影响。进攻方英雄施放此特殊技能时，盾牌将会被增强，给予的法力增加 +37% ；而防御方英雄施放此特殊技能时，盾牌则会被削弱，给予的法力减少 -30%。"
         ]
     },
     {
         "originalIndex": 602,
-        "name": "鳃拉 (Gill-Ra) C1",
+        "name": "提灯 (Chochin)",
         "effects": [
-            "All allies get +25% defense for 4 turns.",
-            "All allies get +25% attack for 4 turns.",
-            "Dispells buffs from all enemies."
+            "对目标及附近敌人造成 215% 伤害。",
+            "目标与附近敌人获得 -24% 法力生成，持续 3 回合。"
         ]
     },
     {
         "originalIndex": 603,
-        "name": "格留 (Greel)",
+        "name": "艾德 (Edd)",
         "effects": [
-            "Deals 210% damage to all enemies.",
-            "Deals 315% damage if the target has less than 50% health remaining.",
-            "The caster gains 20% mana for each enemy defeated by the attack."
+            "对目标造成 335% 伤害。",
+            "目标对新的增益状态效果免疫，持续 3 回合。"
         ]
     },
     {
         "originalIndex": 604,
-        "name": "蝙蝠守护者 (Guardian Bat)",
+        "name": "鳃拉 (Gill-Ra)",
         "effects": [
-            "Deals 270% damage to the target and minor damage to nearby enemies.",
-            "The damage is increased by 50% per each dead ally."
+            "所有敌人获得 -34% 防御，持续 4 回合。",
+            "所有敌人获得 -34% 攻击力，持续 4 回合。",
+            "净化所有盟友的状态异常。"
         ]
     },
     {
         "originalIndex": 605,
-        "name": "杰克 (Jack)",
+        "name": "鳃拉 (Gill-Ra) C1",
         "effects": [
-            "Deals 200% damage to the target.",
-            "The target receieves a Pumpkin Bomb. After 3 turns the Pumpkin Bomb explodes and deals 206 damage to the target and nearby targets. The Pumpkin Bomb also explodes when the target is defeated."
+            "所有盟友获得 +25% 防御，持续 4 回合。",
+            "所有盟友获得 +25% 攻击力，持续 4 回合。",
+            "驱散所有敌人的增益。"
         ]
     },
     {
         "originalIndex": 606,
-        "name": "梅芙 (Maeve)",
+        "name": "格留 (Greel)",
         "effects": [
-            "Deals 260% damage to the target and nearby enemies.",
-            "The target and nearby enemies get -44% defenese for 4 turns.",
-            "Stack (Max: 10): The caster gets +5% mana generation",
-            "Stack (Max: 10): The caster recovers 5 HP each turn"
+            "对所有敌人造成 210% 伤害。",
+            "如果目标剩余生命少于 50%，可对其造成 315% 伤害。",
+            "该攻击每击败一名敌人，施法者都将获得 20% 法力。"
         ]
     },
     {
         "originalIndex": 607,
-        "name": "摩根奈特 (Morganite)",
+        "name": "蝙蝠守护者 (Guardian Bat)",
         "effects": [
-            "Special Skill has a different effect when charged with 100%/200%/300% mana:",
-            "x1 Mana Charge:",
-            " - All enemies receive 64 Poison damage over 2 turns.",
-            " - All enemies get -40% accuracy for 2 turns. Chance to miss also applies to offensive Special Skills.",
-            "x2 Mana Charge:",
-            " - All enemies receive 196 Poison damage over 4 turns.",
-            " - All enemies get -40% accuracy for 4 turns. Chance to miss also applies to offensive Special Skills.",
-            "x3 Mana Charge:",
-            " - All enemies receive 354 Poison damage over 6 turns.",
-            " - All enemies get -40% accuracy for 6 turns. Chance to miss also applies to offensive Special Skills."
+            "对目标造成 270% 伤害，并对附近敌人造成轻微伤害。",
+            "每有一名盟友被击败，伤害增加 50%。"
         ]
     },
     {
         "originalIndex": 608,
-        "name": "毛里斯 (Morris)",
+        "name": "杰克 (Jack)",
         "effects": [
-            "Removes all status effects and stacks from the caster. Removes even status effects and stacsk that are otherwise undispellable or uncleansable.",
-            "Caster digs a hole and hides in it for 2 turns.",
-            "While in the hole, the caster can't gain mana but is immune to normal attacks, special attacks, and all status effects.",
-            "After 2 turns the caster jumps out of the hole and heals 223 damage to a random enemy.",
-            "The hit enemy receives the following status ailment:",
-            " * The target can`t gain mana for 2 turns."
+            "对目标造成 200% 伤害。",
+            "目标收到一个南瓜炸弹。南瓜炸弹会在 3 回合后爆炸，对目标和附近敌人造成 206 点伤害。目标被击败时南瓜炸弹也会爆炸。"
         ]
     },
     {
         "originalIndex": 609,
-        "name": "毛里斯 (Morris) C1",
+        "name": "梅芙 (Maeve)",
         "effects": [
-            "Removes all status effects and stacks from the caster. Removes even those status effects and stacks that are otherwise undispellable or uncleansable.",
-            "Caster digs a hole and hides in it for 3 turns.",
-            "While in the hole, the caster can’t gain mana, and can’t be healed by Special Skills, but is immune to normal attacks, Special Skill attacks, status effects and stacks.",
-            "After 3 turns, the caster jumps out from the hole and deals 143 damage to a random enemy.",
-            "The hit enemy receives the following status ailment:",
-            "The target can’t gain mana for 3 turns."
+            "对目标及附近敌人造成 260% 伤害。",
+            "目标与附近敌人获得 -44% 防御，持续 4 回合。",
+            "叠加（最多 10 层）：施法者获得 +5% 法力生成。",
+            "叠加（最多 10 层）：施法者每回合恢复 5 点生命值。"
         ]
     },
     {
         "originalIndex": 610,
-        "name": "奥伯伦 (Oberon)",
+        "name": "摩根奈特 (Morganite)",
         "effects": [
-            "Deals 121% damage to all enemies.",
-            "All enemies receive 102 damage over 6 turns."
+            "当特殊技能充能至 100% / 200% / 300% 法力时将拥有不同的效果：",
+            "1 倍法力充能：",
+            "- 所有敌人在 2 回合内受到共计 64 点剧毒伤害。",
+            "- 所有敌人获得 -40% 精准度，持续 2 回合。进攻型特殊技能也有相同几率落空。",
+            "2 倍法力充能：",
+            "- 所有敌人在 4 回合内受到共计 196 点剧毒伤害。",
+            "- 所有敌人获得 -40% 精准度，持续 4 回合。进攻型特殊技能也有相同几率落空。",
+            "3 倍法力充能：",
+            "- 所有敌人在 6 回合内受到共计 354 点剧毒伤害。",
+            "- 所有敌人获得 -40% 精准度，持续 6 回合。进攻型特殊技能也有相同几率落空。"
         ]
     },
     {
         "originalIndex": 611,
-        "name": "奥伯伦 (Oberon) C1",
+        "name": "毛里斯 (Morris)",
         "effects": [
-            "All enemies receive 324 Poison damage over 3 turns.  This effect can't be cleased."
+            "移除施法者的所有状态效果和叠加效果，包含不可驱散或不可净化的状态效果和叠加效果。",
+            "施法者挖个洞藏进去，持续 2 回合。",
+            "藏在洞里时，施法者无法获得法力，但免疫普通攻击、特殊攻击和所有状态效果。",
+            "2 回合后，施法者从洞里跳出来，对随机一名敌人造成 223 点伤害。",
+            "被击中的敌人获得以下状态异常：",
+            "* 目标无法获得法力，持续 2 回合。"
         ]
     },
     {
         "originalIndex": 612,
-        "name": "奥伯伦 (Oberon) 卡通",
+        "name": "毛里斯 (Morris) C1",
         "effects": [
-            "Deals 151% damage to all enemies.",
-            "All enemies receive 76 damage over 6 turns.",
-            "Deals extra damage against Holy."
+            "移除施法者的所有状态效果和叠加效果，包括那些不可驱散或不可净化的状态效果和叠加效果。",
+            "施法者挖个洞藏进去，持续 3 回合。",
+            "处于洞中时，施法者无法获得法力，也不能被特殊技能治疗，但免疫普通攻击、特殊技能攻击、状态效果和叠加效果。",
+            "3 回合后，施法者从洞里跳出来，对随机一名敌人造成 143 点伤害。",
+            "被击中的敌人获得以下状态异常：",
+            "目标无法获得法力，持续 3 回合。"
         ]
     },
     {
         "originalIndex": 613,
-        "name": "帕拉 (Para)",
+        "name": "奥伯伦 (Oberon)",
         "effects": [
-            "Recovers 32% health for all allies.",
-            "All enemies get -24% attack for 4 turns. Against Holy characters, this status effect becomes uncleansable and lasts 2 turns longer."
+            "对所有敌人造成 121% 伤害。",
+            "所有敌人在 6 回合内受到共计 102 点伤害。"
         ]
     },
     {
         "originalIndex": 614,
-        "name": "普利斯卡 (Prisca)",
+        "name": "奥伯伦 (Oberon) C1",
         "effects": [
-            "Deals 235% damage to the target.",
-            "Heals the caster for 50% of damage dealt."
+            "所有敌人在 3 回合内受到共计 324 点剧毒伤害。此效果无法净化。"
         ]
     },
     {
         "originalIndex": 615,
-        "name": "普利斯卡 (Prisca) C1",
+        "name": "奥伯伦 (Oberon) 卡通",
         "effects": [
-            "Deals 205% damage to the target and minor damage to nearby enemies.",
-            "Heals the caster for 30% of the damage dealt."
+            "对所有敌人造成 151% 伤害。",
+            "所有敌人在 6 回合内受到共计 76 点伤害。",
+            "对神圣系造成额外伤害。"
         ]
     },
     {
         "originalIndex": 616,
-        "name": "普利斯卡 (Prisca) 卡通",
+        "name": "帕拉 (Para)",
         "effects": [
-            "Deals 265% damage to the target.",
-            "Heals the caster for 45% of damage dealt.",
-            "Deals extra damage against Holy."
+            "为所有盟友恢复 32% 生命值。",
+            "所有敌人获得 -24% 攻击力，持续 4 回合。对神圣系角色，此状态效果不可净化且持续时间延长 2 回合。"
         ]
     },
     {
         "originalIndex": 617,
-        "name": "普利斯卡 (Prisca) 玻璃",
+        "name": "普利斯卡 (Prisca)",
         "effects": [
-            "Deals 275% damage to the target.",
-            "The attack bypasses defensive buffs.(This includes counterattacks.)",
-            "Heals the caster for 50% of damage dealt."
+            "对目标造成 235% 伤害。",
+            "为施法者恢复等同于所造成伤害 50% 的生命值。"
         ]
     },
     {
         "originalIndex": 618,
-        "name": "雷恩菲尔德 (Renfeld)",
+        "name": "普利斯卡 (Prisca) C1",
         "effects": [
-            "Deals 215% damage to the target.",
-            "Heals the caster for 50% of damage dealt."
+            "对目标造成 205% 伤害，并对附近敌人造成轻微伤害。",
+            "为施法者恢复等同于所造成伤害 30% 的生命值。"
         ]
     },
     {
         "originalIndex": 619,
-        "name": "雷恩菲尔德 (Renfeld) C1",
+        "name": "普利斯卡 (Prisca) 卡通",
         "effects": [
-            "Deals 195% damage to the target.",
-            "The caster steals generated mana of the target and the nearby enemies over 4 turns starting low and increasing every turn until on the last turn all the generated mana is stolen.  This effect can't be cleansed, but it gets removed if the caster dies."
+            "对目标造成 265% 伤害。",
+            "为施法者恢复等同于所造成伤害 45% 的生命值。",
+            "对神圣系造成额外伤害。"
         ]
     },
     {
         "originalIndex": 620,
-        "name": "雷恩菲尔德 (Renfeld) 卡通",
+        "name": "普利斯卡 (Prisca) 玻璃",
         "effects": [
-            "Deals 245% damage to the target.",
-            "Heals the caster for 40% of damage dealt.",
-            "Deals extra damage against Holy."
+            "对目标造成 275% 伤害。",
+            "攻击会无视防御增益。（包括反击）",
+            "为施法者恢复等同于所造成伤害 50% 的生命值。"
         ]
     },
     {
         "originalIndex": 621,
-        "name": "树威尔 (Treevil)",
+        "name": "雷恩菲尔德 (Renfeld)",
         "effects": [
-            "Deals 280% damage to all enemies.",
-            "All enemies get -34% attack for 6 turns.",
-            "All enemies get -34% defense for 6 turns.",
-            "All enemies get -34% mana generation for 6 turns."
+            "对目标造成 215% 伤害。",
+            "为施法者恢复等同于所造成伤害 50% 的生命值。"
         ]
     },
     {
         "originalIndex": 622,
-        "name": "泰伦 (Tyrum)",
+        "name": "雷恩菲尔德 (Renfeld) C1",
         "effects": [
-            "Deal 310% damage to the target.",
-            "Dispels buffs from all enemies."
+            "对目标造成 195% 伤害。",
+            "施法者在 4 回合内偷取目标与附近敌人生成的法力，一开始偷取量较少，每个回合逐渐增加，直到最后一回合将偷取所有生成的法力。此效果不可净化，但会在施法者被击败后移除。"
         ]
     },
     {
         "originalIndex": 623,
-        "name": "泰伦 (Tyrum) C1",
+        "name": "雷恩菲尔德 (Renfeld) 卡通",
         "effects": [
-            "Deal 310% damage to the target.",
-            "Cleanses status ailments from all allies."
+            "对目标造成 245% 伤害。",
+            "为施法者恢复等同于所造成伤害 40% 的生命值。",
+            "对神圣系造成额外伤害。"
         ]
     },
     {
         "originalIndex": 624,
-        "name": "泰伦 (Tyrum) 卡通",
+        "name": "树威尔 (Treevil)",
         "effects": [
-            "Deals 315% damage to the target.",
-            "Deals extra damage against Holy.",
-            "Dispels buffs from all enemies."
+            "对所有敌人造成 280% 伤害。",
+            "所有敌人获得 -34% 攻击力，持续 6 回合。",
+            "所有敌人获得 -34% 防御，持续 6 回合。",
+            "所有敌人获得 -34% 法力生成，持续 6 回合。"
         ]
     },
     {
         "originalIndex": 625,
-        "name": "昂伏斯 (Unferth)",
+        "name": "泰伦 (Tyrum)",
         "effects": [
-            "Deals 250% damage to the target.",
-            "Deals 300% damage if the target has more than 70% health remaining.",
-            "Source of Ailments: The following effects are cast on a random enemy at the start of each turn",
-            " * -50% defense against Special Skill for 3 turns.",
-            " * The Source of Ailments will activate 3 times. Each attempt to dispel it removes one activation."
+            "对目标造成 310% 伤害。",
+            "驱散所有敌人的增益。"
         ]
     },
     {
         "originalIndex": 626,
-        "name": "弗拉德 (Vlad)",
+        "name": "泰伦 (Tyrum) C1",
         "effects": [
-            "The target receives 65 damage over 5 turns. If a target already has this effect, the duration will be refreshed and the damage will be increased by 115, up to 295 damage in total.",
-            "The caster steals 61% of any healing applied to the target for 3 turns."
+            "对目标造成 310% 伤害。",
+            "净化所有盟友的状态异常。"
         ]
     },
     {
         "originalIndex": 627,
-        "name": "爱赫特波 (Ahhotep)",
+        "name": "泰伦 (Tyrum) 卡通",
         "effects": [
-            "Deals 340% damage to the target and minor damage to nearby enemies.",
-            "If the target is defeated in the next 3 turns, all caster’s allies get +20 mana."
+            "对目标造成 315% 伤害。",
+            "对神圣系造成额外伤害。",
+            "驱散所有敌人的增益。"
         ]
     },
     {
         "originalIndex": 628,
-        "name": "爱赫特波 (Ahhotep) C1",
+        "name": "昂伏斯 (Unferth)",
         "effects": [
-            "Deals 370% damage to the target and minor damage to nearby enemies.",
-            "If the target is defeated in the next 3 turns, all caster’s allies get +15% mana."
+            "对目标造成 250% 伤害。",
+            "如果目标剩余生命超过 70%，可对其造成 300% 伤害。",
+            "异常状态之源：每回合开始时，对随机一名敌人施放以下效果。",
+            "* -50% 特殊技能防御，持续 3 回合。",
+            "* 异常状态之源将触发 3 次。每次驱散尝试都会移除一次触发。"
         ]
     },
     {
         "originalIndex": 629,
-        "name": "雨女 (Ameonna)",
+        "name": "弗拉德 (Vlad)",
         "effects": [
-            "Casts Full Removal on the caster.",
-            "The caster shifts into Ghost Form for 4 turns.",
-            "While in Ghost form the caster gains +82% attack. While in Ghost form Character can't gain mana and can't be healed by Special Skills, but is immune to normal attacks, Special Skill attacks, damage dealing passives, status effects and stacks. Immune to new Growth and Wither effects."
+            "目标在 5 回合内受到共计 65 点伤害。若目标身上已有此效果，持续时间将会刷新，并且伤害会提高 115 点，最多共计 295 点伤害。",
+            "施法者偷取目标所获治疗的 61%，持续 3 回合。"
         ]
     },
     {
         "originalIndex": 630,
-        "name": "雨女 (Ameonna) C1",
+        "name": "爱赫特波 (Ahhotep)",
         "effects": [
-            "Casts Full Removal on the caster.",
-            "The caster shifts into Ghost Form for 4 turns. While in Ghost form Character can't gain mana and can't be healed by Special Skills, but is immune to normal attacks, Special Skill attacks, damage dealing passives, status effects and stacks. Immune to new Growth and Wither effects.",
-            "While in Ghost form, all allies except the caster have +44% defense.",
-            "While in Ghost form, all allies except the caster regenerate 140 HP every turn."
+            "对目标造成 340% 伤害，并对附近敌人造成轻微伤害。",
+            "若目标在接下来 3 回合内被打败，则施法者的所有盟友获得 +20 法力。"
         ]
     },
     {
         "originalIndex": 631,
-        "name": "紫晶 (Ametrine)",
+        "name": "爱赫特波 (Ahhotep) C1",
         "effects": [
-            "1x Mana Charge",
-            "* Dispels buffs from the target",
-            "* Deals 220% damage to the target",
-            "2x Mana Charge",
-            "* Dispels buffs from the target and nearby enemies",
-            "* Deals 255% damage to the target and nearby enemies",
-            "3x Mana Charge",
-            "* Dispels buffs from all enemies",
-            "* Deals 300% damage to all enemies"
+            "对目标造成 370% 伤害，并对附近敌人造成轻微伤害。",
+            "若目标在接下来 3 回合内被打败，则施法者的所有盟友获得 +15% 法力。"
         ]
     },
     {
         "originalIndex": 632,
-        "name": "安娜·贝尔 (Ana-Belle)",
+        "name": "雨女 (Ameonna)",
         "effects": [
-            "Dispels and cleanses all buffs and status ailments from all allies and enemies.",
-            "Recovers 45% heath for all allies.",
-            "Recovers additional 2% health per removed status effect, up to 65% health in total."
+            "对施放者释放完全移除。完全移除可以移除目标的所有状态效果、叠加效果、成长效果和衰退效果。",
+            "施法者转变为幽灵形态，持续 4 回合。",
+            "处于幽灵形态期间，施法者获得 +82% 攻击力。处于幽灵形态期间，角色无法获得法力，也不能被特殊技能治疗，但免疫普通攻击、特殊技能攻击、造成伤害的被动技能、状态效果和叠加效果。免疫新的成长和衰退效果。"
         ]
     },
     {
         "originalIndex": 633,
-        "name": "阿尔吉斯 (Arges)",
+        "name": "雨女 (Ameonna) C1",
         "effects": [
-            "Special Skill has a different effect when charged with 100% / 200% / 300% mana:",
-            "1x Mana Charge:",
-            "* Deals 165% damages to the target and nearby enemies.",
-            "* The caster and nearby allies get +30% attack for 3 turns.",
-            "2x Mana Charge:",
-            "* Deals 215% damages to the target and nearby enemies.",
-            "* The target and nearby enemies get -34% defense for 3 turns.",
-            "3x Mana Charge:",
-            "* Deals 365% damages to the target and nearby enemies.",
-            "* The caster and nearby allies get +50% attack for 3 turns.",
-            "* The target and nearby enemies get -44% defense for 3 turns."
+            "对施放者释放完全移除。完全移除可以移除目标的所有状态效果、叠加效果、成长效果和衰退效果。",
+            "施法者转变为幽灵形态，持续 4 回合。处于幽灵形态期间，角色无法获得法力，也不能被特殊技能治疗，但免疫普通攻击、特殊技能攻击、造成伤害的被动技能、状态效果和叠加效果。免疫新的成长和衰退效果。",
+            "处于幽灵形态期间，除施法者外的所有盟友获得 +44% 防御。",
+            "处于幽灵形态期间，除施法者外的所有盟友每回合恢复 140 点生命值。"
         ]
     },
     {
         "originalIndex": 634,
-        "name": "炸弹魔 (Boomer)",
+        "name": "紫晶 (Ametrine)",
         "effects": [
-            "Deals 204% damage to all enemies",
-            "The caster and nearby allies get +94% defense against Holy for 3 turns"
+            "1 倍法力充能：",
+            "* 驱散目标身上的增益。",
+            "* 对目标造成 220% 伤害。",
+            "2 倍法力充能：",
+            "* 驱散目标和附近敌人身上的增益。",
+            "* 对目标及附近敌人造成 255% 伤害。",
+            "3 倍法力充能：",
+            "* 驱散所有敌人的增益。",
+            "* 对所有敌人造成 300% 伤害。"
         ]
     },
     {
         "originalIndex": 635,
-        "name": "柴郡猫 (Cheshire Cat)",
+        "name": "安娜·贝尔 (Ana-Belle)",
         "effects": [
-            "Rearranges the enemy positions randomly",
-            "All holy enemies get -44% defense for 4 turns",
-            "All enemies receive 276 damage over 4 turns. This effect can't be cleansed"
+            "驱散并净化所有盟友和敌人的所有增益和状态异常。",
+            "为所有盟友恢复 45% 生命值。",
+            "每移除一个状态效果，便额外恢复 2% 生命，最多共计恢复 65% 生命。"
         ]
     },
     {
         "originalIndex": 636,
-        "name": "柴郡猫 (Cheshire Cat) C1",
+        "name": "阿尔吉斯 (Arges)",
         "effects": [
-            "Rearranges the enemy positions randomly.",
-            "All Holy enemies get -34% defense for 4 turns.",
-            "All enemies receive 364 Bleed damage over 4 turns."
+            "当特殊技能充能至 100% / 200% / 300% 法力时将拥有不同的效果：",
+            "1 倍法力充能：",
+            "* 对目标及附近敌人造成 165% 伤害。",
+            "* 施法者和附近盟友获得 +30% 攻击力，持续 3 回合。",
+            "2 倍法力充能：",
+            "* 对目标及附近敌人造成 215% 伤害。",
+            "* 目标与附近敌人获得 -34% 防御，持续 3 回合。",
+            "3 倍法力充能：",
+            "* 对目标及附近敌人造成 365% 伤害。",
+            "* 施法者和附近盟友获得 +50% 攻击力，持续 3 回合。",
+            "* 目标与附近敌人获得 -44% 防御，持续 3 回合。"
         ]
     },
     {
         "originalIndex": 637,
-        "name": "小蛋糕 (Cupcake)",
+        "name": "炸弹魔 (Boomer)",
         "effects": [
-            "Steals Minions from the target.",
-            "Deals 400% damage to the target.",
-            "The target can’t receive new Minions for 4 turns."
+            "对所有敌人造成 204% 伤害。",
+            "施法者和附近盟友获得对神圣系 +94% 的防御，持续 3 回合。"
         ]
     },
     {
         "originalIndex": 638,
-        "name": "塞普里恩 (Cyprian)",
+        "name": "柴郡猫 (Cheshire Cat)",
         "effects": [
-            "The caster and nearby allies counterattack with 125% of the damage received for 5 turns"
+            "随机重新排列敌人位置。",
+            "所有神圣系敌人获得 -44% 防御，持续 4 回合。",
+            "所有敌人在 4 回合内受到共计 276 点伤害。此效果无法净化。"
         ]
     },
     {
         "originalIndex": 639,
-        "name": "塞普里恩 (Cyprian) C1",
+        "name": "柴郡猫 (Cheshire Cat) C1",
         "effects": [
-            "All allies counterattack with 60% of the damage received for 4 turns."
+            "随机重新排列敌人位置。",
+            "所有神圣系敌人获得 -34% 防御，持续 4 回合。",
+            "所有敌人在 4 回合内受到共计 364 点流血伤害。"
         ]
     },
     {
         "originalIndex": 640,
-        "name": "塞普里恩 (Cyprian) C2",
+        "name": "小蛋糕 (Cupcake)",
         "effects": [
-            "The caster and nearby allies counterattack with 80% of the damage received for 4 turns.",
-            "The caster and nearby allies regenerate a moderate amount of mana for each counterattack for 4 turns. The effect gets diminished for consecutive activations during the same turn.",
-            "The caster and nearby allies reduce all received damage by -35% for 4 turns."
+            "从目标处偷取小兵。",
+            "对目标造成 400% 伤害。",
+            "目标无法获得新的小兵，持续 4 回合。"
         ]
     },
     {
         "originalIndex": 641,
-        "name": "塞普里恩 (Cyprian) 卡通",
+        "name": "塞普里恩 (Cyprian)",
         "effects": [
-            "The caster and nearby allies counterattack with 125% of the damage received for 5 turns. This status effect is undispellable and lasts 2 turns longer on Dark characters."
+            "施法者和附近盟友以所受伤害的 125% 进行反击，持续 5 回合。"
         ]
     },
     {
         "originalIndex": 642,
-        "name": "塞普里恩 (Cyprian) 玻璃",
+        "name": "塞普里恩 (Cyprian) C1",
         "effects": [
-            "The caster and nearby allies counterattack with 125% of the damage received for 5 turns.",
-            "All Dark allies reflect status ailments and negative stacks for 2 turns. (Status effect cast by characters, Minions and Fiends on the same side cannot be reflected.)"
+            "所有盟友会以所受伤害的 60% 进行反击，持续 4 回合。"
         ]
     },
     {
         "originalIndex": 643,
-        "name": "迪基 (Dizzy)",
+        "name": "塞普里恩 (Cyprian) C2",
         "effects": [
-            "Deals 250% damage to the target and nearby enemies.",
-            "Summons an Elf Minion for the caster and nearby allies with 10% HP and 10% attack inherited from the caster.",
-            "The caster and nearby allies reflect all status effects and 100% damage back to the attacker and block all other negative effect from enemies’ Holy Special Skills for 4 turns. (Status effects cast by characters, Minions and Fiends on the same side cannot be reflected.)"
+            "施法者和附近盟友以所受伤害的 80% 进行反击，持续 4 回合。",
+            "施法者和附近盟友每次反击可恢复适量法力，持续 4 回合。同一回合中效果经连续激活会减弱。",
+            "施法者和附近盟友所受的所有伤害减少 -35%，持续 4 回合。"
         ]
     },
     {
         "originalIndex": 644,
-        "name": "福克斯格洛夫 (Foxglove)",
+        "name": "塞普里恩 (Cyprian) 卡通",
         "effects": [
-            "Deals 255% damage to the target and nearby enemies.",
-            "The target and nearby enemies receive lasting 97 Poison damage per turn. (This effect lasts until it is cleansed, replaced or removed.)",
-            "The target and nearby enemies get -30% mana generation for 4 turns. (Affects only mana generated from matching tiles or mana gained by the defense team at the end of their turn.)"
+            "施法者和附近盟友以所受伤害的 125% 进行反击，持续 5 回合。此状态效果不可驱散，对暗黑系角色持续时间延长 2 回合。"
         ]
     },
     {
         "originalIndex": 645,
-        "name": "芙拉 (Fura)",
+        "name": "塞普里恩 (Cyprian) 玻璃",
         "effects": [
-            "Deals 150% damage to all enemies.",
-            "Reduces max health of all enemies by 100. The effect is stronger against targets with boosted health. Max health can’t get lower than 30% of the original max health. Any boosted health is reduced by an additional 100.",
-            "All enemies get -50% decrease for any healing received for 4 turns."
+            "施法者和附近盟友以所受伤害的 125% 进行反击，持续 5 回合。",
+            "所有暗黑系盟友可反弹状态异常和负面效果叠加，持续 2 回合。（同队角色、小兵和恶魔施放的状态效果无法反弹）"
         ]
     },
     {
         "originalIndex": 646,
-        "name": "芙拉 (Fura) C1",
+        "name": "迪基 (Dizzy)",
         "effects": [
-            "Deals 280% damage to the target and nearby enemies.",
-            "Reduces the mana of the target and the nearby enemies by 15%.",
-            "The target and nearby enemies get -75% decrease for any healing received for 3 turns."
+            "对目标及附近敌人造成 250% 伤害。",
+            "为施法者和附近盟友召唤一个精灵小兵，此小兵继承施法者 10% 的生命值和 10% 的攻击力。",
+            "施法者和附近盟友会将来自神圣系敌人特殊技能的全部状态效果和 100% 伤害反弹至进攻者，并阻挡该技能的其它负面效果，持续 4 回合。（同队角色、小兵和恶魔施放的状态效果无法反弹）"
         ]
     },
     {
         "originalIndex": 647,
-        "name": "贾法尔 (Gafar)",
+        "name": "福克斯格洛夫 (Foxglove)",
         "effects": [
-            "Deals 260% damage to the target.",
-            "The target receives 228 damage over 4 turns.",
-            "The target gets -100% increase for any healing received for 2 turns. This effect can't be cleansed.",
-            "Dispels status ailments from the caster."
+            "对目标及附近敌人造成 255% 伤害。",
+            "目标与附近敌人每回合受到 97 点剧毒伤害，持续无限回合。（此效果将持续，直至被驱散、替代或移除。）",
+            "目标与附近敌人获得 -30% 法力生成，持续 4 回合。（只影响通过消除方块或由防御队伍在其回合结束时获得的法力）"
         ]
     },
     {
         "originalIndex": 648,
-        "name": "黑风怪 (Heifeng Guai)",
+        "name": "芙拉 (Fura)",
         "effects": [
-            "Deals 285% damage to target",
-            "The duration of dispellable status ailments is reset for the target.",
-            "The target gets -35% defense for 3 turns."
+            "对所有敌人造成 150% 伤害。",
+            "使所有敌人减少 100 点最大生命值。若目标拥有提高的生命值，此效果会增强。最大生命值不能低于初始最大生命值的 30%。任何提高的生命值会额外减少 100 点。",
+            "所有敌人获得的治疗减少 -50%，持续 4 回合。"
         ]
     },
     {
         "originalIndex": 649,
-        "name": "因戈尔夫 (Ingolf)",
+        "name": "芙拉 (Fura) C1",
         "effects": [
-            "Deals 280% damage to all enemies",
-            "Reduces the duration of all enemies active buffs by 1 turn.",
-            "All enemies get corrosive poison for 4 turns. Corrosive Poison deals 50 damage and lowers the target’s mana generation by -9% each turn. Deals extra damage against heroes with Minions or Mega Minions."
+            "对目标及附近敌人造成 280% 伤害。",
+            "使目标和附近敌人的法力减少 15%。",
+            "目标与附近敌人获得的治疗减少 -75%，持续 3 回合。"
         ]
     },
     {
         "originalIndex": 650,
-        "name": "贾巴尔 (Jabbar)",
+        "name": "贾法尔 (Gafar)",
         "effects": [
-            "Deals 235% damage to the target and minor damage to nearby enemies.",
-            "The target and nearby enemies receive 172 damage over 4 turns.",
-            "The target and nearby enemies get -75% increase for any healing received for 2 turns. This effect can't be cleansed.",
-            "Dispels status ailments from the caster."
+            "对目标造成 260% 伤害。",
+            "目标在 4 回合内受到共计 228 点伤害。",
+            "目标获得的治疗增加 -100%，持续 2 回合。此效果无法净化。",
+            "净化施法者的状态异常。"
         ]
     },
     {
         "originalIndex": 651,
-        "name": "朱利安尼 (Juliani)",
+        "name": "黑风怪 (Heifeng Guai)",
         "effects": [
-            "This Special Skill never misses its targets.",
-            "Attacks the target and nearby enemies with Moonrise Strike dealing up to 860 damage. Deals 30% more damage if the target is Holy.",
-            "The target and nearby enemies receive 900 Poison damage over 5 turns. The caster and all allies absorb 35% of the dealt Poison damage as health."
+            "对目标造成 285% 伤害。",
+            "为目标重置可驱散状态异常的持续时间。",
+            "目标获得 -35% 防御，持续 3 回合。"
         ]
     },
     {
         "originalIndex": 652,
-        "name": "凯蒂 (Kitty)",
+        "name": "因戈尔夫 (Ingolf)",
         "effects": [
-            "All allies regenerate 450 boosted health over 3 turns. Boosted health can exceed max HP.",
-            "All allies reflect status ailments to a random character on the opposing team for 3 turns. Only cleansable status ailments are reflected.",
-            "The caster gets +30% defense for 3 turns."
+            "对所有敌人造成 280% 伤害。",
+            "所有敌人身上的增益持续时间减少 1 回合。",
+            "所有敌人受到腐蚀性毒伤，持续 4 回合。腐蚀性毒伤每回合造成 50 点伤害，并使目标的法力生成降低 -9%。对拥有小兵或超级小兵的英雄造成额外伤害。"
         ]
     },
     {
         "originalIndex": 653,
-        "name": "科达 (Koda)",
+        "name": "贾巴尔 (Jabbar)",
         "effects": [
-            "Deals 400% damage to the target.",
-            "The target gets -35% defense for 3 turns.",
-            "The defense decreases by -10% each turn, up to -55%."
+            "对目标造成 235% 伤害，并对附近敌人造成轻微伤害。",
+            "目标与附近敌人在 4 回合内受到共计 172 点伤害。",
+            "目标与附近敌人获得的治疗增加 -75%，持续 2 回合。此效果无法净化。",
+            "净化施法者的状态异常。"
         ]
     },
     {
         "originalIndex": 654,
-        "name": "莱克茜 (Lexi)",
+        "name": "朱利安尼 (Juliani)",
         "effects": [
-            "The caster and nearby allies become Soul onnected for received damage with  each other for 4 turns. Soul Connected allies share received damage.",
-            "The target and nearby enemies become Soul Connected for 4 turns. Soul Cibbected enemies share received damage.",
-            "The caster and nearby allies get +94% defense against Holy for 4 turns.",
-            "The target and nearby enemies get -44% defense against Dark for 4 turns."
+            "此特殊技能必定命中。",
+            "使用月出闪袭攻击目标和附近敌人，造成最多 860 点伤害。若目标为神圣系元素则额外造成 30% 伤害。",
+            "目标与附近敌人在 5 回合内受到共计 900 点剧毒伤害。施法者和所有盟友会吸收所造成剧毒伤害的 35% 并转化为生命值。"
         ]
     },
     {
         "originalIndex": 655,
-        "name": "梅朵 (Meadow)",
+        "name": "凯蒂 (Kitty)",
         "effects": [
-            "Deals 265% damage to the target.",
-            "The target receives 402 Poison damage over 3 turns, starting low and increasing with every turn."
+            "所有盟友在 3 回合内获得共计 450 点生命加成。提高的生命值可以超过最大生命值。",
+            "所有盟友将反弹状态异常至敌方战队的一名随机角色，持续 3 回合。只有可净化的状态异常会被反弹。",
+            "施法者获得 +30% 防御，持续 3 回合。"
         ]
     },
     {
         "originalIndex": 656,
-        "name": "梅林 (Merlin)",
+        "name": "科达 (Koda)",
         "effects": [
-            "Deals 220% damage to the target",
-            "The more mana the enemies have,the more damage they will receive, up to 250%",
-            "The target automatically casts Mindless Attack on a random ally when mana is full at the start of a turn during 3 turns."
+            "对目标造成 400% 伤害。",
+            "目标获得 -35% 防御，持续 3 回合。",
+            "防御每回合减少 -10%，最高为 -55%。"
         ]
     },
     {
         "originalIndex": 657,
-        "name": "梅林 (Merlin) C1",
+        "name": "莱克茜 (Lexi)",
         "effects": [
-            "Deals 210% damage to the target and nearby enemies.",
-            "The more mana the enemies have, the more damage they will receive, up to 270%.",
-            "The target automatically casts Mindless Attack on a random ally when mana is full at the start of a turn during 3 turns"
+            "施法者和附近盟友变得灵魂相连，持续 4 回合。灵魂相连的盟友将平摊所受伤害。",
+            "目标与附近敌人变得灵魂相连，持续 4 回合。灵魂相连的敌人将平摊所受伤害。",
+            "施法者和附近盟友获得对神圣系 +94% 的防御，持续 4 回合。",
+            "目标与附近敌人获得对暗黑系 -44% 的防御，持续 4 回合。"
         ]
     },
     {
         "originalIndex": 658,
-        "name": "普罗透斯 (Proteus)",
+        "name": "梅朵 (Meadow)",
         "effects": [
-            "The target and nearby enemies receive 327 Poison damage over 3 turns.",
-            "The target and nearby enemies can't gain mana for 3 turns."
+            "对目标造成 265% 伤害。",
+            "目标在 3 回合内受到共计 402 点剧毒伤害，一开始伤害较低，之后每个回合会逐渐增加。"
         ]
     },
     {
         "originalIndex": 659,
-        "name": "普罗透斯 (Proteus) C1",
+        "name": "梅林 (Merlin)",
         "effects": [
-            "All enemies receive 324 Poison damage over 2 turns.",
-            "All enemies get -50% mana generation for 4 turns."
+            "对目标造成 220% 伤害。",
+            "敌人的法力越高，受到的伤害越大，最高可达 250%。",
+            "在 3 回合内，若目标在回合开始时法力满格，该目标将自动对一名随机盟友施放莽夫乱拳。"
         ]
     },
     {
         "originalIndex": 660,
-        "name": "里加 (Rigard)",
+        "name": "梅林 (Merlin) C1",
         "effects": [
-            "Recover 42% health for all allies",
-            "Cleanses status ailments from all allies"
+            "对目标及附近敌人造成 210% 伤害。",
+            "敌人的法力越高，受到的伤害越大，最高可达 270%。",
+            "在 3 回合内，若目标在回合开始时法力满格，该目标将自动对一名随机盟友施放莽夫乱拳。"
         ]
     },
     {
         "originalIndex": 661,
-        "name": "里加 (Rigard) C1",
+        "name": "普罗透斯 (Proteus)",
         "effects": [
-            "All allies regenerate 609 HP over 3 turns",
-            "All allies get +48% attack for 3 turns",
-            "Cleanses status ailments from all allies"
+            "目标与附近敌人在 3 回合内受到共计 327 点剧毒伤害。",
+            "目标与附近敌人无法增加法力，持续 3 回合。"
         ]
     },
     {
         "originalIndex": 662,
-        "name": "里加 (Rigard) C2",
+        "name": "普罗透斯 (Proteus) C1",
         "effects": [
-            "Boosts health of all allies by 410. Boosted health can exceed max HP.",
-            "All allies get +40% defense for 3 turns.",
-            "Cleanses status ailments from all allies."
+            "所有敌人在 2 回合内受到共计 324 点剧毒伤害。",
+            "所有敌人获得 -50% 法力生成，持续 4 回合。"
         ]
     },
     {
         "originalIndex": 663,
-        "name": "里加 (Rigard) 卡通",
+        "name": "里加 (Rigard)",
         "effects": [
-            "Recovers 45% health for all allies.",
-            "All allies get +34% defense for 3 turns. This status effect is undispellable and lasts 2 turns longer on Dark characters.",
-            "Cleanses status ailments from all allies."
+            "为所有盟友恢复 42% 生命值。",
+            "净化所有盟友的状态异常。"
         ]
     },
     {
         "originalIndex": 664,
-        "name": "里加 (Rigard) 玻璃",
+        "name": "里加 (Rigard) C1",
         "effects": [
-            "Recovers 47% health for all allies.",
-            "All Dark allies reflect status ailments and negative stacks for 2 turns. (Status effect cast by characters, Minions and Fiends on the same side cannot be reflected.)",
-            "Cleanses status ailments from all allies."
+            "所有盟友在 3 回合内恢复 609 点生命值。",
+            "所有盟友获得 +48% 攻击力，持续 3 回合。",
+            "净化所有盟友的状态异常。"
         ]
     },
     {
         "originalIndex": 665,
-        "name": "萨拜娜 (Sabina)",
+        "name": "里加 (Rigard) C2",
         "effects": [
-            "Recovers 42% health for all allies",
-            "Dispels buffs from all enemies"
+            "提高所有盟友 410 点生命值。提高的生命值可以超过最大生命值。",
+            "所有盟友获得 +40% 防御，持续 3 回合。",
+            "净化所有盟友的状态异常。"
         ]
     },
     {
         "originalIndex": 666,
-        "name": "萨拜娜 (Sabina) C1",
+        "name": "里加 (Rigard) 卡通",
         "effects": [
-            "All allies regenerate 609 HP over 3 turns",
-            "All enemies are immune to new buffs for 3 turns",
-            "Dispels buffs from all enemies"
+            "为所有盟友恢复 45% 生命值。",
+            "所有盟友获得 +34% 防御，持续 3 回合。此状态效果不可驱散，对暗黑系角色持续时间延长 2 回合。",
+            "净化所有盟友的状态异常。"
         ]
     },
     {
         "originalIndex": 667,
-        "name": "萨拜娜 (Sabina) C2",
+        "name": "里加 (Rigard) 玻璃",
         "effects": [
-            "All allies regenerate 609 HP over 3 turns.",
-            "All allies are immune to new status ailments for 3 turns.",
-            "Cleanses ailment from all allies."
+            "为所有盟友恢复 47% 生命值。",
+            "所有暗黑系盟友可反弹状态异常和负面效果叠加，持续 2 回合。（同队角色、小兵和恶魔施放的状态效果无法反弹）",
+            "净化所有盟友的状态异常。"
         ]
     },
     {
         "originalIndex": 668,
-        "name": "萨拜娜 (Sabina) 卡通",
+        "name": "萨拜娜 (Sabina)",
         "effects": [
-            "Recovers 45% health for all allies.",
-            "All allies get +34% defense for 3 turns. This status effect is undispellable and lasts 2 turns longer on Dark characters.",
-            "Dispels buffs from all enemies."
+            "为所有盟友恢复 42% 生命值。",
+            "驱散所有敌人的增益。"
         ]
     },
     {
         "originalIndex": 669,
-        "name": "谢尔盖 (Sergei)",
+        "name": "萨拜娜 (Sabina) C1",
         "effects": [
-            "Special Skill has a different effect when charged with 100%/200% mana:",
-            "1x Mana Charge:",
-            " * All enemies get -54% defense against Dark for 3 turns.",
-            "2x Mana Charge:",
-            " * All allies get +100% normal attack for 5 turns. This effect can be active in addition to effects that alter attack in general. Normal attacks can have a total maximum of +160% increase power while this effect is active."
+            "所有盟友在 3 回合内恢复 609 点生命值。",
+            "所有敌人对新的增益状态效果免疫，持续 3 回合。",
+            "驱散所有敌人的增益。"
         ]
     },
     {
         "originalIndex": 670,
-        "name": "沙凯 (Shar'Khai)",
+        "name": "萨拜娜 (Sabina) C2",
         "effects": [
-            "Special Skill need consecutive uses to reach full power, the following order:",
-            "1st:",
-            " * All allies get +80% normal attack for 5 turns. The normal attack is increased by 20% each turn. This effect can be active in addition to effects that alter attack in general. Normal attacks can have a total maximum of +160% increased power while this effect is active.",
-            " * All allies get +20% critical chance for 5 turns.",
-            "2nd:",
-            " * All allies get +80% normal attack for 5 turns. The normal attack is increased by 20% each turn. This effect can be active in addition to effects that alter attack in general. Normal attacks can have a total maximum of +160% increased power while this effect is active.",
-            " * All allies get +35% critical chance for 5 turns."
+            "所有盟友在 3 回合内恢复 609 点生命值。",
+            "所有盟友对新的状态异常免疫，持续 3 回合。",
+            "净化所有盟友的状态异常。"
         ]
     },
     {
         "originalIndex": 671,
-        "name": "沙凯 (Shar'Khai) C1",
+        "name": "萨拜娜 (Sabina) 卡通",
         "effects": [
-            "Special Skill need consecutive uses to reach full power, the following order:",
-            "1st:",
-            " * All allies get +70% normal attack for 5 turns. The normal attack is increased by 15% each turn. This effect can be active in addition to effects that alter attack in general. Normal attacks can have a total maximum of +130% increased power while this effect is active.",
-            " * All allies get +15% critical chance for 5 turns.",
-            "2nd:",
-            " * All allies get +90% normal attack for 5 turns. The normal attack is increased by 25% each turn. This effect can be active in addition to effects that alter attack in general. Normal attacks can have a total maximum of +190% increased power while this effect is active.",
-            " * All allies get +40% critical chance for 5 turns."
+            "为所有盟友恢复 45% 生命值。",
+            "所有盟友获得 +34% 防御，持续 3 回合。此状态效果不可驱散，对暗黑系角色持续时间延长 2 回合。",
+            "驱散所有敌人的增益。"
         ]
     },
     {
         "originalIndex": 672,
-        "name": "肖戈 (Shoggo)",
+        "name": "谢尔盖 (Sergei)",
         "effects": [
-            "Deals 250% damage to all and inflicts 10 Insanity on them.",
-            "All enemies are immune to new status effect buffs for 4 turns.",
-            "Inflicts 55 Insanity on the caster."
+            "当特殊技能充能至 100% / 200% 法力时将拥有不同的效果：",
+            "1 倍法力充能：",
+            "* 所有敌人获得对暗黑系 -54% 的防御，持续 3 回合。",
+            "2 倍法力充能：",
+            "* 所有盟友获得 +100% 普通攻击，持续 5 回合。即使英雄身上已有其他影响攻击力的效果，此效果仍然有效。此效果有效期间，普通攻击最多可以增加共计 +160% 攻击力。"
         ]
     },
     {
         "originalIndex": 673,
-        "name": "希罗布雷 (Shyombre)",
+        "name": "沙凯 (Shar'Khai)",
         "effects": [
-            "Deals 250% damage to the enemies on the edges of the enemy formation. If there is only one enemy, the damage is doubled.",
-            "The enemies on the edges of the enemy formation receives 220 Toxin damage over 4 turns. If Toxin is cast on a target with boosted health, Minions or Mega Minion, the Toxin damage received is increased. (The Toxin damage is increased by +100% against targets with boosted health. Each Minion or Mega Minion owned by the target increases the damage by additional +33%, up to total +199%.)"
+            "必须连续使用特殊技能才能达到其最大威力，顺序为：",
+            "第一次：",
+            "* 所有盟友获得 +80% 普通攻击，持续 5 回合。普通攻击每回合增加 20%。即使英雄身上已有其他影响攻击力的效果，此效果仍然有效。此效果有效期间，普通攻击最多可以增加共计 +160% 攻击力。",
+            "* 所有盟友获得 +20% 暴击几率，持续 5 回合。",
+            "第二次：",
+            "* 所有盟友获得 +80% 普通攻击，持续 5 回合。普通攻击每回合增加 20%。即使英雄身上已有其他影响攻击力的效果，此效果仍然有效。此效果有效期间，普通攻击最多可以增加共计 +160% 攻击力。",
+            "* 所有盟友获得 +35% 暴击几率，持续 5 回合。"
         ]
     },
     {
         "originalIndex": 674,
-        "name": "斯通克里夫 (Stonecleave)",
+        "name": "沙凯 (Shar'Khai) C1",
         "effects": [
-            "Removes all status effects and stacks from the caster. Removes even status effects and stacks that are otherwise undispellable or uncleansable.",
-            "The caster shifts into Dire Ghost form.",
-            "While in Dire Ghost form, the caster automatically deals 175% damage against a random enemy each turn.",
-            "While in Dire Ghost form, the caster can't gain mana and can't be healed by Special Skills, but is immune to normal attacks, Special Skill attacks,  status effects and stacks except the damage from enemies whose element is  strong against the caster.",
-            "Dire Ghost form lasts for 4 turns."
+            "必须连续使用特殊技能才能达到其最大威力，顺序为：",
+            "第一次：",
+            "* 所有盟友获得 +70% 普通攻击，持续 5 回合。普通攻击每回合增加 15%。即使英雄身上已有其他影响攻击力的效果，此效果仍然有效。此效果有效期间，普通攻击最多可以增加共计 +130% 攻击力。",
+            "* 所有盟友获得 +15% 暴击几率，持续 5 回合。",
+            "第二次：",
+            "* 所有盟友获得 +90% 普通攻击，持续 5 回合。普通攻击每回合增加 25%。即使英雄身上已有其他影响攻击力的效果，此效果仍然有效。此效果有效期间，普通攻击最多可以增加共计 +190% 攻击力。",
+            "* 所有盟友获得 +40% 暴击几率，持续 5 回合。"
         ]
     },
     {
         "originalIndex": 675,
-        "name": "迪波特斯 (Tiburtus)",
+        "name": "肖戈 (Shoggo)",
         "effects": [
-            "Deals 295% damage to the target and minor damage to nearby enemies.",
-            "The target and nearby enemies get -34% defense for 6 turns."
+            "对所有敌人造成 250% 伤害并对其施加 10 点狂乱。",
+            "所有敌人对新的增益状态效果免疫，持续 4 回合。",
+            "对施法者施加 55 点狂乱。"
         ]
     },
     {
         "originalIndex": 676,
-        "name": "迪波特斯 (Tiburtus) C1",
+        "name": "希罗布雷 (Shyombre)",
         "effects": [
-            "Deals 175% damage to all enemies.",
-            "All enemies get -34% defense for 4 turns."
+            "对位于敌军阵型边缘的敌人造成 250% 伤害。如果仅有一名敌人，则伤害加倍。",
+            "敌方阵型边缘的敌人受到 220 点毒素伤害，持续 4 回合。拥有生命加成、小兵或超级小兵的目标受到的伤害会增加。（拥有生命加成的目标受到的毒素伤害增加 +100%。目标每拥有一个小兵或超级小兵，伤害额外增加 +33%，最多可达 +199% ）"
         ]
     },
     {
         "originalIndex": 677,
-        "name": "迪波特斯 (Tiburtus) C2",
+        "name": "斯通克里夫 (Stonecleave)",
         "effects": [
-            "Deals 295% damage to the target and minor damage to nearby enemies.",
-            "Reduces the max health of the target and nearby enemies by 600 over 4 turns. The effect is stronger against targets with boosted health. Max heath can’t get lower than 30% of the original max health. Any boosted health is reduced by an additional 150 per turn."
+            "移除施法者的所有状态效果和叠加效果。包含不可驱散或不可净化的状态效果和叠加效果。",
+            "施法者转变为恐怖幽灵形态。",
+            "处于恐怖幽灵形态期间，施法者每回合自动对一个随机敌人造成 175% 伤害。",
+            "处于恐怖幽灵形态期间，施法者无法获得法力，也不能被特殊技能治疗，但对普通攻击、特殊技能攻击、状态效果和叠加效果免疫，但来自克制其元素的敌人的伤害除外。",
+            "恐怖幽灵形态持续 4 回合。"
         ]
     },
     {
         "originalIndex": 678,
-        "name": "迪波特斯 (Tiburtus) 卡通",
+        "name": "迪波特斯 (Tiburtus)",
         "effects": [
-            "Deals 325% damage to the target and minor damage to nearby enemies.",
-            "The target and nearby enemies get -24% defense for 6 turns.",
-            "Deals extra damage against Holy."
+            "对目标造成 295% 伤害，并对附近敌人造成轻微伤害。",
+            "目标与附近敌人获得 -34% 防御，持续 6 回合。"
         ]
     },
     {
         "originalIndex": 679,
-        "name": "酸火 (Acidfire)",
+        "name": "迪波特斯 (Tiburtus) C1",
         "effects": [
-            "Deals 355% damage to the target and nearby enemies.",
-            "Wither: The target and nearby enemies get -225 attack and -225 defense.",
-            "The target and nearby enemies reflect status effect buffs to a random character on the opposing team for 3 turns. (Only dispellable buffs are reflected.)"
+            "对所有敌人造成 175% 伤害。",
+            "所有敌人获得 -34% 防御，持续 4 回合。"
         ]
     },
     {
         "originalIndex": 680,
-        "name": "阿珂妮亚 (Aconia)",
+        "name": "迪波特斯 (Tiburtus) C2",
         "effects": [
-            "Summons a Dagger Fiend for the target and Holy enemies. The Fiend damages its target with 250% attack every turn.",
-            "The Dagger Fiend absorbs healing. It disappears after absorbing healing amount equal to 20% of its target’s max health.",
-            "When the Dagger Fiend disappears after it has absorbed enough healing, the owner receives 810 Bleed damage over 3 turns."
+            "对目标造成 295% 伤害，并对附近敌人造成轻微伤害。",
+            "使目标和附近敌人在 4 回合内减少共计 600 点最大生命值。若目标拥有提高的生命值，此效果会增强。最大生命值不能低于初始最大生命值的 30%。任何提高的生命值会额外减少 150 点每回合。"
         ]
     },
     {
         "originalIndex": 681,
-        "name": "艾龙 (Aeron)",
+        "name": "迪波特斯 (Tiburtus) 卡通",
         "effects": [
-            "All allies regenerate 1150 HP over 5 turns.",
-            "The caster and nearby allies are immune to new status ailments for 5 turns. This effect can't be dispelled.",
-            "Cleanses status ailments from the caster and nearby allies.",
-            "Element Link gives all Dark allies + 5% attack and + 5% defense for 6 turns. This effect can't be dispelled."
+            "对目标造成 325% 伤害，并对附近敌人造成轻微伤害。",
+            "目标与附近敌人获得 -24% 防御，持续 6 回合。",
+            "对神圣系造成额外伤害。"
         ]
     },
     {
         "originalIndex": 682,
-        "name": "艾龙 (Aeron) C1",
+        "name": "酸火 (Acidfire)",
         "effects": [
-            "Recovers 47% health for all allies.",
-            "Lifts all cleansable status ailments from the caster and nearby allies and randomly distributes them on enemies.",
-            "Element Link gives all Dark allies +5% attack and +5% defense for 6 turns. Can't be dispelled."
+            "对目标及附近敌人造成 355% 伤害。",
+            "衰退：目标与附近敌人获得 -225 点攻击力和 -225 点防御。",
+            "目标和附近敌人将反弹增益状态效果至我方战队的一名随机角色，持续 3 回合。（只有可驱散的增益才可反弹）"
         ]
     },
     {
         "originalIndex": 683,
-        "name": "阿加德 (Agadh)",
+        "name": "阿珂妮亚 (Aconia)",
         "effects": [
-            "Deals 565% damage to the target.",
-            "The target receives Corrosive Poison for 3 turns. The Corrosive Poison deals 134 Poison damage and lowers the target’s mana generation by 10% each turn. Deals extra damage against heroes with Minions or a Mega Minion. (Affects only mana generated from matching tiles or mana gained by the defense team at then end of their turn.)",
-            "The target can’t revive their allies or themself for 3 turns.",
-            "All buffs affecting attack, defense and mana generation on target and nearby enemies are replaced by matching uncleansable ailments. (Replacing cannot be blocked by status effects, family effects or passives. Only status effects that are dispellable or cleansable can be replaced. Replacement effects: Attack buffs are replaced with -40% attack ailment for 4 turns. Defense buffs are replaced with -40% defense ailment for 4 turns. Mana generation buffs are replaced with -40% mana generation ailment for 4 turns.)"
+            "召唤匕首恶魔附身于目标及神圣系敌人。恶魔每回合对其目标造成 250% 攻击力的伤害。",
+            "匕首恶魔会吸收治疗。它在吸收了相当于其目标最大生命值 20% 的治疗量后便会消失。",
+            "当匕首恶魔吸收足够治疗而消失时，其主人会在 3 回合内受到共计 810 点流血伤害。"
         ]
     },
     {
         "originalIndex": 684,
-        "name": "阿格拉菲纳 (Agrafena)",
+        "name": "艾龙 (Aeron)",
         "effects": [
-            "Special Skill has a different effect when charged with 100%/200% mana:",
-            "1x Mana Charge:",
-            " * All enemies get -20% attack for 3 turns.",
-            " * All enemies get -20% defense for 3 turns.",
-            " * All enemies receive 159 Poison damage over 3 turns.",
-            "2x Mana Charge:",
-            " * All allies get +45% attack, and a further 20% increase every time they are hit during 6 turns.",
-            " * All allies get +54% defense, and a further 5% increase every time they are hit during 6 turns.",
-            " * All allies regenerate 1428 HP over 6 turns."
+            "所有盟友在 5 回合内恢复 1150 点生命值。",
+            "施法者和附近盟友对新的状态异常免疫，持续 5 回合。此效果无法驱散。",
+            "净化施法者和附近盟友的状态异常。",
+            "元素链为全体暗黑系盟友提供+ 5% 的攻击和+ 5% 的防御，持续 6 回合。此效果无法驱散。"
         ]
     },
     {
         "originalIndex": 685,
-        "name": "阿格拉菲纳 (Agrafena) C1",
+        "name": "艾龙 (Aeron) C1",
         "effects": [
-            "Special Skill has a different effect when charged with 100%/200% mana:",
-            "1x Mana Charge:",
-            " * All enemies get -27% attack for 3 turns.",
-            " * All enemies get -27% defense for 3 turns.",
-            " * All enemies receive 330 Poison damage over 3 turns.",
-            "2x Mana Charge:",
-            " * All allies get +50% attack, and a further 20% increase every time they are hit during 6 turns, up to +150% attack.",
-            " * All allies get +59% defense, and a further 5% increase every time they are hit during 6 turns, up to +84% defense.",
-            " * All allies regenerate 1500 boosted health over 6 turns. Boosted health can exceed max HP."
+            "为所有盟友恢复 47% 生命值。",
+            "解除施法者和附近盟友的全部可净化状态异常并随机施放给敌人。",
+            "元素链为全体暗黑系盟友提供 +5% 的攻击和 +5% 的防御，持续 6 回合。此效果无法驱散。"
         ]
     },
     {
         "originalIndex": 686,
-        "name": "阿基利乌斯 (Akilius)",
+        "name": "阿加德 (Agadh)",
         "effects": [
-            "Steals Minions from the target.",
-            "Deals 490% damage to the target.",
-            "The target and nearby enemies get -45% accuracy for 4 turns. (Chance to miss also applies to offensive Special Skills.)",
-            "Elemental Link gives all Dark allies +30% defense against Special Skills for 4 turns. This effect can’t be dispelled."
+            "对目标造成 565% 伤害。",
+            "目标受到腐蚀性毒伤，持续 3 回合。腐蚀性毒伤每回合造成 134 点剧毒伤害，并且使目标的法力生成或降低 10%。对拥有小兵和超级小兵的英雄造成额外伤害。（仅影响通过消除方块生成的法力，或防御战队在回合结束获得的法力）",
+            "目标无法复活其盟友或自身，持续 3 回合。",
+            "影响目标和附近敌人的攻击、防御和法力生成的所有增益，将替换为对应的不可驱散状态异常。（替换效果无法被状态效果、家族效果或被动技能阻挡。只有可驱散或可净化的增益才可被替换。替换效果：攻击力增益将被 -40% 攻击力异常状态取代，持续 4 回合。防御增益将被 -40% 防御异常状态取代，持续 4 回合。法力生成增益将被 -40% 法力生成异常状态取代，持续 4 回合）"
         ]
     },
     {
         "originalIndex": 687,
-        "name": "阿尔弗莱克 (Alfrike)",
+        "name": "阿格拉菲纳 (Agrafena)",
         "effects": [
-            "Deals 200% damage to hit targets.",
-            "Casts 5 Dark Cubes to random enemies.",
-            "Dark Cube reduces max health from the target by 224. Max health can't get lower than 30% of the original max health.",
-            "Enemies hit automatically casts Mindless Attack on a random ally when mana is full at the start of a turn during 3 turns."
+            "当特殊技能充能至 100% / 200% 法力时将拥有不同的效果：",
+            "1 倍法力充能：",
+            "* 所有敌人获得 -20% 攻击力，持续 3 回合。",
+            "* 所有敌人获得 -20% 防御，持续 3 回合。",
+            "* 所有敌人在 3 回合内受到共计 159 点剧毒伤害。",
+            "2 倍法力充能：",
+            "* 所有盟友获得 +45% 攻击力，每次被击中后额外增加 20% 攻击力，持续 6 回合。",
+            "* 所有盟友获得 +54% 防御，每次被击中后额外增加 5% 防御，持续 6 回合。",
+            "* 所有盟友在 6 回合内恢复 1428 点生命值。"
         ]
     },
     {
         "originalIndex": 688,
-        "name": "阿尔弗莱克 (Alfrike) C1",
+        "name": "阿格拉菲纳 (Agrafena) C1",
         "effects": [
-            "Deals 240% damage to hit targets.",
-            "Casts 5 Dark Cubes to random enemies.",
-            "Dark Cube reduces max health from the target by 184. This effect is stronger against targets with boosted health. Max health can’t get lower than 30% of the original max health. Any boosted health is reduced by an additional 184.",
-            "The target automatically casts Mindless Attack on a random ally when mana is full during 3 turns."
+            "当特殊技能充能至 100% / 200% 法力时将拥有不同的效果：",
+            "1 倍法力充能：",
+            "* 所有敌人获得 -27% 攻击力，持续 3 回合。",
+            "* 所有敌人获得 -27% 防御，持续 3 回合。",
+            "* 所有敌人在 3 回合内受到共计 330 点剧毒伤害。",
+            "2 倍法力充能：",
+            "* 所有盟友获得 +50% 攻击力，每次被击中后额外增加 20% 攻击力，持续 6 回合，最高可达 +150% 攻击力。",
+            "* 所有盟友获得 +59% 防御，每次被击中后额外增加 5% 防御，持续 6 回合，最高可达 +84% 防御。",
+            "* 所有盟友在 6 回合内获得共计 1500 点生命加成。提高的生命值可以超过最大生命值。"
         ]
     },
     {
         "originalIndex": 689,
-        "name": "紫石 (Amethyst)",
+        "name": "阿基利乌斯 (Akilius)",
         "effects": [
-            "Special Skill has a different effect when charged with 100%/200%/300% mana:",
-            "x1 Mana Charge:",
-            " - Deals 200% damage to all enemies.",
-            " - Summons a Ninja Assassin Fiend for all enemies. The Fiend damages its target with 59% attack each turn.",
-            " - The Ninja Assassin Fiend absorbs healing. It disappears after absorbing a healing amount equal to 32% of its target’s max health.",
-            "x2 Mana Charge:",
-            " - Deals 275% damage to all enemies.",
-            " - Summons a Ninja Assassin Fiend for all enemies. The Fiend damages its target with 75% attack each turn.",
-            " - The Ninja Assassin Fiend absorbs healing. It disappears after absorbing a healing amount equal to 50% of its target’s max health.",
-            "x3 Mana Charge:",
-            " - Deals 355% damage to all enemies.",
-            " - Summons a Ninja Assassin Fiend for all enemies. The Fiend damages its target with 84% attack each turn.",
-            " - The Ninja Assassin Fiend absorbs healing. It disappears after absorbing a healing amount equal to 54% of its target’s max health."
+            "从目标处偷取小兵。",
+            "对目标造成 490% 伤害。",
+            "目标与附近敌人获得 -45% 精准度，持续 4 回合。（进攻型特殊技能也有相同几率落空）",
+            "元素链为全体暗黑系盟友提供针对特殊技能的 +30% 防御，持续 4 回合。此效果无法驱散。"
         ]
     },
     {
         "originalIndex": 690,
-        "name": "安诺舒卡 (Anoushka)",
+        "name": "阿尔弗莱克 (Alfrike)",
         "effects": [
-            "Recover 30% health for all allies.",
-            "Steals all dispellable buffs from the target and randomly distributes them on allies.",
-            "The target falls asleep.",
-            "While asleep, the target can’t attack or gain mana.",
-            "All damage dealt to the sleeping target is increased by +50%.",
-            "The sleeping target is woken once it takes damage. This excludes damage from Minions and Fiends.",
-            "Elemental Link gives all Dark allies +10% additional Special Skill damage for 4 turns. This effect cannot be dispelled."
+            "对命中的目标造成 200% 伤害。",
+            "对随机敌人施放 5 个暗黑方块。",
+            "暗黑方块使目标减少 224 点最大生命值。最大生命值不能低于初始最大生命值的 30%。",
+            "在 3 回合内，若命中的敌人在回合开始时法力满格，该敌人将自动对一名随机盟友施放莽夫乱拳。"
         ]
     },
     {
         "originalIndex": 691,
-        "name": "阿努比斯 (Anubis)",
+        "name": "阿尔弗莱克 (Alfrike) C1",
         "effects": [
-            "Inflicts the target with Greed for 3 turns. The enemies with Greed prevent other enemies from receiving friendly effects of their allies Special Skills.",
-            "All enemies receive 501 Poison damage over 3 turns.",
-            "All enemies get -34% defense for 3 turns."
+            "对命中的目标造成 240% 伤害。",
+            "对随机敌人施放 5 个暗黑方块。",
+            "暗黑方块使目标减少 184 点最大生命值。若目标拥有提高的生命值，此效果会增强。最大生命值不能低于初始最大生命值的 30%。任何提高的生命值会额外减少 184 点。",
+            "在 3 回合内，若目标在回合开始时法力满格，该目标将自动对一名随机盟友施放莽夫乱拳。"
         ]
     },
     {
         "originalIndex": 692,
-        "name": "阿努比斯 (Anubis) C1",
+        "name": "紫石 (Amethyst)",
         "effects": [
-            "Inflicts the target with Greed for 3 turns. The enemies with Greed prevent other enemies from receiving friendly effects of their allies’ Special Skills.",
-            "All enemies receive 888 Poison damage over 3 turns.",
-            "All enemies get -28% defense for 3 turns."
+            "当特殊技能充能至 100% / 200% / 300% 法力时将拥有不同的效果：",
+            "1 倍法力充能：",
+            "- 对所有敌人造成 200% 伤害。",
+            "- 召唤忍者刺客恶魔附身于所有敌人。恶魔每回合对其目标造成 59% 攻击力的伤害。",
+            "- 忍者刺客恶魔会吸收治疗。它在吸收了相当于其目标最大生命值 32% 的治疗量后便会消失。",
+            "2 倍法力充能：",
+            "- 对所有敌人造成 275% 伤害。",
+            "- 召唤忍者刺客恶魔附身于所有敌人。恶魔每回合对其目标造成 75% 攻击力的伤害。",
+            "- 忍者刺客恶魔会吸收治疗。它在吸收了相当于其目标最大生命值 50% 的治疗量后便会消失。",
+            "3 倍法力充能：",
+            "- 对所有敌人造成 355% 伤害。",
+            "- 召唤忍者刺客恶魔附身于所有敌人。恶魔每回合对其目标造成 84% 攻击力的伤害。",
+            "- 忍者刺客恶魔会吸收治疗。它在吸收了相当于其目标最大生命值 54% 的治疗量后便会消失。"
         ]
     },
     {
         "originalIndex": 693,
-        "name": "阿拉密斯 (Aramis)",
+        "name": "安诺舒卡 (Anoushka)",
         "effects": [
-            "Deals 375% damage to the target and nearby enemies.",
-            "Boosts all allies’ health by 30% of damage dealt.",
-            "All allies are immune to new status ailments for 3 turns.",
-            "Caster gets +30% defense for 3 turns"
+            "为所有盟友恢复 30% 生命值。",
+            "偷取目标的全部可驱散增益并随机施放给盟友。",
+            "目标陷入沉睡。",
+            "沉睡期间，目标无法攻击或获得法力。",
+            "对沉睡目标造成的所有伤害增加 +50%。",
+            "沉睡目标受到伤害后便会苏醒。这不包括来自小兵和恶魔的伤害。",
+            "元素链为全体暗黑系盟友提供额外 +10% 的特殊技能伤害，持续 4 回合。此效果无法驱散。"
         ]
     },
     {
         "originalIndex": 694,
-        "name": "阿法尼亚斯 (Arfanias)",
+        "name": "阿努比斯 (Anubis)",
         "effects": [
-            "Deals 460% damage to the target.",
-            "The more mana the enemies have, the more damage they will receive up to 650%.",
-            "The caster gets +75% chance to dodge Special Skills that deal damage for 3 turns.",
-            "Element Link gives all Dark allies +10% defense for 4 turns. This effect can’t be dispelled."
+            "对目标施加贪婪，持续 3 回合。身上有贪婪状态的敌人会阻止其他敌人获得来自盟友特殊技能的友方效果。",
+            "所有敌人在 3 回合内受到共计 501 点剧毒伤害。",
+            "所有敌人获得 -34% 防御，持续 3 回合。"
         ]
     },
     {
         "originalIndex": 695,
-        "name": "阿斯科特尔 (Asketel)",
+        "name": "阿努比斯 (Anubis) C1",
         "effects": [
-            "Deals 410% damage to the target and nearby enemies and inflicts 40 Insanity on them.",
-            "All active status ailments are uncleansable for the target and nearby enemies for the remaining turns of the status ailment.",
-            "Inflicts 55 Insanity to the caster."
+            "对目标施加贪婪，持续 3 回合。身上有贪婪状态的敌人会阻止其他敌人获得来自盟友特殊技能的友方效果。",
+            "所有敌人在 3 回合内受到共计 888 点剧毒伤害。",
+            "所有敌人获得 -28% 防御，持续 3 回合。"
         ]
     },
     {
         "originalIndex": 696,
-        "name": "巴斯泰托 (Bastet)",
+        "name": "阿拉密斯 (Aramis)",
         "effects": [
-            "Deals 220% damage to all enemies.",
-            "All allies get +45% chance to dodge Special Skills for 3 turns. Each dodge gives +5% defense stack (Max: 10)."
+            "对目标及附近敌人造成 375% 伤害。",
+            "为所有盟友提高相当于所造成伤害 30% 的生命值。",
+            "所有盟友对新的状态异常免疫，持续 3 回合。",
+            "施法者获得 +30% 防御，持续 3 回合。"
         ]
     },
     {
         "originalIndex": 697,
-        "name": "巴斯泰托 (Bastet) C1",
+        "name": "阿法尼亚斯 (Arfanias)",
         "effects": [
-            "Deals 210% damage to all enemies.",
-            "All allies get +45% chance to dodge Special Skills for 3 turns. Each dodge gives +10% defense stack (Max: 10)."
+            "对目标造成 460% 伤害。",
+            "敌人的法力越高，受到的伤害越大，最高可达 650%。",
+            "施法者有 +75% 的几率闪避可造成伤害的特殊技能，持续 3 回合。",
+            "元素链给予所有暗黑系盟友 +10% 的防御，持续 4 回合。此效果无法驱散。"
         ]
     },
     {
         "originalIndex": 698,
-        "name": "贝琪 (Becky)",
+        "name": "阿斯科特尔 (Asketel)",
         "effects": [
-            "Special Skill has a different effect when charged with 100%/200% mana:",
-            "1x Mana Charge:",
-            " * Deals 350% damage to the target.",
-            " * Each time the target activate their Special Skill during 3 turns mana of all other enemies is reduced by -15%.",
-            "2x Mana Charge:",
-            " * Increase the mana of all allies by 10%.",
-            " * For the next 5 turns, this character deals 250% damage to all enemies each time any other ally casts their Special Skill. Damage is dealt on the first Special Skill case of each character per turn."
+            "对目标和附近敌人造成 410% 伤害，并对其施加 40 点狂乱。",
+            "该状态异常持续期间，目标和附近敌人身上的状态异常都无法被净化。",
+            "对施法者施加 55 点狂乱。"
         ]
     },
     {
         "originalIndex": 699,
-        "name": "贝拉多娜 (Belladonna)",
+        "name": "巴斯泰托 (Bastet)",
         "effects": [
-            "Recovers 42% health for all allies.",
-            "All allies recover additional 8% health for each Fiend owned by the allies.",
-            "All allies get +54% attack for 4 turns.",
-            "All allies are immune to buff dispels and reallocations for 4 turns. The immunity also includes this effect itself."
+            "对所有敌人造成 220% 伤害。",
+            "所有盟友有 +45% 的几率闪避特殊技能，持续 3 回合。每次闪避可获得 +5% 防御叠加。（最多 10 层）"
         ]
     },
     {
         "originalIndex": 700,
-        "name": "贝拉 (Bera)",
+        "name": "巴斯泰托 (Bastet) C1",
         "effects": [
-            "Summons a Moth Minion for each ally. The Moth Minion inherits 20% HP and 20% attack from the caster.",
-            "Each hit from a Moth Minon gives the target the following status ailments:",
-            " * The target receives 207 Poison damage over 3 turns.",
-            " * The target resists new Minions for 3 turns."
+            "对所有敌人造成 210% 伤害。",
+            "所有盟友有 +45% 的几率闪避特殊技能，持续 3 回合。每次闪避可获得 +10% 防御叠加。（最多 10 层）"
         ]
     },
     {
         "originalIndex": 701,
-        "name": "贝拉 (Bera) C1",
+        "name": "贝琪 (Becky)",
         "effects": [
-            "Summons a Moth Minion for each ally. Moth Minion inherits 30% attack and 30% HP from the caster.",
-            "Each hit from the Moth Minion gives the target the following status ailments:",
-            " * The target receives 138 Poison damage over 3 turns.",
-            " * The target can’t receive new Minions for 3 turns."
+            "当特殊技能充能至 100% / 200% 法力时将拥有不同的效果：",
+            "1 倍法力充能：",
+            "* 对目标造成 350% 伤害。",
+            "* 在 3 回合期间，每次目标使用特殊技能时，其余敌人的法力减少 -15%。",
+            "2 倍法力充能：",
+            "* 使所有盟友的法力增加 10%。",
+            "* 在后续 5 回合中，每当其他盟友施放特殊技能后，此角色将对所有敌人造成 250% 伤害。每个角色施放特殊技能时，每回合只造成一次伤害。"
         ]
     },
     {
         "originalIndex": 702,
-        "name": "狼老大 (Boss Wolf)",
+        "name": "贝拉多娜 (Belladonna)",
         "effects": [
-            "All allies get +24% mana generation for 4 turns. This effect can't be dispelled.",
-            "All enemies get -34% mana generation for 4 turns.",
-            "All allies counterattack with 115% of the damage received for 4 turns."
+            "为所有盟友恢复 42% 生命值。",
+            "盟友每拥有一个恶魔，则额外恢复 8% 生命值。",
+            "所有盟友获得 +54% 攻击力，持续 4 回合。",
+            "所有盟友对增益驱散和转移免疫，持续 4 回合。该免疫效果对自身也有效。"
         ]
     },
     {
         "originalIndex": 703,
-        "name": "卡尔塔 (Carta)",
+        "name": "贝拉 (Bera)",
         "effects": [
-            "Recovers 45% health for all allies.",
-            "Lifts the latest status ailments from all allies and distributes them on enemies.",
-            "All allies get +33% mana generation for 3 turns."
+            "为每位盟友召唤一个飞蛾小兵。飞蛾小兵继承施法者 20% 的生命值和 20% 的攻击力。",
+            "飞蛾小兵的每次攻击都会对目标施加以下状态异常：",
+            "* 目标在 3 回合内受到共计 207 点剧毒伤害。",
+            "* 目标抵抗新的小兵，持续 3 回合。"
         ]
     },
     {
         "originalIndex": 704,
-        "name": "塞西莉亚 (Cecilia)",
+        "name": "贝拉 (Bera) C1",
         "effects": [
-            "Deals 240% damage to all enemies.",
-            "All allies get +45% chance to dodge Special Skills for 3 turns. Each dodge boosts health by 250. Boosted health can exceed max HP."
+            "为每位盟友召唤一个飞蛾小兵。飞蛾小兵继承施法者 30% 的攻击力和 30% 的生命值。",
+            "飞蛾小兵的每次攻击都会对目标施加以下状态异常：",
+            "* 目标在 3 回合内受到共计 138 点剧毒伤害。",
+            "* 目标无法获得新的小兵，持续 3 回合。"
         ]
     },
     {
         "originalIndex": 705,
-        "name": "塞妮乌丝 (Cennius)",
+        "name": "狼老大 (Boss Wolf)",
         "effects": [
-            "This Special Skill never misses its targets.",
-            "Attacks the target with Moonrise Strike, dealing up to 1100 damage. Deals 40% more damage if the target is Holy.",
-            "After a successful cast, has 100% chance to recast Blade Wings again on a random target.",
-            "Can recast up to 3 times and chance to recast is reduced by -35% after every successful cast."
+            "所有盟友获得 +24% 法力生成，持续 4 回合。此效果无法驱散。",
+            "所有敌人获得 -34% 法力生成，持续 4 回合。",
+            "所有盟友会以所受伤害的 115% 进行反击，持续 4 回合。"
         ]
     },
     {
         "originalIndex": 706,
-        "name": "查科斯兹洛特 (Chakkoszrot)",
+        "name": "卡尔塔 (Carta)",
         "effects": [
-            "Deals 265% damage to all enemies",
-            "All enemies with a dispellable mana generation buff get -54% mana generation for 5 turns. This effect can't be cleansed.",
-            "All enemies are immune to new status effect buffs for 5 turns.",
-            "Element Link gives +10% increase for any healing received for all Dark allies for 4 turns. This effect can't be dispelled."
+            "为所有盟友恢复 45% 生命值。",
+            "解除所有盟友的全部可净化状态异常并随机施放给敌人。",
+            "所有盟友获得 +33% 法力生成，持续 3 回合。"
         ]
     },
     {
         "originalIndex": 707,
-        "name": "晁盖 (Chao Gai)",
+        "name": "塞西莉亚 (Cecilia)",
         "effects": [
-            "This Special Skill has a chance to deal Critical hits. (The chance of dealing a Critical hit is based on Hero’s overall critical chance when the damage is dealt. Critical hits caused by this Special Skill deal 50% more damage. Critical hits can reduces enemies’ max health on PVP battles. This effect is stronger against boosted health.)",
-            "Deals 420% damage to the target.",
-            "Casts Full Removal on the caster. (Full Removal removes all status effects, stack, Growth and Wither effects. Removes even status effects and stacks that are otherwise undispellable or uncleansable.).",
-            "The caster shifts into Ghost form for 2 turns.",
-            "When Ghost form expires:",
-            "All allies get +40% critical chance for 2 turns. This effect is undispellable. (While in Ghost form. Character can’t gain mana and can’t be healed by Special Skills, but is immune to normal attacks, Special Skill attacks, damage dealing passives, status effects and stacks. Immune to new Growth and Wither effects.)"
+            "对所有敌人造成 240% 伤害。",
+            "所有盟友有 +45% 的几率闪避特殊技能，持续 3 回合。每次躲避都能使生命值提高 250 点。提高的生命值可以超过最大生命值。"
         ]
     },
     {
         "originalIndex": 708,
-        "name": "卡戎 (Charon)",
+        "name": "塞妮乌丝 (Cennius)",
         "effects": [
-            "Special Skill has a different effect when charged with 100% / 200% / 300% mana:",
-            "1x Mana Charge:",
-            "* Boosts health of all allies by 450. Boosted health can exceed max HP.",
-            "2x Mana Charge:",
-            "* Each fallen ally has 50% chance to get revived with 10% HP.",
-            "* All allies regenerate 609 HP over 3 turns.",
-            "3x Mana Charge:",
-            "* Boosts health of all allies by 700. Boosted health can exceed max HP.",
-            "* Each fallen ally has 65% chance to get revived with 27% HP.",
-            "* All allies regenerate 952 HP over 4 turns."
+            "此特殊技能必定命中。",
+            "使用月出闪袭攻击目标，造成最多 1100 点伤害。若目标为神圣系元素则额外造成 40% 伤害。",
+            "成功施放后，有 100% 几率对随机目标再次施放刀锋之翼。",
+            "最多可再次施放 3 次，每次成功施放后再次施放的几率减少 -35%。"
         ]
     },
     {
         "originalIndex": 709,
-        "name": "克拉里萨 (Clarissa)",
+        "name": "查科斯兹洛特 (Chakkoszrot)",
         "effects": [
-            "Deals 175% damage to the target and nearby enemies.",
-            "The target and nearby enemies receive 344 Poison damage over 2 turns.",
-            "Deals extra damage against Holy.",
-            "Element Link gives all Dark allies +30% defense against Special Skills for 4 turns. This effect can't be cleansed."
+            "对所有敌人造成 265% 伤害。",
+            "若任何敌人身上带有可驱散的法力生成增益，该敌人将获得 -54% 法力生成，持续 5 回合。此效果无法净化。",
+            "所有敌人对新的增益状态效果免疫，持续 5 回合。",
+            "元素链给予所有暗黑系盟友受到的治疗增加 +10%，持续 4 回合。此效果无法驱散。"
         ]
     },
     {
         "originalIndex": 710,
-        "name": "暗黑领主 (Dark Lord)",
+        "name": "晁盖 (Chao Gai)",
         "effects": [
-            "Deals 550% damage to the target.",
-            "Reduces the duration of the target and nearby enemies buffs by 1 turn.",
-            "The target and nearby enemies receive Corrosive Poison for 4 turns. The Corrosive Poison deals 144 Poison damage and lowers the target’s mana generation by -13% each turn. Deals extra damage against heroes with Minions or a Mega Minion."
+            "此特殊技能有几率造成暴击。（造成暴击的几率取决于英雄在造成伤害时的总暴击几率。此特殊技能造成的暴击会额外造成 50% 伤害。暴击可以减少PvP战斗中敌人的最大生命值。此效果对拥有生命加成的目标更强）",
+            "对目标造成 420% 伤害。",
+            "对施放者释放完全移除。完全移除可以移除目标的所有状态效果、叠加效果、成长效果和衰退效果。（完全移除可以移除目标的所有状态效果、叠加效果、成长效果和衰退效果。包含不可驱散或不可净化的状态效果和叠加效果）",
+            "施法者转变为幽灵形态，持续 2 回合。",
+            "当幽灵形态结束时：",
+            "所有盟友获得 +40% 暴击几率，持续 2 回合。此效果不可驱散。（处于幽灵形态期间，角色无法获得法力，且无法被特殊技能治疗，但是对普通攻击、特殊技能攻击、造成伤害的被动效果、状态效果和叠加免疫。 对新的成长和衰退效果免疫。）"
         ]
     },
     {
         "originalIndex": 711,
-        "name": "暗黑领主 (Dark Lord) C1",
+        "name": "卡戎 (Charon)",
         "effects": [
-            "Deals 560% damage to the target.",
-            "Reduces the duration of the target and nearby enemies’ buffs by 2 turns. (The duration reduction affects both dispellable and undispellable effects. If the duration of any effect is reduced to zero, the effect is considered as having expired naturally.)",
-            "The target and nearby enemies receive Corrosive Poison for 4 turns. The Corrosive Poison deals 320 Poison damage and lowers the target’s mana generation by -15% each turn. Deals extra damage against heroes with Minions or a Mega Minion. (Affects only mana generated from matching tiles or mana gained by the defense team at the end of their turn.)"
+            "当特殊技能充能至 100% / 200% / 300% 法力时将拥有不同的效果：",
+            "1 倍法力充能：",
+            "* 提高所有盟友 450 点生命值。提高的生命值可以超过最大生命值。",
+            "2 倍法力充能：",
+            "* 每名被击败的盟友有 50% 的几率以 10% 的生命值复活。",
+            "* 所有盟友在 3 回合内恢复 609 点生命值。",
+            "3 倍法力充能：",
+            "* 提高所有盟友 700 点生命值。提高的生命值可以超过最大生命值。",
+            "* 每名被击败的盟友有 65% 的几率以 27% 的生命值复活。",
+            "* 所有盟友在 4 回合内恢复 952 点生命值。"
         ]
     },
     {
         "originalIndex": 712,
-        "name": "黑比特 (Darkbeat)",
+        "name": "克拉里萨 (Clarissa)",
         "effects": [
-            "Deals 355% damage to all enemies.",
-            "Reduces the duration of all allies’ active status ailments by 2 turns. (The duration modification affects both cleansable and uncleasable effects. If the duration of any effect is reduced to zero the effect is considered as having expired naturally.)",
-            "Reduces the duration of all enemies’ active buffs by 2 turns.(The duration modification affects both cleansable and uncleasable effects. If the duration of any effect is reduced to zero the effect is considered as having expired naturally.)",
-            "All allies are immune to buff dispels and reallocations for 4 turns. (The immunity also includes this effect itself.)"
+            "对目标及附近敌人造成 175% 伤害。",
+            "目标与附近敌人在 2 回合内受到共计 344 点剧毒伤害。",
+            "对神圣系造成额外伤害。",
+            "元素链为全体暗黑系盟友提供针对特殊技能的 +30% 防御，持续 4 回合。此效果无法净化。"
         ]
     },
     {
         "originalIndex": 713,
-        "name": "暗羽 (Darkfeather)",
+        "name": "暗黑领主 (Dark Lord)",
         "effects": [
-            "Recovers 25% health of all allies.",
-            "Growth: All allies get 180 attack and 180 defense.",
-            "All allies have 50% chance to deal 270% damage to a random enemy after any subsequent allied Special Skill is cast for 3 turns. (Damage is dealt on the first Special Skill cast of each character per turn.)"
+            "对目标造成 550% 伤害。",
+            "目标和附近敌人的增益持续时间减少 1 回合。",
+            "目标与附近敌人受到腐蚀性毒伤，持续 4 回合。腐蚀性毒伤每回合造成 144 点剧毒伤害，并使目标的法力生成降低 -13%。对拥有小兵或超级小兵的英雄造成额外伤害。"
         ]
     },
     {
         "originalIndex": 714,
-        "name": "亡灵布特 (Deadboot)",
+        "name": "暗黑领主 (Dark Lord) C1",
         "effects": [
-            "Steals all dispellable status effect buffs from the target and randomly distributes them on allies.",
-            "Deals 375% damage to the target.",
-            "Deals additional 50% damage per transferred status effect buff, up to 625% damage in total.",
-            "Wither: The target gets -300 defense."
+            "对目标造成 560% 伤害。",
+            "目标和附近敌人的增益持续时间减少 2 回合。（持续时间调整对可驱散效果和不可驱散效果皆有影响。若任何效果的持续时间降为零，则该效果视为自然过期）",
+            "目标与附近敌人受到腐蚀性毒伤，持续 4 回合。腐蚀性毒伤每回合造成 320 点剧毒伤害，并使目标的法力生成降低 -15%。对拥有小兵或超级小兵的英雄造成额外伤害。（只影响通过消除方块或由防御队伍在其回合结束时获得的法力）"
         ]
     },
     {
         "originalIndex": 715,
-        "name": "新月 (Demilune)",
+        "name": "黑比特 (Darkbeat)",
         "effects": [
-            "The Special Skill never misses its targets.",
-            "Deals 495% damage to the target and minor damage to nearby enemies.",
-            "Steals all dispellable buffs from the targer and nearby enemies and randomly distributes them on allies.",
-            "Growth: The caster and nearby allies get 340 attack."
+            "对所有敌人造成 355% 伤害。",
+            "所有盟友身上的状态异常持续时间减少 2 回合。（持续时间调整对可净化效果和不可净化效果皆有影响。若任何效果的持续时间降为零，则该效果视为自然过期）",
+            "所有敌人身上的增益持续时间减少 2 回合。（持续时间调整对可净化效果和不可净化效果皆有影响。若任何效果的持续时间降为零，则该效果视为自然过期）",
+            "所有盟友对增益驱散和转移免疫，持续 4 回合。（此免疫效果也包含此效果本身）"
         ]
     },
     {
         "originalIndex": 716,
-        "name": "貂蝉 (Diaochan)",
+        "name": "暗羽 (Darkfeather)",
         "effects": [
-            "Recover 35% health for all allies.",
-            "Summons a Lackey Minion for the caster and nearby allies with 16% HP and 25% attack inherited from the caster.",
-            "Each time a Lackey Minion hits an enemy, it steals a random dispellable buff from the enemy and gives it to its owner."
+            "为所有盟友恢复 25% 生命值。",
+            "成长：所有盟友获得 180 点攻击力和 180 点防御。",
+            "任何盟友随后施放特殊技能时，所有盟友都有 50% 几率对随机一名敌人造成 270% 伤害，持续 3 回合。（每个角色施放特殊技能时，每回合只造成一次伤害）"
         ]
     },
     {
         "originalIndex": 717,
-        "name": "貂蝉 (Diaochan) C1",
+        "name": "亡灵布特 (Deadboot)",
         "effects": [
-            "Recover 33% health for all allies.",
-            "Summons a Lackey Minion for the caster and nearby allies with 33% HP and 33% attack inherited from the caster.",
-            "Each time a Lackey Minion hits an enemy, it steals a random dispellable buff from the enemy and gives it to its owner."
+            "偷取目标的全部可驱散状态效果增益并随机施放给盟友。",
+            "对目标造成 375% 伤害。",
+            "每转移一个状态异常增益，造成额外 50% 伤害，最多累计造成 625% 伤害。",
+            "衰退：目标获得 -300 点防御。"
         ]
     },
     {
         "originalIndex": 718,
-        "name": "多米西亚 (Domitia)",
+        "name": "新月 (Demilune)",
         "effects": [
-            "Deals 440% damage to the target.",
-            "The caster and nearby allies get + 94% defense against Holy for 4 turns.",
-            "Dispels buffs from the target and nearby enemies."
+            "此特殊技能必定命中。",
+            "对目标造成 495% 伤害，并对附近敌人造成轻微伤害。",
+            "偷取目标及附近敌人的全部可驱散增益并随机施放给盟友。",
+            "成长：施法者和附近盟友获得 340 点攻击力。"
         ]
     },
     {
         "originalIndex": 719,
-        "name": "多米西亚 (Domitia) C1",
+        "name": "貂蝉 (Diaochan)",
         "effects": [
-            "Deals 400% damage to the target.",
-            "The target and nearby enemies receive 356 Poison damage over 4 turns.",
-            "Cleanses status ailments from the caster and nearby allies."
+            "为所有盟友恢复 35% 生命值。",
+            "为施法者和附近盟友召唤一个跟班小兵，其可从施法者处继承 16% 生命和 25% 攻击力。",
+            "跟班小兵每击中一名敌人，就会从该敌人身上随机窃取一个可驱散的增益并施加在其所有者身上。"
         ]
     },
     {
         "originalIndex": 720,
-        "name": "多米西亚 (Domitia) C2",
+        "name": "貂蝉 (Diaochan) C1",
         "effects": [
-            "Deals 335% damage to target and nearby enemies",
-            "The target and nearby enemies get -64% defense against Dark for 4 turns. Against Holy characters, this status effect becomes uncleansable and lasts 2 turns longer.",
-            "Deals extra damage against Holy."
+            "为所有盟友恢复 33% 生命值。",
+            "为施法者和附近盟友召唤一个跟班小兵，其可从施法者处继承 33% 生命和 33% 攻击力。",
+            "跟班小兵每击中一名敌人，就会从该敌人身上随机窃取一个可驱散的增益并施加在其所有者身上。"
         ]
     },
     {
         "originalIndex": 721,
-        "name": "多米西亚 (Domitia) 卡通",
+        "name": "多米西亚 (Domitia)",
         "effects": [
-            "Deals 590% damage to the target.",
-            "The caster and nearby allies get +64% defense against Holy for 4 turns.",
-            "Deals extra damage against Holy.",
-            "Dispels buffs from the target and nearby enemies."
+            "对目标造成 440% 伤害。",
+            "施法者和附近盟友获得对神圣系 + 94% 的防御，持续 4 回合。",
+            "驱散目标和附近敌人身上的增益。"
         ]
     },
     {
         "originalIndex": 722,
-        "name": "多米西亚 (Domitia) 玻璃",
+        "name": "多米西亚 (Domitia) C1",
         "effects": [
-            "Deals 600% damage to the target.",
-            "The attack bypasses defensive buffs. (This includes counterattacks.)",
-            "The caster and nearby allies get +74% defense against Holy for 4 turns.",
-            "Dispels buffs from the target and nearby enemies."
+            "对目标造成 400% 伤害。",
+            "目标与附近敌人在 4 回合内受到共计 356 点剧毒伤害。",
+            "净化施法者和附近盟友的状态异常。"
         ]
     },
     {
         "originalIndex": 723,
-        "name": "莫罗博士 (Dr. Moreau)",
+        "name": "多米西亚 (Domitia) C2",
         "effects": [
-            "Deals 270% damage to the target and nearby enemies.",
-            "The target and nearby enemies get -35% accuracy for 3 turns. The effect duration is reset if the target is healed. Chance to miss also applies to offensive Special Skills."
+            "对目标及附近敌人造成 335% 伤害。",
+            "目标与附近敌人获得对暗黑系 -64% 的防御，持续 4 回合。对神圣系角色，此状态效果不可净化且持续时间延长 2 回合。",
+            "对神圣系造成额外伤害。"
         ]
     },
     {
         "originalIndex": 724,
-        "name": "莫罗博士 (Dr. Moreau) C1",
+        "name": "多米西亚 (Domitia) 卡通",
         "effects": [
-            "Deals 265% damage to the target and nearby enemies.",
-            "The target and nearby enemies get -40% accuracy for 4 turns. The effect duration resets if the target is healed. Chance to miss also applies to offensive Special Skills."
+            "对目标造成 590% 伤害。",
+            "施法者和附近盟友获得对神圣系 +64% 的防御，持续 4 回合。",
+            "对神圣系造成额外伤害。",
+            "驱散目标和附近敌人身上的增益。"
         ]
     },
     {
         "originalIndex": 725,
-        "name": "恐惧之星 (Dreadstar)",
+        "name": "多米西亚 (Domitia) 玻璃",
         "effects": [
-            "This Special Skill never misses its targets.",
-            "Deals 340% damage to all enemies.",
-            "All enemies get -35% mana generation for 4 turns.",
-            "All enemies get -85% decrease of any healing received for 4 turns."
+            "对目标造成 600% 伤害。",
+            "攻击会无视防御增益。（包括反击）",
+            "施法者和附近盟友获得对神圣系 +74% 的防御，持续 4 回合。",
+            "驱散目标和附近敌人身上的增益。"
         ]
     },
     {
         "originalIndex": 726,
-        "name": "杜班 (Dubhan)",
+        "name": "莫罗博士 (Dr. Moreau)",
         "effects": [
-            "Deals 300% damage to the target.",
-            "If the target had more than 50% health before receiving damage, targets another enemy who had over 50% health before receiving any damage from this Special Skill. If none of the other enemies had 50% health, targets a random enemy. The damage is increased on each consecutive hit. Each enemy can only hit once.",
-            "All hit enemies receive 339 Bleed damage over 3 turns. The caster and their nearby allies absorb 30% of dealt Bleed damage as health."
+            "对目标及附近敌人造成 270% 伤害。",
+            "目标与附近敌人获得 -35% 精准度，持续 3 回合。若目标受到治疗，则效果持续时间将重置。进攻型特殊技能也有相同几率落空。"
         ]
     },
     {
         "originalIndex": 727,
-        "name": "杜拉富勒 (Dularfulr)",
+        "name": "莫罗博士 (Dr. Moreau) C1",
         "effects": [
-            "Recovers 30% health for all allies.",
-            "All allies get a Firestorm Ward for 4 turns, that reduces incoming Special Skill damage by up to -1300. Reduces damage by additional 30% when the attacker is of the Nature element.",
-            "All allies are immune to new status ailments for 4 turns."
+            "对目标及附近敌人造成 265% 伤害。",
+            "目标与附近敌人获得 -40% 精准度，持续 4 回合。若目标受到治疗，则效果持续时间将重置。进攻型特殊技能也有相同几率落空。"
         ]
     },
     {
         "originalIndex": 728,
-        "name": "厄洛斯 (Eros)",
+        "name": "恐惧之星 (Dreadstar)",
         "effects": [
-            "Deals 465% damage to the target.",
-            "All damage the target receives is increased by +40% for 2 turns."
+            "此特殊技能必定命中。",
+            "对所有敌人造成 340% 伤害。",
+            "所有敌人获得 -35% 法力生成，持续 4 回合。",
+            "所有敌人获得的治疗减少 -85%，持续 4 回合。"
         ]
     },
     {
         "originalIndex": 729,
-        "name": "经验拟态兽 (Experience Mimic) Dark",
+        "name": "杜班 (Dubhan)",
         "effects": [
-            "Destroys all Minions from the target. This effect damages Mega Minions.",
-            "Deals 530% damage to the target.",
-            "If the target is defeated by the attack, the caster recovers +50% health and gains 33% mana.",
-            "The Mimic chest closes for 2 turns. (The Mimic is immune to damage and new status ailments while closed.)"
+            "对目标造成 300% 伤害。",
+            "若目标在受到伤害前有超过 50% 的生命，则多瞄准一名在受到此特殊技能伤害前有超过 50% 生命的敌人。若其他敌人的生命都在 50% 以下，则多瞄准一名随机敌人。伤害随追加攻击的次数递增。每个敌人只能被击中一次。",
+            "所有命中的敌人会在 3 回合内受到共计 339 点流血伤害。施法者及其附近盟友会吸收所造成流血伤害的 30% 并转化为生命值。"
         ]
     },
     {
         "originalIndex": 730,
-        "name": "法拉 (Farrah)",
+        "name": "杜拉富勒 (Dularfulr)",
         "effects": [
-            "Deals 500% damage to the target.",
-            "Deals additional 200% damage to as many random enemies as there are Dark tiles on the board, up to a maximum 12 hits. The damage is reduced on each consecutive hit.",
-            "All hit targets get -35% defense against Dark, and a further -5% decrease every time they are hit for 4 turns."
+            "为所有盟友恢复 30% 生命值。",
+            "所有盟友获得一个焰暴守卫，持续 4 回合，它可使所受的特殊技能伤害降低最多 -1300 点。当攻击者为自然系元素时可额外降低 30% 的伤害。",
+            "所有盟友对新的状态异常免疫，持续 4 回合。"
         ]
     },
     {
         "originalIndex": 731,
-        "name": "弗蕾亚 (Freya)",
+        "name": "厄洛斯 (Eros)",
         "effects": [
-            "Summons a Raven Minion for each ally with 20% HP and 20% attack inherited from the caster.",
-            "Raven Minion gives +120% attack to all its owner's other Minions.",
-            "All allies get +30% defense for 4 turns."
+            "对目标造成 465% 伤害。",
+            "目标受到的所有伤害增加 +40%，持续 2 回合。"
         ]
     },
     {
         "originalIndex": 732,
-        "name": "弗蕾亚 (Freya) C1",
+        "name": "经验拟态兽 (Experience Mimic) Dark",
         "effects": [
-            "Summons a Raven Minion for each ally with 25% HP and 15% attack inherited from the caster.",
-            "Raven Minion gives +180% attack to all its owner's other Minions.",
-            "All allies get +36% chance to dodge Special Skills that deal damage for 4 turns."
+            "摧毁目标的全部小兵。此效果会对超级小兵造成伤害。",
+            "对目标造成 530% 伤害。",
+            "若本次攻击将敌人击败，那么施法者将恢复 +50% 生命并获得 33% 法力。",
+            "拟态兽宝箱关闭 2 回合。（拟态兽宝箱关闭时免疫伤害和新的状态异常）"
         ]
     },
     {
         "originalIndex": 733,
-        "name": "加斯蒂尔 (Gastille)",
+        "name": "法拉 (Farrah)",
         "effects": [
-            "All allies get +150% normal attack for 4 turns. This effect can be active in addition to effects that alter attack in general. Normal attacks can have a total maximum of 200% increased power while this effect is active.",
-            "All damage all enemies receive is increased by +55% for 4 turns."
+            "对目标造成 500% 伤害。",
+            "面板上有多少个暗黑系方块，就随机对同样数量的敌人造成额外 200% 的伤害，最多可命中 12 次。每下攻击的伤害都会递减。",
+            "所有被击中的目标获得对暗黑系 -35% 防御，且每次被击中后额外降低 -5% 防御，持续 4 回合。"
         ]
     },
     {
         "originalIndex": 734,
-        "name": "贡戈斯 (Gongoth)",
+        "name": "弗蕾亚 (Freya)",
         "effects": [
-            "Deals 400% damage to the target and nearby enemies.",
-            "Wither: The target and nearby enemies get -350 attack.",
-            "The target and nearby enemies receive +25% increased damage for 3 turns. The effect is increased by +10% for each Minion or Mega Minion owned by all enemies, up to +85% in total."
+            "为每位盟友召唤一个乌鸦小兵，其可从施法者处继承 20% 生命和 20% 攻击力。",
+            "乌鸦小兵为其所有者的其他小兵提供 +120% 攻击力。",
+            "所有盟友获得 +30% 防御，持续 4 回合。"
         ]
     },
     {
         "originalIndex": 735,
-        "name": "古尔德隆 (Gooldron)",
+        "name": "弗蕾亚 (Freya) C1",
         "effects": [
-            "Deals 385% damage to the target and nearby enemies.",
-            "Summons a Slime Fiend for the target and nearby enemies. The Fiend damage the enemy with 50% attack every turn.",
-            "The Slime Fiend absorbs healing. It disappears after absorbing a healing amount equal to 40% of its target’s max health.",
-            "At the end of each turn, the Slime Fiend steals one of its target's dispellable buffs or Growth effect and gives it to a random character on the opposite team."
+            "为每位盟友召唤一个乌鸦小兵，其可从施法者处继承 25% 生命和 15% 攻击力。",
+            "乌鸦小兵为其所有者的其他小兵提供 +180% 攻击力。",
+            "所有盟友有 +36% 几率闪避可造成伤害的特殊技能，持续 4 回合。"
         ]
     },
     {
         "originalIndex": 736,
-        "name": "血齿 (Goretooth)",
+        "name": "加斯蒂尔 (Gastille)",
         "effects": [
-            "Deals 430% damage to the target.",
-            "The target gets -45% defense for 2 turns. The defense decreases by -15% each turn, up to -60%.",
-            "The target can’t gain mana for 2 turns."
+            "所有盟友获得 +150% 普通攻击，持续 4 回合。即使英雄身上已有其他影响攻击力的效果，此效果仍然有效。此效果有效期间，普通攻击最多可以增加共计 200% 攻击力。",
+            "所有敌人受到的所有伤害增加 +55%，持续 4 回合。"
         ]
     },
     {
         "originalIndex": 737,
-        "name": "戈塞克 (Goseck)",
+        "name": "贡戈斯 (Gongoth)",
         "effects": [
-            "Deals 350% damage to all enemies.",
-            "The less HP the caster has, the more damage they deal up to 700%."
+            "对目标及附近敌人造成 400% 伤害。",
+            "衰退：目标与附近敌人获得 -350 点攻击力。",
+            "目标和附近敌人受到的伤害增加 +25%，持续 3 回合。所有敌人每拥有一个小兵或超级小兵，则该效果提高 +10%，最多可提高 +85%。"
         ]
     },
     {
         "originalIndex": 738,
-        "name": "格伦德尔之母 (Grendel's Mother)",
+        "name": "古尔德隆 (Gooldron)",
         "effects": [
-            "Deals 410% damage to all enemies.",
-            "All enemies receive 1230 Curse damage over 6 turns, starting low and increasing every turn.",
-            "Source of Ailments: The following effects are cast on a random enemy at the start of each turn",
-            " * +60% damage from status ailments for 5 turns.",
-            " * -60% for all healing received for 5 turns.",
-            "The Source of Ailments will activate 6 times. Each attempt to dispel it removes one activation."
+            "对目标及附近敌人造成 385% 伤害。",
+            "召唤史莱姆恶魔附身于目标及附近敌人。恶魔每回合对敌人造成 50% 攻击力的伤害。",
+            "史莱姆恶魔会吸收治疗。它在吸收了相当于其目标最大生命值 40% 的治疗量后便会消失。",
+            "每回合结束时，史莱姆恶魔将偷取其目标的其中一个可驱散增益或成长效果，并将该增益施加于另一战队的随机一名角色身上。"
         ]
     },
     {
         "originalIndex": 739,
-        "name": "葛瑞菲斯 (Griffex)",
+        "name": "血齿 (Goretooth)",
         "effects": [
-            "Reduces the mana of all Holy enemies by 100%. Reduces the mana of the other enemies by 50%.",
-            "Increases the mana of all Dark allies except the caster by 30%. Increases the mana of all other allies by 15%."
+            "对目标造成 430% 伤害。",
+            "目标获得 -45% 防御，持续 2 回合。防御每回合降低 -15%，最高可达 -60%。",
+            "目标无法获得法力，持续 2 回合。"
         ]
     },
     {
         "originalIndex": 740,
-        "name": "格林布尔 (Grimble)",
+        "name": "戈塞克 (Goseck)",
         "effects": [
-            "Destroys all minions from all enemies.",
-            "Deals 315% damage to all enemies.",
-            "All allies get a small amount of mana for each destroyed minion",
-            "Element Link gives all Dark allies +10% critical chance for 6 turns. This effect can’t be dispelled."
+            "对所有敌人造成 350% 伤害。",
+            "施法者的生命值越低，造成的伤害越大，最高可达 700%。"
         ]
     },
     {
         "originalIndex": 741,
-        "name": "黑豹守护者 (Guardian Panther)",
+        "name": "格伦德尔之母 (Grendel's Mother)",
         "effects": [
-            "Deals 210% damage to the target and nearby enemies",
-            "The target and nearby enemies get -54% defense against Dark for 4 turns",
-            "Dispels buffs from the target and nearby enemies"
+            "对所有敌人造成 410% 伤害。",
+            "所有敌人在 6 回合内受到共计 1230 点诅咒伤害，一开始伤害较低，之后每个回合会逐渐增加。",
+            "异常状态之源：每回合开始时，对随机一名敌人施放以下效果。",
+            "* +60% 来自状态异常的伤害，持续 5 回合。",
+            "* -60% 受到的所有治疗，持续 5 回合。",
+            "状态异常之源会激活 6 次。每次试图驱散它都会移除一次激活。"
         ]
     },
     {
         "originalIndex": 742,
-        "name": "黑豹守护者 (Guardian Panther) C1",
+        "name": "葛瑞菲斯 (Griffex)",
         "effects": [
-            "Deals 285% damage to all enemies.",
-            "All enemies get -34% defense against Dark for 3 turns.",
-            "All enemies are immune to new status effect buffs for 3 turns."
+            "使所有神圣系敌人的法力减少 100%。使所有其他敌人的法力减少 50%。",
+            "使施法者以外的所有暗黑系盟友增加 30% 法力。其余盟友的法力则增加 15%。"
         ]
     },
     {
         "originalIndex": 743,
-        "name": "刚特司 (Gunktus)",
+        "name": "格林布尔 (Grimble)",
         "effects": [
-            "Deals 535% damage to the target and minor damage to nearby enemies.",
-            "The caster gets +45% attack, and a further +20% increase every time they are hit during 3 turns.",
-            "Caster receives Slime Revive status effect for 2 turns. If defeated while Slime Revive is active the caster will be reborn as a Slime with:",
-            "* 100% inherited health.",
-            "* 50% attack.",
-            "* 50% defense.",
-            "* Special Skill:",
-            "Slime Slap.",
-            "* This effect can’t be dispelled.",
-            "* Deals 350% damage to the target.",
-            "If the Slime is not defeated in 3 turns, it will be reborn as the character’s original form inheriting the Slime’s health and mana."
+            "摧毁全部敌人的全部小兵。",
+            "对所有敌人造成 315% 伤害。",
+            "每摧毁一名小兵，所有盟友获得少量法力。",
+            "元素链为全体暗黑系盟友提供 +10% 的暴击几率，持续 6 回合。此效果无法驱散。"
         ]
     },
     {
         "originalIndex": 744,
-        "name": "汉娜 (Hannah)",
+        "name": "黑豹守护者 (Guardian Panther)",
         "effects": [
-            "Deals 215% damage to the target and narby enemies.",
-            "Summons a Golden Idol Field for the target and nearby enemies. The Fiend damages the enemy with 43% attack every turn.",
-            "The Golden Idol Fiend absorbs healing and disappears when it has absorbed health equal to 20% of its owners max health.",
-            "The Golden Idol Fiend gives -20% attack for its owner as long as the owner has Golden Idol Fiends. This effect cannot be cleansed."
+            "对目标及附近敌人造成 210% 伤害。",
+            "目标与附近敌人获得对暗黑系 -54% 的防御，持续 4 回合。",
+            "驱散目标和附近敌人身上的增益。"
         ]
     },
     {
         "originalIndex": 745,
-        "name": "汉娜 (Hannah) C1",
+        "name": "黑豹守护者 (Guardian Panther) C1",
         "effects": [
-            "Deals 225% damage to the target and nearby enemies.",
-            "Summons a Golden Idol Fiend for the target and nearby enemies. The Fiend damages the enemy with 36% attack every turn.",
-            "The Golden Idol Fiend absorbs healing. It disappears after absorbing a healing amount equal to 28% of its target’s max health.",
-            "When summoned, the Golden Idol Fiend gives -20% attack for its owner for as long as the owner has Golden Idol Fiends. This effect can’t be cleansed."
+            "对所有敌人造成 285% 伤害。",
+            "所有敌人获得对暗黑系 -34% 的防御，持续 3 回合。",
+            "所有敌人对新的增益状态效果免疫，持续 3 回合。"
         ]
     },
     {
         "originalIndex": 746,
-        "name": "山楂 (Hawthorn)",
+        "name": "刚特司 (Gunktus)",
         "effects": [
-            "All allies regenerate 672 boosted health over 4 turns. Boosted health can exceed max HP.",
-            "All allies receive a small amount of mana over 4 turns.",
-            "All allies reflect status ailments for 4 turns and negative stacks for 4 turns. Status effects cast by characters, Minions and Fiends on the same side cannot be reflected."
+            "对目标造成 535% 伤害，并对附近敌人造成轻微伤害。",
+            "施法者获得 +45% 攻击力，并在每次被击中时再增加 +20% 攻击力，持续 3 回合。",
+            "施法者获得史莱姆复活状态效果，持续 2 回合。若在史莱姆复活激活期间被击败，该角色将重生为史莱姆，并拥有：",
+            "* 100% 继承生命值。",
+            "* 50% 攻击力。",
+            "* 50% 防御。",
+            "* 特殊技能：",
+            "史莱姆拍击。",
+            "* 此效果无法驱散。",
+            "* 对目标造成 350% 伤害。",
+            "若史莱姆在 3 回合内未被击败，则会变回角色原型，并继承史莱姆的生命值和法力。"
         ]
     },
     {
         "originalIndex": 747,
-        "name": "赫尔 (Hel)",
+        "name": "汉娜 (Hannah)",
         "effects": [
-            "Deals 375% damage to the target and minor damage to nearby enemies",
-            "The target and nearby enemies can't gain mana for 4 turns",
-            "Deals extra damage against Holy",
-            "Elemental Link gives all Dark allies +15% attack and +15% defense for 6 turns. This effect can’t be displelled."
+            "对目标及附近敌人造成 215% 伤害。",
+            "召唤黄金偶像恶魔附身于目标及附近敌人。恶魔每回合对敌人造成 43% 攻击力的伤害。",
+            "黄金偶像恶魔会吸收治疗。它在吸收了相当于其所有者最大生命值 20% 的治疗量后便会消失。",
+            "黄金偶像恶魔被召唤后，只要其所有者拥有黄金偶像恶魔，其所有者就会获得 -20% 攻击力。此效果无法净化。"
         ]
     },
     {
         "originalIndex": 748,
-        "name": "赫尔 (Hel) C1",
+        "name": "汉娜 (Hannah) C1",
         "effects": [
-            "Deals 350% damage to all enemies.",
-            "The caster steals generated mana of all enemies over 4 turns starting low and increasing every turn until on the last turn all generated mana is stolen. This effect can’t be cleansed, but it gets removed if the caster dies.",
-            "Deals extra damage to Holy.",
-            "Elemental Link gives all Dark allies +15% attack and +15% defense for 6 turns. This effect can’t be displelled."
+            "对目标及附近敌人造成 225% 伤害。",
+            "召唤黄金偶像恶魔附身于目标及附近敌人。恶魔每回合对敌人造成 36% 攻击力的伤害。",
+            "黄金偶像恶魔会吸收治疗。它在吸收了相当于其目标最大生命值 28% 的治疗量后便会消失。",
+            "黄金偶像恶魔被召唤后，只要其所有者拥有黄金偶像恶魔，其所有者就会获得 -20% 攻击力。此效果无法净化。"
         ]
     },
     {
         "originalIndex": 749,
-        "name": "赫里德马尔 (Hreidmarr)",
+        "name": "山楂 (Hawthorn)",
         "effects": [
-            "Attacks all enemies with Firestorm Strike, dealing up to 2200 damage. Deals 40% more if the target is of the Nature element. This Special Skill never misses its targets.",
-            "The caster steals generated mana of all enemies over 5 turns starting low and increasing every turn until on the last turn all the generated mana is stolen. This effect can't be cleansed, but it gets removed if the caster is defeated.",
-            "At the end of each turn, steals the latest dispellable buff from all enemies and distributes them randomly among allies for 5 turn."
+            "所有盟友在 4 回合内获得共计 672 点生命加成。提高的生命值可以超过最大生命值。",
+            "所有盟友在 4 回合内恢复少量法力。",
+            "所有盟友可反弹状态异常持续 4 回合,反弹负面效果叠加持续 4 回合。同队角色、小兵和恶魔施放的状态效果无法反弹。"
         ]
     },
     {
         "originalIndex": 750,
-        "name": "胡尔达 (Hulda)",
+        "name": "赫尔 (Hel)",
         "effects": [
-            "Summons a Larva Minion for each ally with 31% HP inheried from the caster. The Minion recovers 11% health for its owner at the end of each turn.",
-            "When summoned, the Larva Minion gives +24% mana generation for its owner for as long as the owner has Larva Minions. This effect can't be dispelled.",
-            "When summoned, the Larva Minion gives +54% defense for is owner for as long as the owner has Larva Minions. This effect can't be dispelled."
+            "对目标造成 375% 伤害，并对附近敌人造成轻微伤害。",
+            "目标与附近敌人无法增加法力，持续 4 回合。",
+            "对神圣系造成额外伤害。",
+            "元素链为全体暗黑系盟友提供 +15% 的攻击和 +15% 的防御，持续 6 回合。此效果无法驱散。"
         ]
     },
     {
         "originalIndex": 751,
-        "name": "胡尔达 (Hulda) C1",
+        "name": "赫尔 (Hel) C1",
         "effects": [
-            "Summons a Larva Minion for each ally with 36% HP inherited from the caster. The Minion recovers 15% health for its owner at the end of each turn.",
-            "When summoned, the Larva Minion gives +24% mana generation for its owner for as long as the owner has Larva Minions. This effect can’t be dispelled.",
-            "When summoned, the Larva Minion gives +50% defense for its owner for as long as the owner has Larva Minions. This effect can’t be dispelled."
+            "对所有敌人造成 350% 伤害。",
+            "施法者在 4 回合内偷取所有敌人生成的法力，一开始偷取量较少，每个回合逐渐增加，直到最后一回合将偷取所有生成的法力。此效果不可净化，但会在施法者被击败后移除。",
+            "对神圣系造成额外伤害。",
+            "元素链为全体暗黑系盟友提供 +15% 的攻击和 +15% 的防御，持续 6 回合。此效果无法驱散。"
         ]
     },
     {
         "originalIndex": 752,
-        "name": "狩猎者 (Hunter)",
+        "name": "赫里德马尔 (Hreidmarr)",
         "effects": [
-            "This Special Skill never misses its targets.",
-            "The target get -25% defense for 3 turns.",
-            "Deals 530% damage to the target.",
-            "If the target is defeated by the attack, then nearby enemies are inficted with 100 Insanity.",
-            "Inflicts 50 Insanity to the caster."
+            "使用焰暴闪袭攻击所有敌人，造成最多 2200 点伤害。若目标为自然系元素则额外造成 40% 伤害。该特殊技能必定命中。",
+            "施法者在 5 回合内偷取所有敌人生成的法力，一开始偷取量较少，每个回合逐渐增加，直到最后一回合将偷取所有生成的法力。此效果不可净化，但会在施法者被击败后移除。",
+            "每回合结束时偷取全体敌人最新施加的可驱散增益并随机施放给盟友，持续 5 回合。"
         ]
     },
     {
         "originalIndex": 753,
-        "name": "飓风 (Hurricane)",
+        "name": "胡尔达 (Hulda)",
         "effects": [
-            "Deals 410% damage to the target and nearby enemies.",
-            "The duration of status ailments is reset for the target and nearby enemies.",
-            "The target and nearby enemies receive 916 Burn damage over 4 turns. The caster absorbs 50% of dealt Burn damage as health.",
-            "Stack (Max: 10): The caster gets +20% attack against the weaker element."
+            "为每位盟友召唤一名幼虫小兵，其可从施法者处继承 31% 生命值。该小兵可在每回合结束时为其所有者恢复 11% 生命值。",
+            "幼虫小兵被召唤后，在拥有该小兵期间，该小兵会给予其所有者 +24% 法力生成。此效果无法驱散。",
+            "幼虫小兵被召唤后，在拥有该小兵期间，该小兵会给予其所有者 +54% 防御。此效果无法驱散。"
         ]
     },
     {
         "originalIndex": 754,
-        "name": "伊玛古斯 (Imagus)",
+        "name": "胡尔达 (Hulda) C1",
         "effects": [
-            "Wither: All enemies get -400 attack.",
-            "All enemies get -80% decrease for any healing received for 4 turns. This effect can’t be cleansed.",
-            "Lifts the latest cleansable status ailment from all allies and randomly distributes them on enemies.",
-            "Cleanses status ailments from all allies at the end of each turn for 4 turns."
+            "为每位盟友召唤一名幼虫小兵，其可从施法者处继承 36% 生命值。该小兵可在每回合结束时为其所有者恢复 15% 生命值。",
+            "幼虫小兵被召唤后，在拥有该小兵期间，该小兵会给予其所有者 +24% 法力生成。此效果无法驱散。",
+            "幼虫小兵被召唤后，在拥有该小兵期间，该小兵会给予其所有者 +50% 防御。此效果无法驱散。"
         ]
     },
     {
         "originalIndex": 755,
-        "name": "炸脖龙 (Jabberwock)",
+        "name": "狩猎者 (Hunter)",
         "effects": [
-            "Deals 300% damage to the enemies on the edges of the enemy formation, If there is only one enemy alive, the damage is doubled.",
-            "The enemies on the edges of the enemy formation receive 249 poison damage over 3 turns. This effect can't be cleansed."
+            "此特殊技能必定命中。",
+            "目标获得 -25% 防御，持续 3 回合。",
+            "对目标造成 530% 伤害。",
+            "如果目标被此攻击击败，则会对附近敌人施加 100 点狂乱。",
+            "对施法者施加 50 点狂乱。"
         ]
     },
     {
         "originalIndex": 756,
-        "name": "炸脖龙 (Jabberwock) C1",
+        "name": "飓风 (Hurricane)",
         "effects": [
-            "Deals 300% damage to the enemies on the edges of the enemy formation. If there is only one enemy alive, the damage is doubled.",
-            "The enemies on the edges of the enemy formation receive Corrosive Poison for 3 turns. The Corrosive Poison deals 153 Poison damage and lowers the target's mana generation by -12% each turn. This effect can't be cleansed. Deals extra damage against heroes with Minions or Mega Minions."
+            "对目标及附近敌人造成 410% 伤害。",
+            "重置目标和附近敌人的状态异常持续时间。",
+            "目标与附近敌人在 4 回合内受到共计 916 点燃烧伤害。施法者会吸收所造成燃烧伤害的 50% 并转化为生命值。",
+            "叠加（最多 10 层）：施法者对所克制元素的攻击力提高 +20%。"
         ]
     },
     {
         "originalIndex": 757,
-        "name": "杰特 (Jett)",
+        "name": "伊玛古斯 (Imagus)",
         "effects": [
-            "Special Skill has a different effect when charged with 100%/200% mana:",
-            "1x Mana Charge:",
-            " * Deals 290% damage to the target.",
-            " * The target receives 588 Poision damage over 3 turns. The caster absorbs 100% of the dealt Poison damage as heath.",
-            "2x Mana Charge:",
-            " * Deals 300% damage to all enemies.",
-            " * All enemies receives 730 Poision damage over 5 turns. The caster and all their allies absorb 30% of the dealt Poison damage as health."
+            "衰退：所有敌人获得 -400 点攻击力。",
+            "所有敌人获得的治疗减少 -80%，持续 4 回合。此效果无法净化。",
+            "解除所有盟友的全部可净化状态异常，并随机施放给敌人。",
+            "在回合结束时净化所有队友的状态异常，持续 4 回合。"
         ]
     },
     {
         "originalIndex": 758,
-        "name": "影血 (Kageburado)",
+        "name": "炸脖龙 (Jabberwock)",
         "effects": [
-            "Dispels buffs from the target.",
-            "Deals 225% damage to the target.",
-            "Deals 450% damage if the target has more than 50% health remaining."
+            "对位于敌军阵型边缘的敌人造成 300% 伤害。如果仅有一名敌人，则伤害加倍。",
+            "位于阵型边缘的敌人在 3 回合内受到共计 249 点剧毒伤害。此效果无法净化。"
         ]
     },
     {
         "originalIndex": 759,
-        "name": "影血 (Kageburado) C1",
+        "name": "炸脖龙 (Jabberwock) C1",
         "effects": [
-            "Dispels buffs from the target.",
-            "Deals 320% damage to the target.",
-            "The target is immune to new status effect buffs for 2 turns.",
-            "The target gets -34% defense for 2 turns."
+            "对位于敌军阵型边缘的敌人造成 300% 伤害。如果仅有一名敌人，则伤害加倍。",
+            "敌方阵型边缘的敌人受到腐蚀性毒伤，持续 3 回合。腐蚀性毒伤每回合造成 153 点剧毒伤害，并使目标法力生成降低 -12%。此效果无法净化。对拥有小兵或超级小兵的英雄造成额外伤害。"
         ]
     },
     {
         "originalIndex": 760,
-        "name": "卡洛夫 (Karnov)",
+        "name": "杰特 (Jett)",
         "effects": [
-            "Deals 290% damage to all enemies.",
-            "Alters the power of all Dark shields on the board. When an attacking hero casts the special, the shields become enhanced with +64% attack. When a defending hero casts the special, the shields become weakened with -57% attack."
+            "当特殊技能充能至 100% / 200% 法力时将拥有不同的效果：",
+            "1 倍法力充能：",
+            "* 对目标造成 290% 伤害。",
+            "* 目标在 3 回合内受到共计 588 点剧毒伤害。施法者会吸收所造成剧毒伤害的 100% 并转化为生命值。",
+            "2 倍法力充能：",
+            "* 对所有敌人造成 300% 伤害。",
+            "* 所有敌人在 5 回合内受到共计 730 点剧毒伤害。施法者和所有盟友会吸收所造成剧毒伤害的 30% 并转化为生命值。"
         ]
     },
     {
         "originalIndex": 761,
-        "name": "卡洛夫 (Karnov) C1",
+        "name": "影血 (Kageburado)",
         "effects": [
-            "Deals 340% damage to all enemies.",
-            "Alters the power of all Dark shields on the board. When an attacking Hero casts the special, the shields become enhanced with +64% attack. When a defending Hero casts the special, the shields become weakened with -57% attack.",
-            "Deals extra damage against Holy."
+            "驱散目标身上的增益。",
+            "对目标造成 225% 伤害。",
+            "如果目标剩余生命超过 50%，可对其造成 450% 伤害。"
         ]
     },
     {
         "originalIndex": 762,
-        "name": "凯梅尼 (Kemeny)",
+        "name": "影血 (Kageburado) C1",
         "effects": [
-            "Deals 330% damage to all enemies.",
-            "Deals additional 65% damage per status ailment the caster has up to 655% damage in total."
+            "驱散目标身上的增益。",
+            "对目标造成 320% 伤害。",
+            "目标对新的增益状态效果免疫，持续 2 回合。",
+            "目标获得 -34% 防御，持续 2 回合。"
         ]
     },
     {
         "originalIndex": 763,
-        "name": "凯布利 (Khepri)",
+        "name": "卡洛夫 (Karnov)",
         "effects": [
-            "Deals 275% damage to target and nearby enemies.",
-            "Summons a Scarab Bomb Fiend for the target and nearby enemies. The Fiend damages the enemy with 38% attack every turn.",
-            "The Scarab Bomb Fiend absorbs healing and disappears when it has absorbed a health equal to 30% of its owner’s max health.",
-            "The Scarab Bomb Fiend explodes after 3 turns, dealing 600 damage to its target and minor damage to nearby enemies."
+            "对所有敌人造成 290% 伤害。",
+            "面板中所有暗黑系盾牌受到影响。攻击方英雄施放特殊技能时，盾牌得到增强并额外给予 +64% 攻击力；防御方英雄施放特殊技能时，盾牌会被削弱攻击力 -57%。"
         ]
     },
     {
         "originalIndex": 764,
-        "name": "凯布利 (Khepri) C1",
+        "name": "卡洛夫 (Karnov) C1",
         "effects": [
-            "Deals 265% damage to the target and nearby enemies.",
-            "Summons a Scarab Bomb Fiend for the target and nearby enemies. The Fiend damages the enemy with 38% attack every turn.",
-            "The Scarab Bomb Fiend absorbs healing and disappears when it has absorbed health equal to 30% of its owner’s max health.",
-            "The Scarab Bomb Fiend explodes after 3 turns, dealing 900 damage to its target and minor damage to nearby enemies."
+            "对所有敌人造成 340% 伤害。",
+            "改变面板上所有暗黑系盾牌的能量。当进攻方英雄施放特殊技能时，盾牌得到增强，攻击力 +64%。当防御方英雄施放特殊技能时，盾牌被削弱，攻击力 -57%。",
+            "对神圣系造成额外伤害。"
         ]
     },
     {
         "originalIndex": 765,
-        "name": "基奥娜 (Khiona)",
+        "name": "凯梅尼 (Kemeny)",
         "effects": [
-            "Deals 422% damage to the target",
-            "The caster and nearby allies get +45% attack, and a further 20% increase every time they are hit during 3 turns.",
-            "Element Link recovers 4% health for all Dark allies for 6 turns. This effect can't be cleansed"
+            "对所有敌人造成 330% 伤害。",
+            "施法者身上每带有一个状态异常，便造成额外 65% 伤害，最多累计造成 655% 伤害。"
         ]
     },
     {
         "originalIndex": 766,
-        "name": "基奥娜 (Khiona) C1",
+        "name": "凯布利 (Khepri)",
         "effects": [
-            "Deals 350% damage to the target.",
-            "The caster and nearby allies get +45% attack, and a further 20% increase every time they are hit during 4 turns.",
-            "Element Link recovers 4% health for all Dark allies for 6 turns. This effect can’t be dispelled."
+            "对目标及附近敌人造成 275% 伤害。",
+            "召唤圣甲虫炸弹恶魔附身于目标及附近敌人。恶魔每回合对敌人造成 38% 攻击力的伤害。",
+            "圣甲虫炸弹恶魔会吸收治疗。它在吸收了相当于其所有者最大生命值 30% 的治疗量后便会消失。",
+            "圣甲虫炸弹恶魔会在 3 回合后爆炸，对目标造成 600 点伤害并对附近敌人造成轻微伤害。"
         ]
     },
     {
         "originalIndex": 767,
-        "name": "孔舒 (Khonshu)",
+        "name": "凯布利 (Khepri) C1",
         "effects": [
-            "425% damage to the target",
-            "If it attack defeats the target, the caster gains +50% mana."
+            "对目标及附近敌人造成 265% 伤害。",
+            "召唤圣甲虫炸弹恶魔附身于目标及附近敌人。恶魔每回合对敌人造成 38% 攻击力的伤害。",
+            "圣甲虫炸弹恶魔会吸收治疗。它在吸收了相当于其所有者最大生命值 30% 的治疗量后便会消失。",
+            "圣甲虫炸弹恶魔会在 3 回合后爆炸，对目标造成 900 点伤害并对附近敌人造成轻微伤害。"
         ]
     },
     {
         "originalIndex": 768,
-        "name": "孔舒 (Khonshu) C1",
+        "name": "基奥娜 (Khiona)",
         "effects": [
-            "450% damage to the target.",
-            "If it attack defeats the target, the caster gains +45% mana."
+            "对目标造成 422% 伤害。",
+            "施法者和附近盟友获得 +45% 攻击力，每次被击中后额外增加 20% 攻击力，持续 3 回合。",
+            "元素链为所有暗黑系盟友提供 4% 的生命恢复，持续 6 回合。此效果无法净化。"
         ]
     },
     {
         "originalIndex": 769,
-        "name": "杀戮野兔 (Killhare)",
+        "name": "基奥娜 (Khiona) C1",
         "effects": [
-            "Deals 300% damage to all enemies.",
-            "All allies except the caster get -20% defense for 3 turns. This effect can't be cleansed."
+            "对目标造成 350% 伤害。",
+            "施法者和附近盟友获得 +45% 攻击力，每次被击中后额外增加 20% 攻击力，持续 4 回合。",
+            "元素链为所有暗黑系盟友提供 4% 的生命恢复，持续 6 回合。此效果无法驱散。"
         ]
     },
     {
         "originalIndex": 770,
-        "name": "杀戮野兔 (Killhare) C1",
+        "name": "孔舒 (Khonshu)",
         "effects": [
-            "Deals 330% damage to all enemies.",
-            "All allies except the caser get -20% attack for 3 turns. This effect can't be cleansed."
+            "对目标造成 425% 伤害。",
+            "若该攻击将敌人击败，那么施法者将获得 +50% 法力。"
         ]
     },
     {
         "originalIndex": 771,
-        "name": "红心骑士 (Knave of Hearts)",
+        "name": "孔舒 (Khonshu) C1",
         "effects": [
-            "Deals 300% damage to the target and nearby enemies.",
-            "The target automatically casts Mindless Attack on a random ally when the mana is full at the start of a turn during 3 turns.",
-            "Summons a Tart Minion for each ally with 10% HP and 32% attack inherited from the caster. The Minion recovers 10% health for its owner when it is defeated."
+            "对目标造成 450% 伤害。",
+            "若该攻击将敌人击败，那么施法者将获得 +45% 法力。"
         ]
     },
     {
         "originalIndex": 772,
-        "name": "奈特司 (Knightus)",
+        "name": "杀戮野兔 (Killhare)",
         "effects": [
-            "Deals 540% damage to the target.",
-            "The target enemy receives Devouring Goo status ailment for 3 turns.",
-            "Devouring Goo: Removes all dispellable buffs and Growth effects, deals 200 damage per turn and 100 damage per each removed effect. (If the target already has this effect, the duration will be refreshed and an extra damage from the removed effects will be added to the new effect. Damage per turn can’t exceed 700.",
-            "After 1 turn the target gets Paralyzed for 4 turns. (Paralyzed enemies can’t attack or gain mana and receive +50% increased damage. )",
-            "All Holy enemies get -34% defense against Dark for 3 turns."
+            "对所有敌人造成 300% 伤害。",
+            "除施法者外的所有盟友获得 -20% 防御，持续 3 回合。此效果无法净化。"
         ]
     },
     {
         "originalIndex": 773,
-        "name": "坤奇恩 (Kunchen)",
+        "name": "杀戮野兔 (Killhare) C1",
         "effects": [
-            "Recovers 45% health for all allies.",
-            "All enemies get -34% defense for 5 turns.",
-            "Cleanses status ailments from all allies.",
-            "Element Link gives all Dark allies +46% defense against Holy for 4 turns. This effect can't be cleansed."
+            "对所有敌人造成 330% 伤害。",
+            "除施法者外的所有盟友获得 -20% 攻击力，持续 3 回合。此效果无法净化。"
         ]
     },
     {
         "originalIndex": 774,
-        "name": "勒皮奥塔 (Lepiota)",
+        "name": "红心骑士 (Knave of Hearts)",
         "effects": [
-            "Deals 158% damage to the target.",
-            "Cast Full Removal on the target. (Full Removal removes all status efects, stacks and Growth and Wither effects. Removes even status effects and stacks that are otherwise undispellable or uncleasable.)",
-            "The target shifts into Abyss Ghost form for 4 turns.",
-            "While in Abyss Ghost form the target receives 88 damage each turn.",
-            "While in Ghost form, Character can’t gain mana and can’t be healed by Special Skills, but it is immune to normal attacks, damage dealing passives, status effects and stacks. Immune to new Growth and Wither effects.",
-            "Can't be cast if there's only one enemy left in battle."
+            "对目标及附近敌人造成 300% 伤害。",
+            "在 3 回合内，若目标在回合开始时法力满格，该目标将自动对一名随机盟友施放莽夫乱拳。",
+            "为每位盟友召唤一个馅饼小兵，其可从施法者处继承 10% 生命值和 32% 攻击力。该小兵在阵亡时会为其所有者恢复 10% 生命。"
         ]
     },
     {
         "originalIndex": 775,
-        "name": "勒皮奥塔 (Lepiota) C1",
+        "name": "奈特司 (Knightus)",
         "effects": [
-            "Deals 150% damage to the target.",
-            "Cast Full Removal on the target. (Full Removal removes all status efects, stacks and Growth and Wither effects. Removes even status effects and stacks that are otherwise undispellable or uncleasable.)",
-            "The target shifts into Abyss Ghost form for 4 turns.",
-            "While in Abyss Ghost form the target receives 174 damage each turn.",
-            "While in Ghost form, Character can’t gain mana and can’t be healed by Special Skills, but it is immune to normal attacks, damage dealing passives, status effects and stacks. Immune to new Growth and Wither effects.",
-            "Can't be cast if there's only one enemy left in battle."
+            "对目标造成 540% 伤害。",
+            "目标敌人受到吞噬粘物状态异常，持续 3 回合。",
+            "吞噬粘物：移除所有可驱散的增益和成长效果，每回合造成 200 点伤害，并根据移除的效果数量每个造成 100 点伤害（如果目标已拥有此效果，则刷新持续时间，并将因移除效果而造成的额外伤害添加到新效果中。每回合伤害不能超过 700 ）。",
+            "1 回合后，目标获得麻木，持续 4 回合。（麻木的敌人无法攻击或获得法力，并且受到的伤害增加 +50% ）",
+            "所有神圣系敌人获得对暗黑系 -34% 的防御，持续 3 回合。"
         ]
     },
     {
         "originalIndex": 776,
-        "name": "娄希 (Louhi)",
+        "name": "坤奇恩 (Kunchen)",
         "effects": [
-            "Dispels buffs from all enemies.",
-            "Deals 250% damage to all enemies.",
-            "All enemies get -24% defense for 4 turns. Against Holy characters, this status effect becomes uncleansable and last 2 turns longer."
+            "为所有盟友恢复 45% 生命值。",
+            "所有敌人获得 -34% 防御，持续 5 回合。",
+            "净化所有盟友的状态异常。",
+            "元素链为全体暗黑系盟友提供针对神圣系 +46% 的防御，持续 4 回合。此效果无法净化。"
         ]
     },
     {
         "originalIndex": 777,
-        "name": "吕布 (Lu Bu)",
+        "name": "勒皮奥塔 (Lepiota)",
         "effects": [
-            "Deals 330% damage to all enemies.",
-            "Summons a Mercenary Fiend for all enemies. The Fiend damages its target with 56% attack every turn.",
-            "The Mercenary Fiend absorbs healing. It disappears after absorbing a healing amount equal to 38% of its target’s max health.",
-            "When summoned, the Mercenary Fiend  causes its target to be immune to new buffs. The effect lasts as long as the target has Mercenary Fiend. This effect can’t be cleansed."
+            "对目标造成 158% 伤害。",
+            "对目标释放完全移除。（完全移除可以移除目标的所有状态效果、叠加效果、成长效果和衰退效果。包含不可驱散或不可净化的状态效果和叠加效果）",
+            "目标转变为深渊幽灵形态，持续 4 回合。",
+            "处于深渊幽灵形态期间，目标每回合受到 88 点伤害。",
+            "处于幽灵形态期间，角色无法获得法力，也不能被特殊技能治疗，但对普通攻击、伤害性被动、状态效果和叠加效果免疫。对新的成长和衰退效果免疫。",
+            "若战斗中仅剩一名敌人，则无法施放。"
         ]
     },
     {
         "originalIndex": 778,
-        "name": "吕布 (Lu Bu) C1",
+        "name": "勒皮奥塔 (Lepiota) C1",
         "effects": [
-            "Deals 320% damage to all enemies.",
-            "Summons a Mercenary Fiend for all enemies. The Fiend damages the enemy with 70% attack every turn.",
-            "The Mercenary Fiend absorbs healing and disappears when it has absorbed health equal to 50% of its target’s max health.",
-            "When summoned, the Mercenary Fiend causes its target to be immune to new buffs. The effect lasts as long as the target has Mercenary Fiends. This effect can’t be cleansed."
+            "对目标造成 150% 伤害。",
+            "对目标释放完全移除。（完全移除可以移除目标的所有状态效果、叠加效果、成长效果和衰退效果。包含不可驱散或不可净化的状态效果和叠加效果）",
+            "目标转变为深渊幽灵形态，持续 4 回合。",
+            "处于深渊幽灵形态期间，目标每回合受到 174 点伤害。",
+            "处于幽灵形态期间，角色无法获得法力，也不能被特殊技能治疗，但对普通攻击、伤害性被动、状态效果和叠加效果免疫。对新的成长和衰退效果免疫。",
+            "若战斗中仅剩一名敌人，则无法施放。"
         ]
     },
     {
         "originalIndex": 779,
-        "name": "卢辛达 (Lucinda)",
+        "name": "娄希 (Louhi)",
         "effects": [
-            "Deals 470% damage to target and nearby enemies.",
-            "The target and nearby enemies get -40% accuracy for 6 turns. Chance to miss also applies to offensive Special Skills.",
-            "The target and nearby enemies get -34% defense for 6 turns.",
-            "The caster regenerates 918 HP over 6 turns."
+            "驱散所有敌人的增益。",
+            "对所有敌人造成 250% 伤害。",
+            "所有敌人获得 -24% 防御，持续 4 回合。对神圣系角色，此状态效果不可净化且持续时间延长 2 回合。"
         ]
     },
     {
         "originalIndex": 780,
-        "name": "路德维希 (Ludwig)",
+        "name": "娄希 (Louhi) C1",
         "effects": [
-            "The caster gets Taunt that prevents enemies from using Special Skills on the caster's allies for 6 turns.",
-            "The caster gets +84% defense against Special Skills for 6 turns.",
-            "Nearby allies receive mana each turn for 6 turns. Received mana increases each turn until the last turn, when 100% mana is received."
+            "驱散所有敌人的增益。",
+            "对所有敌人造成 280% 伤害。",
+            "所有敌人获得 -30% 防御，持续 4 回合。此状态效果施加于神圣系角色身上时，将变得不可净化，并会额外持续 2 回合。"
         ]
     },
     {
         "originalIndex": 781,
-        "name": "露娜 (Luna)",
+        "name": "吕布 (Lu Bu)",
         "effects": [
-            "Recovers 20% health for the caster and nearby allies.",
-            "At the end of each turn caster and nearby allies shoot a Moon Beam at a random enemy for 3 turns.",
-            "Each Moon Beam deals 140% damage.",
-            "Each Moon Beam reduces the mana of the hit enemy by 5%."
+            "对所有敌人造成 330% 伤害。",
+            "召唤佣兵恶魔附身于所有敌人。恶魔每回合对其目标造成 56% 攻击力的伤害。",
+            "佣兵恶魔会吸收治疗。它在吸收了相当于其目标最大生命值 38% 的治疗量后便会消失。",
+            "佣兵恶魔被召唤后，只要其所有者拥有佣兵恶魔，其所有者就会对新的增益免疫。此效果无法净化。"
         ]
     },
     {
         "originalIndex": 782,
-        "name": "吉莉夫人 (Madame Giry)",
+        "name": "吕布 (Lu Bu) C1",
         "effects": [
-            "Deals 340% damage to all enemies.",
-            "Summons a Ballerina Fiend for all enemies. The Fiend damage the enemy with 110% attack every turn.",
-            "The Ballerina Fiend aborbs healing and disappers when it has absorbed health equal to 45% of its target’s max health.",
-            "When summoned, the Ballerina Fiend causes its target to be immune to new buffs. This effect lasts as long as the target has Ballerina Fiends. This effect can’t be cleansed.",
-            "All enemies get -44% defense against Dark for 4 turns."
+            "对所有敌人造成 320% 伤害。",
+            "召唤佣兵恶魔附身于所有敌人。恶魔每回合对敌人造成 70% 攻击力的伤害。",
+            "佣兵恶魔会吸收治疗。它在吸收了相当于其目标最大生命值 50% 的治疗量后便会消失。",
+            "佣兵恶魔被召唤后，只要其所有者拥有佣兵恶魔，其所有者就会对新的增益免疫。此效果无法净化。"
         ]
     },
     {
         "originalIndex": 783,
-        "name": "麦希 (Maisie)",
+        "name": "卢辛达 (Lucinda)",
         "effects": [
-            "Boosts health of all allies by 800. Boosted health can exceed max HP.",
-            "Boosts health of all allies by 160 foreach status ailment the ally has, up to 800 health in total.",
-            "Summons a Shield Guard Mega Minion with 65% HP and 180% attack inherited from the caster.",
-            "The Shield Guard Mega Minion safely cleanses the latest cleansable status ailment from all allies each turn. (Safe cleanse bypasses secondary effect, such as damage on removal, from the removed status ailment. External effects such as passive skills and family effects can still activate.)"
+            "对目标及附近敌人造成 470% 伤害。",
+            "目标与附近敌人获得 -40% 精准度，持续 6 回合。进攻型特殊技能也有相同几率落空。",
+            "目标与附近敌人获得 -34% 防御，持续 6 回合。",
+            "施法者在 6 回合内恢复 918 点生命值。"
         ]
     },
     {
         "originalIndex": 784,
-        "name": "马利克纳 (Malicna)",
+        "name": "路德维希 (Ludwig)",
         "effects": [
-            "Deals 350% damage to the target and nearby enemies",
-            "Randomly casts one of the following alternatives:",
-            "Alternative 1:",
-            " * The target and nearby enemies get -54% defense for 3 turns",
-            " * The target and nearby enemies get -54% attack for 3 turns",
-            " * The target and nearby enemies get -34% mana generation for 3 turns",
-            "Alternative 2:",
-            " * The target and nearby enemies get -24% defense for 3 turns",
-            "Alternative 3:",
-            " * The target and nearby enemies get -24% attack for 3 turns",
-            "",
-            "Element Link gives all Dark allies small amount of mana at the end of the turn for 4 turns. This effect can't be dispelled"
+            "施法者获得嘲讽，可阻止敌人对其盟友使用特殊技能，持续 6 回合。",
+            "施法者获得 +84% 特殊技能防御，持续 6 回合。",
+            "附近盟友获得法力，持续 6 回合。每回合获得的法力都会增加，直到最后一回合会获得 100% 的法力。"
         ]
     },
     {
         "originalIndex": 785,
-        "name": "玛丽-特瑞莎 (Marie-Therese)",
+        "name": "露娜 (Luna)",
         "effects": [
-            "Deals 168% damage to all enemies",
-            "All allies regenerate 612 HP over 4 turns",
-            "All allies get +30% defense for 4 turns",
-            "All allies receive Zombie Blessing. If the blessed hero dies in the next 4 turns, they will be reborn as a Zombie with:",
-            "* 100% inherited health",
-            "* 500 attack",
-            "* 500 defense",
-            "* Special Skill:",
-            "Poison Bite."
+            "为施法者和附近盟友恢复 20% 生命值。",
+            "每回合结束时，施法者和附近盟友对随机一名敌人发射一道银月光束，持续 3 回合。",
+            "每道银月光束造成 140% 伤害。",
+            "每道银月光束都会使命中敌人的法力减少 5%。"
         ]
     },
     {
         "originalIndex": 786,
-        "name": "玛丽-特瑞莎 (Marie-Therese) C1",
+        "name": "吉莉夫人 (Madame Giry)",
         "effects": [
-            "Deals 138% damage to all enemies.",
-            "All allies regenerae 600 boosted health over 4 turns. Boosted health can exceed max HP. This effect can't be dispelled.",
-            "All allies get +30% defense for 4 turns. This effect can't be dispelled.",
-            "All allies receive Zombie Blessing. If the blessed Hero dies in the next 4 turns, they will be reborn as a Zombie with:",
-            "* 100% inherited health",
-            "* 500 attack",
-            "* 500 defense",
-            "* Special Skill: Poison Bite."
+            "对所有敌人造成 340% 伤害。",
+            "召唤芭蕾舞者恶魔附身于所有敌人。恶魔每回合对敌人造成 110% 攻击力的伤害。",
+            "芭蕾舞者恶魔会吸收治疗。它在吸收了相当于其目标最大生命值 45% 的治疗量后便会消失。",
+            "芭蕾舞者恶魔被召唤后，只要其所有者拥有芭蕾舞者恶魔，其所有者就会对新的增益免疫。此效果无法净化。",
+            "所有敌人获得对暗黑系 -44% 的防御，持续 4 回合。"
         ]
     },
     {
         "originalIndex": 787,
-        "name": "莫德 (Maud)",
+        "name": "麦希 (Maisie)",
         "effects": [
-            "Deals 500% damage to the enemy with the lowest remaining HP. Deals 280% damage to all other enemies.",
-            "Enhanced Dodge: The caster gets +60% chance to dodge Special Skills that deal damage. This effect lasts until the caster sucessfully dodges 3 times.",
-            "After the Enhanced Dodge ends or is removed or replaced, the caster gains 10% mana."
+            "提高所有盟友 800 点生命值。提高的生命值可以超过最大生命值。",
+            "盟友每拥有一个状态异常，则额外提升 160 点生命值，至多恢复总计 800 点生命值。",
+            "召唤一个持盾守卫超级小兵，其可从施法者处继承 65% 生命值和 180% 攻击力。",
+            "每回合持盾守卫超级小兵会安全净化所有盟友最后获得的可净化状态异常。（安全净化会无视状态异常被移除时的副作用，例如移除时的伤害。被动技能和家族效果等外来效果仍会生效）"
         ]
     },
     {
         "originalIndex": 788,
-        "name": "美狄亚 (Medea)",
+        "name": "马利克纳 (Malicna)",
         "effects": [
-            "Special Skill need consecutive uses to reach full power, the following order:",
-            "1st:",
-            " * Deals 365% damage to the target and nearby enemies.",
-            " * The target automatically casts Shifting Mindless Attack on a random ally when mana is full at the start of a turn during 3 turns. When this effect is triggered, it shifts to the hit ally and the duration is refreshed.",
-            " * The target and nearby enemies get -50% decrease for any healing received for 3 turns.",
-            "2nd:",
-            " * Deals 430% damage to the target and nearby enemies.",
-            " * The target automatically casts Shifting Mindless Attack on a random ally when mana is full at the start of a turn during 4 turns. When this effect is triggered, it shifts to the hit ally and the duration is refreshed.",
-            " * The target and nearby enemies get -75% decrease for any healing received for 4 turns."
+            "对目标及附近敌人造成 350% 伤害。",
+            "随机施放以下一种效果：",
+            "方案 1：",
+            "* 目标与附近敌人获得 -54% 防御，持续 3 回合。",
+            "* 目标与附近敌人获得 -54% 攻击力，持续 3 回合。",
+            "* 目标与附近敌人获得 -34% 法力生成，持续 3 回合。",
+            "方案 2：",
+            "* 目标与附近敌人获得 -24% 防御，持续 3 回合。",
+            "方案 3：",
+            "* 目标与附近敌人获得 -24% 攻击力，持续 3 回合。",
+            "元素链在回合结束时为所有暗黑系盟友恢复少量法力，持续 4 回合。此效果无法驱散。"
         ]
     },
     {
         "originalIndex": 789,
-        "name": "美狄亚 (Medea) C1",
+        "name": "玛丽-特瑞莎 (Marie-Therese)",
         "effects": [
-            "Special Skill need consecutive uses to reach full power, the following order:",
-            "1st:",
-            " * Deals 355% damage to the target and nearby enemies.",
-            " * The target automatically casts Shifting Mindless Attack on a random ally when mana is full at the start of a turn during 3 turns. When this effect is triggered, it shifts to the hit ally and the duration is refreshed.",
-            " * The target and nearby enemies get -45% decrease for any healing received for 3 turns.",
-            "2nd:",
-            " * Deals 450% damage to the target and nearby enemies.",
-            " * The target automatically casts Shifting Mindless Attack on a random ally when mana is full at the start of a turn during 4 turns. When this effect is triggered, it shifts to the hit ally and the duration is refreshed.",
-            " * The target and nearby enemies get -85% decrease for any healing received for 4 turns."
+            "对所有敌人造成 168% 伤害。",
+            "所有盟友在 4 回合内恢复 612 点生命值。",
+            "所有盟友获得 +30% 防御，持续 4 回合。",
+            "所有盟友获得僵尸护佑。若受祝福的英雄在接下来的 4 回合内阵亡，他们将重生为僵尸，并拥有：",
+            "* 100% 继承生命值。",
+            "* 500 攻击力。",
+            "* 500 防御。",
+            "* 特殊技能：",
+            "毒牙撕咬。"
         ]
     },
     {
         "originalIndex": 790,
-        "name": "忧郁者 (Melancholia)",
+        "name": "玛丽-特瑞莎 (Marie-Therese) C1",
         "effects": [
-            "Revives all allies with 70% HP and 50 Insanity.",
-            "All allies get +74% defense against Special Skills for 5 turns.",
-            "If any ally except the caster is defeated in 5 turns, all enemies receive 400 damage.",
-            "Inflicts 55 Insanity on the caster."
+            "对所有敌人造成 138% 伤害。",
+            "所有盟友在 4 回合内获得共计 600 点生命加成。提高的生命值可以超过最大生命值。此效果无法驱散。",
+            "所有盟友获得 +30% 防御，持续 4 回合。此效果无法驱散。",
+            "所有盟友获得僵尸护佑。若受祝福的英雄在接下来的 4 回合内阵亡，他们将重生为僵尸，并拥有：",
+            "* 100% 继承生命值。",
+            "* 500 攻击力。",
+            "* 500 防御。",
+            "* 特殊技能：毒牙撕咬。"
         ]
     },
     {
         "originalIndex": 791,
-        "name": "巨齿鲨 (Mok-Arr)",
+        "name": "莫德 (Maud)",
         "effects": [
-            "Deals 270% damage to all enemies.",
-            "Deals 50% damage to all allies.",
-            "Deals extra damage against Holy.",
-            "All Dark allies and enemies are immune to this attack."
+            "对剩余生命值最低的敌人造成 500% 伤害。对其他所有敌人造成 280% 伤害。",
+            "强化闪避：施法者拥有 +60% 几率闪避可以造成伤害的特殊技能。此效果在施法者成功闪避 3 次后消失。",
+            "强化闪避结束后、被移除或被替换后，施法者获得 10% 法力。"
         ]
     },
     {
         "originalIndex": 792,
-        "name": "巨齿鲨 (Mok-Arr) C1",
+        "name": "美狄亚 (Medea)",
         "effects": [
-            "Deals 280% damage to all enemies.",
-            "All Dark allies and enemies get +54% attack for 4 turns.",
-            "All allies and enemies that are not Dark element get -44% attack for 4 turns. This effect is uncleansable for all Holy enemies.",
-            "Deals extra damage against Holy."
+            "必须连续使用特殊技能才能达到其最大威力，顺序为：",
+            "第一次：",
+            "* 对目标及附近敌人造成 365% 伤害。",
+            "* 在 3 回合内，若目标在回合开始时法力满格，该目标将自动对一名随机盟友施放莽夫乱拳交错。触发此效果时，该效果将转移到被击中的盟友身上并刷新持续时间。",
+            "* 目标与附近敌人获得的治疗减少 -50%，持续 3 回合。",
+            "第二次：",
+            "* 对目标及附近敌人造成 430% 伤害。",
+            "* 在 4 回合内，若目标在回合开始时法力满格，该目标将自动对一名随机盟友施放莽夫乱拳交错。触发此效果时，该效果将转移到被击中的盟友身上并刷新持续时间。",
+            "* 目标与附近敌人获得的治疗减少 -75%，持续 4 回合。"
         ]
     },
     {
         "originalIndex": 793,
-        "name": "摩拉克斯 (Morax)",
+        "name": "美狄亚 (Medea) C1",
         "effects": [
-            "Deals 430% damage to the target and minor damage to nearby enemies.",
-            "The target gets -24% mana generation for 4 turns.",
-            "Reduces max health of the target’s nearby enemies by 600. Max health can’t be lower than 30% of the original max health. Any boosted health is reduced by an additional 600.",
-            "Element Link gives all Dark allies immunity to new Fiends for 4 turns. This effect cannot be dispelled"
+            "必须连续使用特殊技能才能达到其最大威力，顺序为：",
+            "第一次：",
+            "* 对目标及附近敌人造成 355% 伤害。",
+            "* 在 3 回合内，若目标在回合开始时法力满格，该目标将自动对一名随机盟友施放莽夫乱拳交错。触发此效果时，该效果将转移到被击中的盟友身上并刷新持续时间。",
+            "* 目标与附近敌人获得的治疗减少 -45%，持续 3 回合。",
+            "第二次：",
+            "* 对目标及附近敌人造成 450% 伤害。",
+            "* 在 4 回合内，若目标在回合开始时法力满格，该目标将自动对一名随机盟友施放莽夫乱拳交错。触发此效果时，该效果将转移到被击中的盟友身上并刷新持续时间。",
+            "* 目标与附近敌人获得的治疗减少 -85%，持续 4 回合。"
         ]
     },
     {
         "originalIndex": 794,
-        "name": "死亡女巫 (Mortewitch)",
+        "name": "忧郁者 (Melancholia)",
         "effects": [
-            "Deals 800% damage to the target.",
-            "The attack bypasses defensive buffs. (This includes counterattacks.)",
-            "Heals all allies for 40% of damage dealt.",
-            "Summons a Grave Mothling Mega Fiend for the target. The Fiend damages the enemy with 270% attack every turn.",
-            "The Grave Mothling Mega Fiend absorbs healing and disappears when it has absorbed health equal to 80% of its owner’s max health.",
-            "When summoned, the Grave Mothling Mega Fiend increases the damage dealt to its target from all sources by +50%. The effect lasts as long as the owner has Grave Mothling Mega Fiend."
+            "复活所有阵亡的盟友，使其以 70% 生命值和 50 点狂乱返回战场。",
+            "所有盟友获得 +74% 特殊技能防御，持续 5 回合。",
+            "若除施法者以外的任何盟友在 5 回合内被击败，则所有敌人受到 400 点伤害。",
+            "对施法者施加 55 点狂乱。"
         ]
     },
     {
         "originalIndex": 795,
-        "name": "莫迪默 (Mortimer)",
+        "name": "巨齿鲨 (Mok-Arr)",
         "effects": [
-            "Deals 480% damage to target and a minor damage to nearby enemies.",
-            "The target and nearby enemies get silenced for 3 turns.",
-            "The caster and nearby allies resist new effects that block usage of Special Skills for 3 turns."
+            "对所有敌人造成 270% 伤害。",
+            "对所有盟友造成 50% 伤害。",
+            "对神圣系造成额外伤害。",
+            "所有暗黑系盟友与敌人对此攻击免疫。"
         ]
     },
     {
         "originalIndex": 796,
-        "name": "神秘人 (Myztero)",
+        "name": "巨齿鲨 (Mok-Arr) C1",
         "effects": [
-            "Deals 175% damage to all enemies.",
-            "All status ailments memorized by the innate ability are cast to all enemies."
+            "对所有敌人造成 280% 伤害。",
+            "所有暗黑系盟友与敌人获得 +54% 攻击力，持续 4 回合。",
+            "暗黑系以外的所有盟友与敌人获得 -44% 攻击力，持续 4 回合。所有神圣系敌人无法净化此效果。",
+            "对神圣系造成额外伤害。"
         ]
     },
     {
         "originalIndex": 797,
-        "name": "娜希莎 (Narcisa)",
+        "name": "摩拉克斯 (Morax)",
         "effects": [
-            "Deals 240% damage to all enemies.",
-            "The duration of status ailments is reset for all enemies.",
-            "All enemies get -34% attack for 3 turns."
+            "对目标造成 430% 伤害，并对附近敌人造成轻微伤害。",
+            "目标获得 -24% 法力生成，持续 4 回合。",
+            "使目标附近的敌人减少 600 点最大生命值。最大生命值不能低于初始最大生命值的 30%。任何提高的生命值会额外减少 600 点。",
+            "元素链使全体暗黑系盟友对新恶魔免疫，持续 4 回合。此效果无法驱散。"
         ]
     },
     {
         "originalIndex": 798,
-        "name": "倪克斯 (Nyx)",
+        "name": "死亡女巫 (Mortewitch)",
         "effects": [
-            "Special Skill has a different effect when charged with 100% / 200% / 300% mana:",
-            "1x Mana Charge:",
-            " * Deals 220% damage to all enemies.",
-            " * All allies get +30% attack for 3 turns.",
-            "2x Mana Charge:",
-            " * Deals 360% damage to all enemies.",
-            " * All enemies get -34% defense for 3 turns.",
-            "3x Mana Charge:",
-            " * Deals 395% damage to all enemies.",
-            " * All allies get +50% attack for 4 turns.",
-            " * All enemies get -44% defense for 4 turns."
+            "对目标造成 800% 伤害。",
+            "攻击会无视防御增益。（包括反击）",
+            "为所有盟友恢复等同于所造成伤害 40% 的生命值。",
+            "召唤墓穴蛾灵超级恶魔附身于目标。恶魔每回合对敌人造成 270% 攻击力的伤害。",
+            "墓穴蛾灵超级恶魔会吸收治疗，当吸收的治疗量达到其所有者最大生命值的 80% 时，它便会消失。",
+            "墓穴蛾灵超级恶魔被召唤后，只要其所有者拥有墓穴蛾灵超级恶魔，其所有者受到的所有伤害就会增加 +50%。"
         ]
     },
     {
         "originalIndex": 799,
-        "name": "欧巴坎 (Obakan)",
+        "name": "莫迪默 (Mortimer)",
         "effects": [
-            "Deals 310% damage to the target and minor damage to nearby enemies.",
-            "The caster counterattacks with 115% of the damage received for 4 turns."
+            "对目标造成 480% 伤害，并对附近敌人造成轻微伤害。",
+            "目标与附近敌人陷入沉默，持续 3 回合。",
+            "施法者和附近盟友均可抵抗禁用特殊技能的效果，持续 3 回合。"
         ]
     },
     {
         "originalIndex": 800,
-        "name": "欧巴坎 (Obakan) C1",
+        "name": "神秘人 (Myztero)",
         "effects": [
-            "Deals 182% damage to all enemies.",
-            "The caster and nearby allies counterattack with 85% of the damage receied for 4 turns."
+            "对所有敌人造成 175% 伤害。",
+            "对全体敌人施放其天赋所回溯的所有状态异常。"
         ]
     },
     {
         "originalIndex": 801,
-        "name": "欧巴坎 (Obakan) C2",
+        "name": "娜希莎 (Narcisa)",
         "effects": [
-            "Deals 260% damage to the target and nearby enemies.",
-            "The caster and nearby allies counterattack with 95% of the damage received for 3 turns.",
-            "The caster and nearby allies regenerate a moderate amount of mana for each counterattack. The effect gets diminished for consecutive activations during the same turn."
+            "对所有敌人造成 240% 伤害。",
+            "重置所有敌人的状态异常持续时间。",
+            "所有敌人获得 -34% 攻击力，持续 3 回合。"
         ]
     },
     {
         "originalIndex": 802,
-        "name": "欧巴坎 (Obakan) 卡通",
+        "name": "倪克斯 (Nyx)",
         "effects": [
-            "Deals 390% damage to the target and minor damage to nearby enemies.",
-            "The caster counterattacks with 110% of the damage received for 4 turns.",
-            "Deals extra damage against Holy."
+            "当特殊技能充能至 100% / 200% / 300% 法力时将拥有不同的效果：",
+            "1 倍法力充能：",
+            "* 对所有敌人造成 220% 伤害。",
+            "* 所有盟友获得 +30% 攻击力，持续 3 回合。",
+            "2 倍法力充能：",
+            "* 对所有敌人造成 360% 伤害。",
+            "* 所有敌人获得 -34% 防御，持续 3 回合。",
+            "3 倍法力充能：",
+            "* 对所有敌人造成 395% 伤害。",
+            "* 所有盟友获得 +50% 攻击力，持续 4 回合。",
+            "* 所有敌人获得 -44% 防御，持续 4 回合。"
         ]
     },
     {
         "originalIndex": 803,
-        "name": "欧巴坎 (Obakan) 玻璃",
+        "name": "欧巴坎 (Obakan)",
         "effects": [
-            "Deals 400% damage to the target and minor damage to nearby enemies.",
-            "The attack bypasses defensive buffs. (This includes counterattacks.)",
-            "The caster counterattacks with 120% of the damage received for 4 turns."
+            "对目标造成 310% 伤害，并对附近敌人造成轻微伤害。",
+            "施法者以所受伤害的 115% 进行反击，持续 4 回合。"
         ]
     },
     {
         "originalIndex": 804,
-        "name": "奥迪尔 (Odile)",
+        "name": "欧巴坎 (Obakan) C1",
         "effects": [
-            "Boosts health for all allies by 475. Boosted health can exceed max HP.",
-            "Casts Dance of the Black Swan to all allies but caster for 4 turns. All existing status effects will be removed when this effect is added.",
-            "Dance of the Black Swan:",
-            " * At the end of each turn each dancer deal 155% damage to a random enemy and boosts health for themselves with 25% of total damage dealt.",
-            " * Gives immunity to new status effects. New dance status effects will replace this effect.",
-            " * This effect cannot be dispelled. The effect is removed when the caster is defeated."
+            "对所有敌人造成 182% 伤害。",
+            "施法者和附近盟友以所受伤害的 85% 进行反击，持续 4 回合。"
         ]
     },
     {
         "originalIndex": 805,
-        "name": "奥莫德斯 (Ommodus)",
+        "name": "欧巴坎 (Obakan) C2",
         "effects": [
-            "Destroys all Fiends from all allies. This effect damages Mega Fiends.",
-            "This Special Skill never misses its targets.",
-            "Attacks all enemies with Moonrise Strike, dealing up to 2000 damage. Deals 40% more damage if the target is Holy.",
-            "All allies get 5% mana for each destroyed Fiend."
+            "对目标及附近敌人造成 260% 伤害。",
+            "施法者和附近盟友以所受伤害的 95% 进行反击，持续 3 回合。",
+            "施法者和附近盟友每次反击可恢复适量法力。同一回合中效果经连续激活会减弱。"
         ]
     },
     {
         "originalIndex": 806,
-        "name": "玛瑙 (Onyx)",
+        "name": "欧巴坎 (Obakan) 卡通",
         "effects": [
-            "1x Mana Charge",
-            "* Deals 300% damage to the target.",
-            "* The target is immune to new status effects buffs for 3 turns.",
-            "* Dispels buffs from the target.",
-            "2x Mana Charge",
-            "* Deals 340% damage to the target and nearby enemies.",
-            "* The target and nearby enemies are immune to new status effects buffs for 4 turns.",
-            "* Dispels buffs from the target and nearby enemies.",
-            "3x Mana Charge",
-            "* Deals 380% damage to all enemies.",
-            "* All enemies are immune to new status effects buffs for 5 turns.",
-            "* Dispels buffs from all enemies."
+            "对目标造成 390% 伤害，并对附近敌人造成轻微伤害。",
+            "施法者以所受伤害的 110% 进行反击，持续 4 回合。",
+            "对神圣系造成额外伤害。"
         ]
     },
     {
         "originalIndex": 807,
-        "name": "薄荷 (Peppermint)",
+        "name": "欧巴坎 (Obakan) 玻璃",
         "effects": [
-            "Deals 250% damage to all enemies.",
-            "Summons an Elf Minion for each ally with 10% HP and 10% attack inherited from the caster.",
-            "All enemies receive 280 Poison damage, and an increase of 16 damage per each Dark shield on the board over 4 turns up to 408 damage."
+            "对目标造成 400% 伤害，并对附近敌人造成轻微伤害。",
+            "攻击会无视防御增益。（包括反击）",
+            "施法者以所受伤害的 120% 进行反击，持续 4 回合。"
         ]
     },
     {
         "originalIndex": 808,
-        "name": "歌剧魅影 (Phantom of the Opera)",
+        "name": "奥迪尔 (Odile)",
         "effects": [
-            "Deals 405% damage to the target and nearby enemies.",
-            "The target and nearby enemies dance to Ballad of Obsession for 4 turns.  All existing status effects will be removed when this effect is added.",
-            "Ballad of Obsession",
-            "* -40% mana generation.",
-            "* -40% decrease for any healing received.",
-            "* Gives immunity to new status effects.",
-            "* This effect cannot be dispelled. The effect is removed when the caster dies."
+            "提高所有盟友 475 点生命值。提高的生命值可以超过最大生命值。",
+            "对除施法者外的所有盟友施放黑天鹅之舞，持续 4 回合。添加此效果时将移除所有现有状态效果。",
+            "黑天鹅之舞：",
+            "* 每回合结束时，每个舞者对随机一名敌人造成 155% 伤害，并为自身提高等同于所造成总伤害 25% 的生命值。",
+            "* 免疫新的状态效果。新的舞蹈状态效果将取代此效果。",
+            "* 此效果无法驱散。施法者阵亡后效果移除。"
         ]
     },
     {
         "originalIndex": 809,
-        "name": "福耳库斯 (Phorcys)",
+        "name": "奥莫德斯 (Ommodus)",
         "effects": [
-            "Special Skill need consecutive uses to reach full power, the following order:",
-            "1st:",
-            " * Summon a Merman Minion for the caster and nearby allies with 27% HP and 26% attack inherited from the caster.",
-            " * The Minion adds 5% mana to its owner at the end of each turn.",
-            " * The caster gets Taunt that prevents enemies from using Special Skills on the caster’s allies for 3 turns.",
-            "2nd:",
-            " * Summon a Merman Minion for the caster and nearby allies with 27% HP and 26% attack inherited from the caster.",
-            " * The Minion adds 5% mana to its owner at the end of each turn.",
-            " * The caster gets Taunt that prevents enemies from using Special Skills on the caster’s allies for 3 turns.",
-            "* Stack (Max 10): All allies get +20% attack for their Minions."
+            "摧毁所有盟友的恶魔。此效果会对超级恶魔造成伤害。",
+            "此特殊技能必定命中。",
+            "使用月出闪袭攻击所有敌人，造成最多 2000 点伤害。若目标为神圣系元素则额外造成 40% 伤害。",
+            "每摧毁一个恶魔，所有盟友获得 5% 法力。"
         ]
     },
     {
         "originalIndex": 810,
-        "name": "福耳库斯 (Phorcys) C1",
+        "name": "玛瑙 (Onyx)",
         "effects": [
-            "Special Skill need consecutive uses to reach full power, the following order:",
-            "1st:",
-            " * Summon a Merman Minion for the caster and nearby allies with 25% HP and 25% attack inherited from the caster.",
-            " * The Minion adds 4% mana to its owner at the end of each turn.",
-            " * The caster gets Taunt that prevents enemies from using Special Skills on the caster’s allies for 3 turns.",
-            "2nd:",
-            " * Summon a Merman Minion for the caster and nearby allies with 30% HP and 35% attack inherited from the caster.",
-            " * The Minion adds 5% mana to its owner at the end of each turn.",
-            " * The caster gets Taunt that prevents enemies from using Special Skills on the caster’s allies for 4 turns.",
-            "* Stack (Max 10): All allies get +25% attack for their Minions."
+            "1 倍法力充能：",
+            "* 对目标造成 300% 伤害。",
+            "* 目标对新的增益状态效果免疫，持续 3 回合。",
+            "* 驱散目标身上的增益。",
+            "2 倍法力充能：",
+            "* 对目标及附近敌人造成 340% 伤害。",
+            "* 目标与附近敌人对新的增益状态效果免疫，持续 4 回合。",
+            "* 驱散目标和附近敌人身上的增益。",
+            "3 倍法力充能：",
+            "* 对所有敌人造成 380% 伤害。",
+            "* 所有敌人对新的增益状态效果免疫，持续 5 回合。",
+            "* 驱散所有敌人的增益。"
         ]
     },
     {
         "originalIndex": 811,
-        "name": "菲托努斯 (Phthonus)",
+        "name": "薄荷 (Peppermint)",
         "effects": [
-            "Deals 360% damage to all enemies.",
-            "Dispels buffs from all enemies.",
-            "Recovers 8% health per removed status effect for all allies, up to 64% health in total."
+            "对所有敌人造成 250% 伤害。",
+            "为每位盟友召唤一个精灵小兵，此小兵继承施法者 10% 的生命值和 10% 的攻击力。",
+            "所有敌人在 4 回合内受到共计 280 点剧毒伤害，而面板上每存在一个暗黑系盾牌则额外增加 16 点伤害，最高共计 408 点伤害。"
         ]
     },
     {
         "originalIndex": 812,
-        "name": "瓜尔茨 (Quartz)",
+        "name": "歌剧魅影 (Phantom of the Opera)",
         "effects": [
-            "Special Skill has a different effect when charged with 100%/200%/300% mana:",
-            "1x Mana Charge:",
-            " - All allies regenerate 204 HP over 2 turns.",
-            " - All allies get +34% attack for 2 turns.",
-            " - Cleanses status ailments from all allies.",
-            "2x Mana Charge:",
-            " - All allies regenerate 624 HP over 3 turns.",
-            " - All allies get +44% attack for 3 turns.",
-            " - Cleanses status ailments from all allies.",
-            "3x Mana Charge:",
-            " - All allies regenerate 940 HP over 4 turns. This effect can't be dispelled.",
-            " - All allies get +54% attack for 4 turns.",
-            " - Cleanses status ailments from all allies."
+            "对目标及附近敌人造成 405% 伤害。",
+            "目标与附近敌人跳起迷恋歌谣，持续 4 回合。添加此效果时将移除所有现有状态效果。",
+            "迷恋歌谣：",
+            "* -40% 法力生成。",
+            "* -40% 所获治疗量。",
+            "* 免疫新的状态效果。",
+            "* 此效果无法驱散。施法者阵亡后效果移除。"
         ]
     },
     {
         "originalIndex": 813,
-        "name": "昆塔斯 (Quintus)",
+        "name": "福耳库斯 (Phorcys)",
         "effects": [
-            "Deals 270% damage to all enemies"
+            "必须连续使用特殊技能才能达到其最大威力，顺序为：",
+            "第一次：",
+            "* 为施法者和附近盟友召唤一个人鱼小兵，其可从施法者处继承 27% 生命和 26% 攻击力。",
+            "* 小兵可在每回合结束时为主人增加 5% 法力。",
+            "* 施法者获得嘲讽，可阻止敌人对其盟友使用特殊技能，持续 3 回合。",
+            "第二次：",
+            "* 为施法者和附近盟友召唤一个人鱼小兵，其可从施法者处继承 27% 生命和 26% 攻击力。",
+            "* 小兵可在每回合结束时为主人增加 5% 法力。",
+            "* 施法者获得嘲讽，可阻止敌人对其盟友使用特殊技能，持续 3 回合。",
+            "* 叠加（最多 10 层）：所有盟友的小兵获得 +20% 攻击力。"
         ]
     },
     {
         "originalIndex": 814,
-        "name": "昆塔斯 (Quintus) C1",
+        "name": "福耳库斯 (Phorcys) C1",
         "effects": [
-            "Deals 235% damage to all enemies",
-            "All enemies get -34% attack for 4 turns"
+            "必须连续使用特殊技能才能达到其最大威力，顺序为：",
+            "第一次：",
+            "* 为施法者和附近盟友召唤一个人鱼小兵，其可从施法者处继承 25% 生命和 25% 攻击力。",
+            "* 小兵可在每回合结束时为主人增加 4% 法力。",
+            "* 施法者获得嘲讽，可阻止敌人对其盟友使用特殊技能，持续 3 回合。",
+            "第二次：",
+            "* 为施法者和附近盟友召唤一个人鱼小兵，其可从施法者处继承 30% 生命和 35% 攻击力。",
+            "* 小兵可在每回合结束时为主人增加 5% 法力。",
+            "* 施法者获得嘲讽，可阻止敌人对其盟友使用特殊技能，持续 4 回合。",
+            "* 叠加（最多 10 层）：所有盟友的小兵获得 +25% 攻击力。"
         ]
     },
     {
         "originalIndex": 815,
-        "name": "昆塔斯 (Quintus) C2",
+        "name": "菲托努斯 (Phthonus)",
         "effects": [
-            "Deals 300% damage to the target and nearby enemies.",
-            "The target and nearby enemies automatically cast Mindless Attack on a random ally when mana is full at the start of a turn during 4 turns."
+            "对所有敌人造成 360% 伤害。",
+            "驱散所有敌人的增益。",
+            "每移除一个状态效果，则为所有盟友恢复 8% 生命值，至多恢复总计 64% 生命值。"
         ]
     },
     {
         "originalIndex": 816,
-        "name": "昆塔斯 (Quintus) 卡通",
+        "name": "瓜尔茨 (Quartz)",
         "effects": [
-            "Deals 420% damage to all enemies.",
-            "Deals extra damage against Holy."
+            "当特殊技能充能至 100% / 200% / 300% 法力时将拥有不同的效果：",
+            "1 倍法力充能：",
+            "- 所有盟友在 2 回合内恢复 204 点生命值。",
+            "- 所有盟友获得 +34% 攻击力，持续 2 回合。",
+            "- 净化所有盟友的状态异常。",
+            "2 倍法力充能：",
+            "- 所有盟友在 3 回合内恢复 624 点生命值。",
+            "- 所有盟友获得 +44% 攻击力，持续 3 回合。",
+            "- 净化所有盟友的状态异常。",
+            "3 倍法力充能：",
+            "- 所有盟友在 4 回合内恢复 940 点生命值。此效果无法驱散。",
+            "- 所有盟友获得 +54% 攻击力，持续 4 回合。",
+            "- 净化所有盟友的状态异常。"
         ]
     },
     {
         "originalIndex": 817,
-        "name": "拉蒙娜 (Ramona)",
+        "name": "昆塔斯 (Quintus)",
         "effects": [
-            "Deals 450% damage to the target.",
-            "Summons three Ram Fiends for the target. This Fiend damages the enemy with 40% attack every turn.",
-            "The Ram Fiend absorbs healing and disappears when it has absorbed health equal to 45% of its owner’s max health.",
-            "The healing absorbed is transferred to the summoner and their allies and distributed evenly. (Ignores heal steal, healing modifers and fiends)"
+            "对所有敌人造成 270% 伤害。"
         ]
     },
     {
         "originalIndex": 818,
-        "name": "莱恩 (Rayne)",
+        "name": "昆塔斯 (Quintus) C1",
         "effects": [
-            "Deals 400% damage to the target.",
-            "The target receives 1300 Poison damage over 5 turns. This effect spreads to nearby enemies."
+            "对所有敌人造成 235% 伤害。",
+            "所有敌人获得 -34% 攻击力，持续 4 回合。"
         ]
     },
     {
         "originalIndex": 819,
-        "name": "罗什福尔 (Rochefort)",
+        "name": "昆塔斯 (Quintus) C2",
         "effects": [
-            "Deals 565% damage to the target and minor damage to nearby enemies.",
-            "If the targets is defeated in 3 turns all enemies receive 626 damage."
+            "对目标及附近敌人造成 300% 伤害。",
+            "在 4 回合内，若目标或附近敌人在回合开始时法力满格，该敌人将自动对一名随机盟友施放莽夫乱拳。"
         ]
     },
     {
         "originalIndex": 820,
-        "name": "鲑鱼洛基 (Salmon Loki)",
+        "name": "昆塔斯 (Quintus) 卡通",
         "effects": [
-            "Deals 250% damage to all Holy enemies.",
-            "For 3 turns the element of all enemies is changed each turn. On the first 2 turns, the element is random.",
-            "On the last turn, enemies revert to their original element.",
-            "After each element change, enemies take 528 damage if their element is Holy."
+            "对所有敌人造成 420% 伤害。",
+            "对神圣系造成额外伤害。"
         ]
     },
     {
         "originalIndex": 821,
-        "name": "鲑鱼洛基 (Salmon Loki) C1",
+        "name": "拉蒙娜 (Ramona)",
         "effects": [
-            "Deals 350% damage to all holy Enemies.",
-            "For 4 turns, the element of all enemies is changed each turn. On the first 3 turns, the element is random.",
-            "On the last turn, enemies revert to their original element.",
-            "After each element change, enemies take 736 damage if their element is Holy."
+            "对目标造成 450% 伤害。",
+            "召唤三只公羊恶魔附身于目标。恶魔每回合对敌人造成 40% 攻击力的伤害。",
+            "公羊恶魔会吸收治疗。它在吸收了相当于其所有者最大生命值 45% 的治疗量后便会消失。",
+            "吸收的治疗量会转移给召唤者及其盟友并平均分配。（无视治疗窃取、治疗修正和恶魔）"
         ]
     },
     {
         "originalIndex": 822,
-        "name": "马尾藻 (Sargasso)",
+        "name": "莱恩 (Rayne)",
         "effects": [
-            "Deals 415% damage to the target and minor damage to nearby enemies",
-            "The target and nearby enemies get -90% increase for any healing received for 4 turns."
+            "对目标造成 400% 伤害。",
+            "目标在 5 回合内受到共计 1300 点剧毒伤害。此效果会蔓延至附近敌人。"
         ]
     },
     {
         "originalIndex": 823,
-        "name": "马尾藻 (Sargasso) C1",
+        "name": "罗什福尔 (Rochefort)",
         "effects": [
-            "Deals 415% damage to the target and minor damage to nearby enemies.",
-            "The target and nearby enemies get -100% decrease for any healing received for 4 turns.",
-            "The target and nearby enemies receive 260 Water damage over 4 turns."
+            "对目标造成 565% 伤害，并对附近敌人造成轻微伤害。",
+            "若目标在 3 回合内被击败，则所有敌人受到 626 点伤害。"
         ]
     },
     {
         "originalIndex": 824,
-        "name": "萨塔娜 (Sartana)",
+        "name": "鲑鱼洛基 (Salmon Loki)",
         "effects": [
-            "Deals 452% damage to the target.",
-            "The target receives 306 Poison damage over 6 turns."
+            "对所有神圣系敌人造成 250% 伤害。",
+            "在 3 回合内，所有敌人的元素每回合都会改变。前 2 回合，元素是随机的。",
+            "最后一回合，敌人会恢复其原始元素。",
+            "每次元素改变后，如果敌人元素是神圣系，则受到 528 点伤害。"
         ]
     },
     {
         "originalIndex": 825,
-        "name": "萨塔娜 (Sartana) C1",
+        "name": "鲑鱼洛基 (Salmon Loki) C1",
         "effects": [
-            "Deals 532% damage to the target"
+            "对所有神圣系敌人造成 350% 伤害。",
+            "在 4 回合内，所有敌人的元素每回合都会改变。前 3 回合，元素是随机的。",
+            "最后一回合，敌人会恢复其原始元素。",
+            "每次元素改变后，如果敌人元素是神圣系，则受到 736 点伤害。"
         ]
     },
     {
         "originalIndex": 826,
-        "name": "萨塔娜 (Sartana) C2",
+        "name": "马尾藻 (Sargasso)",
         "effects": [
-            "Destroys all Minions from the target.",
-            "Deals 500% damage to the target.",
-            "The target resists new Minions for 3 turns."
+            "对目标造成 415% 伤害，并对附近敌人造成轻微伤害。",
+            "目标与附近敌人获得的治疗减少 -90%，持续 4 回合。"
         ]
     },
     {
         "originalIndex": 827,
-        "name": "萨塔娜 (Sartana) 卡通",
+        "name": "马尾藻 (Sargasso) C1",
         "effects": [
-            "Deals 530% damage to the target.",
-            "The target receives 510 Poison damage over 3 turns.",
-            "Deals extra damage against Holy."
+            "对目标造成 415% 伤害，并对附近敌人造成轻微伤害。",
+            "目标与附近敌人获得的治疗减少 -100%，持续 4 回合。",
+            "目标与附近敌人在 4 回合内受到共计 260 点水系伤害。"
         ]
     },
     {
         "originalIndex": 828,
-        "name": "萨塔娜 (Sartana) 玻璃",
+        "name": "萨塔娜 (Sartana)",
         "effects": [
-            "Deals 540% damage to the target.",
-            "The attack bypasses defensive buffs. (This includes counterattacks.)",
-            "The target receives 615 Poison damage over 3 turns."
+            "对目标造成 452% 伤害。",
+            "目标在 6 回合内受到共计 306 点剧毒伤害。"
         ]
     },
     {
         "originalIndex": 829,
-        "name": "杀意 (Satsui)",
+        "name": "萨塔娜 (Sartana) C1",
         "effects": [
-            "1x Mana Charge",
-            "* Deals 400% damage to the target.",
-            "* The caster goes into hiding for 2 turns.",
-            "* While hidden, the caster can’t receive new status effects or stacks, and all received damage is reduced by -30%.",
-            "* When the caster comes out of hiding, they deal 330 damage to all enemies who used Special Skills while the caster was hiding.",
-            "2x Mana Charge",
-            "* Deals 425% damage to the target and nearby enemies.",
-            "* The caster goes into hiding for 2 turns.",
-            "* While hidden, the caster can’t receive new status effects or stacks, and all received damage is reduced by -60%.",
-            "* When the caster comes out of hiding, they deal 449 damage to all enemies who used Special Skills while the caster was hiding.",
-            "3x Mana Charge",
-            "* Deals 450% damage to all enemies.",
-            "* The caster goes into hiding for 2 turns.",
-            "* While hidden, the caster can’t receive new status effects or stacks, and all received damage is reduced by -80%.",
-            "* When the caster comes out of hiding, they deal 508 damage to all enemies who used Special Skills while the caster was hiding."
+            "对目标造成 532% 伤害。"
         ]
     },
     {
         "originalIndex": 830,
-        "name": "嗣卡伏 (Scath)",
+        "name": "萨塔娜 (Sartana) C2",
         "effects": [
-            "All allies regenerate 1290 HP over 3 turns. This effect can't be dispelled.",
-            "The caster counterattacks with 145% of the damage received for 3 turns.",
-            "Stores all damage dealt to the caster for 3 turns. When the effect ends, stored damage is dealt to all enemies, up to maximum 1050 damage. This effect can’t be dispelled."
+            "摧毁目标的所有小兵。",
+            "对目标造成 500% 伤害。",
+            "目标抵抗新的小兵，持续 3 回合。"
         ]
     },
     {
         "originalIndex": 831,
-        "name": "森安 (Senan)",
+        "name": "萨塔娜 (Sartana) 卡通",
         "effects": [
-            "Deals 275% damage to the all enemies.",
-            "Summons a Spectre Fiend for all enemies. The Fiend damages its target with 45% attack every turn.",
-            "The Spectre Fiend absorbs healing. It disappears after absorbing a healing amount equal to 30% of it's target's max health.",
-            "Stack (Max: 10): The caster gets +6% mana generation",
-            "Stack +2 (Max: 10): The caster recovers 30 HP each turn."
+            "对目标造成 530% 伤害。",
+            "目标在 3 回合内受到共计 510 点剧毒伤害。",
+            "对神圣系造成额外伤害。"
         ]
     },
     {
         "originalIndex": 832,
-        "name": "森安 (Senan) C1",
+        "name": "萨塔娜 (Sartana) 玻璃",
         "effects": [
-            "Deals 265% damage to all enemies.",
-            "Summons a Specter Fiend for all enemies. The Fiend damages its target with 55% attack every turn.",
-            "The Specter Fiend absorbs healing. It disappears after absorbing a healing amount equal to 35% of its target’s max health.",
-            "Stack +2 (Max 10): The caster gets +12% mana generation. (Affects only mana generated from matching tiles or mana gained by the defense team at the end of their turn.)",
-            "Stack +3 (Max 10): The caster recovers 45 HP each turn."
+            "对目标造成 540% 伤害。",
+            "攻击会无视防御增益。（包括反击）",
+            "目标在 3 回合内受到共计 615 点剧毒伤害。"
         ]
     },
     {
         "originalIndex": 833,
-        "name": "塞雷娜 (Serena)",
+        "name": "杀意 (Satsui)",
         "effects": [
-            "Deals 400% damage to the target.",
-            "Summons a Gossip Whisperer Fiend for the target.",
-            "The Gossip Whisperer Fiend absorbs healing. It disappears after absorbing a healing amount equal to 25% of its target’s max health.",
-            "When summoned the Gossip Whisperer Fiend gives -45% accuracy for its target as long as the target has Gossip Whisperer Fiends. This effect can’t be cleansed. (Chance to miss also applies to offensive Special Skills.)",
-            "The Gossip Whisperer Fiend generates a clone of itself to nearby enemies on every turn. (Cloned Fiends absorb the same amount of healing and deal the same amount of damage as the original Fiend. The Fiend will only clone if the target does not already have the maximum amount of Fiends or Minions.)"
+            "1 倍法力充能：",
+            "* 对目标造成 400% 伤害。",
+            "* 施法者进入潜行状态，持续 2 回合。",
+            "* 潜行期间，施法者无法获得新的状态效果或叠加，且所受伤害减少 -30%。",
+            "* 施法者从潜行状态出来时，对所有在其潜行期间使用特殊技能的敌人造成 330 点伤害。",
+            "2 倍法力充能：",
+            "* 对目标及附近敌人造成 425% 伤害。",
+            "* 施法者进入潜行状态，持续 2 回合。",
+            "* 潜行期间，施法者无法获得新的状态效果或叠加，且所受伤害减少 -60%。",
+            "* 施法者从潜行状态出来时，对所有在其潜行期间使用特殊技能的敌人造成 449 点伤害。",
+            "3 倍法力充能：",
+            "* 对所有敌人造成 450% 伤害。",
+            "* 施法者进入潜行状态，持续 2 回合。",
+            "* 潜行期间，施法者无法获得新的状态效果或叠加，且所受伤害减少 -80%。",
+            "* 施法者从潜行状态出来时，对所有在其潜行期间使用特殊技能的敌人造成 508 点伤害。"
         ]
     },
     {
         "originalIndex": 834,
-        "name": "赛沙特 (Seshat)",
+        "name": "嗣卡伏 (Scath)",
         "effects": [
-            "Deals 450% damage to the target.",
-            "Summon a Replicator Minion with 20% HP and 17% attack inherited from the caster. The minion generates a clone of itself every 3 turns. Cloned minions inherit the same amount of HP and attack as the original minion.",
-            "Dispels buffs from the target and nearby enemies.",
-            "Elemental Link gives +4% mana generation for all Dark allies  for 4 turns. This effect can't be cleansed"
+            "所有盟友在 3 回合内恢复 1290 点生命值。此效果无法驱散。",
+            "施法者以所受伤害的 145% 进行反击，持续 3 回合。",
+            "储存所有对施法者造成的伤害，持续 3 回合。该效果结束时，对所有敌人造成所储存的伤害，最多可储存 1050 点伤害。此效果无法驱散。"
         ]
     },
     {
         "originalIndex": 835,
-        "name": "赛沙特 (Seshat) C1",
+        "name": "森安 (Senan)",
         "effects": [
-            "Dispels buffs from the target and nearby enemies.",
-            "Deals 420% damage to the target.",
-            "Summons a Replicator Minion with 20% HP and 17% attack inheried from the caster. The Replicator Minion generates a clone of itself every 3 turns. Cloned minions inherit the same amount of HP and attack as the original minion.",
-            "Element Link gives +4% mana generation for all Dark allies for 4 turns. This effect can't be dispelled."
+            "对所有敌人造成 275% 伤害。",
+            "召唤幽灵恶魔附身于所有敌人。恶魔每回合对其目标造成 45% 攻击力的伤害。",
+            "幽灵恶魔会吸收治疗。它在吸收了相当于其目标最大生命值 30% 的治疗量后便会消失。",
+            "叠加（最多 10 层）：施法者获得 +6% 法力生成。",
+            "叠加 +2 （最多 10 层）：施法者每回合恢复 30 点生命值。"
         ]
     },
     {
         "originalIndex": 836,
-        "name": "赛特 (Set)",
+        "name": "森安 (Senan) C1",
         "effects": [
-            "Summon a Dark Soldier Minion for all allies with 40% HP and 40% attack inherited from the caster.",
-            "All enemies receive 324 Poison damage over 3 turns.",
-            "If the caster is defeated in the next 3 turns, all enemies mana is reduced by -100%. This effect can’t be dispelled."
+            "对所有敌人造成 265% 伤害。",
+            "召唤幽灵恶魔附身于所有敌人。恶魔每回合对其目标造成 55% 攻击力的伤害。",
+            "幽灵恶魔会吸收治疗。它在吸收了相当于其目标最大生命值 35% 的治疗量后便会消失。",
+            "叠加 +2 （最多 10 层）：施法者获得 +12% 法力生成。（只影响通过消除方块或由防御队伍在其回合结束时获得的法力）",
+            "叠加 +3 （最多 10 层）：施法者每回合恢复 45 点生命值。"
         ]
     },
     {
         "originalIndex": 837,
-        "name": "赛特 (Set) C1",
+        "name": "塞雷娜 (Serena)",
         "effects": [
-            "Summons a Dark Soldier Minion for all allies with 45% HP and 35% attack inherited from the caster.",
-            "All enemies receive 1136 Poison damage over 4 turns.",
-            "If the caster is defeated in the next 4 turns, all enemies’ mana is reduced by -100%. This effect can’t be dispelled."
+            "对目标造成 400% 伤害。",
+            "召唤流言低语者恶魔附身于目标。",
+            "流言低语者恶魔会吸收治疗。它在吸收了相当于其目标最大生命值 25% 的治疗量后便会消失。",
+            "流言低语者恶魔被召唤后，只要其所有者拥有流言低语者恶魔，其所有者就会获得 -45% 精准度。此效果无法净化。（进攻型特殊技能也有相同几率落空）",
+            "流言低语者恶魔每回合都会生成一个自己的克隆体附身于附近的敌人。（克隆恶魔吸收的治疗量和造成的伤害与原始恶魔相同。只有在目标没有达到恶魔或小兵的最大数量时，恶魔才会克隆）"
         ]
     },
     {
         "originalIndex": 838,
-        "name": "刹克尔博特 (Shacklebolt)",
+        "name": "赛沙特 (Seshat)",
         "effects": [
-            "Deals 370% damage to the target and nearby enemies.",
-            "Steals 25% mana from the target and nearby enemies and distributes it to the caster and nearby allies.",
-            "Copies all dispellable buffs from the target and nearby enemies, and randomly distributes them on allies."
+            "对目标造成 450% 伤害。",
+            "召唤一个克隆小兵，其可从施法者处继承 20% 生命值和 17% 攻击力。克隆小兵每 3 回合生成一个自己的克隆体。克隆小兵继承的生命值和攻击力与原始小兵相同。",
+            "驱散目标和附近敌人身上的增益。",
+            "元素链为全体暗黑系盟友提供 +4% 的法力生成，持续 4 回合。此效果无法净化。"
         ]
     },
     {
         "originalIndex": 839,
-        "name": "影牙 (Shadowfang)",
+        "name": "赛沙特 (Seshat) C1",
         "effects": [
-            "Deals 390% damage to all enemies.",
-            "At the end of each turn, the caster cast a Bone Toss at a random enemy for 5 turns.",
-            "Each Bone Toss deals 230% damage.",
-            "Each Bone Toss summons a Skeleton Fox Fiend to the target. The Fiend damages its target with 100% attack every turn.",
-            "The Skeleton Fox Fiend absorbs healing. It disappears after receiving a healing amount equal to 30% of its target’s max health."
+            "驱散目标和附近敌人身上的增益。",
+            "对目标造成 420% 伤害。",
+            "召唤一个克隆小兵，其可从施法者处继承 20% 生命值和 17% 攻击力。克隆小兵每 3 回合生成一个自己的克隆体。克隆小兵继承的生命值和攻击力与原始小兵相同。",
+            "元素链为全体暗黑系盟友提供 +4% 的法力生成，持续 4 回合。此效果无法驱散。"
         ]
     },
     {
         "originalIndex": 840,
-        "name": "卡斯米尔爵士 (Sir Casmir)",
+        "name": "赛特 (Set)",
         "effects": [
-            "Cleanses status ailments from the caster and nearby allies.",
-            "For the next 5 turns, this character has a 50% chance to deal 600% damage to a random enemy after an enemy casts their Special Skill. (Each enemy can trigger this effect once per turn.)",
-            "The caster and nearby allies reflect status ailments and negative stacks for 5 turns. (Status effects cast by characters, Minions and Fiends on the same side cannot be reflected.)",
-            "Element Link gives all Dark allies +5% dodge chance for 6 turns. This effect cannot be dispelled."
+            "为所有盟友召唤一个暗黑战士小兵，其可从施法者处继承 40% 生命和 40% 攻击力。",
+            "所有敌人在 3 回合内受到共计 324 点剧毒伤害。",
+            "如果施法者在接下来 3 回合内被打败，所有敌人减少 -100% 法力。此效果无法驱散。"
         ]
     },
     {
         "originalIndex": 841,
-        "name": "斯尼夫鲁 (Sneferu)",
+        "name": "赛特 (Set) C1",
         "effects": [
-            "Deals 415% damage to the target.",
-            "The attack chains through all the enemies who are adjacent to any hit enemy.",
-            "All hit targets are immune to new status effect buffs for 5 turns, and receive 250 damage for each attempted buff."
+            "为所有盟友召唤一个暗黑战士小兵，其可从施法者处继承 45% 生命和 35% 攻击力。",
+            "所有敌人在 4 回合内受到共计 1136 点剧毒伤害。",
+            "如果施法者在接下来 4 回合内被打败，所有敌人减少 -100% 法力。此效果无法驱散。"
         ]
     },
     {
         "originalIndex": 842,
-        "name": "斯尼夫鲁 (Sneferu) C1",
+        "name": "刹克尔博特 (Shacklebolt)",
         "effects": [
-            "Deals 385% damage to the target.",
-            "The attack chains through all the enemies who are adjacent to any hit enemy.",
-            "All hit targets are immune to new status effect buffs for 5 turns, and receive 350 damage for each attempted buff."
+            "对目标及附近敌人造成 370% 伤害。",
+            "从目标和附近敌人身上窃取 25% 法力并平均分配到施法者和附近盟友身上。",
+            "复制目标及附近敌人的全部可驱散增益并随机分配给盟友。"
         ]
     },
     {
         "originalIndex": 843,
-        "name": "迅爪 (Swiftpaw)",
+        "name": "影牙 (Shadowfang)",
         "effects": [
-            "Deals 540% damage to the target.",
-            "The target gets silenced for 3 turns.",
-            "Summons a Sly Fox Minion to the caster and nearby allies with 5% HP and 100% attack inherited from the caster.",
-            "Sly Fox Minion has 80% chance to dodge incoming attacks.",
-            "When a Sly Fox Minion dodges, it steals latest buff from the attacker and gives it to its owner."
+            "对所有敌人造成 390% 伤害。",
+            "每回合结束时，施法者对随机一名敌人施放一次骨骼投掷，持续 5 回合。",
+            "每次骨骼投掷造成 230% 伤害。",
+            "每次骨骼投掷都会召唤骷髅狐狸恶魔附身于目标。恶魔每回合对其目标造成 100% 攻击力的伤害。",
+            "骷髅狐狸恶魔会吸收治疗。它在吸收了相当于其目标最大生命值 30% 的治疗量后便会消失。"
         ]
     },
     {
         "originalIndex": 844,
-        "name": "塔姆林 (Tamlin)",
+        "name": "卡斯米尔爵士 (Sir Casmir)",
         "effects": [
-            "Deals 460% damage to all enemies.",
-            "Enhanced Defense Ailment: All enemies get -64% defense against Special Skills. This effect lasts until the enemy takes damage from a Special Skill 6 times.",
-            "After the Enhanced Defense Ailment ends or is removed or replaced, the enemy gets silenced for 6 turns."
+            "净化施法者和附近盟友的状态异常。",
+            "在后续 5 回合中，当一名敌人施放特殊技能后，此角色将有 50% 的几率随机对一名敌人造成 600% 伤害。（每个敌人每回合只能触发一次此效果）",
+            "施法者和附近盟友可反弹状态异常和负面效果叠加，持续 5 回合。（同队角色、小兵和恶魔施放的状态效果无法反弹）",
+            "元素链赋予所有暗黑系盟友 +5% 闪避几率，持续 6 回合。此效果无法驱散。"
         ]
     },
     {
         "originalIndex": 845,
-        "name": "夜魅 (Tenebrae)",
+        "name": "斯尼夫鲁 (Sneferu)",
         "effects": [
-            "Deals 395% damage to the target.",
-            "The target get Soul Bound for 3 turns. This effect can’t be cleansed. This effect will always bypass reflection.",
-            "All damage received by the caster is also dealt to all Soul Bound Enemies. Damage is shared between all Soul Bound enemies. This effect will not share damage coming from other shared damage sources or counterattacks."
+            "对目标造成 415% 伤害。",
+            "与被击中敌人相邻的所有敌人都将受到连锁攻击。",
+            "所有命中的目标都将对新的增益状态效果免疫，持续 5 回合，且每当有增益效果尝试施加于其上，他们都将受到 250 点伤害。"
         ]
     },
     {
         "originalIndex": 846,
-        "name": "图特阿蒙 (Thoth-Amun)",
+        "name": "斯尼夫鲁 (Sneferu) C1",
         "effects": [
-            "Deals 310% damage to the target and nearby enemies.",
-            "Summons an Undead Minion for the caster and nearby allies with 30% HP and 20% attack inherited from the caster.",
-            "Elemental Link gives +10% mana generation for all Dark allies for 4 turns. This effect can’t be displelled."
+            "对目标造成 385% 伤害。",
+            "与被击中敌人相邻的所有敌人都将受到连锁攻击。",
+            "所有命中的目标都将对新的增益状态效果免疫，持续 5 回合，且每当有增益效果尝试施加于其上，他们都将受到 350 点伤害。"
         ]
     },
     {
         "originalIndex": 847,
-        "name": "图特阿蒙 (Thoth-Amun) C1",
+        "name": "迅爪 (Swiftpaw)",
         "effects": [
-            "Deals 330% damage to the target and nearby enemies.",
-            "Summons an Undead Minion for the Caster and Nearby allies with 27% HP and 27% attack inherited from the caster.",
-            "Elemental Link gives +10% mana generation for all Dark allies for 4 turns. This effect can’t be dispelled."
+            "对目标造成 540% 伤害。",
+            "目标陷入沉默，持续 3 回合。",
+            "为施法者和附近盟友召唤一个狡狐小兵，其可从施法者处继承 5% 生命和 100% 攻击力。",
+            "狡狐小兵有 80% 几率闪避来袭攻击。",
+            "狡狐小兵成功闪避后，会从攻击者身上窃取最后施加的可驱散增益并施加给其所有者。"
         ]
     },
     {
         "originalIndex": 848,
-        "name": "特里瓦尔迪 (Thrivaldi)",
+        "name": "塔姆林 (Tamlin)",
         "effects": [
-            "Attacks all enemies with Frostfall Strike, dealing up to 1600 damage. Deals 40% more if the target is of the Fire element. This Special Skill never misses its targets.",
-            "All allies get +40% defense for 4 turns.",
-            "All allies are immune to damage from status ailments fo 4 turns."
+            "对所有敌人造成 460% 伤害。",
+            "强化防御异常：所有敌人对特殊技能 -64% 的防御。此效果在敌人受到 6 次特殊技能伤害后消失。",
+            "强化防御异常结束后、被移除或被替换后，敌人陷入沉默，持续 6 回合。"
         ]
     },
     {
         "originalIndex": 849,
-        "name": "寅 (Tora)",
+        "name": "夜魅 (Tenebrae)",
         "effects": [
-            "Special Skill has a different effect when charged with 100%/200%/300% mana:",
-            "x1 Mana Charge:",
-            " - Deals 400% damage to the target.",
-            " - Deals additional 35% damage for each Minion or Mega Minion owned by the enemies up to 750% damage in total.",
-            " - The attack bypasses defensive buffs. (This include counterattacks)",
-            "x2 Mana Charge:",
-            " - Deals 425% damage to the target and nearby enemies.",
-            " - Deals additional 35% damage for each Minion or Mega Minion owned by the enemies up to 775% damage in total.",
-            " - The attack bypasses defensive buffs. (This include counterattacks)",
-            "x3 Mana Charge:",
-            " - Deals 450% damage to all enemies.",
-            " - Deals additional 35% damage for each Minion or Mega Minion owned by the enemies up to 800% damage in total.",
-            " - The attack bypasses defensive buffs. (This include counterattacks)"
+            "对目标造成 395% 伤害。",
+            "目标获得缚魂，持续 3 回合。此效果无法净化。此效果将始终无视反弹。",
+            "对所有缚魂敌人造成施法者受到的所有伤害。伤害由所有缚魂敌人分担。此效果不会分担来自其他共享伤害源或反击的伤害。"
         ]
     },
     {
         "originalIndex": 850,
-        "name": "图尔顾汝克 (Turgruk)",
+        "name": "图特阿蒙 (Thoth-Amun)",
         "effects": [
-            "Deals 480% damage to the target.",
-            "Stack (Max:10): All damage the target receives is increased by +5%.",
-            "Element Link gives all Dark allies +5% chance to dodge status ailments for 4 turns. This effect cannot be dispelled."
+            "对目标及附近敌人造成 310% 伤害。",
+            "为施法者和附近盟友召唤一个不死小兵，其可从施法者处继承 30% 生命和 20% 攻击力。",
+            "元素链为全体暗黑系盟友提供 +10% 的法力生成，持续 4 回合。此效果无法驱散。"
         ]
     },
     {
         "originalIndex": 851,
-        "name": "特伟双胞胎 (Tweedles)",
+        "name": "图特阿蒙 (Thoth-Amun) C1",
         "effects": [
-            "Deals 600% damage to a random enemy.",
-            "The target gets -50% defense for 5 turns.",
-            "Deals 600% damage to a random enemy.",
-            "The target gets -50% attack for 5 turns.",
-            "The caster gets 30% mana if both attacks hit the same target."
+            "对目标及附近敌人造成 330% 伤害。",
+            "为施法者和附近盟友召唤一个不死小兵，其可从施法者处继承 27% 生命和 27% 攻击力。",
+            "元素链为全体暗黑系盟友提供 +10% 的法力生成，持续 4 回合。此效果无法驱散。"
         ]
     },
     {
         "originalIndex": 852,
-        "name": "奥绰刻斯 (Ultrox)",
+        "name": "特里瓦尔迪 (Thrivaldi)",
         "effects": [
-            "Special Skill need consecutive uses to reach full power, the following order:",
-            "1st:",
-            " * Deals 30% damage per each Dark shield on the board to all enemies, up to 300% damage in total.",
-            " * The caster and nearby allies counterattack with 90% of the damage received for 3 turns.",
-            " * The caster and nearby allies reduce all received damage by -35% for 3 turns.",
-            "2nd:",
-            " * Deals 35% damage per each Dark shield on the board to all enemies, up to 350% damage in total.",
-            " * The caster and nearby allies counterattack with 130% of the damage received for 4 turns.",
-            " * The caster and nearby allies reduce all received damage by -45% for 4 turns."
+            "使用霜降打击攻击所有敌人，造成最多 1600 点伤害。若目标为火焰系元素则额外造成 40% 伤害。该特殊技能必定命中。",
+            "所有盟友获得 +40% 防御，持续 4 回合。",
+            "所有盟友对来自状态异常的伤害免疫，持续 4 回合。"
         ]
     },
     {
         "originalIndex": 853,
-        "name": "奥绰刻斯 (Ultrox) C1",
+        "name": "寅 (Tora)",
         "effects": [
-            "Special Skill need consecutive uses to reach full power, the following order:",
-            "1st:",
-            " * Deals 28% damage per each Dark shield on the board to all enemies, up to 280% damage in total.",
-            " * The caster and nearby allies counterattack with 100% of the damage received for 3 turns.",
-            " * The caster and nearby allies reduce all received damage by -35% for 3 turns.",
-            "2nd:",
-            " * Deals 38% damage per each Dark shield on the board to all enemies, up to 380% damage in total.",
-            " * The caster and nearby allies counterattack with 140% of the damage received for 4 turns.",
-            " * The caster and nearby allies reduce all received damage by -50% for 4 turns."
+            "当特殊技能充能至 100% / 200% / 300% 法力时将拥有不同的效果：",
+            "1 倍法力充能：",
+            "- 对目标造成 400% 伤害。",
+            "- 敌人每拥有一个小兵或超级小兵，便造成额外 35% 伤害，最多累计造成 750% 伤害。",
+            "- 攻击会无视防御增益。（包括反击）",
+            "2 倍法力充能：",
+            "- 对目标及附近敌人造成 425% 伤害。",
+            "- 敌人每拥有一个小兵或超级小兵，便造成额外 35% 伤害，最多累计造成 775% 伤害。",
+            "- 攻击会无视防御增益。（包括反击）",
+            "3 倍法力充能：",
+            "- 对所有敌人造成 450% 伤害。",
+            "- 敌人每拥有一个小兵或超级小兵，便造成额外 35% 伤害，最多累计造成 800% 伤害。",
+            "- 攻击会无视防御增益。（包括反击）"
         ]
     },
     {
         "originalIndex": 854,
-        "name": "翁布丽亚 (Umbria)",
+        "name": "图尔顾汝克 (Turgruk)",
         "effects": [
-            "Deaks 450% damage to the target.",
-            "Summon a Spreading Shadow Fiend for the target. The Fiend damage the enemy with 60% attack every turn.",
-            "The Spreading Shadow Fiend absorbs healing and disappears when it has absorbed health equal to 40% of its owner’s max health.",
-            "The Spreading Shadow Fiend generates a clone of itself to nearby enemies every 2 turns. Cloned fiends absorb the same amount of healing and deal the same amount of damage as the original Fiend."
+            "对目标造成 480% 伤害。",
+            "叠加（最多 10 层）：目标受到的所有伤害增加 +5%。",
+            "元素链赋予所有暗黑系盟友 +5% 几率闪避状态异常，持续 4 回合。此效果无法驱散。"
         ]
     },
     {
         "originalIndex": 855,
-        "name": "梅子 (Umeko)",
+        "name": "特伟双胞胎 (Tweedles)",
         "effects": [
-            "Special Skill has a different effect when charged with 100%/200%/300% mana:",
-            "x1 Mana Charge:",
-            " - Dispels buffs from the target.",
-            " - The target receives 780 Poison damage over 2 turns.",
-            " - The target gets -80% decrease of any healing received for 2 turns.",
-            "x2 Mana Charge:",
-            " - Dispels buffs from the target and nearby enemies.",
-            " - The target and nearby enemies receive 1608 Poison damage over 4 turns.",
-            " - The target and nearby enemies get -85% decrease of any healing received for 4 turns.",
-            "x3 Mana Charge:",
-            " - Dispels buffs from all enemies.",
-            " - All enemies receive 2412 Poison damage over 6 turns.",
-            " - The target gets -90% decrease of any healing received for 6 turns."
+            "随机对一个敌人造成 600% 伤害。",
+            "目标获得 -50% 防御，持续 5 回合。",
+            "随机对一个敌人造成 600% 伤害。",
+            "目标获得 -50% 攻击力，持续 5 回合。",
+            "如果两次攻击击中同一目标，则施法者获得 30% 法力。"
         ]
     },
     {
         "originalIndex": 856,
-        "name": "尤塞娜 (Ursena)",
+        "name": "奥绰刻斯 (Ultrox)",
         "effects": [
-            "Deals 130% damage to all enemies.",
-            "Deals 260% damage if the target has more than 50% health remaining.",
-            "All allies reflect all status effects and 115% damage back to the attacker and block other negative effects from enemies' Holy Special Skills for 4 turns. Status effects cast by characters, Minions and Fiends on the same side cannot be reflected.",
-            "Deals extra damage against Holy."
+            "必须连续使用特殊技能才能达到其最大威力，顺序为：",
+            "第一次：",
+            "* 面板中每有一个暗黑系盾牌，便对所有敌人造成 30% 的伤害，最多累计造成 300% 伤害。",
+            "* 施法者和附近盟友以所受伤害的 90% 进行反击，持续 3 回合。",
+            "* 施法者和附近盟友所受的所有伤害减少 -35%，持续 3 回合。",
+            "第二次：",
+            "* 面板中每有一个暗黑系盾牌，便对所有敌人造成 35% 的伤害，最多累计造成 350% 伤害。",
+            "* 施法者和附近盟友以所受伤害的 130% 进行反击，持续 4 回合。",
+            "* 施法者和附近盟友所受的所有伤害减少 -45%，持续 4 回合。"
         ]
     },
     {
         "originalIndex": 857,
-        "name": "尤塞娜 (Ursena) C1",
+        "name": "奥绰刻斯 (Ultrox) C1",
         "effects": [
-            "Deals 130% damage to all enemies.",
-            "Deals 260% damage if the target has more than 50% health remaining.",
-            "All allies reflect all status effects and 115% damage back to the attacker and block other negative effects from  enemies’ Holy Special Skills back to the attacker for 4 turns. Status effects cast by characters, Minions and Fiends on the same side cannot be reflected.",
-            "All Holy enemies get -54% defense against Dark for 4 turns."
+            "必须连续使用特殊技能才能达到其最大威力，顺序为：",
+            "第一次：",
+            "* 面板中每有一个暗黑系盾牌，便对所有敌人造成 28% 的伤害，最多累计造成 280% 伤害。",
+            "* 施法者和附近盟友以所受伤害的 100% 进行反击，持续 3 回合。",
+            "* 施法者和附近盟友所受的所有伤害减少 -35%，持续 3 回合。",
+            "第二次：",
+            "* 面板中每有一个暗黑系盾牌，便对所有敌人造成 38% 的伤害，最多累计造成 380% 伤害。",
+            "* 施法者和附近盟友以所受伤害的 140% 进行反击，持续 4 回合。",
+            "* 施法者和附近盟友所受的所有伤害减少 -50%，持续 4 回合。"
         ]
     },
     {
         "originalIndex": 858,
-        "name": "乌丝拉甘 (Uthragan)",
+        "name": "翁布丽亚 (Umbria)",
         "effects": [
-            "Deals 150% damage to the target.",
-            "The target and nearby enemies receive 711 Poison damage over 3 turns.  The caster absorbs 100% of dealt Poison damage as health.",
-            "Element Link gives +10% mana generation for all Dark allies for 4 turns.  This effect cannot be dispelled."
+            "对目标造成 450% 伤害。",
+            "召唤蔓延阴影恶魔附身于目标。恶魔每回合对敌人造成 60% 攻击力的伤害。",
+            "蔓延阴影恶魔会吸收治疗。它在吸收了相当于其所有者最大生命值 40% 的治疗量后便会消失。",
+            "蔓延阴影恶魔每 2 回合生成一个自己的克隆体给附近的敌人。克隆恶魔吸收的治疗量和造成的伤害与原始恶魔相同。"
         ]
     },
     {
         "originalIndex": 859,
-        "name": "乌韦 (Uwe)",
+        "name": "梅子 (Umeko)",
         "effects": [
-            "Deals 850% damage to the target.",
-            "If the target has less than 50% health before receiving damage, targets another enemy who had less than 50% health before receiving any damage from this Special Skill. If none of the other enemies have 50% health, targets a random enemy. The damage is reduced on each consecutive hit. Each enemy can only be hit once.",
-            "If the hit enemies use their Special Skill in the next 3 turns, they get 725 poison damage for 5 turns. This effect is uncleansable. (Status effects are added at the end of a Special Skill. Status effects will not be added if this status effects is removed during a Special Skill.)"
+            "当特殊技能充能至 100% / 200% / 300% 法力时将拥有不同的效果：",
+            "1 倍法力充能：",
+            "- 驱散目标身上的增益。",
+            "- 目标在 2 回合内受到共计 780 点剧毒伤害。",
+            "- 目标获得的治疗减少 -80%，持续 2 回合。",
+            "2 倍法力充能：",
+            "- 驱散目标和附近敌人身上的增益。",
+            "- 目标与附近敌人在 4 回合内受到共计 1608 点剧毒伤害。",
+            "- 目标与附近敌人获得的治疗减少 -85%，持续 4 回合。",
+            "3 倍法力充能：",
+            "- 驱散所有敌人的增益。",
+            "- 所有敌人在 6 回合内受到共计 2412 点剧毒伤害。",
+            "- 目标获得的治疗减少 -90%，持续 6 回合。"
         ]
     },
     {
         "originalIndex": 860,
-        "name": "范德尔 (Vander)",
+        "name": "尤塞娜 (Ursena)",
         "effects": [
-            "Deals 450% damage to the target.",
-            "The target gets silenced for 3 turns.",
-            "If there are 6 or more Dark shields on the board, the damage and status ailments are dealt to the target and nearby enemies instead.",
-            "If there are 12 or more Dark shields on the board, the damage and status ailments are dealt to the all enemies instead."
+            "对所有敌人造成 130% 伤害。",
+            "如果目标剩余生命超过 50%，可对其造成 260% 伤害。",
+            "所有盟友会将来自神圣系敌人特殊技能的全部状态效果和 115% 伤害反弹至进攻者并阻挡该技能的其它负面效果，持续 4 回合。同队角色、小兵和恶魔施放的状态效果无法反弹。",
+            "对神圣系造成额外伤害。"
         ]
     },
     {
         "originalIndex": 861,
-        "name": "瓦德 (Vard)",
+        "name": "尤塞娜 (Ursena) C1",
         "effects": [
-            "Deals 470% damage to all enemies.",
-            "Wither: All enemies get -350 attack and -350 defense.",
-            "All enemies get -35% mana generation for 5 turns. (Affects only mana generated from matching tiles or mana gained by the defense team at the end of their turn."
+            "对所有敌人造成 130% 伤害。",
+            "如果目标剩余生命超过 50%，可对其造成 260% 伤害。",
+            "所有盟友会将来自神圣系敌人特殊技能的全部状态效果和 115% 伤害反弹至进攻者并阻挡该技能的其它负面效果，持续 4 回合。同队角色、小兵和恶魔施放的状态效果无法反弹。",
+            "所有神圣系敌人获得对暗黑系 -54% 的防御，持续 4 回合。"
         ]
     },
     {
         "originalIndex": 862,
-        "name": "维克托 (Victor)",
+        "name": "乌丝拉甘 (Uthragan)",
         "effects": [
-            "Deals 250% damage to the target.",
-            "The target receives 355 damage over 5 turns. If a target already has this effect, the duration will be refreshed and the damage will be increased by 315, up to 985 damage in total.",
-            "The caster steals 75% of any healing applied to the target for 5 turns.",
-            "All allies get +30% defense for 5 turns."
+            "对目标造成 150% 伤害。",
+            "目标与附近敌人在 3 回合内受到共计 711 点剧毒伤害。施法者会吸收所造成剧毒伤害的 100% 并转化为生命值。",
+            "元素链为全体暗黑系盟友提供 +10% 的法力生成，持续 4 回合。此效果无法驱散。"
         ]
     },
     {
         "originalIndex": 863,
-        "name": "维克托 (Victor) C1",
+        "name": "乌韦 (Uwe)",
         "effects": [
-            "Deals 155% damage to the target and nearby enemies.",
-            "The target and nearby enemies receive 230 damage over 5 turns. If a target already has this effect, the duration will be refreshed and the damage will be increased by 315, up to 855 damage in total.",
-            "The caster steals 61% of any healing applied to the target and nearby enemies for 5 turns.",
-            "The target and nearby enemies get -24% defense for 5 turns."
+            "对目标造成 850% 伤害。",
+            "若目标在受到伤害前生命值低于 50%，则多瞄准一名在受到此特殊技能伤害前生命值低于 50% 的敌人。若其他敌人的生命都在 50% 以上，则多瞄准一名随机敌人。每下攻击的伤害都会递减。每个敌人只能被击中一次。",
+            "如果命中的敌人在后续 3 回合内使用特殊技能，则在 5 回合内对其造成共计 725 点剧毒伤害。此效果无法净化。（状态效果将在特殊技能结束后施加。若此状态效果在特殊技能施放期间被移除，则不会施加状态效果）"
         ]
     },
     {
         "originalIndex": 864,
-        "name": "维奥莱特·波茨 (Violet Potts)",
+        "name": "范德尔 (Vander)",
         "effects": [
-            "Safely dispels status effect buffs from all enemies.",
-            "All enemies are immune to new status effect buffs for 4 turns.",
-            "Summons a Sword Guard Mega Minion with 35% HP and 300% attack inherited from the caster.",
-            "The target hit by the Sword Guard Mega Minion receives 447 Bleed damage over 3 turns. This effect spreads to nearby enemies."
+            "对目标造成 450% 伤害。",
+            "目标陷入沉默，持续 3 回合。",
+            "若面板上有 6 个或以上的暗黑系盾牌，则改为对目标以及附近敌人造成该伤害和状态异常。",
+            "若面板上有 12 个或以上的暗黑系盾牌，则改为对所有敌人造成该伤害和状态异常。"
         ]
     },
     {
         "originalIndex": 865,
-        "name": "维斯卡罗 (Viscaro)",
+        "name": "瓦德 (Vard)",
         "effects": [
-            "Deals 280% damage to all enemies.",
-            "Damage bypasses target’s minions.",
-            "Summons a Cursed Sapling Fiend for all enemies. The Fiend damages its target with 75% attack every turn.",
-            "The Cursed Sapling Fiend absorbs healing and it disappears after absorbing a healing amount equal to 60% of its owner’s max health.",
-            "Attacks from Cursed Sapling Fiend deal extra damage if the target has minions.",
-            "Element Link gives all Dark allies +10% attack for 4 turns. This effect can’t be dispelled."
+            "对所有敌人造成 470% 伤害。",
+            "衰退：所有敌人获得 -350 点攻击力和 -350 点防御。",
+            "所有敌人获得 -35% 法力生成，持续 5 回合（只影响通过消除方块或由防御队伍在其回合结束时获得的法力）。"
         ]
     },
     {
         "originalIndex": 866,
-        "name": "咯木子爵 (Viscount Cluckwood)",
+        "name": "维克托 (Victor)",
         "effects": [
-            "Rearranges the enemy positions randomly.",
-            "Deals 340% damage to all enemies.",
-            "For 3 turns, the element of all allies except the caster is changed each turn. On the first 2 turns, the element is random.",
-            "On the last turn, allies revert to their original element."
+            "对目标造成 250% 伤害。",
+            "目标在 5 回合内受到共计 355 点伤害。若目标身上已有此效果，持续时间将会刷新，并且伤害会提高 315 点，最多共计 985 点伤害。",
+            "施法者偷取目标所获治疗的 75%，持续 5 回合。",
+            "所有盟友获得 +30% 防御，持续 5 回合。"
         ]
     },
     {
         "originalIndex": 867,
-        "name": "虚空之星 (Voidstar)",
+        "name": "维克托 (Victor) C1",
         "effects": [
-            "This Special Skill never misses its targets.",
-            "Deals 620% damage to the target.",
-            "Heals all allies for 40% of the damage dealt.",
-            "All allies get +74% defense against Special Skills for 4 turns."
+            "对目标及附近敌人造成 155% 伤害。",
+            "目标与附近敌人在 5 回合内受到共计 230 点伤害。若目标身上已有此效果，持续时间将会刷新，并且伤害会提高 315 点，最多共计 855 点伤害。",
+            "施法者偷取目标及其附近敌人所获治疗的 61%，持续 5 回合。",
+            "目标与附近敌人获得 -24% 防御，持续 5 回合。"
         ]
     },
     {
         "originalIndex": 868,
-        "name": "冯·罗斯巴特 (Von Rothbart)",
+        "name": "维奥莱特·波茨 (Violet Potts)",
         "effects": [
-            "Deals 550% damage to the target.",
-            "The target dances to Ballad of Pain for 4 turns. The dance spreads to nearby enemies.",
-            " ",
-            "Ballad of Pain:",
-            "The dancer gets silenced.",
-            "When the dance ends, the target suffers 1700 damage.",
-            " ",
-            "All existing status effects will be removed a dance status effect is added.",
-            "Dance gives immunity to new status effects. New dance status effect will replace this effect.",
-            "Dance effect cannot be dispelled. This effect is removed when the caster is defeated."
+            "安全驱散所有敌人身上的状态效果增益。",
+            "所有敌人对新的增益状态效果免疫，持续 4 回合。",
+            "召唤一个持剑守卫超级小兵，其可从施法者处继承 35% 生命值和 300% 攻击力。",
+            "被持剑守卫超级小兵击中的目标会在 3 回合内受到共计 447 点流血伤害。此效果会蔓延至附近敌人。"
         ]
     },
     {
         "originalIndex": 869,
-        "name": "蝎子精 (Xie Zi Jing)",
+        "name": "维斯卡罗 (Viscaro)",
         "effects": [
-            "This Special Skill ignores Dodge effects.",
-            "Dispels buffs from the target and nearby enemies.",
-            "Target and nearby enemies receive 936 Poison damage over 3 turns. This effect can’t be cleansed."
+            "对所有敌人造成 280% 伤害。",
+            "伤害无视目标的小兵。",
+            "召唤诅咒树苗恶魔附身于所有敌人。恶魔每回合对其目标造成 75% 攻击力的伤害。",
+            "诅咒树苗恶魔会吸收治疗。它在吸收了相当于其所有者最大生命值 60% 的治疗量后便会消失。",
+            "诅咒树苗恶魔的攻击对拥有小兵的目标造成额外伤害。",
+            "元素链给予所有暗黑系盟友 +10% 攻击力，持续 4 回合。此效果无法驱散。"
         ]
     },
     {
         "originalIndex": 870,
-        "name": "熊山君 (Xiong Shanjun)",
+        "name": "咯木子爵 (Viscount Cluckwood)",
         "effects": [
-            "Reduces max health of all enemies by 800 over 4 turns. The effect is stronger against targets with boosted health. Max health can't get lower than 30% of the original max health. Any boosted health is reduced by an additional 200 per turn.",
-            "All allies regenerate 800 boosted health over 4 turns. Boosted health can exceed max HP.",
-            "All enemies get -24% mana generation for 4 turns.",
-            "All allies get +24% mana generation for 4 turns."
+            "随机重新排列敌人位置。",
+            "对所有敌人造成 340% 伤害。",
+            "在 3 回合内，除施法者外所有盟友的元素每回合都会改变。前 2 回合，元素是随机的。",
+            "最后一回合，盟友会恢复其原始元素。"
         ]
     },
     {
         "originalIndex": 871,
-        "name": "泽诺福德 (Xnolphod)",
+        "name": "虚空之星 (Voidstar)",
         "effects": [
-            "Recovers 40% health for all allies.",
-            "Increases the mana of all allies by 10%.",
-            "Alters the power of all Dark shields on the boards. When an attacking Hero casts the special, the shields become enhanced and give +37% more mana. When a defending Hero casts the special, the shields become weakened and give -30% less mana."
+            "此特殊技能必定命中。",
+            "对目标造成 620% 伤害。",
+            "为所有盟友恢复等同于所造成伤害 40% 的生命值。",
+            "所有盟友获得 +74% 特殊技能防御，持续 4 回合。"
         ]
     },
     {
         "originalIndex": 872,
-        "name": "泽诺福德 (Xnolphod) C1",
+        "name": "冯·罗斯巴特 (Von Rothbart)",
         "effects": [
-            "All allies regenerate 1060 HP over 4 turns.",
-            "All allies receive a small amount of mana over 4 turns.",
-            "Alters the power of all Dark Shields on the board. When an attacking Hero casts the special, the enhanced shields give 37% more mana. When a defending Hero casts the special, the shields become weakened and give -30% less mana."
+            "对目标造成 550% 伤害。",
+            "目标跳起痛苦歌谣，持续 4 回合。舞蹈会蔓延至附近敌人。",
+            "痛苦歌谣：",
+            "舞者陷入沉默。",
+            "舞蹈结束时，目标受到 1700 点伤害。",
+            "添加舞蹈状态效果时将移除所有现有状态效果。",
+            "舞蹈免疫新的状态效果。新的舞蹈状态效果将取代此效果。",
+            "舞蹈效果无法驱散。施法者阵亡后效果移除。"
         ]
     },
     {
         "originalIndex": 873,
-        "name": "伊莎贝尔 (Ysabel)",
+        "name": "蝎子精 (Xie Zi Jing)",
         "effects": [
-            "Deals 535% damage to the target and minor damage to nearby enemies.",
-            "Enhanced Defense Ailment: The target and nearby enemies get -64% defense against Special Skills. This effect lasts until the enemy takes damage from a Special Skill 3 times.",
-            "After the Enhanced Defense Ailment ends or is removed or replaced, dispels buffs on the enemy."
+            "此特殊技能无视闪避效果。",
+            "驱散目标和附近敌人身上的增益。",
+            "目标与附近敌人在 3 回合内受到共计 936 点剧毒伤害。此效果无法净化。"
         ]
     },
     {
         "originalIndex": 874,
-        "name": "泽德 (Zed)",
+        "name": "熊山君 (Xiong Shanjun)",
         "effects": [
-            "Deals 440% damage to the target.",
-            "The target gets -34% defense for 2 turns. The effect duration resets if the target is hit with direct damage from a Special Skill.",
-            "The target gets -34% decrease for any healing received for 2 turns. The effect duration resets if the target is hit with direct damage from a Special Skill.",
-            "Element Link gives all Dark allies +20% critical chance for 6 turns. This effect cannot be dispelled."
+            "使所有敌人在 4 回合内减少共计 800 点最大生命值。若目标拥有提高的生命值，此效果会增强。最大生命值不能低于初始最大生命值的 30%。任何提高的生命值会额外减少 200 点每回合。",
+            "所有盟友在 4 回合内获得共计 800 点生命加成。提高的生命值可以超过最大生命值。",
+            "所有敌人获得 -24% 法力生成，持续 4 回合。",
+            "所有盟友获得 +24% 法力生成，持续 4 回合。"
         ]
     },
     {
         "originalIndex": 875,
-        "name": "祖拉格 (Zulag)",
+        "name": "泽诺福德 (Xnolphod)",
         "effects": [
-            "The caster and nearby allies regenerate 732 HP over 4 turns",
-            "The caster and nearby allies get +46% defense for 4 turns",
-            "The caster and nearby allies get +74% defense against special skills for 4 turns.",
-            "Element Link summons a Dark Minion for all Dark allies with 6% HP and 10% attack inherited from the caster"
+            "为所有盟友恢复 40% 生命值。",
+            "使所有盟友的法力增加 10%。",
+            "面板中所有暗黑系盾牌受到影响。进攻方英雄施放此特殊技能时，盾牌将会被增强，给予的法力增加 +37% ；而防御方英雄施放此特殊技能时，盾牌则会被削弱，给予的法力减少 -30%。"
         ]
     },
     {
         "originalIndex": 876,
-        "name": "莎朗 (Sharan)",
+        "name": "泽诺福德 (Xnolphod) C1",
         "effects": [
-            "Recovers 27% health for all allies"
+            "所有盟友在 4 回合内恢复 1060 点生命值。",
+            "所有盟友在 4 回合内恢复少量法力。",
+            "面板中所有暗黑系盾牌受到影响。进攻方英雄施放此特殊技能时，增强的盾牌会给予 37% 的额外法力。防御方英雄施放此特殊技能时，盾牌则会被削弱，给予的法力减少 -30%。"
         ]
     },
     {
         "originalIndex": 877,
-        "name": "图丹 (Tudan)",
+        "name": "伊莎贝尔 (Ysabel)",
         "effects": [
-            "Deals 265% damage to the target"
+            "对目标造成 535% 伤害，并对附近敌人造成轻微伤害。",
+            "强化防御异常：目标与附近敌人获得对特殊技能 -64% 的防御。此效果在敌人受到 3 次特殊技能伤害后消失。",
+            "强化防御异常结束后、被移除或被替换后，驱散敌人身上的增益。"
         ]
     },
     {
         "originalIndex": 878,
-        "name": "法里德 (Farid)",
+        "name": "泽德 (Zed)",
         "effects": [
-            "Deals 115% damage to all enemies"
+            "对目标造成 440% 伤害。",
+            "目标获得 -34% 防御，持续 2 回合。若目标受到特殊技能的直接伤害，效果持续时间将重置。",
+            "目标获得的治疗减少 -34%，持续 2 回合。若目标受到特殊技能的直接伤害，效果持续时间将重置。",
+            "元素链为全体暗黑系盟友提供 +20% 的暴击几率，持续 6 回合。此效果无法驱散。"
         ]
     },
     {
         "originalIndex": 879,
-        "name": "吉尔 (Jill)",
+        "name": "祖拉格 (Zulag)",
         "effects": [
-            "All allies get 48% attack for 4 turns"
+            "施法者和附近盟友在 4 回合内恢复 732 点生命值。",
+            "施法者和附近盟友获得 +46% 防御，持续 4 回合。",
+            "施法者和附近盟友获得 +74% 特殊技能防御，持续 4 回合。",
+            "元素链为所有暗黑系盟友召唤出一名暗黑小兵，其可从施法者处继承 6% 生命和 10% 攻击力。"
         ]
     },
     {
         "originalIndex": 880,
-        "name": "沙克特 (Shaarkot)",
+        "name": "莎朗 (Sharan)",
         "effects": [
-            "All allies get +48% attack for 4 turns"
+            "为所有盟友恢复 27% 生命值。"
         ]
     },
     {
         "originalIndex": 881,
-        "name": "祖达 (Zudak)",
+        "name": "图丹 (Tudan)",
         "effects": [
-            "Deals 200% damage to the target and minor damage to nearby enemies"
+            "对目标造成 265% 伤害。"
         ]
     },
     {
         "originalIndex": 882,
-        "name": "阿萨尔 (Azar)",
+        "name": "法里德 (Farid)",
         "effects": [
-            "Deals 280% damage to the target.",
-            "Reduces the mana of the target by 25%."
+            "对所有敌人造成 115% 伤害。"
         ]
     },
     {
         "originalIndex": 883,
-        "name": "阿萨尔 (Azar) C1",
+        "name": "吉尔 (Jill)",
         "effects": [
-            "Deals 170% damage to the target and nearby enemies.",
-            "Reduces the mana of the target and nearby enemies by 15%."
+            "所有盟友获得 48% 攻击力，持续 4 回合。"
         ]
     },
     {
         "originalIndex": 884,
-        "name": "阿萨尔 (Azar) 卡通",
+        "name": "沙克特 (Shaarkot)",
         "effects": [
-            "Deals 285% damage to the target.",
-            "Reduces the mana of the target by 20%.",
-            "Deals extra damage against Nature."
+            "所有盟友获得 +48% 攻击力，持续 4 回合。"
         ]
     },
     {
         "originalIndex": 885,
-        "name": "阿萨尔 (Azar) 玻璃",
+        "name": "祖达 (Zudak)",
         "effects": [
-            "Deals 295% damage to the target.",
-            "Reduces the mana of the target by 25%.",
-            "The attack bypasses defensive buffs. (This includes counterattacks.)"
+            "对目标造成 200% 伤害，并对附近敌人造成轻微伤害。"
         ]
     },
     {
         "originalIndex": 886,
-        "name": "巴格雷格 (Bagreg)",
+        "name": "阿萨尔 (Azar)",
         "effects": [
-            "Special Skill need consecutive uses to reach full power, the following order:",
-            "1st:",
-            " * Deals 180% damage to target and nearby enemies.",
-            " * The target and nearby enemies get -34% defense against Fire for 3 turns.",
-            "2nd:",
-            " * Deals 200% damage to target and nearby enemies.",
-            " * The target and nearby enemies get -54% defense against Fire for 3 turns."
+            "对目标造成 280% 伤害。",
+            "使目标的法力减少 25%。"
         ]
     },
     {
         "originalIndex": 887,
-        "name": "巴格雷格 (Bagreg) C1",
+        "name": "阿萨尔 (Azar) C1",
         "effects": [
-            "Special Skill needs consecutive uses to reach full power, in the following order:",
-            "1st:",
-            " * Deals 170% damage to the target and nearby enemies.",
-            " * The target and nearby enemies get -33% defense against Fire for 3 turns.",
-            "2nd:",
-            " * Deals 220% damage to the target and nearby enemies.",
-            " * The target and nearby enemies get -55% defense against Fire for 3 turns."
+            "对目标及附近敌人造成 170% 伤害。",
+            "使目标和附近敌人的法力减少 15%。"
         ]
     },
     {
         "originalIndex": 888,
-        "name": "贝索 (Basil)",
+        "name": "阿萨尔 (Azar) 卡通",
         "effects": [
-            "All allies become Soul Connected for 4 turns. Soul Connected allies share received damage.",
-            "All allies get +35% defense for 4 turns. The defense increases by 10% each turn up to +65%.",
-            "All allies counterattack with 70% of the damage received for 4 turns. The counterattack damage increases by +10% each turn, up to +100%."
+            "对目标造成 285% 伤害。",
+            "使目标的法力减少 20%。",
+            "对自然系造成额外伤害。"
         ]
     },
     {
         "originalIndex": 889,
-        "name": "波肯 (Bauchan)",
+        "name": "阿萨尔 (Azar) 玻璃",
         "effects": [
-            "Deals 105% damage to all enemies.",
-            "Reduces the mana of all enemies by 20%.",
-            "All allies get +24% mana generation for 4 turns."
+            "对目标造成 295% 伤害。",
+            "使目标的法力减少 25%。",
+            "攻击会无视防御增益。（包括反击）"
         ]
     },
     {
         "originalIndex": 890,
-        "name": "布茨 (Boots)",
+        "name": "巴格雷格 (Bagreg)",
         "effects": [
-            "Deals 200% damage to the target and nearby enemies.",
-            "Wither: The target and nearby enemies get -40 attack and -40 defense.",
-            "The target and nearby enemies get -35% defense for 3 turns. If this effect  is removed before the duration ends, the target with the effect suffers  124 damage."
+            "必须连续使用特殊技能才能达到其最大威力，顺序为：",
+            "第一次：",
+            "* 对目标及附近敌人造成 180% 伤害。",
+            "* 目标与附近敌人获得对烈火系 -34% 的防御，持续 3 回合。",
+            "第二次：",
+            "* 对目标及附近敌人造成 200% 伤害。",
+            "* 目标与附近敌人获得对烈火系 -54% 的防御，持续 3 回合。"
         ]
     },
     {
         "originalIndex": 891,
-        "name": "巴斯特 (Buster)",
+        "name": "巴格雷格 (Bagreg) C1",
         "effects": [
-            "Deals 275% damage to the target and nearby enemies.",
-            "Summons an Elf Minion for the caster with 10% HP and 10% attack inherited from the caster.",
-            "All damage the target and nearby enemies receive is increased by +24% and a further +2% increase per each Fire shield on the board for 4 turns, up to +40% increased damage."
+            "特殊技能连续使用会有不同的效果，顺序为：",
+            "第一次：",
+            "* 对目标及附近敌人造成 170% 伤害。",
+            "* 目标与附近敌人获得对烈火系 -33% 的防御，持续 3 回合。",
+            "第二次：",
+            "* 对目标及附近敌人造成 220% 伤害。",
+            "* 目标与附近敌人获得对烈火系 -55% 的防御，持续 3 回合。"
         ]
     },
     {
         "originalIndex": 892,
-        "name": "但丁 (Dante)",
+        "name": "贝索 (Basil)",
         "effects": [
-            "Special Skill has a different effect when charged with 100% / 200% / 300% mana:",
-            "1x Mana Charge:",
-            "* Deals 105% damage to all enemies.",
-            "* The attack bypasses defensive buffs. This includes counterattacks.",
-            "2x Mana Charge:",
-            "* Deals 125% damage to all enemies.",
-            "* The attack bypasses defensive buffs. This includes counterattacks.",
-            "* All enemies receive 120 Burn damage over 3 turns.",
-            "3x Mana Charge:",
-            "* Deals 205% damage to all enemies.",
-            "* The attack bypasses defensive buffs. This includes counterattacks.",
-            "* All enemies receive 160 Burn damage over 4 turns."
+            "所有盟友变得灵魂相连，持续 4 回合。灵魂相连的盟友将平摊所受伤害。",
+            "所有盟友获得 +35% 防御，持续 4 回合。防御每回合增加 10%，最高为 +65%。",
+            "所有盟友会以所受伤害的 70% 进行反击，持续 4 回合。反击伤害每回合增加 +10%，最高为 +100%。"
         ]
     },
     {
         "originalIndex": 893,
-        "name": "艾邓恩 (Ei-Dunn)",
+        "name": "波肯 (Bauchan)",
         "effects": [
-            "Deals 240% damage to the target and nearby enemies.",
-            "The target and nearby enemies get -24% mana generation for 4 turns."
+            "对所有敌人造成 105% 伤害。",
+            "使所有敌人的法力减少 20%。",
+            "所有盟友获得 +24% 法力生成，持续 4 回合。"
         ]
     },
     {
         "originalIndex": 894,
-        "name": "艾邓恩 (Ei-Dunn) C1",
+        "name": "布茨 (Boots)",
         "effects": [
-            "Deals 180% damage to all enemies.",
-            "Reduces the mana of all enemies by 10%."
+            "对目标及附近敌人造成 200% 伤害。",
+            "衰退：目标与附近敌人获得 -40 点攻击力和 -40 点防御。",
+            "目标与附近敌人获得 -35% 防御，持续 3 回合。若该效果在持续时间结束前被移除，其拥有者将受到 124 点伤害。"
         ]
     },
     {
         "originalIndex": 895,
-        "name": "小鹿 (Fawn)",
+        "name": "巴斯特 (Buster)",
         "effects": [
-            "All allies get +45% chance to Dodge Special Skills for 3 turns.  Each Dodge damages the attacker for 80 damage.",
-            "All allies receive a small amount of mana over 3 turns."
+            "对目标及附近敌人造成 275% 伤害。",
+            "为施法者召唤一个精灵小兵，其可从施法者处继承 10% 生命和 10% 攻击力。",
+            "目标与附近敌人受到的所有伤害增加 +24%，且面板上每有一个烈火系盾牌则额外增加 +2%，持续 4 回合，最高可达 +40% 所受伤害。"
         ]
     },
     {
         "originalIndex": 896,
-        "name": "鹰月 (Hawkmoon)",
+        "name": "但丁 (Dante)",
         "effects": [
-            "Recover 32% health for all allies."
+            "当特殊技能充能至 100% / 200% / 300% 法力时将拥有不同的效果：",
+            "1 倍法力充能：",
+            "* 对所有敌人造成 105% 伤害。",
+            "* 攻击会无视防御增益（包括反击）。",
+            "2 倍法力充能：",
+            "* 对所有敌人造成 125% 伤害。",
+            "* 攻击会无视防御增益（包括反击）。",
+            "* 所有敌人在 3 回合内受到共计 120 点燃烧伤害。",
+            "3 倍法力充能：",
+            "* 对所有敌人造成 205% 伤害。",
+            "* 攻击会无视防御增益（包括反击）。",
+            "* 所有敌人在 4 回合内受到共计 160 点燃烧伤害。"
         ]
     },
     {
         "originalIndex": 897,
-        "name": "鹰月 (Hawkmoon) C1",
+        "name": "艾邓恩 (Ei-Dunn)",
         "effects": [
-            "All allies regenerate 459 HP over 3 turns.",
-            "All allies get +30% attack for 3 turns."
+            "对目标及附近敌人造成 240% 伤害。",
+            "目标与附近敌人获得 -24% 法力生成，持续 4 回合。"
         ]
     },
     {
         "originalIndex": 898,
-        "name": "鹰月 (Hawkmoon) 卡通",
+        "name": "艾邓恩 (Ei-Dunn) C1",
         "effects": [
-            "Recovers 35% health for all allies.",
-            "All allies get +34% defense for 3 turns. For all Fire characters, this status effect becomes undispellable and lasts 2 turns longer."
+            "对所有敌人造成 180% 伤害。",
+            "使所有敌人的法力减少 10%。"
         ]
     },
     {
         "originalIndex": 899,
-        "name": "鹰月 (Hawkmoon) 玻璃",
+        "name": "小鹿 (Fawn)",
         "effects": [
-            "Recovers 37% health for all allies.",
-            "All Fire allies reflect status ailments and negative stacks for 2 turns.(Status effect cast by characters, Minions and Fiends on the same side cannot be reflected.)"
+            "所有盟友有 +45% 的几率闪避特殊技能，持续 3 回合。每次闪避会对攻击者造成 80 点伤害。",
+            "所有盟友在 3 回合内恢复少量法力。"
         ]
     },
     {
         "originalIndex": 900,
-        "name": "赫尔吉 (Helgi)",
+        "name": "鹰月 (Hawkmoon)",
         "effects": [
-            "Deals 130% damage to 8 random enemies.",
-            "The duration of buffs is reset for all allies."
+            "为所有盟友恢复 32% 生命值。"
         ]
     },
     {
         "originalIndex": 901,
-        "name": "贾汉吉 (Jahangir)",
+        "name": "鹰月 (Hawkmoon) C1",
         "effects": [
-            "Deals 145% damage to all enemies.",
-            "All enemies receive 120 damage over 6 turns."
+            "所有盟友在 3 回合内恢复 459 点生命值。",
+            "所有盟友获得 +30% 攻击力，持续 3 回合。"
         ]
     },
     {
         "originalIndex": 902,
-        "name": "贾汉吉 (Jahangir) C1",
+        "name": "鹰月 (Hawkmoon) 卡通",
         "effects": [
-            "Deals 115% damage to all enemies.",
-            "All enemies receive 156 Burn damage over 4 turns."
+            "为所有盟友恢复 35% 生命值。",
+            "所有盟友获得 +34% 防御，持续 3 回合。对所有烈火系角色，此状态效果不可驱散且持续时间延长 2 回合。"
         ]
     },
     {
         "originalIndex": 903,
-        "name": "贾汉吉 (Jahangir) 卡通",
+        "name": "鹰月 (Hawkmoon) 玻璃",
         "effects": [
-            "Deals 175% damage to all enemies.",
-            "All enemies receive 114 Burn damage over 3 turns.",
-            "Deals extra damage against Nature."
+            "为所有盟友恢复 37% 生命值。",
+            "所有烈火系盟友可反弹状态异常和负面效果叠加，持续 2 回合。（同队角色、小兵和恶魔施放的状态效果无法反弹）"
         ]
     },
     {
         "originalIndex": 904,
-        "name": "贾汉吉 (Jahangir) 玻璃",
+        "name": "赫尔吉 (Helgi)",
         "effects": [
-            "Deals 185% damage to all enemies.",
-            "The attack bypasses defensive buffs. (This includes counterattacks.)",
-            "All enemies receive 135 Burn damage over 3 turns."
+            "对 8 名随机敌人造成 130% 伤害。",
+            "重置所有盟友的增益持续时间。"
         ]
     },
     {
         "originalIndex": 905,
-        "name": "科内尔 (Kornel)",
+        "name": "贾汉吉 (Jahangir)",
         "effects": [
-            "Special Skill has a different effect when charged with 100%/200% mana:",
-            "1x Mana Charge:",
-            " * The caster and nearby allies get +45% attack, and a further 20% increase every time they are hit during 3 turns.",
-            "2x Mana Charge:",
-            " * The target and nearby enemies get -44% defense, and a further -4% decrease every time they are hit during 6 turns."
+            "对所有敌人造成 145% 伤害。",
+            "所有敌人在 6 回合内受到共计 120 点伤害。"
         ]
     },
     {
         "originalIndex": 906,
-        "name": "李 (Li)",
+        "name": "贾汉吉 (Jahangir) C1",
         "effects": [
-            "Deals 160% damage to all enemies.",
-            "Summons a Wu Soldier Minion for each ally with 10% HP and 18% attack inherited from the caster.",
-            "The target hit by Wu Soldier Minion receives 156 Burn damage over 3 turns."
+            "对所有敌人造成 115% 伤害。",
+            "所有敌人在 4 回合内受到共计 156 点燃烧伤害。"
         ]
     },
     {
         "originalIndex": 907,
-        "name": "刘唐 (Liu Tang)",
+        "name": "贾汉吉 (Jahangir) 卡通",
         "effects": [
-            "This Special Skill has a chance to deal Critical hits. (The chance of dealing a Critical hit is based on Hero’s overall critical chance when the damage is dealt. Critical hits caused by this Special Skill deal 50% more damage. Critical hits can reduces enemies’ max health on PVP battles. This effect is stronger against boosted health.)",
-            "Deals 265% damage to the target and minor damage to nearby enemies.",
-            "The caster gets Taunt that prevents enemies from using Special Skills on the caster’s allies for 5 turns."
+            "对所有敌人造成 175% 伤害。",
+            "所有敌人在 3 回合内受到共计 114 点燃烧伤害。",
+            "对自然系造成额外伤害。"
         ]
     },
     {
         "originalIndex": 908,
-        "name": "生剥鬼 (Namahage)",
+        "name": "贾汉吉 (Jahangir) 玻璃",
         "effects": [
-            "Deals 290% damage to the target.",
-            "The caster gets +45% attack, and a further 20% increase every time they are hit during 5 turns."
+            "对所有敌人造成 185% 伤害。",
+            "攻击会无视防御增益。（包括反击）",
+            "所有敌人在 3 回合内受到共计 135 点燃烧伤害。"
         ]
     },
     {
         "originalIndex": 909,
-        "name": "纳什加 (Nashgar)",
+        "name": "科内尔 (Kornel)",
         "effects": [
-            "Deals 290% damage to the target.",
-            "The target receives 126 Burn damage over 6 turns."
+            "当特殊技能充能至 100% / 200% 法力时将拥有不同的效果：",
+            "1 倍法力充能：",
+            "* 施法者和附近盟友获得 +45% 攻击力，每次被击中后额外增加 20% 攻击力，持续 3 回合。",
+            "2 倍法力充能：",
+            "* 目标与附近敌人获得 -44% 防御，并在每次被击中时再降低 -4% 防御，持续 6 回合。"
         ]
     },
     {
         "originalIndex": 910,
-        "name": "纳什加 (Nashgar) C1",
+        "name": "李 (Li)",
         "effects": [
-            "Deals 260% damage to the target.",
-            "The target receives 129 Burn damage over 3 turns."
+            "对所有敌人造成 160% 伤害。",
+            "为每位盟友召唤一个吴军小兵，其可从施法者处继承 10% 生命和 18% 攻击力。",
+            "被吴军小兵击中的目标会在 3 回合内受到共计 156 点燃烧伤害。"
         ]
     },
     {
         "originalIndex": 911,
-        "name": "纳什加 (Nashgar) 卡通",
+        "name": "刘唐 (Liu Tang)",
         "effects": [
-            "Deals 295% damage to the target.",
-            "The target receives 144 Burn damage over 4 turns.",
-            "Deals extra damage against Nature."
+            "此特殊技能有几率造成暴击。（造成暴击的几率取决于英雄在造成伤害时的总暴击几率。此特殊技能造成的暴击会额外造成 50% 伤害。暴击可以减少PvP战斗中敌人的最大生命值。此效果对拥有生命加成的目标更强）",
+            "对目标造成 265% 伤害，并对附近敌人造成轻微伤害。",
+            "施法者获得嘲讽，可阻止敌人对其盟友使用特殊技能，持续 5 回合。"
         ]
     },
     {
         "originalIndex": 912,
-        "name": "菲尼克斯 (Phoenicus)",
+        "name": "生剥鬼 (Namahage)",
         "effects": [
-            "All allies except the caster get +50% attack for 3 turns.",
-            "All allies except the caster get +24% mana generation for 3 turns."
+            "对目标造成 290% 伤害。",
+            "施法者获得 +45% 攻击力，并在每次被击中时再增加 20% 攻击力，持续 5 回合。"
         ]
     },
     {
         "originalIndex": 913,
-        "name": "小玫瑰 (Rosepetite)",
+        "name": "纳什加 (Nashgar)",
         "effects": [
-            "Deals 200% damage to the target and nearby enemies.",
-            "The target and nearby enemies receives 144 Toxin damage over 4 turns. If Toxin is cast on a target with boosted health, Minions or Mega Minion, the Toxin damage received is increased. (The Toxin damage is increased by +100% against targets with boosted health. Each Minion or Mega Minion owned by the target increases the damage by additional +33%, up to total +199%.)"
+            "对目标造成 290% 伤害。",
+            "目标在 6 回合内受到共计 126 点燃烧伤害。"
         ]
     },
     {
         "originalIndex": 914,
-        "name": "鲁道夫 (Rudolph)",
+        "name": "纳什加 (Nashgar) C1",
         "effects": [
-            "Deals 285% damage to the target",
-            "Reduces the mana of the target by 20%.",
-            "Summons an Elf Minion with 10% HP and 10% attack inherited from the caster"
+            "对目标造成 260% 伤害。",
+            "目标在 3 回合内受到共计 129 点燃烧伤害。"
         ]
     },
     {
         "originalIndex": 915,
-        "name": "鲁弗斯 (Rufus)",
+        "name": "纳什加 (Nashgar) 卡通",
         "effects": [
-            "Deals 210% damage to all enemies.",
-            "All enemies receive 216 Bleed damage over 4 turns.",
-            "All enemies get -34% defense for 4 turns."
+            "对目标造成 295% 伤害。",
+            "目标在 4 回合内受到共计 144 点燃烧伤害。",
+            "对自然系造成额外伤害。"
         ]
     },
     {
         "originalIndex": 916,
-        "name": "斯克里克 (Skrekok)",
+        "name": "菲尼克斯 (Phoenicus)",
         "effects": [
-            "Deals 225% damage to the target and nearby enemies.",
-            "The caster and nearby allies get +45% attack and a further +20% increase every time they are hit during 3 turns."
+            "除施法者外的所有盟友获得 +50% 攻击力，持续 3 回合。",
+            "除施法者外的所有盟友获得 +24% 法力生成，持续 3 回合。"
         ]
     },
     {
         "originalIndex": 917,
-        "name": "兔子随从 (Squire Wabbit)",
+        "name": "小玫瑰 (Rosepetite)",
         "effects": [
-            "Deals 355% damage to the target",
-            "The caster gets -20% defense for 3 turns. This effect can't be cleansed"
+            "对目标及附近敌人造成 200% 伤害。",
+            "目标与附近敌人受到 144 点毒素伤害，持续 4 回合。拥有生命加成、小兵或超级小兵的目标受到的伤害会增加。（拥有生命加成的目标受到的毒素伤害增加 +100%。目标每拥有一个小兵或超级小兵，伤害额外增加 +33%，最多可达 +199% ）"
         ]
     },
     {
         "originalIndex": 918,
-        "name": "星闪 (Starswift)",
+        "name": "鲁道夫 (Rudolph)",
         "effects": [
-            "This Special Skill never misses its targets.",
-            "Deal 265% damage to the target and nearby enemies.",
-            "The caster and nearby allies get +20% mana generation for 3 turns."
+            "对目标造成 285% 伤害。",
+            "使目标的法力减少 20%。",
+            "召唤一个精灵小兵，此小兵继承施法者 10% 的生命值和 10% 的攻击力。"
         ]
     },
     {
         "originalIndex": 919,
-        "name": "苏德里 (Sudri)",
+        "name": "鲁弗斯 (Rufus)",
         "effects": [
-            "Deals 120% damage to all enemies.",
-            "Deals additional 24% damage per each Fire shield on the board, up to 360% damage in total."
+            "对所有敌人造成 210% 伤害。",
+            "所有敌人在 4 回合内受到共计 216 点流血伤害。",
+            "所有敌人获得 -34% 防御，持续 4 回合。"
         ]
     },
     {
         "originalIndex": 920,
-        "name": "沃勒莫克 (Vollermork)",
+        "name": "斯克里克 (Skrekok)",
         "effects": [
-            "Summons a Worm Fiend for all enemies. The Fiend damages the enemy with 32% attack every turn.",
-            "The Worm Fiend absorbs healing and disappears when it has absorbed health equal to 16% of the targets max health"
+            "对目标及附近敌人造成 225% 伤害。",
+            "施法者和附近盟友获得 +45% 攻击力，并在每次被击中时再增加 +20% 攻击力，持续 3 回合。"
         ]
     },
     {
         "originalIndex": 921,
-        "name": "沃勒莫克 (Vollermork) C1",
+        "name": "兔子随从 (Squire Wabbit)",
         "effects": [
-            "Summons a Worm Fiend for all enemies. The fiend damages the enemy with 28% attack every turn.",
-            "The fiend absorbs healing. It disappears after absorbing a healing equal to 20% of the target’s max health."
+            "对目标造成 355% 伤害。",
+            "施法者获得 -20% 防御，持续 3 回合。此效果无法净化。"
         ]
     },
     {
         "originalIndex": 922,
-        "name": "瓦卡斯 (Waqas)",
+        "name": "星闪 (Starswift)",
         "effects": [
-            "Deals 205% damage to all enemies.",
-            "Reduces max health for all enemies by 450 over 3 turns. The effect is stronger against targets with boosted health. (Max health can’t get lower than 30% of the original max health. Any boosted health is reduced by an additional 150 per turn.)"
+            "此特殊技能必定命中。",
+            "对目标及附近敌人造成 265% 伤害。",
+            "施法者和附近盟友获得 +20% 法力生成，持续 3 回合。"
         ]
     },
     {
         "originalIndex": 923,
-        "name": "瓦卡斯 (Waqas) C1",
+        "name": "苏德里 (Sudri)",
         "effects": [
-            "Deals 235% damage to all enemies.",
-            "Reduces max health of all enemies by 345 over 3 turns. The effect is stronger against targets with boosted health. (Max health can’t get lower than 30% of the original max health. Any boosted health is reduced by an additional 115 per turn.)"
+            "对所有敌人造成 120% 伤害。",
+            "面板上每拥有一个烈火系盾牌，伤害就会增加 24%，最多造成 360% 伤害。"
         ]
     },
     {
         "originalIndex": 924,
-        "name": "奥丹 (Aodhan)",
+        "name": "沃勒莫克 (Vollermork)",
         "effects": [
-            "Deals 210% damage to all enemies.",
-            "Summons a Wisp Fiend for all enemies. The Fiend damages its target with 35% attack every turn.",
-            "The Wisp Fiend absorbs healing. It disappears after absorbing a healing amount equal to 18% of its target's max health.",
-            "Stack +2 (Max: 10): The caster gets +10% mana generation.",
-            "Stack (Max: 10): The caster recovers 10 HP each turn."
+            "召唤蠕虫恶魔附身于所有敌人。恶魔每回合对敌人造成 32% 攻击力的伤害。",
+            "蠕虫恶魔会吸收治疗。它在吸收了相当于目标最大生命值 16% 的治疗量后便会消失。"
         ]
     },
     {
         "originalIndex": 925,
-        "name": "猛牙 (Boldtusk)",
+        "name": "沃勒莫克 (Vollermork) C1",
         "effects": [
-            "Recovers 27% health for all allies.",
-            "All allies get +48% attack for 4 turns."
+            "召唤蠕虫恶魔附身于所有敌人。恶魔每回合对敌人造成 28% 攻击力的伤害。",
+            "恶魔会吸收治疗。它在吸收了相当于目标最大生命值 20% 的治疗量后便会消失。"
         ]
     },
     {
         "originalIndex": 926,
-        "name": "猛牙 (Boldtusk) C1",
+        "name": "瓦卡斯 (Waqas)",
         "effects": [
-            "Recovers 37% health for all allies.",
-            "All allies get +30% attack for 4 turns."
+            "对所有敌人造成 205% 伤害。",
+            "使所有敌人在 3 回合内减少共计 450 点最大生命值。若目标拥有提高的生命值，此效果会增强。（最大生命值不能低于初始最大生命值的 30%。任何提高的生命值会额外减少 150 点每回合）"
         ]
     },
     {
         "originalIndex": 927,
-        "name": "猛牙 (Boldtusk) C2",
+        "name": "瓦卡斯 (Waqas) C1",
         "effects": [
-            "All allies regenerate 288 boosted health over 4 turns. Boosted health can exceed max HP.",
-            "All allies get +45% attack, and a further 20% increase every time they are hit during 4 turns."
+            "对所有敌人造成 235% 伤害。",
+            "使所有敌人在 3 回合内减少共计 345 点最大生命值。若目标拥有提高的生命值，此效果会增强。（最大生命值不能低于初始最大生命值的 30%。任何提高的生命值会额外减少 115 点每回合）"
         ]
     },
     {
         "originalIndex": 928,
-        "name": "猛牙 (Boldtusk) 卡通",
+        "name": "奥丹 (Aodhan)",
         "effects": [
-            "Recovers 33% health for all allies.",
-            "All allies get +40% attack for 4 turns. For all Fire characters, this status effect becomes undispellable and lasts 2 turns longer."
+            "对所有敌人造成 210% 伤害。",
+            "召唤鬼火恶魔附身于所有敌人。恶魔每回合对其目标造成 35% 攻击力的伤害。",
+            "鬼火恶魔会吸收治疗。它在吸收了相当于其目标最大生命值 18% 的治疗量后便会消失。",
+            "叠加 +2 （最多 10 层）：施法者获得 +10% 法力生成。",
+            "叠加（最多 10 层）：施法者每回合恢复 10 点生命值。"
         ]
     },
     {
         "originalIndex": 929,
-        "name": "猛牙 (Boldtusk) 玻璃",
+        "name": "猛牙 (Boldtusk)",
         "effects": [
-            "Recovers 34% health for all allies.",
-            "All allies get +45% attack for 4 turns.",
-            "All Fire allies reflect status ailments and negative stacks for 2 turns. (Status effects cast by characters, Minions, and Fiends on the same side cannot be reflected.)"
+            "为所有盟友恢复 27% 生命值。",
+            "所有盟友获得 +48% 攻击力，持续 4 回合。"
         ]
     },
     {
         "originalIndex": 930,
-        "name": "卡罗尔 (Carol)",
+        "name": "猛牙 (Boldtusk) C1",
         "effects": [
-            "Reduces mana of the target by 25%.",
-            "Summons an elf Minion with 10% HP and 10% attack inherited from the caster.",
-            "The target receives a Gift Bomb. After 3 turns the Gift Bomb explodes and deals 374 damage to the target and nearby enemies.  The gift Bomb also explodes when the target is defeated."
+            "为所有盟友恢复 37% 生命值。",
+            "所有盟友获得 +30% 攻击力，持续 4 回合。"
         ]
     },
     {
         "originalIndex": 931,
-        "name": "希里安 (Cillian)",
+        "name": "猛牙 (Boldtusk) C2",
         "effects": [
-            "Deals 315% damage to the target and nearby enemies.",
-            "If the caster dies during the next 4 turns they are resurrected in the beginning of their next turn with 27% health. All status effects and stacks are removed when the caster dies.",
-            "Stack (Max: 10): The caster gets +5% mana generation.",
-            "Stack +2 (Max: 10): The caster recovers 20 HP each turn."
+            "所有盟友在 4 回合内获得共计 288 点生命加成。提高的生命值可以超过最大生命值。",
+            "所有盟友获得 +45% 攻击力，每次被击中后额外增加 20% 攻击力，持续 4 回合。"
         ]
     },
     {
         "originalIndex": 932,
-        "name": "科伦 (Colen)",
+        "name": "猛牙 (Boldtusk) 卡通",
         "effects": [
-            "Deals 180% damage to all enemies",
-            "All enemies receive 348 damage over 6 turns"
+            "为所有盟友恢复 33% 生命值。",
+            "所有盟友获得 +40% 攻击力，持续 4 回合。对所有烈火系角色，此状态效果不可驱散且持续时间延长 2 回合。"
         ]
     },
     {
         "originalIndex": 933,
-        "name": "科伦 (Colen) C1",
+        "name": "猛牙 (Boldtusk) 玻璃",
         "effects": [
-            "Deals 240% damage to all enemies.",
-            "All enemies receive 204 Burn damage over 3 turns."
+            "为所有盟友恢复 34% 生命值。",
+            "所有盟友获得 +45% 攻击力，持续 4 回合。",
+            "所有烈火系盟友可反弹状态异常和负面效果叠加，持续 2 回合。（同队角色、小兵和恶魔施放的状态效果无法反弹）"
         ]
     },
     {
         "originalIndex": 934,
-        "name": "科伦 (Colen) C2",
+        "name": "卡罗尔 (Carol)",
         "effects": [
-            "Deals 285% damage to the target and nearby enemies.",
-            "The target and nearby enemies get -54% defense against Fire for 6 turns.",
-            "Deals extra damage against Nature."
+            "使目标的法力减少 25%。",
+            "召唤一个精灵小兵，其可从施法者处继承 10% 生命和 10% 攻击力。",
+            "目标收到一个礼物炸弹。礼物炸弹会在 3 回合后爆炸，对目标和附近敌人造成 374 点伤害。目标被击败时，礼物炸弹也会爆炸。"
         ]
     },
     {
         "originalIndex": 935,
-        "name": "科伦 (Colen) 卡通",
+        "name": "希里安 (Cillian)",
         "effects": [
-            "Deals 210% damage to all enemies.",
-            "All enemies receive 174 Burn damage over 3 turns.",
-            "Deals extra damage against Nature."
+            "对目标及附近敌人造成 315% 伤害。",
+            "如果施法者在后续 4 回合中被击败，该施法者将于下一个回合开始时以 27% 的生命复活。施法者被击败时所有状态和叠加效果会被移除。",
+            "叠加（最多 10 层）：施法者获得 +5% 法力生成。",
+            "叠加 +2 （最多 10 层）：施法者每回合恢复 20 点生命值。"
         ]
     },
     {
         "originalIndex": 936,
-        "name": "科伦 (Colen) 玻璃",
+        "name": "科伦 (Colen)",
         "effects": [
-            "Deals 220% damage to all enemies.",
-            "The attack bypasses defensive buffs. (This includes counterattacks.)",
-            "All enemies receive 198 Burn damage over 3 turns."
+            "对所有敌人造成 180% 伤害。",
+            "所有敌人在 6 回合内受到共计 348 点伤害。"
         ]
     },
     {
         "originalIndex": 937,
-        "name": "艾希贝尔伯格 (Eichbelborg)",
+        "name": "科伦 (Colen) C1",
         "effects": [
-            "Deals 340% damage to the target.",
-            "The enemy with the highest base defense gets -44% defense for 4 turns."
+            "对所有敌人造成 240% 伤害。",
+            "所有敌人在 3 回合内受到共计 204 点燃烧伤害。"
         ]
     },
     {
         "originalIndex": 938,
-        "name": "费朗特 (Ferant)",
+        "name": "科伦 (Colen) C2",
         "effects": [
-            "The caster and nearby allies counterattack with 115% of the damage received for 5 turns.",
-            "The caster and nearby allies decrease -10% mana from the attacker on each counterattack for 5 turns. The effect gets diminished for consecutive activations during the same turn."
+            "对目标及附近敌人造成 285% 伤害。",
+            "目标与附近敌人获得对烈火系 -54% 的防御，持续 6 回合。",
+            "对自然系造成额外伤害。"
         ]
     },
     {
         "originalIndex": 939,
-        "name": "费朗特 (Ferant) C1",
+        "name": "科伦 (Colen) 卡通",
         "effects": [
-            "The caster and nearby allies counterattack with 120% of the received damage for 5 turns.",
-            "The caster and nearby allies decrease -5% mana from the attacker on each counterattack for 5 turns. The effect gets diminished for consecutive activations during the same turn."
+            "对所有敌人造成 210% 伤害。",
+            "所有敌人在 3 回合内受到共计 174 点燃烧伤害。",
+            "对自然系造成额外伤害。"
         ]
     },
     {
         "originalIndex": 940,
-        "name": "戈莫克 (Gormek)",
+        "name": "科伦 (Colen) 玻璃",
         "effects": [
-            "Deals 295% damage to the target and minor damage on nearby enemies.",
-            "The target an nearby enemies get -34% defense for 6 turns."
+            "对所有敌人造成 220% 伤害。",
+            "攻击会无视防御增益。（包括反击）",
+            "所有敌人在 3 回合内受到共计 198 点燃烧伤害。"
         ]
     },
     {
         "originalIndex": 941,
-        "name": "戈莫克 (Gormek) C1",
+        "name": "艾希贝尔伯格 (Eichbelborg)",
         "effects": [
-            "Destroys all Minions from all enemies.",
-            "Deals 180% damage to all enemies.",
-            "All allies recover 80 HP for each destroyed Minion."
+            "对目标造成 340% 伤害。",
+            "基础防御最高的敌人获得 -44% 防御，持续 4 回合。"
         ]
     },
     {
         "originalIndex": 942,
-        "name": "戈莫克 (Gormek) C2",
+        "name": "费朗特 (Ferant)",
         "effects": [
-            "Dispels buffs from all enemies",
-            "Deals 225% damage to all enemies"
+            "施法者和附近盟友以所受伤害的 115% 进行反击，持续 5 回合。",
+            "施法者和附近盟友每次反击可降低攻击者 -10% 的法力，持续 5 回合。同一回合中效果经连续激活会减弱。"
         ]
     },
     {
         "originalIndex": 943,
-        "name": "戈莫克 (Gormek) 卡通",
+        "name": "费朗特 (Ferant) C1",
         "effects": [
-            "Deals 325% damage to the target and minor damage to nearby enemies.",
-            "The target and nearby enemies get -24% defense for 6 turns.",
-            "Deals extra damage against Nature."
+            "施法者和附近盟友以所受伤害的 120% 进行反击，持续 5 回合。",
+            "施法者和附近盟友每次反击可降低攻击者 -5% 的法力，持续 5 回合。同一回合中效果经连续激活会减弱。"
         ]
     },
     {
         "originalIndex": 944,
-        "name": "戈莫克 (Gormek) 玻璃",
+        "name": "戈莫克 (Gormek)",
         "effects": [
-            "Deals 335% damage to the target and minor damage to nearby enemies.",
-            "The attack bypasses defensive buffs. (This includes counterattacks.)",
-            "The target and nearby enemies get -30% defense for 6 turns."
+            "对目标造成 295% 伤害，并对附近敌人造成轻微伤害。",
+            "目标与附近敌人获得 -34% 防御，持续 6 回合。"
         ]
     },
     {
         "originalIndex": 945,
-        "name": "飞鹰守护者 (Guardian Falcon)",
+        "name": "戈莫克 (Gormek) C1",
         "effects": [
-            "Deals 225% damage to the target and nearby enemies.",
-            "The target and nearby enemies get -54% defense against fire for 4 turns"
+            "摧毁全部敌人的全部小兵。",
+            "对所有敌人造成 180% 伤害。",
+            "每摧毁一名小兵所有盟友恢复 80 点生命值。"
         ]
     },
     {
         "originalIndex": 946,
-        "name": "伊潭 (Itham)",
+        "name": "戈莫克 (Gormek) C2",
         "effects": [
-            "Deals 270% damage to the target and nearby enemies.",
-            "The target and nearby enemies are immune to new status effect buffs for 3 turns, and receive 70 damage for each attempted buff.",
-            "The caster and nearby allies resist new effects that block usage of Special Skills for 3 turns."
+            "驱散所有敌人的增益。",
+            "对所有敌人造成 225% 伤害。"
         ]
     },
     {
         "originalIndex": 947,
-        "name": "约纳德 (Junaid)",
+        "name": "戈莫克 (Gormek) 卡通",
         "effects": [
-            "Deals 400% damage to the target.",
-            "Heals all allies for 30% of the damage dealt"
+            "对目标造成 325% 伤害，并对附近敌人造成轻微伤害。",
+            "目标与附近敌人获得 -24% 防御，持续 6 回合。",
+            "对自然系造成额外伤害。"
         ]
     },
     {
         "originalIndex": 948,
-        "name": "约纳德 (Junaid) C1",
+        "name": "戈莫克 (Gormek) 玻璃",
         "effects": [
-            "Deals 370% damage to the target.",
-            "Heals all allies for 40% of damage dealt."
+            "对目标造成 335% 伤害，并对附近敌人造成轻微伤害。",
+            "攻击会无视防御增益。（包括反击）",
+            "目标与附近敌人获得 -30% 防御，持续 6 回合。"
         ]
     },
     {
         "originalIndex": 949,
-        "name": "卡莉莱 (Kelile)",
+        "name": "飞鹰守护者 (Guardian Falcon)",
         "effects": [
-            "Deals 320% damage to the target.",
-            "The target receives 414 damage over 6 turns."
+            "对目标及附近敌人造成 225% 伤害。",
+            "目标与附近敌人获得对烈火系 -54% 的防御，持续 4 回合。"
         ]
     },
     {
         "originalIndex": 950,
-        "name": "卡莉莱 (Kelile) C1",
+        "name": "伊潭 (Itham)",
         "effects": [
-            "All enemies receieve 334 Burn damage over 2 turns."
+            "对目标及附近敌人造成 270% 伤害。",
+            "目标与附近敌人对新的增益状态效果免疫，持续 3 回合，且每当有增益效果尝试施加于其上，他们都将受到 70 点伤害。",
+            "施法者和附近盟友均可抵抗禁用特殊技能的效果，持续 3 回合。"
         ]
     },
     {
         "originalIndex": 951,
-        "name": "卡莉莱 (Kelile) C2",
+        "name": "约纳德 (Junaid)",
         "effects": [
-            "Deals 220% damage to the target and nearby enemies.",
-            "The target and nearby enemies receive 198 Burn damage over 3 turns. The caster absorbs 30% of dealt Burn damage as health."
+            "对目标造成 400% 伤害。",
+            "为所有盟友恢复等同于所造成伤害 30% 的生命值。"
         ]
     },
     {
         "originalIndex": 952,
-        "name": "卡莉莱 (Kelile) 卡通",
+        "name": "约纳德 (Junaid) C1",
         "effects": [
-            "Deals 325% damage to the target.",
-            "The target receives 216 Burn damage over 3 turns.",
-            "Deals extra damage against Nature."
+            "对目标造成 370% 伤害。",
+            "为所有盟友恢复等同于所造成伤害 40% 的生命值。"
         ]
     },
     {
         "originalIndex": 953,
-        "name": "卡莉莱 (Kelile) 玻璃",
+        "name": "卡莉莱 (Kelile)",
         "effects": [
-            "Deals 335% damage to the target.",
-            "The attack bypasses defensive buffs. (This includes counterattacks.)",
-            "The target receives 240 Burn damage over 3 turns."
+            "对目标造成 320% 伤害。",
+            "目标在 6 回合内受到共计 414 点伤害。"
         ]
     },
     {
         "originalIndex": 954,
-        "name": "勒明盖宁 (Lemminkainen)",
+        "name": "卡莉莱 (Kelile) C1",
         "effects": [
-            "Deals 285% damage to the target and minor damage to nearby enemies.",
-            "The target and nearby enemies receive 196 Burn damage over 4 turns. Against Ice characters, this status effect becomes uncleansable and lasts 2 turns longer."
+            "所有敌人在 2 回合内受到共计 334 点燃烧伤害。"
         ]
     },
     {
         "originalIndex": 955,
-        "name": "露西 (Lucy)",
+        "name": "卡莉莱 (Kelile) C2",
         "effects": [
-            "Special Skill has a different effect when charged with 100%/200% mana:",
-            "1x Mana Charge:",
-            " * Deals 180% damage to the target.",
-            " * Each time the target activates their Special Skill during 3 turns, mana of all other enemies is reduced by -8%.",
-            "2x Mana Charge:",
-            " * All allies get +24% mana generation for 5 turns.",
-            " * For the next 5 turns, this character deals 115% damage to all enemies each time any other ally casts their Special Skill. Damage is dealt on the first Special Skill cast of each character per turn."
+            "对目标及附近敌人造成 220% 伤害。",
+            "目标与附近敌人在 3 回合内受到共计 198 点燃烧伤害。施法者会吸收所造成燃烧伤害的 30% 并转化为生命值。"
         ]
     },
     {
         "originalIndex": 956,
-        "name": "马克 (Mack)",
+        "name": "卡莉莱 (Kelile) 卡通",
         "effects": [
-            "The caster and nearby allies counterattack with 125% of the damage received for 4 turns.",
-            "The caster and nearby allies get +25% attack for 4 turns."
+            "对目标造成 325% 伤害。",
+            "目标在 3 回合内受到共计 216 点燃烧伤害。",
+            "对自然系造成额外伤害。"
         ]
     },
     {
         "originalIndex": 957,
-        "name": "马克 (Mack) C1",
+        "name": "卡莉莱 (Kelile) 玻璃",
         "effects": [
-            "The caster and nearby allies counterattack with 100% of the damage received for 4 turns.",
-            "The caster and nearby allies get +35% attack for 4 turns."
+            "对目标造成 335% 伤害。",
+            "攻击会无视防御增益。（包括反击）",
+            "目标在 3 回合内受到共计 240 点燃烧伤害。"
         ]
     },
     {
         "originalIndex": 958,
-        "name": "玛黑根 (Maheegan)",
+        "name": "勒明盖宁 (Lemminkainen)",
         "effects": [
-            "Deals 280% damage to the target and minor damage to nearby enemies.",
-            "Summons a Bone Trap Fiend for the target and nearby enemies. The Fiend damages the enemy with 45% attack each turn. The damage increases by 8% each turn, up to a maximum of 93%.",
-            "The Bone Trap Fiend absorbs healing and disappears when it has absorbed health equal to 35% of its owner’s max health."
+            "对目标造成 285% 伤害，并对附近敌人造成轻微伤害。",
+            "目标与附近敌人在 4 回合内受到共计 196 点燃烧伤害。对冰雪系角色，此状态效果不可净化且持续时间延长 2 回合。"
         ]
     },
     {
         "originalIndex": 959,
-        "name": "曼皮普 (Manpip)",
+        "name": "勒明盖宁 (Lemminkainen) C1",
         "effects": [
-            "Deals 250% damage to the target and nearby enemies.",
-            "The target and nearby enemies receive 296 Burn damage over 4 turns.",
-            "All buffs affecting attack, defense and mana generation on target and nearby enemies are replaced by matching uncleansable ailments. (Replacing cannot be blocked by status effects, family effects or passives. Only status effects that are dispellable or cleansable can be replaced. Replacement effects: Attack buffs are replaced with -40% attack ailment for 4 turns. Defense buffs are replaced with -40% defense ailment for 4 turns. Mana generation buffs are replaced with -40% mana generation ailment for 4 turns.)"
+            "对目标造成 300% 伤害，并对附近敌人造成轻微伤害。",
+            "目标与附近敌人在 4 回合内受到共计 176 点燃烧伤害。此状态效果施加于冰雪系角色身上时，将变得不可净化，并会额外持续 2 回合。"
         ]
     },
     {
         "originalIndex": 960,
-        "name": "诺娃 (Nova)",
+        "name": "露西 (Lucy)",
         "effects": [
-            "Recovers 25% health for all allies.",
-            "Recovers additional 2% health per each Fire shield on the board, up to 45% health in total.",
-            "Cleanses status ailments from all allies."
+            "当特殊技能充能至 100% / 200% 法力时将拥有不同的效果：",
+            "1 倍法力充能：",
+            "* 对目标造成 180% 伤害。",
+            "* 在 3 回合期间，每次目标使用特殊技能时，其余敌人的法力减少 -8%。",
+            "2 倍法力充能：",
+            "* 所有盟友获得 +24% 法力生成，持续 5 回合。",
+            "* 在后续 5 回合中，每当其他盟友施放特殊技能后，此角色将对所有敌人造成 115% 伤害。每个角色施放特殊技能时，每回合只造成一次伤害。"
         ]
     },
     {
         "originalIndex": 961,
-        "name": "拉乌尔 (Raul)",
+        "name": "马克 (Mack)",
         "effects": [
-            "Deals 120% damage to the target and nearby enemies.",
-            "The target and nearby enemies dance to Ballad of Attraction for 3 turns.  All existing status effects will be removed when this effect is added.",
-            "Ballad of Attraction",
-            "* -20% mana generation.",
-            "* -20% decrease for any healing received.",
-            "* Gives immunity to new status effects. New dance status effects will replace this effect.",
-            "* This effect cannot be dispelled. The effect is removed when the caster dies."
+            "施法者和附近盟友以所受伤害的 125% 进行反击，持续 4 回合。",
+            "施法者和附近盟友获得 +25% 攻击力，持续 4 回合。"
         ]
     },
     {
         "originalIndex": 962,
-        "name": "洛卡莫什 (Rokkamush)",
+        "name": "马克 (Mack) C1",
         "effects": [
-            "Deals 200% damage to all enemies. Each hit has 50% accuracy.",
-            "All hit enemies receive 192 Bleed damage over 4 turns."
+            "施法者和附近盟友以所受伤害的 100% 进行反击，持续 4 回合。",
+            "施法者和附近盟友获得 +35% 攻击力，持续 4 回合。"
         ]
     },
     {
         "originalIndex": 963,
-        "name": "洛卡莫什 (Rokkamush) C1",
+        "name": "玛黑根 (Maheegan)",
         "effects": [
-            "Deals 175% damage to all enemies. Each hit has 80% accuracy.",
-            "All hit enemies receive 200 bleed damage over 4 turns."
+            "对目标造成 280% 伤害，并对附近敌人造成轻微伤害。",
+            "召唤刺骨陷阱恶魔附身于目标及附近敌人。恶魔每回合对敌人造成 45% 攻击力的伤害。该伤害每回合提高 8%，最高可达 93%。",
+            "刺骨陷阱恶魔会吸收治疗，当吸收的治疗量达到其所有者最大生命值的 35% 时，它便会消失。"
         ]
     },
     {
         "originalIndex": 964,
-        "name": "斯嘉丽 (Scarlett)",
+        "name": "曼皮普 (Manpip)",
         "effects": [
-            "Deals 215% damage to the target and minor damage to nearby enemies.",
-            "The target and nearby enemies get -34% attack for 6 turns."
+            "对目标及附近敌人造成 250% 伤害。",
+            "目标与附近敌人在 4 回合内受到共计 296 点燃烧伤害。",
+            "影响目标和附近敌人的攻击、防御和法力生成的所有增益，将替换为对应的不可驱散状态异常。（替换效果无法被状态效果、家族效果或被动技能阻挡。只有可驱散或可净化的增益才可被替换。替换效果：攻击力增益将被 -40% 攻击力异常状态取代，持续 4 回合。防御增益将被 -40% 防御异常状态取代，持续 4 回合。法力生成增益将被 -40% 法力生成异常状态取代，持续 4 回合）"
         ]
     },
     {
         "originalIndex": 965,
-        "name": "斯嘉丽 (Scarlett) C1",
+        "name": "诺娃 (Nova)",
         "effects": [
-            "Deals 185% damage to the target and minor damage to nearby enemies.",
-            "The target and nearby enemies receive 138 Poison damage over 3 turns.",
-            "The caster and nearby allies get +30% attack for 3 turns."
+            "为所有盟友恢复 25% 生命值。",
+            "面板上每存在一个烈火系盾牌，便额外恢复 2% 生命，最多共计恢复 45% 生命值。",
+            "净化所有盟友的状态异常。"
         ]
     },
     {
         "originalIndex": 966,
-        "name": "斯嘉丽 (Scarlett) C2",
+        "name": "拉乌尔 (Raul)",
         "effects": [
-            "Deals 235% damage to the target and minor damage to the nearby enemies.",
-            "The target and nearby enemies get -31% attack, and a further 4% decrease every time they are hit during 4 turns."
+            "对目标及附近敌人造成 120% 伤害。",
+            "目标与附近敌人跳起魅力歌谣，持续 3 回合。添加此效果时将移除所有现有状态效果。",
+            "魅力歌谣：",
+            "* -20% 法力生成。",
+            "* -20% 所获治疗量。",
+            "* 免疫新的状态效果。新的舞蹈状态效果将取代此效果。",
+            "* 此效果无法驱散。施法者阵亡后效果移除。"
         ]
     },
     {
         "originalIndex": 967,
-        "name": "斯嘉丽 (Scarlett) 卡通",
+        "name": "洛卡莫什 (Rokkamush)",
         "effects": [
-            "Deals 220% damage to the target and minor damage to nearby enemies.",
-            "The target and nearby enemies get -24% attack for 6 turns.",
-            "Deals extra damage against Nature."
+            "对所有敌人造成 200% 伤害。每下攻击的精准度为 50%。",
+            "所有命中的敌人在 4 回合内受到共计 192 点流血伤害。"
         ]
     },
     {
         "originalIndex": 968,
-        "name": "沙德里夫 (Shadereave)",
+        "name": "洛卡莫什 (Rokkamush) C1",
         "effects": [
-            "All allies get +30% attack for 4 turns.",
-            "All allies get +30% critical chance for 4 turns.",
-            "All allies receive Draugr Blessing. If the blessed Hero dies in the next 4 turns, they will be reborn as a Draugr with:",
-            "100% inherited health.",
-            "500 attack.",
-            "500 defense.",
-            "Special Skill: Eternal Loyalty"
+            "对所有敌人造成 175% 伤害。每下攻击的精准度为 80%。",
+            "所有命中的敌人在 4 回合内受到共计 200 点流血伤害。"
         ]
     },
     {
         "originalIndex": 969,
-        "name": "页岩 (Shale)",
+        "name": "斯嘉丽 (Scarlett)",
         "effects": [
-            "1x Mana Charge",
-            "* The caster regenerates 411 HP over 3 turns",
-            "* Cleanses status ailments from the caster",
-            "2x Mana Charge",
-            "* The caster and nearby allies regenerate 549 HP over 3 turns",
-            "* Cleanses status ailments from the caster and nearby allies",
-            "3x Mana Charge",
-            "* All allies regenerate 714 HP over 3 turns",
-            "* Cleanses status ailments from all allies"
+            "对目标造成 215% 伤害，并对附近敌人造成轻微伤害。",
+            "目标与附近敌人获得 -34% 攻击力，持续 6 回合。"
         ]
     },
     {
         "originalIndex": 970,
-        "name": "兰斯洛特爵士 (Sir Lancelot)",
+        "name": "斯嘉丽 (Scarlett) C1",
         "effects": [
-            "Deals 265% damage to the target",
-            "The caster and nearby allies get +24% mana generation for 4 turns",
-            "The caster and nearby allies get +48% attack for 4 turns"
+            "对目标造成 185% 伤害，并对附近敌人造成轻微伤害。",
+            "目标与附近敌人在 3 回合内受到共计 138 点剧毒伤害。",
+            "施法者和附近盟友获得 +30% 攻击力，持续 3 回合。"
         ]
     },
     {
         "originalIndex": 971,
-        "name": "住友 (Sumitomo)",
+        "name": "斯嘉丽 (Scarlett) C2",
         "effects": [
-            "Deals 300% damage to the target.",
-            "The caster counterattacks with 135% of the damage received for 5 turns.",
-            "The caster regenerates a moderate amount of mana for each counterattack for 5 turns. This effect gets diminished for consecutive activations during the same turn."
+            "对目标造成 235% 伤害，并对附近敌人造成轻微伤害。",
+            "目标与附近敌人获得 -31% 攻击力，并在每次被击中时再降低 4% 攻击力，持续 4 回合。"
         ]
     },
     {
         "originalIndex": 972,
-        "name": "住友 (Sumitomo) C1",
+        "name": "斯嘉丽 (Scarlett) 卡通",
         "effects": [
-            "Deals 280% damage to the target.",
-            "The caster counterattacks with 155% of the damage received for 5 turns.",
-            "The caster regenerates a moderate amount of mana for each counterattack for 5 turns. The effect gets diminished for consecutive activations during the same turn."
+            "对目标造成 220% 伤害，并对附近敌人造成轻微伤害。",
+            "目标与附近敌人获得 -24% 攻击力，持续 6 回合。",
+            "对自然系造成额外伤害。"
         ]
     },
     {
         "originalIndex": 973,
-        "name": "萨姆勒 (Sumle)",
+        "name": "沙德里夫 (Shadereave)",
         "effects": [
-            "Deals 235% damage to all enemies. Each hit has 80% accuracy.",
-            "The damage is increased by 70% per each dead enemy."
+            "所有盟友获得 +30% 攻击力，持续 4 回合。",
+            "所有盟友获得 +30% 暴击几率，持续 4 回合。",
+            "所有盟友获得尸鬼护佑。若受祝福的英雄在接下来的 4 回合内阵亡，他们将重生为尸鬼，并拥有：",
+            "100% 继承生命值。",
+            "500 攻击力。",
+            "500 防御。",
+            "特殊技能：永恒忠诚。"
         ]
     },
     {
         "originalIndex": 974,
-        "name": "萨姆勒 (Sumle) C1",
+        "name": "页岩 (Shale)",
         "effects": [
-            "Deals 365% damage to target and nearby enemies. Each hit has 85% accuracy.",
-            "The damage is increased by 25% per each dead enemy."
+            "1 倍法力充能：",
+            "* 施法者在 3 回合内恢复 411 点生命值。",
+            "* 净化施法者的状态异常。",
+            "2 倍法力充能：",
+            "* 施法者和附近盟友在 3 回合内恢复 549 点生命值。",
+            "* 净化施法者和附近盟友的状态异常。",
+            "3 倍法力充能：",
+            "* 所有盟友在 3 回合内恢复 714 点生命值。",
+            "* 净化所有盟友的状态异常。"
         ]
     },
     {
         "originalIndex": 975,
-        "name": "孙尚香 (Sun Shangxiang)",
+        "name": "兰斯洛特爵士 (Sir Lancelot)",
         "effects": [
-            "Deals 280% damage to the target and minor damage to dearby enemies.",
-            "The target and nearby enemies get -44% defense, and a further -4% decrease every time they are hit during 3 turns."
+            "对目标造成 265% 伤害。",
+            "施法者和附近盟友获得 +24% 法力生成，持续 4 回合。",
+            "施法者和附近盟友获得 +48% 攻击力，持续 4 回合。"
         ]
     },
     {
         "originalIndex": 976,
-        "name": "冯莱纳 (Vonreine)",
+        "name": "住友 (Sumitomo)",
         "effects": [
-            "Deals 285% damage to the target and nearby enemies.",
-            "Summons a Fire Wisp Fiend to the target and nearby enemies.",
-            "The Fire Wisp Fiend absorbs healing. It disappears after absorbing a healing amount equal to 35% of its target’s max health.",
-            "The caster steals 30% of the generated mana from the target and nearby enemies. This effect lasts as long as the target has Fire Wish Fiends. This effect can’t be cleansed, but gets removed if the caster is defeated."
+            "对目标造成 300% 伤害。",
+            "施法者以所受伤害的 135% 进行反击，持续 5 回合。",
+            "施法者每次反击可恢复适量法力，持续 5 回合。同一回合中效果经连续激活会减弱。"
         ]
     },
     {
         "originalIndex": 977,
-        "name": "威尔伯 (Wilbur)",
+        "name": "住友 (Sumitomo) C1",
         "effects": [
-            "All allies become Soul Connected for 4 turns. Soul Connected allies share received damage.",
-            "All enemies become Soul Connected for 4 turns. Soul Connected enemies share received damage.",
-            "All allies get +63% defense for 4 turns",
-            "All enemies get -44% defense for 4 turns"
+            "对目标造成 280% 伤害。",
+            "施法者以所受伤害的 155% 进行反击，持续 5 回合。",
+            "施法者每次反击可恢复适量法力，持续 5 回合。同一回合中效果经连续激活会减弱。"
         ]
     },
     {
         "originalIndex": 978,
-        "name": "威尔伯 (Wilbur) C1",
+        "name": "萨姆勒 (Sumle)",
         "effects": [
-            "All allies get +100% normal attack for 4 turns. This effect can be active in addition to effects that alter attack in general. Normal attacks can have a total maximum of +140% increased power while this effect is active.",
-            "All allies regenerate 280 HP over 4 turns."
+            "对所有敌人造成 235% 伤害。每下攻击的精准度为 80%。",
+            "每有一个敌人被击败，伤害增加 70%。"
         ]
     },
     {
         "originalIndex": 979,
-        "name": "扎伯格 (Zhabog)",
+        "name": "萨姆勒 (Sumle) C1",
         "effects": [
-            "Deals 350% damage to the target.",
-            "The duration of status ailments is reset for all enemies."
+            "对目标及附近敌人造成 365% 伤害。每下攻击的精准度为 85%。",
+            "每有一个敌人被击败，伤害增加 25%。"
         ]
     },
     {
         "originalIndex": 980,
-        "name": "周瑜 (Zhou Yu)",
+        "name": "孙尚香 (Sun Shangxiang)",
         "effects": [
-            "Deals 355% damage to the target.",
-            "Summons a Wu Soldier Minion for each ally with 10% HP and 18% attack inherited from the caster.",
-            "The target hit by Wu Soldier Minion receives 207 Burn damage over 3 turns."
+            "对目标造成 280% 伤害，并对附近敌人造成轻微伤害。",
+            "目标与附近敌人获得 -44% 防御，并在每次被击中时再降低 -4% 防御，持续 3 回合。"
         ]
     },
     {
         "originalIndex": 981,
-        "name": "周瑜 (Zhou Yu) C1",
+        "name": "冯莱纳 (Vonreine)",
         "effects": [
-            "Deals 345% damage to the target.",
-            "Summons a Wu Soldier Minion for each ally with 22% HP and 30% attack inherited from the caster.",
-            "The target hit by Wu Soldier Minion receives 339 Burn damage over 3 turns."
+            "对目标及附近敌人造成 285% 伤害。",
+            "召唤一个烈火精灵恶魔附身于目标及附近敌人。",
+            "烈火精灵恶魔会吸收治疗。它在吸收了相当于其目标最大生命值 35% 的治疗量后便会消失。",
+            "施法者偷取目标与附近敌人生成法力的 30%。只要目标拥有烈火精灵恶魔，此效果将会持续，并且无法净化，但会在施法者被击败后移除。"
         ]
     },
     {
         "originalIndex": 982,
-        "name": "阿比盖尔 (Abigail)",
+        "name": "威尔伯 (Wilbur)",
         "effects": [
-            "Deals 260% damage to all enemies.",
-            "Summons a Xulu Minion for each ally with 15% HP and 20% attack inherited from the caster.",
-            "Each hit from a Xulu Minion gives the target the following status ailments:",
-            " * The target receives 340 Bleed damage over 4 turns.",
-            " * Inflicts 5 Insanity on the target.",
-            "Inflicts 55 Insanity on the caster."
+            "所有盟友变得灵魂相连，持续 4 回合。灵魂相连的盟友将平摊所受伤害。",
+            "所有敌人变得灵魂相连，持续 4 回合。灵魂相连的敌人将平摊所受伤害。",
+            "所有盟友获得 +63% 防御，持续 4 回合。",
+            "所有敌人获得 -44% 防御，持续 4 回合。"
         ]
     },
     {
         "originalIndex": 983,
-        "name": "埃斯莱高 (Aethslegaur)",
+        "name": "威尔伯 (Wilbur) C1",
         "effects": [
-            "Attacks the target with Firestorm Strike, dealing up to 4000 damage. Deals 40% more if the target is of the Nature element. This Special Skill never misses its targets.",
-            "All allies get +45% chance to dodge attacks and Special Skills for 5 turns.",
-            "This character gets a Mark of Immolation for 5 turns. Whenever an enemy or an ally receives Burn damage, the caster gains a stack. (Max: 10). Each stacks increases mana generation of the caster by +6%."
+            "所有盟友获得 +100% 普通攻击，持续 4 回合。即使英雄身上已有其他影响攻击力的效果，此效果仍然有效。此效果有效期间，普通攻击最多可以增加共计 +140% 攻击力。",
+            "所有盟友在 4 回合内恢复 280 点生命值。"
         ]
     },
     {
         "originalIndex": 984,
-        "name": "阿鲁卡多 (Alucard)",
+        "name": "扎伯格 (Zhabog)",
         "effects": [
-            "Destroys all Minions from the target and nearby enemies. This effect damages Mega Minions.",
-            "Deals 250% damage to the target and nearby enemies.",
-            "All allies recover 10% health for each destroyed Minion.",
-            "All allies get 3% mana for each destroyed Minion.",
-            "The attack bypasses defensive buffs. This includes counterattacks."
+            "对目标造成 350% 伤害。",
+            "重置所有敌人的状态异常持续时间。"
         ]
     },
     {
         "originalIndex": 985,
-        "name": "阿鲁卡多 (Alucard) C1",
+        "name": "周瑜 (Zhou Yu)",
         "effects": [
-            "Destroys all Minions from the target and nearby enemies. This effect damages Mega Minions.",
-            "Deals 245% damage to the target and nearby enemies.",
-            "All allies recover 12% health for each destroyed Minion.",
-            "All allies get 3% mana for each destroyed Minion.",
-            "The attack bypasses defensive buffs. (This includes counterattacks.)"
+            "对目标造成 355% 伤害。",
+            "为每位盟友召唤一个吴军小兵，其可从施法者处继承 10% 生命和 18% 攻击力。",
+            "被吴军小兵击中的目标会在 3 回合内受到共计 207 点燃烧伤害。"
         ]
     },
     {
         "originalIndex": 986,
-        "name": "安布尔 (Amber)",
+        "name": "周瑜 (Zhou Yu) C1",
         "effects": [
-            "Deals 605% damage to the target.",
-            "Heals the caster for 100% of the damage dealt.",
-            "The target resists healing and receives 300 damage per each resisted healing for 4 turns."
+            "对目标造成 345% 伤害。",
+            "为每位盟友召唤一个吴军小兵，其可从施法者处继承 22% 生命和 30% 攻击力。",
+            "被吴军小兵击中的目标会在 3 回合内受到共计 339 点燃烧伤害。"
         ]
     },
     {
         "originalIndex": 987,
-        "name": "安迪·杰 (Andy Jay)",
+        "name": "阿比盖尔 (Abigail)",
         "effects": [
-            "Deals 450% damage to all enemies.",
-            "All allies except the caster dance the Blazing Dave Dance for 3 turns.",
-            "Blazing Rave Dance",
-            " * +50% defense.",
-            " * If the dancer is hit with direct damage from Special Skill, Blazing Rave Dance is extended by 1 turn for all dancers. The dance can only be extended once per turn. (All existing status effect will be removed when a dance status effect is added. Dance gives immunity to new status effects. New dance status effect will replace this effect. Dance effect cannot be dispelled. The effect is removed when the caster is defeated.)"
+            "对所有敌人造成 260% 伤害。",
+            "为每位盟友召唤一个苏鲁小兵，其可从施法者处继承 15% 生命和 20% 攻击力。",
+            "苏鲁小兵每次击中目标都会对目标施加以下状态异常：",
+            "* 目标在 4 回合内受到共计 340 点流血伤害。",
+            "* 对目标施加 5 点狂乱。",
+            "对施法者施加 55 点狂乱。"
         ]
     },
     {
         "originalIndex": 988,
-        "name": "安佐 (Anzogh)",
+        "name": "埃斯莱高 (Aethslegaur)",
         "effects": [
-            "Deals 280% damage to all enemies",
-            "Heals each ally with 35% of total damage dealt",
-            "Element Link gives all Fire allies +46% defense against Ice for 4 turns. This effect can't be cleansed"
+            "使用焰暴闪袭攻击目标，造成最多 4000 点伤害。若目标为自然系元素则额外造成 40% 伤害。该特殊技能必定命中。",
+            "所有盟友拥有 +45% 几率闪避攻击和特殊技能，持续 5 回合。",
+            "该角色获得一层祭品标记，持续 5 回合。每当有敌人或盟友受到燃烧伤害时，施法者获得一层叠加（最大 10 层）。每层叠加可使施法者的魔力生成提高 +6%。"
         ]
     },
     {
         "originalIndex": 989,
-        "name": "阿拉迪亚 (Aradia)",
+        "name": "阿鲁卡多 (Alucard)",
         "effects": [
-            "Reduces max health of all enemies by 570. The effect is stronger against targets with boosted health. Max health can’t get lower than 30% of max health. Any boosted health is reduced by an additional 570.",
-            "All enemies receive 744 Burn damage over 4 turns.",
-            "All enemies get -75% decrease of any boosted health received for 4 turns."
+            "摧毁目标和附近敌人的全部小兵。此效果会对超级小兵造成伤害。",
+            "对目标及附近敌人造成 250% 伤害。",
+            "每摧毁一名小兵，所有盟友恢复 10% 生命值。",
+            "每摧毁一名小兵，所有盟友获得 3% 法力。",
+            "攻击会无视防御增益（包括反击）。"
         ]
     },
     {
         "originalIndex": 990,
-        "name": "阿拉敏塔 (Araminta)",
+        "name": "阿鲁卡多 (Alucard) C1",
         "effects": [
-            "Deals 260% damage to all enemies.",
-            "Stack (Max: 10): All damage all enemies recieve is increased by +7%.",
-            "All allies gain 10% mana after 2 turns, or immediatelly if the effect is removed before the duration ends."
+            "摧毁目标和附近敌人的全部小兵。此效果会对超级小兵造成伤害。",
+            "对目标及附近敌人造成 245% 伤害。",
+            "每摧毁一名小兵，所有盟友恢复 12% 生命值。",
+            "每摧毁一名小兵，所有盟友获得 3% 法力。",
+            "攻击会无视防御增益。（包括反击）"
         ]
     },
     {
         "originalIndex": 991,
-        "name": "阿瑞斯 (Ares)",
+        "name": "安布尔 (Amber)",
         "effects": [
-            "The caster and nearby allies get +54% attack for 4 turns.",
-            "The caster and nearby allies get +36% critical chance for 4 turns.",
-            "The caster and nearby allies regenerate 860 HP over 4 turns.",
-            "Element Link gives all Fire allies +15% attack and +15% defense for 6 turns. This effect can't be dispelled."
+            "对目标造成 605% 伤害。",
+            "为施法者恢复等同于所造成伤害 100% 的生命值。",
+            "目标将抵抗治疗且每次抵抗治疗时都将受到 300 点伤害，持续 4 回合。"
         ]
     },
     {
         "originalIndex": 992,
-        "name": "阿瑞斯 (Ares) C1",
+        "name": "安迪·杰 (Andy Jay)",
         "effects": [
-            "The caster and nearby allies get +45% attack for 4 turns. The attack increases by 5% each turn, up to +60%.",
-            "The caster and nearby allies counterattack with 100% of the damage received for 4 turns. The counterattack damage increases by 10% each turn, up to 130%.",
-            "The caster and nearby allies regenerate 772 boosted health over 4 turns. Boosted health can exceed max HP.",
-            "Element Link gives all Fire allies +15% attack and +15% defense for 6 turns. This effect can't be dispelled."
+            "对所有敌人造成 450% 伤害。",
+            "除施法者外的所有盟友跳起炽焰狂舞，持续 3 回合。",
+            "炽焰狂舞：",
+            "* +50% 防御。",
+            "* 若舞者受到特殊技能的直接伤害，所有舞者的炽焰狂舞持续时间延长 1 回合。此舞蹈每回合只能延长一次。（添加舞蹈状态效果时将移除所有现有状态效果。舞蹈状态效果免疫新的状态效果。新的舞蹈状态效果将取代此效果。舞蹈效果无法驱散。施法者阵亡后效果移除）"
         ]
     },
     {
         "originalIndex": 993,
-        "name": "进阶拟态兽 (Ascension Mimic)",
+        "name": "安佐 (Anzogh)",
         "effects": [
-            "Deals 380% damage to the target and nearby enemies.",
-            "If an enemy is defeated by the attack, the caster recovers +50% health and gains +33% mana.",
-            "The target and nearby enemies receive 668 Bleed damage over 4 turns.",
-            "The Mimic chest closes for 2 turns. (The Mimic is immune to damage and new status ailments while closed.)"
+            "对所有敌人造成 280% 伤害。",
+            "为每个盟友恢复相当于所造成总伤害 35% 的生命值。",
+            "元素链为烈火系盟友提供针对冰雪系 +46% 的防御，持续 4 回合。此效果无法净化。"
         ]
     },
     {
         "originalIndex": 994,
-        "name": "余烬 (Ash)",
+        "name": "阿拉迪亚 (Aradia)",
         "effects": [
-            "Deals 150% damage to 9 random enemies.",
-            "Damage is increased by 5% per each Fire shield on the board, up to +200% damage per hit.",
-            "All hit targets get -35% defense against Fire and a further -5% decrease every time they are hit during 4 turns."
+            "使所有敌人减少 570 点最大生命值。若目标拥有提高的生命值，此效果会增强。最大生命值不能低于初始最大生命值的 30%。任何提高的生命值会额外减少 570 点。",
+            "所有敌人在 4 回合内受到共计 744 点燃烧伤害。",
+            "所有敌人获得的生命加成均减少 -75%，持续 4 回合。"
         ]
     },
     {
         "originalIndex": 995,
-        "name": "阿斯特琉思 (Asterius)",
+        "name": "阿拉敏塔 (Araminta)",
         "effects": [
-            "Deals 360% damage to the target and nearby enemies.",
-            "Reduces the duration of the target and nearby enemies buffs by 1 turn.",
-            "The target and nearby enemies receive Corrosive Burn for 3 turns. The Corrosive Burn deals 101 burn damage and lowers the targets defence by -16% each turn. Deals extra damage against heroes with Minions or Mega Minions."
+            "对所有敌人造成 260% 伤害。",
+            "叠加（最多 10 层）：全体敌人受到的所有伤害增加 +7%。",
+            "所有盟友在 2 回合后获得 10% 法力，或在该效果提前被移除时立即获得。"
         ]
     },
     {
         "originalIndex": 996,
-        "name": "黄金 (Aurum)",
+        "name": "阿瑞斯 (Ares)",
         "effects": [
-            "1x Mana Charge",
-            " * Deals 385% damage to the target.",
-            "* The target gets a Bleed mark for 2 turns. Whenever a marked target receives a Bleed damage, they gain a stack (Max: 10). Each stack increases all damage they target receives by +5%.",
-            " * The target receives 316 Bleed damage over 2 turns.",
-            "2x Mana Charge",
-            " * Deals 395% damage to the target and nearby enemies.",
-            "* The target and nearby enemies get a Bleed mark for 4 turns. Whenever a marked target receives a Bleed damage, they gain a stack (Max: 10). Each stack increases all damage they target receives by +5%.",
-            " * The target and nearby enemies receive 792 Bleed damage over 4 turns.",
-            "3x Mana Charge",
-            " * Deals 405% damage to all enemies.",
-            "* All enemies get a Bleed mark for 6 turns. Whenever a marked target receives a Bleed damage, they gain a stack (Max: 10). Each stack increases all damage they target receives by +5%.",
-            " * All enemies receive 1506 Bleed damage over 6 turns."
+            "施法者和附近盟友获得 +54% 攻击力，持续 4 回合。",
+            "施法者和附近盟友获得 +36% 暴击几率，持续 4 回合。",
+            "施法者和附近盟友在 4 回合内恢复 860 点生命值。",
+            "元素链为全体烈火系盟友提供 +15% 的攻击和 +15% 的防御，持续 6 回合。此效果无法驱散。"
         ]
     },
     {
         "originalIndex": 997,
-        "name": "阿基拉 (Azlar)",
+        "name": "阿瑞斯 (Ares) C1",
         "effects": [
-            "Deals 205% damage to all enemies",
-            "All enemies receive 414 damage over 6 turns"
+            "施法者和附近盟友获得 +45% 攻击力，持续 4 回合。攻击力每回合增加 5%，最高为 +60%。",
+            "施法者和附近盟友会以所受伤害的 100% 进行反击，持续 4 回合。反击伤害每回合增加 10%，最高可达 130%。",
+            "施法者和附近盟友在 4 回合内获得共计 772 点生命加成。提高的生命值可以超过最大生命值。",
+            "元素链为全体烈火系盟友提供 +15% 的攻击和 +15% 的防御，持续 6 回合。此效果无法驱散。"
         ]
     },
     {
         "originalIndex": 998,
-        "name": "阿基拉 (Azlar) C1",
+        "name": "进阶拟态兽 (Ascension Mimic)",
         "effects": [
-            "Deals 205% damage to the target and nearby enemies",
-            "Deals 410% damage if the target has less than 50% health remaining",
-            "The target and nearby enemies receive 472 Burn damage over 2 turns. This effect can't be cleansed."
+            "对目标及附近敌人造成 380% 伤害。",
+            "若本次攻击将敌人击败，那么施法者将恢复 +50% 生命并获得 +33% 法力。",
+            "目标与附近敌人在 4 回合内受到共计 608 点流血伤害。",
+            "拟态兽宝箱关闭 2 回合。（拟态兽宝箱关闭时免疫伤害和新的状态异常）"
         ]
     },
     {
         "originalIndex": 999,
-        "name": "阿基拉 (Azlar) C2",
+        "name": "余烬 (Ash)",
         "effects": [
-            "Deals 310% damage to the target and nearby enemies.",
-            "The target and nearby enemies receive 636 Burn damage over 4 turns. The caster absorbs 40% of the dealt Burn damage as health."
+            "对 9 名随机敌人造成 150% 伤害。",
+            "面板上每拥有一个烈火系盾牌，伤害就会增加 5%，每下攻击最高造成 +200% 伤害。",
+            "所有被击中的目标获得对烈火系 -35% 防御，每次被击中后额外降低 -5% 防御，持续 4 回合。"
         ]
     },
     {
         "originalIndex": 1000,
-        "name": "阿基拉 (Azlar) 卡通",
+        "name": "阿斯特琉思 (Asterius)",
         "effects": [
-            "Deals 355% damage to all enemies.",
-            "All enemies receive 513 damage over 3 turns.",
-            "Deals extra damage against Nature."
+            "对目标及附近敌人造成 360% 伤害。",
+            "目标和附近敌人的增益持续时间减少 1 回合。",
+            "目标与附近敌人受到腐蚀性灼伤，持续 3 回合。腐蚀性灼伤每回合造成 101 点燃烧伤害，并且使目标的防御降低 -16%。对拥有小兵或超级小兵的英雄造成额外伤害。"
         ]
     },
     {
         "originalIndex": 1001,
-        "name": "阿基拉 (Azlar) 玻璃",
+        "name": "黄金 (Aurum)",
         "effects": [
-            "Deals 365% damage to all enemies.",
-            "The attack bypasses defensive buffs. (This includes counterattacks.)",
-            "All enemies receive 621 Burn damage over 2 turns."
+            "1 倍法力充能：",
+            "* 对目标造成 385% 伤害。",
+            "* 目标获得流血标记，持续 2 回合。被标记的目标每次受到流血伤害时都将获得一层叠加（最多 10 层）。每层叠加会使目标受到的所有伤害增加 +5%。",
+            "* 目标在 2 回合内受到共计 316 点流血伤害。",
+            "2 倍法力充能：",
+            "* 对目标及附近敌人造成 395% 伤害。",
+            "* 目标和附近敌人获得流血标记，持续 4 回合。被标记的目标每次受到流血伤害时都将获得一层叠加（最多 10 层）。每层叠加会使目标受到的所有伤害增加 +5%。",
+            "* 目标与附近敌人在 4 回合内受到共计 792 点流血伤害。",
+            "3 倍法力充能：",
+            "* 对所有敌人造成 405% 伤害。",
+            "* 所有敌人获得流血标记，持续 6 回合。被标记的目标每次受到流血伤害时都将获得一层叠加（最多 10 层）。每层叠加会使目标受到的所有伤害增加 +5%。",
+            "* 所有敌人在 6 回合内受到共计 1506 点流血伤害。"
         ]
     },
     {
         "originalIndex": 1002,
-        "name": "巴德尔 (Baldur)",
+        "name": "阿基拉 (Azlar)",
         "effects": [
-            "Deals 165% damage to a random enemy.",
-            "Boosts health of the caster by 1000. Boosted health can exceed max HP.",
-            "All allies resist mana reduction for as long as the caster has boosted health. This effect can't be dispelled.",
-            "Deals 165% damage to a random enemy each turn for as long as the caster has boosted health. This effect can't be dispelled."
+            "对所有敌人造成 205% 伤害。",
+            "所有敌人在 6 回合内受到共计 414 点伤害。"
         ]
     },
     {
         "originalIndex": 1003,
-        "name": "巴德尔 (Baldur) C1",
+        "name": "阿基拉 (Azlar) C1",
         "effects": [
-            "Deals 400% damage to the target.",
-            "Boosts health of the caster by 850. Boosted health can exceed max HP.",
-            "All allies resist mana reduction for as long as the caster has boosted health. This effect can't be dispelled.",
-            "Deals 185% damage to a random enemy each turn for as long as the caster has boosted health. This effect can't be dispelled."
+            "对目标及附近敌人造成 205% 伤害。",
+            "如果目标剩余生命少于 50%，可对其造成 410% 伤害。",
+            "目标与附近敌人在 2 回合内受到共计 472 点燃烧伤害。此效果无法净化。"
         ]
     },
     {
         "originalIndex": 1004,
-        "name": "巴克利 (Barkley)",
+        "name": "阿基拉 (Azlar) C2",
         "effects": [
-            "Deals 300% damage to the target and 2 random enemies.",
-            "Summons a Missile Fiend to hit enemies. The Fiend damages the enemy with 55% attack every turn.",
-            "The Missile Fiend absorbs healing and disappears when it has absorbed health equal to 28% of its owner's max health.",
-            "If an enemy is defeated while it has a Missile Fiend, nearby enemies receive 500 damage."
+            "对目标及附近敌人造成 310% 伤害。",
+            "目标与附近敌人在 4 回合内受到共计 636 点燃烧伤害。施法者会吸收所造成燃烧伤害的 40% 并转化为生命值。"
         ]
     },
     {
         "originalIndex": 1005,
-        "name": "贝尔纳黛特 (Bearnadette)",
+        "name": "阿基拉 (Azlar) 卡通",
         "effects": [
-            "Dispels buffs from all enemies.",
-            "Deals 250% damage to all enemies.",
-            "All enemies turn into Cursed Paintings for 5 turns. This effect can’t be cleansed. Cursed Paintings have 70% attack, 70% defense and the following Special Skill:",
-            "Break Free (Very Fast)",
-            " * Deals 250% damage to the target.",
-            " * 60% chance of removing the Cursed Painting ailment from the caster. (Bosses, Titans and Mythic Titans are not affected by this status effect.)"
+            "对所有敌人造成 355% 伤害。",
+            "所有敌人在 3 回合内受到共计 513 点伤害。",
+            "对自然系造成额外伤害。"
         ]
     },
     {
         "originalIndex": 1006,
-        "name": "贝奥武夫 (Beowulf)",
+        "name": "阿基拉 (Azlar) 玻璃",
         "effects": [
-            "Deals 615% damage to the target.",
-            "Recovers 15% health for all allies.",
-            "Increases the mana of all allies by 10%.",
-            "Stack (Max 10): All allies get +25% attack."
+            "对所有敌人造成 365% 伤害。",
+            "攻击会无视防御增益。（包括反击）",
+            "所有敌人在 2 回合内受到共计 621 点燃烧伤害。"
         ]
     },
     {
         "originalIndex": 1007,
-        "name": "比马 (Bhima)",
+        "name": "巴德尔 (Baldur)",
         "effects": [
-            "This Special Skill never misses its targets.",
-            "Deals 410% damage to the target and nearby enemies.",
-            "Growth Boon: Deals 2x extra damage for each point of modified attack. (Up to a maximum 800 additional extra damage. Status affects affecting damage dealt do affect extra damage. Defense stat does not affect the extra damage. Status effects affecting attack do not affect extra damage.)",
-            "Reduces max health of the target and nearby enemies by 850. The effect is stronger against targets with boosted health. (Max health can’t get lower than 30% of the original max health. Any boosted health is reduced by an additional 850.)",
-            "The target and nearby enemies get -50% accuracy for 3 turns. (Chance to miss also applies to offensive Special Skills.)"
+            "随机对一个敌人造成 165% 伤害。",
+            "提高施法者 1000 点生命值。提高的生命值可以超过最大生命值。",
+            "施法者拥有生命加成时，所有盟友可抵抗法力减损。此效果无法驱散。",
+            "施法者拥有生命加成期间，在每回合结束时对一名随机敌人造成 165% 伤害。此效果无法驱散。"
         ]
     },
     {
         "originalIndex": 1008,
-        "name": "黑凯撒 (Black Caesar)",
+        "name": "巴德尔 (Baldur) C1",
         "effects": [
-            "Deals 335% damage to all enemies.",
-            "Summons a Pirate Skeleton Fiend for all enemies. The Fiend damage the enemy with 100% attack every turn.",
-            "The Pirate Skeleton Fiend absorbs healing. It disappears after absorbing a healing amount equal to 45% of its target’s max health.",
-            "When summoned, the Pirate Skeleton Fiend gives -45% attack for its owner for as long as the owner has Priate Skeleton Fiends. This effect can’t be cleansed."
+            "对目标造成 400% 伤害。",
+            "提高施法者 850 点生命值。提高的生命值可以超过最大生命值。",
+            "施法者拥有生命加成时，所有盟友可抵抗法力减损。此效果无法驱散。",
+            "施法者拥有生命加成期间，在每回合结束时对一名随机敌人造成 185% 伤害。此效果无法驱散。"
         ]
     },
     {
         "originalIndex": 1009,
-        "name": "黑骑士 (Black Knight)",
+        "name": "巴克利 (Barkley)",
         "effects": [
-            "The caster has a 50% chance to drop any received damage to 1 for 3 turns",
-            "The caster gets Taunt that prevents enemies from using Special Skills on the caster's allies for 3 turns.",
-            "All allies get +45% attack, and a further 20% increase every time they are hit during 3 turns"
+            "对目标和随机 2 名敌人造成 300% 伤害。",
+            "召唤导弹恶魔附身于被击中的敌人。恶魔每回合对敌人造成 55% 攻击力的伤害。",
+            "导弹恶魔会吸收治疗。它在吸收了相当于其所有者最大生命值 28% 的治疗量后便会消失。",
+            "若敌人在拥有导弹恶魔期间被击败，则其附近敌人将会受到 500 点伤害。"
         ]
     },
     {
         "originalIndex": 1010,
-        "name": "黑骑士 (Black Knight) C1",
+        "name": "贝尔纳黛特 (Bearnadette)",
         "effects": [
-            "The caster has a 50% chance to drop any received damage to 1 for 4 turns.",
-            "The caster gets Taunt that prevents enemies from using Special Skills on the caster’s allies for 4 turns.",
-            "All allies get +54% attack for 4 turns."
+            "驱散所有敌人的增益。",
+            "对所有敌人造成 250% 伤害。",
+            "所有敌人变成诅咒之画，持续 5 回合。此效果无法净化。诅咒之画拥有 70% 攻击力、 70% 防御和以下特殊技能：",
+            "挣脱束缚：(飞速)",
+            "* 对目标造成 250% 伤害。",
+            "* 60% 几率移除施法者的诅咒之画异常。（首领、泰坦和神话泰坦不受此状态效果影响）"
         ]
     },
     {
         "originalIndex": 1011,
-        "name": "花蕊 (Blossom)",
+        "name": "贝奥武夫 (Beowulf)",
         "effects": [
-            "Recovers 45% health for all allies.",
-            "Dispels buffs from all enemies.",
-            "Recovers 70 health per each removed status effect for all allies, up to 560 health in total."
+            "对目标造成 615% 伤害。",
+            "为所有盟友恢复 15% 生命值。",
+            "使所有盟友的法力增加 10%。",
+            "叠加（最多 10 层）：所有盟友获得 +25% 攻击力。"
         ]
     },
     {
         "originalIndex": 1012,
-        "name": "碎骨魔 (Bonecrusher)",
+        "name": "比马 (Bhima)",
         "effects": [
-            "Deals 540% damage to the target.",
-            "The damage is increased by 30% per each living ally of the caster.",
-            "Stack (Max: 10): The caster gets +15% attack against the weaker element."
+            "此特殊技能必定命中。",
+            "对目标及附近敌人造成 410% 伤害。",
+            "成长恩赐：根据每点调整后的攻击，造成 2 倍额外伤害。（最多额外造成 800 点伤害。影响所造成伤害的状态效果会影响此额外伤害。防御属性不影响额外伤害。影响攻击力的状态效果不影响额外伤害）",
+            "使目标和附近敌人减少 850 点最大生命值。若目标拥有生命加成，此效果会增强。（最大生命值不能低于初始最大生命值的 30%。任何生命加成会额外减少 850 点）",
+            "目标与附近敌人获得 -50% 精准度，持续 3 回合。（进攻型特殊技能也有相同几率落空）"
         ]
     },
     {
         "originalIndex": 1013,
-        "name": "硫磺 (Brimstone)",
+        "name": "黑凯撒 (Black Caesar)",
         "effects": [
-            "Deals 200% damage to all enemies.",
-            "Summons an Infernal Fiend for all enemies. The Fiend damage its target with 80% attack every turn.",
-            "The Infernal Fiend absorbs healing. It disappears after absorbing a healing amount equal to 35% of its target max health.",
-            "When summoned, the Infernal Fiend give -54% defense againt Fire for its target for as long as the target has Infernal Fiends. This effect can’t be cleansed.",
-            "All allies get +86% defense against Ice for 3 turns."
+            "对所有敌人造成 335% 伤害。",
+            "召唤海盗骷髅恶魔附身于所有敌人。恶魔每回合对敌人造成 100% 攻击力的伤害。",
+            "海盗骷髅恶魔会吸收治疗。它在吸收了相当于其目标最大生命值 45% 的治疗量后便会消失。",
+            "海盗骷髅恶魔被召唤后，只要其所有者拥有海盗骷髅恶魔，其所有者就会获得 -45% 攻击力。此效果无法净化。"
         ]
     },
     {
         "originalIndex": 1014,
-        "name": "科斯特雷尔船长 (Captain Kestrel)",
+        "name": "黑骑士 (Black Knight)",
         "effects": [
-            "Deals 215% damage to the target and nearby enemies",
-            "The more mana enemies have, the more damage they will receive, up to 335%"
+            "施法者有 50% 几率将所受的任何伤害降低至 1 点，持续 3 回合。",
+            "施法者获得嘲讽，可阻止敌人对其盟友使用特殊技能，持续 3 回合。",
+            "所有盟友获得 +45% 攻击力，每次被击中后额外增加 20% 攻击力，持续 3 回合。"
         ]
     },
     {
         "originalIndex": 1015,
-        "name": "尼莫船长 (Captain Nemo)",
+        "name": "黑骑士 (Black Knight) C1",
         "effects": [
-            "Deals 300% damage to the target.",
-            "Deals 600% damage if the caster has status ailments or negative stats."
+            "施法者有 50% 几率将所受的任何伤害降低至 1 点，持续 4 回合。",
+            "施法者获得嘲讽，可阻止敌人对其盟友使用特殊技能，持续 4 回合。",
+            "所有盟友获得 +54% 攻击力，持续 4 回合。"
         ]
     },
     {
         "originalIndex": 1016,
-        "name": "尼莫船长 (Captain Nemo) C1",
+        "name": "花蕊 (Blossom)",
         "effects": [
-            "Deals 370% damage to the target.",
-            "Deals 555% damage if the caster has status ailments or negative stacks."
+            "为所有盟友恢复 45% 生命值。",
+            "驱散所有敌人的增益。",
+            "每移除一个状态效果，则为所有盟友恢复 70 点生命值，至多恢复总计 560 点生命值。"
         ]
     },
     {
         "originalIndex": 1017,
-        "name": "红衣主教黎塞留 (Cardinal Richelieu)",
+        "name": "碎骨魔 (Bonecrusher)",
         "effects": [
-            "Deals 330% damage to all enemies.",
-            "Summon a Spy Fiend for all enemies. The Fiend damages the enemy with 45% attack every turn.",
-            "The Spy Fiend absorbs healing and disappears when it has absorbed health equal to 30% of its target’s max health.",
-            "At the end of each turn, the Spy Fiend steals one of its target’s dispellable buffs and gives it to one character on the opposite team."
+            "对目标造成 540% 伤害。",
+            "每有一位施法者的幸存盟友，伤害增加 30%。",
+            "叠加（最多 10 层）：施法者对所克制元素的攻击力提高 +15%。"
         ]
     },
     {
         "originalIndex": 1018,
-        "name": "卡耳门塔 (Carmenta)",
+        "name": "硫磺 (Brimstone)",
         "effects": [
-            "Spreads all of the target’s cleansable status ailments to nearby enemies.",
-            "The duration of the status ailments is reset for target and nearby enemies.",
-            "Deaks 495% damage to the target and minor damage to nearby enemies."
+            "对所有敌人造成 200% 伤害。",
+            "召唤炼狱恶魔附身于所有敌人。恶魔每回合对其目标造成 80% 攻击力的伤害。",
+            "炼狱恶魔会吸收治疗。它在吸收了相当于其目标最大生命值 35% 的治疗量后便会消失。",
+            "炼狱恶魔被召唤后，只要目标拥有炼狱恶魔，该目标就会获得对烈火系 -54% 的防御。此效果无法净化。",
+            "所有盟友获得对冰雪系 +86% 的防御，持续 3 回合。"
         ]
     },
     {
         "originalIndex": 1019,
-        "name": "西里斯 (Ceris)",
+        "name": "科斯特雷尔船长 (Captain Kestrel)",
         "effects": [
-            "Deals 600% damage to the target.",
-            "If the target had more than 50% mana before receiving damage, targets another enemy who had over 50% mana before receiving any damage from this Special Skill. If none of the other enemies had 50% mana, targets a random enemy. The damage is reduced on each consecutive hit. Each enemy can only be hit once.",
-            "All hit enemies get silenced for 6 turns.",
-            "Wither: All enemies get -350 attack and -350 defense."
+            "对目标及附近敌人造成 215% 伤害。",
+            "敌人的法力越高，受到的伤害越大，最高可达 335%。"
         ]
     },
     {
         "originalIndex": 1020,
-        "name": "夏洛塔 (Charlotta)",
+        "name": "尼莫船长 (Captain Nemo)",
         "effects": [
-            "Deals 450% damage to target and nearby enemies.",
-            "The target and nearby enemies dance to Ballad of Condemnation for 3 turns.",
-            "\"Ballad of Condemnation\"",
-            "-50% mana generation.",
-            "-50% decrease of any healing healing received.",
-            "When the dance ends, the target suffers 1500 damage. (All existing status effects will be removed a dance status effect is added. Dance gives immunity to new status effects. New dance status effect will replace this effect. Dance effect cannot be dispelled. This effect is removed when the caster is defeated.)"
+            "对目标造成 300% 伤害。",
+            "如果施法者身上带有状态异常或负面效果叠加，则造成 600% 伤害。"
         ]
     },
     {
         "originalIndex": 1021,
-        "name": "夏麦妮 (Charmione)",
+        "name": "尼莫船长 (Captain Nemo) C1",
         "effects": [
-            "Deals 400% damage to the target and nearby enemies.",
-            "The target and nearby enemies receive Devouring Goo status ailment for 5 turns.",
-            "Devouring Goo: Removes all dispellable buffs and Growth effects, deals 300 damage per turn and 100 damage per each removed effect. (If the target already has this effect, the duration will be refreshed and an extra damage from the removed effects will be added to the new effect. Damage per turn can’t exceed 700.",
-            "After 1 turn the target and nearby enemies get Paralyzed for 4 turns. (Paralyzed enemies can’t attack or gain mana and receive +50% increased damage."
+            "对目标造成 370% 伤害。",
+            "如果施法者身上带有状态异常或负面效果叠加，则造成 555% 伤害。"
         ]
     },
     {
         "originalIndex": 1022,
-        "name": "嘎嘣 (Chomper)",
+        "name": "红衣主教黎塞留 (Cardinal Richelieu)",
         "effects": [
-            "Deals 330% damage to the target and nearby enemies.",
-            "Heals each ally with 40% of the total damage dealt.",
-            "The target and nearby enemies receive 368 Bleed damage over 4 turns."
+            "对所有敌人造成 330% 伤害。",
+            "召唤间谍恶魔附身于所有敌人。恶魔每回合对敌人造成 45% 攻击力的伤害。",
+            "间谍恶魔会吸收治疗。它在吸收了相当于其目标最大生命值 30% 的治疗量后便会消失。",
+            "每回合结束时，间谍恶魔将偷取其目标的其中一个可驱散增益，并将该增益施加于另一战队的一名角色身上。"
         ]
     },
     {
         "originalIndex": 1023,
-        "name": "淳绮罗翼 (Chunkyroi)",
+        "name": "卡耳门塔 (Carmenta)",
         "effects": [
-            "Recovers 45% health for all allies.",
-            "For the next 4 turns, this character recovers 350 boosted health to all allies each time any other ally casts their Special Skill. (Each character an trigger this effect once per turn.)",
-            "All allies get +30% mana generation for 4 turns. (Affects only mana generated from matching tiles or mana gained by the defense team at the end of their turn.)",
-            "Cleanses status ailments from all allies."
+            "将目标身上的可净化状态异常扩散至附近敌人。",
+            "重置目标和附近敌人的状态异常持续时间。",
+            "对目标造成 495% 伤害，并对附近敌人造成轻微伤害。"
         ]
     },
     {
         "originalIndex": 1024,
-        "name": "灰姑娘 (Cinderella)",
+        "name": "西里斯 (Ceris)",
         "effects": [
-            "Cleanses status ailments from all allies.",
-            "All allies become Soul Connected for 4 turns. Soul Connected allies share received damage.",
-            "All enemies become Soul Connected for 4 turns. Soul Connected enemies share received damage.",
-            "All allies get +63% defense for 4 turns.",
-            "All enemies get -44% defense for 4 turns."
+            "对目标造成 600% 伤害。",
+            "若目标在受到伤害前有超过 50% 的法力，则多瞄准一名在受到此特殊技能伤害前有超过 50% 法力的敌人。若其他敌人的法力都在 50% 以下，则多瞄准一名随机敌人。每下攻击的伤害都会递减。每个敌人只能被击中一次。",
+            "所有命中的目标将陷入沉默，持续 6 回合。此效果无法净化。",
+            "衰退：所有敌人获得 -350 点攻击力和 -350 点防御。"
         ]
     },
     {
         "originalIndex": 1025,
-        "name": "屠刀 (Cleaver)",
+        "name": "夏洛塔 (Charlotta)",
         "effects": [
-            "Deals 100% damage to all enemies.",
-            "Summons a Bone Trap Fiend for all enemies. The Fiend damages the enemy with 45% attack each turn. The damage increases by 8% each turn, up to a maximum of 93%.",
-            "The Bone Trap Fiend absorbs healing and disappears when it has absorbed health equal to 35% of its owner’s max health.",
-            "All enemies get -32% attack, and a further -5% decrease every time they are hit during 4 turns."
+            "对目标及附近敌人造成 450% 伤害。",
+            "目标与附近敌人跳起谴责歌谣，持续 3 回合。",
+            "谴责歌谣：",
+            "-50% 法力生成。",
+            "-50% 获得的任何治疗。",
+            "舞蹈结束时，目标受到 1500 点伤害。（添加舞蹈状态效果时将移除所有现有状态效果。舞蹈状态效果免疫新的状态效果。新的舞蹈状态效果将取代此效果。舞蹈效果无法驱散。施法者阵亡后效果移除）"
         ]
     },
     {
         "originalIndex": 1026,
-        "name": "库奇 (Cookie)",
+        "name": "夏麦妮 (Charmione)",
         "effects": [
-            "Reduces the mana of all enemies by 20%.",
-            "Summons an Elf Minion for each ally with 10% HP and 10% attack inherited from the caster.",
-            "All enemies receive a Mystery Potion. After 3 turns the Mystery Potion explodes and deals 450 damage to the target. After the explosion the target can’t gain mana for 3 turns."
+            "对目标及附近敌人造成 400% 伤害。",
+            "目标与附近敌人受到吞噬粘物状态异常，持续 5 回合。",
+            "吞噬粘物：移除所有可驱散的增益和成长效果，每回合造成 300 点伤害，并根据移除的效果数量每个造成 100 点伤害（如果目标已拥有此效果，则刷新持续时间，并将因移除效果而造成的额外伤害添加到新效果中。每回合伤害不能超过 700 ）。",
+            "1 回合后，目标和附近敌人被施加麻木，持续 4 回合（麻木的敌人无法攻击或获得法力，并且受到的伤害提升 +50% ）。"
         ]
     },
     {
         "originalIndex": 1027,
-        "name": "丘比特 (Cupido)",
+        "name": "嘎嘣 (Chomper)",
         "effects": [
-            "Deals 295% damage to the target and nearby enemies.",
-            "For 3 turns, the target and nearby enemies are forced to cast Mindless Heal when at full mana.",
-            "Mindless Heal: Recovers 20% health for the character on the opposing side with the lowest remaining HP."
+            "对目标及附近敌人造成 330% 伤害。",
+            "为每个盟友恢复相当于所造成总伤害 40% 的生命值。",
+            "目标与附近敌人在 4 回合内受到共计 368 点流血伤害。"
         ]
     },
     {
         "originalIndex": 1028,
-        "name": "达达尼昂 (D Artagnan)",
+        "name": "淳绮罗翼 (Chunkyroi)",
         "effects": [
-            "Deals 470% damage to the target.",
-            "The target receives 1065 Burn damage over 3 turns. This effect spreads to nearby enemies.",
-            "Caster regenerates 459 HP over 3 turns."
+            "为所有盟友恢复 45% 生命值。",
+            "在后续 4 回合中，每当其他盟友施放特殊技能后，此角色将使所有盟友恢复 350 点生命值加成。（每个角色每回合只能触发此效果一次）",
+            "所有盟友获得 +30% 法力生成，持续 4 回合。（只影响通过消除方块或由防御队伍在其回合结束时获得的法力）",
+            "净化所有盟友的状态异常。"
         ]
     },
     {
         "originalIndex": 1029,
-        "name": "戴蒙 (Daemon)",
+        "name": "灰姑娘 (Cinderella)",
         "effects": [
-            "Dispels buffs from the target.",
-            "Blocks Talent Skill activation for the target.",
-            "Deals 485% damage to the target.",
-            "The target cannot cast any new status effects on enemies or allies for 3 turns. This includes stacks. This only includes status effects cast with Special Skills."
+            "净化所有盟友的状态异常。",
+            "所有盟友变得灵魂相连，持续 4 回合。灵魂相连的盟友将平摊所受伤害。",
+            "所有敌人变得灵魂相连，持续 4 回合。灵魂相连的敌人将平摊所受伤害。",
+            "所有盟友获得 +63% 防御，持续 4 回合。",
+            "所有敌人获得 -44% 防御，持续 4 回合。"
         ]
     },
     {
         "originalIndex": 1030,
-        "name": "迪马 (Dima)",
+        "name": "屠刀 (Cleaver)",
         "effects": [
-            "Deals 400% damage to the target and nearby enemies.",
-            "The target and nearby enemies get -25% defense for 4 turns. The effect duration resets if the enemy is healed.",
-            "Summons a Sword Guard Mega Minion with 35% HP and 300% attack inherited from the caster.",
-            "The target hit by the Sword Guard Mega Minion recieves 456 Bleed damage over 3 turns. This effect spreads on nearby enemies."
+            "对所有敌人造成 100% 伤害。",
+            "召唤刺骨陷阱恶魔附身于所有敌人。恶魔每回合对敌人造成 45% 攻击力的伤害。该伤害每回合提高 8%，最高可达 93%。",
+            "刺骨陷阱恶魔会吸收治疗，当吸收的治疗量达到其所有者最大生命值的 35% 时，它便会消失。",
+            "所有敌人获得 -32% 攻击力，并在每次被击中时再降低 -5% 攻击力，持续 4 回合。"
         ]
     },
     {
         "originalIndex": 1031,
-        "name": "多米万图斯 (Domiventus)",
+        "name": "库奇 (Cookie)",
         "effects": [
-            "Special Skill need consecutive uses to reach full power, the following order:",
-            "1st:",
-            " * Deals 380% damage to the target and nearby enemies.",
-            " * The target and nearby enemies receive Corrosive Burn over 4 turns. The Corrosive Burn deals 201 Burn damage and lowers the target’s defense by -12% each turn. Deals extra damage against heroes with Minions or Mega Minions.",
-            "2nd:",
-            " * Deals 455% damage to the target and nearby enemies.",
-            " * The target and nearby enemies receive Corrosive Burn over 4 turns. The Corrosive Burn deals 231 Burn damage and lowers the target’s defense by -16% each turn. Deals extra damage against heroes with Minions or Mega Minions."
+            "使所有敌人的法力减少 20%。",
+            "为每位盟友召唤一个精灵小兵，此小兵继承施法者 10% 的生命值和 10% 的攻击力。",
+            "所有敌人获得一瓶神秘药水。神秘药水会在 3 回合后爆炸并对目标造成 450 点伤害。爆炸后目标在 3 回合内无法获得法力。"
         ]
     },
     {
         "originalIndex": 1032,
-        "name": "多米万图斯 (Domiventus) C1",
+        "name": "丘比特 (Cupido)",
         "effects": [
-            "Special Skill need consecutive uses to reach full power, the following order:",
-            "1st:",
-            " * Deals 360% damage to the target and nearby enemies.",
-            " * The target and nearby enemies receive Corrosive Burn for 4 turns. The Corrosive Burn deals 240 Burn damage and lowers the target’s defense by -10% each turn. Deals extra damage against heroes with Minions or Mega Minions.",
-            "2nd:",
-            " * Deals 485% damage to the target and nearby enemies.",
-            " * The target and nearby enemies receive Corrosive Burn for 4 turns. The Corrosive Burn deals 375 Burn damage and lowers the target’s defense by -18% each turn. Deals extra damage against heroes with Minions or Mega Minions."
+            "对目标及附近敌人造成 295% 伤害。",
+            "目标在法力满格时会被强制施放盲目治疗，此效果持续 3 回合。",
+            "盲目治疗：为剩余生命值最低的敌方角色恢复 20% 生命值。"
         ]
     },
     {
         "originalIndex": 1033,
-        "name": "多客森 (Doxan)",
+        "name": "达达尼昂 (D Artagnan)",
         "effects": [
-            "Deals 500% damage to the target and minor damage to all Nature enemies.",
-            "The target and all Nature enemies receive 992 Burn damage over 4 turns."
+            "对目标造成 470% 伤害。",
+            "目标在 3 回合内受到共计 1065 点燃烧伤害。此效果会蔓延至附近敌人。",
+            "施法者在 3 回合内恢复 459 点生命值。"
         ]
     },
     {
         "originalIndex": 1034,
-        "name": "邓纳·哈特 (Dunnar Hart)",
+        "name": "戴蒙 (Daemon)",
         "effects": [
-            "Deals 500% damage to all enemies.",
-            "All enemies receive Corrosive Burn for 5 turns. The Corrosive Burn deals 322 Burn damage and lowers the target’s defense by -13% each turn. Deals extra damage against heroes with Minions and Mega Minion.",
-            "The caster regenerate 1480 boosted health over 4 turns. Boosted health can exceed max HP.",
-            "The caster gets +50% mana generation for 4 turns. (Affects only mana generated from matching tiles or mana gained by the defense team at the end of their turn.)"
+            "驱散目标身上的增益。",
+            "阻止目标触发天赋技能。",
+            "对目标造成 485% 伤害。",
+            "目标无法对敌人或盟友施放任何新的状态效果，持续 3 回合。包括叠加。此效果只对通过特殊技能施放的状态效果有效。"
         ]
     },
     {
         "originalIndex": 1035,
-        "name": "埃芭 (Ebba)",
+        "name": "迪马 (Dima)",
         "effects": [
-            "Deals 585% damage to the target.",
-            "Deals an additional 260% damage to as many random enemies as there are Fiends owned by enemies. The damage is reduced on each consecutive hit.",
-            "All hit targets cannot cast any new status effects on enemies or allies for 4 turns. (This includes stack. This only includes status effects cast with Special Skill.)",
-            "All hit targets get -54% attack for 4 turns."
+            "对目标及附近敌人造成 400% 伤害。",
+            "目标获得 -25% 防御，持续 4 回合。若该敌人受到治疗，则效果持续时间将重置。",
+            "召唤一个持剑守卫超级小兵，其可从施法者处继承 35% 生命值和 300% 攻击力。",
+            "被持剑守卫超级小兵击中的目标会在 3 回合内受到共计 456 点流血伤害。此效果会蔓延至附近敌人。"
         ]
     },
     {
         "originalIndex": 1036,
-        "name": "埃尔杜克 (El Duque)",
+        "name": "多米万图斯 (Domiventus)",
         "effects": [
-            "Deals 355% damage to the target and minor damage to nearby enemies.",
-            "Stack: (Max: 10): The target and nearby enemies get -9% defense."
+            "必须连续使用特殊技能才能达到其最大威力，顺序为：",
+            "第一次：",
+            "* 对目标及附近敌人造成 380% 伤害。",
+            "* 目标与附近敌人受到腐蚀性灼伤，持续 4 回合。腐蚀性灼伤每回合造成 201 点燃烧伤害，并使目标的防御降低 -12%。对拥有小兵或超级小兵的英雄造成额外伤害。",
+            "第二次：",
+            "* 对目标及附近敌人造成 455% 伤害。",
+            "* 目标与附近敌人受到腐蚀性灼伤，持续 4 回合。腐蚀性灼伤每回合造成 231 点燃烧伤害，并使目标的防御降低 -16%。对拥有小兵或超级小兵的英雄造成额外伤害。"
         ]
     },
     {
         "originalIndex": 1037,
-        "name": "厄尔巴 (Elba)",
+        "name": "多米万图斯 (Domiventus) C1",
         "effects": [
-            "Deals 325% damage to the target and nearby enemies.",
-            "Caster and nearby allies recover 1000 health for 4 turns. If the effect is removed before the duration ends, recovers 1300 health instead.",
-            "The caster and nearby allies counterattack with 125% of the damage received for 4 turns."
+            "必须连续使用特殊技能才能达到其最大威力，顺序为：",
+            "第一次：",
+            "* 对目标及附近敌人造成 360% 伤害。",
+            "* 目标与附近敌人受到腐蚀性灼伤，持续 4 回合。腐蚀性灼伤每回合造成 240 点燃烧伤害，并使目标的防御降低 -10%。对拥有小兵或超级小兵的英雄造成额外伤害。",
+            "第二次：",
+            "* 对目标及附近敌人造成 485% 伤害。",
+            "* 目标与附近敌人受到腐蚀性灼伤，持续 4 回合。腐蚀性灼伤每回合造成 375 点燃烧伤害，并使目标的防御降低 -18%。对拥有小兵或超级小兵的英雄造成额外伤害。"
         ]
     },
     {
         "originalIndex": 1038,
-        "name": "艾琳娜 (Elena)",
+        "name": "多客森 (Doxan)",
         "effects": [
-            "Deals 202% damage to all enemies.",
-            "The caster and nearby allies counterattack with 125% of the damage received for 5 turns."
+            "对目标造成 500% 伤害，并对所有自然系敌人造成轻微伤害。",
+            "目标和所有自然系敌人在 4 回合内受到共计 992 点燃烧伤害。"
         ]
     },
     {
         "originalIndex": 1039,
-        "name": "艾琳娜 (Elena) C1",
+        "name": "邓纳·哈特 (Dunnar Hart)",
         "effects": [
-            "Deals 172% damage to all enemies.",
-            "The caster and nearby allies counterattack with 155% of the damage received for 5 turns."
+            "对所有敌人造成 500% 伤害。",
+            "所有敌人受到腐蚀性灼伤，持续 5 回合。腐蚀性灼伤每回合造成 322 点燃烧伤害，并使目标的防御降低 -13%。对拥有小兵或巨大体型小兵的英雄造成额外伤害。",
+            "施法者在 4 回合内获得 1480 点生命加成。提高的生命值可以超过最大生命值。",
+            "施法者获得 +50% 法力生成，持续 4 回合。（只影响通过消除方块或由防御队伍在其回合结束时获得的法力）"
         ]
     },
     {
         "originalIndex": 1040,
-        "name": "艾琳娜 (Elena) C2",
+        "name": "埃芭 (Ebba)",
         "effects": [
-            "Deals 242% damage to all enemies.",
-            "The caster and nearby allies counterattack with 115% of the damage received for 5 turns. The counterattack damage increases +10% each turn, up to 155%."
+            "对目标造成 585% 伤害。",
+            "对随机数量的敌人造成额外 260% 伤害，数量与敌人拥有的恶魔数量相同。每下攻击的伤害都会递减。",
+            "所有命中的目标无法对敌人或盟友施放任何新的状态效果，持续 4 回合。（包括叠加。此效果只对通过特殊技能施放的状态效果有效）",
+            "所有命中的目标获得 -54% 攻击力，持续 4 回合。"
         ]
     },
     {
         "originalIndex": 1041,
-        "name": "艾琳娜 (Elena) 卡通",
+        "name": "埃尔杜克 (El Duque)",
         "effects": [
-            "Deals 352% damage to all enemies.",
-            "The caster and nearby allies counterattack with 120% of the damage received for 5 turns.",
-            "Deals extra damage against Nature."
+            "对目标造成 355% 伤害，并对附近敌人造成轻微伤害。",
+            "叠加：（最多 10 层）目标和附近的敌人获得 -9% 的防御。"
         ]
     },
     {
         "originalIndex": 1042,
-        "name": "艾琳娜 (Elena) 玻璃",
+        "name": "厄尔巴 (Elba)",
         "effects": [
-            "Deals 362% damage to all enemies.",
-            "The attack bypasses defensive buffs. (This includes counterattacks.)",
-            "The caster and nearby allies counterattack with 120% of the damage received for 5 turns."
+            "对目标及附近敌人造成 325% 伤害。",
+            "施法者和附近盟友在 4 回合后恢复 1000 点生命值。若该效果在持续时间结束前被移除或取代，则改为恢复 1300 点生命值。",
+            "施法者和附近盟友以所受伤害的 125% 进行反击，持续 4 回合。"
         ]
     },
     {
         "originalIndex": 1043,
-        "name": "埃利亚涅 (Eliane)",
+        "name": "艾琳娜 (Elena)",
         "effects": [
-            "Deals 300% damage to all enemies.",
-            "All enemies receive 640 Burn damage over 4 turns.",
-            "Dispel buffs from all enemies.",
-            "Elemental Link gives all Fire allies +30% defense against Special Skills for 4 turns. This effect can’t be dispelled."
+            "对所有敌人造成 202% 伤害。",
+            "施法者和附近盟友以所受伤害的 125% 进行反击，持续 5 回合。"
         ]
     },
     {
         "originalIndex": 1044,
-        "name": "伊丽莎白 (Elizabeth)",
+        "name": "艾琳娜 (Elena) C1",
         "effects": [
-            "Deals 175% damage to all enemies.",
-            "Summons a Spider Fiend for all enemies. The Fiend damages the enemy with 43% attack every turn.",
-            "The Spider Fiend absorbs healing and disappears when it has absorbed health equal to 28% of the target's max health.",
-            "The Spider Fiend gives -24% mana generation for its owner as long as the owner has Spider Fiends. This effect cannot be cleansed."
+            "对所有敌人造成 172% 伤害。",
+            "施法者和附近盟友以所受伤害的 155% 进行反击，持续 5 回合。"
         ]
     },
     {
         "originalIndex": 1045,
-        "name": "伊丽莎白 (Elizabeth) C1",
+        "name": "艾琳娜 (Elena) C2",
         "effects": [
-            "Deals 165% damage to all enemies.",
-            "Summons a Spider Fiend for all enemies. The Fiend damages its target with 41% attack every turn.",
-            "The Spider Fiend absorbs healing. It disappears after absorbing a healing amount equal to 40% ot its target's max health.",
-            "When summoned, the Spider Fiend gives -28% mana generation for its owner for as long as the owner has Spider Fiends. This effect can't be cleansed."
+            "对所有敌人造成 242% 伤害。",
+            "施法者和附近盟友会以所受伤害的 115% 进行反击，持续 5 回合。反击伤害每回合增加 +10%，最高可达 155%。"
         ]
     },
     {
         "originalIndex": 1046,
-        "name": "安柏 (Ember)",
+        "name": "艾琳娜 (Elena) 卡通",
         "effects": [
-            "Deals 300% damage to all enemies.",
-            "Summons a Firewall Minion for all allies with 35% HP inherited from the caster.",
-            "Each time a Firewall Minion is attacked by normal attacks or Special Skills, the attacker receives Corrosive Burn for 3 turns. The Corrosive Burn deals 200 Burn damage and lowers the target’s defense by -10% each turn. Deals extra damage against heroes with Minions or a Mega Minion."
+            "对所有敌人造成 352% 伤害。",
+            "施法者和附近盟友以所受伤害的 120% 进行反击，持续 5 回合。",
+            "对自然系造成额外伤害。"
         ]
     },
     {
         "originalIndex": 1047,
-        "name": "埃米利奥 (Emilio)",
+        "name": "艾琳娜 (Elena) 玻璃",
         "effects": [
-            "Casts one of the following special skills:",
-            " ",
-            "If any enemy has the Burn Status Ailment:",
-            " * All enemies receive 415 Burn damage over 5 turns.",
-            " * All allies regenerate 549 HP over 3 turns.",
-            " * All allies are immune to new status ailments for 3 turns.",
-            "Otherwise:",
-            " * All enemies receive 365 Burn damage over 5 turns.",
-            " * All allies are immune to new status ailments for 3 turns."
+            "对所有敌人造成 362% 伤害。",
+            "攻击会无视防御增益。（包括反击）",
+            "施法者和附近盟友以所受伤害的 120% 进行反击，持续 5 回合。"
         ]
     },
     {
         "originalIndex": 1048,
-        "name": "埃米利奥 (Emilio) C1",
+        "name": "埃利亚涅 (Eliane)",
         "effects": [
-            "Casts one of the following Special Skills:",
-            " ",
-            "If any enemy has the Burn status ailment:",
-            " * All enemies receive 715 Burn damage over 5 turns.",
-            " * All allies regenerate 450 HP over 3 turns.",
-            " * All allies are immune to new status ailments for 3 turns.",
-            "Otherwise:",
-            " * All enemies receive 620 Burn damage over 5 turns.",
-            " * All allies are immune to new status ailments for 3 turns."
+            "对所有敌人造成 300% 伤害。",
+            "所有敌人在 4 回合内受到共计 640 点燃烧伤害。",
+            "驱散所有敌人的增益。",
+            "元素链为全体烈火系盟友提供针对特殊技能的 +30% 防御，持续 4 回合。此效果无法驱散。"
         ]
     },
     {
         "originalIndex": 1049,
-        "name": "厄瑞玻斯 (Erebus)",
+        "name": "伊丽莎白 (Elizabeth)",
         "effects": [
-            "Special Skill has a different effect when charged with 100% / 200% / 300% mana:",
-            "1x Mana Charge:",
-            "* Destroys all Minions from the target.",
-            "* Deals 520% damage to the target.",
-            "2x Mana Charge:",
-            "* Destroys all Minions from the target.",
-            "* Deals 610% damage to the target.",
-            "* The target can’t summon new Minions with Special Skill and receives 200 damage for each Minion they attempt to summon for 3 turns.",
-            "3x Mana Charge:",
-            "* Destroys all Minions from the target.",
-            "* Deals 675% damage to the target.",
-            "* The target can’t summon new Minions with Special Skill and receives 200 damage for each Minion they attempt to summon for 4 turns."
+            "对所有敌人造成 175% 伤害。",
+            "召唤蜘蛛恶魔附身于所有敌人。恶魔每回合对敌人造成 43% 攻击力的伤害。",
+            "蜘蛛恶魔会吸收治疗。它在吸收了相当于其目标最大生命值 28% 的治疗量后便会消失。",
+            "蜘蛛恶魔被召唤后，只要其所有者拥有蜘蛛恶魔，其所有者就会获得 -24% 法力生成。此效果无法净化。"
         ]
     },
     {
         "originalIndex": 1050,
-        "name": "埃隆 (Eron)",
+        "name": "伊丽莎白 (Elizabeth) C1",
         "effects": [
-            "Attacks the target with Moonrise Strike, dealing up to 2180 damage. Deals 40% more damage if the target is Holy.",
-            "The target automatically casts Shifting Mindless Attack on a random ally when mana is full at the start of a turn during 4 turns. When this effect is triggered, it shifts to the hit ally and duration is refreshed.",
-            "All enemies get -35% defense for 4 turns."
+            "对所有敌人造成 165% 伤害。",
+            "召唤蜘蛛恶魔附身于所有敌人。恶魔每回合对其目标造成 41% 攻击力的伤害。",
+            "蜘蛛恶魔会吸收治疗。它在吸收了相当于其目标最大生命值 40% 的治疗量后便会消失。",
+            "蜘蛛恶魔被召唤后，只要其所有者拥有蜘蛛恶魔，其所有者就会获得 -28% 法力生成。此效果无法净化。"
         ]
     },
     {
         "originalIndex": 1051,
-        "name": "经验拟态兽 (Experience Mimic)",
+        "name": "安柏 (Ember)",
         "effects": [
-            "Destroys all Minions from the target. This effect damages Mega Minions.",
-            "Deals 530% damage to the target.",
-            "If the target is defeated by the attack, the caster recovers +50% health and gains 33% mana.",
-            "The Mimic chest closes for 2 turns. (The Mimic is immune to damage and new status ailments while closed.)"
+            "对所有敌人造成 300% 伤害。",
+            "为所有盟友召唤一个火墙小兵，其可从施法者处继承 35% 生命值。",
+            "火墙小兵每当受到普通攻击或特殊技能攻击时，攻击者都会受到腐蚀性灼伤，持续 3 回合。腐蚀性灼伤每回合造成 200 点燃烧伤害，并使目标的防御降低 -10%。对拥有小兵或超级小兵的英雄造成额外伤害。"
         ]
     },
     {
         "originalIndex": 1052,
-        "name": "费玛芬格 (Fimafeng)",
+        "name": "埃米利奥 (Emilio)",
         "effects": [
-            "Cleanses status ailments from the caster.",
-            "Attacks the target with Frostfall Strike, dealing up to 3000 damage. Deals 40% more if the target is of the Fire element. This Special Skill never misses its targets.",
-            "Stack (Max: 10): All allies get +5% mana generation.(Affects only mana generated from matching tiles or mana gained by the defense team at the end of their turn.)",
-            "Stack (Max: 10): All allies get +20% defense."
+            "施放以下特殊技能之一：",
+            "若任何敌人身上带有燃烧状态异常：",
+            "* 所有敌人在 5 回合内受到共计 415 点燃烧伤害。",
+            "* 所有盟友在 3 回合内恢复 549 点生命值。",
+            "* 所有盟友对新的状态异常免疫，持续 3 回合。",
+            "否则：",
+            "* 所有敌人在 5 回合内受到共计 365 点燃烧伤害。",
+            "* 所有盟友对新的状态异常免疫，持续 3 回合。"
         ]
     },
     {
         "originalIndex": 1053,
-        "name": "炎皮 (Flamehide)",
+        "name": "埃米利奥 (Emilio) C1",
         "effects": [
-            "Deals 375% damage to the target.",
-            "Summons a Sword Guard Mega Minion with 35% HP and 300% attack inherited from the caster.",
-            "The target hit by the Sword Guard Mega Minion receives 468 Bleed damage over 3 turns. This effect spreads to nearby enemies."
+            "施放以下特殊技能之一：",
+            "若任何敌人身上带有燃烧状态异常：",
+            "* 所有敌人在 5 回合内受到共计 715 点燃烧伤害。",
+            "* 所有盟友在 3 回合内恢复 450 点生命值。",
+            "* 所有盟友对新的状态异常免疫，持续 3 回合。",
+            "否则：",
+            "* 所有敌人在 5 回合内受到共计 620 点燃烧伤害。",
+            "* 所有盟友对新的状态异常免疫，持续 3 回合。"
         ]
     },
     {
         "originalIndex": 1054,
-        "name": "飞力普 (Flip)",
+        "name": "厄瑞玻斯 (Erebus)",
         "effects": [
-            "Recovers 45% health for all allies.",
-            "All allies bypass defensive buffs with their attacks for 4 turns. Defensive buffs include counterattacks.",
-            "All allies get +50% critical chance for 4 turns."
+            "当特殊技能充能至 100% / 200% / 300% 法力时将拥有不同的效果：",
+            "1 倍法力充能：",
+            "* 摧毁目标的所有小兵。",
+            "* 对目标造成 520% 伤害。",
+            "2 倍法力充能：",
+            "* 摧毁目标的所有小兵。",
+            "* 对目标造成 610% 伤害。",
+            "* 目标无法通过特殊技能召唤新的小兵，且每当尝试召唤一名小兵时都会受到 200 点伤害，持续 3 回合。",
+            "3 倍法力充能：",
+            "* 摧毁目标的所有小兵。",
+            "* 对目标造成 675% 伤害。",
+            "* 目标无法通过特殊技能召唤新的小兵，且每当尝试召唤一名小兵时都会受到 200 点伤害，持续 4 回合。"
         ]
     },
     {
         "originalIndex": 1055,
-        "name": "飞力普 (Flip) C1",
+        "name": "埃隆 (Eron)",
         "effects": [
-            "Recovers 50% health for all allies.",
-            "All allies bypass defensive buffs with their attacks for 4 turns. (Defensive buffs include counterattacks.)",
-            "All allies get +55% critical chance for 4 turns."
+            "使用月出闪袭攻击目标，造成最多 2180 点伤害。若目标为神圣系元素则额外造成 40% 伤害。",
+            "在 4 回合内，若目标在回合开始时法力满格，该目标将自动对一名随机盟友施放莽夫乱拳交错。触发此效果时，该效果将转移到被击中的盟友身上并刷新持续时间。",
+            "所有敌人获得 -35% 防御，持续 4 回合。"
         ]
     },
     {
         "originalIndex": 1056,
-        "name": "富尔维亚 (Fulvia)",
+        "name": "经验拟态兽 (Experience Mimic)",
         "effects": [
-            "Attacks the target and nearby enemies with Moonrise Strike, dealing up to 1440 damage. Deals 40% more damage if the target is Holy.",
-            "For 3 turns, reduces the mana of the target and nearby enemies by -15% at the end of turn.",
-            "The target and nearby enemies get -50% decrease for any healing received for 3 turns."
+            "摧毁目标的全部小兵。此效果会对超级小兵造成伤害。",
+            "对目标造成 530% 伤害。",
+            "若本次攻击将敌人击败，那么施法者将恢复 +50% 生命并获得 33% 法力。",
+            "拟态兽宝箱关闭 2 回合。（拟态兽宝箱关闭时免疫伤害和新的状态异常）"
         ]
     },
     {
         "originalIndex": 1057,
-        "name": "绯红 (Garnet)",
+        "name": "费玛芬格 (Fimafeng)",
         "effects": [
-            "1x Mana Charge",
-            "* Boosts health of all allies by 230. Boosted health can exceed max HP.",
-            "* All allies are immune to new status ailments for 2 turns.",
-            "2x Mana Charge",
-            "* Boosts health of all allies by 450. Boosted health can exceed max HP.",
-            "* All allies are immune to new status ailments for 3 turns.",
-            "3x Mana Charge",
-            "* Boosts health of all allies by 750. Boosted health can exceed max HP.",
-            "* All allies are immune to new status ailments for 4 turns."
+            "净化施法者的状态异常。",
+            "使用霜降打击攻击目标，造成最多 3000 点伤害。若目标为火焰系元素，则额外造成 40% 伤害。该特殊技能必定命中。",
+            "叠加（最多： 10 层）：所有盟友获得 +5% 法力生成。（只影响通过消除方块或由防御队伍在其回合结束时获得的法力）",
+            "叠加（最多： 10 ）：盟友获得 +20% 的防御。"
         ]
     },
     {
         "originalIndex": 1058,
-        "name": "格费因 (Gefjon)",
+        "name": "炎皮 (Flamehide)",
         "effects": [
-            "Steals minions from the target.",
-            "Deals 500% damage to the target."
+            "对目标造成 375% 伤害。",
+            "召唤一个持剑守卫超级小兵，其可从施法者处继承 35% 生命值和 300% 攻击力。",
+            "被持剑守卫超级小兵击中的目标会在 3 回合内受到共计 468 点流血伤害。此效果会蔓延至附近敌人。"
         ]
     },
     {
         "originalIndex": 1059,
-        "name": "格费因 (Gefjon) C1",
+        "name": "飞力普 (Flip)",
         "effects": [
-            "Destroys all Minions from the target and nearby enemies. This effect damages Mega Minions.",
-            "Deals 335% damage to the target and nearby enemies."
+            "为所有盟友恢复 45% 生命值。",
+            "所有盟友攻击时无视防御增益（包括反击），持续 4 回合。",
+            "所有盟友获得 +50% 暴击几率，持续 4 回合。"
         ]
     },
     {
         "originalIndex": 1060,
-        "name": "格式塔 (Gestalt)",
+        "name": "飞力普 (Flip) C1",
         "effects": [
-            "Special Skill need consecutive uses to reach full power, the following order:",
-            "1st:",
-            " * Deals 300% damage to 3 random enemies.",
-            " * Hit enemies became afflicted with Underwater Magma Cube.",
-            " * While afflicted with Magma Cube the owner get -34% defense.",
-            " * Magma Cube explode in 3 turns doing 300 damage to their owner.",
-            " * If Magma Cube is cleansed, the owner get -34% mana generation for 3 turns.",
-            "2nd:",
-            " * Deals 350% damage to 5 random enemies.",
-            " * Hit enemies became afflicted with Underwater Magma Cube.",
-            " * While afflicted with Magma Cube the owner get -44% defense.",
-            " * Magma Cube explode in 3 turns doing 450 damage to their owner.",
-            " * If Magma Cube is cleansed, the owner get -54% mana generation for 3 turns."
+            "为所有盟友恢复 50% 生命值。",
+            "所有盟友攻击时无视防御增益（包括反击），持续 4 回合。",
+            "所有盟友获得 +55% 暴击几率，持续 4 回合。"
         ]
     },
     {
         "originalIndex": 1061,
-        "name": "格式塔 (Gestalt) C1",
+        "name": "富尔维亚 (Fulvia)",
         "effects": [
-            "Special Skill need consecutive uses to reach full power, the following order:",
-            "1st:",
-            " * Deals 275% damage to 3 random enemies.",
-            " * Hit enemies became afflicted with Underwater Magma Cube.",
-            " * While afflicted with Magma Cube the owner get -34% defense",
-            " * Magma Cube explode in 3 turns doing 300 damage to their owner.",
-            " * If Magma Cube is cleansed, the owner get -34% mana generation for 3 turns. (If the Magma Cube is replaced by a new Magma Cube, it explodes. This can happen up to 2 times per cast.)",
-            "2nd:",
-            " * Deals 375% damage to 5 random enemies.",
-            " * Hit enemies became afflicted with Underwater Magma Cube.",
-            " * While afflicted with Magma Cube the owner get -44% defense.",
-            " * Magma Cube explode in 4 turns doing 450 damage to their owner.",
-            " * If Magma Cube is cleansed, the owner get -54% mana generation for 3 turns. (If the Magma Cube is replaced by a new Magma Cube, it explodes. This can happen up to 2 times per cast.)"
+            "使用月出闪袭攻击目标和附近敌人，造成最多 1440 点伤害。若目标为神圣系元素则额外造成 40% 伤害。",
+            "每回合结束时，目标及附近敌人的法力减少 -15%，持续 3 回合。",
+            "目标与附近敌人获得的治疗减少 -50%，持续 3 回合。"
         ]
     },
     {
         "originalIndex": 1062,
-        "name": "古兹 (Gooze)",
+        "name": "绯红 (Garnet)",
         "effects": [
-            "All enemies become Provoked for 4 turns. The Provoked character deals 1% damage to a random opponent at the end of the turn. This effect can’t be dispelled.",
-            "All allies get Sticky Surface for 4 turns. This effect can’t be dispelled.",
-            "Sticky Surface: Steals 1 random dispellable buff or Growth effect from an attacking enemy. (Stolen dispellable buff is chosen by random. Sticky Surface is activated when any damage is received from an enemy. Each character with Sticky Surface can only steal one status effect buff or Growth effect per turn from normal attacks.)",
-            "All allies get +55% defense for 4 turns."
+            "1 倍法力充能：",
+            "* 提高所有盟友 230 点生命值。提高的生命值可以超过最大生命值。",
+            "* 所有盟友对新的状态异常免疫，持续 2 回合。",
+            "2 倍法力充能：",
+            "* 提高所有盟友 450 点生命值。提高的生命值可以超过最大生命值。",
+            "* 所有盟友对新的状态异常免疫，持续 3 回合。",
+            "3 倍法力充能：",
+            "* 提高所有盟友 750 点生命值。提高的生命值可以超过最大生命值。",
+            "* 所有盟友对新的状态异常免疫，持续 4 回合。"
         ]
     },
     {
         "originalIndex": 1063,
-        "name": "造墓人 (Gravemaker)",
+        "name": "格费因 (Gefjon)",
         "effects": [
-            "Deals 200% damage to the target and nearby enemies.",
-            "The target and nearby enemies receive 492 burn damage over 2 turns.",
-            "Deals extra damage against Nature.",
-            "Element Link gives all Fire allies +5% attack and +5% defense for 6 turns. This effect can't be cleansed."
+            "从目标处偷取小兵。",
+            "对目标造成 500% 伤害。"
         ]
     },
     {
         "originalIndex": 1064,
-        "name": "造墓人 (Gravemaker) C1",
+        "name": "格费因 (Gefjon) C1",
         "effects": [
-            "Deals 175% damage to all enemies.",
-            "All enemies receive 542 Burn damage over 2 turns.",
-            "Element Link give all Fire allies +5% attack and +5% defense for 6 turns. This effect can't be dispelled."
+            "摧毁目标和附近敌人的全部小兵。此效果会对超级小兵造成伤害。",
+            "对目标及附近敌人造成 335% 伤害。"
         ]
     },
     {
         "originalIndex": 1065,
-        "name": "格拉祖 (Grazul)",
+        "name": "格式塔 (Gestalt)",
         "effects": [
-            "Recovers 22% health for all allies",
-            "All allies are immune to new status ailments for 2 turns.",
-            "Element Link gives +4% mana regeneration for all Fire allies for 4 turns. This effect can't be dispelled."
+            "必须连续使用特殊技能才能达到其最大威力，顺序为：",
+            "第一次：",
+            "* 对随机 3 名敌人造成 300% 伤害。",
+            "* 被击中的敌人被施加深海熔岩魔方。",
+            "* 被施加熔岩魔方期间，所有者获得 -34% 防御。",
+            "* 熔岩魔方在 3 回合后爆炸，对其所有者造成 300 点伤害。",
+            "* 如果熔岩魔方被净化，其所有者获得 -34% 法力生成，持续 3 回合。",
+            "第二次：",
+            "* 对随机 5 名敌人造成 350% 伤害。",
+            "* 被击中的敌人被施加深海熔岩魔方。",
+            "* 被施加熔岩魔方期间，所有者获得 -44% 防御。",
+            "* 熔岩魔方在 3 回合后爆炸，对其所有者造成 450 点伤害。",
+            "* 如果熔岩魔方被净化，其所有者获得 -54% 法力生成，持续 3 回合。"
         ]
     },
     {
         "originalIndex": 1066,
-        "name": "金刚守护者 (Guardian Kong)",
+        "name": "格式塔 (Gestalt) C1",
         "effects": [
-            "Deals 250% damage to all enemies.",
-            "All allies get +94% defense against Ice for 4 turns.",
-            "Cleanses status ailments from all allies."
+            "必须连续使用特殊技能才能达到其最大威力，顺序为：",
+            "第一次：",
+            "* 对随机 3 名敌人造成 275% 伤害。",
+            "* 被击中的敌人被施加深海熔岩魔方。",
+            "* 被施加熔岩魔方期间，所有者获得 -34% 防御。",
+            "* 熔岩魔方在 3 回合后爆炸，对其所有者造成 300 点伤害。",
+            "* 如果熔岩魔方被净化，其所有者获得 -34% 法力生成，持续 3 回合。（如果熔岩魔方被新的熔岩魔方取代，它会爆炸。每次施放最多可发生 2 次）",
+            "第二次：",
+            "* 对随机 5 名敌人造成 375% 伤害。",
+            "* 被击中的敌人被施加深海熔岩魔方。",
+            "* 被施加熔岩魔方期间，所有者获得 -44% 防御。",
+            "* 熔岩魔方在 4 回合后爆炸，对其所有者造成 450 点伤害。",
+            "* 如果熔岩魔方被净化，其所有者获得 -54% 法力生成，持续 3 回合。（如果熔岩魔方被新的熔岩魔方取代，它会爆炸。每次施放最多可发生 2 次）"
         ]
     },
     {
         "originalIndex": 1067,
-        "name": "金刚守护者 (Guardian Kong) C1",
+        "name": "古兹 (Gooze)",
         "effects": [
-            "Deals 300% damage to all enemies.",
-            "All allies reflect all status effects and 115% damage back to the attacker and block other negative effects from enemies’ Ice Special Skills for 4 turns. Status effects cast by characters, Minions and Fiends on the same side cannot be reflected.",
-            "Dispells buffs from all enemies."
+            "所有敌人被施加恼怒，持续 4 回合。恼怒的角色会在回合结束时对随机一名对手造成 1% 伤害。此效果无法驱散。",
+            "所有盟友获得粘糊表面，持续 4 回合。此效果无法驱散。",
+            "粘糊表面：从攻击的敌人身上窃取 1 个随机可驱散的增益或成长效果。（受到任何伤害时，粘糊表面都会激活。每个拥有粘糊表面的角色每回合只能从普通攻击中窃取一个状态效果增益或成长效果）",
+            "所有盟友获得 +55% 防御，持续 4 回合。"
         ]
     },
     {
         "originalIndex": 1068,
-        "name": "格法 (Guffa)",
+        "name": "造墓人 (Gravemaker)",
         "effects": [
-            "The caster gets Taunt that prevents enemies from using Special Skills on the caster’s allies for 4 turns.",
-            "The caster gets +40% mana generation for 4 turns. (Affects only mana generated from matching tiles or mana gained by the defense team at the end of their turn.)",
-            "All allies except the caster receive a Softskin. (The next time they receive damage, it is reduced by -90%, and they resist all status ailment and mana reduction. This effect can’t be dispelled.)",
-            "All allies recover 1400 health after 4 turns or instantly if the skill is cast again before the duration ends. This effect cannot be dispelled."
+            "对目标及附近敌人造成 200% 伤害。",
+            "目标与附近敌人在 2 回合内受到共计 492 点燃烧伤害。",
+            "对自然系造成额外伤害。",
+            "元素链为全体烈火系盟友提供 +5% 的攻击和 +5% 的防御，持续 6 回合。此效果无法净化。"
         ]
     },
     {
         "originalIndex": 1069,
-        "name": "叮当铁锤 (Hammerclang)",
+        "name": "造墓人 (Gravemaker) C1",
         "effects": [
-            "This Special Skill never misses its targets.",
-            "Deals 400% damage to the target and minor damage to all other enemies.",
-            "All damage all enemies receive is increased by 30% for 3 turns.",
-            "All enemies get -30% attack for 3 turns."
+            "对所有敌人造成 175% 伤害。",
+            "所有敌人在 2 回合内受到共计 542 点燃烧伤害。",
+            "元素链为全体烈火系盟友提供 +5% 的攻击和 +5% 的防御，持续 6 回合。此效果无法驱散。"
         ]
     },
     {
         "originalIndex": 1070,
-        "name": "哈索尔 (Hathor)",
+        "name": "格拉祖 (Grazul)",
         "effects": [
-            "Boosts health of all allies by 480. Boosted Heath can exceed max HP.",
-            "All allies are immune to new status ailments for 4 turns."
+            "为所有盟友恢复 22% 生命值。",
+            "所有盟友对新的状态异常免疫，持续 2 回合。",
+            "元素链为全体烈火系盟友提供 +4% 的法力生成，持续 4 回合。此效果无法驱散。"
         ]
     },
     {
         "originalIndex": 1071,
-        "name": "哈索尔 (Hathor) C1",
+        "name": "金刚守护者 (Guardian Kong)",
         "effects": [
-            "All allies renerate 640 Boosted health over 4 turns. Boosted Heath can exceed max HP.",
-            "All allies are immune to new status ailments for 4 turns."
+            "对所有敌人造成 250% 伤害。",
+            "所有盟友获得对冰雪系 +94% 的防御，持续 4 回合。",
+            "净化所有盟友的状态异常。"
         ]
     },
     {
         "originalIndex": 1072,
-        "name": "霍恩韦尔夫 (Hohenwerf)",
+        "name": "金刚守护者 (Guardian Kong) C1",
         "effects": [
-            "Deals 450% damage to the target.",
-            "Summons a Gargoyle Fiend for the target. The Gargoyle Fiend absorbs healing and disappears when it has absorbed health equal to 30% of its owner’s max health.",
-            "When summoned, the Gargoyle Fiend forces its owner to cast Mindless Attack on a random ally when mana is full. The effect lasts as long as the target has Gargoyle Fiends. This effect cannot be dispelled.",
-            "The Gargyle Fiend explodes after 4 turns, dealing 150 damage to its target."
+            "对所有敌人造成 300% 伤害。",
+            "所有盟友会将来自冰雪系敌人特殊技能的全部状态效果和 115% 伤害反弹至进攻者，并阻挡该技能的其它负面效果，持续 4 回合。同队角色、小兵和恶魔施放的状态效果无法反弹。",
+            "驱散所有敌人的增益。"
         ]
     },
     {
         "originalIndex": 1073,
-        "name": "角岩 (Hornfel)",
+        "name": "格法 (Guffa)",
         "effects": [
-            "Deals 480% damage to the target and minor damage to nearby enemies.",
-            "Knocks down enemies. This has a different effect based on the team of this character:",
-            "Attack Team:",
-            " * The target and nearby enemies have thier normal attack delayed by 2 turns.",
-            "Defense Team:",
-            " * The target and nearby enemies don’t contribute to Troop damage for 2 turns.",
-            "The caster and nearby allies get +50% attack for 3 turns."
+            "施法者获得嘲讽，可阻止敌人对其盟友使用特殊技能，持续 4 回合。",
+            "施法者获得 +40% 法力生成，持续 4 回合。（只影响通过消除方块或由防御队伍在其回合结束时获得的法力）",
+            "除施法者外所有盟友获得软化皮肤。（他们下次受到的伤害减少 -90%，并抵抗所有状态异常和法力减损。此效果无法驱散）",
+            "所有盟友在 4 回合后恢复 1400 点生命，或在该技能在持续时间结束前再次施放时立即恢复。此效果无法驱散。"
         ]
     },
     {
         "originalIndex": 1074,
-        "name": "修普诺斯 (Hypnos)",
+        "name": "叮当铁锤 (Hammerclang)",
         "effects": [
-            "Special Skill has a different effect when charged with 100% / 200% / 300% mana:",
-            "1x Mana Charge:",
-            " * Deals 220% damage to all enemies.",
-            " * All enemies are immune to new status effects buffs for 2 turns.",
-            "2x Mana Charge:",
-            " * Dispels buffs from all enemies.",
-            " * Deals 320% damage to all enemies.",
-            " * All enemies are immune to new status effects buffs for 3 turns.",
-            "3x Mana Charge:",
-            " * Dispels buffs from all enemies.",
-            " * Deals 385% damage to all enemies.",
-            " * All enemies are immune to new status effects buffs for 4 turns."
+            "此特殊技能必定命中。",
+            "对目标造成 400% 伤害，并对其余敌人造成轻微伤害。",
+            "所有敌人受到的所有伤害增加 30%，持续 3 回合。",
+            "所有敌人获得 -30% 攻击力，持续 3 回合。"
         ]
     },
     {
         "originalIndex": 1075,
-        "name": "亚莱斯 (Iarlaith)",
+        "name": "哈索尔 (Hathor)",
         "effects": [
-            "Deals 600% damage to the target.",
-            "The target receives 100% damage for all the damage their allies receive for 3 turns.",
-            "Stack (Max: 10): All damage all enemies is increased by +8%."
+            "提高所有盟友 480 点生命值。提高的生命值可以超过最大生命值。",
+            "所有盟友对新的状态异常免疫，持续 4 回合。"
         ]
     },
     {
         "originalIndex": 1076,
-        "name": "伊格纳奇奥 (Ignazio)",
+        "name": "哈索尔 (Hathor) C1",
         "effects": [
-            "Recovers 25% health for all allies.",
-            "Recovers additional 3% health per each Fire shield on the board, up to 55% health in total.",
-            "All allies get +50% attack for 4 turns.",
-            "Cleanses status ailments from all allies"
+            "所有盟友在 4 回合内获得共计 640 点生命加成。提高的生命值可以超过最大生命值。",
+            "所有盟友对新的状态异常免疫，持续 4 回合。"
         ]
     },
     {
         "originalIndex": 1077,
-        "name": "伊格纳奇奥 (Ignazio) C1",
+        "name": "霍恩韦尔夫 (Hohenwerf)",
         "effects": [
-            "Recovers 28% health for all allies.",
-            "Recovers additional 4% health per each Fire shield on the board, up to 60%.",
-            "All allies get +55% attack for 4 turns.",
-            "Cleanses status ailments from all allies."
+            "对目标造成 450% 伤害。",
+            "召唤石像鬼恶魔附身于目标。石像鬼恶魔会吸收治疗，当吸收的治疗量达到其所有者最大生命值的 30% 时，它便会消失。",
+            "石像鬼恶魔被召唤后，只要其所有者拥有石像鬼恶魔，其所有者在法力满格时就会对随机一名盟友施放莽夫乱拳。此效果无法驱散。",
+            "石像鬼恶魔会在 4 回合后爆炸，对目标造成 150 点伤害。"
         ]
     },
     {
         "originalIndex": 1078,
-        "name": "伊尔玛利宁 (Ilmarinen)",
+        "name": "角岩 (Hornfel)",
         "effects": [
-            "Reduces the mana of all Ice enemies by 40%. Reduces the mana of all other enemies by 20%.",
-            "All enemies become Soul Connected for 4 turns. Soul Connected enemies share received damage. This status effect is undispellable and lasts 2 turns longer on Ice characters.",
-            "All enemies get -56% defense for 4 turns. Against Ice characters, this status effect becomes uncleansable and lasts 2 turns longer."
+            "对目标造成 480% 伤害，并对附近敌人造成轻微伤害。",
+            "击倒敌人。根据此角色的队伍有不同效果：",
+            "攻击队伍：",
+            "* 目标和附近敌人的普通攻击延迟 2 回合。",
+            "防御队伍：",
+            "* 目标和附近敌人不能造成队伍伤害，持续 2 回合。",
+            "施法者和附近盟友获得 +50% 攻击力，持续 3 回合。"
         ]
     },
     {
         "originalIndex": 1079,
-        "name": "约坎塔 (Iocantha)",
+        "name": "修普诺斯 (Hypnos)",
         "effects": [
-            "The attack bypasses defensive buffs. (This includes counterattacks.)",
-            "Deals 320% damage to the target and 2 random enemies.",
-            "Each hit reduces the duration of all status effect buffs on the hit enemy by one turn. (The duration reduction affects both dispellable and undispellabe status effect buffs. If the duration on any buff is reduced to zero, the effect is considered as having expired naturally.)"
+            "当特殊技能充能至 100% / 200% / 300% 法力时将拥有不同的效果：",
+            "1 倍法力充能：",
+            "* 对所有敌人造成 220% 伤害。",
+            "* 所有敌人对新的增益状态效果免疫，持续 2 回合。",
+            "2 倍法力充能：",
+            "* 驱散所有敌人的增益。",
+            "* 对所有敌人造成 320% 伤害。",
+            "* 所有敌人对新的增益状态效果免疫，持续 3 回合。",
+            "3 倍法力充能：",
+            "* 驱散所有敌人的增益。",
+            "* 对所有敌人造成 385% 伤害。",
+            "* 所有敌人对新的增益状态效果免疫，持续 4 回合。"
         ]
     },
     {
         "originalIndex": 1080,
-        "name": "艾西多尔 (Isidore)",
+        "name": "亚莱斯 (Iarlaith)",
         "effects": [
-            "Enhanced Defense Ailment: All enemies get -64% defense against Special Skills. This effect lasts until the enemy takes damage from a Special Skill 3 times.",
-            "After the Enhanced Defense Ailment ends or is removed or replaced, the enemy gets -80% decrease of any healing received for 6 turns.",
-            "Deals 350% damage to the target and 9 random enemies. The damage is reduced on each consecutive hit."
+            "对目标造成 600% 伤害。",
+            "目标所有的盟友遭受伤害时，目标受到 100% 的伤害，持续 3 回合。",
+            "叠加（最多 10 层）：全体敌人受到的所有伤害增加 +8%。"
         ]
     },
     {
         "originalIndex": 1081,
-        "name": "艾斯罗德 (Isrod)",
+        "name": "伊格纳奇奥 (Ignazio)",
         "effects": [
-            "Deals 260% damage to the target and nearby enemies.",
-            "The caster and nearby allies counterattack with 110% of received damage for 3 turns.",
-            "The caster and nearby allies regenerate a moderate amount of mana for each counterattack for 3 turns. The effect gets diminished for consecutive activations during the same turn."
+            "为所有盟友恢复 25% 生命值。",
+            "面板上每存在一个烈火系盾牌，便额外恢复 3% 生命，最多共计恢复 55% 生命值。",
+            "所有盟友获得 +50% 攻击力，持续 4 回合。",
+            "净化所有盟友的状态异常。"
         ]
     },
     {
         "originalIndex": 1082,
-        "name": "让-弗朗索瓦 (Jean-Francois)",
+        "name": "伊格纳奇奥 (Ignazio) C1",
         "effects": [
-            "All enemies receive 630 Burn damage over 3 turns.",
-            "All allies get +94% defense against Ice for 4 turns.",
-            "All allies get Defense Status Ailment Protection for 5 turns. New status ailments affecting defense will be replaced by +42% defense for 4 turns.",
-            "Element Link gives all Fire allies +10% critical chance for 6 turns. This effect can’t be dispelled."
+            "为所有盟友恢复 28% 生命值。",
+            "面板上每存在一个烈火系盾牌，便额外恢复 4% 生命，最多恢复 60%。",
+            "所有盟友获得 +55% 攻击力，持续 4 回合。",
+            "净化所有盟友的状态异常。"
         ]
     },
     {
         "originalIndex": 1083,
-        "name": "可汗 (Khagan)",
+        "name": "伊尔玛利宁 (Ilmarinen)",
         "effects": [
-            "Deals 380% damage to the target and nearby enemies.",
-            "The caster and nearby allies get +24% mana generation for 5 turns.",
-            "The caster and nearby allies get +63% defense for 5 turns."
+            "使所有冰雪系敌人的法力减少 40%。使所有其他敌人的法力减少 20%。",
+            "所有敌人变得灵魂相连，持续 4 回合。灵魂相连的敌人将平摊所受伤害。此状态效果不可驱散，对冰雪系角色持续时间延长 2 回合。",
+            "所有敌人获得 -56% 防御，持续 4 回合。对冰雪系角色，此状态效果不可净化且持续时间延长 2 回合。"
         ]
     },
     {
         "originalIndex": 1084,
-        "name": "可汗 (Khagan) C1",
+        "name": "伊尔玛利宁 (Ilmarinen) C1",
         "effects": [
-            "Deals 514% damage to the target.",
-            "All allies get +12% mana generation for 5 turns.",
-            "All allies get +46% defense for 5 turns."
+            "使所有冰雪系敌人的法力减少 50%。使所有其他敌人的法力减少 30%。",
+            "所有敌人变得灵魂相连，持续 4 回合。灵魂相连的敌人将平摊所受伤害此状态效果不可驱散，并且对冰雪系角色施放会额外持续 2 回合。",
+            "所有敌人获得 -60% 防御，持续 4 回合。对冰雪系角色，此状态效果不可净化且持续时间延长 2 回合。"
         ]
     },
     {
         "originalIndex": 1085,
-        "name": "可汗 (Khagan) C2",
+        "name": "约坎塔 (Iocantha)",
         "effects": [
-            "Deals 285% damage to all enemies.",
-            "All allies receive a moderate amount of mana over 5 turns.",
-            "All allies get +40% defense for 5 turns."
+            "攻击会无视防御增益。（包括反击）",
+            "对目标和随机 2 名敌人造成 320% 伤害。",
+            "每次命中都会使被击中敌人身上的状态增益持续时间减少一回合。（持续时间调整对可驱散效果和不可驱散状态效果皆有影响。若任何增益的持续时间降为零，则该效果视为自然过期）"
         ]
     },
     {
         "originalIndex": 1086,
-        "name": "可汗 (Khagan) 卡通",
+        "name": "艾西多尔 (Isidore)",
         "effects": [
-            "Deals 530% damage to the target and nearby enemies.",
-            "The caster and nearby allies get +22% mana generation for 5 turns. (Affects only mana generated from matching tiles or mana gained by defence team at the end of turn.)",
-            "The caster and nearby allies get +61% defense for 5 turns.",
-            "Deals extra damage against Nature."
+            "强化防御异常：所有敌人对特殊技能 -64% 的防御。此效果在敌人受到 3 次特殊技能伤害后消失。",
+            "强化防御异常结束后、被移除或被替换后，敌人治疗量降低 -80%，持续 6 回合。",
+            "对目标和随机 9 名敌人造成 350% 伤害。每下攻击的伤害都会递减。"
         ]
     },
     {
         "originalIndex": 1087,
-        "name": "可汗 (Khagan) 玻璃",
+        "name": "艾斯罗德 (Isrod)",
         "effects": [
-            "Deals 540% damage to the target and nearby enemies.",
-            "The attack bypasses defensive buffs. (This includes counterattacks.)",
-            "The caster and nearby allies get +23% mana generation for 5 turns.",
-            "The caster and nearby allies get +62% defense for 5 turns."
+            "对目标及附近敌人造成 260% 伤害。",
+            "施法者和附近盟友会以所受伤害的 110% 进行反击，持续 3 回合。",
+            "施法者和附近盟友每次反击可恢复适量法力，持续 3 回合。同一回合中效果经连续激活会减弱。"
         ]
     },
     {
         "originalIndex": 1088,
-        "name": "胡夫 (Khufu)",
+        "name": "让-弗朗索瓦 (Jean-Francois)",
         "effects": [
-            "Deals 450% damage to the target.",
-            "The attack chains through all the enemies who are adjacent to any hit enemy.",
-            "The target gets -41% defense against Fire, and further -4% decrease every time they are hit during 4 turns."
+            "所有敌人在 3 回合内受到共计 630 点燃烧伤害。",
+            "所有盟友获得对冰雪系 +94% 的防御，持续 4 回合。",
+            "所有盟友获得防御状态异常保护，持续 5 回合。影响防御的新状态异常将被 +42% 的防御替代，持续 4 回合。",
+            "元素链为全体烈火系盟友提供 +10% 的暴击几率，持续 6 回合。此效果无法驱散。"
         ]
     },
     {
         "originalIndex": 1089,
-        "name": "胡夫 (Khufu) C1",
+        "name": "可汗 (Khagan)",
         "effects": [
-            "Deals 500% damage to the target.",
-            "The attack chains through all the enemies who are adjacent to any hit enemy.",
-            "The target gets -34% defense against Fire, and a further -5% decrease every time they are hit during 5 turns."
+            "对目标及附近敌人造成 380% 伤害。",
+            "施法者和附近盟友获得 +24% 法力生成，持续 5 回合。",
+            "施法者和附近盟友获得 +63% 防御，持续 5 回合。"
         ]
     },
     {
         "originalIndex": 1090,
-        "name": "克拉夫克鲁什 (Kravekrush)",
+        "name": "可汗 (Khagan) C1",
         "effects": [
-            "All enemies can’t revive their allies or themselves for 5 turns.",
-            "All enemies can’t receive new status effects that would resurrect them for 5 turns.",
-            "Deals 430% damage to the target and minor damage to the nearby enemies."
+            "对目标造成 514% 伤害。",
+            "所有盟友获得 +12% 法力生成，持续 5 回合。",
+            "所有盟友获得 +46% 防御，持续 5 回合。"
         ]
     },
     {
         "originalIndex": 1091,
-        "name": "克拉夫克鲁什 (Kravekrush) C1",
+        "name": "可汗 (Khagan) C2",
         "effects": [
-            "All enemies can’t revive their allies or themselves for 4 turns.",
-            "All enemies can’t receive new status effects that would resurrect them for 4 turns.",
-            "Deals 460% damage to the target and minor damage to nearby enemies."
+            "对所有敌人造成 285% 伤害。",
+            "所有盟友在 5 回合内恢复适量法力。",
+            "所有盟友获得 +40% 防御，持续 5 回合。"
         ]
     },
     {
         "originalIndex": 1092,
-        "name": "洛基夫人 (Lady Loki)",
+        "name": "可汗 (Khagan) 卡通",
         "effects": [
-            "Lifts all cleansable status ailments  from all allies and randomly distributes them on enemies.",
-            "Deals 170% damage to all enemies",
-            "Deals additional 8% damage per transferred status ailment, up to 298% damage in total."
+            "对目标及附近敌人造成 530% 伤害。",
+            "施法者和附近盟友获得 +22% 法力生成，持续 5 回合。（只影响通过消除方块或由防御队伍在其回合结束时获得的法力）",
+            "施法者和附近盟友获得 +61% 防御，持续 5 回合。",
+            "对自然系造成额外伤害。"
         ]
     },
     {
         "originalIndex": 1093,
-        "name": "洛基夫人 (Lady Loki) C1",
+        "name": "可汗 (Khagan) 玻璃",
         "effects": [
-            "Lifts all cleansable status ailments from all allies and randomly distributes them on enemies.",
-            "Deals 135% damage to all enemies.",
-            "Deals additional 15% damage per allocated status effect, up to 375% damage in total."
+            "对目标及附近敌人造成 540% 伤害。",
+            "攻击会无视防御增益。（包括反击）",
+            "施法者和附近盟友获得 +23% 法力生成，持续 5 回合。",
+            "施法者和附近盟友获得 +62% 防御，持续 5 回合。"
         ]
     },
     {
         "originalIndex": 1094,
-        "name": "拉萨尔 (Lasalle)",
+        "name": "胡夫 (Khufu)",
         "effects": [
-            "Special Skill need consecutive uses to reach full power, the following order:",
-            "1st:",
-            " * Deals 400% damage to target.",
-            " * Summon a Sea Cavalry Fiend for the target. The Fiend damages the enemy with 32% attack every turn.",
-            " * The Sea Cavalry Fiend absorbs healing and disappears when it has absorbed health equal to 20% of its owner’s max health.",
-            " * The Sea Cavalry Fiend generates a clone of itself to nearby enemies after every turn. Clone Fiends absorb the same amount of healing and deal the same amount of damage as the original fiend.",
-            "2nd:",
-            " * Deals 450% damage to target.",
-            " * Summon a Sea Cavalry Fiend for the target. The Fiend damages the enemy with 32% attack every turn.",
-            " * The Sea Cavalry Fiend absorbs healing and disappears when it has absorbed health equal to 20% of its owner’s max health.",
-            " * The Sea Cavalry Fiend generates a clone of itself to nearby enemies after every turn. Clone Fiends absorb the same amount of healing and deal the same amount of damage as the original fiend."
+            "对目标造成 450% 伤害。",
+            "与被击中敌人相邻的所有敌人都将受到连锁攻击。",
+            "目标获得对烈火系 -41% 防御，每次被击中后额外降低 -4% 防御，持续 4 回合。"
         ]
     },
     {
         "originalIndex": 1095,
-        "name": "拉萨尔 (Lasalle) C1",
+        "name": "胡夫 (Khufu) C1",
         "effects": [
-            "Special Skill need consecutive uses to reach full power, the following order:",
-            "1st:",
-            " * Deals 375% damage to target.",
-            " * Summon a Sea Cavalry Fiend for the target. The Fiend damages the enemy with 27% attack every turn.",
-            " * The Sea Cavalry Fiend absorbs healing and disappears when it has absorbed health equal to 15% of its owner’s max health.",
-            " * The Sea Cavalry Fiend generates a clone of itself to nearby enemies after every turn. Clone Fiends absorb the same amount of healing and deal the same amount of damage as the original fiend.",
-            "2nd:",
-            " * Deals 475% damage to target.",
-            " * Summon a Sea Cavalry Fiend for the target. The Fiend damages the enemy with 42% attack every turn.",
-            " * The Sea Cavalry Fiend absorbs healing and disappears when it has absorbed health equal to 30% of its owner’s max health.",
-            " * The Sea Cavalry Fiend generates a clone of itself to nearby enemies after every turn. Clone Fiends absorb the same amount of healing and deal the same amount of damage as the original fiend."
+            "对目标造成 500% 伤害。",
+            "与被击中敌人相邻的所有敌人都将受到连锁攻击。",
+            "目标获得对烈火系 -34% 防御，每次被击中后额外降低 -5% 防御，持续 5 回合。"
         ]
     },
     {
         "originalIndex": 1096,
-        "name": "莱维娜 (Lewena)",
+        "name": "克拉夫克鲁什 (Kravekrush)",
         "effects": [
-            "Blocks Talent Skill activation for all enemies for 6 turns.",
-            "Deals 260% damage to all enemies."
+            "所有敌人无法复活其盟友或自身，持续 5 回合。",
+            "所有敌人无法获得新的复活状态效果，持续 5 回合。",
+            "对目标造成 430% 伤害，并对附近敌人造成轻微伤害。"
         ]
     },
     {
         "originalIndex": 1097,
-        "name": "李逵 (Li Kui)",
+        "name": "克拉夫克鲁什 (Kravekrush) C1",
         "effects": [
-            "This Special Skill has a chance to deal Critical hits. (The chance of dealing a Critical hit is based on Hero’s overall critical chance when the damage is dealt. Critical hits caused by this Special Skill deal 50% more damage. Critical hits can reduces enemies’ max health on PVP battles. This effect is stronger against boosted health.)",
-            "Deals 300% damage to the target and 4 random enemies.",
-            "The caster gets Taunt that prevents enemies from using Special Skills on the caster’s allies for 4 turns.",
-            "The caster reduces all received damage by -50% for 4 turns."
+            "所有敌人无法复活其盟友或自身，持续 4 回合。",
+            "所有敌人无法获得新的复活状态效果，持续 4 回合。",
+            "对目标造成 460% 伤害，并对附近敌人造成轻微伤害。"
         ]
     },
     {
         "originalIndex": 1098,
-        "name": "洛迪乌斯 (Lodius)",
+        "name": "洛基夫人 (Lady Loki)",
         "effects": [
-            "Attacks the target with Moonrise Strike, dealing up to 2200 damage. Deals 40% more damage if the target is Holy.",
-            "If the target is defeated by the attack, then nearby enemies are unable to gain any mana for 3 turns.",
-            "All allies counterattack with 60% of the damage received for 3 turns."
+            "解除所有盟友的全部可净化状态异常，并随机施放给敌人。",
+            "对所有敌人造成 170% 伤害。",
+            "每转移一个状态异常，便造成额外 8% 伤害，最多累计造成 298% 伤害。"
         ]
     },
     {
         "originalIndex": 1099,
-        "name": "疯锤儿 (Madhammer)",
+        "name": "洛基夫人 (Lady Loki) C1",
         "effects": [
-            "Deals 500% damage to the target.",
-            "Has 50% chance to deal 450% damage to a random different enemy. (This effect targets the same enemy as the first hit target if there are no other valid targets.)",
-            "Summons a Black Boar Mega Minion with 62% HP and 230% attack inherited from the caster.",
-            "The target hit by Black Boar Mega Minion can’t get their status ailments cleansed or rellocated from Special Skills for 4 turns. This effect also prevents cleansing and rellocating of itself."
+            "解除所有盟友的全部可净化状态异常，并随机施放给敌人。",
+            "对所有敌人造成 135% 伤害。",
+            "每分配一个状态效果，便造成额外 15% 伤害，最多累计造成 375% 伤害。"
         ]
     },
     {
         "originalIndex": 1100,
-        "name": "灾厄 (Malum)",
+        "name": "拉萨尔 (Lasalle)",
         "effects": [
-            "Special Skill has a different effect when charged with 100%/200%/300% mana:",
-            "x1 Mana Charge:",
-            " - Reduces max health of the target and nearby enemies by 500. The effect is stronger against targets with boosted health. (Max health can’t be lower than 30% of the original max health. Any boosted health is reduced by an additional 500).",
-            " - Deals 250% damage to the target and nearby enemies.",
-            "x2 Mana Charge:",
-            " - Reduces max health of the target and nearby enemies by 650. The effect is stronger against targets with boosted health. (Max health can’t be lower than 30% of the original max health. Any boosted health is reduced by an additional 650.)",
-            " - Deals 375% damage to the target and nearby enemies.",
-            " - The attack bypasses defensive buffs. (This includes counterattack.)",
-            "x3 Mana Charge:",
-            " - Reduces max health of the target and nearby enemies by 800. The effect is stronger against targets with boosted health. (Max health can’t be lower than 30% of the original max health. Any boosted health is reduced by an additional 800.)",
-            " - Deals 500% damage to the target and nearby enemies.",
-            " - The attack bypasses defensive buffs. (This includes counterattack.)",
-            " - The target and nearby enemies resist healing and receive 450 damage per each resisted healing for 6 turns."
+            "必须连续使用特殊技能才能达到其最大威力，顺序为：",
+            "第一次：",
+            "* 对目标造成 400% 伤害。",
+            "* 召唤海骑兵恶魔附身于目标。恶魔每回合对敌人造成 32% 攻击力的伤害。",
+            "* 海骑兵恶魔会吸收治疗。它在吸收了相当于其所有者最大生命值 20% 的治疗量后便会消失。",
+            "* 海骑兵恶魔每回合结束后都会生成一个自己的克隆体附身于附近的敌人。克隆恶魔吸收的治疗量和造成的伤害与原始恶魔相同。",
+            "第二次：",
+            "* 对目标造成 450% 伤害。",
+            "* 召唤海骑兵恶魔附身于目标。恶魔每回合对敌人造成 32% 攻击力的伤害。",
+            "* 海骑兵恶魔会吸收治疗。它在吸收了相当于其所有者最大生命值 20% 的治疗量后便会消失。",
+            "* 海骑兵恶魔每回合结束后都会生成一个自己的克隆体附身于附近的敌人。克隆恶魔吸收的治疗量和造成的伤害与原始恶魔相同。"
         ]
     },
     {
         "originalIndex": 1101,
-        "name": "马里亚娜 (Marjana)",
+        "name": "拉萨尔 (Lasalle) C1",
         "effects": [
-            "Deals 458% damage to the target",
-            "The target receives 300 damage over 6 turns"
+            "必须连续使用特殊技能才能达到其最大威力，顺序为：",
+            "第一次：",
+            "* 对目标造成 375% 伤害。",
+            "* 召唤海骑兵恶魔附身于目标。恶魔每回合对敌人造成 27% 攻击力的伤害。",
+            "* 海骑兵恶魔会吸收治疗。它在吸收了相当于其所有者最大生命值 15% 的治疗量后便会消失。",
+            "* 海骑兵恶魔每回合结束后都会生成一个自己的克隆体附身于附近的敌人。克隆恶魔吸收的治疗量和造成的伤害与原始恶魔相同。",
+            "第二次：",
+            "* 对目标造成 475% 伤害。",
+            "* 召唤海骑兵恶魔附身于目标。恶魔每回合对敌人造成 42% 攻击力的伤害。",
+            "* 海骑兵恶魔会吸收治疗。它在吸收了相当于其所有者最大生命值 30% 的治疗量后便会消失。",
+            "* 海骑兵恶魔每回合结束后都会生成一个自己的克隆体附身于附近的敌人。克隆恶魔吸收的治疗量和造成的伤害与原始恶魔相同。"
         ]
     },
     {
         "originalIndex": 1102,
-        "name": "马里亚娜 (Marjana) C1",
+        "name": "莱维娜 (Lewena)",
         "effects": [
-            "Deals 358% damage to the target and minor damage to nearby enemies.",
-            "The target and nearby enemies get -54% defense against Fire for 3 turns.",
-            "All Ice enemies get -34% attack for 3 turns"
+            "阻止所有敌人使用天赋技能，持续 6 回合。",
+            "对所有敌人造成 260% 伤害。"
         ]
     },
     {
         "originalIndex": 1103,
-        "name": "马里亚娜 (Marjana) C2",
+        "name": "李逵 (Li Kui)",
         "effects": [
-            "Deals 300% damage to target and nearby enemies.",
-            "The target and nearby enemies get -34% defense for 3 turns. Against Ice characters, this status effect becomes uncleansable, and lasts 2 turns longer.",
-            "The target and nearby enemies receive 321 Burn damage over 3 turns. Against Ice characters, this status effect becomes uncleansable, and lasts 2 turns longer."
+            "此特殊技能有几率造成暴击。（造成暴击的几率取决于英雄在造成伤害时的总暴击几率。此特殊技能造成的暴击会额外造成 50% 伤害。暴击可以减少PvP战斗中敌人的最大生命值。此效果对拥有生命加成的目标更强）",
+            "对目标和随机 4 名敌人造成 300% 伤害。",
+            "施法者获得嘲讽，可阻止敌人对其盟友使用特殊技能，持续 4 回合。",
+            "施法者所受的所有伤害减少 -50%，持续 4 回合。"
         ]
     },
     {
         "originalIndex": 1104,
-        "name": "马里亚娜 (Marjana) 卡通",
+        "name": "洛迪乌斯 (Lodius)",
         "effects": [
-            "Deals 538% damage to the target.",
-            "The target receives 516 damage over 3 turns.",
-            "Deals extra damage against Nature."
+            "使用月出闪袭攻击目标，造成最多 2200 点伤害。若目标为神圣系元素则额外造成 40% 伤害。",
+            "如果目标被此攻击击败，则附近敌人无法获得任何法力，持续 3 回合。",
+            "所有盟友会以所受伤害的 60% 进行反击，持续 3 回合。"
         ]
     },
     {
         "originalIndex": 1105,
-        "name": "马里亚娜 (Marjana) 玻璃",
+        "name": "疯锤儿 (Madhammer)",
         "effects": [
-            "Deals 548% damage to the target.",
-            "The attack bypasses defensive buffs. (This includes counterattacks.)",
-            "The target receives 648 Burn damage over 3 turns."
+            "对目标造成 500% 伤害。",
+            "有 50% 几率随机对一个不同的敌人造成 450% 伤害。（如果没有其他有效目标，则此效果瞄准第一次击中的该名敌人）",
+            "召唤一个黑野猪超级小兵，其可从施法者处继承 62% 生命值和 230% 攻击力。",
+            "被黑野猪超级小兵击中的目标无法用特殊技能净化或转移其状态异常，持续 4 回合。此效果也无法被净化或转移。"
         ]
     },
     {
         "originalIndex": 1106,
-        "name": "光子 (Mitsuko)",
+        "name": "灾厄 (Malum)",
         "effects": [
-            "Deals 245% damage to the target and nearby enemies.",
-            "Reduces the mana of the target and nearby enemies by 20%.",
-            "All allies reflect all status effects and 115% damage back to the attacker  and block other negative effects from enemies' Ice Special Skills for 4 turns. Status effects cast by characters, Minions and Fiends on the same side cannot be reflected."
+            "当特殊技能充能至 100% / 200% / 300% 法力时将拥有不同的效果：",
+            "1 倍法力充能：",
+            "- 使目标和附近敌人减少 500 点最大生命值。若目标拥有提高的生命值，此效果会增强。（最大生命值不能低于初始最大生命值的 30%。任何提高的生命值会额外减少 500 点）",
+            "- 对目标及附近敌人造成 250% 伤害。",
+            "2 倍法力充能：",
+            "- 使目标和附近敌人减少 650 点最大生命值。若目标拥有提高的生命值，此效果会增强。（最大生命值不能低于初始最大生命值的 30%。任何提高的生命值会额外减少 650 点）",
+            "- 对目标及附近敌人造成 375% 伤害。",
+            "- 攻击会无视防御增益。（包括反击）",
+            "3 倍法力充能：",
+            "- 使目标和附近敌人减少 800 点最大生命值。若目标拥有提高的生命值，此效果会增强。（最大生命值不能低于初始最大生命值的 30%。任何提高的生命值会额外减少 800 点）",
+            "- 对目标及附近敌人造成 500% 伤害。",
+            "- 攻击会无视防御增益。（包括反击）",
+            "- 目标与附近敌人将抵抗治疗且每次抵抗治疗时都将受到 450 点伤害，持续 6 回合。"
         ]
     },
     {
         "originalIndex": 1107,
-        "name": "光子 (Mitsuko) C1",
+        "name": "马里亚娜 (Marjana)",
         "effects": [
-            "Deals 230% damage to all enemies.",
-            "All enemies get -34% mana generation.",
-            "All allies reflect all status effects and 115% damage back to the attacker and block other negative effects from enemies' Ice Special Skills for 4 turns. Status effects cast by characters, Minions and Fiends on the same side cannot be reflected."
+            "对目标造成 458% 伤害。",
+            "目标在 6 回合内受到共计 300 点伤害。"
         ]
     },
     {
         "originalIndex": 1108,
-        "name": "纳德兹达 (Nadezhda)",
+        "name": "马里亚娜 (Marjana) C1",
         "effects": [
-            "Special Skill has a different effect when charged with 100%/200% mana:",
-            "1x Mana Charge:",
-            " * The target and nearby enemies receive 156 Burn damage over 2 turns.",
-            " * If the caster dies during the next 2 turns they are resurrected in the beginning of their next turn with 32% health. All status effects and stacks are removed when the caster dies.",
-            "2x Mana Charge:",
-            " * Each defeated ally has a 50% chance to get revived with 40% HP.",
-            " * All allies regenerate 714 HP over 3 turns.",
-            " * All allies reduce all received damage by -50% for 3 turns."
+            "对目标造成 358% 伤害，并对附近敌人造成轻微伤害。",
+            "目标与附近敌人获得对烈火系 -54% 的防御，持续 3 回合。",
+            "所有冰雪系敌人获得 -34% 攻击，持续 3 回合。"
         ]
     },
     {
         "originalIndex": 1109,
-        "name": "纳德兹达 (Nadezhda) C1",
+        "name": "马里亚娜 (Marjana) C2",
         "effects": [
-            "Special Skill has a different effect when charged with 100% / 200% mana:",
-            "1x Mana Charge:",
-            " * The target and nearby enemies receive 350 Burn damage over 2 turns.",
-            " * If the caster is defeated during the next 2 turns, they are resurrected in the beginning of their next turn with 40% health. All status effects and stack are removed when the caster is defeated.",
-            "2x Mana Charge:",
-            " * Each defeated ally has a 55% chance to get revived with 44% HP.",
-            " * All allies regenerate 795 HP over 3 turns.",
-            " * All allies reduce all received damage by -60% for 3 turns."
+            "对目标及附近敌人造成 300% 伤害。",
+            "目标与附近敌人获得 -34% 防御，持续 3 回合。对冰雪系角色，此状态效果不可净化且持续时间延长 2 回合。",
+            "目标与附近敌人在 3 回合内受到共计 321 点燃烧伤害。对冰雪系角色，此状态效果不可净化且持续时间延长 2 回合。"
         ]
     },
     {
         "originalIndex": 1110,
-        "name": "纳伊姆 (Naeem)",
+        "name": "马里亚娜 (Marjana) 卡通",
         "effects": [
-            "All buffs affecting attack, defense and mana generation on target and nearby enemies are replaced by matching uncleansable ailments. (Replacing cannot be blocked by status effects, family effects or passives. Only buffs that are dispellable can be replaced. Replacement effects: Attack buffs are replaced with -40% attack ailment for 4 turns. Defense buffs are replaced with -40% defense ailment for 4 turns. Mana generation buffs are replaced with -40% mana generation ailment for 4 turns.)",
-            "Deals 330% damage to the target and nearby enemies.",
-            "The caster and nearby allies counterattack with 145% of the damage received for 4 turns.",
-            "Caster and nearby allies get Sand Touch for 4 turns. (Sand Touch: Each time the owner of this status effect counterattacks an enemy the attacker receives 452 Sand damage over 4 turns.)"
+            "对目标造成 538% 伤害。",
+            "目标在 3 回合内受到共计 516 点伤害。",
+            "对自然系造成额外伤害。"
         ]
     },
     {
         "originalIndex": 1111,
-        "name": "娜塔莉亚 (Natalya)",
+        "name": "马里亚娜 (Marjana) 玻璃",
         "effects": [
-            "The target receives 960 Burn damage over 4 turns. This effect can’t be cleansed.",
-            "The target gets -54% mana generation for 4 turns. This effect can’t be cleansed.",
-            "Deals extra damage against Nature.",
-            "Elemental Link gives +10% mana generation to all Fire allies for 4 turns. This effect can’t be displelled."
+            "对目标造成 548% 伤害。",
+            "攻击会无视防御增益。（包括反击）",
+            "目标在 3 回合内受到共计 648 点燃烧伤害。"
         ]
     },
     {
         "originalIndex": 1112,
-        "name": "娜塔莉亚 (Natalya) C1",
+        "name": "光子 (Mitsuko)",
         "effects": [
-            "The target receives 1432 Burn damage over 4 turns. This effect can’t be cleansed.",
-            "The target gets -50% mana generation for 4 turns. This effect can’t be cleansed.",
-            "Deals extra damage against Nature.",
-            "Elemental Link gives +10% mana generation to all Fire allies for 4 turns. This effect can’t be displelled."
+            "对目标及附近敌人造成 245% 伤害。",
+            "使目标和附近敌人的法力减少 20%。",
+            "所有盟友会将来自冰雪系敌人特殊技能的全部状态效果和 115% 伤害反弹至进攻者，并阻挡该技能的其它负面效果，持续 4 回合。同队角色、小兵和恶魔施放的状态效果无法反弹。"
         ]
     },
     {
         "originalIndex": 1113,
-        "name": "尼马 (Neema)",
+        "name": "光子 (Mitsuko) C1",
         "effects": [
-            "Deals 250% damage to all enemies.",
-            "Summons a Fire Tiger Fiend for all enemies. The Fiend damages its target with 45% attack every turn.",
-            "The Fiend absorbs healing. It disappears after absorbing a healing amount equal to 45% of its target’s max health.",
-            "When summoned, the Fire Tiger Fiend’s target cannot cast any new Taunt status effects for as long as the target has Fire Tiger Fiends. This effect can’t be cleansed.",
-            "Elemental Link gives all Fire allies +10% additional Special Skill damage for 4 turns. This effect cannot be dispelled."
+            "对所有敌人造成 230% 伤害。",
+            "所有敌人获得 -34% 法力生成。",
+            "所有盟友会将来自冰雪系敌人特殊技能的全部状态效果和 115% 伤害反弹至进攻者，并阻挡该技能的其它负面效果，持续 4 回合。同队角色、小兵和恶魔施放的状态效果无法反弹。"
         ]
     },
     {
         "originalIndex": 1114,
-        "name": "尼布尔斯 (Nibbles)",
+        "name": "纳德兹达 (Nadezhda)",
         "effects": [
-            "Recovers 15% health for all allies.",
-            "Steals the latest dispellable buffs for all enemies and randomly distributes them on allies.",
-            "All allies get lasting 210 health regeneration per turn. (This effect lasts until it is cleansed, replaced or removed.)"
+            "当特殊技能充能至 100% / 200% 法力时将拥有不同的效果：",
+            "1 倍法力充能：",
+            "* 目标与附近敌人在 2 回合内受到共计 156 点燃烧伤害。",
+            "* 如果施法者在后续 2 回合中被击败，施法者将于下一个回合开始时以 32% 的生命复活。施法者被击败时所有状态和叠加效果会被移除。",
+            "2 倍法力充能：",
+            "* 每名被击败的盟友有 50% 的几率以 40% 生命值复活。",
+            "* 所有盟友在 3 回合内恢复 714 点生命值。",
+            "* 所有盟友所受的所有伤害减少 -50%，持续 3 回合。"
         ]
     },
     {
         "originalIndex": 1115,
-        "name": "妮姬 (Niki)",
+        "name": "纳德兹达 (Nadezhda) C1",
         "effects": [
-            "This Special Skill never misses its targets.",
-            "Deals 430% damage to all enemies.",
-            "Heal all allies who have less than 60% HP left. Fire allies are healed to 75% health, and other allies to 60% health."
+            "当特殊技能充能至 100% / 200% 法力时将拥有不同的效果：",
+            "1 倍法力充能：",
+            "* 目标与附近敌人在 2 回合内受到共计 350 点燃烧伤害。",
+            "* 如果施法者在后续 2 回合中被击败，施法者将于下一个回合开始时以 40% 的生命复活。施法者被击败时，所有状态和叠加效果会被移除。",
+            "2 倍法力充能：",
+            "* 每名被击败的盟友有 55% 的几率以 44% 生命值复活。",
+            "* 所有盟友在 3 回合内恢复 795 点生命值。",
+            "* 所有盟友所受的所有伤害减少 -60%，持续 3 回合。"
         ]
     },
     {
         "originalIndex": 1116,
-        "name": "浪子 (Nomad)",
+        "name": "纳伊姆 (Naeem)",
         "effects": [
-            "1x Mana Charge",
-            " * Deals 400% damage to the target.",
-            " * Deals 600% damage if the target has less than 50% health remaining.",
-            " * If the target is defeated by the attack, all allies get +20% mana generation for 2 turns.",
-            "2x Mana Charge",
-            " * Deals 425% damage to the target and nearby enemies.",
-            " * Deals 638% damage to enemies with less than 50% health remaining.",
-            " * If the target is defeated by the attack, all allies get +30% mana generation for 3 turns.",
-            "3x Mana Charge",
-            " * Deals 450% damage to all enemies.",
-            " * Deals 675% damage to enemies with less than 50% health remaining.",
-            " * If the target is defeated by the attack, all allies get +40% mana generation for 4 turns."
+            "影响目标和附近敌人的攻击、防御和法力生成的所有增益，将替换为对应的不可驱散状态异常。（替换效果无法被状态效果、家族效果或被动技能阻挡。只有可驱散的增益才可被替换。替换效果：攻击力增益将被 -40% 攻击力异常状态取代，持续 4 回合。防御增益将被 -40% 防御异常状态取代，持续 4 回合。法力生成增益将被 -40% 法力生成异常状态取代，持续 4 回合）",
+            "对目标及附近敌人造成 330% 伤害。",
+            "施法者和附近盟友以所受伤害的 145% 进行反击，持续 4 回合。",
+            "施法者和附近的盟友会获得飞沙之触，持续 4 回合。（飞沙之触：该状态效果的所有者每次反击敌人时，攻击者将在 4 回合内受到共计 452 点沙系伤害）"
         ]
     },
     {
         "originalIndex": 1117,
-        "name": "诺尔 (Noor)",
+        "name": "娜塔莉亚 (Natalya)",
         "effects": [
-            "Recovers 15% health for all allies.",
-            "Summons a Sparrow Minion for each ally. The Sparrow Minion inherits 30% HP and 30% attack from the caster",
-            "Before Sparrow Minion hits target, it destroys all Minions from the target.",
-            "Element Link gives all Fire allies +30% defense against Special Skills for 4 turns. This effect can't be cleansed."
+            "目标在 4 回合内受到共计 960 点燃烧伤害。此效果无法净化。",
+            "目标获得 -54% 法力生成，持续 4 回合。此效果无法净化。",
+            "对自然系造成额外伤害。",
+            "元素链为全体烈火系盟友提供 +10% 的法力生成，持续 4 回合。此效果无法驱散。"
         ]
     },
     {
         "originalIndex": 1118,
-        "name": "诺曼 (Norman)",
+        "name": "娜塔莉亚 (Natalya) C1",
         "effects": [
-            "This Special Skill ignores Dodge effects.",
-            "All allies get 100% chance to bypass defensive buffs with their attacks for 4 turns. (Defensive buffs include counterattacks.)",
-            "Deals 320% damage to all enemies."
+            "目标在 4 回合内受到共计 1432 点燃烧伤害。此效果无法净化。",
+            "目标获得 -50% 法力生成，持续 4 回合。此效果无法净化。",
+            "对自然系造成额外伤害。",
+            "元素链为全体烈火系盟友提供 +10% 的法力生成，持续 4 回合。此效果无法驱散。"
         ]
     },
     {
         "originalIndex": 1119,
-        "name": "俄刻阿诺斯 (Oceanus)",
+        "name": "尼马 (Neema)",
         "effects": [
-            "Deals 220% damage to all enemies.",
-            "All allies get +120% normal attack for 4 turns. This effect can be active in addition to effects that alter attack in general. Normal attacks can have a total maximum of +170% increased power while this effect is active.",
-            "All allies get +46% defense for 4 turns."
+            "对所有敌人造成 250% 伤害。",
+            "召唤火虎恶魔附身于所有敌人。恶魔每回合对其目标造成 45% 攻击力的伤害。",
+            "恶魔会吸收治疗。它在吸收了相当于其目标最大生命值 45% 的治疗量后便会消失。",
+            "火虎恶魔被召唤后，只要其所有者拥有火虎恶魔，其所有者就无法施放任何新的嘲讽状态效果。此效果无法净化。",
+            "元素链为全体烈火系盟友提供额外 +10% 的特殊技能伤害，持续 4 回合。此效果无法驱散。"
         ]
     },
     {
         "originalIndex": 1120,
-        "name": "奥克特斯 (Octros)",
+        "name": "尼布尔斯 (Nibbles)",
         "effects": [
-            "Deals 180% damage to all enemies.",
-            "Deals 20% additional damage per each Fire shield on the board, up to 340% damage in total.",
-            "All enemies get -24% attack for 3 turns."
+            "为所有盟友恢复 15% 生命值。",
+            "偷取全体敌人最新施加的可驱散增益并随机施放给盟友。",
+            "所有盟友每回合获得 210 点生命恢复，持续无限回合。（此效果将持续，直至被驱散、替代或移除。）"
         ]
     },
     {
         "originalIndex": 1121,
-        "name": "奥克特斯 (Octros) C1",
+        "name": "妮姬 (Niki)",
         "effects": [
-            "Deals 160% damage to all enemies.",
-            "Deals additional 35% damage per each Fire shield on the board, up to 440% damage in total.",
-            "All enemies get -24% attack for 3 turns."
+            "此特殊技能必定命中。",
+            "对所有敌人造成 430% 伤害。",
+            "将所有剩余血量低于 60% 的盟友的血量恢复。烈火系盟友将恢复至 75% 生命值，其他盟友则恢复至 60% 生命值。"
         ]
     },
     {
         "originalIndex": 1122,
-        "name": "奥门 (Omen)",
+        "name": "浪子 (Nomad)",
         "effects": [
-            "Deals 500% damage to the target.",
-            "Summons an Ominous Tentacle Fiend for the target.",
-            "The Ominous Tentacle Fiend absorbs healing and disappears when it has absorbed health equal to 15% of its owner’s max health.",
-            "The Ominous Tentacle Fiend generates clone of itself to nearby enemies after every turn. (Cloned Fiends absorb the same amount of healing and deal the same amount of damage as the original fiend)",
-            "The Ominous Tentacle inflicts 5 Insanity on the owner on every turn.",
-            "Inflits 50 Instanity on the caster."
+            "1 倍法力充能：",
+            "* 对目标造成 400% 伤害。",
+            "* 如果目标剩余生命少于 50%，可对其造成 600% 伤害。",
+            "* 如果目标被此攻击击败，所有盟友将获得 +20% 法力生成，持续 2 回合。",
+            "2 倍法力充能：",
+            "* 对目标及附近敌人造成 425% 伤害。",
+            "* 对剩余生命值少于 50% 的敌人造成 638% 伤害。",
+            "* 如果目标被此攻击击败，所有盟友将获得 +30% 法力生成，持续 3 回合。",
+            "3 倍法力充能：",
+            "* 对所有敌人造成 450% 伤害。",
+            "* 对剩余生命值少于 50% 的敌人造成 675% 伤害。",
+            "* 如果目标被此攻击击败，所有盟友将获得 +40% 法力生成，持续 4 回合。"
         ]
     },
     {
         "originalIndex": 1123,
-        "name": "奥提斯 (Otis)",
+        "name": "诺尔 (Noor)",
         "effects": [
-            "Deals 370% damage to all enemies.",
-            "All enemies receive 575 Bleed damage over 4 turns, starting low, and increasing with every turn.",
-            "All enemies get -70% decrease for any healing received for 4 turns. The healing received decreases by -10% each turn, up to -100%."
+            "为所有盟友恢复 15% 生命值。",
+            "为每位盟友召唤一个麻雀小兵。此麻雀小兵继承施法者 30% 生命和 30% 攻击力。",
+            "麻雀小兵在命中目标前会摧毁目标的全部小兵。",
+            "元素链为全体烈火系盟友提供针对特殊技能的 +30% 防御，持续 4 回合。此效果无法净化。"
         ]
     },
     {
         "originalIndex": 1124,
-        "name": "奥蒂利娅 (Ottilia)",
+        "name": "诺曼 (Norman)",
         "effects": [
-            "Deals 440% damage to the target.",
-            "Copies all dispellable buffs from the target to the caster.",
-            "The caster recovers 10% health per copied buffs, up to 50% health in total.",
-            "Summons an Elf Minion with 10% HP and 10% attack inherited from the caster."
+            "此特殊技能无视闪避效果。",
+            "所有盟友攻击时有 100% 的几率无视防御增益（包括反击），持续 4 回合。",
+            "对所有敌人造成 320% 伤害。"
         ]
     },
     {
         "originalIndex": 1125,
-        "name": "椒焰 (Pepperflame)",
+        "name": "俄刻阿诺斯 (Oceanus)",
         "effects": [
-            "Deals 450% damage to the target and minor damage to nearby enemies.",
-            "Growth: The caster and nearby allies get 250 attack.",
-            "The target and nearby enemies get -30% defense for 3 turns. If the effect is removed before the duration ends, the target with effect suffers 577 damage."
+            "对所有敌人造成 220% 伤害。",
+            "所有盟友获得 +120% 普通攻击，持续 4 回合。即使英雄身上已有其他影响攻击力的效果，此效果仍然有效。此效果有效期间，普通攻击最多可以增加共计 +170% 攻击力。",
+            "所有盟友获得 +46% 防御，持续 4 回合。"
         ]
     },
     {
         "originalIndex": 1126,
-        "name": "菲妮克莎 (Phenexa)",
+        "name": "奥克特斯 (Octros)",
         "effects": [
-            "Recovers 42% health for all allies.",
-            "The duration of buffs is reset for all allies.",
-            "All allies get +30% critical chance for 4 turns.",
-            "All allies get +50% attack for 4 turns."
+            "对所有敌人造成 180% 伤害。",
+            "面板上每存在一个烈火系盾牌，便造成额外 20% 伤害，最多累计造成 340% 伤害。",
+            "所有敌人获得 -24% 攻击力，持续 3 回合。"
         ]
     },
     {
         "originalIndex": 1127,
-        "name": "普鲁斯 (Pluth)",
+        "name": "奥克特斯 (Octros) C1",
         "effects": [
-            "Rearranges the enemy positions randomly.",
-            "Deals 190% damage to all enemies.",
-            "Increases the duration of all enemies’ active status ailments by 1 turn."
+            "对所有敌人造成 160% 伤害。",
+            "面板上每拥有一个烈火系盾牌，伤害就会增加 35%，最多造成 440% 伤害。",
+            "所有敌人获得 -24% 攻击力，持续 3 回合。"
         ]
     },
     {
         "originalIndex": 1128,
-        "name": "穿靴子的猫 (Puss in Boots)",
+        "name": "奥门 (Omen)",
         "effects": [
-            "All Minion Summoner allies summon a Minion for themselves",
-            "Summons 3 Mouse Minions with 10% HP and 30% attack inherited from the caster. The Minions have -32% accuracy",
-            "All allies regenerate 548 HP over 4 turns.",
-            "All allies get +30% attack for 4 turns."
+            "对目标造成 500% 伤害。",
+            "召唤恶兆触手恶魔附身于目标。",
+            "恶兆触手恶魔会吸收治疗。它在吸收了相当于其所有者最大生命值 15% 的治疗量后便会消失。",
+            "恶兆触手恶魔每回合结束后都会生成一个自己的克隆体给附近的敌人。（克隆恶魔吸收的治疗量和造成的伤害与原始恶魔相同）",
+            "恶兆触手每回合对其所有者施加 5 点狂乱。",
+            "对施法者施加 50 点狂乱。"
         ]
     },
     {
         "originalIndex": 1129,
-        "name": "穿靴子的猫 (Puss in Boots) C1",
+        "name": "奥提斯 (Otis)",
         "effects": [
-            "All Minion Summoner allies summon a Minion for themselves.",
-            "Summons 3 Mouse Minions with 20% HP and 20% attack inherited from the caster. The Minions have -16% accuracy.",
-            "All allies regenerate 324 HP over 4 turns.",
-            "All allies get +50% attack for 4 turns."
+            "对所有敌人造成 370% 伤害。",
+            "所有敌人在 4 回合内受到共计 575 点流血伤害，一开始伤害较低，之后每个回合会逐渐增加。",
+            "所有敌人获得的治疗减少 -70%，持续 4 回合。所获得的治疗每回合减少 -10%，最高可达 -100%。"
         ]
     },
     {
         "originalIndex": 1130,
-        "name": "红桃王后 (Queen of Hearts)",
+        "name": "奥蒂利娅 (Ottilia)",
         "effects": [
-            "Deals 240% damage to the target and nearby enemies.",
-            "Summons a Playing Card Minion with 16% HP and 30% attack inherited from the caster.",
-            "When summoned, the Playing Card Minion gives Taunt for its owner as long as the owner has Playing Card Minions. This effect can't be dispelled.",
-            "The caster gets 74% defense against Special Skills for 4 turns."
+            "对目标造成 440% 伤害。",
+            "从目标身上复制所有可驱散的增益至施放者。",
+            "每复制一个增益状态，施放者恢复 10% 生命，最多恢复 50% 生命值。",
+            "召唤一个精灵小兵，此小兵继承施法者 10% 的生命值和 10% 的攻击力。"
         ]
     },
     {
         "originalIndex": 1131,
-        "name": "红桃王后 (Queen of Hearts) C1",
+        "name": "椒焰 (Pepperflame)",
         "effects": [
-            "Deals 200% damage to the target and nearby enemies.",
-            "Summons a Playing Card Minion with 25% HP and 40% attack inherited from the caster.",
-            "When summoned, the Playing Card Minion gives Taunt for its owner as long as the owner has Playing Card minions. This effect can’t be dispelled.",
-            "The caster gets +74% defense against Special Skills for 4 turns."
+            "对目标造成 450% 伤害，并对附近敌人造成轻微伤害。",
+            "成长：施法者和附近盟友获得 250 点攻击力。",
+            "目标与附近敌人获得 -30% 防御，持续 3 回合。若该效果在持续时间结束前被移除，其拥有者将受到 577 点伤害。"
         ]
     },
     {
         "originalIndex": 1132,
-        "name": "拉杰什 (Rajesh)",
+        "name": "菲妮克莎 (Phenexa)",
         "effects": [
-            "Cleanses all status ailments from all allies, and increases all allies’ mana by 10% for each cleansed ailment.",
-            "All allies bypass defensive buffs with their attacks for 4 turns. If any defensive buffs are bypassed, the attacking ally’s mana is increased by 15%. (Defensive buffs include counterattacks.)",
-            "All allies resist new negative mana effects for 4 turns, and their mana is increased by 20% for each resisted effect.",
-            "Stack (Max: 10): All allies get +35% attack."
+            "为所有盟友恢复 42% 生命值。",
+            "重置所有盟友的增益持续时间。",
+            "所有盟友获得 +30% 暴击几率，持续 4 回合。",
+            "所有盟友获得 +50% 攻击力，持续 4 回合。"
         ]
     },
     {
         "originalIndex": 1133,
-        "name": "拉尚 (Rashan)",
+        "name": "普鲁斯 (Pluth)",
         "effects": [
-            "Deals 330% damage to the enemies on the edges of the enemy formation and inflicts 25 Insanity on them. If only one enemy alive, the damage and Insanity is doubled.",
-            "The enemies on the edges of the enemy formation resist healing and receive 250 damage per each resisted healing for 3 turns.",
-            "Inflicts 45 Insanity on the caster."
+            "随机重新排列敌人位置。",
+            "对所有敌人造成 190% 伤害。",
+            "所有敌人身上的状态异常持续时间延长 1 回合。"
         ]
     },
     {
         "originalIndex": 1134,
-        "name": "雷 (Ray)",
+        "name": "穿靴子的猫 (Puss in Boots)",
         "effects": [
-            "Special Skill has a different effect when charged with 100%/200% mana:",
-            "1x Mana Charge:",
-            " * All enemies receive 423 Burn damage over 3 turns.",
-            " * All enemies get -34% defense against Fire for 3 turns.",
-            " * Dispels buffs from all enemies.",
-            "2x Mana Charge:",
-            " * All allies regenerate 1190 HP over 5 turns.",
-            " * All allies get +50% attack against Nature for 5 turns.",
-            " * Cleanses status ailments from all allies."
+            "所有召唤师盟友为自身召唤一名小兵。",
+            "召唤 3 名老鼠小兵，其可从施法者处继承 10% 生命和 30% 攻击力。小兵精准度为 -32%。",
+            "所有盟友在 4 回合内恢复 548 点生命值。",
+            "所有盟友获得 +30% 攻击力，持续 4 回合。"
         ]
     },
     {
         "originalIndex": 1135,
-        "name": "雷 (Ray) C1",
+        "name": "穿靴子的猫 (Puss in Boots) C1",
         "effects": [
-            "Special Skill has a different effect when charged with 100%/200% mana:",
-            "1x Mana Charge:",
-            " * All enemies receive 645 Burn damage over 3 turns.",
-            " * All enemies get -36% defense against Fire for 3 turns.",
-            " * Dispels buffs from all enemies.",
-            "2x Mana Charge:",
-            " * All allies regenerate 1300 HP over 5 turns.",
-            " * All allies get +60% attack against Nature for 5 turns.",
-            " * Cleanses status ailments from all allies."
+            "所有召唤师盟友为自身召唤一名小兵。",
+            "召唤 3 名老鼠小兵，其可从施法者处继承 20% 生命和 20% 攻击力。小兵精准度为 -16%。",
+            "所有盟友在 4 回合内恢复 324 点生命值。",
+            "所有盟友获得 +50% 攻击力，持续 4 回合。"
         ]
     },
     {
         "originalIndex": 1136,
-        "name": "小红帽 (Red Hood)",
+        "name": "红桃王后 (Queen of Hearts)",
         "effects": [
-            "Deals 215% damage to all enemies.",
-            "Summons a Fox Minion for each ally with 25% HP. The minion recovers 10% health for its owner at the end of each turn. The minion protects its owner from mana reduction."
+            "对目标及附近敌人造成 240% 伤害。",
+            "召唤一个扑克小兵，其可从施法者处继承 16% 生命值和 30% 攻击力。",
+            "扑克小兵被召唤后，只要其所有者拥有扑克小兵，其所有者就会获得嘲讽。此效果无法驱散。",
+            "施法者获得 74% 特殊技能防御，持续 4 回合。"
         ]
     },
     {
         "originalIndex": 1137,
-        "name": "雷金 (Regin)",
+        "name": "红桃王后 (Queen of Hearts) C1",
         "effects": [
-            "Dispels buffs from the target and nearby enemies.",
-            "Attacks the target and nearby enemies with Firestorm Strike, dealing up to 2000 damage. Deals 40% more damage if the target is of the Nature element. This Special Skill never misses its targets.",
-            "The target and nearby enemies are immune to new status effect buffs for 3 turns."
+            "对目标及附近敌人造成 200% 伤害。",
+            "召唤一个扑克小兵，其可从施法者处继承 25% 生命值和 40% 攻击力。",
+            "扑克小兵被召唤后，只要其所有者拥有扑克小兵，其所有者就会获得嘲讽。此效果无法驱散。",
+            "施法者获得 +74% 特殊技能防御，持续 4 回合。"
         ]
     },
     {
         "originalIndex": 1138,
-        "name": "鲁本 (Reuben)",
+        "name": "拉杰什 (Rajesh)",
         "effects": [
-            "Deals 310% damage to the target and nearby enemies.",
-            "All allies get -75% reduction to damage received from status effects for 4 turns.",
-            "Element Link summons a Fire Minion for all Fire allies with 6% HP and 10% attack inherited from the caster."
+            "净化所有盟友身上的状态异常，且每净化一个状态异常，使所有盟友的法力增加 10%。",
+            "所有盟友攻击时无视防御增益（包括反击），持续 4 回合。如果成功无视了防御增益，发动攻击的盟友的法力增加 15%。",
+            "所有盟友可抵御新的负面法力效果，持续 4 回合，每抵御一个效果法力增加 20%。",
+            "叠加（最多 10 层）：所有盟友获得 +35% 攻击力。"
         ]
     },
     {
         "originalIndex": 1139,
-        "name": "蕾夫娜 (Revna)",
+        "name": "拉尚 (Rashan)",
         "effects": [
-            "Safely cleanses 1 status ailment from all allies. (Status ailments are cleansed in the order they have been received. The latest status ailments are cleansed first.)",
-            "Recovers 35% health for all allies.",
-            "All allies reflect status ailments, negative stacks, and Wither effects to a random character on the opposing team for 4 turns."
+            "对敌阵边缘的敌人造成 330% 伤害，并对其施加 25 点狂乱。如果只有一名敌人，伤害和施加的狂乱将翻倍。",
+            "敌方阵型边缘的敌人将抵抗治疗且每次抵抗治疗时都将受到 250 点伤害，持续 3 回合。",
+            "对施法者施加 45 点狂乱。"
         ]
     },
     {
         "originalIndex": 1140,
-        "name": "火箭 (Rocket)",
+        "name": "雷 (Ray)",
         "effects": [
-            "Wither: The target gets -330 defense.",
-            "Summons a Goblin Explosive Fiend for the target and nearby enemies. The Fiend damages the enemy with 195% attack every turn.",
-            "The Goblin Explosive Fiend absorbs healing and disappears when it has absorbed health equal to 20% of its owner’s max health.",
-            "When the Goblin Explosive Fiend disappears after it has absorbed enough healing, the owner receives 1269 Burn damage over 3 turns."
+            "当特殊技能充能至 100% / 200% 法力时将拥有不同的效果：",
+            "1 倍法力充能：",
+            "* 所有敌人在 3 回合内受到共计 423 点燃烧伤害。",
+            "* 所有敌人获得对烈火系 -34% 的防御，持续 3 回合。",
+            "* 驱散所有敌人的增益。",
+            "2 倍法力充能：",
+            "* 所有盟友在 5 回合内恢复 1190 点生命值。",
+            "* 所有盟友获得对自然系 +50% 的攻击力，持续 5 回合。",
+            "* 净化所有盟友的状态异常。"
         ]
     },
     {
         "originalIndex": 1141,
-        "name": "罗莎娜 (Rosanna)",
+        "name": "雷 (Ray) C1",
         "effects": [
-            "Deals 500% damage to the target.",
-            "Has a 80% chance for additional hits on random enemies up to 4 times. Additional hits deal minor damage.",
-            "All hit targets get 20 Insanity every time they are hit.",
-            "Inflicts 50 Insanity to the caster."
+            "当特殊技能充能至 100% / 200% 法力时将拥有不同的效果：",
+            "1 倍法力充能：",
+            "* 所有敌人在 3 回合内受到共计 645 点燃烧伤害。",
+            "* 所有敌人获得对烈火系 -36% 的防御，持续 3 回合。",
+            "* 驱散所有敌人的增益。",
+            "2 倍法力充能：",
+            "* 所有盟友在 5 回合内恢复 1300 点生命值。",
+            "* 所有盟友获得对自然系 +60% 的攻击力，持续 5 回合。",
+            "* 净化所有盟友的状态异常。"
         ]
     },
     {
         "originalIndex": 1142,
-        "name": "拉菲恩与呢姬布 (Roughian & Nurgib)",
+        "name": "小红帽 (Red Hood)",
         "effects": [
-            "Steals 50% mana from the target and distributes them on allies.",
-            "Deals 450% damage to the target.",
-            "The more health the enemy has, the more damage they will receive, up to 600%.",
-            "Element Link gives all Fire allies get +5% chance to dodge status ailments for 4 turns. This effect can't be dispelled."
+            "对所有敌人造成 215% 伤害。",
+            "为每位盟友召唤一个狐狸小兵，其可从施法者处继承 25% 生命。小兵可在每回合结束时为主人恢复 10% 生命，且可保护主人免受法力减损。"
         ]
     },
     {
         "originalIndex": 1143,
-        "name": "鲁瓦 (Ruadh)",
+        "name": "雷金 (Regin)",
         "effects": [
-            "Dispels buffs from all enemies.",
-            "Deals 400% damage to all enemies.",
-            "Deals additional 10% damage per removed status effect, up to 500% damage in total.",
-            "All alllies get +40% attack, and a further +2% increase per each removed status effect up to +60% attack in total, for 6 turns.",
-            "All alllies get +40% defense and a further +2% increase per each removed status effect up to +60% defense in total, for 6 turns.",
-            "The caster regenerates 1500 boosted health over 6 turns. Boosted health can exceed max HP."
+            "驱散目标和附近敌人身上的增益。",
+            "使用焰暴闪袭攻击目标及其附近敌人，造成最多 2000 点伤害。若目标为自然系元素则额外造成 40% 伤害。该特殊技能必定命中。",
+            "目标和附近敌人对新的增益状态效果免疫，持续 3 回合。"
         ]
     },
     {
         "originalIndex": 1144,
-        "name": "露比 (Ruby)",
+        "name": "鲁本 (Reuben)",
         "effects": [
-            "Special Skill has a different effect when charged with 100%/200%/300% mana:",
-            "1x Mana Charge:",
-            " - Deals 290% damage to the target.",
-            " - Reduces the mana of the target by 25%.",
-            " - The target gets -14% mana generation for 2 turns.",
-            "2x Mana Charge:",
-            " - Deals 330% damage to the target and nearby enemies.",
-            " - Reduces the mana of the target and nearby enemies by 50%.",
-            " - The target and nearby enemies get -24% mana generation for 3 turns.",
-            "3x Mana Charge:",
-            " - Deals 370% damage to all enemies.",
-            " - Reduces the mana of all enemies by 100%.",
-            " - All enemies gets -34% mana generation for 4 turns."
+            "对目标及附近敌人造成 310% 伤害。",
+            "所有盟友因状态异常受到的伤害降低 -75%，持续 4 回合。",
+            "元素链为所有烈火系盟友召唤出一名火焰小兵，其可从施法者处继承 6% 生命和 10% 攻击力。"
         ]
     },
     {
         "originalIndex": 1145,
-        "name": "拉塞尔 (Russell)",
+        "name": "蕾夫娜 (Revna)",
         "effects": [
-            "This Special Skill never misses its targets.",
-            "Deals 400% damage to the target.",
-            "The target and nearby enemies receive 381 Burn damage over 3 turns.",
-            "Element Link gives +10% increase for any healing received for all Fire allies for 4 turns. This effect can't be dispelled."
+            "安全净化所有盟友身上的 1 个状态异常。（状态异常会按照获得的先后顺序被净化。最后获得的状态异常最先被净化）",
+            "为所有盟友恢复 35% 生命值。",
+            "所有盟友将状态异常、负面叠加效果和衰退效果反弹至敌方战队的随机一名角色，持续 4 回合。"
         ]
     },
     {
         "originalIndex": 1146,
-        "name": "腊斯特 (Rust)",
+        "name": "火箭 (Rocket)",
         "effects": [
-            "Deals 535% damage to the target and nearby enemies.",
-            "The target receives lasting 210 Bleed damage per turn. (This effect lasts until it is cleansed or removed.)",
-            "Gives cover to any ally with the lowest Health for 5 turns. This effect can’t be dispelled. (While in Cover, the ally takes no damage from Special attaacks or normal attacks. The covering character takes 50% of the damage dealt to the ally.)",
-            "The caster regenerates 1750 HP over 5 turns."
+            "衰退：目标获得 -330 点防御。",
+            "召唤哥布林炸弹恶魔附身于目标及附近敌人。恶魔每回合对敌人造成 195% 攻击力的伤害。",
+            "哥布林炸弹恶魔会吸收治疗。它在吸收了相当于其所有者最大生命值 20% 的治疗量后便会消失。",
+            "哥布林炸弹恶魔在吸收足够治疗后消失时，其所有者会在 3 回合内受到共计 1269 点燃烧伤害。"
         ]
     },
     {
         "originalIndex": 1147,
-        "name": "萨利马塔 (Salimata)",
+        "name": "罗莎娜 (Rosanna)",
         "effects": [
-            "Dispels buffs from the target and nearby enemies.",
-            "Deals 375% damage to target and nearby enemies.",
-            "The target and nearby enemies receive Minion Wound for 3 turns.",
-            "Minion Wound: Target’s minions health is reduced by 50% and mega minions health is reduced by 25% each turn. (Reduction is applied to owned minions and to any received minions while the effect is active. Reduction only affects minions’ current health.",
-            "The target and nearby enemies get -80% decrease for any healing received for 3 turns."
+            "对目标造成 500% 伤害。",
+            "有 80% 的几率可额外攻击随机敌人最多 4 次。额外攻击造成轻微伤害。",
+            "技能命中的所有目标每当被击中时就会获得 20 点狂乱。",
+            "对施法者施加 50 点狂乱。"
         ]
     },
     {
         "originalIndex": 1148,
-        "name": "圣诞老人 (Santa Claus)",
+        "name": "拉菲恩与呢姬布 (Roughian & Nurgib)",
         "effects": [
-            "Deals 200% damage to all enemies.",
-            "Summons an Elf Minion for each ally with 10% HP and 10% attack inherited from the caster.",
-            "All enemies get -34% attack for 3 turns.",
-            "All enemies get -44% defense for 3 turns."
+            "从目标身上窃取 50% 法力并平均分配到所有盟友身上。",
+            "对目标造成 450% 伤害。",
+            "敌人的生命越高，受到的伤害越多，最高可达 600%。",
+            "元素链赋予所有烈火系盟友 +5% 几率闪避状态异常，持续 4 回合。此效果无法驱散。"
         ]
     },
     {
         "originalIndex": 1149,
-        "name": "圣诞老人 (Santa Claus) C1",
+        "name": "鲁瓦 (Ruadh)",
         "effects": [
-            "Deals 150% damage to all enemies.",
-            "Summons an Elf Minion for each ally with 10% HP and 10% attack inherited from the caster.",
-            "All enemies get -24% attack for 4 turns.",
-            "All enemies get -54% defense for 4 turns."
+            "驱散所有敌人的增益。",
+            "对所有敌人造成 400% 伤害。",
+            "每移除一个状态效果便造成额外 10% 伤害，最多累计造成 500% 伤害。",
+            "所有盟友获得 +40% 攻击力，每移除一个状态效果便再增加 +2% 攻击力，最高可达 +60%，持续 6 回合。",
+            "所有盟友获得 +40% 防御，每移除一个状态效果便再增加 +2% 防御，最高可达 +60%，持续 6 回合。",
+            "施法者在 6 回合内获得共计 1500 点生命加成。提高的生命值可以超过最大生命值。"
         ]
     },
     {
         "originalIndex": 1150,
-        "name": "西尔莎 (Saoirse)",
+        "name": "露比 (Ruby)",
         "effects": [
-            "Deals 315% damage to the target and nearby enemies.",
-            "The target and nearby enemies get -54% defense for 3 turns.",
-            "Stack +2 (Max: 10): The caster gets +10% mana generation",
-            "Stack (Max: 10): The caster recovers 10 HP each turn."
+            "当特殊技能充能至 100% / 200% / 300% 法力时将拥有不同的效果：",
+            "1 倍法力充能：",
+            "- 对目标造成 290% 伤害。",
+            "- 使目标的法力减少 25%。",
+            "- 目标获得 -14% 法力生成，持续 2 回合。",
+            "2 倍法力充能：",
+            "- 对目标及附近敌人造成 330% 伤害。",
+            "- 使目标和附近敌人的法力减少 50%。",
+            "- 目标与附近敌人获得 -24% 法力生成，持续 3 回合。",
+            "3 倍法力充能：",
+            "- 对所有敌人造成 370% 伤害。",
+            "- 使所有敌人的法力减少 100%。",
+            "- 所有敌人获得 -34% 法力生成，持续 4 回合。"
         ]
     },
     {
         "originalIndex": 1151,
-        "name": "西尔莎 (Saoirse) C1",
+        "name": "拉塞尔 (Russell)",
         "effects": [
-            "Deals 335% damage to the target and nearby enemies.",
-            "The target and nearby enemies get -44% defense for 3 turns.",
-            "Stack +3 (Max: 10): The caster gets +18% mana generation.",
-            "Stack +2 (Max: 10): The caster recovers 30 HP each turn."
+            "此特殊技能必定命中。",
+            "对目标造成 400% 伤害。",
+            "目标与附近敌人在 3 回合内受到共计 381 点燃烧伤害。",
+            "元素链给予所有烈火系盟友受到的治疗增加 +10%，持续 4 回合。此效果无法驱散。"
         ]
     },
     {
         "originalIndex": 1152,
-        "name": "熔砾 (Scoria)",
+        "name": "腊斯特 (Rust)",
         "effects": [
-            "Deals 420% damage to the enemy with the highest HP. Deals 300% damage to all other enemies.",
-            "The enemy that had the highest remaining HP gets silenced for 3 turns.",
-            "Wither: All enemies get -350 attack."
+            "对目标及附近敌人造成 535% 伤害。",
+            "目标在每回合受到 210 点流血伤害，持续无限回合。（此效果持续至被净化、替换或移除）",
+            "为生命值最低的盟友提供掩护，持续 5 回合。此效果无法驱散。（在掩护期间，该盟友不会受到特殊攻击或普通攻击的伤害。提供掩护的角色将承受对该盟友造成伤害的 50% ）",
+            "施法者在 5 回合内恢复 1750 点生命值。"
         ]
     },
     {
         "originalIndex": 1153,
-        "name": "塞赫美特 (Sekhmet)",
+        "name": "萨利马塔 (Salimata)",
         "effects": [
-            "Deals 450% damage to the target.",
-            "Heals all allies for 40% of the damage dealt."
+            "驱散目标和附近敌人身上的增益。",
+            "对目标及附近敌人造成 375% 伤害。",
+            "目标与附近敌人受到小兵创伤，持续 3 回合。",
+            "小兵创伤：目标的小兵生命每回合减少 50%，超级小兵生命每回合减少 25% （此效果对其拥有的小兵和任何获得的任何小兵皆有效。减损效果只影响小兵当前生命值）。",
+            "目标与附近敌人获得的治疗减少 -80%，持续 3 回合。"
         ]
     },
     {
         "originalIndex": 1154,
-        "name": "塞赫美特 (Sekhmet) C1",
+        "name": "圣诞老人 (Santa Claus)",
         "effects": [
-            "Deals 500% damage to the target.",
-            "Heals all allies for 35% of damage dealt."
+            "对所有敌人造成 200% 伤害。",
+            "为每位盟友召唤一个精灵小兵，此小兵继承施法者 10% 的生命值和 10% 的攻击力。",
+            "所有敌人获得 -34% 攻击力，持续 3 回合。",
+            "所有敌人获得 -44% 防御，持续 3 回合。"
         ]
     },
     {
         "originalIndex": 1155,
-        "name": "桃针 (Serandite)",
+        "name": "圣诞老人 (Santa Claus) C1",
         "effects": [
-            "Special Skill has a different effect when charged with 100%/200%/300% mana:",
-            "x1 Mana Charge:",
-            " - Deals 160% damage to all enemies.",
-            " - All enemies receive 256 Burn damage over 2 turns.",
-            " - All enemies get -64% decrease of any healing received for 2 turns.",
-            "x2 Mana Charge:",
-            " - Deals 275% damage to all enemies.",
-            " - All enemies receive 561 Burn damage over 3 turns.",
-            " - All enemies get -74% decrease of any healing received for 3 turns.",
-            "x3 Mana Charge:",
-            " - Deals 340% damage to all enemies.",
-            " - All enemies receive 840 Burn damage over 4 turns.",
-            " - All enemies get -84% decrease of any healing received for 4 turns."
+            "对所有敌人造成 150% 伤害。",
+            "为每位盟友召唤一个精灵小兵，此小兵继承施法者 10% 的生命值和 10% 的攻击力。",
+            "所有敌人获得 -24% 攻击力，持续 4 回合。",
+            "所有敌人获得 -54% 防御，持续 4 回合。"
         ]
     },
     {
         "originalIndex": 1156,
-        "name": "斯卡格列马 (Skargremar)",
+        "name": "西尔莎 (Saoirse)",
         "effects": [
-            "Deals 345% damage to the target and nearby enemies.",
-            "Reduces the mana of the target and nearby enemies by 20%.",
-            "The target and nearby enemies get -35% accuracy for 4 turns. Chance to miss applies to offensive Special Skills.",
-            "Element Link gives +10% mana generations for all Fire allies for 4 turns. This effect cannot be dispelled."
+            "对目标及附近敌人造成 315% 伤害。",
+            "目标与附近敌人获得 -54% 防御，持续 3 回合。",
+            "叠加 +2 （最多 10 层）：施法者获得 +10% 法力生成。",
+            "叠加（最多 10 层）：施法者每回合恢复 10 点生命值。"
         ]
     },
     {
         "originalIndex": 1157,
-        "name": "闪焰 (Sparklight)",
+        "name": "西尔莎 (Saoirse) C1",
         "effects": [
-            "This Special Skill never misses its targets.",
-            "Deal 430% damage to the target and nearby enemies.",
-            "The target and nearby enemies receive 472 Burn damage over 4 turns. The caster and all their allies aborb 45% of dealt Burn damage as boosted health.",
-            "The target and nearby enemies reflect status effect buffs to a random character on the opposing team for 4 turns. (Only dispellable buffs are reflected)"
+            "对目标及附近敌人造成 335% 伤害。",
+            "目标与附近敌人获得 -44% 防御，持续 3 回合。",
+            "叠加 +3 （最多 10 层）：施法者获得 +18% 法力生成。",
+            "叠加 +2 （最多 10 层）：施法者每回合恢复 30 点生命值。"
         ]
     },
     {
         "originalIndex": 1158,
-        "name": "孙权 (Sun Quan)",
+        "name": "熔砾 (Scoria)",
         "effects": [
-            "Deals 340% damage to the target and nearby enemies.",
-            "Summons a Wu Soldier Minion for each ally with 10% HP and 18% attack inherited from the caster.",
-            "The target hit by Wu Soldier Minion receives 258 Burn damage over 3 turns."
+            "对生命值最高的敌人造成 420% 伤害。对其他所有敌人造成 300% 伤害。",
+            "剩余生命值最高的敌人陷入沉默，持续 3 回合。",
+            "衰退：所有敌人获得 -350 点攻击力。"
         ]
     },
     {
         "originalIndex": 1159,
-        "name": "孙权 (Sun Quan) C1",
+        "name": "赛迪尔 (Sedille)",
         "effects": [
-            "Deals 330% damage to the target and nearby enemies.",
-            "Summons a Wu Soldier Minion for each ally with 22% HP and 30% attack inherited from the caster.",
-            "The target hit by Wu Soldier Minion receives 543 Burn damage over 3 turns."
+            "对所有敌人造成 450% 伤害。",
+            "所有敌人在 5 回合内受到共计 785 点燃烧伤害。所有盟友会吸收所造成燃烧伤害的 25% 并转化为生命值加成.",
+            "衰退：所有敌人获得 -350 点攻击力和 -350 点防御。"
         ]
     },
     {
         "originalIndex": 1160,
-        "name": "塔希尔 (Tahir)",
+        "name": "塞赫美特 (Sekhmet)",
         "effects": [
-            "Deals 380% damage to the target.",
-            "Deals 570% damage if the target has status ailments or negative stacks.",
-            "If the target still alive, the nearby enemies get 258 Bleed damage for 3 turns.",
-            "Element Link gives all Fire allies immunity to new Fiends for 4 turns. This effect cannot be dispelled."
+            "对目标造成 450% 伤害。",
+            "为所有盟友恢复等同于所造成伤害 40% 的生命值。"
         ]
     },
     {
         "originalIndex": 1161,
-        "name": "特里谢里 (Tetisheri)",
+        "name": "塞赫美特 (Sekhmet) C1",
         "effects": [
-            "Deals 500% damage to the target and minor damage to nearby enemies.",
-            "The target gets -54% defense for 3 turns.",
-            "If target is defeated in the next 3 turns, all caster’s allies get +20% mana."
+            "对目标造成 500% 伤害。",
+            "为所有盟友恢复等同于所造成伤害 35% 的生命值。"
         ]
     },
     {
         "originalIndex": 1162,
-        "name": "特里谢里 (Tetisheri) C1",
+        "name": "桃针 (Serandite)",
         "effects": [
-            "Deals 530% damage to the target and minor damage to nearby enemies.",
-            "The target gets -44% defense for 3 turns.",
-            "If the target is defeated in the next 3 turns, all caster’s allies get +20% mana."
+            "当特殊技能充能至 100% / 200% / 300% 法力时将拥有不同的效果：",
+            "1 倍法力充能：",
+            "- 对所有敌人造成 160% 伤害。",
+            "- 所有敌人在 2 回合内受到共计 256 点燃烧伤害。",
+            "- 所有敌人获得的治疗减少 -64%，持续 2 回合。",
+            "2 倍法力充能：",
+            "- 对所有敌人造成 275% 伤害。",
+            "- 所有敌人在 3 回合内受到共计 561 点燃烧伤害。",
+            "- 所有敌人获得的治疗减少 -74%，持续 3 回合。",
+            "3 倍法力充能：",
+            "- 对所有敌人造成 340% 伤害。",
+            "- 所有敌人在 4 回合内受到共计 840 点燃烧伤害。",
+            "- 所有敌人获得的治疗减少 -84%，持续 4 回合。"
         ]
     },
     {
         "originalIndex": 1163,
-        "name": "蒂莫西 (Timothy)",
+        "name": "斯卡格列马 (Skargremar)",
         "effects": [
-            "Boosts health for all allies by 560. Boosted health can exceed max HP.",
-            "All allies get +20% attack, and an additional +10% each time any ally casts their Special Skill, up to maximimum of 70%, for the next 3 turns.",
-            "The caster gets -20% defense for 3 turns. This effect can’t be cleansed."
+            "对目标及附近敌人造成 345% 伤害。",
+            "使目标和附近敌人的法力减少 20%。",
+            "目标与附近敌人获得 -35% 精准度，持续 4 回合。进攻型特殊技能也有相同几率落空。",
+            "元素链为全体烈火系盟友提供 +10% 的法力生成，持续 4 回合。此效果无法驱散。"
         ]
     },
     {
         "originalIndex": 1164,
-        "name": "托本 (Torben)",
+        "name": "闪焰 (Sparklight)",
         "effects": [
-            "The target receives 80% damage for all the damage their allies receive for 3 turns.",
-            "The target get -44% defense for 3 turns.",
-            "Deals 200% damage to the target and nearby enemies."
+            "此特殊技能必定命中。",
+            "对目标及附近敌人造成 430% 伤害。",
+            "目标与附近敌人在 4 回合内受到共计 472 点燃烧伤害。施法者及其所有盟友会吸收所造成燃烧伤害的 45% 并转化为生命值加成。",
+            "目标和附近敌人将反弹增益状态效果至我方战队的一名随机角色，持续 4 回合。（只有可驱散的增益才可反弹）"
         ]
     },
     {
         "originalIndex": 1165,
-        "name": "泰尔 (Tyr)",
+        "name": "孙权 (Sun Quan)",
         "effects": [
-            "Deals 285% damage to the target.",
-            "The attack has a 60% chance to bypass defensive buffs. This includes counterattacks.",
-            "The target receives 212 Bleed damage over 4 turns.",
-            "The caster regenerates 548 HP over 4 turns.",
-            "If the caster dies during the next 4 turns, they are resurrected in the beginning of their next turn with 32% health. All status effects and stacks are removed when the caster dies."
+            "对目标及附近敌人造成 340% 伤害。",
+            "为每位盟友召唤一个吴军小兵，其可从施法者处继承 10% 生命和 18% 攻击力。",
+            "被吴军小兵击中的目标会在 3 回合内受到共计 258 点燃烧伤害。"
         ]
     },
     {
         "originalIndex": 1166,
-        "name": "泰尔 (Tyr) C1",
+        "name": "孙权 (Sun Quan) C1",
         "effects": [
-            "Deals 260% damage to the target and nearby enemies.",
-            "The attack bypasses defensive buffs. This includes counterattacks.",
-            "The target and nearby enemies receive 584 Bleed damage over 4 turns. The caster absorbs 40% of the dealt Bleed damage as health.",
-            "If the caster dies during the next 4 turns they are resurrected in the beginning of their turn with 40% health. All status effects and stacks are removed when the caster dies."
+            "对目标及附近敌人造成 330% 伤害。",
+            "为每位盟友召唤一个吴军小兵，其可从施法者处继承 22% 生命和 30% 攻击力。",
+            "被吴军小兵击中的目标会在 3 回合内受到共计 543 点燃烧伤害。"
         ]
     },
     {
         "originalIndex": 1167,
-        "name": "乌戈宁 (Ukkonen)",
+        "name": "塔希尔 (Tahir)",
         "effects": [
-            "Deals 230% damage to all enemies.",
-            "All enemies get -40% attack for 3 turns. Against Ice characters, this status effect becomes uncleansable and lasts 2 turns longer.",
-            "The caster and nearby allies recover 618 HP over 3 turns. The effect duration is reset if the status effect owner is hit with direct damage from a Special Skill.",
-            "The caster and nearby allies are immune to buff dispels for 3 turns."
+            "对目标造成 380% 伤害。",
+            "如果目标身上带有状态异常或负面效果叠加，则造成 570% 伤害。",
+            "若目标仍存活，则其附近敌人在 3 回合内受到共计 258 点流血伤害。",
+            "元素链使全体烈火系盟友对新恶魔免疫，持续 4 回合。此效果无法驱散。"
         ]
     },
     {
         "originalIndex": 1168,
-        "name": "乌戈宁 (Ukkonen) C1",
+        "name": "特里谢里 (Tetisheri)",
         "effects": [
-            "Deals 260% damage to all enemies.",
-            "All enemies get -30% attack for 3 turns. Against Ice characters, this status effect becomes uncleansable and lasts 2 turns longer.",
-            "The caster and nearby allies recover 717 HP over 3 turns. The effect duration is reset if the status effect owner is hit with direct damage from a Special Skill.",
-            "The caster and nearby allies are immune to buff dispels and reallocations for 3 turns. (The immunity also includes this effect itself)"
+            "对目标造成 500% 伤害，并对附近敌人造成轻微伤害。",
+            "目标获得 -54% 防御，持续 3 回合。",
+            "若目标在接下来 3 回合内被打败，则施法者的所有盟友获得 +20% 法力。"
         ]
     },
     {
         "originalIndex": 1169,
-        "name": "凡达 (Vanda)",
+        "name": "特里谢里 (Tetisheri) C1",
         "effects": [
-            "Deals 125% damage to all enemies.",
-            "The caster steals 61% of any healing applied to all enemies for 2 turns.",
-            "All allies are immune to new status ailments for 2 turns."
+            "对目标造成 530% 伤害，并对附近敌人造成轻微伤害。",
+            "目标获得 -44% 防御，持续 3 回合。",
+            "若目标在接下来 3 回合内被打败，则施法者的所有盟友获得 +20% 法力。"
         ]
     },
     {
         "originalIndex": 1170,
-        "name": "凡达 (Vanda) C1",
+        "name": "蒂莫西 (Timothy)",
         "effects": [
-            "Deals 115% damage to all enemies.",
-            "The caster steals 51% of any healing applied to all enemies for 3 turns.",
-            "All allies are immune to new status ailments for 3 turns."
+            "提高所有盟友 560 点生命值。提高的生命值可以超过最大生命值。",
+            "所有盟友获得 +20% 攻击力，并且任何盟友每次施放其特殊技能时都会额外受到 +10% 攻击，接下来 3 回合最多为 70%。",
+            "施法者获得 -20% 防御，持续 3 回合。此效果无法净化。"
         ]
     },
     {
         "originalIndex": 1171,
-        "name": "万亚 (Vanya)",
+        "name": "托本 (Torben)",
         "effects": [
-            "Recovers 54% health of all allies.",
-            "Summons a Shield Guard Mega Minion with 65% HP and 180% attack inherited from the caster.",
-            "The Shield Guard Mega Minion cleanses the latest cleansable status ailments from all allies each turn. This does not trigger secondary effects."
+            "目标所有的盟友遭受伤害时，目标受到 80% 的伤害，持续 3 回合。",
+            "目标获得 -44% 防御，持续 3 回合。",
+            "对目标及附近敌人造成 200% 伤害。"
         ]
     },
     {
         "originalIndex": 1172,
-        "name": "仙妲 (Xenda)",
+        "name": "泰尔 (Tyr)",
         "effects": [
-            "Deals 250% damage to all enemies.",
-            "All enemies receive 300 Burn damage over 4 turns. The caster absorbs 15% of dealt Burn damage as health.",
-            "The caster steals generated mana of all enemies over 4 turns starting low and increasing every turn until on the last turn all the generated mana is stolen."
+            "对目标造成 285% 伤害。",
+            "攻击有 60% 的几率无视防御增益（包括反击）。",
+            "目标在 4 回合内受到共计 212 点流血伤害。",
+            "施法者在 4 回合内恢复 548 点生命值。",
+            "如果施法者在后续 4 回合中被击败，该盟友将于下一个回合开始时以 32% 的生命复活。施法者被击败时所有状态和叠加效果会被移除。"
         ]
     },
     {
         "originalIndex": 1173,
-        "name": "仙妲 (Xenda) C1",
+        "name": "泰尔 (Tyr) C1",
         "effects": [
-            "Deals 230% damage to all enemies.",
-            "All enemies receive 424 Burn damage over 4 turns. The caster absorbs 20% of dealt Burn damage as health.",
-            "The caster steals generated mana of all enemies over 4 turns starting low and increasing every turn until on the last turn all the generated mana is stolen."
+            "对目标及附近敌人造成 260% 伤害。",
+            "攻击会无视防御增益（包括反击）。",
+            "目标与附近敌人在 4 回合内受到共计 584 点流血伤害。施法者会吸收所造成流血伤害的 40% 并转化为生命值。",
+            "如果施法者在后续 4 回合中被击败，该盟友将于下一个回合开始时以 40% 的生命复活。施法者被击败时所有状态和叠加效果会被移除。"
         ]
     },
     {
         "originalIndex": 1174,
-        "name": "小兔 (Xiaotu)",
+        "name": "乌戈宁 (Ukkonen)",
         "effects": [
-            "Deals 655% damage to the target.",
-            "The target and nearby enemies resist healing and receive 250 damage per each resisted healing for 4 turns."
+            "对所有敌人造成 230% 伤害。",
+            "所有敌人获得 -40% 攻击力，持续 3 回合。对冰雪系角色，此状态效果不可净化且持续时间延长 2 回合。",
+            "施法者和附近盟友在 3 回合内恢复 618 点生命值。若身上带有该状态效果时受到特殊技能的直接伤害，则效果持续时间会重置。",
+            "施法者和附近盟友对增益驱散免疫，持续 3 回合。"
         ]
     },
     {
         "originalIndex": 1175,
-        "name": "西王母 (Xiwangmu)",
+        "name": "乌戈宁 (Ukkonen) C1",
         "effects": [
-            "If the caster dies during the next 5 turns, they are resurrected in the beginning of their next turn with 35% health and 815 damage is dealt to all enemies. All status effects and stacks are removed when the caster dies.",
-            "All allies gets +50% critical chance for 4 turns.",
-            "Stack (Max: 10): All allies get +15% attack."
+            "对所有敌人造成 260% 伤害。",
+            "所有敌人获得 -30% 攻击力，持续 3 回合。对冰雪系角色，此状态效果不可净化且持续时间延长 2 回合。",
+            "施法者和附近盟友在 3 回合内恢复 717 点生命值。若身上带有该状态效果时受到特殊技能的直接伤害，则效果持续时间会重置。",
+            "施法者和附近盟友对增益驱散和转移免疫，持续 3 回合。（此免疫效果也包含此效果本身）"
         ]
     },
     {
         "originalIndex": 1176,
-        "name": "阳舞 (Yang Mai)",
+        "name": "凡达 (Vanda)",
         "effects": [
-            "Deals 370% damage to the target.",
-            "Has a 60% chance for additional hits on random enemies up to 4 times. Additional hits deal minor damage.",
-            "The caster gains the following status effect each hit:",
-            "Stack (Max: 10): The caster gets +6% attack.",
-            "Element Link gives all Fire allies small amount of mana at the end of the turn for 4 turns. This effect can't be dispelled."
+            "对所有敌人造成 125% 伤害。",
+            "施法者偷取所有敌人所获治疗的 61%，持续 2 回合。",
+            "所有盟友对新的状态异常免疫，持续 2 回合。"
         ]
     },
     {
         "originalIndex": 1177,
-        "name": "约兰达 (Yolanda)",
+        "name": "凡达 (Vanda) C1",
         "effects": [
-            "Deals 450% damage to the target and nearby enemies.",
-            "Enhanced Dodge: The caster and nearby allies get +55% chance to dodge Special Skills that deal damage. This effect lasts until the ally succesfully dodges 3 times.",
-            "After the Enhanced Dodge ends or is removed or replaced, one random enemy gets -55% accuracy for 3 turns, and one random enemy takes 765 Bleed damage over 3 turns. (Chance to miss applies to offensive Special Skills.)"
+            "对所有敌人造成 115% 伤害。",
+            "施法者偷取所有敌人所获治疗的 51%，持续 3 回合。",
+            "所有盟友对新的状态异常免疫，持续 3 回合。"
         ]
     },
     {
         "originalIndex": 1178,
-        "name": "扎戈洛格 (Zagrog)",
+        "name": "万亚 (Vanya)",
         "effects": [
-            "Deals 490% damage to the target and minor damage to nearby enemies.",
-            "The attack bypasses defensive buffs. This includes counterattacks.",
-            "The caster gains 25% mana if any defensive buffs were bypassed.",
-            "Element Link gives all Fire allies +10% defense for 4 turns. This effect can’t be dispelled."
+            "为所有盟友恢复 54% 生命值。",
+            "召唤一个持盾守卫超级小兵，其可从施法者处继承 65% 生命值和 180% 攻击力。",
+            "每回合持盾守卫超级小兵会净化所有盟友最后获得的可净化状态异常。这不会触发次生效果。"
         ]
     },
     {
         "originalIndex": 1179,
-        "name": "扎尔加 (Zarga)",
+        "name": "仙妲 (Xenda)",
         "effects": [
-            "Deals 465% damage to the target.",
-            "The target has 55% chance to get 1068 Bleed damage over 6 turns.",
-            "The target gets a Bleed mark for 6 turns. Whenever a marked target receives Bleed damage, they gain a stack (Max: 10). Each stack increases all damage the target receives by 5%.",
-            "Element Link gives all Fire allies +5% dodge chance for 6 turns. This effect cannot be dispelled."
+            "对所有敌人造成 250% 伤害。",
+            "所有敌人在 4 回合内受到共计 300 点燃烧伤害。施法者会吸收所造成燃烧伤害的 15% 并转化为生命值。",
+            "施法者在 4 回合内偷取所有敌人生成的法力，一开始偷取量较少，每个回合逐渐增加，直到最后一回合将偷取所有生成的法力。"
         ]
     },
     {
         "originalIndex": 1180,
-        "name": "萨里亚 (Zaria)",
+        "name": "仙妲 (Xenda) C1",
         "effects": [
-            "Deals 290% damage to all enemies.",
-            "If there are 6 or more Fire shields on the board, damage is increased to 340%.",
-            "If there are 12 or more Fire shields on the board, damage is increased to 500%."
+            "对所有敌人造成 230% 伤害。",
+            "所有敌人在 4 回合内受到共计 424 点燃烧伤害。施法者会吸收所造成燃烧伤害的 20% 并转化为生命值。",
+            "施法者在 4 回合内偷取所有敌人生成的法力，一开始偷取量较少，每个回合逐渐增加，直到最后一回合将偷取所有生成的法力。"
         ]
     },
     {
         "originalIndex": 1181,
-        "name": "季诺碧亚 (Zenobia)",
+        "name": "小兔 (Xiaotu)",
         "effects": [
-            "Deals 320% damage to the enemies on he edges of the enemy formation. If there is only one enemy alive, the damage is doubled.",
-            "Alters the power of all Fire shields on the board. When an attacking Hero casts the special, the shield becomes enhanced with +64% attack. When a defending Hero casts the special, the shields become weakened with -57% attack."
+            "对目标造成 655% 伤害。",
+            "目标和附近敌人将抵抗治疗，且每次抵抗治疗时都将受到 250 点伤害，持续 4 回合。"
         ]
     },
     {
         "originalIndex": 1182,
-        "name": "季诺碧亚 (Zenobia) C1",
+        "name": "西王母 (Xiwangmu)",
         "effects": [
-            "Deals 340% damage to the enemies on the edges of the enemy formation. If there is only one enemy alive, the damage is doubled.",
-            "Alters the power of Fire shields on the board. When an attacking Hero casts the special, the shields become enhanced with +64% attack. When a defending Hero casts the special, the shields become weakened with -57% attack."
+            "如果施法者在后续 5 回合中被击败，该施法者将于下一个回合开始时以 35% 的生命复活，并对所有敌人造成 815 点伤害。施法者被击败时所有状态和叠加效果会被移除。",
+            "所有盟友获得 +50% 暴击几率，持续 4 回合。",
+            "叠加（最多 10 层）：所有盟友获得 +15% 攻击力。"
         ]
     },
     {
         "originalIndex": 1183,
-        "name": "齐丹 (Zidane)",
+        "name": "阳舞 (Yang Mai)",
         "effects": [
-            "Deals 355% damage to the target.",
-            "Steals the latest dispellable buff from target and grants it to the caster.",
-            "Randomly casts one of the following alternatives:",
-            "Barbed Bolt:",
-            " * The target receives 504 Bleed damage over 3 turns.",
-            "Poison Bolt:",
-            " * The target receives 537 Poison damage over 3 turns.",
-            "Fire Bolt:",
-            " * The target receives 570 Burn damage over 3 turns.",
-            "Element Link gives all Fire allies +20% critical chance for 6 turns. This effect cannot be dispelled."
+            "对目标造成 370% 伤害。",
+            "有 60% 的几率可额外攻击随机敌人最多 4 次。额外攻击造成轻微伤害。",
+            "施法者每次命中都会获得以下状态效果：",
+            "叠加（最多 10 层）：施法者获得 +6% 攻击力。",
+            "元素链在回合结束时为所有烈火系盟友恢复少量法力，持续 4 回合。此效果无法驱散。"
         ]
     },
     {
         "originalIndex": 1184,
-        "name": "西姆吉塔 (Zimkitha)",
+        "name": "约兰达 (Yolanda)",
         "effects": [
-            "Deals 185% damage to all enemies.",
-            "All allies get +30% attack for 4 turns.",
-            "Cleanses status ailments from all allies.",
-            "Element Link recovers 4% health for all Fire allies for 6 turns. This effect can't be cleansed."
+            "对目标及附近敌人造成 450% 伤害。",
+            "强化闪避：施法者和附近盟友有 +55% 的几率闪避可造成伤害的特殊技能。此效果在盟友成功闪避 3 次后消失。",
+            "强化闪避结束后、被移除或被替换后，随机一名敌人获得 -55% 精准度，持续 3 回合，且随机一名敌人在 3 回合内受到共计 765 点流血伤害。（进攻型特殊技能也有相同几率落空）"
         ]
     },
     {
         "originalIndex": 1185,
-        "name": "西姆吉塔 (Zimkitha) C1",
+        "name": "扎戈洛格 (Zagrog)",
         "effects": [
-            "Dispels buffs from all enemies.",
-            "Deals 210% damage to all enemies.",
-            "Deals additional 15% damage per removed status effect, up to 390% damage in total.",
-            "Element Link recovers 4% health for all Fire allies for 6 turns. This effect can't be dispelled."
+            "对目标造成 490% 伤害，并对附近敌人造成轻微伤害。",
+            "攻击会无视防御增益（包括反击）。",
+            "当无视任意防御加成时，施法者获得 25% 的法力。",
+            "元素链赋予所有烈火系盟友 +10% 的防御，持续 4 回合。此效果无法驱散。"
         ]
     },
     {
         "originalIndex": 1186,
-        "name": "光 (Hikaru)",
+        "name": "扎尔加 (Zarga)",
         "effects": [
-            "Deals 265% damage to the target"
+            "对目标造成 465% 伤害。",
+            "目标有 55% 几率在 6 回合内受到共计 1068 点流血伤害。",
+            "目标获得流血标记，持续 6 回合。被标记的目标每次受到流血伤害时都将获得一层叠加（最多 10 层）。每层叠加会使目标受到的所有伤害增加 5%。",
+            "元素链赋予所有烈火系盟友 +5% 的闪避几率，持续 6 回合。此效果无法驱散。"
         ]
     },
     {
         "originalIndex": 1187,
-        "name": "健次郎 (Kenjiro)",
+        "name": "萨里亚 (Zaria)",
         "effects": [
-            "Deals 115% damage to all enemies"
+            "对所有敌人造成 290% 伤害。",
+            "若面板上有 6 个或以上的烈火系盾牌，则将该伤害提高至 340%。",
+            "若面板上有 12 个或以上的烈火系盾牌，则将该伤害提高至 500%。"
         ]
     },
     {
         "originalIndex": 1188,
-        "name": "猴 (Hou)",
+        "name": "季诺碧亚 (Zenobia)",
         "effects": [
-            "All allies get +63% defense for 4 turns"
+            "对位于敌军阵型边缘的敌人造成 320% 伤害。如果仅有一名敌人，则伤害加倍。",
+            "面板中所有烈火系盾牌受到影响。攻击方英雄施放特殊技能时，盾牌得到增强并额外给予 +64% 攻击力。防御方英雄施放特殊技能时，盾牌会被削弱攻击力 -57%。"
         ]
     },
     {
         "originalIndex": 1189,
-        "name": "纳什 (Nash)",
+        "name": "季诺碧亚 (Zenobia) C1",
         "effects": [
-            "Deals 195% damage to the target",
-            "The target gets -34% attack for 6 turns"
+            "对位于敌军阵型边缘的敌人造成 340% 伤害。如果仅有一名敌人，则伤害加倍。",
+            "面板中所有烈火系盾牌受到影响。攻击方英雄施放特殊技能时，盾牌得到增强并额外给予 +64% 攻击力。防御方英雄施放特殊技能时，盾牌会被削弱攻击力 -57%。"
         ]
     },
     {
         "originalIndex": 1190,
-        "name": "莎姬 (Sha Ji)",
+        "name": "齐丹 (Zidane)",
         "effects": [
-            "Recovers 28% health for all allies"
+            "对目标造成 355% 伤害。",
+            "从目标身上窃取最新获得的可驱散增益并将其赋予施法者。",
+            "随机施放以下一种效果：",
+            "倒刺之箭：",
+            "* 目标在 3 回合内受到共计 504 点流血伤害。",
+            "剧毒弩箭：",
+            "* 目标在 3 回合内受到共计 537 点剧毒伤害。",
+            "火焰弩箭：",
+            "* 目标在 3 回合内受到共计 570 点燃烧伤害。",
+            "元素链为全体烈火系盟友提供 +20% 的暴击几率，持续 6 回合。此效果无法驱散。"
         ]
     },
     {
         "originalIndex": 1191,
-        "name": "艾格尼斯 (Agnes)",
+        "name": "西姆吉塔 (Zimkitha)",
         "effects": [
-            "Deals 320% damage to the target.",
-            "The attack has a 60% chance to bypass defensive buffs. This includes counterattacks."
+            "对所有敌人造成 185% 伤害。",
+            "所有盟友获得 +30% 攻击力，持续 4 回合。",
+            "净化所有盟友的状态异常。",
+            "元素链为全体烈火系盟友提供 4% 的生命恢复，持续 6 回合。此效果无法净化。"
         ]
     },
     {
         "originalIndex": 1192,
-        "name": "阿尔曼 (Arman)",
+        "name": "西姆吉塔 (Zimkitha) C1",
         "effects": [
-            "Deals 130% damage to all enemies.",
-            "All enemies receive 92 damage over 4 turns.",
-            "All enemies get -50% increase for any healing received for 2 turns. This effect can't be cleansed.",
-            "Dispels status ailments from the caster."
+            "驱散所有敌人的增益。",
+            "对所有敌人造成 210% 伤害。",
+            "每移除一个状态效果便造成额外 15% 伤害，最多累计造成 390% 伤害。",
+            "元素链为全体烈火系盟友提供 4% 的生命恢复，持续 6 回合。此效果无法驱散。"
         ]
     },
     {
         "originalIndex": 1193,
-        "name": "贝恩 (Bane)",
+        "name": "光 (Hikaru)",
         "effects": [
-            "Deals 300% damage to the target.",
-            "The target gets -35% accuracy for 4 turns. Chance to miss also applies to offensive Special Skills."
+            "对目标造成 265% 伤害。"
         ]
     },
     {
         "originalIndex": 1194,
-        "name": "贝恩 (Bane) C1",
+        "name": "健次郎 (Kenjiro)",
         "effects": [
-            "Deals 280% damage to the target",
-            "The target gets -40% accuracy for 4 turns. Chance to miss also applies to offensive Special Skills."
+            "对所有敌人造成 115% 伤害。"
         ]
     },
     {
         "originalIndex": 1195,
-        "name": "贝恩 (Bane) 卡通",
+        "name": "猴 (Hou)",
         "effects": [
-            "Deals 305% damage to the target.",
-            "The target gets -30% accuracy for 2 turns.",
-            "Deals extra damage against Dark."
+            "所有盟友获得 +63% 防御，持续 4 回合。"
         ]
     },
     {
         "originalIndex": 1196,
-        "name": "贝恩 (Bane) 玻璃",
+        "name": "纳什 (Nash)",
         "effects": [
-            "Deals 315% damage to the target.",
-            "The attack bypasses defensive buffs. (This includes counterattacks.)",
-            "The target gets -32% accuracy for 4 turns."
+            "对目标造成 195% 伤害。",
+            "目标获得 -34% 攻击力，持续 6 回合。"
         ]
     },
     {
         "originalIndex": 1197,
-        "name": "柏图尔夫 (Bertulf)",
+        "name": "莎姬 (Sha Ji)",
         "effects": [
-            "All allies get +100% normal attack for 4 turns. This effect can be active in addition to effectst hat alter attack in general. Normal attacks can have a total maximum of +160% increased power while this effect is active."
+            "为所有盟友恢复 28% 生命值。"
         ]
     },
     {
         "originalIndex": 1198,
-        "name": "坎迪 (Candy)",
+        "name": "艾格尼斯 (Agnes)",
         "effects": [
-            "Heals all allies who have less than 50% HP left to 50% health.",
-            "All allies regenerate 261 HP over 3 turns."
+            "对目标造成 320% 伤害。",
+            "攻击有 60% 的几率无视防御增益（包括反击）。"
         ]
     },
     {
         "originalIndex": 1199,
-        "name": "西达 (Cedar)",
+        "name": "阿尔曼 (Arman)",
         "effects": [
-            "Deals 175% damage to all enemies.",
-            "All enemies get -15% accuracy, and a further -2% decreae every time they  are hit during 4 turns, up to -35% accuracy.",
-            "Stack (Max: 10): The caster gets +20% attack against the weaker element."
+            "对所有敌人造成 130% 伤害。",
+            "所有敌人在 4 回合内受到共计 92 点伤害。",
+            "所有敌人获得的治疗减少 -50%，持续 2 回合。此效果无法净化。",
+            "净化施法者的状态异常。"
         ]
     },
     {
         "originalIndex": 1200,
-        "name": "克苏乌 (Cthuwu)",
+        "name": "贝恩 (Bane)",
         "effects": [
-            "Deals 250% damage to the target.",
-            "All allies have 50% chance to deal 100% damage toa random enemy and inflicts 20 Insanity on them after any subsequent alied Special Skill is cast for 3 turns. (Damage and Insanity are dealt on the first Special Skill cast of each character per turn. The damage and Insanity dealt by this effect is not affected by Insanity.)",
-            "Inflicts 40 Instanity to the caster."
+            "对目标造成 300% 伤害。",
+            "目标获得 -35% 精准度，持续 4 回合。进攻型特殊技能也有相同几率落空。"
         ]
     },
     {
         "originalIndex": 1201,
-        "name": "达瓦 (Dawa)",
+        "name": "贝恩 (Bane) C1",
         "effects": [
-            "Deals 210% damage to the target and minor damage to nearby enemies."
+            "对目标造成 280% 伤害。",
+            "目标获得 -40% 精准度，持续 4 回合。进攻型特殊技能也有相同几率落空。"
         ]
     },
     {
         "originalIndex": 1202,
-        "name": "达瓦 (Dawa) C1",
+        "name": "贝恩 (Bane) 卡通",
         "effects": [
-            "Deals 200% damage to the target.",
-            "Deals 230% damage to a random different enemy. Deals extra damage to the target if the target is Dark."
+            "对目标造成 305% 伤害。",
+            "目标获得 -30% 精准度，持续 2 回合。",
+            "对暗黑系造成额外伤害。"
         ]
     },
     {
         "originalIndex": 1203,
-        "name": "达瓦 (Dawa) 卡通",
+        "name": "贝恩 (Bane) 玻璃",
         "effects": [
-            "Deals 240% damage to the target and minor to nearby enemies.",
-            "Deals extra damage against Dark."
+            "对目标造成 315% 伤害。",
+            "攻击会无视防御增益。（包括反击）",
+            "目标获得 -32% 精准度，持续 4 回合。"
         ]
     },
     {
         "originalIndex": 1204,
-        "name": "多拉克 (Dolrak)",
+        "name": "柏图尔夫 (Bertulf)",
         "effects": [
-            "Deals 270% damage to the target.",
-            "The target gets -30% defense for 4 turns. The effect duration resets if the target is healed.",
-            "The target gets -40% decrease of any healing for 4 turns."
+            "所有盟友获得 +100% 普通攻击，持续 4 回合。即使英雄身上已有其他影响攻击力的效果，此效果仍然有效。此效果有效期间，普通攻击最多可以增加共计 +160% 攻击力。"
         ]
     },
     {
         "originalIndex": 1205,
-        "name": "爱德蕾德 (Edelaide)",
+        "name": "坎迪 (Candy)",
         "effects": [
-            "Recovers 26% health for all allies.",
-            "All allies get +195% attack and -35% accuracy that only applies when the enemy has more HP than the attacker. The effect lasts for 3 turns."
+            "将所有剩余血量低于 50% 的盟友的血量恢复至 50% 生命值。",
+            "所有盟友在 3 回合内恢复 261 点生命值。"
         ]
     },
     {
         "originalIndex": 1206,
-        "name": "费尔顿 (Felton)",
+        "name": "西达 (Cedar)",
         "effects": [
-            "Deals 355% damage to the target.",
-            "Deals 100 extra damage if the target has boosted health.",
-            "All enemies reflect status effect buffs to a random character on the opposing team for 3 turns. Only dispellable buffs are reflected.",
-            "The caster regenerates 243 HP over 3 turns."
+            "对所有敌人造成 175% 伤害。",
+            "所有敌人获得 -15% 精准度，且在 4 回合内每次被击中时都将额外降低 -2% 精准度，最多可降低 -35%。",
+            "叠加（最多 10 层）：施法者对所克制元素的攻击力提高 +20%。"
         ]
     },
     {
         "originalIndex": 1207,
-        "name": "柑橘 (Gan Ju)",
+        "name": "克苏乌 (Cthuwu)",
         "effects": [
-            "Deals 270% damage to the target.",
-            "Reduces the mana of the target by 25%."
+            "对目标造成 250% 伤害。",
+            "任何盟友随后施放特殊技能时，所有盟友都有 50% 几率对随机一名敌人造成 100% 伤害并对其施加 20 点狂乱，持续 3 回合。（伤害和狂乱在每个角色每回合第一次施放特殊技能时造成。此效果造成的伤害和狂乱不受狂乱影响）",
+            "对施法者施加 40 点狂乱。"
         ]
     },
     {
         "originalIndex": 1208,
-        "name": "柑橘 (Gan Ju) C1",
+        "name": "达瓦 (Dawa)",
         "effects": [
-            "Deals 220% damage to the target.",
-            "Reduces the mana of the target by 40%."
+            "对目标造成 210% 伤害，并对附近敌人造成轻微伤害。"
         ]
     },
     {
         "originalIndex": 1209,
-        "name": "柑橘 (Gan Ju) 卡通",
+        "name": "达瓦 (Dawa) C1",
         "effects": [
-            "Deals 300% damage to the target.",
-            "Reduces the mana of the target by 20%.",
-            "Deals extra damage against Dark."
+            "对目标造成 200% 伤害。",
+            "随机对一个不同的敌人造成 230% 的伤害。如果目标为暗黑系可造成额外伤害。"
         ]
     },
     {
         "originalIndex": 1210,
-        "name": "柑橘 (Gan Ju) 玻璃",
+        "name": "达瓦 (Dawa) 卡通",
         "effects": [
-            "Deals 310% damage to the target.",
-            "The attack bypasses defensive buffs. (This includes counterattacks.)",
-            "Reduces the mana of the target by 23%."
+            "对目标造成 240% 伤害，并对附近敌人造成轻微伤害。",
+            "对暗黑系造成额外伤害。"
         ]
     },
     {
         "originalIndex": 1211,
-        "name": "雅科 (Jaco)",
+        "name": "多拉克 (Dolrak)",
         "effects": [
-            "Special Skill need consecutive uses to reach full power, the following order:",
-            "1st:",
-            " * Steals 33% mana from the target, and distributes it to allies.",
-            " * Deals 235% damage to target and minor damage to nearby enemies.",
-            "2nd:",
-            " * Steals 33% mana from the target, and distributes it to allies.",
-            " * Deals 310% damage to target and minor damage to nearby enemies."
+            "对目标造成 270% 伤害。",
+            "目标获得 -30% 防御，持续 4 回合。若目标受到治疗，效果持续时间将重置。",
+            "目标获得的任何治疗减少 -40%，持续 4 回合。"
         ]
     },
     {
         "originalIndex": 1212,
-        "name": "雅科 (Jaco) C1",
+        "name": "爱德蕾德 (Edelaide)",
         "effects": [
-            "Special Skill need consecutive uses to reach full power, the following order:",
-            "1st:",
-            " * Steals 25% mana from the target, and distributes it to allies.",
-            " * Deals 225% damage to target and minor damage to nearby enemies.",
-            "2nd:",
-            " * Steals 35% mana from the target, and distributes it to allies.",
-            " * Deals 330% damage to target and minor damage to nearby enemies."
+            "为所有盟友恢复 26% 生命值。",
+            "所有盟友获得 +195% 攻击力和 -35% 精准度，仅适用于敌人血量高于攻击者血量的情况，该效果持续 3 回合。"
         ]
     },
     {
         "originalIndex": 1213,
-        "name": "乔力 (Jolly)",
+        "name": "费尔顿 (Felton)",
         "effects": [
-            "Boosts health of all allies by 475. Boosted health can exceed max HP.",
-            "Summons an Elf Minion for each ally with 10% HP and 10% attack inherited from the caster.",
-            "All allies reduce all received damage by -45% for 6 turns.",
-            "All allies get +35% mana generation for 6 turns."
+            "对目标造成 355% 伤害。",
+            "如果目标拥有生命加成，则造成 100 点额外伤害。",
+            "所有敌人将反弹增益状态效果至我方战队的一名随机角色，持续 3 回合。只反弹可驱散的增益。",
+            "施法者在 3 回合内恢复 243 点生命值。"
         ]
     },
     {
         "originalIndex": 1214,
-        "name": "凯兰尼 (Kailani)",
+        "name": "柑橘 (Gan Ju)",
         "effects": [
-            "All allies become Soul Connected for 5 turns. Soul Connected allies share received damage.",
-            "All allies get +63% defense for 5 turns."
+            "对目标造成 270% 伤害。",
+            "使目标的法力减少 25%。"
         ]
     },
     {
         "originalIndex": 1215,
-        "name": "凯兰尼 (Kailani) C1",
+        "name": "柑橘 (Gan Ju) C1",
         "effects": [
-            "All allies become Soul Connected for 5 turns. Soul Connected allies share received damage.",
-            "All allies get +50% attack for 5 turns"
+            "对目标造成 220% 伤害。",
+            "使目标的法力减少 40%。"
         ]
     },
     {
         "originalIndex": 1216,
-        "name": "凯兰尼 (Kailani) 卡通",
+        "name": "柑橘 (Gan Ju) 卡通",
         "effects": [
-            "All allies become Soul Connected for 5 turns. Soul Connected allies share received damage. For all Holy characters, this status effect is undispellable and lasts 2 turns longer.",
-            "All allies get 56% defense for 5 turns. For all Holy characters, this status effect is undispellable and lasts 2 turns longer."
+            "对目标造成 300% 伤害。",
+            "使目标的法力减少 20%。",
+            "对暗黑系造成额外伤害。"
         ]
     },
     {
         "originalIndex": 1217,
-        "name": "凯兰尼 (Kailani) 玻璃",
+        "name": "柑橘 (Gan Ju) 玻璃",
         "effects": [
-            "All allies become Soul Connected for 5 turns. Soul Connected allies share received damage.",
-            "All allies get +59% defense for 5 turns.",
-            "All Holy allies reflect status ailments and negative stacks for 2 turns. (Status effect cast by characters, Minions and Fiends on the same side cannot be reflected.)"
+            "对目标造成 310% 伤害。",
+            "攻击会无视防御增益。（包括反击）",
+            "使目标的法力减少 23%。"
         ]
     },
     {
         "originalIndex": 1218,
-        "name": "金砂石 (Kinsaishi)",
+        "name": "雅科 (Jaco)",
         "effects": [
-            "Special Skill has a different effect when charged with 100%/200%/300% mana:",
-            "x1 Mana Charge:",
-            " - Deals 145% damage to the target.",
-            " - Deals additional 145% damage to 2 random enemies.",
-            "x2 Mana Charge:",
-            " - Deals 195% damage to the target.",
-            " - Deals additional 195% damage to 3 random enemies.",
-            "x3 Mana Charge:",
-            " - Deals 220% damage to the target.",
-            " - Deals additional 220% damage to 4 random enemies."
+            "必须连续使用特殊技能才能达到其最大威力，顺序为：",
+            "第一次：",
+            "* 从目标身上窃取 33% 法力并平均分配到所有盟友身上。",
+            "* 对目标造成 235% 伤害，并对附近敌人造成轻微伤害。",
+            "第二次：",
+            "* 从目标身上窃取 33% 法力并平均分配到所有盟友身上。",
+            "* 对目标造成 310% 伤害，并对附近敌人造成轻微伤害。"
         ]
     },
     {
         "originalIndex": 1219,
-        "name": "卡瓦希尔 (Kvasir)",
+        "name": "雅科 (Jaco) C1",
         "effects": [
-            "Summons a Bee Minion for each ally. The Bee Minion inherits 15% HP and 17% attack from the caster.",
-            "Each hit from a Bee Minion gives the target the following status ailments:",
-            " * The target receives 14 Poison damage over 2 turns.",
-            " * The target can’t receive new Minions for 4 turns."
+            "必须连续使用特殊技能才能达到其最大威力，顺序为：",
+            "第一次：",
+            "* 从目标身上窃取 25% 法力并平均分配到所有盟友身上。",
+            "* 对目标造成 225% 伤害，并对附近敌人造成轻微伤害。",
+            "第二次：",
+            "* 从目标身上窃取 35% 法力并平均分配到所有盟友身上。",
+            "* 对目标造成 330% 伤害，并对附近敌人造成轻微伤害。"
         ]
     },
     {
         "originalIndex": 1220,
-        "name": "卡瓦希尔 (Kvasir) C1",
+        "name": "乔力 (Jolly)",
         "effects": [
-            "Summons a Bee Minion for each ally. The Bee Minion inherits 18% HP and 15% attack from the caster.",
-            "Each hit from the Bee Minion gives the target the following status ailments:",
-            " * The target receives 48 Poison damage over 3 turns.",
-            " * The target is immune to new status effects buffs for 2 turns."
+            "提高所有盟友 475 点生命值。提高的生命值可以超过最大生命值。",
+            "为每位盟友召唤一个精灵小兵，此小兵继承施法者 10% 的生命值和 10% 的攻击力。",
+            "所有盟友受到的所有伤害减少 -45%，持续 6 回合。",
+            "所有盟友获得 +35% 法力生成，持续 6 回合。"
         ]
     },
     {
         "originalIndex": 1221,
-        "name": "梅里亚 (Melia)",
+        "name": "凯兰尼 (Kailani)",
         "effects": [
-            "Deals 120% damage to all enemies.",
-            "All allies get +36% critical chance for 4 turns."
+            "所有盟友变得灵魂相连，持续 5 回合。灵魂相连的盟友将平摊所受伤害。",
+            "所有盟友获得 +63% 防御，持续 5 回合。"
         ]
     },
     {
         "originalIndex": 1222,
-        "name": "梅里亚 (Melia) C1",
+        "name": "凯兰尼 (Kailani) C1",
         "effects": [
-            "Deals 120% damage to all enemies.",
-            "All enemies get -25% accuracy for 3 turns. Chance to miss also applies too offensive Special Skills."
+            "所有盟友变得灵魂相连，持续 5 回合。灵魂相连的盟友将平摊所受伤害。",
+            "所有盟友获得 +50% 攻击力，持续 5 回合。"
         ]
     },
     {
         "originalIndex": 1223,
-        "name": "佩雅 (Paeia)",
+        "name": "凯兰尼 (Kailani) 卡通",
         "effects": [
-            "All allies get a Moonrise Ward for 6 turns, that reduces the incoming Special Skill damage by -320. Reduces damage by additional 20% when attacker is Holy.",
-            "All allies get +24% attack for 6 turns.",
-            "All allies get +24% mana generation for 6 turns."
+            "所有盟友变得灵魂相连，持续 5 回合。灵魂相连的盟友将平摊所受伤害。对所有神圣系角色，此状态效果不可驱散且持续时间延长 2 回合。",
+            "所有盟友获得 56% 防御，持续 5 回合。对所有神圣系角色，此状态效果不可驱散且持续时间延长 2 回合。"
         ]
     },
     {
         "originalIndex": 1224,
-        "name": "皮格茜 (Pixie)",
+        "name": "凯兰尼 (Kailani) 玻璃",
         "effects": [
-            "Deals 290% damage to the target.",
-            "Automatically does 89 damage to the target and consumes 50% mana from the target when the target's mana is full for 3 turns."
+            "所有盟友变得灵魂相连，持续 5 回合。灵魂相连的盟友将平摊所受伤害。",
+            "所有盟友获得 +59% 防御，持续 5 回合。",
+            "所有神圣系盟友可反弹状态异常和负面效果叠加，持续 2 回合。（同队角色、小兵和恶魔施放的状态效果无法反弹）"
         ]
     },
     {
         "originalIndex": 1225,
-        "name": "波比 (Poppy)",
+        "name": "金砂石 (Kinsaishi)",
         "effects": [
-            "Deals 300% damage to the target.",
-            "Has a 42% chance for additional hits on random enemies up to 3 times.  Additional hits deal minor damage."
+            "当特殊技能充能至 100% / 200% / 300% 法力时将拥有不同的效果：",
+            "1 倍法力充能：",
+            "- 对目标造成 145% 伤害。",
+            "- 对随机 2 名敌人造成额外 145% 伤害。",
+            "2 倍法力充能：",
+            "- 对目标造成 195% 伤害。",
+            "- 对随机 3 名敌人造成额外 195% 伤害。",
+            "3 倍法力充能：",
+            "- 对目标造成 220% 伤害。",
+            "- 对随机 4 名敌人造成额外 220% 伤害。"
         ]
     },
     {
         "originalIndex": 1226,
-        "name": "波比 (Poppy) C1",
+        "name": "卡瓦希尔 (Kvasir)",
         "effects": [
-            "Deals 280% damage to the target.",
-            "Has a 55% chance for additional hits on random enemies up to 3 times. Additional hits deal minor damage."
+            "为每位盟友召唤一个蜜蜂小兵。此蜜蜂小兵继承施法者 15% 生命和 17% 攻击力。",
+            "蜜蜂小兵每次击中目标都会对目标施加以下状态异常：",
+            "* 目标在 2 回合内受到共计 14 点剧毒伤害。",
+            "* 目标无法获得新的小兵，持续 4 回合。"
         ]
     },
     {
         "originalIndex": 1227,
-        "name": "雷克赫特 (Rekhetre)",
+        "name": "卡瓦希尔 (Kvasir) C1",
         "effects": [
-            "All allies regenerate 450 boosted health over 3 turns. Boosted health can exceed max HP.",
-            "The caster gets +84% defense against Dark, and a further 2% increase every time they are hit during 3 turns."
+            "为每位盟友召唤一个蜜蜂小兵。此蜜蜂小兵继承施法者 18% 生命和 15% 攻击力。",
+            "蜜蜂小兵每次击中目标都会对目标施加以下状态异常：",
+            "* 目标在 3 回合内受到共计 48 点剧毒伤害。",
+            "* 目标对新的增益状态效果免疫，持续 2 回合。"
         ]
     },
     {
         "originalIndex": 1228,
-        "name": "雷克赫特 (Rekhetre) C1",
+        "name": "梅里亚 (Melia)",
         "effects": [
-            "All allies regenerate 540 boosted health over 3 turns. Boosted health can exceed max HP.",
-            "The caster gets +74% defense against Dark, and a further 2% increase every time they are hit during 3 turns."
+            "对所有敌人造成 120% 伤害。",
+            "所有盟友获得 +36% 暴击几率，持续 4 回合。"
         ]
     },
     {
         "originalIndex": 1229,
-        "name": "呱呱 (Ribbit)",
+        "name": "梅里亚 (Melia) C1",
         "effects": [
-            "Deals 250% damage to the target and nearby enemies.",
-            "Reduces the mana of the target and nearby enemies by 15%.",
-            "The target and nearby enemies receive 260 Poison damage over 4 turns."
+            "对所有敌人造成 120% 伤害。",
+            "所有敌人获得 -25% 精准度，持续 3 回合。进攻型特殊技能也有相同几率落空。"
         ]
     },
     {
         "originalIndex": 1230,
-        "name": "锈喙 (Rustbeak)",
+        "name": "佩雅 (Paeia)",
         "effects": [
-            "The caster and nearby allies regenerate 429 HP over 3 turns.",
-            "The caster and nearby allies get +45% chance to dodge attacks and Special skills for 3 turns.",
-            "The caster and nearby allies get +45% critical chance for 3 turns."
+            "所有盟友获得一个月出守卫，持续 6 回合，它可使所受的特殊技能伤害降低 -320 点。当攻击者为神圣系元素时可额外降低 20% 的伤害。",
+            "所有盟友获得 +24% 攻击力，持续 6 回合。",
+            "所有盟友获得 +24% 法力生成，持续 6 回合。"
         ]
     },
     {
         "originalIndex": 1231,
-        "name": "萨莉 (Sally)",
+        "name": "皮格茜 (Pixie)",
         "effects": [
-            "Deals 270% damage to the target.",
-            "The attack chains through all the enemies who are adjacent to any hit enemy."
+            "对目标造成 290% 伤害。",
+            "目标法力满格时，自动对目标造成 89 点伤害并使其法力减少 50%，持续 3 回合。"
         ]
     },
     {
         "originalIndex": 1232,
-        "name": "萨丝琪雅 (Saskia)",
+        "name": "波比 (Poppy)",
         "effects": [
-            "Recovering 26% health for all allies.",
-            "Enhanced Dodge: All allies get +45% chance to dodge Special Skills that deal damage. This effect lasts until the ally succesfully dodges 1 time.",
-            "After the Enhanced Effect ends or is removed or replaced, the ally regenerates 640 HP over 4 turns."
+            "对目标造成 300% 伤害。",
+            "有 42% 的几率可额外攻击随机敌人最多 3 次。额外攻击造成轻微伤害。"
         ]
     },
     {
         "originalIndex": 1233,
-        "name": "爱斯舍尔 (Aeschere)",
+        "name": "波比 (Poppy) C1",
         "effects": [
-            "Safely dispels 1 buff from all enemies. (The latest buffs are dispelled first.)",
-            "Source of Buffs: The following effects are cast on a random ally at the start of each turn",
-            " * +25% mana generation for 3 turns.",
-            " * +50% increase for all healing received for 3 turns.",
-            " * The Source of Buffs will activate 4 times. Each attempt to dispel it removes one activation.",
-            "All allies regenerate 600 HP over 4 turns."
+            "对目标造成 280% 伤害。",
+            "有 55% 的几率可额外攻击随机敌人最多 3 次。额外攻击造成轻微伤害。"
         ]
     },
     {
         "originalIndex": 1234,
-        "name": "阿纳斯塔西亚 (Anastasia)",
+        "name": "雷克赫特 (Rekhetre)",
         "effects": [
-            "Special Skill has a different effect when charged with 100%/200% mana:",
-            "1x Mana Charge:",
-            " * Summons a Grimoire Minion for all allies with 13% HP and 20% attack inherited from the caster.",
-            "2x Mana Charge:",
-            " * Deals 235 damage to all enemies.",
-            " * Summons a Grimoire Fiend for all enemies. The Fiend damages the enemy with 43% attack every turn.",
-            " * The Grimoire Fiend absorbs healing. It disappears after absorbing a healing amount equal to 30% of its target's max health."
+            "所有盟友在 3 回合内获得共计 450 点生命加成。提高的生命值可以超过最大生命值。",
+            "施法者获得对暗黑系 +84% 的防御，每次被击中后额外增加 2% 防御，持续 3 回合。"
         ]
     },
     {
         "originalIndex": 1235,
-        "name": "贝勒里夫 (Bellerive)",
+        "name": "雷克赫特 (Rekhetre) C1",
         "effects": [
-            "Deals 420% damage to the target.",
-            "If the target dies, the excess damage is dealt to each nearby enemy."
+            "所有盟友在 3 回合内获得共计 540 点生命加成。提高的生命值可以超过最大生命值。",
+            "施法者获得对暗黑系 +74% 的防御，每次被击中后额外增加 2% 防御，持续 3 回合。"
         ]
     },
     {
         "originalIndex": 1236,
-        "name": "博加特 (Bogart)",
+        "name": "呱呱 (Ribbit)",
         "effects": [
-            "Deals 305% damage to the target and minor damage to nearby enemies.",
-            "The target and nearby enemies get -35% defense for 3 turns. The defense descrese by -10% each turn, up to -55%."
+            "对目标及附近敌人造成 250% 伤害。",
+            "使目标和附近敌人的法力减少 15%。",
+            "目标与附近敌人在 4 回合内受到共计 260 点剧毒伤害。"
         ]
     },
     {
         "originalIndex": 1237,
-        "name": "赵 (Chao)",
+        "name": "锈喙 (Rustbeak)",
         "effects": [
-            "Deals 315% damage to the target",
-            "Reduces the mana of the target by 25%"
+            "施法者和附近盟友在 3 回合内恢复 429 点生命值。",
+            "施法者和附近盟友拥有 +45% 几率闪避攻击和特殊技能，持续 3 回合。",
+            "施法者和附近盟友获得 +45% 暴击几率，持续 3 回合。"
         ]
     },
     {
         "originalIndex": 1238,
-        "name": "赵 (Chao) C1",
+        "name": "萨莉 (Sally)",
         "effects": [
-            "Deals 275% damage to the target.",
-            "The caster steals generated mana of the target over 4 turns starting low and increasing every turn until on the last turn all the generated mana is stolen. This effect can't be cleansed, but it gets remoed if the caster dies."
+            "对目标造成 270% 伤害。",
+            "与被击中敌人相邻的所有敌人都将受到连锁攻击。"
         ]
     },
     {
         "originalIndex": 1239,
-        "name": "赵 (Chao) C2",
+        "name": "萨丝琪雅 (Saskia)",
         "effects": [
-            "Deals 275% damage to the target and nearby enemies.",
-            "The target and nearby enemies get -24% mana generation for 3 turns."
+            "为所有盟友恢复 26% 生命值。",
+            "强化闪避：所有盟友拥有 +45% 几率闪避可以造成伤害的特殊技能。此效果一直持续到该盟友成功闪避 1 次为止。",
+            "强化效果结束后、被移除或被替换后，盟友在 4 回合内恢复 640 点生命值。"
         ]
     },
     {
         "originalIndex": 1240,
-        "name": "赵 (Chao) 卡通",
+        "name": "爱斯舍尔 (Aeschere)",
         "effects": [
-            "Deals 320% damage to the target.",
-            "Reduces the mana of the target by -20%.",
-            "Deals extra damage against Dark."
+            "从所有敌人身上安全驱散 1 个增益。（最后获得的增益最先被驱散）",
+            "增益之源：每回合开始时，对随机一名盟友施放以下效果。",
+            "* +25% 法力生成，持续 3 回合。",
+            "* 所有受到的治疗增加 +50%，持续 3 回合。",
+            "* 增益之源将触发 4 次。每次驱散尝试都会移除一次触发。",
+            "所有盟友在 4 回合内恢复 600 点生命值。"
         ]
     },
     {
         "originalIndex": 1241,
-        "name": "赵 (Chao) 玻璃",
+        "name": "阿纳斯塔西亚 (Anastasia)",
         "effects": [
-            "Deals 325% damage to the target.",
-            "Reduces the mana of the target by -23%.",
-            "The attack bypasses defensive buffs. (This includes counterattacks.)"
+            "当特殊技能充能至 100% / 200% 法力时将拥有不同的效果：",
+            "1 倍法力充能：",
+            "* 为所有盟友召唤一个魔书小兵，其可从施法者处继承 13% 生命和 20% 攻击力。",
+            "2 倍法力充能：",
+            "* 对所有敌人造成 235 伤害。",
+            "* 召唤魔书恶魔附身于所有敌人。恶魔每回合对敌人造成 43% 攻击力的伤害。",
+            "* 魔书恶魔会吸收治疗。它在吸收了相当于其目标最大生命值 30% 的治疗量后便会消失。"
         ]
     },
     {
         "originalIndex": 1242,
-        "name": "迪安德烈 (D'Andre)",
+        "name": "贝勒里夫 (Bellerive)",
         "effects": [
-            "Recovers 35% health for all allies.",
-            "All allies with a cleansable status ailment that affects defense get +50% defense for 3 turns.",
-            "All allies get +24% mana generation for 3 turns."
+            "对目标造成 420% 伤害。",
+            "若目标被击败，将对每名附近的敌人造成所溢出的伤害。"
         ]
     },
     {
         "originalIndex": 1243,
-        "name": "团三郎狸 (Danzaburo)",
+        "name": "博加特 (Bogart)",
         "effects": [
-            "Perform a trick for a special effect:",
-            "Swords: ",
-            " * Deals 255% damage to all enemies.",
-            " * All enemies get -54% accuracy for 3 turns and chance to miss also applies to offensive Special Skills.",
-            "Bottle: ",
-            " * All allies get +24% mana generation for 4 turns.",
-            " * All allies get +63% defense for 4 turns.",
-            "Freeze:",
-            " * The caster can’t gain mana for 2 turns.",
-            " * This effect can’t be cleansed."
+            "对目标造成 305% 伤害，并对附近敌人造成轻微伤害。",
+            "目标与附近敌人获得 -35% 防御，持续 3 回合。防御每回合降低 -10%，最低可达 -55%。"
         ]
     },
     {
         "originalIndex": 1244,
-        "name": "团三郎狸 (Danzaburo) C1",
+        "name": "赵 (Chao)",
         "effects": [
-            "Sell junk for a specific effect:",
-            "Dull Swords",
-            " * Deals 270% damage to all enemies.",
-            " * All enemies get -39% attack for 3 turns.",
-            "Questionable Snake Oil",
-            " * All enemies get -24% mana generation for 3 turns.",
-            " * All enemies get -44% defense for 3 turns.",
-            "Clearance Sale",
-            " * Increases the mana of all allies except the caster’s by 3%.",
-            " * The caster can’t gain mana for 2 turns. This effect can’t be cleansed."
+            "对目标造成 315% 伤害。",
+            "使目标的法力减少 25%。"
         ]
     },
     {
         "originalIndex": 1245,
-        "name": "埃林 (Errin)",
+        "name": "赵 (Chao) C1",
         "effects": [
-            "All enemies become Soul Connected for 4 turns. Soul Connected enemies share received damage.",
-            "All enemies receive +25% increased damage for 4 turns. This effect is increased by +5% for each Minion or Mega minion owned by all enemies, up to +50% in total."
+            "对目标造成 275% 伤害。",
+            "施法者在 4 回合内偷取目标生成的法力，一开始偷取量较少，每个回合逐渐增加，直到最后一回合将偷取所有生成的法力。此效果不可净化，但会在施法者被击败后移除。"
         ]
     },
     {
         "originalIndex": 1246,
-        "name": "菲亚拉尔 (Fjalar)",
+        "name": "赵 (Chao) C2",
         "effects": [
-            "Damage bypasses target’s Minions.",
-            "Attack the target with Firestorm Strike, dealing up to 1080 damage. Deals 30% more damage if the target is ok the Nature element. This Special Skill never misses its targets.",
-            "The target resists new Minions for 4 turns."
+            "对目标及附近敌人造成 275% 伤害。",
+            "目标与附近敌人获得 -24% 法力生成，持续 3 回合。"
         ]
     },
     {
         "originalIndex": 1247,
-        "name": "金娘 (Goldie)",
+        "name": "赵 (Chao) 卡通",
         "effects": [
-            "Recover 38% health for all allies.",
-            "Growth: All allies get 100 attack.",
-            "All allies reflect ailments to a random character on the opposing team for 3 turns. (Only cleansable status ailments are reflected)"
+            "对目标造成 320% 伤害。",
+            "使目标的法力减少 -20%。",
+            "对暗黑系造成额外伤害。"
         ]
     },
     {
         "originalIndex": 1248,
-        "name": "格蕾特 (Gretel)",
+        "name": "赵 (Chao) 玻璃",
         "effects": [
-            "Deals 175% damage to the target and minor damage to nearby enemies",
-            "Automatically does 147 damage to the target and consumes 50% mana from the  target when the target's mana is full for 3 turns.",
-            "The caster gets +74% defense against Special Skills for 3 turns"
+            "对目标造成 325% 伤害。",
+            "使目标的法力减少 -23%。",
+            "攻击会无视防御增益。（包括反击）"
         ]
     },
     {
         "originalIndex": 1249,
-        "name": "格里芬 (Griffin)",
+        "name": "迪安德烈 (D'Andre)",
         "effects": [
-            "Deals 340% damage to the target.",
-            "The attack will always bypass counterattacks and reflection."
+            "为所有盟友恢复 35% 生命值。",
+            "若任何盟友身上带有影响防御的可净化状态异常，该盟友将获得 +50% 防御，持续 3 回合。",
+            "所有盟友获得 +24% 法力生成，持续 3 回合。"
         ]
     },
     {
         "originalIndex": 1250,
-        "name": "格里芬 (Griffin) C1",
+        "name": "团三郎狸 (Danzaburo)",
         "effects": [
-            "Deals 320% damage to the target.",
-            "The caster and nearby allies bypass defense buffs with their attacks for 2 turns. Defensive buffs include counterattacks."
+            "变个戏法获得一个特殊效果：",
+            "刀剑：",
+            "* 对所有敌人造成 255% 伤害。",
+            "* 所有敌人获得 -54% 精准度，持续 3 回合，进攻型特殊技能也有相同几率落空。",
+            "瓶子：",
+            "* 所有盟友获得 +24% 法力生成，持续 4 回合。",
+            "* 所有盟友获得 +63% 防御，持续 4 回合。",
+            "冰冻：",
+            "* 施法者无法获得法力，持续 2 回合。",
+            "* 此效果无法净化。"
         ]
     },
     {
         "originalIndex": 1251,
-        "name": "顾大嫂 (Gu Dasao)",
+        "name": "团三郎狸 (Danzaburo) C1",
         "effects": [
-            "This Special Skill has a chance to deal Critical hits. (The chance of dealing a Critical hit is based on Hero’s overall critical chance when the damage is dealt. Critical hits caused by this Special Skill deal 50% more damage. Critical hits can reduces enemies’ max health on PVP battles. This effect is stronger against boosted health.)",
-            "Deals 185% damage to the target and minor damage to all other enemies.",
-            "The caster counterattacks with 70% of the damage received for 4 turns.",
-            "The caster decreases -5% mana from the attacker on each counterattack for 4 turns. The effect gets diminished for consecutive activations during the same turn."
+            "出售废品以获得一个特殊效果：",
+            "钝剑：",
+            "* 对所有敌人造成 270% 伤害。",
+            "* 所有敌人获得 -39% 攻击力，持续 3 回合。",
+            "可疑蛇油：",
+            "* 所有敌人获得 -24% 法力生成，持续 3 回合。",
+            "* 所有敌人获得 -44% 防御，持续 3 回合。",
+            "清仓甩卖：",
+            "* 除了施法者以外，所有盟友的法力增加 3%。",
+            "* 施法者无法获得法力，持续 2 回合。此效果无法净化。"
         ]
     },
     {
         "originalIndex": 1252,
-        "name": "豺狼守护者 (Guardian Jackal)",
+        "name": "埃林 (Errin)",
         "effects": [
-            "Deals 270% damage to the target.",
-            "The target gets -54% defense against Holy for 4 turns."
+            "所有敌人变得灵魂相连，持续 4 回合。灵魂相连的敌人将平摊所受伤害。",
+            "所有敌人受到的所有伤害增加 +25%，持续 4 回合。所有敌人每拥有一个小兵或超级小兵，则该效果提高 +5%，最多可提高 +50%。"
         ]
     },
     {
         "originalIndex": 1253,
-        "name": "豺狼守护者 (Guardian Jackal) C1",
+        "name": "菲亚拉尔 (Fjalar)",
         "effects": [
-            "Deals 280% damage to the target.",
-            "The caster and nearby allies get +94% defense against Dark for 3 turns."
+            "伤害无视目标的小兵。",
+            "使用焰暴闪袭攻击目标，造成最多 1080 点伤害。若目标为自然系元素则额外造成 30% 伤害。该特殊技能必定命中。",
+            "目标抵抗新的小兵，持续 4 回合。"
         ]
     },
     {
         "originalIndex": 1254,
-        "name": "古林博斯帝 (Gullinbursti)",
+        "name": "金娘 (Goldie)",
         "effects": [
-            "Boosts health of all allies by 400. Boosted health can exceed max HP.",
-            "The caster get +45% attack, and a further 20% increase every time they or any of their allies are hit during 3 turns. When the effect ends, all enemies receive 176 damage. Each hit on the caster or their allies during the duration increases the damage by 13 to a maximum of 332 damage."
+            "为所有盟友恢复 38% 生命值。",
+            "成长：所有盟友获得 100 点攻击力。",
+            "所有盟友将状态异常反弹至敌方战队的一名随机角色，持续 3 回合。（只有可净化的状态异常才可反弹）"
         ]
     },
     {
         "originalIndex": 1255,
-        "name": "古林博斯帝 (Gullinbursti) C1",
+        "name": "格蕾特 (Gretel)",
         "effects": [
-            "All allies regenerate 480 boosted health over 4 turns. Boosted health can exceed max HP.",
-            "The caster gets +35% attack, and a further 15% increase every time they or any of their allies are hit during 4 turns. When the effect ends, all enemies receive 236 damage. Each hit on the caster or their allies during the duration increases the damage by 15 to a maximum of 416 damage."
+            "对目标造成 175% 伤害，并对附近敌人造成轻微伤害。",
+            "目标法力满格时，自动对目标造成 147 点伤害，并使其法力减少 50%，持续 3 回合。",
+            "施法者获得 +74% 特殊技能防御，持续 3 回合。"
         ]
     },
     {
         "originalIndex": 1256,
-        "name": "霍莉 (Holly)",
+        "name": "格里芬 (Griffin)",
         "effects": [
-            "Recovers 20% heath for all allies.",
-            "Recovers additional 3% health per each Holy shield on the board, up to 44% health in total.",
-            "Summons an Elf Minion for each ally with 10% HP and 10% attack inherited from the caster.",
-            "All allies get +14% attack, and a further 5% increase per each Holy shield on the board for 4 turns, up to +54% attack."
+            "对目标造成 340% 伤害。",
+            "此攻击始终无视反击和反弹。"
         ]
     },
     {
         "originalIndex": 1257,
-        "name": "胡桃 (Hu Tao)",
+        "name": "格里芬 (Griffin) C1",
         "effects": [
-            "Deals 210% damage to all enemies.",
-            "All enemies get -40% accuracy for 4 turns.",
-            "Chance to miss also applies to offensive special skills."
+            "对目标造成 320% 伤害。",
+            "施法者和附近盟友攻击时无视防御增益（包括反击），持续 2 回合。"
         ]
     },
     {
         "originalIndex": 1258,
-        "name": "胡桃 (Hu Tao) C1",
+        "name": "顾大嫂 (Gu Dasao)",
         "effects": [
-            "Deals 160% damage to all enemies.",
-            "All enemies get -30% accuracy for 4 turns. Chance to miss also applies to offensive Special SKills.",
-            "All enemies get -50% decrease for any healing received for 4 turns. This effect can't be cleansed."
+            "此特殊技能有几率造成暴击。（造成暴击的几率取决于英雄在造成伤害时的总暴击几率。此特殊技能造成的暴击会额外造成 50% 伤害。暴击可以减少PvP战斗中敌人的最大生命值。此效果对拥有生命加成的目标更强）",
+            "对目标造成 185% 伤害，并对其余敌人造成轻微伤害。",
+            "施法者以所受伤害的 70% 进行反击，持续 4 回合。",
+            "施法者每次反击可降低攻击者 -5% 的法力，持续 4 回合。同一回合中效果经连续激活会减弱。"
         ]
     },
     {
         "originalIndex": 1259,
-        "name": "胡桃 (Hu Tao) C2",
+        "name": "豺狼守护者 (Guardian Jackal)",
         "effects": [
-            "Deals 200% damage to all enemies.",
-            "All enemies get -30% accuracy for 4 turns. Chance to miss also applies to offensive Special Skills.",
-            "All enemies get -24% mana generation for 4 turns."
+            "对目标造成 270% 伤害。",
+            "目标获得对神圣系 -54% 的防御，持续 4 回合。"
         ]
     },
     {
         "originalIndex": 1260,
-        "name": "胡桃 (Hu Tao) 卡通",
+        "name": "豺狼守护者 (Guardian Jackal) C1",
         "effects": [
-            "Deals 240% damage to all enemies.",
-            "All enemies get -34% accuracy for 4 turns.",
-            "Deals extra damage against Dark."
+            "对目标造成 280% 伤害。",
+            "施法者和附近盟友获得对暗黑系 +94% 的防御，持续 3 回合。"
         ]
     },
     {
         "originalIndex": 1261,
-        "name": "胡桃 (Hu Tao) 玻璃",
+        "name": "古林博斯帝 (Gullinbursti)",
         "effects": [
-            "Deals 245% damage to all enemies",
-            "The attack bypasses defensive buffs. (This includes counterattacks.)",
-            "All enemies get -38% accuracy for 4 turns."
+            "提高所有盟友 400 点生命值。提高的生命值可以超过最大生命值。",
+            "施法者获得 +45% 攻击力，自己或其盟友每次被击中后额外增加 20% 攻击力，持续 3 回合。此效果结束时，所有敌人受到 176 点伤害。在此期间，施法者或其盟友所受每次攻击可使施法者造成的伤害提高 13 点，最高达到 332 点伤害。"
         ]
     },
     {
         "originalIndex": 1262,
-        "name": "伍尔顿女士 (Lady Woolerton)",
+        "name": "古林博斯帝 (Gullinbursti) C1",
         "effects": [
-            "Recovers 40% Health for all allies.",
-            "The caster can't gain mana for 2 turns. This effect can't be cleansed."
+            "所有盟友在 4 回合内获得共计 480 点生命加成。提高的生命值可以超过最大生命值。",
+            "施法者获得 +35% 攻击力，自己或其盟友每次被击中后额外增加 15% 攻击力，持续 4 回合。该效果结束时，所有敌人受到 236 点伤害。在此期间，施法者或其盟友所受每次攻击可使施法者造成的伤害提高 15 点，最高达到 416 点伤害。"
         ]
     },
     {
         "originalIndex": 1263,
-        "name": "丽秀 (Li Xiu)",
+        "name": "霍莉 (Holly)",
         "effects": [
-            "Deals 150% damage to all enemies",
-            "Reduces the mana of enemies by 20%"
+            "为所有盟友恢复 20% 生命值。",
+            "面板上每存在一个神圣系盾牌，便额外恢复 3% 生命，最多共计恢复 44% 生命值。",
+            "为每位盟友召唤一个精灵小兵，此小兵继承施法者 10% 的生命值和 10% 的攻击力。",
+            "所有盟友获得 +14% 攻击力，且面板上每存在一个神圣系盾牌都会使其攻击力额外增加 5%，持续 4 回合，最高可达 +54% 攻击力。"
         ]
     },
     {
         "originalIndex": 1264,
-        "name": "丽秀 (Li Xiu) C1",
+        "name": "胡桃 (Hu Tao)",
         "effects": [
-            "Deals 180% damage to all enemies",
-            "Reduces the mana of all enemies by 10%"
+            "对所有敌人造成 210% 伤害。",
+            "所有敌人获得 -40% 精准度，持续 4 回合。",
+            "进攻型特殊技能也有相同几率落空。"
         ]
     },
     {
         "originalIndex": 1265,
-        "name": "丽秀 (Li Xiu) C2",
+        "name": "胡桃 (Hu Tao) C1",
         "effects": [
-            "Deals 270% damage to the target and nearby enemies.",
-            "The target and nearby enemies get silenced for 3 turns."
+            "对所有敌人造成 160% 伤害。",
+            "所有敌人获得 -30% 精准度，持续 4 回合。进攻型特殊技能也有相同几率落空。",
+            "所有敌人获得的治疗减少 -50%，持续 4 回合。此效果无法净化。"
         ]
     },
     {
         "originalIndex": 1266,
-        "name": "丽秀 (Li Xiu) 卡通",
+        "name": "胡桃 (Hu Tao) C2",
         "effects": [
-            "Deals 180% damage to all enemies.",
-            "Reduces the mana of all enemies by 16%.",
-            "Deals extra damage against Dark."
+            "对所有敌人造成 200% 伤害。",
+            "所有敌人获得 -30% 精准度，持续 4 回合。进攻型特殊技能也有相同几率落空。",
+            "所有敌人获得 -24% 法力生成，持续 4 回合。"
         ]
     },
     {
         "originalIndex": 1267,
-        "name": "丽秀 (Li Xiu) 玻璃",
+        "name": "胡桃 (Hu Tao) 卡通",
         "effects": [
-            "Deals 190% damage to all enemies.",
-            "The attack bypasses defensive buffs. (This includes counterattacks.)",
-            "Reduces the mana of all enemies by 18%."
+            "对所有敌人造成 240% 伤害。",
+            "所有敌人获得 -34% 精准度，持续 4 回合。",
+            "对暗黑系造成额外伤害。"
         ]
     },
     {
         "originalIndex": 1268,
-        "name": "迷雾 (Mist)",
+        "name": "胡桃 (Hu Tao) 玻璃",
         "effects": [
-            "Deals 175% damage to the target and nearby enemies.",
-            "The target and nearby enemies are immune to new status effect buffs for 3 turns.",
-            "The target and nearby enemies get -34% defense against Special Skills for 3 turns.",
-            "The target and nearby enemies get -64% mana generation for 3 turns."
+            "对所有敌人造成 245% 伤害。",
+            "攻击会无视防御增益。（包括反击）",
+            "所有敌人获得 -38% 精准度，持续 4 回合。"
         ]
     },
     {
         "originalIndex": 1269,
-        "name": "苏格拉泰 (Scoratek)",
+        "name": "伍尔顿女士 (Lady Woolerton)",
         "effects": [
-            "Deals 190% damage to the target.",
-            "Summons a Bomb Scarab Fiend for the target. The Fiend damages its target with 38% attack every turn.",
-            "The Bomb Scarab Fiend absorbs healing and disappears when it has absorbed health equal to 30% of its owner’s max health.",
-            "The Bomb Scarab Fiend explodes after 3 turns, dealing 600 damage to its target and minor damage to nearby enemies."
+            "为所有盟友恢复 40% 生命值。",
+            "施法者无法获得法力，持续 2 回合。此效果无法净化。"
         ]
     },
     {
         "originalIndex": 1270,
-        "name": "苏格拉泰 (Scoratek) C1",
+        "name": "丽秀 (Li Xiu)",
         "effects": [
-            "Deals 125% damage to the target.",
-            "Summons a Scarab Bomb Fiend for the target. The Fiend damages the enemy with 38% attack every turn.",
-            "The Scarab Bomb Fiend absorbs healing and disappears when it has absorbed health equal to 30% of its owner’s max health.",
-            "The Scarab Bomb Fiend explodes after 3 turns, dealing 900 damage to its target and minor damage to nearby enemies."
+            "对所有敌人造成 150% 伤害。",
+            "使所有敌人的法力减少 20%。"
         ]
     },
     {
         "originalIndex": 1271,
-        "name": "斯忒洛珀 (Steropes)",
+        "name": "丽秀 (Li Xiu) C1",
         "effects": [
-            "Special Skill has a different effect when charged with 100% / 200% / 300% mana:",
-            "1x Mana Charge:",
-            "* All allies regenerate 324 boosted health over 3 turns. Boosted health can exceed max HP.",
-            "2x Mana Charge:",
-            "* If any ally dies during the next 3 turns they are resurrected in the beginning of their next turn with 20% health. All status effects and stacks are removed when the ally dies.",
-            "* 3x Mana Charge:",
-            "* All allies regenerate 584 boosted health over 4 turns. Boosted health can exceed max HP.",
-            "* If any ally dies during the next 4 turns they are resurrected in the beginning of their next turn with 40% health. All status effects and stacks are removed when the ally dies."
+            "对所有敌人造成 180% 伤害。",
+            "使所有敌人的法力减少 10%。"
         ]
     },
     {
         "originalIndex": 1272,
-        "name": "沃路普塔斯 (Voluptas)",
+        "name": "丽秀 (Li Xiu) C2",
         "effects": [
-            "Destroys all Fiends from the caster and nearby allies.",
-            "Recovers 40% health for the caster and nearby allies."
+            "对目标及附近敌人造成 270% 伤害。",
+            "目标与附近敌人陷入沉默，持续 3 回合。"
         ]
     },
     {
         "originalIndex": 1273,
-        "name": "摆摆 (Waddles)",
+        "name": "丽秀 (Li Xiu) 卡通",
         "effects": [
-            "Deals 365% damage to the target.",
-            "The target automatically casts Shifting Mindless Attack on a random ally when mana is full at the start of a turn during 3 turns. When this effect is triggered, it shifts to the hit ally, and the duration is refreshed."
+            "对所有敌人造成 180% 伤害。",
+            "使所有敌人的法力减少 16%。",
+            "对暗黑系造成额外伤害。"
         ]
     },
     {
         "originalIndex": 1274,
-        "name": "王元姬 (Wang Yuanji)",
+        "name": "丽秀 (Li Xiu) 玻璃",
         "effects": [
-            "Destroys all Fiends from all allies.",
-            "Boosts health of all allies by 625. Boosted health can exceed max HP."
+            "对所有敌人造成 190% 伤害。",
+            "攻击会无视防御增益。（包括反击）",
+            "使所有敌人的法力减少 18%。"
         ]
     },
     {
         "originalIndex": 1275,
-        "name": "王元姬 (Wang Yuanji) C1",
+        "name": "迷雾 (Mist)",
         "effects": [
-            "Destroys all Fiends from all allies. This effect damages Mega Fiends.",
-            "Boosts health of all allies by 520. Boosted health can exceed max HP.",
-            "All allies get +30% defense for 5 turns."
+            "对目标及附近敌人造成 175% 伤害。",
+            "目标和附近敌人对新的增益状态效果免疫，持续 3 回合。",
+            "目标与附近敌人获得对特殊技能 -34% 的防御，持续 3 回合。",
+            "目标与附近敌人获得 -64% 法力生成，持续 3 回合。"
         ]
     },
     {
         "originalIndex": 1276,
-        "name": "悟空 (Wu Kong)",
+        "name": "苏格拉泰 (Scoratek)",
         "effects": [
-            "All allies get +185% attack with -32% accuracy for 5 turns",
-            "Chance to miss also applies to offensive special skills"
+            "对目标造成 190% 伤害。",
+            "召唤圣甲虫炸弹恶魔附身于目标。恶魔每回合对敌人造成 38% 攻击力的伤害。",
+            "圣甲虫炸弹恶魔会吸收治疗。它在吸收了相当于其所有者最大生命值 30% 的治疗量后便会消失。",
+            "圣甲虫炸弹恶魔会在 3 回合后爆炸，对目标造成 600 点伤害，并对附近敌人造成轻微伤害。"
         ]
     },
     {
         "originalIndex": 1277,
-        "name": "悟空 (Wu Kong) C1",
+        "name": "苏格拉泰 (Scoratek) C1",
         "effects": [
-            "Deals 210% damage to all enemies",
-            "The caster gets -20% defense for 3 turns. This effect can't be cleansed."
+            "对目标造成 125% 伤害。",
+            "召唤圣甲虫炸弹恶魔附身于目标。恶魔每回合对敌人造成 38% 攻击力的伤害。",
+            "圣甲虫炸弹恶魔会吸收治疗。它在吸收了相当于其所有者最大生命值 30% 的治疗量后便会消失。",
+            "圣甲虫炸弹恶魔会在 3 回合后爆炸，对目标造成 900 点伤害并对附近敌人造成轻微伤害。"
         ]
     },
     {
         "originalIndex": 1278,
-        "name": "悟空 (Wu Kong) C2",
+        "name": "斯忒洛珀 (Steropes)",
         "effects": [
-            "All allies get +170% attack with -25% accuracy for 5 turns. Chance to miss also applies to offensive special skills."
+            "当特殊技能充能至 100% / 200% / 300% 法力时将拥有不同的效果：",
+            "1 倍法力充能：",
+            "* 所有盟友在 3 回合内获得共计 324 点生命加成。提高的生命值可以超过最大生命值。",
+            "2 倍法力充能：",
+            "* 如果任何盟友在后续 3 回合中被击败，该盟友将于下一个回合开始时以 20% 的生命复活。盟友被击败时所有状态和叠加效果会被移除。",
+            "3 倍法力充能：",
+            "* 所有盟友在 4 回合内获得共计 584 点生命加成。提高的生命值可以超过最大生命值。",
+            "* 如果任何盟友在后续 4 回合中被击败，该盟友将于下一个回合开始时以 40% 的生命复活。盟友被击败时所有状态和叠加效果会被移除。"
         ]
     },
     {
         "originalIndex": 1279,
-        "name": "悟空 (Wu Kong) 卡通",
+        "name": "沃路普塔斯 (Voluptas)",
         "effects": [
-            "All allies get +175% attack with -32% accuracy for 5 turns. For all Holy characters, this status effect becomes undispellable and lasts 2 turns longer."
+            "摧毁施法者和附近盟友的所有恶魔。",
+            "为施法者和附近盟友恢复 40% 生命值。"
         ]
     },
     {
         "originalIndex": 1280,
-        "name": "紫苑 (Zione)",
+        "name": "摆摆 (Waddles)",
         "effects": [
-            "Alters the power of all Holy shields on the board. When an attacking Hero casts the special, the shields become enhanced and give +30% more mana. When a defending casts the special, the shields become weakened and give -23% less mana.",
-            "All allies get +35% attack for 4 turns. For all Holy characters, the status effect becomes undispellable and last 2 turns longer."
+            "对目标造成 365% 伤害。",
+            "在 3 回合内，若目标在回合开始时法力满格，该目标将自动对一名随机盟友施放莽夫乱拳交错。触发此效果时，该效果将转移到被击中的盟友身上并刷新持续时间。"
         ]
     },
     {
         "originalIndex": 1281,
-        "name": "阿克罗格 (Akkorog)",
+        "name": "王元姬 (Wang Yuanji)",
         "effects": [
-            "Rearranges the enemy positions randomly.",
-            "Deals 280% damage to the target and nearby enemies."
+            "摧毁所有盟友的恶魔。",
+            "提高所有盟友 625 点生命值。提高的生命值可以超过最大生命值。"
         ]
     },
     {
         "originalIndex": 1282,
-        "name": "阿克罗格 (Akkorog) C1",
+        "name": "王元姬 (Wang Yuanji) C1",
         "effects": [
-            "Rearranges the enemy positions randomly.",
-            "Deals 260% damage to the target and nearby enemies.",
-            "The caster gets +45% chance to dodge Special Skills for 3 turns. Each dodge gives +5% defense stack. (Max: 10)."
+            "摧毁所有盟友的恶魔。此效果会对超级恶魔造成伤害。",
+            "提高所有盟友 520 点生命值。提高的生命值可以超过最大生命值。",
+            "所有盟友获得 +30% 防御，持续 5 回合。"
         ]
     },
     {
         "originalIndex": 1283,
-        "name": "阿尔宾 (Albin)",
+        "name": "悟空 (Wu Kong)",
         "effects": [
-            "Deals 440% damage to all enemies.",
-            "The duration of buffs is reset for all allies.",
-            "Summons 2 Elf Minions for each ally with 10% HP and 10% attack inherited from the caster."
+            "所有盟友获得 +185% 攻击力与 -32% 精准度，持续 5 回合。",
+            "进攻型特殊技能也有相同几率落空。"
         ]
     },
     {
         "originalIndex": 1284,
-        "name": "阿尔瓦 (Alvar)",
+        "name": "悟空 (Wu Kong) C1",
         "effects": [
-            "Lifts all cleansable status ailments from all allies and randomly distributes them on enemies.",
-            "The duration of status ailments is reset for all enemies.",
-            "Deals 350% damage to all enemies.",
-            "All enemies reflect status effect buffs to a random character on the opposing team for 4 turns. (Only dispellable buffs are reflected.)"
+            "对所有敌人造成 210% 伤害。",
+            "施法者获得 -20% 防御，持续 3 回合。此效果无法净化。"
         ]
     },
     {
         "originalIndex": 1285,
-        "name": "阿蒙德 (Amund)",
+        "name": "悟空 (Wu Kong) C2",
         "effects": [
-            "Deals 350% damage to all enemies.",
-            "Summons a Bone Trap Fiend for all enemies. The Fiend damages the enemy with 45% attack every turn. The damage increases by 8% each turn, up to a maximum 93%.",
-            "The Bone Trap Fiend absorbs healing and disappears when it has absorbed health equal to 45% of its owner’s max health.",
-            "All enemies can’t get their status ailments cleansed or reallocated by Special Skill for as long as they have Bone Trap Fiends. (This effect also prevents cleansing and reallocating of itself.)"
+            "所有盟友获得 +170% 攻击力与 -25% 精准度，持续 5 回合。进攻型特殊技能也有相同几率落空。"
         ]
     },
     {
         "originalIndex": 1286,
-        "name": "安 (Anne)",
+        "name": "悟空 (Wu Kong) 卡通",
         "effects": [
-            "Deals 550% damage to the target.",
-            "If the target had more than 50% health before receiving damage, targets another enemy who had over 50% health before receiving damage from this Special Skill. If none of the other enemies had 50% health, targets a random enemy. The damage is reduced on each consecutive hit. Each enemy can only be hit once.",
-            "If hit enemies use their Special Skill in the next 4 turns, they get -34% attack, -34% defense and -24% mana generation for 4 turns. Status effects are added at the end of a Special Skill. Status effects will not be added if the status effect is removed during Special Skill."
+            "所有盟友获得 +175% 攻击力与 -32% 精准度，持续 5 回合。对所有神圣系角色，此状态效果不可驱散且持续时间延长 2 回合。"
         ]
     },
     {
         "originalIndex": 1287,
-        "name": "安忒洛斯 (Anteros)",
+        "name": "紫苑 (Zione)",
         "effects": [
-            "This Special Skill never misses its targets.",
-            "Deals 460% damage to the target.",
-            "For 3 turns, the target is forced to cast Mindless Heal when at full mana.",
-            "Mindless Heal:",
-            " * Recovers 20% HP health for the character on the opposing side with the lowest remaining HP."
+            "面板中所有神圣系盾牌受到影响。进攻方英雄施放此特殊技能时，盾牌将会被增强，给予的法力增加 +30% ；而防御方英雄施放此特殊技能时，盾牌则会被削弱，给予的法力减少 -23%。",
+            "所有盟友获得 +35% 攻击力，持续 4 回合。对所有神圣系角色，该状态效果不可驱散且持续时间延长 2 回合。"
         ]
     },
     {
         "originalIndex": 1288,
-        "name": "奥代 (Aouda)",
+        "name": "阿克罗格 (Akkorog)",
         "effects": [
-            "Deals 450% damage to the target.",
-            "Deals 500 extra damage if the target has boosted health."
+            "随机重新排列敌人位置。",
+            "对目标及附近敌人造成 280% 伤害。"
         ]
     },
     {
         "originalIndex": 1289,
-        "name": "奥代 (Aouda) C1",
+        "name": "阿克罗格 (Akkorog) C1",
         "effects": [
-            "Deals 250% damage to the target.",
-            "Deals 1140 extra damage if the target has boosted health."
+            "随机重新排列敌人位置。",
+            "对目标及附近敌人造成 260% 伤害。",
+            "施法者有 +45% 的几率闪避特殊技能，持续 3 回合。每次闪避可获得 +5% 防御叠加。（最多 10 层）"
         ]
     },
     {
         "originalIndex": 1290,
-        "name": "艾森 (Ashen)",
+        "name": "阿尔宾 (Albin)",
         "effects": [
-            "If the caster is recovering health:",
-            " * Deals 300% damage to all enemies.",
-            " * All enemies get lasting -40% attack. (This effect lasts until it is cleansed, replaced or removed.)",
-            "Otherwise:",
-            " * All allies get lasting 200 health regeneration per turn. (This effect lasts until it is cleansed, replaced or removed.)",
-            " * All allies get lasting +40% attack. (This effect lasts until it is cleansed, replaced or removed.)"
+            "对所有敌人造成 440% 伤害。",
+            "重置所有盟友的增益持续时间。",
+            "为每位盟友召唤 2 个精灵小兵，其可从施法者处继承 10% 生命和 10% 攻击力。"
         ]
     },
     {
         "originalIndex": 1291,
-        "name": "阿斯特丽德 (Astrid)",
+        "name": "阿尔瓦 (Alvar)",
         "effects": [
-            "Recovers 50% health for all allies.",
-            "Each defeated ally has 40% chance to get revived with 30% HP.",
-            "All allies have a 20% chance to drop any received damage to 1 for 3 turns."
+            "解除所有盟友的全部可净化状态异常，并随机施放给敌人。",
+            "重置所有敌人的状态异常持续时间。",
+            "对所有敌人造成 350% 伤害。",
+            "所有敌人将反弹增益状态效果至我方战队的一名随机角色，持续 4 回合。（只有可驱散的增益才可反弹）"
         ]
     },
     {
         "originalIndex": 1292,
-        "name": "奥瑞卡克 (Auricarc)",
+        "name": "阿蒙德 (Amund)",
         "effects": [
-            "Steals all Minions or a Mega Minion from the target.",
-            "Steals 40% mana from the target and distributes it to allies.",
-            "Deals 530% damage to the target.",
-            "The target falls into Deep Sleep and receive +80% increased damage while in Deep Sleep. (This character in Deep Sleep cannot gain mana or attack. The character in Deep Sleep is woken once it takes 500 damage. This effect is uncleansable.)"
+            "对所有敌人造成 350% 伤害。",
+            "召唤刺骨陷阱恶魔附身于所有敌人。恶魔每回合对敌人造成 45% 攻击力的伤害。该伤害每回合提高 8%，最高可达 93%。",
+            "刺骨陷阱恶魔会吸收治疗，当吸收的治疗量达到其所有者最大生命值的 45% 时，它便会消失。",
+            "所有敌人只要有刺骨陷阱恶魔附身，就无法用特殊技能净化或转移其状态异常。（此效果也无法被净化或转移）"
         ]
     },
     {
         "originalIndex": 1293,
-        "name": "阿维亚纳 (Aviana)",
+        "name": "安 (Anne)",
         "effects": [
-            "Deals 330% damage to the target and nearby enemies.",
-            "The target and nearby enemies are immune to new status effects buffs for 4 turns.",
-            "The caster and nearby allies get +50% critical chance for 4 turns.",
-            "Element Link gives all Holy allies +5% dodge chance for 6 turns. This effect cannot be dispelled."
+            "对目标造成 550% 伤害。",
+            "若目标在受到伤害前有超过 50% 的生命，则多瞄准一名在受到此特殊技能伤害前有超过 50% 生命的敌人。若其他敌人的生命都在 50% 以下，则多瞄准一名随机敌人。每下攻击的伤害都会递减。每个敌人只能被击中一次。",
+            "若命中的敌人在接下来的 4 回合内使用特殊技能，该敌人将获得 -34% 攻击力、 -34% 防御以及 -24% 法力生成，持续 4 回合。状态效果将在特殊技能结束后施加。若此状态效果在特殊技能施放期间被移除，则不会施加状态效果。"
         ]
     },
     {
         "originalIndex": 1294,
-        "name": "白杨 (Bai Yeong)",
+        "name": "安忒洛斯 (Anteros)",
         "effects": [
-            "Deals 390% damage to the target.",
-            "The target gets -75% accuracy for 2 turns.  Chance to miss also applies to offensive Special Skills.",
-            "The target gets -75% decrease for any healing received for 2 turns.",
-            "Element Link gives all Holy allies +30% defense against Special Skills for 4 turns. This effect can't be cleansed."
+            "此特殊技能必定命中。",
+            "对目标造成 460% 伤害。",
+            "目标在法力满格时会被强制施放盲目治疗，此效果持续 3 回合。",
+            "盲目治疗：",
+            "* 为剩余生命值最低的敌方角色恢复 20% 生命值。"
         ]
     },
     {
         "originalIndex": 1295,
-        "name": "白鼠 (Baishu)",
+        "name": "奥代 (Aouda)",
         "effects": [
-            "Steals the latest status effect buff from all enemies and randomly distributes them on allies.",
-            "If no buffs were succesfully stolen, deal 200% damage to all enemies.",
-            "Lifts the latest status ailment from all allies and randomly distributes them on enemies.",
-            "If no ailments were succesfully distributed, deals 200% damage to all enemies."
+            "对目标造成 450% 伤害。",
+            "如果目标拥有生命加成，则造成 500 点额外伤害。"
         ]
     },
     {
         "originalIndex": 1296,
-        "name": "凯特琳 (Caitlin)",
+        "name": "奥代 (Aouda) C1",
         "effects": [
-            "Dispels buffs from all enemies.",
-            "Deals 180% damage to all enemies",
-            "Deals additional 20% damage per removed status effect, up to 340% damage in total.",
-            "Stack (Max: 10): The caster gets +5% mana generation",
-            "Stack +2 (Max: 10): The caster recovers 20 HP each turn."
+            "对目标造成 250% 伤害。",
+            "如果目标拥有生命加成，则造成 1140 点额外伤害。"
         ]
     },
     {
         "originalIndex": 1297,
-        "name": "凯特琳 (Caitlin) C1",
+        "name": "艾森 (Ashen)",
         "effects": [
-            "Dispels buffs from all enemies.",
-            "Deals 170% damage to all enemies.",
-            "Deals additional 25% damage per removed status effect, up to 370% damage in total.",
-            "Stack +2 (Max: 10): The caster gets +12% mana generation.",
-            "Stack +3 (Max: 10): The caster recovers 45 HP each turn."
+            "如果施法者正在恢复生命值：",
+            "* 对所有敌人造成 300% 伤害。",
+            "* 所有敌人获得持续性 -40% 攻击力。（此效果将持续，直至被驱散、替代或移除。）",
+            "否则：",
+            "* 所有盟友获得持续性每回合 200 点生命恢复。（此效果将持续，直至被驱散、替代或移除。）",
+            "* 所有盟友获得持续性 +40% 攻击力。（此效果将持续，直至被驱散、替代或移除。）"
         ]
     },
     {
         "originalIndex": 1298,
-        "name": "塞利达纳 (Celidana)",
+        "name": "阿斯特丽德 (Astrid)",
         "effects": [
-            "Boosts health of the caster and nearby allies by 1000. Boosted health can exceed max HP.",
-            "The caster and nearby allies get +50% defense as long as caster has boosted health. This effect can’t be dispelled.",
-            "The caster and nearby allies resist max health reduction for 5 turns.",
-            "Element Link gives all Holy allies immunity to new Fiends for 4 turns. This effect can't be dispelled."
+            "为所有盟友恢复 50% 生命值。",
+            "每名被击败的盟友有 40% 的几率以 30% 的生命值复活。",
+            "所有盟友有 20% 几率将所受的任何伤害降低至 1 点，持续 3 回合。"
         ]
     },
     {
         "originalIndex": 1299,
-        "name": "克里斯蒂娜·达埃 (Christine Daae)",
+        "name": "奥瑞卡克 (Auricarc)",
         "effects": [
-            "Deals 355% damage to the target and nearby enemies.",
-            "The target and nearby enemies dance to Ballad of Passion for 3 turns. All existing status effects will be removed when this effect is added.",
-            "Ballad of Passion",
-            "* -40% acuracy.",
-            "* -40% defense.",
-            "* Gives immunity to new status effects. New dance status effects will replace this effect.",
-            "* This effect cannot be dispelled. The effect is removed when the caster dies."
+            "从目标处窃取所有小兵和超级小兵。",
+            "从目标身上窃取 40% 法力并平均分配到所有盟友身上。",
+            "对目标造成 530% 伤害。",
+            "目标陷入深眠且深眠期间受到的伤害增加 +80%。（深眠中的角色无法获得法力或攻击。深眠目标受到 500 点伤害后便会苏醒。此效果不可净化）"
         ]
     },
     {
         "originalIndex": 1300,
-        "name": "克利奥帕特拉 (Cleopatra)",
+        "name": "阿维亚纳 (Aviana)",
         "effects": [
-            "Recovers 65% health for all allies.",
-            "All allies are immune to new status ailments for 3 turns, and recover 205 health for each attempted status ailment."
+            "对目标及附近敌人造成 330% 伤害。",
+            "目标与附近敌人对新的增益状态效果免疫，持续 4 回合。",
+            "施法者和附近盟友获得 +50% 暴击几率，持续 4 回合。",
+            "元素链赋予所有神圣系盟友 +5% 闪避几率，持续 6 回合。此效果无法驱散。"
         ]
     },
     {
         "originalIndex": 1301,
-        "name": "克利奥帕特拉 (Cleopatra) C1",
+        "name": "白杨 (Bai Yeong)",
         "effects": [
-            "Recovers 60% health for all allies.",
-            "All allies are immune to new status ailments for 3 turns, and recover 360 health for each attempted status ailment."
+            "对目标造成 390% 伤害。",
+            "目标获得 -75% 精准度，持续 2 回合。进攻型特殊技能也有相同几率落空。",
+            "目标获得的治疗减少 -75%，持续 2 回合。",
+            "元素链为全体神圣系盟友提供针对特殊技能 +30% 的防御，持续 4 回合。此效果无法净化。"
         ]
     },
     {
         "originalIndex": 1302,
-        "name": "康斯坦丝 (Constance)",
+        "name": "白鼠 (Baishu)",
         "effects": [
-            "Deals 230% damage to all enemies.",
-            "All allies get +45% chance to dodge Special Skills for 3 turns. Each dodge damage the attacker for 100 damage."
+            "偷取全体敌人最新施加的可驱散状态效果增益并随机施放给盟友。",
+            "若未能成功窃取任何增益，则对所有敌人造成 200% 伤害。",
+            "解除所有盟友的全部可净化状态异常并随机施放给敌人。",
+            "若未能成功分配任何状态异常，则对所有敌人造成 200% 伤害。"
         ]
     },
     {
         "originalIndex": 1303,
-        "name": "达布莉亚 (Dabria)",
+        "name": "凯特琳 (Caitlin)",
         "effects": [
-            "Each fallen ally has a 40% chance to get revived with 20% HP.",
-            "All allies regenerating 894 HP over 4 turns, starting low an increasing every turn.",
-            "All allies get +24% defense for 4 turns. The defense increases by 10% each turn up to +54%."
+            "驱散所有敌人的增益。",
+            "对所有敌人造成 180% 伤害。",
+            "每移除一个状态效果便造成额外 20% 伤害，最多累计造成 340% 伤害。",
+            "叠加（最多 10 层）：施法者获得 +5% 法力生成。",
+            "叠加 +2 （最多 10 层）：施法者每回合恢复 20 点生命值。"
         ]
     },
     {
         "originalIndex": 1304,
-        "name": "达利拉 (Delilah)",
+        "name": "凯特琳 (Caitlin) C1",
         "effects": [
-            "Recovers 40% health for all allies",
-            "Summons a Guardian Minion for each ally with 20% HP and 20% attack inherited from the caster",
-            "Elemental Link gives +10% mana generation for all Holy allies for 4 turns. This effect can’t be displelled."
+            "驱散所有敌人的增益。",
+            "对所有敌人造成 170% 伤害。",
+            "每移除一个状态效果便造成额外 25% 伤害，最多累计造成 370% 伤害。",
+            "叠加 +2 （最多 10 层）：施法者获得 +12% 法力生成。",
+            "叠加 +3 （最多 10 层）：施法者每回合恢复 45 点生命值。"
         ]
     },
     {
         "originalIndex": 1305,
-        "name": "达利拉 (Delilah) C1",
+        "name": "塞利达纳 (Celidana)",
         "effects": [
-            "Recovers 37% health for all allies.",
-            "Summons a Guardian Minion for each ally with 25% HP and 30% attack inherited from the caster.",
-            "Elemental Link gives +10% mana generation for all Holy allies for 4 turns. This effect can’t be displelled."
+            "提高施法者和附近盟友 1000 点生命值。提高的生命值可以超过最大生命值。",
+            "施法者拥有生命值加成期间，施法者自身和其附近盟友均获得 +50% 防御。此效果无法驱散。",
+            "施法者和附近盟友可抵抗最大生命值的减少，持续 5 回合。",
+            "元素链使全体神圣系盟友对新恶魔免疫，持续 4 回合。此效果无法驱散。"
         ]
     },
     {
         "originalIndex": 1306,
-        "name": "德瓦娜 (Devana)",
+        "name": "克里斯蒂娜·达埃 (Christine Daae)",
         "effects": [
-            "Deals 285% damage to the target and nearby enemies.",
-            "Summons a Lynx Minion with 35% HP and 35% attack inherited from the caster.",
-            "Before Lynx Minion hits target, it destroys all Minions from the target.",
-            "Dispells buffs from the target and nearby enemies.",
-            "Element Link givs all Holy allies small amount of mana at the end of the turn for 4 turns. This effect can't be dispelled."
+            "对目标及附近敌人造成 355% 伤害。",
+            "目标与附近敌人跳起激情歌谣，持续 3 回合。添加此效果时将移除所有现有状态效果。",
+            "激情歌谣：",
+            "* -40% 精准度。",
+            "* -40% 防御。",
+            "* 免疫新的状态效果。新的舞蹈状态效果将取代此效果。",
+            "* 此效果无法驱散。施法者阵亡后效果移除。"
         ]
     },
     {
         "originalIndex": 1307,
-        "name": "朱利主管 (Director Zuri)",
+        "name": "克利奥帕特拉 (Cleopatra)",
         "effects": [
-            "Recovers 65% health for the ally with the lowest ramining HP. All other allies recover 42% health.",
-            "Summons a Clown Minion for each ally with 15% HP and 22% attack inherited from the caster.",
-            "Cleanses status ailments from all allies."
+            "为所有盟友恢复 65% 生命值。",
+            "所有盟友对新的状态异常免疫，持续 3 回合，且每当有状态异常尝试施加于其上，他们都将恢复 205 点生命值。"
         ]
     },
     {
         "originalIndex": 1308,
-        "name": "德洛丽丝 (Dolores)",
+        "name": "克利奥帕特拉 (Cleopatra) C1",
         "effects": [
-            "For the next 4 turns, this character deals 220% damage and inflicts 15 Insanity to a random target and nearby enemies each time any other ally casts their Special Skill.",
-            "Stack (Max: 10): All allies get +20% attack",
-            "Stack (Max: 10): All allies get +5% mana generation",
-            "Inflicts 50 Insanity to the caster."
+            "为所有盟友恢复 60% 生命值。",
+            "所有盟友对新的状态异常免疫，持续 3 回合，且每当有状态异常尝试施加于其上，他们都将恢复 360 点生命值。"
         ]
     },
     {
         "originalIndex": 1309,
-        "name": "德雷克方 (Drake Fong)",
+        "name": "康斯坦丝 (Constance)",
         "effects": [
-            "Deals 300% damage to the target and nearby enemies.",
-            "The target and nearby enemies get -35% accuracy for 3 turns. Chance to miss also applies to offensive Special Skills.",
-            "Element Link gives all Holy allies +5% attack and +5% defense for 6 turns. This effect can't be cleansed"
+            "对所有敌人造成 230% 伤害。",
+            "所有盟友拥有 +45% 几率闪避特殊技能，持续 3 回合。每次闪避会对攻击者造成 100 点伤害。"
         ]
     },
     {
         "originalIndex": 1310,
-        "name": "德雷克方 (Drake Fong) C1",
+        "name": "达布莉亚 (Dabria)",
         "effects": [
-            "Deals 270% damage to the target and nearby enemies.",
-            "The target and nearby enemies get -50% accuracy for 3 turns. The effect duration is reset if the target is healed. Chance to miss also applies to offensive Special Skills.",
-            "Element Link   gives all Holy  allies +5% attack and +5% defense for 6 turns. This effect can’t be dispelled."
+            "每名阵亡的盟友有 40% 的几率以 20% 的生命值复活。",
+            "所有盟友在 4 回合内恢复共计 894 点生命，一开始恢复量较少，每个回合逐渐增加。",
+            "所有盟友获得 +24% 防御，持续 4 回合。防御每回合增加 10%，最高为 +54%。"
         ]
     },
     {
         "originalIndex": 1311,
-        "name": "埃洛伊丝 (Eloise)",
+        "name": "达利拉 (Delilah)",
         "effects": [
-            "Destroys all Minions from all enemies.",
-            "Deals 270% damage to all enemies.",
-            "If an enemy had Minions they will resist new Minions for 4 turns."
+            "为所有盟友恢复 40% 生命值。",
+            "为每位盟友召唤一个守护者小兵，其可从施法者处继承 20% 生命和 20% 攻击力。",
+            "元素链为全体神圣系盟友提供 +10% 的法力生成，持续 4 回合。此效果无法驱散。"
         ]
     },
     {
         "originalIndex": 1312,
-        "name": "依菲拉 (Ephyra)",
+        "name": "达利拉 (Delilah) C1",
         "effects": [
-            "Special Skill need consecutive uses to reach full power, the following order:",
-            "1st:",
-            " * Summons a Jellyfish Minion for each ally with +37% HP and +42% attack inherited from the caster.",
-            "* Stack (Max 10): All allies get +5% inherited HP for new Minions they summon.",
-            "2nd:",
-            " * Replaces all Fiends on all allies with Jellyfish Minions.",
-            " * Summons a Jellyfish Minion for each ally with +37% HP and +42% attack inherited from the caster.",
-            "* Stack (Max 10): All allies get +5% inherited HP for new Minions they summon."
+            "为所有盟友恢复 37% 生命值。",
+            "为每位盟友召唤一个守护者小兵，其可从施法者处继承 25% 生命和 30% 攻击力。",
+            "元素链为全体神圣系盟友提供 +10% 的法力生成，持续 4 回合。此效果无法驱散。"
         ]
     },
     {
         "originalIndex": 1313,
-        "name": "依菲拉 (Ephyra) C1",
+        "name": "德瓦娜 (Devana)",
         "effects": [
-            "Special Skill need consecutive uses to reach full power, the following order:",
-            "1st:",
-            " * Summons a Jellyfish Minion for each ally with +35% HP and +40% attack inherited from the caster.",
-            "* Stack (Max 10): All allies get +4% inherited HP for new Minions they summon.",
-            "2nd:",
-            " * Replaces all Fiends on all allies with Jellyfish Minions.",
-            " * Summons a Jellyfish Minion for each ally with 40% HP and 50% attack inherited from the caster.",
-            "* Stack (Max 10): All allies get +7% inherited HP for new Minions they summon."
+            "对目标及附近敌人造成 285% 伤害。",
+            "召唤一个山猫小兵，其可从施法者处继承 35% 生命值和 35% 攻击力。",
+            "山猫小兵在命中目标前会摧毁目标的全部小兵。",
+            "驱散目标和附近敌人身上的增益。",
+            "元素链在回合结束时为所有神圣系盟友恢复少量法力，持续 4 回合。此效果无法驱散。"
         ]
     },
     {
         "originalIndex": 1314,
-        "name": "二郎神 (Erlang Shen)",
+        "name": "朱利主管 (Director Zuri)",
         "effects": [
-            "Deals 500% damage to the target and minor damage to nearby enemies.",
-            "The target and nearby enemies get -48% attack for 3 turns. If the effect is removed before the duration ends, the target with the effect suffers 514 damage."
+            "为剩余生命值最低的盟友恢复 65% 生命值。为其他所有盟友恢复 42% 生命值。",
+            "为每位盟友召唤一个小丑小兵，其可从施法者处继承 15% 生命和 22% 攻击力。",
+            "净化所有盟友的状态异常。"
         ]
     },
     {
         "originalIndex": 1315,
-        "name": "艾塞特 (Eset)",
+        "name": "德洛丽丝 (Dolores)",
         "effects": [
-            "Deals 250% damage to the target. Deals extra damage is the target is Dark.",
-            "Deals 180% damage to 5 random enemies. Deals extra damage if the target is Dark.",
-            "Alters the power of all Holy shields on the board. When an attacking Hero casts the special, the shields become enhanced with +64% attack. When a defending hero casts the special, the shields become weakened with -57% attack."
+            "在后续 4 回合中，每当其他盟友施放特殊技能后，此角色将随机对一个目标和附近敌人造成 220% 伤害并对其施加 15 点狂乱。",
+            "叠加（最多 10 层）：所有盟友获得 +20% 攻击力。",
+            "叠加（最多： 10 层）：所有盟友获得 +5% 法力生成。",
+            "对施法者施加 50 点狂乱。"
         ]
     },
     {
         "originalIndex": 1316,
-        "name": "艾塞特 (Eset) C1",
+        "name": "德雷克方 (Drake Fong)",
         "effects": [
-            "Deals 260% damage to the target. Deals extra damage if the target is Dark.",
-            "Deals 250% damage to 5 random enemies. Deals extra damage if the target is Dark. (This effect targets the same enemy as the first hit if there are no other valid targets.)",
-            "Alters the power of all Holy shields on the board. When an attacking Hero casts the special, the shields become enhanced with +64% attack. When a defending Hero casts the special, the shields become weakened with -57% attack."
+            "对目标及附近敌人造成 300% 伤害。",
+            "目标与附近敌人获得 -35% 精准度，持续 3 回合。进攻型特殊技能也有相同几率落空。",
+            "元素链为全体神圣系盟友提供 +5% 的攻击和 +5% 的防御，持续 6 回合。此效果无法净化。"
         ]
     },
     {
         "originalIndex": 1317,
-        "name": "经验拟态兽 (Experience Mimic) Holy",
+        "name": "德雷克方 (Drake Fong) C1",
         "effects": [
-            "Destroys all Minions from the target. This effect damages Mega Minions.",
-            "Deals 530% damage to the target.",
-            "If the target is defeated by the attack, the caster recovers +50% health and gains 33% mana.",
-            "The Mimic chest closes for 2 turns. (The Mimic is immune to damage and new status ailments while closed.)"
+            "对目标及附近敌人造成 270% 伤害。",
+            "目标与附近敌人获得 -50% 精准度，持续 3 回合。若目标受到治疗，则效果持续时间将重置。进攻型特殊技能也有相同几率落空。",
+            "元素链为全体神圣系盟友提供 +5% 的攻击和 +5% 的防御，持续 6 回合。此效果无法驱散。"
         ]
     },
     {
         "originalIndex": 1318,
-        "name": "法欧娜 (Faeona)",
+        "name": "埃洛伊丝 (Eloise)",
         "effects": [
-            "Recovers 45% health for all allies.",
-            "All allies get +30% increase for any healing received for 5 turns.",
-            "Stack +3 (Max 10): The caster gets +15% mana generation. (Affects only mana generated from  matching tiles or mana gained by the defense team at the end of their turn.)",
-            "Element Link gives all Holy allies +20% critical chance for 6 turns. This effect cannot be dispelled."
+            "摧毁全部敌人的全部小兵。",
+            "对所有敌人造成 270% 伤害。",
+            "原本拥有小兵的敌人将抵抗新的小兵，持续 4 回合。"
         ]
     },
     {
         "originalIndex": 1319,
-        "name": "法里恩 (Faline)",
+        "name": "依菲拉 (Ephyra)",
         "effects": [
-            "Deals 330% daamage to the target and nearby enemies.",
-            "The hit enemy with the fastest base mana speed gets -64% mana generation for 3 turns."
+            "必须连续使用特殊技能才能达到其最大威力，顺序为：",
+            "第一次：",
+            "* 为每位盟友召唤一个水母小兵，其可从施法者处继承 +37% 生命和 +42% 攻击力。",
+            "* 叠加（最多 10 层）：所有盟友召唤的小兵可继承 +5% 的生命值。",
+            "第二次：",
+            "* 用水母小兵取代附身于全体盟友的所有恶魔。",
+            "* 为每位盟友召唤一个水母小兵，其可从施法者处继承 +37% 生命和 +42% 攻击力。",
+            "* 叠加（最多 10 层）：所有盟友召唤的小兵可继承 +5% 的生命值。"
         ]
     },
     {
         "originalIndex": 1320,
-        "name": "弗兰克·\"獠牙\"·布林威尔 (Frank 'Fangs' Brimwell)",
+        "name": "依菲拉 (Ephyra) C1",
         "effects": [
-            "Deals 350% damage to the target and nearby enemies.",
-            "If any ally has a Mega Minion before this Special Skill is cast, deals 365% damage to all enemies instead.",
-            "Summnos a Recruit Guard Mega Minion with 20% HP and 100% attack inherited from the caster.",
-            "The Recruit Guard Mega Minion gains more HP and attack when there are more unique Garrison Guard heroes on the team, up to 30% HP and 140% attack."
+            "必须连续使用特殊技能才能达到其最大威力，顺序为：",
+            "第一次：",
+            "* 为每位盟友召唤一个水母小兵，其可从施法者处继承 +35% 生命和 +40% 攻击力。",
+            "* 叠加（最多 10 层）：所有盟友召唤的小兵可继承 +4% 的生命值。",
+            "第二次：",
+            "* 用水母小兵取代附身于全体盟友的所有恶魔。",
+            "* 为每位盟友召唤一个水母小兵，其可从施法者处继承 40% 生命和 50% 攻击力。",
+            "* 叠加（最多 10 层）：所有盟友召唤的小兵可继承 +7% 的生命值。"
         ]
     },
     {
         "originalIndex": 1321,
-        "name": "费迪南 (Furdinand)",
+        "name": "二郎神 (Erlang Shen)",
         "effects": [
-            "Cleanses status ailments from all allies.",
-            "All allies get +63% defense for 4 turns.",
-            "All allies become Soul Connected for 4 turns. Soul Connected allies share received damage.",
-            "All allies reflect status ailments and negative stacks for 4 turns. (Status effects cast by characters, Minions and Fiends on the same side cannot be reflected)",
-            "All allies regenerate 732 HP over 4 turns."
+            "对目标造成 500% 伤害，并对附近敌人造成轻微伤害。",
+            "目标与附近敌人获得 -48% 攻击力，持续 3 回合。若该效果在持续时间结束前被移除，其拥有者将受到 514 点伤害。"
         ]
     },
     {
         "originalIndex": 1322,
-        "name": "甘德尔 (Gandr)",
+        "name": "艾塞特 (Eset)",
         "effects": [
-            "Attacks all enemies with Firestorm Strike, dealing up to 2200 damage. Deals 40% more if the target is of the Nature element. This Special Skill never misses its targets.",
-            "Heals all allies for 30% of damage dealt.",
-            "All allies counterattack with 65% of the damage received for 5 turns."
+            "对目标造成 250% 伤害。如果目标为暗黑系可造成额外伤害。",
+            "对 5 名随机敌人造成 180% 伤害。如果目标为暗黑系可造成额外伤害。",
+            "面板中所有神圣系盾牌受到影响。攻击方英雄施放特殊技能时，盾牌得到增强并额外给予 +64% 攻击力；防御方英雄施放特殊技能时，盾牌会被削弱攻击力 -57%。"
         ]
     },
     {
         "originalIndex": 1323,
-        "name": "基迪恩 (Gideon)",
+        "name": "艾塞特 (Eset) C1",
         "effects": [
-            "Safely cleanses status ailments from all allies. (Safe cleanse bypasses secondary effects, such as damage on removal, from removed status ailment. External effects such as passive skills and family effects can still activate.",
-            "Enhanced Dodge: All allies get +100% chance to dodge Special Skill that deal damage. This effect lasts until the ally succesfully dodges once.",
-            "After the Enhanced Dodge ends or is removed or replaced, the ally recovers 56% health and gets +60% defense for 6 turns."
+            "对目标造成 260% 伤害。如果目标为暗黑系可造成额外伤害。",
+            "对 5 名随机敌人造成 250% 伤害。如果目标为暗黑系可造成额外伤害。（如果没有其他有效目标，则此效果瞄准第一次击中的该名敌人）",
+            "面板中所有神圣系盾牌受到影响。攻击方英雄施放特殊技能时，盾牌得到增强并额外给予 +64% 攻击力；防御方英雄施放特殊技能时，盾牌会被削弱攻击力 -57%。"
         ]
     },
     {
         "originalIndex": 1324,
-        "name": "吉利根 (Gilligan)",
+        "name": "经验拟态兽 (Experience Mimic) Holy",
         "effects": [
-            "Deals 380% damage to the target and nearby enemies.",
-            "The attack has a 80% chance to bypass defensive buffs. This includes counterattacks.",
-            "All allies get +45% defense for 4 turns.",
-            "Element Link gives all Holy allies a +5% chance to dodge status ailments for 4 turns. This effect cannot be dispelled."
+            "摧毁目标的全部小兵。此效果会对超级小兵造成伤害。",
+            "对目标造成 530% 伤害。",
+            "若本次攻击将敌人击败，那么施法者将恢复 +50% 生命并获得 33% 法力。",
+            "拟态兽宝箱关闭 2 回合。（拟态兽宝箱关闭时免疫伤害和新的状态异常）"
         ]
     },
     {
         "originalIndex": 1325,
-        "name": "金滴 (Goldrip)",
+        "name": "法欧娜 (Faeona)",
         "effects": [
-            "Inflicts the target with Greed for 4 turns. Friendly effects from Special Skills only affect characters with Greed. (Greed prevents all other heroes in the same team from gaining friendly effects. This includes all buffs, healing and growth effects.)",
-            "All enemies receive 988 Bleed damage over 4 turns.",
-            "Deals 310% damage to all enemies."
+            "为所有盟友恢复 45% 生命值。",
+            "所有盟友获得的治疗增加 +30%，持续 5 回合。",
+            "叠加 +3 （最多 10 层）：施法者获得 +15% 法力生成。（只影响通过消除方块或由防御队伍在其回合结束时获得的法力）",
+            "元素链为全体神圣系盟友提供 +20% 的暴击几率，持续 6 回合。此效果无法驱散。"
         ]
     },
     {
         "originalIndex": 1326,
-        "name": "公牛 (Gongniu)",
+        "name": "法里恩 (Faline)",
         "effects": [
-            "All allies get +54% defense, and a further +5% increase every time they are hit during 3 turns.",
-            "All allies recover 1000 health after 3 turns. If the effect is removed or replaced before the duration ends, recovers 1400 health instead.",
-            "All allies gain 25% mana after 3 turns.If the effect is removed or replaced before the duration ends, gains 35% mana instead. (This effect cannot replaced with itself.)"
+            "对目标及附近敌人造成 330% 伤害。",
+            "被击中的基础法力速度最快的敌人将获得 -64% 法力生成，持续 3 回合。"
         ]
     },
     {
         "originalIndex": 1327,
-        "name": "古里克 (Gooric)",
+        "name": "弗兰克·\"獠牙\"·布林威尔 (Frank 'Fangs' Brimwell)",
         "effects": [
-            "All allies get +60% attack for 5 turns.",
-            "All allies get +44% mana generation for 5 turns.",
-            "All allies receive Slime Revive status effect for 2 turns. If defeated while Slime Revive is active, the character will be reborn as a Slime with:",
-            " * 100% inherited health",
-            " * 50% attack",
-            " * 50% defense",
-            "* Special Skill: Slime Slap (Deals 350% damage to the target).",
-            " * This effect can’t be dispelled",
-            "If the Slime is not defeated in 2 turns, it will be reborn as the character’s original form inheriting the Slime’s health and mana."
+            "对目标及附近敌人造成 350% 伤害。",
+            "如果在此技能施放前任何盟友已经拥有超级小兵，则转而对所有敌人造成 365% 伤害。",
+            "召唤一个新兵守卫超级小兵，其可从施法者处继承 20% 生命值和 100% 攻击力。",
+            "当队伍中有更多独特的驻防守卫英雄时，新兵守卫超级小兵会获得更多生命值和攻击力，最高可达 30% 生命值和 140% 攻击力。"
         ]
     },
     {
         "originalIndex": 1328,
-        "name": "葛莉卡 (Grilka)",
+        "name": "费迪南 (Furdinand)",
         "effects": [
-            "If there’s 8 or more Holy shields on the board, then all effects cast in this Special Skill are undispellable.",
-            "The caster get Taunt that prevents enemies from using Special Skils on the caster’s allies for 5 turns.",
-            "All allies regenerate 1300 boosted health over 5 turns. Boosted health can exceed max HP.",
-            "All allies get +44% mana generation for 5 turns."
+            "净化所有盟友的状态异常。",
+            "所有盟友获得 +63% 防御，持续 4 回合。",
+            "所有盟友变得灵魂相连，持续 4 回合。灵魂相连的盟友将平摊所受伤害。",
+            "所有盟友可反弹状态异常和负面效果叠加，持续 4 回合。（同队角色、小兵和恶魔施放的状态效果无法反弹）",
+            "所有盟友在 4 回合内恢复 732 点生命值。"
         ]
     },
     {
         "originalIndex": 1329,
-        "name": "巨象守护者 (Guardian Elephant)",
+        "name": "甘德尔 (Gandr)",
         "effects": [
-            "Deals 160% damage to 9 random enemies.",
-            "Stack (Max: 10): Each hit gives its target -9% attack.",
-            "Stack (Max: 10): Each hit gives its target -6% defense.",
-            "All active buffs are undispellable for all allies for the remaining turns of the buff.",
-            "All active status ailments are uncleansable for all enemies for the remaining turns of the status ailment."
+            "使用焰暴闪袭攻击所有敌人，造成最多 2200 点伤害。若目标为自然系元素则额外造成 40% 伤害。该特殊技能必定命中。",
+            "为所有盟友恢复等同于所造成伤害 30% 的生命值。",
+            "所有盟友会以所受伤害的 65% 进行反击，持续 5 回合。"
         ]
     },
     {
         "originalIndex": 1330,
-        "name": "瞪羚守护者 (Guardian Gazelle)",
+        "name": "基迪恩 (Gideon)",
         "effects": [
-            "Removes all cleansable and uncleansable status effects from all allies except the caster. Removes even status effects that are otherwise undispellable or uncleansable.",
-            "The caster regenerates 612 HP over 4 turns.",
-            "All allies except the caster dance the Dance of Spirits for 4 turns:",
-            " * +100% attack.",
-            " * Reduces all received damage by -50%.",
-            " * If the caster is defeated, the dancer receives 84 damage and their mana is  reduced by 100%.",
-            " * This effect can’t be dispelled, but it gets removed if caster is defeated."
+            "安全净化所有盟友的状态异常（安全净化会无视状态异常被移除时的副作用，例如移除时的伤害。被动技能和家族效果等外来效果仍会生效）。",
+            "强化闪避：所有盟友拥有 +100% 几率闪避可以造成伤害的特殊技能。此效果一直持续到该盟友成功闪避一次为止。",
+            "强化闪避结束后、被移除或被替换后，盟友恢复 56% 生命并获得 +60% 防御，持续 6 回合。"
         ]
     },
     {
         "originalIndex": 1331,
-        "name": "瞪羚守护者 (Guardian Gazelle) C1",
+        "name": "吉利根 (Gilligan)",
         "effects": [
-            "Removes all status effects from all allies except the caster. Removes even status effects that are otherwise undispellable or uncleansable.",
-            "Recovers 48% health for all allies.",
-            "All allies except the caster dance the Dance of Spirits for 4 turns:",
-            " * +110% attack.",
-            " * Reduces all received damage by -30%.",
-            " * If the caster is defeated, the dancer receives 115 damage and their mana is reduced by 100%.",
-            " * This effect can’t be dispelled, but it gets removed if caster is defeated."
+            "对目标及附近敌人造成 380% 伤害。",
+            "攻击有 80% 的几率无视防御增益（包括反击）。",
+            "所有盟友获得 +45% 防御，持续 4 回合。",
+            "元素链赋予所有神圣系盟友 +5% 几率闪避状态异常，持续 4 回合。此效果无法驱散。"
         ]
     },
     {
         "originalIndex": 1332,
-        "name": "猫头鹰守护者 (Guardian Owl)",
+        "name": "金滴 (Goldrip)",
         "effects": [
-            "Deals 300% damage to all enemies.",
-            "Damage is increased by 60% per each dead ally (max damage 540%).",
-            "The caster gets +46% defense for 5 turns.",
-            "The caster regenerates 915 HP over 5 turns."
+            "对目标施加贪婪，持续 4 回合。来自特殊技能的友方效果只会影响身上有贪婪状态的角色。（贪婪会阻止同一队伍中的所有其他英雄获得友方效果，包括所有增益、治疗和成长效果）",
+            "所有敌人在 4 回合内受到共计 988 点流血伤害。",
+            "对所有敌人造成 310% 伤害。"
         ]
     },
     {
         "originalIndex": 1333,
-        "name": "桂妮维亚 (Guinevere)",
+        "name": "公牛 (Gongniu)",
         "effects": [
-            "Reduces the mana of all enemies by 20%.",
-            "The caster and nearby allies regenerate 612 HP over 4 turns.",
-            "The caster and nearby allies get +54% defense against Dark for 4 turns."
+            "所有盟友获得 +54% 防御，每次被击中后额外增加 +5% 防御，持续 3 回合。",
+            "3 回合后所有盟友恢复 1000 点生命值。若该效果在持续时间结束前被移除或取代，则改为恢复 1400 点生命值。",
+            "3 回合后所有盟友获得 25% 法力。若该效果在持续时间结束前被移除或取代，则改为获得 35% 法力。（此效果无法被自身取代）"
         ]
     },
     {
         "originalIndex": 1334,
-        "name": "桂妮维亚 (Guinevere) C1",
+        "name": "古里克 (Gooric)",
         "effects": [
-            "Reduces the mana of the target and nearby enemies by 25%.",
-            "Recovers 40% health for all allies.",
-            "All allies reflect all status effects and 115% damage back to the attacker and block other negative effects from enemies Dark Special Skill for 4 turns. Status effects cast by characters Minions and Fiends on the same side cannot be reflected."
+            "所有盟友获得 +60% 攻击力，持续 5 回合。",
+            "所有盟友获得 +44% 法力生成，持续 5 回合。",
+            "所有盟友获得史莱姆复活状态效果，持续 2 回合。若在史莱姆复活激活期间被击败，角色将以史莱姆形态重生并拥有：",
+            "* 100% 继承生命值。",
+            "* 50% 攻击力。",
+            "* 50% 防御。",
+            "* 特殊技能：史莱姆拍击。（对目标造成 350% 伤害）",
+            "* 此效果无法驱散。",
+            "若史莱姆在 2 回合内未被击败，则会变回角色原型，并继承史莱姆的生命值和法力。"
         ]
     },
     {
         "originalIndex": 1335,
-        "name": "关恩 (Gwynn)",
+        "name": "葛莉卡 (Grilka)",
         "effects": [
-            "Deals 350% damage to all enemies.",
-            "Damage bypasses target’s Minions.",
-            "All enemies receive 258 Burn damage over 3 turns.",
-            "All enemies take +50% increased damage from Burn and Poison status ailments for 3 turns."
+            "如果面板上有 8 个或以上的神圣系盾牌，那么此特殊技能施加的所有效果均不可驱散。",
+            "施法者获得嘲讽，可阻止敌人对其盟友使用特殊技能，持续 5 回合。",
+            "所有盟友在 5 回合内获得共计 1300 点生命加成。提高的生命值可以超过最大生命值。",
+            "所有盟友获得 +44% 法力生成，持续 5 回合。"
         ]
     },
     {
         "originalIndex": 1336,
-        "name": "忠犬八公 (Hachiko)",
+        "name": "巨象守护者 (Guardian Elephant)",
         "effects": [
-            "Deals 270% damage to all enemies.",
-            "All allies counterattack with 80% of the damage received for 4 turns. The counterattack damage increases by +15% each turn, up to 125%.",
-            "All allies get +50% critical chance for 4 turns."
+            "对 9 名随机敌人造成 160% 伤害。",
+            "叠加（最多 10 层）：每次命中给予目标 -9% 攻击力。",
+            "叠加（最多 10 层）：每次命中给予目标 -6% 防御。",
+            "该增益持续期间，所有盟友身上的全部增益都不可驱散。",
+            "该状态异常持续期间，所有敌人身上的状态异常都无法被净化。"
         ]
     },
     {
         "originalIndex": 1337,
-        "name": "哈尔西翁 (Halcyon)",
+        "name": "瞪羚守护者 (Guardian Gazelle)",
         "effects": [
-            "Destroys all Minions from the target. This effect damage Mega Minions. (This effect applies to Mega Minions as well but instead of destroying, damage equal to 50% of the Mega Minion’s max health is dealt to the Mega Minion.)",
-            "Deals 325% damage to hit targets.",
-            "If the target had Minions, attacks another enemy who has Minions. If none of the enemies have Minions, attacks a random enemy. Each enemy can only be attacked once. (This effect applies to Mega Minions as well but instead of destroying, damage equal to 50% of the Mega Minion’s max health is dealt to the Mega Minion.)",
-            "The caster gets lasting counterattack with 115% of the damage received. (This effect lasts until it is cleansed, replaced or removed.)"
+            "移除施法者以外所有盟友的状态效果，包含不可驱散或不可净化的状态效果。",
+            "施法者在 4 回合内恢复 612 点生命值。",
+            "除施法者外的所有盟友跳起英灵之舞，持续 4 回合：",
+            "* +100% 攻击力。",
+            "* 所受的所有伤害减少 -50%。",
+            "* 若施法者被击败，舞者受到 84 点伤害且法力减少 100%。",
+            "* 此效果无法驱散，但会在施法者被击败后移除。"
         ]
     },
     {
         "originalIndex": 1338,
-        "name": "哈妮特拉 (Hanitra)",
+        "name": "瞪羚守护者 (Guardian Gazelle) C1",
         "effects": [
-            "All allies get +45% chance to dodge Special SKills for 3 turns. Each dodge boosts max health by 425. Boosted health cand exceed max HP.",
-            "All allies resist max health reduction for 3 turns.",
-            "Element Link gives +10% increase for any healing received for all Holy allies for 4 turns. This effect can't be dispelled."
+            "移除所有盟友（除施法者外）的状态效果。包含不可驱散或不可净化的状态效果。",
+            "为所有盟友恢复 48% 生命值。",
+            "除施法者外的所有盟友跳起英灵之舞，持续 4 回合：",
+            "* +110% 攻击力。",
+            "* 所受的所有伤害减少 -30%。",
+            "* 若施法者被击败，舞者受到 115 点伤害且法力减少 100%。",
+            "* 此效果无法驱散，但会在施法者被击败后移除。"
         ]
     },
     {
         "originalIndex": 1339,
-        "name": "哈乌里 (Haumri)",
+        "name": "猫头鹰守护者 (Guardian Owl)",
         "effects": [
-            "Deals 600% damage to the target.",
-            "If the target has buffs and is hit, targets another enemy with buffs. If none of the other enemies have buffs, targets a random enemy. The damage is reduced on each consecutive hit. Each enemy can only be hit once.",
-            "Safely dispels 1 buff from all enemies. (The latest buffs are dispelled first.)",
-            "Wither: All enemies get -350 defense."
+            "对所有敌人造成 300% 伤害。",
+            "每有一名盟友被击败，伤害增加 60%。（最高伤害 540% ）",
+            "施法者获得 +46% 防御，持续 5 回合。",
+            "施法者在 5 回合内恢复 915 点生命值。"
         ]
     },
     {
         "originalIndex": 1340,
-        "name": "希尔达 (Hilda)",
+        "name": "桂妮维亚 (Guinevere)",
         "effects": [
-            "Deals 435% damage to the target and nearby enemies.",
-            "The target and nearby enemies receive 708 Bleed damage over 4 turns. All allies steal 50% of dealt Bleed damage as boosted health.",
-            "The target and nearby enemies are immune to new status effect buffs for 4 turns."
+            "使所有敌人的法力减少 20%。",
+            "施法者和附近盟友在 4 回合内恢复 612 点生命值。",
+            "施法者和附近盟友获得对暗黑系 +54% 的防御，持续 4 回合。"
         ]
     },
     {
         "originalIndex": 1341,
-        "name": "荷鲁斯 (Horus)",
+        "name": "桂妮维亚 (Guinevere) C1",
         "effects": [
-            "Deals 250% damage to target and nearby enemies.",
-            "Reduces max health of the target and nearby enemies by 450 over 3 turns. The effect is stronger against targets with boosted health. Max health can’t get lower than 30% of the original health. Any boosted health is reduced by an additional 150 per turn."
+            "使目标和附近敌人的法力减少 25%。",
+            "为所有盟友恢复 40% 生命值。",
+            "所有盟友会将来自暗黑系敌人特殊技能的全部状态效果和 115% 伤害反弹至进攻者，并阻挡该技能的其它负面效果，持续 4 回合。同队角色、小兵和恶魔施放的状态效果无法反弹。"
         ]
     },
     {
         "originalIndex": 1342,
-        "name": "荷鲁斯 (Horus) C1",
+        "name": "格温多林 (Gwendoline)",
         "effects": [
-            "Deals 230% damage to the target and nearby enemies.",
-            "Reduces max health of the target and nearby enemies by 600 over 3 turns. The effect is stronger against targets with boosted health. Max health can’t get lower than 30% of the original health. Any boosted health is reduced by an additional 200 per turn."
+            "净化施法者和附近盟友的状态异常。",
+            "为施法者和附近盟友恢复 70% 生命值。",
+            "施法者与附近盟友在 6 回合内恢复适量法力。",
+            "对附近盟友施加 40 点狂乱。",
+            "施法者会变成亚玛格，持续 6 回合。此效果无法驱散。亚玛格拥有 200% 攻击力、 150% 防御以及以下特殊技能:",
+            "- 永恒契约。(飞速)",
+            "* 对所有敌人造成 300% 伤害，并对其施加 20 点狂乱。",
+            "* 随机复活一名被击败的盟友，使其以 10% 生命值返回战场。"
         ]
     },
     {
         "originalIndex": 1343,
-        "name": "伊贺 (Iga)",
+        "name": "关恩 (Gwynn)",
         "effects": [
-            "1x Mana Charge",
-            " * Summons a Kunai Fiend for the target. The Fiend damages the enemy with 150% attack every turn.",
-            " * The Kunai Fiend absorbs healing and disappears when it has absorbed health equal to 45% of it’s owner’s max health.",
-            " * The Kunai Fiend explodes after 3 turns, dealing 1850 damage to its target.",
-            "2x Mana Charge",
-            " * Summons a Kunai Fiend for the target and nearby enemies. The Fiend damages the enemy with 175% attack every turn.",
-            " * The Kunai Fiend absorbs healing and disappears when it has absorbed health equal to 50% of it’s owner’s max health.",
-            " * The Kunai Fiend explodes after 3 turns, dealing 2000 damage to its target.",
-            "3x Mana Charge",
-            " * Summons a Kunai Fiend for all enemies. The Fiend damages the enemy with 200% attack every turn.",
-            " * The Kunai Fiend absorbs healing and disappears when it has absorbed health equal to 55% of it’s owner’s max health.",
-            " * The Kunai Fiend explodes after 3 turns, dealing 2250 damage to its target."
+            "对所有敌人造成 350% 伤害。",
+            "伤害无视目标的小兵。",
+            "所有敌人在 3 回合内受到共计 258 点燃烧伤害。",
+            "所有敌人从燃烧和剧毒状态异常所受到的伤害增加 +50%，持续 3 回合。"
         ]
     },
     {
         "originalIndex": 1344,
-        "name": "稻荷 (Inari)",
+        "name": "忠犬八公 (Hachiko)",
         "effects": [
-            "Deals 180% damage to all enemies.",
-            "All allies get +56% chance to dodge Special Skills for 3 turns. Each dodge summons a Sakura Fox minion",
-            "Sakura Fox Minion has 8% HP and 30% attack inherited from the caster. It adds 7% mana to its owner at the end of each turn"
+            "对所有敌人造成 270% 伤害。",
+            "所有盟友会以所受伤害的 80% 进行反击，持续 4 回合。反击伤害每回合增加 +15%，最高为 125%。",
+            "所有盟友获得 +50% 暴击几率，持续 4 回合。"
         ]
     },
     {
         "originalIndex": 1345,
-        "name": "稻荷 (Inari) C1",
+        "name": "哈尔西翁 (Halcyon)",
         "effects": [
-            "Deals 210% damage to all enemies.",
-            "Summons a Sakura Fox Minion for the caster and nearby allies. Sakura Fox Minion has 12% HP and 30% attack inherited from the caster. The minion adds 7% mana to its owner at the end of each turn.",
-            "All enemies get -40% accuracy for 3 turns. Chance to miss is also applies to offensive Special Skills."
+            "摧毁目标的全部小兵，此效果会对超级小兵造成伤害。（此效果也适用于超级小兵，但只会对超级小兵造成相当于其最大生命值 50% 的伤害，而非将其摧毁。）",
+            "对命中的目标造成 325% 伤害。",
+            "如果目标拥有小兵，则攻击另外一个拥有小兵的敌人。如果敌人都没有小兵，则攻击随机一名敌人。每名敌人只能被攻击一次。（此效果也适用于超级小兵，但只会对超级小兵造成相当于其最大生命值 50% 的伤害，而非将其摧毁。）",
+            "施法者以所受伤害的 115% 反击，持续无限回合。（此效果将持续，直至被驱散、替代或移除。）"
         ]
     },
     {
         "originalIndex": 1346,
-        "name": "铁锚 (Ironmaw)",
+        "name": "哈妮特拉 (Hanitra)",
         "effects": [
-            "Deals 500% damage to the target and all Dark enemies.",
-            "All enemies get -39% mana generation for 4 turns. Against Dark characters, this status effect becomes uncleansable and lasts 2 turns longer.",
-            "Deals extra damage agianst Dark."
+            "所有盟友拥有 +45% 几率闪避特殊技能，持续 3 回合。每次闪避都能使生命值提高 425 点。提高的生命值可以超过最大生命值。",
+            "所有盟友可抵抗最大生命值的减少，持续 3 回合。",
+            "元素链给予所有神圣系盟友受到的治疗增加 +10%，持续 4 回合。此效果无法驱散。"
         ]
     },
     {
         "originalIndex": 1347,
-        "name": "伊塔尔 (Ithar)",
+        "name": "哈乌里 (Haumri)",
         "effects": [
-            "Steals all dispellable buffs from the target and randomly distributes them on allies.",
-            "Steals 35% mana from the target and distributes it to allies.",
-            "All allies get +35% attack for 2 turns.",
-            "Element Link gives +10% mana generation for all Holy allies for 4 turns. This effect cannot be dispelled."
+            "对目标造成 600% 伤害。",
+            "如果目标有增益效果且受到攻击，则瞄准另一个有增益效果的敌人。如果其他敌人均没有增益效果，则随机瞄准一个敌人。每下攻击的伤害都会递减。每个敌人只能被击中一次。",
+            "从所有敌人身上安全驱散 1 个增益。（最后获得的增益最先被驱散）",
+            "衰退：所有敌人获得 -350 点防御。"
         ]
     },
     {
         "originalIndex": 1348,
-        "name": "嘉娜 (Jana)",
+        "name": "希尔达 (Hilda)",
         "effects": [
-            "Deals 470% damage to the target.",
-            "The target gets -44% defense for 4 turns.",
-            "Deals 470% damage to a random different enemy. This effect targets the same enemy as the first hit if there are no other valid targets.",
-            "The target of the second hit gets -44% mana generation for 4 turns."
+            "对目标及附近敌人造成 435% 伤害。",
+            "目标与附近敌人在 4 回合内受到共计 708 点流血伤害。所有盟友会吸收所造成流血伤害的 50% 并转化为生命值加成。",
+            "目标和附近敌人对新的增益状态效果免疫，持续 4 回合。"
         ]
     },
     {
         "originalIndex": 1349,
-        "name": "贾斯珀 (Jasper)",
+        "name": "荷鲁斯 (Horus)",
         "effects": [
-            "All allies regenerate 1428 HP over 6 turns.",
-            "All allies get +50% attack for 6 turns.",
-            "All allies get +50% critical chance for 6 turns.",
-            "The caster gets -5% mana generation for 4 turns. This effect can't be  cleansed."
+            "对目标及附近敌人造成 250% 伤害。",
+            "使目标和附近敌人在 3 回合内减少共计 450 点最大生命值。若目标拥有提高的生命值，此效果会增强。最大生命值不能低于初始最大生命值的 30%。任何提高的生命值会额外减少每回合 150 点。"
         ]
     },
     {
         "originalIndex": 1350,
-        "name": "贾斯珀 (Jasper) C1",
+        "name": "荷鲁斯 (Horus) C1",
         "effects": [
-            "All allies regenerate 1450 HP over 5 turns.",
-            "All allies get +60% attack for 5 turns.",
-            "All allies get +60% critical chance for 5 turns.",
-            "The caster gets -5% mana generation for 5 turns. This effect can’t be cleansed."
+            "对目标及附近敌人造成 230% 伤害。",
+            "使目标和附近敌人在 3 回合内减少共计 600 点最大生命值。若目标拥有提高的生命值，此效果会增强。最大生命值不能低于初始最大生命值的 30%。任何提高的生命值会额外减少每回合 200 点。"
         ]
     },
     {
         "originalIndex": 1351,
-        "name": "亚坤 (Jequn)",
+        "name": "伊贺 (Iga)",
         "effects": [
-            "Deals 200% damage to all enemies.",
-            "All Dark enemies get -34% accuracy for 3 turns. (Chance to miss also applies to offensive Special Skills.)",
-            "All Ice enemies get -34% defense for 3 turns.",
-            "All Nature enemies get -34% mana generation for 3 turns.",
-            "All Fire enemies get -34% attack for 3 turns."
+            "1 倍法力充能：",
+            "* 召唤苦无恶魔附身于目标。恶魔每回合对敌人造成 150% 攻击力的伤害。",
+            "* 苦无恶魔会吸收治疗。它在吸收了相当于其所有者最大生命值 45% 的治疗量后便会消失。",
+            "* 苦无恶魔会在 3 回合后爆炸，对目标造成 1850 点伤害。",
+            "2 倍法力充能：",
+            "* 召唤苦无恶魔附身于目标及附近敌人。恶魔每回合对敌人造成 175% 攻击力的伤害。",
+            "* 苦无恶魔会吸收治疗。它在吸收了相当于其所有者最大生命值 50% 的治疗量后便会消失。",
+            "* 苦无恶魔会在 3 回合后爆炸，对目标造成 2000 点伤害。",
+            "3 倍法力充能：",
+            "* 召唤苦无恶魔附身于所有敌人。恶魔每回合对敌人造成 200% 攻击力的伤害。",
+            "* 苦无恶魔会吸收治疗。它在吸收了相当于其所有者最大生命值 55% 的治疗量后便会消失。",
+            "* 苦无恶魔会在 3 回合后爆炸，对目标造成 2250 点伤害。"
         ]
     },
     {
         "originalIndex": 1352,
-        "name": "亚坤 (Jequn) C1",
+        "name": "稻荷 (Inari)",
         "effects": [
-            "Deals 210% damage to all enemies.",
-            "All Dark enemies get -39% accuracy for 3 turns. (Chance to miss also applies to offensive Special Skills.)",
-            "All Ice enemies get -39% defense for 3 turns.",
-            "All Nature enemies get -39% mana generation for 3 turns. (Affects only mana generated from matching tiles or mana gained by the defense team at the end of their turn.)",
-            "All Fire enemies get -39% attack for 3 turns."
+            "对所有敌人造成 180% 伤害。",
+            "所有盟友有 +56% 几率闪避特殊技能，持续 3 回合。每次闪避会召唤一名樱花狐狸小兵。",
+            "樱花狐狸小兵从施法者处继承了 8% 生命和 30% 攻击力。小兵可在每回合结束时为主人增加 7% 法力。"
         ]
     },
     {
         "originalIndex": 1353,
-        "name": "尤恩 (Joon)",
+        "name": "稻荷 (Inari) C1",
         "effects": [
-            "Deals 468% damage to the target.",
-            "The target gets -40% accuracy for 6 turns. Chance to miss also applies to offensive special skills."
+            "对所有敌人造成 210% 伤害。",
+            "为施法者和附近盟友召唤一个樱花狐狸小兵。樱花狐狸小兵从施法者处继承了 12% 生命和 30% 攻击力。该小兵可在每回合结束时为主人增加 7% 法力。",
+            "所有敌人获得 -40% 精准度，持续 3 回合。进攻型特殊技能也有相同几率落空。"
         ]
     },
     {
         "originalIndex": 1354,
-        "name": "尤恩 (Joon) C1",
+        "name": "铁锚 (Ironmaw)",
         "effects": [
-            "Deals 488% damage to the target.",
-            "The target gets -35% accuracy for 4 turns. Chance to miss also applies to offensive special skills."
+            "对目标和所有暗黑系敌人造成 500% 伤害。",
+            "所有敌人获得 -39% 法力生成，持续 4 回合。对暗黑系角色，此状态效果不可净化且持续时间延长 2 回合。",
+            "对暗黑系造成额外伤害。"
         ]
     },
     {
         "originalIndex": 1355,
-        "name": "尤恩 (Joon) C2",
+        "name": "伊塔尔 (Ithar)",
         "effects": [
-            "Deals 260% damage to target and nearby enemies.",
-            "The target and nearby enemies receive 195 Burn damage over 3 turns.",
-            "The target and nearby enemies get -35% accuracy for 3 turns. Chance to miss also applies to offensive Special Skills."
+            "偷取目标的全部可驱散增益并随机施放给盟友。",
+            "从目标身上窃取 35% 法力并平均分配到所有盟友身上。",
+            "所有盟友获得 +35% 攻击力，持续 2 回合。",
+            "元素链为全体神圣系盟友提供 +10% 的法力生成，持续 4 回合。此效果无法驱散。"
         ]
     },
     {
         "originalIndex": 1356,
-        "name": "尤恩 (Joon) 卡通",
+        "name": "嘉娜 (Jana)",
         "effects": [
-            "Deals 548% damage to the target.",
-            "The target gets -35% accuracy for 6 turns.",
-            "Deals extra damage against Dark."
+            "对目标造成 470% 伤害。",
+            "目标获得 -44% 防御，持续 4 回合。",
+            "对随机一个不同的敌人造成 470% 的伤害。如果没有其他有效目标，则此效果瞄准第一次击中的该名敌人。",
+            "遭到第二次攻击的目标获得 -44% 法力生成，持续 4 回合。"
         ]
     },
     {
         "originalIndex": 1357,
-        "name": "尤恩 (Joon) 玻璃",
+        "name": "贾斯珀 (Jasper)",
         "effects": [
-            "Deals 558% damage to the target.",
-            "The attack bypasses defensive buffs. (This includes counterattacks.)",
-            "The target gets -38% accuracy for 6 turns. (Chance to miss also applies to offensive Special Skills.)"
+            "所有盟友在 6 回合内恢复 1428 点生命值。",
+            "所有盟友获得 +50% 攻击力，持续 6 回合。",
+            "所有盟友获得 +50% 暴击几率，持续 6 回合。",
+            "施法者获得 -5% 法力生成，持续 4 回合。此效果无法净化。"
         ]
     },
     {
         "originalIndex": 1358,
-        "name": "朱庇特 (Jove)",
+        "name": "贾斯珀 (Jasper) C1",
         "effects": [
-            "Deals 450% damage to the target, and minor damage to all other enemies.",
-            "All enemies get -50% decrease for any healing received for 3 turns.",
-            "All enemies get -75% less mana from Special Skills for 3 turns."
+            "所有盟友在 5 回合内恢复 1450 点生命值。",
+            "所有盟友获得 +60% 攻击力，持续 5 回合。",
+            "所有盟友获得 +60% 暴击几率，持续 5 回合。",
+            "施法者获得 -5% 法力生成，持续 5 回合。此效果无法净化。"
         ]
     },
     {
         "originalIndex": 1359,
-        "name": "贾斯提斯 (Justice)",
+        "name": "亚坤 (Jequn)",
         "effects": [
-            "Deals 285% damage to all enemies",
-            "All enemies get -40% accuracy for 4 turns",
-            "Chance to miss also applies to offensive Special Skills"
+            "对所有敌人造成 200% 伤害。",
+            "所有暗黑系敌人获得 -34% 精准度，持续 3 回合。（进攻型特殊技能也有相同几率落空）",
+            "所有冰雪系敌人获得 -34% 防御，持续 3 回合。",
+            "所有自然系敌人获得 -34% 法力生成，持续 3 回合。",
+            "所有烈火系敌人获得 -34% 攻击力，持续 3 回合。"
         ]
     },
     {
         "originalIndex": 1360,
-        "name": "贾斯提斯 (Justice) C1",
+        "name": "亚坤 (Jequn) C1",
         "effects": [
-            "Deals 250% damage to all enemies",
-            "The damage is increased by 50% per each dead ally",
-            "The caster gets +24% mana generation for 3 turns"
+            "对所有敌人造成 210% 伤害。",
+            "所有暗黑系敌人获得 -39% 精准度，持续 3 回合。（进攻型特殊技能也有相同几率落空）",
+            "所有冰雪系敌人获得 -39% 防御，持续 3 回合。",
+            "所有自然系敌人获得 -39% 法力生成，持续 3 回合。（只影响通过消除方块或由防御队伍在其回合结束时获得的法力）",
+            "所有烈火系敌人获得 -39% 攻击力，持续 3 回合。"
         ]
     },
     {
         "originalIndex": 1361,
-        "name": "贾斯提斯 (Justice) C2",
+        "name": "尤恩 (Joon)",
         "effects": [
-            "Deals 300% damage to all enemies.",
-            "The damage is increased by 45% per each dead enemy.",
-            "All enemies get -40% accuracy for 3 turns. Chance to miss also applies to offensive Special Skills"
+            "对目标造成 468% 伤害。",
+            "目标获得 -40% 精准度，持续 6 回合。进攻型特殊技能也有相同几率落空。"
         ]
     },
     {
         "originalIndex": 1362,
-        "name": "贾斯提斯 (Justice) 卡通",
+        "name": "尤恩 (Joon) C1",
         "effects": [
-            "Deals 435% damage to all enemies.",
-            "All enemies get -30% accuracy for 4 turns. (Chance to miss also applies to offensive Special Skills.)",
-            "Deals extra damage against Dark."
+            "对目标造成 488% 伤害。",
+            "目标获得 -35% 精准度，持续 4 回合。进攻型特殊技能也有相同几率落空。"
         ]
     },
     {
         "originalIndex": 1363,
-        "name": "卡拉 (Kara)",
+        "name": "尤恩 (Joon) C2",
         "effects": [
-            "The caster gets Taunt that prevents enemies from using Special Skills on the caster's allies for 4 turns.",
-            "The caster gets +74% defense against special skills for 4 turns.",
-            "All allies except the caster get +34% attack fo 4 turns.",
-            "Element Link gives all Holy allies +10% defense for 4 turns. This effect can't be dispelled."
+            "对目标及附近敌人造成 260% 伤害。",
+            "目标与附近敌人在 3 回合内受到共计 195 点燃烧伤害。",
+            "目标与附近敌人获得 -35% 精准度，持续 3 回合。进攻型特殊技能也有相同几率落空。"
         ]
     },
     {
         "originalIndex": 1364,
-        "name": "古勒沃 (Kullervo)",
+        "name": "尤恩 (Joon) 卡通",
         "effects": [
-            "Deal 300% damage to the target.",
-            "Deals 470% damage to a random different enemy.",
-            "Enemies hit automatically cast Mindless Attack on a random ally when mana is full at the start of a turn during 3 turns. Against Dark characters, this status effect becomes uncleansable and lasts 2 turns longer."
+            "对目标造成 548% 伤害。",
+            "目标获得 -35% 精准度，持续 6 回合。",
+            "对暗黑系造成额外伤害。"
         ]
     },
     {
         "originalIndex": 1365,
-        "name": "古勒沃 (Kullervo) C1",
+        "name": "尤恩 (Joon) 玻璃",
         "effects": [
-            "Deals 450% damage to the target.",
-            "Deals 320% damage to a random different enemy.",
-            "Enemies hit automatically cast Mindless attack on a random ally when mana is full at the start of the turn during 4 turns. Against Dark characters, this status effect becomes uncleansable and lasts 1 turn longer."
+            "对目标造成 558% 伤害。",
+            "攻击会无视防御增益。（包括反击）",
+            "目标获得 -38% 精准度，持续 6 回合。（进攻型特殊技能也有相同几率落空）"
         ]
     },
     {
         "originalIndex": 1366,
-        "name": "公相君 (Kushanku)",
+        "name": "朱庇特 (Jove)",
         "effects": [
-            "Special Skill has a different effect when charged with 100%/200%/300% mana",
-            "1x Mana Charge",
-            "* Deals 280% damage to the target.",
-            "* The caster goes into hiding for 2 turns.",
-            "* While hidden, the caster can’t receive new status effects or stacks, and all received damage is reduced by -20%.",
-            "* When the caster comes out of hiding, they deal 227 damage to all enemies who use Special Skills while the caster was hiding.",
-            "* The target automatically casts Mindless Attack on a random ally when mana is full at the start of a turn during 2 turns.",
-            "2x Mana Charge",
-            "* Deals 370% damage to the target.",
-            "* The caster goes into hiding for 3 turns.",
-            "* While hidden, the caster can’t receive new status effects or stacks, and all received damage is reduced by -30%.",
-            "* When the caster comes out of hiding they deal 316 damage to all enemies who use Special Skills while the caster was hiding.",
-            "* The target automatically casts Mindless Attack on a random ally when mana is full at the start of a turn during 3 turns.",
-            "3x Mana Charge",
-            "* Deals 450% damage to the target.",
-            "* The caster goes into hiding for 4 turns.",
-            "* While hidden, the caster can’t receive new status effects or stacks, and all received damage is reduced by -40%.",
-            "* When the caster comes out of hiding they deal 348 damage to all enemies who use Special Skills while the caster was hiding.",
-            "* The target automatically casts Mindless Attack on a random ally when mana is full at the start of a turn during 4 turns."
+            "对目标造成 450% 伤害，并对其余敌人造成轻微伤害。",
+            "所有敌人获得的治疗减少 -50%，持续 3 回合。",
+            "所有敌人从特殊技能获得的法力减少 -75%，持续 3 回合。"
         ]
     },
     {
         "originalIndex": 1367,
-        "name": "兰度 (Lando)",
+        "name": "贾斯提斯 (Justice)",
         "effects": [
-            "All ailments affecting attack, defense and mana generation on all allies are replaced by matching uncleansable buffs. (Replacing cannot be blocked by status effects and passive. Only status effects that are dispellable or cleansable can be replaced. Replacement effects: Attack ailments are replaced with +40% attack buff for 4 turns. Defense ailments are replaced with +40% defense buff for 4 turns. Mana generation ailments are replaced with +40% mana generation buff for 4 turns.)",
-            "Cleanses status ailments for all allies.",
-            "Deals 400% damage to all enemies.",
-            "All allies deal 300-700 damage to a random enemy after 3 turns, based on the damage allies had taken while this effect was active. This effect is undispellable. (Maximum effect is achieved upon taking 50% of max health in damage.)"
+            "对所有敌人造成 285% 伤害。",
+            "所有敌人获得 -40% 精准度，持续 4 回合。",
+            "进攻型特殊技能也有相同几率落空。"
         ]
     },
     {
         "originalIndex": 1368,
-        "name": "老虎 (Laohu)",
+        "name": "贾斯提斯 (Justice) C1",
         "effects": [
-            "Deals 605% damage to the target.",
-            "Boosts the caster’s health by 50% of damage dealt."
+            "对所有敌人造成 250% 伤害。",
+            "每有一名盟友被击败，伤害增加 50%。",
+            "施法者获得 +24% 法力生成，持续 3 回合。"
         ]
     },
     {
         "originalIndex": 1369,
-        "name": "拉扎拉 (Lazara)",
+        "name": "贾斯提斯 (Justice) C2",
         "effects": [
-            "Cleanses status ailments from all allies without triggering secondary effects.",
-            "Deals 325% damage to all enemies.",
-            "All enemies get -50% decrease for any healing received for 4 turns.",
-            "All enemies can’t get their status ailments cleansed or reallocated by Special Skills for 4 turns. (This effect also prevents cleansing and reallocating of itself."
+            "对所有敌人造成 300% 伤害。",
+            "每有一个敌人被击败，伤害增加 45%。",
+            "所有敌人获得 -40% 精准度，持续 3 回合。进攻型特殊技能也有相同几率落空。"
         ]
     },
     {
         "originalIndex": 1370,
-        "name": "莱蒙伍德 (Lemonwood)",
+        "name": "贾斯提斯 (Justice) 卡通",
         "effects": [
-            "This Special Skill never misses its targets.",
-            "Deals 380% damage to the target.",
-            "Reduces the mana of the target by -20%.",
-            "If the target has more than 30% mana after mana reduction, the Special Skill repeats, targeting a random enemy. The damage is reduced on each consecutive hit."
+            "对所有敌人造成 435% 伤害。",
+            "所有敌人获得 -30% 精准度，持续 4 回合。（进攻型特殊技能也有相同几率落空）",
+            "对暗黑系造成额外伤害。"
         ]
     },
     {
         "originalIndex": 1371,
-        "name": "莱昂尼达斯 (Leonidas)",
+        "name": "卡拉 (Kara)",
         "effects": [
-            "Deals 415% damage to the target.",
-            "Reduces the mana of the target by 40%.",
-            "Heals the caster for 75% of damage dealt."
+            "施法者获得嘲讽，可阻止敌人对其盟友使用特殊技能，持续 4 回合。",
+            "施法者获得 +74% 特殊技能防御，持续 4 回合。",
+            "除施法者外的所有盟友获得 +34% 攻击，持续 4 回合。",
+            "元素链赋予所有神圣系盟友 +10% 的防御，持续 4 回合。此效果无法驱散。"
         ]
     },
     {
         "originalIndex": 1372,
-        "name": "莱昂尼达斯 (Leonidas) C1",
+        "name": "古勒沃 (Kullervo)",
         "effects": [
-            "Deals 390% damage to the target and minor damage to nearby enemies",
-            "The target and nearby enemies get -54% defense against Holy for 4 turns.",
-            "All Dark enemies get -34% attack for 4 turns"
+            "对目标造成 300% 伤害。",
+            "对随机一个不同的敌人造成 470% 伤害。",
+            "在 3 回合内，若命中的敌人在回合开始时法力满格，该敌人将自动对一名随机盟友施放莽夫乱拳。对暗黑系角色，此状态效果不可净化且持续时间延长 2 回合。"
         ]
     },
     {
         "originalIndex": 1373,
-        "name": "莱昂尼达斯 (Leonidas) C2",
+        "name": "古勒沃 (Kullervo) C1",
         "effects": [
-            "Deals 240% damage to all enemies.",
-            "Reduces the mana of all enemies by 10%.",
-            "All enemies get -34% defense for 3 turns. Against Dark characters, this status effect becomes uncleansable lasts 2 turn longer."
+            "对目标造成 450% 伤害。",
+            "对随机一个不同的敌人造成 320% 伤害。",
+            "在 4 回合内，若命中的敌人在回合开始时法力满格，该敌人将自动对一名随机盟友施放莽夫乱拳。对暗黑系角色，此状态效果不可净化且持续时间延长 1 回合。"
         ]
     },
     {
         "originalIndex": 1374,
-        "name": "莱昂尼达斯 (Leonidas) 卡通",
+        "name": "公相君 (Kushanku)",
         "effects": [
-            "Deals 565% damage to the target.",
-            "Reduces the mana of the target by 35%.",
-            "Heals the caster for 65% of damage dealt.",
-            "Deals extra damage against Dark."
+            "当特殊技能充能至 100% / 200% / 300% 法力时将拥有不同的效果：",
+            "1 倍法力充能：",
+            "* 对目标造成 280% 伤害。",
+            "* 施法者进入潜行状态，持续 2 回合。",
+            "* 潜行期间，施法者无法获得新的状态效果或叠加，且所受伤害减少 -20%。",
+            "* 施法者脱离潜行状态时，对所有在潜行期间使用特殊技能的敌人造成 227 点伤害。",
+            "* 在 2 回合内，若目标在回合开始时法力满格，该目标将自动对一名随机盟友施放莽夫乱拳。",
+            "2 倍法力充能：",
+            "* 对目标造成 370% 伤害。",
+            "* 施法者进入潜行状态，持续 3 回合。",
+            "* 潜行期间，施法者无法获得新的状态效果或叠加，且所受伤害减少 -30%。",
+            "* 施法者脱离潜行状态时，对所有在潜行期间使用特殊技能的敌人造成 316 点伤害。",
+            "* 在 3 回合内，若目标在回合开始时法力满格，该目标将自动对一名随机盟友施放莽夫乱拳。",
+            "3 倍法力充能：",
+            "* 对目标造成 450% 伤害。",
+            "* 施法者进入潜行状态，持续 4 回合。",
+            "* 潜行期间，施法者无法获得新的状态效果或叠加，且所受伤害减少 -40%。",
+            "* 施法者脱离潜行状态时，对所有在潜行期间使用特殊技能的敌人造成 348 点伤害。",
+            "* 在 4 回合内，若目标在回合开始时法力满格，该目标将自动对一名随机盟友施放莽夫乱拳。"
         ]
     },
     {
         "originalIndex": 1375,
-        "name": "莱昂尼达斯 (Leonidas) 玻璃",
+        "name": "兰度 (Lando)",
         "effects": [
-            "Deals 575% damage to the target.",
-            "The attack bypasses defensive buffs. (This includes counterattacks.)",
-            "Reduces the mana of the target by -38%.",
-            "Heals the caster for 70% of damage dealt."
+            "影响所有盟友的攻击、防御和法力生成的所有状态异常将转换为对应的不可驱散增益。（状态效果、家族效果和被动技能不能格挡转换。（替换效果无法被状态效果和被动技能阻挡。只有可驱散或可净化的状态效果才可被替换。替换效果：攻击力异常状态将被 +40% 攻击力增益取代，持续 4 回合。防御异常状态将被 +40% 防御增益取代，持续 4 回合。法力生成异常状态将被 +40% 法力生成增益取代，持续 4 回合）",
+            "净化所有盟友的状态异常。",
+            "对所有敌人造成 400% 伤害。",
+            "根据盟友在此效果期间的所受伤害，在 3 回合后所有盟友对一名随机敌人造成 300 -700 点伤害。此效果不可驱散。（受到的伤害值为最大生命值的 50% 时，即可达到最大伤害效果。）"
         ]
     },
     {
         "originalIndex": 1376,
-        "name": "利维娅 (Livia)",
+        "name": "老虎 (Laohu)",
         "effects": [
-            "Lifts all cleansable status ailments from the caster and nearby allies and randomly distributes them on enemies.",
-            "The caster and nearby allies get Moonrise Ward for 4 turns, that reduces incoming Special Skill damage by -1320. Reduces damage by additional 30% when attack is Holy.",
-            "The caster and nearby allies regenerate 1800 HP over 4 turns.",
-            "The caster and nearby allies reflect status ailments and negative stacks for 4 turns. Status effects cast by characters, Minions and Fiends on the same side cannot be reflected."
+            "对目标造成 605% 伤害。",
+            "为施法者提高相当于所造成伤害 50% 的生命值。"
         ]
     },
     {
         "originalIndex": 1377,
-        "name": "玛琳 (Malin)",
+        "name": "拉扎拉 (Lazara)",
         "effects": [
-            "Deals 325% damage to all enemies.",
-            "All enemies receive 364 Bleed damage over 4 turns. Against Dark characters, this status effect becomes uncleansable and lasts 2 turns longer.",
-            "All enemies get -75% decrease for any healing for 4 turns. Against Dark characters, this status effect becomes uncleansable and lasts 2 turns longer.",
-            "All enemies get -35% accuracy for 4 turns. Chance to miss applies to offensive Special Skills. Against Dark characters, this status effect becomes uncleansable and lasts 2 turns longer.",
-            "Deals extra damage against Dark."
+            "净化所有盟友的状态异常，且不触发次生效果。",
+            "对所有敌人造成 325% 伤害。",
+            "所有敌人获得的治疗减少 -50%，持续 4 回合。",
+            "所有敌人无法用特殊技能净化或转移其状态异常，持续 4 回合（此效果也阻止净化或转移其自身）。"
         ]
     },
     {
         "originalIndex": 1378,
-        "name": "马洛斯 (Malosi)",
+        "name": "莱蒙伍德 (Lemonwood)",
         "effects": [
-            "Deals 400% damage to the target.",
-            "The target cannot cast any new status effects on enemies or allies for 3 turns. This includes stacks. This only includes status effects cast with Special Skill.",
-            "Element Link gives all Holy allies +10% critical chance for 6 turns. This effect can't be cleansed."
+            "此特殊技能必定命中。",
+            "对目标造成 380% 伤害。",
+            "使目标的法力减少 -20%。",
+            "如果在法力减损后，目标的法力高于 30%，则会以一个随机敌人作为目标再次施放特殊技能。每下攻击的伤害都会递减。"
         ]
     },
     {
         "originalIndex": 1379,
-        "name": "玛蒂尔达 (Matilda)",
+        "name": "莱昂尼达斯 (Leonidas)",
         "effects": [
-            "All enemies receive 330 Poison damage over 3 turns.",
-            "Summons a Muffin Fiend for all enemies. The Fiend damages the enemy with 38% attack every turn.",
-            "The Muffin Fiend absorbs healing and disappears when it has absorbed health equal to 35% of its target’s max health.",
-            "Each hit from the Muffin Fiend has the following effects:",
-            " * The target takes +50% increased damage from status ailments for 3 turns.",
-            " * There is a 25% chance to refesh the duration of the status ailment with the least turns remaining."
+            "对目标造成 415% 伤害。",
+            "使目标的法力减少 40%。",
+            "为施法者恢复等同于所造成伤害 75% 的生命值。"
         ]
     },
     {
         "originalIndex": 1380,
-        "name": "梅 (May)",
+        "name": "莱昂尼达斯 (Leonidas) C1",
         "effects": [
-            "Growth: All allies get 150 attack and 150 defense.",
-            "Summon a Carrot Minion for each ally with 25% HP inherited from the caster.",
-            "When summoned, the Carrot Minion gives +20% mana generation for its owner for as long as the owner has Carrot Minions. This effect can’t be dispelled. (Affects only mana generated from matching tiles or mana gained by the defense team at the end of their turn.)",
-            "Elemental Link gives all Holy allies +30% defense against Special Skills for 4 turns. This effect can’t be dispelled."
+            "对目标造成 390% 伤害，并对附近敌人造成轻微伤害。",
+            "目标与附近敌人获得对神圣系 -54% 的防御，持续 4 回合。",
+            "所有暗黑系敌人获得 -34% 攻击力，持续 4 回合。"
         ]
     },
     {
         "originalIndex": 1381,
-        "name": "梅格·吉瑞 (Meg Giry)",
+        "name": "莱昂尼达斯 (Leonidas) C2",
         "effects": [
-            "Recovers 60% health for all allies.",
-            "Cleanses the latest status ailments from all allies and gives to a random target in the enemy team.",
-            "All active status ailments are uncleansable for all enemies for the remaining turns of the status ailment.",
-            "All allies get +60% defense for 4 turns."
+            "对所有敌人造成 240% 伤害。",
+            "使所有敌人的法力减少 10%。",
+            "所有敌人获得 -34% 防御，持续 3 回合。对暗黑系角色，此状态效果不可净化且持续时间延长 2 回合。"
         ]
     },
     {
         "originalIndex": 1382,
-        "name": "仙乐缪斯 (Melodymuse)",
+        "name": "莱昂尼达斯 (Leonidas) 卡通",
         "effects": [
-            "Boosts health of all allies by 710. Boosted health can exceed max HP.",
-            "All allies are immune to new status ailments for 4 turns."
+            "对目标造成 565% 伤害。",
+            "使目标的法力减少 35%。",
+            "为施法者恢复等同于所造成伤害 65% 的生命值。",
+            "对暗黑系造成额外伤害。"
         ]
     },
     {
         "originalIndex": 1383,
-        "name": "美勒桑克 (Meresankh)",
+        "name": "莱昂尼达斯 (Leonidas) 玻璃",
         "effects": [
-            "Deals 130% damage to all enemies.",
-            "The more mana the enemies have,the more damage they will receive,up to 250%",
-            "Reduces the mana of all enemies by 20%.",
-            "All enemies get -14% mana generation for 3 turns."
+            "对目标造成 575% 伤害。",
+            "攻击会无视防御增益。（包括反击）",
+            "使目标的法力减少 -38%。",
+            "为施法者恢复等同于所造成伤害 70% 的生命值。"
         ]
     },
     {
         "originalIndex": 1384,
-        "name": "美勒桑克 (Meresankh) C1",
+        "name": "利维娅 (Livia)",
         "effects": [
-            "Deals 180% damage to all enemies.",
-            "The more mana the enemies have, the more damage they will receive, up to 300%.",
-            "Reduces the mana of all enemies by 15%.",
-            "All enemies get -10% mana generation for 3 turns."
+            "解除施法者和附近盟友的全部可净化状态异常并随机施放给敌人。",
+            "施法者和附近盟友获得一个月出守卫，持续 4 回合，它可使所受的特殊技能伤害降低最多 -1320 点。当攻击者为神圣系元素时可额外降低 30% 的伤害。",
+            "施法者和附近盟友在 4 回合内恢复 1800 点生命值。",
+            "施法者和附近盟友可反弹状态异常和负面效果叠加，持续 4 回合。同队角色、小兵和恶魔施放的状态效果无法反弹。"
         ]
     },
     {
         "originalIndex": 1385,
-        "name": "云母 (Mica)",
+        "name": "玛琳 (Malin)",
         "effects": [
-            "1x Mana Charge",
-            " * All allies become Soul Connected for 2 turns. Soul Connected allies share received damage.",
-            " * All allies get +25% defense for 2 turns",
-            " * All allies get +24% mana generation for 2 turns",
-            "2x Mana Charge",
-            " * All allies become Soul Connected for 4 turns. Soul Connected allies share received damage.",
-            " * All allies get +50% defense for 4 turns",
-            " * All allies get +33% mana generation for 4 turns",
-            "3x Mana Charge",
-            " * All allies become Soul Connected for 5 turns. Soul Connected allies share received damage.",
-            " * All allies get +73% defense for 5 turns",
-            " * All allies get +38% mana generation for 5 turns"
+            "对所有敌人造成 325% 伤害。",
+            "所有敌人在 4 回合内受到共计 364 点流血伤害。对暗黑系角色，此状态效果不可净化且持续时间延长 2 回合。",
+            "所有敌人获得的治疗减少 -75%，持续 4 回合。对暗黑系角色，此状态效果不可净化且持续时间延长 2 回合。",
+            "所有敌人获得 -35% 精准度，持续 4 回合。进攻型特殊技能也有相同几率落空。对暗黑系角色，此状态效果不可净化且持续时间延长 2 回合。",
+            "对暗黑系造成额外伤害。"
         ]
     },
     {
         "originalIndex": 1386,
-        "name": "月之钟 (Moonbell)",
+        "name": "马洛斯 (Malosi)",
         "effects": [
-            "Summons an Astral Sphere Minion for each ally with 35% HP and 39% attack inherited from the caster.",
-            "When summoned, the Astral Sphere Minion gives +33% mana generation for its owner for as long as the owner has Astral Sphere Minions. This effect can’t be dispelled. (Affects only mana generated from matching tiles or mana gained by the defense team at the end of their turn.)",
-            "All allies reduce all received damage by -43% for 4 turns.",
-            "All allies’ normal attacks and Special Skills deal +100% damage against targets with boosted health for 4 turns."
+            "对目标造成 400% 伤害。",
+            "目标无法对敌人或盟友施放任何新的状态效果，持续 3 回合。包括叠加。此效果只对通过特殊技能施放的状态效果有效。",
+            "元素链为全体神圣系盟友提供 +10% 的暴击几率，持续 6 回合。此效果无法净化。"
         ]
     },
     {
         "originalIndex": 1387,
-        "name": "莫泰加 (Motega)",
+        "name": "玛蒂尔达 (Matilda)",
         "effects": [
-            "Special Skill has a different effect when charged with 100%/200% mana:",
-            "1x Mana Charge:",
-            " * Summons a Butterfly Minion for each ally with 14% HP and 20% attack inherited from the caster.",
-            "* Each hit from a Butterfly Minion Gives the target the following status ailment:",
-            " *** +20% increase to all received damage for 3 turns.",
-            "2x Mana Charge:",
-            " * Summons a Butterfly Fiend for all enemies. The Fiend damages the enemy with 43% attack every turn.",
-            " * The Butterfly Fiend absorbs healing and disappears when it has absorbed health equal to 50% of it's owner's max health.",
-            " * When summoned, the Butterfly Fiend gives -50% accuracy for its target for as long as the owner has Butterfly Fiends. This effect can't be cleansed. Chance to miss also applies to offensive Special Skills."
+            "所有敌人在 3 回合内受到共计 330 点剧毒伤害。",
+            "召唤松糕恶魔附身于所有敌人。恶魔每回合对敌人造成 38% 攻击力的伤害。",
+            "松糕恶魔会吸收治疗。它在吸收了相当于其目标最大生命值 35% 的治疗量后便会消失。",
+            "松糕恶魔每次击中目标都有以下效果：",
+            "* 目标从状态异常受到的伤害增加 +50%，持续 3 回合。",
+            "* 有 25% 几率刷新剩余回合最少的状态异常持续时间。"
         ]
     },
     {
         "originalIndex": 1388,
-        "name": "武藏 (Musashi)",
+        "name": "梅 (May)",
         "effects": [
-            "Deals 362% damage to the target and minor damage to nearby enemies",
-            "The caster heals 50% of dealt normal damage for 5 turns.",
-            "Elemental Link gives all Holy allies +15% attack and +15% defense for 6 turns. This effect can’t be displelled."
+            "成长：所有盟友获得 150 点攻击力和 150 点防御。",
+            "为每个盟友召唤一个胡萝卜小兵，其可从施法者处继承 25% 生命值。",
+            "胡萝卜小兵被召唤后，只要其所有者拥有胡萝卜小兵，其所有者就会获得 +20% 法力生成。此效果无法驱散。（只影响通过消除方块或由防御队伍在其回合结束时获得的法力）",
+            "元素链为全体神圣系盟友提供针对特殊技能的 +30% 防御，持续 4 回合。此效果无法驱散。"
         ]
     },
     {
         "originalIndex": 1389,
-        "name": "武藏 (Musashi) C1",
+        "name": "梅格·吉瑞 (Meg Giry)",
         "effects": [
-            "Deals 350% damage to the target and minor damage to nearby enemies.",
-            "The caster heals 75% of dealt normal damage for 5 turns.",
-            "Elemental Link gives all Holy allies +15% attack and +15% defense for 6 turns. This effect can’t be dispelled."
+            "为所有盟友恢复 60% 生命值。",
+            "净化所有盟友身上最新施加的状态异常并将其施加于敌方战队的一名随机目标身上。",
+            "该状态异常持续期间，所有敌人身上的状态异常都无法被净化。",
+            "所有盟友获得 +60% 防御，持续 4 回合。"
         ]
     },
     {
         "originalIndex": 1390,
-        "name": "奈斯 (Neith)",
+        "name": "仙乐缪斯 (Melodymuse)",
         "effects": [
-            "Deals 200% damage to all enemies",
-            "Reduces the mana of all enemies by 20%.",
-            "All enemies get -35% accuracy for 4 turns. Chance to miss also applies to offensive Special Skills",
-            "Elemental link gives +4% mana generation for all Holy allies for 4 turns. This effect cannot be dispelled."
+            "提高所有盟友 710 点生命值。提高的生命值可以超过最大生命值。",
+            "所有盟友对新的状态异常免疫，持续 4 回合。"
         ]
     },
     {
         "originalIndex": 1391,
-        "name": "涅墨西斯 (Nemesis)",
+        "name": "美勒桑克 (Meresankh)",
         "effects": [
-            "Special Skill has a different effect when charged with 100% / 200% / 300% mana:",
-            "1x Mana Charge:",
-            "* Deals 500% damage to the target.",
-            "* For 3 turns each time an enemy’s mana is increased by a Special Skill, status effect, level property, passive skill, family effect or minion, they receive 250 damage.",
-            "2x Mana Charge:",
-            "* Deals 640% damage to the target.",
-            "* All enemies are immune to new status effect buffs. Attempted mana generation buffs will be replaced by -34% mana generation for 3 turns.",
-            "3x Mana Charge:",
-            "* Deals 680% damage to the target.",
-            "* All enemies are immune to new status effect buffs. Attempted mana generation buffs will be replaced by -34% mana generation for 3 turns.",
-            "* For 3 turns each time an enemy’s mana is increased by a Special Skill, status effect, level property, passive skill, family effect or minion, they receive 250 damage."
+            "对所有敌人造成 130% 伤害。",
+            "敌人的法力越高，受到的伤害越大，最高可达 250%。",
+            "使所有敌人的法力减少 20%。",
+            "所有敌人获得 -14% 法力生成，持续 3 回合。"
         ]
     },
     {
         "originalIndex": 1392,
-        "name": "恶怨妖灵 (Nithgaest)",
+        "name": "美勒桑克 (Meresankh) C1",
         "effects": [
-            "Deals 310% damage to the target and nearby enemies.",
-            "The caster and nearby allies counterattack with 140% of the damage received for 4 turns.",
-            "Caster and nearby allies get Burning Touch for 4 turns. (Burning Touch: Each time the owner of this status effect counterattacks an enemy, the attacker receives 432 Burn damage over 4 turns.)"
+            "对所有敌人造成 180% 伤害。",
+            "敌人的法力越高，受到的伤害越大，最高可达 300%。",
+            "使所有敌人的法力减少 15%。",
+            "所有敌人获得 -10% 法力生成，持续 3 回合。"
         ]
     },
     {
         "originalIndex": 1393,
-        "name": "诺伦三女神 (Norns)",
+        "name": "云母 (Mica)",
         "effects": [
-            "Deals 280% damage to the target and nearby enemies.",
-            "The target and nearby enemies become weak against the element they are strong against for 5 turns. They stay weak against the element they are normally weak against."
+            "1 倍法力充能：",
+            "* 所有盟友变得灵魂相连，持续 2 回合。灵魂相连的盟友将平摊所受伤害。",
+            "* 所有盟友获得 +25% 防御，持续 2 回合。",
+            "* 所有盟友获得 +24% 法力生成，持续 2 回合。",
+            "2 倍法力充能：",
+            "* 所有盟友变得灵魂相连，持续 4 回合。灵魂相连的盟友将平摊所受伤害。",
+            "* 所有盟友获得 +50% 防御，持续 4 回合。",
+            "* 所有盟友获得 +33% 法力生成，持续 4 回合。",
+            "3 倍法力充能：",
+            "* 所有盟友变得灵魂相连，持续 5 回合。灵魂相连的盟友将平摊所受伤害。",
+            "* 所有盟友获得 +73% 防御，持续 5 回合。",
+            "* 所有盟友获得 +38% 法力生成，持续 5 回合。"
         ]
     },
     {
         "originalIndex": 1394,
-        "name": "诺伦三女神 (Norns) C1",
+        "name": "月之钟 (Moonbell)",
         "effects": [
-            "Deals 300% damage to the target and nearby enemies.",
-            "The target and nearby enemies become weak against the element they are strong against for 6 turns. They stay weak against the element they are normally weak against."
+            "为每位盟友召唤一个星界小兵，其可从施法者处继承 35% 生命和 39% 攻击力。",
+            "星界小兵被召唤后，只要其所有者拥有星界小兵，其所有者就会获得 +33% 法力生成。此效果无法驱散。（只影响通过消除方块或由防御队伍在其回合结束时获得的法力）",
+            "所有盟友受到的所有伤害减少 -43%，持续 4 回合。",
+            "所有盟友的普通攻击和特殊技能可对拥有生命加成的目标造成 +100% 伤害，持续 4 回合。"
         ]
     },
     {
         "originalIndex": 1395,
-        "name": "奥丁 (Odin)",
+        "name": "莫泰加 (Motega)",
         "effects": [
-            "Deals 100% damage to all enemies.",
-            "Deals additional 18% damage per each Holy shield on the board, up to 244% damage in total",
-            "All allies get +8% mana generation, and a further 2% increase per each Holy shield on the board for 3 turns, up to +28% mana generation"
+            "当特殊技能充能至 100% / 200% 法力时将拥有不同的效果：",
+            "1 倍法力充能：",
+            "* 为每位盟友召唤一个蝴蝶小兵，其可从施法者处继承 14% 生命和 20% 攻击力。",
+            "* 蝴蝶小兵每次击中目标都会给予目标以下状态异常：",
+            "*** 受到的所有伤害增加 +20%，持续 3 回合。",
+            "2 倍法力充能：",
+            "* 召唤蝴蝶恶魔附身于所有敌人。恶魔每回合对敌人造成 43% 攻击力的伤害。",
+            "* 蝴蝶恶魔会吸收治疗。它在吸收了相当于其所有者最大生命值 50% 的治疗量后便会消失。",
+            "* 蝴蝶恶魔被召唤后，只要其所有者拥有蝴蝶恶魔，其所有者就会获得 -50% 精准度。此效果无法净化。进攻型特殊技能也有相同几率落空。"
         ]
     },
     {
         "originalIndex": 1396,
-        "name": "奥丁 (Odin) C1",
+        "name": "勒明盖宁之母 (Mother Lemminkainen)",
         "effects": [
-            "Deals 90% damage to all enemies.",
-            "Deals additional 25% damage per each Holy shield on the board, up to 290% damage in total",
-            "All allies get +8% mana generation, and a further 3% increase per each Holy shield on the board for 3 turns, up to +38% mana generation"
+            "每名被击败的盟友有 60% 的几率以 20% 的生命值复活。",
+            "所有盟友在 4 回合内获得共计 1080 点生命加成。提高的生命值可以超过最大生命值。",
+            "所有敌人对特殊技能 -50% 的防御，持续 4 回合此状态效果施加于暗黑系角色身上时，将变得不可净化，并会额外持续 2 回合。"
         ]
     },
     {
         "originalIndex": 1397,
-        "name": "欧吉马 (Ogima)",
+        "name": "武藏 (Musashi)",
         "effects": [
-            "Destroys all Minions for all enemies and damages all Mega Minions.",
-            "Deals 275% damage to all enemies.",
-            "Deals additional 30% damage to all enemies for each Minion destroyed.",
-            "Stack (Max: 10): All enemies get -7% mana generation for each destroyed Minion."
+            "对目标造成 362% 伤害，并对附近敌人造成轻微伤害。",
+            "施法者恢复相当于所造成普通伤害 50% 的生命值，持续 5 回合。",
+            "元素链为全体神圣系盟友提供 +15% 的攻击和 +15% 的防御，持续 6 回合。此效果无法驱散。"
         ]
     },
     {
         "originalIndex": 1398,
-        "name": "奥纳特而 (Onatel)",
+        "name": "武藏 (Musashi) C1",
         "effects": [
-            "Deals 330% damage to the target and nearby enemies",
-            "The caster steals generated mana of the target and the nearby enemies over 4 turns starting low and increasing every turn until on the last turn all the generated mana is stolen. This effect can't be cleansed, but gets removed if the caster dies.",
-            "Element Link recovers 4% health for all Holy allies for 6 turns. This effect can't be cleansed"
+            "对目标造成 350% 伤害，并对附近敌人造成轻微伤害。",
+            "施法者恢复相当于所造成普通伤害 75% 的生命值，持续 5 回合。",
+            "元素链为全体神圣系盟友提供 +15% 的攻击和 +15% 的防御，持续 6 回合。此效果无法驱散。"
         ]
     },
     {
         "originalIndex": 1399,
-        "name": "帕普罗斯 (Papyros)",
+        "name": "奈斯 (Neith)",
         "effects": [
-            "Sand Golem Minion has 14% HP and 18% attack inherited from the caster. Each time the Sand Golem Minion is attacked by normal attacks or Special Skills, the attacker receives 294 Sand damage over 3 turns.",
-            "All allies get +30% defense for 3 turns."
+            "对所有敌人造成 200% 伤害。",
+            "使所有敌人的法力减少 20%。",
+            "所有敌人获得 -35% 精准度，持续 4 回合。进攻型特殊技能也有相同几率落空。",
+            "元素链为全体神圣系盟友提供 +4% 的法力生成，持续 4 回合。此效果无法驱散。"
         ]
     },
     {
         "originalIndex": 1400,
-        "name": "帕普罗斯 (Papyros) C1",
+        "name": "涅墨西斯 (Nemesis)",
         "effects": [
-            "Summons a Sand Golem Minion for each ally with 20% HP and 25% attack inherited from the caster.",
-            "Each time the Sand Golem Minion is attacked by normal attacks or Special Skills, the attacker receives 411 Sand damage over 3 turns.",
-            "All allies get +40% defense for 3 turns."
+            "当特殊技能充能至 100% / 200% / 300% 法力时将拥有不同的效果：",
+            "1 倍法力充能：",
+            "* 对目标造成 500% 伤害。",
+            "* 每当敌人通过特殊技能、状态效果、关卡属性、被动技能、家族效果或小兵而获得法力时，该敌人将受到 250 点伤害，此效果持续 3 回合。",
+            "2 倍法力充能：",
+            "* 对目标造成 640% 伤害。",
+            "* 所有敌人对新的增益状态效果免疫。每当有法力生成增益尝试施加于其上，该效果将会改为 -34% 法力生成，持续 3 回合。",
+            "3 倍法力充能：",
+            "* 对目标造成 680% 伤害。",
+            "* 所有敌人对新的增益状态效果免疫。每当有法力生成增益尝试施加于其上，该效果将会改为 -34% 法力生成，持续 3 回合。",
+            "* 每当敌人通过特殊技能、状态效果、关卡属性、被动技能、家族效果或小兵而获得法力时，该敌人将受到 250 点伤害，此效果持续 3 回合。"
         ]
     },
     {
         "originalIndex": 1401,
-        "name": "佩诺利特 (Penolite)",
+        "name": "恶怨妖灵 (Nithgaest)",
         "effects": [
-            "Deals 245% damage to all enemies.",
-            "Deals 490% damage against Minion and Fiend Summoners.",
-            "All enemies get -50% decrease for any healing received for 4 turns."
+            "对目标及附近敌人造成 310% 伤害。",
+            "施法者和附近盟友以所受伤害的 140% 进行反击，持续 4 回合。",
+            "施法者和附近的盟友会获得飞沙之触，持续 4 回合。（飞沙之触：拥有此状态效果的角色每次反击敌人时，攻击者将在 4 回合内受到共计 432 点沙系伤害）"
         ]
     },
     {
         "originalIndex": 1402,
-        "name": "波莎 (Persa)",
+        "name": "诺伦三女神 (Norns)",
         "effects": [
-            "Special Skill need consecutive uses to reach full power, the following order:",
-            "1st:",
-            " * Steals all dispellable buffs from the target and randomly distributes them on allies.",
-            " * Deals 455% damage to the target.",
-            " * The target receives Spreading Corrosive Poison for 4 turns. The Spreading Corrosive Poison deals 290 Poison damage and lowers the target’s mana generation by -15% each turn. Deals extra damage against heroes with Minions or Mega Minions. This effect spreads to nearby enemies. (Affects only mana gained from matching tiles or mana gained by the defense team at the of their turn.)",
-            "2nd:",
-            " * Steals all dispellable buffs from the target and randomly distributes them on allies.",
-            " * Deals 490% damage to the target.",
-            " * The target receives Spreading Corrosive Poison for 4 turns. The Spreading Corrosive Poison deals 328 Poison damage and lowers the target’s mana generation by -20% each turn. Deals extra damage against heroes with Minions or Mega Minions. This effect spreads to nearby enemies. (Affects only mana gained from matching tiles or mana gained by the defense team at the of their turn.)"
+            "对目标及附近敌人造成 280% 伤害。",
+            "目标与附近敌人将被原本自身所克制的元素克制，持续 5 回合。而对原本就克制自己的元素依旧保持弱势。"
         ]
     },
     {
         "originalIndex": 1403,
-        "name": "波莎 (Persa) C1",
+        "name": "诺伦三女神 (Norns) C1",
         "effects": [
-            "Special Skill need consecutive uses to reach full power, the following order:",
-            "1st:",
-            " * Steals all dispellable buffs from the target and randomly distributes them on allies.",
-            " * Deals 450% damage to the target.",
-            " * The target receives Spreading Corrosive Poison for 4 turns. The Spreading Corrosive Poison deals 297 Poison damage and lowers the target’s mana generation by -10% each turn. Deals extra damage against heroes with Minions or Mega Minions. This effect spreads to nearby enemies. (Affects only mana gained from matching tiles or mana gained by the defense team at the of their turn.)",
-            "2nd:",
-            " * Steals all dispellable buffs from the target and randomly distributes them on allies.",
-            " * Deals 515% damage to the target.",
-            " * The target receives Spreading Corrosive Poison for 4 turns. The Spreading Corrosive Poison deals 549 Poison damage and lowers the target’s mana generation by -25% each turn. Deals extra damage against heroes with Minions or Mega Minions. This effect spreads to nearby enemies.(Affects only mana gained from matching tiles or mana gained by the defense team at the of their turn.)"
+            "对目标及附近敌人造成 300% 伤害。",
+            "目标与附近敌人将被原本自身所克制的元素克制，持续 6 回合。而对原本就克制自己的元素依旧保持弱势。"
         ]
     },
     {
         "originalIndex": 1404,
-        "name": "佩蒂纳克斯 (Pertinax)",
+        "name": "奥丁 (Odin)",
         "effects": [
-            "Attacks the target and nearby enemies with Moonrise Strike, dealing up to 1620 damage. Deals 40% more damage if the target of the Holy element. This Special Skill Never misses its targets",
-            "Summon Owlkyrie Minion for the caster and nearby allies. The minion inherits 25% HP and 45% attack from the caster.",
-            "If the Owlkyrie Minion is defeated, Full Removal is cast on the attacker (Full Removal removes all status effects, stack, Growth and Wither effects. Removes even status effects and stacks that are otherwise undispellable or uncleansable.).",
-            "After the Full Removal is cast, the attacker shifts into Owlhalla Ghost form for 3 turns.",
-            "While in Owlhalla the target receives 360 damage each turn. (While in Ghost form, Character can’t gain mana and can’t be healed by Special Skills, but is immune to normal attack, Special Skill attacks, damage dealing passives, status effects and stacks. Immune to new Growth and Wither effects. Can’t be cast if there is only one enemy left in the battle.)"
+            "对所有敌人造成 100% 伤害。",
+            "面板上每存在一个神圣系盾牌，便造成额外 18% 伤害，最多累计造成 244% 伤害。",
+            "所有盟友获得 +8% 法力生成，且面板中每个神圣系盾牌额外提升 2% 法力生成，持续 3 回合，最多累计至 +28% 法力生成。"
         ]
     },
     {
         "originalIndex": 1405,
-        "name": "菲洛梅娜 (Philomena)",
+        "name": "奥丁 (Odin) C1",
         "effects": [
-            "Deals 500% damage to the target and minor damage to nearby enemies.",
-            "Enhanced Defense Ailment: The target and nearby enemies get -50% defense against Special Skills. This effect lasts until the enemy takes damage from a Special Skill once.",
-            "After the Enhanced Defense Ailments ends or is removed or replaced, the enemy falls asleep and receives +70% increased damage while sleeping. (A sleeping character cannot gain mana or attack. The sleeping target is woken once it takes damage. This excludes damage from Minions, Fiends, Mega Minions and Mega Fiends. This effect is uncleansable.)"
+            "对所有敌人造成 90% 伤害。",
+            "面板上每存在一个神圣系盾牌，便造成额外 25% 伤害，最多累计造成 290% 伤害。",
+            "所有盟友获得 +8% 法力生成，且面板中每个神圣系盾牌额外提升 3% 法力生成，持续 3 回合，最多累计至 +38% 法力生成。"
         ]
     },
     {
         "originalIndex": 1406,
-        "name": "波塞冬 (Poseidon)",
+        "name": "欧吉马 (Ogima)",
         "effects": [
-            "Deals 450% damage to the target.",
-            "All allies resist new negative mana effects for 3 turns.",
-            "All allies resist new effects that block usage of Special Skills for 3 turns."
+            "摧毁全部敌人的全部小兵并对所有巨大体型小兵造成伤害。",
+            "对所有敌人造成 275% 伤害。",
+            "每摧毁一名小兵，对所有敌人造成额外 30% 伤害。",
+            "叠加（最多 10 层）：每摧毁一名小兵，所有敌人获得 -7% 法力生成。"
         ]
     },
     {
         "originalIndex": 1407,
-        "name": "波塞冬 (Poseidon) C1",
+        "name": "奥纳特而 (Onatel)",
         "effects": [
-            "Deals 480% damage to the target.",
-            "All allies are immune to new status ailments for 3 turns."
+            "对目标及附近敌人造成 330% 伤害。",
+            "施法者在 4 回合内偷取目标与附近敌人生成的法力，一开始偷取量较少，每个回合逐渐增加，直到最后一回合将偷取所有生成的法力。此效果不可净化，但会在施法者被击败后移除。",
+            "元素链为全体神圣系盟友提供 4% 的生命恢复，持续 6 回合。此效果无法净化。"
         ]
     },
     {
         "originalIndex": 1408,
-        "name": "黎登布洛克教授 (Prof. Lidenbrock)",
+        "name": "帕普罗斯 (Papyros)",
         "effects": [
-            "Cleanses status ailments from all allies.",
-            "Boosts health of all allies by 200. Boosted health can exceed max HP.",
-            "All allies regenerate 600 boosted health over 4 turns. Boosted health can exceed max HP. The effect duration is reset if the target receives status ailments."
+            "沙魔像小兵可从施法者处继承 14% 生命和 18% 攻击力。沙魔像小兵每次受到普通攻击或特殊技能攻击时，攻击者将在 3 回合内受到共计 294 点沙系伤害。",
+            "所有盟友获得 +30% 防御，持续 3 回合。"
         ]
     },
     {
         "originalIndex": 1409,
-        "name": "黎登布洛克教授 (Prof. Lidenbrock) C1",
+        "name": "帕普罗斯 (Papyros) C1",
         "effects": [
-            "Cleanses status ailments from all allies.",
-            "Boosts health of all allies by 500. Boosted health can exceed max HP.",
-            "All allies regenerate 400 boosted health over 4 turns. Boosted health can exceed max HP. The effect duration is reset if the target receives status ailments."
+            "为每位盟友召唤一个沙魔像小兵，其可从施法者处继承 20% 生命和 25% 攻击力。",
+            "沙魔像小兵每次受到普通攻击或特殊技能攻击时，攻击者将在 3 回合内受到共计 411 点沙系伤害。",
+            "所有盟友获得 +40% 防御，持续 3 回合。"
         ]
     },
     {
         "originalIndex": 1410,
-        "name": "郭王后 (Queen Guowang)",
+        "name": "佩诺利特 (Penolite)",
         "effects": [
-            "Deals 330% damage to all enemies.",
-            "All allies get +10% mana every time an enemy uses their Special Skill during 4 turns. Mana is received at the end of a Special Skill. Mana will not be received if this status effect is removed during a Special Skill",
-            "The caster gets Vengeance for 4 turns. If Vengeance is dispelled by an enemy’s Special Skill, all enemies receive 525 damage."
+            "对所有敌人造成 245% 伤害。",
+            "对小兵和恶魔召唤者造成 490% 的伤害。",
+            "所有敌人获得的治疗减少 -50%，持续 4 回合。"
         ]
     },
     {
         "originalIndex": 1411,
-        "name": "拉娜 (Rana)",
+        "name": "波莎 (Persa)",
         "effects": [
-            "Deals 185% damage to the target and nearby enemies.",
-            "The target and nearby enemies receive 423 damage over 3 turns.",
-            "The target and nearby enemies get -75% increase for any healing received for 2 turns. This effect can't be cleansed.",
-            "Cleanses status ailments from the caster."
+            "必须连续使用特殊技能才能达到其最大威力，顺序为：",
+            "第一次：",
+            "* 偷取目标的全部可驱散增益并随机施放给盟友。",
+            "* 对目标造成 455% 伤害。",
+            "* 目标受到蔓延腐蚀性毒伤，持续 4 回合。蔓延腐蚀性毒伤每回合造成 290 点剧毒伤害，并且使目标的法力生成降低 -15%。对拥有小兵和超级小兵的英雄造成额外伤害。此效果会蔓延至附近敌人。（只影响通过消除方块或由防御队伍在其回合结束时获得的法力）",
+            "第二次：",
+            "* 偷取目标的全部可驱散增益并随机施放给盟友。",
+            "* 对目标造成 490% 伤害。",
+            "* 目标受到蔓延腐蚀性毒伤，持续 4 回合。蔓延腐蚀性毒伤每回合造成 328 点剧毒伤害，并且使目标的法力生成降低 -20%。对拥有小兵和超级小兵的英雄造成额外伤害。此效果会蔓延至附近敌人。（只影响通过消除方块或由防御队伍在其回合结束时获得的法力）"
         ]
     },
     {
         "originalIndex": 1412,
-        "name": "拉娜 (Rana) C1",
+        "name": "波莎 (Persa) C1",
         "effects": [
-            "Deals 185% damage to the target and nearby enemies.",
-            "The target and nearby enemies receive 692 Water damage over 4 turns",
-            "The target and nearby enemies get -75% decrease for any healing received for 4 turns. This effect can't be cleansed.",
-            "Cleanses status ailments from the caster and nearby allies."
+            "必须连续使用特殊技能才能达到其最大威力，顺序为：",
+            "第一次：",
+            "* 偷取目标的全部可驱散增益并随机施放给盟友。",
+            "* 对目标造成 450% 伤害。",
+            "* 目标受到蔓延腐蚀性毒伤，持续 4 回合。蔓延腐蚀性毒伤每回合造成 297 点剧毒伤害，并且使目标的法力生成降低 -10%。对拥有小兵和超级小兵的英雄造成额外伤害。此效果会蔓延至附近敌人。（只影响通过消除方块或由防御队伍在其回合结束时获得的法力）",
+            "第二次：",
+            "* 偷取目标的全部可驱散增益并随机施放给盟友。",
+            "* 对目标造成 515% 伤害。",
+            "* 目标受到蔓延腐蚀性毒伤，持续 4 回合。蔓延腐蚀性毒伤每回合造成 549 点剧毒伤害，并且使目标的法力生成降低 -25%。对拥有小兵和超级小兵的英雄造成额外伤害。此效果会蔓延至附近敌人。（只影响通过消除方块或由防御队伍在其回合结束时获得的法力）"
         ]
     },
     {
         "originalIndex": 1413,
-        "name": "兰威尔 (Ranvir)",
+        "name": "佩蒂纳克斯 (Pertinax)",
         "effects": [
-            "Deals 265% damage to the target.",
-            "All allies get +195% attack and -35% accuracy that only applies when the enemy has more health than the attacker. The effect lasts for 5 turns.",
-            "Element Link gives all Holy allies +46% defense against Dark for 4 turns. This effect can't be dispelled."
+            "使用月出闪袭攻击目标和附近敌人，造成最多 1620 点伤害。若目标为神圣系元素则额外造成 40% 伤害。该特殊技能必定命中。",
+            "为施法者和附近盟友召唤一个猫头鹰武神小兵。该小兵可从施法者处继承 25% 生命值和 45% 攻击力。",
+            "若猫头鹰武神小兵被击败，对攻击者释放完全移除。（完全移除可以移除目标的所有状态效果、叠加效果、成长效果和衰退效果。包含不可驱散或不可净化的状态效果和叠加效果）",
+            "完全移除施放后，攻击者进入猫头鹰神殿幽灵形态，持续 3 回合。",
+            "处于猫头鹰神殿时，目标每回合受到 360 点伤害。（处于幽灵形态期间，角色无法获得法力或被特殊技能治疗，但免疫普通攻击、特殊技能攻击、造成伤害的被动技能、状态效果和叠加效果。免疫新的成长和衰退效果。若战场上只剩一名敌人则无法施放）"
         ]
     },
     {
         "originalIndex": 1414,
-        "name": "里斯 (Rhys)",
+        "name": "菲洛梅娜 (Philomena)",
         "effects": [
-            "Boost health of all allies by 320. Boosted health can exceed max HP.",
-            "Alters the power of all Holy shields on the board. When an attacking Hero casts the special, the shields become enhanced and give +37% more mana. When a defending Hero casts the special, the shields become weakened and give -30% less mana.",
-            "All allies get +34% attack and a further 3% increase per each Holy shield on the board for 3 turns, up to +70% attack.",
-            "Cleanses status ailments from all allies."
+            "对目标造成 500% 伤害，并对附近敌人造成轻微伤害。",
+            "强化防御异常：目标与附近敌人获得对特殊技能 -50% 的防御。此效果在敌人受到一次特殊技能伤害后消失。",
+            "强化防御异常结束后、被移除或被替换后，敌人陷入沉睡且沉睡期间受到的伤害增加 +70%。（沉睡中的角色无法获得法力或攻击。沉睡目标受到伤害后便会苏醒。这不包括来自小兵、恶魔、超级小兵和超级恶魔的伤害。此效果不可净化）"
         ]
     },
     {
         "originalIndex": 1415,
-        "name": "罗克 (Roc)",
+        "name": "波塞冬 (Poseidon)",
         "effects": [
-            "All enemies receive 324 Sand damage over 3 turns.",
-            "All enemies get -50% decrease for any healing received for 2 turns. This effect can't be cleansed.",
-            "Cleanses status ailments from all allies."
+            "对目标造成 450% 伤害。",
+            "所有盟友可抵御新的负面法力效果，持续 3 回合。",
+            "所有盟友均可抵抗禁用特殊技能的效果，持续 3 回合。"
         ]
     },
     {
         "originalIndex": 1416,
-        "name": "罗克 (Roc) C1",
+        "name": "波塞冬 (Poseidon) C1",
         "effects": [
-            "All enemies receive 780 Sand damage over 4 turns.",
-            "All enemies get -44% defense for 3 turns.",
-            "Dispells buffs from all enemies."
+            "对目标造成 480% 伤害。",
+            "所有盟友对新的状态异常免疫，持续 3 回合。"
         ]
     },
     {
         "originalIndex": 1417,
-        "name": "罗莎琳德 (Rosalind)",
+        "name": "黎登布洛克教授 (Prof. Lidenbrock)",
         "effects": [
-            "Recovers 30% health for all allies.",
-            "Stack (Max 10): All damage all allies receive is reduced by -5%.",
-            "Summnos a Shiled Guard Mega Minion with 65% HP and 180% attack inherited from the caster.",
-            "The Shield Guard Mega Minion safely cleanses the latest cleansable status ailment from all allies each turn. (Safe cleanse bypasses secondary effects, such as damage on remova, from the remove status ailment. External effects such as passive skills and family effects can still activate."
+            "净化所有盟友的状态异常。",
+            "提高所有盟友 200 点生命值。提高的生命值可以超过最大生命值。",
+            "所有盟友在 4 回合内获得共计 600 点生命加成。提高的生命值可以超过最大生命值。若目标获得状态异常，效果持续时间将重置。"
         ]
     },
     {
         "originalIndex": 1418,
-        "name": "阮小七 (Ruan Xiaoqi)",
+        "name": "黎登布洛克教授 (Prof. Lidenbrock) C1",
         "effects": [
-            "This Special Skill has a chance to deal Critical hits. (The chance of dealing a Critical hit is based on Hero’s overall critical chance when the damage is dealt. Critical hits caused by this Special Skill deal 50% more damage. Critical hits can reduces enemies’ max health on PVP battles. This effect is stronger against boosted health.)",
-            "Dispels 2 buffs from all enemies. (The latest buffs are dispelled first.)",
-            "Deals 450% damage to the enemy with the highest remaining HP. Deals 250% damage to all other enmies.",
-            "The enemy that had the highest remaining HP get 810 Water damage over 3 turns. This effect can’t be cleansed."
+            "净化所有盟友的状态异常。",
+            "提高所有盟友 500 点生命值。提高的生命值可以超过最大生命值。",
+            "所有盟友在 4 回合内获得共计 400 点生命加成。提高的生命值可以超过最大生命值。若目标获得状态异常，效果持续时间将重置。"
         ]
     },
     {
         "originalIndex": 1419,
-        "name": "萨尔尼斯 (Salniss)",
+        "name": "郭王后 (Queen Guowang)",
         "effects": [
-            "Deals 500% damage to the target.",
-            "The target gets silenced for 3 turns.",
-            "Deals 500% damage to a random enemy. (This effect target the same enemy as the first hit enemy if there are no valid targets.)",
-            "The target of the second hit receives +50% increased damage for 3 turns. The effect is increased by +10% for each Minion or Mega Minion owned by all enemies, up to +100% in total."
+            "对所有敌人造成 330% 伤害。",
+            "每次敌人使用其特殊技能时，所有盟友获得 +10% 法力，并持续 4 回合。法力将在特殊技能结束后获得。若此状态效果在特殊技能施放期间被移除，则不会获得法力。",
+            "施法者获得复仇，持续 4 回合。若复仇被特殊技能驱散，则所有敌人受到 525 点伤害。"
         ]
     },
     {
         "originalIndex": 1420,
-        "name": "萨丁皮门特 (Satinpimenter)",
+        "name": "拉娜 (Rana)",
         "effects": [
-            "Dispels buffs from the target and nearby enemies.",
-            "Deals 420% damage to the target and nearby enemies.",
-            "The target and nearby enemies receive 612 Toxin damage over 4 turns. If Toxin is cast on a target with boosted health, Minions or Mega Minion, the Toxin damage received is increased. (The Toxin damage is increased by +100% against targets with boosted health. Each Minion or Mega Minion owned by the target increases the damage by additional +33%, up to total +199%.)",
-            "The caster regenerate 1400 HP over 4 turns."
+            "对目标及附近敌人造成 185% 伤害。",
+            "目标与附近敌人在 3 回合内受到共计 423 点伤害。",
+            "目标与附近敌人获得的治疗增加 -75%，持续 2 回合。此效果无法净化。",
+            "净化施法者的状态异常。"
         ]
     },
     {
         "originalIndex": 1421,
-        "name": "滚兽 (Scrollbeast)",
+        "name": "拉娜 (Rana) C1",
         "effects": [
-            "Deals 365% damage to all enemies.",
-            "Wither: All enemies get -400 attack.",
-            "Summons a White Boar Mega Minion with 65% HP and 250% attack inherited from the caster.",
-            "When summoned the White Boar Mega Minion gives its owner the ability to counterattack with 100% of the received damage as long as the owner has a White Boar Mega Minion. This effect can’t be dispelled."
+            "对目标及附近敌人造成 185% 伤害。",
+            "目标与附近敌人在 4 回合内受到共计 692 点水系伤害。",
+            "目标与附近敌人获得的治疗减少 -75%，持续 4 回合。此效果无法净化。",
+            "净化施法者和附近盟友的状态异常。"
         ]
     },
     {
         "originalIndex": 1422,
-        "name": "沙埃尔 (Shaal)",
+        "name": "兰威尔 (Ranvir)",
         "effects": [
-            "Deals 340% damage to all enemies.",
-            "Heals all allies for 20% of the damage dealt.",
-            "All Holy allies receive all strong damage as regular damage for 3 turns.",
-            "Cleanses status ailments from all allies."
+            "对目标造成 265% 伤害。",
+            "所有盟友获得 +195% 攻击力和 -35% 精准度，仅适用于敌人血量高于攻击者血量的情况，该效果持续 5 回合。",
+            "元素链为全体神圣系盟友提供针对暗黑系 +46% 的防御，持续 4 回合。此效果无法驱散。"
         ]
     },
     {
         "originalIndex": 1423,
-        "name": "闪鳞 (Shimmerscale)",
+        "name": "里斯 (Rhys)",
         "effects": [
-            "Deals 300% damage to the target and nearby enemies.",
-            "Summons a Sword Guard Mega Minion with 35% HP and 300% attack inherited from the caster.",
-            "The target hit by the Sword Guard Mega Minion receives 411 Bleed damage over 3 turns. This effect spreads to nearby enemies."
+            "提高所有盟友 320 点生命值。提高的生命值可以超过最大生命值。",
+            "面板中所有神圣系盾牌受到影响。进攻方英雄施放此特殊技能时，盾牌将会被增强，给予的法力增加 +37% ；而防御方英雄施放此特殊技能时，盾牌则会被削弱，给予的法力减少 -30%。",
+            "所有盟友获得 +34% 攻击力，且面板上每存在一个神圣系盾牌都会使其攻击力额外增加 3%，持续 3 回合，最高可达 +70% 攻击力。",
+            "净化所有盟友的状态异常。"
         ]
     },
     {
         "originalIndex": 1424,
-        "name": "希芙 (Sif)",
+        "name": "罗克 (Roc)",
         "effects": [
-            "The caster and nearby allies counterattack with 100% of the damage received for 4 turns.",
-            "The caster and nearby allies reduce all received damage by -50% for 4 turns.",
-            "The caster and nearby allies get +24% mana generation for 4 turns."
+            "所有敌人在 3 回合内受到共计 324 点沙系伤害。",
+            "所有敌人获得的治疗减少 -50%，持续 2 回合。此效果无法净化。",
+            "净化所有盟友的状态异常。"
         ]
     },
     {
         "originalIndex": 1425,
-        "name": "希芙 (Sif) C1",
+        "name": "罗克 (Roc) C1",
         "effects": [
-            "Increases the mana of the caster and nearby allies by 15%.",
-            "The caster and nearby allies counterattack with 125% of the damage received for 4 turns.",
-            "The caster and nearby allies reduce all received damage by 40% for 4 turns."
+            "所有敌人在 4 回合内受到共计 780 点沙系伤害。",
+            "所有敌人获得 -44% 防御，持续 3 回合。",
+            "驱散所有敌人的增益。"
         ]
     },
     {
         "originalIndex": 1426,
-        "name": "银爪 (Silverpaw)",
+        "name": "罗莎琳德 (Rosalind)",
         "effects": [
-            "Steals Minions and Mega Minions from target.",
-            "Inflicts the target wit lasting Greed. Friendly effects from Special Skills only affect characters with Greed. (Greed prevents all other heroes from gaining friendly effects. This includes all buffs, healing and growth effects. This effect is lasting until it is cleansed, replaced or removed.)",
-            "All enemies receive 975 Curse damage over 4 turns, starting low and increasing every turn."
+            "为所有盟友恢复 30% 生命值。",
+            "叠加（最多 10 层）：所有盟友受到的所有伤害降低 -5%。",
+            "召唤一个持盾守卫超级小兵，其可从施法者处继承 65% 生命值和 180% 攻击力。",
+            "每回合持盾守卫超级小兵会安全净化所有盟友最后获得的可净化状态异常（安全净化会无视状态异常被移除时的副作用，例如移除时的伤害。被动技能和家族效果等外来效果仍会生效）。"
         ]
     },
     {
         "originalIndex": 1427,
-        "name": "咕咕鸡先生 (Sir Roostley)",
+        "name": "阮小七 (Ruan Xiaoqi)",
         "effects": [
-            "Deals 310% damage to the target.",
-            "The attack chains through all enemies that are adjacent to any hit enemy.",
-            "The caster gets -20% attack for 3 turns. This effect can't be cleansed."
+            "此特殊技能有几率造成暴击。（造成暴击的几率取决于英雄在造成伤害时的总暴击几率。此特殊技能造成的暴击会额外造成 50% 伤害。暴击可以减少PvP战斗中敌人的最大生命值。此效果对拥有生命加成的目标更强）",
+            "驱散所有敌人身上的 2 个增益。（最后获得的增益最先被驱散）",
+            "对剩余生命值最高的敌人造成 450% 伤害。对其他所有敌人造成 250% 伤害。",
+            "剩余生命值最高的敌人在 3 回合内受到共计 810 点水系伤害。此效果无法净化。"
         ]
     },
     {
         "originalIndex": 1428,
-        "name": "斯拉古司 (Sludgus)",
+        "name": "萨尔尼斯 (Salniss)",
         "effects": [
-            "Recovers 50% health for all allies.",
-            "All allies except the caster dance the Dance of the Slimy for 4 turns.",
-            "==Dance of the Slimy==",
-            "+45% chance to dodge Special Skills. Each dodge damages the attacker for 1600 damage.",
-            "When the dance ends, the dancer recovers 700 HP. (All existing status effects will be removed when a dance status effect is added. Dance gives immunity to new status effects. New dance status effect will replace this effect. Dance effect cannot be dispelled. This effect is removed when the caster is defeated."
+            "对目标造成 500% 伤害。",
+            "目标陷入沉默，持续 3 回合。",
+            "随机对一个敌人造成 500% 伤害。（如果没有其他有效目标，则此效果瞄准第一次击中的该名敌人）",
+            "遭到第二次攻击的目标受到的伤害增加 +50%，持续 3 回合。所有敌人每拥有一个小兵或超级小兵，则该效果提高 +10%，最多可提高 +100%。"
         ]
     },
     {
         "originalIndex": 1429,
-        "name": "唐三藏 (Tang Sanzang)",
+        "name": "萨丁皮门特 (Satinpimenter)",
         "effects": [
-            "Boosts health of all allies by 500. Boosted health can exceed max HP.",
-            "Cleanses the latest cleansable status ailments from all allies.",
-            "All allies get 20% defense for 2 turns."
+            "驱散目标和附近敌人身上的增益。",
+            "对目标及附近敌人造成 420% 伤害。",
+            "目标与附近敌人在 4 回合内受到共计 612 点毒素伤害。拥有生命加成、小兵或超级小兵的目标受到的毒素伤害会增加。（拥有生命加成的目标受到的毒素伤害增加 +100%。目标每拥有一个小兵或超级小兵，伤害额外增加 +33%，最多可达 +199% ）",
+            "施法者在 4 回合内恢复 1400 点生命值。"
         ]
     },
     {
         "originalIndex": 1430,
-        "name": "托尔 (Thor)",
+        "name": "滚兽 (Scrollbeast)",
         "effects": [
-            "Special Skill has a different effect on consecutive uses, in the following order:",
-            "1st:",
-            " * Deals 280% damage to the target.",
-            " * The target get -40% accuracy for 3 turns.  Chance to miss also applies to offensive special skills",
-            "2nd:",
-            " * Deals 280% damage to the target and nearby enemies.",
-            " * The target and nearby enemies get -40% accuracy for 3 turns.  Chance to miss also applies to offensive special skills",
-            "3rd:",
-            " * Deals 280% damage to all enemies.",
-            " * All enemies get -40% accuracy for 3 turns.  Chance to miss also applies to offensive special skills"
+            "对所有敌人造成 365% 伤害。",
+            "衰退：所有敌人获得 -400 点攻击力。",
+            "召唤一个白野猪超级小兵，其可从施法者处继承 65% 生命值和 250% 攻击力。",
+            "白野猪超级小兵被召唤后，在拥有该小兵期间，该小兵使其所有者能以所受伤害的 100% 作出反击。此效果无法驱散。"
         ]
     },
     {
         "originalIndex": 1431,
-        "name": "托尔 (Thor) C1",
+        "name": "沙埃尔 (Shaal)",
         "effects": [
-            "Special Skill has a different effect on consecutive uses, in the following order:",
-            "1st:",
-            " * Deals 185% damage to all enemies.",
-            " * All enemies get -25% accuracy for 3 turns.  Chance to miss also applies to offensive special skills",
-            "2nd:",
-            " * Deals 260% damage to all enemies.",
-            " * All enemies get -35% accuracy for 3 turns.  Chance to miss also applies to offensive special skills",
-            "3rd:",
-            " * Deals 290% damage to all enemies.",
-            " * All enemies get -54% accuracy for 3 turns.  Chance to miss also applies to offensive special skills"
+            "对所有敌人造成 340% 伤害。",
+            "为所有盟友恢复等同于所造成伤害 20% 的生命值。",
+            "所有神圣系盟友受到的强袭伤害将转化成普通伤害，持续 3 回合。",
+            "净化所有盟友的状态异常。"
         ]
     },
     {
         "originalIndex": 1432,
-        "name": "雷响 (Thunderclap)",
+        "name": "闪鳞 (Shimmerscale)",
         "effects": [
-            "The caster gets Taunt that prevents enemies from using Special Skill on the caster's allies for 5 turns.",
-            "The caster regenerates 1250 boosted health over 5 turns. Boosted health can exceed max HP.",
-            "Deals 500-1000 damage to all enemies after 5 turns, based on the damage the caster had taken while this effect was active. Maximum effect is achieved upon taking 50% of max health in damage.",
-            "Stack (Max: 10): The caster gets +25% attack against the weaker element."
+            "对目标及附近敌人造成 300% 伤害。",
+            "召唤一个持剑守卫超级小兵，其可从施法者处继承 35% 生命值和 300% 攻击力。",
+            "被持剑守卫超级小兵击中的目标会在 3 回合内受到共计 411 点流血伤害。此效果会蔓延至附近敌人。"
         ]
     },
     {
         "originalIndex": 1433,
-        "name": "杜拉 (Thura)",
+        "name": "希芙 (Sif)",
         "effects": [
-            "Deals 355% damage to the target and nearby enemies.",
-            "The more health the enemy has, the more damage they will receive, up to 435%.",
-            "The caster and nearby allies bypass defensive buffs with their attacks for 3 turns. (Defensive buffs include counterattacks.)",
-            "The caster and nearby allies' Special Skills deal an additional +80% damage for 3 turns."
+            "施法者和附近盟友以所受伤害的 100% 进行反击，持续 4 回合。",
+            "施法者和附近盟友所受的所有伤害减少 -50%，持续 4 回合。",
+            "施法者和附近盟友获得 +24% 法力生成，持续 4 回合。"
         ]
     },
     {
         "originalIndex": 1434,
-        "name": "黄玉 (Topaz)",
+        "name": "希芙 (Sif) C1",
         "effects": [
-            "Special Skill has a different effect when charged with 100%/200%/300% mana:",
-            "x1 Mana Charge:",
-            " * Destroys all Minions from the target.",
-            " * Deals 310% damage to the target.",
-            " * All allies get a small amount of mana for each destroyed Minion.",
-            "x2 Mana Charge:",
-            " * Destroys all Minions from the target and nearby enemies.",
-            " * Deals 350% damage to the target and nearby enemies.",
-            " * All allies get a small amount of mana for each destroyed Minion.",
-            "x3 Mana Charge:",
-            " * Destroys all Minions from all enemies.",
-            " * Deals 390% damage to all enemies.",
-            " * All allies get a small amount of mana for each destroyed Minion."
+            "使施法者和附近盟友的法力增加 15%。",
+            "施法者和附近盟友以所受伤害的 125% 进行反击，持续 4 回合。",
+            "施法者和附近盟友所受的所有伤害减少 40%，持续 4 回合。"
         ]
     },
     {
         "originalIndex": 1435,
-        "name": "乌赖乌斯 (Uraeus)",
+        "name": "银爪 (Silverpaw)",
         "effects": [
-            "Deals 585% damage to the target",
-            "Damage bypasses target's Minions.",
-            "All enemies who own a Minion or a fiend receive 420 Sand damage over 3 turns.",
-            "Element Link summons a Holy Minion for all Holy allies with 6% HP and 10% attack inherited from the caster"
+            "从目标处偷取小兵和超级小兵。",
+            "对目标施加持续性贪婪。来自特殊技能的友方效果只会影响身上有贪婪状态的角色。（贪婪会阻止所有其他英雄获得友方效果，包括所有增益、治疗和成长效果。此效果持续至被净化、替换或移除）",
+            "所有敌人在 4 回合内受到共计 975 点诅咒伤害，一开始伤害较低，之后每个回合会逐渐增加。"
         ]
     },
     {
         "originalIndex": 1436,
-        "name": "吠舍离 (Vaishali)",
+        "name": "咕咕鸡先生 (Sir Roostley)",
         "effects": [
-            "Special Skill has a different effect when charged with 100%/200% mana:",
-            "1x Mana Charge:",
-            " * All allies regenerate 594 HP over 3 turns.",
-            " * All allies get +30% attack for 3 turns.",
-            " * Cleanses status ailments from all allies.",
-            "2x Mana Charge:",
-            " * Dispels buffs from all enemies.",
-            " * All enemies receive 1290 Sand damage over 5 turns.",
-            " * All enemies get -45% attack for 5 turns."
+            "对目标造成 310% 伤害。",
+            "与被击中敌人相邻的所有敌人都将受到连锁攻击。",
+            "施法者获得 -20% 攻击力，持续 3 回合。此效果无法净化。"
         ]
     },
     {
         "originalIndex": 1437,
-        "name": "薇薇卡 (Vivica)",
+        "name": "斯拉古司 (Sludgus)",
         "effects": [
-            "Recovers 44% health for all allies",
-            "All allies get +63% defense for 4 turns",
-            "Cleanses status ailments from all allies"
+            "为所有盟友恢复 50% 生命值。",
+            "除施法者外的所有盟友跳起黏液之舞，持续 4 回合。",
+            "==黏液之舞==。",
+            "+45% 几率闪避特殊技能。每次闪避会对攻击者造成 1600 点伤害。",
+            "舞蹈结束时，舞者恢复 700 点生命值（添加舞蹈状态效果时将移除所有现有状态效果。舞蹈状态免疫新的状态效果。新的舞蹈状态效果将取代此效果。舞蹈效果无法驱散。施法者阵亡后效果移除）。"
         ]
     },
     {
         "originalIndex": 1438,
-        "name": "薇薇卡 (Vivica) C1",
+        "name": "唐三藏 (Tang Sanzang)",
         "effects": [
-            "Recovers 44% health for all allies",
-            "All enemies get -44% defense for 4 turns",
-            "Dispels buffs from all enemies"
+            "提高所有盟友 500 点生命值。提高的生命值可以超过最大生命值。",
+            "净化所有盟友身上最新施加的可净化状态异常。",
+            "所有盟友获得 20% 防御，持续 2 回合。"
         ]
     },
     {
         "originalIndex": 1439,
-        "name": "薇薇卡 (Vivica) C2",
+        "name": "托尔 (Thor)",
         "effects": [
-            "Boosts health of all allies by 670. Boosted health can exceed max HP",
-            "All enemies get -39% attack for 4 turns",
-            "Dispels buffs from all enemies"
+            "特殊技能连续使用会有不同的效果，顺序为：",
+            "第一次：",
+            "* 对目标造成 280% 伤害。",
+            "* 目标获得 -40% 精准度，持续 3 回合。进攻型特殊技能也有相同几率落空。",
+            "第二次：",
+            "* 对目标及附近敌人造成 280% 伤害。",
+            "* 目标与附近敌人获得 -40% 精准度，持续 3 回合。进攻型特殊技能也有相同几率落空。",
+            "第三次：",
+            "* 对所有敌人造成 280% 伤害。",
+            "* 所有敌人获得 -40% 精准度，持续 3 回合。进攻型特殊技能也有相同几率落空。"
         ]
     },
     {
         "originalIndex": 1440,
-        "name": "薇薇卡 (Vivica) 卡通",
+        "name": "托尔 (Thor) C1",
         "effects": [
-            "Recovers 54% health for all allies.",
-            "All allies get +45% defense for 4 turns. For all Holy characters, this status effect becomes undispellable and lasts 2 turns longer.",
-            "Cleanses status ailments from all allies."
+            "特殊技能连续使用会有不同的效果，顺序为：",
+            "第一次：",
+            "* 对所有敌人造成 185% 伤害。",
+            "* 所有敌人获得 -25% 精准度，持续 3 回合。进攻型特殊技能也有相同几率落空。",
+            "第二次：",
+            "* 对所有敌人造成 260% 伤害。",
+            "* 所有敌人获得 -35% 精准度，持续 3 回合。进攻型特殊技能也有相同几率落空。",
+            "第三次：",
+            "* 对所有敌人造成 290% 伤害。",
+            "* 所有敌人获得 -54% 精准度，持续 3 回合。进攻型特殊技能也有相同几率落空。"
         ]
     },
     {
         "originalIndex": 1441,
-        "name": "薇薇卡 (Vivica) 玻璃",
+        "name": "雷响 (Thunderclap)",
         "effects": [
-            "Recovers 55% health for all allies.",
-            "All allies get +60% defense for 4 turns.",
-            "All Holy allies reflect status ailments and negative stacks for 2 turns. (Status effects cast by characters, Minions, and Fiends on the same side cannot be reflected.)",
-            "Cleanses status ailments from all allies."
+            "施法者获得嘲讽，可阻止敌人对其盟友使用特殊技能，持续 5 回合。",
+            "施法者在 5 回合内获得共计 1250 点生命加成。提高的生命值可以超过最大生命值。",
+            "5 回合后，根据此效果有效期间施法者的所受伤害，对所有敌人造成 500 -1000 点伤害。受到最大生命值 50% 的伤害后可达到最大效果。",
+            "叠加（最多 10 层）：施法者对所克制元素的攻击力提高 +25%。"
         ]
     },
     {
         "originalIndex": 1442,
-        "name": "韦恩 (Wayne)",
+        "name": "杜拉 (Thura)",
         "effects": [
-            "All enemies receive 284 Bleed damage over 2 turns. The caster absorbs 30% of the dealt Bleed damage as health.",
-            "The caster steals 60% of any healing applies to all enemies for 2 turns."
+            "对目标及附近敌人造成 355% 伤害。",
+            "敌人的生命越高，受到的伤害越多，最高可达 435%。",
+            "施法者和附近盟友攻击时无视防御增益（包括反击），持续 3 回合。",
+            "施法者和附近盟友的特殊技能造成额外 +80% 伤害，持续 3 回合。"
         ]
     },
     {
         "originalIndex": 1443,
-        "name": "韦尔霍夫 (Wealhtheow)",
+        "name": "黄玉 (Topaz)",
         "effects": [
-            "Heals all allies who have less than 50% HP left to 50% health.",
-            "All allies regenerate 1320 boosted health over 3 turns. Boosted health can exceed max HP.",
-            "Source of Buffs: The following effects are cast on a random ally at the start of each turn",
-            " * +100% Special Skill damage for 4 turns.",
-            " * +33% mana generation for 4 turns.",
-            " * The Source of Buffs will activate 3 times. Each attempt to dispel it removes one activation."
+            "当特殊技能充能至 100% / 200% / 300% 法力时将拥有不同的效果：",
+            "1 倍法力充能：",
+            "* 摧毁目标的所有小兵。",
+            "* 对目标造成 310% 伤害。",
+            "* 每摧毁一名小兵，所有盟友获得少量法力。",
+            "2 倍法力充能：",
+            "* 摧毁目标和附近敌人的全部小兵。",
+            "* 对目标及附近敌人造成 350% 伤害。",
+            "* 每摧毁一名小兵，所有盟友获得少量法力。",
+            "3 倍法力充能：",
+            "* 摧毁全部敌人的全部小兵。",
+            "* 对所有敌人造成 390% 伤害。",
+            "* 每摧毁一名小兵，所有盟友获得少量法力。"
         ]
     },
     {
         "originalIndex": 1444,
-        "name": "白兔先生 (White Rabbit)",
+        "name": "乌赖乌斯 (Uraeus)",
         "effects": [
-            "Deals 280% Damage to the target and nearby enemies",
-            "Target gets -34% defense for 4 turns. The effect duration is reset if the target is healed. This effect can't be cleansed."
+            "对目标造成 585% 伤害。",
+            "伤害无视目标的小兵。",
+            "所有拥有小兵或恶魔的敌人在 3 回合内受到共计 420 点沙系伤害。",
+            "元素链为所有神圣系盟友召唤出一名神圣小兵，其可从施法者处继承 6% 生命和 10% 攻击力。"
         ]
     },
     {
         "originalIndex": 1445,
-        "name": "白兔先生 (White Rabbit) C1",
+        "name": "吠舍离 (Vaishali)",
         "effects": [
-            "Deals 260% damage to the target and nearby enemies.",
-            "The target and nearby enemies get -34% defense for 3 turns. The effect duration resets if the target is healed. This effect can't be cleansed."
+            "当特殊技能充能至 100% / 200% 法力时将拥有不同的效果：",
+            "1 倍法力充能：",
+            "* 所有盟友在 3 回合内恢复 594 点生命值。",
+            "* 所有盟友获得 +30% 攻击力，持续 3 回合。",
+            "* 净化所有盟友的状态异常。",
+            "2 倍法力充能：",
+            "* 驱散所有敌人的增益。",
+            "* 所有敌人在 5 回合内受到共计 1290 点沙系伤害。",
+            "* 所有敌人获得 -45% 攻击力，持续 5 回合。"
         ]
     },
     {
         "originalIndex": 1446,
-        "name": "维柳 (Willow)",
+        "name": "薇薇卡 (Vivica)",
         "effects": [
-            "Special Skill has a different effect when charged with 100%/200% mana:",
-            "1x Mana Charge:",
-            " * Deals 175% damage to all enemies.",
-            " * Dispels status effect buffs that affect defense from all enemies.",
-            " * All enemies are immune to new status effect buffs that affect defense for 3 turns.",
-            "2x Mana Charge:",
-            " * All allies bypass defensive buffs with their attacks for 5 turns. Defensive buffs include counterattacks.",
-            " * All allies reduce all received damage by -45% for 5 turns.",
-            " * All allies counterattack with 115% of the damage received for 5 turns."
+            "为所有盟友恢复 44% 生命值。",
+            "所有盟友获得 +63% 防御，持续 4 回合。",
+            "净化所有盟友的状态异常。"
         ]
     },
     {
         "originalIndex": 1447,
-        "name": "温妮 (Winnie)",
+        "name": "薇薇卡 (Vivica) C1",
         "effects": [
-            "Cleanses status ailments from all allies.",
-            "Boosts health of all allies by 1200. Boosted health can exceed max HP.",
-            "All allies resists max health reduction for 5 turns.",
-            "All allies get +60% defense as long as the caster has boosted health. This effect can’t be cleansed."
+            "为所有盟友恢复 44% 生命值。",
+            "所有敌人获得 -44% 防御，持续 4 回合。",
+            "驱散所有敌人的增益。"
         ]
     },
     {
         "originalIndex": 1448,
-        "name": "沃尔夫冈 (Wolfgang)",
+        "name": "薇薇卡 (Vivica) C2",
         "effects": [
-            "Deals 250% damage to all enemies.",
-            "The caster reduces all received damage by -50% for 4 turns.",
-            "All allies regenerate 720 boosted health over 4 turns. Boosted health can exceed max HP."
+            "提高所有盟友 670 点生命值。提高的生命值可以超过最大生命值。",
+            "所有敌人获得 -39% 攻击力，持续 4 回合。",
+            "驱散所有敌人的增益。"
         ]
     },
     {
         "originalIndex": 1449,
-        "name": "沃尔夫冈 (Wolfgang) C1",
+        "name": "薇薇卡 (Vivica) 卡通",
         "effects": [
-            "Deals 300% damage to all enemies.",
-            "The caster reduces all received damage by -45% for 4 turns.",
-            "All allies regenerate 720 boosted health over 4 turns. Boosted health can exceed max HP."
+            "为所有盟友恢复 54% 生命值。",
+            "所有盟友获得 +45% 防御，持续 4 回合。对所有神圣系角色，此状态效果不可驱散且持续时间延长 2 回合。",
+            "净化所有盟友的状态异常。"
         ]
     },
     {
         "originalIndex": 1450,
-        "name": "武尔夫斯坦 (Wulfstan)",
+        "name": "薇薇卡 (Vivica) 玻璃",
         "effects": [
-            "Steals all dispellable buff from all enemies to the caster.",
-            "Deals 350% damage to all and inflicts 10 Insanity on them.",
-            "Inflicts 55 Insanity on the caster."
+            "为所有盟友恢复 55% 生命值。",
+            "所有盟友获得 +60% 防御，持续 4 回合。",
+            "所有神圣系盟友可反弹状态异常和负面效果叠加，持续 2 回合。（同队角色、小兵和恶魔施放的状态效果无法反弹）",
+            "净化所有盟友的状态异常。"
         ]
     },
     {
         "originalIndex": 1451,
-        "name": "泽维尔 (Xavier)",
+        "name": "韦恩 (Wayne)",
         "effects": [
-            "Deals 280% damage to the target.",
-            "If 1 ally is of Holy element, the damage will increase to 290%, and it will affect nearby enemies.",
-            "If 2 alllies are of Holy element, the damage will increase to 300% and it will affect all enemies. Allied heroes must be alive for the effect to activate.",
-            "Reduces the mana of all hit enemies by -20%."
+            "所有敌人在 2 回合内受到共计 284 点流血伤害。施法者会吸收所造成流血伤害的 30% 并转化为生命值。",
+            "施法者偷取所有敌人所获治疗的 60%，持续 2 回合。"
         ]
     },
     {
         "originalIndex": 1452,
-        "name": "赞德莉亚 (Zandria)",
+        "name": "韦尔霍夫 (Wealhtheow)",
         "effects": [
-            "Deals 210% damage to all enemies.",
-            "Deals additional 20% damage per each Holy shield on the board up to 450% damage in total.",
-            "Each fallen ally has a 20% chance to be revived at 40% HP.",
-            "Each Holy shield on the board increases the chance of to be revived by 5% up to 80% chance in total."
+            "将所有剩余血量低于 50% 的盟友的血量恢复至 50% 生命值。",
+            "所有盟友在 3 回合内获得共计 1320 点生命加成。提高的生命值可以超过最大生命值。",
+            "增益之源：每回合开始时，对随机一名盟友施放以下效果。",
+            "* +100% 特殊技能伤害，持续 4 回合。",
+            "* +33% 法力生成，持续 4 回合。",
+            "* 增益之源将触发 3 次。每次驱散尝试都会移除一次触发。"
         ]
     },
     {
         "originalIndex": 1453,
-        "name": "扎莎 (Zazha)",
+        "name": "白兔先生 (White Rabbit)",
         "effects": [
-            "All ailments affecting attack, defense and mana generation on the caster are replaced by matching undispellable buffs. (Replacing cannot be blocked by status effects and passive. Only status effects that are dispellable or cleansable can be replaced. Replacement effects: Attack ailments are replaced with +40% attack buff for 4 turns. Defense ailments are replaced with +40% defense buff for 4 turns. Mana generation ailments are replaced with +40% mana generation buff for 4 turns.).",
-            "Deals 620% damage to the target.",
-            "Boosts all allies’ health by 26% of damage dealt."
+            "对目标及附近敌人造成 280% 伤害。",
+            "目标获得 -34% 防御，持续 4 回合。若目标受到治疗，效果持续时间将重置。此效果无法净化。"
         ]
     },
     {
         "originalIndex": 1454,
-        "name": "泽克纳 (Zekena)",
+        "name": "白兔先生 (White Rabbit) C1",
         "effects": [
-            "Deals 300% damage to the target.",
-            "Deals 450% damage to a random target enemy. Deals extra damage if ther target is Dark.",
-            "The target of the second hit gets -56% defense for 3 turns."
+            "对目标及附近敌人造成 260% 伤害。",
+            "目标与附近敌人获得 -34% 防御，持续 3 回合。若目标受到治疗，效果持续时间将重置。此效果无法净化。"
         ]
     },
     {
         "originalIndex": 1455,
-        "name": "泽克纳 (Zekena) C1",
+        "name": "维柳 (Willow)",
         "effects": [
-            "Deals 400% damage to the target.",
-            "Deals 400% damage to a random different enemy. Deals extra damage if the target is Dark.",
-            "The target of the second hit gets -56% defense for 3 turns."
+            "当特殊技能充能至 100% / 200% 法力时将拥有不同的效果：",
+            "1 倍法力充能：",
+            "* 对所有敌人造成 175% 伤害。",
+            "* 驱散所有敌人的防御增益状态效果。",
+            "* 所有敌人对新的防御增益状态效果免疫，持续 3 回合。",
+            "2 倍法力充能：",
+            "* 所有盟友攻击时无视防御增益（包括反击），持续 5 回合。",
+            "* 所有盟友所受的所有伤害减少 -45%，持续 5 回合。",
+            "* 所有盟友会以所受伤害的 115% 进行反击，持续 5 回合。"
         ]
     },
     {
         "originalIndex": 1456,
-        "name": "泽努克瓦 (Zenuk'wa)",
+        "name": "温妮 (Winnie)",
         "effects": [
-            "Deals 275% damage to target and nearby enemies.",
-            "The target and nearby enemies receive 225 damage for each received status ailments for 4 turns.",
-            "The caster and nearby allies are immune to new status ailments for 4 turns, and recover 225 health for each attempted status ailment."
+            "净化所有盟友的状态异常。",
+            "提高所有盟友 1200 点生命值。提高的生命值可以超过最大生命值。",
+            "所有盟友可抵抗最大生命值的减少，持续 5 回合。",
+            "施法者拥有生命值加成期间，所有盟友均获得 +60% 防御。此效果无法净化。"
         ]
     },
     {
         "originalIndex": 1457,
-        "name": "张飞 (Zhang Fei)",
+        "name": "沃尔夫冈 (Wolfgang)",
         "effects": [
-            "Deals 530% damage to the target.",
-            "All allies reflect status ailments that affect defense back to the attacker for 3 turns. This effect can't be bypassed. Status effects cast by characters, Minions and Fiends on the same side cannot be reflected."
+            "对所有敌人造成 250% 伤害。",
+            "施法者所受的所有伤害减少 -50%，持续 4 回合。",
+            "所有盟友在 4 回合内获得共计 720 点生命加成。提高的生命值可以超过最大生命值。"
         ]
     },
     {
         "originalIndex": 1458,
-        "name": "张飞 (Zhang Fei) C1",
+        "name": "沃尔夫冈 (Wolfgang) C1",
         "effects": [
-            "Deals 520% damage to the target.",
-            "The target receives 390 Bleed damage over 3 turns.",
-            "All allies reflect status ailments that affect defense back to the attacker for 3 turns. This effect can’t be bypassed."
+            "对所有敌人造成 300% 伤害。",
+            "施法者所受的所有伤害减少 -45%，持续 4 回合。",
+            "所有盟友在 4 回合内获得共计 720 点生命加成。提高的生命值可以超过最大生命值。"
         ]
     },
     {
         "originalIndex": 1459,
-        "name": "诸葛亮 (Zhuge Liang)",
+        "name": "武尔夫斯坦 (Wulfstan)",
         "effects": [
-            "Summons a Shu Soldier Minion for each ally with 16% HP and 17% attack inherited from the caster.",
-            "Shu Soldier Minion gives it’s owner the ability to counterattack with 60% of the damage received as long as the owner has a Shu Soldier Minion. This effect can’t be dispelled.",
-            "Summons a Shu Guerrilla Fiend for all enemies. The Fiend damages its target with 75% attack every turn.",
-            "The Shu Guerrilla Fiend absorbs healing and disappears when it has absorbed 50% of its targets health."
+            "偷走全体敌人的所有可驱散增益并施放给施法者。",
+            "对所有敌人造成 350% 伤害并对其施加 10 点狂乱。",
+            "对施法者施加 55 点狂乱。"
         ]
     },
     {
         "originalIndex": 1460,
-        "name": "诸葛亮 (Zhuge Liang) C1",
+        "name": "泽维尔 (Xavier)",
         "effects": [
-            "Summons a Shu Soldier Minion for each ally with 33% HP and 33% attack inherited from the caster.",
-            "When summoned, the Shu Soldier Minion gives its owner the ability to counterattack with 55% of the damage received as long as the owner has a Shu Soldier Minion. This effect can’t be dispelled.",
-            "Summons a Shu Guerrilla Fiend for all enemies. The Fiend damages its target with 70% attack every turn.",
-            "The Shu Guerrilla Fiend absorbs healing. It disappears after absorbing a healing amount equal to 55% of its target’s max health."
+            "对目标造成 280% 伤害。",
+            "若战队里有 1 名神圣系盟友，该伤害将增加至 290% 并影响附近的敌人。",
+            "若战队里有 2 名神圣系盟友，该伤害将增加至 300% 并影响所有敌人。友方英雄需活着才能触发该效果。",
+            "使所有命中的敌人减少 -20% 法力。"
         ]
     },
     {
         "originalIndex": 1461,
-        "name": "佐拉 (Zora)",
+        "name": "赞德莉亚 (Zandria)",
         "effects": [
-            "Deals 330% damage to all enemies.",
-            "Cleanses status ailments from all allies.",
-            "All allies get +20% attack, and a further +5% increase per each removed status effect up to +60% in total, for 4 turns.",
-            "Element Link gives all Holy allies +10% additional Special Skill damage for 4 turns. This effect cannot be dispelled."
+            "对所有敌人造成 210% 伤害。",
+            "面板上每存在一个神圣系盾牌，便造成额外 20% 伤害，最多累计造成 450% 伤害。",
+            "每名被击败的盟友有 20% 的几率以 40% 的生命值复活。",
+            "面板上每个神圣系盾牌都会使复活几率提高 5%，最高可达 80% 几率。"
         ]
     },
     {
         "originalIndex": 1462,
-        "name": "进阶拟态兽 (Ascension Mimic) Ice",
+        "name": "扎莎 (Zazha)",
         "effects": [
-            "Deals 380% damage to the target and nearby enemies.",
-            "If an enemy is defeated by the attack, the caster recovers +50% health and gains +33% mana.",
-            "The target and nearby enemies receive 608 Bleed damage over 4 turns.",
-            "The Mimic chest closes for 2 turns. (The Mimic is immune to damage and new status ailments while closed.)"
+            "施法者身上所有影响攻击、防御和法力生成的状态异常，将替换为对应的不可驱散增益。（替换效果无法被状态效果和被动技能阻挡。只有可驱散或可净化的状态效果才可被替换。替换效果：攻击力异常状态将被 +40% 攻击力增益取代，持续 4 回合。防御异常状态将被 +40% 防御增益取代，持续 4 回合。法力生成异常状态将被 +40% 法力生成增益取代，持续 4 回合）",
+            "对目标造成 620% 伤害。",
+            "为所有盟友提高相当于所造成伤害 26% 的生命值。"
         ]
     },
     {
         "originalIndex": 1463,
-        "name": "进阶拟态兽 (Ascension Mimic) Nature",
+        "name": "泽克纳 (Zekena)",
         "effects": [
-            "Deals 380% damage to the target and nearby enemies.",
-            "If an enemy is defeated by the attack, the caster recovers +50% health and gains +33% mana.",
-            "The target and nearby enemies receive 608 Bleed damage over 4 turns.",
-            "The Mimic chest closes for 2 turns. (The Mimic is immune to damage and new status ailments while closed.)"
+            "对目标造成 300% 伤害。",
+            "对随机一个不同的敌人造成 450% 伤害。如果目标为暗黑系可造成额外伤害。",
+            "遭到第二次攻击的目标获得 -56% 防御，持续 3 回合。"
         ]
     },
     {
         "originalIndex": 1464,
-        "name": "进阶拟态兽 (Ascension Mimic) Holy",
+        "name": "泽克纳 (Zekena) C1",
         "effects": [
-            "Deals 380% damage to the target and nearby enemies.",
-            "If an enemy is defeated by the attack, the caster recovers +50% health and gains +33% mana.",
-            "The target and nearby enemies receive 608 Bleed damage over 4 turns.",
-            "The Mimic chest closes for 2 turns. (The Mimic is immune to damage and new status ailments while closed.)"
+            "对目标造成 400% 伤害。",
+            "对随机一个不同的敌人造成 400% 伤害。如果目标为暗黑系可造成额外伤害。",
+            "遭到第二次攻击的目标获得 -56% 防御，持续 3 回合。"
         ]
     },
     {
         "originalIndex": 1465,
+        "name": "泽努克瓦 (Zenuk'wa)",
+        "effects": [
+            "对目标及附近敌人造成 275% 伤害。",
+            "目标和附近敌人每获得一个状态异常便受到 225 点伤害，持续 4 回合。",
+            "施法者和附近盟友对新的状态异常免疫，持续 4 回合，且每当有状态异常尝试施加于其上，他们都将恢复 225 点生命值。"
+        ]
+    },
+    {
+        "originalIndex": 1466,
+        "name": "张飞 (Zhang Fei)",
+        "effects": [
+            "对目标造成 530% 伤害。",
+            "所有盟友可将影响防御的状态异常反弹给攻击者，持续 3 回合。该效果不可无视。同队角色、小兵和恶魔施放的状态效果无法反弹。"
+        ]
+    },
+    {
+        "originalIndex": 1467,
+        "name": "张飞 (Zhang Fei) C1",
+        "effects": [
+            "对目标造成 520% 伤害。",
+            "目标在 3 回合内受到共计 390 点流血伤害。",
+            "所有盟友可将影响防御的状态异常反弹给攻击者，持续 3 回合。该效果不可无视。"
+        ]
+    },
+    {
+        "originalIndex": 1468,
+        "name": "诸葛亮 (Zhuge Liang)",
+        "effects": [
+            "为每位盟友召唤一个蜀军小兵，其可从施法者处继承 16% 生命和 17% 攻击力。",
+            "蜀军小兵使其所有者能以所受伤害的 60% 作出反击，只要其所有者拥有蜀军小兵。此效果无法驱散。",
+            "召唤蜀军游击恶魔附身于所有敌人。恶魔每回合对其目标造成 75% 攻击力的伤害。",
+            "蜀军游击恶魔会吸收治疗，当吸收的治疗量达到其目标生命值的 50% 时，它便会消失。"
+        ]
+    },
+    {
+        "originalIndex": 1469,
+        "name": "诸葛亮 (Zhuge Liang) C1",
+        "effects": [
+            "为每位盟友召唤一个蜀军小兵，其可从施法者处继承 33% 生命和 33% 攻击力。",
+            "蜀军小兵被召唤后，只要其所有者拥有蜀军小兵，其所有者就能以所受伤害的 55% 作出反击。此效果无法驱散。",
+            "召唤蜀军游击恶魔附身于所有敌人。恶魔每回合对其目标造成 70% 攻击力的伤害。",
+            "蜀军游击恶魔会吸收治疗，当吸收的治疗量达到其目标最大生命值的 55% 时，它便会消失。"
+        ]
+    },
+    {
+        "originalIndex": 1470,
+        "name": "佐拉 (Zora)",
+        "effects": [
+            "对所有敌人造成 330% 伤害。",
+            "净化所有盟友的状态异常。",
+            "所有盟友获得 +20% 攻击力，且每移除一个状态效果便再增加 +5% 攻击力，最高可达 +60%，持续 4 回合。",
+            "元素链为全体神圣系盟友提供额外 +10% 的特殊技能伤害，持续 4 回合。此效果无法驱散。"
+        ]
+    },
+    {
+        "originalIndex": 1471,
+        "name": "进阶拟态兽 (Ascension Mimic) Nature",
+        "effects": [
+            "对目标及附近敌人造成 380% 伤害。",
+            "若本次攻击将敌人击败，那么施法者将恢复 +50% 生命并获得 +33% 法力。",
+            "目标与附近敌人在 4 回合内受到共计 608 点流血伤害。",
+            "拟态兽宝箱关闭 2 回合。（拟态兽宝箱关闭时免疫伤害和新的状态异常）"
+        ]
+    },
+    {
+        "originalIndex": 1472,
+        "name": "进阶拟态兽 (Ascension Mimic) Holy",
+        "effects": [
+            "对目标及附近敌人造成 380% 伤害。",
+            "若本次攻击将敌人击败，那么施法者将恢复 +50% 生命并获得 +33% 法力。",
+            "目标与附近敌人在 4 回合内受到共计 608 点流血伤害。",
+            "拟态兽宝箱关闭 2 回合。（拟态兽宝箱关闭时免疫伤害和新的状态异常）"
+        ]
+    },
+    {
+        "originalIndex": 1473,
         "name": "进阶拟态兽 (Ascension Mimic) Dark",
         "effects": [
-            "Deals 380% damage to the target and nearby enemies.",
-            "If an enemy is defeated by the attack, the caster recovers +50% health and gains +33% mana.",
-            "The target and nearby enemies receive 608 Bleed damage over 4 turns.",
-            "The Mimic chest closes for 2 turns. (The Mimic is immune to damage and new status ailments while closed.)"
+            "对目标及附近敌人造成 380% 伤害。",
+            "若本次攻击将敌人击败，那么施法者将恢复 +50% 生命并获得 +33% 法力。",
+            "目标与附近敌人在 4 回合内受到共计 608 点流血伤害。",
+            "拟态兽宝箱关闭 2 回合。（拟态兽宝箱关闭时免疫伤害和新的状态异常）"
         ]
     }
 ];

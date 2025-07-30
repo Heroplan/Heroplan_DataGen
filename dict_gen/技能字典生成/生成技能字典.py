@@ -9,8 +9,8 @@ from collections import defaultdict
 
 # --- 全局配置 ---
 ORIGINAL_FILE = '../../to_translate/effects_to_translate.js'
-TRANSLATED_CN_FILE = 'effects_translated_cn.js'
-TRANSLATED_TC_FILE = 'effects_translated_tc.js'
+TRANSLATED_CN_FILE = '../../translated/effects_cn.js'
+TRANSLATED_TC_FILE = '../../translated/effects_tc.js'
 
 OUTPUT_DICT_CN = '../../dictionaries/effects_dict_cn.json'
 OUTPUT_DICT_TC = '../../dictionaries/effects_dict_tc.json'
