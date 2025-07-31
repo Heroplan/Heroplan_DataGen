@@ -1,10 +1,10 @@
 # Universal Interactive Binary Parser
 #
 # The definitive tool for parsing serialized binary files from the game.
-# Supports drag-and-drop, folder batch processing, and all known data rules.
+# Now with case-insensitive lookup for data replacement.
 #
 # Author: Your Name Here (with AI collaboration)
-# Version: 6.0.0 (Final & Unified)
+# Version: 12.0.0 (Case-Insensitive & Final)
 # Last Updated: 2025-07-30
 
 import json
@@ -15,39 +15,170 @@ import os
 
 # --- 核心数据结构与常量 ---
 CUSTOM_EPOCH = datetime.datetime(2000, 1, 1)
-SPECIAL_TIMESTAMP_KEYS = ('startTime', 'endTime', 'canBeReceivedDate', 'startDate', 'endDate', 'canBeAscendedToDate')
+
+# ==============================================================================
+# --- 用户配置区：在这里添加您的自定义规则 ---
+# ==============================================================================
+SPECIAL_TIMESTAMP_KEYS = (
+    'startTime', 'endTime', 'canBeReceivedDate', 
+    'startDate', 'endDate', 'canBeAscendedToDate','earliestLaunchDate'
+)
 SPECIAL_BOOLEAN_TRUE_KEYS = (
     'hasImprovedTalentSkill', 'isSecret', 'isDefaultRider', 
     'forceUseCostumeLevelUpAndUpgradeCosts', 'isGuest'
 )
+SPECIAL_DURATION_KEYS = ('duration', 'timeOfDay','preparationDuration','mapDuration','aftermathDuration')
+REPLACEMENT_RULES = {
+    ('heroes', 'featuredHeroes','costumeId'): {
+        'file': 'heroes_name_cn.txt', 
+        'prefix': 'heroes.name.',      
+        'compound_rule': {
+            'trigger_keyword': '_costume', 
+            'costume_lookup': {
+                'file': 'heroes_name_fancy_cn.txt',
+                'prefix': 'heroes.name_fancy.'
+            },
+            'separator': '-' 
+        }
+    },
+    ('families', 'featuredFamilies'): {
+        'file': 'family_title_cn.txt', 
+        'prefix': 'herocard.family.title.'
+    },
+    ('eventId', ): {
+        'file': 'event_name_cn.txt', 
+        'prefix': 'event.name.'
+    }
+}
+# ==============================================================================
 
-# --- 底层数据读取与转换函数 ---
+# --- 全局变量 ---
+FLATTENED_REPLACEMENT_RULES = {}
+LOOKUP_TABLES = {}
+
+# --- 新增：规则处理函数 ---
+def flatten_rules(rules_dict):
+    flattened = {}
+    for key, rule in rules_dict.items():
+        if isinstance(key, tuple):
+            for single_key in key:
+                flattened[single_key] = rule
+        else:
+            flattened[key] = rule
+    return flattened
+
+# --- 预加载与转换函数 ---
+def load_lookup_tables():
+    print("--- 正在预加载查找表... ---")
+    files_to_load = set()
+    for rule in REPLACEMENT_RULES.values():
+        if 'file' in rule: files_to_load.add(rule['file'])
+        if 'compound_rule' in rule and 'costume_lookup' in rule['compound_rule']:
+            files_to_load.add(rule['compound_rule']['costume_lookup']['file'])
+
+    for filename in files_to_load:
+        try:
+            table = {}
+            with open(filename, 'r', encoding='utf-8') as f:
+                for line in f:
+                    if ',' in line:
+                        lookup_key, value = line.split(',', 1)
+                        table[lookup_key.strip().strip('"')] = value.strip().strip('"')
+            LOOKUP_TABLES[filename] = table
+            print(f"✅ 成功加载 '{filename}' ({len(table)} 条规则)")
+        except FileNotFoundError:
+            print(f"🟡 警告: 查找文件 '{filename}' 未找到，相关替换将不可用。")
+        except Exception as e:
+            print(f"❌ 加载 '{filename}' 时发生错误: {e}")
+
+def process_single_replacement(value, rule):
+    """
+    处理单个值的查找和替换，包含高级复合规则逻辑。
+    --- 新增：此函数现在是大小写不敏感的 ---
+    """
+    if not isinstance(value, str): return value
+
+    # --- CASE-INSENSITIVE LOOKUP ---
+    # 1. 立即将输入值转换为小写，用于所有后续的比较和查找键构建
+    lower_value = value.lower()
+
+    compound_rule = rule.get('compound_rule')
+    
+    # 2. 使用小写值来检查触发器
+    if compound_rule and compound_rule['trigger_keyword'] in lower_value:
+        trigger = compound_rule['trigger_keyword']
+        
+        # 查找服装名称
+        costume_rule = compound_rule['costume_lookup']
+        costume_table = LOOKUP_TABLES.get(costume_rule['file'])
+        # 默认返回原始大小写的值
+        costume_name = value 
+        if costume_table:
+            # 3. 使用小写值构建查找键
+            costume_key = costume_rule['prefix'] + lower_value
+            costume_name = costume_table.get(costume_key, value) # 未找到则返回原始值
+        
+        # 查找本体名称
+        base_table = LOOKUP_TABLES.get(rule['file'])
+        base_name = None
+        if base_table:
+            # 4. 从小写值中分割出本体ID
+            base_id = lower_value.split(trigger)[0]
+            base_key = rule['prefix'] + base_id
+            base_name = base_table.get(base_key)
+        
+        if base_name and costume_name != value:
+            return f"{base_name}{compound_rule.get('separator', '-')}{costume_name}"
+        else:
+            return costume_name
+    else:
+        # 常规查找
+        table = LOOKUP_TABLES.get(rule['file'])
+        if table:
+            # 5. 使用小写值构建查找键
+            lookup_key = rule['prefix'] + lower_value
+            return table.get(lookup_key, value) # 未找到则返回原始大小写的值
+
+    return value
+
+def apply_replacement(original_value, field_name):
+    if field_name not in FLATTENED_REPLACEMENT_RULES: return original_value
+    rule = FLATTENED_REPLACEMENT_RULES[field_name]
+    if isinstance(original_value, list):
+        return [process_single_replacement(item, rule) for item in original_value]
+    else:
+        return process_single_replacement(original_value, rule)
+
 def convert_timestamp(seconds):
-    try:
-        return (CUSTOM_EPOCH + datetime.timedelta(seconds=seconds)).strftime('%Y-%m-%d %H:%M:%S')
-    except (ValueError, TypeError):
-        return seconds
+    try: return (CUSTOM_EPOCH + datetime.timedelta(seconds=seconds)).strftime('%Y-%m-%d %H:%M:%S')
+    except (ValueError, TypeError): return seconds
+def convert_duration(total_seconds):
+    if not isinstance(total_seconds, int) or total_seconds < 0: return total_seconds
+    parts, td = [], datetime.timedelta(seconds=total_seconds)
+    days, hours, minutes, seconds = td.days, td.seconds // 3600, (td.seconds // 60) % 60, td.seconds % 60
+    if days > 0: parts.append(f"{days}天")
+    if hours > 0: parts.append(f"{hours}小时")
+    if minutes > 0: parts.append(f"{minutes}分钟")
+    if seconds > 0 or not parts: parts.append(f"{seconds}秒")
+    return "".join(parts)
 
+# --- 底层数据读取函数 ---
 def read_string(data, offset):
     if offset >= len(data): raise IndexError(f"读取短字符串长度时越界 (位置: {offset})。")
     length = data[offset]; offset += 1
     if offset + length > len(data): raise IndexError(f"读取短字符串内容时越界 (位置: {offset})。")
     return data[offset:offset + length].decode('utf-8', errors='ignore'), offset + length
-
 def read_long_string(data, offset):
     if offset + 2 > len(data): raise IndexError(f"读取长字符串长度时越界 (位置: {offset})。")
     length = int.from_bytes(data[offset:offset+2], 'little'); offset += 2
     if offset + length > len(data): raise IndexError(f"读取长字符串内容时越界 (位置: {offset})。")
     return data[offset:offset + length].decode('utf-8', errors='ignore'), offset + length
-
 def read_short(data, offset):
     if offset + 2 > len(data): raise IndexError(f"读取 short 时越界 (位置: {offset})。")
     return int.from_bytes(data[offset:offset + 2], 'little', signed=False), offset + 2
-
 def read_int(data, offset):
     if offset + 4 > len(data): raise IndexError(f"读取 int 时越界 (位置: {offset})。")
     return int.from_bytes(data[offset:offset + 4], 'little', signed=False), offset + 4
-    
 def read_long(data, offset):
     if offset + 8 > len(data): raise IndexError(f"读取 long 时越界 (位置: {offset})。")
     return int.from_bytes(data[offset:offset + 8], 'little', signed=False), offset + 8
@@ -55,7 +186,6 @@ def read_long(data, offset):
 # --- 核心递归解析器 ---
 def read_value(data, offset, type_code):
     if type_code == 0x08: return read_string(data, offset)
-    # --- 新增规则：长字符串 ---
     elif type_code == 0x09: return read_long_string(data, offset)
     elif type_code == 0x04: return read_short(data, offset)
     elif type_code == 0x05: return read_int(data, offset)
@@ -64,8 +194,7 @@ def read_value(data, offset, type_code):
     elif type_code == 0x01: return False, offset
     elif type_code == 0x0B: return parse_object(data, offset)
     elif type_code == 0x0A: return read_list(data, offset)
-    else:
-        raise ValueError(f"在通用解析器中遇到未知类型 {hex(type_code)} (位置: {offset - 1})")
+    else: raise ValueError(f"在通用解析器中遇到未知类型 {hex(type_code)} (位置: {offset - 1})")
 
 def read_list(data, offset):
     items = []
@@ -84,24 +213,29 @@ def parse_object(data, offset):
         if offset >= len(data): raise IndexError(f"读取字段'{field_name}'的类型/长度时越界。")
         code = data[offset]; offset += 1
         if field_name in SPECIAL_TIMESTAMP_KEYS:
-            if code == 0x05:
-                seconds, offset = read_int(data, offset)
-            elif code == 0x06:
-                seconds, offset = read_long(data, offset)
-            else:
-                raise ValueError(f"字段 '{field_name}' 后遇到未知长度码 {hex(code)}")
+            if code == 0x05: seconds, offset = read_int(data, offset)
+            elif code == 0x06: seconds, offset = read_long(data, offset)
+            else: raise ValueError(f"字段 '{field_name}' 后遇到未知长度码 {hex(code)}")
             value = convert_timestamp(seconds)
+        elif field_name in SPECIAL_DURATION_KEYS:
+            if code == 0x05: seconds, offset = read_int(data, offset)
+            else:
+                raw_val, offset = read_value(data, offset, code)
+                seconds = raw_val
+            value = convert_duration(seconds)
         elif field_name in SPECIAL_BOOLEAN_TRUE_KEYS:
             if code != 0x02: raise ValueError(f"字段 '{field_name}' 期望类型码 0x02")
             value = True
         else:
             value, offset = read_value(data, offset, code)
+            value = apply_replacement(value, field_name)
         obj[field_name] = value
     if offset < len(data) and data[offset] == 0xFF: offset += 1
     else:
         if offset != len(data): pass
     return obj, offset
     
+# --- 文件与文件夹处理核心逻辑 ---
 def get_start_offset(data, filename):
     if 'characters' in filename.lower():
         try:
@@ -109,18 +243,14 @@ def get_start_offset(data, filename):
             return data.index(header) + len(header)
         except ValueError:
             print(f"警告: 在 '{filename}' 中未找到 'heroes' 头，将尝试从文件开头解析。")
-    if data and data[0] == 0x0B:
-        return 1
+    if data and data[0] == 0x0B: return 1
     return 0
 
-# --- 文件与文件夹处理核心逻辑 ---
-    
 def process_path(path):
     path = path.strip().strip('"')
     if not os.path.exists(path):
         print(f"❌ 错误: 路径不存在 '{path}'")
         return
-
     if os.path.isdir(path):
         print(f"\n--- 正在处理文件夹: '{os.path.basename(path)}' ---")
         json_output_dir = os.path.join(path, 'json')
@@ -151,15 +281,12 @@ def process_file(filepath, output_dir):
         if not binary_data:
             print("🟡 文件为空，已跳过。")
             return
-
         start_offset = get_start_offset(binary_data, basename)
         print(f"确定起始解析偏移量为: {start_offset}")
-
         if 'characters' in basename.lower():
             parsed_data, final_offset = parse_characters_file(binary_data, start_offset)
         else:
             parsed_data, final_offset = parse_object(binary_data, start_offset)
-
         print(f"解析完成！最终偏移量: {final_offset} / {len(binary_data)}。")
         print(f"正在将结果写入文件: '{output_filename}'...")
         with open(output_filename, 'w', encoding='utf-8') as f:
@@ -181,23 +308,24 @@ def parse_characters_file(data, start_offset):
         if hero_obj.get('id'):
             parsed_data[hero_obj['id']] = hero_obj
     return parsed_data, offset
-
-# --- Main 函数与模式自适应 ---
 def main():
+    global FLATTENED_REPLACEMENT_RULES
+    print("=====================================================")
+    print("✅ 通用二进制解析器 v12.0 (大小写不敏感)")
+    print("=====================================================")
+    
+    FLATTENED_REPLACEMENT_RULES = flatten_rules(REPLACEMENT_RULES)
+    load_lookup_tables()
+
     paths_to_process = sys.argv[1:]
     if paths_to_process:
-        print("=====================================================")
-        print("✅ 通用二进制解析器 v6.0 (直接处理模式)")
-        print("=====================================================")
+        print("\n--- 检测到命令行参数，进入直接处理模式 ---")
         for path in paths_to_process:
             process_path(path)
         print("\n\n--- 所有任务处理完毕 ---")
         return
 
-    print("=====================================================")
-    print("✅ 通用二进制解析器 v6.0 (交互模式)")
-    print("=====================================================")
-    print("请将一个或多个文件/文件夹拖放到此窗口中，然后按 Enter。")
+    print("\n请将一个或多个文件/文件夹拖放到此窗口中，然后按 Enter。")
     print("直接按 Enter 或输入 'exit' / 'quit' 即可退出程序。")
     
     while True:

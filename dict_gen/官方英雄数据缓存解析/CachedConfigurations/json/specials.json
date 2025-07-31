@@ -12233,7 +12233,7 @@
             "id": "bleed_sun_erniang",
             "sideAffected": "Enemies",
             "statusTargetType": "All",
-            "turns": 3
+            "turns": 5
           }
         ]
       },
@@ -32154,7 +32154,7 @@
         },
         "maxLevel": 8,
         "properties": [
-          "ignore_dodge_effects_always",
+          "always_hit",
           "chain_strike_maple"
         ],
         "statusEffects": [
@@ -46599,15 +46599,15 @@
         ],
         "statusEffects": [
           {
-            "id": "silence",
+            "id": "block_status_effect_casting",
             "sideAffected": "Enemies",
-            "statusTargetType": "NearToTarget",
+            "statusTargetType": "Single",
             "turns": 3
           },
           {
             "id": "devouring_goo_gloozmer",
             "sideAffected": "Enemies",
-            "statusTargetType": "NearToTarget",
+            "statusTargetType": "Single",
             "turns": 3
           }
         ]
@@ -57077,7 +57077,7 @@
       {
         "propertyType": "SecondaryDirectEffect",
         "id": "damage_sun_erniang_base",
-        "powerMultiplierPerMil": 1650,
+        "powerMultiplierPerMil": 2150,
         "powerMultiplierIncrementPerLevelPerMil": 50,
         "effectType": "Damage",
         "targetType": "All",
@@ -57087,7 +57087,7 @@
       {
         "propertyType": "SecondaryDirectEffect",
         "id": "damage_sun_erniang_buffed",
-        "powerMultiplierPerMil": 2400,
+        "powerMultiplierPerMil": 2650,
         "powerMultiplierIncrementPerLevelPerMil": 50,
         "effectType": "Damage",
         "targetType": "All",
@@ -57132,10 +57132,10 @@
         "id": "add_status_effect_sun_erniang",
         "statusEffects": [
           {
-            "id": "bleed_sun_erniang",
+            "id": "bleed_sun_erniang_more",
             "sideAffected": "Enemies",
             "statusTargetType": "All",
-            "turns": 3
+            "turns": 5
           }
         ]
       },
@@ -57517,5 +57517,5 @@
       }
     ]
   },
-  "specialsConfigId": 1235923853
+  "specialsConfigId": 1471909651
 }

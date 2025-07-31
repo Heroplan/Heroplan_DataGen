@@ -23236,255 +23236,6 @@
             }
           },
           {
-            "type": "CurrentSeasonSummonToken",
-            "amountResolver": {
-              "resolverType": "WeightedRandom",
-              "amounts": [
-                2,
-                3,
-                5,
-                10,
-                20,
-                30
-              ],
-              "weights": [
-                6,
-                10,
-                50,
-                30,
-                3,
-                1
-              ]
-            }
-          },
-          {
-            "type": "Item",
-            "amountResolver": {
-              "resolverType": "WeightedRandom",
-              "amounts": [
-                1,
-                2,
-                3
-              ],
-              "weights": [
-                93,
-                4,
-                3
-              ]
-            },
-            "idResolver": {
-              "resolverType": "Fixed",
-              "entityId": "lottery_costume_key"
-            }
-          },
-          {
-            "type": "Item",
-            "itemTypeResolver": {
-              "resolverType": "Fixed",
-              "itemType": "ItemCrafting"
-            },
-            "rarityResolver": {
-              "resolverType": "WeightedRandom",
-              "weights": [
-                0,
-                0,
-                0,
-                0,
-                1
-              ]
-            }
-          },
-          {
-            "type": "Item",
-            "itemTypeResolver": {
-              "resolverType": "Fixed",
-              "itemType": "AscensionMaterial"
-            },
-            "rarityResolver": {
-              "resolverType": "WeightedRandom",
-              "weights": [
-                0,
-                0,
-                0,
-                100,
-                12
-              ]
-            },
-            "additionalDrawCount": 1
-          },
-          {
-            "type": "Item",
-            "itemTypeResolver": {
-              "resolverType": "Fixed",
-              "itemType": "Battle"
-            },
-            "rarityResolver": {
-              "resolverType": "WeightedRandom",
-              "weights": [
-                0,
-                0,
-                0,
-                1,
-                1,
-                0
-              ]
-            }
-          },
-          {
-            "type": "TrainerCharacter",
-            "rarityResolver": {
-              "resolverType": "WeightedRandom",
-              "weights": [
-                0,
-                75,
-                20,
-                5,
-                0,
-                0
-              ]
-            }
-          },
-          {
-            "type": "Item",
-            "itemTypeResolver": {
-              "resolverType": "Fixed",
-              "itemType": "HeroEmblem"
-            },
-            "amountResolver": {
-              "resolverType": "WeightedRandom",
-              "amounts": [
-                30,
-                50
-              ],
-              "weights": [
-                80,
-                20
-              ]
-            },
-            "rarityResolver": {
-              "resolverType": "Fixed",
-              "rarity": 4
-            }
-          },
-          {
-            "type": "Item",
-            "itemTypeResolver": {
-              "resolverType": "Fixed",
-              "itemType": "HeroEmblem"
-            },
-            "amountResolver": {
-              "resolverType": "WeightedRandom",
-              "amounts": [
-                0,
-                1,
-                2,
-                3,
-                5
-              ],
-              "weights": [
-                89,
-                5,
-                3,
-                2,
-                1
-              ]
-            },
-            "rarityResolver": {
-              "resolverType": "Fixed",
-              "rarity": 5
-            }
-          },
-          {
-            "type": "Item",
-            "amountResolver": {
-              "resolverType": "WeightedRandom",
-              "amounts": [
-                0,
-                1
-              ],
-              "weights": [
-                80,
-                20
-              ]
-            },
-            "idResolver": {
-              "resolverType": "Fixed",
-              "entityId": "hero_limitbreak_alpha"
-            }
-          },
-          {
-            "type": "Item",
-            "amountResolver": {
-              "resolverType": "WeightedRandom",
-              "amounts": [
-                0,
-                1
-              ],
-              "weights": [
-                9999,
-                1
-              ]
-            },
-            "idResolver": {
-              "resolverType": "Fixed",
-              "entityId": "tome_ascension"
-            }
-          },
-          {
-            "type": "Item",
-            "amountResolver": {
-              "resolverType": "WeightedRandom",
-              "amounts": [
-                0,
-                1
-              ],
-              "weights": [
-                997,
-                3
-              ]
-            },
-            "idResolver": {
-              "resolverType": "Fixed",
-              "entityId": "tome_levels_legendary"
-            }
-          },
-          {
-            "type": "Item",
-            "amountResolver": {
-              "resolverType": "WeightedRandom",
-              "amounts": [
-                0,
-                1
-              ],
-              "weights": [
-                999,
-                1
-              ]
-            },
-            "idResolver": {
-              "resolverType": "Fixed",
-              "entityId": "collection_free_talent_points_legendary"
-            }
-          },
-          {
-            "type": "Item",
-            "amountResolver": {
-              "resolverType": "WeightedRandom",
-              "amounts": [
-                0,
-                1
-              ],
-              "weights": [
-                998,
-                2
-              ]
-            },
-            "idResolver": {
-              "resolverType": "Fixed",
-              "entityId": "collection_free_talent_points_epic"
-            }
-          },
-          {
             "type": "Item",
             "idResolver": {
               "resolverType": "WeightedRandom",
@@ -23499,26 +23250,6 @@
                 1
               ]
             }
-          },
-          {
-            "type": "Item",
-            "idResolver": {
-              "resolverType": "WeightedRandom",
-              "entityIds": [
-                "lottery_basic",
-                "lottery_elite_troop",
-                "lottery_elite_hero"
-              ],
-              "weights": [
-                6,
-                1,
-                1
-              ]
-            },
-            "additionalDrawCount": 2
-          },
-          {
-            "type": "PiggyBankBag"
           },
           {
             "type": "TrainerCharacter",
@@ -23543,28 +23274,6 @@
                 80,
                 20
               ]
-            }
-          },
-          {
-            "type": "Item",
-            "itemTypeResolver": {
-              "resolverType": "Fixed",
-              "itemType": "HeroLimitBreak"
-            },
-            "amountResolver": {
-              "resolverType": "WeightedRandom",
-              "amounts": [
-                0,
-                1
-              ],
-              "weights": [
-                60,
-                40
-              ]
-            },
-            "rarityResolver": {
-              "resolverType": "Fixed",
-              "rarity": 3
             },
             "additionalDrawCount": 2
           },
@@ -23575,15 +23284,24 @@
               "itemType": "HeroLimitBreak"
             },
             "amountResolver": {
-              "resolverType": "WeightedRandom",
-              "amounts": [
-                0,
-                1
-              ],
-              "weights": [
-                60,
-                40
-              ]
+              "resolverType": "Fixed",
+              "amount": 1
+            },
+            "rarityResolver": {
+              "resolverType": "Fixed",
+              "rarity": 3
+            },
+            "additionalDrawCount": 3
+          },
+          {
+            "type": "Item",
+            "itemTypeResolver": {
+              "resolverType": "Fixed",
+              "itemType": "HeroLimitBreak"
+            },
+            "amountResolver": {
+              "resolverType": "Fixed",
+              "amount": 1
             },
             "rarityResolver": {
               "resolverType": "Fixed",
@@ -23598,20 +23316,60 @@
               "itemType": "HeroLimitBreak"
             },
             "amountResolver": {
-              "resolverType": "WeightedRandom",
-              "amounts": [
-                0,
-                1
-              ],
-              "weights": [
-                90,
-                10
-              ]
+              "resolverType": "Fixed",
+              "amount": 1
             },
             "rarityResolver": {
               "resolverType": "Fixed",
               "rarity": 5
             }
+          },
+          {
+            "type": "Item",
+            "idResolver": {
+              "resolverType": "WeightedRandom",
+              "entityIds": [
+                "refill_food_medium",
+                "refill_food_large",
+                "refill_food_giant"
+              ],
+              "weights": [
+                1,
+                1,
+                1
+              ]
+            }
+          },
+          {
+            "type": "Item",
+            "idResolver": {
+              "resolverType": "WeightedRandom",
+              "entityIds": [
+                "refill_iron_medium",
+                "refill_iron_large",
+                "refill_iron_giant"
+              ],
+              "weights": [
+                1,
+                1,
+                1
+              ]
+            }
+          },
+          {
+            "type": "Item",
+            "idResolver": {
+              "resolverType": "Fixed",
+              "entityId": "lottery_elite_hero"
+            }
+          },
+          {
+            "type": "Item",
+            "idResolver": {
+              "resolverType": "Fixed",
+              "entityId": "lottery_elite_troop"
+            },
+            "additionalDrawCount": 1
           }
         ]
       },
@@ -41499,5 +41257,5 @@
       }
     ]
   },
-  "lootsConfigId": 2643075666
+  "lootsConfigId": 349660687
 }

@@ -42,7 +42,7 @@
         "type": "RecurringCommon",
         "rarityRequirementsId": "",
         "heroClassGroupRequirementsId": "",
-        "duration": 86400,
+        "duration": "1天",
         "provinceLootTableId": "province_12",
         "provinceLootItemLimit": 3,
         "quests": [
@@ -204,7 +204,7 @@
         "type": "RecurringCommon",
         "rarityRequirementsId": "",
         "heroClassGroupRequirementsId": "",
-        "duration": 86400,
+        "duration": "1天",
         "provinceLootTableId": "province_12",
         "provinceLootItemLimit": 3,
         "quests": [
@@ -366,7 +366,7 @@
         "type": "RecurringCommon",
         "rarityRequirementsId": "",
         "heroClassGroupRequirementsId": "",
-        "duration": 86400,
+        "duration": "1天",
         "provinceLootTableId": "province_12",
         "provinceLootItemLimit": 3,
         "quests": [
@@ -528,7 +528,7 @@
         "type": "RecurringCommon",
         "rarityRequirementsId": "",
         "heroClassGroupRequirementsId": "",
-        "duration": 86400,
+        "duration": "1天",
         "provinceLootTableId": "province_12",
         "provinceLootItemLimit": 3,
         "quests": [
@@ -690,7 +690,7 @@
         "type": "RecurringCommon",
         "rarityRequirementsId": "",
         "heroClassGroupRequirementsId": "",
-        "duration": 86400,
+        "duration": "1天",
         "provinceLootTableId": "province_12",
         "provinceLootItemLimit": 3,
         "quests": [
@@ -855,7 +855,7 @@
         "type": "RecurringCommon",
         "rarityRequirementsId": "",
         "heroClassGroupRequirementsId": "",
-        "duration": 86400,
+        "duration": "1天",
         "provinceLootTableId": "province_1",
         "provinceLootItemLimit": 0,
         "quests": [
@@ -1049,7 +1049,7 @@
         "type": "RecurringCommon",
         "rarityRequirementsId": "",
         "heroClassGroupRequirementsId": "",
-        "duration": 86400,
+        "duration": "1天",
         "provinceLootTableId": "province_1",
         "provinceLootItemLimit": 0,
         "quests": [
@@ -1247,7 +1247,7 @@
         "type": "RecurringCommon",
         "rarityRequirementsId": "",
         "heroClassGroupRequirementsId": "",
-        "duration": 86400,
+        "duration": "1天",
         "provinceLootTableId": "province_1",
         "provinceLootItemLimit": 0,
         "quests": [
@@ -1421,7 +1421,7 @@
         "type": "RecurringRare",
         "rarityRequirementsId": "",
         "heroClassGroupRequirementsId": "",
-        "duration": 129600,
+        "duration": "1天12小时",
         "provinceLootTableId": "province_14",
         "provinceLootItemLimit": 3,
         "quests": [
@@ -1725,7 +1725,7 @@
         "type": "RecurringRare",
         "rarityRequirementsId": "",
         "heroClassGroupRequirementsId": "",
-        "duration": 129600,
+        "duration": "1天12小时",
         "provinceLootTableId": "province_14",
         "provinceLootItemLimit": 3,
         "quests": [
@@ -2029,7 +2029,7 @@
         "type": "RecurringRare",
         "rarityRequirementsId": "",
         "heroClassGroupRequirementsId": "",
-        "duration": 129600,
+        "duration": "1天12小时",
         "provinceLootTableId": "province_14",
         "provinceLootItemLimit": 3,
         "quests": [
@@ -2333,7 +2333,7 @@
         "type": "RecurringRare",
         "rarityRequirementsId": "",
         "heroClassGroupRequirementsId": "",
-        "duration": 129600,
+        "duration": "1天12小时",
         "provinceLootTableId": "province_14",
         "provinceLootItemLimit": 3,
         "quests": [
@@ -2637,7 +2637,7 @@
         "type": "RecurringRare",
         "rarityRequirementsId": "",
         "heroClassGroupRequirementsId": "",
-        "duration": 129600,
+        "duration": "1天12小时",
         "provinceLootTableId": "province_14",
         "provinceLootItemLimit": 3,
         "quests": [
@@ -2941,7 +2941,7 @@
         "type": "RecurringRare",
         "rarityRequirementsId": "",
         "heroClassGroupRequirementsId": "",
-        "duration": 129600,
+        "duration": "1天12小时",
         "provinceLootTableId": "province_14",
         "provinceLootItemLimit": 3,
         "quests": [
@@ -3245,7 +3245,7 @@
         "type": "RecurringRare",
         "rarityRequirementsId": "",
         "heroClassGroupRequirementsId": "",
-        "duration": 129600,
+        "duration": "1天12小时",
         "provinceLootTableId": "province_14",
         "provinceLootItemLimit": 3,
         "quests": [
@@ -3549,7 +3549,7 @@
         "type": "RecurringUncommon",
         "rarityRequirementsId": "",
         "heroClassGroupRequirementsId": "",
-        "duration": 108000,
+        "duration": "1天6小时",
         "provinceLootTableId": "province_16",
         "provinceLootItemLimit": 3,
         "quests": [
@@ -3715,7 +3715,7 @@
         "type": "RecurringUncommon",
         "rarityRequirementsId": "",
         "heroClassGroupRequirementsId": "",
-        "duration": 108000,
+        "duration": "1天6小时",
         "provinceLootTableId": "province_16",
         "provinceLootItemLimit": 3,
         "quests": [
@@ -3885,7 +3885,7 @@
         "type": "RecurringUncommon",
         "rarityRequirementsId": "",
         "heroClassGroupRequirementsId": "",
-        "duration": 108000,
+        "duration": "1天6小时",
         "provinceLootTableId": "province_1",
         "provinceLootItemLimit": 0,
         "quests": [
@@ -4086,7 +4086,7 @@
         "type": "RecurringUncommon",
         "rarityRequirementsId": "",
         "heroClassGroupRequirementsId": "",
-        "duration": 108000,
+        "duration": "1天6小时",
         "provinceLootTableId": "province_1",
         "provinceLootItemLimit": 0,
         "quests": [
@@ -4288,7 +4288,7 @@
         "eventOrigin": "RecurringFestival",
         "rarityRequirementsId": "legendary",
         "heroClassGroupRequirementsId": "",
-        "duration": 259200,
+        "duration": "3天",
         "provinceLootTableId": "province_18",
         "provinceLootItemLimit": 5,
         "quests": [
@@ -4811,7 +4811,7 @@
         "eventOrigin": "RecurringFestival",
         "rarityRequirementsId": "epic",
         "heroClassGroupRequirementsId": "",
-        "duration": 259200,
+        "duration": "3天",
         "provinceLootTableId": "province_14",
         "provinceLootItemLimit": 4,
         "quests": [
@@ -5339,7 +5339,7 @@
         "eventOrigin": "RecurringFestival",
         "rarityRequirementsId": "rare",
         "heroClassGroupRequirementsId": "",
-        "duration": 259200,
+        "duration": "3天",
         "provinceLootTableId": "province_10",
         "provinceLootItemLimit": 3,
         "quests": [
@@ -5864,7 +5864,7 @@
         "eventOrigin": "Summer",
         "rarityRequirementsId": "",
         "heroClassGroupRequirementsId": "",
-        "duration": 1209600,
+        "duration": "14天",
         "provinceLootTableId": "province_11",
         "provinceLootItemLimit": 3,
         "quests": [
@@ -7114,7 +7114,7 @@
         "eventOrigin": "Summer",
         "rarityRequirementsId": "",
         "heroClassGroupRequirementsId": "",
-        "duration": 1209600,
+        "duration": "14天",
         "provinceLootTableId": "province_14",
         "provinceLootItemLimit": 3,
         "quests": [
@@ -8376,7 +8376,7 @@
         "eventOrigin": "Summer",
         "rarityRequirementsId": "",
         "heroClassGroupRequirementsId": "",
-        "duration": 1209600,
+        "duration": "14天",
         "provinceLootTableId": "province_20",
         "provinceLootItemLimit": 5,
         "quests": [
@@ -9732,7 +9732,7 @@
         "eventOrigin": "Halloween",
         "rarityRequirementsId": "",
         "heroClassGroupRequirementsId": "",
-        "duration": 1209600,
+        "duration": "14天",
         "provinceLootTableId": "province_11",
         "provinceLootItemLimit": 3,
         "quests": [
@@ -11353,7 +11353,7 @@
         "eventOrigin": "Halloween",
         "rarityRequirementsId": "",
         "heroClassGroupRequirementsId": "",
-        "duration": 1209600,
+        "duration": "14天",
         "provinceLootTableId": "province_14",
         "provinceLootItemLimit": 3,
         "quests": [
@@ -13029,7 +13029,7 @@
         "eventOrigin": "Halloween",
         "rarityRequirementsId": "",
         "heroClassGroupRequirementsId": "",
-        "duration": 1209600,
+        "duration": "14天",
         "provinceLootTableId": "province_20",
         "provinceLootItemLimit": 5,
         "quests": [
@@ -14800,7 +14800,7 @@
         "eventOrigin": "Christmas",
         "rarityRequirementsId": "",
         "heroClassGroupRequirementsId": "",
-        "duration": 3024000,
+        "duration": "35天",
         "provinceLootTableId": "province_11",
         "provinceLootItemLimit": 3,
         "quests": [
@@ -16702,7 +16702,7 @@
         "eventOrigin": "Christmas",
         "rarityRequirementsId": "",
         "heroClassGroupRequirementsId": "",
-        "duration": 3024000,
+        "duration": "35天",
         "provinceLootTableId": "province_14",
         "provinceLootItemLimit": 3,
         "quests": [
@@ -18707,7 +18707,7 @@
         "eventOrigin": "Christmas",
         "rarityRequirementsId": "",
         "heroClassGroupRequirementsId": "",
-        "duration": 3024000,
+        "duration": "35天",
         "provinceLootTableId": "province_20",
         "provinceLootItemLimit": 5,
         "quests": [
@@ -20844,7 +20844,7 @@
         "eventOrigin": "Easter",
         "rarityRequirementsId": "",
         "heroClassGroupRequirementsId": "",
-        "duration": 1209600,
+        "duration": "14天",
         "provinceLootTableId": "province_14",
         "provinceLootItemLimit": 3,
         "quests": [
@@ -22497,7 +22497,7 @@
         "eventOrigin": "Easter",
         "rarityRequirementsId": "",
         "heroClassGroupRequirementsId": "",
-        "duration": 1209600,
+        "duration": "14天",
         "provinceLootTableId": "province_20",
         "provinceLootItemLimit": 5,
         "quests": [
@@ -24246,7 +24246,7 @@
         "eventOrigin": "Easter",
         "rarityRequirementsId": "",
         "heroClassGroupRequirementsId": "",
-        "duration": 1209600,
+        "duration": "14天",
         "provinceLootTableId": "province_11",
         "provinceLootItemLimit": 3,
         "quests": [
@@ -25857,7 +25857,7 @@
         "eventOrigin": "TowerNinja",
         "rarityRequirementsId": "",
         "heroClassGroupRequirementsId": "",
-        "duration": 604800,
+        "duration": "7天",
         "provinceLootTableId": "",
         "provinceLootItemLimit": 0,
         "quests": [
@@ -27185,12 +27185,12 @@
           "loot_ninja_tier_5"
         ],
         "blessingsSameChoiceLimit": {
-          "Common": 4,
-          "Rare": 2
+          "Rare": 2,
+          "Common": 4
         },
         "blessingsFrequencyPerRarity": {
-          "Common": 2,
-          "Rare": 6
+          "Rare": 6,
+          "Common": 2
         },
         "blessingsOptionsCount": 3,
         "energyType": "TowerEnergy"
@@ -27201,7 +27201,7 @@
         "eventOrigin": "RecurringSlayers",
         "rarityRequirementsId": "rare",
         "heroClassGroupRequirementsId": "",
-        "duration": 259200,
+        "duration": "3天",
         "provinceLootTableId": "province_11",
         "provinceLootItemLimit": 5,
         "quests": [
@@ -27697,7 +27697,7 @@
         "eventOrigin": "RecurringSlayers",
         "rarityRequirementsId": "epic",
         "heroClassGroupRequirementsId": "",
-        "duration": 259200,
+        "duration": "3天",
         "provinceLootTableId": "province_15",
         "provinceLootItemLimit": 4,
         "quests": [
@@ -28192,7 +28192,7 @@
         "eventOrigin": "RecurringSlayers",
         "rarityRequirementsId": "legendary",
         "heroClassGroupRequirementsId": "",
-        "duration": 259200,
+        "duration": "3天",
         "provinceLootTableId": "province_19",
         "provinceLootItemLimit": 3,
         "quests": [
@@ -28691,7 +28691,7 @@
         "eventOrigin": "TowerMagic",
         "rarityRequirementsId": "",
         "heroClassGroupRequirementsId": "",
-        "duration": 604800,
+        "duration": "7天",
         "provinceLootItemLimit": 0,
         "quests": [
           {
@@ -29998,12 +29998,12 @@
           "loot_ninja_tier_5"
         ],
         "blessingsSameChoiceLimit": {
-          "Common": 4,
-          "Rare": 2
+          "Rare": 2,
+          "Common": 4
         },
         "blessingsFrequencyPerRarity": {
-          "Common": 2,
-          "Rare": 6
+          "Rare": 6,
+          "Common": 2
         },
         "blessingsOptionsCount": 3,
         "energyType": "TowerEnergy"
@@ -30014,7 +30014,7 @@
         "eventOrigin": "TowerMagic",
         "rarityRequirementsId": "",
         "heroClassGroupRequirementsId": "",
-        "duration": 604800,
+        "duration": "7天",
         "provinceLootItemLimit": 0,
         "quests": [
           {
@@ -32722,12 +32722,12 @@
         "maxDifficultyMultiplierPerMil": 1000,
         "completionRewards": [],
         "blessingsSameChoiceLimit": {
-          "Common": 4,
-          "Rare": 2
+          "Rare": 2,
+          "Common": 4
         },
         "blessingsFrequencyPerRarity": {
-          "Common": 2,
-          "Rare": 6
+          "Rare": 6,
+          "Common": 2
         },
         "blessingsOptionsCount": 3,
         "questLineRequirement": "magic_normal",
@@ -32739,7 +32739,7 @@
         "eventOrigin": "TowerNinja",
         "rarityRequirementsId": "",
         "heroClassGroupRequirementsId": "",
-        "duration": 604800,
+        "duration": "7天",
         "provinceLootItemLimit": 0,
         "quests": [
           {
@@ -34122,12 +34122,12 @@
         "maxDifficultyMultiplierPerMil": 1000,
         "completionRewards": [],
         "blessingsSameChoiceLimit": {
-          "Common": 4,
-          "Rare": 2
+          "Rare": 2,
+          "Common": 4
         },
         "blessingsFrequencyPerRarity": {
-          "Common": 2,
-          "Rare": 6
+          "Rare": 6,
+          "Common": 2
         },
         "blessingsOptionsCount": 3,
         "questLineRequirement": "ninja",
@@ -34139,7 +34139,7 @@
         "eventOrigin": "AllianceQuestCastle",
         "rarityRequirementsId": "rare",
         "heroClassGroupRequirementsId": "",
-        "duration": 259200,
+        "duration": "3天",
         "provinceLootTableId": "province_11",
         "provinceLootItemLimit": 3,
         "quests": [
@@ -34621,7 +34621,7 @@
         "eventOrigin": "AllianceQuestCastle",
         "rarityRequirementsId": "epic",
         "heroClassGroupRequirementsId": "",
-        "duration": 259200,
+        "duration": "3天",
         "provinceLootTableId": "province_15",
         "provinceLootItemLimit": 4,
         "quests": [
@@ -35107,7 +35107,7 @@
         "eventOrigin": "AllianceQuestCastle",
         "rarityRequirementsId": "legendary",
         "heroClassGroupRequirementsId": "",
-        "duration": 259200,
+        "duration": "3天",
         "provinceLootTableId": "province_19",
         "provinceLootItemLimit": 5,
         "quests": [
@@ -35593,7 +35593,7 @@
         "eventOrigin": "RecurringGargoyles",
         "rarityRequirementsId": "rare",
         "heroClassGroupRequirementsId": "",
-        "duration": 259200,
+        "duration": "3天",
         "provinceLootTableId": "province_11",
         "provinceLootItemLimit": 5,
         "quests": [
@@ -36080,7 +36080,7 @@
         "eventOrigin": "RecurringGargoyles",
         "rarityRequirementsId": "epic",
         "heroClassGroupRequirementsId": "",
-        "duration": 259200,
+        "duration": "3天",
         "provinceLootTableId": "province_15",
         "provinceLootItemLimit": 4,
         "quests": [
@@ -36582,7 +36582,7 @@
         "eventOrigin": "RecurringGargoyles",
         "rarityRequirementsId": "legendary",
         "heroClassGroupRequirementsId": "",
-        "duration": 259200,
+        "duration": "3天",
         "provinceLootTableId": "province_19",
         "provinceLootItemLimit": 3,
         "quests": [
@@ -37079,7 +37079,7 @@
         "eventOrigin": "Kalevala",
         "rarityRequirementsId": "rare",
         "heroClassGroupRequirementsId": "",
-        "duration": 1209600,
+        "duration": "14天",
         "provinceLootTableId": "province_11",
         "provinceLootItemLimit": 3,
         "quests": [
@@ -38839,7 +38839,7 @@
         "eventOrigin": "Kalevala",
         "rarityRequirementsId": "epic",
         "heroClassGroupRequirementsId": "",
-        "duration": 1209600,
+        "duration": "14天",
         "provinceLootTableId": "province_14",
         "provinceLootItemLimit": 3,
         "quests": [
@@ -40032,7 +40032,7 @@
               {
                 "type": "Item",
                 "id": "lottery_wilderness_coin",
-                "amount": 1
+                "amount": 5
               },
               {
                 "type": "Item",
@@ -40653,7 +40653,7 @@
         "eventOrigin": "Kalevala",
         "rarityRequirementsId": "legendary",
         "heroClassGroupRequirementsId": "",
-        "duration": 1209600,
+        "duration": "14天",
         "provinceLootTableId": "province_20",
         "provinceLootItemLimit": 5,
         "quests": [
@@ -42512,7 +42512,7 @@
         "eventOrigin": "RecurringFestivalB",
         "rarityRequirementsId": "legendary",
         "heroClassGroupRequirementsId": "",
-        "duration": 259200,
+        "duration": "3天",
         "provinceLootTableId": "province_18",
         "provinceLootItemLimit": 5,
         "quests": [
@@ -43064,7 +43064,7 @@
         "eventOrigin": "RecurringFestivalB",
         "rarityRequirementsId": "epic",
         "heroClassGroupRequirementsId": "",
-        "duration": 259200,
+        "duration": "3天",
         "provinceLootTableId": "province_14",
         "provinceLootItemLimit": 4,
         "quests": [
@@ -43616,7 +43616,7 @@
         "eventOrigin": "RecurringFestivalB",
         "rarityRequirementsId": "rare",
         "heroClassGroupRequirementsId": "",
-        "duration": 259200,
+        "duration": "3天",
         "provinceLootTableId": "province_10",
         "provinceLootItemLimit": 3,
         "quests": [
@@ -44168,7 +44168,7 @@
         "eventOrigin": "TowerStyx",
         "rarityRequirementsId": "",
         "heroClassGroupRequirementsId": "",
-        "duration": 604800,
+        "duration": "7天",
         "provinceLootItemLimit": 0,
         "quests": [
           {
@@ -45472,12 +45472,12 @@
           "loot_ninja_tier_5"
         ],
         "blessingsSameChoiceLimit": {
-          "Common": 4,
-          "Rare": 0
+          "Rare": 0,
+          "Common": 4
         },
         "blessingsFrequencyPerRarity": {
-          "Common": 5,
-          "Rare": 0
+          "Rare": 0,
+          "Common": 5
         },
         "blessingsOptionsCount": 3,
         "energyType": "TowerEnergy"
@@ -45488,7 +45488,7 @@
         "eventOrigin": "TowerStyx",
         "rarityRequirementsId": "",
         "heroClassGroupRequirementsId": "",
-        "duration": 604800,
+        "duration": "7天",
         "provinceLootItemLimit": 0,
         "quests": [
           {
@@ -46849,12 +46849,12 @@
           "styx_bombs_more"
         ],
         "blessingsSameChoiceLimit": {
-          "Common": 4,
-          "Rare": 0
+          "Rare": 0,
+          "Common": 4
         },
         "blessingsFrequencyPerRarity": {
-          "Common": 5,
-          "Rare": 0
+          "Rare": 0,
+          "Common": 5
         },
         "blessingsOptionsCount": 3,
         "questLineRequirement": "styx_normal",
@@ -46865,7 +46865,7 @@
         "type": "StarterEasy",
         "rarityRequirementsId": "",
         "heroClassGroupRequirementsId": "",
-        "duration": 0,
+        "duration": "0秒",
         "provinceLootTableId": "province_5",
         "provinceLootItemLimit": 3,
         "quests": [
@@ -47165,7 +47165,7 @@
         "type": "StarterNormal",
         "rarityRequirementsId": "",
         "heroClassGroupRequirementsId": "",
-        "duration": 0,
+        "duration": "0秒",
         "provinceLootTableId": "province_5",
         "provinceLootItemLimit": 3,
         "quests": [
@@ -47466,7 +47466,7 @@
         "type": "StarterHard",
         "rarityRequirementsId": "",
         "heroClassGroupRequirementsId": "",
-        "duration": 0,
+        "duration": "0秒",
         "provinceLootTableId": "province_5",
         "provinceLootItemLimit": 3,
         "quests": [
@@ -47769,7 +47769,7 @@
         "rarityRequirementsId": "",
         "heroClassGroupRequirementsId": "",
         "elementRequirementsId": "only_red",
-        "duration": 345600,
+        "duration": "4天",
         "provinceLootTableId": "province_20",
         "provinceLootItemLimit": 10,
         "quests": [
@@ -48938,7 +48938,7 @@
         "rarityRequirementsId": "",
         "heroClassGroupRequirementsId": "",
         "elementRequirementsId": "only_green",
-        "duration": 345600,
+        "duration": "4天",
         "provinceLootTableId": "province_20",
         "provinceLootItemLimit": 10,
         "quests": [
@@ -50111,7 +50111,7 @@
         "rarityRequirementsId": "",
         "heroClassGroupRequirementsId": "",
         "elementRequirementsId": "only_blue",
-        "duration": 345600,
+        "duration": "4天",
         "provinceLootTableId": "province_20",
         "provinceLootItemLimit": 10,
         "quests": [
@@ -51281,7 +51281,7 @@
         "rarityRequirementsId": "",
         "heroClassGroupRequirementsId": "",
         "elementRequirementsId": "only_yellow",
-        "duration": 345600,
+        "duration": "4天",
         "provinceLootTableId": "province_20",
         "provinceLootItemLimit": 10,
         "quests": [
@@ -52457,7 +52457,7 @@
         "rarityRequirementsId": "",
         "heroClassGroupRequirementsId": "",
         "elementRequirementsId": "only_purple",
-        "duration": 345600,
+        "duration": "4天",
         "provinceLootTableId": "province_20",
         "provinceLootItemLimit": 10,
         "quests": [
@@ -53623,7 +53623,7 @@
         "eventOrigin": "CovenantQuest1",
         "rarityRequirementsId": "",
         "heroClassGroupRequirementsId": "",
-        "duration": 172800,
+        "duration": "2天",
         "provinceLootTableId": "province_20",
         "provinceLootItemLimit": 10,
         "quests": [
@@ -54176,7 +54176,7 @@
         "eventOrigin": "RecurringMightyPets",
         "rarityRequirementsId": "rare",
         "heroClassGroupRequirementsId": "",
-        "duration": 259200,
+        "duration": "3天",
         "provinceLootTableId": "province_11",
         "provinceLootItemLimit": 5,
         "quests": [
@@ -54704,7 +54704,7 @@
         "eventOrigin": "RecurringMightyPets",
         "rarityRequirementsId": "epic",
         "heroClassGroupRequirementsId": "",
-        "duration": 259200,
+        "duration": "3天",
         "provinceLootTableId": "province_15",
         "provinceLootItemLimit": 4,
         "quests": [
@@ -55229,7 +55229,7 @@
         "eventOrigin": "RecurringMightyPets",
         "rarityRequirementsId": "legendary",
         "heroClassGroupRequirementsId": "",
-        "duration": 259200,
+        "duration": "3天",
         "provinceLootTableId": "province_19",
         "provinceLootItemLimit": 3,
         "quests": [
@@ -55749,7 +55749,7 @@
         "eventOrigin": "CovenantQuest2",
         "rarityRequirementsId": "",
         "heroClassGroupRequirementsId": "",
-        "duration": 172800,
+        "duration": "2天",
         "provinceLootTableId": "province_20",
         "provinceLootItemLimit": 10,
         "quests": [
@@ -56296,7 +56296,7 @@
         "eventOrigin": "AllianceQuestMusketeers",
         "rarityRequirementsId": "rare",
         "heroClassGroupRequirementsId": "",
-        "duration": 259200,
+        "duration": "3天",
         "provinceLootTableId": "province_11",
         "provinceLootItemLimit": 3,
         "quests": [
@@ -56797,7 +56797,7 @@
         "eventOrigin": "AllianceQuestMusketeers",
         "rarityRequirementsId": "epic",
         "heroClassGroupRequirementsId": "",
-        "duration": 259200,
+        "duration": "3天",
         "provinceLootTableId": "province_15",
         "provinceLootItemLimit": 4,
         "quests": [
@@ -57305,7 +57305,7 @@
         "eventOrigin": "AllianceQuestMusketeers",
         "rarityRequirementsId": "legendary",
         "heroClassGroupRequirementsId": "",
-        "duration": 259200,
+        "duration": "3天",
         "provinceLootTableId": "province_19",
         "provinceLootItemLimit": 5,
         "quests": [
@@ -57807,7 +57807,7 @@
         "type": "HexMap",
         "rarityRequirementsId": "",
         "heroClassGroupRequirementsId": "",
-        "duration": 86400,
+        "duration": "1天",
         "provinceLootTableId": "province_5",
         "provinceLootItemLimit": 5,
         "quests": [
@@ -58017,7 +58017,7 @@
         "type": "HexMap",
         "rarityRequirementsId": "",
         "heroClassGroupRequirementsId": "",
-        "duration": 86400,
+        "duration": "1天",
         "provinceLootTableId": "province_10",
         "provinceLootItemLimit": 5,
         "quests": [
@@ -58228,7 +58228,7 @@
         "type": "HexMap",
         "rarityRequirementsId": "",
         "heroClassGroupRequirementsId": "",
-        "duration": 86400,
+        "duration": "1天",
         "provinceLootTableId": "province_15",
         "provinceLootItemLimit": 5,
         "quests": [
@@ -58431,7 +58431,7 @@
         "eventOrigin": "LunarNewYear",
         "rarityRequirementsId": "",
         "heroClassGroupRequirementsId": "",
-        "duration": 1209600,
+        "duration": "14天",
         "provinceLootTableId": "province_11",
         "provinceLootItemLimit": 3,
         "quests": [
@@ -59229,7 +59229,7 @@
         "eventOrigin": "LunarNewYear",
         "rarityRequirementsId": "",
         "heroClassGroupRequirementsId": "",
-        "duration": 1209600,
+        "duration": "14天",
         "provinceLootTableId": "province_14",
         "provinceLootItemLimit": 3,
         "quests": [
@@ -60066,7 +60066,7 @@
         "eventOrigin": "LunarNewYear",
         "rarityRequirementsId": "",
         "heroClassGroupRequirementsId": "",
-        "duration": 1209600,
+        "duration": "14天",
         "provinceLootTableId": "province_20",
         "provinceLootItemLimit": 5,
         "quests": [
@@ -60971,7 +60971,7 @@
         "eventOrigin": "ValentinesSeasonal",
         "rarityRequirementsId": "",
         "heroClassGroupRequirementsId": "",
-        "duration": 1814400,
+        "duration": "21天",
         "provinceLootTableId": "province_11",
         "provinceLootItemLimit": 3,
         "quests": [
@@ -62615,7 +62615,7 @@
         "eventOrigin": "ValentinesSeasonal",
         "rarityRequirementsId": "",
         "heroClassGroupRequirementsId": "",
-        "duration": 1814400,
+        "duration": "21天",
         "provinceLootTableId": "province_14",
         "provinceLootItemLimit": 3,
         "quests": [
@@ -64310,7 +64310,7 @@
         "eventOrigin": "ValentinesSeasonal",
         "rarityRequirementsId": "",
         "heroClassGroupRequirementsId": "",
-        "duration": 1814400,
+        "duration": "21天",
         "provinceLootTableId": "province_20",
         "provinceLootItemLimit": 5,
         "quests": [
@@ -66107,7 +66107,7 @@
         "eventOrigin": "TreasureQuestAlphaAether",
         "rarityRequirementsId": "",
         "heroClassGroupRequirementsId": "",
-        "duration": 86400,
+        "duration": "1天",
         "provinceLootItemLimit": 0,
         "quests": [
           {
@@ -66500,7 +66500,7 @@
         "eventOrigin": "TreasureQuestXPBlue",
         "rarityRequirementsId": "",
         "heroClassGroupRequirementsId": "",
-        "duration": 86400,
+        "duration": "1天",
         "provinceLootItemLimit": 0,
         "quests": [
           {
@@ -66889,7 +66889,7 @@
         "eventOrigin": "TreasureQuestXPGreen",
         "rarityRequirementsId": "",
         "heroClassGroupRequirementsId": "",
-        "duration": 86400,
+        "duration": "1天",
         "provinceLootItemLimit": 0,
         "quests": [
           {
@@ -67278,7 +67278,7 @@
         "eventOrigin": "TreasureQuestXPRed",
         "rarityRequirementsId": "",
         "heroClassGroupRequirementsId": "",
-        "duration": 86400,
+        "duration": "1天",
         "provinceLootItemLimit": 0,
         "quests": [
           {
@@ -67667,7 +67667,7 @@
         "eventOrigin": "TreasureQuestXPYellow",
         "rarityRequirementsId": "",
         "heroClassGroupRequirementsId": "",
-        "duration": 86400,
+        "duration": "1天",
         "provinceLootItemLimit": 0,
         "quests": [
           {
@@ -68056,7 +68056,7 @@
         "eventOrigin": "TreasureQuestXPPurple",
         "rarityRequirementsId": "",
         "heroClassGroupRequirementsId": "",
-        "duration": 86400,
+        "duration": "1天",
         "provinceLootItemLimit": 0,
         "quests": [
           {
@@ -68445,7 +68445,7 @@
         "eventOrigin": "TreasureQuestLGTroop",
         "rarityRequirementsId": "",
         "heroClassGroupRequirementsId": "",
-        "duration": 86400,
+        "duration": "1天",
         "provinceLootItemLimit": 0,
         "quests": [
           {
@@ -68820,7 +68820,7 @@
         "eventOrigin": "TreasureQuestCovenantSuperElemental",
         "rarityRequirementsId": "",
         "heroClassGroupRequirementsId": "",
-        "duration": 86400,
+        "duration": "1天",
         "provinceLootItemLimit": 0,
         "quests": [
           {
@@ -69225,7 +69225,7 @@
         "eventOrigin": "TreasureQuestGoblinAstral",
         "rarityRequirementsId": "",
         "heroClassGroupRequirementsId": "",
-        "duration": 86400,
+        "duration": "1天",
         "provinceLootItemLimit": 0,
         "quests": [
           {
@@ -69630,7 +69630,7 @@
         "eventOrigin": "TreasureQuestTowerAlliance",
         "rarityRequirementsId": "",
         "heroClassGroupRequirementsId": "",
-        "duration": 86400,
+        "duration": "1天",
         "provinceLootItemLimit": 0,
         "quests": [
           {
@@ -70035,7 +70035,7 @@
         "eventOrigin": "TreasureQuestTome",
         "rarityRequirementsId": "",
         "heroClassGroupRequirementsId": "",
-        "duration": 86400,
+        "duration": "1天",
         "provinceLootItemLimit": 0,
         "quests": [
           {
@@ -70422,7 +70422,7 @@
         "eventOrigin": "TreasureQuestAscension",
         "rarityRequirementsId": "",
         "heroClassGroupRequirementsId": "",
-        "duration": 86400,
+        "duration": "1天",
         "provinceLootItemLimit": 0,
         "quests": [
           {
@@ -70809,7 +70809,7 @@
         "eventOrigin": "TreasureQuestUtility",
         "rarityRequirementsId": "",
         "heroClassGroupRequirementsId": "",
-        "duration": 86400,
+        "duration": "1天",
         "provinceLootItemLimit": 0,
         "quests": [
           {
@@ -71208,7 +71208,7 @@
         "eventOrigin": "RecurringMasquerade",
         "rarityRequirementsId": "rare",
         "heroClassGroupRequirementsId": "",
-        "duration": 259200,
+        "duration": "3天",
         "provinceLootTableId": "province_11",
         "provinceLootItemLimit": 5,
         "quests": [
@@ -71727,12 +71727,12 @@
           "challenge_event_easy"
         ],
         "blessingsSameChoiceLimit": {
-          "Common": 0,
-          "Rare": 0
+          "Rare": 0,
+          "Common": 0
         },
         "blessingsFrequencyPerRarity": {
-          "Common": 0,
-          "Rare": 0
+          "Rare": 0,
+          "Common": 0
         },
         "maxRareMonsterCountPerWave": 1,
         "energyType": "PveEnergy"
@@ -71743,7 +71743,7 @@
         "eventOrigin": "RecurringMasquerade",
         "rarityRequirementsId": "epic",
         "heroClassGroupRequirementsId": "",
-        "duration": 259200,
+        "duration": "3天",
         "provinceLootTableId": "province_15",
         "provinceLootItemLimit": 4,
         "quests": [
@@ -72266,12 +72266,12 @@
           "challenge_event_medium"
         ],
         "blessingsSameChoiceLimit": {
-          "Common": 0,
-          "Rare": 0
+          "Rare": 0,
+          "Common": 0
         },
         "blessingsFrequencyPerRarity": {
-          "Common": 0,
-          "Rare": 0
+          "Rare": 0,
+          "Common": 0
         },
         "maxRareMonsterCountPerWave": 1,
         "energyType": "PveEnergy"
@@ -72282,7 +72282,7 @@
         "eventOrigin": "RecurringMasquerade",
         "rarityRequirementsId": "legendary",
         "heroClassGroupRequirementsId": "",
-        "duration": 259200,
+        "duration": "3天",
         "provinceLootTableId": "province_19",
         "provinceLootItemLimit": 3,
         "quests": [
@@ -72802,12 +72802,12 @@
           "challenge_event_hard"
         ],
         "blessingsSameChoiceLimit": {
-          "Common": 0,
-          "Rare": 0
+          "Rare": 0,
+          "Common": 0
         },
         "blessingsFrequencyPerRarity": {
-          "Common": 0,
-          "Rare": 0
+          "Rare": 0,
+          "Common": 0
         },
         "maxRareMonsterCountPerWave": 1,
         "energyType": "PveEnergy"
@@ -72818,7 +72818,7 @@
         "eventOrigin": "BeachParty",
         "rarityRequirementsId": "",
         "heroClassGroupRequirementsId": "",
-        "duration": 1814400,
+        "duration": "21天",
         "provinceLootTableId": "province_11",
         "provinceLootItemLimit": 3,
         "quests": [
@@ -74455,7 +74455,7 @@
         "eventOrigin": "BeachParty",
         "rarityRequirementsId": "",
         "heroClassGroupRequirementsId": "",
-        "duration": 1814400,
+        "duration": "21天",
         "provinceLootTableId": "province_14",
         "provinceLootItemLimit": 3,
         "quests": [
@@ -76145,7 +76145,7 @@
         "eventOrigin": "BeachParty",
         "rarityRequirementsId": "",
         "heroClassGroupRequirementsId": "",
-        "duration": 1814400,
+        "duration": "21天",
         "provinceLootTableId": "province_20",
         "provinceLootItemLimit": 5,
         "quests": [
@@ -77933,7 +77933,7 @@
         "eventOrigin": "Goblin",
         "rarityRequirementsId": "uncommon_battle_items",
         "heroClassGroupRequirementsId": "",
-        "duration": 345600,
+        "duration": "4天",
         "provinceLootTableId": "province_20",
         "provinceLootItemLimit": 10,
         "quests": [
@@ -78541,7 +78541,7 @@
         "eventOrigin": "TowerOwl",
         "rarityRequirementsId": "",
         "heroClassGroupRequirementsId": "",
-        "duration": 604800,
+        "duration": "7天",
         "provinceLootTableId": "",
         "provinceLootItemLimit": 0,
         "quests": [
@@ -79872,12 +79872,12 @@
           "loot_ninja_tier_5"
         ],
         "blessingsSameChoiceLimit": {
-          "Common": 4,
-          "Rare": 2
+          "Rare": 2,
+          "Common": 4
         },
         "blessingsFrequencyPerRarity": {
-          "Common": 2,
-          "Rare": 6
+          "Rare": 6,
+          "Common": 2
         },
         "blessingsOptionsCount": 3,
         "energyType": "TowerEnergy"
@@ -79888,7 +79888,7 @@
         "eventOrigin": "TowerOwl",
         "rarityRequirementsId": "",
         "heroClassGroupRequirementsId": "",
-        "duration": 604800,
+        "duration": "7天",
         "provinceLootItemLimit": 0,
         "quests": [
           {
@@ -81271,12 +81271,12 @@
         "maxDifficultyMultiplierPerMil": 1000,
         "completionRewards": [],
         "blessingsSameChoiceLimit": {
-          "Common": 4,
-          "Rare": 2
+          "Rare": 2,
+          "Common": 4
         },
         "blessingsFrequencyPerRarity": {
-          "Common": 2,
-          "Rare": 6
+          "Rare": 6,
+          "Common": 2
         },
         "blessingsOptionsCount": 3,
         "questLineRequirement": "owl_normal",
@@ -81288,7 +81288,7 @@
         "eventOrigin": "RecurringOpera",
         "rarityRequirementsId": "rare",
         "heroClassGroupRequirementsId": "",
-        "duration": 259200,
+        "duration": "3天",
         "provinceLootTableId": "province_11",
         "provinceLootItemLimit": 5,
         "quests": [
@@ -81789,7 +81789,7 @@
         "eventOrigin": "RecurringOpera",
         "rarityRequirementsId": "epic",
         "heroClassGroupRequirementsId": "",
-        "duration": 259200,
+        "duration": "3天",
         "provinceLootTableId": "province_15",
         "provinceLootItemLimit": 4,
         "quests": [
@@ -82281,7 +82281,7 @@
         "eventOrigin": "RecurringOpera",
         "rarityRequirementsId": "legendary",
         "heroClassGroupRequirementsId": "",
-        "duration": 259200,
+        "duration": "3天",
         "provinceLootTableId": "province_19",
         "provinceLootItemLimit": 3,
         "quests": [
@@ -82774,7 +82774,7 @@
         "eventOrigin": "AstralElves",
         "rarityRequirementsId": "",
         "heroClassGroupRequirementsId": "",
-        "duration": 345600,
+        "duration": "4天",
         "provinceLootTableId": "province_20",
         "provinceLootItemLimit": 10,
         "quests": [
@@ -83388,7 +83388,7 @@
         "eventOrigin": "RecurringGargoyles2",
         "rarityRequirementsId": "rare",
         "heroClassGroupRequirementsId": "",
-        "duration": 259200,
+        "duration": "3天",
         "provinceLootTableId": "province_11",
         "provinceLootItemLimit": 5,
         "quests": [
@@ -83870,7 +83870,7 @@
         "eventOrigin": "RecurringGargoyles2",
         "rarityRequirementsId": "epic",
         "heroClassGroupRequirementsId": "",
-        "duration": 259200,
+        "duration": "3天",
         "provinceLootTableId": "province_15",
         "provinceLootItemLimit": 4,
         "quests": [
@@ -84352,7 +84352,7 @@
         "eventOrigin": "RecurringGargoyles2",
         "rarityRequirementsId": "legendary",
         "heroClassGroupRequirementsId": "",
-        "duration": 259200,
+        "duration": "3天",
         "provinceLootTableId": "province_19",
         "provinceLootItemLimit": 3,
         "quests": [
@@ -84835,7 +84835,7 @@
         "eventOrigin": "ShadowQuest",
         "rarityRequirementsId": "",
         "heroClassGroupRequirementsId": "",
-        "duration": 345600,
+        "duration": "4天",
         "provinceLootTableId": "province_15",
         "provinceLootItemLimit": 5,
         "quests": [
@@ -85256,7 +85256,7 @@
         "eventOrigin": "ShadowQuest",
         "rarityRequirementsId": "",
         "heroClassGroupRequirementsId": "",
-        "duration": 345600,
+        "duration": "4天",
         "provinceLootTableId": "province_20",
         "provinceLootItemLimit": 10,
         "quests": [
@@ -85691,7 +85691,7 @@
         "type": "RecurringDragon",
         "rarityRequirementsId": "",
         "heroClassGroupRequirementsId": "",
-        "duration": 259200,
+        "duration": "3天",
         "provinceLootTableId": "dragon_s1_province_03",
         "provinceLootItemLimit": 3,
         "quests": [
@@ -86024,12 +86024,12 @@
         "maxDifficultyMultiplierPerMil": 1100,
         "completionRewards": [],
         "blessingsSameChoiceLimit": {
-          "Common": 0,
-          "Rare": 0
+          "Rare": 0,
+          "Common": 0
         },
         "blessingsFrequencyPerRarity": {
-          "Common": 0,
-          "Rare": 0
+          "Rare": 0,
+          "Common": 0
         },
         "mode": "Dragon",
         "energyType": "PveDragonEnergy"
@@ -86039,7 +86039,7 @@
         "type": "RecurringDragon",
         "rarityRequirementsId": "",
         "heroClassGroupRequirementsId": "",
-        "duration": 259200,
+        "duration": "3天",
         "provinceLootTableId": "dragon_s1_province_03",
         "provinceLootItemLimit": 3,
         "quests": [
@@ -86359,12 +86359,12 @@
         "maxDifficultyMultiplierPerMil": 1100,
         "completionRewards": [],
         "blessingsSameChoiceLimit": {
-          "Common": 0,
-          "Rare": 0
+          "Rare": 0,
+          "Common": 0
         },
         "blessingsFrequencyPerRarity": {
-          "Common": 0,
-          "Rare": 0
+          "Rare": 0,
+          "Common": 0
         },
         "mode": "Dragon",
         "energyType": "PveDragonEnergy"
@@ -86374,7 +86374,7 @@
         "type": "RecurringDragon",
         "rarityRequirementsId": "",
         "heroClassGroupRequirementsId": "",
-        "duration": 259200,
+        "duration": "3天",
         "provinceLootTableId": "dragon_s1_province_05",
         "provinceLootItemLimit": 0,
         "quests": [
@@ -86837,12 +86837,12 @@
         "maxDifficultyMultiplierPerMil": 1100,
         "completionRewards": [],
         "blessingsSameChoiceLimit": {
-          "Common": 0,
-          "Rare": 0
+          "Rare": 0,
+          "Common": 0
         },
         "blessingsFrequencyPerRarity": {
-          "Common": 0,
-          "Rare": 0
+          "Rare": 0,
+          "Common": 0
         },
         "mode": "Dragon",
         "energyType": "PveDragonEnergy"
@@ -86852,7 +86852,7 @@
         "type": "RecurringRareDragon",
         "rarityRequirementsId": "",
         "heroClassGroupRequirementsId": "",
-        "duration": 259200,
+        "duration": "3天",
         "provinceLootTableId": "dragon_s1_province_05",
         "provinceLootItemLimit": 3,
         "quests": [
@@ -87178,12 +87178,12 @@
           "volcanic_stalactites"
         ],
         "blessingsSameChoiceLimit": {
-          "Common": 0,
-          "Rare": 0
+          "Rare": 0,
+          "Common": 0
         },
         "blessingsFrequencyPerRarity": {
-          "Common": 0,
-          "Rare": 0
+          "Rare": 0,
+          "Common": 0
         },
         "mode": "Dragon",
         "energyType": "PveDragonEnergy"
@@ -87193,7 +87193,7 @@
         "type": "RecurringRareDragon",
         "rarityRequirementsId": "",
         "heroClassGroupRequirementsId": "",
-        "duration": 259200,
+        "duration": "3天",
         "provinceLootTableId": "dragon_s1_province_05",
         "provinceLootItemLimit": 3,
         "quests": [
@@ -87519,12 +87519,12 @@
           "poisonous_stalactites"
         ],
         "blessingsSameChoiceLimit": {
-          "Common": 0,
-          "Rare": 0
+          "Rare": 0,
+          "Common": 0
         },
         "blessingsFrequencyPerRarity": {
-          "Common": 0,
-          "Rare": 0
+          "Rare": 0,
+          "Common": 0
         },
         "mode": "Dragon",
         "energyType": "PveDragonEnergy"
@@ -87534,7 +87534,7 @@
         "type": "RecurringRareDragon",
         "rarityRequirementsId": "",
         "heroClassGroupRequirementsId": "",
-        "duration": 259200,
+        "duration": "3天",
         "provinceLootTableId": "dragon_s1_province_05",
         "provinceLootItemLimit": 3,
         "quests": [
@@ -87860,12 +87860,12 @@
           "glacial_stalactites"
         ],
         "blessingsSameChoiceLimit": {
-          "Common": 0,
-          "Rare": 0
+          "Rare": 0,
+          "Common": 0
         },
         "blessingsFrequencyPerRarity": {
-          "Common": 0,
-          "Rare": 0
+          "Rare": 0,
+          "Common": 0
         },
         "mode": "Dragon",
         "energyType": "PveDragonEnergy"
@@ -87875,7 +87875,7 @@
         "type": "RecurringRareDragon",
         "rarityRequirementsId": "",
         "heroClassGroupRequirementsId": "",
-        "duration": 259200,
+        "duration": "3天",
         "provinceLootTableId": "dragon_s1_province_05",
         "provinceLootItemLimit": 3,
         "quests": [
@@ -88196,12 +88196,12 @@
           "unstable_stalactites_no_element"
         ],
         "blessingsSameChoiceLimit": {
-          "Common": 0,
-          "Rare": 0
+          "Rare": 0,
+          "Common": 0
         },
         "blessingsFrequencyPerRarity": {
-          "Common": 0,
-          "Rare": 0
+          "Rare": 0,
+          "Common": 0
         },
         "mode": "Dragon",
         "energyType": "PveDragonEnergy"
@@ -88211,7 +88211,7 @@
         "type": "RecurringRareDragon",
         "rarityRequirementsId": "",
         "heroClassGroupRequirementsId": "",
-        "duration": 259200,
+        "duration": "3天",
         "provinceLootTableId": "dragon_s1_province_05",
         "provinceLootItemLimit": 3,
         "quests": [
@@ -88537,12 +88537,12 @@
           "sacred_stalactites"
         ],
         "blessingsSameChoiceLimit": {
-          "Common": 0,
-          "Rare": 0
+          "Rare": 0,
+          "Common": 0
         },
         "blessingsFrequencyPerRarity": {
-          "Common": 0,
-          "Rare": 0
+          "Rare": 0,
+          "Common": 0
         },
         "mode": "Dragon",
         "energyType": "PveDragonEnergy"
@@ -88552,7 +88552,7 @@
         "type": "RecurringRareDragon",
         "rarityRequirementsId": "",
         "heroClassGroupRequirementsId": "",
-        "duration": 259200,
+        "duration": "3天",
         "provinceLootTableId": "dragon_s1_province_05",
         "provinceLootItemLimit": 3,
         "quests": [
@@ -88878,12 +88878,12 @@
           "shadow_stalactites"
         ],
         "blessingsSameChoiceLimit": {
-          "Common": 0,
-          "Rare": 0
+          "Rare": 0,
+          "Common": 0
         },
         "blessingsFrequencyPerRarity": {
-          "Common": 0,
-          "Rare": 0
+          "Rare": 0,
+          "Common": 0
         },
         "mode": "Dragon",
         "energyType": "PveDragonEnergy"
@@ -88893,7 +88893,7 @@
         "type": "RecurringRareDragon",
         "rarityRequirementsId": "",
         "heroClassGroupRequirementsId": "",
-        "duration": 259200,
+        "duration": "3天",
         "provinceLootTableId": "dragon_s1_province_05",
         "provinceLootItemLimit": 3,
         "quests": [
@@ -89219,12 +89219,12 @@
           "unstable_stalactites_no_element"
         ],
         "blessingsSameChoiceLimit": {
-          "Common": 0,
-          "Rare": 0
+          "Rare": 0,
+          "Common": 0
         },
         "blessingsFrequencyPerRarity": {
-          "Common": 0,
-          "Rare": 0
+          "Rare": 0,
+          "Common": 0
         },
         "mode": "Dragon",
         "energyType": "PveDragonEnergy"
@@ -89234,7 +89234,7 @@
         "type": "RecurringRareDragon",
         "rarityRequirementsId": "",
         "heroClassGroupRequirementsId": "",
-        "duration": 259200,
+        "duration": "3天",
         "provinceLootTableId": "dragon_s1_province_05",
         "provinceLootItemLimit": 3,
         "quests": [
@@ -89570,12 +89570,12 @@
           "unstable_stalactites_no_element"
         ],
         "blessingsSameChoiceLimit": {
-          "Common": 0,
-          "Rare": 0
+          "Rare": 0,
+          "Common": 0
         },
         "blessingsFrequencyPerRarity": {
-          "Common": 0,
-          "Rare": 0
+          "Rare": 0,
+          "Common": 0
         },
         "mode": "Dragon",
         "energyType": "PveDragonEnergy"
@@ -89586,7 +89586,7 @@
         "eventOrigin": "AllianceQuestMoths",
         "rarityRequirementsId": "rare",
         "heroClassGroupRequirementsId": "",
-        "duration": 259200,
+        "duration": "3天",
         "provinceLootTableId": "province_11",
         "provinceLootItemLimit": 3,
         "quests": [
@@ -90082,7 +90082,7 @@
         "eventOrigin": "AllianceQuestMoths",
         "rarityRequirementsId": "epic",
         "heroClassGroupRequirementsId": "",
-        "duration": 432000,
+        "duration": "5天",
         "provinceLootTableId": "province_15",
         "provinceLootItemLimit": 4,
         "quests": [
@@ -90579,7 +90579,7 @@
         "eventOrigin": "AllianceQuestMoths",
         "rarityRequirementsId": "legendary",
         "heroClassGroupRequirementsId": "",
-        "duration": 432000,
+        "duration": "5天",
         "provinceLootTableId": "province_19",
         "provinceLootItemLimit": 5,
         "quests": [
@@ -91076,7 +91076,7 @@
         "eventOrigin": "AncientDragon",
         "rarityRequirementsId": "",
         "heroClassGroupRequirementsId": "",
-        "duration": 345600,
+        "duration": "4天",
         "provinceLootTableId": "dragon_ancient_underroot",
         "provinceLootItemLimit": 10,
         "quests": [
@@ -91327,7 +91327,7 @@
         "eventOrigin": "RecurringBeowulf",
         "rarityRequirementsId": "rare",
         "heroClassGroupRequirementsId": "",
-        "duration": 259200,
+        "duration": "3天",
         "provinceLootTableId": "province_11",
         "provinceLootItemLimit": 5,
         "quests": [
@@ -91817,7 +91817,7 @@
         "eventOrigin": "RecurringBeowulf",
         "rarityRequirementsId": "epic",
         "heroClassGroupRequirementsId": "",
-        "duration": 259200,
+        "duration": "3天",
         "provinceLootTableId": "province_15",
         "provinceLootItemLimit": 4,
         "quests": [
@@ -92309,7 +92309,7 @@
         "eventOrigin": "RecurringBeowulf",
         "rarityRequirementsId": "legendary",
         "heroClassGroupRequirementsId": "",
-        "duration": 259200,
+        "duration": "3天",
         "provinceLootTableId": "province_19",
         "provinceLootItemLimit": 3,
         "quests": [
@@ -92805,7 +92805,7 @@
         "type": "LegendaryDragon",
         "rarityRequirementsId": "",
         "heroClassGroupRequirementsId": "",
-        "duration": 259200,
+        "duration": "3天",
         "provinceLootTableId": "dragon_s1_province_05",
         "provinceLootItemLimit": 3,
         "quests": [
@@ -93136,12 +93136,12 @@
           "esoteric_winds"
         ],
         "blessingsSameChoiceLimit": {
-          "Common": 0,
-          "Rare": 0
+          "Rare": 0,
+          "Common": 0
         },
         "blessingsFrequencyPerRarity": {
-          "Common": 0,
-          "Rare": 0
+          "Rare": 0,
+          "Common": 0
         },
         "mode": "Dragon",
         "energyType": "PveDragonEnergy"
@@ -93152,7 +93152,7 @@
         "eventOrigin": "GuestIP1",
         "rarityRequirementsId": "",
         "heroClassGroupRequirementsId": "",
-        "duration": 172800,
+        "duration": "2天",
         "provinceLootTableId": "",
         "provinceLootItemLimit": 0,
         "quests": [
@@ -93926,12 +93926,12 @@
           "guestip1_troop_icon_override"
         ],
         "blessingsSameChoiceLimit": {
-          "Common": 0,
-          "Rare": 0
+          "Rare": 0,
+          "Common": 0
         },
         "blessingsFrequencyPerRarity": {
-          "Common": 0,
-          "Rare": 0
+          "Rare": 0,
+          "Common": 0
         },
         "battleItemsDisabled": true,
         "questBoosterProductId": "com.smallgiantgames.empires.guestip1_booster",
@@ -93943,7 +93943,7 @@
         "eventOrigin": "GuestIP2",
         "rarityRequirementsId": "",
         "heroClassGroupRequirementsId": "",
-        "duration": 604800,
+        "duration": "7天",
         "provinceLootItemLimit": 0,
         "quests": [
           {
@@ -94890,7 +94890,7 @@
         "type": "ClassQuest",
         "rarityRequirementsId": "",
         "heroClassGroupRequirementsId": "barbarian_fighter",
-        "duration": 86400,
+        "duration": "1天",
         "provinceLootTableId": "s2_province_27_hardmode",
         "provinceLootItemLimit": 10,
         "quests": [
@@ -95117,7 +95117,7 @@
         "type": "ClassQuest",
         "rarityRequirementsId": "",
         "heroClassGroupRequirementsId": "cleric_druid",
-        "duration": 86400,
+        "duration": "1天",
         "provinceLootTableId": "s2_province_27_hardmode",
         "provinceLootItemLimit": 10,
         "quests": [
@@ -95343,7 +95343,7 @@
         "type": "ClassQuest",
         "rarityRequirementsId": "",
         "heroClassGroupRequirementsId": "wizard_sorcerer",
-        "duration": 86400,
+        "duration": "1天",
         "provinceLootTableId": "s2_province_27_hardmode",
         "provinceLootItemLimit": 10,
         "quests": [
@@ -95570,7 +95570,7 @@
         "type": "ClassQuest",
         "rarityRequirementsId": "",
         "heroClassGroupRequirementsId": "paladin_ranger",
-        "duration": 86400,
+        "duration": "1天",
         "provinceLootTableId": "s2_province_27_hardmode",
         "provinceLootItemLimit": 10,
         "quests": [
@@ -95796,7 +95796,7 @@
         "type": "ClassQuest",
         "rarityRequirementsId": "",
         "heroClassGroupRequirementsId": "barbarian_rogue",
-        "duration": 86400,
+        "duration": "1天",
         "provinceLootTableId": "s2_province_27_hardmode",
         "provinceLootItemLimit": 10,
         "quests": [
@@ -96022,7 +96022,7 @@
         "type": "ClassQuest",
         "rarityRequirementsId": "",
         "heroClassGroupRequirementsId": "monk_cleric",
-        "duration": 86400,
+        "duration": "1天",
         "provinceLootTableId": "s2_province_27_hardmode",
         "provinceLootItemLimit": 10,
         "quests": [
@@ -96249,7 +96249,7 @@
         "type": "ClassQuest",
         "rarityRequirementsId": "",
         "heroClassGroupRequirementsId": "fighter_wizard",
-        "duration": 86400,
+        "duration": "1天",
         "provinceLootTableId": "s2_province_27_hardmode",
         "provinceLootItemLimit": 10,
         "quests": [
@@ -96476,7 +96476,7 @@
         "type": "ClassQuest",
         "rarityRequirementsId": "",
         "heroClassGroupRequirementsId": "druid_ranger",
-        "duration": 86400,
+        "duration": "1天",
         "provinceLootTableId": "s2_province_27_hardmode",
         "provinceLootItemLimit": 10,
         "quests": [
@@ -96702,7 +96702,7 @@
         "type": "ClassQuest",
         "rarityRequirementsId": "",
         "heroClassGroupRequirementsId": "rogue_sorcerer",
-        "duration": 86400,
+        "duration": "1天",
         "provinceLootTableId": "s2_province_27_hardmode",
         "provinceLootItemLimit": 10,
         "quests": [
@@ -96929,7 +96929,7 @@
         "type": "ClassQuest",
         "rarityRequirementsId": "",
         "heroClassGroupRequirementsId": "paladin_monk",
-        "duration": 86400,
+        "duration": "1天",
         "provinceLootTableId": "s2_province_27_hardmode",
         "provinceLootItemLimit": 10,
         "quests": [
@@ -97157,7 +97157,7 @@
         "type": "SuperClassQuest",
         "rarityRequirementsId": "",
         "heroClassGroupRequirementsId": "barbarian",
-        "duration": 86400,
+        "duration": "1天",
         "provinceLootTableId": "s2_province_27_hardmode",
         "provinceLootItemLimit": 10,
         "quests": [
@@ -97372,7 +97372,7 @@
         "type": "SuperClassQuest",
         "rarityRequirementsId": "",
         "heroClassGroupRequirementsId": "fighter",
-        "duration": 86400,
+        "duration": "1天",
         "provinceLootTableId": "s2_province_27_hardmode",
         "provinceLootItemLimit": 10,
         "quests": [
@@ -97587,7 +97587,7 @@
         "type": "SuperClassQuest",
         "rarityRequirementsId": "",
         "heroClassGroupRequirementsId": "cleric",
-        "duration": 86400,
+        "duration": "1天",
         "provinceLootTableId": "s2_province_27_hardmode",
         "provinceLootItemLimit": 10,
         "quests": [
@@ -97799,7 +97799,7 @@
         "type": "SuperClassQuest",
         "rarityRequirementsId": "",
         "heroClassGroupRequirementsId": "druid",
-        "duration": 86400,
+        "duration": "1天",
         "provinceLootTableId": "s2_province_27_hardmode",
         "provinceLootItemLimit": 10,
         "quests": [
@@ -98014,7 +98014,7 @@
         "type": "SuperClassQuest",
         "rarityRequirementsId": "",
         "heroClassGroupRequirementsId": "wizard",
-        "duration": 86400,
+        "duration": "1天",
         "provinceLootTableId": "s2_province_27_hardmode",
         "provinceLootItemLimit": 10,
         "quests": [
@@ -98226,7 +98226,7 @@
         "type": "SuperClassQuest",
         "rarityRequirementsId": "",
         "heroClassGroupRequirementsId": "sorcerer",
-        "duration": 86400,
+        "duration": "1天",
         "provinceLootTableId": "s2_province_27_hardmode",
         "provinceLootItemLimit": 10,
         "quests": [
@@ -98441,7 +98441,7 @@
         "type": "SuperClassQuest",
         "rarityRequirementsId": "",
         "heroClassGroupRequirementsId": "paladin",
-        "duration": 86400,
+        "duration": "1天",
         "provinceLootTableId": "s2_province_27_hardmode",
         "provinceLootItemLimit": 10,
         "quests": [
@@ -98656,7 +98656,7 @@
         "type": "SuperClassQuest",
         "rarityRequirementsId": "",
         "heroClassGroupRequirementsId": "ranger",
-        "duration": 86400,
+        "duration": "1天",
         "provinceLootTableId": "s2_province_27_hardmode",
         "provinceLootItemLimit": 10,
         "quests": [
@@ -98868,7 +98868,7 @@
         "type": "SuperClassQuest",
         "rarityRequirementsId": "",
         "heroClassGroupRequirementsId": "rogue",
-        "duration": 86400,
+        "duration": "1天",
         "provinceLootTableId": "s2_province_27_hardmode",
         "provinceLootItemLimit": 10,
         "quests": [
@@ -99083,7 +99083,7 @@
         "type": "SuperClassQuest",
         "rarityRequirementsId": "",
         "heroClassGroupRequirementsId": "monk",
-        "duration": 86400,
+        "duration": "1天",
         "provinceLootTableId": "s2_province_27_hardmode",
         "provinceLootItemLimit": 10,
         "quests": [
@@ -99300,7 +99300,7 @@
         "type": "CostumeQuest",
         "rarityRequirementsId": "",
         "heroClassGroupRequirementsId": "",
-        "duration": 345600,
+        "duration": "4天",
         "provinceLootTableId": "province_20",
         "provinceLootItemLimit": 4,
         "quests": [
@@ -100216,7 +100216,7 @@
         "type": "CostumeQuest",
         "rarityRequirementsId": "",
         "heroClassGroupRequirementsId": "",
-        "duration": 345600,
+        "duration": "4天",
         "provinceLootTableId": "province_20",
         "provinceLootItemLimit": 4,
         "quests": [
@@ -101129,7 +101129,7 @@
         "type": "CostumeQuest",
         "rarityRequirementsId": "",
         "heroClassGroupRequirementsId": "",
-        "duration": 345600,
+        "duration": "4天",
         "provinceLootTableId": "province_20",
         "provinceLootItemLimit": 4,
         "quests": [
@@ -102044,7 +102044,7 @@
         "type": "Legends",
         "rarityRequirementsId": "",
         "heroClassGroupRequirementsId": "",
-        "duration": 259200,
+        "duration": "3天",
         "provinceLootTableId": "province_20",
         "provinceLootItemLimit": 10,
         "quests": [
@@ -102619,7 +102619,7 @@
         "type": "Legends",
         "rarityRequirementsId": "",
         "heroClassGroupRequirementsId": "",
-        "duration": 259200,
+        "duration": "3天",
         "provinceLootTableId": "province_20",
         "provinceLootItemLimit": 10,
         "quests": [
@@ -103194,7 +103194,7 @@
         "type": "Legends",
         "rarityRequirementsId": "",
         "heroClassGroupRequirementsId": "",
-        "duration": 259200,
+        "duration": "3天",
         "provinceLootTableId": "province_20",
         "provinceLootItemLimit": 10,
         "quests": [
@@ -103769,7 +103769,7 @@
         "type": "Legends",
         "rarityRequirementsId": "",
         "heroClassGroupRequirementsId": "",
-        "duration": 259200,
+        "duration": "3天",
         "provinceLootTableId": "province_20",
         "provinceLootItemLimit": 10,
         "quests": [
@@ -104326,7 +104326,7 @@
         "type": "LimitBreak",
         "rarityRequirementsId": "",
         "heroClassGroupRequirementsId": "",
-        "duration": 129600,
+        "duration": "1天12小时",
         "provinceLootTableId": "province_14",
         "provinceLootItemLimit": 3,
         "quests": [
@@ -104658,7 +104658,7 @@
         "type": "LimitBreak",
         "rarityRequirementsId": "",
         "heroClassGroupRequirementsId": "",
-        "duration": 129600,
+        "duration": "1天12小时",
         "provinceLootTableId": "province_14",
         "provinceLootItemLimit": 3,
         "quests": [
@@ -104990,7 +104990,7 @@
         "type": "LimitBreak",
         "rarityRequirementsId": "",
         "heroClassGroupRequirementsId": "",
-        "duration": 129600,
+        "duration": "1天12小时",
         "provinceLootTableId": "province_14",
         "provinceLootItemLimit": 3,
         "quests": [
@@ -105317,7 +105317,7 @@
         "type": "LimitBreak",
         "rarityRequirementsId": "",
         "heroClassGroupRequirementsId": "",
-        "duration": 129600,
+        "duration": "1天12小时",
         "provinceLootTableId": "province_14",
         "provinceLootItemLimit": 3,
         "quests": [
@@ -105649,7 +105649,7 @@
         "type": "LimitBreak",
         "rarityRequirementsId": "",
         "heroClassGroupRequirementsId": "",
-        "duration": 129600,
+        "duration": "1天12小时",
         "provinceLootTableId": "province_14",
         "provinceLootItemLimit": 3,
         "quests": [
@@ -106091,5 +106091,5 @@
       ]
     }
   },
-  "questsConfigId": 768769998
+  "questsConfigId": 1495211605
 }
