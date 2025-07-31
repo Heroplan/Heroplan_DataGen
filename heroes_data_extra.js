@@ -16791,7 +16791,8 @@ window.allHeroesExtra = [
         "fancy name": "Expert Artificer",
         "Release date": "2025-07-28",
         "AetherPower": "Regen",
-        "skill_types": ["Healing Reducers",
+        "skill_types": [
+            "Healing Reducers",
             "Damage Sharers",
             "Debuffers (DEF)"
         ]
@@ -16804,7 +16805,8 @@ window.allHeroesExtra = [
         "skill_types": [
             "AoE Attackers (Hit-5)",
             "Buff Blockers",
-            "Dispellers"]
+            "Dispellers"
+        ]
     },
     {
         "name": "Lemminkainen costume1",
@@ -16813,7 +16815,8 @@ window.allHeroesExtra = [
         "AetherPower": "Attack Up",
         "skill_types": [
             "AoE Attackers (Hit-3)",
-            "DoT Attackers"]
+            "DoT Attackers"
+        ]
     },
     {
         "name": "Louhi costume1",
@@ -16823,14 +16826,16 @@ window.allHeroesExtra = [
         "skill_types": [
             "AoE Attackers (Hit-5)",
             "Debuffers (DEF)",
-            "Dispellers"]
+            "Dispellers"
+        ]
     },
     {
         "name": "Mother Lemminkainen",
         "fancy name": "Champion’s Savior",
         "Release date": "2025-07-28",
         "AetherPower": "Heal Increase",
-        "skill_types": ["Revivers",
+        "skill_types": [
+            "Revivers",
             "Heal over Time (HoT)",
             "Health Boosters",
             "Debuffers (DEF)"
@@ -16841,7 +16846,8 @@ window.allHeroesExtra = [
         "fancy name": "Astral Dwarf Lightbearer",
         "Release date": "2025-07-27",
         "AetherPower": "Defense Up",
-        "skill_types": ["AoE Attackers (Hit-5)",
+        "skill_types": [
+            "AoE Attackers (Hit-5)",
             "DoT Attackers",
             "Healers (Special)",
             "Ability Scores Modifiers",
@@ -16854,12 +16860,35 @@ window.allHeroesExtra = [
         "fancy name": "Hulking Pike",
         "Release date": "2025-07-28",
         "AetherPower": "Fiend Resist",
-        "skill_types": ["Snipers",
+        "skill_types": [
+            "Snipers",
             "Fiends Summoners",
             "Extra Damage Dealers",
             "Debuffers (ATK)",
             "DoT Attackers"
-
+        ]
+    },
+    {
+        "name": "Choozen",
+        "fancy name": "Shy Chest Slime",
+        "Release date": "2025-07-31",
+        "AetherPower": "Defense Up",
+        "skill_types": [
+            "Health Boosters",
+            "Buff Stealers"
+        ]
+    },
+    {
+        "name": "Gloozmer",
+        "fancy name": "Gentle Trickster Slime",
+        "Release date": "2025-07-31",
+        "AetherPower": "Bulwark",
+        "skill_types": [
+            "Minions Counters",
+            "Snipers",
+            "Buff Blockers",
+            "Dispellers",
+            "DoT Attackers"
         ]
     }
 ];

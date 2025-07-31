@@ -29,11 +29,11 @@ const allTranslations =
         "originalIndex": 5,
         "name": "伯莎 (Bertha)",
         "passives": [
-            "飞行动量：如果该角色拥有任意数量的飞行动量，其将获得：",
-            "* 最多 +35% 的法力生成。",
-            "* 最多 +25% 的闪避几率。",
-            "* 角色拥有的飞行动量越少，效果越弱。",
-            "削弱巨大体型小兵：敌方巨大体型小兵的生命值降低 -75%。"
+            "Flight Momentum: If this character has any amount of Flight Momentum, they receive:",
+            " * Up to +35% mana generation.",
+            " * Up to +25% chance to dodge.",
+            " * The effects diminish the less Flight Momentum character has.",
+            "Weaker Mega Minions: Enemy Mega Minions have -75% HP."
         ]
     },
     {
@@ -45,8 +45,8 @@ const allTranslations =
         "originalIndex": 7,
         "name": "旦 (Dawn)",
         "passives": [
-            "特殊技能伤害减免：该角色有 10% 的几率将受到的特殊技能直接伤害降至 1 点。",
-            "特殊技能附加状态效果：当该角色施放其特殊技能时，会给一个随机敌人施加猎人印记。目标在 3 回合内受到 150 点伤害。如果目标已有此效果，则持续时间刷新，伤害增加 150 点，总伤害最高可达 1500 点。"
+            "Special Skill Damage Reduction: This character has a 10% chance to drop the direct damage received from Special Skills to 1.",
+            "Status effect on Special: When this character casts their Special Skill, they give a Hunter’s Mark on a random enemy. The target receives 150 damage over 3 turns. If a target already has this effect, the duration will be refreshed and the damage will be increased by 150, up to 1500 damage in total."
         ]
     },
     {
@@ -73,14 +73,14 @@ const allTranslations =
         "originalIndex": 12,
         "name": "灰鬃狼人 (Graymane) 卡通",
         "passives": [
-            "卡通：额外 75% 几率抵抗所有状态异常、法力削减和增益驱散。"
+            "Toon: 75% extra chance to resist all status ailments, mana reductions and buff dispels."
         ]
     },
     {
         "originalIndex": 13,
         "name": "灰鬃狼人 (Graymane) 玻璃",
         "passives": [
-            "玻璃：额外 60% 几率将状态异常反弹给攻击者。"
+            "Glass: 60% extra chance to reflect status ailments back to the attacker."
         ]
     },
     {
@@ -102,41 +102,41 @@ const allTranslations =
         "originalIndex": 17,
         "name": "古纳尔 (Gunnar) 卡通",
         "passives": [
-            "卡通：额外 75% 几率抵抗所有状态异常、法力削减和增益驱散。"
+            "Toon: 75% extra chance to resist all status ailments, mana reductions and buff dispels."
         ]
     },
     {
         "originalIndex": 18,
         "name": "河洛 (Helo)",
         "passives": [
-            "延长增益持续时间：该英雄从特殊技能中获得的前 3 个增益效果的持续时间增加 1 回合。"
+            "Increase Buff Duration: Duration of the first 3 buff this hero receives  from Special Skills is increased by 1 turn."
         ]
     },
     {
         "originalIndex": 19,
         "name": "河洛 (Helo) C1",
         "passives": [
-            "延长增益持续时间：该英雄从特殊技能中获得的前 3 个增益效果的持续时间增加 1 回合。"
+            "Increase Buff Duration: Duration of the first 3 buff this hero receives  from Special Skills is increased by 1 turn."
         ]
     },
     {
         "originalIndex": 20,
         "name": "加里夫 (Jarif)",
         "passives": [
-            "特殊技能效果：当该角色施放其特殊技能时，有 60% 几率执行以下操作：",
-            "* 对所有敌人造成 70% 的伤害。",
-            "* 所有敌人的法力生成速度降低 -24%，持续 3 回合。"
+            "Effects on Special Skill: 60% chance to perform the following actions when this character casts their Special Skill",
+            " * Deals 70% damage to all enemies.",
+            " * All enemies get -24% mana generation for 3 turns."
         ]
     },
     {
         "originalIndex": 21,
         "name": "加里夫 (Jarif) C1",
         "passives": [
-            "特殊技能效果：当该角色施放其特殊技能时，有 60% 几率执行以下操作：",
-            "* 对所有敌人造成 70% 的伤害。",
-            "* 所有敌人的法力生成速度降低 -24%，持续 3 回合。",
-            "特殊技能额外效果几率：当该角色施放其特殊技能时，其任何提供额外施法效果的被动技能都有 3 次激活机会。",
-            "抵抗沙系伤害：该角色天生对沙系伤害有抵抗能力。"
+            "Effects on Special Skill: 60% chance to perform the following actions when this character casts their Special Skill",
+            " * Deals 70% damage to all enemies.",
+            " * All enemies get -24% mana generation for 3 turns.",
+            "Extra Chance for Effects on Special Skill: When this character casts their Special Skill, any of their Passive Skills that grant extra effects on cast have 3 chances to activate.",
+            "Resist Sand Damage: This character has innate resistance against sand damage."
         ]
     },
     {
@@ -148,14 +148,14 @@ const allTranslations =
         "originalIndex": 23,
         "name": "尤卡海宁 (Joukahainen)",
         "passives": [
-            "西苏之力：当该角色在战斗中首次以低生命值开始回合时，他们会恢复 15% 的生命值并获得 15% 的法力。"
+            "Power of Sisu: When this character starts a turn with low health for the first time during a battle, they recover 15% health and receive 15% mana."
         ]
     },
     {
         "originalIndex": 24,
         "name": "尤卡海宁 (Joukahainen) C1",
         "passives": [
-            "西苏之力：当该角色在战斗中首次以低生命值开始回合时，他们会恢复 15% 的生命值并获得 15% 的法力。"
+            "Power of Sisu: When this character starts a turn with low health for the first time during a battle, they recover 15% health and receive 15% mana."
         ]
     },
     {
@@ -172,7 +172,7 @@ const allTranslations =
         "originalIndex": 27,
         "name": "卡里尔 (Karil) 卡通",
         "passives": [
-            "卡通：额外 75% 几率抵抗所有状态异常、法力削减和增益驱散。"
+            "Toon: 75% extra chance to resist all status ailments, mana reductions and buff dispels."
         ]
     },
     {
@@ -189,22 +189,22 @@ const allTranslations =
         "originalIndex": 30,
         "name": "布朗歇 (Planchet)",
         "passives": [
-            "特殊技能和掩护伤害时造成伤害：当该角色受到特殊技能伤害或替处于掩护状态的角色承受伤害时，有 60% 的几率对所有敌人造成所受伤害 20% 的伤害。"
+            "Damage on Special Skill and Cover Damage: When this character receives damage from Special Skills or in place of a character in Cover, there’s a 60% chance to deal 20% of the received damage on all enemies."
         ]
     },
     {
         "originalIndex": 31,
         "name": "索罗卡 (Soroca)",
         "passives": [
-            "石像鬼之肤：每当此石像鬼施放特殊技能时，其石肤会变硬。接下来受到的 4 次伤害将降至 1 点。此效果无法被驱散。"
+            "Gargoyle’s Stoneskin: Every time this Gargoyle casts a Special Skill, their Stoneskin hardens. The next 4 times they receive damage, it is dropped to 1. This effect can’t be dispelled."
         ]
     },
     {
         "originalIndex": 32,
         "name": "天鹅室女 (Swan Maiden)",
         "passives": [
-            "状态异常失效或被清除时恢复生命：每当一个状态异常从该角色身上失效、被净化、移除或重新分配时，该角色会恢复 10% 的生命值。此效果每回合只能激活一次。",
-            "抵抗防御异常：该角色天生对影响防御的状态异常有抵抗能力。不适用于影响元素防御的状态异常。"
+            "Heal when status ailment expires or is cleared: This character receives 10% health each time a status ailment expires or is cleansed, removed or reallocated from them. This effect can activate only once per turn.",
+            "Resist Defense Ailments: This character has innate resistance against status ailments that affect defense. Doesn’t apply to status ailments that affect elemental defense."
         ]
     },
     {
@@ -221,7 +221,7 @@ const allTranslations =
         "originalIndex": 35,
         "name": "乌尔墨 (Ulmer) 卡通",
         "passives": [
-            "卡通：额外 75% 几率抵抗所有状态异常、法力削减和增益驱散。"
+            "Toon: 75% extra chance to resist all status ailments, mana reductions and buff dispels."
         ]
     },
     {
@@ -238,15 +238,15 @@ const allTranslations =
         "originalIndex": 38,
         "name": "瓦伦 (Valen) 卡通",
         "passives": [
-            "卡通：额外 75% 几率抵抗所有状态异常、法力削减和增益驱散。"
+            "Toon: 75% extra chance to resist all status ailments, mana reductions and buff dispels."
         ]
     },
     {
         "originalIndex": 39,
         "name": "维吉尔 (Virgil)",
         "passives": [
-            "降低小兵生命值：敌方小兵被召唤时继承的生命值减少 -50%。",
-            "抵抗防御异常：该角色天生对影响防御的状态异常有抵抗能力。此效果同样适用于影响元素防御的状态异常。"
+            "Decreased Minion Health: Enemy Minions inherit -50% less Health when summoned.",
+            "Resist defense Ailments: This character has innate resistance against status ailments that affect defense. Applies also to status ailments that affect elemental defense."
         ]
     },
     {
@@ -273,49 +273,47 @@ const allTranslations =
         "originalIndex": 44,
         "name": "水形魔 (Aqualith)",
         "passives": [
-            "特殊技能效果：当该角色施放其特殊技能时，有 50% 几率执行以下操作：",
-            "* 对所有敌人造成 80% 的伤害。",
-            "* 所有队友获得 +21% 的暴击率，持续 2 回合。"
+            "Effects on Special Skill: 50% chance to perform the following actions when this character casts their Special Skill",
+            " * Deals 80% damage to all enemies.",
+            " * All allies get +21% critical chance for 2 turns."
         ]
     },
     {
         "originalIndex": 45,
         "name": "水形魔 (Aqualith) C1",
         "passives": [
-            "特殊技能效果：当该角色施放其特殊技能时，有 50% 几率执行以下操作：",
-            "* 对所有敌人造成 80% 的伤害。",
-            "* 所有队友获得 +21% 的暴击率，持续 2 回合。",
-            "抵抗狂乱：该角色天生对狂乱有抵抗能力。"
+            "Effects on Special Skill: 50% chance to perform the following actions when this character casts their Special Skill",
+            " * Deals 80% damage to all enemies.",
+            " * All allies get +21% critical chance for 2 turns.",
+            "Resist Insanity: This character has innate resistance against Insanity."
         ]
     },
     {
         "originalIndex": 46,
         "name": "奥兹玛 (Azmia)",
         "passives": [
-            "特殊技能效果：当该角色施放其特殊技能时，有 60% 几率执行以下操作：",
-            "* 为所有队友提升 10% 的生命值。提升的生命值可以超过最大生命值。",
-            "* 净化所有队友身上最新的可净化状态异常。"
+            "Effects on Special Skill: 60% chance to perform the following actions when this character casts their Special Skill",
+            " * Boosts health of all allies by 10%. Boosted health can exceed max HP.",
+            " * Cleanses the latest cleansable status ailments from all allies."
         ]
     },
     {
         "originalIndex": 47,
         "name": "奥兹玛 (Azmia) C1",
         "passives": [
-            "特殊技能效果：当该角色施放其特殊技能时，有 60% 几率执行以下操作：",
-            "* 为所有队友提升 10% 的生命值。提升的生命值可以超过最大生命值。",
-            "* 净化所有队友身上最新的可净化状态异常。",
-            "特殊技能必定触发效果：当该角色施放其特殊技能时，任何提供额外施法效果的被动技能都将必定触发。",
-            "受到增益时恢复生命：该角色在获得增益或正面效果叠加时恢复 5% 的生命值。"
+            "Effects on Special Skill: 60% chance to perform the following actions when this character casts their Special Skill",
+            " * Boosts health of all allies by 10%. Boosted health can exceed max HP.",
+            " * Cleanses the latest cleansable status ailments from all allies.",
+            "Guaranteed Effect on Special Skill: When this character casts their Special Skill that grant extra effect on cast are guaranteed to activate.",
+            "Health Recover on Buff Received: This character recovers 5% HP when they receive a buff or positive stack."
         ]
     },
     {
         "originalIndex": 48,
         "name": "骨颤 (Bonechill)",
         "passives": [
-            "抵抗特殊技能格挡：该角色天生对格挡特殊技能的状态异常有抵抗能力。",
-            "毁灭核心：该角色的构造核心是毁灭核心。毁灭核心在该角色每次施放特殊技能时激活：",
-            "* 当毁灭核心完全充能时，对所有敌人造成 180% 的伤害。",
-            "* 伤害量根据核心的充能程度计算，核心激活时消耗所有充能。"
+            "Resist Special Skill Blocking: This character has innate resistance against status ailments that block Special Skill.",
+            "Destructive Core: The Construct Core of this character is Destructive Core. The Destructive Core activates each time this character’s Special Skill is cast: * With fully charged Destructive Core, deals 180% damage to all enemies. * The damage is scaled by the amount of charge in the Core, All charge is exchausted when the Core is activated."
         ]
     },
     {
@@ -337,7 +335,7 @@ const allTranslations =
         "originalIndex": 52,
         "name": "博立尔 (Boril) 卡通",
         "passives": [
-            "卡通：额外 75% 几率抵抗所有状态异常、法力削减和增益驱散。"
+            "Toon: 75% extra chance to resist all status ailments, mana reductions and buff dispels."
         ]
     },
     {
@@ -347,10019 +345,10005 @@ const allTranslations =
     },
     {
         "originalIndex": 54,
-        "name": "达因 (Dain)",
+        "name": "楚森 (Choozen)",
         "passives": [
-            "强化抵抗冰冻：该角色天生对冰冻有抵抗能力，并且每次抵抗时获得 450 点生命加成和 5% 的法力。",
-            "极地核心：极地核心在该角色每次施放特殊技能时激活。",
-            "* 所有敌人受到腐蚀冰冻效果，持续 3 回合。当极地核心完全充能时，腐蚀冰冻造成 193 点冰冻伤害，并每回合降低目标 -15% 的攻击力。对拥有小兵或巨大体型小兵的英雄造成额外伤害。",
-            "* 冰冻伤害量根据核心的充能程度计算，核心激活时消耗所有充能。"
+            "Slime Minion Upon Defeat: When this character is defeated, they summon Slime Mega Minions to nearby allies with 50% HP and 40% attack inherited from this character.",
+            "Slime Minion Split: If this character loses more than 25% of max health at once, they summon a Slime Mega Minion for themselves with 50% HP and 40% attack."
         ]
     },
     {
         "originalIndex": 55,
-        "name": "佛斯考 (Fosco)",
+        "name": "达因 (Dain)",
         "passives": [
-            "抵抗防御异常：该角色天生对影响防御的状态异常有抵抗能力。此效果同样适用于影响元素防御的状态异常。",
-            "小兵死亡时净化：当该角色拥有的小兵被摧毁时，该角色身上的状态异常会被净化。"
+            "Empowered Resist Frost: This character has innate resistance against Frost and gains 450 boosted health and 5% mana each time they resist.",
+            "Arctic Core: The Arctic Core activates each time this character’s Special Skill is cast",
+            " * All enemies receive Corrosive Frost for 3 turns. With fully charged Arctic Core, the Corrosive Frost deals 193 Frost damage, and lowers the target’s attack by -15% each turn. Deals extra damage against heroes with Minions or a Mega Minion.",
+            " * The Frost damage is scaled by the amount of charge in the Core. All charge is exhausted when the Core is activated."
         ]
     },
     {
         "originalIndex": 56,
-        "name": "弗兰克 (Frank)",
+        "name": "佛斯考 (Fosco)",
         "passives": [
-            "窃取增益：当该角色施放其特殊技能时，有 50% 的几率从一个带有增益的随机敌人身上窃取最新的可驱散增益。如果没有敌人带有增益，则对所有敌人造成 70% 的伤害。"
+            "Resist Defense Ailments: This character has innate resistance against status ailments that affect defense. Applies also to status ailments that affect elemental defense.",
+            "Cleanse on Minion Death: This character is cleansed of status ailments when Minion owned by them is destroyed. "
         ]
     },
     {
         "originalIndex": 57,
-        "name": "弗兰克 (Frank) C1",
+        "name": "弗兰克 (Frank)",
         "passives": [
-            "窃取增益：当该角色施放其特殊技能时，有 50% 的几率从一个带有增益的随机敌人身上窃取最新的可驱散增益。如果没有敌人带有增益，则对所有敌人造成 70% 的伤害。"
+            "Steal Buff: When this character casts their Special Skill, they have a 50% chance to steal the newest dispellable buff from a random enemy that has buffs. If no enemy has buffs, deals 70% damage to all enemies."
         ]
     },
     {
         "originalIndex": 58,
-        "name": "格里亚斯 (Garyas)",
+        "name": "弗兰克 (Frank) C1",
         "passives": [
-            "攻击力异常削减：将影响攻击力的状态异常效果降低 80%。此效果适用于该角色及其在战场上的所有盟友。"
+            "Steal Buff: When this character casts their Special Skill, they have a 50% chance to steal the newest dispellable buff from a random enemy that has buffs. If no enemy has buffs, deals 70% damage to all enemies."
         ]
     },
     {
         "originalIndex": 59,
-        "name": "格雷戈 (Greg)",
+        "name": "格里亚斯 (Garyas)",
         "passives": [
-            "抵抗法力削减：该角色天生对法力削减有抵抗能力。",
-            "守卫集结：每 4 回合，移除所有盟友身上的衰退效果。"
+            "Attack Ailment Reduction: Reduces the effect of status ailments affecting attack by 80%. The effect applies to this character and its allies in the battle."
         ]
     },
     {
         "originalIndex": 60,
+        "name": "格雷戈 (Greg)",
+        "passives": [
+            "Resist Mana reduction: This character has an innate resistance against Mana Reduction.",
+            "Guard Rally: Every 4 turns, removes all Wither effects from all allies."
+        ]
+    },
+    {
+        "originalIndex": 61,
         "name": "格林姆 (Grimm)",
         "passives": []
     },
     {
-        "originalIndex": 61,
+        "originalIndex": 62,
         "name": "格林姆 (Grimm) C1",
         "passives": []
     },
     {
-        "originalIndex": 62,
+        "originalIndex": 63,
         "name": "格林姆 (Grimm) C2",
         "passives": []
     },
     {
-        "originalIndex": 63,
+        "originalIndex": 64,
         "name": "格林姆 (Grimm) 卡通",
         "passives": [
-            "卡通：额外 75% 几率抵抗所有状态异常、法力削减和增益驱散。"
-        ]
-    },
-    {
-        "originalIndex": 64,
-        "name": "格林姆 (Grimm) 玻璃",
-        "passives": [
-            "玻璃：额外 60% 几率将状态异常反弹给攻击者。"
+            "Toon: 75% extra chance to resist all status ailments, mana reductions and buff dispels."
         ]
     },
     {
         "originalIndex": 65,
-        "name": "格蓝布尔 (Grumbl)",
+        "name": "格林姆 (Grimm) 玻璃",
         "passives": [
-            "石像鬼的软化皮肤：每当此石像鬼施放特殊技能时，其软化皮肤会激活。接下来受到的 5 次伤害降低 -90%，并抵抗所有状态异常和法力削减。此效果无法被驱散。"
+            "Glass: 60% extra chance to reflect status ailments back to the attacker."
         ]
     },
     {
         "originalIndex": 66,
+        "name": "格蓝布尔 (Grumbl)",
+        "passives": [
+            "Gargoile’s Softskin: Every time this Gargoyle casts a Special Skill, their Softskin activates. The next 5 times they receive damage, it is reduced by -90%, and they resist all status ailment and mana reduction. This effect can’t be dispelled."
+        ]
+    },
+    {
+        "originalIndex": 67,
         "name": "乔特 (Jott)",
         "passives": []
     },
     {
-        "originalIndex": 67,
+        "originalIndex": 68,
         "name": "基里尔 (Kiril)",
         "passives": []
     },
     {
-        "originalIndex": 68,
+        "originalIndex": 69,
         "name": "基里尔 (Kiril) C1",
         "passives": []
     },
     {
-        "originalIndex": 69,
+        "originalIndex": 70,
         "name": "基里尔 (Kiril) C2",
         "passives": []
     },
     {
-        "originalIndex": 70,
+        "originalIndex": 71,
         "name": "基里尔 (Kiril) 卡通",
         "passives": [
-            "卡通：额外 75% 几率抵抗所有状态异常、法力削减和增益驱散。"
-        ]
-    },
-    {
-        "originalIndex": 71,
-        "name": "基里尔 (Kiril) 玻璃",
-        "passives": [
-            "玻璃：额外 60% 几率将状态异常反弹给攻击者。"
+            "Toon: 75% extra chance to resist all status ailments, mana reductions and buff dispels."
         ]
     },
     {
         "originalIndex": 72,
-        "name": "纳克斯 (Knuckles)",
+        "name": "基里尔 (Kiril) 玻璃",
         "passives": [
-            "特殊技能附带持续伤害：当该角色施放其特殊技能时，会给一个随机敌人施加猎人印记。目标在 3 回合内受到 150 点伤害。如果目标已有此效果，则持续时间刷新，伤害增加 150 点，总伤害最高可达 1500 点。",
-            "猎人之毅：当该角色施放其特殊技能时，获得 +20% 的攻击力，持续 3 回合。此效果可与其他改变攻击力的效果并存。"
+            "Glass: 60% extra chance to reflect status ailments back to the attacker."
         ]
     },
     {
         "originalIndex": 73,
-        "name": "莱纳斯 (Linus)",
+        "name": "纳克斯 (Knuckles)",
         "passives": [
-            "队伍大师：",
-            "作为攻击方角色的被动技能：该英雄的部队对较弱元素造成额外元素伤害。",
-            "- 造成的额外元素伤害： +100%",
-            "作为防守方角色的被动技能：该英雄受到来自较强元素部队的元素伤害减少。",
-            "- 受到的元素伤害： -10%"
+            "Damage over time on special: When this character casts their Special Skill, they give a Hunter`s Mark on a random enemy. The target receives 150 damage over 3 turns. If a target already has this effect, the duration will be refreshed and the damage will be increased by 150, up to 1500 damage in total.",
+            "Hunter`s vigor: When this character casts their Special Skill, they get +20% attack for 3 turns. This effect can be active in addition to other effects that alter attack."
         ]
     },
     {
         "originalIndex": 74,
+        "name": "莱纳斯 (Linus)",
+        "passives": [
+            "Troop Mastery:",
+            "Passive Skill as attacking character: This hero’s Troops deal extra  elemental damage against weaker element.",
+            " - Dealt extra elemental damage: +100%",
+            "Passive Skill as defending character: This hero receives less elemental  damage from Troops of stronger element.",
+            " - Received elemental damage: -10%"
+        ]
+    },
+    {
+        "originalIndex": 75,
         "name": "麦尔威弗 (Mireweave)",
         "passives": []
     },
     {
-        "originalIndex": 75,
+        "originalIndex": 76,
         "name": "奥尔贝克 (Olbec)",
         "passives": [
-            "降低通过特殊技能获得的法力：通过特殊技能增加的法力值降低 -80%。此效果对战场上的所有敌人生效。"
-        ]
-    },
-    {
-        "originalIndex": 76,
-        "name": "修 (Osamu)",
-        "passives": [
-            "降低小兵生命值：敌方小兵被召唤时继承的生命值减少 -50%。"
+            "Reduce Mana Gain from Special Skill: Reduces the amount of mana increased by Special Skill by -80%. The effect applies to all enemies in the battle."
         ]
     },
     {
         "originalIndex": 77,
+        "name": "修 (Osamu)",
+        "passives": [
+            "Decreased Minion Health: Enemy Minions inherit -50% less Health when summoned."
+        ]
+    },
+    {
+        "originalIndex": 78,
         "name": "桑格里厄 (Sanngrior)",
         "passives": []
     },
     {
-        "originalIndex": 78,
+        "originalIndex": 79,
         "name": "青玉 (Sapphire)",
         "passives": []
     },
     {
-        "originalIndex": 79,
+        "originalIndex": 80,
         "name": "索尼娅 (Sonya)",
         "passives": []
     },
     {
-        "originalIndex": 80,
+        "originalIndex": 81,
         "name": "索尼娅 (Sonya) C1",
         "passives": []
     },
     {
-        "originalIndex": 81,
+        "originalIndex": 82,
         "name": "索尼娅 (Sonya) C2",
         "passives": []
     },
     {
-        "originalIndex": 82,
+        "originalIndex": 83,
         "name": "索尼娅 (Sonya) 卡通",
         "passives": [
-            "卡通：额外 75% 几率抵抗所有状态异常、法力削减和增益驱散。"
+            "Toon: 75% extra chance to resist all status ailments, mana reductions and buff dispels."
         ]
     },
     {
-        "originalIndex": 83,
+        "originalIndex": 84,
         "name": "崔坦 (Triton)",
         "passives": []
     },
     {
-        "originalIndex": 84,
+        "originalIndex": 85,
         "name": "崔坦 (Triton) C1",
         "passives": []
     },
     {
-        "originalIndex": 85,
+        "originalIndex": 86,
         "name": "法蕾莉 (Valeria)",
         "passives": [
-            "窃取增益 - 当该角色施放其特殊技能时，有 50% 的几率从一个带有增益的随机敌人身上窃取最新的可驱散增益。如果没有敌人带有增益，则对所有敌人造成 70% 的伤害。"
+            "Steal Buff - When this character casts their Special Skill, they have a 50%  chance to steal the newest dispellable buff from a random enemy that has buffs.  If no enemy has buffs, deals 70% damage to all enemies."
         ]
     },
     {
-        "originalIndex": 86,
+        "originalIndex": 87,
         "name": "夏侯惇 (Xiahou Dun)",
         "passives": []
     },
     {
-        "originalIndex": 87,
+        "originalIndex": 88,
         "name": "齐拉蕾 (Zila Lei)",
         "passives": [
-            "提升特殊技能伤害：该角色首次施放造成伤害的特殊技能时，其威力额外增加 30%。"
-        ]
-    },
-    {
-        "originalIndex": 88,
-        "name": "齐拉蕾 (Zila Lei) C1",
-        "passives": [
-            "提升特殊技能伤害：该角色首次施放造成伤害的特殊技能时，其威力额外增加 30%。"
+            "Increased Special Skill Damage: The first time this character casts a Special Skill that deals damage, an additional 30% is added to its power."
         ]
     },
     {
         "originalIndex": 89,
-        "name": "爱德琳达 (Adalinda)",
+        "name": "齐拉蕾 (Zila Lei) C1",
         "passives": [
-            "特殊技能伤害减免：该角色有 10% 的几率将受到的特殊技能直接伤害降至 1 点。",
-            "特殊技能附带持续伤害：当该角色施放其特殊技能时，会给一个随机敌人施加猎人印记。目标在 3 回合内受到 150 点伤害。如果目标已有此效果，则持续时间刷新，伤害增加 150 点，总伤害最高可达 1500 点。"
+            "Increased Special Skill Damage: The first time this character casts a Special Skill that deals damage, an additional 30% is added to its power."
         ]
     },
     {
         "originalIndex": 90,
+        "name": "爱德琳达 (Adalinda)",
+        "passives": [
+            "Special Skill Damage Reduction: This character has a 10% chance to drop the direct damage received from Special Skills to 1.",
+            "Damage over time on Special: When this character casts their Special Skill, they give a Hunter’s Mark on a random enemy. The target receives 150 damage over 3 turns. If a target already has this effect, the duration will be refreshed and the damage will be increased by 150, up to 1500 damage in total."
+        ]
+    },
+    {
+        "originalIndex": 91,
         "name": "艾吉尔 (Aegir)",
         "passives": []
     },
     {
-        "originalIndex": 91,
+        "originalIndex": 92,
         "name": "艾吉尔 (Aegir) C1",
         "passives": [
-            "特殊技能净化：当该角色施放其特殊技能时，会净化所有队友身上最新的状态异常。"
-        ]
-    },
-    {
-        "originalIndex": 92,
-        "name": "爱诺 (Aino)",
-        "passives": [
-            "西苏之力：当该角色在战斗中首次以低生命值开始回合时，他们会恢复 15% 的生命值并获得 15% 的法力。"
+            "Cleanse on Special: When this character casts their Special Skill, they cleanse the newest status ailment from all allies."
         ]
     },
     {
         "originalIndex": 93,
-        "name": "爱诺 (Aino) C1",
+        "name": "爱诺 (Aino)",
         "passives": [
-            "西苏之力：当该角色在战斗中首次以低生命值开始回合时，他们会恢复 15% 的生命值并获得 15% 的法力。"
+            "Power of Sisu: When this character starts a turn with low health for the first time during a battle, they recover 15% health and receive 15% mana."
         ]
     },
     {
         "originalIndex": 94,
+        "name": "爱诺 (Aino) C1",
+        "passives": [
+            "Power of Sisu: When this character starts a turn with low health for the first time during a battle, they recover 15% health and receive 15% mana."
+        ]
+    },
+    {
+        "originalIndex": 95,
         "name": "阿拉希 (Alasie)",
         "passives": []
     },
     {
-        "originalIndex": 95,
+        "originalIndex": 96,
         "name": "阿拉希 (Alasie) C1",
         "passives": [
-            "特殊技能净化：当该角色施放其特殊技能时，会净化所有队友身上最新的状态异常。"
-        ]
-    },
-    {
-        "originalIndex": 96,
-        "name": "亚历山德林 (Alexandrine)",
-        "passives": [
-            "抵抗治疗异常：该角色天生对影响治疗的状态异常有抵抗能力。",
-            "受到状态异常时恢复生命：该角色在受到状态异常或负面效果叠加时恢复 10% 的生命值。"
+            "Cleanse on Special: When this character casts their Special Skill, they cleanse the newest status ailment from all allies."
         ]
     },
     {
         "originalIndex": 97,
+        "name": "亚历山德林 (Alexandrine)",
+        "passives": [
+            "Resist Healing Ailments: This character has an innate resistance against status ailments that affect Healing.",
+            "Health Recovery on Status Ailment Received: This character recovers 10% health when they receive a status ailment or a negative stack."
+        ]
+    },
+    {
+        "originalIndex": 98,
         "name": "爱丽丝 (Alice)",
         "passives": []
     },
     {
-        "originalIndex": 98,
+        "originalIndex": 99,
         "name": "安菲特里忒 (Amphitrite)",
         "passives": [
-            "降低小兵生命值：敌方小兵被召唤时继承的生命值减少 -50%。",
-            "抵抗防御异常：该角色天生对影响防御的状态异常有抵抗能力。此效果同样适用于影响元素防御的状态异常。"
-        ]
-    },
-    {
-        "originalIndex": 99,
-        "name": "安德瓦里 (Andvari)",
-        "passives": [
-            "强化抵抗燃烧：该角色天生对燃烧有抵抗能力，并且每次抵抗时获得 450 点生命加成和 5% 的法力。",
-            "熔岩核心。该角色拥有一个熔岩核心。",
-            "熔岩核心在该角色每次施放特殊技能时激活：",
-            "* 所有敌人受到腐蚀燃烧效果，持续 3 回合。当熔岩核心完全充能时，腐蚀燃烧造成 309 点燃烧伤害，并每回合降低目标 -12% 的防御力。对拥有小兵或巨大体型小兵的英雄造成额外伤害。",
-            "* 燃烧伤害量根据核心的充能程度计算，核心激活时消耗所有充能。"
+            "Decreased Minion Health: Enemy Minions inherit -50% less Health when summoned.",
+            "Resist Defense Ailments: The character has innate resistance against status ailments that effect defense. Applies also to status ailment that affect elemental defense."
         ]
     },
     {
         "originalIndex": 100,
-        "name": "安齐雅 (Anzia)",
+        "name": "安德瓦里 (Andvari)",
         "passives": [
-            "队伍大师：",
-            "作为攻击方角色的被动技能：该英雄的部队对较弱元素造成额外元素伤害。",
-            "- 造成的额外元素伤害： +100%",
-            "作为防守方角色的被动技能：该英雄受到来自较强元素部队的元素伤害减少。",
-            "- 受到的元素伤害： -10%"
+            "Empowered Resist Burn: This character has innate resistance against Burn and gains 450 boosted health and 5% mana each time they resist.",
+            "Molten Core. This character has a Molten Core.",
+            "The Molten Core activates each time this character’s Special Skill is cast:",
+            " * All enemies receive Corrosive Burn for 3 turns. With fully charged Molten Core, the Corrosive Burn deals 309 Burn damage, and lowers the target’s defense by -12% each turn. Deals extra damage against heroes with Minions or Mega Minions",
+            " * The Burn damage is scaled by the amount of charge in the Core. All charge is exhausted when the Core is activated."
         ]
     },
     {
         "originalIndex": 101,
-        "name": "艾丽娅珂丝 (Areax)",
+        "name": "安齐雅 (Anzia)",
         "passives": [
-            "抵抗特殊技能格挡：该角色天生对格挡特殊技能的状态异常有抵抗能力。",
-            "抵抗水系伤害：该角色天生对水系伤害有抵抗能力。"
+            "Troop Mastery:",
+            "Passive Skill as attacking character: This hero’s Troops deal extra  elemental damage against weaker element.",
+            " - Dealt extra elemental damage: +100%",
+            "Passive Skill as defending character: This hero receives less elemental  damage from Troops of stronger element.",
+            " - Received elemental damage: -10%"
         ]
     },
     {
         "originalIndex": 102,
+        "name": "艾丽娅珂丝 (Areax)",
+        "passives": [
+            "Resist Special Skill Blocking: This character has innate resistance against status ailments that block Special Skills.",
+            "Resist Water Damage: This character has innate resistance against Water damage."
+        ]
+    },
+    {
+        "originalIndex": 103,
         "name": "爱丽儿 (Ariel)",
         "passives": []
     },
     {
-        "originalIndex": 103,
+        "originalIndex": 104,
         "name": "爱丽儿 (Ariel) C1",
         "passives": []
     },
     {
-        "originalIndex": 104,
+        "originalIndex": 105,
         "name": "阿梅尔 (Armel)",
         "passives": [
-            "受到增益时恢复生命：该角色在获得增益或正面效果叠加时恢复 5% 的生命值。"
-        ]
-    },
-    {
-        "originalIndex": 105,
-        "name": "进阶拟态兽 (Ascension Mimic) Ice",
-        "passives": [
-            "完美精准度：该角色的特殊技能必定命中目标。",
-            "拟态兽战利品：该拟态兽在完成关卡时有几率获得额外战利品。",
-            "* 高筒靴。",
-            "* 精致手套。",
-            "* 指南针。",
-            "* 大马士革刀。",
-            "* 策略书卷。",
-            "* 秘能手卷。",
-            "* 链甲衫。",
-            "* 袖剑。",
-            "* 神秘戒指。"
+            "Health Recovery on Buff Received: This character recovers 5% health when they receive a buff or a positive stack."
         ]
     },
     {
         "originalIndex": 106,
-        "name": "阿西安 (Ascian)",
+        "name": "进阶拟态兽 (Ascension Mimic) Ice",
         "passives": [
-            "致盲小兵：所有敌方小兵拥有 -60% 精准度。所有敌方超级小兵拥有 -50% 精准度。",
-            "抵抗狂乱：该角色天生对狂乱有抵抗能力。",
-            "抵抗攻击力削减：该角色天生对影响攻击力的状态异常、叠加和衰退效果有抵抗能力。"
+            "Perfect Accuracy: This character’s Special Skill never misses its targets.",
+            "Mimic Loot: This Mimic gives a chance for extra loot when completing stages",
+            " * Tall Boots",
+            " * Fine Gloves",
+            " * Compass",
+            " * Damascus Blade",
+            " * Tome Of Tactics",
+            " * Arcane Scipt",
+            " * Chainmail Shirt",
+            " * Hidden Blade",
+            " * Mystic Rings"
         ]
     },
     {
         "originalIndex": 107,
+        "name": "阿西安 (Ascian)",
+        "passives": [
+            "Minion Blind: All enemies’ Minions have -60% accuracy. All enemies’ Mega Minions have -50% accuracy.",
+            "Resist Insanity: This character has innate resistance against Insanity.",
+            "Resist Attack Reduction: This character has innate resistance against status ailments, stacks and Wither effects that affect attack."
+        ]
+    },
+    {
+        "originalIndex": 108,
         "name": "阿西娜 (Athena)",
         "passives": []
     },
     {
-        "originalIndex": 108,
+        "originalIndex": 109,
         "name": "阿西娜 (Athena) C1",
         "passives": [
-            "特殊技能驱散：当该角色施放其特殊技能时，会驱散所有敌人身上最新的状态效果增益。"
-        ]
-    },
-    {
-        "originalIndex": 109,
-        "name": "亚特兰蒂亚 (Atlanteia)",
-        "passives": [
-            "特殊技能效果：当该角色施放其特殊技能时，有 50% 几率执行以下操作。",
-            "* 对所有敌人造成 80% 的伤害。",
-            "* 施法者获得 +19% 的法力生成，持续 2 回合。"
+            "Dispel on Special Skill: When this character casts their Special Skill, they dispel the newest status effect buff from all enemies."
         ]
     },
     {
         "originalIndex": 110,
-        "name": "亚特兰蒂亚 (Atlanteia) C1",
+        "name": "亚特兰蒂亚 (Atlanteia)",
         "passives": [
-            "特殊技能效果：当该角色施放其特殊技能时，有 50% 几率执行以下操作。",
-            "* 对所有敌人造成 80% 的伤害。",
-            "* 施法者获得 +19% 的法力生成，持续 2 回合。",
-            "抵抗狂乱：该角色天生对狂乱有抵抗能力。"
+            "Effects on Special Skill: 50% chance to perform the following actions when this character casts their Special Skill.",
+            " * Deals 80% damage to all enemies.",
+            " * The caster get +19% mana generation for 2 turns."
         ]
     },
     {
         "originalIndex": 111,
+        "name": "亚特兰蒂亚 (Atlanteia) C1",
+        "passives": [
+            "Effects on Special Skill: 50% chance to perform the following actions when this character casts their Special Skill.",
+            " * Deals 80% damage to all enemies.",
+            " * The caster get +19% mana generation for 2 turns.",
+            "Resist Insanity: This character has innate resistance against Insanity."
+        ]
+    },
+    {
+        "originalIndex": 112,
         "name": "石青 (Azurite)",
         "passives": []
     },
     {
-        "originalIndex": 112,
+        "originalIndex": 113,
         "name": "巴洛尔 (Balur)",
         "passives": [
-            "流血时治疗：每当敌人受到流血伤害时，该角色恢复 50 点生命值。",
-            "抵抗攻击异常：该角色天生对影响攻击力的状态异常有抵抗能力。"
-        ]
-    },
-    {
-        "originalIndex": 113,
-        "name": "本努 (Bennu)",
-        "passives": [
-            "特殊技能效果：当该角色施放其特殊技能时，有 60% 几率执行以下操作：",
-            "* 为所有队友提升 10% 的生命值。提升的生命值可以超过最大生命值。",
-            "* 净化所有队友身上最新的可净化状态异常。"
+            "Heal on Bleed: This character regenerates 50 HP each time an enemy receives Bleed damage.",
+            "Resist Attack Ailments: This character has innate resistance against status ailments that affect attack."
         ]
     },
     {
         "originalIndex": 114,
-        "name": "本努 (Bennu) C1",
+        "name": "本努 (Bennu)",
         "passives": [
-            "特殊技能效果：当该角色施放其特殊技能时，有 60% 几率执行以下操作：",
-            "* 为所有队友提升 10% 的生命值。提升的生命值可以超过最大生命值。",
-            "* 净化所有队友身上最新的可净化状态异常。",
-            "特殊技能必定触发效果：当该角色施放其特殊技能时，任何提供额外施法效果的被动技能都将必定触发。",
-            "受到增益时恢复生命：该角色在获得增益或正面效果叠加时恢复 5% 的生命值。"
+            "Effects on Special Skill: 60% chance to perform the following actions when this character casts their Special Skill",
+            " * Boosts health of all allies by 10%. Boosted health can exceed max HP.",
+            " * Cleanses the latest cleansable status ailment from all allies."
         ]
     },
     {
         "originalIndex": 115,
-        "name": "巴尔泰尔 (Bhaltair)",
+        "name": "本努 (Bennu) C1",
         "passives": [
-            "快节奏 - 民谣：所有由敌人施放的民谣仅持续 1 回合。",
-            "快节奏 - 舞蹈：所有由敌人施放的舞蹈仅持续 1 回合。"
+            "Effects on Special Skill: 60% chance to perform the following actions when this character casts their Special Skill",
+            " * Boosts health of all allies by 10%. Boosted health can exceed max HP.",
+            " * Cleanses the latest cleansable status ailment from all allies.",
+            "Guaranteed Effect on Special Skill: When this character casts their Special Skill, any of their Passive Skills that grant extra effects on cast are guaranteed to activate.",
+            "Health Recover on Buff Received: This character recovers 5% HP when they receive a buff or positive stack."
         ]
     },
     {
         "originalIndex": 116,
+        "name": "巴尔泰尔 (Bhaltair)",
+        "passives": [
+            "Quick Tempo - Ballad: All Ballads cast by enemies only last for 1 turn.",
+            "Quick Tempo - Dance: All Dances cast by enemies only last for 1 turn."
+        ]
+    },
+    {
+        "originalIndex": 117,
         "name": "波波 (Bobo)",
         "passives": []
     },
     {
-        "originalIndex": 117,
+        "originalIndex": 118,
         "name": "泡泡 (Bubbles)",
         "passives": [
-            "萌宠之怒：当恶魔被召唤到任何敌人身上时，该角色对所有敌人造成 85% 的伤害。此效果每回合只能激活一次。",
-            "魔宠之友：当小兵被召唤到任何盟友身上时，该角色获得 5% 的生命值和 5% 的法力。此效果每回合只能激活一次。"
+            "Wrath of Pets: When a Fiend is summoned to any enemy, this character deals 85% damage to all enemies. This effect can activate only once per turn.",
+            "Friend of the Familiars: When a Minion is summoned to any ally, this character gains 5% health and 5% mana. This effect can activate only once per turn."
         ]
     },
     {
-        "originalIndex": 118,
+        "originalIndex": 119,
         "name": "伯顿 (Burton)",
         "passives": []
     },
     {
-        "originalIndex": 119,
+        "originalIndex": 120,
         "name": "卡伦 (Caelen)",
         "passives": [
-            "抵抗法力削减：该角色天生对法力削减有抵抗能力。",
-            "守卫集结：每 4 回合，移除所有盟友身上的衰退效果。"
-        ]
-    },
-    {
-        "originalIndex": 120,
-        "name": "卡蜜拉 (Camilla)",
-        "passives": [
-            "特殊技能造成伤害：当该角色施放其特殊技能时，有 50% 的几率对所有敌人造成 100% 的伤害。如果特殊技能完全充能，则几率为 100%。",
-            "特殊技能叠加：当该角色施放其特殊技能时，所有敌人获得 -5% 的法力生成叠加。如果特殊技能完全充能，则所有敌人获得两层叠加。一个敌人最多可以有 10 层叠加。"
+            "Resist Mana reduction: This character has an innate resistance against mana Reduction.",
+            "Guard Rally: Every 4 turns, removes all Wither effects from all allies."
         ]
     },
     {
         "originalIndex": 121,
+        "name": "卡蜜拉 (Camilla)",
+        "passives": [
+            "Damage on Special: When this character casts their Special Skill, they have a 50% chance to deal 100% damage to all enemies. If the Special Skill is fully charged, the chance is 100%.",
+            "Stack on Special: When this character casts their Special Skill, all enemies get -5% mana generation stack. If the Special Skill is fully charged, all enemies get two stacks. An enemy can have up to 10 stacks."
+        ]
+    },
+    {
+        "originalIndex": 122,
         "name": "曹操 (Cao Cao)",
         "passives": []
     },
     {
-        "originalIndex": 122,
+        "originalIndex": 123,
         "name": "曹操 (Cao Cao) C1",
         "passives": [
-            "无法阻止的小兵：",
-            "* 抵抗小兵移除。",
-            "* 无法被阻止获得小兵。",
-            "* 小兵的攻击和技能无法被禁用。"
-        ]
-    },
-    {
-        "originalIndex": 123,
-        "name": "卡塔尔 (Cathal)",
-        "passives": [
-            "抵抗状态效果伤害：该角色天生对来自状态效果的伤害有抵抗能力。"
+            "Unstoppable Minions:",
+            " * Resistance against Minion removal.",
+            " * Can’t be prevented from receiving Minions.",
+            " * Minion attack and abilities can’t be disabled."
         ]
     },
     {
         "originalIndex": 124,
-        "name": "谢尔 (Cel)",
+        "name": "卡塔尔 (Cathal)",
         "passives": [
-            "小兵死亡时净化：当该角色拥有的小兵被摧毁时，该角色身上的状态异常会被净化。",
-            "抵抗防御异常：该角色天生对影响防御的状态异常有抵抗能力。此效果同样适用于影响元素防御的状态异常。"
+            "Resist Damage from Status Effects: This charater has innate resistance against incoming damage from status effects."
         ]
     },
     {
         "originalIndex": 125,
-        "name": "塞里门妮 (Celimene)",
+        "name": "谢尔 (Cel)",
         "passives": [
-            "攻击力异常削减：将影响攻击力的状态异常效果降低 -80%。此效果适用于该角色及其在战场上的所有盟友。"
+            "Cleanse on Minion Death: This character is cleansed of status ailments when Minion owned by them is destroyed. ",
+            "Resist Defense Ailments: This character has innate resistance against status ailments that affect defense. Applies also to status ailments that affect elemental defense."
         ]
     },
     {
         "originalIndex": 126,
-        "name": "刻托 (Ceto)",
+        "name": "塞里门妮 (Celimene)",
         "passives": [
-            "特殊技能效果：当该角色施放其特殊技能时，有 50% 几率执行以下操作：",
-            "* 对所有敌人造成 80% 的伤害。",
-            "* 所有队友获得 +21% 的暴击率，持续 2 回合。"
+            "Attack Ailment Reduction: Reduces the effect of status ailments affecting attack by -80%. The effect applies to this character and its allies in the battle."
         ]
     },
     {
         "originalIndex": 127,
-        "name": "刻托 (Ceto) C1",
+        "name": "刻托 (Ceto)",
         "passives": [
-            "特殊技能效果：当该角色施放其特殊技能时，有 50% 几率执行以下操作：",
-            "* 对所有敌人造成 80% 的伤害。",
-            "* 所有队友获得 +21% 的暴击率，持续 2 回合。",
-            "抵抗狂乱：该角色天生对狂乱有抵抗能力。"
+            "Effects on Special Skill: 50% chance to perform the following actions when this character casts their Special Skill",
+            " * Deals 80% damage to all enemies.",
+            " * All allies get +21% critical chance for 2 turns."
         ]
     },
     {
         "originalIndex": 128,
-        "name": "嫦娥 (Chang'e)",
+        "name": "刻托 (Ceto) C1",
         "passives": [
-            "受到增益时获得法力：该角色在获得增益或正面效果叠加时，有 50% 的几率获得 10% 的法力。",
-            "受到增益时恢复生命：该角色在获得增益或正面效果叠加时，有 50% 的几率恢复 10% 的生命值。"
+            "Effects on Special Skill: 50% chance to perform the following actions when this character casts their Special Skill",
+            " * Deals 80% damage to all enemies.",
+            " * All allies get +21% critical chance for 2 turns.",
+            "Resist Insanity: This character has innate resistance against Insanity."
         ]
     },
     {
         "originalIndex": 129,
-        "name": "切斯特 (Chester)",
+        "name": "嫦娥 (Chang'e)",
         "passives": [
-            "窃取增益：当该角色施放其特殊技能时，有 50% 的几率从一个带有增益的随机敌人身上窃取最新的可驱散增益。如果没有敌人带有增益，则对所有敌人造成 70% 的伤害。"
+            "Mana on Buff Received: This character has a 50% chance to gain 10% mana when they receive a buff or possitive stack.",
+            "Health Recovery on Buff Received: This character has a 50% chance to recover 10% health when they receive a buff or possitve stack."
         ]
     },
     {
         "originalIndex": 130,
-        "name": "切米斯特 (Chimister)",
+        "name": "切斯特 (Chester)",
         "passives": [
-            "闪避特殊技能伤害：该角色有 15% 的几率闪避造成伤害的特殊技能。"
+            "Steal Buff: When this character casts their Special Skill, they have a 50% chance to steal the newest dispellable buff from a random enemy that has buffs. If no enemy has buffs, deals 70% damage to all enemies."
         ]
     },
     {
         "originalIndex": 131,
-        "name": "齐特拉伽达 (Chitrangada)",
+        "name": "切米斯特 (Chimister)",
         "passives": [
-            "受到伤害时获得法力：",
-            "* 当该角色受到来自特殊技能或普通攻击的直接伤害时，会获得少量法力。",
-            "* 每回合最多获得 10% 法力。",
-            "进阶抵抗负面小兵效果：该角色天生对来自小兵和巨大体型小兵的负面效果及伤害有抵抗能力。"
+            "Dodge Special Damage: This character has a 15% chance to dodge Special Skills that deal damage."
         ]
     },
     {
         "originalIndex": 132,
-        "name": "席亚拉 (Ciara)",
+        "name": "齐特拉伽达 (Chitrangada)",
         "passives": [
-            "抵抗法力削减：该角色天生对法力削减有抵抗能力。",
-            "守卫集结：每 4 回合，移除所有盟友身上的衰退效果。"
+            "Mana on Damage Received:",
+            " * When this character receives direct damage from Special Skills or Normal Attacks they receive a small amount of mana.",
+            " * Maximum of 10% mana gained per turn.",
+            "Superior Resist Negative Minion Effects: This character has innate resistance against incoming negative effects and damage from Minions and Mega Minions."
         ]
     },
     {
         "originalIndex": 133,
-        "name": "肉桂 (Cinnamon)",
+        "name": "席亚拉 (Ciara)",
         "passives": [
-            "魔宠之友：当小兵被召唤到任何盟友身上时，该角色获得 5% 的生命值和 5% 的法力。此效果每回合只能激活一次。",
-            "萌宠之怒：当恶魔被召唤到任何敌人身上时，该角色对所有敌人造成 85% 的伤害。此效果每回合只能激活一次。"
+            "Resist Mana reduction: This character has an innate resistance against mana Reduction.",
+            "Guard Rally: Every 4 turns, removes all Wither effects from all allies."
         ]
     },
     {
         "originalIndex": 134,
-        "name": "克拉格 (Claeg)",
+        "name": "肉桂 (Cinnamon)",
         "passives": [
-            "抵抗特殊技能格挡：该角色天生对格挡特殊技能的状态异常有抵抗能力。",
-            "抵抗燃烧：该角色天生对燃烧有抵抗能力。"
+            "Friend of the Familiars: When a Minion is summoned to any ally, this character gains 5% health and 5% mana. This effect can activate only once per turn.",
+            "Wrath of Pets: When a Fiend is summoned to any enemy, this character deals 85% damage to all enemies. This effect can activate only once per turn."
         ]
     },
     {
         "originalIndex": 135,
+        "name": "克拉格 (Claeg)",
+        "passives": [
+            "Resist Special Skill Blocking: This character has innate resistance against status ailments that block Special Skill.",
+            "Resist Burn: This character has innate resistance against Burn."
+        ]
+    },
+    {
+        "originalIndex": 136,
         "name": "钴蓝 (Cobalt)",
         "passives": []
     },
     {
-        "originalIndex": 136,
+        "originalIndex": 137,
         "name": "宇宙讲者 (Cosmicspeaker)",
         "passives": [
-            "抵抗剧毒：该角色天生对剧毒有抵抗能力。",
-            "分摊所受伤害：该角色所受伤害的 20% 将由其他盟友分摊。"
+            "Resist Poison: This character has innate resistance against Poison.",
+            "Share Received Damage: 20% of damage received by this charater is shared with other allies."
         ]
     },
     {
-        "originalIndex": 137,
+        "originalIndex": 138,
         "name": "克里斯托里斯 (Crystalis)",
         "passives": []
     },
     {
-        "originalIndex": 138,
+        "originalIndex": 139,
         "name": "戴维·韦威 (Davey Wavey)",
         "passives": [
-            "特殊技能附带持续伤害：当该角色施放其特殊技能时，所有敌人会在 2 回合内受到 238 点水系伤害。",
-            "抵抗水系伤害：该角色天生对水系伤害有抵抗能力。"
+            "Damage over time on Special: When this character casts their Special Skill, all enemies receive 238 Water damage over 2 turns.",
+            "Resist Water Damage: This character has innate resistance against Water Damage."
         ]
     },
     {
-        "originalIndex": 139,
+        "originalIndex": 140,
         "name": "埃斯米 (Esme)",
         "passives": []
     },
     {
-        "originalIndex": 140,
+        "originalIndex": 141,
         "name": "艾克塞拉 (Exeera)",
         "passives": [
-            "战斗开始时获得法力：该角色在战斗开始时获得 20% 的法力。"
-        ]
-    },
-    {
-        "originalIndex": 141,
-        "name": "艾克塞拉 (Exeera) C1",
-        "passives": [
-            "战斗开始时获得法力：该角色在战斗开始时获得 20% 的法力。",
-            "对生命加成目标造成更高伤害：在该角色施放特殊技能后，所有盟友对具有生命加成的目标造成的普通攻击和特殊技能伤害提高 +70%，持续 4 回合。"
+            "Start Battle with Mana: This character receives 20% mana at the start of the battle."
         ]
     },
     {
         "originalIndex": 142,
-        "name": "经验拟态兽 (Experience Mimic) Ice",
+        "name": "艾克塞拉 (Exeera) C1",
         "passives": [
-            "完美精准度：该角色的特殊技能必定命中目标。",
-            "拟态兽战利品：该拟态兽在完成关卡时有几率获得额外战利品。",
-            "* 普通冰雪训练师英雄。",
-            "* 非凡冰雪训练师英雄。",
-            "* 稀有冰雪训练师英雄。",
-            "* 普通冰雪英雄。",
-            "* 非凡冰雪英雄。"
+            "Start Battle with Mana: This character receives 20% mana at the start of the battle.",
+            "Increased Damage Against Boosted Health: After this character casts their Special Skill, all allies deal +70% increased normal attack and Special Skills damage against targets with boosted health for 4 turns."
         ]
     },
     {
         "originalIndex": 143,
+        "name": "经验拟态兽 (Experience Mimic) Ice",
+        "passives": [
+            "Perfect Accuracy: This character’s Special Skill never misses its targets.",
+            "Mimic Loot: This Mimic gives a chance for extra loot when completing stages",
+            " * Common Ice Trainer Heroes",
+            " * Uncommon Ice Trainer Heroes",
+            " * Rare Ice Trainer Heroes",
+            " * Common Ice Heroes",
+            " * Uncommon Ice Heroes"
+        ]
+    },
+    {
+        "originalIndex": 144,
         "name": "芬里厄 (Fenrir)",
         "passives": []
     },
     {
-        "originalIndex": 144,
+        "originalIndex": 145,
         "name": "芬里厄 (Fenrir) C1",
         "passives": []
     },
     {
-        "originalIndex": 145,
+        "originalIndex": 146,
         "name": "费格斯 (Fergus)",
         "passives": [
-            "受到状态异常时获得法力：该角色在受到状态异常或负面效果叠加时获得 5% 的法力。",
-            "抵抗法力削减：该角色天生对法力削减有抵抗能力。",
-            "守卫集结：每 4 回合，移除所有盟友身上的衰退效果。"
+            "Mana on Status Ailment Received: This character gains 5% mana when they receive a status ailment or negative stack.",
+            "Resist Mana reduction: This character has an innate resistance against mana Reduction.",
+            "Guard Rally: Every 4 turns, removes all Wither effects from all allies."
         ]
     },
     {
-        "originalIndex": 146,
+        "originalIndex": 147,
         "name": "芬利 (Finley)",
         "passives": []
     },
     {
-        "originalIndex": 147,
+        "originalIndex": 148,
         "name": "芬利 (Finley) C1",
         "passives": [
-            "特殊技能附带剧毒：当该角色施放其特殊技能时，所有敌人会在 4 回合内受到 528 点剧毒伤害。"
-        ]
-    },
-    {
-        "originalIndex": 148,
-        "name": "费尔明·理查德 (Firmin Richard)",
-        "passives": [
-            "抵抗攻击异常：该角色天生对影响攻击力的状态异常有抵抗能力。",
-            "状态异常失效或被清除时恢复生命：每当一个状态异常从该角色身上失效、被净化、移除或重新分配时，该角色会恢复 5% 的生命值。此效果每回合只能激活一次。"
+            "Poison on Special Skill: When this character casts their Special Skill, all enemies receive 528 Poison damage over 4 turns."
         ]
     },
     {
         "originalIndex": 149,
-        "name": "丝弦 (Fizzcoil)",
+        "name": "费尔明·理查德 (Firmin Richard)",
         "passives": [
-            "特殊技能效果：当该角色施放其特殊技能时，有 40% 几率执行以下操作。",
-            "* 对所有敌人造成 90% 的伤害。",
-            "* 所有敌人获得 -25% 的精准度，持续 3 回合。"
+            "Resist Attack Ailments: This character has innate resistance against status ailments that affect attack.",
+            "Heal when status ailment expires or is cleared: This character receives 5% health each time a status ailment expires or is cleansed, removed or reallocated from them. This effect can activate only once per turn."
         ]
     },
     {
         "originalIndex": 150,
-        "name": "福尔图娜 (Fortuna)",
+        "name": "丝弦 (Fizzcoil)",
         "passives": [
-            "小兵死亡时净化：当该角色拥有的小兵被摧毁时，该角色身上的状态异常会被净化。"
+            "Effects on Special Skill: 40% chance to perform the following actions when this character casts their Special Skill.",
+            " * Deals 90% damage to all enemies.",
+            " * All enemies get -25% accuracy for 3 turns."
         ]
     },
     {
         "originalIndex": 151,
-        "name": "弗里达 (Frida)",
+        "name": "福尔图娜 (Fortuna)",
         "passives": [
-            "抵抗攻击异常：该角色天生对影响攻击力的状态异常有抵抗能力。"
+            "Cleanse on Minion Death: This character is cleansed of status ailments when Minion owned by them is destroyed. "
         ]
     },
     {
         "originalIndex": 152,
-        "name": "弗洛斯 (Frosth)",
+        "name": "弗里达 (Frida)",
         "passives": [
-            "抵抗燃烧：该角色天生对燃烧有抵抗能力。",
-            "小兵死亡时净化：当该角色拥有的小兵被摧毁时，该角色身上的状态异常会被净化。"
+            "Resist Attack Ailments: This character has an innate resistance against status ailments that affect Attack."
         ]
     },
     {
         "originalIndex": 153,
-        "name": "冰嗅 (Frostsnout)",
+        "name": "弗洛斯 (Frosth)",
         "passives": [
-            "抵抗法力削减：该角色天生对法力削减有抵抗能力。",
-            "守卫集结：每 4 回合，移除所有盟友身上的衰退效果。"
+            "Resist Burn: This character has innate resistance against Burn.",
+            "Cleanse on Minion Death: This character is cleansed of status ailments when a Minion owned by them is destroyed."
         ]
     },
     {
         "originalIndex": 154,
-        "name": "盖拉德 (Gaillard)",
+        "name": "冰嗅 (Frostsnout)",
         "passives": [
-            "石像鬼之肤：每当此石像鬼施放特殊技能时，其石肤会变硬。接下来受到的 3 次伤害将降至 1 点。此效果无法被驱散。"
+            "Resist Mana Reduction: This character has an innate resistance against mana reduction.",
+            "Guard Rally: Every 4 turns, removes all Wither effects from all allies."
         ]
     },
     {
         "originalIndex": 155,
-        "name": "涯拉克 (Ghealach)",
+        "name": "盖拉德 (Gaillard)",
         "passives": [
-            "抵抗特殊技能格挡：该角色天生对格挡特殊技能的状态异常有抵抗能力。",
-            "毁灭核心：该角色的构造核心是毁灭核心。",
-            "毁灭核心在该角色每次施放特殊技能时激活。",
-            "* 当毁灭核心完全充能时，对所有敌人造成 180% 的伤害。",
-            "* 伤害量根据核心的充能程度计算，核心激活时消耗所有充能。"
+            "Gargoyle’s Stoneskin: Every time this Gargoyle casts a Special Skill, their Stoneskin hardens. The next 3 times they receive damage, it is dropped to 1. This effect can’t be dispelled."
         ]
     },
     {
         "originalIndex": 156,
-        "name": "格拉迪乌斯 (Gladius)",
+        "name": "涯拉克 (Ghealach)",
         "passives": [
-            "抵抗特殊技能格挡：该角色天生对格挡特殊技能的状态异常有抵抗能力。",
-            "敌方获得防御增益时获得法力：当任何敌人获得防御性增益时，该角色获得 10% 的法力。"
+            "Resist Special Skill Blocking: This character has innate resistance against status ailments that block Special Skill.",
+            "Destructive Core: The Construct Core of this character is Destructive Core.",
+            "The Destructive Core activates each time this character’s Special Skill is cast",
+            " * With fully charged Destructive Core, deals 180% damage to all enemies.",
+            " * The damage is scaled by the amount of charge in the Core. All charge is exchausted when the Core is activated."
         ]
     },
     {
         "originalIndex": 157,
-        "name": "格伦达 (Glenda)",
+        "name": "格拉迪乌斯 (Gladius)",
         "passives": [
-            "抵抗增益免疫：该角色天生对提供新增益免疫的状态异常有抵抗能力。"
+            "Resist Special Skill Blocking: This character has innate resistance against status ailments that block Special Skills.",
+            "Mana on Enemy Defensive Buffs: This character gains 10% mana when any enemy receives a defenseive buff."
         ]
     },
     {
         "originalIndex": 158,
-        "name": "寒铁 (Grimsteel)",
+        "name": "格伦达 (Glenda)",
         "passives": [
-            "特殊技能效果：当该角色施放其特殊技能时，有 60% 几率执行以下操作。",
-            "* 对所有敌人造成 90% 的伤害。",
-            "* 所有敌人获得 -25% 的精准度，持续 3 回合。"
+            "Resist Buff Immunity: This character has innate resistance against status ailments that give immunity to new buffs."
         ]
     },
     {
         "originalIndex": 159,
-        "name": "河马守护者 (Guardian Hippo)",
-        "passives": []
+        "name": "格鲁兹默 (Gloozmer)",
+        "passives": [
+            "Slime Minion Upon Defeat: When this character is defeated, they summon Slime Mega Minions to nearby allies with 50% HP and 40% attack inherited from this character.",
+            "Slime Minion Split: If this character loses more than 25% of max health at once, they summon a Slime Mega Minion for themselves with 50% HP and 40% attack."
+        ]
     },
     {
         "originalIndex": 160,
-        "name": "赫特费雷斯 (Hetepheres)",
+        "name": "寒铁 (Grimsteel)",
         "passives": [
-            "特殊技能效果：当该角色施放其特殊技能时，有 60% 几率执行以下操作：",
-            "* 为所有队友提升 10% 的生命值。提升的生命值可以超过最大生命值。",
-            "* 净化所有队友身上最新的可净化状态异常。"
+            "Effects on Special Skill: 60% chance to perform the following actions when this character casts their Special Skill.",
+            " * Deals 90% damage to all enemies.",
+            " * All enemies get -25% accuracy for 3 turns."
         ]
     },
     {
         "originalIndex": 161,
-        "name": "赫特费雷斯 (Hetepheres) C1",
-        "passives": [
-            "特殊技能效果：当该角色施放其特殊技能时，有 60% 几率执行以下操作：",
-            "* 为所有队友提升 10% 的生命值。提升的生命值可以超过最大生命值。",
-            "* 净化所有队友身上最新的可净化状态异常。",
-            "特殊技能必定触发效果：当该角色施放其特殊技能时，任何提供额外施法效果的被动技能都将必定触发。",
-            "受到增益时恢复生命：该角色在获得增益或正面效果叠加时恢复 5% 的生命值。"
-        ]
+        "name": "河马守护者 (Guardian Hippo)",
+        "passives": []
     },
     {
         "originalIndex": 162,
-        "name": "希莫洛斯 (Himeros)",
+        "name": "赫特费雷斯 (Hetepheres)",
         "passives": [
-            "抵抗特殊技能格挡：该角色天生对格挡特殊技能的状态异常有抵抗能力。"
+            "Effects on Special Skill: 60% chance to perform the following actions when this character casts their Special Skill",
+            " * Boosts health of all allies by 10%. Boosted health can exceed max HP.",
+            " * Cleanses the latest cleansable status ailment from all allies."
         ]
     },
     {
         "originalIndex": 163,
-        "name": "赫格内 (Hogne)",
+        "name": "赫特费雷斯 (Hetepheres) C1",
         "passives": [
-            "强化抵抗冰冻：该角色天生对冰冻有抵抗能力，并且每次抵抗时获得 450 点生命加成和 5% 的法力。",
-            "极地核心：极地核心在该角色每次施放特殊技能时激活。",
-            "* 所有敌人受到腐蚀冰冻效果，持续 3 回合。当极地核心完全充能时，腐蚀冰冻造成 315 点冰冻伤害，并每回合降低目标 -15% 的攻击力。对拥有小兵或巨大体型小兵的英雄造成额外伤害。",
-            "* 冰冻伤害量根据核心的充能程度计算，核心激活时消耗所有充能。"
+            "Effects on Special Skill: 60% chance to perform the following actions when this character casts their Special Skill",
+            " * Boosts health of all allies by 10%. Boosted health can exceed max HP.",
+            " * Cleanses the latest cleansable status ailment from all allies.",
+            "Guaranteed Effect on Special Skill: When this character casts their Special Skill, any of their Passive Skill that grant extra effects on cast are guaranteed to activate.",
+            "Health Recover on Buff Received: This character recovers 5% HP when they receive a buff or positive stack."
         ]
     },
     {
         "originalIndex": 164,
-        "name": "赫罗斯加 (Hrothgar)",
+        "name": "希莫洛斯 (Himeros)",
         "passives": [
-            "完美精准度：该角色的特殊技能必定命中目标。",
-            "状态异常失效或被清除时恢复生命：每当一个状态异常从该角色身上失效、被净化、移除或重新分配时，该角色会恢复 15% 的生命值。此效果每回合只能激活一次。",
-            "受到伤害时获得攻击力叠加：当该角色受到直接的特殊技能伤害时，获得 30% 的攻击力叠加（最多 10 层）。每回合可叠加一层。"
+            "Resist Special Skill Blocking: This character has innate resistance against status ailments that block Special Skills."
         ]
     },
     {
         "originalIndex": 165,
-        "name": "希丝特莉亚 (Hysteria)",
-        "passives": []
+        "name": "赫格内 (Hogne)",
+        "passives": [
+            "Empowered Resist Frost: This character has innate resistance against Frost and gains 450 boosted health and 5% mana each time they resist.",
+            "Arctic Core: The Arctic Core activates each time this character’s Special Skill is cast",
+            " * All enemies receive Corrosive Frost for 3 turns. With fully charged Arctic Core, the Corrosive Frost deals 315 Frost damage, and lowers the target’s attack by -15% each turn. Deals extra damage against heroes with Minions or a Mega Minion.",
+            " * The Frost damage is scaled by the amount of charge in the Core. All charge is exhausted when the Core is activated."
+        ]
     },
     {
         "originalIndex": 166,
-        "name": "艾莉丝 (Iris)",
+        "name": "赫罗斯加 (Hrothgar)",
         "passives": [
-            "抵抗燃烧：该角色天生对燃烧有抵抗能力。",
-            "增益被驱散时获得法力：每当该角色的一个增益效果被驱散时，其会获得 10% 的法力。此效果每回合只能激活一次。"
+            "Perfect Accuracy: This character’s Special Skill never misses its targets.",
+            "Heal when Status Ailment Expires or Is Cleared: This character’s receives 15% health each time a status ailment expires or is cleansed, removed or reallocated from them. This effect can activate only once per turn.",
+            "Stacking Attack on Damage Received: When this character receives direct Special Skill damage, gain 30% attack Stack (max: 10). One Stack can be gained per turn."
         ]
     },
     {
         "originalIndex": 167,
-        "name": "伊萨莉亚 (Isarnia)",
+        "name": "希丝特莉亚 (Hysteria)",
         "passives": []
     },
     {
         "originalIndex": 168,
-        "name": "伊萨莉亚 (Isarnia) C1",
-        "passives": []
+        "name": "艾莉丝 (Iris)",
+        "passives": [
+            "Resist Burn: This character has innate resistance against Burn.",
+            "Mana on Buff Dispel: This character receives 10% mana each time a buff is dispelled from this character. This effect can activate only once per turn."
+        ]
     },
     {
         "originalIndex": 169,
-        "name": "伊萨莉亚 (Isarnia) C2",
+        "name": "伊萨莉亚 (Isarnia)",
         "passives": []
     },
     {
         "originalIndex": 170,
-        "name": "伊萨莉亚 (Isarnia) 卡通",
-        "passives": [
-            "卡通：额外 75% 几率抵抗所有状态异常、法力削减和增益驱散。"
-        ]
+        "name": "伊萨莉亚 (Isarnia) C1",
+        "passives": []
     },
     {
         "originalIndex": 171,
-        "name": "伊萨莉亚 (Isarnia) 玻璃",
-        "passives": [
-            "玻璃：额外 60% 几率将状态异常反弹给攻击者。"
-        ]
+        "name": "伊萨莉亚 (Isarnia) C2",
+        "passives": []
     },
     {
         "originalIndex": 172,
-        "name": "艾辛 (Ixinn)",
+        "name": "伊萨莉亚 (Isarnia) 卡通",
         "passives": [
-            "进阶无视小兵：该角色造成的所有伤害无视小兵和巨大体型小兵。",
-            "进阶抵抗负面小兵效果：该角色天生对来自小兵和巨大体型小兵的负面效果及伤害有抵抗能力。",
-            "完美精准度：该角色的特殊技能必定命中目标。"
+            "Toon: 75% extra chance to resist all status ailments, mana reductions and buff dispels."
         ]
     },
     {
         "originalIndex": 173,
-        "name": "珠尔特 (Jolt)",
+        "name": "伊萨莉亚 (Isarnia) 玻璃",
         "passives": [
-            "队伍大师：",
-            "作为攻击方角色的被动技能：该英雄的部队对较弱元素造成额外元素伤害。",
-            "- 造成的额外元素伤害： +100%",
-            "作为防守方角色的被动技能：该英雄受到来自较强元素部队的元素伤害减少。",
-            "- 受到的元素伤害： -10%"
+            "Glass: 60% extra chance to reflect status ailments back to the attacker."
         ]
     },
     {
         "originalIndex": 174,
-        "name": "乔利恩 (Jolyon)",
+        "name": "艾辛 (Ixinn)",
         "passives": [
-            "致盲小兵：所有敌方小兵拥有 -60% 精准度。所有敌方超级小兵拥有 -50% 精准度。",
-            "抵抗狂乱：该角色天生对狂乱有抵抗能力。",
-            "抵抗防御削减：该角色天生对影响防御的状态异常、叠加和衰退效果有抵抗能力。"
+            "Superior Bypass Minions: All damage done by this character bypasses Minions and Mega Minions.",
+            "Superior Resist Negative Minion Effects: This character has innate resistance against incoming negative effects and damage from Minions and Mega Minions.",
+            "Perfect Accuracy: This character’s Special Skill never misses its targets."
         ]
     },
     {
         "originalIndex": 175,
-        "name": "卡比洛斯 (Kabeiroi)",
+        "name": "珠尔特 (Jolt)",
         "passives": [
-            "抵抗特殊技能格挡：该角色天生对格挡特殊技能的状态异常有抵抗能力。"
+            "Troop Mastery:",
+            "Passive Skill as attacking character: This hero’s Troops deal extra  elemental damage against weaker element.",
+            " - Dealt extra elemental damage: +100%",
+            "Passive Skill as defending character: This hero receives less elemental  damage from Troops of stronger element.",
+            " - Received elemental damage: -10%"
         ]
     },
     {
         "originalIndex": 176,
-        "name": "凯特尔 (Kettle)",
+        "name": "乔利恩 (Jolyon)",
         "passives": [
-            "特殊技能效果：当该角色施放其特殊技能时，有 60% 几率执行以下操作。",
-            "* 对所有敌人造成 90% 的伤害。",
-            "* 所有敌人获得 -25% 的精准度，持续 3 回合。"
+            "Minion Blind: All enemies’ Minions have -60% accuracy. All enemies’ Mega Minions have -50% accuracy.",
+            "Resist Insanity: This character has innate resistance against Insanity.",
+            "Resist Defense Ailments: This character has innate resistance against status ailments, stacks and Wither effects that affect defense. "
         ]
     },
     {
         "originalIndex": 177,
-        "name": "亚瑟王 (King Arthur)",
-        "passives": []
+        "name": "卡比洛斯 (Kabeiroi)",
+        "passives": [
+            "Resist Special Skill Blocking: This character has innate resistance against status ailments that block Special Skills."
+        ]
     },
     {
         "originalIndex": 178,
-        "name": "克拉恩 (Klaern)",
+        "name": "凯特尔 (Kettle)",
         "passives": [
-            "抵抗特殊技能格挡：该角色天生对格挡特殊技能的状态异常有抵抗能力。",
-            "抵抗法力削减：该角色天生对法力削减有抵抗能力。"
+            "Effects on Special Skill: 60% chance to perform the following actions when this character casts their Special Skill.",
+            " * Deals 90% damage to all enemies.",
+            " * All enemies get -25% accuracy for 3 turns."
         ]
     },
     {
         "originalIndex": 179,
-        "name": "克朗普斯 (Krampus)",
+        "name": "亚瑟王 (King Arthur)",
         "passives": []
     },
     {
         "originalIndex": 180,
+        "name": "克拉恩 (Klaern)",
+        "passives": [
+            "Resist Special Skill Blocking: This character has innate resistance against status ailments that block Special Skills.",
+            "Resist Mana Reduction: This character has innate resistance against mana reduction."
+        ]
+    },
+    {
+        "originalIndex": 181,
+        "name": "克朗普斯 (Krampus)",
+        "passives": []
+    },
+    {
+        "originalIndex": 182,
         "name": "克朗普斯 (Krampus) C1",
         "passives": []
     },
     {
-        "originalIndex": 181,
+        "originalIndex": 183,
         "name": "伦纳特 (Lennart)",
         "passives": [
-            "九条命：",
-            "* 被击败时，该角色有 80% 的几率在下一回合开始时以 50% 的生命值和 80% 的法力复活。",
-            "* 最多可触发 9 次。复活几率会在每次触发后衰减。无法通过状态异常或被动技能阻止该效果。",
-            "特质：轻盈体态。",
-            "该角色不受增加或减少防御的效果影响。",
-            "这包括：",
-            "* - 状态效果增益和异常。",
-            "* - 正面和负面叠加。",
-            "* - 成长和衰退效果。"
+            "Nine Lives:",
+            " * When defeated this character has 80% chance to revive at the begining of their next turn with 50% health and 80% mana.",
+            " * Activates up to 9 times. Chance to revive is reduced on each activation. Can’t be prevented with status ailments or Passive Skills.",
+            "Trait: Lithe Frame",
+            "This character is not affect by effects that increase or reduce defense.",
+            "This includes:",
+            " * - Status effect buffs and ailments.",
+            " * - Positive and negative stacks.",
+            " * - Growth and Wither effects."
         ]
     },
     {
-        "originalIndex": 182,
+        "originalIndex": 184,
         "name": "洛基领主 (Lord Loki)",
         "passives": []
     },
     {
-        "originalIndex": 183,
+        "originalIndex": 185,
         "name": "洛基领主 (Lord Loki) C1",
         "passives": []
     },
     {
-        "originalIndex": 184,
+        "originalIndex": 186,
         "name": "莱莎诺 (Lysanor)",
         "passives": [
-            "受到增益时获得法力：在获得增益或正面效果叠加时获得 5% 的法力。",
-            "受到增益时恢复生命：该角色在获得增益或正面效果叠加时恢复 5% 的生命值。"
+            "Mana on Buff Received: Gain 5% mana when receiving a buff or a positive stack.",
+            "Health Recovery on Buff Received: This character recovers 5% health when they receive a buff or a positive stack."
         ]
     },
     {
-        "originalIndex": 185,
+        "originalIndex": 187,
         "name": "玛吉斯汀 (Magistine)",
         "passives": [
-            "被击败时召唤史莱姆小兵：当该角色被击败时，为附近的盟友召唤继承其 50% 生命值和 40% 攻击力的史莱姆巨大体型小兵。",
-            "史莱姆小兵分裂：如果该角色一次性失去超过 25% 的最大生命值，会为自己召唤一个继承其 50% 生命值和 40% 攻击力的史莱姆巨大体型小兵。"
+            "Slime Minion Upon Defeat: When this character is defeated, they summon Slime Mega Minions to nearby allies with 50% HP and 40% attack inherited from this character.",
+            "Slime Minion Split: If this character loses more than 25% of max health at once, they summon a Slime Mega Minion for themselves with 50% HP and 40% attack."
         ]
     },
     {
-        "originalIndex": 186,
+        "originalIndex": 188,
         "name": "马格尼 (Magni)",
         "passives": []
     },
     {
-        "originalIndex": 187,
+        "originalIndex": 189,
         "name": "马格尼 (Magni) C1",
         "passives": []
     },
     {
-        "originalIndex": 188,
+        "originalIndex": 190,
         "name": "马格尼 (Magni) C2",
         "passives": []
     },
     {
-        "originalIndex": 189,
+        "originalIndex": 191,
         "name": "马格尼 (Magni) 卡通",
         "passives": [
-            "卡通：额外 75% 几率抵抗所有状态异常、法力削减和增益驱散。"
-        ]
-    },
-    {
-        "originalIndex": 190,
-        "name": "马格尼 (Magni) 玻璃",
-        "passives": [
-            "玻璃：额外 60% 几率将状态异常反弹给攻击者。"
-        ]
-    },
-    {
-        "originalIndex": 191,
-        "name": "马莉奥尔 (Mariol)",
-        "passives": [
-            "降低通过特殊技能获得的法力：通过特殊技能增加的法力值降低 -80%。此效果对战场上的所有敌人生效。"
+            "Toon: 75% extra chance to resist all status ailments, mana reductions and buff dispels."
         ]
     },
     {
         "originalIndex": 192,
+        "name": "马格尼 (Magni) 玻璃",
+        "passives": [
+            "Glass: 60% extra chance to reflect status ailments back to the attacker."
+        ]
+    },
+    {
+        "originalIndex": 193,
+        "name": "马莉奥尔 (Mariol)",
+        "passives": [
+            "Reduce Mana Gain from Special Skills: Reduces the amount of mana increased by Special Skill by -80%. The effect applies to all enemies in the battle."
+        ]
+    },
+    {
+        "originalIndex": 194,
         "name": "天兔大师 (Master Lepus)",
         "passives": []
     },
     {
-        "originalIndex": 193,
+        "originalIndex": 195,
         "name": "天兔大师 (Master Lepus) C1",
         "passives": []
     },
     {
-        "originalIndex": 194,
+        "originalIndex": 196,
         "name": "马特雷拉 (Matrera)",
         "passives": [
-            "石像鬼之肤：每当此石像鬼施放特殊技能时，其石肤会变硬。接下来受到的 4 次伤害将降至 1 点。此效果无法被驱散。"
-        ]
-    },
-    {
-        "originalIndex": 195,
-        "name": "梅内 (Mene)",
-        "passives": [
-            "抵抗燃烧：该角色天生对燃烧有抵抗能力。",
-            "冰冻时获得法力：每当敌人受到冰冻伤害时，该角色获得 5% 的法力。"
-        ]
-    },
-    {
-        "originalIndex": 196,
-        "name": "米琪 (Miki)",
-        "passives": [
-            "抵抗特殊技能格挡：该角色天生对格挡特殊技能的状态异常有抵抗能力。"
+            "Gargoyle’s Stoneskin: Every time this Gargoyle casts a Special Skill, their Stoneskin hardens. The next 4 times they receive damage, it is dropped to 1. This effect can’t be dispelled."
         ]
     },
     {
         "originalIndex": 197,
-        "name": "米莱狄·德·温特 (Milady de Winter)",
+        "name": "梅内 (Mene)",
         "passives": [
-            "特殊技能和掩护伤害时造成伤害：当该角色受到特殊技能伤害或替处于掩护状态的角色承受伤害时，有 60% 的几率对所有敌人造成所受伤害 20% 的伤害。"
+            "Resist Burn: This character has innate resistance against Burn.",
+            "Mana on Frost: This character gains 5% mana each time an enemy receives Frost damage."
         ]
     },
     {
         "originalIndex": 198,
-        "name": "米莱娜 (Milena)",
+        "name": "米琪 (Miki)",
         "passives": [
-            "特殊技能获得法力：当该角色施放其特殊技能时，有 50% 的几率为所有队友提供 10% 的法力。如果特殊技能完全充能，则几率为 100%。"
+            "Resist Special Skill Blocking: This character has an innate resistance against status aliments that Block Special Skills."
         ]
     },
     {
         "originalIndex": 199,
-        "name": "米莱娜 (Milena) C1",
+        "name": "米莱狄·德·温特 (Milady de Winter)",
         "passives": [
-            "特殊技能获得法力：当该角色施放其特殊技能时，有 60% 的几率为所有队友提供 10% 的法力。如果特殊技能完全充能，则几率为 100%。",
-            "削弱巨大体型小兵：敌方巨大体型小兵的生命值降低 -75%。"
+            "Damage on Special Skill and Cover Damage: When this character receives damage from Special Skills or in place of a character in Cover, there’s a 60% chance to deal 20% of the received damage on all enemies."
         ]
     },
     {
         "originalIndex": 200,
-        "name": "米丽安与午夜 (Miriam & Midnight)",
+        "name": "米莱娜 (Milena)",
         "passives": [
-            "窃取增益：当该角色施放其特殊技能时，有 50% 的几率从一个带有增益的随机敌人身上窃取最新的可驱散增益。如果没有敌人带有增益，则对所有敌人造成 70% 的伤害。"
+            "Mana on Special: When this character casts their Special Skill, they have a 50% chance to give 10% mana to all allies. If the Special Skill is fully charged, the chance is 100%."
         ]
     },
     {
         "originalIndex": 201,
+        "name": "米莱娜 (Milena) C1",
+        "passives": [
+            "Mana on Special: When this character casts their Special Skill, they have a 60% chance to give 10% mana to all allies. If the Special Skill is fully charged, the chance is 100%.",
+            "Weaker Mega Minions: Enemy Mega Minions have -75% HP."
+        ]
+    },
+    {
+        "originalIndex": 202,
+        "name": "米丽安与午夜 (Miriam & Midnight)",
+        "passives": [
+            "Steal Buff: When this character casts their Special Skill, they have a 50% chance to steal the newest dispellable buff from a random enemy that has buffs. If no enemy has buffs, deals 70% damage to all enemies."
+        ]
+    },
+    {
+        "originalIndex": 203,
         "name": "米桑德拉 (Misandra)",
         "passives": []
     },
     {
-        "originalIndex": 202,
+        "originalIndex": 204,
         "name": "米桑德拉 (Misandra) C1",
         "passives": []
     },
     {
-        "originalIndex": 203,
+        "originalIndex": 205,
         "name": "艾瑟尔小姐 (Miss Ethel)",
         "passives": []
     },
     {
-        "originalIndex": 204,
+        "originalIndex": 206,
         "name": "米斯特拉 (Mistra)",
         "passives": [
-            "受到状态异常时获得法力增益：持有此技能的角色在受到任何状态异常或负面效果叠加时，获得 +24% 的法力生成，持续 3 回合。",
-            "敌方施放特殊技能时造成伤害：如果一个法力速度为中等或更快的敌人施放特殊技能，所有敌人将受到 100 点伤害。此效果每回合只能激活一次。",
-            "抵抗攻击异常：该角色天生对影响攻击力的状态异常有抵抗能力。"
-        ]
-    },
-    {
-        "originalIndex": 205,
-        "name": "蜜丝缇 (Misty)",
-        "passives": [
-            "抵抗水系伤害：该角色天生对水系伤害有抵抗能力。",
-            "特殊技能附带持续伤害：当该角色施放其特殊技能时，所有敌人会在 2 回合内受到 210 点水系伤害。"
-        ]
-    },
-    {
-        "originalIndex": 206,
-        "name": "莫德瑞丝 (Modthryth)",
-        "passives": [
-            "受到增益时获得法力：该角色在获得增益或正面效果叠加时获得 5% 的法力。",
-            "强化抵抗法力削减：该角色天生对法力削减有抵抗能力。每次抵抗时还会获得 600 点生命加成和 10% 的法力。",
-            "抵抗增益免疫：该角色天生对提供新增益免疫的异常状态有抵抗能力。"
+            "Mana Buff on Status Ailment Received: The character with this skill receives +24% mana generation for 3 turns when they receive any status ailment or a negative stack.",
+            "Damage on Enemy Special: If a target is Average mana speed or faster casts a Special Skill, all enemies receive 100 damage. This effect can activate only once per turn.",
+            "Resist Attack Ailments: This character has innate resistance against status ailments that affect attack."
         ]
     },
     {
         "originalIndex": 207,
-        "name": "月医 (Mooncure)",
+        "name": "蜜丝缇 (Misty)",
         "passives": [
-            "抵抗剧毒：该角色天生对剧毒有抵抗能力。",
-            "分摊所受伤害：该角色所受伤害的 20% 将由其他盟友分摊。"
+            "Resist Water Damage: This character has innate resistance against Water Damage.",
+            "Damage over time on Special: When this character casts their Special Skill, all enemies receive 210 Water damage over 2 turns."
         ]
     },
     {
         "originalIndex": 208,
-        "name": "莫雷尔 (Morel)",
+        "name": "莫德瑞丝 (Modthryth)",
         "passives": [
-            "提升特殊技能伤害：该角色首次施放造成伤害的特殊技能时，其威力额外增加 30%。"
+            "Mana on Buff Received: This character gains 5% mana when they receive a buff or positive stack.",
+            "Empowered Resist Mana Reductions: This character has innate resistance against mana reduction. They also gain 600 boosted health and 10% mana each time they resist.",
+            "Resist Buff Immunity: This character has innate resistance against ailments that give immunity to new buffs."
         ]
     },
     {
         "originalIndex": 209,
-        "name": "莫雷尔 (Morel) C1",
+        "name": "月医 (Mooncure)",
         "passives": [
-            "提升特殊技能伤害：该角色首次施放造成伤害的特殊技能时，其威力额外增加 30%。",
-            "对生命加成目标造成更高伤害：在该角色施放特殊技能后，所有盟友对具有生命加成的目标造成的普通攻击和特殊技能伤害提高 +70%，持续 4 回合。"
+            "Resist Poison: This character has innate resistance against Poison.",
+            "Share Received Damage: 20% of damage received by this charater is shared with other allies."
         ]
     },
     {
         "originalIndex": 210,
+        "name": "莫雷尔 (Morel)",
+        "passives": [
+            "Increased Special Skill Damage: The first time this character casts a Special Skill that does damage, an additional 30% is added to its power."
+        ]
+    },
+    {
+        "originalIndex": 211,
+        "name": "莫雷尔 (Morel) C1",
+        "passives": [
+            "Increased Special Skill Damage: This first time this character cast a Special Skill that deals damage an additional 30% is added to its power.",
+            "Increased Damage Against Boosted Health: After Special Skill cast, all allies' normal attacks and Special Skills deal +70% damage against targets with boosted health for 4 turns."
+        ]
+    },
+    {
+        "originalIndex": 212,
         "name": "潘吉先生 (Mr. Pengi)",
         "passives": []
     },
     {
-        "originalIndex": 211,
+        "originalIndex": 213,
         "name": "潘吉先生 (Mr. Pengi) C1",
         "passives": []
     },
     {
-        "originalIndex": 212,
+        "originalIndex": 214,
         "name": "诺第卡 (Nautica)",
         "passives": [
-            "抵抗特殊技能格挡：该角色天生对格挡特殊技能的状态异常有抵抗能力。",
-            "修复核心：该角色的构造核心是修复核心。修复核心在该角色每次施放特殊技能时激活：",
-            "* 当修复核心完全充能时，为所有队友提升 25% 的生命值。",
-            "* 治疗量根据核心的充能程度计算，核心激活时消耗所有充能。"
-        ]
-    },
-    {
-        "originalIndex": 213,
-        "name": "九头兽 (Nine-Headed Beast)",
-        "passives": [
-            "受到增益时恢复生命：该角色在获得增益或正面效果叠加时，有 50% 的几率恢复 10% 的生命值。",
-            "受到增益时获得法力：该角色在获得增益或正面效果叠加时，有 50% 的几率恢复 10% 的法力。"
-        ]
-    },
-    {
-        "originalIndex": 214,
-        "name": "尼洛拉 (Nylora)",
-        "passives": [
-            "队伍大师：",
-            "作为攻击方角色的被动技能：该英雄的部队对较弱元素造成额外元素伤害。",
-            "- 造成的额外元素伤害： +100%",
-            "作为防守方角色的被动技能：该英雄受到来自较强元素部队的元素伤害减少。",
-            "- 受到的元素伤害： -10%"
+            "Resist Special Skill Blocking: This character has innate resistance against status ailments that block Special Skill.",
+            "Repair Core: The Construct Core of this character is Repair Core. The Repair Core activates each time this character’s Special Skill is cast:",
+            " * With fully charged Repair Core, boosts the health of all allies by 25%.",
+            " * The healing is scaled by the amount of charge in the Core. All charge is exchausted when the Core is activated."
         ]
     },
     {
         "originalIndex": 215,
-        "name": "奥黛特 (Odette)",
+        "name": "九头兽 (Nine-Headed Beast)",
         "passives": [
-            "状态异常失效或被清除时恢复生命：每当一个状态异常从该角色身上失效、被净化、移除或重新分配时，该角色会恢复 10% 的生命值。此效果每回合只能激活一次。",
-            "抵抗防御异常：该角色天生对影响防御的状态异常有抵抗能力。不适用于影响元素防御的状态异常。"
+            "Health Recovery on Buff Received: This characters has a 50% chance to  recover 10% health when they receive a buff or a positive stack.",
+            "Mana on Buff Received: This characters has a 50% chance to recover 10% mana when they receive a buff or a positive stack."
         ]
     },
     {
         "originalIndex": 216,
-        "name": "鬼若丸 (Oniwakamaru)",
-        "passives": []
+        "name": "尼洛拉 (Nylora)",
+        "passives": [
+            "Troop Mastery:",
+            "Passive Skill as attacking character: This hero’s Troops deal extra  elemental damage against weaker element.",
+            " - Dealt extra elemental damage: +100%",
+            "Passive Skill as defending character: This hero receives less elemental  damage from Troops of stronger element.",
+            " - Received elemental damage: -10%"
+        ]
     },
     {
         "originalIndex": 217,
-        "name": "奥科 (Orcur)",
+        "name": "奥黛特 (Odette)",
         "passives": [
-            "特殊技能摧毁恶魔：当该角色施放其特殊技能时，其身上的所有恶魔都会被摧毁。",
-            "进阶抵抗负面小兵效果：该角色天生对来自小兵和巨大体型小兵的负面效果及伤害有抵抗能力。",
-            "抵抗治疗异常：该角色天生对影响治疗的状态异常有抵抗能力。"
+            "Heal when status ailment expires or is cleared: This character receives 10% health each time a status ailment expires or is cleansed, removed or reallocated from them. This effect can activate only once per turn.",
+            "Resist Defense Ailments: This character has innate resistance against status ailments that affect defense. Doesn’t apply to status ailments that affect elemental defense."
         ]
     },
     {
         "originalIndex": 218,
-        "name": "奥德索 (Otso)",
-        "passives": [
-            "西苏之力：当该角色在战斗中首次以低生命值开始回合时，他们会恢复 15% 的生命值并获得 15% 的法力。"
-        ]
+        "name": "鬼若丸 (Oniwakamaru)",
+        "passives": []
     },
     {
         "originalIndex": 219,
-        "name": "帕瑟帕特奥 (Passepartout)",
+        "name": "奥科 (Orcur)",
         "passives": [
-            "延长增益持续时间：该英雄从特殊技能中获得的前 3 个增益效果的持续时间增加 1 回合。"
+            "Destroy Fiends on Special: When this character casts their Special Skill, all Fiends are destroyed from them.",
+            "Superior Resist Negative Minion Effects: This character has innate resistance against incoming negative effects and damage from Minions and Mega Minions.",
+            "Resist Healing Ailments: This character has innate resistance against status ailments that affect healing."
         ]
     },
     {
         "originalIndex": 220,
-        "name": "帕瑟帕特奥 (Passepartout) C1",
+        "name": "奥德索 (Otso)",
         "passives": [
-            "延长增益持续时间：该英雄从特殊技能中获得的前 3 个增益效果的持续时间增加 1 回合。",
-            "特殊技能提升生命值：施放特殊技能时，为所有队友提升 10% 的生命值。"
+            "Power of Sisu: When this character starts a turn with low health for the first time during a battle, they recover 15% health and receive 15% mana."
         ]
     },
     {
         "originalIndex": 221,
-        "name": "佩普布勒 (Pepperbleu)",
+        "name": "帕瑟帕特奥 (Passepartout)",
         "passives": [
-            "闪避特殊技能伤害：该角色有 15% 的几率闪避造成伤害的特殊技能。"
+            "Increase Buff Duration: Duration of the first 3 buff this hero receives from Special Skills is increased by 1 turn."
         ]
     },
     {
         "originalIndex": 222,
-        "name": "柏休斯 (Perseus)",
-        "passives": []
+        "name": "帕瑟帕特奥 (Passepartout) C1",
+        "passives": [
+            "Increase Buff Duration: Duration of the first 3 buff this hero receives from Special Skills is increased by 1 turn.",
+            "Health Boost on Special Skill: On Special Skill cast, boosts all allies’ HP by 10%."
+        ]
     },
     {
         "originalIndex": 223,
-        "name": "柏休斯 (Perseus) C1",
+        "name": "佩普布勒 (Pepperbleu)",
         "passives": [
-            "特殊技能驱散：当该角色施放其特殊技能时，会驱散所有敌人身上最新的状态效果增益。"
+            "Dodge Special Damage: This character has a 15% chance to dodge Special Skills that deal damage."
         ]
     },
     {
         "originalIndex": 224,
-        "name": "金曲 (Pophit)",
-        "passives": [
-            "石像鬼的软化皮肤：每当此石像鬼施放特殊技能时，其软化皮肤会激活。接下来受到的 3 次伤害降低 -90%，并抵抗所有状态异常和法力削减。此效果无法被驱散。"
-        ]
+        "name": "柏休斯 (Perseus)",
+        "passives": []
     },
     {
         "originalIndex": 225,
-        "name": "波尔多斯 (Porthos)",
+        "name": "柏休斯 (Perseus) C1",
         "passives": [
-            "特殊技能和掩护伤害时造成伤害：当该角色受到特殊技能伤害或替处于掩护状态的角色承受伤害时，有 60% 的几率对所有敌人造成所受伤害 20% 的伤害。"
+            "Dispel on Special Skill: When this character casts their Special Skill, they dispel the newest status effect buff from all enemies."
         ]
     },
     {
         "originalIndex": 226,
-        "name": "夸里 (Quari)",
+        "name": "金曲 (Pophit)",
         "passives": [
-            "进阶无视小兵：该角色造成的所有伤害无视小兵和巨大体型小兵。",
-            "进阶抵抗负面小兵效果：该角色天生对来自小兵和巨大体型小兵的负面效果及伤害有抵抗能力。",
-            "完美精准度：该角色的特殊技能必定命中目标。"
+            "Gargoyle’s Softskin: Every time this Gargoyle casts a Special SKill, their Softskin activates. The next 3 times they receive damage, it is reduced by -90%, and they resist all status ailments and mana reduction. This effect can’t be dispelled."
         ]
     },
     {
         "originalIndex": 227,
-        "name": "奎恩 (Quinn)",
+        "name": "波尔多斯 (Porthos)",
         "passives": [
-            "队伍大师：",
-            "作为攻击方角色的被动技能：该英雄的部队对较弱元素造成额外元素伤害。",
-            "- 造成的额外元素伤害： +100%",
-            "作为防守方角色的被动技能：该英雄受到来自较强元素部队的元素伤害减少。",
-            "- 受到的元素伤害： -10%"
+            "Damage on Special Skill and Cover Damage: When this character receives damage from Special Skills or in place of a character in Cover, there’s a 60% chance to deal 20% of the received damage on all enemies."
         ]
     },
     {
         "originalIndex": 228,
-        "name": "昆汀 (Quintin)",
-        "passives": []
+        "name": "夸里 (Quari)",
+        "passives": [
+            "Superior Bypass Minions: All damage done by this character bypasses Minions and Mega Minions.",
+            "Superior Resist Negative Minion Effects: This character has innate resistance against incoming negative effects and damage from Minions and Mega Minions.",
+            "Perfect Accuracy: This character’s Special Skill never misses its targets."
+        ]
     },
     {
         "originalIndex": 229,
-        "name": "拉菲尔 (Raffaele)",
+        "name": "奎恩 (Quinn)",
         "passives": [
-            "抵抗攻击异常：该角色天生对影响攻击力的状态异常有抵抗能力。"
+            "Troop Mastery:",
+            "Passive Skill as attacking character: This hero’s Troops deal extra  elemental damage against weaker element.",
+            " - Dealt extra elemental damage: +100%",
+            "Passive Skill as defending character: This hero receives less elemental  damage from Troops of stronger element.",
+            " - Received elemental damage: -10%"
         ]
     },
     {
         "originalIndex": 230,
-        "name": "里安 (Rian)",
-        "passives": [
-            "抵抗状态效果伤害：该角色天生对来自状态效果的伤害有抵抗能力。"
-        ]
+        "name": "昆汀 (Quintin)",
+        "passives": []
     },
     {
         "originalIndex": 231,
+        "name": "拉菲尔 (Raffaele)",
+        "passives": [
+            "Resist Attack Ailments: This character has innate resistance against status ailments that affect Attack."
+        ]
+    },
+    {
+        "originalIndex": 232,
+        "name": "里安 (Rian)",
+        "passives": [
+            "Resist Damage from Status Effects: This charater has innate resistance against incoming damage from status effects."
+        ]
+    },
+    {
+        "originalIndex": 233,
         "name": "理查德 (Richard)",
         "passives": []
     },
     {
-        "originalIndex": 232,
+        "originalIndex": 234,
         "name": "理查德 (Richard) C1",
         "passives": []
     },
     {
-        "originalIndex": 233,
+        "originalIndex": 235,
         "name": "理查德 (Richard) C2",
         "passives": []
     },
     {
-        "originalIndex": 234,
+        "originalIndex": 236,
         "name": "理查德 (Richard) 卡通",
         "passives": [
-            "卡通：额外 75% 几率抵抗所有状态异常、法力削减和增益驱散。"
+            "Toon: 75% extra chance to resist all status ailments, mana reductions and buff dispels."
         ]
     },
     {
-        "originalIndex": 235,
+        "originalIndex": 237,
         "name": "理查德 (Richard) 玻璃",
         "passives": [
-            "玻璃：额外 60% 几率将状态异常反弹给攻击者。"
+            "Glass: 60% extra chance to reflect status ailments back to the attacker."
         ]
     },
     {
-        "originalIndex": 236,
+        "originalIndex": 238,
         "name": "龙佩尔斯迪尔钦 (Rumpelstiltskin)",
         "passives": []
     },
     {
-        "originalIndex": 237,
+        "originalIndex": 239,
         "name": "龙佩尔斯迪尔钦 (Rumpelstiltskin) C1",
         "passives": []
     },
     {
-        "originalIndex": 238,
+        "originalIndex": 240,
         "name": "鲁苏拉 (Russula)",
         "passives": [
-            "减少异常持续时间：该角色从特殊技能中收到的前 3 个状态异常的持续时间减少 1 回合。"
-        ]
-    },
-    {
-        "originalIndex": 239,
-        "name": "鲁苏拉 (Russula) C1",
-        "passives": [
-            "减少异常持续时间：该角色从特殊技能中收到的前 3 个状态异常的持续时间减少 1 回合。",
-            "对生命加成目标造成更高伤害：在该角色施放特殊技能后，所有盟友对具有生命加成的目标造成的普通攻击和特殊技能伤害提高 +70%，持续 3 回合。"
-        ]
-    },
-    {
-        "originalIndex": 240,
-        "name": "紫貂 (Sable)",
-        "passives": [
-            "降低治疗量：所有敌人获得的治疗量降低 -50%。"
+            "Decrease Ailment Duration: Duration of the first 3 status ailments this character receives from Special Skill is decreased by 1 turn."
         ]
     },
     {
         "originalIndex": 241,
-        "name": "萨尔瓦多 (Salvatore)",
-        "passives": []
+        "name": "鲁苏拉 (Russula) C1",
+        "passives": [
+            "Decrease Ailment Duration: Duration of the first 3 status ailments this character receives from Special Skill is decreased by 1 turn.",
+            "Increased Damage Against Boosted Health: After this character casts their Special Skill cast, all allies’ normal attacks and Special Skills deal +70% damage against targets with boosted health for 3 turns."
+        ]
     },
     {
         "originalIndex": 242,
-        "name": "开悟 (Satori)",
+        "name": "紫貂 (Sable)",
         "passives": [
-            "受到状态异常时获得法力增益：持有此技能的角色在受到任何状态异常或负面效果叠加时，获得 +24% 的法力生成，持续 3 回合。",
-            "增益被驱散时获得生命加成：每当该角色的一个增益效果被驱散时，其会获得 450 点生命加成。此效果每回合只能激活一次。",
-            "增益被驱散时获得法力：每当该角色的一个增益效果被驱散时，其会获得 10% 的法力。此效果每回合只能激活一次。"
+            "Decreased Healing: All enemies get -50% healing."
         ]
     },
     {
         "originalIndex": 243,
-        "name": "泽野 (Sawano)",
-        "passives": [
-            "降低小兵生命值：敌方小兵被召唤时继承的生命值减少 -50%。"
-        ]
+        "name": "萨尔瓦多 (Salvatore)",
+        "passives": []
     },
     {
         "originalIndex": 244,
-        "name": "西格恩 (Sigyn)",
+        "name": "开悟 (Satori)",
         "passives": [
-            "特殊技能伤害减免：该角色有 10% 的几率将受到的特殊技能直接伤害降至 1 点。",
-            "特殊技能附带持续伤害：当该角色施放其特殊技能时，会给一个随机敌人施加猎人印记。目标在 3 回合内受到 150 点伤害。如果目标已有此效果，则持续时间刷新，伤害增加 150 点，总伤害最高可达 1500 点。"
+            "Mana Buff on Status Ailment Received: The character with this skill receives +24% mana generation for 3 turns when they receive any status ailment or a negative stack.",
+            "Health Boost on Buff Dispel: This character receives 450 boosted health each time a buff is dispelled from this character. This effect can activate only once per turn.",
+            "Mana on Buff Dispel: This character receives 10% mana each time a buff is dispelled from them. This effect can activate only once per turn."
         ]
     },
     {
         "originalIndex": 245,
-        "name": "西尼 (Sini)",
+        "name": "泽野 (Sawano)",
         "passives": [
-            "抵抗特殊技能格挡：该角色天生对格挡特殊技能的状态异常有抵抗能力。",
-            "法力削减时获得状态效果：当该角色的法力被削减时，其获得 +30% 的攻击力，持续 3 回合。"
+            "Decreased Minion Health: Enemy Minions inherit -50% less Health when summoned."
         ]
     },
     {
         "originalIndex": 246,
-        "name": "希奥弗拉 (Siofra)",
+        "name": "西格恩 (Sigyn)",
         "passives": [
-            "受到增益时恢复生命：该角色在获得增益或正面效果叠加时恢复 5% 的生命值。"
+            "Special Skill damage reduction: This character has a 10% chance to drop the direct damage received from Special Skills to 1.",
+            "Damage over Time on Special: When this character casts their Special Skill, they give a Hunter’s Mark on a random enemy. The target receives 150 damage over 3 turns. If a target already has this effect, the duration will be refreshed and the damage will be increased by 150, up to 1500 damage in total."
         ]
     },
     {
         "originalIndex": 247,
+        "name": "西尼 (Sini)",
+        "passives": [
+            "Resist Special Skill Blocking: This character has innate resistance against status ailments that block Special Skills.",
+            "Status Effect on Mana Reduction: This character get +30% attack for 3 turns when their mana is reduced."
+        ]
+    },
+    {
+        "originalIndex": 248,
+        "name": "希奥弗拉 (Siofra)",
+        "passives": [
+            "Health Recovery on Buff Received: This character recovers 5% health when they receive a buff or a positive stack."
+        ]
+    },
+    {
+        "originalIndex": 249,
         "name": "斯嘉蒂 (Skadi)",
         "passives": []
     },
     {
-        "originalIndex": 248,
+        "originalIndex": 250,
         "name": "斯嘉蒂 (Skadi) C1",
         "passives": []
     },
     {
-        "originalIndex": 249,
+        "originalIndex": 251,
         "name": "斯卡恩 (Skarn)",
         "passives": [
-            "抵抗特殊技能格挡：该角色天生对格挡特殊技能的状态异常有抵抗能力。",
-            "腐蚀核心：该角色的构造核心是腐蚀核心。腐蚀核心在该角色每次施放特殊技能时激活：",
-            "* 所有敌人受到腐蚀剧毒效果，持续 3 回合。当腐蚀核心完全充能时，腐蚀剧毒造成 153 点剧毒伤害，并每回合降低目标 -13% 的法力生成。对拥有小兵或巨大体型小兵的英雄造成额外伤害。",
-            "* 剧毒伤害量根据核心的充能程度计算，核心激活时消耗所有充能。"
+            "Resist Special Skill Blocking: This character has innate resistance against status ailments that block Special Skill.",
+            "Corrosive Core: The Construct Core of this character is Corrosive Core. The Corrosive Core activates each time this character’s Special Skill is cast:",
+            " * All enemies receive Corrosive Poison for 3 turns. With a fully charged Corrosive Core, the Corrosive Poison deals 153 Poison damage and lowers the target’s mana generation by -13% each turn. Deals extra damage against heroes with Minions or a Mega Minion.",
+            " * The poison damage is scaled by the amount of charge in the Core. All charge is exhausted when the Core is activated."
         ]
     },
     {
-        "originalIndex": 250,
+        "originalIndex": 252,
         "name": "史莱姆戈 (Slimgo)",
         "passives": [
-            "被击败时召唤史莱姆小兵：当该角色被击败时，为附近的盟友召唤继承其 50% 生命值和 40% 攻击力的史莱姆巨大体型小兵。",
-            "史莱姆小兵分裂：如果该角色一次性失去超过 25% 的最大生命值，会为自己召唤一个继承其 50% 生命值和 40% 攻击力的史莱姆巨大体型小兵。"
+            "Slime Minion Upon Defeat: When this character is defeated, they summon Slime Mega Minions to nearby allies with 50% HP and 40% attack inherited from this character.",
+            "Slime Minion Split: If this character loses more than 25% of max health at once, they summon a Slime Mega Minion for themselves with 50% HP and 40% attack."
         ]
     },
     {
-        "originalIndex": 251,
+        "originalIndex": 253,
         "name": "白雪公主 (Snow White)",
         "passives": []
     },
     {
-        "originalIndex": 252,
+        "originalIndex": 254,
         "name": "白雪公主 (Snow White) C1",
         "passives": []
     },
     {
-        "originalIndex": 253,
+        "originalIndex": 255,
         "name": "索贝克 (Sobek)",
         "passives": [
-            "特殊技能效果：当该角色施放其特殊技能时，有 60% 几率执行以下操作：",
-            "* 对所有敌人造成 70% 的伤害。",
-            "* 所有敌人受到 255 点沙系伤害，持续 3 回合。"
-        ]
-    },
-    {
-        "originalIndex": 254,
-        "name": "索贝克 (Sobek) C1",
-        "passives": [
-            "特殊技能效果：当该角色施放其特殊技能时，有 60% 几率执行以下操作：",
-            "* 对所有敌人造成 70% 的伤害。",
-            "* 所有敌人受到 363 点沙系伤害，持续 3 回合。",
-            "特殊技能额外效果几率：当该角色施放其特殊技能时，其任何提供额外施法效果的被动技能都有 3 次激活机会。",
-            "提升特殊技能伤害：该角色首次施放造成伤害的特殊技能时，其威力额外增加 50%。"
-        ]
-    },
-    {
-        "originalIndex": 255,
-        "name": "宋江 (Song Jiang)",
-        "passives": [
-            "特殊攻击暴击时净化：当该角色用特殊技能造成暴击时，会安全地净化所有盟友最新的可净化状态效果。此效果每回合可激活一次。",
-            "正义反叛：",
-            "* 当该角色的特殊技能击中当前生命值较高的角色时，获得 +20% 的生命加成。",
-            "* 当该角色被当前生命值较高的角色的特殊技能击中时，获得 +20% 的法力。",
-            "* 这些效果每个每回合只能激活一次。",
-            "抵抗流血伤害：该角色天生对流血有抵抗能力。"
+            "Effects on Special Skill: 60% chance to perform the following actions when this character casts their Special Skill",
+            " * Deals 70% damage to all enemies.",
+            " * All enemies receive 255 Sand damage over 3 turns."
         ]
     },
     {
         "originalIndex": 256,
-        "name": "娑柔 (Sorrow)",
+        "name": "索贝克 (Sobek) C1",
         "passives": [
-            "猎手感知：当该角色施放其特殊技能时，会将自身最新的可净化状态异常转移给目标。如果其特殊技能无法选择敌方目标，则会随机转移至一名敌人。若此角色没有可净化的状态异常，则恢复自身 8% 的生命。",
-            "特殊技能附带持续伤害：当该角色施放其特殊技能时，会给一个随机敌人施加猎人印记。目标在 3 回合内受到 150 点伤害。如果目标已有此效果，则持续时间刷新，伤害增加 150 点，总伤害最高可达 1500 点。"
+            "Effects on Special Skill: 60% chance to perform the following actions when this character casts their Special Skill",
+            " * Deals 70% damage to all enemies.",
+            " * All enemies receive 363 Sand damage over 3 turns.",
+            "Extra Chance for Effects On Special Skill: When this character casts their Special Skill, any of their Passive Skills that grant extra effects on cast have 3 chances to activate.",
+            "Increased Special Skill Damage: The first time this character casts a Special Skill that deals damage an additional 50% is added to its power."
         ]
     },
     {
         "originalIndex": 257,
-        "name": "星游者 (Starwalker)",
+        "name": "宋江 (Song Jiang)",
         "passives": [
-            "分摊所受伤害：该角色所受伤害的 20% 将由其他盟友分摊。",
-            "抵抗剧毒：该角色天生对剧毒有抵抗能力。"
+            "Cleanse on Critical Special Attack: When this character scores a critical hit with their Special Skill, they safely cleanse the latest cleansable status effect from all allies. This effect can activate once per turn.",
+            "Righteous Rebellion: ",
+            " * When this character’s Special Skill hits a character that had higher current HP, gain +20% boosted health.",
+            " * When this character is hit by the Special Skill of a character that had higher current HP, gain +20% mana.",
+            " * Each of these effects can activate once per turn.",
+            "Resist Bleed Damage: This character has innate resistance against Bleed.    "
         ]
     },
     {
         "originalIndex": 258,
-        "name": "铃奈 (Suzuna)",
+        "name": "娑柔 (Sorrow)",
         "passives": [
-            "抵抗治疗异常：该角色天生对影响治疗的状态异常有抵抗能力。",
-            "抵抗恶魔：该角色无法被恶魔附身。"
+            "Hunter’s sense: When this character casts their Special Skill, they transfer the newest cleansable status ailment from themself to the target. If the Special Skill cannot target an enemy, a random enemy is chosen instead. If this character has no cleansable status ailment, they recover 8% health.",
+            "Damage over time on special: When this character casts their Special Skill, they give a Hunter’s Mark on a random enemy. The target receives 150 damage over 3 turns. If a target already has this effect, the duration will be refreshed and the damage will be increased by 150, up to 1500 damage in total."
         ]
     },
     {
         "originalIndex": 259,
-        "name": "提尔莫因 (Tealmoine)",
+        "name": "星游者 (Starwalker)",
         "passives": [
-            "闪避特殊技能伤害：该角色有 15% 的几率闪避造成伤害的特殊技能。"
+            "Share Received Damage: 20% of damage received by this charater is shared with other allies.",
+            "Resist Poison: This character has innate resistance against Poison."
         ]
     },
     {
         "originalIndex": 260,
-        "name": "忒提丝 (Tethys)",
-        "passives": []
+        "name": "铃奈 (Suzuna)",
+        "passives": [
+            "Resist Healing Ailments: This character has innate resistance against status ailments that affect healing.",
+            "Resist Fiends: This character can't receive Fiends."
+        ]
     },
     {
         "originalIndex": 261,
-        "name": "塔拉萨 (Thalassa)",
+        "name": "提尔莫因 (Tealmoine)",
         "passives": [
-            "特殊技能效果：当该角色施放其特殊技能时，有 50% 几率执行以下操作：",
-            "* 对所有敌人造成 80% 的伤害。",
-            "* 所有队友获得 +21% 的暴击率，持续 2 回合。",
-            "抵抗狂乱：该角色天生对狂乱有抵抗能力。"
+            "Dodge Special Damage: This character has a 15% chance to dodge Special Skills that deal damage."
         ]
     },
     {
         "originalIndex": 262,
-        "name": "塔拉萨 (Thalassa) C1",
-        "passives": [
-            "特殊技能效果：当该角色施放其特殊技能时，有 50% 几率执行以下操作：",
-            "* 对所有敌人造成 80% 的伤害。",
-            "* 所有队友获得 +21% 的暴击率，持续 2 回合。",
-            "抵抗狂乱：该角色天生对狂乱有抵抗能力。"
-        ]
+        "name": "忒提丝 (Tethys)",
+        "passives": []
     },
     {
         "originalIndex": 263,
-        "name": "塔纳托斯 (Thanatos)",
+        "name": "塔拉萨 (Thalassa)",
         "passives": [
-            "降低小兵生命值：敌方小兵被召唤时继承的生命值减少 -50%。",
-            "抵抗防御异常：该角色天生对影响防御的状态异常有抵抗能力。此效果同样适用于影响元素防御的状态异常。"
+            "Effects on Special Skill: 50% chance to perform the following actions when this character casts their Special Skill",
+            " * Deals 80% damage to all enemies.",
+            " * All allies get +21% critical chance for 2 turns.",
+            "Resist Insanity: This character has innate resistance against Insanity."
         ]
     },
     {
         "originalIndex": 264,
+        "name": "塔拉萨 (Thalassa) C1",
+        "passives": [
+            "Effects on Special Skill: 50% chance to perform the following actions when this character casts their Special Skill",
+            " * Deals 80% damage to all enemies.",
+            " * All allies get +21% critical chance for 2 turns.",
+            "Resist Insanity: This character has innate resistance against Insanity."
+        ]
+    },
+    {
+        "originalIndex": 265,
+        "name": "塔纳托斯 (Thanatos)",
+        "passives": [
+            "Decreased Minion Health: Enemy Minions inherit -50% less Health when summoned.",
+            "Resist Defense Ailments: This character has innate resistance against status ailments that affect defense. Applies also to status ailments that affect elemental defense."
+        ]
+    },
+    {
+        "originalIndex": 266,
         "name": "西奥博尔德 (Theobald)",
         "passives": []
     },
     {
-        "originalIndex": 265,
+        "originalIndex": 267,
         "name": "索恩 (Thorne)",
         "passives": []
     },
     {
-        "originalIndex": 266,
+        "originalIndex": 268,
         "name": "索恩 (Thorne) C1",
         "passives": []
     },
     {
-        "originalIndex": 267,
+        "originalIndex": 269,
         "name": "索恩 (Thorne) C2",
         "passives": []
     },
     {
-        "originalIndex": 268,
+        "originalIndex": 270,
         "name": "索恩 (Thorne) 卡通",
         "passives": [
-            "卡通：额外 75% 几率抵抗所有状态异常、法力削减和增益驱散。"
+            "Toon: 75% extra chance to resist all status ailments, mana reductions and buff dispels."
         ]
-    },
-    {
-        "originalIndex": 269,
-        "name": "蒂米乌斯 (Timius)",
-        "passives": [
-            "降低通过特殊技能获得的法力：通过特殊技能增加的法力值降低 -80%。此效果对战场上的所有敌人生效。"
-        ]
-    },
-    {
-        "originalIndex": 270,
-        "name": "金丝儿 (Tinsel)",
-        "passives": []
     },
     {
         "originalIndex": 271,
-        "name": "特烈末 (Tremor)",
+        "name": "蒂米乌斯 (Timius)",
         "passives": [
-            "特殊技能附带持续伤害：当该角色施放其特殊技能时，会给一个随机敌人施加猎人印记。目标在 3 回合内受到 150 点伤害。如果目标已有此效果，则持续时间刷新，伤害增加 150 点，总伤害最高可达 1500 点。",
-            "猎人之毅：当该角色施放其特殊技能时，获得 +20% 的攻击力，持续 3 回合。此效果可与其他改变攻击力的效果并存。"
+            "Reduce Mana Gain from Special Skills: Reduces the amount of mana increased by Special Skill by -80%. The effect applies to all enemies in the battle."
         ]
     },
     {
         "originalIndex": 272,
-        "name": "尤留思 (Ulius)",
-        "passives": [
-            "特殊技能造成伤害：当该角色施放其特殊技能时，有 50% 的几率对所有敌人造成 100% 的伤害。如果特殊技能完全充能，则几率为 100%。",
-            "特殊技能叠加：当该角色施放其特殊技能时，所有敌人获得 -5% 的法力生成叠加。如果特殊技能完全充能，则所有敌人获得两层叠加。一个敌人最多可以有 10 层叠加。"
-        ]
+        "name": "金丝儿 (Tinsel)",
+        "passives": []
     },
     {
         "originalIndex": 273,
-        "name": "维拉 (Vela)",
+        "name": "特烈末 (Tremor)",
         "passives": [
-            "抵抗负面小兵效果：该角色天生对来自小兵的负面效果及伤害有抵抗能力。"
+            "Damage over time on special: When this character casts their Special Skill, they give a Hunter's Mark on a random enemy. The target receives 150 damage over 3 turns. If a target already has this effect, the duration will be refreshed and the damage will be increased by 150, up to 1500 damage in total.",
+            "Hunter's vigor: When this character casts their Special Skill, they get +20% attack for 3 turns. This effect can be active in addition to other effects that alter attack."
         ]
     },
     {
         "originalIndex": 274,
-        "name": "维里蒂 (Verity)",
+        "name": "尤留思 (Ulius)",
         "passives": [
-            "致盲小兵：所有敌方小兵拥有 -60% 精准度。所有敌方超级小兵拥有 -50% 精准度。",
-            "抵抗狂乱：该角色天生对狂乱有抵抗能力。",
-            "抵抗攻击力削减：该角色天生对影响攻击力的状态异常、叠加和衰退效果有抵抗能力。"
+            "Damage on Special: When this character casts their Special Skill, they have a 50% chance to deal 100% damage to all enemies. If the Special Skill is fully charged, the chance is 100%.",
+            "Stack on Special: When this character casts their Special Skill, all enemies get -5% mana generation stack. If the Special Skill is fully charged, all enemies get two stacks. An enemy can have up to 10 stacks."
         ]
     },
     {
         "originalIndex": 275,
-        "name": "文森特 (Vincent)",
+        "name": "维拉 (Vela)",
         "passives": [
-            "石像鬼的软化皮肤：每当此石像鬼施放特殊技能时，其软化皮肤会激活。接下来受到的 3 次伤害降低 -90%，并抵抗所有状态异常和法力削减。此效果无法被驱散。"
+            "Resist Negative Minion Effects: This character has an innate resistance against incoming negative effects and damage from Minions."
         ]
     },
     {
         "originalIndex": 276,
-        "name": "水贯 (Waterpipe)",
+        "name": "维里蒂 (Verity)",
         "passives": [
-            "特殊技能附带持续伤害：当该角色施放其特殊技能时，会给一个随机敌人施加猎人印记。目标在 3 回合内受到 150 点伤害。如果目标已有此效果，则持续时间刷新，伤害增加 150 点，总伤害最高可达 1500 点。",
-            "特殊技能伤害减免：该角色有 10% 的几率将受到的特殊技能直接伤害降至 1 点。"
+            "Minion Blind: All enemies’ Minions have -60% accuracy. All enemies’ Mega Minions have -50% accuracy.",
+            "Resist Insanity: This character has innate resistance against Insanity.",
+            "Resist Attack Reduction: This character has innate resistance against status ailments, stacks and Wither effects that affect attack."
         ]
     },
     {
         "originalIndex": 277,
-        "name": "白牙 (Whitefang)",
+        "name": "文森特 (Vincent)",
         "passives": [
-            "降低治疗量：所有敌人获得的治疗量降低 -50%。"
+            "Gargoyle’s Softskin: Every time this Gargoyle casts a Special Skil, their Softskin activates. The next 3 times they receive damage, it is reduced by -90%, and they resist all status ailment and mana reduction. This effect can’t be dispelled."
         ]
     },
     {
         "originalIndex": 278,
-        "name": "扎帕 (Zappa)",
-        "passives": []
+        "name": "水贯 (Waterpipe)",
+        "passives": [
+            "Damage over Time on Special: When this character casts their Special Skill, they give a Hunter’s Mark on a random enemy. The target receives 150 damage over 3 turns. If a target already has this effect, the duration will be refreshed and the damage will be increased by 150, up to 1500 damage in total.",
+            "Special Skill damage reduction: This character has a 10% chance to drop the direct damage received from Special Skills to 1."
+        ]
     },
     {
         "originalIndex": 279,
-        "name": "曾迦 (Zengar)",
+        "name": "白牙 (Whitefang)",
         "passives": [
-            "队伍大师：",
-            "作为攻击方角色的被动技能：该英雄的部队对较弱元素造成额外元素伤害。",
-            "- 造成的额外元素伤害： +100%",
-            "作为防守方角色的被动技能：该英雄受到来自较强元素部队的元素伤害减少。",
-            "- 受到的元素伤害： -10%"
+            "Decreased Healing: All enemies get -50% healing."
         ]
     },
     {
         "originalIndex": 280,
-        "name": "锆英 (Zircon)",
+        "name": "扎帕 (Zappa)",
         "passives": []
     },
     {
         "originalIndex": 281,
-        "name": "奥伊芙 (Aife)",
-        "passives": []
+        "name": "曾迦 (Zengar)",
+        "passives": [
+            "Troop Mastery:",
+            "Passive Skill as attacking character: This hero’s Troops deal extra  elemental damage against weaker element.",
+            " - Dealt extra elemental damage: +100%",
+            "Passive Skill as defending character: This hero receives less elemental  damage from Troops of stronger element.",
+            " - Received elemental damage: -10%"
+        ]
     },
     {
         "originalIndex": 282,
-        "name": "德里克 (Derric)",
+        "name": "锆英 (Zircon)",
         "passives": []
     },
     {
         "originalIndex": 283,
-        "name": "布洛根 (Brogan)",
+        "name": "奥伊芙 (Aife)",
         "passives": []
     },
     {
         "originalIndex": 284,
-        "name": "詹内 (Jenneh)",
+        "name": "德里克 (Derric)",
         "passives": []
     },
     {
         "originalIndex": 285,
-        "name": "刺头 (Needler)",
+        "name": "布洛根 (Brogan)",
         "passives": []
     },
     {
         "originalIndex": 286,
-        "name": "阿莱西亚 (Alessia)",
-        "passives": [
-            "小兵死亡时净化：当该角色拥有的小兵被摧毁时，该角色身上的状态异常会被净化。"
-        ]
+        "name": "詹内 (Jenneh)",
+        "passives": []
     },
     {
         "originalIndex": 287,
-        "name": "贝丽丝 (Belith)",
+        "name": "刺头 (Needler)",
         "passives": []
     },
     {
         "originalIndex": 288,
+        "name": "阿莱西亚 (Alessia)",
+        "passives": [
+            "Cleanse on Minion Death: This character is cleansed of status ailments when Minion owned by them is destroyed. "
+        ]
+    },
+    {
+        "originalIndex": 289,
+        "name": "贝丽丝 (Belith)",
+        "passives": []
+    },
+    {
+        "originalIndex": 290,
         "name": "贝丽丝 (Belith) C1",
         "passives": []
     },
     {
-        "originalIndex": 289,
+        "originalIndex": 291,
         "name": "贝丽丝 (Belith) 卡通",
         "passives": [
-            "卡通：额外 75% 几率抵抗所有状态异常、法力削减和增益驱散。"
+            "Toon: 75% extra chance to resist all status ailments, mana reductions and buff dispels."
         ]
     },
     {
-        "originalIndex": 290,
+        "originalIndex": 292,
         "name": "贝丽丝 (Belith) 玻璃",
         "passives": [
-            "玻璃：额外 60% 几率将状态异常反弹给攻击者。"
+            "Glass: 60% extra chance to reflect status ailments back to the attacker."
         ]
     },
     {
-        "originalIndex": 291,
+        "originalIndex": 293,
         "name": "博尔登 (Berden)",
         "passives": []
     },
     {
-        "originalIndex": 292,
+        "originalIndex": 294,
         "name": "博尔登 (Berden) C1",
         "passives": []
     },
     {
-        "originalIndex": 293,
+        "originalIndex": 295,
         "name": "博尔登 (Berden) 卡通",
         "passives": [
-            "卡通：额外 75% 几率抵抗所有状态异常、法力削减和增益驱散。"
+            "Toon: 75% extra chance to resist all status ailments, mana reductions and buff dispels."
         ]
     },
     {
-        "originalIndex": 294,
+        "originalIndex": 296,
         "name": "博尔登 (Berden) 玻璃",
         "passives": [
-            "玻璃：额外 60% 几率将状态异常反弹给攻击者。"
+            "Glass: 60% extra chance to reflect status ailments back to the attacker."
         ]
     },
     {
-        "originalIndex": 295,
+        "originalIndex": 297,
         "name": "布里恩妮 (Brienne)",
         "passives": []
     },
     {
-        "originalIndex": 296,
+        "originalIndex": 298,
         "name": "布里恩妮 (Brienne) C1",
         "passives": []
     },
     {
-        "originalIndex": 297,
+        "originalIndex": 299,
         "name": "布里恩妮 (Brienne) 卡通",
         "passives": [
-            "卡通：额外 75% 几率抵抗所有状态异常、法力削减和增益驱散。"
+            "Toon: 75% extra chance to resist all status ailments, mana reductions and buff dispels."
         ]
     },
     {
-        "originalIndex": 298,
+        "originalIndex": 300,
         "name": "布里恩妮 (Brienne) 玻璃",
         "passives": [
-            "玻璃：额外 60% 几率将状态异常反弹给攻击者。"
+            "Glass: 60% extra chance to reflect status ailments back to the attacker."
         ]
     },
     {
-        "originalIndex": 299,
+        "originalIndex": 301,
         "name": "拜伍尔夫 (By-Ulf)",
         "passives": []
     },
     {
-        "originalIndex": 300,
+        "originalIndex": 302,
         "name": "卡沃 (Carver)",
         "passives": []
     },
     {
-        "originalIndex": 301,
+        "originalIndex": 303,
         "name": "卡沃 (Carver) C1",
         "passives": []
     },
     {
-        "originalIndex": 302,
+        "originalIndex": 304,
         "name": "卡沃 (Carver) 卡通",
         "passives": [
-            "卡通：额外 75% 几率抵抗所有状态异常、法力削减和增益驱散。"
-        ]
-    },
-    {
-        "originalIndex": 303,
-        "name": "卡沃 (Carver) 玻璃",
-        "passives": [
-            "玻璃：额外 60% 几率将状态异常反弹给攻击者。"
-        ]
-    },
-    {
-        "originalIndex": 304,
-        "name": "奇雷斯 (Chires)",
-        "passives": [
-            "进阶无视小兵：该角色造成的所有伤害无视小兵和巨大体型小兵。",
-            "进阶抵抗负面小兵效果：该角色天生对来自小兵和巨大体型小兵的负面效果及伤害有抵抗能力。",
-            "特殊技能摧毁恶魔：当该角色施放其特殊技能时，其身上的所有恶魔都会被摧毁。"
+            "Toon: 75% extra chance to resist all status ailments, mana reductions and buff dispels."
         ]
     },
     {
         "originalIndex": 305,
-        "name": "多尔根 (Dolgoon)",
+        "name": "卡沃 (Carver) 玻璃",
         "passives": [
-            "特殊技能附加状态效果：当该角色施放其特殊技能时，有 50% 的几率为所有敌人施加 -25% 的法力生成，持续 3 回合。如果特殊技能完全充能，则几率为 100%。"
+            "Glass: 60% extra chance to reflect status ailments back to the attacker."
         ]
     },
     {
         "originalIndex": 306,
-        "name": "法伊兹 (Faiez)",
+        "name": "奇雷斯 (Chires)",
         "passives": [
-            "特殊技能效果：当该角色施放其特殊技能时，有 70% 几率执行以下操作：",
-            "* 为所有队友提升 10% 的生命值。提升的生命值可以超过最大生命值。",
-            "* 净化所有队友身上最新的可净化状态异常。"
+            "Superior Bypass Minions: All damage done by this character bypasses Minions and Mega Minions.",
+            "Superior Resist Negative Minion Effects: This character has innate resistance against incoming negative effects and damage from Minions and Mega Minions.",
+            "Destroy Fiends on Special: When this character casts their Special Skill, all Fiends are destroyed from them."
         ]
     },
     {
         "originalIndex": 307,
-        "name": "法伊兹 (Faiez) C1",
+        "name": "多尔根 (Dolgoon)",
         "passives": [
-            "特殊技能效果：当该角色施放其特殊技能时，有 70% 几率执行以下操作：",
-            "* 为所有队友提升 10% 的生命值。提升的生命值可以超过最大生命值。",
-            "* 净化所有队友身上最新的可净化状态异常。",
-            "特殊技能必定触发效果：当该角色施放其特殊技能时，任何提供额外施法效果的被动技能都将必定触发。",
-            "受到增益时恢复生命：该角色在获得增益或正面效果叠加时恢复 5% 的生命值。"
+            "Status effect on special: When this character casts their Special Skill, they have a 50% chance to give -25% mana generation for 3 turns to all enemies. If the Special Skill is fully charged, the chance is 100%."
         ]
     },
     {
         "originalIndex": 308,
-        "name": "费瑟里诺 (Featherino)",
+        "name": "法伊兹 (Faiez)",
         "passives": [
-            "降低通过特殊技能获得的法力：通过特殊技能增加的法力值降低 -80%。此效果对战场上的所有敌人生效。"
+            "Effects on Special Skill: 70% chance to perform the following actions when this character casts their Special Skill",
+            " * Boosts health of all allies by 10%. Boosted health can exceed max HP.",
+            " * Cleanses the latest cleansable status ailments from all allies."
         ]
     },
     {
         "originalIndex": 309,
-        "name": "菲安娜 (Fianna)",
+        "name": "法伊兹 (Faiez) C1",
         "passives": [
-            "特殊技能附加状态效果：当该角色施放其特殊技能时，会给一个随机敌人施加猎人印记。目标在 3 回合内受到 150 点伤害。如果目标已有此效果，则持续时间刷新，伤害增加 150 点，总伤害最高可达 1500 点。",
-            "特殊技能伤害减免：该角色有 10% 的几率将受到的特殊技能直接伤害降至 1 点。"
+            "Effects on Special Skill: 70% chance to perform the following actions when this character casts their Special Skill",
+            " * Boosts health of all allies by 10%. Boosted health can exceed max HP.",
+            " * Cleanses the latest cleansable status ailments from all allies.",
+            "Guaranteed Effect On Special Skill: When this character casts their Special Skill, any of their Passive Skills that grant extra effect on cast are guaranteed to activate.",
+            "Health Recovery on Buff Received: This character recovers 5% health when they receive a buff or a positive stack."
         ]
     },
     {
         "originalIndex": 310,
+        "name": "费瑟里诺 (Featherino)",
+        "passives": [
+            "Reduce Mana Gain from Special Skills: Reduces the amount of mana increased by Special Skill by -80%. The effect applies to all enemies in the battle."
+        ]
+    },
+    {
+        "originalIndex": 311,
+        "name": "菲安娜 (Fianna)",
+        "passives": [
+            "Status effect on Special: When this character casts their Special Skill, they give a Hunter’s Mark on a random enemy. The target receives 150 damage over 3 turns. If a target already has this effect, the duration will be refreshed and the damage will be increased by 150, up to 1500 damage in total.",
+            "Special Skill Damage Reduction: This character has a 10% chance to drop the direct damage received from Special Skills to 1."
+        ]
+    },
+    {
+        "originalIndex": 312,
         "name": "塔克修士 (Friar Tuck)",
         "passives": []
     },
     {
-        "originalIndex": 311,
+        "originalIndex": 313,
         "name": "塔克修士 (Friar Tuck) C1",
         "passives": []
     },
     {
-        "originalIndex": 312,
+        "originalIndex": 314,
         "name": "塔克修士 (Friar Tuck) 卡通",
         "passives": [
-            "卡通：额外 75% 几率抵抗所有状态异常、法力削减和增益驱散。"
+            "Toon: 75% extra chance to resist all status ailments, mana reductions and buff dispels."
         ]
     },
     {
-        "originalIndex": 313,
+        "originalIndex": 315,
         "name": "塔克修士 (Friar Tuck) 玻璃",
         "passives": [
-            "玻璃：额外 60% 几率将状态异常反弹给攻击者。"
+            "Glass: 60% extra chance to reflect status ailments back to the attacker."
         ]
     },
     {
-        "originalIndex": 314,
+        "originalIndex": 316,
         "name": "寅将军 (General Yin)",
         "passives": []
     },
     {
-        "originalIndex": 315,
+        "originalIndex": 317,
         "name": "诺莫尔 (Gnomer)",
         "passives": []
     },
     {
-        "originalIndex": 316,
+        "originalIndex": 318,
         "name": "小黏糊 (Goopy)",
         "passives": [
-            "窃取增益 - 当该角色施放其特殊技能时，有 50% 的几率从一个带有增益的随机敌人身上窃取最新的可驱散增益。如果没有敌人带有增益，则对所有敌人造成 70% 的伤害。"
-        ]
-    },
-    {
-        "originalIndex": 317,
-        "name": "格兰普斯 (Gramps)",
-        "passives": [
-            "特殊技能伤害减免：该角色受到的特殊技能伤害降低 -20%。"
-        ]
-    },
-    {
-        "originalIndex": 318,
-        "name": "格兰普斯 (Gramps) C1",
-        "passives": [
-            "特殊技能伤害减免：该角色受到的特殊技能伤害降低 -20%。"
+            "Steal Buff - When this character casts their Special Skill, they have a 50%  chance to steal the newest dispellable buff from a random enemy that has buffs.  If no enemy has buffs, deals 70% damage to all enemies."
         ]
     },
     {
         "originalIndex": 319,
+        "name": "格兰普斯 (Gramps)",
+        "passives": [
+            "Special Skill Damage Reduction: Received damage from Special Skills is  reduced by -20% for this character."
+        ]
+    },
+    {
+        "originalIndex": 320,
+        "name": "格兰普斯 (Gramps) C1",
+        "passives": [
+            "Special Skill Damage Reduction: Received damage from Special Skills is  reduced by -20% for this character."
+        ]
+    },
+    {
+        "originalIndex": 321,
         "name": "格里弗 (Grevle)",
         "passives": []
     },
     {
-        "originalIndex": 320,
+        "originalIndex": 322,
         "name": "阿骏 (Hisan)",
         "passives": []
     },
     {
-        "originalIndex": 321,
+        "originalIndex": 323,
         "name": "伊师塔克 (Isshtak)",
         "passives": []
     },
     {
-        "originalIndex": 322,
+        "originalIndex": 324,
         "name": "伊师塔克 (Isshtak) C1",
         "passives": []
     },
     {
-        "originalIndex": 323,
+        "originalIndex": 325,
         "name": "伊师塔克 (Isshtak) 卡通",
         "passives": [
-            "卡通：额外 75% 几率抵抗所有状态异常、法力削减和增益驱散。"
+            "Toon: 75% extra chance to resist all status ailments, mana reductions and buff dispels."
         ]
     },
     {
-        "originalIndex": 324,
+        "originalIndex": 326,
         "name": "荆 (Jing)",
         "passives": []
     },
     {
-        "originalIndex": 325,
+        "originalIndex": 327,
         "name": "内修斯 (Mnesseus)",
         "passives": []
     },
     {
-        "originalIndex": 326,
+        "originalIndex": 328,
         "name": "内修斯 (Mnesseus) C1",
         "passives": []
     },
     {
-        "originalIndex": 327,
+        "originalIndex": 329,
         "name": "麻吉 (Muggy)",
         "passives": []
     },
     {
-        "originalIndex": 328,
+        "originalIndex": 330,
         "name": "诺里尔 (Noril)",
         "passives": [
-            "抵抗状态效果伤害：该角色天生对来自状态效果的伤害有抵抗能力。"
+            "Resist Damage from Status Effects: This charater has innate resistance against incoming damage from status effects."
         ]
     },
     {
-        "originalIndex": 329,
+        "originalIndex": 331,
         "name": "洛茜娅 (Roxia)",
         "passives": [
-            "特殊技能获得法力：当该角色施放其特殊技能时，有 50% 的几率为所有队友提供 10% 的法力。如果特殊技能完全充能，则几率为 100%。",
-            "特殊技能叠加：当该角色施放其特殊技能时，所有敌人获得 -5% 的法力生成叠加。如果特殊技能完全充能，则所有敌人获得两层叠加。一个敌人最多可以有 10 层叠加。"
+            "Mana on Special: When this character casts their Special Skill, they have a 50% chance to give 10% mana to all allies. If the Special Skill is fully charged, the chance is 100%.",
+            "Stack on Special: When this character casts their Special Skill, all enemies get -5% mana generation stack. If the Special Skill is fully charged, all enemies get two stacks. An enemy can have up to 10 stacks."
         ]
     },
     {
-        "originalIndex": 330,
+        "originalIndex": 332,
         "name": "灌木熊 (Shrubbear)",
         "passives": []
     },
     {
-        "originalIndex": 331,
+        "originalIndex": 333,
         "name": "哈克 (Whacker)",
         "passives": []
     },
     {
-        "originalIndex": 332,
+        "originalIndex": 334,
         "name": "威廉 (William)",
         "passives": [
-            "抵抗法力削减：该角色天生对法力削减有抵抗能力。",
-            "守卫集结：每 4 回合，移除所有盟友身上的衰退效果。"
-        ]
-    },
-    {
-        "originalIndex": 333,
-        "name": "尤娜 (Yona)",
-        "passives": [
-            "受到增益时恢复生命：该角色在获得增益或正面效果叠加时恢复 5% 的生命值。"
-        ]
-    },
-    {
-        "originalIndex": 334,
-        "name": "扎丽尔 (Zarel)",
-        "passives": [
-            "防御异常削减：将影响防御的异常状态效果降低 -80%。此效果适用于该角色及其在战场上的所有盟友。"
+            "Resist Mana reduction: This character has an innate resistance against mana Reduction.",
+            "Guard Rally: Every 4 turns, removes all Wither effects from all allies."
         ]
     },
     {
         "originalIndex": 335,
-        "name": "查罗拉 (Zarola)",
+        "name": "尤娜 (Yona)",
         "passives": [
-            "抵抗特殊技能格挡：该角色天生对格挡特殊技能的状态异常有抵抗能力。"
+            "Health Recovery on Buff Received - This character recovers 5% health when  they receive a buff or a positive stack."
         ]
     },
     {
         "originalIndex": 336,
-        "name": "阿尔翡 (Alfie)",
+        "name": "扎丽尔 (Zarel)",
         "passives": [
-            "队伍大师：",
-            "作为攻击方角色的被动技能：该英雄的部队对较弱元素造成额外元素伤害。",
-            "- 造成的额外元素伤害： +100%",
-            "作为防守方角色的被动技能：该英雄受到来自较强元素部队的元素伤害减少。",
-            "- 受到的元素伤害： -10%"
+            "Defense ailment reduction: Reduces the effect of defense ailments by -80%. The effect applies to this character and all its allies in the battle."
         ]
     },
     {
         "originalIndex": 337,
+        "name": "查罗拉 (Zarola)",
+        "passives": [
+            "Resist Special Skill Blocking: This character has innate resistance against status ailments that block Special Skills."
+        ]
+    },
+    {
+        "originalIndex": 338,
+        "name": "阿尔翡 (Alfie)",
+        "passives": [
+            "Troop Mastery:",
+            "Passive Skill as attacking character: This hero’s Troops deal extra  elemental damage against weaker element.",
+            " - Dealt extra elemental damage: +100%",
+            "Passive Skill as defending character: This hero receives less elemental  damage from Troops of stronger element.",
+            " - Received elemental damage: -10%"
+        ]
+    },
+    {
+        "originalIndex": 339,
         "name": "阿穆尔 (Almur)",
         "passives": []
     },
     {
-        "originalIndex": 338,
+        "originalIndex": 340,
         "name": "阿穆尔 (Almur) C1",
         "passives": []
     },
     {
-        "originalIndex": 339,
+        "originalIndex": 341,
         "name": "安东 (Anton)",
         "passives": [
-            "特殊技能恢复生命：当该角色施放其特殊技能时，有 50% 的几率为所有队友恢复 15% 的生命值。如果特殊技能完全充能，则几率为 100%。"
+            "Healt recovery on special: When this character casts their Special Skill, they have a 50% chance to recover 15% health for all allies. If the Special Skill is fully charged, the chance is 100%."
         ]
     },
     {
-        "originalIndex": 340,
+        "originalIndex": 342,
         "name": "布隆特斯 (Brontes)",
         "passives": [
-            "降低小兵生命值：敌方小兵被召唤时继承的生命值减少 -50%。",
-            "抵抗防御异常：该角色天生对影响防御的状态异常有抵抗能力。此效果同样适用于影响元素防御的状态异常。"
+            "Decreased Minion Health: Enemy Minions inherit -50% less Health when summoned.",
+            "Resist Defense Ailments: This character has innate resistance against status ailments that affect defense. Applies also to status ailments that affect elemental defense."
         ]
     },
     {
-        "originalIndex": 341,
+        "originalIndex": 343,
         "name": "布琳希尔德 (Brynhild)",
         "passives": []
     },
     {
-        "originalIndex": 342,
+        "originalIndex": 344,
         "name": "巴迪 (Buddy)",
         "passives": []
     },
     {
-        "originalIndex": 343,
+        "originalIndex": 345,
         "name": "凯德蒙 (Caedmon)",
         "passives": []
     },
     {
-        "originalIndex": 344,
+        "originalIndex": 346,
         "name": "凯德蒙 (Caedmon) C1",
         "passives": []
     },
     {
-        "originalIndex": 345,
+        "originalIndex": 347,
         "name": "凯德蒙 (Caedmon) C2",
         "passives": []
     },
     {
-        "originalIndex": 346,
+        "originalIndex": 348,
         "name": "凯德蒙 (Caedmon) 卡通",
         "passives": [
-            "卡通：额外 75% 几率抵抗所有状态异常、法力削减和增益驱散。"
+            "Toon: 75% extra chance to resist all status ailments, mana reductions and buff dispels."
         ]
-    },
-    {
-        "originalIndex": 347,
-        "name": "凯德蒙 (Caedmon) 玻璃",
-        "passives": [
-            "玻璃：额外 60% 几率将状态异常反弹给攻击者。"
-        ]
-    },
-    {
-        "originalIndex": 348,
-        "name": "弗朗茨 (Franz)",
-        "passives": []
     },
     {
         "originalIndex": 349,
-        "name": "弗鲁提奥 (Fruitio)",
+        "name": "凯德蒙 (Caedmon) 玻璃",
         "passives": [
-            "被击败时召唤史莱姆小兵：当该角色被击败时，为附近的盟友召唤继承其 50% 生命值和 40% 攻击力的史莱姆巨大体型小兵。",
-            "史莱姆小兵分裂：如果该角色一次性失去超过 25% 的最大生命值，会为自己召唤一个继承其 50% 生命值和 40% 攻击力的史莱姆巨大体型小兵。"
+            "Glass: 60% extra chance to reflect status ailments back to the attacker."
         ]
     },
     {
         "originalIndex": 350,
-        "name": "嘉德利亚斯 (Gadeirus)",
+        "name": "弗朗茨 (Franz)",
         "passives": []
     },
     {
         "originalIndex": 351,
-        "name": "嘉德利亚斯 (Gadeirus) C1",
-        "passives": []
+        "name": "弗鲁提奥 (Fruitio)",
+        "passives": [
+            "Slime Minion Upon Defeat: When this character is defeated, they summon Slime Mega Minions to nearby allies with 50% HP and 40% attack inherited from this character.",
+            "Slime Minion Split: If this character loses more than 25% of max health at once, they summon a Slime Mega Minion for themselves with 50% HP and 40% attack."
+        ]
     },
     {
         "originalIndex": 352,
-        "name": "戈布勒 (Gobbler)",
+        "name": "嘉德利亚斯 (Gadeirus)",
         "passives": []
     },
     {
         "originalIndex": 353,
-        "name": "戈布勒 (Gobbler) C1",
+        "name": "嘉德利亚斯 (Gadeirus) C1",
         "passives": []
     },
     {
         "originalIndex": 354,
-        "name": "韩塞尔 (Hansel)",
+        "name": "戈布勒 (Gobbler)",
         "passives": []
     },
     {
         "originalIndex": 355,
-        "name": "韩塞尔 (Hansel) C1",
+        "name": "戈布勒 (Gobbler) C1",
         "passives": []
     },
     {
         "originalIndex": 356,
-        "name": "杰克·奥黑尔 (Jack O'Hare)",
+        "name": "韩塞尔 (Hansel)",
         "passives": []
     },
     {
         "originalIndex": 357,
-        "name": "杰克·奥黑尔 (Jack O'Hare) C1",
+        "name": "韩塞尔 (Hansel) C1",
         "passives": []
     },
     {
         "originalIndex": 358,
-        "name": "卡勒 (Kalo)",
-        "passives": [
-            "石像鬼之肤：每当此石像鬼施放特殊技能时，其石肤会变硬。接下来受到的 5 次伤害将降至 1 点。此效果无法被驱散。"
-        ]
+        "name": "杰克·奥黑尔 (Jack O'Hare)",
+        "passives": []
     },
     {
         "originalIndex": 359,
-        "name": "喀什雷克 (Kashhrek)",
+        "name": "杰克·奥黑尔 (Jack O'Hare) C1",
         "passives": []
     },
     {
         "originalIndex": 360,
-        "name": "喀什雷克 (Kashhrek) C1",
-        "passives": []
+        "name": "卡勒 (Kalo)",
+        "passives": [
+            "Gargoyle’s Stoneskin: Every time this Gargoyle casts a Special Skill, their Stoneskin hardens. The next 5 times they receive damage, it is dropped to 1. This effect can’t be dispelled."
+        ]
     },
     {
         "originalIndex": 361,
-        "name": "喀什雷克 (Kashhrek) C2",
+        "name": "喀什雷克 (Kashhrek)",
         "passives": []
     },
     {
         "originalIndex": 362,
-        "name": "喀什雷克 (Kashhrek) 卡通",
-        "passives": [
-            "卡通：额外 75% 几率抵抗所有状态异常、法力削减和增益驱散。"
-        ]
+        "name": "喀什雷克 (Kashhrek) C1",
+        "passives": []
     },
     {
         "originalIndex": 363,
-        "name": "喀什雷克 (Kashhrek) 玻璃",
-        "passives": [
-            "玻璃：额外 60% 几率将状态异常反弹给攻击者。"
-        ]
+        "name": "喀什雷克 (Kashhrek) C2",
+        "passives": []
     },
     {
         "originalIndex": 364,
-        "name": "星纱 (Lionstring)",
+        "name": "喀什雷克 (Kashhrek) 卡通",
         "passives": [
-            "抵抗剧毒：该角色天生对剧毒有抵抗能力。",
-            "分摊所受伤害：该角色所受伤害的 20% 将由其他盟友分摊。"
+            "Toon: 75% extra chance to resist all status ailments, mana reductions and buff dispels."
         ]
     },
     {
         "originalIndex": 365,
+        "name": "喀什雷克 (Kashhrek) 玻璃",
+        "passives": [
+            "Glass: 60% extra chance to reflect status ailments back to the attacker."
+        ]
+    },
+    {
+        "originalIndex": 366,
+        "name": "星纱 (Lionstring)",
+        "passives": [
+            "Resist Poison: This character has innate resistance against Poison.",
+            "Share Received Damage: 20% of damage received by this charater is shared  with other allies."
+        ]
+    },
+    {
+        "originalIndex": 367,
         "name": "小约翰 (Little John)",
         "passives": []
     },
     {
-        "originalIndex": 366,
+        "originalIndex": 368,
         "name": "小约翰 (Little John) C1",
         "passives": []
     },
     {
-        "originalIndex": 367,
+        "originalIndex": 369,
         "name": "小约翰 (Little John) C2",
         "passives": []
     },
     {
-        "originalIndex": 368,
+        "originalIndex": 370,
         "name": "小约翰 (Little John) 卡通",
         "passives": [
-            "卡通：额外 75% 几率抵抗所有状态异常、法力削减和增益驱散。"
+            "Toon: 75% extra chance to resist all status ailments, mana reductions and buff dispels."
         ]
     },
     {
-        "originalIndex": 369,
+        "originalIndex": 371,
         "name": "小约翰 (Little John) 玻璃",
         "passives": [
-            "玻璃：额外 60% 几率将状态异常反弹给攻击者。"
+            "Glass: 60% extra chance to reflect status ailments back to the attacker."
         ]
     },
     {
-        "originalIndex": 370,
+        "originalIndex": 372,
         "name": "马塞尔 (Marcel)",
         "passives": []
     },
     {
-        "originalIndex": 371,
+        "originalIndex": 373,
         "name": "米兰朵 (Melendor)",
         "passives": []
     },
     {
-        "originalIndex": 372,
+        "originalIndex": 374,
         "name": "米兰朵 (Melendor) C1",
         "passives": []
     },
     {
-        "originalIndex": 373,
+        "originalIndex": 375,
         "name": "米兰朵 (Melendor) C2",
         "passives": []
     },
     {
-        "originalIndex": 374,
+        "originalIndex": 376,
         "name": "米兰朵 (Melendor) 卡通",
         "passives": [
-            "卡通：额外 75% 几率抵抗所有状态异常、法力削减和增益驱散。"
-        ]
-    },
-    {
-        "originalIndex": 375,
-        "name": "米兰朵 (Melendor) 玻璃",
-        "passives": [
-            "玻璃：额外 60% 几率将状态异常反弹给攻击者。"
-        ]
-    },
-    {
-        "originalIndex": 376,
-        "name": "蔑里基 (Mielikki)",
-        "passives": [
-            "西苏之力 - 当该角色在战斗中首次以低生命值开始回合时，他们会恢复 15% 的生命值并获得 15% 的法力。"
+            "Toon: 75% extra chance to resist all status ailments, mana reductions and buff dispels."
         ]
     },
     {
         "originalIndex": 377,
-        "name": "蔑里基 (Mielikki) C1",
-        "passives": []
+        "name": "米兰朵 (Melendor) 玻璃",
+        "passives": [
+            "Glass: 60% extra chance to reflect status ailments back to the attacker."
+        ]
     },
     {
         "originalIndex": 378,
-        "name": "木果 (Mulgog)",
+        "name": "蔑里基 (Mielikki)",
         "passives": [
-            "特殊技能效果：当该角色施放其特殊技能时，有 50% 几率执行以下操作：",
-            "* 对所有敌人造成 80% 的伤害。",
-            "* 所有队友获得 +19% 的法力生成，持续 2 回合。"
+            "Power of Sisu - When this character starts a turn with low health for the  first time during a battle, they recover 15% health and receive 15% mana."
         ]
     },
     {
         "originalIndex": 379,
-        "name": "木果 (Mulgog) C1",
-        "passives": [
-            "特殊技能效果：当该角色施放其特殊技能时，有 50% 几率执行以下操作：",
-            "* 对所有敌人造成 80% 的伤害。",
-            "* 所有队友获得 +19% 的法力生成，持续 2 回合。",
-            "抵抗狂乱：该角色天生对狂乱有抵抗能力。"
-        ]
+        "name": "蔑里基 (Mielikki) C1",
+        "passives": []
     },
     {
         "originalIndex": 380,
-        "name": "米尔特 (Myrtle)",
+        "name": "木果 (Mulgog)",
         "passives": [
-            "致盲小兵：所有敌方小兵拥有 -60% 精准度。所有敌方超级小兵拥有 -50% 精准度。",
-            "抵抗狂乱：该角色天生对狂乱有抵抗能力。",
-            "抵抗攻击力削减：该角色天生对影响攻击力的状态异常、叠加和衰退效果有抵抗能力。"
+            "Effects on Special Skill: 50% chance to perform the following actions when this character casts their Special Skill",
+            " * Deals 80% damage to all enemies.",
+            " * All allies get +19% mana generation for 2 turns."
         ]
     },
     {
         "originalIndex": 381,
-        "name": "僵骨 (Numbskull)",
+        "name": "木果 (Mulgog) C1",
         "passives": [
-            "特殊技能附带持续伤害：当该角色施放其特殊技能时，会给一个随机敌人施加猎人印记。目标在 3 回合内受到 150 点伤害。如果目标已有此效果，则持续时间刷新，伤害增加 150 点，总伤害最高可达 1500 点。",
-            "猎手感知：当该角色施放其特殊技能时，会将自身最新的可净化状态异常转移给目标。如果其特殊技能无法选择敌方目标，则会随机转移至一名敌人。若此角色没有可净化的状态异常，则恢复自身 8% 的生命。"
+            "Effects on Special Skill: 50% chance to perform the following actions when this character casts their Special Skill",
+            " * Deals 80% damage to all enemies.",
+            " * All allies get +19% mana generation for 2 turns.",
+            "Resist Insanity: This character has innate resistance against Insanity."
         ]
     },
     {
         "originalIndex": 382,
-        "name": "奥拉 (Orla)",
+        "name": "米尔特 (Myrtle)",
         "passives": [
-            "抵抗状态效果伤害：该角色天生对来自状态效果的伤害有抵抗能力。"
+            "Minion Blind: All enemies’ Minions have -60% accuracy. All enemies’ Mega Minions have -50% accuracy.",
+            "Resist Insanity: This character has innate resistance against Insanity.",
+            "Resist Attack Reduction: This character has innate resistance against status ailments, stacks and Wither effects that affect attack."
         ]
     },
     {
         "originalIndex": 383,
+        "name": "僵骨 (Numbskull)",
+        "passives": [
+            "Damage over time on special: When this character casts their Special Skill, they give a Hunter's Mark on a random enemy. The target receives 150 damage over 3 turns. If a target already has this effect, the duration will be refreshed and the damage will be increased by 150, up to 1500 damage in total.",
+            "Hunter`s sense: When this character casts their Special Skill, they transfer the newest cleansable status ailment from themself to the target. If the Special Skill cannot target an enemy, a random enemy is chosen instead. If this character has no cleansable status ailment, they recover 8% health."
+        ]
+    },
+    {
+        "originalIndex": 384,
+        "name": "奥拉 (Orla)",
+        "passives": [
+            "Resist Damage from Status Effects: This charater has innate resistance against incoming damage from status effects."
+        ]
+    },
+    {
+        "originalIndex": 385,
         "name": "皮特斯 (Peters)",
         "passives": []
     },
     {
-        "originalIndex": 384,
+        "originalIndex": 386,
         "name": "皮特斯 (Peters) C1",
         "passives": []
     },
     {
-        "originalIndex": 385,
+        "originalIndex": 387,
         "name": "托勒密 (Ptolemy)",
         "passives": [
-            "特殊技能效果：当该角色施放其特殊技能时，有 60% 几率执行以下操作：",
-            "* 为所有队友提升 10% 的生命值。提升的生命值可以超过最大生命值。",
-            "* 净化所有队友身上最新的可净化状态异常。"
-        ]
-    },
-    {
-        "originalIndex": 386,
-        "name": "托勒密 (Ptolemy) C1",
-        "passives": [
-            "受到增益时恢复生命：该角色在获得增益或正面效果叠加时恢复 5% 的生命值。",
-            "特殊技能必定触发效果：当该角色施放其特殊技能时，任何提供额外施法效果的被动技能都将必定触发。",
-            "特殊技能效果：当该角色施放其特殊技能时，有 60% 几率执行以下操作：",
-            "* 为所有队友提升 10% 的生命值。提升的生命值可以超过最大生命值。",
-            "* 净化所有队友身上最新的可净化状态异常。"
-        ]
-    },
-    {
-        "originalIndex": 387,
-        "name": "劳利 (Raleigh)",
-        "passives": [
-            "受到增益时恢复生命：该角色在获得增益或正面效果叠加时恢复 5% 的生命值。"
+            "Effects on Special Skill: 60% chance to perform the following actions when this character casts their Special Skill",
+            " * Boosts health of all allies by 10%. Boosted health can exceed max HP.",
+            " * Cleanses the latest cleansable status ailments from all allies."
         ]
     },
     {
         "originalIndex": 388,
+        "name": "托勒密 (Ptolemy) C1",
+        "passives": [
+            "Health Recover on Buff Received: This character recovers 5% HP when they receive a buff or positive stack.",
+            "Guaranteed Effect on Special Skill: When this character casts their Special Skill, any of their Passive Skills that grant extra effects on cast are guaranteed to activate.",
+            "Effects on Special Skill: 60% chance to perform the following actions when this character casts their Special Skill",
+            " * Boosts health of all allies by 10%. Boosted health can exceed max HP.",
+            " * Cleanses that latest cleansable status ailment from all allies."
+        ]
+    },
+    {
+        "originalIndex": 389,
+        "name": "劳利 (Raleigh)",
+        "passives": [
+            "Health Recovery on Buff Received - This character recovers 5% health when  they receive a buff or a positive stack."
+        ]
+    },
+    {
+        "originalIndex": 390,
         "name": "柱子骨骼 (Skittleskull)",
         "passives": []
     },
     {
-        "originalIndex": 389,
+        "originalIndex": 391,
         "name": "柱子骨骼 (Skittleskull) C1",
         "passives": []
     },
     {
-        "originalIndex": 390,
+        "originalIndex": 392,
         "name": "柱子骨骼 (Skittleskull) C2",
         "passives": []
     },
     {
-        "originalIndex": 391,
+        "originalIndex": 393,
         "name": "柱子骨骼 (Skittleskull) 卡通",
         "passives": [
-            "卡通：额外 75% 几率抵抗所有状态异常、法力削减和增益驱散。"
-        ]
-    },
-    {
-        "originalIndex": 392,
-        "name": "柱子骨骼 (Skittleskull) 玻璃",
-        "passives": [
-            "玻璃：额外 60% 几率将状态异常反弹给攻击者。"
-        ]
-    },
-    {
-        "originalIndex": 393,
-        "name": "特图克 (Tettukh)",
-        "passives": [
-            "特殊技能伤害减免：该角色受到的特殊技能伤害降低 -20%。"
+            "Toon: 75% extra chance to resist all status ailments, mana reductions and buff dispels."
         ]
     },
     {
         "originalIndex": 394,
-        "name": "特图克 (Tettukh) C1",
+        "name": "柱子骨骼 (Skittleskull) 玻璃",
         "passives": [
-            "特殊技能伤害减免：该角色受到的特殊技能伤害降低 -20%。"
+            "Glass: 60% extra chance to reflect status ailments back to the attacker."
         ]
     },
     {
         "originalIndex": 395,
-        "name": "维利尔斯 (Villiers)",
+        "name": "特图克 (Tettukh)",
         "passives": [
-            "特殊技能造成伤害：当该角色受到特殊技能伤害或替处于掩护状态的角色承受伤害时，有 60% 的几率对所有敌人造成所受伤害 20% 的伤害。"
+            "Special Skill Damage Reduction: Received damage from Special Skills is  reduced by -20% for this character."
         ]
     },
     {
         "originalIndex": 396,
-        "name": "雷恩 (Wren)",
-        "passives": []
+        "name": "特图克 (Tettukh) C1",
+        "passives": [
+            "Special Skill Damage Reduction: Received damage from Special Skills is  reduced by -20% for this character."
+        ]
     },
     {
         "originalIndex": 397,
-        "name": "雅赫摩斯 (Ahmose)",
+        "name": "维利尔斯 (Villiers)",
         "passives": [
-            "特殊技能效果：当该角色施放其特殊技能时，有 70% 几率执行以下操作：",
-            "* 对所有敌人造成 70% 的伤害。",
-            "* 所有敌人的法力生成速度降低 -24%，持续 3 回合。"
+            "Damage on Special Skill: When this character receives damage from Special Skills or in place of a character in Cover, there’s a 60% chance to deal 20% of the received damage on all enemies."
         ]
     },
     {
         "originalIndex": 398,
-        "name": "雅赫摩斯 (Ahmose) C1",
-        "passives": [
-            "特殊技能效果：当该角色施放其特殊技能时，有 70% 几率执行以下操作。",
-            "* 对所有敌人造成 70% 的伤害。",
-            "* 所有敌人的法力生成速度降低 -24%，持续 3 回合。",
-            "特殊技能额外效果几率：当该角色施放其特殊技能时，其任何提供额外施法效果的被动技能都有 3 次激活机会。",
-            "抵抗沙系伤害：该角色天生对沙系伤害有抵抗能力。"
-        ]
-    },
-    {
-        "originalIndex": 399,
-        "name": "阿尔贝里希 (Alberich)",
+        "name": "雷恩 (Wren)",
         "passives": []
     },
     {
-        "originalIndex": 400,
-        "name": "阿尔贝里希 (Alberich) C1",
+        "originalIndex": 399,
+        "name": "雅赫摩斯 (Ahmose)",
         "passives": [
-            "特殊技能净化：当该角色施放其特殊技能时，会净化所有队友身上最新的状态异常。"
+            "Effects on Special Skill: 70% chance to perform the following actions when this character casts their Special Skill",
+            " * Deals 70% damage to all enemies.",
+            " * All enemies get -24% mana generation for 3 turns."
+        ]
+    },
+    {
+        "originalIndex": 400,
+        "name": "雅赫摩斯 (Ahmose) C1",
+        "passives": [
+            "Effects on Special Skill: 70% chance to perform the following actions when this character casts their Special Skill.",
+            " * Deals 70% damage to all enemies.",
+            " * All enemies get -24% mana generation for 3 turns.",
+            "Extra Chance for Effects on Special Skill: When this character casts their Special Skill, any of their Passive Skills that grant extra effects on cast have 3 chances to activate.",
+            "Resist Sand Damage: This character has innate resistance against Sand damage."
         ]
     },
     {
         "originalIndex": 401,
-        "name": "阿奇巴尔德 (Archibald)",
-        "passives": [
-            "抵抗法力削减：该角色天生对法力削减有抵抗能力。",
-            "守卫集结：每 4 回合，移除所有盟友身上的衰退效果。"
-        ]
+        "name": "阿尔贝里希 (Alberich)",
+        "passives": []
     },
     {
         "originalIndex": 402,
+        "name": "阿尔贝里希 (Alberich) C1",
+        "passives": [
+            "Cleanse on Special: When this character casts their Special Skill, they cleanse the newest status ailment from all allies."
+        ]
+    },
+    {
+        "originalIndex": 403,
+        "name": "阿奇巴尔德 (Archibald)",
+        "passives": [
+            "Resist Mana reduction: This character has an innate resistance against mana Reduction.",
+            "Guard Rally: Every 4 turns, removes all Wither effects from all allies."
+        ]
+    },
+    {
+        "originalIndex": 404,
         "name": "亚奇 (Archie)",
         "passives": []
     },
     {
-        "originalIndex": 403,
+        "originalIndex": 405,
         "name": "亚奇 (Archie) C1",
         "passives": []
     },
     {
-        "originalIndex": 404,
+        "originalIndex": 406,
         "name": "阿尔科 (Arco)",
         "passives": [
-            "石像鬼之肤：每当此石像鬼施放特殊技能时，其石肤会变硬。接下来受到的 4 次伤害将降至 1 点。此效果无法被驱散。"
-        ]
-    },
-    {
-        "originalIndex": 405,
-        "name": "阿曼德·孟夏曼 (Armand Moncharmin)",
-        "passives": [
-            "抵抗攻击异常：该角色天生对影响攻击力的状态异常有抵抗能力。",
-            "状态异常失效或被清除时恢复生命：每当一个状态异常从该角色身上失效、被净化、移除或重新分配时，该角色会恢复 10% 的生命值。此效果每回合只能激活一次。"
-        ]
-    },
-    {
-        "originalIndex": 406,
-        "name": "阿多斯 (Athos)",
-        "passives": [
-            "特殊技能造成伤害：当该角色受到特殊技能伤害或替处于掩护状态的角色承受伤害时，有 60% 的几率对所有敌人造成所受伤害 20% 的伤害。"
+            "Gargoyle’s Stoneskin: Every time this Gargoyle casts a Special Skill, their Stoneskin hardens. The next 4 times they receive damage, it is dropped to 1. This effect can’t be dispelled."
         ]
     },
     {
         "originalIndex": 407,
+        "name": "阿曼德·孟夏曼 (Armand Moncharmin)",
+        "passives": [
+            "Resist Attack Ailments: This character has innate resistance against status ailments that affect attack.",
+            "Heal when status ailment expires or is cleared: This character receives 10% health each time a status ailment expires or is cleansed, removed or reallocated from them. This effect can activate only once per turn."
+        ]
+    },
+    {
+        "originalIndex": 408,
+        "name": "阿多斯 (Athos)",
+        "passives": [
+            "Damage on Special Skill: When this character receives damage from Special Skills or in place of a character in Cover, there’s a 60% chance to deal 20% of the received damage to all enemies."
+        ]
+    },
+    {
+        "originalIndex": 409,
         "name": "阿多莫斯 (Atomos)",
         "passives": []
     },
     {
-        "originalIndex": 408,
+        "originalIndex": 410,
         "name": "阿多莫斯 (Atomos) C1",
         "passives": []
     },
     {
-        "originalIndex": 409,
+        "originalIndex": 411,
         "name": "阿特伍德 (Atwood)",
         "passives": [
-            "古神的标记：该角色每拥有 5% 点狂乱，受到的所有伤害便降低 10，最多可降低 50%。"
-        ]
-    },
-    {
-        "originalIndex": 410,
-        "name": "奥古斯都 (Augustus)",
-        "passives": []
-    },
-    {
-        "originalIndex": 411,
-        "name": "巴尔巴 (Balbar)",
-        "passives": [
-            "抵抗增益免疫：该角色天生对提供新增益免疫的状态异常有抵抗能力。",
-            "受到增益时恢复生命：该角色在获得增益或正面效果叠加时恢复 5% 的生命值。"
+            "Marked by the Old Ones: All damage is reduced by 5% per 10 Insanity for this character up to a maximum reduction of 50%."
         ]
     },
     {
         "originalIndex": 412,
-        "name": "贝蒂拉 (Bertila)",
+        "name": "奥古斯都 (Augustus)",
         "passives": []
     },
     {
         "originalIndex": 413,
-        "name": "博与朗特 (Bo & Runt)",
+        "name": "巴尔巴 (Balbar)",
         "passives": [
-            "抵抗小兵移除：该角色天生对小兵移除有抵抗能力。",
-            "召唤小兵时获得法力：当一个盟友召唤小兵时，该角色获得 5% 的法力。此效果每回合只能激活一次。"
+            "Resist buff immunity: This character has innate resistance against status ailments that give immunity to new buffs.",
+            "Health recovery on buff received: This character recovers 5% health when they receive a buff or a positive stack."
         ]
     },
     {
         "originalIndex": 414,
-        "name": "邦佐 (Bonzo)",
-        "passives": [
-            "快节奏：民谣。",
-            "所有由敌人施放的民谣仅持续 1 回合。",
-            "快节奏：舞蹈。",
-            "所有由敌人施放的舞蹈仅持续 1 回合。"
-        ]
+        "name": "贝蒂拉 (Bertila)",
+        "passives": []
     },
     {
         "originalIndex": 415,
-        "name": "哼哼和尖牙 (Boom & Fang)",
+        "name": "博与朗特 (Bo & Runt)",
         "passives": [
-            "特殊技能效果：当该角色施放其特殊技能时，有 50% 几率执行以下操作。",
-            "* 对所有敌人造成 90% 的伤害。",
-            "* 所有敌人获得 -25% 的精准度，持续 3 回合。"
+            "Resist Minion Removal: This character has innate resistance against Minion removal.",
+            "Mana on Minion Summon: When a Minion is summoned to an ally, this character gains 5% mana. This effect can activate only once per turn."
         ]
     },
     {
         "originalIndex": 416,
-        "name": "布兰博 (Bramble)",
+        "name": "邦佐 (Bonzo)",
         "passives": [
-            "致盲小兵：所有敌方小兵拥有 -60% 精准度。所有敌方超级小兵拥有 -50% 精准度。",
-            "抵抗防御削减：该角色天生对影响防御的状态异常、叠加和衰退效果有抵抗能力。",
-            "抵抗狂乱：该角色天生对狂乱有抵抗能力。"
+            "Quick Tempo: Ballad",
+            "All Ballads cast by enemies only last for 1 turn.",
+            "Quick Tempo: Dance",
+            "All Dances cast by enemies only last for 1 turn."
         ]
     },
     {
         "originalIndex": 417,
-        "name": "知贺雄 (Chikao)",
+        "name": "哼哼和尖牙 (Boom & Fang)",
         "passives": [
-            "降低小兵生命值：敌方小兵被召唤时继承的生命值减少 -50%。"
+            "Effects on Special Skill: 50% chance to perform the following actions when this character casts their Special Skill.",
+            " * Deals 90% damage to all enemies.",
+            " * All enemies get -25% accuracy for 3 turns."
         ]
     },
     {
         "originalIndex": 418,
-        "name": "克洛丽丝 (Chloris)",
+        "name": "布兰博 (Bramble)",
         "passives": [
-            "抵抗治疗异常：该角色天生对影响治疗的异常状态有抵抗能力。",
-            "敌方施放特殊技能时提升生命值：当敌人施放特殊技能时，该角色有 50% 的几率将自身生命值提升 100 点。"
+            "Minion Blind: All enemies’ Minions have -60% accuracy. All enemies’ Mega Minions have -50% accuracy.",
+            "Resist Defense Reduction: This character has innate resistance against status ailments, stacks and Wither effects that affect defense.",
+            "Resist Insanity: This character has innate resistance against Insanity."
         ]
     },
     {
         "originalIndex": 419,
-        "name": "西尼希雅 (Cinisia)",
+        "name": "知贺雄 (Chikao)",
         "passives": [
-            "根据非自然系敌人数量提高攻击力：每场战斗开始时，每存在一个非自然系元素的敌人，此角色的攻击力都会提高 5%。在多个波次的战斗中，该效果将在每一波开始时刷新。",
-            "抵抗攻击异常：该角色天生对影响攻击力的状态异常有抵抗能力。"
+            "Decreased Minion Health: Enemy Minions inherit -50% less Health when summoned."
         ]
     },
     {
         "originalIndex": 420,
-        "name": "康伽拉赫 (Congalach)",
+        "name": "克洛丽丝 (Chloris)",
         "passives": [
-            "特殊技能伤害减免：该角色受到的特殊技能伤害降低 -20%。"
+            "Resist Healing Ailments: This character has innate resistance against ailments that affect healing.",
+            "Boost Health on Enemy Special: When an enemy casts their Special Skill, this character has a 50% chance to boost this character’s health by 100."
         ]
     },
     {
         "originalIndex": 421,
-        "name": "康伽拉赫 (Congalach) C1",
+        "name": "西尼希雅 (Cinisia)",
         "passives": [
-            "特殊技能伤害减免：该角色受到的特殊技能伤害降低 -20%。",
-            "对生命加成目标造成更高伤害：在该角色施放特殊技能后，所有盟友对具有生命加成的目标造成的普通攻击和特殊技能伤害提高 +70%，持续 4 回合。"
+            "Increased Attack Per Non-Nature Enemy: At the start of the battle, this character’s attack is increased by 5% for enemy that is not of Nature element. In battles with multiple waves, this effect is refreshed at the beginning of each wave.",
+            "Resist Attack Ailments: This character has innate resistance against status ailments that affect attack."
         ]
     },
     {
         "originalIndex": 422,
-        "name": "克拉姆 (Craum)",
+        "name": "康伽拉赫 (Congalach)",
         "passives": [
-            "队伍大师：",
-            "作为攻击方角色的被动技能：该英雄的部队对较弱元素造成额外元素伤害。",
-            "- 造成的额外元素伤害： +100%",
-            "作为防守方角色的被动技能：该英雄受到来自较强元素部队的元素伤害减少。",
-            "- 受到的元素伤害： -10%"
+            "Special Skill Damage Reduction: Received damage from Special Skills is  reduced by -20% for this character."
         ]
     },
     {
         "originalIndex": 423,
-        "name": "克里斯托巴尔 (Cristobal)",
+        "name": "康伽拉赫 (Congalach) C1",
         "passives": [
-            "特殊技能附加状态效果：当该角色施放其特殊技能时，有 50% 的几率为所有敌人施加 -25% 的法力生成，持续 3 回合。如果特殊技能完全充能，则几率为 100%。"
+            "Special Skill Damage Reduction: Received damage from Special Skills is reduced by -20% for this character.",
+            "Increased Damage Against Boosted Health: After this character casts their Special Skill, all allies deal +70% increased normal attack and Special Skill damage against targets with boosted health for 4 turns."
         ]
     },
     {
         "originalIndex": 424,
-        "name": "达格 (Dagr)",
+        "name": "克拉姆 (Craum)",
         "passives": [
-            "强化抵抗燃烧：该角色天生对燃烧有抵抗能力，并且每次抵抗时获得 450 点生命加成和 5% 的法力。",
-            "熔岩核心。该角色拥有一个熔岩核心。",
-            "熔岩核心在该角色每次施放特殊技能时激活：",
-            "* 所有敌人受到腐蚀燃烧效果，持续 3 回合。当熔岩核心完全充能时，腐蚀燃烧造成 330 点燃烧伤害，并每回合降低目标 -12% 的防御力。对拥有小兵或巨大体型小兵的英雄造成额外伤害。",
-            "* 燃烧伤害量根据核心的充能程度计算，核心激活时消耗所有充能。"
+            "Troop Mastery:",
+            "Passive Skill as attacking character: This hero’s Troops deal extra  elemental damage against weaker element.",
+            " - Dealt extra elemental damage: +100%",
+            "Passive Skill as defending character: This hero receives less elemental  damage from Troops of stronger element.",
+            " - Received elemental damage: -10%"
         ]
     },
     {
         "originalIndex": 425,
-        "name": "达洛加 (Daroga)",
+        "name": "克里斯托巴尔 (Cristobal)",
         "passives": [
-            "抵抗攻击异常：该角色天生对影响攻击力的状态异常有抵抗能力。",
-            "状态异常失效或被清除时恢复生命：每当一个状态异常从该角色身上失效、被净化、移除或重新分配时，该角色会恢复 5% 的生命值。此效果每回合只能激活一次。"
+            "Status effect on special: When this character casts their Special Skill, they have a 50% chance to give -25% mana generation for 3 turns to all enemies. If the Special Skill is fully charged, the chance is 100%."
         ]
     },
     {
         "originalIndex": 426,
-        "name": "德斯蒙德 (Desmond)",
+        "name": "达格 (Dagr)",
         "passives": [
-            "队伍大师：",
-            "作为攻击方角色的被动技能：该英雄的部队对较弱元素造成额外元素伤害。",
-            "- 造成的额外元素伤害： +100%",
-            "作为防守方角色的被动技能：该英雄受到来自较强元素部队的元素伤害减少。",
-            "- 受到的元素伤害： -10%"
+            "Empowered Resist Burn: This character has innate resistance against Burn and gains 450 boosted health and 5% mana each time they resist.",
+            "Molten Core. This character has a Molten Core.",
+            "The Molten Core activates each time this character’s Special Skill is cast:",
+            " * All enemies receive Corrosive Burn for 3 turns. With a fully charged Molten Core, the Corrosive Burn deals 330 Burn damage, and lowers the target’s defense by -12% each turn. Deals extra damage against heroes with Minions or a Mega Minion.",
+            " * The Burn damage is scaled by the amount of charge in the Core. All charge is exhausted when the Core is activated."
         ]
     },
     {
         "originalIndex": 427,
-        "name": "多戈洛姆 (Dodgrom)",
+        "name": "达洛加 (Daroga)",
         "passives": [
-            "抵抗特殊技能格挡：该角色天生对格挡特殊技能的状态异常有抵抗能力。"
+            "Resist Attack Ailments: This character has innate resistance against status ailments that affect attack.",
+            "Heal when status ailment expires or is cleared: This character receives 5% health each time a status ailment expires or is cleansed, removed or reallocated from them. This effect can activate only once per turn."
         ]
     },
     {
         "originalIndex": 428,
-        "name": "艾格齐乌 (Ecgtheow)",
+        "name": "德斯蒙德 (Desmond)",
         "passives": [
-            "完美精准度：该角色的特殊技能必定命中目标。",
-            "受到增益时获得法力：该角色在获得增益或正面效果叠加时获得 5% 的法力。",
-            "受到伤害时获得攻击力叠加：当该角色受到特殊技能伤害时，获得 +30% 的攻击力叠加（最多 10 层）。每回合可叠加一层。"
+            "Troop Mastery:",
+            "Passive Skill as attacking character: This hero’s Troops deal extra  elemental damage against weaker element.",
+            " - Dealt extra elemental damage: +100%",
+            "Passive Skill as defending character: This hero receives less elemental  damage from Troops of stronger element.",
+            " - Received elemental damage: -10%"
         ]
     },
     {
         "originalIndex": 429,
-        "name": "艾德文 (Edwin)",
+        "name": "多戈洛姆 (Dodgrom)",
         "passives": [
-            "窃取增益：当该角色施放其特殊技能时，有 50% 的几率从一个带有增益的随机敌人身上窃取最新的可驱散增益。如果没有敌人带有增益，则对所有敌人造成 70% 的伤害。"
+            "Resist Special Skill Blocking: This character has innate resistance against status ailments that block Special Skills."
         ]
     },
     {
         "originalIndex": 430,
+        "name": "艾格齐乌 (Ecgtheow)",
+        "passives": [
+            "Perfect Accuracy: This character’s Special Skill never mises its target.",
+            "Mana on Buff Received: This character gains 5% mana when they receive a buff or positive stack.",
+            "Stacking Attack On Damage Received: When this character receives damage from Special Skills, they gain +30% attack Stack (Max: 10). One Stack can be gained per turn."
+        ]
+    },
+    {
+        "originalIndex": 431,
+        "name": "艾德文 (Edwin)",
+        "passives": [
+            "Steal Buff: When this character casts their Special Skill, they have a 50% chance to steal the newest dispellable buff from a random enemy that has buffs. If no enemy has buffs, deals 70% damage to all enemies."
+        ]
+    },
+    {
+        "originalIndex": 432,
         "name": "埃奥拉与毛毛 (Eiora & Fluffy)",
         "passives": []
     },
     {
-        "originalIndex": 431,
+        "originalIndex": 433,
         "name": "埃卡奈特 (Ekanite)",
         "passives": []
     },
     {
-        "originalIndex": 432,
+        "originalIndex": 434,
         "name": "埃纳达哈 (El Naddaha)",
         "passives": [
-            "特殊技能效果：当该角色施放其特殊技能时，有 50% 几率执行以下操作：",
-            "* 对所有敌人造成 70% 的伤害。",
-            "* 驱散敌人最新的可驱散增益。"
+            "Effects on Special Skill: 50% chance to perform the following actions when this character casts their Special Skill",
+            " * Deals 70% damage to all enemies.",
+            " * Dispels the latest dispellable buff from enemies."
         ]
     },
     {
-        "originalIndex": 433,
+        "originalIndex": 435,
         "name": "埃纳达哈 (El Naddaha) C1",
         "passives": [
-            "特殊技能效果：当该角色施放其特殊技能时，有 50% 几率执行以下操作：",
-            "* 对所有敌人造成 70% 的伤害。",
-            "* 驱散敌人最新的可驱散增益。",
-            "特殊技能必定触发效果：当该角色施放其特殊技能时，任何提供额外施法效果的被动技能都将必定触发。",
-            "受到状态异常时获得法力：该角色在受到状态异常或负面效果叠加时获得 5% 的法力。"
+            "Effects on Special Skill: 50% chance to perform the following actions when this character casts their Special Skill",
+            " * Deals 70% damage to all enemies.",
+            " * Dispels the latest dispellable buff from enemies.",
+            "Guaranteed Effect on Special Skill: When this character casts their Special Skill, any of their Passive Skills that grant extra effects on cast are guaranteed to activate.",
+            "Mana on Status Ailment Received: This character gains 5% mana when they receive a status ailment or negative stack."
         ]
     },
     {
-        "originalIndex": 434,
+        "originalIndex": 436,
         "name": "埃尔卡能 (Elkanen)",
         "passives": []
     },
     {
-        "originalIndex": 435,
+        "originalIndex": 437,
         "name": "埃尔卡能 (Elkanen) C1",
         "passives": []
     },
     {
-        "originalIndex": 436,
+        "originalIndex": 438,
         "name": "埃尔卡能 (Elkanen) C2",
         "passives": []
     },
     {
-        "originalIndex": 437,
+        "originalIndex": 439,
         "name": "埃尔卡能 (Elkanen) 卡通",
         "passives": [
-            "卡通：额外 75% 几率抵抗所有状态异常、法力削减和增益驱散。"
-        ]
-    },
-    {
-        "originalIndex": 438,
-        "name": "埃尔卡能 (Elkanen) 玻璃",
-        "passives": [
-            "玻璃：额外 60% 几率将状态异常反弹给攻击者。"
-        ]
-    },
-    {
-        "originalIndex": 439,
-        "name": "埃拉德 (Elradir)",
-        "passives": [
-            "抵抗特殊技能格挡：该角色天生对格挡特殊技能的状态异常有抵抗能力。",
-            "受到状态异常时获得法力：该角色在受到状态异常或负面效果叠加时获得 5% 的法力。"
+            "Toon: 75% extra chance to resist all status ailments, mana reductions and buff dispels."
         ]
     },
     {
         "originalIndex": 440,
-        "name": "艾莉莎 (Elyssa)",
+        "name": "埃尔卡能 (Elkanen) 玻璃",
         "passives": [
-            "飞行动量：如果该角色拥有任意数量的飞行动量，其将获得：",
-            "* 最多 +35% 的法力生成。",
-            "* 最多 +25% 的闪避几率。",
-            "* 角色拥有的飞行动量越少，效果越弱。",
-            "削弱巨大体型小兵：敌方巨大体型小兵的生命值降低 -75%。"
+            "Glass: 60% extra chance to reflect status ailments back to the attacker."
         ]
     },
     {
         "originalIndex": 441,
-        "name": "恩尼格莫 (Enigmo)",
+        "name": "埃拉德 (Elradir)",
         "passives": [
-            "回溯敌方小兵和恶魔：该角色天生能够回溯敌人通过特殊技能召唤的任何小兵或恶魔。敌人召唤的最后一个小兵和恶魔会被回溯，直到施放特殊技能为止。"
+            "Resist Special Skill Blocking: This character has innate resistance against status ailments that Block Special Skills.",
+            "Mana on Status Ailment Received: This character gains 5% mana when they receive a status ailment or a negative stack."
         ]
     },
     {
         "originalIndex": 442,
-        "name": "伊夫林 (Evelyn)",
-        "passives": []
+        "name": "艾莉莎 (Elyssa)",
+        "passives": [
+            "Flight Momentum: If this character has any amount of Flight Momentum, they receive:",
+            " * Up to +35% mana generation.",
+            " * Up to +25% chance to dodge.",
+            " * The effects diminish the less Flight Momentum character has.",
+            "Weaker Mega Minions: Enemy Mega Minions have -75% HP."
+        ]
     },
     {
         "originalIndex": 443,
-        "name": "伊夫林 (Evelyn) C1",
+        "name": "恩尼格莫 (Enigmo)",
         "passives": [
-            "特殊技能净化：当该角色施放其特殊技能时，会净化所有队友身上最新的状态异常。"
+            "Memorize Enemy Minions and Fiends: This character has innate ability to Memorize any Minion or Fiend summoned by enemies’ Special Skills. The latest Minion and Fiend that enemies summon will stay memorized until the Special Skill is cast."
         ]
     },
     {
         "originalIndex": 444,
-        "name": "经验拟态兽 (Experience Mimic) Nature",
-        "passives": [
-            "完美精准度：该角色的特殊技能必定命中目标。",
-            "拟态兽战利品：该拟态兽在完成关卡时有几率获得额外战利品。",
-            "* 普通冰雪训练师英雄。",
-            "* 非凡冰雪训练师英雄。",
-            "* 稀有冰雪训练师英雄。",
-            "* 普通冰雪英雄。",
-            "* 非凡冰雪英雄。"
-        ]
+        "name": "伊夫林 (Evelyn)",
+        "passives": []
     },
     {
         "originalIndex": 445,
-        "name": "法夫纳 (Fafnir)",
+        "name": "伊夫林 (Evelyn) C1",
         "passives": [
-            "强化抵抗冰冻：该角色天生对冰冻有抵抗能力，并且每次抵抗时获得 450 点生命加成和 5% 的法力。",
-            "极地核心：极地核心在该角色每次施放特殊技能时激活。",
-            "* 所有敌人受到腐蚀冰冻效果，持续 3 回合。当极地核心完全充能时，腐蚀冰冻造成 337 点冰冻伤害，并每回合降低目标 -15% 的攻击力。对拥有小兵或巨大体型小兵的英雄造成额外伤害。",
-            "* 冰冻伤害量根据核心的充能程度计算，核心激活时消耗所有充能。"
+            "Cleanse on Special: When this character casts their Special Skill, they cleanse the newest status ailment from all allies."
         ]
     },
     {
         "originalIndex": 446,
-        "name": "菲布路斯 (Februus)",
+        "name": "经验拟态兽 (Experience Mimic) Nature",
         "passives": [
-            "小兵死亡时净化：当该角色拥有的小兵被摧毁时，该角色身上的状态异常会被净化。",
-            "抵抗防御异常：该角色天生对影响防御的状态异常有抵抗能力。此效果同样适用于影响元素防御的状态异常。"
+            "Perfect Accuracy: This character’s Special Skill never misses its targets.",
+            "Mimic Loot: This Mimic gives a chance for extra loot when completing stages",
+            " * Common Ice Trainer Heroes",
+            " * Uncommon Ice Trainer Heroes",
+            " * Rare Ice Trainer Heroes",
+            " * Common Ice Heroes",
+            " * Uncommon Ice Heroes"
         ]
     },
     {
         "originalIndex": 447,
-        "name": "费洛斯 (Ferrus)",
+        "name": "法夫纳 (Fafnir)",
         "passives": [
-            "抵抗特殊技能格挡：该角色天生对格挡特殊技能的状态异常有抵抗能力。",
-            "腐蚀核心：该角色的构造核心是腐蚀核心。腐蚀核心在该角色每次施放特殊技能时激活：",
-            "* 所有敌人受到腐蚀剧毒效果，持续 3 回合。当腐蚀核心完全充能时，腐蚀剧毒造成 128 点剧毒伤害，并每回合降低目标 -13% 的法力生成。对拥有小兵或巨大体型小兵的英雄造成额外伤害。",
-            "* 剧毒伤害量根据核心的充能程度计算，核心激活时消耗所有充能。"
+            "Empowered Resist Frost: This character has innate resistance against Frost and gains 450 boosted heath and 5% mana each time they resist.",
+            "Arctic Core: The Arctic Core activates each time this character’s Special Skill is cast",
+            " * All enemies receive Corrosive Frost for 3 turns. With fully charged Arctic Core, the Corrosive Frost deals 337 Frost damage, and lowers the target’s attack by -15% each turn. Deals extra damage against heroes with Minions or a Mega Minion.",
+            " * The Frost damage is scaled by the amount of charge in the Core. All charge is exhausted when the Core is activated."
         ]
     },
     {
         "originalIndex": 448,
-        "name": "弗洛伦娜 (Florenna)",
+        "name": "菲布路斯 (Februus)",
         "passives": [
-            "受到状态异常时获得法力：该角色在受到状态异常或负面效果叠加时获得 5% 的法力。",
-            "抵抗剧毒：该角色天生对剧毒有抵抗能力。"
+            "Cleanse on Minion Death: This character is cleansed of status ailments when Minion owned by them is destroyed. ",
+            "Resist Defense Ailments: This character has innate resistance against status ailments that affect defense. Applies also to status ailments that affect elemental defense."
         ]
     },
     {
         "originalIndex": 449,
-        "name": "狐斯利 (Foxley)",
+        "name": "费洛斯 (Ferrus)",
         "passives": [
-            "降低治疗量：所有敌人获得的治疗量降低 -50%。"
+            "Resist Special Skill Blocking: This character has innate resistance against status ailments that block Special Skill.",
+            "Corrosive Core: The Construct Core of this character is Corrosive Core. The Corrosive Core activates each time this character’s Special Skill is cast: * All enemies receive Corrosive Poison for 3 turns. With a fully charged Corrosive Core, the Corrosive Poision deals 128 Poison damage and lowers the target’s mana generation by -13% each turn. Deals extra damage against heroes with Minions or a Mega Minion. * The poison damage is scaled by the amount of charge in the Core. All charge is exhausted when the Core is activated."
         ]
     },
     {
         "originalIndex": 450,
-        "name": "弗朗辛 (Francine)",
+        "name": "弗洛伦娜 (Florenna)",
         "passives": [
-            "窃取增益：当该角色施放其特殊技能时，有 50% 的几率从一个带有增益的随机敌人身上窃取最新的可驱散增益。如果没有敌人带有增益，则对所有敌人造成 70% 的伤害。"
+            "Mana on Status Ailment Received: This character gains 5% mana when they receive a status ailment or a negative stack.",
+            "Resist Poison: This character has innate resistance against Poison."
         ]
     },
     {
         "originalIndex": 451,
-        "name": "弗朗辛 (Francine) C1",
+        "name": "狐斯利 (Foxley)",
         "passives": [
-            "窃取增益：当该角色施放其特殊技能时，有 50% 的几率从一个带有增益的随机敌人身上窃取最新的可驱散增益。如果没有敌人带有增益，则对所有敌人造成 70% 的伤害。"
+            "Decreased Healing: All enemies get -50% healing."
         ]
     },
     {
         "originalIndex": 452,
+        "name": "弗朗辛 (Francine)",
+        "passives": [
+            "Steal Buff: When this character casts their Special Skill, they have a 50% chance to steal the newest dispellable buff from a random enemy that has buffs. If no enemy has buffs, deals 70% damage to all enemies."
+        ]
+    },
+    {
+        "originalIndex": 453,
+        "name": "弗朗辛 (Francine) C1",
+        "passives": [
+            "Steal Buff: When this character casts their Special Skill, they have a 50% chance to steal the newest dispellable buff from a random enemy that has buffs. If no enemy has buffs, deals 70% damage to all enemies."
+        ]
+    },
+    {
+        "originalIndex": 454,
         "name": "弗丽嘉 (Frigg)",
         "passives": []
     },
     {
-        "originalIndex": 453,
+        "originalIndex": 455,
         "name": "弗丽嘉 (Frigg) C1",
         "passives": []
     },
     {
-        "originalIndex": 454,
+        "originalIndex": 456,
         "name": "青蛙王子 (Frog Prince)",
         "passives": []
     },
     {
-        "originalIndex": 455,
+        "originalIndex": 457,
         "name": "伏榕德 (Frond)",
         "passives": [
-            "抵抗特殊技能格挡：该角色天生对格挡特殊技能的状态异常有抵抗能力。",
-            "毁灭核心：该角色的构造核心是毁灭核心。毁灭核心在该角色每次施放特殊技能时激活：",
-            "* 当毁灭核心完全充能时，对所有敌人造成 180% 的伤害。",
-            "* 伤害量根据核心的充能程度计算，核心激活时消耗所有充能。"
-        ]
-    },
-    {
-        "originalIndex": 456,
-        "name": "香菇斯丁 (Fungustine)",
-        "passives": [
-            "被击败时召唤史莱姆小兵：当该角色被击败时，为附近的盟友召唤继承其 50% 生命值和 40% 攻击力的史莱姆巨大体型小兵。",
-            "史莱姆小兵分裂：如果该角色一次性失去超过 25% 的最大生命值，会为自己召唤一个继承其 50% 生命值和 40% 攻击力的史莱姆巨大体型小兵。"
-        ]
-    },
-    {
-        "originalIndex": 457,
-        "name": "加拉帕戈 (Galapago)",
-        "passives": [
-            "特殊技能效果：当该角色施放其特殊技能时，有 50% 几率执行以下操作：",
-            "* 对所有敌人造成 80% 的伤害。",
-            "* 所有队友获得 +21% 的暴击率，持续 2 回合。",
-            "抵抗狂乱：该角色天生对狂乱有抵抗能力。"
+            "Resist Special Skill Blocking: This character has innate resistance against status ailments that block Special Skill.",
+            "Destructive Core: The Construct Core of this character is Destructive Core. The Destructive Core activates each time this character’s Special Skill is cast: * With fully charged Destructive Core, deals 180% damage to all enemies. * The damage is scaled by the amount of charge in the Core. All charge is exchausted when the Core is activated."
         ]
     },
     {
         "originalIndex": 458,
-        "name": "加拉帕戈 (Galapago) C1",
+        "name": "香菇斯丁 (Fungustine)",
         "passives": [
-            "特殊技能效果：当该角色施放其特殊技能时，有 50% 几率执行以下操作：",
-            "* 对所有敌人造成 80% 的伤害。",
-            "* 所有队友获得 +21% 的暴击率，持续 2 回合。",
-            "抵抗狂乱：该角色天生对狂乱有抵抗能力。"
+            "Slime Minion Upon Defeat: When this character is defeated, they summon Slime Mega Minions to nearby allies with 50% HP and 40% attack inherited from this character.",
+            "Slime Minion Split: If this character loses more than 25% of max health at once, they summon a Slime Mega Minion for themselves with 50% HP and 40% attack."
         ]
     },
     {
         "originalIndex": 459,
-        "name": "卡加莫 (Garjammal)",
+        "name": "加拉帕戈 (Galapago)",
         "passives": [
-            "减少异常持续时间：该角色从特殊技能中收到的前 3 个状态异常的持续时间减少 1 回合。"
+            "Effects on Special Skill: 50% chance to perform the following actions when this character casts their Special Skill",
+            " * Deals 80% damage to all enemies.",
+            " * All allies get +21% critical chance for 2 turns.",
+            "Resist Insanity: This character has innate resistance against Insanity."
         ]
     },
     {
         "originalIndex": 460,
-        "name": "卡加莫 (Garjammal) C1",
+        "name": "加拉帕戈 (Galapago) C1",
         "passives": [
-            "减少异常持续时间：该角色从特殊技能中收到的前 3 个状态异常的持续时间减少 1 回合。",
-            "对生命加成目标造成更高伤害：在该角色施放特殊技能后，所有盟友对具有生命加成的目标造成的普通攻击和特殊技能伤害提高 +70%，持续 4 回合。"
+            "Effects on Special Skill: 50% chance to perform the following actions when this character casts their Special Skill",
+            " * Deals 80% damage to all enemies.",
+            " * All allies get +21% critical chance for 2 turns.",
+            "Resist Insanity: This character has innate resistance against Insanity."
         ]
     },
     {
         "originalIndex": 461,
-        "name": "加滕 (Garten)",
+        "name": "卡加莫 (Garjammal)",
         "passives": [
-            "石像鬼的软化皮肤：每当此石像鬼施放特殊技能时，其软化皮肤会激活。接下来受到的 4 次伤害降低 -90%，并抵抗所有状态异常和法力削减。此效果无法被驱散。"
+            "Decrease Ailment Duration: Duration of the first 3 status ailments this character receives from Special Skill is decreased by 1 turn."
         ]
     },
     {
         "originalIndex": 462,
-        "name": "杰勒 (Gelert)",
+        "name": "卡加莫 (Garjammal) C1",
         "passives": [
-            "特殊技能效果：当该角色施放其特殊技能时，有 50% 几率执行以下操作：",
-            "* 对所有敌人造成 80% 的伤害。",
-            "* 所有队友获得 +21% 的暴击率，持续 2 回合。"
+            "Decrease Ailment Duration: Duration of the first 3 status ailments this character receives from Special Skill is decreased by 1 turn.",
+            "Increased Damage Against Boosted Health: After Special Skill cast, all allies' normal attacks and Special Skills deal +70% damage against targets with boosted health for 4 turns."
         ]
     },
     {
         "originalIndex": 463,
-        "name": "杰勒 (Gelert) C1",
+        "name": "加滕 (Garten)",
         "passives": [
-            "特殊技能效果：当该角色施放其特殊技能时，有 50% 几率执行以下操作：",
-            "* 对所有敌人造成 80% 的伤害。",
-            "* 所有队友获得 +21% 的暴击率，持续 2 回合。",
-            "抵抗狂乱：该角色天生对狂乱有抵抗能力。"
+            "Gargoile’s Softskin: Every time this Gargoyle casts a Special Skill, their Softskin activates. The next 4 times they receive damage, it is reduced by -90%, and they resist all status ailment and mana reduction. This effect can’t be dispelled."
         ]
     },
     {
         "originalIndex": 464,
-        "name": "金姬 (Ginger)",
-        "passives": []
+        "name": "杰勒 (Gelert)",
+        "passives": [
+            "Effects on Special Skill: 50% chance to perform the following actions when this character casts their Special Skill",
+            " * Deals 80% damage to all enemies.",
+            " * All allies get +21% critical chance for 2 turns."
+        ]
     },
     {
         "originalIndex": 465,
-        "name": "戈弗雷 (Godfrey)",
+        "name": "杰勒 (Gelert) C1",
         "passives": [
-            "抵抗法力削减：该角色天生对法力削减有抵抗能力。",
-            "守卫集结：每 4 回合，移除所有盟友身上的衰退效果。"
+            "Effects on Special Skill: 50% chance to perform the following actions when this character casts their Special Skill",
+            " * Deals 80% damage to all enemies.",
+            " * All allies get +21% critical chance for 2 turns.",
+            "Resist Insanity: This character has an innate resistance against Insanity."
         ]
     },
     {
         "originalIndex": 466,
-        "name": "古利安 (Goorian)",
-        "passives": [
-            "被击败时召唤史莱姆小兵：当该角色被击败时，为附近的盟友召唤继承其 50% 生命值和 40% 攻击力的史莱姆巨大体型小兵。",
-            "史莱姆小兵分裂：如果该角色一次性失去超过 25% 的最大生命值，会为自己召唤一个继承其 50% 生命值和 40% 攻击力的史莱姆巨大体型小兵。"
-        ]
+        "name": "金姬 (Ginger)",
+        "passives": []
     },
     {
         "originalIndex": 467,
-        "name": "格蕾丝 (Grace)",
+        "name": "戈弗雷 (Godfrey)",
         "passives": [
-            "抵抗燃烧：该角色天生对燃烧有抵抗能力。",
-            "嘲讽时获得法力：每当敌人获得嘲讽状态效果时，该角色的法力增加 10%。"
+            "Resist Mana reduction: This character has an innate resistance against mana Reduction.",
+            "Guard Rally: Every 4 turns, removes all Wither effects from all allies."
         ]
     },
     {
         "originalIndex": 468,
+        "name": "古利安 (Goorian)",
+        "passives": [
+            "Slime Minion Upon Defeat: When this character is defeated, they summon Slime Mega Minions to nearby allies with 50% HP and 40% attack inherited from this character.",
+            "Slime Minion Split: If this character loses more than 25% of max health at once, they summon a Slime Mega Minion for themselves with 50% HP and 40% attack."
+        ]
+    },
+    {
+        "originalIndex": 469,
+        "name": "格蕾丝 (Grace)",
+        "passives": [
+            "Resist Burn: This character has innate resistance against Burn.",
+            "Mana on Taunt: Each time an enemy receives a Taunt status effect this character’s mana is increased by 10%."
+        ]
+    },
+    {
+        "originalIndex": 470,
         "name": "绿骑士 (Green Knight)",
         "passives": []
     },
     {
-        "originalIndex": 469,
+        "originalIndex": 471,
         "name": "格雷戈里恩 (Gregorion)",
         "passives": []
     },
     {
-        "originalIndex": 470,
+        "originalIndex": 472,
         "name": "格雷戈里恩 (Gregorion) C1",
         "passives": [
-            "特殊技能驱散：当该角色施放其特殊技能时，会驱散所有敌人身上最新的状态效果增益。"
-        ]
-    },
-    {
-        "originalIndex": 471,
-        "name": "格伦德尔 (Grendel)",
-        "passives": [
-            "完美精准度：该角色的特殊技能必定命中目标。",
-            "强化抵抗法力削减：该角色天生对法力削减有抵抗能力。每次抵抗时还会获得 600 点生命加成和 10% 的法力。",
-            "受到伤害时获得攻击力叠加：当该角色受到特殊技能伤害时，获得 +30% 的攻击力叠加（最多 10 层）。每回合可叠加一层。"
-        ]
-    },
-    {
-        "originalIndex": 472,
-        "name": "格罗沃特 (Grovevert)",
-        "passives": [
-            "闪避特殊技能伤害：该角色有 15% 的几率闪避造成伤害的特殊技能。"
+            "Dispel on Special Skill: When this character casts their Special Skill, they dispel the newest status effect buff from all enemies."
         ]
     },
     {
         "originalIndex": 473,
-        "name": "关羽 (Guan Yu)",
-        "passives": []
+        "name": "格伦德尔 (Grendel)",
+        "passives": [
+            "Perfect Accuracy: This character’s Special Skill never mises its target.",
+            "Empowered Resist Mana Reductions: This character has innate resistance against mana reduction. They also gain 600 boosted health and 10% mana each time they resist.",
+            "Stacking Attack On Damage Received: When this character receives damage from Special Skills, they gain +30% attack Stack (Max: 10). One Stack can be gained per turn."
+        ]
     },
     {
         "originalIndex": 474,
-        "name": "关羽 (Guan Yu) C1",
+        "name": "格罗沃特 (Grovevert)",
         "passives": [
-            "无法阻止的小兵：",
-            "* 抵抗小兵移除。",
-            "* 无法被阻止获得小兵。",
-            "* 小兵的攻击和技能无法被禁用。"
+            "Dodge Special Damage: This character has a 15% chance to dodge Special Skills that deal damage."
         ]
     },
     {
         "originalIndex": 475,
-        "name": "变色龙守护者 (Guardian Chameleon)",
+        "name": "关羽 (Guan Yu)",
         "passives": []
     },
     {
         "originalIndex": 476,
-        "name": "锤牙 (Hammertusk)",
+        "name": "关羽 (Guan Yu) C1",
         "passives": [
-            "特殊技能伤害减免：该角色有 10% 的几率将受到的特殊技能直接伤害降至 1 点。",
-            "特殊技能附带持续伤害：当该角色施放其特殊技能时，会给一个随机敌人施加猎人印记。目标在 3 回合内受到 150 点伤害。如果目标已有此效果，则持续时间刷新，伤害增加 150 点，总伤害最高可达 1500 点。"
+            "Unstoppable Minions:",
+            " * Resistance against Minion removal.",
+            " * Can’t be prevented from receiving Minions.",
+            " * Minion attack and abilities can’t be disabled."
         ]
     },
     {
         "originalIndex": 477,
-        "name": "运输石 (Haulstone)",
-        "passives": [
-            "抵抗特殊技能格挡：该角色天生对格挡特殊技能的状态异常有抵抗能力。",
-            "修复核心：该角色的构造核心是修复核心。修复核心在该角色每次施放特殊技能时激活：",
-            "* 当修复核心完全充能时，为所有队友提升 25% 的生命值。",
-            "* 治疗量根据核心的充能程度计算，核心激活时消耗所有充能。"
-        ]
+        "name": "变色龙守护者 (Guardian Chameleon)",
+        "passives": []
     },
     {
         "originalIndex": 478,
+        "name": "锤牙 (Hammertusk)",
+        "passives": [
+            "Special Skill Damage Reduction: This character has a 10% chance to drop the direct damage received from Special Skills to 1.",
+            "Damage over Time on Special: When this character casts their Special Skill, they give a Hunter’s Mark on a random enemy. The target receives 150 damage over 3 turns. If a target already has this effect, the duration will be refreshed and the damage will be increased by 150, up to 1500 damage in total."
+        ]
+    },
+    {
+        "originalIndex": 479,
+        "name": "运输石 (Haulstone)",
+        "passives": [
+            "Resist Special Skill Blocking: This character has innate resistance against status ailments that block Special Skill.",
+            "Repair Core: The Construct Core of this character is Repair Core. The Repair Core activates each time this character’s Special Skill is cast: * With fully charged Repair Core, boosts the health of all allies by 25%. * The healing is scaled by the amount of charge in the Core, All charge is exchausted when the Core is activated."
+        ]
+    },
+    {
+        "originalIndex": 480,
         "name": "海姆达 (Heimdall)",
         "passives": []
     },
     {
-        "originalIndex": 479,
+        "originalIndex": 481,
         "name": "海姆达 (Heimdall) C1",
         "passives": []
     },
     {
-        "originalIndex": 480,
+        "originalIndex": 482,
         "name": "霍格火 (Horghall)",
         "passives": []
     },
     {
-        "originalIndex": 481,
+        "originalIndex": 483,
         "name": "霍格火 (Horghall) C1",
         "passives": []
     },
     {
-        "originalIndex": 482,
+        "originalIndex": 484,
         "name": "霍格火 (Horghall) C2",
         "passives": []
     },
     {
-        "originalIndex": 483,
+        "originalIndex": 485,
         "name": "霍格火 (Horghall) 卡通",
         "passives": [
-            "卡通：额外 75% 几率抵抗所有状态异常、法力削减和增益驱散。"
-        ]
-    },
-    {
-        "originalIndex": 484,
-        "name": "亨伯特 (Humbert)",
-        "passives": [
-            "受到增益时恢复生命：该角色在获得增益或正面效果叠加时恢复 5% 的生命值。"
-        ]
-    },
-    {
-        "originalIndex": 485,
-        "name": "伊古·杜尔索 (Iku-Turso)",
-        "passives": [
-            "西苏之力：当该角色在战斗中首次以低生命值开始回合时，他们会恢复 15% 的生命值并获得 15% 的法力。"
+            "Toon: 75% extra chance to resist all status ailments, mana reductions and buff dispels."
         ]
     },
     {
         "originalIndex": 486,
-        "name": "伊藤 (Ito)",
+        "name": "亨伯特 (Humbert)",
         "passives": [
-            "降低小兵生命值：敌方小兵被召唤时继承的生命值减少 -50%。"
+            "Health Recovery on Buff Received: This character recovers 5% health when  they receive a buff or a positive stack."
         ]
     },
     {
         "originalIndex": 487,
+        "name": "伊古·杜尔索 (Iku-Turso)",
+        "passives": [
+            "Power of Sisu: When this character starts a turn with low health for the first time during a battle, they recover 15% health and receive 15% mana."
+        ]
+    },
+    {
+        "originalIndex": 488,
+        "name": "伊藤 (Ito)",
+        "passives": [
+            "Decreased Minion Health: Enemy Minions inherit -50% less health when summoned."
+        ]
+    },
+    {
+        "originalIndex": 489,
         "name": "碧玉 (Jade)",
         "passives": []
     },
     {
-        "originalIndex": 488,
+        "originalIndex": 490,
         "name": "卡迪雷恩 (Kadilen)",
         "passives": []
     },
     {
-        "originalIndex": 489,
+        "originalIndex": 491,
         "name": "卡迪雷恩 (Kadilen) C1",
         "passives": []
     },
     {
-        "originalIndex": 490,
+        "originalIndex": 492,
         "name": "卡迪雷恩 (Kadilen) C2",
         "passives": []
     },
     {
-        "originalIndex": 491,
+        "originalIndex": 493,
         "name": "卡迪雷恩 (Kadilen) 卡通",
         "passives": [
-            "卡通：额外 75% 几率抵抗所有状态异常、法力削减和增益驱散。"
-        ]
-    },
-    {
-        "originalIndex": 492,
-        "name": "凯 (Kai)",
-        "passives": [
-            "特殊技能附带持续伤害：当该角色施放其特殊技能时，会给一个随机敌人施加猎人印记。目标在 3 回合内受到 150 点伤害。如果目标已有此效果，则持续时间刷新，伤害增加 150 点，总伤害最高可达 1500 点。",
-            "特殊技能伤害减免：该角色有 10% 的几率将受到的特殊技能直接伤害降至 1 点。"
-        ]
-    },
-    {
-        "originalIndex": 493,
-        "name": "金士顿 (Kingston)",
-        "passives": [
-            "抵抗燃烧：该角色天生对燃烧有抵抗能力。"
+            "Toon: 75% extra chance to resist all status ailments, mana reductions and buff dispels."
         ]
     },
     {
         "originalIndex": 494,
-        "name": "柯利亚 (Kolya)",
+        "name": "凯 (Kai)",
         "passives": [
-            "抵抗法力削减：该角色天生对法力削减有抵抗能力。",
-            "守卫集结：每 4 回合，移除所有盟友身上的衰退效果。"
+            "Damage over Time on Special: When this character casts their Special Skill, they give a Hunter’s Mark on a random enemy. The target receives 150 damage over 3 turns. If a target already has this effect, the duration will be refreshed and the damage will be increased by 150, up to 1500 damage in total.",
+            "Special Skill Damage Reduction: This character has a 10% chance to drop the direct damage received from Special Skills to 1."
         ]
     },
     {
         "originalIndex": 495,
-        "name": "洛克小姐 (Lady Locke)",
-        "passives": []
+        "name": "金士顿 (Kingston)",
+        "passives": [
+            "Resist Burn: The character has an innate resistance against Burn."
+        ]
     },
     {
         "originalIndex": 496,
-        "name": "洛克小姐 (Lady Locke) C1",
+        "name": "柯利亚 (Kolya)",
         "passives": [
-            "特殊技能附带剧毒：当该角色施放其特殊技能时，所有敌人会在 4 回合内受到 540 点剧毒伤害。"
+            "Resist Mana reduction: This character has an innate resistance against mana Reduction.",
+            "Guard Rally: Every 4 turns, removes all Wither effects from all allies."
         ]
     },
     {
         "originalIndex": 497,
-        "name": "圣湖女神 (Lady of the Lake)",
+        "name": "洛克小姐 (Lady Locke)",
         "passives": []
     },
     {
         "originalIndex": 498,
+        "name": "洛克小姐 (Lady Locke) C1",
+        "passives": [
+            "Poison on Special Skill: When this character casts their Special Skill, all enemies receive 540 Poison damage over 4 turns."
+        ]
+    },
+    {
+        "originalIndex": 499,
+        "name": "圣湖女神 (Lady of the Lake)",
+        "passives": []
+    },
+    {
+        "originalIndex": 500,
         "name": "圣湖女神 (Lady of the Lake) C1",
         "passives": []
     },
     {
-        "originalIndex": 499,
+        "originalIndex": 501,
         "name": "丽德里娅 (Leadria)",
         "passives": [
-            "抵抗最大生命值削减：该角色天生对最大生命值削减有抵抗能力。",
-            "小兵死亡时提升生命值：当该角色拥有的小兵被摧毁时，该角色恢复 50 点生命加成。"
-        ]
-    },
-    {
-        "originalIndex": 500,
-        "name": "叶拂 (Leafwhisk)",
-        "passives": [
-            "特殊技能效果：当该角色施放其特殊技能时，有 50% 几率执行以下操作。",
-            "* 对所有敌人造成 90% 的伤害。",
-            "* 所有敌人获得 -25% 的精准度，持续 3 回合。"
-        ]
-    },
-    {
-        "originalIndex": 501,
-        "name": "雷奥妮 (Leonie)",
-        "passives": [
-            "九条命：",
-            "* 被击败时，该角色有 80% 的几率在下一回合开始时以 50% 的生命值和 80% 的法力复活。",
-            "* 最多激活 9 次。每次激活后复活几率降低。无法被被动技能的状态异常阻止。",
-            "特质：轻盈体态。",
-            "该角色不受增加或减少防御的效果影响。",
-            "这包括：",
-            "* - 状态效果增益和异常。",
-            "* - 正面和负面叠加。",
-            "* - 成长和衰退效果。"
+            "Resist Max Health Reduction: This character has innate resistance against max health reduction.",
+            "Boosted Health From Dead Minion: This character recovers 50 boosted health when a minion owned by them is destroyed."
         ]
     },
     {
         "originalIndex": 502,
+        "name": "叶拂 (Leafwhisk)",
+        "passives": [
+            "Effects on Special Skill: 50% chance to perform the following actions when this character casts their Special Skill.",
+            " * Deals 90% damage to all enemies.",
+            " * All enemies get -25% accuracy for 3 turns."
+        ]
+    },
+    {
+        "originalIndex": 503,
+        "name": "雷奥妮 (Leonie)",
+        "passives": [
+            "Nine Lives:",
+            " * When defeated this character has 80% chance to revive at the begining of their next turn with 50% health and 80% mana.",
+            " * Activates up to 9 times. Chance to revive is reduced on each activation. Can’t be prevented with status ailments on Passive Skills.",
+            "Trait: Lithe Frame",
+            "This character is not affect by effects that increase or reduce defense.",
+            "This includes:",
+            " * - Status effect buffs and ailments.",
+            " * - Positive and negative stacks.",
+            " * - Growth and Wither effects."
+        ]
+    },
+    {
+        "originalIndex": 504,
         "name": "丽阿娜 (Lianna)",
         "passives": []
     },
     {
-        "originalIndex": 503,
+        "originalIndex": 505,
         "name": "丽阿娜 (Lianna) C1",
         "passives": []
     },
     {
-        "originalIndex": 504,
+        "originalIndex": 506,
         "name": "丽阿娜 (Lianna) C2",
         "passives": []
     },
     {
-        "originalIndex": 505,
+        "originalIndex": 507,
         "name": "丽阿娜 (Lianna) 卡通",
         "passives": [
-            "卡通：额外 75% 几率抵抗所有状态异常、法力削减和增益驱散。"
-        ]
-    },
-    {
-        "originalIndex": 506,
-        "name": "丽阿娜 (Lianna) 玻璃",
-        "passives": [
-            "玻璃：额外 60% 几率将状态异常反弹给攻击者。"
-        ]
-    },
-    {
-        "originalIndex": 507,
-        "name": "莱姆博尔 (Limeboire)",
-        "passives": [
-            "闪避特殊技能伤害：该角色有 15% 的几率闪避造成伤害的特殊技能。"
+            "Toon: 75% extra chance to resist all status ailments, mana reductions and buff dispels."
         ]
     },
     {
         "originalIndex": 508,
-        "name": "刘备 (Liu Bei)",
-        "passives": []
+        "name": "丽阿娜 (Lianna) 玻璃",
+        "passives": [
+            "Glass: 60% extra chance to reflect status ailments back to the attacker."
+        ]
     },
     {
         "originalIndex": 509,
-        "name": "刘备 (Liu Bei) C1",
+        "name": "莱姆博尔 (Limeboire)",
         "passives": [
-            "无法阻止的小兵：",
-            "* 抵抗小兵移除。",
-            "* 无法被阻止获得小兵。",
-            "* 小兵的攻击和技能无法被禁用。"
+            "Dodge Special Damage: This character has a 15% chance to dodge Special Skills that deal damage."
         ]
     },
     {
         "originalIndex": 510,
-        "name": "鲁海德 (Lughaidh)",
-        "passives": [
-            "特殊技能伤害减免：该角色受到的特殊技能伤害降低 -20%。"
-        ]
+        "name": "刘备 (Liu Bei)",
+        "passives": []
     },
     {
         "originalIndex": 511,
-        "name": "鲁海德 (Lughaidh) C1",
+        "name": "刘备 (Liu Bei) C1",
         "passives": [
-            "特殊技能伤害减免：该角色受到的特殊技能伤害降低 -20%。",
-            "特殊技能提升生命值：当该角色施放其特殊技能时，为所有队友提升 10% 的生命值。"
+            "Unstoppable Minions:",
+            " * Resistance against Minion removal.",
+            " * Can’t be prevented from receiving Minions.",
+            " * Minion attack and abilities can’t be disabled."
         ]
     },
     {
         "originalIndex": 512,
-        "name": "玛阿特 (Ma'at)",
+        "name": "鲁海德 (Lughaidh)",
         "passives": [
-            "特殊技能效果：当该角色施放其特殊技能时，有 50% 几率执行以下操作：",
-            "* 对所有敌人造成 70% 的伤害。",
-            "* 所有敌人获得 -34% 的攻击力，持续 3 回合。"
+            "Special Skill Damage Reduction: Received damage from Special Skills is  reduced by -20% for this character."
         ]
     },
     {
         "originalIndex": 513,
-        "name": "玛阿特 (Ma'at) C1",
+        "name": "鲁海德 (Lughaidh) C1",
         "passives": [
-            "特殊技能效果：当该角色施放其特殊技能时，有 50% 几率执行以下操作：",
-            "* 对所有敌人造成 70% 的伤害。",
-            "* 所有敌人获得 -34% 的攻击力，持续 3 回合。",
-            "特殊技能额外效果几率：当该角色施放其特殊技能时，其任何提供额外施法效果的被动技能都有 3 次激活机会。",
-            "敌方施放生命加成特殊技能时获得法力：每当敌人施放直接提升生命值的特殊技能时，该角色获得 5% 的法力。"
+            "Special Skill Damage Reduction: Received damage from Special Skills is reduced by -20% for this character.",
+            "Boost Health on Special Skill: When this characters casts their Special Skill, they boost the health of all their allies by 10%."
         ]
     },
     {
         "originalIndex": 514,
-        "name": "麦戈文 (Maegwyn)",
+        "name": "玛阿特 (Ma'at)",
         "passives": [
-            "特殊技能摧毁恶魔：当该角色施放其特殊技能时，其身上的所有恶魔都会被摧毁。",
-            "进阶抵抗负面小兵效果：该角色天生对来自小兵和巨大体型小兵的负面效果及伤害有抵抗能力。",
-            "抵抗治疗异常：该角色天生对影响治疗的状态异常有抵抗能力。"
+            "Effects on Special Skill: 50% chance to perform the following actions when this character casts their Special Skill:",
+            " * Deals 70% damage to all enemies.",
+            " * All enemies get -34% attack for 3 turns."
         ]
     },
     {
         "originalIndex": 515,
-        "name": "玛格丽特 (Margaret)",
+        "name": "玛阿特 (Ma'at) C1",
         "passives": [
-            "抵抗驱散：该角色天生对增益驱散有抵抗能力。"
+            "Effects on special skill: 50% chance to perform the following actions when this character casts their Special Skill:",
+            " * Deals 70% damage to all enemies.",
+            " * All enemies get -34% attack for 3 turns.",
+            "Extra Chance for Effects on Special Skill: When this character casts their  Special Skill, any of their Passive Skills that grant extra effects on cast have 3 chances to activate.",
+            "Mana on Health Boosting Special Skill: This character gains 5% mana each time an enemy casts a Special Skill that directly boosts health."
         ]
     },
     {
         "originalIndex": 516,
-        "name": "麦克思 (Max)",
+        "name": "麦戈文 (Maegwyn)",
         "passives": [
-            "萌宠之怒：当恶魔被召唤到任何敌人身上时，该角色对所有敌人造成 85% 的伤害。此效果每回合只能激活一次。",
-            "魔宠之友：当小兵被召唤到任何盟友身上时，该角色获得 5% 的生命值和 5% 的法力。此效果每回合只能激活一次。"
+            "Destroy Fiends on Special: When this character casts their Special Skill, all fiends are destroyed from them.",
+            "Superior Resist Negative Minion Effects: This character has innate resistance against incoming negative effects and damage from Minions and Mega Minions.",
+            "Resist Healing Ailments: This character has innate resistance against status ailments that affect healing."
         ]
     },
     {
         "originalIndex": 517,
-        "name": "马佐加 (Mazoga)",
+        "name": "玛格丽特 (Margaret)",
         "passives": [
-            "抵抗水系伤害：该角色天生对水系伤害有抵抗能力。",
-            "特殊技能附带持续伤害：当该角色施放其特殊技能时，所有敌人会在 2 回合内受到 254 点水系伤害。"
+            "Resist Dispels: This character has an innate ability to resist dispels of buffs."
         ]
     },
     {
         "originalIndex": 518,
-        "name": "米纳 (Mena)",
+        "name": "麦克思 (Max)",
         "passives": [
-            "石像鬼的软化皮肤：每当此石像鬼施放特殊技能时，其软化皮肤会激活。接下来受到的 3 次伤害降低 -90%，并抵抗所有状态异常和法力削减。此效果无法被驱散。"
+            "Wrath of Pets: When a Fiend is summoned to any enemy, this character deals 85% damage to all enemies. This effect can activate only once per turn.",
+            "Friend of the Familiars: When a Minion is summoned to any ally, this character gains 5% health and 5% mana. This effect can activate only once per turn."
         ]
     },
     {
         "originalIndex": 519,
-        "name": "布雾者 (Mistweaver)",
+        "name": "马佐加 (Mazoga)",
         "passives": [
-            "特殊技能附带持续伤害：当该角色施放其特殊技能时，会给一个随机敌人施加猎人印记。目标在 3 回合内受到 150 点伤害。如果目标已有此效果，则持续时间刷新，伤害增加 150 点，总伤害最高可达 1500 点。",
-            "猎人之毅：当该角色施放其特殊技能时，获得 +20% 的攻击力，持续 3 回合。此效果可与其他改变攻击力的效果并存。"
+            "Resist Water Damage: This character has innate resistance against Water Damage.",
+            "Damage over time on Special: When this character casts their Special Skill, all enemies receive 254 Water damage over 2 turns."
         ]
     },
     {
         "originalIndex": 520,
-        "name": "月之花 (Moonflower)",
+        "name": "米纳 (Mena)",
         "passives": [
-            "抵抗剧毒：该角色天生对剧毒有抵抗能力。",
-            "分摊所受伤害：该角色所受伤害的 20% 将由其他盟友分摊。"
+            "Gargoile’s Softskin: Every time this Gargoyle casts a Special Skill, their Softskin activates. The next 3 times they receive damage, it is reduced by -90%, and they resist all status ailment and mana reduction. This effect can’t be dispelled."
         ]
     },
     {
         "originalIndex": 521,
+        "name": "布雾者 (Mistweaver)",
+        "passives": [
+            "Damage Over Time on Special: When this character casts their Special Skill, they give a Hunter’s Mark on a random enemy. The target receives 150 damage over 3 turns. If a target already has this effect, the duration will be refreshed and the damage will be increased with 150, up to 1500 damage in total.",
+            "Hunter’s Vigor: When this character casts their Special Skill, they get +20% attack for 3 turns. This effect can be active in addition to other effects that alter attack."
+        ]
+    },
+    {
+        "originalIndex": 522,
+        "name": "月之花 (Moonflower)",
+        "passives": [
+            "Resist Poison: This character has innate resistance against Poison.",
+            "Share Received Damage: 20% of damage received by this charater is shared with other allies."
+        ]
+    },
+    {
+        "originalIndex": 523,
         "name": "摩根勒菲 (Morgan Le Fay)",
         "passives": []
     },
     {
-        "originalIndex": 522,
+        "originalIndex": 524,
         "name": "北方之母 (Mother North)",
         "passives": []
     },
     {
-        "originalIndex": 523,
+        "originalIndex": 525,
         "name": "北方之母 (Mother North) C1",
         "passives": []
     },
     {
-        "originalIndex": 524,
+        "originalIndex": 526,
         "name": "马克特司 (Mucktus)",
         "passives": [
-            "被击败时召唤史莱姆小兵：当该角色被击败时，为附近的盟友召唤继承其 50% 生命值和 40% 攻击力的史莱姆巨大体型小兵。",
-            "史莱姆小兵分裂：如果该角色一次性失去超过 25% 的最大生命值，会为自己召唤一个继承其 50% 生命值和 40% 攻击力的史莱姆巨大体型小兵。"
-        ]
-    },
-    {
-        "originalIndex": 525,
-        "name": "妙印尼 (Myoin-ni)",
-        "passives": []
-    },
-    {
-        "originalIndex": 526,
-        "name": "米斯蒂亚 (Mystia)",
-        "passives": [
-            "抵抗特殊技能格挡：该角色天生对格挡特殊技能的状态异常有抵抗能力。",
-            "无视嘲讽：该角色的特殊技能不受嘲讽影响。"
+            "Slime Minion Upon Defeat: When this character is defeated, they summon Slime Mega Minions to nearby allies with 50% HP and 40% attack inherited from this character.",
+            "Slime Minion Split: If this character loses more than 25% of max health at once, they summon a Slime Mega Minion for themselves with 50% HP and 40% attack."
         ]
     },
     {
         "originalIndex": 527,
-        "name": "诺古 (Nogu)",
-        "passives": [
-            "受到状态异常时获得法力增益：持有此技能的角色在受到任何状态异常或负面效果叠加时，获得 +24% 的法力生成，持续 3 回合。",
-            "敌方施放生命加成特殊技能时获得法力：每当敌人施放直接提升生命值的特殊技能时，该角色获得 10% 的法力。",
-            "敌方获得生命加成时自身亦获得生命加成：每当敌人施放直接提升生命值的特殊技能时，该角色获得 450 点生命加成。"
-        ]
+        "name": "妙印尼 (Myoin-ni)",
+        "passives": []
     },
     {
         "originalIndex": 528,
-        "name": "奥特 (Ott)",
+        "name": "米斯蒂亚 (Mystia)",
         "passives": [
-            "强化抵抗燃烧：该角色天生对燃烧有抵抗能力，并且每次抵抗时获得 450 点生命加成和 5% 的法力。",
-            "熔岩核心。该角色拥有一个熔岩核心。",
-            "熔岩核心在该角色每次施放特殊技能时激活：",
-            "* 所有敌人受到腐蚀燃烧效果，持续 3 回合。当熔岩核心完全充能时，腐蚀燃烧造成 305 点燃烧伤害，并每回合降低目标 -12% 的防御力。对拥有小兵或巨大体型小兵的英雄造成额外伤害。",
-            "* 燃烧伤害量根据核心的充能程度计算，核心激活时消耗所有充能。"
+            "Resist Special Skill Blocking: This character has innate resistance against status ailments that block Special Skills.",
+            "Ignore Taunt: This character’s Special Skill is not affected by Taunt."
         ]
     },
     {
         "originalIndex": 529,
-        "name": "珀涅罗珀 (Penelope)",
-        "passives": []
+        "name": "诺古 (Nogu)",
+        "passives": [
+            "Mana Buff on Status Ailment Received: Receives +24% mana generation for 3  turns when this character receives a status ailment or a negative stack.",
+            "Mana on Health Boosting Special Skill: This character gains 10% mana each  time an enemy casts a Special Skill that directly boosts health.",
+            "Health Boost on Enemy Health Boost: This character gets 450 boosted health  each time an enemy casts a Special Skill that directly boosts health."
+        ]
     },
     {
         "originalIndex": 530,
-        "name": "裴雷格林 (Peregrine)",
+        "name": "奥特 (Ott)",
         "passives": [
-            "致盲小兵：所有敌方小兵拥有 -60% 精准度。所有敌方超级小兵拥有 -50% 精准度。",
-            "抵抗狂乱：该角色天生对狂乱有抵抗能力。",
-            "抵抗攻击力削减：该角色天生对影响攻击力的状态异常、叠加和衰退效果有抵抗能力。"
+            "Empowered Resist Burn: This character has innate resistance against Burn and gains 450 boosted health and 5% mana each time they resist.",
+            "Molten Core. This character has a Molten Core.",
+            "The Molten Core activates each time this character’s Special Skill is cast:",
+            " * All enemies receive Corrosive Burn for 3 turns. With a fully charged Molten Core, the Corrosive Burn deals 305 Burn damage, and lowers the target’s defense by -12% each turn. Deals extra damage against heroes with Minions or a Mega Minion.",
+            " * The Burn damage is scaled by the amount of charge in the Core. All charge is exhausted when the Core is activated."
         ]
     },
     {
         "originalIndex": 531,
-        "name": "珮绿朵 (Peridot)",
+        "name": "珀涅罗珀 (Penelope)",
         "passives": []
     },
     {
         "originalIndex": 532,
-        "name": "斐利亚·福格 (Phileas Fogg)",
+        "name": "裴雷格林 (Peregrine)",
         "passives": [
-            "特殊技能伤害减免：该角色受到的特殊技能伤害降低 -20%。"
+            "Minion Blind: All enemies’ Minions have -60% accuracy. All enemies’ Mega Minions have -50% accuracy.",
+            "Resist Insanity: This character has innate resistance against Insanity.",
+            "Resist Attack Reduction: This character has innate resistance against status ailments, stacks and Wither effects that affect attack."
         ]
     },
     {
         "originalIndex": 533,
-        "name": "斐利亚·福格 (Phileas Fogg) C1",
-        "passives": [
-            "特殊技能伤害减免：该角色受到的特殊技能伤害降低 -20%。",
-            "对生命加成目标造成更高伤害：在该角色施放特殊技能后，所有盟友对具有生命加成的目标造成的普通攻击和特殊技能伤害提高 +70%，持续 4 回合。"
-        ]
+        "name": "珮绿朵 (Peridot)",
+        "passives": []
     },
     {
         "originalIndex": 534,
-        "name": "皮普 (Pip)",
+        "name": "斐利亚·福格 (Phileas Fogg)",
         "passives": [
-            "抵抗法力削减：该角色天生对法力削减有抵抗能力。",
-            "守卫集结：每 4 回合，移除所有盟友身上的衰退效果。"
+            "Special Skill Damage Reduction: Received damage from Special Skills is reduced by -20% for this character."
         ]
     },
     {
         "originalIndex": 535,
-        "name": "齐格弗里德王子 (Prince Siegfried)",
+        "name": "斐利亚·福格 (Phileas Fogg) C1",
         "passives": [
-            "抵抗防御异常：该角色天生对影响防御的状态异常有抵抗能力。不适用于影响元素防御的状态异常。",
-            "状态异常失效或被清除时恢复生命：每当一个状态异常从该角色身上失效、被净化、移除或重新分配时，该角色会恢复 20% 的生命值。此效果每回合只能激活一次。"
+            "Special Skill Damage Reduction: Received damage from Special Skills is reduced by -20% for this character.",
+            "Increased Damage Against Boosted Health: After Special Skill cast, all allies' normal attacks and Special Skills deal +70% damage against targets with boosted health for 4 turns."
         ]
     },
     {
         "originalIndex": 536,
-        "name": "青龙 (Qinglong)",
+        "name": "皮普 (Pip)",
         "passives": [
-            "禁用小兵技能：所有敌方小兵的攻击和技能都被禁用。"
+            "Resist Mana reduction: This character has an innate resistance against mana Reduction.",
+            "Guard Rally: Every 4 turns, removes all Wither effects from all allies."
         ]
     },
     {
         "originalIndex": 537,
-        "name": "安娜王后 (Queen Anne)",
+        "name": "齐格弗里德王子 (Prince Siegfried)",
         "passives": [
-            "特殊技能造成伤害：当该角色受到特殊技能伤害或替处于掩护状态的角色承受伤害时，有 60% 的几率对所有敌人造成所受伤害 20% 的伤害。"
+            "Resist Defense Ailments: This character has innate resistance against status ailments that affect defense. Doesn’t apply to status ailments that affect elemental defense.",
+            "Heal when status ailment expires or is cleared: This character receives 20% health each time a status ailment expires or is cleansed, removed or reallocated from them. This effect can activate only once per turn."
         ]
     },
     {
         "originalIndex": 538,
-        "name": "奎奈尔 (Quenell)",
-        "passives": []
+        "name": "青龙 (Qinglong)",
+        "passives": [
+            "Disable Minion Abilities: Attacks and abilities of all Minions owned by enemies are disabled."
+        ]
     },
     {
         "originalIndex": 539,
-        "name": "奎奈尔 (Quenell) C1",
+        "name": "安娜王后 (Queen Anne)",
         "passives": [
-            "能力：延长状态效果持续时间。有机会延长所施放状态效果的持续时间。",
-            "* +1 回合： 75%",
-            "* +2 回合： 25%"
+            "Damage on Special Skill: When this character receives damage from Special Skills or in place of a character in Cover, there’s a 60% chance to deal 20% of the received damage to all enemies."
         ]
     },
     {
         "originalIndex": 540,
-        "name": "拉塔托斯克 (Ratatoskr)",
+        "name": "奎奈尔 (Quenell)",
         "passives": []
     },
     {
         "originalIndex": 541,
+        "name": "奎奈尔 (Quenell) C1",
+        "passives": [
+            "Ability: Increased Status Effect Duration. Chance to increase the duration of cast status effects.",
+            " * +1 turn: 75%",
+            " * +2 turns: 25%"
+        ]
+    },
+    {
+        "originalIndex": 542,
+        "name": "拉塔托斯克 (Ratatoskr)",
+        "passives": []
+    },
+    {
+        "originalIndex": 543,
         "name": "拉塔托斯克 (Ratatoskr) C1",
         "passives": []
     },
     {
-        "originalIndex": 542,
+        "originalIndex": 544,
         "name": "雷利乌斯 (Relius)",
         "passives": [
-            "降低通过特殊技能获得的法力：通过特殊技能增加的法力值降低 -80%。此效果对战场上的所有敌人生效。"
-        ]
-    },
-    {
-        "originalIndex": 543,
-        "name": "莱茵辉光 (Rhineglow)",
-        "passives": [
-            "抵抗特殊技能格挡：该角色天生对格挡特殊技能的状态异常有抵抗能力。",
-            "毁灭核心：该角色的构造核心是毁灭核心。毁灭核心在该角色每次施放特殊技能时激活：",
-            "* 当毁灭核心完全充能时，对所有敌人造成 180% 的伤害。",
-            "* 伤害量根据核心的充能程度计算，核心激活时消耗所有充能。"
-        ]
-    },
-    {
-        "originalIndex": 544,
-        "name": "罗兹 (Roz)",
-        "passives": [
-            "队伍大师：",
-            "作为攻击方角色的被动技能：该英雄的部队对较弱元素造成额外元素伤害。",
-            "- 造成的额外元素伤害： +100%",
-            "作为防守方角色的被动技能：该英雄受到来自较强元素部队的元素伤害减少。",
-            "- 受到的元素伤害： -10%"
+            "Reduce Mana Gain from Special Skills: Reduces the amount of mana increased by Special Skill by -80%. The effect applies to all enemies in the battle."
         ]
     },
     {
         "originalIndex": 545,
-        "name": "罗兹 (Roz) C1",
+        "name": "莱茵辉光 (Rhineglow)",
         "passives": [
-            "队伍大师：",
-            "作为攻击方角色的被动技能：该英雄的部队对较弱元素造成额外元素伤害。",
-            "- 造成的额外元素伤害： +150%",
-            "作为防守方角色的被动技能：该英雄受到来自较强元素部队的元素伤害减少。",
-            "- 受到的元素伤害： -25%"
+            "Resist Special Skill Blocking: This character has innate resistance against status ailments that block Special Skill.",
+            "Destructive Core: The Construct Core of this character is Destructive Core. The Destructive Core activates each time this character’s Special Skill is cast: * With fully charged Destructive Core, deals 180% damage to all enemies. * The damage is scaled by the amount of charge in the Core. All charge is  exchausted when the Core is activated."
         ]
     },
     {
         "originalIndex": 546,
-        "name": "萨迪 (Sadie)",
-        "passives": []
+        "name": "罗兹 (Roz)",
+        "passives": [
+            "Troop Mastery:",
+            "Passive Skill as attacking character: This hero’s Troops deal extra  elemental damage against weaker element.",
+            " - Dealt extra elemental damage: +100%",
+            "Passive Skill as defending character: This hero receives less elemental  damage from Troops of stronger element.",
+            " - Received elemental damage: -10%"
+        ]
     },
     {
         "originalIndex": 547,
-        "name": "沙悟净 (Sha Wujing)",
+        "name": "罗兹 (Roz) C1",
         "passives": [
-            "受到增益时获得法力：该角色在获得增益或正面效果叠加时，有 50% 的几率获得 10% 的法力。",
-            "受到增益时恢复生命：该角色在获得增益或正面效果叠加时，有 50% 的几率恢复 10% 的生命值。"
+            "Troop Mastery:",
+            "Passive Skill as attacking character: This hero’s Troops deal extra  elemental damage against weaker element.",
+            " - Dealt extra elemental damage: +150%",
+            "Passive Skill as defending character: This hero receives less elemental  damage from Troops of stronger element.",
+            " - Received elemental damage: -25%"
         ]
     },
     {
         "originalIndex": 548,
-        "name": "西尔瓦丽亚 (Silvaria)",
-        "passives": [
-            "抵抗小兵移除：该角色天生对小兵移除有抵抗能力。",
-            "燃烧时召唤：每当该角色受到燃烧状态异常时，会为自己召唤一个森林守护者小兵。森林守护者小兵继承该角色 40% 的生命值和 40% 的攻击力。"
-        ]
+        "name": "萨迪 (Sadie)",
+        "passives": []
     },
     {
         "originalIndex": 549,
-        "name": "巧舌妇 (Smarttongue)",
+        "name": "沙悟净 (Sha Wujing)",
         "passives": [
-            "特殊技能效果：当该角色施放其特殊技能时，有 50% 几率执行以下操作。",
-            "* 对所有敌人造成 90% 的伤害。",
-            "* 所有敌人获得 -25% 的精准度，持续 3 回合。"
+            "Mana on Buff Received: This character has a 50% chance to gain 10% mana when they receive a buff or possitive stack.",
+            "Health Recovery on Buff Received: This character has a 50% chance to recover 10% health when they receive a buff or possitve stack."
         ]
     },
     {
         "originalIndex": 550,
-        "name": "雪球 (Snowball)",
+        "name": "西尔瓦丽亚 (Silvaria)",
         "passives": [
-            "萌宠之怒：当恶魔被召唤到任何敌人身上时，该角色对所有敌人造成 85% 的伤害。此效果每回合只能激活一次。",
-            "魔宠之友：当小兵被召唤到任何盟友身上时，该角色获得 5% 的生命值和 5% 的法力。此效果每回合只能激活一次。"
+            "Resist Minion Removal: This character has innate resistance against Minion removal.",
+            "Summon on Burn: Each time this character receives a Burn status ailment, they summon a Forest Guardian Minion for themseles. Forest Guardian Minion inherits 40% HP and 40% atack from this character."
         ]
     },
     {
         "originalIndex": 551,
-        "name": "斯帕托依 (Spartoi)",
+        "name": "巧舌妇 (Smarttongue)",
         "passives": [
-            "特殊技能效果：",
-            "当该角色施放其特殊技能时，有 50% 几率执行以下操作：",
-            "* 对所有敌人造成 80% 的伤害。",
-            "* 施法者获得 +19% 的法力生成，持续 2 回合。"
+            "Effects on Special Skill: 50% chance to perform the following actions when this character casts their Special Skill.",
+            " * Deals 90% damage to all enemies.",
+            " * All enemies get -25% accuracy for 3 turns."
         ]
     },
     {
         "originalIndex": 552,
-        "name": "斯帕托依 (Spartoi) C1",
+        "name": "雪球 (Snowball)",
         "passives": [
-            "特殊技能效果：",
-            "当该角色施放其特殊技能时，有 50% 几率执行以下操作：",
-            "* 对所有敌人造成 80% 的伤害。",
-            "* 施法者获得 +19% 的法力生成，持续 2 回合。",
-            "抵抗狂乱：该角色天生对狂乱有抵抗能力。"
+            "Wrath of Pets: When a Fiend is summoned to any enemy, this character deals  85% damage to all enemies. This effect can activate only once per turn.",
+            "Friend of the Familiars: When a Minion is summoned to any ally, this  character gains 5% health and 5% mana. This effect can activate only once  per turn."
         ]
     },
     {
         "originalIndex": 553,
-        "name": "斯皮夫 (Spiff)",
+        "name": "斯帕托依 (Spartoi)",
         "passives": [
-            "降低治疗量：所有敌人获得的治疗量降低 -50%。"
+            "Effects on Special Skill:",
+            "50% chance to perform the following actions when this character casts their Special Skill",
+            " * Deals 80% damage to all enemies.",
+            " * The caster gets +19% mana generation for 2 turns."
         ]
     },
     {
         "originalIndex": 554,
-        "name": "斯特因堂 (Staintongue)",
+        "name": "斯帕托依 (Spartoi) C1",
         "passives": [
-            "猎手感知：当该角色施放其特殊技能时，有 100% 的几率将自身最新的状态异常转移给目标。如果其特殊技能无法选择敌方目标，则会随机转移至一名敌人。若此角色没有状态异常，则恢复自身 12% 的生命。",
-            "特殊技能附带持续伤害：当该角色施放其特殊技能时，有 100% 的几率将自身最新的状态异常转移给目标。如果其特殊技能无法选择敌方目标，则会随机转移至一名敌人。若此角色没有状态异常，则恢复自身 5% 的生命。"
+            "Effects on Special Skill:",
+            "50% chance to perform the following actions when this character casts their Special Skill",
+            " * Deals 80% damage to all enemies.",
+            " * The caster gets +19% mana generation for 2 turns.",
+            "Resist Insanity: This character has innate resistance against Insanity."
         ]
     },
     {
         "originalIndex": 555,
-        "name": "星瞳 (Starlass)",
+        "name": "斯皮夫 (Spiff)",
         "passives": [
-            "抵抗剧毒：该角色天生对剧毒有抵抗能力。",
-            "分摊所受伤害：该角色所受伤害的 20% 将由其他盟友分摊。"
+            "Decreased Healing: All enemies get -50% healing."
         ]
     },
     {
         "originalIndex": 556,
-        "name": "苏涅 (Sune)",
+        "name": "斯特因堂 (Staintongue)",
         "passives": [
-            "特殊技能伤害减免：该角色有 10% 的几率将受到的特殊技能直接伤害降至 1 点。",
-            "特殊技能附带持续伤害：当该角色施放其特殊技能时，会给一个随机敌人施加猎人印记。目标在 3 回合内受到 150 点伤害。如果目标已有此效果，则持续时间刷新，伤害增加 150 点，总伤害最高可达 1500 点。"
+            "Hunter’s Sense: When this character casts their Special Skill, they have 100% chance to transfer the newest status ailment from themself to the target. If the Special Skill cannot target an enemy, a random enemy is chosen instead. If this character has no status ailments, they recover 12% health.",
+            "Damage over Time on Special: When this character casts their Special Skill, they have 100% chance to transfer the newest status ailment from themself to the target. If the Special Skill cannot target an enemy, a random enemy is chosen instead. If this character has no status ailments, they recover 5% health."
         ]
     },
     {
         "originalIndex": 557,
-        "name": "鳞梭鱼 (Suomuhauki)",
+        "name": "星瞳 (Starlass)",
         "passives": [
-            "西苏之力：当该角色在战斗中首次以低生命值开始回合时，他们会恢复 15% 的生命值并获得 15% 的法力。"
+            "Resist Poison: This character has innate resistance against Poison.",
+            "Share Received Damage: 20% of damage received by this charater is shared with other allies."
         ]
     },
     {
         "originalIndex": 558,
+        "name": "苏涅 (Sune)",
+        "passives": [
+            "Special Skill Damage Reduction: This character has a 10% chance to drop the direct damage received from Special Skills to 1.",
+            "Damage over Time on Special: When this character casts their Special Skill, they give a Hunter’s Mark on a random enemy. The target receives 150 damage over 3 turns. If a target already has this effect, the duration will be refreshed and the damage will be increased by 150, up to 1500 damage in total."
+        ]
+    },
+    {
+        "originalIndex": 559,
+        "name": "鳞梭鱼 (Suomuhauki)",
+        "passives": [
+            "Power of Sisu: When this character starts a turn with low health for the first time during a battle, they recover 15% health and receive 15% mana."
+        ]
+    },
+    {
+        "originalIndex": 560,
         "name": "为朝 (Tametomo)",
         "passives": []
     },
     {
-        "originalIndex": 559,
+        "originalIndex": 561,
         "name": "塔拉克 (Tarlak)",
         "passives": []
     },
     {
-        "originalIndex": 560,
+        "originalIndex": 562,
         "name": "塔拉克 (Tarlak) C1",
         "passives": []
     },
     {
-        "originalIndex": 561,
+        "originalIndex": 563,
         "name": "泰迪 (Teddy)",
         "passives": [
-            "受到增益时恢复生命：该角色在获得增益或正面效果叠加时恢复 5% 的生命值。"
-        ]
-    },
-    {
-        "originalIndex": 562,
-        "name": "特鲁利亚 (Telluria)",
-        "passives": [
-            "抵抗小兵移除：该英雄天生对小兵移除有抵抗能力。"
-        ]
-    },
-    {
-        "originalIndex": 563,
-        "name": "特罗纽斯 (Telonius)",
-        "passives": [
-            "特殊技能造成伤害：当该角色施放其特殊技能时，有 50% 的几率对所有敌人造成 100% 的伤害。如果特殊技能完全充能，则几率为 100%。",
-            "特殊技能叠加：当该角色施放其特殊技能时，所有敌人获得 -5% 的法力生成叠加。如果特殊技能完全充能，则所有敌人获得两层叠加。一个敌人最多可以有 10 层叠加。"
+            "Health Recovery on Buff Received: This character recovers 5% health when  they receive a buff or a positive stack."
         ]
     },
     {
         "originalIndex": 564,
-        "name": "疯帽子 (The Hatter)",
-        "passives": []
+        "name": "特鲁利亚 (Telluria)",
+        "passives": [
+            "Resist Minion Removal: The Hero has innate resistance against Minion Removal."
+        ]
     },
     {
         "originalIndex": 565,
-        "name": "疯帽子 (The Hatter) C1",
+        "name": "特罗纽斯 (Telonius)",
         "passives": [
-            "特殊技能附带莽夫乱拳：当该角色施放其特殊技能时，有 50% 的几率对一个随机敌人施加莽夫乱拳，持续 3 回合。"
+            "Damage on Special: When this character casts their Special Skill, they have a 50% chance to deal 100% damage to all enemies. If the Special Skill is fully charged, the chance is 100%.",
+            "Stack on Special: When this character casts their Special Skill, all enemies get -5% mana  generation stack. If the Special Skill is fully charged, all enemies get two stacks. An enemy can have up to 10 stacks."
         ]
     },
     {
         "originalIndex": 566,
-        "name": "狄奥多西 (Theodosius)",
-        "passives": [
-            "受到状态异常时获得法力：该角色在受到状态异常或负面效果叠加时获得 5% 的法力。",
-            "抵抗法力削减：该角色天生对法力削减有抵抗能力。",
-            "守卫集结：每 4 回合，移除所有盟友身上的衰退效果。"
-        ]
-    },
-    {
-        "originalIndex": 567,
-        "name": "托克斯坎德拉 (Toxicandra)",
+        "name": "疯帽子 (The Hatter)",
         "passives": []
     },
     {
-        "originalIndex": 568,
-        "name": "托克斯坎德拉 (Toxicandra) C1",
+        "originalIndex": 567,
+        "name": "疯帽子 (The Hatter) C1",
         "passives": [
-            "特殊技能附带诅咒：当该角色施放其特殊技能时，所有敌人受到 461 点诅咒伤害，持续 4 回合，伤害逐回合递增。"
+            "Mindless Attack on Special Skill: When this character casts their Special Skill, they have a 50% chance to give Mindless Attack for 3 turns to a random enemy."
+        ]
+    },
+    {
+        "originalIndex": 568,
+        "name": "狄奥多西 (Theodosius)",
+        "passives": [
+            "Mana on Status Ailment Received: This character gains 5% mana when they receive a status ailment or negative stack.",
+            "Resist Mana reduction: This character has an innate resistance against mana Reduction.",
+            "Guard Rally: Every 4 turns, removes all Wither effects from all allies."
         ]
     },
     {
         "originalIndex": 569,
-        "name": "万奈摩宁 (Vainamoinen)",
-        "passives": [
-            "西苏之力：当该角色在战斗中首次以低生命值开始回合时，他们会恢复 15% 的生命值并获得 15% 的法力。"
-        ]
+        "name": "托克斯坎德拉 (Toxicandra)",
+        "passives": []
     },
     {
         "originalIndex": 570,
-        "name": "万奈摩宁 (Vainamoinen) C1",
+        "name": "托克斯坎德拉 (Toxicandra) C1",
         "passives": [
-            "西苏之力：当该角色在战斗中首次以低生命值开始回合时，他们会恢复 15% 的生命值并获得 15% 的法力。"
+            "Curse on Special Skill: When this character casts their Special Skill, all enemies receive 461 Curse damage over 4 turns, starting low and increasing every turn."
         ]
     },
     {
         "originalIndex": 571,
-        "name": "维迪古 (Verdigoo)",
+        "name": "万奈摩宁 (Vainamoinen)",
         "passives": [
-            "被击败时召唤史莱姆小兵：当该角色被击败时，为附近的盟友召唤继承其 50% 生命值和 40% 攻击力的史莱姆巨大体型小兵。",
-            "史莱姆小兵分裂：如果该角色一次性失去超过 25% 的最大生命值，会为自己召唤一个继承其 50% 生命值和 40% 攻击力的史莱姆巨大体型小兵。"
+            "Power of Sisu: When this character starts a turn with low health for the first time during a battle, they recover 15% health and receive 15% mana."
         ]
     },
     {
         "originalIndex": 572,
-        "name": "韦鲁斯 (Verus)",
+        "name": "万奈摩宁 (Vainamoinen) C1",
         "passives": [
-            "降低通过特殊技能获得的法力：通过特殊技能增加的法力值降低 -80%。此效果对战场上的所有敌人生效。"
+            "Power of Sisu: When this character starts a turn with low health for the first time during a battle, they recover 15% health and receive 15% mana."
         ]
     },
     {
         "originalIndex": 573,
-        "name": "维赛勒斯 (Viselus)",
+        "name": "维迪古 (Verdigoo)",
         "passives": [
-            "抵抗剧毒：该角色天生对剧毒有抵抗能力。",
-            "中毒时提升生命值：每回合结束时，每有一个敌人处于剧毒状态，此角色和附近盟友的生命值便提高 2%。提高的生命值可以超过最大生命值。"
+            "Slime Minion Upon Defeat: When this character is defeated, they summon Slime Mega Minions to nearby allies with 50% HP and 40% attack inherited from this character.",
+            "Slime Minion Split: If this character loses more than 25% of max health at once, they summon a Slime Mega Minion for themselves with 50% HP and 40% attack."
         ]
     },
     {
         "originalIndex": 574,
-        "name": "威妮弗蕾德 (Winifred)",
+        "name": "韦鲁斯 (Verus)",
         "passives": [
-            "防御异常削减：将影响防御的异常状态效果降低 80%。此效果适用于该角色及其在战场上的所有盟友。"
+            "Reduce Mana Gain from Special Skills: Reduces the amount of mana increased by Special Skill by -80%. The effect applies to all enemies in the battle."
         ]
     },
     {
         "originalIndex": 575,
-        "name": "赞德瑞拉 (Xandrella)",
+        "name": "维赛勒斯 (Viselus)",
         "passives": [
-            "队伍大师：",
-            "作为攻击方角色的被动技能：该英雄的部队对较弱元素造成额外元素伤害。",
-            "- 造成的额外元素伤害： +100%",
-            "作为防守方角色的被动技能：该英雄受到来自较强元素部队的元素伤害减少。",
-            "- 受到的元素伤害： -10%"
+            "Resist Poison: This character has innate resistance against Poison.",
+            "Health Boost of Poison: Boosts health of this character and nearby allies by 2% for each enemy inflicted with Poison at the end of each turn. Boosted health can exceed max HP."
         ]
     },
     {
         "originalIndex": 576,
-        "name": "夏玛拉 (Xiamara)",
+        "name": "威妮弗蕾德 (Winifred)",
         "passives": [
-            "受到增益时恢复生命：该角色在获得增益或正面效果叠加时恢复 5% 的生命值。"
+            "Defense ailment reduction: Reduces the effect of defense ailments by 80%. The effect applies to this character and all its allies in the battle."
         ]
     },
     {
         "originalIndex": 577,
-        "name": "小青 (Xiaoqing)",
+        "name": "赞德瑞拉 (Xandrella)",
         "passives": [
-            "禁用小兵技能：所有敌方小兵的攻击和技能都被禁用。"
+            "Troop Mastery:",
+            "Passive Skill as attacking character: This hero’s Troops deal extra  elemental damage against weaker element.",
+            " - Dealt extra elemental damage: +100%",
+            "Passive Skill as defending character: This hero receives less elemental  damage from Troops of stronger element.",
+            " - Received elemental damage: -10%"
         ]
     },
     {
         "originalIndex": 578,
+        "name": "夏玛拉 (Xiamara)",
+        "passives": [
+            "Health Recovery on Buff Received: This character recovers 5% health when they receive a buff or a positive stack."
+        ]
+    },
+    {
+        "originalIndex": 579,
+        "name": "小青 (Xiaoqing)",
+        "passives": [
+            "Disable Minion Abilities: Attacks and abilities of all Minions owned by enemies are disabled."
+        ]
+    },
+    {
+        "originalIndex": 580,
         "name": "尤纳恩 (Yunan)",
         "passives": []
     },
     {
-        "originalIndex": 579,
+        "originalIndex": 581,
         "name": "尤纳恩 (Yunan) C1",
         "passives": []
     },
     {
-        "originalIndex": 580,
+        "originalIndex": 582,
         "name": "扎维尼亚 (Zavinia)",
         "passives": [
-            "古神的标记：该角色每拥有 5% 点狂乱，受到的所有伤害便降低 10，最多可降低 50%。"
-        ]
-    },
-    {
-        "originalIndex": 581,
-        "name": "西林 (Zeline)",
-        "passives": []
-    },
-    {
-        "originalIndex": 582,
-        "name": "西林 (Zeline) C1",
-        "passives": [
-            "特殊技能净化：当该角色施放其特殊技能时，会净化所有队友身上最新的状态异常。"
+            "Marked by the Old Ones: All damage is reduced by 5% per 10 Insanity for this character up to a maximum reduction of 50%."
         ]
     },
     {
         "originalIndex": 583,
-        "name": "佐卡 (Zocc)",
-        "passives": [
-            "抵抗水系伤害：该角色天生对水系伤害有抵抗能力。"
-        ]
+        "name": "西林 (Zeline)",
+        "passives": []
     },
     {
         "originalIndex": 584,
-        "name": "祖妮 (Zuni)",
+        "name": "西林 (Zeline) C1",
         "passives": [
-            "队伍大师：",
-            "作为攻击方角色的被动技能：该英雄的部队对较弱元素造成额外元素伤害。",
-            "- 造成的额外元素伤害： +100%",
-            "作为防守方角色的被动技能：该英雄受到来自较强元素部队的元素伤害减少。",
-            "- 受到的元素伤害： -10%"
+            "Cleanse on Special Skill: When this character casts their Special Skill, they cleanse the newest status ailment from all allies."
         ]
     },
     {
         "originalIndex": 585,
+        "name": "佐卡 (Zocc)",
+        "passives": [
+            "Resist Water Damage: This character has an innate resistance against Water damage."
+        ]
+    },
+    {
+        "originalIndex": 586,
+        "name": "祖妮 (Zuni)",
+        "passives": [
+            "Troop Mastery:",
+            "Passive Skill as attacking character: This hero’s Troops deal extra  elemental damage against weaker element.",
+            " - Dealt extra elemental damage: +100%",
+            "Passive Skill as defending character: This hero receives less elemental  damage from Troops of stronger element.",
+            " - Received elemental damage: -10%"
+        ]
+    },
+    {
+        "originalIndex": 587,
         "name": "弗莱彻 (Fletcher)",
         "passives": []
     },
     {
-        "originalIndex": 586,
+        "originalIndex": 588,
         "name": "夜影 (Nightshade)",
         "passives": []
     },
     {
-        "originalIndex": 587,
+        "originalIndex": 589,
         "name": "朱利叶斯 (Julius)",
         "passives": []
     },
     {
-        "originalIndex": 588,
+        "originalIndex": 590,
         "name": "蕾拉 (Layla)",
         "passives": []
     },
     {
-        "originalIndex": 589,
+        "originalIndex": 591,
         "name": "希利苏斯 (Silthus)",
         "passives": []
     },
     {
-        "originalIndex": 590,
+        "originalIndex": 592,
         "name": "阿德琳 (Aderyn)",
         "passives": []
     },
     {
-        "originalIndex": 591,
+        "originalIndex": 593,
         "name": "安文德尔 (An-Windr)",
         "passives": []
     },
     {
-        "originalIndex": 592,
+        "originalIndex": 594,
         "name": "阿奎拉 (Aqeela)",
         "passives": [
-            "特殊技能效果：当该角色施放其特殊技能时，有 50% 几率执行以下操作：",
-            "* 对所有敌人造成 70% 的伤害。",
-            "* 驱散敌人最新的可驱散增益。"
+            "Effects on Special Skill: 50% chance to perform the following actions when this character casts their Special Skill * Deals 70% damage to all enemies. * Dispels the latest dispellable buff from enemies."
         ]
     },
     {
-        "originalIndex": 593,
+        "originalIndex": 595,
         "name": "阿奎拉 (Aqeela) C1",
         "passives": [
-            "特殊技能效果：当该角色施放其特殊技能时，有 50% 几率执行以下操作：",
-            "* 对所有敌人造成 70% 的伤害。",
-            "* 驱散所有敌人最新的可驱散增益。",
-            "特殊技能额外效果几率：当该角色施放其特殊技能时，其任何提供额外施法效果的被动技能都有 3 次激活机会。",
-            "受到状态异常时获得法力：该角色在受到状态异常或负面效果叠加时获得 5% 的法力。"
+            "Effects on Special Skill: 50% chance to perform the following actions when this character casts their Special Skill: * Deals 70% damage to all enemies. * Dispells the latest dispellable buff from all enemies.",
+            "Extra Chance for Effects On Special Skill: When this character casts their Special Skill, any of their Passive Skills that grant extra effects on cast have 3 chances to activate.",
+            "Mana on Status Ailment Received: This character gains 5% mana when they receive a status ailment or negative stack."
         ]
     },
     {
-        "originalIndex": 594,
+        "originalIndex": 596,
         "name": "巴特萨 (Balthazar)",
         "passives": []
     },
     {
-        "originalIndex": 595,
+        "originalIndex": 597,
         "name": "巴特萨 (Balthazar) C1",
         "passives": []
     },
     {
-        "originalIndex": 596,
+        "originalIndex": 598,
         "name": "巴特萨 (Balthazar) 卡通",
         "passives": [
-            "卡通：额外 75% 几率抵抗所有状态异常、法力削减和增益驱散。"
-        ]
-    },
-    {
-        "originalIndex": 597,
-        "name": "巴特萨 (Balthazar) 玻璃",
-        "passives": [
-            "玻璃：额外 60% 几率将状态异常反弹给攻击者。"
-        ]
-    },
-    {
-        "originalIndex": 598,
-        "name": "贝第 (Betty)",
-        "passives": [
-            "石像鬼的软化皮肤：每当此石像鬼施放特殊技能时，其软化皮肤会激活。接下来受到的 4 次伤害降低 -90%，并抵抗所有状态异常和法力削减。此效果无法被驱散。"
+            "Toon: 75% extra chance to resist all status ailments, mana reductions and buff dispels."
         ]
     },
     {
         "originalIndex": 599,
+        "name": "巴特萨 (Balthazar) 玻璃",
+        "passives": [
+            "Glass: 60% extra chance to reflect status ailments back to the attacker."
+        ]
+    },
+    {
+        "originalIndex": 600,
+        "name": "贝第 (Betty)",
+        "passives": [
+            "Gargoile’s Softskin: Every time this Gargoyle casts a Special Skill, their Softskin activates. The next 4 times they receive damage, it is reduced by -90%, and they resist all status ailment and mana reduction. This effect can’t be dispelled."
+        ]
+    },
+    {
+        "originalIndex": 601,
         "name": "比约恩 (Bjorn)",
         "passives": []
     },
     {
-        "originalIndex": 600,
+        "originalIndex": 602,
         "name": "比约恩 (Bjorn) C1",
         "passives": []
     },
     {
-        "originalIndex": 601,
+        "originalIndex": 603,
         "name": "布达廷 (Budatin)",
         "passives": [
-            "石像鬼之肤：每当此石像鬼施放特殊技能时，其石肤会变硬。接下来受到的 4 次伤害将降至 1 点。此效果无法被驱散。"
+            "Gargoyle’s Stoneskin: Every time this Gargoyle casts a Special Skill, their Stoneskin hardens. The next 4 times they receive damage, it is dropped to 1. This effect can’t be dispelled."
         ]
     },
     {
-        "originalIndex": 602,
+        "originalIndex": 604,
         "name": "提灯 (Chochin)",
         "passives": []
     },
     {
-        "originalIndex": 603,
+        "originalIndex": 605,
         "name": "艾德 (Edd)",
         "passives": []
     },
     {
-        "originalIndex": 604,
+        "originalIndex": 606,
         "name": "鳃拉 (Gill-Ra)",
         "passives": []
     },
     {
-        "originalIndex": 605,
+        "originalIndex": 607,
         "name": "鳃拉 (Gill-Ra) C1",
         "passives": []
     },
     {
-        "originalIndex": 606,
+        "originalIndex": 608,
         "name": "格留 (Greel)",
         "passives": [
-            "猎手感知：当该角色施放其特殊技能时，有 100% 的几率将自身最新的状态异常转移给目标。如果其特殊技能无法选择敌方目标，则会随机转移至一名敌人。若此角色没有状态异常，则恢复自身 12% 的生命。",
-            "特殊技能附带持续伤害：当该角色施放其特殊技能时，会给一个随机敌人施加猎人印记。目标在 3 回合内受到 150 点伤害。如果目标已有此效果，则持续时间刷新，伤害增加 150 点，总伤害最高可达 1500 点。"
-        ]
-    },
-    {
-        "originalIndex": 607,
-        "name": "蝙蝠守护者 (Guardian Bat)",
-        "passives": []
-    },
-    {
-        "originalIndex": 608,
-        "name": "杰克 (Jack)",
-        "passives": [
-            "窃取增益：当该角色施放其特殊技能时，有 50% 的几率从一个带有增益的随机敌人身上窃取最新的可驱散增益。如果没有敌人带有增益，则对所有敌人造成 70% 的伤害。"
+            "Hunter’s Sense: When this character casts their Special Skill, they have 100% chance to transfer the newest status ailment from themself to the target. If the Special Skill cannot target an enemy, a random enemy is chosen instead. If this character has no status ailments, they recover 12% health.",
+            "Damage Over Time on Special: When this character casts their Special Skill, they give a Hunter’s Mark on a random enemy. The target receives 150 damage over 3 turns. If a target already has this effect, the duration will be refreshed and the damage will be increased with 150, up to 1500 damage in total."
         ]
     },
     {
         "originalIndex": 609,
-        "name": "梅芙 (Maeve)",
-        "passives": [
-            "抵抗状态效果伤害：该角色天生对来自状态效果的伤害有抵抗能力。"
-        ]
-    },
-    {
-        "originalIndex": 610,
-        "name": "摩根奈特 (Morganite)",
+        "name": "蝙蝠守护者 (Guardian Bat)",
         "passives": []
     },
     {
-        "originalIndex": 611,
-        "name": "毛里斯 (Morris)",
+        "originalIndex": 610,
+        "name": "杰克 (Jack)",
         "passives": [
-            "减少异常持续时间：该角色从特殊技能中收到的前 3 个状态异常的持续时间减少 1 回合。"
+            "Steal Buff: When this character casts their Special Skill, they have a 50% chance to steal the newest dispellable buff from a random enemy that has buffs. If no enemy has buffs, deals 70% damage to all enemies."
+        ]
+    },
+    {
+        "originalIndex": 611,
+        "name": "梅芙 (Maeve)",
+        "passives": [
+            "Resist Damage from Status Effects: This charater has innate resistance against incoming damage from status effects."
         ]
     },
     {
         "originalIndex": 612,
-        "name": "毛里斯 (Morris) C1",
-        "passives": [
-            "减少异常持续时间：该角色从特殊技能中收到的前 3 个状态异常的持续时间减少 1 回合。"
-        ]
+        "name": "摩根奈特 (Morganite)",
+        "passives": []
     },
     {
         "originalIndex": 613,
+        "name": "毛里斯 (Morris)",
+        "passives": [
+            "Decrease Ailment Duration: Duration of the first 3 status ailments this character receives from Special Skill is decreased by 1 turn."
+        ]
+    },
+    {
+        "originalIndex": 614,
+        "name": "毛里斯 (Morris) C1",
+        "passives": [
+            "Decrease Ailment Duration: Duration of the first 3 status ailments this character receives from Special Skill is decreased by 1 turn."
+        ]
+    },
+    {
+        "originalIndex": 615,
         "name": "奥伯伦 (Oberon)",
         "passives": []
     },
     {
-        "originalIndex": 614,
+        "originalIndex": 616,
         "name": "奥伯伦 (Oberon) C1",
         "passives": []
     },
     {
-        "originalIndex": 615,
+        "originalIndex": 617,
         "name": "奥伯伦 (Oberon) 卡通",
         "passives": [
-            "卡通：额外 75% 几率抵抗所有状态异常、法力削减和增益驱散。"
+            "Toon: 75% extra chance to resist all status ailments, mana reductions and buff dispels."
         ]
     },
     {
-        "originalIndex": 616,
+        "originalIndex": 618,
         "name": "帕拉 (Para)",
         "passives": [
-            "当该角色在战斗中首次以低生命值开始回合时，他们会恢复 15% 的生命值并获得 15% 的法力。"
+            "When this character starts a turn with low health for the first time during a battle, they recover 15% health and receive 15% mana."
         ]
     },
     {
-        "originalIndex": 617,
+        "originalIndex": 619,
         "name": "普利斯卡 (Prisca)",
         "passives": []
     },
     {
-        "originalIndex": 618,
+        "originalIndex": 620,
         "name": "普利斯卡 (Prisca) C1",
         "passives": []
     },
     {
-        "originalIndex": 619,
+        "originalIndex": 621,
         "name": "普利斯卡 (Prisca) 卡通",
         "passives": [
-            "卡通：额外 75% 几率抵抗所有状态异常、法力削减和增益驱散。"
+            "Toon: 75% extra chance to resist all status ailments, mana reductions and buff dispels."
         ]
     },
     {
-        "originalIndex": 620,
+        "originalIndex": 622,
         "name": "普利斯卡 (Prisca) 玻璃",
         "passives": [
-            "玻璃：额外 60% 几率将状态异常反弹给攻击者。"
+            "Glass: 60% extra chance to reflect status ailments back to the attacker."
         ]
     },
     {
-        "originalIndex": 621,
+        "originalIndex": 623,
         "name": "雷恩菲尔德 (Renfeld)",
         "passives": []
     },
     {
-        "originalIndex": 622,
+        "originalIndex": 624,
         "name": "雷恩菲尔德 (Renfeld) C1",
         "passives": []
     },
     {
-        "originalIndex": 623,
+        "originalIndex": 625,
         "name": "雷恩菲尔德 (Renfeld) 卡通",
         "passives": [
-            "卡通：额外 75% 几率抵抗所有状态异常、法力削减和增益驱散。"
+            "Toon: 75% extra chance to resist all status ailments, mana reductions and buff dispels."
         ]
     },
     {
-        "originalIndex": 624,
+        "originalIndex": 626,
         "name": "树威尔 (Treevil)",
         "passives": []
     },
     {
-        "originalIndex": 625,
+        "originalIndex": 627,
         "name": "泰伦 (Tyrum)",
         "passives": []
     },
     {
-        "originalIndex": 626,
+        "originalIndex": 628,
         "name": "泰伦 (Tyrum) C1",
         "passives": []
     },
     {
-        "originalIndex": 627,
+        "originalIndex": 629,
         "name": "泰伦 (Tyrum) 卡通",
         "passives": [
-            "卡通：额外 75% 几率抵抗所有状态异常、法力削减和增益驱散。"
-        ]
-    },
-    {
-        "originalIndex": 628,
-        "name": "昂伏斯 (Unferth)",
-        "passives": [
-            "强化抵抗法力削减：该角色天生对法力削减有抵抗能力。每次抵抗时还会获得 600 点生命加成和 10% 的法力。",
-            "完美精准度：该角色的特殊技能必定命中目标。"
-        ]
-    },
-    {
-        "originalIndex": 629,
-        "name": "弗拉德 (Vlad)",
-        "passives": [
-            "窃取增益：当该角色施放其特殊技能时，有 50% 的几率从一个带有增益的随机敌人身上窃取最新的可驱散增益。如果没有敌人带有增益，则对所有敌人造成 70% 的伤害。"
+            "Toon: 75% extra chance to resist all status ailments, mana reductions and buff dispels."
         ]
     },
     {
         "originalIndex": 630,
-        "name": "爱赫特波 (Ahhotep)",
+        "name": "昂伏斯 (Unferth)",
         "passives": [
-            "特殊技能效果：当该角色施放其特殊技能时，有 60% 几率执行以下操作：",
-            "* 对所有敌人造成 70% 的伤害。",
-            "* 驱散敌人最新的可驱散增益。"
+            "Empowered Resist Mana Reductions: This character has innate resistance against mana reduction. They also gain 600 boosted health and 10% mana each time they resist.",
+            "Perfect Accuracy: This character’s Special Skill never mises its target."
         ]
     },
     {
         "originalIndex": 631,
-        "name": "爱赫特波 (Ahhotep) C1",
+        "name": "弗拉德 (Vlad)",
         "passives": [
-            "特殊技能效果：当该角色施放其特殊技能时，有 60% 几率执行以下操作：",
-            "* 对所有敌人造成 70% 的伤害。",
-            "* 驱散敌人最新的可驱散增益。",
-            "特殊技能额外效果几率：当该角色施放其特殊技能时，其任何提供额外施法效果的被动技能都有 3 次激活机会。",
-            "受到状态异常时获得法力：该角色在受到状态异常或负面效果叠加时获得 5% 的法力。"
+            "Steal Buff: When this character casts their Special Skill, they have a 50%  chance to steal the newest dispellable buff from a random enemy that has buffs.  If no enemy has buffs, deals 70% damage to all enemies."
         ]
     },
     {
         "originalIndex": 632,
+        "name": "爱赫特波 (Ahhotep)",
+        "passives": [
+            "Effects on Special Skill: 60% chance to perform the following actions when this character casts their Special Skill",
+            " * Deals 70% damage to all enemies.",
+            " * Dispels the latest dispellable buff from enemies."
+        ]
+    },
+    {
+        "originalIndex": 633,
+        "name": "爱赫特波 (Ahhotep) C1",
+        "passives": [
+            "Effects on Special Skill: 60% chance to perform the following actions when this character casts their Special Skill",
+            " * Deals 70% damage to all enemies.",
+            " * Dispels the latest dispellable buff from enemies.",
+            "Extra Chance for Effects On Special Skill: When this character casts their Special Skill, any of their Passive Skills that grant extra effects on cast have 3 chances to activate.",
+            "Mana on Status Ailment Received: This character gains 5% mana each time they receive a status ailment or negative stack."
+        ]
+    },
+    {
+        "originalIndex": 634,
         "name": "雨女 (Ameonna)",
         "passives": []
     },
     {
-        "originalIndex": 633,
+        "originalIndex": 635,
         "name": "雨女 (Ameonna) C1",
         "passives": []
     },
     {
-        "originalIndex": 634,
+        "originalIndex": 636,
         "name": "紫晶 (Ametrine)",
         "passives": []
     },
     {
-        "originalIndex": 635,
+        "originalIndex": 637,
         "name": "安娜·贝尔 (Ana-Belle)",
         "passives": [
-            "窃取增益 - 当该角色施放其特殊技能时，有 50% 的几率从一个带有增益的随机敌人身上窃取最新的可驱散增益。如果没有敌人带有增益，则对所有敌人造成 70% 的伤害。"
+            "Steal Buff - When this character casts their Special Skill, they have a 50%  chance to steal the newest dispellable buff from a random enemy that has buffs.  If no enemy has buffs, deals 70% damage to all enemies."
         ]
     },
     {
-        "originalIndex": 636,
+        "originalIndex": 638,
         "name": "阿尔吉斯 (Arges)",
         "passives": [
-            "降低小兵生命值：敌方小兵被召唤时继承的生命值减少 -50%。",
-            "抵抗防御异常：该角色天生对影响防御的状态异常有抵抗能力。此效果同样适用于影响元素防御的状态异常。"
+            "Decreased Minion Health: Enemy Minions inherit -50% less Health when summoned.",
+            "Resist Defense Ailments: This character has innate resistance against status ailments that affect defense. Applies also to status ailments that affect elemental defense."
         ]
     },
     {
-        "originalIndex": 637,
+        "originalIndex": 639,
         "name": "炸弹魔 (Boomer)",
         "passives": []
     },
     {
-        "originalIndex": 638,
+        "originalIndex": 640,
         "name": "柴郡猫 (Cheshire Cat)",
         "passives": []
     },
     {
-        "originalIndex": 639,
+        "originalIndex": 641,
         "name": "柴郡猫 (Cheshire Cat) C1",
         "passives": []
     },
     {
-        "originalIndex": 640,
+        "originalIndex": 642,
         "name": "小蛋糕 (Cupcake)",
         "passives": [
-            "当一个盟友召唤小兵时，该角色获得 5% 的生命值和 5% 的法力。此效果每回合只能激活一次。",
-            "当一个敌人被恶魔附身时，该角色对所有敌人造成 85% 的伤害。此效果每回合只能激活一次。"
+            "When a Minion is summoned to any ally, this character gains 5% health and 5% mana. This effect can activate only once per turn.",
+            "When a Fiend is summoned to any enemy, this character deals 85% damage to all enemies. This effect can activate only once per turn."
         ]
     },
     {
-        "originalIndex": 641,
+        "originalIndex": 643,
         "name": "塞普里恩 (Cyprian)",
         "passives": []
     },
     {
-        "originalIndex": 642,
+        "originalIndex": 644,
         "name": "塞普里恩 (Cyprian) C1",
         "passives": []
     },
     {
-        "originalIndex": 643,
+        "originalIndex": 645,
         "name": "塞普里恩 (Cyprian) C2",
         "passives": []
     },
     {
-        "originalIndex": 644,
+        "originalIndex": 646,
         "name": "塞普里恩 (Cyprian) 卡通",
         "passives": [
-            "卡通：额外 75% 几率抵抗所有状态异常、法力削减和增益驱散。"
+            "Toon: 75% extra chance to resist all status ailments, mana reductions and buff dispels."
         ]
-    },
-    {
-        "originalIndex": 645,
-        "name": "塞普里恩 (Cyprian) 玻璃",
-        "passives": [
-            "玻璃：额外 60% 几率将状态异常反弹给攻击者。"
-        ]
-    },
-    {
-        "originalIndex": 646,
-        "name": "迪基 (Dizzy)",
-        "passives": []
     },
     {
         "originalIndex": 647,
-        "name": "福克斯格洛夫 (Foxglove)",
+        "name": "塞普里恩 (Cyprian) 玻璃",
         "passives": [
-            "降低治疗量：所有敌人获得的治疗量降低 -50%。"
+            "Glass: 60% extra chance to reflect status ailments back to the attacker."
         ]
     },
     {
         "originalIndex": 648,
-        "name": "芙拉 (Fura)",
+        "name": "迪基 (Dizzy)",
         "passives": []
     },
     {
         "originalIndex": 649,
-        "name": "芙拉 (Fura) C1",
-        "passives": []
+        "name": "福克斯格洛夫 (Foxglove)",
+        "passives": [
+            "Decreased Healing: All enemies get -50% healing."
+        ]
     },
     {
         "originalIndex": 650,
-        "name": "贾法尔 (Gafar)",
+        "name": "芙拉 (Fura)",
         "passives": []
     },
     {
         "originalIndex": 651,
-        "name": "黑风怪 (Heifeng Guai)",
+        "name": "芙拉 (Fura) C1",
         "passives": []
     },
     {
         "originalIndex": 652,
-        "name": "因戈尔夫 (Ingolf)",
+        "name": "贾法尔 (Gafar)",
         "passives": []
     },
     {
         "originalIndex": 653,
-        "name": "贾巴尔 (Jabbar)",
+        "name": "黑风怪 (Heifeng Guai)",
         "passives": []
     },
     {
         "originalIndex": 654,
-        "name": "朱利安尼 (Juliani)",
-        "passives": [
-            "降低通过特殊技能获得的法力：通过特殊技能增加的法力值降低 -80%。此效果对战场上的所有敌人生效。"
-        ]
+        "name": "因戈尔夫 (Ingolf)",
+        "passives": []
     },
     {
         "originalIndex": 655,
-        "name": "凯蒂 (Kitty)",
-        "passives": [
-            "特殊技能造成伤害：当该角色受到特殊技能伤害或替处于掩护状态的角色承受伤害时，有 60% 的几率对所有敌人造成所受伤害 20% 的伤害。"
-        ]
+        "name": "贾巴尔 (Jabbar)",
+        "passives": []
     },
     {
         "originalIndex": 656,
-        "name": "科达 (Koda)",
+        "name": "朱利安尼 (Juliani)",
         "passives": [
-            "受到增益时恢复生命：该角色在获得增益或正面效果叠加时恢复 5% 的生命值。"
+            "Reduce Mana Gain from Special Skills: Reduces the amount of mana increased by Special Skill by -80%. The effect applies to all enemies in the battle."
         ]
     },
     {
         "originalIndex": 657,
-        "name": "莱克茜 (Lexi)",
+        "name": "凯蒂 (Kitty)",
         "passives": [
-            "队伍大师：",
-            "作为攻击方角色的被动技能：该英雄的部队对较弱元素造成额外元素伤害。",
-            "- 造成的额外元素伤害： +100%",
-            "作为防守方角色的被动技能：该英雄受到来自较强元素部队的元素伤害减少。",
-            "- 受到的元素伤害： -10%"
+            "Damage on Special Skill: When this character receives damage from Special Skills or in place of a character in Cover, there’s a 60% chance to deal 20% of the received damage to all enemies."
         ]
     },
     {
         "originalIndex": 658,
-        "name": "梅朵 (Meadow)",
+        "name": "科达 (Koda)",
         "passives": [
-            "特殊技能附加状态效果：当该角色施放其特殊技能时，会给一个随机敌人施加猎人印记。目标在 3 回合内受到 150 点伤害。如果目标已有此效果，则持续时间刷新，伤害增加 150 点，总伤害最高可达 1500 点。",
-            "特殊技能伤害减免：该角色有 10% 的几率将受到的特殊技能直接伤害降至 1 点。"
+            "Health Recovery on Buff Received: This character recovers 5% health when they receive a buff or a positive stack."
         ]
     },
     {
         "originalIndex": 659,
+        "name": "莱克茜 (Lexi)",
+        "passives": [
+            "Troop Mastery:",
+            "Passive Skill as attacking character: This hero’s Troops deal extra  elemental damage against weaker element.",
+            " - Dealt extra elemental damage: +100%",
+            "Passive Skill as defending character: This hero receives less elemental  damage from Troops of stronger element.",
+            " - Received elemental damage: -10%"
+        ]
+    },
+    {
+        "originalIndex": 660,
+        "name": "梅朵 (Meadow)",
+        "passives": [
+            "Status effect on Special: When this character casts their Special Skill, they give a Hunter’s Mark on a random enemy. The target receives 150 damage over 3 turns. If a target already has this effect, the duration will be refreshed and the damage will be increased by 150, up to 1500 damage in total.",
+            "Special Skill Damage Reduction: This character has a 10% chance to drop the direct damage received from Special Skills to 1."
+        ]
+    },
+    {
+        "originalIndex": 661,
         "name": "梅林 (Merlin)",
         "passives": []
     },
     {
-        "originalIndex": 660,
+        "originalIndex": 662,
         "name": "梅林 (Merlin) C1",
         "passives": []
     },
     {
-        "originalIndex": 661,
+        "originalIndex": 663,
         "name": "普罗透斯 (Proteus)",
         "passives": []
     },
     {
-        "originalIndex": 662,
+        "originalIndex": 664,
         "name": "普罗透斯 (Proteus) C1",
         "passives": []
     },
     {
-        "originalIndex": 663,
+        "originalIndex": 665,
         "name": "里加 (Rigard)",
         "passives": []
     },
     {
-        "originalIndex": 664,
+        "originalIndex": 666,
         "name": "里加 (Rigard) C1",
         "passives": []
     },
     {
-        "originalIndex": 665,
+        "originalIndex": 667,
         "name": "里加 (Rigard) C2",
         "passives": []
     },
     {
-        "originalIndex": 666,
+        "originalIndex": 668,
         "name": "里加 (Rigard) 卡通",
         "passives": [
-            "卡通：额外 75% 几率抵抗所有状态异常、法力削减和增益驱散。"
+            "Toon: 75% extra chance to resist all status ailments, mana reductions and buff dispels."
         ]
     },
     {
-        "originalIndex": 667,
+        "originalIndex": 669,
         "name": "里加 (Rigard) 玻璃",
         "passives": [
-            "玻璃：额外 60% 几率将状态异常反弹给攻击者。"
+            "Glass: 60% extra chance to reflect status ailments back to the attacker."
         ]
     },
     {
-        "originalIndex": 668,
+        "originalIndex": 670,
         "name": "萨拜娜 (Sabina)",
         "passives": []
     },
     {
-        "originalIndex": 669,
+        "originalIndex": 671,
         "name": "萨拜娜 (Sabina) C1",
         "passives": []
     },
     {
-        "originalIndex": 670,
+        "originalIndex": 672,
         "name": "萨拜娜 (Sabina) C2",
         "passives": []
     },
     {
-        "originalIndex": 671,
+        "originalIndex": 673,
         "name": "萨拜娜 (Sabina) 卡通",
         "passives": [
-            "卡通：额外 75% 几率抵抗所有状态异常、法力削减和增益驱散。"
-        ]
-    },
-    {
-        "originalIndex": 672,
-        "name": "谢尔盖 (Sergei)",
-        "passives": [
-            "当该角色施放其特殊技能时，有 50% 的几率对所有敌人造成 100% 的伤害。如果特殊技能完全充能，则几率为 100%。"
-        ]
-    },
-    {
-        "originalIndex": 673,
-        "name": "沙凯 (Shar'Khai)",
-        "passives": [
-            "特殊技能效果：",
-            "当该角色施放其特殊技能时，有 50% 几率执行以下操作：",
-            "* 对所有敌人造成 80% 的伤害。",
-            "* 施法者获得 +19% 的法力生成，持续 2 回合。"
+            "Toon: 75% extra chance to resist all status ailments, mana reductions and buff dispels."
         ]
     },
     {
         "originalIndex": 674,
-        "name": "沙凯 (Shar'Khai) C1",
+        "name": "谢尔盖 (Sergei)",
         "passives": [
-            "特殊技能效果：",
-            "当该角色施放其特殊技能时，有 50% 几率执行以下操作：",
-            "* 对所有敌人造成 80% 的伤害。",
-            "* 施法者获得 +19% 的法力生成，持续 2 回合。",
-            "抵抗狂乱：该角色天生对狂乱有抵抗能力。"
+            "When this character casts their Special Skill, they have a 50% chance to  deal 100% damage to all enemies. If the Special Skill is fully charged,  the chance is 100%."
         ]
     },
     {
         "originalIndex": 675,
-        "name": "肖戈 (Shoggo)",
-        "passives": []
+        "name": "沙凯 (Shar'Khai)",
+        "passives": [
+            "Effects on Special Skill:",
+            "50% chance to perform the following actions when this character casts their Special Skill",
+            " * Deals 80% damage to all enemies.",
+            " * The caster gets +19% mana generation for 2 turns."
+        ]
     },
     {
         "originalIndex": 676,
-        "name": "希罗布雷 (Shyombre)",
+        "name": "沙凯 (Shar'Khai) C1",
         "passives": [
-            "闪避特殊技能伤害：该角色有 15% 的几率闪避造成伤害的特殊技能。"
+            "Effects on Special Skill:",
+            "50% chance to perform the following actions when this character casts their Special Skill",
+            " * Deals 80% damage to all enemies.",
+            " * The caster gets +19% mana generation for 2 turns.",
+            "Resist Insanity: This character has an innate resistance against Insanity."
         ]
     },
     {
         "originalIndex": 677,
-        "name": "斯通克里夫 (Stonecleave)",
+        "name": "肖戈 (Shoggo)",
         "passives": []
     },
     {
         "originalIndex": 678,
-        "name": "迪波特斯 (Tiburtus)",
-        "passives": []
+        "name": "希罗布雷 (Shyombre)",
+        "passives": [
+            "Dodge Special Damage: This character has a 15% chance to dodge Special Skills that deal damage."
+        ]
     },
     {
         "originalIndex": 679,
-        "name": "迪波特斯 (Tiburtus) C1",
+        "name": "斯通克里夫 (Stonecleave)",
         "passives": []
     },
     {
         "originalIndex": 680,
-        "name": "迪波特斯 (Tiburtus) C2",
+        "name": "迪波特斯 (Tiburtus)",
         "passives": []
     },
     {
         "originalIndex": 681,
-        "name": "迪波特斯 (Tiburtus) 卡通",
-        "passives": [
-            "卡通：额外 75% 几率抵抗所有状态异常、法力削减和增益驱散。"
-        ]
+        "name": "迪波特斯 (Tiburtus) C1",
+        "passives": []
     },
     {
         "originalIndex": 682,
-        "name": "酸火 (Acidfire)",
-        "passives": [
-            "特殊技能效果：当该角色施放其特殊技能时，有 40% 几率执行以下操作。",
-            "* 对所有敌人造成 90% 的伤害。",
-            "* 所有敌人获得 -25% 的精准度，持续 3 回合。"
-        ]
+        "name": "迪波特斯 (Tiburtus) C2",
+        "passives": []
     },
     {
         "originalIndex": 683,
-        "name": "阿珂妮亚 (Aconia)",
+        "name": "迪波特斯 (Tiburtus) 卡通",
         "passives": [
-            "队伍大师：",
-            "作为攻击方角色的被动技能：该英雄的部队对较弱元素造成额外元素伤害。",
-            "- 造成的额外元素伤害： +100%",
-            "作为防守方角色的被动技能：该英雄受到来自较强元素部队的元素伤害减少。",
-            "- 受到的元素伤害： -10%"
+            "Toon: 75% extra chance to resist all status ailments, mana reductions and buff dispels."
         ]
     },
     {
         "originalIndex": 684,
-        "name": "艾龙 (Aeron)",
-        "passives": []
+        "name": "酸火 (Acidfire)",
+        "passives": [
+            "Effects on Special Skill: 40% chance to perform the following actions when this character casts their Special Skill.",
+            " * Deals 90% damage to all enemies.",
+            " * All enemies get -25% accuracy for 3 turns."
+        ]
     },
     {
         "originalIndex": 685,
-        "name": "艾龙 (Aeron) C1",
+        "name": "阿珂妮亚 (Aconia)",
         "passives": [
-            "特殊技能净化：当该角色施放其特殊技能时，会净化所有队友身上最新的状态异常。"
+            "Troop Mastery:",
+            "Passive Skill as attacking character: This hero’s Troops deal extra  elemental damage against weaker element.",
+            " - Dealt extra elemental damage: +100%",
+            "Passive Skill as defending character: This hero receives less elemental  damage from Troops of stronger element.",
+            " - Received elemental damage: -10%"
         ]
     },
     {
         "originalIndex": 686,
-        "name": "阿加德 (Agadh)",
-        "passives": [
-            "飞行动量：如果该角色拥有任意数量的飞行动量，其将获得：",
-            "* 最多 +35% 的法力生成。",
-            "* 最多 +25% 的闪避几率。",
-            "* 角色拥有的飞行动量越少，效果越弱。",
-            "削弱巨大体型小兵：敌方巨大体型小兵的生命值降低 -75%。"
-        ]
+        "name": "艾龙 (Aeron)",
+        "passives": []
     },
     {
         "originalIndex": 687,
-        "name": "阿格拉菲纳 (Agrafena)",
+        "name": "艾龙 (Aeron) C1",
         "passives": [
-            "特殊技能造成伤害：当该角色施放其特殊技能时，有 50% 的几率对所有敌人造成 100% 的伤害。如果特殊技能完全充能，则几率为 100%。"
+            "Cleanse on Special: When this character casts their Special Skill, they cleanse the newest status ailment from all allies."
         ]
     },
     {
         "originalIndex": 688,
-        "name": "阿格拉菲纳 (Agrafena) C1",
+        "name": "阿加德 (Agadh)",
         "passives": [
-            "特殊技能造成伤害：当该角色施放其特殊技能时，有 60% 的几率对所有敌人造成 150% 的伤害。如果特殊技能完全充能，则几率为 100%。",
-            "削弱巨大体型小兵：敌方巨大体型小兵的生命值降低 -75%。"
+            "Flight Momentum: If this character has any amount of Flight Momentum, they receive:",
+            " * Up to +35% mana generation.",
+            " * Up to +25% chance to dodge.",
+            " * The effects diminish the less Flight Momentum character has.",
+            "Weaker Mega Minions: Enemy Mega Minions have -75% HP."
         ]
     },
     {
         "originalIndex": 689,
-        "name": "阿基利乌斯 (Akilius)",
+        "name": "阿格拉菲纳 (Agrafena)",
         "passives": [
-            "抵抗负面小兵效果：该角色天生对来自小兵的负面效果及伤害有抵抗能力。",
-            "小兵死亡时恢复生命：当该角色拥有的小兵被摧毁时，该角色恢复 100 点生命值。"
+            "Damage on Special: When this character casts their Special Skill, they have a 50% chance to deal 100% damage to all enemies. If the Special Skill is fully charged, the chance is 100%."
         ]
     },
     {
         "originalIndex": 690,
+        "name": "阿格拉菲纳 (Agrafena) C1",
+        "passives": [
+            "Damage on Special: When this character casts their Special Skill, they have a 60% chance to deal 150% damage to all enemies. If the Special Skill is fully charged, the chance is 100%.",
+            "Weaker Mega Minions: Enemy Mega Minions have -75% HP."
+        ]
+    },
+    {
+        "originalIndex": 691,
+        "name": "阿基利乌斯 (Akilius)",
+        "passives": [
+            "Resist Negative Minion Effects: This character has innate resistance against incoming negative effects and damage from Minions.",
+            "Health from Dead Minion: This character recovers 100 health when a Minion owned by them is destroyed."
+        ]
+    },
+    {
+        "originalIndex": 692,
         "name": "阿尔弗莱克 (Alfrike)",
         "passives": []
     },
     {
-        "originalIndex": 691,
+        "originalIndex": 693,
         "name": "阿尔弗莱克 (Alfrike) C1",
         "passives": []
     },
     {
-        "originalIndex": 692,
+        "originalIndex": 694,
         "name": "紫石 (Amethyst)",
         "passives": []
     },
     {
-        "originalIndex": 693,
+        "originalIndex": 695,
         "name": "安诺舒卡 (Anoushka)",
         "passives": [
-            "抵抗致盲：该角色天生对影响精准度的状态异常有抵抗能力。不适用于来自盟友的原始状态效果。",
-            "受到状态异常时恢复生命：该角色在受到状态异常或负面效果叠加时恢复 10% 的生命值。"
-        ]
-    },
-    {
-        "originalIndex": 694,
-        "name": "阿努比斯 (Anubis)",
-        "passives": [
-            "特殊技能效果：当该角色施放其特殊技能时，有 60% 几率执行以下操作：",
-            "* 对所有敌人造成 70% 的伤害。",
-            "* 驱散所有敌人最新的可驱散增益。"
-        ]
-    },
-    {
-        "originalIndex": 695,
-        "name": "阿努比斯 (Anubis) C1",
-        "passives": [
-            "特殊技能效果：当该角色施放其特殊技能时，有 60% 几率执行以下操作：",
-            "* 对所有敌人造成 70% 的伤害。",
-            "* 驱散所有敌人最新的可驱散增益。",
-            "特殊技能必定触发效果：当该角色施放其特殊技能时，任何提供额外施法效果的被动技能都将必定触发。",
-            "受到状态异常时获得法力：该角色在受到状态异常或负面效果叠加时获得 5% 的法力。"
+            "Resist Blind: This character has innate resistance against status ailments that affect accurancy. Doesn’t apply to status effects from allies.",
+            "Health Recovery on Status Ailment Received: This character recovers 10% health when they receive a status ailment or negative stack."
         ]
     },
     {
         "originalIndex": 696,
-        "name": "阿拉密斯 (Aramis)",
+        "name": "阿努比斯 (Anubis)",
         "passives": [
-            "当该角色受到特殊技能伤害或替处于掩护状态的角色承受伤害时，有 60% 的几率对所有敌人造成所受伤害 20% 的伤害。"
+            "Effects on special skill: 60% chance to perform the following actions when this character casts their Special Skill:",
+            " * Deals 70% damage to all enemies.",
+            " * Dispells the latest dispellable buff from all enemies."
         ]
     },
     {
         "originalIndex": 697,
-        "name": "阿法尼亚斯 (Arfanias)",
+        "name": "阿努比斯 (Anubis) C1",
         "passives": [
-            "法力削减时获得状态效果：当该角色的法力被削减时，其获得 +30% 的攻击力，持续 3 回合。",
-            "抵抗生命偷取异常：该英雄天生对偷取生命的状态异常有抵抗能力。"
+            "Effects on special skill: 60% chance to perform the following actions when this character casts their Special Skill:",
+            " * Deals 70% damage to all enemies.",
+            " * Dispells the latest dispellable buff from all enemies.",
+            "Guaranteed Effect on Special Skill: When this character casts their Special Skill, any of their Passive Skills that grant extra effects on cast are guaranteed to activate.",
+            "Mana on Status Ailment Received: This character gains 5% mana when they receive a status ailment or negative stack."
         ]
     },
     {
         "originalIndex": 698,
-        "name": "阿斯科特尔 (Asketel)",
-        "passives": []
+        "name": "阿拉密斯 (Aramis)",
+        "passives": [
+            "When this character receives damage from Special Skills or in place of a character in Cover, there’s a 60% chance to deal 20% of the received damage on all enemies."
+        ]
     },
     {
         "originalIndex": 699,
-        "name": "巴斯泰托 (Bastet)",
+        "name": "阿法尼亚斯 (Arfanias)",
         "passives": [
-            "特殊技能效果：当该角色施放其特殊技能时，有 50% 几率执行以下操作：",
-            "* 对所有敌人造成 70% 的伤害。",
-            "* 驱散所有敌人最新的可驱散增益。"
+            "Status Effect on Mana Reduction: This character gets +30% attack for 3 turns when their mana reduced.",
+            "Resist Health Steal Ailments: This hero has innate resistance against status ailments that steal health."
         ]
     },
     {
         "originalIndex": 700,
-        "name": "巴斯泰托 (Bastet) C1",
-        "passives": [
-            "特殊技能效果：当该角色施放其特殊技能时，有 50% 几率执行以下操作：",
-            "* 对所有敌人造成 70% 的伤害。",
-            "* 驱散所有敌人最新的可驱散增益。",
-            "特殊技能额外效果几率：当该角色施放其特殊技能时，其任何提供额外施法效果的被动技能都有 3 次激活机会。",
-            "受到状态异常时获得法力：该角色在受到状态异常或负面效果叠加时获得 5% 的法力。"
-        ]
+        "name": "阿斯科特尔 (Asketel)",
+        "passives": []
     },
     {
         "originalIndex": 701,
-        "name": "贝琪 (Becky)",
+        "name": "巴斯泰托 (Bastet)",
         "passives": [
-            "特殊技能叠加：当该角色施放其特殊技能时，所有敌人获得 -5% 的法力生成叠加。如果特殊技能完全充能，则所有敌人获得两层叠加。一个敌人最多可以有 10 层叠加。",
-            "特殊技能恢复生命：当该角色施放其特殊技能时，有 50% 的几率为所有队友恢复 15% 的生命值。如果特殊技能完全充能，则几率为 100%。"
+            "Effects on Special Skill: 50% chance to perform the following actions when this character casts their Special Skill",
+            " * Deals 70% damage to all enemies.",
+            " * Dispells the latest dispellable buff from all enemies."
         ]
     },
     {
         "originalIndex": 702,
-        "name": "贝拉多娜 (Belladonna)",
+        "name": "巴斯泰托 (Bastet) C1",
         "passives": [
-            "法力增加削减：通过特殊技能增加的法力值降低 -80%。此效果对战场上的所有敌人生效。"
+            "Effects on Special Skill: 50% chance to perform the following actions when this character casts their Special Skill:",
+            " * Deals 70% damage to all enemies.",
+            " * Dispells the latest dispellable buff from all enemies.",
+            "Extra Chance for Effects On Special Skill: When this character casts their Special Skill, any of their Passive Skills that grant extra effects on cast have 3 chances to activate.",
+            "Mana on Status Ailment Received: This character gains 5% mana when they receive a status ailment or negative stack."
         ]
     },
     {
         "originalIndex": 703,
+        "name": "贝琪 (Becky)",
+        "passives": [
+            "Stack on Special: When this character casts their Special Skill, all enemies get -5% mana generation stack. If the Special Skill is fully changed, all enemies get two stacks. An enemy can have up to 10 stacks.",
+            "Health Recovery on Special: When this character casts their Special Skill, they have a 50% chance to recover 15% health for all allies. If the Special Skill is fully changed, the chance is 100%."
+        ]
+    },
+    {
+        "originalIndex": 704,
+        "name": "贝拉多娜 (Belladonna)",
+        "passives": [
+            "Mana increase reduction: Reduces the amount of mana increased by Special Skill by -80%. The effect applies to all enemies in the battle."
+        ]
+    },
+    {
+        "originalIndex": 705,
         "name": "贝拉 (Bera)",
         "passives": []
     },
     {
-        "originalIndex": 704,
+        "originalIndex": 706,
         "name": "贝拉 (Bera) C1",
         "passives": []
     },
     {
-        "originalIndex": 705,
+        "originalIndex": 707,
         "name": "狼老大 (Boss Wolf)",
         "passives": []
     },
     {
-        "originalIndex": 706,
+        "originalIndex": 708,
         "name": "卡尔塔 (Carta)",
         "passives": [
-            "抵抗特殊技能格挡：该角色天生对格挡特殊技能的状态异常有抵抗能力。",
-            "修复核心：该角色的构造核心是修复核心。修复核心在该角色每次施放特殊技能时激活：",
-            "* 当修复核心完全充能时，为所有队友提升 25% 的生命值。",
-            "* 治疗量根据核心的充能程度计算，核心激活时消耗所有充能。"
-        ]
-    },
-    {
-        "originalIndex": 707,
-        "name": "塞西莉亚 (Cecilia)",
-        "passives": [
-            "受到增益时恢复生命：该角色在获得增益或正面效果叠加时恢复 5% 的生命值。"
-        ]
-    },
-    {
-        "originalIndex": 708,
-        "name": "塞妮乌丝 (Cennius)",
-        "passives": [
-            "降低通过特殊技能获得的法力：通过特殊技能增加的法力值降低 -80%。此效果对战场上的所有敌人生效。"
+            "Resist Special Skill Blocking: This character has innate resistance against status ailments that block Special Skill.",
+            "Repair Core: The Construct Core of this character is Repair Core. The Repair Core activates each time this character’s Special Skill is cast:",
+            " * With fully charged Repair Core, boosts the health of all allies by 25%.",
+            " * The healing is scaled by the amount of charge in the Core. All charge is exchausted when the Core is activated."
         ]
     },
     {
         "originalIndex": 709,
-        "name": "查科斯兹洛特 (Chakkoszrot)",
+        "name": "塞西莉亚 (Cecilia)",
         "passives": [
-            "抵抗法力削减：该角色天生对法力削减有抵抗能力。",
-            "受到状态异常时获得法力增益：持有此技能的角色在受到任何状态异常或负面效果叠加时，获得 +24% 的法力生成，持续 3 回合。"
+            "Health Recovery on Buff Received: This character recovers 5% health when they receive a buff or a positive stack."
         ]
     },
     {
         "originalIndex": 710,
-        "name": "晁盖 (Chao Gai)",
+        "name": "塞妮乌丝 (Cennius)",
         "passives": [
-            "特殊攻击暴击时净化：当该角色用特殊技能造成暴击时，会安全地净化所有盟友最新的可净化状态效果。此效果每回合可激活一次。",
-            "正义反叛：",
-            "* 当该角色的特殊技能击中当前生命值较高的角色时，获得 +20% 的生命加成。",
-            "* 当该角色被当前生命值较高的角色的特殊技能击中时，获得 +20% 的法力。",
-            "* 这些效果每个每回合只能激活一次。",
-            "抵抗流血伤害：该角色天生对流血有抵抗能力。"
+            "Reduce Mana Gain from Special Skills: Reduces the amount of mana increased by Special Skill by -80%. The effect applies to all enemies in the battle."
         ]
     },
     {
         "originalIndex": 711,
-        "name": "卡戎 (Charon)",
+        "name": "查科斯兹洛特 (Chakkoszrot)",
         "passives": [
-            "抵抗防御异常：该英雄天生对影响防御的状态异常有抵抗能力。此效果同样适用于影响元素防御的状态异常。",
-            "降低小兵生命值：敌方小兵被召唤时继承的生命值减少 -50%。"
+            "Resist Mana reduction: This character has an innate resistance against mana Reduction.",
+            "Mana Buff on Status Ailment Received: Receives +24% mana generation for 3 turns when this character receives a status ailment or a negative stack."
         ]
     },
     {
         "originalIndex": 712,
-        "name": "克拉里萨 (Clarissa)",
+        "name": "晁盖 (Chao Gai)",
         "passives": [
-            "抵抗剧毒：该角色天生对剧毒有抵抗能力。"
+            "Cleanse on Critical Special Attack: When this character scores a critical hit with their Special Skill, they safely cleanse the latest cleansable status effect from all allies. This effect can activate once per turn.",
+            "Righteous Rebellion: ",
+            " * When this character’s Special Skill hits a character that had higher current HP, gain +20% boosted health.",
+            " * When this character is hit by the Special Skill of a character that had higher current HP, gain +20% mana.",
+            " * Each of these effects can activate once per turn.",
+            "Resist Bleed Damage: This character has innate resistance against Bleed.    "
         ]
     },
     {
         "originalIndex": 713,
-        "name": "暗黑领主 (Dark Lord)",
-        "passives": []
+        "name": "卡戎 (Charon)",
+        "passives": [
+            "Resist Defense Ailments: This Hero has innate resistance against status ailments that affect defense. Applies also to status ailments that affect elemental defense.",
+            "Decreased Minion Health: Enemy Minions inherit -50% less Health when summoned."
+        ]
     },
     {
         "originalIndex": 714,
-        "name": "暗黑领主 (Dark Lord) C1",
+        "name": "克拉里萨 (Clarissa)",
         "passives": [
-            "特殊技能附带诅咒：当该角色施放其特殊技能时，所有敌人受到 473 点诅咒伤害，持续 4 回合，伤害逐回合递增。"
+            "Resist Poison: This character has innate resistance against Poison."
         ]
     },
     {
         "originalIndex": 715,
-        "name": "黑比特 (Darkbeat)",
-        "passives": [
-            "降低复活几率：战场上所有敌人的复活几率降低。几率为原始值的 20%。"
-        ]
+        "name": "暗黑领主 (Dark Lord)",
+        "passives": []
     },
     {
         "originalIndex": 716,
-        "name": "暗羽 (Darkfeather)",
+        "name": "暗黑领主 (Dark Lord) C1",
         "passives": [
-            "特殊技能效果：当该角色施放其特殊技能时，有 50% 几率执行以下操作。",
-            "* 对所有敌人造成 90% 的伤害。",
-            "* 所有敌人获得 -25% 的精准度，持续 3 回合。"
+            "Curse on Special Skill: When this character casts their Special Skill, all enemies receive 473 Curse damage over 4 turns, starting low and increasing every turn."
         ]
     },
     {
         "originalIndex": 717,
-        "name": "亡灵布特 (Deadboot)",
+        "name": "黑比特 (Darkbeat)",
         "passives": [
-            "特殊技能效果：当该角色施放其特殊技能时，有 30% 几率执行以下操作。",
-            "* 对所有敌人造成 90% 的伤害。",
-            "* 所有敌人获得 -25% 的精准度，持续 3 回合。"
+            "Revival Chance Reduction: The chance of revival is reduced for all enemies in the battle. The chance is 20% of the original value."
         ]
     },
     {
         "originalIndex": 718,
-        "name": "新月 (Demilune)",
+        "name": "暗羽 (Darkfeather)",
         "passives": [
-            "抵抗剧毒：该角色天生对剧毒有抵抗能力。",
-            "分摊所受伤害：该角色所受伤害的 20% 将由其他盟友分摊。"
+            "Effects on Special Skill: 50% chance to perform the following actions when this character casts their Special Skill.",
+            " * Deals 90% damage to all enemies.",
+            " * All enemies get -25% accuracy for 3 turns."
         ]
     },
     {
         "originalIndex": 719,
-        "name": "貂蝉 (Diaochan)",
-        "passives": []
+        "name": "亡灵布特 (Deadboot)",
+        "passives": [
+            "Effects on Special Skill: 30% chance to perform the following actions when this character casts their Special Skill.",
+            " * Deals 90% damage to all enemies.",
+            " * All enemies get -25% accuracy for 3 turns."
+        ]
     },
     {
         "originalIndex": 720,
-        "name": "貂蝉 (Diaochan) C1",
+        "name": "新月 (Demilune)",
         "passives": [
-            "无法阻止的小兵：",
-            "* 抵抗小兵移除。",
-            "* 无法被阻止获得小兵。",
-            "* 小兵的攻击和技能无法被禁用。"
+            "Resist Poison: This character has innate resistance against Poison.",
+            "Share Received Damage: 20% of damage received by this charater is shared  with other allies."
         ]
     },
     {
         "originalIndex": 721,
-        "name": "多米西亚 (Domitia)",
+        "name": "貂蝉 (Diaochan)",
         "passives": []
     },
     {
         "originalIndex": 722,
-        "name": "多米西亚 (Domitia) C1",
-        "passives": []
+        "name": "貂蝉 (Diaochan) C1",
+        "passives": [
+            "Unstoppable Minions:",
+            " * Resistance against Minion removal.",
+            " * Can’t be prevented from receiving minions.",
+            " * Minion attacks and abilities can’t be disabled."
+        ]
     },
     {
         "originalIndex": 723,
-        "name": "多米西亚 (Domitia) C2",
+        "name": "多米西亚 (Domitia)",
         "passives": []
     },
     {
         "originalIndex": 724,
-        "name": "多米西亚 (Domitia) 卡通",
-        "passives": [
-            "卡通：额外 75% 几率抵抗所有状态异常、法力削减和增益驱散。"
-        ]
+        "name": "多米西亚 (Domitia) C1",
+        "passives": []
     },
     {
         "originalIndex": 725,
-        "name": "多米西亚 (Domitia) 玻璃",
-        "passives": [
-            "玻璃：额外 60% 几率将状态异常反弹给攻击者。"
-        ]
+        "name": "多米西亚 (Domitia) C2",
+        "passives": []
     },
     {
         "originalIndex": 726,
-        "name": "莫罗博士 (Dr. Moreau)",
+        "name": "多米西亚 (Domitia) 卡通",
         "passives": [
-            "特殊技能伤害减免：该角色受到的特殊技能伤害降低 -20%。"
+            "Toon: 75% extra chance to resist all status ailments, mana reductions and buff dispels."
         ]
     },
     {
         "originalIndex": 727,
-        "name": "莫罗博士 (Dr. Moreau) C1",
+        "name": "多米西亚 (Domitia) 玻璃",
         "passives": [
-            "特殊技能伤害减免：该角色受到的特殊技能伤害降低 -20%。",
-            "对生命加成目标造成更高伤害：在该角色施放特殊技能后，所有盟友对具有生命加成的目标造成的普通攻击和特殊技能伤害提高 +70%，持续 4 回合。"
+            "Glass: 60% extra chance to reflect status ailments back to the attacker."
         ]
     },
     {
         "originalIndex": 728,
-        "name": "恐惧之星 (Dreadstar)",
+        "name": "莫罗博士 (Dr. Moreau)",
         "passives": [
-            "抵抗剧毒：该角色天生对剧毒有抵抗能力。",
-            "分摊所受伤害：该角色所受伤害的 20% 将由其他盟友分摊。"
+            "Special Skill Damage Reduction: Received damage from Special Skills is reduced by -20% for this character."
         ]
     },
     {
         "originalIndex": 729,
-        "name": "杜班 (Dubhan)",
+        "name": "莫罗博士 (Dr. Moreau) C1",
         "passives": [
-            "特殊技能伤害减免：该角色有 10% 的几率将受到的特殊技能直接伤害降至 1 点。",
-            "特殊技能附带持续伤害：当该角色施放其特殊技能时，会给一个随机敌人施加猎人印记。目标在 3 回合内受到 150 点伤害。如果目标已有此效果，则持续时间刷新，伤害增加 150 点，总伤害最高可达 1500 点。"
+            "Special Skill Damage Reduction: Received damage from Special Skills is reduced by -20% for this character.",
+            "Increased Damage Against Boosted Health: After Special Skill cast, all  allies' normal attacks and Special Skills deal +70% damage against targets with boosted health for 4 turns."
         ]
     },
     {
         "originalIndex": 730,
-        "name": "杜拉富勒 (Dularfulr)",
+        "name": "恐惧之星 (Dreadstar)",
         "passives": [
-            "强化抵抗燃烧：该角色天生对燃烧有抵抗能力，并且每次抵抗时获得 450 点生命加成和 5% 的法力。",
-            "熔岩核心。该角色拥有一个熔岩核心。",
-            "熔岩核心在该角色每次施放特殊技能时激活：",
-            "* 所有敌人受到腐蚀燃烧效果，持续 3 回合。当熔岩核心完全充能时，腐蚀燃烧造成 308 点燃烧伤害，并每回合降低目标 -12% 的防御力。对拥有小兵或巨大体型小兵的英雄造成额外伤害。",
-            "* 燃烧伤害量根据核心的充能程度计算，核心激活时消耗所有充能。"
+            "Resist Poison: This character has innate resistance against Poison.",
+            "Share Received Damage: 20% of damage received by this charater is shared with other allies."
         ]
     },
     {
         "originalIndex": 731,
-        "name": "厄洛斯 (Eros)",
+        "name": "杜班 (Dubhan)",
         "passives": [
-            "抵抗特殊技能格挡：该角色天生对格挡特殊技能的状态异常有抵抗能力。"
+            "Special Skill Damage Reduction: This character has a 10% chance to drop the direct damage received from Special Skills to 1.",
+            "Damage Over Time on Special: When this character casts their Special Skill, they give a Hunter’s Mark on a random enemy. The target receives 150 damage over 3 turns. If a target already has this effect, the duration will be refreshed and the damage will be increased by 150, up to 1500 damage in total."
         ]
     },
     {
         "originalIndex": 732,
-        "name": "经验拟态兽 (Experience Mimic) Dark",
+        "name": "杜拉富勒 (Dularfulr)",
         "passives": [
-            "完美精准度：该角色的特殊技能必定命中目标。",
-            "拟态兽战利品：该拟态兽在完成关卡时有几率获得额外战利品。",
-            "* 普通冰雪训练师英雄。",
-            "* 非凡冰雪训练师英雄。",
-            "* 稀有冰雪训练师英雄。",
-            "* 普通冰雪英雄。",
-            "* 非凡冰雪英雄。"
+            "Empowered Resist Burn: This character has innate resistance against Burn and gains 450 boosted heath and 5% mana each time they resist.",
+            "Molten Core. This character has a Molten Core.",
+            "The Molten Core activates each time this character’s Special Skill is cast:",
+            " * All enemies receive Corrosive Burn for 3 turns. With fully charged Molten Core, the Corrosive Burn deals 308 Burn damage, and lowers the target’s defense by -12% each turn. Deals extra damage against heroes with Minions or Mega Minions",
+            " * The Burn damage is scaled by the amount of charge in the Core. All charge is exhausted when the Core is activated."
         ]
     },
     {
         "originalIndex": 733,
-        "name": "法拉 (Farrah)",
+        "name": "厄洛斯 (Eros)",
         "passives": [
-            "队伍大师：",
-            "作为攻击方角色的被动技能：该英雄的部队对较弱元素造成额外元素伤害。",
-            "- 造成的额外元素伤害： +100%",
-            "作为防守方角色的被动技能：该英雄受到来自较强元素部队的元素伤害减少。",
-            "- 受到的元素伤害： -10%"
+            "Resist Special Skill Blocking: This character has innate resistance against status ailments that block Special Skills."
         ]
     },
     {
         "originalIndex": 734,
+        "name": "经验拟态兽 (Experience Mimic) Dark",
+        "passives": [
+            "Perfect Accuracy: This character’s Special Skill never misses its targets.",
+            "Mimic Loot: This Mimic gives a chance for extra loot when completing stages",
+            " * Common Ice Trainer Heroes",
+            " * Uncommon Ice Trainer Heroes",
+            " * Rare Ice Trainer Heroes",
+            " * Common Ice Heroes",
+            " * Uncommon Ice Heroes"
+        ]
+    },
+    {
+        "originalIndex": 735,
+        "name": "法拉 (Farrah)",
+        "passives": [
+            "Troop Mastery:",
+            "Passive Skill as attacking character: This hero’s Troops deal extra  elemental damage against weaker element.",
+            " - Dealt extra elemental damage: +100%",
+            "Passive Skill as defending character: This hero receives less elemental  damage from Troops of stronger element.",
+            " - Received elemental damage: -10%"
+        ]
+    },
+    {
+        "originalIndex": 736,
         "name": "弗蕾亚 (Freya)",
         "passives": []
     },
     {
-        "originalIndex": 735,
+        "originalIndex": 737,
         "name": "弗蕾亚 (Freya) C1",
         "passives": []
     },
     {
-        "originalIndex": 736,
+        "originalIndex": 738,
         "name": "加斯蒂尔 (Gastille)",
         "passives": [
-            "队伍大师：",
-            "作为攻击方角色的被动技能：该英雄的部队对较弱元素造成额外元素伤害。",
-            "- 造成的额外元素伤害： +100%",
-            "作为防守方角色的被动技能：该英雄受到来自较强元素部队的元素伤害减少。",
-            "- 受到的元素伤害： -10%"
-        ]
-    },
-    {
-        "originalIndex": 737,
-        "name": "贡戈斯 (Gongoth)",
-        "passives": [
-            "进阶无视小兵：该角色造成的所有伤害无视小兵和巨大体型小兵。",
-            "进阶抵抗负面小兵效果：该角色天生对来自小兵和巨大体型小兵的负面效果及伤害有抵抗能力。",
-            "完美精准度：该角色的特殊技能必定命中目标。"
-        ]
-    },
-    {
-        "originalIndex": 738,
-        "name": "古尔德隆 (Gooldron)",
-        "passives": [
-            "被击败时召唤史莱姆小兵：当该角色被击败时，为附近的盟友召唤继承其 50% 生命值和 40% 攻击力的史莱姆巨大体型小兵。",
-            "史莱姆小兵分裂：如果该角色一次性失去超过 25% 的最大生命值，会为自己召唤一个继承其 50% 生命值和 40% 攻击力的史莱姆巨大体型小兵。"
+            "Troop Mastery:",
+            "Passive Skill as attacking character: This hero’s Troops deal extra  elemental damage against weaker element.",
+            " - Dealt extra elemental damage: +100%",
+            "Passive Skill as defending character: This hero receives less elemental  damage from Troops of stronger element.",
+            " - Received elemental damage: -10%"
         ]
     },
     {
         "originalIndex": 739,
-        "name": "血齿 (Goretooth)",
+        "name": "贡戈斯 (Gongoth)",
         "passives": [
-            "猎手感知：当该角色施放其特殊技能时，会将自身最新的可净化状态异常转移给目标。如果其特殊技能无法选择敌方目标，则会随机转移至一名敌人。若此角色没有状态异常，则恢复自身 3% 的生命。",
-            "特殊技能附带持续伤害：当该角色施放其特殊技能时，会给一个随机敌人施加猎人印记。目标在 3 回合内受到 150 点伤害。如果目标已有此效果，则持续时间刷新，伤害增加 150 点，总伤害最高可达 1500 点。"
+            "Superior Bypass Minions: All damage done by this character bypasses Minions and Mega Minions.",
+            "Superior Resist Negative Minion Effects: This character has innate resistance against incoming negative effects and damage from Minions and Mega Minions.",
+            "Perfect Accuracy: This character’s Special Skill never misses its targets."
         ]
     },
     {
         "originalIndex": 740,
-        "name": "戈塞克 (Goseck)",
+        "name": "古尔德隆 (Gooldron)",
         "passives": [
-            "石像鬼之肤：每当此石像鬼施放特殊技能时，其石肤会变硬。接下来受到的 5 次伤害将降至 1 点。此效果无法被驱散。"
+            "Slime Minion Upon Defeat: When this character is defeated, they summon Slime Mega Minions to nearby allies with 50% HP and 40% attack inherited from this character.",
+            "Slime Minion Split: If this character loses more than 25% of max health at once, they summon a Slime Mega Minion for themselves with 50% HP and 40% attack."
         ]
     },
     {
         "originalIndex": 741,
-        "name": "格伦德尔之母 (Grendel's Mother)",
+        "name": "血齿 (Goretooth)",
         "passives": [
-            "受到增益时获得法力：此角色在获得增益或正面效果叠加时会获得 5% 的法力。",
-            "强化抵抗法力削减：该角色天生对法力削减有抵抗能力。每次抵抗时还会获得 600 点生命加成和 10% 的法力。",
-            "受到伤害时获得攻击力叠加：当该角色受到特殊技能伤害时，获得 +30% 的攻击力叠加（最多 10 层）。每回合可叠加一层。"
+            "Hunter’s sense: When this character casts their Special Skill, they transfer the newest cleansable status ailment from themself to the target. If the Special Skill cannot target an enemy, a random enemy is chosen instead. If this character has no status ailments, they recover 3% health.",
+            "Damage over time on Special: When this character casts their Special Skill, they give a Hunter’s Mark on a random enemy. The target receives 150 damage over 3 turns. If a target already has this effect, the duration will be refreshed and the damage will be increased by 150, up to 1500 damage in total."
         ]
     },
     {
         "originalIndex": 742,
-        "name": "葛瑞菲斯 (Griffex)",
+        "name": "戈塞克 (Goseck)",
         "passives": [
-            "队伍大师：",
-            "作为攻击方角色的被动技能：该英雄的部队对较弱元素造成额外元素伤害。",
-            "- 造成的额外元素伤害： +100%",
-            "作为防守方角色的被动技能：该英雄受到来自较强元素部队的元素伤害减少。",
-            "- 受到的元素伤害： -10%"
+            "Gargoyle’s Stoneskin: Every time this Gargoyle casts a Special Skill, their Stoneskin hardens. The next 5 times they receive damage, it is dropped to 1. This effect can’t be dispelled."
         ]
     },
     {
         "originalIndex": 743,
-        "name": "格林布尔 (Grimble)",
+        "name": "格伦德尔之母 (Grendel's Mother)",
         "passives": [
-            "抵抗致盲：该角色天生对影响精准度的状态异常有抵抗能力。不适用于来自盟友的状态效果。"
+            "Mana of Buff Received: This character gains 5% mana when they receive a buff or possive stack.",
+            "Empowered Resist Mana Reductions: This character has innate resistance against mana reduction. They also gain 600 boosted health and 10% mana each time they resist.",
+            "Stacking Attack On Damage Received: When this character receives damage from Special Skills, they gain +30% attack Stack (Max: 10). One Stack can be gained per turn."
         ]
     },
     {
         "originalIndex": 744,
+        "name": "葛瑞菲斯 (Griffex)",
+        "passives": [
+            "Troop Mastery:",
+            "Passive Skill as attacking character: This hero’s Troops deal extra  elemental damage against weaker element.",
+            " - Dealt extra elemental damage: +100%",
+            "Passive Skill as defending character: This hero receives less elemental  damage from Troops of stronger element.",
+            " - Received elemental damage: -10%"
+        ]
+    },
+    {
+        "originalIndex": 745,
+        "name": "格林布尔 (Grimble)",
+        "passives": [
+            "Resist Blind: This character has an innate resistance against status ailments that affect Accuracy. Doesn't apply to status effects from allies."
+        ]
+    },
+    {
+        "originalIndex": 746,
         "name": "黑豹守护者 (Guardian Panther)",
         "passives": []
     },
     {
-        "originalIndex": 745,
+        "originalIndex": 747,
         "name": "黑豹守护者 (Guardian Panther) C1",
         "passives": []
     },
     {
-        "originalIndex": 746,
+        "originalIndex": 748,
         "name": "刚特司 (Gunktus)",
         "passives": [
-            "被击败时召唤史莱姆小兵：当该角色被击败时，为附近的盟友召唤继承其 50% 生命值和 40% 攻击力的史莱姆巨大体型小兵。",
-            "史莱姆小兵分裂：如果该角色一次性失去超过 25% 的最大生命值，会为自己召唤一个继承其 50% 生命值和 40% 攻击力的史莱姆巨大体型小兵。"
-        ]
-    },
-    {
-        "originalIndex": 747,
-        "name": "汉娜 (Hannah)",
-        "passives": [
-            "战斗开始时获得法力：该角色在战斗开始时获得 20% 的法力。"
-        ]
-    },
-    {
-        "originalIndex": 748,
-        "name": "汉娜 (Hannah) C1",
-        "passives": [
-            "战斗开始时获得法力：该英雄在战斗开始时获得 20% 的法力。",
-            "对生命加成目标造成更高伤害：在该角色施放特殊技能后，所有盟友对具有生命加成的目标造成的普通攻击和特殊技能伤害提高 +70%，持续 4 回合。"
+            "Slime Minion Upon Defeat: When this character is defeated, they summon Slime Mega Minions to nearby allies with 50% HP and 40% attack inherited from this character.",
+            "Slime Minion Split: If this character loses more than 25% of max health at once, they summon a Slime Mega Minion for themselves with 50% HP and 40% attack."
         ]
     },
     {
         "originalIndex": 749,
-        "name": "山楂 (Hawthorn)",
+        "name": "汉娜 (Hannah)",
         "passives": [
-            "特殊技能伤害减免：该角色有 10% 的几率将受到的特殊技能直接伤害降至 1 点。",
-            "特殊技能附带持续伤害：当该角色施放其特殊技能时，会给一个随机敌人施加猎人印记。目标在 3 回合内受到 150 点伤害。如果目标已有此效果，则持续时间刷新，伤害增加 150 点，总伤害最高可达 1500 点。"
+            "Start Battle with Mana: This character receives 20% mana at the start of the battle."
         ]
     },
     {
         "originalIndex": 750,
-        "name": "赫尔 (Hel)",
-        "passives": []
+        "name": "汉娜 (Hannah) C1",
+        "passives": [
+            "Start Battle With Mana: This Hero receives 20% mana at the start of the battle.",
+            "Increased Damage Against Boosted Health: After this character casts their Special Skill, all allies deal +70% increased normal attacks and Special Skills damage against targets with boosted health for 4 turns."
+        ]
     },
     {
         "originalIndex": 751,
-        "name": "赫尔 (Hel) C1",
+        "name": "山楂 (Hawthorn)",
         "passives": [
-            "特殊技能驱散：当该角色施放其特殊技能时，会驱散所有敌人身上最新的状态效果增益。"
+            "Special Skill Damage Reduction: This character has a 10% chance to drop the direct damage received from Special Skills to 1.",
+            "Damage Over Time on Special: When this character casts their Special Skill, they give a Hunter’s Mark on a random enemy. The target receives 150 damage over 3 turns. If a target already has this effect, the duration will be refreshed and the damage will be increased by 150, up to 1500 damage in total."
         ]
     },
     {
         "originalIndex": 752,
-        "name": "赫里德马尔 (Hreidmarr)",
-        "passives": [
-            "强化抵抗燃烧：该角色天生对燃烧有抵抗能力，并且每次抵抗时获得 450 点生命加成和 5% 的法力。",
-            "熔岩核心。该角色拥有一个熔岩核心。",
-            "熔岩核心在该角色每次施放特殊技能时激活：",
-            "* 所有敌人受到腐蚀燃烧效果，持续 3 回合。当熔岩核心完全充能时，腐蚀燃烧造成 312 点燃烧伤害，并每回合降低目标 -12% 的防御力。对拥有小兵或巨大体型小兵的英雄造成额外伤害。",
-            "* 燃烧伤害量根据核心的充能程度计算，核心激活时消耗所有充能。"
-        ]
+        "name": "赫尔 (Hel)",
+        "passives": []
     },
     {
         "originalIndex": 753,
-        "name": "胡尔达 (Hulda)",
+        "name": "赫尔 (Hel) C1",
         "passives": [
-            "延长增益持续时间：该角色从特殊技能中获得的前 3 个增益效果的持续时间增加 1 回合。"
+            "Dispel on Special Skill: When this character casts their Special Skill, they dispel the newest status effect buff from all enemies."
         ]
     },
     {
         "originalIndex": 754,
-        "name": "胡尔达 (Hulda) C1",
+        "name": "赫里德马尔 (Hreidmarr)",
         "passives": [
-            "延长增益持续时间：该角色从特殊技能中获得的前 3 个增益效果的持续时间增加 1 回合。",
-            "特殊技能提升生命值：当该角色施放其特殊技能时，为所有队友提升 10% 的生命值。"
+            "Empowered Resist Burn: This character has innate resistance against Burn and gains 450 boosted health and 5% mana each time they resist.",
+            "Molten Core. This character has a Molten Core.",
+            "The Molten Core activates each time this character’s Special Skill is cast:",
+            " * All enemies receive Corrosive Burn for 3 turns. With fully charged Molten Core, the Corrosive Burn deals 312 Burn damage, and lowers the target’s defense by -12% each turn. Deals extra damage against heroes with Minions or Mega Minions",
+            " * The Burn damage is scaled by the amount of charge in the Core. All charge is exhausted when the Core is activated."
         ]
     },
     {
         "originalIndex": 755,
-        "name": "狩猎者 (Hunter)",
+        "name": "胡尔达 (Hulda)",
         "passives": [
-            "古神的标记：该角色每拥有 5% 点狂乱，受到的所有伤害便降低 10，最多可降低 50%。"
+            "Increase Buff Duration: Duration of the first 3 buffs this character receives from Special Skill is increased by 1 turn."
         ]
     },
     {
         "originalIndex": 756,
-        "name": "飓风 (Hurricane)",
+        "name": "胡尔达 (Hulda) C1",
         "passives": [
-            "猎人之毅：当该角色施放其特殊技能时，获得 +20% 的攻击力，持续 3 回合。此效果可与其他改变攻击力的效果并存。",
-            "特殊技能附带持续伤害：当该角色施放其特殊技能时，会给一个随机敌人施加猎人印记。目标在 3 回合内受到 150 点伤害。如果目标已有此效果，则持续时间刷新，伤害增加 150 点，总伤害最高可达 1500 点。"
+            "Increase Buff Duration: Duration of the first 3 buffs this character receives from Special Skills is increased by 1 turn.",
+            "Health Boost on Special Skill: When this characters casts their Special Skill, they boost the health of all their allies by 10%."
         ]
     },
     {
         "originalIndex": 757,
-        "name": "伊玛古斯 (Imagus)",
+        "name": "狩猎者 (Hunter)",
         "passives": [
-            "九条命：",
-            "* 被击败时，该角色有 80% 的几率在下一回合开始时以 50% 的生命值和 80% 的法力复活。",
-            "* 最多激活 9 次。每次激活后复活几率降低。无法被被动技能的状态异常阻止。",
-            "特质：轻盈体态。",
-            "该角色不受增加或减少防御的效果影响。",
-            "这包括：",
-            "* - 状态效果增益和异常。",
-            "* - 正面和负面叠加。",
-            "* - 成长和衰退效果。"
+            "Marked by the Old Ones: All damage is reduced by 5% per 10 Insanity for this character up to a maximum reduction of 50%."
         ]
     },
     {
         "originalIndex": 758,
-        "name": "炸脖龙 (Jabberwock)",
-        "passives": []
+        "name": "飓风 (Hurricane)",
+        "passives": [
+            "Hunter's Vigor: When this character casts their Special Skill, they get +20% attack for 3 turns. This effect can be active in addition to other effects that alter attack.",
+            "Damage over time on special: When this character casts their Special Skill, they give a Hunter's Mark on a random enemy. The target receives 150 damage over 3 turns. If a target already has this effect, the duration will be refreshed and the damage will be increased by 150, up to 1500 damage in total."
+        ]
     },
     {
         "originalIndex": 759,
-        "name": "炸脖龙 (Jabberwock) C1",
+        "name": "伊玛古斯 (Imagus)",
         "passives": [
-            "特殊技能附带莽夫乱拳：施放特殊技能时， 50% 几率对一个随机敌人施加莽夫乱拳，持续 3 回合。"
+            "Nine Lives:",
+            " * When defeated this character has 80% chance to revive at the begining of their next turn with 50% health and 80% mana.",
+            " * Activates up to 9 times. Chance to revive is reduced on each activation. Can’t be prevented with status ailments on Passive Skills.",
+            "Trait: Lithe Frame",
+            "This character is not affect by effects that increase or reduce defense.",
+            "This includes:",
+            " * - Status effect buffs and ailments.",
+            " * - Positive and negative stacks.",
+            " * - Growth and Wither effects."
         ]
     },
     {
         "originalIndex": 760,
-        "name": "杰特 (Jett)",
-        "passives": [
-            "特殊技能叠加：当该角色施放其特殊技能时，所有敌人获得 -5% 的法力生成叠加。如果特殊技能完全充能，则所有敌人获得两层叠加。一个敌人最多可以有 10 层叠加。",
-            "特殊技能恢复生命：当该角色施放其特殊技能时，有 50% 的几率为所有队友恢复 15% 的生命值。如果特殊技能完全充能，则几率为 100%。"
-        ]
+        "name": "炸脖龙 (Jabberwock)",
+        "passives": []
     },
     {
         "originalIndex": 761,
+        "name": "炸脖龙 (Jabberwock) C1",
+        "passives": [
+            "Mindless Attack On Special Skill: On Special Skill cast, 50% chance to inflict Mindless Attack on a random enemy for 3 turns."
+        ]
+    },
+    {
+        "originalIndex": 762,
+        "name": "杰特 (Jett)",
+        "passives": [
+            "Stack on Special: When this character casts their Special Skill, all enemies get -5% mana generation stack. If the Special Skill is fully changed, all enemies get two stacks. An enemy can have up to 10 stacks.",
+            "Health Recovery on Special: When this character casts their Special Skill, they have a 50% chance to recover 15% health for all allies. If the Special Skill is fully changed, the chance is 100%."
+        ]
+    },
+    {
+        "originalIndex": 763,
         "name": "影血 (Kageburado)",
         "passives": []
     },
     {
-        "originalIndex": 762,
+        "originalIndex": 764,
         "name": "影血 (Kageburado) C1",
         "passives": []
     },
     {
-        "originalIndex": 763,
+        "originalIndex": 765,
         "name": "卡洛夫 (Karnov)",
         "passives": []
     },
     {
-        "originalIndex": 764,
+        "originalIndex": 766,
         "name": "卡洛夫 (Karnov) C1",
         "passives": [
-            "特殊技能附带诅咒：当该角色施放其特殊技能时，所有敌人受到 461 点诅咒伤害，持续 4 回合，伤害逐回合递增。"
-        ]
-    },
-    {
-        "originalIndex": 765,
-        "name": "凯梅尼 (Kemeny)",
-        "passives": [
-            "石像鬼之肤：每当此石像鬼施放特殊技能时，其石肤会变硬。接下来受到的 4 次伤害将降至 1 点。此效果无法被驱散。"
-        ]
-    },
-    {
-        "originalIndex": 766,
-        "name": "凯布利 (Khepri)",
-        "passives": [
-            "特殊技能效果：当该角色施放其特殊技能时，有 60% 几率执行以下操作：",
-            "* 对所有敌人造成 70% 的伤害。",
-            "* 所有敌人的法力生成速度降低 -24%，持续 3 回合。"
+            "Curse on Special Skill: When this character casts their Special Skill, all enemies receive 461 Curse damage over 4 turns, starting low and increasing every turn.      "
         ]
     },
     {
         "originalIndex": 767,
-        "name": "凯布利 (Khepri) C1",
+        "name": "凯梅尼 (Kemeny)",
         "passives": [
-            "特殊技能效果：当该角色施放其特殊技能时，有 60% 几率执行以下操作：",
-            "* 对所有敌人造成 70% 的伤害。",
-            "* 所有敌人的法力生成速度降低 -24%，持续 3 回合。",
-            "特殊技能额外效果几率：当该角色施放其特殊技能时，其任何提供额外施法效果的被动技能都有 3 次激活机会。",
-            "抵抗沙系伤害：该角色天生对沙系伤害有抵抗能力。"
+            "Gargoyle’s Stoneskin: Every time this Gargoyle casts a Special Skill, their Stoneskin hardens. The next 4 times they receive damage, it is dropped to 1. This effect can’t be dispelled."
         ]
     },
     {
         "originalIndex": 768,
-        "name": "基奥娜 (Khiona)",
-        "passives": []
+        "name": "凯布利 (Khepri)",
+        "passives": [
+            "Effects on Special Skill: 60% chance to perform the following actions when this character casts their Special Skill",
+            " * Deals 70% damage to all enemies.",
+            " * All enemies get -24% mana generation for 3 turns."
+        ]
     },
     {
         "originalIndex": 769,
-        "name": "基奥娜 (Khiona) C1",
+        "name": "凯布利 (Khepri) C1",
         "passives": [
-            "特殊技能驱散：当该角色施放其特殊技能时，会驱散所有敌人身上最新的状态效果增益。"
+            "Effects on Special Skill: 60% chance to perform the following actions when this character casts their Special Skill",
+            " * Deals 70% damage to all enemies.",
+            " * All enemies get -24% mana generation for 3 turns.",
+            "Extra Chance for Effects on Special Skill: When this character casts their Special Skill, any of their Passive Skills that grant extra effects on cast have 3 chances to activate.",
+            "Resist Sand Damage: This character has innate resistance against sand damage."
         ]
     },
     {
         "originalIndex": 770,
-        "name": "孔舒 (Khonshu)",
-        "passives": [
-            "特殊技能效果：当该角色施放其特殊技能时，有 40% 几率执行以下操作：",
-            "* 对所有敌人造成 70% 的伤害。",
-            "* 所有敌人的法力生成速度降低 -24%，持续 3 回合。"
-        ]
+        "name": "基奥娜 (Khiona)",
+        "passives": []
     },
     {
         "originalIndex": 771,
-        "name": "孔舒 (Khonshu) C1",
+        "name": "基奥娜 (Khiona) C1",
         "passives": [
-            "特殊技能效果：当该角色施放其特殊技能时，有 40% 几率执行以下操作：",
-            "* 对所有敌人造成 70% 的伤害。",
-            "* 所有敌人的法力生成速度降低 -24%，持续 3 回合。",
-            "特殊技能额外效果几率：当该角色施放其特殊技能时，其任何提供额外施法效果的被动技能都有 3 次激活机会。",
-            "抵抗沙系伤害：该角色天生对沙系伤害有抵抗能力。"
+            "Dispel on Special Skill: When this character casts their Special Skill, they dispel the newest status efect buff from all enemies."
         ]
     },
     {
         "originalIndex": 772,
+        "name": "孔舒 (Khonshu)",
+        "passives": [
+            "Effects on Special Skill: 40% chance to perform the following actions when this character casts their Special Skill",
+            " * Deals 70% damage to all enemies.",
+            " * All enemies get -24% mana generation for 3 turns."
+        ]
+    },
+    {
+        "originalIndex": 773,
+        "name": "孔舒 (Khonshu) C1",
+        "passives": [
+            "Effects on Special Skill: 40% chance to perform the following actions when this character casts their Special Skill",
+            " * Deals 70% damage to all enemies.",
+            " * All enemies get -24% mana generation for 3 turns.",
+            "Extra Chance for Effects on Special Skill: When this character casts their Special Skill, any of their Passive Skills that grant extra effects on cast have 3 chances to activate.",
+            "Resist Sand Damage: This character has innate resistance against sand damage."
+        ]
+    },
+    {
+        "originalIndex": 774,
         "name": "杀戮野兔 (Killhare)",
         "passives": []
     },
     {
-        "originalIndex": 773,
+        "originalIndex": 775,
         "name": "杀戮野兔 (Killhare) C1",
         "passives": []
     },
     {
-        "originalIndex": 774,
+        "originalIndex": 776,
         "name": "红心骑士 (Knave of Hearts)",
         "passives": []
     },
     {
-        "originalIndex": 775,
+        "originalIndex": 777,
         "name": "奈特司 (Knightus)",
         "passives": [
-            "被击败时召唤史莱姆小兵：当该角色被击败时，为附近的盟友召唤继承其 50% 生命值和 40% 攻击力的史莱姆巨大体型小兵。",
-            "史莱姆小兵分裂：如果该角色一次性失去超过 25% 的最大生命值，会为自己召唤一个继承其 50% 生命值和 40% 攻击力的史莱姆巨大体型小兵。"
-        ]
-    },
-    {
-        "originalIndex": 776,
-        "name": "坤奇恩 (Kunchen)",
-        "passives": [
-            "抵抗防御异常：该角色天生对影响防御的状态异常和负面叠加有抵抗能力。不适用于影响元素防御的状态异常。"
-        ]
-    },
-    {
-        "originalIndex": 777,
-        "name": "勒皮奥塔 (Lepiota)",
-        "passives": [
-            "特殊技能伤害减免：该角色受到的特殊技能伤害降低 -20%。"
+            "Slime Minion Upon Defeat: When this character is defeated, they summon Slime Mega Minions to nearby allies with 50% HP and 40% attack inherited from this character.",
+            "Slime Minion Split: If this character loses more than 25% of max health at once, they summon a Slime Mega Minion for themselves with 50% HP and 40% attack."
         ]
     },
     {
         "originalIndex": 778,
-        "name": "勒皮奥塔 (Lepiota) C1",
+        "name": "坤奇恩 (Kunchen)",
         "passives": [
-            "特殊技能伤害减免：该角色受到的特殊技能伤害降低 -20%。",
-            "特殊技能提升生命值：施放特殊技能时，为所有队友提升 10% 的生命值。"
+            "Resist Defense Ailments: This character has an innate resistance against status ailments and negative stacks that affect defense. Doesn't apply to status ailments that affect Elemental Defense."
         ]
     },
     {
         "originalIndex": 779,
-        "name": "娄希 (Louhi)",
+        "name": "勒皮奥塔 (Lepiota)",
         "passives": [
-            "西苏之力：当该角色在战斗中首次以低生命值开始回合时，他们会恢复 15% 的生命值并获得 15% 的法力。"
+            "Special Skill Damage Reduction: Received damage from Special Skills is reduced by -20% for this character."
         ]
     },
     {
         "originalIndex": 780,
-        "name": "娄希 (Louhi) C1",
+        "name": "勒皮奥塔 (Lepiota) C1",
         "passives": [
-            "西苏之力：当该角色在战斗中首次以低生命值开始回合时，他们会恢复 15% 的生命值并获得 15% 的法力。"
+            "Special Skill Damage Reduction: Received damage from Special Skills is reduced by -20% for this character.",
+            "Health Boost on Special Skill: On Special Skill cast, boosts all allies’ HP by 10%."
         ]
     },
     {
         "originalIndex": 781,
-        "name": "吕布 (Lu Bu)",
-        "passives": []
+        "name": "娄希 (Louhi)",
+        "passives": [
+            "Power of Sisu: When this character starts a turn with low health for the first time during a battle, they recover 15% health and receive 15% mana."
+        ]
     },
     {
         "originalIndex": 782,
-        "name": "吕布 (Lu Bu) C1",
+        "name": "娄希 (Louhi) C1",
         "passives": [
-            "无法阻止的小兵：",
-            "* 抵抗小兵移除。",
-            "* 无法被阻止获得小兵。",
-            "* 小兵的攻击和技能无法被禁用。"
+            "Power of Sisu: When this character starts a turn with low health for the first time during a battle, they recover 15% health and receive 15% mana."
         ]
     },
     {
         "originalIndex": 783,
-        "name": "卢辛达 (Lucinda)",
-        "passives": [
-            "窃取增益：当该角色施放其特殊技能时，有 50% 的几率从一个带有增益的随机敌人身上窃取最新的可驱散增益。如果没有敌人带有增益，则对所有敌人造成 70% 的伤害。"
-        ]
-    },
-    {
-        "originalIndex": 784,
-        "name": "路德维希 (Ludwig)",
+        "name": "吕布 (Lu Bu)",
         "passives": []
     },
     {
-        "originalIndex": 785,
-        "name": "露娜 (Luna)",
+        "originalIndex": 784,
+        "name": "吕布 (Lu Bu) C1",
         "passives": [
-            "魔宠之友：当小兵被召唤到任何盟友身上时，该角色获得 5% 的生命值和 5% 的法力。此效果每回合只能激活一次。",
-            "萌宠之怒：当恶魔被召唤到任何敌人身上时，该角色对所有敌人造成 85% 的伤害。此效果每回合只能激活一次。"
+            "Unstoppable Minions:",
+            " * Resistance against Minion removal.",
+            " * Can’t be prevented from receiving Minions.",
+            " * Minion attack and abilities can’t be disabled."
+        ]
+    },
+    {
+        "originalIndex": 785,
+        "name": "卢辛达 (Lucinda)",
+        "passives": [
+            "Steal Buff: When this character casts their Special Skill, they have a 50% chance to steal the newest dispellable buff from a random enemy that has buffs. If no enemy has buffs, deals 70% damage to all enemies."
         ]
     },
     {
         "originalIndex": 786,
-        "name": "吉莉夫人 (Madame Giry)",
-        "passives": [
-            "状态异常失效或被清除时恢复生命：每当一个状态异常从该角色身上失效、被净化、移除或重新分配时，该角色会恢复 20% 的生命值。此效果每回合只能激活一次。",
-            "抵抗攻击异常：该角色天生对影响攻击力的状态异常有抵抗能力。"
-        ]
+        "name": "路德维希 (Ludwig)",
+        "passives": []
     },
     {
         "originalIndex": 787,
-        "name": "麦希 (Maisie)",
+        "name": "露娜 (Luna)",
         "passives": [
-            "抵抗法力削减：该角色天生对法力削减有抵抗能力。",
-            "守卫集结：每 4 回合，移除所有盟友身上的衰退效果。"
+            "Friend of the Familiars: When a Minion is summoned to any ally, this character gains 5% health and 5% mana. This effect can activate only once per turn.",
+            "Wrath of pets: When a Fiend is summoned to any enemy, this character deals 85% damage to all enemies. This effect can activate only once per turn."
         ]
     },
     {
         "originalIndex": 788,
-        "name": "马利克纳 (Malicna)",
+        "name": "吉莉夫人 (Madame Giry)",
         "passives": [
-            "抵抗生命偷取异常：该角色天生对偷取生命的状态异常有抵抗能力。",
-            "法力削减时获得状态效果：当该角色的法力被削减时，其获得 +94% 的神圣防御力，持续 3 回合。"
+            "Heal when status ailment expires or is cleared: This character receives 20% health each time a status ailment expires or is cleansed, removed or reallocated from them. This effect can activate only once per turn.",
+            "Resist Attack Ailments: This character has innate resistance against status ailments that affect attack."
         ]
     },
     {
         "originalIndex": 789,
-        "name": "玛丽-特瑞莎 (Marie-Therese)",
-        "passives": []
+        "name": "麦希 (Maisie)",
+        "passives": [
+            "Resist Mana reduction: This character has an innate resistance against mana Reduction.",
+            "Guard Rally: Every 4 turns, removes all Wither effects from all allies."
+        ]
     },
     {
         "originalIndex": 790,
-        "name": "玛丽-特瑞莎 (Marie-Therese) C1",
+        "name": "马利克纳 (Malicna)",
         "passives": [
-            "特殊技能附带剧毒：当该角色施放其特殊技能时，所有敌人会在 4 回合内受到 504 点剧毒伤害。"
+            "Resist Health Steal Ailments: This character has innate resistance against status ailments that steal health.",
+            "Status Effect on Mana Reduction: This character gets +94% defense against Holy for 3 turns when their mana is reduced."
         ]
     },
     {
         "originalIndex": 791,
-        "name": "莫德 (Maud)",
-        "passives": [
-            "致盲小兵：所有敌方小兵拥有 -60% 精准度。所有敌方超级小兵拥有 -50% 精准度。",
-            "抵抗狂乱：该角色天生对狂乱有抵抗能力。",
-            "抵抗攻击力削减：该角色天生对影响攻击力的状态异常、叠加和衰退效果有抵抗能力。"
-        ]
+        "name": "玛丽-特瑞莎 (Marie-Therese)",
+        "passives": []
     },
     {
         "originalIndex": 792,
-        "name": "美狄亚 (Medea)",
+        "name": "玛丽-特瑞莎 (Marie-Therese) C1",
         "passives": [
-            "特殊技能效果：当该角色施放其特殊技能时，有 50% 几率执行以下操作：",
-            "* 对所有敌人造成 80% 的伤害。",
-            "* 施法者获得 +19% 的法力生成，持续 2 回合。",
-            "抵抗狂乱：该角色天生对狂乱有抵抗能力。"
+            "Poison on Special Skill: When this character casts their Special Skill, all enemies receive 504 Poison damage over 4 turns."
         ]
     },
     {
         "originalIndex": 793,
-        "name": "美狄亚 (Medea) C1",
+        "name": "莫德 (Maud)",
         "passives": [
-            "特殊技能效果：当该角色施放其特殊技能时，有 50% 几率执行以下操作：",
-            "* 对所有敌人造成 80% 的伤害。",
-            "* 施法者获得 +19% 的法力生成，持续 2 回合。",
-            "抵抗狂乱：该角色天生对狂乱有抵抗能力。"
+            "Minion Blind: All enemies’ Minions have -60% accuracy. All enemies’ Mega Minions have -50% accuracy.",
+            "Resist Insanity: This character has innate resistance against Insanity.",
+            "Resist Attack Reduction: This character has innate resistance against status ailments, stacks and Wither effects that affect attack."
         ]
     },
     {
         "originalIndex": 794,
-        "name": "忧郁者 (Melancholia)",
+        "name": "美狄亚 (Medea)",
         "passives": [
-            "古神的标记：该角色每拥有 5% 点狂乱，受到的所有伤害便降低 10，最多可降低 50%。"
+            "Effects on Special Skill: 50% chance to perform the following actions when this character casts their Special Skill",
+            " * Deals 80% damage to all enemies.",
+            " * The caster gets +19% mana generation for 2 turns.",
+            "Resist Insanity: This character has innate resistance against Insanity."
         ]
     },
     {
         "originalIndex": 795,
+        "name": "美狄亚 (Medea) C1",
+        "passives": [
+            "Effects on Special Skill: 50% chance to perform the following actions when this character casts their Special Skill",
+            " * Deals 80% damage to all enemies.",
+            " * The caster gets +19% mana generation for 2 turns.",
+            "Resist Insanity: This character has innate resistance against Insanity."
+        ]
+    },
+    {
+        "originalIndex": 796,
+        "name": "忧郁者 (Melancholia)",
+        "passives": [
+            "Marked by the Old Ones: All damage is reduced by 5% per 10 Insanity for this character up to a maximum reduction of 50%."
+        ]
+    },
+    {
+        "originalIndex": 797,
         "name": "巨齿鲨 (Mok-Arr)",
         "passives": []
     },
     {
-        "originalIndex": 796,
+        "originalIndex": 798,
         "name": "巨齿鲨 (Mok-Arr) C1",
         "passives": []
     },
     {
-        "originalIndex": 797,
+        "originalIndex": 799,
         "name": "摩拉克斯 (Morax)",
         "passives": [
-            "抵抗法力生成异常：该角色天生对影响法力生成的状态异常和负面叠加有抵抗能力。不适用于阻止法力生成或偷取法力的状态异常。",
-            "敌方施放生命加成特殊技能时获得法力：每当敌人施放直接提升生命值的特殊技能时，该角色获得 5% 的法力。"
-        ]
-    },
-    {
-        "originalIndex": 798,
-        "name": "死亡女巫 (Mortewitch)",
-        "passives": [
-            "闪避特殊技能伤害：该角色有 15% 的几率闪避造成伤害的特殊技能。"
-        ]
-    },
-    {
-        "originalIndex": 799,
-        "name": "莫迪默 (Mortimer)",
-        "passives": [
-            "特殊技能附带持续伤害：当该角色施放其特殊技能时，所有敌人会在 2 回合内受到 202 点水系伤害。",
-            "抵抗水系伤害：该角色天生对水系伤害有抵抗能力。"
+            "Resist Mana Generation Ailments: This character has innate resistance against status ailments and negative stacks that affect mana generation. Doesn’t apply to status ailments that stop mana generation or steal mana.",
+            "Mana on Health Boosting Special Skill: This character gains 5% mana each time an enemy casts a Special Skill that directly boosts health."
         ]
     },
     {
         "originalIndex": 800,
-        "name": "神秘人 (Myztero)",
+        "name": "死亡女巫 (Mortewitch)",
         "passives": [
-            "回溯状态异常：该英雄天生能够回溯状态异常。施加在该英雄身上的最近 5 个状态异常会被回溯，直到施放特殊技能为止。"
+            "Dodge Special Damage: This character has a 15% chance to dodge Special Skills that deal damage."
         ]
     },
     {
         "originalIndex": 801,
-        "name": "娜希莎 (Narcisa)",
+        "name": "莫迪默 (Mortimer)",
         "passives": [
-            "法力增加削减：通过特殊技能增加的法力值降低 -80%。此效果对战场上的所有敌人生效。"
+            "Damage over time on Special: When this character casts their Special Skill, all enemies receive 202 Water damage over 2 turns.",
+            "Resist Water Damage: This character has innate resistance against Water Damage."
         ]
     },
     {
         "originalIndex": 802,
-        "name": "倪克斯 (Nyx)",
+        "name": "神秘人 (Myztero)",
         "passives": [
-            "降低小兵生命值：敌方小兵被召唤时继承的生命值减少 -50%。",
-            "抵抗防御异常：该角色天生对影响防御的状态异常有抵抗能力。此效果同样适用于影响元素防御的状态异常。"
+            "Memorize Status Ailments: This hero has an innate ability to memorize status ailments. The latest 5 status ailments that are cast on the Hero will stay memorized until the Special Skill is cast."
         ]
     },
     {
         "originalIndex": 803,
+        "name": "娜希莎 (Narcisa)",
+        "passives": [
+            "Mana increase reduction: Reduces the amount of mana increased by Special Skill by -80%. The effect applies to all enemies in the battle."
+        ]
+    },
+    {
+        "originalIndex": 804,
+        "name": "倪克斯 (Nyx)",
+        "passives": [
+            "Decreased Minion Health: Enemy Minions inherit -50% less Health when summoned.",
+            "Resist Defense Ailments: This character has innate resistance against status ailments that affect defense. Applies also to status ailments that affect elemental defense."
+        ]
+    },
+    {
+        "originalIndex": 805,
         "name": "欧巴坎 (Obakan)",
         "passives": []
     },
     {
-        "originalIndex": 804,
+        "originalIndex": 806,
         "name": "欧巴坎 (Obakan) C1",
         "passives": []
     },
     {
-        "originalIndex": 805,
+        "originalIndex": 807,
         "name": "欧巴坎 (Obakan) C2",
         "passives": []
     },
     {
-        "originalIndex": 806,
+        "originalIndex": 808,
         "name": "欧巴坎 (Obakan) 卡通",
         "passives": [
-            "卡通：额外 75% 几率抵抗所有状态异常、法力削减和增益驱散。"
-        ]
-    },
-    {
-        "originalIndex": 807,
-        "name": "欧巴坎 (Obakan) 玻璃",
-        "passives": [
-            "玻璃：额外 60% 几率将状态异常反弹给攻击者。"
-        ]
-    },
-    {
-        "originalIndex": 808,
-        "name": "奥迪尔 (Odile)",
-        "passives": [
-            "抵抗防御异常：该角色天生对影响防御的状态异常有抵抗能力。不适用于影响元素防御的状态异常。",
-            "状态异常失效或被清除时恢复生命：每当一个状态异常从该角色身上失效、被净化、移除或重新分配时，该角色会恢复 5% 的生命值。此效果每回合只能激活一次。"
+            "Toon: 75% extra chance to resist all status ailments, mana reductions and buff dispels."
         ]
     },
     {
         "originalIndex": 809,
-        "name": "奥莫德斯 (Ommodus)",
+        "name": "欧巴坎 (Obakan) 玻璃",
         "passives": [
-            "降低通过特殊技能获得的法力：通过特殊技能增加的法力值降低 -80%。此效果对战场上的所有敌人生效。"
+            "Glass: 60% extra chance to reflect status ailments back to the attacker."
         ]
     },
     {
         "originalIndex": 810,
+        "name": "奥迪尔 (Odile)",
+        "passives": [
+            "Resist Defense Ailments: This character has innate resistance against status ailments that affect defense. Doesn’t apply to status ailments that affect elemental defense.",
+            "Heal when status ailment expires or is cleared: This character receives 5% health each time a status ailment expires or is cleansed, removed or reallocated from them. This effect can activate only once per turn."
+        ]
+    },
+    {
+        "originalIndex": 811,
+        "name": "奥莫德斯 (Ommodus)",
+        "passives": [
+            "Reduce Mana Gain from Special Skills: Reduces the amount of mana increased by Special Skill by -80%. The effect applies to all enemies in the battle."
+        ]
+    },
+    {
+        "originalIndex": 812,
         "name": "玛瑙 (Onyx)",
         "passives": []
     },
     {
-        "originalIndex": 811,
+        "originalIndex": 813,
         "name": "薄荷 (Peppermint)",
         "passives": []
     },
     {
-        "originalIndex": 812,
+        "originalIndex": 814,
         "name": "歌剧魅影 (Phantom of the Opera)",
         "passives": [
-            "状态异常失效或被清除时恢复生命：每当一个状态异常从该角色身上失效、被净化、移除或重新分配时，该角色会恢复 10% 的生命值。此效果每回合只能激活一次。",
-            "抵抗攻击异常：该角色天生对影响攻击力的状态异常有抵抗能力。"
-        ]
-    },
-    {
-        "originalIndex": 813,
-        "name": "福耳库斯 (Phorcys)",
-        "passives": [
-            "特殊技能效果：当该角色施放其特殊技能时，有 50% 几率执行以下操作：",
-            "* 对所有敌人造成 80% 的伤害。",
-            "* 所有队友获得 +21% 的暴击率，持续 2 回合。",
-            "抵抗狂乱：该角色天生对狂乱有抵抗能力。"
-        ]
-    },
-    {
-        "originalIndex": 814,
-        "name": "福耳库斯 (Phorcys) C1",
-        "passives": [
-            "特殊技能效果：当该角色施放其特殊技能时，有 50% 几率执行以下操作：",
-            "* 对所有敌人造成 80% 的伤害。",
-            "* 所有队友获得 +21% 的暴击率，持续 2 回合。",
-            "抵抗狂乱：该角色天生对狂乱有抵抗能力。"
+            "Heal when status ailment expires or is cleared: This character receives 10% health each time a status ailment expires or is cleansed, removed or reallocated from them. This effect can activate only once per turn.",
+            "Resist Attack Ailments: This character has innate resistance against status ailments that affect attack."
         ]
     },
     {
         "originalIndex": 815,
-        "name": "菲托努斯 (Phthonus)",
+        "name": "福耳库斯 (Phorcys)",
         "passives": [
-            "抵抗特殊技能格挡：该角色天生对格挡特殊技能的状态异常有抵抗能力。"
+            "Effects on Special Skill: 50% chance to perform the following actions when this character casts their Special Skill",
+            " * Deals 80% damage to all enemies.",
+            " * All allies get +21% critical chance for 2 turns.",
+            "Resist Insanity: This character has innate resistance against Insanity."
         ]
     },
     {
         "originalIndex": 816,
+        "name": "福耳库斯 (Phorcys) C1",
+        "passives": [
+            "Effects on Special Skill: 50% chance to perform the following actions when this character casts their Special Skill",
+            " * Deals 80% damage to all enemies.",
+            " * All allies get +21% critical chance for 2 turns.",
+            "Resist Insanity: This character has innate resistance against Insanity."
+        ]
+    },
+    {
+        "originalIndex": 817,
+        "name": "菲托努斯 (Phthonus)",
+        "passives": [
+            "Resist Special Skill Blocking: This character has innate resistance against status ailments that block Special Skills."
+        ]
+    },
+    {
+        "originalIndex": 818,
         "name": "瓜尔茨 (Quartz)",
         "passives": []
     },
     {
-        "originalIndex": 817,
+        "originalIndex": 819,
         "name": "昆塔斯 (Quintus)",
         "passives": []
     },
     {
-        "originalIndex": 818,
+        "originalIndex": 820,
         "name": "昆塔斯 (Quintus) C1",
         "passives": []
     },
     {
-        "originalIndex": 819,
+        "originalIndex": 821,
         "name": "昆塔斯 (Quintus) C2",
         "passives": []
     },
     {
-        "originalIndex": 820,
+        "originalIndex": 822,
         "name": "昆塔斯 (Quintus) 卡通",
         "passives": [
-            "卡通：额外 75% 几率抵抗所有状态异常、法力削减和增益驱散。"
+            "Toon: 75% extra chance to resist all status ailments, mana reductions and buff dispels."
         ]
-    },
-    {
-        "originalIndex": 821,
-        "name": "拉蒙娜 (Ramona)",
-        "passives": [
-            "受到状态异常时获得法力增益：持有此技能的角色在受到任何状态异常或负面效果叠加时，获得 +24% 的法力生成，持续 3 回合。",
-            "召唤恶魔时提升生命值：当恶魔被召唤到任何敌人身上时，该角色获得 300 点生命加成。此效果每回合只能激活一次。",
-            "召唤恶魔时获得法力：当恶魔被召唤到任何敌人身上时，该角色获得 5% 的法力。此效果每回合只能激活一次。"
-        ]
-    },
-    {
-        "originalIndex": 822,
-        "name": "莱恩 (Rayne)",
-        "passives": []
     },
     {
         "originalIndex": 823,
-        "name": "罗什福尔 (Rochefort)",
+        "name": "拉蒙娜 (Ramona)",
         "passives": [
-            "特殊技能和掩护伤害时造成伤害：当该角色受到特殊技能伤害或替处于掩护状态的角色承受伤害时，有 60% 的几率对所有敌人造成所受伤害 20% 的伤害。"
+            "Mana Buff on Status Ailment Received: Receives +24% mana generation for 3 turns when this character receives a status ailment or a negative stack.",
+            "Health Boost on Fiend Summon: When a Fiend is summoned to any enemy, this character gets 300 boosted health. This effect can activate only once per turn.",
+            "Mana on Fiend Summon: When a Fiend is summoned to any enemy, this character gains 5% mana. This effect can activate only once per turn."
         ]
     },
     {
         "originalIndex": 824,
-        "name": "鲑鱼洛基 (Salmon Loki)",
+        "name": "莱恩 (Rayne)",
         "passives": []
     },
     {
         "originalIndex": 825,
-        "name": "鲑鱼洛基 (Salmon Loki) C1",
-        "passives": []
+        "name": "罗什福尔 (Rochefort)",
+        "passives": [
+            "Damage on Special Skill and Cover Damage: When this character receives damage from Special Skills or in place of a character in Cover, there’s a 60% chance to deal 20% of the received damage to all enemies."
+        ]
     },
     {
         "originalIndex": 826,
-        "name": "马尾藻 (Sargasso)",
+        "name": "鲑鱼洛基 (Salmon Loki)",
         "passives": []
     },
     {
         "originalIndex": 827,
-        "name": "马尾藻 (Sargasso) C1",
-        "passives": [
-            "特殊技能附带剧毒：当该角色施放其特殊技能时，所有敌人会在 4 回合内受到 476 点剧毒伤害。"
-        ]
+        "name": "鲑鱼洛基 (Salmon Loki) C1",
+        "passives": []
     },
     {
         "originalIndex": 828,
-        "name": "萨塔娜 (Sartana)",
+        "name": "马尾藻 (Sargasso)",
         "passives": []
     },
     {
         "originalIndex": 829,
-        "name": "萨塔娜 (Sartana) C1",
-        "passives": []
+        "name": "马尾藻 (Sargasso) C1",
+        "passives": [
+            "Poison on Special Skill: When this character casts their Special Skill, all enemies receive 476 Poison damage over 4 turns."
+        ]
     },
     {
         "originalIndex": 830,
-        "name": "萨塔娜 (Sartana) C2",
+        "name": "萨塔娜 (Sartana)",
         "passives": []
     },
     {
         "originalIndex": 831,
-        "name": "萨塔娜 (Sartana) 卡通",
-        "passives": [
-            "卡通：额外 75% 几率抵抗所有状态异常、法力削减和增益驱散。"
-        ]
+        "name": "萨塔娜 (Sartana) C1",
+        "passives": []
     },
     {
         "originalIndex": 832,
-        "name": "萨塔娜 (Sartana) 玻璃",
-        "passives": [
-            "玻璃：额外 60% 几率将状态异常反弹给攻击者。"
-        ]
+        "name": "萨塔娜 (Sartana) C2",
+        "passives": []
     },
     {
         "originalIndex": 833,
-        "name": "杀意 (Satsui)",
+        "name": "萨塔娜 (Sartana) 卡通",
         "passives": [
-            "降低小兵生命值：敌方小兵被召唤时继承的生命值减少 -50%。"
+            "Toon: 75% extra chance to resist all status ailments, mana reductions and buff dispels."
         ]
     },
     {
         "originalIndex": 834,
-        "name": "嗣卡伏 (Scath)",
+        "name": "萨塔娜 (Sartana) 玻璃",
         "passives": [
-            "抵抗特殊技能格挡：该角色天生对格挡特殊技能的状态异常有抵抗能力。",
-            "毁灭核心：该角色的构造核心是毁灭核心。毁灭核心在该角色每次施放特殊技能时激活：",
-            "* 当修复核心完全充能时，为所有队友提升 25% 的生命值。",
-            "* 治疗量根据核心的充能程度计算，核心激活时消耗所有充能。"
+            "Glass: 60% extra chance to reflect status ailments back to the attacker."
         ]
     },
     {
         "originalIndex": 835,
-        "name": "森安 (Senan)",
+        "name": "杀意 (Satsui)",
         "passives": [
-            "抵抗状态效果伤害：该角色天生对来自状态效果的伤害有抵抗能力。"
+            "Decreased Minion Health: Enemy Minions inherit -50% less Health when summoned."
         ]
     },
     {
         "originalIndex": 836,
-        "name": "森安 (Senan) C1",
+        "name": "嗣卡伏 (Scath)",
         "passives": [
-            "抵抗状态效果伤害：该角色天生对来自状态效果的伤害有抵抗能力。",
-            "特殊技能附带流血：当该角色施放其特殊技能时，所有敌人会在 4 回合内受到 544 点流血伤害。"
+            "Resist Special Skill Blocking: This character has innate resistance against status ailments that block Special Skill.",
+            "Destructive Core: The Construct Core of this character is Destructive Core. The Destructive Core activates each time this character’s Special Skill is cast: * With fully charged Repair Core, boosts the health of all allies by 25%. * The healing is scaled by the amount of charge in the Core. All charge is exchausted when the Core is activated."
         ]
     },
     {
         "originalIndex": 837,
-        "name": "塞雷娜 (Serena)",
+        "name": "森安 (Senan)",
         "passives": [
-            "特殊技能附带持续伤害：当该角色施放其特殊技能时，所有敌人会在 2 回合内受到 278 点水系伤害。",
-            "抵抗水系伤害：该角色天生对水系伤害有抵抗能力。"
+            "Resist Damage from Status Effects: This charater has innate resistance against incoming damage from status effects."
         ]
     },
     {
         "originalIndex": 838,
-        "name": "赛沙特 (Seshat)",
+        "name": "森安 (Senan) C1",
         "passives": [
-            "抵抗法力削减：该角色天生对法力削减有抵抗能力。"
+            "Resist Damage from Status Effects: This character has innate resistance against incoming damage from status effects.",
+            "Bleed on Special Skill: When this character casts their Special Skill, all enemies receive 544 Bleed damage over 4 turns."
         ]
     },
     {
         "originalIndex": 839,
-        "name": "赛沙特 (Seshat) C1",
+        "name": "塞雷娜 (Serena)",
         "passives": [
-            "抵抗法力削减：该角色天生对法力削减有抵抗能力。",
-            "特殊技能净化：当该角色施放其特殊技能时，会净化所有队友身上最新的状态异常。"
+            "Damage over time on Special: When this character casts their Special Skill, all enemies receive 278 Water damage over 2 turns.",
+            "Resist Water Damage: This character has innate resistance against Water Damage."
         ]
     },
     {
         "originalIndex": 840,
-        "name": "赛特 (Set)",
+        "name": "赛沙特 (Seshat)",
         "passives": [
-            "特殊技能效果：当该角色施放其特殊技能时，有 70% 几率执行以下操作：",
-            "* 对所有敌人造成 70% 的伤害。",
-            "* 所有敌人的法力生成速度降低 -24%，持续 3 回合。"
+            "Resist mana reduction: This character has innate resistance against mana reduction."
         ]
     },
     {
         "originalIndex": 841,
-        "name": "赛特 (Set) C1",
+        "name": "赛沙特 (Seshat) C1",
         "passives": [
-            "特殊技能效果：当该角色施放其特殊技能时，有 70% 几率执行以下操作：",
-            "* 对所有敌人造成 70% 的伤害。",
-            "* 所有敌人的法力生成速度降低 -24%，持续 3 回合。",
-            "特殊技能额外效果几率：当该角色施放其特殊技能时，其任何提供额外施法效果的被动技能都有 3 次激活机会。",
-            "抵抗沙系伤害：该角色天生对沙系伤害有抵抗能力。"
+            "Resist mana reduction: This character has innate resistance against mana reduction.",
+            "Cleanse on Special: When this character casts their Special Skill, they cleanse the newest status ailment from all allies."
         ]
     },
     {
         "originalIndex": 842,
-        "name": "刹克尔博特 (Shacklebolt)",
+        "name": "赛特 (Set)",
         "passives": [
-            "抵抗特殊技能格挡：该角色天生对格挡特殊技能的状态异常有抵抗能力。",
-            "毁灭核心：该角色的构造核心是毁灭核心。毁灭核心在该角色每次施放特殊技能时激活：",
-            "* 当毁灭核心完全充能时，对所有敌人造成 180% 的伤害。",
-            "* 伤害量根据核心的充能程度计算，核心激活时消耗所有充能。"
+            "Effects on Special Skill: 70% chance to perform the following actions when this character casts their Special Skill",
+            " * Deals 70% damage to all enemies.",
+            " * All enemies get -24% mana generation for 3 turns."
         ]
     },
     {
         "originalIndex": 843,
-        "name": "影牙 (Shadowfang)",
+        "name": "赛特 (Set) C1",
         "passives": [
-            "降低治疗量：所有敌人获得的治疗量降低 -50%。"
+            "Effects on Special Skill: 70% chance to perform the following actions when this character casts their Special Skill",
+            " * Deals 70% damage to all enemies.",
+            " * All enemies get -24% mana generation for 3 turns.",
+            "Extra Chance for Effects on Special Skill: When this character casts their Special Skill, any of their Passive Skills that grant extra effects on cast have 3 chances to activate.",
+            "Resist Sand Damage: This character has innate resistance against Sand damage."
         ]
     },
     {
         "originalIndex": 844,
-        "name": "卡斯米尔爵士 (Sir Casmir)",
+        "name": "刹克尔博特 (Shacklebolt)",
         "passives": [
-            "抵抗法力生成异常：该角色天生对影响法力生成的异常状态和负面叠加有抵抗能力。不适用于阻止法力生成或偷取法力的状态异常。",
-            "生命恢复时获得法力：该角色每次恢复生命时获得 5% 的法力。"
+            "Resist Special Skill Blocking: This character has innate resistance against status ailments that block Special Skill.",
+            "Destructive Core: The Construct Core of this character is Destructive Core. The Destructive Core activates each time this character’s Special Skill is cast: * With fully charged Destructive Core, deals 180% damage to all enemies. * The damage is scaled by the amount of charge in the Core. All charge is  exchausted when the Core is activated."
         ]
     },
     {
         "originalIndex": 845,
-        "name": "斯尼夫鲁 (Sneferu)",
+        "name": "影牙 (Shadowfang)",
         "passives": [
-            "特殊技能效果：当该角色施放其特殊技能时，有 70% 几率执行以下操作：",
-            "* 对所有敌人造成 70% 的伤害。",
-            "* 驱散所有敌人身上最新施加的可驱散增益。"
+            "Decreased Healing: All enemies get -50% healing."
         ]
     },
     {
         "originalIndex": 846,
-        "name": "斯尼夫鲁 (Sneferu) C1",
+        "name": "卡斯米尔爵士 (Sir Casmir)",
         "passives": [
-            "特殊技能效果：当该角色施放其特殊技能时，有 70% 几率执行以下操作：",
-            "* 对所有敌人造成 70% 的伤害。",
-            "* 驱散所有敌人身上最新施加的可驱散增益。",
-            "特殊技能额外效果几率：当该角色施放其特殊技能时，其任何提供额外施法效果的被动技能都有 3 次激活机会。",
-            "受到状态异常时获得法力：该角色在受到状态异常或负面效果叠加时获得 5% 的法力。"
+            "Resist Mana Generation Ailments: This character has innate resistance against ailments and negative stacks that affect mana generation. Doesn’t apply to status ailments that stop mana generation or steal mana.",
+            "Mana on Health Recovery: This character receives 5% mana each time its health is recovered."
         ]
     },
     {
         "originalIndex": 847,
-        "name": "迅爪 (Swiftpaw)",
+        "name": "斯尼夫鲁 (Sneferu)",
         "passives": [
-            "降低治疗量：所有敌人获得的治疗量降低 -50%。"
+            "Effects on special skill: 70% chance to perform the following actions when this character casts their Special Skill",
+            " * Deals 70% damage to all enemies.",
+            " * Dispels the latest dispellable buff from all enemies."
         ]
     },
     {
         "originalIndex": 848,
-        "name": "塔姆林 (Tamlin)",
+        "name": "斯尼夫鲁 (Sneferu) C1",
         "passives": [
-            "抵抗狂乱：该角色天生对狂乱有抵抗能力。",
-            "受到状态异常时获得法力：该角色在受到状态异常或负面效果叠加时获得 5% 的法力。",
-            "抵抗攻击力削减：该角色天生对影响攻击力的状态异常、叠加和衰退效果有抵抗能力。"
+            "Effects on special skill: 70% chance to perform the following actions when this character casts their Special Skill",
+            " * Deals 70% damage to all enemies.",
+            " * Dispels the latest dispellable buff from all enemies.",
+            "Extra Chance for Effects On Special Skill: When this character casts their Special Skill, any of their Passive Skills that grant extra effects on cast have 3 chances to activate.",
+            "Mana on Status Ailment Received: This character gains 5% mana when they receive a status ailment or negative stack."
         ]
     },
     {
         "originalIndex": 849,
-        "name": "夜魅 (Tenebrae)",
+        "name": "迅爪 (Swiftpaw)",
         "passives": [
-            "抵抗特殊技能格挡：该角色天生对格挡特殊技能的状态异常有抵抗能力。",
-            "腐蚀核心：该角色的构造核心是腐蚀核心。腐蚀核心在该角色每次施放特殊技能时激活：",
-            "* 所有敌人受到腐蚀剧毒效果，持续 3 回合。当腐蚀核心完全充能时，腐蚀剧毒造成 140 点剧毒伤害，并每回合降低目标 -13% 的法力生成。对拥有小兵或巨大体型小兵的英雄造成额外伤害。",
-            "* 剧毒伤害量根据核心的充能程度计算，核心激活时消耗所有充能。"
+            "Decreased Healing: All enemies get -50% healing."
         ]
     },
     {
         "originalIndex": 850,
-        "name": "图特阿蒙 (Thoth-Amun)",
-        "passives": []
+        "name": "塔姆林 (Tamlin)",
+        "passives": [
+            "Resist Insanity: This character has innate resistance against Insanity.",
+            "Mana on Status Ailment Received: This character gains 5% mana when they receive a status ailment or a negative stacks.",
+            "Resist Attack Reduction: This character has innate resistance against status ailments, stacks and Wither effects that affect attack."
+        ]
     },
     {
         "originalIndex": 851,
-        "name": "图特阿蒙 (Thoth-Amun) C1",
+        "name": "夜魅 (Tenebrae)",
         "passives": [
-            "特殊技能驱散：当该角色施放其特殊技能时，会驱散所有敌人身上最新的状态效果增益。"
+            "Resist Special Skill Blocking: This character has innate resistance against status ailments that block Special Skill.",
+            "Corrosive Core: The Construct Core of this character is Corrosive Core. The Corrosive Core activates each time this character’s Special Skill is cast:",
+            " * All enemies receive Corrosive Poison for 3 turns. With a fully charged Corrosive Core, the Corrosive Poision deals 140 Poison damage and lowers the target’s mana generation by -13% each turn. Deals extra damage against heroes with Minions or a Mega Minion.",
+            " * The poison damage is scaled by the amount of charge in the Core. All charge is exhausted when the Core is activated."
         ]
     },
     {
         "originalIndex": 852,
-        "name": "特里瓦尔迪 (Thrivaldi)",
-        "passives": [
-            "强化抵抗冰冻：该角色天生对冰冻有抵抗能力，并且每次抵抗时获得 450 点生命加成和 5% 的法力。",
-            "极地核心：极地核心在该角色每次施放特殊技能时激活。",
-            "* 所有敌人受到腐蚀冰冻效果，持续 3 回合。当极地核心完全充能时，腐蚀冰冻造成 331 点冰冻伤害，并每回合降低目标 -15% 的攻击力。对拥有小兵或巨大体型小兵的英雄造成额外伤害。",
-            "* 冰冻伤害量根据核心的充能程度计算，核心激活时消耗所有充能。"
-        ]
+        "name": "图特阿蒙 (Thoth-Amun)",
+        "passives": []
     },
     {
         "originalIndex": 853,
-        "name": "寅 (Tora)",
+        "name": "图特阿蒙 (Thoth-Amun) C1",
         "passives": [
-            "降低小兵生命值：敌方小兵被召唤时继承的生命值减少 -50%。"
+            "Dispel on Special Skill: When this character casts their Special Skill, they dispel the newest status effect buff from all enemies."
         ]
     },
     {
         "originalIndex": 854,
-        "name": "图尔顾汝克 (Turgruk)",
+        "name": "特里瓦尔迪 (Thrivaldi)",
         "passives": [
-            "提升特殊技能伤害：该角色首次施放造成伤害的特殊技能时，其威力额外增加 50%。",
-            "抵抗致盲：该角色天生对影响精准度的状态异常有抵抗能力。不适用于来自盟友的状态效果。"
+            "Empowered Resist Frost: This character has innate resistance against Frost and gains 450 boosted health and 5% mana each time they resist.",
+            "Arctic Core: The Arctic Core activates each time this character’s Special Skill is cast",
+            " * All enemies receive Corrosive Frost for 3 turns. With fully charged Arctic Core, the Corrosive Frost deals 331 Frost damage, and lowers the target’s attack by -15% each turn. Deals extra damage against heroes with Minions or a Mega Minion.",
+            " * The Frost damage is scaled by the amount of charge in the Core. All charge is exhausted when the Core is activated."
         ]
     },
     {
         "originalIndex": 855,
-        "name": "特伟双胞胎 (Tweedles)",
+        "name": "寅 (Tora)",
         "passives": [
-            "抵抗状态效果伤害：该角色天生对来自状态效果的伤害有抵抗能力。"
+            "Decreased Minion Health: Enemy Minions inherit -50% less Health when summoned."
         ]
     },
     {
         "originalIndex": 856,
-        "name": "奥绰刻斯 (Ultrox)",
+        "name": "图尔顾汝克 (Turgruk)",
         "passives": [
-            "特殊技能效果：当该角色施放其特殊技能时，有 50% 几率执行以下操作：",
-            "* 对所有敌人造成 80% 的伤害。",
-            "* 施法者获得 +19% 的法力生成，持续 2 回合。"
+            "Increased special skill damage: The first time this character casts a Special Skill that deals damage, an additional 50% is added to its power.",
+            "Resist blind: This character has innate resistance against status ailments that affect accuracy. Doesn`t apply to status effects from allies."
         ]
     },
     {
         "originalIndex": 857,
-        "name": "奥绰刻斯 (Ultrox) C1",
+        "name": "特伟双胞胎 (Tweedles)",
         "passives": [
-            "特殊技能效果：当该角色施放其特殊技能时，有 50% 几率执行以下操作：",
-            "* 对所有敌人造成 80% 的伤害。",
-            "* 施法者获得 +19% 的法力生成，持续 2 回合。",
-            "抵抗狂乱：该角色天生对狂乱有抵抗能力。"
+            "Resist Damage from Status Effects: This charater has innate resistance against incoming damage from status effects."
         ]
     },
     {
         "originalIndex": 858,
-        "name": "翁布丽亚 (Umbria)",
+        "name": "奥绰刻斯 (Ultrox)",
         "passives": [
-            "小兵死亡时净化：当该角色拥有的小兵被摧毁时，该角色身上的状态异常会被净化。"
+            "Effects on Special Skill: 50% chance to perform the following actions when this character casts their Special Skill",
+            " * Deals 80% damage to all enemies.",
+            " * The caster gets +19% mana generation for 2 turns."
         ]
     },
     {
         "originalIndex": 859,
-        "name": "梅子 (Umeko)",
+        "name": "奥绰刻斯 (Ultrox) C1",
         "passives": [
-            "降低小兵生命值：敌方小兵被召唤时继承的生命值减少 -50%。"
+            "Effects on Special Skill: 50% chance to perform the following actions when this character casts their Special Skill",
+            " * Deals 80% damage to all enemies.",
+            " * The caster gets +19% mana generation for 2 turns.",
+            "Resist Insanity: This character has innate resistance against Insanity."
         ]
     },
     {
         "originalIndex": 860,
+        "name": "翁布丽亚 (Umbria)",
+        "passives": [
+            "Cleanse on Minion Death: This character is cleansed of status ailments when Minion owned by them is destroyed. "
+        ]
+    },
+    {
+        "originalIndex": 861,
+        "name": "梅子 (Umeko)",
+        "passives": [
+            "Decreased Minion Health: Enemy Minions inherit -50% less Health when summoned."
+        ]
+    },
+    {
+        "originalIndex": 862,
         "name": "尤塞娜 (Ursena)",
         "passives": []
     },
     {
-        "originalIndex": 861,
+        "originalIndex": 863,
         "name": "尤塞娜 (Ursena) C1",
         "passives": []
     },
     {
-        "originalIndex": 862,
+        "originalIndex": 864,
         "name": "乌丝拉甘 (Uthragan)",
         "passives": [
-            "抵抗法力生成停止：该角色天生对阻止法力生成的状态异常有抵抗能力。",
-            "抵抗剧毒：该角色天生对剧毒有抵抗能力。"
-        ]
-    },
-    {
-        "originalIndex": 863,
-        "name": "乌韦 (Uwe)",
-        "passives": [
-            "石像鬼的软化皮肤：每当此石像鬼施放特殊技能时，其软化皮肤会激活。接下来受到的 5 次伤害降低 -90%，并抵抗所有状态异常和法力削减。此效果无法被驱散。"
-        ]
-    },
-    {
-        "originalIndex": 864,
-        "name": "范德尔 (Vander)",
-        "passives": [
-            "队伍大师：",
-            "作为攻击方角色的被动技能：该英雄的部队对较弱元素造成额外元素伤害。",
-            "- 造成的额外元素伤害： +100%",
-            "作为防守方角色的被动技能：该英雄受到来自较强元素部队的元素伤害减少。",
-            "- 受到的元素伤害： -10%"
+            "Mana Generation Stopping: This character has innate resistance against status ailments that stop mana generation.",
+            "Resist Poison: This character has innate resistance against Poison."
         ]
     },
     {
         "originalIndex": 865,
-        "name": "瓦德 (Vard)",
+        "name": "乌韦 (Uwe)",
         "passives": [
-            "进阶无视小兵：该角色造成的所有伤害无视小兵和巨大体型小兵。",
-            "进阶抵抗负面小兵效果：该角色天生对来自小兵和巨大体型小兵的负面效果及伤害有抵抗能力。",
-            "完美精准度：该角色的特殊技能必定命中目标。"
+            "Gargoile’s Softskin: Every time this Gargoyle casts a Special Skill, their Softskin activates. The next 5 times they receive damage, it is reduced by -90%, and they resist all status ailment and mana reduction. This effect can’t be dispelled."
         ]
     },
     {
         "originalIndex": 866,
-        "name": "维克托 (Victor)",
+        "name": "范德尔 (Vander)",
         "passives": [
-            "窃取增益：当该角色施放其特殊技能时，有 50% 的几率从一个带有增益的随机敌人身上窃取最新的可驱散增益。如果没有敌人带有增益，则对所有敌人造成 70% 的伤害。"
+            "Troop Mastery:",
+            "Passive Skill as attacking character: This hero’s Troops deal extra  elemental damage against weaker element.",
+            " - Dealt extra elemental damage: +100%",
+            "Passive Skill as defending character: This hero receives less elemental  damage from Troops of stronger element.",
+            " - Received elemental damage: -10%"
         ]
     },
     {
         "originalIndex": 867,
-        "name": "维克托 (Victor) C1",
-        "passives": []
+        "name": "瓦德 (Vard)",
+        "passives": [
+            "Superior Bypass Minions: All damage done by this character bypasses Minions and Mega Minions.",
+            "Superior Resist Negative Minion Effects: This character has innate resistance against incoming negative effects and damage from Minions and Mega Minions.",
+            "Perfect Accuracy: This character’s Special Skill never misses its targets."
+        ]
     },
     {
         "originalIndex": 868,
-        "name": "维奥莱特·波茨 (Violet Potts)",
+        "name": "维克托 (Victor)",
         "passives": [
-            "抵抗法力削减：该角色天生对法力削减有抵抗能力。",
-            "守卫集结：每 4 回合，移除所有盟友身上的衰退效果。"
+            "Steal Buff: When this character casts their Special Skill, they have a 50% chance to steal the newest dispellable buff from a random enemy that has buffs. If no enemy has buffs, deals 70% damage to all enemies."
         ]
     },
     {
         "originalIndex": 869,
-        "name": "维斯卡罗 (Viscaro)",
-        "passives": [
-            "厄运树苗召唤师：当一名敌人使用特殊技能召唤任意小兵时，此角色会召唤厄运树苗恶魔附身于该敌人。",
-            "抵抗负面小兵效果：该角色天生对来自小兵的负面效果及伤害有抵抗能力。"
-        ]
-    },
-    {
-        "originalIndex": 870,
-        "name": "咯木子爵 (Viscount Cluckwood)",
+        "name": "维克托 (Victor) C1",
         "passives": []
     },
     {
-        "originalIndex": 871,
-        "name": "虚空之星 (Voidstar)",
+        "originalIndex": 870,
+        "name": "维奥莱特·波茨 (Violet Potts)",
         "passives": [
-            "抵抗剧毒：该角色天生对剧毒有抵抗能力。",
-            "分摊所受伤害：该角色所受伤害的 20% 将由其他盟友分摊。"
+            "Resist Mana reduction: This character has an innate resistance against mana Reduction.",
+            "Guard Rally: Every 4 turns, removes all Wither effects from all allies."
+        ]
+    },
+    {
+        "originalIndex": 871,
+        "name": "维斯卡罗 (Viscaro)",
+        "passives": [
+            "Cursed sapling summoner: When an enemy summons any minions by special skill, this character summons a Cursed Sapling Fiend for that enemy.",
+            "Resist negative minion effects: This character has innate resistance against incoming negative effects and damage from Minions. "
         ]
     },
     {
         "originalIndex": 872,
-        "name": "冯·罗斯巴特 (Von Rothbart)",
-        "passives": [
-            "抵抗防御异常：该角色天生对影响防御的状态异常有抵抗能力。不适用于影响元素防御的状态异常。",
-            "状态异常失效或被清除时恢复生命：每当一个状态异常从该角色身上失效、被净化、移除或重新分配时，该角色会恢复 10% 的生命值。此效果每回合只能激活一次。"
-        ]
+        "name": "咯木子爵 (Viscount Cluckwood)",
+        "passives": []
     },
     {
         "originalIndex": 873,
-        "name": "蝎子精 (Xie Zi Jing)",
+        "name": "虚空之星 (Voidstar)",
         "passives": [
-            "受到增益时获得法力：该角色在获得增益或正面效果叠加时，有 50% 的几率获得 10% 的法力。",
-            "受到增益时恢复生命：该角色在获得增益或正面效果叠加时，有 50% 的几率恢复 10% 的生命值。"
+            "Resist Poison: This character has innate resistance against Poison.",
+            "Share Received Damage: 20% of damage received by this charater is shared with other allies."
         ]
     },
     {
         "originalIndex": 874,
-        "name": "熊山君 (Xiong Shanjun)",
-        "passives": []
+        "name": "冯·罗斯巴特 (Von Rothbart)",
+        "passives": [
+            "Resist Defense Ailments: This character has innate resistance against status ailments that affect defense. Doesn’t apply to status ailments that affect elemental defense.",
+            "Heal when status ailment expires or is cleared: This character receives 10% health each time a status ailment expires or is cleansed, removed or reallocated from them. This effect can activate only once per turn."
+        ]
     },
     {
         "originalIndex": 875,
-        "name": "泽诺福德 (Xnolphod)",
+        "name": "蝎子精 (Xie Zi Jing)",
         "passives": [
-            "减少异常持续时间：该角色从特殊技能中收到的前 3 个状态异常的持续时间减少 1 回合。"
+            "Mana on Buff Received: This character has a 50% chance to gain 10% mana when they receive a buff or possitive stack.",
+            "Health Recovery on Buff Received: This character has a 50% chance to recover 10% health when they receive a buff or possitve stack."
         ]
     },
     {
         "originalIndex": 876,
-        "name": "泽诺福德 (Xnolphod) C1",
-        "passives": [
-            "减少异常持续时间：该角色从特殊技能中收到的前 3 个状态异常的持续时间减少 1 回合。",
-            "特殊技能提升生命值：施放特殊技能时，为所有队友提升 10% 的生命值。"
-        ]
+        "name": "熊山君 (Xiong Shanjun)",
+        "passives": []
     },
     {
         "originalIndex": 877,
-        "name": "伊莎贝尔 (Ysabel)",
+        "name": "泽诺福德 (Xnolphod)",
         "passives": [
-            "致盲小兵：所有敌方小兵拥有 -60% 精准度。所有敌方超级小兵拥有 -50% 精准度。",
-            "抵抗狂乱：该角色天生对狂乱有抵抗能力。",
-            "抵抗攻击力削减：该角色天生对影响攻击力的状态异常、叠加和衰退效果有抵抗能力。"
+            "Decrease Ailment Duration: Duration of the first 3 status ailments this character receives from Special Skill is decreased by 1 turn."
         ]
     },
     {
         "originalIndex": 878,
-        "name": "泽德 (Zed)",
+        "name": "泽诺福德 (Xnolphod) C1",
         "passives": [
-            "抵抗致盲：该角色天生对影响精准度的状态异常有抵抗能力。不包括来自盟友的原始状态效果。",
-            "提升特殊技能伤害：该角色前 2 次使用特殊技能造成伤害时，该伤害将额外提升 50%。"
+            "Decrease Ailment Duration: Duration of the first 3 status ailments this character receives from Special Skill is decreased by 1 turn.",
+            "Health Boost on Special Skill: On Special Skill cast, boosts all allies’ HP by 10%."
         ]
     },
     {
         "originalIndex": 879,
-        "name": "祖拉格 (Zulag)",
+        "name": "伊莎贝尔 (Ysabel)",
         "passives": [
-            "抵抗沙系伤害：该角色天生对沙系伤害有抵抗能力。"
+            "Minion Blind: All enemies’ Minions have -60% accuracy. All enemies’ Mega Minions have -50% accuracy.",
+            "Resist Insanity: This character has innate resistance against Insanity.",
+            "Resist Attack Reduction: This character has innate resistance against status ailments, stacks and Wither effects that affect attack."
         ]
     },
     {
         "originalIndex": 880,
+        "name": "泽德 (Zed)",
+        "passives": [
+            "Resist Blind: This character has innate resistance against status ailments that affect accuracy. Doesn’t apply to original status effects from allies.",
+            "Increased Special Skill Damage: This first 2 times this character casts a Special Skill that deals damage, an additional 50% is added to its power."
+        ]
+    },
+    {
+        "originalIndex": 881,
+        "name": "祖拉格 (Zulag)",
+        "passives": [
+            "Resist Sand Damage: This character has innate resistance against Sand damage."
+        ]
+    },
+    {
+        "originalIndex": 882,
         "name": "莎朗 (Sharan)",
         "passives": []
     },
     {
-        "originalIndex": 881,
+        "originalIndex": 883,
         "name": "图丹 (Tudan)",
         "passives": []
     },
     {
-        "originalIndex": 882,
+        "originalIndex": 884,
         "name": "法里德 (Farid)",
         "passives": []
     },
     {
-        "originalIndex": 883,
+        "originalIndex": 885,
         "name": "吉尔 (Jill)",
         "passives": []
     },
     {
-        "originalIndex": 884,
+        "originalIndex": 886,
         "name": "沙克特 (Shaarkot)",
         "passives": []
     },
     {
-        "originalIndex": 885,
+        "originalIndex": 887,
         "name": "祖达 (Zudak)",
         "passives": []
     },
     {
-        "originalIndex": 886,
+        "originalIndex": 888,
         "name": "阿萨尔 (Azar)",
         "passives": []
     },
     {
-        "originalIndex": 887,
+        "originalIndex": 889,
         "name": "阿萨尔 (Azar) C1",
         "passives": []
     },
     {
-        "originalIndex": 888,
+        "originalIndex": 890,
         "name": "阿萨尔 (Azar) 卡通",
         "passives": [
-            "卡通：额外 75% 几率抵抗所有状态异常、法力削减和增益驱散。"
-        ]
-    },
-    {
-        "originalIndex": 889,
-        "name": "阿萨尔 (Azar) 玻璃",
-        "passives": [
-            "玻璃：额外 60% 几率将状态异常反弹给攻击者。"
-        ]
-    },
-    {
-        "originalIndex": 890,
-        "name": "巴格雷格 (Bagreg)",
-        "passives": [
-            "特殊技能效果：当该角色施放其特殊技能时，有 50% 几率执行以下操作：",
-            "* 对所有敌人造成 80% 的伤害。",
-            "* 施法者获得 +19% 的法力生成，持续 2 回合。"
+            "Toon: 75% extra chance to resist all status ailments, mana reductions and buff dispels."
         ]
     },
     {
         "originalIndex": 891,
-        "name": "巴格雷格 (Bagreg) C1",
+        "name": "阿萨尔 (Azar) 玻璃",
         "passives": [
-            "特殊技能效果：当该角色施放其特殊技能时，有 50% 几率执行以下操作：",
-            "* 对所有敌人造成 80% 的伤害。",
-            "* 施法者获得 +19% 的法力生成，持续 2 回合。",
-            "抵抗狂乱：该角色天生对狂乱有抵抗能力。"
+            "Glass: 60% extra chance to reflect status ailments back to the attacker."
         ]
     },
     {
         "originalIndex": 892,
-        "name": "贝索 (Basil)",
+        "name": "巴格雷格 (Bagreg)",
         "passives": [
-            "特殊技能附带持续伤害：当该角色施放其特殊技能时，会给一个随机敌人施加猎人印记。目标在 3 回合内受到 150 点伤害。如果目标已有此效果，则持续时间刷新，伤害增加 150 点，总伤害最高可达 1500 点。",
-            "猎手感知：当该角色施放其特殊技能时，会将自身最新的可净化状态异常转移给目标。如果其特殊技能无法选择敌方目标，则会随机转移至一名敌人。若此角色没有可净化的状态异常，则恢复自身 12% 的生命。"
+            "Effects on Special Skill: 50% chance to perform the following actions when this character casts their Special Skill",
+            " * Deals 80% damage to all enemies.",
+            " * The caster gets +19% mana generation for 2 turns."
         ]
     },
     {
         "originalIndex": 893,
-        "name": "波肯 (Bauchan)",
-        "passives": []
+        "name": "巴格雷格 (Bagreg) C1",
+        "passives": [
+            "Effects on Special Skill: 50% chance to perform the following actions when this character casts their Special Skill",
+            " * Deals 80% damage to all enemies.",
+            " * The caster gets +19% mana generation for 2 turns.",
+            "Resist Insanity: This character has an innate resistance against Insanity."
+        ]
     },
     {
         "originalIndex": 894,
-        "name": "布茨 (Boots)",
+        "name": "贝索 (Basil)",
         "passives": [
-            "特殊技能效果：当该角色施放其特殊技能时，有 50% 几率执行以下操作。",
-            "* 对所有敌人造成 90% 的伤害。",
-            "* 所有敌人获得 -25% 的精准度，持续 3 回合。"
+            "Damage over time on special: When this character casts their Special Skill, they give a Hunter’s Mark on a random enemy. The target receives 150 damage over 3 turns. If a target already has this effect, the duration will be refreshed and the damage will be increased by 150, up to 1500 damage in total.",
+            "Hunter`s sense: When this character casts their Special Skill, they transfer the newest cleansable status ailment from themself to the target. If the Special Skill cannot target an enemy, a random enemy is chosen instead. If this character has no cleansable status ailments, they recover 12% health."
         ]
     },
     {
         "originalIndex": 895,
-        "name": "巴斯特 (Buster)",
+        "name": "波肯 (Bauchan)",
         "passives": []
     },
     {
         "originalIndex": 896,
-        "name": "但丁 (Dante)",
+        "name": "布茨 (Boots)",
         "passives": [
-            "降低小兵生命值：敌方小兵被召唤时继承的生命值减少 -50%。",
-            "抵抗防御异常：该角色天生对影响防御的状态异常有抵抗能力。此效果同样适用于影响元素防御的状态异常。"
+            "Effects on Special Skill: 50% chance to perform the following actions when this character casts their Special Skill.",
+            " * Deals 90% damage to all enemies.",
+            " * All enemies get -25% accuracy for 3 turns."
         ]
     },
     {
         "originalIndex": 897,
-        "name": "艾邓恩 (Ei-Dunn)",
+        "name": "巴斯特 (Buster)",
         "passives": []
     },
     {
         "originalIndex": 898,
+        "name": "但丁 (Dante)",
+        "passives": [
+            "Decreased Minion Health: Enemy Minions inherit -50% less Health when summoned.",
+            "Resist defense ailments: This character has innate resistance against status ailments that affect defense. Applies also to status ailments that affect elemental defense."
+        ]
+    },
+    {
+        "originalIndex": 899,
+        "name": "艾邓恩 (Ei-Dunn)",
+        "passives": []
+    },
+    {
+        "originalIndex": 900,
         "name": "艾邓恩 (Ei-Dunn) C1",
         "passives": []
     },
     {
-        "originalIndex": 899,
+        "originalIndex": 901,
         "name": "小鹿 (Fawn)",
         "passives": [
-            "受到增益时恢复生命：该角色在获得增益或正面效果叠加时恢复 5% 的生命值。"
+            "Health Recovery on Buff Received - This character recovers 5% health when  they receive a buff or a positive stack."
         ]
     },
     {
-        "originalIndex": 900,
+        "originalIndex": 902,
         "name": "鹰月 (Hawkmoon)",
         "passives": []
     },
     {
-        "originalIndex": 901,
+        "originalIndex": 903,
         "name": "鹰月 (Hawkmoon) C1",
         "passives": []
     },
     {
-        "originalIndex": 902,
+        "originalIndex": 904,
         "name": "鹰月 (Hawkmoon) 卡通",
         "passives": [
-            "卡通：额外 75% 几率抵抗所有状态异常、法力削减和增益驱散。"
-        ]
-    },
-    {
-        "originalIndex": 903,
-        "name": "鹰月 (Hawkmoon) 玻璃",
-        "passives": [
-            "玻璃：额外 60% 几率将状态异常反弹给攻击者。"
-        ]
-    },
-    {
-        "originalIndex": 904,
-        "name": "赫尔吉 (Helgi)",
-        "passives": [
-            "强化抵抗燃烧：该角色天生对燃烧有抵抗能力，并且每次抵抗时获得 450 点生命加成和 5% 的法力。",
-            "熔岩核心。该角色拥有一个熔岩核心。",
-            "熔岩核心在该角色每次施放特殊技能时激活：",
-            "* 所有敌人受到腐蚀燃烧效果，持续 3 回合。当熔岩核心完全充能时，腐蚀燃烧造成 147 点燃烧伤害，并每回合降低目标 -12% 的防御力。对拥有小兵或巨大体型小兵的英雄造成额外伤害。",
-            "* 燃烧伤害量根据核心的充能程度计算，核心激活时消耗所有充能。"
+            "Toon: 75% extra chance to resist all status ailments, mana reductions and buff dispels."
         ]
     },
     {
         "originalIndex": 905,
+        "name": "鹰月 (Hawkmoon) 玻璃",
+        "passives": [
+            "Glass: 60% extra chance to reflect status ailments back to the attacker."
+        ]
+    },
+    {
+        "originalIndex": 906,
+        "name": "赫尔吉 (Helgi)",
+        "passives": [
+            "Empowered Resist Burn: This character has innate resistance against Burn and gains 450 boosted health and 5% mana each time they resist.",
+            "Molten Core. This character has a Molten Core.",
+            "The Molten Core activates each time this character’s Special Skill is cast:",
+            " * All enemies receive Corrosive Burn for 3 turns. With fully charged Molten Core, the Corrosive Burn deals 147 Burn damage, and lowers the target’s defense by -12% each turn. Deals extra damage against heroes with Minions or Mega Minions",
+            " * The Burn damage is scaled by the amount of charge in the Core. All charge is exhausted when the Core is activated."
+        ]
+    },
+    {
+        "originalIndex": 907,
         "name": "贾汉吉 (Jahangir)",
         "passives": []
     },
     {
-        "originalIndex": 906,
+        "originalIndex": 908,
         "name": "贾汉吉 (Jahangir) C1",
         "passives": []
     },
     {
-        "originalIndex": 907,
+        "originalIndex": 909,
         "name": "贾汉吉 (Jahangir) 卡通",
         "passives": [
-            "卡通：额外 75% 几率抵抗所有状态异常、法力削减和增益驱散。"
-        ]
-    },
-    {
-        "originalIndex": 908,
-        "name": "贾汉吉 (Jahangir) 玻璃",
-        "passives": [
-            "玻璃：额外 60% 几率将状态异常反弹给攻击者。"
-        ]
-    },
-    {
-        "originalIndex": 909,
-        "name": "科内尔 (Kornel)",
-        "passives": [
-            "特殊技能造成伤害：当该角色施放其特殊技能时，有 50% 的几率对所有敌人造成 100% 的伤害。如果特殊技能完全充能，则几率为 100%。"
+            "Toon: 75% extra chance to resist all status ailments, mana reductions and buff dispels."
         ]
     },
     {
         "originalIndex": 910,
-        "name": "李 (Li)",
-        "passives": []
+        "name": "贾汉吉 (Jahangir) 玻璃",
+        "passives": [
+            "Glass: 60% extra chance to reflect status ailments back to the attacker."
+        ]
     },
     {
         "originalIndex": 911,
-        "name": "刘唐 (Liu Tang)",
+        "name": "科内尔 (Kornel)",
         "passives": [
-            "特殊攻击暴击时净化：当该角色用特殊技能造成暴击时，会安全地净化所有盟友最新的可净化状态效果。此效果每回合可激活一次。",
-            "正义反叛：",
-            "* 当该角色的特殊技能击中当前生命值较高的角色时，获得 +20% 的生命加成。",
-            "* 当该角色被当前生命值较高的角色的特殊技能击中时，获得 +20% 的法力。",
-            "* 这些效果每个每回合只能激活一次。",
-            "抵抗流血伤害：该角色天生对流血有抵抗能力。"
+            "Damage on special: When this character casts their Special Skill, they have a 50% chance to deal 100% damage to all enemies. If the Special Skill is fully charged, the chance is 100%."
         ]
     },
     {
         "originalIndex": 912,
-        "name": "生剥鬼 (Namahage)",
+        "name": "李 (Li)",
         "passives": []
     },
     {
         "originalIndex": 913,
-        "name": "纳什加 (Nashgar)",
-        "passives": []
+        "name": "刘唐 (Liu Tang)",
+        "passives": [
+            "Cleanse on Critical Special Attack: When this character scores a critical hit with their Special Skill, they safely cleanse the latest cleansable status effect from all allies. This effect can activate once per turn.",
+            "Righteous Rebellion: ",
+            " * When this character’s Special Skill hits a character that had higher current HP, gain +20% boosted health.",
+            " * When this character is hit by the Special Skill of a character that had higher current HP, gain +20% mana.",
+            " * Each of these effects can activate once per turn.",
+            "Resist Bleed Damage: This character has innate resistance against Bleed.    "
+        ]
     },
     {
         "originalIndex": 914,
-        "name": "纳什加 (Nashgar) C1",
+        "name": "生剥鬼 (Namahage)",
         "passives": []
     },
     {
         "originalIndex": 915,
-        "name": "纳什加 (Nashgar) 卡通",
-        "passives": [
-            "卡通：额外 75% 几率抵抗所有状态异常、法力削减和增益驱散。"
-        ]
+        "name": "纳什加 (Nashgar)",
+        "passives": []
     },
     {
         "originalIndex": 916,
-        "name": "菲尼克斯 (Phoenicus)",
+        "name": "纳什加 (Nashgar) C1",
         "passives": []
     },
     {
         "originalIndex": 917,
-        "name": "小玫瑰 (Rosepetite)",
+        "name": "纳什加 (Nashgar) 卡通",
         "passives": [
-            "闪避特殊技能伤害：该角色有 15% 的几率闪避造成伤害的特殊技能。"
+            "Toon: 75% extra chance to resist all status ailments, mana reductions and buff dispels."
         ]
     },
     {
         "originalIndex": 918,
-        "name": "鲁道夫 (Rudolph)",
+        "name": "菲尼克斯 (Phoenicus)",
         "passives": []
     },
     {
         "originalIndex": 919,
-        "name": "鲁弗斯 (Rufus)",
+        "name": "小玫瑰 (Rosepetite)",
         "passives": [
-            "当一个盟友召唤小兵时，该角色获得 5% 的生命值和 5% 的法力。此效果每回合只能激活一次。",
-            "当一个敌人被恶魔附身时，该角色对所有敌人造成 85% 的伤害。此效果每回合只能激活一次。"
+            "Dodge Special Damage: This character has a 15% chance to dodge Special Skills that deal damage."
         ]
     },
     {
         "originalIndex": 920,
-        "name": "斯克里克 (Skrekok)",
+        "name": "鲁道夫 (Rudolph)",
         "passives": []
     },
     {
         "originalIndex": 921,
+        "name": "鲁弗斯 (Rufus)",
+        "passives": [
+            "When a Minion is summoned to any ally, this character gains 5% health and 5% mana. This effect can activate only once per turn.",
+            "When a Fiend is summoned to any enemy, this character deals 85% damage to all enemies. This effect can activate only once per turn."
+        ]
+    },
+    {
+        "originalIndex": 922,
+        "name": "斯克里克 (Skrekok)",
+        "passives": []
+    },
+    {
+        "originalIndex": 923,
         "name": "兔子随从 (Squire Wabbit)",
         "passives": []
     },
     {
-        "originalIndex": 922,
+        "originalIndex": 924,
         "name": "星闪 (Starswift)",
         "passives": [
-            "抵抗剧毒：该角色天生对剧毒有抵抗能力。",
-            "分摊所受伤害：该角色所受伤害的 20% 将由其他盟友分摊。"
-        ]
-    },
-    {
-        "originalIndex": 923,
-        "name": "苏德里 (Sudri)",
-        "passives": []
-    },
-    {
-        "originalIndex": 924,
-        "name": "沃勒莫克 (Vollermork)",
-        "passives": [
-            "战斗开始时获得法力：该角色在战斗开始时获得 20% 的法力。"
+            "Resist Poison: This character has innate resistance against Poison.",
+            "Share Received Damage: 20% of damage received by this charater is shared  with other allies."
         ]
     },
     {
         "originalIndex": 925,
-        "name": "沃勒莫克 (Vollermork) C1",
-        "passives": [
-            "战斗开始时获得法力：该角色在战斗开始时获得 20% 的法力。"
-        ]
+        "name": "苏德里 (Sudri)",
+        "passives": []
     },
     {
         "originalIndex": 926,
-        "name": "瓦卡斯 (Waqas)",
+        "name": "沃勒莫克 (Vollermork)",
         "passives": [
-            "特殊技能效果：当该角色施放其特殊技能时，有 70% 几率执行以下操作：",
-            "* 对所有敌人造成 70% 的伤害。",
-            "* 所有敌人获得 -34% 的攻击力，持续 3 回合。"
+            "Start Battle with Mana: This character receives 20% mana at the start of the battle."
         ]
     },
     {
         "originalIndex": 927,
-        "name": "瓦卡斯 (Waqas) C1",
+        "name": "沃勒莫克 (Vollermork) C1",
         "passives": [
-            "特殊技能效果：当该角色施放其特殊技能时，有 70% 几率执行以下操作：",
-            "* 对所有敌人造成 70% 的伤害。",
-            "* 所有敌人获得 -34% 的攻击力，持续 3 回合。",
-            "特殊技能额外效果几率：当该角色施放其特殊技能时，其任何提供额外施法效果的被动技能都有 3 次激活机会。",
-            "敌方施放生命加成特殊技能时获得法力：每当敌人施放直接提升生命值的特殊技能时，该角色获得 5% 的法力。"
+            "Start Battle with Mana: This character receives 20% mana at the start of the battle."
         ]
     },
     {
         "originalIndex": 928,
-        "name": "奥丹 (Aodhan)",
+        "name": "瓦卡斯 (Waqas)",
         "passives": [
-            "抵抗状态效果伤害：该角色天生对来自状态效果的伤害有抵抗能力。"
+            "Effects on Special Skill: 70% chance to perform the following actions when this character casts their Special Skill",
+            " * Deals 70% damage to all enemies.",
+            " * All enemies get -34% attack for 3 turns."
         ]
     },
     {
         "originalIndex": 929,
+        "name": "瓦卡斯 (Waqas) C1",
+        "passives": [
+            "Effects on Special Skill: 70% chance to perform the following actions when this character casts their Special Skill",
+            " * Deals 70% damage to all enemies.",
+            " * All enemies get -34% attack for 3 turns.",
+            "Extra Chance for Effects on Special Skill: When this character casts their Special Skill, any of their Passive Skills that grant extra effects on cast have 3 chances to activate.",
+            "Mana on Health Boosting Special Skill: This character gains 5% mana each time an enemy casts a Special Skill that directly boosts health."
+        ]
+    },
+    {
+        "originalIndex": 930,
+        "name": "奥丹 (Aodhan)",
+        "passives": [
+            "Resist Damage from Status Effects: This charater has innate resistance against incoming damage from status effects."
+        ]
+    },
+    {
+        "originalIndex": 931,
         "name": "猛牙 (Boldtusk)",
         "passives": []
     },
     {
-        "originalIndex": 930,
+        "originalIndex": 932,
         "name": "猛牙 (Boldtusk) C1",
         "passives": []
     },
     {
-        "originalIndex": 931,
+        "originalIndex": 933,
         "name": "猛牙 (Boldtusk) C2",
         "passives": []
     },
     {
-        "originalIndex": 932,
+        "originalIndex": 934,
         "name": "猛牙 (Boldtusk) 卡通",
         "passives": [
-            "卡通：额外 75% 几率抵抗所有状态异常、法力削减和增益驱散。"
+            "Toon: 75% extra chance to resist all status ailments, mana reductions and buff dispels."
         ]
-    },
-    {
-        "originalIndex": 933,
-        "name": "猛牙 (Boldtusk) 玻璃",
-        "passives": [
-            "玻璃：额外 60% 几率将状态异常反弹给攻击者。"
-        ]
-    },
-    {
-        "originalIndex": 934,
-        "name": "卡罗尔 (Carol)",
-        "passives": []
     },
     {
         "originalIndex": 935,
-        "name": "希里安 (Cillian)",
+        "name": "猛牙 (Boldtusk) 玻璃",
         "passives": [
-            "抵抗状态效果伤害：该角色天生对来自状态效果的伤害有抵抗能力。"
+            "Glass: 60% extra chance to reflect status ailments back to the attacker."
         ]
     },
     {
         "originalIndex": 936,
-        "name": "科伦 (Colen)",
+        "name": "卡罗尔 (Carol)",
         "passives": []
     },
     {
         "originalIndex": 937,
-        "name": "科伦 (Colen) C1",
-        "passives": []
+        "name": "希里安 (Cillian)",
+        "passives": [
+            "Resist Damage from Status Effects: This charater has innate resistance against incoming damage from status effects."
+        ]
     },
     {
         "originalIndex": 938,
-        "name": "科伦 (Colen) C2",
+        "name": "科伦 (Colen)",
         "passives": []
     },
     {
         "originalIndex": 939,
-        "name": "科伦 (Colen) 卡通",
-        "passives": [
-            "卡通：额外 75% 几率抵抗所有状态异常、法力削减和增益驱散。"
-        ]
+        "name": "科伦 (Colen) C1",
+        "passives": []
     },
     {
         "originalIndex": 940,
-        "name": "科伦 (Colen) 玻璃",
-        "passives": [
-            "玻璃：额外 60% 几率将状态异常反弹给攻击者。"
-        ]
+        "name": "科伦 (Colen) C2",
+        "passives": []
     },
     {
         "originalIndex": 941,
+        "name": "科伦 (Colen) 卡通",
+        "passives": [
+            "Toon: 75% extra chance to resist all status ailments, mana reductions and buff dispels."
+        ]
+    },
+    {
+        "originalIndex": 942,
+        "name": "科伦 (Colen) 玻璃",
+        "passives": [
+            "Glass: 60% extra chance to reflect status ailments back to the attacker."
+        ]
+    },
+    {
+        "originalIndex": 943,
         "name": "艾希贝尔伯格 (Eichbelborg)",
         "passives": []
     },
     {
-        "originalIndex": 942,
+        "originalIndex": 944,
         "name": "费朗特 (Ferant)",
         "passives": []
     },
     {
-        "originalIndex": 943,
+        "originalIndex": 945,
         "name": "费朗特 (Ferant) C1",
         "passives": [
-            "能力：延长状态效果持续时间。有机会延长所施放状态效果的持续时间。",
-            "* +1 回合： 75%",
-            "* +2 回合： 25%"
+            "Ability: Increased Status Effect Duration Chance to increase the duration of cast status effects. * +1 turn: 75% * +2 turns: 25%"
         ]
     },
     {
-        "originalIndex": 944,
+        "originalIndex": 946,
         "name": "戈莫克 (Gormek)",
         "passives": []
     },
     {
-        "originalIndex": 945,
+        "originalIndex": 947,
         "name": "戈莫克 (Gormek) C1",
         "passives": []
     },
     {
-        "originalIndex": 946,
+        "originalIndex": 948,
         "name": "戈莫克 (Gormek) C2",
         "passives": []
     },
     {
-        "originalIndex": 947,
+        "originalIndex": 949,
         "name": "戈莫克 (Gormek) 卡通",
         "passives": [
-            "卡通：额外 75% 几率抵抗所有状态异常、法力削减和增益驱散。"
+            "Toon: 75% extra chance to resist all status ailments, mana reductions and buff dispels."
         ]
-    },
-    {
-        "originalIndex": 948,
-        "name": "戈莫克 (Gormek) 玻璃",
-        "passives": [
-            "玻璃：额外 60% 几率将状态异常反弹给攻击者。"
-        ]
-    },
-    {
-        "originalIndex": 949,
-        "name": "飞鹰守护者 (Guardian Falcon)",
-        "passives": []
     },
     {
         "originalIndex": 950,
-        "name": "伊潭 (Itham)",
+        "name": "戈莫克 (Gormek) 玻璃",
         "passives": [
-            "特殊技能附带持续伤害：当该角色施放其特殊技能时，所有敌人会在 2 回合内受到 160 点水系伤害。",
-            "抵抗水系伤害：该角色天生对水系伤害有抵抗能力。"
+            "Glass: 60% extra chance to reflect status ailments back to the attacker."
         ]
     },
     {
         "originalIndex": 951,
-        "name": "约纳德 (Junaid)",
-        "passives": [
-            "特殊技能效果：当该角色施放其特殊技能时，有 50% 几率执行以下操作：",
-            "* 对所有敌人造成 70% 的伤害。",
-            "* 所有敌人的法力生成速度降低 -24%，持续 3 回合。"
-        ]
+        "name": "飞鹰守护者 (Guardian Falcon)",
+        "passives": []
     },
     {
         "originalIndex": 952,
-        "name": "约纳德 (Junaid) C1",
+        "name": "伊潭 (Itham)",
         "passives": [
-            "特殊技能效果：当该角色施放其特殊技能时，有 50% 几率执行以下操作：",
-            "* 对所有敌人造成 70% 的伤害。",
-            "* 所有敌人的法力生成速度降低 -24%，持续 3 回合。",
-            "特殊技能额外效果几率：当该角色施放其特殊技能时，其任何提供额外施法效果的被动技能都有 3 次激活机会。",
-            "抵抗沙系伤害：该角色天生对沙系伤害有抵抗能力。"
+            "Damage over time on Special: When this character casts their Special Skill, all enemies receive 160 Water damage over 2 turns.",
+            "Resist Water Damage: This character has innate resistance against Water  Damage."
         ]
     },
     {
         "originalIndex": 953,
+        "name": "约纳德 (Junaid)",
+        "passives": [
+            "Effects on Special Skill: 50% chance to perform the following actions when this character casts their Special Skill",
+            " * Deals 70% damage to all enemies.",
+            " * All enemies get -24% mana generation for 3 turns."
+        ]
+    },
+    {
+        "originalIndex": 954,
+        "name": "约纳德 (Junaid) C1",
+        "passives": [
+            "Effects on Special Skill: 50% chance to perform the following actions when this character casts their Special Skill",
+            " * Deals 70% damage to all enemies.",
+            " * All enemies get -24% mana generation for 3 turns.",
+            "Extra Chance for Effects On Special Skill: When this character casts their Special Skill, any of their Passive Skills that grant extra effects on cast have 3 chances to activate.",
+            "Resist Sand Damage: This character has innate resistance against sand damage."
+        ]
+    },
+    {
+        "originalIndex": 955,
         "name": "卡莉莱 (Kelile)",
         "passives": []
     },
     {
-        "originalIndex": 954,
+        "originalIndex": 956,
         "name": "卡莉莱 (Kelile) C1",
         "passives": []
     },
     {
-        "originalIndex": 955,
+        "originalIndex": 957,
         "name": "卡莉莱 (Kelile) C2",
         "passives": []
     },
     {
-        "originalIndex": 956,
+        "originalIndex": 958,
         "name": "卡莉莱 (Kelile) 卡通",
         "passives": [
-            "卡通：额外 75% 几率抵抗所有状态异常、法力削减和增益驱散。"
-        ]
-    },
-    {
-        "originalIndex": 957,
-        "name": "卡莉莱 (Kelile) 玻璃",
-        "passives": [
-            "玻璃：额外 60% 几率将状态异常反弹给攻击者。"
-        ]
-    },
-    {
-        "originalIndex": 958,
-        "name": "勒明盖宁 (Lemminkainen)",
-        "passives": [
-            "西苏之力：当该角色在战斗中首次以低生命值开始回合时，他们会恢复 15% 的生命值并获得 15% 的法力。"
+            "Toon: 75% extra chance to resist all status ailments, mana reductions and buff dispels."
         ]
     },
     {
         "originalIndex": 959,
-        "name": "勒明盖宁 (Lemminkainen) C1",
+        "name": "卡莉莱 (Kelile) 玻璃",
         "passives": [
-            "西苏之力：当该角色在战斗中首次以低生命值开始回合时，他们会恢复 15% 的生命值并获得 15% 的法力。"
+            "Glass: 60% extra chance to reflect status ailments back to the attacker."
         ]
     },
     {
         "originalIndex": 960,
-        "name": "露西 (Lucy)",
+        "name": "勒明盖宁 (Lemminkainen)",
         "passives": [
-            "当该角色施放其特殊技能时，所有敌人获得 -5% 的法力生成叠加。如果特殊技能完全充能，则所有敌人获得两层叠加。一个敌人最多可以有 10 层叠加。",
-            "当该角色施放其特殊技能时，有 50% 的几率为所有队友恢复 15% 的生命值。如果特殊技能完全充能，则几率为 100%。"
+            "Power of Sisu: When this character starts a turn with low health for the first time during a battle, they recover 15% health and receive 15% mana."
         ]
     },
     {
         "originalIndex": 961,
-        "name": "马克 (Mack)",
+        "name": "勒明盖宁 (Lemminkainen) C1",
         "passives": [
-            "延长增益持续时间：该英雄从特殊技能中获得的前 3 个增益效果的持续时间增加 1 回合。"
+            "Power of Sisu: When this character starts a turn with low health for the first time during a battle, they recover 15% health and receive 15% mana."
         ]
     },
     {
         "originalIndex": 962,
-        "name": "马克 (Mack) C1",
+        "name": "露西 (Lucy)",
         "passives": [
-            "延长增益持续时间：该英雄从特殊技能中获得的前 3 个增益效果的持续时间增加 1 回合。"
+            "When this character casts their Special Skill, all enemies get -5% mana  generation stack. If the Special Skill is fully charged, all enemies get  two stacks. An enemy can have up to 10 stacks.",
+            "When this character casts their Special Skill, they have a 50% chance to  recover 15% health for all allies. If the Special Skill is fully charged,  the chance is 100%."
         ]
     },
     {
         "originalIndex": 963,
-        "name": "玛黑根 (Maheegan)",
+        "name": "马克 (Mack)",
         "passives": [
-            "特殊技能附带持续伤害：当该角色施放其特殊技能时，会给一个随机敌人施加猎人印记。目标在 3 回合内受到 150 点伤害。如果目标已有此效果，则持续时间刷新，伤害增加 150 点，总伤害最高可达 1500 点。",
-            "特殊技能伤害减免：该角色有 10% 的几率将受到的特殊技能直接伤害降至 1 点。"
+            "Increase Buff Duration: Duration of the first 3 buff this hero receives from Special Skills is increased by 1 turn."
         ]
     },
     {
         "originalIndex": 964,
-        "name": "曼皮普 (Manpip)",
+        "name": "马克 (Mack) C1",
         "passives": [
-            "飞行动量：如果该角色拥有任意数量的飞行动量，其将获得：",
-            "* 最多 +35% 的法力生成。",
-            "* 最多 +25% 的闪避几率。",
-            "* 角色拥有的飞行动量越少，效果越弱。",
-            "削弱巨大体型小兵：敌方巨大体型小兵的生命值降低 -75%。"
+            "Increase Buff Duration: Duration of the first 3 buff this hero receives from Special Skills is increased by 1 turn."
         ]
     },
     {
         "originalIndex": 965,
-        "name": "诺娃 (Nova)",
+        "name": "玛黑根 (Maheegan)",
         "passives": [
-            "队伍大师：",
-            "作为攻击方角色的被动技能：该英雄的部队对较弱元素造成额外元素伤害。",
-            "- 造成的额外元素伤害： +100%",
-            "作为防守方角色的被动技能：该英雄受到来自较强元素部队的元素伤害减少。",
-            "- 受到的元素伤害： -10%"
+            "When this character casts their Special Skill, they give a Hunter’s Mark on a random enemy. The target receives 150 damage over 3 turns. If a target already has this effect, the duration will be refreshed and the damage will be increased by 150, up to 1500 damage in total.",
+            "Special Skill damage reduction: This character has a 10% chance to drop the direct damage received from Special Skills to 1."
         ]
     },
     {
         "originalIndex": 966,
-        "name": "拉乌尔 (Raul)",
+        "name": "曼皮普 (Manpip)",
         "passives": [
-            "状态异常失效或被清除时恢复生命：每当一个状态异常从该角色身上失效、被净化、移除或重新分配时，该角色会恢复 10% 的生命值。此效果每回合只能激活一次。",
-            "抵抗攻击异常：该角色天生对影响攻击力的状态异常有抵抗能力。"
+            "Flight Momentum: If this character has any amount of Flight Momentum, they receive:",
+            " * Up to +35% mana generation.",
+            " * Up to +25% chance to dodge.",
+            " * The effects diminish the less Flight Momentum character has.",
+            "Weaker Mega Minions: Enemy Mega Minions have -75% HP."
         ]
     },
     {
         "originalIndex": 967,
-        "name": "洛卡莫什 (Rokkamush)",
+        "name": "诺娃 (Nova)",
         "passives": [
-            "减少异常持续时间：该角色从特殊技能中收到的前 3 个状态异常的持续时间减少 1 回合。"
+            "Troop Mastery:",
+            "Passive Skill as attacking character: This hero’s Troops deal extra elemental damage against weaker element.",
+            " - Dealt extra elemental damage: +100%",
+            "Passive Skill as defending character: This hero receives less elemental damage from Troops of stronger element.",
+            " - Received elemental damage: -10%"
         ]
     },
     {
         "originalIndex": 968,
-        "name": "洛卡莫什 (Rokkamush) C1",
+        "name": "拉乌尔 (Raul)",
         "passives": [
-            "减少异常持续时间：该角色从特殊技能中收到的前 3 个状态异常的持续时间减少 1 回合。"
+            "Heal when status ailment expires or is cleared: This character receives 10%  health each time a status ailment expires or is cleansed, removed or  reallocated from them. This effect can activate only once per turn.",
+            "Resist Attack Ailments: This character has innate resistance against status  ailments that affect attack."
         ]
     },
     {
         "originalIndex": 969,
+        "name": "洛卡莫什 (Rokkamush)",
+        "passives": [
+            "Decrease Ailment Duration: Duration of the first 3 status ailments this character receives from Special Skill is decreased by 1 turn."
+        ]
+    },
+    {
+        "originalIndex": 970,
+        "name": "洛卡莫什 (Rokkamush) C1",
+        "passives": [
+            "Decrease Ailment Duration: Duration of the first 3 status ailments this character receives from Special Skill is decreased by 1 turn."
+        ]
+    },
+    {
+        "originalIndex": 971,
         "name": "斯嘉丽 (Scarlett)",
         "passives": []
     },
     {
-        "originalIndex": 970,
+        "originalIndex": 972,
         "name": "斯嘉丽 (Scarlett) C1",
         "passives": []
     },
     {
-        "originalIndex": 971,
+        "originalIndex": 973,
         "name": "斯嘉丽 (Scarlett) C2",
         "passives": []
     },
     {
-        "originalIndex": 972,
+        "originalIndex": 974,
         "name": "斯嘉丽 (Scarlett) 卡通",
         "passives": [
-            "卡通：额外 75% 几率抵抗所有状态异常、法力削减和增益驱散。"
+            "Toon: 75% extra chance to resist all status ailments, mana reductions and buff dispels."
         ]
     },
     {
-        "originalIndex": 973,
+        "originalIndex": 975,
         "name": "沙德里夫 (Shadereave)",
         "passives": []
     },
     {
-        "originalIndex": 974,
+        "originalIndex": 976,
         "name": "页岩 (Shale)",
         "passives": []
     },
     {
-        "originalIndex": 975,
+        "originalIndex": 977,
         "name": "兰斯洛特爵士 (Sir Lancelot)",
         "passives": []
     },
     {
-        "originalIndex": 976,
+        "originalIndex": 978,
         "name": "住友 (Sumitomo)",
         "passives": []
     },
     {
-        "originalIndex": 977,
+        "originalIndex": 979,
         "name": "住友 (Sumitomo) C1",
         "passives": []
     },
     {
-        "originalIndex": 978,
+        "originalIndex": 980,
         "name": "萨姆勒 (Sumle)",
         "passives": []
     },
     {
-        "originalIndex": 979,
+        "originalIndex": 981,
         "name": "萨姆勒 (Sumle) C1",
         "passives": []
     },
     {
-        "originalIndex": 980,
+        "originalIndex": 982,
         "name": "孙尚香 (Sun Shangxiang)",
         "passives": []
     },
     {
-        "originalIndex": 981,
+        "originalIndex": 983,
         "name": "冯莱纳 (Vonreine)",
         "passives": [
-            "石像鬼之肤：每当此石像鬼施放特殊技能时，其石肤会变硬。接下来受到的 4 次伤害降低 -90%，并抵抗所有状态异常和法力削减。此效果无法被驱散。"
+            "Gargoyle’s Stoneskin: Every time this Gargoyle casts a Special Skill, their Stoneskin hardens. The next 4 times they receive damage, it is reduced by -90%, and they resist all status ailment and mana reduction. This effect can’t be dispelled."
         ]
     },
     {
-        "originalIndex": 982,
+        "originalIndex": 984,
         "name": "威尔伯 (Wilbur)",
         "passives": []
     },
     {
-        "originalIndex": 983,
+        "originalIndex": 985,
         "name": "威尔伯 (Wilbur) C1",
         "passives": []
     },
     {
-        "originalIndex": 984,
+        "originalIndex": 986,
         "name": "扎伯格 (Zhabog)",
         "passives": [
-            "降低复活几率：战场上所有敌人的复活几率降低。几率为原始值的 20%。"
-        ]
-    },
-    {
-        "originalIndex": 985,
-        "name": "周瑜 (Zhou Yu)",
-        "passives": []
-    },
-    {
-        "originalIndex": 986,
-        "name": "周瑜 (Zhou Yu) C1",
-        "passives": [
-            "无法阻止的小兵：",
-            "* 抵抗小兵移除。",
-            "* 无法被阻止获得小兵。",
-            "* 小兵的攻击和技能无法被禁用。"
+            "Revival chance reduction: The chance of revival is reduced for all enemies in the battle. The chance is 20% of the original value."
         ]
     },
     {
         "originalIndex": 987,
-        "name": "阿比盖尔 (Abigail)",
-        "passives": [
-            "古神的标记：该角色每拥有 5% 点狂乱，受到的所有伤害便降低 10，最多可降低 50%。"
-        ]
+        "name": "周瑜 (Zhou Yu)",
+        "passives": []
     },
     {
         "originalIndex": 988,
-        "name": "埃斯莱高 (Aethslegaur)",
+        "name": "周瑜 (Zhou Yu) C1",
         "passives": [
-            "强化抵抗燃烧：该角色天生对燃烧有抵抗能力，并且每次抵抗时获得 450 点生命加成和 5% 的法力。",
-            "熔岩核心。该角色拥有一个熔岩核心。",
-            "熔岩核心在该角色每次施放特殊技能时激活：",
-            "* 所有敌人受到腐蚀燃烧效果，持续 3 回合。当熔岩核心完全充能时，腐蚀燃烧造成 312 点燃烧伤害，并每回合降低目标 -12% 的防御力。对拥有小兵或巨大体型小兵的英雄造成额外伤害。",
-            "* 燃烧伤害量根据核心的充能程度计算，核心激活时消耗所有充能。"
+            "Unstoppable Minions:",
+            " * Resistance against Minion removal.",
+            " * Can’t be prevented from receiving Minions.",
+            " * Minion attack and abilities can’t be disabled."
         ]
     },
     {
         "originalIndex": 989,
-        "name": "阿鲁卡多 (Alucard)",
+        "name": "阿比盖尔 (Abigail)",
         "passives": [
-            "窃取增益：当该角色施放其特殊技能时，有 50% 的几率从一个带有增益的随机敌人身上窃取最新的可驱散增益。如果没有敌人带有增益，则对所有敌人造成 70% 的伤害。"
+            "Marked by the Old Ones: All damage is reduced by 5% per 10 Insanity for this character up to a maximum reduction of 50%."
         ]
     },
     {
         "originalIndex": 990,
-        "name": "阿鲁卡多 (Alucard) C1",
+        "name": "埃斯莱高 (Aethslegaur)",
         "passives": [
-            "窃取增益：当该角色施放其特殊技能时，有 50% 的几率从一个带有增益的随机敌人身上窃取最新的可驱散增益。如果没有敌人带有增益，则对所有敌人造成 70% 的伤害。"
+            "Empowered Resist Burn: This character has innate resistance against Burn and gains 450 boosted health and 5% mana each time they resist.",
+            "Molten Core. This character has a Molten Core.",
+            "The Molten Core activates each time this character’s Special Skill is cast:",
+            " * All enemies receive Corrosive Burn for 3 turns. With fully charged Molten Core, the Corrosive Burn deals 312 Burn damage, and lowers the target’s defense by -12% each turn. Deals extra damage against heroes with Minions or Mega Minions",
+            " * The Burn damage is scaled by the amount of charge in the Core. All charge is exhausted when the Core is activated."
         ]
     },
     {
         "originalIndex": 991,
-        "name": "安布尔 (Amber)",
+        "name": "阿鲁卡多 (Alucard)",
         "passives": [
-            "窃取增益：当该角色施放其特殊技能时，有 50% 的几率从一个带有增益的随机敌人身上窃取最新的可驱散增益。如果没有敌人带有增益，则对所有敌人造成 70% 的伤害。"
+            "Steal Buff: When this character casts their Special Skill, they have a 50% chance to steal the newest dispellable buff from a random enemy that has buffs. If no enemy has buffs, deals 70% damage to all enemies."
         ]
     },
     {
         "originalIndex": 992,
-        "name": "安迪·杰 (Andy Jay)",
+        "name": "阿鲁卡多 (Alucard) C1",
         "passives": [
-            "特殊技能附带持续伤害：当该角色施放其特殊技能时，所有敌人会在 2 回合内受到 292 点水系伤害。",
-            "抵抗水系伤害：该角色天生对水系伤害有抵抗能力。"
+            "Steal Buff: When this character casts their Special Skill, they have a 50% chance to steal the newest dispellable buff from a random enemy that has buffs. If no enemy has buffs, deals 70% damage to all enemies."
         ]
     },
     {
         "originalIndex": 993,
-        "name": "安佐 (Anzogh)",
+        "name": "安布尔 (Amber)",
         "passives": [
-            "抵抗法力生成异常：该角色天生对影响法力生成的状态异常和负面叠加有抵抗能力。不适用于阻止法力生成或偷取法力的状态异常。"
+            "Steal Buff: When this character casts their Special Skill, they have a 50% chance to steal the newest dispellable buff from a random enemy that has buffs. If no enemy has buffs, deals 70% damage to all enemies."
         ]
     },
     {
         "originalIndex": 994,
-        "name": "阿拉迪亚 (Aradia)",
+        "name": "安迪·杰 (Andy Jay)",
         "passives": [
-            "小兵死亡时净化：当该角色拥有的小兵被摧毁时，该角色身上的状态异常会被净化。"
+            "Damage over time on Special: When this character casts their Special Skill, all enemies receive 292 Water damage over 2 turns.",
+            "Resist Water Damage: This character has innate resistance against Water Damage."
         ]
     },
     {
         "originalIndex": 995,
-        "name": "阿拉敏塔 (Araminta)",
+        "name": "安佐 (Anzogh)",
         "passives": [
-            "致盲小兵：所有敌方小兵拥有 -60% 精准度。所有敌方超级小兵拥有 -50% 精准度。",
-            "抵抗狂乱：该角色天生对狂乱有抵抗能力。",
-            "抵抗攻击力削减：该角色天生对影响攻击力的状态异常、叠加和衰退效果有抵抗能力。"
+            "Resist Mana Generation Ailments: This character has an innate resistance against status ailments and negative stacks that affect mana generation. Doesn't apply to status ailments that stop mana generation or steal mana."
         ]
     },
     {
         "originalIndex": 996,
-        "name": "阿瑞斯 (Ares)",
-        "passives": []
+        "name": "阿拉迪亚 (Aradia)",
+        "passives": [
+            "Cleanse on Minion Death: This character is cleansed of status ailments when Minion owned by them is destroyed. "
+        ]
     },
     {
         "originalIndex": 997,
-        "name": "阿瑞斯 (Ares) C1",
+        "name": "阿拉敏塔 (Araminta)",
         "passives": [
-            "特殊技能净化：当该角色施放其特殊技能时，会净化所有队友身上最新的状态异常。"
+            "Minion Blind: All enemies’ Minions have -60% accuracy. All enemies’ Mega Minions have -50% accuracy.",
+            "Resist Insanity: This character has innate resistance against Insanity.",
+            "Resist Attack Reduction: This character has innate resistance against status ailments, stacks and Wither effects that affect attack."
         ]
     },
     {
         "originalIndex": 998,
-        "name": "进阶拟态兽 (Ascension Mimic)",
-        "passives": [
-            "完美精准度：该角色的特殊技能必定命中目标。",
-            "拟态兽战利品：该拟态兽在完成关卡时有几率获得额外战利品。",
-            "* 高筒靴。",
-            "* 精致手套。",
-            "* 指南针。",
-            "* 大马士革刀。",
-            "* 策略书卷。",
-            "* 秘能手卷。",
-            "* 链甲衫。",
-            "* 袖剑。",
-            "* 神秘戒指。"
-        ]
+        "name": "阿瑞斯 (Ares)",
+        "passives": []
     },
     {
         "originalIndex": 999,
-        "name": "余烬 (Ash)",
+        "name": "阿瑞斯 (Ares) C1",
         "passives": [
-            "队伍大师：",
-            "作为攻击方角色的被动技能：该英雄的部队对较弱元素造成额外元素伤害。",
-            "- 造成的额外元素伤害： +100%",
-            "作为防守方角色的被动技能：该英雄受到来自较强元素部队的元素伤害减少。",
-            "- 受到的元素伤害： -10%"
+            "Cleanse on Special: When this character casts their Special Skill, they cleanse the newest status ailment from all allies."
         ]
     },
     {
         "originalIndex": 1000,
-        "name": "阿斯特琉思 (Asterius)",
-        "passives": []
+        "name": "进阶拟态兽 (Ascension Mimic)",
+        "passives": [
+            "Perfect Accuracy: This character’s Special Skill never misses its targets.",
+            "Mimic Loot: This Mimic gives a chance for extra loot when completing stages",
+            " * Tall Boots",
+            " * Fine Gloves",
+            " * Compass",
+            " * Damascus Blade",
+            " * Tome Of Tactics",
+            " * Arcane Scipt",
+            " * Chainmail Shirt",
+            " * Hidden Blade",
+            " * Mystic Rings"
+        ]
     },
     {
         "originalIndex": 1001,
-        "name": "黄金 (Aurum)",
+        "name": "余烬 (Ash)",
         "passives": [
-            "降低小兵生命值：敌方小兵被召唤时继承的生命值减少 -50%。"
+            "Troop Mastery:",
+            "Passive Skill as attacking character: This hero’s Troops deal extra elemental damage against weaker element.",
+            " - Dealt extra elemental damage: +100%",
+            "Passive Skill as defending character: This hero receives less elemental damage from Troops of stronger element.",
+            " - Received elemental damage: -10%"
         ]
     },
     {
         "originalIndex": 1002,
-        "name": "阿基拉 (Azlar)",
+        "name": "阿斯特琉思 (Asterius)",
         "passives": []
     },
     {
         "originalIndex": 1003,
-        "name": "阿基拉 (Azlar) C1",
-        "passives": []
+        "name": "黄金 (Aurum)",
+        "passives": [
+            "Decreased Minion Health: Enemy Minions inherit -50% less Health when summoned."
+        ]
     },
     {
         "originalIndex": 1004,
-        "name": "阿基拉 (Azlar) C2",
+        "name": "阿基拉 (Azlar)",
         "passives": []
     },
     {
         "originalIndex": 1005,
-        "name": "阿基拉 (Azlar) 卡通",
-        "passives": [
-            "卡通：额外 75% 几率抵抗所有状态异常、法力削减和增益驱散。"
-        ]
+        "name": "阿基拉 (Azlar) C1",
+        "passives": []
     },
     {
         "originalIndex": 1006,
-        "name": "阿基拉 (Azlar) 玻璃",
-        "passives": [
-            "玻璃：额外 60% 几率将状态异常反弹给攻击者。"
-        ]
+        "name": "阿基拉 (Azlar) C2",
+        "passives": []
     },
     {
         "originalIndex": 1007,
+        "name": "阿基拉 (Azlar) 卡通",
+        "passives": [
+            "Toon: 75% extra chance to resist all status ailments, mana reductions and buff dispels."
+        ]
+    },
+    {
+        "originalIndex": 1008,
+        "name": "阿基拉 (Azlar) 玻璃",
+        "passives": [
+            "Glass: 60% extra chance to reflect status ailments back to the attacker."
+        ]
+    },
+    {
+        "originalIndex": 1009,
         "name": "巴德尔 (Baldur)",
         "passives": []
     },
     {
-        "originalIndex": 1008,
+        "originalIndex": 1010,
         "name": "巴德尔 (Baldur) C1",
         "passives": []
     },
     {
-        "originalIndex": 1009,
+        "originalIndex": 1011,
         "name": "巴克利 (Barkley)",
         "passives": [
-            "萌宠之怒：当恶魔被召唤到任何敌人身上时，该角色对所有敌人造成 85% 的伤害。此效果每回合只能激活一次。",
-            "魔宠之友：当小兵被召唤到任何盟友身上时，该角色获得 5% 的生命值和 5% 的法力。此效果每回合只能激活一次。"
-        ]
-    },
-    {
-        "originalIndex": 1010,
-        "name": "贝尔纳黛特 (Bearnadette)",
-        "passives": [
-            "受到增益时恢复生命：该角色在获得增益或正面效果叠加时恢复 5% 的生命值。"
-        ]
-    },
-    {
-        "originalIndex": 1011,
-        "name": "贝奥武夫 (Beowulf)",
-        "passives": [
-            "完美精准度：该角色的特殊技能必定命中目标。",
-            "强化抵抗法力削减：该角色天生对法力削减有抵抗能力。每次抵抗时还会获得 600 点生命加成和 10% 的法力。",
-            "受到伤害时获得攻击力叠加：当该角色受到特殊技能伤害时，获得 +30% 的攻击力叠加（最多 10 层）。每回合可叠加一层。"
+            "Wrath of Pets: When a Fiend is summoned to any enemy, this character deals 85% damage to all enemies. This effect can activate only once per turn.",
+            "Friend of the Familiars: When a Minion is summoned to any ally, this character gains 5% health and 5% mana. This effect can activate only once per turn."
         ]
     },
     {
         "originalIndex": 1012,
-        "name": "比马 (Bhima)",
+        "name": "贝尔纳黛特 (Bearnadette)",
         "passives": [
-            "受到伤害时获得法力：",
-            "* 当该角色受到来自特殊技能或普通攻击的直接伤害时，会获得少量法力。",
-            "* 每回合最多获得 10% 法力。",
-            "对小兵和巨大体型小兵的额外伤害：此角色对小兵和巨大体型小兵造成 +150% 伤害。"
+            "Health Recovery on Buff Received: This character recovers 5% health when they receive a buff or a positive stack."
         ]
     },
     {
         "originalIndex": 1013,
-        "name": "黑凯撒 (Black Caesar)",
+        "name": "贝奥武夫 (Beowulf)",
         "passives": [
-            "抵抗状态效果伤害：该角色天生对来自状态效果的伤害有抵抗能力。"
+            "Perfect Accuracy: This character’s Special Skill never mises its target.",
+            "Empowered Resist Mana Reductions: This character has innate resistance against mana reduction. They also gain 600 boosted health and 10% mana each time they resist.",
+            "Stacking Attack On Damage Received: When this character receives damage from Special Skills, they gain +30% attack Stack (Max: 10). One Stack can be gained per turn."
         ]
     },
     {
         "originalIndex": 1014,
+        "name": "比马 (Bhima)",
+        "passives": [
+            "Mana on Damage Received:",
+            " * When this character receives direct damage from Special Skills or Normal Attacks they receive a small amount of mana.",
+            " * Maximum of 10% mana gained per turn.",
+            "Extra Damage to Minions & Mega Minions: This character does +150% damage to Minions and Mega Minions."
+        ]
+    },
+    {
+        "originalIndex": 1015,
+        "name": "黑凯撒 (Black Caesar)",
+        "passives": [
+            "Resist Damage from Status Effects: This charater has innate resistance against incoming damage from status effects."
+        ]
+    },
+    {
+        "originalIndex": 1016,
         "name": "黑骑士 (Black Knight)",
         "passives": []
     },
     {
-        "originalIndex": 1015,
+        "originalIndex": 1017,
         "name": "黑骑士 (Black Knight) C1",
         "passives": []
     },
     {
-        "originalIndex": 1016,
+        "originalIndex": 1018,
         "name": "花蕊 (Blossom)",
         "passives": [
-            "抵抗特殊技能格挡：该角色天生对格挡特殊技能的状态异常有抵抗能力。",
-            "修复核心：该角色的构造核心是修复核心。修复核心在该角色每次施放特殊技能时激活：",
-            "* 当修复核心完全充能时，为所有队友提升 25% 的生命值。",
-            "* 治疗量根据核心的充能程度计算，核心激活时消耗所有充能。"
-        ]
-    },
-    {
-        "originalIndex": 1017,
-        "name": "碎骨魔 (Bonecrusher)",
-        "passives": [
-            "猎人之毅：当该角色施放其特殊技能时，获得 +20% 的攻击力，持续 3 回合。此效果可与其他改变攻击力的效果并存。",
-            "特殊技能附带持续伤害：当该角色施放其特殊技能时，会给一个随机敌人施加猎人印记。目标在 3 回合内受到 150 点伤害。如果目标已有此效果，则持续时间刷新，伤害增加 150 点，总伤害最高可达 1500 点。"
-        ]
-    },
-    {
-        "originalIndex": 1018,
-        "name": "硫磺 (Brimstone)",
-        "passives": [
-            "抵抗特殊技能格挡：该角色天生对格挡特殊技能的状态异常有抵抗能力。",
-            "毁灭核心：该角色的构造核心是毁灭核心。",
-            "毁灭核心在该角色每次施放特殊技能时激活。",
-            "* 当毁灭核心完全充能时，对所有敌人造成 180% 的伤害。",
-            "* 伤害量根据核心的充能程度计算，核心激活时消耗所有充能。"
+            "Resist Special Skill Blocking: This character has innate resistance against status ailments that block Special Skill.",
+            "Repair Core: The Construct Core of this character is Repair Core. The Repair Core activates each time this character’s Special Skill is cast: * With fully charged Repair Core, boosts the health of all allies by 25%. * The healing is scaled by the amount of charge in the Core. All charge is exchausted when the Core is activated."
         ]
     },
     {
         "originalIndex": 1019,
-        "name": "科斯特雷尔船长 (Captain Kestrel)",
-        "passives": []
+        "name": "碎骨魔 (Bonecrusher)",
+        "passives": [
+            "Hunter’s Vigor: When this character casts their Special Skill, they get +20% attack for 3 turns. This effect can be active in addition to other effects that alter attack.",
+            "Damage Over Time on Special: When this character casts their Special Skill, they give a Hunter’s Mark on a random enemy. The target receives 150 damage over 3 turns. If a target already has this effect, the duration will be refreshed and the damage will be increased with 150, up to 1500 damage in total."
+        ]
     },
     {
         "originalIndex": 1020,
-        "name": "尼莫船长 (Captain Nemo)",
+        "name": "硫磺 (Brimstone)",
         "passives": [
-            "该角色在战斗开始时获得 20% 的法力。"
+            "Resist Special Skill Blocking: This character has innate resistance against status ailments that block Special Skill.",
+            "Destructive Core: The Construct Core of this character is Destructive Core.",
+            "The Destructive Core activates each time this character’s Special Skill is cast",
+            " * With fully charged Destructive Core, deals 180% damage to all enemies.",
+            " * The damage is scaled by the amount of charge in the Core, All charge is exchausted when the Core is activated."
         ]
     },
     {
         "originalIndex": 1021,
-        "name": "尼莫船长 (Captain Nemo) C1",
-        "passives": [
-            "战斗开始时获得法力：该角色在战斗开始时获得 20% 的法力。",
-            "对生命加成目标造成更高伤害：在该角色施放特殊技能后，所有盟友对具有生命加成的目标造成的普通攻击和特殊技能伤害提高 +70%，持续 4 回合。"
-        ]
+        "name": "科斯特雷尔船长 (Captain Kestrel)",
+        "passives": []
     },
     {
         "originalIndex": 1022,
-        "name": "红衣主教黎塞留 (Cardinal Richelieu)",
+        "name": "尼莫船长 (Captain Nemo)",
         "passives": [
-            "特殊技能造成伤害：当该角色受到特殊技能伤害或替处于掩护状态的角色承受伤害时，有 60% 的几率对所有敌人造成所受伤害 20% 的伤害。"
+            "This character receives 20% mana at the start of the battle."
         ]
     },
     {
         "originalIndex": 1023,
-        "name": "卡耳门塔 (Carmenta)",
+        "name": "尼莫船长 (Captain Nemo) C1",
         "passives": [
-            "小兵死亡时净化：当该角色拥有的小兵被摧毁时，该角色身上的状态异常会被净化。"
+            "Start Battle with Mana: This character receives 20% mana at the start of the battle.",
+            "Increased Damage Against Boosted Health: After Special Skill cast, all allies’ normal attacks and Special Skills deal +70% damage against targets with boosted health for 4 turns."
         ]
     },
     {
         "originalIndex": 1024,
-        "name": "西里斯 (Ceris)",
+        "name": "红衣主教黎塞留 (Cardinal Richelieu)",
         "passives": [
-            "进阶无视小兵：该角色造成的所有伤害无视小兵和巨大体型小兵。",
-            "进阶抵抗负面小兵效果：该角色天生对来自小兵和巨大体型小兵的负面效果及伤害有抵抗能力。",
-            "完美精准度：该角色的特殊技能必定命中目标。"
+            "Damage on Special Skill: When this character receives damage from Special Skills or in place of a character in Cover, there’s a 60% chance to deal 20% of the received damage on all enemies."
         ]
     },
     {
         "originalIndex": 1025,
-        "name": "夏洛塔 (Charlotta)",
+        "name": "卡耳门塔 (Carmenta)",
         "passives": [
-            "抵抗攻击异常：该角色天生对影响攻击力的状态异常有抵抗能力。",
-            "状态异常失效或被清除时恢复生命：每当一个状态异常从该角色身上失效、被净化、移除或重新分配时，该角色会恢复 20% 的生命值。此效果每回合只能激活一次。"
+            "Cleanse on Minion Death: This character is cleansed of status ailments when Minion owned by them is destroyed. "
         ]
     },
     {
         "originalIndex": 1026,
-        "name": "夏麦妮 (Charmione)",
+        "name": "西里斯 (Ceris)",
         "passives": [
-            "被击败时召唤史莱姆小兵：当该角色被击败时，为附近的盟友召唤继承其 50% 生命值和 40% 攻击力的史莱姆巨大体型小兵。",
-            "史莱姆小兵分裂：如果该角色一次性失去超过 25% 的最大生命值，会为自己召唤一个继承其 50% 生命值和 40% 攻击力的史莱姆巨大体型小兵。"
+            "Superior Bypass Minions: All damage done by this character bypasses Minions and Mega Minions.",
+            "Superior Resist Negative Minion Effects: This character has innate resistance against incoming negative effects and damage from Minions and Mega Minions.",
+            "Perfect Accuracy: This character’s Special Skill never misses its targets."
         ]
     },
     {
         "originalIndex": 1027,
-        "name": "嘎嘣 (Chomper)",
+        "name": "夏洛塔 (Charlotta)",
         "passives": [
-            "萌宠之怒：当恶魔被召唤到任何敌人身上时，该角色对所有敌人造成 85% 的伤害。此效果每回合只能激活一次。",
-            "魔宠之友：当小兵被召唤到任何盟友身上时，该角色获得 5% 的生命值和 5% 的法力。此效果每回合只能激活一次。"
+            "Resist Attack Ailments: This character has innate resistance against status ailments that affect attack.",
+            "Heal when status ailment expires or is cleared: This character receives 20% health each time a status ailment expires or is cleansed, removed or reallocated from them. This effect can activate only once per turn."
         ]
     },
     {
         "originalIndex": 1028,
-        "name": "淳绮罗翼 (Chunkyroi)",
+        "name": "夏麦妮 (Charmione)",
         "passives": [
-            "闪避特殊技能伤害：该角色有 15% 的几率闪避造成伤害的特殊技能。"
+            "Slime Minion Upon Defeat: When this character is defeated, they summon Slime Mega Minions to nearby allies with 50% HP and 40% attack inherited from this character.",
+            "Slime Minion Split: If this character loses more than 25% of max health at once, they summon a Slime Mega Minion for themselves with 50% HP and 40% attack."
         ]
     },
     {
         "originalIndex": 1029,
-        "name": "灰姑娘 (Cinderella)",
+        "name": "嘎嘣 (Chomper)",
         "passives": [
-            "抵抗状态效果伤害：该角色天生对来自状态效果的伤害有抵抗能力。"
+            "Wrath of Pets: When a Fiend is summoned to any enemy, this character deals 85% damage to all enemies. This effect can activate only once per turn.",
+            "Friend of the Familiars: When a Minion is summoned to any ally, this character gains 5% health and 5% mana. This effect can activate only once per turn."
         ]
     },
     {
         "originalIndex": 1030,
-        "name": "屠刀 (Cleaver)",
+        "name": "淳绮罗翼 (Chunkyroi)",
         "passives": [
-            "特殊技能伤害减免：该角色有 10% 的几率将受到的特殊技能直接伤害降至 1 点。",
-            "特殊技能附带持续伤害：当该角色施放其特殊技能时，会给一个随机敌人施加猎人印记。目标在 3 回合内受到 150 点伤害。如果目标已有此效果，则持续时间刷新，伤害增加 150 点，总伤害最高可达 1500 点。"
+            "Dodge Special Damage: This character has a 15% chance to dodge Special Skills that deal damage."
         ]
     },
     {
         "originalIndex": 1031,
-        "name": "库奇 (Cookie)",
-        "passives": []
+        "name": "灰姑娘 (Cinderella)",
+        "passives": [
+            "Resist Damage from Status Effects: This charater has innate resistance against incoming damage from status effects."
+        ]
     },
     {
         "originalIndex": 1032,
-        "name": "丘比特 (Cupido)",
+        "name": "屠刀 (Cleaver)",
         "passives": [
-            "抵抗特殊技能格挡：该角色天生对格挡特殊技能的状态异常有抵抗能力。"
+            "Special Skill Damage Reduction: This character has a 10% chance to drop the direct damage received from Special Skills to 1.",
+            "Damage over Time on Special: When this character casts their Special Skill, they give a Hunter’s Mark on a random enemy. The target receives 150 damage over 3 turns. If a target already has this effect, the duration will be refreshed and the damage will be increased by 150, up to 1500 damage in total."
         ]
     },
     {
         "originalIndex": 1033,
-        "name": "达达尼昂 (D Artagnan)",
-        "passives": [
-            "特殊技能和掩护伤害时造成伤害：当该角色受到特殊技能伤害或替处于掩护状态的角色承受伤害时，有 60% 的几率对所有敌人造成所受伤害 20% 的伤害。"
-        ]
+        "name": "库奇 (Cookie)",
+        "passives": []
     },
     {
         "originalIndex": 1034,
-        "name": "戴蒙 (Daemon)",
+        "name": "丘比特 (Cupido)",
         "passives": [
-            "受到增益时恢复生命：该角色在获得增益或正面效果叠加时恢复 5% 的生命值。"
+            "Resist Special Skill Blocking: This character has innate resistance against status ailments that block Special Skills."
         ]
     },
     {
         "originalIndex": 1035,
-        "name": "迪马 (Dima)",
+        "name": "达达尼昂 (D Artagnan)",
         "passives": [
-            "抵抗法力削减：该角色天生对法力削减有抵抗能力。",
-            "守卫集结：每 4 回合，移除所有盟友身上的衰退效果。"
+            "Damage on Special Skill and Cover Damage: When this character receives damage from Special Skills or in place of a character in Cover, there’s a 60% chance of deal 20% of the received damage on all enemies."
         ]
     },
     {
         "originalIndex": 1036,
-        "name": "多米万图斯 (Domiventus)",
+        "name": "戴蒙 (Daemon)",
         "passives": [
-            "特殊技能效果：当该角色施放其特殊技能时，有 50% 几率执行以下操作：",
-            "* 对所有敌人造成 80% 的伤害。",
-            "* 施法者获得 +19% 的法力生成，持续 2 回合。"
+            "Health Recovery on Buff Received: This character recovers 5% health when they receive a buff or a positive stack."
         ]
     },
     {
         "originalIndex": 1037,
-        "name": "多米万图斯 (Domiventus) C1",
+        "name": "迪马 (Dima)",
         "passives": [
-            "特殊技能效果：当该角色施放其特殊技能时，有 50% 几率执行以下操作：",
-            "* 对所有敌人造成 80% 的伤害。",
-            "* 施法者获得 +19% 的法力生成，持续 2 回合。",
-            "抵抗狂乱：该角色天生对狂乱有抵抗能力。"
+            "Resist Mana reduction: This character has an innate resistance against mana reduction.",
+            "Guard Rally: Every 4 turns, removes all Wither effects from all allies."
         ]
     },
     {
         "originalIndex": 1038,
-        "name": "多客森 (Doxan)",
+        "name": "多米万图斯 (Domiventus)",
         "passives": [
-            "队伍大师：",
-            "作为攻击方角色的被动技能：该英雄的部队对较弱元素造成额外元素伤害。",
-            "- 造成的额外元素伤害： +100%",
-            "作为防守方角色的被动技能：该英雄受到来自较强元素部队的元素伤害减少。",
-            "- 受到的元素伤害： -10%"
+            "Effects on Special Skill: 50% chance to perform the following actions when this character casts their Special Skill:",
+            " * Deals 80% damage to all enemies.",
+            " * The caster get +19% mana generation for 2 turns."
         ]
     },
     {
         "originalIndex": 1039,
-        "name": "邓纳·哈特 (Dunnar Hart)",
+        "name": "多米万图斯 (Domiventus) C1",
         "passives": [
-            "降低复活几率：战场上所有敌人的复活几率降低。几率为原始值的 20%。"
+            "Effects on Special Skill: 50% chance to perform the following actions when this character casts their Special Skill:",
+            " * Deals 80% damage to all enemies.",
+            " * The caster get +19% mana generation for 2 turns.",
+            "Resist Insanity: This character has innate resistance against Insanity."
         ]
     },
     {
         "originalIndex": 1040,
-        "name": "埃芭 (Ebba)",
+        "name": "多客森 (Doxan)",
         "passives": [
-            "特殊技能伤害减免：该角色有 10% 的几率将受到的特殊技能直接伤害降至 1 点。",
-            "特殊技能附带持续伤害：当该角色施放其特殊技能时，会给一个随机敌人施加猎人印记。目标在 3 回合内受到 150 点伤害。如果目标已有此效果，则持续时间刷新，伤害增加 150 点，总伤害最高可达 1500 点。"
+            "Troop Mastery:",
+            "Passive Skill as attacking character: This hero’s Troops deal extra elemental damage against weaker element.",
+            " - Dealt extra elemental damage: +100%",
+            "Passive Skill as defending character: This hero receives less elemental damage from Troops of stronger element.",
+            " - Received elemental damage: -10%"
         ]
     },
     {
         "originalIndex": 1041,
-        "name": "埃尔杜克 (El Duque)",
+        "name": "邓纳·哈特 (Dunnar Hart)",
         "passives": [
-            "石像鬼之肤：每当此石像鬼施放特殊技能时，其石肤会变硬。接下来受到的 2 次伤害将降至 1 点。此效果无法被驱散。"
+            "Revival Chance Reduction: The chance of revival is reduced for all enemies in the battle. The chance is 20% of the original value."
         ]
     },
     {
         "originalIndex": 1042,
-        "name": "厄尔巴 (Elba)",
+        "name": "埃芭 (Ebba)",
         "passives": [
-            "抵抗特殊技能格挡：该角色天生对格挡特殊技能的状态异常有抵抗能力。"
+            "Special Skill Damage Reduction: This character has a 10% chance to drop the direct damage received from Special Skills to 1.",
+            "Damage over Time on Special: When this character casts their Special Skill, they give a Hunter’s Mark on a random enemy. The target receives 150 damage over 3 turns. If a target already has this effect, the duration will be refreshed and the damage will be increased by 150, up to 1500 damage in total."
         ]
     },
     {
         "originalIndex": 1043,
+        "name": "埃尔杜克 (El Duque)",
+        "passives": [
+            "Gargoyle’s Stoneskin: Every time this Gargoyle casts a Special Skill, their Stoneskin hardens. The next 2 times they receive damage, it is dropped to 1. This effect can’t be dispelled."
+        ]
+    },
+    {
+        "originalIndex": 1044,
+        "name": "厄尔巴 (Elba)",
+        "passives": [
+            "Resist Special Skill Blocking: This character has innate resistance against status ailments that block Special Skills."
+        ]
+    },
+    {
+        "originalIndex": 1045,
         "name": "艾琳娜 (Elena)",
         "passives": []
     },
     {
-        "originalIndex": 1044,
+        "originalIndex": 1046,
         "name": "艾琳娜 (Elena) C1",
         "passives": []
     },
     {
-        "originalIndex": 1045,
+        "originalIndex": 1047,
         "name": "艾琳娜 (Elena) C2",
         "passives": []
     },
     {
-        "originalIndex": 1046,
+        "originalIndex": 1048,
         "name": "艾琳娜 (Elena) 卡通",
         "passives": [
-            "卡通：额外 75% 几率抵抗所有状态异常、法力削减和增益驱散。"
-        ]
-    },
-    {
-        "originalIndex": 1047,
-        "name": "艾琳娜 (Elena) 玻璃",
-        "passives": [
-            "玻璃：额外 60% 几率将状态异常反弹给攻击者。"
-        ]
-    },
-    {
-        "originalIndex": 1048,
-        "name": "埃利亚涅 (Eliane)",
-        "passives": [
-            "抵抗燃烧：该角色天生对燃烧有抵抗能力。",
-            "燃烧时获得法力：每当敌人受到燃烧伤害时，该角色获得 5% 的法力。"
+            "Toon: 75% extra chance to resist all status ailments, mana reductions and buff dispels."
         ]
     },
     {
         "originalIndex": 1049,
-        "name": "伊丽莎白 (Elizabeth)",
+        "name": "艾琳娜 (Elena) 玻璃",
         "passives": [
-            "延长增益持续时间：该英雄从特殊技能中获得的前 3 个增益效果的持续时间增加 1 回合。"
+            "Glass: 60% extra chance to reflect status ailments back to the attacker."
         ]
     },
     {
         "originalIndex": 1050,
-        "name": "伊丽莎白 (Elizabeth) C1",
+        "name": "埃利亚涅 (Eliane)",
         "passives": [
-            "延长增益持续时间：该英雄从特殊技能中获得的前 3 个增益效果的持续时间增加 1 回合。",
-            "对生命加成目标造成更高伤害：在该角色施放特殊技能后，所有盟友对具有生命加成的目标造成的普通攻击和特殊技能伤害提高 +70%，持续 4 回合。"
+            "Resist Burn: This character has innate resistance against Burn.",
+            "Mana on Burn: This character gains 5% mana each time an enemy receives Burn damage."
         ]
     },
     {
         "originalIndex": 1051,
-        "name": "安柏 (Ember)",
+        "name": "伊丽莎白 (Elizabeth)",
         "passives": [
-            "降低治疗量：所有敌人获得的治疗量降低 -50%。"
+            "Increase Buff Duration: Duration of the first 3 buffs this hero receives from Special Skills is increased by 1 turn"
         ]
     },
     {
         "originalIndex": 1052,
-        "name": "埃米利奥 (Emilio)",
-        "passives": []
+        "name": "伊丽莎白 (Elizabeth) C1",
+        "passives": [
+            "Increase Buff Duration: Duration of the first 3 buff this hero receives from Special Skills is increased by 1 turn.",
+            "Increased Damage Against Boosted Health: After Special Skill cast, all allies' normal attacks and Special Skills deal +70% damage against targets with boosted health for 4 turns."
+        ]
     },
     {
         "originalIndex": 1053,
-        "name": "埃米利奥 (Emilio) C1",
+        "name": "安柏 (Ember)",
         "passives": [
-            "净化时复制异常：当该英雄身上的状态异常被净化时，会将一个被净化的状态异常的新副本施加给一个随机敌人。"
+            "Decreased Healing: All enemies get -50% healing."
         ]
     },
     {
         "originalIndex": 1054,
-        "name": "厄瑞玻斯 (Erebus)",
-        "passives": [
-            "抵抗防御异常：该角色天生对影响防御的状态异常有抵抗能力。此效果同样适用于影响元素防御的状态异常。",
-            "降低小兵生命值：敌方小兵被召唤时继承的生命值减少 -50%。"
-        ]
+        "name": "埃米利奥 (Emilio)",
+        "passives": []
     },
     {
         "originalIndex": 1055,
-        "name": "埃隆 (Eron)",
+        "name": "埃米利奥 (Emilio) C1",
         "passives": [
-            "降低通过特殊技能获得的法力：通过特殊技能增加的法力值降低 -80%。此效果对战场上的所有敌人生效。"
+            "Copy Ailment on Cleanse: When a status ailment is cleansed from this hero, a new copy of the cleansed ailment is applied on a random enemy."
         ]
     },
     {
         "originalIndex": 1056,
-        "name": "经验拟态兽 (Experience Mimic)",
+        "name": "厄瑞玻斯 (Erebus)",
         "passives": [
-            "完美精准度：该角色的特殊技能必定命中目标。",
-            "拟态兽战利品：该拟态兽在完成关卡时有几率获得额外战利品。",
-            "* 普通烈火训练师英雄。",
-            "* 非凡烈火训练师英雄。",
-            "* 稀有烈火训练师英雄。",
-            "* 普通烈火英雄。",
-            "* 非凡烈火英雄。"
+            "Resist defense Ailments: This character has innate resistance against status ailments that affect defense. Applies also to status ailments that affect elemental defense.",
+            "Decreased Minion Health: Enemy Minions inherit -50% less Health when summoned."
         ]
     },
     {
         "originalIndex": 1057,
-        "name": "费玛芬格 (Fimafeng)",
+        "name": "埃隆 (Eron)",
         "passives": [
-            "强化抵抗冰冻：该角色天生对冰冻有抵抗能力，并且每次抵抗时获得 450 点生命加成和 5% 的法力。",
-            "极地核心：极地核心在该角色每次施放特殊技能时激活。",
-            "* 所有敌人受到腐蚀冰冻效果，持续 3 回合。当极地核心完全充能时，腐蚀冰冻造成 338 点冰冻伤害，并每回合降低目标 -15% 的攻击力。对拥有小兵或巨大体型小兵的英雄造成额外伤害。",
-            "* 冰冻伤害量根据核心的充能程度计算，核心激活时消耗所有充能。"
+            "Reduce Mana Gain from Special Skills: Reduces the amount of mana increased by Special Skill by -80%. The effect applies to all enemies in the battle."
         ]
     },
     {
         "originalIndex": 1058,
-        "name": "炎皮 (Flamehide)",
+        "name": "经验拟态兽 (Experience Mimic)",
         "passives": [
-            "抵抗法力削减：该角色天生对法力削减有抵抗能力。",
-            "守卫集结：每 4 回合，移除所有盟友身上的衰退效果。"
+            "Perfect Accuracy: This character’s Special Skill never misses its targets.",
+            "Mimic Loot: This Mimic gives a chance for extra loot when completing stages",
+            " * Common Fire Trainer Heroes",
+            " * Uncommon Fire Trainer Heroes",
+            " * Rare Fire Trainer Heroes",
+            " * Common Fire Heroes",
+            " * Uncommon Fire Heroes"
         ]
     },
     {
         "originalIndex": 1059,
-        "name": "飞力普 (Flip)",
+        "name": "费玛芬格 (Fimafeng)",
         "passives": [
-            "抵抗水系伤害：该角色天生对水系伤害有抵抗能力。",
-            "特殊技能附带持续伤害：当该角色施放其特殊技能时，所有敌人会在 2 回合内受到 200 点水系伤害。"
+            "Empowered Resist Frost: This character has innate resistance against Frost and gains 450 boosted health and 5% mana each time they resist.",
+            "Arctic Core: The Arctic Core activates each time this character’s Special Skill is cast",
+            " * All enemies receive Corrosive Frost for 3 turns. With fully charged Arctic Core, the Corrosive Frost deals 338 Frost damage, and lowers the target’s attack by -15% each turn. Deals extra damage against heroes with Minions or a Mega Minion.",
+            " * The Frost damage is scaled by the amount of charge in the Core. All charge is exhausted when the Core is activated."
         ]
     },
     {
         "originalIndex": 1060,
-        "name": "飞力普 (Flip) C1",
+        "name": "炎皮 (Flamehide)",
         "passives": [
-            "特殊技能附带持续伤害：当该角色施放其特殊技能时，所有敌人会在 2 回合内受到 272 点水系伤害。",
-            "抵抗水系伤害：该角色天生对水系伤害有抵抗能力。"
+            "Resist Mana reduction: This character has an innate resistance against mana reduction.",
+            "Guard Rally: Every 4 turns, removes all Wither effects from all allies."
         ]
     },
     {
         "originalIndex": 1061,
-        "name": "富尔维亚 (Fulvia)",
+        "name": "飞力普 (Flip)",
         "passives": [
-            "降低通过特殊技能获得的法力：通过特殊技能增加的法力值降低 -80%。此效果对战场上的所有敌人生效。"
+            "Resist Water Damage: This character has innate resistance against Water Damage.",
+            "Damage over time on Special: When this character casts their Special Skill, all enemies receive 200 Water damage over 2 turns."
         ]
     },
     {
         "originalIndex": 1062,
+        "name": "飞力普 (Flip) C1",
+        "passives": [
+            "Damage over time on Special: When this character casts their Special Skill, all enemies receive 272 Water damage over 2 turns.",
+            "Resist Water Damage: This character has innate resistance against Water Damage."
+        ]
+    },
+    {
+        "originalIndex": 1063,
+        "name": "富尔维亚 (Fulvia)",
+        "passives": [
+            "Reduce Mana Gain from Special Skills: Reduces the amount of mana increased by Special Skill by -80%. The effect applies to all enemies in the battle."
+        ]
+    },
+    {
+        "originalIndex": 1064,
         "name": "绯红 (Garnet)",
         "passives": []
     },
     {
-        "originalIndex": 1063,
+        "originalIndex": 1065,
         "name": "格费因 (Gefjon)",
         "passives": []
     },
     {
-        "originalIndex": 1064,
+        "originalIndex": 1066,
         "name": "格费因 (Gefjon) C1",
         "passives": []
     },
     {
-        "originalIndex": 1065,
+        "originalIndex": 1067,
         "name": "格式塔 (Gestalt)",
         "passives": [
-            "特殊技能效果：当该角色施放其特殊技能时，有 50% 几率执行以下操作：",
-            "* 对所有敌人造成 80% 的伤害。",
-            "* 施法者获得 +19% 的法力生成，持续 2 回合。"
-        ]
-    },
-    {
-        "originalIndex": 1066,
-        "name": "格式塔 (Gestalt) C1",
-        "passives": [
-            "特殊技能效果：当该角色施放其特殊技能时，有 50% 几率执行以下操作：",
-            "* 对所有敌人造成 80% 的伤害。",
-            "* 施法者获得 +19% 的法力生成，持续 2 回合。",
-            "抵抗狂乱：该角色天生对狂乱有抵抗能力。"
-        ]
-    },
-    {
-        "originalIndex": 1067,
-        "name": "古兹 (Gooze)",
-        "passives": [
-            "被击败时召唤史莱姆小兵：当该角色被击败时，为附近的盟友召唤继承其 50% 生命值和 40% 攻击力的史莱姆巨大体型小兵。",
-            "史莱姆小兵分裂：如果该角色一次性失去超过 25% 的最大生命值，会为自己召唤一个继承其 50% 生命值和 40% 攻击力的史莱姆巨大体型小兵。"
+            "Effects on Special Skill: 50% chance to perform the following actions when this character casts their Special Skill",
+            " * Deals 80% damage to all enemies.",
+            " * The caster gets +19% mana generation for 2 turns."
         ]
     },
     {
         "originalIndex": 1068,
-        "name": "造墓人 (Gravemaker)",
-        "passives": []
+        "name": "格式塔 (Gestalt) C1",
+        "passives": [
+            "Effects on Special Skill: 50% chance to perform the following actions when this character casts their Special Skill",
+            " * Deals 80% damage to all enemies.",
+            " * The caster gets +19% mana generation for 2 turns.",
+            "Resist Insanity: This character has innate resistance against Insanity."
+        ]
     },
     {
         "originalIndex": 1069,
-        "name": "造墓人 (Gravemaker) C1",
+        "name": "古兹 (Gooze)",
         "passives": [
-            "特殊技能驱散：当该角色施放其特殊技能时，会驱散所有敌人身上最新的状态效果增益。"
+            "Slime Minion Upon Defeat: When this character is defeated, they summon Slime Mega Minions to nearby allies with 50% HP and 40% attack inherited from this character.",
+            "Slime Minion Split: If this character loses more than 25% of max health at once, they summon a Slime Mega Minion for themselves with 50% HP and 40% attack."
         ]
     },
     {
         "originalIndex": 1070,
-        "name": "格拉祖 (Grazul)",
-        "passives": [
-            "抵抗治疗异常：该角色天生对影响治疗的异常状态有抵抗能力。"
-        ]
+        "name": "造墓人 (Gravemaker)",
+        "passives": []
     },
     {
         "originalIndex": 1071,
+        "name": "造墓人 (Gravemaker) C1",
+        "passives": [
+            "Dispel on Special Skill: When this character casts their Special Skill, they dispel the newest status effect buff from all enemies."
+        ]
+    },
+    {
+        "originalIndex": 1072,
+        "name": "格拉祖 (Grazul)",
+        "passives": [
+            "Resist Healing Ailments: This character has an innate ability to resist status aliments that affect Healing"
+        ]
+    },
+    {
+        "originalIndex": 1073,
         "name": "金刚守护者 (Guardian Kong)",
         "passives": []
     },
     {
-        "originalIndex": 1072,
+        "originalIndex": 1074,
         "name": "金刚守护者 (Guardian Kong) C1",
         "passives": []
     },
     {
-        "originalIndex": 1073,
+        "originalIndex": 1075,
         "name": "格法 (Guffa)",
         "passives": [
-            "石像鬼之肤：每当此石像鬼施放特殊技能时，其石肤会变硬。接下来受到的 5 次伤害降低 -90%，并抵抗所有状态异常和法力削减。此效果无法被驱散。"
-        ]
-    },
-    {
-        "originalIndex": 1074,
-        "name": "叮当铁锤 (Hammerclang)",
-        "passives": [
-            "抵抗剧毒：该角色天生对剧毒有抵抗能力。",
-            "分摊所受伤害：该角色所受伤害的 20% 将由其他盟友分摊。"
-        ]
-    },
-    {
-        "originalIndex": 1075,
-        "name": "哈索尔 (Hathor)",
-        "passives": [
-            "特殊技能效果：当该角色施放其特殊技能时，有 50% 几率执行以下操作。",
-            "* 为所有队友提升 10% 的生命值。提升的生命值可以超过最大生命值。",
-            "* 所有队友获得少量法力。"
+            "Gargoyle’s Stoneskin: Every time this Gargoyle casts a Special Skill, their Stoneskin hardens. The next 5 times they receive damage, it is reduced by -90%, and they resist all status ailment and mana reduction. This effect can’t be dispelled."
         ]
     },
     {
         "originalIndex": 1076,
-        "name": "哈索尔 (Hathor) C1",
+        "name": "叮当铁锤 (Hammerclang)",
         "passives": [
-            "特殊技能效果：当该角色施放其特殊技能时，有 50% 几率执行以下操作。",
-            "* 为所有队友提升 10% 的生命值。提升的生命值可以超过最大生命值。",
-            "* 所有队友获得少量法力。",
-            "特殊技能必定触发效果：当该角色施放其特殊技能时，任何提供额外施法效果的被动技能都将必定触发。",
-            "抵抗法力生成停止：该角色天生对阻止法力生成的状态异常有抵抗能力。"
+            "Resist Poison: This character has innate resistance against Poison.",
+            "Share Received Damage: 20% of damage received by this charater is shared with other allies."
         ]
     },
     {
         "originalIndex": 1077,
-        "name": "霍恩韦尔夫 (Hohenwerf)",
+        "name": "哈索尔 (Hathor)",
         "passives": [
-            "石像鬼之肤：每当此石像鬼施放特殊技能时，其石肤会变硬。接下来受到的 3 次伤害将降至 1 点。此效果无法被驱散。"
+            "Effects on Special Skill: 50% chance to perform the following actions when this character casts their Special Skill.",
+            " * Boosts health of all allies by 10%. Boosted Heath can exceed max HP.",
+            " * All allies gain a small amount of mana."
         ]
     },
     {
         "originalIndex": 1078,
-        "name": "角岩 (Hornfel)",
+        "name": "哈索尔 (Hathor) C1",
         "passives": [
-            "抵抗特殊技能格挡：该角色天生对格挡特殊技能的状态异常有抵抗能力。",
-            "毁灭核心：该角色的构造核心是毁灭核心。毁灭核心在该角色每次施放特殊技能时激活：",
-            "* 当毁灭核心完全充能时，对所有敌人造成 180% 的伤害。",
-            "* 伤害量根据核心的充能程度计算，核心激活时消耗所有充能。"
+            "Effects on Special Skill: 50% chance to perform the following actions when this character casts their Special Skill.",
+            " * Boosts health of all allies by 10%. Boosted Heath can exceed max HP.",
+            " * All allies gain a small amount of mana.",
+            "Guaranteed Effect on Special Skill: When this character casts their Special Skill, any of their Passive Skills that grant extra effects on cast are guaranteed to activate.",
+            "Resist Mana Generation Stopping: This character has an innate resistance against status ailments that affect stop mana generation."
         ]
     },
     {
         "originalIndex": 1079,
-        "name": "修普诺斯 (Hypnos)",
+        "name": "霍恩韦尔夫 (Hohenwerf)",
         "passives": [
-            "抵抗防御异常：该角色天生对影响防御的状态异常有抵抗能力。此效果同样适用于影响元素防御的状态异常。",
-            "降低小兵生命值：敌方小兵被召唤时继承的生命值减少 -50%。"
+            "Gargoyle’s Stoneskin: Every time this Gargoyle casts a Special Skill, their Stoneskin hardens. The next 3 times they receive damage, it is dropped to 1. This effect can’t be dispelled."
         ]
     },
     {
         "originalIndex": 1080,
-        "name": "亚莱斯 (Iarlaith)",
+        "name": "角岩 (Hornfel)",
         "passives": [
-            "抵抗法力削减：该角色天生对法力削减有抵抗能力。",
-            "守卫集结：每 4 回合，移除所有盟友身上的衰退效果。"
+            "Resist Special Skill Blocking: This character has innate resistance against status ailments that block Special Skill.",
+            "Destructive Core: The Construct Core of this character is Destructive Core. The Destructive Core activates each time this character’s Special Skill is cast: * With fully charged Destructive Core, deals 180% damage to all enemies. * The damage is scaled by the amount of charge in the Core. All charge is exchausted when the Core is activated."
         ]
     },
     {
         "originalIndex": 1081,
-        "name": "伊格纳奇奥 (Ignazio)",
+        "name": "修普诺斯 (Hypnos)",
         "passives": [
-            "队伍大师：",
-            "作为攻击方角色的被动技能：该英雄的部队对较弱元素造成额外元素伤害。",
-            "- 造成的额外元素伤害： +100%",
-            "作为防守方角色的被动技能：该英雄受到来自较强元素部队的元素伤害减少。",
-            "- 受到的元素伤害： -10%"
+            "Resist Defense Ailments: This character has innate resistance against status ailments that affect defense. Applies also to status ailments that affect elemental defense.",
+            "Decreased Minion Health: Enemy Minions inherit -50% less Health when summoned."
         ]
     },
     {
         "originalIndex": 1082,
-        "name": "伊格纳奇奥 (Ignazio) C1",
+        "name": "亚莱斯 (Iarlaith)",
         "passives": [
-            "队伍大师：",
-            "作为攻击方角色的被动技能：该英雄的部队对较弱元素造成额外元素伤害。",
-            "- 造成的额外元素伤害： +150%",
-            "作为防守方角色的被动技能：该英雄受到来自较强元素部队的元素伤害减少。",
-            "- 受到的元素伤害： -25%"
+            "Resist Mana reduction: This character has an innate resistance against mana Reduction.",
+            "Guard Rally: Every 4 turns, removes all Wither effects from all allies."
         ]
     },
     {
         "originalIndex": 1083,
-        "name": "伊尔玛利宁 (Ilmarinen)",
+        "name": "伊格纳奇奥 (Ignazio)",
         "passives": [
-            "西苏之力：当该角色在战斗中首次以低生命值开始回合时，他们会恢复 15% 的生命值并获得 15% 的法力。"
+            "Troop Mastery:",
+            "Passive Skill as attacking character: This hero’s Troops deal extra elemental damage against weaker element.",
+            " - Dealt extra elemental damage: +100%",
+            "Passive Skill as defending character: This hero receives less elemental damage from Troops of stronger element.",
+            " - Received elemental damage: -10%"
         ]
     },
     {
         "originalIndex": 1084,
-        "name": "伊尔玛利宁 (Ilmarinen) C1",
+        "name": "伊格纳奇奥 (Ignazio) C1",
         "passives": [
-            "西苏之力：当该角色在战斗中首次以低生命值开始回合时，他们会恢复 15% 的生命值并获得 15% 的法力。"
+            "Troop Mastery:",
+            "Passive Skill as attacking character: This hero’s Troops deal extra elemental damage against weaker element.",
+            " - Dealt extra elemental damage: +150%",
+            "Passive Skill as defending character: This hero receives less elemental damage from Troops of stronger element.",
+            " - Received elemental damage: -25%"
         ]
     },
     {
         "originalIndex": 1085,
-        "name": "约坎塔 (Iocantha)",
+        "name": "伊尔玛利宁 (Ilmarinen)",
         "passives": [
-            "抵抗法力削减：该角色天生对法力削减有抵抗能力。",
-            "守卫集结：每 4 回合，移除所有盟友身上的衰退效果。"
+            "Power of Sisu: When this character starts a turn with low health for the first time during a battle, they recover 15% health and receive 15% mana."
         ]
     },
     {
         "originalIndex": 1086,
-        "name": "艾西多尔 (Isidore)",
+        "name": "伊尔玛利宁 (Ilmarinen) C1",
         "passives": [
-            "致盲小兵：所有敌方小兵拥有 -60% 精准度。所有敌方超级小兵拥有 -50% 精准度。",
-            "抵抗狂乱：该角色天生对狂乱有抵抗能力。",
-            "抵抗攻击异常：该角色天生对影响攻击力的状态异常有抵抗能力。"
+            "Power of Sisu: When this character starts a turn with low health for the first time during a battle, they recover 15% health and receive 15% mana."
         ]
     },
     {
         "originalIndex": 1087,
-        "name": "艾斯罗德 (Isrod)",
-        "passives": []
+        "name": "约坎塔 (Iocantha)",
+        "passives": [
+            "Resist Mana reduction: This character has an innate resistance against mana Reduction.",
+            "Guard Rally: Every 4 turns, removes all Wither effects from all allies."
+        ]
     },
     {
         "originalIndex": 1088,
-        "name": "让-弗朗索瓦 (Jean-Francois)",
+        "name": "艾西多尔 (Isidore)",
         "passives": [
-            "抵抗生命偷取异常：该英雄天生对偷取生命的状态异常有抵抗能力。"
+            "Minion Blind: All enemies’ Minions have -60% accuracy. All enemies’ Mega Minions have -50% accuracy.",
+            "Resist Insanity: This character has innate resistance against Insanity.",
+            "Resist Attack Ailments: This character has innate resistance against status ailments that affect attack."
         ]
     },
     {
         "originalIndex": 1089,
-        "name": "可汗 (Khagan)",
+        "name": "艾斯罗德 (Isrod)",
         "passives": []
     },
     {
         "originalIndex": 1090,
-        "name": "可汗 (Khagan) C1",
-        "passives": []
+        "name": "让-弗朗索瓦 (Jean-Francois)",
+        "passives": [
+            "Resist Health Steal Ailments: The Hero has an innate resistance against status ailments that Steal Health."
+        ]
     },
     {
         "originalIndex": 1091,
-        "name": "可汗 (Khagan) C2",
+        "name": "可汗 (Khagan)",
         "passives": []
     },
     {
         "originalIndex": 1092,
-        "name": "可汗 (Khagan) 卡通",
-        "passives": [
-            "卡通：额外 75% 几率抵抗所有状态异常、法力削减和增益驱散。"
-        ]
+        "name": "可汗 (Khagan) C1",
+        "passives": []
     },
     {
         "originalIndex": 1093,
-        "name": "可汗 (Khagan) 玻璃",
-        "passives": [
-            "玻璃：额外 60% 几率将状态异常反弹给攻击者。"
-        ]
+        "name": "可汗 (Khagan) C2",
+        "passives": []
     },
     {
         "originalIndex": 1094,
-        "name": "胡夫 (Khufu)",
+        "name": "可汗 (Khagan) 卡通",
         "passives": [
-            "特殊技能效果：当该角色施放其特殊技能时，有 70% 几率执行以下操作：",
-            "* 对所有敌人造成 70% 的伤害。",
-            "* 所有敌人受到 243 点沙系伤害，持续 3 回合。"
+            "Toon: 75% extra chance to resist all status ailments, mana reductions and buff dispels."
         ]
     },
     {
         "originalIndex": 1095,
-        "name": "胡夫 (Khufu) C1",
+        "name": "可汗 (Khagan) 玻璃",
         "passives": [
-            "特殊技能效果：当该角色施放其特殊技能时，有 70% 几率执行以下操作：",
-            "* 对所有敌人造成 70% 的伤害。",
-            "* 所有敌人受到 366 点沙系伤害，持续 3 回合。",
-            "特殊技能额外效果几率：当该角色施放其特殊技能时，其任何提供额外施法效果的被动技能都有 3 次激活机会。",
-            "提升特殊技能伤害：该角色首次施放造成伤害的特殊技能时，其威力额外增加 50%。"
+            "Glass: 60% extra chance to reflect status ailments back to the attacker."
         ]
     },
     {
         "originalIndex": 1096,
-        "name": "克拉夫克鲁什 (Kravekrush)",
+        "name": "胡夫 (Khufu)",
         "passives": [
-            "战斗开始时获得法力：该角色在战斗开始时获得 20% 的法力。"
+            "Effects on Special Skill: 70% chance to perform the following actions when this character casts their Special Skill",
+            " * Deals 70% damage to all enemies.",
+            " * All enemies receive 243 Sand damage over 3 turns."
         ]
     },
     {
         "originalIndex": 1097,
-        "name": "克拉夫克鲁什 (Kravekrush) C1",
+        "name": "胡夫 (Khufu) C1",
         "passives": [
-            "战斗开始时获得法力：该角色在战斗开始时获得 20% 的法力。",
-            "对生命加成目标造成更高伤害：在该角色施放特殊技能后，所有盟友对具有生命加成的目标造成的普通攻击和特殊技能伤害提高 +70%，持续 4 回合。"
+            "Effects on Special Skill: 70% chance to perform the following actions when this character casts their Special Skill",
+            " * Deals 70% damage to all enemies.",
+            " * All enemies receive 366 Sand damage over 3 turns.",
+            "Extra Chance for Effects On Special Skill: When this character casts their Special Skill, any of their Passive Skills that grant extra effects on cast have 3 chances to activate.",
+            "Increased Special Skill Damage: The first time this character casts a Special Skill that deals damage, an additional 50% is added to its power."
         ]
     },
     {
         "originalIndex": 1098,
+        "name": "克拉夫克鲁什 (Kravekrush)",
+        "passives": [
+            "Start Battle with Mana: This character receives 20% mana at the start of the battle."
+        ]
+    },
+    {
+        "originalIndex": 1099,
+        "name": "克拉夫克鲁什 (Kravekrush) C1",
+        "passives": [
+            "Start Battle with Mana: This character receives 20% mana at the start of the battle.",
+            "Increased Damage Against Boosted Health: After this character casts their Special Skill, all allies deal +70% increased normal attack and Special Skills damage against targets with boosted health for 4 turns."
+        ]
+    },
+    {
+        "originalIndex": 1100,
         "name": "洛基夫人 (Lady Loki)",
         "passives": []
     },
     {
-        "originalIndex": 1099,
+        "originalIndex": 1101,
         "name": "洛基夫人 (Lady Loki) C1",
         "passives": []
     },
     {
-        "originalIndex": 1100,
+        "originalIndex": 1102,
         "name": "拉萨尔 (Lasalle)",
         "passives": [
-            "特殊技能效果：当该角色施放其特殊技能时，有 50% 几率执行以下操作：",
-            "* 对所有敌人造成 80% 的伤害。",
-            "* 所有队友获得 +21% 的暴击率，持续 2 回合。",
-            "抵抗狂乱：该角色天生对狂乱有抵抗能力。"
+            "Effects on Special Skill: 50% chance to perform the following actions when this character casts their Special Skill",
+            " * Deals 80% damage to all enemies.",
+            " * All allies get +21% critical chance for 2 turns.",
+            "Resist Insanity: This character has innate resistance against Insanity."
         ]
-    },
-    {
-        "originalIndex": 1101,
-        "name": "拉萨尔 (Lasalle) C1",
-        "passives": [
-            "特殊技能效果：当该角色施放其特殊技能时，有 50% 几率执行以下操作：",
-            "* 对所有敌人造成 80% 的伤害。",
-            "* 所有队友获得 +21% 的暴击率，持续 2 回合。",
-            "抵抗狂乱：该角色天生对狂乱有抵抗能力。"
-        ]
-    },
-    {
-        "originalIndex": 1102,
-        "name": "莱维娜 (Lewena)",
-        "passives": []
     },
     {
         "originalIndex": 1103,
-        "name": "李逵 (Li Kui)",
+        "name": "拉萨尔 (Lasalle) C1",
         "passives": [
-            "特殊攻击暴击时净化：当该角色用特殊技能造成暴击时，会安全地净化所有盟友最新的可净化状态效果。此效果每回合可激活一次。",
-            "正义反叛：",
-            "* 当该角色的特殊技能击中当前生命值较高的角色时，获得 +20% 的生命加成。",
-            "* 当该角色被当前生命值较高的角色的特殊技能击中时，获得 +20% 的法力。",
-            "* 这些效果每个每回合只能激活一次。",
-            "抵抗流血伤害：该角色天生对流血有抵抗能力。"
+            "Effects on Special Skill: 50% chance to perform the following actions when this character casts their Special Skill",
+            " * Deals 80% damage to all enemies.",
+            " * All allies get +21% critical chance for 2 turns.",
+            "Resist Insanity: This character has innate resistance against Insanity."
         ]
     },
     {
         "originalIndex": 1104,
-        "name": "洛迪乌斯 (Lodius)",
-        "passives": [
-            "降低通过特殊技能获得的法力：通过特殊技能增加的法力值降低 -80%。此效果对战场上的所有敌人生效。"
-        ]
+        "name": "莱维娜 (Lewena)",
+        "passives": []
     },
     {
         "originalIndex": 1105,
-        "name": "疯锤儿 (Madhammer)",
+        "name": "李逵 (Li Kui)",
         "passives": [
-            "特殊技能效果：当该角色施放其特殊技能时，有 50% 几率执行以下操作。",
-            "* 对所有敌人造成 90% 的伤害。",
-            "* 所有敌人获得 -25% 的精准度，持续 3 回合。"
+            "Cleanse on Critical Special Attack: When this character scores a critical hit with their Special Skill, they safely cleanse the latest cleansable status effect from all allies. This effect can activate once per turn.",
+            "Righteous Rebellion: ",
+            " * When this character’s Special Skill hits a character that had higher current HP, gain +20% boosted health.",
+            " * When this character is hit by the Special Skill of a character that had higher current HP, gain +20% mana.",
+            " * Each of these effects can activate once per turn.",
+            "Resist Bleed Damage: This character has innate resistance against Bleed.    "
         ]
     },
     {
         "originalIndex": 1106,
-        "name": "灾厄 (Malum)",
+        "name": "洛迪乌斯 (Lodius)",
         "passives": [
-            "降低小兵生命值：敌方小兵被召唤时继承的生命值减少 -50%。"
+            "Reduce Mana Gain from Special Skills: Reduces the amount of mana increased by Special Skill by -80%. The effect applies to all enemies in the battle."
         ]
     },
     {
         "originalIndex": 1107,
+        "name": "疯锤儿 (Madhammer)",
+        "passives": [
+            "Effects on Special Skill: 50% chance to perform the following actions when this character casts their Special Skill.",
+            " * Deals 90% damage to all enemies.",
+            " * All enemies get -25% accuracy for 3 turns."
+        ]
+    },
+    {
+        "originalIndex": 1108,
+        "name": "灾厄 (Malum)",
+        "passives": [
+            "Decreased Minion Health: Enemy Minions inherit -50% less Health when summoned."
+        ]
+    },
+    {
+        "originalIndex": 1109,
         "name": "马里亚娜 (Marjana)",
         "passives": []
     },
     {
-        "originalIndex": 1108,
+        "originalIndex": 1110,
         "name": "马里亚娜 (Marjana) C1",
         "passives": []
     },
     {
-        "originalIndex": 1109,
+        "originalIndex": 1111,
         "name": "马里亚娜 (Marjana) C2",
         "passives": []
     },
     {
-        "originalIndex": 1110,
+        "originalIndex": 1112,
         "name": "马里亚娜 (Marjana) 卡通",
         "passives": [
-            "卡通：额外 75% 几率抵抗所有状态异常、法力削减和增益驱散。"
+            "Toon: 75% extra chance to resist all status ailments, mana reductions and buff dispels."
         ]
     },
     {
-        "originalIndex": 1111,
+        "originalIndex": 1113,
         "name": "马里亚娜 (Marjana) 玻璃",
         "passives": [
-            "玻璃：额外 60% 几率将状态异常反弹给攻击者。"
+            "Glass: 60% extra chance to reflect status ailments back to the attacker."
         ]
     },
     {
-        "originalIndex": 1112,
+        "originalIndex": 1114,
         "name": "光子 (Mitsuko)",
         "passives": []
     },
     {
-        "originalIndex": 1113,
+        "originalIndex": 1115,
         "name": "光子 (Mitsuko) C1",
         "passives": []
     },
     {
-        "originalIndex": 1114,
+        "originalIndex": 1116,
         "name": "纳德兹达 (Nadezhda)",
         "passives": [
-            "此角色在施放特殊技能时，有 50% 的几率为所有盟友恢复 15% 的生命值。若该特殊技能已完全充满，则几率为 100%。"
-        ]
-    },
-    {
-        "originalIndex": 1115,
-        "name": "纳德兹达 (Nadezhda) C1",
-        "passives": [
-            "此角色在施放特殊技能时，有 60% 的几率为所有盟友恢复 20% 的生命值。若该特殊技能已完全充满，则几率为 100%。",
-            "削弱巨大体型小兵：敌方巨大体型小兵的生命值降低 -75%。"
-        ]
-    },
-    {
-        "originalIndex": 1116,
-        "name": "纳伊姆 (Naeem)",
-        "passives": [
-            "飞行动量：如果该角色拥有任意数量的飞行动量，其将获得：",
-            "* 最多 +35% 的法力生成。",
-            "* 最多 +25% 的闪避几率。",
-            "* 角色拥有的飞行动量越少，效果越弱。",
-            "削弱巨大体型小兵：敌方巨大体型小兵的生命值降低 -75%。"
+            "Health recovery on special: When this character casts their Special Skill, they have a 50% chance to recover 15% health for all allies. If the Special Skill is fully charged, the chance is 100%."
         ]
     },
     {
         "originalIndex": 1117,
-        "name": "娜塔莉亚 (Natalya)",
-        "passives": []
+        "name": "纳德兹达 (Nadezhda) C1",
+        "passives": [
+            "Health Recovery on Special: When this character casts their Special Skill, they have a 60% chance to recover 20% health for allies. If the Special Skill is fully charged, the chance is 100%.",
+            "Weaker Mega Minions: Enemy Mega Minions have -75% HP."
+        ]
     },
     {
         "originalIndex": 1118,
-        "name": "娜塔莉亚 (Natalya) C1",
+        "name": "纳伊姆 (Naeem)",
         "passives": [
-            "特殊技能驱散：当该角色施放其特殊技能时，会驱散所有敌人身上最新的状态效果增益。"
+            "Flight Momentum: If this character has any amount of Flight Momentum, they receive:",
+            " * Up to +35% mana generation.",
+            " * Up to +25% chance to dodge.",
+            " * The effects diminish the less Flight Momentum character has.",
+            "Weaker Mega Minions: Enemy Mega Minions have -75% HP."
         ]
     },
     {
         "originalIndex": 1119,
-        "name": "尼马 (Neema)",
-        "passives": [
-            "无视嘲讽：该角色的特殊技能不受嘲讽影响。",
-            "抵抗特殊技能格挡：该角色天生对格挡特殊技能的状态异常有抵抗能力。"
-        ]
+        "name": "娜塔莉亚 (Natalya)",
+        "passives": []
     },
     {
         "originalIndex": 1120,
-        "name": "尼布尔斯 (Nibbles)",
+        "name": "娜塔莉亚 (Natalya) C1",
         "passives": [
-            "降低治疗量：所有敌人获得的治疗量降低 -50%。"
+            "Dispel on Special Skill: When this character casts their Special Skill, they dispel the newest status effect buff from all enemies."
         ]
     },
     {
         "originalIndex": 1121,
-        "name": "妮姬 (Niki)",
+        "name": "尼马 (Neema)",
         "passives": [
-            "队伍大师：",
-            "作为攻击方角色的被动技能：该英雄的部队对较弱元素造成额外元素伤害。",
-            "- 造成的额外元素伤害： +100%",
-            "作为防守方角色的被动技能：该英雄受到来自较强元素部队的元素伤害减少。",
-            "- 受到的元素伤害： -10%"
+            "Ignore Taunt: This character’s Special Skill is not affected by Taunt.",
+            "Resist Special Skill Blocking: This character has innate resistance against status ailments that block Special Skills."
         ]
     },
     {
         "originalIndex": 1122,
-        "name": "浪子 (Nomad)",
+        "name": "尼布尔斯 (Nibbles)",
         "passives": [
-            "降低小兵生命值：敌方小兵被召唤时继承的生命值减少 -50%。"
+            "Decreased Healing: All enemies get -50% healing."
         ]
     },
     {
         "originalIndex": 1123,
-        "name": "诺尔 (Noor)",
+        "name": "妮姬 (Niki)",
         "passives": [
-            "麻雀召唤师：当一名敌人使用特殊技能召唤任意小兵时，为自身召唤一只麻雀小兵。"
+            "Troop Mastery:",
+            "Passive Skill as attacking character: This hero’s Troops deal extra elemental damage against weaker element.",
+            " - Dealt extra elemental damage: +100%",
+            "Passive Skill as defending character: This hero receives less elemental damage from Troops of stronger element.",
+            " - Received elemental damage: -10%"
         ]
     },
     {
         "originalIndex": 1124,
-        "name": "诺曼 (Norman)",
+        "name": "浪子 (Nomad)",
         "passives": [
-            "受到状态异常时获得法力增益：持有此技能的角色在受到任何状态异常或负面效果叠加时，获得 +24% 的法力生成，持续 3 回合。",
-            "嘲讽时获得法力：每当敌人获得嘲讽状态效果时，该角色的法力增加 10%。",
-            "无视嘲讽：该角色的特殊技能不受嘲讽影响。"
+            "Decreased Minion Health: Enemy Minions inherit -50% less Health when summoned."
         ]
     },
     {
         "originalIndex": 1125,
-        "name": "俄刻阿诺斯 (Oceanus)",
-        "passives": []
+        "name": "诺尔 (Noor)",
+        "passives": [
+            "Sparrow Summoner: Summons a Sparrow Minion for self when an enemy summons any Minions by Special Skill."
+        ]
     },
     {
         "originalIndex": 1126,
-        "name": "奥克特斯 (Octros)",
+        "name": "诺曼 (Norman)",
         "passives": [
-            "延长增益持续时间：该英雄从特殊技能中获得的前 3 个增益效果的持续时间增加 1 回合。"
+            "Mana Buff on Status Ailment Received: The character with this skill receives +24% mana generation for 3 turns when they receive any status ailment or a negative stack.",
+            "Mana on Taunt: Each time an enemy receives Taunt status effect this character’s mana is increased by 10%.",
+            "Ignore Taunt: The character’s Special Skill is not affected by Taunt."
         ]
     },
     {
         "originalIndex": 1127,
-        "name": "奥克特斯 (Octros) C1",
-        "passives": [
-            "延长增益持续时间：该英雄从特殊技能中获得的前 3 个增益效果的持续时间增加 1 回合。",
-            "对生命加成目标造成更高伤害：在该角色施放特殊技能后，所有盟友对具有生命加成的目标造成的普通攻击和特殊技能伤害提高 +70%，持续 4 回合。"
-        ]
+        "name": "俄刻阿诺斯 (Oceanus)",
+        "passives": []
     },
     {
         "originalIndex": 1128,
-        "name": "奥门 (Omen)",
+        "name": "奥克特斯 (Octros)",
         "passives": [
-            "古神的标记：该角色每拥有 5% 点狂乱，受到的所有伤害便降低 10，最多可降低 50%。"
+            "Increase Buff Duration: Duration of the first 3 buff this hero receives from Special Skills is increased by 1 turn."
         ]
     },
     {
         "originalIndex": 1129,
-        "name": "奥提斯 (Otis)",
+        "name": "奥克特斯 (Octros) C1",
         "passives": [
-            "猎手感知：当该角色施放其特殊技能时，有 100% 的几率将自身最新的状态异常转移给目标。如果其特殊技能无法选择敌方目标，则会随机转移至一名敌人。若此角色没有状态异常，则恢复自身 12% 的生命。",
-            "特殊技能附带持续伤害：当该角色施放其特殊技能时，会给一个随机敌人施加猎人印记。目标在 3 回合内受到 150 点伤害。如果目标已有此效果，则持续时间刷新，伤害增加 150 点，总伤害最高可达 1500 点。"
+            "Increase Buff Duration: Duration of the first 3 buff this hero receives from Special Skills is increased by 1 turn.",
+            "Increased Damage Against Boosted Health: After Special Skill cast, all allies' normal attacks and Special Skills deal +70% damage against targets with boosted health for 4 turns."
         ]
     },
     {
         "originalIndex": 1130,
-        "name": "奥蒂利娅 (Ottilia)",
-        "passives": []
+        "name": "奥门 (Omen)",
+        "passives": [
+            "Marked by the Old Ones: All damage is reduced by 5% per 10 Insanity for this character up to a maximum reduction of 50%."
+        ]
     },
     {
         "originalIndex": 1131,
-        "name": "椒焰 (Pepperflame)",
+        "name": "奥提斯 (Otis)",
         "passives": [
-            "特殊技能效果：当该角色施放其特殊技能时，有 40% 几率执行以下操作。",
-            "* 对所有敌人造成 90% 的伤害。",
-            "* 所有敌人获得 -25% 的精准度，持续 3 回合。"
+            "Hunter’s Sense: When this character casts their Special Skill, they have 100% chance to transfer the newest status ailment from themself to the target. If the Special Skill cannot target an enemy, a random enemy is chosen instead. If this character has no status ailments, they recover 12% health.",
+            "Damage over Time on Special: When this character casts their Special Skill, they give a Hunter’s Mark on a random enemy. The target receives 150 damage over 3 turns. If a target already has this effect, the duration will be refreshed and the damage will be increased by 150, up to 1500 damage in total."
         ]
     },
     {
         "originalIndex": 1132,
-        "name": "菲妮克莎 (Phenexa)",
-        "passives": [
-            "降低复活几率：战场上所有敌人的复活几率降低。几率为原始值的 20%。"
-        ]
+        "name": "奥蒂利娅 (Ottilia)",
+        "passives": []
     },
     {
         "originalIndex": 1133,
-        "name": "普鲁斯 (Pluth)",
+        "name": "椒焰 (Pepperflame)",
         "passives": [
-            "进阶无视小兵：该角色造成的所有伤害无视小兵和巨大体型小兵。",
-            "进阶抵抗负面小兵效果：该角色天生对来自小兵和巨大体型小兵的负面效果及伤害有抵抗能力。",
-            "完美精准度：该角色的特殊技能必定命中目标。"
+            "Effects on Special Skill: 40% chance to perform the following actions when this character casts their Special Skill.",
+            " * Deals 90% damage to all enemies.",
+            " * All enemies get -25% accuracy for 3 turns."
         ]
     },
     {
         "originalIndex": 1134,
+        "name": "菲妮克莎 (Phenexa)",
+        "passives": [
+            "Revival Chance Reduction: The chance of revival is reduced for all enemies in the battle. The chance is 20% of the original value."
+        ]
+    },
+    {
+        "originalIndex": 1135,
+        "name": "普鲁斯 (Pluth)",
+        "passives": [
+            "Superior Bypass Minions: All damage done by this character bypasses Minions and Mega Minions.",
+            "Superior Resist Negative Minion Effects: This character has innate resistance against incoming negative effects and damage from Minions and Mega Minions.",
+            "Perfect Accuracy: This character’s Special Skill never misses its targets."
+        ]
+    },
+    {
+        "originalIndex": 1136,
         "name": "穿靴子的猫 (Puss in Boots)",
         "passives": []
     },
     {
-        "originalIndex": 1135,
+        "originalIndex": 1137,
         "name": "穿靴子的猫 (Puss in Boots) C1",
         "passives": []
     },
     {
-        "originalIndex": 1136,
+        "originalIndex": 1138,
         "name": "红桃王后 (Queen of Hearts)",
         "passives": []
     },
     {
-        "originalIndex": 1137,
+        "originalIndex": 1139,
         "name": "红桃王后 (Queen of Hearts) C1",
         "passives": [
-            "特殊技能附带莽夫乱拳：施放特殊技能时， 50% 几率对一个随机敌人施加莽夫乱拳，持续 3 回合。"
-        ]
-    },
-    {
-        "originalIndex": 1138,
-        "name": "拉杰什 (Rajesh)",
-        "passives": [
-            "九条命：",
-            "* 被击败时，该角色有 80% 的几率在下一回合开始时以 50% 的生命值和 80% 的法力复活。",
-            "* 最多激活 9 次。每次激活后复活几率降低。无法被被动技能的状态异常阻止。",
-            "特质：轻盈体态。",
-            "该角色不受增加或减少防御的效果影响。",
-            "这包括：",
-            "* - 状态效果增益和异常。",
-            "* - 正面和负面叠加。",
-            "* - 成长和衰退效果。"
-        ]
-    },
-    {
-        "originalIndex": 1139,
-        "name": "拉尚 (Rashan)",
-        "passives": [
-            "古神的标记：该角色每拥有 5% 点狂乱，受到的所有伤害便降低 10，最多可降低 50%。"
+            "Mindless Attack On Special Skill: On Special Skill cast, 50% chance to inflict Mindless Attack on a random enemy for 3 turns."
         ]
     },
     {
         "originalIndex": 1140,
-        "name": "雷 (Ray)",
+        "name": "拉杰什 (Rajesh)",
         "passives": [
-            "特殊技能获得法力：当该角色施放其特殊技能时，所有敌人获得 -5% 的法力生成叠加。如果特殊技能完全充能，则所有敌人获得两层叠加。一个敌人最多可以有 10 层叠加。",
-            "特殊技能叠加：当该角色施放其特殊技能时，有 50% 的几率为所有队友提供 10% 的法力。如果特殊技能完全充能，则几率为 100%。"
+            "Nine Lives:",
+            " * When defeated this character has 80% chance to revive at the begining of their next turn with 50% health and 80% mana.",
+            " * Activates up to 9 times. Chance to revive is reduced on each activation. Can’t be prevented with status ailments on Passive Skills.",
+            "Trait: Lithe Frame",
+            "This character is not affect by effects that increase or reduce defense.",
+            "This includes:",
+            " * - Status effect buffs and ailments.",
+            " * - Positive and negative stacks.",
+            " * - Growth and Wither effects."
         ]
     },
     {
         "originalIndex": 1141,
-        "name": "雷 (Ray) C1",
+        "name": "拉尚 (Rashan)",
         "passives": [
-            "特殊技能获得法力：当该角色施放其特殊技能时，有 60% 的几率为所有队友提供 10% 的法力。如果特殊技能完全充能，则几率为 100%。",
-            "特殊技能叠加：当该角色施放其特殊技能时，所有敌人获得 -7% 的法力生成叠加。如果特殊技能完全充能，则所有敌人获得两层叠加。一个敌人最多可以有 10 层叠加。",
-            "削弱巨大体型小兵：敌方巨大体型小兵的生命值降低 -75%。"
+            "Marked by the Old Ones: All damage is reduced by 5% per 10 Insanity for this character up to a maximum reduction of 50%."
         ]
     },
     {
         "originalIndex": 1142,
-        "name": "小红帽 (Red Hood)",
-        "passives": []
+        "name": "雷 (Ray)",
+        "passives": [
+            "Mana on Special: When this character casts their Special Skill, all enemies get -5% mana generation stack. If the Special Skill is fully charged, all enemies get two stacks. An enemy can have up to 10 stacks.",
+            "Stack on Special: When this character casts their Special Skill, they have a 50% chance to give 10% mana to all allies. If the Special Skill is fully charged, the chance is 100%."
+        ]
     },
     {
         "originalIndex": 1143,
-        "name": "雷金 (Regin)",
+        "name": "雷 (Ray) C1",
         "passives": [
-            "强化抵抗燃烧：该角色天生对燃烧有抵抗能力，并且每次抵抗时获得 450 点生命加成和 5% 的法力。",
-            "熔岩核心。该角色拥有一个熔岩核心。",
-            "熔岩核心在该角色每次施放特殊技能时激活：",
-            "* 所有敌人受到腐蚀燃烧效果，持续 3 回合。当熔岩核心完全充能时，腐蚀燃烧造成 319 点燃烧伤害，并每回合降低目标 -12% 的防御力。对拥有小兵或巨大体型小兵的英雄造成额外伤害。",
-            "* 燃烧伤害量根据核心的充能程度计算，核心激活时消耗所有充能。"
+            "Mana on Special: When this character casts their Special Skill, they have a 60% chance to give 10% mana to all allies. If the Special Skill is fully charged, the chance is 100%.",
+            "Stack on Special: When this character casts their Special Skill, all enemies get -7% mana generation stack. If the Special Skill is fully charged, all enemies get two stacks. An enemy can have up to 10 stacks.",
+            "Weaker Mega Minions: Enemy Mega Minions have -75% HP."
         ]
     },
     {
         "originalIndex": 1144,
-        "name": "鲁本 (Reuben)",
-        "passives": [
-            "抵抗法力生成异常：该角色天生对影响法力生成的状态异常和负面叠加有抵抗能力。不适用于阻止法力生成或偷取法力的状态异常。"
-        ]
+        "name": "小红帽 (Red Hood)",
+        "passives": []
     },
     {
         "originalIndex": 1145,
-        "name": "蕾夫娜 (Revna)",
+        "name": "雷金 (Regin)",
         "passives": [
-            "特殊技能伤害减免：该角色有 10% 的几率将受到的特殊技能直接伤害降至 1 点。",
-            "特殊技能附带持续伤害：当该角色施放其特殊技能时，会给一个随机敌人施加猎人印记。目标在 3 回合内受到 150 点伤害。如果目标已有此效果，则持续时间刷新，伤害增加 150 点，总伤害最高可达 1500 点。"
+            "Empowered Resist Burn: This character has innate resistance against Burn and gains 450 boosted heath and 5% mana each time they resist.",
+            "Molten Core. This character has a Molten Core.",
+            "The Molten Core activates each time this character’s Special Skill is cast:",
+            " * All enemies receive Corrosive Burn for 3 turns. With fully charged Molten Core, the Corrosive Burn deals 319 Burn damage, and lowers the target’s defense by -12% each turn. Deals extra damage against heroes with Minions or Mega Minions",
+            " * The Burn damage is scaled by the amount of charge in the Core. All charge is exhausted when the Core is activated."
         ]
     },
     {
         "originalIndex": 1146,
-        "name": "火箭 (Rocket)",
+        "name": "鲁本 (Reuben)",
         "passives": [
-            "特殊技能效果：当该角色施放其特殊技能时，有 40% 几率执行以下操作。",
-            "* 对所有敌人造成 90% 的伤害。",
-            "* 所有敌人获得 -25% 的精准度，持续 3 回合。"
+            "Resist Mana Generation Ailments: This character has innate resistance against status ailments and negative stacks that affect Mana Generation. Doesn't apply to status ailments that stop mana generation or steal mana."
         ]
     },
     {
         "originalIndex": 1147,
-        "name": "罗莎娜 (Rosanna)",
-        "passives": []
+        "name": "蕾夫娜 (Revna)",
+        "passives": [
+            "Special Skill Damage Reduction: This character has a 10% chance to drop the direct damage received from Special Skills to 1.",
+            "Damage over Time on Special: When this character casts their Special Skill, they give a Hunter’s Mark on a random enemy. The target receives 150 damage over 3 turns. If a target already has this effect, the duration will be refreshed and the damage will be increased by 150, up to 1500 damage in total."
+        ]
     },
     {
         "originalIndex": 1148,
-        "name": "拉菲恩与呢姬布 (Roughian & Nurgib)",
+        "name": "火箭 (Rocket)",
         "passives": [
-            "持续吞噬小兵并获得法力：每 3 回合吞噬一个随机敌人的所有小兵，并为每个被吞噬的小兵获得少量法力。",
-            "生命恢复时获得法力：该角色每次恢复生命时获得 5% 的法力。"
+            "Effects on Special Skill: 40% chance to perform the following actions when this character casts their Special Skill.",
+            " * Deals 90% damage to all enemies.",
+            " * All enemies get -25% accuracy for 3 turns."
         ]
     },
     {
         "originalIndex": 1149,
-        "name": "鲁瓦 (Ruadh)",
-        "passives": [
-            "特殊技能伤害减免：该角色有 10% 的几率将受到的特殊技能直接伤害降至 1 点。",
-            "特殊技能附带持续伤害：当该角色施放其特殊技能时，会给一个随机敌人施加猎人印记。目标在 3 回合内受到 150 点伤害。如果目标已有此效果，则持续时间刷新，伤害增加 150 点，总伤害最高可达 1500 点。"
-        ]
-    },
-    {
-        "originalIndex": 1150,
-        "name": "露比 (Ruby)",
+        "name": "罗莎娜 (Rosanna)",
         "passives": []
     },
     {
-        "originalIndex": 1151,
-        "name": "拉塞尔 (Russell)",
+        "originalIndex": 1150,
+        "name": "拉菲恩与呢姬布 (Roughian & Nurgib)",
         "passives": [
-            "抵抗攻击异常：该角色天生对影响攻击力的状态异常有抵抗能力。",
-            "燃烧时获得法力：每当敌人受到燃烧伤害时，该角色获得 5% 的法力。"
+            "Eat Minions and Gain Mana Over Time: Every 3 turns eats all Minions from a random enemy and gains a small amount of mana for each eaten Minion.",
+            "Mana on Health Recovery: This character receives 5% mana each time its health is recovered."
+        ]
+    },
+    {
+        "originalIndex": 1151,
+        "name": "鲁瓦 (Ruadh)",
+        "passives": [
+            "Special Skill Damage Reduction: This character has a 10% chance to drop the direct damage received from Special Skills to 1.",
+            "Damage over Time on Special: When this character casts their Special Skill, they give a Hunter’s Mark on a random enemy. The target receives 150 damage over 3 turns. If a target already has this effect, the duration will be refreshed and the damage will be increased by 150, up to 1500 damage in total."
         ]
     },
     {
         "originalIndex": 1152,
-        "name": "腊斯特 (Rust)",
-        "passives": [
-            "降低治疗量：所有敌人获得的治疗量降低 -50%。"
-        ]
+        "name": "露比 (Ruby)",
+        "passives": []
     },
     {
         "originalIndex": 1153,
-        "name": "萨利马塔 (Salimata)",
+        "name": "拉塞尔 (Russell)",
         "passives": [
-            "快节奏民谣：所有由敌人施放的民谣仅持续 1 回合。",
-            "快节奏舞蹈：所有由敌人施放的舞蹈仅持续 1 回合。"
+            "Resist Attack Ailments: This character has innate resistance against status ailments that affect Attack.",
+            "Mana on Burn: This character gains 5% mana each time an enemy receives Burn damage."
         ]
     },
     {
         "originalIndex": 1154,
+        "name": "腊斯特 (Rust)",
+        "passives": [
+            "Decreased Healing: All enemies get -50% healing."
+        ]
+    },
+    {
+        "originalIndex": 1155,
+        "name": "萨利马塔 (Salimata)",
+        "passives": [
+            "Quick Tempo Ballad: All Ballads cast by enemies only last for 1 turn.",
+            "Quick Tempo Dance: All Dances cast by enemies only last for 1 turn."
+        ]
+    },
+    {
+        "originalIndex": 1156,
         "name": "圣诞老人 (Santa Claus)",
         "passives": []
     },
     {
-        "originalIndex": 1155,
+        "originalIndex": 1157,
         "name": "圣诞老人 (Santa Claus) C1",
         "passives": []
     },
     {
-        "originalIndex": 1156,
+        "originalIndex": 1158,
         "name": "西尔莎 (Saoirse)",
         "passives": [
-            "抵抗状态效果伤害：该角色天生对来自状态效果的伤害有抵抗能力。"
-        ]
-    },
-    {
-        "originalIndex": 1157,
-        "name": "西尔莎 (Saoirse) C1",
-        "passives": [
-            "抵抗状态效果伤害：该角色天生对来自状态效果的伤害有抵抗能力。",
-            "特殊技能附带流血：当该角色施放其特殊技能时，所有敌人会在 4 回合内受到 452 点流血伤害。"
-        ]
-    },
-    {
-        "originalIndex": 1158,
-        "name": "熔砾 (Scoria)",
-        "passives": [
-            "抵抗特殊技能格挡：该角色天生对格挡特殊技能的状态异常有抵抗能力。",
-            "腐蚀核心：该角色的构造核心是腐蚀核心。腐蚀核心在该角色每次施放特殊技能时激活：",
-            "* 所有敌人受到腐蚀剧毒效果，持续 3 回合。当腐蚀核心完全充能时，腐蚀剧毒造成 146 点剧毒伤害，并每回合降低目标 -13% 的法力生成。对拥有小兵或巨大体型小兵的英雄造成额外伤害。",
-            "* 剧毒伤害量根据核心的充能程度计算，核心激活时消耗所有充能。"
+            "Resist Damage from Status Effects: This charater has innate resistance against incoming damage from status effects."
         ]
     },
     {
         "originalIndex": 1159,
-        "name": "赛迪尔 (Sedille)",
+        "name": "西尔莎 (Saoirse) C1",
         "passives": [
-            "进阶无视小兵：该角色造成的所有伤害无视小兵和巨大体型小兵。",
-            "进阶抵抗负面小兵效果：该角色天生对来自小兵和巨大体型小兵的负面效果及伤害有抵抗能力。",
-            "完美精准度：该角色的特殊技能必定命中目标。"
+            "Resist Damage from Status Effects: This charater has innate resistance against incoming damage from status effects.",
+            "Bleed on Special Skill: When this character casts their Special Skill, all enemies receive 452 Bleed damage over 4 turns."
         ]
     },
     {
         "originalIndex": 1160,
-        "name": "塞赫美特 (Sekhmet)",
+        "name": "熔砾 (Scoria)",
         "passives": [
-            "特殊技能效果：当该角色施放其特殊技能时，有 50% 几率执行以下操作：",
-            "* 对所有敌人造成 70% 的伤害。",
-            "* 所有敌人获得 -34% 的攻击力，持续 3 回合。"
+            "Resist Special Skill Blocking: This character has innate resistance against status ailments that block Special Skill.",
+            "Corrosive Core: The Construct Core of this character is Corrosive Core. The Corrosive Core activates each time this character’s Special Skill is cast:",
+            " * All enemies receive Corrosive Poison for 3 turns. With a fully charged Corrosive Core, the Corrosive Poision deals 146 Poison damage and lowers the target’s mana generation by -13% each turn. Deals extra damage against heroes with Minions or Mega Minions.",
+            " * The poison damage is scaled by the amount of charge in the Core. All charge is exhausted when the Core is activated."
         ]
     },
     {
         "originalIndex": 1161,
-        "name": "塞赫美特 (Sekhmet) C1",
+        "name": "赛迪尔 (Sedille)",
         "passives": [
-            "特殊技能效果：当该角色施放其特殊技能时，有 50% 几率执行以下操作：",
-            "* 对所有敌人造成 70% 的伤害。",
-            "* 所有敌人获得 -34% 的攻击力，持续 3 回合。",
-            "特殊技能额外效果几率：当该角色施放其特殊技能时，其任何提供额外施法效果的被动技能都有 3 次激活机会。",
-            "敌方施放生命加成特殊技能时获得法力：每当敌人施放直接提升生命值的特殊技能时，该角色获得 5% 的法力。"
+            "Superior Bypass Minions: All damage done by this character bypasses Minions and Mega Minions.",
+            "Superior Resist Negative Minion Effects: This character has innate resistance against incoming negative effects and damage from Minions and Mega Minions.",
+            "Perfect Accuracy: This character’s Special Skill never misses its targets."
         ]
     },
     {
         "originalIndex": 1162,
-        "name": "桃针 (Serandite)",
-        "passives": []
+        "name": "塞赫美特 (Sekhmet)",
+        "passives": [
+            "Effects on Special Skill: 50% chance to perform the following actions when this character casts their Special Skill",
+            " * Deals 70% damage to all enemies.",
+            " * All enemies get -34% attack for 3 turns."
+        ]
     },
     {
         "originalIndex": 1163,
-        "name": "斯卡格列马 (Skargremar)",
+        "name": "塞赫美特 (Sekhmet) C1",
         "passives": [
-            "抵抗特殊技能格挡：该角色天生对格挡特殊技能的异常状态有抵抗能力。",
-            "抵抗防御异常：该角色天生对影响防御的异常状态和负面叠加有抵抗能力。不适用于影响元素防御的状态异常。"
+            "Effects on Special Skill: 50% chance to perform the following actions when this character casts their Special Skill",
+            " * Deals 70% damage to all enemies.",
+            " * All enemies get -34% attack for 3 turns.",
+            "Extra Chance for Effects on Special Skill: When this character casts their Special Skill, any of their Passive Skills that grant extra effects on cast have 3 chances to activate.",
+            "Mana on Health Boosting Special Skill: This character gains 5% mana each time an enemy casts a Special Skill that directly boosts health."
         ]
     },
     {
         "originalIndex": 1164,
-        "name": "闪焰 (Sparklight)",
-        "passives": [
-            "抵抗剧毒：该角色天生对剧毒有抵抗能力。",
-            "分摊所受伤害：该角色所受伤害的 20% 将由其他盟友分摊。"
-        ]
-    },
-    {
-        "originalIndex": 1165,
-        "name": "孙权 (Sun Quan)",
+        "name": "桃针 (Serandite)",
         "passives": []
     },
     {
-        "originalIndex": 1166,
-        "name": "孙权 (Sun Quan) C1",
+        "originalIndex": 1165,
+        "name": "斯卡格列马 (Skargremar)",
         "passives": [
-            "无法阻止的小兵：",
-            "* 抵抗小兵移除。",
-            "* 无法被阻止获得小兵。",
-            "* 小兵的攻击和技能无法被禁用。"
+            "Resist Special Skill Blocking: This character has innate resistance against ailments that block Special Skills.",
+            "Resist Defense Ailments: This character has innate resistance against ailments and negative stacks that affect defense. Doesn’t apply to status ailments that affect elemental defense."
+        ]
+    },
+    {
+        "originalIndex": 1166,
+        "name": "闪焰 (Sparklight)",
+        "passives": [
+            "Resist Poison: This character has innate resistance against Poison.",
+            "Share Received Damage: 20% of damage received by this charater is shared with other allies."
         ]
     },
     {
         "originalIndex": 1167,
-        "name": "塔希尔 (Tahir)",
-        "passives": [
-            "受到状态异常时恢复生命：该角色在受到状态异常或负面效果叠加时恢复 50 点生命值。",
-            "抵抗流血伤害：该角色天生对流血有抵抗能力。"
-        ]
+        "name": "孙权 (Sun Quan)",
+        "passives": []
     },
     {
         "originalIndex": 1168,
-        "name": "特里谢里 (Tetisheri)",
+        "name": "孙权 (Sun Quan) C1",
         "passives": [
-            "特殊技能效果：当该角色施放其特殊技能时，有 50% 几率执行以下操作：",
-            "* 对所有敌人造成 70% 的伤害。",
-            "* 驱散所有敌人最新的可驱散增益。"
+            "Unstoppable Minions:",
+            " * Resistance against Minion removal.",
+            " * Can’t be prevented from receiving Minions.",
+            " * Minion attack and abilities can’t be disabled."
         ]
     },
     {
         "originalIndex": 1169,
-        "name": "特里谢里 (Tetisheri) C1",
+        "name": "塔希尔 (Tahir)",
         "passives": [
-            "特殊技能效果：当该角色施放其特殊技能时，有 50% 几率执行以下操作：",
-            "* 对所有敌人造成 70% 的伤害。",
-            "* 驱散所有敌人最新的可驱散增益。",
-            "特殊技能额外效果几率：当该角色施放其特殊技能时，其任何提供额外施法效果的被动技能都有 3 次激活机会。",
-            "受到状态异常时获得法力：该角色在受到状态异常或负面效果叠加时获得 5% 的法力。"
+            "Health recovery on status Ailment Received: This character recovers 50 HP when they receive a status ailment or a negative stack.",
+            "Resist Bleed Damage: This character has innate resistance against Bleed."
         ]
     },
     {
         "originalIndex": 1170,
-        "name": "蒂莫西 (Timothy)",
-        "passives": []
+        "name": "特里谢里 (Tetisheri)",
+        "passives": [
+            "Effects on Special Skill: 50% chance to perform the following actions when this character casts their Special Skill",
+            " * Deals 70% damage to all enemies.",
+            " * Dispells the latest dispellable buff from all enemies."
+        ]
     },
     {
         "originalIndex": 1171,
-        "name": "托本 (Torben)",
+        "name": "特里谢里 (Tetisheri) C1",
         "passives": [
-            "受到增益时恢复生命：该角色在获得增益或正面效果叠加时恢复 5% 的生命值。"
+            "Effects on Special Skill: 50% chance to perform the following actions when this character casts their Special Skill",
+            " * Deals 70% damage to all enemies.",
+            " * Dispells the latest dispellable buff from all enemies.",
+            "Extra Chance for Effects on Special Skill: When this character casts their Special Skill, any of their Passive Skills that grant extra effects on cast have 3 chances to activate.",
+            "Mana on Status Ailment Received: This character gains 5% mana when they receive a status ailment or negative stack."
         ]
     },
     {
         "originalIndex": 1172,
-        "name": "泰尔 (Tyr)",
+        "name": "蒂莫西 (Timothy)",
         "passives": []
     },
     {
         "originalIndex": 1173,
+        "name": "托本 (Torben)",
+        "passives": [
+            "Health Recovery on Buff Received: This character recovers 5% health when they receive a buff or a positive stack."
+        ]
+    },
+    {
+        "originalIndex": 1174,
+        "name": "泰尔 (Tyr)",
+        "passives": []
+    },
+    {
+        "originalIndex": 1175,
         "name": "泰尔 (Tyr) C1",
         "passives": []
     },
     {
-        "originalIndex": 1174,
+        "originalIndex": 1176,
         "name": "乌戈宁 (Ukkonen)",
         "passives": [
-            "西苏之力：当该角色在战斗中首次以低生命值开始回合时，他们会恢复 15% 的生命值并获得 15% 的法力。"
-        ]
-    },
-    {
-        "originalIndex": 1175,
-        "name": "乌戈宁 (Ukkonen) C1",
-        "passives": [
-            "西苏之力：当该角色在战斗中首次以低生命值开始回合时，他们会恢复 15% 的生命值并获得 15% 的法力。"
-        ]
-    },
-    {
-        "originalIndex": 1176,
-        "name": "凡达 (Vanda)",
-        "passives": [
-            "窃取增益：当该角色施放其特殊技能时，有 50% 的几率从一个带有增益的随机敌人身上窃取最新的可驱散增益。如果没有敌人带有增益，则对所有敌人造成 70% 的伤害。"
+            "Power of Sisu: When this character starts a turn with low health for the first time during a battle, they recover 15% health and receive 15% mana."
         ]
     },
     {
         "originalIndex": 1177,
-        "name": "凡达 (Vanda) C1",
+        "name": "乌戈宁 (Ukkonen) C1",
         "passives": [
-            "窃取增益：当该角色施放其特殊技能时，有 50% 的几率从一个带有增益的随机敌人身上窃取最新的可驱散增益。如果没有敌人带有增益，则对所有敌人造成 70% 的伤害。"
+            "Power of Sisu: When this character starts a turn with low health for the first time during a battle, they recover 15% health and receive 15% mana."
         ]
     },
     {
         "originalIndex": 1178,
-        "name": "万亚 (Vanya)",
+        "name": "凡达 (Vanda)",
         "passives": [
-            "抵抗法力削减：该角色天生对法力削减有抵抗能力。",
-            "受到状态异常时获得法力：该角色在受到状态异常或负面效果叠加时获得 5% 的法力。",
-            "守卫集结：每 4 回合，移除所有盟友身上的衰退效果。"
+            "Steal Buff: When this character casts their Special Skill, they have a 50% chance to steal the newest dispellable buff from a random enemy that has buffs. If no enemy has buffs, deals 70% damage to all enemies."
         ]
     },
     {
         "originalIndex": 1179,
-        "name": "仙妲 (Xenda)",
+        "name": "凡达 (Vanda) C1",
         "passives": [
-            "特殊技能伤害减免：该角色受到的特殊技能伤害降低 -20%。"
+            "Steal Buff: When this character casts their Special Skill, they have a 50% chance to steal the newest dispellable buff from a random enemy that has buffs. If no enemy has buffs, deals 70% damage to all enemies."
         ]
     },
     {
         "originalIndex": 1180,
-        "name": "仙妲 (Xenda) C1",
+        "name": "万亚 (Vanya)",
         "passives": [
-            "特殊技能伤害减免：该角色受到的特殊技能伤害降低 -20%。",
-            "对生命加成目标造成更高伤害：在该角色施放特殊技能后，所有盟友对具有生命加成的目标造成的普通攻击和特殊技能伤害提高 +70%，持续 4 回合。"
+            "Resist Mana reduction: This character has an innate resistance against mana Reduction.",
+            "Mana on Status Ailment Received: This character gains 5% mana when they receive a status ailment or negative stack.",
+            "Guard Rally: Every 4 turns, removes all Wither effects from all allies."
         ]
     },
     {
         "originalIndex": 1181,
-        "name": "小兔 (Xiaotu)",
+        "name": "仙妲 (Xenda)",
         "passives": [
-            "禁用小兵技能：所有敌方小兵的攻击和技能都被禁用。"
+            "Special Skill Damage Reduction: Received damage from Special Skills is reduced by -20% for this character."
         ]
     },
     {
         "originalIndex": 1182,
-        "name": "西王母 (Xiwangmu)",
+        "name": "仙妲 (Xenda) C1",
         "passives": [
-            "受到增益时获得法力：该角色在获得增益或正面效果叠加时，有 50% 的几率获得 10% 的法力。",
-            "受到增益时恢复生命：该角色在获得增益或正面效果叠加时，有 50% 的几率恢复 10% 的生命值。"
+            "Special Skill Damage Reduction: Received damage from Special Skills is reduced by -20% for this character.",
+            "Increased Damage Against Boosted Health: After this character casts their Special Skill, all allies deal +70% increased normal attack and Special Skill damage against targets with boosted health for 4 turns."
         ]
     },
     {
         "originalIndex": 1183,
-        "name": "阳舞 (Yang Mai)",
+        "name": "小兔 (Xiaotu)",
         "passives": [
-            "法力削减时获得状态效果：当施法者的法力被削减时，其获得 +30% 的攻击力，持续 3 回合。",
-            "抵抗水系伤害：该角色天生对水系伤害有抵抗能力。"
+            "Disable Minion Abilities: Attacks and abilities of all Minions owned by enemies are disabled."
         ]
     },
     {
         "originalIndex": 1184,
-        "name": "约兰达 (Yolanda)",
+        "name": "西王母 (Xiwangmu)",
         "passives": [
-            "致盲小兵：所有敌方小兵拥有 -60% 精准度。所有敌方超级小兵拥有 -50% 精准度。",
-            "抵抗狂乱：该角色天生对狂乱有抵抗能力。",
-            "抵抗攻击力削减：该角色天生对影响攻击力的状态异常、叠加和衰退效果有抵抗能力。"
+            "Mana on Buff Received: This character has a 50% chance to gain 10% mana when they receive a buff or possitive stack.",
+            "Health Recovery on Buff Received: This character has a 50% chance to recover 10% health when they receive a buff or possitve stack."
         ]
     },
     {
         "originalIndex": 1185,
-        "name": "扎戈洛格 (Zagrog)",
+        "name": "阳舞 (Yang Mai)",
         "passives": [
-            "抵抗攻击状态效果：该角色天生对所有影响攻击力的状态效果与叠加有抵抗能力。包括增益效果。",
-            "抵抗法力异常：该角色天生对影响法力生成的状态异常和负面叠加有抵抗能力。也适用于格挡法力或偷取法力的状态异常。"
+            "Status effect on mana reduction: The caster gets +30% attack for 3 turns when their mana is reduced.",
+            "Resist water damage: This character has innate resistance against Water damage."
         ]
     },
     {
         "originalIndex": 1186,
-        "name": "扎尔加 (Zarga)",
+        "name": "约兰达 (Yolanda)",
         "passives": [
-            "流血时治疗：每当敌人受到流血伤害时，该角色恢复 50 点生命值。",
-            "流血时获得法力：每当敌人受到流血伤害时，该角色获得 8% 的法力。"
+            "Minion Blind: All enemies’ Minions have -60% accuracy. All enemies’ Mega Minions have -50% accuracy.",
+            "Resist Insanity: This character has innate resistance against Insanity.",
+            "Resist Attack Reduction: This character has innate resistance against status ailments, stacks and Wither effects that affect attack."
         ]
     },
     {
         "originalIndex": 1187,
-        "name": "萨里亚 (Zaria)",
+        "name": "扎戈洛格 (Zagrog)",
         "passives": [
-            "队伍大师：",
-            "作为攻击方角色的被动技能：该英雄的部队对较弱元素造成额外元素伤害。",
-            "- 造成的额外元素伤害： +100%",
-            "作为防守方角色的被动技能：该英雄受到来自较强元素部队的元素伤害减少。",
-            "- 受到的元素伤害： -10%"
+            "Resist attack status effects: This character has innate resistance against all status effects and stacks that effect attack. This includes buffs.",
+            "Resist mana ailments: This character has innate resistance against status ailments and negative stacks that affect mana generation. Applies also to status ailments that block mana or steal mana."
         ]
     },
     {
         "originalIndex": 1188,
-        "name": "季诺碧亚 (Zenobia)",
+        "name": "扎尔加 (Zarga)",
         "passives": [
-            "延长增益持续时间：该英雄从特殊技能中获得的前 3 个增益效果的持续时间增加 1 回合。"
+            "Heal on Bleed: This character regenerates 50 HP each time an enemy receives Bleed damage.",
+            "Mana on Bleed: This character receives 8% mana each time an enemy receives Bleed damage."
         ]
     },
     {
         "originalIndex": 1189,
-        "name": "季诺碧亚 (Zenobia) C1",
+        "name": "萨里亚 (Zaria)",
         "passives": [
-            "延长增益持续时间：该角色从特殊技能中获得的前 3 个增益效果的持续时间增加 1 回合。",
-            "对生命加成目标造成更高伤害：在该角色施放特殊技能后，所有盟友对具有生命加成的目标造成的普通攻击和特殊技能伤害提高 +70%，持续 4 回合。"
+            "Troop Mastery:",
+            "Passive Skill as attacking character: This hero’s Troops deal extra elemental damage against weaker element.",
+            " - Dealt extra elemental damage: +100%",
+            "Passive Skill as defending character: This hero receives less elemental damage from Troops of stronger element.",
+            " - Received elemental damage: -10%"
         ]
     },
     {
         "originalIndex": 1190,
-        "name": "齐丹 (Zidane)",
+        "name": "季诺碧亚 (Zenobia)",
         "passives": [
-            "根据非烈火系敌人数量提高攻击力：每场战斗开始时，每存在一个非烈火系元素的敌人，此角色的攻击力都会提高 +5%。在多个波次的战斗中，该效果将在每一波开始时刷新。",
-            "抵抗增益免疫：该角色天生对提供新增益免疫的异常状态有抵抗能力。"
+            "Increase Buff Duration: Duration of the first 3 buff this hero receives from Special Skills is increased by 1 turn."
         ]
     },
     {
         "originalIndex": 1191,
-        "name": "西姆吉塔 (Zimkitha)",
-        "passives": []
+        "name": "季诺碧亚 (Zenobia) C1",
+        "passives": [
+            "Increase Buff Duration: Duration of the first 3 buffs this character receives from Special Skill is increased by 1 turn.",
+            "Increased Damage Against Boosted Health: After this character casts their Special Skill cast, all allies’ normal attacks and Special Skills deal +70% damage against targets with boosted health for 4 turns."
+        ]
     },
     {
         "originalIndex": 1192,
-        "name": "西姆吉塔 (Zimkitha) C1",
+        "name": "齐丹 (Zidane)",
         "passives": [
-            "特殊技能驱散：当该角色施放其特殊技能时，会驱散所有敌人身上最新的状态效果增益。"
+            "Increased Attack per Non-Fire Enemy: At the start of each battle, this character’s attack is increased by +5% for every enemy that is not of Fire element. In battles with multiple waves, the effect is refreshed at the beginning of each wave.",
+            "Resist Buff Immunity: This character has innate resistance against ailments that give immunity to new buffs."
         ]
     },
     {
         "originalIndex": 1193,
-        "name": "光 (Hikaru)",
+        "name": "西姆吉塔 (Zimkitha)",
         "passives": []
     },
     {
         "originalIndex": 1194,
-        "name": "健次郎 (Kenjiro)",
-        "passives": []
+        "name": "西姆吉塔 (Zimkitha) C1",
+        "passives": [
+            "Dispel on Special Skill: When this character casts their Special Skill, they dispel the newest status effect buff from all enemies."
+        ]
     },
     {
         "originalIndex": 1195,
-        "name": "猴 (Hou)",
+        "name": "光 (Hikaru)",
         "passives": []
     },
     {
         "originalIndex": 1196,
-        "name": "纳什 (Nash)",
+        "name": "健次郎 (Kenjiro)",
         "passives": []
     },
     {
         "originalIndex": 1197,
-        "name": "莎姬 (Sha Ji)",
+        "name": "猴 (Hou)",
         "passives": []
     },
     {
         "originalIndex": 1198,
-        "name": "艾格尼斯 (Agnes)",
+        "name": "纳什 (Nash)",
         "passives": []
     },
     {
         "originalIndex": 1199,
-        "name": "阿尔曼 (Arman)",
+        "name": "莎姬 (Sha Ji)",
         "passives": []
     },
     {
         "originalIndex": 1200,
-        "name": "贝恩 (Bane)",
+        "name": "艾格尼斯 (Agnes)",
         "passives": []
     },
     {
         "originalIndex": 1201,
-        "name": "贝恩 (Bane) C1",
+        "name": "阿尔曼 (Arman)",
         "passives": []
     },
     {
         "originalIndex": 1202,
-        "name": "贝恩 (Bane) 卡通",
-        "passives": [
-            "卡通：额外 75% 几率抵抗所有状态异常、法力削减和增益驱散。"
-        ]
+        "name": "贝恩 (Bane)",
+        "passives": []
     },
     {
         "originalIndex": 1203,
-        "name": "贝恩 (Bane) 玻璃",
-        "passives": [
-            "玻璃：额外 60% 几率将状态异常反弹给攻击者。"
-        ]
+        "name": "贝恩 (Bane) C1",
+        "passives": []
     },
     {
         "originalIndex": 1204,
+        "name": "贝恩 (Bane) 卡通",
+        "passives": [
+            "Toon: 75% extra chance to resist all status ailments, mana reductions and buff dispels."
+        ]
+    },
+    {
+        "originalIndex": 1205,
+        "name": "贝恩 (Bane) 玻璃",
+        "passives": [
+            "Glass: 60% extra chance to reflect status ailments back to the attacker."
+        ]
+    },
+    {
+        "originalIndex": 1206,
         "name": "柏图尔夫 (Bertulf)",
         "passives": []
     },
     {
-        "originalIndex": 1205,
+        "originalIndex": 1207,
         "name": "坎迪 (Candy)",
         "passives": []
     },
     {
-        "originalIndex": 1206,
+        "originalIndex": 1208,
         "name": "西达 (Cedar)",
         "passives": [
-            "特殊技能附带持续伤害：当该角色施放其特殊技能时，会给一个随机敌人施加猎人印记。目标在 3 回合内受到 150 点伤害。如果目标已有此效果，则持续时间刷新，伤害增加 150 点，总伤害最高可达 1500 点。",
-            "猎人之毅：当该角色施放其特殊技能时，获得 +20% 的攻击力，持续 3 回合。此效果可与其他改变攻击力的效果并存。"
+            "Damage over time on special. When this character casts their Special Skill,  they give a Hunter's Mark on a random enemy. The target receives 150 damage  over 3 turns. If a target already has this effect, the duration will be refreshed and the damage will be increased by 150, up to 1500 damage in total.",
+            "Hunter's vigor. When this character casts their Special Skill, they get +20%  attack for 3 turns. This effect can be active in addition to other effects  that alter attack."
         ]
     },
     {
-        "originalIndex": 1207,
+        "originalIndex": 1209,
         "name": "克苏乌 (Cthuwu)",
         "passives": []
     },
     {
-        "originalIndex": 1208,
+        "originalIndex": 1210,
         "name": "达瓦 (Dawa)",
         "passives": []
     },
     {
-        "originalIndex": 1209,
+        "originalIndex": 1211,
         "name": "达瓦 (Dawa) C1",
         "passives": []
     },
     {
-        "originalIndex": 1210,
+        "originalIndex": 1212,
         "name": "达瓦 (Dawa) 卡通",
         "passives": [
-            "卡通：额外 75% 几率抵抗所有状态异常、法力削减和增益驱散。"
-        ]
-    },
-    {
-        "originalIndex": 1211,
-        "name": "多拉克 (Dolrak)",
-        "passives": [
-            "特殊技能附带持续伤害：当该角色施放其特殊技能时，所有敌人会在 2 回合内受到 124 点水系伤害。",
-            "抵抗水系伤害：该角色天生对水系伤害有抵抗能力。"
-        ]
-    },
-    {
-        "originalIndex": 1212,
-        "name": "爱德蕾德 (Edelaide)",
-        "passives": [
-            "特殊技能附带持续伤害：当该角色施放其特殊技能时，会给一个随机敌人施加猎人印记。目标在 3 回合内受到 150 点伤害。如果目标已有此效果，则持续时间刷新，伤害增加 150 点，总伤害最高可达 1500 点。",
-            "特殊技能伤害减免：该角色有 10% 的几率将受到的特殊技能直接伤害降至 1 点。"
+            "Toon: 75% extra chance to resist all status ailments, mana reductions and buff dispels."
         ]
     },
     {
         "originalIndex": 1213,
-        "name": "费尔顿 (Felton)",
+        "name": "多拉克 (Dolrak)",
         "passives": [
-            "特殊技能造成伤害：当该角色受到特殊技能伤害或替处于掩护状态的角色承受伤害时，有 60% 的几率对所有敌人造成所受伤害 20% 的伤害。"
+            "Damage over time on Special: When this character casts their Special Skill, all enemies receive 124 Water damage over 2 turns.",
+            "Resist Water Damage: This character has innate resistance against Water Damage."
         ]
     },
     {
         "originalIndex": 1214,
+        "name": "爱德蕾德 (Edelaide)",
+        "passives": [
+            "When this character casts their Special Skill, they give a Hunter’s Mark on a random enemy. The target receives 150 damage over 3 turns. If a target already has this effect, the duration will be refreshed and the damage will be increased by 150, up to 1500 damage in total.",
+            "Special Skill damage reduction: This character has a 10% chance to drop the direct damage received from Special Skills to 1."
+        ]
+    },
+    {
+        "originalIndex": 1215,
+        "name": "费尔顿 (Felton)",
+        "passives": [
+            "Damage on Special Skill: When this character receives damage from Special Skills or in place of a character in Cover, there’s a 60% chance to deal 20% of the received damage on all enemies."
+        ]
+    },
+    {
+        "originalIndex": 1216,
         "name": "柑橘 (Gan Ju)",
         "passives": []
     },
     {
-        "originalIndex": 1215,
+        "originalIndex": 1217,
         "name": "柑橘 (Gan Ju) C1",
         "passives": []
     },
     {
-        "originalIndex": 1216,
+        "originalIndex": 1218,
         "name": "柑橘 (Gan Ju) 卡通",
         "passives": [
-            "卡通：额外 75% 几率抵抗所有状态异常、法力削减和增益驱散。"
-        ]
-    },
-    {
-        "originalIndex": 1217,
-        "name": "柑橘 (Gan Ju) 玻璃",
-        "passives": [
-            "玻璃：额外 60% 几率将状态异常反弹给攻击者。"
-        ]
-    },
-    {
-        "originalIndex": 1218,
-        "name": "雅科 (Jaco)",
-        "passives": [
-            "特殊技能效果：当该角色施放其特殊技能时，有 50% 几率执行以下操作：",
-            "* 对所有敌人造成 80% 的伤害。",
-            "* 所有队友获得 +21% 的暴击率，持续 2 回合。"
+            "Toon: 75% extra chance to resist all status ailments, mana reductions and buff dispels."
         ]
     },
     {
         "originalIndex": 1219,
-        "name": "雅科 (Jaco) C1",
+        "name": "柑橘 (Gan Ju) 玻璃",
         "passives": [
-            "特殊技能效果：当该角色施放其特殊技能时，有 50% 几率执行以下操作：",
-            "* 对所有敌人造成 80% 的伤害。",
-            "* 所有队友获得 +21% 的暴击率，持续 3 回合。",
-            "抵抗狂乱：该角色天生对狂乱有抵抗能力。"
+            "Glass: 60% extra chance to reflect status ailments back to the attacker."
         ]
     },
     {
         "originalIndex": 1220,
+        "name": "雅科 (Jaco)",
+        "passives": [
+            "Effects on Special Skill: 50% chance to perform the following actions when this character casts their Special Skill",
+            " * Deals 80% damage to all enemies.",
+            " * All allies get +21% critical chance for 2 turns."
+        ]
+    },
+    {
+        "originalIndex": 1221,
+        "name": "雅科 (Jaco) C1",
+        "passives": [
+            "Effects on Special Skill: 50% chance to perform the following actions when this character casts their Special Skill",
+            " * Deals 80% damage to all enemies.",
+            " * All allies get +21% critical chance for 3 turns.",
+            "Resist Insanity: This character has an innate resistance against Insanity."
+        ]
+    },
+    {
+        "originalIndex": 1222,
         "name": "乔力 (Jolly)",
         "passives": []
     },
     {
-        "originalIndex": 1221,
+        "originalIndex": 1223,
         "name": "凯兰尼 (Kailani)",
         "passives": []
     },
     {
-        "originalIndex": 1222,
+        "originalIndex": 1224,
         "name": "凯兰尼 (Kailani) C1",
         "passives": []
     },
     {
-        "originalIndex": 1223,
+        "originalIndex": 1225,
         "name": "凯兰尼 (Kailani) 卡通",
         "passives": [
-            "卡通：额外 75% 几率抵抗所有状态异常、法力削减和增益驱散。"
+            "Toon: 75% extra chance to resist all status ailments, mana reductions and buff dispels."
         ]
     },
     {
-        "originalIndex": 1224,
+        "originalIndex": 1226,
         "name": "凯兰尼 (Kailani) 玻璃",
         "passives": [
-            "玻璃：额外 60% 几率将状态异常反弹给攻击者。"
+            "Glass: 60% extra chance to reflect status ailments back to the attacker."
         ]
     },
     {
-        "originalIndex": 1225,
+        "originalIndex": 1227,
         "name": "金砂石 (Kinsaishi)",
         "passives": []
     },
     {
-        "originalIndex": 1226,
+        "originalIndex": 1228,
         "name": "卡瓦希尔 (Kvasir)",
         "passives": []
     },
     {
-        "originalIndex": 1227,
+        "originalIndex": 1229,
         "name": "卡瓦希尔 (Kvasir) C1",
         "passives": []
     },
     {
-        "originalIndex": 1228,
+        "originalIndex": 1230,
         "name": "梅里亚 (Melia)",
         "passives": []
     },
     {
-        "originalIndex": 1229,
+        "originalIndex": 1231,
         "name": "梅里亚 (Melia) C1",
         "passives": []
     },
     {
-        "originalIndex": 1230,
+        "originalIndex": 1232,
         "name": "佩雅 (Paeia)",
         "passives": [
-            "降低通过特殊技能获得的法力：通过特殊技能增加的法力值降低 -80%。此效果对战场上的所有敌人生效。"
-        ]
-    },
-    {
-        "originalIndex": 1231,
-        "name": "皮格茜 (Pixie)",
-        "passives": []
-    },
-    {
-        "originalIndex": 1232,
-        "name": "波比 (Poppy)",
-        "passives": [
-            "提升特殊技能伤害：该角色首次施放造成伤害的特殊技能时，其威力额外增加 30%。"
+            "Reduce Mana Gain from Special Skills: Reduces the amount of mana increased by Special Skill by -80%. The effect applies to all enemies in the battle."
         ]
     },
     {
         "originalIndex": 1233,
-        "name": "波比 (Poppy) C1",
-        "passives": [
-            "提升特殊技能伤害：该角色首次施放造成伤害的特殊技能时，其威力额外增加 30%。"
-        ]
+        "name": "皮格茜 (Pixie)",
+        "passives": []
     },
     {
         "originalIndex": 1234,
-        "name": "雷克赫特 (Rekhetre)",
+        "name": "波比 (Poppy)",
         "passives": [
-            "特殊技能效果：当该角色施放其特殊技能时，有 60% 几率执行以下操作：",
-            "* 为所有队友提升 10% 的生命值。提升的生命值可以超过最大生命值。",
-            "* 净化所有队友身上最新的可净化状态异常。"
+            "Increased Specail Skill Damage: This first time this character cast a  Special Skill that deals damage an additional 30% is added to its power."
         ]
     },
     {
         "originalIndex": 1235,
-        "name": "雷克赫特 (Rekhetre) C1",
+        "name": "波比 (Poppy) C1",
         "passives": [
-            "特殊技能效果：当该角色施放其特殊技能时，有 60% 几率执行以下操作：",
-            "* 为所有队友提升 10% 的生命值。提升的生命值可以超过最大生命值。",
-            "* 净化所有队友身上最新的可净化状态异常。",
-            "特殊技能必定触发效果：当该角色施放其特殊技能时，任何提供额外施法效果的被动技能都将必定触发。",
-            "受到增益时恢复生命：该角色在获得增益或正面效果叠加时恢复 5% 的生命值。"
+            "Increased Special Skill Damage: The first time this character casts a Special Skill that deals damage, an additional 30% is added to its power."
         ]
     },
     {
         "originalIndex": 1236,
-        "name": "呱呱 (Ribbit)",
+        "name": "雷克赫特 (Rekhetre)",
         "passives": [
-            "当一个盟友召唤小兵时，该角色获得 5% 的生命值和 5% 的法力。此效果每回合只能激活一次。",
-            "当一个敌人被恶魔附身时，该角色对所有敌人造成 85% 的伤害。此效果每回合只能激活一次。"
+            "Effects on Special Skill: 60% chance to perform the following actions when this character casts their Special Skill",
+            " * Boosts health of all allies by 10%. Boosted health can exceed max HP.",
+            " * Cleanses the latest cleansable status ailments from all allies."
         ]
     },
     {
         "originalIndex": 1237,
-        "name": "锈喙 (Rustbeak)",
+        "name": "雷克赫特 (Rekhetre) C1",
         "passives": [
-            "抵抗特殊技能格挡：该角色天生对格挡特殊技能的状态异常有抵抗能力。",
-            "修复核心：该角色的构造核心是修复核心。",
-            "修复核心在该角色每次施放特殊技能时激活：",
-            "* 当修复核心完全充能时，为所有队友提升 25% 的生命值。",
-            "* 治疗量根据核心的充能程度计算，核心激活时消耗所有充能。"
+            "Effects on Special Skill: 60% chance to perform the following actions when this character casts their Special Skill",
+            " * Boosts health of all allies by 10%. Boosted health can exceed max HP.",
+            " * Cleanses the latest cleansable status ailments from all allies.",
+            "Guaranteed Effect on Special Skill: When this character casts their Special Skill, any of their Passive Skills that grant extra effects on cast are guaranteed to activate.",
+            "Health Recover on Buff Received: This character recovers 5% HP when they receive a buff or positive stack."
         ]
     },
     {
         "originalIndex": 1238,
-        "name": "萨莉 (Sally)",
-        "passives": []
+        "name": "呱呱 (Ribbit)",
+        "passives": [
+            "When a Minion is summoned to any ally, this character gains 5% health and 5% mana. This effect can activate only once per turn.",
+            "When a Fiend is summoned to any enemy, this character deals 85% damage to all enemies. This effect can activate only once per turn."
+        ]
     },
     {
         "originalIndex": 1239,
-        "name": "萨丝琪雅 (Saskia)",
+        "name": "锈喙 (Rustbeak)",
         "passives": [
-            "致盲小兵：所有敌方小兵拥有 -60% 精准度。所有敌方超级小兵拥有 -50% 精准度。",
-            "抵抗狂乱：该角色天生对狂乱有抵抗能力。",
-            "抵抗防御削减：该角色天生对影响防御的状态异常、叠加和衰退效果有抵抗能力。"
+            "Resist Special Skill Blocking: This character has innate resistance against status ailments that block Special Skill.",
+            "Repair Core: The Construct Core of this character is Repair Core.",
+            "The Repair Core activates each time this character’s Special Skill is cast:",
+            "* With fully charged Repair Core, boosts the health of all allies by 25%.",
+            "* The healing is scaled by the amount of charge in the Core. All charge is exchausted when the Core is activated."
         ]
     },
     {
         "originalIndex": 1240,
-        "name": "爱斯舍尔 (Aeschere)",
-        "passives": [
-            "强化抵抗法力削减：该角色天生对法力削减有抵抗能力。每次抵抗时还会获得 600 点生命加成和 10% 的法力。",
-            "受到状态异常时获得法力：该角色在受到状态异常或负面效果叠加时获得 5% 的法力。"
-        ]
+        "name": "萨莉 (Sally)",
+        "passives": []
     },
     {
         "originalIndex": 1241,
-        "name": "阿纳斯塔西亚 (Anastasia)",
+        "name": "萨丝琪雅 (Saskia)",
         "passives": [
-            "特殊技能附加状态效果：当该角色施放其特殊技能时，有 50% 的几率为所有敌人施加 -25% 的法力生成，持续 3 回合。如果特殊技能完全充能，则几率为 100%。"
+            "Minion Blind: All enemies’ Minions have -60% accuracy. All enemies’ Mega Minions have -50% accuracy.",
+            "Resist Insanity: This character has innate resistance against Insanity.",
+            "Resist Defense Reduction: This character has innate resistance against status ailments, stacks and Wither effects that affect defense."
         ]
     },
     {
         "originalIndex": 1242,
-        "name": "贝勒里夫 (Bellerive)",
+        "name": "爱斯舍尔 (Aeschere)",
         "passives": [
-            "石像鬼之肤：每当此石像鬼施放特殊技能时，其石肤会变硬。接下来受到的 4 次伤害将降至 1 点。此效果无法被驱散。"
+            "Empowered Resist Mana Reductions: This character has innate resistance against mana reduction. They also gain 600 boosted health and 10% mana each time they resist.",
+            "Mana on Status Ailment Received: This character gains 5% mana when they receive a status ailment or a negative stack."
         ]
     },
     {
         "originalIndex": 1243,
-        "name": "博加特 (Bogart)",
+        "name": "阿纳斯塔西亚 (Anastasia)",
         "passives": [
-            "特殊技能附带持续伤害：当该角色施放其特殊技能时，会给一个随机敌人施加猎人印记。目标在 3 回合内受到 150 点伤害。如果目标已有此效果，则持续时间刷新，伤害增加 150 点，总伤害最高可达 1500 点。",
-            "猎手感知：当该角色施放其特殊技能时，会将自身最新的可净化状态异常转移给目标。如果其特殊技能无法选择敌方目标，则会随机转移至一名敌人。若此角色没有可净化的状态异常，则恢复自身 8% 的生命。"
+            "Status effect on special: When this character casts their Special Skill, they have a 50% chance to give -25% mana generation for 3 turns to all enemies. If the Special Skill is fully charged, the chance is 100%."
         ]
     },
     {
         "originalIndex": 1244,
+        "name": "贝勒里夫 (Bellerive)",
+        "passives": [
+            "Gargoyle’s Stoneskin: Every time this Gargoyle casts a Special Skill, their Stoneskin hardens. The next 4 times they receive damage, it is dropped to 1. This effect can’t be dispelled."
+        ]
+    },
+    {
+        "originalIndex": 1245,
+        "name": "博加特 (Bogart)",
+        "passives": [
+            "Damage over time on special: When this character casts their Special Skill, they give a Hunter’s Mark on a random enemy. The target receives 150 damage over 3 turns. If a target already has this effect, the duration will be refreshed and the damage will be increased by 150, up to 1500 damage in total.",
+            "Hunter`s sense: When this character casts their Special Skill, they transfer the newest cleansable status ailment from themself to the target. If the Special Skill cannot target an enemy, a random enemy is chosen instead. If this character has no status ailments, they recover 8% health."
+        ]
+    },
+    {
+        "originalIndex": 1246,
         "name": "赵 (Chao)",
         "passives": []
     },
     {
-        "originalIndex": 1245,
+        "originalIndex": 1247,
         "name": "赵 (Chao) C1",
         "passives": []
     },
     {
-        "originalIndex": 1246,
+        "originalIndex": 1248,
         "name": "赵 (Chao) C2",
         "passives": []
     },
     {
-        "originalIndex": 1247,
+        "originalIndex": 1249,
         "name": "赵 (Chao) 卡通",
         "passives": [
-            "卡通：额外 75% 几率抵抗所有状态异常、法力削减和增益驱散。"
+            "Toon: 75% extra chance to resist all status ailments, mana reductions and buff dispels."
         ]
     },
     {
-        "originalIndex": 1248,
+        "originalIndex": 1250,
         "name": "赵 (Chao) 玻璃",
         "passives": [
-            "玻璃：额外 60% 几率将状态异常反弹给攻击者。"
+            "Glass: 60% extra chance to reflect status ailments back to the attacker."
         ]
     },
     {
-        "originalIndex": 1249,
+        "originalIndex": 1251,
         "name": "迪安德烈 (D'Andre)",
         "passives": []
     },
     {
-        "originalIndex": 1250,
+        "originalIndex": 1252,
         "name": "团三郎狸 (Danzaburo)",
         "passives": []
     },
     {
-        "originalIndex": 1251,
+        "originalIndex": 1253,
         "name": "团三郎狸 (Danzaburo) C1",
         "passives": []
     },
     {
-        "originalIndex": 1252,
+        "originalIndex": 1254,
         "name": "埃林 (Errin)",
         "passives": [
-            "进阶无视小兵：该角色造成的所有伤害无视小兵和巨大体型小兵。",
-            "进阶抵抗负面小兵效果：该角色天生对来自小兵和巨大体型小兵的负面效果及伤害有抵抗能力。",
-            "特殊技能摧毁恶魔：当该角色施放其特殊技能时，其身上的所有恶魔都会被摧毁。"
-        ]
-    },
-    {
-        "originalIndex": 1253,
-        "name": "菲亚拉尔 (Fjalar)",
-        "passives": [
-            "强化抵抗燃烧：该角色天生对燃烧有抵抗能力，并且每次抵抗时获得 450 点生命加成和 5% 的法力。",
-            "熔岩核心。该角色拥有一个熔岩核心。",
-            "熔岩核心在该角色每次施放特殊技能时激活：",
-            "* 所有敌人受到腐蚀燃烧效果，持续 3 回合。当熔岩核心完全充能时，腐蚀燃烧造成 193 点燃烧伤害，并每回合降低目标 -12% 的防御力。对拥有小兵或巨大体型小兵的英雄造成额外伤害。",
-            "* 燃烧伤害量根据核心的充能程度计算，核心激活时消耗所有充能。"
-        ]
-    },
-    {
-        "originalIndex": 1254,
-        "name": "金娘 (Goldie)",
-        "passives": [
-            "特殊技能效果：当该角色施放其特殊技能时，有 50% 几率执行以下操作。",
-            "* 对所有敌人造成 90% 的伤害。",
-            "* 所有敌人获得 -25% 的精准度，持续 3 回合。"
+            "Superior Bypass Minions: All damage done by this character bypasses Minions and Mega Minions.",
+            "Superior Resist Negative Minion Effects: This character has innate resistance against incoming negative effects and damage from Minions and Mega Minions.",
+            "Destroy Fiends on Special: When this character casts their Special Skill, all Fiends are destroyed from them."
         ]
     },
     {
         "originalIndex": 1255,
-        "name": "格蕾特 (Gretel)",
-        "passives": []
+        "name": "菲亚拉尔 (Fjalar)",
+        "passives": [
+            "Empowered Resist Burn: This character has innate resistance against Burn and gains 450 boosted heath and 5% mana each time they resist.",
+            "Molten Core. This character has a Molten Core.",
+            "The Molten Core activates each time this character’s Special Skill is cast:",
+            " * All enemies receive Corrosive Burn for 3 turns. With fully charged Molten Core, the Corrosive Burn deals 193 Burn damage, and lowers the target’s defense by -12% each turn. Deals extra damage against heroes with Minions or Mega Minions",
+            " * The Burn damage is scaled by the amount of charge in the Core. All charge is exhausted when the Core is activated."
+        ]
     },
     {
         "originalIndex": 1256,
-        "name": "格里芬 (Griffin)",
+        "name": "金娘 (Goldie)",
         "passives": [
-            "提升特殊技能伤害：该角色首次施放造成伤害的特殊技能时，其威力额外增加 30%。"
+            "Effects on Special Skill: 50% chance to perform the following actions when this character casts their Special Skill.",
+            " * Deals 90% damage to all enemies.",
+            " * All enemies get -25% accuracy for 3 turns."
         ]
     },
     {
         "originalIndex": 1257,
-        "name": "格里芬 (Griffin) C1",
-        "passives": [
-            "提升特殊技能伤害：该角色首次施放造成伤害的特殊技能时，其威力额外增加 30%。"
-        ]
+        "name": "格蕾特 (Gretel)",
+        "passives": []
     },
     {
         "originalIndex": 1258,
-        "name": "顾大嫂 (Gu Dasao)",
+        "name": "格里芬 (Griffin)",
         "passives": [
-            "特殊攻击暴击时净化：当该角色用特殊技能造成暴击时，会安全地净化所有盟友最新的可净化状态效果。此效果每回合可激活一次。",
-            "正义反叛：",
-            "* 当该角色的特殊技能击中当前生命值较高的角色时，获得 +20% 的生命加成。",
-            "* 当该角色被当前生命值较高的角色的特殊技能击中时，获得 +20% 的法力。",
-            "* 这些效果每个每回合只能激活一次。",
-            "抵抗流血伤害：该角色天生对流血有抵抗能力。"
+            "Increased Special Skill Damage: The first time this character casts a Special Skill that deals damage, an additional 30% is added to its power."
         ]
     },
     {
         "originalIndex": 1259,
+        "name": "格里芬 (Griffin) C1",
+        "passives": [
+            "Increased Special Skill Damage: The first time this character casts a Special Skill that deals damage, an additional 30% is added to its power."
+        ]
+    },
+    {
+        "originalIndex": 1260,
+        "name": "顾大嫂 (Gu Dasao)",
+        "passives": [
+            "Cleanse on Critical Special Attack: When this character scores a critical hit with their Special Skill, they safely cleanse the latest cleansable status effect from all allies. This effect can activate once per turn.",
+            "Righteous Rebellion: ",
+            " * When this character’s Special Skill hits a character that had higher current HP, gain +20% boosted health.",
+            " * When this character is hit by the Special Skill of a character that had higher current HP, gain +20% mana.",
+            " * Each of these effects can activate once per turn.",
+            "Resist Bleed Damage: This character has innate resistance against Bleed.    "
+        ]
+    },
+    {
+        "originalIndex": 1261,
         "name": "豺狼守护者 (Guardian Jackal)",
         "passives": []
     },
     {
-        "originalIndex": 1260,
+        "originalIndex": 1262,
         "name": "豺狼守护者 (Guardian Jackal) C1",
         "passives": []
     },
     {
-        "originalIndex": 1261,
+        "originalIndex": 1263,
         "name": "古林博斯帝 (Gullinbursti)",
         "passives": []
     },
     {
-        "originalIndex": 1262,
+        "originalIndex": 1264,
         "name": "古林博斯帝 (Gullinbursti) C1",
         "passives": []
     },
     {
-        "originalIndex": 1263,
+        "originalIndex": 1265,
         "name": "霍莉 (Holly)",
         "passives": []
     },
     {
-        "originalIndex": 1264,
+        "originalIndex": 1266,
         "name": "胡桃 (Hu Tao)",
         "passives": []
     },
     {
-        "originalIndex": 1265,
+        "originalIndex": 1267,
         "name": "胡桃 (Hu Tao) C1",
         "passives": []
     },
     {
-        "originalIndex": 1266,
+        "originalIndex": 1268,
         "name": "胡桃 (Hu Tao) C2",
         "passives": []
     },
     {
-        "originalIndex": 1267,
+        "originalIndex": 1269,
         "name": "胡桃 (Hu Tao) 卡通",
         "passives": [
-            "卡通：额外 75% 几率抵抗所有状态异常、法力削减和增益驱散。"
+            "Toon: 75% extra chance to resist all status ailments, mana reductions and buff dispels."
         ]
     },
     {
-        "originalIndex": 1268,
+        "originalIndex": 1270,
         "name": "胡桃 (Hu Tao) 玻璃",
         "passives": [
-            "玻璃：额外 60% 几率将状态异常反弹给攻击者。"
+            "Glass: 60% extra chance to reflect status ailments back to the attacker."
         ]
     },
     {
-        "originalIndex": 1269,
+        "originalIndex": 1271,
         "name": "伍尔顿女士 (Lady Woolerton)",
         "passives": []
     },
     {
-        "originalIndex": 1270,
+        "originalIndex": 1272,
         "name": "丽秀 (Li Xiu)",
         "passives": []
     },
     {
-        "originalIndex": 1271,
+        "originalIndex": 1273,
         "name": "丽秀 (Li Xiu) C1",
         "passives": []
     },
     {
-        "originalIndex": 1272,
+        "originalIndex": 1274,
         "name": "丽秀 (Li Xiu) C2",
         "passives": []
     },
     {
-        "originalIndex": 1273,
+        "originalIndex": 1275,
         "name": "丽秀 (Li Xiu) 卡通",
         "passives": [
-            "卡通：额外 75% 几率抵抗所有状态异常、法力削减和增益驱散。"
+            "Toon: 75% extra chance to resist all status ailments, mana reductions and buff dispels."
         ]
-    },
-    {
-        "originalIndex": 1274,
-        "name": "丽秀 (Li Xiu) 玻璃",
-        "passives": [
-            "玻璃：额外 60% 几率将状态异常反弹给攻击者。"
-        ]
-    },
-    {
-        "originalIndex": 1275,
-        "name": "迷雾 (Mist)",
-        "passives": []
     },
     {
         "originalIndex": 1276,
-        "name": "苏格拉泰 (Scoratek)",
+        "name": "丽秀 (Li Xiu) 玻璃",
         "passives": [
-            "特殊技能效果：当该角色施放其特殊技能时，有 50% 几率执行以下操作：",
-            "* 对所有敌人造成 70% 的伤害。",
-            "* 所有敌人的法力生成速度降低 -24%，持续 3 回合。"
+            "Glass: 60% extra chance to reflect status ailments back to the attacker."
         ]
     },
     {
         "originalIndex": 1277,
-        "name": "苏格拉泰 (Scoratek) C1",
-        "passives": [
-            "特殊技能效果：当该角色施放其特殊技能时，有 50% 几率执行以下操作：",
-            "* 对所有敌人造成 70% 的伤害。",
-            "* 驱散敌人最新的可驱散增益。",
-            "特殊技能额外效果几率：当该角色施放其特殊技能时，其任何提供额外施法效果的被动技能都有 3 次激活机会。",
-            "抵抗沙系伤害：该角色天生对沙系伤害有抵抗能力。"
-        ]
+        "name": "迷雾 (Mist)",
+        "passives": []
     },
     {
         "originalIndex": 1278,
-        "name": "斯忒洛珀 (Steropes)",
+        "name": "苏格拉泰 (Scoratek)",
         "passives": [
-            "降低小兵生命值：敌方小兵被召唤时继承的生命值减少 -50%。",
-            "抵抗防御异常：该角色天生对影响防御的状态异常有抵抗能力。此效果同样适用于影响元素防御的状态异常。"
+            "Effects on Special Skill: 50% chance to perform the following actions when this character casts their Special Skill",
+            " * Deals 70% damage to all enemies.",
+            " * All enemies get -24% mana generation for 3 turns."
         ]
     },
     {
         "originalIndex": 1279,
-        "name": "沃路普塔斯 (Voluptas)",
+        "name": "苏格拉泰 (Scoratek) C1",
         "passives": [
-            "抵抗特殊技能格挡：该角色天生对格挡特殊技能的状态异常有抵抗能力。"
+            "Effects on Special Skill: 50% chance to perform the following actions when this character casts their Special Skill",
+            " * Deals 70% damage to all enemies.",
+            " * Dispels the latest dispellable buff from enemies.",
+            "Extra Chance for Effects on Special Skill: When this character casts their Special Skill, any of their Passive Skills that grant extra effects on cast have 3 chances to activate.",
+            "Resist Sand Damage: This character has innate resistance against sand damage."
         ]
     },
     {
         "originalIndex": 1280,
-        "name": "摆摆 (Waddles)",
+        "name": "斯忒洛珀 (Steropes)",
         "passives": [
-            "当一个盟友召唤小兵时，该角色获得 5% 的生命值和 5% 的法力。此效果每回合只能激活一次。",
-            "当一个敌人被恶魔附身时，该角色对所有敌人造成 85% 的伤害。此效果每回合只能激活一次。"
+            "Decreased Minion Health: Enemy Minions inherit -50% less Health when summoned.",
+            "Resist Defense Ailments: This character has innate resistance against status ailments that affect defense. Applies also to status ailments that affect elemental defense."
         ]
     },
     {
         "originalIndex": 1281,
-        "name": "王元姬 (Wang Yuanji)",
-        "passives": []
+        "name": "沃路普塔斯 (Voluptas)",
+        "passives": [
+            "Resist Special Skill Blocking: This character has innate resistance against status ailments that block Special Skills."
+        ]
     },
     {
         "originalIndex": 1282,
-        "name": "王元姬 (Wang Yuanji) C1",
+        "name": "摆摆 (Waddles)",
         "passives": [
-            "无法阻止的小兵：",
-            "* 抵抗小兵移除。",
-            "* 无法被阻止获得小兵。",
-            "* 小兵的攻击和技能无法被禁用。"
+            "When a Minion is summoned to any ally, this character gains 5% health and 5% mana. This effect can activate only once per turn.",
+            "When a Fiend is summoned to any enemy, this character deals 85% damage to all enemies. This effect can activate only once per turn."
         ]
     },
     {
         "originalIndex": 1283,
-        "name": "悟空 (Wu Kong)",
+        "name": "王元姬 (Wang Yuanji)",
         "passives": []
     },
     {
         "originalIndex": 1284,
-        "name": "悟空 (Wu Kong) C1",
-        "passives": []
+        "name": "王元姬 (Wang Yuanji) C1",
+        "passives": [
+            "Unstoppable Minions:",
+            " * Resistance against Minion removal.",
+            " * Can’t be prevented from receiving Minions.",
+            " * Minion attack and abilities can’t be disabled."
+        ]
     },
     {
         "originalIndex": 1285,
-        "name": "悟空 (Wu Kong) C2",
+        "name": "悟空 (Wu Kong)",
         "passives": []
     },
     {
         "originalIndex": 1286,
-        "name": "悟空 (Wu Kong) 卡通",
-        "passives": [
-            "卡通：额外 75% 几率抵抗所有状态异常、法力削减和增益驱散。"
-        ]
+        "name": "悟空 (Wu Kong) C1",
+        "passives": []
     },
     {
         "originalIndex": 1287,
-        "name": "紫苑 (Zione)",
-        "passives": [
-            "队伍大师：",
-            "作为攻击方角色的被动技能：该英雄的部队对较弱元素造成额外元素伤害。",
-            "- 造成的额外元素伤害： +100%",
-            "作为防守方角色的被动技能：该英雄受到来自较强元素部队的元素伤害减少。",
-            "- 受到的元素伤害： -10%"
-        ]
+        "name": "悟空 (Wu Kong) C2",
+        "passives": []
     },
     {
         "originalIndex": 1288,
-        "name": "阿克罗格 (Akkorog)",
+        "name": "悟空 (Wu Kong) 卡通",
         "passives": [
-            "提升特殊技能伤害：该角色首次施放造成伤害的特殊技能时，其威力额外增加 30%。"
+            "Toon: 75% extra chance to resist all status ailments, mana reductions and buff dispels."
         ]
     },
     {
         "originalIndex": 1289,
-        "name": "阿克罗格 (Akkorog) C1",
+        "name": "紫苑 (Zione)",
         "passives": [
-            "提升特殊技能伤害：该角色首次施放造成伤害的特殊技能时，其威力额外增加 30%。",
-            "对生命加成目标造成更高伤害：在该角色施放特殊技能后，所有盟友对具有生命加成的目标造成的普通攻击和特殊技能伤害提高 +70%，持续 3 回合。"
+            "Troop Mastery:",
+            "Passive Skill as attacking character: This hero’s Troops deal extra  elemental damage against weaker element.",
+            " - Dealt extra elemental damage: +100%",
+            "Passive Skill as defending character: This hero receives less elemental  damage from Troops of stronger element.",
+            " - Received elemental damage: -10%"
         ]
     },
     {
         "originalIndex": 1290,
-        "name": "阿尔宾 (Albin)",
-        "passives": []
+        "name": "阿克罗格 (Akkorog)",
+        "passives": [
+            "Increased Special Skill Damage: The first time this character casts a Special Skill that deals damage, an additional 30% is added to its power."
+        ]
     },
     {
         "originalIndex": 1291,
-        "name": "阿尔瓦 (Alvar)",
+        "name": "阿克罗格 (Akkorog) C1",
         "passives": [
-            "受到增益时恢复生命：该角色在获得增益或正面效果叠加时恢复 5% 的生命值。"
+            "Increased Special Skill Damage: This first time this character cast a Special Skill that deals damage an additional 30% is added to its power.",
+            "Increased Damage Against Boosted Health: After this character casts their Special Skill cast, all allies’ normal attacks and Special Skills deal +70% damage against targets with boosted health for 3 turns."
         ]
     },
     {
         "originalIndex": 1292,
-        "name": "阿蒙德 (Amund)",
-        "passives": [
-            "特殊技能伤害减免：该角色有 10% 的几率将受到的特殊技能直接伤害降至 1 点。",
-            "特殊技能附带持续伤害：当该角色施放其特殊技能时，会给一个随机敌人施加猎人印记。目标在 3 回合内受到 150 点伤害。如果目标已有此效果，则持续时间刷新，伤害增加 150 点，总伤害最高可达 1500 点。"
-        ]
-    },
-    {
-        "originalIndex": 1293,
-        "name": "安 (Anne)",
+        "name": "阿尔宾 (Albin)",
         "passives": []
     },
     {
-        "originalIndex": 1294,
-        "name": "安忒洛斯 (Anteros)",
+        "originalIndex": 1293,
+        "name": "阿尔瓦 (Alvar)",
         "passives": [
-            "抵抗特殊技能格挡：该角色天生对格挡特殊技能的状态异常有抵抗能力。"
+            "Health Recovery on Buff Received: This character recovers 5% health when they receive a buff or a positive stack."
+        ]
+    },
+    {
+        "originalIndex": 1294,
+        "name": "阿蒙德 (Amund)",
+        "passives": [
+            "Special Skill Damage Reduction: This character has a 10% chance to drop the direct damage received from Special Skills to 1.",
+            "Damage over time on Special: When this character casts their Special Skill, they give a Hunter’s Mark on a random enemy. The target receives 150 damage over 3 turns. If a target already has this effect, the duration will be refreshed and the damage will be increased by 150, up to 1500 damage in total."
         ]
     },
     {
         "originalIndex": 1295,
-        "name": "奥代 (Aouda)",
-        "passives": [
-            "提升特殊技能伤害：该英雄首次施放造成伤害的特殊技能时，其威力额外增加 30%。"
-        ]
+        "name": "安 (Anne)",
+        "passives": []
     },
     {
         "originalIndex": 1296,
-        "name": "奥代 (Aouda) C1",
+        "name": "安忒洛斯 (Anteros)",
         "passives": [
-            "提升特殊技能伤害：该角色首次施放造成伤害的特殊技能时，其威力额外增加 30%。",
-            "对生命加成目标造成更高伤害：在该角色施放特殊技能后，所有盟友对具有生命加成的目标造成的普通攻击和特殊技能伤害提高 +70%，持续 4 回合。"
+            "Resist Special Skill Blocking: This character has innate resistance against status ailments that block Special Skills."
         ]
     },
     {
         "originalIndex": 1297,
-        "name": "艾森 (Ashen)",
+        "name": "奥代 (Aouda)",
         "passives": [
-            "降低治疗量：所有敌人获得的治疗量降低 -50%。"
+            "Increased Special Skill Damage: First time this hero casts Special Skill that does damage, additional 30% is added to its power."
         ]
     },
     {
         "originalIndex": 1298,
-        "name": "阿斯特丽德 (Astrid)",
+        "name": "奥代 (Aouda) C1",
         "passives": [
-            "快节奏：民谣。",
-            "所有由敌人施放的民谣仅持续 1 回合。",
-            "快节奏：舞蹈。",
-            "所有由敌人施放的舞蹈仅持续 1 回合。"
+            "Increased Special Skill Damage: This first time this character cast a Special Skill that deals damage an additional 30% is added to its power.",
+            "Increased Damage Against Boosted Health: After Special Skill cast, all allies' normal attacks and Special Skills deal +70% damage against targets with boosted health for 4 turns."
         ]
     },
     {
         "originalIndex": 1299,
-        "name": "奥瑞卡克 (Auricarc)",
+        "name": "艾森 (Ashen)",
         "passives": [
-            "闪避特殊技能伤害：该角色有 15% 的几率闪避造成伤害的特殊技能。"
+            "Decreased Healing: All enemies get -50% healing."
         ]
     },
     {
         "originalIndex": 1300,
-        "name": "阿维亚纳 (Aviana)",
+        "name": "阿斯特丽德 (Astrid)",
         "passives": [
-            "抵抗流血伤害：该角色天生对流血有抵抗能力。",
-            "受到增益时获得法力：该角色在获得增益或正面效果叠加时获得 5% 的法力。"
+            "Quick Tempo: Ballad",
+            "All Ballads cast by enemies only last for 1 turn.",
+            "Quick Tempo: Dance",
+            "All Dances cast by enemies only last for 1 turn."
         ]
     },
     {
         "originalIndex": 1301,
-        "name": "白杨 (Bai Yeong)",
+        "name": "奥瑞卡克 (Auricarc)",
         "passives": [
-            "抵抗来自小兵的状态异常：该角色天生对来自小兵的状态异常有抵抗能力。"
+            "Dodge Special Damage: This character has a 15% chance to dodge Special Skills that deal damage."
         ]
     },
     {
         "originalIndex": 1302,
-        "name": "白鼠 (Baishu)",
+        "name": "阿维亚纳 (Aviana)",
         "passives": [
-            "禁用小兵技能：所有敌方小兵的攻击和技能都被禁用。"
+            "Resist Bleed Damage: This character has innate resistance against Bleed.",
+            "Mana on Buff Received: This character gains 5% mana when they receive a buff or a positive stack."
         ]
     },
     {
         "originalIndex": 1303,
-        "name": "凯特琳 (Caitlin)",
+        "name": "白杨 (Bai Yeong)",
         "passives": [
-            "抵抗状态效果伤害：该角色天生对来自状态效果的伤害有抵抗能力。"
+            "Resist Status Ailments from Minions: This character has innate resistance against status ailments that are from minions."
         ]
     },
     {
         "originalIndex": 1304,
-        "name": "凯特琳 (Caitlin) C1",
+        "name": "白鼠 (Baishu)",
         "passives": [
-            "抵抗状态效果伤害：该角色天生对来自状态效果的伤害有抵抗能力。",
-            "特殊技能附带流血：当该角色施放其特殊技能时，所有敌人会在 4 回合内受到 528 点流血伤害。"
+            "Disable Minion Abilities: Attacks and abilities of all Minions owned by enemies are disabled."
         ]
     },
     {
         "originalIndex": 1305,
-        "name": "塞利达纳 (Celidana)",
+        "name": "凯特琳 (Caitlin)",
         "passives": [
-            "抵抗最大生命值削减：该角色天生对最大生命值削减有抵抗能力。",
-            "敌方施放特殊技能时提升生命值：当敌人施放特殊技能时，该角色有 50% 的几率将自身生命值提升 100 点。"
+            "Resist Damage from Status Effects: This charater has innate resistance against incoming damage from status effects."
         ]
     },
     {
         "originalIndex": 1306,
-        "name": "克里斯蒂娜·达埃 (Christine Daae)",
+        "name": "凯特琳 (Caitlin) C1",
         "passives": [
-            "抵抗攻击异常：该角色天生对影响攻击力的状态异常有抵抗能力。",
-            "状态异常失效或被清除时恢复生命：每当一个状态异常从该角色身上失效、被净化、移除或重新分配时，该角色会恢复 5% 的生命值。此效果每回合只能激活一次。"
+            "Resist Damage from Status Effects: This charater has innate resistance against incoming damage from status effects.",
+            "Bleed on Special Skill: When this character casts their Special Skill, all enemies receive 528 Bleed damage over 4 turns."
         ]
     },
     {
         "originalIndex": 1307,
-        "name": "克利奥帕特拉 (Cleopatra)",
+        "name": "塞利达纳 (Celidana)",
         "passives": [
-            "特殊技能效果：当该角色施放其特殊技能时，有 60% 几率执行以下操作：",
-            "* 为所有队友提升 10% 的生命值。提升的生命值可以超过最大生命值。",
-            "* 净化所有队友身上最新的可净化状态异常。"
+            "Resist Max Health Reduction: This character has innate resistance against max health reduction.",
+            "Boost Health on Enemy Special: When an enemy casts their Special Skill, this character has a 50% chance to boost this character’s health by 100."
         ]
     },
     {
         "originalIndex": 1308,
-        "name": "克利奥帕特拉 (Cleopatra) C1",
+        "name": "克里斯蒂娜·达埃 (Christine Daae)",
         "passives": [
-            "特殊技能效果：当该角色施放其特殊技能时，有 60% 几率执行以下操作：",
-            "* 为所有队友提升 10% 的生命值。提升的生命值可以超过最大生命值。",
-            "* 净化所有队友身上最新的可净化状态异常。",
-            "特殊技能必定触发效果：当该角色施放其特殊技能时，任何提供额外施法效果的被动技能都将必定触发。",
-            "受到增益时恢复生命：该角色在获得增益或正面效果叠加时恢复 5% 的生命值。"
+            "Resist Attack Ailments: This character has innate resistance against status ailments that affect attack.",
+            "Heal when status ailment expires or is cleared: This character receives 5% health each time a status ailment expires or is cleansed, removed or reallocated from them. This effect can activate only once per turn."
         ]
     },
     {
         "originalIndex": 1309,
-        "name": "康斯坦丝 (Constance)",
+        "name": "克利奥帕特拉 (Cleopatra)",
         "passives": [
-            "特殊技能和掩护伤害时造成伤害：当该角色受到特殊技能伤害或替处于掩护状态的角色承受伤害时，有 60% 的几率对所有敌人造成所受伤害 20% 的伤害。"
+            "Effects on Special Skill: 60% chance to perform the following actions when this character casts their Special Skill",
+            " * Boosts health of all allies by 10%. Boosted health can exceed max HP.",
+            " * Cleanses the latest cleansable status ailment from all allies."
         ]
     },
     {
         "originalIndex": 1310,
-        "name": "达布莉亚 (Dabria)",
+        "name": "克利奥帕特拉 (Cleopatra) C1",
         "passives": [
-            "特殊技能附带持续伤害：当该角色施放其特殊技能时，会给一个随机敌人施加猎人印记。目标在 3 回合内受到 150 点伤害。如果目标已有此效果，则持续时间刷新，伤害增加 150 点，总伤害最高可达 1500 点。",
-            "猎手感知：当该角色施放其特殊技能时，有 100% 的几率将自身最新的状态异常转移给目标。如果其特殊技能无法选择敌方目标，则会随机转移至一名敌人。若此角色没有状态异常，则恢复自身 3% 的生命。"
+            "Effects on Special Skill: 60% chance to perform the following actions when this character casts their Special Skill",
+            " * Boosts health of all allies by 10%. Boosted health can exceed max HP.",
+            " * Cleanses the latest cleansable status ailment from all allies.",
+            "Guaranteed Effect on Special Skill: When this character casts their Special Skill that grant extra effect on cast are guaranteed to activate.",
+            "Health Recover on Buff Received: This character recovers 5% HP when they receive a buff or positive stack."
         ]
     },
     {
         "originalIndex": 1311,
-        "name": "达利拉 (Delilah)",
-        "passives": []
+        "name": "康斯坦丝 (Constance)",
+        "passives": [
+            "Damage on Special Skill and Cover Damage: When this character receives damage from Special Skills or in place of a character in Cover, there’s a 60% chance to deal 20% of the received damage on all enemies."
+        ]
     },
     {
         "originalIndex": 1312,
-        "name": "达利拉 (Delilah) C1",
+        "name": "达布莉亚 (Dabria)",
         "passives": [
-            "特殊技能净化：当该角色施放其特殊技能时，会净化所有队友身上最新的状态异常。"
+            "Damage Over Time on Special: When this character casts their Special Skill, they give a Hunter’s Mark on a random enemy. The target receives 150 damage over 3 turns. If a target already has this effect, the duration will be refreshed and the damage will be increased with 150, up to 1500 damage in total.",
+            "Hunter’s Sense: When this character casts their Special Skill, they have 100% chance to transfer the newest cleansable status ailment from themselves to the target. If the Special Skill cannot target an enemy, a random enemy is chosen instead. If this character has no status ailments, they recover 3% health."
         ]
     },
     {
         "originalIndex": 1313,
-        "name": "德瓦娜 (Devana)",
-        "passives": [
-            "抵抗驱散：该角色天生对增益驱散有抵抗能力。",
-            "抵抗负面小兵效果：该角色天生对来自小兵的负面效果及伤害有抵抗能力。"
-        ]
-    },
-    {
-        "originalIndex": 1314,
-        "name": "朱利主管 (Director Zuri)",
+        "name": "达利拉 (Delilah)",
         "passives": []
     },
     {
-        "originalIndex": 1315,
-        "name": "德洛丽丝 (Dolores)",
+        "originalIndex": 1314,
+        "name": "达利拉 (Delilah) C1",
         "passives": [
-            "古神的标记：该角色每拥有 5% 点狂乱，受到的所有伤害便降低 10，最多可降低 50%。"
+            "Cleanse on Special: When this character casts their Special Skill, they cleanse the newest status ailment from all allies."
+        ]
+    },
+    {
+        "originalIndex": 1315,
+        "name": "德瓦娜 (Devana)",
+        "passives": [
+            "Resist Dispels: This character has an innate resistance against Dispels of buffs.",
+            "Resist Negative Minion Effects: This character has an innate resistance against incoming negative effects and damage from Minions."
         ]
     },
     {
         "originalIndex": 1316,
-        "name": "德雷克方 (Drake Fong)",
+        "name": "朱利主管 (Director Zuri)",
         "passives": []
     },
     {
         "originalIndex": 1317,
-        "name": "德雷克方 (Drake Fong) C1",
+        "name": "德洛丽丝 (Dolores)",
         "passives": [
-            "特殊技能驱散：当该角色施放其特殊技能时，会驱散所有敌人身上最新的状态效果增益。"
+            "Marked by the Old Ones: All damage is reduced by 5% per 10 Insanity for this character up to a maximum reduction of 50%."
         ]
     },
     {
         "originalIndex": 1318,
-        "name": "埃洛伊丝 (Eloise)",
+        "name": "德雷克方 (Drake Fong)",
         "passives": []
     },
     {
         "originalIndex": 1319,
-        "name": "依菲拉 (Ephyra)",
+        "name": "德雷克方 (Drake Fong) C1",
         "passives": [
-            "特殊技能效果：当该角色施放其特殊技能时，有 50% 几率执行以下操作：",
-            "* 对所有敌人造成 80% 的伤害。",
-            "* 所有队友获得 +21% 的暴击率，持续 2 回合。"
+            "Dispel on Special Skill: When this character casts their Special Skill, they dispel the newest status effect buff from all enemies."
         ]
     },
     {
         "originalIndex": 1320,
-        "name": "依菲拉 (Ephyra) C1",
-        "passives": [
-            "特殊技能效果：当该角色施放其特殊技能时，有 50% 几率执行以下操作：",
-            "* 对所有敌人造成 80% 的伤害。",
-            "* 所有队友获得 +21% 的暴击率，持续 2 回合。",
-            "抵抗狂乱：该角色天生对狂乱有抵抗能力。"
-        ]
-    },
-    {
-        "originalIndex": 1321,
-        "name": "二郎神 (Erlang Shen)",
+        "name": "埃洛伊丝 (Eloise)",
         "passives": []
     },
     {
-        "originalIndex": 1322,
-        "name": "艾塞特 (Eset)",
+        "originalIndex": 1321,
+        "name": "依菲拉 (Ephyra)",
         "passives": [
-            "特殊技能效果：当该角色施放其特殊技能时，有 70% 几率执行以下操作。",
-            "* 对所有敌人造成 70% 的伤害。",
-            "* 所有敌人获得 -34% 的攻击力，持续 3 回合。"
+            "Effects on Special Skill: 50% chance to perform the following actions when this character casts their Special Skill",
+            " * Deals 80% damage to all enemies.",
+            " * All allies get +21% critical chance for 2 turns."
+        ]
+    },
+    {
+        "originalIndex": 1322,
+        "name": "依菲拉 (Ephyra) C1",
+        "passives": [
+            "Effects on Special Skill: 50% chance to perform the following actions when this character casts their Special Skill",
+            " * Deals 80% damage to all enemies.",
+            " * All allies get +21% critical chance for 2 turns.",
+            "Resist Insanity: This character has innate resistance against Insanity."
         ]
     },
     {
         "originalIndex": 1323,
-        "name": "艾塞特 (Eset) C1",
-        "passives": [
-            "特殊技能效果：当该角色施放其特殊技能时，有 70% 几率执行以下操作。",
-            "* 对所有敌人造成 70% 的伤害。",
-            "* 所有敌人获得 -34% 的攻击力，持续 3 回合。",
-            "特殊技能额外效果几率：当该角色施放其特殊技能时，其任何提供额外施法效果的被动技能都有 3 次激活机会。",
-            "敌方施放生命加成特殊技能时获得法力：每当敌人施放直接提升生命值的特殊技能时，该角色获得 5% 的法力。"
-        ]
+        "name": "二郎神 (Erlang Shen)",
+        "passives": []
     },
     {
         "originalIndex": 1324,
-        "name": "经验拟态兽 (Experience Mimic) Holy",
+        "name": "艾塞特 (Eset)",
         "passives": [
-            "完美精准度：该角色的特殊技能必定命中目标。",
-            "拟态兽战利品：该拟态兽在完成关卡时有几率获得额外战利品。",
-            "* 普通冰雪训练师英雄。",
-            "* 非凡冰雪训练师英雄。",
-            "* 稀有冰雪训练师英雄。",
-            "* 普通冰雪英雄。",
-            "* 非凡冰雪英雄。"
+            "Effects on Special Skill: 70% chance to perform the following actions when this character casts their Special Skill.",
+            " * Deals 70% damage to all enemies.",
+            " * All enemies get -34% attack for 3 turns."
         ]
     },
     {
         "originalIndex": 1325,
-        "name": "法欧娜 (Faeona)",
+        "name": "艾塞特 (Eset) C1",
         "passives": [
-            "抵抗法力削减：该角色天生对法力削减有抵抗能力。",
-            "受到增益时获得法力：该角色在获得增益或正面效果叠加时获得 5% 的法力。"
+            "Effects on Special Skill: 70% chance to perform the following actions when this character casts their Special Skill.",
+            " * Deals 70% damage to all enemies.",
+            " * All enemies get -34% attack for 3 turns.",
+            "Extra Chance for Effects on Special Skill: When this character casts their Special Skill, any of their Passive Skills that grant extra effects on cast have 3 chances to activate.",
+            "Mana on Health Boosting Special Skill: This character gains 5% mana each time an enemy casts a Special Skill that directly boosts health."
         ]
     },
     {
         "originalIndex": 1326,
-        "name": "法里恩 (Faline)",
-        "passives": []
+        "name": "经验拟态兽 (Experience Mimic) Holy",
+        "passives": [
+            "Perfect Accuracy: This character’s Special Skill never misses its targets.",
+            "Mimic Loot: This Mimic gives a chance for extra loot when completing stages",
+            " * Common Ice Trainer Heroes",
+            " * Uncommon Ice Trainer Heroes",
+            " * Rare Ice Trainer Heroes",
+            " * Common Ice Heroes",
+            " * Uncommon Ice Heroes"
+        ]
     },
     {
         "originalIndex": 1327,
-        "name": "弗兰克·\"獠牙\"·布林威尔 (Frank 'Fangs' Brimwell)",
+        "name": "法欧娜 (Faeona)",
         "passives": [
-            "抵抗法力削减：该角色天生对法力削减有抵抗能力。",
-            "守卫集结：每 4 回合，移除所有盟友身上的衰退效果。"
+            "Resist Mana Reduction: This character has innate resistance against mana reduction.",
+            "Mana on Buff Received: This character gains 5% mana when they receive a buff or positive stack."
         ]
     },
     {
         "originalIndex": 1328,
-        "name": "费迪南 (Furdinand)",
-        "passives": [
-            "萌宠之怒：当恶魔被召唤到任何敌人身上时，该角色对所有敌人造成 85% 的伤害。此效果每回合只能激活一次。",
-            "魔宠之友：当小兵被召唤到任何盟友身上时，该角色获得 5% 的生命值和 5% 的法力。此效果每回合只能激活一次。"
-        ]
+        "name": "法里恩 (Faline)",
+        "passives": []
     },
     {
         "originalIndex": 1329,
-        "name": "甘德尔 (Gandr)",
+        "name": "弗兰克·\"獠牙\"·布林威尔 (Frank 'Fangs' Brimwell)",
         "passives": [
-            "强化抵抗燃烧：该角色天生对燃烧有抵抗能力，并且每次抵抗时获得 450 点生命加成和 5% 的法力。",
-            "熔岩核心。该角色拥有一个熔岩核心。",
-            "熔岩核心在该角色每次施放特殊技能时激活：",
-            "* 所有敌人受到腐蚀燃烧效果，持续 3 回合。当熔岩核心完全充能时，腐蚀燃烧造成 315 点燃烧伤害，并每回合降低目标 -12% 的防御力。对拥有小兵或巨大体型小兵的英雄造成额外伤害。",
-            "* 燃烧伤害量根据核心的充能程度计算，核心激活时消耗所有充能。"
+            "Resist Mana reduction: This character has an innate resistance against mana Reduction.",
+            "Guard Rally: Every 4 turns, removes all Wither effects from all allies."
         ]
     },
     {
         "originalIndex": 1330,
-        "name": "基迪恩 (Gideon)",
+        "name": "费迪南 (Furdinand)",
         "passives": [
-            "抵抗防御削减：该角色天生对影响防御的状态异常、叠加和衰退效果有抵抗能力。",
-            "抵抗狂乱：该角色天生对狂乱有抵抗能力。",
-            "受到状态异常时获得法力：该角色在受到状态异常或负面效果叠加时获得 5% 的法力。"
+            "Wrath of Pets: When a Fiend is summoned to any enemy, this character deals 85% damage to all enemies. This effect can activate only once per turn.",
+            "Friend of the Familiars: When a Minion is summoned to any ally, this character gains 5% health and 5% mana. This effect can activate only once per turn."
         ]
     },
     {
         "originalIndex": 1331,
-        "name": "吉利根 (Gilligan)",
+        "name": "甘德尔 (Gandr)",
         "passives": [
-            "抵抗法力异常：该角色天生对影响法力的异常状态有抵抗能力。",
-            "根据敌方增益数量获得法力：每个回合开始时，敌方战队身上每拥有一个增益状态效果，便获得少量法力。（最多 20 层）"
+            "Empowered Resist Burn: This character has innate resistance against Burn and gains 450 boosted heath and 5% mana each time they resist.",
+            "Molten Core. This character has a Molten Core.",
+            "The Molten Core activates each time this character’s Special Skill is cast:",
+            " * All enemies receive Corrosive Burn for 3 turns. With fully charged Molten Core, the Corrosive Burn deals 315 Burn damage, and lowers the target’s defense by -12% each turn. Deals extra damage against heroes with Minions or Mega Minions",
+            " * The Burn damage is scaled by the amount of charge in the Core. All charge is exhausted when the Core is activated."
         ]
     },
     {
         "originalIndex": 1332,
-        "name": "金滴 (Goldrip)",
+        "name": "基迪恩 (Gideon)",
         "passives": [
-            "被击败时召唤史莱姆小兵：当该角色被击败时，为附近的盟友召唤继承其 50% 生命值和 40% 攻击力的史莱姆巨大体型小兵。",
-            "史莱姆小兵分裂：如果该角色一次性失去超过 25% 的最大生命值，会为自己召唤一个继承其 50% 生命值和 40% 攻击力的史莱姆巨大体型小兵。"
+            "Resist Defense Reduction: This character has innate resistance against status ailments, stacks and Wither effects that affect defense.",
+            "Resist Insanity: This character has innate resistance against Insanity.",
+            "Mana on Status Ailment Received: This character gains 5% mana when they receive a status ailment or a negative stacks."
         ]
     },
     {
         "originalIndex": 1333,
-        "name": "公牛 (Gongniu)",
+        "name": "吉利根 (Gilligan)",
         "passives": [
-            "受到状态异常时恢复生命：该角色在受到状态异常或负面效果叠加时恢复 10% 的生命值。",
-            "禁用小兵技能：所有敌方小兵的攻击和技能都被禁用。"
+            "Resist Mana Ailments: This character has innate resistance against ailments that affect mana.",
+            "Mana Per Enemy Buff: Gains a small amount of mana for every active status effect buff that the enemy team has at the start of each turn (maximum of 20 buffs)."
         ]
     },
     {
         "originalIndex": 1334,
-        "name": "古里克 (Gooric)",
+        "name": "金滴 (Goldrip)",
         "passives": [
-            "被击败时召唤史莱姆小兵：当该角色被击败时，为附近的盟友召唤继承其 50% 生命值和 40% 攻击力的史莱姆巨大体型小兵。",
-            "史莱姆小兵分裂：如果该角色一次性失去超过 25% 的最大生命值，会为自己召唤一个继承其 50% 生命值和 40% 攻击力的史莱姆巨大体型小兵。"
+            "Slime Minion Upon Defeat: When this character is defeated, they summon Slime Mega Minions to nearby allies with 50% HP and 40% attack inherited from this character.",
+            "Slime Minion Split: If this character loses more than 25% of max health at once, they summon a Slime Mega Minion for themselves with 50% HP and 40% attack."
         ]
     },
     {
         "originalIndex": 1335,
-        "name": "葛莉卡 (Grilka)",
+        "name": "公牛 (Gongniu)",
         "passives": [
-            "队伍大师：",
-            "作为攻击方角色的被动技能：该英雄的部队对较弱元素造成额外元素伤害。",
-            "- 造成的额外元素伤害： +100%",
-            "作为防守方角色的被动技能：该英雄受到来自较强元素部队的元素伤害减少。",
-            "- 受到的元素伤害： -10%"
+            "Health Recovery on Status Ailment Received: This character recovers 10%  health when they receive a status ailment or a negative stack.",
+            "Disable Minion Abilities: Attacks and abilities of all Minions owned by enemies are disabled."
         ]
     },
     {
         "originalIndex": 1336,
-        "name": "巨象守护者 (Guardian Elephant)",
+        "name": "古里克 (Gooric)",
         "passives": [
-            "抵抗状态效果伤害：该角色天生对来自状态效果的伤害有抵抗能力。"
+            "Slime Minion Upon Defeat: When this character is defeated, they summon Slime Mega Minions to nearby allies with 50% HP and 40% attack inherited from this character.",
+            "Slime Minion Split: If this character loses more than 25% of max health at once, they summon a Slime Mega Minion for themselves with 50% HP and 40% attack."
         ]
     },
     {
         "originalIndex": 1337,
+        "name": "葛莉卡 (Grilka)",
+        "passives": [
+            "Troop Mastery:",
+            "Passive Skill as attacking character: This hero’s Troops deal extra  elemental damage against weaker element.",
+            " - Dealt extra elemental damage: +100%",
+            "Passive Skill as defending character: This hero receives less elemental  damage from Troops of stronger element.",
+            " - Received elemental damage: -10%"
+        ]
+    },
+    {
+        "originalIndex": 1338,
+        "name": "巨象守护者 (Guardian Elephant)",
+        "passives": [
+            "Resist Damage from Status Effects: This charater has innate resistance against incoming damage from status effects."
+        ]
+    },
+    {
+        "originalIndex": 1339,
         "name": "瞪羚守护者 (Guardian Gazelle)",
         "passives": []
     },
     {
-        "originalIndex": 1338,
+        "originalIndex": 1340,
         "name": "瞪羚守护者 (Guardian Gazelle) C1",
         "passives": []
     },
     {
-        "originalIndex": 1339,
+        "originalIndex": 1341,
         "name": "猫头鹰守护者 (Guardian Owl)",
         "passives": []
     },
     {
-        "originalIndex": 1340,
+        "originalIndex": 1342,
         "name": "桂妮维亚 (Guinevere)",
         "passives": []
     },
     {
-        "originalIndex": 1341,
+        "originalIndex": 1343,
         "name": "桂妮维亚 (Guinevere) C1",
         "passives": []
     },
     {
-        "originalIndex": 1342,
+        "originalIndex": 1344,
         "name": "格温多林 (Gwendoline)",
         "passives": []
     },
     {
-        "originalIndex": 1343,
+        "originalIndex": 1345,
         "name": "关恩 (Gwynn)",
         "passives": [
-            "抵抗特殊技能格挡：该角色天生对格挡特殊技能的状态异常有抵抗能力。",
-            "腐蚀核心：该角色的构造核心是腐蚀核心。腐蚀核心在该角色每次施放特殊技能时激活：",
-            "* 所有敌人受到腐蚀剧毒效果，持续 3 回合。当腐蚀核心完全充能时，腐蚀剧毒造成 151 点剧毒伤害，并每回合降低目标 -13% 的法力生成。对拥有小兵或巨大体型小兵的英雄造成额外伤害。",
-            "* 剧毒伤害量根据核心的充能程度计算，核心激活时消耗所有充能。"
-        ]
-    },
-    {
-        "originalIndex": 1344,
-        "name": "忠犬八公 (Hachiko)",
-        "passives": [
-            "魔宠之友：当小兵被召唤到任何盟友身上时，该角色获得 5% 的生命值和 5% 的法力。此效果每回合只能激活一次。",
-            "萌宠之怒：当恶魔被召唤到任何敌人身上时，该角色对所有敌人造成 85% 的伤害。此效果每回合只能激活一次。"
-        ]
-    },
-    {
-        "originalIndex": 1345,
-        "name": "哈尔西翁 (Halcyon)",
-        "passives": [
-            "降低治疗量：所有敌人获得的治疗量降低 -50%。"
+            "Resist Special Skill Blocking: This character has innate resistance against status ailments that block Special Skill.",
+            "Corrosive Core: The Construct Core of this character is Corrosive Core. The Corrosive Core activates each time this character’s Special Skill is cast: * All enemies receive Corrosive Poison for 3 turns. With a fully charged Corrosive Core, the Corrosive Poision deals 151 Poison damage and lowers the target’s mana generation by -13% each turn. Deals extra damage against heroes with Minions or a Mega Minion. * The poison damage is scaled by the amount of charge in the Core. All charge is exhausted when the Core is activated."
         ]
     },
     {
         "originalIndex": 1346,
-        "name": "哈妮特拉 (Hanitra)",
+        "name": "忠犬八公 (Hachiko)",
         "passives": [
-            "抵抗特殊技能格挡：该角色天生对格挡特殊技能的状态异常有抵抗能力。",
-            "受到增益时获得法力：该角色在获得增益或正面效果叠加时获得 5% 的法力。"
+            "Friend of the Familiars: When a Minion is summoned to any ally, this character gains 5% health and 5% mana. This effect can activate only once per turn.",
+            "Wrath of Pets: When a Fiend is summoned to any enemy, this character deals 85% damage to all enemies. This effect can activate only once per turn."
         ]
     },
     {
         "originalIndex": 1347,
-        "name": "哈乌里 (Haumri)",
+        "name": "哈尔西翁 (Halcyon)",
         "passives": [
-            "进阶无视小兵：该角色造成的所有伤害无视小兵和巨大体型小兵。",
-            "进阶抵抗负面小兵效果：该角色天生对来自小兵和巨大体型小兵的负面效果及伤害有抵抗能力。",
-            "完美精准度：该角色的特殊技能必定命中目标。"
+            "Decreased Healing: All enemies get -50% healing."
         ]
     },
     {
         "originalIndex": 1348,
-        "name": "希尔达 (Hilda)",
+        "name": "哈妮特拉 (Hanitra)",
         "passives": [
-            "石像鬼的软化皮肤：每当此石像鬼施放特殊技能时，其软化皮肤会激活。接下来受到的 4 次伤害降低 -90%，并抵抗所有状态异常和法力削减。此效果无法被驱散。"
+            "Resist Special Skill Blocking: This character has innate resistance against status ailments that block Special Skill.",
+            "Mana on Buff Received: This character gains 5% mana when they receive a buff or a positive stack."
         ]
     },
     {
         "originalIndex": 1349,
-        "name": "荷鲁斯 (Horus)",
+        "name": "哈乌里 (Haumri)",
         "passives": [
-            "特殊技能效果：当该角色施放其特殊技能时，有 40% 几率执行以下操作：",
-            "* 对所有敌人造成 70% 的伤害。",
-            "* 所有敌人获得 -34% 的攻击力，持续 3 回合。"
+            "Superior Bypass Minions: All damage done by this character bypasses Minions and Mega Minions.",
+            "Superior Resist Negative Minion Effects: This character has innate resistance against incoming negative effects and damage from Minions and Mega Minions.",
+            "Perfect Accuracy: This character’s Special Skill never misses its targets."
         ]
     },
     {
         "originalIndex": 1350,
-        "name": "荷鲁斯 (Horus) C1",
+        "name": "希尔达 (Hilda)",
         "passives": [
-            "特殊技能效果：当该角色施放其特殊技能时，有 40% 几率执行以下操作：",
-            "* 对所有敌人造成 70% 的伤害。",
-            "* 所有敌人获得 -34% 的攻击力，持续 3 回合。",
-            "特殊技能额外效果几率：当该角色施放其特殊技能时，其任何提供额外施法效果的被动技能都有 3 次激活机会。",
-            "敌方施放生命加成特殊技能时获得法力：每当敌人施放直接提升生命值的特殊技能时，该角色获得 5% 的法力。"
+            "Gargoile’s Softskin: Every time this Gargoyle casts a Special Skil, their Softskin activates. The next 4 times they receive damage, it is reduced by -90%, and they resist all status ailment and mana reduction. This effect can’t be dispelled."
         ]
     },
     {
         "originalIndex": 1351,
-        "name": "伊贺 (Iga)",
+        "name": "荷鲁斯 (Horus)",
         "passives": [
-            "降低小兵生命值：敌方小兵被召唤时继承的生命值减少 -50%。"
+            "Effects on Special Skill: 40% chance to perform the following actions when this character casts their Special Skill ' * Deals 70% damage to all enemies.' ' * All enemies get -34% attack for 3 turns.'"
         ]
     },
     {
         "originalIndex": 1352,
+        "name": "荷鲁斯 (Horus) C1",
+        "passives": [
+            "Effects on Special Skill: 40% chance to perform the following actions when this character casts their Special Skill ' * Deals 70% damage to all enemies.' ' * All enemies get -34% attack for 3 turns.'",
+            "Extra Chance for Effects on Special Skill: When this character casts their Special Skill, any of their Passive Skills that grant extra effects on cast have 3 chances to activate.",
+            "Mana on Health Boosting Special Skill: This character gains 5% mana each time an enemy casts a Special Skill that directly boosts health."
+        ]
+    },
+    {
+        "originalIndex": 1353,
+        "name": "伊贺 (Iga)",
+        "passives": [
+            "Decreased Minion Health: Enemy Minions inherit -50% less Health when summoned."
+        ]
+    },
+    {
+        "originalIndex": 1354,
         "name": "稻荷 (Inari)",
         "passives": []
     },
     {
-        "originalIndex": 1353,
+        "originalIndex": 1355,
         "name": "稻荷 (Inari) C1",
         "passives": []
     },
     {
-        "originalIndex": 1354,
+        "originalIndex": 1356,
         "name": "铁锚 (Ironmaw)",
         "passives": [
-            "队伍大师：",
-            "作为攻击方角色的被动技能：该英雄的部队对较弱元素造成额外元素伤害。",
-            "- 造成的额外元素伤害： +100%",
-            "作为防守方角色的被动技能：该英雄受到来自较强元素部队的元素伤害减少。",
-            "- 受到的元素伤害： -10%"
-        ]
-    },
-    {
-        "originalIndex": 1355,
-        "name": "伊塔尔 (Ithar)",
-        "passives": [
-            "闪避特殊技能伤害：该角色有 15% 的几率闪避造成伤害的特殊技能。",
-            "抵抗来自小兵的状态异常：该角色天生对来自小兵的状态异常有抵抗能力。"
-        ]
-    },
-    {
-        "originalIndex": 1356,
-        "name": "嘉娜 (Jana)",
-        "passives": [
-            "小兵死亡时净化：当该角色拥有的小兵被摧毁时，该角色身上的状态异常会被净化。"
+            "Troop Mastery:",
+            "Passive Skill as attacking character: This hero’s Troops deal extra  elemental damage against weaker element.",
+            " - Dealt extra elemental damage: +100%",
+            "Passive Skill as defending character: This hero receives less elemental  damage from Troops of stronger element.",
+            " - Received elemental damage: -10%"
         ]
     },
     {
         "originalIndex": 1357,
+        "name": "伊塔尔 (Ithar)",
+        "passives": [
+            "Dodge Special Damage: This character has a 15% chance to dodge Special Skills that deal damage.",
+            "Resist Status Ailments From Minions: This character has innate resistance against status ailments that are from Minions."
+        ]
+    },
+    {
+        "originalIndex": 1358,
+        "name": "嘉娜 (Jana)",
+        "passives": [
+            "Cleanse on Minion Death: This character is cleansed of status ailments when Minion owned by them is destroyed. "
+        ]
+    },
+    {
+        "originalIndex": 1359,
         "name": "贾斯珀 (Jasper)",
         "passives": []
     },
     {
-        "originalIndex": 1358,
+        "originalIndex": 1360,
         "name": "贾斯珀 (Jasper) C1",
         "passives": []
     },
     {
-        "originalIndex": 1359,
+        "originalIndex": 1361,
         "name": "亚坤 (Jequn)",
         "passives": [
-            "队伍大师：",
-            "作为攻击方角色的被动技能：该英雄的部队对较弱元素造成额外元素伤害。",
-            "- 造成的额外元素伤害： +100%",
-            "作为防守方角色的被动技能：该英雄受到来自较强元素部队的元素伤害减少。",
-            "- 受到的元素伤害： -10%"
+            "Troop Mastery:",
+            "Passive Skill as attacking character: This hero’s Troops deal extra  elemental damage against weaker element.",
+            " - Dealt extra elemental damage: +100%",
+            "Passive Skill as defending character: This hero receives less elemental  damage from Troops of stronger element.",
+            " - Received elemental damage: -10%"
         ]
     },
     {
-        "originalIndex": 1360,
+        "originalIndex": 1362,
         "name": "亚坤 (Jequn) C1",
         "passives": [
-            "队伍大师：",
-            "作为攻击方角色的被动技能：该英雄的部队对较弱元素造成额外元素伤害。",
-            "- 造成的额外元素伤害： +150%",
-            "作为防守方角色的被动技能：该英雄受到来自较强元素部队的元素伤害减少。",
-            "- 受到的元素伤害： -25%"
+            "'Troop Mastery:'",
+            "Passive Skill as attacking character: This hero’s Troops deal extra  elemental damage against weaker element.",
+            " - Dealt extra elemental damage: +150%",
+            "Passive Skill as defending character: This hero receives less elemental  damage from Troops of stronger element.",
+            " - Received elemental damage: -25%"
         ]
     },
     {
-        "originalIndex": 1361,
+        "originalIndex": 1363,
         "name": "尤恩 (Joon)",
         "passives": []
     },
     {
-        "originalIndex": 1362,
+        "originalIndex": 1364,
         "name": "尤恩 (Joon) C1",
         "passives": []
     },
     {
-        "originalIndex": 1363,
+        "originalIndex": 1365,
         "name": "尤恩 (Joon) C2",
         "passives": []
     },
     {
-        "originalIndex": 1364,
+        "originalIndex": 1366,
         "name": "尤恩 (Joon) 卡通",
         "passives": [
-            "卡通：额外 75% 几率抵抗所有状态异常、法力削减和增益驱散。"
-        ]
-    },
-    {
-        "originalIndex": 1365,
-        "name": "尤恩 (Joon) 玻璃",
-        "passives": [
-            "玻璃：额外 60% 几率将状态异常反弹给攻击者。"
-        ]
-    },
-    {
-        "originalIndex": 1366,
-        "name": "朱庇特 (Jove)",
-        "passives": [
-            "小兵死亡时净化：当该角色拥有的小兵被摧毁时，该角色身上的状态异常会被净化。"
+            "Toon: 75% extra chance to resist all status ailments, mana reductions and buff dispels."
         ]
     },
     {
         "originalIndex": 1367,
+        "name": "尤恩 (Joon) 玻璃",
+        "passives": [
+            "Glass: 60% extra chance to reflect status ailments back to the attacker."
+        ]
+    },
+    {
+        "originalIndex": 1368,
+        "name": "朱庇特 (Jove)",
+        "passives": [
+            "Cleanse on Minion Death: This character is cleansed of status ailments when Minion owned by them is destroyed."
+        ]
+    },
+    {
+        "originalIndex": 1369,
         "name": "贾斯提斯 (Justice)",
         "passives": []
     },
     {
-        "originalIndex": 1368,
+        "originalIndex": 1370,
         "name": "贾斯提斯 (Justice) C1",
         "passives": []
     },
     {
-        "originalIndex": 1369,
+        "originalIndex": 1371,
         "name": "贾斯提斯 (Justice) C2",
         "passives": []
     },
     {
-        "originalIndex": 1370,
+        "originalIndex": 1372,
         "name": "贾斯提斯 (Justice) 卡通",
         "passives": [
-            "卡通：额外 75% 几率抵抗所有状态异常、法力削减和增益驱散。"
-        ]
-    },
-    {
-        "originalIndex": 1371,
-        "name": "卡拉 (Kara)",
-        "passives": [
-            "增益被驱散时获得法力：每当该角色的一个增益效果被驱散时，其会获得 10% 的法力。",
-            "抵抗防御异常：该角色天生对影响防御的状态异常有抵抗能力。此效果同样适用于影响元素防御的状态异常。"
-        ]
-    },
-    {
-        "originalIndex": 1372,
-        "name": "古勒沃 (Kullervo)",
-        "passives": [
-            "西苏之力：当该角色在战斗中首次以低生命值开始回合时，他们会恢复 15% 的生命值并获得 15% 的法力。"
+            "Toon: 75% extra chance to resist all status ailments, mana reductions and buff dispels."
         ]
     },
     {
         "originalIndex": 1373,
-        "name": "古勒沃 (Kullervo) C1",
+        "name": "卡拉 (Kara)",
         "passives": [
-            "西苏之力：当该角色在战斗中首次以低生命值开始回合时，他们会恢复 15% 的生命值并获得 15% 的法力。"
+            "Mana on Buff Dispel: This character receives 10% mana each time a buff is dispelled from this character.",
+            "Resist Defense Ailments: This character has innate resistance against status ailments that affect defense. Applies also to status ailments that affect elemental defense."
         ]
     },
     {
         "originalIndex": 1374,
-        "name": "公相君 (Kushanku)",
-        "passives": []
+        "name": "古勒沃 (Kullervo)",
+        "passives": [
+            "Power of Sisu: When this character starts a turn with low health for the first time during a battle, they recover 15% health and receive 15% mana."
+        ]
     },
     {
         "originalIndex": 1375,
-        "name": "兰度 (Lando)",
+        "name": "古勒沃 (Kullervo) C1",
         "passives": [
-            "飞行动量：如果该角色拥有任意数量的飞行动量，其将获得：",
-            "* 最多 +35% 的法力生成。",
-            "* 最多 +25% 的闪避几率。",
-            "* 角色拥有的飞行动量越少，效果越弱。",
-            "削弱巨大体型小兵：敌方巨大体型小兵的生命值降低 -75%。"
+            "Power of Sisu: When this character starts a turn with low health for the first time during a battle, they recover 15% health and receive 15% mana."
         ]
     },
     {
         "originalIndex": 1376,
-        "name": "老虎 (Laohu)",
-        "passives": [
-            "禁用小兵技能：所有敌方小兵的攻击和技能都被禁用。"
-        ]
+        "name": "公相君 (Kushanku)",
+        "passives": []
     },
     {
         "originalIndex": 1377,
-        "name": "拉扎拉 (Lazara)",
+        "name": "兰度 (Lando)",
         "passives": [
-            "受到状态异常时获得法力增益：持有此技能的角色在受到任何状态异常或负面效果叠加时，获得 +24% 的法力生成，持续 3 回合。",
-            "盟友尝试净化时获得生命加成：当一个盟友尝试使用特殊技能进行净化时，所有盟友获得 300 点生命加成。此效果每回合只能激活一次。",
-            "敌人尝试净化时造成伤害：当一个敌人尝试使用特殊技能进行净化时，所有敌人受到 300 点伤害。此效果每回合只能激活一次。"
+            "Flight Momentum: If this character has any amount of Flight Momentum, they receive:",
+            " * Up to +35% mana generation.",
+            " * Up to +25% chance to dodge.",
+            " * The effects diminish the less Flight Momentum character has.",
+            "Weaker Mega Minions: Enemy Mega Minions have -75% HP."
         ]
     },
     {
         "originalIndex": 1378,
-        "name": "莱蒙伍德 (Lemonwood)",
+        "name": "老虎 (Laohu)",
         "passives": [
-            "抵抗剧毒：该角色天生对剧毒有抵抗能力。",
-            "分摊所受伤害：该角色所受伤害的 20% 将由其他盟友分摊。"
+            "Disable Minion Abilities: Attacks and abilities of all Minions owned by enemies are disabled."
         ]
     },
     {
         "originalIndex": 1379,
+        "name": "拉扎拉 (Lazara)",
+        "passives": [
+            "Mana Buff on Status Ailment Received: Receives +24% mana generation for 3 turns when this character receives a status ailment or a negative stack.",
+            "Health Boost on Attempted Ally Cleanse: When an ally attempts to cleanse by using Special Skill, all allies receive 300 boosted health. This effect can activate only once per turn.",
+            "Damage on Attempted Enemy Cleanse: When an enemy attempts to cleanse by using Special Skill, all enemies receive 300 damage. This effect can activate only once per turn."
+        ]
+    },
+    {
+        "originalIndex": 1380,
+        "name": "莱蒙伍德 (Lemonwood)",
+        "passives": [
+            "Resist Poison: This character has innate resistance against Poison.",
+            "Share Received Damage: 20% of damage received by this charater is shared with other allies."
+        ]
+    },
+    {
+        "originalIndex": 1381,
         "name": "莱昂尼达斯 (Leonidas)",
         "passives": []
     },
     {
-        "originalIndex": 1380,
+        "originalIndex": 1382,
         "name": "莱昂尼达斯 (Leonidas) C1",
         "passives": []
     },
     {
-        "originalIndex": 1381,
+        "originalIndex": 1383,
         "name": "莱昂尼达斯 (Leonidas) C2",
         "passives": []
     },
     {
-        "originalIndex": 1382,
+        "originalIndex": 1384,
         "name": "莱昂尼达斯 (Leonidas) 卡通",
         "passives": [
-            "卡通：额外 75% 几率抵抗所有状态异常、法力削减和增益驱散。"
-        ]
-    },
-    {
-        "originalIndex": 1383,
-        "name": "莱昂尼达斯 (Leonidas) 玻璃",
-        "passives": [
-            "玻璃：额外 60% 几率将状态异常反弹给攻击者。"
-        ]
-    },
-    {
-        "originalIndex": 1384,
-        "name": "利维娅 (Livia)",
-        "passives": [
-            "降低通过特殊技能获得的法力：通过特殊技能增加的法力值降低 -80%。此效果对战场上的所有敌人生效。"
+            "Toon: 75% extra chance to resist all status ailments, mana reductions and buff dispels."
         ]
     },
     {
         "originalIndex": 1385,
-        "name": "玛琳 (Malin)",
+        "name": "莱昂尼达斯 (Leonidas) 玻璃",
         "passives": [
-            "特殊技能伤害减免：该角色有 10% 的几率将受到的特殊技能直接伤害降至 1 点。",
-            "特殊技能附带持续伤害：当该角色施放其特殊技能时，会给一个随机敌人施加猎人印记。目标在 3 回合内受到 150 点伤害。如果目标已有此效果，则持续时间刷新，伤害增加 150 点，总伤害最高可达 1500 点。"
+            "Glass: 60% extra chance to reflect status ailments back to the attacker."
         ]
     },
     {
         "originalIndex": 1386,
-        "name": "马洛斯 (Malosi)",
+        "name": "利维娅 (Livia)",
         "passives": [
-            "抵抗防御异常：该英雄天生对影响防御的状态异常和负面叠加有抵抗能力。不适用于影响元素防御的状态异常。"
+            "Reduce Mana Gain from Special Skills: Reduces the amount of mana increased by Special Skill by -80%. The effect applies to all enemies in the battle."
         ]
     },
     {
         "originalIndex": 1387,
-        "name": "玛蒂尔达 (Matilda)",
+        "name": "玛琳 (Malin)",
         "passives": [
-            "窃取增益：当该角色施放其特殊技能时，有 50% 的几率从一个带有增益的随机敌人身上窃取最新的可驱散增益。如果没有敌人带有增益，则对所有敌人造成 70% 的伤害。"
+            "Special Skill Damage Reduction: This character has a 10% chance to drop the direct damage received from Special Skills to 1.",
+            "Damage over time on Special: When this character casts their Special Skill, they give a Hunter’s Mark on a random enemy. The target receives 150 damage over 3 turns. If a target already has this effect, the duration will be refreshed and the damage will be increased by 150, up to 1500 damage in total."
         ]
     },
     {
         "originalIndex": 1388,
-        "name": "梅 (May)",
+        "name": "马洛斯 (Malosi)",
         "passives": [
-            "抵抗小兵移除：该角色天生对小兵移除有抵抗能力。",
-            "受到增益时获得法力：该角色在获得增益或正面效果叠加时获得 5% 的法力。"
+            "Resist Defense Ailments: The hero has an innate resistance against status ailments and negative stacks that affect Defense. Doesn't apply to status ailments that affect elemental defense."
         ]
     },
     {
         "originalIndex": 1389,
-        "name": "梅格·吉瑞 (Meg Giry)",
+        "name": "玛蒂尔达 (Matilda)",
         "passives": [
-            "抵抗防御异常：该角色天生对影响防御的状态异常有抵抗能力。",
-            "状态异常失效或被清除时恢复生命：每当一个状态异常从该角色身上失效、被净化、移除或重新分配时，该角色会恢复 10% 的生命值。此效果每回合只能激活一次。"
+            "Steal Buff: When this character casts their Special Skill, they have a 50% chance to steal the newest dispellable buff from a random enemy that has buffs. If no enemy has buffs, deals 70% damage to all enemies."
         ]
     },
     {
         "originalIndex": 1390,
-        "name": "仙乐缪斯 (Melodymuse)",
+        "name": "梅 (May)",
         "passives": [
-            "抵抗剧毒：该角色天生对剧毒有抵抗能力。",
-            "分摊所受伤害：该角色所受伤害的 20% 将由其他盟友分摊。"
+            "Resist Minion Removal: This character has innate resistance against Minion removal.",
+            "Mana on Buff Received: This character gains 5% mana when they receive a buff or a positive stack."
         ]
     },
     {
         "originalIndex": 1391,
-        "name": "美勒桑克 (Meresankh)",
+        "name": "梅格·吉瑞 (Meg Giry)",
         "passives": [
-            "特殊技能效果：当该角色施放其特殊技能时，有 60% 几率执行以下操作：",
-            "* 对所有敌人造成 70% 的伤害。",
-            "* 所有敌人受到 231 点沙系伤害，持续 3 回合。"
+            "Resist Defense Ailments: This character has innate resistance against status ailments that affect defense.",
+            "Heal when status ailment expires or is cleared: This character receives 10% health each time a status ailment expires or is cleansed, removed or reallocated from them. This effect can activate only once per turn."
         ]
     },
     {
         "originalIndex": 1392,
-        "name": "美勒桑克 (Meresankh) C1",
+        "name": "仙乐缪斯 (Melodymuse)",
         "passives": [
-            "特殊技能效果：当该角色施放其特殊技能时，有 60% 几率执行以下操作：",
-            "* 对所有敌人造成 70% 的伤害。",
-            "* 所有敌人受到 357 点沙系伤害，持续 3 回合。",
-            "特殊技能额外效果几率：当该角色施放其特殊技能时，其任何提供额外施法效果的被动技能都有 3 次激活机会。",
-            "提升特殊技能伤害：该角色首次施放造成伤害的特殊技能时，其威力额外增加 50%。"
+            "Resist Poison: This character has innate resistance against Poison.",
+            "Share Received Damage: 20% of damage received by this charater is shared with other allies."
         ]
     },
     {
         "originalIndex": 1393,
-        "name": "云母 (Mica)",
-        "passives": []
+        "name": "美勒桑克 (Meresankh)",
+        "passives": [
+            "Effects on Special Skill: 60% chance to perform the following actions when this character casts their Special Skill",
+            " * Deals 70% damage to all enemies.",
+            " * All enemies receive 231 Sand damage over 3 turns."
+        ]
     },
     {
         "originalIndex": 1394,
-        "name": "月之钟 (Moonbell)",
+        "name": "美勒桑克 (Meresankh) C1",
         "passives": [
-            "抵抗剧毒：该角色天生对剧毒有抵抗能力。",
-            "分摊所受伤害：该角色所受伤害的 20% 将由其他盟友分摊。"
+            "Effects on Special Skill: 60% chance to perform the following actions when this character casts their Special Skill",
+            " * Deals 70% damage to all enemies.",
+            " * All enemies receive 357 Sand damage over 3 turns.",
+            "Extra Chance for Effects on Special Skill: When this character casts their Special Skill, any of their Passive Skills that grant extra effects on cast have 3 chances to activate.",
+            "Increased Special Skill Damage: The first time this character casts a Special Skill that deals damage an additional 50% is added to its power."
         ]
     },
     {
         "originalIndex": 1395,
-        "name": "莫泰加 (Motega)",
-        "passives": [
-            "特殊技能恢复生命：当该角色施放其特殊技能时，有 50% 的几率为所有队友恢复 15% 的生命值。如果特殊技能完全充能，则几率为 100%。"
-        ]
+        "name": "云母 (Mica)",
+        "passives": []
     },
     {
         "originalIndex": 1396,
-        "name": "勒明盖宁之母 (Mother Lemminkainen)",
+        "name": "月之钟 (Moonbell)",
         "passives": [
-            "西苏之力：当该角色在战斗中首次以低生命值开始回合时，他们会恢复 15% 的生命值并获得 15% 的法力。"
+            "Resist Poison: This character has innate resistance against Poison.",
+            "Share Received Damage: 20% of damage received by this charater is shared with other allies."
         ]
     },
     {
         "originalIndex": 1397,
-        "name": "武藏 (Musashi)",
-        "passives": []
+        "name": "莫泰加 (Motega)",
+        "passives": [
+            "Health recovery on Special: When this character casts their Special Skill, they have a 50% chance to recover 15% health for all allies. If the Special Skill is fully charged, the chance is 100%.'"
+        ]
     },
     {
         "originalIndex": 1398,
-        "name": "武藏 (Musashi) C1",
+        "name": "勒明盖宁之母 (Mother Lemminkainen)",
         "passives": [
-            "特殊技能驱散：当该角色施放其特殊技能时，会驱散所有敌人身上最新的状态效果增益。"
+            "Power of Sisu: When this character starts a turn with low health for the first time during a battle, they recover 15% health and receive 15% mana."
         ]
     },
     {
         "originalIndex": 1399,
-        "name": "奈斯 (Neith)",
-        "passives": [
-            "抵抗法力生成停止：该角色天生对阻止法力生成的状态异常有抵抗能力。"
-        ]
+        "name": "武藏 (Musashi)",
+        "passives": []
     },
     {
         "originalIndex": 1400,
-        "name": "涅墨西斯 (Nemesis)",
+        "name": "武藏 (Musashi) C1",
         "passives": [
-            "减少防御异常持续时间：该角色从特殊技能中收到的防御状态异常的持续时间减少 2 回合。",
-            "降低小兵生命值：敌方小兵被召唤时继承的生命值减少 -50%。"
+            "Dispel on Special Skill: When this character casts their Special Skill, they dispel the newest status effect buff from all enemies."
         ]
     },
     {
         "originalIndex": 1401,
-        "name": "恶怨妖灵 (Nithgaest)",
+        "name": "奈斯 (Neith)",
         "passives": [
-            "完美精准度：该角色的特殊技能必定命中目标。",
-            "抵抗法力削减：该角色天生对法力削减有抵抗能力。",
-            "受到伤害时获得攻击力叠加：当该角色受到特殊技能伤害时，获得 +30% 的攻击力叠加（最多 10 层）。每回合可叠加一层。"
+            "Resist Mana Generation Stopping: This character has an innate resistance against status ailments that Stop Mana Generation."
         ]
     },
     {
         "originalIndex": 1402,
+        "name": "涅墨西斯 (Nemesis)",
+        "passives": [
+            "Resist Defense Ailments: Duration of the defense status ailments this character receives from Special Skills is decreased by 2 turns.",
+            "Decreased Minion Health: Enemy Minions inherit -50% less Health when summoned."
+        ]
+    },
+    {
+        "originalIndex": 1403,
+        "name": "恶怨妖灵 (Nithgaest)",
+        "passives": [
+            "Perfect Accuracy: This character’s Special Skill never mises its target.",
+            "Resist Mana Reduction: This character has innate resistance against mana reduction.",
+            "Stacking Attack On Damage Received: When this character receives damage from Special Skills, they gain +30% attack Stack (Max: 10). One Stack can be gained per turn."
+        ]
+    },
+    {
+        "originalIndex": 1404,
         "name": "诺伦三女神 (Norns)",
         "passives": []
     },
     {
-        "originalIndex": 1403,
+        "originalIndex": 1405,
         "name": "诺伦三女神 (Norns) C1",
         "passives": []
     },
     {
-        "originalIndex": 1404,
+        "originalIndex": 1406,
         "name": "奥丁 (Odin)",
         "passives": []
     },
     {
-        "originalIndex": 1405,
+        "originalIndex": 1407,
         "name": "奥丁 (Odin) C1",
         "passives": []
     },
     {
-        "originalIndex": 1406,
+        "originalIndex": 1408,
         "name": "欧吉马 (Ogima)",
         "passives": [
-            "法力增加削减：通过特殊技能增加的法力值降低 -80%。此效果对战场上的所有敌人生效。"
-        ]
-    },
-    {
-        "originalIndex": 1407,
-        "name": "奥纳特而 (Onatel)",
-        "passives": [
-            "抵抗致盲：该角色天生对影响精准度的状态异常有抵抗能力。不适用于来自盟友的状态效果。"
-        ]
-    },
-    {
-        "originalIndex": 1408,
-        "name": "帕普罗斯 (Papyros)",
-        "passives": [
-            "特殊技能效果：当该角色施放其特殊技能时，有 60% 几率执行以下操作：",
-            "* 为所有队友提升 10% 的生命值。提升的生命值可以超过最大生命值。",
-            "* 所有队友获得少量法力。"
+            "Mana increase reduction: Reduces the amount of mana increased by Special Skill by -80%. The effect applies to all enemies in the battle."
         ]
     },
     {
         "originalIndex": 1409,
-        "name": "帕普罗斯 (Papyros) C1",
+        "name": "奥纳特而 (Onatel)",
         "passives": [
-            "特殊技能效果：当该角色施放其特殊技能时，有 60% 几率执行以下操作：",
-            "* 为所有队友提升 10% 的生命值。提升的生命值可以超过最大生命值。",
-            "* 所有队友获得少量法力。",
-            "特殊技能必定触发效果：当该角色施放其特殊技能时，任何提供额外施法效果的被动技能都将必定触发。",
-            "抵抗法力生成停止：该角色天生对阻止法力生成的状态异常有抵抗能力。"
+            "Resist Blind: This character has an innate ability to resist status ailments that affect Accuracy. Doesn't apply to status effects from allies."
         ]
     },
     {
         "originalIndex": 1410,
-        "name": "佩诺利特 (Penolite)",
+        "name": "帕普罗斯 (Papyros)",
         "passives": [
-            "石像鬼之肤：每当此石像鬼施放特殊技能时，其石肤会变硬。接下来受到的 4 次伤害将降至 1 点。此效果无法被驱散。"
+            "Effects on Special Skill: 60% chance to perform the following actions when this character casts their Special Skill",
+            " * Boosts health of all allies by 10%. Boosted health can exceed max HP.",
+            " * All allies gain a small amount of mana."
         ]
     },
     {
         "originalIndex": 1411,
-        "name": "波莎 (Persa)",
+        "name": "帕普罗斯 (Papyros) C1",
         "passives": [
-            "特殊技能效果：",
-            "当该角色施放其特殊技能时，有 50% 几率执行以下操作：",
-            "* 对所有敌人造成 80% 的伤害。",
-            "* 施法者获得 +19% 的法力生成，持续 2 回合。"
+            "Effects on Special Skill: 60% chance to perform the following actions when this character casts their Special Skill",
+            " * Boosts health of all allies by 10%. Boosted health can exceed max HP.",
+            " * All allies gain a small amount of mana.",
+            "Guaranteed Effect on Special Skill: When this character casts their Special Skill, any of their Passive Skills that grant extra effects on cast are guaranteed to activate.",
+            "Resist Mana Generation Stopping: This character has an innate resistance against status ailments that affect stop mana generation."
         ]
     },
     {
         "originalIndex": 1412,
-        "name": "波莎 (Persa) C1",
+        "name": "佩诺利特 (Penolite)",
         "passives": [
-            "特殊技能效果：",
-            "当该角色施放其特殊技能时，有 50% 几率执行以下操作：",
-            "* 对所有敌人造成 80% 的伤害。",
-            "* 施法者获得 +19% 的法力生成，持续 2 回合。",
-            "抵抗狂乱：该角色天生对狂乱有抵抗能力。"
+            "Gargoyle’s Stoneskin: Every time this Gargoyle casts a Special Skill, their Stoneskin hardens. The next 4 times they receive damage, it is dropped to 1. This effect can’t be dispelled."
         ]
     },
     {
         "originalIndex": 1413,
-        "name": "佩蒂纳克斯 (Pertinax)",
+        "name": "波莎 (Persa)",
         "passives": [
-            "降低通过特殊技能获得的法力：通过特殊技能增加的法力值降低 -80%。此效果对战场上的所有敌人生效。"
+            "Effects on Special Skill:",
+            "50% chance to perform the following actions when this character casts their Special Skill",
+            " * Deals 80% damage to all enemies.",
+            " * The caster get +19% mana generation for 2 turns."
         ]
     },
     {
         "originalIndex": 1414,
-        "name": "菲洛梅娜 (Philomena)",
+        "name": "波莎 (Persa) C1",
         "passives": [
-            "致盲小兵：所有敌方小兵拥有 -60% 精准度。所有敌方超级小兵拥有 -50% 精准度。",
-            "抵抗狂乱：该角色天生对狂乱有抵抗能力。",
-            "抵抗攻击力削减：该角色天生对影响攻击力的状态异常、叠加和衰退效果有抵抗能力。"
+            "Effects on Special Skill:",
+            "50% chance to perform the following actions when this character casts their Special Skill",
+            " * Deals 80% damage to all enemies.",
+            " * The caster get +19% mana generation for 2 turns.",
+            "Resist Insanity: This character has innate resistance against Insanity."
         ]
     },
     {
         "originalIndex": 1415,
+        "name": "佩蒂纳克斯 (Pertinax)",
+        "passives": [
+            "Reduce Mana Gain from Special Skills: Reduces the amount of mana increased by Special Skill by -80%. The effect applies to all enemies in the battle."
+        ]
+    },
+    {
+        "originalIndex": 1416,
+        "name": "菲洛梅娜 (Philomena)",
+        "passives": [
+            "Minion Blind: All enemies’ Minions have -60% accuracy. All enemies’ Mega Minions have -50% accuracy.",
+            "Resist Insanity: This character has innate resistance against Insanity.",
+            "Resist Attack Reduction: This character has innate resistance against status ailments, stacks and Wither effects that affect attack."
+        ]
+    },
+    {
+        "originalIndex": 1417,
         "name": "波塞冬 (Poseidon)",
         "passives": []
     },
     {
-        "originalIndex": 1416,
+        "originalIndex": 1418,
         "name": "波塞冬 (Poseidon) C1",
         "passives": []
     },
     {
-        "originalIndex": 1417,
+        "originalIndex": 1419,
         "name": "黎登布洛克教授 (Prof. Lidenbrock)",
         "passives": [
-            "战斗开始时获得法力：该角色在战斗开始时获得 20% 的法力。"
+            "Start Battle with Mana: This character receives 20% mana at the start of the battle."
         ]
     },
     {
-        "originalIndex": 1418,
+        "originalIndex": 1420,
         "name": "黎登布洛克教授 (Prof. Lidenbrock) C1",
         "passives": [
-            "战斗开始时获得法力：该角色在战斗开始时获得 20% 的法力。",
-            "特殊技能提升生命值：施放特殊技能时，为所有队友提升 10% 的生命值。"
+            "Start Battle with Mana: This character receives 20% mana at the start of the battle.",
+            "Health Boost on Special Skill: On Special Skill cast, boosts all allies’ HP by 10%."
         ]
     },
     {
-        "originalIndex": 1419,
+        "originalIndex": 1421,
         "name": "郭王后 (Queen Guowang)",
         "passives": []
     },
     {
-        "originalIndex": 1420,
+        "originalIndex": 1422,
         "name": "拉娜 (Rana)",
         "passives": []
     },
     {
-        "originalIndex": 1421,
+        "originalIndex": 1423,
         "name": "拉娜 (Rana) C1",
         "passives": []
     },
     {
-        "originalIndex": 1422,
+        "originalIndex": 1424,
         "name": "兰威尔 (Ranvir)",
         "passives": [
-            "抵抗剧毒：该角色天生对剧毒有抵抗能力。"
+            "Resist Poison: This character has an innate resistance against Poison."
         ]
     },
     {
-        "originalIndex": 1423,
+        "originalIndex": 1425,
         "name": "里斯 (Rhys)",
         "passives": [
-            "法力增加削减：通过特殊技能增加的法力值降低 -80%。此效果对战场上的所有敌人生效。"
+            "Mana increase reduction: Reduces the amount of mana increased by Special Skill by -80%. The effect applies to all enemies in the battle."
         ]
     },
     {
-        "originalIndex": 1424,
+        "originalIndex": 1426,
         "name": "罗克 (Roc)",
         "passives": []
     },
     {
-        "originalIndex": 1425,
+        "originalIndex": 1427,
         "name": "罗克 (Roc) C1",
         "passives": []
     },
     {
-        "originalIndex": 1426,
+        "originalIndex": 1428,
         "name": "罗莎琳德 (Rosalind)",
         "passives": [
-            "抵抗法力削减：该角色天生对法力削减有抵抗能力。",
-            "守卫集结：每 4 回合，移除所有盟友身上的衰退效果。"
-        ]
-    },
-    {
-        "originalIndex": 1427,
-        "name": "阮小七 (Ruan Xiaoqi)",
-        "passives": [
-            "特殊攻击暴击时净化：当该角色用特殊技能造成暴击时，会安全地净化所有盟友最新的可净化状态效果。此效果每回合可激活一次。",
-            "正义反叛：",
-            "* 当该角色的特殊技能击中当前生命值较高的角色时，获得 +20% 的生命加成。",
-            "* 当该角色被当前生命值较高的角色的特殊技能击中时，获得 +20% 的法力。",
-            "* 这些效果每个每回合只能激活一次。",
-            "抵抗流血伤害：该角色天生对流血有抵抗能力。"
-        ]
-    },
-    {
-        "originalIndex": 1428,
-        "name": "萨尔尼斯 (Salniss)",
-        "passives": [
-            "进阶无视小兵：该角色造成的所有伤害无视小兵和巨大体型小兵。",
-            "进阶抵抗负面小兵效果：该角色天生对来自小兵和巨大体型小兵的负面效果及伤害有抵抗能力。",
-            "完美精准度：该角色的特殊技能必定命中目标。"
+            "Resist Mana reduction: This character has an innate resistance against mana Reduction.",
+            "Guard Rally: Every 4 turns, removes all Wither effects from all allies."
         ]
     },
     {
         "originalIndex": 1429,
-        "name": "萨丁皮门特 (Satinpimenter)",
+        "name": "阮小七 (Ruan Xiaoqi)",
         "passives": [
-            "闪避特殊技能伤害：该角色有 15% 的几率闪避造成伤害的特殊技能。"
+            "Cleanse on Critical Special Attack: When this character scores a critical hit with their Special Skill, they safely cleanse the latest cleansable status effect from all allies. This effect can activate once per turn.",
+            "Righteous Rebellion: ",
+            " * When this character’s Special Skill hits a character that had higher current HP, gain +20% boosted health.",
+            " * When this character is hit by the Special Skill of a character that had higher current HP, gain +20% mana.",
+            " * Each of these effects can activate once per turn.",
+            "Resist Bleed Damage: This character has innate resistance against Bleed.    "
         ]
     },
     {
         "originalIndex": 1430,
-        "name": "滚兽 (Scrollbeast)",
+        "name": "萨尔尼斯 (Salniss)",
         "passives": [
-            "特殊技能效果：当该角色施放其特殊技能时，有 60% 几率执行以下操作。",
-            "* 对所有敌人造成 90% 的伤害。",
-            "* 所有敌人获得 -25% 的精准度，持续 3 回合。"
+            "Superior Bypass Minions: All damage done by this character bypasses Minions and Mega Minions.",
+            "Superior Resist Negative Minion Effects: This character has innate resistance against incoming negative effects and damage from Minions and Mega Minions.",
+            "Perfect Accuracy: This character’s Special Skill never misses its targets."
         ]
     },
     {
         "originalIndex": 1431,
-        "name": "沙埃尔 (Shaal)",
+        "name": "萨丁皮门特 (Satinpimenter)",
         "passives": [
-            "抵抗特殊技能格挡：该角色天生对格挡特殊技能的状态异常有抵抗能力。",
-            "修复核心：该角色的构造核心是修复核心。修复核心在该角色每次施放特殊技能时激活：",
-            "* 当修复核心完全充能时，为所有队友提升 25% 的生命值。",
-            "* 治疗量根据核心的充能程度计算，核心激活时消耗所有充能。"
+            "Dodge Special Damage: This character has a 15% chance to dodge Special Skills that deal damage."
         ]
     },
     {
         "originalIndex": 1432,
-        "name": "闪鳞 (Shimmerscale)",
+        "name": "滚兽 (Scrollbeast)",
         "passives": [
-            "抵抗法力削减：该角色天生对法力削减有抵抗能力。",
-            "守卫集结：每 4 回合，移除所有盟友身上的衰退效果。"
+            "Effects on Special Skill: 60% chance to perform the following actions when this character casts their Special Skill.",
+            " * Deals 90% damage to all enemies.",
+            " * All enemies get -25% accuracy for 3 turns."
         ]
     },
     {
         "originalIndex": 1433,
+        "name": "沙埃尔 (Shaal)",
+        "passives": [
+            "Resist Special Skill Blocking: This character has innate resistance against status ailments that block Special Skill.",
+            "Repair Core: The Construct Core of this character is Repair Core. The Repair Core activates each time this character’s Special Skill is cast: * With fully charged Repair Core, boosts the health of all allies by 25%. * The healing is scaled by the amount of charge in the Core, All charge is  exchausted when the Core is activated."
+        ]
+    },
+    {
+        "originalIndex": 1434,
+        "name": "闪鳞 (Shimmerscale)",
+        "passives": [
+            "Resist Mana reduction: This character has an innate resistance against mana Reduction.",
+            "Guard Rally: Every 4 turns, removes all Wither effects from all allies."
+        ]
+    },
+    {
+        "originalIndex": 1435,
         "name": "希芙 (Sif)",
         "passives": []
     },
     {
-        "originalIndex": 1434,
+        "originalIndex": 1436,
         "name": "希芙 (Sif) C1",
         "passives": []
     },
     {
-        "originalIndex": 1435,
+        "originalIndex": 1437,
         "name": "银爪 (Silverpaw)",
         "passives": [
-            "降低治疗量：所有敌人获得的治疗量降低 -50%。"
-        ]
-    },
-    {
-        "originalIndex": 1436,
-        "name": "咕咕鸡先生 (Sir Roostley)",
-        "passives": []
-    },
-    {
-        "originalIndex": 1437,
-        "name": "斯拉古司 (Sludgus)",
-        "passives": [
-            "被击败时召唤史莱姆小兵：当该角色被击败时，为附近的盟友召唤继承其 50% 生命值和 40% 攻击力的史莱姆巨大体型小兵。",
-            "史莱姆小兵分裂：如果该角色一次性失去超过 25% 的最大生命值，会为自己召唤一个继承其 50% 生命值和 40% 攻击力的史莱姆巨大体型小兵。"
+            "Decreased Healing: All enemies get -50% healing."
         ]
     },
     {
         "originalIndex": 1438,
-        "name": "唐三藏 (Tang Sanzang)",
-        "passives": [
-            "受到增益时获得法力：该角色在获得增益或正面效果叠加时，有 50% 的几率获得 10% 的法力。",
-            "受到增益时恢复生命：该角色在获得增益或正面效果叠加时，有 50% 的几率恢复 10% 的生命值。"
-        ]
+        "name": "咕咕鸡先生 (Sir Roostley)",
+        "passives": []
     },
     {
         "originalIndex": 1439,
+        "name": "斯拉古司 (Sludgus)",
+        "passives": [
+            "Slime Minion Upon Defeat: When this character is defeated, they summon Slime Mega Minions to nearby allies with 50% HP and 40% attack inherited from this character.",
+            "Slime Minion Split: If this character loses more than 25% of max health at once, they summon a Slime Mega Minion for themselves with 50% HP and 40% attack."
+        ]
+    },
+    {
+        "originalIndex": 1440,
+        "name": "唐三藏 (Tang Sanzang)",
+        "passives": [
+            "Mana on Buff Received: This character has a 50% chance to recover 10% mana when they receive a buff or possitve stack.",
+            "Health Recovery on Buff Received: This character has a 50% chance to recover 10% health when they receive a buff or possitive stack."
+        ]
+    },
+    {
+        "originalIndex": 1441,
         "name": "托尔 (Thor)",
         "passives": []
     },
     {
-        "originalIndex": 1440,
+        "originalIndex": 1442,
         "name": "托尔 (Thor) C1",
         "passives": []
     },
     {
-        "originalIndex": 1441,
+        "originalIndex": 1443,
         "name": "雷响 (Thunderclap)",
         "passives": [
-            "特殊技能附带持续伤害：当该角色施放其特殊技能时，会给一个随机敌人施加猎人印记。目标在 3 回合内受到 150 点伤害。如果目标已有此效果，则持续时间刷新，伤害增加 150 点，总伤害最高可达 1500 点。",
-            "猎人之毅：当该角色施放其特殊技能时，获得 +20% 的攻击力，持续 3 回合。此效果可与其他改变攻击力的效果并存。"
+            "Damage over time on special: When this character casts their Special Skill, they give a Hunter's Mark on a random enemy. The target receives 150 damage over 3 turns. If a target already has this effect, the duration will be refreshed and the damage will be increased by 150, up to 1500 damage in total.",
+            "Hunter's vigor: When this character casts their Special Skill, they get +20% attack for 3 turns. This effect can be active in addition to other effects that alter attack."
         ]
-    },
-    {
-        "originalIndex": 1442,
-        "name": "杜拉 (Thura)",
-        "passives": [
-            "特殊技能伤害减免：该角色有 10% 的几率将受到的特殊技能直接伤害降至 1 点。",
-            "特殊技能附带持续伤害：当该角色施放其特殊技能时，会给一个随机敌人施加猎人印记。目标在 3 回合内受到 150 点伤害。如果目标已有此效果，则持续时间刷新，伤害增加 150 点，总伤害最高可达 1500 点。"
-        ]
-    },
-    {
-        "originalIndex": 1443,
-        "name": "黄玉 (Topaz)",
-        "passives": []
     },
     {
         "originalIndex": 1444,
-        "name": "乌赖乌斯 (Uraeus)",
+        "name": "杜拉 (Thura)",
         "passives": [
-            "抵抗沙系伤害：该角色天生对沙系伤害有抵抗能力。",
-            "小兵死亡时恢复生命：当该角色拥有的小兵被摧毁时，该角色恢复 50 点生命值。"
+            "Special Skill Damage Reduction: This character has a 10% chance to drop the direct damage received from Special Skills to 1.",
+            "Damage over time on Special: When this character casts their Special Skill, they give a Hunter’s Mark on a random enemy. The target receives 150 damage over 3 turns. If a target already has this effect, the duration will be refreshed and the damage will be increased by 150, up to 1500 damage in total."
         ]
     },
     {
         "originalIndex": 1445,
-        "name": "吠舍离 (Vaishali)",
-        "passives": [
-            "特殊技能叠加：当该角色施放其特殊技能时，所有敌人获得 -5% 的法力生成叠加。如果特殊技能完全充能，则所有敌人获得两层叠加。一个敌人最多可以有 10 层叠加。",
-            "特殊技能获得法力：当该角色施放其特殊技能时，有 50% 的几率为所有队友提供 10% 的法力。如果特殊技能完全充能，则几率为 100%。"
-        ]
+        "name": "黄玉 (Topaz)",
+        "passives": []
     },
     {
         "originalIndex": 1446,
+        "name": "乌赖乌斯 (Uraeus)",
+        "passives": [
+            "Resist Sand Damage: This character has an innate resistance against Sand damage.",
+            "Health from Dead Minion: This character recovers 50 health when a Minion owned by them is destroyed."
+        ]
+    },
+    {
+        "originalIndex": 1447,
+        "name": "吠舍离 (Vaishali)",
+        "passives": [
+            "Stack on Special: When this character casts their Special Skill, all enemies get -5% mana generation stack. If the Special Skill is fully changed, all enemies get two stacks. An enemy can have up to 10 stacks.",
+            "Mana on Special: When this character casts their Special Skill, they have a 50% chance to give 10% mana to all allies. If the Special Skill is fully changed, the chance is 100%."
+        ]
+    },
+    {
+        "originalIndex": 1448,
         "name": "薇薇卡 (Vivica)",
         "passives": []
     },
     {
-        "originalIndex": 1447,
+        "originalIndex": 1449,
         "name": "薇薇卡 (Vivica) C1",
         "passives": []
     },
     {
-        "originalIndex": 1448,
+        "originalIndex": 1450,
         "name": "薇薇卡 (Vivica) C2",
         "passives": []
     },
     {
-        "originalIndex": 1449,
+        "originalIndex": 1451,
         "name": "薇薇卡 (Vivica) 卡通",
         "passives": [
-            "卡通：额外 75% 几率抵抗所有状态异常、法力削减和增益驱散。"
-        ]
-    },
-    {
-        "originalIndex": 1450,
-        "name": "薇薇卡 (Vivica) 玻璃",
-        "passives": [
-            "玻璃：额外 60% 几率将状态异常反弹给攻击者。"
-        ]
-    },
-    {
-        "originalIndex": 1451,
-        "name": "韦恩 (Wayne)",
-        "passives": [
-            "窃取增益：当该角色施放其特殊技能时，有 50% 的几率从一个带有增益的随机敌人身上窃取最新的可驱散增益。如果没有敌人带有增益，则对所有敌人造成 70% 的伤害。"
+            "Toon: 75% extra chance to resist all status ailments, mana reductions and buff dispels."
         ]
     },
     {
         "originalIndex": 1452,
-        "name": "韦尔霍夫 (Wealhtheow)",
+        "name": "薇薇卡 (Vivica) 玻璃",
         "passives": [
-            "受到增益时获得法力：该角色在获得增益或正面效果叠加时获得 5% 的法力。",
-            "状态异常失效或被清除时恢复生命：每当一个状态异常从该角色身上失效、被净化、移除或重新分配时，该角色会恢复 10% 的生命值。此效果每回合只能激活一次。",
-            "抵抗增益免疫：该角色天生对提供新增益免疫的异常状态有抵抗能力。"
+            "Glass: 60% extra chance to reflect status ailments back to the attacker."
         ]
     },
     {
         "originalIndex": 1453,
-        "name": "白兔先生 (White Rabbit)",
-        "passives": []
+        "name": "韦恩 (Wayne)",
+        "passives": [
+            "Steal Buff: When this character casts their Special Skill, they have a 50% chance to steal the newest dispellable buff from a random enemy that has buffs. If no enemy has buffs, deals 70% damage to all enemies."
+        ]
     },
     {
         "originalIndex": 1454,
-        "name": "白兔先生 (White Rabbit) C1",
+        "name": "韦尔霍夫 (Wealhtheow)",
         "passives": [
-            "特殊技能附带莽夫乱拳：施放特殊技能时， 50% 几率对一个随机敌人施加莽夫乱拳，持续 3 回合。"
+            "Mana on Buff Received: This character gains 5% mana when they receive a buff or positive stack.",
+            "Heal when Status Ailment Expires or Is Cleared: This character’s receives 10% health each time a status ailment expires or is cleansed, removed or reallocated from them. This effect can activate only once per turn.",
+            "Resist Buff Immunity: This character has innate resistance against ailments that give immunity to new buffs."
         ]
     },
     {
         "originalIndex": 1455,
-        "name": "维柳 (Willow)",
-        "passives": [
-            "特殊技能恢复生命：当该角色施放其特殊技能时，有 50% 的几率为所有队友恢复 15% 的生命值。如果特殊技能完全充能，则几率为 100%。",
-            "特殊技能叠加：当该角色施放其特殊技能时，所有敌人获得 -5% 的法力生成叠加。如果特殊技能完全充能，则所有敌人获得两层叠加。一个敌人最多可以有 10 层叠加。"
-        ]
+        "name": "白兔先生 (White Rabbit)",
+        "passives": []
     },
     {
         "originalIndex": 1456,
-        "name": "温妮 (Winnie)",
+        "name": "白兔先生 (White Rabbit) C1",
         "passives": [
-            "受到增益时获得法力：在获得增益或正面效果叠加时获得 5% 的法力。",
-            "受到增益时恢复生命：该角色在获得增益或正面效果叠加时恢复 5% 的生命值。"
+            "Mindless Attack On Special Skill: On Special Skill cast, 50% chance to inflict Mindless Attack on a random enemy for 3 turns."
         ]
     },
     {
         "originalIndex": 1457,
-        "name": "沃尔夫冈 (Wolfgang)",
-        "passives": []
+        "name": "维柳 (Willow)",
+        "passives": [
+            "Health recovery on Special: When this character casts their Special Skill, they have a 50% chance to recover 15% health for all allies. If the Special Skill is fully charged, the chance is 100%.",
+            "Stack on Special: When this character casts their Special Skill, all enemies get -5% mana generation stack. If the Special Skill is fully charged, all enemies get two stacks. An enemy can have up to 10 stacks."
+        ]
     },
     {
         "originalIndex": 1458,
-        "name": "沃尔夫冈 (Wolfgang) C1",
+        "name": "温妮 (Winnie)",
         "passives": [
-            "延长状态效果持续时间：增加施放状态效果持续时间的几率。",
-            "* +1 回合： 75%",
-            "* +2 回合： 25%"
+            "Mana on Buff Received: Gain 5% mana when receiving a buff or a positive stack",
+            "Health Recovery on Buff Received: This character recovers 5% health when they receive a buff or a positive stack."
         ]
     },
     {
         "originalIndex": 1459,
-        "name": "武尔夫斯坦 (Wulfstan)",
+        "name": "沃尔夫冈 (Wolfgang)",
         "passives": []
     },
     {
         "originalIndex": 1460,
-        "name": "泽维尔 (Xavier)",
+        "name": "沃尔夫冈 (Wolfgang) C1",
         "passives": [
-            "队伍大师：",
-            "作为攻击方角色的被动技能：该英雄的部队对较弱元素造成额外元素伤害。",
-            "- 造成的额外元素伤害： +100%",
-            "作为防守方角色的被动技能：该英雄受到来自较强元素部队的元素伤害减少。",
-            "- 受到的元素伤害： -10%"
+            "Increased Status Effect Duration: Chance to increase the duration of cast status effects",
+            " * +1 turn: 75%",
+            " * +2 turns: 25%"
         ]
     },
     {
         "originalIndex": 1461,
-        "name": "赞德莉亚 (Zandria)",
-        "passives": [
-            "队伍大师：",
-            "作为攻击方角色的被动技能：该英雄的部队对较弱元素造成额外元素伤害。",
-            "- 造成的额外元素伤害： +100%",
-            "作为防守方角色的被动技能：该英雄受到来自较强元素部队的元素伤害减少。",
-            "- 受到的元素伤害： -10%"
-        ]
+        "name": "武尔夫斯坦 (Wulfstan)",
+        "passives": []
     },
     {
         "originalIndex": 1462,
-        "name": "扎莎 (Zazha)",
+        "name": "泽维尔 (Xavier)",
         "passives": [
-            "飞行动量：如果该角色拥有任意数量的飞行动量，其将获得：",
-            "* 最多 +35% 的法力生成。",
-            "* 最多 +25% 的闪避几率。",
-            "* 角色拥有的飞行动量越少，效果越弱。",
-            "削弱巨大体型小兵：敌方巨大体型小兵的生命值降低 -75%。"
+            "Troop Mastery:",
+            "Passive Skill as attacking character: This hero’s Troops deal extra  elemental damage against weaker element.",
+            " - Dealt extra elemental damage: +100%",
+            "Passive Skill as defending character: This hero receives less elemental  damage from Troops of stronger element.",
+            " - Received elemental damage: -10%"
         ]
     },
     {
         "originalIndex": 1463,
-        "name": "泽克纳 (Zekena)",
+        "name": "赞德莉亚 (Zandria)",
         "passives": [
-            "延长增益持续时间：该英雄从特殊技能中获得的前 3 个增益效果的持续时间增加 1 回合。"
+            "Troop Mastery:",
+            "Passive Skill as attacking character: This hero’s Troops deal extra  elemental damage against weaker element.",
+            " - Dealt extra elemental damage: +100%",
+            "Passive Skill as defending character: This hero receives less elemental  damage from Troops of stronger element.",
+            " - Received elemental damage: -10%"
         ]
     },
     {
         "originalIndex": 1464,
-        "name": "泽克纳 (Zekena) C1",
+        "name": "扎莎 (Zazha)",
         "passives": [
-            "对生命加成目标造成更高伤害：在该角色施放特殊技能后，所有盟友对具有生命加成的目标造成的普通攻击和特殊技能伤害提高 +70%，持续 4 回合。"
+            "Flight Momentum: If this character has any amount of Flight Momentum, they receive:",
+            " * Up to +35% mana generation.",
+            " * Up to +25% chance to dodge.",
+            " * The effects diminish the less Flight Momentum character has.",
+            "Weaker Mega Minions: Enemy Mega Minions have -75% HP."
         ]
     },
     {
         "originalIndex": 1465,
-        "name": "泽努克瓦 (Zenuk'wa)",
+        "name": "泽克纳 (Zekena)",
         "passives": [
-            "特殊技能附带持续伤害：当该角色施放其特殊技能时，所有敌人会在 2 回合内受到 238 点水系伤害。",
-            "抵抗水系伤害：该角色天生对水系伤害有抵抗能力。"
+            "Increase Buff Duration: Duration of the first 3 buff this hero receives from Special Skills is increased by 1 turn."
         ]
     },
     {
         "originalIndex": 1466,
-        "name": "张飞 (Zhang Fei)",
-        "passives": []
+        "name": "泽克纳 (Zekena) C1",
+        "passives": [
+            "Increased Damage Against Boosted Health: After this character casts their Special Skill cast, all allies’ normal attacks and Special Skills deal +70% damage against targets with boosted health for 4 turns ."
+        ]
     },
     {
         "originalIndex": 1467,
-        "name": "张飞 (Zhang Fei) C1",
+        "name": "泽努克瓦 (Zenuk'wa)",
         "passives": [
-            "无法阻止的小兵：",
-            "* 抵抗小兵移除。",
-            "* 无法被阻止获得小兵。",
-            "* 小兵的攻击和技能无法被禁用。"
+            "Damage over time on Special: When this character casts their Special Skill, all enemies receive 238 Water damage over 2 turns.",
+            "Resist Water Damage: This character has innate resistance against Water Damage."
         ]
     },
     {
         "originalIndex": 1468,
-        "name": "诸葛亮 (Zhuge Liang)",
+        "name": "张飞 (Zhang Fei)",
         "passives": []
     },
     {
         "originalIndex": 1469,
-        "name": "诸葛亮 (Zhuge Liang) C1",
+        "name": "张飞 (Zhang Fei) C1",
         "passives": [
-            "无法阻止的小兵：",
-            "* 抵抗小兵移除。",
-            "* 无法被阻止获得小兵。",
-            "* 小兵的攻击和技能无法被禁用。"
+            "Unstoppable Minions:",
+            " * Resistance against Minion removal.",
+            " * Can’t be prevented from receiving Minions.",
+            " * Minion attack and abilities can’t be disabled."
         ]
     },
     {
         "originalIndex": 1470,
-        "name": "佐拉 (Zora)",
-        "passives": [
-            "抵抗法力削减：该角色天生对法力削减有抵抗能力。",
-            "受到状态异常时获得法力：该角色在受到状态异常或负面效果叠加时获得 5% 的法力。"
-        ]
+        "name": "诸葛亮 (Zhuge Liang)",
+        "passives": []
     },
     {
         "originalIndex": 1471,
-        "name": "进阶拟态兽 (Ascension Mimic) Nature",
+        "name": "诸葛亮 (Zhuge Liang) C1",
         "passives": [
-            "完美精准度：该角色的特殊技能必定命中目标。",
-            "拟态兽战利品：该拟态兽在完成关卡时有几率获得额外战利品。",
-            "* 高筒靴。",
-            "* 精致手套。",
-            "* 指南针。",
-            "* 大马士革刀。",
-            "* 策略书卷。",
-            "* 结实绳索。",
-            "* 战斗手册。",
-            "* 保暖披风。",
-            "* 望远镜。"
+            "Unstoppable Minions:",
+            " * Resistance against Minion removal.",
+            " * Can’t be prevented from receiving minions.",
+            " * Minion attacks and abilities can’t be disabled."
         ]
     },
     {
         "originalIndex": 1472,
-        "name": "进阶拟态兽 (Ascension Mimic) Holy",
+        "name": "佐拉 (Zora)",
         "passives": [
-            "完美精准度：该角色的特殊技能必定命中目标。",
-            "拟态兽战利品：该拟态兽在完成关卡时有几率获得额外战利品。",
-            "* 高筒靴。",
-            "* 精致手套。",
-            "* 指南针。",
-            "* 大马士革刀。",
-            "* 策略书卷。",
-            "* 匕首。",
-            "* 剑鞘。",
-            "* 坚固护盾。",
-            "* 神秘补药。"
+            "Resist Mana Reduction: This character has innate resistance against mana reduction.",
+            "Mana on Status Ailment Received: This character gains 5% mana when they receive a status ailment or negative stack."
         ]
     },
     {
         "originalIndex": 1473,
+        "name": "进阶拟态兽 (Ascension Mimic) Nature",
+        "passives": [
+            "Perfect Accuracy: This character’s Special Skill never misses its targets.",
+            "Mimic Loot: This Mimic gives a chance for extra loot when completing stages",
+            " * Tall Boots",
+            " * Fine Gloves",
+            " * Compass",
+            " * Damascus Blade",
+            " * Tome of Tactics",
+            " * Dagger",
+            " * Scabbard",
+            " * Study Shield",
+            " * Mysterious Tonic"
+        ]
+    },
+    {
+        "originalIndex": 1474,
+        "name": "进阶拟态兽 (Ascension Mimic) Holy",
+        "passives": [
+            "Perfect Accuracy: This character’s Special Skill never misses its targets.",
+            "Mimic Loot: This Mimic gives a chance for extra loot when completing stages",
+            " * Tall Boots",
+            " * Fine Gloves",
+            " * Compass",
+            " * Damascus Blade",
+            " * Tome of Tactics",
+            " * Arcane Scipt",
+            " * Chainmail Shirt",
+            " * Orb of Magic",
+            " * Poison Darts"
+        ]
+    },
+    {
+        "originalIndex": 1475,
         "name": "进阶拟态兽 (Ascension Mimic) Dark",
         "passives": [
-            "完美精准度：该角色的特殊技能必定命中目标。",
-            "拟态兽战利品：该拟态兽在完成关卡时有几率获得额外战利品。",
-            "* 高筒靴。",
-            "* 精致手套。",
-            "* 指南针。",
-            "* 大马士革刀。",
-            "* 策略书卷。",
-            "* 秘能手卷。",
-            "* 链甲衫。",
-            "* 魔法球。",
-            "* 毒镖。"
+            "Perfect Accuracy: This character’s Special Skill never misses its targets.",
+            "Mimic Loot: This Mimic gives a chance for extra loot when completing stages",
+            " * Tall Boots",
+            " * Fine Gloves",
+            " * Compass",
+            " * Damascus Blade",
+            " * Tome of Tactics",
+            " * Dagger",
+            " * Scabbard",
+            " * Trap Tools",
+            " * Royal Tabard"
         ]
     }
 ];

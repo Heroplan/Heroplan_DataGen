@@ -31,18 +31,10 @@ SPECIAL_BOOLEAN_TRUE_KEYS = (
 )
 SPECIAL_DURATION_KEYS = ('duration', 'timeOfDay','preparationDuration','mapDuration','aftermathDuration')
 REPLACEMENT_RULES = {
-    ('heroes', 'featuredHeroes','costumeId','id','parentHeroId','includedExtraHeroes'): [
+    ('heroes', 'featuredHeroes','costumeId','id','parentHeroId'): [
         {
-        'file': 'heroes_name_cn.txt', 
-        'prefix': 'heroes.name.',      
-        'compound_rule': {
-            'trigger_keyword': '_costume', 
-            'costume_lookup': {
-                'file': 'heroes_name_fancy_cn.txt',
-                'prefix': 'heroes.name_fancy.'
-            },
-            'separator': '-' 
-        }
+        'file': 'heroes_name_fancy_en.txt', 
+        'prefix': 'heroes.name_fancy.',  
     }
     ],
     ('families', 'featuredFamilies','family'):[ 
