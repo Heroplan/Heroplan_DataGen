@@ -3,7 +3,7 @@ window.allHeroes =
     {
         "name": "Brand",
         "fancy_name": "Carefree Adventurer",
-        "AetherPower": "",
+        "AetherPower": "Attack Up",
         "color": "Blue",
         "class": "Fighter",
         "speed": "Average",
@@ -34,7 +34,7 @@ window.allHeroes =
     {
         "name": "Sigrunn",
         "fancy_name": "Fierce Maiden",
-        "AetherPower": "",
+        "AetherPower": "Attack Up",
         "color": "Blue",
         "class": "Fighter",
         "speed": "Fast",
@@ -65,7 +65,7 @@ window.allHeroes =
     {
         "name": "Olaf",
         "fancy_name": "Serious Guardsman",
-        "AetherPower": "",
+        "AetherPower": "Special Armor",
         "color": "Blue",
         "class": "Paladin",
         "speed": "Average",
@@ -96,7 +96,7 @@ window.allHeroes =
     {
         "name": "Ragnhild",
         "fancy_name": "Exiled Warrior",
-        "AetherPower": "",
+        "AetherPower": "Attack Up",
         "color": "Blue",
         "class": "Fighter",
         "speed": "Average",
@@ -127,7 +127,7 @@ window.allHeroes =
     {
         "name": "Toril",
         "fancy_name": "Veteran Battler",
-        "AetherPower": "",
+        "AetherPower": "Defense Up",
         "color": "Blue",
         "class": "Barbarian",
         "speed": "Average",
@@ -835,7 +835,7 @@ window.allHeroes =
             "Debuffers (DEF)"
         ],
         "source": "Costume Quest",
-        "Release date": "2020-01-20",
+        "Release date": "2020-01-01",
         "star": 3,
         "power": 470,
         "attack": 423,
@@ -1233,7 +1233,7 @@ window.allHeroes =
     {
         "name": "Joukahainen",
         "fancy_name": "Ferocious Hunter",
-        "AetherPower": "Pain Return",
+        "AetherPower": "Counterattack",
         "color": "Blue",
         "class": "Monk",
         "speed": "Average",
@@ -1589,7 +1589,7 @@ window.allHeroes =
     {
         "name": "Nordri C1",
         "fancy_name": "Explorer Dwarf of Jotunheim",
-        "AetherPower": "Pain Return",
+        "AetherPower": "Counterattack",
         "color": "Blue",
         "class": "Monk",
         "speed": "Average",
@@ -3670,7 +3670,7 @@ window.allHeroes =
     {
         "name": "Grimm C2",
         "fancy_name": "Dark Messenger",
-        "AetherPower": "Pain Return",
+        "AetherPower": "Counterattack",
         "color": "Blue",
         "class": "Ranger",
         "speed": "Average",
@@ -3807,7 +3807,7 @@ window.allHeroes =
             "Debuffers (DEF)"
         ],
         "source": "Costume Quest",
-        "Release date": "2024-12-24",
+        "Release date": "2024-12-25",
         "star": 4,
         "power": 758,
         "attack": 843,
@@ -4505,7 +4505,7 @@ window.allHeroes =
             "Bypassers"
         ],
         "source": "Tower - Owls",
-        "Release date": "2023-12-19",
+        "Release date": "2023-12-20",
         "star": 4,
         "power": 693,
         "attack": 724,
@@ -4826,7 +4826,7 @@ window.allHeroes =
             "Snipers"
         ],
         "source": "Costume Quest",
-        "Release date": "2020-01-20",
+        "Release date": "2020-01-01",
         "star": 4,
         "power": 688,
         "attack": 659,
@@ -5049,7 +5049,7 @@ window.allHeroes =
     {
         "name": "Triton C1",
         "fancy_name": "Champion of Atlantis",
-        "AetherPower": "Pain Return",
+        "AetherPower": "Counterattack",
         "color": "Blue",
         "class": "Barbarian",
         "speed": "Fast",
@@ -5293,7 +5293,7 @@ window.allHeroes =
     {
         "name": "Zila Lei C1",
         "fancy_name": "Octopod Dancer",
-        "AetherPower": "Pain Return",
+        "AetherPower": "Counterattack",
         "color": "Blue",
         "class": "Monk",
         "speed": "Fast",
@@ -5369,7 +5369,7 @@ window.allHeroes =
             "Fiends Summoners"
         ],
         "source": "Monster Island Summon",
-        "Release date": "2022-09-15",
+        "Release date": "2022-09-18",
         "star": 5,
         "power": 888,
         "attack": 803,
@@ -6344,7 +6344,7 @@ window.allHeroes =
     {
         "name": "Armel",
         "fancy_name": "Arctic Ambassador",
-        "AetherPower": "Pain Return",
+        "AetherPower": "Counterattack",
         "color": "Blue",
         "class": "Ranger",
         "speed": "Fast",
@@ -9002,7 +9002,7 @@ window.allHeroes =
             "Bypassers"
         ],
         "source": "Extra Draw - Secret Summon",
-        "Release date": "2025-05-31",
+        "Release date": "2025-06-06",
         "star": 5,
         "power": 1200,
         "attack": 1236,
@@ -10063,7 +10063,7 @@ window.allHeroes =
     {
         "name": "Gloozmer",
         "fancy_name": "Gentle Trickster Slime",
-        "AetherPower": "Bulwark",
+        "AetherPower": "Special Boost",
         "color": "Blue",
         "class": "Wizard",
         "speed": "Fast",
@@ -10827,7 +10827,7 @@ window.allHeroes =
             "Debuffers (DEF)"
         ],
         "source": "Costume Quest",
-        "Release date": "2020-01-20",
+        "Release date": "2020-01-01",
         "star": 5,
         "power": 848,
         "attack": 935,
@@ -11000,7 +11000,7 @@ window.allHeroes =
     {
         "name": "Isarnia Glass",
         "fancy_name": "Vitrail of Glaceholm",
-        "AetherPower": "Regen",
+        "AetherPower": "Defense Up",
         "color": "Blue",
         "class": "Wizard",
         "speed": "Slow",
@@ -14769,7 +14769,7 @@ window.allHeroes =
     {
         "name": "Quinn",
         "fancy_name": "Cosmic Chef",
-        "AetherPower": "Pain Return",
+        "AetherPower": "Counterattack",
         "color": "Blue",
         "class": "Cleric",
         "speed": "Fast",
@@ -15120,7 +15120,7 @@ window.allHeroes =
             "Debuffers (ATK)"
         ],
         "source": "Costume Quest",
-        "Release date": "2020-01-20",
+        "Release date": "2020-01-01",
         "star": 5,
         "power": 849,
         "attack": 734,
@@ -15303,7 +15303,7 @@ window.allHeroes =
             "Debuffers (ATK)"
         ],
         "source": "Costume Quest",
-        "Release date": "2024-12-24",
+        "Release date": "2024-12-25",
         "star": 5,
         "power": 1235,
         "attack": 1296,
@@ -15436,7 +15436,7 @@ window.allHeroes =
     {
         "name": "Rumpelstiltskin C1",
         "fancy_name": "Eternal Trickster",
-        "AetherPower": "Pain Return",
+        "AetherPower": "Counterattack",
         "color": "Blue",
         "class": "Monk",
         "speed": "Average",
@@ -15881,7 +15881,7 @@ window.allHeroes =
     {
         "name": "Sawano",
         "fancy_name": "Faithful Kunoichi",
-        "AetherPower": "Pain Return",
+        "AetherPower": "Counterattack",
         "color": "Blue",
         "class": "Paladin",
         "speed": "Charge",
@@ -17531,7 +17531,7 @@ window.allHeroes =
     {
         "name": "Thorne C2",
         "fancy_name": "Commander Frostmorrow",
-        "AetherPower": "Pain Return",
+        "AetherPower": "Counterattack",
         "color": "Blue",
         "class": "Barbarian",
         "speed": "Average",
@@ -18506,7 +18506,7 @@ window.allHeroes =
     {
         "name": "Aife",
         "fancy_name": "Village Girl",
-        "AetherPower": "",
+        "AetherPower": "Attack Up",
         "color": "Green",
         "class": "Fighter",
         "speed": "Fast",
@@ -18537,7 +18537,7 @@ window.allHeroes =
     {
         "name": "Derric",
         "fancy_name": "Simple Woodsman",
-        "AetherPower": "",
+        "AetherPower": "Attack Up",
         "color": "Green",
         "class": "Fighter",
         "speed": "Average",
@@ -18568,7 +18568,7 @@ window.allHeroes =
     {
         "name": "Brogan",
         "fancy_name": "Mercenary Thug",
-        "AetherPower": "",
+        "AetherPower": "Attack Up",
         "color": "Green",
         "class": "Fighter",
         "speed": "Average",
@@ -18599,7 +18599,7 @@ window.allHeroes =
     {
         "name": "Jenneh",
         "fancy_name": "Plant Whisperer",
-        "AetherPower": "",
+        "AetherPower": "Attack Up",
         "color": "Green",
         "class": "Druid",
         "speed": "Average",
@@ -18630,7 +18630,7 @@ window.allHeroes =
     {
         "name": "Needler",
         "fancy_name": "Nimble Hunter",
-        "AetherPower": "",
+        "AetherPower": "Attack Up",
         "color": "Green",
         "class": "Ranger",
         "speed": "Fast",
@@ -19268,7 +19268,7 @@ window.allHeroes =
             "Debuffers (DEF)"
         ],
         "source": "Costume Quest",
-        "Release date": "2020-01-20",
+        "Release date": "2020-01-01",
         "star": 3,
         "power": 469,
         "attack": 475,
@@ -20819,7 +20819,7 @@ window.allHeroes =
     {
         "name": "Isshtak C1",
         "fancy_name": "Lizardfolk Ancestor",
-        "AetherPower": "Pain Return",
+        "AetherPower": "Counterattack",
         "color": "Green",
         "class": "Monk",
         "speed": "Average",
@@ -22097,7 +22097,7 @@ window.allHeroes =
     {
         "name": "Buddy",
         "fancy_name": "Santa's Little Helper",
-        "AetherPower": "Attack Up",
+        "AetherPower": "Special Armor",
         "color": "Green",
         "class": "Ranger",
         "speed": "Average",
@@ -22115,7 +22115,7 @@ window.allHeroes =
             "Minions Summoners"
         ],
         "source": "Monthly Event - Winter",
-        "Release date": "2018-12-02",
+        "Release date": "2020-12-01",
         "star": 4,
         "power": 649,
         "attack": 531,
@@ -23972,7 +23972,7 @@ window.allHeroes =
             "Heal over Time (HoT)"
         ],
         "source": "Costume Quest",
-        "Release date": "2020-01-20",
+        "Release date": "2020-01-01",
         "star": 4,
         "power": 683,
         "attack": 711,
@@ -25089,7 +25089,7 @@ window.allHeroes =
             "Debuffers (ATK)"
         ],
         "source": "Costume Quest",
-        "Release date": "2020-01-20",
+        "Release date": "2020-01-01",
         "star": 4,
         "power": 688,
         "attack": 792,
@@ -28165,7 +28165,7 @@ window.allHeroes =
     {
         "name": "Elkanen C2",
         "fancy_name": "Moonlit King",
-        "AetherPower": "Pain Return",
+        "AetherPower": "Counterattack",
         "color": "Green",
         "class": "Paladin",
         "speed": "Fast",
@@ -28703,7 +28703,7 @@ window.allHeroes =
             "Bypassers"
         ],
         "source": "Extra Draw - Secret Summon",
-        "Release date": "2025-05-31",
+        "Release date": "2025-06-06",
         "star": 5,
         "power": 1200,
         "attack": 1236,
@@ -28763,7 +28763,7 @@ window.allHeroes =
     {
         "name": "Fafnir",
         "fancy_name": "Dwarven Lord of Myrkheim",
-        "AetherPower": "Pain Return",
+        "AetherPower": "Counterattack",
         "color": "Green",
         "class": "Fighter",
         "speed": "Fast",
@@ -29046,7 +29046,7 @@ window.allHeroes =
     {
         "name": "Foxley",
         "fancy_name": "The Outlaw Gray Fox",
-        "AetherPower": "Pain Return",
+        "AetherPower": "Counterattack",
         "color": "Green",
         "class": "Ranger",
         "speed": "Fast",
@@ -31238,7 +31238,7 @@ window.allHeroes =
             "Debuffers (ATK)"
         ],
         "source": "Costume Quest",
-        "Release date": "2020-01-20",
+        "Release date": "2020-01-01",
         "star": 5,
         "power": 849,
         "attack": 744,
@@ -32672,7 +32672,7 @@ window.allHeroes =
             "Snipers"
         ],
         "source": "Costume Quest",
-        "Release date": "2020-01-20",
+        "Release date": "2020-01-01",
         "star": 5,
         "power": 849,
         "attack": 832,
@@ -32889,7 +32889,7 @@ window.allHeroes =
     {
         "name": "Limeboire",
         "fancy_name": "Moth Barkeeper",
-        "AetherPower": "Attack Up",
+        "AetherPower": "Defense Up",
         "color": "Green",
         "class": "Paladin",
         "speed": "Very Slow",
@@ -34772,7 +34772,7 @@ window.allHeroes =
     {
         "name": "Prince Siegfried",
         "fancy_name": "Future King",
-        "AetherPower": "Pain Return",
+        "AetherPower": "Counterattack",
         "color": "Green",
         "class": "Druid",
         "speed": "Slow",
@@ -36371,7 +36371,7 @@ window.allHeroes =
     {
         "name": "Tarlak",
         "fancy_name": "Prince of the Jungle",
-        "AetherPower": "Pain Return",
+        "AetherPower": "Counterattack",
         "color": "Green",
         "class": "Monk",
         "speed": "Average",
@@ -36554,7 +36554,7 @@ window.allHeroes =
     {
         "name": "Telluria",
         "fancy_name": "Forest God",
-        "AetherPower": "Bulwark",
+        "AetherPower": "Special Boost",
         "color": "Green",
         "class": "Paladin",
         "speed": "Average",
@@ -36573,7 +36573,7 @@ window.allHeroes =
             "Minions Summoners"
         ],
         "source": "Legends Summon - Hero of the Month",
-        "Release date": "2020-03-01",
+        "Release date": "2022-04-01",
         "star": 5,
         "power": 772,
         "attack": 613,
@@ -36763,7 +36763,7 @@ window.allHeroes =
     {
         "name": "The Hatter C1",
         "fancy_name": "Tea Connoisseur of Wonderland",
-        "AetherPower": "Pain Return",
+        "AetherPower": "Counterattack",
         "color": "Green",
         "class": "Wizard",
         "speed": "Average",
@@ -38120,7 +38120,7 @@ window.allHeroes =
     {
         "name": "Fletcher",
         "fancy_name": "Thief with Big Plans",
-        "AetherPower": "",
+        "AetherPower": "Attack Up",
         "color": "Purple",
         "class": "Rogue",
         "speed": "Fast",
@@ -38151,7 +38151,7 @@ window.allHeroes =
     {
         "name": "Nightshade",
         "fancy_name": "Aspiring Archer",
-        "AetherPower": "",
+        "AetherPower": "Attack Up",
         "color": "Purple",
         "class": "Ranger",
         "speed": "Fast",
@@ -38182,7 +38182,7 @@ window.allHeroes =
     {
         "name": "Julius",
         "fancy_name": "Morgovian Fugitive",
-        "AetherPower": "",
+        "AetherPower": "Attack Up",
         "color": "Purple",
         "class": "Fighter",
         "speed": "Fast",
@@ -38213,7 +38213,7 @@ window.allHeroes =
     {
         "name": "Layla",
         "fancy_name": "Rebellious Rogue",
-        "AetherPower": "",
+        "AetherPower": "Attack Up",
         "color": "Purple",
         "class": "Rogue",
         "speed": "Fast",
@@ -38244,7 +38244,7 @@ window.allHeroes =
     {
         "name": "Silthus",
         "fancy_name": "Shambling Remnant",
-        "AetherPower": "",
+        "AetherPower": "Defense Up",
         "color": "Purple",
         "class": "Barbarian",
         "speed": "Average",
@@ -38332,7 +38332,7 @@ window.allHeroes =
     {
         "name": "An-Windr",
         "fancy_name": "Cursed Viking Bruiser",
-        "AetherPower": "Pain Return",
+        "AetherPower": "Counterattack",
         "color": "Purple",
         "class": "Ranger",
         "speed": "Slow",
@@ -39089,7 +39089,7 @@ window.allHeroes =
     {
         "name": "Gill-Ra",
         "fancy_name": "Shallows Hunter",
-        "AetherPower": "Pain Return",
+        "AetherPower": "Counterattack",
         "color": "Purple",
         "class": "Sorcerer",
         "speed": "Slow",
@@ -40463,7 +40463,7 @@ window.allHeroes =
             "Snipers"
         ],
         "source": "Costume Quest",
-        "Release date": "2020-01-20",
+        "Release date": "2020-01-01",
         "star": 3,
         "power": 470,
         "attack": 423,
@@ -41399,7 +41399,7 @@ window.allHeroes =
     {
         "name": "Cyprian",
         "fancy_name": "Deathbound Lord",
-        "AetherPower": "Pain Return",
+        "AetherPower": "Counterattack",
         "color": "Purple",
         "class": "Paladin",
         "speed": "Average",
@@ -41554,7 +41554,7 @@ window.allHeroes =
     {
         "name": "Cyprian Toon",
         "fancy_name": "Deathbound Toon",
-        "AetherPower": "Pain Return",
+        "AetherPower": "Counterattack",
         "color": "Purple",
         "class": "Paladin",
         "speed": "Average",
@@ -41605,7 +41605,7 @@ window.allHeroes =
     {
         "name": "Cyprian Glass",
         "fancy_name": "Deathbound Vitrail",
-        "AetherPower": "Pain Return",
+        "AetherPower": "Special Armor",
         "color": "Purple",
         "class": "Paladin",
         "speed": "Average",
@@ -41724,7 +41724,7 @@ window.allHeroes =
     },
     {
         "name": "Foxglove",
-        "fancy_name": "The Sly Bat-eared Fox    ",
+        "fancy_name": "The Sly Bat-eared Fox",
         "AetherPower": "Special Boost",
         "color": "Purple",
         "class": "Wizard",
@@ -42113,7 +42113,7 @@ window.allHeroes =
     {
         "name": "Jabbar",
         "fancy_name": "Brute of Sand Empire",
-        "AetherPower": "Pain Return",
+        "AetherPower": "Counterattack",
         "color": "Purple",
         "class": "Monk",
         "speed": "Average",
@@ -42820,7 +42820,7 @@ window.allHeroes =
             "Heal over Time (HoT)"
         ],
         "source": "Costume Quest",
-        "Release date": "2020-01-20",
+        "Release date": "2020-01-01",
         "star": 4,
         "power": 690,
         "attack": 645,
@@ -43190,7 +43190,7 @@ window.allHeroes =
     {
         "name": "Sabina C2",
         "fancy_name": "Deathbound Princess",
-        "AetherPower": "Pain Return",
+        "AetherPower": "Counterattack",
         "color": "Purple",
         "class": "Monk",
         "speed": "Average",
@@ -43771,7 +43771,7 @@ window.allHeroes =
             "Debuffers (DEF)"
         ],
         "source": "Costume Quest",
-        "Release date": "2020-01-20",
+        "Release date": "2020-01-01",
         "star": 4,
         "power": 684,
         "attack": 701,
@@ -45055,7 +45055,7 @@ window.allHeroes =
     {
         "name": "Asketel",
         "fancy_name": "Seeker of Lost Knowledge",
-        "AetherPower": "Ailment Reflect",
+        "AetherPower": "Fiend Resist",
         "color": "Purple",
         "class": "Wizard",
         "speed": "Average",
@@ -45584,7 +45584,7 @@ window.allHeroes =
     {
         "name": "Carta",
         "fancy_name": "Cartographer Construct",
-        "AetherPower": "Pain Return",
+        "AetherPower": "Counterattack",
         "color": "Purple",
         "class": "Wizard",
         "speed": "Average",
@@ -46213,7 +46213,7 @@ window.allHeroes =
     {
         "name": "Darkbeat",
         "fancy_name": "Mosh Pit Maestro",
-        "AetherPower": "Pain Return",
+        "AetherPower": "Counterattack",
         "color": "Purple",
         "class": "Monk",
         "speed": "Average",
@@ -47353,7 +47353,7 @@ window.allHeroes =
             "Bypassers"
         ],
         "source": "Extra Draw - Secret Summon",
-        "Release date": "2025-05-31",
+        "Release date": "2025-06-06",
         "star": 5,
         "power": 1200,
         "attack": 1236,
@@ -48660,7 +48660,7 @@ window.allHeroes =
     {
         "name": "Hreidmarr",
         "fancy_name": "Dwarven Mountain King",
-        "AetherPower": "Pain Return",
+        "AetherPower": "Counterattack",
         "color": "Purple",
         "class": "Wizard",
         "speed": "Slow",
@@ -49345,7 +49345,7 @@ window.allHeroes =
     {
         "name": "Kageburado C1",
         "fancy_name": "Beetle Samurai",
-        "AetherPower": "Pain Return",
+        "AetherPower": "Counterattack",
         "color": "Purple",
         "class": "Paladin",
         "speed": "Very Fast",
@@ -49414,7 +49414,7 @@ window.allHeroes =
     {
         "name": "Karnov",
         "fancy_name": "Champion Bruiser",
-        "AetherPower": "Pain Return",
+        "AetherPower": "Counterattack",
         "color": "Purple",
         "class": "Monk",
         "speed": "Slow",
@@ -49910,7 +49910,7 @@ window.allHeroes =
     {
         "name": "Khonshu C1",
         "fancy_name": "Knight of the Moon",
-        "AetherPower": "Pain Return",
+        "AetherPower": "Counterattack",
         "color": "Purple",
         "class": "Paladin",
         "speed": "Very Fast",
@@ -51604,7 +51604,7 @@ window.allHeroes =
     {
         "name": "Mok-Arr C1",
         "fancy_name": "Savage Blademaster",
-        "AetherPower": "Pain Return",
+        "AetherPower": "Counterattack",
         "color": "Purple",
         "class": "Fighter",
         "speed": "Average",
@@ -52089,7 +52089,7 @@ window.allHeroes =
     {
         "name": "Obakan",
         "fancy_name": "Praetorian Bodyguard",
-        "AetherPower": "Pain Return",
+        "AetherPower": "Counterattack",
         "color": "Purple",
         "class": "Barbarian",
         "speed": "Fast",
@@ -52264,7 +52264,7 @@ window.allHeroes =
     {
         "name": "Obakan Toon",
         "fancy_name": "Praetorian Toon",
-        "AetherPower": "Pain Return",
+        "AetherPower": "Counterattack",
         "color": "Purple",
         "class": "Barbarian",
         "speed": "Fast",
@@ -52330,7 +52330,7 @@ window.allHeroes =
     {
         "name": "Obakan Glass",
         "fancy_name": "Praetorian Vitrail",
-        "AetherPower": "Pain Return",
+        "AetherPower": "Counterattack",
         "color": "Purple",
         "class": "Barbarian",
         "speed": "Fast",
@@ -53956,7 +53956,7 @@ window.allHeroes =
             "Snipers"
         ],
         "source": "Costume Quest",
-        "Release date": "2024-12-24",
+        "Release date": "2024-12-25",
         "star": 5,
         "power": 1242,
         "attack": 1235,
@@ -54307,7 +54307,7 @@ window.allHeroes =
     {
         "name": "Serena",
         "fancy_name": "Shoreside Socialite",
-        "AetherPower": "Pain Return",
+        "AetherPower": "Counterattack",
         "color": "Purple",
         "class": "Monk",
         "speed": "Average",
@@ -56808,7 +56808,7 @@ window.allHeroes =
     {
         "name": "Xie Zi Jing",
         "fancy_name": "Scorpion Demoness",
-        "AetherPower": "Pain Return",
+        "AetherPower": "Counterattack",
         "color": "Purple",
         "class": "Fighter",
         "speed": "Fast",
@@ -57294,7 +57294,7 @@ window.allHeroes =
     {
         "name": "Sharan",
         "fancy_name": "Talented Trapper",
-        "AetherPower": "",
+        "AetherPower": "Defense Up",
         "color": "Red",
         "class": "Ranger",
         "speed": "Average",
@@ -57325,7 +57325,7 @@ window.allHeroes =
     {
         "name": "Tudan",
         "fancy_name": "Sly Sellsword",
-        "AetherPower": "",
+        "AetherPower": "Attack Up",
         "color": "Red",
         "class": "Rogue",
         "speed": "Fast",
@@ -57356,7 +57356,7 @@ window.allHeroes =
     {
         "name": "Farid",
         "fancy_name": "Rugged Brawler",
-        "AetherPower": "",
+        "AetherPower": "Attack Up",
         "color": "Red",
         "class": "Barbarian",
         "speed": "Average",
@@ -57387,7 +57387,7 @@ window.allHeroes =
     {
         "name": "Jill",
         "fancy_name": "Youthful Traveler",
-        "AetherPower": "",
+        "AetherPower": "Defense Up",
         "color": "Red",
         "class": "Fighter",
         "speed": "Average",
@@ -57418,7 +57418,7 @@ window.allHeroes =
     {
         "name": "Shaarkot",
         "fancy_name": "Servant of the Old Ones",
-        "AetherPower": "",
+        "AetherPower": "Defense Up",
         "color": "Red",
         "class": "Sorcerer",
         "speed": "Average",
@@ -57449,7 +57449,7 @@ window.allHeroes =
     {
         "name": "Zudak",
         "fancy_name": "Half-Blood Fighter",
-        "AetherPower": "",
+        "AetherPower": "Attack Up",
         "color": "Red",
         "class": "Barbarian",
         "speed": "Average",
@@ -57912,7 +57912,7 @@ window.allHeroes =
     {
         "name": "Bauchan",
         "fancy_name": "Imp of Avalon",
-        "AetherPower": "Pain Return",
+        "AetherPower": "Counterattack",
         "color": "Red",
         "class": "Monk",
         "speed": "Average",
@@ -58427,7 +58427,7 @@ window.allHeroes =
             "Heal over Time (HoT)"
         ],
         "source": "Costume Quest",
-        "Release date": "2020-01-20",
+        "Release date": "2020-01-01",
         "star": 3,
         "power": 474,
         "attack": 501,
@@ -59645,7 +59645,7 @@ window.allHeroes =
     {
         "name": "Squire Wabbit",
         "fancy_name": "Squire of Springvale",
-        "AetherPower": "Rage",
+        "AetherPower": "Special Boost",
         "color": "Red",
         "class": "Ranger",
         "speed": "Fast",
@@ -60185,7 +60185,7 @@ window.allHeroes =
     {
         "name": "Boldtusk C1",
         "fancy_name": "Cast Iron Chef",
-        "AetherPower": "Pain Return",
+        "AetherPower": "Counterattack",
         "color": "Red",
         "class": "Monk",
         "speed": "Average",
@@ -60199,7 +60199,7 @@ window.allHeroes =
             "Healers"
         ],
         "source": "Costume Quest",
-        "Release date": "2020-01-20",
+        "Release date": "2020-01-01",
         "star": 4,
         "power": 690,
         "attack": 633,
@@ -60377,7 +60377,7 @@ window.allHeroes =
             "Reflectors"
         ],
         "source": "Costume Quest",
-        "Release date": "2024-12-24",
+        "Release date": "2024-12-25",
         "star": 4,
         "power": 761,
         "attack": 708,
@@ -60665,7 +60665,7 @@ window.allHeroes =
     {
         "name": "Colen C2",
         "fancy_name": "Brave Tracker",
-        "AetherPower": "Pain Return",
+        "AetherPower": "Counterattack",
         "color": "Red",
         "class": "Ranger",
         "speed": "Slow",
@@ -60864,7 +60864,7 @@ window.allHeroes =
     {
         "name": "Eichbelborg",
         "fancy_name": "Boastful Bodybuilder",
-        "AetherPower": "Pain Return",
+        "AetherPower": "Counterattack",
         "color": "Red",
         "class": "Monk",
         "speed": "Fast",
@@ -61152,7 +61152,7 @@ window.allHeroes =
     {
         "name": "Gormek C2",
         "fancy_name": "The Epicurean",
-        "AetherPower": "Pain Return",
+        "AetherPower": "Counterattack",
         "color": "Red",
         "class": "Cleric",
         "speed": "Average",
@@ -63159,7 +63159,7 @@ window.allHeroes =
     {
         "name": "Sumle",
         "fancy_name": "Burly Fire Giant",
-        "AetherPower": "Pain Return",
+        "AetherPower": "Counterattack",
         "color": "Red",
         "class": "Monk",
         "speed": "Slow",
@@ -64197,7 +64197,7 @@ window.allHeroes =
     {
         "name": "Aradia",
         "fancy_name": "Masked Goddess of Witchcraft",
-        "AetherPower": "Pain Return",
+        "AetherPower": "Counterattack",
         "color": "Red",
         "class": "Wizard",
         "speed": "Average",
@@ -65037,7 +65037,7 @@ window.allHeroes =
             "DoT Attackers"
         ],
         "source": "Costume Quest",
-        "Release date": "2024-12-24",
+        "Release date": "2024-12-25",
         "star": 5,
         "power": 1242,
         "attack": 1337,
@@ -67369,7 +67369,7 @@ window.allHeroes =
     {
         "name": "El Duque",
         "fancy_name": "Exalted Gargoyle",
-        "AetherPower": "Pain Return",
+        "AetherPower": "Counterattack",
         "color": "Red",
         "class": "Monk",
         "speed": "Very Fast",
@@ -67564,7 +67564,7 @@ window.allHeroes =
             "Counterattackers"
         ],
         "source": "Costume Quest",
-        "Release date": "2020-01-20",
+        "Release date": "2020-01-01",
         "star": 5,
         "power": 848,
         "attack": 909,
@@ -67937,7 +67937,7 @@ window.allHeroes =
     {
         "name": "Elizabeth C1",
         "fancy_name": "Bridal Aristocrat",
-        "AetherPower": "Pain Return",
+        "AetherPower": "Counterattack",
         "color": "Red",
         "class": "Wizard",
         "speed": "Average",
@@ -68403,7 +68403,7 @@ window.allHeroes =
             "Bypassers"
         ],
         "source": "Extra Draw - Secret Summon",
-        "Release date": "2025-05-31",
+        "Release date": "2025-06-06",
         "star": 5,
         "power": 1200,
         "attack": 1236,
@@ -68751,7 +68751,7 @@ window.allHeroes =
     {
         "name": "Fulvia",
         "fancy_name": "Queen of Owl Tower",
-        "AetherPower": "Pain Return",
+        "AetherPower": "Counterattack",
         "color": "Red",
         "class": "Cleric",
         "speed": "Average",
@@ -69157,8 +69157,8 @@ window.allHeroes =
     },
     {
         "name": "Gooze",
-        "fancy_name": "Escaped Alchemy Lab Goo",
-        "AetherPower": "Special Boost",
+        "fancy_name": "Escaped Alchemy lab Goo",
+        "AetherPower": "Special Armor",
         "color": "Red",
         "class": "Sorcerer",
         "speed": "Average",
@@ -69295,7 +69295,7 @@ window.allHeroes =
     {
         "name": "Gravemaker C1",
         "fancy_name": "Burning Avenger",
-        "AetherPower": "Pain Return",
+        "AetherPower": "Counterattack",
         "color": "Red",
         "class": "Paladin",
         "speed": "Very Fast",
@@ -70577,7 +70577,7 @@ window.allHeroes =
     {
         "name": "Jean-Francois",
         "fancy_name": "Musketeer Mage",
-        "AetherPower": "Pain Return",
+        "AetherPower": "Counterattack",
         "color": "Red",
         "class": "Wizard",
         "speed": "Fast",
@@ -70768,7 +70768,7 @@ window.allHeroes =
     {
         "name": "Khagan C2",
         "fancy_name": "Chief of Leopards",
-        "AetherPower": "Pain Return",
+        "AetherPower": "Counterattack",
         "color": "Red",
         "class": "Druid",
         "speed": "Slow",
@@ -71342,7 +71342,7 @@ window.allHeroes =
     {
         "name": "Lasalle",
         "fancy_name": "Flamboyant Hussar of Atlantis",
-        "AetherPower": "Pain Return",
+        "AetherPower": "Counterattack",
         "color": "Red",
         "class": "Fighter",
         "speed": "Changing Tides",
@@ -72112,7 +72112,7 @@ window.allHeroes =
             "Snipers"
         ],
         "source": "Costume Quest",
-        "Release date": "2025-02-10",
+        "Release date": "2025-02-11",
         "star": 5,
         "power": 1237,
         "attack": 1310,
@@ -73147,7 +73147,7 @@ window.allHeroes =
     {
         "name": "Octros",
         "fancy_name": "Octopod Champion",
-        "AetherPower": "Pain Return",
+        "AetherPower": "Counterattack",
         "color": "Red",
         "class": "Fighter",
         "speed": "Average",
@@ -73281,7 +73281,7 @@ window.allHeroes =
     {
         "name": "Omen",
         "fancy_name": "Hallowed by the Devil Reef",
-        "AetherPower": "Pain Return",
+        "AetherPower": "Counterattack",
         "color": "Red",
         "class": "Sorcerer",
         "speed": "Fast",
@@ -74359,7 +74359,7 @@ window.allHeroes =
     {
         "name": "Regin",
         "fancy_name": "Dwarven Fabled Prince",
-        "AetherPower": "Pain Return",
+        "AetherPower": "Counterattack",
         "color": "Red",
         "class": "Rogue",
         "speed": "Fast",
@@ -75584,7 +75584,7 @@ window.allHeroes =
     {
         "name": "Sekhmet",
         "fancy_name": "Eye of the Sun",
-        "AetherPower": "Pain Return",
+        "AetherPower": "Counterattack",
         "color": "Red",
         "class": "Monk",
         "speed": "Fast",
@@ -75773,7 +75773,7 @@ window.allHeroes =
     {
         "name": "Skargremar",
         "fancy_name": "Pioneering Rearguard",
-        "AetherPower": "Pain Return",
+        "AetherPower": "Counterattack",
         "color": "Red",
         "class": "Fighter",
         "speed": "Average",
@@ -76959,7 +76959,7 @@ window.allHeroes =
     {
         "name": "Xenda C1",
         "fancy_name": "Heiress to the Flame",
-        "AetherPower": "Pain Return",
+        "AetherPower": "Counterattack",
         "color": "Red",
         "class": "Monk",
         "speed": "Average",
@@ -77557,7 +77557,7 @@ window.allHeroes =
     {
         "name": "Zenobia C1",
         "fancy_name": "Apocynacid Queen",
-        "AetherPower": "Pain Return",
+        "AetherPower": "Counterattack",
         "color": "Red",
         "class": "Sorcerer",
         "speed": "Average",
@@ -77837,7 +77837,7 @@ window.allHeroes =
     {
         "name": "Hikaru",
         "fancy_name": "Ninja Student",
-        "AetherPower": "",
+        "AetherPower": "Attack Up",
         "color": "Yellow",
         "class": "Rogue",
         "speed": "Fast",
@@ -77868,7 +77868,7 @@ window.allHeroes =
     {
         "name": "Kenjiro",
         "fancy_name": "Foot Soldier",
-        "AetherPower": "",
+        "AetherPower": "Attack Up",
         "color": "Yellow",
         "class": "Fighter",
         "speed": "Average",
@@ -77899,7 +77899,7 @@ window.allHeroes =
     {
         "name": "Hou",
         "fancy_name": "Monkey Warrior",
-        "AetherPower": "",
+        "AetherPower": "Special Armor",
         "color": "Yellow",
         "class": "Monk",
         "speed": "Average",
@@ -77930,7 +77930,7 @@ window.allHeroes =
     {
         "name": "Nash",
         "fancy_name": "Smith's Apprentice",
-        "AetherPower": "",
+        "AetherPower": "Attack Up",
         "color": "Yellow",
         "class": "Wizard",
         "speed": "Fast",
@@ -77964,7 +77964,7 @@ window.allHeroes =
     {
         "name": "Sha Ji",
         "fancy_name": "Leaf of Bamboo",
-        "AetherPower": "",
+        "AetherPower": "Defense Up",
         "color": "Yellow",
         "class": "Cleric",
         "speed": "Average",
@@ -78188,7 +78188,7 @@ window.allHeroes =
             "Snipers"
         ],
         "source": "Costume Quest",
-        "Release date": "2020-01-20",
+        "Release date": "2020-01-01",
         "star": 3,
         "power": 469,
         "attack": 539,
@@ -78364,7 +78364,7 @@ window.allHeroes =
     {
         "name": "Bertulf",
         "fancy_name": "Chef of the Castle",
-        "AetherPower": "Pain Return",
+        "AetherPower": "Counterattack",
         "color": "Yellow",
         "class": "Monk",
         "speed": "Average",
@@ -78659,7 +78659,7 @@ window.allHeroes =
             "Extra Damage Dealers"
         ],
         "source": "Costume Quest",
-        "Release date": "2021-01-25",
+        "Release date": "2021-01-18",
         "star": 3,
         "power": 469,
         "attack": 537,
@@ -79034,7 +79034,7 @@ window.allHeroes =
             "Snipers"
         ],
         "source": "Costume Quest",
-        "Release date": "2021-01-25",
+        "Release date": "2021-01-18",
         "star": 3,
         "power": 474,
         "attack": 529,
@@ -79473,7 +79473,7 @@ window.allHeroes =
             "Damage Sharers"
         ],
         "source": "Costume Quest",
-        "Release date": "2021-01-25",
+        "Release date": "2021-01-18",
         "star": 3,
         "power": 473,
         "attack": 431,
@@ -81314,7 +81314,7 @@ window.allHeroes =
     {
         "name": "Errin",
         "fancy_name": "Astral Dwarf Toymaker",
-        "AetherPower": "Pain Return",
+        "AetherPower": "Counterattack",
         "color": "Yellow",
         "class": "Cleric",
         "speed": "Fast",
@@ -82453,7 +82453,7 @@ window.allHeroes =
     {
         "name": "Li Xiu",
         "fancy_name": "Wise General",
-        "AetherPower": "Pain Return",
+        "AetherPower": "Counterattack",
         "color": "Yellow",
         "class": "Monk",
         "speed": "Average",
@@ -82524,7 +82524,7 @@ window.allHeroes =
             "Mana Reducers or Blockers"
         ],
         "source": "Costume Quest",
-        "Release date": "2020-01-20",
+        "Release date": "2020-01-01",
         "star": 4,
         "power": 685,
         "attack": 673,
@@ -82624,7 +82624,7 @@ window.allHeroes =
     {
         "name": "Li Xiu Toon",
         "fancy_name": "Toon General",
-        "AetherPower": "Pain Return",
+        "AetherPower": "Counterattack",
         "color": "Yellow",
         "class": "Monk",
         "speed": "Average",
@@ -82686,7 +82686,7 @@ window.allHeroes =
     {
         "name": "Li Xiu Glass",
         "fancy_name": "Glass General",
-        "AetherPower": "Pain Return",
+        "AetherPower": "Counterattack",
         "color": "Yellow",
         "class": "Monk",
         "speed": "Average",
@@ -84475,7 +84475,7 @@ window.allHeroes =
     {
         "name": "Baishu",
         "fancy_name": "Lunar Acrobat Rat",
-        "AetherPower": "Pain Return",
+        "AetherPower": "Counterattack",
         "color": "Yellow",
         "class": "Monk",
         "speed": "Fast",
@@ -84759,7 +84759,7 @@ window.allHeroes =
     {
         "name": "Christine Daae",
         "fancy_name": "Songbird of the Opera",
-        "AetherPower": "Pain Return",
+        "AetherPower": "Counterattack",
         "color": "Yellow",
         "class": "Cleric",
         "speed": "Fast",
@@ -85977,7 +85977,7 @@ window.allHeroes =
             "Bypassers"
         ],
         "source": "Extra Draw - Secret Summon",
-        "Release date": "2025-05-31",
+        "Release date": "2025-06-06",
         "star": 5,
         "power": 1200,
         "attack": 1236,
@@ -86665,7 +86665,7 @@ window.allHeroes =
             "Revivers"
         ],
         "source": "Super Elementals",
-        "Release date": "2025-01-01",
+        "Release date": "2025-01-20",
         "star": 5,
         "power": 1172,
         "attack": 1246,
@@ -88381,7 +88381,7 @@ window.allHeroes =
     {
         "name": "Jequn",
         "fancy_name": "The Cosmic Enigma",
-        "AetherPower": "Pain Return",
+        "AetherPower": "Counterattack",
         "color": "Yellow",
         "class": "Monk",
         "speed": "Very Fast",
@@ -88594,7 +88594,7 @@ window.allHeroes =
             "Snipers"
         ],
         "source": "Costume Quest",
-        "Release date": "2020-01-20",
+        "Release date": "2020-01-01",
         "star": 5,
         "power": 847,
         "attack": 841,
@@ -89695,7 +89695,7 @@ window.allHeroes =
     {
         "name": "Leonidas",
         "fancy_name": "Unyielding King",
-        "AetherPower": "Pain Return",
+        "AetherPower": "Counterattack",
         "color": "Yellow",
         "class": "Monk",
         "speed": "Average",
@@ -89880,7 +89880,7 @@ window.allHeroes =
     {
         "name": "Leonidas Toon",
         "fancy_name": "Unyielding Toon",
-        "AetherPower": "Pain Return",
+        "AetherPower": "Counterattack",
         "color": "Yellow",
         "class": "Monk",
         "speed": "Average",
@@ -89946,7 +89946,7 @@ window.allHeroes =
     {
         "name": "Leonidas Glass",
         "fancy_name": "Unyielding Vitrail",
-        "AetherPower": "Pain Return",
+        "AetherPower": "Counterattack",
         "color": "Yellow",
         "class": "Monk",
         "speed": "Average",
@@ -89964,7 +89964,7 @@ window.allHeroes =
             "Snipers"
         ],
         "source": "Costume Quest",
-        "Release date": "2025-02-10",
+        "Release date": "2025-02-11",
         "star": 5,
         "power": 1232,
         "attack": 1337,
@@ -90089,7 +90089,7 @@ window.allHeroes =
     {
         "name": "Malin",
         "fancy_name": "Titanbone Warrior",
-        "AetherPower": "Pain Return",
+        "AetherPower": "Counterattack",
         "color": "Yellow",
         "class": "Monk",
         "speed": "Slow",
@@ -90852,7 +90852,7 @@ window.allHeroes =
     },
     {
         "name": "Mother Lemminkainen",
-        "fancy_name": "Champion’s Savior",
+        "fancy_name": "Champion's Savior",
         "AetherPower": "Heal Increase",
         "color": "Yellow",
         "class": "Sorcerer",
@@ -92005,7 +92005,7 @@ window.allHeroes =
     {
         "name": "Pertinax",
         "fancy_name": "Knight Guardian of Owl Tower",
-        "AetherPower": "Pain Return",
+        "AetherPower": "Counterattack",
         "color": "Yellow",
         "class": "Paladin",
         "speed": "Average",
@@ -92456,7 +92456,7 @@ window.allHeroes =
     {
         "name": "Rana",
         "fancy_name": "Queen of Sand Empire",
-        "AetherPower": "Pain Return",
+        "AetherPower": "Counterattack",
         "color": "Yellow",
         "class": "Monk",
         "speed": "Average",
@@ -92860,7 +92860,7 @@ window.allHeroes =
     {
         "name": "Rosalind",
         "fancy_name": "Cheerful Captain",
-        "AetherPower": "Pain Return",
+        "AetherPower": "Counterattack",
         "color": "Yellow",
         "class": "Cleric",
         "speed": "Fast",
@@ -94335,7 +94335,7 @@ window.allHeroes =
             "Healers"
         ],
         "source": "Costume Quest",
-        "Release date": "2020-01-20",
+        "Release date": "2020-01-01",
         "star": 5,
         "power": 850,
         "attack": 797,
@@ -94534,7 +94534,7 @@ window.allHeroes =
             "Reflectors"
         ],
         "source": "Costume Quest",
-        "Release date": "2024-12-24",
+        "Release date": "2024-12-25",
         "star": 5,
         "power": 1238,
         "attack": 1239,

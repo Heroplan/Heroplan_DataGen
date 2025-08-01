@@ -3,7 +3,7 @@ window.allHeroes =
     {
         "name": "布兰德 (Brand)",
         "fancy_name": "无忧冒险家",
-        "AetherPower": "",
+        "AetherPower": "攻击提升",
         "color": "蓝",
         "class": "战士",
         "speed": "中等",
@@ -34,7 +34,7 @@ window.allHeroes =
     {
         "name": "西格鲁恩 (Sigrunn)",
         "fancy_name": "残暴少女",
-        "AetherPower": "",
+        "AetherPower": "攻击提升",
         "color": "蓝",
         "class": "战士",
         "speed": "快速",
@@ -65,7 +65,7 @@ window.allHeroes =
     {
         "name": "奥拉夫 (Olaf)",
         "fancy_name": "严肃守卫",
-        "AetherPower": "",
+        "AetherPower": "特殊护甲",
         "color": "蓝",
         "class": "圣骑士",
         "speed": "中等",
@@ -96,7 +96,7 @@ window.allHeroes =
     {
         "name": "莱西德 (Ragnhild)",
         "fancy_name": "流亡战士",
-        "AetherPower": "",
+        "AetherPower": "攻击提升",
         "color": "蓝",
         "class": "战士",
         "speed": "中等",
@@ -127,7 +127,7 @@ window.allHeroes =
     {
         "name": "托里尔 (Toril)",
         "fancy_name": "老手战士",
-        "AetherPower": "",
+        "AetherPower": "防御提升",
         "color": "蓝",
         "class": "野蛮人",
         "speed": "中等",
@@ -835,7 +835,7 @@ window.allHeroes =
             "防御减益"
         ],
         "source": "服装间",
-        "Release date": "2020-01-20",
+        "Release date": "2020-01-01",
         "star": 3,
         "power": 470,
         "attack": 423,
@@ -1233,7 +1233,7 @@ window.allHeroes =
     {
         "name": "尤卡海宁 (Joukahainen)",
         "fancy_name": "冷血猎人",
-        "AetherPower": "伤害反弹",
+        "AetherPower": "反击",
         "color": "蓝",
         "class": "僧侣",
         "speed": "中等",
@@ -1589,7 +1589,7 @@ window.allHeroes =
     {
         "name": "诺德里 (Nordri) C1",
         "fancy_name": "约顿海姆探险家矮人",
-        "AetherPower": "伤害反弹",
+        "AetherPower": "反击",
         "color": "蓝",
         "class": "僧侣",
         "speed": "中等",
@@ -3672,7 +3672,7 @@ window.allHeroes =
     {
         "name": "格林姆 (Grimm) C2",
         "fancy_name": "暗黑使者",
-        "AetherPower": "伤害反弹",
+        "AetherPower": "反击",
         "color": "蓝",
         "class": "游侠",
         "speed": "中等",
@@ -3809,7 +3809,7 @@ window.allHeroes =
             "防御减益"
         ],
         "source": "服装间",
-        "Release date": "2024-12-24",
+        "Release date": "2024-12-25",
         "star": 4,
         "power": 758,
         "attack": 843,
@@ -4507,7 +4507,7 @@ window.allHeroes =
             "绕过"
         ],
         "source": "高塔 - 猫头鹰",
-        "Release date": "2023-12-19",
+        "Release date": "2023-12-20",
         "star": 4,
         "power": 693,
         "attack": 724,
@@ -4828,7 +4828,7 @@ window.allHeroes =
             "狙击手"
         ],
         "source": "服装间",
-        "Release date": "2020-01-20",
+        "Release date": "2020-01-01",
         "star": 4,
         "power": 688,
         "attack": 659,
@@ -5051,7 +5051,7 @@ window.allHeroes =
     {
         "name": "崔坦 (Triton) C1",
         "fancy_name": "亚特兰蒂斯卫士",
-        "AetherPower": "伤害反弹",
+        "AetherPower": "反击",
         "color": "蓝",
         "class": "野蛮人",
         "speed": "快速",
@@ -5295,7 +5295,7 @@ window.allHeroes =
     {
         "name": "齐拉蕾 (Zila Lei) C1",
         "fancy_name": "八足舞者",
-        "AetherPower": "伤害反弹",
+        "AetherPower": "反击",
         "color": "蓝",
         "class": "僧侣",
         "speed": "快速",
@@ -5371,7 +5371,7 @@ window.allHeroes =
             "召唤恶魔"
         ],
         "source": "怪兽岛召唤",
-        "Release date": "2022-09-15",
+        "Release date": "2022-09-18",
         "star": 5,
         "power": 888,
         "attack": 803,
@@ -6346,7 +6346,7 @@ window.allHeroes =
     {
         "name": "阿梅尔 (Armel)",
         "fancy_name": "北极大使",
-        "AetherPower": "伤害反弹",
+        "AetherPower": "反击",
         "color": "蓝",
         "class": "游侠",
         "speed": "快速",
@@ -9004,7 +9004,7 @@ window.allHeroes =
             "绕过"
         ],
         "source": "额外抽奖 - 秘密召唤",
-        "Release date": "2025-05-31",
+        "Release date": "2025-06-06",
         "star": 5,
         "power": 1200,
         "attack": 1236,
@@ -10065,7 +10065,7 @@ window.allHeroes =
     {
         "name": "格鲁兹默 (Gloozmer)",
         "fancy_name": "温柔戏法师史莱姆",
-        "AetherPower": "坚壁",
+        "AetherPower": "特殊技能加成",
         "color": "蓝",
         "class": "巫师",
         "speed": "快速",
@@ -10829,7 +10829,7 @@ window.allHeroes =
             "防御减益"
         ],
         "source": "服装间",
-        "Release date": "2020-01-20",
+        "Release date": "2020-01-01",
         "star": 5,
         "power": 848,
         "attack": 935,
@@ -11002,7 +11002,7 @@ window.allHeroes =
     {
         "name": "伊萨莉亚 (Isarnia) 玻璃",
         "fancy_name": "格雷斯尔摩彩绘",
-        "AetherPower": "生命恢复",
+        "AetherPower": "防御提升",
         "color": "蓝",
         "class": "巫师",
         "speed": "慢",
@@ -14771,7 +14771,7 @@ window.allHeroes =
     {
         "name": "奎恩 (Quinn)",
         "fancy_name": "宇宙厨师",
-        "AetherPower": "伤害反弹",
+        "AetherPower": "反击",
         "color": "蓝",
         "class": "牧师",
         "speed": "快速",
@@ -15122,7 +15122,7 @@ window.allHeroes =
             "攻击减益"
         ],
         "source": "服装间",
-        "Release date": "2020-01-20",
+        "Release date": "2020-01-01",
         "star": 5,
         "power": 849,
         "attack": 734,
@@ -15305,7 +15305,7 @@ window.allHeroes =
             "攻击减益"
         ],
         "source": "服装间",
-        "Release date": "2024-12-24",
+        "Release date": "2024-12-25",
         "star": 5,
         "power": 1235,
         "attack": 1296,
@@ -15438,7 +15438,7 @@ window.allHeroes =
     {
         "name": "龙佩尔斯迪尔钦 (Rumpelstiltskin) C1",
         "fancy_name": "永恒魔术师",
-        "AetherPower": "伤害反弹",
+        "AetherPower": "反击",
         "color": "蓝",
         "class": "僧侣",
         "speed": "中等",
@@ -15883,7 +15883,7 @@ window.allHeroes =
     {
         "name": "泽野 (Sawano)",
         "fancy_name": "忠信忍姬",
-        "AetherPower": "伤害反弹",
+        "AetherPower": "反击",
         "color": "蓝",
         "class": "圣骑士",
         "speed": "充能",
@@ -17533,7 +17533,7 @@ window.allHeroes =
     {
         "name": "索恩 (Thorne) C2",
         "fancy_name": "霜晨司令",
-        "AetherPower": "伤害反弹",
+        "AetherPower": "反击",
         "color": "蓝",
         "class": "野蛮人",
         "speed": "中等",
@@ -18508,7 +18508,7 @@ window.allHeroes =
     {
         "name": "奥伊芙 (Aife)",
         "fancy_name": "乡村姑娘",
-        "AetherPower": "",
+        "AetherPower": "攻击提升",
         "color": "绿",
         "class": "战士",
         "speed": "快速",
@@ -18539,7 +18539,7 @@ window.allHeroes =
     {
         "name": "德里克 (Derric)",
         "fancy_name": "天真樵夫",
-        "AetherPower": "",
+        "AetherPower": "攻击提升",
         "color": "绿",
         "class": "战士",
         "speed": "中等",
@@ -18570,7 +18570,7 @@ window.allHeroes =
     {
         "name": "布洛根 (Brogan)",
         "fancy_name": "佣兵暴徒",
-        "AetherPower": "",
+        "AetherPower": "攻击提升",
         "color": "绿",
         "class": "战士",
         "speed": "中等",
@@ -18601,7 +18601,7 @@ window.allHeroes =
     {
         "name": "詹内 (Jenneh)",
         "fancy_name": "植物语者",
-        "AetherPower": "",
+        "AetherPower": "攻击提升",
         "color": "绿",
         "class": "德鲁伊",
         "speed": "中等",
@@ -18632,7 +18632,7 @@ window.allHeroes =
     {
         "name": "刺头 (Needler)",
         "fancy_name": "敏捷猎手",
-        "AetherPower": "",
+        "AetherPower": "攻击提升",
         "color": "绿",
         "class": "游侠",
         "speed": "快速",
@@ -19270,7 +19270,7 @@ window.allHeroes =
             "防御减益"
         ],
         "source": "服装间",
-        "Release date": "2020-01-20",
+        "Release date": "2020-01-01",
         "star": 3,
         "power": 469,
         "attack": 475,
@@ -20820,7 +20820,7 @@ window.allHeroes =
     {
         "name": "伊师塔克 (Isshtak) C1",
         "fancy_name": "蜥蜴人祖宗",
-        "AetherPower": "伤害反弹",
+        "AetherPower": "反击",
         "color": "绿",
         "class": "僧侣",
         "speed": "中等",
@@ -22098,7 +22098,7 @@ window.allHeroes =
     {
         "name": "巴迪 (Buddy)",
         "fancy_name": "圣诞老人小帮手",
-        "AetherPower": "攻击提升",
+        "AetherPower": "特殊护甲",
         "color": "绿",
         "class": "游侠",
         "speed": "中等",
@@ -22116,7 +22116,7 @@ window.allHeroes =
             "召唤小兵"
         ],
         "source": "月活动 - 冬日",
-        "Release date": "2018-12-02",
+        "Release date": "2020-12-01",
         "star": 4,
         "power": 649,
         "attack": 531,
@@ -23973,7 +23973,7 @@ window.allHeroes =
             "持续治疗"
         ],
         "source": "服装间",
-        "Release date": "2020-01-20",
+        "Release date": "2020-01-01",
         "star": 4,
         "power": 683,
         "attack": 711,
@@ -25090,7 +25090,7 @@ window.allHeroes =
             "攻击减益"
         ],
         "source": "服装间",
-        "Release date": "2020-01-20",
+        "Release date": "2020-01-01",
         "star": 4,
         "power": 688,
         "attack": 792,
@@ -28166,7 +28166,7 @@ window.allHeroes =
     {
         "name": "埃尔卡能 (Elkanen) C2",
         "fancy_name": "银月之王",
-        "AetherPower": "伤害反弹",
+        "AetherPower": "反击",
         "color": "绿",
         "class": "圣骑士",
         "speed": "快速",
@@ -28704,7 +28704,7 @@ window.allHeroes =
             "绕过"
         ],
         "source": "额外抽奖 - 秘密召唤",
-        "Release date": "2025-05-31",
+        "Release date": "2025-06-06",
         "star": 5,
         "power": 1200,
         "attack": 1236,
@@ -28764,7 +28764,7 @@ window.allHeroes =
     {
         "name": "法夫纳 (Fafnir)",
         "fancy_name": "马克海姆的矮人王",
-        "AetherPower": "伤害反弹",
+        "AetherPower": "反击",
         "color": "绿",
         "class": "战士",
         "speed": "快速",
@@ -29049,7 +29049,7 @@ window.allHeroes =
     {
         "name": "狐斯利 (Foxley)",
         "fancy_name": "法外之狐",
-        "AetherPower": "伤害反弹",
+        "AetherPower": "反击",
         "color": "绿",
         "class": "游侠",
         "speed": "快速",
@@ -31245,7 +31245,7 @@ window.allHeroes =
             "攻击减益"
         ],
         "source": "服装间",
-        "Release date": "2020-01-20",
+        "Release date": "2020-01-01",
         "star": 5,
         "power": 849,
         "attack": 744,
@@ -32679,7 +32679,7 @@ window.allHeroes =
             "狙击手"
         ],
         "source": "服装间",
-        "Release date": "2020-01-20",
+        "Release date": "2020-01-01",
         "star": 5,
         "power": 849,
         "attack": 832,
@@ -32896,7 +32896,7 @@ window.allHeroes =
     {
         "name": "莱姆博尔 (Limeboire)",
         "fancy_name": "飞蛾酒保",
-        "AetherPower": "攻击提升",
+        "AetherPower": "防御提升",
         "color": "绿",
         "class": "圣骑士",
         "speed": "非常慢",
@@ -34779,7 +34779,7 @@ window.allHeroes =
     {
         "name": "齐格弗里德王子 (Prince Siegfried)",
         "fancy_name": "未来之王",
-        "AetherPower": "伤害反弹",
+        "AetherPower": "反击",
         "color": "绿",
         "class": "德鲁伊",
         "speed": "慢",
@@ -36380,7 +36380,7 @@ window.allHeroes =
     {
         "name": "塔拉克 (Tarlak)",
         "fancy_name": "丛林王子",
-        "AetherPower": "伤害反弹",
+        "AetherPower": "反击",
         "color": "绿",
         "class": "僧侣",
         "speed": "中等",
@@ -36563,7 +36563,7 @@ window.allHeroes =
     {
         "name": "特鲁利亚 (Telluria)",
         "fancy_name": "森林之神",
-        "AetherPower": "坚壁",
+        "AetherPower": "特殊技能加成",
         "color": "绿",
         "class": "圣骑士",
         "speed": "中等",
@@ -36582,7 +36582,7 @@ window.allHeroes =
             "召唤小兵"
         ],
         "source": "神话召唤 - 月英",
-        "Release date": "2020-03-01",
+        "Release date": "2022-04-01",
         "star": 5,
         "power": 772,
         "attack": 613,
@@ -36772,7 +36772,7 @@ window.allHeroes =
     {
         "name": "疯帽子 (The Hatter) C1",
         "fancy_name": "仙境鉴茶家",
-        "AetherPower": "伤害反弹",
+        "AetherPower": "反击",
         "color": "绿",
         "class": "巫师",
         "speed": "中等",
@@ -38129,7 +38129,7 @@ window.allHeroes =
     {
         "name": "弗莱彻 (Fletcher)",
         "fancy_name": "野心神偷",
-        "AetherPower": "",
+        "AetherPower": "攻击提升",
         "color": "紫",
         "class": "盗贼",
         "speed": "快速",
@@ -38160,7 +38160,7 @@ window.allHeroes =
     {
         "name": "夜影 (Nightshade)",
         "fancy_name": "雄心弓箭手",
-        "AetherPower": "",
+        "AetherPower": "攻击提升",
         "color": "紫",
         "class": "游侠",
         "speed": "快速",
@@ -38191,7 +38191,7 @@ window.allHeroes =
     {
         "name": "朱利叶斯 (Julius)",
         "fancy_name": "墨格温逃亡者",
-        "AetherPower": "",
+        "AetherPower": "攻击提升",
         "color": "紫",
         "class": "战士",
         "speed": "快速",
@@ -38222,7 +38222,7 @@ window.allHeroes =
     {
         "name": "蕾拉 (Layla)",
         "fancy_name": "反叛盗贼",
-        "AetherPower": "",
+        "AetherPower": "攻击提升",
         "color": "紫",
         "class": "盗贼",
         "speed": "快速",
@@ -38253,7 +38253,7 @@ window.allHeroes =
     {
         "name": "希利苏斯 (Silthus)",
         "fancy_name": "欲坠神迹",
-        "AetherPower": "",
+        "AetherPower": "防御提升",
         "color": "紫",
         "class": "野蛮人",
         "speed": "中等",
@@ -38341,7 +38341,7 @@ window.allHeroes =
     {
         "name": "安文德尔 (An-Windr)",
         "fancy_name": "受诅维京悍夫",
-        "AetherPower": "伤害反弹",
+        "AetherPower": "反击",
         "color": "紫",
         "class": "游侠",
         "speed": "慢",
@@ -39102,7 +39102,7 @@ window.allHeroes =
     {
         "name": "鳃拉 (Gill-Ra)",
         "fancy_name": "浅滩猎手",
-        "AetherPower": "伤害反弹",
+        "AetherPower": "反击",
         "color": "紫",
         "class": "术士",
         "speed": "慢",
@@ -40476,7 +40476,7 @@ window.allHeroes =
             "狙击手"
         ],
         "source": "服装间",
-        "Release date": "2020-01-20",
+        "Release date": "2020-01-01",
         "star": 3,
         "power": 470,
         "attack": 423,
@@ -41412,7 +41412,7 @@ window.allHeroes =
     {
         "name": "塞普里恩 (Cyprian)",
         "fancy_name": "驭死领主",
-        "AetherPower": "伤害反弹",
+        "AetherPower": "反击",
         "color": "紫",
         "class": "圣骑士",
         "speed": "中等",
@@ -41567,7 +41567,7 @@ window.allHeroes =
     {
         "name": "塞普里恩 (Cyprian) 卡通",
         "fancy_name": "卡通驭死领主",
-        "AetherPower": "伤害反弹",
+        "AetherPower": "反击",
         "color": "紫",
         "class": "圣骑士",
         "speed": "中等",
@@ -41618,7 +41618,7 @@ window.allHeroes =
     {
         "name": "塞普里恩 (Cyprian) 玻璃",
         "fancy_name": "驭死彩绘",
-        "AetherPower": "伤害反弹",
+        "AetherPower": "特殊护甲",
         "color": "紫",
         "class": "圣骑士",
         "speed": "中等",
@@ -42126,7 +42126,7 @@ window.allHeroes =
     {
         "name": "贾巴尔 (Jabbar)",
         "fancy_name": "飞沙帝国狂战士",
-        "AetherPower": "伤害反弹",
+        "AetherPower": "反击",
         "color": "紫",
         "class": "僧侣",
         "speed": "中等",
@@ -42833,7 +42833,7 @@ window.allHeroes =
             "持续治疗"
         ],
         "source": "服装间",
-        "Release date": "2020-01-20",
+        "Release date": "2020-01-01",
         "star": 4,
         "power": 690,
         "attack": 645,
@@ -43203,7 +43203,7 @@ window.allHeroes =
     {
         "name": "萨拜娜 (Sabina) C2",
         "fancy_name": "驭死公主",
-        "AetherPower": "伤害反弹",
+        "AetherPower": "反击",
         "color": "紫",
         "class": "僧侣",
         "speed": "中等",
@@ -43784,7 +43784,7 @@ window.allHeroes =
             "防御减益"
         ],
         "source": "服装间",
-        "Release date": "2020-01-20",
+        "Release date": "2020-01-01",
         "star": 4,
         "power": 684,
         "attack": 701,
@@ -45068,7 +45068,7 @@ window.allHeroes =
     {
         "name": "阿斯科特尔 (Asketel)",
         "fancy_name": "失落学识探索者",
-        "AetherPower": "状态异常反弹",
+        "AetherPower": "恶魔抵抗",
         "color": "紫",
         "class": "巫师",
         "speed": "中等",
@@ -45597,7 +45597,7 @@ window.allHeroes =
     {
         "name": "卡尔塔 (Carta)",
         "fancy_name": "制图机械",
-        "AetherPower": "伤害反弹",
+        "AetherPower": "反击",
         "color": "紫",
         "class": "巫师",
         "speed": "中等",
@@ -46226,7 +46226,7 @@ window.allHeroes =
     {
         "name": "黑比特 (Darkbeat)",
         "fancy_name": "狂舞区音乐大师",
-        "AetherPower": "伤害反弹",
+        "AetherPower": "反击",
         "color": "紫",
         "class": "僧侣",
         "speed": "中等",
@@ -47366,7 +47366,7 @@ window.allHeroes =
             "绕过"
         ],
         "source": "额外抽奖 - 秘密召唤",
-        "Release date": "2025-05-31",
+        "Release date": "2025-06-06",
         "star": 5,
         "power": 1200,
         "attack": 1236,
@@ -48673,7 +48673,7 @@ window.allHeroes =
     {
         "name": "赫里德马尔 (Hreidmarr)",
         "fancy_name": "矮人山脉之王",
-        "AetherPower": "伤害反弹",
+        "AetherPower": "反击",
         "color": "紫",
         "class": "巫师",
         "speed": "慢",
@@ -49358,7 +49358,7 @@ window.allHeroes =
     {
         "name": "影血 (Kageburado) C1",
         "fancy_name": "甲虫武士",
-        "AetherPower": "伤害反弹",
+        "AetherPower": "反击",
         "color": "紫",
         "class": "圣骑士",
         "speed": "飞速",
@@ -49427,7 +49427,7 @@ window.allHeroes =
     {
         "name": "卡洛夫 (Karnov)",
         "fancy_name": "彪悍战士",
-        "AetherPower": "伤害反弹",
+        "AetherPower": "反击",
         "color": "紫",
         "class": "僧侣",
         "speed": "慢",
@@ -49923,7 +49923,7 @@ window.allHeroes =
     {
         "name": "孔舒 (Khonshu) C1",
         "fancy_name": "月光骑士",
-        "AetherPower": "伤害反弹",
+        "AetherPower": "反击",
         "color": "紫",
         "class": "圣骑士",
         "speed": "飞速",
@@ -51616,7 +51616,7 @@ window.allHeroes =
     {
         "name": "巨齿鲨 (Mok-Arr) C1",
         "fancy_name": "野蛮剑圣",
-        "AetherPower": "伤害反弹",
+        "AetherPower": "反击",
         "color": "紫",
         "class": "战士",
         "speed": "中等",
@@ -52101,7 +52101,7 @@ window.allHeroes =
     {
         "name": "欧巴坎 (Obakan)",
         "fancy_name": "禁卫守护",
-        "AetherPower": "伤害反弹",
+        "AetherPower": "反击",
         "color": "紫",
         "class": "野蛮人",
         "speed": "快速",
@@ -52276,7 +52276,7 @@ window.allHeroes =
     {
         "name": "欧巴坎 (Obakan) 卡通",
         "fancy_name": "禁卫卡通",
-        "AetherPower": "伤害反弹",
+        "AetherPower": "反击",
         "color": "紫",
         "class": "野蛮人",
         "speed": "快速",
@@ -52342,7 +52342,7 @@ window.allHeroes =
     {
         "name": "欧巴坎 (Obakan) 玻璃",
         "fancy_name": "禁卫彩绘",
-        "AetherPower": "伤害反弹",
+        "AetherPower": "反击",
         "color": "紫",
         "class": "野蛮人",
         "speed": "快速",
@@ -53968,7 +53968,7 @@ window.allHeroes =
             "狙击手"
         ],
         "source": "服装间",
-        "Release date": "2024-12-24",
+        "Release date": "2024-12-25",
         "star": 5,
         "power": 1242,
         "attack": 1235,
@@ -54321,7 +54321,7 @@ window.allHeroes =
     {
         "name": "塞雷娜 (Serena)",
         "fancy_name": "海滨社交名流",
-        "AetherPower": "伤害反弹",
+        "AetherPower": "反击",
         "color": "紫",
         "class": "僧侣",
         "speed": "中等",
@@ -56822,7 +56822,7 @@ window.allHeroes =
     {
         "name": "蝎子精 (Xie Zi Jing)",
         "fancy_name": "蝎子女妖",
-        "AetherPower": "伤害反弹",
+        "AetherPower": "反击",
         "color": "紫",
         "class": "战士",
         "speed": "快速",
@@ -57308,7 +57308,7 @@ window.allHeroes =
     {
         "name": "莎朗 (Sharan)",
         "fancy_name": "天才布陷人",
-        "AetherPower": "",
+        "AetherPower": "防御提升",
         "color": "红",
         "class": "游侠",
         "speed": "中等",
@@ -57339,7 +57339,7 @@ window.allHeroes =
     {
         "name": "图丹 (Tudan)",
         "fancy_name": "狡猾佣兵",
-        "AetherPower": "",
+        "AetherPower": "攻击提升",
         "color": "红",
         "class": "盗贼",
         "speed": "快速",
@@ -57370,7 +57370,7 @@ window.allHeroes =
     {
         "name": "法里德 (Farid)",
         "fancy_name": "顽强斗士",
-        "AetherPower": "",
+        "AetherPower": "攻击提升",
         "color": "红",
         "class": "野蛮人",
         "speed": "中等",
@@ -57401,7 +57401,7 @@ window.allHeroes =
     {
         "name": "吉尔 (Jill)",
         "fancy_name": "年轻旅行者",
-        "AetherPower": "",
+        "AetherPower": "防御提升",
         "color": "红",
         "class": "战士",
         "speed": "中等",
@@ -57432,7 +57432,7 @@ window.allHeroes =
     {
         "name": "沙克特 (Shaarkot)",
         "fancy_name": "古圣仆从",
-        "AetherPower": "",
+        "AetherPower": "防御提升",
         "color": "红",
         "class": "术士",
         "speed": "中等",
@@ -57463,7 +57463,7 @@ window.allHeroes =
     {
         "name": "祖达 (Zudak)",
         "fancy_name": "混血战士",
-        "AetherPower": "",
+        "AetherPower": "攻击提升",
         "color": "红",
         "class": "野蛮人",
         "speed": "中等",
@@ -57926,7 +57926,7 @@ window.allHeroes =
     {
         "name": "波肯 (Bauchan)",
         "fancy_name": "阿瓦隆小恶魔",
-        "AetherPower": "伤害反弹",
+        "AetherPower": "反击",
         "color": "红",
         "class": "僧侣",
         "speed": "中等",
@@ -58441,7 +58441,7 @@ window.allHeroes =
             "持续治疗"
         ],
         "source": "服装间",
-        "Release date": "2020-01-20",
+        "Release date": "2020-01-01",
         "star": 3,
         "power": 474,
         "attack": 501,
@@ -59659,7 +59659,7 @@ window.allHeroes =
     {
         "name": "兔子随从 (Squire Wabbit)",
         "fancy_name": "春谷侍从",
-        "AetherPower": "怒气",
+        "AetherPower": "特殊技能加成",
         "color": "红",
         "class": "游侠",
         "speed": "快速",
@@ -60199,7 +60199,7 @@ window.allHeroes =
     {
         "name": "猛牙 (Boldtusk) C1",
         "fancy_name": "铸铁大厨",
-        "AetherPower": "伤害反弹",
+        "AetherPower": "反击",
         "color": "红",
         "class": "僧侣",
         "speed": "中等",
@@ -60213,7 +60213,7 @@ window.allHeroes =
             "治疗"
         ],
         "source": "服装间",
-        "Release date": "2020-01-20",
+        "Release date": "2020-01-01",
         "star": 4,
         "power": 690,
         "attack": 633,
@@ -60391,7 +60391,7 @@ window.allHeroes =
             "反射"
         ],
         "source": "服装间",
-        "Release date": "2024-12-24",
+        "Release date": "2024-12-25",
         "star": 4,
         "power": 761,
         "attack": 708,
@@ -60679,7 +60679,7 @@ window.allHeroes =
     {
         "name": "科伦 (Colen) C2",
         "fancy_name": "英勇追踪者",
-        "AetherPower": "伤害反弹",
+        "AetherPower": "反击",
         "color": "红",
         "class": "游侠",
         "speed": "慢",
@@ -60878,7 +60878,7 @@ window.allHeroes =
     {
         "name": "艾希贝尔伯格 (Eichbelborg)",
         "fancy_name": "自负的健美者",
-        "AetherPower": "伤害反弹",
+        "AetherPower": "反击",
         "color": "红",
         "class": "僧侣",
         "speed": "快速",
@@ -61168,7 +61168,7 @@ window.allHeroes =
     {
         "name": "戈莫克 (Gormek) C2",
         "fancy_name": "美食家",
-        "AetherPower": "伤害反弹",
+        "AetherPower": "反击",
         "color": "红",
         "class": "牧师",
         "speed": "中等",
@@ -63175,7 +63175,7 @@ window.allHeroes =
     {
         "name": "萨姆勒 (Sumle)",
         "fancy_name": "魁伟烈火巨人",
-        "AetherPower": "伤害反弹",
+        "AetherPower": "反击",
         "color": "红",
         "class": "僧侣",
         "speed": "慢",
@@ -64213,7 +64213,7 @@ window.allHeroes =
     {
         "name": "阿拉迪亚 (Aradia)",
         "fancy_name": "巫术蒙面女神",
-        "AetherPower": "伤害反弹",
+        "AetherPower": "反击",
         "color": "红",
         "class": "巫师",
         "speed": "中等",
@@ -65053,7 +65053,7 @@ window.allHeroes =
             "持续伤害"
         ],
         "source": "服装间",
-        "Release date": "2024-12-24",
+        "Release date": "2024-12-25",
         "star": 5,
         "power": 1242,
         "attack": 1337,
@@ -67387,7 +67387,7 @@ window.allHeroes =
     {
         "name": "埃尔杜克 (El Duque)",
         "fancy_name": "高贵的石像鬼",
-        "AetherPower": "伤害反弹",
+        "AetherPower": "反击",
         "color": "红",
         "class": "僧侣",
         "speed": "飞速",
@@ -67582,7 +67582,7 @@ window.allHeroes =
             "反击"
         ],
         "source": "服装间",
-        "Release date": "2020-01-20",
+        "Release date": "2020-01-01",
         "star": 5,
         "power": 848,
         "attack": 909,
@@ -67955,7 +67955,7 @@ window.allHeroes =
     {
         "name": "伊丽莎白 (Elizabeth) C1",
         "fancy_name": "新婚贵族",
-        "AetherPower": "伤害反弹",
+        "AetherPower": "反击",
         "color": "红",
         "class": "巫师",
         "speed": "中等",
@@ -68419,7 +68419,7 @@ window.allHeroes =
             "绕过"
         ],
         "source": "额外抽奖 - 秘密召唤",
-        "Release date": "2025-05-31",
+        "Release date": "2025-06-06",
         "star": 5,
         "power": 1200,
         "attack": 1236,
@@ -68767,7 +68767,7 @@ window.allHeroes =
     {
         "name": "富尔维亚 (Fulvia)",
         "fancy_name": "猫头鹰高塔的女王",
-        "AetherPower": "伤害反弹",
+        "AetherPower": "反击",
         "color": "红",
         "class": "牧师",
         "speed": "中等",
@@ -69174,7 +69174,7 @@ window.allHeroes =
     {
         "name": "古兹 (Gooze)",
         "fancy_name": "出逃的炼金实验室粘物",
-        "AetherPower": "特殊技能加成",
+        "AetherPower": "特殊护甲",
         "color": "红",
         "class": "术士",
         "speed": "中等",
@@ -69311,7 +69311,7 @@ window.allHeroes =
     {
         "name": "造墓人 (Gravemaker) C1",
         "fancy_name": "烈焰复仇者",
-        "AetherPower": "伤害反弹",
+        "AetherPower": "反击",
         "color": "红",
         "class": "圣骑士",
         "speed": "飞速",
@@ -70595,7 +70595,7 @@ window.allHeroes =
     {
         "name": "让-弗朗索瓦 (Jean-Francois)",
         "fancy_name": "火枪手法师",
-        "AetherPower": "伤害反弹",
+        "AetherPower": "反击",
         "color": "红",
         "class": "巫师",
         "speed": "快速",
@@ -70786,7 +70786,7 @@ window.allHeroes =
     {
         "name": "可汗 (Khagan) C2",
         "fancy_name": "猎豹酋长",
-        "AetherPower": "伤害反弹",
+        "AetherPower": "反击",
         "color": "红",
         "class": "德鲁伊",
         "speed": "慢",
@@ -71360,7 +71360,7 @@ window.allHeroes =
     {
         "name": "拉萨尔 (Lasalle)",
         "fancy_name": "浮夸的亚特兰蒂斯骑兵",
-        "AetherPower": "伤害反弹",
+        "AetherPower": "反击",
         "color": "红",
         "class": "战士",
         "speed": "潮汐",
@@ -72130,7 +72130,7 @@ window.allHeroes =
             "狙击手"
         ],
         "source": "服装间",
-        "Release date": "2025-02-10",
+        "Release date": "2025-02-11",
         "star": 5,
         "power": 1237,
         "attack": 1310,
@@ -73165,7 +73165,7 @@ window.allHeroes =
     {
         "name": "奥克特斯 (Octros)",
         "fancy_name": "八足战士",
-        "AetherPower": "伤害反弹",
+        "AetherPower": "反击",
         "color": "红",
         "class": "战士",
         "speed": "中等",
@@ -73299,7 +73299,7 @@ window.allHeroes =
     {
         "name": "奥门 (Omen)",
         "fancy_name": "魔鬼礁赐福之人",
-        "AetherPower": "伤害反弹",
+        "AetherPower": "反击",
         "color": "红",
         "class": "术士",
         "speed": "快速",
@@ -74377,7 +74377,7 @@ window.allHeroes =
     {
         "name": "雷金 (Regin)",
         "fancy_name": "矮人传奇王子",
-        "AetherPower": "伤害反弹",
+        "AetherPower": "反击",
         "color": "红",
         "class": "盗贼",
         "speed": "快速",
@@ -75602,7 +75602,7 @@ window.allHeroes =
     {
         "name": "塞赫美特 (Sekhmet)",
         "fancy_name": "太阳之眼",
-        "AetherPower": "伤害反弹",
+        "AetherPower": "反击",
         "color": "红",
         "class": "僧侣",
         "speed": "快速",
@@ -75791,7 +75791,7 @@ window.allHeroes =
     {
         "name": "斯卡格列马 (Skargremar)",
         "fancy_name": "先驱后卫",
-        "AetherPower": "伤害反弹",
+        "AetherPower": "反击",
         "color": "红",
         "class": "战士",
         "speed": "中等",
@@ -76977,7 +76977,7 @@ window.allHeroes =
     {
         "name": "仙妲 (Xenda) C1",
         "fancy_name": "火焰嗣女",
-        "AetherPower": "伤害反弹",
+        "AetherPower": "反击",
         "color": "红",
         "class": "僧侣",
         "speed": "中等",
@@ -77575,7 +77575,7 @@ window.allHeroes =
     {
         "name": "季诺碧亚 (Zenobia) C1",
         "fancy_name": "夹竹桃皇后",
-        "AetherPower": "伤害反弹",
+        "AetherPower": "反击",
         "color": "红",
         "class": "术士",
         "speed": "中等",
@@ -77855,7 +77855,7 @@ window.allHeroes =
     {
         "name": "光 (Hikaru)",
         "fancy_name": "忍者学徒",
-        "AetherPower": "",
+        "AetherPower": "攻击提升",
         "color": "黄",
         "class": "盗贼",
         "speed": "快速",
@@ -77886,7 +77886,7 @@ window.allHeroes =
     {
         "name": "健次郎 (Kenjiro)",
         "fancy_name": "步兵",
-        "AetherPower": "",
+        "AetherPower": "攻击提升",
         "color": "黄",
         "class": "战士",
         "speed": "中等",
@@ -77917,7 +77917,7 @@ window.allHeroes =
     {
         "name": "猴 (Hou)",
         "fancy_name": "猴子战士",
-        "AetherPower": "",
+        "AetherPower": "特殊护甲",
         "color": "黄",
         "class": "僧侣",
         "speed": "中等",
@@ -77948,7 +77948,7 @@ window.allHeroes =
     {
         "name": "纳什 (Nash)",
         "fancy_name": "铁匠学徒",
-        "AetherPower": "",
+        "AetherPower": "攻击提升",
         "color": "黄",
         "class": "巫师",
         "speed": "快速",
@@ -77982,7 +77982,7 @@ window.allHeroes =
     {
         "name": "莎姬 (Sha Ji)",
         "fancy_name": "翠竹之叶",
-        "AetherPower": "",
+        "AetherPower": "防御提升",
         "color": "黄",
         "class": "牧师",
         "speed": "中等",
@@ -78206,7 +78206,7 @@ window.allHeroes =
             "狙击手"
         ],
         "source": "服装间",
-        "Release date": "2020-01-20",
+        "Release date": "2020-01-01",
         "star": 3,
         "power": 469,
         "attack": 539,
@@ -78382,7 +78382,7 @@ window.allHeroes =
     {
         "name": "柏图尔夫 (Bertulf)",
         "fancy_name": "城堡大厨",
-        "AetherPower": "伤害反弹",
+        "AetherPower": "反击",
         "color": "黄",
         "class": "僧侣",
         "speed": "中等",
@@ -78677,7 +78677,7 @@ window.allHeroes =
             "额外伤害"
         ],
         "source": "服装间",
-        "Release date": "2021-01-25",
+        "Release date": "2021-01-18",
         "star": 3,
         "power": 469,
         "attack": 537,
@@ -79052,7 +79052,7 @@ window.allHeroes =
             "狙击手"
         ],
         "source": "服装间",
-        "Release date": "2021-01-25",
+        "Release date": "2021-01-18",
         "star": 3,
         "power": 474,
         "attack": 529,
@@ -79491,7 +79491,7 @@ window.allHeroes =
             "伤害分摊"
         ],
         "source": "服装间",
-        "Release date": "2021-01-25",
+        "Release date": "2021-01-18",
         "star": 3,
         "power": 473,
         "attack": 431,
@@ -81332,7 +81332,7 @@ window.allHeroes =
     {
         "name": "埃林 (Errin)",
         "fancy_name": "星体矮人玩具匠",
-        "AetherPower": "伤害反弹",
+        "AetherPower": "反击",
         "color": "黄",
         "class": "牧师",
         "speed": "快速",
@@ -82471,7 +82471,7 @@ window.allHeroes =
     {
         "name": "丽秀 (Li Xiu)",
         "fancy_name": "智慧将军",
-        "AetherPower": "伤害反弹",
+        "AetherPower": "反击",
         "color": "黄",
         "class": "僧侣",
         "speed": "中等",
@@ -82542,7 +82542,7 @@ window.allHeroes =
             "法力削减或格挡"
         ],
         "source": "服装间",
-        "Release date": "2020-01-20",
+        "Release date": "2020-01-01",
         "star": 4,
         "power": 685,
         "attack": 673,
@@ -82642,7 +82642,7 @@ window.allHeroes =
     {
         "name": "丽秀 (Li Xiu) 卡通",
         "fancy_name": "卡通将军",
-        "AetherPower": "伤害反弹",
+        "AetherPower": "反击",
         "color": "黄",
         "class": "僧侣",
         "speed": "中等",
@@ -82704,7 +82704,7 @@ window.allHeroes =
     {
         "name": "丽秀 (Li Xiu) 玻璃",
         "fancy_name": "玻璃将军",
-        "AetherPower": "伤害反弹",
+        "AetherPower": "反击",
         "color": "黄",
         "class": "僧侣",
         "speed": "中等",
@@ -84493,7 +84493,7 @@ window.allHeroes =
     {
         "name": "白鼠 (Baishu)",
         "fancy_name": "农历鼠游侠",
-        "AetherPower": "伤害反弹",
+        "AetherPower": "反击",
         "color": "黄",
         "class": "僧侣",
         "speed": "快速",
@@ -84777,7 +84777,7 @@ window.allHeroes =
     {
         "name": "克里斯蒂娜·达埃 (Christine Daae)",
         "fancy_name": "歌剧院女歌手",
-        "AetherPower": "伤害反弹",
+        "AetherPower": "反击",
         "color": "黄",
         "class": "牧师",
         "speed": "快速",
@@ -85995,7 +85995,7 @@ window.allHeroes =
             "绕过"
         ],
         "source": "额外抽奖 - 秘密召唤",
-        "Release date": "2025-05-31",
+        "Release date": "2025-06-06",
         "star": 5,
         "power": 1200,
         "attack": 1236,
@@ -86683,7 +86683,7 @@ window.allHeroes =
             "复活"
         ],
         "source": "超级元素人",
-        "Release date": "2025-01-01",
+        "Release date": "2025-01-20",
         "star": 5,
         "power": 1172,
         "attack": 1246,
@@ -88405,7 +88405,7 @@ window.allHeroes =
     {
         "name": "亚坤 (Jequn)",
         "fancy_name": "宇宙之谜",
-        "AetherPower": "伤害反弹",
+        "AetherPower": "反击",
         "color": "黄",
         "class": "僧侣",
         "speed": "飞速",
@@ -88618,7 +88618,7 @@ window.allHeroes =
             "狙击手"
         ],
         "source": "服装间",
-        "Release date": "2020-01-20",
+        "Release date": "2020-01-01",
         "star": 5,
         "power": 847,
         "attack": 841,
@@ -89719,7 +89719,7 @@ window.allHeroes =
     {
         "name": "莱昂尼达斯 (Leonidas)",
         "fancy_name": "不屈王者",
-        "AetherPower": "伤害反弹",
+        "AetherPower": "反击",
         "color": "黄",
         "class": "僧侣",
         "speed": "中等",
@@ -89904,7 +89904,7 @@ window.allHeroes =
     {
         "name": "莱昂尼达斯 (Leonidas) 卡通",
         "fancy_name": "不屈卡通",
-        "AetherPower": "伤害反弹",
+        "AetherPower": "反击",
         "color": "黄",
         "class": "僧侣",
         "speed": "中等",
@@ -89970,7 +89970,7 @@ window.allHeroes =
     {
         "name": "莱昂尼达斯 (Leonidas) 玻璃",
         "fancy_name": "不屈彩绘",
-        "AetherPower": "伤害反弹",
+        "AetherPower": "反击",
         "color": "黄",
         "class": "僧侣",
         "speed": "中等",
@@ -89988,7 +89988,7 @@ window.allHeroes =
             "狙击手"
         ],
         "source": "服装间",
-        "Release date": "2025-02-10",
+        "Release date": "2025-02-11",
         "star": 5,
         "power": 1232,
         "attack": 1337,
@@ -90113,7 +90113,7 @@ window.allHeroes =
     {
         "name": "玛琳 (Malin)",
         "fancy_name": "泰坦骨战士",
-        "AetherPower": "伤害反弹",
+        "AetherPower": "反击",
         "color": "黄",
         "class": "僧侣",
         "speed": "慢",
@@ -92029,7 +92029,7 @@ window.allHeroes =
     {
         "name": "佩蒂纳克斯 (Pertinax)",
         "fancy_name": "猫头鹰高塔的骑士守卫",
-        "AetherPower": "伤害反弹",
+        "AetherPower": "反击",
         "color": "黄",
         "class": "圣骑士",
         "speed": "中等",
@@ -92480,7 +92480,7 @@ window.allHeroes =
     {
         "name": "拉娜 (Rana)",
         "fancy_name": "飞沙帝国王后",
-        "AetherPower": "伤害反弹",
+        "AetherPower": "反击",
         "color": "黄",
         "class": "僧侣",
         "speed": "中等",
@@ -92884,7 +92884,7 @@ window.allHeroes =
     {
         "name": "罗莎琳德 (Rosalind)",
         "fancy_name": "开朗的队长",
-        "AetherPower": "伤害反弹",
+        "AetherPower": "反击",
         "color": "黄",
         "class": "牧师",
         "speed": "快速",
@@ -94361,7 +94361,7 @@ window.allHeroes =
             "治疗"
         ],
         "source": "服装间",
-        "Release date": "2020-01-20",
+        "Release date": "2020-01-01",
         "star": 5,
         "power": 850,
         "attack": 797,
@@ -94560,7 +94560,7 @@ window.allHeroes =
             "反射"
         ],
         "source": "服装间",
-        "Release date": "2024-12-24",
+        "Release date": "2024-12-25",
         "star": 5,
         "power": 1238,
         "attack": 1239,

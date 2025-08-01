@@ -57,7 +57,7 @@ REPLACEMENT_RULES = {
         }
     ],
     ('aetherGift', ): [{
-        'file': 'aether_power_cn.txt', 
+        'file': 'aether_power_en.txt', 
         'prefix': 'limitbreak.gift.title.'
     }],
     ('element','manaSpeedId','classType','rarity' ): [
@@ -296,7 +296,7 @@ def process_path(path):
 
 def process_file(filepath, output_dir):
     basename = os.path.basename(filepath)
-    output_filename = os.path.join(output_dir, os.path.splitext(basename)[0] + ".json")
+    output_filename = os.path.join(output_dir, os.path.splitext(basename)[0] + "_en.json")
     print(f"\n--- 正在处理文件: '{basename}' ---")
     try:
         with open(filepath, 'rb') as f:

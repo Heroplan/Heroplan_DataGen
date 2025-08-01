@@ -1,0 +1,9 @@
+共执行了 6 条数据修正。
+================================
+
+[手动覆盖] 'Ascension Mimic Ice' -> 字段 'Release date': 从 '2200-01-01' 修正为 '2025-07-26'
+[手动覆盖] 'Ascension Mimic' -> 字段 'Release date': 从 '2200-01-01' 修正为 '2025-07-04'
+[手动覆盖] 'Cyprian Glass' -> 字段 'AetherPower': 从 'Special Armor' 修正为 'Counterattack'
+[手动覆盖] 'Cyprian Glass' -> 字段 'Release date': 从 '2200-01-01' 修正为 '2025-04-23'
+[手动覆盖] 'Isarnia Glass' -> 字段 'AetherPower': 从 'Defense Up' 修正为 'Regen'
+[手动覆盖] 'Isarnia Glass' -> 字段 'Release date': 从 '2200-01-01' 修正为 '2025-06-18'

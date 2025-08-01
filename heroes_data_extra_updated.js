@@ -2608,7 +2608,7 @@ window.allHeroesExtra = [
         "name": "Isarnia Glass",
         "fancy name": "Vitrail of Glaceholm",
         "Release date": "2025-06-18",
-        "AetherPower": "Defense Up",
+        "AetherPower": "Regen",
         "skill_types": [
             "AoE Attackers (Hit-5)",
             "Bypassers",
@@ -9844,7 +9844,7 @@ window.allHeroesExtra = [
         "name": "Cyprian Glass",
         "fancy name": "Deathbound Vitrail",
         "Release date": "2025-04-23",
-        "AetherPower": "Special Armor",
+        "AetherPower": "Counterattack",
         "skill_types": [
             "Counterattackers"
         ],
