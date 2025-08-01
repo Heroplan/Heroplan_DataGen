@@ -2614,12 +2614,12 @@ window.allHeroesExtra = [
             "Bypassers",
             "Debuffers (DEF)"
         ],
-        "baseAttack": 272,
-        "baseDefense": 250,
-        "baseHealth": 392,
-        "attackBonus": "17%",
-        "defenseBonus": "17%",
-        "healthBonus": "22%",
+        "baseAttack": 406,
+        "baseDefense": 302,
+        "baseHealth": 574,
+        "attackBonus": "75%",
+        "defenseBonus": "75%",
+        "healthBonus": "78%",
         "manaBonus": "5%"
     },
     {

@@ -13,7 +13,14 @@ MANUAL_OVERRIDE_RULES = [
         "name": "Isarnia Glass", 
         "overrides": {
             "AetherPower": "Regen",
-            "Release date": "2025-06-18"
+            "Release date": "2025-06-18",
+            "baseAttack": 406,
+            "baseDefense": 302,
+            "baseHealth": 574,
+            "attackBonus": "75%",
+            "defenseBonus": "75%",
+            "healthBonus": "78%",
+            "manaBonus": "5%"
         }
     },
     { "name": "Ascension Mimic", "overrides": { "Release date": "2025-07-04" } },

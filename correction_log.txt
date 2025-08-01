@@ -1,4 +1,4 @@
-共执行了 6 条数据修正。
+共执行了 12 条数据修正。
 ================================
 
 [手动覆盖] 'Ascension Mimic Ice' -> 字段 'Release date': 从 '2200-01-01' 修正为 '2025-07-26'
@@ -7,3 +7,9 @@
 [手动覆盖] 'Cyprian Glass' -> 字段 'Release date': 从 '2200-01-01' 修正为 '2025-04-23'
 [手动覆盖] 'Isarnia Glass' -> 字段 'AetherPower': 从 'Defense Up' 修正为 'Regen'
 [手动覆盖] 'Isarnia Glass' -> 字段 'Release date': 从 '2200-01-01' 修正为 '2025-06-18'
+[手动覆盖] 'Isarnia Glass' -> 字段 'attackBonus': 从 '17%' 修正为 '75%'
+[手动覆盖] 'Isarnia Glass' -> 字段 'baseAttack': 从 '272' 修正为 '406'
+[手动覆盖] 'Isarnia Glass' -> 字段 'baseDefense': 从 '250' 修正为 '302'
+[手动覆盖] 'Isarnia Glass' -> 字段 'baseHealth': 从 '392' 修正为 '574'
+[手动覆盖] 'Isarnia Glass' -> 字段 'defenseBonus': 从 '17%' 修正为 '75%'
+[手动覆盖] 'Isarnia Glass' -> 字段 'healthBonus': 从 '22%' 修正为 '78%'
