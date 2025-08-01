@@ -8,10 +8,6 @@ import sys
 # ==============================================================================
 # --- 用户配置区：在这里添加您的所有自定义规则 ---
 # ==============================================================================
-
-# --- 规则 1: 手动强制覆盖 ---
-# 在这里定义需要对特定英雄进行的、多字段的强制覆盖。
-# 这会覆盖所有自动化同步的值，拥有最高优先级。
 MANUAL_OVERRIDE_RULES = [
     {
         "name": "Isarnia Glass", 
@@ -20,32 +16,17 @@ MANUAL_OVERRIDE_RULES = [
             "Release date": "2025-06-18"
         }
     },
-    {
-        "name": "Ascension Mimic",
-        "overrides": { "Release date": "2025-07-04" }
-    },
-    {
-        "name": "Ascension Mimic Ice",
-        "overrides": { "Release date": "2025-07-26" }
-    },
-    {
-        "name": "Cyprian Glass",
-        "overrides": { 
+    { "name": "Ascension Mimic", "overrides": { "Release date": "2025-07-04" } },
+    { "name": "Ascension Mimic Ice", "overrides": { "Release date": "2025-07-26" } },
+    { "name": "Cyprian Glass", "overrides": {
             "AetherPower": "Counterattack",
-            "Release date": "2025-04-23"
-        }
-    },
-    # 示例: {"name": "英雄名", "overrides": {"字段1": "新值1", "字段2": "新值2"}}
-]
-
-# --- 规则 2: 全局修正 ---
-# 对所有英雄进行检查，如果字段值匹配，则进行替换。
-GLOBAL_CORRECTIONS = {
-    "AetherPower": {
-        "Counterattack11": "Pain Return"
+            "Release date": "2025-04-23" 
+        } 
     }
+]
+GLOBAL_CORRECTIONS = {
+    "AetherPower": { "Counterattack1": "Pain Return" }
 }
-
 # ==============================================================================
 
 # --- 全局变量 ---
@@ -67,10 +48,7 @@ def normalize_name(text):
 def format_percentage(per_mil_value):
     if not isinstance(per_mil_value, (int, float)): return "0%"
     percentage = per_mil_value / 10.0
-    if percentage == int(percentage):
-        return f"{int(percentage)}%"
-    else:
-        return f"{percentage:.1f}%"
+    return f"{int(percentage)}%" if percentage == int(percentage) else f"{percentage:.1f}%"
 
 def load_all_data_sources():
     global CHARACTERS_DATA, HEROES_EXTRA_DATA, COSTUME_BONUSES_DATA
@@ -84,7 +62,6 @@ def load_all_data_sources():
     except Exception as e:
         print(f"❌ 严重错误: 无法加载 'characters_en.json'。错误: {e}")
         return False
-
     try:
         with open('heroes_data_extra.js', 'r', encoding='utf-8') as f:
             js_content = f.read()
@@ -95,7 +72,6 @@ def load_all_data_sources():
     except Exception as e:
         print(f"❌ 严重错误: 无法加载 'heroes_data_extra.js'。错误: {e}")
         return False
-        
     try:
         with open('other.json', 'r', encoding='utf-8') as f:
             other_data = json.load(f)
@@ -103,8 +79,7 @@ def load_all_data_sources():
         COSTUME_BONUSES_DATA = {bonus['id']: bonus for bonus in bonuses_list}
         print(f"✅ 成功加载 'other.json' 并提取了 {len(COSTUME_BONUSES_DATA)} 套服装奖励规则。")
     except Exception as e:
-        print(f"🟡 警告: 无法加载 'other.json' 或其中的服装奖励数据。服装奖励将不可用。错误: {e}")
-
+        print(f"🟡 警告: 无法加载 'other.json'。服装奖励将不可用。错误: {e}")
     return True
 
 def calculate_costume_bonus(hero_extra_entry, rarity, costume_bonuses_id):
@@ -112,11 +87,9 @@ def calculate_costume_bonus(hero_extra_entry, rarity, costume_bonuses_id):
     bonus_rule = COSTUME_BONUSES_DATA.get(costume_bonuses_id)
     if not bonus_rule or not bonus_rule.get('statBonuses'): return None, f"在 other.json 中未找到有效的 costumeBonusesId '{costume_bonuses_id}'"
     if rarity > len(bonus_rule['statBonuses']): return None, "稀有度超出奖励规则范围"
-    
     rarity_bonuses = bonus_rule['statBonuses'][rarity - 1]
     bonus_levels = rarity_bonuses.get('bonusLevels')
     if not bonus_levels: return None, "稀有度对应的 bonusLevels 为空"
-
     bonus_data = None
     if costume_bonuses_id == 'classic' or costume_bonuses_id == 'default':
         hero_name = hero_extra_entry.get("name", "").lower()
@@ -125,16 +98,13 @@ def calculate_costume_bonus(hero_extra_entry, rarity, costume_bonuses_id):
         elif "costume2" in hero_name: costume_number = 2
         elif "toon" in hero_name: costume_number = 3 if rarity >= 4 else 2
         elif "glass" in hero_name: costume_number = 4 if rarity >= 4 else 3
-
         stages_per_costume = 4 if rarity >= 4 else 3
         target_index = (costume_number * stages_per_costume) - 1
         if target_index < len(bonus_levels):
             bonus_data = bonus_levels[target_index]
-        else:
-            return None, f"计算出的索引 {target_index} 超出 '{costume_bonuses_id}' 奖励列表范围"
+        else: return None, f"计算出的索引 {target_index} 超出 '{costume_bonuses_id}' 奖励列表范围"
     else:
         bonus_data = bonus_levels[-1]
-
     if bonus_data:
         bonuses = {
             "attackBonus": format_percentage(bonus_data.get('attackBonusPerMil', 0)),
@@ -151,7 +121,6 @@ def main_sync_process():
     updated_count, bonus_calculated_count = 0, 0
     costume_keywords = ["costume1", "costume2", "toon", "glass"]
 
-    # 阶段 1 & 2: 自动化同步与奖励计算
     for hero_extra in HEROES_EXTRA_DATA:
         fancy_name = hero_extra.get("fancy name")
         hero_name_lower = hero_extra.get("name", "").lower()
@@ -192,15 +161,11 @@ def main_sync_process():
     print(f"✅ 自动化同步完成：成功更新 {updated_count} 条记录。")
     print(f"✅ 成功计算并添加了 {bonus_calculated_count} 套服装奖励。")
 
-    # 阶段 3: 最终修正阶段
     print("\n--- 阶段 3: 开始执行最终修正 ---")
-    manual_correction_count = 0
-    global_correction_count = 0
+    manual_correction_count, global_correction_count = 0, 0
     override_lookup = {rule["name"]: rule["overrides"] for rule in MANUAL_OVERRIDE_RULES}
-    
     for hero_extra in HEROES_EXTRA_DATA:
         hero_name = hero_extra.get("name")
-        # 优先级 1: 手动强制覆盖
         if hero_name and hero_name in override_lookup:
             overrides = override_lookup[hero_name]
             for field, new_value in overrides.items():
@@ -210,29 +175,35 @@ def main_sync_process():
                     log_msg = f"[手动覆盖] '{hero_name}' -> 字段 '{field}': 从 '{old_value}' 修正为 '{new_value}'"
                     CORRECTION_LOG_MESSAGES.append(log_msg)
                     manual_correction_count += 1
-        
-        # 优先级 2: 全局修正
         for field, corrections in GLOBAL_CORRECTIONS.items():
             current_value = hero_extra.get(field)
             if current_value in corrections:
                 new_value = corrections[current_value]
                 hero_extra[field] = new_value
-                log_msg = f"[全局修正] '{hero_name}' -> 字段 '{field}': 从 '{current_value}' 修正为 '{new_value}'"
+                log_msg = f"[全局修正] '{hero_name or 'N/A'}' -> 字段 '{field}': 从 '{current_value}' 修正为 '{new_value}'"
                 CORRECTION_LOG_MESSAGES.append(log_msg)
                 global_correction_count += 1
-                
-    if manual_correction_count > 0:
-        print(f"✅ 手动覆盖完成：成功应用 {manual_correction_count} 条修正 (详情见 correction_log.txt)。")
-    if global_correction_count > 0:
-        print(f"✅ 全局修正完成：成功应用 {global_correction_count} 条修正 (详情见 correction_log.txt)。")
-    if not manual_correction_count and not global_correction_count:
-        print("🟡 未应用任何修正规则。")
+    if manual_correction_count > 0: print(f"✅ 手动覆盖完成：成功应用 {manual_correction_count} 条修正 (详情见 correction_log.txt)。")
+    if global_correction_count > 0: print(f"✅ 全局修正完成：成功应用 {global_correction_count} 条修正 (详情见 correction_log.txt)。")
+    if not manual_correction_count and not global_correction_count: print("🟡 未应用任何修正规则。")
 
-    # 阶段 4: 写入文件与日志
+    # --- 新增：阶段 4: 最终数据排查 ---
+    print("\n--- 阶段 4: 开始执行最终数据排查 ---")
+    anomalies = []
+    anomaly_date = "2200-01-01"
+    for hero_extra in HEROES_EXTRA_DATA:
+        if hero_extra.get("Release date") == anomaly_date:
+            anomalies.append(hero_extra)
+    
+    if anomalies:
+        print(f"🚨 警告: 发现 {len(anomalies)} 条记录的发布日期为 '{anomaly_date}' (详情见 final_check_anomalies_log.txt)。")
+    else:
+        print("✅ 数据排查完成：未发现发布日期异常。")
+
+    # --- 阶段 5: 写入文件与日志 ---
     output_file = 'heroes_data_extra_updated.js'
-    log_file = 'unmatched_heroes_log.txt'
+    print(f"\n正在生成更新后的JS文件: '{output_file}'...")
     try:
-        print(f"\n正在生成更新后的JS文件: '{output_file}'...")
         updated_json_str = json.dumps(HEROES_EXTRA_DATA, indent=4, ensure_ascii=False)
         updated_js_content = f"window.allHeroesExtra = {updated_json_str};"
         with open(output_file, 'w', encoding='utf-8') as f:
@@ -242,7 +213,10 @@ def main_sync_process():
         print(f"❌ 写入更新文件时发生错误: {e}")
 
     # --- 写入所有日志文件 ---
-    write_log_file(log_file, f"共有 {len(UNMATCHED_LOG)} 条记录未在 characters_en.json 中找到匹配项。", UNMATCHED_LOG, lambda h: f"Name: {h.get('name', 'N/A')}, Fancy Name: {h.get('fancy name', 'N/A')}")
+    write_log_file('unmatched_heroes_log.txt', f"共有 {len(UNMATCHED_LOG)} 条记录未在 characters_en.json 中找到匹配项。", UNMATCHED_LOG, lambda h: f"Name: {h.get('name', 'N/A')}, Fancy Name: {h.get('fancy name', 'N/A')}")
+    write_log_file('correction_log.txt', f"共执行了 {len(CORRECTION_LOG_MESSAGES)} 条数据修正。", CORRECTION_LOG_MESSAGES, lambda msg: msg)
+    write_log_file('bonus_calculation_failures_log.txt', f"共有 {len(BONUS_CALCULATION_FAILURES)} 套已匹配服装的奖励计算失败。", BONUS_CALCULATION_FAILURES, lambda fail: f"Name: {fail.get('name', 'N/A')}\n  Fancy Name: {fail.get('fancy_name', 'N/A')}\n  失败原因: {fail.get('reason', '未知')}\n")
+    write_log_file('final_check_anomalies_log.txt', f"发现 {len(anomalies)} 条记录的发布日期为 '{anomaly_date}'。", anomalies, lambda h: f"Name: {h.get('name', 'N/A')}, Fancy Name: {h.get('fancy name', 'N/A')}")
     
     report_file = 'costume_matching_report.txt'
     unmatched_costumes = COSTUMES_IN_EXTRA_DATA - MATCHED_COSTUMES
@@ -263,9 +237,6 @@ def main_sync_process():
         print(f"✅ 成功写入服装匹配报告: '{report_file}'。")
     except Exception as e:
         print(f"❌ 写入服装报告时发生错误: {e}")
-
-    write_log_file('bonus_calculation_failures_log.txt', f"共有 {len(BONUS_CALCULATION_FAILURES)} 套已匹配服装的奖励计算失败。", BONUS_CALCULATION_FAILURES, lambda fail: f"Name: {fail.get('name', 'N/A')}\n  Fancy Name: {fail.get('fancy_name', 'N/A')}\n  失败原因: {fail.get('reason', '未知')}\n")
-    write_log_file('correction_log.txt', f"共执行了 {len(CORRECTION_LOG_MESSAGES)} 条数据修正。", CORRECTION_LOG_MESSAGES, lambda msg: msg)
             
     print("\n--- 所有任务处理完毕 ---")
 
@@ -275,7 +246,7 @@ def write_log_file(filename, header, data_list, formatter):
         print(f"正在生成日志文件: '{filename}'...")
         with open(filename, 'w', encoding='utf-8') as f:
             f.write(header + "\n================================\n\n")
-            for item in sorted(data_list, key=str):
+            for item in sorted(data_list, key=lambda x: str(x)):
                 f.write(formatter(item) + "\n")
         print(f"✅ 成功写入 '{filename}'。")
     except Exception as e:

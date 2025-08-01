@@ -11000,7 +11000,7 @@ window.allHeroes =
     {
         "name": "Isarnia Glass",
         "fancy_name": "Vitrail of Glaceholm",
-        "AetherPower": "Defense Up",
+        "AetherPower": "Regen",
         "color": "Blue",
         "class": "Wizard",
         "speed": "Slow",
@@ -41605,7 +41605,7 @@ window.allHeroes =
     {
         "name": "Cyprian Glass",
         "fancy_name": "Deathbound Vitrail",
-        "AetherPower": "Special Armor",
+        "AetherPower": "Counterattack",
         "color": "Purple",
         "class": "Paladin",
         "speed": "Average",

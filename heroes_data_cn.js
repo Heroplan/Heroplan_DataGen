@@ -11002,7 +11002,7 @@ window.allHeroes =
     {
         "name": "伊萨莉亚 (Isarnia) 玻璃",
         "fancy_name": "格雷斯尔摩彩绘",
-        "AetherPower": "防御提升",
+        "AetherPower": "生命恢复",
         "color": "蓝",
         "class": "巫师",
         "speed": "慢",
@@ -41618,7 +41618,7 @@ window.allHeroes =
     {
         "name": "塞普里恩 (Cyprian) 玻璃",
         "fancy_name": "驭死彩绘",
-        "AetherPower": "特殊护甲",
+        "AetherPower": "反击",
         "color": "紫",
         "class": "圣骑士",
         "speed": "中等",
