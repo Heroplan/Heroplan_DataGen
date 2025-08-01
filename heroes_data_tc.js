@@ -2573,8 +2573,8 @@ window.allHeroes =
     },
     {
         "name": "水鎧兵 (Aqualith) C1",
-        "fancy_name": "元素重裝步兵",
-        "AetherPower": "傷害減少",
+        "fancy_name": "元素巨人",
+        "AetherPower": "閃避",
         "color": "藍",
         "class": "野人",
         "speed": "潮汐",
@@ -2588,7 +2588,7 @@ window.allHeroes =
             "嘲諷"
         ],
         "source": "S6 - 深淵謎團",
-        "Release date": "2023-09-27",
+        "Release date": "2025-05-28",
         "star": 4,
         "power": 704,
         "attack": 676,

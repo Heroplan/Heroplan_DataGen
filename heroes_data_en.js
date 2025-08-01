@@ -2573,8 +2573,8 @@ window.allHeroes =
     },
     {
         "name": "Aqualith C1",
-        "fancy_name": "Elemental Hoplite",
-        "AetherPower": "Damage Reduction",
+        "fancy_name": "Elemental Colossus",
+        "AetherPower": "Dodge",
         "color": "Blue",
         "class": "Barbarian",
         "speed": "Changing Tides",
@@ -2588,7 +2588,7 @@ window.allHeroes =
             "Taunters"
         ],
         "source": "S6 - Mysteries of the Deep",
-        "Release date": "2023-09-27",
+        "Release date": "2025-05-28",
         "star": 4,
         "power": 704,
         "attack": 676,

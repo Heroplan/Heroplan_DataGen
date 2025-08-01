@@ -2573,8 +2573,8 @@ window.allHeroes =
     },
     {
         "name": "水形魔 (Aqualith) C1",
-        "fancy_name": "元素重装步兵",
-        "AetherPower": "减伤",
+        "fancy_name": "元素巨人",
+        "AetherPower": "闪避",
         "color": "蓝",
         "class": "野蛮人",
         "speed": "潮汐",
@@ -2588,7 +2588,7 @@ window.allHeroes =
             "嘲讽"
         ],
         "source": "S6 - 深海奥秘",
-        "Release date": "2023-09-27",
+        "Release date": "2025-05-28",
         "star": 4,
         "power": 704,
         "attack": 676,
