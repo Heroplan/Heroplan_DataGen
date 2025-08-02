@@ -194,7 +194,7 @@ window.allHeroesExtra = [
         "manaBonus": "5%",
         "rarity": 3,
         "element": "Blue",
-        "specialId": "raccoon_bite"
+        "specialId": "wolf_bite"
     },
     {
         "name": "Graymane Toon",
@@ -215,7 +215,7 @@ window.allHeroesExtra = [
         "manaBonus": "5%",
         "rarity": 3,
         "element": "Blue",
-        "specialId": "toon_bite"
+        "specialId": "wolf_bite"
     },
     {
         "name": "Graymane Glass",
@@ -236,7 +236,7 @@ window.allHeroesExtra = [
         "manaBonus": "5%",
         "rarity": 3,
         "element": "Blue",
-        "specialId": "glass_bite"
+        "specialId": "wolf_bite"
     },
     {
         "name": "Guardian Lemur",
@@ -288,7 +288,7 @@ window.allHeroesExtra = [
         "manaBonus": "5%",
         "rarity": 3,
         "element": "Blue",
-        "specialId": "shadow_link"
+        "specialId": "stone_skin"
     },
     {
         "name": "Gunnar Toon",
@@ -308,7 +308,7 @@ window.allHeroesExtra = [
         "manaBonus": "5%",
         "rarity": 3,
         "element": "Blue",
-        "specialId": "toon_link"
+        "specialId": "stone_skin"
     },
     {
         "name": "Helo",
@@ -344,7 +344,7 @@ window.allHeroesExtra = [
         "manaBonus": "1%",
         "rarity": 3,
         "element": "Blue",
-        "specialId": "sublime_pastry"
+        "specialId": "healthiest_catch"
     },
     {
         "name": "Jarif",
@@ -380,7 +380,7 @@ window.allHeroesExtra = [
         "manaBonus": "1%",
         "rarity": 3,
         "element": "Blue",
-        "specialId": "disabling_study"
+        "specialId": "disabling_decree"
     },
     {
         "name": "Jarvur",
@@ -449,7 +449,7 @@ window.allHeroesExtra = [
         "manaBonus": "5%",
         "rarity": 3,
         "element": "Blue",
-        "specialId": "forge_rush"
+        "specialId": "ramming_rush"
     },
     {
         "name": "Karil Toon",
@@ -469,7 +469,7 @@ window.allHeroesExtra = [
         "manaBonus": "5%",
         "rarity": 3,
         "element": "Blue",
-        "specialId": "adorable_ramming_rush"
+        "specialId": "ramming_rush"
     },
     {
         "name": "Nordri",
@@ -505,7 +505,7 @@ window.allHeroesExtra = [
         "manaBonus": "1%",
         "rarity": 3,
         "element": "Blue",
-        "specialId": "icy_axes"
+        "specialId": "frosty_axes"
     },
     {
         "name": "Planchet",
@@ -594,7 +594,7 @@ window.allHeroesExtra = [
         "manaBonus": "5%",
         "rarity": 3,
         "element": "Blue",
-        "specialId": "whiteout"
+        "specialId": "cold_blast"
     },
     {
         "name": "Ulmer Toon",
@@ -615,7 +615,7 @@ window.allHeroesExtra = [
         "manaBonus": "5%",
         "rarity": 3,
         "element": "Blue",
-        "specialId": "adorable_cold_blast"
+        "specialId": "cold_blast"
     },
     {
         "name": "Valen",
@@ -651,7 +651,7 @@ window.allHeroesExtra = [
         "manaBonus": "5%",
         "rarity": 3,
         "element": "Blue",
-        "specialId": "thrilling_clash"
+        "specialId": "chilling_slash"
     },
     {
         "name": "Valen Toon",
@@ -672,7 +672,7 @@ window.allHeroesExtra = [
         "manaBonus": "5%",
         "rarity": 3,
         "element": "Blue",
-        "specialId": "toon_slash"
+        "specialId": "chilling_slash"
     },
     {
         "name": "Virgil",
@@ -758,7 +758,7 @@ window.allHeroesExtra = [
         "manaBonus": "5%",
         "rarity": 4,
         "element": "Blue",
-        "specialId": "spilled_decoctions"
+        "specialId": "tidal_wave"
     },
     {
         "name": "Aqualith",
@@ -794,7 +794,7 @@ window.allHeroesExtra = [
         "manaBonus": "1%",
         "rarity": 4,
         "element": "Blue",
-        "specialId": "impervious_formation"
+        "specialId": "close_order_formation"
     },
     {
         "name": "Azmia",
@@ -832,7 +832,7 @@ window.allHeroesExtra = [
         "manaBonus": "1%",
         "rarity": 4,
         "element": "Blue",
-        "specialId": "dancestance"
+        "specialId": "counterstance"
     },
     {
         "name": "Bonechill",
@@ -883,7 +883,7 @@ window.allHeroesExtra = [
         "manaBonus": "5%",
         "rarity": 4,
         "element": "Blue",
-        "specialId": "sturdy_riposte"
+        "specialId": "perfect_riposte"
     },
     {
         "name": "Boril Costume2",
@@ -902,7 +902,7 @@ window.allHeroesExtra = [
         "manaBonus": "5%",
         "rarity": 4,
         "element": "Blue",
-        "specialId": "unrelenting_riposte"
+        "specialId": "perfect_riposte"
     },
     {
         "name": "Boril Toon",
@@ -921,7 +921,7 @@ window.allHeroesExtra = [
         "manaBonus": "5%",
         "rarity": 4,
         "element": "Blue",
-        "specialId": "toon_riposte"
+        "specialId": "perfect_riposte"
     },
     {
         "name": "Captain of Diamonds",
@@ -1015,7 +1015,7 @@ window.allHeroesExtra = [
         "manaBonus": "5%",
         "rarity": 4,
         "element": "Blue",
-        "specialId": "undead_obliteration"
+        "specialId": "undead_razer"
     },
     {
         "name": "Garyas",
@@ -1086,7 +1086,7 @@ window.allHeroesExtra = [
         "manaBonus": "5%",
         "rarity": 4,
         "element": "Blue",
-        "specialId": "merciless_pulverizer"
+        "specialId": "ramming_pulverizer"
     },
     {
         "name": "Grimm Costume2",
@@ -1106,7 +1106,7 @@ window.allHeroesExtra = [
         "manaBonus": "5%",
         "rarity": 4,
         "element": "Blue",
-        "specialId": "postal_pulverizer"
+        "specialId": "ramming_pulverizer"
     },
     {
         "name": "Grimm Toon",
@@ -1127,7 +1127,7 @@ window.allHeroesExtra = [
         "manaBonus": "5%",
         "rarity": 4,
         "element": "Blue",
-        "specialId": "toonpower_pulverizer"
+        "specialId": "ramming_pulverizer"
     },
     {
         "name": "Grimm Glass",
@@ -1148,7 +1148,7 @@ window.allHeroesExtra = [
         "manaBonus": "5%",
         "rarity": 4,
         "element": "Blue",
-        "specialId": "glass_pulverizer"
+        "specialId": "ramming_pulverizer"
     },
     {
         "name": "Grumbl",
@@ -1222,7 +1222,7 @@ window.allHeroesExtra = [
         "manaBonus": "5%",
         "rarity": 4,
         "element": "Blue",
-        "specialId": "blessed_solo"
+        "specialId": "blessed_brew"
     },
     {
         "name": "Kiril Costume2",
@@ -1243,7 +1243,7 @@ window.allHeroesExtra = [
         "manaBonus": "5%",
         "rarity": 4,
         "element": "Blue",
-        "specialId": "blessed_tankard"
+        "specialId": "blessed_brew"
     },
     {
         "name": "Kiril Toon",
@@ -1264,7 +1264,7 @@ window.allHeroesExtra = [
         "manaBonus": "5%",
         "rarity": 4,
         "element": "Blue",
-        "specialId": "toon_brew"
+        "specialId": "blessed_brew"
     },
     {
         "name": "Kiril Glass",
@@ -1286,7 +1286,7 @@ window.allHeroesExtra = [
         "manaBonus": "5%",
         "rarity": 4,
         "element": "Blue",
-        "specialId": "glass_brew"
+        "specialId": "blessed_brew"
     },
     {
         "name": "Knuckles",
@@ -1445,7 +1445,7 @@ window.allHeroesExtra = [
         "manaBonus": "5%",
         "rarity": 4,
         "element": "Blue",
-        "specialId": "purifying_strike"
+        "specialId": "piercing_strike"
     },
     {
         "name": "Sonya Costume2",
@@ -1465,7 +1465,7 @@ window.allHeroesExtra = [
         "manaBonus": "5%",
         "rarity": 4,
         "element": "Blue",
-        "specialId": "wrenching_strike"
+        "specialId": "piercing_strike"
     },
     {
         "name": "Sonya Toon",
@@ -1486,7 +1486,7 @@ window.allHeroesExtra = [
         "manaBonus": "5%",
         "rarity": 4,
         "element": "Blue",
-        "specialId": "adorable_piercing_strike"
+        "specialId": "piercing_strike"
     },
     {
         "name": "Triton",
@@ -1522,7 +1522,7 @@ window.allHeroesExtra = [
         "manaBonus": "5%",
         "rarity": 4,
         "element": "Blue",
-        "specialId": "herculean_throw"
+        "specialId": "heroic_noble"
     },
     {
         "name": "Valeria",
@@ -1593,7 +1593,7 @@ window.allHeroesExtra = [
         "manaBonus": "1%",
         "rarity": 4,
         "element": "Blue",
-        "specialId": "aquatic_dance"
+        "specialId": "fishbone_blades"
     },
     {
         "name": "Adalinda",
@@ -1651,7 +1651,7 @@ window.allHeroesExtra = [
         "manaBonus": "5%",
         "rarity": 5,
         "element": "Blue",
-        "specialId": "glacial_resilience"
+        "specialId": "icy_resilience"
     },
     {
         "name": "Aino",
@@ -1689,7 +1689,7 @@ window.allHeroesExtra = [
         "manaBonus": "5%",
         "rarity": 5,
         "element": "Blue",
-        "specialId": "anthem_of_the_lake"
+        "specialId": "summer_carol"
     },
     {
         "name": "Alasie",
@@ -1730,7 +1730,7 @@ window.allHeroesExtra = [
         "manaBonus": "5%",
         "rarity": 5,
         "element": "Blue",
-        "specialId": "arrow_of_nujalik"
+        "specialId": "spirit_arrow"
     },
     {
         "name": "Alexandrine",
@@ -1876,7 +1876,7 @@ window.allHeroesExtra = [
         "manaBonus": "5%",
         "rarity": 5,
         "element": "Blue",
-        "specialId": "deep_sea_ritual"
+        "specialId": "divine_protection"
     },
     {
         "name": "Armel",
@@ -1954,7 +1954,7 @@ window.allHeroesExtra = [
         "manaBonus": "5%",
         "rarity": 5,
         "element": "Blue",
-        "specialId": "athenas_arrow"
+        "specialId": "athenas_bow"
     },
     {
         "name": "Atlanteia",
@@ -1998,7 +1998,7 @@ window.allHeroesExtra = [
         "manaBonus": "5%",
         "rarity": 5,
         "element": "Blue",
-        "specialId": "aphotic_whisper"
+        "specialId": "aphotic_maw"
     },
     {
         "name": "Azurite",
@@ -2070,7 +2070,7 @@ window.allHeroesExtra = [
         "manaBonus": "5%",
         "rarity": 5,
         "element": "Blue",
-        "specialId": "sacred_reflection"
+        "specialId": "divine_reflection"
     },
     {
         "name": "Bhaltair",
@@ -2216,7 +2216,7 @@ window.allHeroesExtra = [
         "manaBonus": "5%",
         "rarity": 5,
         "element": "Blue",
-        "specialId": "ice_cold_order"
+        "specialId": "order_to_overwhelm"
     },
     {
         "name": "Cathal",
@@ -2315,7 +2315,7 @@ window.allHeroesExtra = [
         "manaBonus": "5%",
         "rarity": 5,
         "element": "Blue",
-        "specialId": "ocean_vortex"
+        "specialId": "tidal_vortex"
     },
     {
         "name": "Chang'e",
@@ -2571,7 +2571,7 @@ window.allHeroesExtra = [
         "manaBonus": "5%",
         "rarity": 5,
         "element": "Blue",
-        "specialId": "oceanic_suffering"
+        "specialId": "saturated_suffering"
     },
     {
         "name": "Experience Mimic Ice",
@@ -2632,7 +2632,7 @@ window.allHeroesExtra = [
         "manaBonus": "5%",
         "rarity": 5,
         "element": "Blue",
-        "specialId": "colossal_bite"
+        "specialId": "gargantuan_bite"
     },
     {
         "name": "Fergus",
@@ -2688,7 +2688,7 @@ window.allHeroesExtra = [
         "manaBonus": "5%",
         "rarity": 5,
         "element": "Blue",
-        "specialId": "commodores_malice"
+        "specialId": "commodores_revenge"
     },
     {
         "name": "Firmin Richard",
@@ -2938,7 +2938,7 @@ window.allHeroesExtra = [
         "manaBonus": "5%",
         "rarity": 5,
         "element": "Blue",
-        "specialId": "relaxing_riddle"
+        "specialId": "bewildering_riddle"
     },
     {
         "name": "Himeros",
@@ -3067,7 +3067,7 @@ window.allHeroesExtra = [
         "manaBonus": "5%",
         "rarity": 5,
         "element": "Blue",
-        "specialId": "glacial_explosion"
+        "specialId": "glacial_shatter"
     },
     {
         "name": "Isarnia Costume2",
@@ -3088,7 +3088,7 @@ window.allHeroesExtra = [
         "manaBonus": "5%",
         "rarity": 5,
         "element": "Blue",
-        "specialId": "glacial_vortex"
+        "specialId": "glacial_shatter"
     },
     {
         "name": "Isarnia Toon",
@@ -3109,7 +3109,7 @@ window.allHeroesExtra = [
         "manaBonus": "5%",
         "rarity": 5,
         "element": "Blue",
-        "specialId": "adorable_shatter"
+        "specialId": "glacial_shatter"
     },
     {
         "name": "Isarnia Glass",
@@ -3130,7 +3130,7 @@ window.allHeroesExtra = [
         "manaBonus": "5%",
         "rarity": 5,
         "element": "Blue",
-        "specialId": "glass_shatter"
+        "specialId": "glacial_shatter"
     },
     {
         "name": "Ixinn",
@@ -3298,7 +3298,7 @@ window.allHeroesExtra = [
         "manaBonus": "5%",
         "rarity": 5,
         "element": "Blue",
-        "specialId": "merriest_misery"
+        "specialId": "scourge_of_joy"
     },
     {
         "name": "Lord Loki",
@@ -3333,7 +3333,7 @@ window.allHeroesExtra = [
         "manaBonus": "5%",
         "rarity": 5,
         "element": "Blue",
-        "specialId": "shapeshifters_deception"
+        "specialId": "tricksters_mischief"
     },
     {
         "name": "Lysanor",
@@ -3406,7 +3406,7 @@ window.allHeroesExtra = [
         "manaBonus": "5%",
         "rarity": 5,
         "element": "Blue",
-        "specialId": "strike_of_the_monolith"
+        "specialId": "strike_of_the_ancients"
     },
     {
         "name": "Magni Costume2",
@@ -3426,7 +3426,7 @@ window.allHeroesExtra = [
         "manaBonus": "5%",
         "rarity": 5,
         "element": "Blue",
-        "specialId": "strike_of_the_underworld"
+        "specialId": "strike_of_the_ancients"
     },
     {
         "name": "Magni Toon",
@@ -3447,7 +3447,7 @@ window.allHeroesExtra = [
         "manaBonus": "5%",
         "rarity": 5,
         "element": "Blue",
-        "specialId": "strike_of_the_toons"
+        "specialId": "strike_of_the_ancients"
     },
     {
         "name": "Magni Glass",
@@ -3468,7 +3468,7 @@ window.allHeroesExtra = [
         "manaBonus": "5%",
         "rarity": 5,
         "element": "Blue",
-        "specialId": "glass_strike_magni"
+        "specialId": "strike_of_the_ancients"
     },
     {
         "name": "Mariol",
@@ -3521,7 +3521,7 @@ window.allHeroesExtra = [
         "manaBonus": "5%",
         "rarity": 5,
         "element": "Blue",
-        "specialId": "rift_blade"
+        "specialId": "reckless_finisher"
     },
     {
         "name": "Matrera",
@@ -3633,7 +3633,7 @@ window.allHeroesExtra = [
         "manaBonus": "1%",
         "rarity": 5,
         "element": "Blue",
-        "specialId": "preserve_and_freeze"
+        "specialId": "restoration_and_annihilation"
     },
     {
         "name": "Miriam & Midnight",
@@ -3689,7 +3689,7 @@ window.allHeroesExtra = [
         "manaBonus": "5%",
         "rarity": 5,
         "element": "Blue",
-        "specialId": "drum_chain"
+        "specialId": "chain_strike"
     },
     {
         "name": "Miss Ethel",
@@ -3819,7 +3819,7 @@ window.allHeroesExtra = [
         "manaBonus": "5%",
         "rarity": 5,
         "element": "Blue",
-        "specialId": "staff_of_the_seastar"
+        "specialId": "deathly_glaive"
     },
     {
         "name": "Mr Pengi",
@@ -3858,7 +3858,7 @@ window.allHeroesExtra = [
         "manaBonus": "5%",
         "rarity": 5,
         "element": "Blue",
-        "specialId": "herring_surprise"
+        "specialId": "herring_blaster"
     },
     {
         "name": "Nautica",
@@ -4006,7 +4006,7 @@ window.allHeroesExtra = [
         "manaBonus": "5%",
         "rarity": 5,
         "element": "Blue",
-        "specialId": "creative_hands"
+        "specialId": "helping_hands"
     },
     {
         "name": "Pepperbleu",
@@ -4068,7 +4068,7 @@ window.allHeroesExtra = [
         "manaBonus": "5%",
         "rarity": 5,
         "element": "Blue",
-        "specialId": "arctic_wound"
+        "specialId": "everlasting_wound"
     },
     {
         "name": "Pophit",
@@ -4236,7 +4236,7 @@ window.allHeroesExtra = [
         "manaBonus": "5%",
         "rarity": 5,
         "element": "Blue",
-        "specialId": "cloud_axe"
+        "specialId": "cloud_hammer"
     },
     {
         "name": "Richard Costume2",
@@ -4257,7 +4257,7 @@ window.allHeroesExtra = [
         "manaBonus": "5%",
         "rarity": 5,
         "element": "Blue",
-        "specialId": "dread_hammer"
+        "specialId": "cloud_hammer"
     },
     {
         "name": "Richard Toon",
@@ -4278,7 +4278,7 @@ window.allHeroesExtra = [
         "manaBonus": "5%",
         "rarity": 5,
         "element": "Blue",
-        "specialId": "adorable_hammer"
+        "specialId": "cloud_hammer"
     },
     {
         "name": "Richard Glass",
@@ -4299,7 +4299,7 @@ window.allHeroesExtra = [
         "manaBonus": "5%",
         "rarity": 5,
         "element": "Blue",
-        "specialId": "glass_hammer"
+        "specialId": "cloud_hammer"
     },
     {
         "name": "Rumpelstiltskin",
@@ -4345,7 +4345,7 @@ window.allHeroesExtra = [
         "manaBonus": "5%",
         "rarity": 5,
         "element": "Blue",
-        "specialId": "twilight_tricks"
+        "specialId": "legerdemain"
     },
     {
         "name": "Russula",
@@ -4389,7 +4389,7 @@ window.allHeroesExtra = [
         "manaBonus": "5%",
         "rarity": 5,
         "element": "Blue",
-        "specialId": "artful_backstab"
+        "specialId": "vengeful_backstab"
     },
     {
         "name": "Sable",
@@ -4544,7 +4544,7 @@ window.allHeroesExtra = [
         "manaBonus": "5%",
         "rarity": 5,
         "element": "Blue",
-        "specialId": "iceberg_havoc"
+        "specialId": "iceberg_crush"
     },
     {
         "name": "Skarn",
@@ -4623,7 +4623,7 @@ window.allHeroesExtra = [
         "manaBonus": "5%",
         "rarity": 5,
         "element": "Blue",
-        "specialId": "slaying_stake"
+        "specialId": "enchanted_edge"
     },
     {
         "name": "Sobek",
@@ -4659,7 +4659,7 @@ window.allHeroesExtra = [
         "manaBonus": "5%",
         "rarity": 5,
         "element": "Blue",
-        "specialId": "teeth_of_the_river"
+        "specialId": "jaws_of_the_river"
     },
     {
         "name": "Song Jiang",
@@ -4808,7 +4808,7 @@ window.allHeroesExtra = [
         "manaBonus": "5%",
         "rarity": 5,
         "element": "Blue",
-        "specialId": "crystal_embrace"
+        "specialId": "oceans_embrace"
     },
     {
         "name": "Thanatos",
@@ -4879,7 +4879,7 @@ window.allHeroesExtra = [
         "manaBonus": "5%",
         "rarity": 5,
         "element": "Blue",
-        "specialId": "summers_end"
+        "specialId": "icecold_finisher"
     },
     {
         "name": "Thorne Costume2",
@@ -4900,7 +4900,7 @@ window.allHeroesExtra = [
         "manaBonus": "5%",
         "rarity": 5,
         "element": "Blue",
-        "specialId": "glacial_crusher"
+        "specialId": "icecold_finisher"
     },
     {
         "name": "Thorne Toon",
@@ -4920,7 +4920,7 @@ window.allHeroesExtra = [
         "manaBonus": "5%",
         "rarity": 5,
         "element": "Blue",
-        "specialId": "toon_finisher"
+        "specialId": "icecold_finisher"
     },
     {
         "name": "Timius",
@@ -5268,7 +5268,7 @@ window.allHeroesExtra = [
         "manaBonus": "5%",
         "rarity": 3,
         "element": "Green",
-        "specialId": "tranquil_mist"
+        "specialId": "calming_mist"
     },
     {
         "name": "Belith Toon",
@@ -5289,7 +5289,7 @@ window.allHeroesExtra = [
         "manaBonus": "5%",
         "rarity": 3,
         "element": "Green",
-        "specialId": "toon_mist"
+        "specialId": "calming_mist"
     },
     {
         "name": "Belith Glass",
@@ -5310,7 +5310,7 @@ window.allHeroesExtra = [
         "manaBonus": "5%",
         "rarity": 3,
         "element": "Green",
-        "specialId": "glass_mist"
+        "specialId": "calming_mist"
     },
     {
         "name": "Berden",
@@ -5346,7 +5346,7 @@ window.allHeroesExtra = [
         "manaBonus": "5%",
         "rarity": 3,
         "element": "Green",
-        "specialId": "crushing_shot"
+        "specialId": "entangling_shot"
     },
     {
         "name": "Berden Toon",
@@ -5367,7 +5367,7 @@ window.allHeroesExtra = [
         "manaBonus": "5%",
         "rarity": 3,
         "element": "Green",
-        "specialId": "adorable_entangling_shot"
+        "specialId": "entangling_shot"
     },
     {
         "name": "Berden Glass",
@@ -5388,7 +5388,7 @@ window.allHeroesExtra = [
         "manaBonus": "5%",
         "rarity": 3,
         "element": "Green",
-        "specialId": "glass_entangling_shot"
+        "specialId": "entangling_shot"
     },
     {
         "name": "Brienne",
@@ -5422,7 +5422,7 @@ window.allHeroesExtra = [
         "manaBonus": "5%",
         "rarity": 3,
         "element": "Green",
-        "specialId": "jungle_fury"
+        "specialId": "natures_blessing"
     },
     {
         "name": "Brienne Toon",
@@ -5441,7 +5441,7 @@ window.allHeroesExtra = [
         "manaBonus": "5%",
         "rarity": 3,
         "element": "Green",
-        "specialId": "toon_fury"
+        "specialId": "natures_blessing"
     },
     {
         "name": "Brienne Glass",
@@ -5461,7 +5461,7 @@ window.allHeroesExtra = [
         "manaBonus": "5%",
         "rarity": 3,
         "element": "Green",
-        "specialId": "glass_fury"
+        "specialId": "natures_blessing"
     },
     {
         "name": "By-Ulf",
@@ -5515,7 +5515,7 @@ window.allHeroesExtra = [
         "manaBonus": "5%",
         "rarity": 3,
         "element": "Green",
-        "specialId": "stab_of_four_blades"
+        "specialId": "slash_of_four_blades"
     },
     {
         "name": "Carver Toon",
@@ -5536,7 +5536,7 @@ window.allHeroesExtra = [
         "manaBonus": "5%",
         "rarity": 3,
         "element": "Green",
-        "specialId": "adorable_four_blades"
+        "specialId": "slash_of_four_blades"
     },
     {
         "name": "Chires",
@@ -5610,7 +5610,7 @@ window.allHeroesExtra = [
         "manaBonus": "1%",
         "rarity": 3,
         "element": "Green",
-        "specialId": "plentiful_minerals"
+        "specialId": "plentiful_harvest"
     },
     {
         "name": "Featherino",
@@ -5680,7 +5680,7 @@ window.allHeroesExtra = [
         "manaBonus": "5%",
         "rarity": 3,
         "element": "Green",
-        "specialId": "have_curiosity"
+        "specialId": "have_faith"
     },
     {
         "name": "Friar Tuck Toon",
@@ -5700,7 +5700,7 @@ window.allHeroesExtra = [
         "manaBonus": "5%",
         "rarity": 3,
         "element": "Green",
-        "specialId": "adorable_have_faith"
+        "specialId": "have_faith"
     },
     {
         "name": "Friar Tuck Glass",
@@ -5721,7 +5721,7 @@ window.allHeroesExtra = [
         "manaBonus": "5%",
         "rarity": 3,
         "element": "Green",
-        "specialId": "glass_have_faith"
+        "specialId": "have_faith"
     },
     {
         "name": "General Yin",
@@ -5807,7 +5807,7 @@ window.allHeroesExtra = [
         "manaBonus": "1%",
         "rarity": 3,
         "element": "Green",
-        "specialId": "gardeners_remedy"
+        "specialId": "elders_remedy"
     },
     {
         "name": "Grevle",
@@ -5878,7 +5878,7 @@ window.allHeroesExtra = [
         "manaBonus": "5%",
         "rarity": 3,
         "element": "Green",
-        "specialId": "bolstering_rush"
+        "specialId": "ramming_rush"
     },
     {
         "name": "Isshtak Toon",
@@ -5898,7 +5898,7 @@ window.allHeroesExtra = [
         "manaBonus": "5%",
         "rarity": 3,
         "element": "Green",
-        "specialId": "adorable_ramming_rush_isshtak"
+        "specialId": "ramming_rush"
     },
     {
         "name": "Jing",
@@ -5951,7 +5951,7 @@ window.allHeroesExtra = [
         "manaBonus": "5%",
         "rarity": 3,
         "element": "Green",
-        "specialId": "atlantean_charge"
+        "specialId": "frightening_pinch"
     },
     {
         "name": "Muggy",
@@ -6164,7 +6164,7 @@ window.allHeroesExtra = [
         "manaBonus": "1%",
         "rarity": 4,
         "element": "Green",
-        "specialId": "shadow_lunge"
+        "specialId": "shadow_sweep"
     },
     {
         "name": "Anton",
@@ -6274,7 +6274,7 @@ window.allHeroesExtra = [
         "manaBonus": "5%",
         "rarity": 4,
         "element": "Green",
-        "specialId": "cleansing_strike"
+        "specialId": "piercing_strike"
     },
     {
         "name": "Caedmon Costume2",
@@ -6295,7 +6295,7 @@ window.allHeroesExtra = [
         "manaBonus": "5%",
         "rarity": 4,
         "element": "Green",
-        "specialId": "valorant_strike"
+        "specialId": "piercing_strike"
     },
     {
         "name": "Caedmon Toon",
@@ -6316,7 +6316,7 @@ window.allHeroesExtra = [
         "manaBonus": "5%",
         "rarity": 4,
         "element": "Green",
-        "specialId": "toontastic_strike"
+        "specialId": "piercing_strike"
     },
     {
         "name": "Caedmon Glass",
@@ -6338,7 +6338,7 @@ window.allHeroesExtra = [
         "manaBonus": "5%",
         "rarity": 4,
         "element": "Green",
-        "specialId": "glass_strike_caedmon"
+        "specialId": "piercing_strike"
     },
     {
         "name": "Franz",
@@ -6394,7 +6394,7 @@ window.allHeroesExtra = [
         "manaBonus": "5%",
         "rarity": 4,
         "element": "Green",
-        "specialId": "strengthening_smash"
+        "specialId": "empowering_bash"
     },
     {
         "name": "Gobbler",
@@ -6432,7 +6432,7 @@ window.allHeroesExtra = [
         "manaBonus": "5%",
         "rarity": 4,
         "element": "Green",
-        "specialId": "protein_eater"
+        "specialId": "familiar_eater"
     },
     {
         "name": "Hansel",
@@ -6470,7 +6470,7 @@ window.allHeroesExtra = [
         "manaBonus": "5%",
         "rarity": 4,
         "element": "Green",
-        "specialId": "vampire_killer"
+        "specialId": "witch_killer"
     },
     {
         "name": "Jack O'Hare",
@@ -6507,7 +6507,7 @@ window.allHeroesExtra = [
         "manaBonus": "5%",
         "rarity": 4,
         "element": "Green",
-        "specialId": "egg_barrage"
+        "specialId": "reckless_slash"
     },
     {
         "name": "Kalo",
@@ -6560,7 +6560,7 @@ window.allHeroesExtra = [
         "manaBonus": "5%",
         "rarity": 4,
         "element": "Green",
-        "specialId": "second_skin"
+        "specialId": "swamp_skin"
     },
     {
         "name": "Kashhrek Costume2",
@@ -6580,7 +6580,7 @@ window.allHeroesExtra = [
         "manaBonus": "5%",
         "rarity": 4,
         "element": "Green",
-        "specialId": "scaly_skin"
+        "specialId": "swamp_skin"
     },
     {
         "name": "Kashhrek Toon",
@@ -6600,7 +6600,7 @@ window.allHeroesExtra = [
         "manaBonus": "5%",
         "rarity": 4,
         "element": "Green",
-        "specialId": "adorable_skin"
+        "specialId": "swamp_skin"
     },
     {
         "name": "Kashhrek Glass",
@@ -6621,7 +6621,7 @@ window.allHeroesExtra = [
         "manaBonus": "5%",
         "rarity": 4,
         "element": "Green",
-        "specialId": "glass_skin"
+        "specialId": "swamp_skin"
     },
     {
         "name": "Lionstring",
@@ -6678,7 +6678,7 @@ window.allHeroesExtra = [
         "manaBonus": "5%",
         "rarity": 4,
         "element": "Green",
-        "specialId": "massive_cleave"
+        "specialId": "massive_chop"
     },
     {
         "name": "Little John Costume2",
@@ -6698,7 +6698,7 @@ window.allHeroesExtra = [
         "manaBonus": "5%",
         "rarity": 4,
         "element": "Green",
-        "specialId": "massive_swing"
+        "specialId": "massive_chop"
     },
     {
         "name": "Little John Toon",
@@ -6719,7 +6719,7 @@ window.allHeroesExtra = [
         "manaBonus": "5%",
         "rarity": 4,
         "element": "Green",
-        "specialId": "adorable_massive_chop"
+        "specialId": "massive_chop"
     },
     {
         "name": "Little John Glass",
@@ -6740,7 +6740,7 @@ window.allHeroesExtra = [
         "manaBonus": "5%",
         "rarity": 4,
         "element": "Green",
-        "specialId": "glass_massive_chop"
+        "specialId": "massive_chop"
     },
     {
         "name": "Marcel",
@@ -6795,7 +6795,7 @@ window.allHeroesExtra = [
         "manaBonus": "5%",
         "rarity": 4,
         "element": "Green",
-        "specialId": "fog_of_the_perished"
+        "specialId": "fog_of_the_fallen"
     },
     {
         "name": "Melendor Costume2",
@@ -6816,7 +6816,7 @@ window.allHeroesExtra = [
         "manaBonus": "5%",
         "rarity": 4,
         "element": "Green",
-        "specialId": "fog_machine"
+        "specialId": "fog_of_the_fallen"
     },
     {
         "name": "Melendor Toon",
@@ -6837,7 +6837,7 @@ window.allHeroesExtra = [
         "manaBonus": "5%",
         "rarity": 4,
         "element": "Green",
-        "specialId": "toontastic_fog"
+        "specialId": "fog_of_the_fallen"
     },
     {
         "name": "Melendor Glass",
@@ -6858,7 +6858,7 @@ window.allHeroesExtra = [
         "manaBonus": "5%",
         "rarity": 4,
         "element": "Green",
-        "specialId": "fog_of_the_vitrails"
+        "specialId": "fog_of_the_fallen"
     },
     {
         "name": "Mielikki",
@@ -6896,7 +6896,7 @@ window.allHeroesExtra = [
         "manaBonus": "1%",
         "rarity": 4,
         "element": "Green",
-        "specialId": "sprite_hymn"
+        "specialId": "sprite_ballad"
     },
     {
         "name": "Mulgog",
@@ -6938,7 +6938,7 @@ window.allHeroesExtra = [
         "manaBonus": "1%",
         "rarity": 4,
         "element": "Green",
-        "specialId": "noxious_chord"
+        "specialId": "noxious_cleave"
     },
     {
         "name": "Myrtle",
@@ -7032,7 +7032,7 @@ window.allHeroesExtra = [
         "manaBonus": "5%",
         "rarity": 4,
         "element": "Green",
-        "specialId": "shocking_news"
+        "specialId": "buccaneers_blade"
     },
     {
         "name": "Ptolemy",
@@ -7072,7 +7072,7 @@ window.allHeroesExtra = [
         "manaBonus": "1%",
         "rarity": 4,
         "element": "Green",
-        "specialId": "natures_connection"
+        "specialId": "divine_connection"
     },
     {
         "name": "Raleigh",
@@ -7125,7 +7125,7 @@ window.allHeroesExtra = [
         "manaBonus": "5%",
         "rarity": 4,
         "element": "Green",
-        "specialId": "candy_vines"
+        "specialId": "creeping_vines"
     },
     {
         "name": "Skittleskull Costume2",
@@ -7145,7 +7145,7 @@ window.allHeroesExtra = [
         "manaBonus": "5%",
         "rarity": 4,
         "element": "Green",
-        "specialId": "crawling_vines"
+        "specialId": "creeping_vines"
     },
     {
         "name": "Skittleskull Toon",
@@ -7166,7 +7166,7 @@ window.allHeroesExtra = [
         "manaBonus": "5%",
         "rarity": 4,
         "element": "Green",
-        "specialId": "toon_vines"
+        "specialId": "creeping_vines"
     },
     {
         "name": "Skittleskull Glass",
@@ -7187,7 +7187,7 @@ window.allHeroesExtra = [
         "manaBonus": "5%",
         "rarity": 4,
         "element": "Green",
-        "specialId": "glass_vines"
+        "specialId": "creeping_vines"
     },
     {
         "name": "Tettukh",
@@ -7225,7 +7225,7 @@ window.allHeroesExtra = [
         "manaBonus": "1%",
         "rarity": 4,
         "element": "Green",
-        "specialId": "demoralizing_banter"
+        "specialId": "crippling_grapple"
     },
     {
         "name": "Villiers",
@@ -7297,7 +7297,7 @@ window.allHeroesExtra = [
         "manaBonus": "5%",
         "rarity": 5,
         "element": "Green",
-        "specialId": "verdant_mirror"
+        "specialId": "ancient_mirror"
     },
     {
         "name": "Alberich",
@@ -7340,7 +7340,7 @@ window.allHeroesExtra = [
         "manaBonus": "5%",
         "rarity": 5,
         "element": "Green",
-        "specialId": "midsummers_reverie"
+        "specialId": "midsummers_dream"
     },
     {
         "name": "Archibald",
@@ -7397,7 +7397,7 @@ window.allHeroesExtra = [
         "manaBonus": "5%",
         "rarity": 5,
         "element": "Green",
-        "specialId": "vigorous_villanelle"
+        "specialId": "fabled_llama_ballad"
     },
     {
         "name": "Arco",
@@ -7489,7 +7489,7 @@ window.allHeroesExtra = [
         "manaBonus": "5%",
         "rarity": 5,
         "element": "Green",
-        "specialId": "immortal_punisher"
+        "specialId": "immortal_annihilator"
     },
     {
         "name": "Atwood",
@@ -7724,7 +7724,7 @@ window.allHeroesExtra = [
         "manaBonus": "5%",
         "rarity": 5,
         "element": "Green",
-        "specialId": "seaweed_flail"
+        "specialId": "spectres_flail"
     },
     {
         "name": "Craum",
@@ -7935,7 +7935,7 @@ window.allHeroesExtra = [
         "manaBonus": "5%",
         "rarity": 5,
         "element": "Green",
-        "specialId": "soothing_song"
+        "specialId": "luring_song"
     },
     {
         "name": "Elkanen",
@@ -7972,7 +7972,7 @@ window.allHeroesExtra = [
         "manaBonus": "5%",
         "rarity": 5,
         "element": "Green",
-        "specialId": "eclipse_spear"
+        "specialId": "crescent_spear"
     },
     {
         "name": "Elkanen Costume2",
@@ -7992,7 +7992,7 @@ window.allHeroesExtra = [
         "manaBonus": "5%",
         "rarity": 5,
         "element": "Green",
-        "specialId": "lunar_spear"
+        "specialId": "crescent_spear"
     },
     {
         "name": "Elkanen Toon",
@@ -8013,7 +8013,7 @@ window.allHeroesExtra = [
         "manaBonus": "5%",
         "rarity": 5,
         "element": "Green",
-        "specialId": "adorable_spear"
+        "specialId": "crescent_spear"
     },
     {
         "name": "Elkanen Glass",
@@ -8034,7 +8034,7 @@ window.allHeroesExtra = [
         "manaBonus": "5%",
         "rarity": 5,
         "element": "Green",
-        "specialId": "glass_spear"
+        "specialId": "crescent_spear"
     },
     {
         "name": "Elradir",
@@ -8130,7 +8130,7 @@ window.allHeroesExtra = [
         "manaBonus": "5%",
         "rarity": 5,
         "element": "Green",
-        "specialId": "warcry_of_the_hunt"
+        "specialId": "shattering_warcry"
     },
     {
         "name": "Experience Mimic Nature",
@@ -8266,7 +8266,7 @@ window.allHeroesExtra = [
         "manaBonus": "5%",
         "rarity": 5,
         "element": "Green",
-        "specialId": "electric_stab"
+        "specialId": "electric_cut"
     },
     {
         "name": "Frigg",
@@ -8304,7 +8304,7 @@ window.allHeroesExtra = [
         "manaBonus": "5%",
         "rarity": 5,
         "element": "Green",
-        "specialId": "brittling_burst"
+        "specialId": "brittling_force"
     },
     {
         "name": "Frog Prince",
@@ -8401,7 +8401,7 @@ window.allHeroesExtra = [
         "manaBonus": "5%",
         "rarity": 5,
         "element": "Green",
-        "specialId": "testudo_rock"
+        "specialId": "testudo_roll"
     },
     {
         "name": "Garjammal",
@@ -8439,7 +8439,7 @@ window.allHeroesExtra = [
         "manaBonus": "5%",
         "rarity": 5,
         "element": "Green",
-        "specialId": "kite_of_endurance"
+        "specialId": "flail_of_destruction"
     },
     {
         "name": "Garten",
@@ -8586,7 +8586,7 @@ window.allHeroesExtra = [
         "manaBonus": "5%",
         "rarity": 5,
         "element": "Green",
-        "specialId": "exquisite_alchemy"
+        "specialId": "unwavering_focus"
     },
     {
         "name": "Grendel",
@@ -8662,7 +8662,7 @@ window.allHeroesExtra = [
         "manaBonus": "5%",
         "rarity": 5,
         "element": "Green",
-        "specialId": "green_dragon_inferno"
+        "specialId": "green_dragon_crescent_blade"
     },
     {
         "name": "Guardian Chameleon",
@@ -8756,7 +8756,7 @@ window.allHeroesExtra = [
         "manaBonus": "5%",
         "rarity": 5,
         "element": "Green",
-        "specialId": "blessing_of_gjallarhorn"
+        "specialId": "boon_of_gjallarhorn"
     },
     {
         "name": "Horghall",
@@ -8792,7 +8792,7 @@ window.allHeroesExtra = [
         "manaBonus": "5%",
         "rarity": 5,
         "element": "Green",
-        "specialId": "anger_of_the_jester"
+        "specialId": "anger_of_forest"
     },
     {
         "name": "Horghall Costume2",
@@ -8814,7 +8814,7 @@ window.allHeroesExtra = [
         "manaBonus": "5%",
         "rarity": 5,
         "element": "Green",
-        "specialId": "anger_of_the_woods"
+        "specialId": "anger_of_forest"
     },
     {
         "name": "Horghall Toon",
@@ -8835,7 +8835,7 @@ window.allHeroesExtra = [
         "manaBonus": "5%",
         "rarity": 5,
         "element": "Green",
-        "specialId": "tantrum_of_forest"
+        "specialId": "anger_of_forest"
     },
     {
         "name": "Humbert",
@@ -8946,7 +8946,7 @@ window.allHeroesExtra = [
         "manaBonus": "5%",
         "rarity": 5,
         "element": "Green",
-        "specialId": "crescent_shield"
+        "specialId": "eclipse_shield"
     },
     {
         "name": "Kadilen Costume2",
@@ -8967,7 +8967,7 @@ window.allHeroesExtra = [
         "manaBonus": "5%",
         "rarity": 5,
         "element": "Green",
-        "specialId": "lunar_shield"
+        "specialId": "eclipse_shield"
     },
     {
         "name": "Kadilen Toon",
@@ -8988,7 +8988,7 @@ window.allHeroesExtra = [
         "manaBonus": "5%",
         "rarity": 5,
         "element": "Green",
-        "specialId": "adorable_shield"
+        "specialId": "eclipse_shield"
     },
     {
         "name": "Kai",
@@ -9080,7 +9080,7 @@ window.allHeroesExtra = [
         "manaBonus": "5%",
         "rarity": 5,
         "element": "Green",
-        "specialId": "serenade_of_sedition"
+        "specialId": "moonlight_serenade"
     },
     {
         "name": "Lady of the Lake",
@@ -9118,7 +9118,7 @@ window.allHeroesExtra = [
         "manaBonus": "5%",
         "rarity": 5,
         "element": "Green",
-        "specialId": "blessed_blade"
+        "specialId": "magical_sword"
     },
     {
         "name": "Leadria",
@@ -9205,7 +9205,7 @@ window.allHeroesExtra = [
         "manaBonus": "5%",
         "rarity": 5,
         "element": "Green",
-        "specialId": "pure_shot"
+        "specialId": "perfect_shot"
     },
     {
         "name": "Lianna Costume2",
@@ -9225,7 +9225,7 @@ window.allHeroesExtra = [
         "manaBonus": "5%",
         "rarity": 5,
         "element": "Green",
-        "specialId": "flawless_shot"
+        "specialId": "perfect_shot"
     },
     {
         "name": "Lianna Toon",
@@ -9245,7 +9245,7 @@ window.allHeroesExtra = [
         "manaBonus": "5%",
         "rarity": 5,
         "element": "Green",
-        "specialId": "toon_shot"
+        "specialId": "perfect_shot"
     },
     {
         "name": "Lianna Glass",
@@ -9265,7 +9265,7 @@ window.allHeroesExtra = [
         "manaBonus": "5%",
         "rarity": 5,
         "element": "Green",
-        "specialId": "glass_arrow"
+        "specialId": "perfect_shot"
     },
     {
         "name": "Limeboire",
@@ -9323,7 +9323,7 @@ window.allHeroesExtra = [
         "manaBonus": "5%",
         "rarity": 5,
         "element": "Green",
-        "specialId": "forest_command"
+        "specialId": "call_to_arms"
     },
     {
         "name": "Lughaidh",
@@ -9366,7 +9366,7 @@ window.allHeroesExtra = [
         "manaBonus": "5%",
         "rarity": 5,
         "element": "Green",
-        "specialId": "transcendental_charge"
+        "specialId": "transcendental_frame"
     },
     {
         "name": "Ma'at",
@@ -9404,7 +9404,7 @@ window.allHeroesExtra = [
         "manaBonus": "5%",
         "rarity": 5,
         "element": "Green",
-        "specialId": "protector_of_the_blue_river"
+        "specialId": "bringer_of_order"
     },
     {
         "name": "Maegwyn",
@@ -9582,7 +9582,7 @@ window.allHeroesExtra = [
         "manaBonus": "5%",
         "rarity": 5,
         "element": "Green",
-        "specialId": "hyper_porridge"
+        "specialId": "super_porridge"
     },
     {
         "name": "Mucktus",
@@ -9766,7 +9766,7 @@ window.allHeroesExtra = [
         "manaBonus": "5%",
         "rarity": 5,
         "element": "Green",
-        "specialId": "innovative_lunge"
+        "specialId": "valiant_lunge"
     },
     {
         "name": "Pip",
@@ -9876,7 +9876,7 @@ window.allHeroesExtra = [
         "manaBonus": "5%",
         "rarity": 5,
         "element": "Green",
-        "specialId": "rusty_blade"
+        "specialId": "howling_sword"
     },
     {
         "name": "Ratatoskr",
@@ -9916,7 +9916,7 @@ window.allHeroesExtra = [
         "manaBonus": "5%",
         "rarity": 5,
         "element": "Green",
-        "specialId": "roots_of_yggdrasil"
+        "specialId": "nuts_of_yggdrasil"
     },
     {
         "name": "Relius",
@@ -10094,7 +10094,7 @@ window.allHeroesExtra = [
         "manaBonus": "5%",
         "rarity": 5,
         "element": "Green",
-        "specialId": "opposing_raid"
+        "specialId": "overwhelming_raid"
     },
     {
         "name": "Spiff",
@@ -10220,7 +10220,7 @@ window.allHeroesExtra = [
         "manaBonus": "5%",
         "rarity": 5,
         "element": "Green",
-        "specialId": "martial_dance"
+        "specialId": "martial_prowess"
     },
     {
         "name": "Teddy",
@@ -10315,7 +10315,7 @@ window.allHeroesExtra = [
         "manaBonus": "5%",
         "rarity": 5,
         "element": "Green",
-        "specialId": "mad_tea_party"
+        "specialId": "mad_as_a_hatter"
     },
     {
         "name": "Theodosius",
@@ -10372,7 +10372,7 @@ window.allHeroesExtra = [
         "manaBonus": "5%",
         "rarity": 5,
         "element": "Green",
-        "specialId": "blooming_growth"
+        "specialId": "accelerated_growth"
     },
     {
         "name": "Vainamoinen",
@@ -10408,7 +10408,7 @@ window.allHeroesExtra = [
         "manaBonus": "5%",
         "rarity": 5,
         "element": "Green",
-        "specialId": "poem_of_the_morass"
+        "specialId": "song_of_the_morass"
     },
     {
         "name": "Verus",
@@ -10554,7 +10554,7 @@ window.allHeroesExtra = [
         "manaBonus": "5%",
         "rarity": 5,
         "element": "Green",
-        "specialId": "sand_wave_yunan"
+        "specialId": "kings_curse"
     },
     {
         "name": "Zavinia",
@@ -10615,7 +10615,7 @@ window.allHeroesExtra = [
         "manaBonus": "5%",
         "rarity": 5,
         "element": "Green",
-        "specialId": "plume_flash"
+        "specialId": "emerald_flash"
     },
     {
         "name": "Zocc",
@@ -10796,7 +10796,7 @@ window.allHeroesExtra = [
         "manaBonus": "1%",
         "rarity": 3,
         "element": "Purple",
-        "specialId": "one_spell_ahead"
+        "specialId": "one_jump_ahead"
     },
     {
         "name": "Balthazar",
@@ -10831,7 +10831,7 @@ window.allHeroesExtra = [
         "manaBonus": "5%",
         "rarity": 3,
         "element": "Purple",
-        "specialId": "poison_jolt"
+        "specialId": "electric_jolt"
     },
     {
         "name": "Balthazar Toon",
@@ -10851,7 +10851,7 @@ window.allHeroesExtra = [
         "manaBonus": "5%",
         "rarity": 3,
         "element": "Purple",
-        "specialId": "toon_jolt"
+        "specialId": "electric_jolt"
     },
     {
         "name": "Balthazar Glass",
@@ -10871,7 +10871,7 @@ window.allHeroesExtra = [
         "manaBonus": "5%",
         "rarity": 3,
         "element": "Purple",
-        "specialId": "glass_jolt"
+        "specialId": "electric_jolt"
     },
     {
         "name": "Betty",
@@ -10926,7 +10926,7 @@ window.allHeroesExtra = [
         "manaBonus": "1%",
         "rarity": 3,
         "element": "Purple",
-        "specialId": "empowered_slash"
+        "specialId": "dual_slash"
     },
     {
         "name": "Budatin",
@@ -11014,7 +11014,7 @@ window.allHeroesExtra = [
         "manaBonus": "5%",
         "rarity": 3,
         "element": "Purple",
-        "specialId": "lament_of_the_hunt"
+        "specialId": "song_of_regression"
     },
     {
         "name": "Greel",
@@ -11143,7 +11143,7 @@ window.allHeroesExtra = [
         "manaBonus": "1%",
         "rarity": 3,
         "element": "Purple",
-        "specialId": "carve_a_hole"
+        "specialId": "dig_a_hole"
     },
     {
         "name": "Oberon",
@@ -11178,7 +11178,7 @@ window.allHeroesExtra = [
         "manaBonus": "5%",
         "rarity": 3,
         "element": "Purple",
-        "specialId": "toxic_tricks"
+        "specialId": "toxic_traps"
     },
     {
         "name": "Oberon Toon",
@@ -11199,7 +11199,7 @@ window.allHeroesExtra = [
         "manaBonus": "5%",
         "rarity": 3,
         "element": "Purple",
-        "specialId": "toon_traps"
+        "specialId": "toxic_traps"
     },
     {
         "name": "Para",
@@ -11251,7 +11251,7 @@ window.allHeroesExtra = [
         "manaBonus": "5%",
         "rarity": 3,
         "element": "Purple",
-        "specialId": "bleeding_thrust"
+        "specialId": "bleeding_stab"
     },
     {
         "name": "Prisca Toon",
@@ -11272,7 +11272,7 @@ window.allHeroesExtra = [
         "manaBonus": "5%",
         "rarity": 3,
         "element": "Purple",
-        "specialId": "toon_stab"
+        "specialId": "bleeding_stab"
     },
     {
         "name": "Prisca Glass",
@@ -11293,7 +11293,7 @@ window.allHeroesExtra = [
         "manaBonus": "5%",
         "rarity": 3,
         "element": "Purple",
-        "specialId": "glass_stab"
+        "specialId": "bleeding_stab"
     },
     {
         "name": "Renfeld",
@@ -11330,7 +11330,7 @@ window.allHeroesExtra = [
         "manaBonus": "5%",
         "rarity": 3,
         "element": "Purple",
-        "specialId": "leeching_saw"
+        "specialId": "leeching_stars"
     },
     {
         "name": "Renfeld Toon",
@@ -11351,7 +11351,7 @@ window.allHeroesExtra = [
         "manaBonus": "5%",
         "rarity": 3,
         "element": "Purple",
-        "specialId": "toon_stars"
+        "specialId": "leeching_stars"
     },
     {
         "name": "Treevil",
@@ -11405,7 +11405,7 @@ window.allHeroesExtra = [
         "manaBonus": "5%",
         "rarity": 3,
         "element": "Purple",
-        "specialId": "purifying_hit"
+        "specialId": "piercing_hit"
     },
     {
         "name": "Tyrum Toon",
@@ -11426,7 +11426,7 @@ window.allHeroesExtra = [
         "manaBonus": "5%",
         "rarity": 3,
         "element": "Purple",
-        "specialId": "toon_hit"
+        "specialId": "piercing_hit"
     },
     {
         "name": "Unferth",
@@ -11496,7 +11496,7 @@ window.allHeroesExtra = [
         "manaBonus": "1%",
         "rarity": 4,
         "element": "Purple",
-        "specialId": "mummy_strike"
+        "specialId": "mummy_slash"
     },
     {
         "name": "Ameonna",
@@ -11536,7 +11536,7 @@ window.allHeroesExtra = [
         "manaBonus": "5%",
         "rarity": 4,
         "element": "Purple",
-        "specialId": "yurei"
+        "specialId": "ethereal"
     },
     {
         "name": "Ametrine",
@@ -11644,7 +11644,7 @@ window.allHeroesExtra = [
         "manaBonus": "5%",
         "rarity": 4,
         "element": "Purple",
-        "specialId": "razor_smile"
+        "specialId": "dazzling_grin"
     },
     {
         "name": "Cupcake",
@@ -11694,7 +11694,7 @@ window.allHeroesExtra = [
         "manaBonus": "5%",
         "rarity": 4,
         "element": "Purple",
-        "specialId": "deadly_riposte"
+        "specialId": "perfect_riposte"
     },
     {
         "name": "Cyprian Costume2",
@@ -11715,7 +11715,7 @@ window.allHeroesExtra = [
         "manaBonus": "5%",
         "rarity": 4,
         "element": "Purple",
-        "specialId": "precise_riposte"
+        "specialId": "perfect_riposte"
     },
     {
         "name": "Cyprian Toon",
@@ -11734,7 +11734,7 @@ window.allHeroesExtra = [
         "manaBonus": "5%",
         "rarity": 4,
         "element": "Purple",
-        "specialId": "toontastic_riposte"
+        "specialId": "perfect_riposte"
     },
     {
         "name": "Cyprian Glass",
@@ -11753,7 +11753,7 @@ window.allHeroesExtra = [
         "manaBonus": "5%",
         "rarity": 4,
         "element": "Purple",
-        "specialId": "glass_riposte"
+        "specialId": "perfect_riposte"
     },
     {
         "name": "Dizzy",
@@ -11808,7 +11808,7 @@ window.allHeroesExtra = [
         "manaBonus": "1%",
         "rarity": 4,
         "element": "Purple",
-        "specialId": "nightbloom_dust"
+        "specialId": "nightglade_pollen"
     },
     {
         "name": "Gafar",
@@ -12004,7 +12004,7 @@ window.allHeroesExtra = [
         "manaBonus": "5%",
         "rarity": 4,
         "element": "Purple",
-        "specialId": "pulsar_blast"
+        "specialId": "arcane_blast"
     },
     {
         "name": "Proteus",
@@ -12040,7 +12040,7 @@ window.allHeroesExtra = [
         "manaBonus": "5%",
         "rarity": 4,
         "element": "Purple",
-        "specialId": "curse_of_the_depths"
+        "specialId": "scar_of_the_depths"
     },
     {
         "name": "Rigard",
@@ -12077,7 +12077,7 @@ window.allHeroesExtra = [
         "manaBonus": "5%",
         "rarity": 4,
         "element": "Purple",
-        "specialId": "regeneration"
+        "specialId": "purification"
     },
     {
         "name": "Rigard Costume2",
@@ -12098,7 +12098,7 @@ window.allHeroesExtra = [
         "manaBonus": "5%",
         "rarity": 4,
         "element": "Purple",
-        "specialId": "transfigure"
+        "specialId": "purification"
     },
     {
         "name": "Rigard Toon",
@@ -12119,7 +12119,7 @@ window.allHeroesExtra = [
         "manaBonus": "5%",
         "rarity": 4,
         "element": "Purple",
-        "specialId": "adorable_purification"
+        "specialId": "purification"
     },
     {
         "name": "Sabina",
@@ -12156,7 +12156,7 @@ window.allHeroesExtra = [
         "manaBonus": "5%",
         "rarity": 4,
         "element": "Purple",
-        "specialId": "haze_of_the_deceased"
+        "specialId": "fog_of_the_fallen"
     },
     {
         "name": "Sabina Costume2",
@@ -12177,7 +12177,7 @@ window.allHeroesExtra = [
         "manaBonus": "5%",
         "rarity": 4,
         "element": "Purple",
-        "specialId": "mist_of_the_fallen"
+        "specialId": "fog_of_the_fallen"
     },
     {
         "name": "Sabina Toon",
@@ -12198,7 +12198,7 @@ window.allHeroesExtra = [
         "manaBonus": "5%",
         "rarity": 4,
         "element": "Purple",
-        "specialId": "fog_of_the_toons"
+        "specialId": "fog_of_the_fallen"
     },
     {
         "name": "Sergei",
@@ -12249,7 +12249,7 @@ window.allHeroesExtra = [
         "manaBonus": "1%",
         "rarity": 4,
         "element": "Purple",
-        "specialId": "critical_cookout"
+        "specialId": "critical_tactics"
     },
     {
         "name": "Shoggo",
@@ -12340,7 +12340,7 @@ window.allHeroesExtra = [
         "manaBonus": "5%",
         "rarity": 4,
         "element": "Purple",
-        "specialId": "symphonic_pulverizer"
+        "specialId": "ramming_pulverizer"
     },
     {
         "name": "Tiburtus Costume2",
@@ -12360,7 +12360,7 @@ window.allHeroesExtra = [
         "manaBonus": "5%",
         "rarity": 4,
         "element": "Purple",
-        "specialId": "elegant_pulverizer"
+        "specialId": "ramming_pulverizer"
     },
     {
         "name": "Tiburtus Toon",
@@ -12381,7 +12381,7 @@ window.allHeroesExtra = [
         "manaBonus": "5%",
         "rarity": 4,
         "element": "Purple",
-        "specialId": "toontastic_pulverizer"
+        "specialId": "ramming_pulverizer"
     },
     {
         "name": "Acidfire",
@@ -12455,7 +12455,7 @@ window.allHeroesExtra = [
         "manaBonus": "5%",
         "rarity": 5,
         "element": "Purple",
-        "specialId": "voidshield"
+        "specialId": "nethershield"
     },
     {
         "name": "Agrafena",
@@ -12499,7 +12499,7 @@ window.allHeroesExtra = [
         "manaBonus": "1%",
         "rarity": 5,
         "element": "Purple",
-        "specialId": "dark_shock"
+        "specialId": "arcane_shock"
     },
     {
         "name": "Akilius",
@@ -12555,7 +12555,7 @@ window.allHeroesExtra = [
         "manaBonus": "5%",
         "rarity": 5,
         "element": "Purple",
-        "specialId": "cavalier_hat_of_dark_realm"
+        "specialId": "cube_of_dark_realm"
     },
     {
         "name": "Amethyst",
@@ -12628,7 +12628,7 @@ window.allHeroesExtra = [
         "manaBonus": "5%",
         "rarity": 5,
         "element": "Purple",
-        "specialId": "mark_of_the_jackal"
+        "specialId": "mark_of_anubis"
     },
     {
         "name": "Aramis",
@@ -12721,7 +12721,7 @@ window.allHeroesExtra = [
         "manaBonus": "5%",
         "rarity": 5,
         "element": "Purple",
-        "specialId": "orchids_and_roses"
+        "specialId": "quick_and_nimble"
     },
     {
         "name": "Becky",
@@ -12797,7 +12797,7 @@ window.allHeroesExtra = [
         "manaBonus": "5%",
         "rarity": 5,
         "element": "Purple",
-        "specialId": "disir_of_dreams"
+        "specialId": "disir_of_dusk"
     },
     {
         "name": "Boss Wolf",
@@ -12964,7 +12964,7 @@ window.allHeroesExtra = [
         "manaBonus": "5%",
         "rarity": 5,
         "element": "Purple",
-        "specialId": "pulsarstrike"
+        "specialId": "doomstrike"
     },
     {
         "name": "Darkbeat",
@@ -13074,7 +13074,7 @@ window.allHeroesExtra = [
         "manaBonus": "5%",
         "rarity": 5,
         "element": "Purple",
-        "specialId": "ladys_flowers"
+        "specialId": "ladys_charm"
     },
     {
         "name": "Domitia",
@@ -13112,7 +13112,7 @@ window.allHeroesExtra = [
         "manaBonus": "5%",
         "rarity": 5,
         "element": "Purple",
-        "specialId": "awe_bolt"
+        "specialId": "shock_bolt"
     },
     {
         "name": "Domitia Costume2",
@@ -13133,7 +13133,7 @@ window.allHeroesExtra = [
         "manaBonus": "5%",
         "rarity": 5,
         "element": "Purple",
-        "specialId": "dark_bolt"
+        "specialId": "shock_bolt"
     },
     {
         "name": "Domitia Toon",
@@ -13155,7 +13155,7 @@ window.allHeroesExtra = [
         "manaBonus": "5%",
         "rarity": 5,
         "element": "Purple",
-        "specialId": "adorable_bolt"
+        "specialId": "shock_bolt"
     },
     {
         "name": "Domitia Glass",
@@ -13177,7 +13177,7 @@ window.allHeroesExtra = [
         "manaBonus": "5%",
         "rarity": 5,
         "element": "Purple",
-        "specialId": "glass_bolt"
+        "specialId": "shock_bolt"
     },
     {
         "name": "Dr Moreau",
@@ -13213,7 +13213,7 @@ window.allHeroesExtra = [
         "manaBonus": "5%",
         "rarity": 5,
         "element": "Purple",
-        "specialId": "blinding_knowledge"
+        "specialId": "blinding_wisdom"
     },
     {
         "name": "Dreadstar",
@@ -13363,7 +13363,7 @@ window.allHeroesExtra = [
         "manaBonus": "5%",
         "rarity": 5,
         "element": "Purple",
-        "specialId": "ravens_watch"
+        "specialId": "ravens_vigil"
     },
     {
         "name": "Gastille",
@@ -13520,7 +13520,7 @@ window.allHeroesExtra = [
         "manaBonus": "5%",
         "rarity": 5,
         "element": "Purple",
-        "specialId": "roar_of_the_panther"
+        "specialId": "eye_of_panther"
     },
     {
         "name": "Gunktus",
@@ -13577,7 +13577,7 @@ window.allHeroesExtra = [
         "manaBonus": "5%",
         "rarity": 5,
         "element": "Purple",
-        "specialId": "delicious_idol"
+        "specialId": "corrupting_idol"
     },
     {
         "name": "Hawthorn",
@@ -13639,7 +13639,7 @@ window.allHeroesExtra = [
         "manaBonus": "5%",
         "rarity": 5,
         "element": "Purple",
-        "specialId": "crush_of_malice"
+        "specialId": "crush_of_hel"
     },
     {
         "name": "Hreidmarr",
@@ -13702,7 +13702,7 @@ window.allHeroesExtra = [
         "manaBonus": "5%",
         "rarity": 5,
         "element": "Purple",
-        "specialId": "larva_prescription"
+        "specialId": "pet_larva"
     },
     {
         "name": "Hunter",
@@ -13776,7 +13776,7 @@ window.allHeroesExtra = [
         "manaBonus": "5%",
         "rarity": 5,
         "element": "Purple",
-        "specialId": "avenger_of_mothkind"
+        "specialId": "sideswipe"
     },
     {
         "name": "Jett",
@@ -13837,7 +13837,7 @@ window.allHeroesExtra = [
         "manaBonus": "5%",
         "rarity": 5,
         "element": "Purple",
-        "specialId": "beetle_strike"
+        "specialId": "break_strike"
     },
     {
         "name": "Karnov",
@@ -13879,7 +13879,7 @@ window.allHeroesExtra = [
         "manaBonus": "5%",
         "rarity": 5,
         "element": "Purple",
-        "specialId": "slumbering_beatdown"
+        "specialId": "total_beatdown"
     },
     {
         "name": "Kemeny",
@@ -13934,7 +13934,7 @@ window.allHeroesExtra = [
         "manaBonus": "5%",
         "rarity": 5,
         "element": "Purple",
-        "specialId": "scarab_blitz"
+        "specialId": "scarab_bombardment"
     },
     {
         "name": "Khiona",
@@ -13973,7 +13973,7 @@ window.allHeroesExtra = [
         "manaBonus": "5%",
         "rarity": 5,
         "element": "Purple",
-        "specialId": "bleeding_hammer"
+        "specialId": "bleeding_edge"
     },
     {
         "name": "Khonshu",
@@ -14009,7 +14009,7 @@ window.allHeroesExtra = [
         "manaBonus": "5%",
         "rarity": 5,
         "element": "Purple",
-        "specialId": "midnight_smite"
+        "specialId": "midnight_strike"
     },
     {
         "name": "Killhare",
@@ -14045,7 +14045,7 @@ window.allHeroesExtra = [
         "manaBonus": "5%",
         "rarity": 5,
         "element": "Purple",
-        "specialId": "championship_carrot"
+        "specialId": "reckless_swing"
     },
     {
         "name": "Knave of Hearts",
@@ -14147,7 +14147,7 @@ window.allHeroesExtra = [
         "manaBonus": "5%",
         "rarity": 5,
         "element": "Purple",
-        "specialId": "undying_incantation"
+        "specialId": "abyssal_incantation"
     },
     {
         "name": "Louhi",
@@ -14204,7 +14204,7 @@ window.allHeroesExtra = [
         "manaBonus": "5%",
         "rarity": 5,
         "element": "Purple",
-        "specialId": "disrupting_charge_costume_tiger_lord"
+        "specialId": "disrupting_charge"
     },
     {
         "name": "Lucinda",
@@ -14353,7 +14353,7 @@ window.allHeroesExtra = [
         "manaBonus": "5%",
         "rarity": 5,
         "element": "Purple",
-        "specialId": "zombie_invocation"
+        "specialId": "zombie_curse"
     },
     {
         "name": "Maud",
@@ -14409,7 +14409,7 @@ window.allHeroesExtra = [
         "manaBonus": "5%",
         "rarity": 5,
         "element": "Purple",
-        "specialId": "shatter_soul"
+        "specialId": "shatter_psyche"
     },
     {
         "name": "Melancholia",
@@ -14468,7 +14468,7 @@ window.allHeroesExtra = [
         "manaBonus": "5%",
         "rarity": 5,
         "element": "Purple",
-        "specialId": "emerald_tide"
+        "specialId": "black_tide"
     },
     {
         "name": "Morax",
@@ -14610,7 +14610,7 @@ window.allHeroesExtra = [
         "manaBonus": "5%",
         "rarity": 5,
         "element": "Purple",
-        "specialId": "unite_and_oppose"
+        "specialId": "cleave_counter"
     },
     {
         "name": "Obakan Costume2",
@@ -14631,7 +14631,7 @@ window.allHeroesExtra = [
         "manaBonus": "5%",
         "rarity": 5,
         "element": "Purple",
-        "specialId": "vampiric_cleave"
+        "specialId": "cleave_counter"
     },
     {
         "name": "Obakan Toon",
@@ -14652,7 +14652,7 @@ window.allHeroesExtra = [
         "manaBonus": "5%",
         "rarity": 5,
         "element": "Purple",
-        "specialId": "toon_counter"
+        "specialId": "cleave_counter"
     },
     {
         "name": "Obakan Glass",
@@ -14673,7 +14673,7 @@ window.allHeroesExtra = [
         "manaBonus": "5%",
         "rarity": 5,
         "element": "Purple",
-        "specialId": "cleave_and_reflect"
+        "specialId": "cleave_counter"
     },
     {
         "name": "Odile",
@@ -14810,7 +14810,7 @@ window.allHeroesExtra = [
         "manaBonus": "5%",
         "rarity": 5,
         "element": "Purple",
-        "specialId": "order_from_the_depths"
+        "specialId": "rally_of_the_deep"
     },
     {
         "name": "Phthonus",
@@ -14879,7 +14879,7 @@ window.allHeroesExtra = [
         "manaBonus": "5%",
         "rarity": 5,
         "element": "Purple",
-        "specialId": "shock_ultimatum"
+        "specialId": "thunderstrike"
     },
     {
         "name": "Quintus Costume2",
@@ -14899,7 +14899,7 @@ window.allHeroesExtra = [
         "manaBonus": "5%",
         "rarity": 5,
         "element": "Purple",
-        "specialId": "lightning_ultimatum"
+        "specialId": "thunderstrike"
     },
     {
         "name": "Quintus Toon",
@@ -14919,7 +14919,7 @@ window.allHeroesExtra = [
         "manaBonus": "5%",
         "rarity": 5,
         "element": "Purple",
-        "specialId": "toon_ultimatum"
+        "specialId": "thunderstrike"
     },
     {
         "name": "Ramona",
@@ -15004,7 +15004,7 @@ window.allHeroesExtra = [
         "manaBonus": "5%",
         "rarity": 5,
         "element": "Purple",
-        "specialId": "gentlemans_transformation"
+        "specialId": "tricksters_transformation"
     },
     {
         "name": "Sargasso",
@@ -15041,7 +15041,7 @@ window.allHeroesExtra = [
         "manaBonus": "5%",
         "rarity": 5,
         "element": "Purple",
-        "specialId": "curse_of_the_sea"
+        "specialId": "curse_of_sargasso"
     },
     {
         "name": "Sartana",
@@ -15076,7 +15076,7 @@ window.allHeroesExtra = [
         "manaBonus": "5%",
         "rarity": 5,
         "element": "Purple",
-        "specialId": "dreadstrike"
+        "specialId": "deathstrike"
     },
     {
         "name": "Sartana Costume2",
@@ -15096,7 +15096,7 @@ window.allHeroesExtra = [
         "manaBonus": "5%",
         "rarity": 5,
         "element": "Purple",
-        "specialId": "frightstrike"
+        "specialId": "deathstrike"
     },
     {
         "name": "Sartana Toon",
@@ -15117,7 +15117,7 @@ window.allHeroesExtra = [
         "manaBonus": "5%",
         "rarity": 5,
         "element": "Purple",
-        "specialId": "adorable_strike"
+        "specialId": "deathstrike"
     },
     {
         "name": "Sartana Glass",
@@ -15138,7 +15138,7 @@ window.allHeroesExtra = [
         "manaBonus": "5%",
         "rarity": 5,
         "element": "Purple",
-        "specialId": "glass_strike"
+        "specialId": "deathstrike"
     },
     {
         "name": "Satsui",
@@ -15221,7 +15221,7 @@ window.allHeroesExtra = [
         "manaBonus": "5%",
         "rarity": 5,
         "element": "Purple",
-        "specialId": "curse_of_the_cephaloid"
+        "specialId": "curse_of_the_specter"
     },
     {
         "name": "Serena",
@@ -15280,7 +15280,7 @@ window.allHeroesExtra = [
         "manaBonus": "5%",
         "rarity": 5,
         "element": "Purple",
-        "specialId": "excorcizing_arrow"
+        "specialId": "undead_rage"
     },
     {
         "name": "Set",
@@ -15318,7 +15318,7 @@ window.allHeroesExtra = [
         "manaBonus": "5%",
         "rarity": 5,
         "element": "Purple",
-        "specialId": "legions_of_tyrant"
+        "specialId": "legions_of_darkness"
     },
     {
         "name": "Shacklebolt",
@@ -15486,7 +15486,7 @@ window.allHeroesExtra = [
         "manaBonus": "5%",
         "rarity": 5,
         "element": "Purple",
-        "specialId": "undying_summon"
+        "specialId": "soul_cage"
     },
     {
         "name": "Thrivaldi",
@@ -15602,7 +15602,7 @@ window.allHeroesExtra = [
         "manaBonus": "5%",
         "rarity": 5,
         "element": "Purple",
-        "specialId": "sinister_siphon"
+        "specialId": "sinister_enlace"
     },
     {
         "name": "Umbria",
@@ -15676,7 +15676,7 @@ window.allHeroesExtra = [
         "manaBonus": "5%",
         "rarity": 5,
         "element": "Purple",
-        "specialId": "reef_blast"
+        "specialId": "depth_blast"
     },
     {
         "name": "Uthragan",
@@ -15789,7 +15789,7 @@ window.allHeroesExtra = [
         "manaBonus": "5%",
         "rarity": 5,
         "element": "Purple",
-        "specialId": "legacy_of_darkness"
+        "specialId": "kings_blood_poisoning"
     },
     {
         "name": "Violet Potts",
@@ -15956,7 +15956,7 @@ window.allHeroesExtra = [
         "manaBonus": "5%",
         "rarity": 5,
         "element": "Purple",
-        "specialId": "entrapping_enchantment"
+        "specialId": "ancient_enchantment"
     },
     {
         "name": "Ysabel",
@@ -16135,7 +16135,7 @@ window.allHeroesExtra = [
         "manaBonus": "5%",
         "rarity": 3,
         "element": "Red",
-        "specialId": "acute_cut"
+        "specialId": "sharp_cut"
     },
     {
         "name": "Azar Toon",
@@ -16156,7 +16156,7 @@ window.allHeroesExtra = [
         "manaBonus": "5%",
         "rarity": 3,
         "element": "Red",
-        "specialId": "toon_cut"
+        "specialId": "sharp_cut"
     },
     {
         "name": "Azar Glass",
@@ -16177,7 +16177,7 @@ window.allHeroesExtra = [
         "manaBonus": "5%",
         "rarity": 3,
         "element": "Red",
-        "specialId": "glass_cut"
+        "specialId": "sharp_cut"
     },
     {
         "name": "Bagreg",
@@ -16213,7 +16213,7 @@ window.allHeroesExtra = [
         "manaBonus": "1%",
         "rarity": 3,
         "element": "Red",
-        "specialId": "scouts_spyglass"
+        "specialId": "burning_javelin"
     },
     {
         "name": "Basil",
@@ -16334,7 +16334,7 @@ window.allHeroesExtra = [
         "manaBonus": "1%",
         "rarity": 3,
         "element": "Red",
-        "specialId": "vicious_axe"
+        "specialId": "tainted_axe"
     },
     {
         "name": "Fawn",
@@ -16386,7 +16386,7 @@ window.allHeroesExtra = [
         "manaBonus": "5%",
         "rarity": 3,
         "element": "Red",
-        "specialId": "wind_gospel"
+        "specialId": "wind_prayer"
     },
     {
         "name": "Hawkmoon Toon",
@@ -16406,7 +16406,7 @@ window.allHeroesExtra = [
         "manaBonus": "5%",
         "rarity": 3,
         "element": "Red",
-        "specialId": "adorable_wind_prayer"
+        "specialId": "wind_prayer"
     },
     {
         "name": "Helgi",
@@ -16462,7 +16462,7 @@ window.allHeroesExtra = [
         "manaBonus": "5%",
         "rarity": 3,
         "element": "Red",
-        "specialId": "comet"
+        "specialId": "fireball"
     },
     {
         "name": "Jahangir Toon",
@@ -16483,7 +16483,7 @@ window.allHeroesExtra = [
         "manaBonus": "5%",
         "rarity": 3,
         "element": "Red",
-        "specialId": "toonball"
+        "specialId": "fireball"
     },
     {
         "name": "Jahangir Glass",
@@ -16504,7 +16504,7 @@ window.allHeroesExtra = [
         "manaBonus": "5%",
         "rarity": 3,
         "element": "Red",
-        "specialId": "glass_fireball"
+        "specialId": "fireball"
     },
     {
         "name": "Kornel",
@@ -16606,7 +16606,7 @@ window.allHeroesExtra = [
         "manaBonus": "5%",
         "rarity": 3,
         "element": "Red",
-        "specialId": "searing_strike"
+        "specialId": "burning_strike"
     },
     {
         "name": "Nashgar Toon",
@@ -16627,7 +16627,7 @@ window.allHeroesExtra = [
         "manaBonus": "5%",
         "rarity": 3,
         "element": "Red",
-        "specialId": "adorable_burning_strike"
+        "specialId": "burning_strike"
     },
     {
         "name": "Phoenicus",
@@ -16797,7 +16797,7 @@ window.allHeroesExtra = [
         "manaBonus": "1%",
         "rarity": 3,
         "element": "Red",
-        "specialId": "leeching_worms"
+        "specialId": "thresher_worms"
     },
     {
         "name": "Waqas",
@@ -16833,7 +16833,7 @@ window.allHeroesExtra = [
         "manaBonus": "1%",
         "rarity": 3,
         "element": "Red",
-        "specialId": "unyielding_sword"
+        "specialId": "unyielding_protector"
     },
     {
         "name": "Aodhan",
@@ -16890,7 +16890,7 @@ window.allHeroesExtra = [
         "manaBonus": "5%",
         "rarity": 4,
         "element": "Red",
-        "specialId": "war_feast"
+        "specialId": "warcry"
     },
     {
         "name": "Boldtusk Costume2",
@@ -16911,7 +16911,7 @@ window.allHeroesExtra = [
         "manaBonus": "5%",
         "rarity": 4,
         "element": "Red",
-        "specialId": "war_song"
+        "specialId": "warcry"
     },
     {
         "name": "Boldtusk Toon",
@@ -16931,7 +16931,7 @@ window.allHeroesExtra = [
         "manaBonus": "5%",
         "rarity": 4,
         "element": "Red",
-        "specialId": "tooncry"
+        "specialId": "warcry"
     },
     {
         "name": "Boldtusk Glass",
@@ -16952,7 +16952,7 @@ window.allHeroesExtra = [
         "manaBonus": "5%",
         "rarity": 4,
         "element": "Red",
-        "specialId": "glass_warcry"
+        "specialId": "warcry"
     },
     {
         "name": "Carol",
@@ -17025,7 +17025,7 @@ window.allHeroesExtra = [
         "manaBonus": "5%",
         "rarity": 4,
         "element": "Red",
-        "specialId": "lavablow"
+        "specialId": "fire_storm"
     },
     {
         "name": "Colen Costume2",
@@ -17046,7 +17046,7 @@ window.allHeroesExtra = [
         "manaBonus": "5%",
         "rarity": 4,
         "element": "Red",
-        "specialId": "flame_storm"
+        "specialId": "fire_storm"
     },
     {
         "name": "Colen Toon",
@@ -17067,7 +17067,7 @@ window.allHeroesExtra = [
         "manaBonus": "5%",
         "rarity": 4,
         "element": "Red",
-        "specialId": "toon_storm"
+        "specialId": "fire_storm"
     },
     {
         "name": "Colen Glass",
@@ -17088,7 +17088,7 @@ window.allHeroesExtra = [
         "manaBonus": "5%",
         "rarity": 4,
         "element": "Red",
-        "specialId": "vitrail_flames"
+        "specialId": "fire_storm"
     },
     {
         "name": "Eichbelborg",
@@ -17140,7 +17140,7 @@ window.allHeroesExtra = [
         "manaBonus": "5%",
         "rarity": 4,
         "element": "Red",
-        "specialId": "fiery_revenge"
+        "specialId": "feral_revenge"
     },
     {
         "name": "Gormek",
@@ -17177,7 +17177,7 @@ window.allHeroesExtra = [
         "manaBonus": "5%",
         "rarity": 4,
         "element": "Red",
-        "specialId": "wallet_pulverizer"
+        "specialId": "ramming_pulverizer"
     },
     {
         "name": "Gormek Costume2",
@@ -17197,7 +17197,7 @@ window.allHeroesExtra = [
         "manaBonus": "5%",
         "rarity": 4,
         "element": "Red",
-        "specialId": "pulverizing_ham"
+        "specialId": "ramming_pulverizer"
     },
     {
         "name": "Gormek Toon",
@@ -17218,7 +17218,7 @@ window.allHeroesExtra = [
         "manaBonus": "5%",
         "rarity": 4,
         "element": "Red",
-        "specialId": "adorable_pulverizer"
+        "specialId": "ramming_pulverizer"
     },
     {
         "name": "Gormek Glass",
@@ -17239,7 +17239,7 @@ window.allHeroesExtra = [
         "manaBonus": "5%",
         "rarity": 4,
         "element": "Red",
-        "specialId": "glass_pulverizer"
+        "specialId": "ramming_pulverizer"
     },
     {
         "name": "Guardian Falcon",
@@ -17308,7 +17308,7 @@ window.allHeroesExtra = [
         "manaBonus": "1%",
         "rarity": 4,
         "element": "Red",
-        "specialId": "strike_and_support"
+        "specialId": "slash_and_support"
     },
     {
         "name": "Kelile",
@@ -17343,7 +17343,7 @@ window.allHeroesExtra = [
         "manaBonus": "5%",
         "rarity": 4,
         "element": "Red",
-        "specialId": "dance_of_ignition"
+        "specialId": "dance_of_fire"
     },
     {
         "name": "Kelile Costume2",
@@ -17364,7 +17364,7 @@ window.allHeroesExtra = [
         "manaBonus": "5%",
         "rarity": 4,
         "element": "Red",
-        "specialId": "dance_of_flame"
+        "specialId": "dance_of_fire"
     },
     {
         "name": "Kelile Toon",
@@ -17385,7 +17385,7 @@ window.allHeroesExtra = [
         "manaBonus": "5%",
         "rarity": 4,
         "element": "Red",
-        "specialId": "dance_of_toons"
+        "specialId": "dance_of_fire"
     },
     {
         "name": "Kelile Glass",
@@ -17406,7 +17406,7 @@ window.allHeroesExtra = [
         "manaBonus": "5%",
         "rarity": 4,
         "element": "Red",
-        "specialId": "dance_of_glass"
+        "specialId": "dance_of_fire"
     },
     {
         "name": "Lemminkainen",
@@ -17478,7 +17478,7 @@ window.allHeroesExtra = [
         "manaBonus": "1%",
         "rarity": 4,
         "element": "Red",
-        "specialId": "halflings_wisdom"
+        "specialId": "halflings_wit"
     },
     {
         "name": "Maheegan",
@@ -17590,7 +17590,7 @@ window.allHeroesExtra = [
         "manaBonus": "1%",
         "rarity": 4,
         "element": "Red",
-        "specialId": "masons_rage"
+        "specialId": "blind_rage"
     },
     {
         "name": "Scarlett",
@@ -17627,7 +17627,7 @@ window.allHeroesExtra = [
         "manaBonus": "5%",
         "rarity": 4,
         "element": "Red",
-        "specialId": "blade_venom"
+        "specialId": "blade_barrage"
     },
     {
         "name": "Scarlett Costume2",
@@ -17648,7 +17648,7 @@ window.allHeroesExtra = [
         "manaBonus": "5%",
         "rarity": 4,
         "element": "Red",
-        "specialId": "blade_dance"
+        "specialId": "blade_barrage"
     },
     {
         "name": "Scarlett Toon",
@@ -17669,7 +17669,7 @@ window.allHeroesExtra = [
         "manaBonus": "5%",
         "rarity": 4,
         "element": "Red",
-        "specialId": "toon_barrage"
+        "specialId": "blade_barrage"
     },
     {
         "name": "Shadereave",
@@ -17756,7 +17756,7 @@ window.allHeroesExtra = [
         "manaBonus": "5%",
         "rarity": 4,
         "element": "Red",
-        "specialId": "orsoldoon"
+        "specialId": "oji_waza"
     },
     {
         "name": "Sumle",
@@ -17794,7 +17794,7 @@ window.allHeroesExtra = [
         "manaBonus": "1%",
         "rarity": 4,
         "element": "Red",
-        "specialId": "volcanic_boulders"
+        "specialId": "magma_boulders"
     },
     {
         "name": "Sun Shangxiang",
@@ -17866,7 +17866,7 @@ window.allHeroesExtra = [
         "manaBonus": "5%",
         "rarity": 4,
         "element": "Red",
-        "specialId": "brilliant_brew"
+        "specialId": "spiritual_unity"
     },
     {
         "name": "Zhabog",
@@ -17921,7 +17921,7 @@ window.allHeroesExtra = [
         "manaBonus": "5%",
         "rarity": 4,
         "element": "Red",
-        "specialId": "scion_sword_costume_white_raven"
+        "specialId": "scion_sword"
     },
     {
         "name": "Abigail",
@@ -18004,7 +18004,7 @@ window.allHeroesExtra = [
         "manaBonus": "5%",
         "rarity": 5,
         "element": "Red",
-        "specialId": "vampiric_heist"
+        "specialId": "vampiric_curse"
     },
     {
         "name": "Amber",
@@ -18131,7 +18131,7 @@ window.allHeroesExtra = [
         "manaBonus": "5%",
         "rarity": 5,
         "element": "Red",
-        "specialId": "seal_of_ares"
+        "specialId": "might_of_ares"
     },
     {
         "name": "Ash",
@@ -18225,7 +18225,7 @@ window.allHeroesExtra = [
         "manaBonus": "5%",
         "rarity": 5,
         "element": "Red",
-        "specialId": "volcanic_flareup"
+        "specialId": "volcanic_eruption"
     },
     {
         "name": "Azlar Costume2",
@@ -18246,7 +18246,7 @@ window.allHeroesExtra = [
         "manaBonus": "5%",
         "rarity": 5,
         "element": "Red",
-        "specialId": "volcanic_explosion"
+        "specialId": "volcanic_eruption"
     },
     {
         "name": "Azlar Toon",
@@ -18267,7 +18267,7 @@ window.allHeroesExtra = [
         "manaBonus": "5%",
         "rarity": 5,
         "element": "Red",
-        "specialId": "volcanic_tantrum"
+        "specialId": "volcanic_eruption"
     },
     {
         "name": "Azlar Glass",
@@ -18288,7 +18288,7 @@ window.allHeroesExtra = [
         "manaBonus": "5%",
         "rarity": 5,
         "element": "Red",
-        "specialId": "glass_volcano"
+        "specialId": "volcanic_eruption"
     },
     {
         "name": "Baldur",
@@ -18329,7 +18329,7 @@ window.allHeroesExtra = [
         "manaBonus": "5%",
         "rarity": 5,
         "element": "Red",
-        "specialId": "relentless_brawler"
+        "specialId": "unbreakable_brawler"
     },
     {
         "name": "Barkley",
@@ -18460,7 +18460,7 @@ window.allHeroesExtra = [
         "manaBonus": "5%",
         "rarity": 5,
         "element": "Red",
-        "specialId": "but_a_scratch"
+        "specialId": "just_a_flesh_wound"
     },
     {
         "name": "Blossom",
@@ -18569,7 +18569,7 @@ window.allHeroesExtra = [
         "manaBonus": "5%",
         "rarity": 5,
         "element": "Red",
-        "specialId": "machinists_cutlass"
+        "specialId": "captains_cutlass"
     },
     {
         "name": "Cardinal Richelieu",
@@ -18865,7 +18865,7 @@ window.allHeroesExtra = [
         "manaBonus": "5%",
         "rarity": 5,
         "element": "Red",
-        "specialId": "sunken_abyss"
+        "specialId": "supernova"
     },
     {
         "name": "Doxan",
@@ -18995,7 +18995,7 @@ window.allHeroesExtra = [
         "manaBonus": "5%",
         "rarity": 5,
         "element": "Red",
-        "specialId": "sword_barricade"
+        "specialId": "wall_of_swords"
     },
     {
         "name": "Elena Costume2",
@@ -19015,7 +19015,7 @@ window.allHeroesExtra = [
         "manaBonus": "5%",
         "rarity": 5,
         "element": "Red",
-        "specialId": "dreaded_swords"
+        "specialId": "wall_of_swords"
     },
     {
         "name": "Elena Toon",
@@ -19036,7 +19036,7 @@ window.allHeroesExtra = [
         "manaBonus": "5%",
         "rarity": 5,
         "element": "Red",
-        "specialId": "adorable_swords"
+        "specialId": "wall_of_swords"
     },
     {
         "name": "Eliane",
@@ -19096,7 +19096,7 @@ window.allHeroesExtra = [
         "manaBonus": "5%",
         "rarity": 5,
         "element": "Red",
-        "specialId": "brides_kiss"
+        "specialId": "widows_kiss"
     },
     {
         "name": "Ember",
@@ -19155,7 +19155,7 @@ window.allHeroesExtra = [
         "manaBonus": "5%",
         "rarity": 5,
         "element": "Red",
-        "specialId": "frogs_and_hoop"
+        "specialId": "flames_and_rejuvenation"
     },
     {
         "name": "Erebus",
@@ -19264,7 +19264,7 @@ window.allHeroesExtra = [
         "manaBonus": "5%",
         "rarity": 5,
         "element": "Red",
-        "specialId": "donut_to_the_rescue"
+        "specialId": "to_the_rescue"
     },
     {
         "name": "Fulvia",
@@ -19334,7 +19334,7 @@ window.allHeroesExtra = [
         "manaBonus": "5%",
         "rarity": 5,
         "element": "Red",
-        "specialId": "maidens_orders"
+        "specialId": "maidens_command"
     },
     {
         "name": "Gestalt",
@@ -19372,7 +19372,7 @@ window.allHeroesExtra = [
         "manaBonus": "5%",
         "rarity": 5,
         "element": "Red",
-        "specialId": "sunken_magma_cube"
+        "specialId": "underwater_magma_cube"
     },
     {
         "name": "Gooze",
@@ -19431,7 +19431,7 @@ window.allHeroesExtra = [
         "manaBonus": "5%",
         "rarity": 5,
         "element": "Red",
-        "specialId": "dust_to_dust"
+        "specialId": "ashes_to_ashes"
     },
     {
         "name": "Grazul",
@@ -19486,7 +19486,7 @@ window.allHeroesExtra = [
         "manaBonus": "5%",
         "rarity": 5,
         "element": "Red",
-        "specialId": "kong_smash"
+        "specialId": "lord_of_the_jungle"
     },
     {
         "name": "Guffa",
@@ -19562,7 +19562,7 @@ window.allHeroesExtra = [
         "manaBonus": "5%",
         "rarity": 5,
         "element": "Red",
-        "specialId": "motherly_love"
+        "specialId": "motherly_care"
     },
     {
         "name": "Hohenwerf",
@@ -19671,7 +19671,7 @@ window.allHeroesExtra = [
         "manaBonus": "5%",
         "rarity": 5,
         "element": "Red",
-        "specialId": "cauterizing_flame"
+        "specialId": "purifying_flame"
     },
     {
         "name": "Ilmarinen",
@@ -19796,7 +19796,7 @@ window.allHeroesExtra = [
         "manaBonus": "5%",
         "rarity": 5,
         "element": "Red",
-        "specialId": "conquerors_command"
+        "specialId": "khans_order"
     },
     {
         "name": "Khagan Costume2",
@@ -19817,7 +19817,7 @@ window.allHeroesExtra = [
         "manaBonus": "5%",
         "rarity": 5,
         "element": "Red",
-        "specialId": "chieftains_vengeance"
+        "specialId": "khans_order"
     },
     {
         "name": "Khagan Toon",
@@ -19839,7 +19839,7 @@ window.allHeroesExtra = [
         "manaBonus": "5%",
         "rarity": 5,
         "element": "Red",
-        "specialId": "toons_order"
+        "specialId": "khans_order"
     },
     {
         "name": "Khagan Glass",
@@ -19861,7 +19861,7 @@ window.allHeroesExtra = [
         "manaBonus": "5%",
         "rarity": 5,
         "element": "Red",
-        "specialId": "glass_order"
+        "specialId": "khans_order"
     },
     {
         "name": "Khufu",
@@ -19898,7 +19898,7 @@ window.allHeroesExtra = [
         "manaBonus": "5%",
         "rarity": 5,
         "element": "Red",
-        "specialId": "underwater_riddle"
+        "specialId": "perplexing_riddle"
     },
     {
         "name": "Kravekrush",
@@ -19934,7 +19934,7 @@ window.allHeroesExtra = [
         "manaBonus": "5%",
         "rarity": 5,
         "element": "Red",
-        "specialId": "delicious_demise"
+        "specialId": "inevitable_demise"
     },
     {
         "name": "Lady Loki",
@@ -19972,7 +19972,7 @@ window.allHeroesExtra = [
         "manaBonus": "5%",
         "rarity": 5,
         "element": "Red",
-        "specialId": "tricksters_lullaby"
+        "specialId": "tricksters_malice"
     },
     {
         "name": "Lasalle",
@@ -20010,7 +20010,7 @@ window.allHeroesExtra = [
         "manaBonus": "5%",
         "rarity": 5,
         "element": "Red",
-        "specialId": "champion_maneuver"
+        "specialId": "flanking_maneuver"
     },
     {
         "name": "Lewena",
@@ -20138,7 +20138,7 @@ window.allHeroesExtra = [
         "manaBonus": "5%",
         "rarity": 5,
         "element": "Red",
-        "specialId": "lava_blast"
+        "specialId": "magma_smash"
     },
     {
         "name": "Marjana Costume2",
@@ -20159,7 +20159,7 @@ window.allHeroesExtra = [
         "manaBonus": "5%",
         "rarity": 5,
         "element": "Red",
-        "specialId": "volcanic_blast"
+        "specialId": "magma_smash"
     },
     {
         "name": "Marjana Toon",
@@ -20180,7 +20180,7 @@ window.allHeroesExtra = [
         "manaBonus": "5%",
         "rarity": 5,
         "element": "Red",
-        "specialId": "toontastic_smash"
+        "specialId": "magma_smash"
     },
     {
         "name": "Marjana Glass",
@@ -20201,7 +20201,7 @@ window.allHeroesExtra = [
         "manaBonus": "5%",
         "rarity": 5,
         "element": "Red",
-        "specialId": "glass_flame_smash"
+        "specialId": "magma_smash"
     },
     {
         "name": "Mitsuko",
@@ -20239,7 +20239,7 @@ window.allHeroesExtra = [
         "manaBonus": "5%",
         "rarity": 5,
         "element": "Red",
-        "specialId": "glaive_of_flames"
+        "specialId": "dark_mirror"
     },
     {
         "name": "Nadezhda",
@@ -20317,7 +20317,7 @@ window.allHeroesExtra = [
         "manaBonus": "5%",
         "rarity": 5,
         "element": "Red",
-        "specialId": "burning_thread"
+        "specialId": "burning_chains"
     },
     {
         "name": "Neema",
@@ -20481,7 +20481,7 @@ window.allHeroesExtra = [
         "manaBonus": "5%",
         "rarity": 5,
         "element": "Red",
-        "specialId": "bouquet_of_the_seas"
+        "specialId": "hallowed_blade"
     },
     {
         "name": "Omen",
@@ -20629,7 +20629,7 @@ window.allHeroesExtra = [
         "manaBonus": "5%",
         "rarity": 5,
         "element": "Red",
-        "specialId": "three_bandit_mice"
+        "specialId": "three_blind_mice"
     },
     {
         "name": "Queen of Hearts",
@@ -20669,7 +20669,7 @@ window.allHeroesExtra = [
         "manaBonus": "5%",
         "rarity": 5,
         "element": "Red",
-        "specialId": "loving_queen"
+        "specialId": "queen_of_cards"
     },
     {
         "name": "Rajesh",
@@ -20990,7 +20990,7 @@ window.allHeroesExtra = [
         "manaBonus": "5%",
         "rarity": 5,
         "element": "Red",
-        "specialId": "gift_of_rock"
+        "specialId": "ultimate_giftsack"
     },
     {
         "name": "Saoirse",
@@ -21035,7 +21035,7 @@ window.allHeroesExtra = [
         "manaBonus": "5%",
         "rarity": 5,
         "element": "Red",
-        "specialId": "fracturing_cut"
+        "specialId": "fracturing_slash"
     },
     {
         "name": "Scoria",
@@ -21092,7 +21092,7 @@ window.allHeroesExtra = [
         "manaBonus": "5%",
         "rarity": 5,
         "element": "Red",
-        "specialId": "flame_of_the_lioness"
+        "specialId": "pounce_of_the_lioness"
     },
     {
         "name": "Serandite",
@@ -21184,7 +21184,7 @@ window.allHeroesExtra = [
         "manaBonus": "5%",
         "rarity": 5,
         "element": "Red",
-        "specialId": "command_to_advance_costume_fire_bat"
+        "specialId": "command_to_advance"
     },
     {
         "name": "Tahir",
@@ -21241,7 +21241,7 @@ window.allHeroesExtra = [
         "manaBonus": "5%",
         "rarity": 5,
         "element": "Red",
-        "specialId": "ancient_flames"
+        "specialId": "ancient_spell"
     },
     {
         "name": "Timothy",
@@ -21318,7 +21318,7 @@ window.allHeroesExtra = [
         "manaBonus": "5%",
         "rarity": 5,
         "element": "Red",
-        "specialId": "indestructible_claw"
+        "specialId": "adamantite_claw"
     },
     {
         "name": "Ukkonen",
@@ -21358,7 +21358,7 @@ window.allHeroesExtra = [
         "manaBonus": "5%",
         "rarity": 5,
         "element": "Red",
-        "specialId": "chords_of_inferno"
+        "specialId": "chords_of_distortion"
     },
     {
         "name": "Vanda",
@@ -21398,7 +21398,7 @@ window.allHeroesExtra = [
         "manaBonus": "5%",
         "rarity": 5,
         "element": "Red",
-        "specialId": "twilight_of_ruin"
+        "specialId": "twilight_of_sorrow"
     },
     {
         "name": "Vanya",
@@ -21457,7 +21457,7 @@ window.allHeroesExtra = [
         "manaBonus": "5%",
         "rarity": 5,
         "element": "Red",
-        "specialId": "xenda_special_costume"
+        "specialId": "xenda_special"
     },
     {
         "name": "Xiaotu",
@@ -21628,7 +21628,7 @@ window.allHeroesExtra = [
         "manaBonus": "5%",
         "rarity": 5,
         "element": "Red",
-        "specialId": "floral_sting"
+        "specialId": "dual_sting"
     },
     {
         "name": "Zidane",
@@ -21686,7 +21686,7 @@ window.allHeroesExtra = [
         "manaBonus": "5%",
         "rarity": 5,
         "element": "Red",
-        "specialId": "morning_catch"
+        "specialId": "dawn_strike"
     },
     {
         "name": "Hikaru",
@@ -21832,7 +21832,7 @@ window.allHeroesExtra = [
         "manaBonus": "5%",
         "rarity": 3,
         "element": "Yellow",
-        "specialId": "harmonic_bash"
+        "specialId": "harmonic_slam"
     },
     {
         "name": "Bane Toon",
@@ -21853,7 +21853,7 @@ window.allHeroesExtra = [
         "manaBonus": "5%",
         "rarity": 3,
         "element": "Yellow",
-        "specialId": "toon_slam"
+        "specialId": "harmonic_slam"
     },
     {
         "name": "Bane Glass",
@@ -21874,7 +21874,7 @@ window.allHeroesExtra = [
         "manaBonus": "5%",
         "rarity": 3,
         "element": "Yellow",
-        "specialId": "glass_slam"
+        "specialId": "harmonic_slam"
     },
     {
         "name": "Bertulf",
@@ -21976,7 +21976,7 @@ window.allHeroesExtra = [
         "manaBonus": "5%",
         "rarity": 3,
         "element": "Yellow",
-        "specialId": "pounding_attack"
+        "specialId": "leaping_attack"
     },
     {
         "name": "Dawa Toon",
@@ -21996,7 +21996,7 @@ window.allHeroesExtra = [
         "manaBonus": "5%",
         "rarity": 3,
         "element": "Yellow",
-        "specialId": "toon_attack"
+        "specialId": "leaping_attack"
     },
     {
         "name": "Dolrak",
@@ -22086,7 +22086,7 @@ window.allHeroesExtra = [
         "manaBonus": "5%",
         "rarity": 3,
         "element": "Yellow",
-        "specialId": "rural_chop"
+        "specialId": "mystic_chop"
     },
     {
         "name": "Gan Ju Toon",
@@ -22107,7 +22107,7 @@ window.allHeroesExtra = [
         "manaBonus": "5%",
         "rarity": 3,
         "element": "Yellow",
-        "specialId": "toon_chop"
+        "specialId": "mystic_chop"
     },
     {
         "name": "Gan Ju Glass",
@@ -22128,7 +22128,7 @@ window.allHeroesExtra = [
         "manaBonus": "5%",
         "rarity": 3,
         "element": "Yellow",
-        "specialId": "glass_chop"
+        "specialId": "mystic_chop"
     },
     {
         "name": "Jaco",
@@ -22166,7 +22166,7 @@ window.allHeroesExtra = [
         "manaBonus": "1%",
         "rarity": 3,
         "element": "Yellow",
-        "specialId": "dubious_mixture"
+        "specialId": "dubious_merchandise"
     },
     {
         "name": "Jolly",
@@ -22220,7 +22220,7 @@ window.allHeroesExtra = [
         "manaBonus": "5%",
         "rarity": 3,
         "element": "Yellow",
-        "specialId": "spirit_rally"
+        "specialId": "stone_skin"
     },
     {
         "name": "Kailani Toon",
@@ -22240,7 +22240,7 @@ window.allHeroesExtra = [
         "manaBonus": "5%",
         "rarity": 3,
         "element": "Yellow",
-        "specialId": "toontastic_link"
+        "specialId": "stone_skin"
     },
     {
         "name": "Kailani Glass",
@@ -22261,7 +22261,7 @@ window.allHeroesExtra = [
         "manaBonus": "5%",
         "rarity": 3,
         "element": "Yellow",
-        "specialId": "glass_link"
+        "specialId": "stone_skin"
     },
     {
         "name": "Kinsaishi",
@@ -22314,7 +22314,7 @@ window.allHeroesExtra = [
         "manaBonus": "1%",
         "rarity": 3,
         "element": "Yellow",
-        "specialId": "bee_bombast"
+        "specialId": "bee_bravado"
     },
     {
         "name": "Melia",
@@ -22350,7 +22350,7 @@ window.allHeroesExtra = [
         "manaBonus": "5%",
         "rarity": 3,
         "element": "Yellow",
-        "specialId": "atlantean_blade_costume"
+        "specialId": "atlantean_blade"
     },
     {
         "name": "Paeia",
@@ -22419,7 +22419,7 @@ window.allHeroesExtra = [
         "manaBonus": "1%",
         "rarity": 3,
         "element": "Yellow",
-        "specialId": "drowsy_bolt"
+        "specialId": "ricochet_bolt"
     },
     {
         "name": "Rekhetre",
@@ -22457,7 +22457,7 @@ window.allHeroesExtra = [
         "manaBonus": "1%",
         "rarity": 3,
         "element": "Yellow",
-        "specialId": "puzzling_paint"
+        "specialId": "puzzling_riddle"
     },
     {
         "name": "Ribbit",
@@ -22632,7 +22632,7 @@ window.allHeroesExtra = [
         "manaBonus": "5%",
         "rarity": 4,
         "element": "Yellow",
-        "specialId": "strategic_slash"
+        "specialId": "tactical_cut"
     },
     {
         "name": "Chao Costume2",
@@ -22652,7 +22652,7 @@ window.allHeroesExtra = [
         "manaBonus": "5%",
         "rarity": 4,
         "element": "Yellow",
-        "specialId": "cub_leader_cut"
+        "specialId": "tactical_cut"
     },
     {
         "name": "Chao Toon",
@@ -22673,7 +22673,7 @@ window.allHeroesExtra = [
         "manaBonus": "5%",
         "rarity": 4,
         "element": "Yellow",
-        "specialId": "adorable_tactical_cut"
+        "specialId": "tactical_cut"
     },
     {
         "name": "D'Andre",
@@ -22733,7 +22733,7 @@ window.allHeroesExtra = [
         "manaBonus": "5%",
         "rarity": 4,
         "element": "Yellow",
-        "specialId": "amazing_deals"
+        "specialId": "tricksters_exchange"
     },
     {
         "name": "Errin",
@@ -22842,7 +22842,7 @@ window.allHeroesExtra = [
         "manaBonus": "1%",
         "rarity": 4,
         "element": "Yellow",
-        "specialId": "divine_lunge"
+        "specialId": "invisible_strike"
     },
     {
         "name": "Gu Dasao",
@@ -22895,7 +22895,7 @@ window.allHeroesExtra = [
         "manaBonus": "5%",
         "rarity": 4,
         "element": "Yellow",
-        "specialId": "severing_strike"
+        "specialId": "ray_strike"
     },
     {
         "name": "Gullinbursti",
@@ -22935,7 +22935,7 @@ window.allHeroesExtra = [
         "manaBonus": "1%",
         "rarity": 4,
         "element": "Yellow",
-        "specialId": "furious_boar"
+        "specialId": "angry_boar"
     },
     {
         "name": "Holly",
@@ -22989,7 +22989,7 @@ window.allHeroesExtra = [
         "manaBonus": "5%",
         "rarity": 4,
         "element": "Yellow",
-        "specialId": "aura_wave"
+        "specialId": "sonic_wall"
     },
     {
         "name": "Hu Tao Costume2",
@@ -23010,7 +23010,7 @@ window.allHeroesExtra = [
         "manaBonus": "5%",
         "rarity": 4,
         "element": "Yellow",
-        "specialId": "acoustic_surge"
+        "specialId": "sonic_wall"
     },
     {
         "name": "Hu Tao Toon",
@@ -23031,7 +23031,7 @@ window.allHeroesExtra = [
         "manaBonus": "5%",
         "rarity": 4,
         "element": "Yellow",
-        "specialId": "adorable_sonic_wall"
+        "specialId": "sonic_wall"
     },
     {
         "name": "Hu Tao Glass",
@@ -23052,7 +23052,7 @@ window.allHeroesExtra = [
         "manaBonus": "5%",
         "rarity": 4,
         "element": "Yellow",
-        "specialId": "glass_wall"
+        "specialId": "sonic_wall"
     },
     {
         "name": "Lady Woolerton",
@@ -23104,7 +23104,7 @@ window.allHeroesExtra = [
         "manaBonus": "5%",
         "rarity": 4,
         "element": "Yellow",
-        "specialId": "slash_of_seven_daggers"
+        "specialId": "slash_of_seven_blades"
     },
     {
         "name": "Li Xiu Costume2",
@@ -23124,7 +23124,7 @@ window.allHeroesExtra = [
         "manaBonus": "5%",
         "rarity": 4,
         "element": "Yellow",
-        "specialId": "slash_of_the_seven_stilettos"
+        "specialId": "slash_of_seven_blades"
     },
     {
         "name": "Li Xiu Toon",
@@ -23145,7 +23145,7 @@ window.allHeroesExtra = [
         "manaBonus": "5%",
         "rarity": 4,
         "element": "Yellow",
-        "specialId": "slash_of_seven_toons"
+        "specialId": "slash_of_seven_blades"
     },
     {
         "name": "Li Xiu Glass",
@@ -23166,7 +23166,7 @@ window.allHeroesExtra = [
         "manaBonus": "5%",
         "rarity": 4,
         "element": "Yellow",
-        "specialId": "slash_of_glass_blades"
+        "specialId": "slash_of_seven_blades"
     },
     {
         "name": "Mist",
@@ -23222,7 +23222,7 @@ window.allHeroesExtra = [
         "manaBonus": "1%",
         "rarity": 4,
         "element": "Yellow",
-        "specialId": "scarab_barrage"
+        "specialId": "scarab_throw"
     },
     {
         "name": "Steropes",
@@ -23307,7 +23307,7 @@ window.allHeroesExtra = [
         "manaBonus": "5%",
         "rarity": 4,
         "element": "Yellow",
-        "specialId": "nobles_empathy_costume_artisan"
+        "specialId": "nobles_empathy"
     },
     {
         "name": "Wu Kong",
@@ -23343,7 +23343,7 @@ window.allHeroesExtra = [
         "manaBonus": "5%",
         "rarity": 4,
         "element": "Yellow",
-        "specialId": "change_stance"
+        "specialId": "gamblers_stance"
     },
     {
         "name": "Wu Kong Costume2",
@@ -23363,7 +23363,7 @@ window.allHeroesExtra = [
         "manaBonus": "5%",
         "rarity": 4,
         "element": "Yellow",
-        "specialId": "gamblers_swing"
+        "specialId": "gamblers_stance"
     },
     {
         "name": "Wu Kong Toon",
@@ -23383,7 +23383,7 @@ window.allHeroesExtra = [
         "manaBonus": "5%",
         "rarity": 4,
         "element": "Yellow",
-        "specialId": "adorable_gamblers_stance"
+        "specialId": "gamblers_stance"
     },
     {
         "name": "Zione",
@@ -23440,7 +23440,7 @@ window.allHeroesExtra = [
         "manaBonus": "5%",
         "rarity": 5,
         "element": "Yellow",
-        "specialId": "colossal_carry"
+        "specialId": "colossal_chops"
     },
     {
         "name": "Albin",
@@ -23564,7 +23564,7 @@ window.allHeroesExtra = [
         "manaBonus": "5%",
         "rarity": 5,
         "element": "Yellow",
-        "specialId": "scepter_of_bundelkhand"
+        "specialId": "blade_of_bundelkhand"
     },
     {
         "name": "Ashen",
@@ -23721,7 +23721,7 @@ window.allHeroesExtra = [
         "manaBonus": "5%",
         "rarity": 5,
         "element": "Yellow",
-        "specialId": "dispelling_judgement"
+        "specialId": "dispelling_willpower"
     },
     {
         "name": "Celidana",
@@ -23800,7 +23800,7 @@ window.allHeroesExtra = [
         "manaBonus": "5%",
         "rarity": 5,
         "element": "Yellow",
-        "specialId": "channeler_of_the_cats"
+        "specialId": "channeler_of_the_gods"
     },
     {
         "name": "Constance",
@@ -23873,7 +23873,7 @@ window.allHeroesExtra = [
         "manaBonus": "5%",
         "rarity": 5,
         "element": "Yellow",
-        "specialId": "summon_celestial_guardians"
+        "specialId": "summon_temple_guardians"
     },
     {
         "name": "Devana",
@@ -23970,7 +23970,7 @@ window.allHeroesExtra = [
         "manaBonus": "5%",
         "rarity": 5,
         "element": "Yellow",
-        "specialId": "fabled_fist"
+        "specialId": "flails_of_fury"
     },
     {
         "name": "Eloise",
@@ -24026,7 +24026,7 @@ window.allHeroesExtra = [
         "manaBonus": "5%",
         "rarity": 5,
         "element": "Yellow",
-        "specialId": "seabed_sissonne"
+        "specialId": "seabed_pirouette"
     },
     {
         "name": "Erlang Shen",
@@ -24084,7 +24084,7 @@ window.allHeroesExtra = [
         "manaBonus": "5%",
         "rarity": 5,
         "element": "Yellow",
-        "specialId": "golden_aura"
+        "specialId": "holy_aura"
     },
     {
         "name": "Experience Mimic Holy",
@@ -24368,7 +24368,7 @@ window.allHeroesExtra = [
         "manaBonus": "5%",
         "rarity": 5,
         "element": "Yellow",
-        "specialId": "bandalore_dance"
+        "specialId": "dance_of_spirits"
     },
     {
         "name": "Guardian Owl",
@@ -24424,7 +24424,7 @@ window.allHeroesExtra = [
         "manaBonus": "5%",
         "rarity": 5,
         "element": "Yellow",
-        "specialId": "word_of_skies"
+        "specialId": "word_of_queen"
     },
     {
         "name": "Gwynn",
@@ -24555,7 +24555,7 @@ window.allHeroesExtra = [
         "manaBonus": "5%",
         "rarity": 5,
         "element": "Yellow",
-        "specialId": "judgment_of_sun"
+        "specialId": "unrelenting_hunter"
     },
     {
         "name": "Iga",
@@ -24613,7 +24613,7 @@ window.allHeroesExtra = [
         "manaBonus": "5%",
         "rarity": 5,
         "element": "Yellow",
-        "specialId": "blinding_spell"
+        "specialId": "lucky_nine"
     },
     {
         "name": "Ironmaw",
@@ -24707,7 +24707,7 @@ window.allHeroesExtra = [
         "manaBonus": "5%",
         "rarity": 5,
         "element": "Yellow",
-        "specialId": "dreams_of_nourishment"
+        "specialId": "petals_of_nourishment"
     },
     {
         "name": "Jequn",
@@ -24747,7 +24747,7 @@ window.allHeroesExtra = [
         "manaBonus": "5%",
         "rarity": 5,
         "element": "Yellow",
-        "specialId": "golden_sacred_symbol"
+        "specialId": "archaic_sacred_symbol"
     },
     {
         "name": "Joon",
@@ -24783,7 +24783,7 @@ window.allHeroesExtra = [
         "manaBonus": "5%",
         "rarity": 5,
         "element": "Yellow",
-        "specialId": "solar_strike"
+        "specialId": "solar_beam"
     },
     {
         "name": "Joon Costume2",
@@ -24804,7 +24804,7 @@ window.allHeroesExtra = [
         "manaBonus": "5%",
         "rarity": 5,
         "element": "Yellow",
-        "specialId": "stellar_beam"
+        "specialId": "solar_beam"
     },
     {
         "name": "Joon Toon",
@@ -24825,7 +24825,7 @@ window.allHeroesExtra = [
         "manaBonus": "5%",
         "rarity": 5,
         "element": "Yellow",
-        "specialId": "adorable_beam"
+        "specialId": "solar_beam"
     },
     {
         "name": "Joon Glass",
@@ -24846,7 +24846,7 @@ window.allHeroesExtra = [
         "manaBonus": "5%",
         "rarity": 5,
         "element": "Yellow",
-        "specialId": "glass_beam"
+        "specialId": "solar_beam"
     },
     {
         "name": "Jove",
@@ -24900,7 +24900,7 @@ window.allHeroesExtra = [
         "manaBonus": "5%",
         "rarity": 5,
         "element": "Yellow",
-        "specialId": "day_of_judgement"
+        "specialId": "rite_of_judgement"
     },
     {
         "name": "Justice Costume2",
@@ -24921,7 +24921,7 @@ window.allHeroesExtra = [
         "manaBonus": "5%",
         "rarity": 5,
         "element": "Yellow",
-        "specialId": "ritual_of_judgement"
+        "specialId": "rite_of_judgement"
     },
     {
         "name": "Justice Toon",
@@ -24942,7 +24942,7 @@ window.allHeroesExtra = [
         "manaBonus": "5%",
         "rarity": 5,
         "element": "Yellow",
-        "specialId": "rite_of_cuteness"
+        "specialId": "rite_of_judgement"
     },
     {
         "name": "Kara",
@@ -24995,7 +24995,7 @@ window.allHeroesExtra = [
         "manaBonus": "5%",
         "rarity": 5,
         "element": "Yellow",
-        "specialId": "cunning_knife"
+        "specialId": "heirloom_dagger"
     },
     {
         "name": "Kushanku",
@@ -25106,7 +25106,7 @@ window.allHeroesExtra = [
         "manaBonus": "5%",
         "rarity": 5,
         "element": "Yellow",
-        "specialId": "roman_cleave"
+        "specialId": "spartan_cleave"
     },
     {
         "name": "Leonidas Costume2",
@@ -25127,7 +25127,7 @@ window.allHeroesExtra = [
         "manaBonus": "5%",
         "rarity": 5,
         "element": "Yellow",
-        "specialId": "spartan_slash"
+        "specialId": "spartan_cleave"
     },
     {
         "name": "Leonidas Toon",
@@ -25149,7 +25149,7 @@ window.allHeroesExtra = [
         "manaBonus": "5%",
         "rarity": 5,
         "element": "Yellow",
-        "specialId": "toon_cleave"
+        "specialId": "spartan_cleave"
     },
     {
         "name": "Leonidas Glass",
@@ -25171,7 +25171,7 @@ window.allHeroesExtra = [
         "manaBonus": "5%",
         "rarity": 5,
         "element": "Yellow",
-        "specialId": "glass_cleave"
+        "specialId": "spartan_cleave"
     },
     {
         "name": "Livia",
@@ -25332,7 +25332,7 @@ window.allHeroesExtra = [
         "manaBonus": "5%",
         "rarity": 5,
         "element": "Yellow",
-        "specialId": "impossible_groove"
+        "specialId": "impossible_riddle"
     },
     {
         "name": "Mica",
@@ -25429,7 +25429,7 @@ window.allHeroesExtra = [
         "manaBonus": "5%",
         "rarity": 5,
         "element": "Yellow",
-        "specialId": "rod_of_freedom"
+        "specialId": "dragon_fang"
     },
     {
         "name": "Neith",
@@ -25515,7 +25515,7 @@ window.allHeroesExtra = [
         "manaBonus": "5%",
         "rarity": 5,
         "element": "Yellow",
-        "specialId": "wrath_of_fate"
+        "specialId": "twist_of_fate"
     },
     {
         "name": "Odin",
@@ -25553,7 +25553,7 @@ window.allHeroesExtra = [
         "manaBonus": "5%",
         "rarity": 5,
         "element": "Yellow",
-        "specialId": "rage_of_grimnir"
+        "specialId": "fury_of_grimnir"
     },
     {
         "name": "Ogima",
@@ -25629,7 +25629,7 @@ window.allHeroesExtra = [
         "manaBonus": "5%",
         "rarity": 5,
         "element": "Yellow",
-        "specialId": "command_sand_golems"
+        "specialId": "summon_sand_golems"
     },
     {
         "name": "Penolite",
@@ -25692,7 +25692,7 @@ window.allHeroesExtra = [
         "manaBonus": "5%",
         "rarity": 5,
         "element": "Yellow",
-        "specialId": "oceans_decay"
+        "specialId": "oceans_ruin"
     },
     {
         "name": "Pertinax",
@@ -25767,7 +25767,7 @@ window.allHeroesExtra = [
         "manaBonus": "5%",
         "rarity": 5,
         "element": "Yellow",
-        "specialId": "oceanic_slayer"
+        "specialId": "ruler_of_seas"
     },
     {
         "name": "Prof Lidenbrock",
@@ -25805,7 +25805,7 @@ window.allHeroesExtra = [
         "manaBonus": "5%",
         "rarity": 5,
         "element": "Yellow",
-        "specialId": "dazzling_gleam"
+        "specialId": "glorious_grace"
     },
     {
         "name": "Queen Guowang",
@@ -25861,7 +25861,7 @@ window.allHeroesExtra = [
         "manaBonus": "5%",
         "rarity": 5,
         "element": "Yellow",
-        "specialId": "sand_wave_rana"
+        "specialId": "queens_curse"
     },
     {
         "name": "Ranvir",
@@ -25937,7 +25937,7 @@ window.allHeroesExtra = [
         "manaBonus": "5%",
         "rarity": 5,
         "element": "Yellow",
-        "specialId": "beach_party"
+        "specialId": "sand_cyclone"
     },
     {
         "name": "Rosalind",
@@ -26107,7 +26107,7 @@ window.allHeroesExtra = [
         "manaBonus": "5%",
         "rarity": 5,
         "element": "Yellow",
-        "specialId": "golden_thread"
+        "specialId": "gold_weaver"
     },
     {
         "name": "Silverpaw",
@@ -26211,7 +26211,7 @@ window.allHeroesExtra = [
         "manaBonus": "5%",
         "rarity": 5,
         "element": "Yellow",
-        "specialId": "energy_of_mjolnir"
+        "specialId": "power_of_mjolnir"
     },
     {
         "name": "Thunderclap",
@@ -26341,7 +26341,7 @@ window.allHeroesExtra = [
         "manaBonus": "5%",
         "rarity": 5,
         "element": "Yellow",
-        "specialId": "omnicure"
+        "specialId": "omniheal"
     },
     {
         "name": "Vivica Costume2",
@@ -26362,7 +26362,7 @@ window.allHeroesExtra = [
         "manaBonus": "5%",
         "rarity": 5,
         "element": "Yellow",
-        "specialId": "omnimend"
+        "specialId": "omniheal"
     },
     {
         "name": "Vivica Toon",
@@ -26383,7 +26383,7 @@ window.allHeroesExtra = [
         "manaBonus": "5%",
         "rarity": 5,
         "element": "Yellow",
-        "specialId": "adorable_heal"
+        "specialId": "omniheal"
     },
     {
         "name": "Vivica Glass",
@@ -26405,7 +26405,7 @@ window.allHeroesExtra = [
         "manaBonus": "5%",
         "rarity": 5,
         "element": "Yellow",
-        "specialId": "glass_heal"
+        "specialId": "omniheal"
     },
     {
         "name": "Wayne",
@@ -26477,7 +26477,7 @@ window.allHeroesExtra = [
         "manaBonus": "5%",
         "rarity": 5,
         "element": "Yellow",
-        "specialId": "cosmic_clock"
+        "specialId": "rabbits_watch"
     },
     {
         "name": "Willow",
@@ -26558,7 +26558,7 @@ window.allHeroesExtra = [
         "manaBonus": "5%",
         "rarity": 5,
         "element": "Yellow",
-        "specialId": "gold_gauntlet"
+        "specialId": "commanders_gauntlet"
     },
     {
         "name": "Wulfstan",
@@ -26668,7 +26668,7 @@ window.allHeroesExtra = [
         "manaBonus": "5%",
         "rarity": 5,
         "element": "Yellow",
-        "specialId": "sharp_stingers"
+        "specialId": "swift_stingers"
     },
     {
         "name": "Zenuk'wa",
@@ -26723,7 +26723,7 @@ window.allHeroesExtra = [
         "manaBonus": "5%",
         "rarity": 5,
         "element": "Yellow",
-        "specialId": "viper_blade_costume_bear_slayer"
+        "specialId": "viper_blade"
     },
     {
         "name": "Zhuge Liang",
@@ -26763,7 +26763,7 @@ window.allHeroesExtra = [
         "manaBonus": "5%",
         "rarity": 5,
         "element": "Yellow",
-        "specialId": "triumph_of_strategy"
+        "specialId": "martial_masterstroke"
     },
     {
         "name": "Zora",
@@ -26803,7 +26803,7 @@ window.allHeroesExtra = [
         "manaBonus": "5%",
         "rarity": 5,
         "element": "Green",
-        "specialId": "scavenging_dash"
+        "specialId": "whirlpool_dash"
     },
     {
         "name": "Lennart",
@@ -26936,7 +26936,7 @@ window.allHeroesExtra = [
         "manaBonus": "1%",
         "rarity": 5,
         "element": "Red",
-        "specialId": "parcel_of_the_dragon_familiar"
+        "specialId": "flame_of_the_dragon_familiar"
     },
     {
         "name": "Verdigoo",
@@ -27048,7 +27048,7 @@ window.allHeroesExtra = [
         "manaBonus": "5%",
         "rarity": 5,
         "element": "Purple",
-        "specialId": "dreadful_riddle"
+        "specialId": "disheartening_riddle"
     },
     {
         "name": "Grendel's Mother",
@@ -27087,7 +27087,7 @@ window.allHeroesExtra = [
         "manaBonus": "5%",
         "rarity": 3,
         "element": "Green",
-        "specialId": "glass_four_blades"
+        "specialId": "slash_of_four_blades"
     },
     {
         "name": "Chao Glass",
@@ -27108,7 +27108,7 @@ window.allHeroesExtra = [
         "manaBonus": "5%",
         "rarity": 4,
         "element": "Yellow",
-        "specialId": "glass_cut_chao"
+        "specialId": "tactical_cut"
     },
     {
         "name": "Elena Glass",
@@ -27129,7 +27129,7 @@ window.allHeroesExtra = [
         "manaBonus": "5%",
         "rarity": 5,
         "element": "Red",
-        "specialId": "glass_swords"
+        "specialId": "wall_of_swords"
     },
     {
         "name": "Hawkmoon Glass",
@@ -27149,7 +27149,7 @@ window.allHeroesExtra = [
         "manaBonus": "5%",
         "rarity": 3,
         "element": "Red",
-        "specialId": "glass_prayer"
+        "specialId": "wind_prayer"
     },
     {
         "name": "Rigard Glass",
@@ -27170,7 +27170,7 @@ window.allHeroesExtra = [
         "manaBonus": "5%",
         "rarity": 4,
         "element": "Purple",
-        "specialId": "glass_purification"
+        "specialId": "purification"
     },
     {
         "name": "Imagus",
@@ -27208,7 +27208,7 @@ window.allHeroesExtra = [
         "manaBonus": "5%",
         "rarity": 5,
         "element": "Green",
-        "specialId": "sonic_infusion_arrow"
+        "specialId": "elemental_infusion_arrow"
     },
     {
         "name": "Ascension Mimic",
@@ -27294,7 +27294,7 @@ window.allHeroesExtra = [
         "manaBonus": "1%",
         "rarity": 5,
         "element": "Red",
-        "specialId": "thorned_slam_dunk"
+        "specialId": "blazing_slam_dunk"
     },
     {
         "name": "Ascension Mimic Ice",
@@ -27357,7 +27357,7 @@ window.allHeroesExtra = [
         "manaBonus": "5%",
         "rarity": 5,
         "element": "Red",
-        "specialId": "forged_from_gold"
+        "specialId": "forged_in_fire"
     },
     {
         "name": "Joukahainen Costume1",
@@ -27378,7 +27378,7 @@ window.allHeroesExtra = [
         "manaBonus": "1%",
         "rarity": 3,
         "element": "Blue",
-        "specialId": "arrows_of_frost"
+        "specialId": "arrows_of_fury"
     },
     {
         "name": "Lemminkainen Costume1",
@@ -27398,7 +27398,7 @@ window.allHeroesExtra = [
         "manaBonus": "1%",
         "rarity": 4,
         "element": "Red",
-        "specialId": "sword_of_swan_song"
+        "specialId": "flaming_sword"
     },
     {
         "name": "Louhi Costume1",
@@ -27419,7 +27419,7 @@ window.allHeroesExtra = [
         "manaBonus": "5%",
         "rarity": 5,
         "element": "Purple",
-        "specialId": "raging_tempest"
+        "specialId": "feather_tempest"
     },
     {
         "name": "Mother Lemminkainen",

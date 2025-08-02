@@ -5,16 +5,16 @@ import unicodedata
 import os
 import sys
 
-# =_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=
+# ==============================================================================
 # --- 用户配置区：在这里添加您的所有自定义规则 ---
-# =_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=
+# ==============================================================================
 MANUAL_OVERRIDE_RULES = [
     #{ "name": "Ascension Mimic", "overrides": { "Release date": "2025-07-04" } },
 ]
 GLOBAL_CORRECTIONS = {
     #"AetherPower": { "Counterattack": "Pain Return" }
 }
-# =_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=
+# ==============================================================================
 
 # --- 全局变量 ---
 CHARACTERS_DATA = {}
@@ -60,14 +60,11 @@ def load_all_data_sources():
         print(f"🟡 警告: 无法加载 'heroes_name_fancy_en.txt'。英雄名将使用原始ID。错误: {e}")
 
     print("--- 正在对源数据进行预翻译并构建一对多查找地图... ---")
-    # --- 关键升级：构建值为列表的字典，以处理同名英雄 ---
     multi_map = {}
     for original_id, data in raw_chars.items():
         lookup_key = 'heroes.name_fancy.' + original_id.lower()
         translated_name = translation_table.get(lookup_key, original_id)
         normalized_key = normalize_name(translated_name)
-        
-        # 如果键不存在，创建一个新列表；如果存在，则追加
         if normalized_key not in multi_map:
             multi_map[normalized_key] = []
         multi_map[normalized_key].append(data)
@@ -96,7 +93,6 @@ def load_all_data_sources():
         print(f"🟡 警告: 无法加载 'other.json'。服装奖励将不可用。错误: {e}")
     return True
 
-# ... (calculate_costume_bonus 保持不变)
 def calculate_costume_bonus(hero_extra_entry, rarity, costume_bonuses_id):
     if not costume_bonuses_id or not rarity: return None, "缺少 costumeBonusesId 或 rarity"
     bonus_rule = COSTUME_BONUSES_DATA.get(costume_bonuses_id)
@@ -135,6 +131,7 @@ def main_sync_process():
     SYNC_LOG, COSTUMES_IN_EXTRA_DATA, MATCHED_COSTUMES, BONUS_CALCULATION_FAILURES, CORRECTION_LOG_MESSAGES = {'unmatched': [], 'mismatched_dimension': [], 'successful': []}, set(), set(), [], []
     bonus_calculated_count = 0
     costume_keywords = ["costume1", "costume2", "toon", "glass"]
+    special_id_updated_count = 0
 
     for hero_extra in HEROES_EXTRA_DATA:
         fancy_name = hero_extra.get("fancy name")
@@ -143,18 +140,15 @@ def main_sync_process():
             continue
             
         normalized_fancy_name = normalize_name(fancy_name)
-        # --- 关键升级：现在获取的是一个候选列表 ---
         candidate_list = CHARACTERS_DATA.get(normalized_fancy_name)
         
         if candidate_list:
             match_found = False
-            # 遍历所有同名候选者
             for matched_char in candidate_list:
                 rarity_match = hero_extra.get('rarity') == matched_char.get('rarity')
                 element_match = hero_extra.get('element') == matched_char.get('element')
 
                 if rarity_match and element_match:
-                    # --- 完全匹配成功 ---
                     SYNC_LOG['successful'].append(hero_extra)
                     is_costume = any(keyword in hero_extra.get("name", "").lower() for keyword in costume_keywords)
                     if is_costume: MATCHED_COSTUMES.add(fancy_name)
@@ -162,6 +156,7 @@ def main_sync_process():
                     hero_extra['baseAttack'] = matched_char.get('baseAttack')
                     hero_extra['baseDefense'] = matched_char.get('baseDefense')
                     hero_extra['baseHealth'] = matched_char.get('baseHealth')
+                    # 我们先同步服装自身的 specialId，如果后面找到了本体，再覆盖
                     hero_extra['specialId'] = matched_char.get('specialId')
                     if 'aetherGift' in matched_char: hero_extra['AetherPower'] = matched_char.get('aetherGift')
                     release_date_str = matched_char.get('canBeReceivedDate')
@@ -171,6 +166,11 @@ def main_sync_process():
                         parent_hero_id = matched_char['parentHeroId']
                         parent_hero_data = CHARACTERS_DATA['__raw__'].get(parent_hero_id)
                         if parent_hero_data:
+                            # --- 关键升级：继承本体的 specialId ---
+                            if 'specialId' in parent_hero_data:
+                                hero_extra['specialId'] = parent_hero_data.get('specialId')
+                                special_id_updated_count += 1
+
                             costume_bonuses_id = parent_hero_data.get('costumeBonusesId', 'default')
                             rarity = matched_char.get('rarity')
                             bonuses, reason = calculate_costume_bonus(hero_extra, rarity, costume_bonuses_id)
@@ -185,22 +185,21 @@ def main_sync_process():
                          BONUS_CALCULATION_FAILURES.append({"name": hero_extra.get("name"), "fancy_name": fancy_name, "reason": "缺少 'parentHeroId' 字段"})
                     
                     match_found = True
-                    break # 找到完全匹配的就跳出内部循环
+                    break
 
             if not match_found:
-                # 遍历完所有候选者都未找到完全匹配的
                 mismatch_details = { "hero_extra": hero_extra, "mismatches": [f"在 {len(candidate_list)} 个同名候选者中均未找到匹配的 Rarity & Element"] }
                 SYNC_LOG['mismatched_dimension'].append(mismatch_details)
         else:
-            # --- 完全未匹配 ---
             SYNC_LOG['unmatched'].append(hero_extra)
 
-    # ... (后续的日志、修正和写入逻辑保持不变)
     print(f"✅ 自动化同步完成：成功更新 {len(SYNC_LOG['successful'])} 条记录。")
+    print(f"✅ 成功为 {special_id_updated_count} 套服装继承了本体的 specialId。")
     print(f"✅ 成功计算并添加了 {bonus_calculated_count} 套服装奖励。")
     if SYNC_LOG['mismatched_dimension']: print(f"🚨 发现 {len(SYNC_LOG['mismatched_dimension'])} 条维度不匹配记录 (详情见 sync_report.txt)。")
     if SYNC_LOG['unmatched']: print(f"🟡 发现 {len(SYNC_LOG['unmatched'])} 条完全未匹配记录 (详情见 sync_report.txt)。")
 
+    # --- 后续处理：修正与写入 (无变化) ---
     print("\n--- 阶段 3: 开始执行最终修正 ---")
     manual_correction_count, global_correction_count = 0, 0
     override_lookup = {rule["name"]: rule["overrides"] for rule in MANUAL_OVERRIDE_RULES}
