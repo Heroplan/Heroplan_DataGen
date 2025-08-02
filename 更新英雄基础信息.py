@@ -5,42 +5,22 @@ import unicodedata
 import os
 import sys
 
-# ==============================================================================
+# =_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=
 # --- 用户配置区：在这里添加您的所有自定义规则 ---
-# ==============================================================================
+# =_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=
 MANUAL_OVERRIDE_RULES = [
-    {
-        "name": "Isarnia Glass", 
-        "overrides": {
-            "AetherPower": "Regen",
-            "Release date": "2025-06-18",
-            "baseAttack": 406,
-            "baseDefense": 302,
-            "baseHealth": 574,
-            "attackBonus": "75%",
-            "defenseBonus": "75%",
-            "healthBonus": "78%",
-            "manaBonus": "5%"
-        }
-    },
-    { "name": "Ascension Mimic", "overrides": { "Release date": "2025-07-04" } },
-    { "name": "Ascension Mimic Ice", "overrides": { "Release date": "2025-07-26" } },
-    { "name": "Cyprian Glass", "overrides": {
-            "AetherPower": "Counterattack",
-            "Release date": "2025-04-23" 
-        } 
-    }
+    #{ "name": "Ascension Mimic", "overrides": { "Release date": "2025-07-04" } },
 ]
 GLOBAL_CORRECTIONS = {
-    "AetherPower": { "Counterattack1": "Pain Return" }
+    #"AetherPower": { "Counterattack": "Pain Return" }
 }
-# ==============================================================================
+# =_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=
 
 # --- 全局变量 ---
 CHARACTERS_DATA = {}
 HEROES_EXTRA_DATA = []
 COSTUME_BONUSES_DATA = {}
-UNMATCHED_LOG = []
+SYNC_LOG = {'unmatched': [], 'mismatched_dimension': [], 'successful': []}
 COSTUMES_IN_EXTRA_DATA = set()
 MATCHED_COSTUMES = set()
 BONUS_CALCULATION_FAILURES = []
@@ -60,15 +40,42 @@ def format_percentage(per_mil_value):
 def load_all_data_sources():
     global CHARACTERS_DATA, HEROES_EXTRA_DATA, COSTUME_BONUSES_DATA
     print("--- 正在预加载所有数据源... ---")
+    
+    raw_chars = {}
     try:
         with open('characters_en.json', 'r', encoding='utf-8') as f:
             raw_chars = json.load(f)
-            CHARACTERS_DATA = {normalize_name(name): data for name, data in raw_chars.items()}
-            CHARACTERS_DATA['__raw__'] = raw_chars
-        print(f"✅ 成功加载 'characters_en.json' ({len(CHARACTERS_DATA) - 1} 条记录)")
     except Exception as e:
-        print(f"❌ 严重错误: 无法加载 'characters_en.json'。错误: {e}")
-        return False
+        print(f"❌ 严重错误: 无法加载 'characters_en.json'。错误: {e}"); return False
+
+    translation_table = {}
+    try:
+        with open('heroes_name_fancy_en.txt', 'r', encoding='utf-8') as f:
+            for line in f:
+                if ',' in line:
+                    k, v = line.split(',', 1)
+                    translation_table[k.strip().strip('"')] = v.strip().strip('"')
+        print(f"✅ 成功加载 'heroes_name_fancy_en.txt' ({len(translation_table)} 条翻译规则)")
+    except Exception as e:
+        print(f"🟡 警告: 无法加载 'heroes_name_fancy_en.txt'。英雄名将使用原始ID。错误: {e}")
+
+    print("--- 正在对源数据进行预翻译并构建一对多查找地图... ---")
+    # --- 关键升级：构建值为列表的字典，以处理同名英雄 ---
+    multi_map = {}
+    for original_id, data in raw_chars.items():
+        lookup_key = 'heroes.name_fancy.' + original_id.lower()
+        translated_name = translation_table.get(lookup_key, original_id)
+        normalized_key = normalize_name(translated_name)
+        
+        # 如果键不存在，创建一个新列表；如果存在，则追加
+        if normalized_key not in multi_map:
+            multi_map[normalized_key] = []
+        multi_map[normalized_key].append(data)
+
+    CHARACTERS_DATA = multi_map
+    CHARACTERS_DATA['__raw__'] = raw_chars
+    print(f"✅ 源数据处理完成，生成 {len(CHARACTERS_DATA) - 1} 个唯一的名称键。")
+
     try:
         with open('heroes_data_extra.js', 'r', encoding='utf-8') as f:
             js_content = f.read()
@@ -77,8 +84,8 @@ def load_all_data_sources():
         HEROES_EXTRA_DATA = json.loads(match.group(1))
         print(f"✅ 成功加载 'heroes_data_extra.js' ({len(HEROES_EXTRA_DATA)} 条记录)")
     except Exception as e:
-        print(f"❌ 严重错误: 无法加载 'heroes_data_extra.js'。错误: {e}")
-        return False
+        print(f"❌ 严重错误: 无法加载 'heroes_data_extra.js'。错误: {e}"); return False
+        
     try:
         with open('other.json', 'r', encoding='utf-8') as f:
             other_data = json.load(f)
@@ -89,6 +96,7 @@ def load_all_data_sources():
         print(f"🟡 警告: 无法加载 'other.json'。服装奖励将不可用。错误: {e}")
     return True
 
+# ... (calculate_costume_bonus 保持不变)
 def calculate_costume_bonus(hero_extra_entry, rarity, costume_bonuses_id):
     if not costume_bonuses_id or not rarity: return None, "缺少 costumeBonusesId 或 rarity"
     bonus_rule = COSTUME_BONUSES_DATA.get(costume_bonuses_id)
@@ -123,50 +131,75 @@ def calculate_costume_bonus(hero_extra_entry, rarity, costume_bonuses_id):
     return None, "未找到有效的 bonus_data"
 
 def main_sync_process():
-    global UNMATCHED_LOG, COSTUMES_IN_EXTRA_DATA, MATCHED_COSTUMES, BONUS_CALCULATION_FAILURES, CORRECTION_LOG_MESSAGES
-    UNMATCHED_LOG, COSTUMES_IN_EXTRA_DATA, MATCHED_COSTUMES, BONUS_CALCULATION_FAILURES, CORRECTION_LOG_MESSAGES = [], set(), set(), [], []
-    updated_count, bonus_calculated_count = 0, 0
+    global SYNC_LOG, COSTUMES_IN_EXTRA_DATA, MATCHED_COSTUMES, BONUS_CALCULATION_FAILURES, CORRECTION_LOG_MESSAGES
+    SYNC_LOG, COSTUMES_IN_EXTRA_DATA, MATCHED_COSTUMES, BONUS_CALCULATION_FAILURES, CORRECTION_LOG_MESSAGES = {'unmatched': [], 'mismatched_dimension': [], 'successful': []}, set(), set(), [], []
+    bonus_calculated_count = 0
     costume_keywords = ["costume1", "costume2", "toon", "glass"]
 
     for hero_extra in HEROES_EXTRA_DATA:
         fancy_name = hero_extra.get("fancy name")
-        hero_name_lower = hero_extra.get("name", "").lower()
-        is_costume = any(keyword in hero_name_lower for keyword in costume_keywords)
-        if is_costume and fancy_name: COSTUMES_IN_EXTRA_DATA.add(fancy_name)
         if not fancy_name:
-            UNMATCHED_LOG.append(hero_extra)
+            SYNC_LOG['unmatched'].append(hero_extra)
             continue
+            
         normalized_fancy_name = normalize_name(fancy_name)
-        matched_char = CHARACTERS_DATA.get(normalized_fancy_name)
-        if matched_char:
-            updated_count += 1
-            if is_costume: MATCHED_COSTUMES.add(fancy_name)
-            hero_extra['baseAttack'] = matched_char.get('baseAttack')
-            hero_extra['baseDefense'] = matched_char.get('baseDefense')
-            hero_extra['baseHealth'] = matched_char.get('baseHealth')
-            if 'aetherGift' in matched_char: hero_extra['AetherPower'] = matched_char.get('aetherGift')
-            release_date_str = matched_char.get('canBeReceivedDate')
-            if release_date_str: hero_extra['Release date'] = release_date_str.split(' ')[0]
-            if 'parentHeroId' in matched_char:
-                parent_hero_id = matched_char['parentHeroId']
-                parent_hero_data = CHARACTERS_DATA['__raw__'].get(parent_hero_id)
-                if parent_hero_data:
-                    costume_bonuses_id = parent_hero_data.get('costumeBonusesId', 'default')
-                    rarity = matched_char.get('rarity')
-                    bonuses, reason = calculate_costume_bonus(hero_extra, rarity, costume_bonuses_id)
-                    if bonuses:
-                        hero_extra.update(bonuses)
-                        bonus_calculated_count += 1
-                    else:
-                        BONUS_CALCULATION_FAILURES.append({"name": hero_extra.get("name"), "fancy_name": fancy_name, "reason": reason})
-                else:
-                    BONUS_CALCULATION_FAILURES.append({"name": hero_extra.get("name"), "fancy_name": fancy_name, "reason": f"未找到 parentHeroId '{parent_hero_id}'"})
-            elif is_costume:
-                 BONUS_CALCULATION_FAILURES.append({"name": hero_extra.get("name"), "fancy_name": fancy_name, "reason": "缺少 'parentHeroId' 字段"})
+        # --- 关键升级：现在获取的是一个候选列表 ---
+        candidate_list = CHARACTERS_DATA.get(normalized_fancy_name)
+        
+        if candidate_list:
+            match_found = False
+            # 遍历所有同名候选者
+            for matched_char in candidate_list:
+                rarity_match = hero_extra.get('rarity') == matched_char.get('rarity')
+                element_match = hero_extra.get('element') == matched_char.get('element')
+
+                if rarity_match and element_match:
+                    # --- 完全匹配成功 ---
+                    SYNC_LOG['successful'].append(hero_extra)
+                    is_costume = any(keyword in hero_extra.get("name", "").lower() for keyword in costume_keywords)
+                    if is_costume: MATCHED_COSTUMES.add(fancy_name)
+
+                    hero_extra['baseAttack'] = matched_char.get('baseAttack')
+                    hero_extra['baseDefense'] = matched_char.get('baseDefense')
+                    hero_extra['baseHealth'] = matched_char.get('baseHealth')
+                    hero_extra['specialId'] = matched_char.get('specialId')
+                    if 'aetherGift' in matched_char: hero_extra['AetherPower'] = matched_char.get('aetherGift')
+                    release_date_str = matched_char.get('canBeReceivedDate')
+                    if release_date_str: hero_extra['Release date'] = release_date_str.split(' ')[0]
+
+                    if 'parentHeroId' in matched_char:
+                        parent_hero_id = matched_char['parentHeroId']
+                        parent_hero_data = CHARACTERS_DATA['__raw__'].get(parent_hero_id)
+                        if parent_hero_data:
+                            costume_bonuses_id = parent_hero_data.get('costumeBonusesId', 'default')
+                            rarity = matched_char.get('rarity')
+                            bonuses, reason = calculate_costume_bonus(hero_extra, rarity, costume_bonuses_id)
+                            if bonuses:
+                                hero_extra.update(bonuses)
+                                bonus_calculated_count += 1
+                            else:
+                                BONUS_CALCULATION_FAILURES.append({"name": hero_extra.get("name"), "fancy_name": fancy_name, "reason": reason})
+                        else:
+                            BONUS_CALCULATION_FAILURES.append({"name": hero_extra.get("name"), "fancy_name": fancy_name, "reason": f"未找到 parentHeroId '{parent_hero_id}'"})
+                    elif is_costume:
+                         BONUS_CALCULATION_FAILURES.append({"name": hero_extra.get("name"), "fancy_name": fancy_name, "reason": "缺少 'parentHeroId' 字段"})
+                    
+                    match_found = True
+                    break # 找到完全匹配的就跳出内部循环
+
+            if not match_found:
+                # 遍历完所有候选者都未找到完全匹配的
+                mismatch_details = { "hero_extra": hero_extra, "mismatches": [f"在 {len(candidate_list)} 个同名候选者中均未找到匹配的 Rarity & Element"] }
+                SYNC_LOG['mismatched_dimension'].append(mismatch_details)
         else:
-            UNMATCHED_LOG.append(hero_extra)
-    print(f"✅ 自动化同步完成：成功更新 {updated_count} 条记录。")
+            # --- 完全未匹配 ---
+            SYNC_LOG['unmatched'].append(hero_extra)
+
+    # ... (后续的日志、修正和写入逻辑保持不变)
+    print(f"✅ 自动化同步完成：成功更新 {len(SYNC_LOG['successful'])} 条记录。")
     print(f"✅ 成功计算并添加了 {bonus_calculated_count} 套服装奖励。")
+    if SYNC_LOG['mismatched_dimension']: print(f"🚨 发现 {len(SYNC_LOG['mismatched_dimension'])} 条维度不匹配记录 (详情见 sync_report.txt)。")
+    if SYNC_LOG['unmatched']: print(f"🟡 发现 {len(SYNC_LOG['unmatched'])} 条完全未匹配记录 (详情见 sync_report.txt)。")
 
     print("\n--- 阶段 3: 开始执行最终修正 ---")
     manual_correction_count, global_correction_count = 0, 0
@@ -193,21 +226,16 @@ def main_sync_process():
     if manual_correction_count > 0: print(f"✅ 手动覆盖完成：成功应用 {manual_correction_count} 条修正 (详情见 correction_log.txt)。")
     if global_correction_count > 0: print(f"✅ 全局修正完成：成功应用 {global_correction_count} 条修正 (详情见 correction_log.txt)。")
     if not manual_correction_count and not global_correction_count: print("🟡 未应用任何修正规则。")
-
-    # --- 新增：阶段 4: 最终数据排查 ---
     print("\n--- 阶段 4: 开始执行最终数据排查 ---")
     anomalies = []
     anomaly_date = "2200-01-01"
     for hero_extra in HEROES_EXTRA_DATA:
         if hero_extra.get("Release date") == anomaly_date:
             anomalies.append(hero_extra)
-    
     if anomalies:
         print(f"🚨 警告: 发现 {len(anomalies)} 条记录的发布日期为 '{anomaly_date}' (详情见 final_check_anomalies_log.txt)。")
     else:
         print("✅ 数据排查完成：未发现发布日期异常。")
-
-    # --- 阶段 5: 写入文件与日志 ---
     output_file = 'heroes_data_extra_updated.js'
     print(f"\n正在生成更新后的JS文件: '{output_file}'...")
     try:
@@ -219,12 +247,25 @@ def main_sync_process():
     except Exception as e:
         print(f"❌ 写入更新文件时发生错误: {e}")
 
-    # --- 写入所有日志文件 ---
-    write_log_file('unmatched_heroes_log.txt', f"共有 {len(UNMATCHED_LOG)} 条记录未在 characters_en.json 中找到匹配项。", UNMATCHED_LOG, lambda h: f"Name: {h.get('name', 'N/A')}, Fancy Name: {h.get('fancy name', 'N/A')}")
+    sync_report_file = 'sync_report.txt'
+    try:
+        print(f"正在生成同步报告: '{sync_report_file}'...")
+        with open(sync_report_file, 'w', encoding='utf-8') as f:
+            f.write(f"✅ 完全匹配并已同步: {len(SYNC_LOG['successful'])} 条\n=========================\n")
+            f.write(f"\n\n🚨 维度不匹配 (名称匹配但Rarity或Element不一致): {len(SYNC_LOG['mismatched_dimension'])} 条\n=======================================================\n")
+            for mismatch in SYNC_LOG['mismatched_dimension']:
+                hero, reasons = mismatch['hero_extra'], ", ".join(mismatch['mismatches'])
+                f.write(f"Name: {hero.get('name', 'N/A')}, Fancy Name: {hero.get('fancy name', 'N/A')} -> 原因: {reasons}\n")
+            f.write(f"\n\n🟡 完全未匹配 (名称未找到): {len(SYNC_LOG['unmatched'])} 条\n===================================\n")
+            for hero in SYNC_LOG['unmatched']:
+                f.write(f"Name: {hero.get('name', 'N/A')}, Fancy Name: {hero.get('fancy name', 'N/A')}\n")
+        print(f"✅ 成功写入 '{sync_report_file}'。")
+    except Exception as e:
+        print(f"❌ 写入同步报告时发生错误: {e}")
+        
     write_log_file('correction_log.txt', f"共执行了 {len(CORRECTION_LOG_MESSAGES)} 条数据修正。", CORRECTION_LOG_MESSAGES, lambda msg: msg)
     write_log_file('bonus_calculation_failures_log.txt', f"共有 {len(BONUS_CALCULATION_FAILURES)} 套已匹配服装的奖励计算失败。", BONUS_CALCULATION_FAILURES, lambda fail: f"Name: {fail.get('name', 'N/A')}\n  Fancy Name: {fail.get('fancy_name', 'N/A')}\n  失败原因: {fail.get('reason', '未知')}\n")
     write_log_file('final_check_anomalies_log.txt', f"发现 {len(anomalies)} 条记录的发布日期为 '{anomaly_date}'。", anomalies, lambda h: f"Name: {h.get('name', 'N/A')}, Fancy Name: {h.get('fancy name', 'N/A')}")
-    
     report_file = 'costume_matching_report.txt'
     unmatched_costumes = COSTUMES_IN_EXTRA_DATA - MATCHED_COSTUMES
     try:

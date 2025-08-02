@@ -16,6 +16,7 @@ window.allHeroes =
         ],
         "source": "S1 - 經典",
         "Release date": "2017-03-01",
+        "specialId": "fierce_slash",
         "star": 1,
         "power": 210,
         "attack": 177,
@@ -47,6 +48,7 @@ window.allHeroes =
         ],
         "source": "S1 - 經典",
         "Release date": "2017-03-01",
+        "specialId": "hacking_attack",
         "star": 1,
         "power": 210,
         "attack": 183,
@@ -78,6 +80,7 @@ window.allHeroes =
         ],
         "source": "S1 - 經典",
         "Release date": "2017-03-01",
+        "specialId": "defensive_tactics",
         "star": 2,
         "power": 332,
         "attack": 283,
@@ -109,6 +112,7 @@ window.allHeroes =
         ],
         "source": "S1 - 經典",
         "Release date": "2017-03-01",
+        "specialId": "fierce_slash",
         "star": 2,
         "power": 334,
         "attack": 369,
@@ -140,6 +144,7 @@ window.allHeroes =
         ],
         "source": "S1 - 經典",
         "Release date": "2017-03-01",
+        "specialId": "attack_rally",
         "star": 2,
         "power": 333,
         "attack": 310,
@@ -176,6 +181,7 @@ window.allHeroes =
         ],
         "source": "高塔 - 魔法",
         "Release date": "2025-04-17",
+        "specialId": "sewing_back_together",
         "star": 3,
         "power": 509,
         "attack": 547,
@@ -240,6 +246,7 @@ window.allHeroes =
         ],
         "source": "月活動 - 斯普林維爾",
         "Release date": "2020-04-06",
+        "specialId": "compact_lance",
         "star": 3,
         "power": 462,
         "attack": 523,
@@ -255,7 +262,7 @@ window.allHeroes =
         "costume_id": 0,
         "originalIndex": 6,
         "lb1": {
-            "power": 515,
+            "power": 514,
             "attack": 592,
             "defense": 468,
             "health": 797
@@ -302,6 +309,7 @@ window.allHeroes =
         ],
         "source": "怪獸島召喚",
         "Release date": "2022-08-25",
+        "specialId": "hunting_ballad",
         "star": 3,
         "power": 484,
         "attack": 451,
@@ -370,6 +378,7 @@ window.allHeroes =
         ],
         "source": "月活動 - 冬季",
         "Release date": "2020-12-01",
+        "specialId": "northern_wanderer",
         "star": 3,
         "power": 475,
         "attack": 441,
@@ -391,7 +400,7 @@ window.allHeroes =
             "health": 888
         },
         "lb2": {
-            "power": 640,
+            "power": 639,
             "attack": 618,
             "defense": 732,
             "health": 1097
@@ -427,6 +436,7 @@ window.allHeroes =
         ],
         "source": "S2 - 亞特蘭蒂斯",
         "Release date": "2019-08-22",
+        "specialId": "jungle_slash",
         "star": 3,
         "power": 447,
         "attack": 516,
@@ -442,7 +452,7 @@ window.allHeroes =
         "costume_id": 0,
         "originalIndex": 9,
         "lb1": {
-            "power": 499,
+            "power": 498,
             "attack": 585,
             "defense": 455,
             "health": 724
@@ -484,6 +494,7 @@ window.allHeroes =
         ],
         "source": "S1 - 經典",
         "Release date": "2017-03-01",
+        "specialId": "wolf_bite",
         "star": 3,
         "power": 441,
         "attack": 467,
@@ -543,6 +554,7 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2021-01-18",
+        "specialId": "raccoon_bite",
         "star": 3,
         "power": 470,
         "attack": 466,
@@ -603,6 +615,7 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2024-04-08",
+        "specialId": "toon_bite",
         "star": 3,
         "power": 504,
         "attack": 558,
@@ -627,7 +640,7 @@ window.allHeroes =
             "health": 1072
         },
         "lb2": {
-            "power": 681,
+            "power": 680,
             "attack": 783,
             "defense": 558,
             "health": 1326
@@ -666,6 +679,7 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2025-06-18",
+        "specialId": "glass_bite",
         "star": 3,
         "power": 513,
         "attack": 532,
@@ -690,7 +704,7 @@ window.allHeroes =
             "health": 1112
         },
         "lb2": {
-            "power": 693,
+            "power": 692,
             "attack": 745,
             "defense": 625,
             "health": 1373
@@ -726,6 +740,7 @@ window.allHeroes =
         ],
         "source": "挑戰節 I",
         "Release date": "2021-12-15",
+        "specialId": "guardian_armor",
         "star": 3,
         "power": 481,
         "attack": 455,
@@ -741,13 +756,13 @@ window.allHeroes =
         "costume_id": 0,
         "originalIndex": 14,
         "lb1": {
-            "power": 537,
+            "power": 536,
             "attack": 516,
             "defense": 557,
             "health": 967
         },
         "lb2": {
-            "power": 648,
+            "power": 647,
             "attack": 637,
             "defense": 688,
             "health": 1195
@@ -783,6 +798,7 @@ window.allHeroes =
         ],
         "source": "S1 - 經典",
         "Release date": "2017-03-01",
+        "specialId": "stone_skin",
         "star": 3,
         "power": 441,
         "attack": 387,
@@ -798,13 +814,13 @@ window.allHeroes =
         "costume_id": 0,
         "originalIndex": 15,
         "lb1": {
-            "power": 492,
+            "power": 491,
             "attack": 439,
             "defense": 604,
             "health": 744
         },
         "lb2": {
-            "power": 593,
+            "power": 592,
             "attack": 542,
             "defense": 747,
             "health": 920
@@ -836,6 +852,7 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2020-01-01",
+        "specialId": "shadow_link",
         "star": 3,
         "power": 470,
         "attack": 423,
@@ -893,6 +910,7 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2024-09-08",
+        "specialId": "toon_link",
         "star": 3,
         "power": 503,
         "attack": 499,
@@ -916,7 +934,7 @@ window.allHeroes =
             "health": 926
         },
         "lb2": {
-            "power": 679,
+            "power": 678,
             "attack": 699,
             "defense": 746,
             "health": 1144
@@ -948,6 +966,7 @@ window.allHeroes =
         ],
         "source": "S4 - 地底荒野",
         "Release date": "2021-03-25",
+        "specialId": "healthiest_catch",
         "star": 3,
         "power": 478,
         "attack": 457,
@@ -965,13 +984,13 @@ window.allHeroes =
         "costume_id": 0,
         "originalIndex": 18,
         "lb1": {
-            "power": 534,
+            "power": 533,
             "attack": 518,
             "defense": 573,
             "health": 906
         },
         "lb2": {
-            "power": 644,
+            "power": 643,
             "attack": 640,
             "defense": 708,
             "health": 1119
@@ -1007,6 +1026,7 @@ window.allHeroes =
         ],
         "source": "S4 - 地底荒野",
         "Release date": "2023-12-07",
+        "specialId": "sublime_pastry",
         "star": 3,
         "power": 488,
         "attack": 466,
@@ -1066,6 +1086,7 @@ window.allHeroes =
         ],
         "source": "S5 - 沙丘",
         "Release date": "2022-04-21",
+        "specialId": "disabling_decree",
         "star": 3,
         "power": 483,
         "attack": 507,
@@ -1085,7 +1106,7 @@ window.allHeroes =
         "costume_id": 0,
         "originalIndex": 20,
         "lb1": {
-            "power": 540,
+            "power": 539,
             "attack": 575,
             "defense": 462,
             "health": 1030
@@ -1127,6 +1148,7 @@ window.allHeroes =
         ],
         "source": "S5 - 沙丘",
         "Release date": "2025-03-17",
+        "specialId": "disabling_study",
         "star": 3,
         "power": 495,
         "attack": 550,
@@ -1148,7 +1170,7 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 21,
         "lb1": {
-            "power": 553,
+            "power": 552,
             "attack": 624,
             "defense": 451,
             "health": 1022
@@ -1191,6 +1213,7 @@ window.allHeroes =
         ],
         "source": "S3 - 瓦爾哈拉",
         "Release date": "2020-05-28",
+        "specialId": "jab_and_hook",
         "star": 3,
         "power": 466,
         "attack": 500,
@@ -1250,6 +1273,7 @@ window.allHeroes =
         ],
         "source": "月活動 - 卡勒瓦拉",
         "Release date": "2022-06-20",
+        "specialId": "arrows_of_fury",
         "star": 3,
         "power": 482,
         "attack": 465,
@@ -1274,7 +1298,7 @@ window.allHeroes =
             "health": 994
         },
         "lb2": {
-            "power": 651,
+            "power": 650,
             "attack": 652,
             "defense": 662,
             "health": 1229
@@ -1317,6 +1341,7 @@ window.allHeroes =
         ],
         "source": "月活動 - 卡勒瓦拉",
         "Release date": "2025-07-28",
+        "specialId": "arrows_of_frost",
         "star": 3,
         "power": 499,
         "attack": 484,
@@ -1335,7 +1360,7 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 24,
         "lb1": {
-            "power": 557,
+            "power": 556,
             "attack": 548,
             "defense": 546,
             "health": 1051
@@ -1380,6 +1405,7 @@ window.allHeroes =
         ],
         "source": "S1 - 經典",
         "Release date": "2017-03-01",
+        "specialId": "ramming_rush",
         "star": 3,
         "power": 442,
         "attack": 484,
@@ -1394,13 +1420,13 @@ window.allHeroes =
         "costume_id": 0,
         "originalIndex": 25,
         "lb1": {
-            "power": 494,
+            "power": 493,
             "attack": 549,
             "defense": 429,
             "health": 831
         },
         "lb2": {
-            "power": 595,
+            "power": 594,
             "attack": 679,
             "defense": 530,
             "health": 1027
@@ -1431,6 +1457,7 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2020-05-18",
+        "specialId": "forge_rush",
         "star": 3,
         "power": 472,
         "attack": 537,
@@ -1452,7 +1479,7 @@ window.allHeroes =
             "health": 906
         },
         "lb2": {
-            "power": 637,
+            "power": 636,
             "attack": 752,
             "defense": 541,
             "health": 1121
@@ -1488,6 +1515,7 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2024-06-28",
+        "specialId": "adorable_ramming_rush",
         "star": 3,
         "power": 505,
         "attack": 580,
@@ -1547,6 +1575,7 @@ window.allHeroes =
         ],
         "source": "S3 - 瓦爾哈拉",
         "Release date": "2020-02-27",
+        "specialId": "frosty_axes",
         "star": 3,
         "power": 464,
         "attack": 488,
@@ -1568,7 +1597,7 @@ window.allHeroes =
             "health": 927
         },
         "lb2": {
-            "power": 624,
+            "power": 623,
             "attack": 683,
             "defense": 569,
             "health": 1146
@@ -1604,6 +1633,7 @@ window.allHeroes =
         ],
         "source": "S3 - 瓦爾哈拉",
         "Release date": "2023-04-10",
+        "specialId": "icy_axes",
         "star": 3,
         "power": 479,
         "attack": 477,
@@ -1663,6 +1693,7 @@ window.allHeroes =
         ],
         "source": "聯盟 - 火槍手",
         "Release date": "2023-03-08",
+        "specialId": "piercing_practice_slash",
         "star": 3,
         "power": 486,
         "attack": 517,
@@ -1687,7 +1718,7 @@ window.allHeroes =
             "health": 919
         },
         "lb2": {
-            "power": 656,
+            "power": 655,
             "attack": 725,
             "defense": 635,
             "health": 1136
@@ -1724,6 +1755,7 @@ window.allHeroes =
         ],
         "source": "挑戰 - 石像鬼",
         "Release date": "2022-05-12",
+        "specialId": "faithful_force",
         "star": 3,
         "power": 482,
         "attack": 512,
@@ -1741,7 +1773,7 @@ window.allHeroes =
         "costume_id": 0,
         "originalIndex": 31,
         "lb1": {
-            "power": 539,
+            "power": 538,
             "attack": 581,
             "defense": 567,
             "health": 797
@@ -1789,6 +1821,7 @@ window.allHeroes =
         ],
         "source": "挑戰 - 歌劇秘辛",
         "Release date": "2024-01-25",
+        "specialId": "dance_of_the_little_swan",
         "star": 3,
         "power": 514,
         "attack": 521,
@@ -1856,6 +1889,7 @@ window.allHeroes =
         ],
         "source": "S1 - 經典",
         "Release date": "2017-03-01",
+        "specialId": "cold_blast",
         "star": 3,
         "power": 445,
         "attack": 528,
@@ -1871,7 +1905,7 @@ window.allHeroes =
         "costume_id": 0,
         "originalIndex": 33,
         "lb1": {
-            "power": 496,
+            "power": 495,
             "attack": 598,
             "defense": 407,
             "health": 768
@@ -1913,6 +1947,7 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2021-01-18",
+        "specialId": "whiteout",
         "star": 3,
         "power": 474,
         "attack": 532,
@@ -1934,7 +1969,7 @@ window.allHeroes =
             "health": 882
         },
         "lb2": {
-            "power": 640,
+            "power": 639,
             "attack": 746,
             "defense": 574,
             "health": 1091
@@ -1971,6 +2006,7 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2024-07-16",
+        "specialId": "adorable_cold_blast",
         "star": 3,
         "power": 507,
         "attack": 533,
@@ -1989,13 +2025,13 @@ window.allHeroes =
         "costume_id": 2,
         "originalIndex": 35,
         "lb1": {
-            "power": 567,
+            "power": 566,
             "attack": 603,
             "defense": 572,
             "health": 931
         },
         "lb2": {
-            "power": 685,
+            "power": 684,
             "attack": 746,
             "defense": 707,
             "health": 1149
@@ -2036,6 +2072,7 @@ window.allHeroes =
         ],
         "source": "S1 - 經典",
         "Release date": "2017-03-01",
+        "specialId": "chilling_slash",
         "star": 3,
         "power": 442,
         "attack": 479,
@@ -2093,6 +2130,7 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2021-01-18",
+        "specialId": "thrilling_clash",
         "star": 3,
         "power": 471,
         "attack": 497,
@@ -2108,13 +2146,13 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 37,
         "lb1": {
-            "power": 527,
+            "power": 526,
             "attack": 563,
             "defense": 511,
             "health": 868
         },
         "lb2": {
-            "power": 636,
+            "power": 635,
             "attack": 697,
             "defense": 632,
             "health": 1072
@@ -2151,6 +2189,7 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2023-12-25",
+        "specialId": "toon_slash",
         "star": 3,
         "power": 503,
         "attack": 542,
@@ -2169,7 +2208,7 @@ window.allHeroes =
         "costume_id": 2,
         "originalIndex": 38,
         "lb1": {
-            "power": 563,
+            "power": 562,
             "attack": 615,
             "defense": 545,
             "health": 928
@@ -2218,6 +2257,7 @@ window.allHeroes =
         ],
         "source": "高塔 - 冥河",
         "Release date": "2022-09-21",
+        "specialId": "poets_protection",
         "star": 3,
         "power": 484,
         "attack": 413,
@@ -2245,7 +2285,7 @@ window.allHeroes =
         "costume_id": 0,
         "originalIndex": 39,
         "lb1": {
-            "power": 541,
+            "power": 540,
             "attack": 468,
             "defense": 561,
             "health": 1107
@@ -2287,6 +2327,7 @@ window.allHeroes =
         ],
         "source": "挑戰節 I",
         "Release date": "2017-09-07",
+        "specialId": "destructive_strike",
         "star": 3,
         "power": 455,
         "attack": 439,
@@ -2302,7 +2343,7 @@ window.allHeroes =
         "costume_id": 0,
         "originalIndex": 40,
         "lb1": {
-            "power": 508,
+            "power": 507,
             "attack": 498,
             "defense": 486,
             "health": 945
@@ -2345,6 +2386,7 @@ window.allHeroes =
         ],
         "source": "三國召喚",
         "Release date": "2022-03-14",
+        "specialId": "sword_of_wei",
         "star": 3,
         "power": 483,
         "attack": 486,
@@ -2361,13 +2403,13 @@ window.allHeroes =
         "costume_id": 0,
         "originalIndex": 41,
         "lb1": {
-            "power": 539,
+            "power": 538,
             "attack": 551,
             "defense": 563,
             "health": 882
         },
         "lb2": {
-            "power": 651,
+            "power": 650,
             "attack": 681,
             "defense": 696,
             "health": 1090
@@ -2408,6 +2450,7 @@ window.allHeroes =
         ],
         "source": "S2 - 亞特蘭蒂斯",
         "Release date": "2019-08-01",
+        "specialId": "tidal_wave",
         "star": 4,
         "power": 648,
         "attack": 686,
@@ -2429,7 +2472,7 @@ window.allHeroes =
             "health": 1172
         },
         "lb2": {
-            "power": 795,
+            "power": 794,
             "attack": 864,
             "defense": 776,
             "health": 1359
@@ -2465,6 +2508,7 @@ window.allHeroes =
         ],
         "source": "S2 - 亞特蘭蒂斯",
         "Release date": "2023-03-06",
+        "specialId": "spilled_decoctions",
         "star": 4,
         "power": 669,
         "attack": 658,
@@ -2480,7 +2524,7 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 43,
         "lb1": {
-            "power": 720,
+            "power": 719,
             "attack": 715,
             "defense": 772,
             "health": 1204
@@ -2523,6 +2567,7 @@ window.allHeroes =
         ],
         "source": "S6 - 深淵謎團",
         "Release date": "2023-09-27",
+        "specialId": "close_order_formation",
         "star": 4,
         "power": 688,
         "attack": 675,
@@ -2553,7 +2598,7 @@ window.allHeroes =
             "health": 1357
         },
         "lb2": {
-            "power": 846,
+            "power": 845,
             "attack": 851,
             "defense": 867,
             "health": 1574
@@ -2589,6 +2634,7 @@ window.allHeroes =
         ],
         "source": "S6 - 深淵謎團",
         "Release date": "2025-05-28",
+        "specialId": "impervious_formation",
         "star": 4,
         "power": 704,
         "attack": 676,
@@ -2614,7 +2660,7 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 45,
         "lb1": {
-            "power": 758,
+            "power": 757,
             "attack": 734,
             "defense": 776,
             "health": 1420
@@ -2656,6 +2702,7 @@ window.allHeroes =
         ],
         "source": "S5 - 沙丘",
         "Release date": "2022-04-21",
+        "specialId": "counterstance",
         "star": 4,
         "power": 683,
         "attack": 584,
@@ -2719,6 +2766,7 @@ window.allHeroes =
         ],
         "source": "S5 - 沙丘",
         "Release date": "2024-06-24",
+        "specialId": "dancestance",
         "star": 4,
         "power": 699,
         "attack": 634,
@@ -2740,13 +2788,13 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 47,
         "lb1": {
-            "power": 753,
+            "power": 752,
             "attack": 689,
             "defense": 779,
             "health": 1488
         },
         "lb2": {
-            "power": 859,
+            "power": 858,
             "attack": 799,
             "defense": 903,
             "health": 1725
@@ -2783,6 +2831,7 @@ window.allHeroes =
         ],
         "source": "聖約召喚",
         "Release date": "2024-04-25",
+        "specialId": "frost_and_rime",
         "star": 4,
         "power": 699,
         "attack": 652,
@@ -2804,7 +2853,7 @@ window.allHeroes =
         "costume_id": 0,
         "originalIndex": 48,
         "lb1": {
-            "power": 753,
+            "power": 752,
             "attack": 708,
             "defense": 826,
             "health": 1348
@@ -2849,6 +2898,7 @@ window.allHeroes =
         ],
         "source": "S1 - 經典",
         "Release date": "2017-03-01",
+        "specialId": "perfect_riposte",
         "star": 4,
         "power": 643,
         "attack": 501,
@@ -2863,7 +2913,7 @@ window.allHeroes =
         "costume_id": 0,
         "originalIndex": 49,
         "lb1": {
-            "power": 692,
+            "power": 691,
             "attack": 544,
             "defense": 861,
             "health": 1251
@@ -2898,6 +2948,7 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2020-05-18",
+        "specialId": "sturdy_riposte",
         "star": 4,
         "power": 689,
         "attack": 513,
@@ -2912,13 +2963,13 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 50,
         "lb1": {
-            "power": 742,
+            "power": 741,
             "attack": 557,
             "defense": 943,
             "health": 1411
         },
         "lb2": {
-            "power": 847,
+            "power": 846,
             "attack": 647,
             "defense": 1093,
             "health": 1637
@@ -2947,6 +2998,7 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2023-11-27",
+        "specialId": "unrelenting_riposte",
         "star": 4,
         "power": 735,
         "attack": 591,
@@ -2961,7 +3013,7 @@ window.allHeroes =
         "costume_id": 2,
         "originalIndex": 51,
         "lb1": {
-            "power": 792,
+            "power": 791,
             "attack": 641,
             "defense": 960,
             "health": 1526
@@ -2996,6 +3048,7 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2024-09-08",
+        "specialId": "toon_riposte",
         "star": 4,
         "power": 747,
         "attack": 648,
@@ -3051,6 +3104,7 @@ window.allHeroes =
         ],
         "source": "挑戰節 I",
         "Release date": "2019-02-14",
+        "specialId": "pest_control",
         "star": 4,
         "power": 650,
         "attack": 620,
@@ -3067,7 +3121,7 @@ window.allHeroes =
         "costume_id": 0,
         "originalIndex": 53,
         "lb1": {
-            "power": 700,
+            "power": 699,
             "attack": 674,
             "defense": 741,
             "health": 1223
@@ -3110,6 +3164,7 @@ window.allHeroes =
         ],
         "source": "超級元素",
         "Release date": "2025-07-31",
+        "specialId": "surprise_goo",
         "star": 4,
         "power": 752,
         "attack": 707,
@@ -3175,6 +3230,7 @@ window.allHeroes =
         ],
         "source": "S7 - 火焰與冰霜的寶藏",
         "Release date": "2025-05-16",
+        "specialId": "iceberg_aura",
         "star": 4,
         "power": 732,
         "attack": 716,
@@ -3235,6 +3291,7 @@ window.allHeroes =
         ],
         "source": "挑戰 - 眾神狂歡節",
         "Release date": "2023-07-13",
+        "specialId": "potions_of_havoc_and_healing",
         "star": 4,
         "power": 689,
         "attack": 673,
@@ -3302,6 +3359,7 @@ window.allHeroes =
         ],
         "source": "月活動 - 莫洛維亞",
         "Release date": "2020-10-26",
+        "specialId": "undead_razer",
         "star": 4,
         "power": 667,
         "attack": 635,
@@ -3320,7 +3378,7 @@ window.allHeroes =
         "costume_id": 0,
         "originalIndex": 57,
         "lb1": {
-            "power": 718,
+            "power": 717,
             "attack": 690,
             "defense": 695,
             "health": 1403
@@ -3370,6 +3428,7 @@ window.allHeroes =
         ],
         "source": "月活動 - 莫洛維亞",
         "Release date": "2021-10-04",
+        "specialId": "undead_obliteration",
         "star": 4,
         "power": 681,
         "attack": 655,
@@ -3389,7 +3448,7 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 58,
         "lb1": {
-            "power": 738,
+            "power": 737,
             "attack": 719,
             "defense": 708,
             "health": 1450
@@ -3446,6 +3505,7 @@ window.allHeroes =
         ],
         "source": "挑戰節 II",
         "Release date": "2022-12-01",
+        "specialId": "the_mighty_crescendo",
         "star": 4,
         "power": 685,
         "attack": 667,
@@ -3463,13 +3523,13 @@ window.allHeroes =
         "costume_id": 0,
         "originalIndex": 59,
         "lb1": {
-            "power": 738,
+            "power": 737,
             "attack": 725,
             "defense": 725,
             "health": 1401
         },
         "lb2": {
-            "power": 842,
+            "power": 841,
             "attack": 840,
             "defense": 840,
             "health": 1624
@@ -3506,6 +3566,7 @@ window.allHeroes =
         ],
         "source": "哥布林召喚",
         "Release date": "2024-04-15",
+        "specialId": "scale_of_the_newt",
         "star": 4,
         "power": 698,
         "attack": 688,
@@ -3531,7 +3592,7 @@ window.allHeroes =
             "health": 1364
         },
         "lb2": {
-            "power": 859,
+            "power": 858,
             "attack": 867,
             "defense": 888,
             "health": 1582
@@ -3573,6 +3634,7 @@ window.allHeroes =
         ],
         "source": "S1 - 經典",
         "Release date": "2017-03-01",
+        "specialId": "ramming_pulverizer",
         "star": 4,
         "power": 642,
         "attack": 716,
@@ -3594,7 +3656,7 @@ window.allHeroes =
             "health": 1230
         },
         "lb2": {
-            "power": 788,
+            "power": 787,
             "attack": 902,
             "defense": 669,
             "health": 1426
@@ -3630,6 +3692,7 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2021-01-18",
+        "specialId": "merciless_pulverizer",
         "star": 4,
         "power": 687,
         "attack": 729,
@@ -3651,7 +3714,7 @@ window.allHeroes =
             "health": 1401
         },
         "lb2": {
-            "power": 845,
+            "power": 844,
             "attack": 919,
             "defense": 753,
             "health": 1625
@@ -3686,6 +3749,7 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2023-06-12",
+        "specialId": "postal_pulverizer",
         "star": 4,
         "power": 733,
         "attack": 840,
@@ -3701,7 +3765,7 @@ window.allHeroes =
         "costume_id": 2,
         "originalIndex": 63,
         "lb1": {
-            "power": 790,
+            "power": 789,
             "attack": 913,
             "defense": 655,
             "health": 1442
@@ -3744,6 +3808,7 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2023-12-25",
+        "specialId": "toonpower_pulverizer",
         "star": 4,
         "power": 746,
         "attack": 827,
@@ -3810,6 +3875,7 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2024-12-25",
+        "specialId": "glass_pulverizer",
         "star": 4,
         "power": 758,
         "attack": 843,
@@ -3878,6 +3944,7 @@ window.allHeroes =
         ],
         "source": "挑戰 - 石像鬼",
         "Release date": "2024-05-16",
+        "specialId": "moon_boomerang",
         "star": 4,
         "power": 701,
         "attack": 697,
@@ -3902,7 +3969,7 @@ window.allHeroes =
             "health": 1408
         },
         "lb2": {
-            "power": 862,
+            "power": 861,
             "attack": 878,
             "defense": 861,
             "health": 1632
@@ -3945,6 +4012,7 @@ window.allHeroes =
         ],
         "source": "S3 - 瓦爾哈拉",
         "Release date": "2020-05-28",
+        "specialId": "ice_boom",
         "star": 4,
         "power": 664,
         "attack": 720,
@@ -3960,7 +4028,7 @@ window.allHeroes =
         "costume_id": 0,
         "originalIndex": 67,
         "lb1": {
-            "power": 715,
+            "power": 714,
             "attack": 782,
             "defense": 660,
             "health": 1223
@@ -4004,6 +4072,7 @@ window.allHeroes =
         ],
         "source": "S1 - 經典",
         "Release date": "2017-03-01",
+        "specialId": "blessed_brew",
         "star": 4,
         "power": 647,
         "attack": 656,
@@ -4020,7 +4089,7 @@ window.allHeroes =
         "costume_id": 0,
         "originalIndex": 68,
         "lb1": {
-            "power": 697,
+            "power": 696,
             "attack": 713,
             "defense": 731,
             "health": 1124
@@ -4065,6 +4134,7 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2020-05-18",
+        "specialId": "blessed_solo",
         "star": 4,
         "power": 692,
         "attack": 715,
@@ -4081,13 +4151,13 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 69,
         "lb1": {
-            "power": 745,
+            "power": 744,
             "attack": 777,
             "defense": 753,
             "health": 1265
         },
         "lb2": {
-            "power": 851,
+            "power": 850,
             "attack": 902,
             "defense": 873,
             "health": 1467
@@ -4126,6 +4196,7 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2022-10-31",
+        "specialId": "blessed_tankard",
         "star": 4,
         "power": 739,
         "attack": 732,
@@ -4191,6 +4262,7 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2024-02-12",
+        "specialId": "toon_brew",
         "star": 4,
         "power": 751,
         "attack": 769,
@@ -4215,7 +4287,7 @@ window.allHeroes =
             "health": 1382
         },
         "lb2": {
-            "power": 925,
+            "power": 924,
             "attack": 969,
             "defense": 986,
             "health": 1603
@@ -4257,6 +4329,7 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2025-03-11",
+        "specialId": "glass_brew",
         "star": 4,
         "power": 763,
         "attack": 758,
@@ -4325,6 +4398,7 @@ window.allHeroes =
         ],
         "source": "怪獸島召喚",
         "Release date": "2023-05-06",
+        "specialId": "jungle_riposte",
         "star": 4,
         "power": 687,
         "attack": 626,
@@ -4383,6 +4457,7 @@ window.allHeroes =
         ],
         "source": "超級元素",
         "Release date": "2023-09-11",
+        "specialId": "shackles_of_the_sea",
         "star": 4,
         "power": 688,
         "attack": 692,
@@ -4405,7 +4480,7 @@ window.allHeroes =
         "costume_id": 0,
         "originalIndex": 74,
         "lb1": {
-            "power": 741,
+            "power": 740,
             "attack": 752,
             "defense": 736,
             "health": 1332
@@ -4449,6 +4524,7 @@ window.allHeroes =
         ],
         "source": "S3 - 瓦爾哈拉",
         "Release date": "2020-02-27",
+        "specialId": "chain_of_pain",
         "star": 4,
         "power": 660,
         "attack": 697,
@@ -4508,6 +4584,7 @@ window.allHeroes =
         ],
         "source": "高塔 - 貓頭鷹",
         "Release date": "2023-12-20",
+        "specialId": "ill_fated_experiment",
         "star": 4,
         "power": 693,
         "attack": 724,
@@ -4531,7 +4608,7 @@ window.allHeroes =
             "health": 1362
         },
         "lb2": {
-            "power": 852,
+            "power": 851,
             "attack": 912,
             "defense": 808,
             "health": 1579
@@ -4576,6 +4653,7 @@ window.allHeroes =
         ],
         "source": "高塔 - 忍者",
         "Release date": "2024-09-24",
+        "specialId": "iron_discipline_cut",
         "star": 4,
         "power": 701,
         "attack": 760,
@@ -4648,6 +4726,7 @@ window.allHeroes =
         ],
         "source": "挑戰節 II",
         "Release date": "2021-02-11",
+        "specialId": "valkyries_fortitude",
         "star": 4,
         "power": 675,
         "attack": 565,
@@ -4663,7 +4742,7 @@ window.allHeroes =
         "costume_id": 0,
         "originalIndex": 78,
         "lb1": {
-            "power": 727,
+            "power": 726,
             "attack": 614,
             "defense": 738,
             "health": 1572
@@ -4708,6 +4787,7 @@ window.allHeroes =
         ],
         "source": "高塔 - 忍者",
         "Release date": "2020-10-13",
+        "specialId": "from_shadows",
         "star": 4,
         "power": 670,
         "attack": 726,
@@ -4736,7 +4816,7 @@ window.allHeroes =
             "health": 1396
         },
         "lb2": {
-            "power": 823,
+            "power": 822,
             "attack": 915,
             "defense": 682,
             "health": 1619
@@ -4772,6 +4852,7 @@ window.allHeroes =
         ],
         "source": "S1 - 經典",
         "Release date": "2017-03-01",
+        "specialId": "piercing_strike",
         "star": 4,
         "power": 643,
         "attack": 607,
@@ -4793,7 +4874,7 @@ window.allHeroes =
             "health": 1099
         },
         "lb2": {
-            "power": 789,
+            "power": 788,
             "attack": 765,
             "defense": 920,
             "health": 1274
@@ -4829,6 +4910,7 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2020-01-01",
+        "specialId": "purifying_strike",
         "star": 4,
         "power": 688,
         "attack": 659,
@@ -4844,13 +4926,13 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 81,
         "lb1": {
-            "power": 741,
+            "power": 740,
             "attack": 715,
             "defense": 844,
             "health": 1208
         },
         "lb2": {
-            "power": 846,
+            "power": 845,
             "attack": 830,
             "defense": 979,
             "health": 1401
@@ -4886,6 +4968,7 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2023-11-27",
+        "specialId": "wrenching_strike",
         "star": 4,
         "power": 734,
         "attack": 817,
@@ -4901,7 +4984,7 @@ window.allHeroes =
         "costume_id": 2,
         "originalIndex": 82,
         "lb1": {
-            "power": 791,
+            "power": 790,
             "attack": 888,
             "defense": 769,
             "health": 1282
@@ -4944,6 +5027,7 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2024-07-16",
+        "specialId": "adorable_piercing_strike",
         "star": 4,
         "power": 746,
         "attack": 807,
@@ -4968,7 +5052,7 @@ window.allHeroes =
             "health": 1298
         },
         "lb2": {
-            "power": 919,
+            "power": 918,
             "attack": 1017,
             "defense": 954,
             "health": 1505
@@ -5009,6 +5093,7 @@ window.allHeroes =
         ],
         "source": "S2 - 亞特蘭蒂斯",
         "Release date": "2019-08-01",
+        "specialId": "heroic_noble",
         "star": 4,
         "power": 652,
         "attack": 720,
@@ -5066,6 +5151,7 @@ window.allHeroes =
         ],
         "source": "S2 - 亞特蘭蒂斯",
         "Release date": "2023-04-03",
+        "specialId": "herculean_throw",
         "star": 4,
         "power": 673,
         "attack": 689,
@@ -5087,7 +5173,7 @@ window.allHeroes =
             "health": 1215
         },
         "lb2": {
-            "power": 827,
+            "power": 826,
             "attack": 868,
             "defense": 860,
             "health": 1409
@@ -5126,6 +5212,7 @@ window.allHeroes =
         ],
         "source": "月活動 - 莫洛維亞",
         "Release date": "2018-10-25",
+        "specialId": "queens_blood_poisoning",
         "star": 4,
         "power": 649,
         "attack": 609,
@@ -5188,6 +5275,7 @@ window.allHeroes =
         ],
         "source": "三國召喚",
         "Release date": "2022-03-14",
+        "specialId": "qilin_blade",
         "star": 4,
         "power": 683,
         "attack": 641,
@@ -5204,7 +5292,7 @@ window.allHeroes =
         "costume_id": 0,
         "originalIndex": 87,
         "lb1": {
-            "power": 736,
+            "power": 735,
             "attack": 697,
             "defense": 812,
             "health": 1281
@@ -5251,6 +5339,7 @@ window.allHeroes =
         ],
         "source": "S4 - 地底荒野",
         "Release date": "2021-03-25",
+        "specialId": "fishbone_blades",
         "star": 4,
         "power": 677,
         "attack": 677,
@@ -5268,7 +5357,7 @@ window.allHeroes =
         "costume_id": 0,
         "originalIndex": 88,
         "lb1": {
-            "power": 729,
+            "power": 728,
             "attack": 736,
             "defense": 708,
             "health": 1341
@@ -5310,6 +5399,7 @@ window.allHeroes =
         ],
         "source": "S4 - 地底荒野",
         "Release date": "2024-01-04",
+        "specialId": "aquatic_dance",
         "star": 4,
         "power": 692,
         "attack": 701,
@@ -5327,13 +5417,13 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 89,
         "lb1": {
-            "power": 746,
+            "power": 745,
             "attack": 762,
             "defense": 725,
             "health": 1363
         },
         "lb2": {
-            "power": 851,
+            "power": 850,
             "attack": 884,
             "defense": 840,
             "health": 1580
@@ -5372,6 +5462,7 @@ window.allHeroes =
         ],
         "source": "怪獸島召喚",
         "Release date": "2022-09-18",
+        "specialId": "hunting_charge",
         "star": 5,
         "power": 888,
         "attack": 803,
@@ -5442,6 +5533,7 @@ window.allHeroes =
         ],
         "source": "傳奇召喚 - 月英",
         "Release date": "2018-10-01",
+        "specialId": "icy_resilience",
         "star": 5,
         "power": 768,
         "attack": 615,
@@ -5505,6 +5597,7 @@ window.allHeroes =
         ],
         "source": "傳奇召喚 - 月英",
         "Release date": "2023-01-23",
+        "specialId": "glacial_resilience",
         "star": 5,
         "power": 978,
         "attack": 811,
@@ -5524,7 +5617,7 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 92,
         "lb1": {
-            "power": 1045,
+            "power": 1044,
             "attack": 874,
             "defense": 1045,
             "health": 2293
@@ -5569,6 +5662,7 @@ window.allHeroes =
         ],
         "source": "月活動 - 卡勒瓦拉",
         "Release date": "2022-06-20",
+        "specialId": "summer_carol",
         "star": 5,
         "power": 835,
         "attack": 788,
@@ -5593,7 +5687,7 @@ window.allHeroes =
             "health": 1600
         },
         "lb2": {
-            "power": 1002,
+            "power": 1001,
             "attack": 972,
             "defense": 1000,
             "health": 1831
@@ -5632,6 +5726,7 @@ window.allHeroes =
         ],
         "source": "月活動 - 卡勒瓦拉",
         "Release date": "2023-08-07",
+        "specialId": "anthem_of_the_lake",
         "star": 5,
         "power": 1079,
         "attack": 1029,
@@ -5650,7 +5745,7 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 94,
         "lb1": {
-            "power": 1154,
+            "power": 1153,
             "attack": 1109,
             "defense": 1210,
             "health": 2154
@@ -5695,6 +5790,7 @@ window.allHeroes =
         ],
         "source": "傳奇召喚 - 月英",
         "Release date": "2018-05-01",
+        "specialId": "spirit_arrow",
         "star": 5,
         "power": 768,
         "attack": 739,
@@ -5757,6 +5853,7 @@ window.allHeroes =
         ],
         "source": "傳奇召喚 - 月英",
         "Release date": "2021-12-23",
+        "specialId": "arrow_of_nujalik",
         "star": 5,
         "power": 976,
         "attack": 935,
@@ -5776,13 +5873,13 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 96,
         "lb1": {
-            "power": 1043,
+            "power": 1042,
             "attack": 1008,
             "defense": 967,
             "health": 2103
         },
         "lb2": {
-            "power": 1176,
+            "power": 1175,
             "attack": 1153,
             "defense": 1107,
             "health": 2408
@@ -5826,6 +5923,7 @@ window.allHeroes =
         ],
         "source": "傳奇召喚 - 月英",
         "Release date": "2021-09-01",
+        "specialId": "shimmering_shield",
         "star": 5,
         "power": 794,
         "attack": 745,
@@ -5852,7 +5950,7 @@ window.allHeroes =
             "health": 1534
         },
         "lb2": {
-            "power": 951,
+            "power": 950,
             "attack": 919,
             "defense": 922,
             "health": 1755
@@ -5894,6 +5992,7 @@ window.allHeroes =
         ],
         "source": "挑戰節 I",
         "Release date": "2019-02-14",
+        "specialId": "timeless_timepiece",
         "star": 5,
         "power": 769,
         "attack": 741,
@@ -5955,6 +6054,7 @@ window.allHeroes =
         ],
         "source": "高塔 - 冥河",
         "Release date": "2023-07-19",
+        "specialId": "tidal_force",
         "star": 5,
         "power": 927,
         "attack": 889,
@@ -5984,13 +6084,13 @@ window.allHeroes =
         "costume_id": 0,
         "originalIndex": 99,
         "lb1": {
-            "power": 990,
+            "power": 989,
             "attack": 959,
             "defense": 936,
             "health": 1909
         },
         "lb2": {
-            "power": 1115,
+            "power": 1114,
             "attack": 1097,
             "defense": 1071,
             "health": 2184
@@ -6038,6 +6138,7 @@ window.allHeroes =
         ],
         "source": "S7 - 火焰與冰霜的寶藏",
         "Release date": "2024-12-28",
+        "specialId": "saga_of_deliverance",
         "star": 5,
         "power": 1169,
         "attack": 1145,
@@ -6105,6 +6206,7 @@ window.allHeroes =
         ],
         "source": "超級元素",
         "Release date": "2023-01-30",
+        "specialId": "radiant_comeback",
         "star": 5,
         "power": 901,
         "attack": 821,
@@ -6167,6 +6269,7 @@ window.allHeroes =
         ],
         "source": "傳奇召喚 - 月英",
         "Release date": "2023-09-01",
+        "specialId": "radiating_frost",
         "star": 5,
         "power": 875,
         "attack": 871,
@@ -6187,7 +6290,7 @@ window.allHeroes =
         "costume_id": 0,
         "originalIndex": 102,
         "lb1": {
-            "power": 934,
+            "power": 933,
             "attack": 939,
             "defense": 805,
             "health": 1818
@@ -6233,6 +6336,7 @@ window.allHeroes =
         ],
         "source": "S2 - 亞特蘭蒂斯",
         "Release date": "2019-02-01",
+        "specialId": "divine_protection",
         "star": 5,
         "power": 772,
         "attack": 731,
@@ -6249,7 +6353,7 @@ window.allHeroes =
         "costume_id": 0,
         "originalIndex": 103,
         "lb1": {
-            "power": 823,
+            "power": 822,
             "attack": 788,
             "defense": 828,
             "health": 1358
@@ -6298,6 +6402,7 @@ window.allHeroes =
         ],
         "source": "S2 - 亞特蘭蒂斯",
         "Release date": "2021-11-15",
+        "specialId": "deep_sea_ritual",
         "star": 5,
         "power": 942,
         "attack": 928,
@@ -6314,13 +6419,13 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 104,
         "lb1": {
-            "power": 1006,
+            "power": 1005,
             "attack": 1001,
             "defense": 1020,
             "health": 1748
         },
         "lb2": {
-            "power": 1133,
+            "power": 1132,
             "attack": 1145,
             "defense": 1167,
             "health": 2000
@@ -6363,6 +6468,7 @@ window.allHeroes =
         ],
         "source": "聯盟 - 騎士衝擊",
         "Release date": "2024-04-10",
+        "specialId": "frostbite",
         "star": 5,
         "power": 1030,
         "attack": 1062,
@@ -6381,7 +6487,7 @@ window.allHeroes =
         "costume_id": 0,
         "originalIndex": 105,
         "lb1": {
-            "power": 1101,
+            "power": 1100,
             "attack": 1145,
             "defense": 1110,
             "health": 1887
@@ -6435,6 +6541,7 @@ window.allHeroes =
         ],
         "source": "額外抽獎 - 秘密召喚",
         "Release date": "2025-07-26",
+        "specialId": "gorging_chew_blue",
         "star": 5,
         "power": 1225,
         "attack": 1268,
@@ -6464,13 +6571,13 @@ window.allHeroes =
         "costume_id": 0,
         "originalIndex": 106,
         "lb1": {
-            "power": 1311,
+            "power": 1310,
             "attack": 1367,
             "defense": 1367,
             "health": 2319
         },
         "lb2": {
-            "power": 1482,
+            "power": 1481,
             "attack": 1564,
             "defense": 1564,
             "health": 2654
@@ -6523,6 +6630,7 @@ window.allHeroes =
         ],
         "source": "野地召喚",
         "Release date": "2025-02-21",
+        "specialId": "portents_of_future",
         "star": 5,
         "power": 1165,
         "attack": 1196,
@@ -6544,13 +6652,13 @@ window.allHeroes =
         "costume_id": 0,
         "originalIndex": 107,
         "lb1": {
-            "power": 1247,
+            "power": 1246,
             "attack": 1289,
             "defense": 1201,
             "health": 2388
         },
         "lb2": {
-            "power": 1409,
+            "power": 1408,
             "attack": 1475,
             "defense": 1374,
             "health": 2733
@@ -6599,6 +6707,7 @@ window.allHeroes =
         ],
         "source": "傳奇召喚 - 月英",
         "Release date": "2017-07-01",
+        "specialId": "athenas_bow",
         "star": 5,
         "power": 765,
         "attack": 737,
@@ -6622,7 +6731,7 @@ window.allHeroes =
             "health": 1454
         },
         "lb2": {
-            "power": 915,
+            "power": 914,
             "attack": 909,
             "defense": 853,
             "health": 1663
@@ -6667,6 +6776,7 @@ window.allHeroes =
         ],
         "source": "傳奇召喚 - 月英",
         "Release date": "2021-12-23",
+        "specialId": "athenas_arrow",
         "star": 5,
         "power": 972,
         "attack": 933,
@@ -6686,7 +6796,7 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 109,
         "lb1": {
-            "power": 1038,
+            "power": 1037,
             "attack": 1004,
             "defense": 947,
             "health": 2117
@@ -6733,6 +6843,7 @@ window.allHeroes =
         ],
         "source": "S6 - 深淵謎團",
         "Release date": "2023-11-22",
+        "specialId": "aphotic_maw",
         "star": 5,
         "power": 999,
         "attack": 1058,
@@ -6763,7 +6874,7 @@ window.allHeroes =
             "health": 1649
         },
         "lb2": {
-            "power": 1203,
+            "power": 1202,
             "attack": 1305,
             "defense": 1275,
             "health": 1887
@@ -6810,6 +6921,7 @@ window.allHeroes =
         ],
         "source": "S6 - 深淵謎團",
         "Release date": "2024-11-21",
+        "specialId": "aphotic_whisper",
         "star": 5,
         "power": 1244,
         "attack": 1328,
@@ -6841,7 +6953,7 @@ window.allHeroes =
             "health": 2082
         },
         "lb2": {
-            "power": 1506,
+            "power": 1505,
             "attack": 1638,
             "defense": 1693,
             "health": 2382
@@ -6885,6 +6997,7 @@ window.allHeroes =
         ],
         "source": "高塔 - 忍者",
         "Release date": "2023-05-31",
+        "specialId": "light_grenades",
         "star": 5,
         "power": 877,
         "attack": 939,
@@ -6917,7 +7030,7 @@ window.allHeroes =
             "health": 1591
         },
         "lb2": {
-            "power": 1053,
+            "power": 1052,
             "attack": 1158,
             "defense": 955,
             "health": 1821
@@ -6961,6 +7074,7 @@ window.allHeroes =
         ],
         "source": "傳奇召喚 - 月英",
         "Release date": "2022-12-01",
+        "specialId": "double_flail_mayhem",
         "star": 5,
         "power": 813,
         "attack": 776,
@@ -6980,13 +7094,13 @@ window.allHeroes =
         "costume_id": 0,
         "originalIndex": 113,
         "lb1": {
-            "power": 867,
+            "power": 866,
             "attack": 836,
             "defense": 828,
             "health": 1551
         },
         "lb2": {
-            "power": 974,
+            "power": 973,
             "attack": 957,
             "defense": 947,
             "health": 1775
@@ -7022,6 +7136,7 @@ window.allHeroes =
         ],
         "source": "S5 - 沙丘",
         "Release date": "2022-07-07",
+        "specialId": "divine_reflection",
         "star": 5,
         "power": 861,
         "attack": 793,
@@ -7041,7 +7156,7 @@ window.allHeroes =
         "costume_id": 0,
         "originalIndex": 114,
         "lb1": {
-            "power": 919,
+            "power": 918,
             "attack": 854,
             "defense": 925,
             "health": 1684
@@ -7080,6 +7195,7 @@ window.allHeroes =
         ],
         "source": "S5 - 沙丘",
         "Release date": "2024-12-10",
+        "specialId": "sacred_reflection",
         "star": 5,
         "power": 1203,
         "attack": 1149,
@@ -7101,13 +7217,13 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 115,
         "lb1": {
-            "power": 1287,
+            "power": 1286,
             "attack": 1237,
             "defense": 1341,
             "health": 2524
         },
         "lb2": {
-            "power": 1454,
+            "power": 1453,
             "attack": 1415,
             "defense": 1534,
             "health": 2887
@@ -7143,6 +7259,7 @@ window.allHeroes =
         ],
         "source": "挑戰節 II",
         "Release date": "2025-01-16",
+        "specialId": "joyful_noise",
         "star": 5,
         "power": 1171,
         "attack": 1128,
@@ -7214,6 +7331,7 @@ window.allHeroes =
         ],
         "source": "挑戰節 II",
         "Release date": "2021-06-10",
+        "specialId": "bobo_blitz",
         "star": 5,
         "power": 805,
         "attack": 751,
@@ -7275,6 +7393,7 @@ window.allHeroes =
         ],
         "source": "挑戰節 II",
         "Release date": "2022-11-03",
+        "specialId": "spectral_visions",
         "star": 5,
         "power": 876,
         "attack": 869,
@@ -7300,7 +7419,7 @@ window.allHeroes =
             "health": 1658
         },
         "lb2": {
-            "power": 1052,
+            "power": 1051,
             "attack": 1071,
             "defense": 1023,
             "health": 1897
@@ -7339,6 +7458,7 @@ window.allHeroes =
         ],
         "source": "神秘 - 暗影召喚",
         "Release date": "2025-03-06",
+        "specialId": "petrifying_knuckles",
         "star": 5,
         "power": 1177,
         "attack": 1225,
@@ -7361,7 +7481,7 @@ window.allHeroes =
             "health": 2293
         },
         "lb2": {
-            "power": 1423,
+            "power": 1422,
             "attack": 1511,
             "defense": 1435,
             "health": 2623
@@ -7404,6 +7524,7 @@ window.allHeroes =
         ],
         "source": "哥布林召喚",
         "Release date": "2024-05-13",
+        "specialId": "soothing_melody",
         "star": 5,
         "power": 1092,
         "attack": 1172,
@@ -7432,7 +7553,7 @@ window.allHeroes =
             "health": 1891
         },
         "lb2": {
-            "power": 1318,
+            "power": 1317,
             "attack": 1445,
             "defense": 1371,
             "health": 2164
@@ -7475,6 +7596,7 @@ window.allHeroes =
         ],
         "source": "高塔 - 魔法",
         "Release date": "2023-05-03",
+        "specialId": "mechanical_augmentations",
         "star": 5,
         "power": 867,
         "attack": 840,
@@ -7549,6 +7671,7 @@ window.allHeroes =
         ],
         "source": "三國召喚",
         "Release date": "2022-07-18",
+        "specialId": "order_to_overwhelm",
         "star": 5,
         "power": 837,
         "attack": 799,
@@ -7617,6 +7740,7 @@ window.allHeroes =
         ],
         "source": "三國召喚",
         "Release date": "2024-08-02",
+        "specialId": "ice_cold_order",
         "star": 5,
         "power": 1108,
         "attack": 1067,
@@ -7645,7 +7769,7 @@ window.allHeroes =
             "health": 2280
         },
         "lb2": {
-            "power": 1338,
+            "power": 1337,
             "attack": 1316,
             "defense": 1381,
             "health": 2610
@@ -7693,6 +7817,7 @@ window.allHeroes =
         ],
         "source": "挑戰節 II",
         "Release date": "2021-08-05",
+        "specialId": "breaker_blade",
         "star": 5,
         "power": 811,
         "attack": 747,
@@ -7760,6 +7885,7 @@ window.allHeroes =
         ],
         "source": "挑戰 - 眾神狂歡節",
         "Release date": "2023-07-13",
+        "specialId": "summon_rock_golems",
         "star": 5,
         "power": 933,
         "attack": 875,
@@ -7785,7 +7911,7 @@ window.allHeroes =
             "health": 1913
         },
         "lb2": {
-            "power": 1122,
+            "power": 1121,
             "attack": 1079,
             "defense": 1117,
             "health": 2189
@@ -7823,6 +7949,7 @@ window.allHeroes =
         ],
         "source": "挑戰節 II",
         "Release date": "2023-06-15",
+        "specialId": "moonlight_sonata",
         "star": 5,
         "power": 902,
         "attack": 891,
@@ -7841,13 +7968,13 @@ window.allHeroes =
         "costume_id": 0,
         "originalIndex": 126,
         "lb1": {
-            "power": 963,
+            "power": 962,
             "attack": 961,
             "defense": 925,
             "health": 1731
         },
         "lb2": {
-            "power": 1084,
+            "power": 1083,
             "attack": 1099,
             "defense": 1059,
             "health": 1981
@@ -7889,6 +8016,7 @@ window.allHeroes =
         ],
         "source": "S6 - 深淵謎團",
         "Release date": "2023-07-05",
+        "specialId": "tidal_vortex",
         "star": 5,
         "power": 936,
         "attack": 994,
@@ -7971,6 +8099,7 @@ window.allHeroes =
         ],
         "source": "S6 - 深淵謎團",
         "Release date": "2025-03-03",
+        "specialId": "ocean_vortex",
         "star": 5,
         "power": 1164,
         "attack": 1281,
@@ -8003,7 +8132,7 @@ window.allHeroes =
             "health": 2247
         },
         "lb2": {
-            "power": 1406,
+            "power": 1405,
             "attack": 1579,
             "defense": 1315,
             "health": 2571
@@ -8049,6 +8178,7 @@ window.allHeroes =
         ],
         "source": "三國召喚",
         "Release date": "2023-12-04",
+        "specialId": "lunar_locket",
         "star": 5,
         "power": 978,
         "attack": 974,
@@ -8068,7 +8198,7 @@ window.allHeroes =
         "costume_id": 0,
         "originalIndex": 129,
         "lb1": {
-            "power": 1045,
+            "power": 1044,
             "attack": 1050,
             "defense": 1067,
             "health": 1809
@@ -8117,6 +8247,7 @@ window.allHeroes =
         ],
         "source": "月活動 - 莫洛維亞",
         "Release date": "2024-09-23",
+        "specialId": "horrifying_wail",
         "star": 5,
         "power": 1052,
         "attack": 927,
@@ -8135,13 +8266,13 @@ window.allHeroes =
         "costume_id": 0,
         "originalIndex": 130,
         "lb1": {
-            "power": 1125,
+            "power": 1124,
             "attack": 999,
             "defense": 1365,
             "health": 1913
         },
         "lb2": {
-            "power": 1269,
+            "power": 1268,
             "attack": 1143,
             "defense": 1562,
             "health": 2189
@@ -8185,11 +8316,12 @@ window.allHeroes =
         ],
         "source": "聯盟 - 飛蛾",
         "Release date": "2025-06-25",
+        "specialId": "mutating_mixture",
         "star": 5,
-        "power": 1183,
-        "attack": 1277,
-        "defense": 1153,
-        "health": 2060,
+        "power": 1214,
+        "attack": 1306,
+        "defense": 1184,
+        "health": 2148,
         "effects": [
             "若任一敵人身中劇毒狀態異常：",
             "* 所有敵人在 5 回合內受到 985 點劇毒傷害。若目標擁有生命加成、小兵或超級小兵，則傷害增加。（若目標擁有生命加成，則劇毒傷害增加 +100%。目標擁有的每個小兵或超級小兵會使劇毒傷害增加 +33%。傷害增幅最大為 +199%。）",
@@ -8207,16 +8339,16 @@ window.allHeroes =
         "costume_id": 0,
         "originalIndex": 131,
         "lb1": {
-            "power": 1265,
-            "attack": 1376,
-            "defense": 1243,
-            "health": 2220
+            "power": 1298,
+            "attack": 1407,
+            "defense": 1276,
+            "health": 2314
         },
         "lb2": {
-            "power": 1430,
-            "attack": 1574,
-            "defense": 1422,
-            "health": 2540
+            "power": 1468,
+            "attack": 1610,
+            "defense": 1460,
+            "health": 2648
         },
         "cn_skill_info": [
             {
@@ -8266,6 +8398,7 @@ window.allHeroes =
         ],
         "source": "至日召喚",
         "Release date": "2025-06-16",
+        "specialId": "gift_of_rejuvenation",
         "star": 5,
         "power": 1213,
         "attack": 1186,
@@ -8288,7 +8421,7 @@ window.allHeroes =
         "costume_id": 0,
         "originalIndex": 132,
         "lb1": {
-            "power": 1298,
+            "power": 1297,
             "attack": 1278,
             "defense": 1389,
             "health": 2404
@@ -8333,6 +8466,7 @@ window.allHeroes =
         ],
         "source": "哥布林召喚",
         "Release date": "2025-05-27",
+        "specialId": "strict_standards",
         "star": 5,
         "power": 1184,
         "attack": 1248,
@@ -8358,7 +8492,7 @@ window.allHeroes =
             "health": 2253
         },
         "lb2": {
-            "power": 1432,
+            "power": 1431,
             "attack": 1539,
             "defense": 1455,
             "health": 2578
@@ -8401,6 +8535,7 @@ window.allHeroes =
         ],
         "source": "挑戰節 II",
         "Release date": "2023-02-23",
+        "specialId": "frozen_wind",
         "star": 5,
         "power": 878,
         "attack": 840,
@@ -8420,7 +8555,7 @@ window.allHeroes =
         "costume_id": 0,
         "originalIndex": 134,
         "lb1": {
-            "power": 937,
+            "power": 936,
             "attack": 905,
             "defense": 916,
             "health": 1702
@@ -8465,6 +8600,7 @@ window.allHeroes =
         ],
         "source": "傳奇召喚 - 月英",
         "Release date": "2025-04-01",
+        "specialId": "strength_of_the_accursed",
         "star": 5,
         "power": 1072,
         "attack": 1067,
@@ -8530,6 +8666,7 @@ window.allHeroes =
         ],
         "source": "高塔 - 忍者",
         "Release date": "2020-10-13",
+        "specialId": "katana_rain",
         "star": 5,
         "power": 798,
         "attack": 801,
@@ -8552,7 +8689,7 @@ window.allHeroes =
         "costume_id": 0,
         "originalIndex": 136,
         "lb1": {
-            "power": 851,
+            "power": 850,
             "attack": 863,
             "defense": 739,
             "health": 1547
@@ -8598,6 +8735,7 @@ window.allHeroes =
         ],
         "source": "星界召喚",
         "Release date": "2024-10-14",
+        "specialId": "constellation_crush",
         "star": 5,
         "power": 1106,
         "attack": 1170,
@@ -8618,13 +8756,13 @@ window.allHeroes =
         "costume_id": 0,
         "originalIndex": 137,
         "lb1": {
-            "power": 1183,
+            "power": 1182,
             "attack": 1260,
             "defense": 1218,
             "health": 1971
         },
         "lb2": {
-            "power": 1336,
+            "power": 1335,
             "attack": 1442,
             "defense": 1394,
             "health": 2255
@@ -8671,6 +8809,7 @@ window.allHeroes =
         ],
         "source": "挑戰節 II",
         "Release date": "2021-02-11",
+        "specialId": "freezing_crystal",
         "star": 5,
         "power": 801,
         "attack": 778,
@@ -8687,7 +8826,7 @@ window.allHeroes =
         "costume_id": 0,
         "originalIndex": 138,
         "lb1": {
-            "power": 854,
+            "power": 853,
             "attack": 839,
             "defense": 814,
             "health": 1480
@@ -8741,6 +8880,7 @@ window.allHeroes =
         ],
         "source": "月活動 - 海灘派對",
         "Release date": "2024-06-03",
+        "specialId": "waters_of_nourishment",
         "star": 5,
         "power": 1016,
         "attack": 999,
@@ -8760,7 +8900,7 @@ window.allHeroes =
         "costume_id": 0,
         "originalIndex": 139,
         "lb1": {
-            "power": 1086,
+            "power": 1085,
             "attack": 1076,
             "defense": 1054,
             "health": 2066
@@ -8806,6 +8946,7 @@ window.allHeroes =
         ],
         "source": "聯盟 - 騎士衝擊",
         "Release date": "2021-10-13",
+        "specialId": "fiendslayer",
         "star": 5,
         "power": 816,
         "attack": 762,
@@ -8822,13 +8963,13 @@ window.allHeroes =
         "costume_id": 0,
         "originalIndex": 140,
         "lb1": {
-            "power": 871,
+            "power": 870,
             "attack": 821,
             "defense": 841,
             "health": 1591
         },
         "lb2": {
-            "power": 978,
+            "power": 977,
             "attack": 939,
             "defense": 962,
             "health": 1821
@@ -8868,6 +9009,7 @@ window.allHeroes =
         ],
         "source": "S4 - 地底荒野",
         "Release date": "2021-12-30",
+        "specialId": "saturated_suffering",
         "star": 5,
         "power": 813,
         "attack": 791,
@@ -8933,6 +9075,7 @@ window.allHeroes =
         ],
         "source": "S4 - 地底荒野",
         "Release date": "2024-09-26",
+        "specialId": "oceanic_suffering",
         "star": 5,
         "power": 1030,
         "attack": 1049,
@@ -8951,7 +9094,7 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 142,
         "lb1": {
-            "power": 1101,
+            "power": 1100,
             "attack": 1131,
             "defense": 1069,
             "health": 2004
@@ -9004,7 +9147,8 @@ window.allHeroes =
             "繞過"
         ],
         "source": "額外抽獎 - 秘密召喚",
-        "Release date": "2025-06-06",
+        "Release date": "2025-05-03",
+        "specialId": "mimic_training_hero_blue_bite",
         "star": 5,
         "power": 1200,
         "attack": 1236,
@@ -9082,6 +9226,7 @@ window.allHeroes =
         ],
         "source": "S3 - 瓦爾哈拉",
         "Release date": "2020-02-27",
+        "specialId": "gargantuan_bite",
         "star": 5,
         "power": 785,
         "attack": 780,
@@ -9146,6 +9291,7 @@ window.allHeroes =
         ],
         "source": "S3 - 瓦爾哈拉",
         "Release date": "2023-04-10",
+        "specialId": "colossal_bite",
         "star": 5,
         "power": 982,
         "attack": 1015,
@@ -9163,7 +9309,7 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 145,
         "lb1": {
-            "power": 1049,
+            "power": 1048,
             "attack": 1093,
             "defense": 999,
             "health": 1869
@@ -9209,6 +9355,7 @@ window.allHeroes =
         ],
         "source": "哥布林召喚",
         "Release date": "2024-12-09",
+        "specialId": "keep_the_peace",
         "star": 5,
         "power": 1132,
         "attack": 1062,
@@ -9236,7 +9383,7 @@ window.allHeroes =
             "health": 2357
         },
         "lb2": {
-            "power": 1368,
+            "power": 1367,
             "attack": 1310,
             "defense": 1452,
             "health": 2697
@@ -9281,6 +9428,7 @@ window.allHeroes =
         ],
         "source": "挑戰節 I",
         "Release date": "2019-11-11",
+        "specialId": "commodores_revenge",
         "star": 5,
         "power": 781,
         "attack": 753,
@@ -9343,6 +9491,7 @@ window.allHeroes =
         ],
         "source": "挑戰節 I",
         "Release date": "2022-04-14",
+        "specialId": "commodores_malice",
         "star": 5,
         "power": 978,
         "attack": 1000,
@@ -9367,7 +9516,7 @@ window.allHeroes =
             "health": 1919
         },
         "lb2": {
-            "power": 1178,
+            "power": 1177,
             "attack": 1234,
             "defense": 1120,
             "health": 2196
@@ -9407,6 +9556,7 @@ window.allHeroes =
         ],
         "source": "挑戰 - 歌劇秘辛",
         "Release date": "2023-11-30",
+        "specialId": "voice_of_authority",
         "star": 5,
         "power": 957,
         "attack": 937,
@@ -9426,13 +9576,13 @@ window.allHeroes =
         "costume_id": 0,
         "originalIndex": 149,
         "lb1": {
-            "power": 1022,
+            "power": 1021,
             "attack": 1010,
             "defense": 956,
             "health": 1969
         },
         "lb2": {
-            "power": 1151,
+            "power": 1150,
             "attack": 1155,
             "defense": 1094,
             "health": 2252
@@ -9471,6 +9621,7 @@ window.allHeroes =
         ],
         "source": "哥布林召喚",
         "Release date": "2023-11-13",
+        "specialId": "shady_concerto",
         "star": 5,
         "power": 954,
         "attack": 999,
@@ -9540,6 +9691,7 @@ window.allHeroes =
         ],
         "source": "挑戰 - 眾神狂歡節",
         "Release date": "2022-11-22",
+        "specialId": "bad_fortune",
         "star": 5,
         "power": 873,
         "attack": 819,
@@ -9566,7 +9718,7 @@ window.allHeroes =
             "health": 1707
         },
         "lb2": {
-            "power": 1048,
+            "power": 1047,
             "attack": 1010,
             "defense": 1056,
             "health": 1953
@@ -9615,6 +9767,7 @@ window.allHeroes =
         ],
         "source": "傳奇召喚 - 月英",
         "Release date": "2019-03-01",
+        "specialId": "polar_bash",
         "star": 5,
         "power": 770,
         "attack": 733,
@@ -9683,6 +9836,7 @@ window.allHeroes =
         ],
         "source": "傳奇召喚 - 月英",
         "Release date": "2021-04-01",
+        "specialId": "cold_command",
         "star": 5,
         "power": 789,
         "attack": 776,
@@ -9708,7 +9862,7 @@ window.allHeroes =
             "health": 1451
         },
         "lb2": {
-            "power": 945,
+            "power": 944,
             "attack": 957,
             "defense": 901,
             "health": 1661
@@ -9742,6 +9896,7 @@ window.allHeroes =
         ],
         "source": "哥布林召喚",
         "Release date": "2025-01-17",
+        "specialId": "raising_morale",
         "star": 5,
         "power": 1156,
         "attack": 1165,
@@ -9810,6 +9965,7 @@ window.allHeroes =
         ],
         "source": "挑戰 - 石像鬼",
         "Release date": "2021-11-24",
+        "specialId": "educated_exorcism",
         "star": 5,
         "power": 841,
         "attack": 856,
@@ -9834,7 +9990,7 @@ window.allHeroes =
             "health": 1618
         },
         "lb2": {
-            "power": 1009,
+            "power": 1008,
             "attack": 1056,
             "defense": 911,
             "health": 1851
@@ -9873,6 +10029,7 @@ window.allHeroes =
         ],
         "source": "聖約召喚",
         "Release date": "2023-09-21",
+        "specialId": "star_construct",
         "star": 5,
         "power": 980,
         "attack": 997,
@@ -9896,13 +10053,13 @@ window.allHeroes =
         "costume_id": 0,
         "originalIndex": 156,
         "lb1": {
-            "power": 1047,
+            "power": 1046,
             "attack": 1074,
             "defense": 1025,
             "health": 1849
         },
         "lb2": {
-            "power": 1180,
+            "power": 1179,
             "attack": 1229,
             "defense": 1173,
             "health": 2115
@@ -9945,6 +10102,7 @@ window.allHeroes =
         ],
         "source": "傳奇召喚 - 月英",
         "Release date": "2024-02-01",
+        "specialId": "hunters_instinct",
         "star": 5,
         "power": 960,
         "attack": 972,
@@ -9965,13 +10123,13 @@ window.allHeroes =
         "costume_id": 0,
         "originalIndex": 157,
         "lb1": {
-            "power": 1026,
+            "power": 1025,
             "attack": 1047,
             "defense": 990,
             "health": 1838
         },
         "lb2": {
-            "power": 1156,
+            "power": 1155,
             "attack": 1198,
             "defense": 1132,
             "health": 2103
@@ -10014,6 +10172,7 @@ window.allHeroes =
         ],
         "source": "傳奇召喚 - 月英",
         "Release date": "2020-11-01",
+        "specialId": "midnight_magic",
         "star": 5,
         "power": 780,
         "attack": 749,
@@ -10039,7 +10198,7 @@ window.allHeroes =
             "health": 1467
         },
         "lb2": {
-            "power": 933,
+            "power": 932,
             "attack": 924,
             "defense": 891,
             "health": 1678
@@ -10085,6 +10244,7 @@ window.allHeroes =
         ],
         "source": "超級元素",
         "Release date": "2025-07-31",
+        "specialId": "gooey_rose",
         "star": 5,
         "power": 1225,
         "attack": 1236,
@@ -10161,6 +10321,7 @@ window.allHeroes =
         ],
         "source": "哥布林召喚",
         "Release date": "2024-02-19",
+        "specialId": "spirits_of_the_mountain",
         "star": 5,
         "power": 1063,
         "attack": 1054,
@@ -10181,13 +10342,13 @@ window.allHeroes =
         "costume_id": 0,
         "originalIndex": 160,
         "lb1": {
-            "power": 1137,
+            "power": 1136,
             "attack": 1136,
             "defense": 1196,
             "health": 1995
         },
         "lb2": {
-            "power": 1283,
+            "power": 1282,
             "attack": 1300,
             "defense": 1369,
             "health": 2283
@@ -10225,6 +10386,7 @@ window.allHeroes =
         ],
         "source": "挑戰節 I",
         "Release date": "2023-01-26",
+        "specialId": "brutal_support",
         "star": 5,
         "power": 841,
         "attack": 828,
@@ -10240,7 +10402,7 @@ window.allHeroes =
         "costume_id": 0,
         "originalIndex": 161,
         "lb1": {
-            "power": 897,
+            "power": 896,
             "attack": 892,
             "defense": 843,
             "health": 1598
@@ -10284,6 +10446,7 @@ window.allHeroes =
         ],
         "source": "S5 - 沙丘",
         "Release date": "2023-02-16",
+        "specialId": "bewildering_riddle",
         "star": 5,
         "power": 869,
         "attack": 768,
@@ -10310,7 +10473,7 @@ window.allHeroes =
             "health": 1756
         },
         "lb2": {
-            "power": 1043,
+            "power": 1042,
             "attack": 947,
             "defense": 1089,
             "health": 2009
@@ -10354,6 +10517,7 @@ window.allHeroes =
         ],
         "source": "S5 - 沙丘",
         "Release date": "2024-03-04",
+        "specialId": "relaxing_riddle",
         "star": 5,
         "power": 1214,
         "attack": 1110,
@@ -10376,7 +10540,7 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 163,
         "lb1": {
-            "power": 1299,
+            "power": 1298,
             "attack": 1195,
             "defense": 1385,
             "health": 2625
@@ -10424,6 +10588,7 @@ window.allHeroes =
         ],
         "source": "月活動 - 戀愛季節",
         "Release date": "2023-02-14",
+        "specialId": "grips_of_longing",
         "star": 5,
         "power": 861,
         "attack": 865,
@@ -10497,6 +10662,7 @@ window.allHeroes =
         ],
         "source": "S7 - 火焰與冰霜的寶藏",
         "Release date": "2025-04-14",
+        "specialId": "glacial_fissure_cleave",
         "star": 5,
         "power": 1194,
         "attack": 1170,
@@ -10572,6 +10738,7 @@ window.allHeroes =
         ],
         "source": "挑戰 - 貝武夫",
         "Release date": "2024-11-25",
+        "specialId": "kings_feast",
         "star": 5,
         "power": 1182,
         "attack": 1291,
@@ -10596,7 +10763,7 @@ window.allHeroes =
         "costume_id": 0,
         "originalIndex": 166,
         "lb1": {
-            "power": 1265,
+            "power": 1264,
             "attack": 1391,
             "defense": 1174,
             "health": 2317
@@ -10645,6 +10812,7 @@ window.allHeroes =
         ],
         "source": "神秘 - 暗影召喚",
         "Release date": "2025-06-10",
+        "specialId": "eye_of_yog-sir",
         "star": 5,
         "power": 1201,
         "attack": 1180,
@@ -10706,6 +10874,7 @@ window.allHeroes =
         ],
         "source": "傳奇召喚 - 月英",
         "Release date": "2022-02-01",
+        "specialId": "erase_strength",
         "star": 5,
         "power": 804,
         "attack": 788,
@@ -10732,7 +10901,7 @@ window.allHeroes =
             "health": 1485
         },
         "lb2": {
-            "power": 963,
+            "power": 962,
             "attack": 972,
             "defense": 927,
             "health": 1699
@@ -10773,6 +10942,7 @@ window.allHeroes =
         ],
         "source": "S1 - 經典",
         "Release date": "2017-03-01",
+        "specialId": "glacial_shatter",
         "star": 5,
         "power": 755,
         "attack": 797,
@@ -10794,7 +10964,7 @@ window.allHeroes =
             "health": 1294
         },
         "lb2": {
-            "power": 902,
+            "power": 901,
             "attack": 982,
             "defense": 807,
             "health": 1480
@@ -10830,6 +11000,7 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2020-01-01",
+        "specialId": "glacial_explosion",
         "star": 5,
         "power": 848,
         "attack": 935,
@@ -10851,7 +11022,7 @@ window.allHeroes =
             "health": 1520
         },
         "lb2": {
-            "power": 1017,
+            "power": 1016,
             "attack": 1153,
             "defense": 874,
             "health": 1739
@@ -10888,6 +11059,7 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2022-09-05",
+        "specialId": "glacial_vortex",
         "star": 5,
         "power": 962,
         "attack": 1048,
@@ -10910,7 +11082,7 @@ window.allHeroes =
             "health": 1853
         },
         "lb2": {
-            "power": 1159,
+            "power": 1158,
             "attack": 1293,
             "defense": 1015,
             "health": 2121
@@ -10952,6 +11124,7 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2024-05-06",
+        "specialId": "adorable_shatter",
         "star": 5,
         "power": 1128,
         "attack": 1199,
@@ -10976,7 +11149,7 @@ window.allHeroes =
             "health": 2225
         },
         "lb2": {
-            "power": 1363,
+            "power": 1362,
             "attack": 1480,
             "defense": 1298,
             "health": 2546
@@ -11019,6 +11192,7 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2025-06-18",
+        "specialId": "glass_shatter",
         "star": 5,
         "power": 1236,
         "attack": 1463,
@@ -11090,6 +11264,7 @@ window.allHeroes =
         ],
         "source": "星界召喚",
         "Release date": "2025-03-27",
+        "specialId": "planetary_charge",
         "star": 5,
         "power": 1176,
         "attack": 1170,
@@ -11117,7 +11292,7 @@ window.allHeroes =
             "health": 2224
         },
         "lb2": {
-            "power": 1422,
+            "power": 1421,
             "attack": 1442,
             "defense": 1557,
             "health": 2545
@@ -11159,6 +11334,7 @@ window.allHeroes =
         ],
         "source": "超級元素",
         "Release date": "2024-01-29",
+        "specialId": "chain_lightning",
         "star": 5,
         "power": 997,
         "attack": 1071,
@@ -11182,7 +11358,7 @@ window.allHeroes =
         "costume_id": 0,
         "originalIndex": 175,
         "lb1": {
-            "power": 1065,
+            "power": 1064,
             "attack": 1154,
             "defense": 1054,
             "health": 1720
@@ -11233,6 +11409,7 @@ window.allHeroes =
         ],
         "source": "野地召喚",
         "Release date": "2025-05-20",
+        "specialId": "charm_of_protection",
         "star": 5,
         "power": 1182,
         "attack": 1137,
@@ -11260,7 +11437,7 @@ window.allHeroes =
             "health": 2439
         },
         "lb2": {
-            "power": 1429,
+            "power": 1428,
             "attack": 1402,
             "defense": 1508,
             "health": 2791
@@ -11300,6 +11477,7 @@ window.allHeroes =
         ],
         "source": "月活動 - 戀愛季節",
         "Release date": "2024-01-08",
+        "specialId": "tough_love",
         "star": 5,
         "power": 966,
         "attack": 953,
@@ -11365,6 +11543,7 @@ window.allHeroes =
         ],
         "source": "哥布林召喚",
         "Release date": "2023-09-18",
+        "specialId": "dubious_cuisine",
         "star": 5,
         "power": 940,
         "attack": 949,
@@ -11391,7 +11570,7 @@ window.allHeroes =
         "costume_id": 0,
         "originalIndex": 178,
         "lb1": {
-            "power": 1004,
+            "power": 1003,
             "attack": 1023,
             "defense": 970,
             "health": 1780
@@ -11449,6 +11628,7 @@ window.allHeroes =
         ],
         "source": "挑戰節 I",
         "Release date": "2018-01-05",
+        "specialId": "excalibur",
         "star": 5,
         "power": 765,
         "attack": 708,
@@ -11466,7 +11646,7 @@ window.allHeroes =
         "costume_id": 0,
         "originalIndex": 179,
         "lb1": {
-            "power": 815,
+            "power": 814,
             "attack": 763,
             "defense": 790,
             "health": 1440
@@ -11516,6 +11696,7 @@ window.allHeroes =
         ],
         "source": "傳奇召喚 - 月英",
         "Release date": "2022-07-01",
+        "specialId": "hailstorm",
         "star": 5,
         "power": 809,
         "attack": 766,
@@ -11587,6 +11768,7 @@ window.allHeroes =
         ],
         "source": "月活動 - 冬季",
         "Release date": "2020-12-01",
+        "specialId": "scourge_of_joy",
         "star": 5,
         "power": 802,
         "attack": 667,
@@ -11610,7 +11792,7 @@ window.allHeroes =
             "health": 1582
         },
         "lb2": {
-            "power": 961,
+            "power": 960,
             "attack": 822,
             "defense": 1051,
             "health": 1811
@@ -11652,6 +11834,7 @@ window.allHeroes =
         ],
         "source": "月活動 - 冬季",
         "Release date": "2021-12-01",
+        "specialId": "merriest_misery",
         "star": 5,
         "power": 1039,
         "attack": 1013,
@@ -11675,7 +11858,7 @@ window.allHeroes =
             "health": 2031
         },
         "lb2": {
-            "power": 1254,
+            "power": 1253,
             "attack": 1251,
             "defense": 1305,
             "health": 2324
@@ -11718,6 +11901,7 @@ window.allHeroes =
         ],
         "source": "野地召喚",
         "Release date": "2025-06-28",
+        "specialId": "pursuing_shot",
         "star": 5,
         "power": 1215,
         "attack": 1326,
@@ -11745,7 +11929,7 @@ window.allHeroes =
         "costume_id": 0,
         "originalIndex": 183,
         "lb1": {
-            "power": 1300,
+            "power": 1299,
             "attack": 1429,
             "defense": 1267,
             "health": 2286
@@ -11789,6 +11973,7 @@ window.allHeroes =
         ],
         "source": "S3 - 瓦爾哈拉",
         "Release date": "2020-12-24",
+        "specialId": "tricksters_mischief",
         "star": 5,
         "power": 787,
         "attack": 774,
@@ -11843,6 +12028,7 @@ window.allHeroes =
         ],
         "source": "S3 - 瓦爾哈拉",
         "Release date": "2023-05-08",
+        "specialId": "shapeshifters_deception",
         "star": 5,
         "power": 986,
         "attack": 988,
@@ -11861,13 +12047,13 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 185,
         "lb1": {
-            "power": 1053,
+            "power": 1052,
             "attack": 1064,
             "defense": 1056,
             "health": 1854
         },
         "lb2": {
-            "power": 1187,
+            "power": 1186,
             "attack": 1218,
             "defense": 1208,
             "health": 2122
@@ -11902,6 +12088,7 @@ window.allHeroes =
         ],
         "source": "聯盟 - 騎士衝擊",
         "Release date": "2023-10-18",
+        "specialId": "sapphire_eyes",
         "star": 5,
         "power": 980,
         "attack": 910,
@@ -11921,7 +12108,7 @@ window.allHeroes =
         "costume_id": 0,
         "originalIndex": 186,
         "lb1": {
-            "power": 1048,
+            "power": 1047,
             "attack": 981,
             "defense": 1094,
             "health": 1949
@@ -11968,6 +12155,7 @@ window.allHeroes =
         ],
         "source": "超級元素",
         "Release date": "2025-04-25",
+        "specialId": "slimy_balls",
         "star": 5,
         "power": 1191,
         "attack": 1252,
@@ -11988,13 +12176,13 @@ window.allHeroes =
         "costume_id": 0,
         "originalIndex": 187,
         "lb1": {
-            "power": 1275,
+            "power": 1274,
             "attack": 1349,
             "defense": 1320,
             "health": 2200
         },
         "lb2": {
-            "power": 1441,
+            "power": 1440,
             "attack": 1544,
             "defense": 1511,
             "health": 2517
@@ -12035,6 +12223,7 @@ window.allHeroes =
         ],
         "source": "S1 - 經典",
         "Release date": "2017-03-01",
+        "specialId": "strike_of_the_ancients",
         "star": 5,
         "power": 754,
         "attack": 793,
@@ -12050,7 +12239,7 @@ window.allHeroes =
         "costume_id": 0,
         "originalIndex": 188,
         "lb1": {
-            "power": 804,
+            "power": 803,
             "attack": 854,
             "defense": 637,
             "health": 1438
@@ -12092,6 +12281,7 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2020-05-18",
+        "specialId": "strike_of_the_monolith",
         "star": 5,
         "power": 849,
         "attack": 800,
@@ -12107,7 +12297,7 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 189,
         "lb1": {
-            "power": 906,
+            "power": 905,
             "attack": 862,
             "defense": 849,
             "health": 1724
@@ -12149,6 +12339,7 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2022-10-31",
+        "specialId": "strike_of_the_underworld",
         "star": 5,
         "power": 964,
         "attack": 955,
@@ -12164,7 +12355,7 @@ window.allHeroes =
         "costume_id": 2,
         "originalIndex": 190,
         "lb1": {
-            "power": 1031,
+            "power": 1030,
             "attack": 1030,
             "defense": 892,
             "health": 2109
@@ -12207,6 +12398,7 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2024-01-22",
+        "specialId": "strike_of_the_toons",
         "star": 5,
         "power": 1130,
         "attack": 1178,
@@ -12274,6 +12466,7 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2025-03-11",
+        "specialId": "glass_strike_magni",
         "star": 5,
         "power": 1236,
         "attack": 1351,
@@ -12341,6 +12534,7 @@ window.allHeroes =
         ],
         "source": "高塔 - 貓頭鷹",
         "Release date": "2024-03-13",
+        "specialId": "healing_mirror",
         "star": 5,
         "power": 1047,
         "attack": 1060,
@@ -12365,7 +12559,7 @@ window.allHeroes =
             "health": 1920
         },
         "lb2": {
-            "power": 1263,
+            "power": 1262,
             "attack": 1308,
             "defense": 1330,
             "health": 2197
@@ -12406,6 +12600,7 @@ window.allHeroes =
         ],
         "source": "月活動 - 斯普林維爾",
         "Release date": "2018-03-28",
+        "specialId": "reckless_finisher",
         "star": 5,
         "power": 763,
         "attack": 795,
@@ -12421,7 +12616,7 @@ window.allHeroes =
         "costume_id": 0,
         "originalIndex": 194,
         "lb1": {
-            "power": 813,
+            "power": 812,
             "attack": 856,
             "defense": 743,
             "health": 1287
@@ -12463,8 +12658,9 @@ window.allHeroes =
         ],
         "source": "月活動 - 斯普林維爾",
         "Release date": "2022-03-21",
+        "specialId": "rift_blade",
         "star": 5,
-        "power": 867,
+        "power": 905,
         "attack": 945,
         "defense": 848,
         "health": 1515,
@@ -12478,13 +12674,13 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 195,
         "lb1": {
-            "power": 965,
+            "power": 964,
             "attack": 1017,
             "defense": 913,
             "health": 1631
         },
         "lb2": {
-            "power": 1087,
+            "power": 1086,
             "attack": 1165,
             "defense": 1045,
             "health": 1866
@@ -12522,6 +12718,7 @@ window.allHeroes =
         ],
         "source": "挑戰 - 石像鬼",
         "Release date": "2022-12-29",
+        "specialId": "heretic_slayer",
         "star": 5,
         "power": 850,
         "attack": 824,
@@ -12546,7 +12743,7 @@ window.allHeroes =
             "health": 1631
         },
         "lb2": {
-            "power": 1020,
+            "power": 1019,
             "attack": 1016,
             "defense": 993,
             "health": 1866
@@ -12590,6 +12787,7 @@ window.allHeroes =
         ],
         "source": "傳奇召喚 - 月英",
         "Release date": "2024-11-01",
+        "specialId": "freezing_fairy_mist",
         "star": 5,
         "power": 1034,
         "attack": 1089,
@@ -12655,6 +12853,7 @@ window.allHeroes =
         ],
         "source": "傳奇召喚 - 月英",
         "Release date": "2019-08-01",
+        "specialId": "wrath_of_tundra",
         "star": 5,
         "power": 770,
         "attack": 712,
@@ -12718,6 +12917,7 @@ window.allHeroes =
         ],
         "source": "聯盟 - 火槍手",
         "Release date": "2023-03-08",
+        "specialId": "masterful_manipulation",
         "star": 5,
         "power": 866,
         "attack": 832,
@@ -12737,13 +12937,13 @@ window.allHeroes =
         "costume_id": 0,
         "originalIndex": 199,
         "lb1": {
-            "power": 924,
+            "power": 923,
             "attack": 896,
             "defense": 890,
             "health": 1684
         },
         "lb2": {
-            "power": 1039,
+            "power": 1038,
             "attack": 1026,
             "defense": 1018,
             "health": 1927
@@ -12791,6 +12991,7 @@ window.allHeroes =
         ],
         "source": "高塔 - 魔法",
         "Release date": "2021-09-15",
+        "specialId": "restoration_and_annihilation",
         "star": 5,
         "power": 813,
         "attack": 784,
@@ -12813,7 +13014,7 @@ window.allHeroes =
         "costume_id": 0,
         "originalIndex": 200,
         "lb1": {
-            "power": 867,
+            "power": 866,
             "attack": 845,
             "defense": 834,
             "health": 1518
@@ -12867,6 +13068,7 @@ window.allHeroes =
         ],
         "source": "高塔 - 魔法",
         "Release date": "2025-04-17",
+        "specialId": "preserve_and_freeze",
         "star": 5,
         "power": 1206,
         "attack": 1241,
@@ -12890,13 +13092,13 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 201,
         "lb1": {
-            "power": 1290,
+            "power": 1289,
             "attack": 1337,
             "defense": 1305,
             "health": 2367
         },
         "lb2": {
-            "power": 1458,
+            "power": 1457,
             "attack": 1530,
             "defense": 1493,
             "health": 2708
@@ -12942,6 +13144,7 @@ window.allHeroes =
         ],
         "source": "月活動 - 莫洛維亞",
         "Release date": "2022-10-03",
+        "specialId": "litter_of_kittens",
         "star": 5,
         "power": 850,
         "attack": 793,
@@ -12966,7 +13169,7 @@ window.allHeroes =
             "health": 1645
         },
         "lb2": {
-            "power": 1020,
+            "power": 1019,
             "attack": 977,
             "defense": 1033,
             "health": 1882
@@ -13006,6 +13209,7 @@ window.allHeroes =
         ],
         "source": "S2 - 亞特蘭蒂斯",
         "Release date": "2019-08-01",
+        "specialId": "chain_strike",
         "star": 5,
         "power": 774,
         "attack": 723,
@@ -13067,6 +13271,7 @@ window.allHeroes =
         ],
         "source": "S2 - 亞特蘭蒂斯",
         "Release date": "2023-01-09",
+        "specialId": "drum_chain",
         "star": 5,
         "power": 946,
         "attack": 938,
@@ -13083,13 +13288,13 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 204,
         "lb1": {
-            "power": 1011,
+            "power": 1010,
             "attack": 1012,
             "defense": 973,
             "health": 1852
         },
         "lb2": {
-            "power": 1139,
+            "power": 1138,
             "attack": 1158,
             "defense": 1113,
             "health": 2119
@@ -13127,6 +13332,7 @@ window.allHeroes =
         ],
         "source": "月活動 - 斯普林維爾",
         "Release date": "2024-03-18",
+        "specialId": "mooing_for_a_fight",
         "star": 5,
         "power": 999,
         "attack": 1009,
@@ -13143,13 +13349,13 @@ window.allHeroes =
         "costume_id": 0,
         "originalIndex": 205,
         "lb1": {
-            "power": 1068,
+            "power": 1067,
             "attack": 1087,
             "defense": 1030,
             "health": 1958
         },
         "lb2": {
-            "power": 1204,
+            "power": 1203,
             "attack": 1244,
             "defense": 1178,
             "health": 2240
@@ -13187,6 +13393,7 @@ window.allHeroes =
         ],
         "source": "傳奇召喚",
         "Release date": "2024-05-03",
+        "specialId": "cut_down_the_competition",
         "star": 5,
         "power": 1042,
         "attack": 999,
@@ -13209,7 +13416,7 @@ window.allHeroes =
         "costume_id": 0,
         "originalIndex": 206,
         "lb1": {
-            "power": 1114,
+            "power": 1113,
             "attack": 1076,
             "defense": 1187,
             "health": 1998
@@ -13255,6 +13462,7 @@ window.allHeroes =
         ],
         "source": "月活動 - 海灘派對",
         "Release date": "2023-06-12",
+        "specialId": "seastar_burst",
         "star": 5,
         "power": 875,
         "attack": 881,
@@ -13280,7 +13488,7 @@ window.allHeroes =
             "health": 1585
         },
         "lb2": {
-            "power": 1051,
+            "power": 1050,
             "attack": 1087,
             "defense": 1041,
             "health": 1813
@@ -13321,6 +13529,7 @@ window.allHeroes =
         ],
         "source": "挑戰 - 貝武夫",
         "Release date": "2025-02-13",
+        "specialId": "chilling_counterattack",
         "star": 5,
         "power": 1183,
         "attack": 1172,
@@ -13345,13 +13554,13 @@ window.allHeroes =
         "costume_id": 0,
         "originalIndex": 208,
         "lb1": {
-            "power": 1266,
+            "power": 1265,
             "attack": 1263,
             "defense": 1334,
             "health": 2322
         },
         "lb2": {
-            "power": 1430,
+            "power": 1429,
             "attack": 1445,
             "defense": 1526,
             "health": 2656
@@ -13396,6 +13605,7 @@ window.allHeroes =
         ],
         "source": "星界召喚",
         "Release date": "2024-08-19",
+        "specialId": "astral_myrrh",
         "star": 5,
         "power": 1086,
         "attack": 1065,
@@ -13422,7 +13632,7 @@ window.allHeroes =
             "health": 2013
         },
         "lb2": {
-            "power": 1311,
+            "power": 1310,
             "attack": 1313,
             "defense": 1442,
             "health": 2303
@@ -13464,6 +13674,7 @@ window.allHeroes =
         ],
         "source": "S4 - 地底荒野",
         "Release date": "2021-06-17",
+        "specialId": "deathly_glaive",
         "star": 5,
         "power": 807,
         "attack": 772,
@@ -13527,6 +13738,7 @@ window.allHeroes =
         ],
         "source": "S4 - 地底荒野",
         "Release date": "2023-07-20",
+        "specialId": "staff_of_the_seastar",
         "star": 5,
         "power": 1021,
         "attack": 1071,
@@ -13552,7 +13764,7 @@ window.allHeroes =
             "health": 2108
         },
         "lb2": {
-            "power": 1231,
+            "power": 1230,
             "attack": 1320,
             "defense": 1092,
             "health": 2413
@@ -13592,6 +13804,7 @@ window.allHeroes =
         ],
         "source": "月活動 - 冬季",
         "Release date": "2021-12-01",
+        "specialId": "herring_blaster",
         "star": 5,
         "power": 821,
         "attack": 803,
@@ -13662,6 +13875,7 @@ window.allHeroes =
         ],
         "source": "月活動 - 冬季",
         "Release date": "2024-12-01",
+        "specialId": "herring_surprise",
         "star": 5,
         "power": 1064,
         "attack": 1084,
@@ -13733,6 +13947,7 @@ window.allHeroes =
         ],
         "source": "聖約召喚",
         "Release date": "2024-02-08",
+        "specialId": "pathfinders_compass",
         "star": 5,
         "power": 995,
         "attack": 997,
@@ -13755,13 +13970,13 @@ window.allHeroes =
         "costume_id": 0,
         "originalIndex": 214,
         "lb1": {
-            "power": 1063,
+            "power": 1062,
             "attack": 1074,
             "defense": 1074,
             "health": 1864
         },
         "lb2": {
-            "power": 1198,
+            "power": 1197,
             "attack": 1229,
             "defense": 1229,
             "health": 2133
@@ -13804,6 +14019,7 @@ window.allHeroes =
         ],
         "source": "三國召喚",
         "Release date": "2023-06-19",
+        "specialId": "wrath_of_the_nine_beaks",
         "star": 5,
         "power": 939,
         "attack": 896,
@@ -13831,7 +14047,7 @@ window.allHeroes =
             "health": 1804
         },
         "lb2": {
-            "power": 1129,
+            "power": 1128,
             "attack": 1104,
             "defense": 1173,
             "health": 2065
@@ -13879,6 +14095,7 @@ window.allHeroes =
         ],
         "source": "超級元素",
         "Release date": "2024-06-17",
+        "specialId": "ice_and_slice",
         "star": 5,
         "power": 1064,
         "attack": 1128,
@@ -13901,13 +14118,13 @@ window.allHeroes =
         "costume_id": 0,
         "originalIndex": 216,
         "lb1": {
-            "power": 1138,
+            "power": 1137,
             "attack": 1216,
             "defense": 1110,
             "health": 1975
         },
         "lb2": {
-            "power": 1284,
+            "power": 1283,
             "attack": 1391,
             "defense": 1270,
             "health": 2260
@@ -13951,6 +14168,7 @@ window.allHeroes =
         ],
         "source": "挑戰 - 歌劇秘辛",
         "Release date": "2023-06-20",
+        "specialId": "dance_of_the_swan",
         "star": 5,
         "power": 955,
         "attack": 887,
@@ -14030,6 +14248,7 @@ window.allHeroes =
         ],
         "source": "高塔 - 忍者",
         "Release date": "2023-01-11",
+        "specialId": "standing_fortress",
         "star": 5,
         "power": 866,
         "attack": 739,
@@ -14056,7 +14275,7 @@ window.allHeroes =
         "costume_id": 0,
         "originalIndex": 218,
         "lb1": {
-            "power": 924,
+            "power": 923,
             "attack": 796,
             "defense": 961,
             "health": 1795
@@ -14102,6 +14321,7 @@ window.allHeroes =
         ],
         "source": "星界召喚",
         "Release date": "2025-07-02",
+        "specialId": "lunar_bloom",
         "star": 5,
         "power": 1216,
         "attack": 1180,
@@ -14128,7 +14348,7 @@ window.allHeroes =
             "health": 2444
         },
         "lb2": {
-            "power": 1471,
+            "power": 1470,
             "attack": 1455,
             "defense": 1590,
             "health": 2796
@@ -14167,6 +14387,7 @@ window.allHeroes =
         ],
         "source": "月活動 - 卡勒瓦拉",
         "Release date": "2024-07-22",
+        "specialId": "boreal_bash",
         "star": 5,
         "power": 1034,
         "attack": 927,
@@ -14231,6 +14452,7 @@ window.allHeroes =
         ],
         "source": "S4 - 地底荒野",
         "Release date": "2021-12-02",
+        "specialId": "helping_hands",
         "star": 5,
         "power": 811,
         "attack": 756,
@@ -14249,13 +14471,13 @@ window.allHeroes =
         "costume_id": 0,
         "originalIndex": 221,
         "lb1": {
-            "power": 865,
+            "power": 864,
             "attack": 814,
             "defense": 865,
             "health": 1520
         },
         "lb2": {
-            "power": 972,
+            "power": 971,
             "attack": 932,
             "defense": 990,
             "health": 1739
@@ -14297,6 +14519,7 @@ window.allHeroes =
         ],
         "source": "S4 - 地底荒野",
         "Release date": "2023-10-12",
+        "specialId": "creative_hands",
         "star": 5,
         "power": 1026,
         "attack": 882,
@@ -14322,7 +14545,7 @@ window.allHeroes =
             "health": 2052
         },
         "lb2": {
-            "power": 1237,
+            "power": 1236,
             "attack": 1089,
             "defense": 1435,
             "health": 2347
@@ -14365,6 +14588,7 @@ window.allHeroes =
         ],
         "source": "聯盟 - 飛蛾",
         "Release date": "2025-02-20",
+        "specialId": "dusk_till_dawn",
         "star": 5,
         "power": 1185,
         "attack": 1229,
@@ -14440,6 +14664,7 @@ window.allHeroes =
         ],
         "source": "傳奇召喚 - 月英",
         "Release date": "2017-12-01",
+        "specialId": "everlasting_wound",
         "star": 5,
         "power": 765,
         "attack": 725,
@@ -14508,6 +14733,7 @@ window.allHeroes =
         ],
         "source": "傳奇召喚 - 月英",
         "Release date": "2022-11-28",
+        "specialId": "arctic_wound",
         "star": 5,
         "power": 973,
         "attack": 928,
@@ -14527,7 +14753,7 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 225,
         "lb1": {
-            "power": 1039,
+            "power": 1038,
             "attack": 999,
             "defense": 947,
             "health": 2137
@@ -14573,6 +14799,7 @@ window.allHeroes =
         ],
         "source": "挑戰 - 石像鬼",
         "Release date": "2024-02-27",
+        "specialId": "one_hit_wonder",
         "star": 5,
         "power": 1048,
         "attack": 1079,
@@ -14597,7 +14824,7 @@ window.allHeroes =
             "health": 1904
         },
         "lb2": {
-            "power": 1264,
+            "power": 1263,
             "attack": 1330,
             "defense": 1315,
             "health": 2179
@@ -14648,6 +14875,7 @@ window.allHeroes =
         ],
         "source": "聯盟 - 火槍手",
         "Release date": "2022-12-14",
+        "specialId": "musketeers_mead",
         "star": 5,
         "power": 876,
         "attack": 852,
@@ -14667,7 +14895,7 @@ window.allHeroes =
         "costume_id": 0,
         "originalIndex": 227,
         "lb1": {
-            "power": 935,
+            "power": 934,
             "attack": 919,
             "defense": 890,
             "health": 1707
@@ -14715,6 +14943,7 @@ window.allHeroes =
         ],
         "source": "星界召喚",
         "Release date": "2024-12-22",
+        "specialId": "frozen_path",
         "star": 5,
         "power": 1157,
         "attack": 1223,
@@ -14741,7 +14970,7 @@ window.allHeroes =
             "health": 2122
         },
         "lb2": {
-            "power": 1399,
+            "power": 1398,
             "attack": 1508,
             "defense": 1450,
             "health": 2428
@@ -14793,6 +15022,7 @@ window.allHeroes =
         ],
         "source": "超級元素",
         "Release date": "2023-09-11",
+        "specialId": "pineapple_barbeque",
         "star": 5,
         "power": 954,
         "attack": 902,
@@ -14818,7 +15048,7 @@ window.allHeroes =
         "costume_id": 0,
         "originalIndex": 229,
         "lb1": {
-            "power": 1019,
+            "power": 1018,
             "attack": 972,
             "defense": 1043,
             "health": 1867
@@ -14863,6 +15093,7 @@ window.allHeroes =
         ],
         "source": "聯盟 - 騎士衝擊",
         "Release date": "2022-01-05",
+        "specialId": "echoes_of_pain",
         "star": 5,
         "power": 822,
         "attack": 821,
@@ -14884,7 +15115,7 @@ window.allHeroes =
             "health": 1505
         },
         "lb2": {
-            "power": 985,
+            "power": 984,
             "attack": 1013,
             "defense": 944,
             "health": 1722
@@ -14923,6 +15154,7 @@ window.allHeroes =
         ],
         "source": "傳奇召喚 - 月英",
         "Release date": "2020-06-01",
+        "specialId": "ice_treatment",
         "star": 5,
         "power": 773,
         "attack": 650,
@@ -14948,7 +15180,7 @@ window.allHeroes =
             "health": 1511
         },
         "lb2": {
-            "power": 925,
+            "power": 924,
             "attack": 802,
             "defense": 990,
             "health": 1729
@@ -14993,6 +15225,7 @@ window.allHeroes =
         ],
         "source": "挑戰節 II",
         "Release date": "2021-08-05",
+        "specialId": "cleansing_determination",
         "star": 5,
         "power": 808,
         "attack": 725,
@@ -15019,7 +15252,7 @@ window.allHeroes =
             "health": 1551
         },
         "lb2": {
-            "power": 969,
+            "power": 968,
             "attack": 894,
             "defense": 1008,
             "health": 1775
@@ -15066,6 +15299,7 @@ window.allHeroes =
         ],
         "source": "S1 - 經典",
         "Release date": "2017-03-01",
+        "specialId": "cloud_hammer",
         "star": 5,
         "power": 755,
         "attack": 644,
@@ -15081,7 +15315,7 @@ window.allHeroes =
         "costume_id": 0,
         "originalIndex": 233,
         "lb1": {
-            "power": 805,
+            "power": 804,
             "attack": 694,
             "defense": 881,
             "health": 1358
@@ -15123,6 +15357,7 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2020-01-01",
+        "specialId": "cloud_axe",
         "star": 5,
         "power": 849,
         "attack": 734,
@@ -15144,7 +15379,7 @@ window.allHeroes =
             "health": 1600
         },
         "lb2": {
-            "power": 1019,
+            "power": 1018,
             "attack": 906,
             "defense": 1144,
             "health": 1831
@@ -15181,6 +15416,7 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2023-09-04",
+        "specialId": "dread_hammer",
         "star": 5,
         "power": 965,
         "attack": 950,
@@ -15196,13 +15432,13 @@ window.allHeroes =
         "costume_id": 2,
         "originalIndex": 235,
         "lb1": {
-            "power": 1031,
+            "power": 1030,
             "attack": 1024,
             "defense": 915,
             "health": 2080
         },
         "lb2": {
-            "power": 1162,
+            "power": 1161,
             "attack": 1172,
             "defense": 1047,
             "health": 2380
@@ -15239,6 +15475,7 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2023-10-30",
+        "specialId": "adorable_hammer",
         "star": 5,
         "power": 1130,
         "attack": 1145,
@@ -15263,7 +15500,7 @@ window.allHeroes =
             "health": 2456
         },
         "lb2": {
-            "power": 1365,
+            "power": 1364,
             "attack": 1412,
             "defense": 1258,
             "health": 2810
@@ -15306,6 +15543,7 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2024-12-25",
+        "specialId": "glass_hammer",
         "star": 5,
         "power": 1235,
         "attack": 1296,
@@ -15330,7 +15568,7 @@ window.allHeroes =
             "health": 2579
         },
         "lb2": {
-            "power": 1495,
+            "power": 1494,
             "attack": 1599,
             "defense": 1417,
             "health": 2951
@@ -15374,6 +15612,7 @@ window.allHeroes =
         ],
         "source": "挑戰節 I",
         "Release date": "2019-12-01",
+        "specialId": "legerdemain",
         "star": 5,
         "power": 767,
         "attack": 733,
@@ -15462,6 +15701,7 @@ window.allHeroes =
         ],
         "source": "挑戰節 I",
         "Release date": "2022-06-16",
+        "specialId": "twilight_tricks",
         "star": 5,
         "power": 961,
         "attack": 918,
@@ -15491,7 +15731,7 @@ window.allHeroes =
             "health": 2063
         },
         "lb2": {
-            "power": 1156,
+            "power": 1155,
             "attack": 1131,
             "defense": 1088,
             "health": 2360
@@ -15544,6 +15784,7 @@ window.allHeroes =
         ],
         "source": "S4 - 地底荒野",
         "Release date": "2021-05-20",
+        "specialId": "vengeful_backstab",
         "star": 5,
         "power": 807,
         "attack": 793,
@@ -15615,6 +15856,7 @@ window.allHeroes =
         ],
         "source": "S4 - 地底荒野",
         "Release date": "2024-01-04",
+        "specialId": "artful_backstab",
         "star": 5,
         "power": 1021,
         "attack": 1054,
@@ -15690,11 +15932,12 @@ window.allHeroes =
         ],
         "source": "聖約召喚",
         "Release date": "2025-02-02",
+        "specialId": "ill_bring_you_back",
         "star": 5,
-        "power": 1106,
-        "attack": 1174,
-        "defense": 1213,
-        "health": 1648,
+        "power": 1158,
+        "attack": 1225,
+        "defense": 1262,
+        "health": 1796,
         "effects": [
             "對施法者施放完整移除。（完整移除移除目標的全部狀態效果、疊加與成長及枯萎效果。即使是無法驅散或淨化的狀態效果，也會移除）。",
             "施法者轉變為幽靈型態，持續 3 回合。（在變為幽靈型態時，角色無法獲得法力，且無法被特殊技能治療，但對普通攻擊、特殊技能攻擊、造成傷害的被動技能、狀態效果和疊加免疫。對新的成長與枯萎效果免疫）",
@@ -15711,15 +15954,15 @@ window.allHeroes =
         "costume_id": 0,
         "originalIndex": 242,
         "lb1": {
-            "power": 1182,
-            "attack": 1265,
-            "defense": 1307,
-            "health": 1776
+            "power": 1238,
+            "attack": 1320,
+            "defense": 1360,
+            "health": 1935
         },
         "lb2": {
-            "power": 1335,
-            "attack": 1447,
-            "defense": 1496,
+            "power": 1374,
+            "attack": 1511,
+            "defense": 1556,
             "health": 2032
         },
         "cn_skill_info": [
@@ -15764,6 +16007,7 @@ window.allHeroes =
         ],
         "source": "神秘 - 暗影召喚",
         "Release date": "2025-07-08",
+        "specialId": "deranged_existence",
         "star": 5,
         "power": 1218,
         "attack": 1184,
@@ -15782,7 +16026,7 @@ window.allHeroes =
         "costume_id": 0,
         "originalIndex": 243,
         "lb1": {
-            "power": 1304,
+            "power": 1303,
             "attack": 1276,
             "defense": 1343,
             "health": 2544
@@ -15831,6 +16075,7 @@ window.allHeroes =
         ],
         "source": "傳奇召喚",
         "Release date": "2023-11-29",
+        "specialId": "thousand_palm_strikes",
         "star": 5,
         "power": 982,
         "attack": 992,
@@ -15851,13 +16096,13 @@ window.allHeroes =
         "costume_id": 0,
         "originalIndex": 244,
         "lb1": {
-            "power": 1050,
+            "power": 1049,
             "attack": 1070,
             "defense": 1067,
             "health": 1795
         },
         "lb2": {
-            "power": 1183,
+            "power": 1182,
             "attack": 1224,
             "defense": 1221,
             "health": 2054
@@ -15901,6 +16146,7 @@ window.allHeroes =
         ],
         "source": "高塔 - 忍者",
         "Release date": "2024-11-19",
+        "specialId": "purifying_ki",
         "star": 5,
         "power": 1116,
         "attack": 1112,
@@ -15974,6 +16220,7 @@ window.allHeroes =
         ],
         "source": "怪獸島召喚",
         "Release date": "2024-08-13",
+        "specialId": "chitin_cage",
         "star": 5,
         "power": 1134,
         "attack": 1159,
@@ -15994,13 +16241,13 @@ window.allHeroes =
         "costume_id": 0,
         "originalIndex": 246,
         "lb1": {
-            "power": 1213,
+            "power": 1212,
             "attack": 1249,
             "defense": 1163,
             "health": 2322
         },
         "lb2": {
-            "power": 1370,
+            "power": 1369,
             "attack": 1430,
             "defense": 1330,
             "health": 2656
@@ -16041,6 +16288,7 @@ window.allHeroes =
         ],
         "source": "傳奇召喚 - 月英",
         "Release date": "2024-07-01",
+        "specialId": "conjure_the_azure_spirit",
         "star": 5,
         "power": 999,
         "attack": 1067,
@@ -16061,13 +16309,13 @@ window.allHeroes =
         "costume_id": 0,
         "originalIndex": 247,
         "lb1": {
-            "power": 1067,
+            "power": 1066,
             "attack": 1149,
             "defense": 1050,
             "health": 1756
         },
         "lb2": {
-            "power": 1203,
+            "power": 1202,
             "attack": 1315,
             "defense": 1201,
             "health": 2009
@@ -16113,6 +16361,7 @@ window.allHeroes =
         ],
         "source": "聯盟 - 騎士衝擊",
         "Release date": "2024-06-05",
+        "specialId": "gilded_antlers",
         "star": 5,
         "power": 1060,
         "attack": 1091,
@@ -16184,6 +16433,7 @@ window.allHeroes =
         ],
         "source": "S3 - 瓦爾哈拉",
         "Release date": "2020-06-25",
+        "specialId": "iceberg_crush",
         "star": 5,
         "power": 788,
         "attack": 696,
@@ -16255,6 +16505,7 @@ window.allHeroes =
         ],
         "source": "S3 - 瓦爾哈拉",
         "Release date": "2022-07-04",
+        "specialId": "iceberg_havoc",
         "star": 5,
         "power": 987,
         "attack": 938,
@@ -16327,6 +16578,7 @@ window.allHeroes =
         ],
         "source": "聖約召喚",
         "Release date": "2024-08-09",
+        "specialId": "searing_frost",
         "star": 5,
         "power": 1083,
         "attack": 1097,
@@ -16354,7 +16606,7 @@ window.allHeroes =
             "health": 2202
         },
         "lb2": {
-            "power": 1307,
+            "power": 1306,
             "attack": 1353,
             "defense": 1270,
             "health": 2519
@@ -16394,6 +16646,7 @@ window.allHeroes =
         ],
         "source": "超級元素",
         "Release date": "2024-10-30",
+        "specialId": "throwing_daggers",
         "star": 5,
         "power": 1145,
         "attack": 1205,
@@ -16419,7 +16672,7 @@ window.allHeroes =
             "health": 2100
         },
         "lb2": {
-            "power": 1383,
+            "power": 1382,
             "attack": 1485,
             "defense": 1435,
             "health": 2402
@@ -16461,6 +16714,7 @@ window.allHeroes =
         ],
         "source": "挑戰節 I",
         "Release date": "2019-12-01",
+        "specialId": "enchanted_edge",
         "star": 5,
         "power": 780,
         "attack": 756,
@@ -16482,7 +16736,7 @@ window.allHeroes =
             "health": 1400
         },
         "lb2": {
-            "power": 934,
+            "power": 933,
             "attack": 932,
             "defense": 922,
             "health": 1602
@@ -16532,6 +16786,7 @@ window.allHeroes =
         ],
         "source": "挑戰節 I",
         "Release date": "2021-12-15",
+        "specialId": "slaying_stake",
         "star": 5,
         "power": 976,
         "attack": 990,
@@ -16548,7 +16803,7 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 254,
         "lb1": {
-            "power": 1043,
+            "power": 1042,
             "attack": 1068,
             "defense": 978,
             "health": 1931
@@ -16600,6 +16855,7 @@ window.allHeroes =
         ],
         "source": "S5 - 沙丘",
         "Release date": "2022-04-21",
+        "specialId": "jaws_of_the_river",
         "star": 5,
         "power": 858,
         "attack": 859,
@@ -16619,7 +16875,7 @@ window.allHeroes =
         "costume_id": 0,
         "originalIndex": 255,
         "lb1": {
-            "power": 916,
+            "power": 915,
             "attack": 925,
             "defense": 805,
             "health": 1724
@@ -16662,6 +16918,7 @@ window.allHeroes =
         ],
         "source": "S5 - 沙丘",
         "Release date": "2024-07-13",
+        "specialId": "teeth_of_the_river",
         "star": 5,
         "power": 1201,
         "attack": 1212,
@@ -16684,13 +16941,13 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 256,
         "lb1": {
-            "power": 1284,
+            "power": 1283,
             "attack": 1305,
             "defense": 1195,
             "health": 2625
         },
         "lb2": {
-            "power": 1451,
+            "power": 1450,
             "attack": 1493,
             "defense": 1367,
             "health": 3003
@@ -16738,6 +16995,7 @@ window.allHeroes =
         ],
         "source": "三國召喚",
         "Release date": "2025-05-22",
+        "specialId": "righteous_strike",
         "star": 5,
         "power": 1203,
         "attack": 1236,
@@ -16815,6 +17073,7 @@ window.allHeroes =
         ],
         "source": "怪獸島召喚",
         "Release date": "2023-05-06",
+        "specialId": "icebound_ritual",
         "star": 5,
         "power": 948,
         "attack": 941,
@@ -16840,7 +17099,7 @@ window.allHeroes =
             "health": 1831
         },
         "lb2": {
-            "power": 1140,
+            "power": 1139,
             "attack": 1160,
             "defense": 1127,
             "health": 2095
@@ -16880,6 +17139,7 @@ window.allHeroes =
         ],
         "source": "星界召喚",
         "Release date": "2023-11-21",
+        "specialId": "scepter_of_constellations",
         "star": 5,
         "power": 1010,
         "attack": 1040,
@@ -16906,7 +17166,7 @@ window.allHeroes =
             "health": 1842
         },
         "lb2": {
-            "power": 1217,
+            "power": 1216,
             "attack": 1282,
             "defense": 1242,
             "health": 2108
@@ -16952,6 +17212,7 @@ window.allHeroes =
         ],
         "source": "傳奇召喚 - 月英",
         "Release date": "2023-05-01",
+        "specialId": "easy_breezy_aura",
         "star": 5,
         "power": 823,
         "attack": 801,
@@ -16978,7 +17239,7 @@ window.allHeroes =
             "health": 1576
         },
         "lb2": {
-            "power": 987,
+            "power": 986,
             "attack": 988,
             "defense": 942,
             "health": 1803
@@ -17023,6 +17284,7 @@ window.allHeroes =
         ],
         "source": "聯盟 - 飛蛾",
         "Release date": "2025-03-20",
+        "specialId": "bizarre_mist",
         "star": 5,
         "power": 1189,
         "attack": 1174,
@@ -17041,13 +17303,13 @@ window.allHeroes =
         "costume_id": 0,
         "originalIndex": 261,
         "lb1": {
-            "power": 1273,
+            "power": 1272,
             "attack": 1265,
             "defense": 1394,
             "health": 2246
         },
         "lb2": {
-            "power": 1438,
+            "power": 1437,
             "attack": 1447,
             "defense": 1595,
             "health": 2570
@@ -17091,6 +17353,7 @@ window.allHeroes =
         ],
         "source": "S2 - 亞特蘭蒂斯",
         "Release date": "2022-05-30",
+        "specialId": "amphibious_assault",
         "star": 5,
         "power": 835,
         "attack": 828,
@@ -17114,7 +17377,7 @@ window.allHeroes =
             "health": 1582
         },
         "lb2": {
-            "power": 1002,
+            "power": 1001,
             "attack": 1021,
             "defense": 949,
             "health": 1811
@@ -17158,6 +17421,7 @@ window.allHeroes =
         ],
         "source": "S6 - 深淵謎團",
         "Release date": "2023-06-07",
+        "specialId": "oceans_embrace",
         "star": 5,
         "power": 952,
         "attack": 896,
@@ -17190,7 +17454,7 @@ window.allHeroes =
             "health": 1804
         },
         "lb2": {
-            "power": 1145,
+            "power": 1144,
             "attack": 1104,
             "defense": 1229,
             "health": 2065
@@ -17233,6 +17497,7 @@ window.allHeroes =
         ],
         "source": "S6 - 深淵謎團",
         "Release date": "2024-08-24",
+        "specialId": "crystal_embrace",
         "star": 5,
         "power": 1184,
         "attack": 1201,
@@ -17259,7 +17524,7 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 264,
         "lb1": {
-            "power": 1267,
+            "power": 1266,
             "attack": 1294,
             "defense": 1319,
             "health": 2281
@@ -17309,6 +17574,7 @@ window.allHeroes =
         ],
         "source": "高塔 - 冥河",
         "Release date": "2023-02-08",
+        "specialId": "delay_the_inevitable",
         "star": 5,
         "power": 861,
         "attack": 815,
@@ -17336,13 +17602,13 @@ window.allHeroes =
         "costume_id": 0,
         "originalIndex": 265,
         "lb1": {
-            "power": 920,
+            "power": 919,
             "attack": 879,
             "defense": 919,
             "health": 1640
         },
         "lb2": {
-            "power": 1034,
+            "power": 1033,
             "attack": 1005,
             "defense": 1051,
             "health": 1877
@@ -17383,6 +17649,7 @@ window.allHeroes =
         ],
         "source": "挑戰節 II",
         "Release date": "2021-06-10",
+        "specialId": "multi_throw",
         "star": 5,
         "power": 803,
         "attack": 735,
@@ -17405,7 +17672,7 @@ window.allHeroes =
             "health": 1514
         },
         "lb2": {
-            "power": 962,
+            "power": 961,
             "attack": 906,
             "defense": 990,
             "health": 1732
@@ -17440,6 +17707,7 @@ window.allHeroes =
         ],
         "source": "S1 - 經典",
         "Release date": "2017-03-01",
+        "specialId": "icecold_finisher",
         "star": 5,
         "power": 757,
         "attack": 638,
@@ -17454,7 +17722,7 @@ window.allHeroes =
         "costume_id": 0,
         "originalIndex": 267,
         "lb1": {
-            "power": 807,
+            "power": 806,
             "attack": 688,
             "defense": 854,
             "health": 1443
@@ -17491,6 +17759,7 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2021-01-18",
+        "specialId": "summers_end",
         "star": 5,
         "power": 852,
         "attack": 781,
@@ -17512,7 +17781,7 @@ window.allHeroes =
             "health": 1674
         },
         "lb2": {
-            "power": 1023,
+            "power": 1022,
             "attack": 963,
             "defense": 1044,
             "health": 1916
@@ -17550,6 +17819,7 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2023-07-10",
+        "specialId": "glacial_crusher",
         "star": 5,
         "power": 968,
         "attack": 892,
@@ -17566,7 +17836,7 @@ window.allHeroes =
         "costume_id": 2,
         "originalIndex": 269,
         "lb1": {
-            "power": 1035,
+            "power": 1034,
             "attack": 961,
             "defense": 1042,
             "health": 2010
@@ -17612,6 +17882,7 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2024-09-08",
+        "specialId": "toon_finisher",
         "star": 5,
         "power": 1135,
         "attack": 1066,
@@ -17629,13 +17900,13 @@ window.allHeroes =
         "costume_id": 3,
         "originalIndex": 270,
         "lb1": {
-            "power": 1214,
+            "power": 1213,
             "attack": 1148,
             "defense": 1255,
             "health": 2395
         },
         "lb2": {
-            "power": 1371,
+            "power": 1370,
             "attack": 1314,
             "defense": 1436,
             "health": 2740
@@ -17676,6 +17947,7 @@ window.allHeroes =
         ],
         "source": "高塔 - 貓頭鷹",
         "Release date": "2023-12-20",
+        "specialId": "for_queen_and_hollow",
         "star": 5,
         "power": 985,
         "attack": 1005,
@@ -17700,7 +17972,7 @@ window.allHeroes =
             "health": 1771
         },
         "lb2": {
-            "power": 1186,
+            "power": 1185,
             "attack": 1239,
             "defense": 1226,
             "health": 2026
@@ -17750,6 +18022,7 @@ window.allHeroes =
         ],
         "source": "月活動 - 冬季",
         "Release date": "2022-12-01",
+        "specialId": "malevolent_toys",
         "star": 5,
         "power": 851,
         "attack": 852,
@@ -17773,7 +18046,7 @@ window.allHeroes =
             "health": 1556
         },
         "lb2": {
-            "power": 1021,
+            "power": 1020,
             "attack": 1051,
             "defense": 995,
             "health": 1780
@@ -17819,6 +18092,7 @@ window.allHeroes =
         ],
         "source": "怪獸島召喚",
         "Release date": "2023-07-27",
+        "specialId": "protective_stance",
         "star": 5,
         "power": 948,
         "attack": 896,
@@ -17838,13 +18112,13 @@ window.allHeroes =
         "costume_id": 0,
         "originalIndex": 273,
         "lb1": {
-            "power": 1013,
+            "power": 1012,
             "attack": 965,
             "defense": 1027,
             "health": 1873
         },
         "lb2": {
-            "power": 1141,
+            "power": 1140,
             "attack": 1104,
             "defense": 1176,
             "health": 2143
@@ -17890,6 +18164,7 @@ window.allHeroes =
         ],
         "source": "高塔 - 魔法",
         "Release date": "2023-08-23",
+        "specialId": "scroll_of_equations",
         "star": 5,
         "power": 936,
         "attack": 894,
@@ -17914,13 +18189,13 @@ window.allHeroes =
         "costume_id": 0,
         "originalIndex": 274,
         "lb1": {
-            "power": 999,
+            "power": 998,
             "attack": 963,
             "defense": 987,
             "health": 1859
         },
         "lb2": {
-            "power": 1125,
+            "power": 1124,
             "attack": 1102,
             "defense": 1129,
             "health": 2127
@@ -17966,6 +18241,7 @@ window.allHeroes =
         ],
         "source": "傳奇召喚 - 月英",
         "Release date": "2020-01-01",
+        "specialId": "aquatic_outbreak",
         "star": 5,
         "power": 771,
         "attack": 743,
@@ -17986,7 +18262,7 @@ window.allHeroes =
         "costume_id": 0,
         "originalIndex": 275,
         "lb1": {
-            "power": 822,
+            "power": 821,
             "attack": 801,
             "defense": 785,
             "health": 1405
@@ -18038,6 +18314,7 @@ window.allHeroes =
         ],
         "source": "野地召喚",
         "Release date": "2024-08-31",
+        "specialId": "red_shoes",
         "star": 5,
         "power": 1137,
         "attack": 1174,
@@ -18058,13 +18335,13 @@ window.allHeroes =
         "costume_id": 0,
         "originalIndex": 276,
         "lb1": {
-            "power": 1216,
+            "power": 1215,
             "attack": 1265,
             "defense": 1156,
             "health": 2315
         },
         "lb2": {
-            "power": 1373,
+            "power": 1372,
             "attack": 1447,
             "defense": 1323,
             "health": 2649
@@ -18105,6 +18382,7 @@ window.allHeroes =
         ],
         "source": "挑戰 - 石像鬼",
         "Release date": "2024-10-17",
+        "specialId": "cold_fire",
         "star": 5,
         "power": 1107,
         "attack": 1178,
@@ -18126,7 +18404,7 @@ window.allHeroes =
         "costume_id": 0,
         "originalIndex": 277,
         "lb1": {
-            "power": 1184,
+            "power": 1183,
             "attack": 1269,
             "defense": 1163,
             "health": 2064
@@ -18180,6 +18458,7 @@ window.allHeroes =
         ],
         "source": "怪獸島召喚",
         "Release date": "2022-11-12",
+        "specialId": "harpoon_sentry",
         "star": 5,
         "power": 887,
         "attack": 863,
@@ -18200,7 +18479,7 @@ window.allHeroes =
         "costume_id": 0,
         "originalIndex": 278,
         "lb1": {
-            "power": 947,
+            "power": 946,
             "attack": 930,
             "defense": 885,
             "health": 1773
@@ -18247,6 +18526,7 @@ window.allHeroes =
         ],
         "source": "聖約召喚",
         "Release date": "2024-08-20",
+        "specialId": "never_ending_winter",
         "star": 5,
         "power": 1136,
         "attack": 1093,
@@ -18265,7 +18545,7 @@ window.allHeroes =
         "costume_id": 0,
         "originalIndex": 279,
         "lb1": {
-            "power": 1215,
+            "power": 1214,
             "attack": 1178,
             "defense": 1267,
             "health": 2306
@@ -18315,6 +18595,7 @@ window.allHeroes =
         ],
         "source": "月活動 - 冬季",
         "Release date": "2023-12-01",
+        "specialId": "blue_shroom_wand",
         "star": 5,
         "power": 949,
         "attack": 988,
@@ -18382,6 +18663,7 @@ window.allHeroes =
         ],
         "source": "超級元素",
         "Release date": "2023-01-30",
+        "specialId": "great_frost_axe",
         "star": 5,
         "power": 901,
         "attack": 879,
@@ -18453,6 +18735,7 @@ window.allHeroes =
         ],
         "source": "高塔 - 忍者",
         "Release date": "2021-11-10",
+        "specialId": "wall_of_ki",
         "star": 5,
         "power": 818,
         "attack": 735,
@@ -18485,7 +18768,7 @@ window.allHeroes =
             "health": 1547
         },
         "lb2": {
-            "power": 980,
+            "power": 979,
             "attack": 906,
             "defense": 1036,
             "health": 1770
@@ -18521,6 +18804,7 @@ window.allHeroes =
         ],
         "source": "S1 - 經典",
         "Release date": "2017-03-01",
+        "specialId": "hacking_attack",
         "star": 1,
         "power": 209,
         "attack": 209,
@@ -18552,6 +18836,7 @@ window.allHeroes =
         ],
         "source": "S1 - 經典",
         "Release date": "2017-03-01",
+        "specialId": "axe_throw",
         "star": 1,
         "power": 210,
         "attack": 193,
@@ -18583,6 +18868,7 @@ window.allHeroes =
         ],
         "source": "S1 - 經典",
         "Release date": "2017-03-01",
+        "specialId": "tackle",
         "star": 2,
         "power": 335,
         "attack": 295,
@@ -18614,6 +18900,7 @@ window.allHeroes =
         ],
         "source": "S1 - 經典",
         "Release date": "2017-03-01",
+        "specialId": "mark_of_ivy",
         "star": 2,
         "power": 335,
         "attack": 328,
@@ -18645,6 +18932,7 @@ window.allHeroes =
         ],
         "source": "S1 - 經典",
         "Release date": "2017-03-01",
+        "specialId": "focused_shot",
         "star": 2,
         "power": 333,
         "attack": 358,
@@ -18678,6 +18966,7 @@ window.allHeroes =
         ],
         "source": "挑戰 - 眾神狂歡節",
         "Release date": "2023-07-13",
+        "specialId": "bewitched_daggers",
         "star": 3,
         "power": 488,
         "attack": 505,
@@ -18695,7 +18984,7 @@ window.allHeroes =
         "costume_id": 0,
         "originalIndex": 288,
         "lb1": {
-            "power": 546,
+            "power": 545,
             "attack": 573,
             "defense": 545,
             "health": 912
@@ -18737,6 +19026,7 @@ window.allHeroes =
         ],
         "source": "S1 - 經典",
         "Release date": "2017-03-01",
+        "specialId": "calming_mist",
         "star": 3,
         "power": 441,
         "attack": 425,
@@ -18794,6 +19084,7 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2020-05-18",
+        "specialId": "tranquil_mist",
         "star": 3,
         "power": 471,
         "attack": 446,
@@ -18809,7 +19100,7 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 290,
         "lb1": {
-            "power": 527,
+            "power": 526,
             "attack": 505,
             "defense": 532,
             "health": 970
@@ -18853,6 +19144,7 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2024-04-08",
+        "specialId": "toon_mist",
         "star": 3,
         "power": 504,
         "attack": 509,
@@ -18916,6 +19208,7 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2025-04-23",
+        "specialId": "glass_mist",
         "star": 3,
         "power": 513,
         "attack": 521,
@@ -18934,13 +19227,13 @@ window.allHeroes =
         "costume_id": 3,
         "originalIndex": 292,
         "lb1": {
-            "power": 574,
+            "power": 573,
             "attack": 592,
             "defense": 570,
             "health": 1013
         },
         "lb2": {
-            "power": 694,
+            "power": 693,
             "attack": 731,
             "defense": 705,
             "health": 1252
@@ -18977,6 +19270,7 @@ window.allHeroes =
         ],
         "source": "S1 - 經典",
         "Release date": "2017-03-01",
+        "specialId": "entangling_shot",
         "star": 3,
         "power": 444,
         "attack": 470,
@@ -18992,7 +19286,7 @@ window.allHeroes =
         "costume_id": 0,
         "originalIndex": 293,
         "lb1": {
-            "power": 496,
+            "power": 495,
             "attack": 533,
             "defense": 482,
             "health": 780
@@ -19034,6 +19328,7 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2020-05-18",
+        "specialId": "crushing_shot",
         "star": 3,
         "power": 473,
         "attack": 466,
@@ -19049,7 +19344,7 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 294,
         "lb1": {
-            "power": 530,
+            "power": 529,
             "attack": 528,
             "defense": 549,
             "health": 900
@@ -19092,6 +19387,7 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2024-05-06",
+        "specialId": "adorable_entangling_shot",
         "star": 3,
         "power": 506,
         "attack": 542,
@@ -19116,7 +19412,7 @@ window.allHeroes =
             "health": 936
         },
         "lb2": {
-            "power": 685,
+            "power": 684,
             "attack": 761,
             "defense": 685,
             "health": 1155
@@ -19159,6 +19455,7 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2025-05-10",
+        "specialId": "glass_entangling_shot",
         "star": 3,
         "power": 515,
         "attack": 556,
@@ -19177,7 +19474,7 @@ window.allHeroes =
         "costume_id": 3,
         "originalIndex": 296,
         "lb1": {
-            "power": 576,
+            "power": 575,
             "attack": 630,
             "defense": 559,
             "health": 956
@@ -19222,6 +19519,7 @@ window.allHeroes =
         ],
         "source": "S1 - 經典",
         "Release date": "2017-03-01",
+        "specialId": "natures_blessing",
         "star": 3,
         "power": 440,
         "attack": 446,
@@ -19271,6 +19569,7 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2020-01-01",
+        "specialId": "jungle_fury",
         "star": 3,
         "power": 469,
         "attack": 475,
@@ -19291,7 +19590,7 @@ window.allHeroes =
             "health": 859
         },
         "lb2": {
-            "power": 634,
+            "power": 633,
             "attack": 666,
             "defense": 668,
             "health": 1061
@@ -19320,6 +19619,7 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2024-01-22",
+        "specialId": "toon_fury",
         "star": 3,
         "power": 502,
         "attack": 507,
@@ -19336,13 +19636,13 @@ window.allHeroes =
         "costume_id": 2,
         "originalIndex": 299,
         "lb1": {
-            "power": 562,
+            "power": 561,
             "attack": 575,
             "defense": 554,
             "health": 1002
         },
         "lb2": {
-            "power": 679,
+            "power": 678,
             "attack": 710,
             "defense": 685,
             "health": 1238
@@ -19374,6 +19674,7 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2025-03-11",
+        "specialId": "glass_fury",
         "star": 3,
         "power": 510,
         "attack": 472,
@@ -19432,6 +19733,7 @@ window.allHeroes =
         ],
         "source": "S3 - 瓦爾哈拉",
         "Release date": "2020-02-27",
+        "specialId": "hollow_boast",
         "star": 3,
         "power": 463,
         "attack": 436,
@@ -19453,7 +19755,7 @@ window.allHeroes =
         "costume_id": 0,
         "originalIndex": 301,
         "lb1": {
-            "power": 517,
+            "power": 516,
             "attack": 494,
             "defense": 506,
             "health": 981
@@ -19501,6 +19803,7 @@ window.allHeroes =
         ],
         "source": "S1 - 經典",
         "Release date": "2017-03-01",
+        "specialId": "slash_of_four_blades",
         "star": 3,
         "power": 444,
         "attack": 464,
@@ -19516,13 +19819,13 @@ window.allHeroes =
         "costume_id": 0,
         "originalIndex": 302,
         "lb1": {
-            "power": 495,
+            "power": 494,
             "attack": 525,
             "defense": 508,
             "health": 740
         },
         "lb2": {
-            "power": 596,
+            "power": 595,
             "attack": 649,
             "defense": 627,
             "health": 915
@@ -19558,6 +19861,7 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2020-05-18",
+        "specialId": "stab_of_four_blades",
         "star": 3,
         "power": 473,
         "attack": 514,
@@ -19573,7 +19877,7 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 303,
         "lb1": {
-            "power": 529,
+            "power": 528,
             "attack": 583,
             "defense": 522,
             "health": 810
@@ -19616,6 +19920,7 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2024-06-28",
+        "specialId": "adorable_four_blades",
         "star": 3,
         "power": 506,
         "attack": 537,
@@ -19634,13 +19939,13 @@ window.allHeroes =
         "costume_id": 2,
         "originalIndex": 304,
         "lb1": {
-            "power": 566,
+            "power": 565,
             "attack": 608,
             "defense": 584,
             "health": 888
         },
         "lb2": {
-            "power": 684,
+            "power": 683,
             "attack": 752,
             "defense": 721,
             "health": 1098
@@ -19679,6 +19984,7 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2025-07-16",
+        "specialId": "glass_four_blades",
         "star": 3,
         "power": 515,
         "attack": 620,
@@ -19703,7 +20009,7 @@ window.allHeroes =
             "health": 924
         },
         "lb2": {
-            "power": 696,
+            "power": 695,
             "attack": 868,
             "defense": 597,
             "health": 1143
@@ -19741,6 +20047,7 @@ window.allHeroes =
         ],
         "source": "星界召喚",
         "Release date": "2025-06-04",
+        "specialId": "astral_pastries",
         "star": 3,
         "power": 509,
         "attack": 505,
@@ -19760,7 +20067,7 @@ window.allHeroes =
         "costume_id": 0,
         "originalIndex": 306,
         "lb1": {
-            "power": 569,
+            "power": 568,
             "attack": 573,
             "defense": 612,
             "health": 941
@@ -19808,6 +20115,7 @@ window.allHeroes =
         ],
         "source": "高塔 - 魔法",
         "Release date": "2021-09-15",
+        "specialId": "voluminous_vigor",
         "star": 3,
         "power": 479,
         "attack": 462,
@@ -19830,13 +20138,13 @@ window.allHeroes =
         "costume_id": 0,
         "originalIndex": 307,
         "lb1": {
-            "power": 535,
+            "power": 534,
             "attack": 524,
             "defense": 571,
             "health": 902
         },
         "lb2": {
-            "power": 645,
+            "power": 644,
             "attack": 647,
             "defense": 705,
             "health": 1114
@@ -19875,6 +20183,7 @@ window.allHeroes =
         ],
         "source": "S5 - 沙丘",
         "Release date": "2022-04-21",
+        "specialId": "plentiful_harvest",
         "star": 3,
         "power": 483,
         "attack": 465,
@@ -19895,13 +20204,13 @@ window.allHeroes =
         "costume_id": 0,
         "originalIndex": 308,
         "lb1": {
-            "power": 540,
+            "power": 539,
             "attack": 527,
             "defense": 555,
             "health": 963
         },
         "lb2": {
-            "power": 652,
+            "power": 651,
             "attack": 652,
             "defense": 686,
             "health": 1190
@@ -19937,6 +20246,7 @@ window.allHeroes =
         ],
         "source": "S5 - 沙丘",
         "Release date": "2024-09-07",
+        "specialId": "plentiful_minerals",
         "star": 3,
         "power": 495,
         "attack": 456,
@@ -20002,6 +20312,7 @@ window.allHeroes =
         ],
         "source": "高塔 - 貓頭鷹",
         "Release date": "2023-12-20",
+        "specialId": "jack_of_owl_trades",
         "star": 3,
         "power": 489,
         "attack": 571,
@@ -20018,7 +20329,7 @@ window.allHeroes =
         "costume_id": 0,
         "originalIndex": 310,
         "lb1": {
-            "power": 547,
+            "power": 546,
             "attack": 648,
             "defense": 482,
             "health": 858
@@ -20062,6 +20373,7 @@ window.allHeroes =
         ],
         "source": "怪獸島召喚",
         "Release date": "2022-11-12",
+        "specialId": "bone_arrow",
         "star": 3,
         "power": 484,
         "attack": 521,
@@ -20123,6 +20435,7 @@ window.allHeroes =
         ],
         "source": "S1 - 經典",
         "Release date": "2017-03-01",
+        "specialId": "have_faith",
         "star": 3,
         "power": 446,
         "attack": 458,
@@ -20138,13 +20451,13 @@ window.allHeroes =
         "costume_id": 0,
         "originalIndex": 312,
         "lb1": {
-            "power": 498,
+            "power": 497,
             "attack": 520,
             "defense": 510,
             "health": 772
         },
         "lb2": {
-            "power": 600,
+            "power": 599,
             "attack": 642,
             "defense": 630,
             "health": 954
@@ -20180,6 +20493,7 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2020-05-18",
+        "specialId": "have_curiosity",
         "star": 3,
         "power": 476,
         "attack": 482,
@@ -20195,13 +20509,13 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 313,
         "lb1": {
-            "power": 533,
+            "power": 532,
             "attack": 547,
             "defense": 541,
             "health": 891
         },
         "lb2": {
-            "power": 643,
+            "power": 642,
             "attack": 676,
             "defense": 668,
             "health": 1102
@@ -20237,6 +20551,7 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2024-05-31",
+        "specialId": "adorable_have_faith",
         "star": 3,
         "power": 509,
         "attack": 526,
@@ -20260,7 +20575,7 @@ window.allHeroes =
             "health": 926
         },
         "lb2": {
-            "power": 688,
+            "power": 687,
             "attack": 738,
             "defense": 730,
             "health": 1144
@@ -20298,6 +20613,7 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2025-06-18",
+        "specialId": "glass_have_faith",
         "star": 3,
         "power": 517,
         "attack": 548,
@@ -20360,6 +20676,7 @@ window.allHeroes =
         ],
         "source": "三國召喚",
         "Release date": "2023-02-27",
+        "specialId": "enchanted_axe_swing",
         "star": 3,
         "power": 486,
         "attack": 519,
@@ -20423,6 +20740,7 @@ window.allHeroes =
         ],
         "source": "挑戰節 I",
         "Release date": "2021-12-15",
+        "specialId": "sharp_knife",
         "star": 3,
         "power": 481,
         "attack": 493,
@@ -20438,7 +20756,7 @@ window.allHeroes =
         "costume_id": 0,
         "originalIndex": 317,
         "lb1": {
-            "power": 538,
+            "power": 537,
             "attack": 559,
             "defense": 512,
             "health": 957
@@ -20482,6 +20800,7 @@ window.allHeroes =
         ],
         "source": "月活動 - 莫洛維亞",
         "Release date": "2022-10-03",
+        "specialId": "sugar_rush",
         "star": 3,
         "power": 483,
         "attack": 500,
@@ -20500,7 +20819,7 @@ window.allHeroes =
         "costume_id": 0,
         "originalIndex": 318,
         "lb1": {
-            "power": 540,
+            "power": 539,
             "attack": 567,
             "defense": 529,
             "health": 916
@@ -20547,6 +20866,7 @@ window.allHeroes =
         ],
         "source": "S4 - 地底荒野",
         "Release date": "2021-03-25",
+        "specialId": "elders_remedy",
         "star": 3,
         "power": 478,
         "attack": 448,
@@ -20564,13 +20884,13 @@ window.allHeroes =
         "costume_id": 0,
         "originalIndex": 319,
         "lb1": {
-            "power": 534,
+            "power": 533,
             "attack": 508,
             "defense": 583,
             "health": 912
         },
         "lb2": {
-            "power": 644,
+            "power": 643,
             "attack": 627,
             "defense": 720,
             "health": 1126
@@ -20606,6 +20926,7 @@ window.allHeroes =
         ],
         "source": "S4 - 地底荒野",
         "Release date": "2023-11-09",
+        "specialId": "gardeners_remedy",
         "star": 3,
         "power": 488,
         "attack": 459,
@@ -20629,7 +20950,7 @@ window.allHeroes =
             "health": 964
         },
         "lb2": {
-            "power": 659,
+            "power": 658,
             "attack": 642,
             "defense": 722,
             "health": 1191
@@ -20662,6 +20983,7 @@ window.allHeroes =
         ],
         "source": "S3 - 瓦爾哈拉",
         "Release date": "2020-05-28",
+        "specialId": "travelers_snack",
         "star": 3,
         "power": 464,
         "attack": 403,
@@ -20677,7 +20999,7 @@ window.allHeroes =
         "costume_id": 0,
         "originalIndex": 321,
         "lb1": {
-            "power": 519,
+            "power": 518,
             "attack": 457,
             "defense": 695,
             "health": 707
@@ -20724,6 +21046,7 @@ window.allHeroes =
         ],
         "source": "月活動 - 飛沙帝國",
         "Release date": "2018-06-21",
+        "specialId": "horses_curse",
         "star": 3,
         "power": 448,
         "attack": 540,
@@ -20741,13 +21064,13 @@ window.allHeroes =
         "costume_id": 0,
         "originalIndex": 322,
         "lb1": {
-            "power": 500,
+            "power": 499,
             "attack": 612,
             "defense": 443,
             "health": 689
         },
         "lb2": {
-            "power": 602,
+            "power": 601,
             "attack": 756,
             "defense": 547,
             "health": 851
@@ -20784,6 +21107,7 @@ window.allHeroes =
         ],
         "source": "S1 - 經典",
         "Release date": "2017-03-01",
+        "specialId": "ramming_rush",
         "star": 3,
         "power": 447,
         "attack": 453,
@@ -20804,7 +21128,7 @@ window.allHeroes =
             "health": 866
         },
         "lb2": {
-            "power": 601,
+            "power": 600,
             "attack": 635,
             "defense": 584,
             "health": 1070
@@ -20835,6 +21159,7 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2020-05-18",
+        "specialId": "bolstering_rush",
         "star": 3,
         "power": 476,
         "attack": 486,
@@ -20891,6 +21216,7 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2024-07-16",
+        "specialId": "adorable_ramming_rush_isshtak",
         "star": 3,
         "power": 510,
         "attack": 483,
@@ -20951,6 +21277,7 @@ window.allHeroes =
         ],
         "source": "三國召喚",
         "Release date": "2022-03-14",
+        "specialId": "spear_of_shu",
         "star": 3,
         "power": 482,
         "attack": 500,
@@ -20967,7 +21294,7 @@ window.allHeroes =
         "costume_id": 0,
         "originalIndex": 326,
         "lb1": {
-            "power": 539,
+            "power": 538,
             "attack": 567,
             "defense": 549,
             "health": 868
@@ -21014,6 +21341,7 @@ window.allHeroes =
         ],
         "source": "S2 - 亞特蘭蒂斯",
         "Release date": "2019-08-01",
+        "specialId": "frightening_pinch",
         "star": 3,
         "power": 448,
         "attack": 474,
@@ -21035,7 +21363,7 @@ window.allHeroes =
             "health": 784
         },
         "lb2": {
-            "power": 602,
+            "power": 601,
             "attack": 664,
             "defense": 603,
             "health": 968
@@ -21071,6 +21399,7 @@ window.allHeroes =
         ],
         "source": "S2 - 亞特蘭蒂斯",
         "Release date": "2022-05-02",
+        "specialId": "atlantean_charge",
         "star": 3,
         "power": 462,
         "attack": 500,
@@ -21086,7 +21415,7 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 328,
         "lb1": {
-            "power": 516,
+            "power": 515,
             "attack": 567,
             "defense": 496,
             "health": 811
@@ -21126,6 +21455,7 @@ window.allHeroes =
         ],
         "source": "S2 - 亞特蘭蒂斯",
         "Release date": "2019-08-01",
+        "specialId": "bruiser_bros",
         "star": 3,
         "power": 450,
         "attack": 634,
@@ -21145,13 +21475,13 @@ window.allHeroes =
         "costume_id": 0,
         "originalIndex": 329,
         "lb1": {
-            "power": 502,
+            "power": 501,
             "attack": 719,
             "defense": 423,
             "health": 476
         },
         "lb2": {
-            "power": 605,
+            "power": 604,
             "attack": 888,
             "defense": 523,
             "health": 589
@@ -21187,6 +21517,7 @@ window.allHeroes =
         ],
         "source": "挑戰節 II",
         "Release date": "2021-08-05",
+        "specialId": "dual_axes",
         "star": 3,
         "power": 478,
         "attack": 455,
@@ -21206,13 +21537,13 @@ window.allHeroes =
         "costume_id": 0,
         "originalIndex": 330,
         "lb1": {
-            "power": 535,
+            "power": 534,
             "attack": 516,
             "defense": 579,
             "health": 906
         },
         "lb2": {
-            "power": 645,
+            "power": 644,
             "attack": 637,
             "defense": 715,
             "health": 1119
@@ -21260,6 +21591,7 @@ window.allHeroes =
         ],
         "source": "高塔 - 魔法",
         "Release date": "2023-05-03",
+        "specialId": "ancient_ritual",
         "star": 3,
         "power": 486,
         "attack": 516,
@@ -21289,7 +21621,7 @@ window.allHeroes =
             "health": 752
         },
         "lb2": {
-            "power": 656,
+            "power": 655,
             "attack": 722,
             "defense": 742,
             "health": 929
@@ -21330,6 +21662,7 @@ window.allHeroes =
         ],
         "source": "挑戰節 I",
         "Release date": "2019-12-01",
+        "specialId": "camouflage_foliage",
         "star": 3,
         "power": 455,
         "attack": 351,
@@ -21352,7 +21685,7 @@ window.allHeroes =
             "health": 1006
         },
         "lb2": {
-            "power": 612,
+            "power": 611,
             "attack": 491,
             "defense": 718,
             "health": 1243
@@ -21385,6 +21718,7 @@ window.allHeroes =
         ],
         "source": "挑戰節 II",
         "Release date": "2021-06-10",
+        "specialId": "nasty_hammer",
         "star": 3,
         "power": 477,
         "attack": 554,
@@ -21444,6 +21778,7 @@ window.allHeroes =
         ],
         "source": "哥布林召喚",
         "Release date": "2024-04-15",
+        "specialId": "situational_awareness",
         "star": 3,
         "power": 494,
         "attack": 543,
@@ -21469,7 +21804,7 @@ window.allHeroes =
             "health": 807
         },
         "lb2": {
-            "power": 667,
+            "power": 666,
             "attack": 761,
             "defense": 700,
             "health": 997
@@ -21511,6 +21846,7 @@ window.allHeroes =
         ],
         "source": "聯盟 - 騎士衝擊",
         "Release date": "2024-01-10",
+        "specialId": "paws_or_claws",
         "star": 3,
         "power": 490,
         "attack": 451,
@@ -21539,7 +21875,7 @@ window.allHeroes =
             "health": 1087
         },
         "lb2": {
-            "power": 661,
+            "power": 660,
             "attack": 632,
             "defense": 666,
             "health": 1343
@@ -21588,6 +21924,7 @@ window.allHeroes =
         ],
         "source": "挑戰節 II",
         "Release date": "2022-12-01",
+        "specialId": "tambourine_solo",
         "star": 3,
         "power": 485,
         "attack": 493,
@@ -21606,7 +21943,7 @@ window.allHeroes =
         "costume_id": 0,
         "originalIndex": 336,
         "lb1": {
-            "power": 542,
+            "power": 541,
             "attack": 559,
             "defense": 565,
             "health": 878
@@ -21648,6 +21985,7 @@ window.allHeroes =
         ],
         "source": "月活動 - 戀愛季節",
         "Release date": "2023-02-14",
+        "specialId": "punishing_shot",
         "star": 3,
         "power": 486,
         "attack": 547,
@@ -21671,7 +22009,7 @@ window.allHeroes =
             "health": 791
         },
         "lb2": {
-            "power": 656,
+            "power": 655,
             "attack": 766,
             "defense": 664,
             "health": 978
@@ -21709,6 +22047,7 @@ window.allHeroes =
         ],
         "source": "超級元素",
         "Release date": "2023-08-14",
+        "specialId": "enchanted_symphony",
         "star": 4,
         "power": 688,
         "attack": 705,
@@ -21733,7 +22072,7 @@ window.allHeroes =
         "costume_id": 0,
         "originalIndex": 338,
         "lb1": {
-            "power": 741,
+            "power": 740,
             "attack": 766,
             "defense": 704,
             "health": 1362
@@ -21780,6 +22119,7 @@ window.allHeroes =
         ],
         "source": "S3 - 瓦爾哈拉",
         "Release date": "2020-05-28",
+        "specialId": "shadow_sweep",
         "star": 4,
         "power": 662,
         "attack": 626,
@@ -21841,6 +22181,7 @@ window.allHeroes =
         ],
         "source": "S3 - 瓦爾哈拉",
         "Release date": "2023-03-13",
+        "specialId": "shadow_lunge",
         "star": 4,
         "power": 684,
         "attack": 667,
@@ -21857,13 +22198,13 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 340,
         "lb1": {
-            "power": 737,
+            "power": 736,
             "attack": 725,
             "defense": 689,
             "health": 1465
         },
         "lb2": {
-            "power": 841,
+            "power": 840,
             "attack": 840,
             "defense": 799,
             "health": 1699
@@ -21911,6 +22252,7 @@ window.allHeroes =
         ],
         "source": "高塔 - 魔法",
         "Release date": "2021-09-15",
+        "specialId": "high_noon_sun",
         "star": 4,
         "power": 678,
         "attack": 650,
@@ -21933,7 +22275,7 @@ window.allHeroes =
         "costume_id": 0,
         "originalIndex": 341,
         "lb1": {
-            "power": 730,
+            "power": 729,
             "attack": 706,
             "defense": 695,
             "health": 1450
@@ -21979,6 +22321,7 @@ window.allHeroes =
         ],
         "source": "高塔 - 冥河",
         "Release date": "2022-09-21",
+        "specialId": "fruits_of_labor",
         "star": 4,
         "power": 685,
         "attack": 690,
@@ -22052,6 +22395,7 @@ window.allHeroes =
         ],
         "source": "S3 - 瓦爾哈拉",
         "Release date": "2020-02-27",
+        "specialId": "valkyrie_defense",
         "star": 4,
         "power": 660,
         "attack": 684,
@@ -22117,6 +22461,7 @@ window.allHeroes =
         ],
         "source": "月活動 - 冬季",
         "Release date": "2020-12-01",
+        "specialId": "perilous_gift",
         "star": 4,
         "power": 649,
         "attack": 531,
@@ -22182,6 +22527,7 @@ window.allHeroes =
         ],
         "source": "S1 - 經典",
         "Release date": "2017-03-01",
+        "specialId": "piercing_strike",
         "star": 4,
         "power": 643,
         "attack": 635,
@@ -22197,13 +22543,13 @@ window.allHeroes =
         "costume_id": 0,
         "originalIndex": 345,
         "lb1": {
-            "power": 692,
+            "power": 691,
             "attack": 690,
             "defense": 692,
             "health": 1226
         },
         "lb2": {
-            "power": 789,
+            "power": 788,
             "attack": 800,
             "defense": 803,
             "health": 1421
@@ -22239,6 +22585,7 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2020-05-18",
+        "specialId": "cleansing_strike",
         "star": 4,
         "power": 688,
         "attack": 683,
@@ -22254,13 +22601,13 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 346,
         "lb1": {
-            "power": 741,
+            "power": 740,
             "attack": 743,
             "defense": 736,
             "health": 1355
         },
         "lb2": {
-            "power": 845,
+            "power": 844,
             "attack": 861,
             "defense": 852,
             "health": 1571
@@ -22297,6 +22644,7 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2022-12-26",
+        "specialId": "valorant_strike",
         "star": 4,
         "power": 734,
         "attack": 745,
@@ -22319,7 +22667,7 @@ window.allHeroes =
             "health": 1456
         },
         "lb2": {
-            "power": 904,
+            "power": 903,
             "attack": 938,
             "defense": 907,
             "health": 1689
@@ -22361,6 +22709,7 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2024-01-22",
+        "specialId": "toontastic_strike",
         "star": 4,
         "power": 746,
         "attack": 760,
@@ -22379,13 +22728,13 @@ window.allHeroes =
         "costume_id": 3,
         "originalIndex": 348,
         "lb1": {
-            "power": 805,
+            "power": 804,
             "attack": 826,
             "defense": 807,
             "health": 1461
         },
         "lb2": {
-            "power": 920,
+            "power": 919,
             "attack": 958,
             "defense": 936,
             "health": 1694
@@ -22429,6 +22778,7 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2025-01-14",
+        "specialId": "glass_strike_caedmon",
         "star": 4,
         "power": 759,
         "attack": 775,
@@ -22454,7 +22804,7 @@ window.allHeroes =
             "health": 1490
         },
         "lb2": {
-            "power": 934,
+            "power": 933,
             "attack": 976,
             "defense": 948,
             "health": 1728
@@ -22502,6 +22852,7 @@ window.allHeroes =
         ],
         "source": "聯盟 - 騎士衝擊",
         "Release date": "2022-01-05",
+        "specialId": "sonorous_spear",
         "star": 4,
         "power": 681,
         "attack": 552,
@@ -22562,6 +22913,7 @@ window.allHeroes =
         ],
         "source": "超級元素",
         "Release date": "2025-07-04",
+        "specialId": "fruit_cocktail",
         "star": 4,
         "power": 747,
         "attack": 739,
@@ -22624,6 +22976,7 @@ window.allHeroes =
         ],
         "source": "S2 - 亞特蘭蒂斯",
         "Release date": "2019-08-01",
+        "specialId": "empowering_bash",
         "star": 4,
         "power": 647,
         "attack": 618,
@@ -22640,13 +22993,13 @@ window.allHeroes =
         "costume_id": 0,
         "originalIndex": 352,
         "lb1": {
-            "power": 697,
+            "power": 696,
             "attack": 671,
             "defense": 750,
             "health": 1191
         },
         "lb2": {
-            "power": 795,
+            "power": 794,
             "attack": 779,
             "defense": 870,
             "health": 1381
@@ -22686,6 +23039,7 @@ window.allHeroes =
         ],
         "source": "S2 - 亞特蘭蒂斯",
         "Release date": "2022-05-02",
+        "specialId": "strengthening_smash",
         "star": 4,
         "power": 668,
         "attack": 612,
@@ -22702,7 +23056,7 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 353,
         "lb1": {
-            "power": 719,
+            "power": 718,
             "attack": 665,
             "defense": 783,
             "health": 1299
@@ -22747,6 +23101,7 @@ window.allHeroes =
         ],
         "source": "S2 - 亞特蘭蒂斯",
         "Release date": "2019-08-01",
+        "specialId": "familiar_eater",
         "star": 4,
         "power": 651,
         "attack": 641,
@@ -22763,13 +23118,13 @@ window.allHeroes =
         "costume_id": 0,
         "originalIndex": 354,
         "lb1": {
-            "power": 701,
+            "power": 700,
             "attack": 697,
             "defense": 667,
             "health": 1320
         },
         "lb2": {
-            "power": 799,
+            "power": 798,
             "attack": 808,
             "defense": 773,
             "health": 1531
@@ -22808,6 +23163,7 @@ window.allHeroes =
         ],
         "source": "S2 - 亞特蘭蒂斯",
         "Release date": "2023-04-03",
+        "specialId": "protein_eater",
         "star": 4,
         "power": 673,
         "attack": 586,
@@ -22830,7 +23186,7 @@ window.allHeroes =
             "health": 1543
         },
         "lb2": {
-            "power": 827,
+            "power": 826,
             "attack": 738,
             "defense": 832,
             "health": 1790
@@ -22873,6 +23229,7 @@ window.allHeroes =
         ],
         "source": "挑戰節 I",
         "Release date": "2019-12-01",
+        "specialId": "witch_killer",
         "star": 4,
         "power": 646,
         "attack": 699,
@@ -22895,7 +23252,7 @@ window.allHeroes =
             "health": 1156
         },
         "lb2": {
-            "power": 793,
+            "power": 792,
             "attack": 880,
             "defense": 757,
             "health": 1341
@@ -22937,6 +23294,7 @@ window.allHeroes =
         ],
         "source": "挑戰節 I",
         "Release date": "2023-08-10",
+        "specialId": "vampire_killer",
         "star": 4,
         "power": 682,
         "attack": 670,
@@ -22953,7 +23311,7 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 357,
         "lb1": {
-            "power": 735,
+            "power": 734,
             "attack": 729,
             "defense": 770,
             "health": 1279
@@ -22999,6 +23357,7 @@ window.allHeroes =
         ],
         "source": "月活動 - 斯普林維爾",
         "Release date": "2018-03-28",
+        "specialId": "reckless_slash",
         "star": 4,
         "power": 648,
         "attack": 743,
@@ -23020,7 +23379,7 @@ window.allHeroes =
             "health": 1043
         },
         "lb2": {
-            "power": 795,
+            "power": 794,
             "attack": 936,
             "defense": 760,
             "health": 1210
@@ -23057,6 +23416,7 @@ window.allHeroes =
         ],
         "source": "月活動 - 斯普林維爾",
         "Release date": "2022-03-21",
+        "specialId": "egg_barrage",
         "star": 4,
         "power": 669,
         "attack": 708,
@@ -23116,6 +23476,7 @@ window.allHeroes =
         ],
         "source": "挑戰 - 石像鬼",
         "Release date": "2022-05-12",
+        "specialId": "resurrection_of_the_fallen",
         "star": 4,
         "power": 677,
         "attack": 626,
@@ -23135,13 +23496,13 @@ window.allHeroes =
         "costume_id": 0,
         "originalIndex": 360,
         "lb1": {
-            "power": 729,
+            "power": 728,
             "attack": 681,
             "defense": 704,
             "health": 1486
         },
         "lb2": {
-            "power": 831,
+            "power": 830,
             "attack": 789,
             "defense": 816,
             "health": 1723
@@ -23178,6 +23539,7 @@ window.allHeroes =
         ],
         "source": "S1 - 經典",
         "Release date": "2017-03-01",
+        "specialId": "swamp_skin",
         "star": 4,
         "power": 643,
         "attack": 548,
@@ -23236,6 +23598,7 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2020-05-18",
+        "specialId": "second_skin",
         "star": 4,
         "power": 690,
         "attack": 597,
@@ -23251,13 +23614,13 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 362,
         "lb1": {
-            "power": 743,
+            "power": 742,
             "attack": 649,
             "defense": 765,
             "health": 1545
         },
         "lb2": {
-            "power": 848,
+            "power": 847,
             "attack": 753,
             "defense": 887,
             "health": 1791
@@ -23293,6 +23656,7 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2023-11-27",
+        "specialId": "scaly_skin",
         "star": 4,
         "power": 736,
         "attack": 598,
@@ -23308,13 +23672,13 @@ window.allHeroes =
         "costume_id": 2,
         "originalIndex": 363,
         "lb1": {
-            "power": 793,
+            "power": 792,
             "attack": 649,
             "defense": 830,
             "health": 1772
         },
         "lb2": {
-            "power": 906,
+            "power": 905,
             "attack": 753,
             "defense": 962,
             "health": 2055
@@ -23350,6 +23714,7 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2024-05-31",
+        "specialId": "adorable_skin",
         "star": 4,
         "power": 748,
         "attack": 680,
@@ -23367,7 +23732,7 @@ window.allHeroes =
         "costume_id": 3,
         "originalIndex": 364,
         "lb1": {
-            "power": 806,
+            "power": 805,
             "attack": 739,
             "defense": 749,
             "health": 1801
@@ -23411,6 +23776,7 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2025-06-18",
+        "specialId": "glass_skin",
         "star": 4,
         "power": 761,
         "attack": 737,
@@ -23429,13 +23795,13 @@ window.allHeroes =
         "costume_id": 4,
         "originalIndex": 365,
         "lb1": {
-            "power": 820,
+            "power": 819,
             "attack": 802,
             "defense": 735,
             "health": 1774
         },
         "lb2": {
-            "power": 937,
+            "power": 936,
             "attack": 929,
             "defense": 853,
             "health": 2057
@@ -23476,6 +23842,7 @@ window.allHeroes =
         ],
         "source": "星界召喚",
         "Release date": "2024-03-07",
+        "specialId": "cloth_of_constellations",
         "star": 4,
         "power": 697,
         "attack": 684,
@@ -23496,13 +23863,13 @@ window.allHeroes =
         "costume_id": 0,
         "originalIndex": 366,
         "lb1": {
-            "power": 751,
+            "power": 750,
             "attack": 743,
             "defense": 748,
             "health": 1403
         },
         "lb2": {
-            "power": 857,
+            "power": 856,
             "attack": 861,
             "defense": 867,
             "health": 1627
@@ -23543,6 +23910,7 @@ window.allHeroes =
         ],
         "source": "S1 - 經典",
         "Release date": "2017-03-01",
+        "specialId": "massive_chop",
         "star": 4,
         "power": 641,
         "attack": 741,
@@ -23564,7 +23932,7 @@ window.allHeroes =
             "health": 1073
         },
         "lb2": {
-            "power": 787,
+            "power": 786,
             "attack": 934,
             "defense": 717,
             "health": 1244
@@ -23601,6 +23969,7 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2020-05-18",
+        "specialId": "massive_cleave",
         "star": 4,
         "power": 686,
         "attack": 770,
@@ -23616,13 +23985,13 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 368,
         "lb1": {
-            "power": 738,
+            "power": 737,
             "attack": 836,
             "defense": 691,
             "health": 1191
         },
         "lb2": {
-            "power": 842,
+            "power": 841,
             "attack": 970,
             "defense": 801,
             "health": 1380
@@ -23659,6 +24028,7 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2023-10-30",
+        "specialId": "massive_swing",
         "star": 4,
         "power": 732,
         "attack": 840,
@@ -23674,7 +24044,7 @@ window.allHeroes =
         "costume_id": 2,
         "originalIndex": 369,
         "lb1": {
-            "power": 789,
+            "power": 788,
             "attack": 913,
             "defense": 692,
             "health": 1359
@@ -23717,6 +24087,7 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2024-05-06",
+        "specialId": "adorable_massive_chop",
         "star": 4,
         "power": 744,
         "attack": 842,
@@ -23735,7 +24106,7 @@ window.allHeroes =
         "costume_id": 3,
         "originalIndex": 370,
         "lb1": {
-            "power": 801,
+            "power": 800,
             "attack": 914,
             "defense": 755,
             "health": 1317
@@ -23784,6 +24155,7 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2025-05-10",
+        "specialId": "glass_massive_chop",
         "star": 4,
         "power": 756,
         "attack": 861,
@@ -23852,6 +24224,7 @@ window.allHeroes =
         ],
         "source": "挑戰節 II",
         "Release date": "2021-06-10",
+        "specialId": "head_hurl",
         "star": 4,
         "power": 676,
         "attack": 654,
@@ -23915,6 +24288,7 @@ window.allHeroes =
         ],
         "source": "S1 - 經典",
         "Release date": "2017-03-01",
+        "specialId": "fog_of_the_fallen",
         "star": 4,
         "power": 638,
         "attack": 714,
@@ -23930,13 +24304,13 @@ window.allHeroes =
         "costume_id": 0,
         "originalIndex": 373,
         "lb1": {
-            "power": 687,
+            "power": 686,
             "attack": 775,
             "defense": 637,
             "health": 1087
         },
         "lb2": {
-            "power": 783,
+            "power": 782,
             "attack": 899,
             "defense": 738,
             "health": 1260
@@ -23974,6 +24348,7 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2020-01-01",
+        "specialId": "fog_of_the_perished",
         "star": 4,
         "power": 683,
         "attack": 711,
@@ -23996,7 +24371,7 @@ window.allHeroes =
             "health": 1263
         },
         "lb2": {
-            "power": 839,
+            "power": 838,
             "attack": 895,
             "defense": 842,
             "health": 1464
@@ -24035,6 +24410,7 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2023-10-30",
+        "specialId": "fog_machine",
         "star": 4,
         "power": 729,
         "attack": 684,
@@ -24051,7 +24427,7 @@ window.allHeroes =
         "costume_id": 2,
         "originalIndex": 375,
         "lb1": {
-            "power": 785,
+            "power": 784,
             "attack": 742,
             "defense": 902,
             "health": 1338
@@ -24096,6 +24472,7 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2024-01-22",
+        "specialId": "toontastic_fog",
         "star": 4,
         "power": 741,
         "attack": 800,
@@ -24114,13 +24491,13 @@ window.allHeroes =
         "costume_id": 3,
         "originalIndex": 376,
         "lb1": {
-            "power": 798,
+            "power": 797,
             "attack": 869,
             "defense": 790,
             "health": 1340
         },
         "lb2": {
-            "power": 912,
+            "power": 911,
             "attack": 1007,
             "defense": 917,
             "health": 1554
@@ -24160,6 +24537,7 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2025-03-11",
+        "specialId": "fog_of_the_vitrails",
         "star": 4,
         "power": 753,
         "attack": 811,
@@ -24184,7 +24562,7 @@ window.allHeroes =
             "health": 1373
         },
         "lb2": {
-            "power": 928,
+            "power": 927,
             "attack": 1022,
             "defense": 936,
             "health": 1592
@@ -24222,6 +24600,7 @@ window.allHeroes =
         ],
         "source": "月活動 - 卡勒瓦拉",
         "Release date": "2022-06-20",
+        "specialId": "sprite_ballad",
         "star": 4,
         "power": 682,
         "attack": 614,
@@ -24240,7 +24619,7 @@ window.allHeroes =
         "costume_id": 0,
         "originalIndex": 378,
         "lb1": {
-            "power": 735,
+            "power": 734,
             "attack": 667,
             "defense": 704,
             "health": 1565
@@ -24288,6 +24667,7 @@ window.allHeroes =
         ],
         "source": "月活動 - 卡勒瓦拉",
         "Release date": "2023-08-07",
+        "specialId": "sprite_hymn",
         "star": 4,
         "power": 706,
         "attack": 609,
@@ -24304,7 +24684,7 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 379,
         "lb1": {
-            "power": 761,
+            "power": 760,
             "attack": 663,
             "defense": 732,
             "health": 1707
@@ -24355,6 +24735,7 @@ window.allHeroes =
         ],
         "source": "S6 - 深淵謎團",
         "Release date": "2023-06-07",
+        "specialId": "noxious_cleave",
         "star": 4,
         "power": 688,
         "attack": 718,
@@ -24433,6 +24814,7 @@ window.allHeroes =
         ],
         "source": "S6 - 深淵謎團",
         "Release date": "2025-03-31",
+        "specialId": "noxious_chord",
         "star": 4,
         "power": 704,
         "attack": 667,
@@ -24465,7 +24847,7 @@ window.allHeroes =
             "health": 1411
         },
         "lb2": {
-            "power": 866,
+            "power": 865,
             "attack": 840,
             "defense": 920,
             "health": 1636
@@ -24511,6 +24893,7 @@ window.allHeroes =
         ],
         "source": "野地召喚",
         "Release date": "2025-02-21",
+        "specialId": "a_rare_cultivar",
         "star": 4,
         "power": 727,
         "attack": 786,
@@ -24537,7 +24920,7 @@ window.allHeroes =
             "health": 1413
         },
         "lb2": {
-            "power": 895,
+            "power": 894,
             "attack": 990,
             "defense": 835,
             "health": 1638
@@ -24582,6 +24965,7 @@ window.allHeroes =
         ],
         "source": "怪獸島召喚",
         "Release date": "2023-05-06",
+        "specialId": "cracked_skull_strike",
         "star": 4,
         "power": 687,
         "attack": 671,
@@ -24650,6 +25034,7 @@ window.allHeroes =
         ],
         "source": "挑戰節 II",
         "Release date": "2021-08-05",
+        "specialId": "graceful_shot",
         "star": 4,
         "power": 677,
         "attack": 635,
@@ -24670,7 +25055,7 @@ window.allHeroes =
         "costume_id": 0,
         "originalIndex": 384,
         "lb1": {
-            "power": 729,
+            "power": 728,
             "attack": 690,
             "defense": 738,
             "health": 1396
@@ -24723,6 +25108,7 @@ window.allHeroes =
         ],
         "source": "挑戰節 I",
         "Release date": "2017-09-07",
+        "specialId": "buccaneers_blade",
         "star": 4,
         "power": 645,
         "attack": 643,
@@ -24782,6 +25168,7 @@ window.allHeroes =
         ],
         "source": "挑戰節 I",
         "Release date": "2023-12-28",
+        "specialId": "shocking_news",
         "star": 4,
         "power": 681,
         "attack": 675,
@@ -24804,7 +25191,7 @@ window.allHeroes =
             "health": 1241
         },
         "lb2": {
-            "power": 836,
+            "power": 835,
             "attack": 851,
             "defense": 898,
             "health": 1439
@@ -24842,6 +25229,7 @@ window.allHeroes =
         ],
         "source": "S5 - 沙丘",
         "Release date": "2022-04-21",
+        "specialId": "divine_connection",
         "star": 4,
         "power": 683,
         "attack": 586,
@@ -24861,7 +25249,7 @@ window.allHeroes =
         "costume_id": 0,
         "originalIndex": 387,
         "lb1": {
-            "power": 735,
+            "power": 734,
             "attack": 637,
             "defense": 745,
             "health": 1560
@@ -24907,6 +25295,7 @@ window.allHeroes =
         ],
         "source": "S5 - 沙丘",
         "Release date": "2024-10-05",
+        "specialId": "natures_connection",
         "star": 4,
         "power": 699,
         "attack": 576,
@@ -24928,7 +25317,7 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 388,
         "lb1": {
-            "power": 753,
+            "power": 752,
             "attack": 626,
             "defense": 783,
             "health": 1640
@@ -24973,6 +25362,7 @@ window.allHeroes =
         ],
         "source": "聯盟 - 騎士衝擊",
         "Release date": "2024-01-10",
+        "specialId": "tome_of_the_stag",
         "star": 4,
         "power": 692,
         "attack": 656,
@@ -24997,7 +25387,7 @@ window.allHeroes =
             "health": 1383
         },
         "lb2": {
-            "power": 851,
+            "power": 850,
             "attack": 827,
             "defense": 899,
             "health": 1603
@@ -25034,6 +25424,7 @@ window.allHeroes =
         ],
         "source": "S1 - 經典",
         "Release date": "2017-03-01",
+        "specialId": "creeping_vines",
         "star": 4,
         "power": 644,
         "attack": 728,
@@ -25091,6 +25482,7 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2020-01-01",
+        "specialId": "candy_vines",
         "star": 4,
         "power": 688,
         "attack": 792,
@@ -25106,7 +25498,7 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 391,
         "lb1": {
-            "power": 741,
+            "power": 740,
             "attack": 861,
             "defense": 698,
             "health": 1134
@@ -25148,6 +25540,7 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2023-04-17",
+        "specialId": "crawling_vines",
         "star": 4,
         "power": 735,
         "attack": 828,
@@ -25206,6 +25599,7 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2024-03-11",
+        "specialId": "toon_vines",
         "star": 4,
         "power": 746,
         "attack": 844,
@@ -25273,6 +25667,7 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2025-04-08",
+        "specialId": "glass_vines",
         "star": 4,
         "power": 759,
         "attack": 879,
@@ -25291,7 +25686,7 @@ window.allHeroes =
         "costume_id": 4,
         "originalIndex": 394,
         "lb1": {
-            "power": 818,
+            "power": 817,
             "attack": 955,
             "defense": 771,
             "health": 1304
@@ -25340,6 +25735,7 @@ window.allHeroes =
         ],
         "source": "S4 - 地底荒野",
         "Release date": "2021-03-25",
+        "specialId": "crippling_grapple",
         "star": 4,
         "power": 677,
         "attack": 663,
@@ -25358,7 +25754,7 @@ window.allHeroes =
         "costume_id": 0,
         "originalIndex": 395,
         "lb1": {
-            "power": 729,
+            "power": 728,
             "attack": 720,
             "defense": 725,
             "health": 1348
@@ -25404,6 +25800,7 @@ window.allHeroes =
         ],
         "source": "S4 - 地底荒野",
         "Release date": "2023-12-07",
+        "specialId": "demoralizing_banter",
         "star": 4,
         "power": 692,
         "attack": 738,
@@ -25428,7 +25825,7 @@ window.allHeroes =
             "health": 1286
         },
         "lb2": {
-            "power": 851,
+            "power": 850,
             "attack": 930,
             "defense": 827,
             "health": 1491
@@ -25470,6 +25867,7 @@ window.allHeroes =
         ],
         "source": "聯盟 - 火槍手",
         "Release date": "2022-12-14",
+        "specialId": "the_dukes_investigation",
         "star": 4,
         "power": 686,
         "attack": 694,
@@ -25496,7 +25894,7 @@ window.allHeroes =
             "health": 1304
         },
         "lb2": {
-            "power": 843,
+            "power": 842,
             "attack": 875,
             "defense": 856,
             "health": 1512
@@ -25535,6 +25933,7 @@ window.allHeroes =
         ],
         "source": "聯盟 - 騎士衝擊",
         "Release date": "2021-10-13",
+        "specialId": "squires_squirrel",
         "star": 4,
         "power": 680,
         "attack": 675,
@@ -25557,7 +25956,7 @@ window.allHeroes =
             "health": 1392
         },
         "lb2": {
-            "power": 836,
+            "power": 835,
             "attack": 851,
             "defense": 811,
             "health": 1614
@@ -25595,6 +25994,7 @@ window.allHeroes =
         ],
         "source": "S5 - 沙丘",
         "Release date": "2022-11-24",
+        "specialId": "ancient_mirror",
         "star": 5,
         "power": 866,
         "attack": 803,
@@ -25657,6 +26057,7 @@ window.allHeroes =
         ],
         "source": "S5 - 沙丘",
         "Release date": "2024-03-04",
+        "specialId": "verdant_mirror",
         "star": 5,
         "power": 1211,
         "attack": 1167,
@@ -25684,7 +26085,7 @@ window.allHeroes =
             "health": 2582
         },
         "lb2": {
-            "power": 1464,
+            "power": 1463,
             "attack": 1438,
             "defense": 1507,
             "health": 2954
@@ -25724,6 +26125,7 @@ window.allHeroes =
         ],
         "source": "傳奇召喚 - 月英",
         "Release date": "2017-10-01",
+        "specialId": "midsummers_dream",
         "star": 5,
         "power": 765,
         "attack": 725,
@@ -25741,7 +26143,7 @@ window.allHeroes =
         "costume_id": 0,
         "originalIndex": 401,
         "lb1": {
-            "power": 815,
+            "power": 814,
             "attack": 781,
             "defense": 799,
             "health": 1376
@@ -25789,6 +26191,7 @@ window.allHeroes =
         ],
         "source": "傳奇召喚 - 月英",
         "Release date": "2021-10-20",
+        "specialId": "midsummers_reverie",
         "star": 5,
         "power": 970,
         "attack": 911,
@@ -25808,13 +26211,13 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 402,
         "lb1": {
-            "power": 1037,
+            "power": 1036,
             "attack": 983,
             "defense": 1019,
             "health": 2016
         },
         "lb2": {
-            "power": 1168,
+            "power": 1167,
             "attack": 1123,
             "defense": 1166,
             "health": 2308
@@ -25856,6 +26259,7 @@ window.allHeroes =
         ],
         "source": "哥布林召喚",
         "Release date": "2025-03-14",
+        "specialId": "suspicious_stew",
         "star": 5,
         "power": 1168,
         "attack": 1135,
@@ -25877,7 +26281,7 @@ window.allHeroes =
         "costume_id": 0,
         "originalIndex": 403,
         "lb1": {
-            "power": 1250,
+            "power": 1249,
             "attack": 1223,
             "defense": 1307,
             "health": 2364
@@ -25929,6 +26333,7 @@ window.allHeroes =
         ],
         "source": "月活動 - 斯普林維爾",
         "Release date": "2023-03-27",
+        "specialId": "fabled_llama_ballad",
         "star": 5,
         "power": 865,
         "attack": 871,
@@ -25990,8 +26395,9 @@ window.allHeroes =
         ],
         "source": "月活動 - 斯普林維爾",
         "Release date": "2024-03-18",
+        "specialId": "vigorous_villanelle",
         "star": 5,
-        "power": 986,
+        "power": 1030,
         "attack": 1063,
         "defense": 993,
         "health": 1822,
@@ -26052,6 +26458,7 @@ window.allHeroes =
         ],
         "source": "挑戰 - 石像鬼",
         "Release date": "2022-05-12",
+        "specialId": "gargoyles_of_redemption",
         "star": 5,
         "power": 841,
         "attack": 776,
@@ -26070,7 +26477,7 @@ window.allHeroes =
         "costume_id": 0,
         "originalIndex": 406,
         "lb1": {
-            "power": 897,
+            "power": 896,
             "attack": 836,
             "defense": 894,
             "health": 1636
@@ -26110,6 +26517,7 @@ window.allHeroes =
         ],
         "source": "挑戰 - 歌劇秘辛",
         "Release date": "2024-08-22",
+        "specialId": "make_them_harmless",
         "star": 5,
         "power": 1090,
         "attack": 1081,
@@ -26129,13 +26537,13 @@ window.allHeroes =
         "costume_id": 0,
         "originalIndex": 407,
         "lb1": {
-            "power": 1166,
+            "power": 1165,
             "attack": 1165,
             "defense": 1274,
             "health": 1975
         },
         "lb2": {
-            "power": 1316,
+            "power": 1315,
             "attack": 1333,
             "defense": 1457,
             "health": 2260
@@ -26181,6 +26589,7 @@ window.allHeroes =
         ],
         "source": "聯盟 - 火槍手",
         "Release date": "2022-12-14",
+        "specialId": "piercing_shot",
         "star": 5,
         "power": 864,
         "attack": 865,
@@ -26247,6 +26656,7 @@ window.allHeroes =
         ],
         "source": "S2 - 亞特蘭蒂斯",
         "Release date": "2019-02-01",
+        "specialId": "immortal_annihilator",
         "star": 5,
         "power": 772,
         "attack": 733,
@@ -26311,6 +26721,7 @@ window.allHeroes =
         ],
         "source": "S2 - 亞特蘭蒂斯",
         "Release date": "2023-04-03",
+        "specialId": "immortal_punisher",
         "star": 5,
         "power": 942,
         "attack": 916,
@@ -26333,7 +26744,7 @@ window.allHeroes =
             "health": 1872
         },
         "lb2": {
-            "power": 1134,
+            "power": 1133,
             "attack": 1130,
             "defense": 1120,
             "health": 2142
@@ -26379,6 +26790,7 @@ window.allHeroes =
         ],
         "source": "神秘 - 暗影召喚",
         "Release date": "2024-04-11",
+        "specialId": "jewel_of_the_deep",
         "star": 5,
         "power": 1105,
         "attack": 1122,
@@ -26398,7 +26810,7 @@ window.allHeroes =
         "costume_id": 0,
         "originalIndex": 411,
         "lb1": {
-            "power": 1182,
+            "power": 1181,
             "attack": 1209,
             "defense": 1196,
             "health": 2133
@@ -26452,6 +26864,7 @@ window.allHeroes =
         ],
         "source": "月活動 - 冬季",
         "Release date": "2022-12-01",
+        "specialId": "wisdom_of_the_gnomes",
         "star": 5,
         "power": 851,
         "attack": 793,
@@ -26470,13 +26883,13 @@ window.allHeroes =
         "costume_id": 0,
         "originalIndex": 412,
         "lb1": {
-            "power": 908,
+            "power": 907,
             "attack": 854,
             "defense": 912,
             "health": 1633
         },
         "lb2": {
-            "power": 1021,
+            "power": 1020,
             "attack": 977,
             "defense": 1043,
             "health": 1869
@@ -26526,6 +26939,7 @@ window.allHeroes =
         ],
         "source": "傳奇召喚 - 月英",
         "Release date": "2021-11-01",
+        "specialId": "slumber_spores",
         "star": 5,
         "power": 796,
         "attack": 762,
@@ -26593,6 +27007,7 @@ window.allHeroes =
         ],
         "source": "傳奇召喚 - 月英",
         "Release date": "2021-01-01",
+        "specialId": "en_garde",
         "star": 5,
         "power": 784,
         "attack": 718,
@@ -26609,13 +27024,13 @@ window.allHeroes =
         "costume_id": 0,
         "originalIndex": 414,
         "lb1": {
-            "power": 836,
+            "power": 835,
             "attack": 774,
             "defense": 834,
             "health": 1474
         },
         "lb2": {
-            "power": 939,
+            "power": 938,
             "attack": 886,
             "defense": 955,
             "health": 1686
@@ -26654,6 +27069,7 @@ window.allHeroes =
         ],
         "source": "傳奇召喚 - 月英",
         "Release date": "2024-05-01",
+        "specialId": "command_pack",
         "star": 5,
         "power": 981,
         "attack": 1042,
@@ -26675,13 +27091,13 @@ window.allHeroes =
         "costume_id": 0,
         "originalIndex": 415,
         "lb1": {
-            "power": 1048,
+            "power": 1047,
             "attack": 1123,
             "defense": 1001,
             "health": 1780
         },
         "lb2": {
-            "power": 1181,
+            "power": 1180,
             "attack": 1285,
             "defense": 1145,
             "health": 2037
@@ -26727,6 +27143,7 @@ window.allHeroes =
         ],
         "source": "挑戰節 II",
         "Release date": "2024-11-14",
+        "specialId": "odd_drum_roll",
         "star": 5,
         "power": 1147,
         "attack": 1293,
@@ -26749,13 +27166,13 @@ window.allHeroes =
         "costume_id": 0,
         "originalIndex": 416,
         "lb1": {
-            "power": 1227,
+            "power": 1226,
             "attack": 1394,
             "defense": 1152,
             "health": 2082
         },
         "lb2": {
-            "power": 1386,
+            "power": 1385,
             "attack": 1595,
             "defense": 1318,
             "health": 2382
@@ -26796,6 +27213,7 @@ window.allHeroes =
         ],
         "source": "哥布林召喚",
         "Release date": "2023-10-16",
+        "specialId": "boar_call",
         "star": 5,
         "power": 949,
         "attack": 891,
@@ -26859,6 +27277,7 @@ window.allHeroes =
         ],
         "source": "野地召喚",
         "Release date": "2025-01-22",
+        "specialId": "sylvan_blessings",
         "star": 5,
         "power": 1157,
         "attack": 1118,
@@ -26879,13 +27298,13 @@ window.allHeroes =
         "costume_id": 0,
         "originalIndex": 418,
         "lb1": {
-            "power": 1238,
+            "power": 1237,
             "attack": 1205,
             "defense": 1274,
             "health": 2386
         },
         "lb2": {
-            "power": 1398,
+            "power": 1397,
             "attack": 1379,
             "defense": 1457,
             "health": 2730
@@ -26930,6 +27349,7 @@ window.allHeroes =
         ],
         "source": "高塔 - 忍者",
         "Release date": "2024-08-27",
+        "specialId": "fatal_dreams",
         "star": 5,
         "power": 1093,
         "attack": 1203,
@@ -26963,7 +27383,7 @@ window.allHeroes =
             "health": 1753
         },
         "lb2": {
-            "power": 1319,
+            "power": 1318,
             "attack": 1483,
             "defense": 1407,
             "health": 2006
@@ -27006,6 +27426,7 @@ window.allHeroes =
         ],
         "source": "傳奇召喚 - 月英",
         "Release date": "2024-09-01",
+        "specialId": "invigorating_pollen",
         "star": 5,
         "power": 1017,
         "attack": 914,
@@ -27032,7 +27453,7 @@ window.allHeroes =
             "health": 1862
         },
         "lb2": {
-            "power": 1226,
+            "power": 1225,
             "attack": 1127,
             "defense": 1457,
             "health": 2131
@@ -27072,6 +27493,7 @@ window.allHeroes =
         ],
         "source": "傳奇召喚 - 月英",
         "Release date": "2023-07-01",
+        "specialId": "fury_of_ash",
         "star": 5,
         "power": 825,
         "attack": 883,
@@ -27137,6 +27559,7 @@ window.allHeroes =
         ],
         "source": "S4 - 地底荒野",
         "Release date": "2022-01-27",
+        "specialId": "spectres_flail",
         "star": 5,
         "power": 815,
         "attack": 791,
@@ -27154,7 +27577,7 @@ window.allHeroes =
         "costume_id": 0,
         "originalIndex": 422,
         "lb1": {
-            "power": 869,
+            "power": 868,
             "attack": 852,
             "defense": 843,
             "health": 1498
@@ -27197,6 +27620,7 @@ window.allHeroes =
         ],
         "source": "S4 - 地底荒野",
         "Release date": "2024-08-01",
+        "specialId": "seaweed_flail",
         "star": 5,
         "power": 1031,
         "attack": 1024,
@@ -27215,13 +27639,13 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 423,
         "lb1": {
-            "power": 1103,
+            "power": 1102,
             "attack": 1105,
             "defense": 1081,
             "health": 2058
         },
         "lb2": {
-            "power": 1243,
+            "power": 1242,
             "attack": 1263,
             "defense": 1237,
             "health": 2354
@@ -27257,11 +27681,12 @@ window.allHeroes =
         ],
         "source": "超級元素",
         "Release date": "2024-05-20",
+        "specialId": "call_of_the_elements",
         "star": 5,
-        "power": 1043,
+        "power": 1049,
         "attack": 1027,
         "defense": 1079,
-        "health": 1833,
+        "health": 1876,
         "effects": [
             "為所有盟友恢復 800 點加成生命值。",
             "每有一個自然護盾額外恢復 50 點加成生命，最高 1400 點。",
@@ -27282,16 +27707,16 @@ window.allHeroes =
         "costume_id": 0,
         "originalIndex": 424,
         "lb1": {
-            "power": 1115,
+            "power": 1121,
             "attack": 1107,
             "defense": 1163,
-            "health": 1975
+            "health": 2021
         },
         "lb2": {
-            "power": 1257,
+            "power": 1264,
             "attack": 1267,
             "defense": 1330,
-            "health": 2260
+            "health": 2313
         },
         "cn_skill_info": [
             {
@@ -27332,6 +27757,7 @@ window.allHeroes =
         ],
         "source": "高塔 - 魔法",
         "Release date": "2021-09-15",
+        "specialId": "charmed_dual_blade",
         "star": 5,
         "power": 813,
         "attack": 791,
@@ -27402,6 +27828,7 @@ window.allHeroes =
         ],
         "source": "S7 - 火焰與冰霜的寶藏",
         "Release date": "2025-01-26",
+        "specialId": "blazing_venom",
         "star": 5,
         "power": 1173,
         "attack": 1223,
@@ -27425,7 +27852,7 @@ window.allHeroes =
         "costume_id": 0,
         "originalIndex": 426,
         "lb1": {
-            "power": 1256,
+            "power": 1255,
             "attack": 1318,
             "defense": 1245,
             "health": 2291
@@ -27478,6 +27905,7 @@ window.allHeroes =
         ],
         "source": "挑戰 - 歌劇秘辛",
         "Release date": "2024-03-21",
+        "specialId": "echoes_of_the_opera",
         "star": 5,
         "power": 1022,
         "attack": 1065,
@@ -27497,7 +27925,7 @@ window.allHeroes =
         "costume_id": 0,
         "originalIndex": 427,
         "lb1": {
-            "power": 1092,
+            "power": 1091,
             "attack": 1147,
             "defense": 1145,
             "health": 1749
@@ -27547,6 +27975,7 @@ window.allHeroes =
         ],
         "source": "超級元素",
         "Release date": "2024-01-01",
+        "specialId": "jade_blades",
         "star": 5,
         "power": 988,
         "attack": 1007,
@@ -27615,6 +28044,7 @@ window.allHeroes =
         ],
         "source": "月活動 - 戀愛季節",
         "Release date": "2025-02-14",
+        "specialId": "looking_for_love",
         "star": 5,
         "power": 1163,
         "attack": 1145,
@@ -27673,6 +28103,7 @@ window.allHeroes =
         ],
         "source": "挑戰 - 貝武夫",
         "Release date": "2025-03-13",
+        "specialId": "challenge_the_strongest",
         "star": 5,
         "power": 1188,
         "attack": 1266,
@@ -27692,7 +28123,7 @@ window.allHeroes =
         "costume_id": 0,
         "originalIndex": 430,
         "lb1": {
-            "power": 1272,
+            "power": 1271,
             "attack": 1365,
             "defense": 1227,
             "health": 2324
@@ -27736,6 +28167,7 @@ window.allHeroes =
         ],
         "source": "月活動 - 莫洛維亞",
         "Release date": "2023-09-25",
+        "specialId": "hemlock_tea",
         "star": 5,
         "power": 933,
         "attack": 922,
@@ -27754,7 +28186,7 @@ window.allHeroes =
         "costume_id": 0,
         "originalIndex": 431,
         "lb1": {
-            "power": 997,
+            "power": 996,
             "attack": 994,
             "defense": 959,
             "health": 1824
@@ -27803,6 +28235,7 @@ window.allHeroes =
         ],
         "source": "挑戰節 II",
         "Release date": "2021-06-10",
+        "specialId": "perfect_teamwork",
         "star": 5,
         "power": 806,
         "attack": 786,
@@ -27819,13 +28252,13 @@ window.allHeroes =
         "costume_id": 0,
         "originalIndex": 432,
         "lb1": {
-            "power": 860,
+            "power": 859,
             "attack": 848,
             "defense": 810,
             "health": 1509
         },
         "lb2": {
-            "power": 966,
+            "power": 965,
             "attack": 970,
             "defense": 927,
             "health": 1727
@@ -27868,6 +28301,7 @@ window.allHeroes =
         ],
         "source": "高塔 - 忍者",
         "Release date": "2023-01-11",
+        "specialId": "order_ambush",
         "star": 5,
         "power": 866,
         "attack": 850,
@@ -27894,7 +28328,7 @@ window.allHeroes =
         "costume_id": 0,
         "originalIndex": 433,
         "lb1": {
-            "power": 924,
+            "power": 923,
             "attack": 916,
             "defense": 865,
             "health": 1684
@@ -27941,6 +28375,7 @@ window.allHeroes =
         ],
         "source": "S5 - 沙丘",
         "Release date": "2022-04-21",
+        "specialId": "luring_song",
         "star": 5,
         "power": 858,
         "attack": 852,
@@ -27960,7 +28395,7 @@ window.allHeroes =
         "costume_id": 0,
         "originalIndex": 434,
         "lb1": {
-            "power": 916,
+            "power": 915,
             "attack": 919,
             "defense": 859,
             "health": 1631
@@ -28003,6 +28438,7 @@ window.allHeroes =
         ],
         "source": "S5 - 沙丘",
         "Release date": "2025-01-20",
+        "specialId": "soothing_song",
         "star": 5,
         "power": 1199,
         "attack": 1262,
@@ -28024,13 +28460,13 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 435,
         "lb1": {
-            "power": 1283,
+            "power": 1282,
             "attack": 1360,
             "defense": 1221,
             "health": 2428
         },
         "lb2": {
-            "power": 1450,
+            "power": 1449,
             "attack": 1556,
             "defense": 1397,
             "health": 2778
@@ -28066,6 +28502,7 @@ window.allHeroes =
         ],
         "source": "S1 - 經典",
         "Release date": "2017-03-01",
+        "specialId": "crescent_spear",
         "star": 5,
         "power": 758,
         "attack": 675,
@@ -28081,13 +28518,13 @@ window.allHeroes =
         "costume_id": 0,
         "originalIndex": 436,
         "lb1": {
-            "power": 808,
+            "power": 807,
             "attack": 728,
             "defense": 845,
             "health": 1365
         },
         "lb2": {
-            "power": 906,
+            "power": 905,
             "attack": 833,
             "defense": 967,
             "health": 1562
@@ -28124,6 +28561,7 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2020-05-18",
+        "specialId": "eclipse_spear",
         "star": 5,
         "power": 852,
         "attack": 740,
@@ -28181,6 +28619,7 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2022-09-05",
+        "specialId": "lunar_spear",
         "star": 5,
         "power": 968,
         "attack": 903,
@@ -28196,13 +28635,13 @@ window.allHeroes =
         "costume_id": 2,
         "originalIndex": 438,
         "lb1": {
-            "power": 1034,
+            "power": 1033,
             "attack": 972,
             "defense": 1052,
             "health": 1958
         },
         "lb2": {
-            "power": 1166,
+            "power": 1165,
             "attack": 1113,
             "defense": 1204,
             "health": 2242
@@ -28239,6 +28678,7 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2023-11-27",
+        "specialId": "adorable_spear",
         "star": 5,
         "power": 1135,
         "attack": 1171,
@@ -28263,7 +28703,7 @@ window.allHeroes =
             "health": 2289
         },
         "lb2": {
-            "power": 1371,
+            "power": 1370,
             "attack": 1444,
             "defense": 1334,
             "health": 2619
@@ -28301,6 +28741,7 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2025-01-14",
+        "specialId": "glass_spear",
         "star": 5,
         "power": 1242,
         "attack": 1326,
@@ -28319,7 +28760,7 @@ window.allHeroes =
         "costume_id": 4,
         "originalIndex": 440,
         "lb1": {
-            "power": 1329,
+            "power": 1328,
             "attack": 1428,
             "defense": 1312,
             "health": 2404
@@ -28364,6 +28805,7 @@ window.allHeroes =
         ],
         "source": "傳奇召喚 - 月英",
         "Release date": "2021-06-01",
+        "specialId": "natures_payback",
         "star": 5,
         "power": 791,
         "attack": 766,
@@ -28383,7 +28825,7 @@ window.allHeroes =
         "costume_id": 0,
         "originalIndex": 441,
         "lb1": {
-            "power": 843,
+            "power": 842,
             "attack": 825,
             "defense": 803,
             "health": 1458
@@ -28430,6 +28872,7 @@ window.allHeroes =
         ],
         "source": "高塔 - 魔法",
         "Release date": "2025-04-17",
+        "specialId": "picnic_in_the_sky",
         "star": 5,
         "power": 1200,
         "attack": 1163,
@@ -28458,7 +28901,7 @@ window.allHeroes =
             "health": 2350
         },
         "lb2": {
-            "power": 1452,
+            "power": 1451,
             "attack": 1435,
             "defense": 1600,
             "health": 2689
@@ -28498,6 +28941,7 @@ window.allHeroes =
         ],
         "source": "傳奇召喚 - 額外抽獎",
         "Release date": "2022-11-22",
+        "specialId": "absorbed_underlings",
         "star": 5,
         "power": 853,
         "attack": 824,
@@ -28517,13 +28961,13 @@ window.allHeroes =
         "costume_id": 0,
         "originalIndex": 443,
         "lb1": {
-            "power": 911,
+            "power": 910,
             "attack": 888,
             "defense": 883,
             "health": 1625
         },
         "lb2": {
-            "power": 1024,
+            "power": 1023,
             "attack": 1016,
             "defense": 1010,
             "health": 1859
@@ -28565,6 +29009,7 @@ window.allHeroes =
         ],
         "source": "傳奇召喚 - 月英",
         "Release date": "2018-12-01",
+        "specialId": "shattering_warcry",
         "star": 5,
         "power": 768,
         "attack": 727,
@@ -28633,6 +29078,7 @@ window.allHeroes =
         ],
         "source": "傳奇召喚 - 月英",
         "Release date": "2023-10-02",
+        "specialId": "warcry_of_the_hunt",
         "star": 5,
         "power": 976,
         "attack": 951,
@@ -28704,7 +29150,8 @@ window.allHeroes =
             "繞過"
         ],
         "source": "額外抽獎 - 秘密召喚",
-        "Release date": "2025-06-06",
+        "Release date": "2025-05-15",
+        "specialId": "mimic_training_hero_green_bite",
         "star": 5,
         "power": 1200,
         "attack": 1236,
@@ -28785,6 +29232,7 @@ window.allHeroes =
         ],
         "source": "S7 - 火焰與冰霜的寶藏",
         "Release date": "2025-06-13",
+        "specialId": "lance_of_avarice",
         "star": 5,
         "power": 1211,
         "attack": 1250,
@@ -28806,7 +29254,7 @@ window.allHeroes =
         "costume_id": 0,
         "originalIndex": 447,
         "lb1": {
-            "power": 1296,
+            "power": 1295,
             "attack": 1347,
             "defense": 1265,
             "health": 2466
@@ -28858,6 +29306,7 @@ window.allHeroes =
         ],
         "source": "挑戰 - 眾神狂歡節",
         "Release date": "2023-11-02",
+        "specialId": "remedies_and_diseases",
         "star": 5,
         "power": 952,
         "attack": 885,
@@ -28932,6 +29381,7 @@ window.allHeroes =
         ],
         "source": "聖約召喚",
         "Release date": "2023-06-28",
+        "specialId": "corroding_cutlass",
         "star": 5,
         "power": 951,
         "attack": 916,
@@ -28959,7 +29409,7 @@ window.allHeroes =
             "health": 1940
         },
         "lb2": {
-            "power": 1145,
+            "power": 1144,
             "attack": 1130,
             "defense": 1120,
             "health": 2219
@@ -29000,6 +29450,7 @@ window.allHeroes =
         ],
         "source": "傳奇召喚 - 月英",
         "Release date": "2025-07-01",
+        "specialId": "heavy_fragrance",
         "star": 5,
         "power": 1116,
         "attack": 1170,
@@ -29020,13 +29471,13 @@ window.allHeroes =
         "costume_id": 0,
         "originalIndex": 450,
         "lb1": {
-            "power": 1193,
+            "power": 1192,
             "attack": 1260,
             "defense": 1223,
             "health": 2031
         },
         "lb2": {
-            "power": 1347,
+            "power": 1346,
             "attack": 1442,
             "defense": 1399,
             "health": 2324
@@ -29067,6 +29518,7 @@ window.allHeroes =
         ],
         "source": "聖約召喚",
         "Release date": "2025-04-14",
+        "specialId": "barbed_arrows",
         "star": 5,
         "power": 1174,
         "attack": 1256,
@@ -29085,7 +29537,7 @@ window.allHeroes =
         "costume_id": 0,
         "originalIndex": 451,
         "lb1": {
-            "power": 1256,
+            "power": 1255,
             "attack": 1354,
             "defense": 1329,
             "health": 2035
@@ -29130,6 +29582,7 @@ window.allHeroes =
         ],
         "source": "月活動 - 莫洛維亞",
         "Release date": "2020-10-26",
+        "specialId": "electric_cut",
         "star": 5,
         "power": 795,
         "attack": 780,
@@ -29148,13 +29601,13 @@ window.allHeroes =
         "costume_id": 0,
         "originalIndex": 452,
         "lb1": {
-            "power": 848,
+            "power": 847,
             "attack": 841,
             "defense": 801,
             "health": 1458
         },
         "lb2": {
-            "power": 952,
+            "power": 951,
             "attack": 962,
             "defense": 916,
             "health": 1668
@@ -29196,6 +29649,7 @@ window.allHeroes =
         ],
         "source": "月活動 - 莫洛維亞",
         "Release date": "2021-10-04",
+        "specialId": "electric_stab",
         "star": 5,
         "power": 944,
         "attack": 958,
@@ -29214,7 +29668,7 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 453,
         "lb1": {
-            "power": 1008,
+            "power": 1007,
             "attack": 1032,
             "defense": 968,
             "health": 1788
@@ -29258,6 +29712,7 @@ window.allHeroes =
         ],
         "source": "S3 - 瓦爾哈拉",
         "Release date": "2020-08-27",
+        "specialId": "brittling_force",
         "star": 5,
         "power": 786,
         "attack": 753,
@@ -29274,7 +29729,7 @@ window.allHeroes =
         "costume_id": 0,
         "originalIndex": 454,
         "lb1": {
-            "power": 838,
+            "power": 837,
             "attack": 812,
             "defense": 819,
             "health": 1423
@@ -29322,6 +29777,7 @@ window.allHeroes =
         ],
         "source": "S3 - 瓦爾哈拉",
         "Release date": "2023-01-16",
+        "specialId": "brittling_burst",
         "star": 5,
         "power": 983,
         "attack": 970,
@@ -29338,13 +29794,13 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 455,
         "lb1": {
-            "power": 1050,
+            "power": 1049,
             "attack": 1044,
             "defense": 1041,
             "health": 1914
         },
         "lb2": {
-            "power": 1184,
+            "power": 1183,
             "attack": 1195,
             "defense": 1192,
             "health": 2191
@@ -29389,6 +29845,7 @@ window.allHeroes =
         ],
         "source": "挑戰節 I",
         "Release date": "2023-08-10",
+        "specialId": "royal_poisoner",
         "star": 5,
         "power": 931,
         "attack": 918,
@@ -29458,6 +29915,7 @@ window.allHeroes =
         ],
         "source": "聖約召喚",
         "Release date": "2023-10-28",
+        "specialId": "fury_of_the_ancient_forest",
         "star": 5,
         "power": 980,
         "attack": 984,
@@ -29479,13 +29937,13 @@ window.allHeroes =
         "costume_id": 0,
         "originalIndex": 457,
         "lb1": {
-            "power": 1048,
+            "power": 1047,
             "attack": 1061,
             "defense": 1034,
             "health": 1871
         },
         "lb2": {
-            "power": 1181,
+            "power": 1180,
             "attack": 1214,
             "defense": 1183,
             "health": 2141
@@ -29525,6 +29983,7 @@ window.allHeroes =
         ],
         "source": "超級元素",
         "Release date": "2024-06-18",
+        "specialId": "revitalizing_sludge",
         "star": 5,
         "power": 1120,
         "attack": 1081,
@@ -29552,7 +30011,7 @@ window.allHeroes =
             "health": 2142
         },
         "lb2": {
-            "power": 1352,
+            "power": 1351,
             "attack": 1333,
             "defense": 1490,
             "health": 2451
@@ -29598,6 +30057,7 @@ window.allHeroes =
         ],
         "source": "S6 - 深淵謎團",
         "Release date": "2023-06-07",
+        "specialId": "testudo_roll",
         "star": 5,
         "power": 933,
         "attack": 803,
@@ -29626,7 +30086,7 @@ window.allHeroes =
         "costume_id": 0,
         "originalIndex": 459,
         "lb1": {
-            "power": 997,
+            "power": 996,
             "attack": 865,
             "defense": 1032,
             "health": 2000
@@ -29678,6 +30138,7 @@ window.allHeroes =
         ],
         "source": "S6 - 深淵謎團",
         "Release date": "2024-07-27",
+        "specialId": "testudo_rock",
         "star": 5,
         "power": 1161,
         "attack": 1059,
@@ -29712,7 +30173,7 @@ window.allHeroes =
             "health": 2510
         },
         "lb2": {
-            "power": 1403,
+            "power": 1402,
             "attack": 1306,
             "defense": 1495,
             "health": 2872
@@ -29754,6 +30215,7 @@ window.allHeroes =
         ],
         "source": "S4 - 地底荒野",
         "Release date": "2021-04-22",
+        "specialId": "flail_of_destruction",
         "star": 5,
         "power": 807,
         "attack": 791,
@@ -29815,6 +30277,7 @@ window.allHeroes =
         ],
         "source": "S4 - 地底荒野",
         "Release date": "2023-06-22",
+        "specialId": "kite_of_endurance",
         "star": 5,
         "power": 1021,
         "attack": 1003,
@@ -29833,13 +30296,13 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 462,
         "lb1": {
-            "power": 1091,
+            "power": 1090,
             "attack": 1081,
             "defense": 1095,
             "health": 2007
         },
         "lb2": {
-            "power": 1231,
+            "power": 1230,
             "attack": 1237,
             "defense": 1254,
             "health": 2296
@@ -29880,6 +30343,7 @@ window.allHeroes =
         ],
         "source": "挑戰 - 石像鬼",
         "Release date": "2024-02-27",
+        "specialId": "bone_club_party",
         "star": 5,
         "power": 1048,
         "attack": 1048,
@@ -29945,6 +30409,7 @@ window.allHeroes =
         ],
         "source": "S6 - 深淵謎團",
         "Release date": "2023-08-30",
+        "specialId": "whirlpool_dash",
         "star": 5,
         "power": 976,
         "attack": 1021,
@@ -30029,6 +30494,7 @@ window.allHeroes =
         ],
         "source": "S6 - 深淵謎團",
         "Release date": "2025-06-26",
+        "specialId": "scavenging_dash",
         "star": 5,
         "power": 1214,
         "attack": 1331,
@@ -30112,6 +30578,7 @@ window.allHeroes =
         ],
         "source": "月活動 - 冬季",
         "Release date": "2023-12-01",
+        "specialId": "hasty_trigger_finger",
         "star": 5,
         "power": 949,
         "attack": 957,
@@ -30128,7 +30595,7 @@ window.allHeroes =
         "costume_id": 0,
         "originalIndex": 466,
         "lb1": {
-            "power": 1014,
+            "power": 1013,
             "attack": 1032,
             "defense": 1007,
             "health": 1753
@@ -30174,6 +30641,7 @@ window.allHeroes =
         ],
         "source": "哥布林召喚",
         "Release date": "2025-07-22",
+        "specialId": "holding_down_the_fort",
         "star": 5,
         "power": 1222,
         "attack": 1213,
@@ -30244,6 +30712,7 @@ window.allHeroes =
         ],
         "source": "超級元素",
         "Release date": "2025-03-17",
+        "specialId": "bone_slam",
         "star": 5,
         "power": 1184,
         "attack": 1266,
@@ -30320,6 +30789,7 @@ window.allHeroes =
         ],
         "source": "傳奇召喚 - 月英",
         "Release date": "2022-09-01",
+        "specialId": "malison_of_the_wildlands",
         "star": 5,
         "power": 811,
         "attack": 760,
@@ -30346,7 +30816,7 @@ window.allHeroes =
             "health": 1573
         },
         "lb2": {
-            "power": 971,
+            "power": 970,
             "attack": 937,
             "defense": 949,
             "health": 1800
@@ -30385,6 +30855,7 @@ window.allHeroes =
         ],
         "source": "挑戰節 I",
         "Release date": "2023-04-20",
+        "specialId": "omen_of_retribution",
         "star": 5,
         "power": 864,
         "attack": 885,
@@ -30454,6 +30925,7 @@ window.allHeroes =
         ],
         "source": "傳奇召喚 - 月英",
         "Release date": "2018-07-01",
+        "specialId": "unwavering_focus",
         "star": 5,
         "power": 768,
         "attack": 729,
@@ -30470,7 +30942,7 @@ window.allHeroes =
         "costume_id": 0,
         "originalIndex": 471,
         "lb1": {
-            "power": 818,
+            "power": 817,
             "attack": 785,
             "defense": 765,
             "health": 1456
@@ -30514,6 +30986,7 @@ window.allHeroes =
         ],
         "source": "傳奇召喚 - 月英",
         "Release date": "2024-03-08",
+        "specialId": "exquisite_alchemy",
         "star": 5,
         "power": 976,
         "attack": 958,
@@ -30532,13 +31005,13 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 472,
         "lb1": {
-            "power": 1044,
+            "power": 1043,
             "attack": 1034,
             "defense": 953,
             "health": 2072
         },
         "lb2": {
-            "power": 1176,
+            "power": 1175,
             "attack": 1182,
             "defense": 1091,
             "health": 2370
@@ -30578,6 +31051,7 @@ window.allHeroes =
         ],
         "source": "挑戰 - 貝武夫",
         "Release date": "2025-02-13",
+        "specialId": "gruesome_charge",
         "star": 5,
         "power": 1183,
         "attack": 1213,
@@ -30599,13 +31073,13 @@ window.allHeroes =
         "costume_id": 0,
         "originalIndex": 473,
         "lb1": {
-            "power": 1266,
+            "power": 1265,
             "attack": 1307,
             "defense": 1287,
             "health": 2308
         },
         "lb2": {
-            "power": 1431,
+            "power": 1430,
             "attack": 1496,
             "defense": 1473,
             "health": 2641
@@ -30652,6 +31126,7 @@ window.allHeroes =
         ],
         "source": "聯盟 - 飛蛾",
         "Release date": "2025-01-23",
+        "specialId": "adorable_pest",
         "star": 5,
         "power": 1178,
         "attack": 1225,
@@ -30671,13 +31146,13 @@ window.allHeroes =
         "costume_id": 0,
         "originalIndex": 474,
         "lb1": {
-            "power": 1261,
+            "power": 1260,
             "attack": 1320,
             "defense": 1354,
             "health": 2106
         },
         "lb2": {
-            "power": 1425,
+            "power": 1424,
             "attack": 1511,
             "defense": 1549,
             "health": 2410
@@ -30720,6 +31195,7 @@ window.allHeroes =
         ],
         "source": "三國召喚",
         "Release date": "2022-03-14",
+        "specialId": "green_dragon_crescent_blade",
         "star": 5,
         "power": 835,
         "attack": 826,
@@ -30736,7 +31212,7 @@ window.allHeroes =
         "costume_id": 0,
         "originalIndex": 475,
         "lb1": {
-            "power": 891,
+            "power": 890,
             "attack": 890,
             "defense": 834,
             "health": 1578
@@ -30785,6 +31261,7 @@ window.allHeroes =
         ],
         "source": "三國召喚",
         "Release date": "2024-10-01",
+        "specialId": "green_dragon_inferno",
         "star": 5,
         "power": 1104,
         "attack": 1144,
@@ -30806,7 +31283,7 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 476,
         "lb1": {
-            "power": 1181,
+            "power": 1180,
             "attack": 1233,
             "defense": 1171,
             "health": 2117
@@ -30857,6 +31334,7 @@ window.allHeroes =
         ],
         "source": "挑戰節 I",
         "Release date": "2020-01-08",
+        "specialId": "elemental_magic",
         "star": 5,
         "power": 780,
         "attack": 714,
@@ -30880,7 +31358,7 @@ window.allHeroes =
             "health": 1443
         },
         "lb2": {
-            "power": 934,
+            "power": 933,
             "attack": 881,
             "defense": 962,
             "health": 1651
@@ -30920,6 +31398,7 @@ window.allHeroes =
         ],
         "source": "怪獸島召喚",
         "Release date": "2022-11-12",
+        "specialId": "demolishing_crush",
         "star": 5,
         "power": 886,
         "attack": 819,
@@ -30944,7 +31423,7 @@ window.allHeroes =
             "health": 1756
         },
         "lb2": {
-            "power": 1065,
+            "power": 1064,
             "attack": 1010,
             "defense": 1089,
             "health": 2009
@@ -30987,6 +31466,7 @@ window.allHeroes =
         ],
         "source": "聖約召喚",
         "Release date": "2023-06-28",
+        "specialId": "bag_of_necessities",
         "star": 5,
         "power": 926,
         "attack": 760,
@@ -31022,7 +31502,7 @@ window.allHeroes =
             "health": 2011
         },
         "lb2": {
-            "power": 1113,
+            "power": 1112,
             "attack": 937,
             "defense": 1206,
             "health": 2301
@@ -31068,6 +31548,7 @@ window.allHeroes =
         ],
         "source": "S3 - 瓦爾哈拉",
         "Release date": "2020-02-27",
+        "specialId": "boon_of_gjallarhorn",
         "star": 5,
         "power": 788,
         "attack": 655,
@@ -31090,7 +31571,7 @@ window.allHeroes =
             "health": 1527
         },
         "lb2": {
-            "power": 944,
+            "power": 943,
             "attack": 807,
             "defense": 1041,
             "health": 1747
@@ -31130,6 +31611,7 @@ window.allHeroes =
         ],
         "source": "S3 - 瓦爾哈拉",
         "Release date": "2022-10-24",
+        "specialId": "blessing_of_gjallarhorn",
         "star": 5,
         "power": 988,
         "attack": 832,
@@ -31189,6 +31671,7 @@ window.allHeroes =
         ],
         "source": "S1 - 經典",
         "Release date": "2017-03-01",
+        "specialId": "anger_of_forest",
         "star": 5,
         "power": 753,
         "attack": 657,
@@ -31210,7 +31693,7 @@ window.allHeroes =
             "health": 1665
         },
         "lb2": {
-            "power": 900,
+            "power": 899,
             "attack": 810,
             "defense": 802,
             "health": 1905
@@ -31246,6 +31729,7 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2020-01-01",
+        "specialId": "anger_of_the_jester",
         "star": 5,
         "power": 849,
         "attack": 744,
@@ -31261,13 +31745,13 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 483,
         "lb1": {
-            "power": 906,
+            "power": 905,
             "attack": 802,
             "defense": 804,
             "health": 1962
         },
         "lb2": {
-            "power": 1018,
+            "power": 1017,
             "attack": 917,
             "defense": 920,
             "health": 2245
@@ -31307,6 +31791,7 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2022-10-31",
+        "specialId": "anger_of_the_woods",
         "star": 5,
         "power": 966,
         "attack": 842,
@@ -31324,13 +31809,13 @@ window.allHeroes =
         "costume_id": 2,
         "originalIndex": 484,
         "lb1": {
-            "power": 1032,
+            "power": 1031,
             "attack": 906,
             "defense": 953,
             "health": 2306
         },
         "lb2": {
-            "power": 1163,
+            "power": 1162,
             "attack": 1038,
             "defense": 1090,
             "health": 2639
@@ -31370,6 +31855,7 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2024-07-16",
+        "specialId": "tantrum_of_forest",
         "star": 5,
         "power": 1131,
         "attack": 940,
@@ -31394,7 +31880,7 @@ window.allHeroes =
             "health": 2867
         },
         "lb2": {
-            "power": 1367,
+            "power": 1366,
             "attack": 1160,
             "defense": 1345,
             "health": 3281
@@ -31438,6 +31924,7 @@ window.allHeroes =
         ],
         "source": "聯盟 - 騎士衝擊",
         "Release date": "2024-06-05",
+        "specialId": "mending_bronze_axe",
         "star": 5,
         "power": 1079,
         "attack": 1050,
@@ -31503,6 +31990,7 @@ window.allHeroes =
         ],
         "source": "月活動 - 卡勒瓦拉",
         "Release date": "2022-06-20",
+        "specialId": "dreaded_waters",
         "star": 5,
         "power": 836,
         "attack": 811,
@@ -31521,13 +32009,13 @@ window.allHeroes =
         "costume_id": 0,
         "originalIndex": 487,
         "lb1": {
-            "power": 892,
+            "power": 891,
             "attack": 874,
             "defense": 852,
             "health": 1589
         },
         "lb2": {
-            "power": 1003,
+            "power": 1002,
             "attack": 1000,
             "defense": 975,
             "health": 1818
@@ -31571,6 +32059,7 @@ window.allHeroes =
         ],
         "source": "高塔 - 忍者",
         "Release date": "2024-12-05",
+        "specialId": "suppressing_ki",
         "star": 5,
         "power": 1130,
         "attack": 1184,
@@ -31599,13 +32088,13 @@ window.allHeroes =
         "costume_id": 0,
         "originalIndex": 488,
         "lb1": {
-            "power": 1209,
+            "power": 1208,
             "attack": 1276,
             "defense": 1276,
             "health": 1998
         },
         "lb2": {
-            "power": 1365,
+            "power": 1364,
             "attack": 1460,
             "defense": 1460,
             "health": 2286
@@ -31646,6 +32135,7 @@ window.allHeroes =
         ],
         "source": "高塔 - 忍者",
         "Release date": "2020-10-13",
+        "specialId": "shared_visage",
         "star": 5,
         "power": 798,
         "attack": 692,
@@ -31677,7 +32167,7 @@ window.allHeroes =
             "health": 1558
         },
         "lb2": {
-            "power": 956,
+            "power": 955,
             "attack": 853,
             "defense": 1010,
             "health": 1783
@@ -31718,6 +32208,7 @@ window.allHeroes =
         ],
         "source": "S1 - 經典",
         "Release date": "2017-03-01",
+        "specialId": "eclipse_shield",
         "star": 5,
         "power": 757,
         "attack": 696,
@@ -31733,13 +32224,13 @@ window.allHeroes =
         "costume_id": 0,
         "originalIndex": 490,
         "lb1": {
-            "power": 807,
+            "power": 806,
             "attack": 750,
             "defense": 825,
             "health": 1343
         },
         "lb2": {
-            "power": 905,
+            "power": 904,
             "attack": 858,
             "defense": 944,
             "health": 1536
@@ -31776,6 +32267,7 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2020-05-18",
+        "specialId": "crescent_shield",
         "star": 5,
         "power": 851,
         "attack": 751,
@@ -31792,13 +32284,13 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 491,
         "lb1": {
-            "power": 908,
+            "power": 907,
             "attack": 810,
             "defense": 962,
             "health": 1643
         },
         "lb2": {
-            "power": 1021,
+            "power": 1020,
             "attack": 926,
             "defense": 1101,
             "health": 1880
@@ -31840,6 +32332,7 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2023-04-17",
+        "specialId": "lunar_shield",
         "star": 5,
         "power": 966,
         "attack": 838,
@@ -31904,6 +32397,7 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2024-10-06",
+        "specialId": "adorable_shield",
         "star": 5,
         "power": 1133,
         "attack": 1174,
@@ -31922,13 +32416,13 @@ window.allHeroes =
         "costume_id": 3,
         "originalIndex": 493,
         "lb1": {
-            "power": 1212,
+            "power": 1211,
             "attack": 1264,
             "defense": 1159,
             "health": 2283
         },
         "lb2": {
-            "power": 1368,
+            "power": 1367,
             "attack": 1447,
             "defense": 1325,
             "health": 2611
@@ -31974,6 +32468,7 @@ window.allHeroes =
         ],
         "source": "怪獸島召喚",
         "Release date": "2022-10-15",
+        "specialId": "mantis_strike",
         "star": 5,
         "power": 888,
         "attack": 889,
@@ -32048,6 +32543,7 @@ window.allHeroes =
         ],
         "source": "傳奇召喚 - 月英",
         "Release date": "2019-10-01",
+        "specialId": "stiletto_cyclone",
         "star": 5,
         "power": 770,
         "attack": 749,
@@ -32066,13 +32562,13 @@ window.allHeroes =
         "costume_id": 0,
         "originalIndex": 495,
         "lb1": {
-            "power": 821,
+            "power": 820,
             "attack": 808,
             "defense": 792,
             "health": 1365
         },
         "lb2": {
-            "power": 921,
+            "power": 920,
             "attack": 924,
             "defense": 906,
             "health": 1562
@@ -32112,6 +32608,7 @@ window.allHeroes =
         ],
         "source": "哥布林召喚",
         "Release date": "2024-11-24",
+        "specialId": "laundry_day",
         "star": 5,
         "power": 1118,
         "attack": 1128,
@@ -32186,6 +32683,7 @@ window.allHeroes =
         ],
         "source": "挑戰節 I",
         "Release date": "2017-09-07",
+        "specialId": "moonlight_serenade",
         "star": 5,
         "power": 765,
         "attack": 805,
@@ -32207,7 +32705,7 @@ window.allHeroes =
             "health": 1327
         },
         "lb2": {
-            "power": 915,
+            "power": 914,
             "attack": 993,
             "defense": 820,
             "health": 1518
@@ -32246,6 +32744,7 @@ window.allHeroes =
         ],
         "source": "挑戰節 I",
         "Release date": "2023-12-28",
+        "specialId": "serenade_of_sedition",
         "star": 5,
         "power": 956,
         "attack": 1022,
@@ -32264,13 +32763,13 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 498,
         "lb1": {
-            "power": 1022,
+            "power": 1021,
             "attack": 1102,
             "defense": 896,
             "health": 1857
         },
         "lb2": {
-            "power": 1151,
+            "power": 1150,
             "attack": 1261,
             "defense": 1025,
             "health": 2125
@@ -32309,6 +32808,7 @@ window.allHeroes =
         ],
         "source": "挑戰節 I",
         "Release date": "2019-09-12",
+        "specialId": "magical_sword",
         "star": 5,
         "power": 780,
         "attack": 756,
@@ -32325,13 +32825,13 @@ window.allHeroes =
         "costume_id": 0,
         "originalIndex": 499,
         "lb1": {
-            "power": 832,
+            "power": 831,
             "attack": 814,
             "defense": 799,
             "health": 1414
         },
         "lb2": {
-            "power": 934,
+            "power": 933,
             "attack": 932,
             "defense": 914,
             "health": 1617
@@ -32369,6 +32869,7 @@ window.allHeroes =
         ],
         "source": "挑戰節 I",
         "Release date": "2021-12-15",
+        "specialId": "blessed_blade",
         "star": 5,
         "power": 977,
         "attack": 946,
@@ -32386,7 +32887,7 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 500,
         "lb1": {
-            "power": 1044,
+            "power": 1043,
             "attack": 1019,
             "defense": 1010,
             "health": 1994
@@ -32433,6 +32934,7 @@ window.allHeroes =
         ],
         "source": "傳奇召喚 - 月英",
         "Release date": "2023-12-01",
+        "specialId": "spirit_of_spring",
         "star": 5,
         "power": 899,
         "attack": 832,
@@ -32453,13 +32955,13 @@ window.allHeroes =
         "costume_id": 0,
         "originalIndex": 501,
         "lb1": {
-            "power": 960,
+            "power": 959,
             "attack": 896,
             "defense": 987,
             "health": 1749
         },
         "lb2": {
-            "power": 1081,
+            "power": 1080,
             "attack": 1026,
             "defense": 1130,
             "health": 2001
@@ -32498,6 +33000,7 @@ window.allHeroes =
         ],
         "source": "哥布林召喚",
         "Release date": "2023-12-11",
+        "specialId": "flute_of_enchantment",
         "star": 5,
         "power": 980,
         "attack": 994,
@@ -32563,6 +33066,7 @@ window.allHeroes =
         ],
         "source": "野地召喚",
         "Release date": "2025-03-17",
+        "specialId": "claws_of_the_lioness",
         "star": 5,
         "power": 1214,
         "attack": 1351,
@@ -32629,6 +33133,7 @@ window.allHeroes =
         ],
         "source": "S1 - 經典",
         "Release date": "2017-03-01",
+        "specialId": "perfect_shot",
         "star": 5,
         "power": 755,
         "attack": 729,
@@ -32643,7 +33148,7 @@ window.allHeroes =
         "costume_id": 0,
         "originalIndex": 504,
         "lb1": {
-            "power": 805,
+            "power": 804,
             "attack": 785,
             "defense": 774,
             "health": 1345
@@ -32680,6 +33185,7 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2020-01-01",
+        "specialId": "pure_shot",
         "star": 5,
         "power": 849,
         "attack": 832,
@@ -32737,6 +33243,7 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2023-04-17",
+        "specialId": "flawless_shot",
         "star": 5,
         "power": 964,
         "attack": 971,
@@ -32752,7 +33259,7 @@ window.allHeroes =
         "costume_id": 2,
         "originalIndex": 506,
         "lb1": {
-            "power": 1030,
+            "power": 1029,
             "attack": 1047,
             "defense": 972,
             "health": 1900
@@ -32793,6 +33300,7 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2024-02-12",
+        "specialId": "toon_shot",
         "star": 5,
         "power": 1130,
         "attack": 1139,
@@ -32810,13 +33318,13 @@ window.allHeroes =
         "costume_id": 3,
         "originalIndex": 507,
         "lb1": {
-            "power": 1209,
+            "power": 1208,
             "attack": 1227,
             "defense": 1196,
             "health": 2283
         },
         "lb2": {
-            "power": 1365,
+            "power": 1364,
             "attack": 1404,
             "defense": 1368,
             "health": 2611
@@ -32852,6 +33360,7 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2025-05-10",
+        "specialId": "glass_arrow",
         "star": 5,
         "power": 1237,
         "attack": 1323,
@@ -32875,7 +33384,7 @@ window.allHeroes =
             "health": 2362
         },
         "lb2": {
-            "power": 1497,
+            "power": 1496,
             "attack": 1631,
             "defense": 1510,
             "health": 2702
@@ -32917,6 +33426,7 @@ window.allHeroes =
         ],
         "source": "聯盟 - 飛蛾",
         "Release date": "2025-06-02",
+        "specialId": "dozy_mead",
         "star": 5,
         "power": 1206,
         "attack": 1231,
@@ -32992,6 +33502,7 @@ window.allHeroes =
         ],
         "source": "三國召喚",
         "Release date": "2022-05-23",
+        "specialId": "call_to_arms",
         "star": 5,
         "power": 836,
         "attack": 815,
@@ -33014,7 +33525,7 @@ window.allHeroes =
             "health": 1562
         },
         "lb2": {
-            "power": 1003,
+            "power": 1002,
             "attack": 1005,
             "defense": 985,
             "health": 1788
@@ -33057,6 +33568,7 @@ window.allHeroes =
         ],
         "source": "三國召喚",
         "Release date": "2025-01-29",
+        "specialId": "forest_command",
         "star": 5,
         "power": 1107,
         "attack": 1134,
@@ -33078,13 +33590,13 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 511,
         "lb1": {
-            "power": 1184,
+            "power": 1183,
             "attack": 1221,
             "defense": 1147,
             "health": 2217
         },
         "lb2": {
-            "power": 1337,
+            "power": 1336,
             "attack": 1398,
             "defense": 1312,
             "health": 2537
@@ -33131,6 +33643,7 @@ window.allHeroes =
         ],
         "source": "S4 - 地底荒野",
         "Release date": "2021-11-04",
+        "specialId": "transcendental_frame",
         "star": 5,
         "power": 810,
         "attack": 721,
@@ -33158,7 +33671,7 @@ window.allHeroes =
             "health": 1545
         },
         "lb2": {
-            "power": 971,
+            "power": 970,
             "attack": 889,
             "defense": 1026,
             "health": 1767
@@ -33200,6 +33713,7 @@ window.allHeroes =
         ],
         "source": "S4 - 地底荒野",
         "Release date": "2024-08-29",
+        "specialId": "transcendental_charge",
         "star": 5,
         "power": 1026,
         "attack": 928,
@@ -33265,6 +33779,7 @@ window.allHeroes =
         ],
         "source": "S5 - 沙丘",
         "Release date": "2022-09-29",
+        "specialId": "bringer_of_order",
         "star": 5,
         "power": 865,
         "attack": 832,
@@ -33291,7 +33806,7 @@ window.allHeroes =
             "health": 1660
         },
         "lb2": {
-            "power": 1039,
+            "power": 1038,
             "attack": 1026,
             "defense": 1031,
             "health": 1899
@@ -33329,6 +33844,7 @@ window.allHeroes =
         ],
         "source": "S5 - 沙丘",
         "Release date": "2024-02-05",
+        "specialId": "protector_of_the_blue_river",
         "star": 5,
         "power": 1209,
         "attack": 1197,
@@ -33351,13 +33867,13 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 515,
         "lb1": {
-            "power": 1294,
+            "power": 1293,
             "attack": 1290,
             "defense": 1314,
             "health": 2496
         },
         "lb2": {
-            "power": 1463,
+            "power": 1462,
             "attack": 1476,
             "defense": 1504,
             "health": 2856
@@ -33396,6 +33912,7 @@ window.allHeroes =
         ],
         "source": "星界召喚",
         "Release date": "2025-01-06",
+        "specialId": "astral_brew",
         "star": 5,
         "power": 1160,
         "attack": 1172,
@@ -33461,6 +33978,7 @@ window.allHeroes =
         ],
         "source": "傳奇召喚 - 月英",
         "Release date": "2019-05-01",
+        "specialId": "hide_in_shadows",
         "star": 5,
         "power": 770,
         "attack": 821,
@@ -33479,7 +33997,7 @@ window.allHeroes =
         "costume_id": 0,
         "originalIndex": 517,
         "lb1": {
-            "power": 821,
+            "power": 820,
             "attack": 885,
             "defense": 699,
             "health": 1358
@@ -33523,6 +34041,7 @@ window.allHeroes =
         ],
         "source": "挑戰節 II",
         "Release date": "2022-11-03",
+        "specialId": "puppy_tales",
         "star": 5,
         "power": 875,
         "attack": 836,
@@ -33591,6 +34110,7 @@ window.allHeroes =
         ],
         "source": "月活動 - 海灘派對",
         "Release date": "2024-06-03",
+        "specialId": "super_duper_spray",
         "star": 5,
         "power": 1018,
         "attack": 1065,
@@ -33610,7 +34130,7 @@ window.allHeroes =
         "costume_id": 0,
         "originalIndex": 519,
         "lb1": {
-            "power": 1088,
+            "power": 1087,
             "attack": 1147,
             "defense": 1041,
             "health": 1929
@@ -33660,6 +34180,7 @@ window.allHeroes =
         ],
         "source": "挑戰 - 石像鬼",
         "Release date": "2024-05-16",
+        "specialId": "fluff_in_the_air",
         "star": 5,
         "power": 1049,
         "attack": 1102,
@@ -33679,7 +34200,7 @@ window.allHeroes =
         "costume_id": 0,
         "originalIndex": 520,
         "lb1": {
-            "power": 1122,
+            "power": 1121,
             "attack": 1187,
             "defense": 1132,
             "health": 1887
@@ -33726,6 +34247,7 @@ window.allHeroes =
         ],
         "source": "怪獸島召喚",
         "Release date": "2023-03-03",
+        "specialId": "misty_punches",
         "star": 5,
         "power": 894,
         "attack": 885,
@@ -33745,13 +34267,13 @@ window.allHeroes =
         "costume_id": 0,
         "originalIndex": 521,
         "lb1": {
-            "power": 955,
+            "power": 954,
             "attack": 954,
             "defense": 950,
             "health": 1642
         },
         "lb2": {
-            "power": 1075,
+            "power": 1074,
             "attack": 1092,
             "defense": 1087,
             "health": 1879
@@ -33793,11 +34315,12 @@ window.allHeroes =
         ],
         "source": "星界召喚",
         "Release date": "2024-03-07",
+        "specialId": "leafglow_bloom",
         "star": 5,
-        "power": 1011,
+        "power": 1014,
         "attack": 994,
-        "defense": 1067,
-        "health": 1713,
+        "defense": 1073,
+        "health": 1720,
         "effects": [
             "在接下來 3 個回合內，在任何敵人施放其特殊技能後，此角色會對所有敵人造成 235% 傷害。",
             "所有盟友獲得 +35% 法力產出，持續 3 回合。"
@@ -33852,6 +34375,7 @@ window.allHeroes =
         ],
         "source": "挑戰節 I",
         "Release date": "2018-01-05",
+        "specialId": "unnatural_pact",
         "star": 5,
         "power": 765,
         "attack": 716,
@@ -33873,7 +34397,7 @@ window.allHeroes =
             "health": 1447
         },
         "lb2": {
-            "power": 915,
+            "power": 914,
             "attack": 883,
             "defense": 889,
             "health": 1656
@@ -33921,6 +34445,7 @@ window.allHeroes =
         ],
         "source": "月活動 - 冬季",
         "Release date": "2018-12-02",
+        "specialId": "super_porridge",
         "star": 5,
         "power": 770,
         "attack": 605,
@@ -33982,6 +34507,7 @@ window.allHeroes =
         ],
         "source": "月活動 - 冬季",
         "Release date": "2021-12-01",
+        "specialId": "hyper_porridge",
         "star": 5,
         "power": 996,
         "attack": 789,
@@ -34044,6 +34570,7 @@ window.allHeroes =
         ],
         "source": "超級元素",
         "Release date": "2024-10-02",
+        "specialId": "insidious_goo",
         "star": 5,
         "power": 1141,
         "attack": 1168,
@@ -34109,6 +34636,7 @@ window.allHeroes =
         ],
         "source": "高塔 - 忍者",
         "Release date": "2023-04-05",
+        "specialId": "resolute_spirit",
         "star": 5,
         "power": 873,
         "attack": 817,
@@ -34135,7 +34663,7 @@ window.allHeroes =
         "costume_id": 0,
         "originalIndex": 527,
         "lb1": {
-            "power": 932,
+            "power": 931,
             "attack": 881,
             "defense": 963,
             "health": 1633
@@ -34181,6 +34709,7 @@ window.allHeroes =
         ],
         "source": "傳奇召喚 - 月英",
         "Release date": "2025-02-01",
+        "specialId": "mesmerizing_mirror",
         "star": 5,
         "power": 1063,
         "attack": 1095,
@@ -34245,6 +34774,7 @@ window.allHeroes =
         ],
         "source": "傳奇召喚",
         "Release date": "2024-02-09",
+        "specialId": "the_perfect_throw",
         "star": 5,
         "power": 1000,
         "attack": 1027,
@@ -34265,13 +34795,13 @@ window.allHeroes =
         "costume_id": 0,
         "originalIndex": 529,
         "lb1": {
-            "power": 1069,
+            "power": 1068,
             "attack": 1107,
             "defense": 1076,
             "health": 1820
         },
         "lb2": {
-            "power": 1205,
+            "power": 1204,
             "attack": 1267,
             "defense": 1231,
             "health": 2082
@@ -34315,6 +34845,7 @@ window.allHeroes =
         ],
         "source": "S7 - 火焰與冰霜的寶藏",
         "Release date": "2024-12-03",
+        "specialId": "saga_of_protection",
         "star": 5,
         "power": 1165,
         "attack": 1130,
@@ -34384,6 +34915,7 @@ window.allHeroes =
         ],
         "source": "神秘 - 暗影召喚",
         "Release date": "2025-02-06",
+        "specialId": "cut_cure_and_craze",
         "star": 5,
         "power": 1170,
         "attack": 1176,
@@ -34401,13 +34933,13 @@ window.allHeroes =
         "costume_id": 0,
         "originalIndex": 531,
         "lb1": {
-            "power": 1252,
+            "power": 1251,
             "attack": 1267,
             "defense": 1260,
             "health": 2362
         },
         "lb2": {
-            "power": 1415,
+            "power": 1414,
             "attack": 1450,
             "defense": 1442,
             "health": 2702
@@ -34452,6 +34984,7 @@ window.allHeroes =
         ],
         "source": "野地召喚",
         "Release date": "2024-08-31",
+        "specialId": "feyfire_slash",
         "star": 5,
         "power": 1137,
         "attack": 1135,
@@ -34478,7 +35011,7 @@ window.allHeroes =
             "health": 2346
         },
         "lb2": {
-            "power": 1374,
+            "power": 1373,
             "attack": 1399,
             "defense": 1369,
             "health": 2684
@@ -34519,6 +35052,7 @@ window.allHeroes =
         ],
         "source": "高塔 - 忍者",
         "Release date": "2022-02-02",
+        "specialId": "suffocating_smoke",
         "star": 5,
         "power": 818,
         "attack": 815,
@@ -34551,7 +35085,7 @@ window.allHeroes =
             "health": 1547
         },
         "lb2": {
-            "power": 980,
+            "power": 979,
             "attack": 1005,
             "defense": 911,
             "health": 1770
@@ -34591,6 +35125,7 @@ window.allHeroes =
         ],
         "source": "S4 - 地底荒野",
         "Release date": "2021-03-25",
+        "specialId": "valiant_lunge",
         "star": 5,
         "power": 807,
         "attack": 832,
@@ -34609,7 +35144,7 @@ window.allHeroes =
         "costume_id": 0,
         "originalIndex": 534,
         "lb1": {
-            "power": 860,
+            "power": 859,
             "attack": 896,
             "defense": 783,
             "health": 1443
@@ -34660,6 +35195,7 @@ window.allHeroes =
         ],
         "source": "S4 - 地底荒野",
         "Release date": "2023-05-25",
+        "specialId": "innovative_lunge",
         "star": 5,
         "power": 1020,
         "attack": 1062,
@@ -34679,7 +35215,7 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 535,
         "lb1": {
-            "power": 1091,
+            "power": 1090,
             "attack": 1145,
             "defense": 1038,
             "health": 1958
@@ -34729,6 +35265,7 @@ window.allHeroes =
         ],
         "source": "哥布林召喚",
         "Release date": "2024-09-01",
+        "specialId": "reckless_sword_swings",
         "star": 5,
         "power": 1117,
         "attack": 1172,
@@ -34749,13 +35286,13 @@ window.allHeroes =
         "costume_id": 0,
         "originalIndex": 536,
         "lb1": {
-            "power": 1195,
+            "power": 1194,
             "attack": 1263,
             "defense": 1181,
             "health": 2122
         },
         "lb2": {
-            "power": 1349,
+            "power": 1348,
             "attack": 1445,
             "defense": 1351,
             "health": 2428
@@ -34799,6 +35336,7 @@ window.allHeroes =
         ],
         "source": "挑戰 - 歌劇秘辛",
         "Release date": "2024-01-25",
+        "specialId": "dance_of_the_heron",
         "star": 5,
         "power": 996,
         "attack": 984,
@@ -34828,7 +35366,7 @@ window.allHeroes =
             "health": 1964
         },
         "lb2": {
-            "power": 1200,
+            "power": 1199,
             "attack": 1214,
             "defense": 1198,
             "health": 2247
@@ -34869,6 +35407,7 @@ window.allHeroes =
         ],
         "source": "月活動 - 農曆新年",
         "Release date": "2024-02-08",
+        "specialId": "confident_strategy",
         "star": 5,
         "power": 983,
         "attack": 1001,
@@ -34938,6 +35477,7 @@ window.allHeroes =
         ],
         "source": "聯盟 - 火槍手",
         "Release date": "2022-12-14",
+        "specialId": "the_queens_speech",
         "star": 5,
         "power": 877,
         "attack": 741,
@@ -34957,13 +35497,13 @@ window.allHeroes =
         "costume_id": 0,
         "originalIndex": 539,
         "lb1": {
-            "power": 936,
+            "power": 935,
             "attack": 799,
             "defense": 994,
             "health": 1807
         },
         "lb2": {
-            "power": 1053,
+            "power": 1052,
             "attack": 914,
             "defense": 1137,
             "health": 2067
@@ -35003,6 +35543,7 @@ window.allHeroes =
         ],
         "source": "聯盟 - 騎士衝擊",
         "Release date": "2021-10-13",
+        "specialId": "howling_sword",
         "star": 5,
         "power": 816,
         "attack": 795,
@@ -35025,7 +35566,7 @@ window.allHeroes =
             "health": 1545
         },
         "lb2": {
-            "power": 978,
+            "power": 977,
             "attack": 980,
             "defense": 937,
             "health": 1767
@@ -35064,6 +35605,7 @@ window.allHeroes =
         ],
         "source": "聯盟 - 騎士衝擊",
         "Release date": "2024-12-17",
+        "specialId": "rusty_blade",
         "star": 5,
         "power": 1148,
         "attack": 1182,
@@ -35084,13 +35626,13 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 541,
         "lb1": {
-            "power": 1228,
+            "power": 1227,
             "attack": 1274,
             "defense": 1207,
             "health": 2279
         },
         "lb2": {
-            "power": 1387,
+            "power": 1386,
             "attack": 1457,
             "defense": 1382,
             "health": 2607
@@ -35129,6 +35671,7 @@ window.allHeroes =
         ],
         "source": "S3 - 瓦爾哈拉",
         "Release date": "2020-02-27",
+        "specialId": "nuts_of_yggdrasil",
         "star": 5,
         "power": 785,
         "attack": 753,
@@ -35150,7 +35693,7 @@ window.allHeroes =
             "health": 1458
         },
         "lb2": {
-            "power": 940,
+            "power": 939,
             "attack": 929,
             "defense": 914,
             "health": 1668
@@ -35188,6 +35731,7 @@ window.allHeroes =
         ],
         "source": "S3 - 瓦爾哈拉",
         "Release date": "2023-09-25",
+        "specialId": "roots_of_yggdrasil",
         "star": 5,
         "power": 982,
         "attack": 1080,
@@ -35203,7 +35747,7 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 543,
         "lb1": {
-            "power": 1049,
+            "power": 1048,
             "attack": 1164,
             "defense": 936,
             "health": 1815
@@ -35247,6 +35791,7 @@ window.allHeroes =
         ],
         "source": "高塔 - 貓頭鷹",
         "Release date": "2023-12-20",
+        "specialId": "mixed_green_herbs",
         "star": 5,
         "power": 984,
         "attack": 947,
@@ -35271,7 +35816,7 @@ window.allHeroes =
             "health": 1827
         },
         "lb2": {
-            "power": 1185,
+            "power": 1184,
             "attack": 1168,
             "defense": 1280,
             "health": 2090
@@ -35311,6 +35856,7 @@ window.allHeroes =
         ],
         "source": "聖約召喚",
         "Release date": "2024-06-06",
+        "specialId": "first_law_of_thermodynamics",
         "star": 5,
         "power": 1061,
         "attack": 980,
@@ -35332,7 +35878,7 @@ window.allHeroes =
         "costume_id": 0,
         "originalIndex": 545,
         "lb1": {
-            "power": 1135,
+            "power": 1134,
             "attack": 1056,
             "defense": 1178,
             "health": 2215
@@ -35379,6 +35925,7 @@ window.allHeroes =
         ],
         "source": "超級元素",
         "Release date": "2022-12-05",
+        "specialId": "elemental_infusion_arrow",
         "star": 5,
         "power": 970,
         "attack": 939,
@@ -35438,6 +35985,7 @@ window.allHeroes =
         ],
         "source": "超級元素",
         "Release date": "2025-07-18",
+        "specialId": "sonic_infusion_arrow",
         "star": 5,
         "power": 1221,
         "attack": 1216,
@@ -35466,7 +36014,7 @@ window.allHeroes =
             "health": 2579
         },
         "lb2": {
-            "power": 1477,
+            "power": 1476,
             "attack": 1500,
             "defense": 1477,
             "health": 2951
@@ -35503,11 +36051,12 @@ window.allHeroes =
         ],
         "source": "月活動 - 斯普林維爾",
         "Release date": "2025-03-31",
+        "specialId": "silencing_stick_up",
         "star": 5,
-        "power": 1169,
-        "attack": 1240,
-        "defense": 1116,
-        "health": 2127,
+        "power": 1172,
+        "attack": 1242,
+        "defense": 1120,
+        "health": 2134,
         "effects": [
             "對目標造成 550% 傷害。",
             "目標陷入沉默，持續 3 回合。",
@@ -35527,7 +36076,7 @@ window.allHeroes =
             "health": 2293
         },
         "lb2": {
-            "power": 1413,
+            "power": 1412,
             "attack": 1529,
             "defense": 1376,
             "health": 2623
@@ -35569,6 +36118,7 @@ window.allHeroes =
         ],
         "source": "三國召喚",
         "Release date": "2023-08-14",
+        "specialId": "prayer_of_the_desert",
         "star": 5,
         "power": 933,
         "attack": 924,
@@ -35588,13 +36138,13 @@ window.allHeroes =
         "costume_id": 0,
         "originalIndex": 549,
         "lb1": {
-            "power": 997,
+            "power": 996,
             "attack": 996,
             "defense": 1003,
             "health": 1731
         },
         "lb2": {
-            "power": 1123,
+            "power": 1122,
             "attack": 1140,
             "defense": 1148,
             "health": 1981
@@ -35620,7 +36170,7 @@ window.allHeroes =
     {
         "name": "希爾維莉亞 (Silvaria)",
         "fancy_name": "森林之神",
-        "AetherPower": "特殊加成",
+        "AetherPower": "壁壘",
         "color": "綠",
         "class": "野人",
         "speed": "中等",
@@ -35636,7 +36186,8 @@ window.allHeroes =
             "狙擊手"
         ],
         "source": "傳奇召喚 - 月英",
-        "Release date": "2022-04-01",
+        "Release date": "2020-03-01",
+        "specialId": "force_of_forest",
         "star": 5,
         "power": 806,
         "attack": 778,
@@ -35657,13 +36208,13 @@ window.allHeroes =
         "costume_id": 0,
         "originalIndex": 550,
         "lb1": {
-            "power": 860,
+            "power": 859,
             "attack": 839,
             "defense": 808,
             "health": 1536
         },
         "lb2": {
-            "power": 966,
+            "power": 965,
             "attack": 960,
             "defense": 924,
             "health": 1757
@@ -35706,6 +36257,7 @@ window.allHeroes =
         ],
         "source": "哥布林召喚",
         "Release date": "2023-09-18",
+        "specialId": "goblin_serenade",
         "star": 5,
         "power": 942,
         "attack": 908,
@@ -35726,13 +36278,13 @@ window.allHeroes =
         "costume_id": 0,
         "originalIndex": 551,
         "lb1": {
-            "power": 1006,
+            "power": 1005,
             "attack": 979,
             "defense": 1023,
             "health": 1798
         },
         "lb2": {
-            "power": 1133,
+            "power": 1132,
             "attack": 1120,
             "defense": 1170,
             "health": 2057
@@ -35768,6 +36320,7 @@ window.allHeroes =
         ],
         "source": "挑戰節 II",
         "Release date": "2023-05-18",
+        "specialId": "feral_arrows",
         "star": 5,
         "power": 878,
         "attack": 879,
@@ -35794,7 +36347,7 @@ window.allHeroes =
             "health": 1636
         },
         "lb2": {
-            "power": 1054,
+            "power": 1053,
             "attack": 1084,
             "defense": 1026,
             "health": 1871
@@ -35836,6 +36389,7 @@ window.allHeroes =
         ],
         "source": "S6 - 深淵謎團",
         "Release date": "2024-02-01",
+        "specialId": "overwhelming_raid",
         "star": 5,
         "power": 998,
         "attack": 974,
@@ -35863,13 +36417,13 @@ window.allHeroes =
         "costume_id": 0,
         "originalIndex": 553,
         "lb1": {
-            "power": 1066,
+            "power": 1065,
             "attack": 1050,
             "defense": 1147,
             "health": 1802
         },
         "lb2": {
-            "power": 1202,
+            "power": 1201,
             "attack": 1201,
             "defense": 1313,
             "health": 2062
@@ -35906,6 +36460,7 @@ window.allHeroes =
         ],
         "source": "S6 - 深淵謎團",
         "Release date": "2025-02-03",
+        "specialId": "opposing_raid",
         "star": 5,
         "power": 1246,
         "attack": 1199,
@@ -35934,7 +36489,7 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 554,
         "lb1": {
-            "power": 1334,
+            "power": 1333,
             "attack": 1292,
             "defense": 1528,
             "health": 2348
@@ -35979,6 +36534,7 @@ window.allHeroes =
         ],
         "source": "聖約召喚",
         "Release date": "2024-11-18",
+        "specialId": "fierce_pierce",
         "star": 5,
         "power": 1148,
         "attack": 1225,
@@ -36003,7 +36559,7 @@ window.allHeroes =
             "health": 1940
         },
         "lb2": {
-            "power": 1388,
+            "power": 1387,
             "attack": 1511,
             "defense": 1511,
             "health": 2219
@@ -36047,6 +36603,7 @@ window.allHeroes =
         ],
         "source": "怪獸島召喚",
         "Release date": "2023-02-09",
+        "specialId": "mallet_swing_of_the_beast",
         "star": 5,
         "power": 891,
         "attack": 898,
@@ -36066,13 +36623,13 @@ window.allHeroes =
         "costume_id": 0,
         "originalIndex": 556,
         "lb1": {
-            "power": 951,
+            "power": 950,
             "attack": 967,
             "defense": 910,
             "health": 1660
         },
         "lb2": {
-            "power": 1070,
+            "power": 1069,
             "attack": 1107,
             "defense": 1041,
             "health": 1899
@@ -36112,6 +36669,7 @@ window.allHeroes =
         ],
         "source": "星界召喚",
         "Release date": "2024-06-12",
+        "specialId": "power_wave",
         "star": 5,
         "power": 1062,
         "attack": 1032,
@@ -36131,7 +36689,7 @@ window.allHeroes =
         "costume_id": 0,
         "originalIndex": 557,
         "lb1": {
-            "power": 1136,
+            "power": 1135,
             "attack": 1112,
             "defense": 1256,
             "health": 1926
@@ -36182,6 +36740,7 @@ window.allHeroes =
         ],
         "source": "怪獸島召喚",
         "Release date": "2024-07-21",
+        "specialId": "primeval_glaive",
         "star": 5,
         "power": 1131,
         "attack": 1143,
@@ -36255,6 +36814,7 @@ window.allHeroes =
         ],
         "source": "月活動 - 卡勒瓦拉",
         "Release date": "2025-07-28",
+        "specialId": "snapping_jaws",
         "star": 5,
         "power": 1224,
         "attack": 1306,
@@ -36322,6 +36882,7 @@ window.allHeroes =
         ],
         "source": "高塔 - 忍者",
         "Release date": "2023-07-26",
+        "specialId": "splintering_shot",
         "star": 5,
         "power": 1006,
         "attack": 1046,
@@ -36351,13 +36912,13 @@ window.allHeroes =
         "costume_id": 0,
         "originalIndex": 560,
         "lb1": {
-            "power": 1075,
+            "power": 1074,
             "attack": 1127,
             "defense": 954,
             "health": 2057
         },
         "lb2": {
-            "power": 1212,
+            "power": 1211,
             "attack": 1290,
             "defense": 1092,
             "health": 2354
@@ -36395,6 +36956,7 @@ window.allHeroes =
         ],
         "source": "S2 - 亞特蘭蒂斯",
         "Release date": "2019-08-01",
+        "specialId": "martial_prowess",
         "star": 5,
         "power": 773,
         "attack": 824,
@@ -36416,7 +36978,7 @@ window.allHeroes =
             "health": 1336
         },
         "lb2": {
-            "power": 925,
+            "power": 924,
             "attack": 1016,
             "defense": 822,
             "health": 1529
@@ -36452,6 +37014,7 @@ window.allHeroes =
         ],
         "source": "S2 - 亞特蘭蒂斯",
         "Release date": "2022-12-12",
+        "specialId": "martial_dance",
         "star": 5,
         "power": 944,
         "attack": 867,
@@ -36513,6 +37076,7 @@ window.allHeroes =
         ],
         "source": "聯盟 - 騎士衝擊",
         "Release date": "2023-10-18",
+        "specialId": "the_call_to_hibernate",
         "star": 5,
         "power": 980,
         "attack": 997,
@@ -36563,7 +37127,7 @@ window.allHeroes =
     {
         "name": "特魯利亞 (Telluria)",
         "fancy_name": "森林之神",
-        "AetherPower": "特殊加成",
+        "AetherPower": "壁壘",
         "color": "綠",
         "class": "聖騎士",
         "speed": "中等",
@@ -36582,7 +37146,8 @@ window.allHeroes =
             "召喚小兵"
         ],
         "source": "傳奇召喚 - 月英",
-        "Release date": "2022-04-01",
+        "Release date": "2020-03-01",
+        "specialId": "force_of_forest",
         "star": 5,
         "power": 772,
         "attack": 613,
@@ -36609,7 +37174,7 @@ window.allHeroes =
             "health": 1536
         },
         "lb2": {
-            "power": 923,
+            "power": 922,
             "attack": 756,
             "defense": 1026,
             "health": 1757
@@ -36658,6 +37223,7 @@ window.allHeroes =
         ],
         "source": "高塔 - 魔法",
         "Release date": "2023-05-03",
+        "specialId": "poem_of_the_centaurs",
         "star": 5,
         "power": 890,
         "attack": 885,
@@ -36730,6 +37296,7 @@ window.allHeroes =
         ],
         "source": "挑戰節 I",
         "Release date": "2019-02-14",
+        "specialId": "mad_as_a_hatter",
         "star": 5,
         "power": 768,
         "attack": 735,
@@ -36745,13 +37312,13 @@ window.allHeroes =
         "costume_id": 0,
         "originalIndex": 566,
         "lb1": {
-            "power": 819,
+            "power": 818,
             "attack": 792,
             "defense": 765,
             "health": 1445
         },
         "lb2": {
-            "power": 919,
+            "power": 918,
             "attack": 906,
             "defense": 876,
             "health": 1653
@@ -36789,6 +37356,7 @@ window.allHeroes =
         ],
         "source": "挑戰節 I",
         "Release date": "2024-04-18",
+        "specialId": "mad_tea_party",
         "star": 5,
         "power": 963,
         "attack": 953,
@@ -36807,7 +37375,7 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 567,
         "lb1": {
-            "power": 1029,
+            "power": 1028,
             "attack": 1028,
             "defense": 942,
             "health": 2000
@@ -36855,6 +37423,7 @@ window.allHeroes =
         ],
         "source": "哥布林召喚",
         "Release date": "2024-07-07",
+        "specialId": "reporting_for_duty",
         "star": 5,
         "power": 1101,
         "attack": 1089,
@@ -36883,7 +37452,7 @@ window.allHeroes =
             "health": 2086
         },
         "lb2": {
-            "power": 1329,
+            "power": 1328,
             "attack": 1343,
             "defense": 1427,
             "health": 2387
@@ -36932,6 +37501,7 @@ window.allHeroes =
         ],
         "source": "挑戰節 II",
         "Release date": "2021-02-11",
+        "specialId": "accelerated_growth",
         "star": 5,
         "power": 800,
         "attack": 774,
@@ -36948,7 +37518,7 @@ window.allHeroes =
         "costume_id": 0,
         "originalIndex": 569,
         "lb1": {
-            "power": 853,
+            "power": 852,
             "attack": 834,
             "defense": 819,
             "health": 1476
@@ -36998,6 +37568,7 @@ window.allHeroes =
         ],
         "source": "挑戰節 II",
         "Release date": "2025-06-15",
+        "specialId": "blooming_growth",
         "star": 5,
         "power": 1196,
         "attack": 1157,
@@ -37016,13 +37587,13 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 570,
         "lb1": {
-            "power": 1280,
+            "power": 1279,
             "attack": 1246,
             "defense": 1414,
             "health": 2305
         },
         "lb2": {
-            "power": 1447,
+            "power": 1446,
             "attack": 1427,
             "defense": 1618,
             "health": 2637
@@ -37063,6 +37634,7 @@ window.allHeroes =
         ],
         "source": "月活動 - 卡勒瓦拉",
         "Release date": "2022-06-20",
+        "specialId": "song_of_the_morass",
         "star": 5,
         "power": 837,
         "attack": 799,
@@ -37086,7 +37658,7 @@ window.allHeroes =
             "health": 1596
         },
         "lb2": {
-            "power": 1004,
+            "power": 1003,
             "attack": 985,
             "defense": 995,
             "health": 1826
@@ -37122,6 +37694,7 @@ window.allHeroes =
         ],
         "source": "月活動 - 卡勒瓦拉",
         "Release date": "2024-07-22",
+        "specialId": "poem_of_the_morass",
         "star": 5,
         "power": 1083,
         "attack": 1097,
@@ -37139,13 +37712,13 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 572,
         "lb1": {
-            "power": 1158,
+            "power": 1157,
             "attack": 1183,
             "defense": 1147,
             "health": 2127
         },
         "lb2": {
-            "power": 1307,
+            "power": 1306,
             "attack": 1353,
             "defense": 1313,
             "health": 2434
@@ -37181,6 +37754,7 @@ window.allHeroes =
         ],
         "source": "超級元素",
         "Release date": "2025-07-04",
+        "specialId": "judgement_of_goo",
         "star": 5,
         "power": 1217,
         "attack": 1248,
@@ -37206,7 +37780,7 @@ window.allHeroes =
             "health": 2624
         },
         "lb2": {
-            "power": 1473,
+            "power": 1472,
             "attack": 1539,
             "defense": 1389,
             "health": 3002
@@ -37244,6 +37818,7 @@ window.allHeroes =
         ],
         "source": "高塔 - 貓頭鷹",
         "Release date": "2024-03-13",
+        "specialId": "swooping_talon",
         "star": 5,
         "power": 1047,
         "attack": 1075,
@@ -37268,7 +37843,7 @@ window.allHeroes =
             "health": 1953
         },
         "lb2": {
-            "power": 1263,
+            "power": 1262,
             "attack": 1325,
             "defense": 1290,
             "health": 2235
@@ -37314,6 +37889,7 @@ window.allHeroes =
         ],
         "source": "傳奇召喚 - 月英",
         "Release date": "2023-02-01",
+        "specialId": "withering_seasons",
         "star": 5,
         "power": 820,
         "attack": 716,
@@ -37386,6 +37962,7 @@ window.allHeroes =
         ],
         "source": "挑戰節 II",
         "Release date": "2022-08-11",
+        "specialId": "madrigal_of_mayhem",
         "star": 5,
         "power": 869,
         "attack": 830,
@@ -37452,6 +38029,7 @@ window.allHeroes =
         ],
         "source": "超級元素",
         "Release date": "2022-12-05",
+        "specialId": "staff_of_mana_control",
         "star": 5,
         "power": 900,
         "attack": 844,
@@ -37474,13 +38052,13 @@ window.allHeroes =
         "costume_id": 0,
         "originalIndex": 577,
         "lb1": {
-            "power": 962,
+            "power": 961,
             "attack": 910,
             "defense": 921,
             "health": 1858
         },
         "lb2": {
-            "power": 1082,
+            "power": 1081,
             "attack": 1041,
             "defense": 1054,
             "health": 2125
@@ -37524,6 +38102,7 @@ window.allHeroes =
         ],
         "source": "聯盟 - 騎士衝擊",
         "Release date": "2023-10-18",
+        "specialId": "power_of_the_forest",
         "star": 5,
         "power": 980,
         "attack": 1044,
@@ -37542,13 +38121,13 @@ window.allHeroes =
         "costume_id": 0,
         "originalIndex": 578,
         "lb1": {
-            "power": 1047,
+            "power": 1046,
             "attack": 1125,
             "defense": 1007,
             "health": 1756
         },
         "lb2": {
-            "power": 1180,
+            "power": 1179,
             "attack": 1287,
             "defense": 1153,
             "health": 2009
@@ -37593,6 +38172,7 @@ window.allHeroes =
         ],
         "source": "月活動 - 農曆新年",
         "Release date": "2025-01-27",
+        "specialId": "warding_off_evil",
         "star": 5,
         "power": 1154,
         "attack": 1120,
@@ -37662,6 +38242,7 @@ window.allHeroes =
         ],
         "source": "月活動 - 飛沙帝國",
         "Release date": "2018-06-21",
+        "specialId": "kings_curse",
         "star": 5,
         "power": 770,
         "attack": 618,
@@ -37728,6 +38309,7 @@ window.allHeroes =
         ],
         "source": "月活動 - 飛沙帝國",
         "Release date": "2021-06-21",
+        "specialId": "sand_wave_yunan",
         "star": 5,
         "power": 941,
         "attack": 800,
@@ -37745,13 +38327,13 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 581,
         "lb1": {
-            "power": 1005,
+            "power": 1004,
             "attack": 862,
             "defense": 1070,
             "health": 1990
         },
         "lb2": {
-            "power": 1132,
+            "power": 1131,
             "attack": 986,
             "defense": 1225,
             "health": 2277
@@ -37797,6 +38379,7 @@ window.allHeroes =
         ],
         "source": "神秘 - 暗影召喚",
         "Release date": "2024-06-30",
+        "specialId": "darts_of_the_deep",
         "star": 5,
         "power": 1109,
         "attack": 1180,
@@ -37864,6 +38447,7 @@ window.allHeroes =
         ],
         "source": "傳奇召喚 - 月英",
         "Release date": "2018-02-01",
+        "specialId": "emerald_flash",
         "star": 5,
         "power": 768,
         "attack": 764,
@@ -37882,13 +38466,13 @@ window.allHeroes =
         "costume_id": 0,
         "originalIndex": 583,
         "lb1": {
-            "power": 818,
+            "power": 817,
             "attack": 823,
             "defense": 741,
             "health": 1409
         },
         "lb2": {
-            "power": 918,
+            "power": 917,
             "attack": 942,
             "defense": 848,
             "health": 1612
@@ -37939,6 +38523,7 @@ window.allHeroes =
         ],
         "source": "傳奇召喚 - 月英",
         "Release date": "2023-12-19",
+        "specialId": "plume_flash",
         "star": 5,
         "power": 975,
         "attack": 961,
@@ -37965,7 +38550,7 @@ window.allHeroes =
             "health": 2056
         },
         "lb2": {
-            "power": 1174,
+            "power": 1173,
             "attack": 1186,
             "defense": 1087,
             "health": 2353
@@ -38012,6 +38597,7 @@ window.allHeroes =
         ],
         "source": "傳奇召喚 - 月英",
         "Release date": "2020-08-01",
+        "specialId": "keyknife_typhoon",
         "star": 5,
         "power": 775,
         "attack": 739,
@@ -38077,11 +38663,12 @@ window.allHeroes =
         ],
         "source": "超級元素",
         "Release date": "2023-08-14",
+        "specialId": "hoverboard_slam",
         "star": 5,
-        "power": 938,
-        "attack": 935,
-        "defense": 914,
-        "health": 1643,
+        "power": 947,
+        "attack": 943,
+        "defense": 922,
+        "health": 1670,
         "effects": [
             "對目標造成 300% 傷害。",
             "若目標為冰雪系，則對其餘敵人造成 275% 傷害。",
@@ -38100,16 +38687,16 @@ window.allHeroes =
         "costume_id": 0,
         "originalIndex": 586,
         "lb1": {
-            "power": 1001,
+            "power": 1005,
             "attack": 1007,
             "defense": 985,
-            "health": 1771
+            "health": 1799
         },
         "lb2": {
-            "power": 1128,
+            "power": 1132,
             "attack": 1153,
             "defense": 1127,
-            "health": 2026
+            "health": 2059
         },
         "cn_skill_info": [
             {
@@ -38142,6 +38729,7 @@ window.allHeroes =
         ],
         "source": "S1 - 經典",
         "Release date": "2017-03-01",
+        "specialId": "backstab",
         "star": 1,
         "power": 210,
         "attack": 215,
@@ -38173,6 +38761,7 @@ window.allHeroes =
         ],
         "source": "S1 - 經典",
         "Release date": "2017-03-01",
+        "specialId": "focused_shot",
         "star": 1,
         "power": 212,
         "attack": 183,
@@ -38204,6 +38793,7 @@ window.allHeroes =
         ],
         "source": "S1 - 經典",
         "Release date": "2017-03-01",
+        "specialId": "focused_shot",
         "star": 2,
         "power": 335,
         "attack": 363,
@@ -38235,6 +38825,7 @@ window.allHeroes =
         ],
         "source": "S1 - 經典",
         "Release date": "2017-03-01",
+        "specialId": "poisoned_blade",
         "star": 2,
         "power": 338,
         "attack": 336,
@@ -38266,6 +38857,7 @@ window.allHeroes =
         ],
         "source": "S1 - 經典",
         "Release date": "2017-03-01",
+        "specialId": "attack_rally",
         "star": 2,
         "power": 333,
         "attack": 293,
@@ -38299,6 +38891,7 @@ window.allHeroes =
         ],
         "source": "聯盟 - 騎士衝擊",
         "Release date": "2021-10-13",
+        "specialId": "apothecary_kit",
         "star": 3,
         "power": 480,
         "attack": 451,
@@ -38314,13 +38907,13 @@ window.allHeroes =
         "costume_id": 0,
         "originalIndex": 592,
         "lb1": {
-            "power": 536,
+            "power": 535,
             "attack": 512,
             "defense": 563,
             "health": 957
         },
         "lb2": {
-            "power": 647,
+            "power": 646,
             "attack": 632,
             "defense": 696,
             "health": 1182
@@ -38354,6 +38947,7 @@ window.allHeroes =
         ],
         "source": "S3 - 瓦爾哈拉",
         "Release date": "2020-05-28",
+        "specialId": "tribal_rage",
         "star": 3,
         "power": 465,
         "attack": 424,
@@ -38368,7 +38962,7 @@ window.allHeroes =
         "costume_id": 0,
         "originalIndex": 593,
         "lb1": {
-            "power": 519,
+            "power": 518,
             "attack": 480,
             "defense": 571,
             "health": 898
@@ -38412,6 +39006,7 @@ window.allHeroes =
         ],
         "source": "S5 - 沙丘",
         "Release date": "2022-04-21",
+        "specialId": "one_jump_ahead",
         "star": 3,
         "power": 483,
         "attack": 450,
@@ -38431,13 +39026,13 @@ window.allHeroes =
         "costume_id": 0,
         "originalIndex": 594,
         "lb1": {
-            "power": 540,
+            "power": 539,
             "attack": 510,
             "defense": 565,
             "health": 986
         },
         "lb2": {
-            "power": 652,
+            "power": 651,
             "attack": 630,
             "defense": 698,
             "health": 1219
@@ -38476,6 +39071,7 @@ window.allHeroes =
         ],
         "source": "S5 - 沙丘",
         "Release date": "2024-08-10",
+        "specialId": "one_spell_ahead",
         "star": 3,
         "power": 494,
         "attack": 476,
@@ -38497,7 +39093,7 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 595,
         "lb1": {
-            "power": 552,
+            "power": 551,
             "attack": 539,
             "defense": 553,
             "health": 1025
@@ -38538,6 +39134,7 @@ window.allHeroes =
         ],
         "source": "S1 - 經典",
         "Release date": "2017-03-01",
+        "specialId": "electric_jolt",
         "star": 3,
         "power": 442,
         "attack": 483,
@@ -38589,6 +39186,7 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2020-05-18",
+        "specialId": "poison_jolt",
         "star": 3,
         "power": 472,
         "attack": 532,
@@ -38646,6 +39244,7 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2024-01-22",
+        "specialId": "toon_jolt",
         "star": 3,
         "power": 505,
         "attack": 561,
@@ -38663,13 +39262,13 @@ window.allHeroes =
         "costume_id": 2,
         "originalIndex": 598,
         "lb1": {
-            "power": 564,
+            "power": 563,
             "attack": 635,
             "defense": 538,
             "health": 900
         },
         "lb2": {
-            "power": 682,
+            "power": 681,
             "attack": 785,
             "defense": 665,
             "health": 1112
@@ -38705,6 +39304,7 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2025-03-11",
+        "specialId": "glass_jolt",
         "star": 3,
         "power": 513,
         "attack": 587,
@@ -38722,7 +39322,7 @@ window.allHeroes =
         "costume_id": 3,
         "originalIndex": 599,
         "lb1": {
-            "power": 573,
+            "power": 572,
             "attack": 665,
             "defense": 538,
             "health": 890
@@ -38765,6 +39365,7 @@ window.allHeroes =
         ],
         "source": "挑戰 - 石像鬼",
         "Release date": "2024-05-16",
+        "specialId": "pointy_darts",
         "star": 3,
         "power": 493,
         "attack": 530,
@@ -38782,13 +39383,13 @@ window.allHeroes =
         "costume_id": 0,
         "originalIndex": 600,
         "lb1": {
-            "power": 551,
+            "power": 550,
             "attack": 600,
             "defense": 541,
             "health": 888
         },
         "lb2": {
-            "power": 666,
+            "power": 665,
             "attack": 742,
             "defense": 669,
             "health": 1097
@@ -38825,6 +39426,7 @@ window.allHeroes =
         ],
         "source": "S3 - 瓦爾哈拉",
         "Release date": "2020-02-27",
+        "specialId": "dual_slash",
         "star": 3,
         "power": 463,
         "attack": 458,
@@ -38846,7 +39448,7 @@ window.allHeroes =
             "health": 937
         },
         "lb2": {
-            "power": 623,
+            "power": 622,
             "attack": 642,
             "defense": 610,
             "health": 1158
@@ -38885,6 +39487,7 @@ window.allHeroes =
         ],
         "source": "S3 - 瓦爾哈拉",
         "Release date": "2022-07-04",
+        "specialId": "empowered_slash",
         "star": 3,
         "power": 478,
         "attack": 464,
@@ -38901,7 +39504,7 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 602,
         "lb1": {
-            "power": 534,
+            "power": 533,
             "attack": 527,
             "defense": 517,
             "health": 995
@@ -38950,6 +39553,7 @@ window.allHeroes =
         ],
         "source": "挑戰 - 石像鬼",
         "Release date": "2022-05-12",
+        "specialId": "abiding_dogma",
         "star": 3,
         "power": 482,
         "attack": 500,
@@ -38966,13 +39570,13 @@ window.allHeroes =
         "costume_id": 0,
         "originalIndex": 603,
         "lb1": {
-            "power": 539,
+            "power": 538,
             "attack": 567,
             "defense": 569,
             "health": 827
         },
         "lb2": {
-            "power": 650,
+            "power": 649,
             "attack": 700,
             "defense": 703,
             "health": 1022
@@ -39003,6 +39607,7 @@ window.allHeroes =
         ],
         "source": "S2 - 亞特蘭蒂斯",
         "Release date": "2019-08-01",
+        "specialId": "unholy_light",
         "star": 3,
         "power": 448,
         "attack": 413,
@@ -39024,7 +39629,7 @@ window.allHeroes =
             "health": 776
         },
         "lb2": {
-            "power": 603,
+            "power": 602,
             "attack": 579,
             "defense": 718,
             "health": 958
@@ -39059,6 +39664,7 @@ window.allHeroes =
         ],
         "source": "挑戰節 II",
         "Release date": "2021-02-11",
+        "specialId": "crazed_lunge",
         "star": 3,
         "power": 476,
         "attack": 526,
@@ -39119,6 +39725,7 @@ window.allHeroes =
         ],
         "source": "S2 - 亞特蘭蒂斯",
         "Release date": "2019-08-01",
+        "specialId": "song_of_regression",
         "star": 3,
         "power": 449,
         "attack": 436,
@@ -39141,7 +39748,7 @@ window.allHeroes =
             "health": 847
         },
         "lb2": {
-            "power": 603,
+            "power": 602,
             "attack": 610,
             "defense": 635,
             "health": 1046
@@ -39176,6 +39783,7 @@ window.allHeroes =
         ],
         "source": "S2 - 亞特蘭蒂斯",
         "Release date": "2023-04-03",
+        "specialId": "lament_of_the_hunt",
         "star": 3,
         "power": 463,
         "attack": 478,
@@ -39198,7 +39806,7 @@ window.allHeroes =
             "health": 870
         },
         "lb2": {
-            "power": 624,
+            "power": 623,
             "attack": 671,
             "defense": 619,
             "health": 1074
@@ -39237,6 +39845,7 @@ window.allHeroes =
         ],
         "source": "怪獸島召喚",
         "Release date": "2023-02-09",
+        "specialId": "stubby_reap",
         "star": 3,
         "power": 487,
         "attack": 526,
@@ -39256,13 +39865,13 @@ window.allHeroes =
         "costume_id": 0,
         "originalIndex": 608,
         "lb1": {
-            "power": 544,
+            "power": 543,
             "attack": 596,
             "defense": 541,
             "health": 847
         },
         "lb2": {
-            "power": 657,
+            "power": 656,
             "attack": 737,
             "defense": 669,
             "health": 1046
@@ -39298,6 +39907,7 @@ window.allHeroes =
         ],
         "source": "挑戰節 I",
         "Release date": "2020-01-08",
+        "specialId": "merciless_bite",
         "star": 3,
         "power": 455,
         "attack": 437,
@@ -39319,7 +39929,7 @@ window.allHeroes =
             "health": 977
         },
         "lb2": {
-            "power": 613,
+            "power": 612,
             "attack": 613,
             "defense": 586,
             "health": 1207
@@ -39355,6 +39965,7 @@ window.allHeroes =
         ],
         "source": "月活動 - 莫洛維亞",
         "Release date": "2020-10-26",
+        "specialId": "explosive_o_lantern",
         "star": 3,
         "power": 468,
         "attack": 491,
@@ -39378,7 +39989,7 @@ window.allHeroes =
             "health": 853
         },
         "lb2": {
-            "power": 630,
+            "power": 629,
             "attack": 688,
             "defense": 630,
             "health": 1053
@@ -39419,6 +40030,7 @@ window.allHeroes =
         ],
         "source": "挑戰節 II",
         "Release date": "2021-08-05",
+        "specialId": "assassins_blades",
         "star": 3,
         "power": 478,
         "attack": 458,
@@ -39438,7 +40050,7 @@ window.allHeroes =
         "costume_id": 0,
         "originalIndex": 611,
         "lb1": {
-            "power": 535,
+            "power": 534,
             "attack": 520,
             "defense": 577,
             "health": 900
@@ -39486,6 +40098,7 @@ window.allHeroes =
         ],
         "source": "高塔 - 忍者",
         "Release date": "2023-07-26",
+        "specialId": "cursed_fumes",
         "star": 3,
         "power": 486,
         "attack": 540,
@@ -39515,7 +40128,7 @@ window.allHeroes =
             "health": 795
         },
         "lb2": {
-            "power": 656,
+            "power": 655,
             "attack": 756,
             "defense": 674,
             "health": 983
@@ -39558,6 +40171,7 @@ window.allHeroes =
         ],
         "source": "S4 - 地底荒野",
         "Release date": "2021-03-25",
+        "specialId": "dig_a_hole",
         "star": 3,
         "power": 478,
         "attack": 507,
@@ -39579,7 +40193,7 @@ window.allHeroes =
         "costume_id": 0,
         "originalIndex": 613,
         "lb1": {
-            "power": 534,
+            "power": 533,
             "attack": 575,
             "defense": 547,
             "health": 817
@@ -39632,6 +40246,7 @@ window.allHeroes =
         ],
         "source": "S4 - 地底荒野",
         "Release date": "2024-05-23",
+        "specialId": "carve_a_hole",
         "star": 3,
         "power": 488,
         "attack": 492,
@@ -39653,7 +40268,7 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 614,
         "lb1": {
-            "power": 545,
+            "power": 544,
             "attack": 557,
             "defense": 580,
             "health": 874
@@ -39701,6 +40316,7 @@ window.allHeroes =
         ],
         "source": "S1 - 經典",
         "Release date": "2017-03-01",
+        "specialId": "toxic_traps",
         "star": 3,
         "power": 445,
         "attack": 422,
@@ -39716,13 +40332,13 @@ window.allHeroes =
         "costume_id": 0,
         "originalIndex": 615,
         "lb1": {
-            "power": 496,
+            "power": 495,
             "attack": 478,
             "defense": 466,
             "health": 951
         },
         "lb2": {
-            "power": 598,
+            "power": 597,
             "attack": 591,
             "defense": 576,
             "health": 1175
@@ -39757,6 +40373,7 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2021-01-18",
+        "specialId": "toxic_tricks",
         "star": 3,
         "power": 474,
         "attack": 421,
@@ -39771,13 +40388,13 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 616,
         "lb1": {
-            "power": 532,
+            "power": 531,
             "attack": 478,
             "defense": 535,
             "health": 1068
         },
         "lb2": {
-            "power": 640,
+            "power": 639,
             "attack": 590,
             "defense": 661,
             "health": 1308
@@ -39814,6 +40431,7 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2024-08-11",
+        "specialId": "toon_traps",
         "star": 3,
         "power": 508,
         "attack": 512,
@@ -39880,6 +40498,7 @@ window.allHeroes =
         ],
         "source": "月活動 - 卡勒瓦拉",
         "Release date": "2022-06-20",
+        "specialId": "familiar_witchcraft",
         "star": 3,
         "power": 482,
         "attack": 457,
@@ -39903,7 +40522,7 @@ window.allHeroes =
             "health": 1002
         },
         "lb2": {
-            "power": 650,
+            "power": 649,
             "attack": 640,
             "defense": 669,
             "health": 1238
@@ -39939,6 +40558,7 @@ window.allHeroes =
         ],
         "source": "S1 - 經典",
         "Release date": "2017-03-01",
+        "specialId": "bleeding_stab",
         "star": 3,
         "power": 446,
         "attack": 413,
@@ -39960,7 +40580,7 @@ window.allHeroes =
             "health": 862
         },
         "lb2": {
-            "power": 599,
+            "power": 598,
             "attack": 579,
             "defense": 649,
             "health": 1066
@@ -39996,6 +40616,7 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2020-05-18",
+        "specialId": "bleeding_thrust",
         "star": 3,
         "power": 476,
         "attack": 423,
@@ -40011,7 +40632,7 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 620,
         "lb1": {
-            "power": 533,
+            "power": 532,
             "attack": 480,
             "defense": 539,
             "health": 1064
@@ -40054,6 +40675,7 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2024-02-12",
+        "specialId": "toon_stab",
         "star": 3,
         "power": 510,
         "attack": 477,
@@ -40072,13 +40694,13 @@ window.allHeroes =
         "costume_id": 2,
         "originalIndex": 621,
         "lb1": {
-            "power": 570,
+            "power": 569,
             "attack": 540,
             "defense": 603,
             "health": 1051
         },
         "lb2": {
-            "power": 690,
+            "power": 689,
             "attack": 668,
             "defense": 746,
             "health": 1299
@@ -40117,6 +40739,7 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2025-04-08",
+        "specialId": "glass_stab",
         "star": 3,
         "power": 519,
         "attack": 504,
@@ -40135,13 +40758,13 @@ window.allHeroes =
         "costume_id": 3,
         "originalIndex": 622,
         "lb1": {
-            "power": 580,
+            "power": 579,
             "attack": 570,
             "defense": 599,
             "health": 1054
         },
         "lb2": {
-            "power": 701,
+            "power": 700,
             "attack": 705,
             "defense": 739,
             "health": 1302
@@ -40178,6 +40801,7 @@ window.allHeroes =
         ],
         "source": "S1 - 經典",
         "Release date": "2017-03-01",
+        "specialId": "leeching_stars",
         "star": 3,
         "power": 445,
         "attack": 488,
@@ -40193,7 +40817,7 @@ window.allHeroes =
         "costume_id": 0,
         "originalIndex": 623,
         "lb1": {
-            "power": 496,
+            "power": 495,
             "attack": 553,
             "defense": 451,
             "health": 793
@@ -40236,6 +40860,7 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2020-05-18",
+        "specialId": "leeching_saw",
         "star": 3,
         "power": 474,
         "attack": 436,
@@ -40251,7 +40876,7 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 624,
         "lb1": {
-            "power": 530,
+            "power": 529,
             "attack": 494,
             "defense": 526,
             "health": 1033
@@ -40294,6 +40919,7 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2024-09-08",
+        "specialId": "toon_stars",
         "star": 3,
         "power": 507,
         "attack": 479,
@@ -40312,13 +40938,13 @@ window.allHeroes =
         "costume_id": 2,
         "originalIndex": 625,
         "lb1": {
-            "power": 567,
+            "power": 566,
             "attack": 542,
             "defense": 554,
             "health": 1122
         },
         "lb2": {
-            "power": 686,
+            "power": 685,
             "attack": 671,
             "defense": 685,
             "health": 1387
@@ -40359,6 +40985,7 @@ window.allHeroes =
         ],
         "source": "挑戰節 I",
         "Release date": "2021-12-15",
+        "specialId": "archaic_dread",
         "star": 3,
         "power": 481,
         "attack": 434,
@@ -40376,7 +41003,7 @@ window.allHeroes =
         "costume_id": 0,
         "originalIndex": 626,
         "lb1": {
-            "power": 537,
+            "power": 536,
             "attack": 492,
             "defense": 577,
             "health": 986
@@ -40420,6 +41047,7 @@ window.allHeroes =
         ],
         "source": "S1 - 經典",
         "Release date": "2017-03-01",
+        "specialId": "piercing_hit",
         "star": 3,
         "power": 441,
         "attack": 387,
@@ -40435,13 +41063,13 @@ window.allHeroes =
         "costume_id": 0,
         "originalIndex": 627,
         "lb1": {
-            "power": 492,
+            "power": 491,
             "attack": 439,
             "defense": 478,
             "health": 996
         },
         "lb2": {
-            "power": 593,
+            "power": 592,
             "attack": 542,
             "defense": 591,
             "health": 1231
@@ -40477,6 +41105,7 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2020-01-01",
+        "specialId": "purifying_hit",
         "star": 3,
         "power": 470,
         "attack": 423,
@@ -40492,13 +41121,13 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 628,
         "lb1": {
-            "power": 527,
+            "power": 526,
             "attack": 480,
             "defense": 515,
             "health": 1068
         },
         "lb2": {
-            "power": 634,
+            "power": 633,
             "attack": 592,
             "defense": 637,
             "health": 1308
@@ -40535,6 +41164,7 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2024-10-06",
+        "specialId": "toon_hit",
         "star": 3,
         "power": 505,
         "attack": 483,
@@ -40553,7 +41183,7 @@ window.allHeroes =
         "costume_id": 2,
         "originalIndex": 629,
         "lb1": {
-            "power": 565,
+            "power": 564,
             "attack": 547,
             "defense": 527,
             "health": 1148
@@ -40601,6 +41231,7 @@ window.allHeroes =
         ],
         "source": "挑戰 - 貝武夫",
         "Release date": "2025-02-13",
+        "specialId": "tempered_blade",
         "star": 3,
         "power": 505,
         "attack": 537,
@@ -40622,7 +41253,7 @@ window.allHeroes =
         "costume_id": 0,
         "originalIndex": 630,
         "lb1": {
-            "power": 564,
+            "power": 563,
             "attack": 608,
             "defense": 591,
             "health": 860
@@ -40670,6 +41301,7 @@ window.allHeroes =
         ],
         "source": "月活動 - 莫洛維亞",
         "Release date": "2018-10-25",
+        "specialId": "lords_blood_poisoning",
         "star": 3,
         "power": 449,
         "attack": 368,
@@ -40687,13 +41319,13 @@ window.allHeroes =
         "costume_id": 0,
         "originalIndex": 631,
         "lb1": {
-            "power": 501,
+            "power": 500,
             "attack": 417,
             "defense": 551,
             "health": 969
         },
         "lb2": {
-            "power": 604,
+            "power": 603,
             "attack": 516,
             "defense": 681,
             "health": 1197
@@ -40728,6 +41360,7 @@ window.allHeroes =
         ],
         "source": "S5 - 沙丘",
         "Release date": "2022-04-21",
+        "specialId": "mummy_slash",
         "star": 4,
         "power": 683,
         "attack": 692,
@@ -40747,13 +41380,13 @@ window.allHeroes =
         "costume_id": 0,
         "originalIndex": 632,
         "lb1": {
-            "power": 736,
+            "power": 735,
             "attack": 752,
             "defense": 715,
             "health": 1339
         },
         "lb2": {
-            "power": 840,
+            "power": 839,
             "attack": 872,
             "defense": 829,
             "health": 1552
@@ -40788,6 +41421,7 @@ window.allHeroes =
         ],
         "source": "S5 - 沙丘",
         "Release date": "2024-07-13",
+        "specialId": "mummy_strike",
         "star": 4,
         "power": 699,
         "attack": 660,
@@ -40809,13 +41443,13 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 633,
         "lb1": {
-            "power": 753,
+            "power": 752,
             "attack": 718,
             "defense": 767,
             "health": 1440
         },
         "lb2": {
-            "power": 859,
+            "power": 858,
             "attack": 832,
             "defense": 889,
             "health": 1670
@@ -40852,6 +41486,7 @@ window.allHeroes =
         ],
         "source": "S2 - 亞特蘭蒂斯",
         "Release date": "2019-08-01",
+        "specialId": "ethereal",
         "star": 4,
         "power": 649,
         "attack": 771,
@@ -40868,7 +41503,7 @@ window.allHeroes =
         "costume_id": 0,
         "originalIndex": 634,
         "lb1": {
-            "power": 699,
+            "power": 698,
             "attack": 838,
             "defense": 572,
             "health": 1145
@@ -40911,6 +41546,7 @@ window.allHeroes =
         ],
         "source": "S2 - 亞特蘭蒂斯",
         "Release date": "2022-05-02",
+        "specialId": "yurei",
         "star": 4,
         "power": 671,
         "attack": 700,
@@ -40928,13 +41564,13 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 635,
         "lb1": {
-            "power": 723,
+            "power": 722,
             "attack": 760,
             "defense": 708,
             "health": 1238
         },
         "lb2": {
-            "power": 824,
+            "power": 823,
             "attack": 881,
             "defense": 820,
             "health": 1435
@@ -40974,6 +41610,7 @@ window.allHeroes =
         ],
         "source": "高塔 - 忍者",
         "Release date": "2020-10-13",
+        "specialId": "blur_of_steel",
         "star": 4,
         "power": 670,
         "attack": 716,
@@ -40996,7 +41633,7 @@ window.allHeroes =
         "costume_id": 0,
         "originalIndex": 636,
         "lb1": {
-            "power": 721,
+            "power": 720,
             "attack": 778,
             "defense": 609,
             "health": 1378
@@ -41042,6 +41679,7 @@ window.allHeroes =
         ],
         "source": "月活動 - 莫洛維亞",
         "Release date": "2022-10-03",
+        "specialId": "tidy_up",
         "star": 4,
         "power": 683,
         "attack": 626,
@@ -41060,7 +41698,7 @@ window.allHeroes =
         "costume_id": 0,
         "originalIndex": 637,
         "lb1": {
-            "power": 736,
+            "power": 735,
             "attack": 681,
             "defense": 757,
             "health": 1431
@@ -41108,6 +41746,7 @@ window.allHeroes =
         ],
         "source": "高塔 - 冥河",
         "Release date": "2022-09-21",
+        "specialId": "potion_cocktail",
         "star": 4,
         "power": 685,
         "attack": 663,
@@ -41181,6 +41820,7 @@ window.allHeroes =
         ],
         "source": "挑戰節 I",
         "Release date": "2017-09-07",
+        "specialId": "watery_grave",
         "star": 4,
         "power": 645,
         "attack": 541,
@@ -41196,13 +41836,13 @@ window.allHeroes =
         "costume_id": 0,
         "originalIndex": 639,
         "lb1": {
-            "power": 694,
+            "power": 693,
             "attack": 588,
             "defense": 720,
             "health": 1438
         },
         "lb2": {
-            "power": 791,
+            "power": 790,
             "attack": 682,
             "defense": 835,
             "health": 1667
@@ -41239,6 +41879,7 @@ window.allHeroes =
         ],
         "source": "挑戰節 I",
         "Release date": "2019-02-14",
+        "specialId": "dazzling_grin",
         "star": 4,
         "power": 649,
         "attack": 658,
@@ -41300,6 +41941,7 @@ window.allHeroes =
         ],
         "source": "挑戰節 I",
         "Release date": "2023-10-05",
+        "specialId": "razor_smile",
         "star": 4,
         "power": 684,
         "attack": 749,
@@ -41322,7 +41964,7 @@ window.allHeroes =
             "health": 1218
         },
         "lb2": {
-            "power": 840,
+            "power": 839,
             "attack": 943,
             "defense": 811,
             "health": 1412
@@ -41361,6 +42003,7 @@ window.allHeroes =
         ],
         "source": "挑戰節 II",
         "Release date": "2022-11-03",
+        "specialId": "grand_heist",
         "star": 4,
         "power": 684,
         "attack": 690,
@@ -41380,7 +42023,7 @@ window.allHeroes =
         "costume_id": 0,
         "originalIndex": 642,
         "lb1": {
-            "power": 737,
+            "power": 736,
             "attack": 750,
             "defense": 674,
             "health": 1431
@@ -41425,6 +42068,7 @@ window.allHeroes =
         ],
         "source": "S1 - 經典",
         "Release date": "2017-03-01",
+        "specialId": "perfect_riposte",
         "star": 4,
         "power": 642,
         "attack": 563,
@@ -41445,7 +42089,7 @@ window.allHeroes =
             "health": 1480
         },
         "lb2": {
-            "power": 787,
+            "power": 786,
             "attack": 709,
             "defense": 762,
             "health": 1715
@@ -41474,6 +42118,7 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2021-01-18",
+        "specialId": "deadly_riposte",
         "star": 4,
         "power": 688,
         "attack": 566,
@@ -41494,7 +42139,7 @@ window.allHeroes =
             "health": 1601
         },
         "lb2": {
-            "power": 845,
+            "power": 844,
             "attack": 712,
             "defense": 895,
             "health": 1857
@@ -41527,6 +42172,7 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2023-04-17",
+        "specialId": "precise_riposte",
         "star": 4,
         "power": 735,
         "attack": 658,
@@ -41543,13 +42189,13 @@ window.allHeroes =
         "costume_id": 2,
         "originalIndex": 645,
         "lb1": {
-            "power": 792,
+            "power": 791,
             "attack": 716,
             "defense": 795,
             "health": 1668
         },
         "lb2": {
-            "power": 905,
+            "power": 904,
             "attack": 830,
             "defense": 923,
             "health": 1933
@@ -41580,6 +42226,7 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2024-04-08",
+        "specialId": "toontastic_riposte",
         "star": 4,
         "power": 747,
         "attack": 656,
@@ -41596,7 +42243,7 @@ window.allHeroes =
         "costume_id": 3,
         "originalIndex": 646,
         "lb1": {
-            "power": 805,
+            "power": 804,
             "attack": 712,
             "defense": 764,
             "health": 1833
@@ -41632,6 +42279,7 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2025-04-23",
+        "specialId": "glass_riposte",
         "star": 4,
         "power": 759,
         "attack": 664,
@@ -41690,6 +42338,7 @@ window.allHeroes =
         ],
         "source": "月活動 - 冬季",
         "Release date": "2023-12-01",
+        "specialId": "gloomy_tune",
         "star": 4,
         "power": 687,
         "attack": 675,
@@ -41706,7 +42355,7 @@ window.allHeroes =
         "costume_id": 0,
         "originalIndex": 648,
         "lb1": {
-            "power": 740,
+            "power": 739,
             "attack": 734,
             "defense": 743,
             "health": 1357
@@ -41756,6 +42405,7 @@ window.allHeroes =
         ],
         "source": "聖約召喚",
         "Release date": "2025-07-06",
+        "specialId": "venomfang_concoction",
         "star": 4,
         "power": 748,
         "attack": 786,
@@ -41820,6 +42470,7 @@ window.allHeroes =
         ],
         "source": "S3 - 瓦爾哈拉",
         "Release date": "2020-05-28",
+        "specialId": "nightglade_pollen",
         "star": 4,
         "power": 660,
         "attack": 707,
@@ -41836,13 +42487,13 @@ window.allHeroes =
         "costume_id": 0,
         "originalIndex": 650,
         "lb1": {
-            "power": 710,
+            "power": 709,
             "attack": 768,
             "defense": 683,
             "health": 1177
         },
         "lb2": {
-            "power": 810,
+            "power": 809,
             "attack": 891,
             "defense": 792,
             "health": 1365
@@ -41879,6 +42530,7 @@ window.allHeroes =
         ],
         "source": "S3 - 瓦爾哈拉",
         "Release date": "2023-01-16",
+        "specialId": "nightbloom_dust",
         "star": 4,
         "power": 681,
         "attack": 749,
@@ -41946,6 +42598,7 @@ window.allHeroes =
         ],
         "source": "月活動 - 飛沙帝國",
         "Release date": "2018-06-21",
+        "specialId": "viziers_curse",
         "star": 4,
         "power": 649,
         "attack": 711,
@@ -41969,7 +42622,7 @@ window.allHeroes =
             "health": 1073
         },
         "lb2": {
-            "power": 796,
+            "power": 795,
             "attack": 896,
             "defense": 797,
             "health": 1244
@@ -42009,6 +42662,7 @@ window.allHeroes =
         ],
         "source": "三國召喚",
         "Release date": "2023-02-27",
+        "specialId": "black_tassel_spear_sting",
         "star": 4,
         "power": 686,
         "attack": 669,
@@ -42031,7 +42685,7 @@ window.allHeroes =
             "health": 1498
         },
         "lb2": {
-            "power": 844,
+            "power": 843,
             "attack": 843,
             "defense": 787,
             "health": 1737
@@ -42076,6 +42730,7 @@ window.allHeroes =
         ],
         "source": "挑戰節 II",
         "Release date": "2021-02-11",
+        "specialId": "draining_blade",
         "star": 4,
         "power": 675,
         "attack": 633,
@@ -42092,13 +42747,13 @@ window.allHeroes =
         "costume_id": 0,
         "originalIndex": 654,
         "lb1": {
-            "power": 727,
+            "power": 726,
             "attack": 688,
             "defense": 743,
             "health": 1378
         },
         "lb2": {
-            "power": 829,
+            "power": 828,
             "attack": 797,
             "defense": 861,
             "health": 1598
@@ -42145,6 +42800,7 @@ window.allHeroes =
         ],
         "source": "月活動 - 飛沙帝國",
         "Release date": "2018-06-21",
+        "specialId": "towers_curse",
         "star": 4,
         "power": 649,
         "attack": 531,
@@ -42209,6 +42865,7 @@ window.allHeroes =
         ],
         "source": "高塔 - 貓頭鷹",
         "Release date": "2024-02-14",
+        "specialId": "scroll_of_spite",
         "star": 4,
         "power": 695,
         "attack": 677,
@@ -42233,7 +42890,7 @@ window.allHeroes =
             "health": 1396
         },
         "lb2": {
-            "power": 854,
+            "power": 853,
             "attack": 853,
             "defense": 870,
             "health": 1619
@@ -42280,6 +42937,7 @@ window.allHeroes =
         ],
         "source": "聯盟 - 火槍手",
         "Release date": "2023-03-08",
+        "specialId": "flower_of_kindness",
         "star": 4,
         "power": 686,
         "attack": 643,
@@ -42304,7 +42962,7 @@ window.allHeroes =
             "health": 1480
         },
         "lb2": {
-            "power": 843,
+            "power": 842,
             "attack": 811,
             "defense": 835,
             "health": 1715
@@ -42341,6 +42999,7 @@ window.allHeroes =
         ],
         "source": "聯盟 - 騎士衝擊",
         "Release date": "2023-10-18",
+        "specialId": "feral_swing",
         "star": 4,
         "power": 688,
         "attack": 711,
@@ -42359,13 +43018,13 @@ window.allHeroes =
         "costume_id": 0,
         "originalIndex": 658,
         "lb1": {
-            "power": 741,
+            "power": 740,
             "attack": 773,
             "defense": 685,
             "health": 1383
         },
         "lb2": {
-            "power": 846,
+            "power": 845,
             "attack": 896,
             "defense": 795,
             "health": 1603
@@ -42404,6 +43063,7 @@ window.allHeroes =
         ],
         "source": "超級元素",
         "Release date": "2023-11-06",
+        "specialId": "energy_conjunction",
         "star": 4,
         "power": 692,
         "attack": 677,
@@ -42470,6 +43130,7 @@ window.allHeroes =
         ],
         "source": "怪獸島召喚",
         "Release date": "2022-10-15",
+        "specialId": "poison_tipped_arrow",
         "star": 4,
         "power": 684,
         "attack": 709,
@@ -42488,13 +43149,13 @@ window.allHeroes =
         "costume_id": 0,
         "originalIndex": 660,
         "lb1": {
-            "power": 737,
+            "power": 736,
             "attack": 771,
             "defense": 671,
             "health": 1385
         },
         "lb2": {
-            "power": 841,
+            "power": 840,
             "attack": 894,
             "defense": 779,
             "health": 1606
@@ -42532,6 +43193,7 @@ window.allHeroes =
         ],
         "source": "挑戰節 I",
         "Release date": "2018-01-05",
+        "specialId": "arcane_blast",
         "star": 4,
         "power": 645,
         "attack": 682,
@@ -42548,13 +43210,13 @@ window.allHeroes =
         "costume_id": 0,
         "originalIndex": 661,
         "lb1": {
-            "power": 694,
+            "power": 693,
             "attack": 741,
             "defense": 718,
             "health": 1059
         },
         "lb2": {
-            "power": 791,
+            "power": 790,
             "attack": 859,
             "defense": 832,
             "health": 1228
@@ -42596,8 +43258,9 @@ window.allHeroes =
         ],
         "source": "挑戰節 I",
         "Release date": "2023-04-20",
+        "specialId": "pulsar_blast",
         "star": 4,
-        "power": 679,
+        "power": 735,
         "attack": 817,
         "defense": 692,
         "health": 1221,
@@ -42659,6 +43322,7 @@ window.allHeroes =
         ],
         "source": "S2 - 亞特蘭蒂斯",
         "Release date": "2019-08-01",
+        "specialId": "scar_of_the_depths",
         "star": 4,
         "power": 650,
         "attack": 707,
@@ -42674,13 +43338,13 @@ window.allHeroes =
         "costume_id": 0,
         "originalIndex": 663,
         "lb1": {
-            "power": 699,
+            "power": 698,
             "attack": 768,
             "defense": 646,
             "health": 1172
         },
         "lb2": {
-            "power": 797,
+            "power": 796,
             "attack": 891,
             "defense": 749,
             "health": 1359
@@ -42717,6 +43381,7 @@ window.allHeroes =
         ],
         "source": "S2 - 亞特蘭蒂斯",
         "Release date": "2023-04-03",
+        "specialId": "curse_of_the_depths",
         "star": 4,
         "power": 671,
         "attack": 774,
@@ -42738,7 +43403,7 @@ window.allHeroes =
             "health": 1245
         },
         "lb2": {
-            "power": 824,
+            "power": 823,
             "attack": 975,
             "defense": 699,
             "health": 1443
@@ -42775,6 +43440,7 @@ window.allHeroes =
         ],
         "source": "S1 - 經典",
         "Release date": "2017-03-01",
+        "specialId": "purification",
         "star": 4,
         "power": 644,
         "attack": 595,
@@ -42834,6 +43500,7 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2020-01-01",
+        "specialId": "regeneration",
         "star": 4,
         "power": 690,
         "attack": 645,
@@ -42850,7 +43517,7 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 666,
         "lb1": {
-            "power": 743,
+            "power": 742,
             "attack": 700,
             "defense": 777,
             "health": 1394
@@ -42899,6 +43566,7 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2023-04-17",
+        "specialId": "transfigure",
         "star": 4,
         "power": 736,
         "attack": 717,
@@ -42921,7 +43589,7 @@ window.allHeroes =
             "health": 1354
         },
         "lb2": {
-            "power": 907,
+            "power": 906,
             "attack": 905,
             "defense": 1018,
             "health": 1570
@@ -42964,6 +43632,7 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2024-06-28",
+        "specialId": "adorable_purification",
         "star": 4,
         "power": 749,
         "attack": 804,
@@ -43031,6 +43700,7 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2025-07-16",
+        "specialId": "glass_purification",
         "star": 4,
         "power": 761,
         "attack": 927,
@@ -43049,7 +43719,7 @@ window.allHeroes =
         "costume_id": 4,
         "originalIndex": 669,
         "lb1": {
-            "power": 820,
+            "power": 819,
             "attack": 1007,
             "defense": 699,
             "health": 1333
@@ -43096,6 +43766,7 @@ window.allHeroes =
         ],
         "source": "S1 - 經典",
         "Release date": "2017-03-01",
+        "specialId": "fog_of_the_fallen",
         "star": 4,
         "power": 639,
         "attack": 699,
@@ -43111,13 +43782,13 @@ window.allHeroes =
         "costume_id": 0,
         "originalIndex": 670,
         "lb1": {
-            "power": 688,
+            "power": 687,
             "attack": 759,
             "defense": 628,
             "health": 1152
         },
         "lb2": {
-            "power": 784,
+            "power": 783,
             "attack": 880,
             "defense": 728,
             "health": 1335
@@ -43155,6 +43826,7 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2021-01-18",
+        "specialId": "haze_of_the_deceased",
         "star": 4,
         "power": 684,
         "attack": 756,
@@ -43220,6 +43892,7 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2023-11-27",
+        "specialId": "mist_of_the_fallen",
         "star": 4,
         "power": 730,
         "attack": 737,
@@ -43236,13 +43909,13 @@ window.allHeroes =
         "costume_id": 2,
         "originalIndex": 672,
         "lb1": {
-            "power": 787,
+            "power": 786,
             "attack": 801,
             "defense": 883,
             "health": 1243
         },
         "lb2": {
-            "power": 899,
+            "power": 898,
             "attack": 929,
             "defense": 1024,
             "health": 1441
@@ -43285,6 +43958,7 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2024-10-06",
+        "specialId": "fog_of_the_toons",
         "star": 4,
         "power": 742,
         "attack": 802,
@@ -43303,13 +43977,13 @@ window.allHeroes =
         "costume_id": 3,
         "originalIndex": 673,
         "lb1": {
-            "power": 799,
+            "power": 798,
             "attack": 871,
             "defense": 844,
             "health": 1233
         },
         "lb2": {
-            "power": 913,
+            "power": 912,
             "attack": 1010,
             "defense": 979,
             "health": 1429
@@ -43353,6 +44027,7 @@ window.allHeroes =
         ],
         "source": "高塔 - 魔法",
         "Release date": "2021-09-15",
+        "specialId": "midnight_moon",
         "star": 4,
         "power": 678,
         "attack": 658,
@@ -43414,6 +44089,7 @@ window.allHeroes =
         ],
         "source": "S6 - 深淵謎團",
         "Release date": "2023-06-07",
+        "specialId": "critical_tactics",
         "star": 4,
         "power": 688,
         "attack": 650,
@@ -43445,7 +44121,7 @@ window.allHeroes =
             "health": 1390
         },
         "lb2": {
-            "power": 846,
+            "power": 845,
             "attack": 819,
             "defense": 888,
             "health": 1611
@@ -43476,6 +44152,7 @@ window.allHeroes =
         ],
         "source": "S6 - 深淵謎團",
         "Release date": "2025-02-03",
+        "specialId": "critical_cookout",
         "star": 4,
         "power": 704,
         "attack": 734,
@@ -43543,6 +44220,7 @@ window.allHeroes =
         ],
         "source": "神秘 - 暗影召喚",
         "Release date": "2025-01-09",
+        "specialId": "lantern_of_insanity",
         "star": 4,
         "power": 712,
         "attack": 711,
@@ -43606,6 +44284,7 @@ window.allHeroes =
         ],
         "source": "聯盟 - 飛蛾",
         "Release date": "2025-01-23",
+        "specialId": "shadow_sidestep",
         "star": 4,
         "power": 717,
         "attack": 775,
@@ -43668,6 +44347,7 @@ window.allHeroes =
         ],
         "source": "S3 - 瓦爾哈拉",
         "Release date": "2020-02-27",
+        "specialId": "dire_ghost",
         "star": 4,
         "power": 661,
         "attack": 726,
@@ -43692,7 +44372,7 @@ window.allHeroes =
             "health": 1147
         },
         "lb2": {
-            "power": 811,
+            "power": 810,
             "attack": 915,
             "defense": 784,
             "health": 1330
@@ -43728,6 +44408,7 @@ window.allHeroes =
         ],
         "source": "S1 - 經典",
         "Release date": "2017-03-01",
+        "specialId": "ramming_pulverizer",
         "star": 4,
         "power": 639,
         "attack": 660,
@@ -43743,13 +44424,13 @@ window.allHeroes =
         "costume_id": 0,
         "originalIndex": 680,
         "lb1": {
-            "power": 688,
+            "power": 687,
             "attack": 718,
             "defense": 688,
             "health": 1136
         },
         "lb2": {
-            "power": 784,
+            "power": 783,
             "attack": 832,
             "defense": 797,
             "health": 1317
@@ -43785,6 +44466,7 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2020-01-01",
+        "specialId": "symphonic_pulverizer",
         "star": 4,
         "power": 684,
         "attack": 701,
@@ -43800,7 +44482,7 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 681,
         "lb1": {
-            "power": 736,
+            "power": 735,
             "attack": 762,
             "defense": 747,
             "health": 1249
@@ -43842,6 +44524,7 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2023-10-30",
+        "specialId": "elegant_pulverizer",
         "star": 4,
         "power": 729,
         "attack": 730,
@@ -43857,7 +44540,7 @@ window.allHeroes =
         "costume_id": 2,
         "originalIndex": 682,
         "lb1": {
-            "power": 786,
+            "power": 785,
             "attack": 793,
             "defense": 825,
             "health": 1374
@@ -43900,6 +44583,7 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2024-08-11",
+        "specialId": "toontastic_pulverizer",
         "star": 4,
         "power": 742,
         "attack": 755,
@@ -43924,7 +44608,7 @@ window.allHeroes =
             "health": 1328
         },
         "lb2": {
-            "power": 913,
+            "power": 912,
             "attack": 951,
             "defense": 998,
             "health": 1540
@@ -43968,6 +44652,7 @@ window.allHeroes =
         ],
         "source": "哥布林召喚",
         "Release date": "2023-12-11",
+        "specialId": "poisonous_mist",
         "star": 5,
         "power": 979,
         "attack": 1034,
@@ -44032,6 +44717,7 @@ window.allHeroes =
         ],
         "source": "超級元素",
         "Release date": "2023-05-22",
+        "specialId": "bleed_inducing_daggers",
         "star": 5,
         "power": 909,
         "attack": 871,
@@ -44054,13 +44740,13 @@ window.allHeroes =
         "costume_id": 0,
         "originalIndex": 685,
         "lb1": {
-            "power": 970,
+            "power": 969,
             "attack": 939,
             "defense": 925,
             "health": 1838
         },
         "lb2": {
-            "power": 1092,
+            "power": 1091,
             "attack": 1074,
             "defense": 1059,
             "health": 2103
@@ -44105,6 +44791,7 @@ window.allHeroes =
         ],
         "source": "傳奇召喚 - 月英",
         "Release date": "2018-04-01",
+        "specialId": "nethershield",
         "star": 5,
         "power": 768,
         "attack": 733,
@@ -44122,13 +44809,13 @@ window.allHeroes =
         "costume_id": 0,
         "originalIndex": 686,
         "lb1": {
-            "power": 819,
+            "power": 818,
             "attack": 790,
             "defense": 768,
             "health": 1445
         },
         "lb2": {
-            "power": 919,
+            "power": 918,
             "attack": 904,
             "defense": 878,
             "health": 1653
@@ -44171,6 +44858,7 @@ window.allHeroes =
         ],
         "source": "傳奇召喚 - 月英",
         "Release date": "2023-01-23",
+        "specialId": "voidshield",
         "star": 5,
         "power": 976,
         "attack": 898,
@@ -44189,7 +44877,7 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 687,
         "lb1": {
-            "power": 1043,
+            "power": 1042,
             "attack": 968,
             "defense": 1003,
             "health": 2130
@@ -44237,6 +44925,7 @@ window.allHeroes =
         ],
         "source": "高塔 - 魔法",
         "Release date": "2025-07-23",
+        "specialId": "high_altitude_ambush",
         "star": 5,
         "power": 1222,
         "attack": 1343,
@@ -44266,7 +44955,7 @@ window.allHeroes =
             "health": 2246
         },
         "lb2": {
-            "power": 1479,
+            "power": 1478,
             "attack": 1656,
             "defense": 1480,
             "health": 2570
@@ -44315,6 +45004,7 @@ window.allHeroes =
         ],
         "source": "高塔 - 魔法",
         "Release date": "2021-09-15",
+        "specialId": "arcane_shock",
         "star": 5,
         "power": 813,
         "attack": 756,
@@ -44399,6 +45089,7 @@ window.allHeroes =
         ],
         "source": "高塔 - 魔法",
         "Release date": "2025-05-29",
+        "specialId": "dark_shock",
         "star": 5,
         "power": 1208,
         "attack": 1190,
@@ -44424,13 +45115,13 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 690,
         "lb1": {
-            "power": 1292,
+            "power": 1291,
             "attack": 1282,
             "defense": 1337,
             "health": 2454
         },
         "lb2": {
-            "power": 1460,
+            "power": 1459,
             "attack": 1467,
             "defense": 1530,
             "health": 2807
@@ -44479,6 +45170,7 @@ window.allHeroes =
         ],
         "source": "傳奇召喚 - 月英",
         "Release date": "2025-06-01",
+        "specialId": "coiling_whip",
         "star": 5,
         "power": 1085,
         "attack": 1151,
@@ -44499,13 +45191,13 @@ window.allHeroes =
         "costume_id": 0,
         "originalIndex": 691,
         "lb1": {
-            "power": 1160,
+            "power": 1159,
             "attack": 1240,
             "defense": 1163,
             "health": 1964
         },
         "lb2": {
-            "power": 1309,
+            "power": 1308,
             "attack": 1419,
             "defense": 1330,
             "health": 2247
@@ -44548,6 +45240,7 @@ window.allHeroes =
         ],
         "source": "S3 - 瓦爾哈拉",
         "Release date": "2020-04-23",
+        "specialId": "cube_of_dark_realm",
         "star": 5,
         "power": 790,
         "attack": 659,
@@ -44565,13 +45258,13 @@ window.allHeroes =
         "costume_id": 0,
         "originalIndex": 692,
         "lb1": {
-            "power": 843,
+            "power": 842,
             "attack": 710,
             "defense": 910,
             "health": 1531
         },
         "lb2": {
-            "power": 946,
+            "power": 945,
             "attack": 812,
             "defense": 1041,
             "health": 1752
@@ -44610,6 +45303,7 @@ window.allHeroes =
         ],
         "source": "S3 - 瓦爾哈拉",
         "Release date": "2023-07-03",
+        "specialId": "cavalier_hat_of_dark_realm",
         "star": 5,
         "power": 991,
         "attack": 779,
@@ -44627,7 +45321,7 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 693,
         "lb1": {
-            "power": 1059,
+            "power": 1058,
             "attack": 840,
             "defense": 1249,
             "health": 2070
@@ -44671,6 +45365,7 @@ window.allHeroes =
         ],
         "source": "高塔 - 忍者",
         "Release date": "2023-01-11",
+        "specialId": "assassins_in_the_night",
         "star": 5,
         "power": 867,
         "attack": 869,
@@ -44742,6 +45437,7 @@ window.allHeroes =
         ],
         "source": "傳奇召喚 - 月英",
         "Release date": "2024-03-01",
+        "specialId": "strange_incense",
         "star": 5,
         "power": 966,
         "attack": 902,
@@ -44765,13 +45461,13 @@ window.allHeroes =
         "costume_id": 0,
         "originalIndex": 695,
         "lb1": {
-            "power": 1032,
+            "power": 1031,
             "attack": 972,
             "defense": 1061,
             "health": 1926
         },
         "lb2": {
-            "power": 1163,
+            "power": 1162,
             "attack": 1112,
             "defense": 1214,
             "health": 2204
@@ -44815,6 +45511,7 @@ window.allHeroes =
         ],
         "source": "S5 - 沙丘",
         "Release date": "2023-03-16",
+        "specialId": "mark_of_anubis",
         "star": 5,
         "power": 870,
         "attack": 815,
@@ -44881,6 +45578,7 @@ window.allHeroes =
         ],
         "source": "S5 - 沙丘",
         "Release date": "2024-02-05",
+        "specialId": "mark_of_the_jackal",
         "star": 5,
         "power": 1216,
         "attack": 1187,
@@ -44903,13 +45601,13 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 697,
         "lb1": {
-            "power": 1301,
+            "power": 1300,
             "attack": 1278,
             "defense": 1314,
             "health": 2575
         },
         "lb2": {
-            "power": 1470,
+            "power": 1469,
             "attack": 1462,
             "defense": 1503,
             "health": 2946
@@ -44951,6 +45649,7 @@ window.allHeroes =
         ],
         "source": "聯盟 - 火槍手",
         "Release date": "2022-12-14",
+        "specialId": "charmers_blades",
         "star": 5,
         "power": 845,
         "attack": 873,
@@ -45016,6 +45715,7 @@ window.allHeroes =
         ],
         "source": "傳奇召喚 - 月英",
         "Release date": "2022-06-01",
+        "specialId": "dagger_of_shadows",
         "star": 5,
         "power": 808,
         "attack": 786,
@@ -45036,13 +45736,13 @@ window.allHeroes =
         "costume_id": 0,
         "originalIndex": 699,
         "lb1": {
-            "power": 862,
+            "power": 861,
             "attack": 848,
             "defense": 810,
             "health": 1522
         },
         "lb2": {
-            "power": 968,
+            "power": 967,
             "attack": 970,
             "defense": 927,
             "health": 1742
@@ -45085,6 +45785,7 @@ window.allHeroes =
         ],
         "source": "神秘 - 暗影召喚",
         "Release date": "2025-05-13",
+        "specialId": "necronomicon_page_13",
         "star": 5,
         "power": 1190,
         "attack": 1219,
@@ -45101,13 +45802,13 @@ window.allHeroes =
         "costume_id": 0,
         "originalIndex": 700,
         "lb1": {
-            "power": 1274,
+            "power": 1273,
             "attack": 1314,
             "defense": 1294,
             "health": 2331
         },
         "lb2": {
-            "power": 1439,
+            "power": 1438,
             "attack": 1503,
             "defense": 1480,
             "health": 2667
@@ -45147,6 +45848,7 @@ window.allHeroes =
         ],
         "source": "S5 - 沙丘",
         "Release date": "2022-08-04",
+        "specialId": "quick_and_nimble",
         "star": 5,
         "power": 862,
         "attack": 809,
@@ -45166,7 +45868,7 @@ window.allHeroes =
         "costume_id": 0,
         "originalIndex": 701,
         "lb1": {
-            "power": 920,
+            "power": 919,
             "attack": 872,
             "defense": 907,
             "health": 1682
@@ -45211,6 +45913,7 @@ window.allHeroes =
         ],
         "source": "S5 - 沙丘",
         "Release date": "2024-08-10",
+        "specialId": "orchids_and_roses",
         "star": 5,
         "power": 1206,
         "attack": 1146,
@@ -45279,6 +45982,7 @@ window.allHeroes =
         ],
         "source": "高塔 - 魔法",
         "Release date": "2023-06-28",
+        "specialId": "wand_of_mana_control",
         "star": 5,
         "power": 907,
         "attack": 881,
@@ -45302,13 +46006,13 @@ window.allHeroes =
         "costume_id": 0,
         "originalIndex": 703,
         "lb1": {
-            "power": 969,
+            "power": 968,
             "attack": 950,
             "defense": 963,
             "health": 1727
         },
         "lb2": {
-            "power": 1091,
+            "power": 1090,
             "attack": 1087,
             "defense": 1102,
             "health": 1976
@@ -45353,6 +46057,7 @@ window.allHeroes =
         ],
         "source": "挑戰節 II",
         "Release date": "2023-03-23",
+        "specialId": "mystical_concerto",
         "star": 5,
         "power": 881,
         "attack": 859,
@@ -45418,6 +46123,7 @@ window.allHeroes =
         ],
         "source": "S3 - 瓦爾哈拉",
         "Release date": "2020-09-24",
+        "specialId": "disir_of_dusk",
         "star": 5,
         "power": 786,
         "attack": 743,
@@ -45441,7 +46147,7 @@ window.allHeroes =
             "health": 1476
         },
         "lb2": {
-            "power": 941,
+            "power": 940,
             "attack": 916,
             "defense": 924,
             "health": 1689
@@ -45485,6 +46191,7 @@ window.allHeroes =
         ],
         "source": "S3 - 瓦爾哈拉",
         "Release date": "2023-06-05",
+        "specialId": "disir_of_dreams",
         "star": 5,
         "power": 984,
         "attack": 951,
@@ -45508,7 +46215,7 @@ window.allHeroes =
             "health": 2061
         },
         "lb2": {
-            "power": 1185,
+            "power": 1184,
             "attack": 1172,
             "defense": 1140,
             "health": 2358
@@ -45552,6 +46259,7 @@ window.allHeroes =
         ],
         "source": "挑戰節 I",
         "Release date": "2018-06-01",
+        "specialId": "unstoppable_growl",
         "star": 5,
         "power": 767,
         "attack": 566,
@@ -45568,7 +46276,7 @@ window.allHeroes =
         "costume_id": 0,
         "originalIndex": 707,
         "lb1": {
-            "power": 818,
+            "power": 817,
             "attack": 610,
             "defense": 890,
             "health": 1642
@@ -45615,6 +46323,7 @@ window.allHeroes =
         ],
         "source": "聖約召喚",
         "Release date": "2024-04-25",
+        "specialId": "unerring_course",
         "star": 5,
         "power": 1055,
         "attack": 1025,
@@ -45642,7 +46351,7 @@ window.allHeroes =
             "health": 2166
         },
         "lb2": {
-            "power": 1273,
+            "power": 1272,
             "attack": 1264,
             "defense": 1280,
             "health": 2479
@@ -45684,6 +46393,7 @@ window.allHeroes =
         ],
         "source": "聯盟 - 騎士衝擊",
         "Release date": "2024-04-10",
+        "specialId": "aura_of_twilight",
         "star": 5,
         "power": 1028,
         "attack": 1030,
@@ -45701,7 +46411,7 @@ window.allHeroes =
         "costume_id": 0,
         "originalIndex": 709,
         "lb1": {
-            "power": 1099,
+            "power": 1098,
             "attack": 1110,
             "defense": 1136,
             "health": 1909
@@ -45746,6 +46456,7 @@ window.allHeroes =
         ],
         "source": "高塔 - 貓頭鷹",
         "Release date": "2024-07-02",
+        "specialId": "blade_wings",
         "star": 5,
         "power": 1079,
         "attack": 1130,
@@ -45765,7 +46476,7 @@ window.allHeroes =
         "costume_id": 0,
         "originalIndex": 710,
         "lb1": {
-            "power": 1154,
+            "power": 1153,
             "attack": 1218,
             "defense": 1185,
             "health": 1933
@@ -45816,6 +46527,7 @@ window.allHeroes =
         ],
         "source": "傳奇召喚 - 月英",
         "Release date": "2021-08-01",
+        "specialId": "stalling_spell",
         "star": 5,
         "power": 793,
         "attack": 745,
@@ -45836,13 +46548,13 @@ window.allHeroes =
         "costume_id": 0,
         "originalIndex": 711,
         "lb1": {
-            "power": 846,
+            "power": 845,
             "attack": 803,
             "defense": 841,
             "health": 1460
         },
         "lb2": {
-            "power": 950,
+            "power": 949,
             "attack": 919,
             "defense": 962,
             "health": 1671
@@ -45884,6 +46596,7 @@ window.allHeroes =
         ],
         "source": "三國召喚",
         "Release date": "2025-06-30",
+        "specialId": "advice_from_beyond",
         "star": 5,
         "power": 1216,
         "attack": 1242,
@@ -45916,7 +46629,7 @@ window.allHeroes =
             "health": 2375
         },
         "lb2": {
-            "power": 1470,
+            "power": 1469,
             "attack": 1531,
             "defense": 1531,
             "health": 2717
@@ -45962,6 +46675,7 @@ window.allHeroes =
         ],
         "source": "高塔 - 冥河",
         "Release date": "2022-11-16",
+        "specialId": "boat_ride_from_the_beyond",
         "star": 5,
         "power": 858,
         "attack": 741,
@@ -46030,6 +46744,7 @@ window.allHeroes =
         ],
         "source": "傳奇召喚 - 月英",
         "Release date": "2020-05-01",
+        "specialId": "miasma_mace",
         "star": 5,
         "power": 772,
         "attack": 733,
@@ -46049,7 +46764,7 @@ window.allHeroes =
         "costume_id": 0,
         "originalIndex": 714,
         "lb1": {
-            "power": 823,
+            "power": 822,
             "attack": 790,
             "defense": 768,
             "health": 1474
@@ -46103,6 +46818,7 @@ window.allHeroes =
         ],
         "source": "挑戰節 II",
         "Release date": "2021-02-11",
+        "specialId": "doomstrike",
         "star": 5,
         "power": 805,
         "attack": 801,
@@ -46119,13 +46835,13 @@ window.allHeroes =
         "costume_id": 0,
         "originalIndex": 715,
         "lb1": {
-            "power": 858,
+            "power": 857,
             "attack": 863,
             "defense": 808,
             "health": 1462
         },
         "lb2": {
-            "power": 964,
+            "power": 963,
             "attack": 988,
             "defense": 924,
             "health": 1673
@@ -46174,6 +46890,7 @@ window.allHeroes =
         ],
         "source": "挑戰節 II",
         "Release date": "2024-11-14",
+        "specialId": "pulsarstrike",
         "star": 5,
         "power": 1205,
         "attack": 1334,
@@ -46198,7 +46915,7 @@ window.allHeroes =
             "health": 2332
         },
         "lb2": {
-            "power": 1458,
+            "power": 1457,
             "attack": 1646,
             "defense": 1367,
             "health": 2669
@@ -46245,6 +46962,7 @@ window.allHeroes =
         ],
         "source": "挑戰節 II",
         "Release date": "2025-04-09",
+        "specialId": "struck_by_thunder",
         "star": 5,
         "power": 1188,
         "attack": 1192,
@@ -46264,13 +46982,13 @@ window.allHeroes =
         "costume_id": 0,
         "originalIndex": 717,
         "lb1": {
-            "power": 1272,
+            "power": 1271,
             "attack": 1285,
             "defense": 1314,
             "health": 2350
         },
         "lb2": {
-            "power": 1437,
+            "power": 1436,
             "attack": 1470,
             "defense": 1503,
             "health": 2689
@@ -46314,6 +47032,7 @@ window.allHeroes =
         ],
         "source": "哥布林召喚",
         "Release date": "2023-09-18",
+        "specialId": "the_eagles_blessing",
         "star": 5,
         "power": 941,
         "attack": 906,
@@ -46334,13 +47053,13 @@ window.allHeroes =
         "costume_id": 0,
         "originalIndex": 718,
         "lb1": {
-            "power": 1005,
+            "power": 1004,
             "attack": 976,
             "defense": 1016,
             "health": 1811
         },
         "lb2": {
-            "power": 1132,
+            "power": 1131,
             "attack": 1117,
             "defense": 1163,
             "health": 2072
@@ -46381,6 +47100,7 @@ window.allHeroes =
         ],
         "source": "哥布林召喚",
         "Release date": "2023-09-18",
+        "specialId": "unhallowed_spirits",
         "star": 5,
         "power": 940,
         "attack": 964,
@@ -46402,7 +47122,7 @@ window.allHeroes =
         "costume_id": 0,
         "originalIndex": 719,
         "lb1": {
-            "power": 1004,
+            "power": 1003,
             "attack": 1038,
             "defense": 967,
             "health": 1747
@@ -46454,6 +47174,7 @@ window.allHeroes =
         ],
         "source": "星界召喚",
         "Release date": "2024-05-20",
+        "specialId": "moon_crush_beam",
         "star": 5,
         "power": 1051,
         "attack": 1095,
@@ -46522,6 +47243,7 @@ window.allHeroes =
         ],
         "source": "三國召喚",
         "Release date": "2022-03-14",
+        "specialId": "ladys_charm",
         "star": 5,
         "power": 835,
         "attack": 805,
@@ -46538,13 +47260,13 @@ window.allHeroes =
         "costume_id": 0,
         "originalIndex": 721,
         "lb1": {
-            "power": 891,
+            "power": 890,
             "attack": 868,
             "defense": 859,
             "health": 1580
         },
         "lb2": {
-            "power": 1001,
+            "power": 1000,
             "attack": 993,
             "defense": 982,
             "health": 1808
@@ -46582,6 +47304,7 @@ window.allHeroes =
         ],
         "source": "三國召喚",
         "Release date": "2024-05-28",
+        "specialId": "ladys_flowers",
         "star": 5,
         "power": 1105,
         "attack": 1073,
@@ -46648,6 +47371,7 @@ window.allHeroes =
         ],
         "source": "S1 - 經典",
         "Release date": "2017-03-01",
+        "specialId": "shock_bolt",
         "star": 5,
         "power": 757,
         "attack": 725,
@@ -46670,7 +47394,7 @@ window.allHeroes =
             "health": 1454
         },
         "lb2": {
-            "power": 905,
+            "power": 904,
             "attack": 894,
             "defense": 835,
             "health": 1663
@@ -46709,6 +47433,7 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2020-05-18",
+        "specialId": "awe_bolt",
         "star": 5,
         "power": 851,
         "attack": 837,
@@ -46725,13 +47450,13 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 724,
         "lb1": {
-            "power": 908,
+            "power": 907,
             "attack": 902,
             "defense": 839,
             "health": 1658
         },
         "lb2": {
-            "power": 1021,
+            "power": 1020,
             "attack": 1032,
             "defense": 960,
             "health": 1897
@@ -46770,6 +47495,7 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2022-10-31",
+        "specialId": "dark_bolt",
         "star": 5,
         "power": 967,
         "attack": 940,
@@ -46792,7 +47518,7 @@ window.allHeroes =
             "health": 2007
         },
         "lb2": {
-            "power": 1164,
+            "power": 1163,
             "attack": 1159,
             "defense": 1113,
             "health": 2296
@@ -46836,6 +47562,7 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2024-03-11",
+        "specialId": "adorable_bolt",
         "star": 5,
         "power": 1134,
         "attack": 1167,
@@ -46907,6 +47634,7 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2025-04-23",
+        "specialId": "glass_bolt",
         "star": 5,
         "power": 1241,
         "attack": 1337,
@@ -46932,7 +47660,7 @@ window.allHeroes =
             "health": 2504
         },
         "lb2": {
-            "power": 1501,
+            "power": 1500,
             "attack": 1648,
             "defense": 1421,
             "health": 2865
@@ -46973,6 +47701,7 @@ window.allHeroes =
         ],
         "source": "S4 - 地底荒野",
         "Release date": "2021-03-25",
+        "specialId": "blinding_wisdom",
         "star": 5,
         "power": 807,
         "attack": 774,
@@ -46990,7 +47719,7 @@ window.allHeroes =
         "costume_id": 0,
         "originalIndex": 728,
         "lb1": {
-            "power": 861,
+            "power": 860,
             "attack": 834,
             "defense": 810,
             "health": 1551
@@ -47032,6 +47761,7 @@ window.allHeroes =
         ],
         "source": "S4 - 地底荒野",
         "Release date": "2023-04-27",
+        "specialId": "blinding_knowledge",
         "star": 5,
         "power": 1022,
         "attack": 988,
@@ -47097,10 +47827,11 @@ window.allHeroes =
         ],
         "source": "星界召喚",
         "Release date": "2024-03-07",
+        "specialId": "astral_dominion",
         "star": 5,
-        "power": 1012,
+        "power": 1013,
         "attack": 1015,
-        "defense": 1056,
+        "defense": 1060,
         "health": 1689,
         "effects": [
             "此特殊技能必定命中目標。",
@@ -47123,7 +47854,7 @@ window.allHeroes =
             "health": 1820
         },
         "lb2": {
-            "power": 1220,
+            "power": 1219,
             "attack": 1252,
             "defense": 1303,
             "health": 2082
@@ -47168,6 +47899,7 @@ window.allHeroes =
         ],
         "source": "怪獸島召喚",
         "Release date": "2024-05-23",
+        "specialId": "thundering_strike",
         "star": 5,
         "power": 1122,
         "attack": 1095,
@@ -47187,13 +47919,13 @@ window.allHeroes =
         "costume_id": 0,
         "originalIndex": 731,
         "lb1": {
-            "power": 1200,
+            "power": 1199,
             "attack": 1181,
             "defense": 1165,
             "health": 2395
         },
         "lb2": {
-            "power": 1355,
+            "power": 1354,
             "attack": 1351,
             "defense": 1333,
             "health": 2740
@@ -47237,6 +47969,7 @@ window.allHeroes =
         ],
         "source": "S7 - 火焰與冰霜的寶藏",
         "Release date": "2024-12-03",
+        "specialId": "nights_whisper",
         "star": 5,
         "power": 1165,
         "attack": 1143,
@@ -47259,13 +47992,13 @@ window.allHeroes =
         "costume_id": 0,
         "originalIndex": 732,
         "lb1": {
-            "power": 1247,
+            "power": 1246,
             "attack": 1232,
             "defense": 1274,
             "health": 2384
         },
         "lb2": {
-            "power": 1408,
+            "power": 1407,
             "attack": 1409,
             "defense": 1457,
             "health": 2727
@@ -47302,6 +48035,7 @@ window.allHeroes =
         ],
         "source": "月活動 - 戀愛季節",
         "Release date": "2024-01-08",
+        "specialId": "arrow_of_desire",
         "star": 5,
         "power": 966,
         "attack": 1009,
@@ -47325,7 +48059,7 @@ window.allHeroes =
             "health": 1742
         },
         "lb2": {
-            "power": 1163,
+            "power": 1162,
             "attack": 1244,
             "defense": 1155,
             "health": 1993
@@ -47358,15 +48092,16 @@ window.allHeroes =
         ],
         "skill_types": [
             "特殊治療",
+            "法力提升",
             "反製小兵",
             "狙擊手",
-            "法力提升",
             "提供免疫",
             "鬼魂形態與隱藏",
             "繞過"
         ],
         "source": "額外抽獎 - 秘密召喚",
         "Release date": "2025-06-06",
+        "specialId": "mimic_training_hero_purple_bite",
         "star": 5,
         "power": 1200,
         "attack": 1236,
@@ -47443,6 +48178,7 @@ window.allHeroes =
         ],
         "source": "超級元素",
         "Release date": "2023-11-06",
+        "specialId": "piercing_falcon",
         "star": 5,
         "power": 971,
         "attack": 1007,
@@ -47509,6 +48245,7 @@ window.allHeroes =
         ],
         "source": "S3 - 瓦爾哈拉",
         "Release date": "2020-02-27",
+        "specialId": "ravens_vigil",
         "star": 5,
         "power": 792,
         "attack": 776,
@@ -47525,13 +48262,13 @@ window.allHeroes =
         "costume_id": 0,
         "originalIndex": 736,
         "lb1": {
-            "power": 844,
+            "power": 843,
             "attack": 836,
             "defense": 801,
             "health": 1443
         },
         "lb2": {
-            "power": 948,
+            "power": 947,
             "attack": 957,
             "defense": 916,
             "health": 1651
@@ -47569,6 +48306,7 @@ window.allHeroes =
         ],
         "source": "S3 - 瓦爾哈拉",
         "Release date": "2022-08-01",
+        "specialId": "ravens_watch",
         "star": 5,
         "power": 991,
         "attack": 967,
@@ -47628,6 +48366,7 @@ window.allHeroes =
         ],
         "source": "超級元素",
         "Release date": "2024-03-25",
+        "specialId": "elemental_corruption",
         "star": 5,
         "power": 1024,
         "attack": 1075,
@@ -47655,7 +48394,7 @@ window.allHeroes =
             "health": 1853
         },
         "lb2": {
-            "power": 1234,
+            "power": 1233,
             "attack": 1325,
             "defense": 1244,
             "health": 2120
@@ -47693,6 +48432,7 @@ window.allHeroes =
         ],
         "source": "星界召喚",
         "Release date": "2025-05-07",
+        "specialId": "twilight_star_strike",
         "star": 5,
         "power": 1184,
         "attack": 1229,
@@ -47760,6 +48500,7 @@ window.allHeroes =
         ],
         "source": "超級元素",
         "Release date": "2024-11-27",
+        "specialId": "slime_serving",
         "star": 5,
         "power": 1149,
         "attack": 1196,
@@ -47786,7 +48527,7 @@ window.allHeroes =
             "health": 2237
         },
         "lb2": {
-            "power": 1389,
+            "power": 1388,
             "attack": 1475,
             "defense": 1389,
             "health": 2560
@@ -47825,6 +48566,7 @@ window.allHeroes =
         ],
         "source": "怪獸島召喚",
         "Release date": "2022-12-24",
+        "specialId": "titantooth_blade",
         "star": 5,
         "power": 889,
         "attack": 908,
@@ -47844,7 +48586,7 @@ window.allHeroes =
         "costume_id": 0,
         "originalIndex": 741,
         "lb1": {
-            "power": 950,
+            "power": 949,
             "attack": 979,
             "defense": 903,
             "health": 1636
@@ -47887,6 +48629,7 @@ window.allHeroes =
         ],
         "source": "挑戰 - 石像鬼",
         "Release date": "2022-05-12",
+        "specialId": "revengeful_smite",
         "star": 5,
         "power": 841,
         "attack": 824,
@@ -47910,7 +48653,7 @@ window.allHeroes =
             "health": 1571
         },
         "lb2": {
-            "power": 1009,
+            "power": 1008,
             "attack": 1016,
             "defense": 988,
             "health": 1798
@@ -47949,6 +48692,7 @@ window.allHeroes =
         ],
         "source": "挑戰 - 貝武夫",
         "Release date": "2025-07-13",
+        "specialId": "harrow_the_heart",
         "star": 5,
         "power": 1220,
         "attack": 1233,
@@ -48017,6 +48761,7 @@ window.allHeroes =
         ],
         "source": "超級元素",
         "Release date": "2023-05-22",
+        "specialId": "mana_manipulation",
         "star": 5,
         "power": 908,
         "attack": 859,
@@ -48038,13 +48783,13 @@ window.allHeroes =
         "costume_id": 0,
         "originalIndex": 744,
         "lb1": {
-            "power": 969,
+            "power": 968,
             "attack": 925,
             "defense": 943,
             "health": 1829
         },
         "lb2": {
-            "power": 1091,
+            "power": 1090,
             "attack": 1059,
             "defense": 1079,
             "health": 2092
@@ -48082,6 +48827,7 @@ window.allHeroes =
         ],
         "source": "傳奇召喚 - 月英",
         "Release date": "2019-12-01",
+        "specialId": "gnomish_carnage",
         "star": 5,
         "power": 770,
         "attack": 615,
@@ -48101,7 +48847,7 @@ window.allHeroes =
         "costume_id": 0,
         "originalIndex": 745,
         "lb1": {
-            "power": 821,
+            "power": 820,
             "attack": 663,
             "defense": 888,
             "health": 1536
@@ -48150,6 +48896,7 @@ window.allHeroes =
         ],
         "source": "挑戰節 I",
         "Release date": "2017-10-05",
+        "specialId": "eye_of_panther",
         "star": 5,
         "power": 765,
         "attack": 786,
@@ -48172,7 +48919,7 @@ window.allHeroes =
             "health": 1454
         },
         "lb2": {
-            "power": 915,
+            "power": 914,
             "attack": 970,
             "defense": 777,
             "health": 1663
@@ -48214,6 +48961,7 @@ window.allHeroes =
         ],
         "source": "挑戰節 I",
         "Release date": "2022-06-16",
+        "specialId": "roar_of_the_panther",
         "star": 5,
         "power": 958,
         "attack": 972,
@@ -48275,6 +49023,7 @@ window.allHeroes =
         ],
         "source": "超級元素",
         "Release date": "2024-06-18",
+        "specialId": "blob_of_fury",
         "star": 5,
         "power": 1133,
         "attack": 1190,
@@ -48308,7 +49057,7 @@ window.allHeroes =
             "health": 2115
         },
         "lb2": {
-            "power": 1369,
+            "power": 1368,
             "attack": 1468,
             "defense": 1397,
             "health": 2420
@@ -48348,6 +49097,7 @@ window.allHeroes =
         ],
         "source": "S4 - 地底荒野",
         "Release date": "2021-06-17",
+        "specialId": "corrupting_idol",
         "star": 5,
         "power": 807,
         "attack": 780,
@@ -48416,6 +49166,7 @@ window.allHeroes =
         ],
         "source": "S4 - 地底荒野",
         "Release date": "2024-04-25",
+        "specialId": "delicious_idol",
         "star": 5,
         "power": 1022,
         "attack": 1030,
@@ -48436,13 +49187,13 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 750,
         "lb1": {
-            "power": 1092,
+            "power": 1091,
             "attack": 1110,
             "defense": 1034,
             "health": 2064
         },
         "lb2": {
-            "power": 1232,
+            "power": 1231,
             "attack": 1270,
             "defense": 1184,
             "health": 2362
@@ -48488,6 +49239,7 @@ window.allHeroes =
         ],
         "source": "怪獸島召喚",
         "Release date": "2022-09-18",
+        "specialId": "medicinal_fumes",
         "star": 5,
         "power": 888,
         "attack": 819,
@@ -48513,7 +49265,7 @@ window.allHeroes =
             "health": 1791
         },
         "lb2": {
-            "power": 1067,
+            "power": 1066,
             "attack": 1010,
             "defense": 1076,
             "health": 2049
@@ -48554,6 +49306,7 @@ window.allHeroes =
         ],
         "source": "傳奇召喚 - 月英",
         "Release date": "2017-06-01",
+        "specialId": "crush_of_hel",
         "star": 5,
         "power": 765,
         "attack": 745,
@@ -48571,13 +49324,13 @@ window.allHeroes =
         "costume_id": 0,
         "originalIndex": 752,
         "lb1": {
-            "power": 815,
+            "power": 814,
             "attack": 803,
             "defense": 745,
             "health": 1431
         },
         "lb2": {
-            "power": 915,
+            "power": 914,
             "attack": 919,
             "defense": 853,
             "health": 1638
@@ -48622,6 +49375,7 @@ window.allHeroes =
         ],
         "source": "傳奇召喚 - 月英",
         "Release date": "2022-11-28",
+        "specialId": "crush_of_malice",
         "star": 5,
         "power": 971,
         "attack": 953,
@@ -48641,7 +49395,7 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 753,
         "lb1": {
-            "power": 1038,
+            "power": 1037,
             "attack": 1027,
             "defense": 939,
             "health": 2074
@@ -48692,6 +49446,7 @@ window.allHeroes =
         ],
         "source": "S7 - 火焰與冰霜的寶藏",
         "Release date": "2025-02-23",
+        "specialId": "dwarven_kings_levy",
         "star": 5,
         "power": 1180,
         "attack": 1157,
@@ -48763,6 +49518,7 @@ window.allHeroes =
         ],
         "source": "S4 - 地底荒野",
         "Release date": "2022-03-24",
+        "specialId": "pet_larva",
         "star": 5,
         "power": 816,
         "attack": 758,
@@ -48781,7 +49537,7 @@ window.allHeroes =
         "costume_id": 0,
         "originalIndex": 755,
         "lb1": {
-            "power": 870,
+            "power": 869,
             "attack": 816,
             "defense": 843,
             "health": 1593
@@ -48826,6 +49582,7 @@ window.allHeroes =
         ],
         "source": "S4 - 地底荒野",
         "Release date": "2024-03-28",
+        "specialId": "larva_prescription",
         "star": 5,
         "power": 1034,
         "attack": 982,
@@ -48891,6 +49648,7 @@ window.allHeroes =
         ],
         "source": "神秘 - 暗影召喚",
         "Release date": "2024-06-04",
+        "specialId": "merciless_execution",
         "star": 5,
         "power": 1134,
         "attack": 1184,
@@ -48911,7 +49669,7 @@ window.allHeroes =
         "costume_id": 0,
         "originalIndex": 757,
         "lb1": {
-            "power": 1214,
+            "power": 1213,
             "attack": 1276,
             "defense": 1216,
             "health": 2153
@@ -48965,6 +49723,7 @@ window.allHeroes =
         ],
         "source": "怪獸島召喚",
         "Release date": "2023-05-26",
+        "specialId": "firestone_daggers",
         "star": 5,
         "power": 895,
         "attack": 900,
@@ -48985,7 +49744,7 @@ window.allHeroes =
         "costume_id": 0,
         "originalIndex": 758,
         "lb1": {
-            "power": 956,
+            "power": 955,
             "attack": 970,
             "defense": 919,
             "health": 1671
@@ -49042,6 +49801,7 @@ window.allHeroes =
         ],
         "source": "野地召喚",
         "Release date": "2025-07-18",
+        "specialId": "feline_constellation",
         "star": 5,
         "power": 1221,
         "attack": 1227,
@@ -49108,6 +49868,7 @@ window.allHeroes =
         ],
         "source": "挑戰節 I",
         "Release date": "2019-02-14",
+        "specialId": "sideswipe",
         "star": 5,
         "power": 780,
         "attack": 743,
@@ -49167,6 +49928,7 @@ window.allHeroes =
         ],
         "source": "挑戰節 I",
         "Release date": "2021-12-15",
+        "specialId": "avenger_of_mothkind",
         "star": 5,
         "power": 977,
         "attack": 956,
@@ -49190,7 +49952,7 @@ window.allHeroes =
             "health": 1987
         },
         "lb2": {
-            "power": 1176,
+            "power": 1175,
             "attack": 1179,
             "defense": 1142,
             "health": 2275
@@ -49237,6 +49999,7 @@ window.allHeroes =
         ],
         "source": "高塔 - 魔法",
         "Release date": "2023-11-15",
+        "specialId": "vapors_of_the_underworld",
         "star": 5,
         "power": 954,
         "attack": 959,
@@ -49310,6 +50073,7 @@ window.allHeroes =
         ],
         "source": "S2 - 亞特蘭蒂斯",
         "Release date": "2018-12-01",
+        "specialId": "break_strike",
         "star": 5,
         "power": 772,
         "attack": 780,
@@ -49332,7 +50096,7 @@ window.allHeroes =
             "health": 1345
         },
         "lb2": {
-            "power": 924,
+            "power": 923,
             "attack": 962,
             "defense": 881,
             "health": 1539
@@ -49377,6 +50141,7 @@ window.allHeroes =
         ],
         "source": "S2 - 亞特蘭蒂斯",
         "Release date": "2021-11-15",
+        "specialId": "beetle_strike",
         "star": 5,
         "power": 942,
         "attack": 950,
@@ -49394,13 +50159,13 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 764,
         "lb1": {
-            "power": 1006,
+            "power": 1005,
             "attack": 1023,
             "defense": 981,
             "health": 1771
         },
         "lb2": {
-            "power": 1133,
+            "power": 1132,
             "attack": 1171,
             "defense": 1123,
             "health": 2026
@@ -49444,6 +50209,7 @@ window.allHeroes =
         ],
         "source": "挑戰節 II",
         "Release date": "2021-02-11",
+        "specialId": "total_beatdown",
         "star": 5,
         "power": 803,
         "attack": 766,
@@ -49465,7 +50231,7 @@ window.allHeroes =
             "health": 1556
         },
         "lb2": {
-            "power": 962,
+            "power": 961,
             "attack": 944,
             "defense": 919,
             "health": 1780
@@ -49505,6 +50271,7 @@ window.allHeroes =
         ],
         "source": "挑戰節 II",
         "Release date": "2025-06-15",
+        "specialId": "slumbering_beatdown",
         "star": 5,
         "power": 1201,
         "attack": 1285,
@@ -49523,7 +50290,7 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 766,
         "lb1": {
-            "power": 1286,
+            "power": 1285,
             "attack": 1386,
             "defense": 1197,
             "health": 2433
@@ -49566,6 +50333,7 @@ window.allHeroes =
         ],
         "source": "挑戰 - 石像鬼",
         "Release date": "2022-12-29",
+        "specialId": "cry_for_absolution",
         "star": 5,
         "power": 850,
         "attack": 828,
@@ -49583,13 +50351,13 @@ window.allHeroes =
         "costume_id": 0,
         "originalIndex": 767,
         "lb1": {
-            "power": 907,
+            "power": 906,
             "attack": 892,
             "defense": 876,
             "health": 1602
         },
         "lb2": {
-            "power": 1020,
+            "power": 1019,
             "attack": 1021,
             "defense": 1003,
             "health": 1833
@@ -49626,6 +50394,7 @@ window.allHeroes =
         ],
         "source": "S5 - 沙丘",
         "Release date": "2022-06-09",
+        "specialId": "scarab_bombardment",
         "star": 5,
         "power": 860,
         "attack": 801,
@@ -49691,6 +50460,7 @@ window.allHeroes =
         ],
         "source": "S5 - 沙丘",
         "Release date": "2025-02-17",
+        "specialId": "scarab_blitz",
         "star": 5,
         "power": 1205,
         "attack": 1218,
@@ -49714,13 +50484,13 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 769,
         "lb1": {
-            "power": 1289,
+            "power": 1288,
             "attack": 1312,
             "defense": 1269,
             "health": 2496
         },
         "lb2": {
-            "power": 1457,
+            "power": 1456,
             "attack": 1501,
             "defense": 1452,
             "health": 2856
@@ -49758,6 +50528,7 @@ window.allHeroes =
         ],
         "source": "傳奇召喚 - 月英",
         "Release date": "2018-09-01",
+        "specialId": "bleeding_edge",
         "star": 5,
         "power": 768,
         "attack": 739,
@@ -49774,7 +50545,7 @@ window.allHeroes =
         "costume_id": 0,
         "originalIndex": 770,
         "lb1": {
-            "power": 819,
+            "power": 818,
             "attack": 796,
             "defense": 763,
             "health": 1440
@@ -49818,6 +50589,7 @@ window.allHeroes =
         ],
         "source": "傳奇召喚 - 月英",
         "Release date": "2024-02-09",
+        "specialId": "bleeding_hammer",
         "star": 5,
         "power": 976,
         "attack": 963,
@@ -49836,7 +50608,7 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 771,
         "lb1": {
-            "power": 1043,
+            "power": 1042,
             "attack": 1039,
             "defense": 950,
             "health": 2059
@@ -49877,6 +50649,7 @@ window.allHeroes =
         ],
         "source": "S5 - 沙丘",
         "Release date": "2022-04-21",
+        "specialId": "midnight_strike",
         "star": 5,
         "power": 858,
         "attack": 863,
@@ -49896,13 +50669,13 @@ window.allHeroes =
         "costume_id": 0,
         "originalIndex": 772,
         "lb1": {
-            "power": 916,
+            "power": 915,
             "attack": 930,
             "defense": 836,
             "health": 1651
         },
         "lb2": {
-            "power": 1030,
+            "power": 1029,
             "attack": 1064,
             "defense": 957,
             "health": 1889
@@ -49937,6 +50710,7 @@ window.allHeroes =
         ],
         "source": "S5 - 沙丘",
         "Release date": "2024-09-07",
+        "specialId": "midnight_smite",
         "star": 5,
         "power": 1199,
         "attack": 1271,
@@ -49999,6 +50773,7 @@ window.allHeroes =
         ],
         "source": "月活動 - 斯普林維爾",
         "Release date": "2020-04-06",
+        "specialId": "reckless_swing",
         "star": 5,
         "power": 789,
         "attack": 741,
@@ -50055,8 +50830,9 @@ window.allHeroes =
         ],
         "source": "月活動 - 斯普林維爾",
         "Release date": "2022-03-21",
+        "specialId": "championship_carrot",
         "star": 5,
-        "power": 898,
+        "power": 936,
         "attack": 879,
         "defense": 924,
         "health": 1753,
@@ -50070,13 +50846,13 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 775,
         "lb1": {
-            "power": 1000,
+            "power": 999,
             "attack": 947,
             "defense": 996,
             "health": 1888
         },
         "lb2": {
-            "power": 1126,
+            "power": 1125,
             "attack": 1084,
             "defense": 1138,
             "health": 2161
@@ -50115,6 +50891,7 @@ window.allHeroes =
         ],
         "source": "挑戰節 I",
         "Release date": "2024-04-18",
+        "specialId": "stolen_tarts",
         "star": 5,
         "power": 1037,
         "attack": 1079,
@@ -50137,7 +50914,7 @@ window.allHeroes =
             "health": 1964
         },
         "lb2": {
-            "power": 1250,
+            "power": 1249,
             "attack": 1330,
             "defense": 1231,
             "health": 2247
@@ -50184,6 +50961,7 @@ window.allHeroes =
         ],
         "source": "超級元素",
         "Release date": "2025-02-17",
+        "specialId": "slime_coated_sword",
         "star": 5,
         "power": 1180,
         "attack": 1242,
@@ -50205,13 +50983,13 @@ window.allHeroes =
         "costume_id": 0,
         "originalIndex": 777,
         "lb1": {
-            "power": 1263,
+            "power": 1262,
             "attack": 1338,
             "defense": 1305,
             "health": 2171
         },
         "lb2": {
-            "power": 1427,
+            "power": 1426,
             "attack": 1531,
             "defense": 1493,
             "health": 2484
@@ -50252,6 +51030,7 @@ window.allHeroes =
         ],
         "source": "傳奇召喚 - 月英",
         "Release date": "2019-02-01",
+        "specialId": "power_of_ajna",
         "star": 5,
         "power": 770,
         "attack": 618,
@@ -50320,6 +51099,7 @@ window.allHeroes =
         ],
         "source": "S4 - 地底荒野",
         "Release date": "2021-03-25",
+        "specialId": "abyssal_incantation",
         "star": 5,
         "power": 806,
         "attack": 780,
@@ -50390,6 +51170,7 @@ window.allHeroes =
         ],
         "source": "S4 - 地底荒野",
         "Release date": "2023-04-27",
+        "specialId": "undying_incantation",
         "star": 5,
         "power": 1018,
         "attack": 982,
@@ -50412,13 +51193,13 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 780,
         "lb1": {
-            "power": 1088,
+            "power": 1087,
             "attack": 1058,
             "defense": 1110,
             "health": 2012
         },
         "lb2": {
-            "power": 1227,
+            "power": 1226,
             "attack": 1211,
             "defense": 1270,
             "health": 2303
@@ -50456,6 +51237,7 @@ window.allHeroes =
         ],
         "source": "月活動 - 卡勒瓦拉",
         "Release date": "2022-06-20",
+        "specialId": "feather_tempest",
         "star": 5,
         "power": 937,
         "attack": 927,
@@ -50474,7 +51256,7 @@ window.allHeroes =
         "costume_id": 0,
         "originalIndex": 781,
         "lb1": {
-            "power": 1001,
+            "power": 1000,
             "attack": 999,
             "defense": 932,
             "health": 1895
@@ -50523,6 +51305,7 @@ window.allHeroes =
         ],
         "source": "月活動 - 卡勒瓦拉",
         "Release date": "2025-07-28",
+        "specialId": "raging_tempest",
         "star": 5,
         "power": 1220,
         "attack": 1185,
@@ -50541,7 +51324,7 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 782,
         "lb1": {
-            "power": 1306,
+            "power": 1305,
             "attack": 1278,
             "defense": 1331,
             "health": 2577
@@ -50591,6 +51374,7 @@ window.allHeroes =
         ],
         "source": "三國召喚",
         "Release date": "2022-03-14",
+        "specialId": "disrupting_charge",
         "star": 5,
         "power": 835,
         "attack": 788,
@@ -50614,7 +51398,7 @@ window.allHeroes =
             "health": 1622
         },
         "lb2": {
-            "power": 1002,
+            "power": 1001,
             "attack": 972,
             "defense": 988,
             "health": 1856
@@ -50658,6 +51442,7 @@ window.allHeroes =
         ],
         "source": "三國召喚",
         "Release date": "2024-12-28",
+        "specialId": "disrupting_charge_costume_tiger_lord",
         "star": 5,
         "power": 1106,
         "attack": 1063,
@@ -50731,6 +51516,7 @@ window.allHeroes =
         ],
         "source": "月活動 - 莫洛維亞",
         "Release date": "2023-09-25",
+        "specialId": "might_of_excalibroom",
         "star": 5,
         "power": 933,
         "attack": 865,
@@ -50756,7 +51542,7 @@ window.allHeroes =
             "health": 1887
         },
         "lb2": {
-            "power": 1122,
+            "power": 1121,
             "attack": 1066,
             "defense": 1148,
             "health": 2159
@@ -50800,6 +51586,7 @@ window.allHeroes =
         ],
         "source": "聯盟 - 騎士衝擊",
         "Release date": "2021-10-13",
+        "specialId": "fullmetal_pelt",
         "star": 5,
         "power": 816,
         "attack": 723,
@@ -50855,6 +51642,7 @@ window.allHeroes =
         ],
         "source": "挑戰節 II",
         "Release date": "2023-09-04",
+        "specialId": "lunar_blessing",
         "star": 5,
         "power": 938,
         "attack": 914,
@@ -50881,7 +51669,7 @@ window.allHeroes =
             "health": 1862
         },
         "lb2": {
-            "power": 1128,
+            "power": 1127,
             "attack": 1127,
             "defense": 1107,
             "health": 2131
@@ -50923,6 +51711,7 @@ window.allHeroes =
         ],
         "source": "挑戰 - 歌劇秘辛",
         "Release date": "2023-11-30",
+        "specialId": "summon_ballerina_fiend",
         "star": 5,
         "power": 957,
         "attack": 927,
@@ -50944,13 +51733,13 @@ window.allHeroes =
         "costume_id": 0,
         "originalIndex": 788,
         "lb1": {
-            "power": 1022,
+            "power": 1021,
             "attack": 999,
             "defense": 1043,
             "health": 1822
         },
         "lb2": {
-            "power": 1151,
+            "power": 1150,
             "attack": 1143,
             "defense": 1193,
             "health": 2085
@@ -50994,6 +51783,7 @@ window.allHeroes =
         ],
         "source": "哥布林召喚",
         "Release date": "2025-02-14",
+        "specialId": "join_in_joyful_song",
         "star": 5,
         "power": 1163,
         "attack": 1124,
@@ -51065,6 +51855,7 @@ window.allHeroes =
         ],
         "source": "傳奇召喚 - 月英",
         "Release date": "2021-03-01",
+        "specialId": "grimoire_skim",
         "star": 5,
         "power": 788,
         "attack": 766,
@@ -51145,6 +51936,7 @@ window.allHeroes =
         ],
         "source": "挑戰節 I",
         "Release date": "2017-09-07",
+        "specialId": "zombie_curse",
         "star": 5,
         "power": 780,
         "attack": 774,
@@ -51215,6 +52007,7 @@ window.allHeroes =
         ],
         "source": "挑戰節 I",
         "Release date": "2022-02-17",
+        "specialId": "zombie_invocation",
         "star": 5,
         "power": 977,
         "attack": 956,
@@ -51244,7 +52037,7 @@ window.allHeroes =
             "health": 1987
         },
         "lb2": {
-            "power": 1176,
+            "power": 1175,
             "attack": 1179,
             "defense": 1142,
             "health": 2275
@@ -51284,6 +52077,7 @@ window.allHeroes =
         ],
         "source": "野地召喚",
         "Release date": "2025-03-26",
+        "specialId": "here_catch",
         "star": 5,
         "power": 1171,
         "attack": 1223,
@@ -51349,6 +52143,7 @@ window.allHeroes =
         ],
         "source": "S6 - 深淵謎團",
         "Release date": "2024-01-17",
+        "specialId": "shatter_psyche",
         "star": 5,
         "power": 999,
         "attack": 999,
@@ -51376,13 +52171,13 @@ window.allHeroes =
         "costume_id": 0,
         "originalIndex": 794,
         "lb1": {
-            "power": 1067,
+            "power": 1066,
             "attack": 1076,
             "defense": 1087,
             "health": 1862
         },
         "lb2": {
-            "power": 1203,
+            "power": 1202,
             "attack": 1231,
             "defense": 1244,
             "health": 2131
@@ -51421,6 +52216,7 @@ window.allHeroes =
         ],
         "source": "S6 - 深淵謎團",
         "Release date": "2024-10-19",
+        "specialId": "shatter_soul",
         "star": 5,
         "power": 1244,
         "attack": 1312,
@@ -51448,7 +52244,7 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 795,
         "lb1": {
-            "power": 1332,
+            "power": 1331,
             "attack": 1414,
             "defense": 1363,
             "health": 2357
@@ -51495,6 +52291,7 @@ window.allHeroes =
         ],
         "source": "神秘 - 暗影召喚",
         "Release date": "2024-05-01",
+        "specialId": "grim_awakening",
         "star": 5,
         "power": 1129,
         "attack": 1093,
@@ -51567,6 +52364,7 @@ window.allHeroes =
         ],
         "source": "S2 - 亞特蘭蒂斯",
         "Release date": "2018-02-01",
+        "specialId": "black_tide",
         "star": 5,
         "power": 772,
         "attack": 741,
@@ -51635,6 +52433,7 @@ window.allHeroes =
         ],
         "source": "S2 - 亞特蘭蒂斯",
         "Release date": "2023-02-06",
+        "specialId": "emerald_tide",
         "star": 5,
         "power": 944,
         "attack": 938,
@@ -51658,7 +52457,7 @@ window.allHeroes =
             "health": 1933
         },
         "lb2": {
-            "power": 1136,
+            "power": 1135,
             "attack": 1158,
             "defense": 1056,
             "health": 2211
@@ -51708,6 +52507,7 @@ window.allHeroes =
         ],
         "source": "傳奇召喚 - 月英",
         "Release date": "2022-11-01",
+        "specialId": "scythe_of_sorceries",
         "star": 5,
         "power": 812,
         "attack": 768,
@@ -51728,7 +52528,7 @@ window.allHeroes =
         "costume_id": 0,
         "originalIndex": 799,
         "lb1": {
-            "power": 866,
+            "power": 865,
             "attack": 828,
             "defense": 830,
             "health": 1560
@@ -51779,6 +52579,7 @@ window.allHeroes =
         ],
         "source": "聯盟 - 飛蛾",
         "Release date": "2025-01-23",
+        "specialId": "hungering_grave",
         "star": 5,
         "power": 1178,
         "attack": 1198,
@@ -51800,13 +52601,13 @@ window.allHeroes =
         "costume_id": 0,
         "originalIndex": 800,
         "lb1": {
-            "power": 1261,
+            "power": 1260,
             "attack": 1292,
             "defense": 1358,
             "health": 2168
         },
         "lb2": {
-            "power": 1425,
+            "power": 1424,
             "attack": 1478,
             "defense": 1554,
             "health": 2481
@@ -51850,6 +52651,7 @@ window.allHeroes =
         ],
         "source": "月活動 - 海灘派對",
         "Release date": "2023-06-12",
+        "specialId": "tidal_waves",
         "star": 5,
         "power": 873,
         "attack": 846,
@@ -51914,6 +52716,7 @@ window.allHeroes =
         ],
         "source": "傳奇召喚 - 額外抽獎",
         "Release date": "2020-05-01",
+        "specialId": "absordium_deflectors",
         "star": 5,
         "power": 799,
         "attack": 778,
@@ -51975,6 +52778,7 @@ window.allHeroes =
         ],
         "source": "挑戰節 II",
         "Release date": "2022-08-11",
+        "specialId": "song_of_calamity",
         "star": 5,
         "power": 849,
         "attack": 844,
@@ -51999,7 +52803,7 @@ window.allHeroes =
             "health": 1607
         },
         "lb2": {
-            "power": 1019,
+            "power": 1018,
             "attack": 1041,
             "defense": 972,
             "health": 1838
@@ -52042,6 +52846,7 @@ window.allHeroes =
         ],
         "source": "高塔 - 冥河",
         "Release date": "2022-06-01",
+        "specialId": "night_falls",
         "star": 5,
         "power": 854,
         "attack": 819,
@@ -52069,13 +52874,13 @@ window.allHeroes =
         "costume_id": 0,
         "originalIndex": 804,
         "lb1": {
-            "power": 912,
+            "power": 911,
             "attack": 883,
             "defense": 890,
             "health": 1631
         },
         "lb2": {
-            "power": 1025,
+            "power": 1024,
             "attack": 1010,
             "defense": 1018,
             "health": 1866
@@ -52116,6 +52921,7 @@ window.allHeroes =
         ],
         "source": "S1 - 經典",
         "Release date": "2017-03-01",
+        "specialId": "cleave_counter",
         "star": 5,
         "power": 756,
         "attack": 762,
@@ -52173,6 +52979,7 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2021-01-18",
+        "specialId": "unite_and_oppose",
         "star": 5,
         "power": 851,
         "attack": 835,
@@ -52188,13 +52995,13 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 806,
         "lb1": {
-            "power": 908,
+            "power": 907,
             "attack": 899,
             "defense": 827,
             "health": 1688
         },
         "lb2": {
-            "power": 1021,
+            "power": 1020,
             "attack": 1029,
             "defense": 946,
             "health": 1932
@@ -52232,6 +53039,7 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2022-09-05",
+        "specialId": "vampiric_cleave",
         "star": 5,
         "power": 966,
         "attack": 930,
@@ -52248,13 +53056,13 @@ window.allHeroes =
         "costume_id": 2,
         "originalIndex": 807,
         "lb1": {
-            "power": 1032,
+            "power": 1031,
             "attack": 1002,
             "defense": 958,
             "health": 2057
         },
         "lb2": {
-            "power": 1163,
+            "power": 1162,
             "attack": 1146,
             "defense": 1096,
             "health": 2354
@@ -52292,6 +53100,7 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2023-11-27",
+        "specialId": "toon_counter",
         "star": 5,
         "power": 1132,
         "attack": 1151,
@@ -52359,6 +53168,7 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2025-01-14",
+        "specialId": "cleave_and_reflect",
         "star": 5,
         "power": 1237,
         "attack": 1303,
@@ -52377,7 +53187,7 @@ window.allHeroes =
         "costume_id": 4,
         "originalIndex": 809,
         "lb1": {
-            "power": 1325,
+            "power": 1324,
             "attack": 1405,
             "defense": 1274,
             "health": 2508
@@ -52428,6 +53238,7 @@ window.allHeroes =
         ],
         "source": "挑戰 - 歌劇秘辛",
         "Release date": "2024-03-21",
+        "specialId": "dance_of_the_raven",
         "star": 5,
         "power": 1023,
         "attack": 1065,
@@ -52502,6 +53313,7 @@ window.allHeroes =
         ],
         "source": "高塔 - 貓頭鷹",
         "Release date": "2023-12-20",
+        "specialId": "poleaxe_of_the_law",
         "star": 5,
         "power": 984,
         "attack": 986,
@@ -52527,7 +53339,7 @@ window.allHeroes =
             "health": 1753
         },
         "lb2": {
-            "power": 1185,
+            "power": 1184,
             "attack": 1216,
             "defense": 1262,
             "health": 2006
@@ -52575,6 +53387,7 @@ window.allHeroes =
         ],
         "source": "高塔 - 忍者",
         "Release date": "2020-10-13",
+        "specialId": "crippling_claws",
         "star": 5,
         "power": 798,
         "attack": 803,
@@ -52600,13 +53413,13 @@ window.allHeroes =
         "costume_id": 0,
         "originalIndex": 812,
         "lb1": {
-            "power": 851,
+            "power": 850,
             "attack": 865,
             "defense": 761,
             "health": 1500
         },
         "lb2": {
-            "power": 956,
+            "power": 955,
             "attack": 990,
             "defense": 871,
             "health": 1717
@@ -52650,6 +53463,7 @@ window.allHeroes =
         ],
         "source": "月活動 - 冬季",
         "Release date": "2022-12-01",
+        "specialId": "putrid_perfume",
         "star": 5,
         "power": 851,
         "attack": 824,
@@ -52722,6 +53536,7 @@ window.allHeroes =
         ],
         "source": "挑戰 - 歌劇秘辛",
         "Release date": "2023-06-20",
+        "specialId": "ballad_of_obsession",
         "star": 5,
         "power": 955,
         "attack": 945,
@@ -52793,6 +53608,7 @@ window.allHeroes =
         ],
         "source": "S6 - 深淵謎團",
         "Release date": "2023-06-07",
+        "specialId": "rally_of_the_deep",
         "star": 5,
         "power": 906,
         "attack": 922,
@@ -52821,7 +53637,7 @@ window.allHeroes =
         "costume_id": 0,
         "originalIndex": 815,
         "lb1": {
-            "power": 967,
+            "power": 966,
             "attack": 994,
             "defense": 890,
             "health": 1749
@@ -52868,6 +53684,7 @@ window.allHeroes =
         ],
         "source": "S6 - 深淵謎團",
         "Release date": "2024-05-23",
+        "specialId": "order_from_the_depths",
         "star": 5,
         "power": 1124,
         "attack": 1201,
@@ -52896,7 +53713,7 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 816,
         "lb1": {
-            "power": 1202,
+            "power": 1201,
             "attack": 1294,
             "defense": 1131,
             "health": 2194
@@ -52941,6 +53758,7 @@ window.allHeroes =
         ],
         "source": "月活動 - 戀愛季節",
         "Release date": "2023-02-14",
+        "specialId": "potions_of_covetous_desire",
         "star": 5,
         "power": 861,
         "attack": 824,
@@ -52965,7 +53783,7 @@ window.allHeroes =
             "health": 1702
         },
         "lb2": {
-            "power": 1033,
+            "power": 1032,
             "attack": 1016,
             "defense": 998,
             "health": 1948
@@ -53005,6 +53823,7 @@ window.allHeroes =
         ],
         "source": "高塔 - 忍者",
         "Release date": "2021-11-10",
+        "specialId": "incite_ki",
         "star": 5,
         "power": 818,
         "attack": 751,
@@ -53076,6 +53895,7 @@ window.allHeroes =
         ],
         "source": "S1 - 經典",
         "Release date": "2017-03-01",
+        "specialId": "thunderstrike",
         "star": 5,
         "power": 757,
         "attack": 747,
@@ -53090,7 +53910,7 @@ window.allHeroes =
         "costume_id": 0,
         "originalIndex": 819,
         "lb1": {
-            "power": 807,
+            "power": 806,
             "attack": 805,
             "defense": 685,
             "health": 1487
@@ -53127,6 +53947,7 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2020-01-01",
+        "specialId": "shock_ultimatum",
         "star": 5,
         "power": 852,
         "attack": 865,
@@ -53142,13 +53963,13 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 820,
         "lb1": {
-            "power": 909,
+            "power": 908,
             "attack": 932,
             "defense": 769,
             "health": 1730
         },
         "lb2": {
-            "power": 1022,
+            "power": 1021,
             "attack": 1066,
             "defense": 880,
             "health": 1980
@@ -53184,6 +54005,7 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2022-12-26",
+        "specialId": "lightning_ultimatum",
         "star": 5,
         "power": 969,
         "attack": 971,
@@ -53240,6 +54062,7 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2024-08-11",
+        "specialId": "toon_ultimatum",
         "star": 5,
         "power": 1135,
         "attack": 1069,
@@ -53263,7 +54086,7 @@ window.allHeroes =
             "health": 2539
         },
         "lb2": {
-            "power": 1371,
+            "power": 1370,
             "attack": 1317,
             "defense": 1350,
             "health": 2905
@@ -53301,6 +54124,7 @@ window.allHeroes =
         ],
         "source": "傳奇召喚",
         "Release date": "2024-04-05",
+        "specialId": "three_little_rams",
         "star": 5,
         "power": 1026,
         "attack": 1021,
@@ -53365,6 +54189,7 @@ window.allHeroes =
         ],
         "source": "聯盟 - 騎士衝擊",
         "Release date": "2022-01-05",
+        "specialId": "plague_blade",
         "star": 5,
         "power": 822,
         "attack": 815,
@@ -53380,13 +54205,13 @@ window.allHeroes =
         "costume_id": 0,
         "originalIndex": 824,
         "lb1": {
-            "power": 877,
+            "power": 876,
             "attack": 879,
             "defense": 841,
             "health": 1491
         },
         "lb2": {
-            "power": 985,
+            "power": 984,
             "attack": 1005,
             "defense": 962,
             "health": 1706
@@ -53422,6 +54247,7 @@ window.allHeroes =
         ],
         "source": "聯盟 - 火槍手",
         "Release date": "2023-09-20",
+        "specialId": "dishonorable_ploy",
         "star": 5,
         "power": 928,
         "attack": 883,
@@ -53439,13 +54265,13 @@ window.allHeroes =
         "costume_id": 0,
         "originalIndex": 825,
         "lb1": {
-            "power": 992,
+            "power": 991,
             "attack": 952,
             "defense": 916,
             "health": 1978
         },
         "lb2": {
-            "power": 1117,
+            "power": 1116,
             "attack": 1089,
             "defense": 1049,
             "health": 2263
@@ -53481,6 +54307,7 @@ window.allHeroes =
         ],
         "source": "S3 - 瓦爾哈拉",
         "Release date": "2021-07-04",
+        "specialId": "tricksters_transformation",
         "star": 5,
         "power": 788,
         "attack": 745,
@@ -53504,7 +54331,7 @@ window.allHeroes =
             "health": 1482
         },
         "lb2": {
-            "power": 944,
+            "power": 943,
             "attack": 919,
             "defense": 927,
             "health": 1696
@@ -53545,6 +54372,7 @@ window.allHeroes =
         ],
         "source": "S3 - 瓦爾哈拉",
         "Release date": "2023-07-31",
+        "specialId": "gentlemans_transformation",
         "star": 5,
         "power": 987,
         "attack": 953,
@@ -53562,7 +54390,7 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 827,
         "lb1": {
-            "power": 1055,
+            "power": 1054,
             "attack": 1027,
             "defense": 1090,
             "health": 1894
@@ -53609,6 +54437,7 @@ window.allHeroes =
         ],
         "source": "挑戰節 I",
         "Release date": "2017-09-07",
+        "specialId": "curse_of_sargasso",
         "star": 5,
         "power": 765,
         "attack": 729,
@@ -53624,7 +54453,7 @@ window.allHeroes =
         "costume_id": 0,
         "originalIndex": 828,
         "lb1": {
-            "power": 815,
+            "power": 814,
             "attack": 785,
             "defense": 763,
             "health": 1438
@@ -53668,6 +54497,7 @@ window.allHeroes =
         ],
         "source": "挑戰節 I",
         "Release date": "2023-12-28",
+        "specialId": "curse_of_the_sea",
         "star": 5,
         "power": 957,
         "attack": 925,
@@ -53686,7 +54516,7 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 829,
         "lb1": {
-            "power": 1022,
+            "power": 1021,
             "attack": 996,
             "defense": 1067,
             "health": 1780
@@ -53730,6 +54560,7 @@ window.allHeroes =
         ],
         "source": "S1 - 經典",
         "Release date": "2017-03-01",
+        "specialId": "deathstrike",
         "star": 5,
         "power": 757,
         "attack": 694,
@@ -53786,6 +54617,7 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2020-05-18",
+        "specialId": "dreadstrike",
         "star": 5,
         "power": 853,
         "attack": 737,
@@ -53800,13 +54632,13 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 831,
         "lb1": {
-            "power": 910,
+            "power": 909,
             "attack": 794,
             "defense": 894,
             "health": 1831
         },
         "lb2": {
-            "power": 1023,
+            "power": 1022,
             "attack": 909,
             "defense": 1023,
             "health": 2095
@@ -53838,6 +54670,7 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2023-06-12",
+        "specialId": "frightstrike",
         "star": 5,
         "power": 971,
         "attack": 900,
@@ -53854,13 +54687,13 @@ window.allHeroes =
         "costume_id": 2,
         "originalIndex": 832,
         "lb1": {
-            "power": 1037,
+            "power": 1036,
             "attack": 970,
             "defense": 932,
             "health": 2224
         },
         "lb2": {
-            "power": 1169,
+            "power": 1168,
             "attack": 1110,
             "defense": 1068,
             "health": 2544
@@ -53902,6 +54735,7 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2023-10-30",
+        "specialId": "adorable_strike",
         "star": 5,
         "power": 1137,
         "attack": 1091,
@@ -53920,13 +54754,13 @@ window.allHeroes =
         "costume_id": 3,
         "originalIndex": 833,
         "lb1": {
-            "power": 1216,
+            "power": 1215,
             "attack": 1176,
             "defense": 1162,
             "health": 2527
         },
         "lb2": {
-            "power": 1373,
+            "power": 1372,
             "attack": 1345,
             "defense": 1329,
             "health": 2891
@@ -53969,6 +54803,7 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2024-12-25",
+        "specialId": "glass_strike",
         "star": 5,
         "power": 1242,
         "attack": 1235,
@@ -53987,7 +54822,7 @@ window.allHeroes =
         "costume_id": 4,
         "originalIndex": 834,
         "lb1": {
-            "power": 1330,
+            "power": 1329,
             "attack": 1331,
             "defense": 1309,
             "health": 2659
@@ -54039,6 +54874,7 @@ window.allHeroes =
         ],
         "source": "高塔 - 忍者",
         "Release date": "2025-01-02",
+        "specialId": "shade_cloak",
         "star": 5,
         "power": 1141,
         "attack": 1182,
@@ -54119,6 +54955,7 @@ window.allHeroes =
         ],
         "source": "聖約召喚",
         "Release date": "2024-03-10",
+        "specialId": "void_bomb",
         "star": 5,
         "power": 1016,
         "attack": 943,
@@ -54146,7 +54983,7 @@ window.allHeroes =
             "health": 2191
         },
         "lb2": {
-            "power": 1225,
+            "power": 1224,
             "attack": 1163,
             "defense": 1221,
             "health": 2506
@@ -54193,6 +55030,7 @@ window.allHeroes =
         ],
         "source": "挑戰節 II",
         "Release date": "2021-08-05",
+        "specialId": "curse_of_the_specter",
         "star": 5,
         "power": 807,
         "attack": 731,
@@ -54267,6 +55105,7 @@ window.allHeroes =
         ],
         "source": "挑戰節 II",
         "Release date": "2025-04-09",
+        "specialId": "curse_of_the_cephaloid",
         "star": 5,
         "power": 1207,
         "attack": 1245,
@@ -54294,7 +55133,7 @@ window.allHeroes =
             "health": 2506
         },
         "lb2": {
-            "power": 1459,
+            "power": 1458,
             "attack": 1533,
             "defense": 1414,
             "health": 2867
@@ -54338,6 +55177,7 @@ window.allHeroes =
         ],
         "source": "月活動 - 海灘派對",
         "Release date": "2025-06-03",
+        "specialId": "spreading_gossip",
         "star": 5,
         "power": 1196,
         "attack": 1174,
@@ -54365,7 +55205,7 @@ window.allHeroes =
             "health": 2470
         },
         "lb2": {
-            "power": 1447,
+            "power": 1446,
             "attack": 1447,
             "defense": 1498,
             "health": 2827
@@ -54409,6 +55249,7 @@ window.allHeroes =
         ],
         "source": "傳奇召喚 - 月英",
         "Release date": "2019-07-01",
+        "specialId": "undead_rage",
         "star": 5,
         "power": 770,
         "attack": 760,
@@ -54428,7 +55269,7 @@ window.allHeroes =
         "costume_id": 0,
         "originalIndex": 840,
         "lb1": {
-            "power": 821,
+            "power": 820,
             "attack": 819,
             "defense": 737,
             "health": 1449
@@ -54479,6 +55320,7 @@ window.allHeroes =
         ],
         "source": "傳奇召喚 - 月英",
         "Release date": "2021-10-20",
+        "specialId": "excorcizing_arrow",
         "star": 5,
         "power": 979,
         "attack": 980,
@@ -54499,7 +55341,7 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 841,
         "lb1": {
-            "power": 1046,
+            "power": 1045,
             "attack": 1056,
             "defense": 919,
             "health": 2098
@@ -54547,6 +55389,7 @@ window.allHeroes =
         ],
         "source": "S5 - 沙丘",
         "Release date": "2022-09-29",
+        "specialId": "legions_of_darkness",
         "star": 5,
         "power": 864,
         "attack": 807,
@@ -54573,7 +55416,7 @@ window.allHeroes =
             "health": 1704
         },
         "lb2": {
-            "power": 1037,
+            "power": 1036,
             "attack": 995,
             "defense": 1038,
             "health": 1950
@@ -54616,6 +55459,7 @@ window.allHeroes =
         ],
         "source": "S5 - 沙丘",
         "Release date": "2025-05-14",
+        "specialId": "legions_of_tyrant",
         "star": 5,
         "power": 1210,
         "attack": 1212,
@@ -54689,6 +55533,7 @@ window.allHeroes =
         ],
         "source": "聖約召喚",
         "Release date": "2023-12-24",
+        "specialId": "ironbound_fury",
         "star": 5,
         "power": 986,
         "attack": 994,
@@ -54710,7 +55555,7 @@ window.allHeroes =
         "costume_id": 0,
         "originalIndex": 844,
         "lb1": {
-            "power": 1054,
+            "power": 1053,
             "attack": 1072,
             "defense": 981,
             "health": 1991
@@ -54761,6 +55606,7 @@ window.allHeroes =
         ],
         "source": "聖約召喚",
         "Release date": "2024-12-23",
+        "specialId": "bone_toss",
         "star": 5,
         "power": 1153,
         "attack": 1143,
@@ -54781,7 +55627,7 @@ window.allHeroes =
         "costume_id": 0,
         "originalIndex": 845,
         "lb1": {
-            "power": 1233,
+            "power": 1232,
             "attack": 1232,
             "defense": 1227,
             "health": 2379
@@ -54828,6 +55674,7 @@ window.allHeroes =
         ],
         "source": "傳奇召喚 - 月英",
         "Release date": "2024-08-01",
+        "specialId": "guardians_retaliation",
         "star": 5,
         "power": 1008,
         "attack": 988,
@@ -54854,7 +55701,7 @@ window.allHeroes =
             "health": 1882
         },
         "lb2": {
-            "power": 1215,
+            "power": 1214,
             "attack": 1219,
             "defense": 1292,
             "health": 2153
@@ -54898,6 +55745,7 @@ window.allHeroes =
         ],
         "source": "S5 - 沙丘",
         "Release date": "2023-05-11",
+        "specialId": "disheartening_riddle",
         "star": 5,
         "power": 872,
         "attack": 834,
@@ -54918,13 +55766,13 @@ window.allHeroes =
         "costume_id": 0,
         "originalIndex": 847,
         "lb1": {
-            "power": 931,
+            "power": 930,
             "attack": 899,
             "defense": 879,
             "health": 1751
         },
         "lb2": {
-            "power": 1047,
+            "power": 1046,
             "attack": 1028,
             "defense": 1005,
             "health": 2004
@@ -54963,6 +55811,7 @@ window.allHeroes =
         ],
         "source": "S5 - 沙丘",
         "Release date": "2025-07-10",
+        "specialId": "dreadful_riddle",
         "star": 5,
         "power": 1220,
         "attack": 1209,
@@ -55033,6 +55882,7 @@ window.allHeroes =
         ],
         "source": "聖約召喚",
         "Release date": "2024-10-07",
+        "specialId": "swift_little_friends",
         "star": 5,
         "power": 1142,
         "attack": 1194,
@@ -55053,13 +55903,13 @@ window.allHeroes =
         "costume_id": 0,
         "originalIndex": 849,
         "lb1": {
-            "power": 1222,
+            "power": 1221,
             "attack": 1287,
             "defense": 1192,
             "health": 2233
         },
         "lb2": {
-            "power": 1380,
+            "power": 1379,
             "attack": 1473,
             "defense": 1363,
             "health": 2555
@@ -55108,6 +55958,7 @@ window.allHeroes =
         ],
         "source": "野地召喚",
         "Release date": "2024-09-20",
+        "specialId": "disquieting_tune",
         "star": 5,
         "power": 1139,
         "attack": 1126,
@@ -55175,6 +56026,7 @@ window.allHeroes =
         ],
         "source": "聖約召喚",
         "Release date": "2023-10-12",
+        "specialId": "rod_of_torment",
         "star": 5,
         "power": 965,
         "attack": 1007,
@@ -55241,6 +56093,7 @@ window.allHeroes =
         ],
         "source": "傳奇召喚 - 月英",
         "Release date": "2017-11-01",
+        "specialId": "soul_cage",
         "star": 5,
         "power": 765,
         "attack": 731,
@@ -55257,13 +56110,13 @@ window.allHeroes =
         "costume_id": 0,
         "originalIndex": 852,
         "lb1": {
-            "power": 816,
+            "power": 815,
             "attack": 788,
             "defense": 748,
             "health": 1467
         },
         "lb2": {
-            "power": 915,
+            "power": 914,
             "attack": 901,
             "defense": 855,
             "health": 1678
@@ -55299,6 +56152,7 @@ window.allHeroes =
         ],
         "source": "傳奇召喚 - 月英",
         "Release date": "2024-01-11",
+        "specialId": "undying_summon",
         "star": 5,
         "power": 973,
         "attack": 911,
@@ -55317,7 +56171,7 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 853,
         "lb1": {
-            "power": 1040,
+            "power": 1039,
             "attack": 983,
             "defense": 961,
             "health": 2156
@@ -55366,6 +56220,7 @@ window.allHeroes =
         ],
         "source": "S7 - 火焰與冰霜的寶藏",
         "Release date": "2025-05-16",
+        "specialId": "glacial_atmosphere",
         "star": 5,
         "power": 1201,
         "attack": 1227,
@@ -55387,13 +56242,13 @@ window.allHeroes =
         "costume_id": 0,
         "originalIndex": 854,
         "lb1": {
-            "power": 1286,
+            "power": 1285,
             "attack": 1323,
             "defense": 1240,
             "health": 2504
         },
         "lb2": {
-            "power": 1453,
+            "power": 1452,
             "attack": 1513,
             "defense": 1419,
             "health": 2865
@@ -55440,6 +56295,7 @@ window.allHeroes =
         ],
         "source": "高塔 - 忍者",
         "Release date": "2024-08-27",
+        "specialId": "hunt_for_prey",
         "star": 5,
         "power": 1095,
         "attack": 1233,
@@ -55511,6 +56367,7 @@ window.allHeroes =
         ],
         "source": "傳奇召喚 - 月英",
         "Release date": "2023-04-01",
+        "specialId": "marked_aim",
         "star": 5,
         "power": 822,
         "attack": 846,
@@ -55536,7 +56393,7 @@ window.allHeroes =
             "health": 1514
         },
         "lb2": {
-            "power": 986,
+            "power": 985,
             "attack": 1043,
             "defense": 904,
             "health": 1732
@@ -55575,6 +56432,7 @@ window.allHeroes =
         ],
         "source": "挑戰節 I",
         "Release date": "2023-10-05",
+        "specialId": "dum_and_dee",
         "star": 5,
         "power": 945,
         "attack": 962,
@@ -55595,7 +56453,7 @@ window.allHeroes =
         "costume_id": 0,
         "originalIndex": 857,
         "lb1": {
-            "power": 1010,
+            "power": 1009,
             "attack": 1036,
             "defense": 1021,
             "health": 1687
@@ -55645,6 +56503,7 @@ window.allHeroes =
         ],
         "source": "S6 - 深淵謎團",
         "Release date": "2023-08-02",
+        "specialId": "sinister_enlace",
         "star": 5,
         "power": 951,
         "attack": 986,
@@ -55677,7 +56536,7 @@ window.allHeroes =
             "health": 1798
         },
         "lb2": {
-            "power": 1145,
+            "power": 1144,
             "attack": 1216,
             "defense": 1094,
             "health": 2057
@@ -55722,6 +56581,7 @@ window.allHeroes =
         ],
         "source": "S6 - 深淵謎團",
         "Release date": "2025-05-28",
+        "specialId": "sinister_siphon",
         "star": 5,
         "power": 1184,
         "attack": 1286,
@@ -55749,7 +56609,7 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 859,
         "lb1": {
-            "power": 1267,
+            "power": 1266,
             "attack": 1386,
             "defense": 1201,
             "health": 2289
@@ -55798,6 +56658,7 @@ window.allHeroes =
         ],
         "source": "挑戰 - 眾神狂歡節",
         "Release date": "2023-11-02",
+        "specialId": "spreading_shadow",
         "star": 5,
         "power": 951,
         "attack": 918,
@@ -55823,7 +56684,7 @@ window.allHeroes =
             "health": 1944
         },
         "lb2": {
-            "power": 1145,
+            "power": 1144,
             "attack": 1132,
             "defense": 1115,
             "health": 2225
@@ -55862,6 +56723,7 @@ window.allHeroes =
         ],
         "source": "高塔 - 忍者",
         "Release date": "2024-10-22",
+        "specialId": "noxious_blossom",
         "star": 5,
         "power": 1108,
         "attack": 1219,
@@ -55890,7 +56752,7 @@ window.allHeroes =
         "costume_id": 0,
         "originalIndex": 861,
         "lb1": {
-            "power": 1185,
+            "power": 1184,
             "attack": 1314,
             "defense": 1232,
             "health": 1820
@@ -55940,6 +56802,7 @@ window.allHeroes =
         ],
         "source": "S2 - 亞特蘭蒂斯",
         "Release date": "2019-02-01",
+        "specialId": "depth_blast",
         "star": 5,
         "power": 775,
         "attack": 760,
@@ -55957,13 +56820,13 @@ window.allHeroes =
         "costume_id": 0,
         "originalIndex": 862,
         "lb1": {
-            "power": 826,
+            "power": 825,
             "attack": 819,
             "defense": 788,
             "health": 1383
         },
         "lb2": {
-            "power": 927,
+            "power": 926,
             "attack": 937,
             "defense": 901,
             "health": 1582
@@ -56008,6 +56871,7 @@ window.allHeroes =
         ],
         "source": "S2 - 亞特蘭蒂斯",
         "Release date": "2021-11-15",
+        "specialId": "reef_blast",
         "star": 5,
         "power": 946,
         "attack": 936,
@@ -56025,7 +56889,7 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 863,
         "lb1": {
-            "power": 1011,
+            "power": 1010,
             "attack": 1010,
             "defense": 995,
             "health": 1812
@@ -56079,6 +56943,7 @@ window.allHeroes =
         ],
         "source": "傳奇召喚 - 月英",
         "Release date": "2023-10-01",
+        "specialId": "venomous_claws",
         "star": 5,
         "power": 883,
         "attack": 929,
@@ -56104,7 +56969,7 @@ window.allHeroes =
             "health": 1736
         },
         "lb2": {
-            "power": 1060,
+            "power": 1059,
             "attack": 1145,
             "defense": 914,
             "health": 1986
@@ -56149,6 +57014,7 @@ window.allHeroes =
         ],
         "source": "挑戰 - 石像鬼",
         "Release date": "2024-05-16",
+        "specialId": "chain_blasm_strike",
         "star": 5,
         "power": 1049,
         "attack": 1077,
@@ -56167,7 +57033,7 @@ window.allHeroes =
         "costume_id": 0,
         "originalIndex": 865,
         "lb1": {
-            "power": 1122,
+            "power": 1121,
             "attack": 1161,
             "defense": 1143,
             "health": 1931
@@ -56218,6 +57084,7 @@ window.allHeroes =
         ],
         "source": "超級元素",
         "Release date": "2024-08-07",
+        "specialId": "gloom_grenades",
         "star": 5,
         "power": 1082,
         "attack": 1114,
@@ -56241,13 +57108,13 @@ window.allHeroes =
         "costume_id": 0,
         "originalIndex": 866,
         "lb1": {
-            "power": 1157,
+            "power": 1156,
             "attack": 1201,
             "defense": 1185,
             "health": 1998
         },
         "lb2": {
-            "power": 1306,
+            "power": 1305,
             "attack": 1374,
             "defense": 1356,
             "health": 2286
@@ -56285,6 +57152,7 @@ window.allHeroes =
         ],
         "source": "星界召喚",
         "Release date": "2025-01-30",
+        "specialId": "power_of_the_void",
         "star": 5,
         "power": 1163,
         "attack": 1205,
@@ -56311,7 +57179,7 @@ window.allHeroes =
             "health": 2097
         },
         "lb2": {
-            "power": 1406,
+            "power": 1405,
             "attack": 1485,
             "defense": 1518,
             "health": 2400
@@ -56354,6 +57222,7 @@ window.allHeroes =
         ],
         "source": "月活動 - 莫洛維亞",
         "Release date": "2018-10-25",
+        "specialId": "kings_blood_poisoning",
         "star": 5,
         "power": 773,
         "attack": 778,
@@ -56426,8 +57295,9 @@ window.allHeroes =
         ],
         "source": "月活動 - 莫洛維亞",
         "Release date": "2021-10-04",
+        "specialId": "legacy_of_darkness",
         "star": 5,
-        "power": 918,
+        "power": 1001,
         "attack": 1040,
         "defense": 928,
         "health": 1808,
@@ -56443,13 +57313,13 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 869,
         "lb1": {
-            "power": 1070,
+            "power": 1069,
             "attack": 1120,
             "defense": 1000,
             "health": 1948
         },
         "lb2": {
-            "power": 1206,
+            "power": 1205,
             "attack": 1281,
             "defense": 1144,
             "health": 2228
@@ -56490,6 +57360,7 @@ window.allHeroes =
         ],
         "source": "哥布林召喚",
         "Release date": "2024-06-10",
+        "specialId": "lucky_coin",
         "star": 5,
         "power": 1093,
         "attack": 1147,
@@ -56516,7 +57387,7 @@ window.allHeroes =
             "health": 2006
         },
         "lb2": {
-            "power": 1320,
+            "power": 1319,
             "attack": 1414,
             "defense": 1351,
             "health": 2296
@@ -56565,6 +57436,7 @@ window.allHeroes =
         ],
         "source": "傳奇召喚 - 月英",
         "Release date": "2022-01-01",
+        "specialId": "cursed_garden",
         "star": 5,
         "power": 803,
         "attack": 731,
@@ -56587,7 +57459,7 @@ window.allHeroes =
         "costume_id": 0,
         "originalIndex": 871,
         "lb1": {
-            "power": 856,
+            "power": 855,
             "attack": 788,
             "defense": 872,
             "health": 1507
@@ -56633,11 +57505,12 @@ window.allHeroes =
         ],
         "source": "月活動 - 斯普林維爾",
         "Release date": "2025-03-31",
+        "specialId": "insurmountable_flux",
         "star": 5,
-        "power": 1169,
-        "attack": 1200,
-        "defense": 1149,
-        "health": 2165,
+        "power": 1172,
+        "attack": 1203,
+        "defense": 1151,
+        "health": 2171,
         "effects": [
             "隨機重新排列敵人位置。",
             "對所有敵人造成 340% 傷害。",
@@ -56696,6 +57569,7 @@ window.allHeroes =
         ],
         "source": "星界召喚",
         "Release date": "2024-04-22",
+        "specialId": "paragon_of_constellations",
         "star": 5,
         "power": 1041,
         "attack": 1003,
@@ -56722,7 +57596,7 @@ window.allHeroes =
             "health": 1955
         },
         "lb2": {
-            "power": 1256,
+            "power": 1255,
             "attack": 1236,
             "defense": 1374,
             "health": 2237
@@ -56766,6 +57640,7 @@ window.allHeroes =
         ],
         "source": "挑戰 - 歌劇秘辛",
         "Release date": "2024-08-22",
+        "specialId": "ballad_of_pain",
         "star": 5,
         "power": 1092,
         "attack": 1174,
@@ -56838,6 +57713,7 @@ window.allHeroes =
         ],
         "source": "三國召喚",
         "Release date": "2024-02-06",
+        "specialId": "wrathful_sting",
         "star": 5,
         "power": 999,
         "attack": 1025,
@@ -56863,7 +57739,7 @@ window.allHeroes =
             "health": 1864
         },
         "lb2": {
-            "power": 1203,
+            "power": 1202,
             "attack": 1264,
             "defense": 1203,
             "health": 2133
@@ -56913,6 +57789,7 @@ window.allHeroes =
         ],
         "source": "三國召喚",
         "Release date": "2023-04-24",
+        "specialId": "fury_of_the_mountain_lord",
         "star": 5,
         "power": 874,
         "attack": 766,
@@ -56936,7 +57813,7 @@ window.allHeroes =
             "health": 1747
         },
         "lb2": {
-            "power": 1049,
+            "power": 1048,
             "attack": 944,
             "defense": 1120,
             "health": 1998
@@ -56983,6 +57860,7 @@ window.allHeroes =
         ],
         "source": "S4 - 地底荒野",
         "Release date": "2021-09-09",
+        "specialId": "ancient_enchantment",
         "star": 5,
         "power": 809,
         "attack": 768,
@@ -57053,6 +57931,7 @@ window.allHeroes =
         ],
         "source": "S4 - 地底荒野",
         "Release date": "2023-11-09",
+        "specialId": "entrapping_enchantment",
         "star": 5,
         "power": 1024,
         "attack": 998,
@@ -57122,6 +58001,7 @@ window.allHeroes =
         ],
         "source": "野地召喚",
         "Release date": "2024-11-05",
+        "specialId": "lash_of_the_whip",
         "star": 5,
         "power": 1146,
         "attack": 1176,
@@ -57148,7 +58028,7 @@ window.allHeroes =
             "health": 2308
         },
         "lb2": {
-            "power": 1384,
+            "power": 1383,
             "attack": 1450,
             "defense": 1363,
             "health": 2641
@@ -57192,6 +58072,7 @@ window.allHeroes =
         ],
         "source": "傳奇召喚 - 月英",
         "Release date": "2025-01-01",
+        "specialId": "lance_thrust",
         "star": 5,
         "power": 1052,
         "attack": 1155,
@@ -57212,13 +58093,13 @@ window.allHeroes =
         "costume_id": 0,
         "originalIndex": 880,
         "lb1": {
-            "power": 1124,
+            "power": 1123,
             "attack": 1245,
             "defense": 1116,
             "health": 1791
         },
         "lb2": {
-            "power": 1268,
+            "power": 1267,
             "attack": 1424,
             "defense": 1277,
             "health": 2049
@@ -57261,6 +58142,7 @@ window.allHeroes =
         ],
         "source": "傳奇召喚 - 月英",
         "Release date": "2020-10-01",
+        "specialId": "vast_ward",
         "star": 5,
         "power": 778,
         "attack": 669,
@@ -57280,7 +58162,7 @@ window.allHeroes =
         "costume_id": 0,
         "originalIndex": 881,
         "lb1": {
-            "power": 830,
+            "power": 829,
             "attack": 721,
             "defense": 843,
             "health": 1545
@@ -57321,6 +58203,7 @@ window.allHeroes =
         ],
         "source": "S1 - 經典",
         "Release date": "2017-03-01",
+        "specialId": "field_aid",
         "star": 1,
         "power": 213,
         "attack": 168,
@@ -57352,6 +58235,7 @@ window.allHeroes =
         ],
         "source": "S1 - 經典",
         "Release date": "2017-03-01",
+        "specialId": "backstab",
         "star": 1,
         "power": 210,
         "attack": 208,
@@ -57383,6 +58267,7 @@ window.allHeroes =
         ],
         "source": "S1 - 經典",
         "Release date": "2017-03-01",
+        "specialId": "fierce_slash",
         "star": 2,
         "power": 337,
         "attack": 350,
@@ -57414,6 +58299,7 @@ window.allHeroes =
         ],
         "source": "S1 - 經典",
         "Release date": "2017-03-01",
+        "specialId": "attack_rally",
         "star": 2,
         "power": 332,
         "attack": 320,
@@ -57445,6 +58331,7 @@ window.allHeroes =
         ],
         "source": "S1 - 經典",
         "Release date": "2017-03-01",
+        "specialId": "attack_rally",
         "star": 2,
         "power": 334,
         "attack": 356,
@@ -57476,6 +58363,7 @@ window.allHeroes =
         ],
         "source": "S1 - 經典",
         "Release date": "2017-03-01",
+        "specialId": "tackle",
         "star": 2,
         "power": 336,
         "attack": 312,
@@ -57509,6 +58397,7 @@ window.allHeroes =
         ],
         "source": "S1 - 經典",
         "Release date": "2017-03-01",
+        "specialId": "sharp_cut",
         "star": 3,
         "power": 444,
         "attack": 493,
@@ -57530,7 +58419,7 @@ window.allHeroes =
             "health": 738
         },
         "lb2": {
-            "power": 597,
+            "power": 596,
             "attack": 691,
             "defense": 579,
             "health": 912
@@ -57566,6 +58455,7 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2020-05-18",
+        "specialId": "acute_cut",
         "star": 3,
         "power": 473,
         "attack": 505,
@@ -57581,13 +58471,13 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 889,
         "lb1": {
-            "power": 529,
+            "power": 528,
             "attack": 572,
             "defense": 524,
             "health": 834
         },
         "lb2": {
-            "power": 639,
+            "power": 638,
             "attack": 708,
             "defense": 648,
             "health": 1031
@@ -57624,6 +58514,7 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2024-03-11",
+        "specialId": "toon_cut",
         "star": 3,
         "power": 506,
         "attack": 586,
@@ -57642,13 +58533,13 @@ window.allHeroes =
         "costume_id": 2,
         "originalIndex": 890,
         "lb1": {
-            "power": 566,
+            "power": 565,
             "attack": 665,
             "defense": 520,
             "health": 873
         },
         "lb2": {
-            "power": 684,
+            "power": 683,
             "attack": 822,
             "defense": 642,
             "health": 1080
@@ -57687,6 +58578,7 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2025-04-23",
+        "specialId": "glass_cut",
         "star": 3,
         "power": 514,
         "attack": 601,
@@ -57748,6 +58640,7 @@ window.allHeroes =
         ],
         "source": "S6 - 深淵謎團",
         "Release date": "2023-06-07",
+        "specialId": "burning_javelin",
         "star": 3,
         "power": 486,
         "attack": 571,
@@ -57772,13 +58665,13 @@ window.allHeroes =
         "costume_id": 0,
         "originalIndex": 892,
         "lb1": {
-            "power": 544,
+            "power": 543,
             "attack": 648,
             "defense": 457,
             "health": 884
         },
         "lb2": {
-            "power": 656,
+            "power": 655,
             "attack": 800,
             "defense": 564,
             "health": 1092
@@ -57814,6 +58707,7 @@ window.allHeroes =
         ],
         "source": "S6 - 深淵謎團",
         "Release date": "2025-04-29",
+        "specialId": "scouts_spyglass",
         "star": 3,
         "power": 498,
         "attack": 512,
@@ -57845,7 +58739,7 @@ window.allHeroes =
             "health": 931
         },
         "lb2": {
-            "power": 672,
+            "power": 671,
             "attack": 717,
             "defense": 696,
             "health": 1151
@@ -57883,6 +58777,7 @@ window.allHeroes =
         ],
         "source": "怪獸島召喚",
         "Release date": "2022-12-24",
+        "specialId": "squeak_of_protection",
         "star": 3,
         "power": 486,
         "attack": 460,
@@ -57902,7 +58797,7 @@ window.allHeroes =
         "costume_id": 0,
         "originalIndex": 894,
         "lb1": {
-            "power": 543,
+            "power": 542,
             "attack": 522,
             "defense": 610,
             "health": 886
@@ -57943,6 +58838,7 @@ window.allHeroes =
         ],
         "source": "挑戰節 I",
         "Release date": "2019-09-12",
+        "specialId": "claw_power",
         "star": 3,
         "power": 455,
         "attack": 420,
@@ -57965,7 +58861,7 @@ window.allHeroes =
             "health": 941
         },
         "lb2": {
-            "power": 612,
+            "power": 611,
             "attack": 589,
             "defense": 635,
             "health": 1163
@@ -58008,6 +58904,7 @@ window.allHeroes =
         ],
         "source": "哥布林召喚",
         "Release date": "2023-09-18",
+        "specialId": "hammer_thump",
         "star": 3,
         "power": 486,
         "attack": 455,
@@ -58034,7 +58931,7 @@ window.allHeroes =
             "health": 1087
         },
         "lb2": {
-            "power": 656,
+            "power": 655,
             "attack": 637,
             "defense": 642,
             "health": 1343
@@ -58079,6 +58976,7 @@ window.allHeroes =
         ],
         "source": "月活動 - 冬季",
         "Release date": "2022-12-01",
+        "specialId": "frosty_punches",
         "star": 3,
         "power": 484,
         "attack": 509,
@@ -58142,6 +59040,7 @@ window.allHeroes =
         ],
         "source": "高塔 - 冥河",
         "Release date": "2022-09-21",
+        "specialId": "dantes_inferno",
         "star": 3,
         "power": 484,
         "attack": 537,
@@ -58176,7 +59075,7 @@ window.allHeroes =
             "health": 803
         },
         "lb2": {
-            "power": 653,
+            "power": 652,
             "attack": 752,
             "defense": 662,
             "health": 993
@@ -58218,6 +59117,7 @@ window.allHeroes =
         ],
         "source": "S3 - 瓦爾哈拉",
         "Release date": "2020-02-27",
+        "specialId": "tainted_axe",
         "star": 3,
         "power": 466,
         "attack": 422,
@@ -58275,6 +59175,7 @@ window.allHeroes =
         ],
         "source": "S3 - 瓦爾哈拉",
         "Release date": "2023-02-13",
+        "specialId": "vicious_axe",
         "star": 3,
         "power": 481,
         "attack": 502,
@@ -58296,7 +59197,7 @@ window.allHeroes =
             "health": 1008
         },
         "lb2": {
-            "power": 649,
+            "power": 648,
             "attack": 703,
             "defense": 584,
             "health": 1245
@@ -58333,6 +59234,7 @@ window.allHeroes =
         ],
         "source": "聯盟 - 騎士衝擊",
         "Release date": "2023-10-18",
+        "specialId": "evading_dash",
         "star": 3,
         "power": 489,
         "attack": 457,
@@ -58350,7 +59252,7 @@ window.allHeroes =
         "costume_id": 0,
         "originalIndex": 901,
         "lb1": {
-            "power": 547,
+            "power": 546,
             "attack": 518,
             "defense": 522,
             "health": 1101
@@ -58391,6 +59293,7 @@ window.allHeroes =
         ],
         "source": "S1 - 經典",
         "Release date": "2017-03-01",
+        "specialId": "wind_prayer",
         "star": 3,
         "power": 444,
         "attack": 474,
@@ -58405,7 +59308,7 @@ window.allHeroes =
         "costume_id": 0,
         "originalIndex": 902,
         "lb1": {
-            "power": 496,
+            "power": 495,
             "attack": 537,
             "defense": 506,
             "health": 722
@@ -58442,6 +59345,7 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2020-01-01",
+        "specialId": "wind_gospel",
         "star": 3,
         "power": 474,
         "attack": 501,
@@ -58457,7 +59361,7 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 903,
         "lb1": {
-            "power": 530,
+            "power": 529,
             "attack": 568,
             "defense": 545,
             "health": 808
@@ -58499,6 +59403,7 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2024-05-06",
+        "specialId": "adorable_wind_prayer",
         "star": 3,
         "power": 507,
         "attack": 545,
@@ -58516,7 +59421,7 @@ window.allHeroes =
         "costume_id": 2,
         "originalIndex": 904,
         "lb1": {
-            "power": 567,
+            "power": 566,
             "attack": 617,
             "defense": 588,
             "health": 866
@@ -58558,6 +59463,7 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2025-07-16",
+        "specialId": "glass_prayer",
         "star": 3,
         "power": 517,
         "attack": 585,
@@ -58575,7 +59481,7 @@ window.allHeroes =
         "costume_id": 3,
         "originalIndex": 905,
         "lb1": {
-            "power": 578,
+            "power": 577,
             "attack": 663,
             "defense": 587,
             "health": 830
@@ -58621,6 +59527,7 @@ window.allHeroes =
         ],
         "source": "S7 - 火焰與冰霜的寶藏",
         "Release date": "2024-12-03",
+        "specialId": "dwarven_flourish",
         "star": 3,
         "power": 499,
         "attack": 545,
@@ -58648,7 +59555,7 @@ window.allHeroes =
             "health": 760
         },
         "lb2": {
-            "power": 674,
+            "power": 673,
             "attack": 764,
             "defense": 749,
             "health": 939
@@ -58684,6 +59591,7 @@ window.allHeroes =
         ],
         "source": "S1 - 經典",
         "Release date": "2017-03-01",
+        "specialId": "fireball",
         "star": 3,
         "power": 445,
         "attack": 498,
@@ -58705,7 +59613,7 @@ window.allHeroes =
             "health": 679
         },
         "lb2": {
-            "power": 598,
+            "power": 597,
             "attack": 698,
             "defense": 610,
             "health": 839
@@ -58742,6 +59650,7 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2021-01-18",
+        "specialId": "comet",
         "star": 3,
         "power": 473,
         "attack": 524,
@@ -58801,6 +59710,7 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2023-12-25",
+        "specialId": "toonball",
         "star": 3,
         "power": 506,
         "attack": 555,
@@ -58819,7 +59729,7 @@ window.allHeroes =
         "costume_id": 2,
         "originalIndex": 909,
         "lb1": {
-            "power": 566,
+            "power": 565,
             "attack": 629,
             "defense": 545,
             "health": 914
@@ -58868,6 +59778,7 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2024-12-25",
+        "specialId": "glass_fireball",
         "star": 3,
         "power": 514,
         "attack": 566,
@@ -58935,6 +59846,7 @@ window.allHeroes =
         ],
         "source": "高塔 - 魔法",
         "Release date": "2021-09-15",
+        "specialId": "imaginary_increments",
         "star": 3,
         "power": 479,
         "attack": 472,
@@ -58998,6 +59910,7 @@ window.allHeroes =
         ],
         "source": "三國召喚",
         "Release date": "2022-03-14",
+        "specialId": "sickle_of_wu",
         "star": 3,
         "power": 483,
         "attack": 481,
@@ -59014,7 +59927,7 @@ window.allHeroes =
         "costume_id": 0,
         "originalIndex": 912,
         "lb1": {
-            "power": 539,
+            "power": 538,
             "attack": 545,
             "defense": 551,
             "health": 921
@@ -59064,6 +59977,7 @@ window.allHeroes =
         ],
         "source": "三國召喚",
         "Release date": "2025-05-22",
+        "specialId": "rough_and_tumble",
         "star": 3,
         "power": 507,
         "attack": 497,
@@ -59087,13 +60001,13 @@ window.allHeroes =
         "costume_id": 0,
         "originalIndex": 913,
         "lb1": {
-            "power": 567,
+            "power": 566,
             "attack": 563,
             "defense": 634,
             "health": 908
         },
         "lb2": {
-            "power": 685,
+            "power": 684,
             "attack": 696,
             "defense": 783,
             "health": 1122
@@ -59130,6 +60044,7 @@ window.allHeroes =
         ],
         "source": "S2 - 亞特蘭蒂斯",
         "Release date": "2019-08-01",
+        "specialId": "bloodthirst",
         "star": 3,
         "power": 449,
         "attack": 526,
@@ -59187,6 +60102,7 @@ window.allHeroes =
         ],
         "source": "S1 - 經典",
         "Release date": "2017-03-01",
+        "specialId": "burning_strike",
         "star": 3,
         "power": 443,
         "attack": 514,
@@ -59202,13 +60118,13 @@ window.allHeroes =
         "costume_id": 0,
         "originalIndex": 915,
         "lb1": {
-            "power": 494,
+            "power": 493,
             "attack": 583,
             "defense": 415,
             "health": 776
         },
         "lb2": {
-            "power": 595,
+            "power": 594,
             "attack": 720,
             "defense": 513,
             "health": 958
@@ -59245,6 +60161,7 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2021-01-18",
+        "specialId": "searing_strike",
         "star": 3,
         "power": 472,
         "attack": 577,
@@ -59304,6 +60221,7 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2024-05-31",
+        "specialId": "adorable_burning_strike",
         "star": 3,
         "power": 505,
         "attack": 623,
@@ -59322,7 +60240,7 @@ window.allHeroes =
         "costume_id": 2,
         "originalIndex": 917,
         "lb1": {
-            "power": 564,
+            "power": 563,
             "attack": 706,
             "defense": 458,
             "health": 883
@@ -59370,6 +60288,7 @@ window.allHeroes =
         ],
         "source": "挑戰節 I",
         "Release date": "2021-12-15",
+        "specialId": "valuable_contribution",
         "star": 3,
         "power": 481,
         "attack": 446,
@@ -59385,13 +60304,13 @@ window.allHeroes =
         "costume_id": 0,
         "originalIndex": 918,
         "lb1": {
-            "power": 537,
+            "power": 536,
             "attack": 506,
             "defense": 591,
             "health": 923
         },
         "lb2": {
-            "power": 648,
+            "power": 647,
             "attack": 625,
             "defense": 730,
             "health": 1141
@@ -59426,6 +60345,7 @@ window.allHeroes =
         ],
         "source": "聯盟 - 飛蛾",
         "Release date": "2025-01-23",
+        "specialId": "joyful_palette",
         "star": 3,
         "power": 503,
         "attack": 512,
@@ -59449,7 +60369,7 @@ window.allHeroes =
             "health": 876
         },
         "lb2": {
-            "power": 680,
+            "power": 679,
             "attack": 718,
             "defense": 756,
             "health": 1083
@@ -59493,6 +60413,7 @@ window.allHeroes =
         ],
         "source": "月活動 - 冬季",
         "Release date": "2018-12-02",
+        "specialId": "horn_attack",
         "star": 3,
         "power": 448,
         "attack": 540,
@@ -59509,13 +60430,13 @@ window.allHeroes =
         "costume_id": 0,
         "originalIndex": 920,
         "lb1": {
-            "power": 500,
+            "power": 499,
             "attack": 612,
             "defense": 443,
             "health": 689
         },
         "lb2": {
-            "power": 602,
+            "power": 601,
             "attack": 756,
             "defense": 547,
             "health": 851
@@ -59554,6 +60475,7 @@ window.allHeroes =
         ],
         "source": "挑戰節 II",
         "Release date": "2022-11-03",
+        "specialId": "furry_loggers_swing",
         "star": 3,
         "power": 484,
         "attack": 502,
@@ -59573,13 +60495,13 @@ window.allHeroes =
         "costume_id": 0,
         "originalIndex": 921,
         "lb1": {
-            "power": 541,
+            "power": 540,
             "attack": 569,
             "defense": 529,
             "health": 916
         },
         "lb2": {
-            "power": 653,
+            "power": 652,
             "attack": 703,
             "defense": 654,
             "health": 1131
@@ -59617,6 +60539,7 @@ window.allHeroes =
         ],
         "source": "挑戰節 II",
         "Release date": "2021-02-11",
+        "specialId": "mad_rat_mania",
         "star": 3,
         "power": 476,
         "attack": 493,
@@ -59638,7 +60561,7 @@ window.allHeroes =
             "health": 864
         },
         "lb2": {
-            "power": 642,
+            "power": 641,
             "attack": 691,
             "defense": 662,
             "health": 1068
@@ -59673,6 +60596,7 @@ window.allHeroes =
         ],
         "source": "月活動 - 斯普林維爾",
         "Release date": "2018-03-28",
+        "specialId": "compact_lance",
         "star": 3,
         "power": 445,
         "attack": 538,
@@ -59694,7 +60618,7 @@ window.allHeroes =
             "health": 689
         },
         "lb2": {
-            "power": 598,
+            "power": 597,
             "attack": 754,
             "defense": 535,
             "health": 851
@@ -59731,6 +60655,7 @@ window.allHeroes =
         ],
         "source": "星界召喚",
         "Release date": "2024-03-07",
+        "specialId": "starplay",
         "star": 3,
         "power": 489,
         "attack": 519,
@@ -59750,7 +60675,7 @@ window.allHeroes =
         "costume_id": 0,
         "originalIndex": 924,
         "lb1": {
-            "power": 547,
+            "power": 546,
             "attack": 589,
             "defense": 541,
             "health": 888
@@ -59796,6 +60721,7 @@ window.allHeroes =
         ],
         "source": "S3 - 瓦爾哈拉",
         "Release date": "2020-05-28",
+        "specialId": "burning_shields",
         "star": 3,
         "power": 462,
         "attack": 439,
@@ -59811,7 +60737,7 @@ window.allHeroes =
         "costume_id": 0,
         "originalIndex": 925,
         "lb1": {
-            "power": 516,
+            "power": 515,
             "attack": 498,
             "defense": 549,
             "health": 878
@@ -59852,6 +60778,7 @@ window.allHeroes =
         ],
         "source": "S4 - 地底荒野",
         "Release date": "2021-03-25",
+        "specialId": "thresher_worms",
         "star": 3,
         "power": 478,
         "attack": 476,
@@ -59905,6 +60832,7 @@ window.allHeroes =
         ],
         "source": "S4 - 地底荒野",
         "Release date": "2024-04-25",
+        "specialId": "leeching_worms",
         "star": 3,
         "power": 488,
         "attack": 485,
@@ -59922,7 +60850,7 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 927,
         "lb1": {
-            "power": 545,
+            "power": 544,
             "attack": 549,
             "defense": 584,
             "health": 887
@@ -59959,6 +60887,7 @@ window.allHeroes =
         ],
         "source": "S5 - 沙丘",
         "Release date": "2022-04-21",
+        "specialId": "unyielding_protector",
         "star": 3,
         "power": 483,
         "attack": 535,
@@ -59984,7 +60913,7 @@ window.allHeroes =
             "health": 803
         },
         "lb2": {
-            "power": 652,
+            "power": 651,
             "attack": 749,
             "defense": 662,
             "health": 993
@@ -60020,6 +60949,7 @@ window.allHeroes =
         ],
         "source": "S5 - 沙丘",
         "Release date": "2025-04-14",
+        "specialId": "unyielding_sword",
         "star": 3,
         "power": 494,
         "attack": 575,
@@ -60041,13 +60971,13 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 929,
         "lb1": {
-            "power": 552,
+            "power": 551,
             "attack": 652,
             "defense": 505,
             "health": 835
         },
         "lb2": {
-            "power": 667,
+            "power": 666,
             "attack": 806,
             "defense": 625,
             "health": 1032
@@ -60089,6 +61019,7 @@ window.allHeroes =
         ],
         "source": "挑戰節 II",
         "Release date": "2021-08-05",
+        "specialId": "wily_wisps",
         "star": 4,
         "power": 677,
         "attack": 626,
@@ -60109,7 +61040,7 @@ window.allHeroes =
         "costume_id": 0,
         "originalIndex": 930,
         "lb1": {
-            "power": 729,
+            "power": 728,
             "attack": 681,
             "defense": 743,
             "health": 1410
@@ -60157,6 +61088,7 @@ window.allHeroes =
         ],
         "source": "S1 - 經典",
         "Release date": "2017-03-01",
+        "specialId": "warcry",
         "star": 4,
         "power": 644,
         "attack": 588,
@@ -60214,6 +61146,7 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2020-01-01",
+        "specialId": "war_feast",
         "star": 4,
         "power": 690,
         "attack": 633,
@@ -60229,13 +61162,13 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 932,
         "lb1": {
-            "power": 743,
+            "power": 742,
             "attack": 689,
             "defense": 814,
             "health": 1349
         },
         "lb2": {
-            "power": 848,
+            "power": 847,
             "attack": 798,
             "defense": 944,
             "health": 1565
@@ -60272,6 +61205,7 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2023-06-12",
+        "specialId": "war_song",
         "star": 4,
         "power": 736,
         "attack": 688,
@@ -60287,13 +61221,13 @@ window.allHeroes =
         "costume_id": 2,
         "originalIndex": 933,
         "lb1": {
-            "power": 793,
+            "power": 792,
             "attack": 748,
             "defense": 902,
             "health": 1382
         },
         "lb2": {
-            "power": 906,
+            "power": 905,
             "attack": 867,
             "defense": 1046,
             "health": 1602
@@ -60330,6 +61264,7 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2023-12-25",
+        "specialId": "tooncry",
         "star": 4,
         "power": 748,
         "attack": 698,
@@ -60392,6 +61327,7 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2024-12-25",
+        "specialId": "glass_warcry",
         "star": 4,
         "power": 761,
         "attack": 708,
@@ -60455,6 +61391,7 @@ window.allHeroes =
         ],
         "source": "月活動 - 冬季",
         "Release date": "2020-12-01",
+        "specialId": "perilous_gift",
         "star": 4,
         "power": 674,
         "attack": 624,
@@ -60515,6 +61452,7 @@ window.allHeroes =
         ],
         "source": "挑戰節 II",
         "Release date": "2021-08-05",
+        "specialId": "reanimated_spite",
         "star": 4,
         "power": 677,
         "attack": 631,
@@ -60534,13 +61472,13 @@ window.allHeroes =
         "costume_id": 0,
         "originalIndex": 937,
         "lb1": {
-            "power": 729,
+            "power": 728,
             "attack": 685,
             "defense": 741,
             "health": 1403
         },
         "lb2": {
-            "power": 832,
+            "power": 831,
             "attack": 795,
             "defense": 859,
             "health": 1627
@@ -60578,6 +61516,7 @@ window.allHeroes =
         ],
         "source": "S1 - 經典",
         "Release date": "2017-03-01",
+        "specialId": "fire_storm",
         "star": 4,
         "power": 643,
         "attack": 728,
@@ -60593,13 +61532,13 @@ window.allHeroes =
         "costume_id": 0,
         "originalIndex": 938,
         "lb1": {
-            "power": 692,
+            "power": 691,
             "attack": 791,
             "defense": 584,
             "health": 1189
         },
         "lb2": {
-            "power": 789,
+            "power": 788,
             "attack": 918,
             "defense": 677,
             "health": 1378
@@ -60636,6 +61575,7 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2021-01-18",
+        "specialId": "lavablow",
         "star": 4,
         "power": 688,
         "attack": 786,
@@ -60695,6 +61635,7 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2023-06-12",
+        "specialId": "flame_storm",
         "star": 4,
         "power": 733,
         "attack": 828,
@@ -60711,7 +61652,7 @@ window.allHeroes =
         "costume_id": 2,
         "originalIndex": 940,
         "lb1": {
-            "power": 790,
+            "power": 789,
             "attack": 899,
             "defense": 679,
             "health": 1429
@@ -60759,6 +61700,7 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2024-03-11",
+        "specialId": "toon_storm",
         "star": 4,
         "power": 746,
         "attack": 842,
@@ -60827,6 +61769,7 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2025-04-08",
+        "specialId": "vitrail_flames",
         "star": 4,
         "power": 758,
         "attack": 879,
@@ -60845,7 +61788,7 @@ window.allHeroes =
         "costume_id": 4,
         "originalIndex": 942,
         "lb1": {
-            "power": 817,
+            "power": 816,
             "attack": 955,
             "defense": 703,
             "health": 1433
@@ -60893,6 +61836,7 @@ window.allHeroes =
         ],
         "source": "挑戰節 II",
         "Release date": "2021-06-10",
+        "specialId": "pompous_flex",
         "star": 4,
         "power": 676,
         "attack": 637,
@@ -60914,7 +61858,7 @@ window.allHeroes =
             "health": 1431
         },
         "lb2": {
-            "power": 830,
+            "power": 829,
             "attack": 803,
             "defense": 827,
             "health": 1659
@@ -60949,6 +61893,7 @@ window.allHeroes =
         ],
         "source": "聯盟 - 騎士衝擊",
         "Release date": "2021-10-13",
+        "specialId": "feral_revenge",
         "star": 4,
         "power": 680,
         "attack": 635,
@@ -60964,13 +61909,13 @@ window.allHeroes =
         "costume_id": 0,
         "originalIndex": 944,
         "lb1": {
-            "power": 732,
+            "power": 731,
             "attack": 690,
             "defense": 646,
             "health": 1602
         },
         "lb2": {
-            "power": 835,
+            "power": 834,
             "attack": 800,
             "defense": 749,
             "health": 1857
@@ -61005,6 +61950,7 @@ window.allHeroes =
         ],
         "source": "聯盟 - 騎士衝擊",
         "Release date": "2024-12-17",
+        "specialId": "fiery_revenge",
         "star": 4,
         "power": 719,
         "attack": 664,
@@ -61030,7 +61976,7 @@ window.allHeroes =
             "health": 1760
         },
         "lb2": {
-            "power": 885,
+            "power": 884,
             "attack": 836,
             "defense": 791,
             "health": 2040
@@ -61066,6 +62012,7 @@ window.allHeroes =
         ],
         "source": "S1 - 經典",
         "Release date": "2017-03-01",
+        "specialId": "ramming_pulverizer",
         "star": 4,
         "power": 642,
         "attack": 569,
@@ -61081,7 +62028,7 @@ window.allHeroes =
         "costume_id": 0,
         "originalIndex": 946,
         "lb1": {
-            "power": 691,
+            "power": 690,
             "attack": 618,
             "defense": 614,
             "health": 1553
@@ -61124,6 +62071,7 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2021-01-18",
+        "specialId": "wallet_pulverizer",
         "star": 4,
         "power": 689,
         "attack": 622,
@@ -61183,6 +62131,7 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2023-04-17",
+        "specialId": "pulverizing_ham",
         "star": 4,
         "power": 735,
         "attack": 732,
@@ -61241,6 +62190,7 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2024-05-06",
+        "specialId": "adorable_pulverizer",
         "star": 4,
         "power": 747,
         "attack": 641,
@@ -61309,6 +62259,7 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2025-05-10",
+        "specialId": "glass_pulverizer",
         "star": 4,
         "power": 760,
         "attack": 656,
@@ -61327,7 +62278,7 @@ window.allHeroes =
         "costume_id": 4,
         "originalIndex": 950,
         "lb1": {
-            "power": 820,
+            "power": 819,
             "attack": 714,
             "defense": 818,
             "health": 1826
@@ -61374,6 +62325,7 @@ window.allHeroes =
         ],
         "source": "挑戰節 I",
         "Release date": "2017-10-05",
+        "specialId": "blazing_beak",
         "star": 4,
         "power": 646,
         "attack": 552,
@@ -61389,7 +62341,7 @@ window.allHeroes =
         "costume_id": 0,
         "originalIndex": 951,
         "lb1": {
-            "power": 696,
+            "power": 695,
             "attack": 600,
             "defense": 819,
             "health": 1223
@@ -61432,6 +62384,7 @@ window.allHeroes =
         ],
         "source": "月活動 - 海灘派對",
         "Release date": "2023-06-12",
+        "specialId": "cannonball_splash",
         "star": 4,
         "power": 686,
         "attack": 671,
@@ -61498,6 +62451,7 @@ window.allHeroes =
         ],
         "source": "S5 - 沙丘",
         "Release date": "2022-04-21",
+        "specialId": "slash_and_support",
         "star": 4,
         "power": 683,
         "attack": 748,
@@ -61555,6 +62509,7 @@ window.allHeroes =
         ],
         "source": "S5 - 沙丘",
         "Release date": "2024-11-01",
+        "specialId": "strike_and_support",
         "star": 4,
         "power": 700,
         "attack": 719,
@@ -61582,7 +62537,7 @@ window.allHeroes =
             "health": 1447
         },
         "lb2": {
-            "power": 860,
+            "power": 859,
             "attack": 905,
             "defense": 796,
             "health": 1678
@@ -61614,6 +62569,7 @@ window.allHeroes =
         ],
         "source": "S1 - 經典",
         "Release date": "2017-03-01",
+        "specialId": "dance_of_fire",
         "star": 4,
         "power": 644,
         "attack": 675,
@@ -61629,13 +62585,13 @@ window.allHeroes =
         "costume_id": 0,
         "originalIndex": 955,
         "lb1": {
-            "power": 693,
+            "power": 692,
             "attack": 734,
             "defense": 745,
             "health": 1015
         },
         "lb2": {
-            "power": 790,
+            "power": 789,
             "attack": 851,
             "defense": 864,
             "health": 1177
@@ -61670,6 +62626,7 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2021-01-18",
+        "specialId": "dance_of_ignition",
         "star": 4,
         "power": 688,
         "attack": 760,
@@ -61690,7 +62647,7 @@ window.allHeroes =
             "health": 1091
         },
         "lb2": {
-            "power": 846,
+            "power": 845,
             "attack": 958,
             "defense": 887,
             "health": 1265
@@ -61728,6 +62685,7 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2022-09-05",
+        "specialId": "dance_of_flame",
         "star": 4,
         "power": 734,
         "attack": 788,
@@ -61743,7 +62701,7 @@ window.allHeroes =
         "costume_id": 2,
         "originalIndex": 957,
         "lb1": {
-            "power": 791,
+            "power": 790,
             "attack": 856,
             "defense": 833,
             "health": 1234
@@ -61792,6 +62750,7 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2024-04-08",
+        "specialId": "dance_of_toons",
         "star": 4,
         "power": 746,
         "attack": 815,
@@ -61860,6 +62819,7 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2025-04-23",
+        "specialId": "dance_of_glass",
         "star": 4,
         "power": 758,
         "attack": 838,
@@ -61884,7 +62844,7 @@ window.allHeroes =
             "health": 1284
         },
         "lb2": {
-            "power": 934,
+            "power": 933,
             "attack": 1056,
             "defense": 967,
             "health": 1489
@@ -61926,6 +62886,7 @@ window.allHeroes =
         ],
         "source": "月活動 - 卡勒瓦拉",
         "Release date": "2022-06-20",
+        "specialId": "flaming_sword",
         "star": 4,
         "power": 682,
         "attack": 646,
@@ -61943,7 +62904,7 @@ window.allHeroes =
         "costume_id": 0,
         "originalIndex": 960,
         "lb1": {
-            "power": 734,
+            "power": 733,
             "attack": 701,
             "defense": 669,
             "health": 1544
@@ -61986,6 +62947,7 @@ window.allHeroes =
         ],
         "source": "月活動 - 卡勒瓦拉",
         "Release date": "2025-07-28",
+        "specialId": "sword_of_swan_song",
         "star": 4,
         "power": 707,
         "attack": 671,
@@ -62003,13 +62965,13 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 961,
         "lb1": {
-            "power": 761,
+            "power": 760,
             "attack": 729,
             "defense": 687,
             "health": 1632
         },
         "lb2": {
-            "power": 869,
+            "power": 868,
             "attack": 845,
             "defense": 796,
             "health": 1892
@@ -62050,6 +63012,7 @@ window.allHeroes =
         ],
         "source": "高塔 - 魔法",
         "Release date": "2023-05-03",
+        "specialId": "mageball_blast",
         "star": 4,
         "power": 686,
         "attack": 658,
@@ -62122,6 +63085,7 @@ window.allHeroes =
         ],
         "source": "S4 - 地底荒野",
         "Release date": "2021-03-25",
+        "specialId": "halflings_wit",
         "star": 4,
         "power": 677,
         "attack": 646,
@@ -62139,7 +63103,7 @@ window.allHeroes =
         "costume_id": 0,
         "originalIndex": 963,
         "lb1": {
-            "power": 729,
+            "power": 728,
             "attack": 701,
             "defense": 745,
             "health": 1355
@@ -62177,6 +63141,7 @@ window.allHeroes =
         ],
         "source": "S4 - 地底荒野",
         "Release date": "2024-05-23",
+        "specialId": "halflings_wisdom",
         "star": 4,
         "power": 692,
         "attack": 658,
@@ -62233,6 +63198,7 @@ window.allHeroes =
         ],
         "source": "怪獸島召喚",
         "Release date": "2022-08-25",
+        "specialId": "claws_of_the_hunter",
         "star": 4,
         "power": 684,
         "attack": 656,
@@ -62252,13 +63218,13 @@ window.allHeroes =
         "costume_id": 0,
         "originalIndex": 965,
         "lb1": {
-            "power": 737,
+            "power": 736,
             "attack": 713,
             "defense": 731,
             "health": 1410
         },
         "lb2": {
-            "power": 841,
+            "power": 840,
             "attack": 827,
             "defense": 848,
             "health": 1635
@@ -62297,6 +63263,7 @@ window.allHeroes =
         ],
         "source": "高塔 - 魔法",
         "Release date": "2025-04-17",
+        "specialId": "kindled_carpet",
         "star": 4,
         "power": 737,
         "attack": 754,
@@ -62319,13 +63286,13 @@ window.allHeroes =
         "costume_id": 0,
         "originalIndex": 966,
         "lb1": {
-            "power": 794,
+            "power": 793,
             "attack": 819,
             "defense": 789,
             "health": 1436
         },
         "lb2": {
-            "power": 907,
+            "power": 906,
             "attack": 950,
             "defense": 915,
             "health": 1665
@@ -62369,6 +63336,7 @@ window.allHeroes =
         ],
         "source": "超級元素",
         "Release date": "2023-10-09",
+        "specialId": "healing_fire_spirits",
         "star": 4,
         "power": 691,
         "attack": 643,
@@ -62397,7 +63365,7 @@ window.allHeroes =
             "health": 1392
         },
         "lb2": {
-            "power": 850,
+            "power": 849,
             "attack": 811,
             "defense": 910,
             "health": 1614
@@ -62443,6 +63411,7 @@ window.allHeroes =
         ],
         "source": "挑戰 - 歌劇秘辛",
         "Release date": "2023-11-30",
+        "specialId": "ballad_of_attraction",
         "star": 4,
         "power": 691,
         "attack": 750,
@@ -62466,7 +63435,7 @@ window.allHeroes =
         "costume_id": 0,
         "originalIndex": 968,
         "lb1": {
-            "power": 744,
+            "power": 743,
             "attack": 815,
             "defense": 683,
             "health": 1302
@@ -62511,6 +63480,7 @@ window.allHeroes =
         ],
         "source": "S4 - 地底荒野",
         "Release date": "2021-03-25",
+        "specialId": "blind_rage",
         "star": 4,
         "power": 677,
         "attack": 707,
@@ -62572,6 +63542,7 @@ window.allHeroes =
         ],
         "source": "S4 - 地底荒野",
         "Release date": "2024-04-25",
+        "specialId": "masons_rage",
         "star": 4,
         "power": 692,
         "attack": 725,
@@ -62589,7 +63560,7 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 970,
         "lb1": {
-            "power": 745,
+            "power": 744,
             "attack": 788,
             "defense": 736,
             "health": 1269
@@ -62632,6 +63603,7 @@ window.allHeroes =
         ],
         "source": "S1 - 經典",
         "Release date": "2017-03-01",
+        "specialId": "blade_barrage",
         "star": 4,
         "power": 640,
         "attack": 767,
@@ -62647,7 +63619,7 @@ window.allHeroes =
         "costume_id": 0,
         "originalIndex": 971,
         "lb1": {
-            "power": 689,
+            "power": 688,
             "attack": 833,
             "defense": 551,
             "health": 1129
@@ -62691,6 +63663,7 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2021-01-18",
+        "specialId": "blade_venom",
         "star": 4,
         "power": 685,
         "attack": 784,
@@ -62707,13 +63680,13 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 972,
         "lb1": {
-            "power": 737,
+            "power": 736,
             "attack": 851,
             "defense": 621,
             "health": 1286
         },
         "lb2": {
-            "power": 841,
+            "power": 840,
             "attack": 987,
             "defense": 721,
             "health": 1490
@@ -62756,6 +63729,7 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2023-10-30",
+        "specialId": "blade_dance",
         "star": 4,
         "power": 731,
         "attack": 862,
@@ -62777,7 +63751,7 @@ window.allHeroes =
             "health": 1390
         },
         "lb2": {
-            "power": 899,
+            "power": 898,
             "attack": 1085,
             "defense": 744,
             "health": 1611
@@ -62814,6 +63788,7 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2024-08-11",
+        "specialId": "toon_barrage",
         "star": 4,
         "power": 743,
         "attack": 842,
@@ -62838,7 +63813,7 @@ window.allHeroes =
             "health": 1405
         },
         "lb2": {
-            "power": 915,
+            "power": 914,
             "attack": 1061,
             "defense": 823,
             "health": 1628
@@ -62879,6 +63854,7 @@ window.allHeroes =
         ],
         "source": "S3 - 瓦爾哈拉",
         "Release date": "2020-05-28",
+        "specialId": "eternal_servitude",
         "star": 4,
         "power": 661,
         "attack": 595,
@@ -62899,13 +63875,13 @@ window.allHeroes =
         "costume_id": 0,
         "originalIndex": 975,
         "lb1": {
-            "power": 711,
+            "power": 710,
             "attack": 646,
             "defense": 690,
             "health": 1475
         },
         "lb2": {
-            "power": 811,
+            "power": 810,
             "attack": 749,
             "defense": 800,
             "health": 1710
@@ -62943,6 +63919,7 @@ window.allHeroes =
         ],
         "source": "高塔 - 忍者",
         "Release date": "2020-10-13",
+        "specialId": "channel_ki",
         "star": 4,
         "power": 670,
         "attack": 603,
@@ -62965,13 +63942,13 @@ window.allHeroes =
         "costume_id": 0,
         "originalIndex": 976,
         "lb1": {
-            "power": 722,
+            "power": 721,
             "attack": 655,
             "defense": 681,
             "health": 1547
         },
         "lb2": {
-            "power": 823,
+            "power": 822,
             "attack": 760,
             "defense": 789,
             "health": 1793
@@ -63009,6 +63986,7 @@ window.allHeroes =
         ],
         "source": "挑戰節 I",
         "Release date": "2018-01-05",
+        "specialId": "inspiring_fencing",
         "star": 4,
         "power": 645,
         "attack": 756,
@@ -63070,6 +64048,7 @@ window.allHeroes =
         ],
         "source": "S2 - 亞特蘭蒂斯",
         "Release date": "2019-08-01",
+        "specialId": "oji_waza",
         "star": 4,
         "power": 650,
         "attack": 665,
@@ -63086,7 +64065,7 @@ window.allHeroes =
         "costume_id": 0,
         "originalIndex": 978,
         "lb1": {
-            "power": 700,
+            "power": 699,
             "attack": 722,
             "defense": 688,
             "health": 1209
@@ -63131,6 +64110,7 @@ window.allHeroes =
         ],
         "source": "S2 - 亞特蘭蒂斯",
         "Release date": "2023-04-03",
+        "specialId": "orsoldoon",
         "star": 4,
         "power": 671,
         "attack": 649,
@@ -63153,7 +64133,7 @@ window.allHeroes =
             "health": 1286
         },
         "lb2": {
-            "power": 825,
+            "power": 824,
             "attack": 818,
             "defense": 873,
             "health": 1492
@@ -63190,6 +64170,7 @@ window.allHeroes =
         ],
         "source": "S3 - 瓦爾哈拉",
         "Release date": "2020-02-27",
+        "specialId": "magma_boulders",
         "star": 4,
         "power": 662,
         "attack": 716,
@@ -63247,6 +64228,7 @@ window.allHeroes =
         ],
         "source": "S3 - 瓦爾哈拉",
         "Release date": "2022-07-04",
+        "specialId": "volcanic_boulders",
         "star": 4,
         "power": 683,
         "attack": 722,
@@ -63268,7 +64250,7 @@ window.allHeroes =
             "health": 1262
         },
         "lb2": {
-            "power": 840,
+            "power": 839,
             "attack": 909,
             "defense": 827,
             "health": 1463
@@ -63304,6 +64286,7 @@ window.allHeroes =
         ],
         "source": "三國召喚",
         "Release date": "2022-03-14",
+        "specialId": "royal_blades",
         "star": 4,
         "power": 682,
         "attack": 782,
@@ -63325,7 +64308,7 @@ window.allHeroes =
             "health": 1329
         },
         "lb2": {
-            "power": 838,
+            "power": 837,
             "attack": 985,
             "defense": 687,
             "health": 1541
@@ -63365,6 +64348,7 @@ window.allHeroes =
         ],
         "source": "挑戰 - 石像鬼",
         "Release date": "2024-10-17",
+        "specialId": "firing_on_all_cylinders",
         "star": 4,
         "power": 702,
         "attack": 707,
@@ -63384,7 +64368,7 @@ window.allHeroes =
         "costume_id": 0,
         "originalIndex": 983,
         "lb1": {
-            "power": 756,
+            "power": 755,
             "attack": 768,
             "defense": 738,
             "health": 1396
@@ -63434,6 +64418,7 @@ window.allHeroes =
         ],
         "source": "S2 - 亞特蘭蒂斯",
         "Release date": "2019-08-01",
+        "specialId": "spiritual_unity",
         "star": 4,
         "power": 649,
         "attack": 605,
@@ -63457,7 +64442,7 @@ window.allHeroes =
             "health": 1242
         },
         "lb2": {
-            "power": 797,
+            "power": 796,
             "attack": 762,
             "defense": 870,
             "health": 1440
@@ -63494,6 +64479,7 @@ window.allHeroes =
         ],
         "source": "S2 - 亞特蘭蒂斯",
         "Release date": "2022-05-02",
+        "specialId": "brilliant_brew",
         "star": 4,
         "power": 671,
         "attack": 656,
@@ -63515,7 +64501,7 @@ window.allHeroes =
             "health": 1301
         },
         "lb2": {
-            "power": 825,
+            "power": 824,
             "attack": 827,
             "defense": 853,
             "health": 1509
@@ -63552,6 +64538,7 @@ window.allHeroes =
         ],
         "source": "挑戰節 II",
         "Release date": "2022-08-11",
+        "specialId": "melody_of_misery",
         "star": 4,
         "power": 682,
         "attack": 658,
@@ -63569,7 +64556,7 @@ window.allHeroes =
         "costume_id": 0,
         "originalIndex": 986,
         "lb1": {
-            "power": 735,
+            "power": 734,
             "attack": 715,
             "defense": 655,
             "health": 1542
@@ -63613,6 +64600,7 @@ window.allHeroes =
         ],
         "source": "三國召喚",
         "Release date": "2022-03-14",
+        "specialId": "scion_sword",
         "star": 4,
         "power": 683,
         "attack": 639,
@@ -63629,13 +64617,13 @@ window.allHeroes =
         "costume_id": 0,
         "originalIndex": 987,
         "lb1": {
-            "power": 736,
+            "power": 735,
             "attack": 695,
             "defense": 729,
             "health": 1452
         },
         "lb2": {
-            "power": 839,
+            "power": 838,
             "attack": 805,
             "defense": 845,
             "health": 1683
@@ -63679,6 +64667,7 @@ window.allHeroes =
         ],
         "source": "三國召喚",
         "Release date": "2025-01-29",
+        "specialId": "scion_sword_costume_white_raven",
         "star": 4,
         "power": 719,
         "attack": 704,
@@ -63752,6 +64741,7 @@ window.allHeroes =
         ],
         "source": "神秘 - 暗影召喚",
         "Release date": "2024-05-26",
+        "specialId": "whispers_of_xulu",
         "star": 5,
         "power": 1133,
         "attack": 1139,
@@ -63831,6 +64821,7 @@ window.allHeroes =
         ],
         "source": "S7 - 火焰與冰霜的寶藏",
         "Release date": "2025-03-23",
+        "specialId": "mana_immolation",
         "star": 5,
         "power": 1184,
         "attack": 1159,
@@ -63906,6 +64897,7 @@ window.allHeroes =
         ],
         "source": "月活動 - 莫洛維亞",
         "Release date": "2022-10-03",
+        "specialId": "vampiric_curse",
         "star": 5,
         "power": 851,
         "attack": 852,
@@ -63975,8 +64967,9 @@ window.allHeroes =
         ],
         "source": "月活動 - 莫洛維亞",
         "Release date": "2024-09-23",
+        "specialId": "vampiric_heist",
         "star": 5,
-        "power": 1013,
+        "power": 1105,
         "attack": 1247,
         "defense": 973,
         "health": 1943,
@@ -63995,7 +64988,7 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 992,
         "lb1": {
-            "power": 1182,
+            "power": 1181,
             "attack": 1344,
             "defense": 1048,
             "health": 2093
@@ -64042,6 +65035,7 @@ window.allHeroes =
         ],
         "source": "月活動 - 莫洛維亞",
         "Release date": "2023-09-25",
+        "specialId": "spear_of_blood_pact",
         "star": 5,
         "power": 933,
         "attack": 927,
@@ -64060,7 +65054,7 @@ window.allHeroes =
         "costume_id": 0,
         "originalIndex": 993,
         "lb1": {
-            "power": 997,
+            "power": 996,
             "attack": 999,
             "defense": 954,
             "health": 1820
@@ -64108,6 +65102,7 @@ window.allHeroes =
         ],
         "source": "月活動 - 海灘派對",
         "Release date": "2025-06-03",
+        "specialId": "blazing_rave_dance",
         "star": 5,
         "power": 1196,
         "attack": 1229,
@@ -64135,7 +65130,7 @@ window.allHeroes =
             "health": 2364
         },
         "lb2": {
-            "power": 1447,
+            "power": 1446,
             "attack": 1516,
             "defense": 1473,
             "health": 2705
@@ -64172,6 +65167,7 @@ window.allHeroes =
         ],
         "source": "傳奇召喚 - 月英",
         "Release date": "2019-04-01",
+        "specialId": "flaming_grudge",
         "star": 5,
         "power": 770,
         "attack": 698,
@@ -64196,7 +65192,7 @@ window.allHeroes =
             "health": 1378
         },
         "lb2": {
-            "power": 921,
+            "power": 920,
             "attack": 861,
             "defense": 977,
             "health": 1577
@@ -64229,6 +65225,7 @@ window.allHeroes =
         ],
         "source": "挑戰 - 眾神狂歡節",
         "Release date": "2023-07-13",
+        "specialId": "wicked_witchcraft",
         "star": 5,
         "power": 936,
         "attack": 887,
@@ -64247,7 +65244,7 @@ window.allHeroes =
         "costume_id": 0,
         "originalIndex": 996,
         "lb1": {
-            "power": 999,
+            "power": 998,
             "attack": 956,
             "defense": 925,
             "health": 2002
@@ -64295,6 +65292,7 @@ window.allHeroes =
         ],
         "source": "野地召喚",
         "Release date": "2024-10-23",
+        "specialId": "forceful_advance",
         "star": 5,
         "power": 1144,
         "attack": 1159,
@@ -64315,7 +65313,7 @@ window.allHeroes =
         "costume_id": 0,
         "originalIndex": 997,
         "lb1": {
-            "power": 1224,
+            "power": 1223,
             "attack": 1249,
             "defense": 1189,
             "health": 2346
@@ -64364,6 +65362,7 @@ window.allHeroes =
         ],
         "source": "傳奇召喚 - 月英",
         "Release date": "2017-08-01",
+        "specialId": "might_of_ares",
         "star": 5,
         "power": 765,
         "attack": 659,
@@ -64381,7 +65380,7 @@ window.allHeroes =
         "costume_id": 0,
         "originalIndex": 998,
         "lb1": {
-            "power": 815,
+            "power": 814,
             "attack": 710,
             "defense": 799,
             "health": 1554
@@ -64428,6 +65427,7 @@ window.allHeroes =
         ],
         "source": "傳奇召喚 - 月英",
         "Release date": "2023-03-20",
+        "specialId": "seal_of_ares",
         "star": 5,
         "power": 974,
         "attack": 874,
@@ -64447,13 +65447,13 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 999,
         "lb1": {
-            "power": 1041,
+            "power": 1040,
             "attack": 943,
             "defense": 963,
             "health": 2256
         },
         "lb2": {
-            "power": 1173,
+            "power": 1172,
             "attack": 1079,
             "defense": 1102,
             "health": 2581
@@ -64496,7 +65496,8 @@ window.allHeroes =
             "繞過"
         ],
         "source": "額外抽獎 - 秘密召喚",
-        "Release date": "2025-07-26",
+        "Release date": "2025-07-04",
+        "specialId": "gorging_chew_red",
         "star": 5,
         "power": 1225,
         "attack": 1268,
@@ -64526,13 +65527,13 @@ window.allHeroes =
         "costume_id": 0,
         "originalIndex": 1000,
         "lb1": {
-            "power": 1311,
+            "power": 1310,
             "attack": 1367,
             "defense": 1367,
             "health": 2319
         },
         "lb2": {
-            "power": 1482,
+            "power": 1481,
             "attack": 1564,
             "defense": 1564,
             "health": 2654
@@ -64581,6 +65582,7 @@ window.allHeroes =
         ],
         "source": "超級元素",
         "Release date": "2024-07-14",
+        "specialId": "ruby_rush",
         "star": 5,
         "power": 1077,
         "attack": 1133,
@@ -64603,13 +65605,13 @@ window.allHeroes =
         "costume_id": 0,
         "originalIndex": 1001,
         "lb1": {
-            "power": 1152,
+            "power": 1151,
             "attack": 1221,
             "defense": 1152,
             "health": 1978
         },
         "lb2": {
-            "power": 1300,
+            "power": 1299,
             "attack": 1397,
             "defense": 1318,
             "health": 2263
@@ -64656,6 +65658,7 @@ window.allHeroes =
         ],
         "source": "挑戰節 II",
         "Release date": "2021-02-11",
+        "specialId": "brutal_bull_rush",
         "star": 5,
         "power": 802,
         "attack": 784,
@@ -64728,6 +65731,7 @@ window.allHeroes =
         ],
         "source": "高塔 - 忍者",
         "Release date": "2025-03-05",
+        "specialId": "rending_dagger",
         "star": 5,
         "power": 1167,
         "attack": 1324,
@@ -64755,13 +65759,13 @@ window.allHeroes =
         "costume_id": 0,
         "originalIndex": 1003,
         "lb1": {
-            "power": 1249,
+            "power": 1248,
             "attack": 1427,
             "defense": 1229,
             "health": 2000
         },
         "lb2": {
-            "power": 1411,
+            "power": 1410,
             "attack": 1633,
             "defense": 1407,
             "health": 2288
@@ -64799,6 +65803,7 @@ window.allHeroes =
         ],
         "source": "S1 - 經典",
         "Release date": "2017-03-01",
+        "specialId": "volcanic_eruption",
         "star": 5,
         "power": 757,
         "attack": 793,
@@ -64814,13 +65819,13 @@ window.allHeroes =
         "costume_id": 0,
         "originalIndex": 1004,
         "lb1": {
-            "power": 807,
+            "power": 806,
             "attack": 854,
             "defense": 654,
             "health": 1425
         },
         "lb2": {
-            "power": 905,
+            "power": 904,
             "attack": 977,
             "defense": 749,
             "health": 1630
@@ -64858,6 +65863,7 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2020-05-18",
+        "specialId": "volcanic_flareup",
         "star": 5,
         "power": 852,
         "attack": 883,
@@ -64923,6 +65929,7 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2023-02-20",
+        "specialId": "volcanic_explosion",
         "star": 5,
         "power": 967,
         "attack": 1035,
@@ -64938,13 +65945,13 @@ window.allHeroes =
         "costume_id": 2,
         "originalIndex": 1006,
         "lb1": {
-            "power": 1033,
+            "power": 1032,
             "attack": 1115,
             "defense": 873,
             "health": 1949
         },
         "lb2": {
-            "power": 1164,
+            "power": 1163,
             "attack": 1277,
             "defense": 998,
             "health": 2230
@@ -64987,6 +65994,7 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2023-10-30",
+        "specialId": "volcanic_tantrum",
         "star": 5,
         "power": 1135,
         "attack": 1181,
@@ -65011,7 +66019,7 @@ window.allHeroes =
             "health": 2320
         },
         "lb2": {
-            "power": 1371,
+            "power": 1370,
             "attack": 1455,
             "defense": 1302,
             "health": 2655
@@ -65054,6 +66062,7 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2024-12-25",
+        "specialId": "glass_volcano",
         "star": 5,
         "power": 1242,
         "attack": 1337,
@@ -65072,13 +66081,13 @@ window.allHeroes =
         "costume_id": 4,
         "originalIndex": 1008,
         "lb1": {
-            "power": 1329,
+            "power": 1328,
             "attack": 1440,
             "defense": 1281,
             "health": 2436
         },
         "lb2": {
-            "power": 1503,
+            "power": 1502,
             "attack": 1648,
             "defense": 1466,
             "health": 2789
@@ -65124,6 +66133,7 @@ window.allHeroes =
         ],
         "source": "S3 - 瓦爾哈拉",
         "Release date": "2020-05-28",
+        "specialId": "unbreakable_brawler",
         "star": 5,
         "power": 787,
         "attack": 807,
@@ -65141,7 +66151,7 @@ window.allHeroes =
         "costume_id": 0,
         "originalIndex": 1009,
         "lb1": {
-            "power": 840,
+            "power": 839,
             "attack": 870,
             "defense": 750,
             "health": 1429
@@ -65185,6 +66195,7 @@ window.allHeroes =
         ],
         "source": "S3 - 瓦爾哈拉",
         "Release date": "2022-11-21",
+        "specialId": "relentless_brawler",
         "star": 5,
         "power": 986,
         "attack": 988,
@@ -65202,13 +66213,13 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 1010,
         "lb1": {
-            "power": 1053,
+            "power": 1052,
             "attack": 1064,
             "defense": 999,
             "health": 1968
         },
         "lb2": {
-            "power": 1187,
+            "power": 1186,
             "attack": 1218,
             "defense": 1144,
             "health": 2251
@@ -65244,6 +66255,7 @@ window.allHeroes =
         ],
         "source": "挑戰節 II",
         "Release date": "2023-05-18",
+        "specialId": "missile_mania",
         "star": 5,
         "power": 879,
         "attack": 894,
@@ -65270,7 +66282,7 @@ window.allHeroes =
             "health": 1645
         },
         "lb2": {
-            "power": 1056,
+            "power": 1055,
             "attack": 1102,
             "defense": 1005,
             "health": 1882
@@ -65310,6 +66322,7 @@ window.allHeroes =
         ],
         "source": "聯盟 - 騎士衝擊",
         "Release date": "2024-07-17",
+        "specialId": "cursed_painting",
         "star": 5,
         "power": 1078,
         "attack": 1011,
@@ -65384,6 +66397,7 @@ window.allHeroes =
         ],
         "source": "挑戰 - 貝武夫",
         "Release date": "2025-02-13",
+        "specialId": "battle_boast",
         "star": 5,
         "power": 1184,
         "attack": 1293,
@@ -65411,7 +66425,7 @@ window.allHeroes =
             "health": 2286
         },
         "lb2": {
-            "power": 1432,
+            "power": 1431,
             "attack": 1595,
             "defense": 1366,
             "health": 2616
@@ -65456,6 +66470,7 @@ window.allHeroes =
         ],
         "source": "至日召喚",
         "Release date": "2025-06-16",
+        "specialId": "righteous_pulverizer",
         "star": 5,
         "power": 1213,
         "attack": 1289,
@@ -65479,7 +66494,7 @@ window.allHeroes =
         "costume_id": 0,
         "originalIndex": 1014,
         "lb1": {
-            "power": 1298,
+            "power": 1297,
             "attack": 1389,
             "defense": 1289,
             "health": 2326
@@ -65530,6 +66545,7 @@ window.allHeroes =
         ],
         "source": "挑戰節 I",
         "Release date": "2023-12-28",
+        "specialId": "pirates_vengeance",
         "star": 5,
         "power": 987,
         "attack": 945,
@@ -65549,7 +66565,7 @@ window.allHeroes =
         "costume_id": 0,
         "originalIndex": 1015,
         "lb1": {
-            "power": 1054,
+            "power": 1053,
             "attack": 1018,
             "defense": 1085,
             "health": 1920
@@ -65597,6 +66613,7 @@ window.allHeroes =
         ],
         "source": "挑戰節 I",
         "Release date": "2021-07-09",
+        "specialId": "just_a_flesh_wound",
         "star": 5,
         "power": 779,
         "attack": 611,
@@ -65613,13 +66630,13 @@ window.allHeroes =
         "costume_id": 0,
         "originalIndex": 1016,
         "lb1": {
-            "power": 831,
+            "power": 830,
             "attack": 659,
             "defense": 912,
             "health": 1571
         },
         "lb2": {
-            "power": 933,
+            "power": 932,
             "attack": 754,
             "defense": 1043,
             "health": 1798
@@ -65654,6 +66671,7 @@ window.allHeroes =
         ],
         "source": "挑戰節 I",
         "Release date": "2022-06-16",
+        "specialId": "but_a_scratch",
         "star": 5,
         "power": 978,
         "attack": 792,
@@ -65670,7 +66688,7 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 1017,
         "lb1": {
-            "power": 1045,
+            "power": 1044,
             "attack": 853,
             "defense": 1126,
             "health": 2184
@@ -65711,6 +66729,7 @@ window.allHeroes =
         ],
         "source": "聖約召喚",
         "Release date": "2023-08-24",
+        "specialId": "songs_of_the_cherry_tree",
         "star": 5,
         "power": 980,
         "attack": 885,
@@ -65778,6 +66797,7 @@ window.allHeroes =
         ],
         "source": "怪獸島召喚",
         "Release date": "2023-03-03",
+        "specialId": "fury_of_the_silverback",
         "star": 5,
         "power": 893,
         "attack": 912,
@@ -65797,7 +66817,7 @@ window.allHeroes =
         "costume_id": 0,
         "originalIndex": 1019,
         "lb1": {
-            "power": 953,
+            "power": 952,
             "attack": 983,
             "defense": 907,
             "health": 1640
@@ -65844,6 +66864,7 @@ window.allHeroes =
         ],
         "source": "聖約召喚",
         "Release date": "2023-07-27",
+        "specialId": "infernal_flames",
         "star": 5,
         "power": 953,
         "attack": 939,
@@ -65919,6 +66940,7 @@ window.allHeroes =
         ],
         "source": "挑戰節 I",
         "Release date": "2017-09-07",
+        "specialId": "pirate_shot",
         "star": 5,
         "power": 765,
         "attack": 727,
@@ -65940,7 +66962,7 @@ window.allHeroes =
             "health": 1458
         },
         "lb2": {
-            "power": 915,
+            "power": 914,
             "attack": 896,
             "defense": 866,
             "health": 1668
@@ -65975,6 +66997,7 @@ window.allHeroes =
         ],
         "source": "S4 - 地底荒野",
         "Release date": "2021-08-12",
+        "specialId": "captains_cutlass",
         "star": 5,
         "power": 809,
         "attack": 821,
@@ -65992,7 +67015,7 @@ window.allHeroes =
         "costume_id": 0,
         "originalIndex": 1022,
         "lb1": {
-            "power": 863,
+            "power": 862,
             "attack": 885,
             "defense": 810,
             "health": 1438
@@ -66034,6 +67057,7 @@ window.allHeroes =
         ],
         "source": "S4 - 地底荒野",
         "Release date": "2023-12-07",
+        "specialId": "machinists_cutlass",
         "star": 5,
         "power": 1024,
         "attack": 1081,
@@ -66052,13 +67076,13 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 1023,
         "lb1": {
-            "power": 1094,
+            "power": 1093,
             "attack": 1164,
             "defense": 1058,
             "health": 1894
         },
         "lb2": {
-            "power": 1234,
+            "power": 1233,
             "attack": 1333,
             "defense": 1211,
             "health": 2166
@@ -66097,6 +67121,7 @@ window.allHeroes =
         ],
         "source": "聯盟 - 火槍手",
         "Release date": "2023-09-20",
+        "specialId": "web_of_spies",
         "star": 5,
         "power": 928,
         "attack": 881,
@@ -66161,6 +67186,7 @@ window.allHeroes =
         ],
         "source": "挑戰 - 眾神狂歡節",
         "Release date": "2023-09-14",
+        "specialId": "master_of_ailments",
         "star": 5,
         "power": 940,
         "attack": 906,
@@ -66185,7 +67211,7 @@ window.allHeroes =
             "health": 1940
         },
         "lb2": {
-            "power": 1131,
+            "power": 1130,
             "attack": 1117,
             "defense": 1087,
             "health": 2219
@@ -66228,6 +67254,7 @@ window.allHeroes =
         ],
         "source": "星界召喚",
         "Release date": "2025-04-21",
+        "specialId": "spell_lock",
         "star": 5,
         "power": 1179,
         "attack": 1213,
@@ -66298,6 +67325,7 @@ window.allHeroes =
         ],
         "source": "挑戰 - 歌劇秘辛",
         "Release date": "2024-09-19",
+        "specialId": "ballad_of_condemnation",
         "star": 5,
         "power": 1100,
         "attack": 1153,
@@ -66320,7 +67348,7 @@ window.allHeroes =
         "costume_id": 0,
         "originalIndex": 1027,
         "lb1": {
-            "power": 1176,
+            "power": 1175,
             "attack": 1243,
             "defense": 1087,
             "health": 2224
@@ -66372,6 +67400,7 @@ window.allHeroes =
         ],
         "source": "超級元素",
         "Release date": "2025-01-01",
+        "specialId": "perfume_cloud",
         "star": 5,
         "power": 1169,
         "attack": 1108,
@@ -66392,7 +67421,7 @@ window.allHeroes =
         "costume_id": 0,
         "originalIndex": 1028,
         "lb1": {
-            "power": 1251,
+            "power": 1250,
             "attack": 1194,
             "defense": 1218,
             "health": 2621
@@ -66437,6 +67466,7 @@ window.allHeroes =
         ],
         "source": "挑戰節 II",
         "Release date": "2022-11-03",
+        "specialId": "slice_and_dice",
         "star": 5,
         "power": 876,
         "attack": 850,
@@ -66506,6 +67536,7 @@ window.allHeroes =
         ],
         "source": "聯盟 - 飛蛾",
         "Release date": "2025-01-23",
+        "specialId": "prosperity_for_domain",
         "star": 5,
         "power": 1178,
         "attack": 1157,
@@ -66525,13 +67556,13 @@ window.allHeroes =
         "costume_id": 0,
         "originalIndex": 1030,
         "lb1": {
-            "power": 1261,
+            "power": 1260,
             "attack": 1247,
             "defense": 1400,
             "health": 2195
         },
         "lb2": {
-            "power": 1425,
+            "power": 1424,
             "attack": 1427,
             "defense": 1602,
             "health": 2512
@@ -66574,6 +67605,7 @@ window.allHeroes =
         ],
         "source": "挑戰節 I",
         "Release date": "2024-02-22",
+        "specialId": "fairy_godmothers_blessing",
         "star": 5,
         "power": 1007,
         "attack": 1032,
@@ -66600,7 +67632,7 @@ window.allHeroes =
             "health": 1802
         },
         "lb2": {
-            "power": 1214,
+            "power": 1213,
             "attack": 1272,
             "defense": 1267,
             "health": 2062
@@ -66641,6 +67673,7 @@ window.allHeroes =
         ],
         "source": "怪獸島召喚",
         "Release date": "2022-08-25",
+        "specialId": "bone_ritual",
         "star": 5,
         "power": 888,
         "attack": 852,
@@ -66667,7 +67700,7 @@ window.allHeroes =
             "health": 1724
         },
         "lb2": {
-            "power": 1067,
+            "power": 1066,
             "attack": 1051,
             "defense": 1064,
             "health": 1973
@@ -66710,6 +67743,7 @@ window.allHeroes =
         ],
         "source": "月活動 - 冬季",
         "Release date": "2023-12-01",
+        "specialId": "mystery_potions",
         "star": 5,
         "power": 949,
         "attack": 916,
@@ -66726,7 +67760,7 @@ window.allHeroes =
         "costume_id": 0,
         "originalIndex": 1033,
         "lb1": {
-            "power": 1014,
+            "power": 1013,
             "attack": 987,
             "defense": 1043,
             "health": 1795
@@ -66771,6 +67805,7 @@ window.allHeroes =
         ],
         "source": "月活動 - 戀愛季節",
         "Release date": "2023-02-14",
+        "specialId": "love_conquers_all",
         "star": 5,
         "power": 862,
         "attack": 844,
@@ -66789,7 +67824,7 @@ window.allHeroes =
         "costume_id": 0,
         "originalIndex": 1034,
         "lb1": {
-            "power": 920,
+            "power": 919,
             "attack": 910,
             "defense": 868,
             "health": 1665
@@ -66833,6 +67868,7 @@ window.allHeroes =
         ],
         "source": "聯盟 - 火槍手",
         "Release date": "2022-12-14",
+        "specialId": "flaming_rapier",
         "star": 5,
         "power": 878,
         "attack": 867,
@@ -66851,13 +67887,13 @@ window.allHeroes =
         "costume_id": 0,
         "originalIndex": 1035,
         "lb1": {
-            "power": 937,
+            "power": 936,
             "attack": 934,
             "defense": 899,
             "health": 1665
         },
         "lb2": {
-            "power": 1054,
+            "power": 1053,
             "attack": 1069,
             "defense": 1028,
             "health": 1905
@@ -66899,6 +67935,7 @@ window.allHeroes =
         ],
         "source": "聯盟 - 騎士衝擊",
         "Release date": "2024-01-10",
+        "specialId": "blood_petals_of_the_withered",
         "star": 5,
         "power": 1027,
         "attack": 1102,
@@ -66970,6 +68007,7 @@ window.allHeroes =
         ],
         "source": "哥布林召喚",
         "Release date": "2024-09-29",
+        "specialId": "spotting_trouble",
         "star": 5,
         "power": 1122,
         "attack": 1174,
@@ -67043,6 +68081,7 @@ window.allHeroes =
         ],
         "source": "S6 - 深淵謎團",
         "Release date": "2023-12-13",
+        "specialId": "supernova",
         "star": 5,
         "power": 999,
         "attack": 984,
@@ -67115,6 +68154,7 @@ window.allHeroes =
         ],
         "source": "S6 - 深淵謎團",
         "Release date": "2024-12-14",
+        "specialId": "sunken_abyss",
         "star": 5,
         "power": 1245,
         "attack": 1231,
@@ -67140,7 +68180,7 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 1039,
         "lb1": {
-            "power": 1332,
+            "power": 1331,
             "attack": 1326,
             "defense": 1395,
             "health": 2516
@@ -67186,6 +68226,7 @@ window.allHeroes =
         ],
         "source": "超級元素",
         "Release date": "2023-03-27",
+        "specialId": "dual_laser_blades",
         "star": 5,
         "power": 905,
         "attack": 887,
@@ -67207,7 +68248,7 @@ window.allHeroes =
         "costume_id": 0,
         "originalIndex": 1040,
         "lb1": {
-            "power": 967,
+            "power": 966,
             "attack": 956,
             "defense": 892,
             "health": 1838
@@ -67260,6 +68301,7 @@ window.allHeroes =
         ],
         "source": "挑戰節 II",
         "Release date": "2025-06-15",
+        "specialId": "infernal_drumstorm",
         "star": 5,
         "power": 1211,
         "attack": 1217,
@@ -67285,7 +68327,7 @@ window.allHeroes =
             "health": 2413
         },
         "lb2": {
-            "power": 1465,
+            "power": 1464,
             "attack": 1501,
             "defense": 1529,
             "health": 2760
@@ -67338,6 +68380,7 @@ window.allHeroes =
         ],
         "source": "怪獸島召喚",
         "Release date": "2022-10-15",
+        "specialId": "flail_swing",
         "star": 5,
         "power": 887,
         "attack": 848,
@@ -67364,7 +68407,7 @@ window.allHeroes =
             "health": 1742
         },
         "lb2": {
-            "power": 1066,
+            "power": 1065,
             "attack": 1046,
             "defense": 1056,
             "health": 1993
@@ -67404,6 +68447,7 @@ window.allHeroes =
         ],
         "source": "挑戰 - 石像鬼",
         "Release date": "2022-05-12",
+        "specialId": "fists_of_atonement",
         "star": 5,
         "power": 841,
         "attack": 832,
@@ -67421,7 +68465,7 @@ window.allHeroes =
         "costume_id": 0,
         "originalIndex": 1043,
         "lb1": {
-            "power": 898,
+            "power": 897,
             "attack": 896,
             "defense": 841,
             "health": 1596
@@ -67465,6 +68509,7 @@ window.allHeroes =
         ],
         "source": "月活動 - 戀愛季節",
         "Release date": "2024-01-08",
+        "specialId": "vanguard_of_passion",
         "star": 5,
         "power": 966,
         "attack": 988,
@@ -67526,6 +68571,7 @@ window.allHeroes =
         ],
         "source": "S1 - 經典",
         "Release date": "2017-03-01",
+        "specialId": "wall_of_swords",
         "star": 5,
         "power": 753,
         "attack": 809,
@@ -67541,7 +68587,7 @@ window.allHeroes =
         "costume_id": 0,
         "originalIndex": 1045,
         "lb1": {
-            "power": 803,
+            "power": 802,
             "attack": 872,
             "defense": 623,
             "health": 1414
@@ -67583,6 +68629,7 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2020-01-01",
+        "specialId": "sword_barricade",
         "star": 5,
         "power": 848,
         "attack": 909,
@@ -67598,7 +68645,7 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 1046,
         "lb1": {
-            "power": 905,
+            "power": 904,
             "attack": 980,
             "defense": 681,
             "health": 1756
@@ -67640,6 +68687,7 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2023-08-07",
+        "specialId": "dreaded_swords",
         "star": 5,
         "power": 964,
         "attack": 923,
@@ -67661,7 +68709,7 @@ window.allHeroes =
             "health": 2147
         },
         "lb2": {
-            "power": 1161,
+            "power": 1160,
             "attack": 1139,
             "defense": 1047,
             "health": 2456
@@ -67698,6 +68746,7 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2024-05-31",
+        "specialId": "adorable_swords",
         "star": 5,
         "power": 1129,
         "attack": 1021,
@@ -67765,6 +68814,7 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2025-07-16",
+        "specialId": "glass_swords",
         "star": 5,
         "power": 1232,
         "attack": 1419,
@@ -67783,7 +68833,7 @@ window.allHeroes =
         "costume_id": 4,
         "originalIndex": 1049,
         "lb1": {
-            "power": 1319,
+            "power": 1318,
             "attack": 1529,
             "defense": 1009,
             "health": 2686
@@ -67833,11 +68883,12 @@ window.allHeroes =
         ],
         "source": "傳奇召喚 - 月英",
         "Release date": "2025-03-01",
+        "specialId": "flame_surge",
         "star": 5,
-        "power": 1077,
-        "attack": 1114,
-        "defense": 1108,
-        "health": 1800,
+        "power": 1066,
+        "attack": 1104,
+        "defense": 1097,
+        "health": 1769,
         "effects": [
             "對所有敵人造成 300% 傷害。",
             "所有敵人在 4 回合內受到共計 640 點燃燒傷害。",
@@ -67853,16 +68904,16 @@ window.allHeroes =
         "costume_id": 0,
         "originalIndex": 1050,
         "lb1": {
-            "power": 1151,
-            "attack": 1201,
-            "defense": 1194,
-            "health": 1940
+            "power": 1139,
+            "attack": 1190,
+            "defense": 1182,
+            "health": 1906
         },
         "lb2": {
-            "power": 1299,
-            "attack": 1374,
-            "defense": 1366,
-            "health": 2219
+            "power": 1285,
+            "attack": 1362,
+            "defense": 1353,
+            "health": 2181
         },
         "cn_skill_info": [
             {
@@ -67904,6 +68955,7 @@ window.allHeroes =
         ],
         "source": "S4 - 地底荒野",
         "Release date": "2021-03-25",
+        "specialId": "widows_kiss",
         "star": 5,
         "power": 807,
         "attack": 768,
@@ -67923,7 +68975,7 @@ window.allHeroes =
         "costume_id": 0,
         "originalIndex": 1051,
         "lb1": {
-            "power": 861,
+            "power": 860,
             "attack": 828,
             "defense": 812,
             "health": 1560
@@ -67975,6 +69027,7 @@ window.allHeroes =
         ],
         "source": "S4 - 地底荒野",
         "Release date": "2023-04-27",
+        "specialId": "brides_kiss",
         "star": 5,
         "power": 1021,
         "attack": 1016,
@@ -68047,6 +69100,7 @@ window.allHeroes =
         ],
         "source": "聖約召喚",
         "Release date": "2025-05-08",
+        "specialId": "firewall",
         "star": 5,
         "power": 1179,
         "attack": 1260,
@@ -68065,13 +69119,13 @@ window.allHeroes =
         "costume_id": 0,
         "originalIndex": 1053,
         "lb1": {
-            "power": 1261,
+            "power": 1260,
             "attack": 1358,
             "defense": 1334,
             "health": 2051
         },
         "lb2": {
-            "power": 1425,
+            "power": 1424,
             "attack": 1554,
             "defense": 1526,
             "health": 2346
@@ -68117,6 +69171,7 @@ window.allHeroes =
         ],
         "source": "挑戰節 II",
         "Release date": "2021-06-10",
+        "specialId": "flames_and_rejuvenation",
         "star": 5,
         "power": 809,
         "attack": 751,
@@ -68138,7 +69193,7 @@ window.allHeroes =
         "costume_id": 0,
         "originalIndex": 1054,
         "lb1": {
-            "power": 863,
+            "power": 862,
             "attack": 810,
             "defense": 865,
             "health": 1516
@@ -68194,6 +69249,7 @@ window.allHeroes =
         ],
         "source": "挑戰節 II",
         "Release date": "2025-04-09",
+        "specialId": "frogs_and_hoop",
         "star": 5,
         "power": 1210,
         "attack": 1237,
@@ -68223,7 +69279,7 @@ window.allHeroes =
             "health": 2517
         },
         "lb2": {
-            "power": 1464,
+            "power": 1463,
             "attack": 1526,
             "defense": 1434,
             "health": 2880
@@ -68271,6 +69327,7 @@ window.allHeroes =
         ],
         "source": "高塔 - 冥河",
         "Release date": "2022-09-21",
+        "specialId": "dark_orb",
         "star": 5,
         "power": 857,
         "attack": 832,
@@ -68299,13 +69356,13 @@ window.allHeroes =
         "costume_id": 0,
         "originalIndex": 1056,
         "lb1": {
-            "power": 915,
+            "power": 914,
             "attack": 896,
             "defense": 881,
             "health": 1638
         },
         "lb2": {
-            "power": 1029,
+            "power": 1028,
             "attack": 1026,
             "defense": 1008,
             "health": 1874
@@ -68348,6 +69405,7 @@ window.allHeroes =
         ],
         "source": "高塔 - 貓頭鷹",
         "Release date": "2024-05-08",
+        "specialId": "song_of_hoot_and_holler",
         "star": 5,
         "power": 1046,
         "attack": 1106,
@@ -68366,7 +69424,7 @@ window.allHeroes =
         "costume_id": 0,
         "originalIndex": 1057,
         "lb1": {
-            "power": 1119,
+            "power": 1118,
             "attack": 1192,
             "defense": 1154,
             "health": 1809
@@ -68410,16 +69468,17 @@ window.allHeroes =
             "寶箱怪"
         ],
         "skill_types": [
-            "特殊治療",
             "反製小兵",
             "狙擊手",
+            "特殊治療",
             "法力提升",
             "提供免疫",
             "鬼魂形態與隱藏",
             "繞過"
         ],
         "source": "額外抽獎 - 秘密召喚",
-        "Release date": "2025-06-06",
+        "Release date": "2025-04-22",
+        "specialId": "mimic_training_hero_red_bite",
         "star": 5,
         "power": 1200,
         "attack": 1236,
@@ -68501,6 +69560,7 @@ window.allHeroes =
         ],
         "source": "S7 - 火焰與冰霜的寶藏",
         "Release date": "2025-07-11",
+        "specialId": "self_preservation",
         "star": 5,
         "power": 1220,
         "attack": 1254,
@@ -68523,13 +69583,13 @@ window.allHeroes =
         "costume_id": 0,
         "originalIndex": 1059,
         "lb1": {
-            "power": 1306,
+            "power": 1305,
             "attack": 1351,
             "defense": 1303,
             "health": 2450
         },
         "lb2": {
-            "power": 1476,
+            "power": 1475,
             "attack": 1546,
             "defense": 1490,
             "health": 2804
@@ -68579,6 +69639,7 @@ window.allHeroes =
         ],
         "source": "哥布林召喚",
         "Release date": "2025-04-11",
+        "specialId": "calling_the_bluff",
         "star": 5,
         "power": 1173,
         "attack": 1200,
@@ -68604,7 +69665,7 @@ window.allHeroes =
             "health": 2333
         },
         "lb2": {
-            "power": 1418,
+            "power": 1417,
             "attack": 1480,
             "defense": 1432,
             "health": 2669
@@ -68648,6 +69709,7 @@ window.allHeroes =
         ],
         "source": "月活動 - 海灘派對",
         "Release date": "2023-06-12",
+        "specialId": "to_the_rescue",
         "star": 5,
         "power": 873,
         "attack": 834,
@@ -68667,13 +69729,13 @@ window.allHeroes =
         "costume_id": 0,
         "originalIndex": 1061,
         "lb1": {
-            "power": 932,
+            "power": 931,
             "attack": 899,
             "defense": 934,
             "health": 1647
         },
         "lb2": {
-            "power": 1048,
+            "power": 1047,
             "attack": 1028,
             "defense": 1069,
             "health": 1884
@@ -68716,6 +69778,7 @@ window.allHeroes =
         ],
         "source": "月活動 - 海灘派對",
         "Release date": "2025-06-03",
+        "specialId": "donut_to_the_rescue",
         "star": 5,
         "power": 1184,
         "attack": 1141,
@@ -68785,6 +69848,7 @@ window.allHeroes =
         ],
         "source": "高塔 - 貓頭鷹",
         "Release date": "2023-12-20",
+        "specialId": "royal_assault",
         "star": 5,
         "power": 985,
         "attack": 1032,
@@ -68809,7 +69873,7 @@ window.allHeroes =
             "health": 1662
         },
         "lb2": {
-            "power": 1186,
+            "power": 1185,
             "attack": 1272,
             "defense": 1247,
             "health": 1902
@@ -68852,6 +69916,7 @@ window.allHeroes =
         ],
         "source": "高塔 - 忍者",
         "Release date": "2020-10-13",
+        "specialId": "awaken_ki",
         "star": 5,
         "power": 798,
         "attack": 731,
@@ -68880,7 +69945,7 @@ window.allHeroes =
             "health": 1596
         },
         "lb2": {
-            "power": 956,
+            "power": 955,
             "attack": 901,
             "defense": 927,
             "health": 1826
@@ -68916,6 +69981,7 @@ window.allHeroes =
         ],
         "source": "S3 - 瓦爾哈拉",
         "Release date": "2020-10-22",
+        "specialId": "maidens_command",
         "star": 5,
         "power": 785,
         "attack": 772,
@@ -68937,7 +70003,7 @@ window.allHeroes =
             "health": 1356
         },
         "lb2": {
-            "power": 940,
+            "power": 939,
             "attack": 952,
             "defense": 944,
             "health": 1551
@@ -68973,6 +70039,7 @@ window.allHeroes =
         ],
         "source": "S3 - 瓦爾哈拉",
         "Release date": "2022-09-26",
+        "specialId": "maidens_orders",
         "star": 5,
         "power": 983,
         "attack": 970,
@@ -68994,7 +70061,7 @@ window.allHeroes =
             "health": 1863
         },
         "lb2": {
-            "power": 1183,
+            "power": 1182,
             "attack": 1195,
             "defense": 1218,
             "health": 2131
@@ -69031,6 +70098,7 @@ window.allHeroes =
         ],
         "source": "S6 - 深淵謎團",
         "Release date": "2023-09-27",
+        "specialId": "underwater_magma_cube",
         "star": 5,
         "power": 957,
         "attack": 898,
@@ -69067,7 +70135,7 @@ window.allHeroes =
             "health": 1940
         },
         "lb2": {
-            "power": 1151,
+            "power": 1150,
             "attack": 1107,
             "defense": 1170,
             "health": 2219
@@ -69110,6 +70178,7 @@ window.allHeroes =
         ],
         "source": "S6 - 深淵謎團",
         "Release date": "2024-06-20",
+        "specialId": "sunken_magma_cube",
         "star": 5,
         "power": 1190,
         "attack": 1214,
@@ -69141,13 +70210,13 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 1068,
         "lb1": {
-            "power": 1273,
+            "power": 1272,
             "attack": 1308,
             "defense": 1252,
             "health": 2425
         },
         "lb2": {
-            "power": 1439,
+            "power": 1438,
             "attack": 1497,
             "defense": 1433,
             "health": 2775
@@ -69191,6 +70260,7 @@ window.allHeroes =
         ],
         "source": "超級元素",
         "Release date": "2025-05-04",
+        "specialId": "alchemy_experiment",
         "star": 5,
         "power": 1193,
         "attack": 1139,
@@ -69211,13 +70281,13 @@ window.allHeroes =
         "costume_id": 0,
         "originalIndex": 1069,
         "lb1": {
-            "power": 1277,
+            "power": 1276,
             "attack": 1227,
             "defense": 1292,
             "health": 2577
         },
         "lb2": {
-            "power": 1443,
+            "power": 1442,
             "attack": 1404,
             "defense": 1478,
             "health": 2948
@@ -69261,6 +70331,7 @@ window.allHeroes =
         ],
         "source": "傳奇召喚 - 月英",
         "Release date": "2018-06-01",
+        "specialId": "ashes_to_ashes",
         "star": 5,
         "power": 768,
         "attack": 727,
@@ -69329,6 +70400,7 @@ window.allHeroes =
         ],
         "source": "傳奇召喚 - 月英",
         "Release date": "2021-10-20",
+        "specialId": "dust_to_dust",
         "star": 5,
         "power": 976,
         "attack": 922,
@@ -69347,7 +70419,7 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 1071,
         "lb1": {
-            "power": 1043,
+            "power": 1042,
             "attack": 994,
             "defense": 950,
             "health": 2172
@@ -69396,6 +70468,7 @@ window.allHeroes =
         ],
         "source": "傳奇召喚 - 月英",
         "Release date": "2019-09-01",
+        "specialId": "mending_mantra",
         "star": 5,
         "power": 770,
         "attack": 628,
@@ -69414,13 +70487,13 @@ window.allHeroes =
         "costume_id": 0,
         "originalIndex": 1072,
         "lb1": {
-            "power": 821,
+            "power": 820,
             "attack": 677,
             "defense": 881,
             "health": 1516
         },
         "lb2": {
-            "power": 921,
+            "power": 920,
             "attack": 774,
             "defense": 1008,
             "health": 1734
@@ -69458,6 +70531,7 @@ window.allHeroes =
         ],
         "source": "挑戰節 I",
         "Release date": "2020-05-01",
+        "specialId": "lord_of_the_jungle",
         "star": 5,
         "power": 765,
         "attack": 786,
@@ -69524,6 +70598,7 @@ window.allHeroes =
         ],
         "source": "挑戰節 I",
         "Release date": "2022-04-14",
+        "specialId": "kong_smash",
         "star": 5,
         "power": 960,
         "attack": 1007,
@@ -69540,13 +70615,13 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 1074,
         "lb1": {
-            "power": 1025,
+            "power": 1024,
             "attack": 1084,
             "defense": 801,
             "health": 2115
         },
         "lb2": {
-            "power": 1155,
+            "power": 1154,
             "attack": 1240,
             "defense": 917,
             "health": 2420
@@ -69588,6 +70663,7 @@ window.allHeroes =
         ],
         "source": "挑戰 - 石像鬼",
         "Release date": "2024-07-25",
+        "specialId": "reflecting_stance",
         "star": 5,
         "power": 1080,
         "attack": 984,
@@ -69607,13 +70683,13 @@ window.allHeroes =
         "costume_id": 0,
         "originalIndex": 1075,
         "lb1": {
-            "power": 1155,
+            "power": 1154,
             "attack": 1061,
             "defense": 1198,
             "health": 2308
         },
         "lb2": {
-            "power": 1304,
+            "power": 1303,
             "attack": 1214,
             "defense": 1371,
             "health": 2641
@@ -69654,6 +70730,7 @@ window.allHeroes =
         ],
         "source": "星界召喚",
         "Release date": "2024-03-28",
+        "specialId": "celestial_anvil",
         "star": 5,
         "power": 1013,
         "attack": 1027,
@@ -69722,6 +70799,7 @@ window.allHeroes =
         ],
         "source": "S5 - 沙丘",
         "Release date": "2022-12-22",
+        "specialId": "motherly_care",
         "star": 5,
         "power": 843,
         "attack": 774,
@@ -69741,13 +70819,13 @@ window.allHeroes =
         "costume_id": 0,
         "originalIndex": 1077,
         "lb1": {
-            "power": 900,
+            "power": 899,
             "attack": 834,
             "defense": 856,
             "health": 1736
         },
         "lb2": {
-            "power": 1012,
+            "power": 1011,
             "attack": 955,
             "defense": 980,
             "health": 1986
@@ -69785,6 +70863,7 @@ window.allHeroes =
         ],
         "source": "S5 - 沙丘",
         "Release date": "2024-02-05",
+        "specialId": "motherly_love",
         "star": 5,
         "power": 1178,
         "attack": 1116,
@@ -69852,6 +70931,7 @@ window.allHeroes =
         ],
         "source": "挑戰 - 石像鬼",
         "Release date": "2022-09-08",
+        "specialId": "possessor_of_penance",
         "star": 5,
         "power": 841,
         "attack": 805,
@@ -69871,7 +70951,7 @@ window.allHeroes =
         "costume_id": 0,
         "originalIndex": 1079,
         "lb1": {
-            "power": 897,
+            "power": 896,
             "attack": 868,
             "defense": 863,
             "health": 1618
@@ -69920,6 +71000,7 @@ window.allHeroes =
         ],
         "source": "聖約召喚",
         "Release date": "2024-01-16",
+        "specialId": "bulwark_charge",
         "star": 5,
         "power": 1055,
         "attack": 1021,
@@ -69945,7 +71026,7 @@ window.allHeroes =
         "costume_id": 0,
         "originalIndex": 1080,
         "lb1": {
-            "power": 1128,
+            "power": 1127,
             "attack": 1101,
             "defense": 1196,
             "health": 2017
@@ -69990,6 +71071,7 @@ window.allHeroes =
         ],
         "source": "高塔 - 冥河",
         "Release date": "2022-06-01",
+        "specialId": "sweet_dreams",
         "star": 5,
         "power": 849,
         "attack": 846,
@@ -70024,7 +71106,7 @@ window.allHeroes =
             "health": 1620
         },
         "lb2": {
-            "power": 1019,
+            "power": 1018,
             "attack": 1043,
             "defense": 962,
             "health": 1854
@@ -70067,6 +71149,7 @@ window.allHeroes =
         ],
         "source": "哥布林召喚",
         "Release date": "2025-04-29",
+        "specialId": "ring_around_the_rosie",
         "star": 5,
         "power": 1177,
         "attack": 1200,
@@ -70092,7 +71175,7 @@ window.allHeroes =
             "health": 2342
         },
         "lb2": {
-            "power": 1423,
+            "power": 1422,
             "attack": 1480,
             "defense": 1445,
             "health": 2679
@@ -70137,6 +71220,7 @@ window.allHeroes =
         ],
         "source": "超級元素",
         "Release date": "2023-03-27",
+        "specialId": "purifying_flame",
         "star": 5,
         "power": 953,
         "attack": 887,
@@ -70160,13 +71244,13 @@ window.allHeroes =
         "costume_id": 0,
         "originalIndex": 1083,
         "lb1": {
-            "power": 1018,
+            "power": 1017,
             "attack": 956,
             "defense": 996,
             "health": 1995
         },
         "lb2": {
-            "power": 1147,
+            "power": 1146,
             "attack": 1094,
             "defense": 1140,
             "health": 2283
@@ -70212,8 +71296,9 @@ window.allHeroes =
         ],
         "source": "超級元素",
         "Release date": "2025-05-24",
+        "specialId": "cauterizing_flame",
         "star": 5,
-        "power": 1197,
+        "power": 1239,
         "attack": 1175,
         "defense": 1256,
         "health": 2508,
@@ -70285,6 +71370,7 @@ window.allHeroes =
         ],
         "source": "月活動 - 卡勒瓦拉",
         "Release date": "2022-06-20",
+        "specialId": "forged_in_fire",
         "star": 5,
         "power": 937,
         "attack": 863,
@@ -70303,7 +71389,7 @@ window.allHeroes =
         "costume_id": 0,
         "originalIndex": 1085,
         "lb1": {
-            "power": 1001,
+            "power": 1000,
             "attack": 930,
             "defense": 999,
             "health": 1933
@@ -70352,6 +71438,7 @@ window.allHeroes =
         ],
         "source": "月活動 - 卡勒瓦拉",
         "Release date": "2025-07-28",
+        "specialId": "forged_from_gold",
         "star": 5,
         "power": 1220,
         "attack": 1151,
@@ -70370,7 +71457,7 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 1086,
         "lb1": {
-            "power": 1306,
+            "power": 1305,
             "attack": 1239,
             "defense": 1346,
             "health": 2643
@@ -70420,6 +71507,7 @@ window.allHeroes =
         ],
         "source": "哥布林召喚",
         "Release date": "2024-07-07",
+        "specialId": "aces_high",
         "star": 5,
         "power": 1102,
         "attack": 1170,
@@ -70445,7 +71533,7 @@ window.allHeroes =
             "health": 2046
         },
         "lb2": {
-            "power": 1330,
+            "power": 1329,
             "attack": 1442,
             "defense": 1330,
             "health": 2341
@@ -70486,6 +71574,7 @@ window.allHeroes =
         ],
         "source": "野地召喚",
         "Release date": "2024-12-31",
+        "specialId": "flurry_of_blows",
         "star": 5,
         "power": 1154,
         "attack": 1184,
@@ -70506,13 +71595,13 @@ window.allHeroes =
         "costume_id": 0,
         "originalIndex": 1088,
         "lb1": {
-            "power": 1235,
+            "power": 1234,
             "attack": 1276,
             "defense": 1205,
             "health": 2326
         },
         "lb2": {
-            "power": 1395,
+            "power": 1394,
             "attack": 1460,
             "defense": 1379,
             "health": 2661
@@ -70551,6 +71640,7 @@ window.allHeroes =
         ],
         "source": "挑戰節 II",
         "Release date": "2021-02-11",
+        "specialId": "vengeful_scythe",
         "star": 5,
         "power": 804,
         "attack": 758,
@@ -70573,7 +71663,7 @@ window.allHeroes =
             "health": 1534
         },
         "lb2": {
-            "power": 963,
+            "power": 962,
             "attack": 934,
             "defense": 947,
             "health": 1755
@@ -70611,6 +71701,7 @@ window.allHeroes =
         ],
         "source": "傳奇召喚 - 月英",
         "Release date": "2020-02-01",
+        "specialId": "seal_of_fire",
         "star": 5,
         "power": 771,
         "attack": 737,
@@ -70636,7 +71727,7 @@ window.allHeroes =
             "health": 1436
         },
         "lb2": {
-            "power": 923,
+            "power": 922,
             "attack": 909,
             "defense": 891,
             "health": 1643
@@ -70681,6 +71772,7 @@ window.allHeroes =
         ],
         "source": "S1 - 經典",
         "Release date": "2017-03-01",
+        "specialId": "khans_order",
         "star": 5,
         "power": 757,
         "attack": 710,
@@ -70742,6 +71834,7 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2021-01-18",
+        "specialId": "conquerors_command",
         "star": 5,
         "power": 853,
         "attack": 819,
@@ -70758,7 +71851,7 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 1092,
         "lb1": {
-            "power": 910,
+            "power": 909,
             "attack": 882,
             "defense": 802,
             "health": 1797
@@ -70803,6 +71896,7 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2022-09-05",
+        "specialId": "chieftains_vengeance",
         "star": 5,
         "power": 969,
         "attack": 930,
@@ -70865,6 +71959,7 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2024-04-08",
+        "specialId": "toons_order",
         "star": 5,
         "power": 1136,
         "attack": 1154,
@@ -70890,7 +71985,7 @@ window.allHeroes =
             "health": 2602
         },
         "lb2": {
-            "power": 1373,
+            "power": 1372,
             "attack": 1424,
             "defense": 1188,
             "health": 2978
@@ -70936,6 +72031,7 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2025-06-18",
+        "specialId": "glass_order",
         "star": 5,
         "power": 1241,
         "attack": 1310,
@@ -70955,13 +72051,13 @@ window.allHeroes =
         "costume_id": 4,
         "originalIndex": 1095,
         "lb1": {
-            "power": 1329,
+            "power": 1328,
             "attack": 1414,
             "defense": 1165,
             "health": 2734
         },
         "lb2": {
-            "power": 1502,
+            "power": 1501,
             "attack": 1617,
             "defense": 1333,
             "health": 3127
@@ -71005,6 +72101,7 @@ window.allHeroes =
         ],
         "source": "S5 - 沙丘",
         "Release date": "2022-04-21",
+        "specialId": "perplexing_riddle",
         "star": 5,
         "power": 858,
         "attack": 819,
@@ -71069,6 +72166,7 @@ window.allHeroes =
         ],
         "source": "S5 - 沙丘",
         "Release date": "2024-11-01",
+        "specialId": "underwater_riddle",
         "star": 5,
         "power": 1200,
         "attack": 1229,
@@ -71134,6 +72232,7 @@ window.allHeroes =
         ],
         "source": "S4 - 地底荒野",
         "Release date": "2022-02-24",
+        "specialId": "inevitable_demise",
         "star": 5,
         "power": 814,
         "attack": 786,
@@ -71158,7 +72257,7 @@ window.allHeroes =
             "health": 1518
         },
         "lb2": {
-            "power": 976,
+            "power": 975,
             "attack": 970,
             "defense": 957,
             "health": 1737
@@ -71194,6 +72293,7 @@ window.allHeroes =
         ],
         "source": "S4 - 地底荒野",
         "Release date": "2024-09-26",
+        "specialId": "delicious_demise",
         "star": 5,
         "power": 1031,
         "attack": 1019,
@@ -71213,7 +72313,7 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 1099,
         "lb1": {
-            "power": 1102,
+            "power": 1101,
             "attack": 1098,
             "defense": 1069,
             "health": 2093
@@ -71256,6 +72356,7 @@ window.allHeroes =
         ],
         "source": "S3 - 瓦爾哈拉",
         "Release date": "2020-07-23",
+        "specialId": "tricksters_malice",
         "star": 5,
         "power": 787,
         "attack": 747,
@@ -71272,7 +72373,7 @@ window.allHeroes =
         "costume_id": 0,
         "originalIndex": 1100,
         "lb1": {
-            "power": 839,
+            "power": 838,
             "attack": 805,
             "defense": 836,
             "health": 1414
@@ -71316,6 +72417,7 @@ window.allHeroes =
         ],
         "source": "S3 - 瓦爾哈拉",
         "Release date": "2023-10-23",
+        "specialId": "tricksters_lullaby",
         "star": 5,
         "power": 985,
         "attack": 876,
@@ -71332,13 +72434,13 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 1101,
         "lb1": {
-            "power": 1053,
+            "power": 1052,
             "attack": 945,
             "defense": 1178,
             "health": 1908
         },
         "lb2": {
-            "power": 1187,
+            "power": 1186,
             "attack": 1081,
             "defense": 1349,
             "health": 2182
@@ -71376,6 +72478,7 @@ window.allHeroes =
         ],
         "source": "S6 - 深淵謎團",
         "Release date": "2023-06-07",
+        "specialId": "flanking_maneuver",
         "star": 5,
         "power": 935,
         "attack": 994,
@@ -71448,6 +72551,7 @@ window.allHeroes =
         ],
         "source": "S6 - 深淵謎團",
         "Release date": "2024-09-21",
+        "specialId": "champion_maneuver",
         "star": 5,
         "power": 1163,
         "attack": 1246,
@@ -71483,7 +72587,7 @@ window.allHeroes =
             "health": 2152
         },
         "lb2": {
-            "power": 1405,
+            "power": 1404,
             "attack": 1536,
             "defense": 1420,
             "health": 2462
@@ -71520,6 +72624,7 @@ window.allHeroes =
         ],
         "source": "聯盟 - 騎士衝擊",
         "Release date": "2022-01-05",
+        "specialId": "impeding_bolts",
         "star": 5,
         "power": 822,
         "attack": 795,
@@ -71535,13 +72640,13 @@ window.allHeroes =
         "costume_id": 0,
         "originalIndex": 1104,
         "lb1": {
-            "power": 877,
+            "power": 876,
             "attack": 856,
             "defense": 861,
             "health": 1509
         },
         "lb2": {
-            "power": 986,
+            "power": 985,
             "attack": 980,
             "defense": 985,
             "health": 1727
@@ -71582,6 +72687,7 @@ window.allHeroes =
         ],
         "source": "三國召喚",
         "Release date": "2025-05-22",
+        "specialId": "whirlwind_blows",
         "star": 5,
         "power": 1203,
         "attack": 1155,
@@ -71612,7 +72718,7 @@ window.allHeroes =
             "health": 2410
         },
         "lb2": {
-            "power": 1455,
+            "power": 1454,
             "attack": 1424,
             "defense": 1590,
             "health": 2758
@@ -71652,6 +72758,7 @@ window.allHeroes =
         ],
         "source": "高塔 - 貓頭鷹",
         "Release date": "2024-02-14",
+        "specialId": "battleclaw_strike",
         "star": 5,
         "power": 1004,
         "attack": 1042,
@@ -71727,6 +72834,7 @@ window.allHeroes =
         ],
         "source": "哥布林召喚",
         "Release date": "2023-10-16",
+        "specialId": "heedless_hammer_flurry",
         "star": 5,
         "power": 949,
         "attack": 939,
@@ -71804,6 +72912,7 @@ window.allHeroes =
         ],
         "source": "高塔 - 忍者",
         "Release date": "2024-09-24",
+        "specialId": "lacerating_leap",
         "star": 5,
         "power": 1102,
         "attack": 1310,
@@ -71832,13 +72941,13 @@ window.allHeroes =
         "costume_id": 0,
         "originalIndex": 1108,
         "lb1": {
-            "power": 1178,
+            "power": 1177,
             "attack": 1411,
             "defense": 1192,
             "health": 1609
         },
         "lb2": {
-            "power": 1330,
+            "power": 1329,
             "attack": 1615,
             "defense": 1363,
             "health": 1841
@@ -71864,6 +72973,69 @@ window.allHeroes =
         ]
     },
     {
+        "name": "梅玻 (Maple)",
+        "fancy_name": "紅褐林精靈",
+        "AetherPower": "傷害減少",
+        "color": "紅",
+        "class": "牧師",
+        "speed": "中等",
+        "skill": "秋風",
+        "types": [
+            "隨機攻擊3個目標",
+            "全體閃避增益"
+        ],
+        "skill_types": [
+            "閃避",
+            "連鎖與隨機攻擊"
+        ],
+        "source": "傳奇召喚 - 月英",
+        "Release date": "2025-08-01",
+        "specialId": "autumnal_wind",
+        "star": 5,
+        "power": 1125,
+        "attack": 1106,
+        "defense": 1161,
+        "health": 2057,
+        "effects": [
+            "此特殊技能必定命中目標。",
+            "對 3 名隨機敵人造成 300% 傷害。",
+            "所有盟友有 +40% 機率閃避可造成傷害的特殊技能，持續 3 回合。",
+            "元素鏈會赋予所有烈火盟友 +20% 攻擊力，持續 5 個回合。此效果無法驱散。"
+        ],
+        "passives": [
+            "抵禦增益免疫：此角色對於新增益免疫的狀態異常具有天生抗性。",
+            "此角色獲得增益或正面叠加時會恢復 5% 的生命值。"
+        ],
+        "family": 2025,
+        "image": "https://imgur.com/R97TCxU.jpg",
+        "costume_id": 0,
+        "originalIndex": 1109,
+        "lb1": {
+            "power": 1203,
+            "attack": 1192,
+            "defense": 1252,
+            "health": 2217
+        },
+        "lb2": {
+            "power": 1358,
+            "attack": 1363,
+            "defense": 1432,
+            "health": 2537
+        },
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "攻擊：隨機"
+                ]
+            },
+            {
+                "增益效果": [
+                    "防禦-閃避"
+                ]
+            }
+        ]
+    },
+    {
         "name": "馬里亞娜 (Marjana)",
         "fancy_name": "溫德米爾小姐",
         "AetherPower": "攻擊提升",
@@ -71881,6 +73053,7 @@ window.allHeroes =
         ],
         "source": "S1 - 經典",
         "Release date": "2017-03-01",
+        "specialId": "magma_smash",
         "star": 5,
         "power": 755,
         "attack": 669,
@@ -71894,7 +73067,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/H8u69R9.jpg",
         "costume_id": 0,
-        "originalIndex": 1109,
+        "originalIndex": 1110,
         "lb1": {
             "power": 804,
             "attack": 721,
@@ -71941,6 +73114,7 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2021-01-18",
+        "specialId": "lava_blast",
         "star": 5,
         "power": 849,
         "attack": 811,
@@ -71955,9 +73129,9 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/E1sWcp1.jpg",
         "costume_id": 1,
-        "originalIndex": 1110,
+        "originalIndex": 1111,
         "lb1": {
-            "power": 906,
+            "power": 905,
             "attack": 874,
             "defense": 816,
             "health": 1761
@@ -72002,6 +73176,7 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2023-06-12",
+        "specialId": "volcanic_blast",
         "star": 5,
         "power": 965,
         "attack": 926,
@@ -72016,7 +73191,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/onSikNW.jpg",
         "costume_id": 2,
-        "originalIndex": 1111,
+        "originalIndex": 1112,
         "lb1": {
             "power": 1031,
             "attack": 998,
@@ -72024,7 +73199,7 @@ window.allHeroes =
             "health": 2115
         },
         "lb2": {
-            "power": 1163,
+            "power": 1162,
             "attack": 1142,
             "defense": 1068,
             "health": 2420
@@ -72063,6 +73238,7 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2023-12-25",
+        "specialId": "toontastic_smash",
         "star": 5,
         "power": 1132,
         "attack": 1081,
@@ -72079,15 +73255,15 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/CuDeIo0.jpg",
         "costume_id": 3,
-        "originalIndex": 1112,
+        "originalIndex": 1113,
         "lb1": {
-            "power": 1211,
+            "power": 1210,
             "attack": 1165,
             "defense": 1173,
             "health": 2497
         },
         "lb2": {
-            "power": 1368,
+            "power": 1367,
             "attack": 1334,
             "defense": 1342,
             "health": 2857
@@ -72131,6 +73307,7 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2025-02-11",
+        "specialId": "glass_flame_smash",
         "star": 5,
         "power": 1237,
         "attack": 1310,
@@ -72147,7 +73324,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/wWSeZW9.jpg",
         "costume_id": 4,
-        "originalIndex": 1113,
+        "originalIndex": 1114,
         "lb1": {
             "power": 1324,
             "attack": 1414,
@@ -72200,6 +73377,7 @@ window.allHeroes =
         ],
         "source": "S2 - 亞特蘭蒂斯",
         "Release date": "2019-02-01",
+        "specialId": "dark_mirror",
         "star": 5,
         "power": 775,
         "attack": 696,
@@ -72214,7 +73392,7 @@ window.allHeroes =
         "family": "sakura",
         "image": "https://i.imgur.com/xMxFVwW.jpg",
         "costume_id": 0,
-        "originalIndex": 1114,
+        "originalIndex": 1115,
         "lb1": {
             "power": 825,
             "attack": 750,
@@ -72266,6 +73444,7 @@ window.allHeroes =
         ],
         "source": "S2 - 亞特蘭蒂斯",
         "Release date": "2023-03-06",
+        "specialId": "glaive_of_flames",
         "star": 5,
         "power": 947,
         "attack": 895,
@@ -72280,7 +73459,7 @@ window.allHeroes =
         "family": "sakura",
         "image": "https://i.imgur.com/8AHvvyw.jpg",
         "costume_id": 1,
-        "originalIndex": 1115,
+        "originalIndex": 1116,
         "lb1": {
             "power": 1011,
             "attack": 965,
@@ -72336,6 +73515,7 @@ window.allHeroes =
         ],
         "source": "高塔 - 魔法",
         "Release date": "2021-09-15",
+        "specialId": "flame_of_the_dragon_familiar",
         "star": 5,
         "power": 818,
         "attack": 776,
@@ -72357,15 +73537,15 @@ window.allHeroes =
         "family": "magic",
         "image": "https://i.imgur.com/i5g8Fr0.jpg",
         "costume_id": 0,
-        "originalIndex": 1116,
+        "originalIndex": 1117,
         "lb1": {
-            "power": 872,
+            "power": 871,
             "attack": 836,
             "defense": 843,
             "health": 1558
         },
         "lb2": {
-            "power": 980,
+            "power": 979,
             "attack": 957,
             "defense": 965,
             "health": 1783
@@ -72418,6 +73598,7 @@ window.allHeroes =
         ],
         "source": "高塔 - 魔法",
         "Release date": "2025-07-05",
+        "specialId": "parcel_of_the_dragon_familiar",
         "star": 5,
         "power": 1215,
         "attack": 1245,
@@ -72440,7 +73621,7 @@ window.allHeroes =
         "family": "magic",
         "image": "https://imgur.com/bdS7gtT.jpg",
         "costume_id": 1,
-        "originalIndex": 1117,
+        "originalIndex": 1118,
         "lb1": {
             "power": 1300,
             "attack": 1340,
@@ -72448,7 +73629,7 @@ window.allHeroes =
             "health": 2425
         },
         "lb2": {
-            "power": 1470,
+            "power": 1469,
             "attack": 1533,
             "defense": 1499,
             "health": 2774
@@ -72496,6 +73677,7 @@ window.allHeroes =
         ],
         "source": "高塔 - 魔法",
         "Release date": "2025-04-17",
+        "specialId": "countering_hammock",
         "star": 5,
         "power": 1200,
         "attack": 1221,
@@ -72517,15 +73699,15 @@ window.allHeroes =
         "family": "magiccarpet",
         "image": "https://imgur.com/F7qBR0P.jpg",
         "costume_id": 0,
-        "originalIndex": 1118,
+        "originalIndex": 1119,
         "lb1": {
-            "power": 1285,
+            "power": 1284,
             "attack": 1316,
             "defense": 1318,
             "health": 2357
         },
         "lb2": {
-            "power": 1452,
+            "power": 1451,
             "attack": 1506,
             "defense": 1508,
             "health": 2697
@@ -72574,6 +73756,7 @@ window.allHeroes =
         ],
         "source": "傳奇召喚 - 月英",
         "Release date": "2018-01-01",
+        "specialId": "burning_chains",
         "star": 5,
         "power": 765,
         "attack": 718,
@@ -72589,15 +73772,15 @@ window.allHeroes =
         "family": 2018,
         "image": "https://i.imgur.com/vuOEJDC.jpg",
         "costume_id": 0,
-        "originalIndex": 1119,
+        "originalIndex": 1120,
         "lb1": {
-            "power": 815,
+            "power": 814,
             "attack": 774,
             "defense": 732,
             "health": 1529
         },
         "lb2": {
-            "power": 915,
+            "power": 914,
             "attack": 886,
             "defense": 838,
             "health": 1750
@@ -72642,6 +73825,7 @@ window.allHeroes =
         ],
         "source": "傳奇召喚 - 月英",
         "Release date": "2023-05-15",
+        "specialId": "burning_thread",
         "star": 5,
         "power": 973,
         "attack": 935,
@@ -72659,9 +73843,9 @@ window.allHeroes =
         "family": 2018,
         "image": "https://i.imgur.com/IO9WHYd.jpg",
         "costume_id": 1,
-        "originalIndex": 1120,
+        "originalIndex": 1121,
         "lb1": {
-            "power": 1040,
+            "power": 1039,
             "attack": 1008,
             "defense": 916,
             "health": 2182
@@ -72713,6 +73897,7 @@ window.allHeroes =
         ],
         "source": "傳奇召喚 - 月英",
         "Release date": "2023-11-01",
+        "specialId": "fire_tiger",
         "star": 5,
         "power": 891,
         "attack": 824,
@@ -72732,7 +73917,7 @@ window.allHeroes =
         "family": 2023,
         "image": "https://i.imgur.com/hih0AUp.jpg",
         "costume_id": 0,
-        "originalIndex": 1121,
+        "originalIndex": 1122,
         "lb1": {
             "power": 951,
             "attack": 888,
@@ -72740,7 +73925,7 @@ window.allHeroes =
             "health": 1731
         },
         "lb2": {
-            "power": 1071,
+            "power": 1070,
             "attack": 1016,
             "defense": 1117,
             "health": 1981
@@ -72784,6 +73969,7 @@ window.allHeroes =
         ],
         "source": "聖約召喚",
         "Release date": "2025-06-03",
+        "specialId": "paw_in_every_pie",
         "star": 5,
         "power": 1186,
         "attack": 1229,
@@ -72800,7 +73986,7 @@ window.allHeroes =
         "family": "fox",
         "image": "https://imgur.com/i6CnqeB.jpg",
         "costume_id": 0,
-        "originalIndex": 1122,
+        "originalIndex": 1123,
         "lb1": {
             "power": 1269,
             "attack": 1325,
@@ -72808,7 +73994,7 @@ window.allHeroes =
             "health": 2328
         },
         "lb2": {
-            "power": 1435,
+            "power": 1434,
             "attack": 1516,
             "defense": 1450,
             "health": 2664
@@ -72846,6 +74032,7 @@ window.allHeroes =
         ],
         "source": "超級元素",
         "Release date": "2024-02-26",
+        "specialId": "pain_harvest",
         "star": 5,
         "power": 1010,
         "attack": 968,
@@ -72866,7 +74053,7 @@ window.allHeroes =
         "family": "superelemental",
         "image": "https://i.imgur.com/yN68oIc.jpg",
         "costume_id": 0,
-        "originalIndex": 1123,
+        "originalIndex": 1124,
         "lb1": {
             "power": 1079,
             "attack": 1043,
@@ -72874,7 +74061,7 @@ window.allHeroes =
             "health": 1975
         },
         "lb2": {
-            "power": 1217,
+            "power": 1216,
             "attack": 1193,
             "defense": 1277,
             "health": 2260
@@ -72915,6 +74102,7 @@ window.allHeroes =
         ],
         "source": "高塔 - 忍者",
         "Release date": "2024-08-27",
+        "specialId": "silent_takedown",
         "star": 5,
         "power": 1093,
         "attack": 1248,
@@ -72940,7 +74128,7 @@ window.allHeroes =
         "family": "ninja",
         "image": "https://i.imgur.com/k0TDdBr.jpg",
         "costume_id": 0,
-        "originalIndex": 1124,
+        "originalIndex": 1125,
         "lb1": {
             "power": 1168,
             "attack": 1345,
@@ -72993,6 +74181,7 @@ window.allHeroes =
         ],
         "source": "傳奇召喚 - 月英",
         "Release date": "2020-07-01",
+        "specialId": "sparrow_fury",
         "star": 5,
         "power": 774,
         "attack": 704,
@@ -73010,15 +74199,15 @@ window.allHeroes =
         "family": 2020,
         "image": "https://i.imgur.com/GEznO1b.jpg",
         "costume_id": 0,
-        "originalIndex": 1125,
+        "originalIndex": 1126,
         "lb1": {
-            "power": 825,
+            "power": 824,
             "attack": 759,
             "defense": 843,
             "health": 1416
         },
         "lb2": {
-            "power": 926,
+            "power": 925,
             "attack": 868,
             "defense": 965,
             "health": 1620
@@ -73056,6 +74245,7 @@ window.allHeroes =
         ],
         "source": "傳奇召喚",
         "Release date": "2024-01-11",
+        "specialId": "unstoppable_charge",
         "star": 5,
         "power": 993,
         "attack": 1013,
@@ -73074,15 +74264,15 @@ window.allHeroes =
         "family": "champions",
         "image": "https://i.imgur.com/xFLIwuu.jpg",
         "costume_id": 0,
-        "originalIndex": 1126,
+        "originalIndex": 1127,
         "lb1": {
-            "power": 1061,
+            "power": 1060,
             "attack": 1092,
             "defense": 1070,
             "health": 1815
         },
         "lb2": {
-            "power": 1196,
+            "power": 1195,
             "attack": 1249,
             "defense": 1224,
             "health": 2077
@@ -73121,6 +74311,7 @@ window.allHeroes =
         ],
         "source": "S2 - 亞特蘭蒂斯",
         "Release date": "2022-06-27",
+        "specialId": "strength_of_the_benemoth",
         "star": 5,
         "power": 835,
         "attack": 883,
@@ -73135,9 +74326,9 @@ window.allHeroes =
         "family": "atlantis",
         "image": "https://i.imgur.com/BZVWKzM.jpg",
         "costume_id": 0,
-        "originalIndex": 1127,
+        "originalIndex": 1128,
         "lb1": {
-            "power": 891,
+            "power": 890,
             "attack": 952,
             "defense": 792,
             "health": 1507
@@ -73181,6 +74372,7 @@ window.allHeroes =
         ],
         "source": "S4 - 地底荒野",
         "Release date": "2021-10-07",
+        "specialId": "hallowed_blade",
         "star": 5,
         "power": 810,
         "attack": 762,
@@ -73197,15 +74389,15 @@ window.allHeroes =
         "family": "underwild",
         "image": "https://i.imgur.com/zGSnaa1.jpg",
         "costume_id": 0,
-        "originalIndex": 1128,
+        "originalIndex": 1129,
         "lb1": {
-            "power": 864,
+            "power": 863,
             "attack": 821,
             "defense": 859,
             "health": 1505
         },
         "lb2": {
-            "power": 970,
+            "power": 969,
             "attack": 939,
             "defense": 982,
             "health": 1722
@@ -73248,6 +74440,7 @@ window.allHeroes =
         ],
         "source": "S4 - 地底荒野",
         "Release date": "2023-08-17",
+        "specialId": "bouquet_of_the_seas",
         "star": 5,
         "power": 1027,
         "attack": 1059,
@@ -73265,15 +74458,15 @@ window.allHeroes =
         "family": "underwild",
         "image": "https://i.imgur.com/uAzDRXt.jpg",
         "costume_id": 1,
-        "originalIndex": 1129,
+        "originalIndex": 1130,
         "lb1": {
-            "power": 1098,
+            "power": 1097,
             "attack": 1142,
             "defense": 1119,
             "health": 1854
         },
         "lb2": {
-            "power": 1238,
+            "power": 1237,
             "attack": 1306,
             "defense": 1280,
             "health": 2122
@@ -73317,6 +74510,7 @@ window.allHeroes =
         ],
         "source": "神秘 - 暗影召喚",
         "Release date": "2024-04-21",
+        "specialId": "ritual_of_the_deep",
         "star": 5,
         "power": 1127,
         "attack": 1176,
@@ -73336,15 +74530,15 @@ window.allHeroes =
         "family": "cultist",
         "image": "https://i.imgur.com/lX6ylxv.jpg",
         "costume_id": 0,
-        "originalIndex": 1130,
+        "originalIndex": 1131,
         "lb1": {
-            "power": 1206,
+            "power": 1205,
             "attack": 1267,
             "defense": 1196,
             "health": 2160
         },
         "lb2": {
-            "power": 1362,
+            "power": 1361,
             "attack": 1450,
             "defense": 1369,
             "health": 2471
@@ -73388,6 +74582,7 @@ window.allHeroes =
         ],
         "source": "怪獸島召喚",
         "Release date": "2022-12-24",
+        "specialId": "dauntless_bladestorm",
         "star": 5,
         "power": 888,
         "attack": 861,
@@ -73405,7 +74600,7 @@ window.allHeroes =
         "family": "abysshunter",
         "image": "https://i.imgur.com/z2xqRCU.jpg",
         "costume_id": 0,
-        "originalIndex": 1131,
+        "originalIndex": 1132,
         "lb1": {
             "power": 947,
             "attack": 927,
@@ -73413,7 +74608,7 @@ window.allHeroes =
             "health": 1682
         },
         "lb2": {
-            "power": 1066,
+            "power": 1065,
             "attack": 1061,
             "defense": 1071,
             "health": 1925
@@ -73455,6 +74650,7 @@ window.allHeroes =
         ],
         "source": "月活動 - 冬季",
         "Release date": "2024-12-01",
+        "specialId": "mistletoe_medley",
         "star": 5,
         "power": 1124,
         "attack": 1165,
@@ -73470,7 +74666,7 @@ window.allHeroes =
         "family": "christmas",
         "image": "https://i.imgur.com/Y8kn5Mx.jpg",
         "costume_id": 0,
-        "originalIndex": 1132,
+        "originalIndex": 1133,
         "lb1": {
             "power": 1202,
             "attack": 1256,
@@ -73518,6 +74714,7 @@ window.allHeroes =
         ],
         "source": "哥布林召喚",
         "Release date": "2024-01-08",
+        "specialId": "chords_of_havoc",
         "star": 5,
         "power": 989,
         "attack": 1050,
@@ -73536,9 +74733,9 @@ window.allHeroes =
         "family": "goblin",
         "image": "https://i.imgur.com/O681MYE.jpg",
         "costume_id": 0,
-        "originalIndex": 1133,
+        "originalIndex": 1134,
         "lb1": {
-            "power": 1057,
+            "power": 1056,
             "attack": 1132,
             "defense": 1027,
             "health": 1771
@@ -73594,6 +74791,7 @@ window.allHeroes =
         ],
         "source": "挑戰節 II",
         "Release date": "2022-08-11",
+        "specialId": "ballad_of_restoration",
         "star": 5,
         "power": 869,
         "attack": 819,
@@ -73611,15 +74809,15 @@ window.allHeroes =
         "family": "bard",
         "image": "https://i.imgur.com/LzmbqjK.jpg",
         "costume_id": 0,
-        "originalIndex": 1134,
+        "originalIndex": 1135,
         "lb1": {
-            "power": 927,
+            "power": 926,
             "attack": 883,
             "defense": 916,
             "health": 1689
         },
         "lb2": {
-            "power": 1043,
+            "power": 1042,
             "attack": 1010,
             "defense": 1049,
             "health": 1932
@@ -73665,6 +74863,7 @@ window.allHeroes =
         ],
         "source": "星界召喚",
         "Release date": "2025-02-28",
+        "specialId": "planar_time_widget",
         "star": 5,
         "power": 1171,
         "attack": 1246,
@@ -73683,7 +74882,7 @@ window.allHeroes =
         "family": "astraldwarfs",
         "image": "https://i.imgur.com/OSAvxSD.jpg",
         "costume_id": 0,
-        "originalIndex": 1135,
+        "originalIndex": 1136,
         "lb1": {
             "power": 1253,
             "attack": 1343,
@@ -73691,7 +74890,7 @@ window.allHeroes =
             "health": 2033
         },
         "lb2": {
-            "power": 1416,
+            "power": 1415,
             "attack": 1536,
             "defense": 1526,
             "health": 2326
@@ -73735,6 +74934,7 @@ window.allHeroes =
         ],
         "source": "挑戰節 I",
         "Release date": "2019-12-01",
+        "specialId": "three_blind_mice",
         "star": 5,
         "power": 781,
         "attack": 764,
@@ -73750,15 +74950,15 @@ window.allHeroes =
         "family": "grimforest",
         "image": "https://i.imgur.com/H73nb1h.jpg",
         "costume_id": 0,
-        "originalIndex": 1136,
+        "originalIndex": 1137,
         "lb1": {
-            "power": 832,
+            "power": 831,
             "attack": 823,
             "defense": 783,
             "health": 1425
         },
         "lb2": {
-            "power": 934,
+            "power": 933,
             "attack": 942,
             "defense": 896,
             "health": 1630
@@ -73802,6 +75002,7 @@ window.allHeroes =
         ],
         "source": "挑戰節 I",
         "Release date": "2023-08-10",
+        "specialId": "three_bandit_mice",
         "star": 5,
         "power": 978,
         "attack": 1066,
@@ -73817,7 +75018,7 @@ window.allHeroes =
         "family": "grimforest",
         "image": "https://i.imgur.com/emXl6nU.jpg",
         "costume_id": 1,
-        "originalIndex": 1137,
+        "originalIndex": 1138,
         "lb1": {
             "power": 1044,
             "attack": 1149,
@@ -73869,6 +75070,7 @@ window.allHeroes =
         ],
         "source": "挑戰節 I",
         "Release date": "2019-02-14",
+        "specialId": "queen_of_cards",
         "star": 5,
         "power": 768,
         "attack": 638,
@@ -73884,15 +75086,15 @@ window.allHeroes =
         "family": "wonderland",
         "image": "https://i.imgur.com/12RLqSK.jpg",
         "costume_id": 0,
-        "originalIndex": 1138,
+        "originalIndex": 1139,
         "lb1": {
-            "power": 819,
+            "power": 818,
             "attack": 688,
             "defense": 785,
             "health": 1665
         },
         "lb2": {
-            "power": 919,
+            "power": 918,
             "attack": 787,
             "defense": 899,
             "health": 1905
@@ -73937,6 +75139,7 @@ window.allHeroes =
         ],
         "source": "挑戰節 I",
         "Release date": "2023-10-05",
+        "specialId": "loving_queen",
         "star": 5,
         "power": 965,
         "attack": 748,
@@ -73954,15 +75157,15 @@ window.allHeroes =
         "family": "wonderland",
         "image": "https://i.imgur.com/q5xoHJ1.jpg",
         "costume_id": 1,
-        "originalIndex": 1139,
+        "originalIndex": 1140,
         "lb1": {
-            "power": 1031,
+            "power": 1030,
             "attack": 805,
             "defense": 1056,
             "health": 2346
         },
         "lb2": {
-            "power": 1162,
+            "power": 1161,
             "attack": 922,
             "defense": 1208,
             "health": 2683
@@ -74011,6 +75214,7 @@ window.allHeroes =
         ],
         "source": "野地召喚",
         "Release date": "2025-03-17",
+        "specialId": "royal_meatball_buffet",
         "star": 5,
         "power": 1214,
         "attack": 1320,
@@ -74036,7 +75240,7 @@ window.allHeroes =
         "family": "wildcat",
         "image": "https://i.imgur.com/8rK2qLv.jpg",
         "costume_id": 0,
-        "originalIndex": 1140,
+        "originalIndex": 1141,
         "lb1": {
             "power": 1299,
             "attack": 1423,
@@ -74089,6 +75293,7 @@ window.allHeroes =
         ],
         "source": "神秘 - 暗影召喚",
         "Release date": "2024-07-18",
+        "specialId": "cuts_of_hulu",
         "star": 5,
         "power": 1141,
         "attack": 1205,
@@ -74105,7 +75310,7 @@ window.allHeroes =
         "family": "cultist",
         "image": "https://i.imgur.com/WJH09pj.jpg",
         "costume_id": 0,
-        "originalIndex": 1141,
+        "originalIndex": 1142,
         "lb1": {
             "power": 1220,
             "attack": 1298,
@@ -74163,6 +75368,7 @@ window.allHeroes =
         ],
         "source": "高塔 - 魔法",
         "Release date": "2023-05-03",
+        "specialId": "blazing_slam_dunk",
         "star": 5,
         "power": 890,
         "attack": 867,
@@ -74186,7 +75392,7 @@ window.allHeroes =
         "family": "magic",
         "image": "https://i.imgur.com/0vSBWSh.jpg",
         "costume_id": 0,
-        "originalIndex": 1142,
+        "originalIndex": 1143,
         "lb1": {
             "power": 950,
             "attack": 934,
@@ -74250,6 +75456,7 @@ window.allHeroes =
         ],
         "source": "高塔 - 魔法",
         "Release date": "2025-07-23",
+        "specialId": "thorned_slam_dunk",
         "star": 5,
         "power": 1222,
         "attack": 1248,
@@ -74274,7 +75481,7 @@ window.allHeroes =
         "family": "magic",
         "image": "https://imgur.com/QG8aRPS.jpg",
         "costume_id": 1,
-        "originalIndex": 1143,
+        "originalIndex": 1144,
         "lb1": {
             "power": 1307,
             "attack": 1345,
@@ -74329,6 +75536,7 @@ window.allHeroes =
         ],
         "source": "挑戰節 I",
         "Release date": "2019-12-01",
+        "specialId": "forest_friends",
         "star": 5,
         "power": 767,
         "attack": 729,
@@ -74342,15 +75550,15 @@ window.allHeroes =
         "family": "grimforest",
         "image": "https://i.imgur.com/P4he1aZ.jpg",
         "costume_id": 0,
-        "originalIndex": 1144,
+        "originalIndex": 1145,
         "lb1": {
-            "power": 818,
+            "power": 817,
             "attack": 785,
             "defense": 763,
             "health": 1458
         },
         "lb2": {
-            "power": 918,
+            "power": 917,
             "attack": 899,
             "defense": 873,
             "health": 1668
@@ -74399,6 +75607,7 @@ window.allHeroes =
         ],
         "source": "S7 - 火焰與冰霜的寶藏",
         "Release date": "2024-12-03",
+        "specialId": "master_plan",
         "star": 5,
         "power": 1165,
         "attack": 1184,
@@ -74419,15 +75628,15 @@ window.allHeroes =
         "family": "nidavellir",
         "image": "https://i.imgur.com/IX7uDP5.jpg",
         "costume_id": 0,
-        "originalIndex": 1145,
+        "originalIndex": 1146,
         "lb1": {
-            "power": 1247,
+            "power": 1246,
             "attack": 1276,
             "defense": 1229,
             "health": 2364
         },
         "lb2": {
-            "power": 1409,
+            "power": 1408,
             "attack": 1460,
             "defense": 1407,
             "health": 2705
@@ -74475,6 +75684,7 @@ window.allHeroes =
         ],
         "source": "傳奇召喚 - 月英",
         "Release date": "2020-12-01",
+        "specialId": "occult_redemption",
         "star": 5,
         "power": 782,
         "attack": 766,
@@ -74491,9 +75701,9 @@ window.allHeroes =
         "family": 2020,
         "image": "https://i.imgur.com/0xyk3F5.jpg",
         "costume_id": 0,
-        "originalIndex": 1146,
+        "originalIndex": 1147,
         "lb1": {
-            "power": 834,
+            "power": 833,
             "attack": 825,
             "defense": 794,
             "health": 1411
@@ -74539,6 +75749,7 @@ window.allHeroes =
         ],
         "source": "怪獸島召喚",
         "Release date": "2024-10-18",
+        "specialId": "cloak_of_feathers",
         "star": 5,
         "power": 1143,
         "attack": 1124,
@@ -74556,7 +75767,7 @@ window.allHeroes =
         "family": "plainshunter",
         "image": "https://i.imgur.com/Uu7gHck.jpg",
         "costume_id": 0,
-        "originalIndex": 1147,
+        "originalIndex": 1148,
         "lb1": {
             "power": 1223,
             "attack": 1212,
@@ -74606,6 +75817,7 @@ window.allHeroes =
         ],
         "source": "哥布林召喚",
         "Release date": "2024-03-18",
+        "specialId": "goblin_explosives",
         "star": 5,
         "power": 1020,
         "attack": 1073,
@@ -74625,7 +75837,7 @@ window.allHeroes =
         "family": "goblin",
         "image": "https://i.imgur.com/BGl8jIC.jpg",
         "costume_id": 0,
-        "originalIndex": 1148,
+        "originalIndex": 1149,
         "lb1": {
             "power": 1090,
             "attack": 1156,
@@ -74678,6 +75890,7 @@ window.allHeroes =
         ],
         "source": "神秘 - 暗影召喚",
         "Release date": "2025-04-03",
+        "specialId": "last_words",
         "star": 5,
         "power": 1182,
         "attack": 1233,
@@ -74693,15 +75906,15 @@ window.allHeroes =
         "family": "investigator",
         "image": "https://imgur.com/nHDvy8i.jpg",
         "costume_id": 0,
-        "originalIndex": 1149,
+        "originalIndex": 1150,
         "lb1": {
-            "power": 1265,
+            "power": 1264,
             "attack": 1329,
             "defense": 1249,
             "health": 2322
         },
         "lb2": {
-            "power": 1430,
+            "power": 1429,
             "attack": 1521,
             "defense": 1430,
             "health": 2656
@@ -74742,6 +75955,7 @@ window.allHeroes =
         ],
         "source": "傳奇召喚 - 月英",
         "Release date": "2023-01-01",
+        "specialId": "mana_scavange",
         "star": 5,
         "power": 819,
         "attack": 809,
@@ -74760,7 +75974,7 @@ window.allHeroes =
         "family": 2023,
         "image": "https://i.imgur.com/zCcV9K1.jpg",
         "costume_id": 0,
-        "originalIndex": 1150,
+        "originalIndex": 1151,
         "lb1": {
             "power": 873,
             "attack": 872,
@@ -74816,6 +76030,7 @@ window.allHeroes =
         ],
         "source": "怪獸島召喚",
         "Release date": "2024-06-26",
+        "specialId": "scourge_of_the_strong",
         "star": 5,
         "power": 1128,
         "attack": 1089,
@@ -74836,7 +76051,7 @@ window.allHeroes =
         "family": "plainshunter",
         "image": "https://i.imgur.com/O01zlXm.jpg",
         "costume_id": 0,
-        "originalIndex": 1151,
+        "originalIndex": 1152,
         "lb1": {
             "power": 1206,
             "attack": 1174,
@@ -74844,7 +76059,7 @@ window.allHeroes =
             "health": 2386
         },
         "lb2": {
-            "power": 1362,
+            "power": 1361,
             "attack": 1343,
             "defense": 1374,
             "health": 2730
@@ -74893,6 +76108,7 @@ window.allHeroes =
         ],
         "source": "高塔 - 忍者",
         "Release date": "2021-11-10",
+        "specialId": "crimson_calamity",
         "star": 5,
         "power": 818,
         "attack": 819,
@@ -74917,7 +76133,7 @@ window.allHeroes =
         "family": "ninja",
         "image": "https://i.imgur.com/LIQiSIc.jpg",
         "costume_id": 0,
-        "originalIndex": 1152,
+        "originalIndex": 1153,
         "lb1": {
             "power": 872,
             "attack": 883,
@@ -74925,7 +76141,7 @@ window.allHeroes =
             "health": 1554
         },
         "lb2": {
-            "power": 980,
+            "power": 979,
             "attack": 1010,
             "defense": 901,
             "health": 1778
@@ -74968,6 +76184,7 @@ window.allHeroes =
         ],
         "source": "傳奇召喚 - 月英",
         "Release date": "2021-10-01",
+        "specialId": "sure_fire_combustion",
         "star": 5,
         "power": 795,
         "attack": 795,
@@ -74986,9 +76203,9 @@ window.allHeroes =
         "family": 2021,
         "image": "https://i.imgur.com/EoY0Pni.jpg",
         "costume_id": 0,
-        "originalIndex": 1153,
+        "originalIndex": 1154,
         "lb1": {
-            "power": 847,
+            "power": 846,
             "attack": 856,
             "defense": 796,
             "health": 1425
@@ -75040,6 +76257,7 @@ window.allHeroes =
         ],
         "source": "聖約召喚",
         "Release date": "2024-08-20",
+        "specialId": "cover_slam",
         "star": 5,
         "power": 1136,
         "attack": 1116,
@@ -75057,15 +76275,15 @@ window.allHeroes =
         "family": "fox",
         "image": "https://i.imgur.com/4i0UTeY.jpg",
         "costume_id": 0,
-        "originalIndex": 1154,
+        "originalIndex": 1155,
         "lb1": {
-            "power": 1215,
+            "power": 1214,
             "attack": 1203,
             "defense": 1229,
             "health": 2317
         },
         "lb2": {
-            "power": 1372,
+            "power": 1371,
             "attack": 1376,
             "defense": 1407,
             "health": 2651
@@ -75116,6 +76334,7 @@ window.allHeroes =
         ],
         "source": "挑戰節 II",
         "Release date": "2024-12-12",
+        "specialId": "magical_balan",
         "star": 5,
         "power": 1151,
         "attack": 1252,
@@ -75135,9 +76354,9 @@ window.allHeroes =
         "family": "bard",
         "image": "https://i.imgur.com/UX2vcRH.jpg",
         "costume_id": 0,
-        "originalIndex": 1155,
+        "originalIndex": 1156,
         "lb1": {
-            "power": 1232,
+            "power": 1231,
             "attack": 1349,
             "defense": 1232,
             "health": 2069
@@ -75189,6 +76408,7 @@ window.allHeroes =
         ],
         "source": "月活動 - 冬季",
         "Release date": "2018-12-01",
+        "specialId": "ultimate_giftsack",
         "star": 5,
         "power": 774,
         "attack": 618,
@@ -75204,7 +76424,7 @@ window.allHeroes =
         "family": "christmas",
         "image": "https://i.imgur.com/gDDhARF.jpg",
         "costume_id": 0,
-        "originalIndex": 1156,
+        "originalIndex": 1157,
         "lb1": {
             "power": 825,
             "attack": 666,
@@ -75258,6 +76478,7 @@ window.allHeroes =
         ],
         "source": "月活動 - 冬季",
         "Release date": "2021-12-01",
+        "specialId": "gift_of_rock",
         "star": 5,
         "power": 1002,
         "attack": 861,
@@ -75273,15 +76494,15 @@ window.allHeroes =
         "family": "christmas",
         "image": "https://i.imgur.com/3zbVEXc.jpg",
         "costume_id": 1,
-        "originalIndex": 1157,
+        "originalIndex": 1158,
         "lb1": {
-            "power": 1071,
+            "power": 1070,
             "attack": 928,
             "defense": 1192,
             "health": 2052
         },
         "lb2": {
-            "power": 1207,
+            "power": 1206,
             "attack": 1062,
             "defense": 1363,
             "health": 2347
@@ -75329,6 +76550,7 @@ window.allHeroes =
         ],
         "source": "挑戰節 II",
         "Release date": "2021-08-05",
+        "specialId": "fracturing_slash",
         "star": 5,
         "power": 810,
         "attack": 737,
@@ -75346,7 +76568,7 @@ window.allHeroes =
         "family": "slayer",
         "image": "https://i.imgur.com/pHj3rld.jpg",
         "costume_id": 0,
-        "originalIndex": 1158,
+        "originalIndex": 1159,
         "lb1": {
             "power": 863,
             "attack": 794,
@@ -75354,7 +76576,7 @@ window.allHeroes =
             "health": 1545
         },
         "lb2": {
-            "power": 970,
+            "power": 969,
             "attack": 909,
             "defense": 998,
             "health": 1767
@@ -75403,6 +76625,7 @@ window.allHeroes =
         ],
         "source": "挑戰節 II",
         "Release date": "2024-11-14",
+        "specialId": "fracturing_cut",
         "star": 5,
         "power": 1212,
         "attack": 1028,
@@ -75421,9 +76644,9 @@ window.allHeroes =
         "family": "slayer",
         "image": "https://i.imgur.com/yHVhyhO.jpg",
         "costume_id": 1,
-        "originalIndex": 1159,
+        "originalIndex": 1160,
         "lb1": {
-            "power": 1297,
+            "power": 1296,
             "attack": 1106,
             "defense": 1483,
             "health": 2638
@@ -75477,6 +76700,7 @@ window.allHeroes =
         ],
         "source": "聖約召喚",
         "Release date": "2024-05-19",
+        "specialId": "cauterizing_touch",
         "star": 5,
         "power": 1049,
         "attack": 1046,
@@ -75496,9 +76720,9 @@ window.allHeroes =
         "family": "construct",
         "image": "https://i.imgur.com/wqf6SNR.jpg",
         "costume_id": 0,
-        "originalIndex": 1160,
+        "originalIndex": 1161,
         "lb1": {
-            "power": 1122,
+            "power": 1121,
             "attack": 1127,
             "defense": 1083,
             "health": 2135
@@ -75546,6 +76770,7 @@ window.allHeroes =
         ],
         "source": "星界召喚",
         "Release date": "2025-07-27",
+        "specialId": "light_my_fire",
         "star": 5,
         "power": 1223,
         "attack": 1271,
@@ -75564,9 +76789,9 @@ window.allHeroes =
         "family": "astraldwarfs",
         "image": "https://imgur.com/hHTFqKf.jpg",
         "costume_id": 0,
-        "originalIndex": 1161,
+        "originalIndex": 1162,
         "lb1": {
-            "power": 1309,
+            "power": 1308,
             "attack": 1369,
             "defense": 1323,
             "health": 2386
@@ -75617,6 +76842,7 @@ window.allHeroes =
         ],
         "source": "S5 - 沙丘",
         "Release date": "2022-09-01",
+        "specialId": "pounce_of_the_lioness",
         "star": 5,
         "power": 863,
         "attack": 889,
@@ -75634,15 +76860,15 @@ window.allHeroes =
         "family": "sun",
         "image": "https://i.imgur.com/8oISZes.jpg",
         "costume_id": 0,
-        "originalIndex": 1162,
+        "originalIndex": 1163,
         "lb1": {
-            "power": 921,
+            "power": 920,
             "attack": 959,
             "defense": 843,
             "health": 1602
         },
         "lb2": {
-            "power": 1036,
+            "power": 1035,
             "attack": 1097,
             "defense": 965,
             "health": 1833
@@ -75674,6 +76900,7 @@ window.allHeroes =
         ],
         "source": "S5 - 沙丘",
         "Release date": "2025-03-17",
+        "specialId": "flame_of_the_lioness",
         "star": 5,
         "power": 1206,
         "attack": 1328,
@@ -75693,9 +76920,9 @@ window.allHeroes =
         "family": "sun",
         "image": "https://i.imgur.com/ykQVLB2.jpg",
         "costume_id": 1,
-        "originalIndex": 1163,
+        "originalIndex": 1164,
         "lb1": {
-            "power": 1291,
+            "power": 1290,
             "attack": 1431,
             "defense": 1190,
             "health": 2369
@@ -75736,6 +76963,7 @@ window.allHeroes =
         ],
         "source": "高塔 - 忍者",
         "Release date": "2023-01-11",
+        "specialId": "burning_ashes",
         "star": 5,
         "power": 867,
         "attack": 916,
@@ -75760,7 +76988,7 @@ window.allHeroes =
         "family": "ninja",
         "image": "https://i.imgur.com/3lmxyeL.jpg",
         "costume_id": 0,
-        "originalIndex": 1164,
+        "originalIndex": 1165,
         "lb1": {
             "power": 925,
             "attack": 987,
@@ -75809,6 +77037,7 @@ window.allHeroes =
         ],
         "source": "傳奇召喚 - 月英",
         "Release date": "2023-06-01",
+        "specialId": "halting_counter_strike",
         "star": 5,
         "power": 824,
         "attack": 766,
@@ -75827,7 +77056,7 @@ window.allHeroes =
         "family": 2023,
         "image": "https://i.imgur.com/biXpSCt.jpg",
         "costume_id": 0,
-        "originalIndex": 1165,
+        "originalIndex": 1166,
         "lb1": {
             "power": 878,
             "attack": 825,
@@ -75835,7 +77064,7 @@ window.allHeroes =
             "health": 1613
         },
         "lb2": {
-            "power": 987,
+            "power": 986,
             "attack": 944,
             "defense": 975,
             "health": 1846
@@ -75880,6 +77109,7 @@ window.allHeroes =
         ],
         "source": "星界召喚",
         "Release date": "2023-11-21",
+        "specialId": "enchanted_elven_sword",
         "star": 5,
         "power": 1012,
         "attack": 1060,
@@ -75898,7 +77128,7 @@ window.allHeroes =
         "family": "astralelves",
         "image": "https://i.imgur.com/wnVpRMp.jpg",
         "costume_id": 0,
-        "originalIndex": 1166,
+        "originalIndex": 1167,
         "lb1": {
             "power": 1081,
             "attack": 1143,
@@ -75906,7 +77136,7 @@ window.allHeroes =
             "health": 1818
         },
         "lb2": {
-            "power": 1220,
+            "power": 1219,
             "attack": 1308,
             "defense": 1234,
             "health": 2080
@@ -75953,6 +77183,7 @@ window.allHeroes =
         ],
         "source": "三國召喚",
         "Release date": "2022-09-12",
+        "specialId": "command_to_advance",
         "star": 5,
         "power": 838,
         "attack": 791,
@@ -75967,7 +77198,7 @@ window.allHeroes =
         "family": "kingdom",
         "image": "https://i.imgur.com/EShG44Z.jpg",
         "costume_id": 0,
-        "originalIndex": 1167,
+        "originalIndex": 1168,
         "lb1": {
             "power": 894,
             "attack": 852,
@@ -75975,7 +77206,7 @@ window.allHeroes =
             "health": 1647
         },
         "lb2": {
-            "power": 1005,
+            "power": 1004,
             "attack": 975,
             "defense": 982,
             "health": 1884
@@ -76019,6 +77250,7 @@ window.allHeroes =
         ],
         "source": "三國召喚",
         "Release date": "2024-11-30",
+        "specialId": "command_to_advance_costume_fire_bat",
         "star": 5,
         "power": 1110,
         "attack": 1125,
@@ -76038,15 +77270,15 @@ window.allHeroes =
         "family": "kingdom",
         "image": "https://i.imgur.com/FrxOT5n.jpg",
         "costume_id": 1,
-        "originalIndex": 1168,
+        "originalIndex": 1169,
         "lb1": {
-            "power": 1187,
+            "power": 1186,
             "attack": 1213,
             "defense": 1098,
             "health": 2356
         },
         "lb2": {
-            "power": 1340,
+            "power": 1339,
             "attack": 1387,
             "defense": 1258,
             "health": 2695
@@ -76091,6 +77323,7 @@ window.allHeroes =
         ],
         "source": "傳奇召喚 - 月英",
         "Release date": "2022-08-01",
+        "specialId": "hunters_mark",
         "star": 5,
         "power": 810,
         "attack": 795,
@@ -76109,7 +77342,7 @@ window.allHeroes =
         "family": 2022,
         "image": "https://i.imgur.com/CooQRgw.jpg",
         "costume_id": 0,
-        "originalIndex": 1169,
+        "originalIndex": 1170,
         "lb1": {
             "power": 863,
             "attack": 856,
@@ -76117,7 +77350,7 @@ window.allHeroes =
             "health": 1536
         },
         "lb2": {
-            "power": 970,
+            "power": 969,
             "attack": 980,
             "defense": 914,
             "health": 1757
@@ -76161,6 +77394,7 @@ window.allHeroes =
         ],
         "source": "S5 - 沙丘",
         "Release date": "2022-10-27",
+        "specialId": "ancient_spell",
         "star": 5,
         "power": 864,
         "attack": 830,
@@ -76179,9 +77413,9 @@ window.allHeroes =
         "family": "moon",
         "image": "https://i.imgur.com/vkAXXiK.jpg",
         "costume_id": 0,
-        "originalIndex": 1170,
+        "originalIndex": 1171,
         "lb1": {
-            "power": 922,
+            "power": 921,
             "attack": 894,
             "defense": 870,
             "health": 1716
@@ -76229,6 +77463,7 @@ window.allHeroes =
         ],
         "source": "S5 - 沙丘",
         "Release date": "2024-05-27",
+        "specialId": "ancient_flames",
         "star": 5,
         "power": 1207,
         "attack": 1254,
@@ -76249,15 +77484,15 @@ window.allHeroes =
         "family": "moon",
         "image": "https://i.imgur.com/TVr5JnF.jpg",
         "costume_id": 1,
-        "originalIndex": 1171,
+        "originalIndex": 1172,
         "lb1": {
-            "power": 1292,
+            "power": 1291,
             "attack": 1351,
             "defense": 1212,
             "health": 2531
         },
         "lb2": {
-            "power": 1460,
+            "power": 1459,
             "attack": 1546,
             "defense": 1387,
             "health": 2895
@@ -76299,6 +77534,7 @@ window.allHeroes =
         ],
         "source": "月活動 - 斯普林維爾",
         "Release date": "2024-03-18",
+        "specialId": "adventure_awaits",
         "star": 5,
         "power": 999,
         "attack": 978,
@@ -76313,15 +77549,15 @@ window.allHeroes =
         "family": "springvale",
         "image": "https://i.imgur.com/64Tdmgl.jpg",
         "costume_id": 0,
-        "originalIndex": 1172,
+        "originalIndex": 1173,
         "lb1": {
-            "power": 1068,
+            "power": 1067,
             "attack": 1054,
             "defense": 1067,
             "health": 1964
         },
         "lb2": {
-            "power": 1204,
+            "power": 1203,
             "attack": 1206,
             "defense": 1221,
             "health": 2247
@@ -76365,6 +77601,7 @@ window.allHeroes =
         ],
         "source": "聯盟 - 騎士衝擊",
         "Release date": "2023-10-18",
+        "specialId": "mark_the_prey",
         "star": 5,
         "power": 980,
         "attack": 1034,
@@ -76381,7 +77618,7 @@ window.allHeroes =
         "family": "bear",
         "image": "https://i.imgur.com/bzqfe23.jpg",
         "costume_id": 0,
-        "originalIndex": 1173,
+        "originalIndex": 1174,
         "lb1": {
             "power": 1046,
             "attack": 1114,
@@ -76432,6 +77669,7 @@ window.allHeroes =
         ],
         "source": "S3 - 瓦爾哈拉",
         "Release date": "2020-02-28",
+        "specialId": "adamantite_claw",
         "star": 5,
         "power": 790,
         "attack": 772,
@@ -76448,7 +77686,7 @@ window.allHeroes =
         "family": "helheim",
         "image": "https://i.imgur.com/tjoH1nb.jpg",
         "costume_id": 0,
-        "originalIndex": 1174,
+        "originalIndex": 1175,
         "lb1": {
             "power": 842,
             "attack": 832,
@@ -76456,7 +77694,7 @@ window.allHeroes =
             "health": 1414
         },
         "lb2": {
-            "power": 946,
+            "power": 945,
             "attack": 952,
             "defense": 932,
             "health": 1617
@@ -76504,6 +77742,7 @@ window.allHeroes =
         ],
         "source": "S3 - 瓦爾哈拉",
         "Release date": "2023-02-13",
+        "specialId": "indestructible_claw",
         "star": 5,
         "power": 989,
         "attack": 988,
@@ -76519,7 +77758,7 @@ window.allHeroes =
         "family": "helheim",
         "image": "https://i.imgur.com/7UO34fo.jpg",
         "costume_id": 1,
-        "originalIndex": 1175,
+        "originalIndex": 1176,
         "lb1": {
             "power": 1056,
             "attack": 1064,
@@ -76527,7 +77766,7 @@ window.allHeroes =
             "health": 1908
         },
         "lb2": {
-            "power": 1191,
+            "power": 1190,
             "attack": 1218,
             "defense": 1192,
             "health": 2182
@@ -76579,6 +77818,7 @@ window.allHeroes =
         ],
         "source": "月活動 - 卡勒瓦拉",
         "Release date": "2023-08-07",
+        "specialId": "chords_of_distortion",
         "star": 5,
         "power": 917,
         "attack": 846,
@@ -76596,15 +77836,15 @@ window.allHeroes =
         "family": "kalevala",
         "image": "https://i.imgur.com/tAIchka.jpg",
         "costume_id": 0,
-        "originalIndex": 1176,
+        "originalIndex": 1177,
         "lb1": {
-            "power": 979,
+            "power": 978,
             "attack": 912,
             "defense": 1007,
             "health": 1804
         },
         "lb2": {
-            "power": 1102,
+            "power": 1101,
             "attack": 1043,
             "defense": 1153,
             "health": 2065
@@ -76650,6 +77890,7 @@ window.allHeroes =
         ],
         "source": "月活動 - 卡勒瓦拉",
         "Release date": "2024-07-22",
+        "specialId": "chords_of_inferno",
         "star": 5,
         "power": 1189,
         "attack": 1159,
@@ -76667,9 +77908,9 @@ window.allHeroes =
         "family": "kalevala",
         "image": "https://i.imgur.com/0QCrvIl.jpg",
         "costume_id": 1,
-        "originalIndex": 1177,
+        "originalIndex": 1178,
         "lb1": {
-            "power": 1272,
+            "power": 1271,
             "attack": 1248,
             "defense": 1322,
             "health": 2427
@@ -76720,6 +77961,7 @@ window.allHeroes =
         ],
         "source": "月活動 - 莫洛維亞",
         "Release date": "2020-10-26",
+        "specialId": "twilight_of_sorrow",
         "star": 5,
         "power": 795,
         "attack": 774,
@@ -76736,7 +77978,7 @@ window.allHeroes =
         "family": "morlovia",
         "image": "https://i.imgur.com/FsFObHs.jpg",
         "costume_id": 0,
-        "originalIndex": 1178,
+        "originalIndex": 1179,
         "lb1": {
             "power": 847,
             "attack": 834,
@@ -76744,7 +77986,7 @@ window.allHeroes =
             "health": 1491
         },
         "lb2": {
-            "power": 952,
+            "power": 951,
             "attack": 955,
             "defense": 906,
             "health": 1706
@@ -76788,6 +78030,7 @@ window.allHeroes =
         ],
         "source": "月活動 - 莫洛維亞",
         "Release date": "2021-10-04",
+        "specialId": "twilight_of_ruin",
         "star": 5,
         "power": 944,
         "attack": 936,
@@ -76804,9 +78047,9 @@ window.allHeroes =
         "family": "morlovia",
         "image": "https://i.imgur.com/yADk9kZ.jpg",
         "costume_id": 1,
-        "originalIndex": 1179,
+        "originalIndex": 1180,
         "lb1": {
-            "power": 1008,
+            "power": 1007,
             "attack": 1009,
             "defense": 958,
             "health": 1866
@@ -76854,6 +78097,7 @@ window.allHeroes =
         ],
         "source": "哥布林召喚",
         "Release date": "2024-04-15",
+        "specialId": "sense_of_wonder",
         "star": 5,
         "power": 1075,
         "attack": 1126,
@@ -76872,9 +78116,9 @@ window.allHeroes =
         "family": "garrisonguard",
         "image": "https://i.imgur.com/1zUxxx9.jpg",
         "costume_id": 0,
-        "originalIndex": 1180,
+        "originalIndex": 1181,
         "lb1": {
-            "power": 1149,
+            "power": 1148,
             "attack": 1214,
             "defense": 1192,
             "health": 1895
@@ -76925,6 +78169,7 @@ window.allHeroes =
         ],
         "source": "S4 - 地底荒野",
         "Release date": "2022-12-08",
+        "specialId": "xenda_special",
         "star": 5,
         "power": 852,
         "attack": 834,
@@ -76941,7 +78186,7 @@ window.allHeroes =
         "family": "underwild",
         "image": "https://i.imgur.com/pr4mBGS.jpg",
         "costume_id": 0,
-        "originalIndex": 1181,
+        "originalIndex": 1182,
         "lb1": {
             "power": 909,
             "attack": 899,
@@ -76996,6 +78241,7 @@ window.allHeroes =
         ],
         "source": "S4 - 地底荒野",
         "Release date": "2024-05-23",
+        "specialId": "xenda_special_costume",
         "star": 5,
         "power": 1081,
         "attack": 1073,
@@ -77013,7 +78259,7 @@ window.allHeroes =
         "family": "underwild",
         "image": "https://i.imgur.com/QhwvGtU.jpg",
         "costume_id": 1,
-        "originalIndex": 1182,
+        "originalIndex": 1183,
         "lb1": {
             "power": 1156,
             "attack": 1157,
@@ -77021,7 +78267,7 @@ window.allHeroes =
             "health": 2196
         },
         "lb2": {
-            "power": 1305,
+            "power": 1304,
             "attack": 1323,
             "defense": 1303,
             "health": 2512
@@ -77065,6 +78311,7 @@ window.allHeroes =
         ],
         "source": "月活動 - 農曆新年",
         "Release date": "2023-01-19",
+        "specialId": "reverse_recovery",
         "star": 5,
         "power": 862,
         "attack": 854,
@@ -77080,7 +78327,7 @@ window.allHeroes =
         "family": "lunaryear",
         "image": "https://i.imgur.com/BFeoiOp.jpg",
         "costume_id": 0,
-        "originalIndex": 1183,
+        "originalIndex": 1184,
         "lb1": {
             "power": 920,
             "attack": 921,
@@ -77126,6 +78373,7 @@ window.allHeroes =
         ],
         "source": "三國召喚",
         "Release date": "2023-10-09",
+        "specialId": "peach_of_immortality",
         "star": 5,
         "power": 947,
         "attack": 982,
@@ -77143,15 +78391,15 @@ window.allHeroes =
         "family": "journey",
         "image": "https://i.imgur.com/f2m1LGV.jpg",
         "costume_id": 0,
-        "originalIndex": 1184,
+        "originalIndex": 1185,
         "lb1": {
-            "power": 1012,
+            "power": 1011,
             "attack": 1058,
             "defense": 1032,
             "health": 1625
         },
         "lb2": {
-            "power": 1140,
+            "power": 1139,
             "attack": 1211,
             "defense": 1181,
             "health": 1859
@@ -77187,6 +78435,7 @@ window.allHeroes =
         ],
         "source": "傳奇召喚 - 月英",
         "Release date": "2021-05-01",
+        "specialId": "flaming_fury",
         "star": 5,
         "power": 790,
         "attack": 743,
@@ -77206,15 +78455,15 @@ window.allHeroes =
         "family": 2021,
         "image": "https://i.imgur.com/vzzuVpu.jpg",
         "costume_id": 0,
-        "originalIndex": 1185,
+        "originalIndex": 1186,
         "lb1": {
-            "power": 842,
+            "power": 841,
             "attack": 801,
             "defense": 821,
             "health": 1476
         },
         "lb2": {
-            "power": 945,
+            "power": 944,
             "attack": 916,
             "defense": 939,
             "health": 1689
@@ -77254,6 +78503,7 @@ window.allHeroes =
         ],
         "source": "野地召喚",
         "Release date": "2025-03-26",
+        "specialId": "captivating_illusions",
         "star": 5,
         "power": 1171,
         "attack": 1242,
@@ -77272,7 +78522,7 @@ window.allHeroes =
         "family": "woodlandfaun",
         "image": "https://imgur.com/5U97Fz9.jpg",
         "costume_id": 0,
-        "originalIndex": 1186,
+        "originalIndex": 1187,
         "lb1": {
             "power": 1252,
             "attack": 1338,
@@ -77280,7 +78530,7 @@ window.allHeroes =
             "health": 2342
         },
         "lb2": {
-            "power": 1415,
+            "power": 1414,
             "attack": 1531,
             "defense": 1353,
             "health": 2679
@@ -77325,6 +78575,7 @@ window.allHeroes =
         ],
         "source": "傳奇召喚 - 月英",
         "Release date": "2022-03-01",
+        "specialId": "indifferent_blade",
         "star": 5,
         "power": 805,
         "attack": 776,
@@ -77343,15 +78594,15 @@ window.allHeroes =
         "family": 2022,
         "image": "https://i.imgur.com/jTxW191.jpg",
         "costume_id": 0,
-        "originalIndex": 1187,
+        "originalIndex": 1188,
         "lb1": {
-            "power": 858,
+            "power": 857,
             "attack": 836,
             "defense": 814,
             "health": 1516
         },
         "lb2": {
-            "power": 964,
+            "power": 963,
             "attack": 957,
             "defense": 932,
             "health": 1734
@@ -77395,6 +78646,7 @@ window.allHeroes =
         ],
         "source": "傳奇召喚 - 月英",
         "Release date": "2024-04-01",
+        "specialId": "thousand_cuts",
         "star": 5,
         "power": 973,
         "attack": 1069,
@@ -77413,15 +78665,15 @@ window.allHeroes =
         "family": 2024,
         "image": "https://i.imgur.com/Xh5bTXR.jpg",
         "costume_id": 0,
-        "originalIndex": 1188,
+        "originalIndex": 1189,
         "lb1": {
-            "power": 1039,
+            "power": 1038,
             "attack": 1152,
             "defense": 934,
             "health": 1780
         },
         "lb2": {
-            "power": 1171,
+            "power": 1170,
             "attack": 1318,
             "defense": 1069,
             "health": 2037
@@ -77463,6 +78715,7 @@ window.allHeroes =
         ],
         "source": "超級元素",
         "Release date": "2023-10-09",
+        "specialId": "cataclysmic_divination",
         "star": 5,
         "power": 961,
         "attack": 999,
@@ -77483,15 +78736,15 @@ window.allHeroes =
         "family": "superelemental",
         "image": "https://i.imgur.com/kfVoysd.jpg",
         "costume_id": 0,
-        "originalIndex": 1189,
+        "originalIndex": 1190,
         "lb1": {
-            "power": 1026,
+            "power": 1025,
             "attack": 1076,
             "defense": 1018,
             "health": 1709
         },
         "lb2": {
-            "power": 1156,
+            "power": 1155,
             "attack": 1231,
             "defense": 1165,
             "health": 1955
@@ -77531,6 +78784,7 @@ window.allHeroes =
         ],
         "source": "S4 - 地底荒野",
         "Release date": "2021-09-09",
+        "specialId": "dual_sting",
         "star": 5,
         "power": 809,
         "attack": 824,
@@ -77546,7 +78800,7 @@ window.allHeroes =
         "family": "underwild",
         "image": "https://i.imgur.com/H6eN1G6.jpg",
         "costume_id": 0,
-        "originalIndex": 1190,
+        "originalIndex": 1191,
         "lb1": {
             "power": 862,
             "attack": 888,
@@ -77554,7 +78808,7 @@ window.allHeroes =
             "health": 1418
         },
         "lb2": {
-            "power": 969,
+            "power": 968,
             "attack": 1016,
             "defense": 932,
             "health": 1623
@@ -77595,6 +78849,7 @@ window.allHeroes =
         ],
         "source": "S4 - 地底荒野",
         "Release date": "2024-02-29",
+        "specialId": "floral_sting",
         "star": 5,
         "power": 1024,
         "attack": 1086,
@@ -77611,7 +78866,7 @@ window.allHeroes =
         "family": "underwild",
         "image": "https://i.imgur.com/lrLa3g9.jpg",
         "costume_id": 1,
-        "originalIndex": 1191,
+        "originalIndex": 1192,
         "lb1": {
             "power": 1094,
             "attack": 1171,
@@ -77658,6 +78913,7 @@ window.allHeroes =
         ],
         "source": "傳奇召喚 - 月英",
         "Release date": "2024-10-01",
+        "specialId": "trick_of_the_trade",
         "star": 5,
         "power": 1025,
         "attack": 1135,
@@ -77682,7 +78938,7 @@ window.allHeroes =
         "family": 2024,
         "image": "https://i.imgur.com/csrWBuw.jpg",
         "costume_id": 0,
-        "originalIndex": 1192,
+        "originalIndex": 1193,
         "lb1": {
             "power": 1095,
             "attack": 1223,
@@ -77690,7 +78946,7 @@ window.allHeroes =
             "health": 1778
         },
         "lb2": {
-            "power": 1235,
+            "power": 1234,
             "attack": 1399,
             "defense": 1198,
             "health": 2034
@@ -77738,6 +78994,7 @@ window.allHeroes =
         ],
         "source": "傳奇召喚 - 月英",
         "Release date": "2018-11-01",
+        "specialId": "dawn_strike",
         "star": 5,
         "power": 769,
         "attack": 714,
@@ -77753,7 +79010,7 @@ window.allHeroes =
         "family": 2018,
         "image": "https://i.imgur.com/ZnoCx4D.jpg",
         "costume_id": 0,
-        "originalIndex": 1193,
+        "originalIndex": 1194,
         "lb1": {
             "power": 819,
             "attack": 770,
@@ -77761,7 +79018,7 @@ window.allHeroes =
             "health": 1567
         },
         "lb2": {
-            "power": 920,
+            "power": 919,
             "attack": 881,
             "defense": 840,
             "health": 1793
@@ -77804,6 +79061,7 @@ window.allHeroes =
         ],
         "source": "傳奇召喚 - 月英",
         "Release date": "2023-03-20",
+        "specialId": "morning_catch",
         "star": 5,
         "power": 979,
         "attack": 908,
@@ -77821,15 +79079,15 @@ window.allHeroes =
         "family": 2018,
         "image": "https://i.imgur.com/M65Mn9a.jpg",
         "costume_id": 1,
-        "originalIndex": 1194,
+        "originalIndex": 1195,
         "lb1": {
-            "power": 1046,
+            "power": 1045,
             "attack": 979,
             "defense": 944,
             "health": 2243
         },
         "lb2": {
-            "power": 1179,
+            "power": 1178,
             "attack": 1121,
             "defense": 1080,
             "health": 2566
@@ -77868,6 +79126,7 @@ window.allHeroes =
         ],
         "source": "S1 - 經典",
         "Release date": "2017-03-01",
+        "specialId": "backstab",
         "star": 1,
         "power": 213,
         "attack": 222,
@@ -77880,7 +79139,7 @@ window.allHeroes =
         "family": null,
         "image": "https://i.imgur.com/siyozo3.jpg",
         "costume_id": 0,
-        "originalIndex": 1195,
+        "originalIndex": 1196,
         "cn_skill_info": []
     },
     {
@@ -77899,6 +79158,7 @@ window.allHeroes =
         ],
         "source": "S1 - 經典",
         "Release date": "2017-03-01",
+        "specialId": "fierce_slash",
         "star": 1,
         "power": 211,
         "attack": 205,
@@ -77911,7 +79171,7 @@ window.allHeroes =
         "family": null,
         "image": "https://i.imgur.com/C6MAFbk.jpg",
         "costume_id": 0,
-        "originalIndex": 1196,
+        "originalIndex": 1197,
         "cn_skill_info": []
     },
     {
@@ -77930,6 +79190,7 @@ window.allHeroes =
         ],
         "source": "S1 - 經典",
         "Release date": "2017-03-01",
+        "specialId": "defensive_tactics",
         "star": 2,
         "power": 336,
         "attack": 366,
@@ -77942,7 +79203,7 @@ window.allHeroes =
         "family": null,
         "image": "https://i.imgur.com/twn2sqC.jpg",
         "costume_id": 0,
-        "originalIndex": 1197,
+        "originalIndex": 1198,
         "cn_skill_info": []
     },
     {
@@ -77963,6 +79224,7 @@ window.allHeroes =
         ],
         "source": "S1 - 經典",
         "Release date": "2017-03-01",
+        "specialId": "stunning_blow",
         "star": 2,
         "power": 335,
         "attack": 331,
@@ -77976,7 +79238,7 @@ window.allHeroes =
         "family": null,
         "image": "https://i.imgur.com/HfePtEe.jpg",
         "costume_id": 0,
-        "originalIndex": 1198,
+        "originalIndex": 1199,
         "cn_skill_info": []
     },
     {
@@ -77995,6 +79257,7 @@ window.allHeroes =
         ],
         "source": "S1 - 經典",
         "Release date": "2017-03-01",
+        "specialId": "healing_chant",
         "star": 2,
         "power": 334,
         "attack": 275,
@@ -78007,7 +79270,7 @@ window.allHeroes =
         "family": null,
         "image": "https://i.imgur.com/OCarZIF.jpg",
         "costume_id": 0,
-        "originalIndex": 1199,
+        "originalIndex": 1200,
         "cn_skill_info": []
     },
     {
@@ -78027,6 +79290,7 @@ window.allHeroes =
         ],
         "source": "S3 - 瓦爾哈拉",
         "Release date": "2020-05-28",
+        "specialId": "precise_chop",
         "star": 3,
         "power": 464,
         "attack": 556,
@@ -78040,9 +79304,9 @@ window.allHeroes =
         "family": "asgard",
         "image": "https://i.imgur.com/epjHmoJ.jpg",
         "costume_id": 0,
-        "originalIndex": 1200,
+        "originalIndex": 1201,
         "lb1": {
-            "power": 518,
+            "power": 517,
             "attack": 630,
             "defense": 551,
             "health": 557
@@ -78088,6 +79352,7 @@ window.allHeroes =
         ],
         "source": "月活動 - 飛沙帝國",
         "Release date": "2018-06-21",
+        "specialId": "soldiers_curse",
         "star": 3,
         "power": 448,
         "attack": 477,
@@ -78103,7 +79368,7 @@ window.allHeroes =
         "family": "sand",
         "image": "https://i.imgur.com/N88uqSK.jpg",
         "costume_id": 0,
-        "originalIndex": 1201,
+        "originalIndex": 1202,
         "lb1": {
             "power": 500,
             "attack": 541,
@@ -78111,7 +79376,7 @@ window.allHeroes =
             "health": 807
         },
         "lb2": {
-            "power": 603,
+            "power": 602,
             "attack": 669,
             "defense": 586,
             "health": 997
@@ -78150,6 +79415,7 @@ window.allHeroes =
         ],
         "source": "S1 - 經典",
         "Release date": "2017-03-01",
+        "specialId": "harmonic_slam",
         "star": 3,
         "power": 440,
         "attack": 469,
@@ -78163,15 +79429,15 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/9aCbPHu.jpg",
         "costume_id": 0,
-        "originalIndex": 1202,
+        "originalIndex": 1203,
         "lb1": {
-            "power": 491,
+            "power": 490,
             "attack": 531,
             "defense": 464,
             "health": 786
         },
         "lb2": {
-            "power": 592,
+            "power": 591,
             "attack": 657,
             "defense": 574,
             "health": 971
@@ -78207,6 +79473,7 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2020-01-01",
+        "specialId": "harmonic_bash",
         "star": 3,
         "power": 469,
         "attack": 539,
@@ -78220,7 +79487,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/oMyq8FB.jpg",
         "costume_id": 1,
-        "originalIndex": 1203,
+        "originalIndex": 1204,
         "lb1": {
             "power": 524,
             "attack": 610,
@@ -78228,7 +79495,7 @@ window.allHeroes =
             "health": 780
         },
         "lb2": {
-            "power": 633,
+            "power": 632,
             "attack": 754,
             "defense": 603,
             "health": 963
@@ -78265,6 +79532,7 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2024-03-11",
+        "specialId": "toon_slam",
         "star": 3,
         "power": 502,
         "attack": 548,
@@ -78281,7 +79549,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/IQ13bAv.jpg",
         "costume_id": 2,
-        "originalIndex": 1204,
+        "originalIndex": 1205,
         "lb1": {
             "power": 561,
             "attack": 622,
@@ -78332,6 +79600,7 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2025-05-10",
+        "specialId": "glass_slam",
         "star": 3,
         "power": 511,
         "attack": 562,
@@ -78348,15 +79617,15 @@ window.allHeroes =
         "family": "classic",
         "image": "https://imgur.com/GXkDkIq.jpg",
         "costume_id": 3,
-        "originalIndex": 1205,
+        "originalIndex": 1206,
         "lb1": {
-            "power": 571,
+            "power": 570,
             "attack": 637,
             "defense": 518,
             "health": 984
         },
         "lb2": {
-            "power": 690,
+            "power": 689,
             "attack": 788,
             "defense": 639,
             "health": 1216
@@ -78395,6 +79664,7 @@ window.allHeroes =
         ],
         "source": "聯盟 - 騎士衝擊",
         "Release date": "2021-10-13",
+        "specialId": "magnificent_meal",
         "star": 3,
         "power": 480,
         "attack": 491,
@@ -78407,7 +79677,7 @@ window.allHeroes =
         "family": "raven",
         "image": "https://i.imgur.com/0zQumOG.jpg",
         "costume_id": 0,
-        "originalIndex": 1206,
+        "originalIndex": 1207,
         "lb1": {
             "power": 536,
             "attack": 557,
@@ -78446,6 +79716,7 @@ window.allHeroes =
         ],
         "source": "挑戰節 II",
         "Release date": "2021-06-10",
+        "specialId": "whimsical_aid",
         "star": 3,
         "power": 477,
         "attack": 465,
@@ -78459,9 +79730,9 @@ window.allHeroes =
         "family": "starfall",
         "image": "https://i.imgur.com/JMKpOq5.jpg",
         "costume_id": 0,
-        "originalIndex": 1207,
+        "originalIndex": 1208,
         "lb1": {
-            "power": 533,
+            "power": 532,
             "attack": 527,
             "defense": 553,
             "health": 918
@@ -78502,6 +79773,7 @@ window.allHeroes =
         ],
         "source": "怪獸島召喚",
         "Release date": "2023-05-06",
+        "specialId": "titanbone_chain_slash",
         "star": 3,
         "power": 487,
         "attack": 535,
@@ -78519,7 +79791,7 @@ window.allHeroes =
         "family": "junglehunter",
         "image": "https://i.imgur.com/occTuk0.jpg",
         "costume_id": 0,
-        "originalIndex": 1208,
+        "originalIndex": 1209,
         "lb1": {
             "power": 544,
             "attack": 606,
@@ -78527,7 +79799,7 @@ window.allHeroes =
             "health": 827
         },
         "lb2": {
-            "power": 658,
+            "power": 657,
             "attack": 749,
             "defense": 669,
             "health": 1022
@@ -78569,6 +79841,7 @@ window.allHeroes =
         ],
         "source": "神秘 - 暗影召喚",
         "Release date": "2025-01-09",
+        "specialId": "brain_link",
         "star": 3,
         "power": 501,
         "attack": 486,
@@ -78583,7 +79856,7 @@ window.allHeroes =
         "family": "cultist",
         "image": "https://i.imgur.com/I6zT7jd.jpg",
         "costume_id": 0,
-        "originalIndex": 1209,
+        "originalIndex": 1210,
         "lb1": {
             "power": 559,
             "attack": 551,
@@ -78591,7 +79864,7 @@ window.allHeroes =
             "health": 1095
         },
         "lb2": {
-            "power": 676,
+            "power": 675,
             "attack": 681,
             "defense": 654,
             "health": 1353
@@ -78627,6 +79900,7 @@ window.allHeroes =
         ],
         "source": "S1 - 經典",
         "Release date": "2017-03-01",
+        "specialId": "leaping_attack",
         "star": 3,
         "power": 440,
         "attack": 488,
@@ -78639,7 +79913,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/p1FG8Av.jpg",
         "costume_id": 0,
-        "originalIndex": 1210,
+        "originalIndex": 1211,
         "lb1": {
             "power": 490,
             "attack": 553,
@@ -78678,6 +79952,7 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2021-01-18",
+        "specialId": "pounding_attack",
         "star": 3,
         "power": 469,
         "attack": 537,
@@ -78691,9 +79966,9 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/4JD88JW.jpg",
         "costume_id": 1,
-        "originalIndex": 1211,
+        "originalIndex": 1212,
         "lb1": {
-            "power": 524,
+            "power": 523,
             "attack": 608,
             "defense": 488,
             "health": 782
@@ -78735,6 +80010,7 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2024-08-11",
+        "specialId": "toon_attack",
         "star": 3,
         "power": 502,
         "attack": 537,
@@ -78750,7 +80026,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/O05gU50.jpg",
         "costume_id": 2,
-        "originalIndex": 1212,
+        "originalIndex": 1213,
         "lb1": {
             "power": 561,
             "attack": 608,
@@ -78797,6 +80073,7 @@ window.allHeroes =
         ],
         "source": "月活動 - 海灘派對",
         "Release date": "2023-06-12",
+        "specialId": "sunscreen_blast",
         "star": 3,
         "power": 486,
         "attack": 524,
@@ -78814,9 +80091,9 @@ window.allHeroes =
         "family": "beachparty",
         "image": "https://i.imgur.com/0vQaoVS.jpg",
         "costume_id": 0,
-        "originalIndex": 1213,
+        "originalIndex": 1214,
         "lb1": {
-            "power": 543,
+            "power": 542,
             "attack": 594,
             "defense": 555,
             "health": 819
@@ -78861,6 +80138,7 @@ window.allHeroes =
         ],
         "source": "怪獸島召喚",
         "Release date": "2022-10-15",
+        "specialId": "nomadic_hymn",
         "star": 3,
         "power": 484,
         "attack": 436,
@@ -78877,7 +80155,7 @@ window.allHeroes =
         "family": "plainshunter",
         "image": "https://i.imgur.com/BfXS6GU.jpg",
         "costume_id": 0,
-        "originalIndex": 1214,
+        "originalIndex": 1215,
         "lb1": {
             "power": 540,
             "attack": 494,
@@ -78885,7 +80163,7 @@ window.allHeroes =
             "health": 1004
         },
         "lb2": {
-            "power": 652,
+            "power": 651,
             "attack": 610,
             "defense": 713,
             "health": 1241
@@ -78929,6 +80207,7 @@ window.allHeroes =
         ],
         "source": "聯盟 - 火槍手",
         "Release date": "2023-03-08",
+        "specialId": "covert_stab",
         "star": 3,
         "power": 486,
         "attack": 537,
@@ -78946,9 +80225,9 @@ window.allHeroes =
         "family": "musketeer",
         "image": "https://i.imgur.com/KO2VqaC.jpg",
         "costume_id": 0,
-        "originalIndex": 1215,
+        "originalIndex": 1216,
         "lb1": {
-            "power": 543,
+            "power": 542,
             "attack": 608,
             "defense": 579,
             "health": 734
@@ -78996,6 +80275,7 @@ window.allHeroes =
         ],
         "source": "S1 - 經典",
         "Release date": "2017-03-01",
+        "specialId": "mystic_chop",
         "star": 3,
         "power": 443,
         "attack": 467,
@@ -79009,9 +80289,9 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/Eor4cBc.jpg",
         "costume_id": 0,
-        "originalIndex": 1216,
+        "originalIndex": 1217,
         "lb1": {
-            "power": 494,
+            "power": 493,
             "attack": 529,
             "defense": 411,
             "health": 919
@@ -79053,6 +80333,7 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2021-01-18",
+        "specialId": "rural_chop",
         "star": 3,
         "power": 474,
         "attack": 529,
@@ -79066,7 +80347,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/UfGiJQd.jpg",
         "costume_id": 1,
-        "originalIndex": 1217,
+        "originalIndex": 1218,
         "lb1": {
             "power": 530,
             "attack": 600,
@@ -79074,7 +80355,7 @@ window.allHeroes =
             "health": 965
         },
         "lb2": {
-            "power": 640,
+            "power": 639,
             "attack": 741,
             "defense": 530,
             "health": 1193
@@ -79111,6 +80392,7 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2023-12-25",
+        "specialId": "toon_chop",
         "star": 3,
         "power": 507,
         "attack": 539,
@@ -79127,7 +80409,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/IOY3xaA.jpg",
         "costume_id": 2,
-        "originalIndex": 1218,
+        "originalIndex": 1219,
         "lb1": {
             "power": 566,
             "attack": 610,
@@ -79135,7 +80417,7 @@ window.allHeroes =
             "health": 1102
         },
         "lb2": {
-            "power": 685,
+            "power": 684,
             "attack": 755,
             "defense": 589,
             "health": 1363
@@ -79174,6 +80456,7 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2024-12-25",
+        "specialId": "glass_chop",
         "star": 3,
         "power": 516,
         "attack": 552,
@@ -79190,9 +80473,9 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/yqqbcRa.jpg",
         "costume_id": 3,
-        "originalIndex": 1219,
+        "originalIndex": 1220,
         "lb1": {
-            "power": 577,
+            "power": 576,
             "attack": 625,
             "defense": 483,
             "health": 1128
@@ -79236,6 +80519,7 @@ window.allHeroes =
         ],
         "source": "S6 - 深淵謎團",
         "Release date": "2023-07-05",
+        "specialId": "dubious_merchandise",
         "star": 3,
         "power": 486,
         "attack": 510,
@@ -79258,7 +80542,7 @@ window.allHeroes =
         "family": "defendersofatlantis",
         "image": "https://i.imgur.com/ne5YJve.jpg",
         "costume_id": 0,
-        "originalIndex": 1220,
+        "originalIndex": 1221,
         "lb1": {
             "power": 543,
             "attack": 579,
@@ -79266,7 +80550,7 @@ window.allHeroes =
             "health": 898
         },
         "lb2": {
-            "power": 656,
+            "power": 655,
             "attack": 715,
             "defense": 662,
             "health": 1109
@@ -79303,6 +80587,7 @@ window.allHeroes =
         ],
         "source": "S6 - 深淵謎團",
         "Release date": "2025-02-03",
+        "specialId": "dubious_mixture",
         "star": 3,
         "power": 497,
         "attack": 449,
@@ -79326,9 +80611,9 @@ window.allHeroes =
         "family": "defendersofatlantis",
         "image": "https://i.imgur.com/frMuxcb.jpg",
         "costume_id": 1,
-        "originalIndex": 1221,
+        "originalIndex": 1222,
         "lb1": {
-            "power": 556,
+            "power": 555,
             "attack": 510,
             "defense": 638,
             "health": 954
@@ -79374,6 +80659,7 @@ window.allHeroes =
         ],
         "source": "月活動 - 冬季",
         "Release date": "2023-12-01",
+        "specialId": "birch_blessing",
         "star": 3,
         "power": 487,
         "attack": 451,
@@ -79389,9 +80675,9 @@ window.allHeroes =
         "family": "christmas",
         "image": "https://i.imgur.com/G067kns.jpg",
         "costume_id": 0,
-        "originalIndex": 1222,
+        "originalIndex": 1223,
         "lb1": {
-            "power": 544,
+            "power": 543,
             "attack": 512,
             "defense": 525,
             "health": 1089
@@ -79439,6 +80725,7 @@ window.allHeroes =
         ],
         "source": "S1 - 經典",
         "Release date": "2017-03-01",
+        "specialId": "stone_skin",
         "star": 3,
         "power": 444,
         "attack": 429,
@@ -79452,9 +80739,9 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/h7fAkgX.jpg",
         "costume_id": 0,
-        "originalIndex": 1223,
+        "originalIndex": 1224,
         "lb1": {
-            "power": 495,
+            "power": 494,
             "attack": 486,
             "defense": 514,
             "health": 827
@@ -79492,6 +80779,7 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2021-01-18",
+        "specialId": "spirit_rally",
         "star": 3,
         "power": 473,
         "attack": 431,
@@ -79505,9 +80793,9 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/OOF8ysq.jpg",
         "costume_id": 1,
-        "originalIndex": 1224,
+        "originalIndex": 1225,
         "lb1": {
-            "power": 529,
+            "power": 528,
             "attack": 488,
             "defense": 574,
             "health": 944
@@ -79545,6 +80833,7 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2024-02-12",
+        "specialId": "toontastic_link",
         "star": 3,
         "power": 506,
         "attack": 491,
@@ -79560,7 +80849,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/6HNw9i7.jpg",
         "costume_id": 2,
-        "originalIndex": 1225,
+        "originalIndex": 1226,
         "lb1": {
             "power": 565,
             "attack": 556,
@@ -79603,6 +80892,7 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2025-03-11",
+        "specialId": "glass_link",
         "star": 3,
         "power": 514,
         "attack": 485,
@@ -79619,7 +80909,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/jRBcqpn.jpg",
         "costume_id": 3,
-        "originalIndex": 1226,
+        "originalIndex": 1227,
         "lb1": {
             "power": 574,
             "attack": 549,
@@ -79627,7 +80917,7 @@ window.allHeroes =
             "health": 1023
         },
         "lb2": {
-            "power": 695,
+            "power": 694,
             "attack": 679,
             "defense": 768,
             "health": 1263
@@ -79658,6 +80948,7 @@ window.allHeroes =
         ],
         "source": "高塔 - 忍者",
         "Release date": "2023-01-11",
+        "specialId": "lightning_stream",
         "star": 3,
         "power": 486,
         "attack": 543,
@@ -79679,7 +80970,7 @@ window.allHeroes =
         "family": "ninja",
         "image": "https://i.imgur.com/X6RI3nP.jpg",
         "costume_id": 0,
-        "originalIndex": 1227,
+        "originalIndex": 1228,
         "lb1": {
             "power": 543,
             "attack": 616,
@@ -79687,7 +80978,7 @@ window.allHeroes =
             "health": 711
         },
         "lb2": {
-            "power": 656,
+            "power": 655,
             "attack": 761,
             "defense": 720,
             "health": 878
@@ -79719,6 +81010,7 @@ window.allHeroes =
         ],
         "source": "S3 - 瓦爾哈拉",
         "Release date": "2020-02-27",
+        "specialId": "bee_bravado",
         "star": 3,
         "power": 461,
         "attack": 429,
@@ -79734,15 +81026,15 @@ window.allHeroes =
         "family": "alfheim",
         "image": "https://i.imgur.com/iXRJ2NZ.jpg",
         "costume_id": 0,
-        "originalIndex": 1228,
+        "originalIndex": 1229,
         "lb1": {
-            "power": 515,
+            "power": 514,
             "attack": 486,
             "defense": 480,
             "health": 1038
         },
         "lb2": {
-            "power": 621,
+            "power": 620,
             "attack": 601,
             "defense": 593,
             "health": 1282
@@ -79784,6 +81076,7 @@ window.allHeroes =
         ],
         "source": "S3 - 瓦爾哈拉",
         "Release date": "2022-07-04",
+        "specialId": "bee_bombast",
         "star": 3,
         "power": 477,
         "attack": 429,
@@ -79799,7 +81092,7 @@ window.allHeroes =
         "family": "alfheim",
         "image": "https://i.imgur.com/3EEFeIL.jpg",
         "costume_id": 1,
-        "originalIndex": 1229,
+        "originalIndex": 1230,
         "lb1": {
             "power": 532,
             "attack": 486,
@@ -79807,7 +81100,7 @@ window.allHeroes =
             "health": 1118
         },
         "lb2": {
-            "power": 643,
+            "power": 642,
             "attack": 601,
             "defense": 621,
             "health": 1382
@@ -79849,6 +81142,7 @@ window.allHeroes =
         ],
         "source": "S2 - 亞特蘭蒂斯",
         "Release date": "2019-08-01",
+        "specialId": "atlantean_blade",
         "star": 3,
         "power": 450,
         "attack": 505,
@@ -79862,15 +81156,15 @@ window.allHeroes =
         "family": "atlantis",
         "image": "https://i.imgur.com/4LFidrS.jpg",
         "costume_id": 0,
-        "originalIndex": 1230,
+        "originalIndex": 1231,
         "lb1": {
-            "power": 503,
+            "power": 502,
             "attack": 573,
             "defense": 459,
             "health": 776
         },
         "lb2": {
-            "power": 606,
+            "power": 605,
             "attack": 708,
             "defense": 567,
             "health": 958
@@ -79906,6 +81200,7 @@ window.allHeroes =
         ],
         "source": "S2 - 亞特蘭蒂斯",
         "Release date": "2022-05-02",
+        "specialId": "atlantean_blade_costume",
         "star": 3,
         "power": 464,
         "attack": 534,
@@ -79919,7 +81214,7 @@ window.allHeroes =
         "family": "atlantis",
         "image": "https://i.imgur.com/M7NWE48.jpg",
         "costume_id": 1,
-        "originalIndex": 1231,
+        "originalIndex": 1232,
         "lb1": {
             "power": 518,
             "attack": 606,
@@ -79927,7 +81222,7 @@ window.allHeroes =
             "health": 803
         },
         "lb2": {
-            "power": 625,
+            "power": 624,
             "attack": 748,
             "defense": 568,
             "health": 993
@@ -79965,6 +81260,7 @@ window.allHeroes =
         ],
         "source": "高塔 - 貓頭鷹",
         "Release date": "2023-12-20",
+        "specialId": "owls_blessing",
         "star": 3,
         "power": 489,
         "attack": 432,
@@ -79981,15 +81277,15 @@ window.allHeroes =
         "family": "owl",
         "image": "https://i.imgur.com/R9551ZQ.jpg",
         "costume_id": 0,
-        "originalIndex": 1232,
+        "originalIndex": 1233,
         "lb1": {
-            "power": 546,
+            "power": 545,
             "attack": 490,
             "defense": 604,
             "health": 1002
         },
         "lb2": {
-            "power": 660,
+            "power": 659,
             "attack": 606,
             "defense": 747,
             "health": 1238
@@ -80022,6 +81318,7 @@ window.allHeroes =
         ],
         "source": "挑戰節 I",
         "Release date": "2019-12-01",
+        "specialId": "pixie_dust",
         "star": 3,
         "power": 455,
         "attack": 427,
@@ -80035,7 +81332,7 @@ window.allHeroes =
         "family": "grimforest",
         "image": "https://i.imgur.com/jFlvi1a.jpg",
         "costume_id": 0,
-        "originalIndex": 1233,
+        "originalIndex": 1234,
         "lb1": {
             "power": 507,
             "attack": 484,
@@ -80078,6 +81375,7 @@ window.allHeroes =
         ],
         "source": "S4 - 地底荒野",
         "Release date": "2021-03-25",
+        "specialId": "ricochet_bolt",
         "star": 3,
         "power": 478,
         "attack": 497,
@@ -80093,9 +81391,9 @@ window.allHeroes =
         "family": "underwild",
         "image": "https://i.imgur.com/pxiscDG.jpg",
         "costume_id": 0,
-        "originalIndex": 1234,
+        "originalIndex": 1235,
         "lb1": {
-            "power": 534,
+            "power": 533,
             "attack": 563,
             "defense": 514,
             "health": 912
@@ -80132,6 +81430,7 @@ window.allHeroes =
         ],
         "source": "S4 - 地底荒野",
         "Release date": "2024-02-29",
+        "specialId": "drowsy_bolt",
         "star": 3,
         "power": 488,
         "attack": 510,
@@ -80147,9 +81446,9 @@ window.allHeroes =
         "family": "underwild",
         "image": "https://i.imgur.com/nCfovhZ.jpg",
         "costume_id": 1,
-        "originalIndex": 1235,
+        "originalIndex": 1236,
         "lb1": {
-            "power": 546,
+            "power": 545,
             "attack": 578,
             "defense": 522,
             "health": 944
@@ -80187,6 +81486,7 @@ window.allHeroes =
         ],
         "source": "S5 - 沙丘",
         "Release date": "2022-04-21",
+        "specialId": "puzzling_riddle",
         "star": 3,
         "power": 483,
         "attack": 470,
@@ -80204,15 +81504,15 @@ window.allHeroes =
         "family": "sun",
         "image": "https://i.imgur.com/nkaWucV.jpg",
         "costume_id": 0,
-        "originalIndex": 1236,
+        "originalIndex": 1237,
         "lb1": {
-            "power": 539,
+            "power": 538,
             "attack": 533,
             "defense": 559,
             "health": 935
         },
         "lb2": {
-            "power": 651,
+            "power": 650,
             "attack": 659,
             "defense": 691,
             "health": 1156
@@ -80249,6 +81549,7 @@ window.allHeroes =
         ],
         "source": "S5 - 沙丘",
         "Release date": "2025-02-17",
+        "specialId": "puzzling_paint",
         "star": 3,
         "power": 494,
         "attack": 492,
@@ -80268,15 +81569,15 @@ window.allHeroes =
         "family": "sun",
         "image": "https://i.imgur.com/K31ZD8P.jpg",
         "costume_id": 1,
-        "originalIndex": 1237,
+        "originalIndex": 1238,
         "lb1": {
-            "power": 552,
+            "power": 551,
             "attack": 557,
             "defense": 562,
             "health": 962
         },
         "lb2": {
-            "power": 667,
+            "power": 666,
             "attack": 689,
             "defense": 694,
             "health": 1188
@@ -80315,6 +81616,7 @@ window.allHeroes =
         ],
         "source": "挑戰節 II",
         "Release date": "2022-11-03",
+        "specialId": "amphibian_sword_sting",
         "star": 3,
         "power": 484,
         "attack": 486,
@@ -80332,15 +81634,15 @@ window.allHeroes =
         "family": "pets",
         "image": "https://i.imgur.com/2fpNcNU.jpg",
         "costume_id": 0,
-        "originalIndex": 1238,
+        "originalIndex": 1239,
         "lb1": {
-            "power": 541,
+            "power": 540,
             "attack": 551,
             "defense": 567,
             "health": 886
         },
         "lb2": {
-            "power": 653,
+            "power": 652,
             "attack": 681,
             "defense": 700,
             "health": 1095
@@ -80385,6 +81687,7 @@ window.allHeroes =
         ],
         "source": "聖約召喚",
         "Release date": "2024-04-25",
+        "specialId": "swooping_support",
         "star": 3,
         "power": 495,
         "attack": 495,
@@ -80405,15 +81708,15 @@ window.allHeroes =
         "family": "construct",
         "image": "https://i.imgur.com/OFz97hb.jpg",
         "costume_id": 0,
-        "originalIndex": 1239,
+        "originalIndex": 1240,
         "lb1": {
-            "power": 554,
+            "power": 553,
             "attack": 561,
             "defense": 577,
             "health": 933
         },
         "lb2": {
-            "power": 669,
+            "power": 668,
             "attack": 693,
             "defense": 713,
             "health": 1153
@@ -80449,6 +81752,7 @@ window.allHeroes =
         ],
         "source": "挑戰節 I",
         "Release date": "2021-12-15",
+        "specialId": "piercing_sabre",
         "star": 3,
         "power": 481,
         "attack": 484,
@@ -80462,7 +81766,7 @@ window.allHeroes =
         "family": "corellia",
         "image": "https://i.imgur.com/wpH6Nrx.jpg",
         "costume_id": 0,
-        "originalIndex": 1240,
+        "originalIndex": 1241,
         "lb1": {
             "power": 537,
             "attack": 549,
@@ -80470,7 +81774,7 @@ window.allHeroes =
             "health": 941
         },
         "lb2": {
-            "power": 649,
+            "power": 648,
             "attack": 679,
             "defense": 654,
             "health": 1163
@@ -80504,6 +81808,7 @@ window.allHeroes =
         ],
         "source": "野地召喚",
         "Release date": "2024-08-31",
+        "specialId": "rejuvenating_leap",
         "star": 3,
         "power": 496,
         "attack": 535,
@@ -80522,7 +81827,7 @@ window.allHeroes =
         "family": "woodlandfaun",
         "image": "https://i.imgur.com/GNLbvP6.jpg",
         "costume_id": 0,
-        "originalIndex": 1241,
+        "originalIndex": 1242,
         "lb1": {
             "power": 553,
             "attack": 606,
@@ -80530,7 +81835,7 @@ window.allHeroes =
             "health": 896
         },
         "lb2": {
-            "power": 669,
+            "power": 668,
             "attack": 749,
             "defense": 666,
             "health": 1107
@@ -80570,6 +81875,7 @@ window.allHeroes =
         ],
         "source": "挑戰 - 貝武夫",
         "Release date": "2025-02-13",
+        "specialId": "wise_mans_counsel",
         "star": 4,
         "power": 722,
         "attack": 709,
@@ -80590,7 +81896,7 @@ window.allHeroes =
         "family": "beowulf",
         "image": "https://i.imgur.com/b8raA4w.jpg",
         "costume_id": 0,
-        "originalIndex": 1242,
+        "originalIndex": 1243,
         "lb1": {
             "power": 778,
             "attack": 771,
@@ -80598,7 +81904,7 @@ window.allHeroes =
             "health": 1422
         },
         "lb2": {
-            "power": 889,
+            "power": 888,
             "attack": 894,
             "defense": 928,
             "health": 1649
@@ -80639,6 +81945,7 @@ window.allHeroes =
         ],
         "source": "高塔 - 魔法",
         "Release date": "2021-09-15",
+        "specialId": "cheerful_charm",
         "star": 4,
         "power": 678,
         "attack": 667,
@@ -80659,7 +81966,7 @@ window.allHeroes =
         "family": "magic",
         "image": "https://i.imgur.com/ADu9siF.jpg",
         "costume_id": 0,
-        "originalIndex": 1243,
+        "originalIndex": 1244,
         "lb1": {
             "power": 730,
             "attack": 725,
@@ -80667,7 +81974,7 @@ window.allHeroes =
             "health": 1433
         },
         "lb2": {
-            "power": 833,
+            "power": 832,
             "attack": 840,
             "defense": 789,
             "health": 1662
@@ -80704,6 +82011,7 @@ window.allHeroes =
         ],
         "source": "挑戰 - 石像鬼",
         "Release date": "2022-05-12",
+        "specialId": "sanction_for_heresy",
         "star": 4,
         "power": 682,
         "attack": 699,
@@ -80719,7 +82027,7 @@ window.allHeroes =
         "family": "gargoyle",
         "image": "https://i.imgur.com/VIPkm6l.jpg",
         "costume_id": 0,
-        "originalIndex": 1244,
+        "originalIndex": 1245,
         "lb1": {
             "power": 734,
             "attack": 759,
@@ -80727,7 +82035,7 @@ window.allHeroes =
             "health": 1369
         },
         "lb2": {
-            "power": 838,
+            "power": 837,
             "attack": 880,
             "defense": 795,
             "health": 1587
@@ -80765,6 +82073,7 @@ window.allHeroes =
         ],
         "source": "怪獸島召喚",
         "Release date": "2022-12-24",
+        "specialId": "bone_club_clonk",
         "star": 4,
         "power": 686,
         "attack": 652,
@@ -80781,7 +82090,7 @@ window.allHeroes =
         "family": "abysshunter",
         "image": "https://i.imgur.com/Z4N4G0e.jpg",
         "costume_id": 0,
-        "originalIndex": 1245,
+        "originalIndex": 1246,
         "lb1": {
             "power": 738,
             "attack": 708,
@@ -80825,6 +82134,7 @@ window.allHeroes =
         ],
         "source": "S1 - 經典",
         "Release date": "2017-03-01",
+        "specialId": "tactical_cut",
         "star": 4,
         "power": 642,
         "attack": 607,
@@ -80838,7 +82148,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/akseq6D.jpg",
         "costume_id": 0,
-        "originalIndex": 1246,
+        "originalIndex": 1247,
         "lb1": {
             "power": 691,
             "attack": 660,
@@ -80846,7 +82156,7 @@ window.allHeroes =
             "health": 1212
         },
         "lb2": {
-            "power": 788,
+            "power": 787,
             "attack": 765,
             "defense": 851,
             "health": 1405
@@ -80883,6 +82193,7 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2021-01-18",
+        "specialId": "strategic_slash",
         "star": 4,
         "power": 686,
         "attack": 685,
@@ -80896,7 +82207,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/iiLBfC1.jpg",
         "costume_id": 1,
-        "originalIndex": 1247,
+        "originalIndex": 1248,
         "lb1": {
             "power": 739,
             "attack": 745,
@@ -80940,6 +82251,7 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2023-10-30",
+        "specialId": "cub_leader_cut",
         "star": 4,
         "power": 733,
         "attack": 776,
@@ -80953,9 +82265,9 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/AhEe43s.jpg",
         "costume_id": 2,
-        "originalIndex": 1248,
+        "originalIndex": 1249,
         "lb1": {
-            "power": 790,
+            "power": 789,
             "attack": 844,
             "defense": 767,
             "health": 1390
@@ -80998,6 +82310,7 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2024-06-28",
+        "specialId": "adorable_tactical_cut",
         "star": 4,
         "power": 745,
         "attack": 807,
@@ -81014,9 +82327,9 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/SdLEIc0.jpg",
         "costume_id": 3,
-        "originalIndex": 1249,
+        "originalIndex": 1250,
         "lb1": {
-            "power": 803,
+            "power": 802,
             "attack": 877,
             "defense": 764,
             "health": 1407
@@ -81061,6 +82374,7 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2025-07-16",
+        "specialId": "glass_cut_chao",
         "star": 4,
         "power": 757,
         "attack": 841,
@@ -81077,7 +82391,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://imgur.com/s68xCDI.jpg",
         "costume_id": 4,
-        "originalIndex": 1250,
+        "originalIndex": 1251,
         "lb1": {
             "power": 815,
             "attack": 913,
@@ -81128,6 +82442,7 @@ window.allHeroes =
         ],
         "source": "挑戰節 II",
         "Release date": "2021-06-10",
+        "specialId": "vitalizing_show",
         "star": 4,
         "power": 676,
         "attack": 629,
@@ -81142,15 +82457,15 @@ window.allHeroes =
         "family": "starfall",
         "image": "https://i.imgur.com/XnqMU7V.jpg",
         "costume_id": 0,
-        "originalIndex": 1251,
+        "originalIndex": 1252,
         "lb1": {
-            "power": 728,
+            "power": 727,
             "attack": 683,
             "defense": 692,
             "health": 1500
         },
         "lb2": {
-            "power": 831,
+            "power": 830,
             "attack": 792,
             "defense": 803,
             "health": 1740
@@ -81189,6 +82504,7 @@ window.allHeroes =
         ],
         "source": "S2 - 亞特蘭蒂斯",
         "Release date": "2019-08-01",
+        "specialId": "tricksters_exchange",
         "star": 4,
         "power": 652,
         "attack": 622,
@@ -81210,7 +82526,7 @@ window.allHeroes =
         "family": "sakura",
         "image": "https://i.imgur.com/jP1BF2A.jpg",
         "costume_id": 0,
-        "originalIndex": 1252,
+        "originalIndex": 1253,
         "lb1": {
             "power": 701,
             "attack": 676,
@@ -81218,7 +82534,7 @@ window.allHeroes =
             "health": 1329
         },
         "lb2": {
-            "power": 800,
+            "power": 799,
             "attack": 784,
             "defense": 803,
             "health": 1541
@@ -81269,6 +82585,7 @@ window.allHeroes =
         ],
         "source": "S2 - 亞特蘭蒂斯",
         "Release date": "2023-02-06",
+        "specialId": "amazing_deals",
         "star": 4,
         "power": 674,
         "attack": 609,
@@ -81290,9 +82607,9 @@ window.allHeroes =
         "family": "sakura",
         "image": "https://i.imgur.com/HppFUSU.jpg",
         "costume_id": 1,
-        "originalIndex": 1253,
+        "originalIndex": 1254,
         "lb1": {
-            "power": 726,
+            "power": 725,
             "attack": 663,
             "defense": 725,
             "health": 1468
@@ -81349,6 +82666,7 @@ window.allHeroes =
         ],
         "source": "星界召喚",
         "Release date": "2025-06-04",
+        "specialId": "mischievous_tiein",
         "star": 4,
         "power": 742,
         "attack": 722,
@@ -81366,7 +82684,7 @@ window.allHeroes =
         "family": "astraldwarfs",
         "image": "https://imgur.com/iOji58B.jpg",
         "costume_id": 0,
-        "originalIndex": 1254,
+        "originalIndex": 1255,
         "lb1": {
             "power": 799,
             "attack": 785,
@@ -81374,7 +82692,7 @@ window.allHeroes =
             "health": 1436
         },
         "lb2": {
-            "power": 913,
+            "power": 912,
             "attack": 910,
             "defense": 987,
             "health": 1665
@@ -81416,6 +82734,7 @@ window.allHeroes =
         ],
         "source": "S7 - 火焰與冰霜的寶藏",
         "Release date": "2024-12-03",
+        "specialId": "poetic_justice",
         "star": 4,
         "power": 707,
         "attack": 718,
@@ -81436,7 +82755,7 @@ window.allHeroes =
         "family": "nidavellir",
         "image": "https://i.imgur.com/iXEEsKX.jpg",
         "costume_id": 0,
-        "originalIndex": 1255,
+        "originalIndex": 1256,
         "lb1": {
             "power": 761,
             "attack": 780,
@@ -81444,7 +82763,7 @@ window.allHeroes =
             "health": 1369
         },
         "lb2": {
-            "power": 869,
+            "power": 868,
             "attack": 904,
             "defense": 875,
             "health": 1587
@@ -81489,6 +82808,7 @@ window.allHeroes =
         ],
         "source": "哥布林召喚",
         "Release date": "2023-09-18",
+        "specialId": "magic_mirror_of_power",
         "star": 4,
         "power": 688,
         "attack": 643,
@@ -81507,7 +82827,7 @@ window.allHeroes =
         "family": "goblin",
         "image": "https://i.imgur.com/9Zjrelm.jpg",
         "costume_id": 0,
-        "originalIndex": 1256,
+        "originalIndex": 1257,
         "lb1": {
             "power": 741,
             "attack": 699,
@@ -81515,7 +82835,7 @@ window.allHeroes =
             "health": 1383
         },
         "lb2": {
-            "power": 846,
+            "power": 845,
             "attack": 811,
             "defense": 902,
             "health": 1603
@@ -81553,6 +82873,7 @@ window.allHeroes =
         ],
         "source": "挑戰節 I",
         "Release date": "2018-06-01",
+        "specialId": "witch_slayer",
         "star": 4,
         "power": 646,
         "attack": 703,
@@ -81567,7 +82888,7 @@ window.allHeroes =
         "family": "grimforest",
         "image": "https://i.imgur.com/cq0lzx6.jpg",
         "costume_id": 0,
-        "originalIndex": 1257,
+        "originalIndex": 1258,
         "lb1": {
             "power": 695,
             "attack": 764,
@@ -81616,6 +82937,7 @@ window.allHeroes =
         ],
         "source": "S4 - 地底荒野",
         "Release date": "2021-03-25",
+        "specialId": "invisible_strike",
         "star": 4,
         "power": 677,
         "attack": 739,
@@ -81631,7 +82953,7 @@ window.allHeroes =
         "family": "underwild",
         "image": "https://i.imgur.com/MRV1QX0.jpg",
         "costume_id": 0,
-        "originalIndex": 1258,
+        "originalIndex": 1259,
         "lb1": {
             "power": 729,
             "attack": 803,
@@ -81639,7 +82961,7 @@ window.allHeroes =
             "health": 1205
         },
         "lb2": {
-            "power": 832,
+            "power": 831,
             "attack": 931,
             "defense": 805,
             "health": 1397
@@ -81675,6 +82997,7 @@ window.allHeroes =
         ],
         "source": "S4 - 地底荒野",
         "Release date": "2023-11-09",
+        "specialId": "divine_lunge",
         "star": 4,
         "power": 692,
         "attack": 757,
@@ -81690,15 +83013,15 @@ window.allHeroes =
         "family": "underwild",
         "image": "https://i.imgur.com/bhRfq5i.jpg",
         "costume_id": 1,
-        "originalIndex": 1259,
+        "originalIndex": 1260,
         "lb1": {
-            "power": 746,
+            "power": 745,
             "attack": 824,
             "defense": 727,
             "health": 1207
         },
         "lb2": {
-            "power": 851,
+            "power": 850,
             "attack": 954,
             "defense": 843,
             "health": 1399
@@ -81737,6 +83060,7 @@ window.allHeroes =
         ],
         "source": "三國召喚",
         "Release date": "2025-05-22",
+        "specialId": "intimidating_stance",
         "star": 4,
         "power": 737,
         "attack": 750,
@@ -81759,9 +83083,9 @@ window.allHeroes =
         "family": "outlaws",
         "image": "https://imgur.com/rTKzhQE.jpg",
         "costume_id": 0,
-        "originalIndex": 1260,
+        "originalIndex": 1261,
         "lb1": {
-            "power": 795,
+            "power": 794,
             "attack": 815,
             "defense": 785,
             "health": 1461
@@ -81809,6 +83133,7 @@ window.allHeroes =
         ],
         "source": "挑戰節 I",
         "Release date": "2017-10-05",
+        "specialId": "ray_strike",
         "star": 4,
         "power": 645,
         "attack": 765,
@@ -81822,7 +83147,7 @@ window.allHeroes =
         "family": "guardiansteltoc",
         "image": "https://i.imgur.com/yQuuDkU.jpg",
         "costume_id": 0,
-        "originalIndex": 1261,
+        "originalIndex": 1262,
         "lb1": {
             "power": 694,
             "attack": 831,
@@ -81830,7 +83155,7 @@ window.allHeroes =
             "health": 1122
         },
         "lb2": {
-            "power": 792,
+            "power": 791,
             "attack": 963,
             "defense": 669,
             "health": 1301
@@ -81866,6 +83191,7 @@ window.allHeroes =
         ],
         "source": "挑戰節 I",
         "Release date": "2023-01-26",
+        "specialId": "severing_strike",
         "star": 4,
         "power": 680,
         "attack": 675,
@@ -81879,9 +83205,9 @@ window.allHeroes =
         "family": "guardiansteltoc",
         "image": "https://i.imgur.com/SmImrcW.jpg",
         "costume_id": 1,
-        "originalIndex": 1262,
+        "originalIndex": 1263,
         "lb1": {
-            "power": 733,
+            "power": 732,
             "attack": 734,
             "defense": 724,
             "health": 1344
@@ -81924,6 +83250,7 @@ window.allHeroes =
         ],
         "source": "S3 - 瓦爾哈拉",
         "Release date": "2020-05-28",
+        "specialId": "angry_boar",
         "star": 4,
         "power": 662,
         "attack": 607,
@@ -81937,7 +83264,7 @@ window.allHeroes =
         "family": "asgard",
         "image": "https://i.imgur.com/sx7Ooj7.jpg",
         "costume_id": 0,
-        "originalIndex": 1263,
+        "originalIndex": 1264,
         "lb1": {
             "power": 713,
             "attack": 660,
@@ -81987,6 +83314,7 @@ window.allHeroes =
         ],
         "source": "S3 - 瓦爾哈拉",
         "Release date": "2022-07-04",
+        "specialId": "furious_boar",
         "star": 4,
         "power": 685,
         "attack": 612,
@@ -82000,7 +83328,7 @@ window.allHeroes =
         "family": "asgard",
         "image": "https://i.imgur.com/0fW6S7f.jpg",
         "costume_id": 1,
-        "originalIndex": 1264,
+        "originalIndex": 1265,
         "lb1": {
             "power": 737,
             "attack": 665,
@@ -82052,6 +83380,7 @@ window.allHeroes =
         ],
         "source": "月活動 - 冬季",
         "Release date": "2022-12-01",
+        "specialId": "hearty_stew",
         "star": 4,
         "power": 684,
         "attack": 622,
@@ -82067,15 +83396,15 @@ window.allHeroes =
         "family": "christmas",
         "image": "https://i.imgur.com/n6rgqje.jpg",
         "costume_id": 0,
-        "originalIndex": 1265,
+        "originalIndex": 1266,
         "lb1": {
-            "power": 737,
+            "power": 736,
             "attack": 676,
             "defense": 778,
             "health": 1410
         },
         "lb2": {
-            "power": 841,
+            "power": 840,
             "attack": 784,
             "defense": 902,
             "health": 1635
@@ -82117,6 +83446,7 @@ window.allHeroes =
         ],
         "source": "S1 - 經典",
         "Release date": "2017-03-01",
+        "specialId": "sonic_wall",
         "star": 4,
         "power": 638,
         "attack": 603,
@@ -82131,7 +83461,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/uyASMQ6.jpg",
         "costume_id": 0,
-        "originalIndex": 1266,
+        "originalIndex": 1267,
         "lb1": {
             "power": 686,
             "attack": 655,
@@ -82177,6 +83507,7 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2021-01-18",
+        "specialId": "aura_wave",
         "star": 4,
         "power": 683,
         "attack": 592,
@@ -82191,9 +83522,9 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/vPJgzTp.jpg",
         "costume_id": 1,
-        "originalIndex": 1267,
+        "originalIndex": 1268,
         "lb1": {
-            "power": 736,
+            "power": 735,
             "attack": 644,
             "defense": 824,
             "health": 1390
@@ -82238,6 +83569,7 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2023-11-27",
+        "specialId": "acoustic_surge",
         "star": 4,
         "power": 729,
         "attack": 658,
@@ -82252,9 +83584,9 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/3xo1OZT.jpg",
         "costume_id": 2,
-        "originalIndex": 1268,
+        "originalIndex": 1269,
         "lb1": {
-            "power": 786,
+            "power": 785,
             "attack": 716,
             "defense": 868,
             "health": 1479
@@ -82298,6 +83630,7 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2024-05-31",
+        "specialId": "adorable_sonic_wall",
         "star": 4,
         "power": 741,
         "attack": 745,
@@ -82314,15 +83647,15 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/J3KLB3K.jpg",
         "costume_id": 3,
-        "originalIndex": 1269,
+        "originalIndex": 1270,
         "lb1": {
-            "power": 799,
+            "power": 798,
             "attack": 809,
             "defense": 780,
             "health": 1515
         },
         "lb2": {
-            "power": 913,
+            "power": 912,
             "attack": 939,
             "defense": 904,
             "health": 1756
@@ -82365,6 +83698,7 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2025-06-18",
+        "specialId": "glass_wall",
         "star": 4,
         "power": 753,
         "attack": 813,
@@ -82381,7 +83715,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://imgur.com/V32B1dq.jpg",
         "costume_id": 4,
-        "originalIndex": 1270,
+        "originalIndex": 1271,
         "lb1": {
             "power": 812,
             "attack": 884,
@@ -82389,7 +83723,7 @@ window.allHeroes =
             "health": 1502
         },
         "lb2": {
-            "power": 928,
+            "power": 927,
             "attack": 1024,
             "defense": 859,
             "health": 1742
@@ -82429,6 +83763,7 @@ window.allHeroes =
         ],
         "source": "月活動 - 斯普林維爾",
         "Release date": "2020-04-06",
+        "specialId": "smooth_treatment",
         "star": 4,
         "power": 661,
         "attack": 626,
@@ -82442,15 +83777,15 @@ window.allHeroes =
         "family": "springvale",
         "image": "https://i.imgur.com/qf9ikj1.jpg",
         "costume_id": 0,
-        "originalIndex": 1271,
+        "originalIndex": 1272,
         "lb1": {
-            "power": 712,
+            "power": 711,
             "attack": 681,
             "defense": 725,
             "health": 1323
         },
         "lb2": {
-            "power": 811,
+            "power": 810,
             "attack": 789,
             "defense": 840,
             "health": 1533
@@ -82486,6 +83821,7 @@ window.allHeroes =
         ],
         "source": "S1 - 經典",
         "Release date": "2017-03-01",
+        "specialId": "slash_of_seven_blades",
         "star": 4,
         "power": 640,
         "attack": 616,
@@ -82499,7 +83835,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/flDK18I.jpg",
         "costume_id": 0,
-        "originalIndex": 1272,
+        "originalIndex": 1273,
         "lb1": {
             "power": 688,
             "attack": 669,
@@ -82507,7 +83843,7 @@ window.allHeroes =
             "health": 1193
         },
         "lb2": {
-            "power": 785,
+            "power": 784,
             "attack": 776,
             "defense": 837,
             "health": 1384
@@ -82543,6 +83879,7 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2020-01-01",
+        "specialId": "slash_of_seven_daggers",
         "star": 4,
         "power": 685,
         "attack": 673,
@@ -82556,7 +83893,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/6LRP9pF.jpg",
         "costume_id": 1,
-        "originalIndex": 1273,
+        "originalIndex": 1274,
         "lb1": {
             "power": 737,
             "attack": 730,
@@ -82600,6 +83937,7 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2023-02-20",
+        "specialId": "slash_of_the_seven_stilettos",
         "star": 4,
         "power": 731,
         "attack": 725,
@@ -82613,9 +83951,9 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/kSRi1Vn.jpg",
         "costume_id": 2,
-        "originalIndex": 1274,
+        "originalIndex": 1275,
         "lb1": {
-            "power": 787,
+            "power": 786,
             "attack": 787,
             "defense": 817,
             "health": 1412
@@ -82658,6 +83996,7 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2024-02-12",
+        "specialId": "slash_of_seven_toons",
         "star": 4,
         "power": 743,
         "attack": 725,
@@ -82674,9 +84013,9 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/9y6lz7h.jpg",
         "costume_id": 3,
-        "originalIndex": 1275,
+        "originalIndex": 1276,
         "lb1": {
-            "power": 801,
+            "power": 800,
             "attack": 788,
             "defense": 848,
             "health": 1446
@@ -82721,6 +84060,7 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2025-03-11",
+        "specialId": "slash_of_glass_blades",
         "star": 4,
         "power": 755,
         "attack": 803,
@@ -82737,7 +84077,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/uvZCfR2.jpg",
         "costume_id": 4,
-        "originalIndex": 1276,
+        "originalIndex": 1277,
         "lb1": {
             "power": 814,
             "attack": 873,
@@ -82745,7 +84085,7 @@ window.allHeroes =
             "health": 1413
         },
         "lb2": {
-            "power": 931,
+            "power": 930,
             "attack": 1012,
             "defense": 936,
             "health": 1639
@@ -82785,6 +84125,7 @@ window.allHeroes =
         ],
         "source": "S3 - 瓦爾哈拉",
         "Release date": "2020-02-27",
+        "specialId": "valkyrie_charge",
         "star": 4,
         "power": 661,
         "attack": 686,
@@ -82800,7 +84141,7 @@ window.allHeroes =
         "family": "midgard",
         "image": "https://i.imgur.com/1FjRHHb.jpg",
         "costume_id": 0,
-        "originalIndex": 1277,
+        "originalIndex": 1278,
         "lb1": {
             "power": 711,
             "attack": 745,
@@ -82847,6 +84188,7 @@ window.allHeroes =
         ],
         "source": "S5 - 沙丘",
         "Release date": "2022-04-21",
+        "specialId": "scarab_throw",
         "star": 4,
         "power": 683,
         "attack": 633,
@@ -82866,9 +84208,9 @@ window.allHeroes =
         "family": "moon",
         "image": "https://i.imgur.com/cEv4g9a.jpg",
         "costume_id": 0,
-        "originalIndex": 1278,
+        "originalIndex": 1279,
         "lb1": {
-            "power": 736,
+            "power": 735,
             "attack": 688,
             "defense": 711,
             "health": 1507
@@ -82912,6 +84254,7 @@ window.allHeroes =
         ],
         "source": "S5 - 沙丘",
         "Release date": "2025-01-20",
+        "specialId": "scarab_barrage",
         "star": 4,
         "power": 700,
         "attack": 673,
@@ -82933,7 +84276,7 @@ window.allHeroes =
         "family": "moon",
         "image": "https://i.imgur.com/uNnOzl3.jpg",
         "costume_id": 1,
-        "originalIndex": 1279,
+        "originalIndex": 1280,
         "lb1": {
             "power": 754,
             "attack": 732,
@@ -82941,7 +84284,7 @@ window.allHeroes =
             "health": 1543
         },
         "lb2": {
-            "power": 861,
+            "power": 860,
             "attack": 848,
             "defense": 816,
             "health": 1789
@@ -82979,6 +84322,7 @@ window.allHeroes =
         ],
         "source": "高塔 - 冥河",
         "Release date": "2022-09-21",
+        "specialId": "artful_recreation",
         "star": 4,
         "power": 685,
         "attack": 616,
@@ -83001,7 +84345,7 @@ window.allHeroes =
         "family": "styx",
         "image": "https://i.imgur.com/JQkhZ6P.jpg",
         "costume_id": 0,
-        "originalIndex": 1280,
+        "originalIndex": 1281,
         "lb1": {
             "power": 737,
             "attack": 669,
@@ -83009,7 +84353,7 @@ window.allHeroes =
             "health": 1383
         },
         "lb2": {
-            "power": 841,
+            "power": 840,
             "attack": 776,
             "defense": 928,
             "health": 1603
@@ -83042,6 +84386,7 @@ window.allHeroes =
         ],
         "source": "月活動 - 戀愛季節",
         "Release date": "2023-02-14",
+        "specialId": "flat_cake_for_sweethearts",
         "star": 4,
         "power": 686,
         "attack": 650,
@@ -83057,9 +84402,9 @@ window.allHeroes =
         "family": "cupid",
         "image": "https://i.imgur.com/FUJWm4U.jpg",
         "costume_id": 0,
-        "originalIndex": 1281,
+        "originalIndex": 1282,
         "lb1": {
-            "power": 739,
+            "power": 738,
             "attack": 706,
             "defense": 699,
             "health": 1507
@@ -83101,6 +84446,7 @@ window.allHeroes =
         ],
         "source": "挑戰節 II",
         "Release date": "2022-11-03",
+        "specialId": "spear_of_loyalty",
         "star": 4,
         "power": 684,
         "attack": 626,
@@ -83117,7 +84463,7 @@ window.allHeroes =
         "family": "pets",
         "image": "https://i.imgur.com/acvvh6o.jpg",
         "costume_id": 0,
-        "originalIndex": 1282,
+        "originalIndex": 1283,
         "lb1": {
             "power": 736,
             "attack": 681,
@@ -83125,7 +84471,7 @@ window.allHeroes =
             "health": 1431
         },
         "lb2": {
-            "power": 840,
+            "power": 839,
             "attack": 789,
             "defense": 880,
             "health": 1659
@@ -83161,6 +84507,7 @@ window.allHeroes =
         ],
         "source": "三國召喚",
         "Release date": "2022-03-14",
+        "specialId": "nobles_empathy",
         "star": 4,
         "power": 683,
         "attack": 675,
@@ -83174,15 +84521,15 @@ window.allHeroes =
         "family": "kingdom",
         "image": "https://i.imgur.com/SwBxlgF.jpg",
         "costume_id": 0,
-        "originalIndex": 1283,
+        "originalIndex": 1284,
         "lb1": {
-            "power": 736,
+            "power": 735,
             "attack": 734,
             "defense": 771,
             "health": 1272
         },
         "lb2": {
-            "power": 840,
+            "power": 839,
             "attack": 851,
             "defense": 894,
             "health": 1475
@@ -83220,6 +84567,7 @@ window.allHeroes =
         ],
         "source": "三國召喚",
         "Release date": "2025-01-29",
+        "specialId": "nobles_empathy_costume_artisan",
         "star": 4,
         "power": 720,
         "attack": 693,
@@ -83239,7 +84587,7 @@ window.allHeroes =
         "family": "kingdom",
         "image": "https://i.imgur.com/EPCCR66.jpg",
         "costume_id": 1,
-        "originalIndex": 1284,
+        "originalIndex": 1285,
         "lb1": {
             "power": 775,
             "attack": 753,
@@ -83287,6 +84635,7 @@ window.allHeroes =
         ],
         "source": "S1 - 經典",
         "Release date": "2017-03-01",
+        "specialId": "gamblers_stance",
         "star": 4,
         "power": 644,
         "attack": 707,
@@ -83300,7 +84649,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/EZfzNHv.jpg",
         "costume_id": 0,
-        "originalIndex": 1285,
+        "originalIndex": 1286,
         "lb1": {
             "power": 693,
             "attack": 768,
@@ -83308,7 +84657,7 @@ window.allHeroes =
             "health": 1078
         },
         "lb2": {
-            "power": 791,
+            "power": 790,
             "attack": 891,
             "defense": 781,
             "health": 1250
@@ -83343,6 +84692,7 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2021-01-18",
+        "specialId": "change_stance",
         "star": 4,
         "power": 690,
         "attack": 742,
@@ -83356,7 +84706,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/Xt9qUWm.jpg",
         "costume_id": 1,
-        "originalIndex": 1286,
+        "originalIndex": 1287,
         "lb1": {
             "power": 743,
             "attack": 807,
@@ -83399,6 +84749,7 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2023-10-30",
+        "specialId": "gamblers_swing",
         "star": 4,
         "power": 736,
         "attack": 798,
@@ -83411,7 +84762,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/gZEff9Z.jpg",
         "costume_id": 2,
-        "originalIndex": 1287,
+        "originalIndex": 1288,
         "lb1": {
             "power": 793,
             "attack": 868,
@@ -83419,7 +84770,7 @@ window.allHeroes =
             "health": 1315
         },
         "lb2": {
-            "power": 907,
+            "power": 906,
             "attack": 1006,
             "defense": 914,
             "health": 1525
@@ -83454,6 +84805,7 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2024-07-16",
+        "specialId": "adorable_gamblers_stance",
         "star": 4,
         "power": 748,
         "attack": 745,
@@ -83468,15 +84820,15 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/3dV4crJ.jpg",
         "costume_id": 3,
-        "originalIndex": 1288,
+        "originalIndex": 1289,
         "lb1": {
-            "power": 806,
+            "power": 805,
             "attack": 809,
             "defense": 863,
             "health": 1401
         },
         "lb2": {
-            "power": 922,
+            "power": 921,
             "attack": 939,
             "defense": 1001,
             "health": 1626
@@ -83514,6 +84866,7 @@ window.allHeroes =
         ],
         "source": "超級元素",
         "Release date": "2023-07-17",
+        "specialId": "express_delivery",
         "star": 4,
         "power": 688,
         "attack": 680,
@@ -83533,7 +84886,7 @@ window.allHeroes =
         "family": "superelemental",
         "image": "https://i.imgur.com/b0f7111.jpg",
         "costume_id": 0,
-        "originalIndex": 1289,
+        "originalIndex": 1290,
         "lb1": {
             "power": 741,
             "attack": 738,
@@ -83541,7 +84894,7 @@ window.allHeroes =
             "health": 1341
         },
         "lb2": {
-            "power": 846,
+            "power": 845,
             "attack": 856,
             "defense": 870,
             "health": 1555
@@ -83576,6 +84929,7 @@ window.allHeroes =
         ],
         "source": "S4 - 地底荒野",
         "Release date": "2021-03-25",
+        "specialId": "colossal_chops",
         "star": 5,
         "power": 806,
         "attack": 782,
@@ -83591,9 +84945,9 @@ window.allHeroes =
         "family": "underwild",
         "image": "https://i.imgur.com/gMyh86R.jpg",
         "costume_id": 0,
-        "originalIndex": 1290,
+        "originalIndex": 1291,
         "lb1": {
-            "power": 860,
+            "power": 859,
             "attack": 843,
             "defense": 832,
             "health": 1478
@@ -83638,6 +84992,7 @@ window.allHeroes =
         ],
         "source": "S4 - 地底荒野",
         "Release date": "2024-02-01",
+        "specialId": "colossal_carry",
         "star": 5,
         "power": 1021,
         "attack": 985,
@@ -83655,15 +85010,15 @@ window.allHeroes =
         "family": "underwild",
         "image": "https://i.imgur.com/VvDq081.jpg",
         "costume_id": 1,
-        "originalIndex": 1291,
+        "originalIndex": 1292,
         "lb1": {
-            "power": 1091,
+            "power": 1090,
             "attack": 1060,
             "defense": 1105,
             "health": 2037
         },
         "lb2": {
-            "power": 1230,
+            "power": 1229,
             "attack": 1214,
             "defense": 1263,
             "health": 2331
@@ -83707,6 +85062,7 @@ window.allHeroes =
         ],
         "source": "月活動 - 冬季",
         "Release date": "2024-12-01",
+        "specialId": "a_cozy_break",
         "star": 5,
         "power": 1122,
         "attack": 1108,
@@ -83721,7 +85077,7 @@ window.allHeroes =
         "family": "christmas",
         "image": "https://i.imgur.com/x9XJFnx.jpg",
         "costume_id": 0,
-        "originalIndex": 1292,
+        "originalIndex": 1293,
         "lb1": {
             "power": 1200,
             "attack": 1194,
@@ -83729,7 +85085,7 @@ window.allHeroes =
             "health": 2231
         },
         "lb2": {
-            "power": 1355,
+            "power": 1354,
             "attack": 1366,
             "defense": 1409,
             "health": 2552
@@ -83770,6 +85126,7 @@ window.allHeroes =
         ],
         "source": "聯盟 - 騎士衝擊",
         "Release date": "2024-08-14",
+        "specialId": "scroll_of_new_beginnings",
         "star": 5,
         "power": 1084,
         "attack": 1165,
@@ -83787,7 +85144,7 @@ window.allHeroes =
         "family": "stag",
         "image": "https://i.imgur.com/dIFfVvr.jpg",
         "costume_id": 0,
-        "originalIndex": 1293,
+        "originalIndex": 1294,
         "lb1": {
             "power": 1159,
             "attack": 1256,
@@ -83839,6 +85196,7 @@ window.allHeroes =
         ],
         "source": "怪獸島召喚",
         "Release date": "2025-02-27",
+        "specialId": "carve_the_bones",
         "star": 5,
         "power": 1166,
         "attack": 1194,
@@ -83857,7 +85215,7 @@ window.allHeroes =
         "family": "plainshunter",
         "image": "https://i.imgur.com/Cr6rYpC.jpg",
         "costume_id": 0,
-        "originalIndex": 1294,
+        "originalIndex": 1295,
         "lb1": {
             "power": 1247,
             "attack": 1287,
@@ -83865,7 +85223,7 @@ window.allHeroes =
             "health": 2324
         },
         "lb2": {
-            "power": 1410,
+            "power": 1409,
             "attack": 1473,
             "defense": 1417,
             "health": 2659
@@ -83908,6 +85266,7 @@ window.allHeroes =
         ],
         "source": "挑戰節 I",
         "Release date": "2022-10-06",
+        "specialId": "cannon_blast",
         "star": 5,
         "power": 835,
         "attack": 819,
@@ -83922,7 +85281,7 @@ window.allHeroes =
         "family": "corellia",
         "image": "https://i.imgur.com/YcbkyW1.jpg",
         "costume_id": 0,
-        "originalIndex": 1295,
+        "originalIndex": 1296,
         "lb1": {
             "power": 891,
             "attack": 883,
@@ -83930,7 +85289,7 @@ window.allHeroes =
             "health": 1549
         },
         "lb2": {
-            "power": 1002,
+            "power": 1001,
             "attack": 1010,
             "defense": 982,
             "health": 1772
@@ -83969,6 +85328,7 @@ window.allHeroes =
         ],
         "source": "月活動 - 戀愛季節",
         "Release date": "2025-02-14",
+        "specialId": "love_at_first_sight",
         "star": 5,
         "power": 1163,
         "attack": 1225,
@@ -83987,7 +85347,7 @@ window.allHeroes =
         "family": "cupid",
         "image": "https://i.imgur.com/ZH2Xuuj.jpg",
         "costume_id": 0,
-        "originalIndex": 1296,
+        "originalIndex": 1297,
         "lb1": {
             "power": 1244,
             "attack": 1320,
@@ -84035,6 +85395,7 @@ window.allHeroes =
         ],
         "source": "S4 - 地底荒野",
         "Release date": "2021-07-15",
+        "specialId": "blade_of_bundelkhand",
         "star": 5,
         "power": 808,
         "attack": 811,
@@ -84050,7 +85411,7 @@ window.allHeroes =
         "family": "underwild",
         "image": "https://i.imgur.com/Ri4pkcS.jpg",
         "costume_id": 0,
-        "originalIndex": 1297,
+        "originalIndex": 1298,
         "lb1": {
             "power": 862,
             "attack": 874,
@@ -84094,6 +85455,7 @@ window.allHeroes =
         ],
         "source": "S4 - 地底荒野",
         "Release date": "2023-09-07",
+        "specialId": "scepter_of_bundelkhand",
         "star": 5,
         "power": 1024,
         "attack": 1132,
@@ -84110,7 +85472,7 @@ window.allHeroes =
         "family": "underwild",
         "image": "https://i.imgur.com/8bE9bAk.jpg",
         "costume_id": 1,
-        "originalIndex": 1298,
+        "originalIndex": 1299,
         "lb1": {
             "power": 1094,
             "attack": 1220,
@@ -84159,6 +85521,7 @@ window.allHeroes =
         ],
         "source": "聖約召喚",
         "Release date": "2025-02-26",
+        "specialId": "divine_light1",
         "star": 5,
         "power": 1166,
         "attack": 1211,
@@ -84178,7 +85541,7 @@ window.allHeroes =
         "family": "fox",
         "image": "https://i.imgur.com/JxS30IU.jpg",
         "costume_id": 0,
-        "originalIndex": 1299,
+        "originalIndex": 1300,
         "lb1": {
             "power": 1248,
             "attack": 1305,
@@ -84186,7 +85549,7 @@ window.allHeroes =
             "health": 2215
         },
         "lb2": {
-            "power": 1410,
+            "power": 1409,
             "attack": 1493,
             "defense": 1455,
             "health": 2534
@@ -84234,6 +85597,7 @@ window.allHeroes =
         ],
         "source": "挑戰節 II",
         "Release date": "2024-11-14",
+        "specialId": "booming_mend",
         "star": 5,
         "power": 1115,
         "attack": 927,
@@ -84253,7 +85617,7 @@ window.allHeroes =
         "family": "bard",
         "image": "https://i.imgur.com/efuZ1Xu.jpg",
         "costume_id": 0,
-        "originalIndex": 1300,
+        "originalIndex": 1301,
         "lb1": {
             "power": 1192,
             "attack": 999,
@@ -84304,6 +85668,7 @@ window.allHeroes =
         ],
         "source": "聯盟 - 飛蛾",
         "Release date": "2025-05-01",
+        "specialId": "riches_to_poor",
         "star": 5,
         "power": 1197,
         "attack": 1330,
@@ -84321,7 +85686,7 @@ window.allHeroes =
         "family": "moth",
         "image": "https://imgur.com/U5vFSXy.jpg",
         "costume_id": 0,
-        "originalIndex": 1301,
+        "originalIndex": 1302,
         "lb1": {
             "power": 1281,
             "attack": 1434,
@@ -84329,7 +85694,7 @@ window.allHeroes =
             "health": 2268
         },
         "lb2": {
-            "power": 1448,
+            "power": 1447,
             "attack": 1640,
             "defense": 1376,
             "health": 2595
@@ -84376,6 +85741,7 @@ window.allHeroes =
         ],
         "source": "傳奇召喚 - 月英",
         "Release date": "2024-06-01",
+        "specialId": "falcon_screech",
         "star": 5,
         "power": 990,
         "attack": 1030,
@@ -84394,7 +85760,7 @@ window.allHeroes =
         "family": 2024,
         "image": "https://i.imgur.com/0zHJdCL.jpg",
         "costume_id": 0,
-        "originalIndex": 1302,
+        "originalIndex": 1303,
         "lb1": {
             "power": 1057,
             "attack": 1110,
@@ -84402,7 +85768,7 @@ window.allHeroes =
             "health": 1811
         },
         "lb2": {
-            "power": 1192,
+            "power": 1191,
             "attack": 1270,
             "defense": 1186,
             "health": 2072
@@ -84446,6 +85812,7 @@ window.allHeroes =
         ],
         "source": "傳奇召喚 - 月英",
         "Release date": "2020-09-01",
+        "specialId": "stunning_steel",
         "star": 5,
         "power": 776,
         "attack": 749,
@@ -84463,15 +85830,15 @@ window.allHeroes =
         "family": 2020,
         "image": "https://i.imgur.com/4FIVAWy.jpg",
         "costume_id": 0,
-        "originalIndex": 1303,
+        "originalIndex": 1304,
         "lb1": {
-            "power": 828,
+            "power": 827,
             "attack": 808,
             "defense": 792,
             "health": 1416
         },
         "lb2": {
-            "power": 929,
+            "power": 928,
             "attack": 924,
             "defense": 906,
             "health": 1620
@@ -84510,6 +85877,7 @@ window.allHeroes =
         ],
         "source": "月活動 - 農曆新年",
         "Release date": "2025-01-27",
+        "specialId": "masterful_balance",
         "star": 5,
         "power": 1152,
         "attack": 1176,
@@ -84527,7 +85895,7 @@ window.allHeroes =
         "family": "lunaryear",
         "image": "https://i.imgur.com/hMx4yq8.jpg",
         "costume_id": 0,
-        "originalIndex": 1304,
+        "originalIndex": 1305,
         "lb1": {
             "power": 1232,
             "attack": 1267,
@@ -84579,6 +85947,7 @@ window.allHeroes =
         ],
         "source": "挑戰節 II",
         "Release date": "2021-08-05",
+        "specialId": "dispelling_willpower",
         "star": 5,
         "power": 809,
         "attack": 721,
@@ -84597,9 +85966,9 @@ window.allHeroes =
         "family": "slayer",
         "image": "https://i.imgur.com/ERb7z96.jpg",
         "costume_id": 0,
-        "originalIndex": 1305,
+        "originalIndex": 1306,
         "lb1": {
-            "power": 863,
+            "power": 862,
             "attack": 777,
             "defense": 885,
             "health": 1558
@@ -84656,6 +86025,7 @@ window.allHeroes =
         ],
         "source": "挑戰節 II",
         "Release date": "2024-11-14",
+        "specialId": "dispelling_judgement",
         "star": 5,
         "power": 1210,
         "attack": 1205,
@@ -84675,7 +86045,7 @@ window.allHeroes =
         "family": "slayer",
         "image": "https://i.imgur.com/JgYBU3i.jpg",
         "costume_id": 1,
-        "originalIndex": 1306,
+        "originalIndex": 1307,
         "lb1": {
             "power": 1295,
             "attack": 1299,
@@ -84683,7 +86053,7 @@ window.allHeroes =
             "health": 2541
         },
         "lb2": {
-            "power": 1464,
+            "power": 1463,
             "attack": 1486,
             "defense": 1471,
             "health": 2907
@@ -84729,6 +86099,7 @@ window.allHeroes =
         ],
         "source": "傳奇召喚 - 月英",
         "Release date": "2022-10-01",
+        "specialId": "sacrament_of_salvation",
         "star": 5,
         "power": 812,
         "attack": 733,
@@ -84747,9 +86118,9 @@ window.allHeroes =
         "family": 2022,
         "image": "https://i.imgur.com/fzHIBe5.jpg",
         "costume_id": 0,
-        "originalIndex": 1307,
+        "originalIndex": 1308,
         "lb1": {
-            "power": 866,
+            "power": 865,
             "attack": 790,
             "defense": 859,
             "health": 1598
@@ -84800,6 +86171,7 @@ window.allHeroes =
         ],
         "source": "挑戰 - 歌劇秘辛",
         "Release date": "2023-11-30",
+        "specialId": "ballad_of_passion",
         "star": 5,
         "power": 957,
         "attack": 994,
@@ -84821,7 +86193,7 @@ window.allHeroes =
         "family": "opera",
         "image": "https://i.imgur.com/x8CUwhf.jpg",
         "costume_id": 0,
-        "originalIndex": 1308,
+        "originalIndex": 1309,
         "lb1": {
             "power": 1022,
             "attack": 1072,
@@ -84869,6 +86241,7 @@ window.allHeroes =
         ],
         "source": "S5 - 沙丘",
         "Release date": "2022-10-27",
+        "specialId": "channeler_of_the_gods",
         "star": 5,
         "power": 865,
         "attack": 768,
@@ -84886,7 +86259,7 @@ window.allHeroes =
         "family": "sun",
         "image": "https://i.imgur.com/pyEHRBi.jpg",
         "costume_id": 0,
-        "originalIndex": 1309,
+        "originalIndex": 1310,
         "lb1": {
             "power": 923,
             "attack": 828,
@@ -84934,6 +86307,7 @@ window.allHeroes =
         ],
         "source": "S5 - 沙丘",
         "Release date": "2024-04-29",
+        "specialId": "channeler_of_the_cats",
         "star": 5,
         "power": 1210,
         "attack": 1086,
@@ -84953,7 +86327,7 @@ window.allHeroes =
         "family": "sun",
         "image": "https://i.imgur.com/BWI4O98.jpg",
         "costume_id": 1,
-        "originalIndex": 1310,
+        "originalIndex": 1311,
         "lb1": {
             "power": 1294,
             "attack": 1170,
@@ -84998,6 +86372,7 @@ window.allHeroes =
         ],
         "source": "聯盟 - 火槍手",
         "Release date": "2023-07-26",
+        "specialId": "sword_dance",
         "star": 5,
         "power": 929,
         "attack": 871,
@@ -85013,7 +86388,7 @@ window.allHeroes =
         "family": "musketeer",
         "image": "https://i.imgur.com/MWL4e5h.jpg",
         "costume_id": 0,
-        "originalIndex": 1311,
+        "originalIndex": 1312,
         "lb1": {
             "power": 992,
             "attack": 939,
@@ -85064,6 +86439,7 @@ window.allHeroes =
         ],
         "source": "怪獸島召喚",
         "Release date": "2023-02-09",
+        "specialId": "liturgy_of_the_fallen",
         "star": 5,
         "power": 891,
         "attack": 850,
@@ -85081,7 +86457,7 @@ window.allHeroes =
         "family": "abysshunter",
         "image": "https://i.imgur.com/EUt5N6q.jpg",
         "costume_id": 0,
-        "originalIndex": 1312,
+        "originalIndex": 1313,
         "lb1": {
             "power": 950,
             "attack": 916,
@@ -85089,7 +86465,7 @@ window.allHeroes =
             "health": 1680
         },
         "lb2": {
-            "power": 1070,
+            "power": 1069,
             "attack": 1049,
             "defense": 1102,
             "health": 1922
@@ -85127,6 +86503,7 @@ window.allHeroes =
         ],
         "source": "傳奇召喚 - 月英",
         "Release date": "2018-03-01",
+        "specialId": "summon_temple_guardians",
         "star": 5,
         "power": 768,
         "attack": 737,
@@ -85141,7 +86518,7 @@ window.allHeroes =
         "family": 2018,
         "image": "https://i.imgur.com/gbHdhVI.jpg",
         "costume_id": 0,
-        "originalIndex": 1313,
+        "originalIndex": 1314,
         "lb1": {
             "power": 818,
             "attack": 794,
@@ -85187,6 +86564,7 @@ window.allHeroes =
         ],
         "source": "傳奇召喚 - 月英",
         "Release date": "2023-05-15",
+        "specialId": "summon_celestial_guardians",
         "star": 5,
         "power": 974,
         "attack": 916,
@@ -85203,7 +86581,7 @@ window.allHeroes =
         "family": 2018,
         "image": "https://i.imgur.com/muqHGtI.jpg",
         "costume_id": 1,
-        "originalIndex": 1314,
+        "originalIndex": 1315,
         "lb1": {
             "power": 1041,
             "attack": 988,
@@ -85251,6 +86629,7 @@ window.allHeroes =
         ],
         "source": "傳奇召喚 - 月英",
         "Release date": "2021-07-01",
+        "specialId": "arrows_and_claws",
         "star": 5,
         "power": 792,
         "attack": 741,
@@ -85270,9 +86649,9 @@ window.allHeroes =
         "family": 2021,
         "image": "https://i.imgur.com/kOGhPnC.jpg",
         "costume_id": 0,
-        "originalIndex": 1315,
+        "originalIndex": 1316,
         "lb1": {
-            "power": 845,
+            "power": 844,
             "attack": 799,
             "defense": 814,
             "health": 1514
@@ -85322,6 +86701,7 @@ window.allHeroes =
         ],
         "source": "挑戰節 II",
         "Release date": "2021-06-10",
+        "specialId": "directors_blessing",
         "star": 5,
         "power": 808,
         "attack": 766,
@@ -85336,7 +86716,7 @@ window.allHeroes =
         "family": "starfall",
         "image": "https://i.imgur.com/NrSrxkV.jpg",
         "costume_id": 0,
-        "originalIndex": 1316,
+        "originalIndex": 1317,
         "lb1": {
             "power": 861,
             "attack": 825,
@@ -85392,6 +86772,7 @@ window.allHeroes =
         ],
         "source": "神秘 - 暗影召喚",
         "Release date": "2024-05-17",
+        "specialId": "yellow_signs",
         "star": 5,
         "power": 1098,
         "attack": 1135,
@@ -85409,7 +86790,7 @@ window.allHeroes =
         "family": "investigator",
         "image": "https://i.imgur.com/sAavBEB.jpg",
         "costume_id": 0,
-        "originalIndex": 1317,
+        "originalIndex": 1318,
         "lb1": {
             "power": 1174,
             "attack": 1223,
@@ -85417,7 +86798,7 @@ window.allHeroes =
             "health": 2060
         },
         "lb2": {
-            "power": 1326,
+            "power": 1325,
             "attack": 1399,
             "defense": 1361,
             "health": 2357
@@ -85462,6 +86843,7 @@ window.allHeroes =
         ],
         "source": "傳奇召喚 - 月英",
         "Release date": "2018-08-01",
+        "specialId": "flails_of_fury",
         "star": 5,
         "power": 768,
         "attack": 727,
@@ -85476,7 +86858,7 @@ window.allHeroes =
         "family": 2018,
         "image": "https://i.imgur.com/DfnVeiC.jpg",
         "costume_id": 0,
-        "originalIndex": 1318,
+        "originalIndex": 1319,
         "lb1": {
             "power": 818,
             "attack": 783,
@@ -85484,7 +86866,7 @@ window.allHeroes =
             "health": 1458
         },
         "lb2": {
-            "power": 918,
+            "power": 917,
             "attack": 896,
             "defense": 878,
             "health": 1668
@@ -85523,6 +86905,7 @@ window.allHeroes =
         ],
         "source": "傳奇召喚 - 月英",
         "Release date": "2021-12-23",
+        "specialId": "fabled_fist",
         "star": 5,
         "power": 976,
         "attack": 943,
@@ -85539,9 +86922,9 @@ window.allHeroes =
         "family": 2018,
         "image": "https://i.imgur.com/31loghP.jpg",
         "costume_id": 1,
-        "originalIndex": 1319,
+        "originalIndex": 1320,
         "lb1": {
-            "power": 1043,
+            "power": 1042,
             "attack": 1016,
             "defense": 958,
             "health": 2098
@@ -85584,6 +86967,7 @@ window.allHeroes =
         ],
         "source": "聯盟 - 騎士衝擊",
         "Release date": "2022-01-05",
+        "specialId": "ravaging_talons",
         "star": 5,
         "power": 822,
         "attack": 803,
@@ -85598,9 +86982,9 @@ window.allHeroes =
         "family": "raven",
         "image": "https://i.imgur.com/x2Zz9OK.jpg",
         "costume_id": 0,
-        "originalIndex": 1320,
+        "originalIndex": 1321,
         "lb1": {
-            "power": 877,
+            "power": 876,
             "attack": 865,
             "defense": 854,
             "health": 1498
@@ -85650,6 +87034,7 @@ window.allHeroes =
         ],
         "source": "S6 - 深淵謎團",
         "Release date": "2023-06-07",
+        "specialId": "seabed_pirouette",
         "star": 5,
         "power": 934,
         "attack": 906,
@@ -85673,15 +87058,15 @@ window.allHeroes =
         "family": "defendersofatlantis",
         "image": "https://i.imgur.com/nL4nDAx.jpg",
         "costume_id": 0,
-        "originalIndex": 1321,
+        "originalIndex": 1322,
         "lb1": {
-            "power": 997,
+            "power": 996,
             "attack": 976,
             "defense": 992,
             "health": 1804
         },
         "lb2": {
-            "power": 1123,
+            "power": 1122,
             "attack": 1117,
             "defense": 1135,
             "health": 2065
@@ -85721,6 +87106,7 @@ window.allHeroes =
         ],
         "source": "S6 - 深淵謎團",
         "Release date": "2025-03-31",
+        "specialId": "seabed_sissonne",
         "star": 5,
         "power": 1161,
         "attack": 1137,
@@ -85745,9 +87131,9 @@ window.allHeroes =
         "family": "defendersofatlantis",
         "image": "https://imgur.com/CAlgEAJ.jpg",
         "costume_id": 1,
-        "originalIndex": 1322,
+        "originalIndex": 1323,
         "lb1": {
-            "power": 1242,
+            "power": 1241,
             "attack": 1227,
             "defense": 1288,
             "health": 2334
@@ -85790,6 +87176,7 @@ window.allHeroes =
         ],
         "source": "三國召喚",
         "Release date": "2023-01-02",
+        "specialId": "deteriorating_morale",
         "star": 5,
         "power": 860,
         "attack": 844,
@@ -85803,7 +87190,7 @@ window.allHeroes =
         "family": "journey",
         "image": "https://i.imgur.com/vft4guR.jpg",
         "costume_id": 0,
-        "originalIndex": 1323,
+        "originalIndex": 1324,
         "lb1": {
             "power": 918,
             "attack": 910,
@@ -85856,6 +87243,7 @@ window.allHeroes =
         ],
         "source": "S5 - 沙丘",
         "Release date": "2023-01-19",
+        "specialId": "holy_aura",
         "star": 5,
         "power": 868,
         "attack": 832,
@@ -85874,7 +87262,7 @@ window.allHeroes =
         "family": "sun",
         "image": "https://i.imgur.com/0YdsTMt.jpg",
         "costume_id": 0,
-        "originalIndex": 1324,
+        "originalIndex": 1325,
         "lb1": {
             "power": 926,
             "attack": 896,
@@ -85882,7 +87270,7 @@ window.allHeroes =
             "health": 1738
         },
         "lb2": {
-            "power": 1042,
+            "power": 1041,
             "attack": 1026,
             "defense": 998,
             "health": 1988
@@ -85924,6 +87312,7 @@ window.allHeroes =
         ],
         "source": "S5 - 沙丘",
         "Release date": "2025-06-11",
+        "specialId": "golden_aura",
         "star": 5,
         "power": 1214,
         "attack": 1238,
@@ -85944,15 +87333,15 @@ window.allHeroes =
         "family": "sun",
         "image": "https://imgur.com/4M257qJ.jpg",
         "costume_id": 1,
-        "originalIndex": 1325,
+        "originalIndex": 1326,
         "lb1": {
-            "power": 1299,
+            "power": 1298,
             "attack": 1333,
             "defense": 1234,
             "health": 2582
         },
         "lb2": {
-            "power": 1468,
+            "power": 1467,
             "attack": 1525,
             "defense": 1412,
             "health": 2954
@@ -85995,7 +87384,8 @@ window.allHeroes =
             "繞過"
         ],
         "source": "額外抽獎 - 秘密召喚",
-        "Release date": "2025-06-06",
+        "Release date": "2025-05-31",
+        "specialId": "mimic_training_hero_yellow_bite",
         "star": 5,
         "power": 1200,
         "attack": 1236,
@@ -86019,7 +87409,7 @@ window.allHeroes =
         "family": "mimic",
         "image": "https://imgur.com/WAwhfFp.jpg",
         "costume_id": 0,
-        "originalIndex": 1326,
+        "originalIndex": 1327,
         "lb1": {
             "power": 1284,
             "attack": 1332,
@@ -86074,6 +87464,7 @@ window.allHeroes =
         ],
         "source": "傳奇召喚 - 月英",
         "Release date": "2024-12-01",
+        "specialId": "revitalizing_orb",
         "star": 5,
         "power": 1042,
         "attack": 1042,
@@ -86092,7 +87483,7 @@ window.allHeroes =
         "family": 2024,
         "image": "https://i.imgur.com/plLMCMU.jpg",
         "costume_id": 0,
-        "originalIndex": 1327,
+        "originalIndex": 1328,
         "lb1": {
             "power": 1114,
             "attack": 1123,
@@ -86100,7 +87491,7 @@ window.allHeroes =
             "health": 1869
         },
         "lb2": {
-            "power": 1257,
+            "power": 1256,
             "attack": 1285,
             "defense": 1366,
             "health": 2138
@@ -86138,6 +87529,7 @@ window.allHeroes =
         ],
         "source": "挑戰節 II",
         "Release date": "2021-06-10",
+        "specialId": "chakram_kick",
         "star": 5,
         "power": 804,
         "attack": 784,
@@ -86151,15 +87543,15 @@ window.allHeroes =
         "family": "starfall",
         "image": "https://i.imgur.com/8rLI8nK.jpg",
         "costume_id": 0,
-        "originalIndex": 1328,
+        "originalIndex": 1329,
         "lb1": {
-            "power": 858,
+            "power": 857,
             "attack": 845,
             "defense": 810,
             "health": 1502
         },
         "lb2": {
-            "power": 964,
+            "power": 963,
             "attack": 967,
             "defense": 927,
             "health": 1719
@@ -86196,6 +87588,7 @@ window.allHeroes =
         ],
         "source": "哥布林召喚",
         "Release date": "2024-08-04",
+        "specialId": "esprit_de_corps",
         "star": 5,
         "power": 1107,
         "attack": 1168,
@@ -86214,15 +87607,15 @@ window.allHeroes =
         "family": "garrisonguard",
         "image": "https://i.imgur.com/N2blWos.jpg",
         "costume_id": 0,
-        "originalIndex": 1329,
+        "originalIndex": 1330,
         "lb1": {
-            "power": 1184,
+            "power": 1183,
             "attack": 1258,
             "defense": 1189,
             "health": 2040
         },
         "lb2": {
-            "power": 1337,
+            "power": 1336,
             "attack": 1440,
             "defense": 1361,
             "health": 2334
@@ -86266,6 +87659,7 @@ window.allHeroes =
         ],
         "source": "挑戰節 II",
         "Release date": "2022-11-03",
+        "specialId": "bark_of_protection",
         "star": 5,
         "power": 835,
         "attack": 782,
@@ -86285,7 +87679,7 @@ window.allHeroes =
         "family": "pets",
         "image": "https://i.imgur.com/xJBNOD9.jpg",
         "costume_id": 0,
-        "originalIndex": 1330,
+        "originalIndex": 1331,
         "lb1": {
             "power": 890,
             "attack": 843,
@@ -86343,6 +87737,7 @@ window.allHeroes =
         ],
         "source": "S7 - 火焰與冰霜的寶藏",
         "Release date": "2024-12-03",
+        "specialId": "spearwand_gale",
         "star": 5,
         "power": 1165,
         "attack": 1168,
@@ -86363,15 +87758,15 @@ window.allHeroes =
         "family": "nidavellir",
         "image": "https://i.imgur.com/hNiWYCE.jpg",
         "costume_id": 0,
-        "originalIndex": 1331,
+        "originalIndex": 1332,
         "lb1": {
-            "power": 1247,
+            "power": 1246,
             "attack": 1258,
             "defense": 1252,
             "health": 2364
         },
         "lb2": {
-            "power": 1409,
+            "power": 1408,
             "attack": 1440,
             "defense": 1432,
             "health": 2705
@@ -86417,6 +87812,7 @@ window.allHeroes =
         ],
         "source": "野地召喚",
         "Release date": "2024-12-07",
+        "specialId": "purifying_light",
         "star": 5,
         "power": 1150,
         "attack": 1122,
@@ -86435,9 +87831,9 @@ window.allHeroes =
         "family": "woodlandfaun",
         "image": "https://i.imgur.com/5Tx3rNq.jpg",
         "costume_id": 0,
-        "originalIndex": 1332,
+        "originalIndex": 1333,
         "lb1": {
-            "power": 1231,
+            "power": 1230,
             "attack": 1209,
             "defense": 1256,
             "health": 2364
@@ -86486,6 +87882,7 @@ window.allHeroes =
         ],
         "source": "傳奇召喚 - 月英",
         "Release date": "2023-03-01",
+        "specialId": "reckless_charge",
         "star": 5,
         "power": 821,
         "attack": 753,
@@ -86504,7 +87901,7 @@ window.allHeroes =
         "family": 2023,
         "image": "https://i.imgur.com/gcaSLmN.jpg",
         "costume_id": 0,
-        "originalIndex": 1333,
+        "originalIndex": 1334,
         "lb1": {
             "power": 876,
             "attack": 812,
@@ -86555,6 +87952,7 @@ window.allHeroes =
         ],
         "source": "超級元素",
         "Release date": "2025-06-07",
+        "specialId": "coins_of_pain",
         "star": 5,
         "power": 1202,
         "attack": 1359,
@@ -86572,9 +87970,9 @@ window.allHeroes =
         "family": "slime",
         "image": "https://imgur.com/iqx1d2N.jpg",
         "costume_id": 0,
-        "originalIndex": 1334,
+        "originalIndex": 1335,
         "lb1": {
-            "power": 1287,
+            "power": 1286,
             "attack": 1465,
             "defense": 1176,
             "health": 2284
@@ -86620,6 +88018,7 @@ window.allHeroes =
         ],
         "source": "月活動 - 農曆新年",
         "Release date": "2024-02-08",
+        "specialId": "rejuvenating_elixir",
         "star": 5,
         "power": 983,
         "attack": 875,
@@ -86637,9 +88036,9 @@ window.allHeroes =
         "family": "lunaryear",
         "image": "https://i.imgur.com/BDNFVzo.jpg",
         "costume_id": 0,
-        "originalIndex": 1335,
+        "originalIndex": 1336,
         "lb1": {
-            "power": 1051,
+            "power": 1050,
             "attack": 943,
             "defense": 1123,
             "health": 2009
@@ -86684,6 +88083,7 @@ window.allHeroes =
         ],
         "source": "超級元素",
         "Release date": "2025-01-20",
+        "specialId": "reviving_touch",
         "star": 5,
         "power": 1172,
         "attack": 1246,
@@ -86707,7 +88107,7 @@ window.allHeroes =
         "family": "slime",
         "image": "https://i.imgur.com/QoTjDm5.jpg",
         "costume_id": 0,
-        "originalIndex": 1336,
+        "originalIndex": 1337,
         "lb1": {
             "power": 1254,
             "attack": 1343,
@@ -86755,6 +88155,7 @@ window.allHeroes =
         ],
         "source": "超級元素",
         "Release date": "2024-04-22",
+        "specialId": "holy_hibiscus_ale",
         "star": 5,
         "power": 1039,
         "attack": 1007,
@@ -86776,15 +88177,15 @@ window.allHeroes =
         "family": "superelemental",
         "image": "https://i.imgur.com/71dNXYj.jpg",
         "costume_id": 0,
-        "originalIndex": 1337,
+        "originalIndex": 1338,
         "lb1": {
-            "power": 1111,
+            "power": 1110,
             "attack": 1085,
             "defense": 1165,
             "health": 1998
         },
         "lb2": {
-            "power": 1253,
+            "power": 1252,
             "attack": 1242,
             "defense": 1333,
             "health": 2286
@@ -86828,6 +88229,7 @@ window.allHeroes =
         ],
         "source": "挑戰節 I",
         "Release date": "2024-02-22",
+        "specialId": "rain_of_arrows",
         "star": 5,
         "power": 1009,
         "attack": 990,
@@ -86846,9 +88248,9 @@ window.allHeroes =
         "family": "guardiansteltoc",
         "image": "https://i.imgur.com/oi9Vymu.jpg",
         "costume_id": 0,
-        "originalIndex": 1338,
+        "originalIndex": 1339,
         "lb1": {
-            "power": 1079,
+            "power": 1078,
             "attack": 1067,
             "defense": 1145,
             "health": 1855
@@ -86905,6 +88307,7 @@ window.allHeroes =
         ],
         "source": "挑戰節 I",
         "Release date": "2020-01-08",
+        "specialId": "dance_of_spirits",
         "star": 5,
         "power": 780,
         "attack": 751,
@@ -86923,7 +88326,7 @@ window.allHeroes =
         "family": "guardiansteltoc",
         "image": "https://i.imgur.com/B2LpVrC.jpg",
         "costume_id": 0,
-        "originalIndex": 1339,
+        "originalIndex": 1340,
         "lb1": {
             "power": 832,
             "attack": 810,
@@ -86931,7 +88334,7 @@ window.allHeroes =
             "health": 1427
         },
         "lb2": {
-            "power": 934,
+            "power": 933,
             "attack": 927,
             "defense": 914,
             "health": 1633
@@ -86982,6 +88385,7 @@ window.allHeroes =
         ],
         "source": "挑戰節 I",
         "Release date": "2023-01-26",
+        "specialId": "bandalore_dance",
         "star": 5,
         "power": 976,
         "attack": 982,
@@ -87000,7 +88404,7 @@ window.allHeroes =
         "family": "guardiansteltoc",
         "image": "https://i.imgur.com/E5qL0sl.jpg",
         "costume_id": 1,
-        "originalIndex": 1340,
+        "originalIndex": 1341,
         "lb1": {
             "power": 1043,
             "attack": 1059,
@@ -87008,7 +88412,7 @@ window.allHeroes =
             "health": 1898
         },
         "lb2": {
-            "power": 1176,
+            "power": 1175,
             "attack": 1212,
             "defense": 1152,
             "health": 2171
@@ -87054,6 +88458,7 @@ window.allHeroes =
         ],
         "source": "挑戰節 I",
         "Release date": "2017-10-05",
+        "specialId": "stately_retribution",
         "star": 5,
         "power": 765,
         "attack": 601,
@@ -87069,7 +88474,7 @@ window.allHeroes =
         "family": "guardiansteltoc",
         "image": "https://i.imgur.com/XO3HIxy.jpg",
         "costume_id": 0,
-        "originalIndex": 1341,
+        "originalIndex": 1342,
         "lb1": {
             "power": 815,
             "attack": 648,
@@ -87077,7 +88482,7 @@ window.allHeroes =
             "health": 1598
         },
         "lb2": {
-            "power": 915,
+            "power": 914,
             "attack": 741,
             "defense": 980,
             "health": 1828
@@ -87121,6 +88526,7 @@ window.allHeroes =
         ],
         "source": "挑戰節 I",
         "Release date": "2018-01-05",
+        "specialId": "word_of_queen",
         "star": 5,
         "power": 765,
         "attack": 669,
@@ -87135,7 +88541,7 @@ window.allHeroes =
         "family": "avalon",
         "image": "https://i.imgur.com/dYjW9Xa.jpg",
         "costume_id": 0,
-        "originalIndex": 1342,
+        "originalIndex": 1343,
         "lb1": {
             "power": 815,
             "attack": 721,
@@ -87188,6 +88594,7 @@ window.allHeroes =
         ],
         "source": "挑戰節 I",
         "Release date": "2023-04-20",
+        "specialId": "word_of_skies",
         "star": 5,
         "power": 958,
         "attack": 797,
@@ -87202,7 +88609,7 @@ window.allHeroes =
         "family": "avalon",
         "image": "https://i.imgur.com/IeQY7xx.jpg",
         "costume_id": 1,
-        "originalIndex": 1343,
+        "originalIndex": 1344,
         "lb1": {
             "power": 1023,
             "attack": 859,
@@ -87262,6 +88669,7 @@ window.allHeroes =
         ],
         "source": "神秘 - 暗影召喚",
         "Release date": "2025-07-29",
+        "specialId": "essence_of_queen_nitocris",
         "star": 5,
         "power": 1224,
         "attack": 1223,
@@ -87281,7 +88689,7 @@ window.allHeroes =
         "family": "investigator",
         "image": "https://imgur.com/bX4otRm.jpg",
         "costume_id": 0,
-        "originalIndex": 1344,
+        "originalIndex": 1345,
         "lb1": {
             "power": 1310,
             "attack": 1318,
@@ -87336,6 +88744,7 @@ window.allHeroes =
         ],
         "source": "聖約召喚",
         "Release date": "2024-07-12",
+        "specialId": "high_energy_field",
         "star": 5,
         "power": 1076,
         "attack": 1083,
@@ -87356,7 +88765,7 @@ window.allHeroes =
         "family": "construct",
         "image": "https://i.imgur.com/94OEbs6.jpg",
         "costume_id": 0,
-        "originalIndex": 1345,
+        "originalIndex": 1346,
         "lb1": {
             "power": 1150,
             "attack": 1167,
@@ -87404,6 +88813,7 @@ window.allHeroes =
         ],
         "source": "挑戰節 II",
         "Release date": "2022-11-03",
+        "specialId": "strike_of_a_thousand_howls",
         "star": 5,
         "power": 876,
         "attack": 877,
@@ -87421,9 +88831,9 @@ window.allHeroes =
         "family": "pets",
         "image": "https://i.imgur.com/SMSyQXB.jpg",
         "costume_id": 0,
-        "originalIndex": 1346,
+        "originalIndex": 1347,
         "lb1": {
-            "power": 935,
+            "power": 934,
             "attack": 945,
             "defense": 870,
             "health": 1680
@@ -87470,6 +88880,7 @@ window.allHeroes =
         ],
         "source": "聖約召喚",
         "Release date": "2025-07-06",
+        "specialId": "unbroken_assault",
         "star": 5,
         "power": 1217,
         "attack": 1264,
@@ -87487,9 +88898,9 @@ window.allHeroes =
         "family": "fox",
         "image": "https://imgur.com/spHpfyL.jpg",
         "costume_id": 0,
-        "originalIndex": 1347,
+        "originalIndex": 1348,
         "lb1": {
-            "power": 1303,
+            "power": 1302,
             "attack": 1363,
             "defense": 1307,
             "health": 2390
@@ -87538,6 +88949,7 @@ window.allHeroes =
         ],
         "source": "傳奇召喚 - 月英",
         "Release date": "2021-12-01",
+        "specialId": "dancing_dodge",
         "star": 5,
         "power": 797,
         "attack": 721,
@@ -87555,9 +88967,9 @@ window.allHeroes =
         "family": 2021,
         "image": "https://i.imgur.com/Q6iWdU3.jpg",
         "costume_id": 0,
-        "originalIndex": 1348,
+        "originalIndex": 1349,
         "lb1": {
-            "power": 850,
+            "power": 849,
             "attack": 777,
             "defense": 859,
             "health": 1518
@@ -87608,6 +89020,7 @@ window.allHeroes =
         ],
         "source": "星界召喚",
         "Release date": "2025-06-04",
+        "specialId": "star_trail",
         "star": 5,
         "power": 1191,
         "attack": 1268,
@@ -87627,7 +89040,7 @@ window.allHeroes =
         "family": "astraldwarfs",
         "image": "https://imgur.com/VuxizwX.jpg",
         "costume_id": 0,
-        "originalIndex": 1349,
+        "originalIndex": 1350,
         "lb1": {
             "power": 1275,
             "attack": 1367,
@@ -87635,7 +89048,7 @@ window.allHeroes =
             "health": 2253
         },
         "lb2": {
-            "power": 1441,
+            "power": 1440,
             "attack": 1564,
             "defense": 1455,
             "health": 2578
@@ -87683,6 +89096,7 @@ window.allHeroes =
         ],
         "source": "挑戰 - 石像鬼",
         "Release date": "2024-06-13",
+        "specialId": "drain_strike",
         "star": 5,
         "power": 1065,
         "attack": 1097,
@@ -87699,9 +89113,9 @@ window.allHeroes =
         "family": "gargoyle",
         "image": "https://i.imgur.com/Urzke5i.jpg",
         "costume_id": 0,
-        "originalIndex": 1350,
+        "originalIndex": 1351,
         "lb1": {
-            "power": 1139,
+            "power": 1138,
             "attack": 1183,
             "defense": 1221,
             "health": 1840
@@ -87747,6 +89161,7 @@ window.allHeroes =
         ],
         "source": "S5 - 沙丘",
         "Release date": "2022-05-19",
+        "specialId": "unrelenting_hunter",
         "star": 5,
         "power": 859,
         "attack": 824,
@@ -87764,15 +89179,15 @@ window.allHeroes =
         "family": "sun",
         "image": "https://i.imgur.com/0Yedhet.jpg",
         "costume_id": 0,
-        "originalIndex": 1351,
+        "originalIndex": 1352,
         "lb1": {
-            "power": 917,
+            "power": 916,
             "attack": 888,
             "defense": 856,
             "health": 1722
         },
         "lb2": {
-            "power": 1031,
+            "power": 1030,
             "attack": 1016,
             "defense": 980,
             "health": 1971
@@ -87808,6 +89223,7 @@ window.allHeroes =
         ],
         "source": "S5 - 沙丘",
         "Release date": "2024-04-01",
+        "specialId": "judgment_of_sun",
         "star": 5,
         "power": 1200,
         "attack": 1190,
@@ -87827,15 +89243,15 @@ window.allHeroes =
         "family": "sun",
         "image": "https://i.imgur.com/fLHpPl2.jpg",
         "costume_id": 1,
-        "originalIndex": 1352,
+        "originalIndex": 1353,
         "lb1": {
-            "power": 1284,
+            "power": 1283,
             "attack": 1282,
             "defense": 1247,
             "health": 2578
         },
         "lb2": {
-            "power": 1451,
+            "power": 1450,
             "attack": 1467,
             "defense": 1427,
             "health": 2949
@@ -87873,6 +89289,7 @@ window.allHeroes =
         ],
         "source": "高塔 - 忍者",
         "Release date": "2024-08-27",
+        "specialId": "kunai_assault",
         "star": 5,
         "power": 1095,
         "attack": 1275,
@@ -87898,7 +89315,7 @@ window.allHeroes =
         "family": "ninja",
         "image": "https://i.imgur.com/y4ft1xP.jpg",
         "costume_id": 0,
-        "originalIndex": 1353,
+        "originalIndex": 1354,
         "lb1": {
             "power": 1171,
             "attack": 1374,
@@ -87941,6 +89358,7 @@ window.allHeroes =
         ],
         "source": "S2 - 亞特蘭蒂斯",
         "Release date": "2019-02-01",
+        "specialId": "lucky_nine",
         "star": 5,
         "power": 772,
         "attack": 813,
@@ -87955,7 +89373,7 @@ window.allHeroes =
         "family": "sakura",
         "image": "https://i.imgur.com/MjynoiD.jpg",
         "costume_id": 0,
-        "originalIndex": 1354,
+        "originalIndex": 1355,
         "lb1": {
             "power": 823,
             "attack": 876,
@@ -88008,6 +89426,7 @@ window.allHeroes =
         ],
         "source": "S2 - 亞特蘭蒂斯",
         "Release date": "2022-05-02",
+        "specialId": "blinding_spell",
         "star": 5,
         "power": 943,
         "attack": 965,
@@ -88022,15 +89441,15 @@ window.allHeroes =
         "family": "sakura",
         "image": "https://i.imgur.com/Q0YpLSK.jpg",
         "costume_id": 1,
-        "originalIndex": 1355,
+        "originalIndex": 1356,
         "lb1": {
-            "power": 1008,
+            "power": 1007,
             "attack": 1040,
             "defense": 921,
             "health": 1864
         },
         "lb2": {
-            "power": 1135,
+            "power": 1134,
             "attack": 1190,
             "defense": 1053,
             "health": 2132
@@ -88080,6 +89499,7 @@ window.allHeroes =
         ],
         "source": "超級元素",
         "Release date": "2023-12-04",
+        "specialId": "chains_of_light",
         "star": 5,
         "power": 978,
         "attack": 1001,
@@ -88100,7 +89520,7 @@ window.allHeroes =
         "family": "superelemental",
         "image": "https://i.imgur.com/7BkCCl9.jpg",
         "costume_id": 0,
-        "originalIndex": 1356,
+        "originalIndex": 1357,
         "lb1": {
             "power": 1044,
             "attack": 1078,
@@ -88108,7 +89528,7 @@ window.allHeroes =
             "health": 1789
         },
         "lb2": {
-            "power": 1177,
+            "power": 1176,
             "attack": 1234,
             "defense": 1191,
             "health": 2047
@@ -88153,6 +89573,7 @@ window.allHeroes =
         ],
         "source": "傳奇召喚 - 月英",
         "Release date": "2023-08-01",
+        "specialId": "stupendous_break_in",
         "star": 5,
         "power": 867,
         "attack": 904,
@@ -88171,9 +89592,9 @@ window.allHeroes =
         "family": 2023,
         "image": "https://i.imgur.com/DDTIPj2.jpg",
         "costume_id": 0,
-        "originalIndex": 1357,
+        "originalIndex": 1358,
         "lb1": {
-            "power": 925,
+            "power": 924,
             "attack": 974,
             "defense": 841,
             "health": 1596
@@ -88223,6 +89644,7 @@ window.allHeroes =
         ],
         "source": "挑戰 - 眾神狂歡節",
         "Release date": "2023-07-13",
+        "specialId": "the_two_sides_of_the_moon",
         "star": 5,
         "power": 931,
         "attack": 920,
@@ -88240,9 +89662,9 @@ window.allHeroes =
         "family": "maskedgod",
         "image": "https://i.imgur.com/4FOeHzK.jpg",
         "costume_id": 0,
-        "originalIndex": 1358,
+        "originalIndex": 1359,
         "lb1": {
-            "power": 995,
+            "power": 994,
             "attack": 992,
             "defense": 941,
             "health": 1851
@@ -88288,6 +89710,7 @@ window.allHeroes =
         ],
         "source": "月活動 - 斯普林維爾",
         "Release date": "2023-03-27",
+        "specialId": "petals_of_nourishment",
         "star": 5,
         "power": 868,
         "attack": 797,
@@ -88303,7 +89726,7 @@ window.allHeroes =
         "family": "springvale",
         "image": "https://i.imgur.com/Fqmw2ti.jpg",
         "costume_id": 0,
-        "originalIndex": 1359,
+        "originalIndex": 1360,
         "lb1": {
             "power": 926,
             "attack": 859,
@@ -88311,7 +89734,7 @@ window.allHeroes =
             "health": 1704
         },
         "lb2": {
-            "power": 1042,
+            "power": 1041,
             "attack": 982,
             "defense": 1071,
             "health": 1950
@@ -88355,8 +89778,9 @@ window.allHeroes =
         ],
         "source": "月活動 - 斯普林維爾",
         "Release date": "2024-03-18",
+        "specialId": "dreams_of_nourishment",
         "star": 5,
-        "power": 991,
+        "power": 1034,
         "attack": 946,
         "defense": 1048,
         "health": 2034,
@@ -88370,15 +89794,15 @@ window.allHeroes =
         "family": "springvale",
         "image": "https://i.imgur.com/iHZz8KB.jpg",
         "costume_id": 1,
-        "originalIndex": 1360,
+        "originalIndex": 1361,
         "lb1": {
-            "power": 1105,
+            "power": 1104,
             "attack": 1019,
             "defense": 1129,
             "health": 2191
         },
         "lb2": {
-            "power": 1246,
+            "power": 1245,
             "attack": 1167,
             "defense": 1291,
             "health": 2507
@@ -88422,6 +89846,7 @@ window.allHeroes =
         ],
         "source": "超級元素",
         "Release date": "2022-10-10",
+        "specialId": "archaic_sacred_symbol",
         "star": 5,
         "power": 967,
         "attack": 951,
@@ -88444,15 +89869,15 @@ window.allHeroes =
         "family": "superelemental",
         "image": "https://i.imgur.com/sJ0rROO.jpg",
         "costume_id": 0,
-        "originalIndex": 1361,
+        "originalIndex": 1362,
         "lb1": {
-            "power": 1033,
+            "power": 1032,
             "attack": 1025,
             "defense": 912,
             "health": 2097
         },
         "lb2": {
-            "power": 1164,
+            "power": 1163,
             "attack": 1173,
             "defense": 1043,
             "health": 2400
@@ -88493,6 +89918,7 @@ window.allHeroes =
         ],
         "source": "超級元素",
         "Release date": "2025-06-20",
+        "specialId": "golden_sacred_symbol",
         "star": 5,
         "power": 1213,
         "attack": 1213,
@@ -88515,7 +89941,7 @@ window.allHeroes =
         "family": "superelemental",
         "image": "https://imgur.com/bIp33Sf.jpg",
         "costume_id": 1,
-        "originalIndex": 1362,
+        "originalIndex": 1363,
         "lb1": {
             "power": 1298,
             "attack": 1308,
@@ -88523,7 +89949,7 @@ window.allHeroes =
             "health": 2732
         },
         "lb2": {
-            "power": 1468,
+            "power": 1467,
             "attack": 1496,
             "defense": 1362,
             "health": 3126
@@ -88562,6 +89988,7 @@ window.allHeroes =
         ],
         "source": "S1 - 經典",
         "Release date": "2017-03-01",
+        "specialId": "solar_beam",
         "star": 5,
         "power": 752,
         "attack": 749,
@@ -88575,9 +90002,9 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/d5mevmf.jpg",
         "costume_id": 0,
-        "originalIndex": 1363,
+        "originalIndex": 1364,
         "lb1": {
-            "power": 802,
+            "power": 801,
             "attack": 808,
             "defense": 685,
             "health": 1443
@@ -88619,6 +90046,7 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2020-01-01",
+        "specialId": "solar_strike",
         "star": 5,
         "power": 847,
         "attack": 841,
@@ -88632,9 +90060,9 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/YXbYHIl.jpg",
         "costume_id": 1,
-        "originalIndex": 1364,
+        "originalIndex": 1365,
         "lb1": {
-            "power": 904,
+            "power": 903,
             "attack": 907,
             "defense": 787,
             "health": 1722
@@ -88678,6 +90106,7 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2022-12-26",
+        "specialId": "stellar_beam",
         "star": 5,
         "power": 961,
         "attack": 971,
@@ -88692,9 +90121,9 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/rJxyTcK.jpg",
         "costume_id": 2,
-        "originalIndex": 1365,
+        "originalIndex": 1366,
         "lb1": {
-            "power": 1028,
+            "power": 1027,
             "attack": 1047,
             "defense": 890,
             "health": 2049
@@ -88739,6 +90168,7 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2024-02-12",
+        "specialId": "adorable_beam",
         "star": 5,
         "power": 1127,
         "attack": 1164,
@@ -88755,9 +90185,9 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/6UDBHvu.jpg",
         "costume_id": 3,
-        "originalIndex": 1366,
+        "originalIndex": 1367,
         "lb1": {
-            "power": 1206,
+            "power": 1205,
             "attack": 1255,
             "defense": 1069,
             "health": 2444
@@ -88806,6 +90236,7 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2025-04-08",
+        "specialId": "glass_beam",
         "star": 5,
         "power": 1232,
         "attack": 1340,
@@ -88822,7 +90253,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://imgur.com/7d9tXzA.jpg",
         "costume_id": 4,
-        "originalIndex": 1367,
+        "originalIndex": 1368,
         "lb1": {
             "power": 1318,
             "attack": 1443,
@@ -88830,7 +90261,7 @@ window.allHeroes =
             "health": 2540
         },
         "lb2": {
-            "power": 1491,
+            "power": 1490,
             "attack": 1652,
             "defense": 1359,
             "health": 2906
@@ -88873,6 +90304,7 @@ window.allHeroes =
         ],
         "source": "挑戰 - 眾神狂歡節",
         "Release date": "2022-11-22",
+        "specialId": "strike_from_the_skies",
         "star": 5,
         "power": 838,
         "attack": 842,
@@ -88889,15 +90321,15 @@ window.allHeroes =
         "family": "maskedgod",
         "image": "https://i.imgur.com/YFCeTvj.jpg",
         "costume_id": 0,
-        "originalIndex": 1368,
+        "originalIndex": 1369,
         "lb1": {
-            "power": 894,
+            "power": 893,
             "attack": 907,
             "defense": 854,
             "health": 1516
         },
         "lb2": {
-            "power": 1005,
+            "power": 1004,
             "attack": 1038,
             "defense": 977,
             "health": 1734
@@ -88934,6 +90366,7 @@ window.allHeroes =
         ],
         "source": "S1 - 經典",
         "Release date": "2017-03-01",
+        "specialId": "rite_of_judgement",
         "star": 5,
         "power": 754,
         "attack": 609,
@@ -88948,7 +90381,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/nIFbFrG.jpg",
         "costume_id": 0,
-        "originalIndex": 1369,
+        "originalIndex": 1370,
         "lb1": {
             "power": 804,
             "attack": 657,
@@ -88956,7 +90389,7 @@ window.allHeroes =
             "health": 1536
         },
         "lb2": {
-            "power": 902,
+            "power": 901,
             "attack": 751,
             "defense": 957,
             "health": 1757
@@ -88998,6 +90431,7 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2021-01-18",
+        "specialId": "day_of_judgement",
         "star": 5,
         "power": 849,
         "attack": 760,
@@ -89012,9 +90446,9 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/KCL7Y0s.jpg",
         "costume_id": 1,
-        "originalIndex": 1370,
+        "originalIndex": 1371,
         "lb1": {
-            "power": 906,
+            "power": 905,
             "attack": 819,
             "defense": 878,
             "health": 1775
@@ -89062,6 +90496,7 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2023-02-20",
+        "specialId": "ritual_of_judgement",
         "star": 5,
         "power": 966,
         "attack": 890,
@@ -89076,9 +90511,9 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/feWdynO.jpg",
         "costume_id": 2,
-        "originalIndex": 1371,
+        "originalIndex": 1372,
         "lb1": {
-            "power": 1032,
+            "power": 1031,
             "attack": 958,
             "defense": 970,
             "health": 2141
@@ -89126,6 +90561,7 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2024-06-28",
+        "specialId": "rite_of_cuteness",
         "star": 5,
         "power": 1132,
         "attack": 1178,
@@ -89142,7 +90578,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/ChEEEeb.jpg",
         "costume_id": 3,
-        "originalIndex": 1372,
+        "originalIndex": 1373,
         "lb1": {
             "power": 1210,
             "attack": 1269,
@@ -89150,7 +90586,7 @@ window.allHeroes =
             "health": 2565
         },
         "lb2": {
-            "power": 1367,
+            "power": 1366,
             "attack": 1452,
             "defense": 1153,
             "health": 2935
@@ -89192,6 +90628,7 @@ window.allHeroes =
         ],
         "source": "傳奇召喚 - 月英",
         "Release date": "2022-05-01",
+        "specialId": "shieldmaidens_protection",
         "star": 5,
         "power": 807,
         "attack": 756,
@@ -89210,15 +90647,15 @@ window.allHeroes =
         "family": 2022,
         "image": "https://i.imgur.com/ltyTaFe.jpg",
         "costume_id": 0,
-        "originalIndex": 1373,
+        "originalIndex": 1374,
         "lb1": {
-            "power": 860,
+            "power": 859,
             "attack": 814,
             "defense": 825,
             "health": 1562
         },
         "lb2": {
-            "power": 966,
+            "power": 965,
             "attack": 932,
             "defense": 944,
             "health": 1788
@@ -89252,6 +90689,7 @@ window.allHeroes =
         ],
         "source": "月活動 - 卡勒瓦拉",
         "Release date": "2022-06-20",
+        "specialId": "heirloom_dagger",
         "star": 5,
         "power": 835,
         "attack": 815,
@@ -89268,7 +90706,7 @@ window.allHeroes =
         "family": "kalevala",
         "image": "https://i.imgur.com/tmvOfKK.jpg",
         "costume_id": 0,
-        "originalIndex": 1374,
+        "originalIndex": 1375,
         "lb1": {
             "power": 891,
             "attack": 879,
@@ -89314,6 +90752,7 @@ window.allHeroes =
         ],
         "source": "月活動 - 卡勒瓦拉",
         "Release date": "2023-08-07",
+        "specialId": "cunning_knife",
         "star": 5,
         "power": 1078,
         "attack": 1062,
@@ -89330,15 +90769,15 @@ window.allHeroes =
         "family": "kalevala",
         "image": "https://i.imgur.com/llU8XwL.jpg",
         "costume_id": 1,
-        "originalIndex": 1375,
+        "originalIndex": 1376,
         "lb1": {
-            "power": 1153,
+            "power": 1152,
             "attack": 1144,
             "defense": 1207,
             "health": 2066
         },
         "lb2": {
-            "power": 1301,
+            "power": 1300,
             "attack": 1309,
             "defense": 1381,
             "health": 2365
@@ -89378,6 +90817,7 @@ window.allHeroes =
         ],
         "source": "高塔 - 忍者",
         "Release date": "2023-05-31",
+        "specialId": "tumbling_dragon",
         "star": 5,
         "power": 875,
         "attack": 811,
@@ -89408,9 +90848,9 @@ window.allHeroes =
         "family": "ninja",
         "image": "https://i.imgur.com/4sSfY3A.jpg",
         "costume_id": 0,
-        "originalIndex": 1376,
+        "originalIndex": 1377,
         "lb1": {
-            "power": 934,
+            "power": 933,
             "attack": 874,
             "defense": 939,
             "health": 1713
@@ -89467,6 +90907,7 @@ window.allHeroes =
         ],
         "source": "高塔 - 魔法",
         "Release date": "2025-07-05",
+        "specialId": "twostep_swing",
         "star": 5,
         "power": 1217,
         "attack": 1190,
@@ -89488,15 +90929,15 @@ window.allHeroes =
         "family": "magiccarpet",
         "image": "https://imgur.com/vcJysVw.jpg",
         "costume_id": 0,
-        "originalIndex": 1377,
+        "originalIndex": 1378,
         "lb1": {
-            "power": 1303,
+            "power": 1302,
             "attack": 1283,
             "defense": 1358,
             "health": 2490
         },
         "lb2": {
-            "power": 1473,
+            "power": 1472,
             "attack": 1468,
             "defense": 1554,
             "health": 2849
@@ -89539,6 +90980,7 @@ window.allHeroes =
         ],
         "source": "月活動 - 農曆新年",
         "Release date": "2023-01-19",
+        "specialId": "fierce_fu_jow_pai",
         "star": 5,
         "power": 861,
         "attack": 844,
@@ -89554,15 +90996,15 @@ window.allHeroes =
         "family": "lunaryear",
         "image": "https://i.imgur.com/3mERqj0.jpg",
         "costume_id": 0,
-        "originalIndex": 1378,
+        "originalIndex": 1379,
         "lb1": {
-            "power": 919,
+            "power": 918,
             "attack": 910,
             "defense": 868,
             "health": 1658
         },
         "lb2": {
-            "power": 1033,
+            "power": 1032,
             "attack": 1041,
             "defense": 993,
             "health": 1897
@@ -89602,6 +91044,7 @@ window.allHeroes =
         ],
         "source": "傳奇召喚",
         "Release date": "2024-03-08",
+        "specialId": "home_run",
         "star": 5,
         "power": 1015,
         "attack": 1040,
@@ -89621,7 +91064,7 @@ window.allHeroes =
         "family": "champions",
         "image": "https://i.imgur.com/mxOSRGe.jpg",
         "costume_id": 0,
-        "originalIndex": 1379,
+        "originalIndex": 1380,
         "lb1": {
             "power": 1085,
             "attack": 1121,
@@ -89671,6 +91114,7 @@ window.allHeroes =
         ],
         "source": "星界召喚",
         "Release date": "2024-03-07",
+        "specialId": "wandering_star_shot",
         "star": 5,
         "power": 1013,
         "attack": 1042,
@@ -89689,7 +91133,7 @@ window.allHeroes =
         "family": "astralelves",
         "image": "https://i.imgur.com/P0rxyPZ.jpg",
         "costume_id": 0,
-        "originalIndex": 1380,
+        "originalIndex": 1381,
         "lb1": {
             "power": 1082,
             "attack": 1123,
@@ -89736,6 +91180,7 @@ window.allHeroes =
         ],
         "source": "S1 - 經典",
         "Release date": "2017-03-01",
+        "specialId": "spartan_cleave",
         "star": 5,
         "power": 752,
         "attack": 731,
@@ -89750,9 +91195,9 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/SPyWzYD.jpg",
         "costume_id": 0,
-        "originalIndex": 1381,
+        "originalIndex": 1382,
         "lb1": {
-            "power": 802,
+            "power": 801,
             "attack": 788,
             "defense": 774,
             "health": 1316
@@ -89795,6 +91240,7 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2021-01-18",
+        "specialId": "roman_cleave",
         "star": 5,
         "power": 845,
         "attack": 806,
@@ -89809,7 +91255,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/c7cvRg8.jpg",
         "costume_id": 1,
-        "originalIndex": 1382,
+        "originalIndex": 1383,
         "lb1": {
             "power": 902,
             "attack": 870,
@@ -89817,7 +91263,7 @@ window.allHeroes =
             "health": 1584
         },
         "lb2": {
-            "power": 1015,
+            "power": 1014,
             "attack": 995,
             "defense": 1027,
             "health": 1813
@@ -89856,6 +91302,7 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2022-12-26",
+        "specialId": "spartan_slash",
         "star": 5,
         "power": 960,
         "attack": 926,
@@ -89870,9 +91317,9 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/6haP2Yz.jpg",
         "costume_id": 2,
-        "originalIndex": 1383,
+        "originalIndex": 1384,
         "lb1": {
-            "power": 1026,
+            "power": 1025,
             "attack": 998,
             "defense": 1010,
             "health": 1918
@@ -89922,6 +91369,7 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2023-12-25",
+        "specialId": "toon_cleave",
         "star": 5,
         "power": 1125,
         "attack": 1139,
@@ -89939,9 +91387,9 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/PKsAK4b.jpg",
         "costume_id": 3,
-        "originalIndex": 1384,
+        "originalIndex": 1385,
         "lb1": {
-            "power": 1203,
+            "power": 1202,
             "attack": 1227,
             "defense": 1185,
             "health": 2259
@@ -89989,6 +91437,7 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2025-02-11",
+        "specialId": "glass_cleave",
         "star": 5,
         "power": 1232,
         "attack": 1337,
@@ -90006,7 +91455,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/7lvHaTO.jpg",
         "costume_id": 4,
-        "originalIndex": 1385,
+        "originalIndex": 1386,
         "lb1": {
             "power": 1318,
             "attack": 1440,
@@ -90060,6 +91509,7 @@ window.allHeroes =
         ],
         "source": "高塔 - 貓頭鷹",
         "Release date": "2024-02-14",
+        "specialId": "rites_of_inner_knowledge",
         "star": 5,
         "power": 1047,
         "attack": 970,
@@ -90077,7 +91527,7 @@ window.allHeroes =
         "family": "owl",
         "image": "https://i.imgur.com/JTBt0dY.jpg",
         "costume_id": 0,
-        "originalIndex": 1386,
+        "originalIndex": 1387,
         "lb1": {
             "power": 1119,
             "attack": 1045,
@@ -90085,7 +91535,7 @@ window.allHeroes =
             "health": 2160
         },
         "lb2": {
-            "power": 1263,
+            "power": 1262,
             "attack": 1196,
             "defense": 1333,
             "health": 2471
@@ -90133,6 +91583,7 @@ window.allHeroes =
         ],
         "source": "怪獸島召喚",
         "Release date": "2022-08-25",
+        "specialId": "wild_cleave",
         "star": 5,
         "power": 885,
         "attack": 836,
@@ -90152,9 +91603,9 @@ window.allHeroes =
         "family": "plainshunter",
         "image": "https://i.imgur.com/7OmJaIC.jpg",
         "costume_id": 0,
-        "originalIndex": 1387,
+        "originalIndex": 1388,
         "lb1": {
-            "power": 945,
+            "power": 944,
             "attack": 901,
             "defense": 943,
             "health": 1718
@@ -90205,6 +91656,7 @@ window.allHeroes =
         ],
         "source": "傳奇召喚 - 月英",
         "Release date": "2020-04-01",
+        "specialId": "power_punch",
         "star": 5,
         "power": 771,
         "attack": 743,
@@ -90221,9 +91673,9 @@ window.allHeroes =
         "family": 2020,
         "image": "https://i.imgur.com/ttNHqjc.jpg",
         "costume_id": 0,
-        "originalIndex": 1388,
+        "originalIndex": 1389,
         "lb1": {
-            "power": 822,
+            "power": 821,
             "attack": 801,
             "defense": 785,
             "health": 1405
@@ -90266,6 +91718,7 @@ window.allHeroes =
         ],
         "source": "月活動 - 莫洛維亞",
         "Release date": "2022-10-03",
+        "specialId": "muffin_poisoning",
         "star": 5,
         "power": 850,
         "attack": 817,
@@ -90285,9 +91738,9 @@ window.allHeroes =
         "family": "morlovia",
         "image": "https://i.imgur.com/Lb4Sdwp.jpg",
         "costume_id": 0,
-        "originalIndex": 1389,
+        "originalIndex": 1390,
         "lb1": {
-            "power": 907,
+            "power": 906,
             "attack": 881,
             "defense": 888,
             "health": 1605
@@ -90338,6 +91791,7 @@ window.allHeroes =
         ],
         "source": "傳奇召喚 - 月英",
         "Release date": "2025-05-01",
+        "specialId": "bounty_of_the_spring",
         "star": 5,
         "power": 1077,
         "attack": 1071,
@@ -90356,15 +91810,15 @@ window.allHeroes =
         "family": 2025,
         "image": "https://imgur.com/KK6zHLN.jpg",
         "costume_id": 0,
-        "originalIndex": 1390,
+        "originalIndex": 1391,
         "lb1": {
-            "power": 1151,
+            "power": 1150,
             "attack": 1154,
             "defense": 1165,
             "health": 2113
         },
         "lb2": {
-            "power": 1299,
+            "power": 1298,
             "attack": 1320,
             "defense": 1333,
             "health": 2418
@@ -90407,6 +91861,7 @@ window.allHeroes =
         ],
         "source": "挑戰 - 歌劇秘辛",
         "Release date": "2024-03-21",
+        "specialId": "deceptive_smalltalk",
         "star": 5,
         "power": 1079,
         "attack": 988,
@@ -90425,9 +91880,9 @@ window.allHeroes =
         "family": "opera",
         "image": "https://i.imgur.com/GJH1yAl.jpg",
         "costume_id": 0,
-        "originalIndex": 1391,
+        "originalIndex": 1392,
         "lb1": {
-            "power": 1154,
+            "power": 1153,
             "attack": 1065,
             "defense": 1145,
             "health": 2395
@@ -90480,6 +91935,7 @@ window.allHeroes =
         ],
         "source": "星界召喚",
         "Release date": "2024-09-16",
+        "specialId": "moonlight_crescendo",
         "star": 5,
         "power": 1099,
         "attack": 1052,
@@ -90496,9 +91952,9 @@ window.allHeroes =
         "family": "astralelves",
         "image": "https://i.imgur.com/PSc9HJP.jpg",
         "costume_id": 0,
-        "originalIndex": 1392,
+        "originalIndex": 1393,
         "lb1": {
-            "power": 1176,
+            "power": 1175,
             "attack": 1134,
             "defense": 1245,
             "health": 2182
@@ -90542,6 +91998,7 @@ window.allHeroes =
         ],
         "source": "S5 - 沙丘",
         "Release date": "2023-04-13",
+        "specialId": "impossible_riddle",
         "star": 5,
         "power": 871,
         "attack": 772,
@@ -90561,7 +92018,7 @@ window.allHeroes =
         "family": "sun",
         "image": "https://i.imgur.com/PIgKmeD.jpg",
         "costume_id": 0,
-        "originalIndex": 1393,
+        "originalIndex": 1394,
         "lb1": {
             "power": 929,
             "attack": 832,
@@ -90613,6 +92070,7 @@ window.allHeroes =
         ],
         "source": "S5 - 沙丘",
         "Release date": "2024-06-24",
+        "specialId": "impossible_groove",
         "star": 5,
         "power": 1219,
         "attack": 1194,
@@ -90634,15 +92092,15 @@ window.allHeroes =
         "family": "sun",
         "image": "https://i.imgur.com/4IURwj4.jpg",
         "costume_id": 1,
-        "originalIndex": 1394,
+        "originalIndex": 1395,
         "lb1": {
-            "power": 1304,
+            "power": 1303,
             "attack": 1286,
             "defense": 1309,
             "health": 2588
         },
         "lb2": {
-            "power": 1474,
+            "power": 1473,
             "attack": 1471,
             "defense": 1497,
             "health": 2961
@@ -90687,6 +92145,7 @@ window.allHeroes =
         ],
         "source": "高塔 - 忍者",
         "Release date": "2020-10-13",
+        "specialId": "connect_ki",
         "star": 5,
         "power": 798,
         "attack": 716,
@@ -90710,7 +92169,7 @@ window.allHeroes =
         "family": "ninja",
         "image": "https://i.imgur.com/T4WxYxG.jpg",
         "costume_id": 0,
-        "originalIndex": 1395,
+        "originalIndex": 1396,
         "lb1": {
             "power": 851,
             "attack": 772,
@@ -90718,7 +92177,7 @@ window.allHeroes =
             "health": 1487
         },
         "lb2": {
-            "power": 956,
+            "power": 955,
             "attack": 883,
             "defense": 1013,
             "health": 1701
@@ -90754,6 +92213,7 @@ window.allHeroes =
         ],
         "source": "星界召喚",
         "Release date": "2024-07-10",
+        "specialId": "astral_summon",
         "star": 5,
         "power": 1085,
         "attack": 1032,
@@ -90772,7 +92232,7 @@ window.allHeroes =
         "family": "astralelves",
         "image": "https://i.imgur.com/EiBBCez.jpg",
         "costume_id": 0,
-        "originalIndex": 1396,
+        "originalIndex": 1397,
         "lb1": {
             "power": 1159,
             "attack": 1112,
@@ -90824,6 +92284,7 @@ window.allHeroes =
         ],
         "source": "高塔 - 魔法",
         "Release date": "2021-09-15",
+        "specialId": "butterfly_swarm",
         "star": 5,
         "power": 813,
         "attack": 756,
@@ -90846,7 +92307,7 @@ window.allHeroes =
         "family": "magic",
         "image": "https://i.imgur.com/87toXMW.jpg",
         "costume_id": 0,
-        "originalIndex": 1397,
+        "originalIndex": 1398,
         "lb1": {
             "power": 866,
             "attack": 814,
@@ -90895,6 +92356,7 @@ window.allHeroes =
         ],
         "source": "月活動 - 卡勒瓦拉",
         "Release date": "2025-07-28",
+        "specialId": "mending_stitches",
         "star": 5,
         "power": 1224,
         "attack": 1277,
@@ -90911,7 +92373,7 @@ window.allHeroes =
         "family": "kalevala",
         "image": "https://imgur.com/Bez27Eg.jpg",
         "costume_id": 0,
-        "originalIndex": 1398,
+        "originalIndex": 1399,
         "lb1": {
             "power": 1310,
             "attack": 1376,
@@ -90959,6 +92421,7 @@ window.allHeroes =
         ],
         "source": "傳奇召喚 - 月英",
         "Release date": "2017-09-01",
+        "specialId": "dragon_fang",
         "star": 5,
         "power": 764,
         "attack": 786,
@@ -90973,7 +92436,7 @@ window.allHeroes =
         "family": 2017,
         "image": "https://i.imgur.com/1PxVmlq.jpg",
         "costume_id": 0,
-        "originalIndex": 1399,
+        "originalIndex": 1400,
         "lb1": {
             "power": 815,
             "attack": 848,
@@ -90981,7 +92444,7 @@ window.allHeroes =
             "health": 1345
         },
         "lb2": {
-            "power": 915,
+            "power": 914,
             "attack": 970,
             "defense": 838,
             "health": 1539
@@ -91020,6 +92483,7 @@ window.allHeroes =
         ],
         "source": "傳奇召喚 - 月英",
         "Release date": "2023-10-02",
+        "specialId": "rod_of_freedom",
         "star": 5,
         "power": 969,
         "attack": 988,
@@ -91036,7 +92500,7 @@ window.allHeroes =
         "family": 2017,
         "image": "https://i.imgur.com/dt3i5jN.jpg",
         "costume_id": 1,
-        "originalIndex": 1400,
+        "originalIndex": 1401,
         "lb1": {
             "power": 1035,
             "attack": 1064,
@@ -91044,7 +92508,7 @@ window.allHeroes =
             "health": 1963
         },
         "lb2": {
-            "power": 1167,
+            "power": 1166,
             "attack": 1218,
             "defense": 1075,
             "health": 2246
@@ -91083,6 +92547,7 @@ window.allHeroes =
         ],
         "source": "傳奇召喚 - 月英",
         "Release date": "2019-11-01",
+        "specialId": "sickle_of_eradication",
         "star": 5,
         "power": 770,
         "attack": 735,
@@ -91100,15 +92565,15 @@ window.allHeroes =
         "family": 2019,
         "image": "https://i.imgur.com/5p5UjK8.jpg",
         "costume_id": 0,
-        "originalIndex": 1401,
+        "originalIndex": 1402,
         "lb1": {
-            "power": 821,
+            "power": 820,
             "attack": 792,
             "defense": 794,
             "health": 1400
         },
         "lb2": {
-            "power": 921,
+            "power": 920,
             "attack": 906,
             "defense": 909,
             "health": 1602
@@ -91149,6 +92614,7 @@ window.allHeroes =
         ],
         "source": "高塔 - 冥河",
         "Release date": "2022-09-21",
+        "specialId": "day_of_reckoning",
         "star": 5,
         "power": 857,
         "attack": 877,
@@ -91174,9 +92640,9 @@ window.allHeroes =
         "family": "styx",
         "image": "https://i.imgur.com/erwVVF0.jpg",
         "costume_id": 0,
-        "originalIndex": 1402,
+        "originalIndex": 1403,
         "lb1": {
-            "power": 915,
+            "power": 914,
             "attack": 945,
             "defense": 843,
             "health": 1593
@@ -91226,6 +92692,7 @@ window.allHeroes =
         ],
         "source": "挑戰 - 貝武夫",
         "Release date": "2025-05-18",
+        "specialId": "rush_of_flame",
         "star": 5,
         "power": 1201,
         "attack": 1295,
@@ -91244,7 +92711,7 @@ window.allHeroes =
         "family": "beowulf",
         "image": "https://imgur.com/25R91G2.jpg",
         "costume_id": 0,
-        "originalIndex": 1403,
+        "originalIndex": 1404,
         "lb1": {
             "power": 1285,
             "attack": 1396,
@@ -91252,7 +92719,7 @@ window.allHeroes =
             "health": 2370
         },
         "lb2": {
-            "power": 1453,
+            "power": 1452,
             "attack": 1597,
             "defense": 1389,
             "health": 2712
@@ -91292,6 +92759,7 @@ window.allHeroes =
         ],
         "source": "S3 - 瓦爾哈拉",
         "Release date": "2020-03-26",
+        "specialId": "twist_of_fate",
         "star": 5,
         "power": 787,
         "attack": 770,
@@ -91305,15 +92773,15 @@ window.allHeroes =
         "family": "vanaheim",
         "image": "https://i.imgur.com/evikfGP.jpg",
         "costume_id": 0,
-        "originalIndex": 1404,
+        "originalIndex": 1405,
         "lb1": {
-            "power": 839,
+            "power": 838,
             "attack": 830,
             "defense": 774,
             "health": 1476
         },
         "lb2": {
-            "power": 942,
+            "power": 941,
             "attack": 949,
             "defense": 886,
             "health": 1689
@@ -91347,6 +92815,7 @@ window.allHeroes =
         ],
         "source": "S3 - 瓦爾哈拉",
         "Release date": "2023-08-28",
+        "specialId": "wrath_of_fate",
         "star": 5,
         "power": 986,
         "attack": 1062,
@@ -91360,7 +92829,7 @@ window.allHeroes =
         "family": "vanaheim",
         "image": "https://i.imgur.com/aH5vllh.jpg",
         "costume_id": 1,
-        "originalIndex": 1405,
+        "originalIndex": 1406,
         "lb1": {
             "power": 1053,
             "attack": 1144,
@@ -91368,7 +92837,7 @@ window.allHeroes =
             "health": 1791
         },
         "lb2": {
-            "power": 1188,
+            "power": 1187,
             "attack": 1309,
             "defense": 1134,
             "health": 2049
@@ -91405,6 +92874,7 @@ window.allHeroes =
         ],
         "source": "S3 - 瓦爾哈拉",
         "Release date": "2020-11-26",
+        "specialId": "fury_of_grimnir",
         "star": 5,
         "power": 788,
         "attack": 762,
@@ -91419,15 +92889,15 @@ window.allHeroes =
         "family": "midgard",
         "image": "https://i.imgur.com/WpdZnYI.jpg",
         "costume_id": 0,
-        "originalIndex": 1406,
+        "originalIndex": 1407,
         "lb1": {
-            "power": 840,
+            "power": 839,
             "attack": 821,
             "defense": 810,
             "health": 1434
         },
         "lb2": {
-            "power": 943,
+            "power": 942,
             "attack": 939,
             "defense": 927,
             "health": 1640
@@ -91469,6 +92939,7 @@ window.allHeroes =
         ],
         "source": "S3 - 瓦爾哈拉",
         "Release date": "2023-03-13",
+        "specialId": "rage_of_grimnir",
         "star": 5,
         "power": 986,
         "attack": 956,
@@ -91483,7 +92954,7 @@ window.allHeroes =
         "family": "midgard",
         "image": "https://i.imgur.com/guLxDJt.jpg",
         "costume_id": 1,
-        "originalIndex": 1407,
+        "originalIndex": 1408,
         "lb1": {
             "power": 1053,
             "attack": 1030,
@@ -91491,7 +92962,7 @@ window.allHeroes =
             "health": 1950
         },
         "lb2": {
-            "power": 1188,
+            "power": 1187,
             "attack": 1180,
             "defense": 1205,
             "health": 2231
@@ -91535,6 +93006,7 @@ window.allHeroes =
         ],
         "source": "挑戰節 II",
         "Release date": "2022-12-01",
+        "specialId": "rhythm_of_havoc",
         "star": 5,
         "power": 837,
         "attack": 834,
@@ -91552,9 +93024,9 @@ window.allHeroes =
         "family": "bard",
         "image": "https://i.imgur.com/8WZ5oVt.jpg",
         "costume_id": 0,
-        "originalIndex": 1408,
+        "originalIndex": 1409,
         "lb1": {
-            "power": 893,
+            "power": 892,
             "attack": 899,
             "defense": 861,
             "health": 1514
@@ -91604,6 +93076,7 @@ window.allHeroes =
         ],
         "source": "傳奇召喚 - 月英",
         "Release date": "2019-01-01",
+        "specialId": "mana_stealer",
         "star": 5,
         "power": 770,
         "attack": 618,
@@ -91620,7 +93093,7 @@ window.allHeroes =
         "family": 2019,
         "image": "https://i.imgur.com/wCLflfr.jpg",
         "costume_id": 0,
-        "originalIndex": 1409,
+        "originalIndex": 1410,
         "lb1": {
             "power": 821,
             "attack": 666,
@@ -91665,6 +93138,7 @@ window.allHeroes =
         ],
         "source": "S5 - 沙丘",
         "Release date": "2022-04-21",
+        "specialId": "summon_sand_golems",
         "star": 5,
         "power": 858,
         "attack": 813,
@@ -91682,15 +93156,15 @@ window.allHeroes =
         "family": "moon",
         "image": "https://i.imgur.com/cV84mq0.jpg",
         "costume_id": 0,
-        "originalIndex": 1410,
+        "originalIndex": 1411,
         "lb1": {
-            "power": 916,
+            "power": 915,
             "attack": 876,
             "defense": 883,
             "health": 1691
         },
         "lb2": {
-            "power": 1030,
+            "power": 1029,
             "attack": 1003,
             "defense": 1010,
             "health": 1935
@@ -91739,6 +93213,7 @@ window.allHeroes =
         ],
         "source": "S5 - 沙丘",
         "Release date": "2024-10-05",
+        "specialId": "command_sand_golems",
         "star": 5,
         "power": 1200,
         "attack": 1133,
@@ -91759,7 +93234,7 @@ window.allHeroes =
         "family": "moon",
         "image": "https://i.imgur.com/jWPUwhw.jpg",
         "costume_id": 1,
-        "originalIndex": 1411,
+        "originalIndex": 1412,
         "lb1": {
             "power": 1283,
             "attack": 1220,
@@ -91816,6 +93291,7 @@ window.allHeroes =
         ],
         "source": "挑戰 - 石像鬼",
         "Release date": "2021-11-24",
+        "specialId": "radiant_rapid_fire",
         "star": 5,
         "power": 841,
         "attack": 832,
@@ -91832,7 +93308,7 @@ window.allHeroes =
         "family": "gargoyle",
         "image": "https://i.imgur.com/ifFiCU7.jpg",
         "costume_id": 0,
-        "originalIndex": 1412,
+        "originalIndex": 1413,
         "lb1": {
             "power": 897,
             "attack": 896,
@@ -91840,7 +93316,7 @@ window.allHeroes =
             "health": 1633
         },
         "lb2": {
-            "power": 1009,
+            "power": 1008,
             "attack": 1026,
             "defense": 939,
             "health": 1869
@@ -91886,6 +93362,7 @@ window.allHeroes =
         ],
         "source": "S6 - 深淵謎團",
         "Release date": "2023-10-25",
+        "specialId": "oceans_ruin",
         "star": 5,
         "power": 964,
         "attack": 978,
@@ -91911,9 +93388,9 @@ window.allHeroes =
         "family": "nightmaresofatlantis",
         "image": "https://i.imgur.com/XWgWbVt.jpg",
         "costume_id": 0,
-        "originalIndex": 1413,
+        "originalIndex": 1414,
         "lb1": {
-            "power": 1030,
+            "power": 1029,
             "attack": 1054,
             "defense": 1105,
             "health": 1618
@@ -91967,6 +93444,7 @@ window.allHeroes =
         ],
         "source": "S6 - 深淵謎團",
         "Release date": "2025-01-09",
+        "specialId": "oceans_decay",
         "star": 5,
         "power": 1200,
         "attack": 1264,
@@ -91993,9 +93471,9 @@ window.allHeroes =
         "family": "nightmaresofatlantis",
         "image": "https://i.imgur.com/nKfadia.jpg",
         "costume_id": 1,
-        "originalIndex": 1414,
+        "originalIndex": 1415,
         "lb1": {
-            "power": 1284,
+            "power": 1283,
             "attack": 1363,
             "defense": 1400,
             "health": 2071
@@ -92049,6 +93527,7 @@ window.allHeroes =
         ],
         "source": "高塔 - 貓頭鷹",
         "Release date": "2025-02-05",
+        "specialId": "vengeance_of_owlhalla",
         "star": 5,
         "power": 1159,
         "attack": 1161,
@@ -92067,9 +93546,9 @@ window.allHeroes =
         "family": "owl",
         "image": "https://i.imgur.com/LyzgS9S.jpg",
         "costume_id": 0,
-        "originalIndex": 1415,
+        "originalIndex": 1416,
         "lb1": {
-            "power": 1241,
+            "power": 1240,
             "attack": 1252,
             "defense": 1278,
             "health": 2282
@@ -92121,6 +93600,7 @@ window.allHeroes =
         ],
         "source": "野地召喚",
         "Release date": "2025-04-18",
+        "specialId": "enchanting_melody",
         "star": 5,
         "power": 1174,
         "attack": 1254,
@@ -92139,7 +93619,7 @@ window.allHeroes =
         "family": "woodlandfaun",
         "image": "https://imgur.com/zZJxSMo.jpg",
         "costume_id": 0,
-        "originalIndex": 1416,
+        "originalIndex": 1417,
         "lb1": {
             "power": 1256,
             "attack": 1351,
@@ -92190,6 +93670,7 @@ window.allHeroes =
         ],
         "source": "S2 - 亞特蘭蒂斯",
         "Release date": "2019-02-19",
+        "specialId": "ruler_of_seas",
         "star": 5,
         "power": 775,
         "attack": 745,
@@ -92204,7 +93685,7 @@ window.allHeroes =
         "family": "atlantis",
         "image": "https://i.imgur.com/4yAjxl7.jpg",
         "costume_id": 0,
-        "originalIndex": 1417,
+        "originalIndex": 1418,
         "lb1": {
             "power": 826,
             "attack": 803,
@@ -92212,7 +93693,7 @@ window.allHeroes =
             "health": 1454
         },
         "lb2": {
-            "power": 928,
+            "power": 927,
             "attack": 919,
             "defense": 886,
             "health": 1663
@@ -92248,6 +93729,7 @@ window.allHeroes =
         ],
         "source": "S2 - 亞特蘭蒂斯",
         "Release date": "2021-11-15",
+        "specialId": "oceanic_slayer",
         "star": 5,
         "power": 947,
         "attack": 918,
@@ -92261,15 +93743,15 @@ window.allHeroes =
         "family": "atlantis",
         "image": "https://i.imgur.com/jU6Z8JO.jpg",
         "costume_id": 1,
-        "originalIndex": 1418,
+        "originalIndex": 1419,
         "lb1": {
-            "power": 1012,
+            "power": 1011,
             "attack": 990,
             "defense": 956,
             "health": 1947
         },
         "lb2": {
-            "power": 1140,
+            "power": 1139,
             "attack": 1132,
             "defense": 1095,
             "health": 2228
@@ -92307,6 +93789,7 @@ window.allHeroes =
         ],
         "source": "S4 - 地底荒野",
         "Release date": "2021-03-25",
+        "specialId": "glorious_grace",
         "star": 5,
         "power": 806,
         "attack": 745,
@@ -92323,15 +93806,15 @@ window.allHeroes =
         "family": "underwild",
         "image": "https://i.imgur.com/1q7ZFV3.jpg",
         "costume_id": 0,
-        "originalIndex": 1419,
+        "originalIndex": 1420,
         "lb1": {
-            "power": 860,
+            "power": 859,
             "attack": 803,
             "defense": 870,
             "health": 1502
         },
         "lb2": {
-            "power": 966,
+            "power": 965,
             "attack": 919,
             "defense": 995,
             "health": 1719
@@ -92370,6 +93853,7 @@ window.allHeroes =
         ],
         "source": "S4 - 地底荒野",
         "Release date": "2023-04-27",
+        "specialId": "dazzling_gleam",
         "star": 5,
         "power": 1020,
         "attack": 963,
@@ -92387,7 +93871,7 @@ window.allHeroes =
         "family": "underwild",
         "image": "https://i.imgur.com/CwQ3ejX.jpg",
         "costume_id": 1,
-        "originalIndex": 1420,
+        "originalIndex": 1421,
         "lb1": {
             "power": 1090,
             "attack": 1038,
@@ -92395,7 +93879,7 @@ window.allHeroes =
             "health": 2052
         },
         "lb2": {
-            "power": 1230,
+            "power": 1229,
             "attack": 1188,
             "defense": 1287,
             "health": 2347
@@ -92431,6 +93915,7 @@ window.allHeroes =
         ],
         "source": "三國召喚",
         "Release date": "2023-02-27",
+        "specialId": "the_queens_radiance",
         "star": 5,
         "power": 862,
         "attack": 797,
@@ -92445,7 +93930,7 @@ window.allHeroes =
         "family": "journey",
         "image": "https://i.imgur.com/CNKl3X2.jpg",
         "costume_id": 0,
-        "originalIndex": 1421,
+        "originalIndex": 1422,
         "lb1": {
             "power": 919,
             "attack": 859,
@@ -92453,7 +93938,7 @@ window.allHeroes =
             "health": 1733
         },
         "lb2": {
-            "power": 1034,
+            "power": 1033,
             "attack": 982,
             "defense": 1026,
             "health": 1983
@@ -92499,6 +93984,7 @@ window.allHeroes =
         ],
         "source": "月活動 - 飛沙帝國",
         "Release date": "2018-06-21",
+        "specialId": "queens_curse",
         "star": 5,
         "power": 772,
         "attack": 735,
@@ -92514,9 +94000,9 @@ window.allHeroes =
         "family": "sand",
         "image": "https://i.imgur.com/XCRwmmP.jpg",
         "costume_id": 0,
-        "originalIndex": 1422,
+        "originalIndex": 1423,
         "lb1": {
-            "power": 823,
+            "power": 822,
             "attack": 792,
             "defense": 765,
             "health": 1474
@@ -92565,6 +94051,7 @@ window.allHeroes =
         ],
         "source": "月活動 - 飛沙帝國",
         "Release date": "2021-06-21",
+        "specialId": "sand_wave_rana",
         "star": 5,
         "power": 944,
         "attack": 931,
@@ -92580,7 +94067,7 @@ window.allHeroes =
         "family": "sand",
         "image": "https://i.imgur.com/ETB8w9H.jpg",
         "costume_id": 1,
-        "originalIndex": 1423,
+        "originalIndex": 1424,
         "lb1": {
             "power": 1007,
             "attack": 1003,
@@ -92629,6 +94116,7 @@ window.allHeroes =
         ],
         "source": "傳奇召喚 - 月英",
         "Release date": "2019-06-01",
+        "specialId": "mystics_virtue",
         "star": 5,
         "power": 770,
         "attack": 768,
@@ -92645,9 +94133,9 @@ window.allHeroes =
         "family": 2019,
         "image": "https://i.imgur.com/pCzfhdF.jpg",
         "costume_id": 0,
-        "originalIndex": 1424,
+        "originalIndex": 1425,
         "lb1": {
-            "power": 821,
+            "power": 820,
             "attack": 828,
             "defense": 843,
             "health": 1214
@@ -92700,6 +94188,7 @@ window.allHeroes =
         ],
         "source": "挑戰節 II",
         "Release date": "2022-08-11",
+        "specialId": "hymn_of_enrichment",
         "star": 5,
         "power": 849,
         "attack": 844,
@@ -92717,9 +94206,9 @@ window.allHeroes =
         "family": "bard",
         "image": "https://i.imgur.com/CuNew0r.jpg",
         "costume_id": 0,
-        "originalIndex": 1425,
+        "originalIndex": 1426,
         "lb1": {
-            "power": 906,
+            "power": 905,
             "attack": 910,
             "defense": 868,
             "health": 1567
@@ -92773,6 +94262,7 @@ window.allHeroes =
         ],
         "source": "月活動 - 飛沙帝國",
         "Release date": "2020-06-29",
+        "specialId": "sand_cyclone",
         "star": 5,
         "power": 789,
         "attack": 762,
@@ -92787,15 +94277,15 @@ window.allHeroes =
         "family": "sand",
         "image": "https://i.imgur.com/jRrOk7n.jpg",
         "costume_id": 0,
-        "originalIndex": 1426,
+        "originalIndex": 1427,
         "lb1": {
-            "power": 841,
+            "power": 840,
             "attack": 821,
             "defense": 796,
             "health": 1467
         },
         "lb2": {
-            "power": 944,
+            "power": 943,
             "attack": 939,
             "defense": 911,
             "health": 1678
@@ -92835,6 +94325,7 @@ window.allHeroes =
         ],
         "source": "月活動 - 飛沙帝國",
         "Release date": "2022-05-16",
+        "specialId": "beach_party",
         "star": 5,
         "power": 964,
         "attack": 950,
@@ -92849,15 +94340,15 @@ window.allHeroes =
         "family": "sand",
         "image": "https://i.imgur.com/wRsoDQK.jpg",
         "costume_id": 1,
-        "originalIndex": 1427,
+        "originalIndex": 1428,
         "lb1": {
-            "power": 1030,
+            "power": 1029,
             "attack": 1023,
             "defense": 1010,
             "health": 1886
         },
         "lb2": {
-            "power": 1161,
+            "power": 1160,
             "attack": 1171,
             "defense": 1155,
             "health": 2159
@@ -92903,6 +94394,7 @@ window.allHeroes =
         ],
         "source": "哥布林召喚",
         "Release date": "2024-10-27",
+        "specialId": "a_moment_of_joy",
         "star": 5,
         "power": 1110,
         "attack": 1083,
@@ -92921,15 +94413,15 @@ window.allHeroes =
         "family": "garrisonguard",
         "image": "https://i.imgur.com/founMKj.jpg",
         "costume_id": 0,
-        "originalIndex": 1428,
+        "originalIndex": 1429,
         "lb1": {
-            "power": 1188,
+            "power": 1187,
             "attack": 1167,
             "defense": 1252,
             "health": 2168
         },
         "lb2": {
-            "power": 1341,
+            "power": 1340,
             "attack": 1336,
             "defense": 1432,
             "health": 2481
@@ -92974,6 +94466,7 @@ window.allHeroes =
         ],
         "source": "三國召喚",
         "Release date": "2025-05-22",
+        "specialId": "perilous_waters",
         "star": 5,
         "power": 1203,
         "attack": 1248,
@@ -92996,9 +94489,9 @@ window.allHeroes =
         "family": "outlaws",
         "image": "https://imgur.com/YX2qCp0.jpg",
         "costume_id": 0,
-        "originalIndex": 1429,
+        "originalIndex": 1430,
         "lb1": {
-            "power": 1288,
+            "power": 1287,
             "attack": 1345,
             "defense": 1314,
             "health": 2315
@@ -93052,6 +94545,7 @@ window.allHeroes =
         ],
         "source": "星界召喚",
         "Release date": "2024-12-22",
+        "specialId": "doublebarreled_starstick",
         "star": 5,
         "power": 1157,
         "attack": 1233,
@@ -93071,15 +94565,15 @@ window.allHeroes =
         "family": "astraldwarfs",
         "image": "https://i.imgur.com/iWjHJHA.jpg",
         "costume_id": 0,
-        "originalIndex": 1430,
+        "originalIndex": 1431,
         "lb1": {
-            "power": 1238,
+            "power": 1237,
             "attack": 1329,
             "defense": 1276,
             "health": 2075
         },
         "lb2": {
-            "power": 1399,
+            "power": 1398,
             "attack": 1521,
             "defense": 1460,
             "health": 2374
@@ -93123,6 +94617,7 @@ window.allHeroes =
         ],
         "source": "聯盟 - 飛蛾",
         "Release date": "2025-01-23",
+        "specialId": "toxic_incense",
         "star": 5,
         "power": 1178,
         "attack": 1242,
@@ -93140,7 +94635,7 @@ window.allHeroes =
         "family": "moth",
         "image": "https://i.imgur.com/S7h6aSM.jpg",
         "costume_id": 0,
-        "originalIndex": 1431,
+        "originalIndex": 1432,
         "lb1": {
             "power": 1260,
             "attack": 1338,
@@ -93198,6 +94693,7 @@ window.allHeroes =
         ],
         "source": "哥布林召喚",
         "Release date": "2024-04-15",
+        "specialId": "boar_of_fury",
         "star": 5,
         "power": 1063,
         "attack": 1044,
@@ -93217,7 +94713,7 @@ window.allHeroes =
         "family": "goblin",
         "image": "https://i.imgur.com/oI9QMY8.jpg",
         "costume_id": 0,
-        "originalIndex": 1432,
+        "originalIndex": 1433,
         "lb1": {
             "power": 1136,
             "attack": 1125,
@@ -93225,7 +94721,7 @@ window.allHeroes =
             "health": 2066
         },
         "lb2": {
-            "power": 1282,
+            "power": 1281,
             "attack": 1287,
             "defense": 1341,
             "health": 2364
@@ -93275,6 +94771,7 @@ window.allHeroes =
         ],
         "source": "聖約召喚",
         "Release date": "2023-12-08",
+        "specialId": "reversed_lifeforce",
         "star": 5,
         "power": 979,
         "attack": 906,
@@ -93295,15 +94792,15 @@ window.allHeroes =
         "family": "construct",
         "image": "https://i.imgur.com/elVlVhm.jpg",
         "costume_id": 0,
-        "originalIndex": 1433,
+        "originalIndex": 1434,
         "lb1": {
-            "power": 1046,
+            "power": 1045,
             "attack": 976,
             "defense": 1107,
             "health": 1922
         },
         "lb2": {
-            "power": 1179,
+            "power": 1178,
             "attack": 1117,
             "defense": 1267,
             "health": 2199
@@ -93346,6 +94843,7 @@ window.allHeroes =
         ],
         "source": "哥布林召喚",
         "Release date": "2024-04-15",
+        "specialId": "rude_awakening",
         "star": 5,
         "power": 1054,
         "attack": 1054,
@@ -93363,7 +94861,7 @@ window.allHeroes =
         "family": "garrisonguard",
         "image": "https://i.imgur.com/5LBrUnk.jpg",
         "costume_id": 0,
-        "originalIndex": 1434,
+        "originalIndex": 1435,
         "lb1": {
             "power": 1126,
             "attack": 1136,
@@ -93371,7 +94869,7 @@ window.allHeroes =
             "health": 1835
         },
         "lb2": {
-            "power": 1271,
+            "power": 1270,
             "attack": 1300,
             "defense": 1417,
             "health": 2100
@@ -93415,6 +94913,7 @@ window.allHeroes =
         ],
         "source": "S3 - 瓦爾哈拉",
         "Release date": "2020-02-27",
+        "specialId": "gold_weaver",
         "star": 5,
         "power": 788,
         "attack": 788,
@@ -93429,15 +94928,15 @@ window.allHeroes =
         "family": "midgard",
         "image": "https://i.imgur.com/IEuL57g.jpg",
         "costume_id": 0,
-        "originalIndex": 1435,
+        "originalIndex": 1436,
         "lb1": {
-            "power": 841,
+            "power": 840,
             "attack": 850,
             "defense": 772,
             "health": 1443
         },
         "lb2": {
-            "power": 944,
+            "power": 943,
             "attack": 972,
             "defense": 883,
             "health": 1651
@@ -93473,6 +94972,7 @@ window.allHeroes =
         ],
         "source": "S3 - 瓦爾哈拉",
         "Release date": "2022-08-29",
+        "specialId": "golden_thread",
         "star": 5,
         "power": 987,
         "attack": 961,
@@ -93487,7 +94987,7 @@ window.allHeroes =
         "family": "midgard",
         "image": "https://i.imgur.com/L0IBEq2.jpg",
         "costume_id": 1,
-        "originalIndex": 1436,
+        "originalIndex": 1437,
         "lb1": {
             "power": 1054,
             "attack": 1036,
@@ -93531,6 +95031,7 @@ window.allHeroes =
         ],
         "source": "聖約召喚",
         "Release date": "2025-01-11",
+        "specialId": "greed_and_bribery",
         "star": 5,
         "power": 1155,
         "attack": 1238,
@@ -93547,15 +95048,15 @@ window.allHeroes =
         "family": "fox",
         "image": "https://i.imgur.com/Cj9sBht.jpg",
         "costume_id": 0,
-        "originalIndex": 1437,
+        "originalIndex": 1438,
         "lb1": {
-            "power": 1235,
+            "power": 1234,
             "attack": 1334,
             "defense": 1309,
             "health": 1975
         },
         "lb2": {
-            "power": 1395,
+            "power": 1394,
             "attack": 1526,
             "defense": 1498,
             "health": 2260
@@ -93597,6 +95098,7 @@ window.allHeroes =
         ],
         "source": "月活動 - 斯普林維爾",
         "Release date": "2020-04-06",
+        "specialId": "luminous_lance",
         "star": 5,
         "power": 789,
         "attack": 778,
@@ -93611,7 +95113,7 @@ window.allHeroes =
         "family": "springvale",
         "image": "https://i.imgur.com/YbdZndT.jpg",
         "costume_id": 0,
-        "originalIndex": 1438,
+        "originalIndex": 1439,
         "lb1": {
             "power": 841,
             "attack": 839,
@@ -93656,6 +95158,7 @@ window.allHeroes =
         ],
         "source": "超級元素",
         "Release date": "2024-09-04",
+        "specialId": "dance_of_the_slimy",
         "star": 5,
         "power": 1098,
         "attack": 1122,
@@ -93675,7 +95178,7 @@ window.allHeroes =
         "family": "slime",
         "image": "https://i.imgur.com/IpdLyXH.jpg",
         "costume_id": 0,
-        "originalIndex": 1439,
+        "originalIndex": 1440,
         "lb1": {
             "power": 1174,
             "attack": 1209,
@@ -93683,7 +95186,7 @@ window.allHeroes =
             "health": 2142
         },
         "lb2": {
-            "power": 1326,
+            "power": 1325,
             "attack": 1384,
             "defense": 1333,
             "health": 2451
@@ -93727,6 +95230,7 @@ window.allHeroes =
         ],
         "source": "三國召喚",
         "Release date": "2024-04-02",
+        "specialId": "golden_cicada",
         "star": 5,
         "power": 1025,
         "attack": 1011,
@@ -93744,7 +95248,7 @@ window.allHeroes =
         "family": "kingdom",
         "image": "https://i.imgur.com/y2EYio1.jpg",
         "costume_id": 0,
-        "originalIndex": 1440,
+        "originalIndex": 1441,
         "lb1": {
             "power": 1095,
             "attack": 1090,
@@ -93794,6 +95298,7 @@ window.allHeroes =
         ],
         "source": "S3 - 瓦爾哈拉",
         "Release date": "2021-01-28",
+        "specialId": "power_of_mjolnir",
         "star": 5,
         "power": 788,
         "attack": 749,
@@ -93815,15 +95320,15 @@ window.allHeroes =
         "family": "midgard",
         "image": "https://i.imgur.com/Cls9o26.jpg",
         "costume_id": 0,
-        "originalIndex": 1441,
+        "originalIndex": 1442,
         "lb1": {
-            "power": 840,
+            "power": 839,
             "attack": 808,
             "defense": 792,
             "health": 1502
         },
         "lb2": {
-            "power": 943,
+            "power": 942,
             "attack": 924,
             "defense": 906,
             "health": 1719
@@ -93859,6 +95364,7 @@ window.allHeroes =
         ],
         "source": "S3 - 瓦爾哈拉",
         "Release date": "2022-12-19",
+        "specialId": "energy_of_mjolnir",
         "star": 5,
         "power": 986,
         "attack": 935,
@@ -93880,15 +95386,15 @@ window.allHeroes =
         "family": "midgard",
         "image": "https://i.imgur.com/LYyDsUh.jpg",
         "costume_id": 1,
-        "originalIndex": 1442,
+        "originalIndex": 1443,
         "lb1": {
-            "power": 1054,
+            "power": 1053,
             "attack": 1008,
             "defense": 1018,
             "health": 2079
         },
         "lb2": {
-            "power": 1188,
+            "power": 1187,
             "attack": 1153,
             "defense": 1166,
             "health": 2378
@@ -93928,6 +95434,7 @@ window.allHeroes =
         ],
         "source": "怪獸島召喚",
         "Release date": "2023-05-06",
+        "specialId": "warcry_of_the_jungle",
         "star": 5,
         "power": 896,
         "attack": 861,
@@ -93946,15 +95453,15 @@ window.allHeroes =
         "family": "junglehunter",
         "image": "https://i.imgur.com/8fPiMj3.jpg",
         "costume_id": 0,
-        "originalIndex": 1443,
+        "originalIndex": 1444,
         "lb1": {
-            "power": 956,
+            "power": 955,
             "attack": 927,
             "defense": 941,
             "health": 1736
         },
         "lb2": {
-            "power": 1076,
+            "power": 1075,
             "attack": 1061,
             "defense": 1076,
             "health": 1986
@@ -94000,6 +95507,7 @@ window.allHeroes =
         ],
         "source": "怪獸島召喚",
         "Release date": "2024-05-23",
+        "specialId": "guiding_arrow",
         "star": 5,
         "power": 1122,
         "attack": 1168,
@@ -94018,7 +95526,7 @@ window.allHeroes =
         "family": "plainshunter",
         "image": "https://i.imgur.com/3kaZWy1.jpg",
         "costume_id": 0,
-        "originalIndex": 1444,
+        "originalIndex": 1445,
         "lb1": {
             "power": 1199,
             "attack": 1258,
@@ -94065,6 +95573,7 @@ window.allHeroes =
         ],
         "source": "高塔 - 忍者",
         "Release date": "2022-02-02",
+        "specialId": "lethal_needles",
         "star": 5,
         "power": 818,
         "attack": 821,
@@ -94089,7 +95598,7 @@ window.allHeroes =
         "family": "ninja",
         "image": "https://i.imgur.com/yKvm70P.jpg",
         "costume_id": 0,
-        "originalIndex": 1445,
+        "originalIndex": 1446,
         "lb1": {
             "power": 872,
             "attack": 885,
@@ -94097,7 +95606,7 @@ window.allHeroes =
             "health": 1607
         },
         "lb2": {
-            "power": 980,
+            "power": 979,
             "attack": 1013,
             "defense": 868,
             "health": 1838
@@ -94143,6 +95652,7 @@ window.allHeroes =
         ],
         "source": "傳奇召喚 - 月英",
         "Release date": "2021-02-01",
+        "specialId": "strike_of_the_cobra",
         "star": 5,
         "power": 786,
         "attack": 778,
@@ -94161,9 +95671,9 @@ window.allHeroes =
         "family": 2021,
         "image": "https://i.imgur.com/1T6P7Be.jpg",
         "costume_id": 0,
-        "originalIndex": 1446,
+        "originalIndex": 1447,
         "lb1": {
-            "power": 838,
+            "power": 837,
             "attack": 839,
             "defense": 783,
             "health": 1427
@@ -94219,6 +95729,7 @@ window.allHeroes =
         ],
         "source": "高塔 - 魔法",
         "Release date": "2023-11-15",
+        "specialId": "pawns_of_divinity",
         "star": 5,
         "power": 956,
         "attack": 939,
@@ -94242,15 +95753,15 @@ window.allHeroes =
         "family": "magic",
         "image": "https://i.imgur.com/Ssu3ay2.jpg",
         "costume_id": 0,
-        "originalIndex": 1447,
+        "originalIndex": 1448,
         "lb1": {
-            "power": 1022,
+            "power": 1021,
             "attack": 1012,
             "defense": 1018,
             "health": 1838
         },
         "lb2": {
-            "power": 1151,
+            "power": 1150,
             "attack": 1158,
             "defense": 1165,
             "health": 2103
@@ -94297,6 +95808,7 @@ window.allHeroes =
         ],
         "source": "S1 - 經典",
         "Release date": "2017-03-01",
+        "specialId": "omniheal",
         "star": 5,
         "power": 755,
         "attack": 714,
@@ -94311,7 +95823,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/aHsNbej.jpg",
         "costume_id": 0,
-        "originalIndex": 1448,
+        "originalIndex": 1449,
         "lb1": {
             "power": 804,
             "attack": 770,
@@ -94362,6 +95874,7 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2020-01-01",
+        "specialId": "omnicure",
         "star": 5,
         "power": 850,
         "attack": 797,
@@ -94376,9 +95889,9 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/pm7wcbP.jpg",
         "costume_id": 1,
-        "originalIndex": 1449,
+        "originalIndex": 1450,
         "lb1": {
-            "power": 907,
+            "power": 906,
             "attack": 859,
             "defense": 852,
             "health": 1733
@@ -94427,6 +95940,7 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2022-09-05",
+        "specialId": "omnimend",
         "star": 5,
         "power": 966,
         "attack": 897,
@@ -94441,15 +95955,15 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/J8lGs8A.jpg",
         "costume_id": 2,
-        "originalIndex": 1450,
+        "originalIndex": 1451,
         "lb1": {
-            "power": 1032,
+            "power": 1031,
             "attack": 967,
             "defense": 976,
             "health": 2109
         },
         "lb2": {
-            "power": 1163,
+            "power": 1162,
             "attack": 1106,
             "defense": 1117,
             "health": 2413
@@ -94492,6 +96006,7 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2023-10-30",
+        "specialId": "adorable_heal",
         "star": 5,
         "power": 1132,
         "attack": 1100,
@@ -94508,7 +96023,7 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/zJxvLuN.jpg",
         "costume_id": 3,
-        "originalIndex": 1451,
+        "originalIndex": 1452,
         "lb1": {
             "power": 1210,
             "attack": 1185,
@@ -94561,6 +96076,7 @@ window.allHeroes =
         ],
         "source": "服裝間",
         "Release date": "2024-12-25",
+        "specialId": "glass_heal",
         "star": 5,
         "power": 1238,
         "attack": 1239,
@@ -94578,15 +96094,15 @@ window.allHeroes =
         "family": "classic",
         "image": "https://i.imgur.com/Vcxpsu2.jpg",
         "costume_id": 4,
-        "originalIndex": 1452,
+        "originalIndex": 1453,
         "lb1": {
-            "power": 1325,
+            "power": 1324,
             "attack": 1335,
             "defense": 1354,
             "health": 2524
         },
         "lb2": {
-            "power": 1498,
+            "power": 1497,
             "attack": 1527,
             "defense": 1550,
             "health": 2888
@@ -94629,6 +96145,7 @@ window.allHeroes =
         ],
         "source": "月活動 - 莫洛維亞",
         "Release date": "2024-09-23",
+        "specialId": "blood_illusion",
         "star": 5,
         "power": 1054,
         "attack": 1184,
@@ -94644,7 +96161,7 @@ window.allHeroes =
         "family": "morlovia",
         "image": "https://i.imgur.com/ogAtunM.jpg",
         "costume_id": 0,
-        "originalIndex": 1453,
+        "originalIndex": 1454,
         "lb1": {
             "power": 1127,
             "attack": 1276,
@@ -94652,7 +96169,7 @@ window.allHeroes =
             "health": 1554
         },
         "lb2": {
-            "power": 1272,
+            "power": 1271,
             "attack": 1460,
             "defense": 1381,
             "health": 1778
@@ -94698,6 +96215,7 @@ window.allHeroes =
         ],
         "source": "挑戰 - 貝武夫",
         "Release date": "2024-11-25",
+        "specialId": "cup_of_mead",
         "star": 5,
         "power": 1182,
         "attack": 1112,
@@ -94719,7 +96237,7 @@ window.allHeroes =
         "family": "beowulf",
         "image": "https://i.imgur.com/yG43ChX.jpg",
         "costume_id": 0,
-        "originalIndex": 1454,
+        "originalIndex": 1455,
         "lb1": {
             "power": 1265,
             "attack": 1198,
@@ -94770,6 +96288,7 @@ window.allHeroes =
         ],
         "source": "挑戰節 I",
         "Release date": "2019-02-14",
+        "specialId": "rabbits_watch",
         "star": 5,
         "power": 779,
         "attack": 731,
@@ -94783,7 +96302,7 @@ window.allHeroes =
         "family": "wonderland",
         "image": "https://i.imgur.com/00qNGOk.jpg",
         "costume_id": 0,
-        "originalIndex": 1455,
+        "originalIndex": 1456,
         "lb1": {
             "power": 831,
             "attack": 788,
@@ -94791,7 +96310,7 @@ window.allHeroes =
             "health": 1458
         },
         "lb2": {
-            "power": 933,
+            "power": 932,
             "attack": 901,
             "defense": 924,
             "health": 1668
@@ -94827,6 +96346,7 @@ window.allHeroes =
         ],
         "source": "挑戰節 I",
         "Release date": "2022-02-17",
+        "specialId": "cosmic_clock",
         "star": 5,
         "power": 977,
         "attack": 941,
@@ -94842,7 +96362,7 @@ window.allHeroes =
         "family": "wonderland",
         "image": "https://i.imgur.com/qj3SAsZ.jpg",
         "costume_id": 1,
-        "originalIndex": 1456,
+        "originalIndex": 1457,
         "lb1": {
             "power": 1043,
             "attack": 1014,
@@ -94850,7 +96370,7 @@ window.allHeroes =
             "health": 2028
         },
         "lb2": {
-            "power": 1176,
+            "power": 1175,
             "attack": 1160,
             "defense": 1142,
             "health": 2321
@@ -94894,6 +96414,7 @@ window.allHeroes =
         ],
         "source": "高塔 - 魔法",
         "Release date": "2023-05-03",
+        "specialId": "levitating_lunchbox_deluxe",
         "star": 5,
         "power": 891,
         "attack": 832,
@@ -94917,7 +96438,7 @@ window.allHeroes =
         "family": "magic",
         "image": "https://i.imgur.com/Njfyzmw.jpg",
         "costume_id": 0,
-        "originalIndex": 1457,
+        "originalIndex": 1458,
         "lb1": {
             "power": 951,
             "attack": 896,
@@ -94925,7 +96446,7 @@ window.allHeroes =
             "health": 1722
         },
         "lb2": {
-            "power": 1071,
+            "power": 1070,
             "attack": 1026,
             "defense": 1109,
             "health": 1971
@@ -94976,6 +96497,7 @@ window.allHeroes =
         ],
         "source": "聯盟 - 騎士衝擊",
         "Release date": "2024-01-10",
+        "specialId": "ursine_protection",
         "star": 5,
         "power": 1027,
         "attack": 962,
@@ -94994,9 +96516,9 @@ window.allHeroes =
         "family": "stag",
         "image": "https://i.imgur.com/Dx6MykQ.jpg",
         "costume_id": 0,
-        "originalIndex": 1458,
+        "originalIndex": 1459,
         "lb1": {
-            "power": 1098,
+            "power": 1097,
             "attack": 1036,
             "defense": 1132,
             "health": 2093
@@ -95047,6 +96569,7 @@ window.allHeroes =
         ],
         "source": "聯盟 - 騎士衝擊",
         "Release date": "2021-10-13",
+        "specialId": "commanders_gauntlet",
         "star": 5,
         "power": 816,
         "attack": 768,
@@ -95061,7 +96584,7 @@ window.allHeroes =
         "family": "wolf",
         "image": "https://i.imgur.com/8Qu4qUF.jpg",
         "costume_id": 0,
-        "originalIndex": 1459,
+        "originalIndex": 1460,
         "lb1": {
             "power": 870,
             "attack": 828,
@@ -95069,7 +96592,7 @@ window.allHeroes =
             "health": 1562
         },
         "lb2": {
-            "power": 978,
+            "power": 977,
             "attack": 947,
             "defense": 967,
             "health": 1788
@@ -95110,6 +96633,7 @@ window.allHeroes =
         ],
         "source": "聯盟 - 騎士衝擊",
         "Release date": "2024-12-17",
+        "specialId": "gold_gauntlet",
         "star": 5,
         "power": 1148,
         "attack": 1133,
@@ -95128,9 +96652,9 @@ window.allHeroes =
         "family": "wolf",
         "image": "https://i.imgur.com/2DLIDng.jpg",
         "costume_id": 1,
-        "originalIndex": 1460,
+        "originalIndex": 1461,
         "lb1": {
-            "power": 1228,
+            "power": 1227,
             "attack": 1221,
             "defense": 1258,
             "health": 2308
@@ -95177,6 +96701,7 @@ window.allHeroes =
         ],
         "source": "神秘 - 暗影召喚",
         "Release date": "2025-01-09",
+        "specialId": "eldritch_sign_bolts",
         "star": 5,
         "power": 1165,
         "attack": 1211,
@@ -95191,9 +96716,9 @@ window.allHeroes =
         "family": "cultist",
         "image": "https://i.imgur.com/EHlubEr.jpg",
         "costume_id": 0,
-        "originalIndex": 1461,
+        "originalIndex": 1462,
         "lb1": {
-            "power": 1247,
+            "power": 1246,
             "attack": 1305,
             "defense": 1256,
             "health": 2237
@@ -95243,6 +96768,7 @@ window.allHeroes =
         ],
         "source": "超級元素",
         "Release date": "2023-07-17",
+        "specialId": "cascading_whirlwind",
         "star": 5,
         "power": 940,
         "attack": 951,
@@ -95264,15 +96790,15 @@ window.allHeroes =
         "family": "superelemental",
         "image": "https://i.imgur.com/DZtGVoI.jpg",
         "costume_id": 0,
-        "originalIndex": 1462,
+        "originalIndex": 1463,
         "lb1": {
-            "power": 1004,
+            "power": 1003,
             "attack": 1025,
             "defense": 956,
             "health": 1802
         },
         "lb2": {
-            "power": 1131,
+            "power": 1130,
             "attack": 1173,
             "defense": 1094,
             "health": 2062
@@ -95309,6 +96835,7 @@ window.allHeroes =
         ],
         "source": "超級元素",
         "Release date": "2022-10-10",
+        "specialId": "unwavering_devotion",
         "star": 5,
         "power": 895,
         "attack": 815,
@@ -95330,15 +96857,15 @@ window.allHeroes =
         "family": "superelemental",
         "image": "https://i.imgur.com/h5xLq71.jpg",
         "costume_id": 0,
-        "originalIndex": 1463,
+        "originalIndex": 1464,
         "lb1": {
-            "power": 956,
+            "power": 955,
             "attack": 879,
             "defense": 947,
             "health": 1844
         },
         "lb2": {
-            "power": 1076,
+            "power": 1075,
             "attack": 1005,
             "defense": 1084,
             "health": 2110
@@ -95379,6 +96906,7 @@ window.allHeroes =
         ],
         "source": "高塔 - 魔法",
         "Release date": "2025-05-29",
+        "specialId": "soaring_blast",
         "star": 5,
         "power": 1210,
         "attack": 1297,
@@ -95399,15 +96927,15 @@ window.allHeroes =
         "family": "magiccarpet",
         "image": "https://imgur.com/da8x4gT.jpg",
         "costume_id": 0,
-        "originalIndex": 1464,
+        "originalIndex": 1465,
         "lb1": {
-            "power": 1295,
+            "power": 1294,
             "attack": 1398,
             "defense": 1258,
             "health": 2346
         },
         "lb2": {
-            "power": 1464,
+            "power": 1463,
             "attack": 1600,
             "defense": 1440,
             "health": 2684
@@ -95446,6 +96974,7 @@ window.allHeroes =
         ],
         "source": "S4 - 地底荒野",
         "Release date": "2021-12-02",
+        "specialId": "swift_stingers",
         "star": 5,
         "power": 812,
         "attack": 801,
@@ -95462,15 +96991,15 @@ window.allHeroes =
         "family": "underwild",
         "image": "https://i.imgur.com/hsqxizP.jpg",
         "costume_id": 0,
-        "originalIndex": 1465,
+        "originalIndex": 1466,
         "lb1": {
-            "power": 866,
+            "power": 865,
             "attack": 863,
             "defense": 814,
             "health": 1505
         },
         "lb2": {
-            "power": 973,
+            "power": 972,
             "attack": 988,
             "defense": 932,
             "health": 1722
@@ -95515,6 +97044,7 @@ window.allHeroes =
         ],
         "source": "S4 - 地底荒野",
         "Release date": "2024-06-20",
+        "specialId": "sharp_stingers",
         "star": 5,
         "power": 1028,
         "attack": 1046,
@@ -95531,15 +97061,15 @@ window.allHeroes =
         "family": "underwild",
         "image": "https://i.imgur.com/KswtgYH.jpg",
         "costume_id": 1,
-        "originalIndex": 1466,
+        "originalIndex": 1467,
         "lb1": {
-            "power": 1099,
+            "power": 1098,
             "attack": 1128,
             "defense": 1043,
             "health": 2049
         },
         "lb2": {
-            "power": 1239,
+            "power": 1238,
             "attack": 1290,
             "defense": 1194,
             "health": 2344
@@ -95583,6 +97113,7 @@ window.allHeroes =
         ],
         "source": "月活動 - 海灘派對",
         "Release date": "2024-06-03",
+        "specialId": "ice_cream_smash",
         "star": 5,
         "power": 1016,
         "attack": 992,
@@ -95600,7 +97131,7 @@ window.allHeroes =
         "family": "beachparty",
         "image": "https://i.imgur.com/wpHKBfv.jpg",
         "costume_id": 0,
-        "originalIndex": 1467,
+        "originalIndex": 1468,
         "lb1": {
             "power": 1086,
             "attack": 1070,
@@ -95608,7 +97139,7 @@ window.allHeroes =
             "health": 2035
         },
         "lb2": {
-            "power": 1225,
+            "power": 1224,
             "attack": 1224,
             "defense": 1234,
             "health": 2329
@@ -95649,6 +97180,7 @@ window.allHeroes =
         ],
         "source": "三國召喚",
         "Release date": "2022-03-14",
+        "specialId": "viper_blade",
         "star": 5,
         "power": 835,
         "attack": 856,
@@ -95662,7 +97194,7 @@ window.allHeroes =
         "family": "kingdom",
         "image": "https://i.imgur.com/stJf0Qg.jpg",
         "costume_id": 0,
-        "originalIndex": 1468,
+        "originalIndex": 1469,
         "lb1": {
             "power": 890,
             "attack": 923,
@@ -95670,7 +97202,7 @@ window.allHeroes =
             "health": 1527
         },
         "lb2": {
-            "power": 1001,
+            "power": 1000,
             "attack": 1056,
             "defense": 934,
             "health": 1747
@@ -95708,6 +97240,7 @@ window.allHeroes =
         ],
         "source": "三國召喚",
         "Release date": "2024-10-29",
+        "specialId": "viper_blade_costume_bear_slayer",
         "star": 5,
         "power": 1104,
         "attack": 1194,
@@ -95727,15 +97260,15 @@ window.allHeroes =
         "family": "kingdom",
         "image": "https://i.imgur.com/LeENxWF.jpg",
         "costume_id": 1,
-        "originalIndex": 1469,
+        "originalIndex": 1470,
         "lb1": {
-            "power": 1181,
+            "power": 1180,
             "attack": 1287,
             "defense": 1071,
             "health": 2182
         },
         "lb2": {
-            "power": 1334,
+            "power": 1333,
             "attack": 1474,
             "defense": 1227,
             "health": 2496
@@ -95779,6 +97312,7 @@ window.allHeroes =
         ],
         "source": "三國召喚",
         "Release date": "2022-03-14",
+        "specialId": "martial_masterstroke",
         "star": 5,
         "power": 835,
         "attack": 710,
@@ -95794,7 +97328,7 @@ window.allHeroes =
         "family": "kingdom",
         "image": "https://i.imgur.com/jjSBiGT.jpg",
         "costume_id": 0,
-        "originalIndex": 1470,
+        "originalIndex": 1471,
         "lb1": {
             "power": 891,
             "attack": 765,
@@ -95802,7 +97336,7 @@ window.allHeroes =
             "health": 1665
         },
         "lb2": {
-            "power": 1002,
+            "power": 1001,
             "attack": 876,
             "defense": 1084,
             "health": 1905
@@ -95841,6 +97375,7 @@ window.allHeroes =
         ],
         "source": "三國召喚",
         "Release date": "2024-05-28",
+        "specialId": "triumph_of_strategy",
         "star": 5,
         "power": 1105,
         "attack": 950,
@@ -95861,7 +97396,7 @@ window.allHeroes =
         "family": "kingdom",
         "image": "https://i.imgur.com/zdjoPv7.jpg",
         "costume_id": 1,
-        "originalIndex": 1471,
+        "originalIndex": 1472,
         "lb1": {
             "power": 1181,
             "attack": 1024,
@@ -95869,7 +97404,7 @@ window.allHeroes =
             "health": 2422
         },
         "lb2": {
-            "power": 1334,
+            "power": 1333,
             "attack": 1171,
             "defense": 1467,
             "health": 2772
@@ -95908,6 +97443,7 @@ window.allHeroes =
         ],
         "source": "傳奇召喚 - 月英",
         "Release date": "2024-01-01",
+        "specialId": "dawnlight_rally",
         "star": 5,
         "power": 953,
         "attack": 871,
@@ -95926,7 +97462,7 @@ window.allHeroes =
         "family": 2024,
         "image": "https://i.imgur.com/wf4Kvkm.jpg",
         "costume_id": 0,
-        "originalIndex": 1472,
+        "originalIndex": 1473,
         "lb1": {
             "power": 1018,
             "attack": 939,
@@ -95934,7 +97470,7 @@ window.allHeroes =
             "health": 1880
         },
         "lb2": {
-            "power": 1147,
+            "power": 1146,
             "attack": 1074,
             "defense": 1231,
             "health": 2151
@@ -95981,6 +97517,7 @@ window.allHeroes =
         ],
         "source": "額外抽獎 - 秘密召喚",
         "Release date": "",
+        "specialId": "",
         "star": 5,
         "power": 1225,
         "attack": 1268,
@@ -96008,7 +97545,7 @@ window.allHeroes =
         "family": "mimic",
         "image": "https://imgur.com/Green.jpg",
         "costume_id": 0,
-        "originalIndex": 1473,
+        "originalIndex": 1474,
         "lb1": {
             "attack": 1367,
             "defense": 1367,
@@ -96068,6 +97605,7 @@ window.allHeroes =
         ],
         "source": "額外抽獎 - 秘密召喚",
         "Release date": "",
+        "specialId": "",
         "star": 5,
         "power": 1225,
         "attack": 1268,
@@ -96095,7 +97633,7 @@ window.allHeroes =
         "family": "mimic",
         "image": "https://imgur.com/Yellow.jpg",
         "costume_id": 0,
-        "originalIndex": 1474,
+        "originalIndex": 1475,
         "lb1": {
             "attack": 1367,
             "defense": 1367,
@@ -96155,6 +97693,7 @@ window.allHeroes =
         ],
         "source": "額外抽獎 - 秘密召喚",
         "Release date": "",
+        "specialId": "",
         "star": 5,
         "power": 1225,
         "attack": 1268,
@@ -96182,7 +97721,7 @@ window.allHeroes =
         "family": "mimic",
         "image": "https://imgur.com/Purple.jpg",
         "costume_id": 0,
-        "originalIndex": 1475,
+        "originalIndex": 1476,
         "lb1": {
             "attack": 1367,
             "defense": 1367,

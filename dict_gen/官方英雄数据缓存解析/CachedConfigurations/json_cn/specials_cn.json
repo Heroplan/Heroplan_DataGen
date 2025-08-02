@@ -47898,21 +47898,21 @@
       {
         "propertyType": "TileEnhancement",
         "id": "green_tile_attack_modifier",
-        "element": "绿",
+        "element": "Green",
         "tileEnhancementIdForPlayerSide": "attack_modifier_attacker",
         "tileEnhancementIdForNonPlayerSide": "attack_modifier_defender"
       },
       {
         "propertyType": "TileEnhancement",
         "id": "blue_tile_attack_modifier",
-        "element": "蓝",
+        "element": "Blue",
         "tileEnhancementIdForPlayerSide": "attack_modifier_attacker",
         "tileEnhancementIdForNonPlayerSide": "attack_modifier_defender"
       },
       {
         "propertyType": "DamagePerTile",
         "id": "damage_per_red_tile",
-        "element": "红",
+        "element": "Red",
         "basePowerPerMil": 1200,
         "powerPerTilePerMil": 170,
         "powerPerTileIncrementPerLevelPerMil": 10,
@@ -48056,7 +48056,7 @@
       {
         "propertyType": "DamagePerTile",
         "id": "damage_per_green_tile",
-        "element": "绿",
+        "element": "Green",
         "basePowerPerMil": 1000,
         "powerPerTilePerMil": 110,
         "powerPerTileIncrementPerLevelPerMil": 10,
@@ -48067,7 +48067,7 @@
       {
         "propertyType": "DamagePerTile",
         "id": "damage_per_yellow_tile",
-        "element": "黄",
+        "element": "Yellow",
         "basePowerPerMil": 1000,
         "powerPerTilePerMil": 110,
         "powerPerTileIncrementPerLevelPerMil": 10,
@@ -48315,21 +48315,21 @@
       {
         "propertyType": "TileEnhancement",
         "id": "yellow_tile_attack_modifier",
-        "element": "黄",
+        "element": "Yellow",
         "tileEnhancementIdForPlayerSide": "attack_modifier_attacker",
         "tileEnhancementIdForNonPlayerSide": "attack_modifier_defender"
       },
       {
         "propertyType": "TileEnhancement",
         "id": "purple_tile_attack_modifier",
-        "element": "紫",
+        "element": "Purple",
         "tileEnhancementIdForPlayerSide": "attack_modifier_attacker",
         "tileEnhancementIdForNonPlayerSide": "attack_modifier_defender"
       },
       {
         "propertyType": "TileEnhancement",
         "id": "red_tile_attack_modifier",
-        "element": "红",
+        "element": "Red",
         "tileEnhancementIdForPlayerSide": "attack_modifier_attacker",
         "tileEnhancementIdForNonPlayerSide": "attack_modifier_defender"
       },
@@ -48498,14 +48498,14 @@
       {
         "propertyType": "TileEnhancement",
         "id": "purple_tile_mana_modifier",
-        "element": "紫",
+        "element": "Purple",
         "tileEnhancementIdForPlayerSide": "mana_modifier_attacker",
         "tileEnhancementIdForNonPlayerSide": "mana_modifier_defender"
       },
       {
         "propertyType": "TileEnhancement",
         "id": "purple_tile_mana_modifier_more",
-        "element": "紫",
+        "element": "Purple",
         "tileEnhancementIdForPlayerSide": "mana_modifier_attacker_more",
         "tileEnhancementIdForNonPlayerSide": "mana_modifier_defender_more"
       },
@@ -48887,14 +48887,14 @@
       {
         "propertyType": "TileEnhancement",
         "id": "blue_tile_critical_or_accuracy_modifier",
-        "element": "蓝",
+        "element": "Blue",
         "tileEnhancementIdForPlayerSide": "critical_chance_attacker",
         "tileEnhancementIdForNonPlayerSide": "accuracy_modifier_defender"
       },
       {
         "propertyType": "HealPerTile",
         "id": "heal_per_blue_tile",
-        "element": "蓝",
+        "element": "Blue",
         "basePowerPerMil": 190,
         "basePowerIncrementPerLevelPerMil": 10,
         "powerPerTilePerMil": 30,
@@ -48906,7 +48906,7 @@
       {
         "propertyType": "DamagePerTile",
         "id": "damage_per_red_tile_more",
-        "element": "红",
+        "element": "Red",
         "basePowerPerMil": 1800,
         "powerPerTilePerMil": 130,
         "powerPerTileIncrementPerLevelPerMil": 10,
@@ -48917,7 +48917,7 @@
       {
         "propertyType": "DamagePerTile",
         "id": "damage_per_red_tile_costume_suitor",
-        "element": "红",
+        "element": "Red",
         "basePowerPerMil": 1600,
         "powerPerTilePerMil": 280,
         "powerPerTileIncrementPerLevelPerMil": 10,
@@ -49372,7 +49372,7 @@
       {
         "propertyType": "DamagePerTile",
         "id": "damage_per_green_tile_single",
-        "element": "绿",
+        "element": "Green",
         "basePowerPerMil": 1000,
         "powerPerTilePerMil": 200,
         "powerPerTileIncrementPerLevelPerMil": 0,
@@ -49383,7 +49383,7 @@
       {
         "propertyType": "DamagePerTile",
         "id": "damage_per_green_tile_single_more",
-        "element": "绿",
+        "element": "Green",
         "basePowerPerMil": 1450,
         "basePowerIncrementPerLevelPerMil": 50,
         "powerPerTilePerMil": 200,
@@ -49395,7 +49395,7 @@
       {
         "propertyType": "TileEnhancement",
         "id": "yellow_tile_mana_modifier",
-        "element": "黄",
+        "element": "Yellow",
         "tileEnhancementIdForPlayerSide": "mana_modifier_attacker",
         "tileEnhancementIdForNonPlayerSide": "mana_modifier_defender"
       },
@@ -49446,7 +49446,7 @@
       {
         "propertyType": "DamagePerTile",
         "id": "damage_per_blue_tile_single",
-        "element": "蓝",
+        "element": "Blue",
         "basePowerPerMil": 2000,
         "basePowerIncrementPerLevelPerMil": 50,
         "powerPerTilePerMil": 100,
@@ -49478,7 +49478,7 @@
         "id": "reduce_more_mana_from_blue",
         "effectPowerPerMil": 65406,
         "effectPowerIncrementPerLevelPerMil": 246,
-        "element": "蓝",
+        "element": "Blue",
         "effectPowerAgainstElementPerMil": 65276,
         "effectPowerAgainstElementIncrementPerLevelPerMil": 236,
         "effectType": "AddMana",
@@ -49776,7 +49776,7 @@
       {
         "propertyType": "RevivePerTile",
         "id": "revive_chance_per_yellow_tile",
-        "element": "黄",
+        "element": "Yellow",
         "basePowerPerMil": 330,
         "basePowerIncrementPerLevelPerMil": 10,
         "powerPerTilePerMil": 0,
@@ -49790,7 +49790,7 @@
       {
         "propertyType": "RevivePerTile",
         "id": "revive_chance_per_yellow_tile_pve",
-        "element": "黄",
+        "element": "Yellow",
         "basePowerPerMil": 30,
         "powerPerTilePerMil": 0,
         "powerPerTileIncrementPerLevelPerMil": 0,
@@ -49803,7 +49803,7 @@
       {
         "propertyType": "DamagePerTile",
         "id": "damage_per_yellow_tile_zandria",
-        "element": "黄",
+        "element": "Yellow",
         "basePowerPerMil": 2100,
         "powerPerTilePerMil": 130,
         "powerPerTileIncrementPerLevelPerMil": 10,
@@ -50073,7 +50073,7 @@
       {
         "propertyType": "TileEnhancement",
         "id": "green_tile_mana_modifier",
-        "element": "绿",
+        "element": "Green",
         "tileEnhancementIdForPlayerSide": "mana_modifier_attacker",
         "tileEnhancementIdForNonPlayerSide": "mana_modifier_defender"
       },
@@ -50132,7 +50132,7 @@
       {
         "propertyType": "DamagePerTile",
         "id": "damage_per_green_tile_goopy",
-        "element": "绿",
+        "element": "Green",
         "basePowerPerMil": 900,
         "basePowerIncrementPerLevelPerMil": 50,
         "powerPerTilePerMil": 50,
@@ -50190,7 +50190,7 @@
       {
         "propertyType": "TileEnhancement",
         "id": "blue_tile_mana_modifier",
-        "element": "蓝",
+        "element": "Blue",
         "tileEnhancementIdForPlayerSide": "mana_modifier_attacker",
         "tileEnhancementIdForNonPlayerSide": "mana_modifier_defender"
       },
@@ -50382,7 +50382,7 @@
       {
         "propertyType": "HealthBoostPerTile",
         "id": "augustus_health_boost_per_green_tile",
-        "element": "绿",
+        "element": "Green",
         "basePowerPerMil": 550,
         "basePowerIncrementPerLevelPerMil": 20,
         "powerPerTilePerMil": 30,
@@ -50395,7 +50395,7 @@
       {
         "propertyType": "HealPerTile",
         "id": "heal_per_yellow_tile",
-        "element": "黄",
+        "element": "Yellow",
         "basePowerPerMil": 130,
         "basePowerIncrementPerLevelPerMil": 10,
         "powerPerTilePerMil": 30,
@@ -50515,7 +50515,7 @@
       {
         "propertyType": "TileEnhancement",
         "id": "blue_tile_attack_modifier_more",
-        "element": "蓝",
+        "element": "Blue",
         "tileEnhancementIdForPlayerSide": "attack_modifier_attacker_more",
         "tileEnhancementIdForNonPlayerSide": "attack_modifier_defender_more"
       },
@@ -50608,7 +50608,7 @@
       {
         "propertyType": "MainTargetElementDependentEffect",
         "id": "damage_neartotarget_when_main_target_is_fire",
-        "element": "红",
+        "element": "Red",
         "effectPowerPerMil": 4150,
         "effectPowerIncrementPerLevelPerMil": 50,
         "effectType": "Damage",
@@ -50626,7 +50626,7 @@
             "turns": 3
           }
         ],
-        "element": "红"
+        "element": "Red"
       },
       {
         "propertyType": "TargetHealthDependantExtraDamage",
@@ -50818,7 +50818,7 @@
       {
         "propertyType": "DamagePerTile",
         "id": "damage_per_green_tile_frigg_costume",
-        "element": "绿",
+        "element": "Green",
         "basePowerPerMil": 900,
         "powerPerTilePerMil": 110,
         "powerPerTileIncrementPerLevelPerMil": 10,
@@ -50892,7 +50892,7 @@
       {
         "propertyType": "HealPerTile",
         "id": "heal_per_red_tile",
-        "element": "红",
+        "element": "Red",
         "basePowerPerMil": 180,
         "basePowerIncrementPerLevelPerMil": 10,
         "powerPerTilePerMil": 30,
@@ -50904,7 +50904,7 @@
       {
         "propertyType": "HealPerTile",
         "id": "heal_per_red_tile_pve",
-        "element": "红",
+        "element": "Red",
         "basePowerPerMil": 10,
         "powerPerTilePerMil": 10,
         "powerPerTileIncrementPerLevelPerMil": 0,
@@ -50917,7 +50917,7 @@
         "id": "reduce_mana_more_for_yellow",
         "effectPowerPerMil": 65176,
         "effectPowerIncrementPerLevelPerMil": 236,
-        "element": "黄",
+        "element": "Yellow",
         "effectPowerAgainstElementPerMil": 64676,
         "effectPowerAgainstElementIncrementPerLevelPerMil": 236,
         "effectType": "AddMana",
@@ -50929,7 +50929,7 @@
         "id": "add_mana_more_for_purple",
         "effectPowerPerMil": 80,
         "effectPowerIncrementPerLevelPerMil": 10,
-        "element": "紫",
+        "element": "Purple",
         "effectPowerAgainstElementPerMil": 160,
         "effectPowerAgainstElementIncrementPerLevelPerMil": 20,
         "effectType": "AddMana",
@@ -51121,7 +51121,7 @@
       {
         "propertyType": "DamagePerTile",
         "id": "damage_per_yellow_tile_odin_costume",
-        "element": "黄",
+        "element": "Yellow",
         "basePowerPerMil": 900,
         "powerPerTilePerMil": 180,
         "powerPerTileIncrementPerLevelPerMil": 10,
@@ -51518,7 +51518,7 @@
       {
         "propertyType": "DamagePerTile",
         "id": "sinister_enlace_damage_per_tile1",
-        "element": "紫",
+        "element": "Purple",
         "basePowerPerMil": 0,
         "powerPerTilePerMil": 160,
         "powerPerTileIncrementPerLevelPerMil": 20,
@@ -51529,7 +51529,7 @@
       {
         "propertyType": "DamagePerTile",
         "id": "sinister_enlace_damage_per_tile2",
-        "element": "紫",
+        "element": "Purple",
         "basePowerPerMil": 0,
         "powerPerTilePerMil": 210,
         "powerPerTileIncrementPerLevelPerMil": 20,
@@ -51540,7 +51540,7 @@
       {
         "propertyType": "DamagePerTile",
         "id": "sinister_siphon_damage_per_tile1",
-        "element": "紫",
+        "element": "Purple",
         "basePowerPerMil": 0,
         "powerPerTilePerMil": 140,
         "powerPerTileIncrementPerLevelPerMil": 20,
@@ -51551,7 +51551,7 @@
       {
         "propertyType": "DamagePerTile",
         "id": "sinister_siphon_damage_per_tile2",
-        "element": "紫",
+        "element": "Purple",
         "basePowerPerMil": 0,
         "powerPerTilePerMil": 240,
         "powerPerTileIncrementPerLevelPerMil": 20,
@@ -51578,7 +51578,7 @@
       {
         "propertyType": "DamagePerTile",
         "id": "sinister_enlace_damage_per_tile1_deadly",
-        "element": "紫",
+        "element": "Purple",
         "basePowerPerMil": 0,
         "powerPerTilePerMil": 260,
         "powerPerTileIncrementPerLevelPerMil": 20,
@@ -51589,7 +51589,7 @@
       {
         "propertyType": "DamagePerTile",
         "id": "sinister_enlace_damage_per_tile2_deadly",
-        "element": "紫",
+        "element": "Purple",
         "basePowerPerMil": 0,
         "powerPerTilePerMil": 380,
         "powerPerTileIncrementPerLevelPerMil": 20,
@@ -51686,7 +51686,7 @@
       {
         "propertyType": "MainTargetElementDependentEffect",
         "id": "extra_damage_all_if_blue_target",
-        "element": "蓝",
+        "element": "Blue",
         "effectPowerPerMil": 2400,
         "effectPowerIncrementPerLevelPerMil": 50,
         "effectType": "Damage",
@@ -51710,7 +51710,7 @@
             "turns": 3
           }
         ],
-        "element": "蓝"
+        "element": "Blue"
       },
       {
         "propertyType": "TileCountBasedAmplifiedEffect",
@@ -51789,7 +51789,7 @@
       {
         "propertyType": "TileEnhancement",
         "id": "yellow_tile_mana_modifier_zione",
-        "element": "黄",
+        "element": "Yellow",
         "tileEnhancementIdForPlayerSide": "mana_modifier_attacker_less",
         "tileEnhancementIdForNonPlayerSide": "mana_modifier_defender_less"
       },
@@ -52027,7 +52027,7 @@
       {
         "propertyType": "HealPerTile",
         "id": "heal_per_red_tile_nova",
-        "element": "红",
+        "element": "Red",
         "basePowerPerMil": 180,
         "basePowerIncrementPerLevelPerMil": 10,
         "powerPerTilePerMil": 20,
@@ -53464,7 +53464,7 @@
         "id": "damage_increased_per_red_tile_ash",
         "extraDamagePerTilePerMil": 50,
         "maxTileCount": 10,
-        "element": "红"
+        "element": "Red"
       },
       {
         "propertyType": "ChainStrike",
@@ -53950,7 +53950,7 @@
       {
         "propertyType": "MainTargetElementDependentEffect",
         "id": "damage_neartotarget_when_main_target_is_ice_sune",
-        "element": "蓝",
+        "element": "Blue",
         "effectPowerPerMil": 2650,
         "effectPowerIncrementPerLevelPerMil": 50,
         "effectType": "Damage",
@@ -53977,7 +53977,7 @@
       {
         "propertyType": "MainTargetElementDependentEffect",
         "id": "damage_neartotarget_when_main_target_is_fire_wu_song",
-        "element": "红",
+        "element": "Red",
         "effectPowerPerMil": 3150,
         "effectPowerIncrementPerLevelPerMil": 50,
         "effectType": "Damage",
@@ -54097,7 +54097,7 @@
       {
         "propertyType": "TileEnhancement",
         "id": "blue_tile_attack_modifier_sini",
-        "element": "蓝",
+        "element": "Blue",
         "tileEnhancementIdForPlayerSide": "attack_modifier_attacker_sini",
         "tileEnhancementIdForNonPlayerSide": "attack_modifier_defender_sini"
       },
@@ -55096,7 +55096,7 @@
       {
         "propertyType": "TileEnhancement",
         "id": "purple_tile_attack_modifier_karnov_costume",
-        "element": "紫",
+        "element": "Purple",
         "tileEnhancementIdForPlayerSide": "attack_modifier_attacker_karnov_costume",
         "tileEnhancementIdForNonPlayerSide": "attack_modifier_defender_karnov_costume"
       },
@@ -56561,7 +56561,7 @@
       {
         "propertyType": "HealPerTile",
         "id": "heal_per_red_tile_ignazio_costume",
-        "element": "红",
+        "element": "Red",
         "basePowerPerMil": 210,
         "basePowerIncrementPerLevelPerMil": 10,
         "powerPerTilePerMil": 40,
@@ -56593,7 +56593,7 @@
       {
         "propertyType": "MainTargetElementDependentEffect",
         "id": "damage_neartotarget_when_main_target_is_fire_zengar_costume",
-        "element": "红",
+        "element": "Red",
         "effectPowerPerMil": 4650,
         "effectPowerIncrementPerLevelPerMil": 50,
         "effectType": "Damage",
@@ -56603,7 +56603,7 @@
       {
         "propertyType": "MainTargetElementDependentEffect",
         "id": "damage_neartotarget_when_main_target_is_holy_elsbeth",
-        "element": "黄",
+        "element": "Yellow",
         "effectPowerPerMil": 3150,
         "effectPowerIncrementPerLevelPerMil": 50,
         "effectType": "Damage",
@@ -56621,14 +56621,14 @@
             "turns": 3
           }
         ],
-        "element": "红"
+        "element": "Red"
       },
       {
         "propertyType": "ElementDependentEffect",
         "id": "reduce_mana_more_for_yellow_griffex_costume",
         "effectPowerPerMil": 65076,
         "effectPowerIncrementPerLevelPerMil": 236,
-        "element": "黄",
+        "element": "Yellow",
         "effectPowerAgainstElementPerMil": 64676,
         "effectPowerAgainstElementIncrementPerLevelPerMil": 236,
         "effectType": "AddMana",
@@ -56650,7 +56650,7 @@
         "id": "add_mana_more_for_purple_griffex_costume",
         "effectPowerPerMil": 30,
         "effectPowerIncrementPerLevelPerMil": 10,
-        "element": "紫",
+        "element": "Purple",
         "effectPowerAgainstElementPerMil": 110,
         "effectPowerAgainstElementIncrementPerLevelPerMil": 20,
         "effectType": "AddMana",
@@ -57293,7 +57293,7 @@
         "id": "reduce_more_mana_from_blue_ilmarinen_costume",
         "effectPowerPerMil": 65306,
         "effectPowerIncrementPerLevelPerMil": 246,
-        "element": "蓝",
+        "element": "Blue",
         "effectPowerAgainstElementPerMil": 65176,
         "effectPowerAgainstElementIncrementPerLevelPerMil": 236,
         "effectType": "AddMana",
@@ -57351,7 +57351,7 @@
       {
         "propertyType": "DamagePerTile",
         "id": "damage_per_yellow_tile_zandria_costume",
-        "element": "黄",
+        "element": "Yellow",
         "basePowerPerMil": 2000,
         "powerPerTilePerMil": 180,
         "powerPerTileIncrementPerLevelPerMil": 10,
@@ -57362,7 +57362,7 @@
       {
         "propertyType": "RevivePerTile",
         "id": "revive_chance_per_yellow_tile_zandria_costume",
-        "element": "黄",
+        "element": "Yellow",
         "basePowerPerMil": 280,
         "basePowerIncrementPerLevelPerMil": 10,
         "powerPerTilePerMil": 0,
@@ -57388,7 +57388,7 @@
       {
         "propertyType": "TileEnhancement",
         "id": "green_tile_mana_modifier_xandrella_costume",
-        "element": "绿",
+        "element": "Green",
         "tileEnhancementIdForPlayerSide": "mana_modifier_attacker_xandrella_costume",
         "tileEnhancementIdForNonPlayerSide": "mana_modifier_defender_xandrella_costume"
       },
@@ -57457,7 +57457,7 @@
       {
         "propertyType": "RevivePerTile",
         "id": "revive_with_thile_count_based_power_green",
-        "element": "绿",
+        "element": "Green",
         "basePowerPerMil": 330,
         "basePowerIncrementPerLevelPerMil": 10,
         "powerPerTilePerMil": 0,
@@ -57494,7 +57494,7 @@
       {
         "propertyType": "DamagePerTile",
         "id": "damage_per_red_tile_hotspin",
-        "element": "红",
+        "element": "Red",
         "basePowerPerMil": 4650,
         "basePowerIncrementPerLevelPerMil": 50,
         "powerPerTilePerMil": 80,
@@ -57506,7 +57506,7 @@
       {
         "propertyType": "DamagePerTile",
         "id": "damage_per_red_tile_sizzle3000",
-        "element": "红",
+        "element": "Red",
         "basePowerPerMil": 4650,
         "basePowerIncrementPerLevelPerMil": 50,
         "powerPerTilePerMil": 80,

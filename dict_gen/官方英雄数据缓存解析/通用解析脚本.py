@@ -1,10 +1,11 @@
-# Universal Interactive Binary Parser
+# Universal Interactive Binary Parser & Translator
 #
-# The definitive tool for parsing serialized binary files from the game.
-# Supports rule sharing, multi-file prioritized lookups, and compound data transformation.
+# The definitive all-in-one tool for parsing, transforming, and localizing
+# serialized binary files. Supports a context-aware workflow for advanced
+# multi-file data linkage (e.g., hero-costume name composition).
 #
 # Author: Your Name Here (with AI collaboration)
-# Version: 11.0.0 (Prioritized Multi-Rule Lookups)
+# Version: 11.3.0 (Context-Aware Workflow)
 # Last Updated: 2025-07-30
 
 import json
@@ -17,162 +18,111 @@ import os
 CUSTOM_EPOCH = datetime.datetime(2000, 1, 1)
 
 # ==============================================================================
-# --- 用户配置区：在这里添加您的自定义规则 ---
+# --- 用户配置区：在这里添加您的所有自定义规则 ---
 # ==============================================================================
-# 您现在可以为一个关键字提供一个规则列表，解析器将按顺序尝试每个规则。
-
-SPECIAL_TIMESTAMP_KEYS = (
-    'startTime', 'endTime', 'canBeReceivedDate', 
-    'startDate', 'endDate', 'canBeAscendedToDate','earliestLaunchDate'
-)
-SPECIAL_BOOLEAN_TRUE_KEYS = (
-    'hasImprovedTalentSkill', 'isSecret', 'isDefaultRider', 
-    'forceUseCostumeLevelUpAndUpgradeCosts', 'isGuest'
-)
+SPECIAL_TIMESTAMP_KEYS = ('startTime', 'endTime', 'canBeReceivedDate', 'startDate', 'endDate', 'canBeAscendedToDate','earliestLaunchDate')
+SPECIAL_BOOLEAN_TRUE_KEYS = ('hasImprovedTalentSkill', 'isSecret', 'isDefaultRider', 'forceUseCostumeLevelUpAndUpgradeCosts', 'isGuest')
 SPECIAL_DURATION_KEYS = ('duration', 'timeOfDay','preparationDuration','mapDuration','aftermathDuration')
+
 REPLACEMENT_RULES = {
-    ('heroes', 'featuredHeroes','costumeId','id','parentHeroId','includedExtraHeroes'): [
+    ('heroes', 'featuredHeroes','costumeId','id','parentHeroId'): [
+        {'file': 'heroes_name_cn.txt', 'prefix': 'heroes.name.'},
         {
-        'file': 'heroes_name_cn.txt', 
-        'prefix': 'heroes.name.',      
-        'compound_rule': {
-            'trigger_keyword': '_costume', 
-            'costume_lookup': {
-                'file': 'heroes_name_fancy_cn.txt',
-                'prefix': 'heroes.name_fancy.'
-            },
-            'separator': '-' 
+            'file': 'heroes_name_fancy_cn.txt', 
+            'prefix': 'heroes.name_fancy.',
+            # 新的复合规则，将在处理非 characters 文件时，利用缓存进行查找
+            'compound_rule': {
+                'trigger_keyword': '_costume',
+                'separator': '-'
+            }
         }
-    }
     ],
     ('families', 'featuredFamilies','family'):[ 
-        {
-        'file': 'family_title_cn.txt', 
-        'prefix': 'herocard.family.title.'
-    }
+        {'file': 'family_title_cn.txt', 'prefix': 'herocard.family.title.'}
     ],
-    # 示例：让 'eventId' 和 'origin' 共享一个多规则查找链
     ('eventId', 'origin','lotteryProductType'): [
-        # 优先级 1: 首先在 event_name_cn.txt 中查找
-        {
-            'file': 'event_name_cn.txt', 
-            'prefix': 'event.name.'
-        },
-        # 优先级 2: 如果上面没找到，则在 lottery_title_cn.txt 中查找
-        {
-            'file': 'lottery_title_cn.txt', 
-            'prefix': 'lottery.title.'
-        }
+        {'file': 'event_name_cn.txt', 'prefix': 'event.name.'},
+        {'file': 'lottery_title_cn.txt', 'prefix': 'lottery.title.'}
     ],
-    ('aetherGift', ): [{
-        'file': 'aether_power_cn.txt', 
-        'prefix': 'limitbreak.gift.title.'
-    }],
-    ('element','manaSpeedId','classType','rarity' ): [
-        {
-        'file': 'base_values_cn.txt', 
-        'prefix': 'base.'
-    }
-    ],
-    ('specialId', ): [
-        {
-        'file': 'skill_name_cn.txt', 
-        'prefix': 'specials.name.'
-    }
-    ]
+    ('aetherGift',): [{'file': 'aether_power_en.txt', 'prefix': 'limitbreak.gift.title.'}],
+    ('manaSpeedId',): [{'file': 'base_values_cn.txt', 'prefix': 'base.'}],
+    ('classType',): [{'file': 'base_values_cn.txt', 'prefix': 'base.'}],
+    ('rarity',): [{'file': 'base_values_cn.txt', 'prefix': 'base.'}],
+    ('specialId',): [{'file': 'skill_name_cn.txt', 'prefix': 'specials.name.'}]
 }
-
 # ==============================================================================
 
-# --- 全局变量 ---
+# --- 全局变量与辅助函数 ---
 FLATTENED_REPLACEMENT_RULES = {}
 LOOKUP_TABLES = {}
+# --- 新增：上下文缓存 ---
+CHARACTERS_CACHE = {}
 
-# --- 新增：规则处理函数 ---
 def flatten_rules(rules_dict):
     flattened = {}
     for key, rules_list in rules_dict.items():
-        if not isinstance(rules_list, list):
-            # 为了兼容旧的单规则格式，自动将其包装在列表中
-            rules_list = [rules_list]
+        if not isinstance(rules_list, list): rules_list = [rules_list]
         if isinstance(key, tuple):
-            for single_key in key:
-                flattened[single_key] = rules_list
-        else:
-            flattened[key] = rules_list
+            for single_key in key: flattened[single_key] = rules_list
+        else: flattened[key] = rules_list
     return flattened
 
-# --- 预加载与转换函数 ---
 def load_lookup_tables():
     print("--- 正在预加载查找表... ---")
     files_to_load = set()
     for rules_list in REPLACEMENT_RULES.values():
-        if not isinstance(rules_list, list): rules_list = [rules_list] # 兼容单规则
+        if not isinstance(rules_list, list): rules_list = [rules_list]
         for rule in rules_list:
             if 'file' in rule: files_to_load.add(rule['file'])
-            if 'compound_rule' in rule and 'costume_lookup' in rule['compound_rule']:
-                files_to_load.add(rule['compound_rule']['costume_lookup']['file'])
-
     for filename in files_to_load:
         try:
             table = {}
             with open(filename, 'r', encoding='utf-8') as f:
                 for line in f:
                     if ',' in line:
-                        lookup_key, value = line.split(',', 1)
-                        table[lookup_key.strip().strip('"')] = value.strip().strip('"')
+                        k, v = line.split(',', 1)
+                        table[k.strip().strip('"')] = v.strip().strip('"')
             LOOKUP_TABLES[filename] = table
             print(f"✅ 成功加载 '{filename}' ({len(table)} 条规则)")
         except FileNotFoundError:
-            print(f"🟡 警告: 查找文件 '{filename}' 未找到，相关替换将不可用。")
+            print(f"🟡 警告: 查找文件 '{filename}' 未找到。")
         except Exception as e:
             print(f"❌ 加载 '{filename}' 时发生错误: {e}")
 
 def process_single_replacement(value, rules_list):
-    """
-    按优先级顺序处理单个值的查找和替换。
-    """
     if not isinstance(value, str): return value
     lower_value = value.lower()
-
     for rule in rules_list:
+        # --- 增强：复合规则逻辑 (利用上下文缓存) ---
         compound_rule = rule.get('compound_rule')
-        
-        # --- 复合规则逻辑 ---
-        if compound_rule and compound_rule['trigger_keyword'] in lower_value:
+        if compound_rule and compound_rule['trigger_keyword'] in lower_value and CHARACTERS_CACHE:
             trigger = compound_rule['trigger_keyword']
-            costume_rule = compound_rule['costume_lookup']
-            costume_table = LOOKUP_TABLES.get(costume_rule['file'])
+            base_id = lower_value.split(trigger)[0]
+            
+            # 1. 在缓存中查找本体名称
+            base_name = CHARACTERS_CACHE.get(base_id)
+            
+            # 2. 在文件中查找服装名称
+            costume_table = LOOKUP_TABLES.get(rule['file'])
             costume_name = value
             if costume_table:
-                costume_key = costume_rule['prefix'] + lower_value
-                costume_name = costume_table.get(costume_key, value)
-            
-            base_table = LOOKUP_TABLES.get(rule['file'])
-            base_name = None
-            if base_table:
-                base_id = lower_value.split(trigger)[0]
-                base_key = rule['prefix'] + base_id
-                base_name = base_table.get(base_key)
-            
-            # 只要找到了本体，就组合并立即返回
+                costume_name = costume_table.get(rule['prefix'] + lower_value, value)
+
+            # 3. 组合结果
             if base_name and costume_name != value:
                 return f"{base_name}{compound_rule.get('separator', '-')}{costume_name}"
-            # 否则，只返回服装的查找结果（可能是翻译或原始值）
-            return costume_name
+            return costume_name # 未找到本体，则只返回服装的查找结果
 
         # --- 常规规则逻辑 ---
         else:
             table = LOOKUP_TABLES.get(rule['file'])
             if table:
                 lookup_key = rule['prefix'] + lower_value
-                # 如果找到了匹配项，就返回翻译结果并停止查找
                 if lookup_key in table:
                     return table[lookup_key]
-
-    # 如果遍历完所有规则都没找到，则返回原始值
     return value
 
+# ... (apply_replacement, convert_*, read_* 等函数保持不变) ...
 def apply_replacement(original_value, field_name):
     if field_name not in FLATTENED_REPLACEMENT_RULES: return original_value
     rules_list = FLATTENED_REPLACEMENT_RULES[field_name]
@@ -180,42 +130,30 @@ def apply_replacement(original_value, field_name):
         return [process_single_replacement(item, rules_list) for item in original_value]
     else:
         return process_single_replacement(original_value, rules_list)
-
 def convert_timestamp(seconds):
     try: return (CUSTOM_EPOCH + datetime.timedelta(seconds=seconds)).strftime('%Y-%m-%d %H:%M:%S')
     except (ValueError, TypeError): return seconds
 def convert_duration(total_seconds):
     if not isinstance(total_seconds, int) or total_seconds < 0: return total_seconds
     parts, td = [], datetime.timedelta(seconds=total_seconds)
-    days, hours, minutes, seconds = td.days, td.seconds // 3600, (td.seconds // 60) % 60, td.seconds % 60
+    days, h, m, s = td.days, td.seconds // 3600, (td.seconds // 60) % 60, td.seconds % 60
     if days > 0: parts.append(f"{days}天")
-    if hours > 0: parts.append(f"{hours}小时")
-    if minutes > 0: parts.append(f"{minutes}分钟")
-    if seconds > 0 or not parts: parts.append(f"{seconds}秒")
+    if h > 0: parts.append(f"{h}小时")
+    if m > 0: parts.append(f"{m}分钟")
+    if s > 0 or not parts: parts.append(f"{s}秒")
     return "".join(parts)
-
-# --- 底层数据读取函数 ---
 def read_string(data, offset):
-    if offset >= len(data): raise IndexError(f"读取短字符串长度时越界 (位置: {offset})。")
     length = data[offset]; offset += 1
-    if offset + length > len(data): raise IndexError(f"读取短字符串内容时越界 (位置: {offset})。")
     return data[offset:offset + length].decode('utf-8', errors='ignore'), offset + length
 def read_long_string(data, offset):
-    if offset + 2 > len(data): raise IndexError(f"读取长字符串长度时越界 (位置: {offset})。")
     length = int.from_bytes(data[offset:offset+2], 'little'); offset += 2
-    if offset + length > len(data): raise IndexError(f"读取长字符串内容时越界 (位置: {offset})。")
     return data[offset:offset + length].decode('utf-8', errors='ignore'), offset + length
 def read_short(data, offset):
-    if offset + 2 > len(data): raise IndexError(f"读取 short 时越界 (位置: {offset})。")
     return int.from_bytes(data[offset:offset + 2], 'little', signed=False), offset + 2
 def read_int(data, offset):
-    if offset + 4 > len(data): raise IndexError(f"读取 int 时越界 (位置: {offset})。")
     return int.from_bytes(data[offset:offset + 4], 'little', signed=False), offset + 4
 def read_long(data, offset):
-    if offset + 8 > len(data): raise IndexError(f"读取 long 时越界 (位置: {offset})。")
     return int.from_bytes(data[offset:offset + 8], 'little', signed=False), offset + 8
-
-# --- 核心递归解析器 ---
 def read_value(data, offset, type_code):
     if type_code == 0x08: return read_string(data, offset)
     elif type_code == 0x09: return read_long_string(data, offset)
@@ -227,7 +165,6 @@ def read_value(data, offset, type_code):
     elif type_code == 0x0B: return parse_object(data, offset)
     elif type_code == 0x0A: return read_list(data, offset)
     else: raise ValueError(f"在通用解析器中遇到未知类型 {hex(type_code)} (位置: {offset - 1})")
-
 def read_list(data, offset):
     items = []
     while offset < len(data) and data[offset] != 0xFF:
@@ -237,14 +174,12 @@ def read_list(data, offset):
     if offset < len(data) and data[offset] == 0xFF: offset += 1
     else: raise ValueError(f"列表在偏移量 {offset} 处未由 0xFF 正确终止。")
     return items, offset
-
 def parse_object(data, offset):
     obj = {}
     while offset < len(data) and data[offset] != 0xFF:
         field_name, offset = read_string(data, offset)
         if offset >= len(data): raise IndexError(f"读取字段'{field_name}'的类型/长度时越界。")
         code = data[offset]; offset += 1
-        
         if field_name in SPECIAL_TIMESTAMP_KEYS:
             if code == 0x05: seconds, offset = read_int(data, offset)
             elif code == 0x06: seconds, offset = read_long(data, offset)
@@ -259,91 +194,120 @@ def parse_object(data, offset):
         else:
             value, offset = read_value(data, offset, code)
             value = apply_replacement(value, field_name)
-    
         obj[field_name] = value
-
     if offset < len(data) and data[offset] == 0xFF: offset += 1
     else:
         if offset != len(data): pass
     return obj, offset
-    
-# --- 文件与文件夹处理核心逻辑 ---
+
+# --- 文件与文件夹处理核心逻辑 (有重大修改) ---
 def get_start_offset(data, filename):
     if 'characters' in filename.lower():
         try:
             header = b'\x0B\x06heroes\x0A'
             return data.index(header) + len(header)
         except ValueError:
-            print(f"警告: 在 '{filename}' 中未找到 'heroes' 头，将尝试从文件开头解析。")
+            print(f"警告: 在 '{filename}' 中未找到 'heroes' 头。")
     if data and data[0] == 0x0B: return 1
     return 0
 
 def process_path(path):
+    global CHARACTERS_CACHE
     path = path.strip().strip('"')
     if not os.path.exists(path):
-        print(f"❌ 错误: 路径不存在 '{path}'")
-        return
+        print(f"❌ 错误: 路径不存在 '{path}'"); return
+    
+    files_to_process, output_dir = [], ""
     if os.path.isdir(path):
-        print(f"\n--- 正在处理文件夹: '{os.path.basename(path)}' ---")
-        json_output_dir = os.path.join(path, 'json')
-        os.makedirs(json_output_dir, exist_ok=True)
-        print(f"所有JSON文件将被保存在: '{json_output_dir}'")
-        found_files = 0
+        print(f"\n--- 正在扫描文件夹: '{os.path.basename(path)}' ---")
+        output_dir = os.path.join(path, 'json_cn')
+        # 建立文件列表，并确保 'characters' 优先
+        temp_files = []
         for item in os.listdir(path):
             full_item_path = os.path.join(path, item)
             if os.path.isfile(full_item_path) and not full_item_path.endswith('.py'):
-                process_file(full_item_path, json_output_dir)
-                found_files += 1
-        if found_files == 0:
-            print("🟡 该文件夹内没有找到可处理的文件。")
+                if 'characters' in item.lower():
+                    files_to_process.insert(0, full_item_path) # 插入到队首
+                else:
+                    temp_files.append(full_item_path)
+        files_to_process.extend(temp_files)
     elif os.path.isfile(path):
-        output_dir = os.path.dirname(path)
-        json_output_dir = os.path.join(output_dir, 'json')
-        os.makedirs(json_output_dir, exist_ok=True)
-        process_file(path, json_output_dir)
+        files_to_process.append(path)
+        output_dir = os.path.join(os.path.dirname(path), 'json_cn')
+
+    os.makedirs(output_dir, exist_ok=True)
+    if os.path.isdir(path): print(f"所有JSON文件将被保存在: '{output_dir}'")
+    
+    # 在处理任何文件之前，重置缓存
+    CHARACTERS_CACHE = {}
+    
+    for filepath in files_to_process:
+        process_file(filepath, output_dir)
 
 def process_file(filepath, output_dir):
+    global CHARACTERS_CACHE
     basename = os.path.basename(filepath)
-    output_filename = os.path.join(output_dir, os.path.splitext(basename)[0] + ".json")
+    output_filename = os.path.join(output_dir, os.path.splitext(basename)[0] + "_cn.json")
     print(f"\n--- 正在处理文件: '{basename}' ---")
     try:
         with open(filepath, 'rb') as f:
             binary_data = f.read()
         print(f"文件读取成功，共 {len(binary_data)} 字节。")
         if not binary_data:
-            print("🟡 文件为空，已跳过。")
-            return
+            print("🟡 文件为空，已跳过。"); return
         start_offset = get_start_offset(binary_data, basename)
         print(f"确定起始解析偏移量为: {start_offset}")
+        
+        # 'characters' 文件有特殊的顶层结构
         if 'characters' in basename.lower():
             parsed_data, final_offset = parse_characters_file(binary_data, start_offset)
+            # --- 关键：处理完 characters 后，立即填充上下文缓存 ---
+            print("--- 正在填充英雄名称上下文缓存... ---")
+            for original_id, hero_data in parsed_data.items():
+                translated_name = hero_data.get('id')
+                if translated_name:
+                    CHARACTERS_CACHE[original_id] = translated_name
+            print(f"✅ 缓存填充完毕，共 {len(CHARACTERS_CACHE)} 条记录。")
         else:
             parsed_data, final_offset = parse_object(binary_data, start_offset)
+            
         print(f"解析完成！最终偏移量: {final_offset} / {len(binary_data)}。")
         print(f"正在将结果写入文件: '{output_filename}'...")
         with open(output_filename, 'w', encoding='utf-8') as f:
             json.dump(parsed_data, f, indent=2, ensure_ascii=False)
         print(f"✅ 操作成功！结果已保存到 '{output_filename}'")
-    except (ValueError, IndexError) as e:
-        print(f"❌ 在解析 '{basename}' 过程中发生错误: {e}")
     except Exception as e:
-        print(f"❌ 处理 '{basename}' 时发生未知错误: {e}")
+        print(f"❌ 在处理 '{basename}' 过程中发生错误: {e}")
         traceback.print_exc()
 
 def parse_characters_file(data, start_offset):
-    parsed_data = {}
-    offset = start_offset
+    parsed_data, offset = {}, start_offset
     while offset < len(data):
         if data[offset] != 0x0B: break
+        
+        # 预读原始ID以用作顶层键
+        temp_offset = offset + 1 
+        id_field_len = data[temp_offset]; temp_offset +=1
+        id_field_name = data[temp_offset:temp_offset+id_field_len].decode('utf-8', 'ignore')
+        original_id = f"unknown_id_{offset}"
+        if id_field_name == 'id':
+            temp_offset += id_field_len
+            id_type_code = data[temp_offset]; temp_offset += 1
+            if id_type_code == 0x08:
+                id_len = data[temp_offset]; temp_offset += 1
+                original_id = data[temp_offset:temp_offset+id_len].decode('utf-8', 'ignore')
+
+        # 正常解析和翻译整个对象
         offset += 1
         hero_obj, offset = parse_object(data, offset)
-        if hero_obj.get('id'):
-            parsed_data[hero_obj['id']] = hero_obj
+        parsed_data[original_id] = hero_obj
+             
     return parsed_data, offset
+
 def main():
     global FLATTENED_REPLACEMENT_RULES
     print("=====================================================")
-    print("✅ 通用二进制解析器 v12.0 (多规则优先级查找)")
+    print("✅ 通用二进制解析器 v15.0 (上下文工作流)")
     print("=====================================================")
     
     FLATTENED_REPLACEMENT_RULES = flatten_rules(REPLACEMENT_RULES)
@@ -364,28 +328,22 @@ def main():
         try:
             raw_input_str = input("\n>>> 等待拖放... ")
             if not raw_input_str or raw_input_str.lower() in ['exit', 'quit']:
-                print("程序已退出。")
-                break
+                print("程序已退出."); break
             
             if raw_input_str.startswith('"'):
                 input_paths = [p.strip() for p in raw_input_str.split('"') if p.strip()]
             else:
                 input_paths = raw_input_str.split()
-
             if not input_paths:
-                print("🟡 未检测到有效的文件路径，请重试。")
-                continue
-
+                print("🟡 未检测到有效的文件路径，请重试。"); continue
             for path in input_paths:
                 process_path(path)
             
             print("\n--- 本批次所有任务处理完毕 ---")
         except KeyboardInterrupt:
-            print("\n程序被用户中断。")
-            break
+            print("\n程序被用户中断."); break
         except Exception as e:
-            print(f"\n❌ 发生意外错误: {e}")
-            traceback.print_exc()
+            print(f"\n❌ 发生意外错误: {e}"); traceback.print_exc()
 
 if __name__ == "__main__":
     main()

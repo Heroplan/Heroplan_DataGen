@@ -101,7 +101,7 @@
         "gemPrice": 2600,
         "sourceProductId": "lottery_elemental_dragon_red",
         "amount": 10,
-        "element": "红"
+        "element": "Red"
       },
       {
         "productType": "ElementalDragonSummon",
@@ -109,7 +109,7 @@
         "gemPrice": 2600,
         "sourceProductId": "lottery_elemental_dragon_blue",
         "amount": 10,
-        "element": "蓝"
+        "element": "Blue"
       },
       {
         "productType": "ElementalDragonSummon",
@@ -117,7 +117,7 @@
         "gemPrice": 2600,
         "sourceProductId": "lottery_elemental_dragon_green",
         "amount": 10,
-        "element": "绿"
+        "element": "Green"
       },
       {
         "productType": "ElementalDragonSummon",
@@ -125,7 +125,7 @@
         "gemPrice": 2600,
         "sourceProductId": "lottery_elemental_dragon_yellow",
         "amount": 10,
-        "element": "黄"
+        "element": "Yellow"
       },
       {
         "productType": "ElementalDragonSummon",
@@ -133,7 +133,7 @@
         "gemPrice": 2600,
         "sourceProductId": "lottery_elemental_dragon_purple",
         "amount": 10,
-        "element": "紫"
+        "element": "Purple"
       },
       {
         "productType": "ElementalDragonSummon",
@@ -146,7 +146,7 @@
           265,
           25
         ],
-        "element": "紫"
+        "element": "Purple"
       },
       {
         "productType": "ElementalDragonSummon",
@@ -159,7 +159,7 @@
           265,
           25
         ],
-        "element": "黄"
+        "element": "Yellow"
       },
       {
         "productType": "ElementalDragonSummon",
@@ -172,7 +172,7 @@
           265,
           25
         ],
-        "element": "绿"
+        "element": "Green"
       },
       {
         "productType": "ElementalDragonSummon",
@@ -185,7 +185,7 @@
           265,
           25
         ],
-        "element": "蓝"
+        "element": "Blue"
       },
       {
         "productType": "ElementalDragonSummon",
@@ -198,7 +198,7 @@
           265,
           25
         ],
-        "element": "红"
+        "element": "Red"
       },
       {
         "productType": "LegendaryTroopSummon",
@@ -473,7 +473,7 @@
           0
         ],
         "includeCostumes": true,
-        "element": "绿",
+        "element": "Green",
         "eventOffer": "superelemental_green_calendar"
       },
       {
@@ -492,7 +492,7 @@
           0
         ],
         "includeCostumes": true,
-        "element": "红",
+        "element": "Red",
         "eventOffer": "superelemental_red_calendar"
       },
       {
@@ -643,7 +643,7 @@
           0
         ],
         "includeCostumes": true,
-        "element": "蓝",
+        "element": "Blue",
         "eventOffer": "superelemental_blue_calendar"
       },
       {
@@ -662,7 +662,7 @@
           0
         ],
         "includeCostumes": true,
-        "element": "黄",
+        "element": "Yellow",
         "eventOffer": "superelemental_yellow_calendar"
       },
       {
@@ -681,7 +681,7 @@
           0
         ],
         "includeCostumes": true,
-        "element": "紫",
+        "element": "Purple",
         "eventOffer": "superelemental_purple_calendar"
       },
       {
@@ -715,7 +715,7 @@
         ],
         "hasMysteryHeroBonusRoll": true,
         "includeCostumes": true,
-        "element": "紫",
+        "element": "Purple",
         "eventOffer": "superelemental_purple_calendar"
       },
       {
@@ -749,7 +749,7 @@
         ],
         "hasMysteryHeroBonusRoll": true,
         "includeCostumes": true,
-        "element": "黄",
+        "element": "Yellow",
         "eventOffer": "superelemental_yellow_calendar"
       },
       {
@@ -783,7 +783,7 @@
         ],
         "hasMysteryHeroBonusRoll": true,
         "includeCostumes": true,
-        "element": "蓝",
+        "element": "Blue",
         "eventOffer": "superelemental_blue_calendar"
       },
       {
@@ -817,7 +817,7 @@
         ],
         "hasMysteryHeroBonusRoll": true,
         "includeCostumes": true,
-        "element": "红",
+        "element": "Red",
         "eventOffer": "superelemental_red_calendar"
       },
       {
@@ -851,7 +851,7 @@
         ],
         "hasMysteryHeroBonusRoll": true,
         "includeCostumes": true,
-        "element": "绿",
+        "element": "Green",
         "eventOffer": "superelemental_green_calendar"
       },
       {
@@ -10267,7 +10267,7 @@
           25
         ],
         "hasMysteryHeroBonusRoll": true,
-        "element": "红"
+        "element": "Red"
       },
       {
         "productType": "FeaturedSummon",
@@ -10275,7 +10275,7 @@
         "gemPrice": 2600,
         "sourceProductId": "lottery_featured_nomads",
         "amount": 10,
-        "element": "红"
+        "element": "Red"
       },
       {
         "productType": "FeaturedSummon",
@@ -10287,7 +10287,7 @@
           1325,
           25
         ],
-        "element": "红"
+        "element": "Red"
       },
       {
         "productType": "FeaturedSummon",
@@ -10301,7 +10301,7 @@
           25
         ],
         "hasMysteryHeroBonusRoll": true,
-        "element": "蓝"
+        "element": "Blue"
       },
       {
         "productType": "FeaturedSummon",
@@ -10309,7 +10309,7 @@
         "gemPrice": 2600,
         "sourceProductId": "lottery_featured_royal",
         "amount": 10,
-        "element": "蓝"
+        "element": "Blue"
       },
       {
         "productType": "FeaturedSummon",
@@ -10321,7 +10321,7 @@
           1325,
           25
         ],
-        "element": "蓝"
+        "element": "Blue"
       },
       {
         "productType": "FeaturedSummon",
@@ -10335,7 +10335,7 @@
           25
         ],
         "hasMysteryHeroBonusRoll": true,
-        "element": "绿"
+        "element": "Green"
       },
       {
         "productType": "FeaturedSummon",
@@ -10343,7 +10343,7 @@
         "gemPrice": 2600,
         "sourceProductId": "lottery_featured_forest",
         "amount": 10,
-        "element": "绿"
+        "element": "Green"
       },
       {
         "productType": "FeaturedSummon",
@@ -10355,7 +10355,7 @@
           1325,
           25
         ],
-        "element": "绿"
+        "element": "Green"
       },
       {
         "productType": "FeaturedSummon",
@@ -10369,7 +10369,7 @@
           25
         ],
         "hasMysteryHeroBonusRoll": true,
-        "element": "黄"
+        "element": "Yellow"
       },
       {
         "productType": "FeaturedSummon",
@@ -10377,7 +10377,7 @@
         "gemPrice": 2600,
         "sourceProductId": "lottery_featured_oriental",
         "amount": 10,
-        "element": "黄"
+        "element": "Yellow"
       },
       {
         "productType": "FeaturedSummon",
@@ -10389,7 +10389,7 @@
           1325,
           25
         ],
-        "element": "黄"
+        "element": "Yellow"
       },
       {
         "productType": "FeaturedSummon",
@@ -10403,7 +10403,7 @@
           25
         ],
         "hasMysteryHeroBonusRoll": true,
-        "element": "紫"
+        "element": "Purple"
       },
       {
         "productType": "FeaturedSummon",
@@ -10411,7 +10411,7 @@
         "gemPrice": 2600,
         "sourceProductId": "lottery_featured_cultist",
         "amount": 10,
-        "element": "紫"
+        "element": "Purple"
       },
       {
         "productType": "FeaturedSummon",
@@ -10423,7 +10423,7 @@
           1325,
           25
         ],
-        "element": "紫"
+        "element": "Purple"
       },
       {
         "productType": "EpicHeroSummon",
@@ -81524,7 +81524,7 @@
           "playerProgressOfferType": "LastHeroAscension",
           "duration": "1天",
           "timeToTrigger": 604800,
-          "element": "红",
+          "element": "Red",
           "specificItemId": "hero_mystic_rings",
           "specificItemMinCount": 5,
           "specificItemMaxCount": 0
@@ -81543,7 +81543,7 @@
           "playerProgressOfferType": "LastHeroAscension",
           "duration": "1天",
           "timeToTrigger": 604800,
-          "element": "红",
+          "element": "Red",
           "specificItemId": "hero_mystic_rings",
           "specificItemMinCount": 3,
           "specificItemMaxCount": 4
@@ -81562,7 +81562,7 @@
           "playerProgressOfferType": "LastHeroAscension",
           "duration": "1天",
           "timeToTrigger": 604800,
-          "element": "红",
+          "element": "Red",
           "specificItemId": "hero_mystic_rings",
           "specificItemMinCount": 0,
           "specificItemMaxCount": 2
@@ -81581,7 +81581,7 @@
           "playerProgressOfferType": "LastHeroAscension",
           "duration": "1天",
           "timeToTrigger": 604800,
-          "element": "绿",
+          "element": "Green",
           "specificItemId": "hero_mysterious_tonic",
           "specificItemMinCount": 5,
           "specificItemMaxCount": 0
@@ -81600,7 +81600,7 @@
           "playerProgressOfferType": "LastHeroAscension",
           "duration": "1天",
           "timeToTrigger": 604800,
-          "element": "绿",
+          "element": "Green",
           "specificItemId": "hero_mysterious_tonic",
           "specificItemMinCount": 3,
           "specificItemMaxCount": 4
@@ -81619,7 +81619,7 @@
           "playerProgressOfferType": "LastHeroAscension",
           "duration": "1天",
           "timeToTrigger": 604800,
-          "element": "绿",
+          "element": "Green",
           "specificItemId": "hero_mysterious_tonic",
           "specificItemMinCount": 0,
           "specificItemMaxCount": 2
@@ -81638,7 +81638,7 @@
           "playerProgressOfferType": "LastHeroAscension",
           "duration": "1天",
           "timeToTrigger": 604800,
-          "element": "蓝",
+          "element": "Blue",
           "specificItemId": "hero_farsight_telescope",
           "specificItemMinCount": 5,
           "specificItemMaxCount": 0
@@ -81657,7 +81657,7 @@
           "playerProgressOfferType": "LastHeroAscension",
           "duration": "1天",
           "timeToTrigger": 604800,
-          "element": "蓝",
+          "element": "Blue",
           "specificItemId": "hero_farsight_telescope",
           "specificItemMinCount": 3,
           "specificItemMaxCount": 4
@@ -81676,7 +81676,7 @@
           "playerProgressOfferType": "LastHeroAscension",
           "duration": "1天",
           "timeToTrigger": 604800,
-          "element": "蓝",
+          "element": "Blue",
           "specificItemId": "hero_farsight_telescope",
           "specificItemMinCount": 0,
           "specificItemMaxCount": 2
@@ -81695,7 +81695,7 @@
           "playerProgressOfferType": "LastHeroAscension",
           "duration": "1天",
           "timeToTrigger": 604800,
-          "element": "黄",
+          "element": "Yellow",
           "specificItemId": "hero_poison_darts",
           "specificItemMinCount": 5,
           "specificItemMaxCount": 0
@@ -81714,7 +81714,7 @@
           "playerProgressOfferType": "LastHeroAscension",
           "duration": "1天",
           "timeToTrigger": 604800,
-          "element": "黄",
+          "element": "Yellow",
           "specificItemId": "hero_poison_darts",
           "specificItemMinCount": 3,
           "specificItemMaxCount": 4
@@ -81733,7 +81733,7 @@
           "playerProgressOfferType": "LastHeroAscension",
           "duration": "1天",
           "timeToTrigger": 604800,
-          "element": "黄",
+          "element": "Yellow",
           "specificItemId": "hero_poison_darts",
           "specificItemMinCount": 0,
           "specificItemMaxCount": 2
@@ -81752,7 +81752,7 @@
           "playerProgressOfferType": "LastHeroAscension",
           "duration": "1天",
           "timeToTrigger": 604800,
-          "element": "紫",
+          "element": "Purple",
           "specificItemId": "hero_royal_tabard",
           "specificItemMinCount": 5,
           "specificItemMaxCount": 0
@@ -81771,7 +81771,7 @@
           "playerProgressOfferType": "LastHeroAscension",
           "duration": "1天",
           "timeToTrigger": 604800,
-          "element": "紫",
+          "element": "Purple",
           "specificItemId": "hero_royal_tabard",
           "specificItemMinCount": 3,
           "specificItemMaxCount": 4
@@ -81790,7 +81790,7 @@
           "playerProgressOfferType": "LastHeroAscension",
           "duration": "1天",
           "timeToTrigger": 604800,
-          "element": "紫",
+          "element": "Purple",
           "specificItemId": "hero_royal_tabard",
           "specificItemMinCount": 0,
           "specificItemMaxCount": 2

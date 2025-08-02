@@ -67532,7 +67532,7 @@
                   0,
                   0
                 ],
-                "element": "红",
+                "element": "Red",
                 "buildingLevel": 5,
                 "researchCost": {
                   "food": 36700
@@ -67560,7 +67560,7 @@
                   0,
                   0
                 ],
-                "element": "蓝",
+                "element": "Blue",
                 "buildingLevel": 6,
                 "researchCost": {
                   "food": 57900
@@ -67588,7 +67588,7 @@
                   0,
                   0
                 ],
-                "element": "绿",
+                "element": "Green",
                 "buildingLevel": 7,
                 "researchCost": {
                   "food": 85300
@@ -67616,7 +67616,7 @@
                   0,
                   0
                 ],
-                "element": "紫",
+                "element": "Purple",
                 "buildingLevel": 8,
                 "researchCost": {
                   "food": 119000
@@ -67644,7 +67644,7 @@
                   0,
                   0
                 ],
-                "element": "黄",
+                "element": "Yellow",
                 "buildingLevel": 9,
                 "researchCost": {
                   "food": 166000
@@ -67781,7 +67781,7 @@
                   0,
                   0
                 ],
-                "element": "红",
+                "element": "Red",
                 "buildingLevel": 14,
                 "researchCost": {
                   "food": 509000
@@ -67808,7 +67808,7 @@
                   0,
                   0
                 ],
-                "element": "蓝",
+                "element": "Blue",
                 "buildingLevel": 15,
                 "researchCost": {
                   "food": 603000
@@ -67835,7 +67835,7 @@
                   0,
                   0
                 ],
-                "element": "绿",
+                "element": "Green",
                 "buildingLevel": 16,
                 "researchCost": {
                   "food": 708000
@@ -67862,7 +67862,7 @@
                   0,
                   0
                 ],
-                "element": "紫",
+                "element": "Purple",
                 "buildingLevel": 17,
                 "researchCost": {
                   "food": 822000
@@ -67889,7 +67889,7 @@
                   0,
                   0
                 ],
-                "element": "黄",
+                "element": "Yellow",
                 "buildingLevel": 18,
                 "researchCost": {
                   "food": 945000
@@ -68045,7 +68045,7 @@
                   0,
                   0
                 ],
-                "element": "红",
+                "element": "Red",
                 "buildingLevel": 3,
                 "researchCost": {
                   "fish": 104220
@@ -68078,7 +68078,7 @@
                   0,
                   0
                 ],
-                "element": "蓝",
+                "element": "Blue",
                 "buildingLevel": 4,
                 "researchCost": {
                   "fish": 153540
@@ -68111,7 +68111,7 @@
                   0,
                   0
                 ],
-                "element": "绿",
+                "element": "Green",
                 "buildingLevel": 5,
                 "researchCost": {
                   "fish": 214200
@@ -68144,7 +68144,7 @@
                   0,
                   0
                 ],
-                "element": "紫",
+                "element": "Purple",
                 "buildingLevel": 6,
                 "researchCost": {
                   "fish": 298800
@@ -68177,7 +68177,7 @@
                   0,
                   0
                 ],
-                "element": "黄",
+                "element": "Yellow",
                 "buildingLevel": 7,
                 "researchCost": {
                   "fish": 387000
@@ -69546,11 +69546,11 @@
             "trainingTimeSkipPrice": 290,
             "rare": false,
             "includedExtraHeroes": [
-              "沃德尼克",
-              "波肯",
-              "蝙蝠守护者",
-              "灌木熊",
-              "皮格茜"
+              "pirate_vodnik",
+              "knights_bauchan",
+              "guardian_bat",
+              "wonderland_bear",
+              "fables_pixie"
             ]
           },
           {
@@ -69640,16 +69640,16 @@
             "trainingTimeSkipPrice": 1100,
             "rare": false,
             "includedExtraHeroes": [
-              "皮特斯",
-              "炸弹魔",
-              "梅林",
-              "兰斯洛特爵士",
-              "飞鹰守护者",
-              "豺狼守护者",
-              "方块上尉",
-              "柴郡猫",
-              "格蕾特",
-              "韩塞尔"
+              "pirate_cabin_boy",
+              "pirate_first_mate",
+              "knights_merlin",
+              "knights_sir_lancelot",
+              "guardian_falcon_priest",
+              "guardian_jackal_assassin",
+              "wonderland_captain",
+              "wonderland_cheshire_cat",
+              "fables_gretel",
+              "fables_hansel"
             ]
           },
           {
@@ -69706,54 +69706,54 @@
             "eventHeroChancePerMil": 50,
             "costumeChancePerMil": 50,
             "includedExtraHeroes": [
-              "科斯特雷尔船长",
-              "洛克小姐",
-              "马尾藻",
-              "狼老大",
-              "小红帽",
-              "龙佩尔斯迪尔钦",
-              "黑豹守护者",
-              "猫头鹰守护者",
-              "金刚守护者",
-              "桂妮维亚",
-              "亚瑟王",
-              "摩根勒菲",
-              "塔拉克",
-              "巨齿鲨",
-              "米桑德拉",
-              "光子",
-              "稻荷",
-              "影血",
-              "阿多莫斯",
-              "爱丽儿",
-              "波塞冬",
-              "尤塞娜",
-              "爱丽丝",
-              "红桃王后",
-              "疯帽子",
-              "拉娜",
-              "尤纳恩",
-              "罗克",
-              "维克托",
-              "凡达",
-              "弗朗辛",
-              "圣诞老人",
-              "北方之母",
-              "克朗普斯",
-              "潘吉先生",
-              "杀戮野兔",
-              "天兔大师",
-              "咕咕鸡先生",
-              "贾斯珀",
-              "亚奇",
-              "奥古斯都",
-              "金丝儿",
-              "薄荷",
-              "阿鲁卡多",
-              "米丽安与午夜",
-              "玛蒂尔达",
-              "伊尔玛利宁",
-              "娄希"
+              "pirate_swashbuckler",
+              "pirate_lady",
+              "pirate_dread_captain",
+              "fables_boss_wolf",
+              "fables_red_hood",
+              "fables_rumpelstiltskin",
+              "guardian_cat_warrior",
+              "guardian_owl_gentleman",
+              "guardian_gorilla_chieftain",
+              "knights_guinevere",
+              "knights_king_arthur",
+              "knights_morgan_le_fay",
+              "s2_junglehunter",
+              "s2_hammerhead_hulk",
+              "s2_mercenary_woman",
+              "s2_noble_lady",
+              "s2_fox_girl",
+              "s2_cursed_samurai",
+              "s2_skyllaros",
+              "s2_ariel",
+              "s2_poseidon",
+              "s2_ursena",
+              "wonderland_alice",
+              "wonderland_queen",
+              "wonderland_hatter",
+              "sand_queen",
+              "sand_king",
+              "sand_roc",
+              "vampire_king",
+              "halloween_vanda",
+              "halloween_francine",
+              "christmas_santa",
+              "christmas_mrs_claus",
+              "christmas_krampus",
+              "christmas_mr_pengi",
+              "easter_killhare",
+              "rabbit_blue",
+              "easter_sir_roostley",
+              "easter_jasper",
+              "easter_archie",
+              "christmas_augustus",
+              "christmas_tinsel",
+              "christmas_peppermint",
+              "halloween_alucard",
+              "halloween_miriam_and_midnight",
+              "halloween_matilda",
+              "kalevala_ilmarinen",
+              "kalevala_louhi"
             ]
           }
         ],
@@ -70291,7 +70291,7 @@
           {
             "id": "common_red",
             "rarity": 1,
-            "element": "红",
+            "element": "Red",
             "cost": {
               "food": 100,
               "iron": 200,
@@ -70307,7 +70307,7 @@
           {
             "id": "common_blue",
             "rarity": 1,
-            "element": "蓝",
+            "element": "Blue",
             "cost": {
               "food": 100,
               "iron": 200,
@@ -70323,7 +70323,7 @@
           {
             "id": "common_green",
             "rarity": 1,
-            "element": "绿",
+            "element": "Green",
             "cost": {
               "food": 100,
               "iron": 200,
@@ -70339,7 +70339,7 @@
           {
             "id": "common_yellow",
             "rarity": 1,
-            "element": "黄",
+            "element": "Yellow",
             "cost": {
               "food": 100,
               "iron": 200,
@@ -70355,7 +70355,7 @@
           {
             "id": "common_purple",
             "rarity": 1,
-            "element": "紫",
+            "element": "Purple",
             "cost": {
               "food": 100,
               "iron": 200,
@@ -70371,7 +70371,7 @@
           {
             "id": "uncommon_red",
             "rarity": 2,
-            "element": "红",
+            "element": "Red",
             "cost": {
               "food": 200,
               "iron": 400,
@@ -70387,7 +70387,7 @@
           {
             "id": "uncommon_blue",
             "rarity": 2,
-            "element": "蓝",
+            "element": "Blue",
             "cost": {
               "food": 200,
               "iron": 400,
@@ -70403,7 +70403,7 @@
           {
             "id": "uncommon_green",
             "rarity": 2,
-            "element": "绿",
+            "element": "Green",
             "cost": {
               "food": 200,
               "iron": 400,
@@ -70419,7 +70419,7 @@
           {
             "id": "uncommon_yellow",
             "rarity": 2,
-            "element": "黄",
+            "element": "Yellow",
             "cost": {
               "food": 200,
               "iron": 400,
@@ -70435,7 +70435,7 @@
           {
             "id": "uncommon_purple",
             "rarity": 2,
-            "element": "紫",
+            "element": "Purple",
             "cost": {
               "food": 200,
               "iron": 400,
@@ -70451,7 +70451,7 @@
           {
             "id": "rare_red",
             "rarity": 3,
-            "element": "红",
+            "element": "Red",
             "cost": {
               "food": 5000,
               "iron": 1233,
@@ -70467,7 +70467,7 @@
           {
             "id": "rare_blue",
             "rarity": 3,
-            "element": "蓝",
+            "element": "Blue",
             "cost": {
               "food": 5000,
               "iron": 1233,
@@ -70483,7 +70483,7 @@
           {
             "id": "rare_green",
             "rarity": 3,
-            "element": "绿",
+            "element": "Green",
             "cost": {
               "food": 5000,
               "iron": 1233,
@@ -70499,7 +70499,7 @@
           {
             "id": "rare_yellow",
             "rarity": 3,
-            "element": "黄",
+            "element": "Yellow",
             "cost": {
               "food": 5000,
               "iron": 1233,
@@ -70515,7 +70515,7 @@
           {
             "id": "rare_purple",
             "rarity": 3,
-            "element": "紫",
+            "element": "Purple",
             "cost": {
               "food": 5000,
               "iron": 1233,
@@ -70531,7 +70531,7 @@
           {
             "id": "epic_red",
             "rarity": 4,
-            "element": "红",
+            "element": "Red",
             "cost": {
               "food": 200,
               "iron": 400,
@@ -70547,7 +70547,7 @@
           {
             "id": "epic_blue",
             "rarity": 4,
-            "element": "蓝",
+            "element": "Blue",
             "cost": {
               "food": 200,
               "iron": 400,
@@ -70563,7 +70563,7 @@
           {
             "id": "epic_green",
             "rarity": 4,
-            "element": "绿",
+            "element": "Green",
             "cost": {
               "food": 200,
               "iron": 400,
@@ -70579,7 +70579,7 @@
           {
             "id": "epic_yellow",
             "rarity": 4,
-            "element": "黄",
+            "element": "Yellow",
             "cost": {
               "food": 200,
               "iron": 400,
@@ -70595,7 +70595,7 @@
           {
             "id": "epic_purple",
             "rarity": 4,
-            "element": "紫",
+            "element": "Purple",
             "cost": {
               "food": 200,
               "iron": 400,
@@ -70611,7 +70611,7 @@
           {
             "id": "legendary_red",
             "rarity": 5,
-            "element": "红",
+            "element": "Red",
             "cost": {
               "food": 200,
               "iron": 400,
@@ -70627,7 +70627,7 @@
           {
             "id": "legendary_green",
             "rarity": 5,
-            "element": "绿",
+            "element": "Green",
             "cost": {
               "food": 200,
               "iron": 400,
@@ -70643,7 +70643,7 @@
           {
             "id": "legendary_blue",
             "rarity": 5,
-            "element": "蓝",
+            "element": "Blue",
             "cost": {
               "food": 200,
               "iron": 400,
@@ -70659,7 +70659,7 @@
           {
             "id": "legendary_yellow",
             "rarity": 5,
-            "element": "绿",
+            "element": "Green",
             "cost": {
               "food": 200,
               "iron": 400,
@@ -70675,7 +70675,7 @@
           {
             "id": "legendary_purple",
             "rarity": 5,
-            "element": "绿",
+            "element": "Green",
             "cost": {
               "food": 200,
               "iron": 400,
@@ -71042,35 +71042,35 @@
             "supportType": "TileEnhancement",
             "id": "tile_enhancement_red",
             "tileEnhancementId": "war_attack_modifier",
-            "element": "红",
+            "element": "Red",
             "sideAffected": "Enemies"
           },
           {
             "supportType": "TileEnhancement",
             "id": "tile_enhancement_green",
             "tileEnhancementId": "war_attack_modifier",
-            "element": "绿",
+            "element": "Green",
             "sideAffected": "Enemies"
           },
           {
             "supportType": "TileEnhancement",
             "id": "tile_enhancement_blue",
             "tileEnhancementId": "war_attack_modifier",
-            "element": "蓝",
+            "element": "Blue",
             "sideAffected": "Enemies"
           },
           {
             "supportType": "TileEnhancement",
             "id": "tile_enhancement_yellow",
             "tileEnhancementId": "war_attack_modifier",
-            "element": "黄",
+            "element": "Yellow",
             "sideAffected": "Enemies"
           },
           {
             "supportType": "TileEnhancement",
             "id": "tile_enhancement_purple",
             "tileEnhancementId": "war_attack_modifier",
-            "element": "紫",
+            "element": "Purple",
             "sideAffected": "Enemies"
           },
           {
