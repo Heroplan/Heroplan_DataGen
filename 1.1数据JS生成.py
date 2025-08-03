@@ -904,7 +904,7 @@ def append_missing_heroes_to_extra_data(missing_heroes_list, file_path):
         processed_names_this_run.add(name)
         blank_entries.append({
             "name": name,
-            "element": hero_info.get("color", ""),
+            "element": hero_info.get("color", "").capitalize(),
             "rarity": hero_info.get("star", 0),
             "fancy name": "",
             "Release date": "",

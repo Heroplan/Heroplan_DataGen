@@ -27528,5 +27528,23 @@ window.allHeroesExtra = [
         "baseDefense": 564,
         "baseHealth": 999,
         "specialId": "autumnal_wind"
+    },
+    {
+        "name": "Sun Erniang",
+        "element": "Green",
+        "rarity": 5,
+        "fancy name": "Strong Star of Water Margin",
+        "Release date": "2025-08-02",
+        "AetherPower": "Attack Up",
+        "skill_types": [
+            "AoE Attackers (Hit-5)",
+            "Effect Duration Resetters",
+            "DoT Attackers",
+            "Extra Damage Dealers"
+        ],
+        "baseAttack": 622,
+        "baseDefense": 595,
+        "baseHealth": 1071,
+        "specialId": "vicious_trap"
     }
 ];
